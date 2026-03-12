@@ -1,16 +1,16 @@
 ---
-title: rob
+title: Robyn
 wiki_slug: rob
 schema_version: 2
 status: active
-birth_place: Stockholm, Sweden
+birth_place: 'Stockholm, Sweden, Sweden'
 genres:
-- swedish pop
+  - swedish pop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/rob.jpg
   caption: rob
   background: solo_singer
-  origin: Stockholm, Sweden
+  origin: 'Stockholm, Sweden'
 audio_profile:
   tempo_avg: 121.9
   energy_avg: 0.774
@@ -26,47 +26,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Röyksopp
-  - La Bagatelle Magique
-  - Christian Falk
-  - Neneh Cherry
+    - Röyksopp
+    - La Bagatelle Magique
+    - Christian Falk
+    - Neneh Cherry
   influenced:
-  - Lorde
-  - Carly Rae Jepsen
-  - Tove Lo
+    - Lorde
+    - Carly Rae Jepsen
+    - Tove Lo
   mentors:
-  - Meja
-  - Max Martin
-  - Denniz Pop
+    - Meja
+    - Max Martin
+    - Denniz Pop
 spotify_data:
   followers: 884417
   id: 6UE7nl9mha6s8z0wFQFIZ2
   popularity: 63
-  url: https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2
+  url: 'https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2'
 discography_enriched: true
 top_tracks:
-- Dancing On My Own (Body Talk)
-- Dancing On My Own - Radio Edit (Body Talk)
-- 360 featuring robyn & yung lean (Brat and it’s completely different but also still brat)
-- Life
-- Dancing On My Own (Body Talk Pt. 1)
-- Life (In Waves)
-- Dancing on My Own (Body Talk, Pt.1)
-- Show Me Love - Radio Version
-- 360 featuring robyn & yung lean (Brat and it’s completely different but also still brat)
-- Call Your Girlfriend (Body Talk)
+  - Dancing On My Own (Body Talk)
+  - Dancing On My Own - Radio Edit (Body Talk)
+  - >-
+    360 featuring robyn & yung lean (Brat and it’s completely different but also
+    still brat)
+  - Life
+  - Dancing On My Own (Body Talk Pt. 1)
+  - Life (In Waves)
+  - 'Dancing on My Own (Body Talk, Pt.1)'
+  - Show Me Love - Radio Version
+  - >-
+    360 featuring robyn & yung lean (Brat and it’s completely different but also
+    still brat)
+  - Call Your Girlfriend (Body Talk)
 external_urls:
-  spotify: https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2
-  wikipedia: https://en.wikipedia.org/wiki/Robyn
+  spotify: 'https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2'
+  wikipedia: 'https://en.wikipedia.org/wiki/Robyn'
 image_path: 03_Resources/source_material/ArtistPortraits/rob.jpg
 biography_enhanced_at: '2025-11-16T20:20:11.691194'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Robyn
+  - 'https://en.wikipedia.org/wiki/Robyn'
 network_extracted: true
 entry_created: '2025-11-16T20:20:11.691205'
 last_updated: '2025-12-23T08:16:14.868848'
+birth_date: '1979-06-12'
+artist_type: person
 ---
 
 ![](rob.jpg)

@@ -1,25 +1,25 @@
 ---
-title: bull city red
+title: Bull City Red
 wiki_slug: bull-city-red
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1917-02-19'
-birth_place: Durham
+birth_place: 'Indiantown, South Carolina, United States'
 death_date: 1958-10
 genres:
-- country blues
-- blues
-- ragtime
+  - country blues
+  - blues
+  - ragtime
 instruments:
-- original
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - original
-  mbid: 1a7b7662-aa1b-48d5-a0c0-01fb0790662a
-  name: Brother George & His Sanctified Singers
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 1a7b7662-aa1b-48d5-a0c0-01fb0790662a
+    name: Brother George & His Sanctified Singers
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bull_city_red.jpg
   caption: bull city red
@@ -34,7 +34,7 @@ audio_profile:
   danceability_avg: 0.591
   acousticness_avg: 0.98
   instrumentalness_avg: 0.275
-  loudness_avg: -13.0
+  loudness_avg: -13
   speechiness_avg: 0.062
   liveness_avg: 0.192
   track_count: 50
@@ -42,52 +42,68 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Blind Boy Fuller
-  - Blind Gary Davis
-  - Sonny Terry
+    - Blind Boy Fuller
+    - Blind Gary Davis
+    - Sonny Terry
   influenced: []
   mentors:
-  - J. B. Long
+    - J. B. Long
 spotify_data:
   followers: 254
   id: 12nyKCkMVZ6bvIVEh17fPM
   popularity: 0
-  url: https://open.spotify.com/artist/12nyKCkMVZ6bvIVEh17fPM
+  url: 'https://open.spotify.com/artist/12nyKCkMVZ6bvIVEh17fPM'
 discography_enriched: true
 top_tracks:
-- I Saw the Light (Oh Red Collected Recordings)
-- I Saw the Light (Everybody Rides in Jesus' Name (The Very Best of Gospel, Blues and Spirituals 1920s - 1940s))
-- 'I Saw the Light (Gospel, Vol. 3: Guitar Evangelists and Bluesmen 1927-1944)'
-- I See the Sign of Judgement (The Very Best of American Religious Songs (1909 - 1948))
-- 'What''s That Smell Like Fish (Matchbox Bluesmaster Series, Vol. 10: Home Town Skiffle)'
-- 'Get Your Yas-Yas Out (Matchbox Bluesmaster Series, Vol. 10: Home Town Skiffle)'
-- 'Mississippi River (Matchbox Bluesmaster Series, Vol. 10: Home Town Skiffle)'
-- 'Pick and Shovel Blues (Matchbox Bluesmaster Series, Vol. 10: Home Town Skiffle)'
-- 'I''m a Black Woman''s Man (Matchbox Bluesmaster Series, Vol. 10: Home Town Skiffle)'
-- 'Got to Find My Little Woman (Matchbox Bluesmaster Series, Vol. 10: Home Town Skiffle)'
+  - I Saw the Light (Oh Red Collected Recordings)
+  - >-
+    I Saw the Light (Everybody Rides in Jesus' Name (The Very Best of Gospel,
+    Blues and Spirituals 1920s - 1940s))
+  - 'I Saw the Light (Gospel, Vol. 3: Guitar Evangelists and Bluesmen 1927-1944)'
+  - >-
+    I See the Sign of Judgement (The Very Best of American Religious Songs (1909
+    - 1948))
+  - >-
+    What's That Smell Like Fish (Matchbox Bluesmaster Series, Vol. 10: Home Town
+    Skiffle)
+  - >-
+    Get Your Yas-Yas Out (Matchbox Bluesmaster Series, Vol. 10: Home Town
+    Skiffle)
+  - 'Mississippi River (Matchbox Bluesmaster Series, Vol. 10: Home Town Skiffle)'
+  - >-
+    Pick and Shovel Blues (Matchbox Bluesmaster Series, Vol. 10: Home Town
+    Skiffle)
+  - >-
+    I'm a Black Woman's Man (Matchbox Bluesmaster Series, Vol. 10: Home Town
+    Skiffle)
+  - >-
+    Got to Find My Little Woman (Matchbox Bluesmaster Series, Vol. 10: Home Town
+    Skiffle)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/98452b79-5c2b-4e1c-9bb8-ff9592c2a061
-  spotify: https://open.spotify.com/artist/12nyKCkMVZ6bvIVEh17fPM
-  wikipedia: https://en.wikipedia.org/wiki/Bull_City_Red
+  musicbrainz: 'https://musicbrainz.org/artist/98452b79-5c2b-4e1c-9bb8-ff9592c2a061'
+  spotify: 'https://open.spotify.com/artist/12nyKCkMVZ6bvIVEh17fPM'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bull_City_Red'
 image_path: 03_Resources/source_material/ArtistPortraits/bull_city_red.jpg
 biography_enhanced_at: '2025-11-28T07:37:23.706270'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Bull_City_Red
-- https://sentirelblues.blogspot.com/2018/09/bull-city-red.html
-- https://alchetron.com/Bull-City-Red
-- https://www.last.fm/music/Bull+City+Red
-- https://en.namu.wiki/w/%EB%B6%88%20%EC%8B%9C%ED%8B%B0%20%EB%A0%88%EB%93%9C
-- https://www.allmusic.com/artist/bull-city-red-mn0000940217
-- https://www.theassemblync.com/culture/durham-piedmont-blues/
-- https://www.dncr.nc.gov/blog/2023/12/20/bull-city-blues-g-85
+  - 'https://en.wikipedia.org/wiki/Bull_City_Red'
+  - 'https://sentirelblues.blogspot.com/2018/09/bull-city-red.html'
+  - 'https://alchetron.com/Bull-City-Red'
+  - 'https://www.last.fm/music/Bull+City+Red'
+  - 'https://en.namu.wiki/w/%EB%B6%88%20%EC%8B%9C%ED%8B%B0%20%EB%A0%88%EB%93%9C'
+  - 'https://www.allmusic.com/artist/bull-city-red-mn0000940217'
+  - 'https://www.theassemblync.com/culture/durham-piedmont-blues/'
+  - 'https://www.dncr.nc.gov/blog/2023/12/20/bull-city-blues-g-85'
 network_extracted: true
 entry_created: '2025-11-28T07:37:23.706292'
 last_updated: '2025-12-23T08:16:06.256468'
 disambiguation: aka George Washington
 gender: Male
 musicbrainz_id: 98452b79-5c2b-4e1c-9bb8-ff9592c2a061
+is_active: false
+origin: 'Durham, North Carolina, United States'
 ---
 
 ![](bull_city_red.jpg)

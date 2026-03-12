@@ -1,102 +1,103 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9a90ad42-8d94-4739-ad9b-71c2f24ab238
-  name: Milt Jackson & His Gold Medal Winners
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0357c427-d302-4d55-b726-6519505d4d10
-  name: The Heath Brothers
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 2b120fde-72b0-4ab0-915e-8678e10b1467
-  name: The Jimmy Heath Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  - soprano saxophone
-  - tenor saxophone
-  mbid: 38d4d623-e4f7-40a7-bdd5-050bf5fc1600
-  name: Jimmy Heath Big Band
-- begin: ''
-  end: ''
-  instruments:
-  - tenor saxophone
-  mbid: 67ebc9ae-ff66-4a25-bf04-119f6405d399
-  name: Clark Terry’s Big‐B‐A‐D‐Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: fd0e891f-7bcd-4fcd-8d11-29c712d23539
-  name: The Riverside Jazz Stars
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9a90ad42-8d94-4739-ad9b-71c2f24ab238
+    name: Milt Jackson & His Gold Medal Winners
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0357c427-d302-4d55-b726-6519505d4d10
+    name: The Heath Brothers
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 2b120fde-72b0-4ab0-915e-8678e10b1467
+    name: The Jimmy Heath Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - soprano saxophone
+      - tenor saxophone
+    mbid: 38d4d623-e4f7-40a7-bdd5-050bf5fc1600
+    name: Jimmy Heath Big Band
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: 67ebc9ae-ff66-4a25-bf04-119f6405d399
+    name: Clark Terry’s Big‐B‐A‐D‐Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: fd0e891f-7bcd-4fcd-8d11-29c712d23539
+    name: The Riverside Jazz Stars
 biography_enhanced_at: '2026-01-02T01:23:26.401434'
 birth_date: '1926-10-25'
-birth_place: Philadelphia
+birth_place: 'Philadelphia, Pennsylvania, United States'
 death_date: '2020-01-19'
 enhancement_provider: perplexity
 entry_created: '2026-01-02T01:23:26.401439'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/29c8775b-49a7-4c5a-af85-478ff25a56bb
-  spotify: https://open.spotify.com/artist/5GX8UFlG4vXVXDv8KqDLvk
-  wikipedia: https://en.wikipedia.org/wiki/Jimmy_Heath
+  musicbrainz: 'https://musicbrainz.org/artist/29c8775b-49a7-4c5a-af85-478ff25a56bb'
+  spotify: 'https://open.spotify.com/artist/5GX8UFlG4vXVXDv8KqDLvk'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jimmy_Heath'
 gender: Male
 genres:
-- hard bop
-- bebop
-- jazz
+  - hard bop
+  - bebop
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/jimmy_heath.jpg
 instruments:
-- eponymous
-- original
-- soprano saxophone
-- tenor saxophone
+  - eponymous
+  - original
+  - soprano saxophone
+  - tenor saxophone
 last_updated: '2026-01-02T01:23:26.401440'
 musical_connections:
   collaborators:
-  - John Coltrane
-  - Benny Golson
-  - Percy Heath
-  - Albert 'Tootie' Heath
-  - Milt Jackson
-  - Art Farmer
-  - Miles Davis
+    - John Coltrane
+    - Benny Golson
+    - Percy Heath
+    - Albert 'Tootie' Heath
+    - Milt Jackson
+    - Art Farmer
+    - Miles Davis
   influenced:
-  - John Coltrane
-  - Benny Golson
+    - John Coltrane
+    - Benny Golson
   mentors:
-  - Charlie Parker
-  - Dizzy Gillespie
+    - Charlie Parker
+    - Dizzy Gillespie
 musicbrainz_id: 29c8775b-49a7-4c5a-af85-478ff25a56bb
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.thehistorymakers.org/biography/jimmy-heath
-- https://www.arts.gov/honors/jazz/jimmy-heath
-- https://en.wikipedia.org/wiki/Jimmy_Heath
-- https://concord.com/artist/jimmy-heath/
-- https://jazztimes.com/features/profiles/jimmy-heath-the-endless-search/
-- https://www.sdpb.org/behind-the-beat/2020-01-24/remembering-saxophonist-jimmy-heath
+  - 'https://www.thehistorymakers.org/biography/jimmy-heath'
+  - 'https://www.arts.gov/honors/jazz/jimmy-heath'
+  - 'https://en.wikipedia.org/wiki/Jimmy_Heath'
+  - 'https://concord.com/artist/jimmy-heath/'
+  - 'https://jazztimes.com/features/profiles/jimmy-heath-the-endless-search/'
+  - >-
+    https://www.sdpb.org/behind-the-beat/2020-01-24/remembering-saxophonist-jimmy-heath
 spotify_data:
   followers: 13615
   id: 5GX8UFlG4vXVXDv8KqDLvk
   popularity: 30
-  url: https://open.spotify.com/artist/5GX8UFlG4vXVXDv8KqDLvk
+  url: 'https://open.spotify.com/artist/5GX8UFlG4vXVXDv8KqDLvk'
 status: active
 tags:
-- bebop
-- hard bop
-- jazz
+  - bebop
+  - hard bop
+  - jazz
 title: Jimmy Heath
-
+is_active: false
 ---
 
 ![](jimmy_heath.jpg)

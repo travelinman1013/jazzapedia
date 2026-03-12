@@ -4,22 +4,22 @@ wiki_slug: john-lurie
 schema_version: 2
 status: active
 also_known_as:
-- Марвин Понтиак
+  - Марвин Понтиак
 aliases:
-- Марвин Понтиак
+  - Марвин Понтиак
 birth_date: '1952-12-14'
-birth_place: Minneapolis
+birth_place: 'Minneapolis, Minnesota, United States'
 years_active: 1978–present
 genres: []
 instruments:
-- saxophone
-- alto saxophone
+  - saxophone
+  - alto saxophone
 occupation:
-- actor
-- painter
-- saxophonist
-- director
-- composer
+  - actor
+  - painter
+  - saxophonist
+  - director
+  - composer
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/John_Lurie.jpg
   caption: John Lurie
@@ -44,31 +44,39 @@ spotify_data:
   followers: 23914
   id: 2jCjj3atiDT70VeEshQbOr
   popularity: 30
-  url: https://open.spotify.com/artist/2jCjj3atiDT70VeEshQbOr
+  url: 'https://open.spotify.com/artist/2jCjj3atiDT70VeEshQbOr'
   verified: false
 discography_enriched: true
 albums_count: 5
 singles_count: 0
 top_tracks:
-- Small Car (Painting with John (Music from the Original TV Series))
-- AI AI AI AI (African Swim and Manny & Lo - Two Film Scores By John Lurie)
-- Horse Guitar (Fishing With John - Original Music From The Series By John Lurie)
-- Tuesday Night In Memphis (Mystery Train (Original Motion Picture Soundtrack))
-- Big Trouble (African Swim and Manny & Lo - Two Film Scores By John Lurie)
-- Men Working (African Swim and Manny & Lo - Two Film Scores By John Lurie)
-- Sex With AI (African Swim and Manny & Lo - Two Film Scores By John Lurie)
-- Chaucer Street (Mystery Train (Original Motion Picture Soundtrack))
-- Bella By Barlight (Stranger Than Paradise - Plus The Resurrection Of Albert Ayler)
-- What Do You Know About Music, You're Not A Lawyer (Down By Law & Variety)
+  - Small Car (Painting with John (Music from the Original TV Series))
+  - AI AI AI AI (African Swim and Manny & Lo - Two Film Scores By John Lurie)
+  - >-
+    Horse Guitar (Fishing With John - Original Music From The Series By John
+    Lurie)
+  - >-
+    Tuesday Night In Memphis (Mystery Train (Original Motion Picture
+    Soundtrack))
+  - Big Trouble (African Swim and Manny & Lo - Two Film Scores By John Lurie)
+  - Men Working (African Swim and Manny & Lo - Two Film Scores By John Lurie)
+  - Sex With AI (African Swim and Manny & Lo - Two Film Scores By John Lurie)
+  - Chaucer Street (Mystery Train (Original Motion Picture Soundtrack))
+  - >-
+    Bella By Barlight (Stranger Than Paradise - Plus The Resurrection Of Albert
+    Ayler)
+  - 'What Do You Know About Music, You''re Not A Lawyer (Down By Law & Variety)'
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/2jCjj3atiDT70VeEshQbOr
-  wikipedia: https://en.wikipedia.org/wiki/John_Lurie
+  spotify: 'https://open.spotify.com/artist/2jCjj3atiDT70VeEshQbOr'
+  wikipedia: 'https://en.wikipedia.org/wiki/John_Lurie'
 image_path: 03_Resources/source_material/ArtistPortraits/John_Lurie.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-22T21:54:32.456109'
-entry_created: 2025-09-22 21:42:09.136168
+entry_created: 2025-09-22T21:42:09.136Z
 last_updated: '2025-12-23T08:16:02.631068'
+artist_type: person
+origin: 'New York City, New York, United States'
 ---
 
 ![](John_Lurie.jpg)

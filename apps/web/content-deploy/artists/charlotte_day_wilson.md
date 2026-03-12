@@ -5,13 +5,13 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1993'
-birth_place: Toronto
+birth_place: 'Toronto, Ontario, Canada'
 genres:
-- alternative r&b
+  - alternative r&b
 instruments:
-- piano
-- guitar
-- background vocals
+  - piano
+  - guitar
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/charlotte_day_wilson.jpg
   caption: Charlotte Day Wilson
@@ -33,53 +33,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - BADBADNOTGOOD (Matthew Tavares)
-  - Daniel Caesar
-  - River Tiber
-  - The Wayo
+    - BADBADNOTGOOD (Matthew Tavares)
+    - Daniel Caesar
+    - River Tiber
+    - The Wayo
   influenced:
-  - Emerging Toronto R&B and queer artists
+    - Emerging Toronto R&B and queer artists
   mentors:
-  - Unnamed classical piano teacher
-  - Aretha Franklin, Motown artists
+    - Unnamed classical piano teacher
+    - 'Aretha Franklin, Motown artists'
 spotify_data:
   followers: 291053
   id: 3GQboECxDT1xqPPWC30p7v
   popularity: 62
-  url: https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v
+  url: 'https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v'
 discography_enriched: true
 top_tracks:
-- Transform (feat. Charlotte Day Wilson) (Freudian)
-- What You Need (feat. Charlotte Day Wilson) (BUBBA)
-- Work
-- In Your Eyes (IV)
-- Still (feat. Charlotte Day Wilson) (TIMELESS)
-- Sleeper
-- I Can Only Whisper (feat. BADBADNOTGOOD) (ALPHA)
-- Mountains (ALPHA)
-- Danny’s Interlude (ALPHA)
-- Take Care of You (feat. Syd) (ALPHA)
+  - Transform (feat. Charlotte Day Wilson) (Freudian)
+  - What You Need (feat. Charlotte Day Wilson) (BUBBA)
+  - Work
+  - In Your Eyes (IV)
+  - Still (feat. Charlotte Day Wilson) (TIMELESS)
+  - Sleeper
+  - I Can Only Whisper (feat. BADBADNOTGOOD) (ALPHA)
+  - Mountains (ALPHA)
+  - Danny’s Interlude (ALPHA)
+  - Take Care of You (feat. Syd) (ALPHA)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a78f1671-3ebf-4822-b2bd-70ccc3088c2d
-  spotify: https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v
-  wikipedia: https://en.wikipedia.org/wiki/Charlotte_Day_Wilson
+  musicbrainz: 'https://musicbrainz.org/artist/a78f1671-3ebf-4822-b2bd-70ccc3088c2d'
+  spotify: 'https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v'
+  wikipedia: 'https://en.wikipedia.org/wiki/Charlotte_Day_Wilson'
 image_path: 03_Resources/source_material/ArtistPortraits/charlotte_day_wilson.jpg
 biography_enhanced_at: '2025-11-20T06:52:36.572242'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.thefader.com/2018/03/20/charlotte-day-wilson-stone-woman-interview-cdw-toronto
-- https://www.famousbirthdays.com/people/charlotte-wilson.html
-- https://www.complex.com/music/a/alex-narvaez/charlotte-day-wilson-northern-clutch
-- https://i-d.co/article/charlotte-day-wilson-interview/
-- https://beatroutemedia.com/charlotte-day-wilson/
+  - >-
+    https://www.thefader.com/2018/03/20/charlotte-day-wilson-stone-woman-interview-cdw-toronto
+  - 'https://www.famousbirthdays.com/people/charlotte-wilson.html'
+  - >-
+    https://www.complex.com/music/a/alex-narvaez/charlotte-day-wilson-northern-clutch
+  - 'https://i-d.co/article/charlotte-day-wilson-interview/'
+  - 'https://beatroutemedia.com/charlotte-day-wilson/'
 network_extracted: true
 entry_created: '2025-11-20T06:52:36.572249'
 last_updated: '2025-12-23T08:16:06.779865'
 gender: Female
 musicbrainz_id: a78f1671-3ebf-4822-b2bd-70ccc3088c2d
 tags:
-- alternative r&b
+  - alternative r&b
+origin: 'Toronto, Ontario, Canada'
 ---
 
 ![](charlotte_day_wilson.jpg)

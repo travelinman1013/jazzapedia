@@ -1,17 +1,17 @@
 ---
-title: candi staton
+title: Candi Staton
 wiki_slug: candi-staton
 schema_version: 2
 status: active
-birth_place: Hanceville, Cullman County, Alabama, United States
+birth_place: 'Hanceville, Cullman County, Alabama, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/candi_staton.jpg
   caption: candi staton
   background: solo_singer
-  origin: Hanceville, Cullman County, Alabama, United States
+  origin: 'Hanceville, Cullman County, Alabama, United States'
 audio_profile:
-  tempo_avg: 116.0
+  tempo_avg: 116
   energy_avg: 0.683
   valence_avg: 0.701
   danceability_avg: 0.7
@@ -25,55 +25,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Rick Hall / FAME Studios musicians
-  - Dave (David) Crawford
-  - The Mighty Majors
-  - The Source
-  - John Sussewell
-  - Jason Isbell
-  - John Paul White
+    - Rick Hall / FAME Studios musicians
+    - Dave (David) Crawford
+    - The Mighty Majors
+    - The Source
+    - John Sussewell
+    - Jason Isbell
+    - John Paul White
   influenced:
-  - Jason Isbell
-  - John Paul White
-  - Modern house and dance vocalists (various)
+    - Jason Isbell
+    - John Paul White
+    - Modern house and dance vocalists (various)
   mentors:
-  - Mahalia Jackson
-  - C. L. Franklin
-  - Rick Hall
+    - Mahalia Jackson
+    - C. L. Franklin
+    - Rick Hall
 spotify_data:
   followers: 127205
   id: 3S34Unhn5yRcaH5K9aU5Et
   popularity: 58
-  url: https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et
+  url: 'https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et'
 discography_enriched: true
 top_tracks:
-- Young Hearts Run Free (Young Hearts Run Free (US Internet Release))
-- You Got The Love - New Voyager Radio Edit
-- Young Hearts Run Free (2023 Edit)
-- Nights on Broadway (Music Speaks Louder Than Words)
-- Hallelujah Anyway - Larse Vocal
-- Young Hearts Run Free
-- You Got The Love - Now Voyager Radio Mix
-- He Called Me Baby (Stand By Your Man)
-- You Got The Love - Now Voyager Mix
-- Hallelujah Anyway - Larse VIP
+  - Young Hearts Run Free (Young Hearts Run Free (US Internet Release))
+  - You Got The Love - New Voyager Radio Edit
+  - Young Hearts Run Free (2023 Edit)
+  - Nights on Broadway (Music Speaks Louder Than Words)
+  - Hallelujah Anyway - Larse Vocal
+  - Young Hearts Run Free
+  - You Got The Love - Now Voyager Radio Mix
+  - He Called Me Baby (Stand By Your Man)
+  - You Got The Love - Now Voyager Mix
+  - Hallelujah Anyway - Larse VIP
 external_urls:
-  spotify: https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et
-  wikipedia: https://en.wikipedia.org/wiki/Candi_Staton
+  spotify: 'https://open.spotify.com/artist/3S34Unhn5yRcaH5K9aU5Et'
+  wikipedia: 'https://en.wikipedia.org/wiki/Candi_Staton'
 image_path: 03_Resources/source_material/ArtistPortraits/candi_staton.jpg
 biography_enhanced_at: '2025-12-19T01:51:03.050679'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Candi_Staton
-- https://www.last.fm/music/Candi+Staton/+wiki
-- https://www.alamhof.org/candistatonwhm
-- https://www.candi-staton.com/bio/
-- https://www.disco-disco.com/artists/candi.shtml
-- https://blackpast.org/african-american-history/staton-candi-1940/
+  - 'https://en.wikipedia.org/wiki/Candi_Staton'
+  - 'https://www.last.fm/music/Candi+Staton/+wiki'
+  - 'https://www.alamhof.org/candistatonwhm'
+  - 'https://www.candi-staton.com/bio/'
+  - 'https://www.disco-disco.com/artists/candi.shtml'
+  - 'https://blackpast.org/african-american-history/staton-candi-1940/'
 network_extracted: true
 entry_created: '2025-12-19T01:51:03.050699'
 last_updated: '2025-12-23T08:16:06.351247'
+birth_date: '1940-03-13'
+artist_type: person
 ---
 
 ![](candi_staton.jpg)

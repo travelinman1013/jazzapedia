@@ -3,22 +3,22 @@ title: Ricky Sebastian
 wiki_slug: ricky-sebastian
 schema_version: 2
 status: active
-birth_place: Opelousas, Louisiana, United States
+birth_place: 'Opelousas, Louisiana, United States'
 genres:
-- jazz fusion
+  - jazz fusion
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ricky_sebastian.jpg
   caption: Ricky Sebastian
   background: solo_singer
-  origin: Opelousas, Louisiana, United States
+  origin: 'Opelousas, Louisiana, United States'
 audio_profile:
-  tempo_avg: 110.0
+  tempo_avg: 110
   energy_avg: 0.555
   valence_avg: 0.562
   danceability_avg: 0.558
   acousticness_avg: 0.363
   instrumentalness_avg: 0.477
-  loudness_avg: -12.0
+  loudness_avg: -12
   speechiness_avg: 0.045
   liveness_avg: 0.112
   track_count: 11
@@ -26,64 +26,65 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Donald Harrison Jr.
-  - Bill Summers
-  - Steve Masakowski
-  - Randy Brecker
-  - Peter Martin
-  - Ron Carter
-  - John Scofield
-  - Michael Brecker
-  - Jaco Pastorius
-  - Dianne Reeves
-  - Charles Fambrough
-  - Los Hombres Calientes
-  - B.J. Crosby
-  - Tania Maria
+    - Donald Harrison Jr.
+    - Bill Summers
+    - Steve Masakowski
+    - Randy Brecker
+    - Peter Martin
+    - Ron Carter
+    - John Scofield
+    - Michael Brecker
+    - Jaco Pastorius
+    - Dianne Reeves
+    - Charles Fambrough
+    - Los Hombres Calientes
+    - B.J. Crosby
+    - Tania Maria
   influenced:
-  - Students of the UNO World Music Ensemble and Percussion Ensemble
-  - Drummers trained at Drummers Collective and The New School
-  - Readers of “Independence on the Drum Set”
+    - Students of the UNO World Music Ensemble and Percussion Ensemble
+    - Drummers trained at Drummers Collective and The New School
+    - Readers of “Independence on the Drum Set”
   mentors:
-  - Carl DeLeo
-  - Carl Schexnayder
-  - Ellis Marsalis
+    - Carl DeLeo
+    - Carl Schexnayder
+    - Ellis Marsalis
 spotify_data:
   followers: 30
   id: 4ctgsM3bMMBMHsQmxNrvlp
   popularity: 0
-  url: https://open.spotify.com/artist/4ctgsM3bMMBMHsQmxNrvlp
+  url: 'https://open.spotify.com/artist/4ctgsM3bMMBMHsQmxNrvlp'
 discography_enriched: true
 top_tracks:
-- Siba (Dan Gna)
-- Nem Um Talvez (Be Cool)
-- Caravan (The Spirit Within)
-- Dania (The Spirit Within)
-- One Step Up (The Spirit Within)
-- The Spirit Within (The Spirit Within)
-- Footprints (The Spirit Within)
-- One Finger Snap (The Spirit Within)
-- Finish Line (See You at The) (The Spirit Within)
-- Don't Trip the Monkey (The Spirit Within)
+  - Siba (Dan Gna)
+  - Nem Um Talvez (Be Cool)
+  - Caravan (The Spirit Within)
+  - Dania (The Spirit Within)
+  - One Step Up (The Spirit Within)
+  - The Spirit Within (The Spirit Within)
+  - Footprints (The Spirit Within)
+  - One Finger Snap (The Spirit Within)
+  - Finish Line (See You at The) (The Spirit Within)
+  - Don't Trip the Monkey (The Spirit Within)
 external_urls:
-  spotify: https://open.spotify.com/artist/4ctgsM3bMMBMHsQmxNrvlp
+  spotify: 'https://open.spotify.com/artist/4ctgsM3bMMBMHsQmxNrvlp'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/ricky_sebastian.jpg
 biography_enhanced_at: '2025-12-06T05:53:10.448497'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Ricky Sebastian official biography – rickysebastian.com/biography[1]
-- Ricky Sebastian Drum Lessons site – rickysebastian.com[3]
-- A Profile of New Orleans Jazz Drummer Ricky Sebastian – Greenie News[2]
-- 'Jazz Profile: Ricky Sebastian, a modern drumming master – Via Nola Vie[4]'
-- 'All About Jazz musician profile: Ricky Sebastian[5]'
-- 'STR Digital Records artist page: Ricky Sebastian – “The Spirit Within”[6]'
-- 'Louisiana Life event listing: Ricky Sebastian Quintet[7]'
-- 'Zildjian Drum Set Artist profile: Ricky Sebastian[8]'
+  - 'Ricky Sebastian official biography – rickysebastian.com/biography[1]'
+  - 'Ricky Sebastian Drum Lessons site – rickysebastian.com[3]'
+  - 'A Profile of New Orleans Jazz Drummer Ricky Sebastian – Greenie News[2]'
+  - 'Jazz Profile: Ricky Sebastian, a modern drumming master – Via Nola Vie[4]'
+  - 'All About Jazz musician profile: Ricky Sebastian[5]'
+  - 'STR Digital Records artist page: Ricky Sebastian – “The Spirit Within”[6]'
+  - 'Louisiana Life event listing: Ricky Sebastian Quintet[7]'
+  - 'Zildjian Drum Set Artist profile: Ricky Sebastian[8]'
 network_extracted: true
 entry_created: '2025-12-06T05:53:10.448557'
 last_updated: '2025-12-23T08:16:14.852578'
+artist_type: person
 ---
 
 ![](ricky_sebastian.jpg)

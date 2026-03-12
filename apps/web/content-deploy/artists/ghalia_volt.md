@@ -1,37 +1,37 @@
 ---
-title: ghalia volt
+title: Ghalia Volt
 wiki_slug: ghalia-volt
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1982-08-10'
-birth_place: Brussels, Belgium
+birth_place: 'Brussels, Belgium'
 genres:
-- blues rock
-- blues
-- modern blues
+  - blues rock
+  - blues
+  - modern blues
 instruments:
-- lead vocals
-- electric guitar
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - lead vocals
-  mbid: cf8b0661-d592-441f-9c1b-4c750c4935b8
-  name: Ghalia & Mama’s Boys
-- begin: ''
-  end: ''
-  instruments:
   - electric guitar
-  mbid: cf8b0661-d592-441f-9c1b-4c750c4935b8
-  name: Ghalia & Mama’s Boys
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: cf8b0661-d592-441f-9c1b-4c750c4935b8
+    name: Ghalia & Mama’s Boys
+  - begin: ''
+    end: ''
+    instruments:
+      - electric guitar
+    mbid: cf8b0661-d592-441f-9c1b-4c750c4935b8
+    name: Ghalia & Mama’s Boys
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ghalia_volt.jpg
   caption: ghalia volt
   background: solo_singer
   born: '1982-08-10'
-  origin: Brussels, Belgium
+  origin: 'Brussels, Belgium'
 audio_profile:
   tempo_avg: 124.3
   energy_avg: 0.705
@@ -47,52 +47,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Johnny Mastro & Mama's Boys
-  - Cody Dickinson
-  - Lightnin’ Malcolm
-  - Watermelon Slim
-  - David Catching
+    - Johnny Mastro & Mama's Boys
+    - Cody Dickinson
+    - Lightnin’ Malcolm
+    - Watermelon Slim
+    - David Catching
   influenced: []
   mentors:
-  - Johnny Mastro
-  - Cedric Burnside
+    - Johnny Mastro
+    - Cedric Burnside
 spotify_data:
   followers: 4654
   id: 5H41XLSIsy1UT4pmiO6UK9
   popularity: 11
-  url: https://open.spotify.com/artist/5H41XLSIsy1UT4pmiO6UK9
+  url: 'https://open.spotify.com/artist/5H41XLSIsy1UT4pmiO6UK9'
 discography_enriched: true
 top_tracks:
-- Hop on a Ride (Hop on a Ride)
-- Meet You Down the Road (Mississippi Blend)
-- Every Cloud (Shout Sister Shout)
-- It Ain't Bad (One Woman Band)
-- Shout Sister Shout (Shout Sister Shout)
-- Changes (Shout Sister Shout)
-- She's Holdin' You Back (Shout Sister Shout)
-- Last Minute Packer (One Woman Band)
-- Let the Demons Out (Let the Demons Out)
-- Evil Thoughts (One Woman Band)
+  - Hop on a Ride (Hop on a Ride)
+  - Meet You Down the Road (Mississippi Blend)
+  - Every Cloud (Shout Sister Shout)
+  - It Ain't Bad (One Woman Band)
+  - Shout Sister Shout (Shout Sister Shout)
+  - Changes (Shout Sister Shout)
+  - She's Holdin' You Back (Shout Sister Shout)
+  - Last Minute Packer (One Woman Band)
+  - Let the Demons Out (Let the Demons Out)
+  - Evil Thoughts (One Woman Band)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4432befd-755c-4de0-bd16-acc8287e52ff
-  spotify: https://open.spotify.com/artist/5H41XLSIsy1UT4pmiO6UK9
-  wikipedia: https://en.wikipedia.org/wiki/Ghalia_Volt
+  musicbrainz: 'https://musicbrainz.org/artist/4432befd-755c-4de0-bd16-acc8287e52ff'
+  spotify: 'https://open.spotify.com/artist/5H41XLSIsy1UT4pmiO6UK9'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ghalia_Volt'
 image_path: 03_Resources/source_material/ArtistPortraits/ghalia_volt.jpg
 biography_enhanced_at: '2025-11-08T21:56:42.029359'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Ghalia_Volt
-- https://wordpress.rufrecords.de/en/ghalia-e/
-- https://www.wcbe.org/podcast/music-journeys/2024-05-23/ghalia-volt-continues-crafting-her-own-sound
-- https://ghaliavolt.com/about/
-- https://jamandtoast.live/f/an-artist-you-should-know-ghalia-volt
-- https://www.americanbluesscene.com/2019/09/belgian-roots-musician-ghalia-offers-us-her-mississippi-blend/
+  - 'https://en.wikipedia.org/wiki/Ghalia_Volt'
+  - 'https://wordpress.rufrecords.de/en/ghalia-e/'
+  - >-
+    https://www.wcbe.org/podcast/music-journeys/2024-05-23/ghalia-volt-continues-crafting-her-own-sound
+  - 'https://ghaliavolt.com/about/'
+  - 'https://jamandtoast.live/f/an-artist-you-should-know-ghalia-volt'
+  - >-
+    https://www.americanbluesscene.com/2019/09/belgian-roots-musician-ghalia-offers-us-her-mississippi-blend/
 network_extracted: true
 entry_created: '2025-11-08T21:56:42.029375'
 last_updated: '2025-12-23T08:16:09.182373'
 gender: Female
 musicbrainz_id: 4432befd-755c-4de0-bd16-acc8287e52ff
+origin: 'Clarksdale, Mississippi, United States'
 ---
 
 ![](ghalia_volt.jpg)

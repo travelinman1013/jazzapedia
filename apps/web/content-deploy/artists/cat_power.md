@@ -3,15 +3,15 @@ title: Cat Power
 wiki_slug: cat-power
 schema_version: 2
 status: active
-birth_place: Atlanta, Georgia, United States
+birth_place: 'Atlanta, Georgia, United States'
 genres:
-- slowcore
-- singer-songwriter
+  - slowcore
+  - singer-songwriter
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/cat_power.jpg
   caption: Cat Power
   background: solo_singer
-  origin: Atlanta, Georgia, United States
+  origin: 'Atlanta, Georgia, United States'
 audio_profile:
   tempo_avg: 117.2
   energy_avg: 0.347
@@ -27,49 +27,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tim Foljahn
-  - Mick Turner and Jim White (Dirty Three)
-  - Dave Grohl
-  - Eddie Vedder
-  - Memphis Rhythm Band
+    - Tim Foljahn
+    - Mick Turner and Jim White (Dirty Three)
+    - Dave Grohl
+    - Eddie Vedder
+    - Memphis Rhythm Band
   influenced:
-  - Sharon Van Etten
-  - Angel Olsen
-  - Aldous Harding
+    - Sharon Van Etten
+    - Angel Olsen
+    - Aldous Harding
   mentors:
-  - Steve Shelley
+    - Steve Shelley
 spotify_data:
   followers: 794547
   id: 6G7OerKc3eBO9sVkRNopFC
   popularity: 54
-  url: https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC
+  url: 'https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC'
 discography_enriched: true
 top_tracks:
-- Sea of Love (The Covers Record)
-- The Greatest (The Greatest)
-- I've Been Thinking (White People)
-- Stay (Wanderer)
-- Manhattan (Sun)
-- Metal Heart (Moon Pix)
-- I Think Of Angels
-- What The World Needs Now
-- New York (Jukebox)
-- (I Can't Get No) Satisfaction (The Covers Record)
+  - Sea of Love (The Covers Record)
+  - The Greatest (The Greatest)
+  - I've Been Thinking (White People)
+  - Stay (Wanderer)
+  - Manhattan (Sun)
+  - Metal Heart (Moon Pix)
+  - I Think Of Angels
+  - What The World Needs Now
+  - New York (Jukebox)
+  - (I Can't Get No) Satisfaction (The Covers Record)
 external_urls:
-  spotify: https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC
-  wikipedia: https://en.wikipedia.org/wiki/Cat_Power
+  spotify: 'https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC'
+  wikipedia: 'https://en.wikipedia.org/wiki/Cat_Power'
 image_path: 03_Resources/source_material/ArtistPortraits/cat_power.jpg
 biography_enhanced_at: '2025-11-12T14:44:32.628098'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Cat_Power
-- https://www.fandango.com/people/cat-power-940888/biography
-- https://www.last.fm/music/Cat+Power/+wiki
-- https://www.imdb.com/name/nm1306217/bio/
+  - 'https://en.wikipedia.org/wiki/Cat_Power'
+  - 'https://www.fandango.com/people/cat-power-940888/biography'
+  - 'https://www.last.fm/music/Cat+Power/+wiki'
+  - 'https://www.imdb.com/name/nm1306217/bio/'
 network_extracted: true
 entry_created: '2025-11-12T14:44:32.628109'
 last_updated: '2025-12-23T08:16:06.556234'
+birth_date: '1972-01-21'
+artist_type: person
 ---
 
 ![](cat_power.jpg)

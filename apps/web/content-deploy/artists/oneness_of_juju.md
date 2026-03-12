@@ -6,13 +6,13 @@ status: active
 aliases: []
 birth_date: '1947-00-00'
 genres:
-- jazz funk
-- free jazz
+  - jazz funk
+  - free jazz
 instruments:
-- voice
+  - voice
 occupation:
-- musician
-- singer
+  - musician
+  - singer
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Oneness_Of_Juju.jpg
   caption: Oneness Of Juju
@@ -34,7 +34,7 @@ similar_artists: []
 related_artists: []
 spotify_data:
   id: 4ALwsFQJ7K7X4CowneIqsc
-  url: https://open.spotify.com/artist/4ALwsFQJ7K7X4CowneIqsc
+  url: 'https://open.spotify.com/artist/4ALwsFQJ7K7X4CowneIqsc'
   popularity: 24
   followers: 7625
   verified: false
@@ -42,24 +42,26 @@ discography_enriched: true
 albums_count: 7
 singles_count: 5
 top_tracks:
-- Made Through Ritual
-- Poo Too (African Rhythms)
-- Breezin' (Bush Brothers and Space Rangers)
-- The Connection (Space Jungle Luv)
-- Every Way but Loose - Remix (Every Way but Loose)
-- Mashariki (African Rhythms)
-- Love's Messenger (Space Jungle Luv)
-- African Rhythms (African Rhythms)
-- Always Have to Say Goodbye (Every Way but Loose)
-- Run Away Bay (Every Way but Loose)
+  - Made Through Ritual
+  - Poo Too (African Rhythms)
+  - Breezin' (Bush Brothers and Space Rangers)
+  - The Connection (Space Jungle Luv)
+  - Every Way but Loose - Remix (Every Way but Loose)
+  - Mashariki (African Rhythms)
+  - Love's Messenger (Space Jungle Luv)
+  - African Rhythms (African Rhythms)
+  - Always Have to Say Goodbye (Every Way but Loose)
+  - Run Away Bay (Every Way but Loose)
 external_urls:
-  spotify: https://open.spotify.com/artist/4ALwsFQJ7K7X4CowneIqsc
-  wikipedia: https://en.wikipedia.org/wiki/James_%22Plunky%22_Branch
+  spotify: 'https://open.spotify.com/artist/4ALwsFQJ7K7X4CowneIqsc'
+  wikipedia: 'https://en.wikipedia.org/wiki/James_%22Plunky%22_Branch'
   musicbrainz: null
 image_path: 03_Resources/source_material/ArtistPortraits/Oneness_Of_Juju.jpg
 biography_source: wikipedia
-entry_created: 2025-09-22 21:46:45.810950
+entry_created: 2025-09-22T21:46:45.810Z
 last_updated: '2025-12-23T08:16:13.752779'
+origin: 'Richmond, Virginia, United States'
+artist_type: person
 ---
 
 ![](Oneness_Of_Juju.jpg)

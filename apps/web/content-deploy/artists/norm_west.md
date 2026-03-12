@@ -1,39 +1,41 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-03T01:43:19.516675'
-birth_place: Monroe, Louisiana, United States
+birth_place: 'Monroe, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-03T01:43:19.516682'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/52daf0fa-7d7c-4787-935c-53deceea0cba
-  spotify: https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2
-  wikipedia: https://en.wikipedia.org/wiki/The_Soul_Children
+  musicbrainz: 'https://musicbrainz.org/artist/52daf0fa-7d7c-4787-935c-53deceea0cba'
+  spotify: 'https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Soul_Children'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/norm_west.jpg
 last_updated: '2026-01-03T01:43:19.516684'
 musical_connections:
   collaborators:
-  - J. Blackfoot (John Colbert)
-  - Anita Louis
-  - Shelbra Bennett
-  - Ann Hines and Cassandra Graham
+    - J. Blackfoot (John Colbert)
+    - Anita Louis
+    - Shelbra Bennett
+    - Ann Hines and Cassandra Graham
   influenced: []
   mentors:
-  - Isaac Hayes and David Porter
+    - Isaac Hayes and David Porter
 musicbrainz_id: 52daf0fa-7d7c-4787-935c-53deceea0cba
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Soul_Children
-- https://www.allmusic.com/artist/norman-west-mn0002294680
-- https://westmediaweb.com/wp-content/uploads/2022/03/AceWestMediaBio_V.1-2.pdf
+  - 'https://en.wikipedia.org/wiki/The_Soul_Children'
+  - 'https://www.allmusic.com/artist/norman-west-mn0002294680'
+  - >-
+    https://westmediaweb.com/wp-content/uploads/2022/03/AceWestMediaBio_V.1-2.pdf
 spotify_data:
   followers: 61887
   id: 5NTFOMIZSgupSw6yfnD4E2
   popularity: 43
-  url: https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2
+  url: 'https://open.spotify.com/artist/5NTFOMIZSgupSw6yfnD4E2'
 status: active
 title: Norm West
+birth_date: '1939-10-30'
 ---
 
 ![](norm_west.jpg)

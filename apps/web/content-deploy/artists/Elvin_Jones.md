@@ -2,26 +2,26 @@
 title: Elvin Jones
 wiki_slug: elvin-jones
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1927-09-09'
-birth_place: Pontiac, Michigan, United States
+birth_place: 'Pontiac, Michigan, United States'
 death_date: '2004-05-18'
 genres:
-- hard bop
-- jazz
-- free jazz
-- bebop
+  - hard bop
+  - jazz
+  - free jazz
+  - bebop
 instruments:
-- drums (drum set)
-- eponymous
-- original
+  - drums (drum set)
+  - eponymous
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Elvin_Jones.jpg
   caption: Elvin Jones
   background: non_vocal_instrumentalist
   born: '1927-09-09'
-  origin: Pontiac, Michigan, United States
+  origin: 'Pontiac, Michigan, United States'
   died: '2004-05-18'
 audio_profile:
   tempo_avg: 115.9
@@ -38,51 +38,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John Coltrane
-  - McCoy Tyner
-  - Jimmy Garrison
-  - Sonny Rollins
-  - Charles Mingus
-  - Members of the Elvin Jones Jazz Machine
+    - John Coltrane
+    - McCoy Tyner
+    - Jimmy Garrison
+    - Sonny Rollins
+    - Charles Mingus
+    - Members of the Elvin Jones Jazz Machine
   influenced:
-  - Mitch Mitchell
-  - Ginger Baker
-  - Rashied Ali
-  - Dave Liebman
+    - Mitch Mitchell
+    - Ginger Baker
+    - Rashied Ali
+    - Dave Liebman
   mentors:
-  - Hank Jones
-  - Thad Jones
-  - Art Blakey
+    - Hank Jones
+    - Thad Jones
+    - Art Blakey
 spotify_data:
   followers: 56873
   id: 4dUMhhUjQ2YcNTvab29hYF
   popularity: 30
-  url: https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF
+  url: 'https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF'
 discography_enriched: true
 top_tracks:
-- Feeling Good (Dear John C.)
-- What's New
-- G.G. (Mr. Jones)
-- Anthropology (Dear John C.)
-- Pretty Brown (Elvin!)
-- 'Cup Bearers (The Enja Heritage Collection: Confirmation)'
-- Dear John C. (Dear John C.)
-- Smoke Rings (Dear John C.)
-- Raunchy Rita (Heavy Sounds)
-- Shiny Stockings (Heavy Sounds)
+  - Feeling Good (Dear John C.)
+  - What's New
+  - G.G. (Mr. Jones)
+  - Anthropology (Dear John C.)
+  - Pretty Brown (Elvin!)
+  - 'Cup Bearers (The Enja Heritage Collection: Confirmation)'
+  - Dear John C. (Dear John C.)
+  - Smoke Rings (Dear John C.)
+  - Raunchy Rita (Heavy Sounds)
+  - Shiny Stockings (Heavy Sounds)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d5ac66e4-ea5d-4ebb-9e0d-bed4063208e7
-  spotify: https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF
-  wikipedia: https://en.wikipedia.org/wiki/Elvin_Jones
+  musicbrainz: 'https://musicbrainz.org/artist/d5ac66e4-ea5d-4ebb-9e0d-bed4063208e7'
+  spotify: 'https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF'
+  wikipedia: 'https://en.wikipedia.org/wiki/Elvin_Jones'
 image_path: 03_Resources/source_material/ArtistPortraits/Elvin_Jones.jpg
 biography_enhanced_at: '2025-10-19T11:26:24.162470'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Elvin_Jones
-- https://www.bluenote.com/artist/elvin-jones/
-- https://www.allaboutjazz.com/musicians/elvin-jones/
-- https://pas.org/elvin-jones/
+  - 'https://en.wikipedia.org/wiki/Elvin_Jones'
+  - 'https://www.bluenote.com/artist/elvin-jones/'
+  - 'https://www.allaboutjazz.com/musicians/elvin-jones/'
+  - 'https://pas.org/elvin-jones/'
 network_extracted: true
 entry_created: '2025-10-19T11:26:24.162475'
 last_updated: '2025-12-23T08:16:01.900432'
@@ -91,9 +91,11 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:25:37.009488'
 musicbrainz_id: d5ac66e4-ea5d-4ebb-9e0d-bed4063208e7
 tags:
-- 2008 universal fire victim
-- avant-garde jazz
-- chamber jazz
+  - 2008 universal fire victim
+  - avant-garde jazz
+  - chamber jazz
+is_active: false
+origin: 'Detroit, Michigan, United States'
 ---
 
 ![](Elvin_Jones.jpg)

@@ -2,27 +2,27 @@
 title: Sonny Rollins
 wiki_slug: sonny-rollins
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 aliases: []
 birth_date: '1930-09-07'
-birth_place: New York City, New York, United States
+birth_place: 'New York City, New York, United States'
 genres:
-- hard bop
-- jazz
-- bebop
-- cool jazz
+  - hard bop
+  - jazz
+  - bebop
+  - cool jazz
 instruments:
-- eponymous
-- original
+  - eponymous
+  - original
 record_labels:
-- Prestige
+  - Prestige
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Sonny_Rollins.jpg
   caption: Sonny Rollins
   background: non_vocal_instrumentalist
   born: '1930-09-07'
-  origin: New York City, New York, United States
+  origin: 'New York City, New York, United States'
 audio_profile:
   tempo_avg: 109.5
   energy_avg: 0.376
@@ -38,63 +38,65 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Miles Davis
-  - Max Roach
-  - Clifford Brown
-  - Thelonious Monk
-  - Bud Powell
+    - Miles Davis
+    - Max Roach
+    - Clifford Brown
+    - Thelonious Monk
+    - Bud Powell
   influenced:
-  - John Coltrane
+    - John Coltrane
   mentors:
-  - Coleman Hawkins
-  - Charlie Parker
-  - Louis Jordan
+    - Coleman Hawkins
+    - Charlie Parker
+    - Louis Jordan
 related_artists: []
 spotify_data:
   followers: 371132
   id: 1VEzN9lxvG6KPR3QQGsebR
   popularity: 52
-  url: https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR
+  url: 'https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR'
   verified: false
 discography_enriched: true
 albums_count: 79
 singles_count: 0
 top_tracks:
-- On The Sunny Side Of The Street (Dizzy 100)
-- In A Sentimental Mood (Sonny Rollins With The Modern Jazz Quartet)
-- God Bless the Child (The Bridge)
-- Where Are You - Remastered (The Bridge)
-- St. Thomas (Saxophone Colossus)
-- He's Younger Than You Are - From "Alfie" Score (Alfie)
-- Solitude (Way Out West (OJC Remaster))
-- St. Thomas (Saxophone Colossus)
-- I'm an Old Cowhand (Way Out West (OJC Remaster))
-- You Don't Know What Love Is - Rudy Van Gelder Rudy Van Gelder Remastered 2006 / Shared ISRC (Saxophone Colossus)
+  - On The Sunny Side Of The Street (Dizzy 100)
+  - In A Sentimental Mood (Sonny Rollins With The Modern Jazz Quartet)
+  - God Bless the Child (The Bridge)
+  - Where Are You - Remastered (The Bridge)
+  - St. Thomas (Saxophone Colossus)
+  - He's Younger Than You Are - From "Alfie" Score (Alfie)
+  - Solitude (Way Out West (OJC Remaster))
+  - St. Thomas (Saxophone Colossus)
+  - I'm an Old Cowhand (Way Out West (OJC Remaster))
+  - >-
+    You Don't Know What Love Is - Rudy Van Gelder Rudy Van Gelder Remastered
+    2006 / Shared ISRC (Saxophone Colossus)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3b47247e-5b57-49b6-a0ed-bad80243802a
-  spotify: https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR
-  wikipedia: https://en.wikipedia.org/wiki/Sonny_Rollins
+  musicbrainz: 'https://musicbrainz.org/artist/3b47247e-5b57-49b6-a0ed-bad80243802a'
+  spotify: 'https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sonny_Rollins'
 image_path: 03_Resources/source_material/ArtistPortraits/Sonny_Rollins.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:31:05.405464'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia
-- JazzStandards.com
-- Academy of Achievement
-- Miles Davis official website
+  - Wikipedia
+  - JazzStandards.com
+  - Academy of Achievement
+  - Miles Davis official website
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 11:45:31.305576
+entry_created: 2025-09-18T11:45:31.305Z
 last_updated: '2025-12-23T08:16:03.329418'
 gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:38:09.154588'
 musicbrainz_id: 3b47247e-5b57-49b6-a0ed-bad80243802a
 tags:
-- 2008 universal fire victim
-- avant-garde jazz
-- bebop
+  - 2008 universal fire victim
+  - avant-garde jazz
+  - bebop
 ---
 
 ![](Sonny_Rollins.jpg)

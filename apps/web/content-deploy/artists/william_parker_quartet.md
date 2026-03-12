@@ -1,100 +1,103 @@
 ---
-artist_type: band
+artist_type: person
 biography_enhanced_at: '2026-01-16T01:38:54.930994'
 enhancement_provider: perplexity
 entry_created: '2026-01-16T01:38:54.931000'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/0704d0c8-618a-492a-be22-d757d66e93af
-  spotify: https://open.spotify.com/artist/1MVFD1YWK3zLrPVIM6fWcB
-  wikipedia: https://en.wikipedia.org/wiki/William_Parker_(musician)
+  musicbrainz: 'https://musicbrainz.org/artist/0704d0c8-618a-492a-be22-d757d66e93af'
+  spotify: 'https://open.spotify.com/artist/1MVFD1YWK3zLrPVIM6fWcB'
+  wikipedia: 'https://en.wikipedia.org/wiki/William_Parker_(musician)'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/william_parker_quartet.jpg
 instruments:
-- trumpet
-- alto saxophone
-- drums (drum set)
-- percussion
-- double bass
-- eponymous
-- original
-is_active: true
-last_updated: '2026-01-16T01:38:54.931000'
-members:
-- begin: ''
-  end: ''
-  instruments:
   - trumpet
-  mbid: daa9663b-e2d1-487f-8ff8-f62474d9d9c4
-  name: Lewis Barnes
-- begin: ''
-  end: ''
-  instruments:
   - alto saxophone
-  mbid: 69a46f46-cad4-46f4-8b1e-ebb1de8822f5
-  name: Rob Brown
-- begin: ''
-  end: ''
-  instruments:
   - drums (drum set)
   - percussion
-  mbid: fea97104-f20a-41e3-b5a5-bb40bd0bed83
-  name: Hamid Drake
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: f985b169-6712-4137-ad9f-c60427f253d6
-  name: Jalalu-Kalvert Nelson
-- begin: ''
-  end: ''
-  instruments:
   - double bass
   - eponymous
   - original
-  mbid: 884c61a3-01f5-467f-a859-ad8417b79909
-  name: William Parker
+is_active: true
+last_updated: '2026-01-16T01:38:54.931000'
+members:
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: daa9663b-e2d1-487f-8ff8-f62474d9d9c4
+    name: Lewis Barnes
+  - begin: ''
+    end: ''
+    instruments:
+      - alto saxophone
+    mbid: 69a46f46-cad4-46f4-8b1e-ebb1de8822f5
+    name: Rob Brown
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+      - percussion
+    mbid: fea97104-f20a-41e3-b5a5-bb40bd0bed83
+    name: Hamid Drake
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: f985b169-6712-4137-ad9f-c60427f253d6
+    name: Jalalu-Kalvert Nelson
+  - begin: ''
+    end: ''
+    instruments:
+      - double bass
+      - eponymous
+      - original
+    mbid: 884c61a3-01f5-467f-a859-ad8417b79909
+    name: William Parker
 musical_connections:
   collaborators:
-  - Hamid Drake
-  - Rob Brown
-  - Lewis Barnes
-  - Leena Conquest
-  - Cecil Taylor
-  - David S. Ware
-  - Matthew Shipp
-  - Peter Brötzmann
+    - Hamid Drake
+    - Rob Brown
+    - Lewis Barnes
+    - Leena Conquest
+    - Cecil Taylor
+    - David S. Ware
+    - Matthew Shipp
+    - Peter Brötzmann
   influenced:
-  - Vision Festival participants and New York experimental jazz scene
+    - Vision Festival participants and New York experimental jazz scene
   mentors:
-  - Jimmy Garrison
-  - Richard Davis
-  - Wilbur Ware
-  - Art Davis
-  - Milt Hinton
+    - Jimmy Garrison
+    - Richard Davis
+    - Wilbur Ware
+    - Art Davis
+    - Milt Hinton
 musicbrainz_id: 0704d0c8-618a-492a-be22-d757d66e93af
 network_extracted: true
-origin: Bronx, New York, United States
+origin: 'Bronx, New York, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/William_Parker_(musician)
-- https://www.jazzaldia.eus/en/concerts-tickets/3-william-parker-duo?ide=23012
-- https://jazztimes.com/features/profiles/william-parker-the-shaman/
-- https://www.bennington.edu/academics/faculty/william-parker
-- https://www.artandnetwork.com/en/portfolio_page/william-parker/
-- http://www.williamparker.net/ceremony
-- https://downbeat.com/archives/detail/william-parker-his-own-new-thing
-- https://brooklynrail.org/2021/02/music/Universal-Tonality-The-Life-and-Music-of-William-Parker/
-- https://dukeupress.edu/universal-tonality
-- https://musicevolution.info/william-parker-1
+  - 'https://en.wikipedia.org/wiki/William_Parker_(musician)'
+  - 'https://www.jazzaldia.eus/en/concerts-tickets/3-william-parker-duo?ide=23012'
+  - 'https://jazztimes.com/features/profiles/william-parker-the-shaman/'
+  - 'https://www.bennington.edu/academics/faculty/william-parker'
+  - 'https://www.artandnetwork.com/en/portfolio_page/william-parker/'
+  - 'http://www.williamparker.net/ceremony'
+  - 'https://downbeat.com/archives/detail/william-parker-his-own-new-thing'
+  - >-
+    https://brooklynrail.org/2021/02/music/Universal-Tonality-The-Life-and-Music-of-William-Parker/
+  - 'https://dukeupress.edu/universal-tonality'
+  - 'https://musicevolution.info/william-parker-1'
 spotify_data:
   followers: 82
   id: 1MVFD1YWK3zLrPVIM6fWcB
   popularity: 0
-  url: https://open.spotify.com/artist/1MVFD1YWK3zLrPVIM6fWcB
+  url: 'https://open.spotify.com/artist/1MVFD1YWK3zLrPVIM6fWcB'
 status: active
 tags:
-- jazz
+  - jazz
 title: William Parker Quartet
+birth_place: 'Bronx, New York, United States'
+birth_date: '1952-01-10'
 ---
 
 ![](william_parker_quartet.jpg)

@@ -4,31 +4,33 @@ birth_place: Brazil (inferred from axé genre and Portuguese language content)
 enhancement_provider: perplexity
 entry_created: '2026-01-04T01:56:52.741127'
 external_urls:
-  spotify: https://open.spotify.com/artist/7inXEydCLUPkoVjZN9tN9r
+  spotify: 'https://open.spotify.com/artist/7inXEydCLUPkoVjZN9tN9r'
   wikipedia: Not found
 genres:
-- axé
+  - axé
 image_path: 03_Resources/source_material/ArtistPortraits/luigi_de_oxala.jpg
 last_updated: '2026-01-04T01:56:52.741128'
 musical_connections:
   collaborators:
-  - Ikaro Ogãn OFC
-  - Rodrigo Ciampi
+    - Ikaro Ogãn OFC
+    - Rodrigo Ciampi
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- RecentMusic (recentmusic.com)
-- Shazam (shazam.com)
-- YouTube (youtube.com/channel/UCs90HZCN4y-sfW7nNyjOMRQ)
+  - RecentMusic (recentmusic.com)
+  - Shazam (shazam.com)
+  - YouTube (youtube.com/channel/UCs90HZCN4y-sfW7nNyjOMRQ)
 spotify_data:
   followers: 8993
   id: 7inXEydCLUPkoVjZN9tN9r
   popularity: 41
-  url: https://open.spotify.com/artist/7inXEydCLUPkoVjZN9tN9r
+  url: 'https://open.spotify.com/artist/7inXEydCLUPkoVjZN9tN9r'
 status: active
 title: Luigi de Oxala
+artist_type: person
+origin: 'Bahia, Brazil'
 ---
 
 ![](luigi_de_oxala.jpg)

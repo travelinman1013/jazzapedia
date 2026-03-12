@@ -2,24 +2,24 @@
 title: Patty Griffin
 wiki_slug: patty-griffin
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1964-03-16'
-birth_place: Old Town, Maine, United States
+birth_place: 'Old Town, Maine, United States'
 genres:
-- americana
-- folk
-- alt country
+  - americana
+  - folk
+  - alt country
 instruments:
-- acoustic guitar
-- background vocals
-- lead vocals
+  - acoustic guitar
+  - background vocals
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Patty_Griffin.jpg
   caption: Patty Griffin
   background: solo_singer
   born: '1964-03-16'
-  origin: Old Town, Maine, United States
+  origin: 'Old Town, Maine, United States'
 audio_profile:
   tempo_avg: 119.4
   energy_avg: 0.364
@@ -35,48 +35,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jay Joyce
-  - Kenny Aronoff
-  - Buddy Miller
-  - Emmylou Harris
-  - Robert Plant
-  - Dixie Chicks
+    - Jay Joyce
+    - Kenny Aronoff
+    - Buddy Miller
+    - Emmylou Harris
+    - Robert Plant
+    - Dixie Chicks
   influenced:
-  - Kelly Clarkson
-  - The Wreckers
-  - Solomon Burke
+    - Kelly Clarkson
+    - The Wreckers
+    - Solomon Burke
   mentors:
-  - Nile Rodgers
+    - Nile Rodgers
 spotify_data:
   followers: 168454
   id: 7tNLRmiAN8hpmFrbIHiHsy
   popularity: 44
-  url: https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy
+  url: 'https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy'
 discography_enriched: true
 top_tracks:
-- Heavenly Day (Children Running Through)
-- The Weight - Live
-- Let Him Fly (Living With Ghosts)
-- Long Ride Home (1000 Kisses)
-- When It Don't Come Easy (Impossible Dream)
-- Back at the Start
-- Up To The Mountain (MLK Song) (Children Running Through)
-- One Big Love (Flaming Red)
-- Way up to the Sky (Crown Of Roses)
-- Not Alone (Living With Ghosts)
+  - Heavenly Day (Children Running Through)
+  - The Weight - Live
+  - Let Him Fly (Living With Ghosts)
+  - Long Ride Home (1000 Kisses)
+  - When It Don't Come Easy (Impossible Dream)
+  - Back at the Start
+  - Up To The Mountain (MLK Song) (Children Running Through)
+  - One Big Love (Flaming Red)
+  - Way up to the Sky (Crown Of Roses)
+  - Not Alone (Living With Ghosts)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6fddcfc3-20b6-48d0-87ba-8211eca3420c
-  spotify: https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy
-  wikipedia: https://en.wikipedia.org/wiki/Patty_Griffin
+  musicbrainz: 'https://musicbrainz.org/artist/6fddcfc3-20b6-48d0-87ba-8211eca3420c'
+  spotify: 'https://open.spotify.com/artist/7tNLRmiAN8hpmFrbIHiHsy'
+  wikipedia: 'https://en.wikipedia.org/wiki/Patty_Griffin'
 image_path: 03_Resources/source_material/ArtistPortraits/Patty_Griffin.jpg
 biography_enhanced_at: '2025-10-20T02:01:01.927525'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://gilrey4.dreamhosters.com/bio/
-- https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/patty-griffin
-- https://www.last.fm/music/Patty+Griffin/+wiki
-- https://en.wikipedia.org/wiki/Patty_Griffin
+  - 'https://gilrey4.dreamhosters.com/bio/'
+  - >-
+    https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/patty-griffin
+  - 'https://www.last.fm/music/Patty+Griffin/+wiki'
+  - 'https://en.wikipedia.org/wiki/Patty_Griffin'
 network_extracted: true
 entry_created: '2025-10-20T02:01:01.927548'
 last_updated: '2025-12-23T08:16:03.541297'
@@ -84,9 +85,10 @@ gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:40:46.312551'
 musicbrainz_id: 6fddcfc3-20b6-48d0-87ba-8211eca3420c
 tags:
-- 2008 universal fire victim
-- alternative rock
-- contemporary folk
+  - 2008 universal fire victim
+  - alternative rock
+  - contemporary folk
+origin: 'Boston, Massachusetts, United States'
 ---
 
 ![](Patty_Griffin.jpg)

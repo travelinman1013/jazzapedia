@@ -3,15 +3,15 @@ title: Jung Sungha
 wiki_slug: jung-sungha
 schema_version: 2
 status: active
-birth_place: Cheongju, North Chungcheong, South Korea
+birth_place: 'Cheongju, North Chungcheong, South Korea'
 genres:
-- k-ballad
-- soundtrack
+  - k-ballad
+  - soundtrack
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jung_sungha.jpg
   caption: Jung Sungha
   background: solo_singer
-  origin: Cheongju, North Chungcheong, South Korea
+  origin: 'Cheongju, North Chungcheong, South Korea'
 audio_profile:
   tempo_avg: 120.2
   energy_avg: 0.363
@@ -27,49 +27,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Trace Bundy
-  - Narsha
-  - 2NE1
-  - G-Dragon (BIGBANG)
-  - Jason Mraz
+    - Trace Bundy
+    - Narsha
+    - 2NE1
+    - G-Dragon (BIGBANG)
+    - Jason Mraz
   influenced:
-  - Numerous young fingerstyle guitarists worldwide
+    - Numerous young fingerstyle guitarists worldwide
   mentors:
-  - Ulli Bögershausen
-  - Hata Shuji
-  - Kotaro Oshio
+    - Ulli Bögershausen
+    - Hata Shuji
+    - Kotaro Oshio
 spotify_data:
   followers: 278277
   id: 7l8rOFwZFQ3G0sgZ7gjGng
   popularity: 50
-  url: https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng
+  url: 'https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng'
 discography_enriched: true
 top_tracks:
-- If It Is You (Another Miss Oh, Pt. 5 (Original Television Soundtrack))
-- Day & Night (START-UP (Original Television Soundtrack) Pt. 2)
-- Get To You (KING THE LAND (Original Television Soundtrack), Pt.3)
-- The Snowman (Spring Again)
-- 'Wind (Moonlovers: Scarlet Heart Ryeo (Original Television Soundtrack), Pt 11)'
-- One More Day (In The Spring)
-- An Ordinary Day (My Mister (Original Television Soundtrack), Pt. 3)
-- Night and Day (CASTAWAY DIVA OST Part.4)
-- Ask Out (Motel California OST Part.6)
-- Breath (Doctor Cha (Original Television Soundtrack) Pt. 3)
+  - 'If It Is You (Another Miss Oh, Pt. 5 (Original Television Soundtrack))'
+  - Day & Night (START-UP (Original Television Soundtrack) Pt. 2)
+  - 'Get To You (KING THE LAND (Original Television Soundtrack), Pt.3)'
+  - The Snowman (Spring Again)
+  - >-
+    Wind (Moonlovers: Scarlet Heart Ryeo (Original Television Soundtrack), Pt
+    11)
+  - One More Day (In The Spring)
+  - 'An Ordinary Day (My Mister (Original Television Soundtrack), Pt. 3)'
+  - Night and Day (CASTAWAY DIVA OST Part.4)
+  - Ask Out (Motel California OST Part.6)
+  - Breath (Doctor Cha (Original Television Soundtrack) Pt. 3)
 external_urls:
-  spotify: https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng
-  wikipedia: https://en.wikipedia.org/wiki/Sungha_Jung
+  spotify: 'https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sungha_Jung'
 image_path: 03_Resources/source_material/ArtistPortraits/jung_sungha.jpg
 biography_enhanced_at: '2025-10-28T09:00:21.365102'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://kids.kiddle.co/Sungha_Jung
-- https://gnatanael99.wordpress.com/about-sungha-jung/
-- https://ranchguitar.com/2018/09/19/prodigy-sungha-jung-ukulele/
-- https://www.anuenuemusic.com/en/musician_detail/350.html
+  - 'https://kids.kiddle.co/Sungha_Jung'
+  - 'https://gnatanael99.wordpress.com/about-sungha-jung/'
+  - 'https://ranchguitar.com/2018/09/19/prodigy-sungha-jung-ukulele/'
+  - 'https://www.anuenuemusic.com/en/musician_detail/350.html'
 network_extracted: true
 entry_created: '2025-10-28T09:00:21.365109'
 last_updated: '2025-12-23T08:16:11.056467'
+birth_date: '1996-09-02'
+artist_type: person
 ---
 
 ![](jung_sungha.jpg)

@@ -1,24 +1,24 @@
 ---
-title: annisteen allen
+title: Annisteen Allen
 wiki_slug: annisteen-allen
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1920-11-11'
-birth_place: Champaign
+birth_place: 'Champaign, Illinois, United States'
 death_date: '1992-08-10'
 genres:
-- boogie-woogie
-- modern blues
-- rockabilly
+  - boogie-woogie
+  - modern blues
+  - rockabilly
 instruments:
-- lead vocals
+  - lead vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3848ec01-2f2a-4712-8e2d-ecf3023e86c0
-  name: Annisteen Allen & Her Home Town Boys
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3848ec01-2f2a-4712-8e2d-ecf3023e86c0
+    name: Annisteen Allen & Her Home Town Boys
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/annisteen_allen.jpg
   caption: annisteen allen
@@ -41,54 +41,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bull Moose Jackson
-  - Don Albert
+    - Bull Moose Jackson
+    - Don Albert
   influenced:
-  - Wanda Jackson
+    - Wanda Jackson
   mentors:
-  - Lucky Millinder
+    - Lucky Millinder
 spotify_data:
   followers: 1802
   id: 1NL2N25zWc4cTacQTntwi4
   popularity: 7
-  url: https://open.spotify.com/artist/1NL2N25zWc4cTacQTntwi4
+  url: 'https://open.spotify.com/artist/1NL2N25zWc4cTacQTntwi4'
 discography_enriched: true
 top_tracks:
-- There's Good Blues Tonight (Classics by Lucky Millinder Orchestra)
-- Take a Chance On Me
-- Baby I'm Doin' It - Remastered (Golden Selection (Remastered))
-- The Bluest Blues (Fujiyama Mama)
-- Fujiyama Mama (Fujiyama Mama)
-- Wheels of Love (Fujiyama Mama)
-- G'wan About Your Business (Fujiyama Mama)
-- The Bluest Blues (10-31-51) (1945-1953)
-- Mine, All Mine
-- Mine All Mine - Remastered (Golden Selection (Remastered))
+  - There's Good Blues Tonight (Classics by Lucky Millinder Orchestra)
+  - Take a Chance On Me
+  - Baby I'm Doin' It - Remastered (Golden Selection (Remastered))
+  - The Bluest Blues (Fujiyama Mama)
+  - Fujiyama Mama (Fujiyama Mama)
+  - Wheels of Love (Fujiyama Mama)
+  - G'wan About Your Business (Fujiyama Mama)
+  - The Bluest Blues (10-31-51) (1945-1953)
+  - 'Mine, All Mine'
+  - Mine All Mine - Remastered (Golden Selection (Remastered))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ffad3ea4-0ed7-4399-9226-306f8e27c23d
-  spotify: https://open.spotify.com/artist/1NL2N25zWc4cTacQTntwi4
-  wikipedia: https://en.wikipedia.org/wiki/Annisteen_Allen
+  musicbrainz: 'https://musicbrainz.org/artist/ffad3ea4-0ed7-4399-9226-306f8e27c23d'
+  spotify: 'https://open.spotify.com/artist/1NL2N25zWc4cTacQTntwi4'
+  wikipedia: 'https://en.wikipedia.org/wiki/Annisteen_Allen'
 image_path: 03_Resources/source_material/ArtistPortraits/annisteen_allen.jpg
 biography_enhanced_at: '2025-11-20T07:24:45.689353'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.uncamarvy.com/AnnisteenAllen/annisteenallen.html
-- https://fromthevaults-boppinbob.blogspot.com/2020/11/annisteen-allen-born-11-november-1920.html
-- https://sentirelblues.blogspot.com/2014/10/annisteen-allen.html
-- https://en.wikipedia.org/wiki/Annisteen_Allen
-- https://www.allmusic.com/artist/annisteen-allen-mn0000585466
-- https://www.jango.com/music/Annisteen+Allen/_full_bio
-- https://www.groovespin.com/interpret/annisteen-allen
+  - 'https://www.uncamarvy.com/AnnisteenAllen/annisteenallen.html'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2020/11/annisteen-allen-born-11-november-1920.html
+  - 'https://sentirelblues.blogspot.com/2014/10/annisteen-allen.html'
+  - 'https://en.wikipedia.org/wiki/Annisteen_Allen'
+  - 'https://www.allmusic.com/artist/annisteen-allen-mn0000585466'
+  - 'https://www.jango.com/music/Annisteen+Allen/_full_bio'
+  - 'https://www.groovespin.com/interpret/annisteen-allen'
 network_extracted: true
 entry_created: '2025-11-20T07:24:45.689363'
 last_updated: '2025-12-23T08:16:04.835254'
 gender: Female
 musicbrainz_id: ffad3ea4-0ed7-4399-9226-306f8e27c23d
 tags:
-- blues
-- jazz
-- jump blues
+  - blues
+  - jazz
+  - jump blues
+is_active: false
+origin: 'Toledo, Ohio, United States'
 ---
 
 ![](annisteen_allen.jpg)

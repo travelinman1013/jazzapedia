@@ -2,17 +2,17 @@
 title: The Filthy Six
 wiki_slug: the-filthy-six
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- jazz funk
-- acid jazz
+  - jazz funk
+  - acid jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_filthy_six.jpg
   caption: The Filthy Six
   background: group_or_band
 audio_profile:
-  tempo_avg: 117.0
+  tempo_avg: 117
   energy_avg: 0.539
   valence_avg: 0.782
   danceability_avg: 0.652
@@ -26,51 +26,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Etwell
+    - Etwell
   influenced:
-  - Unknown
+    - Unknown
   mentors:
-  - Unknown
+    - Unknown
 spotify_data:
   followers: 5798
   id: 1AiQK5vJEjhf6pFcWs5nWp
   popularity: 19
-  url: https://open.spotify.com/artist/1AiQK5vJEjhf6pFcWs5nWp
+  url: 'https://open.spotify.com/artist/1AiQK5vJEjhf6pFcWs5nWp'
 discography_enriched: true
 top_tracks:
-- Slinky (The Fox)
-- Down Frenchmen St (The Fox)
-- The Fox (The Fox)
-- Good People (Good People)
-- Iguana Strut (More Filth)
-- Prattle in Seattle (The Fox)
-- Mr Morris (More Filth)
-- Get Down (The Fox)
-- The Swagger Junkie (Soho Filth)
-- Midnight Boogaloo (The Fox)
+  - Slinky (The Fox)
+  - Down Frenchmen St (The Fox)
+  - The Fox (The Fox)
+  - Good People (Good People)
+  - Iguana Strut (More Filth)
+  - Prattle in Seattle (The Fox)
+  - Mr Morris (More Filth)
+  - Get Down (The Fox)
+  - The Swagger Junkie (Soho Filth)
+  - Midnight Boogaloo (The Fox)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/92ca25ea-bc75-45cb-9c75-83b5f2a2ac88
-  spotify: https://open.spotify.com/artist/1AiQK5vJEjhf6pFcWs5nWp
-  wikipedia: https://en.wikipedia.org/wiki/The_Filthy_Six
+  musicbrainz: 'https://musicbrainz.org/artist/92ca25ea-bc75-45cb-9c75-83b5f2a2ac88'
+  spotify: 'https://open.spotify.com/artist/1AiQK5vJEjhf6pFcWs5nWp'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Filthy_Six'
 image_path: 03_Resources/source_material/ArtistPortraits/the_filthy_six.jpg
 biography_enhanced_at: '2025-11-20T06:30:41.750883'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Filthy_Six
-- http://thefilthysix.com/menu
-- http://thefilthysix.com/beans
-- https://www.brasseriezedel.com/events/the-filthy-six/
-- https://jambands.com/features/2014/04/20/boogaloo-bowl-and-the-filthy-six/
+  - 'https://en.wikipedia.org/wiki/The_Filthy_Six'
+  - 'http://thefilthysix.com/menu'
+  - 'http://thefilthysix.com/beans'
+  - 'https://www.brasseriezedel.com/events/the-filthy-six/'
+  - 'https://jambands.com/features/2014/04/20/boogaloo-bowl-and-the-filthy-six/'
 network_extracted: true
 entry_created: '2025-11-20T06:30:41.750891'
 last_updated: '2025-12-23T08:16:16.783127'
 musicbrainz_id: 92ca25ea-bc75-45cb-9c75-83b5f2a2ac88
 origin: United Kingdom
 tags:
-- funk
-- soul
-
+  - funk
+  - soul
 ---
 
 ![](the_filthy_six.jpg)

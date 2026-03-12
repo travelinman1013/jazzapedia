@@ -3,18 +3,18 @@ title: Les McCann
 wiki_slug: les-mccann
 schema_version: 2
 status: active
-birth_place: Lexington, Kentucky, United States
+birth_place: 'Lexington, Kentucky, United States'
 genres:
-- soul jazz
-- jazz funk
-- jazz
-- hard bop
-- jazz fusion
+  - soul jazz
+  - jazz funk
+  - jazz
+  - hard bop
+  - jazz fusion
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/les_mccann.jpg
   caption: Les McCann
   background: solo_singer
-  origin: Lexington, Kentucky, United States
+  origin: 'Lexington, Kentucky, United States'
 audio_profile:
   tempo_avg: 125.1
   energy_avg: 0.418
@@ -22,7 +22,7 @@ audio_profile:
   danceability_avg: 0.517
   acousticness_avg: 0.685
   instrumentalness_avg: 0.335
-  loudness_avg: -15.0
+  loudness_avg: -15
   speechiness_avg: 0.048
   liveness_avg: 0.274
   track_count: 58
@@ -30,63 +30,70 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Eddie Harris
-  - Benny Bailey
-  - Leroy Vinnegar
-  - Ron Jefferson
-  - Ben Webster
-  - Richard “Groove” Holmes
-  - Blue Mitchell
-  - Stanley Turrentine
-  - Joe Pass
-  - The Jazz Crusaders
-  - Gerald Wilson Orchestra
-  - Joja Wendt
+    - Eddie Harris
+    - Benny Bailey
+    - Leroy Vinnegar
+    - Ron Jefferson
+    - Ben Webster
+    - Richard “Groove” Holmes
+    - Blue Mitchell
+    - Stanley Turrentine
+    - Joe Pass
+    - The Jazz Crusaders
+    - Gerald Wilson Orchestra
+    - Joja Wendt
   influenced:
-  - Cypress Hill
-  - A Tribe Called Quest
-  - Massive Attack
-  - Logic
-  - Quincy Jones
+    - Cypress Hill
+    - A Tribe Called Quest
+    - Massive Attack
+    - Logic
+    - Quincy Jones
   mentors:
-  - Erroll Garner
-  - Miles Davis
+    - Erroll Garner
+    - Miles Davis
 spotify_data:
   followers: 47002
   id: 07tYu4BGrfeogBobCefkHI
   popularity: 36
-  url: https://open.spotify.com/artist/07tYu4BGrfeogBobCefkHI
+  url: 'https://open.spotify.com/artist/07tYu4BGrfeogBobCefkHI'
 discography_enriched: true
 top_tracks:
-- Burnin' Coal (Much Les)
-- Sometimes I Cry (Layers)
-- Compared to What - Live at Montreux Jazz Festival (Swiss Movement (Montreux 30th Anniversary))
-- Blues For Yna Yna (Jazz Waltz)
-- Harlem Buck Dance Strut (Layers)
-- Compared to What
-- Sunny (Talkin' Verve)
-- Doin That Thing (Much Les)
-- Compared to What - Live (Compared to What)
-- Cold Duck Time - Live at Montreux Jazz Festival (Swiss Movement (Montreux 30th Anniversary))
+  - Burnin' Coal (Much Les)
+  - Sometimes I Cry (Layers)
+  - >-
+    Compared to What - Live at Montreux Jazz Festival (Swiss Movement (Montreux
+    30th Anniversary))
+  - Blues For Yna Yna (Jazz Waltz)
+  - Harlem Buck Dance Strut (Layers)
+  - Compared to What
+  - Sunny (Talkin' Verve)
+  - Doin That Thing (Much Les)
+  - Compared to What - Live (Compared to What)
+  - >-
+    Cold Duck Time - Live at Montreux Jazz Festival (Swiss Movement (Montreux
+    30th Anniversary))
 external_urls:
-  spotify: https://open.spotify.com/artist/07tYu4BGrfeogBobCefkHI
-  wikipedia: https://en.wikipedia.org/wiki/Les_McCann
+  spotify: 'https://open.spotify.com/artist/07tYu4BGrfeogBobCefkHI'
+  wikipedia: 'https://en.wikipedia.org/wiki/Les_McCann'
 image_path: 03_Resources/source_material/ArtistPortraits/les_mccann.jpg
 biography_enhanced_at: '2025-12-15T01:33:25.486341'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- 'DownBeat obituary: Les McCann, Soul-Jazz Standard-Bearer, Dies at 88[1]'
-- Kentucky Music Hall of Fame biography[2]
-- Blue Note Records artist biography[3]
-- Hartford Jazz Society / AP obituary summary[4]
-- NAMM Oral History profile[5]
-- Les McCann – Wikipedia[6]
-- LA Phil artist note on Les McCann Ltd.[7]
-- Wax Poetics feature on Les McCann’s history and *Layers*[8]
+  - 'DownBeat obituary: Les McCann, Soul-Jazz Standard-Bearer, Dies at 88[1]'
+  - 'Kentucky Music Hall of Fame biography[2]'
+  - 'Blue Note Records artist biography[3]'
+  - 'Hartford Jazz Society / AP obituary summary[4]'
+  - 'NAMM Oral History profile[5]'
+  - 'Les McCann – Wikipedia[6]'
+  - 'LA Phil artist note on Les McCann Ltd.[7]'
+  - 'Wax Poetics feature on Les McCann’s history and *Layers*[8]'
 network_extracted: true
 entry_created: '2025-12-15T01:33:25.486357'
 last_updated: '2025-12-23T08:16:11.851333'
+birth_date: '1935-09-23'
+death_date: '2023-12-29'
+artist_type: person
 ---
 
 ![](les_mccann.jpg)

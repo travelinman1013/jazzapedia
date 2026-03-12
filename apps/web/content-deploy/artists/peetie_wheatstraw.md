@@ -1,28 +1,28 @@
 ---
-title: peetie wheatstraw
+title: Peetie Wheatstraw
 wiki_slug: peetie-wheatstraw
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1902-12-21'
-birth_place: Ripley
+birth_place: 'Ripley, Tennessee, United States'
 death_date: '1941-12-21'
 genres:
-- country blues
-- classic blues
-- blues
-- ragtime
+  - country blues
+  - classic blues
+  - blues
+  - ragtime
 instruments:
-- piano
-- guitar
-- lead vocals
-- vocal
+  - piano
+  - guitar
+  - lead vocals
+  - vocal
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e4500def-ea2b-4de5-bc99-d812d38e5b1e
-  name: Peetie Wheatstraw & His Blue Blowers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e4500def-ea2b-4de5-bc99-d812d38e5b1e
+    name: Peetie Wheatstraw & His Blue Blowers
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/peetie_wheatstraw.jpg
   caption: peetie wheatstraw
@@ -45,57 +45,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kokomo Arnold
-  - Lonnie Johnson
-  - Charley Jordan
-  - Papa Charlie McCoy
-  - Teddy Bunn
-  - Champion Jack Dupree
-  - Lil Hardin Armstrong
-  - Jonah Jones
+    - Kokomo Arnold
+    - Lonnie Johnson
+    - Charley Jordan
+    - Papa Charlie McCoy
+    - Teddy Bunn
+    - Champion Jack Dupree
+    - Lil Hardin Armstrong
+    - Jonah Jones
   influenced:
-  - Robert Johnson
+    - Robert Johnson
   mentors:
-  - Charley Jordan
+    - Charley Jordan
 spotify_data:
   followers: 4235
   id: 5DjfEhP0XiH279qFeyR7qF
   popularity: 8
-  url: https://open.spotify.com/artist/5DjfEhP0XiH279qFeyR7qF
+  url: 'https://open.spotify.com/artist/5DjfEhP0XiH279qFeyR7qF'
 discography_enriched: true
 top_tracks:
-- Gangster's Blues (Peetie Wheatstraw Vol. 7 1940-1941)
-- Police Station Blues (Peetie Wheatstraw Vol. 1 1930-1932)
-- Devil's Son-In-Law (Peetie Wheatstraw Vol. 1 1930-1932)
-- Ice And Snow Blues (Peetie Wheatstraw Vol. 1 1930-1932)
-- Throw Me In The Alley (Peetie Wheatstraw Vol. 2 1934-1935)
-- Suicide Blues (Peetie Wheatstraw Vol. 7 1940-1941)
-- Peetie Wheatstraw Stomp (Peetie Wheatstraw Vol. 4 1936-1937)
-- Shack Bully Stomp
-- 'Police Station Blues - 1932 Version (Back To The Crossroads: The Roots Of Robert Johnson)'
-- 'King of Spades - 1935 Version (Back To The Crossroads: The Roots Of Robert Johnson)'
+  - Gangster's Blues (Peetie Wheatstraw Vol. 7 1940-1941)
+  - Police Station Blues (Peetie Wheatstraw Vol. 1 1930-1932)
+  - Devil's Son-In-Law (Peetie Wheatstraw Vol. 1 1930-1932)
+  - Ice And Snow Blues (Peetie Wheatstraw Vol. 1 1930-1932)
+  - Throw Me In The Alley (Peetie Wheatstraw Vol. 2 1934-1935)
+  - Suicide Blues (Peetie Wheatstraw Vol. 7 1940-1941)
+  - Peetie Wheatstraw Stomp (Peetie Wheatstraw Vol. 4 1936-1937)
+  - Shack Bully Stomp
+  - >-
+    Police Station Blues - 1932 Version (Back To The Crossroads: The Roots Of
+    Robert Johnson)
+  - >-
+    King of Spades - 1935 Version (Back To The Crossroads: The Roots Of Robert
+    Johnson)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4b522d01-7efd-478b-9910-1f9d7de40f72
-  spotify: https://open.spotify.com/artist/5DjfEhP0XiH279qFeyR7qF
-  wikipedia: https://en.wikipedia.org/wiki/Peetie_Wheatstraw
+  musicbrainz: 'https://musicbrainz.org/artist/4b522d01-7efd-478b-9910-1f9d7de40f72'
+  spotify: 'https://open.spotify.com/artist/5DjfEhP0XiH279qFeyR7qF'
+  wikipedia: 'https://en.wikipedia.org/wiki/Peetie_Wheatstraw'
 image_path: 03_Resources/source_material/ArtistPortraits/peetie_wheatstraw.jpg
 biography_enhanced_at: '2025-11-11T09:37:25.550535'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Peetie_Wheatstraw
-- http://oldtimeblues.net/tag/peetie-wheatstraw/
-- https://kids.kiddle.co/Peetie_Wheatstraw
-- https://blues.org/blues_hof_inductee/peetie-wheatstraw/
-- https://www.allmusic.com/artist/peetie-wheatstraw-mn0000302080
-- https://oakiedog.substack.com/p/ode-to-the-devils-son-in-law
+  - 'https://en.wikipedia.org/wiki/Peetie_Wheatstraw'
+  - 'http://oldtimeblues.net/tag/peetie-wheatstraw/'
+  - 'https://kids.kiddle.co/Peetie_Wheatstraw'
+  - 'https://blues.org/blues_hof_inductee/peetie-wheatstraw/'
+  - 'https://www.allmusic.com/artist/peetie-wheatstraw-mn0000302080'
+  - 'https://oakiedog.substack.com/p/ode-to-the-devils-son-in-law'
 network_extracted: true
 entry_created: '2025-11-11T09:37:25.550545'
 last_updated: '2025-12-23T08:16:14.170513'
 gender: Male
 musicbrainz_id: 4b522d01-7efd-478b-9910-1f9d7de40f72
 tags:
-- blues
+  - blues
+is_active: false
+origin: 'East St. Louis, Illinois, United States'
 ---
 
 ![](peetie_wheatstraw.jpg)

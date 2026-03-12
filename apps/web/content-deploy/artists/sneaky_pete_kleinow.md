@@ -5,26 +5,26 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1934-08-20'
-birth_place: South Bend
+birth_place: 'South Bend, Indiana, United States'
 death_date: '2007-01-06'
 genres: []
 instruments:
-- pedal steel guitar
-- steel guitar
-- lap steel guitar
-- slide guitar
-- lead vocals
+  - pedal steel guitar
+  - steel guitar
+  - lap steel guitar
+  - slide guitar
+  - lead vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b4375768-3c8b-46e7-b578-c920ccfe725f
-  name: The Flying Burrito Brothers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c12dcb83-5171-4509-8da7-23a08ed6b76a
-  name: Burrito Deluxe
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b4375768-3c8b-46e7-b578-c920ccfe725f
+    name: The Flying Burrito Brothers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c12dcb83-5171-4509-8da7-23a08ed6b76a
+    name: Burrito Deluxe
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sneaky_pete_kleinow.jpg
   caption: Sneaky Pete Kleinow
@@ -33,7 +33,7 @@ infobox:
   origin: South Bend
   died: '2007-01-06'
 audio_profile:
-  tempo_avg: 115.0
+  tempo_avg: 115
   energy_avg: 0.458
   valence_avg: 0.555
   danceability_avg: 0.573
@@ -47,52 +47,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Gram Parsons
-  - Chris Hillman
-  - Joan Baez, Jackson Browne, The Byrds, Leonard Cohen, Joe Cocker, Eagles, The Everly Brothers, Ringo Starr, John Lennon,
-    The Steve Miller Band, Joni Mitchell, The Rolling Stones, Stevie Wonder, Linda Ronstadt, Little Richard, Jimmie Spheeris
-  - Garth Hudson
+    - Gram Parsons
+    - Chris Hillman
+    - >-
+      Joan Baez, Jackson Browne, The Byrds, Leonard Cohen, Joe Cocker, Eagles,
+      The Everly Brothers, Ringo Starr, John Lennon, The Steve Miller Band, Joni
+      Mitchell, The Rolling Stones, Stevie Wonder, Linda Ronstadt, Little
+      Richard, Jimmie Spheeris
+    - Garth Hudson
   influenced:
-  - Jerry Garcia
-  - Buddy Cage
-  - Al Perkins
+    - Jerry Garcia
+    - Buddy Cage
+    - Al Perkins
   mentors:
-  - Jerry Byrd
+    - Jerry Byrd
 spotify_data:
   followers: 2449
   id: 5VJJqNy6l5zfX9LpLit5N0
   popularity: 16
-  url: https://open.spotify.com/artist/5VJJqNy6l5zfX9LpLit5N0
+  url: 'https://open.spotify.com/artist/5VJJqNy6l5zfX9LpLit5N0'
 discography_enriched: true
 top_tracks:
-- Sleepwalk (Meet Sneaky Pete)
-- Sister (Meet Sneaky Pete)
-- Beat the Heat (The Shiloh Records Anthology)
-- Sleepy Lagoon (The Shiloh Records Anthology)
-- No More Love To Give (Meet Sneaky Pete)
-- Sneak Attack (Meet Sneaky Pete)
-- It Makes No Difference (Meet Sneaky Pete)
-- From Me To You (Meet Sneaky Pete)
-- Fly The Bright Sea (Meet Sneaky Pete)
-- Woman (Meet Sneaky Pete)
+  - Sleepwalk (Meet Sneaky Pete)
+  - Sister (Meet Sneaky Pete)
+  - Beat the Heat (The Shiloh Records Anthology)
+  - Sleepy Lagoon (The Shiloh Records Anthology)
+  - No More Love To Give (Meet Sneaky Pete)
+  - Sneak Attack (Meet Sneaky Pete)
+  - It Makes No Difference (Meet Sneaky Pete)
+  - From Me To You (Meet Sneaky Pete)
+  - Fly The Bright Sea (Meet Sneaky Pete)
+  - Woman (Meet Sneaky Pete)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f7b1e334-2aaa-4ef2-85f9-5c2c8cdb90dc
-  spotify: https://open.spotify.com/artist/5VJJqNy6l5zfX9LpLit5N0
-  wikipedia: https://en.wikipedia.org/wiki/Sneaky_Pete_Kleinow
+  musicbrainz: 'https://musicbrainz.org/artist/f7b1e334-2aaa-4ef2-85f9-5c2c8cdb90dc'
+  spotify: 'https://open.spotify.com/artist/5VJJqNy6l5zfX9LpLit5N0'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sneaky_Pete_Kleinow'
 image_path: 03_Resources/source_material/ArtistPortraits/sneaky_pete_kleinow.jpg
 biography_enhanced_at: '2025-11-20T07:01:45.352966'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Sneaky_Pete_Kleinow
-- https://www.vintageguitar.com/36572/sneaky-pete-kleinow/
-- https://www.latimes.com/archives/la-xpm-2007-jan-10-me-kleinow10-story.html
-- https://www.sfgate.com/bayarea/article/Sneaky-Pete-Kleinow-film-effects-artist-2656559.php
+  - 'https://en.wikipedia.org/wiki/Sneaky_Pete_Kleinow'
+  - 'https://www.vintageguitar.com/36572/sneaky-pete-kleinow/'
+  - 'https://www.latimes.com/archives/la-xpm-2007-jan-10-me-kleinow10-story.html'
+  - >-
+    https://www.sfgate.com/bayarea/article/Sneaky-Pete-Kleinow-film-effects-artist-2656559.php
 network_extracted: true
 entry_created: '2025-11-20T07:01:45.352971'
 last_updated: '2025-12-23T08:16:15.828540'
 gender: Male
 musicbrainz_id: f7b1e334-2aaa-4ef2-85f9-5c2c8cdb90dc
+is_active: false
 ---
 
 ![](sneaky_pete_kleinow.jpg)

@@ -1,39 +1,42 @@
 ---
 biography_enhanced_at: '2026-01-19T01:07:11.573918'
-birth_place: Asheville, North Carolina, United States
+birth_place: 'Asheville, North Carolina, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-19T01:07:11.573924'
 external_urls:
-  spotify: https://open.spotify.com/artist/4pq4LgBpZRD51EA9YnOnq7
+  spotify: 'https://open.spotify.com/artist/4pq4LgBpZRD51EA9YnOnq7'
   wikipedia: Not found
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/jane_kramer.jpg
 last_updated: '2026-01-19T01:07:11.573925'
 musical_connections:
   collaborators:
-  - The Barrel House Mamas
-  - Free Planet Radio members
-  - Pierce Edens
+    - The Barrel House Mamas
+    - Free Planet Radio members
+    - Pierce Edens
   influenced: []
   mentors:
-  - Emmylou Harris
+    - Emmylou Harris
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://albinoskunk.com/lineup/jane-kramer/
-- https://www.bpr.org/arts-performance/2019-02-25/after-losing-nearly-everything-defining-her-life-jane-kramer-found-her-own-musical-voice
-- https://www.freshstartsregistry.com/podcast-episodes/jane-kramer-music
-- https://roswellmusicclub.com/may-2023janekramer-songstress
-- https://purplefiddle.com/bands/jane-kramer/
-- https://diglocal.com/asheville-nc/scoops-things-to-do/78688-well-crafted-music-series-with-guest-host-jane-kramer
-- https://ink19.com/2019/03/magazine/music-reviews/b6buof-jane-kramer
+  - 'https://albinoskunk.com/lineup/jane-kramer/'
+  - >-
+    https://www.bpr.org/arts-performance/2019-02-25/after-losing-nearly-everything-defining-her-life-jane-kramer-found-her-own-musical-voice
+  - 'https://www.freshstartsregistry.com/podcast-episodes/jane-kramer-music'
+  - 'https://roswellmusicclub.com/may-2023janekramer-songstress'
+  - 'https://purplefiddle.com/bands/jane-kramer/'
+  - >-
+    https://diglocal.com/asheville-nc/scoops-things-to-do/78688-well-crafted-music-series-with-guest-host-jane-kramer
+  - 'https://ink19.com/2019/03/magazine/music-reviews/b6buof-jane-kramer'
 spotify_data:
   followers: 829
   id: 4pq4LgBpZRD51EA9YnOnq7
   popularity: 1
-  url: https://open.spotify.com/artist/4pq4LgBpZRD51EA9YnOnq7
+  url: 'https://open.spotify.com/artist/4pq4LgBpZRD51EA9YnOnq7'
 status: active
-title: JANE KRAMER
+title: Jane Kramer
+artist_type: person
 ---
 
 ![](jane_kramer.jpg)

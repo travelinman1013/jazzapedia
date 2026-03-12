@@ -2,19 +2,19 @@
 title: American Aquarium
 wiki_slug: american-aquarium
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
-birth_date: '2005'
+birth_date: '2006'
 genres:
-- red dirt
-- alt country
-- texas country
-- americana
+  - red dirt
+  - alt country
+  - texas country
+  - americana
 instruments:
-- guitar
-- original
-- lead vocals
-- pedal steel guitar
+  - guitar
+  - original
+  - lead vocals
+  - pedal steel guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/american_aquarium.jpg
   caption: American Aquarium
@@ -35,91 +35,93 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Shane Boeker
-  - Rhett Huffman
-  - Neil Jones
-  - Ryan Van Fleet
-  - Alden Hedges
-  - John Fulbright
+    - Shane Boeker
+    - Rhett Huffman
+    - Neil Jones
+    - Ryan Van Fleet
+    - Alden Hedges
+    - John Fulbright
   influenced: []
   mentors:
-  - Jason Isbell
+    - Jason Isbell
 spotify_data:
   followers: 76853
   id: 7nSYcucRT6IGiMepEmiZgT
   popularity: 40
-  url: https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT
+  url: 'https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT'
 discography_enriched: true
 top_tracks:
-- Before The Dogwood Blooms (Lamentations)
-- The Luckier You Get (Lamentations)
-- Losing Side of Twenty Five (Wolves)
-- Six Years Come September (Lamentations)
-- Man I'm Supposed to Be (Wolves)
-- Brother, Oh Brother (Small Town Hymns)
-- Cherokee Purples (The Fear of Standing Still)
-- Burn Flicker. Die. (Burn.Flicker.Die)
-- I Hope He Breaks Your Heart (Dances For The Lonely)
-- The Long Haul (Lamentations)
+  - Before The Dogwood Blooms (Lamentations)
+  - The Luckier You Get (Lamentations)
+  - Losing Side of Twenty Five (Wolves)
+  - Six Years Come September (Lamentations)
+  - Man I'm Supposed to Be (Wolves)
+  - 'Brother, Oh Brother (Small Town Hymns)'
+  - Cherokee Purples (The Fear of Standing Still)
+  - Burn Flicker. Die. (Burn.Flicker.Die)
+  - I Hope He Breaks Your Heart (Dances For The Lonely)
+  - The Long Haul (Lamentations)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/369d3523-46b1-4127-8664-128f214d0a65
-  spotify: https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT
-  wikipedia: https://en.wikipedia.org/wiki/American_Aquarium
+  musicbrainz: 'https://musicbrainz.org/artist/369d3523-46b1-4127-8664-128f214d0a65'
+  spotify: 'https://open.spotify.com/artist/7nSYcucRT6IGiMepEmiZgT'
+  wikipedia: 'https://en.wikipedia.org/wiki/American_Aquarium'
 image_path: 03_Resources/source_material/ArtistPortraits/american_aquarium.jpg
 biography_enhanced_at: '2025-12-04T08:14:27.924050'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/American+Aquarium/+wiki
-- https://en.wikipedia.org/wiki/American_Aquarium
-- https://themusicalboxdotblog.wordpress.com/2024/01/19/a-few-minutes-with-bj-barham-of-american-aquarium/
-- https://lonestarmusicmagazine.com/american-aquarium-reborn-in-fire/
-- https://grokipedia.com/page/American_Aquarium
-- https://www.themusicfest.com/artists/american-aquarium/
-- http://www.americanaquarium.com/bio
-- https://waltermagazine.com/art-and-culture/american-aquarium/
-- https://diffuser.fm/in-conversation-with-american-aquarium-bj-barham/
-- https://thekessler.org/bands/american-aquarium/
+  - 'https://www.last.fm/music/American+Aquarium/+wiki'
+  - 'https://en.wikipedia.org/wiki/American_Aquarium'
+  - >-
+    https://themusicalboxdotblog.wordpress.com/2024/01/19/a-few-minutes-with-bj-barham-of-american-aquarium/
+  - 'https://lonestarmusicmagazine.com/american-aquarium-reborn-in-fire/'
+  - 'https://grokipedia.com/page/American_Aquarium'
+  - 'https://www.themusicfest.com/artists/american-aquarium/'
+  - 'http://www.americanaquarium.com/bio'
+  - 'https://waltermagazine.com/art-and-culture/american-aquarium/'
+  - 'https://diffuser.fm/in-conversation-with-american-aquarium-bj-barham/'
+  - 'https://thekessler.org/bands/american-aquarium/'
 network_extracted: true
 entry_created: '2025-12-04T08:14:27.924060'
 last_updated: '2025-12-23T08:16:04.694984'
 members:
-- &id001
-  begin: '2006'
-  end: ''
-  instruments:
-  - guitar
-  - original
-  mbid: 33bc2add-784e-430d-a79b-fe38e58bdc6c
-  name: BJ Barham
-- &id002
-  begin: '2006'
-  end: ''
-  instruments:
-  - lead vocals
-  - original
-  mbid: 33bc2add-784e-430d-a79b-fe38e58bdc6c
-  name: BJ Barham
-- begin: 2007-10
-  end: 2017-02
-  instruments:
-  - guitar
-  mbid: 242c9471-5a20-4efe-a45d-625b6bcfedca
-  name: Ryan Johnson
-- begin: ''
-  end: ''
-  instruments:
-  - pedal steel guitar
-  mbid: 60beeed3-9f68-443d-919e-e2f51c57d00e
-  name: Whit Wright
+  - &ref_0
+    begin: '2006'
+    end: ''
+    instruments:
+      - guitar
+      - original
+    mbid: 33bc2add-784e-430d-a79b-fe38e58bdc6c
+    name: BJ Barham
+  - &ref_1
+    begin: '2006'
+    end: ''
+    instruments:
+      - lead vocals
+      - original
+    mbid: 33bc2add-784e-430d-a79b-fe38e58bdc6c
+    name: BJ Barham
+  - begin: 2007-10
+    end: 2017-02
+    instruments:
+      - guitar
+    mbid: 242c9471-5a20-4efe-a45d-625b6bcfedca
+    name: Ryan Johnson
+  - begin: ''
+    end: ''
+    instruments:
+      - pedal steel guitar
+    mbid: 60beeed3-9f68-443d-919e-e2f51c57d00e
+    name: Whit Wright
 musicbrainz_id: 369d3523-46b1-4127-8664-128f214d0a65
-origin: Raleigh
+origin: 'Raleigh, North Carolina, United States'
 original_members:
-- *id001
-- *id002
+  - *ref_0
+  - *ref_1
 tags:
-- alternative country
-- rock
+  - alternative country
+  - rock
+birth_place: 'Reidsville, North Carolina, United States'
 ---
 
 ![](american_aquarium.jpg)

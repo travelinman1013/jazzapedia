@@ -3,7 +3,7 @@ biography_enhanced_at: '2026-01-09T01:49:26.763892'
 enhancement_provider: perplexity
 entry_created: '2026-01-09T01:49:26.763901'
 external_urls:
-  spotify: https://open.spotify.com/artist/5TJl1ExKIGzy7DgyCi0VeY
+  spotify: 'https://open.spotify.com/artist/5TJl1ExKIGzy7DgyCi0VeY'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/knox_ketchum.jpg
@@ -15,20 +15,24 @@ musical_connections:
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://vanderbilthustler.com/2023/02/24/a-record-deal-debut-ep-and-sold-out-headline-show-knox-shares-his-path-to-success/
-- https://www.daytondailynews.com/what-to-know/meet-knox-a-rising-star-with-local-roots-releases-debut-album/2XBBVBMWIZCGHK4JXPQ7N35WTE/
-- https://www.melodicmag.com/news/knox-reflects-on-a-toxic-relationship-in-latest-single-you-happened/
-- https://mokbpresents.com/artist/knox/
-- https://www.thenuancemagazine.com/nuance-news-feed/interview-knox
-- https://en.wikipedia.org/wiki/Knox_(American_musician)
-- https://www.youtube.com/watch?v=fqqvjgcNl44
+  - >-
+    https://vanderbilthustler.com/2023/02/24/a-record-deal-debut-ep-and-sold-out-headline-show-knox-shares-his-path-to-success/
+  - >-
+    https://www.daytondailynews.com/what-to-know/meet-knox-a-rising-star-with-local-roots-releases-debut-album/2XBBVBMWIZCGHK4JXPQ7N35WTE/
+  - >-
+    https://www.melodicmag.com/news/knox-reflects-on-a-toxic-relationship-in-latest-single-you-happened/
+  - 'https://mokbpresents.com/artist/knox/'
+  - 'https://www.thenuancemagazine.com/nuance-news-feed/interview-knox'
+  - 'https://en.wikipedia.org/wiki/Knox_(American_musician)'
+  - 'https://www.youtube.com/watch?v=fqqvjgcNl44'
 spotify_data:
   followers: 116
   id: 5TJl1ExKIGzy7DgyCi0VeY
   popularity: 4
-  url: https://open.spotify.com/artist/5TJl1ExKIGzy7DgyCi0VeY
+  url: 'https://open.spotify.com/artist/5TJl1ExKIGzy7DgyCi0VeY'
 status: active
 title: Knox Ketchum
+artist_type: person
 ---
 
 ![](knox_ketchum.jpg)

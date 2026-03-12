@@ -1,12 +1,13 @@
 ---
-title: Dolly Parton, Linda Ronstadt, Emmylou Harris
+title: 'Dolly Parton, Linda Ronstadt, Emmylou Harris'
 wiki_slug: dolly-parton-linda-ronstadt-emmylou-harris
 schema_version: 2
 status: active
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/dolly_parton_linda_ronstadt_emmylou_harris.jpg
-  caption: Dolly Parton, Linda Ronstadt, Emmylou Harris
+  image: >-
+    03_Resources/source_material/ArtistPortraits/dolly_parton_linda_ronstadt_emmylou_harris.jpg
+  caption: 'Dolly Parton, Linda Ronstadt, Emmylou Harris'
   background: solo_singer
 audio_profile:
   tempo_avg: 174.4
@@ -14,7 +15,7 @@ audio_profile:
   valence_avg: 0.33
   danceability_avg: 0.332
   acousticness_avg: 0.747
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -13.6
   speechiness_avg: 0.034
   liveness_avg: 0.113
@@ -23,40 +24,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - George Massenburg
-  - Session Musicians (various)
+    - George Massenburg
+    - Session Musicians (various)
   influenced:
-  - The Chicks (formerly Dixie Chicks)
-  - Brandi Carlile
+    - The Chicks (formerly Dixie Chicks)
+    - Brandi Carlile
   mentors:
-  - Gram Parsons
+    - Gram Parsons
 spotify_data:
   followers: 2254
   id: 3FjOdEflyH6wWrmTfj4xUo
   popularity: 5
-  url: https://open.spotify.com/artist/3FjOdEflyH6wWrmTfj4xUo
+  url: 'https://open.spotify.com/artist/3FjOdEflyH6wWrmTfj4xUo'
 discography_enriched: true
 top_tracks:
-- 'To Know Him Is to Love Him - 2005 Remaster (Heartaches & Highways: The Very Best of Emmylou Harris)'
+  - >-
+    To Know Him Is to Love Him - 2005 Remaster (Heartaches & Highways: The Very
+    Best of Emmylou Harris)
 external_urls:
-  spotify: https://open.spotify.com/artist/3FjOdEflyH6wWrmTfj4xUo
-  wikipedia: https://en.wikipedia.org/wiki/Trio_(music_group)
+  spotify: 'https://open.spotify.com/artist/3FjOdEflyH6wWrmTfj4xUo'
+  wikipedia: 'https://en.wikipedia.org/wiki/Trio_(music_group)'
 image_path: ''
 biography_enhanced_at: '2025-11-08T21:48:32.031400'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://theboot.com/dolly-parton-linda-ronstadt-emmylou-harris-trio/
-- https://dollyparton.com/tag/trio-collection
-- https://www.youtube.com/watch?v=uQ7StOs2xY0
-- https://americansongwriter.com/behind-the-album-how-dolly-parton-linda-ronstadt-and-emmylou-harris-formed-an-unbeatable-trio/
-- https://media.rhino.com/press-release/dolly-parton-linda-ronstadt-and-emmylou-harris-complete-trio-collection-available
-- https://savingcountrymusic.com/dolly-parton-emmylou-harris-linda-ronstadt-trio-to-receive-distinction-in-hollywood/
+  - 'https://theboot.com/dolly-parton-linda-ronstadt-emmylou-harris-trio/'
+  - 'https://dollyparton.com/tag/trio-collection'
+  - 'https://www.youtube.com/watch?v=uQ7StOs2xY0'
+  - >-
+    https://americansongwriter.com/behind-the-album-how-dolly-parton-linda-ronstadt-and-emmylou-harris-formed-an-unbeatable-trio/
+  - >-
+    https://media.rhino.com/press-release/dolly-parton-linda-ronstadt-and-emmylou-harris-complete-trio-collection-available
+  - >-
+    https://savingcountrymusic.com/dolly-parton-emmylou-harris-linda-ronstadt-trio-to-receive-distinction-in-hollywood/
 network_extracted: true
 entry_created: '2025-11-08T21:48:32.031416'
 last_updated: '2025-12-23T08:16:07.852545'
-origin: United States (Nashville, Tennessee for Dolly Parton; Tucson, Arizona for Linda Ronstadt; Birmingham, Alabama for
-  Emmylou Harris)
+origin: >-
+  United States (Nashville, Tennessee for Dolly Parton; Tucson, Arizona for
+  Linda Ronstadt; Birmingham, Alabama for Emmylou Harris)
+artist_type: band
 ---
 
 ![]()

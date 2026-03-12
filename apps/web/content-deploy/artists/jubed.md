@@ -1,44 +1,50 @@
 ---
 biography_enhanced_at: '2025-12-28T01:57:31.632733'
-birth_place: Kumasi, Ashanti Region, Ghana
+birth_place: 'Kumasi, Ashanti Region, Ghana'
 enhancement_provider: perplexity
 entry_created: '2025-12-28T01:57:31.632742'
 external_urls:
-  spotify: https://open.spotify.com/artist/1cRKqHdKhNPTdouuF6HcbC
+  spotify: 'https://open.spotify.com/artist/1cRKqHdKhNPTdouuF6HcbC'
   wikipedia: null
 genres:
-- hiplife
-- afrobeats
-- afrobeat
-- afropiano
-- afropop
+  - hiplife
+  - afrobeats
+  - afrobeat
+  - afropiano
+  - afropop
 image_path: 03_Resources/source_material/ArtistPortraits/jubed.jpg
 last_updated: '2025-12-28T01:57:31.632744'
 musical_connections:
   collaborators:
-  - Oxlade
-  - Yemi Alade
-  - Prince MK Baagi
-  - L.A.X
+    - Oxlade
+    - Yemi Alade
+    - Prince MK Baagi
+    - L.A.X
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- 'The Echo House – "Jubed: The Soul Architect Redefining Afrobeat & Amapiano From
-  Ghana"[1]'
-- GhanaWeb – "Jubed announces 'From The Soil – Deluxe Edition'"[2]
-- Music Metrics Vault – Jubed artist profile[3]
-- 'Ranks Africa – "Jubed: The Rising Star Taking Over the Music Scene with ''Ruwa''"[4]'
-- 'iMullar – "Introducing Jubed: Ghana''s Future-Facing Artist Blending Music with
-  Raw Cultural Truth"[5]'
+  - >-
+    The Echo House – "Jubed: The Soul Architect Redefining Afrobeat & Amapiano
+    From Ghana"[1]
+  - 'GhanaWeb – "Jubed announces ''From The Soil – Deluxe Edition''"[2]'
+  - 'Music Metrics Vault – Jubed artist profile[3]'
+  - >-
+    Ranks Africa – "Jubed: The Rising Star Taking Over the Music Scene with
+    'Ruwa'"[4]
+  - >-
+    iMullar – "Introducing Jubed: Ghana's Future-Facing Artist Blending Music
+    with Raw Cultural Truth"[5]
 spotify_data:
   followers: 4954
   id: 1cRKqHdKhNPTdouuF6HcbC
   popularity: 35
-  url: https://open.spotify.com/artist/1cRKqHdKhNPTdouuF6HcbC
+  url: 'https://open.spotify.com/artist/1cRKqHdKhNPTdouuF6HcbC'
 status: active
-title: jubed
+title: Jubed
+origin: 'Kumasi, Ashanti Region, Ghana'
+artist_type: person
 ---
 
 ![](jubed.jpg)

@@ -3,14 +3,14 @@ title: Miss Sophie Lee Lowry
 wiki_slug: miss-sophie-lee-lowry
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, USA (origin); Chicago, Illinois, USA (birthplace)
+birth_place: 'New Orleans, Louisiana, USA (origin); Chicago, Illinois, USA (birthplace)'
 genres:
-- swing music
+  - swing music
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/miss_sophie_lee_lowry.jpg
   caption: Miss Sophie Lee Lowry
   background: solo_singer
-  origin: New Orleans, Louisiana, USA (origin); Chicago, Illinois, USA (birthplace)
+  origin: 'New Orleans, Louisiana, USA (origin); Chicago, Illinois, USA (birthplace)'
 audio_profile:
   tempo_avg: 126.2
   energy_avg: 0.299
@@ -26,46 +26,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Frenchmen Street jazz musicians
+    - Frenchmen Street jazz musicians
   influenced:
-  - Emerging New Orleans jazz vocalists
+    - Emerging New Orleans jazz vocalists
   mentors:
-  - Billie Holiday
+    - Billie Holiday
 spotify_data:
   followers: 109
   id: 0tuhSsKa43Dm8l8t9pioty
   popularity: 0
-  url: https://open.spotify.com/artist/0tuhSsKa43Dm8l8t9pioty
+  url: 'https://open.spotify.com/artist/0tuhSsKa43Dm8l8t9pioty'
 discography_enriched: true
 top_tracks:
-- Take Another Guess (The Frenchmen Muse)
-- That's Life I Guess (The Frenchmen Muse)
-- Everyone's Wrong but Me (The Frenchmen Muse)
-- I Wished on the Moon (The Frenchmen Muse)
-- Remember When (The Frenchmen Muse)
-- Bread and Gravy - Live (The Frenchmen Muse)
-- I Can't Give You Anything but Love (The Frenchmen Muse)
-- Naturally (The Frenchmen Muse)
-- I Got a Right to Sing the Blues (The Frenchmen Muse)
-- Old Fashioned Love (The Frenchmen Muse)
+  - Take Another Guess (The Frenchmen Muse)
+  - That's Life I Guess (The Frenchmen Muse)
+  - Everyone's Wrong but Me (The Frenchmen Muse)
+  - I Wished on the Moon (The Frenchmen Muse)
+  - Remember When (The Frenchmen Muse)
+  - Bread and Gravy - Live (The Frenchmen Muse)
+  - I Can't Give You Anything but Love (The Frenchmen Muse)
+  - Naturally (The Frenchmen Muse)
+  - I Got a Right to Sing the Blues (The Frenchmen Muse)
+  - Old Fashioned Love (The Frenchmen Muse)
 external_urls:
-  spotify: https://open.spotify.com/artist/0tuhSsKa43Dm8l8t9pioty
+  spotify: 'https://open.spotify.com/artist/0tuhSsKa43Dm8l8t9pioty'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/miss_sophie_lee_lowry.jpg
 biography_enhanced_at: '2025-11-20T07:06:29.636106'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://misssophielee.com/bio/
-- https://www.offbeat.com/articles/miss-sophie-lee-tracking-her-roots/
-- https://www.magnolianola.com/miss-sophie-lee
-- https://www.neworleans.com/listing/miss-sophie-lee/46495/
-- https://www.myspiltmilk.com/articles/miss-sophie-lee-traversed-music-school-and-rock-band-on-her-way-to-jazz-fest
-- https://sucktheheads.com/having-it-all/
-- https://www.offbeat.com/music/miss-sophie-lee-tallulah-moon-sophie-lee-music/
+  - 'https://misssophielee.com/bio/'
+  - 'https://www.offbeat.com/articles/miss-sophie-lee-tracking-her-roots/'
+  - 'https://www.magnolianola.com/miss-sophie-lee'
+  - 'https://www.neworleans.com/listing/miss-sophie-lee/46495/'
+  - >-
+    https://www.myspiltmilk.com/articles/miss-sophie-lee-traversed-music-school-and-rock-band-on-her-way-to-jazz-fest
+  - 'https://sucktheheads.com/having-it-all/'
+  - >-
+    https://www.offbeat.com/music/miss-sophie-lee-tallulah-moon-sophie-lee-music/
 network_extracted: true
 entry_created: '2025-11-20T07:06:29.636121'
 last_updated: '2025-12-23T08:16:13.214489'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](miss_sophie_lee_lowry.jpg)

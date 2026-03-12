@@ -3,42 +3,47 @@ biography_enhanced_at: '2025-12-30T01:29:09.892484'
 enhancement_provider: perplexity
 entry_created: '2025-12-30T01:29:09.892490'
 external_urls:
-  spotify: https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6
-  wikipedia: https://en.wikipedia.org/wiki/De_La_Soul; https://en.wikipedia.org/wiki/Nas
+  spotify: 'https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6'
+  wikipedia: 'https://en.wikipedia.org/wiki/De_La_Soul; https://en.wikipedia.org/wiki/Nas'
 genres:
-- jazz rap
-- east coast hip hop
+  - jazz rap
+  - east coast hip hop
 image_path: 03_Resources/source_material/ArtistPortraits/de_la_soul_nas.jpg
 last_updated: '2025-12-30T01:29:09.892491'
 musical_connections:
   collaborators:
-  - Olu Dara
-  - MC Serch
-  - Foxy Brown, AZ, Nature
+    - Olu Dara
+    - MC Serch
+    - 'Foxy Brown, AZ, Nature'
   influenced:
-  - A Tribe Called Quest
-  - Dave East, Run the Jewels
+    - A Tribe Called Quest
+    - 'Dave East, Run the Jewels'
   mentors:
-  - Large Professor
-  - Olu Dara
-  - Prince Paul
+    - Large Professor
+    - Olu Dara
+    - Prince Paul
 network_extracted: true
-origin: Amityville, Long Island, New York, USA (De La Soul); Queensbridge, Queens,
-  New York, USA (Nas)
+origin: >-
+  Amityville, Long Island, New York, USA (De La Soul); Queensbridge, Queens, New
+  York, USA (Nas)
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Nas
-- https://en.wikipedia.org/wiki/De_La_Soul
-- https://www.latimes.com/archives/la-xpm-2004-dec-05-ca-nas5-story.html
-- https://teachrock.org/people/de-la-soul/
-- https://www.britannica.com/topic/De-La-Soul
+  - 'https://en.wikipedia.org/wiki/Nas'
+  - 'https://en.wikipedia.org/wiki/De_La_Soul'
+  - 'https://www.latimes.com/archives/la-xpm-2004-dec-05-ca-nas5-story.html'
+  - 'https://teachrock.org/people/de-la-soul/'
+  - 'https://www.britannica.com/topic/De-La-Soul'
 spotify_data:
   followers: 1213319
   id: 1Z8ODXyhEBi3WynYw0Rya6
   popularity: 75
-  url: https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6
+  url: 'https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6'
 status: active
 title: De La Soul/ Nas
+birth_place: 'Brooklyn, New York, United States'
+birth_date: '1973-09-14'
+death_date: '2023'
+artist_type: band
 ---
 
 ![](de_la_soul_nas.jpg)

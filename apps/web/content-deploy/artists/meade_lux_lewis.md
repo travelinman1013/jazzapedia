@@ -1,40 +1,40 @@
 ---
-title: meade lux lewis
+title: Meade Lux Lewis
 wiki_slug: meade-lux-lewis
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1905-09-04'
-birth_place: Chicago
+birth_place: 'Chicago, Illinois, United States'
 death_date: '1964-06-07'
 genres:
-- boogie-woogie
-- ragtime
-- boogie
-- blues
+  - boogie-woogie
+  - ragtime
+  - boogie
+  - blues
 instruments:
-- eponymous
-- original
-- piano
-associated_acts:
-- begin: '1938'
-  end: '1938'
-  instruments: []
-  mbid: d78563f2-d1d7-4dde-a2a3-e648312c2586
-  name: The Boogie Woogie Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 052324df-f4d8-4f3d-8d13-88dca9037205
-  name: Edmond Hall Celeste Quartet
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
   - piano
-  mbid: 201699d6-3f98-4dbb-8df0-86c8a923d255
-  name: Albert, Meade, Pete and Their Three Pianos
+associated_acts:
+  - begin: '1938'
+    end: '1938'
+    instruments: []
+    mbid: d78563f2-d1d7-4dde-a2a3-e648312c2586
+    name: The Boogie Woogie Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 052324df-f4d8-4f3d-8d13-88dca9037205
+    name: Edmond Hall Celeste Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - piano
+    mbid: 201699d6-3f98-4dbb-8df0-86c8a923d255
+    name: 'Albert, Meade, Pete and Their Three Pianos'
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/meade_lux_lewis.jpg
   caption: meade lux lewis
@@ -57,55 +57,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Albert Ammons
-  - Pete Johnson
-  - Louis Armstrong
+    - Albert Ammons
+    - Pete Johnson
+    - Louis Armstrong
   influenced:
-  - Tommy Dorsey
-  - Will Bradley
+    - Tommy Dorsey
+    - Will Bradley
   mentors:
-  - Jimmy Yancey
-  - Pine Top Smith
+    - Jimmy Yancey
+    - Pine Top Smith
 spotify_data:
   followers: 5064
   id: 7MiRMD4od8lrhJ8sd0etP0
   popularity: 15
-  url: https://open.spotify.com/artist/7MiRMD4od8lrhJ8sd0etP0
+  url: 'https://open.spotify.com/artist/7MiRMD4od8lrhJ8sd0etP0'
 discography_enriched: true
 top_tracks:
-- Honky Tonk Train Blues (The Very Best Of Boogie Woogie)
-- The Blues, Part One (The First Day)
-- Boogie Woogie Prayer (The Boogie Woogie Trio vol. 1)
-- Boogie Woogie Prayer - (Alternate Version) (Shout For Joy)
-- Meade'S Blues (The Very Best Of Boogie Woogie)
-- Twos And Fews (The First Day)
-- Roll 'em Pete (The Original Boogie Woogie Piano Giants)
-- Boogie Woogie Prayer
-- The Blues Part 1
-- Honky Tonk Train Blues (Meade "Lux" Lewis (1939 to late 1940s))
+  - Honky Tonk Train Blues (The Very Best Of Boogie Woogie)
+  - 'The Blues, Part One (The First Day)'
+  - Boogie Woogie Prayer (The Boogie Woogie Trio vol. 1)
+  - Boogie Woogie Prayer - (Alternate Version) (Shout For Joy)
+  - Meade'S Blues (The Very Best Of Boogie Woogie)
+  - Twos And Fews (The First Day)
+  - Roll 'em Pete (The Original Boogie Woogie Piano Giants)
+  - Boogie Woogie Prayer
+  - The Blues Part 1
+  - Honky Tonk Train Blues (Meade "Lux" Lewis (1939 to late 1940s))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/abb415f3-a991-4fa7-b47a-674ab86fe060
-  spotify: https://open.spotify.com/artist/7MiRMD4od8lrhJ8sd0etP0
-  wikipedia: https://en.wikipedia.org/wiki/Meade_Lux_Lewis
+  musicbrainz: 'https://musicbrainz.org/artist/abb415f3-a991-4fa7-b47a-674ab86fe060'
+  spotify: 'https://open.spotify.com/artist/7MiRMD4od8lrhJ8sd0etP0'
+  wikipedia: 'https://en.wikipedia.org/wiki/Meade_Lux_Lewis'
 image_path: 03_Resources/source_material/ArtistPortraits/meade_lux_lewis.jpg
 biography_enhanced_at: '2025-12-16T03:22:11.498495'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://aaregistry.org/story/meade-lux-lewis-true-boogie-woogie-piano/
-- https://en.wikipedia.org/wiki/Meade_Lux_Lewis
-- https://www.villageofgraftonwi.gov/DocumentCenter/View/16247/Meade-Lux-Lewis
-- https://jazzleadsheets.com/artists/meade-lux-lewis-artist.html
-- https://syncopatedtimes.com/anderson-meade-lux-lewis/
+  - 'https://aaregistry.org/story/meade-lux-lewis-true-boogie-woogie-piano/'
+  - 'https://en.wikipedia.org/wiki/Meade_Lux_Lewis'
+  - 'https://www.villageofgraftonwi.gov/DocumentCenter/View/16247/Meade-Lux-Lewis'
+  - 'https://jazzleadsheets.com/artists/meade-lux-lewis-artist.html'
+  - 'https://syncopatedtimes.com/anderson-meade-lux-lewis/'
 network_extracted: true
 entry_created: '2025-12-16T03:22:11.498509'
 last_updated: '2025-12-23T08:16:12.901718'
 gender: Male
 musicbrainz_id: abb415f3-a991-4fa7-b47a-674ab86fe060
 tags:
-- 2008 universal fire victim
-- blues
-- boogie-woogie
+  - 2008 universal fire victim
+  - blues
+  - boogie-woogie
+is_active: false
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](meade_lux_lewis.jpg)

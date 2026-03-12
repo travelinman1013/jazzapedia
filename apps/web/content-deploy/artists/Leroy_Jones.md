@@ -3,14 +3,14 @@ title: Leroy Jones
 wiki_slug: leroy-jones
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- ragtime
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Leroy_Jones.jpg
   caption: Leroy Jones
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 120.8
   energy_avg: 0.444
@@ -26,47 +26,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Harry Connick, Jr.
-  - Dr. John
-  - Preservation Hall Jazz Band
-  - Eddie Vinson
-  - Della Reese
+    - 'Harry Connick, Jr.'
+    - Dr. John
+    - Preservation Hall Jazz Band
+    - Eddie Vinson
+    - Della Reese
   influenced:
-  - Numerous New Orleans brass band musicians
+    - Numerous New Orleans brass band musicians
   mentors:
-  - Danny Barker
+    - Danny Barker
 spotify_data:
   followers: 2955
   id: 4FJeAiorEH5xbMX5fJbQjB
   popularity: 14
-  url: https://open.spotify.com/artist/4FJeAiorEH5xbMX5fJbQjB
+  url: 'https://open.spotify.com/artist/4FJeAiorEH5xbMX5fJbQjB'
 discography_enriched: true
 top_tracks:
-- Dippy
-- Whoopin' Blues (New Orleans Brass Band Music - Memories Of The Fairview & Hurricane Band)
-- Pennies from Heaven (Back to My Roots)
-- South Rampart Street Parade (New Orleans Brass Band Music - Memories Of The Fairview & Hurricane Band)
-- Soul Instrument Harp
-- Lord, Lord, Lord (New Orleans Brass Band Music - Memories Of The Fairview & Hurricane Band)
-- When My Dreamboat Comes Home (Mo' Cream From The Crop)
-- Mack the Knife (Soft Shoe)
-- Parlor for the Crawlers (Back to My Roots)
-- I'll Fly Away (Ministry of Jazz)
+  - Dippy
+  - >-
+    Whoopin' Blues (New Orleans Brass Band Music - Memories Of The Fairview &
+    Hurricane Band)
+  - Pennies from Heaven (Back to My Roots)
+  - >-
+    South Rampart Street Parade (New Orleans Brass Band Music - Memories Of The
+    Fairview & Hurricane Band)
+  - Soul Instrument Harp
+  - >-
+    Lord, Lord, Lord (New Orleans Brass Band Music - Memories Of The Fairview &
+    Hurricane Band)
+  - When My Dreamboat Comes Home (Mo' Cream From The Crop)
+  - Mack the Knife (Soft Shoe)
+  - Parlor for the Crawlers (Back to My Roots)
+  - I'll Fly Away (Ministry of Jazz)
 external_urls:
-  spotify: https://open.spotify.com/artist/4FJeAiorEH5xbMX5fJbQjB
-  wikipedia: https://en.wikipedia.org/wiki/Leroy_Jones_(trumpeter)
+  spotify: 'https://open.spotify.com/artist/4FJeAiorEH5xbMX5fJbQjB'
+  wikipedia: 'https://en.wikipedia.org/wiki/Leroy_Jones_(trumpeter)'
 image_path: 03_Resources/source_material/ArtistPortraits/Leroy_Jones.jpg
 biography_enhanced_at: '2025-10-20T01:41:52.388763'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Leroy_Jones_(trumpeter)
-- https://www.afmentertainment.org/groups/694-leroy-jones-quintet
-- https://acloserwalknola.com/places/leroy-jones-garage/
-- https://www.allaboutjazz.com/musicians/leroy-jones/
+  - 'https://en.wikipedia.org/wiki/Leroy_Jones_(trumpeter)'
+  - 'https://www.afmentertainment.org/groups/694-leroy-jones-quintet'
+  - 'https://acloserwalknola.com/places/leroy-jones-garage/'
+  - 'https://www.allaboutjazz.com/musicians/leroy-jones/'
 network_extracted: true
 entry_created: '2025-10-20T01:41:52.388780'
 last_updated: '2025-12-23T08:16:03.002469'
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1958-02-20'
+artist_type: person
 ---
 
 ![](Leroy_Jones.jpg)

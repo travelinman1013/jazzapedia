@@ -2,10 +2,10 @@
 title: Chico Freeman y Guataca
 wiki_slug: chico-freeman-y-guataca
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 genres:
-- latin jazz
+  - latin jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/chico_freeman_y_guataca.jpg
   caption: Chico Freeman y Guataca
@@ -25,54 +25,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - 'Guataca (band members: Hilton Ruiz, Ruben Rodriguez, Yoron Israel, Giovanni Hidalgo)'
-  - Wynton Marsalis
-  - Cecil McBee
-  - Bobby Hutcherson
-  - Chaka Khan, Celia Cruz, Tito Puente
+    - >-
+      Guataca (band members: Hilton Ruiz, Ruben Rodriguez, Yoron Israel,
+      Giovanni Hidalgo)
+    - Wynton Marsalis
+    - Cecil McBee
+    - Bobby Hutcherson
+    - 'Chaka Khan, Celia Cruz, Tito Puente'
   influenced:
-  - Makanda Project (John Kordalewski, director)
-  - Numerous jazz students and emerging saxophonists
+    - 'Makanda Project (John Kordalewski, director)'
+    - Numerous jazz students and emerging saxophonists
   mentors:
-  - Von Freeman
-  - Miles Davis
+    - Von Freeman
+    - Miles Davis
 spotify_data:
   followers: 40
   id: 79YZByYO0vGsqmHTJIV5Qf
   popularity: 0
-  url: https://open.spotify.com/artist/79YZByYO0vGsqmHTJIV5Qf
+  url: 'https://open.spotify.com/artist/79YZByYO0vGsqmHTJIV5Qf'
 discography_enriched: true
 top_tracks:
-- Rhythm of the Cane (Oh, By the Way)
-- New African Village (Oh, By the Way)
-- Mambo Rap (Oh, By the Way)
-- Guitar (Oh, By the Way)
-- La Luna (Oh, By the Way)
-- El Mensaje (Oh, By the Way)
-- Business as Usual (Oh, By the Way)
-- Once Again (Oh, By the Way)
-- 541 (Oh, By the Way)
-- La Marqueta (Oh, By the Way)
+  - 'Rhythm of the Cane (Oh, By the Way)'
+  - 'New African Village (Oh, By the Way)'
+  - 'Mambo Rap (Oh, By the Way)'
+  - 'Guitar (Oh, By the Way)'
+  - 'La Luna (Oh, By the Way)'
+  - 'El Mensaje (Oh, By the Way)'
+  - 'Business as Usual (Oh, By the Way)'
+  - 'Once Again (Oh, By the Way)'
+  - '541 (Oh, By the Way)'
+  - 'La Marqueta (Oh, By the Way)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ef328035-ad9f-40e5-bd5a-55e5368e0973
-  spotify: https://open.spotify.com/artist/79YZByYO0vGsqmHTJIV5Qf
-  wikipedia: https://en.wikipedia.org/wiki/Chico_Freeman
+  musicbrainz: 'https://musicbrainz.org/artist/ef328035-ad9f-40e5-bd5a-55e5368e0973'
+  spotify: 'https://open.spotify.com/artist/79YZByYO0vGsqmHTJIV5Qf'
+  wikipedia: 'https://en.wikipedia.org/wiki/Chico_Freeman'
 image_path: 03_Resources/source_material/ArtistPortraits/chico_freeman_y_guataca.jpg
 biography_enhanced_at: '2025-11-16T20:13:49.455967'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Chico_Freeman
-- https://chicofreeman.com/wp-content/uploads/2025/03/1.-Chico-Freeman-CV-Resume-2025.pdf
-- https://jazztimes.com/archives/chico-freeman-and-guataca-oh-by-the-way/
-- https://chumanceralatinjazz.blogspot.com/2015/03/chico-freeman-y-guataca-oh-by-way.html
+  - 'https://en.wikipedia.org/wiki/Chico_Freeman'
+  - >-
+    https://chicofreeman.com/wp-content/uploads/2025/03/1.-Chico-Freeman-CV-Resume-2025.pdf
+  - 'https://jazztimes.com/archives/chico-freeman-and-guataca-oh-by-the-way/'
+  - >-
+    https://chumanceralatinjazz.blogspot.com/2015/03/chico-freeman-y-guataca-oh-by-way.html
 network_extracted: true
 entry_created: '2025-11-16T20:13:49.455978'
 last_updated: '2025-12-23T08:16:06.833215'
 musicbrainz_id: ef328035-ad9f-40e5-bd5a-55e5368e0973
-origin: Chicago, Illinois, USA
+origin: 'Chicago, Illinois, USA'
 tags:
-- jazz
+  - jazz
+birth_place: 'Chicago, Illinois, United States'
+birth_date: '1949-07-17'
 ---
 
 ![](chico_freeman_y_guataca.jpg)

@@ -5,14 +5,14 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1991-05-19'
-birth_place: San Bernardino
+birth_place: 'San Bernardino, California, United States'
 genres:
-- art pop
+  - art pop
 instruments:
-- piano
-- guitar
-- bass guitar
-- lead vocals
+  - piano
+  - guitar
+  - bass guitar
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/moses_sumney.jpg
   caption: Moses Sumney
@@ -34,57 +34,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Solange
-  - James Blake
-  - Beck
+    - Solange
+    - James Blake
+    - Beck
   influenced:
-  - Emerging indie and art pop artists
+    - Emerging indie and art pop artists
   mentors:
-  - Stevie Wonder
-  - India Arie
-  - Usher
+    - Stevie Wonder
+    - India Arie
+    - Usher
 spotify_data:
   followers: 394733
   id: 5W10uJRsbt9bROJDKoI1Wn
   popularity: 50
-  url: https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn
+  url: 'https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn'
 discography_enriched: true
 top_tracks:
-- Around the world in a day (feat. Moses Sumney) (Right Place, Wrong Person)
-- To Believe (To Believe)
-- Make Out in My Car - Sufjan Stevens Version
-- Hey Girl(s)
-- Show Me Love (feat. Chance The Rapper, Moses Sumney and Robin Hannibal) - Skrillex Remix
-- Me in 20 Years (græ)
-- Plastic (Aromanticism)
-- Doomed (Aromanticism)
-- Cut Me (græ)
-- The Other Lover (Little Dragon & Moses Sumney)
+  - 'Around the world in a day (feat. Moses Sumney) (Right Place, Wrong Person)'
+  - To Believe (To Believe)
+  - Make Out in My Car - Sufjan Stevens Version
+  - Hey Girl(s)
+  - >-
+    Show Me Love (feat. Chance The Rapper, Moses Sumney and Robin Hannibal) -
+    Skrillex Remix
+  - Me in 20 Years (græ)
+  - Plastic (Aromanticism)
+  - Doomed (Aromanticism)
+  - Cut Me (græ)
+  - The Other Lover (Little Dragon & Moses Sumney)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/89c081d4-2ab2-4d3e-8589-ad77dfc40384
-  spotify: https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn
-  wikipedia: https://en.wikipedia.org/wiki/Moses_Sumney
+  musicbrainz: 'https://musicbrainz.org/artist/89c081d4-2ab2-4d3e-8589-ad77dfc40384'
+  spotify: 'https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn'
+  wikipedia: 'https://en.wikipedia.org/wiki/Moses_Sumney'
 image_path: 03_Resources/source_material/ArtistPortraits/moses_sumney.jpg
 biography_enhanced_at: '2025-11-20T07:00:02.585358'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.sesac.com/moses-sumney-black-history-month-spotlight/
-- http://www.teethmag.net/interview-moses-sumney/
-- https://www.anothermanmag.com/life-culture/9977/meet-moses-sumney-the-genre-dodging-musician-taking-over
-- https://www.imdb.com/name/nm6938015/
-- https://www.ladygunn.com/cover-story/the-path-of-moses-sumney/
-- https://metalmagazine.eu/en/post/moses-sumney-metal-50
+  - 'https://www.sesac.com/moses-sumney-black-history-month-spotlight/'
+  - 'http://www.teethmag.net/interview-moses-sumney/'
+  - >-
+    https://www.anothermanmag.com/life-culture/9977/meet-moses-sumney-the-genre-dodging-musician-taking-over
+  - 'https://www.imdb.com/name/nm6938015/'
+  - 'https://www.ladygunn.com/cover-story/the-path-of-moses-sumney/'
+  - 'https://metalmagazine.eu/en/post/moses-sumney-metal-50'
 network_extracted: true
 entry_created: '2025-11-20T07:00:02.585370'
 last_updated: '2025-12-23T08:16:13.313225'
 gender: Male
 musicbrainz_id: 89c081d4-2ab2-4d3e-8589-ad77dfc40384
 tags:
-- alternative r&b
-- art pop
-- indie soul
-
+  - alternative r&b
+  - art pop
+  - indie soul
 ---
 
 ![](moses_sumney.jpg)

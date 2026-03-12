@@ -2,17 +2,18 @@
 title: Jack DeJohnette's Special Edition
 wiki_slug: jack-dejohnettes-special-edition
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 birth_date: '1980'
 genres:
-- free jazz
+  - free jazz
 instruments:
-- drums (drum set)
-- eponymous
-- original
+  - drums (drum set)
+  - eponymous
+  - original
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/jack_dejohnettes_special_edition.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/jack_dejohnettes_special_edition.jpg
   caption: Jack DeJohnette's Special Edition
   background: group_or_band
   born: '1980'
@@ -31,72 +32,75 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - David Murray
-  - Arthur Blythe
-  - Peter Warren
-  - Howard Johnson
-  - John Purcell
-  - Rufus Reid
+    - David Murray
+    - Arthur Blythe
+    - Peter Warren
+    - Howard Johnson
+    - John Purcell
+    - Rufus Reid
   influenced:
-  - David Murray
-  - Arthur Blythe
-  - John Purcell
+    - David Murray
+    - Arthur Blythe
+    - John Purcell
   mentors:
-  - Miles Davis
-  - Bill Evans
-  - Charles Lloyd
+    - Miles Davis
+    - Bill Evans
+    - Charles Lloyd
 spotify_data:
   followers: 2284
   id: 0ubnN8VlgkD4nE25WI3LMm
   popularity: 12
-  url: https://open.spotify.com/artist/0ubnN8VlgkD4nE25WI3LMm
+  url: 'https://open.spotify.com/artist/0ubnN8VlgkD4nE25WI3LMm'
 discography_enriched: true
 top_tracks:
-- One For Eric (Special Edition)
-- Central Park West (Special Edition)
-- India (Special Edition)
-- Ahmad The Terrible (Album Album)
-- Zoot Suite - 1979 Recording (Special Edition)
-- One For Eric (Special Edition)
-- Monk's Mood (Album Album)
-- New Orleans Strutt (Album Album)
-- Third World Anthem (Album Album)
-- Zoot Suite - 1982 Recording (Album Album)
+  - One For Eric (Special Edition)
+  - Central Park West (Special Edition)
+  - India (Special Edition)
+  - Ahmad The Terrible (Album Album)
+  - Zoot Suite - 1979 Recording (Special Edition)
+  - One For Eric (Special Edition)
+  - Monk's Mood (Album Album)
+  - New Orleans Strutt (Album Album)
+  - Third World Anthem (Album Album)
+  - Zoot Suite - 1982 Recording (Album Album)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/17bef10e-5f8d-4cde-9884-e84f36619d32
-  spotify: https://open.spotify.com/artist/0ubnN8VlgkD4nE25WI3LMm
-  wikipedia: https://en.wikipedia.org/wiki/Special_Edition_(Jack_DeJohnette_album)
-image_path: 03_Resources/source_material/ArtistPortraits/jack_dejohnettes_special_edition.jpg
+  musicbrainz: 'https://musicbrainz.org/artist/17bef10e-5f8d-4cde-9884-e84f36619d32'
+  spotify: 'https://open.spotify.com/artist/0ubnN8VlgkD4nE25WI3LMm'
+  wikipedia: 'https://en.wikipedia.org/wiki/Special_Edition_(Jack_DeJohnette_album)'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/jack_dejohnettes_special_edition.jpg
 biography_enhanced_at: '2025-10-31T08:01:32.472875'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Special_Edition_(Jack_DeJohnette_album)
-- https://www.allaboutjazz.com/special-edition
-- https://ecmreviews.com/2015/05/02/jack-dejohnette-special-edition/
-- https://ecmrecords.com/product/special-edition-jack-dejohnette-special-edition/
-- https://en.wikipedia.org/wiki/Album_Album
+  - 'https://en.wikipedia.org/wiki/Special_Edition_(Jack_DeJohnette_album)'
+  - 'https://www.allaboutjazz.com/special-edition'
+  - 'https://ecmreviews.com/2015/05/02/jack-dejohnette-special-edition/'
+  - >-
+    https://ecmrecords.com/product/special-edition-jack-dejohnette-special-edition/
+  - 'https://en.wikipedia.org/wiki/Album_Album'
 network_extracted: true
 entry_created: '2025-10-31T08:01:32.472898'
 last_updated: '2025-12-23T08:16:10.010357'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ddfe5f94-f85f-46b1-aec6-354c8cc190ad
-  name: Michael Cain
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  - eponymous
-  - original
-  mbid: f2d13d28-6f74-4dd5-b596-8bd0b6f67615
-  name: Jack DeJohnette
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ddfe5f94-f85f-46b1-aec6-354c8cc190ad
+    name: Michael Cain
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+      - eponymous
+      - original
+    mbid: f2d13d28-6f74-4dd5-b596-8bd0b6f67615
+    name: Jack DeJohnette
 musicbrainz_id: 17bef10e-5f8d-4cde-9884-e84f36619d32
-origin: Chicago, Illinois, United States
+origin: 'Chicago, Illinois, United States'
 tags:
-- jazz
+  - jazz
+birth_place: 'Chicago, Illinois, United States'
 ---
 
 ![](jack_dejohnettes_special_edition.jpg)

@@ -2,19 +2,19 @@
 title: Solange
 wiki_slug: solange
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1986-06-24'
-birth_place: Houston, Texas, United States
+birth_place: 'Houston, Texas, United States'
 genres:
-- alternative r&b
-- neo soul
+  - alternative r&b
+  - neo soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Solange.jpg
   caption: Solange
   background: solo_singer
   born: '1986-06-24'
-  origin: Houston, Texas, United States
+  origin: 'Houston, Texas, United States'
 audio_profile:
   tempo_avg: 108.4
   energy_avg: 0.512
@@ -30,48 +30,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mark Ronson
-  - CeeLo Green
-  - Bilal
-  - Blood Orange (Dev Hynes)
+    - Mark Ronson
+    - CeeLo Green
+    - Bilal
+    - Blood Orange (Dev Hynes)
   influenced:
-  - SZA
-  - Kelela
+    - SZA
+    - Kelela
   mentors:
-  - Mathew Knowles
-  - Beyoncé Knowles
-  - Motown girl groups
+    - Mathew Knowles
+    - Beyoncé Knowles
+    - Motown girl groups
 spotify_data:
   followers: 2168340
   id: 2auiVi8sUZo17dLy1HwrTU
   popularity: 58
-  url: https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU
+  url: 'https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU'
 discography_enriched: true
 top_tracks:
-- Losing You
-- Cranes in the Sky (A Seat at the Table)
-- Almeda (When I Get Home)
-- Binz (When I Get Home)
-- Stay Flo (When I Get Home)
-- Mad (feat. Lil Wayne) (A Seat at the Table)
-- Dreams (When I Get Home)
-- Don't Touch My Hair (feat. Sampha) (A Seat at the Table)
-- Naive (Solo Star)
-- Losing You
+  - Losing You
+  - Cranes in the Sky (A Seat at the Table)
+  - Almeda (When I Get Home)
+  - Binz (When I Get Home)
+  - Stay Flo (When I Get Home)
+  - Mad (feat. Lil Wayne) (A Seat at the Table)
+  - Dreams (When I Get Home)
+  - Don't Touch My Hair (feat. Sampha) (A Seat at the Table)
+  - Naive (Solo Star)
+  - Losing You
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/410e7fd3-b865-4fa0-bb18-1b7fd53382ca
-  spotify: https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU
-  wikipedia: https://en.wikipedia.org/wiki/Solange_Knowles
+  musicbrainz: 'https://musicbrainz.org/artist/410e7fd3-b865-4fa0-bb18-1b7fd53382ca'
+  spotify: 'https://open.spotify.com/artist/2auiVi8sUZo17dLy1HwrTU'
+  wikipedia: 'https://en.wikipedia.org/wiki/Solange_Knowles'
 image_path: 03_Resources/source_material/ArtistPortraits/Solange.jpg
 biography_enhanced_at: '2025-10-20T09:37:41.489409'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://wbssmedia.com/artists/detail/1403
-- https://en.wikipedia.org/wiki/Solange_Knowles
-- https://kids.kiddle.co/Solange_Knowles
-- https://www.britannica.com/biography/Solange
-- https://www.biography.com/musicians/solange
+  - 'https://wbssmedia.com/artists/detail/1403'
+  - 'https://en.wikipedia.org/wiki/Solange_Knowles'
+  - 'https://kids.kiddle.co/Solange_Knowles'
+  - 'https://www.britannica.com/biography/Solange'
+  - 'https://www.biography.com/musicians/solange'
 network_extracted: true
 entry_created: '2025-10-20T09:37:41.489423'
 last_updated: '2025-12-23T08:16:03.917829'
@@ -80,9 +80,9 @@ gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:43:52.954534'
 musicbrainz_id: 410e7fd3-b865-4fa0-bb18-1b7fd53382ca
 tags:
-- alternative r&b
-- contemporary r&b
-- neo soul
+  - alternative r&b
+  - contemporary r&b
+  - neo soul
 ---
 
 ![](Solange.jpg)

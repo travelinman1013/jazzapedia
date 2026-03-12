@@ -2,10 +2,10 @@
 title: The Dead Rocks
 wiki_slug: the-dead-rocks
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- surf rock
+  - surf rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_dead_rocks.jpg
   caption: The Dead Rocks
@@ -25,49 +25,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lorenzo 'Surfer Joe' Valdambrini
-  - Johnny Crash
-  - Marky Wildstone
-  - Paul Punk
+    - Lorenzo 'Surfer Joe' Valdambrini
+    - Johnny Crash
+    - Marky Wildstone
+    - Paul Punk
   influenced: []
   mentors: []
 spotify_data:
   followers: 1611
   id: 2nz5ijnCQX7qeX6cpA5bKG
   popularity: 5
-  url: https://open.spotify.com/artist/2nz5ijnCQX7qeX6cpA5bKG
+  url: 'https://open.spotify.com/artist/2nz5ijnCQX7qeX6cpA5bKG'
 discography_enriched: true
 top_tracks:
-- Surf Explosão (Surf Explosão)
-- Almondega (Monsters of Surf)
-- Preciso Me Encontrar - Instrumental (International Brazilian Surfs)
-- O Milionário - Instrumental (One Million Dollar Surf Band)
-- País Tropical - Instrumental (One Million Dollar Surf Band)
-- El Condor Pasa - Instrumental (International Brazilian Surfs)
-- The South Swell (The South Swell)
-- Jece Bagidonof (Surf Explosão)
-- La Venganza del Chico Salvaje (Surf Explosão)
-- Go-Go Martucci (Go-Go Martucci)
+  - Surf Explosão (Surf Explosão)
+  - Almondega (Monsters of Surf)
+  - Preciso Me Encontrar - Instrumental (International Brazilian Surfs)
+  - O Milionário - Instrumental (One Million Dollar Surf Band)
+  - País Tropical - Instrumental (One Million Dollar Surf Band)
+  - El Condor Pasa - Instrumental (International Brazilian Surfs)
+  - The South Swell (The South Swell)
+  - Jece Bagidonof (Surf Explosão)
+  - La Venganza del Chico Salvaje (Surf Explosão)
+  - Go-Go Martucci (Go-Go Martucci)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/93861e12-ba7e-497d-89f4-bcbd4893ecb8
-  spotify: https://open.spotify.com/artist/2nz5ijnCQX7qeX6cpA5bKG
+  musicbrainz: 'https://musicbrainz.org/artist/93861e12-ba7e-497d-89f4-bcbd4893ecb8'
+  spotify: 'https://open.spotify.com/artist/2nz5ijnCQX7qeX6cpA5bKG'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/the_dead_rocks.jpg
 biography_enhanced_at: '2025-12-23T02:07:54.036777'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://wikibin.org/articles/the-dead-rocks-4.html
-- https://surfguitar101.com/forums/post/338987/
-- https://www.deadrocks.com.br
-- https://deadrocks.bandcamp.com/album/surfer-joe-the-dead-rocks
-- https://www.youtube.com/watch?v=KAv1FZThW8Q
+  - 'http://wikibin.org/articles/the-dead-rocks-4.html'
+  - 'https://surfguitar101.com/forums/post/338987/'
+  - 'https://www.deadrocks.com.br'
+  - 'https://deadrocks.bandcamp.com/album/surfer-joe-the-dead-rocks'
+  - 'https://www.youtube.com/watch?v=KAv1FZThW8Q'
 network_extracted: true
 entry_created: '2025-12-23T02:07:54.036792'
 last_updated: '2025-12-23T08:16:16.708374'
 musicbrainz_id: 93861e12-ba7e-497d-89f4-bcbd4893ecb8
-origin: São Carlos, Brazil
-
+origin: 'São Carlos, Brazil'
 ---
 
 ![](the_dead_rocks.jpg)

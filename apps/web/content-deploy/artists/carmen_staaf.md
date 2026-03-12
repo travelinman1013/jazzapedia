@@ -5,17 +5,17 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1981-02-09'
-birth_place: New York City, New York, United States
+birth_place: 'New York City, New York, United States'
 genres: []
 instruments:
-- grand piano
-- piano
+  - grand piano
+  - piano
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/carmen_staaf.jpg
   caption: Carmen Staaf
   background: non_vocal_instrumentalist
   born: '1981-02-09'
-  origin: New York City, New York, United States
+  origin: 'New York City, New York, United States'
 audio_profile:
   tempo_avg: 113.2
   energy_avg: 0.271
@@ -31,64 +31,70 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Allison Miller
-  - Wynton Marsalis
-  - Kenny Barron
-  - Fred Hersch
-  - Austin McMahon, Jorge Roeder, Dan Blake
-  - Richie Barshay
-  - Balla Tounkara
+    - Allison Miller
+    - Wynton Marsalis
+    - Kenny Barron
+    - Fred Hersch
+    - 'Austin McMahon, Jorge Roeder, Dan Blake'
+    - Richie Barshay
+    - Balla Tounkara
   influenced:
-  - Students at Berklee College of Music, New School, Stanford Jazz Institute, Swarnabhoomi Academy of Music, Jacob’s Pillow,
-    Litchfield Jazz Camp, New York Jazz Academy
+    - >-
+      Students at Berklee College of Music, New School, Stanford Jazz Institute,
+      Swarnabhoomi Academy of Music, Jacob’s Pillow, Litchfield Jazz Camp, New
+      York Jazz Academy
   mentors:
-  - Herbie Hancock
-  - Wayne Shorter
-  - Dee Dee Bridgewater
-  - Alisa Moshinsky
-  - Sofia Rosoff
+    - Herbie Hancock
+    - Wayne Shorter
+    - Dee Dee Bridgewater
+    - Alisa Moshinsky
+    - Sofia Rosoff
 spotify_data:
   followers: 338
   id: 2xr1royHsrxmyorwGs51V7
   popularity: 20
-  url: https://open.spotify.com/artist/2xr1royHsrxmyorwGs51V7
+  url: 'https://open.spotify.com/artist/2xr1royHsrxmyorwGs51V7'
 discography_enriched: true
 top_tracks:
-- Spring Can Really Hang You Up The Most
-- Every Bear That Ever There Was (All Species Parade)
-- 'Just a Memory (Hodges: Front and Center, Vol. 1)'
-- Ornette Goes Home (All Species Parade)
-- The Sea Also Rises (All Species Parade)
-- Skyway (Science Fair)
-- On Wings Of Change
-- 'I''m Gonna Sit Right Down and Write Myself a Letter (Hodges: Front and Center, Vol. 1)'
-- Blues For Our Times
-- Blue Wild Indigo (feat. Carmen Staaf) (Rivers In Our Veins)
+  - Spring Can Really Hang You Up The Most
+  - Every Bear That Ever There Was (All Species Parade)
+  - 'Just a Memory (Hodges: Front and Center, Vol. 1)'
+  - Ornette Goes Home (All Species Parade)
+  - The Sea Also Rises (All Species Parade)
+  - Skyway (Science Fair)
+  - On Wings Of Change
+  - >-
+    I'm Gonna Sit Right Down and Write Myself a Letter (Hodges: Front and
+    Center, Vol. 1)
+  - Blues For Our Times
+  - Blue Wild Indigo (feat. Carmen Staaf) (Rivers In Our Veins)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/78b065dc-4ac2-46d2-92c5-b4f161b8884b
-  spotify: https://open.spotify.com/artist/2xr1royHsrxmyorwGs51V7
+  musicbrainz: 'https://musicbrainz.org/artist/78b065dc-4ac2-46d2-92c5-b4f161b8884b'
+  spotify: 'https://open.spotify.com/artist/2xr1royHsrxmyorwGs51V7'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/carmen_staaf.jpg
 biography_enhanced_at: '2025-11-20T06:28:23.844766'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.carmenstaaf.com/bio
-- https://www.allaboutjazz.com/musicians/carmen-staaf/
-- https://www.yamaha.com/yasi/artists/details.html?CNTID=7119366&type=jazz
-- https://www.nyjazzacademy.com/teacher/carmen-staaf/
-- https://app.stagetime.com/artists/carmen-staaf
-- https://www.carmenstaaf.com
-- https://www.jacobspillow.org/people/carmen-staaf/
-- https://www.earshot.org/2021-07-carmen-staaf/
-- https://litchfieldjazzfest.com/artwork/carmen-staaf-sextet-standards-reimagined/
+  - 'https://www.carmenstaaf.com/bio'
+  - 'https://www.allaboutjazz.com/musicians/carmen-staaf/'
+  - 'https://www.yamaha.com/yasi/artists/details.html?CNTID=7119366&type=jazz'
+  - 'https://www.nyjazzacademy.com/teacher/carmen-staaf/'
+  - 'https://app.stagetime.com/artists/carmen-staaf'
+  - 'https://www.carmenstaaf.com'
+  - 'https://www.jacobspillow.org/people/carmen-staaf/'
+  - 'https://www.earshot.org/2021-07-carmen-staaf/'
+  - >-
+    https://litchfieldjazzfest.com/artwork/carmen-staaf-sextet-standards-reimagined/
 network_extracted: true
 entry_created: '2025-11-20T06:28:23.844771'
 last_updated: '2025-12-23T08:16:06.491205'
 gender: Female
 musicbrainz_id: 78b065dc-4ac2-46d2-92c5-b4f161b8884b
 tags:
-- jazz
+  - jazz
+origin: 'New York City, New York, United States'
 ---
 
 ![](carmen_staaf.jpg)

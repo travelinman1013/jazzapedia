@@ -5,21 +5,21 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1956'
-birth_place: New York
+birth_place: 'New York City, New York, United States'
 genres:
-- vocal jazz
-- swing music
-- jazz
+  - vocal jazz
+  - swing music
+  - jazz
 instruments:
-- lead vocals
-- background vocals
-- choir vocals
+  - lead vocals
+  - background vocals
+  - choir vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 08e740fa-a275-4ca9-9bd2-0cf651fc4e51
-  name: Child Is Father to the Man
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 08e740fa-a275-4ca9-9bd2-0cf651fc4e51
+    name: Child Is Father to the Man
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/catherine_russell.jpg
   caption: Catherine Russell
@@ -41,51 +41,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - David Bowie
-  - Steely Dan (Donald Fagen)
-  - Rosanne Cash
-  - Wynton Marsalis
-  - John Pizzarelli
-  - Vince Giordano’s Nighthawks
+    - David Bowie
+    - Steely Dan (Donald Fagen)
+    - Rosanne Cash
+    - Wynton Marsalis
+    - John Pizzarelli
+    - Vince Giordano’s Nighthawks
   influenced:
-  - Younger jazz vocalists
+    - Younger jazz vocalists
   mentors:
-  - Carline Ray
-  - Luis Russell
-  - Daryl Coley
+    - Carline Ray
+    - Luis Russell
+    - Daryl Coley
 spotify_data:
   followers: 39388
   id: 7j46Sze6UWb7p41IqcYFAp
   popularity: 48
-  url: https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp
+  url: 'https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp'
 discography_enriched: true
 top_tracks:
-- Did I Remember (Send For Me)
-- Don't Take Your Love From Me (Harlem On My Mind)
-- You Turned The Tables On Me (Alone Together)
-- Blue And Sentimental (Send For Me)
-- I Only Have Eyes For You (Alone Together)
-- You Stepped Out of A Dream (Send For Me)
-- Alone Together (Alone Together)
-- East of The Sun (and West of The Moon) (Send For Me)
-- How Deep Is The Ocean (Alone Together)
-- Million Dollar Smile (Send For Me)
+  - Did I Remember (Send For Me)
+  - Don't Take Your Love From Me (Harlem On My Mind)
+  - You Turned The Tables On Me (Alone Together)
+  - Blue And Sentimental (Send For Me)
+  - I Only Have Eyes For You (Alone Together)
+  - You Stepped Out of A Dream (Send For Me)
+  - Alone Together (Alone Together)
+  - East of The Sun (and West of The Moon) (Send For Me)
+  - How Deep Is The Ocean (Alone Together)
+  - Million Dollar Smile (Send For Me)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4abc9193-5f45-499a-9ffa-1a819d0a6afd
-  spotify: https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp
-  wikipedia: https://en.wikipedia.org/wiki/Catherine_Russell_(singer)
+  musicbrainz: 'https://musicbrainz.org/artist/4abc9193-5f45-499a-9ffa-1a819d0a6afd'
+  spotify: 'https://open.spotify.com/artist/7j46Sze6UWb7p41IqcYFAp'
+  wikipedia: 'https://en.wikipedia.org/wiki/Catherine_Russell_(singer)'
 image_path: 03_Resources/source_material/ArtistPortraits/catherine_russell.jpg
 biography_enhanced_at: '2025-11-12T14:51:59.830770'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Catherine_Russell_(singer)
-- https://jazztimes.com/features/interviews/catherine-russell-queen-of-the-armstrong-blues/
-- https://www.popcultureclassics.com/catherine_russell.html
-- https://cabaret313.org/performances/catherine-russell-swing-soul-and-stories/
-- https://bstreettheatre.org/music/catherine-russell/
-- https://sfjazz.org/tickets/productions/24-25/catherine-russell/
-- https://montanafolkfestival.com/catherine-russell/
+  - 'https://en.wikipedia.org/wiki/Catherine_Russell_(singer)'
+  - >-
+    https://jazztimes.com/features/interviews/catherine-russell-queen-of-the-armstrong-blues/
+  - 'https://www.popcultureclassics.com/catherine_russell.html'
+  - >-
+    https://cabaret313.org/performances/catherine-russell-swing-soul-and-stories/
+  - 'https://bstreettheatre.org/music/catherine-russell/'
+  - 'https://sfjazz.org/tickets/productions/24-25/catherine-russell/'
+  - 'https://montanafolkfestival.com/catherine-russell/'
 network_extracted: true
 entry_created: '2025-11-12T14:51:59.830778'
 last_updated: '2025-12-23T08:16:06.565876'
@@ -93,8 +95,8 @@ disambiguation: jazz vocalist
 gender: Female
 musicbrainz_id: 4abc9193-5f45-499a-9ffa-1a819d0a6afd
 tags:
-- blues
-- jazz
+  - blues
+  - jazz
 ---
 
 ![](catherine_russell.jpg)

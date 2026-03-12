@@ -2,11 +2,12 @@
 title: New Orleans Helsinki Connection
 wiki_slug: new-orleans-helsinki-connection
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/new_orleans_helsinki_connection.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/new_orleans_helsinki_connection.jpg
   caption: New Orleans Helsinki Connection
   background: group_or_band
 audio_profile:
@@ -24,56 +25,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Katja Toivola
-  - Tricia Boutté
-  - Leroy Jones
-  - Todd Duke
-  - Paul Longstreth
-  - Nobu Ozaki
-  - Thomas Rönnholm
-  - Yolanda Windsay
-  - Mitchell Player
-  - Gerald French
-  - Jerry Anderson
+    - Katja Toivola
+    - Tricia Boutté
+    - Leroy Jones
+    - Todd Duke
+    - Paul Longstreth
+    - Nobu Ozaki
+    - Thomas Rönnholm
+    - Yolanda Windsay
+    - Mitchell Player
+    - Gerald French
+    - Jerry Anderson
   influenced: []
   mentors:
-  - Traditional New Orleans Jazz Masters
+    - Traditional New Orleans Jazz Masters
 spotify_data:
   followers: 59
   id: 3iSR2u4KlErIb98KAkQToC
   popularity: 0
-  url: https://open.spotify.com/artist/3iSR2u4KlErIb98KAkQToC
+  url: 'https://open.spotify.com/artist/3iSR2u4KlErIb98KAkQToC'
 discography_enriched: true
 top_tracks:
-- High Society (Leroy Jones & Katja Toivola, Vol. II)
-- Paradise on Earth (Leroy Jones & Katja Toivola, Vol. II)
-- Chinatown, My Chinatown (Leroy Jones & Katja Toivola, Vol. II)
-- I've Found a New Baby (Leroy Jones & Katja Toivola, Vol. II)
-- Paradise On Earth (Paradise On Earth)
-- I've Found a New Baby (Paradise On Earth)
-- Fidgety Feet (Paradise On Earth)
-- There'll Be Some Changes Made (Paradise On Earth)
-- Stardust (Paradise On Earth)
-- After You've Gone (Paradise On Earth)
+  - 'High Society (Leroy Jones & Katja Toivola, Vol. II)'
+  - 'Paradise on Earth (Leroy Jones & Katja Toivola, Vol. II)'
+  - 'Chinatown, My Chinatown (Leroy Jones & Katja Toivola, Vol. II)'
+  - 'I''ve Found a New Baby (Leroy Jones & Katja Toivola, Vol. II)'
+  - Paradise On Earth (Paradise On Earth)
+  - I've Found a New Baby (Paradise On Earth)
+  - Fidgety Feet (Paradise On Earth)
+  - There'll Be Some Changes Made (Paradise On Earth)
+  - Stardust (Paradise On Earth)
+  - After You've Gone (Paradise On Earth)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/50cffa04-744b-4568-b4c6-ca8ed4c836e3
-  spotify: https://open.spotify.com/artist/3iSR2u4KlErIb98KAkQToC
+  musicbrainz: 'https://musicbrainz.org/artist/50cffa04-744b-4568-b4c6-ca8ed4c836e3'
+  spotify: 'https://open.spotify.com/artist/3iSR2u4KlErIb98KAkQToC'
   wikipedia: ''
-image_path: 03_Resources/source_material/ArtistPortraits/new_orleans_helsinki_connection.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/new_orleans_helsinki_connection.jpg
 biography_enhanced_at: '2025-10-24T07:38:57.775852'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.spiritofneworleans.com/NOband.htm
-- https://www.afmentertainment.org/groups/696-new-orleans-helsinki-connection
-- https://www.allaboutjazz.com/musicians/new-orleans-helsinki-connection
-- https://www.allaboutjazz.com/news/new-orleans-helsinki-connection-releases-new-album-paradise-on-earth/
+  - 'https://www.spiritofneworleans.com/NOband.htm'
+  - 'https://www.afmentertainment.org/groups/696-new-orleans-helsinki-connection'
+  - 'https://www.allaboutjazz.com/musicians/new-orleans-helsinki-connection'
+  - >-
+    https://www.allaboutjazz.com/news/new-orleans-helsinki-connection-releases-new-album-paradise-on-earth/
 network_extracted: true
 entry_created: '2025-10-24T07:38:57.775864'
 last_updated: '2025-12-23T08:16:13.531426'
 disambiguation: Finnish jazz band
 musicbrainz_id: 50cffa04-744b-4568-b4c6-ca8ed4c836e3
-origin: New Orleans, Louisiana, United States / Helsinki, Uusimaa, Finland
+origin: 'New Orleans, Louisiana, United States / Helsinki, Uusimaa, Finland'
 ---
 
 ![](new_orleans_helsinki_connection.jpg)

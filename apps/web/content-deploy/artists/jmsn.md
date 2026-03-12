@@ -2,53 +2,54 @@
 artist_type: person
 biography_enhanced_at: '2026-01-21T01:11:15.847773'
 birth_date: '1982'
-birth_place: Eastpointe
+birth_place: 'Eastpointe, Michigan, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-21T01:11:15.847778'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/773bc0c0-a4ae-45a9-b71d-356174b67c08
-  spotify: https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l
-  wikipedia: https://en.wikipedia.org/wiki/JMSN
+  musicbrainz: 'https://musicbrainz.org/artist/773bc0c0-a4ae-45a9-b71d-356174b67c08'
+  spotify: 'https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l'
+  wikipedia: 'https://en.wikipedia.org/wiki/JMSN'
 gender: Male
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/jmsn.jpg
 instruments:
-- other vocals
-- background vocals
+  - other vocals
+  - background vocals
 last_updated: '2026-01-21T01:11:15.847779'
 musical_connections:
   collaborators:
-  - J. Cole
-  - The Game
-  - Snoh Aalegra
-  - Sada Baby
-  - Kaytranada
-  - Ty Dolla $ign
-  - Ab-Soul
+    - J. Cole
+    - The Game
+    - Snoh Aalegra
+    - Sada Baby
+    - Kaytranada
+    - Ty Dolla $ign
+    - Ab-Soul
   influenced:
-  - Not specified in available sources
+    - Not specified in available sources
   mentors:
-  - Not specified in available sources
+    - Not specified in available sources
 musicbrainz_id: 773bc0c0-a4ae-45a9-b71d-356174b67c08
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/JMSN
-- https://www.hotnewhiphop.com/profile/jmsn
-- https://www.last.fm/music/JMSN/+wiki
-- https://www.oxfordkarma.com/music/interview-jmsn/
-- https://artist.degy.com/major-acts/jmsn
+  - 'https://en.wikipedia.org/wiki/JMSN'
+  - 'https://www.hotnewhiphop.com/profile/jmsn'
+  - 'https://www.last.fm/music/JMSN/+wiki'
+  - 'https://www.oxfordkarma.com/music/interview-jmsn/'
+  - 'https://artist.degy.com/major-acts/jmsn'
 spotify_data:
   followers: 351789
   id: 6HCkJzbswOIc7Qc5TJ1n5l
   popularity: 66
-  url: https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l
+  url: 'https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l'
 status: active
 tags:
-- alternative r&b
-- contemporary r&b
-- electronica
-title: JMSN
+  - alternative r&b
+  - contemporary r&b
+  - electronica
+title: Jmsn
+origin: 'Dallas, Texas, United States'
 ---
 
 ![](jmsn.jpg)

@@ -1,129 +1,131 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-02T01:24:44.124491'
 enhancement_provider: perplexity
 entry_created: '2026-01-02T01:24:44.124496'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9d479d01-0d59-449d-bae6-313eb8c482a4
-  spotify: https://open.spotify.com/artist/65wvRDSQYcDCO3VxvQZekE
+  musicbrainz: 'https://musicbrainz.org/artist/9d479d01-0d59-449d-bae6-313eb8c482a4'
+  spotify: 'https://open.spotify.com/artist/65wvRDSQYcDCO3VxvQZekE'
   wikipedia: ''
 genres:
-- traditional folk
+  - traditional folk
 image_path: 03_Resources/source_material/ArtistPortraits/georgia_sea_island_singers.jpg
 last_updated: '2026-01-02T01:24:44.124496'
 members:
-- &id001
-  begin: '1961'
-  end: ''
-  instruments: []
-  mbid: 763e757a-7c49-4c28-b0fe-e521643a9b09
-  name: Mable Hillery
-- begin: '1969'
-  end: '2006'
-  instruments: []
-  mbid: b916cd7b-28ac-4c7a-afda-8091d1e9c0c8
-  name: Douglas Quimby
-- &id002
-  begin: '2001'
-  end: ''
-  instruments: []
-  mbid: 1a6e855b-55ec-4818-a5d2-3f9256020fb7
-  name: Tony Merrell
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9a8fd2bf-9760-42c4-9e27-c61c182ea16b
-  name: Jerome Davis
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8e81df90-5e58-466f-b5cb-bb65b92bf678
-  name: John Davis
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1de8975a-c42e-4707-b4c6-4bffd5a47b8f
-  name: Peter Davis
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: dccb7df8-c7c9-4a8e-8afc-d038edf9e454
-  name: Bessie Jones
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a4cfc532-f6ad-4b08-b3b7-ea948affeca5
-  name: Henry Morrison
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4ecd1528-97f1-42f7-84c7-d63bd9111552
-  name: Willis Proctor
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 539b4519-9c1a-4aae-b542-053578688fb7
-  name: Alberta Ramsay
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e6dcd0d3-88fe-48bb-8b5e-953414c56373
-  name: Ben Ramsay
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e0c7cf6c-e6fd-4a6e-8aba-f546efc49837
-  name: Emma Ramsay
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e366c53d-eb88-4d44-80ff-d34d52ab2b57
-  name: Frankie Sullivan Quimby
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 46f7cce6-f220-47e9-b15a-0a7a83f41806
-  name: Joe Armstrong
+  - &ref_0
+    begin: '1961'
+    end: ''
+    instruments: []
+    mbid: 763e757a-7c49-4c28-b0fe-e521643a9b09
+    name: Mable Hillery
+  - begin: '1969'
+    end: '2006'
+    instruments: []
+    mbid: b916cd7b-28ac-4c7a-afda-8091d1e9c0c8
+    name: Douglas Quimby
+  - &ref_1
+    begin: '2001'
+    end: ''
+    instruments: []
+    mbid: 1a6e855b-55ec-4818-a5d2-3f9256020fb7
+    name: Tony Merrell
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9a8fd2bf-9760-42c4-9e27-c61c182ea16b
+    name: Jerome Davis
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8e81df90-5e58-466f-b5cb-bb65b92bf678
+    name: John Davis
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1de8975a-c42e-4707-b4c6-4bffd5a47b8f
+    name: Peter Davis
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: dccb7df8-c7c9-4a8e-8afc-d038edf9e454
+    name: Bessie Jones
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a4cfc532-f6ad-4b08-b3b7-ea948affeca5
+    name: Henry Morrison
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4ecd1528-97f1-42f7-84c7-d63bd9111552
+    name: Willis Proctor
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 539b4519-9c1a-4aae-b542-053578688fb7
+    name: Alberta Ramsay
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e6dcd0d3-88fe-48bb-8b5e-953414c56373
+    name: Ben Ramsay
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e0c7cf6c-e6fd-4a6e-8aba-f546efc49837
+    name: Emma Ramsay
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e366c53d-eb88-4d44-80ff-d34d52ab2b57
+    name: Frankie Sullivan Quimby
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 46f7cce6-f220-47e9-b15a-0a7a83f41806
+    name: Joe Armstrong
 musical_connections:
   collaborators:
-  - Bessie Jones
-  - Big John Davis
-  - Peter Davis
-  - Henry Morrison
-  - Emma Ramsey
-  - Mable Hillery
-  - Doug Quimby
-  - Frankie Sullivan Quimby
-  - Tony Merrell
+    - Bessie Jones
+    - Big John Davis
+    - Peter Davis
+    - Henry Morrison
+    - Emma Ramsey
+    - Mable Hillery
+    - Doug Quimby
+    - Frankie Sullivan Quimby
+    - Tony Merrell
   influenced: []
   mentors:
-  - Lydia Parrish
-  - Alan Lomax
-  - Bessie Jones
+    - Lydia Parrish
+    - Alan Lomax
+    - Bessie Jones
 musicbrainz_id: 9d479d01-0d59-449d-bae6-313eb8c482a4
 network_extracted: true
-origin: St. Simons Island, Georgia, USA
+origin: 'St. Simons Island, Georgia, USA'
 original_members:
-- *id001
-- *id002
+  - *ref_0
+  - *ref_1
 primary_source: perplexity
 research_sources:
-- https://www.georgiaencyclopedia.org/articles/arts-culture/georgia-sea-island-singers/
-- http://swampland.com/articles/view/title:the_georgia_sea_island_singers__preserving_coastal_music_traditions
-- https://folkways-media.si.edu/docs/folkways/artwork/SFW40258.pdf
-- https://www.goldenisles.com/the-georgia-sea-island-singers/
-- https://www.culturalequity.org/album/georgia-sea-island-singers-join-band
+  - >-
+    https://www.georgiaencyclopedia.org/articles/arts-culture/georgia-sea-island-singers/
+  - >-
+    http://swampland.com/articles/view/title:the_georgia_sea_island_singers__preserving_coastal_music_traditions
+  - 'https://folkways-media.si.edu/docs/folkways/artwork/SFW40258.pdf'
+  - 'https://www.goldenisles.com/the-georgia-sea-island-singers/'
+  - 'https://www.culturalequity.org/album/georgia-sea-island-singers-join-band'
 spotify_data:
   followers: 1573
   id: 65wvRDSQYcDCO3VxvQZekE
   popularity: 9
-  url: https://open.spotify.com/artist/65wvRDSQYcDCO3VxvQZekE
+  url: 'https://open.spotify.com/artist/65wvRDSQYcDCO3VxvQZekE'
 status: active
 tags:
-- folk
-- shout
-- spirituals
-title: georgia sea island singers
+  - folk
+  - shout
+  - spirituals
+title: Georgia Sea Island Singers
 ---
 
 ![](georgia_sea_island_singers.jpg)

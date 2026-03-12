@@ -1,15 +1,16 @@
 ---
-title: Roy Ayers, Adrian Younge, Ali Shaheed Muhammad
+title: 'Roy Ayers, Adrian Younge, Ali Shaheed Muhammad'
 wiki_slug: roy-ayers-adrian-younge-ali-shaheed-muhammad
 schema_version: 2
 status: active
 genres:
-- jazz funk
-- acid jazz
-- soul jazz
+  - jazz funk
+  - acid jazz
+  - soul jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/roy_ayers_adrian_younge_ali_shaheed_muhammad.jpg
-  caption: Roy Ayers, Adrian Younge, Ali Shaheed Muhammad
+  image: >-
+    03_Resources/source_material/ArtistPortraits/roy_ayers_adrian_younge_ali_shaheed_muhammad.jpg
+  caption: 'Roy Ayers, Adrian Younge, Ali Shaheed Muhammad'
   background: solo_singer
 audio_profile:
   tempo_avg: 115.2
@@ -26,52 +27,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Fela Kuti
-  - The Midnight Hour
-  - Souls of Mischief
-  - Lucy Pearl
+    - Fela Kuti
+    - The Midnight Hour
+    - Souls of Mischief
+    - Lucy Pearl
   influenced:
-  - Erykah Badu
-  - Tyler, The Creator
-  - Neo-soul and acid jazz artists
+    - Erykah Badu
+    - 'Tyler, The Creator'
+    - Neo-soul and acid jazz artists
   mentors:
-  - Herbie Mann
-  - Q-Tip
+    - Herbie Mann
+    - Q-Tip
 spotify_data:
   followers: 271230
   id: 6R9Mv0bgGE4Tqxna1q5Mrj
   popularity: 50
-  url: https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj
+  url: 'https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj'
 discography_enriched: true
 top_tracks:
-- FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett & Kali Uchis) (Cherry Bomb)
-- Cleva (Mama's Gun)
-- Liquid Love
-- Running Away
-- Take A Look (At Yourself) (Jazzmatazz Volume 1)
-- FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett & Kali Uchis) (Cherry Bomb + Instrumentals)
-- Love Will Bring Us Back Together (Fever)
-- Mystic Voyage
-- You Send Me (You Send Me)
-- I Am Your Mind (Part 2)
+  - 'FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett & Kali Uchis) (Cherry Bomb)'
+  - Cleva (Mama's Gun)
+  - Liquid Love
+  - Running Away
+  - Take A Look (At Yourself) (Jazzmatazz Volume 1)
+  - >-
+    FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett & Kali Uchis) (Cherry Bomb
+    + Instrumentals)
+  - Love Will Bring Us Back Together (Fever)
+  - Mystic Voyage
+  - You Send Me (You Send Me)
+  - I Am Your Mind (Part 2)
 external_urls:
-  spotify: https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj
-  wikipedia: https://en.wikipedia.org/wiki/Ali_Shaheed_Muhammad
-image_path: 03_Resources/source_material/ArtistPortraits/roy_ayers_adrian_younge_ali_shaheed_muhammad.jpg
+  spotify: 'https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ali_Shaheed_Muhammad'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/roy_ayers_adrian_younge_ali_shaheed_muhammad.jpg
 biography_enhanced_at: '2025-11-12T14:51:27.318084'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Ali_Shaheed_Muhammad
-- https://downbeat.com/news/detail/younge-muhammad-jazz-is-dead
-- https://postgenre.org/review-roy-ayers-adrian-younge-ali-shaheed-muhammad-roy-ayers-jid-002/
-- https://www.latimes.com/entertainment-arts/music/story/2020-03-26/california-sounds-jazz-is-dead-adrian-younge-ayers-azymuth-muhammad
-- https://www.jazzisdead.com/news/roy-ayers-jid002
+  - 'https://en.wikipedia.org/wiki/Ali_Shaheed_Muhammad'
+  - 'https://downbeat.com/news/detail/younge-muhammad-jazz-is-dead'
+  - >-
+    https://postgenre.org/review-roy-ayers-adrian-younge-ali-shaheed-muhammad-roy-ayers-jid-002/
+  - >-
+    https://www.latimes.com/entertainment-arts/music/story/2020-03-26/california-sounds-jazz-is-dead-adrian-younge-ayers-azymuth-muhammad
+  - 'https://www.jazzisdead.com/news/roy-ayers-jid002'
 network_extracted: true
 entry_created: '2025-11-12T14:51:27.318096'
 last_updated: '2025-12-23T08:16:15.114508'
-origin: Los Angeles, California, USA (Roy Ayers); Los Angeles, California, USA (Adrian Younge); Brooklyn, New York, USA (Ali Shaheed Muhammad)
-
+origin: >-
+  Los Angeles, California, USA (Roy Ayers); Los Angeles, California, USA (Adrian
+  Younge); Brooklyn, New York, USA (Ali Shaheed Muhammad)
+birth_place: 'Los Angeles, California, United States'
+birth_date: '1940'
+artist_type: person
 ---
 
 ![](roy_ayers_adrian_younge_ali_shaheed_muhammad.jpg)

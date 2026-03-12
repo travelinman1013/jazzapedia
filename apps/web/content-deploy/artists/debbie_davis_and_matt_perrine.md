@@ -4,11 +4,12 @@ wiki_slug: debbie-davis-matt-perrine
 schema_version: 2
 status: active
 genres:
-- blues
-- blues rock
-- modern blues
+  - blues
+  - blues rock
+  - modern blues
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/debbie_davis_and_matt_perrine.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/debbie_davis_and_matt_perrine.jpg
   caption: Debbie Davis & Matt Perrine
   background: solo_singer
 audio_profile:
@@ -26,45 +27,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Matt Perrine
-  - Clifton Chenier
+    - Matt Perrine
+    - Clifton Chenier
   influenced: []
   mentors: []
 spotify_data:
   followers: 14354
   id: 21OcU2kzq3Oqkl8XxsEli7
   popularity: 30
-  url: https://open.spotify.com/artist/21OcU2kzq3Oqkl8XxsEli7
+  url: 'https://open.spotify.com/artist/21OcU2kzq3Oqkl8XxsEli7'
 discography_enriched: true
 top_tracks:
-- Blue & Lonesome (Round Every Corner)
-- Holdin' Court (Holdin' Court)
-- Life Of The Party (Love Spin)
-- Tryin' To Keep It Real (Holdin' Court)
-- Can't Find The Blues (Love The Game)
-- Love Spin (Love Spin)
-- 'Takin'' It All To Vegas (Key To Love: A Celebration Of The Music Of John Mayall)'
-- So What (Holdin' Court)
-- 'I Just Came To Play (Key To Love: A Celebration Of The Music Of John Mayall)'
-- Holding You Up For Love (Grand Union)
+  - Blue & Lonesome (Round Every Corner)
+  - Holdin' Court (Holdin' Court)
+  - Life Of The Party (Love Spin)
+  - Tryin' To Keep It Real (Holdin' Court)
+  - Can't Find The Blues (Love The Game)
+  - Love Spin (Love Spin)
+  - >-
+    Takin' It All To Vegas (Key To Love: A Celebration Of The Music Of John
+    Mayall)
+  - So What (Holdin' Court)
+  - 'I Just Came To Play (Key To Love: A Celebration Of The Music Of John Mayall)'
+  - Holding You Up For Love (Grand Union)
 external_urls:
-  spotify: https://open.spotify.com/artist/21OcU2kzq3Oqkl8XxsEli7
+  spotify: 'https://open.spotify.com/artist/21OcU2kzq3Oqkl8XxsEli7'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/debbie_davis_and_matt_perrine.jpg
 biography_enhanced_at: '2025-12-16T03:58:22.482212'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://thefunkyuncle.live/artist/debbie-davis-matt-perrine/
-- https://forum.ukuleleunderground.com/threads/debbie-davis.64239/
-- https://www.twelvesongsofchristmas.com/content/debbie-davis
-- https://sweeneygumbo.com/tag/matt-perrine/
-- https://www.offbeat.com/articles/matt-perrine-and-debbie-davis-the-couple-that-plays-together/
-- https://www.neworleans.com/listing/debbie-davis/46620/
+  - 'https://thefunkyuncle.live/artist/debbie-davis-matt-perrine/'
+  - 'https://forum.ukuleleunderground.com/threads/debbie-davis.64239/'
+  - 'https://www.twelvesongsofchristmas.com/content/debbie-davis'
+  - 'https://sweeneygumbo.com/tag/matt-perrine/'
+  - >-
+    https://www.offbeat.com/articles/matt-perrine-and-debbie-davis-the-couple-that-plays-together/
+  - 'https://www.neworleans.com/listing/debbie-davis/46620/'
 network_extracted: true
 entry_created: '2025-12-16T03:58:22.482220'
 last_updated: '2025-12-23T08:16:07.651971'
-origin: New Orleans, Louisiana, USA
+origin: 'New Orleans, Louisiana, USA'
+artist_type: person
 ---
 
 ![](debbie_davis_and_matt_perrine.jpg)

@@ -5,31 +5,31 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1966-09-09'
-birth_place: Brooklyn
+birth_place: 'Brooklyn, New York, United States'
 genres:
-- comedy
+  - comedy
 instruments:
-- lead vocals
-- guitar
-- spoken vocals
-associated_acts:
-- begin: '1990'
-  end: '1995'
-  instruments: []
-  mbid: 778b6a90-4dff-41e1-90ba-7b3ad14013a5
-  name: Saturday Night Live
-- begin: ''
-  end: ''
-  instruments:
   - lead vocals
-  mbid: d84673be-45a3-44f8-a296-961853d64d4f
-  name: The Goat Band
-- begin: ''
-  end: ''
-  instruments:
   - guitar
-  mbid: d84673be-45a3-44f8-a296-961853d64d4f
-  name: The Goat Band
+  - spoken vocals
+associated_acts:
+  - begin: '1990'
+    end: '1995'
+    instruments: []
+    mbid: 778b6a90-4dff-41e1-90ba-7b3ad14013a5
+    name: Saturday Night Live
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: d84673be-45a3-44f8-a296-961853d64d4f
+    name: The Goat Band
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: d84673be-45a3-44f8-a296-961853d64d4f
+    name: The Goat Band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/adam_sandler.jpg
   caption: Adam Sandler
@@ -51,51 +51,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Chris Farley
+    - Chris Farley
   influenced: []
   mentors:
-  - Dennis Miller
-  - Lorne Michaels
+    - Dennis Miller
+    - Lorne Michaels
 spotify_data:
   followers: 192570
   id: 2LB9H0px4qWbCHg9Axzhga
   popularity: 51
-  url: https://open.spotify.com/artist/2LB9H0px4qWbCHg9Axzhga
+  url: 'https://open.spotify.com/artist/2LB9H0px4qWbCHg9Axzhga'
 discography_enriched: true
 top_tracks:
-- Bum Biddy (with Alison Krauss, Lainie Kazan, Rob Schneider, Jon Lovitz, John Farley, Chance Langton & Jason Housman feat.
-  Singing Townspeople) (Eight Crazy Nights (Original Movie Soundtrack))
-- Somebody Kill Me
-- Grow Old with You
-- Ode to My Car (What the Hell Happened to Me?)
-- The Chanukah Song (What the Hell Happened to Me?)
-- Phone Wallet Keys (100% Fresh)
-- Grow Old With You (100% Fresh)
-- Farley (100% Fresh)
-- Phone Wallet Keys - Single Version (Phone Wallet Keys)
-- Technical Foul (Eight Crazy Nights (Original Movie Soundtrack))
+  - >-
+    Bum Biddy (with Alison Krauss, Lainie Kazan, Rob Schneider, Jon Lovitz, John
+    Farley, Chance Langton & Jason Housman feat. Singing Townspeople) (Eight
+    Crazy Nights (Original Movie Soundtrack))
+  - Somebody Kill Me
+  - Grow Old with You
+  - Ode to My Car (What the Hell Happened to Me?)
+  - The Chanukah Song (What the Hell Happened to Me?)
+  - Phone Wallet Keys (100% Fresh)
+  - Grow Old With You (100% Fresh)
+  - Farley (100% Fresh)
+  - Phone Wallet Keys - Single Version (Phone Wallet Keys)
+  - Technical Foul (Eight Crazy Nights (Original Movie Soundtrack))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/dfc6d0b8-3d0b-4b33-9b3f-dff972e25594
-  spotify: https://open.spotify.com/artist/2LB9H0px4qWbCHg9Axzhga
-  wikipedia: https://en.wikipedia.org/wiki/Adam_Sandler
+  musicbrainz: 'https://musicbrainz.org/artist/dfc6d0b8-3d0b-4b33-9b3f-dff972e25594'
+  spotify: 'https://open.spotify.com/artist/2LB9H0px4qWbCHg9Axzhga'
+  wikipedia: 'https://en.wikipedia.org/wiki/Adam_Sandler'
 image_path: 03_Resources/source_material/ArtistPortraits/adam_sandler.jpg
 biography_enhanced_at: '2025-12-21T01:20:47.091951'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.ebsco.com/research-starters/biography/adam-sandler
-- https://en.wikipedia.org/wiki/Adam_Sandler
-- https://www.britannica.com/biography/Adam-Sandler
-- https://www.imdb.com/name/nm0001191/bio/
-- https://www.biography.com/actors/adam-sandler
+  - 'https://www.ebsco.com/research-starters/biography/adam-sandler'
+  - 'https://en.wikipedia.org/wiki/Adam_Sandler'
+  - 'https://www.britannica.com/biography/Adam-Sandler'
+  - 'https://www.imdb.com/name/nm0001191/bio/'
+  - 'https://www.biography.com/actors/adam-sandler'
 network_extracted: true
 entry_created: '2025-12-21T01:20:47.091956'
 last_updated: '2025-12-23T08:16:04.391472'
 gender: Male
 musicbrainz_id: dfc6d0b8-3d0b-4b33-9b3f-dff972e25594
 tags:
-- comedy
-- saturday night live
+  - comedy
+  - saturday night live
 ---
 
 ![](adam_sandler.jpg)

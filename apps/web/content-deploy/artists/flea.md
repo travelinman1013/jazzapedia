@@ -3,14 +3,14 @@ title: Flea
 wiki_slug: flea
 schema_version: 2
 status: active
-birth_place: Melbourne, Victoria, Australia
+birth_place: 'Melbourne, Victoria, Australia'
 genres:
-- funk rock
+  - funk rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/flea.jpg
   caption: Flea
   background: solo_singer
-  origin: Melbourne, Victoria, Australia
+  origin: 'Melbourne, Victoria, Australia'
 audio_profile:
   tempo_avg: 121.2
   energy_avg: 0.611
@@ -18,7 +18,7 @@ audio_profile:
   danceability_avg: 0.627
   acousticness_avg: 0.207
   instrumentalness_avg: 0.343
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.14
   liveness_avg: 0.284
   track_count: 47
@@ -26,54 +26,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Anthony Kiedis
-  - Hillel Slovak
-  - Jack Irons
-  - John Frusciante
-  - Chad Smith
-  - George Clinton
-  - River Phoenix
-  - Nirvana (Kurt Cobain and band members)
+    - Anthony Kiedis
+    - Hillel Slovak
+    - Jack Irons
+    - John Frusciante
+    - Chad Smith
+    - George Clinton
+    - River Phoenix
+    - Nirvana (Kurt Cobain and band members)
   influenced:
-  - Contemporary rock and funk‑rock bassists
+    - Contemporary rock and funk‑rock bassists
   mentors:
-  - Walter Urban Jr.
-  - Dizzy Gillespie
-  - Miles Davis
-  - Hillel Slovak
-  - Bootsy Collins
-  - Larry Graham
+    - Walter Urban Jr.
+    - Dizzy Gillespie
+    - Miles Davis
+    - Hillel Slovak
+    - Bootsy Collins
+    - Larry Graham
 spotify_data:
   followers: 93321
   id: 0Xl5J6iOgiQHFqgri7TF8j
   popularity: 40
-  url: https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j
+  url: 'https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j'
 discography_enriched: true
 top_tracks:
-- Lovelovelove
-- Pedestal of Infamy
-- PUFF PUFF (NEW ROAD AND GUAVA TREES)
-- Chemical Energy
-- PUFF PUFF
-- A Little Bit of Sanity
-- Not Great Men
-- '333'
-- Chemical Energy 2021
-- Helen Burns
+  - Lovelovelove
+  - Pedestal of Infamy
+  - PUFF PUFF (NEW ROAD AND GUAVA TREES)
+  - Chemical Energy
+  - PUFF PUFF
+  - A Little Bit of Sanity
+  - Not Great Men
+  - '333'
+  - Chemical Energy 2021
+  - Helen Burns
 external_urls:
-  spotify: https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j
-  wikipedia: https://en.wikipedia.org/wiki/Flea_(musician)
+  spotify: 'https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j'
+  wikipedia: 'https://en.wikipedia.org/wiki/Flea_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/flea.jpg
 biography_enhanced_at: '2025-12-13T10:48:21.881011'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- 'Só Groove Oficial – Flea: The Story of a Musical Maverick[1]'
-- IMDb – Flea Biography and Trivia[2]
-- Rick Beato interview with Flea (YouTube transcript excerpts)[3]
+  - 'Só Groove Oficial – Flea: The Story of a Musical Maverick[1]'
+  - 'IMDb – Flea Biography and Trivia[2]'
+  - 'Rick Beato interview with Flea (YouTube transcript excerpts)[3]'
 network_extracted: true
 entry_created: '2025-12-13T10:48:21.881021'
 last_updated: '2025-12-23T08:16:08.676379'
+birth_date: '1962-10-16'
+artist_type: person
 ---
 
 ![](flea.jpg)

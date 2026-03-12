@@ -1,14 +1,15 @@
 ---
-title: John Coltrane, Johnny Hartman
+title: 'John Coltrane, Johnny Hartman'
 wiki_slug: john-coltrane-johnny-hartman
 schema_version: 2
 status: active
 genres:
-- jazz
-- vocal jazz
+  - jazz
+  - vocal jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/john_coltrane_johnny_hartman.jpg
-  caption: John Coltrane, Johnny Hartman
+  image: >-
+    03_Resources/source_material/ArtistPortraits/john_coltrane_johnny_hartman.jpg
+  caption: 'John Coltrane, Johnny Hartman'
   background: solo_singer
 audio_profile:
   tempo_avg: 98.4
@@ -17,7 +18,7 @@ audio_profile:
   danceability_avg: 0.429
   acousticness_avg: 0.927
   instrumentalness_avg: 0.029
-  loudness_avg: -19.0
+  loudness_avg: -19
   speechiness_avg: 0.039
   liveness_avg: 0.136
   track_count: 50
@@ -25,51 +26,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - McCoy Tyner
-  - Elvin Jones
-  - Jimmy Garrison
-  - Bob Thiele
+    - McCoy Tyner
+    - Elvin Jones
+    - Jimmy Garrison
+    - Bob Thiele
   influenced:
-  - Kurt Elling
-  - Michael Brecker
-  - Gregory Porter
+    - Kurt Elling
+    - Michael Brecker
+    - Gregory Porter
   mentors:
-  - Dizzy Gillespie
-  - Ornette Coleman
+    - Dizzy Gillespie
+    - Ornette Coleman
 spotify_data:
   followers: 90514
   id: 7qVvIFc9DktkAc0HKzRhNo
   popularity: 54
-  url: https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo
+  url: 'https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo'
 discography_enriched: true
 top_tracks:
-- My One And Only Love (John Coltrane And Johnny Hartman)
-- You Are Too Beautiful (John Coltrane And Johnny Hartman)
-- Dedicated To You (John Coltrane And Johnny Hartman)
-- They Say It's Wonderful (John Coltrane And Johnny Hartman)
-- Lush Life (John Coltrane And Johnny Hartman)
-- In The Wee Small Hours Of The Morning (I Just Dropped By To Say Hello)
-- I Just Dropped By To Say Hello (I Just Dropped By To Say Hello)
-- Don't You Know I Care (I Just Dropped By To Say Hello)
-- Autumn Serenade (John Coltrane And Johnny Hartman)
-- Ain't Misbehavin' (The Complete Gus Wildi Recordings)
+  - My One And Only Love (John Coltrane And Johnny Hartman)
+  - You Are Too Beautiful (John Coltrane And Johnny Hartman)
+  - Dedicated To You (John Coltrane And Johnny Hartman)
+  - They Say It's Wonderful (John Coltrane And Johnny Hartman)
+  - Lush Life (John Coltrane And Johnny Hartman)
+  - In The Wee Small Hours Of The Morning (I Just Dropped By To Say Hello)
+  - I Just Dropped By To Say Hello (I Just Dropped By To Say Hello)
+  - Don't You Know I Care (I Just Dropped By To Say Hello)
+  - Autumn Serenade (John Coltrane And Johnny Hartman)
+  - Ain't Misbehavin' (The Complete Gus Wildi Recordings)
 external_urls:
-  spotify: https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo
-  wikipedia: https://en.wikipedia.org/wiki/John_Coltrane_and_Johnny_Hartman
+  spotify: 'https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo'
+  wikipedia: 'https://en.wikipedia.org/wiki/John_Coltrane_and_Johnny_Hartman'
 image_path: 03_Resources/source_material/ArtistPortraits/john_coltrane_johnny_hartman.jpg
 biography_enhanced_at: '2025-11-21T07:15:30.245316'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/John_Coltrane_and_Johnny_Hartman
-- https://www.udiscovermusic.com/stories/sublime-sophistication/
-- https://www.sfjazz.org/onthecorner/look-back-john-coltrane-johnny-hartman/
-- https://www.johncoltrane.com/biography
+  - 'https://en.wikipedia.org/wiki/John_Coltrane_and_Johnny_Hartman'
+  - 'https://www.udiscovermusic.com/stories/sublime-sophistication/'
+  - 'https://www.sfjazz.org/onthecorner/look-back-john-coltrane-johnny-hartman/'
+  - 'https://www.johncoltrane.com/biography'
 network_extracted: true
 entry_created: '2025-11-21T07:15:30.245328'
 last_updated: '2025-12-23T08:16:10.714354'
-origin: 'Englewood Cliffs, New Jersey, USA (album recording location); John Coltrane: Hamlet, North Carolina, USA (birthplace);
-  Johnny Hartman: Chicago, Illinois, USA (birthplace)'
+origin: >-
+  Englewood Cliffs, New Jersey, USA (album recording location); John Coltrane:
+  Hamlet, North Carolina, USA (birthplace); Johnny Hartman: Chicago, Illinois,
+  USA (birthplace)
+birth_place: 'Hamlet, North Carolina, United States'
+artist_type: band
 ---
 
 ![](john_coltrane_johnny_hartman.jpg)

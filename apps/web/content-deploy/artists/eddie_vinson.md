@@ -1,18 +1,18 @@
 ---
-title: eddie vinson
+title: Eddie Vinson
 wiki_slug: eddie-vinson
 schema_version: 2
 status: active
-birth_place: Houston, Texas, United States
+birth_place: 'Houston, Texas, United States'
 genres:
-- blues
-- classic blues
-- jazz blues
+  - blues
+  - classic blues
+  - jazz blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/eddie_vinson.jpg
   caption: eddie vinson
   background: solo_singer
-  origin: Houston, Texas, United States
+  origin: 'Houston, Texas, United States'
 audio_profile:
   tempo_avg: 106.1
   energy_avg: 0.348
@@ -28,51 +28,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Cootie Williams
-  - John Coltrane
-  - Cannonball Adderley
+    - Cootie Williams
+    - John Coltrane
+    - Cannonball Adderley
   influenced:
-  - John Coltrane
+    - John Coltrane
   mentors:
-  - Big Bill Broonzy
-  - Charlie Parker
+    - Big Bill Broonzy
+    - Charlie Parker
 spotify_data:
   followers: 6422
   id: 0R3bGv703d8JFKdZxsHr58
   popularity: 25
-  url: https://open.spotify.com/artist/0R3bGv703d8JFKdZxsHr58
+  url: 'https://open.spotify.com/artist/0R3bGv703d8JFKdZxsHr58'
 discography_enriched: true
 top_tracks:
-- Wee Baby Blues (Kidney Stew (The Definitive Black & Blue Sessions))
-- Kidney Stew (Kidney Stew (The Definitive Black & Blue Sessions))
-- Juice Head Baby (Kidney Stew (The Definitive Black & Blue Sessions))
-- Blues Dues (Movin' and Groovin' Man (feat. Melvin Taylor, Ken Saydak, Harlan Terson, Merle Perkins, Eddie "Cleanhead" Vinson)
-  [Blues Power])
-- Wait a Minute Baby (Kidney Stew (The Definitive Black & Blue Sessions))
-- I'm the Midnight Creeper (feat.Shuggie Otis) (Pioneers of Rhythm & Blues Volume 7)
-- Old Maid Boogie (Kidney Stew (The Definitive Black & Blue Sessions))
-- Please Send Me Someone to Love (Kidney Stew (The Definitive Black & Blue Sessions))
-- Somebody's Got to Go (Kidney Stew (The Definitive Black & Blue Sessions))
-- I'm In Awful Mood (Kidney Stew (The Definitive Black & Blue Sessions))
+  - Wee Baby Blues (Kidney Stew (The Definitive Black & Blue Sessions))
+  - Kidney Stew (Kidney Stew (The Definitive Black & Blue Sessions))
+  - Juice Head Baby (Kidney Stew (The Definitive Black & Blue Sessions))
+  - >-
+    Blues Dues (Movin' and Groovin' Man (feat. Melvin Taylor, Ken Saydak, Harlan
+    Terson, Merle Perkins, Eddie "Cleanhead" Vinson) [Blues Power])
+  - Wait a Minute Baby (Kidney Stew (The Definitive Black & Blue Sessions))
+  - >-
+    I'm the Midnight Creeper (feat.Shuggie Otis) (Pioneers of Rhythm & Blues
+    Volume 7)
+  - Old Maid Boogie (Kidney Stew (The Definitive Black & Blue Sessions))
+  - >-
+    Please Send Me Someone to Love (Kidney Stew (The Definitive Black & Blue
+    Sessions))
+  - Somebody's Got to Go (Kidney Stew (The Definitive Black & Blue Sessions))
+  - I'm In Awful Mood (Kidney Stew (The Definitive Black & Blue Sessions))
 external_urls:
-  spotify: https://open.spotify.com/artist/0R3bGv703d8JFKdZxsHr58
-  wikipedia: https://en.wikipedia.org/wiki/Eddie_Vinson
+  spotify: 'https://open.spotify.com/artist/0R3bGv703d8JFKdZxsHr58'
+  wikipedia: 'https://en.wikipedia.org/wiki/Eddie_Vinson'
 image_path: 03_Resources/source_material/ArtistPortraits/eddie_vinson.jpg
 biography_enhanced_at: '2025-11-20T07:27:37.217156'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.allaboutjazz.com/musicians/eddie-cleanhead-vinson/
-- https://aaregistry.org/story/houstons-own-eddie-cleanhead-vinson/
-- https://blues.org/blues_hof_inductee/eddie-cleanhead-vinson/
-- https://www.tshaonline.org/handbook/entries/vinson-eddie-cleanhead
-- https://www.nepm.org/jazz-world/2017-12-18/the-eddie-cleanhead-vinson-centennial
-- https://www.latimes.com/archives/la-xpm-1994-12-29-ol-14006-story.html
-- https://www.bear-family.com/vinson-eddie-cleanhead/
-- https://en.wikipedia.org/wiki/Eddie_Vinson
+  - 'https://www.allaboutjazz.com/musicians/eddie-cleanhead-vinson/'
+  - 'https://aaregistry.org/story/houstons-own-eddie-cleanhead-vinson/'
+  - 'https://blues.org/blues_hof_inductee/eddie-cleanhead-vinson/'
+  - 'https://www.tshaonline.org/handbook/entries/vinson-eddie-cleanhead'
+  - >-
+    https://www.nepm.org/jazz-world/2017-12-18/the-eddie-cleanhead-vinson-centennial
+  - 'https://www.latimes.com/archives/la-xpm-1994-12-29-ol-14006-story.html'
+  - 'https://www.bear-family.com/vinson-eddie-cleanhead/'
+  - 'https://en.wikipedia.org/wiki/Eddie_Vinson'
 network_extracted: true
 entry_created: '2025-11-20T07:27:37.217167'
 last_updated: '2025-12-23T08:16:08.210485'
+birth_date: '1917-12-18'
+artist_type: person
 ---
 
 ![](eddie_vinson.jpg)

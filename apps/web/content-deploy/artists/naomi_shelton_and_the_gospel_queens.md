@@ -4,10 +4,11 @@ wiki_slug: naomi-shelton-the-gospel-queens
 schema_version: 2
 status: active
 genres:
-- retro soul
-- soul
+  - retro soul
+  - soul
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/naomi_shelton_and_the_gospel_queens.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/naomi_shelton_and_the_gospel_queens.jpg
   caption: Naomi Shelton & the Gospel Queens
   background: solo_singer
 audio_profile:
@@ -25,50 +26,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Cliff Driver
-  - Fred Thomas
-  - Gabriel Caplan
-  - Edna Johnson
-  - Bobbie Jean Gant
+    - Cliff Driver
+    - Fred Thomas
+    - Gabriel Caplan
+    - Edna Johnson
+    - Bobbie Jean Gant
   influenced:
-  - Daptone Records artists
+    - Daptone Records artists
   mentors:
-  - Five Blind Boys of Alabama
-  - Sam Cooke & the Soul Stirrers
-  - Otis Redding
+    - Five Blind Boys of Alabama
+    - Sam Cooke & the Soul Stirrers
+    - Otis Redding
 spotify_data:
   followers: 2696
   id: 4zsrUnozu6zRlVELQezaBn
   popularity: 23
-  url: https://open.spotify.com/artist/4zsrUnozu6zRlVELQezaBn
+  url: 'https://open.spotify.com/artist/4zsrUnozu6zRlVELQezaBn'
 discography_enriched: true
 top_tracks:
-- I'll Take the Long Road (What Have You Done, My Brother?)
-- What Have You Done (What Have You Done, My Brother?)
-- Sinner (Cold World)
-- You Gotta Move
-- What Is This (What Have You Done, My Brother?)
-- Everybody Knows (River Song) (Cold World)
-- What More Can I Do? (What Have You Done, My Brother?)
-- By Your Side (What Have You Done, My Brother?)
-- I Need You to Hold My Hand (What Have You Done, My Brother?)
-- Lift My Burdens (What Have You Done, My Brother?)
+  - 'I''ll Take the Long Road (What Have You Done, My Brother?)'
+  - 'What Have You Done (What Have You Done, My Brother?)'
+  - Sinner (Cold World)
+  - You Gotta Move
+  - 'What Is This (What Have You Done, My Brother?)'
+  - Everybody Knows (River Song) (Cold World)
+  - 'What More Can I Do? (What Have You Done, My Brother?)'
+  - 'By Your Side (What Have You Done, My Brother?)'
+  - 'I Need You to Hold My Hand (What Have You Done, My Brother?)'
+  - 'Lift My Burdens (What Have You Done, My Brother?)'
 external_urls:
-  spotify: https://open.spotify.com/artist/4zsrUnozu6zRlVELQezaBn
-  wikipedia: https://en.wikipedia.org/wiki/Naomi_Shelton_%26_the_Gospel_Queens
-image_path: 03_Resources/source_material/ArtistPortraits/naomi_shelton_and_the_gospel_queens.jpg
+  spotify: 'https://open.spotify.com/artist/4zsrUnozu6zRlVELQezaBn'
+  wikipedia: 'https://en.wikipedia.org/wiki/Naomi_Shelton_%26_the_Gospel_Queens'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/naomi_shelton_and_the_gospel_queens.jpg
 biography_enhanced_at: '2025-11-04T10:47:44.613605'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Naomi_Shelton_%26_the_Gospel_Queens
-- https://www.crossrhythms.co.uk/articles/music/Naomi_Shelton__The_veteran_singer_bringing_gospel_fire_to_a_cold_world/57696/p1/
-- https://www.brooklynvegan.com/naomi-shelton-rest-in-peace/
-- https://www.iheart.com/artist/naomi-shelton-the-gospel-queens-81615/
+  - 'https://en.wikipedia.org/wiki/Naomi_Shelton_%26_the_Gospel_Queens'
+  - >-
+    https://www.crossrhythms.co.uk/articles/music/Naomi_Shelton__The_veteran_singer_bringing_gospel_fire_to_a_cold_world/57696/p1/
+  - 'https://www.brooklynvegan.com/naomi-shelton-rest-in-peace/'
+  - 'https://www.iheart.com/artist/naomi-shelton-the-gospel-queens-81615/'
 network_extracted: true
 entry_created: '2025-11-04T10:47:44.613620'
 last_updated: '2025-12-23T08:16:13.433146'
-origin: Brooklyn, New York, USA (group origin); Midway, Alabama, USA (Naomi Shelton's birthplace)
+origin: >-
+  Brooklyn, New York, USA (group origin); Midway, Alabama, USA (Naomi Shelton's
+  birthplace)
+birth_place: 'Midway, Alabama, United States'
+artist_type: band
 ---
 
 ![](naomi_shelton_and_the_gospel_queens.jpg)

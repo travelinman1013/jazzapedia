@@ -2,12 +2,12 @@
 title: Ever More Nest
 wiki_slug: ever-more-nest
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '2018'
 genres:
-- alt country
-- americana
+  - alt country
+  - americana
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ever_more_nest.jpg
   caption: Ever More Nest
@@ -28,59 +28,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Neilson Hubbard
-  - Will Kimbrough
-  - Dean Marold
-  - Fats Kaplin
-  - Lucy Cordts
+    - Neilson Hubbard
+    - Will Kimbrough
+    - Dean Marold
+    - Fats Kaplin
+    - Lucy Cordts
   influenced: []
   mentors:
-  - Mary Ann Samyn
-  - Rick Nelson & Jason Rhein
+    - Mary Ann Samyn
+    - Rick Nelson & Jason Rhein
 spotify_data:
   followers: 475
   id: 4SyLT21Hx2AptF6kdopLqL
   popularity: 2
-  url: https://open.spotify.com/artist/4SyLT21Hx2AptF6kdopLqL
+  url: 'https://open.spotify.com/artist/4SyLT21Hx2AptF6kdopLqL'
 discography_enriched: true
 top_tracks:
-- Out Loud (Out Here Now)
-- What's Gone Is Gone (Out Here Now)
-- Coming Along (Out Here Now)
-- Out Here Now (Out Here Now)
-- Alone Tonight (Out Here Now)
-- Wishing Well (Out Here Now)
-- Hymn (Out Here Now)
-- Almost Home (Out Here Now)
-- Unraveling (The Place That You Call Home)
-- So Low (The Place That You Call Home)
+  - Out Loud (Out Here Now)
+  - What's Gone Is Gone (Out Here Now)
+  - Coming Along (Out Here Now)
+  - Out Here Now (Out Here Now)
+  - Alone Tonight (Out Here Now)
+  - Wishing Well (Out Here Now)
+  - Hymn (Out Here Now)
+  - Almost Home (Out Here Now)
+  - Unraveling (The Place That You Call Home)
+  - So Low (The Place That You Call Home)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d4358690-dcc2-4203-acea-bf705de66380
-  spotify: https://open.spotify.com/artist/4SyLT21Hx2AptF6kdopLqL
+  musicbrainz: 'https://musicbrainz.org/artist/d4358690-dcc2-4203-acea-bf705de66380'
+  spotify: 'https://open.spotify.com/artist/4SyLT21Hx2AptF6kdopLqL'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/ever_more_nest.jpg
 biography_enhanced_at: '2025-10-29T16:45:15.543940'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://evermorenest.com/about-epk
-- https://www.myspiltmilk.com/articles/ever-more-nest-is-a-restart-for-kelcy-mae-at-jazz-fest
-- https://www.countryeverywhere.com/profiles/ever-more-nest
-- https://thebluegrasssituation.com/read/listen-ever-more-nest-my-story/
-- https://evermorenest.com
-- https://www.offbeat.com/articles/kelcy-mae/
-- https://thebluegrasssituation.com/read/a-minute-in-new-orleans-with-kelcy-mae-of-ever-more-nest
+  - 'https://evermorenest.com/about-epk'
+  - >-
+    https://www.myspiltmilk.com/articles/ever-more-nest-is-a-restart-for-kelcy-mae-at-jazz-fest
+  - 'https://www.countryeverywhere.com/profiles/ever-more-nest'
+  - 'https://thebluegrasssituation.com/read/listen-ever-more-nest-my-story/'
+  - 'https://evermorenest.com'
+  - 'https://www.offbeat.com/articles/kelcy-mae/'
+  - >-
+    https://thebluegrasssituation.com/read/a-minute-in-new-orleans-with-kelcy-mae-of-ever-more-nest
 network_extracted: true
 entry_created: '2025-10-29T16:45:15.543948'
 last_updated: '2025-12-23T08:16:08.539501'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f4e43bbf-8afd-4e25-871c-7402d5d0cfb2
-  name: Kelcy Mae
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f4e43bbf-8afd-4e25-871c-7402d5d0cfb2
+    name: Kelcy Mae
 musicbrainz_id: d4358690-dcc2-4203-acea-bf705de66380
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+birth_place: 'Shreveport, Louisiana, United States'
 ---
 
 ![](ever_more_nest.jpg)

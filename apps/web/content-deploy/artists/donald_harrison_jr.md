@@ -3,14 +3,14 @@ title: Donald Harrison jr.
 wiki_slug: donald-harrison-jr
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/donald_harrison_jr.jpg
   caption: Donald Harrison jr.
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 110.9
   energy_avg: 0.445
@@ -26,56 +26,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Terence Blanchard
-  - Roy Haynes
-  - The Notorious B.I.G.
-  - Dr. John
-  - Cyrus Chestnut
+    - Terence Blanchard
+    - Roy Haynes
+    - The Notorious B.I.G.
+    - Dr. John
+    - Cyrus Chestnut
   influenced:
-  - Christian Scott aTunde Adjuah
-  - Jon Batiste
-  - Trombone Shorty (Troy Andrews)
-  - Esperanza Spalding
-  - The Notorious B.I.G.
+    - Christian Scott aTunde Adjuah
+    - Jon Batiste
+    - Trombone Shorty (Troy Andrews)
+    - Esperanza Spalding
+    - The Notorious B.I.G.
   mentors:
-  - Ellis Marsalis Jr.
-  - Art Blakey
+    - Ellis Marsalis Jr.
+    - Art Blakey
 spotify_data:
   followers: 7236
   id: 53pHwg1sjhqGk726JnJHYb
   popularity: 19
-  url: https://open.spotify.com/artist/53pHwg1sjhqGk726JnJHYb
+  url: 'https://open.spotify.com/artist/53pHwg1sjhqGk726JnJHYb'
 discography_enriched: true
 top_tracks:
-- Java (With You In Mind)
-- Zulu King (James Andrews and Trombone Shorty Brothers)
-- Hu-ta-Nay (Indian Blues)
-- Walkin' Home (Indian Blues)
-- Big Chief (Indian Blues)
-- Shave 'Em Dry (Indian Blues)
-- Shallow Water (Indian Blues)
-- 'Indian Red (Treme: Music From The HBO Original Series, Season 1)'
-- Sankofa (Church of New Orleans)
-- Two-Way-Pocky-Way (Indian Blues)
+  - Java (With You In Mind)
+  - Zulu King (James Andrews and Trombone Shorty Brothers)
+  - Hu-ta-Nay (Indian Blues)
+  - Walkin' Home (Indian Blues)
+  - Big Chief (Indian Blues)
+  - Shave 'Em Dry (Indian Blues)
+  - Shallow Water (Indian Blues)
+  - 'Indian Red (Treme: Music From The HBO Original Series, Season 1)'
+  - Sankofa (Church of New Orleans)
+  - Two-Way-Pocky-Way (Indian Blues)
 external_urls:
-  spotify: https://open.spotify.com/artist/53pHwg1sjhqGk726JnJHYb
-  wikipedia: https://en.wikipedia.org/wiki/Donald_Harrison
+  spotify: 'https://open.spotify.com/artist/53pHwg1sjhqGk726JnJHYb'
+  wikipedia: 'https://en.wikipedia.org/wiki/Donald_Harrison'
 image_path: 03_Resources/source_material/ArtistPortraits/donald_harrison_jr.jpg
 biography_enhanced_at: '2025-11-14T10:41:35.585800'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Donald_Harrison
-- https://college.berklee.edu/people/donald-harrison-jr
-- https://www.arts.gov/honors/jazz/donald-harrison-jr
-- https://www.thejazzarts.org/news/artist-stories/donald-harrison-jr-saxophonist-big-chief-nea-jazz-master-and-improvisational-genius/
-- https://syracusejazzfest.com/donald-harrison
-- https://www.namm.org/library/oral-history/donald-harrison-jr
-- https://www.thecookersmusic.com/about/donald-harrison/
+  - 'https://en.wikipedia.org/wiki/Donald_Harrison'
+  - 'https://college.berklee.edu/people/donald-harrison-jr'
+  - 'https://www.arts.gov/honors/jazz/donald-harrison-jr'
+  - >-
+    https://www.thejazzarts.org/news/artist-stories/donald-harrison-jr-saxophonist-big-chief-nea-jazz-master-and-improvisational-genius/
+  - 'https://syracusejazzfest.com/donald-harrison'
+  - 'https://www.namm.org/library/oral-history/donald-harrison-jr'
+  - 'https://www.thecookersmusic.com/about/donald-harrison/'
 network_extracted: true
 entry_created: '2025-11-14T10:41:35.585812'
 last_updated: '2025-12-23T08:16:07.933068'
-
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1960-06-23'
+artist_type: person
 ---
 
 ![](donald_harrison_jr.jpg)

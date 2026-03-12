@@ -1,55 +1,60 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-17T02:04:11.853100'
-birth_place: Lettsworth, Louisiana, United States
+birth_place: 'Lettsworth, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-17T02:04:11.853111'
 external_urls:
-  spotify: https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx
+  spotify: 'https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx'
   wikipedia: Not found in search results
 genres:
-- modern blues
-- jam band
-- blues rock
-- southern rock
-- blues
+  - modern blues
+  - jam band
+  - blues rock
+  - southern rock
+  - blues
 image_path: 03_Resources/source_material/ArtistPortraits/buddy_guy_and_robert_randolph.jpg
 last_updated: '2026-01-17T02:04:11.853112'
 musical_connections:
   collaborators:
-  - Junior Wells
-  - Eric Clapton
-  - Jeff Beck
-  - Mark Knopfler
-  - Robert Randolph
-  - Keith Richards
-  - Carlos Santana
-  - Little Walter
-  - Sonny Boy Williamson
+    - Junior Wells
+    - Eric Clapton
+    - Jeff Beck
+    - Mark Knopfler
+    - Robert Randolph
+    - Keith Richards
+    - Carlos Santana
+    - Little Walter
+    - Sonny Boy Williamson
   influenced:
-  - Eric Clapton
-  - Jeff Beck
-  - British Rock Musicians (general)
+    - Eric Clapton
+    - Jeff Beck
+    - British Rock Musicians (general)
   mentors:
-  - Muddy Waters
-  - Howlin' Wolf
+    - Muddy Waters
+    - Howlin' Wolf
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://rhythms.com.au/from-the-archives-buddy-guy-2008/
-- https://en.wikipedia.org/wiki/Skin_Deep_(Buddy_Guy_album)
-- https://www.pastemagazine.com/music/robert-randolph-the-family-band/robert-randolph-the-family-band-lickety-split
-- https://www.explorebenzie.com/buddy-guy-with-robert-randolph-and-the-family-band-interlochen-arts-festival/
-- https://www.redhotrockhq.com/robert-randolph-the-family-band-pedal-to-the-metal/
-- https://www.guitarworld.com/features/buddy-guy-man-and-his-blues
-- https://www.classicrockrevisited.com/show_concert.php?id=118
+  - 'https://rhythms.com.au/from-the-archives-buddy-guy-2008/'
+  - 'https://en.wikipedia.org/wiki/Skin_Deep_(Buddy_Guy_album)'
+  - >-
+    https://www.pastemagazine.com/music/robert-randolph-the-family-band/robert-randolph-the-family-band-lickety-split
+  - >-
+    https://www.explorebenzie.com/buddy-guy-with-robert-randolph-and-the-family-band-interlochen-arts-festival/
+  - >-
+    https://www.redhotrockhq.com/robert-randolph-the-family-band-pedal-to-the-metal/
+  - 'https://www.guitarworld.com/features/buddy-guy-man-and-his-blues'
+  - 'https://www.classicrockrevisited.com/show_concert.php?id=118'
 spotify_data:
   followers: 15348
   id: 0u7gssqdwWaO1aMaSuvXtx
   popularity: 40
-  url: https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx
+  url: 'https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx'
 status: active
-title: buddy guy & robert randolph
+title: Buddy Guy & Robert Randolph
+origin: 'Chicago, Illinois, United States'
+birth_date: '1930-09-30'
 ---
 
 ![](buddy_guy_and_robert_randolph.jpg)

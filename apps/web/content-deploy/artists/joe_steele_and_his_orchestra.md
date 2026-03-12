@@ -1,15 +1,20 @@
 ---
-title: JOE STEELE AND HIS ORCHESTRA
+title: Joe Steele and His Orchestra
 wiki_slug: joe-steele-and-his-orchestra
 schema_version: 2
 status: active
-birth_place: Boston, Massachusetts, USA (probable birthplace); New York City, New York, USA (career and death)
+birth_place: >-
+  Boston, Massachusetts, USA (probable birthplace); New York City, New York, USA
+  (career and death)
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/joe_steele_and_his_orchestra.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/joe_steele_and_his_orchestra.jpg
   caption: JOE STEELE AND HIS ORCHESTRA
   background: solo_singer
-  origin: Boston, Massachusetts, USA (probable birthplace); New York City, New York, USA (career and death)
+  origin: >-
+    Boston, Massachusetts, USA (probable birthplace); New York City, New York,
+    USA (career and death)
 audio_profile:
   tempo_avg: 106.9
   energy_avg: 0.367
@@ -25,47 +30,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Savoy Bearcats
-  - Henry Saparo
-  - Chick Webb
-  - Pike Davis Orchestra
-  - Joe Steele and His Orchestra members
+    - Savoy Bearcats
+    - Henry Saparo
+    - Chick Webb
+    - Pike Davis Orchestra
+    - Joe Steele and His Orchestra members
   influenced:
-  - Harlem jazz musicians
+    - Harlem jazz musicians
   mentors:
-  - New England Conservatory Faculty
+    - New England Conservatory Faculty
 spotify_data:
   followers: 268
   id: 3btvxCw761YAtCfvCxUJKa
   popularity: 25
-  url: https://open.spotify.com/artist/3btvxCw761YAtCfvCxUJKa
+  url: 'https://open.spotify.com/artist/3btvxCw761YAtCfvCxUJKa'
 discography_enriched: true
 top_tracks:
-- Lazy Mary (Luna Mezza Mare) (with Joe Reisman & His Orchestra) (Lou Monte Sings For You)
-- Lazy Mary (Luna Mezza Mare) (with Joe Reisman & His Orchestra) (The Best Of RCA Victor Recordings)
-- Roman Guitar (with Joe Reisman & His Orchestra) (Lou Monte Sings For You)
-- Roman Guitar (with Joe Reisman & His Orchestra) (The Best Of RCA Victor Recordings)
-- 'Joey''s Song (The Golden Age of Light Music: Confetti)'
-- Pizza Boy U.S.A. (with Joe Reisman & His Orchestra) (The Best Of RCA Victor Recordings)
-- Don't Say Forever (with Joe Reisman & His Orchestra) (Lou Monte Sings For You)
-- Just Say I Love Her (with Joe Reisman & His Orchestra) (Lou Monte Sings For You)
-- I Have But One Heart (with Joe Reisman & His Orchestra) (Lou Monte Sings For You)
-- Lazy Mary (with Joe Reisman & His Orchestra) (Nippers 50's-Vol.1)
+  - >-
+    Lazy Mary (Luna Mezza Mare) (with Joe Reisman & His Orchestra) (Lou Monte
+    Sings For You)
+  - >-
+    Lazy Mary (Luna Mezza Mare) (with Joe Reisman & His Orchestra) (The Best Of
+    RCA Victor Recordings)
+  - Roman Guitar (with Joe Reisman & His Orchestra) (Lou Monte Sings For You)
+  - >-
+    Roman Guitar (with Joe Reisman & His Orchestra) (The Best Of RCA Victor
+    Recordings)
+  - 'Joey''s Song (The Golden Age of Light Music: Confetti)'
+  - >-
+    Pizza Boy U.S.A. (with Joe Reisman & His Orchestra) (The Best Of RCA Victor
+    Recordings)
+  - >-
+    Don't Say Forever (with Joe Reisman & His Orchestra) (Lou Monte Sings For
+    You)
+  - >-
+    Just Say I Love Her (with Joe Reisman & His Orchestra) (Lou Monte Sings For
+    You)
+  - >-
+    I Have But One Heart (with Joe Reisman & His Orchestra) (Lou Monte Sings For
+    You)
+  - Lazy Mary (with Joe Reisman & His Orchestra) (Nippers 50's-Vol.1)
 external_urls:
-  spotify: https://open.spotify.com/artist/3btvxCw761YAtCfvCxUJKa
+  spotify: 'https://open.spotify.com/artist/3btvxCw761YAtCfvCxUJKa'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/joe_steele_and_his_orchestra.jpg
 biography_enhanced_at: '2025-10-23T07:23:21.491717'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.harlem-fuss.com/pdf/soloists/harlem_fuss_soloists_steele_joe.pdf
-- https://syncopatedtimes.com/joe-steele-and-his-orchestra/
-- https://musicbrainz.org/artist/34ad1802-67b8-42da-a4cf-c2e8f883f777
-- https://www.wikiwand.com/en/articles/Joe_Steele_(musician)
+  - 'https://www.harlem-fuss.com/pdf/soloists/harlem_fuss_soloists_steele_joe.pdf'
+  - 'https://syncopatedtimes.com/joe-steele-and-his-orchestra/'
+  - 'https://musicbrainz.org/artist/34ad1802-67b8-42da-a4cf-c2e8f883f777'
+  - 'https://www.wikiwand.com/en/articles/Joe_Steele_(musician)'
 network_extracted: true
 entry_created: '2025-10-23T07:23:21.491728'
 last_updated: '2025-12-23T08:16:10.663820'
+origin: 'New York City, New York, United States'
+artist_type: person
 ---
 
 ![](joe_steele_and_his_orchestra.jpg)

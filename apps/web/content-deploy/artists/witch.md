@@ -1,8 +1,8 @@
 ---
-title: Witch
+title: WITCH
 wiki_slug: witch
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1971'
 genres: []
@@ -26,80 +26,80 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Emanuel 'Jagari' Chanda
-  - Chris 'Kims' Mbewe
-  - Gideon 'Giddy King' Mulenga
-  - Boidi 'Star MacBoyd' Sinkala
-  - Patrick Mwondela
-  - Patrick Chisembele
-  - Christine Jackson
+    - Emanuel 'Jagari' Chanda
+    - Chris 'Kims' Mbewe
+    - Gideon 'Giddy King' Mulenga
+    - Boidi 'Star MacBoyd' Sinkala
+    - Patrick Mwondela
+    - Patrick Chisembele
+    - Christine Jackson
   influenced: []
   mentors:
-  - Rolling Stones
-  - James Brown
-  - Black Sabbath
-  - Grand Funk Railroad
+    - Rolling Stones
+    - James Brown
+    - Black Sabbath
+    - Grand Funk Railroad
 spotify_data:
   followers: 287114
   id: 13sKsnhhn9nyyYVbOl7dLD
   popularity: 53
-  url: https://open.spotify.com/artist/13sKsnhhn9nyyYVbOl7dLD
+  url: 'https://open.spotify.com/artist/13sKsnhhn9nyyYVbOl7dLD'
 discography_enriched: true
 top_tracks:
-- Smells Like Teen Spirit (Smells Like Teen Spirit)
-- Killem (Killem)
-- The Magick - Demo (THE MASTER)
-- The Magick (The Magick)
-- THE MASTER (THE MASTER)
-- M.I.A (M.I.A)
-- Im Fine
-- Wicked Game
-- Smells Like Teen Spirit - Alt Mix
-- DOSE.kvlt (DOSE.kvlt)
+  - Smells Like Teen Spirit (Smells Like Teen Spirit)
+  - Killem (Killem)
+  - The Magick - Demo (THE MASTER)
+  - The Magick (The Magick)
+  - THE MASTER (THE MASTER)
+  - M.I.A (M.I.A)
+  - Im Fine
+  - Wicked Game
+  - Smells Like Teen Spirit - Alt Mix
+  - DOSE.kvlt (DOSE.kvlt)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6fc531d2-9a47-496b-b4b5-01e2b17fe99d
-  spotify: https://open.spotify.com/artist/13sKsnhhn9nyyYVbOl7dLD
-  wikipedia: https://en.wikipedia.org/wiki/Witch_(Zamrock_band)
+  musicbrainz: 'https://musicbrainz.org/artist/6fc531d2-9a47-496b-b4b5-01e2b17fe99d'
+  spotify: 'https://open.spotify.com/artist/13sKsnhhn9nyyYVbOl7dLD'
+  wikipedia: 'https://en.wikipedia.org/wiki/Witch_(Zamrock_band)'
 image_path: 03_Resources/source_material/ArtistPortraits/witch.jpg
 biography_enhanced_at: '2025-11-28T07:40:29.768103'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Last.fm - Witch biography
-- Space Agency Booking - W.I.T.C.H. Bio
-- Wikipedia - Witch (Zamrock band)
-- 'WXVU - An Introduction to Witch: Zambia''s Greatest Rock Band'
-- 'SPIN - WITCH: The Gods Of Zamrock Interview'
-- Red Bull Music Academy - Emmanuel Jagari Chanda
+  - Last.fm - Witch biography
+  - Space Agency Booking - W.I.T.C.H. Bio
+  - Wikipedia - Witch (Zamrock band)
+  - 'WXVU - An Introduction to Witch: Zambia''s Greatest Rock Band'
+  - 'SPIN - WITCH: The Gods Of Zamrock Interview'
+  - Red Bull Music Academy - Emmanuel Jagari Chanda
 network_extracted: true
 entry_created: '2025-11-28T07:40:29.768115'
 last_updated: '2025-12-23T08:16:18.255451'
 disambiguation: 1970s African psychedelic band
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 754f9c5b-6128-40e3-9092-5905c0bf744a
-  name: Emmanuel Chanda
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 07a47d02-0b09-450e-90e3-e183a3484a63
-  name: Stefan Lilov
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2def4f85-af34-417a-8d07-2016322324d8
-  name: Nic Mauskoviç
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f7e7b857-85ba-47fc-9723-aae1eb49bf77
-  name: Patrick Mwondela
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 754f9c5b-6128-40e3-9092-5905c0bf744a
+    name: Emmanuel Chanda
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 07a47d02-0b09-450e-90e3-e183a3484a63
+    name: Stefan Lilov
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2def4f85-af34-417a-8d07-2016322324d8
+    name: Nic Mauskoviç
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f7e7b857-85ba-47fc-9723-aae1eb49bf77
+    name: Patrick Mwondela
 musicbrainz_id: 6fc531d2-9a47-496b-b4b5-01e2b17fe99d
-origin: Kitwe
+origin: 'Kitwe, Zambia, United States'
 tags:
-- zamrock
+  - zamrock
 ---
 
 ![](witch.jpg)

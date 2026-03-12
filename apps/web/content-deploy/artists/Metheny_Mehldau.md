@@ -2,26 +2,26 @@
 title: Brad Mehldau
 wiki_slug: brad-mehldau
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 aliases: []
 birth_date: '1970-08-23'
 genres:
-- jazz
+  - jazz
 instruments:
-- eponymous
-- original
-- piano
-- principal
+  - eponymous
+  - original
+  - piano
+  - principal
 record_labels:
-- Nonesuch Records
+  - Nonesuch Records
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Brad_Mehldau.jpg
   caption: Brad Mehldau
   background: non_vocal_instrumentalist
   born: '1970-08-23'
 audio_profile:
-  tempo_avg: 107.0
+  tempo_avg: 107
   energy_avg: 0.29
   valence_avg: 0.299
   danceability_avg: 0.444
@@ -35,67 +35,69 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Larry Grenadier
-  - Jeff Ballard
-  - Lyle Mays
-  - Jorge Rossy
-  - Renée Fleming
+    - Larry Grenadier
+    - Jeff Ballard
+    - Lyle Mays
+    - Jorge Rossy
+    - Renée Fleming
   influenced:
-  - Christian McBride
-  - Antonio Sanchez
-  - Kurt Rosenwinkel
+    - Christian McBride
+    - Antonio Sanchez
+    - Kurt Rosenwinkel
   mentors:
-  - Gary Burton
-  - Charlie Haden
-  - Jack DeJohnette
+    - Gary Burton
+    - Charlie Haden
+    - Jack DeJohnette
 related_artists: []
 spotify_data:
   followers: 248420
   id: 2vI9KFm0fwSfPrpEgOeIbq
   popularity: 53
-  url: https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq
+  url: 'https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq'
   verified: false
 discography_enriched: true
 albums_count: 38
 singles_count: 9
 top_tracks:
-- Blackbird (The Art of the Trio, Vol. 1)
-- 'Exit Music (Songs: The Art of the Trio, Vol. 3)'
-- Alfie (Day Is Done)
-- I Fall in Love Too Easily (The Art of the Trio, Vol. 1)
-- When It Rains (Largo)
-- Paranoid Android I (Mon chien Stupide (Bande originale du film))
-- Between the Bars
-- 'Your Mother Should Know (Your Mother Should Know: Brad Mehldau Plays The Beatles)'
-- Tabhair dom do Lámh (Chris Thile & Brad Mehldau)
-- Blame It on My Youth (The Art of the Trio, Vol. 1)
+  - 'Blackbird (The Art of the Trio, Vol. 1)'
+  - 'Exit Music (Songs: The Art of the Trio, Vol. 3)'
+  - Alfie (Day Is Done)
+  - 'I Fall in Love Too Easily (The Art of the Trio, Vol. 1)'
+  - When It Rains (Largo)
+  - Paranoid Android I (Mon chien Stupide (Bande originale du film))
+  - Between the Bars
+  - >-
+    Your Mother Should Know (Your Mother Should Know: Brad Mehldau Plays The
+    Beatles)
+  - Tabhair dom do Lámh (Chris Thile & Brad Mehldau)
+  - 'Blame It on My Youth (The Art of the Trio, Vol. 1)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b7723b3f-9a35-438d-bc42-8ad8b5e027ae
-  spotify: https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq
-  wikipedia: https://en.wikipedia.org/wiki/Metheny/Mehldau
+  musicbrainz: 'https://musicbrainz.org/artist/b7723b3f-9a35-438d-bc42-8ad8b5e027ae'
+  spotify: 'https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq'
+  wikipedia: 'https://en.wikipedia.org/wiki/Metheny/Mehldau'
 image_path: 03_Resources/source_material/ArtistPortraits/Brad_Mehldau.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:00:30.857679'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- AspenTimes.com
-- JazzTimes
-- bradmehldaumusic.com
+  - AspenTimes.com
+  - JazzTimes
+  - bradmehldaumusic.com
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 12:52:41.674504
+entry_created: 2025-09-18T12:52:41.674Z
 last_updated: '2025-12-23T08:16:03.298704'
-disambiguation: American jazz pianist, composer, and arranger
+disambiguation: 'American jazz pianist, composer, and arranger'
 gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:37:48.080263'
 musicbrainz_id: b7723b3f-9a35-438d-bc42-8ad8b5e027ae
-origin: New York, USA (recording location)
+origin: 'New York, USA (recording location)'
 tags:
-- american
-- jazz
-- jazz and blues
-
+  - american
+  - jazz
+  - jazz and blues
+birth_place: 'Jacksonville, Florida, United States'
 ---
 
 ![](Brad_Mehldau.jpg)

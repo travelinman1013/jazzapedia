@@ -1,33 +1,37 @@
 ---
-title: DWIGHT MCCALL
+title: Dwight McCall
 wiki_slug: dwight-mccall
 schema_version: 2
 artist_type: person
 status: active
-birth_place: Cincinnati, Ohio, United States (current residence); Maryland, United States (birthplace)
+birth_place: >-
+  Cincinnati, Ohio, United States (current residence); Maryland, United States
+  (birthplace)
 genres:
-- bluegrass
+  - bluegrass
 instruments:
-- mandolin
-- lead vocals
-- tenor vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 94b4c279-db2f-43db-99a3-e3272ec38c9e
-  name: J.D. Crowe and the New South
-- begin: ''
-  end: ''
-  instruments:
   - mandolin
-  mbid: 912d4651-d5ad-4add-ae93-4005733e2448
-  name: American Drive
+  - lead vocals
+  - tenor vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 94b4c279-db2f-43db-99a3-e3272ec38c9e
+    name: J.D. Crowe and the New South
+  - begin: ''
+    end: ''
+    instruments:
+      - mandolin
+    mbid: 912d4651-d5ad-4add-ae93-4005733e2448
+    name: American Drive
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/dwight_mccall.jpg
   caption: DWIGHT MCCALL
   background: solo_singer
-  origin: Cincinnati, Ohio, United States (current residence); Maryland, United States (birthplace)
+  origin: >-
+    Cincinnati, Ohio, United States (current residence); Maryland, United States
+    (birthplace)
 audio_profile:
   tempo_avg: 111.6
   energy_avg: 0.569
@@ -35,7 +39,7 @@ audio_profile:
   danceability_avg: 0.626
   acousticness_avg: 0.507
   instrumentalness_avg: 0.001
-  loudness_avg: -6.0
+  loudness_avg: -6
   speechiness_avg: 0.03
   liveness_avg: 0.167
   track_count: 49
@@ -43,46 +47,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - J.D. Crowe
+    - J.D. Crowe
   influenced: []
   mentors:
-  - Vernon McIntyre
+    - Vernon McIntyre
 spotify_data:
   followers: 1778
   id: 5v71IcbCZrou9qlKAMee16
   popularity: 15
-  url: https://open.spotify.com/artist/5v71IcbCZrou9qlKAMee16
+  url: 'https://open.spotify.com/artist/5v71IcbCZrou9qlKAMee16'
 discography_enriched: true
 top_tracks:
-- West Virginia Ground (Never Say Never Again)
-- You Love Me Today (Lonesome Highway)
-- Will You Meet Me Over There (Lonesome Highway)
-- Down Another Lonesome Highway (Lonesome Highway)
-- Poor Old Man (Never Say Never Again)
-- Blue Eyed Boston Boy (Bluegrass Father & Son)
-- Lost River (Never Say Never Again)
-- Little Bessie (Never Say Never Again)
-- The Legend of the Johnson Boys (Lonesome Highway)
-- Never Say Never Again (Never Say Never Again)
+  - West Virginia Ground (Never Say Never Again)
+  - You Love Me Today (Lonesome Highway)
+  - Will You Meet Me Over There (Lonesome Highway)
+  - Down Another Lonesome Highway (Lonesome Highway)
+  - Poor Old Man (Never Say Never Again)
+  - Blue Eyed Boston Boy (Bluegrass Father & Son)
+  - Lost River (Never Say Never Again)
+  - Little Bessie (Never Say Never Again)
+  - The Legend of the Johnson Boys (Lonesome Highway)
+  - Never Say Never Again (Never Say Never Again)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/755171de-4b74-4caf-84ae-19d976c41e2d
-  spotify: https://open.spotify.com/artist/5v71IcbCZrou9qlKAMee16
+  musicbrainz: 'https://musicbrainz.org/artist/755171de-4b74-4caf-84ae-19d976c41e2d'
+  spotify: 'https://open.spotify.com/artist/5v71IcbCZrou9qlKAMee16'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/dwight_mccall.jpg
 biography_enhanced_at: '2025-11-24T08:29:16.520908'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- BluegrassBios.com - McCall, Dwight profile
-- Bluegrass Today - Dwight McCall signs with Rural Rhythm
-- 'Bluegrass Today - Dwight McCall: Never Say Never Again'
-- AllMusic - Dwight McCall discography
-- Jango Radio - Dwight McCall artist profile
+  - 'BluegrassBios.com - McCall, Dwight profile'
+  - Bluegrass Today - Dwight McCall signs with Rural Rhythm
+  - 'Bluegrass Today - Dwight McCall: Never Say Never Again'
+  - AllMusic - Dwight McCall discography
+  - Jango Radio - Dwight McCall artist profile
 network_extracted: true
 entry_created: '2025-11-24T08:29:16.520918'
 last_updated: '2025-12-23T08:16:08.092115'
 gender: Male
 musicbrainz_id: 755171de-4b74-4caf-84ae-19d976c41e2d
+origin: 'Cincinnati, Ohio, United States'
 ---
 
 ![](dwight_mccall.jpg)

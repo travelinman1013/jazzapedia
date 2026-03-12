@@ -1,15 +1,15 @@
 ---
-title: gary stewart
+title: Gary Stewart
 wiki_slug: gary-stewart
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1944-05-28'
-birth_place: Jenkins
+birth_place: 'Jenkins, Kentucky, United States'
 death_date: '2003-12-16'
 genres:
-- honky tonk
-- traditional country
+  - honky tonk
+  - traditional country
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/gary_stewart.jpg
   caption: gary stewart
@@ -32,45 +32,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bill Eldridge
-  - Dean Dillon
-  - Charley Pride
-  - Gregg Allman and Dickey Betts
+    - Bill Eldridge
+    - Dean Dillon
+    - Charley Pride
+    - Gregg Allman and Dickey Betts
   influenced:
-  - Dwight Yoakam
-  - Vince Gill
-  - The Clash
+    - Dwight Yoakam
+    - Vince Gill
+    - The Clash
   mentors:
-  - Mel Tillis
+    - Mel Tillis
 spotify_data:
   followers: 75352
   id: 3KmQJ2e3T7Gn1UurVpReXs
   popularity: 45
-  url: https://open.spotify.com/artist/3KmQJ2e3T7Gn1UurVpReXs
+  url: 'https://open.spotify.com/artist/3KmQJ2e3T7Gn1UurVpReXs'
 discography_enriched: true
 top_tracks:
-- She's Actin' Single (I'm Drinkin' Doubles) (Out Of Hand)
-- An Empty Glass (Brand New)
-- Drinkin' Thing (Out Of Hand)
-- Whiskey Trip (The Essential Gary Stewart)
-- Out of Hand (Out Of Hand)
-- She's Actin' Single (I'm Drinkin' Doubles)
-- Draggin' Shackles (Out Of Hand)
-- Brand New Whiskey (Brand New)
-- In Some Room Above the Street (The Essential Gary Stewart)
-- Make It A Double (I'm A Texan)
+  - She's Actin' Single (I'm Drinkin' Doubles) (Out Of Hand)
+  - An Empty Glass (Brand New)
+  - Drinkin' Thing (Out Of Hand)
+  - Whiskey Trip (The Essential Gary Stewart)
+  - Out of Hand (Out Of Hand)
+  - She's Actin' Single (I'm Drinkin' Doubles)
+  - Draggin' Shackles (Out Of Hand)
+  - Brand New Whiskey (Brand New)
+  - In Some Room Above the Street (The Essential Gary Stewart)
+  - Make It A Double (I'm A Texan)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/cc8337c4-2e82-4392-9b56-1283fb0a6015
-  spotify: https://open.spotify.com/artist/3KmQJ2e3T7Gn1UurVpReXs
-  wikipedia: https://en.wikipedia.org/wiki/Gary_Stewart_(singer)
+  musicbrainz: 'https://musicbrainz.org/artist/cc8337c4-2e82-4392-9b56-1283fb0a6015'
+  spotify: 'https://open.spotify.com/artist/3KmQJ2e3T7Gn1UurVpReXs'
+  wikipedia: 'https://en.wikipedia.org/wiki/Gary_Stewart_(singer)'
 image_path: 03_Resources/source_material/ArtistPortraits/gary_stewart.jpg
 biography_enhanced_at: '2025-11-04T11:05:33.472272'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Gary_Stewart_(singer)
-- https://kentuckymusichalloffame.com/gary-stewart/
-- https://www.last.fm/music/Gary+Stewart/+wiki
+  - 'https://en.wikipedia.org/wiki/Gary_Stewart_(singer)'
+  - 'https://kentuckymusichalloffame.com/gary-stewart/'
+  - 'https://www.last.fm/music/Gary+Stewart/+wiki'
 network_extracted: true
 entry_created: '2025-11-04T11:05:33.472283'
 last_updated: '2025-12-23T08:16:09.021552'
@@ -78,9 +78,10 @@ disambiguation: US country musician & songwriter
 gender: Male
 musicbrainz_id: cc8337c4-2e82-4392-9b56-1283fb0a6015
 tags:
-- country
-- honky tonk
-
+  - country
+  - honky tonk
+is_active: false
+origin: 'Fort Pierce, Florida, United States'
 ---
 
 ![](gary_stewart.jpg)

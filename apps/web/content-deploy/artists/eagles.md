@@ -1,11 +1,11 @@
 ---
-title: Eagles
+title: The Eagles
 wiki_slug: eagles
 schema_version: 2
 status: active
 genres:
-- classic rock
-- soft rock
+  - classic rock
+  - soft rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/eagles.jpg
   caption: Eagles
@@ -25,58 +25,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Glenn Frey
-  - Don Henley
-  - Bernie Leadon
-  - Randy Meisner
-  - Don Felder
-  - Joe Walsh
-  - Timothy B. Schmit
-  - David Geffen
-  - Glyn Johns
+    - Glenn Frey
+    - Don Henley
+    - Bernie Leadon
+    - Randy Meisner
+    - Don Felder
+    - Joe Walsh
+    - Timothy B. Schmit
+    - David Geffen
+    - Glyn Johns
   influenced:
-  - Country rock and soft rock bands of the late 1970s–1980s
-  - Contemporary country artists and bands
-  - Adult contemporary and soft‑rock singer‑songwriters
+    - Country rock and soft rock bands of the late 1970s–1980s
+    - Contemporary country artists and bands
+    - Adult contemporary and soft‑rock singer‑songwriters
   mentors:
-  - Linda Ronstadt
-  - Jackson Browne
-  - Country rock and California singer‑songwriter scene
+    - Linda Ronstadt
+    - Jackson Browne
+    - Country rock and California singer‑songwriter scene
 spotify_data:
   followers: 12287731
   id: 0ECwFtbIWEVNwjlrfc6xoL
   popularity: 79
-  url: https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL
+  url: 'https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL'
 discography_enriched: true
 top_tracks:
-- Hotel California - 2013 Remaster (Hotel California (2013 Remaster))
-- Take It Easy - 2013 Remaster (Eagles (2013 Remaster))
-- One of These Nights - 2013 Remaster (One of These Nights (2013 Remaster))
-- Life in the Fast Lane - 2013 Remaster (Hotel California (2013 Remaster))
-- Lyin' Eyes - 2013 Remaster (One of These Nights (2013 Remaster))
-- Peaceful Easy Feeling - 2013 Remaster (Eagles (2013 Remaster))
-- New Kid in Town - 2013 Remaster (Hotel California (2013 Remaster))
-- Love Will Keep Us Alive (Hell Freezes Over (Remaster 2018))
-- I Can't Tell You Why - 2013 Remaster (The Long Run (2013 Remaster))
-- Take It to the Limit - 2013 Remaster (One of These Nights (2013 Remaster))
+  - Hotel California - 2013 Remaster (Hotel California (2013 Remaster))
+  - Take It Easy - 2013 Remaster (Eagles (2013 Remaster))
+  - One of These Nights - 2013 Remaster (One of These Nights (2013 Remaster))
+  - Life in the Fast Lane - 2013 Remaster (Hotel California (2013 Remaster))
+  - Lyin' Eyes - 2013 Remaster (One of These Nights (2013 Remaster))
+  - Peaceful Easy Feeling - 2013 Remaster (Eagles (2013 Remaster))
+  - New Kid in Town - 2013 Remaster (Hotel California (2013 Remaster))
+  - Love Will Keep Us Alive (Hell Freezes Over (Remaster 2018))
+  - I Can't Tell You Why - 2013 Remaster (The Long Run (2013 Remaster))
+  - Take It to the Limit - 2013 Remaster (One of These Nights (2013 Remaster))
 external_urls:
-  spotify: https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL
-  wikipedia: https://en.wikipedia.org/wiki/Eagles_(band)
+  spotify: 'https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL'
+  wikipedia: 'https://en.wikipedia.org/wiki/Eagles_(band)'
 image_path: 03_Resources/source_material/ArtistPortraits/eagles.jpg
 biography_enhanced_at: '2025-12-15T01:30:48.566773'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Eagles_(band)
-- https://www.britannica.com/topic/the-Eagles
-- https://www.thisdayinmusic.com/artists/the-eagles/
-- https://americansongwriter.com/the-origin-story-of-the-eagles/
-- https://delcomusicco.squarespace.com/musicarticles/theeagleshistory
+  - 'https://en.wikipedia.org/wiki/Eagles_(band)'
+  - 'https://www.britannica.com/topic/the-Eagles'
+  - 'https://www.thisdayinmusic.com/artists/the-eagles/'
+  - 'https://americansongwriter.com/the-origin-story-of-the-eagles/'
+  - 'https://delcomusicco.squarespace.com/musicarticles/theeagleshistory'
 network_extracted: true
 entry_created: '2025-12-15T01:30:48.566778'
 last_updated: '2025-12-23T08:16:08.102810'
-origin: Los Angeles, California, United States
-
+origin: 'Los Angeles, California, United States'
+artist_type: band
 ---
 
 ![](eagles.jpg)

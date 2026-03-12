@@ -1,13 +1,13 @@
 ---
-title: black keys
+title: The Black Keys
 wiki_slug: black-keys
 schema_version: 2
 status: active
 genres:
-- blues rock
-- garage rock
-- modern blues
-- rock
+  - blues rock
+  - garage rock
+  - modern blues
+  - rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/black_keys.jpg
   caption: black keys
@@ -27,50 +27,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Danger Mouse (Brian Burton)
-  - Kenny Brown
-  - Eric Deaton
+    - Danger Mouse (Brian Burton)
+    - Kenny Brown
+    - Eric Deaton
   influenced:
-  - Royal Blood
-  - Greta Van Fleet
+    - Royal Blood
+    - Greta Van Fleet
   mentors:
-  - Junior Kimbrough
-  - R.L. Burnside
-  - Howlin’ Wolf
+    - Junior Kimbrough
+    - R.L. Burnside
+    - Howlin’ Wolf
 spotify_data:
   followers: 4136527
   id: 7mnBLXK823vNxN3UWB7Gfz
   popularity: 68
-  url: https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz
+  url: 'https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz'
 discography_enriched: true
 top_tracks:
-- Lonely Boy - 2021 Remaster (El Camino (2021 Remaster))
-- Lonely Boy (El Camino)
-- Howlin' for You (Brothers)
-- Gold on the Ceiling - 2021 Remaster (El Camino (2021 Remaster))
-- Howlin' for You (Brothers (Deluxe Remastered Anniversary Edition))
-- Fever (Turn Blue)
-- No Rain, No Flowers
-- Wild Child (Dropout Boogie)
-- Tighten Up (Brothers)
-- Gold on the Ceiling (El Camino)
+  - Lonely Boy - 2021 Remaster (El Camino (2021 Remaster))
+  - Lonely Boy (El Camino)
+  - Howlin' for You (Brothers)
+  - Gold on the Ceiling - 2021 Remaster (El Camino (2021 Remaster))
+  - Howlin' for You (Brothers (Deluxe Remastered Anniversary Edition))
+  - Fever (Turn Blue)
+  - 'No Rain, No Flowers'
+  - Wild Child (Dropout Boogie)
+  - Tighten Up (Brothers)
+  - Gold on the Ceiling (El Camino)
 external_urls:
-  spotify: https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz
-  wikipedia: https://en.wikipedia.org/wiki/The_Black_Keys
+  spotify: 'https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Black_Keys'
 image_path: 03_Resources/source_material/ArtistPortraits/black_keys.jpg
 biography_enhanced_at: '2025-10-19T10:57:03.096358'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://theblackkeys.com/pages/about-us
-- https://www.last.fm/music/The+Black+Keys/+wiki
-- https://jbonamassa.com/the-black-keys-american-rock-band/
-- https://americansongwriter.com/behind-the-band-name-the-black-keys/
-- https://www.nbc.com/nbc-insider/everything-to-know-about-the-black-keys
+  - 'https://theblackkeys.com/pages/about-us'
+  - 'https://www.last.fm/music/The+Black+Keys/+wiki'
+  - 'https://jbonamassa.com/the-black-keys-american-rock-band/'
+  - 'https://americansongwriter.com/behind-the-band-name-the-black-keys/'
+  - 'https://www.nbc.com/nbc-insider/everything-to-know-about-the-black-keys'
 network_extracted: true
 entry_created: '2025-10-19T10:57:03.096365'
 last_updated: '2025-12-23T08:16:05.651973'
-origin: Akron, Ohio, United States
+origin: 'Akron, Ohio, United States'
+artist_type: band
 ---
 
 ![](black_keys.jpg)

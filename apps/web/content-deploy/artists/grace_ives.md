@@ -3,13 +3,13 @@ title: Grace Ives
 wiki_slug: grace-ives
 schema_version: 2
 status: active
-birth_place: New York City, New York, United States
+birth_place: 'New York City, New York, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/grace_ives.jpg
   caption: Grace Ives
   background: solo_singer
-  origin: New York City, New York, United States
+  origin: 'New York City, New York, United States'
 audio_profile:
   tempo_avg: 135.4
   energy_avg: 0.645
@@ -25,44 +25,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Frankie Cosmos (Greta Kline)
-  - Abe Dubin (Orange Man)
+    - Frankie Cosmos (Greta Kline)
+    - Abe Dubin (Orange Man)
   influenced: []
   mentors:
-  - Parents (music and film industry)
+    - Parents (music and film industry)
 spotify_data:
   followers: 56798
   id: 4TZieE5978SbTInJswaay2
   popularity: 44
-  url: https://open.spotify.com/artist/4TZieE5978SbTInJswaay2
+  url: 'https://open.spotify.com/artist/4TZieE5978SbTInJswaay2'
 discography_enriched: true
 top_tracks:
-- Lullaby (Janky Star)
-- Babyyy (Really Hot)
-- Mirror (2nd)
-- Icing on the Cake (2nd)
-- You or Nothing Else (Really Hot)
-- On The Ground (Janky Star)
-- Shelly (Janky Star)
-- Me Me Me (Really Hot)
-- Isn't It Lovely (Janky Star)
-- Back In LA (Janky Star)
+  - Lullaby (Janky Star)
+  - Babyyy (Really Hot)
+  - Mirror (2nd)
+  - Icing on the Cake (2nd)
+  - You or Nothing Else (Really Hot)
+  - On The Ground (Janky Star)
+  - Shelly (Janky Star)
+  - Me Me Me (Really Hot)
+  - Isn't It Lovely (Janky Star)
+  - Back In LA (Janky Star)
 external_urls:
-  spotify: https://open.spotify.com/artist/4TZieE5978SbTInJswaay2
-  wikipedia: https://en.wikipedia.org/wiki/Grace_Ives
+  spotify: 'https://open.spotify.com/artist/4TZieE5978SbTInJswaay2'
+  wikipedia: 'https://en.wikipedia.org/wiki/Grace_Ives'
 image_path: 03_Resources/source_material/ArtistPortraits/grace_ives.jpg
 biography_enhanced_at: '2025-11-20T06:56:43.733925'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.truepanther.com/artists/grace-ives
-- http://theisisnicolemagazine.com/blog/graceives
-- https://www.purchase.edu/live/profiles/6687-grace-ives-18
-- https://officemagazine.net/grace-ives-doesnt-know-either
-- https://www.scaruffi.com/vol8/ives.html
+  - 'https://www.truepanther.com/artists/grace-ives'
+  - 'http://theisisnicolemagazine.com/blog/graceives'
+  - 'https://www.purchase.edu/live/profiles/6687-grace-ives-18'
+  - 'https://officemagazine.net/grace-ives-doesnt-know-either'
+  - 'https://www.scaruffi.com/vol8/ives.html'
 network_extracted: true
 entry_created: '2025-11-20T06:56:43.733932'
 last_updated: '2025-12-23T08:16:09.286348'
+artist_type: person
 ---
 
 ![](grace_ives.jpg)

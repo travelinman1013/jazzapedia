@@ -2,7 +2,7 @@
 title: Larry Goldings Trio
 wiki_slug: larry-goldings-trio
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 genres: []
 infobox:
@@ -24,76 +24,81 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Peter Bernstein
-  - Bill Stewart
-  - James Taylor
-  - John Scofield
-  - Jack DeJohnette
+    - Peter Bernstein
+    - Bill Stewart
+    - James Taylor
+    - John Scofield
+    - Jack DeJohnette
   influenced:
-  - Sam Yahel
-  - Larry Goldings' students at masterclasses
+    - Sam Yahel
+    - Larry Goldings' students at masterclasses
   mentors:
-  - Fred Hersch
-  - Jaki Byard
+    - Fred Hersch
+    - Jaki Byard
 spotify_data:
   followers: 1764
   id: 705nb8W4zRcs3nYwTByNGu
   popularity: 7
-  url: https://open.spotify.com/artist/705nb8W4zRcs3nYwTByNGu
+  url: 'https://open.spotify.com/artist/705nb8W4zRcs3nYwTByNGu'
 discography_enriched: true
 top_tracks:
-- Puttin' On the Ritz (Light Blue)
-- Little Green Men (Light Blue)
-- You're Looking At Me (Light Blue)
-- Berkshire Blues (Light Blue)
-- All Too Soon (Light Blue)
-- Valse Hot (Light Blue)
-- Laugh, Clown, Laugh (Light Blue)
-- Will You Still Be Mine¿ (Light Blue)
-- Crawdaddy (Moonbird)
-- Here, There and Everywhere (Light Blue)
+  - Puttin' On the Ritz (Light Blue)
+  - Little Green Men (Light Blue)
+  - You're Looking At Me (Light Blue)
+  - Berkshire Blues (Light Blue)
+  - All Too Soon (Light Blue)
+  - Valse Hot (Light Blue)
+  - 'Laugh, Clown, Laugh (Light Blue)'
+  - Will You Still Be Mine¿ (Light Blue)
+  - Crawdaddy (Moonbird)
+  - 'Here, There and Everywhere (Light Blue)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/81d56f69-71a3-48f2-8b37-6dcaf89abce3
-  spotify: https://open.spotify.com/artist/705nb8W4zRcs3nYwTByNGu
-  wikipedia: https://en.wikipedia.org/wiki/Larry_Goldings
+  musicbrainz: 'https://musicbrainz.org/artist/81d56f69-71a3-48f2-8b37-6dcaf89abce3'
+  spotify: 'https://open.spotify.com/artist/705nb8W4zRcs3nYwTByNGu'
+  wikipedia: 'https://en.wikipedia.org/wiki/Larry_Goldings'
 image_path: 03_Resources/source_material/ArtistPortraits/larry_goldings_trio.jpg
 biography_enhanced_at: '2025-11-14T10:56:40.386961'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Larry_Goldings
-- https://www.knkx.org/studiosessions/2025-10-15/organist-larry-goldings-leads-dynamic-trio-to-new-musical-heights
-- https://www.larrygoldings.com
-- https://downbeat.com/news/detail/larry-goldings-the-variety-of-fun
-- https://samfirstrecords.com/artist/larry-goldings/
-- https://bnatural.nyc/artists/goldings-bernstein-stewart-organ-trio/
-- https://www.bso.org/profiles/larry-goldings
-- https://notesonjazz.blogspot.com/2023/10/the-dynamic-trio-of-larry-goldings.html
-- https://www.earshot.org/2013-06-larry-goldings-trio-w-peter-bernstein-bill-stewart/
-- https://jazzweekly.com/2024/06/larry-goldings-interview/
+  - 'https://en.wikipedia.org/wiki/Larry_Goldings'
+  - >-
+    https://www.knkx.org/studiosessions/2025-10-15/organist-larry-goldings-leads-dynamic-trio-to-new-musical-heights
+  - 'https://www.larrygoldings.com'
+  - 'https://downbeat.com/news/detail/larry-goldings-the-variety-of-fun'
+  - 'https://samfirstrecords.com/artist/larry-goldings/'
+  - 'https://bnatural.nyc/artists/goldings-bernstein-stewart-organ-trio/'
+  - 'https://www.bso.org/profiles/larry-goldings'
+  - >-
+    https://notesonjazz.blogspot.com/2023/10/the-dynamic-trio-of-larry-goldings.html
+  - >-
+    https://www.earshot.org/2013-06-larry-goldings-trio-w-peter-bernstein-bill-stewart/
+  - 'https://jazzweekly.com/2024/06/larry-goldings-interview/'
 network_extracted: true
 entry_created: '2025-11-14T10:56:40.386972'
 last_updated: '2025-12-23T08:16:11.607651'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2f38247a-c46e-4302-9e81-6c1c7a32d343
-  name: Peter Bernstein
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c42811d0-8881-4bb0-ac42-300401e0a69c
-  name: Larry Goldings
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 47ca3bd6-1f40-4995-b25a-c02158af5643
-  name: Bill Stewart
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2f38247a-c46e-4302-9e81-6c1c7a32d343
+    name: Peter Bernstein
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c42811d0-8881-4bb0-ac42-300401e0a69c
+    name: Larry Goldings
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 47ca3bd6-1f40-4995-b25a-c02158af5643
+    name: Bill Stewart
 musicbrainz_id: 81d56f69-71a3-48f2-8b37-6dcaf89abce3
-origin: Boston, Massachusetts, USA
+origin: 'Boston, Massachusetts, USA'
 tags:
-- jazz
+  - jazz
+birth_place: 'Boston, Massachusetts, United States'
+birth_date: '1968-08-28'
 ---
 
 ![](larry_goldings_trio.jpg)

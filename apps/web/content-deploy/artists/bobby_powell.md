@@ -3,14 +3,14 @@ title: Bobby Powell
 wiki_slug: bobby-powell
 schema_version: 2
 status: active
-birth_place: Near Winnfield, Louisiana, United States
+birth_place: 'Near Winnfield, Louisiana, United States'
 genres:
-- northern soul
+  - northern soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bobby_powell.jpg
   caption: Bobby Powell
   background: solo_singer
-  origin: Near Winnfield, Louisiana, United States
+  origin: 'Near Winnfield, Louisiana, United States'
 audio_profile:
   tempo_avg: 125.9
   energy_avg: 0.455
@@ -26,49 +26,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lionel Whitfield
-  - Jackie Johnson
-  - Excello Records / Nashboro (label team)
-  - Senator Jones / Hep’ Me Records
+    - Lionel Whitfield
+    - Jackie Johnson
+    - Excello Records / Nashboro (label team)
+    - Senator Jones / Hep’ Me Records
   influenced:
-  - Later Northern soul and deep Southern soul collectors and DJs (scene rather than specific individuals)
+    - >-
+      Later Northern soul and deep Southern soul collectors and DJs (scene
+      rather than specific individuals)
   mentors:
-  - Gospel church tradition (unnamed local gospel groups)
-  - Lionel Whitfield
+    - Gospel church tradition (unnamed local gospel groups)
+    - Lionel Whitfield
 spotify_data:
   followers: 1153
   id: 3XbQIqsGmrwU3Yt3T1z8i2
   popularity: 5
-  url: https://open.spotify.com/artist/3XbQIqsGmrwU3Yt3T1z8i2
+  url: 'https://open.spotify.com/artist/3XbQIqsGmrwU3Yt3T1z8i2'
 discography_enriched: true
 top_tracks:
-- C. C. Rider (Essential Louisiana R&B)
-- Peace Begins Within (Into My Own Thing)
-- The Bells (Into My Own Thing)
-- C.C. Rider (Into My Own Thing)
-- Your Cheatin' Heart (Into My Own Thing)
-- Question '71 (Alternate Longer Stereo Mix) (Into My Own Thing)
-- Childhood Days
-- Do Something For Yourself (Into My Own Thing)
-- Why (Am I Treated So Bad) (Into My Own Thing)
-- I'm Gonna Leave You (Into My Own Thing)
+  - C. C. Rider (Essential Louisiana R&B)
+  - Peace Begins Within (Into My Own Thing)
+  - The Bells (Into My Own Thing)
+  - C.C. Rider (Into My Own Thing)
+  - Your Cheatin' Heart (Into My Own Thing)
+  - Question '71 (Alternate Longer Stereo Mix) (Into My Own Thing)
+  - Childhood Days
+  - Do Something For Yourself (Into My Own Thing)
+  - Why (Am I Treated So Bad) (Into My Own Thing)
+  - I'm Gonna Leave You (Into My Own Thing)
 external_urls:
-  spotify: https://open.spotify.com/artist/3XbQIqsGmrwU3Yt3T1z8i2
-  wikipedia: https://en.wikipedia.org/wiki/Bobby_Powell_(musician)
+  spotify: 'https://open.spotify.com/artist/3XbQIqsGmrwU3Yt3T1z8i2'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bobby_Powell_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/bobby_powell.jpg
 biography_enhanced_at: '2025-12-06T05:50:37.572741'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Bobby_Powell_(musician)
-- https://jointzoftheday.substack.com/p/bobby-powell-born-july-25-1943-soul-singer-songwriter
-- https://www.louisianamusicfactory.com/product/bobby-powell-louisiana-soul/
-- http://www.soulwalking.co.uk/Bobby%20Powell.html
-- https://www.allmusic.com/artist/bobby-powell-mn0000091116
-- https://www.last.fm/music/Bobby+Powell/+wiki
+  - 'https://en.wikipedia.org/wiki/Bobby_Powell_(musician)'
+  - >-
+    https://jointzoftheday.substack.com/p/bobby-powell-born-july-25-1943-soul-singer-songwriter
+  - 'https://www.louisianamusicfactory.com/product/bobby-powell-louisiana-soul/'
+  - 'http://www.soulwalking.co.uk/Bobby%20Powell.html'
+  - 'https://www.allmusic.com/artist/bobby-powell-mn0000091116'
+  - 'https://www.last.fm/music/Bobby+Powell/+wiki'
 network_extracted: true
 entry_created: '2025-12-06T05:50:37.572746'
 last_updated: '2025-12-23T08:16:05.871741'
+artist_type: person
 ---
 
 ![](bobby_powell.jpg)

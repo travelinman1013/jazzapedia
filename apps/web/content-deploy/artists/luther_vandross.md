@@ -1,56 +1,56 @@
 ---
-title: LUTHER VANDROSS
+title: Luther Vandross
 wiki_slug: luther-vandross
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1951-04-20'
-birth_place: Manhattan
+birth_place: 'Manhattan, New York, United States'
 death_date: '2005-07-01'
 genres:
-- quiet storm
-- soul
+  - quiet storm
+  - soul
 instruments:
-- piano
-- background vocals
-- lead vocals
-- spoken vocals
+  - piano
+  - background vocals
+  - lead vocals
+  - spoken vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 192cc216-3727-4c0d-ba3b-f22a9967497f
-  name: Bionic Boogie
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9974d324-3d58-4f93-812b-41eb3ca75eed
-  name: Change
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 97feb62c-09a4-45ea-9459-bd3129215eda
-  name: Lemon
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 45f248a7-637a-4029-91ab-4512bd2193ca
-  name: The Good Vibrations
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a4ed036b-5f18-439c-b1e1-96d205bab255
-  name: Chic
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 30be4eb7-e2c7-4022-8072-2924307f385b
-  name: We Are Family Collective
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 09a9c7a9-487a-467d-9cee-c51663a4245d
-  name: New York City Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 192cc216-3727-4c0d-ba3b-f22a9967497f
+    name: Bionic Boogie
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9974d324-3d58-4f93-812b-41eb3ca75eed
+    name: Change
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 97feb62c-09a4-45ea-9459-bd3129215eda
+    name: Lemon
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 45f248a7-637a-4029-91ab-4512bd2193ca
+    name: The Good Vibrations
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a4ed036b-5f18-439c-b1e1-96d205bab255
+    name: Chic
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 30be4eb7-e2c7-4022-8072-2924307f385b
+    name: We Are Family Collective
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 09a9c7a9-487a-467d-9cee-c51663a4245d
+    name: New York City Band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/luther_vandross.jpg
   caption: LUTHER VANDROSS
@@ -73,57 +73,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Change
-  - Lisa Fischer
-  - Aretha Franklin
-  - Dionne Warwick
-  - Whitney Houston
+    - Change
+    - Lisa Fischer
+    - Aretha Franklin
+    - Dionne Warwick
+    - Whitney Houston
   influenced:
-  - Beyoncé
+    - Beyoncé
   mentors:
-  - Aretha Franklin
-  - Dionne Warwick
-  - Supremes
+    - Aretha Franklin
+    - Dionne Warwick
+    - Supremes
 spotify_data:
   followers: 3930468
   id: 19y5MFBH7gohEdGwKM7QsP
   popularity: 67
-  url: https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP
+  url: 'https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP'
 discography_enriched: true
 top_tracks:
-- Never Too Much (Never Too Much)
-- Endless Love (with Mariah Carey) (Songs)
-- Dance With My Father (Dance With My Father)
-- I'd Rather
-- So Amazing (Give Me The Reason)
-- If This World Were Mine (with Luther Vandross)
-- Here and Now
-- A House Is Not a Home (Never Too Much)
-- Always and Forever (Songs)
-- Take You Out (Luther Vandross)
+  - Never Too Much (Never Too Much)
+  - Endless Love (with Mariah Carey) (Songs)
+  - Dance With My Father (Dance With My Father)
+  - I'd Rather
+  - So Amazing (Give Me The Reason)
+  - If This World Were Mine (with Luther Vandross)
+  - Here and Now
+  - A House Is Not a Home (Never Too Much)
+  - Always and Forever (Songs)
+  - Take You Out (Luther Vandross)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/816d9b5d-eaf9-4a97-b5f7-6e82cd01aafe
-  spotify: https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP
+  musicbrainz: 'https://musicbrainz.org/artist/816d9b5d-eaf9-4a97-b5f7-6e82cd01aafe'
+  spotify: 'https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/luther_vandross.jpg
 biography_enhanced_at: '2025-12-16T04:02:07.169569'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://top40weekly.com/luther-vandross/
-- https://luthervandross.com/about/
-- https://www.britannica.com/biography/Luther-Vandross
-- https://www.blackfacts.com/fact/20-reasons-why-luther-vandross-is-the-king-of-male-vocalists
-- https://wers.org/vault-of-soul-luther-vandross/
+  - 'https://top40weekly.com/luther-vandross/'
+  - 'https://luthervandross.com/about/'
+  - 'https://www.britannica.com/biography/Luther-Vandross'
+  - >-
+    https://www.blackfacts.com/fact/20-reasons-why-luther-vandross-is-the-king-of-male-vocalists
+  - 'https://wers.org/vault-of-soul-luther-vandross/'
 network_extracted: true
 entry_created: '2025-12-16T04:02:07.169579'
 last_updated: '2025-12-23T08:16:12.403183'
 gender: Male
 musicbrainz_id: 816d9b5d-eaf9-4a97-b5f7-6e82cd01aafe
 tags:
-- contemporary r&b
-- queer
-- quiet storm
+  - contemporary r&b
+  - queer
+  - quiet storm
+is_active: false
+origin: 'New York City, New York, United States'
 ---
 
 ![](luther_vandross.jpg)

@@ -3,16 +3,16 @@ title: Dom Salvador
 wiki_slug: dom-salvador
 schema_version: 2
 status: active
-birth_place: Rio Claro, São Paulo, Brazil
+birth_place: 'Rio Claro, São Paulo, Brazil'
 genres:
-- brazilian jazz
+  - brazilian jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/dom_salvador.jpg
   caption: Dom Salvador
   background: solo_singer
-  origin: Rio Claro, São Paulo, Brazil
+  origin: 'Rio Claro, São Paulo, Brazil'
 audio_profile:
-  tempo_avg: 110.0
+  tempo_avg: 110
   energy_avg: 0.608
   valence_avg: 0.61
   danceability_avg: 0.509
@@ -26,58 +26,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Edison Machado
-  - Sérgio Barrozo
-  - Elis Regina
-  - Elza Soares
-  - Jorge Ben
-  - Sylvia Telles
-  - Pixinguinha
-  - Abolição (his all‑Black band)
-  - Harry Belafonte
-  - Dom Salvador Samba Jazz Sextet
+    - Edison Machado
+    - Sérgio Barrozo
+    - Elis Regina
+    - Elza Soares
+    - Jorge Ben
+    - Sylvia Telles
+    - Pixinguinha
+    - Abolição (his all‑Black band)
+    - Harry Belafonte
+    - Dom Salvador Samba Jazz Sextet
   influenced:
-  - Later generations of Brazilian soul, funk, and samba‑funk musicians (various artists)
-  - Younger Brazilian jazz and MPB pianists and producers (various artists)
+    - >-
+      Later generations of Brazilian soul, funk, and samba‑funk musicians
+      (various artists)
+    - Younger Brazilian jazz and MPB pianists and producers (various artists)
   mentors:
-  - Unnamed local piano teachers in Rio Claro
-  - Dom Um Romão
+    - Unnamed local piano teachers in Rio Claro
+    - Dom Um Romão
 spotify_data:
   followers: 14293
   id: 2ETJpexAxlTPCT6BXHJG1w
   popularity: 22
-  url: https://open.spotify.com/artist/2ETJpexAxlTPCT6BXHJG1w
+  url: 'https://open.spotify.com/artist/2ETJpexAxlTPCT6BXHJG1w'
 discography_enriched: true
 top_tracks:
-- Música Faz Parte de Mim (Música Faz Parte de Mim)
-- As Estaçōes (Dom Salvador JID024)
-- Não Podermos O Amor Parar (Não Podermos O Amor Parar)
-- Os Ancestrais (Dom Salvador JID024)
-- Não Podermos O Amor Parar (Dom Salvador JID024)
-- O Rio (Série Samba Soul)
-- Música Faz Parte de Mim (Dom Salvador JID024)
-- Minha Melanina (Dom Salvador JID024)
-- Moeda, Reza e Cor (Dom Salvador)
-- Eletricidade (Dom Salvador JID024)
+  - Música Faz Parte de Mim (Música Faz Parte de Mim)
+  - As Estaçōes (Dom Salvador JID024)
+  - Não Podermos O Amor Parar (Não Podermos O Amor Parar)
+  - Os Ancestrais (Dom Salvador JID024)
+  - Não Podermos O Amor Parar (Dom Salvador JID024)
+  - O Rio (Série Samba Soul)
+  - Música Faz Parte de Mim (Dom Salvador JID024)
+  - Minha Melanina (Dom Salvador JID024)
+  - 'Moeda, Reza e Cor (Dom Salvador)'
+  - Eletricidade (Dom Salvador JID024)
 external_urls:
-  spotify: https://open.spotify.com/artist/2ETJpexAxlTPCT6BXHJG1w
-  wikipedia: https://en.wikipedia.org/wiki/Dom_Salvador
+  spotify: 'https://open.spotify.com/artist/2ETJpexAxlTPCT6BXHJG1w'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dom_Salvador'
 image_path: 03_Resources/source_material/ArtistPortraits/dom_salvador.jpg
 biography_enhanced_at: '2025-12-21T01:27:15.805043'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Dom_Salvador
-- https://www.steppinintotomorrow.com/post/dom-salvador
-- https://www.local802afm.org/allegro/articles/a-brazilian-master-speaks/
-- https://magazine.waxpoetics.com/article/dom-salvador-right-at-home/
-- https://www.winterjazzfest.com/1/9/25-brazil-showcase
-- https://www.nts.live/artists/122357-dom-salvador
-- https://faroutmagazine.co.uk/dom-salvador-brazilian-jazz-king/
-- https://jazztimes.com/artists/dom-salvador/
+  - 'https://en.wikipedia.org/wiki/Dom_Salvador'
+  - 'https://www.steppinintotomorrow.com/post/dom-salvador'
+  - 'https://www.local802afm.org/allegro/articles/a-brazilian-master-speaks/'
+  - 'https://magazine.waxpoetics.com/article/dom-salvador-right-at-home/'
+  - 'https://www.winterjazzfest.com/1/9/25-brazil-showcase'
+  - 'https://www.nts.live/artists/122357-dom-salvador'
+  - 'https://faroutmagazine.co.uk/dom-salvador-brazilian-jazz-king/'
+  - 'https://jazztimes.com/artists/dom-salvador/'
 network_extracted: true
 entry_created: '2025-12-21T01:27:15.805050'
 last_updated: '2025-12-23T08:16:07.856215'
+origin: 'São Paulo, São Paulo, Brazil'
+birth_date: '1938'
+artist_type: person
 ---
 
 ![](dom_salvador.jpg)

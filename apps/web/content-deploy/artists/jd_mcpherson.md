@@ -5,23 +5,23 @@ schema_version: 2
 status: active
 aliases: []
 birth_date: '1977-04-14'
-birth_place: Broken Arrow, Tulsa County, Oklahoma, United States
+birth_place: 'Tulsa, Oklahoma, United States'
 genres:
-- rockabilly
-- roots rock
+  - rockabilly
+  - roots rock
 instruments:
-- Guitar
-- vocals
+  - Guitar
+  - vocals
 occupation:
-- musician
+  - musician
 record_labels:
-- Rounder Records
+  - Rounder Records
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/JD_McPherson.jpg
   caption: JD McPherson
   background: solo_singer
   born: '1977-04-14'
-  origin: Broken Arrow, Tulsa County, Oklahoma, United States
+  origin: 'Broken Arrow, Tulsa County, Oklahoma, United States'
 audio_profile:
   tempo_avg: 123.9
   energy_avg: 0.696
@@ -37,54 +37,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jimmy Sutton
-  - Raynier Jacob Jacildo
-  - Jason Smay
+    - Jimmy Sutton
+    - Raynier Jacob Jacildo
+    - Jason Smay
   influenced:
-  - Pokey LaFarge
+    - Pokey LaFarge
   mentors:
-  - Buddy Holly
-  - Jimmy Sutton
+    - Buddy Holly
+    - Jimmy Sutton
 related_artists: []
 spotify_data:
   followers: 114920
   id: 6u5mhJXgAKPTj6YVlZSPY9
   popularity: 48
-  url: https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9
+  url: 'https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9'
   verified: false
 discography_enriched: true
 albums_count: 5
 singles_count: 20
 top_tracks:
-- LUCKY PENNY (UNDIVIDED HEART & SOUL)
-- Sunshine Getaway (Nite Owls)
-- North Side Gal (Signs & Signifiers)
-- Head Over Heels (Let The Good Times Roll)
-- CRYING’S JUST A THING YOU DO (UNDIVIDED HEART & SOUL)
-- BLOODHOUND ROCK (UNDIVIDED HEART & SOUL)
-- Head Over Heels (Let The Good Times Roll)
-- A Gentle Awakening (Signs & Signifiers)
-- Sunshine Getaway
-- Let The Good Times Roll (Let The Good Times Roll)
+  - LUCKY PENNY (UNDIVIDED HEART & SOUL)
+  - Sunshine Getaway (Nite Owls)
+  - North Side Gal (Signs & Signifiers)
+  - Head Over Heels (Let The Good Times Roll)
+  - CRYING’S JUST A THING YOU DO (UNDIVIDED HEART & SOUL)
+  - BLOODHOUND ROCK (UNDIVIDED HEART & SOUL)
+  - Head Over Heels (Let The Good Times Roll)
+  - A Gentle Awakening (Signs & Signifiers)
+  - Sunshine Getaway
+  - Let The Good Times Roll (Let The Good Times Roll)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9
-  wikipedia: https://en.wikipedia.org/wiki/JD_McPherson
+  spotify: 'https://open.spotify.com/artist/6u5mhJXgAKPTj6YVlZSPY9'
+  wikipedia: 'https://en.wikipedia.org/wiki/JD_McPherson'
 image_path: 03_Resources/source_material/ArtistPortraits/JD_McPherson.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:32:53.249060'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/JD+McPherson/+wiki
-- https://www.highroadtouring.com/artists/jd-mcpherson/
-- https://concord.com/publishing-roster/jd-mcpherson/
-- https://www.redlightmanagement.com/artists/j-d-mcpherson/
-- https://lightning100.com/localmusic/jd-mcpherson-just-around-the-corner-local-artist-of-the-week/
+  - 'https://www.last.fm/music/JD+McPherson/+wiki'
+  - 'https://www.highroadtouring.com/artists/jd-mcpherson/'
+  - 'https://concord.com/publishing-roster/jd-mcpherson/'
+  - 'https://www.redlightmanagement.com/artists/j-d-mcpherson/'
+  - >-
+    https://lightning100.com/localmusic/jd-mcpherson-just-around-the-corner-local-artist-of-the-week/
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:45:33.919403
+entry_created: 2025-09-22T21:45:33.919Z
 last_updated: '2025-12-23T08:16:10.272108'
+artist_type: person
 ---
 
 ![](JD_McPherson.jpg)

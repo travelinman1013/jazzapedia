@@ -3,41 +3,43 @@ biography_enhanced_at: '2026-01-05T07:51:53.110041'
 enhancement_provider: perplexity
 entry_created: '2026-01-05T07:51:53.110047'
 external_urls:
-  spotify: https://open.spotify.com/artist/6MvOzxAHNN6TBpM9TqXwum
+  spotify: 'https://open.spotify.com/artist/6MvOzxAHNN6TBpM9TqXwum'
   wikipedia: ''
 genres:
-- southern gospel
-- christian country
-- gospel
+  - southern gospel
+  - christian country
+  - gospel
 image_path: 03_Resources/source_material/ArtistPortraits/chuck_wagon_gang.jpg
 last_updated: '2026-01-05T07:51:53.110048'
 musical_connections:
   collaborators:
-  - Howard Gordon
-  - Wally Fowler
-  - Don Law and Art Satherley
-  - Shaye Smith
+    - Howard Gordon
+    - Wally Fowler
+    - Don Law and Art Satherley
+    - Shaye Smith
   influenced:
-  - Marty Stuart
-  - Eddie Stubbs
+    - Marty Stuart
+    - Eddie Stubbs
   mentors: []
 network_extracted: true
-origin: Lubbock, Texas, USA
+origin: 'Lubbock, Texas, USA'
 primary_source: perplexity
 research_sources:
-- https://www.thechuckwagongang.net/history
-- https://wilkesheritagemuseum.com/hall-of-fame/previous-years/2012/the-chuck-wagon-gang
-- https://www.rocky-52.net/chanteursc/chuck_wagon_gang.htm
-- https://www.opry.com/artists/chuck-wagon-gang
-- https://www.tshaonline.org/handbook/entries/chuck-wagon-gang
+  - 'https://www.thechuckwagongang.net/history'
+  - >-
+    https://wilkesheritagemuseum.com/hall-of-fame/previous-years/2012/the-chuck-wagon-gang
+  - 'https://www.rocky-52.net/chanteursc/chuck_wagon_gang.htm'
+  - 'https://www.opry.com/artists/chuck-wagon-gang'
+  - 'https://www.tshaonline.org/handbook/entries/chuck-wagon-gang'
 spotify_data:
   followers: 8628
   id: 6MvOzxAHNN6TBpM9TqXwum
   popularity: 32
-  url: https://open.spotify.com/artist/6MvOzxAHNN6TBpM9TqXwum
+  url: 'https://open.spotify.com/artist/6MvOzxAHNN6TBpM9TqXwum'
 status: active
-title: CHUCK WAGON GANG
-
+title: Chuck Wagon Gang
+birth_date: '1889-09-25'
+artist_type: band
 ---
 
 ![](chuck_wagon_gang.jpg)

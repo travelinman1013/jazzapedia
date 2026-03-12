@@ -1,17 +1,17 @@
 ---
-title: leo bud welch
+title: Leo Bud Welch
 wiki_slug: leo-bud-welch
 schema_version: 2
 status: active
-birth_place: Sabougla, Mississippi, USA
+birth_place: 'Sabougla, Mississippi, USA'
 genres:
-- blues
-- modern blues
+  - blues
+  - modern blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/leo_bud_welch.jpg
   caption: leo bud welch
   background: solo_singer
-  origin: Sabougla, Mississippi, USA
+  origin: 'Sabougla, Mississippi, USA'
 audio_profile:
   tempo_avg: 125.9
   energy_avg: 0.584
@@ -19,7 +19,7 @@ audio_profile:
   danceability_avg: 0.509
   acousticness_avg: 0.579
   instrumentalness_avg: 0.029
-  loudness_avg: -8.0
+  loudness_avg: -8
   speechiness_avg: 0.072
   liveness_avg: 0.216
   track_count: 50
@@ -27,46 +27,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Vencie Varnado
-  - Sabougla Voices
-  - Skuna Valley Male Chorus
-  - Dan Auerbach
+    - Vencie Varnado
+    - Sabougla Voices
+    - Skuna Valley Male Chorus
+    - Dan Auerbach
   influenced:
-  - Contemporary blues and gospel musicians
+    - Contemporary blues and gospel musicians
   mentors:
-  - L.C. Welch
+    - L.C. Welch
 spotify_data:
   followers: 4476
   id: 5UWSCmjMiTImIru9iAvNFd
   popularity: 13
-  url: https://open.spotify.com/artist/5UWSCmjMiTImIru9iAvNFd
+  url: 'https://open.spotify.com/artist/5UWSCmjMiTImIru9iAvNFd'
 discography_enriched: true
 top_tracks:
-- Don't Let The Devil Ride (The Angels In Heaven Done Signed My Name)
-- Don't Let The Devil Ride - Mono (Tell Everybody! (21st Century Juke Joint Blues From Easy Eye Sound))
-- I Come To Praise His Name (The Angels In Heaven Done Signed My Name)
-- Praise His Name (Sabougla Voices)
-- I Don't Know Her Name (I Don't Prefer No Blues)
-- I Know I Been Changed (The Angels In Heaven Done Signed My Name)
-- Poor Boy (I Don't Prefer No Blues)
-- Walk With Me Lord (The Angels In Heaven Done Signed My Name)
-- I Wanna Die Easy (The Angels In Heaven Done Signed My Name)
-- Girl in the Holler (I Don't Prefer No Blues)
+  - Don't Let The Devil Ride (The Angels In Heaven Done Signed My Name)
+  - >-
+    Don't Let The Devil Ride - Mono (Tell Everybody! (21st Century Juke Joint
+    Blues From Easy Eye Sound))
+  - I Come To Praise His Name (The Angels In Heaven Done Signed My Name)
+  - Praise His Name (Sabougla Voices)
+  - I Don't Know Her Name (I Don't Prefer No Blues)
+  - I Know I Been Changed (The Angels In Heaven Done Signed My Name)
+  - Poor Boy (I Don't Prefer No Blues)
+  - Walk With Me Lord (The Angels In Heaven Done Signed My Name)
+  - I Wanna Die Easy (The Angels In Heaven Done Signed My Name)
+  - Girl in the Holler (I Don't Prefer No Blues)
 external_urls:
-  spotify: https://open.spotify.com/artist/5UWSCmjMiTImIru9iAvNFd
-  wikipedia: https://en.wikipedia.org/wiki/Leo_Bud_Welch
+  spotify: 'https://open.spotify.com/artist/5UWSCmjMiTImIru9iAvNFd'
+  wikipedia: 'https://en.wikipedia.org/wiki/Leo_Bud_Welch'
 image_path: 03_Resources/source_material/ArtistPortraits/leo_bud_welch.jpg
 biography_enhanced_at: '2025-10-22T09:30:21.936346'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://blues.gr/profiles/blogs/the-story-of-leo-bud-welch-by-wolfgang-almer-interview-with-the
-- https://concord.com/artist/leo-bud-welch/
-- https://www.crossrhythms.co.uk/articles/music/Leo_Bud_Welch_Remembering_the_late_blues_and_gospel_singer/63373/p1/
-- https://www.makingascene.org/late-blossom-blues-the-journey-of-leo-bud-welch/
+  - >-
+    https://blues.gr/profiles/blogs/the-story-of-leo-bud-welch-by-wolfgang-almer-interview-with-the
+  - 'https://concord.com/artist/leo-bud-welch/'
+  - >-
+    https://www.crossrhythms.co.uk/articles/music/Leo_Bud_Welch_Remembering_the_late_blues_and_gospel_singer/63373/p1/
+  - >-
+    https://www.makingascene.org/late-blossom-blues-the-journey-of-leo-bud-welch/
 network_extracted: true
 entry_created: '2025-10-22T09:30:21.936362'
 last_updated: '2025-12-23T08:16:11.790490'
+birth_date: '1932-03-22'
+artist_type: person
 ---
 
 ![](leo_bud_welch.jpg)

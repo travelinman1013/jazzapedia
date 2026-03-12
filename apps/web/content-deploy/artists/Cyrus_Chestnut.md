@@ -1,22 +1,22 @@
 ---
-title: cyrus chestnut
+title: Cyrus Chestnut
 wiki_slug: cyrus-chestnut
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1963-01-17'
-birth_place: Baltimore, Maryland, United States
+birth_place: 'Baltimore, Maryland, United States'
 genres:
-- jazz
+  - jazz
 instruments:
-- original
-- piano
+  - original
+  - piano
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/cyrus_chestnut.jpg
   caption: cyrus chestnut
   background: non_vocal_instrumentalist
   born: '1963-01-17'
-  origin: Baltimore, Maryland, United States
+  origin: 'Baltimore, Maryland, United States'
 audio_profile:
   tempo_avg: 105.3
   energy_avg: 0.193
@@ -24,7 +24,7 @@ audio_profile:
   danceability_avg: 0.444
   acousticness_avg: 0.821
   instrumentalness_avg: 0.624
-  loudness_avg: -19.0
+  loudness_avg: -19
   speechiness_avg: 0.043
   liveness_avg: 0.134
   track_count: 55
@@ -32,45 +32,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Terence Blanchard and Donald Harrison
-  - Wynton Marsalis
-  - Dezron Douglas and Neal Smith
-  - Anita Baker, James Carter, Joe Lovano, Ron Carter, Billy Higgins, Lewis Nash
+    - Terence Blanchard and Donald Harrison
+    - Wynton Marsalis
+    - Dezron Douglas and Neal Smith
+    - >-
+      Anita Baker, James Carter, Joe Lovano, Ron Carter, Billy Higgins, Lewis
+      Nash
   influenced:
-  - Dezron Douglas
+    - Dezron Douglas
   mentors:
-  - Betty Carter
-  - Jon Hendricks
-  - Peabody Preparatory Institute faculty
+    - Betty Carter
+    - Jon Hendricks
+    - Peabody Preparatory Institute faculty
 spotify_data:
   followers: 15259
   id: 319U6LVt3j3iT9oAEzrpRO
   popularity: 38
-  url: https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO
+  url: 'https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO'
 discography_enriched: true
 top_tracks:
-- Darn That Dream (Kaleidoscope)
-- Son binocle (Kaleidoscope)
-- For the Saints (You Are My Sunshine)
-- Ami's Dance (Rhythm, Melody and Harmony)
-- Gnossienne No. 1 (Kaleidoscope)
-- Summertime (feat. Anita Baker) (Cyrus Chestnut)
-- Cured and Seasoned
-- Elegant Flower (Cyrus Chestnut)
-- But Beautiful
-- Gymnopédie No. 1 (Kaleidoscope)
+  - Darn That Dream (Kaleidoscope)
+  - Son binocle (Kaleidoscope)
+  - For the Saints (You Are My Sunshine)
+  - 'Ami''s Dance (Rhythm, Melody and Harmony)'
+  - Gnossienne No. 1 (Kaleidoscope)
+  - Summertime (feat. Anita Baker) (Cyrus Chestnut)
+  - Cured and Seasoned
+  - Elegant Flower (Cyrus Chestnut)
+  - But Beautiful
+  - Gymnopédie No. 1 (Kaleidoscope)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4bec6c76-e5fd-4cf2-99d9-52befa313986
-  spotify: https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO
-  wikipedia: https://en.wikipedia.org/wiki/Cyrus_Chestnut
+  musicbrainz: 'https://musicbrainz.org/artist/4bec6c76-e5fd-4cf2-99d9-52befa313986'
+  spotify: 'https://open.spotify.com/artist/319U6LVt3j3iT9oAEzrpRO'
+  wikipedia: 'https://en.wikipedia.org/wiki/Cyrus_Chestnut'
 image_path: 03_Resources/source_material/ArtistPortraits/cyrus_chestnut.jpg
 biography_enhanced_at: '2025-10-20T09:30:00.607026'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://profiles.howard.edu/cyrus-chestnut
-- https://www.dallassymphony.org/people/cyrus-chestnut/
-- https://litchfieldjazzfest.com/artwork/cyrus-chestnut-trio-2/
+  - 'https://profiles.howard.edu/cyrus-chestnut'
+  - 'https://www.dallassymphony.org/people/cyrus-chestnut/'
+  - 'https://litchfieldjazzfest.com/artwork/cyrus-chestnut-trio-2/'
 network_extracted: true
 entry_created: '2025-10-20T09:30:00.607035'
 last_updated: '2025-12-23T08:16:01.590268'
@@ -79,9 +81,9 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:23:09.520895'
 musicbrainz_id: 4bec6c76-e5fd-4cf2-99d9-52befa313986
 tags:
-- contemporary jazz
-- hard bop
-- jazz
+  - contemporary jazz
+  - hard bop
+  - jazz
 ---
 
 ![](cyrus_chestnut.jpg)

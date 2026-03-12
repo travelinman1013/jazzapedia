@@ -4,22 +4,22 @@ wiki_slug: marcos-sacramento
 schema_version: 2
 artist_type: person
 status: active
-birth_place: Niterói, Rio de Janeiro, Brazil
+birth_place: 'Niterói, Rio de Janeiro, Brazil'
 genres:
-- samba
+  - samba
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/marcos_sacramento.jpg
   caption: Marcos Sacramento
   background: solo_singer
-  origin: Niterói, Rio de Janeiro, Brazil
+  origin: 'Niterói, Rio de Janeiro, Brazil'
 audio_profile:
   tempo_avg: 108.7
   energy_avg: 0.518
   valence_avg: 0.634
   danceability_avg: 0.635
   acousticness_avg: 0.508
-  instrumentalness_avg: 0.0
-  loudness_avg: -9.0
+  instrumentalness_avg: 0
+  loudness_avg: -9
   speechiness_avg: 0.075
   liveness_avg: 0.164
   track_count: 50
@@ -27,52 +27,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Various Brazilian composers and arrangers in samba/MPB (ensemble collaborators rather than a fixed band)
+    - >-
+      Various Brazilian composers and arrangers in samba/MPB (ensemble
+      collaborators rather than a fixed band)
   influenced:
-  - Not specifically documented
+    - Not specifically documented
   mentors:
-  - Custódio Mesquita
-  - Vinicius de Moraes
+    - Custódio Mesquita
+    - Vinicius de Moraes
 spotify_data:
   followers: 7
   id: 04ZnraSR5SEcUI2AEG2NNj
   popularity: 15
-  url: https://open.spotify.com/artist/04ZnraSR5SEcUI2AEG2NNj
+  url: 'https://open.spotify.com/artist/04ZnraSR5SEcUI2AEG2NNj'
 discography_enriched: true
 top_tracks:
-- Todo o Amor Que Houver Nessa Vida (Arco)
-- Caminho para o Samba (Caminho para o Samba)
-- Bahia - Rio (Arco)
-- Guanabara (Arco)
-- Tudo Que Sou - Mais ou Menos (Tudo Que Sou)
-- Janelas Abertas
-- Dama do Cabaret (Sacramentos)
-- Dia de Samba (Trio)
-- Ô abre alas
-- Errei... Erramos (Memorável Samba)
+  - Todo o Amor Que Houver Nessa Vida (Arco)
+  - Caminho para o Samba (Caminho para o Samba)
+  - Bahia - Rio (Arco)
+  - Guanabara (Arco)
+  - Tudo Que Sou - Mais ou Menos (Tudo Que Sou)
+  - Janelas Abertas
+  - Dama do Cabaret (Sacramentos)
+  - Dia de Samba (Trio)
+  - Ô abre alas
+  - Errei... Erramos (Memorável Samba)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b96a925a-4f2f-4fee-9e14-6ec68ae9c8ad
-  spotify: https://open.spotify.com/artist/04ZnraSR5SEcUI2AEG2NNj
-  wikipedia: https://pt.wikipedia.org/wiki/Marcos_Sacramento
+  musicbrainz: 'https://musicbrainz.org/artist/b96a925a-4f2f-4fee-9e14-6ec68ae9c8ad'
+  spotify: 'https://open.spotify.com/artist/04ZnraSR5SEcUI2AEG2NNj'
+  wikipedia: 'https://pt.wikipedia.org/wiki/Marcos_Sacramento'
 image_path: 03_Resources/source_material/ArtistPortraits/marcos_sacramento.jpg
 biography_enhanced_at: '2025-12-21T01:24:14.198328'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://pt.wikipedia.org/wiki/Marcos_Sacramento
-- https://en.sotakmusik.com/marcos-sacramento
-- http://daniellathompson.com/Texts/Sacramento/Magic_Marcos.htm
-- http://daniellathompson.com/Texts/Sacramento/Emperor_of_samba.htm
-- https://en.helicomusic.com/marcos-sacramento
-- https://musicabrasileira.org/artists/marcos-sacramento/
-- https://www.youtube.com/watch?v=X8IIUTdcg_g
-- https://www.imdb.com/name/nm1961489/
+  - 'https://pt.wikipedia.org/wiki/Marcos_Sacramento'
+  - 'https://en.sotakmusik.com/marcos-sacramento'
+  - 'http://daniellathompson.com/Texts/Sacramento/Magic_Marcos.htm'
+  - 'http://daniellathompson.com/Texts/Sacramento/Emperor_of_samba.htm'
+  - 'https://en.helicomusic.com/marcos-sacramento'
+  - 'https://musicabrasileira.org/artists/marcos-sacramento/'
+  - 'https://www.youtube.com/watch?v=X8IIUTdcg_g'
+  - 'https://www.imdb.com/name/nm1961489/'
 network_extracted: true
 entry_created: '2025-12-21T01:24:14.198332'
 last_updated: '2025-12-23T08:16:12.628542'
 gender: Male
 musicbrainz_id: b96a925a-4f2f-4fee-9e14-6ec68ae9c8ad
-
+birth_date: '1960-07-27'
 ---
 
 ![](marcos_sacramento.jpg)

@@ -5,21 +5,21 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1921-06-03'
-birth_place: Lake Arthur
+birth_place: 'Lake Arthur, Louisiana, United States'
 death_date: '1996-10-14'
 genres:
-- southern gospel
+  - southern gospel
 instruments:
-- eponymous
-- original
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
-  mbid: 954bb091-a80c-4ed8-9a8b-aa6e36fcf24d
-  name: Joe Bonsall & The Orange Playboys
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 954bb091-a80c-4ed8-9a8b-aa6e36fcf24d
+    name: Joe Bonsall & The Orange Playboys
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/joe_bonsall.jpg
   caption: Joe Bonsall
@@ -42,52 +42,65 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Richard Sterban
-  - Duane Allen
-  - Sawyer Brown
-  - William Lee Golden
+    - Richard Sterban
+    - Duane Allen
+    - Sawyer Brown
+    - William Lee Golden
   influenced: []
   mentors:
-  - Blackwood Brothers
-  - Oak Ridge Boys (early incarnation)
+    - Blackwood Brothers
+    - Oak Ridge Boys (early incarnation)
 spotify_data:
   followers: 346
   id: 1X9e8ADBsBEz4CZNooYagm
   popularity: 7
-  url: https://open.spotify.com/artist/1X9e8ADBsBEz4CZNooYagm
+  url: 'https://open.spotify.com/artist/1X9e8ADBsBEz4CZNooYagm'
 discography_enriched: true
 top_tracks:
-- Sweeter As The Days Go By - Live (Sweeter As The Days Go By (Live))
-- 'Cajun Ramblers Special (Louisiana Cajun Music Special: Bon temps rouler)'
-- 'Hippy Ti Yo (Louisiana Cajun Music Special: Bon temps rouler)'
-- Grand Prairie Waltz (The Essential Collection of Joe Bonsall and the Orange Playboys)
-- Chere tout toute (The Essential Collection of Joe Bonsall and the Orange Playboys)
-- Here Comes Santa Claus (Merry Cajun Christmas)
-- Hip et taiaut (The Essential Collection of Joe Bonsall and the Orange Playboys)
-- Step It Fast (The Essential Collection of Joe Bonsall and the Orange Playboys)
-- Hack a Moreau (The Essential Collection of Joe Bonsall and the Orange Playboys)
-- Bad, Bad Leroy Brown (The Essential Collection of Joe Bonsall and the Orange Playboys)
+  - Sweeter As The Days Go By - Live (Sweeter As The Days Go By (Live))
+  - 'Cajun Ramblers Special (Louisiana Cajun Music Special: Bon temps rouler)'
+  - 'Hippy Ti Yo (Louisiana Cajun Music Special: Bon temps rouler)'
+  - >-
+    Grand Prairie Waltz (The Essential Collection of Joe Bonsall and the Orange
+    Playboys)
+  - >-
+    Chere tout toute (The Essential Collection of Joe Bonsall and the Orange
+    Playboys)
+  - Here Comes Santa Claus (Merry Cajun Christmas)
+  - >-
+    Hip et taiaut (The Essential Collection of Joe Bonsall and the Orange
+    Playboys)
+  - >-
+    Step It Fast (The Essential Collection of Joe Bonsall and the Orange
+    Playboys)
+  - >-
+    Hack a Moreau (The Essential Collection of Joe Bonsall and the Orange
+    Playboys)
+  - >-
+    Bad, Bad Leroy Brown (The Essential Collection of Joe Bonsall and the Orange
+    Playboys)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8327d0d5-96aa-4c5f-8664-5b1790018e9b
-  spotify: https://open.spotify.com/artist/1X9e8ADBsBEz4CZNooYagm
-  wikipedia: https://en.wikipedia.org/wiki/Joe_Bonsall
+  musicbrainz: 'https://musicbrainz.org/artist/8327d0d5-96aa-4c5f-8664-5b1790018e9b'
+  spotify: 'https://open.spotify.com/artist/1X9e8ADBsBEz4CZNooYagm'
+  wikipedia: 'https://en.wikipedia.org/wiki/Joe_Bonsall'
 image_path: 03_Resources/source_material/ArtistPortraits/joe_bonsall.jpg
 biography_enhanced_at: '2025-12-15T01:22:37.798339'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://musicinsidermagazine.com/joe-bonsall-oak-ridge-boys/
-- https://oakridgeboys.com/about/joe-bonsall/
-- https://www.acmcountry.com/obits/joe-bonsall
-- https://en.wikipedia.org/wiki/Joe_Bonsall
-- https://www.philadelphiamusicalliance.org/walk-of-fame/joe-bonsall/
+  - 'https://musicinsidermagazine.com/joe-bonsall-oak-ridge-boys/'
+  - 'https://oakridgeboys.com/about/joe-bonsall/'
+  - 'https://www.acmcountry.com/obits/joe-bonsall'
+  - 'https://en.wikipedia.org/wiki/Joe_Bonsall'
+  - 'https://www.philadelphiamusicalliance.org/walk-of-fame/joe-bonsall/'
 network_extracted: true
 entry_created: '2025-12-15T01:22:37.798349'
 last_updated: '2025-12-23T08:16:10.578075'
 disambiguation: Cajun musician
 gender: Male
 musicbrainz_id: 8327d0d5-96aa-4c5f-8664-5b1790018e9b
-
+is_active: false
+origin: 'Philadelphia, Pennsylvania, United States'
 ---
 
 ![](joe_bonsall.jpg)

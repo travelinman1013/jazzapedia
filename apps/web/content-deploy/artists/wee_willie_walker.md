@@ -1,23 +1,23 @@
 ---
-title: wee willie walker
+title: Wee Willie Walker
 wiki_slug: wee-willie-walker
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: 1941-12
-birth_place: Hernando, Mississippi, United States
+birth_place: 'Hernando, Mississippi, United States'
 death_date: '2019-11-11'
 genres:
-- northern soul
-- soul blues
+  - northern soul
+  - soul blues
 instruments:
-- eponymous
+  - eponymous
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/wee_willie_walker.jpg
   caption: wee willie walker
   background: non_vocal_instrumentalist
   born: 1941-12
-  origin: Hernando, Mississippi, United States
+  origin: 'Hernando, Mississippi, United States'
   died: '2019-11-11'
 audio_profile:
   tempo_avg: 114.2
@@ -34,44 +34,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Butanes
-  - Rick Estrin
-  - Anthony Paule Soul Orchestra
-  - Paul Metsa
+    - The Butanes
+    - Rick Estrin
+    - Anthony Paule Soul Orchestra
+    - Paul Metsa
   influenced:
-  - Contemporary Minneapolis soul/blues musicians
+    - Contemporary Minneapolis soul/blues musicians
   mentors:
-  - Roosevelt Jamison
-  - Sam Cooke
+    - Roosevelt Jamison
+    - Sam Cooke
 spotify_data:
   followers: 2036
   id: 17zKWBDvhFMOxmZzg1VIBU
   popularity: 8
-  url: https://open.spotify.com/artist/17zKWBDvhFMOxmZzg1VIBU
+  url: 'https://open.spotify.com/artist/17zKWBDvhFMOxmZzg1VIBU'
 discography_enriched: true
 top_tracks:
-- There Goes My Used to Be (The Goldwax Story, Vol. 1)
-- I Don't Want to Take a Chance (The Goldwax Story, Vol. 2)
-- Ticket to Ride (The Goldwax Story Vol. 3)
-- The Willie Walk (After a While)
-- I Ain't Gonna Cheat on You No More (The Goldwax Story, Vol. 2)
-- Real Good Lie (Not in My Lifetime)
-- Read Between the Lines (If Nothing Ever Changes)
-- Help! (feat. Curtis Salgado) (If Nothing Ever Changes)
-- If Nothing Ever Changes (If Nothing Ever Changes)
-- I Ain't Gonna Cheat on You No More (Live) (Live! Notodden Blues Festival)
+  - 'There Goes My Used to Be (The Goldwax Story, Vol. 1)'
+  - 'I Don''t Want to Take a Chance (The Goldwax Story, Vol. 2)'
+  - Ticket to Ride (The Goldwax Story Vol. 3)
+  - The Willie Walk (After a While)
+  - 'I Ain''t Gonna Cheat on You No More (The Goldwax Story, Vol. 2)'
+  - Real Good Lie (Not in My Lifetime)
+  - Read Between the Lines (If Nothing Ever Changes)
+  - Help! (feat. Curtis Salgado) (If Nothing Ever Changes)
+  - If Nothing Ever Changes (If Nothing Ever Changes)
+  - I Ain't Gonna Cheat on You No More (Live) (Live! Notodden Blues Festival)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1ef04d39-9519-4781-8434-0a76e1cb093b
-  spotify: https://open.spotify.com/artist/17zKWBDvhFMOxmZzg1VIBU
-  wikipedia: https://en.wikipedia.org/wiki/Wee_Willie_Walker
+  musicbrainz: 'https://musicbrainz.org/artist/1ef04d39-9519-4781-8434-0a76e1cb093b'
+  spotify: 'https://open.spotify.com/artist/17zKWBDvhFMOxmZzg1VIBU'
+  wikipedia: 'https://en.wikipedia.org/wiki/Wee_Willie_Walker'
 image_path: 03_Resources/source_material/ArtistPortraits/wee_willie_walker.jpg
 biography_enhanced_at: '2025-10-19T11:50:12.947785'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://fromthevaults-boppinbob.blogspot.com/2022/12/wee-willie-walker-born-23-december-1941.html
-- https://www.americanbluesscene.com/2019/11/soul-blues-singer-wee-willie-walker-dead-at-77/
-- https://en.wikipedia.org/wiki/Wee_Willie_Walker
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2022/12/wee-willie-walker-born-23-december-1941.html
+  - >-
+    https://www.americanbluesscene.com/2019/11/soul-blues-singer-wee-willie-walker-dead-at-77/
+  - 'https://en.wikipedia.org/wiki/Wee_Willie_Walker'
 network_extracted: true
 entry_created: '2025-10-19T11:50:12.947794'
 last_updated: '2025-12-23T08:16:18.063604'
@@ -80,8 +82,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:57:01.119403'
 musicbrainz_id: 1ef04d39-9519-4781-8434-0a76e1cb093b
 tags:
-- blues
-- soul blues
+  - blues
+  - soul blues
+is_active: false
+origin: 'Memphis, Tennessee, United States'
 ---
 
 ![](wee_willie_walker.jpg)

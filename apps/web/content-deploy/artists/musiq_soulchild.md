@@ -5,21 +5,21 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1977-09-16'
-birth_place: Philadelphia
+birth_place: 'Philadelphia, Pennsylvania, United States'
 genres:
-- neo soul
-- quiet storm
-- r&b
-- smooth r&b
+  - neo soul
+  - quiet storm
+  - r&b
+  - smooth r&b
 instruments:
-- background vocals
-- lead vocals
+  - background vocals
+  - lead vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 73cae49f-8177-48b6-be50-24e36e357554
-  name: GAP Holiday 2003
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 73cae49f-8177-48b6-be50-24e36e357554
+    name: GAP Holiday 2003
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/musiq_soulchild.jpg
   caption: Musiq Soulchild
@@ -33,7 +33,7 @@ audio_profile:
   danceability_avg: 0.599
   acousticness_avg: 0.295
   instrumentalness_avg: 0.005
-  loudness_avg: -7.0
+  loudness_avg: -7
   speechiness_avg: 0.164
   liveness_avg: 0.187
   track_count: 49
@@ -41,56 +41,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ivan 'Orthodox' Barias & Carvin 'Ransum' Haggins
-  - Jazzy Jeff (A Touch of Jazz production company)
-  - Hit-Boy
+    - Ivan 'Orthodox' Barias & Carvin 'Ransum' Haggins
+    - Jazzy Jeff (A Touch of Jazz production company)
+    - Hit-Boy
   influenced:
-  - BJ the Chicago Kid
-  - Luke James
+    - BJ the Chicago Kid
+    - Luke James
   mentors:
-  - Stevie Wonder
-  - Marvin Gaye
-  - Donny Hathaway
+    - Stevie Wonder
+    - Marvin Gaye
+    - Donny Hathaway
 spotify_data:
   followers: 1254421
   id: 3UVRliakQfa1pMWIsNuiZ8
   popularity: 58
-  url: https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8
+  url: 'https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8'
 discography_enriched: true
 top_tracks:
-- Halfcrazy (Juslisen)
-- Just Friends (Sunny) (Aijuswanaseing)
-- Love (Aijuswanaseing)
-- sobeautiful (onmyradio)
-- Just Friends (Sunny) (Aijuswanaseing)
-- teachme (Luvanmusiq)
-- Dontchange (Juslisen)
-- Love (Aijuswanaseing)
-- Buddy (Luvanmusiq)
-- Come To Me
+  - Halfcrazy (Juslisen)
+  - Just Friends (Sunny) (Aijuswanaseing)
+  - Love (Aijuswanaseing)
+  - sobeautiful (onmyradio)
+  - Just Friends (Sunny) (Aijuswanaseing)
+  - teachme (Luvanmusiq)
+  - Dontchange (Juslisen)
+  - Love (Aijuswanaseing)
+  - Buddy (Luvanmusiq)
+  - Come To Me
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/01872118-3238-4f46-a849-26a0901a0da7
-  spotify: https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8
-  wikipedia: https://en.wikipedia.org/wiki/Musiq_Soulchild
+  musicbrainz: 'https://musicbrainz.org/artist/01872118-3238-4f46-a849-26a0901a0da7'
+  spotify: 'https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8'
+  wikipedia: 'https://en.wikipedia.org/wiki/Musiq_Soulchild'
 image_path: 03_Resources/source_material/ArtistPortraits/musiq_soulchild.jpg
 biography_enhanced_at: '2025-11-04T11:13:15.770796'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://mabumbe.com/people/musiq-soulchild-age-net-worth-relationships-biography/
-- https://www.last.fm/music/Musiq/+wiki
-- https://xpn.org/2020/06/08/musiq-soulchild-interview/
-- https://www.laphil.com/musicdb/artists/7313/musiq-soulchild
-- https://www.allamericanspeakers.com/celebritytalentbios/Musiq+Soulchild/409996
+  - >-
+    https://mabumbe.com/people/musiq-soulchild-age-net-worth-relationships-biography/
+  - 'https://www.last.fm/music/Musiq/+wiki'
+  - 'https://xpn.org/2020/06/08/musiq-soulchild-interview/'
+  - 'https://www.laphil.com/musicdb/artists/7313/musiq-soulchild'
+  - >-
+    https://www.allamericanspeakers.com/celebritytalentbios/Musiq+Soulchild/409996
 network_extracted: true
 entry_created: '2025-11-04T11:13:15.770806'
 last_updated: '2025-12-23T08:16:13.377528'
 gender: Male
 musicbrainz_id: 01872118-3238-4f46-a849-26a0901a0da7
 tags:
-- contemporary r&b
-- hip hop
-- neo soul
+  - contemporary r&b
+  - hip hop
+  - neo soul
+origin: 'Philadelphia, Pennsylvania, United States'
 ---
 
 ![](musiq_soulchild.jpg)

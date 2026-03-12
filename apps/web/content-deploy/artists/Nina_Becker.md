@@ -3,15 +3,15 @@ title: Nina Becker
 wiki_slug: nina-becker
 schema_version: 2
 status: active
-birth_place: Rio de Janeiro, Rio de Janeiro, Brazil
+birth_place: 'Rio de Janeiro, Rio de Janeiro, Brazil'
 genres:
-- nova mpb
-- mpb
+  - nova mpb
+  - mpb
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Nina_Becker.jpg
   caption: Nina Becker
   background: solo_singer
-  origin: Rio de Janeiro, Rio de Janeiro, Brazil
+  origin: 'Rio de Janeiro, Rio de Janeiro, Brazil'
 audio_profile:
   tempo_avg: 118.3
   energy_avg: 0.391
@@ -19,7 +19,7 @@ audio_profile:
   danceability_avg: 0.574
   acousticness_avg: 0.733
   instrumentalness_avg: 0.057
-  loudness_avg: -11.0
+  loudness_avg: -11
   speechiness_avg: 0.046
   liveness_avg: 0.151
   track_count: 50
@@ -27,50 +27,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Orquestra Imperial
-  - Kassin
-  - Thalma de Freitas
-  - Moreno Veloso
-  - Rodrigo Amarante
-  - Marcelo Callado and Ricardo Dias Gomes
-  - Domenico Lancellotti
-  - Monique Kessous, Anna Ratto, Silvia Machete
-  - Ilhan Ersahin, Alberto Continentino
+    - Orquestra Imperial
+    - Kassin
+    - Thalma de Freitas
+    - Moreno Veloso
+    - Rodrigo Amarante
+    - Marcelo Callado and Ricardo Dias Gomes
+    - Domenico Lancellotti
+    - 'Monique Kessous, Anna Ratto, Silvia Machete'
+    - 'Ilhan Ersahin, Alberto Continentino'
   influenced: []
   mentors:
-  - Roberto Gnattali
+    - Roberto Gnattali
 spotify_data:
   followers: 13868
   id: 4HNWCD51r0ZgOkQGuxMgJV
   popularity: 14
-  url: https://open.spotify.com/artist/4HNWCD51r0ZgOkQGuxMgJV
+  url: 'https://open.spotify.com/artist/4HNWCD51r0ZgOkQGuxMgJV'
 discography_enriched: true
 top_tracks:
-- Volte Sempre (Vermelho)
-- Estrada do Sol (Minha Dolores)
-- Um Dois e Já (Mundo Paralelo)
-- Praia, Cinema e Carnaval
-- Coisas de Mulher (Minha Dolores)
-- Vieux souvenirs (Cabeça a Mil e o Corpo Lento)
-- Manias (Minha Dolores)
-- Lágrimas Negras (Vermelho)
-- Acorde (Dentro de Mim Cabe o Mundo)
-- Samba Jambo (Azul)
+  - Volte Sempre (Vermelho)
+  - Estrada do Sol (Minha Dolores)
+  - Um Dois e Já (Mundo Paralelo)
+  - 'Praia, Cinema e Carnaval'
+  - Coisas de Mulher (Minha Dolores)
+  - Vieux souvenirs (Cabeça a Mil e o Corpo Lento)
+  - Manias (Minha Dolores)
+  - Lágrimas Negras (Vermelho)
+  - Acorde (Dentro de Mim Cabe o Mundo)
+  - Samba Jambo (Azul)
 external_urls:
-  spotify: https://open.spotify.com/artist/4HNWCD51r0ZgOkQGuxMgJV
-  wikipedia: https://pt.wikipedia.org/wiki/Nina_Becker
+  spotify: 'https://open.spotify.com/artist/4HNWCD51r0ZgOkQGuxMgJV'
+  wikipedia: 'https://pt.wikipedia.org/wiki/Nina_Becker'
 image_path: 03_Resources/source_material/ArtistPortraits/Nina_Becker.jpg
 biography_enhanced_at: '2025-10-19T12:30:45.896922'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://pt.wikipedia.org/wiki/Nina_Becker
-- https://www.viberate.com/artist/nina-becker/
-- https://gallery.fm/artist/233117/nina-becker?tab=about
-- https://last.fm/music/Nina+Becker/+wiki
+  - 'https://pt.wikipedia.org/wiki/Nina_Becker'
+  - 'https://www.viberate.com/artist/nina-becker/'
+  - 'https://gallery.fm/artist/233117/nina-becker?tab=about'
+  - 'https://last.fm/music/Nina+Becker/+wiki'
 network_extracted: true
 entry_created: '2025-10-19T12:30:45.896931'
 last_updated: '2025-12-23T08:16:03.462445'
+birth_date: '1974-07-21'
+artist_type: person
 ---
 
 ![](Nina_Becker.jpg)

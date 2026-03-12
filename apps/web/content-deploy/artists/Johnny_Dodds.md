@@ -3,16 +3,16 @@ title: Johnny Dodds
 wiki_slug: johnny-dodds
 schema_version: 2
 status: active
-birth_place: Waveland, Mississippi, United States
+birth_place: 'Waveland, Mississippi, United States'
 genres:
-- ragtime
-- jazz
-- swing music
+  - ragtime
+  - jazz
+  - swing music
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/johnny_dodds.jpg
   caption: Johnny Dodds
   background: solo_singer
-  origin: Waveland, Mississippi, United States
+  origin: 'Waveland, Mississippi, United States'
 audio_profile:
   tempo_avg: 114.5
   energy_avg: 0.366
@@ -28,50 +28,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Joe 'King' Oliver
-  - Louis Armstrong
-  - Jelly Roll Morton
-  - Lovie Austin
-  - Warren 'Baby' Dodds
-  - Natty Dominique
+    - Joe 'King' Oliver
+    - Louis Armstrong
+    - Jelly Roll Morton
+    - Lovie Austin
+    - Warren 'Baby' Dodds
+    - Natty Dominique
   influenced:
-  - Benny Goodman
-  - Omer Simeon
+    - Benny Goodman
+    - Omer Simeon
   mentors:
-  - Lorenzo Tio
-  - Charlie McCurdy
+    - Lorenzo Tio
+    - Charlie McCurdy
 spotify_data:
   followers: 8226
   id: 5Epg9knob31gEXJGg9V5Sp
   popularity: 25
-  url: https://open.spotify.com/artist/5Epg9knob31gEXJGg9V5Sp
+  url: 'https://open.spotify.com/artist/5Epg9knob31gEXJGg9V5Sp'
 discography_enriched: true
 top_tracks:
-- Potato Head Blues (Wild Man Blues)
-- Wild Man Blues (Mad Dog)
-- Melancholy - 21/01/1938 (New Orleans Stomp (Live Recording))
-- Melancholy
-- I'm Goin' Huntin' (Mad Dog)
-- Wild Man Blues (Wild Man Blues)
-- Perdido Street Blues (Mad Dog)
-- Clarinet Wobble (Mad Dog)
-- Wild Man Blues
-- Wolverine Blues - 1990 Remastered - Take 1 (Birth Of The Hot - The Classic Chicago "Red Hot Peppers" Sessions 1926-27)
+  - Potato Head Blues (Wild Man Blues)
+  - Wild Man Blues (Mad Dog)
+  - Melancholy - 21/01/1938 (New Orleans Stomp (Live Recording))
+  - Melancholy
+  - I'm Goin' Huntin' (Mad Dog)
+  - Wild Man Blues (Wild Man Blues)
+  - Perdido Street Blues (Mad Dog)
+  - Clarinet Wobble (Mad Dog)
+  - Wild Man Blues
+  - >-
+    Wolverine Blues - 1990 Remastered - Take 1 (Birth Of The Hot - The Classic
+    Chicago "Red Hot Peppers" Sessions 1926-27)
 external_urls:
-  spotify: https://open.spotify.com/artist/5Epg9knob31gEXJGg9V5Sp
-  wikipedia: https://en.wikipedia.org/wiki/Johnny_Dodds
+  spotify: 'https://open.spotify.com/artist/5Epg9knob31gEXJGg9V5Sp'
+  wikipedia: 'https://en.wikipedia.org/wiki/Johnny_Dodds'
 image_path: 03_Resources/source_material/ArtistPortraits/johnny_dodds.jpg
 biography_enhanced_at: '2025-10-25T09:52:15.077421'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Johnny_Dodds
-- https://aaregistry.org/story/johnny-dodds-clarenetist-born/
-- https://musicrising.tulane.edu/discover/people/johnny-dodds/
-- https://www.britannica.com/biography/Johnny-Dodds
+  - 'https://en.wikipedia.org/wiki/Johnny_Dodds'
+  - 'https://aaregistry.org/story/johnny-dodds-clarenetist-born/'
+  - 'https://musicrising.tulane.edu/discover/people/johnny-dodds/'
+  - 'https://www.britannica.com/biography/Johnny-Dodds'
 network_extracted: true
 entry_created: '2025-10-25T09:52:15.077433'
 last_updated: '2025-12-23T08:16:02.682471'
+birth_date: '1892-04-12'
+death_date: '1940-08-08'
+artist_type: person
 ---
 
 ![](johnny_dodds.jpg)

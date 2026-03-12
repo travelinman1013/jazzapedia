@@ -1,17 +1,18 @@
 ---
-title: AL CARNIVAL TIME JOHNSON & MARGIE PEREZ
+title: AL Carnival Time Johnson & Margie Perez
 wiki_slug: al-carnival-time-johnson-margie-perez
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, USA'
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/al_carnival_time_johnson_and_margie_perez.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/al_carnival_time_johnson_and_margie_perez.jpg
   caption: AL CARNIVAL TIME JOHNSON & MARGIE PEREZ
   background: solo_singer
-  origin: New Orleans, Louisiana, USA
+  origin: 'New Orleans, Louisiana, USA'
 audio_profile:
   tempo_avg: 129.1
   energy_avg: 0.559
@@ -27,45 +28,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Margie Perez
-  - Bon Bon Vivant
-  - Egg Yolk Jubilee
+    - Margie Perez
+    - Bon Bon Vivant
+    - Egg Yolk Jubilee
   influenced: []
   mentors:
-  - Fats Domino
-  - Tommy Ridgley
-  - Smiley Lewis
+    - Fats Domino
+    - Tommy Ridgley
+    - Smiley Lewis
 spotify_data:
   followers: 175
   id: 0gLee3ARp4KZ856wSrr8oF
   popularity: 5
-  url: https://open.spotify.com/artist/0gLee3ARp4KZ856wSrr8oF
+  url: 'https://open.spotify.com/artist/0gLee3ARp4KZ856wSrr8oF'
 discography_enriched: true
 top_tracks:
-- Carnivale Time (Carnivale Electricos)
-- Mardi Gras Strut (Mambo) (Talking 'Bout the Blues, Vol. 3)
-- Carnival Time (Carnivale Electricos)
-- Carnival Time (One Note At A Time (Official Soundtrack))
-- Who Dat Say (feat. Eggyolk Jubilee) (Who Dat Say - single)
-- Lena (Talking 'Bout the Blues, Vol. 6)
-- Sad Story
-- 'Lena (Blues Makers: The Vocal Mix, Vol. 6)'
-- Lena
-- Lower Ninth Ward Blues
+  - Carnivale Time (Carnivale Electricos)
+  - 'Mardi Gras Strut (Mambo) (Talking ''Bout the Blues, Vol. 3)'
+  - Carnival Time (Carnivale Electricos)
+  - Carnival Time (One Note At A Time (Official Soundtrack))
+  - Who Dat Say (feat. Eggyolk Jubilee) (Who Dat Say - single)
+  - 'Lena (Talking ''Bout the Blues, Vol. 6)'
+  - Sad Story
+  - 'Lena (Blues Makers: The Vocal Mix, Vol. 6)'
+  - Lena
+  - Lower Ninth Ward Blues
 external_urls:
-  spotify: https://open.spotify.com/artist/0gLee3ARp4KZ856wSrr8oF
-  wikipedia: https://en.wikipedia.org/wiki/Al_%22Carnival_Time%22_Johnson
-image_path: 03_Resources/source_material/ArtistPortraits/al_carnival_time_johnson_and_margie_perez.jpg
+  spotify: 'https://open.spotify.com/artist/0gLee3ARp4KZ856wSrr8oF'
+  wikipedia: 'https://en.wikipedia.org/wiki/Al_%22Carnival_Time%22_Johnson'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/al_carnival_time_johnson_and_margie_perez.jpg
 biography_enhanced_at: '2025-12-17T02:27:37.224519'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Al_%22Carnival_Time%22_Johnson
-- https://ellanola.org/ellanotes/musician-and-songwriter-al-carnival-time-johnson-keeps-his-fete-going-strong
-- https://www.neworleans.com/listing/margie-perez/46475/
+  - 'https://en.wikipedia.org/wiki/Al_%22Carnival_Time%22_Johnson'
+  - >-
+    https://ellanola.org/ellanotes/musician-and-songwriter-al-carnival-time-johnson-keeps-his-fete-going-strong
+  - 'https://www.neworleans.com/listing/margie-perez/46475/'
 network_extracted: true
 entry_created: '2025-12-17T02:27:37.224530'
 last_updated: '2025-12-23T08:16:04.439028'
+birth_date: '1939-06-20'
+artist_type: band
 ---
 
 ![](al_carnival_time_johnson_and_margie_perez.jpg)

@@ -1,122 +1,124 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bbdeae6d-ff70-4b54-a7d4-8270a70d46bc
-  name: John Mehegan Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c4b15bab-3bfb-43ab-a48a-1ca4b9a621ce
-  name: Teddy Charles Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b4106c82-8789-402e-8321-1265d21083a3
-  name: Jazz Artists Guild
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: dee1e7a9-f31a-444c-9c98-3bf23c32009b
-  name: Charles Mingus Sextet
-- begin: ''
-  end: ''
-  instruments:
-  - double bass
-  - eponymous
-  - original
-  mbid: cdb1aeb4-4b6c-4eb6-ace4-cb7f112b80fc
-  name: The Charles Mingus Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: b444097f-9b83-4aa5-96b9-8e1b9ef3b208
-  name: Charles Mingus and His Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: aabe471c-d5fc-4644-b458-aaf334b1ef0c
-  name: The Oscar Pettiford Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bb3e0bd8-a426-4718-9651-3fbc7c7d4453
-  name: The Red Norvo Trio
-- begin: ''
-  end: ''
-  instruments:
-  - bass
-  mbid: a65922ec-a9e8-4836-9b4f-7ea262cdafc6
-  name: Strings and Keys
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bbdeae6d-ff70-4b54-a7d4-8270a70d46bc
+    name: John Mehegan Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c4b15bab-3bfb-43ab-a48a-1ca4b9a621ce
+    name: Teddy Charles Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b4106c82-8789-402e-8321-1265d21083a3
+    name: Jazz Artists Guild
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: dee1e7a9-f31a-444c-9c98-3bf23c32009b
+    name: Charles Mingus Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - double bass
+      - eponymous
+      - original
+    mbid: cdb1aeb4-4b6c-4eb6-ace4-cb7f112b80fc
+    name: The Charles Mingus Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: b444097f-9b83-4aa5-96b9-8e1b9ef3b208
+    name: Charles Mingus and His Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: aabe471c-d5fc-4644-b458-aaf334b1ef0c
+    name: The Oscar Pettiford Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bb3e0bd8-a426-4718-9651-3fbc7c7d4453
+    name: The Red Norvo Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - bass
+    mbid: a65922ec-a9e8-4836-9b4f-7ea262cdafc6
+    name: Strings and Keys
 biography_enhanced_at: '2026-01-22T07:20:45.628999'
 birth_date: '1922-04-22'
-birth_place: Nogales
+birth_place: 'Nogales, Arizona, United States'
 death_date: '1979-01-05'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:20:45.629006'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f3b8e107-abe8-4743-b6a3-4a4ee995e71f
-  spotify: https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H
-  wikipedia: https://en.wikipedia.org/wiki/Charles_Mingus
+  musicbrainz: 'https://musicbrainz.org/artist/f3b8e107-abe8-4743-b6a3-4a4ee995e71f'
+  spotify: 'https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H'
+  wikipedia: 'https://en.wikipedia.org/wiki/Charles_Mingus'
 gender: Male
 genres:
-- jazz
-- hard bop
-- bebop
-- free jazz
-- cool jazz
-- jazz ballads
+  - jazz
+  - hard bop
+  - bebop
+  - free jazz
+  - cool jazz
+  - jazz ballads
 image_path: 03_Resources/source_material/ArtistPortraits/charles_mingus.jpg
 instruments:
-- eponymous
-- original
-- double bass
-- bass
-- piano
-- acoustic bass guitar
-- spoken vocals
+  - eponymous
+  - original
+  - double bass
+  - bass
+  - piano
+  - acoustic bass guitar
+  - spoken vocals
 last_updated: '2026-01-22T07:20:45.629006'
 musical_connections:
   collaborators:
-  - Max Roach
-  - Charlie Parker
-  - Eric Dolphy
-  - Charles McPherson
-  - Miles Davis
+    - Max Roach
+    - Charlie Parker
+    - Eric Dolphy
+    - Charles McPherson
+    - Miles Davis
   influenced:
-  - Young composers and musicians
+    - Young composers and musicians
   mentors:
-  - H. Rheinshagen
-  - Lloyd Reese
-  - Duke Ellington
+    - H. Rheinshagen
+    - Lloyd Reese
+    - Duke Ellington
 musicbrainz_id: f3b8e107-abe8-4743-b6a3-4a4ee995e71f
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.charlesmingus.com/mingusbio
-- https://en.wikipedia.org/wiki/Charles_Mingus
-- https://www.laphil.com/musicdb/artists/3649/charles-mingus
-- https://www.ebsco.com/research-starters/history/charles-mingus
-- https://www.masterclass.com/articles/charles-mingus-life-and-music
-- https://isjac.org/hall-of-fame-new/charles-mingus
-- https://www.charlesmingus.com/mingus/what-is-a-jazz-composer
+  - 'https://www.charlesmingus.com/mingusbio'
+  - 'https://en.wikipedia.org/wiki/Charles_Mingus'
+  - 'https://www.laphil.com/musicdb/artists/3649/charles-mingus'
+  - 'https://www.ebsco.com/research-starters/history/charles-mingus'
+  - 'https://www.masterclass.com/articles/charles-mingus-life-and-music'
+  - 'https://isjac.org/hall-of-fame-new/charles-mingus'
+  - 'https://www.charlesmingus.com/mingus/what-is-a-jazz-composer'
 spotify_data:
   followers: 520106
   id: 1W8TbFzNS15VwsempfY12H
   popularity: 50
-  url: https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H
+  url: 'https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H'
 status: active
 tags:
-- 2008 universal fire victim
-- american
-- avant-garde jazz
-title: charles mingus
+  - 2008 universal fire victim
+  - american
+  - avant-garde jazz
+title: Charles Mingus
+is_active: false
+origin: 'Watts, California, United States'
 ---
 
 ![](charles_mingus.jpg)

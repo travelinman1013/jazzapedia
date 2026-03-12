@@ -1,26 +1,26 @@
 ---
-title: LESLIE LEWIS
+title: Leslie Lewis
 wiki_slug: leslie-lewis
 schema_version: 2
 status: active
-birth_place: Mumbai, Maharashtra, India
+birth_place: 'Mumbai, Maharashtra, India'
 genres:
-- tamil pop
-- tamil dance
-- kollywood
+  - tamil pop
+  - tamil dance
+  - kollywood
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/leslie_lewis.jpg
   caption: LESLIE LEWIS
   background: solo_singer
-  origin: Mumbai, Maharashtra, India
+  origin: 'Mumbai, Maharashtra, India'
 audio_profile:
-  tempo_avg: 122.0
+  tempo_avg: 122
   energy_avg: 0.668
   valence_avg: 0.548
   danceability_avg: 0.645
   acousticness_avg: 0.263
   instrumentalness_avg: 0.071
-  loudness_avg: -8.0
+  loudness_avg: -8
   speechiness_avg: 0.084
   liveness_avg: 0.199
   track_count: 50
@@ -28,54 +28,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Hariharan
-  - Suneeta Rao
-  - Alisha Chinai
-  - Asha Bhosle
-  - KK
-  - Sonu Nigam
-  - Aamir Khan
+    - Hariharan
+    - Suneeta Rao
+    - Alisha Chinai
+    - Asha Bhosle
+    - KK
+    - Sonu Nigam
+    - Aamir Khan
   influenced:
-  - A Band of Boys
-  - Divya Lewis
+    - A Band of Boys
+    - Divya Lewis
   mentors:
-  - P. L. Raj
+    - P. L. Raj
 spotify_data:
   followers: 42406
   id: 42mDOvp3BiaMBM3ae4zWwV
   popularity: 45
-  url: https://open.spotify.com/artist/42mDOvp3BiaMBM3ae4zWwV
+  url: 'https://open.spotify.com/artist/42mDOvp3BiaMBM3ae4zWwV'
 discography_enriched: true
 top_tracks:
-- Kannum Kannum
-- Hey Amigo
-- Kannum Kannum
-- Kannum Kannum (Anniyan (Original Motion Picture Soundtrack))
-- Hosahore
-- King (King)
-- Pyaar Ke Pal - Lofi Flip
-- Byla Bylamo
-- Pari Hoon Main (From "Thank You For Coming")
-- Paathi Kaadhal Paathi Mutham
+  - Kannum Kannum
+  - Hey Amigo
+  - Kannum Kannum
+  - Kannum Kannum (Anniyan (Original Motion Picture Soundtrack))
+  - Hosahore
+  - King (King)
+  - Pyaar Ke Pal - Lofi Flip
+  - Byla Bylamo
+  - Pari Hoon Main (From "Thank You For Coming")
+  - Paathi Kaadhal Paathi Mutham
 external_urls:
-  spotify: https://open.spotify.com/artist/42mDOvp3BiaMBM3ae4zWwV
-  wikipedia: https://en.wikipedia.org/wiki/Leslee_Lewis
+  spotify: 'https://open.spotify.com/artist/42mDOvp3BiaMBM3ae4zWwV'
+  wikipedia: 'https://en.wikipedia.org/wiki/Leslee_Lewis'
 image_path: 03_Resources/source_material/ArtistPortraits/leslie_lewis.jpg
 biography_enhanced_at: '2025-12-04T07:52:50.663942'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Leslee Lewis
-- StarsUnfolded - Leslee Lewis Biography
-- The Unofficial biography of Leslie Peter 'LEZZ' Lewis
-- Grokipedia - Leslee Lewis
-- YouTube - Leslee Lewis Official
-- UnelmaMusic - Leslee Lewis
-- WONGCW Music - Leslee Lewis
+  - Wikipedia - Leslee Lewis
+  - StarsUnfolded - Leslee Lewis Biography
+  - The Unofficial biography of Leslie Peter 'LEZZ' Lewis
+  - Grokipedia - Leslee Lewis
+  - YouTube - Leslee Lewis Official
+  - UnelmaMusic - Leslee Lewis
+  - WONGCW Music - Leslee Lewis
 network_extracted: true
 entry_created: '2025-12-04T07:52:50.663953'
 last_updated: '2025-12-23T08:16:11.864404'
-
+birth_date: '1960-06-20'
+artist_type: person
 ---
 
 ![](leslie_lewis.jpg)

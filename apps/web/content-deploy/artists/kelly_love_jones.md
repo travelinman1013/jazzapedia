@@ -1,48 +1,56 @@
 ---
 biography_enhanced_at: '2026-01-10T01:10:52.850492'
-birth_place: New Orleans, Louisiana, United States (artist’s primary base; born in
-  the New Orleans area and raised partly in Slidell, Louisiana, with key formative
+birth_place: >-
+  New Orleans, Louisiana, United States (artist’s primary base; born in the New
+  Orleans area and raised partly in Slidell, Louisiana, with key formative
   periods in St. Louis, Missouri, and Houston, Texas).
 enhancement_provider: perplexity
 entry_created: '2026-01-10T01:10:52.850498'
 external_urls:
-  spotify: https://open.spotify.com/artist/417l2EDSiFzC4laL426WMG
+  spotify: 'https://open.spotify.com/artist/417l2EDSiFzC4laL426WMG'
   wikipedia: ''
 genres: []
 image_path: ''
 last_updated: '2026-01-10T01:10:52.850499'
 musical_connections:
   collaborators:
-  - James Alsanders
-  - George Porter Jr.
-  - The Original Pinettes Brass Band (The Pinettes)
-  - Deezle (Darius ‘Deezle’ Harrison)
+    - James Alsanders
+    - George Porter Jr.
+    - The Original Pinettes Brass Band (The Pinettes)
+    - Deezle (Darius ‘Deezle’ Harrison)
   influenced:
-  - Impoverished and at‑risk youth reached through the U.N. “Messenger of Truth” initiative
-  - Emerging New Orleans performers in her productions (e.g., cast and band of “TRUST”
-    and “Pitch Dark”)
+    - >-
+      Impoverished and at‑risk youth reached through the U.N. “Messenger of
+      Truth” initiative
+    - >-
+      Emerging New Orleans performers in her productions (e.g., cast and band of
+      “TRUST” and “Pitch Dark”)
   mentors:
-  - Aunt Troy (first name given as Troy, Jones’s aunt in St. Louis)
-  - Sade
-  - Chaka Khan
+    - 'Aunt Troy (first name given as Troy, Jones’s aunt in St. Louis)'
+    - Sade
+    - Chaka Khan
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.offbeat.com/articles/alchemist-of-people-kelly-love-jones-music-that-touches-people-janedit/
-- https://boldjourney.com/meet-kelly-love-jones/
-- https://www.neworleans.com/listing/kelly-love-jones/48378/
-- https://astudiointhewoods.org/artist/kelly-jones/
-- https://www.kellylovejonesmusic.com/about-klj
-- https://crescentcitysounds.org/artists/kelly-love-jones
-- https://d4d7ae4b0ea368b674c7-c0d3f852bbdc3a5862574dd502f774cd.ssl.cf2.rackcdn.com/data240504.pdf
-- https://noma.org/event/trust-by-kelly-love-jones/
+  - >-
+    https://www.offbeat.com/articles/alchemist-of-people-kelly-love-jones-music-that-touches-people-janedit/
+  - 'https://boldjourney.com/meet-kelly-love-jones/'
+  - 'https://www.neworleans.com/listing/kelly-love-jones/48378/'
+  - 'https://astudiointhewoods.org/artist/kelly-jones/'
+  - 'https://www.kellylovejonesmusic.com/about-klj'
+  - 'https://crescentcitysounds.org/artists/kelly-love-jones'
+  - >-
+    https://d4d7ae4b0ea368b674c7-c0d3f852bbdc3a5862574dd502f774cd.ssl.cf2.rackcdn.com/data240504.pdf
+  - 'https://noma.org/event/trust-by-kelly-love-jones/'
 spotify_data:
   followers: 2
   id: 417l2EDSiFzC4laL426WMG
   popularity: 0
-  url: https://open.spotify.com/artist/417l2EDSiFzC4laL426WMG
+  url: 'https://open.spotify.com/artist/417l2EDSiFzC4laL426WMG'
 status: active
-title: kelly love jones
+title: Kelly Love Jones
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![]()

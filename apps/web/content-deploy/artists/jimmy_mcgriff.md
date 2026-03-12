@@ -1,31 +1,31 @@
 ---
-title: JIMMY MCGRIFF
+title: Jimmy McGriff
 wiki_slug: jimmy-mcgriff
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1936-04-03'
-birth_place: Germantown
+birth_place: 'Germantown, Pennsylvania, United States'
 death_date: '2008-05-24'
 genres:
-- acid jazz
-- hard bop
-- jazz blues
-- jazz funk
-- soul jazz
+  - acid jazz
+  - hard bop
+  - jazz blues
+  - jazz funk
+  - soul jazz
 instruments:
-- eponymous
-- organ
-- original
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - organ
   - original
-  mbid: f217c40c-28c5-4d65-995a-01a93ac6482f
-  name: Jimmy McGriff Organ and Blues Band
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - organ
+      - original
+    mbid: f217c40c-28c5-4d65-995a-01a93ac6482f
+    name: Jimmy McGriff Organ and Blues Band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jimmy_mcgriff.jpg
   caption: JIMMY MCGRIFF
@@ -48,60 +48,68 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Charles Earland
-  - Buddy Rich
-  - Junior Parker
-  - Hank Crawford
-  - David "Fathead" Newman
-  - Bernard Purdie
+    - Charles Earland
+    - Buddy Rich
+    - Junior Parker
+    - Hank Crawford
+    - David "Fathead" Newman
+    - Bernard Purdie
   influenced:
-  - Charles Earland
+    - Charles Earland
   mentors:
-  - Jimmy Smith
-  - Richard "Groove" Holmes
-  - Milt Buckner
+    - Jimmy Smith
+    - Richard "Groove" Holmes
+    - Milt Buckner
 spotify_data:
   followers: 37969
   id: 1A0QR12gcj2L5hYh1WWDeh
   popularity: 37
-  url: https://open.spotify.com/artist/1A0QR12gcj2L5hYh1WWDeh
+  url: 'https://open.spotify.com/artist/1A0QR12gcj2L5hYh1WWDeh'
 discography_enriched: true
 top_tracks:
-- The Worm (The Worm)
-- The Bird - 2024 Remastered Version (Groove Grease (2024 Remastered Version))
-- The Bird Wave (Electric Funk)
-- Groove Grease - 2024 Remastered Version (Groove Grease (2024 Remastered Version))
-- Blue Juice (The Worm)
-- Back On The Track (Electric Funk)
-- I Think I'm Drownin' On Dry Land - 2024 Remastered Version (Good Things Don't Happen Every Day (2024 Remastered Version))
-- Funky Junk (Electric Funk)
-- 'Blue Juice (Blue Note Trip 8: Swing Low/Fly High)'
-- Chris Cross (Electric Funk)
+  - The Worm (The Worm)
+  - The Bird - 2024 Remastered Version (Groove Grease (2024 Remastered Version))
+  - The Bird Wave (Electric Funk)
+  - >-
+    Groove Grease - 2024 Remastered Version (Groove Grease (2024 Remastered
+    Version))
+  - Blue Juice (The Worm)
+  - Back On The Track (Electric Funk)
+  - >-
+    I Think I'm Drownin' On Dry Land - 2024 Remastered Version (Good Things
+    Don't Happen Every Day (2024 Remastered Version))
+  - Funky Junk (Electric Funk)
+  - 'Blue Juice (Blue Note Trip 8: Swing Low/Fly High)'
+  - Chris Cross (Electric Funk)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/58f23499-f263-4772-9b7a-2f6cd2fe428f
-  spotify: https://open.spotify.com/artist/1A0QR12gcj2L5hYh1WWDeh
-  wikipedia: https://en.wikipedia.org/wiki/Jimmy_McGriff
+  musicbrainz: 'https://musicbrainz.org/artist/58f23499-f263-4772-9b7a-2f6cd2fe428f'
+  spotify: 'https://open.spotify.com/artist/1A0QR12gcj2L5hYh1WWDeh'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jimmy_McGriff'
 image_path: 03_Resources/source_material/ArtistPortraits/jimmy_mcgriff.jpg
 biography_enhanced_at: '2025-12-22T01:46:30.323657'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://jazztimes.com/archives/jimmy-mcgriff-hammond-b-3-organ-virtuoso-dies-at-72/
-- https://en.wikipedia.org/wiki/Jimmy_McGriff
-- https://www.canadianjazzarchive.net/musicians/jimmy-mcgriff.html
-- https://www.bluenote.com/artist/jimmy-mcgriff/
-- https://concord.com/artist/jimmy-mcgriff/
-- https://www.allaboutjazz.com/musicians/jimmy-mcgriff/
-- https://www.knkx.org/jazz-and-blues/2013-04-03/jazz-april-birthday-organist-jimmy-mcgriff
+  - >-
+    https://jazztimes.com/archives/jimmy-mcgriff-hammond-b-3-organ-virtuoso-dies-at-72/
+  - 'https://en.wikipedia.org/wiki/Jimmy_McGriff'
+  - 'https://www.canadianjazzarchive.net/musicians/jimmy-mcgriff.html'
+  - 'https://www.bluenote.com/artist/jimmy-mcgriff/'
+  - 'https://concord.com/artist/jimmy-mcgriff/'
+  - 'https://www.allaboutjazz.com/musicians/jimmy-mcgriff/'
+  - >-
+    https://www.knkx.org/jazz-and-blues/2013-04-03/jazz-april-birthday-organist-jimmy-mcgriff
 network_extracted: true
 entry_created: '2025-12-22T01:46:30.323663'
 last_updated: '2025-12-23T08:16:10.468720'
 gender: Male
 musicbrainz_id: 58f23499-f263-4772-9b7a-2f6cd2fe428f
 tags:
-- funk
-- jazz
-- jazz-funk
+  - funk
+  - jazz
+  - jazz-funk
+is_active: false
+origin: 'Philadelphia, Pennsylvania, United States'
 ---
 
 ![](jimmy_mcgriff.jpg)

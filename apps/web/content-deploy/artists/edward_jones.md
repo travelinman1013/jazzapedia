@@ -1,15 +1,15 @@
 ---
-title: EDWARD JONES
+title: Edward Jones
 wiki_slug: edward-jones
 schema_version: 2
 status: active
-birth_place: Henblas, Llandderfel, Meironnydd, Wales
+birth_place: 'Henblas, Llandderfel, Meironnydd, Wales'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/edward_jones.jpg
   caption: EDWARD JONES
   background: solo_singer
-  origin: Henblas, Llandderfel, Meironnydd, Wales
+  origin: 'Henblas, Llandderfel, Meironnydd, Wales'
 audio_profile:
   tempo_avg: 172.1
   energy_avg: 0.634
@@ -25,36 +25,39 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Johann Christian Bach & Carl Friedrich Abel
-  - Welsh nobility and gentry
+    - Johann Christian Bach & Carl Friedrich Abel
+    - Welsh nobility and gentry
   influenced:
-  - Welsh folk musicians and bards
-  - Celtic Revival composers and scholars
+    - Welsh folk musicians and bards
+    - Celtic Revival composers and scholars
   mentors:
-  - John Jones (father)
-  - Charles Burney
+    - John Jones (father)
+    - Charles Burney
 spotify_data:
   followers: 0
   id: 1axDxPtpJcrx6T1iZjc1BI
   popularity: 10
-  url: https://open.spotify.com/artist/1axDxPtpJcrx6T1iZjc1BI
+  url: 'https://open.spotify.com/artist/1axDxPtpJcrx6T1iZjc1BI'
 discography_enriched: true
 top_tracks:
-- Field (Field)
+  - Field (Field)
 external_urls:
-  spotify: https://open.spotify.com/artist/1axDxPtpJcrx6T1iZjc1BI
-  wikipedia: https://en.wikipedia.org/wiki/Edward_Jones_(Bardd_y_Brenin)
+  spotify: 'https://open.spotify.com/artist/1axDxPtpJcrx6T1iZjc1BI'
+  wikipedia: 'https://en.wikipedia.org/wiki/Edward_Jones_(Bardd_y_Brenin)'
 image_path: 03_Resources/source_material/ArtistPortraits/edward_jones.jpg
 biography_enhanced_at: '2025-10-22T09:26:15.269945'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Edward_Jones_(Bardd_y_Brenin)
-- https://biography.wales/article/s-JONE-EDW-1752
-- https://momh.org.uk/exhibitions/edward-jones-1752-1824/
+  - 'https://en.wikipedia.org/wiki/Edward_Jones_(Bardd_y_Brenin)'
+  - 'https://biography.wales/article/s-JONE-EDW-1752'
+  - 'https://momh.org.uk/exhibitions/edward-jones-1752-1824/'
 network_extracted: true
 entry_created: '2025-10-22T09:26:15.269960'
 last_updated: '2025-12-23T08:16:08.237058'
+birth_date: '1752-03-17'
+death_date: '1824-04-18'
+artist_type: person
 ---
 
 ![](edward_jones.jpg)

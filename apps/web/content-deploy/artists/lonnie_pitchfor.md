@@ -1,17 +1,17 @@
 ---
-title: lonnie pitchfor
+title: Lonnie Pitchfor
 wiki_slug: lonnie-pitchfor
 schema_version: 2
 status: active
-birth_place: Lexington, Mississippi, United States
+birth_place: 'Lexington, Mississippi, United States'
 genres:
-- country blues
-- blues
+  - country blues
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lonnie_pitchfor.jpg
   caption: lonnie pitchfor
   background: solo_singer
-  origin: Lexington, Mississippi, United States
+  origin: 'Lexington, Mississippi, United States'
 audio_profile:
   tempo_avg: 127.6
   energy_avg: 0.493
@@ -27,45 +27,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Johnny Shines
-  - Robert Lockwood Jr.
-  - John Mellencamp
+    - Johnny Shines
+    - Robert Lockwood Jr.
+    - John Mellencamp
   influenced:
-  - Modern blues revivalists
+    - Modern blues revivalists
   mentors:
-  - Robert Lockwood Jr.
-  - Eugene Powell
+    - Robert Lockwood Jr.
+    - Eugene Powell
 spotify_data:
   followers: 475
   id: 5XGoUb08p94SCPWohCzDFv
   popularity: 1
-  url: https://open.spotify.com/artist/5XGoUb08p94SCPWohCzDFv
+  url: 'https://open.spotify.com/artist/5XGoUb08p94SCPWohCzDFv'
 discography_enriched: true
 top_tracks:
-- One String Boogie (Living Country Blues USA, Vol. 10 - Country Boogie)
-- That Train Coming Around the Bend (National Downhome Blues Festival, Vol. 1)
-- If I Had Possession over Judgement Day - Remastered 2022 (Deep Blues (Original Motion Picture Soundtrack) [Remastered 2022])
-- Terraplane Blues - Remastered 2022 (Deep Blues (Original Motion Picture Soundtrack) [Remastered 2022])
-- My Babe (The Introduction to Living Country Blues USA)
-- Shake Your Moneymaker (Living Country Blues USA, Vol. 10 - Country Boogie)
-- Boogie Chillun (Living Country Blues USA, Vol. 7 - Afro-American Blues Roots)
-- Johnny Stole An Apple (Living Country Blues USA, Vol. 7 - Afro-American Blues Roots)
-- 'Old Dog Blue - Live (The Harry Smith Connection: A Live Tribute to the Anthology of American Folk Music)'
-- Why I Sing the Blues - Live 1983 (American Folk Blues Festival - Outtakes & Rarities '70-'83 (Live))
+  - 'One String Boogie (Living Country Blues USA, Vol. 10 - Country Boogie)'
+  - 'That Train Coming Around the Bend (National Downhome Blues Festival, Vol. 1)'
+  - >-
+    If I Had Possession over Judgement Day - Remastered 2022 (Deep Blues
+    (Original Motion Picture Soundtrack) [Remastered 2022])
+  - >-
+    Terraplane Blues - Remastered 2022 (Deep Blues (Original Motion Picture
+    Soundtrack) [Remastered 2022])
+  - My Babe (The Introduction to Living Country Blues USA)
+  - 'Shake Your Moneymaker (Living Country Blues USA, Vol. 10 - Country Boogie)'
+  - >-
+    Boogie Chillun (Living Country Blues USA, Vol. 7 - Afro-American Blues
+    Roots)
+  - >-
+    Johnny Stole An Apple (Living Country Blues USA, Vol. 7 - Afro-American
+    Blues Roots)
+  - >-
+    Old Dog Blue - Live (The Harry Smith Connection: A Live Tribute to the
+    Anthology of American Folk Music)
+  - >-
+    Why I Sing the Blues - Live 1983 (American Folk Blues Festival - Outtakes &
+    Rarities '70-'83 (Live))
 external_urls:
-  spotify: https://open.spotify.com/artist/5XGoUb08p94SCPWohCzDFv
-  wikipedia: https://en.wikipedia.org/wiki/Lonnie_Pitchford
+  spotify: 'https://open.spotify.com/artist/5XGoUb08p94SCPWohCzDFv'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lonnie_Pitchford'
 image_path: ''
 biography_enhanced_at: '2025-10-20T10:20:50.937390'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia
-- Mississippi Writers and Musicians
-- From the Vaults
+  - Wikipedia
+  - Mississippi Writers and Musicians
+  - From the Vaults
 network_extracted: true
 entry_created: '2025-10-20T10:20:50.937406'
 last_updated: '2025-12-23T08:16:12.099662'
+birth_date: '1955-10-08'
+death_date: '1998-11-08'
+artist_type: person
 ---
 
 ![]()

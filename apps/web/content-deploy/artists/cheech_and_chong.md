@@ -2,15 +2,15 @@
 title: Cheech & Chong
 wiki_slug: cheech-chong
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1970'
 genres:
-- comedy
-- spoken word
+  - comedy
+  - spoken word
 instruments:
-- background vocals
-- spoken vocals
+  - background vocals
+  - spoken vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/cheech_and_chong.jpg
   caption: Cheech & Chong
@@ -22,7 +22,7 @@ audio_profile:
   valence_avg: 0.531
   danceability_avg: 0.608
   acousticness_avg: 0.57
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -11.4
   speechiness_avg: 0.539
   liveness_avg: 0.498
@@ -31,61 +31,73 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Richard 'Cheech' Marin
-  - Tommy Chong
-  - Bobby Taylor and the Vancouvers
+    - Richard 'Cheech' Marin
+    - Tommy Chong
+    - Bobby Taylor and the Vancouvers
   influenced: []
   mentors:
-  - Improvisational comedy troupes
+    - Improvisational comedy troupes
 spotify_data:
   followers: 70406
   id: 0TorzrcTerTn7l5q9LVjmt
   popularity: 33
-  url: https://open.spotify.com/artist/0TorzrcTerTn7l5q9LVjmt
+  url: 'https://open.spotify.com/artist/0TorzrcTerTn7l5q9LVjmt'
 discography_enriched: true
 top_tracks:
-- Up in Smoke (Up In Smoke (Motion Picture Soundtrack) [40th Anniversary Edition])
-- Framed (Up In Smoke (Motion Picture Soundtrack) [40th Anniversary Edition])
-- Born In East L.A.
-- Rock Fight (Up In Smoke (Motion Picture Soundtrack) [40th Anniversary Edition])
-- Medical Marijuana Blues (Medical Marijuana Blues)
-- Santa Claus And His Old Lady (Santa Claus And His Old Lady)
-- Up In Smoke 2018 (Up In Smoke (Motion Picture Soundtrack) [40th Anniversary Edition])
-- Dave (Live At The Santa Monica Civic)
-- Up in Smoke - Reprise (Up In Smoke (Motion Picture Soundtrack) [40th Anniversary Edition])
-- Up in Smoke - Mono; Spanish Version (Up In Smoke (Motion Picture Soundtrack) [40th Anniversary Edition])
+  - >-
+    Up in Smoke (Up In Smoke (Motion Picture Soundtrack) [40th Anniversary
+    Edition])
+  - 'Framed (Up In Smoke (Motion Picture Soundtrack) [40th Anniversary Edition])'
+  - Born In East L.A.
+  - >-
+    Rock Fight (Up In Smoke (Motion Picture Soundtrack) [40th Anniversary
+    Edition])
+  - Medical Marijuana Blues (Medical Marijuana Blues)
+  - Santa Claus And His Old Lady (Santa Claus And His Old Lady)
+  - >-
+    Up In Smoke 2018 (Up In Smoke (Motion Picture Soundtrack) [40th Anniversary
+    Edition])
+  - Dave (Live At The Santa Monica Civic)
+  - >-
+    Up in Smoke - Reprise (Up In Smoke (Motion Picture Soundtrack) [40th
+    Anniversary Edition])
+  - >-
+    Up in Smoke - Mono; Spanish Version (Up In Smoke (Motion Picture Soundtrack)
+    [40th Anniversary Edition])
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ca90c456-3e32-40a2-b0d6-84442fb359e7
-  spotify: https://open.spotify.com/artist/0TorzrcTerTn7l5q9LVjmt
+  musicbrainz: 'https://musicbrainz.org/artist/ca90c456-3e32-40a2-b0d6-84442fb359e7'
+  spotify: 'https://open.spotify.com/artist/0TorzrcTerTn7l5q9LVjmt'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/cheech_and_chong.jpg
 biography_enhanced_at: '2025-12-22T01:50:29.870753'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://albumlinernotes.com/Cheech___Chong.html
-- https://grammymuseum.org/exhibit/cheech-chong-still-rollin-celebrating-40-years-of-up-in-smoke/
-- https://cheechmarin.com/bio/
-- https://www.cheechandchongfans.com/biography.html
+  - 'http://albumlinernotes.com/Cheech___Chong.html'
+  - >-
+    https://grammymuseum.org/exhibit/cheech-chong-still-rollin-celebrating-40-years-of-up-in-smoke/
+  - 'https://cheechmarin.com/bio/'
+  - 'https://www.cheechandchongfans.com/biography.html'
 network_extracted: true
 entry_created: '2025-12-22T01:50:29.870762'
 last_updated: '2025-12-23T08:16:06.797211'
 disambiguation: comedy duo of Cheech Marin & Tommy Chong
 members:
-- begin: '1970'
-  end: '1986'
-  instruments: []
-  mbid: 6699744c-5306-4b62-b2f6-536717d33e03
-  name: Tommy Chong
-- begin: '1970'
-  end: '1986'
-  instruments: []
-  mbid: 1f9418a2-b464-4d15-97ae-f90211fea9c3
-  name: Cheech Marin
+  - begin: '1970'
+    end: '1986'
+    instruments: []
+    mbid: 6699744c-5306-4b62-b2f6-536717d33e03
+    name: Tommy Chong
+  - begin: '1970'
+    end: '1986'
+    instruments: []
+    mbid: 1f9418a2-b464-4d15-97ae-f90211fea9c3
+    name: Cheech Marin
 musicbrainz_id: ca90c456-3e32-40a2-b0d6-84442fb359e7
-origin: Vancouver
+origin: 'Vancouver, British Columbia, Canada'
 tags:
-- 2008 universal fire victim
+  - 2008 universal fire victim
+birth_place: 'South Central Los Angeles, California, United States'
 ---
 
 ![](cheech_and_chong.jpg)

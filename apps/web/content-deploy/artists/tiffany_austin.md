@@ -1,42 +1,46 @@
 ---
 biography_enhanced_at: '2026-01-20T01:24:35.005107'
-birth_place: South Los Angeles, California, USA
+birth_place: 'South Los Angeles, California, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-20T01:24:35.005113'
 external_urls:
-  spotify: https://open.spotify.com/artist/71D3O4Y0iCt9rFyw2g5lLS
+  spotify: 'https://open.spotify.com/artist/71D3O4Y0iCt9rFyw2g5lLS'
   wikipedia: ''
 genres:
-- vocal jazz
+  - vocal jazz
 image_path: 03_Resources/source_material/ArtistPortraits/tiffany_austin.jpg
 last_updated: '2026-01-20T01:24:35.005114'
 musical_connections:
   collaborators:
-  - Marcus Shelby
-  - Howard Wiley
+    - Marcus Shelby
+    - Howard Wiley
   influenced: []
   mentors:
-  - Louisiana Creole grandmother
-  - California Jazz Conservatory (Jazzschool)
+    - Louisiana Creole grandmother
+    - California Jazz Conservatory (Jazzschool)
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.sfcv.org/articles/artist-spotlight/tiffany-austin-sings-and-lives-her-life-soulfully
-- https://www.tiffanyaustin.com/bio
-- https://www.allaboutjazz.com/musicians/tiffany-austin/
-- https://arts4all.org/about/news-blog/get-to-know-tiffany-austin/
-- https://www.tiffanyaustin.com
-- https://www.kqed.org/arts/13835874/tiffany-austins-soul-steeped-jazz-celebrates-black-resilience
-- https://sanjosejazz.org/events/tiffany-austin/
-- https://www.csun.edu/node/233761
-- https://www.sfjazz.org/athome/education/family-matinees/tiffany-austin-music-is-the-magic/
+  - >-
+    https://www.sfcv.org/articles/artist-spotlight/tiffany-austin-sings-and-lives-her-life-soulfully
+  - 'https://www.tiffanyaustin.com/bio'
+  - 'https://www.allaboutjazz.com/musicians/tiffany-austin/'
+  - 'https://arts4all.org/about/news-blog/get-to-know-tiffany-austin/'
+  - 'https://www.tiffanyaustin.com'
+  - >-
+    https://www.kqed.org/arts/13835874/tiffany-austins-soul-steeped-jazz-celebrates-black-resilience
+  - 'https://sanjosejazz.org/events/tiffany-austin/'
+  - 'https://www.csun.edu/node/233761'
+  - >-
+    https://www.sfjazz.org/athome/education/family-matinees/tiffany-austin-music-is-the-magic/
 spotify_data:
   followers: 798
   id: 71D3O4Y0iCt9rFyw2g5lLS
   popularity: 14
-  url: https://open.spotify.com/artist/71D3O4Y0iCt9rFyw2g5lLS
+  url: 'https://open.spotify.com/artist/71D3O4Y0iCt9rFyw2g5lLS'
 status: active
 title: Tiffany Austin
+artist_type: person
 ---
 
 ![](tiffany_austin.jpg)

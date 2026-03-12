@@ -1,17 +1,17 @@
 ---
-title: william devaughn
+title: William DeVaughn
 wiki_slug: william-devaughn
 schema_version: 2
 status: active
-birth_place: Washington, D.C., United States
+birth_place: 'Washington, D.C., United States'
 genres:
-- philly soul
-- soul
+  - philly soul
+  - soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/william_devaughn.jpg
   caption: william devaughn
   background: solo_singer
-  origin: Washington, D.C., United States
+  origin: 'Washington, D.C., United States'
 audio_profile:
   tempo_avg: 112.9
   energy_avg: 0.503
@@ -19,7 +19,7 @@ audio_profile:
   danceability_avg: 0.688
   acousticness_avg: 0.433
   instrumentalness_avg: 0.123
-  loudness_avg: -13.0
+  loudness_avg: -13
   speechiness_avg: 0.062
   liveness_avg: 0.178
   track_count: 49
@@ -27,53 +27,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Frank Fioravanti
-  - John Davis
-  - MFSB (Norman Harris, Earl Young, Ron Baker, Vince Montana)
-  - Steve Wade
-  - Leon MacManus
+    - Frank Fioravanti
+    - John Davis
+    - 'MFSB (Norman Harris, Earl Young, Ron Baker, Vince Montana)'
+    - Steve Wade
+    - Leon MacManus
   influenced:
-  - Ludacris
-  - N.W.A.
-  - Ice Cube
-  - Yo Gotti
+    - Ludacris
+    - N.W.A.
+    - Ice Cube
+    - Yo Gotti
   mentors:
-  - Curtis Mayfield
-  - The Impressions
+    - Curtis Mayfield
+    - The Impressions
 spotify_data:
   followers: 43609
   id: 1l51Sc9HBh8fLXUDEjFhxU
   popularity: 41
-  url: https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU
+  url: 'https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU'
 discography_enriched: true
 top_tracks:
-- Be Thankful for What You've Got - David Todd Remix (Radio Edit) (Be Thankful for What You Got)
-- Be Thankful for What You Got (Be Thankful for What You Got)
-- Figures Can't Calculate (The Love I Have for You) (Be Thankful for What You Got)
-- Be Thankful for What You Got (70's Pop Gems)
-- Be Thankful for What You've Got - David Todd Remix (Be Thankful for What You Got)
-- Blood Is Thicker Than Water (Be Thankful for What You Got)
-- Be Thankful for What You Got (70's Soul - Groove Me)
-- Be Thankful for What You Got (Pt. 1) (Be Thankful for What You Got)
-- Be Thankful for What You Got
-- Be Thankful for What You've Got - David Todd Remix
+  - >-
+    Be Thankful for What You've Got - David Todd Remix (Radio Edit) (Be Thankful
+    for What You Got)
+  - Be Thankful for What You Got (Be Thankful for What You Got)
+  - >-
+    Figures Can't Calculate (The Love I Have for You) (Be Thankful for What You
+    Got)
+  - Be Thankful for What You Got (70's Pop Gems)
+  - >-
+    Be Thankful for What You've Got - David Todd Remix (Be Thankful for What You
+    Got)
+  - Blood Is Thicker Than Water (Be Thankful for What You Got)
+  - Be Thankful for What You Got (70's Soul - Groove Me)
+  - Be Thankful for What You Got (Pt. 1) (Be Thankful for What You Got)
+  - Be Thankful for What You Got
+  - Be Thankful for What You've Got - David Todd Remix
 external_urls:
-  spotify: https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU
+  spotify: 'https://open.spotify.com/artist/1l51Sc9HBh8fLXUDEjFhxU'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/william_devaughn.jpg
 biography_enhanced_at: '2025-12-19T01:56:34.392761'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.viberate.com/artist/william-devaughn/
-- https://www.last.fm/music/William+Devaughn/+wiki
-- https://dclmusicians.org/?p=2940
-- https://www.allmusic.com/artist/william-devaughn-mn0000680907
-- https://musicbrainz.org/artist/e547ca1c-f9fb-46fb-aee7-9a300622b513
+  - 'https://www.viberate.com/artist/william-devaughn/'
+  - 'https://www.last.fm/music/William+Devaughn/+wiki'
+  - 'https://dclmusicians.org/?p=2940'
+  - 'https://www.allmusic.com/artist/william-devaughn-mn0000680907'
+  - 'https://musicbrainz.org/artist/e547ca1c-f9fb-46fb-aee7-9a300622b513'
 network_extracted: true
 entry_created: '2025-12-19T01:56:34.392771'
 last_updated: '2025-12-23T08:16:18.148629'
-
+birth_date: '1947-11-28'
+artist_type: person
 ---
 
 ![](william_devaughn.jpg)

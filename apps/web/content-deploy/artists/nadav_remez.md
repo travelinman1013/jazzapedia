@@ -4,14 +4,14 @@ wiki_slug: nadav-remez
 schema_version: 2
 artist_type: person
 status: active
-birth_place: Tel Aviv, Israel
+birth_place: 'Tel Aviv, Israel, United States'
 genres:
-- nu jazz
+  - nu jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/nadav_remez.jpg
   caption: Nadav Remez
   background: solo_singer
-  origin: Tel Aviv, Israel
+  origin: 'Tel Aviv, Israel'
 audio_profile:
   tempo_avg: 112.6
   energy_avg: 0.48
@@ -27,54 +27,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Shai Maestro
-  - James Wylie
-  - Steve Brickman
-  - Avri Borochov
-  - Ziv Ravitz
-  - Itamar Borochov
-  - Myron Walden
-  - Jamey Haddad
+    - Shai Maestro
+    - James Wylie
+    - Steve Brickman
+    - Avri Borochov
+    - Ziv Ravitz
+    - Itamar Borochov
+    - Myron Walden
+    - Jamey Haddad
   influenced: []
   mentors:
-  - Miguel Zénon
-  - Billy Hart
-  - George Garzone
+    - Miguel Zénon
+    - Billy Hart
+    - George Garzone
 spotify_data:
   followers: 249
   id: 3GfGV9v7IMErY0M2vEQxsc
   popularity: 10
-  url: https://open.spotify.com/artist/3GfGV9v7IMErY0M2vEQxsc
+  url: 'https://open.spotify.com/artist/3GfGV9v7IMErY0M2vEQxsc'
 discography_enriched: true
 top_tracks:
-- Inner Peace (So Far)
-- So Far (So Far)
-- The Heroic Era of No Consequences (The Heroic Era of No Consequences)
-- Twilight Hymn (Play Space)
-- Cape Town Swag (Cape Town Swag)
-- Take an Advil (Take an Advil)
-- Take an Advil (Play Space)
-- Cape Town Swag (Play Space)
-- The Heroic Era of No Consequences (Play Space)
-- Soon (Soon)
+  - Inner Peace (So Far)
+  - So Far (So Far)
+  - The Heroic Era of No Consequences (The Heroic Era of No Consequences)
+  - Twilight Hymn (Play Space)
+  - Cape Town Swag (Cape Town Swag)
+  - Take an Advil (Take an Advil)
+  - Take an Advil (Play Space)
+  - Cape Town Swag (Play Space)
+  - The Heroic Era of No Consequences (Play Space)
+  - Soon (Soon)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1cf73c84-7bc4-4ba7-8396-927c16975aa8
-  spotify: https://open.spotify.com/artist/3GfGV9v7IMErY0M2vEQxsc
+  musicbrainz: 'https://musicbrainz.org/artist/1cf73c84-7bc4-4ba7-8396-927c16975aa8'
+  spotify: 'https://open.spotify.com/artist/3GfGV9v7IMErY0M2vEQxsc'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/nadav_remez.jpg
 biography_enhanced_at: '2025-11-08T21:52:02.000302'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://www.bjurecords.com/nadav-remez
-- https://www.allaboutjazz.com/musicians/nadav-remez/
-- https://nadavremez.com/about/
-- https://nadavremez.com/wp-content/uploads/2014/02/Nadav-Remez-Long-bio.pdf
-- https://jazztimes.com/reviews/albums/nadav-remez-so-far/
-- https://www.paris-move.com/reviews/nadav-remez-summit/
-- https://nadavremez.com
-- https://www.seattlepi.com/lifestyle/blogcritics/article/I-Hear-Sparks-Nadav-Remez-So-Far-2133929.php
-- https://www.allaboutjazz.com/summit-nadav-remez-haramaz-music
+  - 'http://www.bjurecords.com/nadav-remez'
+  - 'https://www.allaboutjazz.com/musicians/nadav-remez/'
+  - 'https://nadavremez.com/about/'
+  - 'https://nadavremez.com/wp-content/uploads/2014/02/Nadav-Remez-Long-bio.pdf'
+  - 'https://jazztimes.com/reviews/albums/nadav-remez-so-far/'
+  - 'https://www.paris-move.com/reviews/nadav-remez-summit/'
+  - 'https://nadavremez.com'
+  - >-
+    https://www.seattlepi.com/lifestyle/blogcritics/article/I-Hear-Sparks-Nadav-Remez-So-Far-2133929.php
+  - 'https://www.allaboutjazz.com/summit-nadav-remez-haramaz-music'
 network_extracted: true
 entry_created: '2025-11-08T21:52:02.000317'
 last_updated: '2025-12-23T08:16:13.388964'

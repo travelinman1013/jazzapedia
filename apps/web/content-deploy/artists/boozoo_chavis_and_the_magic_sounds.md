@@ -2,17 +2,18 @@
 title: Boozoo Chavis & The Magic Sounds
 wiki_slug: boozoo-chavis-the-magic-sounds
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- zydeco
-- cajun
+  - zydeco
+  - cajun
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/boozoo_chavis_and_the_magic_sounds.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/boozoo_chavis_and_the_magic_sounds.jpg
   caption: Boozoo Chavis & The Magic Sounds
   background: group_or_band
 audio_profile:
-  tempo_avg: 139.0
+  tempo_avg: 139
   energy_avg: 0.799
   valence_avg: 0.855
   danceability_avg: 0.697
@@ -26,83 +27,94 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Magic Sounds (Majic Sounds)
-  - Maison de Soul label (Floyd Soileau, producer)
-  - Eddie Shuler
+    - The Magic Sounds (Majic Sounds)
+    - 'Maison de Soul label (Floyd Soileau, producer)'
+    - Eddie Shuler
   influenced:
-  - Poncho Chavis
-  - Dog Hill Stompers
-  - Later zydeco musicians and bands
+    - Poncho Chavis
+    - Dog Hill Stompers
+    - Later zydeco musicians and bands
   mentors:
-  - Ambrose “Potato” Sam
+    - Ambrose “Potato” Sam
 spotify_data:
   followers: 963
   id: 6jVNUhgWoitJUJLW4z3uXn
   popularity: 10
-  url: https://open.spotify.com/artist/6jVNUhgWoitJUJLW4z3uXn
+  url: 'https://open.spotify.com/artist/6jVNUhgWoitJUJLW4z3uXn'
 discography_enriched: true
 top_tracks:
-- Uncle Bud (Who Stole My Monkey?)
-- Who Stole My Monkey? (Who Stole My Monkey?)
-- Lula Lula Don't You Go To Bingo (Boozoo, That's Who!)
-- I Went To The Dance (Who Stole My Monkey?)
-- Ay, Cayenne (Who Stole My Monkey?)
-- Deacon Jones (Who Stole My Monkey?)
-- Paper In My Shoe - Live At The Habibi Temple, Lake Charles, LA / 9-19-1993 (Live! At The Habibi Temple)
-- Dance All Night (Who Stole My Monkey?)
-- Suzy Q - Live At The Habibi Temple, Lake Charles, LA / 9-19-1993 (Live! At The Habibi Temple)
-- Motor Dude Special - Live At The Habibi Temple, Lake Charles, LA / 9-19-1993 (Live! At The Habibi Temple)
+  - Uncle Bud (Who Stole My Monkey?)
+  - Who Stole My Monkey? (Who Stole My Monkey?)
+  - 'Lula Lula Don''t You Go To Bingo (Boozoo, That''s Who!)'
+  - I Went To The Dance (Who Stole My Monkey?)
+  - 'Ay, Cayenne (Who Stole My Monkey?)'
+  - Deacon Jones (Who Stole My Monkey?)
+  - >-
+    Paper In My Shoe - Live At The Habibi Temple, Lake Charles, LA / 9-19-1993
+    (Live! At The Habibi Temple)
+  - Dance All Night (Who Stole My Monkey?)
+  - >-
+    Suzy Q - Live At The Habibi Temple, Lake Charles, LA / 9-19-1993 (Live! At
+    The Habibi Temple)
+  - >-
+    Motor Dude Special - Live At The Habibi Temple, Lake Charles, LA / 9-19-1993
+    (Live! At The Habibi Temple)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/de195e40-53e4-472c-880b-670ea4971273
-  spotify: https://open.spotify.com/artist/6jVNUhgWoitJUJLW4z3uXn
-  wikipedia: https://en.wikipedia.org/wiki/Boozoo_Chavis
-image_path: 03_Resources/source_material/ArtistPortraits/boozoo_chavis_and_the_magic_sounds.jpg
+  musicbrainz: 'https://musicbrainz.org/artist/de195e40-53e4-472c-880b-670ea4971273'
+  spotify: 'https://open.spotify.com/artist/6jVNUhgWoitJUJLW4z3uXn'
+  wikipedia: 'https://en.wikipedia.org/wiki/Boozoo_Chavis'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/boozoo_chavis_and_the_magic_sounds.jpg
 biography_enhanced_at: '2025-12-10T05:26:20.177661'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Boozoo_Chavis
-- https://kids.kiddle.co/Boozoo_Chavis
-- https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/boozoo1.htm.html
-- http://www.mastersoftraditionalarts.org/artists/59?selected_facets=tradition_exact%3AAccordionist
-- http://www.cajunzydeco.net/journal/wilson-boozoo-chavis-1930-2001
-- https://www.iheart.com/artist/boozoo-chavis-59662/
+  - 'https://en.wikipedia.org/wiki/Boozoo_Chavis'
+  - 'https://kids.kiddle.co/Boozoo_Chavis'
+  - >-
+    https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/boozoo1.htm.html
+  - >-
+    http://www.mastersoftraditionalarts.org/artists/59?selected_facets=tradition_exact%3AAccordionist
+  - 'http://www.cajunzydeco.net/journal/wilson-boozoo-chavis-1930-2001'
+  - 'https://www.iheart.com/artist/boozoo-chavis-59662/'
 network_extracted: true
 entry_created: '2025-12-10T05:26:20.177669'
 last_updated: '2025-12-23T08:16:05.953607'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2d1f0b75-a0c8-43e2-812c-653c89cca14f
-  name: Classie Ballou, Jr.
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f10aa2b0-47c8-44a0-83a5-a93d61ef5c63
-  name: Boozoo Chavis
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0bb651e6-8b59-49c8-a06e-619a028c74e1
-  name: Charles Chavis
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4e5b1200-9cf0-470c-bca5-a8b4c26c527f
-  name: Rellis Chavis
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d2d5b58b-5f98-466b-83e7-ca30b905f0f5
-  name: Nathan Fontenot
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b65f595e-31fe-43ad-8850-d6d4bb61a174
-  name: Carlton "Guitar" Thomas
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2d1f0b75-a0c8-43e2-812c-653c89cca14f
+    name: 'Classie Ballou, Jr.'
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f10aa2b0-47c8-44a0-83a5-a93d61ef5c63
+    name: Boozoo Chavis
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0bb651e6-8b59-49c8-a06e-619a028c74e1
+    name: Charles Chavis
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4e5b1200-9cf0-470c-bca5-a8b4c26c527f
+    name: Rellis Chavis
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d2d5b58b-5f98-466b-83e7-ca30b905f0f5
+    name: Nathan Fontenot
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b65f595e-31fe-43ad-8850-d6d4bb61a174
+    name: Carlton "Guitar" Thomas
 musicbrainz_id: de195e40-53e4-472c-880b-670ea4971273
-origin: Dog Hill (Pied des Chiens), near Lake Charles, Louisiana, United States
+origin: 'Dog Hill (Pied des Chiens), near Lake Charles, Louisiana, United States'
+birth_place: 'Dog Hill (Pied des Chiens), Louisiana, United States'
+birth_date: '1930-10-23'
 ---
 
 ![](boozoo_chavis_and_the_magic_sounds.jpg)

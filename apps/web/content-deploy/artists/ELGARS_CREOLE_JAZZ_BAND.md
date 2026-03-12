@@ -1,11 +1,11 @@
 ---
-title: ELGAR'S CREOLE JAZZ BAND
+title: Elgar's Creole Jazz Band
 wiki_slug: elgars-creole-jazz-band
 schema_version: 2
 status: active
 genres:
-- ragtime
-- jazz
+  - ragtime
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ELGARS_CREOLE_JAZZ_BAND.jpg
   caption: ELGAR'S CREOLE JAZZ BAND
@@ -25,50 +25,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Manuel Perez
-  - Joe Sudler
-  - Darnell Howard
-  - Lorenzo Tio
-  - Louis Cottrell, Jr.
-  - Barney Bigard
-  - Omer Simeon
-  - Ben Thigpen
-  - Harry Swift
-  - Lawson Buford
+    - Manuel Perez
+    - Joe Sudler
+    - Darnell Howard
+    - Lorenzo Tio
+    - 'Louis Cottrell, Jr.'
+    - Barney Bigard
+    - Omer Simeon
+    - Ben Thigpen
+    - Harry Swift
+    - Lawson Buford
   influenced: []
   mentors: []
 spotify_data:
   followers: 12299
   id: 08Zk65toyJllap1MnzljxZ
   popularity: 17
-  url: https://open.spotify.com/artist/08Zk65toyJllap1MnzljxZ
+  url: 'https://open.spotify.com/artist/08Zk65toyJllap1MnzljxZ'
 discography_enriched: true
 top_tracks:
-- Dippermouth Blues (Louis Armstrong And King Oliver)
-- Canal Street Blues (Louis Armstrong And King Oliver)
-- Alligator Hop (Louis Armstrong And King Oliver)
-- Snake Rag (Louis Armstrong And King Oliver)
-- Just Gone (Louis Armstrong And King Oliver)
-- 'Tears (Louis Armstrong: Portrait Of The Artist As A Young Man 1923-1934)'
-- Mandy Lee Blues (Louis Armstrong And King Oliver)
-- Dipper Mouth Blues (King of the Blues Clarinet 1923 - 1940)
-- Chimes Blues (Louis Armstrong And King Oliver)
-- Froggie Moore (Louis Armstrong And King Oliver)
+  - Dippermouth Blues (Louis Armstrong And King Oliver)
+  - Canal Street Blues (Louis Armstrong And King Oliver)
+  - Alligator Hop (Louis Armstrong And King Oliver)
+  - Snake Rag (Louis Armstrong And King Oliver)
+  - Just Gone (Louis Armstrong And King Oliver)
+  - 'Tears (Louis Armstrong: Portrait Of The Artist As A Young Man 1923-1934)'
+  - Mandy Lee Blues (Louis Armstrong And King Oliver)
+  - Dipper Mouth Blues (King of the Blues Clarinet 1923 - 1940)
+  - Chimes Blues (Louis Armstrong And King Oliver)
+  - Froggie Moore (Louis Armstrong And King Oliver)
 external_urls:
-  spotify: https://open.spotify.com/artist/08Zk65toyJllap1MnzljxZ
-  wikipedia: https://en.wikipedia.org/wiki/Charlie_Elgar
+  spotify: 'https://open.spotify.com/artist/08Zk65toyJllap1MnzljxZ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Charlie_Elgar'
 image_path: 03_Resources/source_material/ArtistPortraits/ELGARS_CREOLE_JAZZ_BAND.jpg
 biography_enhanced_at: '2025-10-20T09:17:41.392436'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Charlie_Elgar
-- https://syncopatedtimes.com/elgars-creole-orchestra/
-- https://veritenews.org/2024/09/13/bitd-emanuel-manuel-perez-jazz-cornet/
+  - 'https://en.wikipedia.org/wiki/Charlie_Elgar'
+  - 'https://syncopatedtimes.com/elgars-creole-orchestra/'
+  - 'https://veritenews.org/2024/09/13/bitd-emanuel-manuel-perez-jazz-cornet/'
 network_extracted: true
 entry_created: '2025-10-20T09:17:41.392448'
 last_updated: '2025-12-23T08:16:01.826371'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+birth_place: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](ELGARS_CREOLE_JAZZ_BAND.jpg)

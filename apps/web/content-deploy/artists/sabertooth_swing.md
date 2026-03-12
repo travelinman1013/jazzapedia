@@ -2,10 +2,10 @@
 title: Sabertooth Swing
 wiki_slug: sabertooth-swing
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 genres:
-- swing music
+  - swing music
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sabertooth_swing.jpg
   caption: Sabertooth Swing
@@ -25,61 +25,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Romain Beauxis
-  - Chris Butcher
-  - Holly Devon
-  - Sister Helen Prejean
-  - Bruce 'Sunpie' Barnes
-  - Jeffery Broussard
-  - Cedric Watson
-  - Paul Chéenne
-  - The Daiquiri Queens
-  - Zachary Richard
-  - Kid Chocolate
-  - Daiquiri René Jones
-  - Big Queen Mary Kay of the Original Wild Tchoupitoulas
+    - Romain Beauxis
+    - Chris Butcher
+    - Holly Devon
+    - Sister Helen Prejean
+    - Bruce 'Sunpie' Barnes
+    - Jeffery Broussard
+    - Cedric Watson
+    - Paul Chéenne
+    - The Daiquiri Queens
+    - Zachary Richard
+    - Kid Chocolate
+    - Daiquiri René Jones
+    - Big Queen Mary Kay of the Original Wild Tchoupitoulas
   influenced: []
   mentors:
-  - Buddy Bolden
+    - Buddy Bolden
 spotify_data:
   followers: 3548
   id: 0dSO94s3m6FljRt8w7HCxi
   popularity: 5
-  url: https://open.spotify.com/artist/0dSO94s3m6FljRt8w7HCxi
+  url: 'https://open.spotify.com/artist/0dSO94s3m6FljRt8w7HCxi'
 discography_enriched: true
 top_tracks:
-- La Chanson de Mardi Gras (Kids World Playground by Putumayo)
-- Chocolate Jesus (Songs of Future Past)
-- Je m'suis fait tout petit / Back to Black (Extinct Possibilities)
-- Blues Skies (Songs of Future Past)
-- La chanson de mardi gras (Delta Bound)
-- Alcohol (Extinct Possibilities)
-- Nuages (Delta Bound)
-- I'm On The Wonder (Delta Bound)
-- Frankie & Johnny (Songs of Future Past)
-- Atlanta Blues (Songs of Future Past)
+  - La Chanson de Mardi Gras (Kids World Playground by Putumayo)
+  - Chocolate Jesus (Songs of Future Past)
+  - Je m'suis fait tout petit / Back to Black (Extinct Possibilities)
+  - Blues Skies (Songs of Future Past)
+  - La chanson de mardi gras (Delta Bound)
+  - Alcohol (Extinct Possibilities)
+  - Nuages (Delta Bound)
+  - I'm On The Wonder (Delta Bound)
+  - Frankie & Johnny (Songs of Future Past)
+  - Atlanta Blues (Songs of Future Past)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8c691730-a3d2-4145-a53f-7d1f4cd90e10
-  spotify: https://open.spotify.com/artist/0dSO94s3m6FljRt8w7HCxi
+  musicbrainz: 'https://musicbrainz.org/artist/8c691730-a3d2-4145-a53f-7d1f4cd90e10'
+  spotify: 'https://open.spotify.com/artist/0dSO94s3m6FljRt8w7HCxi'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/sabertooth_swing.jpg
 biography_enhanced_at: '2025-11-08T21:52:57.591206'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://sabertoothswing.org
-- https://sabertoothswing.bandcamp.com
-- https://www.wewriteaboutmusic.com/reviews/sabertooth-swing-delta-bound
-- https://fairground-records.com/sabertoothswing
-- https://www.offbeat.com/music/sabertooth-swing-delta-bound-fairground-records/
-- https://www.putumayo.com/sabertoothswing
-- https://rockeramagazine.com/album-delta-bound-by-sabertooth-swing/
+  - 'https://sabertoothswing.org'
+  - 'https://sabertoothswing.bandcamp.com'
+  - 'https://www.wewriteaboutmusic.com/reviews/sabertooth-swing-delta-bound'
+  - 'https://fairground-records.com/sabertoothswing'
+  - >-
+    https://www.offbeat.com/music/sabertooth-swing-delta-bound-fairground-records/
+  - 'https://www.putumayo.com/sabertoothswing'
+  - 'https://rockeramagazine.com/album-delta-bound-by-sabertooth-swing/'
 network_extracted: true
 entry_created: '2025-11-08T21:52:57.591222'
 last_updated: '2025-12-23T08:16:15.252623'
-disambiguation: Jazz, cajun, creole group
+disambiguation: 'Jazz, cajun, creole group'
 musicbrainz_id: 8c691730-a3d2-4145-a53f-7d1f4cd90e10
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](sabertooth_swing.jpg)

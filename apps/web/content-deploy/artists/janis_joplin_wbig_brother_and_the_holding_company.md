@@ -1,43 +1,48 @@
 ---
 biography_enhanced_at: '2026-01-20T01:23:05.166963'
-birth_place: Port Arthur, Texas, United States (birthplace); San Francisco, California,
+birth_place: >-
+  Port Arthur, Texas, United States (birthplace); San Francisco, California,
   United States (where she rose to prominence)
 enhancement_provider: perplexity
 entry_created: '2026-01-20T01:23:05.166969'
 external_urls:
-  spotify: https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo
-  wikipedia: https://en.wikipedia.org/wiki/Janis_Joplin
+  spotify: 'https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo'
+  wikipedia: 'https://en.wikipedia.org/wiki/Janis_Joplin'
 genres:
-- psychedelic rock
-- acid rock
-image_path: 03_Resources/source_material/ArtistPortraits/janis_joplin_wbig_brother_and_the_holding_company.jpg
+  - psychedelic rock
+  - acid rock
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/janis_joplin_wbig_brother_and_the_holding_company.jpg
 last_updated: '2026-01-20T01:23:05.166970'
 musical_connections:
   collaborators:
-  - Peter Albin
-  - Sam Andrew
-  - David Getz
-  - James Gurley
-  - Chet Helms
-  - Albert Grossman
+    - Peter Albin
+    - Sam Andrew
+    - David Getz
+    - James Gurley
+    - Chet Helms
+    - Albert Grossman
   influenced: []
   mentors:
-  - Big Mama Thornton
+    - Big Mama Thornton
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Janis_Joplin
-- https://www.bbhc.com/history/
-- https://en.wikipedia.org/wiki/Big_Brother_%26_the_Holding_Company_(album)
-- https://www.st94.com/events/big-brother-the-holding-company-2/
-- https://janisjoplin.com/biography/
+  - 'https://en.wikipedia.org/wiki/Janis_Joplin'
+  - 'https://www.bbhc.com/history/'
+  - 'https://en.wikipedia.org/wiki/Big_Brother_%26_the_Holding_Company_(album)'
+  - 'https://www.st94.com/events/big-brother-the-holding-company-2/'
+  - 'https://janisjoplin.com/biography/'
 spotify_data:
   followers: 334015
   id: 4J69yWrKwWJgjv3DKTZcGo
   popularity: 54
-  url: https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo
+  url: 'https://open.spotify.com/artist/4J69yWrKwWJgjv3DKTZcGo'
 status: active
-title: JANIS JOPLIN W/BIG BROTHER AND THE HOLDING COMPANY
+title: Janis Joplin W/Big Brother and the Holding Company
+origin: 'San Francisco, California, United States'
+birth_date: '1943'
+artist_type: person
 ---
 
 ![](janis_joplin_wbig_brother_and_the_holding_company.jpg)

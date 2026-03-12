@@ -1,20 +1,20 @@
 ---
-title: HARMONICA FRANK FLOYD
+title: Harmonica Frank Floyd
 wiki_slug: harmonica-frank-floyd
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1908-10-11'
-birth_place: Toccopola, Mississippi, United States
+birth_place: 'Toccopola, Mississippi, United States'
 death_date: '1984-08-07'
 genres:
-- rockabilly
+  - rockabilly
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/HARMONICA_FRANK_FLOYD.jpg
   caption: HARMONICA FRANK FLOYD
   background: solo_singer
   born: '1908-10-11'
-  origin: Toccopola, Mississippi, United States
+  origin: 'Toccopola, Mississippi, United States'
   died: '1984-08-07'
 audio_profile:
   tempo_avg: 109.2
@@ -31,50 +31,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Larry Kennon
-  - Stephen C. LaVere
+    - Larry Kennon
+    - Stephen C. LaVere
   influenced:
-  - Greil Marcus
-  - Rockabilly and blues revival musicians
+    - Greil Marcus
+    - Rockabilly and blues revival musicians
   mentors:
-  - DeFord Bailey
-  - Jimmie Rodgers
+    - DeFord Bailey
+    - Jimmie Rodgers
 spotify_data:
   followers: 336
   id: 5oZ65bJfiWEshy8srr5tSI
   popularity: 1
-  url: https://open.spotify.com/artist/5oZ65bJfiWEshy8srr5tSI
+  url: 'https://open.spotify.com/artist/5oZ65bJfiWEshy8srr5tSI'
 discography_enriched: true
 top_tracks:
-- Rock A Little Baby (Memphis Rockabillies, Hillbillies & Honky Tonkers, Vol 2)
-- Rocking Chair Daddy (The Missing Link)
-- Swamp Root (The Missing Link)
-- Rockin' Chair Daddy (Rock N Roll Rarities, Vol. 6)
-- Rockin' Chair Daddy (Remastered 2014) (Absolute Classic Rockabilly (Remastered))
-- Rockin' Chair Daddy (Rockabilly Magic)
-- Rockin' Chair Daddy
-- Rock a Little Baby (Roll on Rockabilly)
-- Swamp Root (Country box Vol.1 Memphis Bounce)
-- Goin' Away Walkin' (Country box Vol.1 Memphis Bounce)
+  - >-
+    Rock A Little Baby (Memphis Rockabillies, Hillbillies & Honky Tonkers, Vol
+    2)
+  - Rocking Chair Daddy (The Missing Link)
+  - Swamp Root (The Missing Link)
+  - 'Rockin'' Chair Daddy (Rock N Roll Rarities, Vol. 6)'
+  - >-
+    Rockin' Chair Daddy (Remastered 2014) (Absolute Classic Rockabilly
+    (Remastered))
+  - Rockin' Chair Daddy (Rockabilly Magic)
+  - Rockin' Chair Daddy
+  - Rock a Little Baby (Roll on Rockabilly)
+  - Swamp Root (Country box Vol.1 Memphis Bounce)
+  - Goin' Away Walkin' (Country box Vol.1 Memphis Bounce)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/26b0d3e2-fb11-4e4e-96ba-c009e6178a78
-  spotify: https://open.spotify.com/artist/5oZ65bJfiWEshy8srr5tSI
-  wikipedia: https://en.wikipedia.org/wiki/Harmonica_Frank
+  musicbrainz: 'https://musicbrainz.org/artist/26b0d3e2-fb11-4e4e-96ba-c009e6178a78'
+  spotify: 'https://open.spotify.com/artist/5oZ65bJfiWEshy8srr5tSI'
+  wikipedia: 'https://en.wikipedia.org/wiki/Harmonica_Frank'
 image_path: 03_Resources/source_material/ArtistPortraits/HARMONICA_FRANK_FLOYD.jpg
 biography_enhanced_at: '2025-10-21T06:58:19.018245'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://fromthevaults-boppinbob.blogspot.com/2024/10/harmonica-frank-floyd-born-11-october.html
-- https://en.wikipedia.org/wiki/Harmonica_Frank
-- https://www.bear-family.com/floyd-harmonica-frank/
-- https://frankhudson.org/2019/09/24/the-testimony-of-harmonica-frank-floyd/
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2024/10/harmonica-frank-floyd-born-11-october.html
+  - 'https://en.wikipedia.org/wiki/Harmonica_Frank'
+  - 'https://www.bear-family.com/floyd-harmonica-frank/'
+  - 'https://frankhudson.org/2019/09/24/the-testimony-of-harmonica-frank-floyd/'
 network_extracted: true
 entry_created: '2025-10-21T06:58:19.018260'
 last_updated: '2025-12-23T08:16:02.178801'
 gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:28:27.957450'
 musicbrainz_id: 26b0d3e2-fb11-4e4e-96ba-c009e6178a78
+is_active: false
 ---
 
 ![](HARMONICA_FRANK_FLOYD.jpg)

@@ -1,46 +1,49 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-01-06T02:01:46.854476'
-birth_date: '2013'
+birth_date: '1994-09-06'
 disambiguation: speed metal
 enhancement_provider: perplexity
 entry_created: '2026-01-06T02:01:46.854481'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/39d26116-ed03-400a-92de-ccad6e785b2f
-  spotify: https://open.spotify.com/artist/38eUVFRyGFT6VnEbaFRScQ
+  musicbrainz: 'https://musicbrainz.org/artist/39d26116-ed03-400a-92de-ccad6e785b2f'
+  spotify: 'https://open.spotify.com/artist/38eUVFRyGFT6VnEbaFRScQ'
   wikipedia: null
 genres:
-- sludge metal
-- doom metal
+  - sludge metal
+  - doom metal
 image_path: 03_Resources/source_material/ArtistPortraits/conjure.jpg
 last_updated: '2026-01-06T02:01:46.854482'
 musical_connections:
   collaborators:
-  - Pijn
-  - Rivers of Nihil
-  - Voivod
-  - Conan
-  - Will Haven
+    - Pijn
+    - Rivers of Nihil
+    - Voivod
+    - Conan
+    - Will Haven
   influenced: []
   mentors:
-  - Lewis Johns
-  - Brady Deeprose's Father
+    - Lewis Johns
+    - Brady Deeprose's Father
 musicbrainz_id: 39d26116-ed03-400a-92de-ccad6e785b2f
 network_extracted: true
-origin: Midlands, England, United Kingdom (band origin); Daventry, Northamptonshire, England, United Kingdom (Brady Deeprose birthplace)
+origin: >-
+  Midlands, England, United Kingdom (band origin); Daventry, Northamptonshire,
+  England, United Kingdom (Brady Deeprose birthplace)
 primary_source: perplexity
 research_sources:
-- https://heavymusichq.com/meet-band-conjurer/
-- https://www.loudersound.com/features/conjurer-the-band-dragging-british-metal-into-a-new-era-of-heavy
-- https://www.nuclearblast.com/pages/conjurer
+  - 'https://heavymusichq.com/meet-band-conjurer/'
+  - >-
+    https://www.loudersound.com/features/conjurer-the-band-dragging-british-metal-into-a-new-era-of-heavy
+  - 'https://www.nuclearblast.com/pages/conjurer'
 spotify_data:
   followers: 43166
   id: 38eUVFRyGFT6VnEbaFRScQ
   popularity: 34
-  url: https://open.spotify.com/artist/38eUVFRyGFT6VnEbaFRScQ
+  url: 'https://open.spotify.com/artist/38eUVFRyGFT6VnEbaFRScQ'
 status: active
 title: Conjure
-
+birth_place: 'Daventry, Northamptonshire, United Kingdom'
 ---
 
 ![](conjure.jpg)

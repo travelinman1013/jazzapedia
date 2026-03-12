@@ -4,13 +4,13 @@ wiki_slug: astral-project
 schema_version: 2
 status: active
 genres:
-- breakcore
+  - breakcore
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Astral_Project.jpg
   caption: Astral Project
   background: solo_singer
 audio_profile:
-  tempo_avg: 131.0
+  tempo_avg: 131
   energy_avg: 0.718
   valence_avg: 0.279
   danceability_avg: 0.543
@@ -24,45 +24,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tony Dagradi
-  - Johnny Vidacovich
-  - James Singleton
-  - Steve Masakowski
+    - Tony Dagradi
+    - Johnny Vidacovich
+    - James Singleton
+    - Steve Masakowski
   influenced:
-  - New Orleans Jazz Scene
+    - New Orleans Jazz Scene
   mentors:
-  - Bobby McFerrin
+    - Bobby McFerrin
 spotify_data:
   followers: 2765
   id: 5tfwIZQThiyBolYB1w0pyN
   popularity: 21
-  url: https://open.spotify.com/artist/5tfwIZQThiyBolYB1w0pyN
+  url: 'https://open.spotify.com/artist/5tfwIZQThiyBolYB1w0pyN'
 discography_enriched: true
 top_tracks:
-- La la La (Siren) (La la La (Siren))
-- AAAAAAAAAAAAAAAAAAAAAA (AAAAAAAAAAAAAAAAAAAAAA)
-- plastic (Haunted Ballads)
-- 2016 (2016)
-- eyes bootleg (spazzteam witch party (disc 2))
-- punk band (punk band)
-- without you (without you)
-- Angel (Angel)
-- starry night (Haunted Ballads)
-- Angel (Slowed + Reverb) (Angel)
+  - La la La (Siren) (La la La (Siren))
+  - AAAAAAAAAAAAAAAAAAAAAA (AAAAAAAAAAAAAAAAAAAAAA)
+  - plastic (Haunted Ballads)
+  - 2016 (2016)
+  - eyes bootleg (spazzteam witch party (disc 2))
+  - punk band (punk band)
+  - without you (without you)
+  - Angel (Angel)
+  - starry night (Haunted Ballads)
+  - Angel (Slowed + Reverb) (Angel)
 external_urls:
-  spotify: https://open.spotify.com/artist/5tfwIZQThiyBolYB1w0pyN
-  wikipedia: https://en.wikipedia.org/wiki/Astral_Project
+  spotify: 'https://open.spotify.com/artist/5tfwIZQThiyBolYB1w0pyN'
+  wikipedia: 'https://en.wikipedia.org/wiki/Astral_Project'
 image_path: 03_Resources/source_material/ArtistPortraits/Astral_Project.jpg
 biography_enhanced_at: '2025-10-21T06:35:00.915926'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Astral_Project
-- https://compassrecords.com/artist/astral-project/
+  - 'https://en.wikipedia.org/wiki/Astral_Project'
+  - 'https://compassrecords.com/artist/astral-project/'
 network_extracted: true
 entry_created: '2025-10-21T06:35:00.915939'
 last_updated: '2025-12-23T08:16:01.075513'
-origin: New Orleans, Louisiana, USA
+origin: 'New Orleans, Louisiana, USA'
+artist_type: band
 ---
 
 ![](Astral_Project.jpg)

@@ -3,20 +3,20 @@ title: Carol Bebelle
 wiki_slug: carol-bebelle
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/carol_bebelle.jpg
   caption: Carol Bebelle
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 112.9
   energy_avg: 0.462
   valence_avg: 0.502
   danceability_avg: 0.51
   acousticness_avg: 0.393
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -8.9
   speechiness_avg: 0.065
   liveness_avg: 0.226
@@ -25,42 +25,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Doug (Co-founder of Ashé Cultural Arts Center)
+    - Doug (Co-founder of Ashé Cultural Arts Center)
   influenced: []
   mentors:
-  - Grandfather (Minister)
+    - Grandfather (Minister)
 spotify_data:
   followers: 10
   id: 15Cry0Vkc37INpujC4UQKH
   popularity: 0
-  url: https://open.spotify.com/artist/15Cry0Vkc37INpujC4UQKH
+  url: 'https://open.spotify.com/artist/15Cry0Vkc37INpujC4UQKH'
 discography_enriched: true
 top_tracks:
-- My Dear New Orleans (Her Name Is New Orleans)
-- My Dear New Orleans (The Healing Force (Ashe Cultural Arts Center Presents))
-- 2020 Blues (Medicine Bag)
-- I'm Here (Medicine Bag)
-- Arise (Medicine Bag)
-- Little Pieces (Medicine Bag)
-- Joy in the Moment (Medicine Bag)
-- Don't Forget to Pray (Medicine Bag)
-- We Give Thanks (Medicine Bag)
-- Medicine Bag (Medicine Bag)
+  - My Dear New Orleans (Her Name Is New Orleans)
+  - My Dear New Orleans (The Healing Force (Ashe Cultural Arts Center Presents))
+  - 2020 Blues (Medicine Bag)
+  - I'm Here (Medicine Bag)
+  - Arise (Medicine Bag)
+  - Little Pieces (Medicine Bag)
+  - Joy in the Moment (Medicine Bag)
+  - Don't Forget to Pray (Medicine Bag)
+  - We Give Thanks (Medicine Bag)
+  - Medicine Bag (Medicine Bag)
 external_urls:
-  spotify: https://open.spotify.com/artist/15Cry0Vkc37INpujC4UQKH
+  spotify: 'https://open.spotify.com/artist/15Cry0Vkc37INpujC4UQKH'
   wikipedia: Not found
 image_path: 03_Resources/source_material/ArtistPortraits/carol_bebelle.jpg
 biography_enhanced_at: '2025-12-04T07:45:22.287472'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.ashenola.org/carol-bebelle
-- https://www.placeloveproject.com/interviews/on-completing-community-narratives/
-- https://64parishes.org/carol-bebelle-champion-of-culture
-- https://veritenews.org/2023/03/13/carol-bebelle-is-a-voice-of-the-community-and-a-cultural-advocate/
+  - 'https://www.ashenola.org/carol-bebelle'
+  - >-
+    https://www.placeloveproject.com/interviews/on-completing-community-narratives/
+  - 'https://64parishes.org/carol-bebelle-champion-of-culture'
+  - >-
+    https://veritenews.org/2023/03/13/carol-bebelle-is-a-voice-of-the-community-and-a-cultural-advocate/
 network_extracted: true
 entry_created: '2025-12-04T07:45:22.287487'
 last_updated: '2025-12-23T08:16:06.499468'
+artist_type: person
 ---
 
 ![](carol_bebelle.jpg)

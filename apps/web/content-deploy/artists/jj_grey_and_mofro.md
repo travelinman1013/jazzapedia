@@ -1,18 +1,18 @@
 ---
-title: JJ grey & mofro
+title: JJ Grey & Mofro
 wiki_slug: jj-grey-mofro
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 birth_date: 1998-02
 genres:
-- modern blues
-- southern rock
-- blues
-- blues rock
+  - modern blues
+  - southern rock
+  - blues
+  - blues rock
 instruments:
-- bass guitar
-- original
+  - bass guitar
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jj_grey_and_mofro.jpg
   caption: JJ grey & mofro
@@ -33,80 +33,80 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Daryl Hance
-  - Dan Prothero
-  - Band members (various)
+    - Daryl Hance
+    - Dan Prothero
+    - Band members (various)
   influenced:
-  - Southern soul and blues-rock artists
+    - Southern soul and blues-rock artists
   mentors:
-  - Booker T. Jones
-  - B.B. King
+    - Booker T. Jones
+    - B.B. King
 spotify_data:
   followers: 203594
   id: 1Jl8u1U1GtBlwocZK5LWZv
   popularity: 51
-  url: https://open.spotify.com/artist/1Jl8u1U1GtBlwocZK5LWZv
+  url: 'https://open.spotify.com/artist/1Jl8u1U1GtBlwocZK5LWZv'
 discography_enriched: true
 top_tracks:
-- Orange Blossoms (Orange Blossoms)
-- The Sweetest Thing (Georgia Warhorse)
-- Beautiful World (Georgia Warhorse)
-- Every Minute (Ol' Glory (Deluxe Edition))
-- Lochloosa (Lochloosa)
-- Dew Drops (Orange Blossoms)
-- Tupelo Honey (The Choice Cuts)
-- Mississippi (Country Ghetto)
-- The Sun Is Shining Down (Country Ghetto)
-- Hide & Seek (Georgia Warhorse)
+  - Orange Blossoms (Orange Blossoms)
+  - The Sweetest Thing (Georgia Warhorse)
+  - Beautiful World (Georgia Warhorse)
+  - Every Minute (Ol' Glory (Deluxe Edition))
+  - Lochloosa (Lochloosa)
+  - Dew Drops (Orange Blossoms)
+  - Tupelo Honey (The Choice Cuts)
+  - Mississippi (Country Ghetto)
+  - The Sun Is Shining Down (Country Ghetto)
+  - Hide & Seek (Georgia Warhorse)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b11d2b63-c6da-4f52-9f62-9a166e2290f3
-  spotify: https://open.spotify.com/artist/1Jl8u1U1GtBlwocZK5LWZv
-  wikipedia: https://en.wikipedia.org/wiki/JJ_Grey_%26_Mofro
+  musicbrainz: 'https://musicbrainz.org/artist/b11d2b63-c6da-4f52-9f62-9a166e2290f3'
+  spotify: 'https://open.spotify.com/artist/1Jl8u1U1GtBlwocZK5LWZv'
+  wikipedia: 'https://en.wikipedia.org/wiki/JJ_Grey_%26_Mofro'
 image_path: 03_Resources/source_material/ArtistPortraits/jj_grey_and_mofro.jpg
 biography_enhanced_at: '2025-11-08T22:03:19.237064'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.jjgrey.com/about
-- https://en.wikipedia.org/wiki/JJ_Grey_%26_Mofro
-- https://www.allaboutjazz.com/musicians/jj-grey-mofro/
-- https://www.visitstaugustine.com/musician/jj-grey-mofro
-- https://gdp.fr/en/artistes/jj-grey-mofro
+  - 'https://www.jjgrey.com/about'
+  - 'https://en.wikipedia.org/wiki/JJ_Grey_%26_Mofro'
+  - 'https://www.allaboutjazz.com/musicians/jj-grey-mofro/'
+  - 'https://www.visitstaugustine.com/musician/jj-grey-mofro'
+  - 'https://gdp.fr/en/artistes/jj-grey-mofro'
 network_extracted: true
 entry_created: '2025-11-08T22:03:19.237080'
 last_updated: '2025-12-23T08:16:10.545412'
 members:
-- &id001
-  begin: '2010'
-  end: ''
-  instruments:
-  - bass guitar
-  mbid: 2fcd2acb-660c-4504-a6ef-6e97ddc2bd8c
-  name: Todd Smallie
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: a058e7a8-c685-4fb3-b051-b2e5c2c99681
-  name: JJ Grey
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ba645990-10bc-45cc-9452-72e5d41b0600
-  name: Daryl Hance
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f19ff514-b0c5-46cb-a885-4bf10c358560
-  name: Marcus Parsley
+  - &ref_0
+    begin: '2010'
+    end: ''
+    instruments:
+      - bass guitar
+    mbid: 2fcd2acb-660c-4504-a6ef-6e97ddc2bd8c
+    name: Todd Smallie
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: a058e7a8-c685-4fb3-b051-b2e5c2c99681
+    name: JJ Grey
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ba645990-10bc-45cc-9452-72e5d41b0600
+    name: Daryl Hance
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f19ff514-b0c5-46cb-a885-4bf10c358560
+    name: Marcus Parsley
 musicbrainz_id: b11d2b63-c6da-4f52-9f62-9a166e2290f3
-origin: Jacksonville
+origin: 'Jacksonville, Florida, United States'
 original_members:
-- *id001
+  - *ref_0
 tags:
-- blues rock
-- funk rock
-- jam band
+  - blues rock
+  - funk rock
+  - jam band
 ---
 
 ![](jj_grey_and_mofro.jpg)

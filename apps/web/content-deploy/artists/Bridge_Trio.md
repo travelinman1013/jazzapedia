@@ -23,47 +23,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Joe Dyson
-  - Max Moran
-  - Conun Pappas
+    - Joe Dyson
+    - Max Moran
+    - Conun Pappas
   influenced: []
   mentors:
-  - Alvin Batiste
-  - Donald Harrison
+    - Alvin Batiste
+    - Donald Harrison
 spotify_data:
   followers: 77
   id: 67mzNTHkuuQROTX4dbEtkq
   popularity: 0
-  url: https://open.spotify.com/artist/67mzNTHkuuQROTX4dbEtkq
+  url: 'https://open.spotify.com/artist/67mzNTHkuuQROTX4dbEtkq'
 discography_enriched: true
 top_tracks:
-- Smoked Eggplant Ravioli (South Lamar Boulevard)
-- Furn Esh Shebbak (South Lamar Boulevard)
-- Banter (South Lamar Boulevard)
-- Free Improvisation (South Lamar Boulevard)
-- Anedònia (South Lamar Boulevard)
-- January 11th (South Lamar Boulevard)
-- Serendipia (South Lamar Boulevard)
-- Loser's Cafe (South Lamar Boulevard)
-- Snails (South Lamar Boulevard)
-- Pau (South Lamar Boulevard)
+  - Smoked Eggplant Ravioli (South Lamar Boulevard)
+  - Furn Esh Shebbak (South Lamar Boulevard)
+  - Banter (South Lamar Boulevard)
+  - Free Improvisation (South Lamar Boulevard)
+  - Anedònia (South Lamar Boulevard)
+  - January 11th (South Lamar Boulevard)
+  - Serendipia (South Lamar Boulevard)
+  - Loser's Cafe (South Lamar Boulevard)
+  - Snails (South Lamar Boulevard)
+  - Pau (South Lamar Boulevard)
 external_urls:
-  spotify: https://open.spotify.com/artist/67mzNTHkuuQROTX4dbEtkq
+  spotify: 'https://open.spotify.com/artist/67mzNTHkuuQROTX4dbEtkq'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/Bridge_Trio.jpg
 biography_enhanced_at: '2025-10-19T11:45:00.645101'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://thebridgetrio.com/bio/
-- https://latinjazznet.com/featured/new-york-report/introducing-the-bridge-trio/
-- https://jazztimes.com/artists/the-bridge-trio/
-- https://www.offbeat.com/music/bridge-trio-search-departure-independent/
-- https://thebridgetrio.com
+  - 'https://thebridgetrio.com/bio/'
+  - >-
+    https://latinjazznet.com/featured/new-york-report/introducing-the-bridge-trio/
+  - 'https://jazztimes.com/artists/the-bridge-trio/'
+  - 'https://www.offbeat.com/music/bridge-trio-search-departure-independent/'
+  - 'https://thebridgetrio.com'
 network_extracted: true
 entry_created: '2025-10-19T11:45:00.645105'
 last_updated: '2025-12-23T08:16:01.370261'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![](Bridge_Trio.jpg)

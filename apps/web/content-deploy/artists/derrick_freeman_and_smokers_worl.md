@@ -1,37 +1,42 @@
 ---
 biography_enhanced_at: '2026-01-07T01:20:48.887624'
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-07T01:20:48.887630'
 external_urls:
-  spotify: https://open.spotify.com/artist/62AukJrqPyQNFbr7nJt6Mw
+  spotify: 'https://open.spotify.com/artist/62AukJrqPyQNFbr7nJt6Mw'
   wikipedia: ''
 genres: []
-image_path: 03_Resources/source_material/ArtistPortraits/derrick_freeman_and_smokers_worl.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/derrick_freeman_and_smokers_worl.jpg
 last_updated: '2026-01-07T01:20:48.887631'
 musical_connections:
   collaborators:
-  - Kermit Ruffins and the BBQ Swingers
-  - Soul Brass Band
-  - Low End Theory Players
+    - Kermit Ruffins and the BBQ Swingers
+    - Soul Brass Band
+    - Low End Theory Players
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://advancementagency.com/derrick-freeman
-- https://soulbrassband.com/soul-brass-band
-- https://www.neworleans.com/listing/derrick-%E2%80%9Csmoker%E2%80%9D-freeman/46364/
-- https://www.wwoz.org/acts/derrick-smoker-freeman
-- https://upful187.podbean.com/e/007-derrick-smoker-soul-brass-bands-derrick-freeman/
-- http://www.louisianaweekly.com/derrick-freeman-cant-judge-a-book/
+  - 'https://advancementagency.com/derrick-freeman'
+  - 'https://soulbrassband.com/soul-brass-band'
+  - >-
+    https://www.neworleans.com/listing/derrick-%E2%80%9Csmoker%E2%80%9D-freeman/46364/
+  - 'https://www.wwoz.org/acts/derrick-smoker-freeman'
+  - >-
+    https://upful187.podbean.com/e/007-derrick-smoker-soul-brass-bands-derrick-freeman/
+  - 'http://www.louisianaweekly.com/derrick-freeman-cant-judge-a-book/'
 spotify_data:
   followers: 38
   id: 62AukJrqPyQNFbr7nJt6Mw
   popularity: 0
-  url: https://open.spotify.com/artist/62AukJrqPyQNFbr7nJt6Mw
+  url: 'https://open.spotify.com/artist/62AukJrqPyQNFbr7nJt6Mw'
 status: active
 title: Derrick Freeman and Smokers Worl
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](derrick_freeman_and_smokers_worl.jpg)

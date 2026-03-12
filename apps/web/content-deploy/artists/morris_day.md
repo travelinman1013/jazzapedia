@@ -1,17 +1,17 @@
 ---
-title: MORRIS DAY
+title: Morris Day
 wiki_slug: morris-day
 schema_version: 2
 status: active
-birth_place: Springfield, Illinois, United States
+birth_place: 'Springfield, Illinois, United States'
 genres:
-- new jack swing
-- funk rock
+  - new jack swing
+  - funk rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/morris_day.jpg
   caption: MORRIS DAY
   background: solo_singer
-  origin: Springfield, Illinois, United States
+  origin: 'Springfield, Illinois, United States'
 audio_profile:
   tempo_avg: 115.2
   energy_avg: 0.68
@@ -27,48 +27,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jerome Benton
-  - Jellybean Johnson
-  - Monte Moir
-  - Jimmy Jam (James Samuel Harris III)
-  - Terry Lewis
-  - Jesse Johnson
+    - Jerome Benton
+    - Jellybean Johnson
+    - Monte Moir
+    - Jimmy Jam (James Samuel Harris III)
+    - Terry Lewis
+    - Jesse Johnson
   influenced: []
   mentors:
-  - Prince Rogers Nelson
+    - Prince Rogers Nelson
 spotify_data:
   followers: 241061
   id: 1L56apXminRPJqnqBN0vhe
   popularity: 29
-  url: https://open.spotify.com/artist/1L56apXminRPJqnqBN0vhe
+  url: 'https://open.spotify.com/artist/1L56apXminRPJqnqBN0vhe'
 discography_enriched: true
 top_tracks:
-- Don't Wait for Me (Color Of Success)
-- Fishnet (Daydreaming)
-- Color of Success (Color Of Success)
-- Jungle Love - Live (It's About Time)
-- Love Sign (Color Of Success)
-- The Oak Tree (Color Of Success)
-- Head Rush (feat. Trinidad Jame$) (Last Call)
-- The Bird - Live (It's About Time)
-- The Character (Color Of Success)
-- Too Much Girl 4 Me (feat. Billy Gibbons) (Too Much Girl 4 Me (feat. Billy Gibbons))
+  - Don't Wait for Me (Color Of Success)
+  - Fishnet (Daydreaming)
+  - Color of Success (Color Of Success)
+  - Jungle Love - Live (It's About Time)
+  - Love Sign (Color Of Success)
+  - The Oak Tree (Color Of Success)
+  - Head Rush (feat. Trinidad Jame$) (Last Call)
+  - The Bird - Live (It's About Time)
+  - The Character (Color Of Success)
+  - >-
+    Too Much Girl 4 Me (feat. Billy Gibbons) (Too Much Girl 4 Me (feat. Billy
+    Gibbons))
 external_urls:
-  spotify: https://open.spotify.com/artist/1L56apXminRPJqnqBN0vhe
-  wikipedia: https://en.wikipedia.org/wiki/Morris_Day
+  spotify: 'https://open.spotify.com/artist/1L56apXminRPJqnqBN0vhe'
+  wikipedia: 'https://en.wikipedia.org/wiki/Morris_Day'
 image_path: 03_Resources/source_material/ArtistPortraits/morris_day.jpg
 biography_enhanced_at: '2025-12-16T04:01:23.101073'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Morris_Day
-- https://www.last.fm/music/Morris+Day/+wiki
-- https://morrisdayentertainment.com/biography/
-- https://blackpast.org/african-american-history/morris-eugene-day-1956/
-- https://floodmagazine.com/85988/in-conversation-morris-day/
+  - 'https://en.wikipedia.org/wiki/Morris_Day'
+  - 'https://www.last.fm/music/Morris+Day/+wiki'
+  - 'https://morrisdayentertainment.com/biography/'
+  - 'https://blackpast.org/african-american-history/morris-eugene-day-1956/'
+  - 'https://floodmagazine.com/85988/in-conversation-morris-day/'
 network_extracted: true
 entry_created: '2025-12-16T04:01:23.101080'
 last_updated: '2025-12-23T08:16:13.294402'
+origin: 'Minneapolis, Minnesota, United States'
+artist_type: person
 ---
 
 ![](morris_day.jpg)

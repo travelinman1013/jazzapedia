@@ -1,106 +1,107 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-01-10T01:20:04.097961'
 birth_date: '1982'
 disambiguation: Noise rock band from San Antonio
 enhancement_provider: perplexity
 entry_created: '2026-01-10T01:20:04.097967'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2339bc21-aa92-4850-86f0-4bb9433910c8
-  spotify: https://open.spotify.com/artist/62BcWP4fzR8axESibNQEhs
-  wikipedia: https://en.wikipedia.org/wiki/Butthole_Surfers
+  musicbrainz: 'https://musicbrainz.org/artist/2339bc21-aa92-4850-86f0-4bb9433910c8'
+  spotify: 'https://open.spotify.com/artist/62BcWP4fzR8axESibNQEhs'
+  wikipedia: 'https://en.wikipedia.org/wiki/Butthole_Surfers'
 genres:
-- noise rock
+  - noise rock
 image_path: 03_Resources/source_material/ArtistPortraits/butthole_surfers.jpg
 instruments:
-- drums (drum set)
+  - drums (drum set)
 last_updated: '2026-01-10T01:20:04.097967'
 members:
-- &id001
-  begin: '1981'
-  end: ''
-  instruments: []
-  mbid: 976549ea-72bb-45ea-9431-3f07b4ed7dc8
-  name: Paul Leary
-- begin: '1983'
-  end: '1989'
-  instruments:
-  - drums (drum set)
-  mbid: 4e998ae8-008c-4e85-8415-7903e9c4e265
-  name: Teresa Taylor
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 326c6c5b-a92d-46b7-94bf-c4492c834d10
-  name: Jeff Coffey
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f275d56b-3601-476f-a4bf-b50892750984
-  name: King Coffey
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6a850f6f-7c58-4ca1-9762-e6c602424a37
-  name: Gibby Haynes
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e72f5512-49b1-498f-98ff-26e3e39322aa
-  name: JD Pinkus
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5453bb91-01fd-4df4-b653-2694f72327b0
-  name: Scott Stevens
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: afdb875c-cca9-4556-87c1-62f635688b13
-  name: Andrew Weiss
+  - &ref_0
+    begin: '1981'
+    end: ''
+    instruments: []
+    mbid: 976549ea-72bb-45ea-9431-3f07b4ed7dc8
+    name: Paul Leary
+  - begin: '1983'
+    end: '1989'
+    instruments:
+      - drums (drum set)
+    mbid: 4e998ae8-008c-4e85-8415-7903e9c4e265
+    name: Teresa Taylor
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 326c6c5b-a92d-46b7-94bf-c4492c834d10
+    name: Jeff Coffey
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f275d56b-3601-476f-a4bf-b50892750984
+    name: King Coffey
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6a850f6f-7c58-4ca1-9762-e6c602424a37
+    name: Gibby Haynes
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e72f5512-49b1-498f-98ff-26e3e39322aa
+    name: JD Pinkus
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5453bb91-01fd-4df4-b653-2694f72327b0
+    name: Scott Stevens
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: afdb875c-cca9-4556-87c1-62f635688b13
+    name: Andrew Weiss
 musical_connections:
   collaborators:
-  - Gibson “Gibby” Haynes
-  - Paul Leary
-  - King Coffey (Jeff Coffey)
-  - Teresa Taylor (Teresa Nervosa)
-  - Jeff Pinkus
-  - Kramer
-  - John Paul Jones
-  - Kathleen Lynch
+    - Gibson “Gibby” Haynes
+    - Paul Leary
+    - King Coffey (Jeff Coffey)
+    - Teresa Taylor (Teresa Nervosa)
+    - Jeff Pinkus
+    - Kramer
+    - John Paul Jones
+    - Kathleen Lynch
   influenced:
-  - 1990s alternative and grunge bands (e.g., Nirvana, broader alt‑rock scene)
-  - Noise rock and experimental punk acts
+    - '1990s alternative and grunge bands (e.g., Nirvana, broader alt‑rock scene)'
+    - Noise rock and experimental punk acts
   mentors:
-  - Dead Kennedys / Jello Biafra
-  - Dada and performance art traditions
+    - Dead Kennedys / Jello Biafra
+    - Dada and performance art traditions
 musicbrainz_id: 2339bc21-aa92-4850-86f0-4bb9433910c8
 network_extracted: true
-origin: San Antonio
+origin: 'San Antonio, Texas, United States'
 original_members:
-- *id001
+  - *ref_0
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Butthole+Surfers/+wiki
-- https://www.texasmonthly.com/arts-entertainment/the-hole-story/
-- https://www.vice.com/en/article/butthole-surfers-feature-2016/
-- https://www.tshaonline.org/handbook/entries/butthole-surfers
-- https://www.redlightmanagement.com/artists/butthole-surfers/
-- https://www.reybee.com/butthole-surfers/
-- https://www.sacurrent.com/music/before-pepper-and-mtv-an-oral-history-of-the-butthole-surfers-san-antonio-years-28070897/
-- https://www.youtube.com/watch?v=COxkLPalkRs
-- https://en.wikipedia.org/wiki/Butthole_Surfers
+  - 'https://www.last.fm/music/Butthole+Surfers/+wiki'
+  - 'https://www.texasmonthly.com/arts-entertainment/the-hole-story/'
+  - 'https://www.vice.com/en/article/butthole-surfers-feature-2016/'
+  - 'https://www.tshaonline.org/handbook/entries/butthole-surfers'
+  - 'https://www.redlightmanagement.com/artists/butthole-surfers/'
+  - 'https://www.reybee.com/butthole-surfers/'
+  - >-
+    https://www.sacurrent.com/music/before-pepper-and-mtv-an-oral-history-of-the-butthole-surfers-san-antonio-years-28070897/
+  - 'https://www.youtube.com/watch?v=COxkLPalkRs'
+  - 'https://en.wikipedia.org/wiki/Butthole_Surfers'
 spotify_data:
   followers: 468538
   id: 62BcWP4fzR8axESibNQEhs
   popularity: 57
-  url: https://open.spotify.com/artist/62BcWP4fzR8axESibNQEhs
+  url: 'https://open.spotify.com/artist/62BcWP4fzR8axESibNQEhs'
 status: active
 tags:
-- acid punk
-- acid rock
-- alternative rock
-title: butthole surfers
+  - acid punk
+  - acid rock
+  - alternative rock
+title: Butthole Surfers
 ---
 
 ![](butthole_surfers.jpg)

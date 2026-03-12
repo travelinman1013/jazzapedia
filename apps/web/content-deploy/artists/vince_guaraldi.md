@@ -5,48 +5,48 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1928-07-17'
-birth_place: San Francisco
+birth_place: 'San Francisco, California, United States'
 death_date: '1976-02-06'
 genres:
-- christmas
+  - christmas
 instruments:
-- original
-- piano
-- electric piano
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - original
   - piano
-  mbid: 744b52c8-509b-4451-abfd-a17d18d4bd1d
-  name: Vince Guaraldi Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5a53d8b8-341c-4ee2-a51a-323929238f67
-  name: Cal Tjader Trio
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: ed6eba88-d9d2-4193-8600-bcc6265e5e53
-  name: Vince Guaraldi Sextet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4aae1c91-8928-4689-92ea-5f89702414b8
-  name: Cal Tjader Sextet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c02bfe55-a114-4021-b54c-0b5f55d9f846
-  name: Cal Tjader Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 37d07222-ae1e-4b7b-8219-a1ce2fe0f5f8
-  name: The Cal Tjader Quintet
+  - electric piano
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - piano
+    mbid: 744b52c8-509b-4451-abfd-a17d18d4bd1d
+    name: Vince Guaraldi Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5a53d8b8-341c-4ee2-a51a-323929238f67
+    name: Cal Tjader Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: ed6eba88-d9d2-4193-8600-bcc6265e5e53
+    name: Vince Guaraldi Sextet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4aae1c91-8928-4689-92ea-5f89702414b8
+    name: Cal Tjader Sextet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c02bfe55-a114-4021-b54c-0b5f55d9f846
+    name: Cal Tjader Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 37d07222-ae1e-4b7b-8219-a1ce2fe0f5f8
+    name: The Cal Tjader Quintet
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/vince_guaraldi.jpg
   caption: Vince Guaraldi
@@ -69,51 +69,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Cal Tjader
-  - Bola Sete
-  - Eddie Duran
-  - Dean Reilly
-  - Woody Herman
+    - Cal Tjader
+    - Bola Sete
+    - Eddie Duran
+    - Dean Reilly
+    - Woody Herman
   influenced:
-  - Larry Vuckovich
-  - David Benoit
-  - George Winston
+    - Larry Vuckovich
+    - David Benoit
+    - George Winston
   mentors:
-  - Oscar Peterson
-  - Bill Evans
-  - Jimmy Yancey
+    - Oscar Peterson
+    - Bill Evans
+    - Jimmy Yancey
 spotify_data:
   followers: 87037
   id: 7gXUrN8vgmVhKVCkw9pavV
   popularity: 60
-  url: https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV
+  url: 'https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV'
 discography_enriched: true
 top_tracks:
-- Skating (The Definitive Vince Guaraldi)
-- The Great Pumpkin Waltz (It's The Great Pumpkin, Charlie Brown (Original Soundtrack Recording))
-- On Green Dolphin Street (In Person)
-- Charlie’s Blues - Alternate (Peanuts Portraits)
-- Ginza Samba - Remastered 1998 (From All Sides (Remastered 1998))
-- Rain, Rain Go Away (Oh Good Grief)
-- Graveyard Theme (It's The Great Pumpkin, Charlie Brown (Original Soundtrack Recording))
-- The Great Pumpkin Waltz (2nd Reprise) / The Great Pumpkin Waltz (3rd Reprise) (It's The Great Pumpkin, Charlie Brown (Original
-  Soundtrack Recording))
-- Thanksgiving Theme
-- Linus And Lucy (It's The Great Pumpkin, Charlie Brown (Original Soundtrack Recording))
+  - Skating (The Definitive Vince Guaraldi)
+  - >-
+    The Great Pumpkin Waltz (It's The Great Pumpkin, Charlie Brown (Original
+    Soundtrack Recording))
+  - On Green Dolphin Street (In Person)
+  - Charlie’s Blues - Alternate (Peanuts Portraits)
+  - Ginza Samba - Remastered 1998 (From All Sides (Remastered 1998))
+  - 'Rain, Rain Go Away (Oh Good Grief)'
+  - >-
+    Graveyard Theme (It's The Great Pumpkin, Charlie Brown (Original Soundtrack
+    Recording))
+  - >-
+    The Great Pumpkin Waltz (2nd Reprise) / The Great Pumpkin Waltz (3rd
+    Reprise) (It's The Great Pumpkin, Charlie Brown (Original Soundtrack
+    Recording))
+  - Thanksgiving Theme
+  - >-
+    Linus And Lucy (It's The Great Pumpkin, Charlie Brown (Original Soundtrack
+    Recording))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/05b5488d-7141-4b21-819b-d4713abf2a98
-  spotify: https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV
-  wikipedia: https://en.wikipedia.org/wiki/Vince_Guaraldi
+  musicbrainz: 'https://musicbrainz.org/artist/05b5488d-7141-4b21-819b-d4713abf2a98'
+  spotify: 'https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV'
+  wikipedia: 'https://en.wikipedia.org/wiki/Vince_Guaraldi'
 image_path: 03_Resources/source_material/ArtistPortraits/vince_guaraldi.jpg
 biography_enhanced_at: '2025-11-01T15:24:08.745619'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://pianowithjonny.com/piano-lessons/vince-guaraldi-jazz-genius-behind-the-peanuts-show/
-- https://en.wikipedia.org/wiki/Vince_Guaraldi
-- http://fivecentsplease.org/dpb/pccbio.html
-- https://orderisda.org/culture/music/jazz-innovator-vince-guaraldi-hit-all-the-right-notes/
-- https://www.openculture.com/2023/12/an-introduction-to-vince-guaraldi-the-jazz-composer-who-created-the-best-christmas-album-ever-a-charlie-brown-christmas.html
+  - >-
+    https://pianowithjonny.com/piano-lessons/vince-guaraldi-jazz-genius-behind-the-peanuts-show/
+  - 'https://en.wikipedia.org/wiki/Vince_Guaraldi'
+  - 'http://fivecentsplease.org/dpb/pccbio.html'
+  - >-
+    https://orderisda.org/culture/music/jazz-innovator-vince-guaraldi-hit-all-the-right-notes/
+  - >-
+    https://www.openculture.com/2023/12/an-introduction-to-vince-guaraldi-the-jazz-composer-who-created-the-best-christmas-album-ever-a-charlie-brown-christmas.html
 network_extracted: true
 entry_created: '2025-11-01T15:24:08.745632'
 last_updated: '2025-12-23T08:16:17.904083'
@@ -121,9 +132,10 @@ disambiguation: pianist
 gender: Male
 musicbrainz_id: 05b5488d-7141-4b21-819b-d4713abf2a98
 tags:
-- bossa nova
-- christmas
-- christmas music
+  - bossa nova
+  - christmas
+  - christmas music
+is_active: false
 ---
 
 ![](vince_guaraldi.jpg)

@@ -2,18 +2,18 @@
 title: Roomful Of Blues
 wiki_slug: roomful-of-blues
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1967'
 genres:
-- boogie-woogie
-- blues
-- blues rock
-- modern blues
-- boogie
+  - boogie-woogie
+  - blues
+  - blues rock
+  - modern blues
+  - boogie
 instruments:
-- trumpet
-- bass
+  - trumpet
+  - bass
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/roomful_of_blues.jpg
   caption: Roomful Of Blues
@@ -34,103 +34,103 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Duke Robillard
-  - Al Copley
-  - Ronnie Earl
-  - Sugar Ray Norcia
-  - Pat Benatar
+    - Duke Robillard
+    - Al Copley
+    - Ronnie Earl
+    - Sugar Ray Norcia
+    - Pat Benatar
   influenced:
-  - The Blues Brothers (John Belushi & Dan Aykroyd)
-  - Curtis Salgado
+    - The Blues Brothers (John Belushi & Dan Aykroyd)
+    - Curtis Salgado
   mentors:
-  - Doc Pomus
+    - Doc Pomus
 spotify_data:
   followers: 27916
   id: 2ngCOxUAUuIwjkl4qYX51L
   popularity: 31
-  url: https://open.spotify.com/artist/2ngCOxUAUuIwjkl4qYX51L
+  url: 'https://open.spotify.com/artist/2ngCOxUAUuIwjkl4qYX51L'
 discography_enriched: true
 top_tracks:
-- Lower On Your List Of Priorities (Raisin' A Ruckus)
-- Boogie Woogie Country Girl (Raisin' A Ruckus)
-- Phone Zombies (In A Roomful Of Blues)
-- Backlash (Watch You When You Go)
-- That's A Pretty Good Love (Hook, Line & Sinker)
-- In A Roomful of Blues (In A Roomful Of Blues)
-- Every Dog Has Its Day (Raisin' A Ruckus)
-- Big Mamou (Raisin' A Ruckus)
-- New Orleans (Raisin' A Ruckus)
-- What Can I Do? (In A Roomful Of Blues)
+  - Lower On Your List Of Priorities (Raisin' A Ruckus)
+  - Boogie Woogie Country Girl (Raisin' A Ruckus)
+  - Phone Zombies (In A Roomful Of Blues)
+  - Backlash (Watch You When You Go)
+  - 'That''s A Pretty Good Love (Hook, Line & Sinker)'
+  - In A Roomful of Blues (In A Roomful Of Blues)
+  - Every Dog Has Its Day (Raisin' A Ruckus)
+  - Big Mamou (Raisin' A Ruckus)
+  - New Orleans (Raisin' A Ruckus)
+  - What Can I Do? (In A Roomful Of Blues)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f
-  spotify: https://open.spotify.com/artist/2ngCOxUAUuIwjkl4qYX51L
-  wikipedia: https://en.wikipedia.org/wiki/Roomful_of_Blues
+  musicbrainz: 'https://musicbrainz.org/artist/01b7d628-ecfe-48f9-8c0f-1afbde59761f'
+  spotify: 'https://open.spotify.com/artist/2ngCOxUAUuIwjkl4qYX51L'
+  wikipedia: 'https://en.wikipedia.org/wiki/Roomful_of_Blues'
 image_path: 03_Resources/source_material/ArtistPortraits/roomful_of_blues.jpg
 biography_enhanced_at: '2025-10-30T11:54:40.934445'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Roomful_of_Blues
-- https://www.mmone.org/roomful-of-blues/
-- https://www.ripopmusic.org/musical-artists/musicians/roomful-of-blues/
-- https://www.wbur.org/news/2025/10/08/roomful-of-blues-steppin-out
+  - 'https://en.wikipedia.org/wiki/Roomful_of_Blues'
+  - 'https://www.mmone.org/roomful-of-blues/'
+  - 'https://www.ripopmusic.org/musical-artists/musicians/roomful-of-blues/'
+  - 'https://www.wbur.org/news/2025/10/08/roomful-of-blues-steppin-out'
 network_extracted: true
 entry_created: '2025-10-30T11:54:40.934450'
 last_updated: '2025-12-23T08:16:15.048938'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5fdf0ada-4b27-4a60-897c-c0db26c001aa
-  name: Lou Ann Barton
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 76757320-e7c3-4549-b66e-4d1a3702dc2d
-  name: Al Copley
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6b2fe9ad-1c87-47cc-8607-3278f9d695f4
-  name: Ronnie Earl
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: 12272de5-1a55-4eaa-ab72-398cda83ef68
-  name: Carl Gerhard
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c2eafe5a-9751-4aa8-a817-e53c0851db82
-  name: Ken "Doc" Grace
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 244b647b-17f6-43d9-b185-7622a09f5901
-  name: Doug James
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 664c93a3-885c-421d-806e-68830cefa7dc
-  name: Greg Piccolo
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ea3c3917-8964-48b9-b4cb-ecf714b95c7d
-  name: Duke Robillard
-- begin: ''
-  end: ''
-  instruments:
-  - bass
-  mbid: f603cfa8-134e-4577-8225-b0b6995ba29e
-  name: Rhandy Simmons
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5fdf0ada-4b27-4a60-897c-c0db26c001aa
+    name: Lou Ann Barton
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 76757320-e7c3-4549-b66e-4d1a3702dc2d
+    name: Al Copley
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6b2fe9ad-1c87-47cc-8607-3278f9d695f4
+    name: Ronnie Earl
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: 12272de5-1a55-4eaa-ab72-398cda83ef68
+    name: Carl Gerhard
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c2eafe5a-9751-4aa8-a817-e53c0851db82
+    name: Ken "Doc" Grace
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 244b647b-17f6-43d9-b185-7622a09f5901
+    name: Doug James
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 664c93a3-885c-421d-806e-68830cefa7dc
+    name: Greg Piccolo
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ea3c3917-8964-48b9-b4cb-ecf714b95c7d
+    name: Duke Robillard
+  - begin: ''
+    end: ''
+    instruments:
+      - bass
+    mbid: f603cfa8-134e-4577-8225-b0b6995ba29e
+    name: Rhandy Simmons
 musicbrainz_id: 01b7d628-ecfe-48f9-8c0f-1afbde59761f
-origin: Westerly, Rhode Island, United States
+origin: 'Westerly, Rhode Island, United States'
 tags:
-- blues
-- boogie-woogie
-- jazz fusion
+  - blues
+  - boogie-woogie
+  - jazz fusion
 ---
 
 ![](roomful_of_blues.jpg)

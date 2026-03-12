@@ -1,5 +1,5 @@
 ---
-title: sierra delta
+title: Sierra Delta
 wiki_slug: sierra-delta
 schema_version: 2
 status: active
@@ -31,31 +31,32 @@ spotify_data:
   followers: 92
   id: 2OFToRJZHm70R0eFoWV3nj
   popularity: 0
-  url: https://open.spotify.com/artist/2OFToRJZHm70R0eFoWV3nj
+  url: 'https://open.spotify.com/artist/2OFToRJZHm70R0eFoWV3nj'
 discography_enriched: true
 top_tracks:
-- Better Part of Me (Sometimes)
-- Sentimental Heart (Sometimes)
-- Black Abyss (Sometimes)
-- Killing My Soul (Sometimes)
-- Sometimes (Sometimes)
-- Ocean (Sometimes)
-- Superhero (Live Acoustic) (Sometimes)
-- Nightlight (Nightlight)
-- The Other Side (The Other Side)
-- Superhero (Superhero)
+  - Better Part of Me (Sometimes)
+  - Sentimental Heart (Sometimes)
+  - Black Abyss (Sometimes)
+  - Killing My Soul (Sometimes)
+  - Sometimes (Sometimes)
+  - Ocean (Sometimes)
+  - Superhero (Live Acoustic) (Sometimes)
+  - Nightlight (Nightlight)
+  - The Other Side (The Other Side)
+  - Superhero (Superhero)
 external_urls:
-  spotify: https://open.spotify.com/artist/2OFToRJZHm70R0eFoWV3nj
+  spotify: 'https://open.spotify.com/artist/2OFToRJZHm70R0eFoWV3nj'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/sierra_delta.jpg
 biography_enhanced_at: '2025-12-10T04:47:35.137554'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://bandcamp.com/sierra-delta
+  - 'https://bandcamp.com/sierra-delta'
 network_extracted: true
 entry_created: '2025-12-10T04:47:35.137561'
 last_updated: '2025-12-23T08:16:15.624334'
+artist_type: person
 ---
 
 ![](sierra_delta.jpg)

@@ -3,37 +3,38 @@ biography_enhanced_at: '2026-01-21T01:15:53.880334'
 enhancement_provider: perplexity
 entry_created: '2026-01-21T01:15:53.880341'
 external_urls:
-  spotify: https://open.spotify.com/artist/5WveOcKgaOk617WSgET56R
-  wikipedia: https://en.wikipedia.org/wiki/The_Band
+  spotify: 'https://open.spotify.com/artist/5WveOcKgaOk617WSgET56R'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Band'
 genres:
-- doo-wop
-- blues rock
-- power pop
-- blues
+  - doo-wop
+  - blues rock
+  - power pop
+  - blues
 image_path: 03_Resources/source_material/ArtistPortraits/the_hawks.jpg
 last_updated: '2026-01-21T01:15:53.880341'
 musical_connections:
   collaborators:
-  - Bob Dylan
-  - Albert Grossman
+    - Bob Dylan
+    - Albert Grossman
   influenced: []
   mentors:
-  - Ronnie Hawkins
+    - Ronnie Hawkins
 network_extracted: true
-origin: Toronto, Ontario, Canada
+origin: 'Toronto, Ontario, Canada'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Band
-- https://www.classicbands.com/theband.html
-- https://theband.hiof.no/history/part_2.html
-- https://www.psaudio.com/blogs/copper/the-band-part-1-the-hawks
+  - 'https://en.wikipedia.org/wiki/The_Band'
+  - 'https://www.classicbands.com/theband.html'
+  - 'https://theband.hiof.no/history/part_2.html'
+  - 'https://www.psaudio.com/blogs/copper/the-band-part-1-the-hawks'
 spotify_data:
   followers: 763
   id: 5WveOcKgaOk617WSgET56R
   popularity: 7
-  url: https://open.spotify.com/artist/5WveOcKgaOk617WSgET56R
+  url: 'https://open.spotify.com/artist/5WveOcKgaOk617WSgET56R'
 status: active
 title: The Hawks
+artist_type: band
 ---
 
 ![](the_hawks.jpg)

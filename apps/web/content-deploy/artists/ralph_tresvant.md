@@ -5,16 +5,16 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1968-05-16'
-birth_place: Roxbury
+birth_place: 'Roxbury, Massachusetts, United States'
 genres:
-- new jack swing
-- quiet storm
+  - new jack swing
+  - quiet storm
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b4b94b15-1535-48a4-aa1e-d44e55d75bc5
-  name: New Edition
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b4b94b15-1535-48a4-aa1e-d44e55d75bc5
+    name: New Edition
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ralph_tresvant.jpg
   caption: Ralph Tresvant
@@ -36,53 +36,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - New Edition
-  - Bobby Brown
-  - Johnny Gill
-  - Heads of State
+    - New Edition
+    - Bobby Brown
+    - Johnny Gill
+    - Heads of State
   influenced: []
   mentors:
-  - Maurice Starr
+    - Maurice Starr
 spotify_data:
   followers: 412599
   id: 6MLDcHrNh4OqxDZAjMt5pt
   popularity: 49
-  url: https://open.spotify.com/artist/6MLDcHrNh4OqxDZAjMt5pt
+  url: 'https://open.spotify.com/artist/6MLDcHrNh4OqxDZAjMt5pt'
 discography_enriched: true
 top_tracks:
-- Old Thing Back (feat. Ja Rule and Ralph Tresvant)
-- Sensitivity (Ralph Tresvant)
-- Sensitivity (Ralph Tresvant (Expanded Edition))
-- Old Thing Back (feat. Ja Rule and Ralph Tresvant)
-- Want That Old Thing Back (feat. Ja Rule & Ralph Tresvant) - 2007 Remaster
-- The Best Things In Life Are Free - Classic 7" With Rap
-- Do What I Gotta Do (Ralph Tresvant)
-- Money Can't Buy You Love
-- The Best Things In Life Are Free - From "Mo' Money" Soundtrack
-- The Best Things In Life Are Free
+  - Old Thing Back (feat. Ja Rule and Ralph Tresvant)
+  - Sensitivity (Ralph Tresvant)
+  - Sensitivity (Ralph Tresvant (Expanded Edition))
+  - Old Thing Back (feat. Ja Rule and Ralph Tresvant)
+  - Want That Old Thing Back (feat. Ja Rule & Ralph Tresvant) - 2007 Remaster
+  - The Best Things In Life Are Free - Classic 7" With Rap
+  - Do What I Gotta Do (Ralph Tresvant)
+  - Money Can't Buy You Love
+  - The Best Things In Life Are Free - From "Mo' Money" Soundtrack
+  - The Best Things In Life Are Free
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/de2ddcdd-66ff-487c-9537-560153200a4e
-  spotify: https://open.spotify.com/artist/6MLDcHrNh4OqxDZAjMt5pt
-  wikipedia: https://en.wikipedia.org/wiki/Ralph_Tresvant
+  musicbrainz: 'https://musicbrainz.org/artist/de2ddcdd-66ff-487c-9537-560153200a4e'
+  spotify: 'https://open.spotify.com/artist/6MLDcHrNh4OqxDZAjMt5pt'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ralph_Tresvant'
 image_path: 03_Resources/source_material/ArtistPortraits/ralph_tresvant.jpg
 biography_enhanced_at: '2025-11-20T06:51:20.620774'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Ralph Tresvant
-- Fantastic Voyage - Ralph Tresvant
-- IMDb Biography - Ralph E. Tresvant
-- BlackPast.org - Ralph Edward Tresvant Jr.
-- AllMusic - Ralph Tresvant
+  - Wikipedia - Ralph Tresvant
+  - Fantastic Voyage - Ralph Tresvant
+  - IMDb Biography - Ralph E. Tresvant
+  - BlackPast.org - Ralph Edward Tresvant Jr.
+  - AllMusic - Ralph Tresvant
 network_extracted: true
 entry_created: '2025-11-20T06:51:20.620782'
 last_updated: '2025-12-23T08:16:14.611802'
 gender: Male
 musicbrainz_id: de2ddcdd-66ff-487c-9537-560153200a4e
 tags:
-- 2008 universal fire victim
-- contemporary r&b
-- quiet storm
+  - 2008 universal fire victim
+  - contemporary r&b
+  - quiet storm
 ---
 
 ![](ralph_tresvant.jpg)

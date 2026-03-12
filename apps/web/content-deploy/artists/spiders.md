@@ -1,12 +1,12 @@
 ---
-title: spiders
+title: Spiders
 wiki_slug: spiders
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: 2010-02
 genres:
-- stoner rock
+  - stoner rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/spiders.jpg
   caption: spiders
@@ -27,49 +27,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Olle Griphammar
-  - Ricard Harryson
+    - Olle Griphammar
+    - Ricard Harryson
   influenced:
-  - Various stoner rock bands
+    - Various stoner rock bands
   mentors:
-  - Ann-Sofie Hoyles
-  - John Hoyles
+    - Ann-Sofie Hoyles
+    - John Hoyles
 spotify_data:
   followers: 13786
   id: 19kCN9kQcd5T2IyqvPfjVt
   popularity: 24
-  url: https://open.spotify.com/artist/19kCN9kQcd5T2IyqvPfjVt
+  url: 'https://open.spotify.com/artist/19kCN9kQcd5T2IyqvPfjVt'
 discography_enriched: true
 top_tracks:
-- Shake Electric (Shake Electric)
-- Why Don't You (Why Don’t You)
-- Rock 'n' Roll Band (Sharp Objects)
-- Mess With My Emotions (Sharp Objects)
-- Sweet Boy (Sharp Objects)
-- Love Yourself to Death (Sharp Objects)
-- Burning For You (Killer Machine)
-- Hanging On The Telephone (Hanging On The Telephone)
-- Fun in the Sun (Sharp Objects)
-- What's Your Game (Miss Insane) (Sharp Objects)
+  - Shake Electric (Shake Electric)
+  - Why Don't You (Why Don’t You)
+  - Rock 'n' Roll Band (Sharp Objects)
+  - Mess With My Emotions (Sharp Objects)
+  - Sweet Boy (Sharp Objects)
+  - Love Yourself to Death (Sharp Objects)
+  - Burning For You (Killer Machine)
+  - Hanging On The Telephone (Hanging On The Telephone)
+  - Fun in the Sun (Sharp Objects)
+  - What's Your Game (Miss Insane) (Sharp Objects)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/fd377f1f-c62f-4284-8399-9ff80ef45835
-  spotify: https://open.spotify.com/artist/19kCN9kQcd5T2IyqvPfjVt
-  wikipedia: https://en.wikipedia.org/wiki/Spiders_(Swedish_band)
+  musicbrainz: 'https://musicbrainz.org/artist/fd377f1f-c62f-4284-8399-9ff80ef45835'
+  spotify: 'https://open.spotify.com/artist/19kCN9kQcd5T2IyqvPfjVt'
+  wikipedia: 'https://en.wikipedia.org/wiki/Spiders_(Swedish_band)'
 image_path: 03_Resources/source_material/ArtistPortraits/spiders.jpg
 biography_enhanced_at: '2025-11-20T07:33:30.761424'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Spiders_(Swedish_band)
-- https://www.snoozecontrol.be/interviews/3254/
-- https://www.youtube.com/watch?v=BEsYw_CqMzM
+  - 'https://en.wikipedia.org/wiki/Spiders_(Swedish_band)'
+  - 'https://www.snoozecontrol.be/interviews/3254/'
+  - 'https://www.youtube.com/watch?v=BEsYw_CqMzM'
 network_extracted: true
 entry_created: '2025-11-20T07:33:30.761437'
 last_updated: '2025-12-23T08:16:15.988096'
 disambiguation: Swedish hard rock band
 musicbrainz_id: fd377f1f-c62f-4284-8399-9ff80ef45835
-origin: Gothenburg
-
+origin: 'Gothenburg, Sweden'
 ---
 
 ![](spiders.jpg)

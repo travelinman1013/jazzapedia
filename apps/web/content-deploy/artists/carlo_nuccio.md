@@ -5,18 +5,18 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1960-11-22'
-birth_place: New Orleans
+birth_place: 'New Orleans, Louisiana, United States'
 death_date: '2022-08-24'
 genres: []
 instruments:
-- guitar
-- background vocals
+  - guitar
+  - background vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c3f78ba2-0c2a-4aeb-8f5a-05301172fb58
-  name: Continental Drifters
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c3f78ba2-0c2a-4aeb-8f5a-05301172fb58
+    name: Continental Drifters
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/carlo_nuccio.jpg
   caption: Carlo Nuccio
@@ -39,49 +39,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Continental Drifters
-  - Alex McMurray
-  - John Mooney
-  - Benny Grunch
-  - David Torkanowsky
+    - Continental Drifters
+    - Alex McMurray
+    - John Mooney
+    - Benny Grunch
+    - David Torkanowsky
   influenced:
-  - Younger New Orleans drummers
+    - Younger New Orleans drummers
   mentors:
-  - Earl Palmer
+    - Earl Palmer
 spotify_data:
   followers: 13
   id: 4v4pVlwJ4zz0qMpQDlixRE
   popularity: 0
-  url: https://open.spotify.com/artist/4v4pVlwJ4zz0qMpQDlixRE
+  url: 'https://open.spotify.com/artist/4v4pVlwJ4zz0qMpQDlixRE'
 discography_enriched: true
 top_tracks:
-- Smoke My Peace Pipe (feat. Carlo Nuccio) (Smoke My Peace Pipe (feat. Carlo Nuccio))
-- It's Happening Again (Clap Hands)
-- The Fall (Clap Hands)
-- Song in My Head (Clap Hands)
-- Planning the Fishing Trip (Clap Hands)
-- Long While (Clap Hands)
-- Denial (Clap Hands)
-- Subway Trains (Clap Hands)
-- I’ll Wait (Clap Hands)
-- Austin (Clap Hands)
+  - >-
+    Smoke My Peace Pipe (feat. Carlo Nuccio) (Smoke My Peace Pipe (feat. Carlo
+    Nuccio))
+  - It's Happening Again (Clap Hands)
+  - The Fall (Clap Hands)
+  - Song in My Head (Clap Hands)
+  - Planning the Fishing Trip (Clap Hands)
+  - Long While (Clap Hands)
+  - Denial (Clap Hands)
+  - Subway Trains (Clap Hands)
+  - I’ll Wait (Clap Hands)
+  - Austin (Clap Hands)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d2d7f7be-88ad-4cc8-ae57-0e643748ad35
-  spotify: https://open.spotify.com/artist/4v4pVlwJ4zz0qMpQDlixRE
+  musicbrainz: 'https://musicbrainz.org/artist/d2d7f7be-88ad-4cc8-ae57-0e643748ad35'
+  spotify: 'https://open.spotify.com/artist/4v4pVlwJ4zz0qMpQDlixRE'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/carlo_nuccio.jpg
 biography_enhanced_at: '2025-11-14T10:39:24.056206'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.jonathanfreilich.com/music-interviews/2020/4/4/interview-with-new-orleans-drummer-carlo-nuccio
-- https://www.offbeat.com/articles/in-memoriam-carlo-nuccio-1961-2022/
-- https://www.dailykos.com/stories/2022/8/26/2119054/-Carlo-Nuccio-An-Appreciation
+  - >-
+    https://www.jonathanfreilich.com/music-interviews/2020/4/4/interview-with-new-orleans-drummer-carlo-nuccio
+  - 'https://www.offbeat.com/articles/in-memoriam-carlo-nuccio-1961-2022/'
+  - >-
+    https://www.dailykos.com/stories/2022/8/26/2119054/-Carlo-Nuccio-An-Appreciation
 network_extracted: true
 entry_created: '2025-11-14T10:39:24.056217'
 last_updated: '2025-12-23T08:16:06.438821'
 gender: Male
 musicbrainz_id: d2d7f7be-88ad-4cc8-ae57-0e643748ad35
+is_active: false
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](carlo_nuccio.jpg)

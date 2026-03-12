@@ -2,23 +2,23 @@
 title: Terence Blanchard
 wiki_slug: terence-blanchard
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1962-03-13'
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- jazz
-- latin jazz
+  - jazz
+  - latin jazz
 instruments:
-- eponymous
-- original
-- trumpet
+  - eponymous
+  - original
+  - trumpet
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Terence_Blanchard.jpg
   caption: Terence Blanchard
   background: non_vocal_instrumentalist
   born: '1962-03-13'
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 111.1
   energy_avg: 0.337
@@ -34,52 +34,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Wynton Marsalis
-  - Art Blakey
-  - Donald Harrison
-  - Spike Lee
-  - Herbie Hancock
-  - Stevie Wonder
+    - Wynton Marsalis
+    - Art Blakey
+    - Donald Harrison
+    - Spike Lee
+    - Herbie Hancock
+    - Stevie Wonder
   influenced:
-  - Ambrose Akinmusire
-  - Christian Scott aTunde Adjuah
-  - Students at Thelonious Monk Institute, UCLA, Berklee
+    - Ambrose Akinmusire
+    - Christian Scott aTunde Adjuah
+    - 'Students at Thelonious Monk Institute, UCLA, Berklee'
   mentors:
-  - Ellis Marsalis, Jr.
-  - Roger Dickerson
-  - Paul Jeffrey
-  - Bill Fielder
+    - 'Ellis Marsalis, Jr.'
+    - Roger Dickerson
+    - Paul Jeffrey
+    - Bill Fielder
 spotify_data:
   followers: 46470
   id: 7IbO8NvxclKsk7WTOZ42bv
   popularity: 49
-  url: https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv
+  url: 'https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv'
 discography_enriched: true
 top_tracks:
-- Ma Belle Evangeline
-- When We're Human - From "The Princess and the Frog"/Soundtrack Version
-- Ma Belle Evangeline
-- When We're Human
-- Goodbye Song (Harriet (Original Motion Picture Soundtrack))
-- Lograremos ser humanos
-- Ma Belle Evangeline - From "The Princess and the Frog"/Soundtrack Version (Disney Love Songs)
-- Mo' Better Blues (feat. Terence Blanchard) (MUSIC FROM MO' BETTER BLUES (feat. Terence Blanchard))
-- Soul Eyes (Soul Eyes)
-- Jackie Gets Out (The Comedian (Original Motion Picture Soundtrack))
+  - Ma Belle Evangeline
+  - When We're Human - From "The Princess and the Frog"/Soundtrack Version
+  - Ma Belle Evangeline
+  - When We're Human
+  - Goodbye Song (Harriet (Original Motion Picture Soundtrack))
+  - Lograremos ser humanos
+  - >-
+    Ma Belle Evangeline - From "The Princess and the Frog"/Soundtrack Version
+    (Disney Love Songs)
+  - >-
+    Mo' Better Blues (feat. Terence Blanchard) (MUSIC FROM MO' BETTER BLUES
+    (feat. Terence Blanchard))
+  - Soul Eyes (Soul Eyes)
+  - Jackie Gets Out (The Comedian (Original Motion Picture Soundtrack))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f21be110-0169-45f5-b5e7-c64a71d218e5
-  spotify: https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv
-  wikipedia: https://en.wikipedia.org/wiki/Terence_Blanchard
+  musicbrainz: 'https://musicbrainz.org/artist/f21be110-0169-45f5-b5e7-c64a71d218e5'
+  spotify: 'https://open.spotify.com/artist/7IbO8NvxclKsk7WTOZ42bv'
+  wikipedia: 'https://en.wikipedia.org/wiki/Terence_Blanchard'
 image_path: 03_Resources/source_material/ArtistPortraits/Terence_Blanchard.jpg
 biography_enhanced_at: '2025-10-21T06:42:57.903179'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Terence_Blanchard
-- https://college.berklee.edu/people/terence-blanchard
-- https://aaregistry.org/story/terence-blanchard-a-son-of-new-orleans/
-- https://www.bluenote.com/artist/terence-blanchard/
-- https://www.arts.gov/honors/jazz/terence-blanchard
+  - 'https://en.wikipedia.org/wiki/Terence_Blanchard'
+  - 'https://college.berklee.edu/people/terence-blanchard'
+  - 'https://aaregistry.org/story/terence-blanchard-a-son-of-new-orleans/'
+  - 'https://www.bluenote.com/artist/terence-blanchard/'
+  - 'https://www.arts.gov/honors/jazz/terence-blanchard'
 network_extracted: true
 entry_created: '2025-10-21T06:42:57.903192'
 last_updated: '2025-12-23T08:16:04.041577'
@@ -88,9 +92,9 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:45:25.451324'
 musicbrainz_id: f21be110-0169-45f5-b5e7-c64a71d218e5
 tags:
-- composer
-- film composer
-- hard bop
+  - composer
+  - film composer
+  - hard bop
 ---
 
 ![](Terence_Blanchard.jpg)

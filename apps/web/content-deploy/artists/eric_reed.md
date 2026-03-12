@@ -3,13 +3,13 @@ title: Eric Reed
 wiki_slug: eric-reed
 schema_version: 2
 status: active
-birth_place: Philadelphia, Pennsylvania, United States
+birth_place: 'Philadelphia, Pennsylvania, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/eric_reed.jpg
   caption: Eric Reed
   background: solo_singer
-  origin: Philadelphia, Pennsylvania, United States
+  origin: 'Philadelphia, Pennsylvania, United States'
 audio_profile:
   tempo_avg: 106.2
   energy_avg: 0.234
@@ -25,61 +25,67 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Wynton Marsalis
-  - Jazz at Lincoln Center / Lincoln Center Jazz Orchestra
-  - Freddie Hubbard
-  - Joe Henderson
-  - Elvin Jones
-  - Benny Carter
-  - Wayne Shorter
-  - Ron Carter
-  - Cassandra Wilson
-  - Dianne Reeves
-  - Quincy Jones
-  - Natalie Cole
-  - Edwin Hawkins
+    - Wynton Marsalis
+    - Jazz at Lincoln Center / Lincoln Center Jazz Orchestra
+    - Freddie Hubbard
+    - Joe Henderson
+    - Elvin Jones
+    - Benny Carter
+    - Wayne Shorter
+    - Ron Carter
+    - Cassandra Wilson
+    - Dianne Reeves
+    - Quincy Jones
+    - Natalie Cole
+    - Edwin Hawkins
   influenced:
-  - Students at the University of Tennessee, Knoxville (collective)
-  - Young jazz musicians in his touring ensembles (collective)
+    - 'Students at the University of Tennessee, Knoxville (collective)'
+    - Young jazz musicians in his touring ensembles (collective)
   mentors:
-  - Eric Reed’s father (unnamed in sources)
-  - Harold Battiste
-  - Ahmad Jamal
-  - Horace Silver
+    - Eric Reed’s father (unnamed in sources)
+    - Harold Battiste
+    - Ahmad Jamal
+    - Horace Silver
 spotify_data:
   followers: 0
   id: 2uWpmqY1vxiY5m459wYCwu
   popularity: 5
-  url: https://open.spotify.com/artist/2uWpmqY1vxiY5m459wYCwu
+  url: 'https://open.spotify.com/artist/2uWpmqY1vxiY5m459wYCwu'
 discography_enriched: true
 top_tracks:
-- A Little Taste (A Little Taste)
-- Waltz No. 1, Op. 39 (Brahms On Brass)
-- Waltz No. 3, Op. 39 (Brahms On Brass)
-- Waltz No. 6, Op. 39 (Brahms On Brass)
-- Waltz No. 15, Op. 39 (Brahms On Brass)
-- 'Kinderszenen for Brass Quintet: I. Von fremden Ländern und Menschen (Carnaval)'
-- 'Kinderszenen for Brass Quintet: II. Kuriose Geschichte (Carnaval)'
-- 'Kinderszenen for Brass Quintet: V. Glückes genug (Carnaval)'
-- 'Kinderszenen for Brass Quintet: VI. Wichtige Begebenheit (Carnaval)'
-- 'Kinderszenen for Brass Quintet: VIII. Am Kamin (Carnaval)'
+  - A Little Taste (A Little Taste)
+  - 'Waltz No. 1, Op. 39 (Brahms On Brass)'
+  - 'Waltz No. 3, Op. 39 (Brahms On Brass)'
+  - 'Waltz No. 6, Op. 39 (Brahms On Brass)'
+  - 'Waltz No. 15, Op. 39 (Brahms On Brass)'
+  - >-
+    Kinderszenen for Brass Quintet: I. Von fremden Ländern und Menschen
+    (Carnaval)
+  - 'Kinderszenen for Brass Quintet: II. Kuriose Geschichte (Carnaval)'
+  - 'Kinderszenen for Brass Quintet: V. Glückes genug (Carnaval)'
+  - 'Kinderszenen for Brass Quintet: VI. Wichtige Begebenheit (Carnaval)'
+  - 'Kinderszenen for Brass Quintet: VIII. Am Kamin (Carnaval)'
 external_urls:
-  spotify: https://open.spotify.com/artist/2uWpmqY1vxiY5m459wYCwu
-  wikipedia: https://en.wikipedia.org/wiki/Eric_Reed_(musician)
+  spotify: 'https://open.spotify.com/artist/2uWpmqY1vxiY5m459wYCwu'
+  wikipedia: 'https://en.wikipedia.org/wiki/Eric_Reed_(musician)'
 image_path: ''
 biography_enhanced_at: '2025-12-11T04:00:46.681277'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- 'DownBeat profile: "The Liberation of Eric Reed"[1]'
-- Los Angeles Philharmonic artist biography for Eric Reed Trio[2]
-- 'WRTI feature interview: "Eric Reed steps into his ''whole and authentic self''"[3]'
-- B.H. Hopper Management artist biography for Eric Reed[4]
-- 'South Carolina Public Radio: "Eric Reed on Piano Jazz"[5]'
-- 'Tonebase artist biography: Eric Scott Reed[6]'
+  - 'DownBeat profile: "The Liberation of Eric Reed"[1]'
+  - 'Los Angeles Philharmonic artist biography for Eric Reed Trio[2]'
+  - >-
+    WRTI feature interview: "Eric Reed steps into his 'whole and authentic
+    self'"[3]
+  - 'B.H. Hopper Management artist biography for Eric Reed[4]'
+  - 'South Carolina Public Radio: "Eric Reed on Piano Jazz"[5]'
+  - 'Tonebase artist biography: Eric Scott Reed[6]'
 network_extracted: true
 entry_created: '2025-12-11T04:00:46.681290'
 last_updated: '2025-12-23T08:16:08.416016'
+birth_date: '1970-06-21'
+artist_type: person
 ---
 
 ![]()

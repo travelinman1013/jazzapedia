@@ -3,16 +3,16 @@ title: Eddie Floyd
 wiki_slug: eddie-floyd
 schema_version: 2
 status: active
-birth_place: Montgomery, Alabama, United States
+birth_place: 'Montgomery, Alabama, United States'
 genres:
-- soul
-- motown
-- northern soul
+  - soul
+  - motown
+  - northern soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/eddie_floyd.jpg
   caption: Eddie Floyd
   background: solo_singer
-  origin: Montgomery, Alabama, United States
+  origin: 'Montgomery, Alabama, United States'
 audio_profile:
   tempo_avg: 115.4
   energy_avg: 0.487
@@ -28,53 +28,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Steve Cropper
-  - Booker T. & the MG's
-  - Wilson Pickett
-  - Mack Rice
-  - The Blues Brothers Band
-  - Bill Wyman’s Rhythm Kings
+    - Steve Cropper
+    - Booker T. & the MG's
+    - Wilson Pickett
+    - Mack Rice
+    - The Blues Brothers Band
+    - Bill Wyman’s Rhythm Kings
   influenced:
-  - David Bowie
-  - Amii Stewart
-  - Countless soul and R&B artists
+    - David Bowie
+    - Amii Stewart
+    - Countless soul and R&B artists
   mentors:
-  - Mr. Wilbur
-  - Robert West
+    - Mr. Wilbur
+    - Robert West
 spotify_data:
   followers: 62781
   id: 6Bfy6QzadCXS92y0T8dDZF
   popularity: 41
-  url: https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF
+  url: 'https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF'
 discography_enriched: true
 top_tracks:
-- Knock on Wood (Knock On Wood)
-- Knock On Wood (Rare Stamps)
-- 634-5789 (Blues Brothers 2000)
-- I've Never Found A Girl (To Love Me Like You Do) (Rare Stamps)
-- Big Bird - Mono (Rare Stamps)
-- Knock on Wood
-- Knock On Wood (Eddie Floyd At His Best)
-- Good Love, Bad Love
-- 'Big Bird (Stax-Volt: The Complete Singles 1959-1968)'
-- Knock on Wood
+  - Knock on Wood (Knock On Wood)
+  - Knock On Wood (Rare Stamps)
+  - 634-5789 (Blues Brothers 2000)
+  - I've Never Found A Girl (To Love Me Like You Do) (Rare Stamps)
+  - Big Bird - Mono (Rare Stamps)
+  - Knock on Wood
+  - Knock On Wood (Eddie Floyd At His Best)
+  - 'Good Love, Bad Love'
+  - 'Big Bird (Stax-Volt: The Complete Singles 1959-1968)'
+  - Knock on Wood
 external_urls:
-  spotify: https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF
-  wikipedia: https://en.wikipedia.org/wiki/Eddie_Floyd
+  spotify: 'https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF'
+  wikipedia: 'https://en.wikipedia.org/wiki/Eddie_Floyd'
 image_path: 03_Resources/source_material/ArtistPortraits/eddie_floyd.jpg
 biography_enhanced_at: '2025-10-31T08:17:04.874769'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Eddie_Floyd
-- https://www.americanbluesscene.com/2020/07/chapter-excerpt-from-eddie-floyds-autobiography-knock-knock-knock-on-wood-my-life-in-soul/
-- https://encyclopediaofalabama.org/article/eddie-floyd/
-- https://memphismusichalloffame.com/inductee/eddie-floyd/
-- https://staxrecords.com/songwriter/eddie-floyd-and-steve-cropper/
+  - 'https://en.wikipedia.org/wiki/Eddie_Floyd'
+  - >-
+    https://www.americanbluesscene.com/2020/07/chapter-excerpt-from-eddie-floyds-autobiography-knock-knock-knock-on-wood-my-life-in-soul/
+  - 'https://encyclopediaofalabama.org/article/eddie-floyd/'
+  - 'https://memphismusichalloffame.com/inductee/eddie-floyd/'
+  - 'https://staxrecords.com/songwriter/eddie-floyd-and-steve-cropper/'
 network_extracted: true
 entry_created: '2025-10-31T08:17:04.874786'
 last_updated: '2025-12-23T08:16:01.852351'
-
+birth_date: '1937-06-25'
+artist_type: person
 ---
 
 ![](eddie_floyd.jpg)

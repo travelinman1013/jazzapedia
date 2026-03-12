@@ -4,9 +4,10 @@ wiki_slug: lee-williams-the-spiritual-qcs
 schema_version: 2
 status: active
 genres:
-- gospel
+  - gospel
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/lee_williams_and_the_spiritual_qcs.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/lee_williams_and_the_spiritual_qcs.jpg
   caption: Lee Williams & The Spiritual QC's
   background: solo_singer
 audio_profile:
@@ -24,47 +25,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Al Hollis
-  - Leonard Shumpert
-  - Willie Ligon
-  - Roger McKinney
+    - Al Hollis
+    - Leonard Shumpert
+    - Willie Ligon
+    - Roger McKinney
   influenced:
-  - Canton Spirituals
-  - Contemporary gospel quartets
+    - Canton Spirituals
+    - Contemporary gospel quartets
   mentors:
-  - Mitchell Thornton
+    - Mitchell Thornton
 spotify_data:
   followers: 83723
   id: 1CpwYrbzXc6Lb9RmCclJpj
   popularity: 35
-  url: https://open.spotify.com/artist/1CpwYrbzXc6Lb9RmCclJpj
+  url: 'https://open.spotify.com/artist/1CpwYrbzXc6Lb9RmCclJpj'
 discography_enriched: true
 top_tracks:
-- Wave My Hand (Living on the Lord's Side)
-- I Can't Give Up (Living on the Lord's Side)
-- Can't Run - Live (Good Time (Live))
-- Cooling Water (Soulful Healing)
-- God's Got a Blessing (My Brother's Keeper II)
-- Come See About Me (So Much to Be Thankful For)
-- You Didn't Have To - Live (Good Time (Live))
-- No Fault - Live (Good Time (Live))
-- Running for My Life (Love Will Go All the Way)
-- In My New Home (So Much to Be Thankful For)
+  - Wave My Hand (Living on the Lord's Side)
+  - I Can't Give Up (Living on the Lord's Side)
+  - Can't Run - Live (Good Time (Live))
+  - Cooling Water (Soulful Healing)
+  - God's Got a Blessing (My Brother's Keeper II)
+  - Come See About Me (So Much to Be Thankful For)
+  - You Didn't Have To - Live (Good Time (Live))
+  - No Fault - Live (Good Time (Live))
+  - Running for My Life (Love Will Go All the Way)
+  - In My New Home (So Much to Be Thankful For)
 external_urls:
-  spotify: https://open.spotify.com/artist/1CpwYrbzXc6Lb9RmCclJpj
-  wikipedia: https://en.wikipedia.org/wiki/Lee_Williams_and_the_Spiritual_QC's
-image_path: 03_Resources/source_material/ArtistPortraits/lee_williams_and_the_spiritual_qcs.jpg
+  spotify: 'https://open.spotify.com/artist/1CpwYrbzXc6Lb9RmCclJpj'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lee_Williams_and_the_Spiritual_QC''s'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/lee_williams_and_the_spiritual_qcs.jpg
 biography_enhanced_at: '2025-11-16T20:22:42.116795'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://artsfuse.org/235898/music-remembrance-gospel-singer-lee-williams/
-- https://journalofgospelmusic.com/gospel/rip-lee-williams-of-the-spiritual-qcs/
-- https://en.wikipedia.org/wiki/Lee_Williams_and_the_Spiritual_QC's
+  - 'https://artsfuse.org/235898/music-remembrance-gospel-singer-lee-williams/'
+  - >-
+    https://journalofgospelmusic.com/gospel/rip-lee-williams-of-the-spiritual-qcs/
+  - 'https://en.wikipedia.org/wiki/Lee_Williams_and_the_Spiritual_QC''s'
 network_extracted: true
 entry_created: '2025-11-16T20:22:42.116805'
 last_updated: '2025-12-23T08:16:11.734540'
-origin: Tupelo, Mississippi, United States
+origin: 'Tupelo, Mississippi, United States'
+birth_date: '1946-07-28'
+artist_type: band
 ---
 
 ![](lee_williams_and_the_spiritual_qcs.jpg)

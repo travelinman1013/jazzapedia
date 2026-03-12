@@ -6,27 +6,27 @@ status: deceased
 birth_name: Maurice Ernest Gibb
 aliases: []
 birth_date: '1949-12-22'
-birth_place: Douglas
+birth_place: 'Douglas, Isle of Man, United Kingdom'
 death_date: '2003-01-12'
 years_active: 1955–2002
 genres:
-- big band
-- adult standards
-- swing music
+  - big band
+  - adult standards
+  - swing music
 instruments:
-- bass guitar
-- guitar
-- piano
-- voice
+  - bass guitar
+  - guitar
+  - piano
+  - voice
 occupation:
-- composer
-- record producer
-- guitarist
-- singer
+  - composer
+  - record producer
+  - guitarist
+  - singer
 record_labels:
-- Polydor
+  - Polydor
 spouse:
-- Lulu
+  - Lulu
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/The_Mills_Brothers.jpg
   caption: The Mills Brothers
@@ -50,55 +50,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Louis Armstrong
-  - Bing Crosby
-  - Cab Calloway
+    - Louis Armstrong
+    - Bing Crosby
+    - Cab Calloway
   influenced:
-  - Doo-Wop groups
-  - The Ink Spots
-  - The Four Freshmen, The Hi-Lo's
+    - Doo-Wop groups
+    - The Ink Spots
+    - 'The Four Freshmen, The Hi-Lo''s'
   mentors:
-  - John Mills Sr. (father)
+    - John Mills Sr. (father)
 related_artists: []
 spotify_data:
   followers: 108685
   id: 5v8bwWRbu7AI3YFhzoM6Ha
   popularity: 47
-  url: https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha
+  url: 'https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha'
   verified: false
 discography_enriched: true
 albums_count: 15
 singles_count: 4
 top_tracks:
-- You Always Hurt The One You Love - 1958 version (Great Hits)
-- Nevertheless (I'm In Love With You) - 1958 version (Great Hits)
-- Paper Doll (Souvenir Album)
-- 'You Always Hurt The One You Love (The Anthology: 1931 - 1968)'
-- Till Then (Souvenir Album)
-- 'Till Then (The Anthology: 1931 - 1968)'
-- Till Then - 1958 version (Great Hits)
-- 'The Glow Worm - Single Version (The Anthology: 1931 - 1968)'
-- I'll Be Around - 1958 version (Great Hits)
-- Paper Doll (Paper Doll)
+  - You Always Hurt The One You Love - 1958 version (Great Hits)
+  - Nevertheless (I'm In Love With You) - 1958 version (Great Hits)
+  - Paper Doll (Souvenir Album)
+  - 'You Always Hurt The One You Love (The Anthology: 1931 - 1968)'
+  - Till Then (Souvenir Album)
+  - 'Till Then (The Anthology: 1931 - 1968)'
+  - Till Then - 1958 version (Great Hits)
+  - 'The Glow Worm - Single Version (The Anthology: 1931 - 1968)'
+  - I'll Be Around - 1958 version (Great Hits)
+  - Paper Doll (Paper Doll)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha
-  wikipedia: Not directly provided in search results; recommend searching for "Mills Brothers Wikipedia" for the official
-    page.
+  spotify: 'https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha'
+  wikipedia: >-
+    Not directly provided in search results; recommend searching for "Mills
+    Brothers Wikipedia" for the official page.
 image_path: 03_Resources/source_material/ArtistPortraits/The_Mills_Brothers.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:22:33.579341'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- teachrock.org
-- rxmusic.com
-- daytondailynews.com
+  - teachrock.org
+  - rxmusic.com
+  - daytondailynews.com
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 15:18:26.776025
+entry_created: 2025-09-18T15:18:26.776Z
 last_updated: '2025-12-23T08:16:03.334439'
-origin: Piqua, Ohio, United States
+origin: 'Piqua, Ohio, United States'
+is_active: false
+artist_type: band
 ---
 
 ![](The_Mills_Brothers.jpg)

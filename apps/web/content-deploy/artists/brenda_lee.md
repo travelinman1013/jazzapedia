@@ -1,16 +1,16 @@
 ---
-title: brenda lee
+title: Brenda Lee
 wiki_slug: brenda-lee
 schema_version: 2
 status: active
-birth_place: Atlanta, Georgia, USA
+birth_place: 'Atlanta, Georgia, USA'
 genres:
-- christmas
+  - christmas
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/brenda_lee.jpg
   caption: brenda lee
   background: solo_singer
-  origin: Atlanta, Georgia, USA
+  origin: 'Atlanta, Georgia, USA'
 audio_profile:
   tempo_avg: 109.3
   energy_avg: 0.378
@@ -26,47 +26,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Hank Garland
-  - Owen Bradley
+    - Hank Garland
+    - Owen Bradley
   influenced:
-  - Dolly Parton
-  - Linda Ronstadt
-  - Taylor Swift
+    - Dolly Parton
+    - Linda Ronstadt
+    - Taylor Swift
   mentors:
-  - Red Foley
+    - Red Foley
 spotify_data:
   followers: 466604
   id: 4cPHsZM98sKzmV26wlwD2W
   popularity: 66
-  url: https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W
+  url: 'https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W'
 discography_enriched: true
 top_tracks:
-- Rockin' Around The Christmas Tree (Merry Christmas From Brenda Lee)
-- Emotions (Emotions)
-- Break It To Me Gently (..."Let Me Sing")
-- I'm Sorry (Brenda Lee)
-- Rockin' Around the Christmas Tree - Rerecorded Version (A Brenda Lee Christmas)
-- Sweet Nothin's (Brenda Lee)
-- If You Love Me (Really Love Me) (Emotions)
-- The End Of The World (..."Let Me Sing")
-- Jingle Bell Rock (Merry Christmas From Brenda Lee)
-- All Alone Am I (All Alone Am I)
+  - Rockin' Around The Christmas Tree (Merry Christmas From Brenda Lee)
+  - Emotions (Emotions)
+  - Break It To Me Gently (..."Let Me Sing")
+  - I'm Sorry (Brenda Lee)
+  - >-
+    Rockin' Around the Christmas Tree - Rerecorded Version (A Brenda Lee
+    Christmas)
+  - Sweet Nothin's (Brenda Lee)
+  - If You Love Me (Really Love Me) (Emotions)
+  - The End Of The World (..."Let Me Sing")
+  - Jingle Bell Rock (Merry Christmas From Brenda Lee)
+  - All Alone Am I (All Alone Am I)
 external_urls:
-  spotify: https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W
-  wikipedia: https://en.wikipedia.org/wiki/Brenda_Lee
+  spotify: 'https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W'
+  wikipedia: 'https://en.wikipedia.org/wiki/Brenda_Lee'
 image_path: 03_Resources/source_material/ArtistPortraits/brenda_lee.jpg
 biography_enhanced_at: '2025-11-11T09:30:45.478453'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Brenda_Lee
-- https://www.georgiaencyclopedia.org/articles/arts-culture/brenda-lee-b-1944/
-- https://www.brendaleeofficial.com/bio/
-- https://www.countrymusichalloffame.org/artist/brenda-lee
-- https://www.imdb.com/name/nm0496909/bio/
+  - 'https://en.wikipedia.org/wiki/Brenda_Lee'
+  - 'https://www.georgiaencyclopedia.org/articles/arts-culture/brenda-lee-b-1944/'
+  - 'https://www.brendaleeofficial.com/bio/'
+  - 'https://www.countrymusichalloffame.org/artist/brenda-lee'
+  - 'https://www.imdb.com/name/nm0496909/bio/'
 network_extracted: true
 entry_created: '2025-11-11T09:30:45.478456'
 last_updated: '2025-12-23T08:16:06.058585'
+birth_date: '1944-12-11'
+artist_type: person
 ---
 
 ![](brenda_lee.jpg)

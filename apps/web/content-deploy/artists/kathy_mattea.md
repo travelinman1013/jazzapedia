@@ -1,25 +1,25 @@
 ---
-title: kathy mattea
+title: Kathy Mattea
 wiki_slug: kathy-mattea
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1959-06-21'
-birth_place: South Charleston
+birth_place: 'South Charleston, West Virginia, United States'
 genres:
-- traditional country
+  - traditional country
 instruments:
-- acoustic guitar
-- guitar
-- background vocals
-- lead vocals
-- other vocals
+  - acoustic guitar
+  - guitar
+  - background vocals
+  - lead vocals
+  - other vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: aeabe760-83e9-44cb-86d0-980d303bad98
-  name: The Red Hots
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: aeabe760-83e9-44cb-86d0-980d303bad98
+    name: The Red Hots
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/kathy_mattea.jpg
   caption: kathy mattea
@@ -41,49 +41,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Marty Stuart
-  - Jackson Browne
-  - Townes Van Zandt
-  - Pennsboro (band)
+    - Marty Stuart
+    - Jackson Browne
+    - Townes Van Zandt
+    - Pennsboro (band)
   influenced:
-  - Contemporary female country and Americana artists
+    - Contemporary female country and Americana artists
   mentors:
-  - Allen Reynolds
-  - Folk-pop artists (Buffy Sainte-Marie, Joni Mitchell)
+    - Allen Reynolds
+    - 'Folk-pop artists (Buffy Sainte-Marie, Joni Mitchell)'
 spotify_data:
   followers: 152434
   id: 7ndzHjxbErIwvwnEUewMWe
   popularity: 43
-  url: https://open.spotify.com/artist/7ndzHjxbErIwvwnEUewMWe
+  url: 'https://open.spotify.com/artist/7ndzHjxbErIwvwnEUewMWe'
 discography_enriched: true
 top_tracks:
-- Eighteen Wheels And A Dozen Roses (Untasted Honey)
-- 455 Rocket (Love Travels)
-- Love At The Five & Dime (Walk The Way The Wind Blows)
-- Romeo (with Billy Ray Cyrus, Tanya Tucker, Mary Chapin Carpenter, Kathy Mattea & Pam Tillis) (Slow Dancing With The Moon)
-- Where've You Been (Willow In The Wind)
-- The Battle Hymn Of Love (Untasted Honey)
-- Walk The Way The Wind Blows (Walk The Way The Wind Blows)
-- Goin' Gone (Untasted Honey)
-- Standing Knee Deep In A River (Dying Of Thirst) (Lonesome Standard Time)
-- Come From The Heart (Willow In The Wind)
+  - Eighteen Wheels And A Dozen Roses (Untasted Honey)
+  - 455 Rocket (Love Travels)
+  - Love At The Five & Dime (Walk The Way The Wind Blows)
+  - >-
+    Romeo (with Billy Ray Cyrus, Tanya Tucker, Mary Chapin Carpenter, Kathy
+    Mattea & Pam Tillis) (Slow Dancing With The Moon)
+  - Where've You Been (Willow In The Wind)
+  - The Battle Hymn Of Love (Untasted Honey)
+  - Walk The Way The Wind Blows (Walk The Way The Wind Blows)
+  - Goin' Gone (Untasted Honey)
+  - Standing Knee Deep In A River (Dying Of Thirst) (Lonesome Standard Time)
+  - Come From The Heart (Willow In The Wind)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f29443f1-5712-4be7-a926-1bde47a1d71d
-  spotify: https://open.spotify.com/artist/7ndzHjxbErIwvwnEUewMWe
-  wikipedia: https://en.wikipedia.org/wiki/Kathy_Mattea
+  musicbrainz: 'https://musicbrainz.org/artist/f29443f1-5712-4be7-a926-1bde47a1d71d'
+  spotify: 'https://open.spotify.com/artist/7ndzHjxbErIwvwnEUewMWe'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kathy_Mattea'
 image_path: 03_Resources/source_material/ArtistPortraits/kathy_mattea.jpg
 biography_enhanced_at: '2025-11-04T11:09:54.513609'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://bornandbredmusic.com/2023/11/16/heritage-legacy-the-west-virginia-music-hall-of-fame-2/
-- https://www.wvmusichalloffame.com/hof_mattea.html
-- https://www.wvencyclopedia.org/entries/1531
-- https://billybobstexas.com/artists/kathy-mattea
-- https://www.opry.com/artists/kathy-mattea
-- https://wvencprod.wvnet.edu/exhibits/69/sections/1198
-- https://www.mattea.com
-- https://www.countrymusichalloffame.org/oral-history/kathy-mattea
+  - >-
+    https://bornandbredmusic.com/2023/11/16/heritage-legacy-the-west-virginia-music-hall-of-fame-2/
+  - 'https://www.wvmusichalloffame.com/hof_mattea.html'
+  - 'https://www.wvencyclopedia.org/entries/1531'
+  - 'https://billybobstexas.com/artists/kathy-mattea'
+  - 'https://www.opry.com/artists/kathy-mattea'
+  - 'https://wvencprod.wvnet.edu/exhibits/69/sections/1198'
+  - 'https://www.mattea.com'
+  - 'https://www.countrymusichalloffame.org/oral-history/kathy-mattea'
 network_extracted: true
 entry_created: '2025-11-04T11:09:54.513635'
 last_updated: '2025-12-23T08:16:11.210583'
@@ -91,10 +94,10 @@ disambiguation: country and bluegrass singer
 gender: Female
 musicbrainz_id: f29443f1-5712-4be7-a926-1bde47a1d71d
 tags:
-- classic pop and rock
-- contemporary country
-- country
-
+  - classic pop and rock
+  - contemporary country
+  - country
+origin: 'Cross Lanes, West Virginia, United States'
 ---
 
 ![](kathy_mattea.jpg)

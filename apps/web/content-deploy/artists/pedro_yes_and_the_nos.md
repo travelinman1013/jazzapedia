@@ -29,27 +29,28 @@ spotify_data:
   followers: 39
   id: 2lRdPPi306gH3QE3H9FD3n
   popularity: 0
-  url: https://open.spotify.com/artist/2lRdPPi306gH3QE3H9FD3n
+  url: 'https://open.spotify.com/artist/2lRdPPi306gH3QE3H9FD3n'
 discography_enriched: true
 top_tracks:
-- Human Combustion (Pedro Yes and the Nos)
-- Smoked City (Pedro Yes and the Nos)
-- Wasted and Bored (Pedro Yes and the Nos)
-- Dumpster Driver (Pedro Yes and the Nos)
-- Human Combustion (Human Combustion)
+  - Human Combustion (Pedro Yes and the Nos)
+  - Smoked City (Pedro Yes and the Nos)
+  - Wasted and Bored (Pedro Yes and the Nos)
+  - Dumpster Driver (Pedro Yes and the Nos)
+  - Human Combustion (Human Combustion)
 external_urls:
-  spotify: https://open.spotify.com/artist/2lRdPPi306gH3QE3H9FD3n
+  spotify: 'https://open.spotify.com/artist/2lRdPPi306gH3QE3H9FD3n'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/pedro_yes_and_the_nos.jpg
 biography_enhanced_at: '2025-12-23T02:06:34.215782'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://mandingarecords.bandcamp.com/album/pedro-yes-and-the-nos
+  - 'https://mandingarecords.bandcamp.com/album/pedro-yes-and-the-nos'
 network_extracted: true
 entry_created: '2025-12-23T02:06:34.215802'
 last_updated: '2025-12-23T08:16:14.153522'
 origin: Unknown
+artist_type: band
 ---
 
 ![](pedro_yes_and_the_nos.jpg)

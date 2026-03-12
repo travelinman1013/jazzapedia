@@ -5,28 +5,28 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1969-02-05'
-birth_place: Boston
+birth_place: 'Roxbury, Boston, Massachusetts, United States'
 genres:
-- new jack swing
+  - new jack swing
 instruments:
-- background vocals
-- other vocals
+  - background vocals
+  - other vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b4b94b15-1535-48a4-aa1e-d44e55d75bc5
-  name: New Edition
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f9b197e7-dfbd-410f-ac1b-394dcc7caffb
-  name: B. Brown Posse
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1859f7d5-56f3-4ec9-970e-045b4fa25c59
-  name: RBRM
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b4b94b15-1535-48a4-aa1e-d44e55d75bc5
+    name: New Edition
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f9b197e7-dfbd-410f-ac1b-394dcc7caffb
+    name: B. Brown Posse
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1859f7d5-56f3-4ec9-970e-045b4fa25c59
+    name: RBRM
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bobby_brown.jpg
   caption: Bobby Brown
@@ -48,58 +48,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Teddy Riley
-  - L.A. Reid & Babyface
-  - Whitney Houston
-  - New Edition members (Ricky Bell, Michael Bivins, Ralph Tresvant, Ronnie DeVoe)
+    - Teddy Riley
+    - L.A. Reid & Babyface
+    - Whitney Houston
+    - >-
+      New Edition members (Ricky Bell, Michael Bivins, Ralph Tresvant, Ronnie
+      DeVoe)
   influenced:
-  - Usher
-  - Chris Brown
-  - Ne-Yo
+    - Usher
+    - Chris Brown
+    - Ne-Yo
   mentors:
-  - James Brown
-  - Maurice Starr
+    - James Brown
+    - Maurice Starr
 spotify_data:
   followers: 1255518
   id: 62sPt3fswraiEPnKQpAbdE
   popularity: 57
-  url: https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE
+  url: 'https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE'
 discography_enriched: true
 top_tracks:
-- Every Little Step (Don't Be Cruel)
-- My Prerogative (Don't Be Cruel)
-- Rock Wit'cha (Don't Be Cruel)
-- Two Can Play That Game - Radio Edit (Two Can Play That Game)
-- Roni (Don't Be Cruel)
-- Don't Be Cruel (Don't Be Cruel)
-- Beautiful (Welcome to Jamrock)
-- On Our Own
-- Humpin' Around (Bobby)
-- Thug Lovin' (The Last Temptation)
+  - Every Little Step (Don't Be Cruel)
+  - My Prerogative (Don't Be Cruel)
+  - Rock Wit'cha (Don't Be Cruel)
+  - Two Can Play That Game - Radio Edit (Two Can Play That Game)
+  - Roni (Don't Be Cruel)
+  - Don't Be Cruel (Don't Be Cruel)
+  - Beautiful (Welcome to Jamrock)
+  - On Our Own
+  - Humpin' Around (Bobby)
+  - Thug Lovin' (The Last Temptation)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d11f9c07-0eac-4a1f-a443-19cd0f63d5f0
-  spotify: https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE
-  wikipedia: https://en.wikipedia.org/wiki/Bobby_Brown
+  musicbrainz: 'https://musicbrainz.org/artist/d11f9c07-0eac-4a1f-a443-19cd0f63d5f0'
+  spotify: 'https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bobby_Brown'
 image_path: 03_Resources/source_material/ArtistPortraits/bobby_brown.jpg
 biography_enhanced_at: '2025-11-26T07:38:52.526521'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Bobby_Brown
-- https://www.last.fm/music/Bobby+Brown/+wiki
-- https://www.biography.com/musicians/bobby-brown
-- https://top40weekly.com/bobby-brown/
-- https://simple.wikipedia.org/wiki/Bobby_Brown
+  - 'https://en.wikipedia.org/wiki/Bobby_Brown'
+  - 'https://www.last.fm/music/Bobby+Brown/+wiki'
+  - 'https://www.biography.com/musicians/bobby-brown'
+  - 'https://top40weekly.com/bobby-brown/'
+  - 'https://simple.wikipedia.org/wiki/Bobby_Brown'
 network_extracted: true
 entry_created: '2025-11-26T07:38:52.526533'
 last_updated: '2025-12-23T08:16:05.854763'
-disambiguation: R&B singer, New Edition member
+disambiguation: 'R&B singer, New Edition member'
 gender: Male
 musicbrainz_id: d11f9c07-0eac-4a1f-a443-19cd0f63d5f0
 tags:
-- 2008 universal fire victim
-- ballad
-- contemporary r&b
+  - 2008 universal fire victim
+  - ballad
+  - contemporary r&b
 ---
 
 ![](bobby_brown.jpg)

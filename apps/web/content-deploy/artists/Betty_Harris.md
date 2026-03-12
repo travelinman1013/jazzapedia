@@ -2,30 +2,30 @@
 title: Betty Harris
 wiki_slug: betty-harris
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 aliases: []
-birth_date: '1941-01-01'
-birth_place: Orlando, Florida, United States
+birth_date: '1939-09-09'
+birth_place: 'Orlando, Florida, United States'
 years_active: 1963–1970; 2005–present
 genres:
-- soul jazz
-- northern soul
-- soul
+  - soul jazz
+  - northern soul
+  - soul
 instruments:
-- voice
+  - voice
 occupation:
-- singer
+  - singer
 record_labels:
-- Jubilee Records
+  - Jubilee Records
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Betty_Harris.jpg
   caption: Betty Harris
   background: solo_singer
   born: '1941-01-01'
-  origin: Orlando, Florida, United States
+  origin: 'Orlando, Florida, United States'
 audio_profile:
-  tempo_avg: 111.0
+  tempo_avg: 111
   energy_avg: 0.484
   valence_avg: 0.646
   danceability_avg: 0.561
@@ -39,60 +39,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bert Berns
-  - Allen Toussaint
-  - Bill Elder (The Dynamites)
+    - Bert Berns
+    - Allen Toussaint
+    - Bill Elder (The Dynamites)
   influenced:
-  - Northern Soul artists and DJs
-  - Contemporary soul and R&B musicians
+    - Northern Soul artists and DJs
+    - Contemporary soul and R&B musicians
   mentors:
-  - Big Maybelle
-  - Solomon Burke
+    - Big Maybelle
+    - Solomon Burke
 related_artists: []
 spotify_data:
   followers: 13311
   id: 5uwRBFpU9SQ9s2Us0nlXkk
   popularity: 27
-  url: https://open.spotify.com/artist/5uwRBFpU9SQ9s2Us0nlXkk
+  url: 'https://open.spotify.com/artist/5uwRBFpU9SQ9s2Us0nlXkk'
   verified: false
 discography_enriched: true
 albums_count: 4
 singles_count: 11
 top_tracks:
-- There's a Break in the Road
-- Trouble With My Lover - 2024 Remastered (Soul Perfection (2024 remastered))
-- Ride Your Pony - 2024 Remastered (Soul Perfection (2024 remastered))
-- What Did I Do Wrong - 2024 Remastered (Soul Perfection (2024 remastered))
-- Mean Man (Soul Perfection)
-- I'm Gonna Git Ya - 2024 Remastered (Soul Perfection (2024 remastered))
-- Mean Man - 2024 Remastered (Soul Perfection (2024 remastered))
-- Nearer to You - 2024 Remastered (Soul Perfection (2024 remastered))
-- 12 Red Roses - 2024 Remastered (Soul Perfection (2024 remastered))
-- Love Lots of Lovin' (feat. Betty Harris) (Ride Your Pony)
+  - There's a Break in the Road
+  - Trouble With My Lover - 2024 Remastered (Soul Perfection (2024 remastered))
+  - Ride Your Pony - 2024 Remastered (Soul Perfection (2024 remastered))
+  - What Did I Do Wrong - 2024 Remastered (Soul Perfection (2024 remastered))
+  - Mean Man (Soul Perfection)
+  - I'm Gonna Git Ya - 2024 Remastered (Soul Perfection (2024 remastered))
+  - Mean Man - 2024 Remastered (Soul Perfection (2024 remastered))
+  - Nearer to You - 2024 Remastered (Soul Perfection (2024 remastered))
+  - 12 Red Roses - 2024 Remastered (Soul Perfection (2024 remastered))
+  - Love Lots of Lovin' (feat. Betty Harris) (Ride Your Pony)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ada37fa2-6e13-49c5-b3a4-d6ab225bac8a
-  spotify: https://open.spotify.com/artist/5uwRBFpU9SQ9s2Us0nlXkk
-  wikipedia: https://en.wikipedia.org/wiki/Betty_Harris_(singer)
+  musicbrainz: 'https://musicbrainz.org/artist/ada37fa2-6e13-49c5-b3a4-d6ab225bac8a'
+  spotify: 'https://open.spotify.com/artist/5uwRBFpU9SQ9s2Us0nlXkk'
+  wikipedia: 'https://en.wikipedia.org/wiki/Betty_Harris_(singer)'
 image_path: 03_Resources/source_material/ArtistPortraits/Betty_Harris.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:29:22.662338'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://fromthevaults-boppinbob.blogspot.com/2023/09/betty-harris-born-9-september-1939.html
-- https://www.last.fm/music/Betty+Harris/+wiki
-- http://www.bertberns.com/jukebox/betty_harris.html
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2023/09/betty-harris-born-9-september-1939.html
+  - 'https://www.last.fm/music/Betty+Harris/+wiki'
+  - 'http://www.bertberns.com/jukebox/betty_harris.html'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:48:56.307432
+entry_created: 2025-09-22T21:48:56.307Z
 last_updated: '2025-12-23T08:16:01.190550'
 disambiguation: American soul singer
 gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:01:51.693750'
 musicbrainz_id: ada37fa2-6e13-49c5-b3a4-d6ab225bac8a
 tags:
-- rock and indie
-- soul
+  - rock and indie
+  - soul
 ---
 
 ![](Betty_Harris.jpg)

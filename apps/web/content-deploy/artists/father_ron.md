@@ -3,14 +3,18 @@ title: Father Ron
 wiki_slug: father-ron
 schema_version: 2
 status: active
-birth_place: Nebraska, USA (birthplace); New Orleans, Louisiana, USA (current origin and activity)
+birth_place: >-
+  Nebraska, USA (birthplace); New Orleans, Louisiana, USA (current origin and
+  activity)
 genres:
-- chamber pop
+  - chamber pop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/father_ron.jpg
   caption: Father Ron
   background: solo_singer
-  origin: Nebraska, USA (birthplace); New Orleans, Louisiana, USA (current origin and activity)
+  origin: >-
+    Nebraska, USA (birthplace); New Orleans, Louisiana, USA (current origin and
+    activity)
 audio_profile:
   tempo_avg: 114.8
   energy_avg: 0.543
@@ -26,53 +30,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Robert Eustis
-  - Barbara Smith-Davis
-  - David Schwartz
-  - Max Valentino
-  - Andre Bohren
-  - Jack Craft
-  - Gina Forsyth
-  - Debbie Davis
-  - Cole Williams
+    - Robert Eustis
+    - Barbara Smith-Davis
+    - David Schwartz
+    - Max Valentino
+    - Andre Bohren
+    - Jack Craft
+    - Gina Forsyth
+    - Debbie Davis
+    - Cole Williams
   influenced:
-  - New Orleans folk/Americana community
+    - New Orleans folk/Americana community
   mentors:
-  - The Byrds
-  - Lovin’ Spoonful
-  - Pete Seeger
-  - Woody Guthrie
+    - The Byrds
+    - Lovin’ Spoonful
+    - Pete Seeger
+    - Woody Guthrie
 spotify_data:
   followers: 956716
   id: 2kGBy2WHvF0VdZyqiVCkDT
   popularity: 65
-  url: https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT
+  url: 'https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT'
 discography_enriched: true
 top_tracks:
-- Let The Light In (feat. Father John Misty) (Did you know that there's a tunnel under Ocean Blvd)
-- Real Love Baby
-- Nancy From Now On (Fear Fun)
-- Hollywood Forever Cemetery Sings (Fear Fun)
-- 'Chateau Lobby #4 (in C for Two Virgins) (I Love You, Honeybear)'
-- I'm Writing a Novel (Fear Fun)
-- Well, You Can Do It Without Me (Fear Fun)
-- Buddy's Rendezvous
-- She Cleans Up (Mahashmashana)
-- Goodbye Mr. Blue (Chloë and the Next 20th Century)
+  - >-
+    Let The Light In (feat. Father John Misty) (Did you know that there's a
+    tunnel under Ocean Blvd)
+  - Real Love Baby
+  - Nancy From Now On (Fear Fun)
+  - Hollywood Forever Cemetery Sings (Fear Fun)
+  - 'Chateau Lobby #4 (in C for Two Virgins) (I Love You, Honeybear)'
+  - I'm Writing a Novel (Fear Fun)
+  - 'Well, You Can Do It Without Me (Fear Fun)'
+  - Buddy's Rendezvous
+  - She Cleans Up (Mahashmashana)
+  - Goodbye Mr. Blue (Chloë and the Next 20th Century)
 external_urls:
-  spotify: https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT
+  spotify: 'https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/father_ron.jpg
 biography_enhanced_at: '2025-11-04T10:52:52.631746'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.fatherronandfriends.com/about
-- https://episcopalnewsservice.org/pressreleases/father-ron-and-friends-wins-global-music-award/
-- https://episcopalnewsservice.org/pressreleases/new-orleans-folk-band-father-ron-and-friends-release-album-forever-the-seasons/
+  - 'https://www.fatherronandfriends.com/about'
+  - >-
+    https://episcopalnewsservice.org/pressreleases/father-ron-and-friends-wins-global-music-award/
+  - >-
+    https://episcopalnewsservice.org/pressreleases/new-orleans-folk-band-father-ron-and-friends-release-album-forever-the-seasons/
 network_extracted: true
 entry_created: '2025-11-04T10:52:52.631756'
 last_updated: '2025-12-23T08:16:08.591723'
+origin: 'New Orleans, Louisiana, USA'
+artist_type: person
 ---
 
 ![](father_ron.jpg)

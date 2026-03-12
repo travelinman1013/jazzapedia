@@ -1,11 +1,11 @@
 ---
-title: LOUIS ARMSTRONG'S HOT FIVE
+title: Louis Armstrong's Hot Five
 wiki_slug: louis-armstrongs-hot-five
 schema_version: 2
 status: active
 genres:
-- jazz
-- ragtime
+  - jazz
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/louis_armstrongs_hot_five.jpg
   caption: LOUIS ARMSTRONG'S HOT FIVE
@@ -25,56 +25,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Louis Armstrong
-  - Lillian (Lil) Hardin Armstrong
-  - Johnny Dodds
-  - Kid Ory
-  - Johnny St. Cyr
-  - Members of the Hot Seven (tuba and drums additions)
+    - Louis Armstrong
+    - Lillian (Lil) Hardin Armstrong
+    - Johnny Dodds
+    - Kid Ory
+    - Johnny St. Cyr
+    - Members of the Hot Seven (tuba and drums additions)
   influenced:
-  - Later jazz soloists and modern jazz musicians (collective category)
-  - Swing‑era and big‑band musicians (collective category)
+    - Later jazz soloists and modern jazz musicians (collective category)
+    - Swing‑era and big‑band musicians (collective category)
   mentors:
-  - King Oliver
-  - Fletcher Henderson
-  - Bessie Smith
+    - King Oliver
+    - Fletcher Henderson
+    - Bessie Smith
 spotify_data:
   followers: 25527
   id: 0t4VVR2T9Sb0z3NdDdEU6S
   popularity: 30
-  url: https://open.spotify.com/artist/0t4VVR2T9Sb0z3NdDdEU6S
+  url: 'https://open.spotify.com/artist/0t4VVR2T9Sb0z3NdDdEU6S'
 discography_enriched: true
 top_tracks:
-- When You're Smiling (When You're Smiling)
-- West End Blues (The Essential Louis Armstrong)
-- Hotter Than That (The Complete Hot Five And Hot Seven Recordings Volume 3)
-- Basin Street Blues (The Complete Hot Five And Hot Seven Recordings Volume 3)
-- I'm Not Rough (Guitar Blues)
-- Struttin' with Some Barbecue - 78 rpm Version (The Complete Hot Five And Hot Seven Recordings Volume 2)
-- Basin Sreet Blues - Remastered (Potato Head Blues... and More Hits (Remastered))
-- 'Heebie Jeebies (Armstrong, Louis: Heebie Jeebies (1925-1930))'
-- Heebie Jeebies (The Complete Hot Five And Hot Seven Recordings Volume 1)
-- West End Blues (The Complete Hot Five And Hot Seven Recordings Volume 3)
+  - When You're Smiling (When You're Smiling)
+  - West End Blues (The Essential Louis Armstrong)
+  - Hotter Than That (The Complete Hot Five And Hot Seven Recordings Volume 3)
+  - Basin Street Blues (The Complete Hot Five And Hot Seven Recordings Volume 3)
+  - I'm Not Rough (Guitar Blues)
+  - >-
+    Struttin' with Some Barbecue - 78 rpm Version (The Complete Hot Five And Hot
+    Seven Recordings Volume 2)
+  - >-
+    Basin Sreet Blues - Remastered (Potato Head Blues... and More Hits
+    (Remastered))
+  - 'Heebie Jeebies (Armstrong, Louis: Heebie Jeebies (1925-1930))'
+  - Heebie Jeebies (The Complete Hot Five And Hot Seven Recordings Volume 1)
+  - West End Blues (The Complete Hot Five And Hot Seven Recordings Volume 3)
 external_urls:
-  spotify: https://open.spotify.com/artist/0t4VVR2T9Sb0z3NdDdEU6S
-  wikipedia: https://en.wikipedia.org/wiki/Louis_Armstrong_Hot_Five_and_Hot_Seven_Sessions
+  spotify: 'https://open.spotify.com/artist/0t4VVR2T9Sb0z3NdDdEU6S'
+  wikipedia: >-
+    https://en.wikipedia.org/wiki/Louis_Armstrong_Hot_Five_and_Hot_Seven_Sessions
 image_path: 03_Resources/source_material/ArtistPortraits/louis_armstrongs_hot_five.jpg
 biography_enhanced_at: '2025-12-07T04:35:42.431292'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- 'Louis Armstrong: Harlem Renaissance Pioneer - U.S. National Archives blog[1]'
-- Armstrong Records with the Hot Five - EBSCO Research Starters[2]
-- The Origin of Armstrong's Hot Fives and Hot Sevens - College Music Symposium[3]
-- Louis Armstrong biography - Encyclopaedia Britannica[4]
-- 90 Years of Louis Armstrong and His Hot Five! - Dippermouth blog[5]
-- One Hundred Years of the Hot Five - telescoper.blog[7]
-- Louis Armstrong and his Hot Five - The Syncopated Times[8]
-- Louis Armstrong - National Museum of American History (PDF)[9]
+  - 'Louis Armstrong: Harlem Renaissance Pioneer - U.S. National Archives blog[1]'
+  - 'Armstrong Records with the Hot Five - EBSCO Research Starters[2]'
+  - >-
+    The Origin of Armstrong's Hot Fives and Hot Sevens - College Music
+    Symposium[3]
+  - 'Louis Armstrong biography - Encyclopaedia Britannica[4]'
+  - '90 Years of Louis Armstrong and His Hot Five! - Dippermouth blog[5]'
+  - 'One Hundred Years of the Hot Five - telescoper.blog[7]'
+  - 'Louis Armstrong and his Hot Five - The Syncopated Times[8]'
+  - 'Louis Armstrong - National Museum of American History (PDF)[9]'
 network_extracted: true
 entry_created: '2025-12-07T04:35:42.431304'
 last_updated: '2025-12-23T08:16:12.255949'
-origin: Chicago, Illinois, United States
+origin: 'Chicago, Illinois, United States'
+artist_type: band
 ---
 
 ![](louis_armstrongs_hot_five.jpg)

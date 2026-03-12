@@ -1,17 +1,17 @@
 ---
-title: little willie foster
+title: Little Willie Foster
 wiki_slug: little-willie-foster
 schema_version: 2
 status: active
-birth_place: Clarksdale, Mississippi, USA
+birth_place: 'Clarksdale, Mississippi, USA'
 genres:
-- classic blues
-- blues
+  - classic blues
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/little_willie_foster.jpg
   caption: little willie foster
   background: solo_singer
-  origin: Clarksdale, Mississippi, USA
+  origin: 'Clarksdale, Mississippi, USA'
 audio_profile:
   tempo_avg: 116.8
   energy_avg: 0.64
@@ -27,42 +27,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Al Benson
+    - Al Benson
   influenced:
-  - Chicago blues harmonica players
+    - Chicago blues harmonica players
   mentors:
-  - Big Walter Horton
+    - Big Walter Horton
 spotify_data:
   followers: 51
   id: 4R7SW1dxXJAquJHhcHoEmG
   popularity: 0
-  url: https://open.spotify.com/artist/4R7SW1dxXJAquJHhcHoEmG
+  url: 'https://open.spotify.com/artist/4R7SW1dxXJAquJHhcHoEmG'
 discography_enriched: true
 top_tracks:
-- Little Girl (Blues Harp Hero)
-- Crying The Blues (Chicago Blues Harmonicas)
-- 'Crying the Blues (Goin'' Down to Eli''s: The Cobra & ABCO Rhythm & Blues Anthology 1956-1958)'
-- 'Little Girl (Goin'' Down to Eli''s: The Cobra & ABCO Rhythm & Blues Anthology 1956-1958)'
-- Something Else (Bustin the Blues, Vol. 21 (Blues from Chicago's Westside))
-- Crying The Blues
-- Little Girl
-- 'A Fistful Of Dollars: Titoli (Great Music From The Films)'
-- Little Girl
-- Little Girl (The West Side of Chicago)
+  - Little Girl (Blues Harp Hero)
+  - Crying The Blues (Chicago Blues Harmonicas)
+  - >-
+    Crying the Blues (Goin' Down to Eli's: The Cobra & ABCO Rhythm & Blues
+    Anthology 1956-1958)
+  - >-
+    Little Girl (Goin' Down to Eli's: The Cobra & ABCO Rhythm & Blues Anthology
+    1956-1958)
+  - 'Something Else (Bustin the Blues, Vol. 21 (Blues from Chicago''s Westside))'
+  - Crying The Blues
+  - Little Girl
+  - 'A Fistful Of Dollars: Titoli (Great Music From The Films)'
+  - Little Girl
+  - Little Girl (The West Side of Chicago)
 external_urls:
-  spotify: https://open.spotify.com/artist/4R7SW1dxXJAquJHhcHoEmG
-  wikipedia: https://en.wikipedia.org/wiki/Little_Willie_Foster
+  spotify: 'https://open.spotify.com/artist/4R7SW1dxXJAquJHhcHoEmG'
+  wikipedia: 'https://en.wikipedia.org/wiki/Little_Willie_Foster'
 image_path: ''
 biography_enhanced_at: '2025-10-20T10:20:01.084407'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://sundayblues.org/?tag=little-willie-foster
-- https://www.last.fm/music/Little+Willie+Foster/+wiki
-- https://www.allmusic.com/artist/little-willy-foster-mn0000221155
+  - 'https://sundayblues.org/?tag=little-willie-foster'
+  - 'https://www.last.fm/music/Little+Willie+Foster/+wiki'
+  - 'https://www.allmusic.com/artist/little-willy-foster-mn0000221155'
 network_extracted: true
 entry_created: '2025-10-20T10:20:01.084418'
 last_updated: '2025-12-23T08:16:12.049091'
+origin: 'Chicago, Illinois, United States'
+birth_date: '1922-04-05'
+artist_type: person
 ---
 
 ![]()

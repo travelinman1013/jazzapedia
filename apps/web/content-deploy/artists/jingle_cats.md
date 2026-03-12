@@ -2,10 +2,10 @@
 title: Jingle Cats
 wiki_slug: jingle-cats
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- christmas
+  - christmas
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jingle_cats.jpg
   caption: Jingle Cats
@@ -25,48 +25,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mike Spalla
-  - Sprocket, Twizzler, Binky, Cheese Puff, Clara, Cueball, Graymer, Max, Petunia (cats) and Klippy Kloppy (dog)
-  - Vantan International / Yo Murashima
+    - Mike Spalla
+    - >-
+      Sprocket, Twizzler, Binky, Cheese Puff, Clara, Cueball, Graymer, Max,
+      Petunia (cats) and Klippy Kloppy (dog)
+    - Vantan International / Yo Murashima
   influenced:
-  - Online novelty and animal‑sound remix creators (various)
+    - Online novelty and animal‑sound remix creators (various)
   mentors: []
 spotify_data:
   followers: 5062
   id: 2ksOTbTmiFS9vEIpXN9tXb
   popularity: 30
-  url: https://open.spotify.com/artist/2ksOTbTmiFS9vEIpXN9tXb
+  url: 'https://open.spotify.com/artist/2ksOTbTmiFS9vEIpXN9tXb'
 discography_enriched: true
 top_tracks:
-- Beautiful Harp Music
-- Silent Night (Meowy Christmas)
-- Jingle Cats Medley (Meowy Christmas)
-- Up On the Housetop (Meowy Christmas)
-- What Child Is This?/hava Nagila (Meowy Christmas)
-- Dance of the Reed Flutes (Meowy Christmas)
-- Dance of the Sugarplum Fairies (Meowy Christmas)
-- Sounds Of Space For Pets
-- Happy Birthday (Rhythm and Mews)
-- God Rest Ye Merry Gentlemen (Meowy Christmas)
+  - Beautiful Harp Music
+  - Silent Night (Meowy Christmas)
+  - Jingle Cats Medley (Meowy Christmas)
+  - Up On the Housetop (Meowy Christmas)
+  - What Child Is This?/hava Nagila (Meowy Christmas)
+  - Dance of the Reed Flutes (Meowy Christmas)
+  - Dance of the Sugarplum Fairies (Meowy Christmas)
+  - Sounds Of Space For Pets
+  - Happy Birthday (Rhythm and Mews)
+  - God Rest Ye Merry Gentlemen (Meowy Christmas)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/43e9fa3d-6b16-4595-8cf6-323c93d4d80d
-  spotify: https://open.spotify.com/artist/2ksOTbTmiFS9vEIpXN9tXb
-  wikipedia: https://en.wikipedia.org/wiki/Jingle_Cats
+  musicbrainz: 'https://musicbrainz.org/artist/43e9fa3d-6b16-4595-8cf6-323c93d4d80d'
+  spotify: 'https://open.spotify.com/artist/2ksOTbTmiFS9vEIpXN9tXb'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jingle_Cats'
 image_path: 03_Resources/source_material/ArtistPortraits/jingle_cats.jpg
 biography_enhanced_at: '2025-12-20T01:13:39.004744'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jingle_Cats
-- https://cdrom.ca/games/2024/09/30/jingle-cats.html
-- https://the-avocado.org/2024/12/20/the-night-thread-listens-to-jingle-cats-2/
-- https://elimikablog.com/2013/12/18/a-dissertation-on-jingle-cats/
-- https://jinglecats.com
+  - 'https://en.wikipedia.org/wiki/Jingle_Cats'
+  - 'https://cdrom.ca/games/2024/09/30/jingle-cats.html'
+  - >-
+    https://the-avocado.org/2024/12/20/the-night-thread-listens-to-jingle-cats-2/
+  - 'https://elimikablog.com/2013/12/18/a-dissertation-on-jingle-cats/'
+  - 'https://jinglecats.com'
 network_extracted: true
 entry_created: '2025-12-20T01:13:39.004755'
 last_updated: '2025-12-23T08:16:10.533634'
 musicbrainz_id: 43e9fa3d-6b16-4595-8cf6-323c93d4d80d
-origin: Los Angeles, California, United States (project origin via creator Mike Spalla’s base of operations)[1][3]
+origin: >-
+  Los Angeles, California, United States (project origin via creator Mike
+  Spalla’s base of operations)
 ---
 
 ![](jingle_cats.jpg)

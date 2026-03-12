@@ -3,13 +3,13 @@ title: SBTRKT & Sampha
 wiki_slug: sbtrkt-sampha
 schema_version: 2
 status: active
-birth_place: Morden, South London, United Kingdom
+birth_place: 'Morden, South London, United Kingdom'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sbtrkt_and_sampha.jpg
   caption: SBTRKT & Sampha
   background: solo_singer
-  origin: Morden, South London, United Kingdom
+  origin: 'Morden, South London, United Kingdom'
 audio_profile:
   tempo_avg: 127.9
   energy_avg: 0.624
@@ -25,45 +25,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - SBTRKT
-  - Jessie Ware
-  - Lil Silva
+    - SBTRKT
+    - Jessie Ware
+    - Lil Silva
   influenced:
-  - Fred again..
-  - Loyle Carner
+    - Fred again..
+    - Loyle Carner
   mentors:
-  - Kwes
+    - Kwes
 spotify_data:
   followers: 638912
   id: 1O10apSOoAPjOu6UhUNmeI
   popularity: 47
-  url: https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI
+  url: 'https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI'
 discography_enriched: true
 top_tracks:
-- Wildfire (SBTRKT (Deluxe Version))
-- Hold On (SBTRKT (Deluxe Version))
-- Pharaohs (SBTRKT (Deluxe Version))
-- NEW DORP. NEW YORK (Wonder Where We Land)
-- Wildfire (SBTRKT)
-- Trials of the Past (SBTRKT (Deluxe Version))
-- BET YOU NEVER
-- Right Thing to Do (SBTRKT (Deluxe Version))
-- FORWARD
-- TURN YOUR HEART AROUND
+  - Wildfire (SBTRKT (Deluxe Version))
+  - Hold On (SBTRKT (Deluxe Version))
+  - Pharaohs (SBTRKT (Deluxe Version))
+  - NEW DORP. NEW YORK (Wonder Where We Land)
+  - Wildfire (SBTRKT)
+  - Trials of the Past (SBTRKT (Deluxe Version))
+  - BET YOU NEVER
+  - Right Thing to Do (SBTRKT (Deluxe Version))
+  - FORWARD
+  - TURN YOUR HEART AROUND
 external_urls:
-  spotify: https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI
-  wikipedia: https://en.wikipedia.org/wiki/Sampha
+  spotify: 'https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sampha'
 image_path: 03_Resources/source_material/ArtistPortraits/sbtrkt_and_sampha.jpg
 biography_enhanced_at: '2025-11-26T07:41:28.180698'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Sampha
-- https://www.last.fm/music/Sampha/+wiki
-- https://www.thefader.com/2016/06/28/sampha-cover-story-interview
+  - 'https://en.wikipedia.org/wiki/Sampha'
+  - 'https://www.last.fm/music/Sampha/+wiki'
+  - 'https://www.thefader.com/2016/06/28/sampha-cover-story-interview'
 network_extracted: true
 entry_created: '2025-11-26T07:41:28.180707'
 last_updated: '2025-12-23T08:16:15.418060'
+artist_type: band
 ---
 
 ![](sbtrkt_and_sampha.jpg)

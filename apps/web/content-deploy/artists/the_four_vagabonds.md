@@ -2,19 +2,19 @@
 title: The Four Vagabonds
 wiki_slug: the-four-vagabonds
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1933'
 genres:
-- swing music
-- big band
+  - swing music
+  - big band
 instruments:
-- bass vocals
-- guitar
-- original
-- lead vocals
-- tenor vocals
-- baritone vocals
+  - bass vocals
+  - guitar
+  - original
+  - lead vocals
+  - tenor vocals
+  - baritone vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_four_vagabonds.jpg
   caption: The Four Vagabonds
@@ -35,93 +35,98 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Don McNeill
-  - NBC Radio
-  - Victor Records (Bluebird subsidiary)
-  - Missouri Insurance Company
+    - Don McNeill
+    - NBC Radio
+    - Victor Records (Bluebird subsidiary)
+    - Missouri Insurance Company
   influenced:
-  - Mid‑century vocal harmony and early R&B groups (collective)
+    - Mid‑century vocal harmony and early R&B groups (collective)
   mentors:
-  - Vashon High School Glee Club staff (collective)
+    - Vashon High School Glee Club staff (collective)
 spotify_data:
   followers: 995
   id: 0uKcBFmwZYbIFXlWmQelqu
   popularity: 14
-  url: https://open.spotify.com/artist/0uKcBFmwZYbIFXlWmQelqu
+  url: 'https://open.spotify.com/artist/0uKcBFmwZYbIFXlWmQelqu'
 discography_enriched: true
 top_tracks:
-- Rosie The Riveter (Four Vagabonds Vol. 1 (1941-1951))
-- Comin' In On A Wing And A Prayer (Four Vagabonds Vol. 1 (1941-1951))
-- Hit That Jive, Jack (Four Vagabonds Vol. 3 (1943))
-- '"Murder" He Says (Four Vagabonds Vol. 3 (1943))'
-- 'A G.I. Wish (Remember Pearl Harbor: Classic Songs Of World War II)'
-- 'Comin'' In on a Wing and a Prayer (Remember Pearl Harbor: Classic Songs Of World War II)'
-- The Duke Of Dubuque (Four Vagabonds Vol. 1 (1941-1951))
-- Hit That Jive, Jack (The Very Best Of)
-- Comin' In on a Wing and a Prayer (Kiss The Boys Goodbye (Classic Songs From World War II) - Volume One)
-- A G.I. Wish (American Country Celebration)
+  - Rosie The Riveter (Four Vagabonds Vol. 1 (1941-1951))
+  - Comin' In On A Wing And A Prayer (Four Vagabonds Vol. 1 (1941-1951))
+  - 'Hit That Jive, Jack (Four Vagabonds Vol. 3 (1943))'
+  - '"Murder" He Says (Four Vagabonds Vol. 3 (1943))'
+  - 'A G.I. Wish (Remember Pearl Harbor: Classic Songs Of World War II)'
+  - >-
+    Comin' In on a Wing and a Prayer (Remember Pearl Harbor: Classic Songs Of
+    World War II)
+  - The Duke Of Dubuque (Four Vagabonds Vol. 1 (1941-1951))
+  - 'Hit That Jive, Jack (The Very Best Of)'
+  - >-
+    Comin' In on a Wing and a Prayer (Kiss The Boys Goodbye (Classic Songs From
+    World War II) - Volume One)
+  - A G.I. Wish (American Country Celebration)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/dee06104-4461-495b-983b-dd7048d5fb80
-  spotify: https://open.spotify.com/artist/0uKcBFmwZYbIFXlWmQelqu
+  musicbrainz: 'https://musicbrainz.org/artist/dee06104-4461-495b-983b-dd7048d5fb80'
+  spotify: 'https://open.spotify.com/artist/0uKcBFmwZYbIFXlWmQelqu'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/the_four_vagabonds.jpg
 biography_enhanced_at: '2025-12-09T04:16:25.883441'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.uncamarvy.com/4Vagabonds/4vagabonds.html
-- https://www.harmonytrain.com/Artists/4-Vagabonds.htm
-- https://www.allmusic.com/artist/four-vagabonds-mn0000072440
-- https://classicurbanharmony.net/wp-content/uploads/2016/02/Four-Vagabonds-web.pdf
+  - 'https://www.uncamarvy.com/4Vagabonds/4vagabonds.html'
+  - 'https://www.harmonytrain.com/Artists/4-Vagabonds.htm'
+  - 'https://www.allmusic.com/artist/four-vagabonds-mn0000072440'
+  - >-
+    https://classicurbanharmony.net/wp-content/uploads/2016/02/Four-Vagabonds-web.pdf
 network_extracted: true
 entry_created: '2025-12-09T04:16:25.883450'
 last_updated: '2025-12-23T08:16:16.792007'
 disambiguation: African-American male vocal group (1933–1953)
 members:
-- begin: '1933'
-  end: '1949'
-  instruments:
-  - bass vocals
-  - guitar
-  - original
-  mbid: 652b37d8-0772-4fd7-9bcf-a2fc3557d2aa
-  name: Raymond Grant, Jr.
-- begin: '1933'
-  end: '1952'
-  instruments:
-  - lead vocals
-  - original
-  mbid: 7862dbf0-a310-4d44-b30b-e8224e6fffb9
-  name: John Jordan
-- begin: '1933'
-  end: '1952'
-  instruments:
-  - original
-  - tenor vocals
-  mbid: 916a6f85-8e02-498c-b03d-af344763c8f8
-  name: Robert O'Neal
-- begin: '1933'
-  end: '1952'
-  instruments:
-  - baritone vocals
-  - original
-  mbid: bdccf18c-517c-41a0-866c-032d1e879b46
-  name: Norval Taborn
-- begin: '1949'
-  end: '1949'
-  instruments:
-  - bass vocals
-  - guitar
-  mbid: 7ec28f35-6f89-451c-aba8-a2b1ddf22916
-  name: Bill Sanford
-- begin: '1949'
-  end: '1952'
-  instruments:
-  - bass vocals
-  mbid: ebc951b6-1e01-4001-b6a1-45f398f3898f
-  name: Frank Houston
+  - begin: '1933'
+    end: '1949'
+    instruments:
+      - bass vocals
+      - guitar
+      - original
+    mbid: 652b37d8-0772-4fd7-9bcf-a2fc3557d2aa
+    name: 'Raymond Grant, Jr.'
+  - begin: '1933'
+    end: '1952'
+    instruments:
+      - lead vocals
+      - original
+    mbid: 7862dbf0-a310-4d44-b30b-e8224e6fffb9
+    name: John Jordan
+  - begin: '1933'
+    end: '1952'
+    instruments:
+      - original
+      - tenor vocals
+    mbid: 916a6f85-8e02-498c-b03d-af344763c8f8
+    name: Robert O'Neal
+  - begin: '1933'
+    end: '1952'
+    instruments:
+      - baritone vocals
+      - original
+    mbid: bdccf18c-517c-41a0-866c-032d1e879b46
+    name: Norval Taborn
+  - begin: '1949'
+    end: '1949'
+    instruments:
+      - bass vocals
+      - guitar
+    mbid: 7ec28f35-6f89-451c-aba8-a2b1ddf22916
+    name: Bill Sanford
+  - begin: '1949'
+    end: '1952'
+    instruments:
+      - bass vocals
+    mbid: ebc951b6-1e01-4001-b6a1-45f398f3898f
+    name: Frank Houston
 musicbrainz_id: dee06104-4461-495b-983b-dd7048d5fb80
-origin: St. Louis
+origin: 'St. Louis, Missouri, United States'
 ---
 
 ![](the_four_vagabonds.jpg)

@@ -2,18 +2,18 @@
 title: Jimmie Skinner
 wiki_slug: jimmie-skinner
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 aliases: []
 birth_date: '1909-04-27'
 death_date: '1979-10-27'
 years_active: 1940s–1979
 genres:
-- traditional country
-- bluegrass
-- rockabilly
+  - traditional country
+  - bluegrass
+  - rockabilly
 instruments:
-- Guitar
+  - Guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Jimmie_Skinner.jpg
   caption: Jimmie Skinner
@@ -38,34 +38,34 @@ spotify_data:
   followers: 533
   id: 63WIY6c9MJgQXO8vVHXgIm
   popularity: 3
-  url: https://open.spotify.com/artist/63WIY6c9MJgQXO8vVHXgIm
+  url: 'https://open.spotify.com/artist/63WIY6c9MJgQXO8vVHXgIm'
   verified: false
 discography_enriched: true
 albums_count: 1
 singles_count: 1
 top_tracks:
-- One Dead Man Ago (Rock 'n' Roll Floozy, Vol. 3 - Ping Pong Baby)
-- Doin' My Time (Johnny Cash - Roots & Branches)
-- Fallen Leaves (The Bluegrass Hall Of Fame)
-- Twenty Beers
-- Where My Sweet Baby Goes (Doin' My Time)
-- I Found My Girl in the U.S.A. (Doin' My Time)
-- Doin' My Time (Doin' My Time)
-- I Found My Girl In The USA
-- You Know How To Hurt A Man
-- Dark Hollow
+  - 'One Dead Man Ago (Rock ''n'' Roll Floozy, Vol. 3 - Ping Pong Baby)'
+  - Doin' My Time (Johnny Cash - Roots & Branches)
+  - Fallen Leaves (The Bluegrass Hall Of Fame)
+  - Twenty Beers
+  - Where My Sweet Baby Goes (Doin' My Time)
+  - I Found My Girl in the U.S.A. (Doin' My Time)
+  - Doin' My Time (Doin' My Time)
+  - I Found My Girl In The USA
+  - You Know How To Hurt A Man
+  - Dark Hollow
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/0b74898e-d682-4037-8bc9-ad71c428d3b9
-  spotify: https://open.spotify.com/artist/63WIY6c9MJgQXO8vVHXgIm
+  musicbrainz: 'https://musicbrainz.org/artist/0b74898e-d682-4037-8bc9-ad71c428d3b9'
+  spotify: 'https://open.spotify.com/artist/63WIY6c9MJgQXO8vVHXgIm'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/Jimmie_Skinner.jpg
 biography_source: none
-entry_created: 2025-09-22 22:08:52.280759
+entry_created: 2025-09-22T22:08:52.280Z
 last_updated: '2025-12-23T08:16:10.411777'
 gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:53:20.467756'
 musicbrainz_id: 0b74898e-d682-4037-8bc9-ad71c428d3b9
-
+is_active: false
 ---
 
 ![](Jimmie_Skinner.jpg)

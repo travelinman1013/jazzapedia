@@ -2,16 +2,16 @@
 title: Baby Dodds Trio
 wiki_slug: baby-dodds-trio
 schema_version: 2
-artist_type: Group
+artist_type: person
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- ragtime
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Baby_Dodds_Trio.jpg
   caption: Baby Dodds Trio
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 129.4
   energy_avg: 0.483
@@ -27,53 +27,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Johnny Dodds
-  - King Oliver
-  - Louis Armstrong
-  - Jelly Roll Morton
-  - Bunk Johnson
+    - Johnny Dodds
+    - King Oliver
+    - Louis Armstrong
+    - Jelly Roll Morton
+    - Bunk Johnson
   influenced:
-  - Bebop drummers (e.g., Max Roach, Kenny Clarke)
-  - Traditional jazz drummers
+    - 'Bebop drummers (e.g., Max Roach, Kenny Clarke)'
+    - Traditional jazz drummers
   mentors:
-  - Local New Orleans brass band leaders (e.g., Bunk Johnson, Oscar Celestin, Willie Hightower, Frankie Dusen)
+    - >-
+      Local New Orleans brass band leaders (e.g., Bunk Johnson, Oscar Celestin,
+      Willie Hightower, Frankie Dusen)
 spotify_data:
   followers: 570
   id: 2MdCC1tRUNRQhYROjtfLbp
   popularity: 4
-  url: https://open.spotify.com/artist/2MdCC1tRUNRQhYROjtfLbp
+  url: 'https://open.spotify.com/artist/2MdCC1tRUNRQhYROjtfLbp'
 discography_enriched: true
 top_tracks:
-- My Indian Red (Jazz A'La Creole)
-- Chocko Me Feendo Hey (Jazz A'La Creole)
-- 'Drum Improvisation #1 (Jazz A''La Creole)'
-- Tootie Ma Is a Big Fine Thing (Jazz A'La Creole)
-- 'Mo Pas Lemme Ca #1 - Ny35 (Jazz A''La Creole)'
-- Salee Dame (Jazz A'La Creole)
-- Les Ognons (Jazz A'La Creole)
-- A Wolverine Blues (Jazz A'La Creole)
-- 'Buddy Bolden''s Blues #1 - Ny2 (Jazz A''La Creole)'
-- Albert's Blues (Jazz A'La Creole)
+  - My Indian Red (Jazz A'La Creole)
+  - Chocko Me Feendo Hey (Jazz A'La Creole)
+  - 'Drum Improvisation #1 (Jazz A''La Creole)'
+  - Tootie Ma Is a Big Fine Thing (Jazz A'La Creole)
+  - 'Mo Pas Lemme Ca #1 - Ny35 (Jazz A''La Creole)'
+  - Salee Dame (Jazz A'La Creole)
+  - Les Ognons (Jazz A'La Creole)
+  - A Wolverine Blues (Jazz A'La Creole)
+  - 'Buddy Bolden''s Blues #1 - Ny2 (Jazz A''La Creole)'
+  - Albert's Blues (Jazz A'La Creole)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3cbff91f-2050-4749-b66f-dd253acc0e1b
-  spotify: https://open.spotify.com/artist/2MdCC1tRUNRQhYROjtfLbp
-  wikipedia: https://en.wikipedia.org/wiki/Baby_Dodds
+  musicbrainz: 'https://musicbrainz.org/artist/3cbff91f-2050-4749-b66f-dd253acc0e1b'
+  spotify: 'https://open.spotify.com/artist/2MdCC1tRUNRQhYROjtfLbp'
+  wikipedia: 'https://en.wikipedia.org/wiki/Baby_Dodds'
 image_path: 03_Resources/source_material/ArtistPortraits/Baby_Dodds_Trio.jpg
 biography_enhanced_at: '2025-10-19T10:30:22.081787'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://aaregistry.org/story/baby-dodds-one-of-the-first-jazz-percussionists-born/
-- https://syncopatedtimes.com/profiles-in-jazz-the-legacy-of-johnny-and-baby-dodds/
-- https://drumsinthetwenties.com/2016/12/08/heroes-1-warren-baby-dodds-1898-1959/
-- https://en.wikipedia.org/wiki/Baby_Dodds
+  - >-
+    https://aaregistry.org/story/baby-dodds-one-of-the-first-jazz-percussionists-born/
+  - >-
+    https://syncopatedtimes.com/profiles-in-jazz-the-legacy-of-johnny-and-baby-dodds/
+  - >-
+    https://drumsinthetwenties.com/2016/12/08/heroes-1-warren-baby-dodds-1898-1959/
+  - 'https://en.wikipedia.org/wiki/Baby_Dodds'
 network_extracted: true
 entry_created: '2025-10-19T10:30:22.081796'
 last_updated: '2025-12-23T08:16:01.140279'
 musicbrainz_enriched_at: '2025-10-21T09:01:18.422864'
 musicbrainz_id: 3cbff91f-2050-4749-b66f-dd253acc0e1b
 tags:
-- jazz
+  - jazz
+birth_date: '1898-12-24'
 ---
 
 ![](Baby_Dodds_Trio.jpg)

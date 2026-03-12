@@ -2,16 +2,16 @@
 title: The Isley Brothers
 wiki_slug: the-isley-brothers
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1954'
 genres:
-- motown
-- soul
-- quiet storm
-- northern soul
+  - motown
+  - soul
+  - quiet storm
+  - northern soul
 instruments:
-- original
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_isley_brothers.jpg
   caption: The Isley Brothers
@@ -32,97 +32,97 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Chris Jasper
-  - Ernie Isley
-  - Marvin Isley
+    - Chris Jasper
+    - Ernie Isley
+    - Marvin Isley
   influenced:
-  - Prince
-  - Lenny Kravitz
+    - Prince
+    - Lenny Kravitz
   mentors:
-  - Jimi Hendrix
+    - Jimi Hendrix
 spotify_data:
   followers: 2028937
   id: 53QzNeFpzAaXYnrDBbDrIp
   popularity: 60
-  url: https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp
+  url: 'https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp'
 discography_enriched: true
 top_tracks:
-- This Old Heart Of Mine (Is Weak For You) (This Old Heart Of Mine)
-- Footsteps in the Dark, Pts. 1 & 2 (Go for Your Guns)
-- Between the Sheets (Between the Sheets)
-- For the Love of You, Pts. 1 & 2 (The Heat Is On)
-- Shout, Pts. 1 & 2 (Shout!)
-- It's Your Thing (It's Our Thing (Expanded Edition))
-- That Lady, Pts. 1 & 2 (3+3)
-- Busted (Body Kiss)
-- Contagious (Eternal)
-- For the Love of You, Pts. 1 & 2
+  - This Old Heart Of Mine (Is Weak For You) (This Old Heart Of Mine)
+  - 'Footsteps in the Dark, Pts. 1 & 2 (Go for Your Guns)'
+  - Between the Sheets (Between the Sheets)
+  - 'For the Love of You, Pts. 1 & 2 (The Heat Is On)'
+  - 'Shout, Pts. 1 & 2 (Shout!)'
+  - It's Your Thing (It's Our Thing (Expanded Edition))
+  - 'That Lady, Pts. 1 & 2 (3+3)'
+  - Busted (Body Kiss)
+  - Contagious (Eternal)
+  - 'For the Love of You, Pts. 1 & 2'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4a76400d-283f-492e-9754-18ef41755f81
-  spotify: https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp
-  wikipedia: https://en.wikipedia.org/wiki/The_Isley_Brothers
+  musicbrainz: 'https://musicbrainz.org/artist/4a76400d-283f-492e-9754-18ef41755f81'
+  spotify: 'https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Isley_Brothers'
 image_path: 03_Resources/source_material/ArtistPortraits/the_isley_brothers.jpg
 biography_enhanced_at: '2025-11-05T12:49:12.265277'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Isley_Brothers
-- https://www.motownmuseum.org/artist/the-isley-brothers/
-- https://www.ebsco.com/research-starters/music/isley-brothers-music-group
-- https://www.britannica.com/topic/the-Isley-Brothers
+  - 'https://en.wikipedia.org/wiki/The_Isley_Brothers'
+  - 'https://www.motownmuseum.org/artist/the-isley-brothers/'
+  - 'https://www.ebsco.com/research-starters/music/isley-brothers-music-group'
+  - 'https://www.britannica.com/topic/the-Isley-Brothers'
 network_extracted: true
 entry_created: '2025-11-05T12:49:12.265307'
 last_updated: '2025-12-23T08:16:16.864905'
 members:
-- begin: '1954'
-  end: '1955'
-  instruments:
-  - original
-  mbid: d333cf00-0241-4e15-b1d4-3677e8f53744
-  name: Vernon Isley
-- begin: '1954'
-  end: '1986-03-31'
-  instruments:
-  - original
-  mbid: 3b07b441-ee1b-4482-a34a-dd8150f73a0c
-  name: O’Kelly Isley
-- begin: '1954'
-  end: '1989'
-  instruments:
-  - original
-  mbid: 4ea2e016-183d-4225-b5ea-6df98e926f38
-  name: Rudolph Isley
-- begin: '1973'
-  end: '1984'
-  instruments: []
-  mbid: ef1b6332-ab9c-49ce-b3ed-10aa36c31d2b
-  name: Chris Jasper
-- begin: '1973'
-  end: '1997'
-  instruments: []
-  mbid: e036f67c-30f6-4ce3-bc2d-3440cdb611f6
-  name: Marvin Isley
-- &id001
-  begin: '1973'
-  end: ''
-  instruments: []
-  mbid: 1dfbd38a-ab4d-4766-b1bf-f66dc728a8a8
-  name: Ernie Isley
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: ad8585b3-655e-4e6f-82a8-e10f89ec65f3
-  name: Ronald Isley
+  - begin: '1954'
+    end: '1955'
+    instruments:
+      - original
+    mbid: d333cf00-0241-4e15-b1d4-3677e8f53744
+    name: Vernon Isley
+  - begin: '1954'
+    end: '1986-03-31'
+    instruments:
+      - original
+    mbid: 3b07b441-ee1b-4482-a34a-dd8150f73a0c
+    name: O’Kelly Isley
+  - begin: '1954'
+    end: '1989'
+    instruments:
+      - original
+    mbid: 4ea2e016-183d-4225-b5ea-6df98e926f38
+    name: Rudolph Isley
+  - begin: '1973'
+    end: '1984'
+    instruments: []
+    mbid: ef1b6332-ab9c-49ce-b3ed-10aa36c31d2b
+    name: Chris Jasper
+  - begin: '1973'
+    end: '1997'
+    instruments: []
+    mbid: e036f67c-30f6-4ce3-bc2d-3440cdb611f6
+    name: Marvin Isley
+  - &ref_0
+    begin: '1973'
+    end: ''
+    instruments: []
+    mbid: 1dfbd38a-ab4d-4766-b1bf-f66dc728a8a8
+    name: Ernie Isley
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: ad8585b3-655e-4e6f-82a8-e10f89ec65f3
+    name: Ronald Isley
 musicbrainz_id: 4a76400d-283f-492e-9754-18ef41755f81
-origin: Cincinnati
+origin: 'Cincinnati, Ohio, United States'
 original_members:
-- *id001
+  - *ref_0
 tags:
-- funk
-- funk rock
-- progressive soul
-
+  - funk
+  - funk rock
+  - progressive soul
+birth_place: 'Cincinnati, Ohio, United States'
 ---
 
 ![](the_isley_brothers.jpg)

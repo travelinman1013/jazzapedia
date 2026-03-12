@@ -1,17 +1,17 @@
 ---
-title: terry timmons
+title: Terry Timmons
 wiki_slug: terry-timmons
 schema_version: 2
 status: active
-birth_place: Cleveland, Ohio, United States
+birth_place: 'Cleveland, Ohio, United States'
 genres:
-- boogie-woogie
-- northern soul
+  - boogie-woogie
+  - northern soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/terry_timmons.jpg
   caption: terry timmons
   background: solo_singer
-  origin: Cleveland, Ohio, United States
+  origin: 'Cleveland, Ohio, United States'
 audio_profile:
   tempo_avg: 110.7
   energy_avg: 0.399
@@ -29,39 +29,42 @@ musical_connections:
   collaborators: []
   influenced: []
   mentors:
-  - Dinah Washington
+    - Dinah Washington
 spotify_data:
   followers: 342
   id: 0rPQsFs6Xboo5VaqrZYRkz
   popularity: 5
-  url: https://open.spotify.com/artist/0rPQsFs6Xboo5VaqrZYRkz
+  url: 'https://open.spotify.com/artist/0rPQsFs6Xboo5VaqrZYRkz'
 discography_enriched: true
 top_tracks:
-- 'Got Nobody to Love (01-25-52) (Classics: 1950-1953)'
-- Got Nobody To Love (Jukebox Jam)
-- Somebody Will Understand (Yes Indeed! Women Vocalists on United)
-- 'He''s the Best in the Business (01-12-53) (Classics: 1950-1953)'
-- 'Daddy Be Good to Me (07-03-52) (Classics: 1950-1953)'
-- 'Mr. Low Love (01-25-52) (Classics: 1950-1953)'
-- 'The Same Old Thrill (07-03-52) (Classics: 1950-1953)'
-- Mr. Low Love (Baseball Boogie (Greatest Rhythm & Blues Collection))
-- Got Nobody to Love (Nightshift Blues (Rhythm & Blues All Night))
-- Got Nobody to Love (Northern Soul Lounge)
+  - 'Got Nobody to Love (01-25-52) (Classics: 1950-1953)'
+  - Got Nobody To Love (Jukebox Jam)
+  - Somebody Will Understand (Yes Indeed! Women Vocalists on United)
+  - 'He''s the Best in the Business (01-12-53) (Classics: 1950-1953)'
+  - 'Daddy Be Good to Me (07-03-52) (Classics: 1950-1953)'
+  - 'Mr. Low Love (01-25-52) (Classics: 1950-1953)'
+  - 'The Same Old Thrill (07-03-52) (Classics: 1950-1953)'
+  - Mr. Low Love (Baseball Boogie (Greatest Rhythm & Blues Collection))
+  - Got Nobody to Love (Nightshift Blues (Rhythm & Blues All Night))
+  - Got Nobody to Love (Northern Soul Lounge)
 external_urls:
-  spotify: https://open.spotify.com/artist/0rPQsFs6Xboo5VaqrZYRkz
+  spotify: 'https://open.spotify.com/artist/0rPQsFs6Xboo5VaqrZYRkz'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/terry_timmons.jpg
 biography_enhanced_at: '2025-11-27T06:35:09.564538'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- SecondHandSongs (secondhandsongs.com)
-- Last.fm
-- AllMusic
-- YouTube (TERRY TIMMONS 1950-1953 Full Album)
+  - SecondHandSongs (secondhandsongs.com)
+  - Last.fm
+  - AllMusic
+  - YouTube (TERRY TIMMONS 1950-1953 Full Album)
 network_extracted: true
 entry_created: '2025-11-27T06:35:09.564557'
 last_updated: '2025-12-23T08:16:16.494175'
+birth_date: '1927-04-12'
+death_date: '1970-08-03'
+artist_type: person
 ---
 
 ![](terry_timmons.jpg)

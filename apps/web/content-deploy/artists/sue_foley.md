@@ -5,23 +5,23 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1968-03-29'
-birth_place: Ottawa
+birth_place: 'Ottawa, Ontario, Canada'
 genres:
-- blues
-- modern blues
-- blues rock
-- classic blues
+  - blues
+  - modern blues
+  - blues rock
+  - classic blues
 instruments:
-- guitar
-- electric guitar
-- flamenco guitar
-- background vocals
+  - guitar
+  - electric guitar
+  - flamenco guitar
+  - background vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0cc54c0c-b952-4d09-b884-1da31b1f51cf
-  name: Back Alley John
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0cc54c0c-b952-4d09-b884-1da31b1f51cf
+    name: Back Alley John
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sue_foley.jpg
   caption: Sue Foley
@@ -43,57 +43,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mark Hummel
-  - Duke Robillard
-  - Mike Flanigin
-  - Jimmie Vaughan
-  - Billy Gibbons
+    - Mark Hummel
+    - Duke Robillard
+    - Mike Flanigin
+    - Jimmie Vaughan
+    - Billy Gibbons
   influenced:
-  - Laura Chavez
+    - Laura Chavez
   mentors:
-  - Clifford Antone
-  - Gatemouth Brown
-  - Lou Ann Barton
-  - Lavelle White
+    - Clifford Antone
+    - Gatemouth Brown
+    - Lou Ann Barton
+    - Lavelle White
 spotify_data:
   followers: 28050
   id: 6bp17u6Ya0RGnEobNVGvwS
   popularity: 32
-  url: https://open.spotify.com/artist/6bp17u6Ya0RGnEobNVGvwS
+  url: 'https://open.spotify.com/artist/6bp17u6Ya0RGnEobNVGvwS'
 discography_enriched: true
 top_tracks:
-- Mediterranean Breakfast (Love Comin' Down)
-- Holes
-- Holes
-- The Ice Queen (The Ice Queen)
-- Two Trains (Love Comin' Down)
-- Nothing In Rambling (One Guitar Woman)
-- The Ice Queen
-- Nothing In Rambling (One Guitar Woman)
-- Come To Me (The Ice Queen)
-- The Lucky Ones (The Ice Queen)
+  - Mediterranean Breakfast (Love Comin' Down)
+  - Holes
+  - Holes
+  - The Ice Queen (The Ice Queen)
+  - Two Trains (Love Comin' Down)
+  - Nothing In Rambling (One Guitar Woman)
+  - The Ice Queen
+  - Nothing In Rambling (One Guitar Woman)
+  - Come To Me (The Ice Queen)
+  - The Lucky Ones (The Ice Queen)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7699f64f-9a90-4291-902e-afeeed3e138f
-  spotify: https://open.spotify.com/artist/6bp17u6Ya0RGnEobNVGvwS
-  wikipedia: https://en.wikipedia.org/wiki/Sue_Foley
+  musicbrainz: 'https://musicbrainz.org/artist/7699f64f-9a90-4291-902e-afeeed3e138f'
+  spotify: 'https://open.spotify.com/artist/6bp17u6Ya0RGnEobNVGvwS'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sue_Foley'
 image_path: 03_Resources/source_material/ArtistPortraits/sue_foley.jpg
 biography_enhanced_at: '2025-12-15T01:27:53.660906'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.imdb.com/name/nm1227538/bio/
-- https://en.wikipedia.org/wiki/Sue_Foley
-- https://sandiegotroubadour.com/women-in-blues-and-jazz-sue-foley-shirley-scott-dorothy-fields/
-- https://suefoley.com/bio/
-- https://www.bluesblastmagazine.com/sue-foley-your-character-is-your-music/
+  - 'https://www.imdb.com/name/nm1227538/bio/'
+  - 'https://en.wikipedia.org/wiki/Sue_Foley'
+  - >-
+    https://sandiegotroubadour.com/women-in-blues-and-jazz-sue-foley-shirley-scott-dorothy-fields/
+  - 'https://suefoley.com/bio/'
+  - 'https://www.bluesblastmagazine.com/sue-foley-your-character-is-your-music/'
 network_extracted: true
 entry_created: '2025-12-15T01:27:53.660922'
 last_updated: '2025-12-23T08:16:16.194224'
 gender: Female
 musicbrainz_id: 7699f64f-9a90-4291-902e-afeeed3e138f
 tags:
-- blues
-- electric blues
+  - blues
+  - electric blues
+origin: 'Austin, Texas, United States'
 ---
 
 ![](sue_foley.jpg)

@@ -2,12 +2,12 @@
 title: Nomade Orquestra
 wiki_slug: nomade-orquestra
 schema_version: 2
-artist_type: orchestra
+artist_type: band
 status: active
 birth_date: '2012'
 genres:
-- latin afrobeat
-- brazilian jazz
+  - latin afrobeat
+  - brazilian jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/nomade_orquestra.jpg
   caption: Nomade Orquestra
@@ -28,60 +28,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Guilherme Nakata
-  - Ruy Rascassi
-  - Fabio Prior
-  - Luiz Eduardo Galvão
-  - Marcos Maurício
-  - Beto Malfatti
-  - Bio Bonato
-  - Marco Stoppa
-  - André Calixto
-  - Victor Fão
-  - Luciano Sallun
-  - Beto Montag
-  - Mauricio Fleury
-  - Cris Scabello
+    - Guilherme Nakata
+    - Ruy Rascassi
+    - Fabio Prior
+    - Luiz Eduardo Galvão
+    - Marcos Maurício
+    - Beto Malfatti
+    - Bio Bonato
+    - Marco Stoppa
+    - André Calixto
+    - Victor Fão
+    - Luciano Sallun
+    - Beto Montag
+    - Mauricio Fleury
+    - Cris Scabello
   influenced: []
   mentors: []
 spotify_data:
   followers: 31837
   id: 0empAFasxmO94e7zJOurTf
   popularity: 25
-  url: https://open.spotify.com/artist/0empAFasxmO94e7zJOurTf
+  url: 'https://open.spotify.com/artist/0empAFasxmO94e7zJOurTf'
 discography_enriched: true
 top_tracks:
-- Agente Russo (Vox Populi, Vol. 1)
-- Plena Magia (Vox Populi, Vol. 1)
-- Vênus (Nômade Orquestra)
-- Sonhos de Tóquio (Nômade Orquestra)
-- Chão (Chão)
-- Venus (Nomade Orquestra)
-- Sonhos de Tóquio (Nomade Orquestra)
-- Bedum (Nômade Orquestra)
-- Bedum (Nomade Orquestra)
-- Samurai (Nômade Orquestra)
+  - 'Agente Russo (Vox Populi, Vol. 1)'
+  - 'Plena Magia (Vox Populi, Vol. 1)'
+  - Vênus (Nômade Orquestra)
+  - Sonhos de Tóquio (Nômade Orquestra)
+  - Chão (Chão)
+  - Venus (Nomade Orquestra)
+  - Sonhos de Tóquio (Nomade Orquestra)
+  - Bedum (Nômade Orquestra)
+  - Bedum (Nomade Orquestra)
+  - Samurai (Nômade Orquestra)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c885a022-e344-4186-a891-c0ea41b70ecd
-  spotify: https://open.spotify.com/artist/0empAFasxmO94e7zJOurTf
+  musicbrainz: 'https://musicbrainz.org/artist/c885a022-e344-4186-a891-c0ea41b70ecd'
+  spotify: 'https://open.spotify.com/artist/0empAFasxmO94e7zJOurTf'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/nomade_orquestra.jpg
 biography_enhanced_at: '2025-12-05T06:03:48.530511'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Official band materials and label/press information
-- Album reviews and artist profiles from reputable music publications and festival/conference listings
+  - Official band materials and label/press information
+  - >-
+    Album reviews and artist profiles from reputable music publications and
+    festival/conference listings
 network_extracted: true
 entry_created: '2025-12-05T06:03:48.530521'
 last_updated: '2025-12-23T08:16:13.635893'
 musicbrainz_id: c885a022-e344-4186-a891-c0ea41b70ecd
-origin: São Paulo
+origin: 'São Paulo, São Paulo, Brazil'
 tags:
-- brazil
-- dub
-- ethiojazz
-
+  - brazil
+  - dub
+  - ethiojazz
 ---
 
 ![](nomade_orquestra.jpg)

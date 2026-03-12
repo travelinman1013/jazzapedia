@@ -3,14 +3,15 @@ title: Wendell Brunious & The New Orleans Roof Jazzmen
 wiki_slug: wendell-brunious-the-new-orleans-roof-jazzmen
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- brass band
+  - brass band
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/wendell_brunious_and_the_new_orleans_roof_jazzmen.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/wendell_brunious_and_the_new_orleans_roof_jazzmen.jpg
   caption: Wendell Brunious & The New Orleans Roof Jazzmen
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 124.1
   energy_avg: 0.541
@@ -26,49 +27,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John Brunious Jr.
-  - Louis Nelson
-  - Sammy Rimington
-  - Lionel Hampton
-  - Mark Braud
+    - John Brunious Jr.
+    - Louis Nelson
+    - Sammy Rimington
+    - Lionel Hampton
+    - Mark Braud
   influenced:
-  - Mark Braud
+    - Mark Braud
   mentors:
-  - John 'Picket' Brunious Sr.
-  - Danny Barker
-  - Kid Thomas Valentine
+    - John 'Picket' Brunious Sr.
+    - Danny Barker
+    - Kid Thomas Valentine
 spotify_data:
   followers: 38
   id: 7vh9tIuZCNgVnjTFJl3dCY
   popularity: 0
-  url: https://open.spotify.com/artist/7vh9tIuZCNgVnjTFJl3dCY
+  url: 'https://open.spotify.com/artist/7vh9tIuZCNgVnjTFJl3dCY'
 discography_enriched: true
 top_tracks:
-- Bugle Boy March (Mama Don't Allow It)
-- Mama Don't Allow It (Mama Don't Allow It)
-- Climax Rag (Mama Don't Allow It)
-- Buddy Bolden's Blues (Mama Don't Allow It)
-- Creole Love Call (Mama Don't Allow It)
-- Sing On (Mama Don't Allow It)
-- I Ate up the Apple Tree (Mama Don't Allow It)
-- Down in Honky Tonk Town (Mama Don't Allow It)
-- Sweet Lorraine (Mama Don't Allow It)
-- Bye and Bye (Mama Don't Allow It)
+  - Bugle Boy March (Mama Don't Allow It)
+  - Mama Don't Allow It (Mama Don't Allow It)
+  - Climax Rag (Mama Don't Allow It)
+  - Buddy Bolden's Blues (Mama Don't Allow It)
+  - Creole Love Call (Mama Don't Allow It)
+  - Sing On (Mama Don't Allow It)
+  - I Ate up the Apple Tree (Mama Don't Allow It)
+  - Down in Honky Tonk Town (Mama Don't Allow It)
+  - Sweet Lorraine (Mama Don't Allow It)
+  - Bye and Bye (Mama Don't Allow It)
 external_urls:
-  spotify: https://open.spotify.com/artist/7vh9tIuZCNgVnjTFJl3dCY
-  wikipedia: https://en.wikipedia.org/wiki/Wendell_Brunious
-image_path: 03_Resources/source_material/ArtistPortraits/wendell_brunious_and_the_new_orleans_roof_jazzmen.jpg
+  spotify: 'https://open.spotify.com/artist/7vh9tIuZCNgVnjTFJl3dCY'
+  wikipedia: 'https://en.wikipedia.org/wiki/Wendell_Brunious'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/wendell_brunious_and_the_new_orleans_roof_jazzmen.jpg
 biography_enhanced_at: '2025-12-19T01:42:28.500980'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Wendell_Brunious
-- https://wordofsouthfestival.com/wendell-brunious/
-- https://www.wwno.org/show/american-routes/2023-11-03/american-routes-shortcuts-wendell-brunious
-- https://downbeat.com/news/detail/wendell-brunious-named-first-musical-director-of-preservation-hall
+  - 'https://en.wikipedia.org/wiki/Wendell_Brunious'
+  - 'https://wordofsouthfestival.com/wendell-brunious/'
+  - >-
+    https://www.wwno.org/show/american-routes/2023-11-03/american-routes-shortcuts-wendell-brunious
+  - >-
+    https://downbeat.com/news/detail/wendell-brunious-named-first-musical-director-of-preservation-hall
 network_extracted: true
 entry_created: '2025-12-19T01:42:28.500991'
 last_updated: '2025-12-23T08:16:18.072709'
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1954-10-27'
+artist_type: band
 ---
 
 ![](wendell_brunious_and_the_new_orleans_roof_jazzmen.jpg)

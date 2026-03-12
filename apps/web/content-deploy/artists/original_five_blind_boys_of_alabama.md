@@ -3,39 +3,45 @@ biography_enhanced_at: '2025-12-25T01:12:35.855431'
 enhancement_provider: perplexity
 entry_created: '2025-12-25T01:12:35.855441'
 external_urls:
-  spotify: https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH
+  spotify: 'https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH'
   wikipedia: ''
 genres:
-- traditional gospel
-image_path: 03_Resources/source_material/ArtistPortraits/original_five_blind_boys_of_alabama.jpg
+  - traditional gospel
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/original_five_blind_boys_of_alabama.jpg
 last_updated: '2025-12-25T01:12:35.855443'
 musical_connections:
   collaborators:
-  - Clarence Fountain
-  - Jimmy Carter
-  - George Scott
-  - Johnny Fields
+    - Clarence Fountain
+    - Jimmy Carter
+    - George Scott
+    - Johnny Fields
   influenced:
-  - Blind Boys of Mississippi
+    - Blind Boys of Mississippi
   mentors:
-  - Golden Gate Quartet
+    - Golden Gate Quartet
 network_extracted: true
-origin: Talladega, Alabama, USA
+origin: 'Talladega, Alabama, USA'
 primary_source: perplexity
 research_sources:
-- https://www.arts.gov/honors/heritage/clarence-fountain-blind-boys
-- https://www.salvationsouth.com/the-last-man-standing-blind-boys-of-alabama-chuck-reece-jimmy-carter/
-- https://gospelmusichalloffame.org/hall-of-fame-inductees-and-honorees/blind-boys-of-alabama
-- https://www.sfjazz.org/onthecorner/articles/five-things-you-should-know-about-the-blind-boys-of-alabama/
-- https://folkworks.org/blog/the-blind-boys-of-alabama-spirit-across-the-ages/
-- https://blackpast.org/african-american-history/the-blind-boys-of-alabama-1939/
+  - 'https://www.arts.gov/honors/heritage/clarence-fountain-blind-boys'
+  - >-
+    https://www.salvationsouth.com/the-last-man-standing-blind-boys-of-alabama-chuck-reece-jimmy-carter/
+  - >-
+    https://gospelmusichalloffame.org/hall-of-fame-inductees-and-honorees/blind-boys-of-alabama
+  - >-
+    https://www.sfjazz.org/onthecorner/articles/five-things-you-should-know-about-the-blind-boys-of-alabama/
+  - 'https://folkworks.org/blog/the-blind-boys-of-alabama-spirit-across-the-ages/'
+  - >-
+    https://blackpast.org/african-american-history/the-blind-boys-of-alabama-1939/
 spotify_data:
   followers: 59752
   id: 5TVL4FXEntBYZb3ujyt6fH
   popularity: 41
-  url: https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH
+  url: 'https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH'
 status: active
-title: Original Five Blind Boys Of Alabama
+title: The Original Five Blind Boys Of Alabama
+artist_type: band
 ---
 
 ![](original_five_blind_boys_of_alabama.jpg)

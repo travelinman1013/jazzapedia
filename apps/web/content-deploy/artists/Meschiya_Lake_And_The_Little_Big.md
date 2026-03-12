@@ -1,13 +1,14 @@
 ---
-title: Meschiya Lake And The Little Big
+title: Meschiya Lake And The Little Big Horns
 wiki_slug: meschiya-lake-and-the-little-big
 schema_version: 2
 status: active
 genres:
-- swing music
-- ragtime
+  - swing music
+  - ragtime
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/Meschiya_Lake_And_The_Little_Big.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/Meschiya_Lake_And_The_Little_Big.jpg
   caption: Meschiya Lake And The Little Big
   background: solo_singer
 audio_profile:
@@ -25,49 +26,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Little Big Horns
-  - Erika Lewis
-  - Alec Ounsworth
-  - Tom Waits
-  - Tom McDermott
-  - Chance Bushman and Amy Johnson
+    - The Little Big Horns
+    - Erika Lewis
+    - Alec Ounsworth
+    - Tom Waits
+    - Tom McDermott
+    - Chance Bushman and Amy Johnson
   influenced: []
   mentors:
-  - The Loose Marbles
+    - The Loose Marbles
 spotify_data:
   followers: 9438
   id: 7zrXGSuz6ndeAZLTexWmDL
   popularity: 19
-  url: https://open.spotify.com/artist/7zrXGSuz6ndeAZLTexWmDL
+  url: 'https://open.spotify.com/artist/7zrXGSuz6ndeAZLTexWmDL'
 discography_enriched: true
 top_tracks:
-- Do Right (Foolers' Gold)
-- It's the Rhythm in Me (Foolers' Gold)
-- Comes Love (Lucky Devil)
-- Comes Love (Lucky Devil)
-- I Believe in Music (Foolers' Gold)
-- Catch Em Young (Foolers' Gold)
-- Don't Start With Me (Foolers' Gold)
-- I'll Wait for You (Foolers' Gold)
-- I Ain't Got Nuthin' but the Blues (Lucky Devil)
-- Lucky Devil (Lucky Devil)
+  - Do Right (Foolers' Gold)
+  - It's the Rhythm in Me (Foolers' Gold)
+  - Comes Love (Lucky Devil)
+  - Comes Love (Lucky Devil)
+  - I Believe in Music (Foolers' Gold)
+  - Catch Em Young (Foolers' Gold)
+  - Don't Start With Me (Foolers' Gold)
+  - I'll Wait for You (Foolers' Gold)
+  - I Ain't Got Nuthin' but the Blues (Lucky Devil)
+  - Lucky Devil (Lucky Devil)
 external_urls:
-  spotify: https://open.spotify.com/artist/7zrXGSuz6ndeAZLTexWmDL
+  spotify: 'https://open.spotify.com/artist/7zrXGSuz6ndeAZLTexWmDL'
   wikipedia: null
-image_path: 03_Resources/source_material/ArtistPortraits/Meschiya_Lake_And_The_Little_Big.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/Meschiya_Lake_And_The_Little_Big.jpg
 biography_enhanced_at: '2025-10-20T10:13:12.115411'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.paard.nl/en/event/meschiya-lake-the-little-big-horns-2/
-- https://www.heydaymediagroup.com/copy-of-los-blancos
-- https://www.myneworleans.com/new-orleans-persona-meschiya-lake/
-- https://syncopatedtimes.com/meschiya-lake-im-not-just-a-jazz-singer/
-- https://www.last.fm/music/Meschiya+Lake+and+the+Little+Big+Horns/+wiki
+  - 'https://www.paard.nl/en/event/meschiya-lake-the-little-big-horns-2/'
+  - 'https://www.heydaymediagroup.com/copy-of-los-blancos'
+  - 'https://www.myneworleans.com/new-orleans-persona-meschiya-lake/'
+  - 'https://syncopatedtimes.com/meschiya-lake-im-not-just-a-jazz-singer/'
+  - 'https://www.last.fm/music/Meschiya+Lake+and+the+Little+Big+Horns/+wiki'
 network_extracted: true
 entry_created: '2025-10-20T10:13:12.115425'
 last_updated: '2025-12-23T08:16:03.293738'
-origin: Grants Pass, Oregon, United States
+origin: 'Grants Pass, Oregon, United States'
+birth_place: 'Grants Pass, Oregon, United States'
+artist_type: person
 ---
 
 ![](Meschiya_Lake_And_The_Little_Big.jpg)

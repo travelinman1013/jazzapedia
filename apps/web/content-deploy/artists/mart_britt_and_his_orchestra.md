@@ -1,12 +1,13 @@
 ---
-title: MART BRITT AND HIS ORCHESTRA
+title: Mart Britt and His Orchestra
 wiki_slug: mart-britt-and-his-orchestra
 schema_version: 2
 status: active
 genres:
-- ragtime
+  - ragtime
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/mart_britt_and_his_orchestra.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/mart_britt_and_his_orchestra.jpg
   caption: MART BRITT AND HIS ORCHESTRA
   background: solo_singer
 audio_profile:
@@ -30,24 +31,27 @@ spotify_data:
   followers: 0
   id: 4VPdMbvixxL6C7J76Tfejs
   popularity: 0
-  url: https://open.spotify.com/artist/4VPdMbvixxL6C7J76Tfejs
+  url: 'https://open.spotify.com/artist/4VPdMbvixxL6C7J76Tfejs'
 discography_enriched: true
 top_tracks:
-- Goose Creek (Dance the 1920s and Early 1930s, Vol. 5)
-- 'Goose Creek-Stomp (How Low Can You Go?: Anthology of the String Bass, Vol. 1)'
+  - 'Goose Creek (Dance the 1920s and Early 1930s, Vol. 5)'
+  - >-
+    Goose Creek-Stomp (How Low Can You Go?: Anthology of the String Bass, Vol.
+    1)
 external_urls:
-  spotify: https://open.spotify.com/artist/4VPdMbvixxL6C7J76Tfejs
+  spotify: 'https://open.spotify.com/artist/4VPdMbvixxL6C7J76Tfejs'
   wikipedia: Not found
 image_path: ''
 biography_enhanced_at: '2025-12-04T07:23:31.485506'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- the78rpmrecordspins.wordpress.com - The Sound of Jazz and Hot Dance 78's
+  - the78rpmrecordspins.wordpress.com - The Sound of Jazz and Hot Dance 78's
 network_extracted: true
 entry_created: '2025-12-04T07:23:31.485516'
 last_updated: '2025-12-23T08:16:12.731175'
 origin: Unknown
+artist_type: band
 ---
 
 ![]()

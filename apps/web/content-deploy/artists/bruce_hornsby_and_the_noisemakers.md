@@ -2,23 +2,24 @@
 title: Bruce Hornsby & The Noisemakers
 wiki_slug: bruce-hornsby-the-noisemakers
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres: []
 instruments:
-- fiddle
-- guitar
-- drums (drum set)
-- reeds
-- bass
-- eponymous
-- keyboard
-- lead vocals
-- original
-- piano
-- organ
+  - fiddle
+  - guitar
+  - drums (drum set)
+  - reeds
+  - bass
+  - eponymous
+  - keyboard
+  - lead vocals
+  - original
+  - piano
+  - organ
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/bruce_hornsby_and_the_noisemakers.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/bruce_hornsby_and_the_noisemakers.jpg
   caption: Bruce Hornsby & The Noisemakers
   background: group_or_band
 audio_profile:
@@ -36,131 +37,138 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Grateful Dead
-  - The Noisemakers
-  - Pat Metheny
-  - Branford Marsalis
-  - Jerry Garcia
+    - Grateful Dead
+    - The Noisemakers
+    - Pat Metheny
+    - Branford Marsalis
+    - Jerry Garcia
   influenced:
-  - Willie Nelson
-  - Crosby, Stills & Nash
+    - Willie Nelson
+    - 'Crosby, Stills & Nash'
   mentors:
-  - Vince Maggio
-  - Michael McDonald
+    - Vince Maggio
+    - Michael McDonald
 spotify_data:
   followers: 4726
   id: 06NImT91wUYvhRqBAYO07m
   popularity: 16
-  url: https://open.spotify.com/artist/06NImT91wUYvhRqBAYO07m
+  url: 'https://open.spotify.com/artist/06NImT91wUYvhRqBAYO07m'
 discography_enriched: true
 top_tracks:
-- In The Low Country (Levitate)
-- Prairie Dog Town (Levitate)
-- Cyclone (Bride Of The Noisemakers (Amazon Bonus Version))
-- Standing On The Moon / Halcyon Days (Bride Of The Noisemakers (Amazon Bonus Version))
-- Invisible (Levitate)
-- The Way It Is (Live in Dillon, CO 8/16/19)
-- Cyclone (Bride Of The Noisemakers)
-- Fortunate Son / Comfortably Numb (Bride Of The Noisemakers (Amazon Bonus Version))
-- Dreamland (Bride Of The Noisemakers (Amazon Bonus Version))
-- Levitate (Levitate)
+  - In The Low Country (Levitate)
+  - Prairie Dog Town (Levitate)
+  - Cyclone (Bride Of The Noisemakers (Amazon Bonus Version))
+  - >-
+    Standing On The Moon / Halcyon Days (Bride Of The Noisemakers (Amazon Bonus
+    Version))
+  - Invisible (Levitate)
+  - 'The Way It Is (Live in Dillon, CO 8/16/19)'
+  - Cyclone (Bride Of The Noisemakers)
+  - >-
+    Fortunate Son / Comfortably Numb (Bride Of The Noisemakers (Amazon Bonus
+    Version))
+  - Dreamland (Bride Of The Noisemakers (Amazon Bonus Version))
+  - Levitate (Levitate)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e3940b01-5559-4cfe-b8f3-02a0e3d90423
-  spotify: https://open.spotify.com/artist/06NImT91wUYvhRqBAYO07m
+  musicbrainz: 'https://musicbrainz.org/artist/e3940b01-5559-4cfe-b8f3-02a0e3d90423'
+  spotify: 'https://open.spotify.com/artist/06NImT91wUYvhRqBAYO07m'
   wikipedia: ''
-image_path: 03_Resources/source_material/ArtistPortraits/bruce_hornsby_and_the_noisemakers.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/bruce_hornsby_and_the_noisemakers.jpg
 biography_enhanced_at: '2025-12-15T01:24:30.681263'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://performingsongwriter.com/bruce-hornsby-interview/
-- https://northernvirginiamag.com/things-to-do/things-to-do-features/2018/06/25/bruce-hornsby-talks-early-influences-and-finding-his-virginia-sound/
-- https://www.routemagazine.us/stories/a-conversation-with-bruce-hornsby
-- https://college.berklee.edu/bt/192/coverstory.html
-- https://www.brucehornsby.com/bio
+  - 'https://performingsongwriter.com/bruce-hornsby-interview/'
+  - >-
+    https://northernvirginiamag.com/things-to-do/things-to-do-features/2018/06/25/bruce-hornsby-talks-early-influences-and-finding-his-virginia-sound/
+  - 'https://www.routemagazine.us/stories/a-conversation-with-bruce-hornsby'
+  - 'https://college.berklee.edu/bt/192/coverstory.html'
+  - 'https://www.brucehornsby.com/bio'
 network_extracted: true
 entry_created: '2025-12-15T01:24:30.681276'
 last_updated: '2025-12-23T08:16:06.139519'
 members:
-- begin: '2014'
-  end: '2018'
-  instruments:
-  - fiddle
-  mbid: 461b3462-686c-4d52-b0f5-a3811ae1d1f2
-  name: Ross Holmes
-- &id001
-  begin: '2018'
-  end: ''
-  instruments:
-  - guitar
-  mbid: 5ec07483-c955-4a00-a2b5-670191c3058a
-  name: Gibb Droll
-- &id002
-  begin: '2018'
-  end: ''
-  instruments:
-  - fiddle
-  mbid: 34638717-24cb-4aef-a886-1f65e7f19acc
-  name: John Mailander
-- &id003
-  begin: '2018'
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 9c326f4f-2ca0-43dd-a6c4-48f6069aee71
-  name: Chad Wright
-- begin: ''
-  end: '2013'
-  instruments:
-  - guitar
-  mbid: 9292957d-cedd-4041-a39f-f4f27a773fb3
-  name: Doug Derryberry
-- begin: ''
-  end: '2014'
-  instruments:
-  - reeds
-  mbid: 7f744e7e-964b-410f-96ab-e815727ab18b
-  name: Bobby Read
-- begin: ''
-  end: '2018'
-  instruments:
-  - drums (drum set)
-  mbid: 25719de6-be98-4832-803b-aa1d9be42aa6
-  name: Sonny Emory
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 915fa854-11b5-47f6-998f-57c439113e4b
-  name: J.V. Collier
-- begin: ''
-  end: ''
-  instruments:
-  - bass
-  mbid: 7a52849b-725f-465c-bfa0-e240bdf6cd1e
-  name: Jervonny Collier
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - keyboard
-  - lead vocals
-  - original
-  - piano
-  mbid: e60dbba7-6f55-429a-bd22-5e9c6a87ae70
-  name: Bruce Hornsby
-- begin: ''
-  end: ''
-  instruments:
-  - keyboard
-  - organ
-  mbid: 74c984f0-e6aa-40f9-81b3-de533946ffaa
-  name: John "J.T." Thomas
+  - begin: '2014'
+    end: '2018'
+    instruments:
+      - fiddle
+    mbid: 461b3462-686c-4d52-b0f5-a3811ae1d1f2
+    name: Ross Holmes
+  - &ref_0
+    begin: '2018'
+    end: ''
+    instruments:
+      - guitar
+    mbid: 5ec07483-c955-4a00-a2b5-670191c3058a
+    name: Gibb Droll
+  - &ref_1
+    begin: '2018'
+    end: ''
+    instruments:
+      - fiddle
+    mbid: 34638717-24cb-4aef-a886-1f65e7f19acc
+    name: John Mailander
+  - &ref_2
+    begin: '2018'
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 9c326f4f-2ca0-43dd-a6c4-48f6069aee71
+    name: Chad Wright
+  - begin: ''
+    end: '2013'
+    instruments:
+      - guitar
+    mbid: 9292957d-cedd-4041-a39f-f4f27a773fb3
+    name: Doug Derryberry
+  - begin: ''
+    end: '2014'
+    instruments:
+      - reeds
+    mbid: 7f744e7e-964b-410f-96ab-e815727ab18b
+    name: Bobby Read
+  - begin: ''
+    end: '2018'
+    instruments:
+      - drums (drum set)
+    mbid: 25719de6-be98-4832-803b-aa1d9be42aa6
+    name: Sonny Emory
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 915fa854-11b5-47f6-998f-57c439113e4b
+    name: J.V. Collier
+  - begin: ''
+    end: ''
+    instruments:
+      - bass
+    mbid: 7a52849b-725f-465c-bfa0-e240bdf6cd1e
+    name: Jervonny Collier
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - keyboard
+      - lead vocals
+      - original
+      - piano
+    mbid: e60dbba7-6f55-429a-bd22-5e9c6a87ae70
+    name: Bruce Hornsby
+  - begin: ''
+    end: ''
+    instruments:
+      - keyboard
+      - organ
+    mbid: 74c984f0-e6aa-40f9-81b3-de533946ffaa
+    name: John "J.T." Thomas
 musicbrainz_id: e3940b01-5559-4cfe-b8f3-02a0e3d90423
-origin: Williamsburg, Virginia, USA
+origin: 'Williamsburg, Virginia, USA'
 original_members:
-- *id001
-- *id002
-- *id003
+  - *ref_0
+  - *ref_1
+  - *ref_2
+birth_place: 'Williamsburg, Virginia, United States'
 ---
 
 ![](bruce_hornsby_and_the_noisemakers.jpg)

@@ -1,75 +1,77 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - lead vocals
-  - original
-  - piano
-  mbid: 13c39eaa-e46c-4e66-a84d-a534f804e450
-  name: Jon Cleary and the Absolute Monster Gentlemen
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - lead vocals
+      - original
+      - piano
+    mbid: 13c39eaa-e46c-4e66-a84d-a534f804e450
+    name: Jon Cleary and the Absolute Monster Gentlemen
 biography_enhanced_at: '2026-01-22T07:13:48.204509'
 birth_date: '1962-08-11'
-birth_place: Kent
+birth_place: 'Cranbrook, Kent, England'
 disambiguation: US funk/R&B musician
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:13:48.204515'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a417f0e5-2c14-445a-9a07-5a7ad2bdeafa
-  spotify: https://open.spotify.com/artist/5AUpDp4yxURZjwzl1aOVyX
-  wikipedia: https://en.wikipedia.org/wiki/Jon_Cleary_(musician)
+  musicbrainz: 'https://musicbrainz.org/artist/a417f0e5-2c14-445a-9a07-5a7ad2bdeafa'
+  spotify: 'https://open.spotify.com/artist/5AUpDp4yxURZjwzl1aOVyX'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jon_Cleary_(musician)'
 gender: Male
 genres:
-- cajun
-- jazz funk
+  - cajun
+  - jazz funk
 image_path: 03_Resources/source_material/ArtistPortraits/jon_cleary.jpg
 instruments:
-- eponymous
-- lead vocals
-- original
-- piano
-- Wurlitzer electric piano
-- electric piano
-- guitar
-- electric guitar
-- Rhodes piano
-- background vocals
+  - eponymous
+  - lead vocals
+  - original
+  - piano
+  - Wurlitzer electric piano
+  - electric piano
+  - guitar
+  - electric guitar
+  - Rhodes piano
+  - background vocals
 last_updated: '2026-01-22T07:13:48.204516'
 musical_connections:
   collaborators:
-  - Bonnie Raitt
-  - Taj Mahal
-  - Cornell C. Williams
-  - A.J. Hall / Thomas Glass
+    - Bonnie Raitt
+    - Taj Mahal
+    - Cornell C. Williams
+    - A.J. Hall / Thomas Glass
   influenced: []
   mentors:
-  - Professor Longhair
-  - Dr. John (Mac Rebennack)
-  - James Booker
+    - Professor Longhair
+    - Dr. John (Mac Rebennack)
+    - James Booker
 musicbrainz_id: a417f0e5-2c14-445a-9a07-5a7ad2bdeafa
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jon_Cleary_(musician)
-- https://www.joncleary.com/about
-- https://www.singlelock.com/cleary
-- https://www.pianogroove.com/meet-the-team/jon-cleary/
-- https://delaluz.org/events/jon-cleary/
-- https://www.americanbluesscene.com/2024/05/beyond-the-keyboard-a-conversation-with-grammy-winning-musician-jon-cleary/
-- https://www.jazzalley.com/www-home/artist.jsp?shownum=1434
-- https://www.neworleans.com/listing/jon-cleary/46437/
+  - 'https://en.wikipedia.org/wiki/Jon_Cleary_(musician)'
+  - 'https://www.joncleary.com/about'
+  - 'https://www.singlelock.com/cleary'
+  - 'https://www.pianogroove.com/meet-the-team/jon-cleary/'
+  - 'https://delaluz.org/events/jon-cleary/'
+  - >-
+    https://www.americanbluesscene.com/2024/05/beyond-the-keyboard-a-conversation-with-grammy-winning-musician-jon-cleary/
+  - 'https://www.jazzalley.com/www-home/artist.jsp?shownum=1434'
+  - 'https://www.neworleans.com/listing/jon-cleary/46437/'
 spotify_data:
   followers: 25027
   id: 5AUpDp4yxURZjwzl1aOVyX
   popularity: 30
-  url: https://open.spotify.com/artist/5AUpDp4yxURZjwzl1aOVyX
+  url: 'https://open.spotify.com/artist/5AUpDp4yxURZjwzl1aOVyX'
 status: active
 tags:
-- blues
-- new orleans
-title: jon cleary
+  - blues
+  - new orleans
+title: Jon Cleary
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](jon_cleary.jpg)

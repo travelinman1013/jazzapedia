@@ -3,42 +3,46 @@ biography_enhanced_at: '2026-01-09T02:04:04.755289'
 enhancement_provider: perplexity
 entry_created: '2026-01-09T02:04:04.755297'
 external_urls:
-  spotify: https://open.spotify.com/artist/7kowgNVIlvDxx9Uhvcft5Y
-  wikipedia: https://en.wikipedia.org/wiki/Shirley_&_Lee
+  spotify: 'https://open.spotify.com/artist/7kowgNVIlvDxx9Uhvcft5Y'
+  wikipedia: 'https://en.wikipedia.org/wiki/Shirley_&_Lee'
 genres:
-- doo-wop
+  - doo-wop
 image_path: 03_Resources/source_material/ArtistPortraits/shirley_and_lee.jpg
 last_updated: '2026-01-09T02:04:04.755299'
 musical_connections:
   collaborators:
-  - Cosimo Matassa
-  - Big Mama Thornton
-  - The Spiders (vocal group, reportedly)
-  - Sylvia Robinson / Shirley & Company
+    - Cosimo Matassa
+    - Big Mama Thornton
+    - 'The Spiders (vocal group, reportedly)'
+    - Sylvia Robinson / Shirley & Company
   influenced:
-  - Early ska and reggae artists/producers in Jamaica
+    - Early ska and reggae artists/producers in Jamaica
   mentors:
-  - Dave Bartholomew
-  - Eddie Mesner (Aladdin Records co‑owner)
+    - Dave Bartholomew
+    - Eddie Mesner (Aladdin Records co‑owner)
 network_extracted: true
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- http://www.tsimon.com/shirley.htm
-- https://top40weekly.com/shirley-lee/
-- https://www.rocky-52.net/chanteurss/shirley&l.htm
-- https://en.wikipedia.org/wiki/Shirley_&_Lee
-- https://www.toppermost.co.uk/shirley-lee/
-- https://64parishes.org/entry/shirley-and-lee
-- https://doo-wop.blogg.org/shirley-lee-part-i-discography-biography-a125387342
-- https://tims.blackcat.nl/messages/shirley_and_lee.htm
+  - 'http://www.tsimon.com/shirley.htm'
+  - 'https://top40weekly.com/shirley-lee/'
+  - 'https://www.rocky-52.net/chanteurss/shirley&l.htm'
+  - 'https://en.wikipedia.org/wiki/Shirley_&_Lee'
+  - 'https://www.toppermost.co.uk/shirley-lee/'
+  - 'https://64parishes.org/entry/shirley-and-lee'
+  - >-
+    https://doo-wop.blogg.org/shirley-lee-part-i-discography-biography-a125387342
+  - 'https://tims.blackcat.nl/messages/shirley_and_lee.htm'
 spotify_data:
   followers: 12582
   id: 7kowgNVIlvDxx9Uhvcft5Y
   popularity: 30
-  url: https://open.spotify.com/artist/7kowgNVIlvDxx9Uhvcft5Y
+  url: 'https://open.spotify.com/artist/7kowgNVIlvDxx9Uhvcft5Y'
 status: active
-title: shirley and lee
+title: Shirley and Lee
+birth_place: 'New Orleans, Louisiana, United States'
+birth_date: '1936-06-19'
+artist_type: band
 ---
 
 ![](shirley_and_lee.jpg)

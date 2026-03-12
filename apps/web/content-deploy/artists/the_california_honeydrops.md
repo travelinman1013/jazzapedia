@@ -1,12 +1,12 @@
 ---
-title: the california honeydrops
+title: The California Honeydrops
 wiki_slug: the-california-honeydrops
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: 2007-11
 genres:
-- retro soul
+  - retro soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_california_honeydrops.jpg
   caption: the california honeydrops
@@ -27,118 +27,125 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Benjamin Malament
-  - Yanos 'Johnny Bones' Lustig
-  - Lorenzo Loera
-  - Beaumont Beaullieu
-  - Oliver Tuttle
-  - Leon Cotter
-  - Miles Lyons
-  - B.B. King
-  - Bonnie Raitt
-  - Dr. John
-  - Buddy Guy
-  - Allen Toussaint
+    - Benjamin Malament
+    - Yanos 'Johnny Bones' Lustig
+    - Lorenzo Loera
+    - Beaumont Beaullieu
+    - Oliver Tuttle
+    - Leon Cotter
+    - Miles Lyons
+    - B.B. King
+    - Bonnie Raitt
+    - Dr. John
+    - Buddy Guy
+    - Allen Toussaint
   influenced: []
   mentors:
-  - Louis Armstrong
-  - Sam Cooke
-  - Ray Charles
-  - Bay Area Blues Musicians (Jackie Payne, Freddie Hughes, Karl Green, Maria Muldaur)
+    - Louis Armstrong
+    - Sam Cooke
+    - Ray Charles
+    - >-
+      Bay Area Blues Musicians (Jackie Payne, Freddie Hughes, Karl Green, Maria
+      Muldaur)
 spotify_data:
   followers: 149999
   id: 21t0aavYGSGFkYYFhu6urk
   popularity: 50
-  url: https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk
+  url: 'https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk'
 discography_enriched: true
 top_tracks:
-- All Day, All Night (Like You Mean It)
-- Tumblin' (Soft Spot)
-- When It Was Wrong (Spreadin' Honey)
-- Live Learn (Call It Home, Vol. 1)
-- 'In My Baby''s Arms (Call It Home: Vol. 2)'
-- Get Real High
-- Shine Delight
-- Lead Me Home (A River's Invitation)
-- Good Times (Soft Spot (Deluxe))
-- When It Was Wrong (A River's Invitation)
+  - 'All Day, All Night (Like You Mean It)'
+  - Tumblin' (Soft Spot)
+  - When It Was Wrong (Spreadin' Honey)
+  - 'Live Learn (Call It Home, Vol. 1)'
+  - 'In My Baby''s Arms (Call It Home: Vol. 2)'
+  - Get Real High
+  - Shine Delight
+  - Lead Me Home (A River's Invitation)
+  - Good Times (Soft Spot (Deluxe))
+  - When It Was Wrong (A River's Invitation)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c144dbec-b0f1-4aae-b2e6-5087e44806c8
-  spotify: https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk
+  musicbrainz: 'https://musicbrainz.org/artist/c144dbec-b0f1-4aae-b2e6-5087e44806c8'
+  spotify: 'https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/the_california_honeydrops.jpg
 biography_enhanced_at: '2025-11-28T07:36:07.776192'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.vrtxmag.com/articles/strolling-down-memory-lane-with-the-california-honeydrops/
-- https://www.soundwavemusicmedia.net/stories-1/all-stories/2276976_the-california-honeydrops
-- https://www.jambandfriendly.com/articles/70-interview-honeydrops
-- https://relix.com/articles/detail/california-honeydrops/
-- https://rootfire.net/the-california-honeydrops/
-- https://cahoneydrops.com/about/
-- https://www.kunc.org/music/2014-05-10/the-california-honeydrops-american-band-polish-roots
-- https://www.pastemagazine.com/music/the-california-honeydrops/california-honeydrops-profile
-- https://www.americanbluesscene.com/2018/04/california-honeydrops-on-how-they-blend-nola-sensibilities-with-funky-rb/
+  - >-
+    https://www.vrtxmag.com/articles/strolling-down-memory-lane-with-the-california-honeydrops/
+  - >-
+    https://www.soundwavemusicmedia.net/stories-1/all-stories/2276976_the-california-honeydrops
+  - 'https://www.jambandfriendly.com/articles/70-interview-honeydrops'
+  - 'https://relix.com/articles/detail/california-honeydrops/'
+  - 'https://rootfire.net/the-california-honeydrops/'
+  - 'https://cahoneydrops.com/about/'
+  - >-
+    https://www.kunc.org/music/2014-05-10/the-california-honeydrops-american-band-polish-roots
+  - >-
+    https://www.pastemagazine.com/music/the-california-honeydrops/california-honeydrops-profile
+  - >-
+    https://www.americanbluesscene.com/2018/04/california-honeydrops-on-how-they-blend-nola-sensibilities-with-funky-rb/
 network_extracted: true
 entry_created: '2025-11-28T07:36:07.776203'
 last_updated: '2025-12-23T08:16:16.619260'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c3e047c7-1d31-4dfd-a306-fa5c042d5bb9
-  name: Chuk Barber
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e43eb188-9ea4-4319-9be3-f03903c707b7
-  name: Beau Bradbury
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9dc0dc87-3cb0-4863-a7af-3df8fcfee06d
-  name: Chris Burns
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4e45c02d-f041-4994-bcc3-16d6df273652
-  name: Seth Ford-Young
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a4909bc2-3d5c-4723-aea1-9ddc0248f910
-  name: Charlie Hickox
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a83baef9-23b1-48e1-a1ef-7d0a0a4cf5db
-  name: Lorenzo Loera
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 78df2aa9-aedd-4d6f-ba15-15e37a5390cf
-  name: Yanos Lustig
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 08287eed-5b58-4adc-b40d-30733268b29c
-  name: Ben Malament
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 77ec4f05-f27e-49f9-ba1a-4708ebdcc9ff
-  name: Nansamba Ssensalo
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 55c70db8-82ea-4f32-916a-86411da2fb2c
-  name: Lech Wierzynski
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c3e047c7-1d31-4dfd-a306-fa5c042d5bb9
+    name: Chuk Barber
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e43eb188-9ea4-4319-9be3-f03903c707b7
+    name: Beau Bradbury
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9dc0dc87-3cb0-4863-a7af-3df8fcfee06d
+    name: Chris Burns
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4e45c02d-f041-4994-bcc3-16d6df273652
+    name: Seth Ford-Young
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a4909bc2-3d5c-4723-aea1-9ddc0248f910
+    name: Charlie Hickox
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a83baef9-23b1-48e1-a1ef-7d0a0a4cf5db
+    name: Lorenzo Loera
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 78df2aa9-aedd-4d6f-ba15-15e37a5390cf
+    name: Yanos Lustig
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 08287eed-5b58-4adc-b40d-30733268b29c
+    name: Ben Malament
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 77ec4f05-f27e-49f9-ba1a-4708ebdcc9ff
+    name: Nansamba Ssensalo
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 55c70db8-82ea-4f32-916a-86411da2fb2c
+    name: Lech Wierzynski
 musicbrainz_id: c144dbec-b0f1-4aae-b2e6-5087e44806c8
-origin: Oakland
+origin: 'Oakland, California, United States'
 tags:
-- blues
-- contemporary blues
+  - blues
+  - contemporary blues
 ---
 
 ![](the_california_honeydrops.jpg)

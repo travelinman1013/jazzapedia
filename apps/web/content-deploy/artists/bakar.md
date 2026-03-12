@@ -2,47 +2,49 @@
 artist_type: person
 biography_enhanced_at: '2026-01-07T01:15:59.448671'
 birth_date: '1994-02-12'
-birth_place: Camden
+birth_place: 'Camden, London, England'
 disambiguation: British singer
 enhancement_provider: perplexity
 entry_created: '2026-01-07T01:15:59.448676'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/49ab0e3b-97ad-40c0-a664-5f40ce8129c7
-  spotify: https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H
-  wikipedia: https://en.wikipedia.org/wiki/Bakar_(musician)
+  musicbrainz: 'https://musicbrainz.org/artist/49ab0e3b-97ad-40c0-a664-5f40ce8129c7'
+  spotify: 'https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bakar_(musician)'
 gender: Male
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/bakar.jpg
 last_updated: '2026-01-07T01:15:59.448677'
 musical_connections:
   collaborators:
-  - Zach Nahome
-  - Dominic Fike
-  - Kenny Beats
-  - Sheck Wes
+    - Zach Nahome
+    - Dominic Fike
+    - Kenny Beats
+    - Sheck Wes
   influenced: []
   mentors:
-  - King Krule
-  - Kele Okereke (Bloc Party)
-  - Skepta
+    - King Krule
+    - Kele Okereke (Bloc Party)
+    - Skepta
 musicbrainz_id: 49ab0e3b-97ad-40c0-a664-5f40ce8129c7
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Bakar_(musician)
-- https://www.last.fm/music/Bakar/+wiki
-- https://first-avenue.com/performer/bakar/
-- https://www.masqueradeatlanta.com/attraction/bakar/
-- https://www.documentjournal.com/2022/04/bakar-nobodys-home-music-rap-punk-rock-indie/
-- https://www.ssense.com/en-gb/editorial/music/to-hell-n-back-with-bakar
-- https://magazine.032c.com/magazine/nepotism-is-all-i-ve-ever-wanted-an-interview-with-bakar-new-album-nobodys-home
-- https://coolhunting.com/culture/bakar-having-a-good-time-sometimes/
-- https://www.onestowatch.com/en/artist/bakar
+  - 'https://en.wikipedia.org/wiki/Bakar_(musician)'
+  - 'https://www.last.fm/music/Bakar/+wiki'
+  - 'https://first-avenue.com/performer/bakar/'
+  - 'https://www.masqueradeatlanta.com/attraction/bakar/'
+  - >-
+    https://www.documentjournal.com/2022/04/bakar-nobodys-home-music-rap-punk-rock-indie/
+  - 'https://www.ssense.com/en-gb/editorial/music/to-hell-n-back-with-bakar'
+  - >-
+    https://magazine.032c.com/magazine/nepotism-is-all-i-ve-ever-wanted-an-interview-with-bakar-new-album-nobodys-home
+  - 'https://coolhunting.com/culture/bakar-having-a-good-time-sometimes/'
+  - 'https://www.onestowatch.com/en/artist/bakar'
 spotify_data:
   followers: 726427
   id: 3K2Srho6NCF3o9MswGR76H
   popularity: 65
-  url: https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H
+  url: 'https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H'
 status: active
 title: Bakar
 ---

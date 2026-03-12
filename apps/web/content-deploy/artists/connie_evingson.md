@@ -5,16 +5,16 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1962'
-birth_place: Hibbing
+birth_place: 'Hibbing, Minnesota, United States'
 genres:
-- vocal jazz
-- french jazz
+  - vocal jazz
+  - french jazz
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1114f9cb-8a85-42f9-8390-b72a71309cb6
-  name: Moore by Four
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1114f9cb-8a85-42f9-8390-b72a71309cb6
+    name: Moore by Four
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/connie_evingson.jpg
   caption: Connie Evingson
@@ -36,54 +36,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Hot Club of Sweden
-  - John Jorgenson Quintet
-  - Dave Frishberg
-  - Minnesota Orchestra and Toronto Symphony (conducted by Doc Severinsen)
-  - Wynton Marsalis, Michael Feinstein, Vince Giordano
+    - The Hot Club of Sweden
+    - John Jorgenson Quintet
+    - Dave Frishberg
+    - Minnesota Orchestra and Toronto Symphony (conducted by Doc Severinsen)
+    - 'Wynton Marsalis, Michael Feinstein, Vince Giordano'
   influenced: []
   mentors:
-  - Peggy Lee
-  - Django Reinhardt
+    - Peggy Lee
+    - Django Reinhardt
 spotify_data:
   followers: 3765
   id: 1KNgrh4LkbMzbwOpOZr2Pq
   popularity: 16
-  url: https://open.spotify.com/artist/1KNgrh4LkbMzbwOpOZr2Pq
+  url: 'https://open.spotify.com/artist/1KNgrh4LkbMzbwOpOZr2Pq'
 discography_enriched: true
 top_tracks:
-- Nature Boy (Gypsy in My Soul)
-- Comes Love (Stockholm Sweetnin')
-- Black Orpheus (All the Cats Join In)
-- Dream a Little Dream of Me (All the Cats Join In)
-- Windmills of Your Mind (Stockholm Sweetnin')
-- Out of Nowhere (Stockholm Sweetnin')
-- Until (Gypsy in My Soul)
-- Lover Man (Stockholm Sweetnin')
-- Si Tu Savais (Stockholm Sweetnin')
-- Besame Mucho (Stockholm Sweetnin')
+  - Nature Boy (Gypsy in My Soul)
+  - Comes Love (Stockholm Sweetnin')
+  - Black Orpheus (All the Cats Join In)
+  - Dream a Little Dream of Me (All the Cats Join In)
+  - Windmills of Your Mind (Stockholm Sweetnin')
+  - Out of Nowhere (Stockholm Sweetnin')
+  - Until (Gypsy in My Soul)
+  - Lover Man (Stockholm Sweetnin')
+  - Si Tu Savais (Stockholm Sweetnin')
+  - Besame Mucho (Stockholm Sweetnin')
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/47d52ecb-a072-4887-9419-246d40f64efd
-  spotify: https://open.spotify.com/artist/1KNgrh4LkbMzbwOpOZr2Pq
+  musicbrainz: 'https://musicbrainz.org/artist/47d52ecb-a072-4887-9419-246d40f64efd'
+  spotify: 'https://open.spotify.com/artist/1KNgrh4LkbMzbwOpOZr2Pq'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/connie_evingson.jpg
 biography_enhanced_at: '2025-11-03T07:33:25.568315'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://connieevingson.com/about/
-- https://www.last.fm/music/Connie+Evingson+&+the+Hot+Club+of+Sweden/+wiki
-- https://www.aaemusic.com/artist/connie-evingson
-- https://www.allaboutjazz.com/musicians/connie-evingson/
-- https://www.allmusic.com/artist/connie-evingson-mn0000100104
-- https://www.mprnews.org/story/2008/02/20/evingsonfrishberg
+  - 'https://connieevingson.com/about/'
+  - 'https://www.last.fm/music/Connie+Evingson+&+the+Hot+Club+of+Sweden/+wiki'
+  - 'https://www.aaemusic.com/artist/connie-evingson'
+  - 'https://www.allaboutjazz.com/musicians/connie-evingson/'
+  - 'https://www.allmusic.com/artist/connie-evingson-mn0000100104'
+  - 'https://www.mprnews.org/story/2008/02/20/evingsonfrishberg'
 network_extracted: true
 entry_created: '2025-11-03T07:33:25.568322'
 last_updated: '2025-12-23T08:16:07.175077'
 gender: Female
 musicbrainz_id: 47d52ecb-a072-4887-9419-246d40f64efd
 tags:
-- vocal jazz
+  - vocal jazz
 ---
 
 ![](connie_evingson.jpg)

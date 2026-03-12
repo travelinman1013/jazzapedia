@@ -3,19 +3,19 @@ title: Harry Connick Jr.
 wiki_slug: harry-connick-jr
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- christmas
-- big band
-- vocal jazz
-- adult standards
+  - christmas
+  - big band
+  - vocal jazz
+  - adult standards
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Harry_Connick_Jr.jpg
   caption: Harry Connick Jr.
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
-  tempo_avg: 118.0
+  tempo_avg: 118
   energy_avg: 0.284
   valence_avg: 0.457
   danceability_avg: 0.541
@@ -29,52 +29,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Shannon Powell
-  - Mark Braud
-  - Leroy Jones
-  - Lucien Barbarin
+    - Shannon Powell
+    - Mark Braud
+    - Leroy Jones
+    - Lucien Barbarin
   influenced:
-  - Peter Cincotti
-  - Michael Bublé
+    - Peter Cincotti
+    - Michael Bublé
   mentors:
-  - Ellis Marsalis Jr.
-  - James Booker
+    - Ellis Marsalis Jr.
+    - James Booker
 spotify_data:
   followers: 555656
   id: 6u17YlWtW4oqFF5Hn9UU79
   popularity: 47
-  url: https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79
+  url: 'https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79'
 discography_enriched: true
 top_tracks:
-- It Had to Be You (Big Band and Vocals) (When Harry Met Sally... Music From The Motion Picture)
-- A Wink and a Smile
-- I Could Write a Book (When Harry Met Sally... Music From The Motion Picture)
-- We Are In Love (We Are In Love)
-- Recipe For Love (We Are In Love)
-- Find Me Falling (Song from the Netflix Film)
-- Just The Way You Are (Your Songs)
-- Where or When (When Harry Met Sally... Music From The Motion Picture)
-- 'Mind If I Make Love To You (True Love: A Celebration Of Cole Porter)'
-- Come By Me (Come By Me)
+  - >-
+    It Had to Be You (Big Band and Vocals) (When Harry Met Sally... Music From
+    The Motion Picture)
+  - A Wink and a Smile
+  - I Could Write a Book (When Harry Met Sally... Music From The Motion Picture)
+  - We Are In Love (We Are In Love)
+  - Recipe For Love (We Are In Love)
+  - Find Me Falling (Song from the Netflix Film)
+  - Just The Way You Are (Your Songs)
+  - Where or When (When Harry Met Sally... Music From The Motion Picture)
+  - 'Mind If I Make Love To You (True Love: A Celebration Of Cole Porter)'
+  - Come By Me (Come By Me)
 external_urls:
-  spotify: https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79
-  wikipedia: https://en.wikipedia.org/wiki/Harry_Connick_Jr.
+  spotify: 'https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79'
+  wikipedia: 'https://en.wikipedia.org/wiki/Harry_Connick_Jr.'
 image_path: 03_Resources/source_material/ArtistPortraits/Harry_Connick_Jr.jpg
 biography_enhanced_at: '2025-10-19T11:15:24.347171'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://musicrising.tulane.edu/discover/people/harry-connick-jr/
-- https://en.wikipedia.org/wiki/Harry_Connick_Jr.
-- https://www.harryconnickjr.com/about
-- https://www.britannica.com/biography/Harry-Connick-Jr
-- https://www.imdb.com/name/nm0001065/bio/
-- https://www.bso.org/profiles/harry-connick-jr
-- https://www.sfsymphony.org/Data/Event-Data/Artists/C/Harry-Connick-Jr
-- https://www.last.fm/music/Harry+Connick,+Jr./+wiki
+  - 'https://musicrising.tulane.edu/discover/people/harry-connick-jr/'
+  - 'https://en.wikipedia.org/wiki/Harry_Connick_Jr.'
+  - 'https://www.harryconnickjr.com/about'
+  - 'https://www.britannica.com/biography/Harry-Connick-Jr'
+  - 'https://www.imdb.com/name/nm0001065/bio/'
+  - 'https://www.bso.org/profiles/harry-connick-jr'
+  - 'https://www.sfsymphony.org/Data/Event-Data/Artists/C/Harry-Connick-Jr'
+  - 'https://www.last.fm/music/Harry+Connick,+Jr./+wiki'
 network_extracted: true
 entry_created: '2025-10-19T11:15:24.347190'
 last_updated: '2025-12-23T08:16:02.211362'
+birth_date: '1967-09-11'
+artist_type: person
 ---
 
 ![](Harry_Connick_Jr.jpg)

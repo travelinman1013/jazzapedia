@@ -5,24 +5,24 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1947-02-14'
-birth_place: Washington, D.C.
+birth_place: 'Washington, D.C., United States'
 death_date: '1975-06-29'
 genres:
-- folk rock
-- folk
+  - folk rock
+  - folk
 instruments:
-- 12 string guitar
-- guitar
-- slide guitar
-- acoustic guitar
-- background vocals
-- lead vocals
+  - 12 string guitar
+  - guitar
+  - slide guitar
+  - acoustic guitar
+  - background vocals
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/tim_buckley.jpg
   caption: Tim Buckley
   background: solo_singer
   born: '1947-02-14'
-  origin: Washington, D.C.
+  origin: 'Washington, D.C.'
   died: '1975-06-29'
 audio_profile:
   tempo_avg: 115.2
@@ -39,59 +39,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lee Underwood
-  - Herb Cohen
-  - Jack Nitzsche
-  - David Friedman
-  - Joe Falsia, Buddy Helm
+    - Lee Underwood
+    - Herb Cohen
+    - Jack Nitzsche
+    - David Friedman
+    - 'Joe Falsia, Buddy Helm'
   influenced:
-  - Starsailor (band)
-  - This Mortal Coil
+    - Starsailor (band)
+    - This Mortal Coil
   mentors:
-  - Larry Beckett
-  - Charles Mingus, Thelonious Monk, Roland Kirk, Leon Thomas
-  - Cathy Berberian
+    - Larry Beckett
+    - 'Charles Mingus, Thelonious Monk, Roland Kirk, Leon Thomas'
+    - Cathy Berberian
 spotify_data:
   followers: 283516
   id: 6zHRqvws8dVeqL8D31ponr
   popularity: 47
-  url: https://open.spotify.com/artist/6zHRqvws8dVeqL8D31ponr
+  url: 'https://open.spotify.com/artist/6zHRqvws8dVeqL8D31ponr'
 discography_enriched: true
 top_tracks:
-- Song to the Siren - Take 7
-- Once I Was (Goodbye And Hello)
-- Buzzin' Fly (Happy Sad)
-- Pleasant Street (Goodbye And Hello)
-- Phantasmagoria in Two (Goodbye And Hello)
-- Dolphins - Remastered (Sefronia (Remastered))
-- Sweet Surrender (Greetings From L.A.)
-- Sing a Song for You (Happy Sad)
-- Song To the Siren
-- Get on Top (Greetings From L.A.)
+  - Song to the Siren - Take 7
+  - Once I Was (Goodbye And Hello)
+  - Buzzin' Fly (Happy Sad)
+  - Pleasant Street (Goodbye And Hello)
+  - Phantasmagoria in Two (Goodbye And Hello)
+  - Dolphins - Remastered (Sefronia (Remastered))
+  - Sweet Surrender (Greetings From L.A.)
+  - Sing a Song for You (Happy Sad)
+  - Song To the Siren
+  - Get on Top (Greetings From L.A.)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8546949d-f46c-45ab-8391-85b26dda6b65
-  spotify: https://open.spotify.com/artist/6zHRqvws8dVeqL8D31ponr
+  musicbrainz: 'https://musicbrainz.org/artist/8546949d-f46c-45ab-8391-85b26dda6b65'
+  spotify: 'https://open.spotify.com/artist/6zHRqvws8dVeqL8D31ponr'
   wikipedia: Not provided in search results
 image_path: 03_Resources/source_material/ArtistPortraits/tim_buckley.jpg
 biography_enhanced_at: '2025-11-27T06:26:35.110888'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- timbuckleymusic.com - About TBM
-- totallylessons.com - Tim Buckley Forum
-- love.torbenskott.dk - Tim Buckley Discussion
-- timbuckley.net - Biography Archives
-- mojopin.org - Tim Buckley Albums
+  - timbuckleymusic.com - About TBM
+  - totallylessons.com - Tim Buckley Forum
+  - love.torbenskott.dk - Tim Buckley Discussion
+  - timbuckley.net - Biography Archives
+  - mojopin.org - Tim Buckley Albums
 network_extracted: true
 entry_created: '2025-11-27T06:26:35.110900'
 last_updated: '2025-12-23T08:16:17.424939'
-disambiguation: 1960s~1970s US vocalist, songwriter, guitarist & producer
+disambiguation: '1960s~1970s US vocalist, songwriter, guitarist & producer'
 gender: Male
 musicbrainz_id: 8546949d-f46c-45ab-8391-85b26dda6b65
 tags:
-- avant-folk
-- folk
-- psychedelic folk
+  - avant-folk
+  - folk
+  - psychedelic folk
+is_active: false
+origin: 'Los Angeles, California, United States'
 ---
 
 ![](tim_buckley.jpg)

@@ -2,14 +2,15 @@
 title: Fi Yi Yi & The Mandingo Warriors
 wiki_slug: fi-yi-yi-the-mandingo-warriors
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 genres:
-- mandopop
-- taiwanese pop
-- c-pop
+  - mandopop
+  - taiwanese pop
+  - c-pop
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/Fi_Yi_Yi_and_The_Mandingo_Warriors.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/Fi_Yi_Yi_and_The_Mandingo_Warriors.jpg
   caption: Fi Yi Yi & The Mandingo Warriors
   background: solo_singer
 audio_profile:
@@ -27,54 +28,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jack Robertson
-  - Wesley Phillips
-  - Collins 'Coach' Lewis
+    - Jack Robertson
+    - Wesley Phillips
+    - Collins 'Coach' Lewis
   influenced:
-  - Victor Harris, Jr.
-  - Calsey
+    - 'Victor Harris, Jr.'
+    - Calsey
   mentors:
-  - Allison 'Tootie' Montana
+    - Allison 'Tootie' Montana
 spotify_data:
   followers: 237324
   id: 5oqLnVZzJJXE3YnzzZfRKu
   popularity: 54
-  url: https://open.spotify.com/artist/5oqLnVZzJJXE3YnzzZfRKu
+  url: 'https://open.spotify.com/artist/5oqLnVZzJJXE3YnzzZfRKu'
 discography_enriched: true
 top_tracks:
-- 我們的愛 (飛兒樂團)
-- 千年之戀 (無限)
-- 月牙灣 (愛‧歌姬)
-- Lydia (飛兒樂團)
-- 你的微笑 (飛兒樂團)
-- 月牙灣 (愛‧歌姬)
-- 天天夜夜 (feat. 黎安萊姆絲) (飛行部落)
-- Fly Away (飛兒樂團)
-- 眷戀 (飛行部落)
-- 星火 (末日青春：補完計劃)
+  - 我們的愛 (飛兒樂團)
+  - 千年之戀 (無限)
+  - 月牙灣 (愛‧歌姬)
+  - Lydia (飛兒樂團)
+  - 你的微笑 (飛兒樂團)
+  - 月牙灣 (愛‧歌姬)
+  - 天天夜夜 (feat. 黎安萊姆絲) (飛行部落)
+  - Fly Away (飛兒樂團)
+  - 眷戀 (飛行部落)
+  - 星火 (末日青春：補完計劃)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5d029e00-9e59-4ecf-8625-85525f234c64
-  spotify: https://open.spotify.com/artist/5oqLnVZzJJXE3YnzzZfRKu
+  musicbrainz: 'https://musicbrainz.org/artist/5d029e00-9e59-4ecf-8625-85525f234c64'
+  spotify: 'https://open.spotify.com/artist/5oqLnVZzJJXE3YnzzZfRKu'
   wikipedia: null
-image_path: 03_Resources/source_material/ArtistPortraits/Fi_Yi_Yi_and_The_Mandingo_Warriors.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/Fi_Yi_Yi_and_The_Mandingo_Warriors.jpg
 biography_enhanced_at: '2025-10-20T09:54:45.234823'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://veritenews.org/2024/02/12/spirit-of-the-fi-yi-yi-retiring/
-- https://whatssospecialaboutneworleans.blogspot.com/2018/05/new-book-explores-spirit-of-fi-yi-yi.html
-- http://www.louisianaweekly.com/victor-harris-the-spirit-of-fi-yi-yi-55-years-of-spreading-joy/
-- https://www.myneworleans.com/spirit-of-fi-yi-yi/
-- https://www.neighborhoodstoryproject.org/product-page/fire-in-the-hole-the-spirit-work-of-fi-yi-yi-and-the-mandingo-warriors
-- https://digitalcommons.xula.edu/masked/22/
-- https://noma.org/event/big-chief-harris-retirement-celebration/
-- https://www.offbeat.com/news/fi-yi-yi-forever-retirement-celebration-for-big-chief-victor-harris/
+  - 'https://veritenews.org/2024/02/12/spirit-of-the-fi-yi-yi-retiring/'
+  - >-
+    https://whatssospecialaboutneworleans.blogspot.com/2018/05/new-book-explores-spirit-of-fi-yi-yi.html
+  - >-
+    http://www.louisianaweekly.com/victor-harris-the-spirit-of-fi-yi-yi-55-years-of-spreading-joy/
+  - 'https://www.myneworleans.com/spirit-of-fi-yi-yi/'
+  - >-
+    https://www.neighborhoodstoryproject.org/product-page/fire-in-the-hole-the-spirit-work-of-fi-yi-yi-and-the-mandingo-warriors
+  - 'https://digitalcommons.xula.edu/masked/22/'
+  - 'https://noma.org/event/big-chief-harris-retirement-celebration/'
+  - >-
+    https://www.offbeat.com/news/fi-yi-yi-forever-retirement-celebration-for-big-chief-victor-harris/
 network_extracted: true
 entry_created: '2025-10-20T09:54:45.234838'
 last_updated: '2025-12-23T08:16:02.004968'
 musicbrainz_enriched_at: '2025-10-21T09:26:29.884575'
 musicbrainz_id: 5d029e00-9e59-4ecf-8625-85525f234c64
-origin: 7th Ward, New Orleans, Louisiana, USA
+origin: '7th Ward, New Orleans, Louisiana, USA'
 ---
 
 ![](Fi_Yi_Yi_and_The_Mandingo_Warriors.jpg)

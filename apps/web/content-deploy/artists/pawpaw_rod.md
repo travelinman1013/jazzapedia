@@ -1,35 +1,37 @@
 ---
 biography_enhanced_at: '2025-12-31T01:44:02.730878'
-birth_place: Hawaii (born), Oklahoma (raised), United States
+birth_place: 'Hawaii (born), Oklahoma (raised), United States'
 enhancement_provider: perplexity
 entry_created: '2025-12-31T01:44:02.730883'
 external_urls:
-  spotify: https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq
+  spotify: 'https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq'
   wikipedia: ''
 genres:
-- indie r&b
+  - indie r&b
 image_path: 03_Resources/source_material/ArtistPortraits/pawpaw_rod.jpg
 last_updated: '2025-12-31T01:44:02.730884'
 musical_connections:
   collaborators: []
   influenced: []
   mentors:
-  - Bill Withers
-  - Gil Scott-Heron
+    - Bill Withers
+    - Gil Scott-Heron
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://acclaimmag.com/music/pawpaw-rod/
-- https://www.last.fm/music/PawPaw+Rod/+wiki
-- https://schonmagazine.com/interview-paw-paw-rod/
-- https://www.bangeroftheday.co/singles/beautiful-pawpawrod
+  - 'https://acclaimmag.com/music/pawpaw-rod/'
+  - 'https://www.last.fm/music/PawPaw+Rod/+wiki'
+  - 'https://schonmagazine.com/interview-paw-paw-rod/'
+  - 'https://www.bangeroftheday.co/singles/beautiful-pawpawrod'
 spotify_data:
   followers: 105184
   id: 23KIrX6iPiVOkx60F4bjNq
   popularity: 47
-  url: https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq
+  url: 'https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq'
 status: active
 title: PawPaw Rod
+origin: 'Oklahoma, United States'
+artist_type: person
 ---
 
 ![](pawpaw_rod.jpg)

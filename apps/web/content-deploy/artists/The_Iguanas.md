@@ -4,7 +4,7 @@ wiki_slug: the-iguanas
 schema_version: 2
 status: active
 genres:
-- tejano
+  - tejano
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/The_Iguanas.jpg
   caption: The Iguanas
@@ -24,49 +24,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jim Osterberg (Iggy Pop)
-  - Jim McLaughlin
-  - Nick Kolokithas
-  - Don Swickerath
-  - Sam Swisher
+    - Jim Osterberg (Iggy Pop)
+    - Jim McLaughlin
+    - Nick Kolokithas
+    - Don Swickerath
+    - Sam Swisher
   influenced:
-  - Iggy Pop
+    - Iggy Pop
   mentors:
-  - Duane Eddy
-  - Chuck Berry
+    - Duane Eddy
+    - Chuck Berry
 spotify_data:
   followers: 428
   id: 3N8BqodrNXOnKkiK7IQCEe
   popularity: 18
-  url: https://open.spotify.com/artist/3N8BqodrNXOnKkiK7IQCEe
+  url: 'https://open.spotify.com/artist/3N8BqodrNXOnKkiK7IQCEe'
 discography_enriched: true
 top_tracks:
-- Love, Sucker (Juarez)
-- Panama Tones / Nuevo Boogaloo (Nuevo Boogaloo)
-- Para Donde Vas (The Iguanas)
-- Por Mi Camino (The Iguanas)
-- Oye, Isabel (Nuevo Boogaloo)
-- Boom Boom Boom (Nuevo Boogaloo)
-- Late At Night (The Iguanas)
-- Fortune Teller (The Iguanas)
-- No Te Olvidare (The Iguanas)
-- El Orangutan (Nuevo Boogaloo)
+  - 'Love, Sucker (Juarez)'
+  - Panama Tones / Nuevo Boogaloo (Nuevo Boogaloo)
+  - Para Donde Vas (The Iguanas)
+  - Por Mi Camino (The Iguanas)
+  - 'Oye, Isabel (Nuevo Boogaloo)'
+  - Boom Boom Boom (Nuevo Boogaloo)
+  - Late At Night (The Iguanas)
+  - Fortune Teller (The Iguanas)
+  - No Te Olvidare (The Iguanas)
+  - El Orangutan (Nuevo Boogaloo)
 external_urls:
-  spotify: https://open.spotify.com/artist/3N8BqodrNXOnKkiK7IQCEe
-  wikipedia: https://en.wikipedia.org/wiki/The_Iguanas_(Michigan_band)
+  spotify: 'https://open.spotify.com/artist/3N8BqodrNXOnKkiK7IQCEe'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Iguanas_(Michigan_band)'
 image_path: 03_Resources/source_material/ArtistPortraits/The_Iguanas.jpg
 biography_enhanced_at: '2025-10-21T06:38:23.325497'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Iguanas_(Michigan_band)
-- https://99wfmk.com/the-iguanas-iggy-pop1/
-- https://michiganrockandrolllegends.com/hall-of-fame/artists/338-iguanas
+  - 'https://en.wikipedia.org/wiki/The_Iguanas_(Michigan_band)'
+  - 'https://99wfmk.com/the-iguanas-iggy-pop1/'
+  - 'https://michiganrockandrolllegends.com/hall-of-fame/artists/338-iguanas'
 network_extracted: true
 entry_created: '2025-10-21T06:38:23.325513'
 last_updated: '2025-12-23T08:16:04.082545'
-origin: Ann Arbor, Michigan, United States
-
+origin: 'Ann Arbor, Michigan, United States'
+artist_type: band
 ---
 
 ![](The_Iguanas.jpg)

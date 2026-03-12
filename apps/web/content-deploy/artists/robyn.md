@@ -1,64 +1,64 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 73d2df02-cd34-46bd-bf5c-9656039f749e
-  name: Robyn & La Bagatelle Magique
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 73d2df02-cd34-46bd-bf5c-9656039f749e
+    name: Robyn & La Bagatelle Magique
 biography_enhanced_at: '2026-01-06T02:14:00.753736'
 birth_date: '1979-06-12'
-birth_place: Stockholm
+birth_place: 'Stockholm, Sweden'
 disambiguation: Swedish singer and songwriter Robin Carlsson
 enhancement_provider: perplexity
 entry_created: '2026-01-06T02:14:00.753741'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5a8e07d5-d932-4484-a7f7-e700793a9c94
-  spotify: https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2
-  wikipedia: https://en.wikipedia.org/wiki/Robyn
+  musicbrainz: 'https://musicbrainz.org/artist/5a8e07d5-d932-4484-a7f7-e700793a9c94'
+  spotify: 'https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2'
+  wikipedia: 'https://en.wikipedia.org/wiki/Robyn'
 gender: Female
 genres:
-- swedish pop
+  - swedish pop
 image_path: 03_Resources/source_material/ArtistPortraits/robyn.jpg
 instruments:
-- eponymous
-- original
-- lead vocals
-- background vocals
-- spoken vocals
-- vocal
+  - eponymous
+  - original
+  - lead vocals
+  - background vocals
+  - spoken vocals
+  - vocal
 last_updated: '2026-01-06T02:14:00.753742'
 musical_connections:
   collaborators:
-  - Klas Åhlund
-  - The Knife
-  - Röyksopp
-  - Ulf Lindstrom and Johan Ekhe
+    - Klas Åhlund
+    - The Knife
+    - Röyksopp
+    - Ulf Lindstrom and Johan Ekhe
   influenced: []
   mentors:
-  - Meja
-  - Max Martin
-  - Denniz Pop
+    - Meja
+    - Max Martin
+    - Denniz Pop
 musicbrainz_id: 5a8e07d5-d932-4484-a7f7-e700793a9c94
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Robyn
-- https://top40-charts.com/artist.php?aid=1374
-- https://www.last.fm/music/Robyn/+wiki
-- https://www.allamericanspeakers.com/celebritytalentbios/Robyn/450651
+  - 'https://en.wikipedia.org/wiki/Robyn'
+  - 'https://top40-charts.com/artist.php?aid=1374'
+  - 'https://www.last.fm/music/Robyn/+wiki'
+  - 'https://www.allamericanspeakers.com/celebritytalentbios/Robyn/450651'
 spotify_data:
   followers: 898751
   id: 6UE7nl9mha6s8z0wFQFIZ2
   popularity: 65
-  url: https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2
+  url: 'https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2'
 status: active
 tags:
-- alternative dance
-- alternative/indie rock
-- club
+  - alternative dance
+  - alternative/indie rock
+  - club
 title: Robyn
 ---
 

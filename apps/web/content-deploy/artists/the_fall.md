@@ -2,24 +2,24 @@
 title: The Fall
 wiki_slug: the-fall
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1976'
 genres:
-- post-punk
-- madchester
-- new wave
-- proto-punk
+  - post-punk
+  - madchester
+  - new wave
+  - proto-punk
 instruments:
-- original
-- additional
+  - original
+  - additional
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_fall.jpg
   caption: The Fall
   background: group_or_band
   born: '1976'
 audio_profile:
-  tempo_avg: 132.0
+  tempo_avg: 132
   energy_avg: 0.759
   valence_avg: 0.647
   danceability_avg: 0.499
@@ -33,322 +33,322 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Martin Bramah
-  - Brix Smith
-  - Steve Hanley
-  - Craig Scanlon
-  - Karl Burns
+    - Martin Bramah
+    - Brix Smith
+    - Steve Hanley
+    - Craig Scanlon
+    - Karl Burns
   influenced:
-  - LCD Soundsystem
-  - Sonic Youth
-  - Elastica
-  - The Smiths
+    - LCD Soundsystem
+    - Sonic Youth
+    - Elastica
+    - The Smiths
   mentors:
-  - Can
-  - The Velvet Underground
-  - Captain Beefheart
-  - Sex Pistols
+    - Can
+    - The Velvet Underground
+    - Captain Beefheart
+    - Sex Pistols
 spotify_data:
   followers: 211269
   id: 6WoTvA9qinpHtSRJuldYh6
   popularity: 41
-  url: https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6
+  url: 'https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6'
 discography_enriched: true
 top_tracks:
-- Totally Wired
-- Lost in Music (The Infotainment Scan)
-- Victoria (The Frenz Experiment)
-- Bill Is Dead (Extricate (Expanded Edition))
-- Hit the North - Part 1 (The Frenz Experiment)
-- Mountain Energei (The Real New Fall Formerly 'Country On The Click')
-- L.A. (This Nation's Saving Grace)
-- Theme From Sparta F.C.
-- New Big Prinz (I Am Kurious Oranj)
-- Mr. Pharmacist (Bend Sinister)
+  - Totally Wired
+  - Lost in Music (The Infotainment Scan)
+  - Victoria (The Frenz Experiment)
+  - Bill Is Dead (Extricate (Expanded Edition))
+  - Hit the North - Part 1 (The Frenz Experiment)
+  - Mountain Energei (The Real New Fall Formerly 'Country On The Click')
+  - L.A. (This Nation's Saving Grace)
+  - Theme From Sparta F.C.
+  - New Big Prinz (I Am Kurious Oranj)
+  - Mr. Pharmacist (Bend Sinister)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d5da1841-9bc8-4813-9f89-11098090148e
-  spotify: https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6
-  wikipedia: https://en.wikipedia.org/wiki/The_Fall_(band)
+  musicbrainz: 'https://musicbrainz.org/artist/d5da1841-9bc8-4813-9f89-11098090148e'
+  spotify: 'https://open.spotify.com/artist/6WoTvA9qinpHtSRJuldYh6'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Fall_(band)'
 image_path: 03_Resources/source_material/ArtistPortraits/the_fall.jpg
 biography_enhanced_at: '2025-10-26T12:35:35.325523'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Fall_(band)
-- https://en.wikipedia.org/wiki/Mark_E._Smith
-- https://forums.stevehoffman.tv/threads/the-wonderful-and-frightening-world-of-mark-e-smith-a-guide-to-the-fall.1045177/
-- https://www.vice.com/en/article/the-oral-history-of-mark-e-smith/
+  - 'https://en.wikipedia.org/wiki/The_Fall_(band)'
+  - 'https://en.wikipedia.org/wiki/Mark_E._Smith'
+  - >-
+    https://forums.stevehoffman.tv/threads/the-wonderful-and-frightening-world-of-mark-e-smith-a-guide-to-the-fall.1045177/
+  - 'https://www.vice.com/en/article/the-oral-history-of-mark-e-smith/'
 network_extracted: true
 entry_created: '2025-10-26T12:35:35.325532'
 last_updated: '2025-12-23T08:16:16.773216'
 disambiguation: English post‐punk group founded by Mark E. Smith
 members:
-- begin: '1976'
-  end: 1978-03
-  instruments: []
-  mbid: 8afef734-a652-494e-b25e-0ff895fba38e
-  name: Una Baines
-- begin: '1976'
-  end: 1979-04
-  instruments: []
-  mbid: d956f22a-27bf-45a0-9362-821eea53ddbb
-  name: Martin Bramah
-- begin: '1976'
-  end: '2018-01-24'
-  instruments:
-  - original
-  mbid: 35e5ce55-486d-40a4-9ab5-08de9be70d33
-  name: Mark E. Smith
-- begin: 1977-05
-  end: 1978-12
-  instruments: []
-  mbid: 4c79d249-fed7-4d8f-a05a-eeb96a6bdd02
-  name: Karl Burns
-- begin: '1977'
-  end: 1983-04
-  instruments:
-  - additional
-  mbid: 24a562e4-10b1-4b23-bcc3-bc4dd0bd88e5
-  name: Kay Carroll
-- begin: 1978-01
-  end: 1978-01
-  instruments: []
-  mbid: 1d5c5745-1b56-4e92-a1e4-50ca9e5338d5
-  name: Jonnie Brown
-- begin: 1978-05
-  end: 1979-07
-  instruments: []
-  mbid: d3433b42-5b9b-461b-8fb7-cab5c51caa8a
-  name: Yvonne Pawlett
-- begin: 1978-06
-  end: 1982-10
-  instruments: []
-  mbid: 9b872fea-1c8e-42f8-878d-c8356de79bba
-  name: Marc Riley
-- begin: 1979-01
-  end: 1980-03
-  instruments: []
-  mbid: 1c87746b-8336-42bb-b0f2-3514ba8e2398
-  name: Mike Leigh
-- begin: 1979-04
-  end: 1995-12
-  instruments: []
-  mbid: b753f2bf-6762-4c7b-8543-4a080d90dc35
-  name: Craig Scanlon
-- begin: 1979-04
-  end: 1998-04
-  instruments: []
-  mbid: 3f9f7175-2454-44fb-b4fe-9074437d4823
-  name: Steve Hanley
-- begin: 1980-03
-  end: 1985-03
-  instruments: []
-  mbid: a929debb-1405-49b5-83f3-c76729e8dc7d
-  name: Paul Hanley
-- begin: 1981-10
-  end: 1986-06
-  instruments: []
-  mbid: 4c79d249-fed7-4d8f-a05a-eeb96a6bdd02
-  name: Karl Burns
-- begin: 1983-09
-  end: 1989-07
-  instruments: []
-  mbid: d9333ce8-da19-4e65-ba78-d6ee63addfb2
-  name: Brix Smith
-- begin: 1985-03
-  end: 1986-10
-  instruments: []
-  mbid: e8b16007-91e1-4239-9c28-463df118db71
-  name: Simon Rogers
-- begin: 1986-06
-  end: 1997-08
-  instruments: []
-  mbid: 061afc53-ede6-4ad9-86e9-0efb691293fd
-  name: Simon Wolstencroft
-- begin: 1986-10
-  end: 1990-07
-  instruments: []
-  mbid: d9554a0d-e690-4555-8467-9e51fdce13c3
-  name: Marcia Schofield
-- begin: 1989-07
-  end: 1990-07
-  instruments: []
-  mbid: d956f22a-27bf-45a0-9362-821eea53ddbb
-  name: Martin Bramah
-- begin: 1990-07
-  end: 1991-06
-  instruments: []
-  mbid: 4d595c4e-2083-4cf8-9bc6-a63f0d1e9997
-  name: Kenny Brady
-- begin: 1991-08
-  end: 1995-11
-  instruments: []
-  mbid: 33d623fa-cbe8-4bc0-858f-b58fe39ab282
-  name: Dave Bush
-- begin: 1993-01
-  end: 1996-12
-  instruments: []
-  mbid: 4c79d249-fed7-4d8f-a05a-eeb96a6bdd02
-  name: Karl Burns
-- begin: 1994-08
-  end: 1996-10
-  instruments: []
-  mbid: d9333ce8-da19-4e65-ba78-d6ee63addfb2
-  name: Brix Smith
-- begin: 1995-11
-  end: 2001-08
-  instruments: []
-  mbid: e4bdd764-5bc8-41ef-9592-d352c205fe3e
-  name: Julia Adamson
-- begin: 1996-12
-  end: 1997-02
-  instruments: []
-  mbid: 2248fcd1-1fb7-4cc7-b933-e1c35010d803
-  name: Adrian Flanagan
-- begin: 1997-05
-  end: 1998-04
-  instruments: []
-  mbid: 4c79d249-fed7-4d8f-a05a-eeb96a6bdd02
-  name: Karl Burns
-- begin: 1997-08
-  end: 1998-04
-  instruments: []
-  mbid: 4bc5a367-a0c9-453d-9f40-ecae316e1282
-  name: Tommy Crooks
-- begin: 1998-04
-  end: 1998-05
-  instruments: []
-  mbid: d4046aca-9fdb-4318-af33-234297582e1f
-  name: Kate Themen
-- begin: 1998-08
-  end: 1998-12
-  instruments: []
-  mbid: d820a398-3fb6-4586-9c27-d3ec89c810e6
-  name: Karen Leatham
-- begin: 1998-08
-  end: 2000-11
-  instruments: []
-  mbid: dbba2bfc-dccc-4bd1-9a63-80e9646f81c4
-  name: Tom Head
-- begin: 1998-11
-  end: 2001-02
-  instruments: []
-  mbid: 964486c0-8f74-421c-b475-f959785518d9
-  name: Neville Wilding
-- begin: 1998-12
-  end: 2001-02
-  instruments: []
-  mbid: 83260607-48d7-4acf-bcf1-4082f41ce630
-  name: Adam Helal
-- begin: 2000-11
-  end: 2001-11
-  instruments: []
-  mbid: 579a9f78-f495-4bc2-8458-cb647305e860
-  name: Spencer Birtwistle
-- begin: '2000'
-  end: '2004'
-  instruments:
-  - additional
-  mbid: 5c48d8b4-ac7a-4b10-b693-929e864859a4
-  name: Ed Blaney
-- begin: 2001-02
-  end: 2003-03
-  instruments: []
-  mbid: 2c71b9e8-94a6-43e6-9207-f81cb876cfd1
-  name: Jim Watts
-- begin: 2001-02
-  end: 2006-05
-  instruments: []
-  mbid: 12abc510-1418-4f8c-96eb-358e7c2b42fa
-  name: Ben Pritchard
-- begin: 2001-11
-  end: 2004-06
-  instruments: []
-  mbid: ca790773-b4b2-4058-9f0c-8a48cc46eeae
-  name: Dave Milner
-- begin: '2001'
-  end: '2001'
-  instruments: []
-  mbid: 3e8756b1-17e7-4a9d-9cda-cb8bf4b1216b
-  name: Brian Fanning
-- begin: 2002-09
-  end: 2016-07
-  instruments: []
-  mbid: d2e7fcdc-7f40-4aca-b23d-a0f9a2dee932
-  name: Elena Poulou
-- begin: 2003-04
-  end: 2004-04
-  instruments: []
-  mbid: 7913e27b-f5e1-4000-91c4-53b0ca5e9f90
-  name: Simon Archer
-- begin: 2004-04
-  end: 2006-05
-  instruments: []
-  mbid: 23d3062f-2fc4-4b2f-920e-1361dce43c15
-  name: Steven Trafford
-- begin: 2004-07
-  end: 2004-12
-  instruments: []
-  mbid: 2c71b9e8-94a6-43e6-9207-f81cb876cfd1
-  name: Jim Watts
-- begin: 2004-07
-  end: 2006-05
-  instruments: []
-  mbid: 579a9f78-f495-4bc2-8458-cb647305e860
-  name: Spencer Birtwistle
-- begin: 2006-09
-  end: 2018-02
-  instruments: []
-  mbid: 4259c44e-21c1-4e9f-9bad-a32e8ad19763
-  name: David Spurr
-- begin: '2007-06-01'
-  end: 2018-02
-  instruments: []
-  mbid: fde7f72d-3f7f-4b90-93e3-7d70994da94c
-  name: Pete Greenway
-- begin: '2007-06-01'
-  end: 2018-02
-  instruments: []
-  mbid: f26e76ec-3847-419a-9411-a5059fc749b8
-  name: Keiron Melling
-- begin: ''
-  end: 1977-12
-  instruments:
-  - original
-  mbid: 3250f1a9-46f9-435b-885d-9255d592e336
-  name: Tony Friel
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ddbc8dc2-d023-40f5-9be4-9320a76a0fbf
-  name: Daren Garratt
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f5af3a8f-cd98-43da-a6dd-6e0c51127679
-  name: Colin 'Roxy' Rocks
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8c4e9233-4f52-4863-9e41-fcd251f21621
-  name: Rob Barbato
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9a71394c-fcc2-4936-94d8-e3c44f0d1246
-  name: Martin Beddington
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 91886073-b77b-4c11-9ce2-a53c2be78e21
-  name: Thomas Murphy
+  - begin: '1976'
+    end: 1978-03
+    instruments: []
+    mbid: 8afef734-a652-494e-b25e-0ff895fba38e
+    name: Una Baines
+  - begin: '1976'
+    end: 1979-04
+    instruments: []
+    mbid: d956f22a-27bf-45a0-9362-821eea53ddbb
+    name: Martin Bramah
+  - begin: '1976'
+    end: '2018-01-24'
+    instruments:
+      - original
+    mbid: 35e5ce55-486d-40a4-9ab5-08de9be70d33
+    name: Mark E. Smith
+  - begin: 1977-05
+    end: 1978-12
+    instruments: []
+    mbid: 4c79d249-fed7-4d8f-a05a-eeb96a6bdd02
+    name: Karl Burns
+  - begin: '1977'
+    end: 1983-04
+    instruments:
+      - additional
+    mbid: 24a562e4-10b1-4b23-bcc3-bc4dd0bd88e5
+    name: Kay Carroll
+  - begin: 1978-01
+    end: 1978-01
+    instruments: []
+    mbid: 1d5c5745-1b56-4e92-a1e4-50ca9e5338d5
+    name: Jonnie Brown
+  - begin: 1978-05
+    end: 1979-07
+    instruments: []
+    mbid: d3433b42-5b9b-461b-8fb7-cab5c51caa8a
+    name: Yvonne Pawlett
+  - begin: 1978-06
+    end: 1982-10
+    instruments: []
+    mbid: 9b872fea-1c8e-42f8-878d-c8356de79bba
+    name: Marc Riley
+  - begin: 1979-01
+    end: 1980-03
+    instruments: []
+    mbid: 1c87746b-8336-42bb-b0f2-3514ba8e2398
+    name: Mike Leigh
+  - begin: 1979-04
+    end: 1995-12
+    instruments: []
+    mbid: b753f2bf-6762-4c7b-8543-4a080d90dc35
+    name: Craig Scanlon
+  - begin: 1979-04
+    end: 1998-04
+    instruments: []
+    mbid: 3f9f7175-2454-44fb-b4fe-9074437d4823
+    name: Steve Hanley
+  - begin: 1980-03
+    end: 1985-03
+    instruments: []
+    mbid: a929debb-1405-49b5-83f3-c76729e8dc7d
+    name: Paul Hanley
+  - begin: 1981-10
+    end: 1986-06
+    instruments: []
+    mbid: 4c79d249-fed7-4d8f-a05a-eeb96a6bdd02
+    name: Karl Burns
+  - begin: 1983-09
+    end: 1989-07
+    instruments: []
+    mbid: d9333ce8-da19-4e65-ba78-d6ee63addfb2
+    name: Brix Smith
+  - begin: 1985-03
+    end: 1986-10
+    instruments: []
+    mbid: e8b16007-91e1-4239-9c28-463df118db71
+    name: Simon Rogers
+  - begin: 1986-06
+    end: 1997-08
+    instruments: []
+    mbid: 061afc53-ede6-4ad9-86e9-0efb691293fd
+    name: Simon Wolstencroft
+  - begin: 1986-10
+    end: 1990-07
+    instruments: []
+    mbid: d9554a0d-e690-4555-8467-9e51fdce13c3
+    name: Marcia Schofield
+  - begin: 1989-07
+    end: 1990-07
+    instruments: []
+    mbid: d956f22a-27bf-45a0-9362-821eea53ddbb
+    name: Martin Bramah
+  - begin: 1990-07
+    end: 1991-06
+    instruments: []
+    mbid: 4d595c4e-2083-4cf8-9bc6-a63f0d1e9997
+    name: Kenny Brady
+  - begin: 1991-08
+    end: 1995-11
+    instruments: []
+    mbid: 33d623fa-cbe8-4bc0-858f-b58fe39ab282
+    name: Dave Bush
+  - begin: 1993-01
+    end: 1996-12
+    instruments: []
+    mbid: 4c79d249-fed7-4d8f-a05a-eeb96a6bdd02
+    name: Karl Burns
+  - begin: 1994-08
+    end: 1996-10
+    instruments: []
+    mbid: d9333ce8-da19-4e65-ba78-d6ee63addfb2
+    name: Brix Smith
+  - begin: 1995-11
+    end: 2001-08
+    instruments: []
+    mbid: e4bdd764-5bc8-41ef-9592-d352c205fe3e
+    name: Julia Adamson
+  - begin: 1996-12
+    end: 1997-02
+    instruments: []
+    mbid: 2248fcd1-1fb7-4cc7-b933-e1c35010d803
+    name: Adrian Flanagan
+  - begin: 1997-05
+    end: 1998-04
+    instruments: []
+    mbid: 4c79d249-fed7-4d8f-a05a-eeb96a6bdd02
+    name: Karl Burns
+  - begin: 1997-08
+    end: 1998-04
+    instruments: []
+    mbid: 4bc5a367-a0c9-453d-9f40-ecae316e1282
+    name: Tommy Crooks
+  - begin: 1998-04
+    end: 1998-05
+    instruments: []
+    mbid: d4046aca-9fdb-4318-af33-234297582e1f
+    name: Kate Themen
+  - begin: 1998-08
+    end: 1998-12
+    instruments: []
+    mbid: d820a398-3fb6-4586-9c27-d3ec89c810e6
+    name: Karen Leatham
+  - begin: 1998-08
+    end: 2000-11
+    instruments: []
+    mbid: dbba2bfc-dccc-4bd1-9a63-80e9646f81c4
+    name: Tom Head
+  - begin: 1998-11
+    end: 2001-02
+    instruments: []
+    mbid: 964486c0-8f74-421c-b475-f959785518d9
+    name: Neville Wilding
+  - begin: 1998-12
+    end: 2001-02
+    instruments: []
+    mbid: 83260607-48d7-4acf-bcf1-4082f41ce630
+    name: Adam Helal
+  - begin: 2000-11
+    end: 2001-11
+    instruments: []
+    mbid: 579a9f78-f495-4bc2-8458-cb647305e860
+    name: Spencer Birtwistle
+  - begin: '2000'
+    end: '2004'
+    instruments:
+      - additional
+    mbid: 5c48d8b4-ac7a-4b10-b693-929e864859a4
+    name: Ed Blaney
+  - begin: 2001-02
+    end: 2003-03
+    instruments: []
+    mbid: 2c71b9e8-94a6-43e6-9207-f81cb876cfd1
+    name: Jim Watts
+  - begin: 2001-02
+    end: 2006-05
+    instruments: []
+    mbid: 12abc510-1418-4f8c-96eb-358e7c2b42fa
+    name: Ben Pritchard
+  - begin: 2001-11
+    end: 2004-06
+    instruments: []
+    mbid: ca790773-b4b2-4058-9f0c-8a48cc46eeae
+    name: Dave Milner
+  - begin: '2001'
+    end: '2001'
+    instruments: []
+    mbid: 3e8756b1-17e7-4a9d-9cda-cb8bf4b1216b
+    name: Brian Fanning
+  - begin: 2002-09
+    end: 2016-07
+    instruments: []
+    mbid: d2e7fcdc-7f40-4aca-b23d-a0f9a2dee932
+    name: Elena Poulou
+  - begin: 2003-04
+    end: 2004-04
+    instruments: []
+    mbid: 7913e27b-f5e1-4000-91c4-53b0ca5e9f90
+    name: Simon Archer
+  - begin: 2004-04
+    end: 2006-05
+    instruments: []
+    mbid: 23d3062f-2fc4-4b2f-920e-1361dce43c15
+    name: Steven Trafford
+  - begin: 2004-07
+    end: 2004-12
+    instruments: []
+    mbid: 2c71b9e8-94a6-43e6-9207-f81cb876cfd1
+    name: Jim Watts
+  - begin: 2004-07
+    end: 2006-05
+    instruments: []
+    mbid: 579a9f78-f495-4bc2-8458-cb647305e860
+    name: Spencer Birtwistle
+  - begin: 2006-09
+    end: 2018-02
+    instruments: []
+    mbid: 4259c44e-21c1-4e9f-9bad-a32e8ad19763
+    name: David Spurr
+  - begin: '2007-06-01'
+    end: 2018-02
+    instruments: []
+    mbid: fde7f72d-3f7f-4b90-93e3-7d70994da94c
+    name: Pete Greenway
+  - begin: '2007-06-01'
+    end: 2018-02
+    instruments: []
+    mbid: f26e76ec-3847-419a-9411-a5059fc749b8
+    name: Keiron Melling
+  - begin: ''
+    end: 1977-12
+    instruments:
+      - original
+    mbid: 3250f1a9-46f9-435b-885d-9255d592e336
+    name: Tony Friel
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ddbc8dc2-d023-40f5-9be4-9320a76a0fbf
+    name: Daren Garratt
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f5af3a8f-cd98-43da-a6dd-6e0c51127679
+    name: Colin 'Roxy' Rocks
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8c4e9233-4f52-4863-9e41-fcd251f21621
+    name: Rob Barbato
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9a71394c-fcc2-4936-94d8-e3c44f0d1246
+    name: Martin Beddington
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 91886073-b77b-4c11-9ce2-a53c2be78e21
+    name: Thomas Murphy
 musicbrainz_id: d5da1841-9bc8-4813-9f89-11098090148e
-origin: Prestwich
+origin: 'Prestwich, Greater Manchester, England'
 tags:
-- alternative dance
-- alternative rock
-- art punk
-
+  - alternative dance
+  - alternative rock
+  - art punk
 ---
 
 ![](the_fall.jpg)

@@ -1,94 +1,96 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '2000'
-  end: '2017-12-31'
-  instruments:
-  - original
-  - piano
-  mbid: b9bede5d-89b6-4c43-9c45-ca3930cf4db8
-  name: The Bad Plus
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7d67bcb5-f593-4c97-b07a-80f3f2bff2af
-  name: Buffalo Collision
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: c794384e-9856-4056-8caf-27aa8a33a9e3
-  name: Ethan Iverson Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 8527ff1e-8452-4836-a252-2cbf42a3803d
-  name: Ethan Iverson Trio
+  - begin: '2000'
+    end: '2017-12-31'
+    instruments:
+      - original
+      - piano
+    mbid: b9bede5d-89b6-4c43-9c45-ca3930cf4db8
+    name: The Bad Plus
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7d67bcb5-f593-4c97-b07a-80f3f2bff2af
+    name: Buffalo Collision
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: c794384e-9856-4056-8caf-27aa8a33a9e3
+    name: Ethan Iverson Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 8527ff1e-8452-4836-a252-2cbf42a3803d
+    name: Ethan Iverson Trio
 biography_enhanced_at: '2026-01-03T01:38:39.144043'
 birth_date: '1973-02-11'
-birth_place: Menomonie
+birth_place: 'Menomonie, Wisconsin, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-03T01:38:39.144055'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/bd6637bd-38bf-491e-8036-3044c139aec1
-  spotify: https://open.spotify.com/artist/1S4iuO3CO7qD8l4wTetMQH
+  musicbrainz: 'https://musicbrainz.org/artist/bd6637bd-38bf-491e-8036-3044c139aec1'
+  spotify: 'https://open.spotify.com/artist/1S4iuO3CO7qD8l4wTetMQH'
   wikipedia: Not found in search results
 gender: Male
 genres:
-- jazz
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/ethan_iverson.jpg
 instruments:
-- original
-- piano
-- eponymous
+  - original
+  - piano
+  - eponymous
 last_updated: '2026-01-03T01:38:39.144056'
 musical_connections:
   collaborators:
-  - Reid Anderson
-  - David King
-  - Mark Turner
-  - Billy Hart
-  - Ben Street
-  - Tom Harrell
-  - Larry Grenadier
-  - Jack DeJohnette
-  - Joshua Redman
-  - Bill Frisell
-  - Yo-Yo Ma
-  - Mark Padmore
+    - Reid Anderson
+    - David King
+    - Mark Turner
+    - Billy Hart
+    - Ben Street
+    - Tom Harrell
+    - Larry Grenadier
+    - Jack DeJohnette
+    - Joshua Redman
+    - Bill Frisell
+    - Yo-Yo Ma
+    - Mark Padmore
   influenced:
-  - New England Conservatory jazz students
+    - New England Conservatory jazz students
   mentors:
-  - Sophia Rosoff
-  - Robert Helps
-  - Jim McNeely
-  - John Bloomfield
-  - Mark Morris
+    - Sophia Rosoff
+    - Robert Helps
+    - Jim McNeely
+    - John Bloomfield
+    - Mark Morris
 musicbrainz_id: bd6637bd-38bf-491e-8036-3044c139aec1
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://ethaniverson.com/contact/
-- https://calperformances.org/artists/ethan-iverson/
-- https://newmusicusa.org/nmbx/interviewing-the-interviewer-a-conversation-with-ethan-iverson/
-- https://necmusic.edu/faculty/ethan-iverson/
-- https://www.allaboutjazz.com/musicians/ethan-iverson/
-- https://www.bluenote.com/artist/ethan-iverson/
-- https://urlicht-av.com/artist/ethan-iverson/
-- https://downbeat.com/news/detail/ethan-iverson-crossroads
+  - 'https://ethaniverson.com/contact/'
+  - 'https://calperformances.org/artists/ethan-iverson/'
+  - >-
+    https://newmusicusa.org/nmbx/interviewing-the-interviewer-a-conversation-with-ethan-iverson/
+  - 'https://necmusic.edu/faculty/ethan-iverson/'
+  - 'https://www.allaboutjazz.com/musicians/ethan-iverson/'
+  - 'https://www.bluenote.com/artist/ethan-iverson/'
+  - 'https://urlicht-av.com/artist/ethan-iverson/'
+  - 'https://downbeat.com/news/detail/ethan-iverson-crossroads'
 spotify_data:
   followers: 5177
   id: 1S4iuO3CO7qD8l4wTetMQH
   popularity: 19
-  url: https://open.spotify.com/artist/1S4iuO3CO7qD8l4wTetMQH
+  url: 'https://open.spotify.com/artist/1S4iuO3CO7qD8l4wTetMQH'
 status: active
 tags:
-- free jazz
-- jazz
+  - free jazz
+  - jazz
 title: Ethan Iverson
+origin: 'New York City, New York, United States'
 ---
 
 ![](ethan_iverson.jpg)

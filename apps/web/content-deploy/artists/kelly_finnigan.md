@@ -1,34 +1,37 @@
 ---
-title: kelly finnigan
+title: Kelly Finnigan
 wiki_slug: kelly-finnigan
 schema_version: 2
 artist_type: person
 status: active
-birth_place: Los Angeles, California, United States (born); later based in the San Francisco Bay Area, California, United
-  States
+birth_place: >-
+  Los Angeles, California, United States (born); later based in the San
+  Francisco Bay Area, California, United States
 genres:
-- retro soul
-- neo soul
+  - retro soul
+  - neo soul
 instruments:
-- piano
-- background vocals
-- lead vocals
+  - piano
+  - background vocals
+  - lead vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f1745cca-1cae-4696-a0d3-62553c742b0c
-  name: Monophonics
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c72a7faa-caf5-42d6-a6b8-e7f30ac8399f
-  name: Destruments
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f1745cca-1cae-4696-a0d3-62553c742b0c
+    name: Monophonics
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c72a7faa-caf5-42d6-a6b8-e7f30ac8399f
+    name: Destruments
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/kelly_finnigan.jpg
   caption: kelly finnigan
   background: solo_singer
-  origin: Los Angeles, California, United States (born); later based in the San Francisco Bay Area, California, United States
+  origin: >-
+    Los Angeles, California, United States (born); later based in the San
+    Francisco Bay Area, California, United States
 audio_profile:
   tempo_avg: 117.8
   energy_avg: 0.643
@@ -44,67 +47,75 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Monophonics
-  - Destruments
-  - Hieroglyphics (West Coast hip‑hop collective)
-  - Terry Cole / Colemine Records artists
-  - Durand Jones & The Indications, Jungle Fire, Orgone (Colemine/modern soul collaborators)
-  - James Gadson
-  - Daptone and Truth & Soul–associated musicians (Sharon Jones & the Dap‑Kings, Charles Bradley, Antibalas, Lee Fields, Lady
-    Wray)
+    - Monophonics
+    - Destruments
+    - Hieroglyphics (West Coast hip‑hop collective)
+    - Terry Cole / Colemine Records artists
+    - >-
+      Durand Jones & The Indications, Jungle Fire, Orgone (Colemine/modern soul
+      collaborators)
+    - James Gadson
+    - >-
+      Daptone and Truth & Soul–associated musicians (Sharon Jones & the
+      Dap‑Kings, Charles Bradley, Antibalas, Lee Fields, Lady Wray)
   influenced:
-  - Contemporary retro/neo‑soul artists within the modern soul revival (general category)
+    - >-
+      Contemporary retro/neo‑soul artists within the modern soul revival
+      (general category)
   mentors:
-  - Mike Finnigan
-  - Isaac Hayes and Curtis Mayfield (stylistic influences)
-  - Jerry Ragovoy and Thom Bell (production influences)
-  - Syl Johnson, Carl Hall, and Lee Moses (vocal influences)
-  - Hip‑hop DJs and producers / DJ culture
+    - Mike Finnigan
+    - Isaac Hayes and Curtis Mayfield (stylistic influences)
+    - Jerry Ragovoy and Thom Bell (production influences)
+    - 'Syl Johnson, Carl Hall, and Lee Moses (vocal influences)'
+    - Hip‑hop DJs and producers / DJ culture
 spotify_data:
   followers: 37538
   id: 0gdEDrF1Fve7FIBYcmX7W4
   popularity: 52
-  url: https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4
+  url: 'https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4'
 discography_enriched: true
 top_tracks:
-- Sage Motel (Sage Motel)
-- Last One Standing (It's Only Us)
-- It's Only Us (It's Only Us)
-- Since I Don’t Have You Anymore (The Tales People Tell)
-- Chances (It's Only Us)
-- Love You Better (Sage Motel)
-- Count Me Out (A Lover Was Born)
-- I Don’t Wanna Wait (The Tales People Tell)
-- Catch Me I’m Falling (The Tales People Tell)
-- Keep Me In Mind
+  - Sage Motel (Sage Motel)
+  - Last One Standing (It's Only Us)
+  - It's Only Us (It's Only Us)
+  - Since I Don’t Have You Anymore (The Tales People Tell)
+  - Chances (It's Only Us)
+  - Love You Better (Sage Motel)
+  - Count Me Out (A Lover Was Born)
+  - I Don’t Wanna Wait (The Tales People Tell)
+  - Catch Me I’m Falling (The Tales People Tell)
+  - Keep Me In Mind
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/868bf8f7-f63a-4791-9fba-c439071ab491
-  spotify: https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4
+  musicbrainz: 'https://musicbrainz.org/artist/868bf8f7-f63a-4791-9fba-c439071ab491'
+  spotify: 'https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/kelly_finnigan.jpg
 biography_enhanced_at: '2025-12-19T01:49:45.859717'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://apeconcerts.com/attraction/kelly-finnigan/
-- https://www.kellyfinniganmusic.com/pages/about
-- https://www.fasching.se/en/kelly-finnigan-the-atonements/
-- https://www.soulbrother.com/feature/album-of-the-day-kelly-finnigan-a-lover-was-born/
-- https://hotellounge.de/artist/kelly-finnigan-us/
-- https://www.telluridejazz.org/kelly-finnigan-the-atonements-2021
-- https://sayitwithgarageflowers.com/2024/10/08/making-a-record-really-does-feel-like-emptying-a-part-of-your-soul/
-- https://unpop.it/artists/kelly-finnigan
-- https://hifiplus.com/articles/kelly-finnigan-a-lover-was-born/
-- https://thatmilliondollarbash.substack.com/p/a-lover-was-born
+  - 'https://apeconcerts.com/attraction/kelly-finnigan/'
+  - 'https://www.kellyfinniganmusic.com/pages/about'
+  - 'https://www.fasching.se/en/kelly-finnigan-the-atonements/'
+  - >-
+    https://www.soulbrother.com/feature/album-of-the-day-kelly-finnigan-a-lover-was-born/
+  - 'https://hotellounge.de/artist/kelly-finnigan-us/'
+  - 'https://www.telluridejazz.org/kelly-finnigan-the-atonements-2021'
+  - >-
+    https://sayitwithgarageflowers.com/2024/10/08/making-a-record-really-does-feel-like-emptying-a-part-of-your-soul/
+  - 'https://unpop.it/artists/kelly-finnigan'
+  - 'https://hifiplus.com/articles/kelly-finnigan-a-lover-was-born/'
+  - 'https://thatmilliondollarbash.substack.com/p/a-lover-was-born'
 network_extracted: true
 entry_created: '2025-12-19T01:49:45.859730'
 last_updated: '2025-12-23T08:16:11.267329'
 gender: Male
 musicbrainz_id: 868bf8f7-f63a-4791-9fba-c439071ab491
 tags:
-- funk
-- northern soul
-- r&b
+  - funk
+  - northern soul
+  - r&b
+origin: 'San Francisco Bay Area, California, United States'
 ---
 
 ![](kelly_finnigan.jpg)

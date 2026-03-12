@@ -1,44 +1,48 @@
 ---
 biography_enhanced_at: '2026-01-20T01:23:27.120548'
-birth_place: Tchula, Mississippi, USA
+birth_place: 'Tchula, Mississippi, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-20T01:23:27.120554'
 external_urls:
-  spotify: https://open.spotify.com/artist/5HAs3PXvcSdFY57ey4glmF
-  wikipedia: https://en.wikipedia.org/wiki/Lester_Davenport
+  spotify: 'https://open.spotify.com/artist/5HAs3PXvcSdFY57ey4glmF'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lester_Davenport'
 genres:
-- blues
-- classic blues
+  - blues
+  - classic blues
 image_path: 03_Resources/source_material/ArtistPortraits/lester_davenport.jpg
 last_updated: '2026-01-20T01:23:27.120555'
 musical_connections:
   collaborators:
-  - Bo Diddley
-  - Big Daddy Kinsey & the Kinsey Report
-  - Arthur 'Big Boy' Spires
-  - Aron Burton
-  - Jack Johnson
+    - Bo Diddley
+    - Big Daddy Kinsey & the Kinsey Report
+    - Arthur 'Big Boy' Spires
+    - Aron Burton
+    - Jack Johnson
   influenced: []
   mentors:
-  - Homesick James
-  - Arthur 'Big Boy' Spires
-  - Snooky Pryor
+    - Homesick James
+    - Arthur 'Big Boy' Spires
+    - Snooky Pryor
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://earwigmusic.com/earwig-artists/lester-davenport/
-- https://www.tracklib.com/music/artists/lester-davenport
-- https://sentirelblues.blogspot.com/2018/09/lester-davenport.html
-- https://www.last.fm/music/Lester+Davenport
-- https://en.wikipedia.org/wiki/Lester_Davenport
-- https://www.bear-family.com/davenport-lester-mad-dog/
+  - 'https://earwigmusic.com/earwig-artists/lester-davenport/'
+  - 'https://www.tracklib.com/music/artists/lester-davenport'
+  - 'https://sentirelblues.blogspot.com/2018/09/lester-davenport.html'
+  - 'https://www.last.fm/music/Lester+Davenport'
+  - 'https://en.wikipedia.org/wiki/Lester_Davenport'
+  - 'https://www.bear-family.com/davenport-lester-mad-dog/'
 spotify_data:
   followers: 654
   id: 5HAs3PXvcSdFY57ey4glmF
   popularity: 13
-  url: https://open.spotify.com/artist/5HAs3PXvcSdFY57ey4glmF
+  url: 'https://open.spotify.com/artist/5HAs3PXvcSdFY57ey4glmF'
 status: active
-title: LESTER DAVENPORT
+title: Lester Davenport
+origin: 'Chicago, Illinois, United States'
+birth_date: '1932-01-16'
+death_date: '2009-03-17'
+artist_type: person
 ---
 
 ![](lester_davenport.jpg)

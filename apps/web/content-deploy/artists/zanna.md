@@ -4,9 +4,9 @@ wiki_slug: zanna
 schema_version: 2
 artist_type: person
 status: active
-birth_place: Rio de Janeiro
+birth_place: 'Rio de Janeiro, Brazil'
 genres:
-- indie rock
+  - indie rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/zanna.jpg
   caption: Zanna
@@ -19,7 +19,7 @@ audio_profile:
   danceability_avg: 0.499
   acousticness_avg: 0.466
   instrumentalness_avg: 0.378
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.052
   liveness_avg: 0.144
   track_count: 48
@@ -27,47 +27,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Claudette Lyons
-  - Andrei Murariu
+    - Claudette Lyons
+    - Andrei Murariu
   influenced: []
   mentors:
-  - Giorgio Moroder
-  - Jean-Michel Jarre
-  - Brian Reeves
+    - Giorgio Moroder
+    - Jean-Michel Jarre
+    - Brian Reeves
 spotify_data:
   followers: 1683739
   id: 2cCUtGK9sDU2EoElnk0GNB
   popularity: 63
-  url: https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB
+  url: 'https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB'
 discography_enriched: true
 top_tracks:
-- The Alcott (feat. Taylor Swift) (First Two Pages of Frankenstein)
-- I Need My Girl (Trouble Will Find Me)
-- coney island (feat. The National) (evermore (deluxe version))
-- coney island (feat. The National) (evermore)
-- About Today - 2021 Remaster
-- Light Years (I Am Easy to Find)
-- Fake Empire (Boxer)
-- coney island (feat. The National) (evermore)
-- Don't Swallow the Cap (Trouble Will Find Me)
-- Bloodbuzz Ohio (High Violet)
+  - The Alcott (feat. Taylor Swift) (First Two Pages of Frankenstein)
+  - I Need My Girl (Trouble Will Find Me)
+  - coney island (feat. The National) (evermore (deluxe version))
+  - coney island (feat. The National) (evermore)
+  - About Today - 2021 Remaster
+  - Light Years (I Am Easy to Find)
+  - Fake Empire (Boxer)
+  - coney island (feat. The National) (evermore)
+  - Don't Swallow the Cap (Trouble Will Find Me)
+  - Bloodbuzz Ohio (High Violet)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/07d2f24a-0b56-4483-b540-96043c691b76
-  spotify: https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB
+  musicbrainz: 'https://musicbrainz.org/artist/07d2f24a-0b56-4483-b540-96043c691b76'
+  spotify: 'https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/zanna.jpg
 biography_enhanced_at: '2025-11-16T20:17:38.832479'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://jamsphere.com/newreleases/the-magic-unveiled-gianluca-zannas-mystique-sets-edm-abuzz
-- https://thebandcampdiaries.com/post/758857570706489344/gianluca-zanna-sharing-his-life-story-through
-- https://www.gianlucazanna.com/about
-- https://muzicnotez.com/magazine/2023/03/interview-with-artist-producer-gianluca-zanna/
-- https://zannasound.com.br/en/about-zanna/
-- https://www.zannamusic.com
-- https://www.gigtown.com/artists/zanna
-- https://www.reverbnation.com/zannamusic
+  - >-
+    https://jamsphere.com/newreleases/the-magic-unveiled-gianluca-zannas-mystique-sets-edm-abuzz
+  - >-
+    https://thebandcampdiaries.com/post/758857570706489344/gianluca-zanna-sharing-his-life-story-through
+  - 'https://www.gianlucazanna.com/about'
+  - >-
+    https://muzicnotez.com/magazine/2023/03/interview-with-artist-producer-gianluca-zanna/
+  - 'https://zannasound.com.br/en/about-zanna/'
+  - 'https://www.zannamusic.com'
+  - 'https://www.gigtown.com/artists/zanna'
+  - 'https://www.reverbnation.com/zannamusic'
 network_extracted: true
 entry_created: '2025-11-16T20:17:38.832487'
 last_updated: '2025-12-23T08:16:18.411881'

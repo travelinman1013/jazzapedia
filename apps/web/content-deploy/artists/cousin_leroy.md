@@ -3,14 +3,14 @@ title: COusin Leroy
 wiki_slug: cousin-leroy
 schema_version: 2
 status: active
-birth_place: Chester, Georgia, United States
+birth_place: 'Chester, Georgia, United States'
 genres:
-- footwork
+  - footwork
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/cousin_leroy.jpg
   caption: COusin Leroy
   background: solo_singer
-  origin: Chester, Georgia, United States
+  origin: 'Chester, Georgia, United States'
 audio_profile:
   tempo_avg: 112.9
   energy_avg: 0.551
@@ -32,37 +32,39 @@ spotify_data:
   followers: 109
   id: 0EtiwHUrBBlCFIapcY31VR
   popularity: 0
-  url: https://open.spotify.com/artist/0EtiwHUrBBlCFIapcY31VR
+  url: 'https://open.spotify.com/artist/0EtiwHUrBBlCFIapcY31VR'
 discography_enriched: true
 top_tracks:
-- Goin' Back Home (Juke Joint Blues Black Cat Rag)
-- I'm Lonesome (Playboy & Girl Next Door)
-- Crossroads (The Glory of Love - From the Vaults)
-- Will a Matchbox Hold My Clothes (Memories of the Great 1950's, Vol. 2)
-- Catfish
-- Goin' Back Home (Music Road, Vol. 4 - Pop Travel)
-- Will a Matchbox Hold My Clothes (Pure Nostalgia, Vol. 4)
-- Will a Matchbox Hold My Clothes (Music Road,Vol. 12 - Pop Travel)
-- I'm Lonesome (Music Road,Vol. 12 - Pop Travel)
-- Will a Matchbox Hold My Clothes
+  - Goin' Back Home (Juke Joint Blues Black Cat Rag)
+  - I'm Lonesome (Playboy & Girl Next Door)
+  - Crossroads (The Glory of Love - From the Vaults)
+  - 'Will a Matchbox Hold My Clothes (Memories of the Great 1950''s, Vol. 2)'
+  - Catfish
+  - 'Goin'' Back Home (Music Road, Vol. 4 - Pop Travel)'
+  - 'Will a Matchbox Hold My Clothes (Pure Nostalgia, Vol. 4)'
+  - 'Will a Matchbox Hold My Clothes (Music Road,Vol. 12 - Pop Travel)'
+  - 'I''m Lonesome (Music Road,Vol. 12 - Pop Travel)'
+  - Will a Matchbox Hold My Clothes
 external_urls:
-  spotify: https://open.spotify.com/artist/0EtiwHUrBBlCFIapcY31VR
+  spotify: 'https://open.spotify.com/artist/0EtiwHUrBBlCFIapcY31VR'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/cousin_leroy.jpg
 biography_enhanced_at: '2025-12-06T05:49:42.555674'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://sundayblues.org/?tag=cousin-leroy
-- https://www.allaboutbluesmusic.com/cousin-leroy/
-- https://www.wirz.de/music/cousinle.htm
-- https://digital.livingblues.com/-217-february-march-2012/lostblues
-- https://music.cliggo.com/artist/2473838-Cousin_Leroy/bio
-- https://music.apple.com/us/artist/cousin-leroy/253065279
-- https://www.wikidata.org/wiki/Q54941636
+  - 'https://sundayblues.org/?tag=cousin-leroy'
+  - 'https://www.allaboutbluesmusic.com/cousin-leroy/'
+  - 'https://www.wirz.de/music/cousinle.htm'
+  - 'https://digital.livingblues.com/-217-february-march-2012/lostblues'
+  - 'https://music.cliggo.com/artist/2473838-Cousin_Leroy/bio'
+  - 'https://music.apple.com/us/artist/cousin-leroy/253065279'
+  - 'https://www.wikidata.org/wiki/Q54941636'
 network_extracted: true
 entry_created: '2025-12-06T05:49:42.555680'
 last_updated: '2025-12-23T08:16:07.255424'
+birth_date: '1925-09-30'
+artist_type: person
 ---
 
 ![](cousin_leroy.jpg)

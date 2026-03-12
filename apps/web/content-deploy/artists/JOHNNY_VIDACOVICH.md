@@ -5,21 +5,21 @@ schema_version: 2
 status: active
 aliases: []
 birth_date: '1949-01-01'
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- cajun
+  - cajun
 instruments:
-- drum kit
+  - drum kit
 occupation:
-- jazz musician
+  - jazz musician
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Johnny_Vidacovich.jpg
   caption: Johnny Vidacovich
   background: non_vocal_instrumentalist
   born: '1949-01-01'
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
-  tempo_avg: 114.0
+  tempo_avg: 114
   energy_avg: 0.442
   valence_avg: 0.422
   danceability_avg: 0.519
@@ -33,62 +33,65 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Astral Project
-  - James Singleton
-  - Tony Dagradi
-  - Steve Masakowski
-  - John Scofield
-  - Bobby McFerrin
-  - Mose Allison
-  - Johnny Adams
-  - Nolatet
+    - Astral Project
+    - James Singleton
+    - Tony Dagradi
+    - Steve Masakowski
+    - John Scofield
+    - Bobby McFerrin
+    - Mose Allison
+    - Johnny Adams
+    - Nolatet
   influenced:
-  - Stanton Moore
-  - Brian Blade
-  - Kevin O'Day
+    - Stanton Moore
+    - Brian Blade
+    - Kevin O'Day
   mentors:
-  - Local New Orleans drummers
-  - Professor Longhair
-  - James Booker
+    - Local New Orleans drummers
+    - Professor Longhair
+    - James Booker
 related_artists: []
 spotify_data:
   followers: 955
   id: 33yKP7Dqn5kkMNcxUoJwWA
   popularity: 8
-  url: https://open.spotify.com/artist/33yKP7Dqn5kkMNcxUoJwWA
+  url: 'https://open.spotify.com/artist/33yKP7Dqn5kkMNcxUoJwWA'
   verified: false
 discography_enriched: true
 albums_count: 5
 singles_count: 0
 top_tracks:
-- New Dawn (Look For Water)
-- The Moon - Autumn In Winter (Mississippi Murals)
-- Venus - Inherent 69 (Mississippi Murals)
-- Saturn - Either/Or (Mississippi Murals)
-- Mars - Speaking In Tongues (Mississippi Murals)
-- Uranus (Hershel) - Demented Augminished (Mississippi Murals)
-- Mercury - Blues For Trees II (Mississippi Murals)
-- Jupiter - Ying Yang (Mississippi Murals)
-- The Zone (Vidacovich)
-- Bulldog Run (Banks Steet (feat. Michael Pellera, James Singleton, Bill Huntington, Eric Traub, Tony Digradi, Jeffrey Meyer
-  & Harold Ray Brown))
+  - New Dawn (Look For Water)
+  - The Moon - Autumn In Winter (Mississippi Murals)
+  - Venus - Inherent 69 (Mississippi Murals)
+  - Saturn - Either/Or (Mississippi Murals)
+  - Mars - Speaking In Tongues (Mississippi Murals)
+  - Uranus (Hershel) - Demented Augminished (Mississippi Murals)
+  - Mercury - Blues For Trees II (Mississippi Murals)
+  - Jupiter - Ying Yang (Mississippi Murals)
+  - The Zone (Vidacovich)
+  - >-
+    Bulldog Run (Banks Steet (feat. Michael Pellera, James Singleton, Bill
+    Huntington, Eric Traub, Tony Digradi, Jeffrey Meyer & Harold Ray Brown))
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/33yKP7Dqn5kkMNcxUoJwWA
-  wikipedia: https://en.wikipedia.org/wiki/Johnny_Vidacovich
+  spotify: 'https://open.spotify.com/artist/33yKP7Dqn5kkMNcxUoJwWA'
+  wikipedia: 'https://en.wikipedia.org/wiki/Johnny_Vidacovich'
 image_path: 03_Resources/source_material/ArtistPortraits/Johnny_Vidacovich.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:24:28.107931'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Johnny_Vidacovich
-- http://www.drummerworld.com/drummers/Johnny_Vidacovich.html
-- https://ww1.namm.org/library/oral-history/johnny-vidacovich
+  - 'https://en.wikipedia.org/wiki/Johnny_Vidacovich'
+  - 'http://www.drummerworld.com/drummers/Johnny_Vidacovich.html'
+  - 'https://ww1.namm.org/library/oral-history/johnny-vidacovich'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:53:28.887139
+entry_created: 2025-09-22T21:53:28.887Z
 last_updated: '2025-12-23T08:16:02.371419'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](Johnny_Vidacovich.jpg)

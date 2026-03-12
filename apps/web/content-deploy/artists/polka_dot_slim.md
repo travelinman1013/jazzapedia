@@ -1,15 +1,15 @@
 ---
-title: POLKA DOT SLIM
+title: Polka Dot Slim
 wiki_slug: polka-dot-slim
 schema_version: 2
 status: active
-birth_place: Woodville, Mississippi, United States
+birth_place: 'Woodville, Mississippi, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/polka_dot_slim.jpg
   caption: POLKA DOT SLIM
   background: solo_singer
-  origin: Woodville, Mississippi, United States
+  origin: 'Woodville, Mississippi, United States'
 audio_profile:
   tempo_avg: 102.1
   energy_avg: 0.664
@@ -25,44 +25,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jay Miller
-  - Sax Kari
+    - Jay Miller
+    - Sax Kari
   influenced:
-  - Boogie Bill Webb
-  - Babe Stovall
+    - Boogie Bill Webb
+    - Babe Stovall
   mentors:
-  - Sonny Boy Williamson II (Rice Miller)
+    - Sonny Boy Williamson II (Rice Miller)
 spotify_data:
   followers: 54
   id: 2XgAcYRH4aX493p4xLhPNL
   popularity: 0
-  url: https://open.spotify.com/artist/2XgAcYRH4aX493p4xLhPNL
+  url: 'https://open.spotify.com/artist/2XgAcYRH4aX493p4xLhPNL'
 discography_enriched: true
 top_tracks:
-- A Thing You Gotta Face (House Rockin' 1950s Rhythm & Blues, Vol. 3)
-- Ain't Broke, Ain't Hungry (The Instant & Minit Story)
-- A Thing You Gotta Face (60s Soul Sensations - The Rare 45 RPM Collection)
-- Ain't Broke, Ain't Hungry (Mr Joe's Jambalaya & Loaded Down With the Blues)
-- A Thing You Gotta Face (Mr Joe's Jambalaya & Loaded Down With the Blues)
-- A Thing You Gotta Face (Love You, New Orleans 60's R&B Funk And Soul Vol. 1)
-- A Thing You Gotta Face (Rare Rhythm´n´blues Vol.3, 20 R&B 45 Rpm Nuggets)
-- A Thing You Gotta Face (Stompin' Vol. 3)
-- 'It''s A Thing You Gotta Face (Blues Classics: The Snuggle)'
-- A Thing You Gotta Face (Fumigate Funky Broadway)
+  - 'A Thing You Gotta Face (House Rockin'' 1950s Rhythm & Blues, Vol. 3)'
+  - 'Ain''t Broke, Ain''t Hungry (The Instant & Minit Story)'
+  - A Thing You Gotta Face (60s Soul Sensations - The Rare 45 RPM Collection)
+  - 'Ain''t Broke, Ain''t Hungry (Mr Joe''s Jambalaya & Loaded Down With the Blues)'
+  - A Thing You Gotta Face (Mr Joe's Jambalaya & Loaded Down With the Blues)
+  - 'A Thing You Gotta Face (Love You, New Orleans 60''s R&B Funk And Soul Vol. 1)'
+  - 'A Thing You Gotta Face (Rare Rhythm´n´blues Vol.3, 20 R&B 45 Rpm Nuggets)'
+  - A Thing You Gotta Face (Stompin' Vol. 3)
+  - 'It''s A Thing You Gotta Face (Blues Classics: The Snuggle)'
+  - A Thing You Gotta Face (Fumigate Funky Broadway)
 external_urls:
-  spotify: https://open.spotify.com/artist/2XgAcYRH4aX493p4xLhPNL
-  wikipedia: https://en.wikipedia.org/wiki/Polka_Dot_Slim
+  spotify: 'https://open.spotify.com/artist/2XgAcYRH4aX493p4xLhPNL'
+  wikipedia: 'https://en.wikipedia.org/wiki/Polka_Dot_Slim'
 image_path: ''
 biography_enhanced_at: '2025-10-29T16:53:43.257923'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Polka_Dot_Slim
-- https://www.last.fm/music/Polka+Dot+Slim
-- https://www.wikiwand.com/en/articles/Polka_Dot_Slim
+  - 'https://en.wikipedia.org/wiki/Polka_Dot_Slim'
+  - 'https://www.last.fm/music/Polka+Dot+Slim'
+  - 'https://www.wikiwand.com/en/articles/Polka_Dot_Slim'
 network_extracted: true
 entry_created: '2025-10-29T16:53:43.257972'
 last_updated: '2025-12-23T08:16:14.390177'
+birth_date: '1926-12-09'
+death_date: '1981-06-22'
+artist_type: person
 ---
 
 ![]()

@@ -2,30 +2,30 @@
 title: Big Chief Monk Boudreaux
 wiki_slug: big-chief-monk-boudreaux
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_name: Joseph Pierre Boudreaux
 aliases: []
 birth_date: '1941-12-07'
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, USA'
 years_active: 1960s–present
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 instruments:
-- voice
-- drum
+  - voice
+  - drum
 occupation:
-- singer
+  - singer
 record_labels:
-- Rounder Records
+  - Rounder Records
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Big_Chief_Monk_Boudreaux.jpg
   caption: Big Chief Monk Boudreaux
   background: solo_singer
   birth_name: Joseph Pierre Boudreaux
   born: '1941-12-07'
-  origin: New Orleans, Louisiana, USA
+  origin: 'New Orleans, Louisiana, USA'
 audio_profile:
   tempo_avg: 115.2
   energy_avg: 0.661
@@ -41,55 +41,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Wild Magnolias
-  - Golden Eagles
-  - Donald Harrison Jr.
+    - Wild Magnolias
+    - Golden Eagles
+    - Donald Harrison Jr.
   influenced:
-  - Big Chief Bo Dollis
-  - Younger Mardi Gras Indians
+    - Big Chief Bo Dollis
+    - Younger Mardi Gras Indians
   mentors:
-  - Black Johnny
-  - Monk's father (unnamed)
+    - Black Johnny
+    - Monk's father (unnamed)
 related_artists: []
 spotify_data:
   followers: 2267
   id: 6dEA9IhHWUof5HKLeYRGer
   popularity: 17
-  url: https://open.spotify.com/artist/6dEA9IhHWUof5HKLeYRGer
+  url: 'https://open.spotify.com/artist/6dEA9IhHWUof5HKLeYRGer'
   verified: false
 discography_enriched: true
 albums_count: 4
 singles_count: 1
 top_tracks:
-- Sugarland (Do Your Thing)
-- Monk's Mardi Gras (Won't Bow Down)
-- Four Horsemen (Won't Bow Down)
-- Sew Sew Sew (feat. Big Chief Monk Boudreaux, The Golden Eagles Mardi Gras Indians, Triple Threat DJ's & Lil' Rascals Brass
-  Band) (Galactic Vintage Reserve)
-- Early in the Morning (Do Your Thing)
-- Sugarland (Do Your Thing)
-- 'Big Chief - Live (The Musical Mojo Of Dr. John: Celebrating Mac And His Music (Live))'
-- 'Spirits In The Material World (Spirits In The Material World: A Reggae Tribute To The Police)'
-- Mr. Okra (Bloodstains & Teardrops)
-- 'Firewater (Take Me To The River: New Orleans)'
+  - Sugarland (Do Your Thing)
+  - Monk's Mardi Gras (Won't Bow Down)
+  - Four Horsemen (Won't Bow Down)
+  - >-
+    Sew Sew Sew (feat. Big Chief Monk Boudreaux, The Golden Eagles Mardi Gras
+    Indians, Triple Threat DJ's & Lil' Rascals Brass Band) (Galactic Vintage
+    Reserve)
+  - Early in the Morning (Do Your Thing)
+  - Sugarland (Do Your Thing)
+  - >-
+    Big Chief - Live (The Musical Mojo Of Dr. John: Celebrating Mac And His
+    Music (Live))
+  - >-
+    Spirits In The Material World (Spirits In The Material World: A Reggae
+    Tribute To The Police)
+  - Mr. Okra (Bloodstains & Teardrops)
+  - 'Firewater (Take Me To The River: New Orleans)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/65372941-cc18-47a4-9ced-06964074a8d2
-  spotify: https://open.spotify.com/artist/6dEA9IhHWUof5HKLeYRGer
-  wikipedia: https://en.wikipedia.org/wiki/Monk_Boudreaux
+  musicbrainz: 'https://musicbrainz.org/artist/65372941-cc18-47a4-9ced-06964074a8d2'
+  spotify: 'https://open.spotify.com/artist/6dEA9IhHWUof5HKLeYRGer'
+  wikipedia: 'https://en.wikipedia.org/wiki/Monk_Boudreaux'
 image_path: 03_Resources/source_material/ArtistPortraits/Big_Chief_Monk_Boudreaux.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:15:30.320947'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.whereyat.com/big-chief-monk-boudreaux
-- https://bigchiefmonkboudreaux.com/bio-1
-- https://www.arts.gov/honors/heritage/joseph-pierre-big-chief-monk-boudreaux
-- https://www.offbeat.com/news/joy-theater-honors/
-- https://champions.peopleshealth.com/meet-the-champions/2018-champions/monk-boudreaux/
+  - 'https://www.whereyat.com/big-chief-monk-boudreaux'
+  - 'https://bigchiefmonkboudreaux.com/bio-1'
+  - 'https://www.arts.gov/honors/heritage/joseph-pierre-big-chief-monk-boudreaux'
+  - 'https://www.offbeat.com/news/joy-theater-honors/'
+  - >-
+    https://champions.peopleshealth.com/meet-the-champions/2018-champions/monk-boudreaux/
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 12:58:22.413456
+entry_created: 2025-09-18T12:58:22.413Z
 last_updated: '2025-12-23T08:16:01.195901'
 gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:01:56.703929'

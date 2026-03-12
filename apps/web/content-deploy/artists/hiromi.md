@@ -4,16 +4,16 @@ wiki_slug: hiromi
 schema_version: 2
 artist_type: person
 status: active
-birth_place: Hamamatsu, Shizuoka, Japan
+birth_place: 'Hamamatsu, Shizuoka, Japan'
 death_date: '2010-07-16'
 genres:
-- jazz fusion
-- jazz
+  - jazz fusion
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/hiromi.jpg
   caption: Hiromi
   background: solo_singer
-  origin: Hamamatsu, Shizuoka, Japan
+  origin: 'Hamamatsu, Shizuoka, Japan'
   died: '2010-07-16'
 audio_profile:
   tempo_avg: 113.5
@@ -30,57 +30,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Stanley Clarke
-  - Anthony Jackson
-  - Simon Phillips
-  - David Fiuczynski
-  - Tony Grey
-  - Martin Valihora
-  - Lenny White
+    - Stanley Clarke
+    - Anthony Jackson
+    - Simon Phillips
+    - David Fiuczynski
+    - Tony Grey
+    - Martin Valihora
+    - Lenny White
   influenced: []
   mentors:
-  - Noriko Hikida
-  - Ahmad Jamal
-  - Chick Corea
+    - Noriko Hikida
+    - Ahmad Jamal
+    - Chick Corea
 spotify_data:
   followers: 284907
   id: 7DeuppKQdCVhuWrzzCBBpc
   popularity: 46
-  url: https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc
+  url: 'https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc'
 discography_enriched: true
 top_tracks:
-- Another autumn (BLUE GIANT (オリジナル・サウンドトラック))
-- FIRST NOTE (BLUE GIANT (オリジナル・サウンドトラック))
-- Beethoven's Piano Sonata No. 8, Pathetique (Voice)
-- N.E.W. (BLUE GIANT (オリジナル・サウンドトラック))
-- Balloon Pop
-- Pendulum [Feat. Sonicwonder & Michelle Willis]
-- Impressions (BLUE GIANT (オリジナル・サウンドトラック))
-- Blackbird (Spectrum)
-- Yes! Ramen!! [Feat. Sonicwonder] (OUT THERE [Feat. Sonicwonder])
-- WE WILL (BLUE GIANT (オリジナル・サウンドトラック))
+  - Another autumn (BLUE GIANT (オリジナル・サウンドトラック))
+  - FIRST NOTE (BLUE GIANT (オリジナル・サウンドトラック))
+  - 'Beethoven''s Piano Sonata No. 8, Pathetique (Voice)'
+  - N.E.W. (BLUE GIANT (オリジナル・サウンドトラック))
+  - Balloon Pop
+  - 'Pendulum [Feat. Sonicwonder & Michelle Willis]'
+  - Impressions (BLUE GIANT (オリジナル・サウンドトラック))
+  - Blackbird (Spectrum)
+  - 'Yes! Ramen!! [Feat. Sonicwonder] (OUT THERE [Feat. Sonicwonder])'
+  - WE WILL (BLUE GIANT (オリジナル・サウンドトラック))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ab3e1803-033b-4a4e-9bff-133e106579cd
-  spotify: https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc
-  wikipedia: https://en.wikipedia.org/wiki/Hiromi_Uehara
+  musicbrainz: 'https://musicbrainz.org/artist/ab3e1803-033b-4a4e-9bff-133e106579cd'
+  spotify: 'https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc'
+  wikipedia: 'https://en.wikipedia.org/wiki/Hiromi_Uehara'
 image_path: 03_Resources/source_material/ArtistPortraits/hiromi.jpg
 biography_enhanced_at: '2025-11-03T07:54:22.042571'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://usa.yamaha.com/artists/h/hiromi_uehara_yq.html
-- https://union.wisc.edu/visit/wisconsin-union-theater/hiromis-sonicwonder-land
-- https://en.wikipedia.org/wiki/Hiromi_Uehara
-- https://newyorkjazzworkshop.com/hiromi-uehara-%E4%B8%8A%E5%8E%9F%E3%81%B2%E3%82%8D%E3%81%BF/
-- https://college.berklee.edu/people/hiromi-uehara
-- https://www.hiromiuehara.com/s/y01en/artist/001/profile?ima=0000
-- https://cso.org/experience/article/22963/for-jazz-pianist-composer-hiromi-curiosity-is
+  - 'https://usa.yamaha.com/artists/h/hiromi_uehara_yq.html'
+  - >-
+    https://union.wisc.edu/visit/wisconsin-union-theater/hiromis-sonicwonder-land
+  - 'https://en.wikipedia.org/wiki/Hiromi_Uehara'
+  - >-
+    https://newyorkjazzworkshop.com/hiromi-uehara-%E4%B8%8A%E5%8E%9F%E3%81%B2%E3%82%8D%E3%81%BF/
+  - 'https://college.berklee.edu/people/hiromi-uehara'
+  - 'https://www.hiromiuehara.com/s/y01en/artist/001/profile?ima=0000'
+  - >-
+    https://cso.org/experience/article/22963/for-jazz-pianist-composer-hiromi-curiosity-is
 network_extracted: true
 entry_created: '2025-11-03T07:54:22.042580'
 last_updated: '2025-12-23T08:16:09.623005'
 disambiguation: Japanese vocalist from Amuse
 gender: Female
 musicbrainz_id: ab3e1803-033b-4a4e-9bff-133e106579cd
+is_active: false
+birth_date: '1979-03-26'
 ---
 
 ![](hiromi.jpg)

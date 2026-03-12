@@ -5,25 +5,25 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1927-03-16'
-birth_place: Boston
+birth_place: 'Boston, Massachusetts, United States'
 death_date: '2003-02-09'
 genres:
-- jazz
+  - jazz
 instruments:
-- trumpet
-- background vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - trumpet
-  mbid: 31cd2464-76fb-4a2f-bfd8-1e517745ce2a
-  name: Ruby Braff Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ce95eae2-3178-4c31-acf2-0433501bf505
-  name: The Ruby Braff, George Barnes Quartet
+  - background vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: 31cd2464-76fb-4a2f-bfd8-1e517745ce2a
+    name: Ruby Braff Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ce95eae2-3178-4c31-acf2-0433501bf505
+    name: 'The Ruby Braff, George Barnes Quartet'
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ruby_braff.jpg
   caption: Ruby Braff
@@ -32,7 +32,7 @@ infobox:
   origin: Boston
   died: '2003-02-09'
 audio_profile:
-  tempo_avg: 116.0
+  tempo_avg: 116
   energy_avg: 0.204
   valence_avg: 0.45
   danceability_avg: 0.536
@@ -46,50 +46,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Edmond Hall
-  - Pee Wee Russell
-  - Benny Goodman
-  - George Wein
-  - George Barnes
-  - Scott Hamilton
-  - Howard Alden
+    - Edmond Hall
+    - Pee Wee Russell
+    - Benny Goodman
+    - George Wein
+    - George Barnes
+    - Scott Hamilton
+    - Howard Alden
   influenced:
-  - Scott Hamilton
-  - Warren Vaché
-  - Jon-Erik Kellso
+    - Scott Hamilton
+    - Warren Vaché
+    - Jon-Erik Kellso
   mentors:
-  - Louis Armstrong
-  - Bix Beiderbecke
-  - Bobby Hackett
+    - Louis Armstrong
+    - Bix Beiderbecke
+    - Bobby Hackett
 spotify_data:
   followers: 3140
   id: 2ZJWBoh0c53yW13f86HNuA
   popularity: 16
-  url: https://open.spotify.com/artist/2ZJWBoh0c53yW13f86HNuA
+  url: 'https://open.spotify.com/artist/2ZJWBoh0c53yW13f86HNuA'
 discography_enriched: true
 top_tracks:
-- I've Got A Crush On You
-- Yesterdays
-- Embraceable You
-- Mean to Me (Brass and Blues)
-- When It's Sleepy Time Down South (Music For The Still Of The Night)
-- You're a Lucky Guy
-- My Funny Valentine
-- Diga Diga Doo
-- That Old Feeling (Just for Fun)
-- When It's Sleepy Time Down South (Hustlin' And Bustlin')
+  - I've Got A Crush On You
+  - Yesterdays
+  - Embraceable You
+  - Mean to Me (Brass and Blues)
+  - When It's Sleepy Time Down South (Music For The Still Of The Night)
+  - You're a Lucky Guy
+  - My Funny Valentine
+  - Diga Diga Doo
+  - That Old Feeling (Just for Fun)
+  - When It's Sleepy Time Down South (Hustlin' And Bustlin')
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/30235fb0-eaab-4e4e-a4cb-a64c565446c9
-  spotify: https://open.spotify.com/artist/2ZJWBoh0c53yW13f86HNuA
+  musicbrainz: 'https://musicbrainz.org/artist/30235fb0-eaab-4e4e-a4cb-a64c565446c9'
+  spotify: 'https://open.spotify.com/artist/2ZJWBoh0c53yW13f86HNuA'
   wikipedia: Not found in provided sources
 image_path: 03_Resources/source_material/ArtistPortraits/ruby_braff.jpg
 biography_enhanced_at: '2025-11-03T07:34:29.820886'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- jazzleadsheets.com
-- Jazz History Database
-- All About Jazz
+  - jazzleadsheets.com
+  - Jazz History Database
+  - All About Jazz
 network_extracted: true
 entry_created: '2025-11-03T07:34:29.820896'
 last_updated: '2025-12-23T08:16:15.165869'
@@ -97,9 +97,10 @@ disambiguation: US trumpet & cornet player
 gender: Male
 musicbrainz_id: 30235fb0-eaab-4e4e-a4cb-a64c565446c9
 tags:
-- dixieland
-- jazz
-- swing
+  - dixieland
+  - jazz
+  - swing
+is_active: false
 ---
 
 ![](ruby_braff.jpg)

@@ -1,14 +1,14 @@
 ---
-title: Can
+title: Death
 wiki_slug: can
 schema_version: 2
 status: active
 genres:
-- death metal
-- metal
-- grindcore
-- deathcore
-- black metal
+  - death metal
+  - metal
+  - grindcore
+  - deathcore
+  - black metal
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/can.jpg
   caption: Can
@@ -18,7 +18,7 @@ audio_profile:
   energy_avg: 0.981
   valence_avg: 0.224
   danceability_avg: 0.303
-  acousticness_avg: 0.0
+  acousticness_avg: 0
   instrumentalness_avg: 0.702
   loudness_avg: -6.4
   speechiness_avg: 0.125
@@ -28,52 +28,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kam Lee
-  - Rick Rozz
-  - Terry Butler
-  - James Murphy
-  - Scott Burns
+    - Kam Lee
+    - Rick Rozz
+    - Terry Butler
+    - James Murphy
+    - Scott Burns
   influenced:
-  - Massacre
-  - Autopsy
-  - Six Feet Under
-  - Obituary
+    - Massacre
+    - Autopsy
+    - Six Feet Under
+    - Obituary
   mentors:
-  - Nasty Savage
-  - Possessed
+    - Nasty Savage
+    - Possessed
 spotify_data:
   followers: 1257526
   id: 0yLwGBQiBqhXOvmTfH2A7n
   popularity: 55
-  url: https://open.spotify.com/artist/0yLwGBQiBqhXOvmTfH2A7n
+  url: 'https://open.spotify.com/artist/0yLwGBQiBqhXOvmTfH2A7n'
 discography_enriched: true
 top_tracks:
-- Hammer Smashed Face (Tomb Of The Mutilated)
-- Scourge of Iron (Torture)
-- I Cum Blood (Tomb Of The Mutilated)
-- Evisceration Plague (Evisceration Plague)
-- Inhumane Harvest (Violence Unimagined)
-- Stripped, Raped, And Strangled (The Bleeding)
-- No Remorse
-- Make Them Suffer (Kill)
-- Blood Blind (Chaos Horrific)
-- Fucked With A Knife (The Bleeding)
+  - Hammer Smashed Face (Tomb Of The Mutilated)
+  - Scourge of Iron (Torture)
+  - I Cum Blood (Tomb Of The Mutilated)
+  - Evisceration Plague (Evisceration Plague)
+  - Inhumane Harvest (Violence Unimagined)
+  - 'Stripped, Raped, And Strangled (The Bleeding)'
+  - No Remorse
+  - Make Them Suffer (Kill)
+  - Blood Blind (Chaos Horrific)
+  - Fucked With A Knife (The Bleeding)
 external_urls:
-  spotify: https://open.spotify.com/artist/0yLwGBQiBqhXOvmTfH2A7n
-  wikipedia: https://en.wikipedia.org/wiki/Death_(metal_band)
+  spotify: 'https://open.spotify.com/artist/0yLwGBQiBqhXOvmTfH2A7n'
+  wikipedia: 'https://en.wikipedia.org/wiki/Death_(metal_band)'
 image_path: 03_Resources/source_material/ArtistPortraits/can.jpg
 biography_enhanced_at: '2025-12-19T01:39:59.135302'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.loudersound.com/features/death-band-chuck-schuldiner-history
-- https://en.wikipedia.org/wiki/Death_(metal_band)
-- https://loudwire.com/heavy-metal-101-history-of-death-metal/
-- https://metal.fandom.com/wiki/Death
+  - 'https://www.loudersound.com/features/death-band-chuck-schuldiner-history'
+  - 'https://en.wikipedia.org/wiki/Death_(metal_band)'
+  - 'https://loudwire.com/heavy-metal-101-history-of-death-metal/'
+  - 'https://metal.fandom.com/wiki/Death'
 network_extracted: true
 entry_created: '2025-12-19T01:39:59.135344'
 last_updated: '2025-12-23T08:16:06.345965'
-origin: Altamonte Springs, Florida, USA
+origin: 'Altamonte Springs, Florida, USA'
+artist_type: person
 ---
 
 ![](can.jpg)

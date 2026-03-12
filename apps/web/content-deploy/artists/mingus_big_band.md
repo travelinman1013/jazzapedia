@@ -1,109 +1,109 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-01-02T01:21:32.331896'
 birth_date: '1991'
 enhancement_provider: perplexity
 entry_created: '2026-01-02T01:21:32.331900'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e2a0c084-0648-4ba0-805d-b61e39d7a9b3
-  spotify: https://open.spotify.com/artist/54YNxT02JdAApvFBhD8ea0
-  wikipedia: https://en.wikipedia.org/wiki/Mingus_Big_Band
+  musicbrainz: 'https://musicbrainz.org/artist/e2a0c084-0648-4ba0-805d-b61e39d7a9b3'
+  spotify: 'https://open.spotify.com/artist/54YNxT02JdAApvFBhD8ea0'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mingus_Big_Band'
 genres:
-- big band
-- jazz
-- bebop
+  - big band
+  - jazz
+  - bebop
 image_path: 03_Resources/source_material/ArtistPortraits/mingus_big_band.jpg
 last_updated: '2026-01-02T01:21:32.331901'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 81987c6c-5928-464a-934b-696825c3d16a
-  name: Steve Berrios
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4244b5b1-9528-4f20-94cf-f2134e09b068
-  name: Randy Brecker
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7a0855b4-d090-4571-a2a6-1063bb4e58df
-  name: Orrin Evans
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 67b97580-f939-470e-bfa1-c3049f69c342
-  name: Vincent Herring
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 30b01f7e-2af1-4293-a52c-b84e43378390
-  name: David Kikoski
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a8bf1ab3-6c30-4770-a291-5d3c4e673ae3
-  name: Eric Miller
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 80fd1c1c-7153-4a5b-b0e9-2242d8a6cbf5
-  name: Chris Potter
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4888776a-6866-4cb0-82cd-01ceb28437f5
-  name: David Sánchez
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 26dfe5ce-be83-46d4-9ae2-daf81c508719
-  name: Mark Shim
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1751f9e8-e0b5-4d3c-99b6-d93e0e1f4895
-  name: Steve Turre
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: db0021bc-fd55-4ad3-a10a-07b774f89035
-  name: Britt Woodman
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b999b126-d2a0-4f42-b820-e3c115787d4b
-  name: Ronnie Cuber
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 81987c6c-5928-464a-934b-696825c3d16a
+    name: Steve Berrios
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4244b5b1-9528-4f20-94cf-f2134e09b068
+    name: Randy Brecker
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7a0855b4-d090-4571-a2a6-1063bb4e58df
+    name: Orrin Evans
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 67b97580-f939-470e-bfa1-c3049f69c342
+    name: Vincent Herring
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 30b01f7e-2af1-4293-a52c-b84e43378390
+    name: David Kikoski
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a8bf1ab3-6c30-4770-a291-5d3c4e673ae3
+    name: Eric Miller
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 80fd1c1c-7153-4a5b-b0e9-2242d8a6cbf5
+    name: Chris Potter
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4888776a-6866-4cb0-82cd-01ceb28437f5
+    name: David Sánchez
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 26dfe5ce-be83-46d4-9ae2-daf81c508719
+    name: Mark Shim
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1751f9e8-e0b5-4d3c-99b6-d93e0e1f4895
+    name: Steve Turre
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: db0021bc-fd55-4ad3-a10a-07b774f89035
+    name: Britt Woodman
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b999b126-d2a0-4f42-b820-e3c115787d4b
+    name: Ronnie Cuber
 musical_connections:
   collaborators:
-  - Sue Mingus
-  - Randy Brecker
-  - Sean Jones
-  - Donny McCaslin
-  - Jeff 'Tain' Watts
+    - Sue Mingus
+    - Randy Brecker
+    - Sean Jones
+    - Donny McCaslin
+    - Jeff 'Tain' Watts
   influenced: []
   mentors:
-  - Charles Mingus
+    - Charles Mingus
 musicbrainz_id: e2a0c084-0648-4ba0-805d-b61e39d7a9b3
 network_extracted: true
-origin: New York City, New York, United States
+origin: 'New York City, New York, United States'
 primary_source: perplexity
 research_sources:
-- https://www.jazzempowers.org/mingus-big-band
-- https://www.charlesmingus.com/mingusbio
-- https://www.wisemusicclassical.com/composer/2247/Charles-Mingus/
-- https://en.wikipedia.org/wiki/Mingus_Big_Band
-- https://www.charlesmingus.com/about-mingus-bands
-- https://www.charlesmingus.com/mingus-big-band
+  - 'https://www.jazzempowers.org/mingus-big-band'
+  - 'https://www.charlesmingus.com/mingusbio'
+  - 'https://www.wisemusicclassical.com/composer/2247/Charles-Mingus/'
+  - 'https://en.wikipedia.org/wiki/Mingus_Big_Band'
+  - 'https://www.charlesmingus.com/about-mingus-bands'
+  - 'https://www.charlesmingus.com/mingus-big-band'
 spotify_data:
   followers: 29434
   id: 54YNxT02JdAApvFBhD8ea0
   popularity: 36
-  url: https://open.spotify.com/artist/54YNxT02JdAApvFBhD8ea0
+  url: 'https://open.spotify.com/artist/54YNxT02JdAApvFBhD8ea0'
 status: active
 tags:
-- jazz
+  - jazz
 title: Mingus Big Band
 ---
 

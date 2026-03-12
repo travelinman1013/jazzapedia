@@ -5,11 +5,11 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1944-10-24'
-birth_place: Shreveport
+birth_place: 'Shreveport, Louisiana, United States'
 death_date: '2023-01-25'
 genres:
-- northern soul
-- soul
+  - northern soul
+  - soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bettye_swann.jpg
   caption: Bettye Swann
@@ -32,53 +32,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Arthur Wright
-  - Sam Dees
+    - Arthur Wright
+    - Sam Dees
   influenced:
-  - Joss Stone
+    - Joss Stone
   mentors:
-  - Al Scott
+    - Al Scott
 spotify_data:
   followers: 57115
   id: 0g3EsNvUCwgpsdkAiIC50W
   popularity: 39
-  url: https://open.spotify.com/artist/0g3EsNvUCwgpsdkAiIC50W
+  url: 'https://open.spotify.com/artist/0g3EsNvUCwgpsdkAiIC50W'
 discography_enriched: true
 top_tracks:
-- Then You Can Tell Me Goodbye (Bettye Swann)
-- Make Me Yours (The Money Recordings)
-- Little Things Mean A Lot (Bettye Swann)
-- Tell It Like It Is (Bettye Swann)
-- (My Heart Is) Closed For The Season (Bettye Swann)
-- I'm Lonely For You (Bettye Swann)
-- Angel Of The Morning (Bettye Swann)
-- Kiss My Love Goodbye - Single Version (The Complete Atlantic Recordings)
-- Don't You Ever Get Tired (Of Hurting Me) (Bettye Swann)
-- Don't Touch Me (Bettye Swann)
+  - Then You Can Tell Me Goodbye (Bettye Swann)
+  - Make Me Yours (The Money Recordings)
+  - Little Things Mean A Lot (Bettye Swann)
+  - Tell It Like It Is (Bettye Swann)
+  - (My Heart Is) Closed For The Season (Bettye Swann)
+  - I'm Lonely For You (Bettye Swann)
+  - Angel Of The Morning (Bettye Swann)
+  - Kiss My Love Goodbye - Single Version (The Complete Atlantic Recordings)
+  - Don't You Ever Get Tired (Of Hurting Me) (Bettye Swann)
+  - Don't Touch Me (Bettye Swann)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/648f240f-50e6-453d-b901-51e1a33ca4c0
-  spotify: https://open.spotify.com/artist/0g3EsNvUCwgpsdkAiIC50W
-  wikipedia: https://en.wikipedia.org/wiki/Bettye_Swann
+  musicbrainz: 'https://musicbrainz.org/artist/648f240f-50e6-453d-b901-51e1a33ca4c0'
+  spotify: 'https://open.spotify.com/artist/0g3EsNvUCwgpsdkAiIC50W'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bettye_Swann'
 image_path: 03_Resources/source_material/ArtistPortraits/bettye_swann.jpg
 biography_enhanced_at: '2025-10-25T09:54:34.673020'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Bettye_Swann
-- https://fromthevaults-boppinbob.blogspot.com/2020/10/bettye-swann-born-24-october-1944.html
-- https://dereksmusicblog.com/2019/01/20/the-life-and-times-of-bettye-swann/
-- https://blackpast.org/african-american-history/bettye-swann-1944/
-- https://jointzoftheday.substack.com/p/bettye-swann-born-october-24-1944-soul-singer
-- https://www.last.fm/music/Bettye+Swann
+  - 'https://en.wikipedia.org/wiki/Bettye_Swann'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2020/10/bettye-swann-born-24-october-1944.html
+  - 'https://dereksmusicblog.com/2019/01/20/the-life-and-times-of-bettye-swann/'
+  - 'https://blackpast.org/african-american-history/bettye-swann-1944/'
+  - >-
+    https://jointzoftheday.substack.com/p/bettye-swann-born-october-24-1944-soul-singer
+  - 'https://www.last.fm/music/Bettye+Swann'
 network_extracted: true
 entry_created: '2025-10-25T09:54:34.673071'
 last_updated: '2025-12-23T08:16:05.379831'
 gender: Female
 musicbrainz_id: 648f240f-50e6-453d-b901-51e1a33ca4c0
 tags:
-- r&b
-- soul
-
+  - r&b
+  - soul
+is_active: false
 ---
 
 ![](bettye_swann.jpg)

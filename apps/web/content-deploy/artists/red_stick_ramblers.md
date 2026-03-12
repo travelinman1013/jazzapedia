@@ -1,10 +1,10 @@
 ---
-title: RED STICK RAMBLERS
+title: Red Stick Ramblers
 wiki_slug: red-stick-ramblers
 schema_version: 2
 status: active
 genres:
-- bluegrass
+  - bluegrass
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/red_stick_ramblers.jpg
   caption: RED STICK RAMBLERS
@@ -24,57 +24,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Linzay Young
-  - Joel Savoy
-  - Chas Justus
-  - Eric Frey
-  - Blake Miller
-  - Glenn Fields
-  - Josh Caffery
-  - Kevin Wimmer
-  - Wilson Savoy, Ricky Rees, Oliver Swain
+    - Linzay Young
+    - Joel Savoy
+    - Chas Justus
+    - Eric Frey
+    - Blake Miller
+    - Glenn Fields
+    - Josh Caffery
+    - Kevin Wimmer
+    - 'Wilson Savoy, Ricky Rees, Oliver Swain'
   influenced:
-  - Younger Louisiana roots musicians
+    - Younger Louisiana roots musicians
   mentors:
-  - Michael Doucet
-  - Marc and Ann Savoy
-  - Bob Wills, Django Reinhardt, Dennis McGee, Doc Watson
+    - Michael Doucet
+    - Marc and Ann Savoy
+    - 'Bob Wills, Django Reinhardt, Dennis McGee, Doc Watson'
 spotify_data:
   followers: 4090
   id: 46VwPy2jAcvREVgBw2ojtX
   popularity: 15
-  url: https://open.spotify.com/artist/46VwPy2jAcvREVgBw2ojtX
+  url: 'https://open.spotify.com/artist/46VwPy2jAcvREVgBw2ojtX'
 discography_enriched: true
 top_tracks:
-- Main Street Blues (Bring It on Down)
-- Made In The Shade (Made In The Shade)
-- The Cowboy Song (Made In The Shade)
-- My Suitcase Is Always Packed (My Suitcase Is Always Packed)
-- Les Oiseaux Vont Chanter (Made In The Shade)
-- Laisse Les Cajuns Danser (Made In The Shade)
-- That's What I Like About the South (Right Key, Wrong Keyhole)
-- Katrina (Made In The Shade)
-- Je T'aime Pas Mieux (My Suitcase Is Always Packed)
-- Drinkin' To You (My Suitcase Is Always Packed)
+  - Main Street Blues (Bring It on Down)
+  - Made In The Shade (Made In The Shade)
+  - The Cowboy Song (Made In The Shade)
+  - My Suitcase Is Always Packed (My Suitcase Is Always Packed)
+  - Les Oiseaux Vont Chanter (Made In The Shade)
+  - Laisse Les Cajuns Danser (Made In The Shade)
+  - 'That''s What I Like About the South (Right Key, Wrong Keyhole)'
+  - Katrina (Made In The Shade)
+  - Je T'aime Pas Mieux (My Suitcase Is Always Packed)
+  - Drinkin' To You (My Suitcase Is Always Packed)
 external_urls:
-  spotify: https://open.spotify.com/artist/46VwPy2jAcvREVgBw2ojtX
-  wikipedia: https://en.wikipedia.org/wiki/Red_Stick_Ramblers
+  spotify: 'https://open.spotify.com/artist/46VwPy2jAcvREVgBw2ojtX'
+  wikipedia: 'https://en.wikipedia.org/wiki/Red_Stick_Ramblers'
 image_path: 03_Resources/source_material/ArtistPortraits/red_stick_ramblers.jpg
 biography_enhanced_at: '2025-10-31T08:18:26.035880'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://nelsonvillefest.org/artist/red-stick-ramblers/
-- https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/redstick.htm.html
-- https://www.countrystandardtime.com/d/article.asp?xid=710
-- https://bourgeoisguitars.com/artists/linzay-young-the-redstick-ramblers/
-- https://www.offbeat.com/music/red-stick-ramblers-made-in-the-shade-sugar-hill/
-- https://www.chron.com/entertainment/music/article/Red-Stick-Ramblers-are-Cajun-music-blue-bloods-1606567.php
+  - 'https://nelsonvillefest.org/artist/red-stick-ramblers/'
+  - >-
+    https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/redstick.htm.html
+  - 'https://www.countrystandardtime.com/d/article.asp?xid=710'
+  - 'https://bourgeoisguitars.com/artists/linzay-young-the-redstick-ramblers/'
+  - >-
+    https://www.offbeat.com/music/red-stick-ramblers-made-in-the-shade-sugar-hill/
+  - >-
+    https://www.chron.com/entertainment/music/article/Red-Stick-Ramblers-are-Cajun-music-blue-bloods-1606567.php
 network_extracted: true
 entry_created: '2025-10-31T08:18:26.035891'
 last_updated: '2025-12-23T08:16:14.767684'
-origin: Baton Rouge, Louisiana, United States
-
+origin: 'Baton Rouge, Louisiana, United States'
+artist_type: band
 ---
 
 ![](red_stick_ramblers.jpg)

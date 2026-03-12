@@ -5,37 +5,37 @@ schema_version: 2
 status: active
 aliases: []
 birth_date: '1962-03-18'
-birth_place: Fort Worth, Texas, United States
+birth_place: 'Fort Worth, Texas, United States'
 years_active: 1988–present
 genres:
-- alt country
-- americana
-- red dirt
-- texas country
-- roots rock
+  - alt country
+  - americana
+  - red dirt
+  - texas country
+  - roots rock
 instruments:
-- guitar
-- digital piano
-- bass guitar
-- harmonica
-- organ
+  - guitar
+  - digital piano
+  - bass guitar
+  - harmonica
+  - organ
 occupation:
-- composer
-- singer
-- songwriter
-- singer-songwriter
-- guitarist
+  - composer
+  - singer
+  - songwriter
+  - singer-songwriter
+  - guitarist
 record_labels:
-- Sugar Hill Records
-- Columbia Records
+  - Sugar Hill Records
+  - Columbia Records
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/James_McMurtry.jpg
   caption: James McMurtry
   background: non_vocal_instrumentalist
   born: '1962-03-18'
-  origin: Fort Worth, Texas, United States
+  origin: 'Fort Worth, Texas, United States'
 audio_profile:
-  tempo_avg: 135.0
+  tempo_avg: 135
   energy_avg: 0.585
   valence_avg: 0.546
   danceability_avg: 0.539
@@ -49,57 +49,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Daren Hess
-  - Ronnie Johnson
-  - Tim Holt
-  - Ian McLagan
-  - Jon Dee Graham
+    - Daren Hess
+    - Ronnie Johnson
+    - Tim Holt
+    - Ian McLagan
+    - Jon Dee Graham
   influenced:
-  - Jason Isbell
-  - Drive-By Truckers
+    - Jason Isbell
+    - Drive-By Truckers
   mentors:
-  - Larry McMurtry
-  - John Mellencamp
-  - Johnny Cash, Roy Acuff
+    - Larry McMurtry
+    - John Mellencamp
+    - 'Johnny Cash, Roy Acuff'
 related_artists: []
 spotify_data:
   followers: 98387
   id: 52BKc9OtCbQstAAPTIvLGH
   popularity: 49
-  url: https://open.spotify.com/artist/52BKc9OtCbQstAAPTIvLGH
+  url: 'https://open.spotify.com/artist/52BKc9OtCbQstAAPTIvLGH'
   verified: false
 discography_enriched: true
 albums_count: 13
 singles_count: 6
 top_tracks:
-- Canola Fields (The Horses and the Hounds)
-- Sailing Away
-- Choctaw Bingo (Live in Aught-Three)
-- Walk Between The Raindrops (Walk Between The Raindrops)
-- If It Don’t Bleed (The Horses and the Hounds)
-- Just Us Kids (Just Us Kids)
-- Copper Canteen (Complicated Game)
-- Choctaw Bingo (Saint Mary Of The Woods)
-- We Can't Make It Here (Childish Things)
-- Gulf Road (If You Never Go Away)
+  - Canola Fields (The Horses and the Hounds)
+  - Sailing Away
+  - Choctaw Bingo (Live in Aught-Three)
+  - Walk Between The Raindrops (Walk Between The Raindrops)
+  - If It Don’t Bleed (The Horses and the Hounds)
+  - Just Us Kids (Just Us Kids)
+  - Copper Canteen (Complicated Game)
+  - Choctaw Bingo (Saint Mary Of The Woods)
+  - We Can't Make It Here (Childish Things)
+  - Gulf Road (If You Never Go Away)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/52BKc9OtCbQstAAPTIvLGH
-  wikipedia: https://en.wikipedia.org/wiki/James_McMurtry
+  spotify: 'https://open.spotify.com/artist/52BKc9OtCbQstAAPTIvLGH'
+  wikipedia: 'https://en.wikipedia.org/wiki/James_McMurtry'
 image_path: 03_Resources/source_material/ArtistPortraits/James_McMurtry.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:48:34.232078'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://martyrslive.com/james-mcmurtry
-- https://www.last.fm/music/James+McMurtry/+wiki
-- https://en.wikipedia.org/wiki/James_McMurtry
+  - 'https://martyrslive.com/james-mcmurtry'
+  - 'https://www.last.fm/music/James+McMurtry/+wiki'
+  - 'https://en.wikipedia.org/wiki/James_McMurtry'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:51:27.197999
+entry_created: 2025-09-22T21:51:27.197Z
 last_updated: '2025-12-23T08:16:02.326293'
-
+artist_type: person
 ---
 
 ![](James_McMurtry.jpg)

@@ -1,44 +1,47 @@
 ---
 biography_enhanced_at: '2026-01-20T01:20:43.024442'
-birth_place: Kfarshima, Lebanon
+birth_place: 'Kfarshima, Lebanon, Lebanon'
 enhancement_provider: perplexity
 entry_created: '2026-01-20T01:20:43.024449'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/353edfeb-26a7-404f-bab2-b5934c872068
-  spotify: https://open.spotify.com/artist/1XbhAHOgb6fmUdnNJWP2fK
+  musicbrainz: 'https://musicbrainz.org/artist/353edfeb-26a7-404f-bab2-b5934c872068'
+  spotify: 'https://open.spotify.com/artist/1XbhAHOgb6fmUdnNJWP2fK'
   wikipedia: ''
 genres:
-- funkot
-- koplo
-- dangdut
-- maluku
+  - funkot
+  - koplo
+  - dangdut
+  - maluku
 image_path: 03_Resources/source_material/ArtistPortraits/barakat.jpg
 last_updated: '2026-01-20T01:20:43.024450'
 musical_connections:
   collaborators:
-  - Rahbani Brothers
-  - Najwa Karam
-  - Karol Sakr
-  - Shatha Hassoun
-  - Majida El Roumi
-  - May Hariri
-  - Dani Boustros
+    - Rahbani Brothers
+    - Najwa Karam
+    - Karol Sakr
+    - Shatha Hassoun
+    - Majida El Roumi
+    - May Hariri
+    - Dani Boustros
   influenced: []
   mentors:
-  - Mohammed Abdel Wahab
+    - Mohammed Abdel Wahab
 musicbrainz_id: 353edfeb-26a7-404f-bab2-b5934c872068
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Melhem+Barakat/+wiki
-- https://music.apple.com/lb/artist/melhem-barakat/301279158
+  - 'https://www.last.fm/music/Melhem+Barakat/+wiki'
+  - 'https://music.apple.com/lb/artist/melhem-barakat/301279158'
 spotify_data:
   followers: 4196
   id: 1XbhAHOgb6fmUdnNJWP2fK
   popularity: 22
-  url: https://open.spotify.com/artist/1XbhAHOgb6fmUdnNJWP2fK
+  url: 'https://open.spotify.com/artist/1XbhAHOgb6fmUdnNJWP2fK'
 status: active
 title: Barakat
+birth_date: '1945-08-15'
+death_date: '2016-10-28'
+artist_type: person
 ---
 
 ![](barakat.jpg)

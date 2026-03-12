@@ -2,52 +2,53 @@
 artist_type: person
 biography_enhanced_at: '2025-12-31T01:45:21.894871'
 birth_date: '1976-02-13'
-birth_place: Amherst
+birth_place: 'Amherst, Nova Scotia, Canada'
 disambiguation: Leslie Feist – American‐Canadian indie pop singer / of Broken Social Scene
 enhancement_provider: perplexity
 entry_created: '2025-12-31T01:45:21.894876'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a670e05a-cea8-4b37-bce9-d82daf1a0fa4
-  spotify: https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj
+  musicbrainz: 'https://musicbrainz.org/artist/a670e05a-cea8-4b37-bce9-d82daf1a0fa4'
+  spotify: 'https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj'
   wikipedia: ''
 gender: Female
 genres:
-- chamber pop
+  - chamber pop
 image_path: 03_Resources/source_material/ArtistPortraits/feist.jpg
 instruments:
-- guitar
-- piano
-- background vocals
-- lead vocals
+  - guitar
+  - piano
+  - background vocals
+  - lead vocals
 last_updated: '2025-12-31T01:45:21.894876'
 musical_connections:
   collaborators:
-  - Peaches
-  - Broken Social Scene
-  - By Divine Right
-  - Kings of Convenience
+    - Peaches
+    - Broken Social Scene
+    - By Divine Right
+    - Kings of Convenience
   influenced: []
   mentors:
-  - Chilly Gonzales
+    - Chilly Gonzales
 musicbrainz_id: a670e05a-cea8-4b37-bce9-d82daf1a0fa4
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Feist/+wiki
-- https://www.highroadtouring.com/artists/feist/
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/feist
+  - 'https://www.last.fm/music/Feist/+wiki'
+  - 'https://www.highroadtouring.com/artists/feist/'
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/feist
 spotify_data:
   followers: 812974
   id: 6CWTBjOJK75cTE8Xv8u1kj
   popularity: 63
-  url: https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj
+  url: 'https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj'
 status: active
 tags:
-- art pop
-- canadian
-- chamber pop
+  - art pop
+  - canadian
+  - chamber pop
 title: Feist
-
+origin: 'Toronto, Ontario, Canada'
 ---
 
 ![](feist.jpg)

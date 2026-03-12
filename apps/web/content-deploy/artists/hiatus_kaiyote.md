@@ -2,19 +2,19 @@
 title: Hiatus Kaiyote
 wiki_slug: hiatus-kaiyote
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '2011'
 genres:
-- neo soul
-- alternative r&b
+  - neo soul
+  - alternative r&b
 instruments:
-- guitar
-- original
-- lead vocals
-- bass guitar
-- keyboard
-- drums (drum set)
+  - guitar
+  - original
+  - lead vocals
+  - bass guitar
+  - keyboard
+  - drums (drum set)
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/hiatus_kaiyote.jpg
   caption: Hiatus Kaiyote
@@ -35,99 +35,98 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Nai Palm
-  - Paul Bender
-  - Perrin Moss
-  - Simon Mavin
-  - Taylor McFerrin
+    - Nai Palm
+    - Paul Bender
+    - Perrin Moss
+    - Simon Mavin
+    - Taylor McFerrin
   influenced: []
   mentors:
-  - Stevie Wonder
-  - Aretha Franklin
-  - Flying Lotus
+    - Stevie Wonder
+    - Aretha Franklin
+    - Flying Lotus
 spotify_data:
   followers: 732887
   id: 43JlwunhXm1oqdKyOa2Z9Y
   popularity: 56
-  url: https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y
+  url: 'https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y'
 discography_enriched: true
 top_tracks:
-- Red Room (Mood Valiant)
-- Nakamarra (Tawk Tomahawk)
-- Everything’s Beautiful (Love Heart Cheat Code)
-- And We Go Gentle (Mood Valiant)
-- Sip Into Something Soft (Mood Valiant)
-- Nakamarra (Tawk Tomahawk)
-- Fingerprints (Choose Your Weapon)
-- The World It Softly Lulls (Tawk Tomahawk)
-- Molasses (Choose Your Weapon)
-- Blood And Marrow - Stro Elliot Remix (Mood Variant (The Remixes))
+  - Red Room (Mood Valiant)
+  - Nakamarra (Tawk Tomahawk)
+  - Everything’s Beautiful (Love Heart Cheat Code)
+  - And We Go Gentle (Mood Valiant)
+  - Sip Into Something Soft (Mood Valiant)
+  - Nakamarra (Tawk Tomahawk)
+  - Fingerprints (Choose Your Weapon)
+  - The World It Softly Lulls (Tawk Tomahawk)
+  - Molasses (Choose Your Weapon)
+  - Blood And Marrow - Stro Elliot Remix (Mood Variant (The Remixes))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/55c03773-59ea-4d4e-9057-87c2ecab005d
-  spotify: https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y
+  musicbrainz: 'https://musicbrainz.org/artist/55c03773-59ea-4d4e-9057-87c2ecab005d'
+  spotify: 'https://open.spotify.com/artist/43JlwunhXm1oqdKyOa2Z9Y'
   wikipedia: Not provided in search results
 image_path: 03_Resources/source_material/ArtistPortraits/hiatus_kaiyote.jpg
 biography_enhanced_at: '2025-11-20T07:04:38.779559'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- neosoul.com.au
-- wondercoreisland.com
-- sonymusicmasterworks.com
-- northseajazz.com
-- vice.com
-- spitfireaudio.com
-- holican.io
-- waxpoetics.com
+  - neosoul.com.au
+  - wondercoreisland.com
+  - sonymusicmasterworks.com
+  - northseajazz.com
+  - vice.com
+  - spitfireaudio.com
+  - holican.io
+  - waxpoetics.com
 network_extracted: true
 entry_created: '2025-11-20T07:04:38.779567'
 last_updated: '2025-12-23T08:16:09.608933'
 disambiguation: Australian neo‐soul group
 members:
-- &id001
-  begin: '2011'
-  end: ''
-  instruments:
-  - guitar
-  - original
-  mbid: 2faee3c1-74f7-4778-903f-c24b1293860d
-  name: Nai Palm
-- &id002
-  begin: '2011'
-  end: ''
-  instruments:
-  - lead vocals
-  - original
-  mbid: 2faee3c1-74f7-4778-903f-c24b1293860d
-  name: Nai Palm
-- begin: ''
-  end: ''
-  instruments:
-  - bass guitar
-  mbid: 1044b6a9-25b2-4a95-9b7e-f9c34eb7e740
-  name: Paul Bender
-- begin: ''
-  end: ''
-  instruments:
-  - keyboard
-  mbid: 2f1a7b15-fbb9-4225-828c-fdf44d2434df
-  name: Simon Mavin
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 65cf3d2c-8cda-46c8-9393-7ca0a9b07dc8
-  name: Perrin Moss
+  - &ref_0
+    begin: '2011'
+    end: ''
+    instruments:
+      - guitar
+      - original
+    mbid: 2faee3c1-74f7-4778-903f-c24b1293860d
+    name: Nai Palm
+  - &ref_1
+    begin: '2011'
+    end: ''
+    instruments:
+      - lead vocals
+      - original
+    mbid: 2faee3c1-74f7-4778-903f-c24b1293860d
+    name: Nai Palm
+  - begin: ''
+    end: ''
+    instruments:
+      - bass guitar
+    mbid: 1044b6a9-25b2-4a95-9b7e-f9c34eb7e740
+    name: Paul Bender
+  - begin: ''
+    end: ''
+    instruments:
+      - keyboard
+    mbid: 2f1a7b15-fbb9-4225-828c-fdf44d2434df
+    name: Simon Mavin
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 65cf3d2c-8cda-46c8-9393-7ca0a9b07dc8
+    name: Perrin Moss
 musicbrainz_id: 55c03773-59ea-4d4e-9057-87c2ecab005d
-origin: Melbourne
+origin: 'Melbourne, Victoria, Australia'
 original_members:
-- *id001
-- *id002
+  - *ref_0
+  - *ref_1
 tags:
-- australian
-- experimental
-- neo soul
-
+  - australian
+  - experimental
+  - neo soul
 ---
 
 ![](hiatus_kaiyote.jpg)

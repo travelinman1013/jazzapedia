@@ -3,14 +3,14 @@ title: Big Jack Johnson
 wiki_slug: big-jack-johnson
 schema_version: 2
 status: active
-birth_place: Lambert, Mississippi, United States
+birth_place: 'Lambert, Mississippi, United States'
 genres:
-- blues
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/big_jack_johnson.jpg
   caption: Big Jack Johnson
   background: solo_singer
-  origin: Lambert, Mississippi, United States
+  origin: 'Lambert, Mississippi, United States'
 audio_profile:
   tempo_avg: 120.9
   energy_avg: 0.528
@@ -26,54 +26,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Frank Frost
-  - Sam Carr
-  - Little Jeno Tucker
-  - James 'Super Chikan' Johnson
-  - Terry 'Big T' Williams
+    - Frank Frost
+    - Sam Carr
+    - Little Jeno Tucker
+    - James 'Super Chikan' Johnson
+    - Terry 'Big T' Williams
   influenced:
-  - James 'Super Chikan' Johnson
-  - Terry 'Big T' Williams
+    - James 'Super Chikan' Johnson
+    - Terry 'Big T' Williams
   mentors:
-  - Ellis Johnson
-  - B.B. King
-  - Albert King
+    - Ellis Johnson
+    - B.B. King
+    - Albert King
 spotify_data:
   followers: 2126
   id: 3tJWGXGhMM8d0r8j71wid6
   popularity: 8
-  url: https://open.spotify.com/artist/3tJWGXGhMM8d0r8j71wid6
+  url: 'https://open.spotify.com/artist/3tJWGXGhMM8d0r8j71wid6'
 discography_enriched: true
 top_tracks:
-- I Wanna Know (All the Way Back)
-- Oil Man (The Oil Man)
-- Daddy, When is Mama Coming Home - Remastered 2022 (Deep Blues (Original Motion Picture Soundtrack) [Remastered 2022])
-- Baby What You Want Me To Do (feat. Kim Wilson) (Stripped Down In Memphis)
-- Lonely Man (All the Way Back)
-- Catfish Blues (The Oil Man)
-- Oh Baby (The Memphis Barbecue Sessions)
-- Catfish Blues - Remastered 2022 (Deep Blues (Original Motion Picture Soundtrack) [Remastered 2022])
-- Big Boy Now - Remastered 2022 (Deep Blues (Original Motion Picture Soundtrack) [Remastered 2022])
-- Tom Dooley (The Oil Man)
+  - I Wanna Know (All the Way Back)
+  - Oil Man (The Oil Man)
+  - >-
+    Daddy, When is Mama Coming Home - Remastered 2022 (Deep Blues (Original
+    Motion Picture Soundtrack) [Remastered 2022])
+  - Baby What You Want Me To Do (feat. Kim Wilson) (Stripped Down In Memphis)
+  - Lonely Man (All the Way Back)
+  - Catfish Blues (The Oil Man)
+  - Oh Baby (The Memphis Barbecue Sessions)
+  - >-
+    Catfish Blues - Remastered 2022 (Deep Blues (Original Motion Picture
+    Soundtrack) [Remastered 2022])
+  - >-
+    Big Boy Now - Remastered 2022 (Deep Blues (Original Motion Picture
+    Soundtrack) [Remastered 2022])
+  - Tom Dooley (The Oil Man)
 external_urls:
-  spotify: https://open.spotify.com/artist/3tJWGXGhMM8d0r8j71wid6
-  wikipedia: https://en.wikipedia.org/wiki/Big_Jack_Johnson
+  spotify: 'https://open.spotify.com/artist/3tJWGXGhMM8d0r8j71wid6'
+  wikipedia: 'https://en.wikipedia.org/wiki/Big_Jack_Johnson'
 image_path: 03_Resources/source_material/ArtistPortraits/big_jack_johnson.jpg
 biography_enhanced_at: '2025-11-26T07:56:28.039107'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Big_Jack_Johnson
-- https://www.last.fm/music/Big+Jack+Johnson/+wiki
-- https://msbluestrail.org/blues-trail-markers/big-jack-johnson
-- https://msfolkdirectory.org/big-jack-johnson-1940-2011/
-- https://www.cityofclarksdale.org/artists/johnson-2/
-- https://www.deltabluesmuseum.org/news-rip-big-jack-johnson.aspx
-- https://www.imdb.com/name/nm0424590/bio/?mode=desktop
-- https://deltaboogie.com/deltamusicians/johnsoja/
+  - 'https://en.wikipedia.org/wiki/Big_Jack_Johnson'
+  - 'https://www.last.fm/music/Big+Jack+Johnson/+wiki'
+  - 'https://msbluestrail.org/blues-trail-markers/big-jack-johnson'
+  - 'https://msfolkdirectory.org/big-jack-johnson-1940-2011/'
+  - 'https://www.cityofclarksdale.org/artists/johnson-2/'
+  - 'https://www.deltabluesmuseum.org/news-rip-big-jack-johnson.aspx'
+  - 'https://www.imdb.com/name/nm0424590/bio/?mode=desktop'
+  - 'https://deltaboogie.com/deltamusicians/johnsoja/'
 network_extracted: true
 entry_created: '2025-11-26T07:56:28.039118'
 last_updated: '2025-12-23T08:16:05.442769'
+birth_date: '1940-07-30'
+death_date: '2011-03-14'
+artist_type: person
 ---
 
 ![](big_jack_johnson.jpg)

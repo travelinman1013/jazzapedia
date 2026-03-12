@@ -1,22 +1,22 @@
 ---
-title: ceasar elloie
+title: Ceasar Elloie
 wiki_slug: ceasar-elloie
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ceasar_elloie.jpg
   caption: ceasar elloie
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
-  tempo_avg: 129.0
+  tempo_avg: 129
   energy_avg: 0.715
   valence_avg: 0.627
   danceability_avg: 0.569
   acousticness_avg: 0.564
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -6.9
   speechiness_avg: 0.075
   liveness_avg: 0.18
@@ -31,30 +31,31 @@ spotify_data:
   followers: 20
   id: 6XAEhImMBYHxDNGP3DtFe0
   popularity: 0
-  url: https://open.spotify.com/artist/6XAEhImMBYHxDNGP3DtFe0
+  url: 'https://open.spotify.com/artist/6XAEhImMBYHxDNGP3DtFe0'
 discography_enriched: true
 top_tracks:
-- Bourbon Street Parade (New Orleans to Paris')
-- Autumn Leaves (New Orleans to Paris')
-- Them There Eyes (New Orleans to Paris')
-- Lets Fall In Love Alll Over Again (New Orleans to Paris')
-- Fly Me To the Moon (New Orleans to Paris')
-- Love (New Orleans to Paris')
-- More Than Yesterday (New Orleans to Paris')
-- Lady Love (New Orleans to Paris')
+  - Bourbon Street Parade (New Orleans to Paris')
+  - Autumn Leaves (New Orleans to Paris')
+  - Them There Eyes (New Orleans to Paris')
+  - Lets Fall In Love Alll Over Again (New Orleans to Paris')
+  - Fly Me To the Moon (New Orleans to Paris')
+  - Love (New Orleans to Paris')
+  - More Than Yesterday (New Orleans to Paris')
+  - Lady Love (New Orleans to Paris')
 external_urls:
-  spotify: https://open.spotify.com/artist/6XAEhImMBYHxDNGP3DtFe0
+  spotify: 'https://open.spotify.com/artist/6XAEhImMBYHxDNGP3DtFe0'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/ceasar_elloie.jpg
 biography_enhanced_at: '2025-11-27T06:38:46.190500'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- souldennis.blogspot.com - Ceasar Elloie biography
-- ceasarelloie.bandcamp.com - Artist profile
+  - souldennis.blogspot.com - Ceasar Elloie biography
+  - ceasarelloie.bandcamp.com - Artist profile
 network_extracted: true
 entry_created: '2025-11-27T06:38:46.190516'
 last_updated: '2025-12-23T08:16:06.570013'
+artist_type: person
 ---
 
 ![](ceasar_elloie.jpg)

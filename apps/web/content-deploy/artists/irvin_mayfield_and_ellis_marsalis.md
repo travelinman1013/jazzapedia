@@ -1,40 +1,46 @@
 ---
 biography_enhanced_at: '2025-12-26T01:22:30.306561'
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, USA'
 enhancement_provider: perplexity
 entry_created: '2025-12-26T01:22:30.306573'
 external_urls:
-  spotify: https://open.spotify.com/artist/6gMW76a7vmuyUuAivTjFGj
-  wikipedia: https://en.wikipedia.org/wiki/Irvin_Mayfield
+  spotify: 'https://open.spotify.com/artist/6gMW76a7vmuyUuAivTjFGj'
+  wikipedia: 'https://en.wikipedia.org/wiki/Irvin_Mayfield'
 genres:
-- jazz
-image_path: 03_Resources/source_material/ArtistPortraits/irvin_mayfield_and_ellis_marsalis.jpg
+  - jazz
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/irvin_mayfield_and_ellis_marsalis.jpg
 last_updated: '2025-12-26T01:22:30.306574'
 musical_connections:
   collaborators:
-  - Jason Marsalis
-  - Bill Summers
-  - Ellis Marsalis
+    - Jason Marsalis
+    - Bill Summers
+    - Ellis Marsalis
   influenced: []
   mentors:
-  - Ellis Marsalis
-  - Wynton Marsalis
+    - Ellis Marsalis
+    - Wynton Marsalis
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://frenchquarterly.com/music/irvin-mayfield-cultural-ambassador-new-orleans
-  [1]
-- https://www.arts.gov/honors/jazz/marsalis-family [2]
-- https://jazztimes.com/features/profiles/irvin-mayfield-the-cultural-ambassador-of-new-orleans/
-  [3]
-- https://en.wikipedia.org/wiki/Irvin_Mayfield [4]
+  - >-
+    https://frenchquarterly.com/music/irvin-mayfield-cultural-ambassador-new-orleans
+    [1]
+  - 'https://www.arts.gov/honors/jazz/marsalis-family [2]'
+  - >-
+    https://jazztimes.com/features/profiles/irvin-mayfield-the-cultural-ambassador-of-new-orleans/
+    [3]
+  - 'https://en.wikipedia.org/wiki/Irvin_Mayfield [4]'
 spotify_data:
   followers: 15323
   id: 6gMW76a7vmuyUuAivTjFGj
   popularity: 42
-  url: https://open.spotify.com/artist/6gMW76a7vmuyUuAivTjFGj
+  url: 'https://open.spotify.com/artist/6gMW76a7vmuyUuAivTjFGj'
 status: active
 title: Irvin Mayfield & Ellis Marsalis
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1977-12-23'
+artist_type: band
 ---
 
 ![](irvin_mayfield_and_ellis_marsalis.jpg)

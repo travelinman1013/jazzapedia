@@ -4,8 +4,8 @@ wiki_slug: minus-2
 schema_version: 2
 status: active
 genres:
-- math rock
-- post-hardcore
+  - math rock
+  - post-hardcore
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/minus_2.jpg
   caption: Minus 2
@@ -25,42 +25,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Günter Kühlwein
-  - Walter Helbig
+    - Günter Kühlwein
+    - Walter Helbig
   influenced: []
   mentors:
-  - DZYAN
+    - DZYAN
 spotify_data:
   followers: 212130
   id: 0YQBN02bmZvwGNrrWsg2sT
   popularity: 46
-  url: https://open.spotify.com/artist/0YQBN02bmZvwGNrrWsg2sT
+  url: 'https://open.spotify.com/artist/0YQBN02bmZvwGNrrWsg2sT'
 discography_enriched: true
 top_tracks:
-- Pachuca Sunrise (Menos El Oso)
-- Absinthe Party At The Fly Honey Warehouse (Highly Refined Pirates)
-- Knights (Planet of Ice)
-- Hooray - Demo
-- Into the Mirror (Omni)
-- The Game Needed Me (Menos El Oso)
-- Drilling (Menos El Oso)
-- Memphis & 53rd (Menos El Oso)
-- The Fix (Menos El Oso)
-- Cold Company (Infinity Overhead)
+  - Pachuca Sunrise (Menos El Oso)
+  - Absinthe Party At The Fly Honey Warehouse (Highly Refined Pirates)
+  - Knights (Planet of Ice)
+  - Hooray - Demo
+  - Into the Mirror (Omni)
+  - The Game Needed Me (Menos El Oso)
+  - Drilling (Menos El Oso)
+  - Memphis & 53rd (Menos El Oso)
+  - The Fix (Menos El Oso)
+  - Cold Company (Infinity Overhead)
 external_urls:
-  spotify: https://open.spotify.com/artist/0YQBN02bmZvwGNrrWsg2sT
+  spotify: 'https://open.spotify.com/artist/0YQBN02bmZvwGNrrWsg2sT'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/minus_2.jpg
 biography_enhanced_at: '2025-11-28T07:26:52.457824'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Prog Archives - MINUS TWO discography and reviews
-- Math rock genre documentation indicating Minus Two's classification within progressive and post-hardcore contexts
+  - Prog Archives - MINUS TWO discography and reviews
+  - >-
+    Math rock genre documentation indicating Minus Two's classification within
+    progressive and post-hardcore contexts
 network_extracted: true
 entry_created: '2025-11-28T07:26:52.457838'
 last_updated: '2025-12-23T08:16:13.190385'
-origin: Mannheim, Baden-Württemberg, Germany
+origin: 'Mannheim, Baden-Württemberg, Germany'
+artist_type: band
 ---
 
 ![](minus_2.jpg)

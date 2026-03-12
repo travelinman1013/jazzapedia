@@ -1,15 +1,16 @@
 ---
-title: clifford brown and max roach
+title: Clifford Brown and Max Roach
 wiki_slug: clifford-brown-and-max-roach
 schema_version: 2
 status: active
 genres:
-- hard bop
-- bebop
-- jazz
-- cool jazz
+  - hard bop
+  - bebop
+  - jazz
+  - cool jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/clifford_brown_and_max_roach.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/clifford_brown_and_max_roach.jpg
   caption: clifford brown and max roach
   background: solo_singer
 audio_profile:
@@ -27,52 +28,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Harold Land
-  - Richie Powell
-  - George Morrow
+    - Harold Land
+    - Richie Powell
+    - George Morrow
   influenced:
-  - Later hard bop trumpeters (e.g., Freddie Hubbard, Lee Morgan)
-  - Modern jazz drummers
-  - Hard bop small groups and the Jazz Messengers/Miles Davis Quintet era
+    - 'Later hard bop trumpeters (e.g., Freddie Hubbard, Lee Morgan)'
+    - Modern jazz drummers
+    - Hard bop small groups and the Jazz Messengers/Miles Davis Quintet era
   mentors:
-  - Charlie Parker
-  - Lionel Hampton
-  - Art Blakey
+    - Charlie Parker
+    - Lionel Hampton
+    - Art Blakey
 spotify_data:
   followers: 152365
   id: 1HJHwWck1EY096ea2iPAHO
   popularity: 48
-  url: https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO
+  url: 'https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO'
 discography_enriched: true
 top_tracks:
-- Embraceable You (Sarah Vaughan)
-- Joy Spring (Clifford Brown And Max Roach)
-- It's Crazy (Sarah Vaughan)
-- Sandu (Study In Brown)
-- Joy Spring
-- 'Smoke Gets In Your Eyes (Jazz ''Round Midnight: Clifford Brown)'
-- April In Paris (Sarah Vaughan)
-- Easy Living (Memorial Album (Remastered / Rudy Van Gelder Edition))
-- Cherokee (Study In Brown)
-- He's My Guy (Sarah Vaughan)
+  - Embraceable You (Sarah Vaughan)
+  - Joy Spring (Clifford Brown And Max Roach)
+  - It's Crazy (Sarah Vaughan)
+  - Sandu (Study In Brown)
+  - Joy Spring
+  - 'Smoke Gets In Your Eyes (Jazz ''Round Midnight: Clifford Brown)'
+  - April In Paris (Sarah Vaughan)
+  - Easy Living (Memorial Album (Remastered / Rudy Van Gelder Edition))
+  - Cherokee (Study In Brown)
+  - He's My Guy (Sarah Vaughan)
 external_urls:
-  spotify: https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO
-  wikipedia: https://en.wikipedia.org/wiki/Clifford_Brown_%26_Max_Roach
+  spotify: 'https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO'
+  wikipedia: 'https://en.wikipedia.org/wiki/Clifford_Brown_%26_Max_Roach'
 image_path: 03_Resources/source_material/ArtistPortraits/clifford_brown_and_max_roach.jpg
 biography_enhanced_at: '2025-12-11T03:56:51.218652'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Clifford_Brown_%26_Max_Roach
-- https://www.seacoastjazz.org/clifford-brown-and-max-roach.html
-- https://jazzfuel.com/clifford-brown-albums-biography/
-- https://www.mosaicrecords.com/the-great-jazz-artists/clifford-brown/
-- https://www.philadelphiamusicalliance.org/walk-of-fame/clifford-brown-2/
+  - 'https://en.wikipedia.org/wiki/Clifford_Brown_%26_Max_Roach'
+  - 'https://www.seacoastjazz.org/clifford-brown-and-max-roach.html'
+  - 'https://jazzfuel.com/clifford-brown-albums-biography/'
+  - 'https://www.mosaicrecords.com/the-great-jazz-artists/clifford-brown/'
+  - 'https://www.philadelphiamusicalliance.org/walk-of-fame/clifford-brown-2/'
 network_extracted: true
 entry_created: '2025-12-11T03:56:51.218662'
 last_updated: '2025-12-23T08:16:07.094340'
-origin: Wilmington, Delaware, United States (Clifford Brown) / New Land, North Carolina, United States; raised in Brooklyn,
-  New York, United States (Max Roach)
+origin: >-
+  Wilmington, Delaware, United States (Clifford Brown) / New Land, North
+  Carolina, United States; raised in Brooklyn, New York, United States (Max
+  Roach)
+birth_place: 'Wilmington, Delaware, United States'
+birth_date: '1930'
+artist_type: person
 ---
 
 ![](clifford_brown_and_max_roach.jpg)

@@ -1,24 +1,24 @@
 ---
-title: charles bradley
+title: Charles Bradley
 wiki_slug: charles-bradley
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1948-11-05'
-birth_place: Gainesville
+birth_place: 'Gainesville, Florida, United States'
 death_date: '2017-09-23'
 genres:
-- retro soul
-- soul
-- soul blues
+  - retro soul
+  - soul
+  - soul blues
 instruments:
-- lead vocals
+  - lead vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 79a6bcec-e63d-4928-9410-ae55ec887f3b
-  name: Charles Bradley & His Extraordinaires
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 79a6bcec-e63d-4928-9410-ae55ec887f3b
+    name: Charles Bradley & His Extraordinaires
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/charles_bradley.jpg
   caption: charles bradley
@@ -41,43 +41,44 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Gabriel Roth
-  - Tom Brenneck
-  - Menahan Street Band
-  - Sharon Jones
+    - Gabriel Roth
+    - Tom Brenneck
+    - Menahan Street Band
+    - Sharon Jones
   influenced: []
   mentors:
-  - James Brown
+    - James Brown
 spotify_data:
   followers: 569568
   id: 462T0buQ5ScBUQCRpodDRf
   popularity: 60
-  url: https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf
+  url: 'https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf'
 discography_enriched: true
 top_tracks:
-- The World (Is Going Up in Flames) (No Time For Dreaming)
-- Changes (Changes)
-- Heart of Gold (No Time For Dreaming)
-- How Long (No Time For Dreaming)
-- No Time for Dreaming (No Time For Dreaming)
-- Victim of Love (Victim of Love)
-- Where Do We Go From Here (Victim of Love)
-- Stay Away (No Time For Dreaming)
-- Strictly Reserved for You (Victim of Love)
-- Good to Be Back Home (Changes)
+  - The World (Is Going Up in Flames) (No Time For Dreaming)
+  - Changes (Changes)
+  - Heart of Gold (No Time For Dreaming)
+  - How Long (No Time For Dreaming)
+  - No Time for Dreaming (No Time For Dreaming)
+  - Victim of Love (Victim of Love)
+  - Where Do We Go From Here (Victim of Love)
+  - Stay Away (No Time For Dreaming)
+  - Strictly Reserved for You (Victim of Love)
+  - Good to Be Back Home (Changes)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/dc6d2ba1-012c-47a7-ba3f-d74e76c30d53
-  spotify: https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf
-  wikipedia: https://en.wikipedia.org/wiki/Charles_Bradley_(singer)
+  musicbrainz: 'https://musicbrainz.org/artist/dc6d2ba1-012c-47a7-ba3f-d74e76c30d53'
+  spotify: 'https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf'
+  wikipedia: 'https://en.wikipedia.org/wiki/Charles_Bradley_(singer)'
 image_path: 03_Resources/source_material/ArtistPortraits/charles_bradley.jpg
 biography_enhanced_at: '2025-12-12T12:13:46.415194'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.imdb.com/name/nm4475925/bio/
-- https://daptonerecords.com/artists/charles-bradley/
-- https://www.fandango.com/people/charles-bradley-73791/biography
-- https://www.crossrhythms.co.uk/articles/music/Charles_Bradley_The_critically_acclaimed_singer_showing_the_Soul_Of_America/52628/p1/
+  - 'https://www.imdb.com/name/nm4475925/bio/'
+  - 'https://daptonerecords.com/artists/charles-bradley/'
+  - 'https://www.fandango.com/people/charles-bradley-73791/biography'
+  - >-
+    https://www.crossrhythms.co.uk/articles/music/Charles_Bradley_The_critically_acclaimed_singer_showing_the_Soul_Of_America/52628/p1/
 network_extracted: true
 entry_created: '2025-12-12T12:13:46.415207'
 last_updated: '2025-12-23T08:16:06.647824'
@@ -85,9 +86,10 @@ disambiguation: US funk/soul/R&B singer
 gender: Male
 musicbrainz_id: dc6d2ba1-012c-47a7-ba3f-d74e76c30d53
 tags:
-- funk
-- soul
-
+  - funk
+  - soul
+is_active: false
+origin: 'Brooklyn, New York, United States'
 ---
 
 ![](charles_bradley.jpg)

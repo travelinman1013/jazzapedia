@@ -3,14 +3,14 @@ title: Melvyn Price
 wiki_slug: melvyn-price
 schema_version: 2
 status: active
-birth_place: Pontiac, Michigan, United States (birthplace); Sweden (career origin)
+birth_place: 'Pontiac, Michigan, United States (birthplace); Sweden (career origin)'
 genres:
-- jazz funk
+  - jazz funk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/melvyn_price.jpg
   caption: Melvyn Price
   background: solo_singer
-  origin: Pontiac, Michigan, United States (birthplace); Sweden (career origin)
+  origin: 'Pontiac, Michigan, United States (birthplace); Sweden (career origin)'
 audio_profile:
   tempo_avg: 113.8
   energy_avg: 0.702
@@ -18,7 +18,7 @@ audio_profile:
   danceability_avg: 0.596
   acousticness_avg: 0.315
   instrumentalness_avg: 0.547
-  loudness_avg: -14.0
+  loudness_avg: -14
   speechiness_avg: 0.067
   liveness_avg: 0.091
   track_count: 6
@@ -26,41 +26,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Fredrik Norén
-  - Björn Alke
+    - Fredrik Norén
+    - Björn Alke
   influenced:
-  - Not specified in available sources
+    - Not specified in available sources
   mentors:
-  - Not specified in available sources
+    - Not specified in available sources
 spotify_data:
   followers: 31
   id: 7yNcVX3yeUUO4DzpexjB4f
   popularity: 0
-  url: https://open.spotify.com/artist/7yNcVX3yeUUO4DzpexjB4f
+  url: 'https://open.spotify.com/artist/7yNcVX3yeUUO4DzpexjB4f'
 discography_enriched: true
 top_tracks:
-- Voodoo Love Dance (Melvyn Price - Rhythm and Blues (50th Anniversary Remaster))
-- Happiness is... (Melvyn Price - Rhythm and Blues (50th Anniversary Remaster))
-- Last train (Melvyn Price - Rhythm and Blues (50th Anniversary Remaster))
-- Toward Brazil (Melvyn Price - Rhythm and Blues (50th Anniversary Remaster))
-- Behind Kungsträdgården (Melvyn Price - Rhythm and Blues (50th Anniversary Remaster))
-- Five o'clock traffic (Melvyn Price - Rhythm and Blues (50th Anniversary Remaster))
+  - >-
+    Voodoo Love Dance (Melvyn Price - Rhythm and Blues (50th Anniversary
+    Remaster))
+  - >-
+    Happiness is... (Melvyn Price - Rhythm and Blues (50th Anniversary
+    Remaster))
+  - Last train (Melvyn Price - Rhythm and Blues (50th Anniversary Remaster))
+  - Toward Brazil (Melvyn Price - Rhythm and Blues (50th Anniversary Remaster))
+  - >-
+    Behind Kungsträdgården (Melvyn Price - Rhythm and Blues (50th Anniversary
+    Remaster))
+  - >-
+    Five o'clock traffic (Melvyn Price - Rhythm and Blues (50th Anniversary
+    Remaster))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6365d648-9488-4f9c-9caa-82165f300ef7
-  spotify: https://open.spotify.com/artist/7yNcVX3yeUUO4DzpexjB4f
+  musicbrainz: 'https://musicbrainz.org/artist/6365d648-9488-4f9c-9caa-82165f300ef7'
+  spotify: 'https://open.spotify.com/artist/7yNcVX3yeUUO4DzpexjB4f'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/melvyn_price.jpg
 biography_enhanced_at: '2025-10-24T07:37:29.199716'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://swedishprogg.blogspot.com/2018/08/melvyn-price-rhythm-and-blues-meldor.html
-- https://www.forcedexposure.com/Artists/PRICE.MELVYN.html
-- https://www.last.fm/music/Melvyn+Price
+  - >-
+    http://swedishprogg.blogspot.com/2018/08/melvyn-price-rhythm-and-blues-meldor.html
+  - 'https://www.forcedexposure.com/Artists/PRICE.MELVYN.html'
+  - 'https://www.last.fm/music/Melvyn+Price'
 network_extracted: true
 entry_created: '2025-10-24T07:37:29.199730'
 last_updated: '2025-12-23T08:16:12.951571'
 musicbrainz_id: 6365d648-9488-4f9c-9caa-82165f300ef7
+origin: Sweden
+artist_type: person
 ---
 
 ![](melvyn_price.jpg)

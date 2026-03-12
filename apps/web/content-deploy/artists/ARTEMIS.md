@@ -2,7 +2,7 @@
 title: ARTEMIS
 wiki_slug: artemis
 schema_version: 2
-artist_type: Group
+artist_type: person
 status: active
 birth_date: '1999'
 genres: []
@@ -26,50 +26,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ingrid Jensen
-  - Nicole Glover
-  - Noriko Ueda
-  - Allison Miller
+    - Ingrid Jensen
+    - Nicole Glover
+    - Noriko Ueda
+    - Allison Miller
   influenced:
-  - Emerging women jazz musicians
+    - Emerging women jazz musicians
   mentors:
-  - Renee Rosnes
+    - Renee Rosnes
 spotify_data:
   followers: 1365054
   id: 0PCCGZ0wGLizHt2KZ7hhA2
   popularity: 73
-  url: https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2
+  url: 'https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2'
 discography_enriched: true
 top_tracks:
-- i like the way you kiss me (i like the way you kiss me)
-- if u think i'm pretty (pretty)
-- i like the way you kiss me (yustyna)
-- southbound (southbound / test drive)
-- cross my heart (pretty)
-- if u think i'm pretty (if u think i'm pretty)
-- how could u love somebody like me? (how could u love somebody like me?)
-- BRAIN (feat. Artemas) (BRAIN (feat. Artemas))
-- MUSTANG BABY (FT. ARTEMAS) (AFTERCARE)
-- test drive (southbound / test drive)
+  - i like the way you kiss me (i like the way you kiss me)
+  - if u think i'm pretty (pretty)
+  - i like the way you kiss me (yustyna)
+  - southbound (southbound / test drive)
+  - cross my heart (pretty)
+  - if u think i'm pretty (if u think i'm pretty)
+  - how could u love somebody like me? (how could u love somebody like me?)
+  - BRAIN (feat. Artemas) (BRAIN (feat. Artemas))
+  - MUSTANG BABY (FT. ARTEMAS) (AFTERCARE)
+  - test drive (southbound / test drive)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/23fb12d9-665d-4151-973f-d88e8739e228
-  spotify: https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2
+  musicbrainz: 'https://musicbrainz.org/artist/23fb12d9-665d-4151-973f-d88e8739e228'
+  spotify: 'https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/ARTEMIS.jpg
 biography_enhanced_at: '2025-10-19T10:28:30.103816'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.allaboutjazz.com/musicians/artemis/
-- https://artemisband.com/bios
-- https://www.thekurlandagency.com/artist/artemis/
+  - 'https://www.allaboutjazz.com/musicians/artemis/'
+  - 'https://artemisband.com/bios'
+  - 'https://www.thekurlandagency.com/artist/artemis/'
 network_extracted: true
 entry_created: '2025-10-19T10:28:30.103831'
 last_updated: '2025-12-23T08:16:00.930050'
 disambiguation: California based electro-pop group
 musicbrainz_enriched_at: '2025-10-21T09:10:07.472957'
 musicbrainz_id: 23fb12d9-665d-4151-973f-d88e8739e228
-origin: New York City, New York, USA (primary base/origin)
+origin: 'New York City, New York, USA (primary base/origin)'
 ---
 
 ![](ARTEMIS.jpg)

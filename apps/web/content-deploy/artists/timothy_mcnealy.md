@@ -1,44 +1,47 @@
 ---
 biography_enhanced_at: '2026-01-09T02:06:26.236046'
-birth_place: Dallas, Texas, United States
+birth_place: 'Dallas, Texas, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-09T02:06:26.236056'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/cbe93c25-7468-4bfb-859b-60c446d32ce6
-  spotify: https://open.spotify.com/artist/2A35mSHg3hoM523aIoGMw0
+  musicbrainz: 'https://musicbrainz.org/artist/cbe93c25-7468-4bfb-859b-60c446d32ce6'
+  spotify: 'https://open.spotify.com/artist/2A35mSHg3hoM523aIoGMw0'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/timothy_mcnealy.jpg
 last_updated: '2026-01-09T02:06:26.236057'
 musical_connections:
   collaborators:
-  - Bobby Patterson & The Mustangs
+    - Bobby Patterson & The Mustangs
   influenced:
-  - Deep funk DJs and collectors of the 1990s revival (various artists)
-  - Contemporary Texas funk and soul revivalists (scene level rather than specific
-    named protégés)
+    - Deep funk DJs and collectors of the 1990s revival (various artists)
+    - >-
+      Contemporary Texas funk and soul revivalists (scene level rather than
+      specific named protégés)
   mentors:
-  - Bobby Patterson
+    - Bobby Patterson
 musicbrainz_id: cbe93c25-7468-4bfb-859b-60c446d32ce6
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.rovr.live/artists/timothy%20mcnealy
-- https://www.nowagainrecords.com/announcing-timothy-mcnealy-funky-movement/
-- https://www.dustygroove.com/item/861392/Timothy-McNealy:Funky-Movement
-- https://www.viberate.com/artist/timothy-mcnealy/
-- https://www.allmusic.com/artist/timothy-mcnealy-mn0001496274
-- https://www.last.fm/music/Timothy+McNealy/+wiki
-- https://recentmusic.com/artist/2A35mSHg3hoM523aIoGMw0/
+  - 'https://www.rovr.live/artists/timothy%20mcnealy'
+  - 'https://www.nowagainrecords.com/announcing-timothy-mcnealy-funky-movement/'
+  - 'https://www.dustygroove.com/item/861392/Timothy-McNealy:Funky-Movement'
+  - 'https://www.viberate.com/artist/timothy-mcnealy/'
+  - 'https://www.allmusic.com/artist/timothy-mcnealy-mn0001496274'
+  - 'https://www.last.fm/music/Timothy+McNealy/+wiki'
+  - 'https://recentmusic.com/artist/2A35mSHg3hoM523aIoGMw0/'
 spotify_data:
   followers: 999
   id: 2A35mSHg3hoM523aIoGMw0
   popularity: 7
-  url: https://open.spotify.com/artist/2A35mSHg3hoM523aIoGMw0
+  url: 'https://open.spotify.com/artist/2A35mSHg3hoM523aIoGMw0'
 status: active
 tags:
-- funk
+  - funk
 title: Timothy McNealy
+origin: 'Dallas, Texas, United States'
+artist_type: person
 ---
 
 ![](timothy_mcnealy.jpg)

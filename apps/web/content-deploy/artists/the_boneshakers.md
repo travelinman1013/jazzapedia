@@ -3,38 +3,40 @@ biography_enhanced_at: '2026-01-07T01:18:34.476126'
 enhancement_provider: perplexity
 entry_created: '2026-01-07T01:18:34.476132'
 external_urls:
-  spotify: https://open.spotify.com/artist/5qn4hTP45LrZLObFYB4dAj
+  spotify: 'https://open.spotify.com/artist/5qn4hTP45LrZLObFYB4dAj'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/the_boneshakers.jpg
 last_updated: '2026-01-07T01:18:34.476132'
 musical_connections:
   collaborators:
-  - Sweetpea Atkinson
-  - Jenny Langer
-  - Mindi Abair
-  - Malford Milligan
-  - Bonnie Raitt
+    - Sweetpea Atkinson
+    - Jenny Langer
+    - Mindi Abair
+    - Malford Milligan
+    - Bonnie Raitt
   influenced: []
   mentors:
-  - Don Was
-  - John Wooler
+    - Don Was
+    - John Wooler
 network_extracted: true
-origin: Detroit, Michigan, USA (origin via Randy Jacobs)
+origin: 'Detroit, Michigan, USA (origin via Randy Jacobs)'
 primary_source: perplexity
 research_sources:
-- https://www.officialboneshakers.com/about
-- https://www.bluesblastmagazine.com/featured-interview-the-boneshakers/
-- https://www.tinaterryagency.com/2024/09/boneshakers/
-- https://mpitalentagency.com/the-boneshakers/
-- https://www.officialboneshakers.com
+  - 'https://www.officialboneshakers.com/about'
+  - 'https://www.bluesblastmagazine.com/featured-interview-the-boneshakers/'
+  - 'https://www.tinaterryagency.com/2024/09/boneshakers/'
+  - 'https://mpitalentagency.com/the-boneshakers/'
+  - 'https://www.officialboneshakers.com'
 spotify_data:
   followers: 207
   id: 5qn4hTP45LrZLObFYB4dAj
   popularity: 3
-  url: https://open.spotify.com/artist/5qn4hTP45LrZLObFYB4dAj
+  url: 'https://open.spotify.com/artist/5qn4hTP45LrZLObFYB4dAj'
 status: active
 title: The Boneshakers
+birth_place: 'San Francisco, California, United States'
+artist_type: person
 ---
 
 ![](the_boneshakers.jpg)

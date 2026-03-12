@@ -1,11 +1,11 @@
 ---
-title: Puppini Sisters
+title: The Puppini Sisters
 wiki_slug: puppini-sisters
 schema_version: 2
 status: active
 genres:
-- swing music
-- electro swing
+  - swing music
+  - electro swing
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/puppini_sisters.jpg
   caption: Puppini Sisters
@@ -25,48 +25,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kate Mullins
-  - Emma Smith
-  - Stephanie O'Brien
-  - Blake Wilner
-  - Peter Ibbetson
-  - Henrik Jensen
+    - Kate Mullins
+    - Emma Smith
+    - Stephanie O'Brien
+    - Blake Wilner
+    - Peter Ibbetson
+    - Henrik Jensen
   influenced: []
   mentors:
-  - The Andrews Sisters
-  - Les Triplettes de Belleville
+    - The Andrews Sisters
+    - Les Triplettes de Belleville
 spotify_data:
   followers: 67776
   id: 1svaANJTE5KrG16fTGDqOs
   popularity: 67
-  url: https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs
+  url: 'https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs'
 discography_enriched: true
 top_tracks:
-- Jingle Bells (feat. The Puppini Sisters) (Christmas (Deluxe Special Edition))
-- Frosty the Snowman (feat. The Puppini Sisters) (Christmas (Deluxe Special Edition))
-- Jingle Bells (feat. The Puppini Sisters) (Christmas (Deluxe Special Edition))
-- Jingle Bells (feat. The Puppini Sisters) (Christmas)
-- Nevertheless (I'm in Love with You) (feat. The Puppini Sisters) (To Be Loved)
-- Frosty the Snowman (feat. The Puppini Sisters) (Christmas (Deluxe Special Edition))
-- Jingle Bells (feat. The Puppini Sisters) (Christmas (Deluxe 10th Anniversary Edition))
-- Frosty the Snowman (feat. The Puppini Sisters) (Christmas (Deluxe 10th Anniversary Edition))
-- I Will Survive (Betcha Bottom Dollar (eDeluxe Version))
-- Don't Get High No More
+  - >-
+    Jingle Bells (feat. The Puppini Sisters) (Christmas (Deluxe Special
+    Edition))
+  - >-
+    Frosty the Snowman (feat. The Puppini Sisters) (Christmas (Deluxe Special
+    Edition))
+  - >-
+    Jingle Bells (feat. The Puppini Sisters) (Christmas (Deluxe Special
+    Edition))
+  - Jingle Bells (feat. The Puppini Sisters) (Christmas)
+  - >-
+    Nevertheless (I'm in Love with You) (feat. The Puppini Sisters) (To Be
+    Loved)
+  - >-
+    Frosty the Snowman (feat. The Puppini Sisters) (Christmas (Deluxe Special
+    Edition))
+  - >-
+    Jingle Bells (feat. The Puppini Sisters) (Christmas (Deluxe 10th Anniversary
+    Edition))
+  - >-
+    Frosty the Snowman (feat. The Puppini Sisters) (Christmas (Deluxe 10th
+    Anniversary Edition))
+  - I Will Survive (Betcha Bottom Dollar (eDeluxe Version))
+  - Don't Get High No More
 external_urls:
-  spotify: https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs
+  spotify: 'https://open.spotify.com/artist/1svaANJTE5KrG16fTGDqOs'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/puppini_sisters.jpg
 biography_enhanced_at: '2025-12-21T01:20:31.810659'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/The+Puppini+Sisters/+wiki
-- https://www.imdb.com/name/nm2447893/bio/
-- https://thepuppinisisters.com/about-7743-1314
+  - 'https://www.last.fm/music/The+Puppini+Sisters/+wiki'
+  - 'https://www.imdb.com/name/nm2447893/bio/'
+  - 'https://thepuppinisisters.com/about-7743-1314'
 network_extracted: true
 entry_created: '2025-12-21T01:20:31.810665'
 last_updated: '2025-12-23T08:16:14.472302'
-origin: England, United Kingdom
+origin: 'England, United Kingdom'
+artist_type: band
 ---
 
 ![](puppini_sisters.jpg)

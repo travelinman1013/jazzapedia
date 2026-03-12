@@ -1,29 +1,29 @@
 ---
-title: bobby bare
+title: Bobby Bare
 wiki_slug: bobby-bare
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1935-04-07'
-birth_place: Ironton
+birth_place: 'Ironton, Ohio, United States'
 genres:
-- traditional country
+  - traditional country
 instruments:
-- original
-- guitar
-- background vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - original
-  mbid: 6ed2f24c-f205-4add-8477-aa000934c073
-  name: Old Dogs
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f8454617-5bb7-4744-91c2-d0a1c6f9e773
-  name: The Family
+  - guitar
+  - background vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 6ed2f24c-f205-4add-8477-aa000934c073
+    name: Old Dogs
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f8454617-5bb7-4744-91c2-d0a1c6f9e773
+    name: The Family
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bobby_bare.jpg
   caption: bobby bare
@@ -45,64 +45,65 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Shel Silverstein
-  - Skeeter Davis
-  - Norma Jean and Liz Anderson
-  - Rosanne Cash
-  - Waylon Jennings
-  - Jerry Reed
-  - Mel Tillis
-  - Lacy J. Dalton
+    - Shel Silverstein
+    - Skeeter Davis
+    - Norma Jean and Liz Anderson
+    - Rosanne Cash
+    - Waylon Jennings
+    - Jerry Reed
+    - Mel Tillis
+    - Lacy J. Dalton
   influenced:
-  - Waylon Jennings
-  - Rosanne Cash
-  - Outlaw and alt‑country artists (e.g., later singer‑songwriters influenced by his song choices and independence)
+    - Waylon Jennings
+    - Rosanne Cash
+    - >-
+      Outlaw and alt‑country artists (e.g., later singer‑songwriters influenced
+      by his song choices and independence)
   mentors:
-  - Chet Atkins
-  - Gene Autry
-  - Roy Rogers
+    - Chet Atkins
+    - Gene Autry
+    - Roy Rogers
 spotify_data:
   followers: 194625
   id: 69wzuykaVXlRS5KVygESvd
   popularity: 51
-  url: https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd
+  url: 'https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd'
 discography_enriched: true
 top_tracks:
-- On The Road Again - Live
-- 500 Miles Away from Home (500 Miles Away From Home)
-- Marie Laveau (Bobby Bare Sings Lullabys, Legends And Lies (And More))
-- The Streets of Baltimore (Streets of Baltimore)
-- Detroit City (Detroit City and Other Hits by Bobby Bare)
-- Detroit City (Super Hits)
-- Abilene (500 Miles Away From Home)
-- The Winner (Bobby Bare Sings Lullabys, Legends And Lies (And More))
-- 500 Miles Away from Home (Super Hits)
-- Marie Laveau (Super Hits)
+  - On The Road Again - Live
+  - 500 Miles Away from Home (500 Miles Away From Home)
+  - 'Marie Laveau (Bobby Bare Sings Lullabys, Legends And Lies (And More))'
+  - The Streets of Baltimore (Streets of Baltimore)
+  - Detroit City (Detroit City and Other Hits by Bobby Bare)
+  - Detroit City (Super Hits)
+  - Abilene (500 Miles Away From Home)
+  - 'The Winner (Bobby Bare Sings Lullabys, Legends And Lies (And More))'
+  - 500 Miles Away from Home (Super Hits)
+  - Marie Laveau (Super Hits)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b7798819-d9b2-442b-bd22-e55b40a1a69f
-  spotify: https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd
-  wikipedia: https://en.wikipedia.org/wiki/Bobby_Bare
+  musicbrainz: 'https://musicbrainz.org/artist/b7798819-d9b2-442b-bd22-e55b40a1a69f'
+  spotify: 'https://open.spotify.com/artist/69wzuykaVXlRS5KVygESvd'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bobby_Bare'
 image_path: 03_Resources/source_material/ArtistPortraits/bobby_bare.jpg
 biography_enhanced_at: '2025-12-06T06:05:00.204723'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Bobby_Bare
-- https://www.bobbybare.com/biography
-- https://www.countrymusichalloffame.org/artist/bobby-bare
-- https://www.legendsofcountrymusic.com/artists-biographies/bobby-bare
-- https://alancackett.com/bobby-bare
-- https://www.last.fm/music/Bobby+Bare/+wiki
-- https://www.allmusic.com/artist/bobby-bare-mn0000066429
+  - 'https://en.wikipedia.org/wiki/Bobby_Bare'
+  - 'https://www.bobbybare.com/biography'
+  - 'https://www.countrymusichalloffame.org/artist/bobby-bare'
+  - 'https://www.legendsofcountrymusic.com/artists-biographies/bobby-bare'
+  - 'https://alancackett.com/bobby-bare'
+  - 'https://www.last.fm/music/Bobby+Bare/+wiki'
+  - 'https://www.allmusic.com/artist/bobby-bare-mn0000066429'
 network_extracted: true
 entry_created: '2025-12-06T06:05:00.204728'
 last_updated: '2025-12-23T08:16:05.845665'
 gender: Male
 musicbrainz_id: b7798819-d9b2-442b-bd22-e55b40a1a69f
 tags:
-- country
-- singer-songwriter
-
+  - country
+  - singer-songwriter
 ---
 
 ![](bobby_bare.jpg)

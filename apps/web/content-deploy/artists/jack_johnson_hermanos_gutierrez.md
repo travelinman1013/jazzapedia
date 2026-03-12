@@ -3,37 +3,42 @@ biography_enhanced_at: '2025-12-29T01:26:12.340775'
 enhancement_provider: perplexity
 entry_created: '2025-12-29T01:26:12.340791'
 external_urls:
-  spotify: https://open.spotify.com/artist/5EHwZrJmD0Rd3PtO3IDC7N
-  wikipedia: https://en.wikipedia.org/wiki/Hermanos_Guti%C3%A9rrez
+  spotify: 'https://open.spotify.com/artist/5EHwZrJmD0Rd3PtO3IDC7N'
+  wikipedia: 'https://en.wikipedia.org/wiki/Hermanos_Guti%C3%A9rrez'
 genres:
-- música mexicana
-- bolero
-image_path: 03_Resources/source_material/ArtistPortraits/jack_johnson_hermanos_gutierrez.jpg
+  - música mexicana
+  - bolero
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/jack_johnson_hermanos_gutierrez.jpg
 last_updated: '2025-12-29T01:26:12.340792'
 musical_connections:
   collaborators:
-  - Jack Johnson
-  - G. Love (Garrett Dutton)
-  - Mario Caldato Jr.
+    - Jack Johnson
+    - G. Love (Garrett Dutton)
+    - Mario Caldato Jr.
   influenced: []
   mentors:
-  - Jack Johnson
+    - Jack Johnson
 network_extracted: true
-origin: Zürich, Switzerland (raised); Playas, Ecuador (family visits)
+origin: 'Zürich, Switzerland (raised); Playas, Ecuador (family visits)'
 primary_source: perplexity
 research_sources:
-- https://www.thesocalsound.org/on-the-socal-sound/blog/jack-johnson-hermanos-gutierrez-g-love
-- https://en.wikipedia.org/wiki/Hermanos_Guti%C3%A9rrez
-- https://www.hotpress.com/music/jack-johnson-releases-new-single-and-announces-documentary-23116951
-- https://www.youtube.com/watch?v=afqpm_UKtJ0
-- https://www.surfer.com/culture/jack-johnson-hermanos-gutierrez-jimmy-kimmel-live-video
+  - >-
+    https://www.thesocalsound.org/on-the-socal-sound/blog/jack-johnson-hermanos-gutierrez-g-love
+  - 'https://en.wikipedia.org/wiki/Hermanos_Guti%C3%A9rrez'
+  - >-
+    https://www.hotpress.com/music/jack-johnson-releases-new-single-and-announces-documentary-23116951
+  - 'https://www.youtube.com/watch?v=afqpm_UKtJ0'
+  - >-
+    https://www.surfer.com/culture/jack-johnson-hermanos-gutierrez-jimmy-kimmel-live-video
 spotify_data:
   followers: 892
   id: 5EHwZrJmD0Rd3PtO3IDC7N
   popularity: 6
-  url: https://open.spotify.com/artist/5EHwZrJmD0Rd3PtO3IDC7N
+  url: 'https://open.spotify.com/artist/5EHwZrJmD0Rd3PtO3IDC7N'
 status: active
-title: Jack Johnson, Hermanos Gutierrez
+title: 'Jack Johnson, Hermanos Gutierrez'
+artist_type: band
 ---
 
 ![](jack_johnson_hermanos_gutierrez.jpg)

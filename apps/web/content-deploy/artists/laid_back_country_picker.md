@@ -1,11 +1,11 @@
 ---
-title: laid back country picker
+title: Laid Back Country Picker
 wiki_slug: laid-back-country-picker
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 genres:
-- alt country
+  - alt country
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/laid_back_country_picker.jpg
   caption: laid back country picker
@@ -25,57 +25,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Cold Ethyl
-  - Night Train
-  - Grammy-winning artists
+    - Cold Ethyl
+    - Night Train
+    - Grammy-winning artists
   influenced:
-  - Tyler Childers
-  - Lawrence County High School Students
+    - Tyler Childers
+    - Lawrence County High School Students
   mentors:
-  - His Father
-  - Don Hillman
-  - Waylon Jennings
-  - Led Zeppelin
+    - His Father
+    - Don Hillman
+    - Waylon Jennings
+    - Led Zeppelin
 spotify_data:
   followers: 4077
   id: 70CTDh7vOrJ8OaVLieBiB0
   popularity: 15
-  url: https://open.spotify.com/artist/70CTDh7vOrJ8OaVLieBiB0
+  url: 'https://open.spotify.com/artist/70CTDh7vOrJ8OaVLieBiB0'
 discography_enriched: true
 top_tracks:
-- Magoffin County Cadillac (Laid Back Country Picker)
-- Lb's Truth/Civillian Vic (Go West)
-- Go West (Go West)
-- Kingsport (Kingsport)
-- Amen John Glenn (Go West)
-- Cooper (Go West)
-- Magic City (Go West)
-- Bela Lugosi's Dead (Bela Lugosi's Dead)
-- Party Line (Laid Back Country Picker)
-- Honey Bun (Go West)
+  - Magoffin County Cadillac (Laid Back Country Picker)
+  - Lb's Truth/Civillian Vic (Go West)
+  - Go West (Go West)
+  - Kingsport (Kingsport)
+  - Amen John Glenn (Go West)
+  - Cooper (Go West)
+  - Magic City (Go West)
+  - Bela Lugosi's Dead (Bela Lugosi's Dead)
+  - Party Line (Laid Back Country Picker)
+  - Honey Bun (Go West)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e56d6797-0711-480f-836c-b31764840b56
-  spotify: https://open.spotify.com/artist/70CTDh7vOrJ8OaVLieBiB0
+  musicbrainz: 'https://musicbrainz.org/artist/e56d6797-0711-480f-836c-b31764840b56'
+  spotify: 'https://open.spotify.com/artist/70CTDh7vOrJ8OaVLieBiB0'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/laid_back_country_picker.jpg
 biography_enhanced_at: '2025-11-29T07:03:37.855936'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- kyforky.com - Laid Back Country Picker biography
-- bittersoutherner.com - Laid Back Country Teacher article
-- odyssey-touring.com - Laid Back Country Picker artist profile
-- celebritytalent.net - Laid Back Country Picker booking profile
-- sixthman.net - Laid Back Country Picker profile
-- mokbpresents.com - Laid Back Country Picker artist page
-- laidbackcountrypicker.org - Official website
-- wncw.org - Event listing
+  - kyforky.com - Laid Back Country Picker biography
+  - bittersoutherner.com - Laid Back Country Teacher article
+  - odyssey-touring.com - Laid Back Country Picker artist profile
+  - celebritytalent.net - Laid Back Country Picker booking profile
+  - sixthman.net - Laid Back Country Picker profile
+  - mokbpresents.com - Laid Back Country Picker artist page
+  - laidbackcountrypicker.org - Official website
+  - wncw.org - Event listing
 network_extracted: true
 entry_created: '2025-11-29T07:03:37.855950'
 last_updated: '2025-12-23T08:16:11.567356'
 musicbrainz_id: e56d6797-0711-480f-836c-b31764840b56
-origin: Louisa, Kentucky, United States
-
+origin: 'Louisa, Kentucky, United States'
 ---
 
 ![](laid_back_country_picker.jpg)

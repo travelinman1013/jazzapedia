@@ -5,25 +5,25 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1936-06-06'
-birth_place: Baton Rouge
+birth_place: 'Baton Rouge, Louisiana, United States'
 death_date: '2004-09-01'
 genres:
-- blues
-- classic blues
+  - blues
+  - classic blues
 instruments:
-- harmonica
-associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5962de66-8f7f-4c26-bbd9-ec7fdaf1cb0a
-  name: Hoodoo Kings
-- begin: ''
-  end: ''
-  instruments:
   - harmonica
-  mbid: ea43f313-6fb4-454d-a3e9-ba1cd4175761
-  name: The Hoodoo Kings
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5962de66-8f7f-4c26-bbd9-ec7fdaf1cb0a
+    name: Hoodoo Kings
+  - begin: ''
+    end: ''
+    instruments:
+      - harmonica
+    mbid: ea43f313-6fb4-454d-a3e9-ba1cd4175761
+    name: The Hoodoo Kings
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/raful_neal.jpg
   caption: RAful NEal
@@ -46,51 +46,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Clouds
-  - Kenny Neal
+    - The Clouds
+    - Kenny Neal
   influenced:
-  - Kenny Neal
-  - Neal Family Band
+    - Kenny Neal
+    - Neal Family Band
   mentors:
-  - Little Walter
+    - Little Walter
 spotify_data:
   followers: 1869
   id: 5zdiBKXtaX96hNNCEnP5f0
   popularity: 22
-  url: https://open.spotify.com/artist/5zdiBKXtaX96hNNCEnP5f0
+  url: 'https://open.spotify.com/artist/5zdiBKXtaX96hNNCEnP5f0'
 discography_enriched: true
 top_tracks:
-- Luberta (Louisiana Legend)
-- Blues On The Moon (Louisiana Legend)
-- Been So Long (Louisiana Legend)
-- Down And Out (Louisiana Legend)
-- Let's Work Together (Louisiana Legend)
-- You Been Sweet To Me (Old Friends)
-- Down and Out (Down and Out Blues)
-- Honest I Do (Louisiana Legend)
-- Call Me Baby (Old Friends)
-- Luberta (Homesick For The Road)
+  - Luberta (Louisiana Legend)
+  - Blues On The Moon (Louisiana Legend)
+  - Been So Long (Louisiana Legend)
+  - Down And Out (Louisiana Legend)
+  - Let's Work Together (Louisiana Legend)
+  - You Been Sweet To Me (Old Friends)
+  - Down and Out (Down and Out Blues)
+  - Honest I Do (Louisiana Legend)
+  - Call Me Baby (Old Friends)
+  - Luberta (Homesick For The Road)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/51b3b2e9-20c9-4bd5-8c78-c8764ab81aba
-  spotify: https://open.spotify.com/artist/5zdiBKXtaX96hNNCEnP5f0
-  wikipedia: https://en.wikipedia.org/wiki/Raful_Neal
+  musicbrainz: 'https://musicbrainz.org/artist/51b3b2e9-20c9-4bd5-8c78-c8764ab81aba'
+  spotify: 'https://open.spotify.com/artist/5zdiBKXtaX96hNNCEnP5f0'
+  wikipedia: 'https://en.wikipedia.org/wiki/Raful_Neal'
 image_path: 03_Resources/source_material/ArtistPortraits/raful_neal.jpg
 biography_enhanced_at: '2025-11-15T18:40:44.900355'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.alligator.com/artists/Raful-Neal/
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/neal-raful-1936
-- https://earlyblues.org/in-memoriam-raful-neal/
-- https://www.jango.com/music/Raful+Neal/_full_bio
-- https://en.wikipedia.org/wiki/Raful_Neal
-- https://www.offbeat.com/articles/obituary-joe-barry-and-raful-neal/
-- https://www.last.fm/music/Raful+Neal/+wiki
+  - 'https://www.alligator.com/artists/Raful-Neal/'
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/neal-raful-1936
+  - 'https://earlyblues.org/in-memoriam-raful-neal/'
+  - 'https://www.jango.com/music/Raful+Neal/_full_bio'
+  - 'https://en.wikipedia.org/wiki/Raful_Neal'
+  - 'https://www.offbeat.com/articles/obituary-joe-barry-and-raful-neal/'
+  - 'https://www.last.fm/music/Raful+Neal/+wiki'
 network_extracted: true
 entry_created: '2025-11-15T18:40:44.900366'
 last_updated: '2025-12-23T08:16:14.582473'
 gender: Male
 musicbrainz_id: 51b3b2e9-20c9-4bd5-8c78-c8764ab81aba
+is_active: false
+origin: 'Baton Rouge, Louisiana, United States'
 ---
 
 ![](raful_neal.jpg)

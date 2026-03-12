@@ -3,15 +3,15 @@ title: BAd Smitty
 wiki_slug: bad-smitty
 schema_version: 2
 status: active
-birth_place: Vicksburg, Mississippi, United States
+birth_place: 'Vicksburg, Mississippi, United States'
 genres:
-- drift phonk
-- phonk
+  - drift phonk
+  - phonk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bad_smitty.jpg
   caption: BAd Smitty
   background: solo_singer
-  origin: Vicksburg, Mississippi, United States
+  origin: 'Vicksburg, Mississippi, United States'
 audio_profile:
   tempo_avg: 144.5
   energy_avg: 0.784
@@ -29,43 +29,46 @@ musical_connections:
   collaborators: []
   influenced: []
   mentors:
-  - Howlin' Wolf
-  - Muddy Waters
-  - Lightnin' Hopkins
+    - Howlin' Wolf
+    - Muddy Waters
+    - Lightnin' Hopkins
 spotify_data:
   followers: 7269
   id: 5ENi6vIaG2GiuMP9ykUcMw
   popularity: 26
-  url: https://open.spotify.com/artist/5ENi6vIaG2GiuMP9ykUcMw
+  url: 'https://open.spotify.com/artist/5ENi6vIaG2GiuMP9ykUcMw'
 discography_enriched: true
 top_tracks:
-- STATIC SHOCC
-- miss u
-- ARTEMIDA
-- WHAT THE FUCK U GONNA DO?
-- FUCK YOUR MIND (HOMICIDE)
-- FAR AWAY
-- NEW ERA (BROKEN SOULS)
-- EIRENA
-- NO MERCY (BROKEN SOULS)
-- DEADLY CROWN
+  - STATIC SHOCC
+  - miss u
+  - ARTEMIDA
+  - WHAT THE FUCK U GONNA DO?
+  - FUCK YOUR MIND (HOMICIDE)
+  - FAR AWAY
+  - NEW ERA (BROKEN SOULS)
+  - EIRENA
+  - NO MERCY (BROKEN SOULS)
+  - DEADLY CROWN
 external_urls:
-  spotify: https://open.spotify.com/artist/5ENi6vIaG2GiuMP9ykUcMw
+  spotify: 'https://open.spotify.com/artist/5ENi6vIaG2GiuMP9ykUcMw'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/bad_smitty.jpg
 biography_enhanced_at: '2025-11-14T11:06:16.398936'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- AllMusic[5]
-- Last.fm[6]
-- Sentir El Blues[1]
-- Hazeltones[2]
-- Muziekweb[4]
-- STLBlues[7]
+  - 'AllMusic[5]'
+  - 'Last.fm[6]'
+  - 'Sentir El Blues[1]'
+  - 'Hazeltones[2]'
+  - 'Muziekweb[4]'
+  - 'STLBlues[7]'
 network_extracted: true
 entry_created: '2025-11-14T11:06:16.398945'
 last_updated: '2025-12-23T08:16:05.041113'
+birth_date: '1940-02-11'
+death_date: '2002-04-03'
+artist_type: person
 ---
 
 ![](bad_smitty.jpg)

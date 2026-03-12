@@ -3,48 +3,53 @@ biography_enhanced_at: '2026-01-22T07:10:30.198683'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:10:30.198690'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/64cb840e-bab5-4032-acce-bd1084502e87
-  spotify: https://open.spotify.com/artist/3V64puQaBguN7HX6V577xy
+  musicbrainz: 'https://musicbrainz.org/artist/64cb840e-bab5-4032-acce-bd1084502e87'
+  spotify: 'https://open.spotify.com/artist/3V64puQaBguN7HX6V577xy'
   wikipedia: ''
 genres:
-- jazz house
+  - jazz house
 image_path: 03_Resources/source_material/ArtistPortraits/halfway_house_orchestra.jpg
 last_updated: '2026-01-22T07:10:30.198691'
 musical_connections:
   collaborators:
-  - Albert 'Abbie' Brunies
-  - Charlie Cordella
-  - Leon Roppolo
-  - Sidney Arodin
-  - Mickie Marcour
-  - Bill Eastwood
-  - Bill Whitmore
-  - Joe Loyacano
-  - Leo Adde
-  - Angelo Palmisano
+    - Albert 'Abbie' Brunies
+    - Charlie Cordella
+    - Leon Roppolo
+    - Sidney Arodin
+    - Mickie Marcour
+    - Bill Eastwood
+    - Bill Whitmore
+    - Joe Loyacano
+    - Leo Adde
+    - Angelo Palmisano
   influenced: []
   mentors: []
 musicbrainz_id: 64cb840e-bab5-4032-acce-bd1084502e87
 network_extracted: true
-origin: New Orleans, Louisiana, USA
+origin: 'New Orleans, Louisiana, USA'
 primary_source: perplexity
 research_sources:
-- https://syncopatedtimes.com/the-halfway-house-orchestra/
-- https://electricalmoonlightrecords.wordpress.com/2013/11/22/the-halfway-house-orchestra/comment-page-1/
-- http://thejazzclarinet.blogspot.com/2017/01/the-halfway-house-orchestra-1925-1928.html
-- https://www.earlyjas.org/InTune/2017/HalfwayHouseOrchestra.html
-- http://www.websitesneworleans.com/lakepontchartrainimagesofamerica/id114.html
-- http://www.old-new-orleans.com/NO_Halfway_House.html
-- https://syncopatedtimes.com/halfway-house-orchestra/
-- https://adp.library.ucsb.edu/index.php/mastertalent/detail/110653/Halfway_House_Orchestra
-- https://www.youtube.com/watch?v=t9NJ4ucX7sM
+  - 'https://syncopatedtimes.com/the-halfway-house-orchestra/'
+  - >-
+    https://electricalmoonlightrecords.wordpress.com/2013/11/22/the-halfway-house-orchestra/comment-page-1/
+  - >-
+    http://thejazzclarinet.blogspot.com/2017/01/the-halfway-house-orchestra-1925-1928.html
+  - 'https://www.earlyjas.org/InTune/2017/HalfwayHouseOrchestra.html'
+  - >-
+    http://www.websitesneworleans.com/lakepontchartrainimagesofamerica/id114.html
+  - 'http://www.old-new-orleans.com/NO_Halfway_House.html'
+  - 'https://syncopatedtimes.com/halfway-house-orchestra/'
+  - >-
+    https://adp.library.ucsb.edu/index.php/mastertalent/detail/110653/Halfway_House_Orchestra
+  - 'https://www.youtube.com/watch?v=t9NJ4ucX7sM'
 spotify_data:
   followers: 33
   id: 3V64puQaBguN7HX6V577xy
   popularity: 0
-  url: https://open.spotify.com/artist/3V64puQaBguN7HX6V577xy
+  url: 'https://open.spotify.com/artist/3V64puQaBguN7HX6V577xy'
 status: active
-title: HALFWAY HOUSE ORCHESTRA
+title: Halfway House Orchestra
+artist_type: band
 ---
 
 ![](halfway_house_orchestra.jpg)

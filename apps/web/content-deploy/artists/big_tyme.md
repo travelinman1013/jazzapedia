@@ -3,39 +3,40 @@ biography_enhanced_at: '2025-12-26T01:21:07.748084'
 enhancement_provider: perplexity
 entry_created: '2025-12-26T01:21:07.748100'
 external_urls:
-  spotify: https://open.spotify.com/artist/4jWGfUCFeTu5e0wprRhHXR
-  wikipedia: https://en.wikipedia.org/wiki/Big_Tymers
+  spotify: 'https://open.spotify.com/artist/4jWGfUCFeTu5e0wprRhHXR'
+  wikipedia: 'https://en.wikipedia.org/wiki/Big_Tymers'
 genres:
-- southern hip hop
-- crunk
+  - southern hip hop
+  - crunk
 image_path: 03_Resources/source_material/ArtistPortraits/big_tyme.jpg
 last_updated: '2025-12-26T01:21:07.748102'
 musical_connections:
   collaborators:
-  - Birdman (Baby Williams)
-  - Juvenile
-  - B.G.
-  - Lil Wayne
-  - Turk
+    - Birdman (Baby Williams)
+    - Juvenile
+    - B.G.
+    - Lil Wayne
+    - Turk
   influenced: []
   mentors:
-  - Mannie Fresh's father
+    - Mannie Fresh's father
 network_extracted: true
-origin: New Orleans, Louisiana, USA
+origin: 'New Orleans, Louisiana, USA'
 primary_source: perplexity
 research_sources:
-- https://www.theaudiodb.com/artist/117730-Big-Tymers
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/big-tymers
-- https://en.wikipedia.org/wiki/Big_Tymers
-- http://satchmo.com/cashmoney/bigtymers.html
+  - 'https://www.theaudiodb.com/artist/117730-Big-Tymers'
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/big-tymers
+  - 'https://en.wikipedia.org/wiki/Big_Tymers'
+  - 'http://satchmo.com/cashmoney/bigtymers.html'
 spotify_data:
   followers: 691573
   id: 4jWGfUCFeTu5e0wprRhHXR
   popularity: 54
-  url: https://open.spotify.com/artist/4jWGfUCFeTu5e0wprRhHXR
+  url: 'https://open.spotify.com/artist/4jWGfUCFeTu5e0wprRhHXR'
 status: active
-title: BIG TYME
-
+title: Big Tyme
+artist_type: band
 ---
 
 ![](big_tyme.jpg)

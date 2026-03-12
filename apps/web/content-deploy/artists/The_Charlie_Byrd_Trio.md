@@ -2,16 +2,16 @@
 title: The Charlie Byrd Trio
 wiki_slug: the-charlie-byrd-trio
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 genres:
-- bossa nova
-- brazilian jazz
-- latin jazz
-- jazz
-- cool jazz
+  - bossa nova
+  - brazilian jazz
+  - latin jazz
+  - jazz
+  - cool jazz
 instruments:
-- eponymous
+  - eponymous
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/The_Charlie_Byrd_Trio.jpg
   caption: The Charlie Byrd Trio
@@ -31,59 +31,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Keter Betts
-  - Buddy Deppenschmidt
-  - Joe Byrd
-  - Stan Getz
-  - Barney Kessel and Herb Ellis
+    - Keter Betts
+    - Buddy Deppenschmidt
+    - Joe Byrd
+    - Stan Getz
+    - Barney Kessel and Herb Ellis
   influenced:
-  - Earl Klugh
-  - Gene 'Joe' Byrd
-  - Bossa nova and jazz guitarists in the US
+    - Earl Klugh
+    - Gene 'Joe' Byrd
+    - Bossa nova and jazz guitarists in the US
   mentors:
-  - Sophocles Papas
-  - Andrés Segovia
-  - Django Reinhardt
+    - Sophocles Papas
+    - Andrés Segovia
+    - Django Reinhardt
 spotify_data:
   followers: 32687
   id: 0i5yrKtlP4URcRBXQQwnik
   popularity: 44
-  url: https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik
+  url: 'https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik'
 discography_enriched: true
 top_tracks:
-- Desafinado (Jazz Samba)
-- O Pato (Jazz Samba)
-- Samba De Uma Nota So (Jazz Samba)
-- Samba Triste (Jazz Samba)
-- E Luxo So (Jazz Samba)
-- Samba Dees Days (Jazz Samba)
-- Bahia (Jazz Samba)
-- The Girl from Ipanema (Brazilian Byrd)
-- Meditacao (Bossa Nova Pelos Passaros)
-- O Pato (A Nightingale Sang in Berkeley Square)
+  - Desafinado (Jazz Samba)
+  - O Pato (Jazz Samba)
+  - Samba De Uma Nota So (Jazz Samba)
+  - Samba Triste (Jazz Samba)
+  - E Luxo So (Jazz Samba)
+  - Samba Dees Days (Jazz Samba)
+  - Bahia (Jazz Samba)
+  - The Girl from Ipanema (Brazilian Byrd)
+  - Meditacao (Bossa Nova Pelos Passaros)
+  - O Pato (A Nightingale Sang in Berkeley Square)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5d84e905-4bbb-4dc1-8380-a796d2d62907
-  spotify: https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik
-  wikipedia: https://en.wikipedia.org/wiki/Charlie_Byrd
+  musicbrainz: 'https://musicbrainz.org/artist/5d84e905-4bbb-4dc1-8380-a796d2d62907'
+  spotify: 'https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik'
+  wikipedia: 'https://en.wikipedia.org/wiki/Charlie_Byrd'
 image_path: 03_Resources/source_material/ArtistPortraits/The_Charlie_Byrd_Trio.jpg
 biography_enhanced_at: '2025-10-20T10:07:02.163067'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Charlie_Byrd
-- https://www.allaboutjazz.com/musicians/charlie-byrd/
-- https://www.visitsuffolkva.com/about-suffolk/hometown-legends/charlie-byrd/
-- https://www.veojam.com/players/charlie-byrd
-- https://www.theaudiodb.com/artist/139748-The-Charlie-Byrd-Trio
-- https://www.jazzmessengers.com/en/76804/charlie-byrd/theguitarartistryofcharliebyrd
+  - 'https://en.wikipedia.org/wiki/Charlie_Byrd'
+  - 'https://www.allaboutjazz.com/musicians/charlie-byrd/'
+  - 'https://www.visitsuffolkva.com/about-suffolk/hometown-legends/charlie-byrd/'
+  - 'https://www.veojam.com/players/charlie-byrd'
+  - 'https://www.theaudiodb.com/artist/139748-The-Charlie-Byrd-Trio'
+  - >-
+    https://www.jazzmessengers.com/en/76804/charlie-byrd/theguitarartistryofcharliebyrd
 network_extracted: true
 entry_created: '2025-10-20T10:07:02.163097'
 last_updated: '2025-12-23T08:16:04.050090'
 musicbrainz_enriched_at: '2025-10-21T09:45:35.062636'
 musicbrainz_id: 5d84e905-4bbb-4dc1-8380-a796d2d62907
-origin: Suffolk, Virginia, United States
+origin: 'Suffolk, Virginia, United States'
 tags:
-- jazz
+  - jazz
+birth_place: 'Suffolk, Virginia, United States'
+birth_date: '1925'
 ---
 
 ![](The_Charlie_Byrd_Trio.jpg)

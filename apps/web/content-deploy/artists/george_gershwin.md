@@ -5,20 +5,20 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1898-09-26'
-birth_place: Brooklyn
+birth_place: 'Brooklyn, New York, United States'
 death_date: '1937-07-11'
 genres:
-- ragtime
+  - ragtime
 instruments:
-- piano
-- spoken vocals
-associated_acts:
-- begin: '1920'
-  end: '1920'
-  instruments:
   - piano
-  mbid: b8344960-b473-4f89-acc7-a6a9339f29bf
-  name: Gershwin Trio
+  - spoken vocals
+associated_acts:
+  - begin: '1920'
+    end: '1920'
+    instruments:
+      - piano
+    mbid: b8344960-b473-4f89-acc7-a6a9339f29bf
+    name: Gershwin Trio
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/george_gershwin.jpg
   caption: George Gershwin
@@ -41,49 +41,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ira Gershwin
-  - DuBose Heyward
-  - Paul Whiteman
+    - Ira Gershwin
+    - DuBose Heyward
+    - Paul Whiteman
   influenced:
-  - Leonard Bernstein
-  - Aaron Copland
-  - Duke Ellington
+    - Leonard Bernstein
+    - Aaron Copland
+    - Duke Ellington
   mentors:
-  - Charles Hambitzer
-  - Henry Cowell
-  - Wallingford Riegger
-  - Edward Kilenyi Sr.
-  - Joseph Schillinger
+    - Charles Hambitzer
+    - Henry Cowell
+    - Wallingford Riegger
+    - Edward Kilenyi Sr.
+    - Joseph Schillinger
 spotify_data:
   followers: 341270
   id: 1YuknfkSYTTbolRpwZBOv4
   popularity: 48
-  url: https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4
+  url: 'https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4'
 discography_enriched: true
 top_tracks:
-- 'Rhapsody in Blue (Gershwin: Rhapsody in Blue & An American in Paris)'
-- 'Song Book: The Man I Love. Slow and in singing style (Gershwin: Piano Works)'
-- Rhapsody in Blue
-- Rhapsody In Blue
-- So Am I
-- Rhapsody in Blue
-- ガーシュイン：ラプソディ・イン・ブルー　ドラマエンディングロングヴァージョン
-- Rhapsody in Blue
-- 'Porgy and Bess: Summertime - Arr. for Piano Solo'
-- ラプソディー･イン･ブルー
+  - 'Rhapsody in Blue (Gershwin: Rhapsody in Blue & An American in Paris)'
+  - 'Song Book: The Man I Love. Slow and in singing style (Gershwin: Piano Works)'
+  - Rhapsody in Blue
+  - Rhapsody In Blue
+  - So Am I
+  - Rhapsody in Blue
+  - ガーシュイン：ラプソディ・イン・ブルー　ドラマエンディングロングヴァージョン
+  - Rhapsody in Blue
+  - 'Porgy and Bess: Summertime - Arr. for Piano Solo'
+  - ラプソディー･イン･ブルー
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/65744963-191a-44ef-a3c7-b693a808a158
-  spotify: https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4
-  wikipedia: https://en.wikipedia.org/wiki/George_Gershwin
+  musicbrainz: 'https://musicbrainz.org/artist/65744963-191a-44ef-a3c7-b693a808a158'
+  spotify: 'https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4'
+  wikipedia: 'https://en.wikipedia.org/wiki/George_Gershwin'
 image_path: 03_Resources/source_material/ArtistPortraits/george_gershwin.jpg
 biography_enhanced_at: '2025-11-16T20:10:32.440169'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.britannica.com/biography/George-Gershwin
-- https://en.wikipedia.org/wiki/George_Gershwin
-- https://pmc.ncbi.nlm.nih.gov/articles/PMC8597373/
-- https://www.biography.com/musicians/george-gershwin
+  - 'https://www.britannica.com/biography/George-Gershwin'
+  - 'https://en.wikipedia.org/wiki/George_Gershwin'
+  - 'https://pmc.ncbi.nlm.nih.gov/articles/PMC8597373/'
+  - 'https://www.biography.com/musicians/george-gershwin'
 network_extracted: true
 entry_created: '2025-11-16T20:10:32.440181'
 last_updated: '2025-12-23T08:16:09.087134'
@@ -91,9 +91,10 @@ disambiguation: composer
 gender: Male
 musicbrainz_id: 65744963-191a-44ef-a3c7-b693a808a158
 tags:
-- american
-- american composer
-- classical
+  - american
+  - american composer
+  - classical
+is_active: false
 ---
 
 ![](george_gershwin.jpg)

@@ -1,19 +1,19 @@
 ---
-title: tab benoit
+title: Tab Benoit
 wiki_slug: tab-benoit
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1967-11-17'
-birth_place: Houma
+birth_place: 'Baton Rouge, Louisiana, United States'
 genres:
-- blues
-- modern blues
-- blues rock
-- country blues
+  - blues
+  - modern blues
+  - blues rock
+  - country blues
 instruments:
-- guitar
-- acoustic guitar
+  - guitar
+  - acoustic guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/tab_benoit.jpg
   caption: tab benoit
@@ -27,7 +27,7 @@ audio_profile:
   danceability_avg: 0.612
   acousticness_avg: 0.329
   instrumentalness_avg: 0.11
-  loudness_avg: -10.0
+  loudness_avg: -10
   speechiness_avg: 0.051
   liveness_avg: 0.206
   track_count: 69
@@ -35,57 +35,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Band members (various)
-  - Voice of the Wetlands Allstars
+    - Band members (various)
+    - Voice of the Wetlands Allstars
   influenced:
-  - Louisiana blues and roots musicians
+    - Louisiana blues and roots musicians
   mentors:
-  - Tabby Thomas
-  - Raful Neal
-  - Henry Gray
-  - B.B. King, John Lee Hooker, Albert King, Albert Collins, Jimi Hendrix
+    - Tabby Thomas
+    - Raful Neal
+    - Henry Gray
+    - 'B.B. King, John Lee Hooker, Albert King, Albert Collins, Jimi Hendrix'
 spotify_data:
   followers: 101256
   id: 3ODYbknLzVe3cWQzVfbzGB
   popularity: 42
-  url: https://open.spotify.com/artist/3ODYbknLzVe3cWQzVfbzGB
+  url: 'https://open.spotify.com/artist/3ODYbknLzVe3cWQzVfbzGB'
 discography_enriched: true
 top_tracks:
-- For What It's Worth (Power Of The Pontchartrain)
-- Sunrise (Medicine)
-- Nothing Takes The Place Of You (Medicine)
-- Medicine (Medicine)
-- Shelter Me (Power Of The Pontchartrain)
-- Darkness (The Sea Saint Sessions)
-- A Whole Lotta Soul (Medicine)
-- Blues So Bad (Fever For The Bayou)
-- Night Train (Fever For The Bayou)
-- Next To Me (Medicine)
+  - For What It's Worth (Power Of The Pontchartrain)
+  - Sunrise (Medicine)
+  - Nothing Takes The Place Of You (Medicine)
+  - Medicine (Medicine)
+  - Shelter Me (Power Of The Pontchartrain)
+  - Darkness (The Sea Saint Sessions)
+  - A Whole Lotta Soul (Medicine)
+  - Blues So Bad (Fever For The Bayou)
+  - Night Train (Fever For The Bayou)
+  - Next To Me (Medicine)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/19684481-05d4-4f73-ade6-a386853c0b20
-  spotify: https://open.spotify.com/artist/3ODYbknLzVe3cWQzVfbzGB
-  wikipedia: https://en.wikipedia.org/wiki/Tab_Benoit
+  musicbrainz: 'https://musicbrainz.org/artist/19684481-05d4-4f73-ade6-a386853c0b20'
+  spotify: 'https://open.spotify.com/artist/3ODYbknLzVe3cWQzVfbzGB'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tab_Benoit'
 image_path: 03_Resources/source_material/ArtistPortraits/tab_benoit.jpg
 biography_enhanced_at: '2025-10-23T07:28:50.453441'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Tab_Benoit
-- https://musicrising.tulane.edu/discover/people/tab-benoit/
-- https://mainstreetcrossing.com/blues-bayous-and-benoit-the-melodic-journey-of-tab-benoit/
-- https://concord.com/artist/tab-benoit/
-- https://www.last.fm/music/Tab+Benoit/+wiki
-- https://www.lyrictheatre.com/past-show/11369-tab-benoit
+  - 'https://en.wikipedia.org/wiki/Tab_Benoit'
+  - 'https://musicrising.tulane.edu/discover/people/tab-benoit/'
+  - >-
+    https://mainstreetcrossing.com/blues-bayous-and-benoit-the-melodic-journey-of-tab-benoit/
+  - 'https://concord.com/artist/tab-benoit/'
+  - 'https://www.last.fm/music/Tab+Benoit/+wiki'
+  - 'https://www.lyrictheatre.com/past-show/11369-tab-benoit'
 network_extracted: true
 entry_created: '2025-10-23T07:28:50.453456'
 last_updated: '2025-12-23T08:16:16.349194'
 gender: Male
 musicbrainz_id: 19684481-05d4-4f73-ade6-a386853c0b20
 tags:
-- blues
-- chicago blues
-- soul blues
-
+  - blues
+  - chicago blues
+  - soul blues
+origin: 'Houma, Louisiana, United States'
 ---
 
 ![](tab_benoit.jpg)

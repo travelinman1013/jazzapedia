@@ -2,17 +2,17 @@
 title: Dynasty
 wiki_slug: dynasty
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 aliases: []
 birth_date: '1979'
 genres:
-- post-disco
+  - post-disco
 instruments:
-- lead vocals
-- keyboard
-- bass guitar
-- original
+  - lead vocals
+  - keyboard
+  - bass guitar
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Dynasty.jpg
   caption: Dynasty
@@ -33,63 +33,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Nidra Beard
-  - William Shelby
-  - Linda Carriere
-  - Kevin Spencer
-  - The Whispers
+    - Nidra Beard
+    - William Shelby
+    - Linda Carriere
+    - Kevin Spencer
+    - The Whispers
   influenced:
-  - Camp Lo
-  - Modern funk and post-disco revival artists
+    - Camp Lo
+    - Modern funk and post-disco revival artists
   mentors:
-  - Leon Sylvers III
-  - Dick Griffey
+    - Leon Sylvers III
+    - Dick Griffey
 related_artists: []
 spotify_data:
   followers: 14216
   id: 7E8yETzDbHYASNxtFQysf7
   popularity: 35
-  url: https://open.spotify.com/artist/7E8yETzDbHYASNxtFQysf7
+  url: 'https://open.spotify.com/artist/7E8yETzDbHYASNxtFQysf7'
   verified: false
 discography_enriched: true
 albums_count: 5
 singles_count: 5
 top_tracks:
-- Adventures in the Land of Music (Adventures in the Land of Music)
-- Here I Am (The Second Adventure)
-- I've Just Begun to Love You (Adventures in the Land of Music)
-- Adventures in the Land of Music (Adventures in the Land of Music)
-- Do Me Right (Adventures in the Land of Music)
-- Groove Control (Adventures in the Land of Music)
-- I've Just Begun to Love You (Adventures in the Land of Music)
-- Love in the Fast Lane (The Second Adventure)
-- Might Not Forgive You (feat. Sjava , Dynasty) (Ghetto Gospel)
-- Here I Am (The Second Adventure)
+  - Adventures in the Land of Music (Adventures in the Land of Music)
+  - Here I Am (The Second Adventure)
+  - I've Just Begun to Love You (Adventures in the Land of Music)
+  - Adventures in the Land of Music (Adventures in the Land of Music)
+  - Do Me Right (Adventures in the Land of Music)
+  - Groove Control (Adventures in the Land of Music)
+  - I've Just Begun to Love You (Adventures in the Land of Music)
+  - Love in the Fast Lane (The Second Adventure)
+  - 'Might Not Forgive You (feat. Sjava , Dynasty) (Ghetto Gospel)'
+  - Here I Am (The Second Adventure)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2a7d295d-3d88-40c0-a050-b6f4bae2b639
-  spotify: https://open.spotify.com/artist/7E8yETzDbHYASNxtFQysf7
-  wikipedia: https://en.wikipedia.org/wiki/Dynasty_(band)
+  musicbrainz: 'https://musicbrainz.org/artist/2a7d295d-3d88-40c0-a050-b6f4bae2b639'
+  spotify: 'https://open.spotify.com/artist/7E8yETzDbHYASNxtFQysf7'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dynasty_(band)'
 image_path: 03_Resources/source_material/ArtistPortraits/Dynasty.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:51:47.430031'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Dynasty_(band)
-- https://app.soulyears.com/artist-Dynasty.htm
+  - 'https://en.wikipedia.org/wiki/Dynasty_(band)'
+  - 'https://app.soulyears.com/artist-Dynasty.htm'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 15:25:34.709813
+entry_created: 2025-09-18T15:25:34.709Z
 last_updated: '2025-12-23T08:16:01.808619'
 disambiguation: Late 70's/80's R&B band from the US
 musicbrainz_enriched_at: '2025-10-21T09:25:06.277748'
 musicbrainz_id: 2a7d295d-3d88-40c0-a050-b6f4bae2b639
-origin: Los Angeles, California, United States
+origin: 'Los Angeles, California, United States'
 tags:
-- disco
-- funk
-- soul
-
+  - disco
+  - funk
+  - soul
+birth_place: 'Los Angeles, California, United States'
 ---
 
 ![](Dynasty.jpg)

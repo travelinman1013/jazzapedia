@@ -1,5 +1,5 @@
 ---
-title: IKE TURNER'S KINGS OF RHYTHM
+title: Ike Turner's Kings OF Rhythm
 wiki_slug: ike-turners-kings-of-rhythm
 schema_version: 2
 status: active
@@ -23,50 +23,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tina Turner
-  - Jackie Brenston
-  - Jimi Hendrix
-  - Ernest Lane
+    - Tina Turner
+    - Jackie Brenston
+    - Jimi Hendrix
+    - Ernest Lane
   influenced:
-  - B.B. King
-  - Howlin' Wolf
-  - Tina Turner
+    - B.B. King
+    - Howlin' Wolf
+    - Tina Turner
   mentors:
-  - Pinetop Perkins
+    - Pinetop Perkins
 spotify_data:
   followers: 9077
   id: 47V7QCymL7BMSADw2RrKdD
   popularity: 23
-  url: https://open.spotify.com/artist/47V7QCymL7BMSADw2RrKdD
+  url: 'https://open.spotify.com/artist/47V7QCymL7BMSADw2RrKdD'
 discography_enriched: true
 top_tracks:
-- Getting Nasty (A Black Man's Soul)
-- Thinking Black (A Black Man's Soul)
-- Black Angel (A Black Man's Soul)
-- Ghetto Funk (A Black Man's Soul)
-- Funky Mule (A Black Man's Soul)
-- Black's Alley (A Black Man's Soul)
-- Black Beauty (A Black Man's Soul)
-- Philly Dog (A Black Man's Soul)
-- No More Doggin' (A Black Man's Soul)
-- Nuttin' Up (A Black Man's Soul)
+  - Getting Nasty (A Black Man's Soul)
+  - Thinking Black (A Black Man's Soul)
+  - Black Angel (A Black Man's Soul)
+  - Ghetto Funk (A Black Man's Soul)
+  - Funky Mule (A Black Man's Soul)
+  - Black's Alley (A Black Man's Soul)
+  - Black Beauty (A Black Man's Soul)
+  - Philly Dog (A Black Man's Soul)
+  - No More Doggin' (A Black Man's Soul)
+  - Nuttin' Up (A Black Man's Soul)
 external_urls:
-  spotify: https://open.spotify.com/artist/47V7QCymL7BMSADw2RrKdD
-  wikipedia: https://en.wikipedia.org/wiki/Kings_of_Rhythm
+  spotify: 'https://open.spotify.com/artist/47V7QCymL7BMSADw2RrKdD'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kings_of_Rhythm'
 image_path: 03_Resources/source_material/ArtistPortraits/ike_turners_kings_of_rhythm.jpg
 biography_enhanced_at: '2025-11-04T10:57:00.911717'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Kings_of_Rhythm
-- https://en.wikipedia.org/wiki/Ike_Turner
-- https://www.britannica.com/biography/Ike-Turner
-- https://magnoliatribune.com/2024/07/28/mississippi-legends-ike-turner/
-- https://www.cityofclarksdale.org/artists/ike-turner/
+  - 'https://en.wikipedia.org/wiki/Kings_of_Rhythm'
+  - 'https://en.wikipedia.org/wiki/Ike_Turner'
+  - 'https://www.britannica.com/biography/Ike-Turner'
+  - 'https://magnoliatribune.com/2024/07/28/mississippi-legends-ike-turner/'
+  - 'https://www.cityofclarksdale.org/artists/ike-turner/'
 network_extracted: true
 entry_created: '2025-11-04T10:57:00.911728'
 last_updated: '2025-12-23T08:16:09.811524'
-origin: Clarksdale, Mississippi, United States
+origin: 'Clarksdale, Mississippi, United States'
+artist_type: band
 ---
 
 ![](ike_turners_kings_of_rhythm.jpg)

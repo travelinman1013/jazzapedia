@@ -2,16 +2,16 @@
 title: Squirrel Nut Zippers
 wiki_slug: squirrel-nut-zippers
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1993'
 genres:
-- big band
-- dark cabaret
-- swing music
+  - big band
+  - dark cabaret
+  - swing music
 instruments:
-- piano
-- trombone
+  - piano
+  - trombone
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/squirrel_nut_zippers.jpg
   caption: Squirrel Nut Zippers
@@ -32,138 +32,143 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jimbo Mathus
-  - Katharine Whalen
-  - Tom Maxwell
-  - Chris Phillips
-  - Ken Mosher
-  - Don Raleigh
-  - Je Widenhouse
+    - Jimbo Mathus
+    - Katharine Whalen
+    - Tom Maxwell
+    - Chris Phillips
+    - Ken Mosher
+    - Don Raleigh
+    - Je Widenhouse
   influenced:
-  - Cherry Poppin' Daddies
-  - Big Bad Voodoo Daddy
+    - Cherry Poppin' Daddies
+    - Big Bad Voodoo Daddy
   mentors:
-  - Cab Calloway
-  - Django Reinhardt
-  - Fats Waller
-  - Tom Waits
+    - Cab Calloway
+    - Django Reinhardt
+    - Fats Waller
+    - Tom Waits
 spotify_data:
   followers: 124954
   id: 0LIll5i3kwo5A3IDpipgkS
   popularity: 41
-  url: https://open.spotify.com/artist/0LIll5i3kwo5A3IDpipgkS
+  url: 'https://open.spotify.com/artist/0LIll5i3kwo5A3IDpipgkS'
 discography_enriched: true
 top_tracks:
-- Hell - Remastered 2016 (Hot (Remastered / 20th Anniversary Edition))
-- Ghost Of Stephen Foster (Perennial Favorites)
-- Hell
-- Put a Lid on It - Remastered 2016 (Hot (Remastered / 20th Anniversary Edition))
-- Put A Lid On It
-- Got My Own Thing Now - Remastered 2016 (Hot (Remastered / 20th Anniversary Edition))
-- Axman Jazz (Don't Scare Me Papa) (Beasts of Burgundy)
-- Suits Are Picking Up The Bill (Perennial Favorites)
-- Low Down Man (Perennial Favorites)
-- Good Enough For Granddad (The Inevitable Squirrel Nut Zippers)
+  - Hell - Remastered 2016 (Hot (Remastered / 20th Anniversary Edition))
+  - Ghost Of Stephen Foster (Perennial Favorites)
+  - Hell
+  - >-
+    Put a Lid on It - Remastered 2016 (Hot (Remastered / 20th Anniversary
+    Edition))
+  - Put A Lid On It
+  - >-
+    Got My Own Thing Now - Remastered 2016 (Hot (Remastered / 20th Anniversary
+    Edition))
+  - Axman Jazz (Don't Scare Me Papa) (Beasts of Burgundy)
+  - Suits Are Picking Up The Bill (Perennial Favorites)
+  - Low Down Man (Perennial Favorites)
+  - Good Enough For Granddad (The Inevitable Squirrel Nut Zippers)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/31810c40-932a-4f2d-8cfd-17849844e2a6
-  spotify: https://open.spotify.com/artist/0LIll5i3kwo5A3IDpipgkS
-  wikipedia: https://en.wikipedia.org/wiki/Squirrel_Nut_Zippers
+  musicbrainz: 'https://musicbrainz.org/artist/31810c40-932a-4f2d-8cfd-17849844e2a6'
+  spotify: 'https://open.spotify.com/artist/0LIll5i3kwo5A3IDpipgkS'
+  wikipedia: 'https://en.wikipedia.org/wiki/Squirrel_Nut_Zippers'
 image_path: 03_Resources/source_material/ArtistPortraits/squirrel_nut_zippers.jpg
 biography_enhanced_at: '2025-10-31T08:03:10.582933'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://mokbpresents.com/artist/squirrel-nut-zippers/
-- https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/squirrel-nut-zippers
-- https://northcarolinamusichalloffame.org/inductee-item/squirrel-nut-zippers/
+  - 'https://mokbpresents.com/artist/squirrel-nut-zippers/'
+  - >-
+    https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/squirrel-nut-zippers
+  - 'https://northcarolinamusichalloffame.org/inductee-item/squirrel-nut-zippers/'
 network_extracted: true
 entry_created: '2025-10-31T08:03:10.582944'
 last_updated: '2025-12-23T08:16:16.008375'
 members:
-- begin: 1994-01
-  end: '1999'
-  instruments: []
-  mbid: e49dace4-d6dc-4edd-930a-1f0e6c20ef6a
-  name: Tom Maxwell
-- begin: '1994'
-  end: '1998'
-  instruments: []
-  mbid: 364c00f6-d248-4af3-9915-503b155760b2
-  name: Stacy Guess
-- &id001
-  begin: '1995'
-  end: ''
-  instruments: []
-  mbid: 322934ed-99f1-454e-a4a4-de56311695a5
-  name: Je Widenhouse
-- &id002
-  begin: '1996'
-  end: ''
-  instruments: []
-  mbid: 66552f67-ba21-4ae4-b653-eb19e920217f
-  name: Stuart Cole
-- &id003
-  begin: '1996'
-  end: ''
-  instruments: []
-  mbid: 22a0a8b4-720c-4c95-9f02-ab016bd2b53e
-  name: Don Raleigh
-- &id004
-  begin: 1999-11
-  end: ''
-  instruments:
-  - piano
-  mbid: 8c9e6bd0-c41f-4c63-9577-cbabc27b99fc
-  name: Reese Gray
-- &id005
-  begin: 1999-11
-  end: ''
-  instruments:
-  - trombone
-  mbid: 7ececb65-bc39-446e-ba4f-53c59d791f35
-  name: David Wright
-- begin: ''
-  end: '1999'
-  instruments: []
-  mbid: e93bc3a9-ee7c-4355-aab5-0729060b4b88
-  name: Ken Mosher
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 081b133e-ce74-42ba-92c1-c18234acb532
-  name: Andrew Bird
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a8a178c4-11a7-4520-a7e6-84b86df3edac
-  name: Jimbo Mathus
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3e415477-b078-4bf1-9fe7-462286d1e2a9
-  name: Chris Phillips
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a0289ad5-ea63-49ac-8fed-44c358528e5a
-  name: Dr. Sick
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 63db856e-9e58-451d-a30f-e5f17930905c
-  name: Katharine Whalen
+  - begin: 1994-01
+    end: '1999'
+    instruments: []
+    mbid: e49dace4-d6dc-4edd-930a-1f0e6c20ef6a
+    name: Tom Maxwell
+  - begin: '1994'
+    end: '1998'
+    instruments: []
+    mbid: 364c00f6-d248-4af3-9915-503b155760b2
+    name: Stacy Guess
+  - &ref_0
+    begin: '1995'
+    end: ''
+    instruments: []
+    mbid: 322934ed-99f1-454e-a4a4-de56311695a5
+    name: Je Widenhouse
+  - &ref_1
+    begin: '1996'
+    end: ''
+    instruments: []
+    mbid: 66552f67-ba21-4ae4-b653-eb19e920217f
+    name: Stuart Cole
+  - &ref_2
+    begin: '1996'
+    end: ''
+    instruments: []
+    mbid: 22a0a8b4-720c-4c95-9f02-ab016bd2b53e
+    name: Don Raleigh
+  - &ref_3
+    begin: 1999-11
+    end: ''
+    instruments:
+      - piano
+    mbid: 8c9e6bd0-c41f-4c63-9577-cbabc27b99fc
+    name: Reese Gray
+  - &ref_4
+    begin: 1999-11
+    end: ''
+    instruments:
+      - trombone
+    mbid: 7ececb65-bc39-446e-ba4f-53c59d791f35
+    name: David Wright
+  - begin: ''
+    end: '1999'
+    instruments: []
+    mbid: e93bc3a9-ee7c-4355-aab5-0729060b4b88
+    name: Ken Mosher
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 081b133e-ce74-42ba-92c1-c18234acb532
+    name: Andrew Bird
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a8a178c4-11a7-4520-a7e6-84b86df3edac
+    name: Jimbo Mathus
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3e415477-b078-4bf1-9fe7-462286d1e2a9
+    name: Chris Phillips
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a0289ad5-ea63-49ac-8fed-44c358528e5a
+    name: Dr. Sick
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 63db856e-9e58-451d-a30f-e5f17930905c
+    name: Katharine Whalen
 musicbrainz_id: 31810c40-932a-4f2d-8cfd-17849844e2a6
-origin: Chapel Hill
+origin: 'Chapel Hill, North Carolina, United States'
 original_members:
-- *id001
-- *id002
-- *id003
-- *id004
-- *id005
+  - *ref_0
+  - *ref_1
+  - *ref_2
+  - *ref_3
+  - *ref_4
 tags:
-- american
-- jazz
-- swing
+  - american
+  - jazz
+  - swing
 ---
 
 ![](squirrel_nut_zippers.jpg)

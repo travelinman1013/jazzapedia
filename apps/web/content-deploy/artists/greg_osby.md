@@ -5,42 +5,42 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1960-04-03'
-birth_place: St. Louis
+birth_place: 'St. Louis, Missouri, United States'
 genres:
-- hard bop
-- jazz rap
-- jazz
-- free jazz
-- bebop
+  - hard bop
+  - jazz rap
+  - jazz
+  - free jazz
+  - bebop
 instruments:
-- alto saxophone
-associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 232efc20-1895-42d7-811a-6e5e25734f70
-  name: The Blue Note All Stars
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ffb7c323-5113-4bb0-a5f7-5b657eec4083
-  name: Phil Lesh & Friends
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a28bea3d-dff4-4392-9ade-3bac6c906fd3
-  name: M-Base Collective
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 250b8563-7b4a-4737-b17c-3b38f8cd87d0
-  name: Strata Institute
-- begin: ''
-  end: ''
-  instruments:
   - alto saxophone
-  mbid: f0cef555-24e0-4f46-bc91-9beb0f938216
-  name: Sam Rivers Rivbea Orchestra
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 232efc20-1895-42d7-811a-6e5e25734f70
+    name: The Blue Note All Stars
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ffb7c323-5113-4bb0-a5f7-5b657eec4083
+    name: Phil Lesh & Friends
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a28bea3d-dff4-4392-9ade-3bac6c906fd3
+    name: M-Base Collective
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 250b8563-7b4a-4737-b17c-3b38f8cd87d0
+    name: Strata Institute
+  - begin: ''
+    end: ''
+    instruments:
+      - alto saxophone
+    mbid: f0cef555-24e0-4f46-bc91-9beb0f938216
+    name: Sam Rivers Rivbea Orchestra
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/greg_osby.jpg
   caption: Greg Osby
@@ -62,52 +62,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Steve Coleman
-  - Herbie Hancock
-  - Dizzy Gillespie
-  - Jim Hall
-  - Marc Copland
-  - Jeff 'Tain' Watts
-  - Geri Allen
-  - Cassandra Wilson
-  - Gary Thomas
+    - Steve Coleman
+    - Herbie Hancock
+    - Dizzy Gillespie
+    - Jim Hall
+    - Marc Copland
+    - Jeff 'Tain' Watts
+    - Geri Allen
+    - Cassandra Wilson
+    - Gary Thomas
   influenced: []
   mentors:
-  - Jack DeJohnette
-  - Andrew Hill
-  - Muhal Richard Abrams
+    - Jack DeJohnette
+    - Andrew Hill
+    - Muhal Richard Abrams
 spotify_data:
   followers: 4658
   id: 1O62I5mxJcYBXcIzY6IMYT
   popularity: 14
-  url: https://open.spotify.com/artist/1O62I5mxJcYBXcIzY6IMYT
+  url: 'https://open.spotify.com/artist/1O62I5mxJcYBXcIzY6IMYT'
 discography_enriched: true
 top_tracks:
-- Ashes (The Invisible Hand)
-- Mr. Gutterman (3-D Lifestyles)
-- 'The Blade Sensei: Suite For A Suicide Shokunin (Speleology)'
-- God-Man Cometh (3-D Lifestyles)
-- Yarum
-- Party's Over - Remake
-- Jitterbug Waltz (The Invisible Hand)
-- Flow To The Underculture (3-D Lifestyles)
-- Moodswing (The Rough And The Smooth)
-- Minimalism (Minimalism)
+  - Ashes (The Invisible Hand)
+  - Mr. Gutterman (3-D Lifestyles)
+  - 'The Blade Sensei: Suite For A Suicide Shokunin (Speleology)'
+  - God-Man Cometh (3-D Lifestyles)
+  - Yarum
+  - Party's Over - Remake
+  - Jitterbug Waltz (The Invisible Hand)
+  - Flow To The Underculture (3-D Lifestyles)
+  - Moodswing (The Rough And The Smooth)
+  - Minimalism (Minimalism)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/bbef05c0-ec64-46df-b7af-08c85d96da39
-  spotify: https://open.spotify.com/artist/1O62I5mxJcYBXcIzY6IMYT
+  musicbrainz: 'https://musicbrainz.org/artist/bbef05c0-ec64-46df-b7af-08c85d96da39'
+  spotify: 'https://open.spotify.com/artist/1O62I5mxJcYBXcIzY6IMYT'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/greg_osby.jpg
 biography_enhanced_at: '2025-12-04T07:47:13.657625'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- All About Jazz - Greg Osby Musician Profile
-- Textura - Ten Questions with Greg Osby
-- Blue Note Records - Greg Osby Artist Page
-- 'JazzTimes - Greg Osby: Out of the Woods'
-- SFJAZZ - Greg Osby 2025-26 Season
-- Greg Osby Official Website - Biography
+  - All About Jazz - Greg Osby Musician Profile
+  - Textura - Ten Questions with Greg Osby
+  - Blue Note Records - Greg Osby Artist Page
+  - 'JazzTimes - Greg Osby: Out of the Woods'
+  - SFJAZZ - Greg Osby 2025-26 Season
+  - Greg Osby Official Website - Biography
 network_extracted: true
 entry_created: '2025-12-04T07:47:13.657637'
 last_updated: '2025-12-23T08:16:09.332099'
@@ -115,8 +115,9 @@ disambiguation: American jazz saxophonist
 gender: Male
 musicbrainz_id: bbef05c0-ec64-46df-b7af-08c85d96da39
 tags:
-- jazz
-- post-bop
+  - jazz
+  - post-bop
+origin: 'New York City, New York, United States'
 ---
 
 ![](greg_osby.jpg)

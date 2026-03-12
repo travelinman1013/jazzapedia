@@ -2,22 +2,22 @@
 title: Pat Metheny
 wiki_slug: pat-metheny
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1954-08-12'
-birth_place: Lee’s Summit, Missouri, United States
+birth_place: 'Lee’s Summit, Missouri, United States'
 genres:
-- jazz fusion
-- jazz
+  - jazz fusion
+  - jazz
 instruments:
-- original
-- guitar
+  - original
+  - guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Pat_Metheny.jpg
   caption: Pat Metheny
   background: non_vocal_instrumentalist
   born: '1954-08-12'
-  origin: Lee’s Summit, Missouri, United States
+  origin: 'Lee’s Summit, Missouri, United States'
 audio_profile:
   tempo_avg: 108.8
   energy_avg: 0.221
@@ -33,49 +33,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lyle Mays
-  - Jaco Pastorius
-  - Charlie Haden
-  - Brad Mehldau
-  - Herbie Hancock
-  - Ornette Coleman
+    - Lyle Mays
+    - Jaco Pastorius
+    - Charlie Haden
+    - Brad Mehldau
+    - Herbie Hancock
+    - Ornette Coleman
   influenced:
-  - Kurt Rosenwinkel
-  - Mike Stern
-  - Julian Lage
+    - Kurt Rosenwinkel
+    - Mike Stern
+    - Julian Lage
   mentors:
-  - Gary Burton
-  - Wes Montgomery
-  - Miles Davis
+    - Gary Burton
+    - Wes Montgomery
+    - Miles Davis
 spotify_data:
   followers: 406972
   id: 3t58jfUhoMLYVO14XaUFLA
   popularity: 51
-  url: https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA
+  url: 'https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA'
 discography_enriched: true
 top_tracks:
-- And I Love Her (What's It All About)
-- Cinema Paradiso [Love Theme] (Beyond The Missouri Sky)
-- From The Mountains (Dream Box)
-- Don't Know Why (One Quiet Night)
-- MoonDial
-- Bright Size Life (Bright Size Life)
-- The Moon Is A Harsh Mistress (Beyond The Missouri Sky)
-- Are You Going With Me? (Offramp)
-- James (Offramp)
-- The Moon Song (Beyond The Missouri Sky)
+  - And I Love Her (What's It All About)
+  - 'Cinema Paradiso [Love Theme] (Beyond The Missouri Sky)'
+  - From The Mountains (Dream Box)
+  - Don't Know Why (One Quiet Night)
+  - MoonDial
+  - Bright Size Life (Bright Size Life)
+  - The Moon Is A Harsh Mistress (Beyond The Missouri Sky)
+  - Are You Going With Me? (Offramp)
+  - James (Offramp)
+  - The Moon Song (Beyond The Missouri Sky)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7daac7f9-8fcc-485f-a14f-f8091d98cf25
-  spotify: https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA
-  wikipedia: https://en.wikipedia.org/wiki/Pat_Metheny
+  musicbrainz: 'https://musicbrainz.org/artist/7daac7f9-8fcc-485f-a14f-f8091d98cf25'
+  spotify: 'https://open.spotify.com/artist/3t58jfUhoMLYVO14XaUFLA'
+  wikipedia: 'https://en.wikipedia.org/wiki/Pat_Metheny'
 image_path: 03_Resources/source_material/ArtistPortraits/Pat_Metheny.jpg
 biography_enhanced_at: '2025-10-20T10:10:45.407398'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.patmetheny.com/bio/
-- https://en.wikipedia.org/wiki/Pat_Metheny
-- https://www.jazzempowers.org/pat-metheny
+  - 'https://www.patmetheny.com/bio/'
+  - 'https://en.wikipedia.org/wiki/Pat_Metheny'
+  - 'https://www.jazzempowers.org/pat-metheny'
 network_extracted: true
 entry_created: '2025-10-20T10:10:45.407410'
 last_updated: '2025-12-23T08:16:03.533342'
@@ -83,9 +83,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:40:38.674594'
 musicbrainz_id: 7daac7f9-8fcc-485f-a14f-f8091d98cf25
 tags:
-- contemporary jazz
-- electric guitar
-- guitar
+  - contemporary jazz
+  - electric guitar
+  - guitar
+origin: 'Kansas City, Missouri, United States'
 ---
 
 ![](Pat_Metheny.jpg)

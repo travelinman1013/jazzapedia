@@ -1,193 +1,196 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-20T01:29:37.235640'
 birth_date: '2002'
 disambiguation: Project led by Sara and Sean Watkins
 enhancement_provider: perplexity
 entry_created: '2026-01-20T01:29:37.235647'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e4954b11-3714-40a5-bc5b-5e7219256973
-  spotify: https://open.spotify.com/artist/6zoDxs0nnHuD3dKmi7xIIj
+  musicbrainz: 'https://musicbrainz.org/artist/e4954b11-3714-40a5-bc5b-5e7219256973'
+  spotify: 'https://open.spotify.com/artist/6zoDxs0nnHuD3dKmi7xIIj'
   wikipedia: ''
 genres:
-- bluegrass
-- newgrass
-- americana
+  - bluegrass
+  - newgrass
+  - americana
 image_path: 03_Resources/source_material/ArtistPortraits/watkins_family_hour.jpg
 instruments:
-- background vocals
-- lead vocals
-- drums (drum set)
-- resonator guitar
-- pedal steel guitar
-- guitar
-- double bass
-- organ
-- piano
-- original
-- fiddle
-- bass guitar
+  - background vocals
+  - lead vocals
+  - drums (drum set)
+  - resonator guitar
+  - pedal steel guitar
+  - guitar
+  - double bass
+  - organ
+  - piano
+  - original
+  - fiddle
+  - bass guitar
 last_updated: '2026-01-20T01:29:37.235648'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - background vocals
-  mbid: a9ee533f-8871-4f62-a6bb-91eb264abc90
-  name: Fiona Apple
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: a9ee533f-8871-4f62-a6bb-91eb264abc90
-  name: Fiona Apple
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 150e79cb-3c12-439a-a837-960a8df71cc0
-  name: Don Heffington
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: 150e79cb-3c12-439a-a837-960a8df71cc0
-  name: Don Heffington
-- begin: ''
-  end: ''
-  instruments:
-  - background vocals
-  mbid: fa61d2ca-bade-4674-8f62-0f093a95d47b
-  name: Greg Leisz
-- begin: ''
-  end: ''
-  instruments:
-  - resonator guitar
-  mbid: fa61d2ca-bade-4674-8f62-0f093a95d47b
-  name: Greg Leisz
-- begin: ''
-  end: ''
-  instruments:
-  - pedal steel guitar
-  mbid: fa61d2ca-bade-4674-8f62-0f093a95d47b
-  name: Greg Leisz
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: 4a94f3eb-a078-4602-be91-4ac7f2150d26
-  name: Sebastian Steinberg
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: 4a94f3eb-a078-4602-be91-4ac7f2150d26
-  name: Sebastian Steinberg
-- begin: ''
-  end: ''
-  instruments:
-  - double bass
-  mbid: 4a94f3eb-a078-4602-be91-4ac7f2150d26
-  name: Sebastian Steinberg
-- begin: ''
-  end: ''
-  instruments:
-  - organ
-  mbid: a15face4-36a4-472a-992a-45eaeb285eb0
-  name: Benmont Tench
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: a15face4-36a4-472a-992a-45eaeb285eb0
-  name: Benmont Tench
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: a15face4-36a4-472a-992a-45eaeb285eb0
-  name: Benmont Tench
-- begin: ''
-  end: ''
-  instruments:
-  - background vocals
-  - original
-  mbid: e6dbe57d-74cf-4f6e-9e16-ed6cce18baef
-  name: Sara Watkins
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  - original
-  mbid: e6dbe57d-74cf-4f6e-9e16-ed6cce18baef
-  name: Sara Watkins
-- begin: ''
-  end: ''
-  instruments:
-  - fiddle
-  - original
-  mbid: e6dbe57d-74cf-4f6e-9e16-ed6cce18baef
-  name: Sara Watkins
-- begin: ''
-  end: ''
-  instruments:
-  - background vocals
-  - original
-  mbid: eab7d0b3-b84a-47a9-99c5-72474b79c4e8
-  name: Sean Watkins
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  - original
-  mbid: eab7d0b3-b84a-47a9-99c5-72474b79c4e8
-  name: Sean Watkins
-- begin: ''
-  end: ''
-  instruments:
-  - bass guitar
-  - original
-  mbid: eab7d0b3-b84a-47a9-99c5-72474b79c4e8
-  name: Sean Watkins
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  - original
-  mbid: eab7d0b3-b84a-47a9-99c5-72474b79c4e8
-  name: Sean Watkins
+  - begin: ''
+    end: ''
+    instruments:
+      - background vocals
+    mbid: a9ee533f-8871-4f62-a6bb-91eb264abc90
+    name: Fiona Apple
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: a9ee533f-8871-4f62-a6bb-91eb264abc90
+    name: Fiona Apple
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 150e79cb-3c12-439a-a837-960a8df71cc0
+    name: Don Heffington
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: 150e79cb-3c12-439a-a837-960a8df71cc0
+    name: Don Heffington
+  - begin: ''
+    end: ''
+    instruments:
+      - background vocals
+    mbid: fa61d2ca-bade-4674-8f62-0f093a95d47b
+    name: Greg Leisz
+  - begin: ''
+    end: ''
+    instruments:
+      - resonator guitar
+    mbid: fa61d2ca-bade-4674-8f62-0f093a95d47b
+    name: Greg Leisz
+  - begin: ''
+    end: ''
+    instruments:
+      - pedal steel guitar
+    mbid: fa61d2ca-bade-4674-8f62-0f093a95d47b
+    name: Greg Leisz
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 4a94f3eb-a078-4602-be91-4ac7f2150d26
+    name: Sebastian Steinberg
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: 4a94f3eb-a078-4602-be91-4ac7f2150d26
+    name: Sebastian Steinberg
+  - begin: ''
+    end: ''
+    instruments:
+      - double bass
+    mbid: 4a94f3eb-a078-4602-be91-4ac7f2150d26
+    name: Sebastian Steinberg
+  - begin: ''
+    end: ''
+    instruments:
+      - organ
+    mbid: a15face4-36a4-472a-992a-45eaeb285eb0
+    name: Benmont Tench
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: a15face4-36a4-472a-992a-45eaeb285eb0
+    name: Benmont Tench
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: a15face4-36a4-472a-992a-45eaeb285eb0
+    name: Benmont Tench
+  - begin: ''
+    end: ''
+    instruments:
+      - background vocals
+      - original
+    mbid: e6dbe57d-74cf-4f6e-9e16-ed6cce18baef
+    name: Sara Watkins
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+      - original
+    mbid: e6dbe57d-74cf-4f6e-9e16-ed6cce18baef
+    name: Sara Watkins
+  - begin: ''
+    end: ''
+    instruments:
+      - fiddle
+      - original
+    mbid: e6dbe57d-74cf-4f6e-9e16-ed6cce18baef
+    name: Sara Watkins
+  - begin: ''
+    end: ''
+    instruments:
+      - background vocals
+      - original
+    mbid: eab7d0b3-b84a-47a9-99c5-72474b79c4e8
+    name: Sean Watkins
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+      - original
+    mbid: eab7d0b3-b84a-47a9-99c5-72474b79c4e8
+    name: Sean Watkins
+  - begin: ''
+    end: ''
+    instruments:
+      - bass guitar
+      - original
+    mbid: eab7d0b3-b84a-47a9-99c5-72474b79c4e8
+    name: Sean Watkins
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+      - original
+    mbid: eab7d0b3-b84a-47a9-99c5-72474b79c4e8
+    name: Sean Watkins
 musical_connections:
   collaborators:
-  - Chris Thile
-  - Greg Leisz
-  - Benmont Tench
-  - Fiona Apple
-  - Jackson Browne
+    - Chris Thile
+    - Greg Leisz
+    - Benmont Tench
+    - Fiona Apple
+    - Jackson Browne
   influenced: []
   mentors:
-  - John Moore
-  - Dennis Caplinger
-  - Byron Berline
-  - Alison Krauss
+    - John Moore
+    - Dennis Caplinger
+    - Byron Berline
+    - Alison Krauss
 musicbrainz_id: e4954b11-3714-40a5-bc5b-5e7219256973
 network_extracted: true
-origin: Los Angeles
+origin: 'Los Angeles, California, United States'
 primary_source: perplexity
 research_sources:
-- https://nodepression.org/a-larger-living-room-a-taller-stage-watkins-family-takes-it-on-the-road/
-- https://sandiegotroubadour.com/for-sara-watkins-its-all-about-family/
-- https://www.latimes.com/entertainment-arts/music/story/2022-08-24/watkins-family-hour-largo-fiona-apple
-- https://levonhelm.com/shows/2021/9/24/watkins-family-hour
-- https://www.watkinsfamilyhour.com/about
+  - >-
+    https://nodepression.org/a-larger-living-room-a-taller-stage-watkins-family-takes-it-on-the-road/
+  - 'https://sandiegotroubadour.com/for-sara-watkins-its-all-about-family/'
+  - >-
+    https://www.latimes.com/entertainment-arts/music/story/2022-08-24/watkins-family-hour-largo-fiona-apple
+  - 'https://levonhelm.com/shows/2021/9/24/watkins-family-hour'
+  - 'https://www.watkinsfamilyhour.com/about'
 spotify_data:
   followers: 13753
   id: 6zoDxs0nnHuD3dKmi7xIIj
   popularity: 25
-  url: https://open.spotify.com/artist/6zoDxs0nnHuD3dKmi7xIIj
+  url: 'https://open.spotify.com/artist/6zoDxs0nnHuD3dKmi7xIIj'
 status: active
 tags:
-- bluegrass
+  - bluegrass
 title: Watkins Family Hour
+birth_place: 'Carlsbad, California, United States'
 ---
 
 ![](watkins_family_hour.jpg)

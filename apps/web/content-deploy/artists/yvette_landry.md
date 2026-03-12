@@ -1,34 +1,34 @@
 ---
-title: yvette landry
+title: Yvette Landry
 wiki_slug: yvette-landry
 schema_version: 2
 artist_type: person
 status: active
-birth_place: Breaux Bridge, Louisiana, United States
+birth_place: 'Breaux Bridge, Louisiana, United States'
 genres:
-- honky tonk
+  - honky tonk
 instruments:
-- original
-- eponymous
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - original
-  mbid: 37554aad-991c-4e6a-abf5-1f15c207bfee
-  name: Bonsoir Catin
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
-  - original
-  mbid: 9ab03d07-3b58-4f39-9348-3a916ea112a5
-  name: Yvette Landry & the Jukes
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 37554aad-991c-4e6a-abf5-1f15c207bfee
+    name: Bonsoir Catin
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 9ab03d07-3b58-4f39-9348-3a916ea112a5
+    name: Yvette Landry & the Jukes
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/yvette_landry.jpg
   caption: yvette landry
   background: non_vocal_instrumentalist
-  origin: Breaux Bridge, Louisiana, United States
+  origin: 'Breaux Bridge, Louisiana, United States'
 audio_profile:
   tempo_avg: 126.1
   energy_avg: 0.462
@@ -44,56 +44,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kristi Guillory
-  - Anya Burgess
-  - Christine Balfa
-  - Bill Kirchen
-  - Cindy Cashdollar
-  - Dirk Powell
-  - Richard Comeaux
-  - Roddie Romero
-  - Warren 'Storm' Schexnider
-  - John Fogerty
-  - Sonny Landreth
-  - Marc Broussard
+    - Kristi Guillory
+    - Anya Burgess
+    - Christine Balfa
+    - Bill Kirchen
+    - Cindy Cashdollar
+    - Dirk Powell
+    - Richard Comeaux
+    - Roddie Romero
+    - Warren 'Storm' Schexnider
+    - John Fogerty
+    - Sonny Landreth
+    - Marc Broussard
   influenced: []
   mentors:
-  - Brazos Huval
-  - Randy Vidrine
+    - Brazos Huval
+    - Randy Vidrine
 spotify_data:
   followers: 392
   id: 1A3MJYLO6j30qfJfkQVvSK
   popularity: 2
-  url: https://open.spotify.com/artist/1A3MJYLO6j30qfJfkQVvSK
+  url: 'https://open.spotify.com/artist/1A3MJYLO6j30qfJfkQVvSK'
 discography_enriched: true
 top_tracks:
-- 'Brahms'' Lullaby (Je M''endors: Cajun and Créole Lullabies)'
-- I'm Leaving It Up to You (Me & T-Coe's Country)
-- 'Fais Do Do (Je M''endors: Cajun and Créole Lullabies)'
-- Honky Tonk Angels (Joel Savoy's Honky Tonk Merry-Go-Round)
-- Les Traces de Mon Boghei (Les Traces de Mon Boghei)
-- Dog House Blues (No Man's Land)
-- Three Chords and a Bottle (No Man's Land)
-- Together Again (Me & T-Coe's Country)
-- Paillasse poule d'eau (Bienvenue!)
-- Les sept souris (Bienvenue!)
+  - 'Brahms'' Lullaby (Je M''endors: Cajun and Créole Lullabies)'
+  - I'm Leaving It Up to You (Me & T-Coe's Country)
+  - 'Fais Do Do (Je M''endors: Cajun and Créole Lullabies)'
+  - Honky Tonk Angels (Joel Savoy's Honky Tonk Merry-Go-Round)
+  - Les Traces de Mon Boghei (Les Traces de Mon Boghei)
+  - Dog House Blues (No Man's Land)
+  - Three Chords and a Bottle (No Man's Land)
+  - Together Again (Me & T-Coe's Country)
+  - Paillasse poule d'eau (Bienvenue!)
+  - Les sept souris (Bienvenue!)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b47dd475-aab1-4906-8f1f-43d124e40f98
-  spotify: https://open.spotify.com/artist/1A3MJYLO6j30qfJfkQVvSK
+  musicbrainz: 'https://musicbrainz.org/artist/b47dd475-aab1-4906-8f1f-43d124e40f98'
+  spotify: 'https://open.spotify.com/artist/1A3MJYLO6j30qfJfkQVvSK'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/yvette_landry.jpg
 biography_enhanced_at: '2025-10-23T07:30:09.467184'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://yvettelandry.com/about-yvette/
-- https://discoverlafayette.net/podcast/yvette-landry-grammy-nominated-musician-storyteller-educator-and-renaissance-woman
-- https://www.lonesomehighway.com/interviewsold/2013/10/18/interview-with-yvette-landry-by-stephen-rapid.html
+  - 'https://yvettelandry.com/about-yvette/'
+  - >-
+    https://discoverlafayette.net/podcast/yvette-landry-grammy-nominated-musician-storyteller-educator-and-renaissance-woman
+  - >-
+    https://www.lonesomehighway.com/interviewsold/2013/10/18/interview-with-yvette-landry-by-stephen-rapid.html
 network_extracted: true
 entry_created: '2025-10-23T07:30:09.467196'
 last_updated: '2025-12-23T08:16:18.385516'
 musicbrainz_id: b47dd475-aab1-4906-8f1f-43d124e40f98
-
 ---
 
 ![](yvette_landry.jpg)

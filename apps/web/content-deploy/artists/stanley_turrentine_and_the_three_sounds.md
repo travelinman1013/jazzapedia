@@ -4,12 +4,13 @@ wiki_slug: stanley-turrentine-and-the-three-sounds
 schema_version: 2
 status: active
 genres:
-- cool jazz
-- hard bop
-- jazz
-- soul jazz
+  - cool jazz
+  - hard bop
+  - jazz
+  - soul jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/stanley_turrentine_and_the_three_sounds.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/stanley_turrentine_and_the_three_sounds.jpg
   caption: Stanley Turrentine and The Three Sounds
   background: solo_singer
 audio_profile:
@@ -27,49 +28,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Three Sounds (Gene Harris, Andrew Simpkins, Bill Dowdy)
-  - Shirley Scott
-  - Jimmy Smith
-  - Max Roach
+    - 'The Three Sounds (Gene Harris, Andrew Simpkins, Bill Dowdy)'
+    - Shirley Scott
+    - Jimmy Smith
+    - Max Roach
   influenced:
-  - Houston Person
-  - Eric Alexander
+    - Houston Person
+    - Eric Alexander
   mentors:
-  - Illinois Jacquet
-  - Earl Bostic
+    - Illinois Jacquet
+    - Earl Bostic
 spotify_data:
   followers: 9685
   id: 5L4dvjVNvxfqZOY5X2944F
   popularity: 29
-  url: https://open.spotify.com/artist/5L4dvjVNvxfqZOY5X2944F
+  url: 'https://open.spotify.com/artist/5L4dvjVNvxfqZOY5X2944F'
 discography_enriched: true
 top_tracks:
-- Gee Baby, Ain't I Good To You - Remastered/2000 (Blue Hour)
-- Willow Weep For Me - Remastered/2000 (Blue Hour)
-- Since I Fell For You - Remastered (Blue Hour)
-- I Want A Little Girl - 24 Bit / Remastered / 2000 (Blue Hour)
-- Blue Riff - Remastered (Blue Hour)
-- Blues In The Closet - Remastered/2000 (The Complete Blue Hour Sessions)
-- There Is No Greater Love - Remastered/2000 (The Complete Blue Hour Sessions)
-- Alone Together - Remastered/2000 (The Complete Blue Hour Sessions)
-- Blue Hour - Remastered/2000 (The Complete Blue Hour Sessions)
-- Blue Riff - Remastered (The Complete Blue Hour Sessions)
+  - 'Gee Baby, Ain''t I Good To You - Remastered/2000 (Blue Hour)'
+  - Willow Weep For Me - Remastered/2000 (Blue Hour)
+  - Since I Fell For You - Remastered (Blue Hour)
+  - I Want A Little Girl - 24 Bit / Remastered / 2000 (Blue Hour)
+  - Blue Riff - Remastered (Blue Hour)
+  - Blues In The Closet - Remastered/2000 (The Complete Blue Hour Sessions)
+  - There Is No Greater Love - Remastered/2000 (The Complete Blue Hour Sessions)
+  - Alone Together - Remastered/2000 (The Complete Blue Hour Sessions)
+  - Blue Hour - Remastered/2000 (The Complete Blue Hour Sessions)
+  - Blue Riff - Remastered (The Complete Blue Hour Sessions)
 external_urls:
-  spotify: https://open.spotify.com/artist/5L4dvjVNvxfqZOY5X2944F
-  wikipedia: https://en.wikipedia.org/wiki/Blue_Hour
-image_path: 03_Resources/source_material/ArtistPortraits/stanley_turrentine_and_the_three_sounds.jpg
+  spotify: 'https://open.spotify.com/artist/5L4dvjVNvxfqZOY5X2944F'
+  wikipedia: 'https://en.wikipedia.org/wiki/Blue_Hour'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/stanley_turrentine_and_the_three_sounds.jpg
 biography_enhanced_at: '2025-11-17T10:38:25.258290'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.bluenote.com/artist/stanley-turrentine/
-- https://newyorkjazzworkshop.com/stanley-turrentine-2/
-- https://londonjazzcollector.wordpress.com/2015/11/15/stanley-turrentine-with-the-3-sounds-blue-hour-1960-blue-note-ua-repress/
-- https://en.wikipedia.org/wiki/Blue_Hour
+  - 'https://www.bluenote.com/artist/stanley-turrentine/'
+  - 'https://newyorkjazzworkshop.com/stanley-turrentine-2/'
+  - >-
+    https://londonjazzcollector.wordpress.com/2015/11/15/stanley-turrentine-with-the-3-sounds-blue-hour-1960-blue-note-ua-repress/
+  - 'https://en.wikipedia.org/wiki/Blue_Hour'
 network_extracted: true
 entry_created: '2025-11-17T10:38:25.258296'
 last_updated: '2025-12-23T08:16:16.026897'
-origin: Pittsburgh, Pennsylvania, USA
+origin: 'Pittsburgh, Pennsylvania, USA'
+birth_place: 'Pittsburgh, Pennsylvania, United States'
+birth_date: '1934-04-05'
+artist_type: person
 ---
 
 ![](stanley_turrentine_and_the_three_sounds.jpg)

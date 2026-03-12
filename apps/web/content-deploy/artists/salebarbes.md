@@ -1,77 +1,81 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-05T07:54:05.187411'
-birth_date: '2017'
+birth_date: '1974-09-17'
 enhancement_provider: perplexity
 entry_created: '2026-01-05T07:54:05.187420'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a17f19ae-b079-49df-9b73-f19a13c8dade
-  spotify: https://open.spotify.com/artist/2k67IAknAbf9ShxGNRU2wB
-  wikipedia: https://en.wikipedia.org/wiki/Jonathan_Painchaud
+  musicbrainz: 'https://musicbrainz.org/artist/a17f19ae-b079-49df-9b73-f19a13c8dade'
+  spotify: 'https://open.spotify.com/artist/2k67IAknAbf9ShxGNRU2wB'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jonathan_Painchaud'
 genres:
-- chanson
+  - chanson
 image_path: 03_Resources/source_material/ArtistPortraits/salebarbes.jpg
 last_updated: '2026-01-05T07:54:05.187421'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a6d3d3f5-e822-4bd1-88e9-5e2451a2c6bc
-  name: George Belliveau
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 69ebcc61-e7af-43b7-8e0a-f269c78d2c6f
-  name: Jean‐François Breau
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 91effccc-9fde-4a30-8678-563f1f5e2762
-  name: Kevin McIntyre
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 914a3ba8-3640-4400-8687-443558b56715
-  name: Éloi Painchaud
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 12ff33a4-625a-4724-8520-7c8d4efc68e5
-  name: Jonathan Painchaud
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a6d3d3f5-e822-4bd1-88e9-5e2451a2c6bc
+    name: George Belliveau
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 69ebcc61-e7af-43b7-8e0a-f269c78d2c6f
+    name: Jean‐François Breau
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 91effccc-9fde-4a30-8678-563f1f5e2762
+    name: Kevin McIntyre
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 914a3ba8-3640-4400-8687-443558b56715
+    name: Éloi Painchaud
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 12ff33a4-625a-4724-8520-7c8d4efc68e5
+    name: Jonathan Painchaud
 musical_connections:
   collaborators:
-  - Jonathan Painchaud
-  - Éloi Painchaud
-  - Jean-François Breau
-  - Lisa LeBlanc
-  - Hay Babies
-  - Zachary Richard
-  - Orchestre symphonique de Montréal (OSM)
+    - Jonathan Painchaud
+    - Éloi Painchaud
+    - Jean-François Breau
+    - Lisa LeBlanc
+    - Hay Babies
+    - Zachary Richard
+    - Orchestre symphonique de Montréal (OSM)
   influenced: []
   mentors:
-  - Alcide Painchaud
+    - Alcide Painchaud
 musicbrainz_id: a17f19ae-b079-49df-9b73-f19a13c8dade
 network_extracted: true
-origin: Montreal, Quebec, Canada (formed; roots in Iles de la Madeleine, Quebec)
+origin: 'Montreal, Quebec, Canada (formed; roots in Iles de la Madeleine, Quebec)'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jonathan_Painchaud
-- https://www.viberate.com/artist/salebarbes/
-- https://www.socanmagazine.ca/uncategorized/salebarbes-beyond-accents-a-single-language/
-- https://louisianais.com/en/culture/2024/07/22/in-canada-the-musical-tradition-of-louisiana-continues-to-inspire-young-musicians/
-- https://www.liveone.com/artist/salebarbes/8449875
-- https://www.feq.ca/en/lineup/salebarbes
-- https://montrealgazette.com/entertainment_life/friday-on-my-mind-weekends-fare-includes-salebarbes-with-the-osm-daniel-lanois-and-kent-monkman
-- https://exclaim.ca/music/article/lisa_leblanc_and_salebarbes_cover_cajun_classic_bonsoir_moreau
-- https://www.osm.ca/en/concert/salebarbes-meets-the-osm/
+  - 'https://en.wikipedia.org/wiki/Jonathan_Painchaud'
+  - 'https://www.viberate.com/artist/salebarbes/'
+  - >-
+    https://www.socanmagazine.ca/uncategorized/salebarbes-beyond-accents-a-single-language/
+  - >-
+    https://louisianais.com/en/culture/2024/07/22/in-canada-the-musical-tradition-of-louisiana-continues-to-inspire-young-musicians/
+  - 'https://www.liveone.com/artist/salebarbes/8449875'
+  - 'https://www.feq.ca/en/lineup/salebarbes'
+  - >-
+    https://montrealgazette.com/entertainment_life/friday-on-my-mind-weekends-fare-includes-salebarbes-with-the-osm-daniel-lanois-and-kent-monkman
+  - >-
+    https://exclaim.ca/music/article/lisa_leblanc_and_salebarbes_cover_cajun_classic_bonsoir_moreau
+  - 'https://www.osm.ca/en/concert/salebarbes-meets-the-osm/'
 spotify_data:
   followers: 39563
   id: 2k67IAknAbf9ShxGNRU2wB
   popularity: 46
-  url: https://open.spotify.com/artist/2k67IAknAbf9ShxGNRU2wB
+  url: 'https://open.spotify.com/artist/2k67IAknAbf9ShxGNRU2wB'
 status: active
-title: salebarbes
-
+title: Salebarbes
+birth_place: 'Iles de la Madeleine, Quebec, Canada'
 ---
 
 ![](salebarbes.jpg)

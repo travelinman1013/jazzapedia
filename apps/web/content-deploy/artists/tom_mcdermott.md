@@ -1,16 +1,16 @@
 ---
-title: tom mcdermott
+title: Tom McDermott
 wiki_slug: tom-mcdermott
 schema_version: 2
 status: active
-birth_place: St. Louis, Missouri, United States
+birth_place: 'St. Louis, Missouri, United States'
 genres:
-- ragtime
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/tom_mcdermott.jpg
   caption: tom mcdermott
   background: solo_singer
-  origin: St. Louis, Missouri, United States
+  origin: 'St. Louis, Missouri, United States'
 audio_profile:
   tempo_avg: 113.2
   energy_avg: 0.291
@@ -26,50 +26,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dukes of Dixieland
-  - New Orleans Nightcrawlers
-  - Aurora Nealand
-  - Anders Osborne, John Boutte, Connie Jones
-  - Evan Christopher, Rick Trolsen
+    - Dukes of Dixieland
+    - New Orleans Nightcrawlers
+    - Aurora Nealand
+    - 'Anders Osborne, John Boutte, Connie Jones'
+    - 'Evan Christopher, Rick Trolsen'
   influenced:
-  - Aurora Nealand
+    - Aurora Nealand
   mentors:
-  - James Booker
-  - Professor Longhair
-  - Scott Joplin
+    - James Booker
+    - Professor Longhair
+    - Scott Joplin
 spotify_data:
   followers: 1252
   id: 0dBiZwqIcSIMbQt7G4PKV4
   popularity: 7
-  url: https://open.spotify.com/artist/0dBiZwqIcSIMbQt7G4PKV4
+  url: 'https://open.spotify.com/artist/0dBiZwqIcSIMbQt7G4PKV4'
 discography_enriched: true
 top_tracks:
-- 'New Orleans Blues (Treme: Music From The HBO Original Series, Season 1)'
-- House of the Rising Sun (feat. Tom McDermott & Ysanne Spevack)
-- 'Heavy Henry (Treme: Music From The HBO Original Series - Season 2)'
-- Tande Sak Fe Loraj Gwonde (Listen to the ONe Who Makes the Thunder Roar) (Almost Native)
-- Give Me a Pigfoot (Live) (Live at Luthjen's)
-- I'm so Lonesome I Could Cry (Live) (Live at Luthjen's)
-- The City of New Orleans (Live) (Live at Luthjen's)
-- Waltz for All Souls (Vieux Carré (The French Quarter) - Sounds of New Orleans)
-- Heavy Henry (Almost Native)
-- Waltz For All Souls (Almost Native)
+  - 'New Orleans Blues (Treme: Music From The HBO Original Series, Season 1)'
+  - House of the Rising Sun (feat. Tom McDermott & Ysanne Spevack)
+  - 'Heavy Henry (Treme: Music From The HBO Original Series - Season 2)'
+  - >-
+    Tande Sak Fe Loraj Gwonde (Listen to the ONe Who Makes the Thunder Roar)
+    (Almost Native)
+  - Give Me a Pigfoot (Live) (Live at Luthjen's)
+  - I'm so Lonesome I Could Cry (Live) (Live at Luthjen's)
+  - The City of New Orleans (Live) (Live at Luthjen's)
+  - >-
+    Waltz for All Souls (Vieux Carré (The French Quarter) - Sounds of New
+    Orleans)
+  - Heavy Henry (Almost Native)
+  - Waltz For All Souls (Almost Native)
 external_urls:
-  spotify: https://open.spotify.com/artist/0dBiZwqIcSIMbQt7G4PKV4
-  wikipedia: https://en.wikipedia.org/wiki/Tom_McDermott_(musician)
+  spotify: 'https://open.spotify.com/artist/0dBiZwqIcSIMbQt7G4PKV4'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tom_McDermott_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/tom_mcdermott.jpg
 biography_enhanced_at: '2025-10-19T10:32:02.135947'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://sm2media.com/36933/features/tom-mcdermott-master-of-ragtime-and-new-orleans-piano/
-- https://www.wwoz.org/acts/tom-mcdermott
-- http://www.ragtime.nu/mcdermott.htm
-- https://en.wikipedia.org/wiki/Tom_McDermott_(musician)
-- https://www.allaboutjazz.com/musicians/tom-mcdermott/
+  - >-
+    https://sm2media.com/36933/features/tom-mcdermott-master-of-ragtime-and-new-orleans-piano/
+  - 'https://www.wwoz.org/acts/tom-mcdermott'
+  - 'http://www.ragtime.nu/mcdermott.htm'
+  - 'https://en.wikipedia.org/wiki/Tom_McDermott_(musician)'
+  - 'https://www.allaboutjazz.com/musicians/tom-mcdermott/'
 network_extracted: true
 entry_created: '2025-10-19T10:32:02.135954'
 last_updated: '2025-12-23T08:16:17.531417'
+birth_date: '1957'
+artist_type: person
 ---
 
 ![](tom_mcdermott.jpg)

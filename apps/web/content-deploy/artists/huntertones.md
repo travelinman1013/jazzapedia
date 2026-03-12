@@ -2,13 +2,13 @@
 title: Huntertones
 wiki_slug: huntertones
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- jazz funk
-- jazz fusion
+  - jazz funk
+  - jazz fusion
 instruments:
-- bass
+  - bass
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/huntertones.jpg
   caption: Huntertones
@@ -28,65 +28,66 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dan White
-  - Chris Ott
-  - Jon Lampley
-  - Joshua Hill
-  - Adam DeAscentis
-  - John Hubbell
-  - Justin Stanton
-  - Keita Ogawa
-  - Kurt Elling and Charlie Hunter (SuperBlue)
+    - Dan White
+    - Chris Ott
+    - Jon Lampley
+    - Joshua Hill
+    - Adam DeAscentis
+    - John Hubbell
+    - Justin Stanton
+    - Keita Ogawa
+    - Kurt Elling and Charlie Hunter (SuperBlue)
   influenced:
-  - Emerging jazz-funk musicians
+    - Emerging jazz-funk musicians
   mentors:
-  - Art Blakey and the Jazz Messengers
+    - Art Blakey and the Jazz Messengers
 spotify_data:
   followers: 23611
   id: 3tv8xMO0AkcqN9Th8KHyGd
   popularity: 34
-  url: https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd
+  url: 'https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd'
 discography_enriched: true
 top_tracks:
-- Wonder Boy - Audiotree Live Version (Huntertones on Audiotree Live)
-- For Roy 2.0 (For Roy 2.0)
-- Sad Songs (feat. Allen Stone, Clyde Lawrence, Huntertones) (Sad Songs)
-- Wichita Lineman (Wichita Lineman)
-- Silent Night (A Joyful Noise, Pt. 2)
-- For Roy (For Roy)
-- You Gotta Be (You Gotta Be)
-- 'Sharp Dressed Man (SuperBlue: Guilty Pleasures Vol.2)'
-- Goin’ to Chicago (Goin’ to Chicago)
-- Turn To Stone
+  - Wonder Boy - Audiotree Live Version (Huntertones on Audiotree Live)
+  - For Roy 2.0 (For Roy 2.0)
+  - 'Sad Songs (feat. Allen Stone, Clyde Lawrence, Huntertones) (Sad Songs)'
+  - Wichita Lineman (Wichita Lineman)
+  - 'Silent Night (A Joyful Noise, Pt. 2)'
+  - For Roy (For Roy)
+  - You Gotta Be (You Gotta Be)
+  - 'Sharp Dressed Man (SuperBlue: Guilty Pleasures Vol.2)'
+  - Goin’ to Chicago (Goin’ to Chicago)
+  - Turn To Stone
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/fd51b051-7564-4204-92c8-5ba59f7025e5
-  spotify: https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd
-  wikipedia: https://en.wikipedia.org/wiki/Huntertones
+  musicbrainz: 'https://musicbrainz.org/artist/fd51b051-7564-4204-92c8-5ba59f7025e5'
+  spotify: 'https://open.spotify.com/artist/3tv8xMO0AkcqN9Th8KHyGd'
+  wikipedia: 'https://en.wikipedia.org/wiki/Huntertones'
 image_path: 03_Resources/source_material/ArtistPortraits/huntertones.jpg
 biography_enhanced_at: '2025-11-20T07:05:27.738254'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Huntertones
-- https://americanvoices.org/artist/huntertones/
-- https://www.wbgo.org/music/2023-06-07/huntertones-on-finding-their-sound-and-their-community
-- https://downbeat.com/news/detail/huntertones-global-appeal
-- https://www.huntertones.com/about.html
-- https://musicianofthemonthproject.com/2024/07/01/huntertones/
+  - 'https://en.wikipedia.org/wiki/Huntertones'
+  - 'https://americanvoices.org/artist/huntertones/'
+  - >-
+    https://www.wbgo.org/music/2023-06-07/huntertones-on-finding-their-sound-and-their-community
+  - 'https://downbeat.com/news/detail/huntertones-global-appeal'
+  - 'https://www.huntertones.com/about.html'
+  - 'https://musicianofthemonthproject.com/2024/07/01/huntertones/'
 network_extracted: true
 entry_created: '2025-11-20T07:05:27.738266'
 last_updated: '2025-12-23T08:16:09.776438'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - bass
-  mbid: 1ee730b4-8dd7-4d85-9eef-4f45271acd93
-  name: Adam DeAscentis
+  - begin: ''
+    end: ''
+    instruments:
+      - bass
+    mbid: 1ee730b4-8dd7-4d85-9eef-4f45271acd93
+    name: Adam DeAscentis
 musicbrainz_id: fd51b051-7564-4204-92c8-5ba59f7025e5
-origin: Columbus, Ohio, United States
+origin: 'Columbus, Ohio, United States'
 tags:
-- jazz
+  - jazz
 ---
 
 ![](huntertones.jpg)

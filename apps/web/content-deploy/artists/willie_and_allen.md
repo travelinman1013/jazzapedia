@@ -29,32 +29,37 @@ spotify_data:
   followers: 77
   id: 1FCmnjlNAh0oCBncB5z2GR
   popularity: 1
-  url: https://open.spotify.com/artist/1FCmnjlNAh0oCBncB5z2GR
+  url: 'https://open.spotify.com/artist/1FCmnjlNAh0oCBncB5z2GR'
 discography_enriched: true
 top_tracks:
-- I Don't Need No One (I Don't Need No One)
-- Baby Do Little (I Don't Need No One)
-- Baby Do Little (Everything I Do Gonh Be Funky (The Hit Songs & Productions 1957-1978))
-- I Don't Need No One (Everything I Do Gonh Be Funky (The Hit Songs & Productions 1957-1978))
-- I Don't Need No One (Saint of New Orleans)
-- 'I Don''t Need No One (Allen Toussaint: The Lost Sessions)'
-- Baby Do Little (New Orleans Soul ('65-'67))
-- I Don't Need No One (New Orleans Soul ('65-'67))
-- Keeper of the Stars (Keeper of the Stars)
-- Old Blues Singing Man (Old Blues Singing Man)
+  - I Don't Need No One (I Don't Need No One)
+  - Baby Do Little (I Don't Need No One)
+  - >-
+    Baby Do Little (Everything I Do Gonh Be Funky (The Hit Songs & Productions
+    1957-1978))
+  - >-
+    I Don't Need No One (Everything I Do Gonh Be Funky (The Hit Songs &
+    Productions 1957-1978))
+  - I Don't Need No One (Saint of New Orleans)
+  - 'I Don''t Need No One (Allen Toussaint: The Lost Sessions)'
+  - Baby Do Little (New Orleans Soul ('65-'67))
+  - I Don't Need No One (New Orleans Soul ('65-'67))
+  - Keeper of the Stars (Keeper of the Stars)
+  - Old Blues Singing Man (Old Blues Singing Man)
 external_urls:
-  spotify: https://open.spotify.com/artist/1FCmnjlNAh0oCBncB5z2GR
+  spotify: 'https://open.spotify.com/artist/1FCmnjlNAh0oCBncB5z2GR'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/willie_and_allen.jpg
 biography_enhanced_at: '2025-11-08T21:56:55.638110'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- AllMusic artist page for Willie & Allen[2]
-- Spotify artist page for Willie & Allen[3]
+  - 'AllMusic artist page for Willie & Allen[2]'
+  - 'Spotify artist page for Willie & Allen[3]'
 network_extracted: true
 entry_created: '2025-11-08T21:56:55.638126'
 last_updated: '2025-12-23T08:16:18.157891'
+artist_type: band
 ---
 
 ![](willie_and_allen.jpg)

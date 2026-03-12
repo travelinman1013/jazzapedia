@@ -1,37 +1,39 @@
 ---
 biography_enhanced_at: '2025-12-27T01:29:21.176303'
-birth_place: Faust and Laurel, Mississippi, United States
+birth_place: 'Faust and Laurel, Mississippi, United States'
 enhancement_provider: perplexity
 entry_created: '2025-12-27T01:29:21.176329'
 external_urls:
-  spotify: https://open.spotify.com/artist/1suNQAd8mbr22cKN8C2cNY
+  spotify: 'https://open.spotify.com/artist/1suNQAd8mbr22cKN8C2cNY'
   wikipedia: ''
 genres:
-- country blues
+  - country blues
 image_path: ''
 last_updated: '2025-12-27T01:29:21.176331'
 musical_connections:
   collaborators:
-  - Walter Callahan
+    - Walter Callahan
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://country-music-archive.com/anniversaries/12-september-homer-callahan-callahan-brothers-death
-- http://oldtimeblues.net/2019/01/02/conqueror-8274-callahan-brothers-1934/
-- https://www.last.fm/music/Callahan+Brothers/+wiki
-- https://secondhandsongs.com/artist/61718/all
-- https://www.countrymusichalloffame.org/oral-history/bill-callahan
-- https://www.blueridgeheritage.com/artist/callahan-brothers/
+  - >-
+    https://country-music-archive.com/anniversaries/12-september-homer-callahan-callahan-brothers-death
+  - 'http://oldtimeblues.net/2019/01/02/conqueror-8274-callahan-brothers-1934/'
+  - 'https://www.last.fm/music/Callahan+Brothers/+wiki'
+  - 'https://secondhandsongs.com/artist/61718/all'
+  - 'https://www.countrymusichalloffame.org/oral-history/bill-callahan'
+  - 'https://www.blueridgeheritage.com/artist/callahan-brothers/'
 spotify_data:
   followers: 20
   id: 1suNQAd8mbr22cKN8C2cNY
   popularity: 0
-  url: https://open.spotify.com/artist/1suNQAd8mbr22cKN8C2cNY
+  url: 'https://open.spotify.com/artist/1suNQAd8mbr22cKN8C2cNY'
 status: active
-title: homer callahan
-
+title: Homer Callahan
+death_date: '2002-09-12'
+artist_type: band
 ---
 
 ![]()

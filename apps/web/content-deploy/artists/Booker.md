@@ -4,13 +4,13 @@ wiki_slug: booker-t-the-mgs
 schema_version: 2
 status: active
 aliases: []
-birth_place: Memphis, Tennessee, United States
+birth_place: 'Memphis, Tennessee, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Booker_T._and_the_M.G.s.jpg
   caption: Booker T. & the M.G.'s
   background: solo_singer
-  origin: Memphis, Tennessee, United States
+  origin: 'Memphis, Tennessee, United States'
 audio_profile:
   tempo_avg: 120.9
   energy_avg: 0.43
@@ -26,48 +26,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Steve Cropper
-  - Al Jackson Jr.
-  - Donald 'Duck' Dunn
-  - Otis Redding
-  - Albert King
-  - Willie Nelson
-  - Bill Withers
-  - Neil Young
-  - Bob Dylan
-  - Carlos Santana
-  - Barbra Streisand
+    - Steve Cropper
+    - Al Jackson Jr.
+    - Donald 'Duck' Dunn
+    - Otis Redding
+    - Albert King
+    - Willie Nelson
+    - Bill Withers
+    - Neil Young
+    - Bob Dylan
+    - Carlos Santana
+    - Barbra Streisand
   influenced:
-  - Earth, Wind & Fire
-  - The Blues Brothers
-  - Countless soul, R&B, and rock musicians
+    - 'Earth, Wind & Fire'
+    - The Blues Brothers
+    - 'Countless soul, R&B, and rock musicians'
   mentors:
-  - Jim Stewart
-  - Estelle Axton
+    - Jim Stewart
+    - Estelle Axton
 related_artists: []
 spotify_data:
   followers: 336185
   id: 2vDV0T8sxx2ENnKXds75e5
   popularity: 58
-  url: https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5
+  url: 'https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5'
   verified: false
 discography_enriched: true
 albums_count: 17
 singles_count: 3
 top_tracks:
-- Green Onions (Green Onions)
-- Green Onions
-- 'Time Is Tight (The Complete Stax / Volt Soul Singles, Vol. 2: 1968-1971)'
-- Green Onions - 2022 Remaster (Green Onions (60th Anniversary Remaster))
-- Behave Yourself (Green Onions)
-- Let's Go Get Stoned (Doin' Our Thing)
-- Soul Limbo (Soul Limbo)
-- Melting Pot (Melting Pot)
-- Soul Dressing (Soul Dressing)
-- Sunday Sermon
+  - Green Onions (Green Onions)
+  - Green Onions
+  - 'Time Is Tight (The Complete Stax / Volt Soul Singles, Vol. 2: 1968-1971)'
+  - Green Onions - 2022 Remaster (Green Onions (60th Anniversary Remaster))
+  - Behave Yourself (Green Onions)
+  - Let's Go Get Stoned (Doin' Our Thing)
+  - Soul Limbo (Soul Limbo)
+  - Melting Pot (Melting Pot)
+  - Soul Dressing (Soul Dressing)
+  - Sunday Sermon
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5
+  spotify: 'https://open.spotify.com/artist/2vDV0T8sxx2ENnKXds75e5'
   wikipedia: Not found in provided sources
 image_path: 03_Resources/source_material/ArtistPortraits/Booker_T._and_the_M.G.s.jpg
 biography_source: wikipedia
@@ -75,13 +75,16 @@ biography_enhanced_at: '2025-09-30T11:54:30.866163'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- staxrecords.com
-- bookert.com
-- jointzoftheday.substack.com
+  - staxrecords.com
+  - bookert.com
+  - jointzoftheday.substack.com
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 11:41:02.993316
+entry_created: 2025-09-18T11:41:02.993Z
 last_updated: '2025-12-23T08:16:01.308725'
+origin: 'Memphis, Tennessee, United States'
+birth_date: '1944-11-12'
+artist_type: person
 ---
 
 ![](Booker_T._and_the_M.G.s.jpg)

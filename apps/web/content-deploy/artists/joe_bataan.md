@@ -4,12 +4,12 @@ wiki_slug: joe-bataan
 schema_version: 2
 artist_type: person
 status: active
-birth_date: '1942-11-15'
-birth_place: East Harlem
+birth_date: '1942-11-05'
+birth_place: 'East Harlem, New York City, United States'
 genres:
-- latin jazz
+  - latin jazz
 instruments:
-- piano
+  - piano
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/joe_bataan.jpg
   caption: Joe Bataan
@@ -31,53 +31,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Latin Swingers
-  - Fania Records Artists (e.g., Willie Colón, Héctor Lavoe)
-  - Papo Felix, Paul Ortiz and Orquesta Son, Eddie Lebron
+    - The Latin Swingers
+    - 'Fania Records Artists (e.g., Willie Colón, Héctor Lavoe)'
+    - 'Papo Felix, Paul Ortiz and Orquesta Son, Eddie Lebron'
   influenced:
-  - Modern Latin Soul and Salsa Artists
-  - Early Hip-Hop Artists
+    - Modern Latin Soul and Salsa Artists
+    - Early Hip-Hop Artists
   mentors:
-  - Street Doo-Wop Groups
+    - Street Doo-Wop Groups
 spotify_data:
   followers: 65348
   id: 7ME0heqob2B32S9ofWhOyU
   popularity: 42
-  url: https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU
+  url: 'https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU'
 discography_enriched: true
 top_tracks:
-- I Wish You Love, Pt. 1 (Saint Latin's Day Massacre)
-- 'Gypsy Woman - Demo Version (Under The Streetlamps: Anthology 1967-72)'
-- Mujer Mia (2022 - Remaster) (Salsoul)
-- Rap-O Clap-O - 2013 - Remaster (Mestizo (Bonus Version))
-- The Prayer (Mr. New York And The East Side Kids)
-- My Cloud (Singin' Some Soul)
-- Mestizo (Original Album Version)
-- Call My Name (Call My Name)
-- Gypsy Woman (Gypsy Woman)
-- Mujer Mia (SalSoul (2013 - Remaster))
+  - 'I Wish You Love, Pt. 1 (Saint Latin''s Day Massacre)'
+  - 'Gypsy Woman - Demo Version (Under The Streetlamps: Anthology 1967-72)'
+  - Mujer Mia (2022 - Remaster) (Salsoul)
+  - Rap-O Clap-O - 2013 - Remaster (Mestizo (Bonus Version))
+  - The Prayer (Mr. New York And The East Side Kids)
+  - My Cloud (Singin' Some Soul)
+  - Mestizo (Original Album Version)
+  - Call My Name (Call My Name)
+  - Gypsy Woman (Gypsy Woman)
+  - Mujer Mia (SalSoul (2013 - Remaster))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/de7d54d7-0fce-4fb9-84f0-6fee794335d2
-  spotify: https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU
-  wikipedia: https://en.wikipedia.org/wiki/Joe_Bataan
+  musicbrainz: 'https://musicbrainz.org/artist/de7d54d7-0fce-4fb9-84f0-6fee794335d2'
+  spotify: 'https://open.spotify.com/artist/7ME0heqob2B32S9ofWhOyU'
+  wikipedia: 'https://en.wikipedia.org/wiki/Joe_Bataan'
 image_path: 03_Resources/source_material/ArtistPortraits/joe_bataan.jpg
 biography_enhanced_at: '2025-11-03T07:51:38.538659'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Joe_Bataan
-- https://fania.com/artist-essentials/joe-bataan/
-- https://www.joebataanmusic.com/biography/
-- https://www.latinrockinc.net/lrotd/joe-bataan
+  - 'https://en.wikipedia.org/wiki/Joe_Bataan'
+  - 'https://fania.com/artist-essentials/joe-bataan/'
+  - 'https://www.joebataanmusic.com/biography/'
+  - 'https://www.latinrockinc.net/lrotd/joe-bataan'
 network_extracted: true
 entry_created: '2025-11-03T07:51:38.538671'
 last_updated: '2025-12-23T08:16:10.563499'
 gender: Male
 musicbrainz_id: de7d54d7-0fce-4fb9-84f0-6fee794335d2
 tags:
-- latin
-- latin soul
-- salsa
+  - latin
+  - latin soul
+  - salsa
+origin: 'New York City, New York, United States'
 ---
 
 ![](joe_bataan.jpg)

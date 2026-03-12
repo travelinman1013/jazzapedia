@@ -4,34 +4,34 @@ wiki_slug: mick-clarke
 schema_version: 2
 artist_type: person
 status: active
-birth_place: London, England, United Kingdom
+birth_place: 'London, England, United Kingdom'
 genres:
-- blues rock
-- blues
-- modern blues
-- soul blues
+  - blues rock
+  - blues
+  - modern blues
+  - soul blues
 instruments:
-- electric guitar
-- slide guitar
-- lead vocals
+  - electric guitar
+  - slide guitar
+  - lead vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6ef59653-ec7d-45aa-a96e-c3a1927df998
-  name: The Mick Clarke Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1231a0ef-d610-4f5e-a2f6-0273db401500
-  name: Killing Floor
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6ef59653-ec7d-45aa-a96e-c3a1927df998
+    name: The Mick Clarke Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1231a0ef-d610-4f5e-a2f6-0273db401500
+    name: Killing Floor
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/mick_clarke.jpg
   caption: Mick Clarke
   background: solo_singer
-  origin: London, England, United Kingdom
+  origin: 'London, England, United Kingdom'
 audio_profile:
-  tempo_avg: 117.0
+  tempo_avg: 117
   energy_avg: 0.714
   valence_avg: 0.668
   danceability_avg: 0.536
@@ -45,53 +45,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Killing Floor
-  - Stevie Smith
-  - Lou Martin and Rod De'Ath
-  - The Mick Clarke Band
+    - Killing Floor
+    - Stevie Smith
+    - Lou Martin and Rod De'Ath
+    - The Mick Clarke Band
   influenced:
-  - British and European blues guitarists
+    - British and European blues guitarists
   mentors:
-  - Eric Clapton
-  - Freddie King
+    - Eric Clapton
+    - Freddie King
 spotify_data:
   followers: 10362
   id: 67mAkA5iBh0bWPJojt1AHt
   popularity: 31
-  url: https://open.spotify.com/artist/67mAkA5iBh0bWPJojt1AHt
+  url: 'https://open.spotify.com/artist/67mAkA5iBh0bWPJojt1AHt'
 discography_enriched: true
 top_tracks:
-- Walking in the Dark (Classic Cuts)
-- New Star over Texas (Classic Cuts)
-- Gypsy Blues (Roll Again)
-- Cheap (Classic Cuts)
-- Banker's Blues
-- Drink Muddy Water
-- Don't Go No Further!
-- In the Dark
-- Don't Start Me Talkin' (Mozelle)
-- Everything's Gonna Be Alright (Big Wheel)
+  - Walking in the Dark (Classic Cuts)
+  - New Star over Texas (Classic Cuts)
+  - Gypsy Blues (Roll Again)
+  - Cheap (Classic Cuts)
+  - Banker's Blues
+  - Drink Muddy Water
+  - Don't Go No Further!
+  - In the Dark
+  - Don't Start Me Talkin' (Mozelle)
+  - Everything's Gonna Be Alright (Big Wheel)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/fba554ab-56a0-4ab0-ba96-9ccb9ecebdff
-  spotify: https://open.spotify.com/artist/67mAkA5iBh0bWPJojt1AHt
-  wikipedia: https://en.wikipedia.org/wiki/Mick_Clarke
+  musicbrainz: 'https://musicbrainz.org/artist/fba554ab-56a0-4ab0-ba96-9ccb9ecebdff'
+  spotify: 'https://open.spotify.com/artist/67mAkA5iBh0bWPJojt1AHt'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mick_Clarke'
 image_path: 03_Resources/source_material/ArtistPortraits/mick_clarke.jpg
 biography_enhanced_at: '2025-10-30T11:53:56.165964'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://dereksmusicblog.com/2019/01/31/the-life-and-time-of-british-bluesman-mick-clark/
-- https://palebloomsandbeyond.wordpress.com/2023/11/16/mick-clarke-of-killing-floor-salt-the-mick-clarke-band/
-- https://www.rootsmusicreport.com/bands/view/23953/mick-clarke
-- https://www.old.barikada.com/rock_biografije/2006-07-01_mick_clarke.php
-- https://www.mickclarke.com/bio.htm
-- https://www.allmusic.com/artist/mick-clarke-mn0000407423
+  - >-
+    https://dereksmusicblog.com/2019/01/31/the-life-and-time-of-british-bluesman-mick-clark/
+  - >-
+    https://palebloomsandbeyond.wordpress.com/2023/11/16/mick-clarke-of-killing-floor-salt-the-mick-clarke-band/
+  - 'https://www.rootsmusicreport.com/bands/view/23953/mick-clarke'
+  - 'https://www.old.barikada.com/rock_biografije/2006-07-01_mick_clarke.php'
+  - 'https://www.mickclarke.com/bio.htm'
+  - 'https://www.allmusic.com/artist/mick-clarke-mn0000407423'
 network_extracted: true
 entry_created: '2025-10-30T11:53:56.165983'
 last_updated: '2025-12-23T08:16:13.088380'
-disambiguation: UK blues guitarist (Killing Floor, The Mick Clarke Band)
+disambiguation: 'UK blues guitarist (Killing Floor, The Mick Clarke Band)'
 gender: Male
 musicbrainz_id: fba554ab-56a0-4ab0-ba96-9ccb9ecebdff
+birth_date: '1950-07-12'
 ---
 
 ![](mick_clarke.jpg)

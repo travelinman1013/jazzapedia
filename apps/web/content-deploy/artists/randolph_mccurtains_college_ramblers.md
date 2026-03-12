@@ -1,12 +1,13 @@
 ---
-title: RANDOLPH McCURTAIN'S COLLEGE RAMBLERS
+title: Randolph McCurtain's College Ramblers
 wiki_slug: randolph-mccurtains-college-ramblers
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/randolph_mccurtains_college_ramblers.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/randolph_mccurtains_college_ramblers.jpg
   caption: RANDOLPH McCURTAIN'S COLLEGE RAMBLERS
   background: group_or_band
 audio_profile:
@@ -24,38 +25,38 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Frank Guarente & His Georgians
+    - Frank Guarente & His Georgians
   influenced: []
   mentors: []
 spotify_data:
   followers: 1
   id: 6qjlroWUa6Xth7c0aQL9BK
   popularity: 0
-  url: https://open.spotify.com/artist/6qjlroWUa6Xth7c0aQL9BK
+  url: 'https://open.spotify.com/artist/6qjlroWUa6Xth7c0aQL9BK'
 discography_enriched: true
 top_tracks:
-- Sweet Girl Mary (Jazz in Texas 1924-1930)
-- Sweet Girl Mary (Dallas Rhythm)
-- Low Down Brown (Dallas Rhythm)
-- Sweet Girl Mary (Jazz In Texas 1924-1930)
+  - Sweet Girl Mary (Jazz in Texas 1924-1930)
+  - Sweet Girl Mary (Dallas Rhythm)
+  - Low Down Brown (Dallas Rhythm)
+  - Sweet Girl Mary (Jazz In Texas 1924-1930)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c832e49e-753d-4185-9acf-087bd02fff4d
-  spotify: https://open.spotify.com/artist/6qjlroWUa6Xth7c0aQL9BK
+  musicbrainz: 'https://musicbrainz.org/artist/c832e49e-753d-4185-9acf-087bd02fff4d'
+  spotify: 'https://open.spotify.com/artist/6qjlroWUa6Xth7c0aQL9BK'
   wikipedia: Not found in search results
 image_path: ''
 biography_enhanced_at: '2025-12-04T07:23:18.164620'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- YouTube - Randolph McCurtain's College Ramblers Sweet Girl Mary (1925)
-- WWOZ New Orleans 90.7 FM - Jazz in Texas program playlist
-- Ancestry.com - McCurtain family records
+  - YouTube - Randolph McCurtain's College Ramblers Sweet Girl Mary (1925)
+  - WWOZ New Orleans 90.7 FM - Jazz in Texas program playlist
+  - Ancestry.com - McCurtain family records
 network_extracted: true
 entry_created: '2025-12-04T07:23:18.164632'
 last_updated: '2025-12-23T08:16:14.632034'
 disambiguation: 1920s-1930s Texas Jazz Orchestra
 musicbrainz_id: c832e49e-753d-4185-9acf-087bd02fff4d
-origin: Oklahoma, United States (based on Oklahoma College Ramblers reference)
+origin: 'Oklahoma, United States (based on Oklahoma College Ramblers reference)'
 ---
 
 ![]()

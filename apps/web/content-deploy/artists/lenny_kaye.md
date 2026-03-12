@@ -1,16 +1,16 @@
 ---
-title: lenny kaye
+title: Lenny Kaye
 wiki_slug: lenny-kaye
 schema_version: 2
 status: active
-birth_place: Brooklyn, New York, United States
+birth_place: 'Brooklyn, New York, United States'
 genres:
-- spoken word
+  - spoken word
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lenny_kaye.jpg
   caption: lenny kaye
   background: solo_singer
-  origin: Brooklyn, New York, United States
+  origin: 'Brooklyn, New York, United States'
 audio_profile:
   tempo_avg: 119.9
   energy_avg: 0.671
@@ -26,49 +26,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Patti Smith
-  - Ivan Král
-  - Jim Carroll
+    - Patti Smith
+    - Ivan Král
+    - Jim Carroll
   influenced:
-  - Garage rock and punk musicians
-  - Music journalists and historians
+    - Garage rock and punk musicians
+    - Music journalists and historians
   mentors:
-  - His father
-  - The Beatles
+    - His father
+    - The Beatles
 spotify_data:
   followers: 1199
   id: 0eoGWjtUjl9EaMWs1ZFqs5
   popularity: 14
-  url: https://open.spotify.com/artist/0eoGWjtUjl9EaMWs1ZFqs5
+  url: 'https://open.spotify.com/artist/0eoGWjtUjl9EaMWs1ZFqs5'
 discography_enriched: true
 top_tracks:
-- Comin' Home Baby (feat. Lenny Kaye) (Brooklyn Sound Solution (feat. Lenny Kaye))
-- Ballad of the Skeletons (The Ballad Of The Skeletons)
-- As The Night Goes By (Dream Of Life)
-- Ballad of the Skeletons - Edit (The Ballad Of The Skeletons)
-- Lenny's Theme (Spirit Tree)
-- I Can't Hide (feat. Lenny Kaye) (Brooklyn Sound Solution (feat. Lenny Kaye))
-- Day Tripper (feat. Lenny Kaye) (Brooklyn Sound Solution (feat. Lenny Kaye))
-- 'Solution #1 (feat. Lenny Kaye) (Brooklyn Sound Solution (feat. Lenny Kaye))'
-- Rats in My Kitchen (feat. Lenny Kaye) (Brooklyn Sound Solution (feat. Lenny Kaye))
-- 'Sacramento & Polk (Por Vida: A Tribute to the Songs of Alejandro Escovedo)'
+  - >-
+    Comin' Home Baby (feat. Lenny Kaye) (Brooklyn Sound Solution (feat. Lenny
+    Kaye))
+  - Ballad of the Skeletons (The Ballad Of The Skeletons)
+  - As The Night Goes By (Dream Of Life)
+  - Ballad of the Skeletons - Edit (The Ballad Of The Skeletons)
+  - Lenny's Theme (Spirit Tree)
+  - I Can't Hide (feat. Lenny Kaye) (Brooklyn Sound Solution (feat. Lenny Kaye))
+  - Day Tripper (feat. Lenny Kaye) (Brooklyn Sound Solution (feat. Lenny Kaye))
+  - 'Solution #1 (feat. Lenny Kaye) (Brooklyn Sound Solution (feat. Lenny Kaye))'
+  - >-
+    Rats in My Kitchen (feat. Lenny Kaye) (Brooklyn Sound Solution (feat. Lenny
+    Kaye))
+  - 'Sacramento & Polk (Por Vida: A Tribute to the Songs of Alejandro Escovedo)'
 external_urls:
-  spotify: https://open.spotify.com/artist/0eoGWjtUjl9EaMWs1ZFqs5
-  wikipedia: https://en.wikipedia.org/wiki/Lenny_Kaye
+  spotify: 'https://open.spotify.com/artist/0eoGWjtUjl9EaMWs1ZFqs5'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lenny_Kaye'
 image_path: 03_Resources/source_material/ArtistPortraits/lenny_kaye.jpg
 biography_enhanced_at: '2025-11-08T22:06:21.645406'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.amny.com/entertainment/arts-entertainment/lenny-kaye-patti-smith-village-music/
-- https://www.starregistry.com/name-a-star/k/lenny-kaye-blog/
-- https://www.imdb.com/name/nm0443339/bio/
-- https://devorahostrov.blogspot.com/2018/08/lenny-kaye-from-nuggets-to-doc-rock-to.html
-- https://southwestreview.com/the-ecology-of-a-scene-a-conversation-with-lenny-kaye/
-- https://forward.com/culture/music/639930/lenny-kaye-patti-smith-profile-jewish-legend-nuggets/
+  - >-
+    https://www.amny.com/entertainment/arts-entertainment/lenny-kaye-patti-smith-village-music/
+  - 'https://www.starregistry.com/name-a-star/k/lenny-kaye-blog/'
+  - 'https://www.imdb.com/name/nm0443339/bio/'
+  - >-
+    https://devorahostrov.blogspot.com/2018/08/lenny-kaye-from-nuggets-to-doc-rock-to.html
+  - >-
+    https://southwestreview.com/the-ecology-of-a-scene-a-conversation-with-lenny-kaye/
+  - >-
+    https://forward.com/culture/music/639930/lenny-kaye-patti-smith-profile-jewish-legend-nuggets/
 network_extracted: true
 entry_created: '2025-11-08T22:06:21.645420'
 last_updated: '2025-12-23T08:16:11.770017'
+birth_date: '1946-12-27'
+artist_type: person
 ---
 
 ![](lenny_kaye.jpg)

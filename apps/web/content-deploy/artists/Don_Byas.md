@@ -2,24 +2,24 @@
 title: Don Byas
 wiki_slug: don-byas
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1912-10-21'
-birth_place: Muskogee, Oklahoma, United States
+birth_place: 'Muskogee, Oklahoma, United States'
 death_date: '1972-08-24'
 genres:
-- bebop
-- jazz
-- hard bop
-- cool jazz
+  - bebop
+  - jazz
+  - hard bop
+  - cool jazz
 instruments:
-- tenor saxophone
+  - tenor saxophone
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Don_Byas.jpg
   caption: Don Byas
   background: non_vocal_instrumentalist
   born: '1912-10-21'
-  origin: Muskogee, Oklahoma, United States
+  origin: 'Muskogee, Oklahoma, United States'
   died: '1972-08-24'
 audio_profile:
   tempo_avg: 98.7
@@ -36,52 +36,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Count Basie
-  - Dizzy Gillespie
-  - Charlie Parker
-  - Slam Stewart
-  - Don Redman
-  - Art Blakey
-  - Kenny Clarke
+    - Count Basie
+    - Dizzy Gillespie
+    - Charlie Parker
+    - Slam Stewart
+    - Don Redman
+    - Art Blakey
+    - Kenny Clarke
   influenced:
-  - John Coltrane
-  - Dexter Gordon
-  - Sonny Rollins
+    - John Coltrane
+    - Dexter Gordon
+    - Sonny Rollins
   mentors:
-  - Coleman Hawkins
-  - Benny Carter
-  - Art Tatum
+    - Coleman Hawkins
+    - Benny Carter
+    - Art Tatum
 spotify_data:
   followers: 9664
   id: 71M7lckOooBtdsLfD1qqqa
   popularity: 29
-  url: https://open.spotify.com/artist/71M7lckOooBtdsLfD1qqqa
+  url: 'https://open.spotify.com/artist/71M7lckOooBtdsLfD1qqqa'
 discography_enriched: true
 top_tracks:
-- Misty (Amoureusement Vôtre)
-- Georgia On My Mind (Laura)
-- Laura (Laura)
-- 'Old Folks (Savoy Jam Party: The Savoy Sessions)'
-- 'Candy (Savoy Jam Party: The Savoy Sessions)'
-- Night And Day (Laura)
-- Embraceable You (Sax Serenade)
-- Summertime (Laura)
-- 'September In The Rain (Savoy Jam Party: The Savoy Sessions)'
-- Stormy Weather (2000 - Remaster) (Laura)
+  - Misty (Amoureusement Vôtre)
+  - Georgia On My Mind (Laura)
+  - Laura (Laura)
+  - 'Old Folks (Savoy Jam Party: The Savoy Sessions)'
+  - 'Candy (Savoy Jam Party: The Savoy Sessions)'
+  - Night And Day (Laura)
+  - Embraceable You (Sax Serenade)
+  - Summertime (Laura)
+  - 'September In The Rain (Savoy Jam Party: The Savoy Sessions)'
+  - Stormy Weather (2000 - Remaster) (Laura)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4554ec28-0e97-45f1-ad3d-696a48326f1c
-  spotify: https://open.spotify.com/artist/71M7lckOooBtdsLfD1qqqa
-  wikipedia: https://en.wikipedia.org/wiki/Don_Byas
+  musicbrainz: 'https://musicbrainz.org/artist/4554ec28-0e97-45f1-ad3d-696a48326f1c'
+  spotify: 'https://open.spotify.com/artist/71M7lckOooBtdsLfD1qqqa'
+  wikipedia: 'https://en.wikipedia.org/wiki/Don_Byas'
 image_path: 03_Resources/source_material/ArtistPortraits/Don_Byas.jpg
 biography_enhanced_at: '2025-10-20T01:39:23.440723'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Don_Byas
-- https://www.selmer.fr/en/blogs/artistes/don-byas
-- https://www.britannica.com/biography/Don-Byas
-- https://tulsajazz.wordpress.com/2012/01/28/don-byas/
-- https://syncopatedtimes.com/classic-don-byas-sessions-1944-1946/
+  - 'https://en.wikipedia.org/wiki/Don_Byas'
+  - 'https://www.selmer.fr/en/blogs/artistes/don-byas'
+  - 'https://www.britannica.com/biography/Don-Byas'
+  - 'https://tulsajazz.wordpress.com/2012/01/28/don-byas/'
+  - 'https://syncopatedtimes.com/classic-don-byas-sessions-1944-1946/'
 network_extracted: true
 entry_created: '2025-10-20T01:39:23.440728'
 last_updated: '2025-12-23T08:16:01.752090'
@@ -89,9 +89,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:24:38.786766'
 musicbrainz_id: 4554ec28-0e97-45f1-ad3d-696a48326f1c
 tags:
-- bebop
-- jazz
-- swing
+  - bebop
+  - jazz
+  - swing
+is_active: false
 ---
 
 ![](Don_Byas.jpg)

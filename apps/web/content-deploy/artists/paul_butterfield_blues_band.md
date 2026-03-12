@@ -1,12 +1,12 @@
 ---
-title: paul butterfield blues band
+title: The Paul Butterfield Blues Band
 wiki_slug: paul-butterfield-blues-band
 schema_version: 2
 status: active
 genres:
-- blues
-- blues rock
-- classic blues
+  - blues
+  - blues rock
+  - classic blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/paul_butterfield_blues_band.jpg
   caption: paul butterfield blues band
@@ -26,52 +26,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mike Bloomfield
-  - Elvin Bishop
-  - Mark Naftalin
-  - Bob Dylan
-  - David Sanborn
+    - Mike Bloomfield
+    - Elvin Bishop
+    - Mark Naftalin
+    - Bob Dylan
+    - David Sanborn
   influenced:
-  - The Blues Brothers
-  - Eric Clapton
-  - David Sanborn
+    - The Blues Brothers
+    - Eric Clapton
+    - David Sanborn
   mentors:
-  - Muddy Waters
-  - Howlin’ Wolf
-  - Little Walter Jacobs
+    - Muddy Waters
+    - Howlin’ Wolf
+    - Little Walter Jacobs
 spotify_data:
   followers: 116554
   id: 6kz7WuPaUa4QVreP27I33i
   popularity: 33
-  url: https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i
+  url: 'https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i'
 discography_enriched: true
 top_tracks:
-- One Night Stand
-- Born in Chicago (The Paul Butterfield Blues Band)
-- I Got My Mojo Working (The Paul Butterfield Blues Band)
-- Walkin' Blues (East West)
-- Born In Chicago (Blues Brothers 2000)
-- I Got a Mind to Give up Living (East West)
-- Shake Your Money-Maker (The Paul Butterfield Blues Band)
-- Blues with a Feeling (The Paul Butterfield Blues Band)
-- Mystery Train (The Paul Butterfield Blues Band)
-- One More Headache (The Resurrection Of Pigboy Crabshaw)
+  - One Night Stand
+  - Born in Chicago (The Paul Butterfield Blues Band)
+  - I Got My Mojo Working (The Paul Butterfield Blues Band)
+  - Walkin' Blues (East West)
+  - Born In Chicago (Blues Brothers 2000)
+  - I Got a Mind to Give up Living (East West)
+  - Shake Your Money-Maker (The Paul Butterfield Blues Band)
+  - Blues with a Feeling (The Paul Butterfield Blues Band)
+  - Mystery Train (The Paul Butterfield Blues Band)
+  - One More Headache (The Resurrection Of Pigboy Crabshaw)
 external_urls:
-  spotify: https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i
-  wikipedia: https://en.wikipedia.org/wiki/Paul_Butterfield
+  spotify: 'https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i'
+  wikipedia: 'https://en.wikipedia.org/wiki/Paul_Butterfield'
 image_path: 03_Resources/source_material/ArtistPortraits/paul_butterfield_blues_band.jpg
 biography_enhanced_at: '2025-11-06T13:28:33.856658'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://blues.org/blues_hof_inductee/paul-butterfield-blues-band-paul-butterfield-blues-band-elektra-1965/
-- https://en.wikipedia.org/wiki/Paul_Butterfield
-- https://www.ebsco.com/research-starters/history/paul-butterfield
-- https://www.harmonica.com/paul-butterfield/
+  - >-
+    https://blues.org/blues_hof_inductee/paul-butterfield-blues-band-paul-butterfield-blues-band-elektra-1965/
+  - 'https://en.wikipedia.org/wiki/Paul_Butterfield'
+  - 'https://www.ebsco.com/research-starters/history/paul-butterfield'
+  - 'https://www.harmonica.com/paul-butterfield/'
 network_extracted: true
 entry_created: '2025-11-06T13:28:33.856678'
 last_updated: '2025-12-23T08:16:14.056037'
-origin: Chicago, Illinois, United States
+origin: 'Chicago, Illinois, United States'
+artist_type: band
 ---
 
 ![](paul_butterfield_blues_band.jpg)

@@ -4,7 +4,7 @@ wiki_slug: the-last-poets
 schema_version: 2
 status: active
 genres:
-- spoken word
+  - spoken word
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_last_poets.jpg
   caption: The Last Poets
@@ -24,59 +24,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Abiodun Oyewole
-  - David Nelson (Dahveed Ben Israel / Dahveed Nelson)
-  - Gylan Kain
-  - Felipe Luciano
-  - Jalal Mansur Nuriddin (also known as Alafia Pudim)
-  - Umar Bin Hassan
-  - Suliaman (Sulaiman) El‑Hadi
-  - Nilaja Obabi (Nilija)
-  - Baba Don (Baba Donn Babatunde)
-  - Alan Douglas
+    - Abiodun Oyewole
+    - David Nelson (Dahveed Ben Israel / Dahveed Nelson)
+    - Gylan Kain
+    - Felipe Luciano
+    - Jalal Mansur Nuriddin (also known as Alafia Pudim)
+    - Umar Bin Hassan
+    - Suliaman (Sulaiman) El‑Hadi
+    - Nilaja Obabi (Nilija)
+    - Baba Don (Baba Donn Babatunde)
+    - Alan Douglas
   influenced:
-  - Grandfather generation of hip‑hop and rap artists (various)
+    - Grandfather generation of hip‑hop and rap artists (various)
   mentors:
-  - Keorapetse Kgositsile (also cited as Little Willie Kgostile)
-  - Malcolm X
-  - Black nationalist and civil rights movements
+    - Keorapetse Kgositsile (also cited as Little Willie Kgostile)
+    - Malcolm X
+    - Black nationalist and civil rights movements
 spotify_data:
   followers: 35454
   id: 58Wl2AJZWwfvEn2eAWJbIG
   popularity: 33
-  url: https://open.spotify.com/artist/58Wl2AJZWwfvEn2eAWJbIG
+  url: 'https://open.spotify.com/artist/58Wl2AJZWwfvEn2eAWJbIG'
 discography_enriched: true
 top_tracks:
-- The Corner (Be)
-- The Corner
-- The Corner - Last Poet Reprise
-- When the Revolution Comes (The Last Poets)
-- You Can't Stop Us Now (Nas)
-- You Can't Stop Us Now (Nas)
-- This Is Madness (Africanism)
-- Understand What Black Is (Understand What Black Is)
-- The Corner (Be)
-- Niggers Are Scared of Revolution (The Last Poets)
+  - The Corner (Be)
+  - The Corner
+  - The Corner - Last Poet Reprise
+  - When the Revolution Comes (The Last Poets)
+  - You Can't Stop Us Now (Nas)
+  - You Can't Stop Us Now (Nas)
+  - This Is Madness (Africanism)
+  - Understand What Black Is (Understand What Black Is)
+  - The Corner (Be)
+  - Niggers Are Scared of Revolution (The Last Poets)
 external_urls:
-  spotify: https://open.spotify.com/artist/58Wl2AJZWwfvEn2eAWJbIG
-  wikipedia: https://en.wikipedia.org/wiki/The_Last_Poets
+  spotify: 'https://open.spotify.com/artist/58Wl2AJZWwfvEn2eAWJbIG'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Last_Poets'
 image_path: 03_Resources/source_material/ArtistPortraits/the_last_poets.jpg
 biography_enhanced_at: '2025-12-08T04:49:42.711331'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- The Last Poets Biography – Hip Hop Scriptures[1]
-- Official site biography – thelastpoets.net[2]
-- Poetry Foundation entry on The Last Poets[3]
-- Encyclopaedia Britannica article on The Last Poets[4]
-- Official site about page – thelastpoets.com[5]
-- University at Buffalo Last Poets resource[6]
-- BlackPast.org entry on The Last Poets[7]
-- TeachRock profile on The Last Poets[8]
+  - 'The Last Poets Biography – Hip Hop Scriptures[1]'
+  - 'Official site biography – thelastpoets.net[2]'
+  - 'Poetry Foundation entry on The Last Poets[3]'
+  - 'Encyclopaedia Britannica article on The Last Poets[4]'
+  - 'Official site about page – thelastpoets.com[5]'
+  - 'University at Buffalo Last Poets resource[6]'
+  - 'BlackPast.org entry on The Last Poets[7]'
+  - 'TeachRock profile on The Last Poets[8]'
 network_extracted: true
 entry_created: '2025-12-08T04:49:42.711338'
 last_updated: '2025-12-23T08:16:16.906673'
-origin: East Harlem, New York City, New York, United States
+origin: 'East Harlem, New York City, New York, United States'
+artist_type: band
 ---
 
 ![](the_last_poets.jpg)

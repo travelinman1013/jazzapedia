@@ -1,23 +1,23 @@
 ---
-title: BIG CHIEF ELLIS
+title: Big Chief Ellis
 wiki_slug: big-chief-ellis
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1914-11-10'
-birth_place: Birmingham, Alabama, United States
+birth_place: 'Birmingham, Alabama, United States'
 death_date: '1977-12-20'
 genres:
-- blues
-- classic blues
+  - blues
+  - classic blues
 instruments:
-- piano
+  - piano
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/big_chief_ellis.jpg
   caption: BIG CHIEF ELLIS
   background: non_vocal_instrumentalist
   born: '1914-11-10'
-  origin: Birmingham, Alabama, United States
+  origin: 'Birmingham, Alabama, United States'
   died: '1977-12-20'
 audio_profile:
   tempo_avg: 89.4
@@ -34,45 +34,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sonny Terry
-  - Brownie McGhee
-  - Tarheel Slim
-  - John Cephas
+    - Sonny Terry
+    - Brownie McGhee
+    - Tarheel Slim
+    - John Cephas
   influenced:
-  - John Cephas
+    - John Cephas
   mentors:
-  - Local Birmingham blues pianists
+    - Local Birmingham blues pianists
 spotify_data:
   followers: 69
   id: 1wVEYaqTmGsl3i7np7xQjW
   popularity: 0
-  url: https://open.spotify.com/artist/1wVEYaqTmGsl3i7np7xQjW
+  url: 'https://open.spotify.com/artist/1wVEYaqTmGsl3i7np7xQjW'
 discography_enriched: true
 top_tracks:
-- Dices Blues (Classic Piano Blues from Smithsonian Folkways)
-- Louise Blues (Classic Appalachian Blues from Smithsonian Folkways)
-- Dices, Dices (She Squeezed My Lemon)
-- Dices, Dices (She Squeezed My Lemon)
+  - Dices Blues (Classic Piano Blues from Smithsonian Folkways)
+  - Louise Blues (Classic Appalachian Blues from Smithsonian Folkways)
+  - 'Dices, Dices (She Squeezed My Lemon)'
+  - 'Dices, Dices (She Squeezed My Lemon)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/cbf15c99-f910-4acd-9c08-1e643c3ef046
-  spotify: https://open.spotify.com/artist/1wVEYaqTmGsl3i7np7xQjW
-  wikipedia: https://en.wikipedia.org/wiki/Big_Chief_Ellis
+  musicbrainz: 'https://musicbrainz.org/artist/cbf15c99-f910-4acd-9c08-1e643c3ef046'
+  spotify: 'https://open.spotify.com/artist/1wVEYaqTmGsl3i7np7xQjW'
+  wikipedia: 'https://en.wikipedia.org/wiki/Big_Chief_Ellis'
 image_path: ''
 biography_enhanced_at: '2025-11-11T09:23:27.968425'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Big_Chief_Ellis
-- https://www.bhamwiki.com/w/Big_Chief_Ellis
-- https://www.allmusic.com/artist/big-chief-ellis-mn0000055445
-- https://www.iheart.com/artist/big-chief-ellis-35421255/
-- https://peterblowry.com/2015/06/11/trix-3316-big-chief-ellis/
+  - 'https://en.wikipedia.org/wiki/Big_Chief_Ellis'
+  - 'https://www.bhamwiki.com/w/Big_Chief_Ellis'
+  - 'https://www.allmusic.com/artist/big-chief-ellis-mn0000055445'
+  - 'https://www.iheart.com/artist/big-chief-ellis-35421255/'
+  - 'https://peterblowry.com/2015/06/11/trix-3316-big-chief-ellis/'
 network_extracted: true
 entry_created: '2025-11-11T09:23:27.968429'
 last_updated: '2025-12-23T08:16:05.427092'
 gender: Male
 musicbrainz_id: cbf15c99-f910-4acd-9c08-1e643c3ef046
-
+is_active: false
+origin: 'Birmingham, Alabama, United States'
 ---
 
 ![]()

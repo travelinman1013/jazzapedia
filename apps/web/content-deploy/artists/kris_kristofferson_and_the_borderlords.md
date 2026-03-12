@@ -1,42 +1,46 @@
 ---
 biography_enhanced_at: '2026-01-19T01:09:23.837687'
-birth_place: Brownsville, Texas, United States
+birth_place: 'Brownsville, Texas, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-19T01:09:23.837693'
 external_urls:
-  spotify: https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX
-  wikipedia: https://en.wikipedia.org/wiki/Kris_Kristofferson
+  spotify: 'https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kris_Kristofferson'
 genres:
-- outlaw country
-- classic country
-- country
-image_path: 03_Resources/source_material/ArtistPortraits/kris_kristofferson_and_the_borderlords.jpg
+  - outlaw country
+  - classic country
+  - country
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/kris_kristofferson_and_the_borderlords.jpg
 last_updated: '2026-01-19T01:09:23.837694'
 musical_connections:
   collaborators:
-  - The Borderlords
-  - Johnny Cash
-  - Willie Nelson
-  - Waylon Jennings
+    - The Borderlords
+    - Johnny Cash
+    - Willie Nelson
+    - Waylon Jennings
   influenced: []
   mentors:
-  - Chet Atkins
+    - Chet Atkins
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.biography.com/musicians/kris-kristofferson
-- https://www.britannica.com/biography/Kris-Kristofferson
-- https://en.wikipedia.org/wiki/Kris_Kristofferson
-- https://www.visitmusiccity.com/walk-of-fame/stars/kris-kristofferson
-- https://sandiegotroubadour.com/12540/
-- https://kriskristofferson.com/biography/
+  - 'https://www.biography.com/musicians/kris-kristofferson'
+  - 'https://www.britannica.com/biography/Kris-Kristofferson'
+  - 'https://en.wikipedia.org/wiki/Kris_Kristofferson'
+  - 'https://www.visitmusiccity.com/walk-of-fame/stars/kris-kristofferson'
+  - 'https://sandiegotroubadour.com/12540/'
+  - 'https://kriskristofferson.com/biography/'
 spotify_data:
   followers: 715534
   id: 0vYQRW5LIDeYQOccTviQNX
   popularity: 64
-  url: https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX
+  url: 'https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX'
 status: active
 title: Kris Kristofferson & The Borderlords
+birth_date: '1936-06-22'
+death_date: '2024-09-28'
+artist_type: band
 ---
 
 ![](kris_kristofferson_and_the_borderlords.jpg)

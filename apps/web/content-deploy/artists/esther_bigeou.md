@@ -1,26 +1,26 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 92c33e97-f4df-487d-bba7-1670b831a695
-  name: Clarence Williams and His Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 45bce577-5296-40fd-8a84-360580c64369
-  name: Piron's New Orleans Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 92c33e97-f4df-487d-bba7-1670b831a695
+    name: Clarence Williams and His Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 45bce577-5296-40fd-8a84-360580c64369
+    name: Piron's New Orleans Orchestra
 biography_enhanced_at: '2026-01-03T01:45:49.160834'
 birth_date: '1895'
-birth_place: New Orleans
+birth_place: 'New Orleans, Louisiana, United States'
 death_date: '1936'
 enhancement_provider: perplexity
 entry_created: '2026-01-03T01:45:49.160845'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/401fa4c5-7ec7-4ea2-af0e-89d53e2295f7
-  spotify: https://open.spotify.com/artist/6KFRERacw058YGCoTfBNU8
-  wikipedia: https://en.wikipedia.org/wiki/Esther_Bigeou
+  musicbrainz: 'https://musicbrainz.org/artist/401fa4c5-7ec7-4ea2-af0e-89d53e2295f7'
+  spotify: 'https://open.spotify.com/artist/6KFRERacw058YGCoTfBNU8'
+  wikipedia: 'https://en.wikipedia.org/wiki/Esther_Bigeou'
 gender: Female
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/esther_bigeou.jpg
@@ -33,17 +33,18 @@ musicbrainz_id: 401fa4c5-7ec7-4ea2-af0e-89d53e2295f7
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Esther_Bigeou[3]
-- https://blinddogradio.blogspot.com/2020/12/esther-bigeou.html[1]
-- https://syncopatedtimes.com/esther-bigeou-1895-1936/[5]
-- https://www.allmusic.com/artist/esther-bigeou-mn0000168679[7]
+  - 'https://en.wikipedia.org/wiki/Esther_Bigeou[3]'
+  - 'https://blinddogradio.blogspot.com/2020/12/esther-bigeou.html[1]'
+  - 'https://syncopatedtimes.com/esther-bigeou-1895-1936/[5]'
+  - 'https://www.allmusic.com/artist/esther-bigeou-mn0000168679[7]'
 spotify_data:
   followers: 12
   id: 6KFRERacw058YGCoTfBNU8
   popularity: 15
-  url: https://open.spotify.com/artist/6KFRERacw058YGCoTfBNU8
+  url: 'https://open.spotify.com/artist/6KFRERacw058YGCoTfBNU8'
 status: active
-title: esther bigeou
+title: Esther Bigeou
+is_active: false
 ---
 
 ![](esther_bigeou.jpg)

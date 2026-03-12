@@ -1,26 +1,26 @@
 ---
-title: ARIANA GRANDE
+title: Ariana Grande
 wiki_slug: ariana-grande
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1993-06-26'
-birth_place: Boca Raton
+birth_place: 'Boca Raton, Florida, United States'
 genres:
-- pop
+  - pop
 instruments:
-- original
-- lead vocals
-- background vocals
-- spoken vocals
-- other vocals
-associated_acts:
-- begin: '2010-03-27'
-  end: '2013-02-02'
-  instruments:
   - original
-  mbid: 19c682b6-31cc-41fa-bf6e-1796f2a1e778
-  name: Victorious Cast
+  - lead vocals
+  - background vocals
+  - spoken vocals
+  - other vocals
+associated_acts:
+  - begin: '2010-03-27'
+    end: '2013-02-02'
+    instruments:
+      - original
+    mbid: 19c682b6-31cc-41fa-bf6e-1796f2a1e778
+    name: Victorious Cast
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ariana_grande.jpg
   caption: ARIANA GRANDE
@@ -33,7 +33,7 @@ audio_profile:
   valence_avg: 0.486
   danceability_avg: 0.629
   acousticness_avg: 0.233
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -6.4
   speechiness_avg: 0.095
   liveness_avg: 0.166
@@ -42,58 +42,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Nicki Minaj
-  - The Weeknd
-  - Lady Gaga
-  - Mac Miller
-  - Producers Max Martin and Ilya Salmanzadeh
+    - Nicki Minaj
+    - The Weeknd
+    - Lady Gaga
+    - Mac Miller
+    - Producers Max Martin and Ilya Salmanzadeh
   influenced:
-  - Billie Eilish
-  - Olivia Rodrigo
-  - Emerging pop and TikTok vocalists
+    - Billie Eilish
+    - Olivia Rodrigo
+    - Emerging pop and TikTok vocalists
   mentors:
-  - Mariah Carey
-  - Whitney Houston
-  - Broadway and musical-theatre tradition
+    - Mariah Carey
+    - Whitney Houston
+    - Broadway and musical-theatre tradition
 spotify_data:
   followers: 108396838
   id: 66CXWjxzNUsdJxJ2JdwvnR
   popularity: 95
-  url: https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR
+  url: 'https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR'
 discography_enriched: true
 top_tracks:
-- we can't be friends (wait for your love) (eternal sunshine)
-- One Last Time (My Everything (Deluxe))
-- 7 rings (thank u, next)
-- the boy is mine (eternal sunshine)
-- intro (end of the world) (eternal sunshine)
-- we can't be friends (wait for your love)
-- Into You (Dangerous Woman)
-- Love Me Harder (My Everything (Deluxe))
-- 'Defying Gravity (Wicked: The Soundtrack)'
-- Dangerous Woman (Dangerous Woman)
+  - we can't be friends (wait for your love) (eternal sunshine)
+  - One Last Time (My Everything (Deluxe))
+  - '7 rings (thank u, next)'
+  - the boy is mine (eternal sunshine)
+  - intro (end of the world) (eternal sunshine)
+  - we can't be friends (wait for your love)
+  - Into You (Dangerous Woman)
+  - Love Me Harder (My Everything (Deluxe))
+  - 'Defying Gravity (Wicked: The Soundtrack)'
+  - Dangerous Woman (Dangerous Woman)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387
-  spotify: https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR
-  wikipedia: https://en.wikipedia.org/wiki/Ariana_Grande
+  musicbrainz: 'https://musicbrainz.org/artist/f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387'
+  spotify: 'https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ariana_Grande'
 image_path: 03_Resources/source_material/ArtistPortraits/ariana_grande.jpg
 biography_enhanced_at: '2025-12-16T04:01:04.253356'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.biography.com/musicians/ariana-grande
-- https://www.britannica.com/biography/Ariana-Grande
-- https://www.imdb.com/name/nm3812858/bio/
-- https://arianagrande.fandom.com/wiki/Ariana_Grande
+  - 'https://www.biography.com/musicians/ariana-grande'
+  - 'https://www.britannica.com/biography/Ariana-Grande'
+  - 'https://www.imdb.com/name/nm3812858/bio/'
+  - 'https://arianagrande.fandom.com/wiki/Ariana_Grande'
 network_extracted: true
 entry_created: '2025-12-16T04:01:04.253366'
 last_updated: '2025-12-23T08:16:04.911799'
 gender: Female
 musicbrainz_id: f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387
 tags:
-- contemporary r&b
-- dance-pop
-- pop
+  - contemporary r&b
+  - dance-pop
+  - pop
 ---
 
 ![](ariana_grande.jpg)

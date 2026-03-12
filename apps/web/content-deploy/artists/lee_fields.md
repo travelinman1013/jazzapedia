@@ -1,48 +1,50 @@
 ---
 biography_enhanced_at: '2026-01-02T01:26:51.085343'
-birth_place: Wilson, North Carolina, USA
+birth_place: 'Wilson, North Carolina, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-02T01:26:51.085348'
 external_urls:
-  spotify: https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0
+  spotify: 'https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0'
   wikipedia: ''
 genres:
-- retro soul
-- soul
+  - retro soul
+  - soul
 image_path: 03_Resources/source_material/ArtistPortraits/lee_fields.jpg
 last_updated: '2026-01-02T01:26:51.085349'
 musical_connections:
   collaborators:
-  - Gabriel Roth
-  - Phillip Lehman
-  - Leon Michels
-  - The Expressions
-  - Sammy Gordon and the Hip Huggers
-  - Sharon Jones
-  - Martin Solveig
+    - Gabriel Roth
+    - Phillip Lehman
+    - Leon Michels
+    - The Expressions
+    - Sammy Gordon and the Hip Huggers
+    - Sharon Jones
+    - Martin Solveig
   influenced:
-  - J. Cole
-  - A$AP Rocky
+    - J. Cole
+    - A$AP Rocky
   mentors:
-  - James Brown
-  - Kip Anderson
-  - Herb Abramson
+    - James Brown
+    - Kip Anderson
+    - Herb Abramson
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.leefieldsandtheexpressions.com/info/
-- https://www.bighassle.com/lee-fields
-- https://www.wunc.org/wunc-music/2025-08-05/in-conversation-lee-fields
-- https://bellyup.com/calendar/13653224/lee-fields-monophonics/
-- https://www.bkmag.com/2024/02/26/lee-fields-soul-survivor/
-- https://www.wfyi.org/programs/cultural-manifesto/radio/lee-fields-comes-to-indianapolis
+  - 'https://www.leefieldsandtheexpressions.com/info/'
+  - 'https://www.bighassle.com/lee-fields'
+  - 'https://www.wunc.org/wunc-music/2025-08-05/in-conversation-lee-fields'
+  - 'https://bellyup.com/calendar/13653224/lee-fields-monophonics/'
+  - 'https://www.bkmag.com/2024/02/26/lee-fields-soul-survivor/'
+  - >-
+    https://www.wfyi.org/programs/cultural-manifesto/radio/lee-fields-comes-to-indianapolis
 spotify_data:
   followers: 65752
   id: 3MAzDpqE01xyUmzNsc0Ee0
   popularity: 45
-  url: https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0
+  url: 'https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0'
 status: active
 title: Lee Fields
+artist_type: person
 ---
 
 ![](lee_fields.jpg)

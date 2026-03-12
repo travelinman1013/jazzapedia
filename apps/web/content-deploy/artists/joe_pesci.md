@@ -1,22 +1,22 @@
 ---
-title: joe pesci
+title: Joe Pesci
 wiki_slug: joe-pesci
 schema_version: 2
 status: active
-birth_place: Newark, New Jersey, United States
+birth_place: 'Newark, New Jersey, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/joe_pesci.jpg
   caption: joe pesci
   background: solo_singer
-  origin: Newark, New Jersey, United States
+  origin: 'Newark, New Jersey, United States'
 audio_profile:
   tempo_avg: 115.3
   energy_avg: 0.449
   valence_avg: 0.461
   danceability_avg: 0.519
   acousticness_avg: 0.54
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -9.5
   speechiness_avg: 0.094
   liveness_avg: 0.213
@@ -25,42 +25,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Frank Vincent
-  - Adam Levine
+    - Frank Vincent
+    - Adam Levine
   influenced:
-  - Jersey Boys cast and creators
+    - Jersey Boys cast and creators
   mentors:
-  - Joey Dee
+    - Joey Dee
 spotify_data:
   followers: 7374
   id: 0lw0ffS7QCtXnDD2uNAxGQ
   popularity: 17
-  url: https://open.spotify.com/artist/0lw0ffS7QCtXnDD2uNAxGQ
+  url: 'https://open.spotify.com/artist/0lw0ffS7QCtXnDD2uNAxGQ'
 discography_enriched: true
 top_tracks:
-- Wise Guy (Vincent LaGuardia Gambini Sings Just For You)
-- If I Should Lose You (Pesci... Still Singing)
-- Yo Cousin Vinny (Vincent LaGuardia Gambini Sings Just For You)
-- Take Your Love And Shove It (Vincent LaGuardia Gambini Sings Just For You)
-- My Cherie Amour (feat. Adam Levine) (Pesci... Still Singing)
-- Got To Get You Into My Life (Little Joe Sure Can Sing!)
-- If It Doesn't Snow On Christmas (Vincent LaGuardia Gambini Sings Just For You)
-- Baby Girl (Pesci... Still Singing)
-- I've Got News For You (Vincent LaGuardia Gambini Sings Just For You)
-- How About You (Pesci... Still Singing)
+  - Wise Guy (Vincent LaGuardia Gambini Sings Just For You)
+  - If I Should Lose You (Pesci... Still Singing)
+  - Yo Cousin Vinny (Vincent LaGuardia Gambini Sings Just For You)
+  - Take Your Love And Shove It (Vincent LaGuardia Gambini Sings Just For You)
+  - My Cherie Amour (feat. Adam Levine) (Pesci... Still Singing)
+  - Got To Get You Into My Life (Little Joe Sure Can Sing!)
+  - >-
+    If It Doesn't Snow On Christmas (Vincent LaGuardia Gambini Sings Just For
+    You)
+  - Baby Girl (Pesci... Still Singing)
+  - I've Got News For You (Vincent LaGuardia Gambini Sings Just For You)
+  - How About You (Pesci... Still Singing)
 external_urls:
-  spotify: https://open.spotify.com/artist/0lw0ffS7QCtXnDD2uNAxGQ
-  wikipedia: https://en.wikipedia.org/wiki/Joe_Pesci
+  spotify: 'https://open.spotify.com/artist/0lw0ffS7QCtXnDD2uNAxGQ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Joe_Pesci'
 image_path: 03_Resources/source_material/ArtistPortraits/joe_pesci.jpg
 biography_enhanced_at: '2025-10-19T11:53:50.263378'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Joe_Pesci
-- https://www.esquire.com/entertainment/music/a29861383/joe-pesci-music-career-album-songs/
+  - 'https://en.wikipedia.org/wiki/Joe_Pesci'
+  - >-
+    https://www.esquire.com/entertainment/music/a29861383/joe-pesci-music-career-album-songs/
 network_extracted: true
 entry_created: '2025-10-19T11:53:50.263384'
 last_updated: '2025-12-23T08:16:10.641700'
+birth_date: '1943-02-09'
+artist_type: person
 ---
 
 ![](joe_pesci.jpg)

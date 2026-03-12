@@ -1,35 +1,35 @@
 ---
-title: stonebwoy
+title: Stonebwoy
 wiki_slug: stonebwoy
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1988-03-05'
-birth_place: Ashaiman, Greater Accra Region, Ghana
+birth_place: 'Ashaiman, Greater Accra Region, Ghana'
 genres:
-- hiplife
-- afrobeats
-- azonto
-- afrobeat
-- afropop
-- dancehall
-- asakaa
-- highlife
-- afroswing
+  - hiplife
+  - afrobeats
+  - azonto
+  - afrobeat
+  - afropop
+  - dancehall
+  - asakaa
+  - highlife
+  - afroswing
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/stonebwoy.jpg
   caption: stonebwoy
   background: solo_singer
   born: '1988-03-05'
-  origin: Ashaiman, Greater Accra Region, Ghana
+  origin: 'Ashaiman, Greater Accra Region, Ghana'
 audio_profile:
   tempo_avg: 114.3
   energy_avg: 0.724
   valence_avg: 0.651
   danceability_avg: 0.706
   acousticness_avg: 0.369
-  instrumentalness_avg: 0.0
-  loudness_avg: -5.0
+  instrumentalness_avg: 0
+  loudness_avg: -5
   speechiness_avg: 0.157
   liveness_avg: 0.14
   track_count: 55
@@ -37,44 +37,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sarkodie
-  - Burna Boy
-  - Morgan Heritage
-  - Keri Hilson
+    - Sarkodie
+    - Burna Boy
+    - Morgan Heritage
+    - Keri Hilson
   influenced:
-  - Kelvyn Boy
+    - Kelvyn Boy
   mentors:
-  - Samini
+    - Samini
 spotify_data:
   followers: 593447
   id: 2ayt5jDUuTCpoTG7sHSvuq
   popularity: 51
-  url: https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq
+  url: 'https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq'
 discography_enriched: true
 top_tracks:
-- TIENS MA MONEY (feat. Stonebwoy) (DACHIBA KOUMGBA TCHAIBA)
-- Into The Future (5th Dimension)
-- Now or Never
-- Larger Than Life (feat. Stonebwoy)
-- Life & Money (5th Dimension)
-- Ever Lasting
-- Likor (feat. Stonebwoy)
-- Kpo K3K3
-- JEJEREJE (with Ginton)
-- Activate (5th Dimension)
+  - TIENS MA MONEY (feat. Stonebwoy) (DACHIBA KOUMGBA TCHAIBA)
+  - Into The Future (5th Dimension)
+  - Now or Never
+  - Larger Than Life (feat. Stonebwoy)
+  - Life & Money (5th Dimension)
+  - Ever Lasting
+  - Likor (feat. Stonebwoy)
+  - Kpo K3K3
+  - JEJEREJE (with Ginton)
+  - Activate (5th Dimension)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e5b5f58b-21d9-4fd4-8ed0-01e8eaf4b4ac
-  spotify: https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq
-  wikipedia: https://en.wikipedia.org/wiki/Stonebwoy
+  musicbrainz: 'https://musicbrainz.org/artist/e5b5f58b-21d9-4fd4-8ed0-01e8eaf4b4ac'
+  spotify: 'https://open.spotify.com/artist/2ayt5jDUuTCpoTG7sHSvuq'
+  wikipedia: 'https://en.wikipedia.org/wiki/Stonebwoy'
 image_path: 03_Resources/source_material/ArtistPortraits/stonebwoy.jpg
 biography_enhanced_at: '2025-10-19T12:32:59.970356'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Stonebwoy
-- https://www.reggaeville.com/artist-details/stonebwoy/about/
-- https://stonebwoyb.com/bio/
-- https://www.globalcitizen.org/en/content/stonebwoy-global-citizen-festival-accra-sanitation/
+  - 'https://en.wikipedia.org/wiki/Stonebwoy'
+  - 'https://www.reggaeville.com/artist-details/stonebwoy/about/'
+  - 'https://stonebwoyb.com/bio/'
+  - >-
+    https://www.globalcitizen.org/en/content/stonebwoy-global-citizen-festival-accra-sanitation/
 network_extracted: true
 entry_created: '2025-10-19T12:32:59.970371'
 last_updated: '2025-12-23T08:16:16.170799'
@@ -83,10 +84,9 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:55:59.556334'
 musicbrainz_id: e5b5f58b-21d9-4fd4-8ed0-01e8eaf4b4ac
 tags:
-- afropop
-- dancehall
-- reggae
-
+  - afropop
+  - dancehall
+  - reggae
 ---
 
 ![](stonebwoy.jpg)

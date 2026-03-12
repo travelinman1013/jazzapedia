@@ -3,14 +3,14 @@ title: Charles Clark
 wiki_slug: charles-clark
 schema_version: 2
 status: active
-birth_place: Chicago, Illinois, United States
+birth_place: 'Chicago, Illinois, United States'
 genres:
-- ragtime
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/charles_clark.jpg
   caption: Charles Clark
   background: solo_singer
-  origin: Chicago, Illinois, United States
+  origin: 'Chicago, Illinois, United States'
 audio_profile:
   tempo_avg: 125.4
   energy_avg: 0.568
@@ -26,43 +26,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Muhal Richard Abrams
-  - Joseph Jarman
-  - Association for the Advancement of Creative Musicians (AACM) / early Art Ensemble of Chicago circle
+    - Muhal Richard Abrams
+    - Joseph Jarman
+    - >-
+      Association for the Advancement of Creative Musicians (AACM) / early Art
+      Ensemble of Chicago circle
   influenced:
-  - Joseph Jarman and the Art Ensemble of Chicago (indirect, contextual influence)
+    - >-
+      Joseph Jarman and the Art Ensemble of Chicago (indirect, contextual
+      influence)
   mentors:
-  - Wilbur Ware
+    - Wilbur Ware
 spotify_data:
   followers: 72
   id: 1pnp10z134J2UeZEOsNWRK
   popularity: 2
-  url: https://open.spotify.com/artist/1pnp10z134J2UeZEOsNWRK
+  url: 'https://open.spotify.com/artist/1pnp10z134J2UeZEOsNWRK'
 discography_enriched: true
 top_tracks:
-- I Whistle a Happy Tune - Voice (The King and I - Original Animated Feature Soundtrack)
-- Regal Stomp (Aka Bow to Your Papa) (The Greatest Ragtime of the Century)
-- Hidden Charms (Hidden Charms)
-- Hidden Charms (House Rockin' 1950s Rhythm & Blues, Vol. 2)
-- Hidden Charms
-- 'Hidden Charms (Night Train! Rare R&B: 1950 to 1960)'
-- 'Row Your Boat (Goin'' Down to Eli''s: The Cobra & ABCO Rhythm & Blues Anthology 1956-1958)'
-- 'Hidden Charms (Goin'' Down to Eli''s: The Cobra & ABCO Rhythm & Blues Anthology 1956-1958)'
-- Hidden Charms (Boss Of The Chicago Blues)
-- Hidden Charms (Mr. Dixon's Workshop)
+  - >-
+    I Whistle a Happy Tune - Voice (The King and I - Original Animated Feature
+    Soundtrack)
+  - Regal Stomp (Aka Bow to Your Papa) (The Greatest Ragtime of the Century)
+  - Hidden Charms (Hidden Charms)
+  - 'Hidden Charms (House Rockin'' 1950s Rhythm & Blues, Vol. 2)'
+  - Hidden Charms
+  - 'Hidden Charms (Night Train! Rare R&B: 1950 to 1960)'
+  - >-
+    Row Your Boat (Goin' Down to Eli's: The Cobra & ABCO Rhythm & Blues
+    Anthology 1956-1958)
+  - >-
+    Hidden Charms (Goin' Down to Eli's: The Cobra & ABCO Rhythm & Blues
+    Anthology 1956-1958)
+  - Hidden Charms (Boss Of The Chicago Blues)
+  - Hidden Charms (Mr. Dixon's Workshop)
 external_urls:
-  spotify: https://open.spotify.com/artist/1pnp10z134J2UeZEOsNWRK
-  wikipedia: https://en.wikipedia.org/wiki/Charles_Clark_(musician)
+  spotify: 'https://open.spotify.com/artist/1pnp10z134J2UeZEOsNWRK'
+  wikipedia: 'https://en.wikipedia.org/wiki/Charles_Clark_(musician)'
 image_path: ''
 biography_enhanced_at: '2025-12-06T05:48:33.401034'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Charles_Clark_(musician)[1]
-- https://www.allaboutjazz.com/musicians/charles-e-clark/[5]
+  - 'https://en.wikipedia.org/wiki/Charles_Clark_(musician)[1]'
+  - 'https://www.allaboutjazz.com/musicians/charles-e-clark/[5]'
 network_extracted: true
 entry_created: '2025-12-06T05:48:33.401045'
 last_updated: '2025-12-23T08:16:06.660843'
+origin: 'Chicago, Illinois, United States'
+birth_date: '1945-03-11'
+death_date: '1969-04-15'
+artist_type: person
 ---
 
 ![]()

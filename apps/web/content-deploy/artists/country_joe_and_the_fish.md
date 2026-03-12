@@ -4,8 +4,8 @@ wiki_slug: country-joe-the-fish
 schema_version: 2
 status: active
 genres:
-- psychedelic rock
-- acid rock
+  - psychedelic rock
+  - acid rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/country_joe_and_the_fish.jpg
   caption: Country Joe & The Fish
@@ -25,54 +25,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Barry 'The Fish' Melton
-  - David Bennett Cohen
-  - Bruce Barthol
-  - John Francis-Gunning
+    - Barry 'The Fish' Melton
+    - David Bennett Cohen
+    - Bruce Barthol
+    - John Francis-Gunning
   influenced:
-  - Jefferson Airplane
-  - Grateful Dead
-  - Various psychedelic rock bands
+    - Jefferson Airplane
+    - Grateful Dead
+    - Various psychedelic rock bands
   mentors:
-  - Woody Guthrie
-  - Bob Dylan
-  - John Fahey
+    - Woody Guthrie
+    - Bob Dylan
+    - John Fahey
 spotify_data:
   followers: 178246
   id: 0a63dfrxBQKqh160P8iUNL
   popularity: 33
-  url: https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL
+  url: 'https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL'
 discography_enriched: true
 top_tracks:
-- Flying High (Electric Music For The Mind And Body)
-- The Fish Cheer / I-Feel-Like-I’m-Fixin’-To Die Rag (I-Feel-Like-I'm-Fixin'-To-Die)
-- Bass Strings (Electric Music For The Mind And Body)
-- Not So Sweet Martha Lorraine (Electric Music For The Mind And Body)
-- Death Sound (Electric Music For The Mind And Body)
-- Rock And Soul Music/Love (The Life And Time Of Country Joe And The Fish From Haight-Ashbury To Woodstock)
-- Love (Electric Music For The Mind And Body)
-- Eastern Jam (I-Feel-Like-I'm-Fixin'-To-Die)
-- Porpoise Mouth (Electric Music For The Mind And Body)
-- Who Am I (I-Feel-Like-I'm-Fixin'-To-Die)
+  - Flying High (Electric Music For The Mind And Body)
+  - >-
+    The Fish Cheer / I-Feel-Like-I’m-Fixin’-To Die Rag
+    (I-Feel-Like-I'm-Fixin'-To-Die)
+  - Bass Strings (Electric Music For The Mind And Body)
+  - Not So Sweet Martha Lorraine (Electric Music For The Mind And Body)
+  - Death Sound (Electric Music For The Mind And Body)
+  - >-
+    Rock And Soul Music/Love (The Life And Time Of Country Joe And The Fish From
+    Haight-Ashbury To Woodstock)
+  - Love (Electric Music For The Mind And Body)
+  - Eastern Jam (I-Feel-Like-I'm-Fixin'-To-Die)
+  - Porpoise Mouth (Electric Music For The Mind And Body)
+  - Who Am I (I-Feel-Like-I'm-Fixin'-To-Die)
 external_urls:
-  spotify: https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL
-  wikipedia: https://en.wikipedia.org/wiki/Country_Joe_and_the_Fish
+  spotify: 'https://open.spotify.com/artist/0a63dfrxBQKqh160P8iUNL'
+  wikipedia: 'https://en.wikipedia.org/wiki/Country_Joe_and_the_Fish'
 image_path: 03_Resources/source_material/ArtistPortraits/country_joe_and_the_fish.jpg
 biography_enhanced_at: '2025-11-24T08:35:05.916112'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Country_Joe_and_the_Fish
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/country-joe-and-fish
-- https://simple.wikipedia.org/wiki/Country_Joe_and_the_Fish
-- https://www.bethelwoodscenter.org/news/detail/country-joe-the-fish-50-years-of-peace-love
-- https://www.psychedelicbabymag.com/2015/02/country-joe-and-fish-interview-with-joe.html
-- https://psychedelicscene.com/2023/10/16/interview-barry-the-fish-melton-of-country-joe-the-fish/
-- https://observer.com/2017/05/country-joe-the-fish-electric-music-for-the-mind-and-body-anniversary-review/
+  - 'https://en.wikipedia.org/wiki/Country_Joe_and_the_Fish'
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/country-joe-and-fish
+  - 'https://simple.wikipedia.org/wiki/Country_Joe_and_the_Fish'
+  - >-
+    https://www.bethelwoodscenter.org/news/detail/country-joe-the-fish-50-years-of-peace-love
+  - >-
+    https://www.psychedelicbabymag.com/2015/02/country-joe-and-fish-interview-with-joe.html
+  - >-
+    https://psychedelicscene.com/2023/10/16/interview-barry-the-fish-melton-of-country-joe-the-fish/
+  - >-
+    https://observer.com/2017/05/country-joe-the-fish-electric-music-for-the-mind-and-body-anniversary-review/
 network_extracted: true
 entry_created: '2025-11-24T08:35:05.916122'
 last_updated: '2025-12-23T08:16:07.237641'
-origin: Berkeley, California, United States
+origin: 'Berkeley, California, United States'
+artist_type: band
 ---
 
 ![](country_joe_and_the_fish.jpg)

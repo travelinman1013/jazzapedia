@@ -1,43 +1,45 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-17T02:05:16.910268'
-birth_place: Olton, Texas, United States
+birth_place: 'Olton, Lamb County, Texas, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-17T02:05:16.910280'
 external_urls:
-  spotify: https://open.spotify.com/artist/1RaDKTFXuy0qA8YV1h9SwC
+  spotify: 'https://open.spotify.com/artist/1RaDKTFXuy0qA8YV1h9SwC'
   wikipedia: ''
 genres:
-- classic country
+  - classic country
 image_path: 03_Resources/source_material/ArtistPortraits/jimmy_dean.jpg
 last_updated: '2026-01-17T02:05:16.910281'
 musical_connections:
   collaborators:
-  - Texas Wildcats
-  - Dottie West
-  - Patsy Cline
-  - Roy Clark
+    - Texas Wildcats
+    - Dottie West
+    - Patsy Cline
+    - Roy Clark
   influenced:
-  - Jim Henson
+    - Jim Henson
   mentors:
-  - Ruth Taylor Dean
-  - Connie B. Gay
+    - Ruth Taylor Dean
+    - Connie B. Gay
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.biography.com/musicians/jimmy-dean
-- https://www.tshaonline.org/handbook/entries/dean-jimmy-ray
-- https://www.infoplease.com/biographies/art-entertainment/jimmy-dean
-- https://www.remindmagazine.com/article/12500/jimmy-dean-country-singer-television-show-sausage-company/
-- https://www.countrymusichalloffame.org/artist/jimmy-dean
-- https://www.jimmydean.com/our-story/
+  - 'https://www.biography.com/musicians/jimmy-dean'
+  - 'https://www.tshaonline.org/handbook/entries/dean-jimmy-ray'
+  - 'https://www.infoplease.com/biographies/art-entertainment/jimmy-dean'
+  - >-
+    https://www.remindmagazine.com/article/12500/jimmy-dean-country-singer-television-show-sausage-company/
+  - 'https://www.countrymusichalloffame.org/artist/jimmy-dean'
+  - 'https://www.jimmydean.com/our-story/'
 spotify_data:
   followers: 114527
   id: 1RaDKTFXuy0qA8YV1h9SwC
   popularity: 45
-  url: https://open.spotify.com/artist/1RaDKTFXuy0qA8YV1h9SwC
+  url: 'https://open.spotify.com/artist/1RaDKTFXuy0qA8YV1h9SwC'
 status: active
-title: jimmy dean
+title: Jimmy Dean
+birth_date: '1928-08-10'
 ---
 
 ![](jimmy_dean.jpg)

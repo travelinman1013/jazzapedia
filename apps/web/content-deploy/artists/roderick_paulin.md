@@ -23,58 +23,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John Legend
-  - Harry Connick Jr.
-  - Wynton Marsalis
-  - ReBirth Brass Band
-  - Allen Toussaint
+    - John Legend
+    - Harry Connick Jr.
+    - Wynton Marsalis
+    - ReBirth Brass Band
+    - Allen Toussaint
   influenced:
-  - Students of the Louis Armstrong Summer Jazz Camp
+    - Students of the Louis Armstrong Summer Jazz Camp
   mentors:
-  - Ernest 'Doc' Paulin
-  - Roger Dickerson
+    - Ernest 'Doc' Paulin
+    - Roger Dickerson
 spotify_data:
   followers: 95
   id: 7z3Yd3m97g1BQWSS4SHYjh
   popularity: 1
-  url: https://open.spotify.com/artist/7z3Yd3m97g1BQWSS4SHYjh
+  url: 'https://open.spotify.com/artist/7z3Yd3m97g1BQWSS4SHYjh'
 discography_enriched: true
 top_tracks:
-- '''lil Liza Jane (Slow but Steady)'
-- Let Your Mind Be Free (Jazz Party)
-- 7th Ward Boogaloo (Jazz Party)
-- A Kiss To Build A Dream On (A Gift To Pops)
-- New Orleans 5/4 Step N' (New Orleans 5/4 Step N')
-- Waltz for Debbie (Slow but Steady)
-- Santa Claus Hat (Santa Claus Hat)
-- Squeakin & Squawkin (Old to New)
-- I Still Get Jealous (Old to New)
-- Burgundy Blues (Old to New)
+  - '''lil Liza Jane (Slow but Steady)'
+  - Let Your Mind Be Free (Jazz Party)
+  - 7th Ward Boogaloo (Jazz Party)
+  - A Kiss To Build A Dream On (A Gift To Pops)
+  - New Orleans 5/4 Step N' (New Orleans 5/4 Step N')
+  - Waltz for Debbie (Slow but Steady)
+  - Santa Claus Hat (Santa Claus Hat)
+  - Squeakin & Squawkin (Old to New)
+  - I Still Get Jealous (Old to New)
+  - Burgundy Blues (Old to New)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/eecd64fb-ae29-4d7c-8710-48e747050616
-  spotify: https://open.spotify.com/artist/7z3Yd3m97g1BQWSS4SHYjh
+  musicbrainz: 'https://musicbrainz.org/artist/eecd64fb-ae29-4d7c-8710-48e747050616'
+  spotify: 'https://open.spotify.com/artist/7z3Yd3m97g1BQWSS4SHYjh'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/roderick_paulin.jpg
 biography_enhanced_at: '2025-10-24T07:38:37.196401'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://roderickpaulinmusic.com/about
-- https://louisarmstrongjazzcamp.com/dt_team/paulin/
-- https://www.neworleans.com/listing/roderick-paulin/47695/
-- https://www.offbeat.com/music/roderick-paulin-slow-steady-independent/
-- https://www.elon.edu/u/academics/arts-and-sciences/jazz-studies/jazz-festival/festival-guest-artist-bio/
+  - 'https://roderickpaulinmusic.com/about'
+  - 'https://louisarmstrongjazzcamp.com/dt_team/paulin/'
+  - 'https://www.neworleans.com/listing/roderick-paulin/47695/'
+  - 'https://www.offbeat.com/music/roderick-paulin-slow-steady-independent/'
+  - >-
+    https://www.elon.edu/u/academics/arts-and-sciences/jazz-studies/jazz-festival/festival-guest-artist-bio/
 network_extracted: true
 entry_created: '2025-10-24T07:38:37.196412'
 last_updated: '2025-12-23T08:16:14.973093'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f8ba8e38-454d-44bf-99f8-1930d22aaf9d
-  name: Roderick Paulin and The Big Easy Groovers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f8ba8e38-454d-44bf-99f8-1930d22aaf9d
+    name: Roderick Paulin and The Big Easy Groovers
 musicbrainz_id: eecd64fb-ae29-4d7c-8710-48e747050616
-origin: New Orleans, Louisiana, USA
+origin: 'New Orleans, Louisiana, USA'
+artist_type: person
 ---
 
 ![](roderick_paulin.jpg)

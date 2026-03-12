@@ -1,45 +1,45 @@
 ---
-title: flora purim
+title: Flora Purim
 wiki_slug: flora-purim
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1942-03-06'
-birth_place: Rio de Janeiro
+birth_place: 'Rio de Janeiro, Rio de Janeiro State, Brazil'
 genres:
-- brazilian jazz
-- jazz fusion
-- latin jazz
-- bossa nova
-- vocal jazz
+  - brazilian jazz
+  - jazz fusion
+  - latin jazz
+  - bossa nova
+  - vocal jazz
 instruments:
-- lead vocals
-- original
-- background vocals
-- vocal
-associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ba3f06e2-8162-413b-a191-444303bf17a5
-  name: Fourth World
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 148e4af5-16ae-4cd8-b769-6d5d23027713
-  name: The Dizzy Gillespie United Nation All Star Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e9c08d09-ea1f-4f4a-9c80-088ec537ed20
-  name: Rhythm Devils
-- begin: ''
-  end: ''
-  instruments:
   - lead vocals
   - original
-  mbid: 5f8cce81-1ff5-4cca-9c6e-8d3c58dc0c36
-  name: Return to Forever
+  - background vocals
+  - vocal
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ba3f06e2-8162-413b-a191-444303bf17a5
+    name: Fourth World
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 148e4af5-16ae-4cd8-b769-6d5d23027713
+    name: The Dizzy Gillespie United Nation All Star Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e9c08d09-ea1f-4f4a-9c80-088ec537ed20
+    name: Rhythm Devils
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+      - original
+    mbid: 5f8cce81-1ff5-4cca-9c6e-8d3c58dc0c36
+    name: Return to Forever
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/flora_purim.jpg
   caption: flora purim
@@ -61,61 +61,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Airto Moreira
-  - Chick Corea / Return to Forever
-  - Stan Getz
-  - Duke Pearson
-  - Dizzy Gillespie and the United Nations Orchestra
-  - Mickey Hart (Grateful Dead)
-  - Carlos Santana
-  - Hermeto Pascoal
+    - Airto Moreira
+    - Chick Corea / Return to Forever
+    - Stan Getz
+    - Duke Pearson
+    - Dizzy Gillespie and the United Nations Orchestra
+    - Mickey Hart (Grateful Dead)
+    - Carlos Santana
+    - Hermeto Pascoal
   influenced:
-  - Later jazz and Brazilian vocalists (general category)
+    - Later jazz and Brazilian vocalists (general category)
   mentors:
-  - Moacir Santos
-  - Oscar Peterson and Erroll Garner (recorded influences)
-  - Yma Sumac (stylistic influence via Wayne Shorter)
+    - Moacir Santos
+    - Oscar Peterson and Erroll Garner (recorded influences)
+    - Yma Sumac (stylistic influence via Wayne Shorter)
 spotify_data:
   followers: 25976
   id: 6GaQjt3WJqroNLGfUsuMpk
   popularity: 30
-  url: https://open.spotify.com/artist/6GaQjt3WJqroNLGfUsuMpk
+  url: 'https://open.spotify.com/artist/6GaQjt3WJqroNLGfUsuMpk'
 discography_enriched: true
 top_tracks:
-- Black Narcissus (Encounter)
-- Aqui, Oh!
-- Insensatez (Stories To Tell)
-- Open Your Eyes, You Can Fly (Open Your Eyes You Can Fly)
-- Non-Fiction Burning
-- Samba do Carioca (Flora E M P M)
-- If You Will (If You Will)
-- Love Lock (Carry On)
-- Montanhas No Ceu - Brazil
-- Preciso Aprender a Ser Só (Flora E M P M)
+  - Black Narcissus (Encounter)
+  - 'Aqui, Oh!'
+  - Insensatez (Stories To Tell)
+  - 'Open Your Eyes, You Can Fly (Open Your Eyes You Can Fly)'
+  - Non-Fiction Burning
+  - Samba do Carioca (Flora E M P M)
+  - If You Will (If You Will)
+  - Love Lock (Carry On)
+  - Montanhas No Ceu - Brazil
+  - Preciso Aprender a Ser Só (Flora E M P M)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b1091eee-4198-4e66-8b15-05ae12b03353
-  spotify: https://open.spotify.com/artist/6GaQjt3WJqroNLGfUsuMpk
-  wikipedia: https://en.wikipedia.org/wiki/Flora_Purim
+  musicbrainz: 'https://musicbrainz.org/artist/b1091eee-4198-4e66-8b15-05ae12b03353'
+  spotify: 'https://open.spotify.com/artist/6GaQjt3WJqroNLGfUsuMpk'
+  wikipedia: 'https://en.wikipedia.org/wiki/Flora_Purim'
 image_path: 03_Resources/source_material/ArtistPortraits/flora_purim.jpg
 biography_enhanced_at: '2025-12-11T03:58:34.929712'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- WICN Artist of the Month profile on Flora Purim[1]
-- JazzTimes feature "Flora Purim Has Stories to Tell"[2]
-- Concord artist biography of Flora Purim[3]
-- 'Música Brasileira feature "Flora Purim: If You Will"[4]'
-- Dan Fox, Keep All Your Friends – issue on Flora Purim[5]
-- A-Train Entertainment artist page for Flora Purim[6]
+  - 'WICN Artist of the Month profile on Flora Purim[1]'
+  - 'JazzTimes feature "Flora Purim Has Stories to Tell"[2]'
+  - 'Concord artist biography of Flora Purim[3]'
+  - 'Música Brasileira feature "Flora Purim: If You Will"[4]'
+  - 'Dan Fox, Keep All Your Friends – issue on Flora Purim[5]'
+  - 'A-Train Entertainment artist page for Flora Purim[6]'
 network_extracted: true
 entry_created: '2025-12-11T03:58:34.929721'
 last_updated: '2025-12-23T08:16:08.720839'
 gender: Female
 musicbrainz_id: b1091eee-4198-4e66-8b15-05ae12b03353
 tags:
-- contemporary jazz
-- fusion
-- jazz
+  - contemporary jazz
+  - fusion
+  - jazz
 ---
 
 ![](flora_purim.jpg)

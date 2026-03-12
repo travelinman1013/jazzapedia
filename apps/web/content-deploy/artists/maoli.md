@@ -2,12 +2,12 @@
 title: Maoli
 wiki_slug: maoli
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 birth_date: '2007'
 genres:
-- nz reggae
-- reggae
+  - nz reggae
+  - reggae
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/maoli.jpg
   caption: Maoli
@@ -28,50 +28,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Paulele Alcon
-  - Band members (unnamed in sources)
+    - Paulele Alcon
+    - Band members (unnamed in sources)
   influenced:
-  - Not specified in available sources
+    - Not specified in available sources
   mentors:
-  - Uncle (unnamed)
-  - Dolly Parton, Willie Nelson, George Strait
+    - Uncle (unnamed)
+    - 'Dolly Parton, Willie Nelson, George Strait'
 spotify_data:
   followers: 361975
   id: 6EKzehEG2fwJtRMH4KbjsA
   popularity: 61
-  url: https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA
+  url: 'https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA'
 discography_enriched: true
 top_tracks:
-- Every Night Every Morning (Maoli Music Overload)
-- Mercy (Sense of Purpose)
-- You Can Have It All (Maoli Music Overload)
-- Shoot Down (Maoli Music Overload)
-- If I Said You Had a Beautiful Body (Maoli Music Overload)
-- Unwritten (The Breakthrough)
-- Country Reggae (Maoli Music Overload)
-- I Would Look Good on You (Maoli Music Overload)
-- A Place in the Sun (The Breakthrough)
-- Lonely Won’t Leave Me Alone
+  - Every Night Every Morning (Maoli Music Overload)
+  - Mercy (Sense of Purpose)
+  - You Can Have It All (Maoli Music Overload)
+  - Shoot Down (Maoli Music Overload)
+  - If I Said You Had a Beautiful Body (Maoli Music Overload)
+  - Unwritten (The Breakthrough)
+  - Country Reggae (Maoli Music Overload)
+  - I Would Look Good on You (Maoli Music Overload)
+  - A Place in the Sun (The Breakthrough)
+  - Lonely Won’t Leave Me Alone
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/18bb91f6-1728-4a32-ac8b-2842e0e63a1b
-  spotify: https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA
+  musicbrainz: 'https://musicbrainz.org/artist/18bb91f6-1728-4a32-ac8b-2842e0e63a1b'
+  spotify: 'https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/maoli.jpg
 biography_enhanced_at: '2025-12-04T08:21:43.660192'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- admitone.com - Maoli Artist Profile
-- maolimusic.com - About Maoli
-- midweek.com - The Magic of Maoli
-- redlightmanagement.com - Maoli Artist Bio
-- tennessean.com - Maui-born Maoli merges Nashville country music with rural Pacific traditions
+  - admitone.com - Maoli Artist Profile
+  - maolimusic.com - About Maoli
+  - midweek.com - The Magic of Maoli
+  - redlightmanagement.com - Maoli Artist Bio
+  - >-
+    tennessean.com - Maui-born Maoli merges Nashville country music with rural
+    Pacific traditions
 network_extracted: true
 entry_created: '2025-12-04T08:21:43.660198'
 last_updated: '2025-12-23T08:16:12.598767'
 disambiguation: Hawaiian Reggae and Island Music Band
 musicbrainz_id: 18bb91f6-1728-4a32-ac8b-2842e0e63a1b
-origin: Upcountry Maui, Hawaii, United States
+origin: 'Upcountry Maui, Hawaii, United States'
 ---
 
 ![](maoli.jpg)

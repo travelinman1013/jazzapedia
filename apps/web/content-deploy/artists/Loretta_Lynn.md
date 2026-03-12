@@ -2,57 +2,59 @@
 artist_type: person
 biography_enhanced_at: '2026-01-20T01:27:50.487044'
 birth_date: '1932-04-14'
-birth_place: Butcher Hollow
+birth_place: 'Butcher Hollow, Kentucky, United States'
 death_date: '2022-10-04'
 enhancement_provider: perplexity
 entry_created: '2026-01-20T01:27:50.487051'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/613260c3-d620-4645-94cd-33cd55f29b1e
-  spotify: https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl
-  wikipedia: https://en.wikipedia.org/wiki/Loretta_Lynn
+  musicbrainz: 'https://musicbrainz.org/artist/613260c3-d620-4645-94cd-33cd55f29b1e'
+  spotify: 'https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl'
+  wikipedia: 'https://en.wikipedia.org/wiki/Loretta_Lynn'
 gender: Female
 genres:
-- classic country
-- honky tonk
-- country
-- country christian
-- traditional country
+  - classic country
+  - honky tonk
+  - country
+  - country christian
+  - traditional country
 image_path: 03_Resources/source_material/ArtistPortraits/loretta_lynn.jpg
 instruments:
-- lead vocals
+  - lead vocals
 last_updated: '2026-01-20T01:27:50.487051'
 musical_connections:
   collaborators:
-  - Conway Twitty
-  - Wilburn Brothers (Teddy and Doyle Wilburn)
-  - Jay Lee Webb
+    - Conway Twitty
+    - Wilburn Brothers (Teddy and Doyle Wilburn)
+    - Jay Lee Webb
   influenced:
-  - Crystal Gayle
-  - Patty Loveless
+    - Crystal Gayle
+    - Patty Loveless
   mentors:
-  - Patsy Cline
+    - Patsy Cline
 musicbrainz_id: 613260c3-d620-4645-94cd-33cd55f29b1e
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.biography.com/musicians/loretta-lynn
-- https://lorettalynn.com/timeline/
-- https://en.wikipedia.org/wiki/Loretta_Lynn
-- https://www.britannica.com/biography/Loretta-Lynn
-- https://www.songhall.org/profiles/loretta-lynn
-- https://www.youtube.com/watch?v=crLhL8io8QU
-- https://www.american-music.org/page/Lynn
+  - 'https://www.biography.com/musicians/loretta-lynn'
+  - 'https://lorettalynn.com/timeline/'
+  - 'https://en.wikipedia.org/wiki/Loretta_Lynn'
+  - 'https://www.britannica.com/biography/Loretta-Lynn'
+  - 'https://www.songhall.org/profiles/loretta-lynn'
+  - 'https://www.youtube.com/watch?v=crLhL8io8QU'
+  - 'https://www.american-music.org/page/Lynn'
 spotify_data:
   followers: 845830
   id: 1FE0rls8gfQT3laAeRYNgl
   popularity: 57
-  url: https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl
+  url: 'https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl'
 status: active
 tags:
-- 2008 universal fire victim
-- american
-- country
+  - 2008 universal fire victim
+  - american
+  - country
 title: Loretta Lynn
+is_active: false
+origin: 'Nashville, Tennessee, United States'
 ---
 
 ![](loretta_lynn.jpg)

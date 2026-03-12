@@ -5,40 +5,40 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1972-06-29'
-birth_place: San Jose
+birth_place: 'San Jose, California, United States'
 genres:
-- trip hop
-- downtempo
+  - trip hop
+  - downtempo
 instruments:
-- piano
-- lead vocals
-- other vocals
+  - piano
+  - lead vocals
+  - other vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3e2a5e2b-0376-4a91-bb3c-98d805e19409
-  name: Quannum MCs
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6648391e-7890-4f6c-b939-976f215195d3
-  name: UNKLE
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6e07c5f2-f681-42e8-ae0e-ec8f1e66df4c
-  name: Nite School Klik
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4630ecd9-8888-4031-be49-f8d4558bd7dc
-  name: Winterkill Productions
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f4113ea1-4723-41d6-85ed-4f07f72b6850
-  name: The Solesides Crew
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3e2a5e2b-0376-4a91-bb3c-98d805e19409
+    name: Quannum MCs
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6648391e-7890-4f6c-b939-976f215195d3
+    name: UNKLE
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6e07c5f2-f681-42e8-ae0e-ec8f1e66df4c
+    name: Nite School Klik
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4630ecd9-8888-4031-be49-f8d4558bd7dc
+    name: Winterkill Productions
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f4113ea1-4723-41d6-85ed-4f07f72b6850
+    name: The Solesides Crew
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/dj_shadow.jpg
   caption: DJ Shadow
@@ -60,59 +60,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - UNKLE / James Lavelle
-  - Cut Chemist
-  - Quannum/Solesides collective (Chief Xcel, Lyrics Born, etc.)
-  - Run the Jewels, Nas, De La Soul
+    - UNKLE / James Lavelle
+    - Cut Chemist
+    - 'Quannum/Solesides collective (Chief Xcel, Lyrics Born, etc.)'
+    - 'Run the Jewels, Nas, De La Soul'
   influenced:
-  - Instrumental hip-hop and trip hop producers (e.g., later crate-digging beatmakers)
+    - >-
+      Instrumental hip-hop and trip hop producers (e.g., later crate-digging
+      beatmakers)
   mentors:
-  - Oras Washington
-  - James Lavelle
+    - Oras Washington
+    - James Lavelle
 spotify_data:
   followers: 699083
   id: 5CE2IfdYZEQGIDsfiRm8SI
   popularity: 66
-  url: https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI
+  url: 'https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI'
 discography_enriched: true
 top_tracks:
-- Six Days - Remix
-- Six Days - Remix
-- Nobody Speak (The Mountain Will Fall)
-- Midnight In A Perfect World (Endtroducing.....)
-- Rocket Fuel (feat. De La Soul) (Our Pathetic Age)
-- Six Days (The Private Press)
-- Building Steam With A Grain Of Salt (Endtroducing.....)
-- Organ Donor (Endtroducing.....)
-- We Were Set Up
-- Holy Calamity [Bear Witness II] (So...How's Your Girl?)
+  - Six Days - Remix
+  - Six Days - Remix
+  - Nobody Speak (The Mountain Will Fall)
+  - Midnight In A Perfect World (Endtroducing.....)
+  - Rocket Fuel (feat. De La Soul) (Our Pathetic Age)
+  - Six Days (The Private Press)
+  - Building Steam With A Grain Of Salt (Endtroducing.....)
+  - Organ Donor (Endtroducing.....)
+  - We Were Set Up
+  - 'Holy Calamity [Bear Witness II] (So...How''s Your Girl?)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/efa2c11a-1a35-4b60-bc1b-66d37de88511
-  spotify: https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI
-  wikipedia: https://en.wikipedia.org/wiki/DJ_Shadow
+  musicbrainz: 'https://musicbrainz.org/artist/efa2c11a-1a35-4b60-bc1b-66d37de88511'
+  spotify: 'https://open.spotify.com/artist/5CE2IfdYZEQGIDsfiRm8SI'
+  wikipedia: 'https://en.wikipedia.org/wiki/DJ_Shadow'
 image_path: 03_Resources/source_material/ArtistPortraits/dj_shadow.jpg
 biography_enhanced_at: '2025-12-17T02:17:58.297684'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/DJ_Shadow
-- https://www.last.fm/music/DJ+Shadow/+wiki
-- https://www.laphil.com/musicdb/artists/1494/dj-shadow
-- https://first-avenue.com/performer/dj-shadow/
-- https://magazine.waxpoetics.com/article/dj-shadow-in-the-beginning/
-- https://www.playbsides.com/a-lifetime-of-vinyl-culture-a-dj-shadow-bio/
-- http://www.tuneattic.com/djshadow/bio.html
-- https://peel.fandom.com/wiki/DJ_Shadow
+  - 'https://en.wikipedia.org/wiki/DJ_Shadow'
+  - 'https://www.last.fm/music/DJ+Shadow/+wiki'
+  - 'https://www.laphil.com/musicdb/artists/1494/dj-shadow'
+  - 'https://first-avenue.com/performer/dj-shadow/'
+  - 'https://magazine.waxpoetics.com/article/dj-shadow-in-the-beginning/'
+  - 'https://www.playbsides.com/a-lifetime-of-vinyl-culture-a-dj-shadow-bio/'
+  - 'http://www.tuneattic.com/djshadow/bio.html'
+  - 'https://peel.fandom.com/wiki/DJ_Shadow'
 network_extracted: true
 entry_created: '2025-12-17T02:17:58.297694'
 last_updated: '2025-12-23T08:16:07.816406'
-disambiguation: US hip hop producer, DJ & instrumentalist
+disambiguation: 'US hip hop producer, DJ & instrumentalist'
 gender: Male
 musicbrainz_id: efa2c11a-1a35-4b60-bc1b-66d37de88511
 tags:
-- ambient breakbeat
-- bay area rap
-- downtempo
+  - ambient breakbeat
+  - bay area rap
+  - downtempo
+origin: 'Davis, California, United States'
 ---
 
 ![](dj_shadow.jpg)

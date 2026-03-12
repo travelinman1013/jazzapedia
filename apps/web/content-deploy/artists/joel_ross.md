@@ -3,14 +3,14 @@ title: Joel Ross
 wiki_slug: joel-ross
 schema_version: 2
 status: active
-birth_place: Chicago, Illinois, United States
+birth_place: 'Chicago, Illinois, United States'
 genres:
-- jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/joel_ross.jpg
   caption: Joel Ross
   background: solo_singer
-  origin: Chicago, Illinois, United States
+  origin: 'Chicago, Illinois, United States'
 audio_profile:
   tempo_avg: 115.6
   energy_avg: 0.368
@@ -26,50 +26,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Immanuel Wilkins
-  - Makaya McCraven
-  - Jeremy Corren
-  - Kanoa Mendenhall
-  - Jeremy Dutton
-  - Walter Smith III & Matthew Stevens
-  - Marquis Hill
+    - Immanuel Wilkins
+    - Makaya McCraven
+    - Jeremy Corren
+    - Kanoa Mendenhall
+    - Jeremy Dutton
+    - Walter Smith III & Matthew Stevens
+    - Marquis Hill
   influenced:
-  - No widely documented individual proteges as of 2025
+    - No widely documented individual proteges as of 2025
   mentors:
-  - Stefon Harris
+    - Stefon Harris
 spotify_data:
   followers: 23576
   id: 5OSxNS2UGq8dW38T57o78l
   popularity: 38
-  url: https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l
+  url: 'https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l'
 discography_enriched: true
 top_tracks:
-- central park west (nublues)
-- Bolo Na (feat. Moor Mother, Joel Ross) (Night Reign)
-- I Wish You Love (Conjuring)
-- Flight
-- BENEDICTION (The Parable Of The Poet)
-- Vida
-- La Llegada
-- Bold
-- Day Dream (Conjuring)
-- what am i waiting for? (nublues)
+  - central park west (nublues)
+  - 'Bolo Na (feat. Moor Mother, Joel Ross) (Night Reign)'
+  - I Wish You Love (Conjuring)
+  - Flight
+  - BENEDICTION (The Parable Of The Poet)
+  - Vida
+  - La Llegada
+  - Bold
+  - Day Dream (Conjuring)
+  - what am i waiting for? (nublues)
 external_urls:
-  spotify: https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l
-  wikipedia: https://en.wikipedia.org/wiki/Joel_Ross_(musician)
+  spotify: 'https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l'
+  wikipedia: 'https://en.wikipedia.org/wiki/Joel_Ross_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/joel_ross.jpg
 biography_enhanced_at: '2025-11-14T10:53:05.770831'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.jazzempowers.org/joel-ross
-- https://www.newschool.edu/jazz/faculty/joel-ross/
-- https://www.bluenote.com/artist/joel-ross/
-- https://chicagopresents.uchicago.edu/people/joel-ross-vibraphone-0
-- https://www.sfjazz.org/onthecorner/on-the-record-joel-ross/
+  - 'https://www.jazzempowers.org/joel-ross'
+  - 'https://www.newschool.edu/jazz/faculty/joel-ross/'
+  - 'https://www.bluenote.com/artist/joel-ross/'
+  - 'https://chicagopresents.uchicago.edu/people/joel-ross-vibraphone-0'
+  - 'https://www.sfjazz.org/onthecorner/on-the-record-joel-ross/'
 network_extracted: true
 entry_created: '2025-11-14T10:53:05.770843'
 last_updated: '2025-12-23T08:16:10.681537'
+artist_type: person
 ---
 
 ![](joel_ross.jpg)

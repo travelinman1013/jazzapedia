@@ -5,11 +5,11 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1802-02-26'
-birth_place: Besançon
+birth_place: 'Besançon, Bourgogne-Franche-Comté, France'
 death_date: '1885-05-22'
 genres: []
 instruments:
-- spoken vocals
+  - spoken vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/victor_hugo.jpg
   caption: Victor Hugo
@@ -32,43 +32,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Robin Jones
-  - Jim Lemessurier
-  - Alex Sarria
-  - Kike Harvey
+    - Robin Jones
+    - Jim Lemessurier
+    - Alex Sarria
+    - Kike Harvey
   influenced:
-  - UK Salsa Musicians
+    - UK Salsa Musicians
   mentors:
-  - Charlie Palmieri
+    - Charlie Palmieri
 spotify_data:
   followers: 111
   id: 3BYKC0UEnGJeutjs4zOReb
   popularity: 24
-  url: https://open.spotify.com/artist/3BYKC0UEnGJeutjs4zOReb
+  url: 'https://open.spotify.com/artist/3BYKC0UEnGJeutjs4zOReb'
 discography_enriched: true
 top_tracks:
-- In My Loneliness (In My Loneliness)
-- In My Loneliness (In My Loneliness)
-- The Bushido Code (Japan Action & Inspiration)
-- The Deepest Ocean (Original Song from Jellyfish) [feat. Mariachiara] (The Deepest Ocean (Original Song from Jellyfish) [feat.
-  Mariachiara])
-- Spirits of Old (Japan Action & Inspiration)
-- Supercharged Samurai (Japan Action & Inspiration)
-- Battle Royale (Japan Action & Inspiration)
-- Dust to Dust (Dust to Dust)
-- VICTIMS of THE WOLF (original short film soundtrack) (VICTIMS of THE WOLF (original short film soundtrack))
-- Impilato come una monetina (LA TENTAZIONE DI ESISTERE (Original Soundtrack))
+  - In My Loneliness (In My Loneliness)
+  - In My Loneliness (In My Loneliness)
+  - The Bushido Code (Japan Action & Inspiration)
+  - >-
+    The Deepest Ocean (Original Song from Jellyfish) [feat. Mariachiara] (The
+    Deepest Ocean (Original Song from Jellyfish) [feat. Mariachiara])
+  - Spirits of Old (Japan Action & Inspiration)
+  - Supercharged Samurai (Japan Action & Inspiration)
+  - Battle Royale (Japan Action & Inspiration)
+  - Dust to Dust (Dust to Dust)
+  - >-
+    VICTIMS of THE WOLF (original short film soundtrack) (VICTIMS of THE WOLF
+    (original short film soundtrack))
+  - Impilato come una monetina (LA TENTAZIONE DI ESISTERE (Original Soundtrack))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c0c99c8f-4779-4c35-9497-67d60a73310a
-  spotify: https://open.spotify.com/artist/3BYKC0UEnGJeutjs4zOReb
+  musicbrainz: 'https://musicbrainz.org/artist/c0c99c8f-4779-4c35-9497-67d60a73310a'
+  spotify: 'https://open.spotify.com/artist/3BYKC0UEnGJeutjs4zOReb'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/victor_hugo.jpg
 biography_enhanced_at: '2025-11-23T06:31:59.449237'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://www.andynye.com/Victor%20Hugo%20Salsa%20Band/Victor%20Hugo%20Salsa%20Band.htm
-- https://www.alivenetwork.com/bandpage.asp?bandname=Victor+Hugo
+  - >-
+    http://www.andynye.com/Victor%20Hugo%20Salsa%20Band/Victor%20Hugo%20Salsa%20Band.htm
+  - 'https://www.alivenetwork.com/bandpage.asp?bandname=Victor+Hugo'
 network_extracted: true
 entry_created: '2025-11-23T06:31:59.449243'
 last_updated: '2025-12-23T08:16:17.859220'
@@ -76,9 +80,11 @@ disambiguation: French poet and novelist
 gender: Male
 musicbrainz_id: c0c99c8f-4779-4c35-9497-67d60a73310a
 tags:
-- france
-- francophone
-- français
+  - france
+  - francophone
+  - français
+is_active: false
+origin: 'Caracas, Distrito Capital, Venezuela'
 ---
 
 ![](victor_hugo.jpg)

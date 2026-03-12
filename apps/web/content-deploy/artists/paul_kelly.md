@@ -5,51 +5,51 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1955-01-13'
-birth_place: Adelaide
+birth_place: 'Adelaide, South Australia, Australia'
 genres: []
 instruments:
-- guitar
-- lead vocals
-- original
-- acoustic guitar
-- background vocals
+  - guitar
+  - lead vocals
+  - original
+  - acoustic guitar
+  - background vocals
 associated_acts:
-- begin: 1978-08
-  end: '1982'
-  instruments:
-  - guitar
-  - lead vocals
-  - original
-  mbid: 6471b685-f2f0-4699-9841-7477aafd5e55
-  name: Paul Kelly and The Dots
-- begin: '1999'
-  end: ''
-  instruments:
-  - guitar
-  - lead vocals
-  - original
-  mbid: f06b5bac-9963-41c6-86de-7c06d0797b1c
-  name: Professor Ratbaggy
-- begin: '2005'
-  end: ''
-  instruments:
-  - guitar
-  - lead vocals
-  - original
-  mbid: d2ac0493-6c13-4131-a658-8c5d0ccfa95a
-  name: Stardust Five
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 1d14715c-351c-4abb-9d41-c3e052ca7458
-  name: Paul Kelly and the Messengers
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: ccc810e0-e93c-4127-9fdb-ae2d07554ef0
-  name: High Rise Bombers
+  - begin: 1978-08
+    end: '1982'
+    instruments:
+      - guitar
+      - lead vocals
+      - original
+    mbid: 6471b685-f2f0-4699-9841-7477aafd5e55
+    name: Paul Kelly and The Dots
+  - begin: '1999'
+    end: ''
+    instruments:
+      - guitar
+      - lead vocals
+      - original
+    mbid: f06b5bac-9963-41c6-86de-7c06d0797b1c
+    name: Professor Ratbaggy
+  - begin: '2005'
+    end: ''
+    instruments:
+      - guitar
+      - lead vocals
+      - original
+    mbid: d2ac0493-6c13-4131-a658-8c5d0ccfa95a
+    name: Stardust Five
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 1d14715c-351c-4abb-9d41-c3e052ca7458
+    name: Paul Kelly and the Messengers
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: ccc810e0-e93c-4127-9fdb-ae2d07554ef0
+    name: High Rise Bombers
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/paul_kelly.jpg
   caption: Paul Kelly
@@ -71,49 +71,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kev Carmody
-  - Yothu Yindi
-  - Christine Anu
-  - Neil Finn
-  - Paul Grabowsky
-  - Charlie Owen
-  - Dan Kelly
-  - Ziggy Ramo
+    - Kev Carmody
+    - Yothu Yindi
+    - Christine Anu
+    - Neil Finn
+    - Paul Grabowsky
+    - Charlie Owen
+    - Dan Kelly
+    - Ziggy Ramo
   influenced:
-  - Archie Roach
+    - Archie Roach
   mentors:
-  - Van Morrison
+    - Van Morrison
 spotify_data:
   followers: 437933
   id: 0SNWoGaDlrCompmg9rXeNq
   popularity: 57
-  url: https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq
+  url: 'https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq'
 discography_enriched: true
 top_tracks:
-- To Her Door (Under The Sun)
-- Dumb Things (Under The Sun)
-- How To Make Gravy
-- Before Too Long (Gossip)
-- From Little Things Big Things Grow (Comedy)
-- Leaps And Bounds (Gossip)
-- To Her Door
-- Dumb Things
-- Four Seasons In One Day
-- Sleep Baby (Bananas and Other Delicious Things)
+  - To Her Door (Under The Sun)
+  - Dumb Things (Under The Sun)
+  - How To Make Gravy
+  - Before Too Long (Gossip)
+  - From Little Things Big Things Grow (Comedy)
+  - Leaps And Bounds (Gossip)
+  - To Her Door
+  - Dumb Things
+  - Four Seasons In One Day
+  - Sleep Baby (Bananas and Other Delicious Things)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2353e48c-3b80-4ac1-be24-88f9b99c84c8
-  spotify: https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq
+  musicbrainz: 'https://musicbrainz.org/artist/2353e48c-3b80-4ac1-be24-88f9b99c84c8'
+  spotify: 'https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/paul_kelly.jpg
 biography_enhanced_at: '2025-12-23T01:57:30.538612'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.portrait.gov.au/people/paul-kelly-1955
-- https://www.sydneyoperahouse.com/contemporary-music/cheat-sheet-paul-kelly
-- https://www.bodeganottingham.com/gigs/paul-kelly/
-- https://www.paulkelly.com.au/bio/
-- https://paulkellythemovie.com.au/about/
+  - 'https://www.portrait.gov.au/people/paul-kelly-1955'
+  - 'https://www.sydneyoperahouse.com/contemporary-music/cheat-sheet-paul-kelly'
+  - 'https://www.bodeganottingham.com/gigs/paul-kelly/'
+  - 'https://www.paulkelly.com.au/bio/'
+  - 'https://paulkellythemovie.com.au/about/'
 network_extracted: true
 entry_created: '2025-12-23T01:57:30.538625'
 last_updated: '2025-12-23T08:16:14.077086'
@@ -121,9 +121,10 @@ disambiguation: Australian singer/songwriter
 gender: Male
 musicbrainz_id: 2353e48c-3b80-4ac1-be24-88f9b99c84c8
 tags:
-- acoustic rock
-- rock
-- singer-songwriter
+  - acoustic rock
+  - rock
+  - singer-songwriter
+origin: 'Melbourne, Victoria, Australia'
 ---
 
 ![](paul_kelly.jpg)

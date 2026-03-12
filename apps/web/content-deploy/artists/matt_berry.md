@@ -3,15 +3,15 @@ title: Matt Berry
 wiki_slug: matt-berry
 schema_version: 2
 status: active
-birth_place: Bedfordshire, England, United Kingdom
+birth_place: 'Bedfordshire, England, United Kingdom'
 genres:
-- acid jazz
-- psychedelic pop
+  - acid jazz
+  - psychedelic pop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/matt_berry.jpg
   caption: Matt Berry
   background: solo_singer
-  origin: Bedfordshire, England, United Kingdom
+  origin: 'Bedfordshire, England, United Kingdom'
 audio_profile:
   tempo_avg: 123.2
   energy_avg: 0.547
@@ -27,48 +27,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mike Thorne
-  - Various session drummers
+    - Mike Thorne
+    - Various session drummers
   influenced:
-  - No widely documented direct proteges
+    - No widely documented direct proteges
   mentors:
-  - Mike Oldfield
-  - Jean Michel Jarre
+    - Mike Oldfield
+    - Jean Michel Jarre
 spotify_data:
   followers: 110899
   id: 0FIagKn8Ibj8ikj5VvTXto
   popularity: 48
-  url: https://open.spotify.com/artist/0FIagKn8Ibj8ikj5VvTXto
+  url: 'https://open.spotify.com/artist/0FIagKn8Ibj8ikj5VvTXto'
 discography_enriched: true
 top_tracks:
-- Take My Hand (Witchazel)
-- Take My Hand
-- Why On Fire? (Heard Noises)
-- Take My Hand (Gather Up (Ten Years On Acid Jazz))
-- Silver Rings (Heard Noises)
-- Wedding Photo Stranger (Heard Noises)
-- Beatmaker
-- Accident at a Harvest Festival (Witchazel)
-- So Low (Witchazel)
-- I Gotta Limit (Heard Noises)
+  - Take My Hand (Witchazel)
+  - Take My Hand
+  - Why On Fire? (Heard Noises)
+  - Take My Hand (Gather Up (Ten Years On Acid Jazz))
+  - Silver Rings (Heard Noises)
+  - Wedding Photo Stranger (Heard Noises)
+  - Beatmaker
+  - Accident at a Harvest Festival (Witchazel)
+  - So Low (Witchazel)
+  - I Gotta Limit (Heard Noises)
 external_urls:
-  spotify: https://open.spotify.com/artist/0FIagKn8Ibj8ikj5VvTXto
-  wikipedia: https://en.wikipedia.org/wiki/Matt_Berry
+  spotify: 'https://open.spotify.com/artist/0FIagKn8Ibj8ikj5VvTXto'
+  wikipedia: 'https://en.wikipedia.org/wiki/Matt_Berry'
 image_path: 03_Resources/source_material/ArtistPortraits/matt_berry.jpg
 biography_enhanced_at: '2025-11-12T14:42:07.147061'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.soundonsound.com/people/matt-berry
-- https://www.electronicsound.co.uk/features/long-reads/matt-berry-nocturnal-transmissions/
-- https://www.imdb.com/name/nm1546196/
-- https://thenewcue.substack.com/p/the-new-cue-461-january-27-matt-berry
-- https://themattberry.co.uk
-- https://wearecult.rocks/gather-up-matt-berry-talks
-- https://www.allmusic.com/artist/matt-berry-mn0000272669
+  - 'https://www.soundonsound.com/people/matt-berry'
+  - >-
+    https://www.electronicsound.co.uk/features/long-reads/matt-berry-nocturnal-transmissions/
+  - 'https://www.imdb.com/name/nm1546196/'
+  - 'https://thenewcue.substack.com/p/the-new-cue-461-january-27-matt-berry'
+  - 'https://themattberry.co.uk'
+  - 'https://wearecult.rocks/gather-up-matt-berry-talks'
+  - 'https://www.allmusic.com/artist/matt-berry-mn0000272669'
 network_extracted: true
 entry_created: '2025-11-12T14:42:07.147071'
 last_updated: '2025-12-23T08:16:12.829000'
+artist_type: person
 ---
 
 ![](matt_berry.jpg)

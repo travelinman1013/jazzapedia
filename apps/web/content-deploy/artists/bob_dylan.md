@@ -1,23 +1,23 @@
 ---
-title: bob dylan
+title: Bob Dylan
 wiki_slug: bob-dylan
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1941-05-24'
-birth_place: Duluth, Minnesota, United States
+birth_place: 'Duluth, Minnesota, United States'
 genres:
-- folk rock
-- folk
-- singer-songwriter
-- roots rock
-- country rock
+  - folk rock
+  - folk
+  - singer-songwriter
+  - roots rock
+  - country rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bob_dylan.jpg
   caption: bob dylan
   background: solo_singer
   born: '1941-05-24'
-  origin: Duluth, Minnesota, United States
+  origin: 'Duluth, Minnesota, United States'
 audio_profile:
   tempo_avg: 127.4
   energy_avg: 0.464
@@ -33,46 +33,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Band
-  - Joan Baez
-  - Tom Wilson
+    - The Band
+    - Joan Baez
+    - Tom Wilson
   influenced:
-  - Bruce Springsteen
-  - Joni Mitchell
-  - The Beatles
+    - Bruce Springsteen
+    - Joni Mitchell
+    - The Beatles
   mentors:
-  - Woody Guthrie
-  - Odetta
+    - Woody Guthrie
+    - Odetta
 spotify_data:
   followers: 7350369
   id: 74ASZWbe4lXaubB36ztrGX
   popularity: 72
-  url: https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX
+  url: 'https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX'
 discography_enriched: true
 top_tracks:
-- Knockin' On Heaven's Door (Pat Garrett & Billy The Kid (Soundtrack From The Motion Picture))
-- Like a Rolling Stone (Highway 61 Revisited)
-- Blowin' in the Wind (The Freewheelin' Bob Dylan)
-- Don't Think Twice, It's All Right (The Freewheelin' Bob Dylan)
-- The Times They Are A-Changin' (The Times They Are A-Changin')
-- Hurricane (Desire)
-- Mr. Tambourine Man (Bringing It All Back Home)
-- Girl from the North Country (Nashville Skyline)
-- Lay, Lady, Lay (Nashville Skyline)
-- The Man in Me (New Morning)
+  - >-
+    Knockin' On Heaven's Door (Pat Garrett & Billy The Kid (Soundtrack From The
+    Motion Picture))
+  - Like a Rolling Stone (Highway 61 Revisited)
+  - Blowin' in the Wind (The Freewheelin' Bob Dylan)
+  - 'Don''t Think Twice, It''s All Right (The Freewheelin'' Bob Dylan)'
+  - The Times They Are A-Changin' (The Times They Are A-Changin')
+  - Hurricane (Desire)
+  - Mr. Tambourine Man (Bringing It All Back Home)
+  - Girl from the North Country (Nashville Skyline)
+  - 'Lay, Lady, Lay (Nashville Skyline)'
+  - The Man in Me (New Morning)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/72c536dc-7137-4477-a521-567eeb840fa8
-  spotify: https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX
-  wikipedia: https://en.wikipedia.org/wiki/Bob_Dylan
+  musicbrainz: 'https://musicbrainz.org/artist/72c536dc-7137-4477-a521-567eeb840fa8'
+  spotify: 'https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bob_Dylan'
 image_path: 03_Resources/source_material/ArtistPortraits/bob_dylan.jpg
 biography_enhanced_at: '2025-10-19T11:49:34.582793'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Bob_Dylan
-- https://bobdylancenter.com/about/biography/
-- https://faroutmagazine.co.uk/timeline-60-years-of-bob-dylan/
-- https://www.britannica.com/biography/Bob-Dylan-American-musician
+  - 'https://en.wikipedia.org/wiki/Bob_Dylan'
+  - 'https://bobdylancenter.com/about/biography/'
+  - 'https://faroutmagazine.co.uk/timeline-60-years-of-bob-dylan/'
+  - 'https://www.britannica.com/biography/Bob-Dylan-American-musician'
 network_extracted: true
 entry_created: '2025-10-19T11:49:34.582801'
 last_updated: '2025-12-23T08:16:05.800163'
@@ -80,9 +82,9 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:49:33.305395'
 musicbrainz_id: 72c536dc-7137-4477-a521-567eeb840fa8
 tags:
-- blues
-- blues rock
-- classic rock
+  - blues
+  - blues rock
+  - classic rock
 ---
 
 ![](bob_dylan.jpg)

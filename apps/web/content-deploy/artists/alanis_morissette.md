@@ -5,16 +5,16 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1974-06-01'
-birth_place: Ottawa
+birth_place: 'Ottawa, Ontario, Canada'
 genres: []
 instruments:
-- guitar
-- piano
-- electric guitar
-- lead vocals
-- background vocals
-- spoken vocals
-- other vocals
+  - guitar
+  - piano
+  - electric guitar
+  - lead vocals
+  - background vocals
+  - spoken vocals
+  - other vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/alanis_morissette.jpg
   caption: Alanis Morissette
@@ -36,54 +36,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Glen Ballard
-  - Lindsay Thomas Morgan
-  - Rich Dodson
+    - Glen Ballard
+    - Lindsay Thomas Morgan
+    - Rich Dodson
   influenced: []
   mentors:
-  - Glen Ballard
-  - Leslie Howe
+    - Glen Ballard
+    - Leslie Howe
 spotify_data:
   followers: 3210129
   id: 6ogn9necmbUdCppmNnGOdi
   popularity: 69
-  url: https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi
+  url: 'https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi'
 discography_enriched: true
 top_tracks:
-- Ironic - 2015 Remaster (Jagged Little Pill (2015 Remaster))
-- Hand in My Pocket - 2015 Remaster (Jagged Little Pill (2015 Remaster))
-- Thank U (Supposed Former Infatuation Junkie)
-- You Oughta Know - 2015 Remaster (Jagged Little Pill (2015 Remaster))
-- Head over Feet - 2015 Remaster (Jagged Little Pill (2015 Remaster))
-- You Learn - 2015 Remaster (Jagged Little Pill (2015 Remaster))
-- Ironic
-- Uninvited
-- Hands Clean (Under Rug Swept)
-- Crazy - James Michael Mix
+  - Ironic - 2015 Remaster (Jagged Little Pill (2015 Remaster))
+  - Hand in My Pocket - 2015 Remaster (Jagged Little Pill (2015 Remaster))
+  - Thank U (Supposed Former Infatuation Junkie)
+  - You Oughta Know - 2015 Remaster (Jagged Little Pill (2015 Remaster))
+  - Head over Feet - 2015 Remaster (Jagged Little Pill (2015 Remaster))
+  - You Learn - 2015 Remaster (Jagged Little Pill (2015 Remaster))
+  - Ironic
+  - Uninvited
+  - Hands Clean (Under Rug Swept)
+  - Crazy - James Michael Mix
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4bdcee62-4902-4773-8cd1-e252e2e31225
-  spotify: https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi
-  wikipedia: https://en.wikipedia.org/wiki/Alanis_Morissette
+  musicbrainz: 'https://musicbrainz.org/artist/4bdcee62-4902-4773-8cd1-e252e2e31225'
+  spotify: 'https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi'
+  wikipedia: 'https://en.wikipedia.org/wiki/Alanis_Morissette'
 image_path: 03_Resources/source_material/ArtistPortraits/alanis_morissette.jpg
 biography_enhanced_at: '2025-12-22T01:52:34.686667'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Alanis_Morissette
-- https://www.alanisutopia.com/component/content/article/76-biography
-- https://www.ohjeanrecords.com/blogs/news/alanis-morissette-biography
-- https://aaep1600.osu.edu/book/25_Morissette.php
-- https://www.britannica.com/biography/Alanis_Morissette
-- https://alanis-m.com/alanis-morissette/biography/
+  - 'https://en.wikipedia.org/wiki/Alanis_Morissette'
+  - 'https://www.alanisutopia.com/component/content/article/76-biography'
+  - 'https://www.ohjeanrecords.com/blogs/news/alanis-morissette-biography'
+  - 'https://aaep1600.osu.edu/book/25_Morissette.php'
+  - 'https://www.britannica.com/biography/Alanis_Morissette'
+  - 'https://alanis-m.com/alanis-morissette/biography/'
 network_extracted: true
 entry_created: '2025-12-22T01:52:34.686675'
 last_updated: '2025-12-23T08:16:04.479749'
 gender: Female
 musicbrainz_id: 4bdcee62-4902-4773-8cd1-e252e2e31225
 tags:
-- 1990s
-- adult alternative
-- alternative rock
+  - 1990s
+  - adult alternative
+  - alternative rock
+origin: 'Toronto, Ontario, Canada'
 ---
 
 ![](alanis_morissette.jpg)

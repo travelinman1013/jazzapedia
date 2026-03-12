@@ -1,21 +1,21 @@
 ---
-title: al green
+title: Al Green
 wiki_slug: al-green
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1946-04-13'
-birth_place: Forrest City, Arkansas, United States
+birth_place: 'Forrest City, Arkansas, United States'
 genres:
-- soul
-- motown
-- soul blues
+  - soul
+  - motown
+  - soul blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/al_green.jpg
   caption: al green
   background: solo_singer
   born: '1946-04-13'
-  origin: Forrest City, Arkansas, United States
+  origin: 'Forrest City, Arkansas, United States'
 audio_profile:
   tempo_avg: 110.1
   energy_avg: 0.439
@@ -23,7 +23,7 @@ audio_profile:
   danceability_avg: 0.68
   acousticness_avg: 0.35
   instrumentalness_avg: 0.032
-  loudness_avg: -10.0
+  loudness_avg: -10
   speechiness_avg: 0.057
   liveness_avg: 0.144
   track_count: 50
@@ -31,58 +31,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Willie Mitchell
-  - Hi Rhythm Section
+    - Willie Mitchell
+    - Hi Rhythm Section
   influenced:
-  - Prince
-  - D'Angelo
-  - John Legend
+    - Prince
+    - D'Angelo
+    - John Legend
   mentors:
-  - Jackie Wilson
-  - Willie Mitchell
+    - Jackie Wilson
+    - Willie Mitchell
 spotify_data:
   followers: 2272060
   id: 3dkbV4qihUeMsqN4vBGg93
   popularity: 65
-  url: https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93
+  url: 'https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93'
 discography_enriched: true
 top_tracks:
-- Let's Stay Together (Let's Stay Together)
-- Tired of Being Alone (Gets Next to You)
-- How Can You Mend a Broken Heart (Let's Stay Together)
-- Love and Happiness (I'm Still in Love with You)
-- Take Me to the River (Al Green Explores Your Mind)
-- I'm Still in Love with You (I'm Still in Love with You)
-- Feel Like I Do
-- Dream (The Belle Album)
-- Love and Happiness
-- L-O-V-E (Love) (Al Green Is Love)
+  - Let's Stay Together (Let's Stay Together)
+  - Tired of Being Alone (Gets Next to You)
+  - How Can You Mend a Broken Heart (Let's Stay Together)
+  - Love and Happiness (I'm Still in Love with You)
+  - Take Me to the River (Al Green Explores Your Mind)
+  - I'm Still in Love with You (I'm Still in Love with You)
+  - Feel Like I Do
+  - Dream (The Belle Album)
+  - Love and Happiness
+  - L-O-V-E (Love) (Al Green Is Love)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/fb7272ba-f130-4f0a-934d-6eeea4c18c9a
-  spotify: https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93
-  wikipedia: https://en.wikipedia.org/wiki/Al_Green
+  musicbrainz: 'https://musicbrainz.org/artist/fb7272ba-f130-4f0a-934d-6eeea4c18c9a'
+  spotify: 'https://open.spotify.com/artist/3dkbV4qihUeMsqN4vBGg93'
+  wikipedia: 'https://en.wikipedia.org/wiki/Al_Green'
 image_path: 03_Resources/source_material/ArtistPortraits/al_green.jpg
 biography_enhanced_at: '2025-10-19T11:55:14.338533'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Al_Green
-- https://www.britannica.com/biography/Al-Green
-- https://encyclopediaofarkansas.net/entries/al-green-2773/
-- https://www.biography.com/musicians/al-green
-- https://www.bluenote.com/artist/al-green/
+  - 'https://en.wikipedia.org/wiki/Al_Green'
+  - 'https://www.britannica.com/biography/Al-Green'
+  - 'https://encyclopediaofarkansas.net/entries/al-green-2773/'
+  - 'https://www.biography.com/musicians/al-green'
+  - 'https://www.bluenote.com/artist/al-green/'
 network_extracted: true
 entry_created: '2025-10-19T11:55:14.338537'
 last_updated: '2025-12-23T08:16:04.447160'
-disambiguation: US soul singer, songwriter, pastor and record producer
+disambiguation: 'US soul singer, songwriter, pastor and record producer'
 gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:48:36.284226'
 musicbrainz_id: fb7272ba-f130-4f0a-934d-6eeea4c18c9a
 tags:
-- 1970s
-- 1980s
-- 2008 universal fire victim
-
+  - 1970s
+  - 1980s
+  - 2008 universal fire victim
 ---
 
 ![](al_green.jpg)

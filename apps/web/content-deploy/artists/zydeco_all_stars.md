@@ -4,8 +4,8 @@ wiki_slug: zydeco-all-stars
 schema_version: 2
 status: active
 genres:
-- zydeco
-- cajun
+  - zydeco
+  - cajun
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/zydeco_all_stars.jpg
   caption: Zydeco All Stars
@@ -31,21 +31,21 @@ spotify_data:
   followers: 3988
   id: 3k419ca6hGFMfLCm2tUnWI
   popularity: 14
-  url: https://open.spotify.com/artist/3k419ca6hGFMfLCm2tUnWI
+  url: 'https://open.spotify.com/artist/3k419ca6hGFMfLCm2tUnWI'
 discography_enriched: true
 top_tracks:
-- Don't Mess With My Toot Toot (Zydeco Blues Party)
-- My Negress (Pine Grive Blues) (Zydeco Blues Party)
-- Zydeco Boogaloo (Zydeco Blues Party)
-- My Zydeco Shoes (Best of Zydeco Instrumentals)
-- I'm on My Way Back Home (Zydeco Blues Party)
-- Don't Mess With My Toot Toot (Best of Zydeco Instrumentals)
-- Hot Steppin' Zydeco (Ultimate Zydeco)
-- If It's Good for the Gander (Best of Zydeco Instrumentals)
-- Tu Le Ton Son Ton (Best of Zydeco Instrumentals)
-- No Scratch Blues (Best of Zydeco Instrumentals)
+  - Don't Mess With My Toot Toot (Zydeco Blues Party)
+  - My Negress (Pine Grive Blues) (Zydeco Blues Party)
+  - Zydeco Boogaloo (Zydeco Blues Party)
+  - My Zydeco Shoes (Best of Zydeco Instrumentals)
+  - I'm on My Way Back Home (Zydeco Blues Party)
+  - Don't Mess With My Toot Toot (Best of Zydeco Instrumentals)
+  - Hot Steppin' Zydeco (Ultimate Zydeco)
+  - If It's Good for the Gander (Best of Zydeco Instrumentals)
+  - Tu Le Ton Son Ton (Best of Zydeco Instrumentals)
+  - No Scratch Blues (Best of Zydeco Instrumentals)
 external_urls:
-  spotify: https://open.spotify.com/artist/3k419ca6hGFMfLCm2tUnWI
+  spotify: 'https://open.spotify.com/artist/3k419ca6hGFMfLCm2tUnWI'
   wikipedia: Not found
 image_path: 03_Resources/source_material/ArtistPortraits/zydeco_all_stars.jpg
 biography_enhanced_at: '2025-11-17T10:46:54.283524'
@@ -55,6 +55,8 @@ research_sources: []
 network_extracted: true
 entry_created: '2025-11-17T10:46:54.283534'
 last_updated: '2025-12-23T08:16:18.482371'
+origin: Unknown
+artist_type: band
 ---
 
 ![](zydeco_all_stars.jpg)

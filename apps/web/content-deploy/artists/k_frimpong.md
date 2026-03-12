@@ -1,18 +1,18 @@
 ---
-title: k frimpong
+title: K Frimpong
 wiki_slug: k-frimpong
 schema_version: 2
 status: active
-birth_place: Ofoase, Ashanti Region, Ghana
+birth_place: 'Ofoase, Ashanti Region, Ghana'
 genres:
-- highlife
-- hiplife
-- afrobeat
+  - highlife
+  - hiplife
+  - afrobeat
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/k_frimpong.jpg
   caption: k frimpong
   background: solo_singer
-  origin: Ofoase, Ashanti Region, Ghana
+  origin: 'Ofoase, Ashanti Region, Ghana'
 audio_profile:
   tempo_avg: 115.4
   energy_avg: 0.769
@@ -28,49 +28,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Vis-A-Vis
-  - Cubano Fiestas
-  - Collins Obiba Marfo
+    - Vis-A-Vis
+    - Cubano Fiestas
+    - Collins Obiba Marfo
   influenced:
-  - Cabum
-  - Kofi Kapone
-  - Ghanaian highlife and hiplife musicians
+    - Cabum
+    - Kofi Kapone
+    - Ghanaian highlife and hiplife musicians
   mentors:
-  - K. Gyasy
+    - K. Gyasy
 spotify_data:
   followers: 7838
   id: 2LDOr6fxXh2JPduLAHzztr
   popularity: 26
-  url: https://open.spotify.com/artist/2LDOr6fxXh2JPduLAHzztr
+  url: 'https://open.spotify.com/artist/2LDOr6fxXh2JPduLAHzztr'
 discography_enriched: true
 top_tracks:
-- Kyenkyen Bi Adi M'awu (Afro-Rock Vol. 1)
-- Kyenkyen Bi Adi Mawu
-- 'Kyenkyen Bi Adi M''awu (Ghana Special: Modern Highlife, Afro Sounds & Ghanaian Blues 1968-81)'
-- 'Kyenkyen Bi Adi M''awu (Ghana Special: Modern Highlife, Afro Sounds & Ghanaian Blues 1968-81)'
-- Aboagyewaa (K. Frimpong backed by Vis-A-Vis)
-- Abrabo (Abrabo)
-- Kyenkyen Bi Adi M'Awu (Appietus (Two Decades of Hiplife Hits))
-- Kyenkyen
-- Rikia
-- Kyenkyen Bi Adi M'awu (The Blue Album)
+  - Kyenkyen Bi Adi M'awu (Afro-Rock Vol. 1)
+  - Kyenkyen Bi Adi Mawu
+  - >-
+    Kyenkyen Bi Adi M'awu (Ghana Special: Modern Highlife, Afro Sounds &
+    Ghanaian Blues 1968-81)
+  - >-
+    Kyenkyen Bi Adi M'awu (Ghana Special: Modern Highlife, Afro Sounds &
+    Ghanaian Blues 1968-81)
+  - Aboagyewaa (K. Frimpong backed by Vis-A-Vis)
+  - Abrabo (Abrabo)
+  - Kyenkyen Bi Adi M'Awu (Appietus (Two Decades of Hiplife Hits))
+  - Kyenkyen
+  - Rikia
+  - Kyenkyen Bi Adi M'awu (The Blue Album)
 external_urls:
-  spotify: https://open.spotify.com/artist/2LDOr6fxXh2JPduLAHzztr
-  wikipedia: https://en.wikipedia.org/wiki/K._Frimpong
+  spotify: 'https://open.spotify.com/artist/2LDOr6fxXh2JPduLAHzztr'
+  wikipedia: 'https://en.wikipedia.org/wiki/K._Frimpong'
 image_path: 03_Resources/source_material/ArtistPortraits/k_frimpong.jpg
 biography_enhanced_at: '2025-11-16T20:21:09.453745'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/K._Frimpong
-- https://hotcasarecords.com/release/k-frimpong-backed-by-vis-a-vis/
-- https://thequietus.com/quietus-reviews/reissue-of-the-week/k-frimpong-blue-album-review/
-- https://hotcasarecords.bandcamp.com/album/best-of-1990-1995
-- https://www.musicamacondo.com/2020/05/highlife-territory-a-brief-moment-with-alhaji-k-frimpong/
-- https://www.tracklib.com/music/artists/k-frimpong
+  - 'https://en.wikipedia.org/wiki/K._Frimpong'
+  - 'https://hotcasarecords.com/release/k-frimpong-backed-by-vis-a-vis/'
+  - >-
+    https://thequietus.com/quietus-reviews/reissue-of-the-week/k-frimpong-blue-album-review/
+  - 'https://hotcasarecords.bandcamp.com/album/best-of-1990-1995'
+  - >-
+    https://www.musicamacondo.com/2020/05/highlife-territory-a-brief-moment-with-alhaji-k-frimpong/
+  - 'https://www.tracklib.com/music/artists/k-frimpong'
 network_extracted: true
 entry_created: '2025-11-16T20:21:09.453753'
 last_updated: '2025-12-23T08:16:11.141768'
+birth_date: '1939-07-22'
+death_date: '2005-10-18'
+artist_type: person
 ---
 
 ![](k_frimpong.jpg)

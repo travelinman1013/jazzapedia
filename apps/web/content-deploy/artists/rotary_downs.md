@@ -1,42 +1,46 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-01-03T01:41:51.611419'
 enhancement_provider: perplexity
 entry_created: '2026-01-03T01:41:51.611433'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3163d643-596f-4890-8f39-d16c08740bea
-  spotify: https://open.spotify.com/artist/4NwNyIUQo4EMQZiiTsRZYE
-  wikipedia: https://en.wikipedia.org/wiki/Rotary_Downs
+  musicbrainz: 'https://musicbrainz.org/artist/3163d643-596f-4890-8f39-d16c08740bea'
+  spotify: 'https://open.spotify.com/artist/4NwNyIUQo4EMQZiiTsRZYE'
+  wikipedia: 'https://en.wikipedia.org/wiki/Rotary_Downs'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/rotary_downs.jpg
 last_updated: '2026-01-03T01:41:51.611436'
 musical_connections:
   collaborators:
-  - Chris Colombo
-  - James Marler
-  - Zack Smith
-  - Jason Rhein
-  - Anthony Curccia
-  - Michael Girardot
+    - Chris Colombo
+    - James Marler
+    - Zack Smith
+    - Jason Rhein
+    - Anthony Curccia
+    - Michael Girardot
   influenced: []
   mentors: []
 musicbrainz_id: 3163d643-596f-4890-8f39-d16c08740bea
 network_extracted: true
-origin: New Orleans
+origin: 'New Orleans, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://www.thevinyldistrict.com/neworleans/tvd-ticket-giveaway-rotary-downs/
-- https://compulsivereader.com/2015/12/03/american-music-of-grace-and-grief-in-louisiana-featuring-rotary-downs-and-marc-broussard/
-- https://en.wikipedia.org/wiki/Rotary_Downs
-- https://www.offbeat.com/articles/direct-from-the-underground-rotary-downs/
-- https://www.myspiltmilk.com/articles/rotary-downs-finds-a-new-way-to-be-rotary-downs
-- https://antigravitymagazine.com/feature/tracing-the-future-with-rotary-downs/
-- https://www.whereyat.com/rotary-downs
+  - >-
+    https://www.thevinyldistrict.com/neworleans/tvd-ticket-giveaway-rotary-downs/
+  - >-
+    https://compulsivereader.com/2015/12/03/american-music-of-grace-and-grief-in-louisiana-featuring-rotary-downs-and-marc-broussard/
+  - 'https://en.wikipedia.org/wiki/Rotary_Downs'
+  - 'https://www.offbeat.com/articles/direct-from-the-underground-rotary-downs/'
+  - >-
+    https://www.myspiltmilk.com/articles/rotary-downs-finds-a-new-way-to-be-rotary-downs
+  - >-
+    https://antigravitymagazine.com/feature/tracing-the-future-with-rotary-downs/
+  - 'https://www.whereyat.com/rotary-downs'
 spotify_data:
   followers: 723
   id: 4NwNyIUQo4EMQZiiTsRZYE
   popularity: 1
-  url: https://open.spotify.com/artist/4NwNyIUQo4EMQZiiTsRZYE
+  url: 'https://open.spotify.com/artist/4NwNyIUQo4EMQZiiTsRZYE'
 status: active
 title: Rotary Downs
 ---

@@ -1,17 +1,17 @@
 ---
-title: anaiis
+title: Anaiis
 wiki_slug: anaiis
 schema_version: 2
 artist_type: person
 status: active
-birth_place: Toulouse, Occitanie, France
+birth_place: 'Toulouse, Occitanie, France'
 genres:
-- alternative r&b
+  - alternative r&b
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/anaiis.jpg
   caption: anaiis
   background: solo_singer
-  origin: Toulouse, Occitanie, France
+  origin: 'Toulouse, Occitanie, France'
 audio_profile:
   tempo_avg: 122.5
   energy_avg: 0.456
@@ -27,54 +27,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Om'Mas Keith
-  - Arca
-  - Grupo Cosmo
-  - Sessa
-  - Luedji Luna
-  - Topaz Jones
-  - Chronixx
+    - Om'Mas Keith
+    - Arca
+    - Grupo Cosmo
+    - Sessa
+    - Luedji Luna
+    - Topaz Jones
+    - Chronixx
   influenced: []
   mentors:
-  - Nina Simone
+    - Nina Simone
 spotify_data:
   followers: 40366
   id: 0OtS8ueEJDd0RZnHdHOJDl
   popularity: 48
-  url: https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl
+  url: 'https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl'
 discography_enriched: true
 top_tracks:
-- Deus Deus
-- B.P.E (anaiis & Grupo Cosmo)
-- To Be Found
-- Toda Cor (anaiis & Grupo Cosmo)
-- Smell The Daisies
-- Dreamer Too
-- Voyage (anaiis & Grupo Cosmo)
-- transcending (Karen Nyame KG remix) - Remix (this is no longer a dream [DELUXE])
-- Honeydew (anaiis & Grupo Cosmo)
-- Finding Toda Cor (anaiis & Grupo Cosmo)
+  - Deus Deus
+  - B.P.E (anaiis & Grupo Cosmo)
+  - To Be Found
+  - Toda Cor (anaiis & Grupo Cosmo)
+  - Smell The Daisies
+  - Dreamer Too
+  - Voyage (anaiis & Grupo Cosmo)
+  - >-
+    transcending (Karen Nyame KG remix) - Remix (this is no longer a dream
+    [DELUXE])
+  - Honeydew (anaiis & Grupo Cosmo)
+  - Finding Toda Cor (anaiis & Grupo Cosmo)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1c224c7e-f5f3-45e9-892c-d3e5c0a0022f
-  spotify: https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl
-  wikipedia: https://en.wikipedia.org/wiki/Anaiis
+  musicbrainz: 'https://musicbrainz.org/artist/1c224c7e-f5f3-45e9-892c-d3e5c0a0022f'
+  spotify: 'https://open.spotify.com/artist/0OtS8ueEJDd0RZnHdHOJDl'
+  wikipedia: 'https://en.wikipedia.org/wiki/Anaiis'
 image_path: 03_Resources/source_material/ArtistPortraits/anaiis.jpg
 biography_enhanced_at: '2025-10-22T06:44:17.405485'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Anaiis
-- https://www.sxswlondon.com/session/anaiis
-- https://www.thelineofbestfit.com/new-music/discovery/anais-nina-self-expression-inspired-nina-simon
-- http://www.nts.live/artists/124355-anaiis
-- https://www.knucklemagazine.com/editorials/anaiis
+  - 'https://en.wikipedia.org/wiki/Anaiis'
+  - 'https://www.sxswlondon.com/session/anaiis'
+  - >-
+    https://www.thelineofbestfit.com/new-music/discovery/anais-nina-self-expression-inspired-nina-simon
+  - 'http://www.nts.live/artists/124355-anaiis'
+  - 'https://www.knucklemagazine.com/editorials/anaiis'
 network_extracted: true
 entry_created: '2025-10-22T06:44:17.405506'
 last_updated: '2025-12-23T08:16:04.747955'
-disambiguation: French‐Senegalese artist, based in London, UK
+disambiguation: 'French‐Senegalese artist, based in London, UK'
 gender: Female
 musicbrainz_id: 1c224c7e-f5f3-45e9-892c-d3e5c0a0022f
-
 ---
 
 ![](anaiis.jpg)

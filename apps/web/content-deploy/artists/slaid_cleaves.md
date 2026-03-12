@@ -1,25 +1,25 @@
 ---
-title: slaid cleaves
+title: Slaid Cleaves
 wiki_slug: slaid-cleaves
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1964-06-09'
-birth_place: Washington, D.C.
+birth_place: 'Washington, D.C., United States'
 genres:
-- americana
-- alt country
-- red dirt
-- texas country
-- gothic country
+  - americana
+  - alt country
+  - red dirt
+  - texas country
+  - gothic country
 instruments:
-- acoustic guitar
+  - acoustic guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/slaid_cleaves.jpg
   caption: slaid cleaves
   background: non_vocal_instrumentalist
   born: '1964-06-09'
-  origin: Washington, D.C.
+  origin: 'Washington, D.C.'
 audio_profile:
   tempo_avg: 112.3
   energy_avg: 0.466
@@ -35,55 +35,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Gurf Morlix
-  - Rod Picott
-  - Scrappy Jud Newcomb
-  - The Moxie Men
+    - Gurf Morlix
+    - Rod Picott
+    - Scrappy Jud Newcomb
+    - The Moxie Men
   influenced: []
   mentors:
-  - Woody Guthrie
-  - Johnny Cash
-  - Hank Williams
+    - Woody Guthrie
+    - Johnny Cash
+    - Hank Williams
 spotify_data:
   followers: 47384
   id: 1mkuxdmqLdlrtCSwLQ2sUn
   popularity: 35
-  url: https://open.spotify.com/artist/1mkuxdmqLdlrtCSwLQ2sUn
+  url: 'https://open.spotify.com/artist/1mkuxdmqLdlrtCSwLQ2sUn'
 discography_enriched: true
 top_tracks:
-- Breakfast In Hell (Broke Down)
-- Breakfast in Hell (Sorrow & Smoke)
-- Millionaire (Unsung)
-- Broke Down (Broke Down)
-- Texas Love Song (Still Fighting the War)
-- One Good Year (Broke Down)
-- Horseshoe Lounge (Broke Down)
-- Welding Burns (Still Fighting the War)
-- Horses (Wishbones)
-- Tumbleweed Stew (Sorrow & Smoke)
+  - Breakfast In Hell (Broke Down)
+  - Breakfast in Hell (Sorrow & Smoke)
+  - Millionaire (Unsung)
+  - Broke Down (Broke Down)
+  - Texas Love Song (Still Fighting the War)
+  - One Good Year (Broke Down)
+  - Horseshoe Lounge (Broke Down)
+  - Welding Burns (Still Fighting the War)
+  - Horses (Wishbones)
+  - Tumbleweed Stew (Sorrow & Smoke)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3f1aee2a-294c-4997-aed9-1c4ba1d984f7
-  spotify: https://open.spotify.com/artist/1mkuxdmqLdlrtCSwLQ2sUn
-  wikipedia: https://en.wikipedia.org/wiki/Slaid_Cleaves
+  musicbrainz: 'https://musicbrainz.org/artist/3f1aee2a-294c-4997-aed9-1c4ba1d984f7'
+  spotify: 'https://open.spotify.com/artist/1mkuxdmqLdlrtCSwLQ2sUn'
+  wikipedia: 'https://en.wikipedia.org/wiki/Slaid_Cleaves'
 image_path: 03_Resources/source_material/ArtistPortraits/slaid_cleaves.jpg
 biography_enhanced_at: '2025-12-13T11:09:41.649418'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://slaidcleaves.com/bio
-- https://en.wikipedia.org/wiki/Slaid_Cleaves
-- https://www.last.fm/music/Slaid+Cleaves/+wiki
-- https://www.themainemag.com/1714-slaid-cleaves/
-- https://lonestarmusicmagazine.com/qa-slaid-cleaves-2/
+  - 'https://slaidcleaves.com/bio'
+  - 'https://en.wikipedia.org/wiki/Slaid_Cleaves'
+  - 'https://www.last.fm/music/Slaid+Cleaves/+wiki'
+  - 'https://www.themainemag.com/1714-slaid-cleaves/'
+  - 'https://lonestarmusicmagazine.com/qa-slaid-cleaves-2/'
 network_extracted: true
 entry_created: '2025-12-13T11:09:41.649435'
 last_updated: '2025-12-23T08:16:15.723451'
 gender: Male
 musicbrainz_id: 3f1aee2a-294c-4997-aed9-1c4ba1d984f7
 tags:
-- country
-- folk
-
+  - country
+  - folk
+origin: 'Austin, Texas, United States'
 ---
 
 ![](slaid_cleaves.jpg)

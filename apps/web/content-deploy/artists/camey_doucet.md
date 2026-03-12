@@ -4,15 +4,15 @@ wiki_slug: camey-doucet
 schema_version: 2
 artist_type: person
 status: active
-birth_place: Crowley, Louisiana, USA
+birth_place: 'Crowley, Louisiana, USA'
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/camey_doucet.jpg
   caption: Camey Doucet
   background: solo_singer
-  origin: Crowley, Louisiana, USA
+  origin: 'Crowley, Louisiana, USA'
 audio_profile:
   tempo_avg: 122.2
   energy_avg: 0.488
@@ -28,43 +28,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Swallow Records
+    - Swallow Records
   influenced: []
   mentors: []
 spotify_data:
   followers: 476
   id: 39d5jjQU5C6TB1Y7UNQuc7
   popularity: 8
-  url: https://open.spotify.com/artist/39d5jjQU5C6TB1Y7UNQuc7
+  url: 'https://open.spotify.com/artist/39d5jjQU5C6TB1Y7UNQuc7'
 discography_enriched: true
 top_tracks:
-- Mom je suis toujours ton petit garcon (Mom, I'm Still Your Little Boy)
-- Mom, I'm Still Your Little Boy (Mom, I'm Still Your Little Boy)
-- Tiens mon ratelier (Mom, I'm Still Your Little Boy)
-- La marche des mariés (The Wedding March) (Mom, I'm Still Your Little Boy)
-- Who Stole the Pies (Cajun Saturday Night)
-- Hold My False Teeth (And I'll Show You How To Dance (The Best of the Cajun Hits, Vol. 3)
-- What Christmas Means to Me (Merry Cajun Christmas)
-- Dem Cats Are Back Again (Mom, I'm Still Your Little Boy)
-- Fondre dans mes souliers (Melt in My Shoes) (Mom, I'm Still Your Little Boy)
-- Non Monsieur Américain (No Mr. American) (Mom, I'm Still Your Little Boy)
+  - 'Mom je suis toujours ton petit garcon (Mom, I''m Still Your Little Boy)'
+  - 'Mom, I''m Still Your Little Boy (Mom, I''m Still Your Little Boy)'
+  - 'Tiens mon ratelier (Mom, I''m Still Your Little Boy)'
+  - 'La marche des mariés (The Wedding March) (Mom, I''m Still Your Little Boy)'
+  - Who Stole the Pies (Cajun Saturday Night)
+  - >-
+    Hold My False Teeth (And I'll Show You How To Dance (The Best of the Cajun
+    Hits, Vol. 3)
+  - What Christmas Means to Me (Merry Cajun Christmas)
+  - 'Dem Cats Are Back Again (Mom, I''m Still Your Little Boy)'
+  - 'Fondre dans mes souliers (Melt in My Shoes) (Mom, I''m Still Your Little Boy)'
+  - 'Non Monsieur Américain (No Mr. American) (Mom, I''m Still Your Little Boy)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/188660dc-2d79-4036-a0e1-2dfaf5674de2
-  spotify: https://open.spotify.com/artist/39d5jjQU5C6TB1Y7UNQuc7
-  wikipedia: https://en.wikipedia.org/wiki/Camey_Doucet
+  musicbrainz: 'https://musicbrainz.org/artist/188660dc-2d79-4036-a0e1-2dfaf5674de2'
+  spotify: 'https://open.spotify.com/artist/39d5jjQU5C6TB1Y7UNQuc7'
+  wikipedia: 'https://en.wikipedia.org/wiki/Camey_Doucet'
 image_path: 03_Resources/source_material/ArtistPortraits/camey_doucet.jpg
 biography_enhanced_at: '2025-12-22T01:39:12.712085'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://flattownmusic.com/artist/camey-doucet/
-- https://en.wikipedia.org/wiki/Camey_Doucet
-- https://www.acadianmuseum.com/living-legend/camey-doucet/
-- https://www.legis.la.gov/legis/ViewDocument.aspx?d=1410512
+  - 'https://flattownmusic.com/artist/camey-doucet/'
+  - 'https://en.wikipedia.org/wiki/Camey_Doucet'
+  - 'https://www.acadianmuseum.com/living-legend/camey-doucet/'
+  - 'https://www.legis.la.gov/legis/ViewDocument.aspx?d=1410512'
 network_extracted: true
 entry_created: '2025-12-22T01:39:12.712090'
 last_updated: '2025-12-23T08:16:06.328894'
 musicbrainz_id: 188660dc-2d79-4036-a0e1-2dfaf5674de2
+birth_date: '1939-04-04'
 ---
 
 ![](camey_doucet.jpg)

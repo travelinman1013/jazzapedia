@@ -1,11 +1,11 @@
 ---
-title: Shirelles
+title: The Shirelles
 wiki_slug: shirelles
 schema_version: 2
 status: active
 genres:
-- doo-wop
-- motown
+  - doo-wop
+  - motown
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/shirelles.jpg
   caption: Shirelles
@@ -25,50 +25,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Carole King and Gerry Goffin
-  - Dionne Warwick
-  - Stan Green
+    - Carole King and Gerry Goffin
+    - Dionne Warwick
+    - Stan Green
   influenced:
-  - The Chiffons, The Supremes, The Ronettes, Martha & the Vandellas, The Crystals
+    - >-
+      The Chiffons, The Supremes, The Ronettes, Martha & the Vandellas, The
+      Crystals
   mentors:
-  - Florence Greenberg
-  - Luther Dixon
+    - Florence Greenberg
+    - Luther Dixon
 spotify_data:
   followers: 359611
   id: 0x83OBqixqdCHnStP5VMcn
   popularity: 54
-  url: https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn
+  url: 'https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn'
 discography_enriched: true
 top_tracks:
-- Will You Love Me Tomorrow (Will You Still Love Me Tomorrow)
-- Will You Love Me Tomorrow (Remember When)
-- Mama Said (Will You Still Love Me Tomorrow)
-- Mama Said (Remember When)
-- Dedicated To The One I Love (Will You Still Love Me Tomorrow)
-- Baby It's You (Will You Still Love Me Tomorrow)
-- Mama Said (Rerecorded)
-- Soldier Boy (Will You Still Love Me Tomorrow)
-- Will You Love Me Tomorrow (Will You Still Love Me Tomorrow)
-- Mama Said
+  - Will You Love Me Tomorrow (Will You Still Love Me Tomorrow)
+  - Will You Love Me Tomorrow (Remember When)
+  - Mama Said (Will You Still Love Me Tomorrow)
+  - Mama Said (Remember When)
+  - Dedicated To The One I Love (Will You Still Love Me Tomorrow)
+  - Baby It's You (Will You Still Love Me Tomorrow)
+  - Mama Said (Rerecorded)
+  - Soldier Boy (Will You Still Love Me Tomorrow)
+  - Will You Love Me Tomorrow (Will You Still Love Me Tomorrow)
+  - Mama Said
 external_urls:
-  spotify: https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn
-  wikipedia: https://en.wikipedia.org/wiki/The_Shirelles
+  spotify: 'https://open.spotify.com/artist/0x83OBqixqdCHnStP5VMcn'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Shirelles'
 image_path: 03_Resources/source_material/ArtistPortraits/shirelles.jpg
 biography_enhanced_at: '2025-12-04T07:25:58.901050'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.theshirelles.com/band-bio/
-- https://en.wikipedia.org/wiki/The_Shirelles
-- https://njhalloffame.org/hall-of-famers/2014-inductees/the-shirelles/
-- https://www.ncmea.net/shirley-reeves-and-doris-jackson-the-shirelles/
-- https://www.britannica.com/topic/the-Shirelles
-- https://www.history-of-rock.com/shirelles.htm
-- https://theshirellesofficial.com/bio
+  - 'https://www.theshirelles.com/band-bio/'
+  - 'https://en.wikipedia.org/wiki/The_Shirelles'
+  - 'https://njhalloffame.org/hall-of-famers/2014-inductees/the-shirelles/'
+  - 'https://www.ncmea.net/shirley-reeves-and-doris-jackson-the-shirelles/'
+  - 'https://www.britannica.com/topic/the-Shirelles'
+  - 'https://www.history-of-rock.com/shirelles.htm'
+  - 'https://theshirellesofficial.com/bio'
 network_extracted: true
 entry_created: '2025-12-04T07:25:58.901066'
 last_updated: '2025-12-23T08:16:15.575837'
-origin: Passaic, New Jersey, United States
+origin: 'Passaic, New Jersey, United States'
+artist_type: band
 ---
 
 ![](shirelles.jpg)

@@ -1,18 +1,18 @@
 ---
-title: NESTA, DaVionne
+title: 'NESTA, DaVionne'
 wiki_slug: nesta-davionne
 schema_version: 2
 status: active
-birth_place: Jamaica, Queens, New York, United States
+birth_place: 'Jamaica, Queens, New York, United States'
 genres:
-- dancehall
+  - dancehall
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/nesta_davionne.jpg
-  caption: NESTA, DaVionne
+  caption: 'NESTA, DaVionne'
   background: solo_singer
-  origin: Jamaica, Queens, New York, United States
+  origin: 'Jamaica, Queens, New York, United States'
 audio_profile:
-  tempo_avg: 96.0
+  tempo_avg: 96
   energy_avg: 0.867
   valence_avg: 0.491
   danceability_avg: 0.86
@@ -26,36 +26,38 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mereba
-  - Show Dem Camp
-  - LadiPoe
+    - Mereba
+    - Show Dem Camp
+    - LadiPoe
   influenced: []
   mentors:
-  - T-Pain
+    - T-Pain
 spotify_data:
   followers: 65
   id: 5CcaFhLbjScE986XXN3ooM
   popularity: 1
-  url: https://open.spotify.com/artist/5CcaFhLbjScE986XXN3ooM
+  url: 'https://open.spotify.com/artist/5CcaFhLbjScE986XXN3ooM'
 discography_enriched: true
 top_tracks:
-- Nesta - Walk Out - Official Audio (Nesta - Walk Out (Official Audio))
+  - Nesta - Walk Out - Official Audio (Nesta - Walk Out (Official Audio))
 external_urls:
-  spotify: https://open.spotify.com/artist/5CcaFhLbjScE986XXN3ooM
+  spotify: 'https://open.spotify.com/artist/5CcaFhLbjScE986XXN3ooM'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/nesta_davionne.jpg
 biography_enhanced_at: '2025-12-04T08:24:38.328553'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- viberate.com - Nesta artist profile
-- limelightzz.wordpress.com - Nesta artist feature
-- deezer.com - NESTA biography
-- sxswlondon.com - NESTA artist profile
-- reggaetastemaker.com - Your Love Alone review
+  - viberate.com - Nesta artist profile
+  - limelightzz.wordpress.com - Nesta artist feature
+  - deezer.com - NESTA biography
+  - sxswlondon.com - NESTA artist profile
+  - reggaetastemaker.com - Your Love Alone review
 network_extracted: true
 entry_created: '2025-12-04T08:24:38.328559'
 last_updated: '2025-12-23T08:16:13.490238'
+origin: 'Queens, New York, United States'
+artist_type: person
 ---
 
 ![](nesta_davionne.jpg)

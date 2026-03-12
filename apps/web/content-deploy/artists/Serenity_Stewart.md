@@ -16,8 +16,8 @@ audio_profile:
   valence_avg: 0.484
   danceability_avg: 0.573
   acousticness_avg: 0.701
-  instrumentalness_avg: 0.0
-  loudness_avg: -7.0
+  instrumentalness_avg: 0
+  loudness_avg: -7
   speechiness_avg: 0.047
   liveness_avg: 0.152
   track_count: 50
@@ -25,44 +25,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Chuck Hilboldt
-  - Unnamed keyboard player
+    - Chuck Hilboldt
+    - Unnamed keyboard player
   influenced: []
   mentors:
-  - Floyd Sneed
-  - CPL Charles A. Johnson
+    - Floyd Sneed
+    - CPL Charles A. Johnson
 spotify_data:
   followers: 45
   id: 1t6RBUWJsL0elGlIP9Rp7k
   popularity: 0
-  url: https://open.spotify.com/artist/1t6RBUWJsL0elGlIP9Rp7k
+  url: 'https://open.spotify.com/artist/1t6RBUWJsL0elGlIP9Rp7k'
 discography_enriched: true
 top_tracks:
-- Why Don’t You Do It Right (P.S. I Love You)
-- Why Don’t You Do It Right (Why Don’t You Do It Right)
-- Champagne Taste (Champagne Taste)
-- That's the Way I Always Heard It Should Be (Champagne Taste)
-- Por Favor (Champagne Taste)
-- Tonight I'll Say a Prayer (Champagne Taste)
-- Mink Shmink (Champagne Taste)
-- Eres Tu (Champagne Taste)
-- I Must Have That Man (Champagne Taste)
-- I Wanna Be Evil (Champagne Taste)
+  - Why Don’t You Do It Right (P.S. I Love You)
+  - Why Don’t You Do It Right (Why Don’t You Do It Right)
+  - Champagne Taste (Champagne Taste)
+  - That's the Way I Always Heard It Should Be (Champagne Taste)
+  - Por Favor (Champagne Taste)
+  - Tonight I'll Say a Prayer (Champagne Taste)
+  - Mink Shmink (Champagne Taste)
+  - Eres Tu (Champagne Taste)
+  - I Must Have That Man (Champagne Taste)
+  - I Wanna Be Evil (Champagne Taste)
 external_urls:
-  spotify: https://open.spotify.com/artist/1t6RBUWJsL0elGlIP9Rp7k
+  spotify: 'https://open.spotify.com/artist/1t6RBUWJsL0elGlIP9Rp7k'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/Serenity_Stewart.jpg
 biography_enhanced_at: '2025-10-20T10:12:39.494198'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://serenitystewart.com/about/
-- https://8womendream.com/brave-living/interviewing-a-real-life-dreamer-serenity-stewart-22-august
-- https://www.reverbnation.com/serenitystewart
-- https://epodcastnetwork.com/jazz-adult-contemporary-singerrecording-artist-serenity-stewart/
+  - 'https://serenitystewart.com/about/'
+  - >-
+    https://8womendream.com/brave-living/interviewing-a-real-life-dreamer-serenity-stewart-22-august
+  - 'https://www.reverbnation.com/serenitystewart'
+  - >-
+    https://epodcastnetwork.com/jazz-adult-contemporary-singerrecording-artist-serenity-stewart/
 network_extracted: true
 entry_created: '2025-10-20T10:12:39.494213'
 last_updated: '2025-12-23T08:16:03.850051'
+origin: 'Las Vegas, Nevada, United States'
+artist_type: person
 ---
 
 ![](Serenity_Stewart.jpg)

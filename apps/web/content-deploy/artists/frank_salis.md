@@ -3,7 +3,7 @@ title: Frank Salis
 wiki_slug: frank-salis
 schema_version: 2
 status: active
-birth_place: Switzerland
+birth_place: 'Switzerland, Switzerland, Switzerland'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/frank_salis.jpg
@@ -17,7 +17,7 @@ audio_profile:
   danceability_avg: 0.639
   acousticness_avg: 0.561
   instrumentalness_avg: 0.082
-  loudness_avg: -11.0
+  loudness_avg: -11
   speechiness_avg: 0.097
   liveness_avg: 0.173
   track_count: 50
@@ -25,46 +25,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Michael Watson
-  - Angelo Powers
-  - Leon “Kid Chocolate” Brown
-  - Kevin Louis
+    - Michael Watson
+    - Angelo Powers
+    - Leon “Kid Chocolate” Brown
+    - Kevin Louis
   influenced: []
   mentors: []
 spotify_data:
   followers: 60029
   id: 10uDX8MnRj05PQIVGMygO2
   popularity: 40
-  url: https://open.spotify.com/artist/10uDX8MnRj05PQIVGMygO2
+  url: 'https://open.spotify.com/artist/10uDX8MnRj05PQIVGMygO2'
 discography_enriched: true
 top_tracks:
-- THAT'S MY GIRL
-- Tangerine
-- get back (brownboy)
-- JUST A FRIEND
-- Runnin Out Of Time
-- Change
-- North Carolina
-- FOUND ME
-- was it worth it (brownboy)
-- All in My Head
+  - THAT'S MY GIRL
+  - Tangerine
+  - get back (brownboy)
+  - JUST A FRIEND
+  - Runnin Out Of Time
+  - Change
+  - North Carolina
+  - FOUND ME
+  - was it worth it (brownboy)
+  - All in My Head
 external_urls:
-  spotify: https://open.spotify.com/artist/10uDX8MnRj05PQIVGMygO2
+  spotify: 'https://open.spotify.com/artist/10uDX8MnRj05PQIVGMygO2'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/frank_salis.jpg
 biography_enhanced_at: '2025-12-23T02:02:46.551588'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://www.zz-quartet.com/biography/
-- https://www.offbeat.com/music/frank-salis-michael-watson-frank-salis-meets-michael-watson-independent-2/
-- https://www.263chat.com/jazz-storms-the-zambezi-as-global-stars-hit-zimbabwe-stage/
-- https://www.allaboutjazz.com/musicians/frank-salis/
-- https://www.youtube.com/watch?v=uovUQlr-PuY
-- https://tellingwithmyeyes.wordpress.com/tag/frank-salis/
+  - 'http://www.zz-quartet.com/biography/'
+  - >-
+    https://www.offbeat.com/music/frank-salis-michael-watson-frank-salis-meets-michael-watson-independent-2/
+  - >-
+    https://www.263chat.com/jazz-storms-the-zambezi-as-global-stars-hit-zimbabwe-stage/
+  - 'https://www.allaboutjazz.com/musicians/frank-salis/'
+  - 'https://www.youtube.com/watch?v=uovUQlr-PuY'
+  - 'https://tellingwithmyeyes.wordpress.com/tag/frank-salis/'
 network_extracted: true
 entry_created: '2025-12-23T02:02:46.551599'
 last_updated: '2025-12-23T08:16:08.758895'
+artist_type: person
 ---
 
 ![](frank_salis.jpg)

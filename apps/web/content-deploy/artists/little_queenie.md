@@ -1,15 +1,15 @@
 ---
-title: little queenie
+title: Little Queenie
 wiki_slug: little-queenie
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, USA'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/little_queenie.jpg
   caption: little queenie
   background: solo_singer
-  origin: New Orleans, Louisiana, USA
+  origin: 'New Orleans, Louisiana, USA'
 audio_profile:
   tempo_avg: 117.7
   energy_avg: 0.51
@@ -25,45 +25,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Little Queenie & the Percolators
-  - John Magnie, Alison Young, Ricky Sebastian, Paul Clement, John Meunier, Jimmy Robinson, Joe Cabral, Alex Harris MacDonald,
-    Darcy Malone, Lenny Zenith
+    - Little Queenie & the Percolators
+    - >-
+      John Magnie, Alison Young, Ricky Sebastian, Paul Clement, John Meunier,
+      Jimmy Robinson, Joe Cabral, Alex Harris MacDonald, Darcy Malone, Lenny
+      Zenith
   influenced:
-  - Younger New Orleans musicians
+    - Younger New Orleans musicians
   mentors:
-  - New Orleans music community
+    - New Orleans music community
 spotify_data:
   followers: 69
   id: 2i8wQBkJPF2hIC2s8U7EcQ
   popularity: 0
-  url: https://open.spotify.com/artist/2i8wQBkJPF2hIC2s8U7EcQ
+  url: 'https://open.spotify.com/artist/2i8wQBkJPF2hIC2s8U7EcQ'
 discography_enriched: true
 top_tracks:
-- My Darlin' New Orleans (Purple Heart)
-- If Ever I Cease to Love (Purple Heart)
-- Whatever You Had (Purple Heart)
-- Come Inside (Purple Heart)
-- Down Home Girl (Purple Heart)
-- Lost My Mind (Purple Heart)
-- Shoulda Kept on Walkin' (Purple Heart)
-- He Knows His Way Around (Purple Heart)
-- Lost and Lookin' (Purple Heart)
-- Slingshots and Boomerangs (Purple Heart)
+  - My Darlin' New Orleans (Purple Heart)
+  - If Ever I Cease to Love (Purple Heart)
+  - Whatever You Had (Purple Heart)
+  - Come Inside (Purple Heart)
+  - Down Home Girl (Purple Heart)
+  - Lost My Mind (Purple Heart)
+  - Shoulda Kept on Walkin' (Purple Heart)
+  - He Knows His Way Around (Purple Heart)
+  - Lost and Lookin' (Purple Heart)
+  - Slingshots and Boomerangs (Purple Heart)
 external_urls:
-  spotify: https://open.spotify.com/artist/2i8wQBkJPF2hIC2s8U7EcQ
+  spotify: 'https://open.spotify.com/artist/2i8wQBkJPF2hIC2s8U7EcQ'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/little_queenie.jpg
 biography_enhanced_at: '2025-10-25T09:53:17.857204'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.imdb.com/name/nm5360021/
-- https://www.youtube.com/watch?v=bZn0inh5hX8
-- https://www.youtube.com/watch?v=rVuGhvMA9Ag
-- https://littlequeenie.com/the-interviews
+  - 'https://www.imdb.com/name/nm5360021/'
+  - 'https://www.youtube.com/watch?v=bZn0inh5hX8'
+  - 'https://www.youtube.com/watch?v=rVuGhvMA9Ag'
+  - 'https://littlequeenie.com/the-interviews'
 network_extracted: true
 entry_created: '2025-10-25T09:53:17.857217'
 last_updated: '2025-12-23T08:16:12.029637'
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1954-07-27'
+artist_type: person
 ---
 
 ![](little_queenie.jpg)

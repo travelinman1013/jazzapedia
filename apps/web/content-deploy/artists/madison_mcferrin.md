@@ -4,22 +4,22 @@ wiki_slug: madison-mcferrin
 schema_version: 2
 artist_type: person
 status: active
-birth_place: San Francisco, California, United States
+birth_place: 'San Francisco, California, United States'
 genres:
-- alternative r&b
+  - alternative r&b
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 49dbcc29-3dfe-439f-8690-c6eeef4535eb
-  name: VOICES FROM MARS
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 49dbcc29-3dfe-439f-8690-c6eeef4535eb
+    name: VOICES FROM MARS
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/madison_mcferrin.jpg
   caption: Madison McFerrin
   background: solo_singer
-  origin: San Francisco, California, United States
+  origin: 'San Francisco, California, United States'
 audio_profile:
-  tempo_avg: 116.0
+  tempo_avg: 116
   energy_avg: 0.452
   valence_avg: 0.371
   danceability_avg: 0.578
@@ -33,57 +33,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Taylor McFerrin
-  - Binary Soul
-  - Tyler, The Creator
-  - Bobby McFerrin
+    - Taylor McFerrin
+    - Binary Soul
+    - 'Tyler, The Creator'
+    - Bobby McFerrin
   influenced:
-  - No widely documented direct proteges
+    - No widely documented direct proteges
   mentors:
-  - Bobby McFerrin
-  - The Beatles
-  - Erykah Badu
-  - Bob Dylan
+    - Bobby McFerrin
+    - The Beatles
+    - Erykah Badu
+    - Bob Dylan
 spotify_data:
   followers: 113500
   id: 02zPEtdzUWnPToEVLRiQ7e
   popularity: 55
-  url: https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e
+  url: 'https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e'
 discography_enriched: true
 top_tracks:
-- head.rap (ft. Madison McFerrin, Ogi, Jordan Ward) (From The Private Collection of Saba and No ID)
-- head.rap (ft. Madison McFerrin, Ogi, Jordan Ward)
-- OMW (I Hope You Can Forgive Me)
-- TRY
-- Ain't It Nice
-- Outré Lux (feat. Madison McFerrin) (Onism)
-- Getaway - Henrik Schwarz Remix
-- Stay Away (From Me) (I Hope You Can Forgive Me)
-- Learn Your Lesson - Photay Remix
-- Ain't It Nice (SCORPIO)
+  - >-
+    head.rap (ft. Madison McFerrin, Ogi, Jordan Ward) (From The Private
+    Collection of Saba and No ID)
+  - 'head.rap (ft. Madison McFerrin, Ogi, Jordan Ward)'
+  - OMW (I Hope You Can Forgive Me)
+  - TRY
+  - Ain't It Nice
+  - Outré Lux (feat. Madison McFerrin) (Onism)
+  - Getaway - Henrik Schwarz Remix
+  - Stay Away (From Me) (I Hope You Can Forgive Me)
+  - Learn Your Lesson - Photay Remix
+  - Ain't It Nice (SCORPIO)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/cb5171f5-506a-4032-b99e-295e085bde19
-  spotify: https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e
-  wikipedia: https://en.wikipedia.org/wiki/Madison_McFerrin
+  musicbrainz: 'https://musicbrainz.org/artist/cb5171f5-506a-4032-b99e-295e085bde19'
+  spotify: 'https://open.spotify.com/artist/02zPEtdzUWnPToEVLRiQ7e'
+  wikipedia: 'https://en.wikipedia.org/wiki/Madison_McFerrin'
 image_path: 03_Resources/source_material/ArtistPortraits/madison_mcferrin.jpg
 biography_enhanced_at: '2025-11-20T06:59:35.288709'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Madison_McFerrin
-- https://www.fasching.se/en/madison-mcferrin/
-- https://www.mladiladijazz.cz/en/tha_events/madison-mcferrinus/
-- https://www.grandperformances.org/events/madison-mcferrin
-- https://www.oceansidesanctuary.org/blog/profiles-in-black-history-madison-mcferrin
+  - 'https://en.wikipedia.org/wiki/Madison_McFerrin'
+  - 'https://www.fasching.se/en/madison-mcferrin/'
+  - 'https://www.mladiladijazz.cz/en/tha_events/madison-mcferrinus/'
+  - 'https://www.grandperformances.org/events/madison-mcferrin'
+  - >-
+    https://www.oceansidesanctuary.org/blog/profiles-in-black-history-madison-mcferrin
 network_extracted: true
 entry_created: '2025-11-20T06:59:35.288717'
 last_updated: '2025-12-23T08:16:12.473211'
 gender: Female
 musicbrainz_id: cb5171f5-506a-4032-b99e-295e085bde19
 tags:
-- a cappella
-- future soul
-- r&b
+  - a cappella
+  - future soul
+  - r&b
+birth_date: '1991-11-05'
 ---
 
 ![](madison_mcferrin.jpg)

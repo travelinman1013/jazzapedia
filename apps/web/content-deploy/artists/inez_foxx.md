@@ -5,10 +5,10 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1942-09-09'
-birth_place: Greensboro
+birth_place: 'Greensboro, North Carolina, United States'
 death_date: '2022-08-25'
 genres:
-- moroccan pop
+  - moroccan pop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/inez_foxx.jpg
   caption: Inez Foxx
@@ -31,51 +31,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Charlie Foxx
-  - Luther Dixon
+    - Charlie Foxx
+    - Luther Dixon
   influenced:
-  - Aretha Franklin
-  - James Taylor and Carly Simon
-  - Northern soul artists
+    - Aretha Franklin
+    - James Taylor and Carly Simon
+    - Northern soul artists
   mentors:
-  - Charlie Foxx
+    - Charlie Foxx
 spotify_data:
   followers: 107002
   id: 2sGGaKKex7GgNlH1DRXZSa
   popularity: 49
-  url: https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa
+  url: 'https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa'
 discography_enriched: true
 top_tracks:
-- My Love. (My Love.)
-- Menak Wla Meni (Menak Wla Meni)
-- Ghir Sir (Ghir Sir)
-- Hilwa (Hilwa)
-- Ana Lik (Ana Lik)
-- Malou Hada (Malou Hada)
-- Ana Lik (YEMI Remix) (Ana Lik (YEMI Remix))
-- Ya Benti (Searching)
-- Sbabi (Sbabi)
-- Oumi (Oumi)
+  - My Love. (My Love.)
+  - Menak Wla Meni (Menak Wla Meni)
+  - Ghir Sir (Ghir Sir)
+  - Hilwa (Hilwa)
+  - Ana Lik (Ana Lik)
+  - Malou Hada (Malou Hada)
+  - Ana Lik (YEMI Remix) (Ana Lik (YEMI Remix))
+  - Ya Benti (Searching)
+  - Sbabi (Sbabi)
+  - Oumi (Oumi)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/415da583-42ab-41ac-a124-b4e683cd0ae7
-  spotify: https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa
-  wikipedia: https://en.wikipedia.org/wiki/Inez_and_Charlie_Foxx
+  musicbrainz: 'https://musicbrainz.org/artist/415da583-42ab-41ac-a124-b4e683cd0ae7'
+  spotify: 'https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa'
+  wikipedia: 'https://en.wikipedia.org/wiki/Inez_and_Charlie_Foxx'
 image_path: 03_Resources/source_material/ArtistPortraits/inez_foxx.jpg
 biography_enhanced_at: '2025-10-31T08:14:51.165976'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Inez_and_Charlie_Foxx
-- https://kids.kiddle.co/Inez_and_Charlie_Foxx
-- https://www.last.fm/music/Inez+Foxx/+wiki
+  - 'https://en.wikipedia.org/wiki/Inez_and_Charlie_Foxx'
+  - 'https://kids.kiddle.co/Inez_and_Charlie_Foxx'
+  - 'https://www.last.fm/music/Inez+Foxx/+wiki'
 network_extracted: true
 entry_created: '2025-10-31T08:14:51.165994'
 last_updated: '2025-12-23T08:16:09.848575'
 gender: Female
 musicbrainz_id: 415da583-42ab-41ac-a124-b4e683cd0ae7
 tags:
-- r&b
-- soul
+  - r&b
+  - soul
+is_active: false
 ---
 
 ![](inez_foxx.jpg)

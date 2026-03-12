@@ -25,10 +25,10 @@ spotify_data:
   followers: 7
   id: 6MZfbeq3lYyju371Hwu3dC
   popularity: 0
-  url: https://open.spotify.com/artist/6MZfbeq3lYyju371Hwu3dC
+  url: 'https://open.spotify.com/artist/6MZfbeq3lYyju371Hwu3dC'
 discography_enriched: false
 external_urls:
-  spotify: https://open.spotify.com/artist/6MZfbeq3lYyju371Hwu3dC
+  spotify: 'https://open.spotify.com/artist/6MZfbeq3lYyju371Hwu3dC'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/hunks_of_coal.jpg
 biography_enhanced_at: '2025-12-04T07:38:35.242390'
@@ -38,6 +38,8 @@ research_sources: []
 network_extracted: true
 entry_created: '2025-12-04T07:38:35.242402'
 last_updated: '2025-12-23T08:07:36.944866'
+origin: Unknown
+artist_type: band
 ---
 
 ![](hunks_of_coal.jpg)

@@ -1,48 +1,52 @@
 ---
 biography_enhanced_at: '2026-01-19T01:14:01.448398'
-birth_place: Kingston, Jamaica
+birth_place: 'Kingston, Jamaica, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-19T01:14:01.448404'
 external_urls:
-  spotify: https://open.spotify.com/artist/6mkOssVLhCbXwi57tThPet
-  wikipedia: https://en.wikipedia.org/wiki/Carlton_Barrett
+  spotify: 'https://open.spotify.com/artist/6mkOssVLhCbXwi57tThPet'
+  wikipedia: 'https://en.wikipedia.org/wiki/Carlton_Barrett'
 genres:
-- rocksteady
-- lovers rock
-- roots reggae
-- reggae
-- soul jazz
-image_path: 03_Resources/source_material/ArtistPortraits/carlton_and_the_shoes_carlton_barrett.jpg
+  - rocksteady
+  - lovers rock
+  - roots reggae
+  - reggae
+  - soul jazz
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/carlton_and_the_shoes_carlton_barrett.jpg
 last_updated: '2026-01-19T01:14:01.448404'
 musical_connections:
   collaborators:
-  - Aston 'Family Man' Barrett
-  - Bob Marley & The Wailers
-  - Lee 'Scratch' Perry
-  - Max Romeo
-  - Bunny Wailer
-  - Peter Tosh
-  - Augustus Pablo
+    - Aston 'Family Man' Barrett
+    - Bob Marley & The Wailers
+    - Lee 'Scratch' Perry
+    - Max Romeo
+    - Bunny Wailer
+    - Peter Tosh
+    - Augustus Pablo
   influenced:
-  - Sly Dunbar
-  - Leroy 'Horsemouth' Wallace
-  - Style Scott
-  - Carlton 'Santa' Davis
+    - Sly Dunbar
+    - Leroy 'Horsemouth' Wallace
+    - Style Scott
+    - Carlton 'Santa' Davis
   mentors:
-  - Lloyd Knibb
+    - Lloyd Knibb
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://bassculture.substack.com/p/carlton-carly-barrett-a-reggae-drumming
-- https://en.wikipedia.org/wiki/Carlton_Barrett
-- https://wbssmedia.com/artists/detail/3169
+  - 'https://bassculture.substack.com/p/carlton-carly-barrett-a-reggae-drumming'
+  - 'https://en.wikipedia.org/wiki/Carlton_Barrett'
+  - 'https://wbssmedia.com/artists/detail/3169'
 spotify_data:
   followers: 10562
   id: 6mkOssVLhCbXwi57tThPet
   popularity: 31
-  url: https://open.spotify.com/artist/6mkOssVLhCbXwi57tThPet
+  url: 'https://open.spotify.com/artist/6mkOssVLhCbXwi57tThPet'
 status: active
-title: Carlton & The Shoes, Carlton Barrett
+title: 'Carlton & The Shoes, Carlton Barrett'
+birth_date: '1950-12-17'
+death_date: '1987-04-17'
+artist_type: person
 ---
 
 ![](carlton_and_the_shoes_carlton_barrett.jpg)

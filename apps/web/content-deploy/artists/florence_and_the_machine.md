@@ -3,39 +3,44 @@ biography_enhanced_at: '2026-01-20T01:25:54.747431'
 enhancement_provider: perplexity
 entry_created: '2026-01-20T01:25:54.747437'
 external_urls:
-  spotify: https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG
-  wikipedia: https://en.wikipedia.org/wiki/Florence_and_the_Machine
+  spotify: 'https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG'
+  wikipedia: 'https://en.wikipedia.org/wiki/Florence_and_the_Machine'
 genres:
-- baroque pop
+  - baroque pop
 image_path: 03_Resources/source_material/ArtistPortraits/florence_and_the_machine.jpg
 last_updated: '2026-01-20T01:25:54.747438'
 musical_connections:
   collaborators:
-  - Isabella Summers
-  - Rob Ackroyd
-  - Tom Monger
-  - Christopher Lloyd Hayden
+    - Isabella Summers
+    - Rob Ackroyd
+    - Tom Monger
+    - Christopher Lloyd Hayden
   influenced: []
   mentors:
-  - Tony Visconti
-  - Mairead Nash
+    - Tony Visconti
+    - Mairead Nash
 network_extracted: true
-origin: London, England (band formation); Blackpool, England (Florence Welch birthplace)
+origin: >-
+  London, England (band formation); Blackpool, England (Florence Welch
+  birthplace)
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Florence_Welch
-- https://www.britannica.com/biography/Florence-Welch
-- https://www.ohjeanrecords.com/blogs/news/florence-and-the-machine-biography
-- https://florenceandthemachine.fandom.com/wiki/Florence_and_the_Machine
-- https://en.wikipedia.org/wiki/Florence_and_the_Machine
-- https://www.udiscovermusic.com/artist/florence-and-the-machine/
+  - 'https://en.wikipedia.org/wiki/Florence_Welch'
+  - 'https://www.britannica.com/biography/Florence-Welch'
+  - 'https://www.ohjeanrecords.com/blogs/news/florence-and-the-machine-biography'
+  - 'https://florenceandthemachine.fandom.com/wiki/Florence_and_the_Machine'
+  - 'https://en.wikipedia.org/wiki/Florence_and_the_Machine'
+  - 'https://www.udiscovermusic.com/artist/florence-and-the-machine/'
 spotify_data:
   followers: 7353692
   id: 1moxjboGR7GNWYIMWsRjgG
   popularity: 80
-  url: https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG
+  url: 'https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG'
 status: active
 title: Florence & The Machine
+birth_place: 'Blackpool, England, United Kingdom'
+birth_date: '1986-08-28'
+artist_type: person
 ---
 
 ![](florence_and_the_machine.jpg)

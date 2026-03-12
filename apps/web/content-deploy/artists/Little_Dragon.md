@@ -2,11 +2,11 @@
 title: Little Dragon
 wiki_slug: little-dragon
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 birth_date: '1996'
 genres:
-- trip hop
+  - trip hop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Little_Dragon.jpg
   caption: Little Dragon
@@ -19,7 +19,7 @@ audio_profile:
   danceability_avg: 0.671
   acousticness_avg: 0.36
   instrumentalness_avg: 0.217
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.074
   liveness_avg: 0.15
   track_count: 51
@@ -27,61 +27,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Gorillaz (Damon Albarn)
-  - SBTRKT
-  - Flying Lotus
-  - BADBADNOTGOOD
-  - Kaytranada
-  - Big Boi
-  - De La Soul
-  - JID
+    - Gorillaz (Damon Albarn)
+    - SBTRKT
+    - Flying Lotus
+    - BADBADNOTGOOD
+    - Kaytranada
+    - Big Boi
+    - De La Soul
+    - JID
   influenced:
-  - SZA
-  - Anderson .Paak
-  - The xx
+    - SZA
+    - Anderson .Paak
+    - The xx
   mentors:
-  - Brian Eno
-  - Alice Coltrane
-  - D’Angelo
+    - Brian Eno
+    - Alice Coltrane
+    - D’Angelo
 spotify_data:
   followers: 714368
   id: 6Tyzp9KzpiZ04DABQoedps
   popularity: 59
-  url: https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps
+  url: 'https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps'
 discography_enriched: true
 top_tracks:
-- Empire Ants (feat. Little Dragon) (Plastic Beach)
-- Sad Makeup
-- Ritual Union (Ritual Union)
-- To Binge (feat. Little Dragon) (Plastic Beach)
-- Where You Belong (New Me, Same Us)
-- Wildfire (SBTRKT (Deluxe Version))
-- Peace Reign
-- Break Me Down
-- Stream of Consciousness
-- Twice
+  - Empire Ants (feat. Little Dragon) (Plastic Beach)
+  - Sad Makeup
+  - Ritual Union (Ritual Union)
+  - To Binge (feat. Little Dragon) (Plastic Beach)
+  - 'Where You Belong (New Me, Same Us)'
+  - Wildfire (SBTRKT (Deluxe Version))
+  - Peace Reign
+  - Break Me Down
+  - Stream of Consciousness
+  - Twice
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c8a9ae11-63bf-409b-8bf3-a96b3712a2ff
-  spotify: https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps
-  wikipedia: https://en.wikipedia.org/wiki/Little_Dragon
+  musicbrainz: 'https://musicbrainz.org/artist/c8a9ae11-63bf-409b-8bf3-a96b3712a2ff'
+  spotify: 'https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps'
+  wikipedia: 'https://en.wikipedia.org/wiki/Little_Dragon'
 image_path: 03_Resources/source_material/ArtistPortraits/Little_Dragon.jpg
 biography_enhanced_at: '2025-10-22T06:42:35.412298'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://apeconcerts.com/attraction/little-dragon/
-- https://ninjatune.net/artist/little-dragon
-- https://www.staimusic.com/en/blog/the-musical-biography-of-little-dragon-from-humble-beginnings-to-international-fame_7357.html
-- https://gorillaz.fandom.com/wiki/Little_Dragon
+  - 'https://apeconcerts.com/attraction/little-dragon/'
+  - 'https://ninjatune.net/artist/little-dragon'
+  - >-
+    https://www.staimusic.com/en/blog/the-musical-biography-of-little-dragon-from-humble-beginnings-to-international-fame_7357.html
+  - 'https://gorillaz.fandom.com/wiki/Little_Dragon'
 network_extracted: true
 entry_created: '2025-10-22T06:42:35.412314'
 last_updated: '2025-12-23T08:16:03.032906'
 musicbrainz_id: c8a9ae11-63bf-409b-8bf3-a96b3712a2ff
-origin: Gothenburg
+origin: 'Gothenburg, Sweden, United States'
 tags:
-- downtempo
-- electronic
-- electropop
+  - downtempo
+  - electronic
+  - electropop
 ---
 
 ![](Little_Dragon.jpg)

@@ -1,15 +1,16 @@
 ---
-title: Hiromi, Anthony Jackson, Simon Phillips
+title: 'Hiromi, Anthony Jackson, Simon Phillips'
 wiki_slug: hiromi-anthony-jackson-simon-phillips
 schema_version: 2
 status: active
-birth_place: Hamamatsu, Shizuoka Prefecture, Japan
+birth_place: 'Hamamatsu, Shizuoka Prefecture, Japan'
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/hiromi_anthony_jackson_simon_phillips.jpg
-  caption: Hiromi, Anthony Jackson, Simon Phillips
+  image: >-
+    03_Resources/source_material/ArtistPortraits/hiromi_anthony_jackson_simon_phillips.jpg
+  caption: 'Hiromi, Anthony Jackson, Simon Phillips'
   background: solo_singer
-  origin: Hamamatsu, Shizuoka Prefecture, Japan
+  origin: 'Hamamatsu, Shizuoka Prefecture, Japan'
 audio_profile:
   tempo_avg: 123.4
   energy_avg: 0.577
@@ -25,46 +26,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Anthony Jackson
-  - Simon Phillips
-  - Stanley Clarke
+    - Anthony Jackson
+    - Simon Phillips
+    - Stanley Clarke
   influenced:
-  - None noted
+    - None noted
   mentors:
-  - Ahmad Jamal
-  - Noriko Hikida
-  - Chick Corea
+    - Ahmad Jamal
+    - Noriko Hikida
+    - Chick Corea
 spotify_data:
   followers: 81
   id: 04v4hOyH3Qds5zEsQTEZjJ
   popularity: 1
-  url: https://open.spotify.com/artist/04v4hOyH3Qds5zEsQTEZjJ
+  url: 'https://open.spotify.com/artist/04v4hOyH3Qds5zEsQTEZjJ'
 discography_enriched: true
 top_tracks:
-- Bitter / Sweet (Bitter / Sweet)
-- Without You (Without You)
-- Midnight Flight (Midnight Flight)
-- 246 (246)
-- Don't say FWB (feat. HIROMI) (Don't say FWB (feat. HIROMI))
-- GAME OVER (GAME OVER)
-- Without You - Ambient Dance Remix (Without You (Ambient Dance Remix))
-- GAME OVER - English Ver. (GAME OVER (English Ver.))
-- ★あの日に帰りたい (★あの日に帰りたい／本当の幸せ(2022 Remix version))
-- 本当の幸せ (★あの日に帰りたい／本当の幸せ(2022 Remix version))
+  - Bitter / Sweet (Bitter / Sweet)
+  - Without You (Without You)
+  - Midnight Flight (Midnight Flight)
+  - 246 (246)
+  - Don't say FWB (feat. HIROMI) (Don't say FWB (feat. HIROMI))
+  - GAME OVER (GAME OVER)
+  - Without You - Ambient Dance Remix (Without You (Ambient Dance Remix))
+  - GAME OVER - English Ver. (GAME OVER (English Ver.))
+  - ★あの日に帰りたい (★あの日に帰りたい／本当の幸せ(2022 Remix version))
+  - 本当の幸せ (★あの日に帰りたい／本当の幸せ(2022 Remix version))
 external_urls:
-  spotify: https://open.spotify.com/artist/04v4hOyH3Qds5zEsQTEZjJ
-  wikipedia: https://en.wikipedia.org/wiki/Hiromi_Uehara
-image_path: 03_Resources/source_material/ArtistPortraits/hiromi_anthony_jackson_simon_phillips.jpg
+  spotify: 'https://open.spotify.com/artist/04v4hOyH3Qds5zEsQTEZjJ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Hiromi_Uehara'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/hiromi_anthony_jackson_simon_phillips.jpg
 biography_enhanced_at: '2025-10-27T02:53:28.289892'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.japansocietyboston.org/post/hiromi
-- https://usa.yamaha.com/artists/h/hiromi_uehara_yq.html
-- https://en.wikipedia.org/wiki/Hiromi_Uehara
+  - 'https://www.japansocietyboston.org/post/hiromi'
+  - 'https://usa.yamaha.com/artists/h/hiromi_uehara_yq.html'
+  - 'https://en.wikipedia.org/wiki/Hiromi_Uehara'
 network_extracted: true
 entry_created: '2025-10-27T02:53:28.289907'
 last_updated: '2025-12-23T08:16:09.627332'
+birth_date: '1979-03-26'
+artist_type: band
 ---
 
 ![](hiromi_anthony_jackson_simon_phillips.jpg)

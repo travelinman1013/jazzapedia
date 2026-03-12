@@ -4,7 +4,7 @@ wiki_slug: little-stinker
 schema_version: 2
 status: active
 genres:
-- christmas
+  - christmas
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/little_stinker.jpg
   caption: Little Stinker
@@ -15,8 +15,8 @@ audio_profile:
   valence_avg: 0.943
   danceability_avg: 0.711
   acousticness_avg: 0.962
-  instrumentalness_avg: 0.0
-  loudness_avg: -9.0
+  instrumentalness_avg: 0
+  loudness_avg: -9
   speechiness_avg: 0.061
   liveness_avg: 0.117
   track_count: 1
@@ -30,23 +30,25 @@ spotify_data:
   followers: 236
   id: 33z6H1k9c0Xw0kZMRTmFYQ
   popularity: 23
-  url: https://open.spotify.com/artist/33z6H1k9c0Xw0kZMRTmFYQ
+  url: 'https://open.spotify.com/artist/33z6H1k9c0Xw0kZMRTmFYQ'
 discography_enriched: true
 top_tracks:
-- I Farted on Santa's Lap (Now Christmas is Gonna Stink for Me) (I Farted on Santa's Lap (Now Christmas is Gonna Stink for
-  Me))
+  - >-
+    I Farted on Santa's Lap (Now Christmas is Gonna Stink for Me) (I Farted on
+    Santa's Lap (Now Christmas is Gonna Stink for Me))
 external_urls:
-  spotify: https://open.spotify.com/artist/33z6H1k9c0Xw0kZMRTmFYQ
+  spotify: 'https://open.spotify.com/artist/33z6H1k9c0Xw0kZMRTmFYQ'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/little_stinker.jpg
 biography_enhanced_at: '2025-12-21T01:20:03.000016'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- AllMusic entry for The Little Stinkers[5]
+  - 'AllMusic entry for The Little Stinkers[5]'
 network_extracted: true
 entry_created: '2025-12-21T01:20:03.000021'
 last_updated: '2025-12-23T08:16:12.037429'
+artist_type: band
 ---
 
 ![](little_stinker.jpg)

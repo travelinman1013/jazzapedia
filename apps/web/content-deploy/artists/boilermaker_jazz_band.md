@@ -4,9 +4,9 @@ wiki_slug: boilermaker-jazz-band
 schema_version: 2
 status: active
 genres:
-- swing music
-- ragtime
-- big band
+  - swing music
+  - ragtime
+  - big band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/boilermaker_jazz_band.jpg
   caption: Boilermaker Jazz Band
@@ -18,7 +18,7 @@ audio_profile:
   danceability_avg: 0.644
   acousticness_avg: 0.734
   instrumentalness_avg: 0.144
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.059
   liveness_avg: 0.14
   track_count: 50
@@ -26,53 +26,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jennifer McNulty
-  - Gordon Webster
-  - Tony DePoalis
-  - Thomas Wendt
-  - Jeff Bush
+    - Jennifer McNulty
+    - Gordon Webster
+    - Tony DePoalis
+    - Thomas Wendt
+    - Jeff Bush
   influenced:
-  - Contemporary swing‑dance musicians and bandleaders
+    - Contemporary swing‑dance musicians and bandleaders
   mentors:
-  - George Gee
-  - Artie Shaw
-  - Buddy DeFranco
+    - George Gee
+    - Artie Shaw
+    - Buddy DeFranco
 spotify_data:
   followers: 9318
   id: 5FWDvN6yGklTuhfiRq9aeN
   popularity: 32
-  url: https://open.spotify.com/artist/5FWDvN6yGklTuhfiRq9aeN
+  url: 'https://open.spotify.com/artist/5FWDvN6yGklTuhfiRq9aeN'
 discography_enriched: true
 top_tracks:
-- Minor Swing (Give Me Your Telephone Number)
-- Don't Go 'Way Nobody (Give Me Your Telephone Number)
-- Until The Real Thing Comes Along (Give Me Your Telephone Number)
-- Who's Sorry Now (Give Me Your Telephone Number)
-- I Can't Believe You're In Love With Me (Give Me Your Telephone Number)
-- Let's Misbehave (You Do Something To Me)
-- I'll Always Be In Love With You (Give Me Your Telephone Number)
-- Sunday (Give Me Your Telephone Number)
-- Jump For Joy (Jump For Joy)
-- Nice Work If You Can Get It (feat. Joe Negri) (Nice Work If You Can Get It)
+  - Minor Swing (Give Me Your Telephone Number)
+  - Don't Go 'Way Nobody (Give Me Your Telephone Number)
+  - Until The Real Thing Comes Along (Give Me Your Telephone Number)
+  - Who's Sorry Now (Give Me Your Telephone Number)
+  - I Can't Believe You're In Love With Me (Give Me Your Telephone Number)
+  - Let's Misbehave (You Do Something To Me)
+  - I'll Always Be In Love With You (Give Me Your Telephone Number)
+  - Sunday (Give Me Your Telephone Number)
+  - Jump For Joy (Jump For Joy)
+  - Nice Work If You Can Get It (feat. Joe Negri) (Nice Work If You Can Get It)
 external_urls:
-  spotify: https://open.spotify.com/artist/5FWDvN6yGklTuhfiRq9aeN
+  spotify: 'https://open.spotify.com/artist/5FWDvN6yGklTuhfiRq9aeN'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/boilermaker_jazz_band.jpg
 biography_enhanced_at: '2025-12-21T01:21:14.442031'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- The Syncopated Times – “Paul Cosentino’s Boilermaker Jazz Band” review/interview feature[1]
-- Boilermaker Jazz Band official site and booking information pages[7][8]
-- GetSongKEY artist entry for The Boilermaker Jazz Band[2]
-- WRTI feature on the album “I Love the Rhythm in a Riff”[3]
-- Pittsburgh City Paper feature on Boilermaker Jazz Band’s holiday CD[6]
-- Swungover interview with Paul Cosentino[4]
-- All About Jazz – Boilermaker Jazz Band musician page[5]
+  - >-
+    The Syncopated Times – “Paul Cosentino’s Boilermaker Jazz Band”
+    review/interview feature[1]
+  - 'Boilermaker Jazz Band official site and booking information pages[7][8]'
+  - 'GetSongKEY artist entry for The Boilermaker Jazz Band[2]'
+  - 'WRTI feature on the album “I Love the Rhythm in a Riff”[3]'
+  - 'Pittsburgh City Paper feature on Boilermaker Jazz Band’s holiday CD[6]'
+  - 'Swungover interview with Paul Cosentino[4]'
+  - 'All About Jazz – Boilermaker Jazz Band musician page[5]'
 network_extracted: true
 entry_created: '2025-12-21T01:21:14.442036'
 last_updated: '2025-12-23T08:16:05.894148'
-origin: Pittsburgh, Pennsylvania, United States
+origin: 'Pittsburgh, Pennsylvania, United States'
+artist_type: person
 ---
 
 ![](boilermaker_jazz_band.jpg)

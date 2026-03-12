@@ -2,15 +2,15 @@
 title: Gal Costa
 wiki_slug: gal-costa
 schema_version: 2
-artist_type: person
+artist_type: band
 status: active
 birth_date: '1945-09-26'
-birth_place: Salvador
+birth_place: 'Salvador, Bahia, Brazil'
 death_date: '2022-11-09'
 genres:
-- mpb
-- bossa nova
-- brazilian jazz
+  - mpb
+  - bossa nova
+  - brazilian jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/gal_costa.jpg
   caption: Gal Costa
@@ -33,52 +33,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Caetano Veloso
-  - Gilberto Gil
-  - Maria Bethânia
-  - Tom Zé
+    - Caetano Veloso
+    - Gilberto Gil
+    - Maria Bethânia
+    - Tom Zé
   influenced:
-  - Marisa Monte
-  - Vanessa da Mata
+    - Marisa Monte
+    - Vanessa da Mata
   mentors:
-  - João Gilberto
+    - João Gilberto
 spotify_data:
   followers: 1196777
   id: 1b8kpp4DUwt1hWaxTiWQhD
   popularity: 63
-  url: https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD
+  url: 'https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD'
 discography_enriched: true
 top_tracks:
-- Lágrimas (QVVJFA?)
-- Azul (Minha Voz)
-- Força Estranha (Gal Tropical)
-- Eternamente (Baby Gal)
-- Palavras No Corpo (A Pele do Futuro)
-- Palavras No Corpo
-- Baby (Gal Costa)
-- Que Pena (Ele Já Não Gosta Mais De Mim) (Gal Costa)
-- Você Não Entende Nada (Divino Maravilhoso - Gal Costa Interpreta Caetano Veloso (CD 1))
-- Folhetim (Agua Viva)
+  - Lágrimas (QVVJFA?)
+  - Azul (Minha Voz)
+  - Força Estranha (Gal Tropical)
+  - Eternamente (Baby Gal)
+  - Palavras No Corpo (A Pele do Futuro)
+  - Palavras No Corpo
+  - Baby (Gal Costa)
+  - Que Pena (Ele Já Não Gosta Mais De Mim) (Gal Costa)
+  - >-
+    Você Não Entende Nada (Divino Maravilhoso - Gal Costa Interpreta Caetano
+    Veloso (CD 1))
+  - Folhetim (Agua Viva)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/fc63a914-272d-4b95-9221-61adcce6f793
-  spotify: https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD
-  wikipedia: https://en.wikipedia.org/wiki/Gal_Costa
+  musicbrainz: 'https://musicbrainz.org/artist/fc63a914-272d-4b95-9221-61adcce6f793'
+  spotify: 'https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD'
+  wikipedia: 'https://en.wikipedia.org/wiki/Gal_Costa'
 image_path: 03_Resources/source_material/ArtistPortraits/gal_costa.jpg
 biography_enhanced_at: '2025-11-23T06:31:07.864270'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Gal_Costa
-- https://bahia.ws/en/biografia-da-cantora-gal-costa/
+  - 'https://en.wikipedia.org/wiki/Gal_Costa'
+  - 'https://bahia.ws/en/biografia-da-cantora-gal-costa/'
 network_extracted: true
 entry_created: '2025-11-23T06:31:07.864285'
 last_updated: '2025-12-23T08:16:08.939296'
 gender: Female
 musicbrainz_id: fc63a914-272d-4b95-9221-61adcce6f793
 tags:
-- bossa nova
-- mpb
-- psychedelic pop
+  - bossa nova
+  - mpb
+  - psychedelic pop
+is_active: false
 ---
 
 ![](gal_costa.jpg)

@@ -1,15 +1,19 @@
 ---
-title: lynn drury
+title: Lynn Drury
 wiki_slug: lynn-drury
 schema_version: 2
 status: active
-birth_place: Yazoo City, Mississippi, USA (birthplace); New Orleans, Louisiana, USA (primary origin)
+birth_place: >-
+  Yazoo City, Mississippi, USA (birthplace); New Orleans, Louisiana, USA
+  (primary origin)
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lynn_drury.jpg
   caption: lynn drury
   background: solo_singer
-  origin: Yazoo City, Mississippi, USA (birthplace); New Orleans, Louisiana, USA (primary origin)
+  origin: >-
+    Yazoo City, Mississippi, USA (birthplace); New Orleans, Louisiana, USA
+    (primary origin)
 audio_profile:
   tempo_avg: 116.8
   energy_avg: 0.547
@@ -25,53 +29,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Papa Mali
-  - Jimbo Mathus
-  - Carlo Nuccio
-  - John Porter
-  - Rene Coman
-  - Doug Belote
-  - Roberto Luti
-  - Yvette Landry, Roddie Romero, Jason Mingledorf
+    - Papa Mali
+    - Jimbo Mathus
+    - Carlo Nuccio
+    - John Porter
+    - Rene Coman
+    - Doug Belote
+    - Roberto Luti
+    - 'Yvette Landry, Roddie Romero, Jason Mingledorf'
   influenced:
-  - NOLAmericana artists
+    - NOLAmericana artists
   mentors:
-  - New Orleans music community
+    - New Orleans music community
 spotify_data:
   followers: 881
   id: 4RhDmBCph2gazEnbGjfthp
   popularity: 3
-  url: https://open.spotify.com/artist/4RhDmBCph2gazEnbGjfthp
+  url: 'https://open.spotify.com/artist/4RhDmBCph2gazEnbGjfthp'
 discography_enriched: true
 top_tracks:
-- City Life (Sugar On the Floor)
-- Blue (High Tide)
-- High Tide (High Tide)
-- Fade (High Tide)
-- Love Bomb (High Tide)
-- Good (Dancin' in the Kitchen)
-- Dancin' in the Kitchen (Dancin' in the Kitchen)
-- Don't Wait (High Tide)
-- I Waited Too Long (High Tide)
-- Great Divide (High Tide)
+  - City Life (Sugar On the Floor)
+  - Blue (High Tide)
+  - High Tide (High Tide)
+  - Fade (High Tide)
+  - Love Bomb (High Tide)
+  - Good (Dancin' in the Kitchen)
+  - Dancin' in the Kitchen (Dancin' in the Kitchen)
+  - Don't Wait (High Tide)
+  - I Waited Too Long (High Tide)
+  - Great Divide (High Tide)
 external_urls:
-  spotify: https://open.spotify.com/artist/4RhDmBCph2gazEnbGjfthp
+  spotify: 'https://open.spotify.com/artist/4RhDmBCph2gazEnbGjfthp'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/lynn_drury.jpg
 biography_enhanced_at: '2025-10-23T07:29:10.652992'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://lynndrury.com/bio-press
-- https://my.listeningroomnetwork.com/artist/lynndrury
-- https://americana-uk.com/interview-lynn-drury-on-high-tide
-- https://crescentcitysounds.org/artists/lynn-drury
-- https://blues.gr/profiles/blogs/q-a-with-new-orleans-based-singer-songwriter-lynn-drury-nolameric
-- https://lynndrury.com/home
-- https://www.thatrecordgotmehigh.com/guests/lynn-drury/
+  - 'https://lynndrury.com/bio-press'
+  - 'https://my.listeningroomnetwork.com/artist/lynndrury'
+  - 'https://americana-uk.com/interview-lynn-drury-on-high-tide'
+  - 'https://crescentcitysounds.org/artists/lynn-drury'
+  - >-
+    https://blues.gr/profiles/blogs/q-a-with-new-orleans-based-singer-songwriter-lynn-drury-nolameric
+  - 'https://lynndrury.com/home'
+  - 'https://www.thatrecordgotmehigh.com/guests/lynn-drury/'
 network_extracted: true
 entry_created: '2025-10-23T07:29:10.653006'
 last_updated: '2025-12-23T08:16:12.414356'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](lynn_drury.jpg)

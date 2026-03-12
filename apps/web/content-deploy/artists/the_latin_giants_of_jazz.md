@@ -4,10 +4,10 @@ wiki_slug: the-latin-giants-of-jazz
 schema_version: 2
 status: active
 genres:
-- latin jazz
-- mambo
-- salsa
-- cha cha cha
+  - latin jazz
+  - mambo
+  - salsa
+  - cha cha cha
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_latin_giants_of_jazz.jpg
   caption: The Latin Giants of Jazz
@@ -27,47 +27,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jose Madera
-  - Mitch Frohman
-  - Bobby Porcelli
-  - Guido Gonzalez
+    - Jose Madera
+    - Mitch Frohman
+    - Bobby Porcelli
+    - Guido Gonzalez
   influenced:
-  - Marco Bermudez
-  - Willie Martinez
+    - Marco Bermudez
+    - Willie Martinez
   mentors:
-  - Tito Puente
-  - Machito
+    - Tito Puente
+    - Machito
 spotify_data:
   followers: 2187
   id: 5XHJEX7g0gjytSVzWVjDBm
   popularity: 9
-  url: https://open.spotify.com/artist/5XHJEX7g0gjytSVzWVjDBm
+  url: 'https://open.spotify.com/artist/5XHJEX7g0gjytSVzWVjDBm'
 discography_enriched: true
 top_tracks:
-- Si El Mar Se Volviera Ron (Ven Baila Conmigo)
-- Cuando Suenan Los Cueros (Ven Baila Conmigo)
-- Ahora Mismo (Ven Baila Conmigo)
-- A Sunny Ray (The Latin Giants Play The Music Of The Palladium...Tito Lives)
-- Increible (Ven Baila Conmigo)
-- I Still Love You (Ven Baila Conmigo)
-- La Batidora Meneadora (Ven Baila Conmigo)
-- Tengo Que Conformarme (Ven Baila Conmigo)
-- Miedo al Cha Cha Cha (The Latin Giants Play The Music Of The Palladium...Tito Lives)
-- Lo Que Traigo Es Salsa (Ven Baila Conmigo)
+  - Si El Mar Se Volviera Ron (Ven Baila Conmigo)
+  - Cuando Suenan Los Cueros (Ven Baila Conmigo)
+  - Ahora Mismo (Ven Baila Conmigo)
+  - A Sunny Ray (The Latin Giants Play The Music Of The Palladium...Tito Lives)
+  - Increible (Ven Baila Conmigo)
+  - I Still Love You (Ven Baila Conmigo)
+  - La Batidora Meneadora (Ven Baila Conmigo)
+  - Tengo Que Conformarme (Ven Baila Conmigo)
+  - >-
+    Miedo al Cha Cha Cha (The Latin Giants Play The Music Of The
+    Palladium...Tito Lives)
+  - Lo Que Traigo Es Salsa (Ven Baila Conmigo)
 external_urls:
-  spotify: https://open.spotify.com/artist/5XHJEX7g0gjytSVzWVjDBm
+  spotify: 'https://open.spotify.com/artist/5XHJEX7g0gjytSVzWVjDBm'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/the_latin_giants_of_jazz.jpg
 biography_enhanced_at: '2025-11-10T03:33:22.513811'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://latinjazznet.com/reviews/albums/latin-giants-of-jazz/
-- https://www.last.fm/music/The+Latin+Giants+of+Jazz/+wiki
+  - 'https://latinjazznet.com/reviews/albums/latin-giants-of-jazz/'
+  - 'https://www.last.fm/music/The+Latin+Giants+of+Jazz/+wiki'
 network_extracted: true
 entry_created: '2025-11-10T03:33:22.513826'
 last_updated: '2025-12-23T08:16:16.910334'
-origin: New York City, New York, United States
+origin: 'New York City, New York, United States'
+artist_type: band
 ---
 
 ![](the_latin_giants_of_jazz.jpg)

@@ -5,11 +5,11 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1985-12-23'
-birth_place: Ilford
+birth_place: 'Ilford, East London, United Kingdom'
 genres:
-- art pop
+  - art pop
 instruments:
-- electric piano
+  - electric piano
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/blood_orange.jpg
   caption: Blood Orange
@@ -17,7 +17,7 @@ infobox:
   born: '1985-12-23'
   origin: Ilford
 audio_profile:
-  tempo_avg: 126.0
+  tempo_avg: 126
   energy_avg: 0.549
   valence_avg: 0.497
   danceability_avg: 0.677
@@ -31,49 +31,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Solange (Solange Knowles)
-  - Sky Ferreira
-  - Ariel Rechtshaid
-  - Theo (Adam Bainbridge, aka Kindness)
-  - Third Coast Percussion
-  - Florence and the Machine
+    - Solange (Solange Knowles)
+    - Sky Ferreira
+    - Ariel Rechtshaid
+    - 'Theo (Adam Bainbridge, aka Kindness)'
+    - Third Coast Percussion
+    - Florence and the Machine
   influenced:
-  - Emerging alternative R&B and art‑pop artists (e.g., peers citing his work)
+    - 'Emerging alternative R&B and art‑pop artists (e.g., peers citing his work)'
   mentors:
-  - Philip Glass
+    - Philip Glass
 spotify_data:
   followers: 1386319
   id: 6LEeAFiJF8OuPx747e1wxR
   popularity: 73
-  url: https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR
+  url: 'https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR'
 discography_enriched: true
 top_tracks:
-- Champagne Coast (Coastal Grooves)
-- Champagne Coast (Coastal Grooves)
-- Charcoal Baby (Negro Swan)
-- Champagne Coast
-- The Field (feat. The Durutti Column, Tariq Al-Sabir, Caroline Polachek & Daniel Caesar)
-- You're Not Good Enough (Cupid Deluxe)
-- Champagne Coast
-- Uncle ACE (Cupid Deluxe)
-- Chewing Gum (Negro Swan)
-- Best to You (Freetown Sound)
+  - Champagne Coast (Coastal Grooves)
+  - Champagne Coast (Coastal Grooves)
+  - Charcoal Baby (Negro Swan)
+  - Champagne Coast
+  - >-
+    The Field (feat. The Durutti Column, Tariq Al-Sabir, Caroline Polachek &
+    Daniel Caesar)
+  - You're Not Good Enough (Cupid Deluxe)
+  - Champagne Coast
+  - Uncle ACE (Cupid Deluxe)
+  - Chewing Gum (Negro Swan)
+  - Best to You (Freetown Sound)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3d254f1e-7d18-431b-baeb-68e57695dfdb
-  spotify: https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR
-  wikipedia: https://en.wikipedia.org/wiki/Dev_Hynes
+  musicbrainz: 'https://musicbrainz.org/artist/3d254f1e-7d18-431b-baeb-68e57695dfdb'
+  spotify: 'https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dev_Hynes'
 image_path: 03_Resources/source_material/ArtistPortraits/blood_orange.jpg
 biography_enhanced_at: '2025-12-17T02:15:20.468864'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Dev_Hynes
-- https://www.last.fm/music/Blood+Orange/+wiki
-- https://www.redbullmusicacademy.com/lectures/dev-hynes-lecture
-- https://crackmagazine.net/article/long-reads/blood-orange-personal-history/
-- https://www.novembermag.com/content/devonte-hynes/
-- https://berkeleybside.com/the-musical-genius-of-devonte-hynes/
-- https://www.fantasticman.com/articles/blood-orange/
+  - 'https://en.wikipedia.org/wiki/Dev_Hynes'
+  - 'https://www.last.fm/music/Blood+Orange/+wiki'
+  - 'https://www.redbullmusicacademy.com/lectures/dev-hynes-lecture'
+  - 'https://crackmagazine.net/article/long-reads/blood-orange-personal-history/'
+  - 'https://www.novembermag.com/content/devonte-hynes/'
+  - 'https://berkeleybside.com/the-musical-genius-of-devonte-hynes/'
+  - 'https://www.fantasticman.com/articles/blood-orange/'
 network_extracted: true
 entry_created: '2025-12-17T02:15:20.468881'
 last_updated: '2025-12-23T08:16:05.751623'
@@ -81,9 +83,10 @@ disambiguation: singer/songwriter Devonté Hynes
 gender: Male
 musicbrainz_id: 3d254f1e-7d18-431b-baeb-68e57695dfdb
 tags:
-- baroque pop
-- country
-- folk
+  - baroque pop
+  - country
+  - folk
+origin: 'New York City, New York, United States'
 ---
 
 ![](blood_orange.jpg)

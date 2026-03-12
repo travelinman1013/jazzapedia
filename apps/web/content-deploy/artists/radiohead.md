@@ -2,31 +2,31 @@
 title: Radiohead
 wiki_slug: radiohead
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1991'
 genres:
-- art rock
-- alternative rock
+  - art rock
+  - alternative rock
 instruments:
-- double bass
-- original
-- electric bass guitar
-- sampler
-- string synthesizer
-- electric guitar
-- ondes Martenot
-- glockenspiel
-- toy piano
-- analog synthesizer
-- background vocals
-- effects
-- percussion
-- drums (drum set)
-- lead vocals
-- acoustic guitar
-- synthesizer
-- piano
+  - double bass
+  - original
+  - electric bass guitar
+  - sampler
+  - string synthesizer
+  - electric guitar
+  - ondes Martenot
+  - glockenspiel
+  - toy piano
+  - analog synthesizer
+  - background vocals
+  - effects
+  - percussion
+  - drums (drum set)
+  - lead vocals
+  - acoustic guitar
+  - synthesizer
+  - piano
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/radiohead.jpg
   caption: Radiohead
@@ -47,195 +47,197 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Nigel Godrich
-  - Stanley Donwood
-  - Thom Yorke
-  - Jonny Greenwood
-  - Colin Greenwood
-  - Ed O’Brien
-  - Philip Selway
+    - Nigel Godrich
+    - Stanley Donwood
+    - Thom Yorke
+    - Jonny Greenwood
+    - Colin Greenwood
+    - Ed O’Brien
+    - Philip Selway
   influenced:
-  - Alternative and art rock bands of the 2000s and 2010s (e.g., cited broadly by critics rather than specific single acts
-    in sources)
+    - >-
+      Alternative and art rock bands of the 2000s and 2010s (e.g., cited broadly
+      by critics rather than specific single acts in sources)
   mentors:
-  - R.E.M.
-  - Pixies
-  - U2
-  - The Smiths
-  - Abingdon School music teacher (unnamed)
+    - R.E.M.
+    - Pixies
+    - U2
+    - The Smiths
+    - Abingdon School music teacher (unnamed)
 spotify_data:
   followers: 14448846
   id: 4Z8W4fKeB5YxbusRsdQVPb
   popularity: 88
-  url: https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb
+  url: 'https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb'
 discography_enriched: true
 top_tracks:
-- Creep (Pablo Honey)
-- No Surprises (OK Computer)
-- Karma Police (OK Computer)
-- Let Down (OK Computer)
-- All I Need (In Rainbows)
-- Fake Plastic Trees (The Bends)
-- Jigsaw Falling Into Place (In Rainbows)
-- High and Dry (The Bends)
-- Exit Music (For A Film) (OK Computer)
-- Weird Fishes / Arpeggi (In Rainbows)
+  - Creep (Pablo Honey)
+  - No Surprises (OK Computer)
+  - Karma Police (OK Computer)
+  - Let Down (OK Computer)
+  - All I Need (In Rainbows)
+  - Fake Plastic Trees (The Bends)
+  - Jigsaw Falling Into Place (In Rainbows)
+  - High and Dry (The Bends)
+  - Exit Music (For A Film) (OK Computer)
+  - Weird Fishes / Arpeggi (In Rainbows)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a74b1b7f-71a5-4011-9441-d0b5e4122711
-  spotify: https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb
-  wikipedia: https://en.wikipedia.org/wiki/Radiohead
+  musicbrainz: 'https://musicbrainz.org/artist/a74b1b7f-71a5-4011-9441-d0b5e4122711'
+  spotify: 'https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb'
+  wikipedia: 'https://en.wikipedia.org/wiki/Radiohead'
 image_path: 03_Resources/source_material/ArtistPortraits/radiohead.jpg
 biography_enhanced_at: '2025-12-18T02:48:43.584209'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Radiohead
-- https://www.britannica.com/topic/Radiohead
-- https://aaep1600.osu.edu/book/25_Radiohead.php
-- https://speakout.org.uk/all-about-radiohead/
+  - 'https://en.wikipedia.org/wiki/Radiohead'
+  - 'https://www.britannica.com/topic/Radiohead'
+  - 'https://aaep1600.osu.edu/book/25_Radiohead.php'
+  - 'https://speakout.org.uk/all-about-radiohead/'
 network_extracted: true
 entry_created: '2025-12-18T02:48:43.584216'
 last_updated: '2025-12-23T08:16:14.570839'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - double bass
-  - original
-  mbid: f23074f4-2c06-477a-bf1d-12fa66e087ee
-  name: Colin Greenwood
-- begin: ''
-  end: ''
-  instruments:
-  - electric bass guitar
-  - original
-  mbid: f23074f4-2c06-477a-bf1d-12fa66e087ee
-  name: Colin Greenwood
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  - sampler
-  mbid: f23074f4-2c06-477a-bf1d-12fa66e087ee
-  name: Colin Greenwood
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  - string synthesizer
-  mbid: f23074f4-2c06-477a-bf1d-12fa66e087ee
-  name: Colin Greenwood
-- begin: ''
-  end: ''
-  instruments:
-  - electric guitar
-  - original
-  mbid: e9fcfbbf-1743-4f73-8744-ada8da7394ea
-  name: Jonny Greenwood
-- begin: ''
-  end: ''
-  instruments:
-  - ondes Martenot
-  - original
-  mbid: e9fcfbbf-1743-4f73-8744-ada8da7394ea
-  name: Jonny Greenwood
-- begin: ''
-  end: ''
-  instruments:
-  - glockenspiel
-  - original
-  mbid: e9fcfbbf-1743-4f73-8744-ada8da7394ea
-  name: Jonny Greenwood
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  - toy piano
-  mbid: e9fcfbbf-1743-4f73-8744-ada8da7394ea
-  name: Jonny Greenwood
-- begin: ''
-  end: ''
-  instruments:
-  - analog synthesizer
-  - original
-  mbid: e9fcfbbf-1743-4f73-8744-ada8da7394ea
-  name: Jonny Greenwood
-- begin: ''
-  end: ''
-  instruments:
-  - background vocals
-  - original
-  mbid: 309d9809-cf74-493a-b56b-1378258f20fd
-  name: Ed O’Brien
-- begin: ''
-  end: ''
-  instruments:
-  - electric guitar
-  - original
-  mbid: 309d9809-cf74-493a-b56b-1378258f20fd
-  name: Ed O’Brien
-- begin: ''
-  end: ''
-  instruments:
-  - effects
-  - original
-  mbid: 309d9809-cf74-493a-b56b-1378258f20fd
-  name: Ed O’Brien
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  - percussion
-  mbid: 4ab74d13-d1eb-4895-b874-6da5d8b1aac3
-  name: Philip Selway
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  - original
-  mbid: 4ab74d13-d1eb-4895-b874-6da5d8b1aac3
-  name: Philip Selway
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  - original
-  mbid: 8ed2e0b3-aa4c-4e13-bec3-dc7393ed4d6b
-  name: Thom Yorke
-- begin: ''
-  end: ''
-  instruments:
-  - acoustic guitar
-  - original
-  mbid: 8ed2e0b3-aa4c-4e13-bec3-dc7393ed4d6b
-  name: Thom Yorke
-- begin: ''
-  end: ''
-  instruments:
-  - electric guitar
-  - original
-  mbid: 8ed2e0b3-aa4c-4e13-bec3-dc7393ed4d6b
-  name: Thom Yorke
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  - synthesizer
-  mbid: 8ed2e0b3-aa4c-4e13-bec3-dc7393ed4d6b
-  name: Thom Yorke
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  - piano
-  mbid: 8ed2e0b3-aa4c-4e13-bec3-dc7393ed4d6b
-  name: Thom Yorke
+  - begin: ''
+    end: ''
+    instruments:
+      - double bass
+      - original
+    mbid: f23074f4-2c06-477a-bf1d-12fa66e087ee
+    name: Colin Greenwood
+  - begin: ''
+    end: ''
+    instruments:
+      - electric bass guitar
+      - original
+    mbid: f23074f4-2c06-477a-bf1d-12fa66e087ee
+    name: Colin Greenwood
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - sampler
+    mbid: f23074f4-2c06-477a-bf1d-12fa66e087ee
+    name: Colin Greenwood
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - string synthesizer
+    mbid: f23074f4-2c06-477a-bf1d-12fa66e087ee
+    name: Colin Greenwood
+  - begin: ''
+    end: ''
+    instruments:
+      - electric guitar
+      - original
+    mbid: e9fcfbbf-1743-4f73-8744-ada8da7394ea
+    name: Jonny Greenwood
+  - begin: ''
+    end: ''
+    instruments:
+      - ondes Martenot
+      - original
+    mbid: e9fcfbbf-1743-4f73-8744-ada8da7394ea
+    name: Jonny Greenwood
+  - begin: ''
+    end: ''
+    instruments:
+      - glockenspiel
+      - original
+    mbid: e9fcfbbf-1743-4f73-8744-ada8da7394ea
+    name: Jonny Greenwood
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - toy piano
+    mbid: e9fcfbbf-1743-4f73-8744-ada8da7394ea
+    name: Jonny Greenwood
+  - begin: ''
+    end: ''
+    instruments:
+      - analog synthesizer
+      - original
+    mbid: e9fcfbbf-1743-4f73-8744-ada8da7394ea
+    name: Jonny Greenwood
+  - begin: ''
+    end: ''
+    instruments:
+      - background vocals
+      - original
+    mbid: 309d9809-cf74-493a-b56b-1378258f20fd
+    name: Ed O’Brien
+  - begin: ''
+    end: ''
+    instruments:
+      - electric guitar
+      - original
+    mbid: 309d9809-cf74-493a-b56b-1378258f20fd
+    name: Ed O’Brien
+  - begin: ''
+    end: ''
+    instruments:
+      - effects
+      - original
+    mbid: 309d9809-cf74-493a-b56b-1378258f20fd
+    name: Ed O’Brien
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - percussion
+    mbid: 4ab74d13-d1eb-4895-b874-6da5d8b1aac3
+    name: Philip Selway
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+      - original
+    mbid: 4ab74d13-d1eb-4895-b874-6da5d8b1aac3
+    name: Philip Selway
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+      - original
+    mbid: 8ed2e0b3-aa4c-4e13-bec3-dc7393ed4d6b
+    name: Thom Yorke
+  - begin: ''
+    end: ''
+    instruments:
+      - acoustic guitar
+      - original
+    mbid: 8ed2e0b3-aa4c-4e13-bec3-dc7393ed4d6b
+    name: Thom Yorke
+  - begin: ''
+    end: ''
+    instruments:
+      - electric guitar
+      - original
+    mbid: 8ed2e0b3-aa4c-4e13-bec3-dc7393ed4d6b
+    name: Thom Yorke
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - synthesizer
+    mbid: 8ed2e0b3-aa4c-4e13-bec3-dc7393ed4d6b
+    name: Thom Yorke
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - piano
+    mbid: 8ed2e0b3-aa4c-4e13-bec3-dc7393ed4d6b
+    name: Thom Yorke
 musicbrainz_id: a74b1b7f-71a5-4011-9441-d0b5e4122711
-origin: Abingdon-on-Thames
+origin: 'Abingdon-on-Thames, Oxfordshire, England'
 tags:
-- alternative
-- alternative rock
-- alternative rock music
+  - alternative
+  - alternative rock
+  - alternative rock music
+birth_place: 'Abingdon, Oxfordshire, England'
 ---
 
 ![](radiohead.jpg)

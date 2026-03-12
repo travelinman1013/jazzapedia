@@ -4,13 +4,13 @@ wiki_slug: viagra-boys
 schema_version: 2
 status: active
 genres:
-- post-punk
+  - post-punk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/viagra_boys.jpg
   caption: Viagra Boys
   background: solo_singer
 audio_profile:
-  tempo_avg: 127.0
+  tempo_avg: 127
   energy_avg: 0.794
   valence_avg: 0.623
   danceability_avg: 0.551
@@ -24,54 +24,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sebastian Murphy
-  - Henrik Höckert
-  - Benjamin Vallé
-  - Elias Jungqvist
-  - Oscar Carls
-  - Tor Sjödén
-  - Linus Hillborg
+    - Sebastian Murphy
+    - Henrik Höckert
+    - Benjamin Vallé
+    - Elias Jungqvist
+    - Oscar Carls
+    - Tor Sjödén
+    - Linus Hillborg
   influenced:
-  - Yung Lean
+    - Yung Lean
   mentors:
-  - Butthole Surfers
-  - Dead Kennedys
+    - Butthole Surfers
+    - Dead Kennedys
 spotify_data:
   followers: 434020
   id: 2nAKP6etu8wXNnezKXgqgg
   popularity: 58
-  url: https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg
+  url: 'https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg'
 discography_enriched: true
 top_tracks:
-- Uno II (Uno II)
-- Man Made of Meat (Man Made of Meat)
-- Sports (Street Worms)
-- Slow Learner (Street Worms)
-- Punk Rock Loser (Cave World)
-- Worms (Street Worms)
-- The Bog Body
-- Troglodyte (Cave World)
-- Ain't Nice (Welfare Jazz)
-- Research Chemicals
+  - Uno II (Uno II)
+  - Man Made of Meat (Man Made of Meat)
+  - Sports (Street Worms)
+  - Slow Learner (Street Worms)
+  - Punk Rock Loser (Cave World)
+  - Worms (Street Worms)
+  - The Bog Body
+  - Troglodyte (Cave World)
+  - Ain't Nice (Welfare Jazz)
+  - Research Chemicals
 external_urls:
-  spotify: https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg
-  wikipedia: https://en.wikipedia.org/wiki/Viagra_Boys
+  spotify: 'https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg'
+  wikipedia: 'https://en.wikipedia.org/wiki/Viagra_Boys'
 image_path: 03_Resources/source_material/ArtistPortraits/viagra_boys.jpg
 biography_enhanced_at: '2025-10-30T12:06:20.936474'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Viagra+Boys/+wiki
-- https://www.inmusicfestival.com/en/lineup/lineup-2024/viagra-boys
-- https://readdork.com/features/growing-up-punk-viagra-boys-have-learnt-to-love-the-quieter-life/
-- https://www.thefader.com/2018/10/02/viagra-boys-interview
-- https://index.year0001.com/article/viagra-boys
-- https://www.musicmusingsandsuch.com/musicmusingsandsuch/2025/4/29/feature-spotlight-viagra-boys
+  - 'https://www.last.fm/music/Viagra+Boys/+wiki'
+  - 'https://www.inmusicfestival.com/en/lineup/lineup-2024/viagra-boys'
+  - >-
+    https://readdork.com/features/growing-up-punk-viagra-boys-have-learnt-to-love-the-quieter-life/
+  - 'https://www.thefader.com/2018/10/02/viagra-boys-interview'
+  - 'https://index.year0001.com/article/viagra-boys'
+  - >-
+    https://www.musicmusingsandsuch.com/musicmusingsandsuch/2025/4/29/feature-spotlight-viagra-boys
 network_extracted: true
 entry_created: '2025-10-30T12:06:20.936493'
 last_updated: '2025-12-23T08:16:17.844765'
-origin: Stockholm, Sweden
-
+origin: 'Stockholm, Sweden'
+artist_type: person
 ---
 
 ![](viagra_boys.jpg)

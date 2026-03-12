@@ -1,109 +1,109 @@
 ---
-title: WOODY HERMAN
+title: Woody Herman
 wiki_slug: woody-herman
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1913-05-16'
-birth_place: Milwaukee
+birth_place: 'Milwaukee, Wisconsin, United States'
 death_date: '1987-10-29'
 genres:
-- big band
-- swing music
-- jazz
-- cool jazz
+  - big band
+  - swing music
+  - jazz
+  - cool jazz
 instruments:
-- alto saxophone
-- clarinet
-- eponymous
-- original
-- lead vocals
-- saxophone
-- alto vocals
-- spoken vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - alto saxophone
   - clarinet
   - eponymous
   - original
-  mbid: be78d7d5-e137-42e1-a698-f4365c04b996
-  name: Woody Herman and His Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - clarinet
-  - eponymous
   - lead vocals
-  - original
   - saxophone
-  mbid: ddbdbf44-8c1b-44f8-aa28-78a2c87a45ea
-  name: Woody Herman & His Big Band
-- begin: ''
-  end: ''
-  instruments:
-  - clarinet
-  - eponymous
-  - original
-  mbid: 4540269a-a85e-48c0-bcaa-fa5a8bc35d96
-  name: Woody Herman & His Thundering Herd
-- begin: ''
-  end: ''
-  instruments:
-  - clarinet
-  - eponymous
-  - original
-  mbid: 475ee011-51b6-40d3-bdf2-ac959f834308
-  name: Woody Herman and His Woodchoppers
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 72997e29-75b2-428c-9c0d-5a8737098805
-  name: Woody Herman & The Four Brothers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0fc7f01d-5468-43d7-a4b4-7201ba5f08f8
-  name: Harry Sosnik and His Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 4b839c30-7579-4fc2-9d91-bf13a7927528
-  name: Woody Herman All-Stars
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 37f182be-9f1e-4e49-95c9-1eb4daaa1b64
-  name: The Woody Herman Band
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: cda6c8e3-925b-4ecf-926e-120e6d26e9b3
-  name: Woody Herman's Herd
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: ded9a276-f3fc-443c-9dcb-9549df2f684e
-  name: Woody Herman Sextet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 72bba2bd-5c18-41a0-8947-a7b942407b0b
-  name: Woody Herman’s Second Herd
+  - alto vocals
+  - spoken vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - alto saxophone
+      - clarinet
+      - eponymous
+      - original
+    mbid: be78d7d5-e137-42e1-a698-f4365c04b996
+    name: Woody Herman and His Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - clarinet
+      - eponymous
+      - lead vocals
+      - original
+      - saxophone
+    mbid: ddbdbf44-8c1b-44f8-aa28-78a2c87a45ea
+    name: Woody Herman & His Big Band
+  - begin: ''
+    end: ''
+    instruments:
+      - clarinet
+      - eponymous
+      - original
+    mbid: 4540269a-a85e-48c0-bcaa-fa5a8bc35d96
+    name: Woody Herman & His Thundering Herd
+  - begin: ''
+    end: ''
+    instruments:
+      - clarinet
+      - eponymous
+      - original
+    mbid: 475ee011-51b6-40d3-bdf2-ac959f834308
+    name: Woody Herman and His Woodchoppers
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 72997e29-75b2-428c-9c0d-5a8737098805
+    name: Woody Herman & The Four Brothers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0fc7f01d-5468-43d7-a4b4-7201ba5f08f8
+    name: Harry Sosnik and His Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 4b839c30-7579-4fc2-9d91-bf13a7927528
+    name: Woody Herman All-Stars
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 37f182be-9f1e-4e49-95c9-1eb4daaa1b64
+    name: The Woody Herman Band
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: cda6c8e3-925b-4ecf-926e-120e6d26e9b3
+    name: Woody Herman's Herd
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: ded9a276-f3fc-443c-9dcb-9549df2f684e
+    name: Woody Herman Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 72bba2bd-5c18-41a0-8947-a7b942407b0b
+    name: Woody Herman’s Second Herd
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/woody_herman.jpg
   caption: WOODY HERMAN
@@ -112,13 +112,13 @@ infobox:
   origin: Milwaukee
   died: '1987-10-29'
 audio_profile:
-  tempo_avg: 119.0
+  tempo_avg: 119
   energy_avg: 0.454
   valence_avg: 0.542
   danceability_avg: 0.497
   acousticness_avg: 0.596
   instrumentalness_avg: 0.293
-  loudness_avg: -12.0
+  loudness_avg: -12
   speechiness_avg: 0.055
   liveness_avg: 0.278
   track_count: 51
@@ -126,58 +126,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Stan Getz
-  - Zoot Sims
-  - Serge Chaloff
-  - Herbie Steward
-  - Dizzy Gillespie
+    - Stan Getz
+    - Zoot Sims
+    - Serge Chaloff
+    - Herbie Steward
+    - Dizzy Gillespie
   influenced:
-  - Stan Getz
-  - Zoot Sims
-  - Bill Chase
-  - Ralph Burns
+    - Stan Getz
+    - Zoot Sims
+    - Bill Chase
+    - Ralph Burns
   mentors:
-  - Isham Jones
+    - Isham Jones
 spotify_data:
   followers: 31076
   id: 2KSxJY1WxGGVYSmoM0N54P
   popularity: 26
-  url: https://open.spotify.com/artist/2KSxJY1WxGGVYSmoM0N54P
+  url: 'https://open.spotify.com/artist/2KSxJY1WxGGVYSmoM0N54P'
 discography_enriched: true
 top_tracks:
-- 'Jazz Me Blues (Verve Jazz Masters 54: Woody Herman)'
-- 'Who Dat Up Dere? (Herman, Woody: Get Your Boots Laced Papa! (1938-1943))'
-- La Fiesta (Giant Steps)
-- Don't Get Around Much Anymore (1963)
-- Light My Fire (Keep On Keepin' On)
-- Giant Steps (Giant Steps)
-- 23 Red - Live at Basin Street West, San Francisco - June 1965 (Woody's Winners (Live))
-- LAURA (The Essence of Woody Herman)
-- Laura - 2000 - Remaster (Four Brothers)
-- 'Who Dat Up Dere? (Herman, Woody: Get Your Boots Laced Papa! (1938-1943))'
+  - 'Jazz Me Blues (Verve Jazz Masters 54: Woody Herman)'
+  - 'Who Dat Up Dere? (Herman, Woody: Get Your Boots Laced Papa! (1938-1943))'
+  - La Fiesta (Giant Steps)
+  - Don't Get Around Much Anymore (1963)
+  - Light My Fire (Keep On Keepin' On)
+  - Giant Steps (Giant Steps)
+  - >-
+    23 Red - Live at Basin Street West, San Francisco - June 1965 (Woody's
+    Winners (Live))
+  - LAURA (The Essence of Woody Herman)
+  - Laura - 2000 - Remaster (Four Brothers)
+  - 'Who Dat Up Dere? (Herman, Woody: Get Your Boots Laced Papa! (1938-1943))'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/73bb2ece-7ef7-4ee9-b3a0-bffe0b481bb0
-  spotify: https://open.spotify.com/artist/2KSxJY1WxGGVYSmoM0N54P
-  wikipedia: https://en.wikipedia.org/wiki/Woody_Herman
+  musicbrainz: 'https://musicbrainz.org/artist/73bb2ece-7ef7-4ee9-b3a0-bffe0b481bb0'
+  spotify: 'https://open.spotify.com/artist/2KSxJY1WxGGVYSmoM0N54P'
+  wikipedia: 'https://en.wikipedia.org/wiki/Woody_Herman'
 image_path: 03_Resources/source_material/ArtistPortraits/woody_herman.jpg
 biography_enhanced_at: '2025-11-03T07:44:41.500499'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Woody_Herman
-- https://www.jukeboxy.com/blog/woody-herman-the-innovator-of-big-band-jazz/
-- https://www.britannica.com/biography/Woody-Herman
-- https://walkoffame.com/woody-herman/
-- https://nationaljazzarchive.org.uk/explore/interviews/1634264-woody-herman-interview-1
+  - 'https://en.wikipedia.org/wiki/Woody_Herman'
+  - 'https://www.jukeboxy.com/blog/woody-herman-the-innovator-of-big-band-jazz/'
+  - 'https://www.britannica.com/biography/Woody-Herman'
+  - 'https://walkoffame.com/woody-herman/'
+  - >-
+    https://nationaljazzarchive.org.uk/explore/interviews/1634264-woody-herman-interview-1
 network_extracted: true
 entry_created: '2025-11-03T07:44:41.500504'
 last_updated: '2025-12-23T08:16:18.282471'
 gender: Male
 musicbrainz_id: 73bb2ece-7ef7-4ee9-b3a0-bffe0b481bb0
 tags:
-- 2008 universal fire victim
-- jazz
-
+  - 2008 universal fire victim
+  - jazz
+is_active: false
 ---
 
 ![](woody_herman.jpg)

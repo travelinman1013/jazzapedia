@@ -1,14 +1,14 @@
 ---
-title: gov't mule
+title: Gov't Mule
 wiki_slug: govt-mule
 schema_version: 2
 status: active
 genres:
-- southern rock
-- blues rock
-- modern blues
-- blues
-- roots rock
+  - southern rock
+  - blues rock
+  - modern blues
+  - blues
+  - roots rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/govt_mule.jpg
   caption: gov't mule
@@ -28,55 +28,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Allman Brothers Band (including Gregg Allman and Dickey Betts)
-  - Parliament/Funkadelic members
-  - Ben Harper, Elvis Costello, Dr. John, Grace Potter, Dave Matthews, Myles Kennedy, Steve Winwood (and others on *Shout!* )
-  - Jack Bruce, John Entwistle, Mike Watt, Les Claypool, Flea, Chris Squire and other bassists
-  - Danny Louis
-  - Andy Hess and Jorgen Carlsson
+    - The Allman Brothers Band (including Gregg Allman and Dickey Betts)
+    - Parliament/Funkadelic members
+    - >-
+      Ben Harper, Elvis Costello, Dr. John, Grace Potter, Dave Matthews, Myles
+      Kennedy, Steve Winwood (and others on *Shout!* )
+    - >-
+      Jack Bruce, John Entwistle, Mike Watt, Les Claypool, Flea, Chris Squire
+      and other bassists
+    - Danny Louis
+    - Andy Hess and Jorgen Carlsson
   influenced:
-  - Contemporary jam-band and modern southern rock acts (e.g., younger festival and improv‑rock bands)
+    - >-
+      Contemporary jam-band and modern southern rock acts (e.g., younger
+      festival and improv‑rock bands)
   mentors:
-  - Cream
-  - The Jimi Hendrix Experience
-  - James Gang
-  - ZZ Top
+    - Cream
+    - The Jimi Hendrix Experience
+    - James Gang
+    - ZZ Top
 spotify_data:
   followers: 309287
   id: 5zoKOcTDI9EMOhGNaxL708
   popularity: 44
-  url: https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708
+  url: 'https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708'
 discography_enriched: true
 top_tracks:
-- Soulshine (The Deep End Vol. 1)
-- Banks Of The Deep End (The Deep End Vol. 1)
-- Beautifully Broken (The Deep End Vol. 1)
-- Make It Rain (Heavy Load Blues)
-- Heavy Load (Heavy Load Blues)
-- Life On The Outside (The Deep End Vol. 1)
-- She Said, She Said (Dose)
-- Chicken Heads
-- Reblow Your Mind (Mighty High)
-- Soulshine (Live...With A Little Help From Our Friends)
+  - Soulshine (The Deep End Vol. 1)
+  - Banks Of The Deep End (The Deep End Vol. 1)
+  - Beautifully Broken (The Deep End Vol. 1)
+  - Make It Rain (Heavy Load Blues)
+  - Heavy Load (Heavy Load Blues)
+  - Life On The Outside (The Deep End Vol. 1)
+  - 'She Said, She Said (Dose)'
+  - Chicken Heads
+  - Reblow Your Mind (Mighty High)
+  - Soulshine (Live...With A Little Help From Our Friends)
 external_urls:
-  spotify: https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708
-  wikipedia: https://en.wikipedia.org/wiki/Gov%27t_Mule
+  spotify: 'https://open.spotify.com/artist/5zoKOcTDI9EMOhGNaxL708'
+  wikipedia: 'https://en.wikipedia.org/wiki/Gov%27t_Mule'
 image_path: 03_Resources/source_material/ArtistPortraits/govt_mule.jpg
 biography_enhanced_at: '2025-12-06T05:53:54.334692'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Gov't+Mule/+wiki
-- https://www.barlegendradio.net/2011/12/govt-mule-biography.html
-- https://relix.com/articles/detail/govt-mule-dreaming-out-loud/
-- https://www.premierguitar.com/artists/guitarists/warren-haynes-and-danny-louis
-- https://concord.com/artist/govt-mule/
-- https://gatheringofthevibes.com/artist/govt-mule/
+  - 'https://www.last.fm/music/Gov''t+Mule/+wiki'
+  - 'https://www.barlegendradio.net/2011/12/govt-mule-biography.html'
+  - 'https://relix.com/articles/detail/govt-mule-dreaming-out-loud/'
+  - >-
+    https://www.premierguitar.com/artists/guitarists/warren-haynes-and-danny-louis
+  - 'https://concord.com/artist/govt-mule/'
+  - 'https://gatheringofthevibes.com/artist/govt-mule/'
 network_extracted: true
 entry_created: '2025-12-06T05:53:54.334702'
 last_updated: '2025-12-23T08:16:09.281958'
-origin: New York, New York, United States
-
+origin: 'New York, New York, United States'
+artist_type: band
 ---
 
 ![](govt_mule.jpg)

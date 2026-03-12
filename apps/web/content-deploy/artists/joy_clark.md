@@ -3,14 +3,14 @@ title: Joy Clark
 wiki_slug: joy-clark
 schema_version: 2
 status: active
-birth_place: Harvey, Louisiana, United States
+birth_place: 'Harvey, Louisiana, United States'
 genres:
-- southern gothic
+  - southern gothic
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/joy_clark.jpg
   caption: Joy Clark
   background: solo_singer
-  origin: Harvey, Louisiana, United States
+  origin: 'Harvey, Louisiana, United States'
 audio_profile:
   tempo_avg: 109.9
   energy_avg: 0.366
@@ -26,50 +26,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Allison Russell
-  - Brandi Carlile
-  - Indigo Girls
-  - Ani DiFranco
+    - Allison Russell
+    - Brandi Carlile
+    - Indigo Girls
+    - Ani DiFranco
   influenced:
-  - No widely documented protégés or direct students as of 2025.
+    - No widely documented protégés or direct students as of 2025.
   mentors:
-  - Cyril Neville
-  - Margaret Becker
+    - Cyril Neville
+    - Margaret Becker
 spotify_data:
   followers: 3743
   id: 7BTIW6ksfRBJ50xe6EtXjJ
   popularity: 12
-  url: https://open.spotify.com/artist/7BTIW6ksfRBJ50xe6EtXjJ
+  url: 'https://open.spotify.com/artist/7BTIW6ksfRBJ50xe6EtXjJ'
 discography_enriched: true
 top_tracks:
-- Freedom Is A Constant Struggle (Freedom Is A Constant Struggle)
-- Lesson (Tell it to the Wind)
-- Guest (Tell it to the Wind)
-- Shimmering (Tell it to the Wind)
-- One Step in the Right Direction (Tell it to the Wind)
-- All Behind (Tell it to the Wind)
-- Shine (Tell it to the Wind)
-- Tell it to the Wind (Tell it to the Wind)
-- Good Thing (Good Thing)
-- These are the Days (Tell it to the Wind)
+  - Freedom Is A Constant Struggle (Freedom Is A Constant Struggle)
+  - Lesson (Tell it to the Wind)
+  - Guest (Tell it to the Wind)
+  - Shimmering (Tell it to the Wind)
+  - One Step in the Right Direction (Tell it to the Wind)
+  - All Behind (Tell it to the Wind)
+  - Shine (Tell it to the Wind)
+  - Tell it to the Wind (Tell it to the Wind)
+  - Good Thing (Good Thing)
+  - These are the Days (Tell it to the Wind)
 external_urls:
-  spotify: https://open.spotify.com/artist/7BTIW6ksfRBJ50xe6EtXjJ
+  spotify: 'https://open.spotify.com/artist/7BTIW6ksfRBJ50xe6EtXjJ'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/joy_clark.jpg
 biography_enhanced_at: '2025-10-26T12:41:55.133369'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://nwmf.info/portfolio/joy-clark-2/
-- https://joyclarkmusic.com/home/about/
-- https://www.wwno.org/music/2024-10-10/joy-clarks-debut-album-is-a-queer-new-orleans-coming-of-age-story
-- https://relix.com/articles/detail/joy-clark-moving-optimistically-forward/
-- https://www.vianolavie.org/2021/04/12/alternative-journalism-spring-2021-joy-clark/
-- https://atwoodmagazine.com/bhm2524-joy-clark-black-history-month-essay-finding-inspiration-creativity-connection-right-around-me/
-- https://www.vianolavie.org/2021/04/22/portrait-of-an-artist-joy-clark/
+  - 'https://nwmf.info/portfolio/joy-clark-2/'
+  - 'https://joyclarkmusic.com/home/about/'
+  - >-
+    https://www.wwno.org/music/2024-10-10/joy-clarks-debut-album-is-a-queer-new-orleans-coming-of-age-story
+  - 'https://relix.com/articles/detail/joy-clark-moving-optimistically-forward/'
+  - >-
+    https://www.vianolavie.org/2021/04/12/alternative-journalism-spring-2021-joy-clark/
+  - >-
+    https://atwoodmagazine.com/bhm2524-joy-clark-black-history-month-essay-finding-inspiration-creativity-connection-right-around-me/
+  - 'https://www.vianolavie.org/2021/04/22/portrait-of-an-artist-joy-clark/'
 network_extracted: true
 entry_created: '2025-10-26T12:41:55.133384'
 last_updated: '2025-12-23T08:16:11.009210'
+artist_type: person
 ---
 
 ![](joy_clark.jpg)

@@ -2,12 +2,12 @@
 title: Michot's Melody Makers
 wiki_slug: michots-melody-makers
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 aliases: []
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Michots_Melody_Makers.jpg
   caption: Michot's Melody Makers
@@ -27,12 +27,12 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bryan Webre
-  - Kirkland Middleton
-  - Mark Bingham
-  - John Zorn
-  - String Noise (Pauline Kim Harris, Conrad Harris)
-  - Leyla McCalla
+    - Bryan Webre
+    - Kirkland Middleton
+    - Mark Bingham
+    - John Zorn
+    - 'String Noise (Pauline Kim Harris, Conrad Harris)'
+    - Leyla McCalla
   influenced: []
   mentors: []
 related_artists: []
@@ -40,42 +40,42 @@ spotify_data:
   followers: 410
   id: 3rEhYm8Jp63lEzwL0uKjNo
   popularity: 1
-  url: https://open.spotify.com/artist/3rEhYm8Jp63lEzwL0uKjNo
+  url: 'https://open.spotify.com/artist/3rEhYm8Jp63lEzwL0uKjNo'
   verified: false
 discography_enriched: true
 albums_count: 2
 singles_count: 1
 top_tracks:
-- Dans les pins (Blood Moon)
-- Two-Step de Ste. Marie (TINY ISLAND)
-- Ma jolie petite fille (Cosmic Cajuns from Saturn)
-- Latibonit (TINY ISLAND)
-- Blues de Neg Francais (TINY ISLAND)
-- Bluerunner / La Lune Est Croche (TINY ISLAND)
-- Two-Step de ste Marie (Blood Moon)
-- Grand marais (Blood Moon)
-- Blues de neg Francais (Blood Moon)
-- La lune est croche (Blood Moon)
+  - Dans les pins (Blood Moon)
+  - Two-Step de Ste. Marie (TINY ISLAND)
+  - Ma jolie petite fille (Cosmic Cajuns from Saturn)
+  - Latibonit (TINY ISLAND)
+  - Blues de Neg Francais (TINY ISLAND)
+  - Bluerunner / La Lune Est Croche (TINY ISLAND)
+  - Two-Step de ste Marie (Blood Moon)
+  - Grand marais (Blood Moon)
+  - Blues de neg Francais (Blood Moon)
+  - La lune est croche (Blood Moon)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d7793fc8-fa3e-4592-a9ea-e01c9d148d04
-  spotify: https://open.spotify.com/artist/3rEhYm8Jp63lEzwL0uKjNo
-  wikipedia: https://en.wikipedia.org/wiki/Cajun_accordion
+  musicbrainz: 'https://musicbrainz.org/artist/d7793fc8-fa3e-4592-a9ea-e01c9d148d04'
+  spotify: 'https://open.spotify.com/artist/3rEhYm8Jp63lEzwL0uKjNo'
+  wikipedia: 'https://en.wikipedia.org/wiki/Cajun_accordion'
 image_path: 03_Resources/source_material/ArtistPortraits/Michots_Melody_Makers.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:39:57.289296'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- stringsmagazine.com
-- rockandrollglobe.com
-- antigravitymagazine.com
+  - stringsmagazine.com
+  - rockandrollglobe.com
+  - antigravitymagazine.com
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 12:57:53.066418
+entry_created: 2025-09-18T12:57:53.066Z
 last_updated: '2025-12-23T08:16:03.303278'
 musicbrainz_enriched_at: '2025-10-21T09:37:52.859114'
 musicbrainz_id: d7793fc8-fa3e-4592-a9ea-e01c9d148d04
-origin: Louisiana, United States
+origin: 'Brooklyn, New York, United States'
 ---
 
 ![](Michots_Melody_Makers.jpg)

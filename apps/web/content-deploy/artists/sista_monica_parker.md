@@ -3,15 +3,15 @@ title: Sista Monica Parker
 wiki_slug: sista-monica-parker
 schema_version: 2
 status: active
-birth_place: Gary, Indiana, United States
+birth_place: 'Gary, Indiana, United States'
 genres:
-- blues
-- soul blues
+  - blues
+  - soul blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sista_monica_parker.jpg
   caption: Sista Monica Parker
   background: solo_singer
-  origin: Gary, Indiana, United States
+  origin: 'Gary, Indiana, United States'
 audio_profile:
   tempo_avg: 117.7
   energy_avg: 0.569
@@ -27,46 +27,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mo Muscle Band Members
+    - Mo Muscle Band Members
   influenced:
-  - Emerging Female Blues Artists
+    - Emerging Female Blues Artists
   mentors:
-  - Local Baptist Church Choir Directors
+    - Local Baptist Church Choir Directors
 spotify_data:
   followers: 539
   id: 4ABCqnTKy4lXy1MEh5rsGg
   popularity: 4
-  url: https://open.spotify.com/artist/4ABCqnTKy4lXy1MEh5rsGg
+  url: 'https://open.spotify.com/artist/4ABCqnTKy4lXy1MEh5rsGg'
 discography_enriched: true
 top_tracks:
-- I Don't Want To Hurt You Baby (Soul Blues & Ballads)
-- Never Say Never - Live (Tommy Castro Presents The Legendary Rhythm & Blues Revue--Live!)
-- I'm A Woman (Soul Blues & Ballads)
-- Cogic Yes! (feat. Yvette Flunder & SMG Choir) (Singin' In The Spirit)
-- Bless That Wonderful Name of Jesus (feat. Yvette Flunder & SMG Choir) (Singin' In The Spirit)
-- The Walking Wounded (Soul Blues & Ballads)
-- A Chance To Breathe (Soul Blues & Ballads)
-- Pussy Cat Moan (Soul Blues & Ballads)
-- Soul Shine (Soul Blues & Ballads)
-- You Gotta Move (Sweet Inspirations)
+  - I Don't Want To Hurt You Baby (Soul Blues & Ballads)
+  - >-
+    Never Say Never - Live (Tommy Castro Presents The Legendary Rhythm & Blues
+    Revue--Live!)
+  - I'm A Woman (Soul Blues & Ballads)
+  - Cogic Yes! (feat. Yvette Flunder & SMG Choir) (Singin' In The Spirit)
+  - >-
+    Bless That Wonderful Name of Jesus (feat. Yvette Flunder & SMG Choir)
+    (Singin' In The Spirit)
+  - The Walking Wounded (Soul Blues & Ballads)
+  - A Chance To Breathe (Soul Blues & Ballads)
+  - Pussy Cat Moan (Soul Blues & Ballads)
+  - Soul Shine (Soul Blues & Ballads)
+  - You Gotta Move (Sweet Inspirations)
 external_urls:
-  spotify: https://open.spotify.com/artist/4ABCqnTKy4lXy1MEh5rsGg
-  wikipedia: https://en.wikipedia.org/wiki/Sista_Monica_Parker
+  spotify: 'https://open.spotify.com/artist/4ABCqnTKy4lXy1MEh5rsGg'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sista_Monica_Parker'
 image_path: 03_Resources/source_material/ArtistPortraits/sista_monica_parker.jpg
 biography_enhanced_at: '2025-11-26T07:54:42.538477'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://soulbluesmusic.com/sistamonicaparkerpage.htm
-- https://fromthevaults-boppinbob.blogspot.com/2023/04/sista-monica-born-27-april-1956.html
-- https://www.sfgate.com/music/article/Sista-Monica-Parker-singer-of-blues-soul-5827627.php
-- https://www.allmusic.com/artist/sista-monica-parker-mn0000011891
-- https://kids.kiddle.co/Sista_Monica_Parker
-- http://www.breaklivemusic.com/new/index.php?option=com_content&view=article&id=76%3Asista-monica-parker&catid=34%3Aartist-roster&Itemid=48&lang=en
+  - 'https://soulbluesmusic.com/sistamonicaparkerpage.htm'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2023/04/sista-monica-born-27-april-1956.html
+  - >-
+    https://www.sfgate.com/music/article/Sista-Monica-Parker-singer-of-blues-soul-5827627.php
+  - 'https://www.allmusic.com/artist/sista-monica-parker-mn0000011891'
+  - 'https://kids.kiddle.co/Sista_Monica_Parker'
+  - >-
+    http://www.breaklivemusic.com/new/index.php?option=com_content&view=article&id=76%3Asista-monica-parker&catid=34%3Aartist-roster&Itemid=48&lang=en
 network_extracted: true
 entry_created: '2025-11-26T07:54:42.538489'
 last_updated: '2025-12-23T08:16:15.685715'
-
+birth_date: '1956-04-27'
+death_date: '2014-10-09'
+artist_type: person
 ---
 
 ![](sista_monica_parker.jpg)

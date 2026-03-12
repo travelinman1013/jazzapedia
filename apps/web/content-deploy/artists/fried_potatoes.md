@@ -9,7 +9,7 @@ infobox:
   caption: Fried Potatoes
   background: solo_singer
 audio_profile:
-  tempo_avg: 118.0
+  tempo_avg: 118
   energy_avg: 0.187
   valence_avg: 0.691
   danceability_avg: 0.599
@@ -23,42 +23,43 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Donna Coppola
-  - Chris Colthart
-  - Samantha Wood Goddess
+    - Donna Coppola
+    - Chris Colthart
+    - Samantha Wood Goddess
   influenced:
-  - Guster
+    - Guster
   mentors: []
 spotify_data:
   followers: 9
   id: 49oL2p2DKY8WWyixZodmhr
   popularity: 0
-  url: https://open.spotify.com/artist/49oL2p2DKY8WWyixZodmhr
+  url: 'https://open.spotify.com/artist/49oL2p2DKY8WWyixZodmhr'
 discography_enriched: true
 top_tracks:
-- Every Night (Breeze)
-- You Don't Know My Mind (Breeze)
-- Lucky Lukacs (Breeze)
-- The Sleeper (Breeze)
-- I Ain't Takin' Orders from No One (Breeze)
-- Missourian Gal (Breeze)
-- Harry's Tune (Breeze)
-- Breeze (Blow My Baby Back to Me) (Breeze)
-- Am I Blue? (Breeze)
-- Jack Bacon's Blues (Breeze)
+  - Every Night (Breeze)
+  - You Don't Know My Mind (Breeze)
+  - Lucky Lukacs (Breeze)
+  - The Sleeper (Breeze)
+  - I Ain't Takin' Orders from No One (Breeze)
+  - Missourian Gal (Breeze)
+  - Harry's Tune (Breeze)
+  - Breeze (Blow My Baby Back to Me) (Breeze)
+  - Am I Blue? (Breeze)
+  - Jack Bacon's Blues (Breeze)
 external_urls:
-  spotify: https://open.spotify.com/artist/49oL2p2DKY8WWyixZodmhr
-  wikipedia: https://en.wikipedia.org/wiki/Papas_Fritas
+  spotify: 'https://open.spotify.com/artist/49oL2p2DKY8WWyixZodmhr'
+  wikipedia: 'https://en.wikipedia.org/wiki/Papas_Fritas'
 image_path: 03_Resources/source_material/ArtistPortraits/fried_potatoes.jpg
 biography_enhanced_at: '2025-11-23T06:23:52.391412'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Papas_Fritas
+  - 'https://en.wikipedia.org/wiki/Papas_Fritas'
 network_extracted: true
 entry_created: '2025-11-23T06:23:52.391424'
 last_updated: '2025-12-23T08:16:08.878699'
-origin: Somerville, Massachusetts, United States
+origin: 'Somerville, Massachusetts, United States'
+artist_type: band
 ---
 
 ![](fried_potatoes.jpg)

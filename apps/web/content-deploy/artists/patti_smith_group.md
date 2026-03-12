@@ -1,14 +1,14 @@
 ---
-title: Patti Smith Group
+title: The Patti Smith Group
 wiki_slug: patti-smith-group
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- proto-punk
+  - proto-punk
 instruments:
-- eponymous
-- original
+  - eponymous
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/patti_smith_group.jpg
   caption: Patti Smith Group
@@ -28,93 +28,95 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lenny Kaye
-  - Richard Sohl
-  - Ivan Král
-  - Jay Dee Daugherty
-  - Bruce Springsteen
-  - John Cale
+    - Lenny Kaye
+    - Richard Sohl
+    - Ivan Král
+    - Jay Dee Daugherty
+    - Bruce Springsteen
+    - John Cale
   influenced:
-  - R.E.M.
-  - Siouxsie and the Banshees
-  - Courtney Love
-  - U2
+    - R.E.M.
+    - Siouxsie and the Banshees
+    - Courtney Love
+    - U2
   mentors:
-  - Jim Morrison
-  - Allen Ginsberg
+    - Jim Morrison
+    - Allen Ginsberg
 spotify_data:
   followers: 1263114
   id: 0vYkHhJ48Bs3jWcvZXvOrP
   popularity: 57
-  url: https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP
+  url: 'https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP'
 discography_enriched: true
 top_tracks:
-- Because the Night (Easter)
-- Dancing Barefoot (Wave)
-- Because the Night (Easter)
-- Redondo Beach (Horses (Legacy Edition))
-- Because the Night
-- 'Gloria: In Excelsis Deo (Horses (Legacy Edition))'
-- People Have the Power (Dream Of Life)
-- Frederick (Wave)
-- Smells Like Teen Spirit - Radio Edit
-- Free Money (Horses (Legacy Edition))
+  - Because the Night (Easter)
+  - Dancing Barefoot (Wave)
+  - Because the Night (Easter)
+  - Redondo Beach (Horses (Legacy Edition))
+  - Because the Night
+  - 'Gloria: In Excelsis Deo (Horses (Legacy Edition))'
+  - People Have the Power (Dream Of Life)
+  - Frederick (Wave)
+  - Smells Like Teen Spirit - Radio Edit
+  - Free Money (Horses (Legacy Edition))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/26638df8-ef34-40d1-8d93-616836b72878
-  spotify: https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP
-  wikipedia: https://en.wikipedia.org/wiki/Patti_Smith
+  musicbrainz: 'https://musicbrainz.org/artist/26638df8-ef34-40d1-8d93-616836b72878'
+  spotify: 'https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP'
+  wikipedia: 'https://en.wikipedia.org/wiki/Patti_Smith'
 image_path: 03_Resources/source_material/ArtistPortraits/patti_smith_group.jpg
 biography_enhanced_at: '2025-11-12T15:00:02.948521'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Patti_Smith
-- https://aaep1600.osu.edu/book/17_PattiSmith.php
-- https://www.britannica.com/biography/Patti-Smith
-- https://top40weekly.com/patti-smith/
-- https://www.ebsco.com/research-starters/biography/patti-smith
+  - 'https://en.wikipedia.org/wiki/Patti_Smith'
+  - 'https://aaep1600.osu.edu/book/17_PattiSmith.php'
+  - 'https://www.britannica.com/biography/Patti-Smith'
+  - 'https://top40weekly.com/patti-smith/'
+  - 'https://www.ebsco.com/research-starters/biography/patti-smith'
 network_extracted: true
 entry_created: '2025-11-12T15:00:02.948530'
 last_updated: '2025-12-23T08:16:14.034229'
 members:
-- begin: '1977'
-  end: '1978'
-  instruments: []
-  mbid: b2731438-73e5-47c6-a289-5e6be4ad81f3
-  name: Bruce Brody
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 252f386e-f6c7-456c-8abf-b5475b016aec
-  name: Jay Dee Daugherty
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 47455aa4-c71e-4662-a775-33b81fcf0a37
-  name: Lenny Kaye
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3095b79c-0f52-4ac8-a3c4-c1a15a61aa12
-  name: Ivan Král
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: d135874d-9cae-4fef-97e3-36acbd9f5a26
-  name: Patti Smith
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a3ae33b4-ac3a-440f-bb4d-377381fac5b6
-  name: Richard Sohl
+  - begin: '1977'
+    end: '1978'
+    instruments: []
+    mbid: b2731438-73e5-47c6-a289-5e6be4ad81f3
+    name: Bruce Brody
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 252f386e-f6c7-456c-8abf-b5475b016aec
+    name: Jay Dee Daugherty
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 47455aa4-c71e-4662-a775-33b81fcf0a37
+    name: Lenny Kaye
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3095b79c-0f52-4ac8-a3c4-c1a15a61aa12
+    name: Ivan Král
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: d135874d-9cae-4fef-97e3-36acbd9f5a26
+    name: Patti Smith
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a3ae33b4-ac3a-440f-bb4d-377381fac5b6
+    name: Richard Sohl
 musicbrainz_id: 26638df8-ef34-40d1-8d93-616836b72878
-origin: New York City, New York, United States
+origin: 'New York City, New York, United States'
 tags:
-- art punk
-- art rock
-- garage rock
+  - art punk
+  - art rock
+  - garage rock
+birth_place: 'Chicago, Illinois, United States'
+birth_date: '1946'
 ---
 
 ![](patti_smith_group.jpg)

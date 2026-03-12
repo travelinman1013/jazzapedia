@@ -1,79 +1,83 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: bafc4c41-99fc-43a2-8533-c64b8977e0c2
-  name: ‘Ma’ Rainey & Her Georgia Jazz Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5310d3ad-7d48-4ce3-858c-cc7b8676c4b3
-  name: The Rabbit's Foot Company
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 38b8adde-b35e-46de-95d6-c213afe7b801
-  name: Ma Rainey's Tub Jug Washboard Band
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: bafc4c41-99fc-43a2-8533-c64b8977e0c2
+    name: ‘Ma’ Rainey & Her Georgia Jazz Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5310d3ad-7d48-4ce3-858c-cc7b8676c4b3
+    name: The Rabbit's Foot Company
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 38b8adde-b35e-46de-95d6-c213afe7b801
+    name: Ma Rainey's Tub Jug Washboard Band
 biography_enhanced_at: '2025-12-27T01:28:12.261115'
 birth_date: '1886-04-26'
-birth_place: Columbus
+birth_place: 'Columbus, Georgia, United States'
 death_date: '1939-12-22'
 enhancement_provider: perplexity
 entry_created: '2025-12-27T01:28:12.261129'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e1deae56-c8f0-4e73-8264-f4b02dfc051c
-  spotify: https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH
-  wikipedia: https://en.wikipedia.org/wiki/Ma_Rainey
+  musicbrainz: 'https://musicbrainz.org/artist/e1deae56-c8f0-4e73-8264-f4b02dfc051c'
+  spotify: 'https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ma_Rainey'
 gender: Female
 genres:
-- classic blues
-- blues
-- ragtime
-- country blues
+  - classic blues
+  - blues
+  - ragtime
+  - country blues
 image_path: 03_Resources/source_material/ArtistPortraits/ma_rainey.jpg
 instruments:
-- eponymous
-- original
-- lead vocals
-- spoken vocals
-- vocal
+  - eponymous
+  - original
+  - lead vocals
+  - spoken vocals
+  - vocal
 last_updated: '2025-12-27T01:28:12.261130'
 musical_connections:
   collaborators:
-  - William 'Pa' Rainey
-  - Louis Armstrong
-  - Thomas Dorsey
-  - Tampa Red
-  - Georgia Jazz Band
+    - William 'Pa' Rainey
+    - Louis Armstrong
+    - Thomas Dorsey
+    - Tampa Red
+    - Georgia Jazz Band
   influenced:
-  - Bessie Smith
+    - Bessie Smith
   mentors:
-  - Minstrel performers (parents)
+    - Minstrel performers (parents)
 musicbrainz_id: e1deae56-c8f0-4e73-8264-f4b02dfc051c
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.biography.com/musicians/ma-rainey
-- https://nmaahc.si.edu/ma-rainey
-- https://www.britannica.com/biography/Ma-Rainey
-- https://www.georgiaencyclopedia.org/articles/arts-culture/gertrude-ma-rainey-1886-1939/
-- https://www.womenshistory.org/education-resources/biographies/gertrude-ma-rainey
-- https://en.wikipedia.org/wiki/Ma_Rainey
+  - 'https://www.biography.com/musicians/ma-rainey'
+  - 'https://nmaahc.si.edu/ma-rainey'
+  - 'https://www.britannica.com/biography/Ma-Rainey'
+  - >-
+    https://www.georgiaencyclopedia.org/articles/arts-culture/gertrude-ma-rainey-1886-1939/
+  - >-
+    https://www.womenshistory.org/education-resources/biographies/gertrude-ma-rainey
+  - 'https://en.wikipedia.org/wiki/Ma_Rainey'
 spotify_data:
   followers: 58044
   id: 1ygXiRxKSfb927vhBH1ruH
   popularity: 26
-  url: https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH
+  url: 'https://open.spotify.com/artist/1ygXiRxKSfb927vhBH1ruH'
 status: active
 tags:
-- american
-- blues
-- singer
-title: ma rainey
+  - american
+  - blues
+  - singer
+title: Ma Rainey
+is_active: false
+origin: 'Columbus, Georgia, United States'
 ---
 
 ![](ma_rainey.jpg)

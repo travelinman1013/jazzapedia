@@ -1,72 +1,72 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 12e532f5-4a8c-43af-8e39-e5e2b65bf2d6
-  name: Fire and Ice
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 12e532f5-4a8c-43af-8e39-e5e2b65bf2d6
+    name: Fire and Ice
 biography_enhanced_at: '2025-12-31T01:50:03.010956'
 birth_date: '1932-06-21'
-birth_place: Buenos Aires
+birth_place: 'Buenos Aires, Argentina'
 death_date: '2025-06-26'
 disambiguation: pianist & composer
 enhancement_provider: perplexity
 entry_created: '2025-12-31T01:50:03.010960'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/adf017f5-76d6-4d31-b1b9-a0211675e7c2
-  spotify: https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1
-  wikipedia: https://en.wikipedia.org/wiki/Lalo_Schifrin
+  musicbrainz: 'https://musicbrainz.org/artist/adf017f5-76d6-4d31-b1b9-a0211675e7c2'
+  spotify: 'https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lalo_Schifrin'
 gender: Male
 genres:
-- brazilian jazz
-- exotica
-- bossa nova
-- latin jazz
+  - brazilian jazz
+  - exotica
+  - bossa nova
+  - latin jazz
 image_path: 03_Resources/source_material/ArtistPortraits/lalo_schifrin.jpg
 instruments:
-- piano
-- choir vocals
+  - piano
+  - choir vocals
 last_updated: '2025-12-31T01:50:03.010961'
 musical_connections:
   collaborators:
-  - Dizzy Gillespie
-  - Johnny Hodges
-  - Jimmy Smith
-  - Stan Getz
-  - Paul Horn
-  - Clint Eastwood
-  - London Philharmonic Orchestra
+    - Dizzy Gillespie
+    - Johnny Hodges
+    - Jimmy Smith
+    - Stan Getz
+    - Paul Horn
+    - Clint Eastwood
+    - London Philharmonic Orchestra
   influenced:
-  - Film composers (general)
+    - Film composers (general)
   mentors:
-  - Olivier Messiaen
-  - Charles Koechlin
-  - Dizzy Gillespie
+    - Olivier Messiaen
+    - Charles Koechlin
+    - Dizzy Gillespie
 musicbrainz_id: adf017f5-76d6-4d31-b1b9-a0211675e7c2
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- Wikipedia - Lalo Schifrin
-- Wise Music Classical - Lalo Schifrin
-- Chicago Symphony Orchestra - Lalo Schifrin
-- Hollywood Walk of Fame - Lalo Schifrin
-- Lalo Schifrin Official Biography
-- Apple Music Classical - Lalo Schifrin
-- Doug Payne - Lalo Schifrin Biography
-- Steinway & Sons - Lalo Schifrin
+  - Wikipedia - Lalo Schifrin
+  - Wise Music Classical - Lalo Schifrin
+  - Chicago Symphony Orchestra - Lalo Schifrin
+  - Hollywood Walk of Fame - Lalo Schifrin
+  - Lalo Schifrin Official Biography
+  - Apple Music Classical - Lalo Schifrin
+  - Doug Payne - Lalo Schifrin Biography
+  - Steinway & Sons - Lalo Schifrin
 spotify_data:
   followers: 61568
   id: 39iHRO9MH9To3gjW7wqaW1
   popularity: 45
-  url: https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1
+  url: 'https://open.spotify.com/artist/39iHRO9MH9To3gjW7wqaW1'
 status: active
 tags:
-- big band
-- composers
-- composition
+  - big band
+  - composers
+  - composition
 title: Lalo Schifrin
-
+is_active: false
 ---
 
 ![](lalo_schifrin.jpg)

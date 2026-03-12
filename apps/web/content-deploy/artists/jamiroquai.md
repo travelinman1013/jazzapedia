@@ -2,14 +2,14 @@
 title: Jamiroquai
 wiki_slug: jamiroquai
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 birth_date: '1992'
 genres:
-- acid jazz
+  - acid jazz
 instruments:
-- drums (drum set)
-- background vocals
+  - drums (drum set)
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jamiroquai.jpg
   caption: Jamiroquai
@@ -30,192 +30,192 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Toby Smith
-  - Wallis Buchanan
-  - Derrick McKenzie
-  - Sola Akingbola
+    - Toby Smith
+    - Wallis Buchanan
+    - Derrick McKenzie
+    - Sola Akingbola
   influenced:
-  - Mark Ronson
-  - Daft Punk
-  - Bruno Mars
+    - Mark Ronson
+    - Daft Punk
+    - Bruno Mars
   mentors:
-  - Brand New Heavies
-  - Native American/First Nation philosophies
+    - Brand New Heavies
+    - Native American/First Nation philosophies
 spotify_data:
   followers: 2755540
   id: 6J7biCazzYhU3gM9j1wfid
   popularity: 69
-  url: https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid
+  url: 'https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid'
 discography_enriched: true
 top_tracks:
-- Virtual Insanity - Remastered 2006
-- Cosmic Girl - Remastered 2013 (Travelling Without Moving (Remastered))
-- Canned Heat (Synkronized)
-- Little L (A Funk Odyssey)
-- Seven Days in Sunny June (Dynamite)
-- Virtual Insanity
-- You Give Me Something (A Funk Odyssey)
-- Space Cowboy (Classic Radio)
-- Love Foolosophy - Radio Edit (A Funk Odyssey)
-- Space Cowboy (The Return of the Space Cowboy (Remastered))
+  - Virtual Insanity - Remastered 2006
+  - Cosmic Girl - Remastered 2013 (Travelling Without Moving (Remastered))
+  - Canned Heat (Synkronized)
+  - Little L (A Funk Odyssey)
+  - Seven Days in Sunny June (Dynamite)
+  - Virtual Insanity
+  - You Give Me Something (A Funk Odyssey)
+  - Space Cowboy (Classic Radio)
+  - Love Foolosophy - Radio Edit (A Funk Odyssey)
+  - Space Cowboy (The Return of the Space Cowboy (Remastered))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f4857fb9-e255-4dc6-bd01-e4ca7cc68544
-  spotify: https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid
-  wikipedia: https://en.wikipedia.org/wiki/Jamiroquai
+  musicbrainz: 'https://musicbrainz.org/artist/f4857fb9-e255-4dc6-bd01-e4ca7cc68544'
+  spotify: 'https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jamiroquai'
 image_path: 03_Resources/source_material/ArtistPortraits/jamiroquai.jpg
 biography_enhanced_at: '2025-11-04T11:13:39.052018'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia
-- Simple English Wikipedia
-- IMDB
-- Jamiroquai Official Website
+  - Wikipedia
+  - Simple English Wikipedia
+  - IMDB
+  - Jamiroquai Official Website
 network_extracted: true
 entry_created: '2025-11-04T11:13:39.052033'
 last_updated: '2025-12-23T08:16:10.209439'
 members:
-- begin: '1992'
-  end: '2001'
-  instruments: []
-  mbid: f7b742b1-77df-48ae-acfb-45d053940714
-  name: Wallis Buchanan
-- begin: '1992'
-  end: '2002'
-  instruments: []
-  mbid: d5b9db1d-7856-49d5-9780-459ab9366c2f
-  name: Toby Smith
-- &id001
-  begin: '1992'
-  end: ''
-  instruments: []
-  mbid: 0eec027c-6a95-4229-97b3-422f1888b35d
-  name: Jay Kay
-- begin: '1993'
-  end: '1993'
-  instruments: []
-  mbid: 53401115-f7a6-4fb1-b7f7-d072691ebef4
-  name: Nick Van Gelder
-- begin: '1993'
-  end: '1993'
-  instruments: []
-  mbid: 95374407-3685-4ad3-a2d7-edb4b13d0b21
-  name: Maurizio Ravalico
-- begin: '1993'
-  end: '1994'
-  instruments: []
-  mbid: 5d67effa-ea4e-4638-a801-b7d415362117
-  name: Gavin Dodds
-- begin: '1993'
-  end: '1998'
-  instruments: []
-  mbid: b7b10721-a4e1-4e3f-afdf-3bf20df73f76
-  name: John Thirkell
-- begin: '1993'
-  end: '1998'
-  instruments: []
-  mbid: 651bf54f-1ffb-41e3-8cb9-9e48f1418019
-  name: Stuart Zender
-- begin: '1993'
-  end: '2001'
-  instruments: []
-  mbid: a45fc2f8-4a32-4be9-9d4a-894eda9be537
-  name: DJ D-Zire
-- &id002
-  begin: '1993'
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 3ea9bbe7-8777-434a-9538-1ca771706dc2
-  name: Derrick McKenzie
-- begin: '1995'
-  end: '2000'
-  instruments: []
-  mbid: 960dec84-1f90-4a80-bd9b-6e3d66f77692
-  name: Simon Katz
-- &id003
-  begin: '1996'
-  end: ''
-  instruments: []
-  mbid: aaba2457-1869-4282-8431-2806f0b66be5
-  name: Sola Akingbola
-- begin: '1998'
-  end: '2003'
-  instruments: []
-  mbid: 51b44fd5-a6d7-4b60-a72b-12c382b4d3da
-  name: Nick Fyffe
-- begin: '1999'
-  end: '2002'
-  instruments: []
-  mbid: b9b34901-8d0a-4bc9-b295-a204b39c8d85
-  name: Simon Carter
-- begin: '2001'
-  end: '2007'
-  instruments:
-  - background vocals
-  mbid: 92f54c08-1304-4b12-a1b3-8b1cffb2395a
-  name: Samantha Smith
-- &id004
-  begin: '2001'
-  end: ''
-  instruments: []
-  mbid: a6a34094-d9cf-468b-96cb-0ca7b51bffe2
-  name: Rob Harris
-- &id005
-  begin: '2002'
-  end: ''
-  instruments: []
-  mbid: 9e2ba9e2-3cb0-44b7-9f20-77565c663133
-  name: Matt Johnson
-- &id006
-  begin: '2004'
-  end: ''
-  instruments: []
-  mbid: d9c4282b-87ef-482d-a9b7-0660cadc1c37
-  name: Paul Turner
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e5b0dc65-a067-4fd3-8ff5-b5808f62f94f
-  name: Howard Anderson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 95169dc9-0837-4034-a3cd-4fd88293fe19
-  name: Hazel Fernandes
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6f987c2e-d1a5-42ee-b41d-1be174e5ddda
-  name: Dee Lewis
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b683ae92-a339-4756-8f0e-7944aaebb45e
-  name: Lorraine McIntosh
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8f972f6d-4769-48e1-a51d-67a2da539b23
-  name: Adrian Revell
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 682fca86-c1b3-49f0-b4e1-fda6d1787f6a
-  name: Winston Rollins
+  - begin: '1992'
+    end: '2001'
+    instruments: []
+    mbid: f7b742b1-77df-48ae-acfb-45d053940714
+    name: Wallis Buchanan
+  - begin: '1992'
+    end: '2002'
+    instruments: []
+    mbid: d5b9db1d-7856-49d5-9780-459ab9366c2f
+    name: Toby Smith
+  - &ref_0
+    begin: '1992'
+    end: ''
+    instruments: []
+    mbid: 0eec027c-6a95-4229-97b3-422f1888b35d
+    name: Jay Kay
+  - begin: '1993'
+    end: '1993'
+    instruments: []
+    mbid: 53401115-f7a6-4fb1-b7f7-d072691ebef4
+    name: Nick Van Gelder
+  - begin: '1993'
+    end: '1993'
+    instruments: []
+    mbid: 95374407-3685-4ad3-a2d7-edb4b13d0b21
+    name: Maurizio Ravalico
+  - begin: '1993'
+    end: '1994'
+    instruments: []
+    mbid: 5d67effa-ea4e-4638-a801-b7d415362117
+    name: Gavin Dodds
+  - begin: '1993'
+    end: '1998'
+    instruments: []
+    mbid: b7b10721-a4e1-4e3f-afdf-3bf20df73f76
+    name: John Thirkell
+  - begin: '1993'
+    end: '1998'
+    instruments: []
+    mbid: 651bf54f-1ffb-41e3-8cb9-9e48f1418019
+    name: Stuart Zender
+  - begin: '1993'
+    end: '2001'
+    instruments: []
+    mbid: a45fc2f8-4a32-4be9-9d4a-894eda9be537
+    name: DJ D-Zire
+  - &ref_1
+    begin: '1993'
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 3ea9bbe7-8777-434a-9538-1ca771706dc2
+    name: Derrick McKenzie
+  - begin: '1995'
+    end: '2000'
+    instruments: []
+    mbid: 960dec84-1f90-4a80-bd9b-6e3d66f77692
+    name: Simon Katz
+  - &ref_2
+    begin: '1996'
+    end: ''
+    instruments: []
+    mbid: aaba2457-1869-4282-8431-2806f0b66be5
+    name: Sola Akingbola
+  - begin: '1998'
+    end: '2003'
+    instruments: []
+    mbid: 51b44fd5-a6d7-4b60-a72b-12c382b4d3da
+    name: Nick Fyffe
+  - begin: '1999'
+    end: '2002'
+    instruments: []
+    mbid: b9b34901-8d0a-4bc9-b295-a204b39c8d85
+    name: Simon Carter
+  - begin: '2001'
+    end: '2007'
+    instruments:
+      - background vocals
+    mbid: 92f54c08-1304-4b12-a1b3-8b1cffb2395a
+    name: Samantha Smith
+  - &ref_3
+    begin: '2001'
+    end: ''
+    instruments: []
+    mbid: a6a34094-d9cf-468b-96cb-0ca7b51bffe2
+    name: Rob Harris
+  - &ref_4
+    begin: '2002'
+    end: ''
+    instruments: []
+    mbid: 9e2ba9e2-3cb0-44b7-9f20-77565c663133
+    name: Matt Johnson
+  - &ref_5
+    begin: '2004'
+    end: ''
+    instruments: []
+    mbid: d9c4282b-87ef-482d-a9b7-0660cadc1c37
+    name: Paul Turner
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e5b0dc65-a067-4fd3-8ff5-b5808f62f94f
+    name: Howard Anderson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 95169dc9-0837-4034-a3cd-4fd88293fe19
+    name: Hazel Fernandes
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6f987c2e-d1a5-42ee-b41d-1be174e5ddda
+    name: Dee Lewis
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b683ae92-a339-4756-8f0e-7944aaebb45e
+    name: Lorraine McIntosh
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8f972f6d-4769-48e1-a51d-67a2da539b23
+    name: Adrian Revell
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 682fca86-c1b3-49f0-b4e1-fda6d1787f6a
+    name: Winston Rollins
 musicbrainz_id: f4857fb9-e255-4dc6-bd01-e4ca7cc68544
-origin: Ealing
+origin: 'London, England, United Kingdom'
 original_members:
-- *id001
-- *id002
-- *id003
-- *id004
-- *id005
-- *id006
+  - *ref_0
+  - *ref_1
+  - *ref_2
+  - *ref_3
+  - *ref_4
+  - *ref_5
 tags:
-- acid jazz
-- british
-- disco
+  - acid jazz
+  - british
+  - disco
 ---
 
 ![](jamiroquai.jpg)

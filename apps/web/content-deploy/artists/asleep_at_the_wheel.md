@@ -2,19 +2,19 @@
 title: Asleep At The Wheel
 wiki_slug: asleep-at-the-wheel
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1969'
 genres:
-- traditional country
-- honky tonk
+  - traditional country
+  - honky tonk
 instruments:
-- original
-- fiddle
-- mandolin
-- background vocals
-- drums (drum set)
-- guitar
+  - original
+  - fiddle
+  - mandolin
+  - background vocals
+  - drums (drum set)
+  - guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/asleep_at_the_wheel.jpg
   caption: Asleep At The Wheel
@@ -35,192 +35,196 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lucky Oceans (Reuben Gosfield)
-  - Leroy Preston
-  - Floyd Domino (Jim Haber)
-  - Chris O'Connell
-  - Johnny Gimble
-  - Tommy Allsup
+    - Lucky Oceans (Reuben Gosfield)
+    - Leroy Preston
+    - Floyd Domino (Jim Haber)
+    - Chris O'Connell
+    - Johnny Gimble
+    - Tommy Allsup
   influenced:
-  - Modern Western Swing Revival
-  - Texas Country Music Scene
+    - Modern Western Swing Revival
+    - Texas Country Music Scene
   mentors:
-  - Bob Wills
-  - Count Basie
-  - Van Morrison
-  - Wavy Gravy (Hugh Romney)
-  - Willie Nelson
+    - Bob Wills
+    - Count Basie
+    - Van Morrison
+    - Wavy Gravy (Hugh Romney)
+    - Willie Nelson
 spotify_data:
   followers: 64999
   id: 54tWKkrjv4bQgKrQrNlecm
   popularity: 40
-  url: https://open.spotify.com/artist/54tWKkrjv4bQgKrQrNlecm
+  url: 'https://open.spotify.com/artist/54tWKkrjv4bQgKrQrNlecm'
 discography_enriched: true
 top_tracks:
-- The Letter (That Johnny Walker Read)
-- Hot Rod Lincoln (Western Standard Time)
-- Riding High In Texas (feat. Billy Strings)
-- Miles and Miles of Texas
-- If Tommy Duncan's Voice Was Booze (Obsessed With The West)
-- The Letter That Johnny Walker Read (Texas Gold)
-- Roly Poly (Ride With Bob)
-- Big Ball's In Cowtown (Strait Out Of The Box)
-- Get Your Kicks on Route 66
-- Texas
+  - The Letter (That Johnny Walker Read)
+  - Hot Rod Lincoln (Western Standard Time)
+  - Riding High In Texas (feat. Billy Strings)
+  - Miles and Miles of Texas
+  - If Tommy Duncan's Voice Was Booze (Obsessed With The West)
+  - The Letter That Johnny Walker Read (Texas Gold)
+  - Roly Poly (Ride With Bob)
+  - Big Ball's In Cowtown (Strait Out Of The Box)
+  - Get Your Kicks on Route 66
+  - Texas
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/79ad8210-274e-4a99-8033-f4c9fe9be8a3
-  spotify: https://open.spotify.com/artist/54tWKkrjv4bQgKrQrNlecm
-  wikipedia: https://en.wikipedia.org/wiki/Asleep_at_the_Wheel
+  musicbrainz: 'https://musicbrainz.org/artist/79ad8210-274e-4a99-8033-f4c9fe9be8a3'
+  spotify: 'https://open.spotify.com/artist/54tWKkrjv4bQgKrQrNlecm'
+  wikipedia: 'https://en.wikipedia.org/wiki/Asleep_at_the_Wheel'
 image_path: 03_Resources/source_material/ArtistPortraits/asleep_at_the_wheel.jpg
 biography_enhanced_at: '2025-12-22T01:42:49.097768'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Asleep_at_the_Wheel
-- https://www.tshaonline.org/handbook/entries/asleep-at-the-wheel
-- https://texashighways.com/culture/arts-entertainment/ray-benson-reflects-50-years-seminal-western-swing-band-asleep-at-the-wheel/
-- https://thecosmiccultureclub.com/biography-of-asleep-at-the-wheel/
-- https://www.pastemagazine.com/music/asleep-at-the-wheel/asleep-at-the-wheel-paw-paw-west-virginia
-- https://www.kmuw.org/music/2015-10-22/asleep-at-the-wheel-and-the-great-western-swing-expansion
-- https://kxt.org/2021/12/asleep-at-the-wheel-marks-half-a-hundred-years-of-making-music/
+  - 'https://en.wikipedia.org/wiki/Asleep_at_the_Wheel'
+  - 'https://www.tshaonline.org/handbook/entries/asleep-at-the-wheel'
+  - >-
+    https://texashighways.com/culture/arts-entertainment/ray-benson-reflects-50-years-seminal-western-swing-band-asleep-at-the-wheel/
+  - 'https://thecosmiccultureclub.com/biography-of-asleep-at-the-wheel/'
+  - >-
+    https://www.pastemagazine.com/music/asleep-at-the-wheel/asleep-at-the-wheel-paw-paw-west-virginia
+  - >-
+    https://www.kmuw.org/music/2015-10-22/asleep-at-the-wheel-and-the-great-western-swing-expansion
+  - >-
+    https://kxt.org/2021/12/asleep-at-the-wheel-marks-half-a-hundred-years-of-making-music/
 network_extracted: true
 entry_created: '2025-12-22T01:42:49.097772'
 last_updated: '2025-12-23T08:16:04.965995'
 disambiguation: American western swing band
 members:
-- begin: '1969'
-  end: '1979'
-  instruments:
-  - original
-  mbid: e7f1d1a1-51e9-4e1a-9380-efda0c898876
-  name: Lucky Oceans
-- &id001
-  begin: '1969'
-  end: ''
-  instruments:
-  - original
-  mbid: e268ddf3-f9d0-47fc-8a62-5d9ee62b73ea
-  name: Ray Benson
-- begin: '1978'
-  end: '1980'
-  instruments: []
-  mbid: 7a2c8df8-58bb-4d2d-8f76-2b75230c2934
-  name: Johnny Nicholas
-- begin: '2014'
-  end: '2016'
-  instruments: []
-  mbid: 50dd12e9-3d7e-4262-a282-937dbd84d935
-  name: Emily Gimble
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c519813f-c15b-42c9-ace1-3ccc0fbc7148
-  name: Tim Alexander
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 11f613e0-0ead-47e7-b139-cca02b3d2700
-  name: Richard Casanova
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 13fc3071-bd6e-473e-99b3-3368510350fb
-  name: Floyd Domino
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4a24a3a2-e110-4372-a771-b0b68dbca8c3
-  name: Michael Francis
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 30f4e366-c333-494a-9e8b-b6449ca53cdf
-  name: Larry Franklin
-- begin: ''
-  end: ''
-  instruments:
-  - fiddle
-  mbid: 884e61c3-4490-4fe0-acaa-6a1a89aadf31
-  name: Danny Levin
-- begin: ''
-  end: ''
-  instruments:
-  - mandolin
-  mbid: 884e61c3-4490-4fe0-acaa-6a1a89aadf31
-  name: Danny Levin
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2c939503-4a6b-4dc2-a787-b8197f79df7c
-  name: Elizabeth McQueen
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 28a69a47-ad5f-4b89-9d8a-2b1b0b97cbb2
-  name: John Michael Whitby
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 37e1d544-7cfd-47c5-a379-a8cc3f8acbfc
-  name: David Miller
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0eb9e408-d317-463e-8dc5-5fdc8813329d
-  name: Eddie Rivers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 709bd244-4284-4adb-89d4-58d989aeb36c
-  name: Jason Roberts
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1420e8ad-61f1-42a4-a617-32c604847efa
-  name: David Sanger
-- begin: ''
-  end: ''
-  instruments:
-  - background vocals
-  mbid: b36bebf8-2a9f-4fe7-aab1-dbf37ac5c489
-  name: Katie Shore
-- begin: ''
-  end: ''
-  instruments:
-  - fiddle
-  mbid: b36bebf8-2a9f-4fe7-aab1-dbf37ac5c489
-  name: Katie Shore
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 13e075f6-cc31-45ce-b3ff-94aaef6f29d0
-  name: Haydn Vitera
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7004f15a-a339-44f4-b516-e0d50ebc1268
-  name: Bobby Black
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 09456566-a84c-427e-851a-cc3a1fa81faa
-  name: Leroy Preston
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: 09456566-a84c-427e-851a-cc3a1fa81faa
-  name: Leroy Preston
+  - begin: '1969'
+    end: '1979'
+    instruments:
+      - original
+    mbid: e7f1d1a1-51e9-4e1a-9380-efda0c898876
+    name: Lucky Oceans
+  - &ref_0
+    begin: '1969'
+    end: ''
+    instruments:
+      - original
+    mbid: e268ddf3-f9d0-47fc-8a62-5d9ee62b73ea
+    name: Ray Benson
+  - begin: '1978'
+    end: '1980'
+    instruments: []
+    mbid: 7a2c8df8-58bb-4d2d-8f76-2b75230c2934
+    name: Johnny Nicholas
+  - begin: '2014'
+    end: '2016'
+    instruments: []
+    mbid: 50dd12e9-3d7e-4262-a282-937dbd84d935
+    name: Emily Gimble
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c519813f-c15b-42c9-ace1-3ccc0fbc7148
+    name: Tim Alexander
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 11f613e0-0ead-47e7-b139-cca02b3d2700
+    name: Richard Casanova
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 13fc3071-bd6e-473e-99b3-3368510350fb
+    name: Floyd Domino
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4a24a3a2-e110-4372-a771-b0b68dbca8c3
+    name: Michael Francis
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 30f4e366-c333-494a-9e8b-b6449ca53cdf
+    name: Larry Franklin
+  - begin: ''
+    end: ''
+    instruments:
+      - fiddle
+    mbid: 884e61c3-4490-4fe0-acaa-6a1a89aadf31
+    name: Danny Levin
+  - begin: ''
+    end: ''
+    instruments:
+      - mandolin
+    mbid: 884e61c3-4490-4fe0-acaa-6a1a89aadf31
+    name: Danny Levin
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2c939503-4a6b-4dc2-a787-b8197f79df7c
+    name: Elizabeth McQueen
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 28a69a47-ad5f-4b89-9d8a-2b1b0b97cbb2
+    name: John Michael Whitby
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 37e1d544-7cfd-47c5-a379-a8cc3f8acbfc
+    name: David Miller
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0eb9e408-d317-463e-8dc5-5fdc8813329d
+    name: Eddie Rivers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 709bd244-4284-4adb-89d4-58d989aeb36c
+    name: Jason Roberts
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1420e8ad-61f1-42a4-a617-32c604847efa
+    name: David Sanger
+  - begin: ''
+    end: ''
+    instruments:
+      - background vocals
+    mbid: b36bebf8-2a9f-4fe7-aab1-dbf37ac5c489
+    name: Katie Shore
+  - begin: ''
+    end: ''
+    instruments:
+      - fiddle
+    mbid: b36bebf8-2a9f-4fe7-aab1-dbf37ac5c489
+    name: Katie Shore
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 13e075f6-cc31-45ce-b3ff-94aaef6f29d0
+    name: Haydn Vitera
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7004f15a-a339-44f4-b516-e0d50ebc1268
+    name: Bobby Black
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 09456566-a84c-427e-851a-cc3a1fa81faa
+    name: Leroy Preston
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 09456566-a84c-427e-851a-cc3a1fa81faa
+    name: Leroy Preston
 musicbrainz_id: 79ad8210-274e-4a99-8033-f4c9fe9be8a3
-origin: Paw Paw
+origin: 'Paw Paw, West Virginia, United States'
 original_members:
-- *id001
+  - *ref_0
 tags:
-- 2008 universal fire victim
-- country
-- folk
-
+  - 2008 universal fire victim
+  - country
+  - folk
+birth_place: 'Paw Paw, West Virginia, United States'
 ---
 
 ![](asleep_at_the_wheel.jpg)

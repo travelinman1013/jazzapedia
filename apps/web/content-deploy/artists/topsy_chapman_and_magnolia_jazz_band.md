@@ -1,15 +1,16 @@
 ---
-title: TOPSY CHAPMAN AND MAGNOLIA JAZZ BAND
+title: Topsy Chapman and Magnolia Jazz Band
 wiki_slug: topsy-chapman-and-magnolia-jazz-band
 schema_version: 2
 status: active
-birth_place: Kentwood, Louisiana, United States (birthplace)
+birth_place: 'Kentwood, Louisiana, United States'
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/topsy_chapman_and_magnolia_jazz_band.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/topsy_chapman_and_magnolia_jazz_band.jpg
   caption: TOPSY CHAPMAN AND MAGNOLIA JAZZ BAND
   background: solo_singer
-  origin: Kentwood, Louisiana, United States (birthplace)
+  origin: 'Kentwood, Louisiana, United States (birthplace)'
 audio_profile:
   tempo_avg: 133.5
   energy_avg: 0.407
@@ -25,52 +26,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Magnolia Jazz Band
-  - Jim Cullum Jazz Band
-  - Lars Edegran Orchestra
-  - Yolanda Robinson and Jolynda Phillips (Daughters)
-  - Lucien Barbarin, Don Suhor, Duke Heitger
-  - Willie Humphrey, Chester Zardis, Alvin Stardust, Geoff Bull, Louie Nelson, Fred Coleman
-  - Nicholas Payton
-  - Vernel Bagneris
+    - Magnolia Jazz Band
+    - Jim Cullum Jazz Band
+    - Lars Edegran Orchestra
+    - Yolanda Robinson and Jolynda Phillips (Daughters)
+    - 'Lucien Barbarin, Don Suhor, Duke Heitger'
+    - >-
+      Willie Humphrey, Chester Zardis, Alvin Stardust, Geoff Bull, Louie Nelson,
+      Fred Coleman
+    - Nicholas Payton
+    - Vernel Bagneris
   influenced:
-  - Yolanda Robinson and Jolynda Phillips
+    - Yolanda Robinson and Jolynda Phillips
   mentors:
-  - Norwood Chapman (Father)
+    - Norwood Chapman (Father)
 spotify_data:
   followers: 1148
   id: 2tKivvaRADF3SupG95wulV
   popularity: 17
-  url: https://open.spotify.com/artist/2tKivvaRADF3SupG95wulV
+  url: 'https://open.spotify.com/artist/2tKivvaRADF3SupG95wulV'
 discography_enriched: true
 top_tracks:
-- Roll Jordan Roll (feat. Chiwetel Ejiofor & Cast) (12 Years A Slave (Music From and Inspired by the Motion Picture))
-- Exactly Like You (St. Peter Street Serenade)
-- I'll Fly Away (St. Peter Street Serenade)
-- Just A Closer Walk With Thee (A Beautiful World)
-- St. Louis Blues (Live at Oslo Concert Hall)
-- Bugle Call Rag (Chasin' the Blues)
-- Have Yourself a Merry Little Christmas (Crescent City Christmas)
-- Lonesome and Sorry (Live at Oslo Concert Hall)
-- Shout, Sister, Shout! (Live at Oslo Concert Hall)
-- You Can't Tell the Difference After Dark (Fine and Mellow)
+  - >-
+    Roll Jordan Roll (feat. Chiwetel Ejiofor & Cast) (12 Years A Slave (Music
+    From and Inspired by the Motion Picture))
+  - Exactly Like You (St. Peter Street Serenade)
+  - I'll Fly Away (St. Peter Street Serenade)
+  - Just A Closer Walk With Thee (A Beautiful World)
+  - St. Louis Blues (Live at Oslo Concert Hall)
+  - Bugle Call Rag (Chasin' the Blues)
+  - Have Yourself a Merry Little Christmas (Crescent City Christmas)
+  - Lonesome and Sorry (Live at Oslo Concert Hall)
+  - 'Shout, Sister, Shout! (Live at Oslo Concert Hall)'
+  - You Can't Tell the Difference After Dark (Fine and Mellow)
 external_urls:
-  spotify: https://open.spotify.com/artist/2tKivvaRADF3SupG95wulV
-  wikipedia: https://en.wikipedia.org/wiki/Topsy_Chapman
-image_path: 03_Resources/source_material/ArtistPortraits/topsy_chapman_and_magnolia_jazz_band.jpg
+  spotify: 'https://open.spotify.com/artist/2tKivvaRADF3SupG95wulV'
+  wikipedia: 'https://en.wikipedia.org/wiki/Topsy_Chapman'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/topsy_chapman_and_magnolia_jazz_band.jpg
 biography_enhanced_at: '2025-12-04T07:39:24.584298'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Topsy Chapman
-- Jazzology - Legendary singer Topsy Chapman has died at 75
-- JusticeAid - Topsy Chapman
-- Hot Jazz - Topsy Chapman
-- OffBeat Magazine - Topsy Chapman (1947-2022)
-- 'SecondHandSongs - Artist: Topsy Chapman'
+  - Wikipedia - Topsy Chapman
+  - Jazzology - Legendary singer Topsy Chapman has died at 75
+  - JusticeAid - Topsy Chapman
+  - Hot Jazz - Topsy Chapman
+  - OffBeat Magazine - Topsy Chapman (1947-2022)
+  - 'SecondHandSongs - Artist: Topsy Chapman'
 network_extracted: true
 entry_created: '2025-12-04T07:39:24.584328'
 last_updated: '2025-12-23T08:16:17.643988'
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1947'
+death_date: '2022'
+artist_type: person
 ---
 
 ![](topsy_chapman_and_magnolia_jazz_band.jpg)

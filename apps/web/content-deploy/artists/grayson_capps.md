@@ -1,20 +1,20 @@
 ---
-title: grayson capps
+title: Grayson Capps
 wiki_slug: grayson-capps
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1967-04-17'
-birth_place: Opelika, Alabama, United States
+birth_place: 'Opelika, Alabama, United States'
 genres:
-- americana
-- alt country
+  - americana
+  - alt country
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/grayson_capps.jpg
   caption: grayson capps
   background: solo_singer
   born: '1967-04-17'
-  origin: Opelika, Alabama, United States
+  origin: 'Opelika, Alabama, United States'
 audio_profile:
   tempo_avg: 107.7
   energy_avg: 0.466
@@ -30,48 +30,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John Lawrence
-  - Trina Shoemaker
-  - The Stumpknockers
-  - The Lost Cause Minstrels
-  - Corky Hughes
+    - John Lawrence
+    - Trina Shoemaker
+    - The Stumpknockers
+    - The Lost Cause Minstrels
+    - Corky Hughes
   influenced:
-  - Willie Sugarcapps
+    - Willie Sugarcapps
   mentors:
-  - Ronnie Capps
-  - Fred Stokes and Bobby Long
-  - Hank Williams, Tom T. Hall, Glenn Campbell, Woody Guthrie
+    - Ronnie Capps
+    - Fred Stokes and Bobby Long
+    - 'Hank Williams, Tom T. Hall, Glenn Campbell, Woody Guthrie'
 spotify_data:
   followers: 11991
   id: 1AUDKBQgslL9Yy9uXROQNT
   popularity: 21
-  url: https://open.spotify.com/artist/1AUDKBQgslL9Yy9uXROQNT
+  url: 'https://open.spotify.com/artist/1AUDKBQgslL9Yy9uXROQNT'
 discography_enriched: true
 top_tracks:
-- A Love Song for Bobby Long (If You Knew My Mind)
-- Bag of Weed (Scarlett Roses)
-- Washboard Lisa (If You Knew My Mind)
-- Lorraine's Song (If You Knew My Mind)
-- Washboard Lisa (Songbones)
-- Get Back Up (If You Knew My Mind)
-- If You Knew My Mind (If You Knew My Mind)
-- May We Love (South Front Street)
-- Ike (Rott 'N' Roll)
-- Moody River (Heartbreak, Misery & Death)
+  - A Love Song for Bobby Long (If You Knew My Mind)
+  - Bag of Weed (Scarlett Roses)
+  - Washboard Lisa (If You Knew My Mind)
+  - Lorraine's Song (If You Knew My Mind)
+  - Washboard Lisa (Songbones)
+  - Get Back Up (If You Knew My Mind)
+  - If You Knew My Mind (If You Knew My Mind)
+  - May We Love (South Front Street)
+  - Ike (Rott 'N' Roll)
+  - 'Moody River (Heartbreak, Misery & Death)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f2ab6fbd-e2d6-4f14-bc02-5dca733b2ed8
-  spotify: https://open.spotify.com/artist/1AUDKBQgslL9Yy9uXROQNT
-  wikipedia: https://en.wikipedia.org/wiki/Grayson_Capps
+  musicbrainz: 'https://musicbrainz.org/artist/f2ab6fbd-e2d6-4f14-bc02-5dca733b2ed8'
+  spotify: 'https://open.spotify.com/artist/1AUDKBQgslL9Yy9uXROQNT'
+  wikipedia: 'https://en.wikipedia.org/wiki/Grayson_Capps'
 image_path: 03_Resources/source_material/ArtistPortraits/grayson_capps.jpg
 biography_enhanced_at: '2025-10-19T10:36:46.280174'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Grayson+Capps/+wiki
-- https://www.wmky.org/arts-culture/2018-02-23/grayson-capps
-- https://americana-uk.com/grayson-capps-heartbreak-misery-and-death
-- https://graysoncapps.com/bio/
-- https://www.liveandlisten.com/pages/interview-grayson-capps
+  - 'https://www.last.fm/music/Grayson+Capps/+wiki'
+  - 'https://www.wmky.org/arts-culture/2018-02-23/grayson-capps'
+  - 'https://americana-uk.com/grayson-capps-heartbreak-misery-and-death'
+  - 'https://graysoncapps.com/bio/'
+  - 'https://www.liveandlisten.com/pages/interview-grayson-capps'
 network_extracted: true
 entry_created: '2025-10-19T10:36:46.280184'
 last_updated: '2025-12-23T08:16:09.322594'
@@ -80,9 +80,9 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:52:33.176804'
 musicbrainz_id: f2ab6fbd-e2d6-4f14-bc02-5dca733b2ed8
 tags:
-- country
-- folk
-- rock
+  - country
+  - folk
+  - rock
 ---
 
 ![](grayson_capps.jpg)

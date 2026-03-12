@@ -1,140 +1,143 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c9aba151-2bf5-4cda-8c6d-2ea2b5c16346
-  name: Paul Motian Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 36f68d99-7c09-4ba6-898b-8f1b42022fed
-  name: The Bill Frisell Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: fc4dea85-3998-4130-a56e-907689160480
-  name: Naked City
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e0cf2cf0-c4ad-4917-a7dd-c044868af525
-  name: Buddy Miller's Majestic Silver Strings
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 59251a62-1f7c-4ce9-a600-1fa3f2dbff41
-  name: Floratone
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: ea6f2423-8882-4be6-a6e9-ead15578f8e0
-  name: Andrew Cyrille Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3c9646eb-aecb-43be-bf07-a09b57d9fac5
-  name: MDH Band
-- begin: ''
-  end: ''
-  instruments:
-  - electric guitar
-  mbid: c7059057-b57a-401c-90ab-264dbd9742b1
-  name: Paul Motian Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7f120576-3bde-448f-9410-23ba37b1f820
-  name: Ginger Baker Trio
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  - original
-  mbid: 615ad7e2-40ff-4bf0-866a-7ee460458dba
-  name: Gnostic Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1428abe2-1119-49ff-ae87-eec5339978a4
-  name: Harmony
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1ef4c2d0-acd8-4e76-83b4-0a2d9ef7c8b9
-  name: The Atlantic Drifters
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 714e6338-2752-4aea-ab06-cd9146d654d0
-  name: Charles Lloyd & the Marvels
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c9aba151-2bf5-4cda-8c6d-2ea2b5c16346
+    name: Paul Motian Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 36f68d99-7c09-4ba6-898b-8f1b42022fed
+    name: The Bill Frisell Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: fc4dea85-3998-4130-a56e-907689160480
+    name: Naked City
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e0cf2cf0-c4ad-4917-a7dd-c044868af525
+    name: Buddy Miller's Majestic Silver Strings
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 59251a62-1f7c-4ce9-a600-1fa3f2dbff41
+    name: Floratone
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: ea6f2423-8882-4be6-a6e9-ead15578f8e0
+    name: Andrew Cyrille Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3c9646eb-aecb-43be-bf07-a09b57d9fac5
+    name: MDH Band
+  - begin: ''
+    end: ''
+    instruments:
+      - electric guitar
+    mbid: c7059057-b57a-401c-90ab-264dbd9742b1
+    name: Paul Motian Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7f120576-3bde-448f-9410-23ba37b1f820
+    name: Ginger Baker Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+      - original
+    mbid: 615ad7e2-40ff-4bf0-866a-7ee460458dba
+    name: Gnostic Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1428abe2-1119-49ff-ae87-eec5339978a4
+    name: Harmony
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1ef4c2d0-acd8-4e76-83b4-0a2d9ef7c8b9
+    name: The Atlantic Drifters
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 714e6338-2752-4aea-ab06-cd9146d654d0
+    name: Charles Lloyd & the Marvels
 biography_enhanced_at: '2026-01-22T07:04:33.401964'
 birth_date: '1951-03-18'
-birth_place: Baltimore
+birth_place: 'Baltimore, Maryland, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:04:33.401972'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a21318db-f228-4a4d-8bce-6947a62985a5
-  spotify: https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5
-  wikipedia: https://en.wikipedia.org/wiki/Bill_Frisell
+  musicbrainz: 'https://musicbrainz.org/artist/a21318db-f228-4a4d-8bce-6947a62985a5'
+  spotify: 'https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bill_Frisell'
 gender: Male
 genres:
-- jazz
-- jazz fusion
-- free jazz
+  - jazz
+  - jazz fusion
+  - free jazz
 image_path: 03_Resources/source_material/ArtistPortraits/bill_frisell.jpg
 instruments:
-- guitar
-- electric guitar
-- original
-- acoustic guitar
-- guitar family
-- resonator guitar
-- baritone guitar
-- spoken vocals
+  - guitar
+  - electric guitar
+  - original
+  - acoustic guitar
+  - guitar family
+  - resonator guitar
+  - baritone guitar
+  - spoken vocals
 last_updated: '2026-01-22T07:04:33.401973'
 musical_connections:
   collaborators:
-  - Paul Motian
-  - John Zorn
-  - Joe Lovano
-  - Arild Andersen
-  - Jan Garbarek
-  - Charlie Haden
-  - Eberhard Weber
+    - Paul Motian
+    - John Zorn
+    - Joe Lovano
+    - Arild Andersen
+    - Jan Garbarek
+    - Charlie Haden
+    - Eberhard Weber
   influenced:
-  - Multiple generations of guitarists
-  - Paul Simon, Elvis Costello, Lucinda Williams, Justin Vernon (Bon Iver), and other
-    diverse artists
+    - Multiple generations of guitarists
+    - >-
+      Paul Simon, Elvis Costello, Lucinda Williams, Justin Vernon (Bon Iver),
+      and other diverse artists
   mentors:
-  - Richard Joiner
-  - Johnny Smith
-  - Jim Hall
-  - Jon Damian
-  - Mike Gibbs
+    - Richard Joiner
+    - Johnny Smith
+    - Jim Hall
+    - Jon Damian
+    - Mike Gibbs
 musicbrainz_id: a21318db-f228-4a4d-8bce-6947a62985a5
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://cmhof.org/inductees/bill-frisell/
-- https://en.wikipedia.org/wiki/Bill_Frisell
-- https://billmilkowski.substack.com/p/a-long-rambling-chat-with-an-iconic-eclectic-and-remarkibly-humble-guitar-god-named-bill-frisell
-- https://www.philipwatson.info/bill-frisell/
-- https://www.billfrisell.com/biography
-- https://classical.music.apple.com/no/artist/160518
+  - 'https://cmhof.org/inductees/bill-frisell/'
+  - 'https://en.wikipedia.org/wiki/Bill_Frisell'
+  - >-
+    https://billmilkowski.substack.com/p/a-long-rambling-chat-with-an-iconic-eclectic-and-remarkibly-humble-guitar-god-named-bill-frisell
+  - 'https://www.philipwatson.info/bill-frisell/'
+  - 'https://www.billfrisell.com/biography'
+  - 'https://classical.music.apple.com/no/artist/160518'
 spotify_data:
   followers: 121195
   id: 3SONlwqLIP2GtaMh9pLYe5
   popularity: 45
-  url: https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5
+  url: 'https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5'
 status: active
 tags:
-- contemporary jazz
-- folk
-- jazz
+  - contemporary jazz
+  - folk
+  - jazz
 title: Bill Frisell
+origin: 'Denver, Colorado, United States'
 ---
 
 ![](bill_frisell.jpg)

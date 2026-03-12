@@ -1,39 +1,42 @@
 ---
 biography_enhanced_at: '2026-01-04T01:55:30.014914'
-birth_place: Rio de Janeiro, Rio de Janeiro, Brazil
+birth_place: 'Rio de Janeiro, Rio de Janeiro, Brazil'
 enhancement_provider: perplexity
 entry_created: '2026-01-04T01:55:30.014919'
 external_urls:
-  spotify: https://open.spotify.com/artist/1VwhI4X3m3j3zTrC1TvZaH
-  wikipedia: https://pt.wikipedia.org/wiki/Jorginho_do_Imp%C3%A9rio
+  spotify: 'https://open.spotify.com/artist/1VwhI4X3m3j3zTrC1TvZaH'
+  wikipedia: 'https://pt.wikipedia.org/wiki/Jorginho_do_Imp%C3%A9rio'
 genres:
-- samba
-- pagode
+  - samba
+  - pagode
 image_path: 03_Resources/source_material/ArtistPortraits/jorginho_do_imperio.jpg
 last_updated: '2026-01-04T01:55:30.014920'
 musical_connections:
   collaborators:
-  - Noca da Portela
-  - Baianinho, Zédi, Comprido
-  - Roberto Lopes, Canário
-  - Marcelo Pacífico
+    - Noca da Portela
+    - 'Baianinho, Zédi, Comprido'
+    - 'Roberto Lopes, Canário'
+    - Marcelo Pacífico
   influenced: []
   mentors:
-  - Mano Décio da Viola
-  - Martinho da Vila
+    - Mano Décio da Viola
+    - Martinho da Vila
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://dicionariompb.com.br/artista/jorginho-do-imperio/
-- https://pt.wikipedia.org/wiki/Jorginho_do_Imp%C3%A9rio
-- https://obatuque.com/show-em-homenagem-aos-80-anos-de-jorginho-do-imperio/
+  - 'https://dicionariompb.com.br/artista/jorginho-do-imperio/'
+  - 'https://pt.wikipedia.org/wiki/Jorginho_do_Imp%C3%A9rio'
+  - 'https://obatuque.com/show-em-homenagem-aos-80-anos-de-jorginho-do-imperio/'
 spotify_data:
   followers: 5929
   id: 1VwhI4X3m3j3zTrC1TvZaH
   popularity: 24
-  url: https://open.spotify.com/artist/1VwhI4X3m3j3zTrC1TvZaH
+  url: 'https://open.spotify.com/artist/1VwhI4X3m3j3zTrC1TvZaH'
 status: active
 title: Jorginho do Imperio
+origin: 'Rio de Janeiro, Rio de Janeiro, Brazil'
+birth_date: '1944-02-13'
+artist_type: person
 ---
 
 ![](jorginho_do_imperio.jpg)

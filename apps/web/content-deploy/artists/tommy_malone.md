@@ -1,16 +1,16 @@
 ---
-title: tommy malone
+title: Tommy Malone
 wiki_slug: tommy-malone
 schema_version: 2
 status: active
-birth_place: Louisiana, United States
+birth_place: 'Louisiana, United States'
 genres:
-- americana
+  - americana
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/tommy_malone.jpg
   caption: tommy malone
   background: solo_singer
-  origin: Louisiana, United States
+  origin: 'Louisiana, United States'
 audio_profile:
   tempo_avg: 114.9
   energy_avg: 0.54
@@ -26,49 +26,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Johnny Ray Allen
-  - Ray Ganucheau
-  - Rosanne Cash
-  - Keb Mo'
-  - Bonnie Raitt
-  - Anders Osborne
-  - John Porter
+    - Johnny Ray Allen
+    - Ray Ganucheau
+    - Rosanne Cash
+    - Keb Mo'
+    - Bonnie Raitt
+    - Anders Osborne
+    - John Porter
   influenced: []
   mentors:
-  - Sonny Landreth
+    - Sonny Landreth
 spotify_data:
   followers: 569
   id: 0Ytpv047yhzEHHaOzm0kI5
   popularity: 2
-  url: https://open.spotify.com/artist/0Ytpv047yhzEHHaOzm0kI5
+  url: 'https://open.spotify.com/artist/0Ytpv047yhzEHHaOzm0kI5'
 discography_enriched: true
 top_tracks:
-- Fat Tuesday (Soul Heavy)
-- Black Tar Road (A Lil' Bit Softer Now)
-- Your Sweet Kiss (A Lil' Bit Softer Now)
-- Gypsy (A Lil' Bit Softer Now)
-- Don't Get Me Wrong (A Lil' Bit Softer Now)
-- Lonely as a Picture (A Lil' Bit Softer Now)
-- Lonesome Drifters' Lullaby (A Lil' Bit Softer Now)
-- Once In a Blue Moon (Poor Boy)
-- Too Close For Comfort (Soul Heavy)
-- Soul Heavy (Soul Heavy)
+  - Fat Tuesday (Soul Heavy)
+  - Black Tar Road (A Lil' Bit Softer Now)
+  - Your Sweet Kiss (A Lil' Bit Softer Now)
+  - Gypsy (A Lil' Bit Softer Now)
+  - Don't Get Me Wrong (A Lil' Bit Softer Now)
+  - Lonely as a Picture (A Lil' Bit Softer Now)
+  - Lonesome Drifters' Lullaby (A Lil' Bit Softer Now)
+  - Once In a Blue Moon (Poor Boy)
+  - Too Close For Comfort (Soul Heavy)
+  - Soul Heavy (Soul Heavy)
 external_urls:
-  spotify: https://open.spotify.com/artist/0Ytpv047yhzEHHaOzm0kI5
+  spotify: 'https://open.spotify.com/artist/0Ytpv047yhzEHHaOzm0kI5'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/tommy_malone.jpg
 biography_enhanced_at: '2025-11-15T18:37:51.175916'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.tommymalonemusic.net/biography
-- https://www.toledoblade.com/Music-Theater-Dance/2013/07/18/Tommy-Malone-s-Natural-Born-Days.html
-- https://lrhr.dreamhosters.com/wp/?p=418
-- https://www.providencejournal.com/story/entertainment/music/2013/06/08/20130607-writing-just-comes-naturally-to-tommy-malone-ece/35413343007/
+  - 'https://www.tommymalonemusic.net/biography'
+  - >-
+    https://www.toledoblade.com/Music-Theater-Dance/2013/07/18/Tommy-Malone-s-Natural-Born-Days.html
+  - 'https://lrhr.dreamhosters.com/wp/?p=418'
+  - >-
+    https://www.providencejournal.com/story/entertainment/music/2013/06/08/20130607-writing-just-comes-naturally-to-tommy-malone-ece/35413343007/
 network_extracted: true
 entry_created: '2025-11-15T18:37:51.175928'
 last_updated: '2025-12-23T08:16:17.566833'
-
+artist_type: person
 ---
 
 ![](tommy_malone.jpg)

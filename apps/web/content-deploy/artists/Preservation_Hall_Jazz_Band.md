@@ -2,19 +2,19 @@
 title: Preservation Hall Jazz Band
 wiki_slug: preservation-hall-jazz-band
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 birth_date: '1961'
 genres:
-- swing music
-- ragtime
-- jazz
+  - swing music
+  - ragtime
+  - jazz
 instruments:
-- tuba
-- lead vocals
-- double bass
-- banjo
-- membranophone
+  - tuba
+  - lead vocals
+  - double bass
+  - banjo
+  - membranophone
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Preservation_Hall_Jazz_Band.jpg
   caption: Preservation Hall Jazz Band
@@ -35,58 +35,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sweet Emma Barrett
-  - Willie and Percy Humphrey
-  - Ben Jaffe
-  - Tom Waits
-  - Arcade Fire
+    - Sweet Emma Barrett
+    - Willie and Percy Humphrey
+    - Ben Jaffe
+    - Tom Waits
+    - Arcade Fire
   influenced:
-  - Mark Chatters
-  - Numerous young New Orleans jazz musicians
+    - Mark Chatters
+    - Numerous young New Orleans jazz musicians
   mentors:
-  - Louis Armstrong
-  - Jelly Roll Morton
-  - Buddy Bolden
+    - Louis Armstrong
+    - Jelly Roll Morton
+    - Buddy Bolden
 spotify_data:
   followers: 85845
   id: 2S0rCVs10P1Q0v51wmOrM5
   popularity: 40
-  url: https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5
+  url: 'https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5'
 discography_enriched: true
 top_tracks:
-- That's It! (That's It!)
-- Between The Devil & The Deep Blue Sea (An Album To Benefit Preservation Hall & The Preservation Hall Music Outreach Program)
-- Choko Mo Feel No Hey (New Orleans Preservation, Vol. 1)
-- Summertime (Songs of New Orleans)
-- Having A Party - Live (Live At Red Rocks)
-- Tootie Ma Is A Big Fine Thing (50th Anniversary Collection)
-- Short Dressed Gal (New Orleans Preservation, Vol. 1)
-- Bill Bailey Won't You Please Come Home (For Fat Man)
-- Kreyol (A Tuba to Cuba)
-- Basin Street Blues (Songs of New Orleans)
+  - That's It! (That's It!)
+  - >-
+    Between The Devil & The Deep Blue Sea (An Album To Benefit Preservation Hall
+    & The Preservation Hall Music Outreach Program)
+  - 'Choko Mo Feel No Hey (New Orleans Preservation, Vol. 1)'
+  - Summertime (Songs of New Orleans)
+  - Having A Party - Live (Live At Red Rocks)
+  - Tootie Ma Is A Big Fine Thing (50th Anniversary Collection)
+  - 'Short Dressed Gal (New Orleans Preservation, Vol. 1)'
+  - Bill Bailey Won't You Please Come Home (For Fat Man)
+  - Kreyol (A Tuba to Cuba)
+  - Basin Street Blues (Songs of New Orleans)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1a9b4e0d-05e2-4491-83f0-a4a676283f99
-  spotify: https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5
-  wikipedia: https://en.wikipedia.org/wiki/Preservation_Hall_Jazz_Band
+  musicbrainz: 'https://musicbrainz.org/artist/1a9b4e0d-05e2-4491-83f0-a4a676283f99'
+  spotify: 'https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5'
+  wikipedia: 'https://en.wikipedia.org/wiki/Preservation_Hall_Jazz_Band'
 image_path: 03_Resources/source_material/ArtistPortraits/Preservation_Hall_Jazz_Band.jpg
 biography_enhanced_at: '2025-10-19T11:30:29.922815'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.arts.gov/honors/medals/preservation-hall-jazz-band
-- https://www.smithsonianmag.com/arts-culture/preservation-hall-new-orleans-iconic-jazz-180980770/
-- https://www.globalartslive.org/sites/default/files/Biographies_0.pdf
-- https://www.preshallfoundation.org/oralhistories
+  - 'https://www.arts.gov/honors/medals/preservation-hall-jazz-band'
+  - >-
+    https://www.smithsonianmag.com/arts-culture/preservation-hall-new-orleans-iconic-jazz-180980770/
+  - 'https://www.globalartslive.org/sites/default/files/Biographies_0.pdf'
+  - 'https://www.preshallfoundation.org/oralhistories'
 network_extracted: true
 entry_created: '2025-10-19T11:30:29.922825'
 last_updated: '2025-12-23T08:16:03.610631'
 musicbrainz_enriched_at: '2025-10-21T09:41:32.398050'
 musicbrainz_id: 1a9b4e0d-05e2-4491-83f0-a4a676283f99
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 tags:
-- dixieland
-- jazz
-
+  - dixieland
+  - jazz
+birth_place: New Orleans
 ---
 
 ![](Preservation_Hall_Jazz_Band.jpg)

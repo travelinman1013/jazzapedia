@@ -3,17 +3,21 @@ title: John Mooney
 wiki_slug: john-mooney
 schema_version: 2
 status: active
-birth_place: East Orange, New Jersey, United States (birthplace); New Orleans, Louisiana, United States (musical origin)
+birth_place: >-
+  East Orange, New Jersey, United States (birthplace); New Orleans, Louisiana,
+  United States (musical origin)
 genres:
-- country blues
-- ragtime
+  - country blues
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/John_Mooney.jpg
   caption: John Mooney
   background: solo_singer
-  origin: East Orange, New Jersey, United States (birthplace); New Orleans, Louisiana, United States (musical origin)
+  origin: >-
+    East Orange, New Jersey, United States (birthplace); New Orleans, Louisiana,
+    United States (musical origin)
 audio_profile:
-  tempo_avg: 122.0
+  tempo_avg: 122
   energy_avg: 0.569
   valence_avg: 0.726
   danceability_avg: 0.633
@@ -27,52 +31,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Earl King
-  - The Meters
-  - Snooks Eaglin
-  - Dr. John
-  - Bluesiana Band
-  - Jeff Sarli
-  - Rene Coman
-  - Kevin O’Day
+    - Earl King
+    - The Meters
+    - Snooks Eaglin
+    - Dr. John
+    - Bluesiana Band
+    - Jeff Sarli
+    - Rene Coman
+    - Kevin O’Day
   influenced:
-  - Contemporary blues guitarists
+    - Contemporary blues guitarists
   mentors:
-  - Son House
-  - Professor Longhair
+    - Son House
+    - Professor Longhair
 spotify_data:
   followers: 1717
   id: 06qu5apaO4yt4gBL4G5F2J
   popularity: 11
-  url: https://open.spotify.com/artist/06qu5apaO4yt4gBL4G5F2J
+  url: 'https://open.spotify.com/artist/06qu5apaO4yt4gBL4G5F2J'
 discography_enriched: true
 top_tracks:
-- Drink A Little Poison, 4 U Die (Big Ol' Fiya)
-- 'Drinka Little Poison (4 U Die) (Treme: Music From The HBO Original Series, Season 1)'
-- Sacred Ground (Son and Moon)
-- Travelin'Riverside Blues (Dealing With the Devil)
-- King Fish Blues (Come On In This House)
-- So Glad You're Mine (Come On In This House)
-- Made Up My Mind (Gone To Hell)
-- I'll Come Running Back (The Essential Jimmy Thackery)
-- Sacred Ground (Dealing With the Devil)
-- I Wish I Was in Heaven Sittin' Down (Testimony)
+  - 'Drink A Little Poison, 4 U Die (Big Ol'' Fiya)'
+  - >-
+    Drinka Little Poison (4 U Die) (Treme: Music From The HBO Original Series,
+    Season 1)
+  - Sacred Ground (Son and Moon)
+  - Travelin'Riverside Blues (Dealing With the Devil)
+  - King Fish Blues (Come On In This House)
+  - So Glad You're Mine (Come On In This House)
+  - Made Up My Mind (Gone To Hell)
+  - I'll Come Running Back (The Essential Jimmy Thackery)
+  - Sacred Ground (Dealing With the Devil)
+  - I Wish I Was in Heaven Sittin' Down (Testimony)
 external_urls:
-  spotify: https://open.spotify.com/artist/06qu5apaO4yt4gBL4G5F2J
-  wikipedia: https://en.wikipedia.org/wiki/John_Mooney_(musician)
+  spotify: 'https://open.spotify.com/artist/06qu5apaO4yt4gBL4G5F2J'
+  wikipedia: 'https://en.wikipedia.org/wiki/John_Mooney_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/John_Mooney.jpg
 biography_enhanced_at: '2025-10-19T11:34:35.846999'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/John_Mooney_(musician)
-- https://intrepidartists.com/artists/john-mooney/
-- https://ofoam.org/about/archives/2013-ogden-roots-and-blues-festival/john-mooney
-- https://www.thecountryblues.com/artist-reviews/john-mooney/
+  - 'https://en.wikipedia.org/wiki/John_Mooney_(musician)'
+  - 'https://intrepidartists.com/artists/john-mooney/'
+  - >-
+    https://ofoam.org/about/archives/2013-ogden-roots-and-blues-festival/john-mooney
+  - 'https://www.thecountryblues.com/artist-reviews/john-mooney/'
 network_extracted: true
 entry_created: '2025-10-19T11:34:35.847011'
 last_updated: '2025-12-23T08:16:02.639605'
-
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1955-04-03'
+artist_type: person
 ---
 
 ![](John_Mooney.jpg)

@@ -4,47 +4,50 @@ biography_enhanced_at: '2026-01-17T02:03:46.663319'
 enhancement_provider: perplexity
 entry_created: '2026-01-17T02:03:46.663334'
 external_urls:
-  spotify: https://open.spotify.com/artist/4TdEnzaBNyCE2LD3nCwTtb
-  wikipedia: https://en.wikipedia.org/wiki/Trilogy_(Chick_Corea_album)
+  spotify: 'https://open.spotify.com/artist/4TdEnzaBNyCE2LD3nCwTtb'
+  wikipedia: 'https://en.wikipedia.org/wiki/Trilogy_(Chick_Corea_album)'
 genres: []
 image_path: ''
 is_active: true
 last_updated: '2026-01-17T02:03:46.663336'
 musical_connections:
   collaborators:
-  - John McLaughlin
-  - Kenny Garrett
-  - Wayne Shorter
-  - Jon Cowherd
-  - Gary Burton
+    - John McLaughlin
+    - Kenny Garrett
+    - Wayne Shorter
+    - Jon Cowherd
+    - Gary Burton
   influenced:
-  - Christian McBride
-  - Brian Blade
+    - Christian McBride
+    - Brian Blade
   mentors:
-  - Lee Smith
-  - Ray Brown
-  - Miles Davis
-  - Cal Tjader, Herbie Mann, Mongo Santamaria
-  - Sarah Vaughan
+    - Lee Smith
+    - Ray Brown
+    - Miles Davis
+    - 'Cal Tjader, Herbie Mann, Mongo Santamaria'
+    - Sarah Vaughan
 network_extracted: true
-origin: Formed in New York, USA (primary activity hub)
+origin: 'Formed in New York, USA (primary activity hub)'
 primary_source: perplexity
 research_sources:
-- https://chickcorea.com/trilogy/
-- https://chickcorea.com/discography/trilogy/
-- http://jazzpolice.com/archives/1870
-- https://relix.com/articles/detail/chick-corea-christian-mcbride-and-brian-blade-complete-a-trilogy/
-- https://concord.com/artist/chick-corea-trio/
-- https://en.wikipedia.org/wiki/Trilogy_(Chick_Corea_album)
-- https://www.allaboutjazz.com/triology-3-triology-3-candid-records
-- https://glidemagazine.com/234017/chick-corea-reunites-with-fellow-jazz-greats-christian-mcbride-brian-blade-with-trilogy-2-album-review/
+  - 'https://chickcorea.com/trilogy/'
+  - 'https://chickcorea.com/discography/trilogy/'
+  - 'http://jazzpolice.com/archives/1870'
+  - >-
+    https://relix.com/articles/detail/chick-corea-christian-mcbride-and-brian-blade-complete-a-trilogy/
+  - 'https://concord.com/artist/chick-corea-trio/'
+  - 'https://en.wikipedia.org/wiki/Trilogy_(Chick_Corea_album)'
+  - 'https://www.allaboutjazz.com/triology-3-triology-3-candid-records'
+  - >-
+    https://glidemagazine.com/234017/chick-corea-reunites-with-fellow-jazz-greats-christian-mcbride-brian-blade-with-trilogy-2-album-review/
 spotify_data:
   followers: 111
   id: 4TdEnzaBNyCE2LD3nCwTtb
   popularity: 2
-  url: https://open.spotify.com/artist/4TdEnzaBNyCE2LD3nCwTtb
+  url: 'https://open.spotify.com/artist/4TdEnzaBNyCE2LD3nCwTtb'
 status: active
 title: Chick Corea Christian McBride Brian Blade
+birth_place: 'Philadelphia, Pennsylvania, United States'
 ---
 
 ![]()

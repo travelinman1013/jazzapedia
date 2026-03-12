@@ -5,15 +5,15 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1977-09-19'
-birth_place: São Paulo
+birth_place: 'São Paulo, São Paulo, Brazil'
 genres:
-- samba
-- mpb
-- pagode
-- nova mpb
-- bossa nova
+  - samba
+  - mpb
+  - pagode
+  - nova mpb
+  - bossa nova
 instruments:
-- lead vocals
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/maria_rita.jpg
   caption: Maria Rita
@@ -35,61 +35,68 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Milton Nascimento
-  - Rodrigo Maranhão
-  - Calle 13
-  - Chico Buarque
+    - Milton Nascimento
+    - Rodrigo Maranhão
+    - Calle 13
+    - Chico Buarque
   influenced:
-  - Younger MPB and samba vocalists (general cohort)
+    - Younger MPB and samba vocalists (general cohort)
   mentors:
-  - Elis Regina
-  - César Camargo Mariano
-  - Ella Fitzgerald
-  - Milton Nascimento
+    - Elis Regina
+    - César Camargo Mariano
+    - Ella Fitzgerald
+    - Milton Nascimento
 spotify_data:
   followers: 824074
   id: 1C8UBSZs5rOPfxuxTMS6OI
   popularity: 61
-  url: https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI
+  url: 'https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI'
 discography_enriched: true
 top_tracks:
-- Latinoamérica (feat. Totó la Momposina, Susana Baca & Maria Rita) (Entren Los Que Quieran)
-- Camarão Que Dorme a Onda Leva
-- Tá perdoado (Samba Meu)
-- Só Quero Te Namorar - Ao Vivo Em São Paulo (Pagode do Pericão, Pt. 1 (Ao Vivo Em São Paulo))
-- Cara valente (Maria Rita)
-- Encontros e despedidas (Maria Rita)
-- Camarão Que Dorme a Onda Leva
-- Reza (Amor E Música)
-- Como Nossos Pais - Live At Credicard Hall, São Paulo / 2012 (Redescobrir (Live At Credicard Hall, São Paulo / 2012))
-- Num corpo só (Samba Meu)
+  - >-
+    Latinoamérica (feat. Totó la Momposina, Susana Baca & Maria Rita) (Entren
+    Los Que Quieran)
+  - Camarão Que Dorme a Onda Leva
+  - Tá perdoado (Samba Meu)
+  - >-
+    Só Quero Te Namorar - Ao Vivo Em São Paulo (Pagode do Pericão, Pt. 1 (Ao
+    Vivo Em São Paulo))
+  - Cara valente (Maria Rita)
+  - Encontros e despedidas (Maria Rita)
+  - Camarão Que Dorme a Onda Leva
+  - Reza (Amor E Música)
+  - >-
+    Como Nossos Pais - Live At Credicard Hall, São Paulo / 2012 (Redescobrir
+    (Live At Credicard Hall, São Paulo / 2012))
+  - Num corpo só (Samba Meu)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3c12ecf2-91da-4d4a-8462-e4d5d9e273e7
-  spotify: https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI
-  wikipedia: https://en.wikipedia.org/wiki/Maria_Rita
+  musicbrainz: 'https://musicbrainz.org/artist/3c12ecf2-91da-4d4a-8462-e4d5d9e273e7'
+  spotify: 'https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI'
+  wikipedia: 'https://en.wikipedia.org/wiki/Maria_Rita'
 image_path: 03_Resources/source_material/ArtistPortraits/maria_rita.jpg
 biography_enhanced_at: '2025-12-07T04:50:40.906183'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Maria_Rita
-- https://worldmusicreport.com/featured/maria-rita-born/2/
-- https://www.rovr.live/artists/maria%20rita
-- https://www.cindybyram.com/artists/mariarita.htm
-- https://www.aaemusic.com/artist/maria-rita
-- https://www.klcc.org/2014-05-08/listening-on-the-road-with-brazils-maria-rita
-- https://planetjamz.com/local-events?_evDiscoveryPath=%2Fevent%2F1036802714n-maria-rita
+  - 'https://en.wikipedia.org/wiki/Maria_Rita'
+  - 'https://worldmusicreport.com/featured/maria-rita-born/2/'
+  - 'https://www.rovr.live/artists/maria%20rita'
+  - 'https://www.cindybyram.com/artists/mariarita.htm'
+  - 'https://www.aaemusic.com/artist/maria-rita'
+  - >-
+    https://www.klcc.org/2014-05-08/listening-on-the-road-with-brazils-maria-rita
+  - >-
+    https://planetjamz.com/local-events?_evDiscoveryPath=%2Fevent%2F1036802714n-maria-rita
 network_extracted: true
 entry_created: '2025-12-07T04:50:40.906191'
 last_updated: '2025-12-23T08:16:12.651306'
-disambiguation: Elis Regina's daughter, MPB singer active 2000s–present
+disambiguation: 'Elis Regina''s daughter, MPB singer active 2000s–present'
 gender: Female
 musicbrainz_id: 3c12ecf2-91da-4d4a-8462-e4d5d9e273e7
 tags:
-- bossa nova
-- brasileira
-- jazz
-
+  - bossa nova
+  - brasileira
+  - jazz
 ---
 
 ![](maria_rita.jpg)

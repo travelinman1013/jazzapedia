@@ -3,16 +3,16 @@ title: Kemp Harris
 wiki_slug: kemp-harris
 schema_version: 2
 status: active
-birth_place: Edenton, North Carolina, United States
+birth_place: 'Edenton, North Carolina, United States'
 genres:
-- blues rock
+  - blues rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/kemp_harris.jpg
   caption: Kemp Harris
   background: solo_singer
-  origin: Edenton, North Carolina, United States
+  origin: 'Edenton, North Carolina, United States'
 audio_profile:
-  tempo_avg: 107.0
+  tempo_avg: 107
   energy_avg: 0.393
   valence_avg: 0.5
   danceability_avg: 0.597
@@ -26,47 +26,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Holmes Brothers
-  - Freebo
-  - Adam Osgood
+    - The Holmes Brothers
+    - Freebo
+    - Adam Osgood
   influenced:
-  - Students (Boston Public Schools)
-  - Berklee College of Music students
+    - Students (Boston Public Schools)
+    - Berklee College of Music students
   mentors:
-  - Koko Taylor
-  - Gil Scott-Heron
-  - Taj Mahal
+    - Koko Taylor
+    - Gil Scott-Heron
+    - Taj Mahal
 spotify_data:
   followers: 283
   id: 2OUSQObPvJewrGEh3xIXrH
   popularity: 1
-  url: https://open.spotify.com/artist/2OUSQObPvJewrGEh3xIXrH
+  url: 'https://open.spotify.com/artist/2OUSQObPvJewrGEh3xIXrH'
 discography_enriched: true
 top_tracks:
-- Didn't it Rain (Edenton)
-- Sweet Weepin' Jesus - Live (Live at the Bird SF)
-- Don't You Hear Them America (Don't You Hear Them America)
-- Ruthie's (The America Chronicles)
-- Ruthie's - Live (Live at the Bird SF)
-- Didn't It Rain - Live (Live at the Bird SF)
-- The Rain Came Down - Live (Live at the Bird SF)
-- Wiggle - Live (Live at the Bird SF)
-- I Shall Be Released - Live (Live at the Bird SF)
-- Swing Down Chariot - Live (Live at the Bird SF)
+  - Didn't it Rain (Edenton)
+  - Sweet Weepin' Jesus - Live (Live at the Bird SF)
+  - Don't You Hear Them America (Don't You Hear Them America)
+  - Ruthie's (The America Chronicles)
+  - Ruthie's - Live (Live at the Bird SF)
+  - Didn't It Rain - Live (Live at the Bird SF)
+  - The Rain Came Down - Live (Live at the Bird SF)
+  - Wiggle - Live (Live at the Bird SF)
+  - I Shall Be Released - Live (Live at the Bird SF)
+  - Swing Down Chariot - Live (Live at the Bird SF)
 external_urls:
-  spotify: https://open.spotify.com/artist/2OUSQObPvJewrGEh3xIXrH
+  spotify: 'https://open.spotify.com/artist/2OUSQObPvJewrGEh3xIXrH'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/kemp_harris.jpg
 biography_enhanced_at: '2025-10-27T02:36:14.025710'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Club Passim artist page
-- Americana UK interview
-- ATAC160 interview
+  - Club Passim artist page
+  - Americana UK interview
+  - ATAC160 interview
 network_extracted: true
 entry_created: '2025-10-27T02:36:14.025718'
 last_updated: '2025-12-23T08:16:11.279160'
+artist_type: person
 ---
 
 ![](kemp_harris.jpg)

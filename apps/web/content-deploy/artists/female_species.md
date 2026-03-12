@@ -1,64 +1,69 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-09T02:09:11.822623'
 enhancement_provider: perplexity
 entry_created: '2026-01-09T02:09:11.822632'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1a7aa88b-ed7b-46ff-b362-8eef48f2f836
-  spotify: https://open.spotify.com/artist/0XlXiaKkULPvHTmTHB3JwK
+  musicbrainz: 'https://musicbrainz.org/artist/1a7aa88b-ed7b-46ff-b362-8eef48f2f836'
+  spotify: 'https://open.spotify.com/artist/0XlXiaKkULPvHTmTHB3JwK'
   wikipedia: ''
 genres:
-- psychedelic rock
+  - psychedelic rock
 image_path: 03_Resources/source_material/ArtistPortraits/female_species.jpg
 instruments:
-- original
+  - original
 last_updated: '2026-01-09T02:09:11.822633'
 members:
-- &id001
-  begin: '1966'
-  end: ''
-  instruments:
-  - original
-  mbid: 836a9133-3ff0-4628-86ed-2d3a819360ae
-  name: Ronnie Gossett
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 6e57020e-a569-47f0-9893-05f8b0780ed9
-  name: Vickie Gossett
+  - &ref_0
+    begin: '1966'
+    end: ''
+    instruments:
+      - original
+    mbid: 836a9133-3ff0-4628-86ed-2d3a819360ae
+    name: Ronnie Gossett
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 6e57020e-a569-47f0-9893-05f8b0780ed9
+    name: Vickie Gossett
 musical_connections:
   collaborators:
-  - Ronni Gossett
-  - Dawna Snow
-  - Linda Peters
-  - Michelle Molner
-  - “Big Al” Gossett
-  - Millhouse Publishing (Harold Shedd and team)
+    - Ronni Gossett
+    - Dawna Snow
+    - Linda Peters
+    - Michelle Molner
+    - “Big Al” Gossett
+    - Millhouse Publishing (Harold Shedd and team)
   influenced:
-  - Later girl‑group and garage‑rock revival listeners and musicians (general influence)
+    - >-
+      Later girl‑group and garage‑rock revival listeners and musicians (general
+      influence)
   mentors:
-  - The Beatles
-  - Cliffie Stone
-  - Harold Shedd
+    - The Beatles
+    - Cliffie Stone
+    - Harold Shedd
 musicbrainz_id: 1a7aa88b-ed7b-46ff-b362-8eef48f2f836
 network_extracted: true
-origin: Whittier, California, United States
+origin: 'Whittier, California, United States'
 original_members:
-- *id001
+  - *ref_0
 primary_source: perplexity
 research_sources:
-- https://wknc.org/2021/05/22/album-review-female-species-tale-of-my-lost-love/
-- https://www.thissongchangedmylife.com/p/diary-60s-garage-rock-female-species
-- https://numerogroup.com/blogs/stories/female-species-no-love-lost
-- https://coogradio.com/2021/11/female-species-the-stars-that-could-have-been/
-- https://www.nashvillescene.com/music/features/the-female-species-gets-a-long-overdue-day-in-the-sun/article_2b2eb11f-9181-5873-b3a7-75e3a58969b3.html
-- https://daily.bandcamp.com/album-of-the-day/female-species-tale-of-my-lost-love-review
+  - >-
+    https://wknc.org/2021/05/22/album-review-female-species-tale-of-my-lost-love/
+  - 'https://www.thissongchangedmylife.com/p/diary-60s-garage-rock-female-species'
+  - 'https://numerogroup.com/blogs/stories/female-species-no-love-lost'
+  - 'https://coogradio.com/2021/11/female-species-the-stars-that-could-have-been/'
+  - >-
+    https://www.nashvillescene.com/music/features/the-female-species-gets-a-long-overdue-day-in-the-sun/article_2b2eb11f-9181-5873-b3a7-75e3a58969b3.html
+  - >-
+    https://daily.bandcamp.com/album-of-the-day/female-species-tale-of-my-lost-love-review
 spotify_data:
   followers: 14580
   id: 0XlXiaKkULPvHTmTHB3JwK
   popularity: 37
-  url: https://open.spotify.com/artist/0XlXiaKkULPvHTmTHB3JwK
+  url: 'https://open.spotify.com/artist/0XlXiaKkULPvHTmTHB3JwK'
 status: active
 title: Female Species
 ---

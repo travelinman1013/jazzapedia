@@ -3,38 +3,40 @@ biography_enhanced_at: '2026-01-03T01:39:49.803732'
 enhancement_provider: perplexity
 entry_created: '2026-01-03T01:39:49.803748'
 external_urls:
-  spotify: https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP
+  spotify: 'https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP'
   wikipedia: ''
 genres:
-- acid jazz
-- nu jazz
+  - acid jazz
+  - nu jazz
 image_path: 03_Resources/source_material/ArtistPortraits/mo_horizons.jpg
 last_updated: '2026-01-03T01:39:49.803749'
 musical_connections:
   collaborators:
-  - Ralf Zitzmann
-  - The Juju Orchestra
-  - Fort Knox Five
-  - DJ Mustafa
+    - Ralf Zitzmann
+    - The Juju Orchestra
+    - Fort Knox Five
+    - DJ Mustafa
   influenced: []
   mentors:
-  - Cunnie Williams
-  - Randy Crawford
+    - Cunnie Williams
+    - Randy Crawford
 network_extracted: true
-origin: Hannover, Niedersachsen, Germany
+origin: 'Hannover, Niedersachsen, Germany'
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Mo'+Horizons/+wiki
-- https://www.acidjazz.ru/en/artists/mo-horizons
-- https://www.theaudiodb.com/artist/115394-Mo-Horizons
-- https://15questions.net/interview/mohorizons-about-production-technology-and-creativity/
+  - 'https://www.last.fm/music/Mo''+Horizons/+wiki'
+  - 'https://www.acidjazz.ru/en/artists/mo-horizons'
+  - 'https://www.theaudiodb.com/artist/115394-Mo-Horizons'
+  - >-
+    https://15questions.net/interview/mohorizons-about-production-technology-and-creativity/
 spotify_data:
   followers: 100607
   id: 3tuX54dqgS8LsGUvNzgrpP
   popularity: 52
-  url: https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP
+  url: 'https://open.spotify.com/artist/3tuX54dqgS8LsGUvNzgrpP'
 status: active
 title: Mo' Horizons
+artist_type: band
 ---
 
 ![](mo_horizons.jpg)

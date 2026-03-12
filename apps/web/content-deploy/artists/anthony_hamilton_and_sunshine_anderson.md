@@ -3,36 +3,40 @@ biography_enhanced_at: '2026-01-07T01:16:54.856129'
 enhancement_provider: perplexity
 entry_created: '2026-01-07T01:16:54.856136'
 external_urls:
-  spotify: https://open.spotify.com/artist/4CUxqsTKt5dR1LpfeMwdeh
+  spotify: 'https://open.spotify.com/artist/4CUxqsTKt5dR1LpfeMwdeh'
   wikipedia: ''
 genres: []
 image_path: ''
 last_updated: '2026-01-07T01:16:54.856136'
 musical_connections:
   collaborators:
-  - Anthony Hamilton
-  - Sunshine Anderson
+    - Anthony Hamilton
+    - Sunshine Anderson
   influenced: []
   mentors:
-  - Macy Gray
-  - Andre Harrell
+    - Macy Gray
+    - Andre Harrell
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://soulinstereo.com/2010/08/whatever-happened-to-sunshine-anderson.html
-- https://fawesome.tv/movies/10687075/unfinished-business-sunshine-anderson-documentary
-- https://musicianguide.com/biographies/1608004789/Anthony-Hamilton.html
-- https://www.bmi.com/news/entry/20040304anthony_hamilton_anthony_hamilton_sees_the_light_of_day
-- https://www.hiponline.com/1517/anthony-hamilton.html
-- https://youknowigotsoul.com/lost-soul-sunshine-anderson-last-night-featuring-anthony-hamilton
-- https://www.star945.com/lsp/artist/bio/anthony-hamilton/
+  - 'https://soulinstereo.com/2010/08/whatever-happened-to-sunshine-anderson.html'
+  - >-
+    https://fawesome.tv/movies/10687075/unfinished-business-sunshine-anderson-documentary
+  - 'https://musicianguide.com/biographies/1608004789/Anthony-Hamilton.html'
+  - >-
+    https://www.bmi.com/news/entry/20040304anthony_hamilton_anthony_hamilton_sees_the_light_of_day
+  - 'https://www.hiponline.com/1517/anthony-hamilton.html'
+  - >-
+    https://youknowigotsoul.com/lost-soul-sunshine-anderson-last-night-featuring-anthony-hamilton
+  - 'https://www.star945.com/lsp/artist/bio/anthony-hamilton/'
 spotify_data:
   followers: 328
   id: 4CUxqsTKt5dR1LpfeMwdeh
   popularity: 4
-  url: https://open.spotify.com/artist/4CUxqsTKt5dR1LpfeMwdeh
+  url: 'https://open.spotify.com/artist/4CUxqsTKt5dR1LpfeMwdeh'
 status: active
 title: Anthony Hamilton & Sunshine Anderson
+artist_type: band
 ---
 
 ![]()

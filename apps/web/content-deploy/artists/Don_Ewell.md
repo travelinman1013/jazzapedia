@@ -5,13 +5,13 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1916-11-14'
-birth_place: Baltimore
+birth_place: 'Baltimore, Maryland, United States'
 death_date: '1983-08-09'
 genres:
-- country
-- traditional country
+  - country
+  - traditional country
 instruments:
-- piano
+  - piano
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Don_Ewell.jpg
   caption: Don Ewell
@@ -34,43 +34,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kid Ory
-  - Jack Teagarden
-  - Bunk Johnson
+    - Kid Ory
+    - Jack Teagarden
+    - Bunk Johnson
   influenced: []
   mentors:
-  - Earl Hines
-  - Jelly Roll Morton
-  - Fats Waller
+    - Earl Hines
+    - Jelly Roll Morton
+    - Fats Waller
 spotify_data:
   followers: 968662
   id: 4Ti0EKl2PVEms2NRMVGqNe
   popularity: 60
-  url: https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe
+  url: 'https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe'
 discography_enriched: true
 top_tracks:
-- Tulsa Time (Expressions)
-- I Believe In You (I Believe In You)
-- It Must Be Love (Expressions)
-- Some Broken Hearts Never Mend (Visions)
-- Lord, I Hope This Day Is Good - Single Version (Lord I Hope This Day Is Good)
-- You're My Best Friend (You're My Best Friend)
-- Good Ole Boys Like Me (Portrait)
-- We Got Love (New Moves)
-- (Turn Out The Light And) Love Me Tonight (You're My Best Friend)
-- Lay Down Beside Me (Expressions)
+  - Tulsa Time (Expressions)
+  - I Believe In You (I Believe In You)
+  - It Must Be Love (Expressions)
+  - Some Broken Hearts Never Mend (Visions)
+  - >-
+    Lord, I Hope This Day Is Good - Single Version (Lord I Hope This Day Is
+    Good)
+  - You're My Best Friend (You're My Best Friend)
+  - Good Ole Boys Like Me (Portrait)
+  - We Got Love (New Moves)
+  - (Turn Out The Light And) Love Me Tonight (You're My Best Friend)
+  - Lay Down Beside Me (Expressions)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/38c331c0-04da-47d9-a85a-5b64fac2e8bb
-  spotify: https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe
-  wikipedia: https://en.wikipedia.org/wiki/Don_Ewell
+  musicbrainz: 'https://musicbrainz.org/artist/38c331c0-04da-47d9-a85a-5b64fac2e8bb'
+  spotify: 'https://open.spotify.com/artist/4Ti0EKl2PVEms2NRMVGqNe'
+  wikipedia: 'https://en.wikipedia.org/wiki/Don_Ewell'
 image_path: 03_Resources/source_material/ArtistPortraits/Don_Ewell.jpg
 biography_enhanced_at: '2025-10-22T06:59:42.035000'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Don_Ewell
-- https://exhibits.stanford.edu/sftjf/feature/don-ewell
-- https://syncopatedtimes.com/don-ewell-1916-1983-an-appreciation/
+  - 'https://en.wikipedia.org/wiki/Don_Ewell'
+  - 'https://exhibits.stanford.edu/sftjf/feature/don-ewell'
+  - 'https://syncopatedtimes.com/don-ewell-1916-1983-an-appreciation/'
 network_extracted: true
 entry_created: '2025-10-22T06:59:42.035013'
 last_updated: '2025-12-23T08:16:01.761226'
@@ -78,8 +80,8 @@ disambiguation: New Orleans pianist
 gender: Male
 musicbrainz_id: 38c331c0-04da-47d9-a85a-5b64fac2e8bb
 tags:
-- jazz
-
+  - jazz
+is_active: false
 ---
 
 ![](Don_Ewell.jpg)

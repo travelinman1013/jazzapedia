@@ -1,13 +1,13 @@
 ---
-title: bonerama
+title: Bonerama
 wiki_slug: bonerama
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 birth_date: '1998'
 genres: []
 instruments:
-- original
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bonerama.jpg
   caption: bonerama
@@ -28,60 +28,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mark Mullins
-  - Craig Klein
-  - Greg Hicks
-  - Chris Butcher
-  - Bert Cotton
-  - Matt Perrine
-  - Eric Bolivar
-  - OK Go
-  - R.E.M.
-  - Little Feat
+    - Mark Mullins
+    - Craig Klein
+    - Greg Hicks
+    - Chris Butcher
+    - Bert Cotton
+    - Matt Perrine
+    - Eric Bolivar
+    - OK Go
+    - R.E.M.
+    - Little Feat
   influenced:
-  - New Orleans brass and funk bands
+    - New Orleans brass and funk bands
   mentors:
-  - Harry Connick Jr.
+    - Harry Connick Jr.
 spotify_data:
   followers: 17046
   id: 29C6qd6bEW3SrWxANgjYNw
   popularity: 16
-  url: https://open.spotify.com/artist/29C6qd6bEW3SrWxANgjYNw
+  url: 'https://open.spotify.com/artist/29C6qd6bEW3SrWxANgjYNw'
 discography_enriched: true
 top_tracks:
-- Ocean (Bringing It Home)
-- Hot Like Fire (Hot Like Fire)
-- War Pigs - Live (Live from New York)
-- Bayou Betty (Bringing It Home)
-- Heartbreaker (Bonerama Plays Zeppelin)
-- Hey Hey What Can I Do (Bonerama Plays Zeppelin)
-- Mr. Go (Bringing It Home)
-- Mr. Okra (Hot Like Fire)
-- Good Times Bad Times (Bonerama Plays Zeppelin)
-- Black Dog (Bonerama Plays Zeppelin)
+  - Ocean (Bringing It Home)
+  - Hot Like Fire (Hot Like Fire)
+  - War Pigs - Live (Live from New York)
+  - Bayou Betty (Bringing It Home)
+  - Heartbreaker (Bonerama Plays Zeppelin)
+  - Hey Hey What Can I Do (Bonerama Plays Zeppelin)
+  - Mr. Go (Bringing It Home)
+  - Mr. Okra (Hot Like Fire)
+  - Good Times Bad Times (Bonerama Plays Zeppelin)
+  - Black Dog (Bonerama Plays Zeppelin)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4953614a-56d8-4d4d-a7e0-aa4227ed1f89
-  spotify: https://open.spotify.com/artist/29C6qd6bEW3SrWxANgjYNw
-  wikipedia: https://en.wikipedia.org/wiki/Bonerama
+  musicbrainz: 'https://musicbrainz.org/artist/4953614a-56d8-4d4d-a7e0-aa4227ed1f89'
+  spotify: 'https://open.spotify.com/artist/29C6qd6bEW3SrWxANgjYNw'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bonerama'
 image_path: 03_Resources/source_material/ArtistPortraits/bonerama.jpg
 biography_enhanced_at: '2025-10-19T10:34:45.759344'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Bonerama
-- https://www.boneramabrass.com/bio/
-- https://rhythmandroots.com/artists/bonerama-25/
-- https://charlestoncitypaper.com/2010/07/27/bonerama-blows-mean-horns-and-funk/
+  - 'https://en.wikipedia.org/wiki/Bonerama'
+  - 'https://www.boneramabrass.com/bio/'
+  - 'https://rhythmandroots.com/artists/bonerama-25/'
+  - >-
+    https://charlestoncitypaper.com/2010/07/27/bonerama-blows-mean-horns-and-funk/
 network_extracted: true
 entry_created: '2025-10-19T10:34:45.759360'
 last_updated: '2025-12-23T08:16:05.919392'
 musicbrainz_enriched_at: '2025-10-21T09:49:40.125052'
 musicbrainz_id: 4953614a-56d8-4d4d-a7e0-aa4227ed1f89
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 tags:
-- brass band
-- dixieland
-- funk rock
+  - brass band
+  - dixieland
+  - funk rock
+birth_place: New Orleans
 ---
 
 ![](bonerama.jpg)

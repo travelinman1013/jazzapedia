@@ -23,49 +23,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Earl Turbinton
-  - Wild Magnolias
+    - Earl Turbinton
+    - Wild Magnolias
   influenced:
-  - Geto Boys
-  - Sean Combs (Puff Daddy)
-  - Lil Wayne
+    - Geto Boys
+    - Sean Combs (Puff Daddy)
+    - Lil Wayne
   mentors:
-  - Professor Longhair
-  - John Coltrane
+    - Professor Longhair
+    - John Coltrane
 spotify_data:
   followers: 55041
   id: 6eBE8NtlfcBRrNw0hidElZ
   popularity: 47
-  url: https://open.spotify.com/artist/6eBE8NtlfcBRrNw0hidElZ
+  url: 'https://open.spotify.com/artist/6eBE8NtlfcBRrNw0hidElZ'
 discography_enriched: true
 top_tracks:
-- Melancholia. Theme (Melancholia. Theme)
-- A Day With You. Theme (A Day With You. Theme)
-- Opening Eyes. Theme (Opening Eyes. Theme)
-- Nostalgia. Theme (Nostalgia. Theme)
-- late road - adlib
-- Nostalgia. Theme (Nostalgia. Theme)
-- Remember Me. Theme (Remember Me. Theme)
-- After Years. Theme (After Years. Theme)
-- Winter Morning. Theme (Winter Morning. Theme)
-- Look Back. Theme (Look Back. Theme)
+  - Melancholia. Theme (Melancholia. Theme)
+  - A Day With You. Theme (A Day With You. Theme)
+  - Opening Eyes. Theme (Opening Eyes. Theme)
+  - Nostalgia. Theme (Nostalgia. Theme)
+  - late road - adlib
+  - Nostalgia. Theme (Nostalgia. Theme)
+  - Remember Me. Theme (Remember Me. Theme)
+  - After Years. Theme (After Years. Theme)
+  - Winter Morning. Theme (Winter Morning. Theme)
+  - Look Back. Theme (Look Back. Theme)
 external_urls:
-  spotify: https://open.spotify.com/artist/6eBE8NtlfcBRrNw0hidElZ
-  wikipedia: https://en.wikipedia.org/wiki/Willie_Tee
+  spotify: 'https://open.spotify.com/artist/6eBE8NtlfcBRrNw0hidElZ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Willie_Tee'
 image_path: 03_Resources/source_material/ArtistPortraits/gaturs.jpg
 biography_enhanced_at: '2025-11-12T14:53:21.129773'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/The+Gaturs
-- https://en.wikipedia.org/wiki/Willie_Tee
-- https://www.allmusic.com/artist/the-gaturs-mn0000693776
-- https://www.iheart.com/artist/the-gaturs-111679/
-- https://www.soulstrut.com/community/threads/willie-tee-gaturs-appreciation.50013/
+  - 'https://www.last.fm/music/The+Gaturs'
+  - 'https://en.wikipedia.org/wiki/Willie_Tee'
+  - 'https://www.allmusic.com/artist/the-gaturs-mn0000693776'
+  - 'https://www.iheart.com/artist/the-gaturs-111679/'
+  - >-
+    https://www.soulstrut.com/community/threads/willie-tee-gaturs-appreciation.50013/
 network_extracted: true
 entry_created: '2025-11-12T14:53:21.129784'
 last_updated: '2025-12-23T08:16:09.028215'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![](gaturs.jpg)

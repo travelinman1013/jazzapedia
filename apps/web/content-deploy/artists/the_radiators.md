@@ -1,11 +1,11 @@
 ---
-title: the radiators
+title: The Radiators
 wiki_slug: the-radiators
 schema_version: 2
 status: active
 genres:
-- roots rock
-- italo disco
+  - roots rock
+  - italo disco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_radiators.jpg
   caption: the radiators
@@ -25,49 +25,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Earl King
-  - Professor Longhair
-  - Jessie Hill
-  - Ernie K-Doe
+    - Earl King
+    - Professor Longhair
+    - Jessie Hill
+    - Ernie K-Doe
   influenced:
-  - Local New Orleans musicians
+    - Local New Orleans musicians
   mentors:
-  - Professor Longhair
-  - The Meters
+    - Professor Longhair
+    - The Meters
 spotify_data:
   followers: 12985
   id: 6cUVJoqlGm3gwdCiIeFwcq
   popularity: 24
-  url: https://open.spotify.com/artist/6cUVJoqlGm3gwdCiIeFwcq
+  url: 'https://open.spotify.com/artist/6cUVJoqlGm3gwdCiIeFwcq'
 discography_enriched: true
 top_tracks:
-- This Wagon's Gonna Roll (Law Of The Fish)
-- Like Dreamers Do
-- Like Dreamers Do (Law Of The Fish)
-- Zigzagging Through Ghostland (Zig-Zaggin' Through Ghostland)
-- Law Of The Fish (Law Of The Fish)
-- Never Let Your Fire Go Out (Total Evaporation)
-- Suck The Head (Law Of The Fish)
-- Party 'Till The Money Runs Out (Total Evaporation)
-- Holiday (Law Of The Fish)
-- Meet Me Down In Birdland (Zig-Zaggin' Through Ghostland)
+  - This Wagon's Gonna Roll (Law Of The Fish)
+  - Like Dreamers Do
+  - Like Dreamers Do (Law Of The Fish)
+  - Zigzagging Through Ghostland (Zig-Zaggin' Through Ghostland)
+  - Law Of The Fish (Law Of The Fish)
+  - Never Let Your Fire Go Out (Total Evaporation)
+  - Suck The Head (Law Of The Fish)
+  - Party 'Till The Money Runs Out (Total Evaporation)
+  - Holiday (Law Of The Fish)
+  - Meet Me Down In Birdland (Zig-Zaggin' Through Ghostland)
 external_urls:
-  spotify: https://open.spotify.com/artist/6cUVJoqlGm3gwdCiIeFwcq
-  wikipedia: https://en.wikipedia.org/wiki/The_Radiators_(American_band)
+  spotify: 'https://open.spotify.com/artist/6cUVJoqlGm3gwdCiIeFwcq'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Radiators_(American_band)'
 image_path: 03_Resources/source_material/ArtistPortraits/the_radiators.jpg
 biography_enhanced_at: '2025-10-23T07:31:23.984951'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://thebluesblogger.com/381/the-radiators-serving-up-30-years-of-tasty-tunes
-- https://jambands.com/features/2006/10/23/the-radiators-a-faith-based-new-orleans-pagan-rock-band/
-- https://louisianamusichalloffame.org/the-radiators/
-- https://www.neworleans.com/listing/the-radiators/46562/
+  - >-
+    https://thebluesblogger.com/381/the-radiators-serving-up-30-years-of-tasty-tunes
+  - >-
+    https://jambands.com/features/2006/10/23/the-radiators-a-faith-based-new-orleans-pagan-rock-band/
+  - 'https://louisianamusichalloffame.org/the-radiators/'
+  - 'https://www.neworleans.com/listing/the-radiators/46562/'
 network_extracted: true
 entry_created: '2025-10-23T07:31:23.984971'
 last_updated: '2025-12-23T08:16:17.078330'
-origin: New Orleans, Louisiana, USA
-
+origin: 'New Orleans, Louisiana, USA'
+artist_type: band
 ---
 
 ![](the_radiators.jpg)

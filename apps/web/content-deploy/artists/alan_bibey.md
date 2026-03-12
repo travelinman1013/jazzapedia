@@ -1,51 +1,51 @@
 ---
-title: ALAN BIBEY
+title: Alan Bibey
 wiki_slug: alan-bibey
 schema_version: 2
 artist_type: person
 status: active
-birth_place: Walnut Cove, North Carolina, United States
+birth_place: 'Walnut Cove, North Carolina, United States'
 genres:
-- bluegrass
-- newgrass
+  - bluegrass
+  - newgrass
 instruments:
-- mandolin
-- original
-- guitar
-- baritone vocals
-- lead vocals
-- background vocals
-- tenor vocals
-associated_acts:
-- begin: '1991'
-  end: ''
-  instruments:
   - mandolin
   - original
-  mbid: d4e0e4b2-4d84-498f-9f24-ef624b095602
-  name: IIIrd Tyme Out
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2d939e46-60f3-49af-81a4-8875add2dfa4
-  name: BlueRidge
-- begin: ''
-  end: ''
-  instruments:
-  - mandolin
-  mbid: 93f184e1-25b1-4aab-b01e-4d6c0abd3378
-  name: Grasstowne
-- begin: ''
-  end: ''
-  instruments:
-  - mandolin
-  mbid: 11ba43ec-d099-485e-b736-9dab7a7af6be
-  name: Balsam Range
+  - guitar
+  - baritone vocals
+  - lead vocals
+  - background vocals
+  - tenor vocals
+associated_acts:
+  - begin: '1991'
+    end: ''
+    instruments:
+      - mandolin
+      - original
+    mbid: d4e0e4b2-4d84-498f-9f24-ef624b095602
+    name: IIIrd Tyme Out
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2d939e46-60f3-49af-81a4-8875add2dfa4
+    name: BlueRidge
+  - begin: ''
+    end: ''
+    instruments:
+      - mandolin
+    mbid: 93f184e1-25b1-4aab-b01e-4d6c0abd3378
+    name: Grasstowne
+  - begin: ''
+    end: ''
+    instruments:
+      - mandolin
+    mbid: 11ba43ec-d099-485e-b736-9dab7a7af6be
+    name: Balsam Range
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/alan_bibey.jpg
   caption: ALAN BIBEY
   background: solo_singer
-  origin: Walnut Cove, North Carolina, United States
+  origin: 'Walnut Cove, North Carolina, United States'
 audio_profile:
   tempo_avg: 134.3
   energy_avg: 0.546
@@ -61,53 +61,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Terry Baucom
-  - Russell Moore
-  - Steve Gulley
-  - Wayne Benson
+    - Terry Baucom
+    - Russell Moore
+    - Steve Gulley
+    - Wayne Benson
   influenced:
-  - Jason Davis
-  - Jamey Booher
+    - Jason Davis
+    - Jamey Booher
   mentors:
-  - Bill Monroe
-  - Bibey's father
+    - Bill Monroe
+    - Bibey's father
 spotify_data:
   followers: 1804
   id: 0Xfzj3pbKtyzBuZXu7d54e
   popularity: 24
-  url: https://open.spotify.com/artist/0Xfzj3pbKtyzBuZXu7d54e
+  url: 'https://open.spotify.com/artist/0Xfzj3pbKtyzBuZXu7d54e'
 discography_enriched: true
 top_tracks:
-- I'm Getting Ready To Leave this World (Gettin' Ready)
-- He Will Set Your Fields on Fire (Gettin' Ready)
-- Lead Me Not (Gettin' Ready)
-- I'm Goin' Up When He Starts Down (Gettin' Ready)
-- Get Down on Your Knees and Pray/Let Me Walk by Your Side/The Old Crossroads/Working on a Building (Gettin' Ready)
-- Don't You Want To Go There (Gettin' Ready)
-- Rock Foundation (Gettin' Ready)
-- I'm Country (Grasstowne 4)
-- Worried Man Blues (Grasstowne 4)
-- County Fool (In The Blue Room)
+  - I'm Getting Ready To Leave this World (Gettin' Ready)
+  - He Will Set Your Fields on Fire (Gettin' Ready)
+  - Lead Me Not (Gettin' Ready)
+  - I'm Goin' Up When He Starts Down (Gettin' Ready)
+  - >-
+    Get Down on Your Knees and Pray/Let Me Walk by Your Side/The Old
+    Crossroads/Working on a Building (Gettin' Ready)
+  - Don't You Want To Go There (Gettin' Ready)
+  - Rock Foundation (Gettin' Ready)
+  - I'm Country (Grasstowne 4)
+  - Worried Man Blues (Grasstowne 4)
+  - County Fool (In The Blue Room)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/86abd381-83d1-4fd6-b95d-acd34639a613
-  spotify: https://open.spotify.com/artist/0Xfzj3pbKtyzBuZXu7d54e
-  wikipedia: https://en.wikipedia.org/wiki/Alan_Bibey
+  musicbrainz: 'https://musicbrainz.org/artist/86abd381-83d1-4fd6-b95d-acd34639a613'
+  spotify: 'https://open.spotify.com/artist/0Xfzj3pbKtyzBuZXu7d54e'
+  wikipedia: 'https://en.wikipedia.org/wiki/Alan_Bibey'
 image_path: 03_Resources/source_material/ArtistPortraits/alan_bibey.jpg
 biography_enhanced_at: '2025-11-03T07:39:30.317888'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Alan_Bibey
-- https://alanbibey.com/bio/
-- https://www.flatpik.com/instructors/alan-bibey
-- https://mandozine.com/media/CGOW/bibey.html
-- https://musiccampsnorth.com/alan-bibey-2019/
-- https://bluegrasstoday.com/alan-bibey-tells-all/
+  - 'https://en.wikipedia.org/wiki/Alan_Bibey'
+  - 'https://alanbibey.com/bio/'
+  - 'https://www.flatpik.com/instructors/alan-bibey'
+  - 'https://mandozine.com/media/CGOW/bibey.html'
+  - 'https://musiccampsnorth.com/alan-bibey-2019/'
+  - 'https://bluegrasstoday.com/alan-bibey-tells-all/'
 network_extracted: true
 entry_created: '2025-11-03T07:39:30.317897'
 last_updated: '2025-12-23T08:16:04.474767'
 gender: Male
 musicbrainz_id: 86abd381-83d1-4fd6-b95d-acd34639a613
+birth_date: '1964-08-24'
 ---
 
 ![](alan_bibey.jpg)

@@ -3,13 +3,13 @@ title: Tab Smith
 wiki_slug: tab-smith
 schema_version: 2
 status: active
-birth_place: Kinston, North Carolina, United States
+birth_place: 'Kinston, North Carolina, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Tab_Smith.jpg
   caption: Tab Smith
   background: solo_singer
-  origin: Kinston, North Carolina, United States
+  origin: 'Kinston, North Carolina, United States'
 audio_profile:
   tempo_avg: 132.4
   energy_avg: 0.499
@@ -25,50 +25,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Count Basie
-  - Lucky Millinder
-  - Coleman Hawkins
-  - Billie Holiday
-  - Earl Hines
-  - Wynonie Harris
+    - Count Basie
+    - Lucky Millinder
+    - Coleman Hawkins
+    - Billie Holiday
+    - Earl Hines
+    - Wynonie Harris
   influenced:
-  - Earl Bostic
-  - Otis Redding
+    - Earl Bostic
+    - Otis Redding
   mentors:
-  - Johnny Hodges
+    - Johnny Hodges
 spotify_data:
   followers: 19113
   id: 4XOIQF9cT5At4H0qcjhVL7
   popularity: 50
-  url: https://open.spotify.com/artist/4XOIQF9cT5At4H0qcjhVL7
+  url: 'https://open.spotify.com/artist/4XOIQF9cT5At4H0qcjhVL7'
 discography_enriched: true
 top_tracks:
-- D.A.N.C.E. (D.A.N.C.E.)
-- PUFF PUFF (PUFF PUFF)
-- Run (Run)
-- Run (D.A.N.C.E.)
-- Lobby (Lobby)
-- Pathetic (Pathetic)
-- Lemon (Lemon)
-- Bougie Bitch (D.A.N.C.E.)
-- Lobby - Rock Version (Lobby (Rock Version))
-- Lobby - 6th FLR Version (Lobby (6th FLR Version))
+  - D.A.N.C.E. (D.A.N.C.E.)
+  - PUFF PUFF (PUFF PUFF)
+  - Run (Run)
+  - Run (D.A.N.C.E.)
+  - Lobby (Lobby)
+  - Pathetic (Pathetic)
+  - Lemon (Lemon)
+  - Bougie Bitch (D.A.N.C.E.)
+  - Lobby - Rock Version (Lobby (Rock Version))
+  - Lobby - 6th FLR Version (Lobby (6th FLR Version))
 external_urls:
-  spotify: https://open.spotify.com/artist/4XOIQF9cT5At4H0qcjhVL7
-  wikipedia: https://en.wikipedia.org/wiki/Tab_Smith
+  spotify: 'https://open.spotify.com/artist/4XOIQF9cT5At4H0qcjhVL7'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tab_Smith'
 image_path: 03_Resources/source_material/ArtistPortraits/Tab_Smith.jpg
 biography_enhanced_at: '2025-10-20T01:40:40.945754'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://wbssmedia.com/artists/detail/3415
-- https://fromthevaults-boppinbob.blogspot.com/2015/01/tab-smith-born-11-january-1909.html
-- https://www.encyclopedia.com/arts/dictionaries-thesauruses-pictures-and-press-releases/smith-tab-talmadge
-- https://www.ncmea.net/tab-smith/
-- https://www.dncr.nc.gov/blog/2016/01/11/tab-smith-and-birth-rhythm-and-blues
+  - 'https://wbssmedia.com/artists/detail/3415'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2015/01/tab-smith-born-11-january-1909.html
+  - >-
+    https://www.encyclopedia.com/arts/dictionaries-thesauruses-pictures-and-press-releases/smith-tab-talmadge
+  - 'https://www.ncmea.net/tab-smith/'
+  - 'https://www.dncr.nc.gov/blog/2016/01/11/tab-smith-and-birth-rhythm-and-blues'
 network_extracted: true
 entry_created: '2025-10-20T01:40:40.945772'
 last_updated: '2025-12-23T08:16:04.032360'
+birth_date: '1909-01-11'
+death_date: '1971-08-17'
+artist_type: person
 ---
 
 ![](Tab_Smith.jpg)

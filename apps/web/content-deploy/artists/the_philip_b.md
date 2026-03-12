@@ -4,8 +4,8 @@ wiki_slug: the-philip-b
 schema_version: 2
 status: active
 genres:
-- classical
-- classical piano
+  - classical
+  - classical piano
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_philip_b.jpg
   caption: The Philip B
@@ -31,39 +31,47 @@ spotify_data:
   followers: 9491
   id: 4x2fCu6MNErew0pb64yOBO
   popularity: 58
-  url: https://open.spotify.com/artist/4x2fCu6MNErew0pb64yOBO
+  url: 'https://open.spotify.com/artist/4x2fCu6MNErew0pb64yOBO'
 discography_enriched: true
 top_tracks:
-- Gymnopédie No. 1
-- 'Carnival of the Animals, R. 125: The Swan (Saint-Saëns: Organ Symphony; Bacchanale; Danse Macabre; Carnaval des Animaux)'
-- Gymnopédie No. 1 (Entremont Plays Satie)
-- Gymnopédie No. 3
-- 'Carnival of the Animals, R. 125: Aquarium (Saint-Saëns: Organ Symphony; Bacchanale; Danse Macabre; Carnaval des Animaux)'
-- 'Serenade in C Major, Op. 48: II. Walzer (Tchaikovsky: Serenade for Strings / Souvenir De Florence)'
-- Gymnopédie No. 2
-- Gymnopédie No. 3 (Entremont Plays Satie)
-- 'Carnival of the Animals, R. 125: The Swan (Impressions)'
-- 'Serenade in C Major, Op. 48: III. Elegie (Tchaikovsky: Serenade for Strings / Souvenir De Florence)'
+  - Gymnopédie No. 1
+  - >-
+    Carnival of the Animals, R. 125: The Swan (Saint-Saëns: Organ Symphony;
+    Bacchanale; Danse Macabre; Carnaval des Animaux)
+  - Gymnopédie No. 1 (Entremont Plays Satie)
+  - Gymnopédie No. 3
+  - >-
+    Carnival of the Animals, R. 125: Aquarium (Saint-Saëns: Organ Symphony;
+    Bacchanale; Danse Macabre; Carnaval des Animaux)
+  - >-
+    Serenade in C Major, Op. 48: II. Walzer (Tchaikovsky: Serenade for Strings /
+    Souvenir De Florence)
+  - Gymnopédie No. 2
+  - Gymnopédie No. 3 (Entremont Plays Satie)
+  - 'Carnival of the Animals, R. 125: The Swan (Impressions)'
+  - >-
+    Serenade in C Major, Op. 48: III. Elegie (Tchaikovsky: Serenade for Strings
+    / Souvenir De Florence)
 external_urls:
-  spotify: https://open.spotify.com/artist/4x2fCu6MNErew0pb64yOBO
+  spotify: 'https://open.spotify.com/artist/4x2fCu6MNErew0pb64yOBO'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/the_philip_b.jpg
 biography_enhanced_at: '2025-12-21T01:25:15.756371'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.wisemusicclassical.com/composer/1728/Philip-Wilby/ [1]
-- https://www.philipherbert.org/about [2]
-- https://en.wikipedia.org/wiki/Philip_Glass [3]
-- https://philipglass.com/biography/ [4]
-- https://blueskyatlanta.com/artists/jazz-pianist-philip [5]
-- https://en.wikipedia.org/wiki/Phillip_Bush [6]
-- https://philipcatelinet.com/biography/ [7]
-- https://meettheartist.online/2018/10/06/phil-best-pianist-and-composer/ [8]
+  - 'https://www.wisemusicclassical.com/composer/1728/Philip-Wilby/ [1]'
+  - 'https://www.philipherbert.org/about [2]'
+  - 'https://en.wikipedia.org/wiki/Philip_Glass [3]'
+  - 'https://philipglass.com/biography/ [4]'
+  - 'https://blueskyatlanta.com/artists/jazz-pianist-philip [5]'
+  - 'https://en.wikipedia.org/wiki/Phillip_Bush [6]'
+  - 'https://philipcatelinet.com/biography/ [7]'
+  - 'https://meettheartist.online/2018/10/06/phil-best-pianist-and-composer/ [8]'
 network_extracted: true
 entry_created: '2025-12-21T01:25:15.756376'
 last_updated: '2025-12-23T08:16:17.051687'
-
+artist_type: band
 ---
 
 ![](the_philip_b.jpg)

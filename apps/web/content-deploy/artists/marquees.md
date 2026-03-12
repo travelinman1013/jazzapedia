@@ -1,23 +1,23 @@
 ---
-title: marquees
+title: Marquees
 wiki_slug: marquees
 schema_version: 2
 status: active
-birth_place: Queens, New York, USA
+birth_place: 'Queens, New York, USA'
 genres:
-- r&b
+  - r&b
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/marquees.jpg
   caption: marquees
   background: solo_singer
-  origin: Queens, New York, USA
+  origin: 'Queens, New York, USA'
 audio_profile:
   tempo_avg: 108.3
   energy_avg: 0.564
   valence_avg: 0.556
   danceability_avg: 0.662
   acousticness_avg: 0.194
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -6.8
   speechiness_avg: 0.107
   liveness_avg: 0.158
@@ -26,45 +26,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Pharrell Williams
-  - Kelis
-  - D.I.T.C.
-  - Queen Latifah
-  - Monifah
+    - Pharrell Williams
+    - Kelis
+    - D.I.T.C.
+    - Queen Latifah
+    - Monifah
   influenced: []
   mentors:
-  - Dolores Ferguson
+    - Dolores Ferguson
 spotify_data:
   followers: 898695
   id: 1goOx6gnQdUllLfSMsL4Rt
   popularity: 48
-  url: https://open.spotify.com/artist/1goOx6gnQdUllLfSMsL4Rt
+  url: 'https://open.spotify.com/artist/1goOx6gnQdUllLfSMsL4Rt'
 discography_enriched: true
 top_tracks:
-- Naked (Naked)
-- Circle (Veteran)
-- Sex Wit You (Naked)
-- That Girl (Marques Houston)
-- Clubbin' (MH)
-- That Girl (MH)
-- Clubbin' (feat. Joe Budden and Pied Piper) (Marques Houston)
-- All Because of You (Naked)
-- Favorite Girl (Veteran)
-- 1st Time (feat. Marques Houston) (New Joc City)
+  - Naked (Naked)
+  - Circle (Veteran)
+  - Sex Wit You (Naked)
+  - That Girl (Marques Houston)
+  - Clubbin' (MH)
+  - That Girl (MH)
+  - Clubbin' (feat. Joe Budden and Pied Piper) (Marques Houston)
+  - All Because of You (Naked)
+  - Favorite Girl (Veteran)
+  - 1st Time (feat. Marques Houston) (New Joc City)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b1f7694f-6fe4-4f56-bd62-557ef9178dd2
-  spotify: https://open.spotify.com/artist/1goOx6gnQdUllLfSMsL4Rt
+  musicbrainz: 'https://musicbrainz.org/artist/b1f7694f-6fe4-4f56-bd62-557ef9178dd2'
+  spotify: 'https://open.spotify.com/artist/1goOx6gnQdUllLfSMsL4Rt'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/marquees.jpg
 biography_enhanced_at: '2025-12-20T01:19:34.279584'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://soundbetter.com/profiles/128857-marquee
+  - 'https://soundbetter.com/profiles/128857-marquee'
 network_extracted: true
 entry_created: '2025-12-20T01:19:34.279590'
 last_updated: '2025-12-23T08:16:12.727678'
 musicbrainz_id: b1f7694f-6fe4-4f56-bd62-557ef9178dd2
+artist_type: person
 ---
 
 ![](marquees.jpg)

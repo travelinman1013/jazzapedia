@@ -5,35 +5,35 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1991-05-23'
-birth_place: Austin
+birth_place: 'Austin, Texas, United States'
 genres:
-- bluegrass
-- newgrass
-- americana
-- folk
+  - bluegrass
+  - newgrass
+  - americana
+  - folk
 instruments:
-- lead vocals
-- mandolin
-- guitar
-- electric guitar
-- piano
-- toy piano
-- acoustic guitar
-- background vocals
-- vocal
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - lead vocals
   - mandolin
-  mbid: a3f80875-bfe5-4be5-8713-ccf9765fd436
-  name: Ari and Mia
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: fe1a1451-cae2-4bf4-872e-b4b8839be83f
-  name: I’m With Her
+  - guitar
+  - electric guitar
+  - piano
+  - toy piano
+  - acoustic guitar
+  - background vocals
+  - vocal
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+      - mandolin
+    mbid: a3f80875-bfe5-4be5-8713-ccf9765fd436
+    name: Ari and Mia
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: fe1a1451-cae2-4bf4-872e-b4b8839be83f
+    name: I’m With Her
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sarah_jarosz.jpg
   caption: Sarah Jarosz
@@ -55,60 +55,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sara Watkins
-  - Aoife O'Donovan
-  - Alex Hargreaves
-  - Nathaniel Smith
-  - Stuart Duncan
-  - Jerry Douglas
+    - Sara Watkins
+    - Aoife O'Donovan
+    - Alex Hargreaves
+    - Nathaniel Smith
+    - Stuart Duncan
+    - Jerry Douglas
   influenced: []
   mentors:
-  - Gary Paczosa
-  - Bernard Mollberg
-  - Chris Thile
+    - Gary Paczosa
+    - Bernard Mollberg
+    - Chris Thile
 spotify_data:
   followers: 167545
   id: 6nFBonVf7Lqaj05R0v5VGJ
   popularity: 52
-  url: https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ
+  url: 'https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ'
 discography_enriched: true
 top_tracks:
-- I Still Haven't Found What I'm Looking For
-- Wild and Clear and Blue (Wild and Clear and Blue)
-- Ancient Light
-- Eye to Eye (feat. Sarah Jarosz) (The Fray)
-- Build Me Up From Bones (Build Me Up From Bones)
-- When Doves Cry - Recorded At Spotify Studios NYC
-- Morning (Blue Heron Suite)
-- Take Me Back (Undercurrent)
-- Crossing Muddy Waters
-- Call My Name
+  - I Still Haven't Found What I'm Looking For
+  - Wild and Clear and Blue (Wild and Clear and Blue)
+  - Ancient Light
+  - Eye to Eye (feat. Sarah Jarosz) (The Fray)
+  - Build Me Up From Bones (Build Me Up From Bones)
+  - When Doves Cry - Recorded At Spotify Studios NYC
+  - Morning (Blue Heron Suite)
+  - Take Me Back (Undercurrent)
+  - Crossing Muddy Waters
+  - Call My Name
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6c44e99b-3450-45b7-b240-6e7026d0bcff
-  spotify: https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ
-  wikipedia: https://en.wikipedia.org/wiki/Sarah_Jarosz
+  musicbrainz: 'https://musicbrainz.org/artist/6c44e99b-3450-45b7-b240-6e7026d0bcff'
+  spotify: 'https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sarah_Jarosz'
 image_path: 03_Resources/source_material/ArtistPortraits/sarah_jarosz.jpg
 biography_enhanced_at: '2025-11-29T07:06:39.405951'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Sarah Jarosz
-- The Mandolin Player - Sarah Jarosz
-- 'Tape Op - Sarah Jarosz: Recording Techniques & Creative Process'
-- Mike Buchman Music - Sarah Jarosz
-- AFM - Sarah Jarosz Performing With Her Heroes
-- 'Live From Here - Sarah Jarosz: Natural from the Beginning'
-- 'The Bluegrass Situation - Artist of the Month: Sarah Jarosz'
-- Sarah Jarosz Official Website
+  - Wikipedia - Sarah Jarosz
+  - The Mandolin Player - Sarah Jarosz
+  - 'Tape Op - Sarah Jarosz: Recording Techniques & Creative Process'
+  - Mike Buchman Music - Sarah Jarosz
+  - AFM - Sarah Jarosz Performing With Her Heroes
+  - 'Live From Here - Sarah Jarosz: Natural from the Beginning'
+  - 'The Bluegrass Situation - Artist of the Month: Sarah Jarosz'
+  - Sarah Jarosz Official Website
 network_extracted: true
 entry_created: '2025-11-29T07:06:39.405965'
 last_updated: '2025-12-23T08:16:15.389166'
 gender: Female
 musicbrainz_id: 6c44e99b-3450-45b7-b240-6e7026d0bcff
 tags:
-- alternative country
-- americana
-- contemporary country
+  - alternative country
+  - americana
+  - contemporary country
+origin: 'Wimberley, Texas, United States'
 ---
 
 ![](sarah_jarosz.jpg)

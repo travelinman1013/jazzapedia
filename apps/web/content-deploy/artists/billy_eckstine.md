@@ -1,79 +1,81 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: d073af20-450a-4849-840f-894851d0470d
-  name: Billy Eckstine and His Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: 3313a8ad-c6be-418e-8737-a465c822d0f4
-  name: Metronome All Stars
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: d073af20-450a-4849-840f-894851d0470d
+    name: Billy Eckstine and His Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: 3313a8ad-c6be-418e-8737-a465c822d0f4
+    name: Metronome All Stars
 biography_enhanced_at: '2026-01-01T01:10:53.962848'
 birth_date: '1914-07-08'
-birth_place: Pittsburgh
+birth_place: 'Pittsburgh, Pennsylvania, United States'
 death_date: '1993-03-08'
 enhancement_provider: perplexity
 entry_created: '2026-01-01T01:10:53.962860'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/dc335fdb-9bc6-42ca-86a1-e652318764cc
-  spotify: https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt
-  wikipedia: https://en.wikipedia.org/wiki/Billy_Eckstine
+  musicbrainz: 'https://musicbrainz.org/artist/dc335fdb-9bc6-42ca-86a1-e652318764cc'
+  spotify: 'https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt'
+  wikipedia: 'https://en.wikipedia.org/wiki/Billy_Eckstine'
 gender: Male
 genres:
-- vocal jazz
-- big band
-- bebop
+  - vocal jazz
+  - big band
+  - bebop
 image_path: 03_Resources/source_material/ArtistPortraits/billy_eckstine.jpg
 instruments:
-- eponymous
-- lead vocals
+  - eponymous
+  - lead vocals
 last_updated: '2026-01-01T01:10:53.962862'
 musical_connections:
   collaborators:
-  - Charlie Parker
-  - Dizzy Gillespie
-  - Miles Davis
-  - Art Blakey
-  - Dexter Gordon
-  - Fats Navarro
-  - Sarah Vaughan
-  - Gene Ammons
-  - Victor Young
+    - Charlie Parker
+    - Dizzy Gillespie
+    - Miles Davis
+    - Art Blakey
+    - Dexter Gordon
+    - Fats Navarro
+    - Sarah Vaughan
+    - Gene Ammons
+    - Victor Young
   influenced:
-  - Earl Coleman
-  - Johnny Hartman
-  - Joe Williams
-  - Arthur Prysock
-  - Lou Rawls
-  - Sam Cooke
-  - Prince
+    - Earl Coleman
+    - Johnny Hartman
+    - Joe Williams
+    - Arthur Prysock
+    - Lou Rawls
+    - Sam Cooke
+    - Prince
   mentors:
-  - Earl Hines
+    - Earl Hines
 musicbrainz_id: dc335fdb-9bc6-42ca-86a1-e652318764cc
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- Wikipedia - Billy Eckstine
-- Britannica - Billy Eckstine
-- EBSCO Research Starters - Billy Eckstine
-- JazzStandards.com - Billy Eckstine Biography
-- Hollywood Walk of Fame - Billy Eckstine
+  - Wikipedia - Billy Eckstine
+  - Britannica - Billy Eckstine
+  - EBSCO Research Starters - Billy Eckstine
+  - JazzStandards.com - Billy Eckstine Biography
+  - Hollywood Walk of Fame - Billy Eckstine
 spotify_data:
   followers: 49260
   id: 6htazaFMy8zs0f3sMtM2Pt
   popularity: 47
-  url: https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt
+  url: 'https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt'
 status: active
 tags:
-- bebop
-- jazz
-- swing
-title: billy eckstine
+  - bebop
+  - jazz
+  - swing
+title: Billy Eckstine
+is_active: false
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](billy_eckstine.jpg)

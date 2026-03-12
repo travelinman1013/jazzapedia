@@ -1,123 +1,124 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2025-12-29T01:25:34.586375'
 birth_date: '1965'
 enhancement_provider: perplexity
 entry_created: '2025-12-29T01:25:34.586388'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/83d91898-7763-47d7-b03b-b92132375c47
-  spotify: https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9
-  wikipedia: https://en.wikipedia.org/wiki/Pink_Floyd
+  musicbrainz: 'https://musicbrainz.org/artist/83d91898-7763-47d7-b03b-b92132375c47'
+  spotify: 'https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9'
+  wikipedia: 'https://en.wikipedia.org/wiki/Pink_Floyd'
 genres:
-- progressive rock
-- psychedelic rock
-- classic rock
-- symphonic rock
-- art rock
-- rock
+  - progressive rock
+  - psychedelic rock
+  - classic rock
+  - symphonic rock
+  - art rock
+  - rock
 image_path: 03_Resources/source_material/ArtistPortraits/pink_floyd.jpg
 instruments:
-- guitar
-- lead vocals
-- original
-- keyboard
-- bass guitar
-- drums (drum set)
-- percussion
-- slide guitar
+  - guitar
+  - lead vocals
+  - original
+  - keyboard
+  - bass guitar
+  - drums (drum set)
+  - percussion
+  - slide guitar
 last_updated: '2025-12-29T01:25:34.586390'
 members:
-- begin: '1965'
-  end: 1968-04
-  instruments:
-  - guitar
-  - lead vocals
-  - original
-  mbid: 12327d75-47d5-45d9-84c2-3760b9210c17
-  name: Syd Barrett
-- begin: '1965'
-  end: '1981'
-  instruments:
-  - keyboard
-  - lead vocals
-  - original
-  mbid: 6f7e36da-79d8-4219-990d-8e9224d04ebc
-  name: Richard Wright
-- begin: '1965'
-  end: '1985'
-  instruments:
-  - bass guitar
-  - lead vocals
-  - original
-  mbid: 0f50beab-d77d-4f0f-ac26-0b87d3e9b11b
-  name: Roger Waters
-- &id001
-  begin: '1965'
-  end: ''
-  instruments:
-  - drums (drum set)
-  - original
-  - percussion
-  mbid: d6c37074-0155-46a3-8af2-338a4f625afc
-  name: Nick Mason
-- &id002
-  begin: '1968-02-18'
-  end: ''
-  instruments:
-  - guitar
-  - lead vocals
-  - slide guitar
-  mbid: 1dce970e-34bc-48b2-ab51-48d87544a4c2
-  name: David Gilmour
-- begin: '1987'
-  end: '2008-09-15'
-  instruments:
-  - keyboard
-  - lead vocals
-  mbid: 6f7e36da-79d8-4219-990d-8e9224d04ebc
-  name: Richard Wright
+  - begin: '1965'
+    end: 1968-04
+    instruments:
+      - guitar
+      - lead vocals
+      - original
+    mbid: 12327d75-47d5-45d9-84c2-3760b9210c17
+    name: Syd Barrett
+  - begin: '1965'
+    end: '1981'
+    instruments:
+      - keyboard
+      - lead vocals
+      - original
+    mbid: 6f7e36da-79d8-4219-990d-8e9224d04ebc
+    name: Richard Wright
+  - begin: '1965'
+    end: '1985'
+    instruments:
+      - bass guitar
+      - lead vocals
+      - original
+    mbid: 0f50beab-d77d-4f0f-ac26-0b87d3e9b11b
+    name: Roger Waters
+  - &ref_0
+    begin: '1965'
+    end: ''
+    instruments:
+      - drums (drum set)
+      - original
+      - percussion
+    mbid: d6c37074-0155-46a3-8af2-338a4f625afc
+    name: Nick Mason
+  - &ref_1
+    begin: '1968-02-18'
+    end: ''
+    instruments:
+      - guitar
+      - lead vocals
+      - slide guitar
+    mbid: 1dce970e-34bc-48b2-ab51-48d87544a4c2
+    name: David Gilmour
+  - begin: '1987'
+    end: '2008-09-15'
+    instruments:
+      - keyboard
+      - lead vocals
+    mbid: 6f7e36da-79d8-4219-990d-8e9224d04ebc
+    name: Richard Wright
 musical_connections:
   collaborators:
-  - Syd Barrett
-  - Roger Waters
-  - Nick Mason
-  - Richard (Rick) Wright
-  - David Gilmour
-  - Various touring and session musicians
+    - Syd Barrett
+    - Roger Waters
+    - Nick Mason
+    - Richard (Rick) Wright
+    - David Gilmour
+    - Various touring and session musicians
   influenced:
-  - Progressive rock and psychedelic rock bands (e.g., later prog and art‑rock acts)
-  - Artists across rock and alternative genres
-  - Mainstream rock and classic rock radio formats
+    - >-
+      Progressive rock and psychedelic rock bands (e.g., later prog and art‑rock
+      acts)
+    - Artists across rock and alternative genres
+    - Mainstream rock and classic rock radio formats
   mentors:
-  - Pink Anderson
-  - Floyd Council
-  - British rhythm and blues and underground psychedelic scenes
+    - Pink Anderson
+    - Floyd Council
+    - British rhythm and blues and underground psychedelic scenes
 musicbrainz_id: 83d91898-7763-47d7-b03b-b92132375c47
 network_extracted: true
-origin: London
+origin: 'London, England, United Kingdom'
 original_members:
-- *id001
-- *id002
+  - *ref_0
+  - *ref_1
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Pink_Floyd
-- https://www.britannica.com/topic/Pink-Floyd
-- https://www.polarmusicprize.org/laureates/pink-floyd/
-- https://rockhall.com/inductees/pink-floyd/
-- https://www.neptunepinkfloyd.co.uk/pink-floyd-timeline-history
-- https://crescent.evansville.edu/2024/04/02/pink-floyd/
+  - 'https://en.wikipedia.org/wiki/Pink_Floyd'
+  - 'https://www.britannica.com/topic/Pink-Floyd'
+  - 'https://www.polarmusicprize.org/laureates/pink-floyd/'
+  - 'https://rockhall.com/inductees/pink-floyd/'
+  - 'https://www.neptunepinkfloyd.co.uk/pink-floyd-timeline-history'
+  - 'https://crescent.evansville.edu/2024/04/02/pink-floyd/'
 spotify_data:
   followers: 23050417
   id: 0k17h0D3J5VfsdmQ1iZtE9
   popularity: 82
-  url: https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9
+  url: 'https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9'
 status: active
 tags:
-- acid rock
-- art rock
-- blues rock
+  - acid rock
+  - art rock
+  - blues rock
 title: Pink Floyd
-
 ---
 
 ![](pink_floyd.jpg)

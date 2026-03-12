@@ -1,10 +1,10 @@
 ---
-title: Earth wind & Fire
+title: 'Earth, Wind & Fire'
 wiki_slug: earth-wind-fire
 schema_version: 2
 status: active
 genres:
-- disco
+  - disco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Earth_wind_and_Fire.jpg
   caption: Earth wind & Fire
@@ -24,51 +24,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Philip Bailey
-  - Larry Dunn
-  - Andrew Woolfolk
-  - Al McKay
+    - Philip Bailey
+    - Larry Dunn
+    - Andrew Woolfolk
+    - Al McKay
   influenced:
-  - Prince
-  - Beyoncé
-  - Bruno Mars
+    - Prince
+    - Beyoncé
+    - Bruno Mars
   mentors:
-  - Ramsey Lewis
-  - Louis Satterfield
+    - Ramsey Lewis
+    - Louis Satterfield
 spotify_data:
   followers: 5059574
   id: 4QQgXkCYTt3BlENzhyNETg
   popularity: 73
-  url: https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg
+  url: 'https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg'
 discography_enriched: true
 top_tracks:
-- September
-- Let's Groove (Raise!)
-- Boogie Wonderland (I Am)
-- September
-- After the Love Has Gone (I Am)
-- Fantasy
-- September
-- Shining Star (That's The Way Of The World)
-- Let's Go Dumb Crasy
-- September
+  - September
+  - Let's Groove (Raise!)
+  - Boogie Wonderland (I Am)
+  - September
+  - After the Love Has Gone (I Am)
+  - Fantasy
+  - September
+  - Shining Star (That's The Way Of The World)
+  - Let's Go Dumb Crasy
+  - September
 external_urls:
-  spotify: https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg
-  wikipedia: https://en.wikipedia.org/wiki/Earth,_Wind_%26_Fire
+  spotify: 'https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg'
+  wikipedia: 'https://en.wikipedia.org/wiki/Earth,_Wind_%26_Fire'
 image_path: 03_Resources/source_material/ArtistPortraits/Earth_wind_and_Fire.jpg
 biography_enhanced_at: '2025-10-20T10:31:31.411288'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.britannica.com/topic/Earth-Wind-and-Fire
-- https://walkoffame.com/earth-wind-fire/
-- https://magazine.waxpoetics.com/connections/saudade-brasil/article/earth-wind-and-fire-cosmic-heights/
-- https://pt.wikipedia.org/wiki/Earth,_Wind_&_Fire
+  - 'https://www.britannica.com/topic/Earth-Wind-and-Fire'
+  - 'https://walkoffame.com/earth-wind-fire/'
+  - >-
+    https://magazine.waxpoetics.com/connections/saudade-brasil/article/earth-wind-and-fire-cosmic-heights/
+  - 'https://pt.wikipedia.org/wiki/Earth,_Wind_&_Fire'
 network_extracted: true
 entry_created: '2025-10-20T10:31:31.411302'
 last_updated: '2025-12-23T08:16:01.845292'
-origin: Chicago, Illinois, United States
-
+origin: 'Chicago, Illinois, United States'
+artist_type: person
 ---
 
 ![](Earth_wind_and_Fire.jpg)

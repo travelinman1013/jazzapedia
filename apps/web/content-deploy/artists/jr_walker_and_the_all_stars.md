@@ -1,12 +1,12 @@
 ---
-title: jr walker and the all stars
+title: Jr Walker and the All Stars
 wiki_slug: jr-walker-and-the-all-stars
 schema_version: 2
 status: active
 genres:
-- motown
-- northern soul
-- soul
+  - motown
+  - northern soul
+  - soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jr_walker_and_the_all_stars.jpg
   caption: jr walker and the all stars
@@ -26,55 +26,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jimmy Graves
-  - Victor Thomas
-  - Willie Woods
-  - Holland-Dozier-Holland
-  - Berry Gordy
-  - Autry DeWalt III
-  - Foreigner
+    - Jimmy Graves
+    - Victor Thomas
+    - Willie Woods
+    - Holland-Dozier-Holland
+    - Berry Gordy
+    - Autry DeWalt III
+    - Foreigner
   influenced: []
   mentors:
-  - Louis Jordan
-  - Earl Bostic
-  - Illinois Jacquet
-  - Harvey Fuqua
-  - Johnny Bristol
+    - Louis Jordan
+    - Earl Bostic
+    - Illinois Jacquet
+    - Harvey Fuqua
+    - Johnny Bristol
 spotify_data:
   followers: 240870
   id: 1rHh0AI30JhKrbzKIFjFNd
   popularity: 46
-  url: https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd
+  url: 'https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd'
 discography_enriched: true
 top_tracks:
-- Shotgun (Shotgun)
-- How Sweet It Is (To Be Loved By You) (Road Runner)
-- What Does It Take (To Win Your Love) (Gotta Hold On To This Feeling / What Does It Take To Win Your Love)
-- (I'm A) Road Runner (Shotgun)
-- Cleo's Mood (Shotgun)
-- These Eyes (Gotta Hold On To This Feeling / What Does It Take To Win Your Love)
-- How Sweet It Is (To Be Loved By You)
-- Monkey Jump (Shotgun)
-- Gotta Hold On To This Feeling (Gotta Hold On To This Feeling / What Does It Take To Win Your Love)
-- Shake And Fingerpop (Shotgun)
+  - Shotgun (Shotgun)
+  - How Sweet It Is (To Be Loved By You) (Road Runner)
+  - >-
+    What Does It Take (To Win Your Love) (Gotta Hold On To This Feeling / What
+    Does It Take To Win Your Love)
+  - (I'm A) Road Runner (Shotgun)
+  - Cleo's Mood (Shotgun)
+  - >-
+    These Eyes (Gotta Hold On To This Feeling / What Does It Take To Win Your
+    Love)
+  - How Sweet It Is (To Be Loved By You)
+  - Monkey Jump (Shotgun)
+  - >-
+    Gotta Hold On To This Feeling (Gotta Hold On To This Feeling / What Does It
+    Take To Win Your Love)
+  - Shake And Fingerpop (Shotgun)
 external_urls:
-  spotify: https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd
-  wikipedia: https://en.wikipedia.org/wiki/Junior_Walker
+  spotify: 'https://open.spotify.com/artist/1rHh0AI30JhKrbzKIFjFNd'
+  wikipedia: 'https://en.wikipedia.org/wiki/Junior_Walker'
 image_path: 03_Resources/source_material/ArtistPortraits/jr_walker_and_the_all_stars.jpg
 biography_enhanced_at: '2025-12-19T01:47:00.446944'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.motownmuseum.org/artist/jr-walker-and-the-all-stars/
-- https://encyclopediaofarkansas.net/entries/junior-walker-9356/
-- https://michiganrockandrolllegends.com/hall-of-fame/artists/343-jr-walker-the-all-stars
-- https://en.wikipedia.org/wiki/Junior_Walker
-- https://www.classicbands.com/jrwalker.html
+  - 'https://www.motownmuseum.org/artist/jr-walker-and-the-all-stars/'
+  - 'https://encyclopediaofarkansas.net/entries/junior-walker-9356/'
+  - >-
+    https://michiganrockandrolllegends.com/hall-of-fame/artists/343-jr-walker-the-all-stars
+  - 'https://en.wikipedia.org/wiki/Junior_Walker'
+  - 'https://www.classicbands.com/jrwalker.html'
 network_extracted: true
 entry_created: '2025-12-19T01:47:00.446957'
 last_updated: '2025-12-23T08:16:11.020730'
-origin: Blythesville, Arkansas, USA
-
+origin: 'Blythesville, Arkansas, USA'
+birth_place: 'Blythesville, Arkansas, United States'
+birth_date: '1931-06-14'
+artist_type: band
 ---
 
 ![](jr_walker_and_the_all_stars.jpg)

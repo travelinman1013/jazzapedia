@@ -4,7 +4,7 @@ wiki_slug: red-onion-jazz-band
 schema_version: 2
 status: active
 genres:
-- ragtime
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/red_onion_jazz_band.jpg
   caption: Red Onion Jazz Band
@@ -24,53 +24,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Brett Iggulden
-  - Allan Browne
-  - Kim Lynch
-  - Gerry Humphrys
-  - Ian Clyne
-  - Bill Howard
-  - John Scurry
-  - Richard Miller
+    - Brett Iggulden
+    - Allan Browne
+    - Kim Lynch
+    - Gerry Humphrys
+    - Ian Clyne
+    - Bill Howard
+    - John Scurry
+    - Richard Miller
   influenced:
-  - The Loved Ones
-  - Melbourne jazz musicians
+    - The Loved Ones
+    - Melbourne jazz musicians
   mentors:
-  - Norm Hodges
-  - Ade Monsbourgh
-  - Yarra Yarra Jazz Band
+    - Norm Hodges
+    - Ade Monsbourgh
+    - Yarra Yarra Jazz Band
 spotify_data:
   followers: 1169
   id: 1KM7twlIXb6zx1pUpxi8r8
   popularity: 4
-  url: https://open.spotify.com/artist/1KM7twlIXb6zx1pUpxi8r8
+  url: 'https://open.spotify.com/artist/1KM7twlIXb6zx1pUpxi8r8'
 discography_enriched: true
 top_tracks:
-- Cake Walking Babies From Home (Louis Armstrong And King Oliver)
-- Terrible Blues (Louis Armstrong And King Oliver)
-- Of All the Wrongs You've Done To Me (Louis Armstrong And King Oliver)
-- Santa Claus Blues (Louis Armstrong And King Oliver)
-- Nobody Knows The Way I Feel This Morning (Louis Armstrong And King Oliver)
-- Texas Moaner Blues (Louis Armstrong And King Oliver)
-- Early Every Mornin' (Louis Armstrong And King Oliver)
-- The Santa Claus Blues - New Orleans Version (The Santa Claus Blues (New Orleans Version))
-- Santa Claus Blues (Blues Christmas Songs)
-- Santa Claus Blues (BD Music Presents Christmas Jazz)
+  - Cake Walking Babies From Home (Louis Armstrong And King Oliver)
+  - Terrible Blues (Louis Armstrong And King Oliver)
+  - Of All the Wrongs You've Done To Me (Louis Armstrong And King Oliver)
+  - Santa Claus Blues (Louis Armstrong And King Oliver)
+  - Nobody Knows The Way I Feel This Morning (Louis Armstrong And King Oliver)
+  - Texas Moaner Blues (Louis Armstrong And King Oliver)
+  - Early Every Mornin' (Louis Armstrong And King Oliver)
+  - >-
+    The Santa Claus Blues - New Orleans Version (The Santa Claus Blues (New
+    Orleans Version))
+  - Santa Claus Blues (Blues Christmas Songs)
+  - Santa Claus Blues (BD Music Presents Christmas Jazz)
 external_urls:
-  spotify: https://open.spotify.com/artist/1KM7twlIXb6zx1pUpxi8r8
-  wikipedia: https://en.wikipedia.org/wiki/The_Red_Onion_Jazz_Band
+  spotify: 'https://open.spotify.com/artist/1KM7twlIXb6zx1pUpxi8r8'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Red_Onion_Jazz_Band'
 image_path: 03_Resources/source_material/ArtistPortraits/red_onion_jazz_band.jpg
 biography_enhanced_at: '2025-11-23T06:24:15.766228'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Red_Onion_Jazz_Band
-- https://eric-myers-2aka.squarespace.com/s/JacksonAdrianBrowneMillerInterview.pdf
-- http://historyofaussiemusic.blogspot.com/2013/09/the-loved-ones.html
+  - 'https://en.wikipedia.org/wiki/The_Red_Onion_Jazz_Band'
+  - >-
+    https://eric-myers-2aka.squarespace.com/s/JacksonAdrianBrowneMillerInterview.pdf
+  - 'http://historyofaussiemusic.blogspot.com/2013/09/the-loved-ones.html'
 network_extracted: true
 entry_created: '2025-11-23T06:24:15.766237'
 last_updated: '2025-12-23T08:16:14.736744'
-origin: Melbourne, Victoria, Australia
+origin: 'Melbourne, Victoria, Australia'
+artist_type: band
 ---
 
 ![](red_onion_jazz_band.jpg)

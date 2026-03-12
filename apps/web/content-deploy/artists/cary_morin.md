@@ -4,34 +4,34 @@ wiki_slug: cary-morin
 schema_version: 2
 artist_type: person
 status: active
-birth_place: Billings
+birth_place: 'Billings, Montana, United States'
 genres:
-- blues
+  - blues
 instruments:
-- eponymous
-- lead vocals
-- original
-- principal
-- acoustic guitar
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - lead vocals
   - original
   - principal
-  mbid: 94743124-f198-472b-a3af-5ee5e19d73a7
-  name: Cary Morin & Ghost Dog
-- begin: ''
-  end: ''
-  instruments:
   - acoustic guitar
-  - eponymous
-  - original
-  - principal
-  mbid: 94743124-f198-472b-a3af-5ee5e19d73a7
-  name: Cary Morin & Ghost Dog
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - lead vocals
+      - original
+      - principal
+    mbid: 94743124-f198-472b-a3af-5ee5e19d73a7
+    name: Cary Morin & Ghost Dog
+  - begin: ''
+    end: ''
+    instruments:
+      - acoustic guitar
+      - eponymous
+      - original
+      - principal
+    mbid: 94743124-f198-472b-a3af-5ee5e19d73a7
+    name: Cary Morin & Ghost Dog
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/cary_morin.jpg
   caption: Cary Morin
@@ -52,57 +52,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Celeste Di Iorio
-  - The Atoll
-  - Young Ancients
-  - Kodō
+    - Celeste Di Iorio
+    - The Atoll
+    - Young Ancients
+    - Kodō
   influenced:
-  - David Bromberg
+    - David Bromberg
   mentors:
-  - Thomas Yellowtail
-  - Pura Fé
+    - Thomas Yellowtail
+    - Pura Fé
 spotify_data:
   followers: 4071
   id: 51oTB1rGltPYEUj9WqBqgh
   popularity: 21
-  url: https://open.spotify.com/artist/51oTB1rGltPYEUj9WqBqgh
+  url: 'https://open.spotify.com/artist/51oTB1rGltPYEUj9WqBqgh'
 discography_enriched: true
 top_tracks:
-- When the Levee Breaks (Tiny Town)
-- Prisoner (Together)
-- Tiny Town (Tiny Town)
-- Blue Delta Home (Dockside Saints)
-- When I Rise (When I Rise)
-- Obstacles to Negotiate (Tiny Town)
-- Wrong Side of the Law (Tiny Town)
-- Nobody Gotta Know (Dockside Saints)
-- Yellow Dog Blues (Tiny Town)
-- Cradle to the Grave (Cradle to the Grave)
+  - When the Levee Breaks (Tiny Town)
+  - Prisoner (Together)
+  - Tiny Town (Tiny Town)
+  - Blue Delta Home (Dockside Saints)
+  - When I Rise (When I Rise)
+  - Obstacles to Negotiate (Tiny Town)
+  - Wrong Side of the Law (Tiny Town)
+  - Nobody Gotta Know (Dockside Saints)
+  - Yellow Dog Blues (Tiny Town)
+  - Cradle to the Grave (Cradle to the Grave)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/fdb2b82c-aa0e-4edf-a6b6-0ec724e1c98e
-  spotify: https://open.spotify.com/artist/51oTB1rGltPYEUj9WqBqgh
-  wikipedia: https://en.wikipedia.org/wiki/Cary_Morin
+  musicbrainz: 'https://musicbrainz.org/artist/fdb2b82c-aa0e-4edf-a6b6-0ec724e1c98e'
+  spotify: 'https://open.spotify.com/artist/51oTB1rGltPYEUj9WqBqgh'
+  wikipedia: 'https://en.wikipedia.org/wiki/Cary_Morin'
 image_path: 03_Resources/source_material/ArtistPortraits/cary_morin.jpg
 biography_enhanced_at: '2025-12-04T08:17:02.043758'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Cary Morin
-- Music Maker - Cary Morin
-- The Folk Project - Cary Morin
-- Colorado Sound - 7 Questions with Cary Morin
-- Cary Morin Official Website
-- Montana Public Radio - Musician's Spotlight
-- Big Blues Bender - Cary Morin
-- Livingston Songwriter Festival - Cary Morin Duo
+  - Wikipedia - Cary Morin
+  - Music Maker - Cary Morin
+  - The Folk Project - Cary Morin
+  - Colorado Sound - 7 Questions with Cary Morin
+  - Cary Morin Official Website
+  - Montana Public Radio - Musician's Spotlight
+  - Big Blues Bender - Cary Morin
+  - Livingston Songwriter Festival - Cary Morin Duo
 network_extracted: true
 entry_created: '2025-12-04T08:17:02.043765'
 last_updated: '2025-12-23T08:16:06.536911'
 gender: Male
 musicbrainz_id: fdb2b82c-aa0e-4edf-a6b6-0ec724e1c98e
 tags:
-- americana
-
+  - americana
+origin: 'Fort Collins, Colorado, United States'
 ---
 
 ![](cary_morin.jpg)

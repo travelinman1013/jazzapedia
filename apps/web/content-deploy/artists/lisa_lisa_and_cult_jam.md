@@ -1,99 +1,99 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-20T01:30:44.385393'
-birth_date: '1985'
+birth_date: '1966-01-15'
 enhancement_provider: perplexity
 entry_created: '2026-01-20T01:30:44.385400'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/504456e7-65c3-4088-9e63-e2bf04fa1ed4
-  spotify: https://open.spotify.com/artist/1vgjN6nIPNKiiQGE9PtzTT
-  wikipedia: https://en.wikipedia.org/wiki/Lisa_Lisa
+  musicbrainz: 'https://musicbrainz.org/artist/504456e7-65c3-4088-9e63-e2bf04fa1ed4'
+  spotify: 'https://open.spotify.com/artist/1vgjN6nIPNKiiQGE9PtzTT'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lisa_Lisa'
 genres:
-- freestyle
-- funk melody
+  - freestyle
+  - funk melody
 image_path: 03_Resources/source_material/ArtistPortraits/lisa_lisa_and_cult_jam.jpg
 instruments:
-- eponymous
+  - eponymous
 last_updated: '2026-01-20T01:30:44.385400'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9a5c5b71-e0be-49d2-b019-85aea5ee16f3
-  name: Gary Augustus
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 866b01a3-e3c4-4f76-a066-cb958460f8e1
-  name: Hubert Eaves III
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 49e6f2da-5a87-414a-90f9-5ddf9bf39ebc
-  name: Mike Hughes
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ab8b57bd-ecdf-4757-8f2d-4674e5e4e4b2
-  name: Keith Johnson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 03ac627d-83cb-4a44-bc88-8f194d4a4da9
-  name: Leo Colon
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: eebd2b54-8b6e-4ac0-99f2-95f6facd4787
-  name: Lisa Lisa
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 89da658f-9de1-4c8b-a567-bc7949df35a2
-  name: Little Toni Marsh
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a2e08788-38c0-4325-8690-a9b721e6f59c
-  name: Spanador
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 5c41efad-2e5a-40ea-9b4e-aa7b4ee4b390
-  name: Lisa Velez
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9a5c5b71-e0be-49d2-b019-85aea5ee16f3
+    name: Gary Augustus
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 866b01a3-e3c4-4f76-a066-cb958460f8e1
+    name: Hubert Eaves III
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 49e6f2da-5a87-414a-90f9-5ddf9bf39ebc
+    name: Mike Hughes
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ab8b57bd-ecdf-4757-8f2d-4674e5e4e4b2
+    name: Keith Johnson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 03ac627d-83cb-4a44-bc88-8f194d4a4da9
+    name: Leo Colon
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: eebd2b54-8b6e-4ac0-99f2-95f6facd4787
+    name: Lisa Lisa
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 89da658f-9de1-4c8b-a567-bc7949df35a2
+    name: Little Toni Marsh
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a2e08788-38c0-4325-8690-a9b721e6f59c
+    name: Spanador
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 5c41efad-2e5a-40ea-9b4e-aa7b4ee4b390
+    name: Lisa Velez
 musical_connections:
   collaborators:
-  - Mike Hughes
-  - Alex "Spanador" Moseley
-  - C&C Music Factory (Robert Clivilles and David Cole)
-  - Junior Vasquez
+    - Mike Hughes
+    - Alex "Spanador" Moseley
+    - C&C Music Factory (Robert Clivilles and David Cole)
+    - Junior Vasquez
   influenced:
-  - Allure
-  - Selena
-  - Jennifer Lopez
+    - Allure
+    - Selena
+    - Jennifer Lopez
   mentors:
-  - Full Force
+    - Full Force
 musicbrainz_id: 504456e7-65c3-4088-9e63-e2bf04fa1ed4
 network_extracted: true
-origin: Brooklyn
+origin: 'Brooklyn, New York, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Lisa_Lisa
-- https://www.last.fm/music/Lisa+Lisa+&+Cult+Jam/+wiki
-- https://danceparade.org/lisa-lisa/
-- https://newyorklifestylesmagazine.com/articles/2024/11/pr01.html
-- https://www.1055thedove.com/lsp/artist/bio/lisa-lisa-cult-jam/
+  - 'https://en.wikipedia.org/wiki/Lisa_Lisa'
+  - 'https://www.last.fm/music/Lisa+Lisa+&+Cult+Jam/+wiki'
+  - 'https://danceparade.org/lisa-lisa/'
+  - 'https://newyorklifestylesmagazine.com/articles/2024/11/pr01.html'
+  - 'https://www.1055thedove.com/lsp/artist/bio/lisa-lisa-cult-jam/'
 spotify_data:
   followers: 390851
   id: 1vgjN6nIPNKiiQGE9PtzTT
   popularity: 47
-  url: https://open.spotify.com/artist/1vgjN6nIPNKiiQGE9PtzTT
+  url: 'https://open.spotify.com/artist/1vgjN6nIPNKiiQGE9PtzTT'
 status: active
 tags:
-- downtempo
-- electro
-- freestyle
+  - downtempo
+  - electro
+  - freestyle
 title: Lisa Lisa & Cult Jam
 ---
 

@@ -1,125 +1,128 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 6291796b-a989-4639-a651-c9bd51aa7ca9
-  name: Gerry Mulligan and the Concert Jazz Band
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 78b711d1-43d7-464c-a110-490a8041fcf7
-  name: Gerry Mulligan Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - baritone saxophone
-  - eponymous
-  - original
-  mbid: be86d9c6-4228-489d-9928-91d766b83b94
-  name: Gerry Mulligan Sextet
-- begin: ''
-  end: ''
-  instruments:
-  - baritone saxophone
-  mbid: 16d2b8e6-8930-4c9e-856f-e6d096479350
-  name: The Miles Davis Nonet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 24ac7fef-ffca-487d-bc5a-195a2e8a6d90
-  name: Gerry Mulligan Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - baritone saxophone
-  mbid: b15c6ff1-64c3-4c9d-89d1-cf8c010b17d7
-  name: Gerry Mulligan – Paul Desmond Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 21f5d874-6792-4aa3-b265-a76bbdf8d488
-  name: Gerry Mulligan and His Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - baritone saxophone
-  mbid: c2394074-d243-41ff-881b-483d7d65810a
-  name: Gerry Mulligan Group
-- begin: ''
-  end: ''
-  instruments:
-  - baritone saxophone
-  mbid: 099889af-6556-44ee-bf7e-2ece3384c393
-  name: André Previn Ensemble
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 6291796b-a989-4639-a651-c9bd51aa7ca9
+    name: Gerry Mulligan and the Concert Jazz Band
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 78b711d1-43d7-464c-a110-490a8041fcf7
+    name: Gerry Mulligan Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - baritone saxophone
+      - eponymous
+      - original
+    mbid: be86d9c6-4228-489d-9928-91d766b83b94
+    name: Gerry Mulligan Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - baritone saxophone
+    mbid: 16d2b8e6-8930-4c9e-856f-e6d096479350
+    name: The Miles Davis Nonet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 24ac7fef-ffca-487d-bc5a-195a2e8a6d90
+    name: Gerry Mulligan Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - baritone saxophone
+    mbid: b15c6ff1-64c3-4c9d-89d1-cf8c010b17d7
+    name: Gerry Mulligan – Paul Desmond Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 21f5d874-6792-4aa3-b265-a76bbdf8d488
+    name: Gerry Mulligan and His Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - baritone saxophone
+    mbid: c2394074-d243-41ff-881b-483d7d65810a
+    name: Gerry Mulligan Group
+  - begin: ''
+    end: ''
+    instruments:
+      - baritone saxophone
+    mbid: 099889af-6556-44ee-bf7e-2ece3384c393
+    name: André Previn Ensemble
 biography_enhanced_at: '2026-01-19T01:12:40.675284'
 birth_date: '1927-04-06'
-birth_place: Queens
+birth_place: 'Queens, New York City, United States'
 death_date: '1996-01-20'
 enhancement_provider: perplexity
 entry_created: '2026-01-19T01:12:40.675291'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/68f19808-1f7b-46d4-bd1d-71aaf0f6b267
-  spotify: https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K
-  wikipedia: https://en.wikipedia.org/wiki/Gerry_Mulligan
+  musicbrainz: 'https://musicbrainz.org/artist/68f19808-1f7b-46d4-bd1d-71aaf0f6b267'
+  spotify: 'https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K'
+  wikipedia: 'https://en.wikipedia.org/wiki/Gerry_Mulligan'
 gender: Male
 genres:
-- cool jazz
-- jazz
-- jazz ballads
-- bebop
-- hard bop
+  - cool jazz
+  - jazz
+  - jazz ballads
+  - bebop
+  - hard bop
 image_path: 03_Resources/source_material/ArtistPortraits/gerry_mulligan.jpg
 instruments:
-- eponymous
-- original
-- baritone saxophone
-- piano
-- spoken vocals
+  - eponymous
+  - original
+  - baritone saxophone
+  - piano
+  - spoken vocals
 last_updated: '2026-01-19T01:12:40.675292'
 musical_connections:
   collaborators:
-  - Miles Davis
-  - Chet Baker
-  - Bob Brookmeyer
-  - Dave Brubeck
-  - Stan Kenton
-  - Thelonious Monk
-  - Paul Desmond
-  - Stan Getz
+    - Miles Davis
+    - Chet Baker
+    - Bob Brookmeyer
+    - Dave Brubeck
+    - Stan Kenton
+    - Thelonious Monk
+    - Paul Desmond
+    - Stan Getz
   influenced:
-  - West Coast Jazz Musicians
+    - West Coast Jazz Musicians
   mentors:
-  - Claude Thornhill
+    - Claude Thornhill
 musicbrainz_id: 68f19808-1f7b-46d4-bd1d-71aaf0f6b267
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.gerrymulligan.com/gerry-mulligan-biography/
-- https://nationaljazzarchive.org.uk/explore/interviews/1622937-gerry-mulligan-interview-1
-- https://en.wikipedia.org/wiki/Gerry_Mulligan
-- https://www.loc.gov/item/n82153045/gerry-mulligan/
-- https://concord.com/artist/gerry-mulligan/
-- https://43302.org/blog/gerry-mulligan-the-marion-years
-- https://jazzviews.net/being-gerry-mulligan-my-life-in-music/
+  - 'https://www.gerrymulligan.com/gerry-mulligan-biography/'
+  - >-
+    https://nationaljazzarchive.org.uk/explore/interviews/1622937-gerry-mulligan-interview-1
+  - 'https://en.wikipedia.org/wiki/Gerry_Mulligan'
+  - 'https://www.loc.gov/item/n82153045/gerry-mulligan/'
+  - 'https://concord.com/artist/gerry-mulligan/'
+  - 'https://43302.org/blog/gerry-mulligan-the-marion-years'
+  - 'https://jazzviews.net/being-gerry-mulligan-my-life-in-music/'
 spotify_data:
   followers: 114553
   id: 6l40OFJhuTbHQ9V12evc9K
   popularity: 48
-  url: https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K
+  url: 'https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K'
 status: active
 tags:
-- 2008 universal fire victim
-- bebop
-- big band
-title: GERRY MULLIGAN
+  - 2008 universal fire victim
+  - bebop
+  - big band
+title: Gerry Mulligan
+is_active: false
+origin: 'Philadelphia, Pennsylvania, United States'
 ---
 
 ![](gerry_mulligan.jpg)

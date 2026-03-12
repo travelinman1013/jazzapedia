@@ -5,13 +5,13 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1932-01-18'
-birth_place: Chicago
+birth_place: 'Chicago, Illinois, United States'
 death_date: '1978-08-15'
 genres:
-- vocal jazz
-- jazz
+  - vocal jazz
+  - jazz
 instruments:
-- lead vocals
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/irene_kral.jpg
   caption: Irene Kral
@@ -20,7 +20,7 @@ infobox:
   origin: Chicago
   died: '1978-08-15'
 audio_profile:
-  tempo_avg: 111.0
+  tempo_avg: 111
   energy_avg: 0.198
   valence_avg: 0.371
   danceability_avg: 0.508
@@ -34,57 +34,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Herb Pomeroy
-  - Maynard Ferguson
-  - Junior Mance
-  - Alan Broadbent
-  - Laurindo Almeida
+    - Herb Pomeroy
+    - Maynard Ferguson
+    - Junior Mance
+    - Alan Broadbent
+    - Laurindo Almeida
   influenced:
-  - Carmen McRae
-  - Sue Matsuki
+    - Carmen McRae
+    - Sue Matsuki
   mentors:
-  - Roy Kral
-  - Steve Allen
+    - Roy Kral
+    - Steve Allen
 spotify_data:
   followers: 13901
   id: 5O996HwuG2b83Wa7obBtgE
   popularity: 37
-  url: https://open.spotify.com/artist/5O996HwuG2b83Wa7obBtgE
+  url: 'https://open.spotify.com/artist/5O996HwuG2b83Wa7obBtgE'
 discography_enriched: true
 top_tracks:
-- Lazy Afternoon (The Band And I)
-- I Like You, You're Nice (Where Is Love?)
-- Comes Love (The Band And I)
-- Love Came On Stealthy Fingers (Where Is Love?)
-- When I Look In Your Eyes (Where Is Love?)
-- I'd Know You Anywhere (The Band And I)
-- Never Let Me Go (Where Is Love?)
-- Everybody Knew But Me (The Band And I)
-- Memphis In June (The Band And I)
-- It Isn't So Good (The Band And I)
+  - Lazy Afternoon (The Band And I)
+  - 'I Like You, You''re Nice (Where Is Love?)'
+  - Comes Love (The Band And I)
+  - Love Came On Stealthy Fingers (Where Is Love?)
+  - When I Look In Your Eyes (Where Is Love?)
+  - I'd Know You Anywhere (The Band And I)
+  - Never Let Me Go (Where Is Love?)
+  - Everybody Knew But Me (The Band And I)
+  - Memphis In June (The Band And I)
+  - It Isn't So Good (The Band And I)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/399f29b2-0fe4-430a-aefe-7929efa7fcfb
-  spotify: https://open.spotify.com/artist/5O996HwuG2b83Wa7obBtgE
+  musicbrainz: 'https://musicbrainz.org/artist/399f29b2-0fe4-430a-aefe-7929efa7fcfb'
+  spotify: 'https://open.spotify.com/artist/5O996HwuG2b83Wa7obBtgE'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/irene_kral.jpg
 biography_enhanced_at: '2025-12-04T08:07:24.292492'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- 'jamesgavin.com - Irene Kral: The Band & I'
-- danacountryman.com - Irene Kral Biography
-- getsongkey.com - Irene Kral
-- 'jazztimes.com - Irene Kral: Second Chance'
-- 'cabaretscenes.org - Sue Matsuki: Kral Space: Celebrating Irene Kral'
-- jazzleadsheets.com - Irene Kral Artist
-- substack.com - Where is Irene Kral?
+  - 'jamesgavin.com - Irene Kral: The Band & I'
+  - danacountryman.com - Irene Kral Biography
+  - getsongkey.com - Irene Kral
+  - 'jazztimes.com - Irene Kral: Second Chance'
+  - 'cabaretscenes.org - Sue Matsuki: Kral Space: Celebrating Irene Kral'
+  - jazzleadsheets.com - Irene Kral Artist
+  - substack.com - Where is Irene Kral?
 network_extracted: true
 entry_created: '2025-12-04T08:07:24.292505'
 last_updated: '2025-12-23T08:16:09.878684'
 gender: Female
 musicbrainz_id: 399f29b2-0fe4-430a-aefe-7929efa7fcfb
 tags:
-- jazz
+  - jazz
+is_active: false
 ---
 
 ![](irene_kral.jpg)

@@ -2,25 +2,25 @@
 title: The Christmas Jug Band
 wiki_slug: the-christmas-jug-band
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: 1977-12
 genres:
-- christmas
+  - christmas
 instruments:
-- piano
-- guitar
-- lead vocals
-- accordion
-- drums (drum set)
-- washboard
-- washtub bass
-- percussion
-- original
-- clarinet
-- tenor saxophone
-- double bass
-- upright piano
+  - piano
+  - guitar
+  - lead vocals
+  - accordion
+  - drums (drum set)
+  - washboard
+  - washtub bass
+  - percussion
+  - original
+  - clarinet
+  - tenor saxophone
+  - double bass
+  - upright piano
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_christmas_jug_band.jpg
   caption: The Christmas Jug Band
@@ -41,195 +41,201 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Gregory Leroy "Duke Dagreeze" Dewey
-  - Nicholas Q. Dewey
-  - Tim Eschliman
-  - Paul Wenninger
-  - Austin De Lone
-  - Paul Rogers
-  - Jim Rothermel
-  - Angela Strehli
-  - Maria Muldaur
+    - Gregory Leroy "Duke Dagreeze" Dewey
+    - Nicholas Q. Dewey
+    - Tim Eschliman
+    - Paul Wenninger
+    - Austin De Lone
+    - Paul Rogers
+    - Jim Rothermel
+    - Angela Strehli
+    - Maria Muldaur
   influenced: []
   mentors:
-  - Dan Hicks
+    - Dan Hicks
 spotify_data:
   followers: 775
   id: 6IfoA6PLkiXR6N6rC9rEFc
   popularity: 24
-  url: https://open.spotify.com/artist/6IfoA6PLkiXR6N6rC9rEFc
+  url: 'https://open.spotify.com/artist/6IfoA6PLkiXR6N6rC9rEFc'
 discography_enriched: true
 top_tracks:
-- Santa Lost a Ho (Uncorked)
-- Boogie Woogie Santa Claus (Uncorked)
-- Santa's Workshop (Uncorked)
-- Plant a Santa (Uncorked)
-- Lonesome Reindeer Blues - Parody based on Lonesome Whistle Blues (Uncorked)
-- He's On Holiday In His Mind (Tree Side Hoot)
-- Santa Claus Is Coming to Town (Mistletoe Jam)
-- Twas The Night Before Christmas - Traditional, arrangement by Greg Dewey & The Christmas Jug Band (Mistletoe Jam)
-- Somebody Stole My Santa Claus Suit (Jugology - Greatest Near Misses (Best Of...))
-- Rudolf the Bald Headed Reindeer (Jugology - Greatest Near Misses (Best Of...))
+  - Santa Lost a Ho (Uncorked)
+  - Boogie Woogie Santa Claus (Uncorked)
+  - Santa's Workshop (Uncorked)
+  - Plant a Santa (Uncorked)
+  - Lonesome Reindeer Blues - Parody based on Lonesome Whistle Blues (Uncorked)
+  - He's On Holiday In His Mind (Tree Side Hoot)
+  - Santa Claus Is Coming to Town (Mistletoe Jam)
+  - >-
+    Twas The Night Before Christmas - Traditional, arrangement by Greg Dewey &
+    The Christmas Jug Band (Mistletoe Jam)
+  - >-
+    Somebody Stole My Santa Claus Suit (Jugology - Greatest Near Misses (Best
+    Of...))
+  - >-
+    Rudolf the Bald Headed Reindeer (Jugology - Greatest Near Misses (Best
+    Of...))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/0fe4a7c0-309d-43b3-833a-283f0d16bf5b
-  spotify: https://open.spotify.com/artist/6IfoA6PLkiXR6N6rC9rEFc
+  musicbrainz: 'https://musicbrainz.org/artist/0fe4a7c0-309d-43b3-833a-283f0d16bf5b'
+  spotify: 'https://open.spotify.com/artist/6IfoA6PLkiXR6N6rC9rEFc'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/the_christmas_jug_band.jpg
 biography_enhanced_at: '2025-12-22T01:44:00.487397'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- christmasjugband.com/media/cjbstory10-24-02.pdf
-- christmasjugband.com/story.html
-- last.fm/music/The+Christmas+Jug+Band/+wiki
-- christmasjugband.com
-- metrosiliconvalley.com/bohemian/12.12.07/music-jug-0750.html
-- allmusic.com/artist/christmas-jug-band-mn0000072048
-- sweetwatermusichall.org
-- kalw.org/arts-culture/2017-12-13/fog-city-blues-the-christmas-jug-band
+  - christmasjugband.com/media/cjbstory10-24-02.pdf
+  - christmasjugband.com/story.html
+  - last.fm/music/The+Christmas+Jug+Band/+wiki
+  - christmasjugband.com
+  - metrosiliconvalley.com/bohemian/12.12.07/music-jug-0750.html
+  - allmusic.com/artist/christmas-jug-band-mn0000072048
+  - sweetwatermusichall.org
+  - kalw.org/arts-culture/2017-12-13/fog-city-blues-the-christmas-jug-band
 network_extracted: true
 entry_created: '2025-12-22T01:44:00.487402'
 last_updated: '2025-12-23T08:16:16.643040'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: 543dc3f9-841b-45ed-8b66-a770c59c1b2b
-  name: Austin De Lone
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: 543dc3f9-841b-45ed-8b66-a770c59c1b2b
-  name: Austin De Lone
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: 543dc3f9-841b-45ed-8b66-a770c59c1b2b
-  name: Austin De Lone
-- begin: ''
-  end: ''
-  instruments:
-  - accordion
-  mbid: 543dc3f9-841b-45ed-8b66-a770c59c1b2b
-  name: Austin De Lone
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 63992687-d4e4-4531-b273-19e07e021466
-  name: Greg Dewey
-- begin: ''
-  end: ''
-  instruments:
-  - washboard
-  mbid: 63992687-d4e4-4531-b273-19e07e021466
-  name: Greg Dewey
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: 63992687-d4e4-4531-b273-19e07e021466
-  name: Greg Dewey
-- begin: ''
-  end: ''
-  instruments:
-  - washtub bass
-  mbid: 94aab43e-a04b-4824-9928-044d922f4766
-  name: Tim Eschliman
-- begin: ''
-  end: ''
-  instruments:
-  - percussion
-  mbid: 94aab43e-a04b-4824-9928-044d922f4766
-  name: Tim Eschliman
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: 94aab43e-a04b-4824-9928-044d922f4766
-  name: Tim Eschliman
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: 94aab43e-a04b-4824-9928-044d922f4766
-  name: Tim Eschliman
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  - lead vocals
-  - original
-  - percussion
-  mbid: c102c9de-1c02-432e-bc48-342f9124b118
-  name: Dan Hicks
-- begin: ''
-  end: ''
-  instruments:
-  - clarinet
-  - original
-  mbid: 6138728a-0067-444d-9ebc-8f10f40f9a3e
-  name: Ken Jacobs
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  - tenor saxophone
-  mbid: 6138728a-0067-444d-9ebc-8f10f40f9a3e
-  name: Ken Jacobs
-- begin: ''
-  end: ''
-  instruments:
-  - washtub bass
-  mbid: edd97fb2-1416-4418-b1ba-ef6a1dcf8da7
-  name: Blake Richardson
-- begin: ''
-  end: ''
-  instruments:
-  - double bass
-  mbid: edd97fb2-1416-4418-b1ba-ef6a1dcf8da7
-  name: Blake Richardson
-- begin: ''
-  end: ''
-  instruments:
-  - upright piano
-  mbid: c304fb30-b1e2-4b20-b208-22fb13328010
-  name: Paul Rogers
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: c304fb30-b1e2-4b20-b208-22fb13328010
-  name: Paul Rogers
-- begin: ''
-  end: ''
-  instruments:
-  - accordion
-  mbid: c304fb30-b1e2-4b20-b208-22fb13328010
-  name: Paul Rogers
-- begin: ''
-  end: ''
-  instruments:
-  - clarinet
-  mbid: 79579e9e-2104-465a-afa9-78704dd28d05
-  name: Jim Rothermel
-- begin: ''
-  end: ''
-  instruments:
-  - tenor saxophone
-  mbid: 79579e9e-2104-465a-afa9-78704dd28d05
-  name: Jim Rothermel
-- begin: ''
-  end: ''
-  instruments:
-  - washtub bass
-  mbid: ad241be7-5a72-4941-97ac-faa54b154e15
-  name: Paul Wenninger
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: 543dc3f9-841b-45ed-8b66-a770c59c1b2b
+    name: Austin De Lone
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 543dc3f9-841b-45ed-8b66-a770c59c1b2b
+    name: Austin De Lone
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: 543dc3f9-841b-45ed-8b66-a770c59c1b2b
+    name: Austin De Lone
+  - begin: ''
+    end: ''
+    instruments:
+      - accordion
+    mbid: 543dc3f9-841b-45ed-8b66-a770c59c1b2b
+    name: Austin De Lone
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 63992687-d4e4-4531-b273-19e07e021466
+    name: Greg Dewey
+  - begin: ''
+    end: ''
+    instruments:
+      - washboard
+    mbid: 63992687-d4e4-4531-b273-19e07e021466
+    name: Greg Dewey
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: 63992687-d4e4-4531-b273-19e07e021466
+    name: Greg Dewey
+  - begin: ''
+    end: ''
+    instruments:
+      - washtub bass
+    mbid: 94aab43e-a04b-4824-9928-044d922f4766
+    name: Tim Eschliman
+  - begin: ''
+    end: ''
+    instruments:
+      - percussion
+    mbid: 94aab43e-a04b-4824-9928-044d922f4766
+    name: Tim Eschliman
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 94aab43e-a04b-4824-9928-044d922f4766
+    name: Tim Eschliman
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: 94aab43e-a04b-4824-9928-044d922f4766
+    name: Tim Eschliman
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+      - lead vocals
+      - original
+      - percussion
+    mbid: c102c9de-1c02-432e-bc48-342f9124b118
+    name: Dan Hicks
+  - begin: ''
+    end: ''
+    instruments:
+      - clarinet
+      - original
+    mbid: 6138728a-0067-444d-9ebc-8f10f40f9a3e
+    name: Ken Jacobs
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - tenor saxophone
+    mbid: 6138728a-0067-444d-9ebc-8f10f40f9a3e
+    name: Ken Jacobs
+  - begin: ''
+    end: ''
+    instruments:
+      - washtub bass
+    mbid: edd97fb2-1416-4418-b1ba-ef6a1dcf8da7
+    name: Blake Richardson
+  - begin: ''
+    end: ''
+    instruments:
+      - double bass
+    mbid: edd97fb2-1416-4418-b1ba-ef6a1dcf8da7
+    name: Blake Richardson
+  - begin: ''
+    end: ''
+    instruments:
+      - upright piano
+    mbid: c304fb30-b1e2-4b20-b208-22fb13328010
+    name: Paul Rogers
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: c304fb30-b1e2-4b20-b208-22fb13328010
+    name: Paul Rogers
+  - begin: ''
+    end: ''
+    instruments:
+      - accordion
+    mbid: c304fb30-b1e2-4b20-b208-22fb13328010
+    name: Paul Rogers
+  - begin: ''
+    end: ''
+    instruments:
+      - clarinet
+    mbid: 79579e9e-2104-465a-afa9-78704dd28d05
+    name: Jim Rothermel
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: 79579e9e-2104-465a-afa9-78704dd28d05
+    name: Jim Rothermel
+  - begin: ''
+    end: ''
+    instruments:
+      - washtub bass
+    mbid: ad241be7-5a72-4941-97ac-faa54b154e15
+    name: Paul Wenninger
 musicbrainz_id: 0fe4a7c0-309d-43b3-833a-283f0d16bf5b
-origin: Mill Valley
+origin: 'Mill Valley, California, United States'
 ---
 
 ![](the_christmas_jug_band.jpg)

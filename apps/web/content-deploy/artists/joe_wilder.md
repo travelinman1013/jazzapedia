@@ -3,21 +3,21 @@ title: Joe Wilder
 wiki_slug: joe-wilder
 schema_version: 2
 status: active
-birth_place: Colwyn, Pennsylvania, United States
+birth_place: 'Colwyn, Pennsylvania, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/joe_wilder.jpg
   caption: Joe Wilder
   background: solo_singer
-  origin: Colwyn, Pennsylvania, United States
+  origin: 'Colwyn, Pennsylvania, United States'
 audio_profile:
-  tempo_avg: 112.0
+  tempo_avg: 112
   energy_avg: 0.183
   valence_avg: 0.362
   danceability_avg: 0.475
   acousticness_avg: 0.897
   instrumentalness_avg: 0.274
-  loudness_avg: -19.0
+  loudness_avg: -19
   speechiness_avg: 0.061
   liveness_avg: 0.211
   track_count: 50
@@ -25,50 +25,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Count Basie
-  - Dizzy Gillespie
-  - Benny Goodman
-  - Gil Evans
-  - Hank Jones
-  - Billie Holiday
-  - Tony Bennett
+    - Count Basie
+    - Dizzy Gillespie
+    - Benny Goodman
+    - Gil Evans
+    - Hank Jones
+    - Billie Holiday
+    - Tony Bennett
   influenced:
-  - Terell Stafford
+    - Terell Stafford
   mentors:
-  - Curtis Wilder
-  - Joseph Alessi Sr.
+    - Curtis Wilder
+    - Joseph Alessi Sr.
 spotify_data:
   followers: 602
   id: 4Dpnb9p4xJbO0PcQ93vfY0
   popularity: 4
-  url: https://open.spotify.com/artist/4Dpnb9p4xJbO0PcQ93vfY0
+  url: 'https://open.spotify.com/artist/4Dpnb9p4xJbO0PcQ93vfY0'
 discography_enriched: true
 top_tracks:
-- People Time (Among Friends)
-- Six Bit Blues (Wilder 'N' Wilder)
-- Cherokee (Wilder 'N' Wilder)
-- Prelude To A Kiss (Wilder 'N' Wilder)
-- Darn That Dream (Wilder 'N' Wilder)
-- Stormy Weather (Eileen Farrell Sings Torch Songs)
-- You'd Be So Nice to Come Home To - Live at the 92nd Street Y, New York City
-- Every Time (The Swingin' Sessions 1954-1955 Vol. 2)
-- My Heart Stood Still (Wilder 'N' Wilder)
-- Mad About The Boy (Wilder 'N' Wilder)
+  - People Time (Among Friends)
+  - Six Bit Blues (Wilder 'N' Wilder)
+  - Cherokee (Wilder 'N' Wilder)
+  - Prelude To A Kiss (Wilder 'N' Wilder)
+  - Darn That Dream (Wilder 'N' Wilder)
+  - Stormy Weather (Eileen Farrell Sings Torch Songs)
+  - 'You''d Be So Nice to Come Home To - Live at the 92nd Street Y, New York City'
+  - Every Time (The Swingin' Sessions 1954-1955 Vol. 2)
+  - My Heart Stood Still (Wilder 'N' Wilder)
+  - Mad About The Boy (Wilder 'N' Wilder)
 external_urls:
-  spotify: https://open.spotify.com/artist/4Dpnb9p4xJbO0PcQ93vfY0
-  wikipedia: https://en.wikipedia.org/wiki/Joe_Wilder
+  spotify: 'https://open.spotify.com/artist/4Dpnb9p4xJbO0PcQ93vfY0'
+  wikipedia: 'https://en.wikipedia.org/wiki/Joe_Wilder'
 image_path: 03_Resources/source_material/ArtistPortraits/joe_wilder.jpg
 biography_enhanced_at: '2025-11-03T07:30:02.999161'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Joe_Wilder
-- https://www.arts.gov/honors/jazz/joe-wilder
-- https://jazztimes.com/archives/joe-wilder/
-- https://namm.org/library/oral-history/joe-wilder
+  - 'https://en.wikipedia.org/wiki/Joe_Wilder'
+  - 'https://www.arts.gov/honors/jazz/joe-wilder'
+  - 'https://jazztimes.com/archives/joe-wilder/'
+  - 'https://namm.org/library/oral-history/joe-wilder'
 network_extracted: true
 entry_created: '2025-11-03T07:30:02.999171'
 last_updated: '2025-12-23T08:16:10.678180'
+artist_type: person
 ---
 
 ![](joe_wilder.jpg)

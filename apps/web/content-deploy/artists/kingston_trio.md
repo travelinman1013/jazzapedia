@@ -1,10 +1,10 @@
 ---
-title: kingston trio
+title: The Kingston Trio
 wiki_slug: kingston-trio
 schema_version: 2
 status: active
 genres:
-- folk
+  - folk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/kingston_trio.jpg
   caption: kingston trio
@@ -24,60 +24,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dave Guard
-  - Bob Shane
-  - Nick Reynolds
-  - John Stewart
-  - George Grove
-  - Roger Gambill
+    - Dave Guard
+    - Bob Shane
+    - Nick Reynolds
+    - John Stewart
+    - George Grove
+    - Roger Gambill
   influenced:
-  - Peter, Paul and Mary
-  - Bob Dylan
-  - The Limeliters
-  - The Brothers Four
+    - 'Peter, Paul and Mary'
+    - Bob Dylan
+    - The Limeliters
+    - The Brothers Four
   mentors:
-  - Woody Guthrie
-  - Pete Seeger
-  - The Weavers
-  - Gabby Pahinui
+    - Woody Guthrie
+    - Pete Seeger
+    - The Weavers
+    - Gabby Pahinui
 spotify_data:
   followers: 123597
   id: 3qtcbDvdIgQOXkPbtRvBaQ
   popularity: 39
-  url: https://open.spotify.com/artist/3qtcbDvdIgQOXkPbtRvBaQ
+  url: 'https://open.spotify.com/artist/3qtcbDvdIgQOXkPbtRvBaQ'
 discography_enriched: true
 top_tracks:
-- Where Have All The Flowers Gone? - Remastered (The Capitol Collector's Series)
-- Tom Dooley (The Kingston Trio)
-- Greenback Dollar (New Frontier)
-- M.T.A. (Kingston Trio At Large)
-- Scotch And Soda (The Kingston Trio)
-- Sloop John B (The Kingston Trio)
-- Tom Dooley - Remastered (The Capitol Collector's Series)
-- Chilly Winds - Live
-- The Tijuana Jail - 1990 Digital Remaster (The Capitol Collector's Series)
-- Try To Remember (#16)
+  - >-
+    Where Have All The Flowers Gone? - Remastered (The Capitol Collector's
+    Series)
+  - Tom Dooley (The Kingston Trio)
+  - Greenback Dollar (New Frontier)
+  - M.T.A. (Kingston Trio At Large)
+  - Scotch And Soda (The Kingston Trio)
+  - Sloop John B (The Kingston Trio)
+  - Tom Dooley - Remastered (The Capitol Collector's Series)
+  - Chilly Winds - Live
+  - The Tijuana Jail - 1990 Digital Remaster (The Capitol Collector's Series)
+  - Try To Remember (#16)
 external_urls:
-  spotify: https://open.spotify.com/artist/3qtcbDvdIgQOXkPbtRvBaQ
+  spotify: 'https://open.spotify.com/artist/3qtcbDvdIgQOXkPbtRvBaQ'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/kingston_trio.jpg
 biography_enhanced_at: '2025-11-20T07:30:41.538923'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- spclarke.com - The Kingston Trio
-- sandiegotroubadour.com - The Kingston Trio Carry On
-- mayoarts.org - The Kingston Trio with The Brothers Four and The Limeliters
-- vocalgroup.org - The Kingston Trio (Vocal Group Hall of Fame)
-- britannica.com - The Kingston Trio
-- kingstontrio.com - About
-- 'study.com - The Kingston Trio: History, Members & Songs'
-- UW Digital Collections - Kingston Trio Records, 1956-1986
+  - spclarke.com - The Kingston Trio
+  - sandiegotroubadour.com - The Kingston Trio Carry On
+  - mayoarts.org - The Kingston Trio with The Brothers Four and The Limeliters
+  - vocalgroup.org - The Kingston Trio (Vocal Group Hall of Fame)
+  - britannica.com - The Kingston Trio
+  - kingstontrio.com - About
+  - 'study.com - The Kingston Trio: History, Members & Songs'
+  - 'UW Digital Collections - Kingston Trio Records, 1956-1986'
 network_extracted: true
 entry_created: '2025-11-20T07:30:41.538931'
 last_updated: '2025-12-23T08:16:11.427574'
-origin: Palo Alto, California, United States
-
+origin: 'Palo Alto, California, United States'
+artist_type: band
 ---
 
 ![](kingston_trio.jpg)

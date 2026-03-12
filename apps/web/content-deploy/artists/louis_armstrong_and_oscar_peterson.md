@@ -4,10 +4,11 @@ wiki_slug: louis-armstrong-oscar-peterson
 schema_version: 2
 status: active
 genres:
-- big band
-- jazz
+  - big band
+  - jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/louis_armstrong_and_oscar_peterson.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/louis_armstrong_and_oscar_peterson.jpg
   caption: Louis Armstrong & Oscar Peterson
   background: solo_singer
 audio_profile:
@@ -25,47 +26,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Oscar Peterson
-  - Herb Ellis
-  - Ray Brown
-  - Louis Bellson
-  - Norman Granz
+    - Oscar Peterson
+    - Herb Ellis
+    - Ray Brown
+    - Louis Bellson
+    - Norman Granz
   influenced: []
   mentors: []
 spotify_data:
   followers: 687
   id: 1hcIFNujgjY8Mrf5Iidlaf
   popularity: 12
-  url: https://open.spotify.com/artist/1hcIFNujgjY8Mrf5Iidlaf
+  url: 'https://open.spotify.com/artist/1hcIFNujgjY8Mrf5Iidlaf'
 discography_enriched: true
 top_tracks:
-- La vie en rose - Single Version (La Vie En Rose (Deluxe Edition))
-- C'est si bon (La Vie En Rose (Deluxe Edition))
-- Because Of You (La Vie En Rose (Deluxe Edition))
-- La vie en rose - Single Version (La Vie En Rose)
-- Ramona (La Vie En Rose (Deluxe Edition))
-- When The Saints Go Marching In - Single Version (When the Saints Go Marching In)
-- If I Could Be With You (One Hour Tonight) - 1983 Satchmo Version (La Vie En Rose (Deluxe Edition))
-- I'm Confessin' (That I Love You) - Single Version (La Vie En Rose (Deluxe Edition))
-- I'm In The Mood For Love - Single Version (La Vie En Rose (Deluxe Edition))
-- I Never Knew - Single Version (La Vie En Rose (Deluxe Edition))
+  - La vie en rose - Single Version (La Vie En Rose (Deluxe Edition))
+  - C'est si bon (La Vie En Rose (Deluxe Edition))
+  - Because Of You (La Vie En Rose (Deluxe Edition))
+  - La vie en rose - Single Version (La Vie En Rose)
+  - Ramona (La Vie En Rose (Deluxe Edition))
+  - >-
+    When The Saints Go Marching In - Single Version (When the Saints Go Marching
+    In)
+  - >-
+    If I Could Be With You (One Hour Tonight) - 1983 Satchmo Version (La Vie En
+    Rose (Deluxe Edition))
+  - >-
+    I'm Confessin' (That I Love You) - Single Version (La Vie En Rose (Deluxe
+    Edition))
+  - I'm In The Mood For Love - Single Version (La Vie En Rose (Deluxe Edition))
+  - I Never Knew - Single Version (La Vie En Rose (Deluxe Edition))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/fd767f7c-7aaa-49e8-aded-921035266b1a
-  spotify: https://open.spotify.com/artist/1hcIFNujgjY8Mrf5Iidlaf
-  wikipedia: https://en.wikipedia.org/wiki/Louis_Armstrong_Meets_Oscar_Peterson
-image_path: 03_Resources/source_material/ArtistPortraits/louis_armstrong_and_oscar_peterson.jpg
+  musicbrainz: 'https://musicbrainz.org/artist/fd767f7c-7aaa-49e8-aded-921035266b1a'
+  spotify: 'https://open.spotify.com/artist/1hcIFNujgjY8Mrf5Iidlaf'
+  wikipedia: 'https://en.wikipedia.org/wiki/Louis_Armstrong_Meets_Oscar_Peterson'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/louis_armstrong_and_oscar_peterson.jpg
 biography_enhanced_at: '2025-11-26T07:46:49.082387'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Louis_Armstrong_Meets_Oscar_Peterson
-- https://www.udiscovermusic.com/stories/rediscover-louis-armstrong-meets-oscar-peterson/
-- https://www.jazzmessengers.com/en/5880/louis-armstrong/louis-armstrong-meets-oscar-peterson
-- https://dlmediamusic.com/press-releases/acoustic-sounds-getz-gilberto-louis-armstrong-oscar-peterson/
+  - 'https://en.wikipedia.org/wiki/Louis_Armstrong_Meets_Oscar_Peterson'
+  - >-
+    https://www.udiscovermusic.com/stories/rediscover-louis-armstrong-meets-oscar-peterson/
+  - >-
+    https://www.jazzmessengers.com/en/5880/louis-armstrong/louis-armstrong-meets-oscar-peterson
+  - >-
+    https://dlmediamusic.com/press-releases/acoustic-sounds-getz-gilberto-louis-armstrong-oscar-peterson/
 network_extracted: true
 entry_created: '2025-11-26T07:46:49.082394'
 last_updated: '2025-12-23T08:16:12.209707'
 musicbrainz_id: fd767f7c-7aaa-49e8-aded-921035266b1a
+origin: 'Hollywood, California, United States (recording location)'
+artist_type: band
 ---
 
 ![](louis_armstrong_and_oscar_peterson.jpg)

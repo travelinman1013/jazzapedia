@@ -6,7 +6,7 @@ artist_type: person
 status: active
 birth_place: Harahan
 genres:
-- garage rock
+  - garage rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/king_louie_one_man_band.jpg
   caption: King Louie One Man Band
@@ -27,62 +27,67 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Michael Hurtt
-  - J. Matthew Uhlman
-  - G. Thomas Oliver
-  - Jason Panzer
-  - Shaggy
-  - Julien Fried
-  - Aaron Hill
-  - Bennette Bartley
-  - Jack Oblivian
-  - Harlan T. Bobo
-  - Gary Wrong
-  - Terry Six
-  - Mr. Quintron
-  - Eric Oblivian
-  - Jay Reatard
+    - Michael Hurtt
+    - J. Matthew Uhlman
+    - G. Thomas Oliver
+    - Jason Panzer
+    - Shaggy
+    - Julien Fried
+    - Aaron Hill
+    - Bennette Bartley
+    - Jack Oblivian
+    - Harlan T. Bobo
+    - Gary Wrong
+    - Terry Six
+    - Mr. Quintron
+    - Eric Oblivian
+    - Jay Reatard
   influenced: []
   mentors:
-  - Alex Chilton
+    - Alex Chilton
 spotify_data:
   followers: 523
   id: 4KeeU21zcifwmfHS305WRH
   popularity: 0
-  url: https://open.spotify.com/artist/4KeeU21zcifwmfHS305WRH
+  url: 'https://open.spotify.com/artist/4KeeU21zcifwmfHS305WRH'
 discography_enriched: true
 top_tracks:
-- Beat Up by a Girl (Gonerfest 2)
-- Jesus Loves My One Man Band (Jesus Loves My One Man Band)
-- She's a Big Bopper (Chinese Crawfish)
-- One Man (Jesus Loves My One Man Band)
-- Nuclear Crucifixion (Jesus Loves My One Man Band)
-- Don't Cook That Cabbage (It Makes the Whole House Stink!) (Jesus Loves My One Man Band)
-- Headin' for the Big City Lights (Jesus Loves My One Man Band)
-- Pumpin' Propane (Jesus Loves My One Man Band)
-- A Hitchiker's Souvenier (Jesus Loves My One Man Band)
-- Doin' the Pork Chop (Jesus Loves My One Man Band)
+  - Beat Up by a Girl (Gonerfest 2)
+  - Jesus Loves My One Man Band (Jesus Loves My One Man Band)
+  - She's a Big Bopper (Chinese Crawfish)
+  - One Man (Jesus Loves My One Man Band)
+  - Nuclear Crucifixion (Jesus Loves My One Man Band)
+  - >-
+    Don't Cook That Cabbage (It Makes the Whole House Stink!) (Jesus Loves My
+    One Man Band)
+  - Headin' for the Big City Lights (Jesus Loves My One Man Band)
+  - Pumpin' Propane (Jesus Loves My One Man Band)
+  - A Hitchiker's Souvenier (Jesus Loves My One Man Band)
+  - Doin' the Pork Chop (Jesus Loves My One Man Band)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e945a1b6-1483-4aa2-9aee-7467a5f83e20
-  spotify: https://open.spotify.com/artist/4KeeU21zcifwmfHS305WRH
-  wikipedia: https://en.wikipedia.org/wiki/King_Louie_Bankston
+  musicbrainz: 'https://musicbrainz.org/artist/e945a1b6-1483-4aa2-9aee-7467a5f83e20'
+  spotify: 'https://open.spotify.com/artist/4KeeU21zcifwmfHS305WRH'
+  wikipedia: 'https://en.wikipedia.org/wiki/King_Louie_Bankston'
 image_path: 03_Resources/source_material/ArtistPortraits/king_louie_one_man_band.jpg
 biography_enhanced_at: '2025-12-04T07:30:13.607631'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - King Louie Bankston
-- Forced Exposure - King Louie Bankston
-- Ghettoblaster Magazine - King Louie Bankston Shares Gone Too Far
-- 64 Parishes - Between the Guitar Solo and the Ooh-La-La
-- 'Daily Kos - IVH: King Louie Bankston / Harahan Fats'
-- ANTIGRAVITY Magazine - A King Louie Top 9
-- MusicBrainz - King Louie One Man Band
+  - Wikipedia - King Louie Bankston
+  - Forced Exposure - King Louie Bankston
+  - Ghettoblaster Magazine - King Louie Bankston Shares Gone Too Far
+  - 64 Parishes - Between the Guitar Solo and the Ooh-La-La
+  - 'Daily Kos - IVH: King Louie Bankston / Harahan Fats'
+  - ANTIGRAVITY Magazine - A King Louie Top 9
+  - MusicBrainz - King Louie One Man Band
 network_extracted: true
 entry_created: '2025-12-04T07:30:13.607641'
 last_updated: '2025-12-23T08:16:02.878201'
 gender: Male
 musicbrainz_id: e945a1b6-1483-4aa2-9aee-7467a5f83e20
+birth_date: '1972-12-18'
+death_date: '2022-02-12'
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](king_louie_one_man_band.jpg)

@@ -1,43 +1,47 @@
 ---
 biography_enhanced_at: '2026-01-20T01:28:34.094324'
-birth_place: San Mateo, California, USA
+birth_place: 'San Mateo, California, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-20T01:28:34.094329'
 external_urls:
-  spotify: https://open.spotify.com/artist/4QMYdqiJf5bEC7P0EHbnxn
+  spotify: 'https://open.spotify.com/artist/4QMYdqiJf5bEC7P0EHbnxn'
   wikipedia: ''
 genres:
-- jam band
+  - jam band
 image_path: 03_Resources/source_material/ArtistPortraits/grateful_dead_merle_saunders.jpg
 last_updated: '2026-01-20T01:28:34.094330'
 musical_connections:
   collaborators:
-  - Jerry Garcia
-  - John Kahn
-  - Bill Vitt
-  - Martin Fierro
-  - Grateful Dead
-  - Robert Hunter
+    - Jerry Garcia
+    - John Kahn
+    - Bill Vitt
+    - Martin Fierro
+    - Grateful Dead
+    - Robert Hunter
   influenced:
-  - Jerry Garcia
+    - Jerry Garcia
   mentors:
-  - Jimmy Smith
-  - Jack McDuff
+    - Jimmy Smith
+    - Jack McDuff
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- http://www.deaddisc.com/GDFD_Merl_Saunders.htm
-- https://www.dead.net/features/news/thinkin-about-merl-saunders
-- https://jazztimes.com/archives/bay-area-organist-merl-saunders-dead-at-74/
-- http://hooterollin.blogspot.com/2020/07/merl-saunders-late-60s-highlights.html
-- https://www.tonysaunders.com/merl-saunders
+  - 'http://www.deaddisc.com/GDFD_Merl_Saunders.htm'
+  - 'https://www.dead.net/features/news/thinkin-about-merl-saunders'
+  - 'https://jazztimes.com/archives/bay-area-organist-merl-saunders-dead-at-74/'
+  - >-
+    http://hooterollin.blogspot.com/2020/07/merl-saunders-late-60s-highlights.html
+  - 'https://www.tonysaunders.com/merl-saunders'
 spotify_data:
   followers: 132104
   id: 4QMYdqiJf5bEC7P0EHbnxn
   popularity: 50
-  url: https://open.spotify.com/artist/4QMYdqiJf5bEC7P0EHbnxn
+  url: 'https://open.spotify.com/artist/4QMYdqiJf5bEC7P0EHbnxn'
 status: active
-title: Grateful Dead, Merle Saunders
+title: 'Grateful Dead, Merle Saunders'
+birth_date: '1934'
+death_date: '2008'
+artist_type: person
 ---
 
 ![](grateful_dead_merle_saunders.jpg)

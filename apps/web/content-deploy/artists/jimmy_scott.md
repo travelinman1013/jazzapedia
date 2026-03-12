@@ -1,22 +1,22 @@
 ---
-title: jimmy scott
+title: Jimmy Scott
 wiki_slug: jimmy-scott
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1925-07-17'
-birth_place: Cleveland
+birth_place: 'Cleveland, Ohio, United States'
 death_date: '2014-06-12'
 genres:
-- vocal jazz
+  - vocal jazz
 instruments:
-- lead vocals
+  - lead vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0cc68917-0908-4f5c-a13b-4d0e612fd523
-  name: Melvin Sparks & Jimmy Scott
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0cc68917-0908-4f5c-a13b-4d0e612fd523
+    name: Melvin Sparks & Jimmy Scott
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jimmy_scott.jpg
   caption: jimmy scott
@@ -31,7 +31,7 @@ audio_profile:
   danceability_avg: 0.422
   acousticness_avg: 0.813
   instrumentalness_avg: 0.004
-  loudness_avg: -13.0
+  loudness_avg: -13
   speechiness_avg: 0.038
   liveness_avg: 0.137
   track_count: 51
@@ -39,47 +39,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ray Charles
-  - Charlie Parker
-  - Sarah Vaughan
-  - Lou Reed
+    - Ray Charles
+    - Charlie Parker
+    - Sarah Vaughan
+    - Lou Reed
   influenced:
-  - Nancy Wilson
-  - Frankie Valli
-  - Mikki Howard
+    - Nancy Wilson
+    - Frankie Valli
+    - Mikki Howard
   mentors:
-  - Lionel Hampton
+    - Lionel Hampton
 spotify_data:
   followers: 28993
   id: 5T7u5bYO62WTYOk5RBZwjo
   popularity: 30
-  url: https://open.spotify.com/artist/5T7u5bYO62WTYOk5RBZwjo
+  url: 'https://open.spotify.com/artist/5T7u5bYO62WTYOk5RBZwjo'
 discography_enriched: true
 top_tracks:
-- Sycamore Trees
-- Nothing Compares 2 U
-- Our Day Will Come (The Source)
-- On Broadway (The Source)
-- Tea for Two (Hey Eugene!)
-- Day by Day (The Source)
-- Sometimes I Feel Like a Motherless Child (The Source)
-- When Did You Leave Heaven (The Savoy Years And More...)
-- Motherless Child (feat. Joey DeFrancesco (I Go Back Home)
-- I Wish I Knew (The Source)
+  - Sycamore Trees
+  - Nothing Compares 2 U
+  - Our Day Will Come (The Source)
+  - On Broadway (The Source)
+  - Tea for Two (Hey Eugene!)
+  - Day by Day (The Source)
+  - Sometimes I Feel Like a Motherless Child (The Source)
+  - When Did You Leave Heaven (The Savoy Years And More...)
+  - Motherless Child (feat. Joey DeFrancesco (I Go Back Home)
+  - I Wish I Knew (The Source)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/37868418-e2f2-4a1b-9517-165abac8b02b
-  spotify: https://open.spotify.com/artist/5T7u5bYO62WTYOk5RBZwjo
-  wikipedia: https://en.wikipedia.org/wiki/Jimmy_Scott
+  musicbrainz: 'https://musicbrainz.org/artist/37868418-e2f2-4a1b-9517-165abac8b02b'
+  spotify: 'https://open.spotify.com/artist/5T7u5bYO62WTYOk5RBZwjo'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jimmy_Scott'
 image_path: 03_Resources/source_material/ArtistPortraits/jimmy_scott.jpg
 biography_enhanced_at: '2025-10-30T11:59:37.630469'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jimmy_Scott
-- https://www.arts.gov/honors/jazz/jimmy-scott
-- https://www.imdb.com/name/nm0779330/bio/
-- https://www.eden-river-records.com/artist/jimmy-scott/
-- https://jazztimes.com/features/profiles/the-legacy-of-jimmy-scott/
+  - 'https://en.wikipedia.org/wiki/Jimmy_Scott'
+  - 'https://www.arts.gov/honors/jazz/jimmy-scott'
+  - 'https://www.imdb.com/name/nm0779330/bio/'
+  - 'https://www.eden-river-records.com/artist/jimmy-scott/'
+  - 'https://jazztimes.com/features/profiles/the-legacy-of-jimmy-scott/'
 network_extracted: true
 entry_created: '2025-10-30T11:59:37.630480'
 last_updated: '2025-12-23T08:16:10.493082'
@@ -87,8 +87,10 @@ disambiguation: US jazz vocalist
 gender: Male
 musicbrainz_id: 37868418-e2f2-4a1b-9517-165abac8b02b
 tags:
-- jazz
-- vocal jazz
+  - jazz
+  - vocal jazz
+is_active: false
+origin: 'Cleveland, Ohio, United States'
 ---
 
 ![](jimmy_scott.jpg)

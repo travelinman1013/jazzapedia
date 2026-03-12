@@ -5,39 +5,39 @@ schema_version: 2
 status: deceased
 birth_name: Paul Wetstein
 also_known_as:
-- Paul Weston
-- Jonathan Edwards
-- the Father of Mood Music
+  - Paul Weston
+  - Jonathan Edwards
+  - the Father of Mood Music
 aliases:
-- Paul Weston
-- Jonathan Edwards
-- the Father of Mood Music
+  - Paul Weston
+  - Jonathan Edwards
+  - the Father of Mood Music
 birth_date: '1912-03-12'
-birth_place: Marshfield, Missouri, USA
+birth_place: 'Springfield, Illinois, United States'
 death_date: '1996-09-20'
 years_active: 1933–1970s
 genres:
-- big band
+  - big band
 instruments:
-- piano
+  - piano
 occupation:
-- musician
-- conductor
-- pianist
-- bandleader
-- songwriter
+  - musician
+  - conductor
+  - pianist
+  - bandleader
+  - songwriter
 record_labels:
-- Capitol Records
-- Columbia Records
+  - Capitol Records
+  - Columbia Records
 spouse:
-- Jo Stafford
+  - Jo Stafford
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Joe_Loss_and_His_Orchestra.jpg
   caption: Joe Loss & His Orchestra
   background: non_vocal_instrumentalist
   birth_name: Paul Wetstein
   born: '1912-03-12'
-  origin: Marshfield, Missouri, USA
+  origin: 'Marshfield, Missouri, USA'
   died: '1996-09-20'
 audio_profile:
   tempo_avg: 126.3
@@ -54,37 +54,37 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Merry Macs
-  - Buddy Rogers
-  - Tommy Dorsey
-  - Les Brown
+    - The Merry Macs
+    - Buddy Rogers
+    - Tommy Dorsey
+    - Les Brown
   influenced: []
   mentors:
-  - Ted Weems
+    - Ted Weems
 related_artists: []
 spotify_data:
   followers: 2931
   id: 3OixquvLvKBdSUJlYDPbxU
   popularity: 27
-  url: https://open.spotify.com/artist/3OixquvLvKBdSUJlYDPbxU
+  url: 'https://open.spotify.com/artist/3OixquvLvKBdSUJlYDPbxU'
   verified: false
 discography_enriched: true
 albums_count: 17
 singles_count: 0
 top_tracks:
-- Till The Lights Of London Shine Again (Memories)
-- I'll Never Smile Again (Memories)
-- Wheels (Cha Cha)
-- Till the Lights of London Shine Again
-- Behind the Clouds
-- Fascination Waltz (In A Romantic Mood)
-- Somewhere In France With You (Memories)
-- Russian Rose
-- In the Mood (Joe Loss Plays Glenn Miller)
-- Tango D'Amore (World Championship Ballroom Dances)
+  - Till The Lights Of London Shine Again (Memories)
+  - I'll Never Smile Again (Memories)
+  - Wheels (Cha Cha)
+  - Till the Lights of London Shine Again
+  - Behind the Clouds
+  - Fascination Waltz (In A Romantic Mood)
+  - Somewhere In France With You (Memories)
+  - Russian Rose
+  - In the Mood (Joe Loss Plays Glenn Miller)
+  - Tango D'Amore (World Championship Ballroom Dances)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/3OixquvLvKBdSUJlYDPbxU
+  spotify: 'https://open.spotify.com/artist/3OixquvLvKBdSUJlYDPbxU'
   wikipedia: Not available
 image_path: 03_Resources/source_material/ArtistPortraits/Joe_Loss_and_His_Orchestra.jpg
 biography_source: wikipedia
@@ -92,13 +92,14 @@ biography_enhanced_at: '2025-09-30T11:34:16.026497'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- encyclopedia.com
-- jazzstandards.com
-- infomotions.com
+  - encyclopedia.com
+  - jazzstandards.com
+  - infomotions.com
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 12:55:46.565387
+entry_created: 2025-09-18T12:55:46.565Z
 last_updated: '2025-12-23T08:16:02.350869'
+is_active: false
 ---
 
 ![](Joe_Loss_and_His_Orchestra.jpg)

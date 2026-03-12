@@ -1,10 +1,10 @@
 ---
-title: the moonglows
+title: The Moonglows
 wiki_slug: the-moonglows
 schema_version: 2
 status: active
 genres:
-- doo-wop
+  - doo-wop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_moonglows.jpg
   caption: the moonglows
@@ -24,59 +24,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bobby Lester
-  - Harvey Fuqua
-  - Prentiss Barnes
-  - Alexander “Pete” Graves (also known as Alexander Walton)
-  - Billy Johnson
-  - Marvin Gaye
-  - Reese Palmer and James Knowland
-  - Alan Freed (concert and media collaborator)
+    - Bobby Lester
+    - Harvey Fuqua
+    - Prentiss Barnes
+    - Alexander “Pete” Graves (also known as Alexander Walton)
+    - Billy Johnson
+    - Marvin Gaye
+    - Reese Palmer and James Knowland
+    - Alan Freed (concert and media collaborator)
   influenced:
-  - Marvin Gaye
-  - Motown vocal groups (e.g., The Supremes, The Temptations, The Four Tops – representative category)
-  - Subsequent doo‑wop and R&B vocal groups (general influence)
+    - Marvin Gaye
+    - >-
+      Motown vocal groups (e.g., The Supremes, The Temptations, The Four Tops –
+      representative category)
+    - Subsequent doo‑wop and R&B vocal groups (general influence)
   mentors:
-  - Alan Freed
-  - The Orioles
-  - The Ravens
-  - The Ink Spots (via Charlie Fuqua)
+    - Alan Freed
+    - The Orioles
+    - The Ravens
+    - The Ink Spots (via Charlie Fuqua)
 spotify_data:
   followers: 37939
   id: 1sZwQg2rvSlGhkG218SouM
   popularity: 45
-  url: https://open.spotify.com/artist/1sZwQg2rvSlGhkG218SouM
+  url: 'https://open.spotify.com/artist/1sZwQg2rvSlGhkG218SouM'
 discography_enriched: true
 top_tracks:
-- Sincerely
-- Sincerely
-- Sincerely (I'm Afraid, The Masquerade Is Over)
-- Sincerely
-- Hey Santa Claus (Rockin' Little Christmas)
-- Ten Commandments Of Love
-- Hey Santa Claus
-- Hey Santa Claus (Commandment of Love)
-- Sincerely
-- Most Of All
+  - Sincerely
+  - Sincerely
+  - 'Sincerely (I''m Afraid, The Masquerade Is Over)'
+  - Sincerely
+  - Hey Santa Claus (Rockin' Little Christmas)
+  - Ten Commandments Of Love
+  - Hey Santa Claus
+  - Hey Santa Claus (Commandment of Love)
+  - Sincerely
+  - Most Of All
 external_urls:
-  spotify: https://open.spotify.com/artist/1sZwQg2rvSlGhkG218SouM
-  wikipedia: https://en.wikipedia.org/wiki/The_Moonglows
+  spotify: 'https://open.spotify.com/artist/1sZwQg2rvSlGhkG218SouM'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Moonglows'
 image_path: 03_Resources/source_material/ArtistPortraits/the_moonglows.jpg
 biography_enhanced_at: '2025-12-19T01:52:09.620729'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Moonglows
-- https://blackpast.org/african-american-history/moonglows-1949-1957/
-- https://www.britannica.com/topic/The-Moonglows
-- https://top40weekly.com/the-moonglows/
-- https://www.uncamarvy.com/Moonglows/moonglows.html
-- https://tims.blackcat.nl/messages/moonglows.htm
+  - 'https://en.wikipedia.org/wiki/The_Moonglows'
+  - 'https://blackpast.org/african-american-history/moonglows-1949-1957/'
+  - 'https://www.britannica.com/topic/The-Moonglows'
+  - 'https://top40weekly.com/the-moonglows/'
+  - 'https://www.uncamarvy.com/Moonglows/moonglows.html'
+  - 'https://tims.blackcat.nl/messages/moonglows.htm'
 network_extracted: true
 entry_created: '2025-12-19T01:52:09.620743'
 last_updated: '2025-12-23T08:16:16.986357'
-origin: Cleveland, Ohio, United States
-
+origin: 'Cleveland, Ohio, United States'
+artist_type: band
 ---
 
 ![](the_moonglows.jpg)

@@ -1,17 +1,17 @@
 ---
-title: carrie rodriguez
+title: Carrie Rodriguez
 wiki_slug: carrie-rodriguez
 schema_version: 2
 status: active
-birth_place: Austin, Texas, United States
+birth_place: 'Austin, Texas, United States'
 genres:
-- americana
-- alt country
+  - americana
+  - alt country
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/carrie_rodriguez.jpg
   caption: carrie rodriguez
   background: solo_singer
-  origin: Austin, Texas, United States
+  origin: 'Austin, Texas, United States'
 audio_profile:
   tempo_avg: 110.9
   energy_avg: 0.369
@@ -27,48 +27,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Chip Taylor
-  - Luke Jacobs
-  - Lucinda Williams
-  - Gary Louris
+    - Chip Taylor
+    - Luke Jacobs
+    - Lucinda Williams
+    - Gary Louris
   influenced:
-  - Emerging Latinx and Americana artists
+    - Emerging Latinx and Americana artists
   mentors:
-  - David Rodriguez
-  - Andrea Zonn
-  - Eva Garza
+    - David Rodriguez
+    - Andrea Zonn
+    - Eva Garza
 spotify_data:
   followers: 15506
   id: 4bMTBaNiudO7K7Tz8jzNRF
   popularity: 31
-  url: https://open.spotify.com/artist/4bMTBaNiudO7K7Tz8jzNRF
+  url: 'https://open.spotify.com/artist/4bMTBaNiudO7K7Tz8jzNRF'
 discography_enriched: true
 top_tracks:
-- Must Be the Whiskey (Red Dog Tracks)
-- Private Thoughts (Red Dog Tracks)
-- Don't Speak in English (The Trouble With Humans)
-- Keep Your Hat on Jenny (Red Dog Tracks)
-- Sweet Tequila Blues (Let's Leave This Town)
-- The Wonder of You (Red Dog Tracks)
-- Let's Leave This Town (Let's Leave This Town)
-- Big Moon Shinin' (Red Dog Tracks)
-- Red Dog Tracks (Red Dog Tracks)
-- Oh Set a Light (Red Dog Tracks)
+  - Must Be the Whiskey (Red Dog Tracks)
+  - Private Thoughts (Red Dog Tracks)
+  - Don't Speak in English (The Trouble With Humans)
+  - Keep Your Hat on Jenny (Red Dog Tracks)
+  - Sweet Tequila Blues (Let's Leave This Town)
+  - The Wonder of You (Red Dog Tracks)
+  - Let's Leave This Town (Let's Leave This Town)
+  - Big Moon Shinin' (Red Dog Tracks)
+  - Red Dog Tracks (Red Dog Tracks)
+  - Oh Set a Light (Red Dog Tracks)
 external_urls:
-  spotify: https://open.spotify.com/artist/4bMTBaNiudO7K7Tz8jzNRF
-  wikipedia: https://en.wikipedia.org/wiki/Carrie_Rodriguez
+  spotify: 'https://open.spotify.com/artist/4bMTBaNiudO7K7Tz8jzNRF'
+  wikipedia: 'https://en.wikipedia.org/wiki/Carrie_Rodriguez'
 image_path: 03_Resources/source_material/ArtistPortraits/carrie_rodriguez.jpg
 biography_enhanced_at: '2025-11-11T09:33:36.881340'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.carrierodriguez.com/bio
-- https://kutx.org/features/hispanic-heritage-month-spotlight-carrie-rodriguez/
-- https://www.aspentimes.com/news/carrie-rodriguez-as-a-singer-this-fiddlers-green/
-- https://www.carrierodriguez.com/short-bio
+  - 'https://www.carrierodriguez.com/bio'
+  - >-
+    https://kutx.org/features/hispanic-heritage-month-spotlight-carrie-rodriguez/
+  - >-
+    https://www.aspentimes.com/news/carrie-rodriguez-as-a-singer-this-fiddlers-green/
+  - 'https://www.carrierodriguez.com/short-bio'
 network_extracted: true
 entry_created: '2025-11-11T09:33:36.881347'
 last_updated: '2025-12-23T08:16:06.518825'
+artist_type: person
 ---
 
 ![](carrie_rodriguez.jpg)

@@ -5,13 +5,13 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1945-03-17'
-birth_place: Porto Alegre
+birth_place: 'Porto Alegre, Rio Grande do Sul, Brazil'
 death_date: '1982-01-19'
 genres:
-- mpb
-- bossa nova
-- brazilian jazz
-- samba
+  - mpb
+  - bossa nova
+  - brazilian jazz
+  - samba
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/elis_regina.jpg
   caption: Elis Regina
@@ -34,49 +34,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jair Rodrigues
-  - Antônio Carlos Jobim
-  - Milton Nascimento
-  - Aldir Blanc & João Bosco
+    - Jair Rodrigues
+    - Antônio Carlos Jobim
+    - Milton Nascimento
+    - Aldir Blanc & João Bosco
   influenced:
-  - Maria Rita
-  - Pedro Mariano
-  - Belchior
-  - Ivan Lins
+    - Maria Rita
+    - Pedro Mariano
+    - Belchior
+    - Ivan Lins
   mentors:
-  - Vinícius de Moraes
-  - Edu Lobo
+    - Vinícius de Moraes
+    - Edu Lobo
 spotify_data:
   followers: 1546880
   id: 0yFvXd36g5sNKYDi0Kkvl8
   popularity: 62
-  url: https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8
+  url: 'https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8'
 discography_enriched: true
 top_tracks:
-- Águas De Março (Elis & Tom)
-- Como Nossos Pais (Falso Brilhante)
-- Só Tinha De Ser Com Você (Elis & Tom)
-- Tiro Ao Álvaro (Vento De Maio)
-- Triste (Elis & Tom)
-- O bêbado e a equilibrista (Essa Mulher)
-- Fotografia (Elis & Tom)
-- Tiro Ao Álvaro
-- Maria, Maria (Elis Por Ela)
-- Brigas Nunca Mais (Elis & Tom)
+  - Águas De Março (Elis & Tom)
+  - Como Nossos Pais (Falso Brilhante)
+  - Só Tinha De Ser Com Você (Elis & Tom)
+  - Tiro Ao Álvaro (Vento De Maio)
+  - Triste (Elis & Tom)
+  - O bêbado e a equilibrista (Essa Mulher)
+  - Fotografia (Elis & Tom)
+  - Tiro Ao Álvaro
+  - 'Maria, Maria (Elis Por Ela)'
+  - Brigas Nunca Mais (Elis & Tom)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e9e85a54-074c-4d29-a886-bcaaa9d44f9f
-  spotify: https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8
-  wikipedia: https://en.wikipedia.org/wiki/Elis_Regina
+  musicbrainz: 'https://musicbrainz.org/artist/e9e85a54-074c-4d29-a886-bcaaa9d44f9f'
+  spotify: 'https://open.spotify.com/artist/0yFvXd36g5sNKYDi0Kkvl8'
+  wikipedia: 'https://en.wikipedia.org/wiki/Elis_Regina'
 image_path: 03_Resources/source_material/ArtistPortraits/elis_regina.jpg
 biography_enhanced_at: '2025-11-23T06:29:13.685102'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.outsiderpictures.us/celebrity/elis-regina/
-- https://hookedonbands.org/events/remembering-elis-regina-one-of-brazils-most-popular-singers-2059-03-17/
-- https://eyesonbrazil.wordpress.com/2008/06/20/elis-regina-sdbt-part-2/
-- https://www.allaboutjazz.com/musicians/elis-regina/
-- https://www.connectbrazil.com/elis-regina-read-her-life-story/
+  - 'https://www.outsiderpictures.us/celebrity/elis-regina/'
+  - >-
+    https://hookedonbands.org/events/remembering-elis-regina-one-of-brazils-most-popular-singers-2059-03-17/
+  - 'https://eyesonbrazil.wordpress.com/2008/06/20/elis-regina-sdbt-part-2/'
+  - 'https://www.allaboutjazz.com/musicians/elis-regina/'
+  - 'https://www.connectbrazil.com/elis-regina-read-her-life-story/'
 network_extracted: true
 entry_created: '2025-11-23T06:29:13.685109'
 last_updated: '2025-12-23T08:16:08.295884'
@@ -84,9 +85,10 @@ disambiguation: Brazilian pop & jazz singer
 gender: Female
 musicbrainz_id: e9e85a54-074c-4d29-a886-bcaaa9d44f9f
 tags:
-- bossa nova
-- brazilian
-- latin
+  - bossa nova
+  - brazilian
+  - latin
+is_active: false
 ---
 
 ![](elis_regina.jpg)

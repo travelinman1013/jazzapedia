@@ -1,18 +1,18 @@
 ---
-title: True Loves, Nigel Hall
+title: 'True Loves, Nigel Hall'
 wiki_slug: true-loves-nigel-hall
 schema_version: 2
 status: active
-birth_place: Washington, D.C., United States (birthplace); New Orleans, Louisiana, United States (current residence/origin
-  as artist)
+birth_place: 'Washington, D.C., United States'
 genres:
-- retro soul
+  - retro soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/true_loves_nigel_hall.jpg
-  caption: True Loves, Nigel Hall
+  caption: 'True Loves, Nigel Hall'
   background: solo_singer
-  origin: Washington, D.C., United States (birthplace); New Orleans, Louisiana, United States (current residence/origin as
-    artist)
+  origin: >-
+    Washington, D.C., United States (birthplace); New Orleans, Louisiana, United
+    States (current residence/origin as artist)
 audio_profile:
   tempo_avg: 118.2
   energy_avg: 0.721
@@ -28,50 +28,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ryan Zoidis
-  - Eric Krasno
-  - Nikki Glaspie
-  - Jon Cleary
-  - Butcher Brown
-  - Lettuce
-  - Soulive
+    - Ryan Zoidis
+    - Eric Krasno
+    - Nikki Glaspie
+    - Jon Cleary
+    - Butcher Brown
+    - Lettuce
+    - Soulive
   influenced:
-  - Younger New Orleans musicians
+    - Younger New Orleans musicians
   mentors:
-  - George Duke
-  - Ivan Neville
+    - George Duke
+    - Ivan Neville
 spotify_data:
   followers: 16341
   id: 04HwdlOSZ8Rnmp4D3vyjI2
   popularity: 41
-  url: https://open.spotify.com/artist/04HwdlOSZ8Rnmp4D3vyjI2
+  url: 'https://open.spotify.com/artist/04HwdlOSZ8Rnmp4D3vyjI2'
 discography_enriched: true
 top_tracks:
-- Groceries (Homegrown)
-- Dopus no. 1
-- Swagism (Swagism)
-- Do It Like You Do (Fly)
-- Good Weed & Red Wine
-- Don't Change For Me (Ladies & Gentlemen... Nigel Hall)
-- Greens (Housewife)
-- Queen
-- Axiom
-- Sounds Like a Party (Crush)
+  - Groceries (Homegrown)
+  - Dopus no. 1
+  - Swagism (Swagism)
+  - Do It Like You Do (Fly)
+  - Good Weed & Red Wine
+  - Don't Change For Me (Ladies & Gentlemen... Nigel Hall)
+  - Greens (Housewife)
+  - Queen
+  - Axiom
+  - Sounds Like a Party (Crush)
 external_urls:
-  spotify: https://open.spotify.com/artist/04HwdlOSZ8Rnmp4D3vyjI2
-  wikipedia: https://en.wikipedia.org/wiki/Nigel_Hall_(musician)
+  spotify: 'https://open.spotify.com/artist/04HwdlOSZ8Rnmp4D3vyjI2'
+  wikipedia: 'https://en.wikipedia.org/wiki/Nigel_Hall_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/true_loves_nigel_hall.jpg
 biography_enhanced_at: '2025-10-29T16:48:30.869522'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Nigel_Hall_(musician)
-- https://liveforlivemusic.com/features/nigel-hall-addiction-recovery-interview-2023/
-- https://concord.com/publishing-roster/nigel-hall/
-- https://www.allmusic.com/artist/nigel-hall-mn0003436924
+  - 'https://en.wikipedia.org/wiki/Nigel_Hall_(musician)'
+  - >-
+    https://liveforlivemusic.com/features/nigel-hall-addiction-recovery-interview-2023/
+  - 'https://concord.com/publishing-roster/nigel-hall/'
+  - 'https://www.allmusic.com/artist/nigel-hall-mn0003436924'
 network_extracted: true
 entry_created: '2025-10-29T16:48:30.869530'
 last_updated: '2025-12-23T08:16:17.721671'
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1981-09-15'
+artist_type: person
 ---
 
 ![](true_loves_nigel_hall.jpg)

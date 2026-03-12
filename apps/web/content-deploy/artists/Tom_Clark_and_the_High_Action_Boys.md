@@ -2,16 +2,17 @@
 title: Tom Clark and the High Action Boys
 wiki_slug: tom-clark-and-the-high-action-boys
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 birth_date: '2002'
 genres:
-- outlaw country
+  - outlaw country
 instruments:
-- guitar
-- lead vocals
+  - guitar
+  - lead vocals
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/Tom_Clark_and_the_High_Action_Boys.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/Tom_Clark_and_the_High_Action_Boys.jpg
   caption: Tom Clark and the High Action Boys
   background: solo_singer
   born: '2002'
@@ -30,43 +31,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bubble
+    - Bubble
   influenced: []
   mentors: []
 spotify_data:
   followers: 82
   id: 5SMY9MmsTcLzrh274GYx87
   popularity: 0
-  url: https://open.spotify.com/artist/5SMY9MmsTcLzrh274GYx87
+  url: 'https://open.spotify.com/artist/5SMY9MmsTcLzrh274GYx87'
 discography_enriched: true
 top_tracks:
-- Hey Boys! (Dictators Forever Forever Dictators (A Tribute to the Dictators Vol. 2))
-- Nancy's House (Cross-Eyed and Bow-Legged)
-- The Only Thing That's Gotten Better Is My Lying (Cross-Eyed and Bow-Legged)
-- Caught Blondehanded (Cross-Eyed and Bow-Legged)
-- Small Town, New Semester (Cross-Eyed and Bow-Legged)
-- Drink Too Much (Cross-Eyed and Bow-Legged)
-- Lights On (Cross-Eyed and Bow-Legged)
-- Runaway Shuffle (Cross-Eyed and Bow-Legged)
-- If You Could See (Cross-Eyed and Bow-Legged)
-- She Had A Good Heart (Cross-Eyed and Bow-Legged)
+  - >-
+    Hey Boys! (Dictators Forever Forever Dictators (A Tribute to the Dictators
+    Vol. 2))
+  - Nancy's House (Cross-Eyed and Bow-Legged)
+  - The Only Thing That's Gotten Better Is My Lying (Cross-Eyed and Bow-Legged)
+  - Caught Blondehanded (Cross-Eyed and Bow-Legged)
+  - 'Small Town, New Semester (Cross-Eyed and Bow-Legged)'
+  - Drink Too Much (Cross-Eyed and Bow-Legged)
+  - Lights On (Cross-Eyed and Bow-Legged)
+  - Runaway Shuffle (Cross-Eyed and Bow-Legged)
+  - If You Could See (Cross-Eyed and Bow-Legged)
+  - She Had A Good Heart (Cross-Eyed and Bow-Legged)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/bcaeeb29-0f02-4070-8912-464dcf988f50
-  spotify: https://open.spotify.com/artist/5SMY9MmsTcLzrh274GYx87
+  musicbrainz: 'https://musicbrainz.org/artist/bcaeeb29-0f02-4070-8912-464dcf988f50'
+  spotify: 'https://open.spotify.com/artist/5SMY9MmsTcLzrh274GYx87'
   wikipedia: Not available
-image_path: 03_Resources/source_material/ArtistPortraits/Tom_Clark_and_the_High_Action_Boys.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/Tom_Clark_and_the_High_Action_Boys.jpg
 biography_enhanced_at: '2025-10-20T10:06:26.356991'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.concertarchives.org/concerts/tom-clark-and-the-high-action-boys-bubble
-- https://digitalcommons.liberty.edu/cgi/viewcontent.cgi?article=7075&context=doctoral
+  - >-
+    https://www.concertarchives.org/concerts/tom-clark-and-the-high-action-boys-bubble
+  - >-
+    https://digitalcommons.liberty.edu/cgi/viewcontent.cgi?article=7075&context=doctoral
 network_extracted: true
 entry_created: '2025-10-20T10:06:26.357003'
 last_updated: '2025-12-23T08:16:04.189209'
 musicbrainz_enriched_at: '2025-10-21T09:47:12.019638'
 musicbrainz_id: bcaeeb29-0f02-4070-8912-464dcf988f50
 origin: Unknown
+birth_place: New York
 ---
 
 ![](Tom_Clark_and_the_High_Action_Boys.jpg)

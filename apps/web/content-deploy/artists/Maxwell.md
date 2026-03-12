@@ -5,14 +5,14 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1973-05-23'
-birth_place: Brooklyn
+birth_place: 'Brooklyn, New York, United States'
 genres:
-- neo soul
-- quiet storm
-- r&b
-- smooth r&b
+  - neo soul
+  - quiet storm
+  - r&b
+  - smooth r&b
 instruments:
-- lead vocals
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/maxwell.jpg
   caption: Maxwell
@@ -34,43 +34,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Hod David
-  - Stuart Matthewman
+    - Hod David
+    - Stuart Matthewman
   influenced:
-  - Miguel
-  - Frank Ocean
+    - Miguel
+    - Frank Ocean
   mentors:
-  - Leon Ware
-  - Wah Wah Watson
+    - Leon Ware
+    - Wah Wah Watson
 spotify_data:
   followers: 1802156
   id: 2AOt5htsbtyaHd5Eq3kl3j
   popularity: 58
-  url: https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j
+  url: 'https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j'
 discography_enriched: true
 top_tracks:
-- Ascension (Don't Ever Wonder) - Remastered 2021 (Maxwell's Urban Hang Suite)
-- Pretty Wings - uncut (BLACKsummers'night (2009))
-- Fortunate
-- Sumthin' Sumthin' - Remastered 2021 (Maxwell's Urban Hang Suite)
-- This Woman's Work - Remastered 2021 (Now)
-- Lifetime - Remastered 2021 (Now)
-- Fire We Make (Girl On Fire)
-- Get to Know Ya - Remastered 2021 (Now)
-- Bad Habits - uncut (BLACKsummers'night (2009))
-- Simply Beautiful
+  - Ascension (Don't Ever Wonder) - Remastered 2021 (Maxwell's Urban Hang Suite)
+  - Pretty Wings - uncut (BLACKsummers'night (2009))
+  - Fortunate
+  - Sumthin' Sumthin' - Remastered 2021 (Maxwell's Urban Hang Suite)
+  - This Woman's Work - Remastered 2021 (Now)
+  - Lifetime - Remastered 2021 (Now)
+  - Fire We Make (Girl On Fire)
+  - Get to Know Ya - Remastered 2021 (Now)
+  - Bad Habits - uncut (BLACKsummers'night (2009))
+  - Simply Beautiful
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d252cca8-8214-43e5-b81a-101eb4a1447e
-  spotify: https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j
-  wikipedia: https://en.wikipedia.org/wiki/Maxwell_(musician)
+  musicbrainz: 'https://musicbrainz.org/artist/d252cca8-8214-43e5-b81a-101eb4a1447e'
+  spotify: 'https://open.spotify.com/artist/2AOt5htsbtyaHd5Eq3kl3j'
+  wikipedia: 'https://en.wikipedia.org/wiki/Maxwell_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/maxwell.jpg
 biography_enhanced_at: '2025-10-22T08:54:11.296899'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.celebritynetworth.com/richest-celebrities/singers/maxwell-net-worth/
-- https://www.aceshowbiz.com/celebrity/maxwell/biography.html
-- https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/maxwell
+  - >-
+    https://www.celebritynetworth.com/richest-celebrities/singers/maxwell-net-worth/
+  - 'https://www.aceshowbiz.com/celebrity/maxwell/biography.html'
+  - >-
+    https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/maxwell
 network_extracted: true
 entry_created: '2025-10-22T08:54:11.296907'
 last_updated: '2025-12-23T08:16:03.258240'
@@ -78,9 +80,9 @@ disambiguation: US soul/R&B singer-songwriter
 gender: Male
 musicbrainz_id: d252cca8-8214-43e5-b81a-101eb4a1447e
 tags:
-- contemporary r&b
-- neo soul
-- neo-soul
+  - contemporary r&b
+  - neo soul
+  - neo-soul
 ---
 
 ![](maxwell.jpg)

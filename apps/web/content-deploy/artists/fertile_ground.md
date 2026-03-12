@@ -1,14 +1,14 @@
 ---
-title: fertile ground
+title: Fertile Ground
 wiki_slug: fertile-ground
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1997'
 genres:
-- acid jazz
-- neo soul
-- nu jazz
+  - acid jazz
+  - neo soul
+  - nu jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/fertile_ground.jpg
   caption: fertile ground
@@ -29,56 +29,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Navasha Daya
-  - Marcus Asante
+    - Navasha Daya
+    - Marcus Asante
   influenced: []
   mentors: []
 spotify_data:
   followers: 11835
   id: 0Cl7W7wMVEl8NtwKIQoa6Z
   popularity: 23
-  url: https://open.spotify.com/artist/0Cl7W7wMVEl8NtwKIQoa6Z
+  url: 'https://open.spotify.com/artist/0Cl7W7wMVEl8NtwKIQoa6Z'
 discography_enriched: true
 top_tracks:
-- Black Sunshine (Field Songs Revisited)
-- Take Me Higher (Seasons Change)
-- Yellow Daisies (Black Is....)
-- You (Black Is....)
-- Sentimental Groove (Field Songs Revisited)
-- Let the Wind Blow (Spiritual War (2000))
-- Live in the Light (Black Is....)
-- Broken Branches (Spiritual War (2000))
-- Freedom (Seasons Change)
-- Simple Timeless (Simple Timeless)
+  - Black Sunshine (Field Songs Revisited)
+  - Take Me Higher (Seasons Change)
+  - Yellow Daisies (Black Is....)
+  - You (Black Is....)
+  - Sentimental Groove (Field Songs Revisited)
+  - Let the Wind Blow (Spiritual War (2000))
+  - Live in the Light (Black Is....)
+  - Broken Branches (Spiritual War (2000))
+  - Freedom (Seasons Change)
+  - Simple Timeless (Simple Timeless)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1f48f09f-0c18-4e64-9392-0fecb326da89
-  spotify: https://open.spotify.com/artist/0Cl7W7wMVEl8NtwKIQoa6Z
-  wikipedia: https://en.wikipedia.org/wiki/Fertile_Ground
+  musicbrainz: 'https://musicbrainz.org/artist/1f48f09f-0c18-4e64-9392-0fecb326da89'
+  spotify: 'https://open.spotify.com/artist/0Cl7W7wMVEl8NtwKIQoa6Z'
+  wikipedia: 'https://en.wikipedia.org/wiki/Fertile_Ground'
 image_path: 03_Resources/source_material/ArtistPortraits/fertile_ground.jpg
 biography_enhanced_at: '2025-12-04T07:27:14.048706'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Soulwalking.co.uk
-- JazzSkool.org Fandom
-- YouTube Music
-- MusicBrainz
-- Last.fm
+  - Soulwalking.co.uk
+  - JazzSkool.org Fandom
+  - YouTube Music
+  - MusicBrainz
+  - Last.fm
 network_extracted: true
 entry_created: '2025-12-04T07:27:14.048716'
 last_updated: '2025-12-23T08:16:08.629724'
 disambiguation: Acid-Jazz band
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 86641c18-f8ac-4229-adb0-13f9ef4dda51
-  name: Navasha Daya
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 86641c18-f8ac-4229-adb0-13f9ef4dda51
+    name: Navasha Daya
 musicbrainz_id: 1f48f09f-0c18-4e64-9392-0fecb326da89
-origin: Baltimore, Maryland, United States
+origin: 'Baltimore, Maryland, United States'
 tags:
-- acid jazz
-- jazz
+  - acid jazz
+  - jazz
 ---
 
 ![](fertile_ground.jpg)

@@ -1,24 +1,24 @@
 ---
-title: john lennon
+title: John Lennon
 wiki_slug: john-lennon
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1940-10-09'
-birth_place: Liverpool, England, United Kingdom
+birth_place: 'Liverpool, England, United Kingdom'
 death_date: '1980-12-08'
 genres:
-- christmas
+  - christmas
 instruments:
-- guitar
-- original
-- lead vocals
+  - guitar
+  - original
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/john_lennon.jpg
   caption: john lennon
   background: solo_singer
   born: '1940-10-09'
-  origin: Liverpool, England, United Kingdom
+  origin: 'Liverpool, England, United Kingdom'
   died: '1980-12-08'
 audio_profile:
   tempo_avg: 114.4
@@ -35,48 +35,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Paul McCartney
-  - George Harrison
-  - Ringo Starr
-  - Yoko Ono
-  - George Martin
+    - Paul McCartney
+    - George Harrison
+    - Ringo Starr
+    - Yoko Ono
+    - George Martin
   influenced:
-  - Oasis
-  - David Bowie
-  - Harry Nilsson
+    - Oasis
+    - David Bowie
+    - Harry Nilsson
   mentors:
-  - Elvis Presley
-  - Buddy Holly
+    - Elvis Presley
+    - Buddy Holly
 spotify_data:
   followers: 6620724
   id: 4x1nvY2FN8jxqAFA0DA02H
   popularity: 68
-  url: https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H
+  url: 'https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H'
 discography_enriched: true
 top_tracks:
-- Imagine - Remastered 2010 (Imagine)
-- 'Woman - Remastered 2010 (Double Fantasy: Stripped Down)'
-- Beautiful Boy (Darling Boy) - Remastered 2010 (Double Fantasy)
-- Jealous Guy - Remastered 2010 (Imagine)
-- Happy Xmas (War Is Over) - Remastered 2010
-- Beautiful Boy (Darling Boy) - 2010 Remastered
-- Stand By Me - Remastered 2010 (Rock 'N' Roll)
-- Woman - Remastered 2010 (Double Fantasy)
-- Hold On - Remastered 2010 (Plastic Ono Band)
-- '(Just Like) Starting Over - Remastered 2010 (Double Fantasy: Stripped Down)'
+  - Imagine - Remastered 2010 (Imagine)
+  - 'Woman - Remastered 2010 (Double Fantasy: Stripped Down)'
+  - Beautiful Boy (Darling Boy) - Remastered 2010 (Double Fantasy)
+  - Jealous Guy - Remastered 2010 (Imagine)
+  - Happy Xmas (War Is Over) - Remastered 2010
+  - Beautiful Boy (Darling Boy) - 2010 Remastered
+  - Stand By Me - Remastered 2010 (Rock 'N' Roll)
+  - Woman - Remastered 2010 (Double Fantasy)
+  - Hold On - Remastered 2010 (Plastic Ono Band)
+  - '(Just Like) Starting Over - Remastered 2010 (Double Fantasy: Stripped Down)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4d5447d7-c61c-4120-ba1b-d7f471d385b9
-  spotify: https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H
-  wikipedia: https://en.wikipedia.org/wiki/John_Lennon
+  musicbrainz: 'https://musicbrainz.org/artist/4d5447d7-c61c-4120-ba1b-d7f471d385b9'
+  spotify: 'https://open.spotify.com/artist/4x1nvY2FN8jxqAFA0DA02H'
+  wikipedia: 'https://en.wikipedia.org/wiki/John_Lennon'
 image_path: 03_Resources/source_material/ArtistPortraits/john_lennon.jpg
 biography_enhanced_at: '2025-10-19T11:57:52.759131'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.britannica.com/biography/John-Lennon
-- https://www.biography.com/musicians/john-lennon
-- https://www.beatlesbible.com/people/john-lennon/biography/
-- https://www.johnlennon.com/about/
+  - 'https://www.britannica.com/biography/John-Lennon'
+  - 'https://www.biography.com/musicians/john-lennon'
+  - 'https://www.beatlesbible.com/people/john-lennon/biography/'
+  - 'https://www.johnlennon.com/about/'
 network_extracted: true
 entry_created: '2025-10-19T11:57:52.759137'
 last_updated: '2025-12-23T08:16:10.775286'
@@ -85,9 +85,11 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:53:31.851468'
 musicbrainz_id: 4d5447d7-c61c-4120-ba1b-d7f471d385b9
 tags:
-- british
-- classic rock
-- english
+  - british
+  - classic rock
+  - english
+is_active: false
+origin: 'New York City, New York, United States'
 ---
 
 ![](john_lennon.jpg)

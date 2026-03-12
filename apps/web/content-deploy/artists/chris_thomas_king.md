@@ -1,20 +1,20 @@
 ---
-title: CHRIS THOMAS KING
+title: Chris Thomas King
 wiki_slug: chris-thomas-king
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1962-10-14'
-birth_place: Baton Rouge
+birth_place: 'Baton Rouge, Louisiana, United States'
 genres:
-- blues
-- country blues
-- modern blues
-- bluegrass
+  - blues
+  - country blues
+  - modern blues
+  - bluegrass
 instruments:
-- guitar
-- lead vocals
-- spoken vocals
+  - guitar
+  - lead vocals
+  - spoken vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/chris_thomas_king.jpg
   caption: CHRIS THOMAS KING
@@ -36,63 +36,74 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Soggy Bottom Boys / O Brother, Where Art Thou? ensemble
-  - Coen brothers and T Bone Burnett
-  - Ray Charles film team (including director Taylor Hackford)
-  - Blind Mississippi Morris
-  - NuBlues
-  - 21C‑B‑Boyz / 21CB Boyz
+    - 'Soggy Bottom Boys / O Brother, Where Art Thou? ensemble'
+    - Coen brothers and T Bone Burnett
+    - Ray Charles film team (including director Taylor Hackford)
+    - Blind Mississippi Morris
+    - NuBlues
+    - 21C‑B‑Boyz / 21CB Boyz
   influenced:
-  - NuBlues
-  - 21C‑B‑Boyz (21CB Boyz)
+    - NuBlues
+    - 21C‑B‑Boyz (21CB Boyz)
   mentors:
-  - Rockin’ Tabby Thomas
-  - Buddy Guy
-  - B.B. King
-  - Traditional blues figures (Huddie Ledbetter, Muddy Waters, Robert Johnson, Jelly Roll Morton)
+    - Rockin’ Tabby Thomas
+    - Buddy Guy
+    - B.B. King
+    - >-
+      Traditional blues figures (Huddie Ledbetter, Muddy Waters, Robert Johnson,
+      Jelly Roll Morton)
 spotify_data:
   followers: 19208
   id: 3azQ4yZ4Dt6hPbyNeOOMLN
   popularity: 30
-  url: https://open.spotify.com/artist/3azQ4yZ4Dt6hPbyNeOOMLN
+  url: 'https://open.spotify.com/artist/3azQ4yZ4Dt6hPbyNeOOMLN'
 discography_enriched: true
 top_tracks:
-- Hard Time Killing Floor Blues (O Brother, Where Art Thou? (Original Motion Picture Soundtrack))
-- Big Grey Sky (Big Grey Sky)
-- Hard Time Killing Floor (The Roots)
-- Why Blues (Me, My Guitar And The Blues)
-- Red Mud (Red Mud Sessions)
-- Death Letter Blues (The Roots)
-- Hard Time Killing Floor Blues (O Brother, Where Art Thou? (Music From The Motion Picture / Deluxe Edition))
-- Come On In My Kitchen (The Roots)
-- Damn Right, I've Got The Blues - Live at New Orleans Jazz & Heritage Festival, 2014
-- Hard Time Killing Floor Blues (Dirty South Hip Hop Blues)
+  - >-
+    Hard Time Killing Floor Blues (O Brother, Where Art Thou? (Original Motion
+    Picture Soundtrack))
+  - Big Grey Sky (Big Grey Sky)
+  - Hard Time Killing Floor (The Roots)
+  - 'Why Blues (Me, My Guitar And The Blues)'
+  - Red Mud (Red Mud Sessions)
+  - Death Letter Blues (The Roots)
+  - >-
+    Hard Time Killing Floor Blues (O Brother, Where Art Thou? (Music From The
+    Motion Picture / Deluxe Edition))
+  - Come On In My Kitchen (The Roots)
+  - >-
+    Damn Right, I've Got The Blues - Live at New Orleans Jazz & Heritage
+    Festival, 2014
+  - Hard Time Killing Floor Blues (Dirty South Hip Hop Blues)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6015dfbf-8f97-440b-9dff-2282953ecea5
-  spotify: https://open.spotify.com/artist/3azQ4yZ4Dt6hPbyNeOOMLN
-  wikipedia: https://en.wikipedia.org/wiki/Chris_Thomas_King
+  musicbrainz: 'https://musicbrainz.org/artist/6015dfbf-8f97-440b-9dff-2282953ecea5'
+  spotify: 'https://open.spotify.com/artist/3azQ4yZ4Dt6hPbyNeOOMLN'
+  wikipedia: 'https://en.wikipedia.org/wiki/Chris_Thomas_King'
 image_path: 03_Resources/source_material/ArtistPortraits/chris_thomas_king.jpg
 biography_enhanced_at: '2025-12-12T12:04:14.132086'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Chris_Thomas_King
-- https://www.imdb.com/name/nm0454584/bio/
-- https://mypalladium.org/multi-talented-second-generation-bluesman-chris-thomas-king-returns-to-the-side-door-tonight/
-- https://www.maspresents.org/events/mas-presents-chris-thomas-king
-- https://www.christhomasking.com/about
-- https://www.mississippivalleytraveler.com/chris-thomas-king/
-- https://www.neworleans.com/listing/chris-thomas-king/46335/
-- http://static1.1.sqspcdn.com/static/f/1226690/26464032/1439581069900/Chris+Thomas+King+Biography.pdf?token=5GKq1zcttvIb0h5cDaEwVeUyWu0%3D
-- https://www.crt.state.la.us/news?NewsID=525
+  - 'https://en.wikipedia.org/wiki/Chris_Thomas_King'
+  - 'https://www.imdb.com/name/nm0454584/bio/'
+  - >-
+    https://mypalladium.org/multi-talented-second-generation-bluesman-chris-thomas-king-returns-to-the-side-door-tonight/
+  - 'https://www.maspresents.org/events/mas-presents-chris-thomas-king'
+  - 'https://www.christhomasking.com/about'
+  - 'https://www.mississippivalleytraveler.com/chris-thomas-king/'
+  - 'https://www.neworleans.com/listing/chris-thomas-king/46335/'
+  - >-
+    http://static1.1.sqspcdn.com/static/f/1226690/26464032/1439581069900/Chris+Thomas+King+Biography.pdf?token=5GKq1zcttvIb0h5cDaEwVeUyWu0%3D
+  - 'https://www.crt.state.la.us/news?NewsID=525'
 network_extracted: true
 entry_created: '2025-12-12T12:04:14.132109'
 last_updated: '2025-12-23T08:16:06.906462'
 gender: Male
 musicbrainz_id: 6015dfbf-8f97-440b-9dff-2282953ecea5
 tags:
-- blues
-- country blues
+  - blues
+  - country blues
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](chris_thomas_king.jpg)

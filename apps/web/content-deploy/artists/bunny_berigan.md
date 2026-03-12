@@ -5,50 +5,50 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1908-11-02'
-birth_place: Hilbert
+birth_place: 'Hilbert, Wisconsin, United States'
 death_date: '1942-06-02'
 genres:
-- big band
-- swing music
+  - big band
+  - swing music
 instruments:
-- eponymous
-- original
-- trumpet
-- lead vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
   - trumpet
-  mbid: 5e259ea5-1903-4d58-bbaf-20c17d28ca9b
-  name: Bunny Berigan and His Boys
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5c15bcdc-0fdf-4f4a-ad93-922bdc3eec31
-  name: Bunny Berigan and His Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0883ed7d-12e8-48a8-b17b-c0435da923a8
-  name: Bunny Berigan and His Blue Boys
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5d3e2ce5-5e18-4751-ac6f-60d7f44ca719
-  name: Adrian Rollini and His Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c9b9b67a-d0f7-4989-91f3-ccd4d24ef361
-  name: Tommy Dorsey and His Sentimentalists
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 05fd5a2d-f488-4049-b35b-d7a9fc94dde8
-  name: Jam Session At Victor
+  - lead vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - trumpet
+    mbid: 5e259ea5-1903-4d58-bbaf-20c17d28ca9b
+    name: Bunny Berigan and His Boys
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5c15bcdc-0fdf-4f4a-ad93-922bdc3eec31
+    name: Bunny Berigan and His Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0883ed7d-12e8-48a8-b17b-c0435da923a8
+    name: Bunny Berigan and His Blue Boys
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5d3e2ce5-5e18-4751-ac6f-60d7f44ca719
+    name: Adrian Rollini and His Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c9b9b67a-d0f7-4989-91f3-ccd4d24ef361
+    name: Tommy Dorsey and His Sentimentalists
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 05fd5a2d-f488-4049-b35b-d7a9fc94dde8
+    name: Jam Session At Victor
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bunny_berigan.jpg
   caption: Bunny Berigan
@@ -71,58 +71,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Benny Goodman
-  - Tommy Dorsey
-  - Billie Holiday
-  - Paul Whiteman
-  - Buddy Rich
-  - George Auld
+    - Benny Goodman
+    - Tommy Dorsey
+    - Billie Holiday
+    - Paul Whiteman
+    - Buddy Rich
+    - George Auld
   influenced:
-  - Roy Eldridge
-  - Dizzy Gillespie
-  - Miles Davis
-  - Clifford Brown
-  - Wynton Marsalis
+    - Roy Eldridge
+    - Dizzy Gillespie
+    - Miles Davis
+    - Clifford Brown
+    - Wynton Marsalis
   mentors:
-  - Bix Beiderbecke
-  - Louis Armstrong
+    - Bix Beiderbecke
+    - Louis Armstrong
 spotify_data:
   followers: 11623
   id: 5mzFDFweHwx7BZFmMtdll7
   popularity: 27
-  url: https://open.spotify.com/artist/5mzFDFweHwx7BZFmMtdll7
+  url: 'https://open.spotify.com/artist/5mzFDFweHwx7BZFmMtdll7'
 discography_enriched: true
 top_tracks:
-- I Can't Get Started (Let's Do It)
-- Ain't She Sweet (Let's Do It)
-- I Can't Get Started - Alternate Take (Let's Do It)
-- There'll Be Some Changes Made (Bunny)
-- I Can't Get Started
-- Sweet Madness (Let's Do It)
-- When I Take My Sugar To Tea (Let's Do It)
-- I Can't Get Started (08-07-37) (Complete Jazz Series 1937)
-- Ain't She Sweet (Bunny)
-- Peg O'my Heart (Swingin' & Jumpin' - Broadcasts 1937-39)
+  - I Can't Get Started (Let's Do It)
+  - Ain't She Sweet (Let's Do It)
+  - I Can't Get Started - Alternate Take (Let's Do It)
+  - There'll Be Some Changes Made (Bunny)
+  - I Can't Get Started
+  - Sweet Madness (Let's Do It)
+  - When I Take My Sugar To Tea (Let's Do It)
+  - I Can't Get Started (08-07-37) (Complete Jazz Series 1937)
+  - Ain't She Sweet (Bunny)
+  - Peg O'my Heart (Swingin' & Jumpin' - Broadcasts 1937-39)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/0d99a768-4878-4d40-a264-205e7fe5d20a
-  spotify: https://open.spotify.com/artist/5mzFDFweHwx7BZFmMtdll7
-  wikipedia: https://en.wikipedia.org/wiki/Bunny_Berigan
+  musicbrainz: 'https://musicbrainz.org/artist/0d99a768-4878-4d40-a264-205e7fe5d20a'
+  spotify: 'https://open.spotify.com/artist/5mzFDFweHwx7BZFmMtdll7'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bunny_Berigan'
 image_path: 03_Resources/source_material/ArtistPortraits/bunny_berigan.jpg
 biography_enhanced_at: '2025-11-04T10:44:49.227561'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://syncopatedtimes.com/the-triumph-and-tragedy-of-bunny-berigan/
-- https://wardirishmusicarchives.com/Exhibits/Irish-American-Hall-of-History/Bunny-Berigan.htm
-- http://jazzhotbigstep.com/text/5018.html
+  - 'https://syncopatedtimes.com/the-triumph-and-tragedy-of-bunny-berigan/'
+  - >-
+    https://wardirishmusicarchives.com/Exhibits/Irish-American-Hall-of-History/Bunny-Berigan.htm
+  - 'http://jazzhotbigstep.com/text/5018.html'
 network_extracted: true
 entry_created: '2025-11-04T10:44:49.227580'
 last_updated: '2025-12-23T08:16:06.265416'
 gender: Male
 musicbrainz_id: 0d99a768-4878-4d40-a264-205e7fe5d20a
 tags:
-- jazz
-- swing
+  - jazz
+  - swing
+is_active: false
+origin: 'Madison, Wisconsin, United States'
 ---
 
 ![](bunny_berigan.jpg)

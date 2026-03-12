@@ -1,42 +1,47 @@
 ---
 biography_enhanced_at: '2026-01-06T02:08:36.194316'
-birth_place: Forkland, Alabama, USA
+birth_place: 'Forkland, Alabama, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-06T02:08:36.194323'
 external_urls:
-  spotify: https://open.spotify.com/artist/5bMNtHLa4xPKElqpUKHBJT
+  spotify: 'https://open.spotify.com/artist/5bMNtHLa4xPKElqpUKHBJT'
   wikipedia: ''
 genres:
-- classic blues
+  - classic blues
 image_path: 03_Resources/source_material/ArtistPortraits/bobo_jenkins.jpg
 last_updated: '2026-01-06T02:08:36.194324'
 musical_connections:
   collaborators:
-  - Sonny Boy Williamson II
-  - James 'Little Daddy' Walton
-  - Little Junior Cannady
-  - Sarah Brown
-  - Buddy Folks
-  - Willie D. Warren
+    - Sonny Boy Williamson II
+    - James 'Little Daddy' Walton
+    - Little Junior Cannady
+    - Sarah Brown
+    - Buddy Folks
+    - Willie D. Warren
   influenced: []
   mentors:
-  - John Lee Hooker
+    - John Lee Hooker
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://fromthevaults-boppinbob.blogspot.com/2025/01/bobo-jenkins-born-7-january-1916.html
-- https://www.allmusic.com/artist/bobo-jenkins-mn0000064600
-- https://bluestourdatabase.com/artists/bobo-jenkins
-- https://www.bmansbluesreport.com/2013/01/sea-sick-and-water-bound-bobo-jenkins.html
-- https://wangdangdula.wordpress.com/bobojenkins/
-- https://bibliolore.org/2016/01/07/bobo-jenkins-and-democrat-blues/
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2025/01/bobo-jenkins-born-7-january-1916.html
+  - 'https://www.allmusic.com/artist/bobo-jenkins-mn0000064600'
+  - 'https://bluestourdatabase.com/artists/bobo-jenkins'
+  - >-
+    https://www.bmansbluesreport.com/2013/01/sea-sick-and-water-bound-bobo-jenkins.html
+  - 'https://wangdangdula.wordpress.com/bobojenkins/'
+  - 'https://bibliolore.org/2016/01/07/bobo-jenkins-and-democrat-blues/'
 spotify_data:
   followers: 306
   id: 5bMNtHLa4xPKElqpUKHBJT
   popularity: 1
-  url: https://open.spotify.com/artist/5bMNtHLa4xPKElqpUKHBJT
+  url: 'https://open.spotify.com/artist/5bMNtHLa4xPKElqpUKHBJT'
 status: active
-title: BOBO JENKINS
+title: Bobo Jenkins
+origin: 'Detroit, Michigan, United States'
+birth_date: '1916-01-07'
+artist_type: person
 ---
 
 ![](bobo_jenkins.jpg)

@@ -1,15 +1,16 @@
 ---
-title: rick estrin & the nightcats
+title: Rick Estrin & the Nightcats
 wiki_slug: rick-estrin-the-nightcats
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- blues
-- modern blues
-- blues rock
+  - blues
+  - modern blues
+  - blues rock
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/rick_estrin_and_the_nightcats.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/rick_estrin_and_the_nightcats.jpg
   caption: rick estrin & the nightcats
   background: group_or_band
 audio_profile:
@@ -27,81 +28,90 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Christoffer "Kid" Andersen
-  - Lorenzo Farrell
-  - Derrick "D'Mar" Martin
-  - Alexander Pettersen
-  - Little Charlie Baty
+    - Christoffer "Kid" Andersen
+    - Lorenzo Farrell
+    - Derrick "D'Mar" Martin
+    - Alexander Pettersen
+    - Little Charlie Baty
   influenced:
-  - Younger contemporary blues musicians (e.g., artists recording at Greaseland Studio)
+    - >-
+      Younger contemporary blues musicians (e.g., artists recording at
+      Greaseland Studio)
   mentors:
-  - Fillmore Slim
-  - Rodger Collins
-  - Lowell Fulson
-  - Z.Z. Hill
-  - Muddy Waters
+    - Fillmore Slim
+    - Rodger Collins
+    - Lowell Fulson
+    - Z.Z. Hill
+    - Muddy Waters
 spotify_data:
   followers: 6712
   id: 0uo6ltSYsMbp4go8nPQ80U
   popularity: 22
-  url: https://open.spotify.com/artist/0uo6ltSYsMbp4go8nPQ80U
+  url: 'https://open.spotify.com/artist/0uo6ltSYsMbp4go8nPQ80U'
 discography_enriched: true
 top_tracks:
-- Looking For A Woman (Groovin' In Greaseland)
-- Take It Slow (Twisted)
-- She Nuts Up (Contemporary)
-- Nothing But Love (Contemporary)
-- Callin' All Fools (One Wrong Turn)
-- Zonin' (One Wrong Turn)
-- U B U (Twisted)
-- Bo Dee's Bounce (Contemporary)
-- The Blues Ain't Going Nowhere (Groovin' In Greaseland)
-- So Long (for Jay P.) (Groovin' In Greaseland)
+  - Looking For A Woman (Groovin' In Greaseland)
+  - Take It Slow (Twisted)
+  - She Nuts Up (Contemporary)
+  - Nothing But Love (Contemporary)
+  - Callin' All Fools (One Wrong Turn)
+  - Zonin' (One Wrong Turn)
+  - U B U (Twisted)
+  - Bo Dee's Bounce (Contemporary)
+  - The Blues Ain't Going Nowhere (Groovin' In Greaseland)
+  - So Long (for Jay P.) (Groovin' In Greaseland)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/df9d4df2-1954-4554-abce-1d713cb5d163
-  spotify: https://open.spotify.com/artist/0uo6ltSYsMbp4go8nPQ80U
-  wikipedia: https://en.wikipedia.org/wiki/Rick_Estrin_&_The_Nightcats
+  musicbrainz: 'https://musicbrainz.org/artist/df9d4df2-1954-4554-abce-1d713cb5d163'
+  spotify: 'https://open.spotify.com/artist/0uo6ltSYsMbp4go8nPQ80U'
+  wikipedia: 'https://en.wikipedia.org/wiki/Rick_Estrin_&_The_Nightcats'
 image_path: 03_Resources/source_material/ArtistPortraits/rick_estrin_and_the_nightcats.jpg
 biography_enhanced_at: '2025-12-06T05:56:49.984279'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- 'Alligator Records artist page: Rick Estrin & The Nightcats[1]'
-- 'Wikipedia: Rick Estrin & The Nightcats[2]'
-- Official band site biographies (rickestrin.com)[3]
-- Curaçao International BlueSeas Festival artist bio[4]
-- B Street Theatre event bio for Rick Estrin & The Nightcats[5]
-- 'NAMM Oral History: Rick Estrin[6]'
-- 'No Depression feature: “Rick Estrin & the Nightcats Tap into the Past for Their ''Contemporary'' Sound”[7]'
-- 'Blues Matters live review: London gig review for Rick Estrin & The Nightcats[8]'
+  - 'Alligator Records artist page: Rick Estrin & The Nightcats[1]'
+  - 'Wikipedia: Rick Estrin & The Nightcats[2]'
+  - 'Official band site biographies (rickestrin.com)[3]'
+  - 'Curaçao International BlueSeas Festival artist bio[4]'
+  - 'B Street Theatre event bio for Rick Estrin & The Nightcats[5]'
+  - 'NAMM Oral History: Rick Estrin[6]'
+  - >-
+    No Depression feature: “Rick Estrin & the Nightcats Tap into the Past for
+    Their 'Contemporary' Sound”[7]
+  - >-
+    Blues Matters live review: London gig review for Rick Estrin & The
+    Nightcats[8]
 network_extracted: true
 entry_created: '2025-12-06T05:56:49.984286'
 last_updated: '2025-12-23T08:16:14.847535'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d5383a56-33b4-4941-abe8-2f1cfa927893
-  name: Rick Estrin
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c0a3c1a1-e21d-4c20-8c75-879bc6f1e857
-  name: Lorenzo Farrell
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e13d8221-9a70-4733-934a-3b7a30ea5915
-  name: Jason Hansen
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a936b845-b61d-418c-93d8-cfd120f6a79e
-  name: Kid Andersen
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d5383a56-33b4-4941-abe8-2f1cfa927893
+    name: Rick Estrin
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c0a3c1a1-e21d-4c20-8c75-879bc6f1e857
+    name: Lorenzo Farrell
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e13d8221-9a70-4733-934a-3b7a30ea5915
+    name: Jason Hansen
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a936b845-b61d-418c-93d8-cfd120f6a79e
+    name: Kid Andersen
 musicbrainz_id: df9d4df2-1954-4554-abce-1d713cb5d163
-origin: San Francisco, California, United States (origin of bandleader Rick Estrin and spiritual base of the band)
+origin: >-
+  San Francisco, California, United States (origin of bandleader Rick Estrin and
+  spiritual base of the band)
 tags:
-- blues
+  - blues
+birth_place: 'San Francisco, California, United States'
 ---
 
 ![](rick_estrin_and_the_nightcats.jpg)

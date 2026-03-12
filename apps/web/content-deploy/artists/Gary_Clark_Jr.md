@@ -2,23 +2,23 @@
 title: Gary Clark Jr.
 wiki_slug: gary-clark-jr
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1984-02-15'
-birth_place: Austin, Texas, United States
+birth_place: 'Austin, Texas, United States'
 genres:
-- modern blues
-- blues rock
-- blues
-- soul blues
+  - modern blues
+  - blues rock
+  - blues
+  - soul blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Gary_Clark_Jr.jpg
   caption: Gary Clark Jr.
   background: solo_singer
   born: '1984-02-15'
-  origin: Austin, Texas, United States
+  origin: 'Austin, Texas, United States'
 audio_profile:
-  tempo_avg: 123.0
+  tempo_avg: 123
   energy_avg: 0.718
   valence_avg: 0.423
   danceability_avg: 0.461
@@ -32,48 +32,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Alicia Keys
-  - Booker T. Jones
-  - Eric Clapton
-  - The Rolling Stones
+    - Alicia Keys
+    - Booker T. Jones
+    - Eric Clapton
+    - The Rolling Stones
   influenced:
-  - Marcus King
+    - Marcus King
   mentors:
-  - Clifford Antone
-  - Jimmie Vaughan
+    - Clifford Antone
+    - Jimmie Vaughan
 spotify_data:
   followers: 974344
   id: 01aC2ikO4Xgb2LUpf9JfKp
   popularity: 53
-  url: https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp
+  url: 'https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp'
 discography_enriched: true
 top_tracks:
-- Come Together
-- Wild (feat. Gary Clark Jr.) (Bigger Love)
-- Rock Bottom
-- When I'm Gone (This Land)
-- A Change Is Gonna Come
-- Don't Owe You a Thang
-- Our Love (The Story of Sonny Boy Slim)
-- Bright Lights (Blak and Blu (Deluxe Edition))
-- Ride (feat. Gary Clark Jr.)
-- Low Down Rolling Stone (This Land)
+  - Come Together
+  - Wild (feat. Gary Clark Jr.) (Bigger Love)
+  - Rock Bottom
+  - When I'm Gone (This Land)
+  - A Change Is Gonna Come
+  - Don't Owe You a Thang
+  - Our Love (The Story of Sonny Boy Slim)
+  - Bright Lights (Blak and Blu (Deluxe Edition))
+  - Ride (feat. Gary Clark Jr.)
+  - Low Down Rolling Stone (This Land)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c733c4e6-22a2-499d-ace7-17b832356aff
-  spotify: https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp
-  wikipedia: https://en.wikipedia.org/wiki/Gary_Clark_Jr.
+  musicbrainz: 'https://musicbrainz.org/artist/c733c4e6-22a2-499d-ace7-17b832356aff'
+  spotify: 'https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp'
+  wikipedia: 'https://en.wikipedia.org/wiki/Gary_Clark_Jr.'
 image_path: 03_Resources/source_material/ArtistPortraits/Gary_Clark_Jr.jpg
 biography_enhanced_at: '2025-10-19T12:00:26.100542'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.garyclarkjr.com/bio/garyclarkjr
-- https://teachrock.org/traceitback/gary-clark-jr/
-- https://www.imdb.com/name/nm2237175/bio/
-- https://grammymuseum.org/event/an-evening-with-gary-clark-jr/
-- https://blackpast.org/african-american-history/gary-lee-clark-jr-1984/
-- https://wbssmedia.com/artists/detail/3815
-- https://mabumbe.com/people/gary-clark-jr-age-net-worth-relationships-bio-career-highlights/
+  - 'https://www.garyclarkjr.com/bio/garyclarkjr'
+  - 'https://teachrock.org/traceitback/gary-clark-jr/'
+  - 'https://www.imdb.com/name/nm2237175/bio/'
+  - 'https://grammymuseum.org/event/an-evening-with-gary-clark-jr/'
+  - 'https://blackpast.org/african-american-history/gary-lee-clark-jr-1984/'
+  - 'https://wbssmedia.com/artists/detail/3815'
+  - >-
+    https://mabumbe.com/people/gary-clark-jr-age-net-worth-relationships-bio-career-highlights/
 network_extracted: true
 entry_created: '2025-10-19T12:00:26.100552'
 last_updated: '2025-12-23T08:16:02.095208'
@@ -82,9 +83,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:27:23.980263'
 musicbrainz_id: c733c4e6-22a2-499d-ace7-17b832356aff
 tags:
-- blues
-- blues rock
-- contemporary r&b
+  - blues
+  - blues rock
+  - contemporary r&b
+origin: 'Austin, Texas, United States'
 ---
 
 ![](Gary_Clark_Jr.jpg)

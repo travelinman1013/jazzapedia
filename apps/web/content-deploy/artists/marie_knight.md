@@ -1,17 +1,17 @@
 ---
-title: marie knight
+title: Marie Knight
 wiki_slug: marie-knight
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1925-06-01'
-birth_place: Sanford
+birth_place: 'Sanford, Florida, United States'
 death_date: '2009-08-30'
 genres:
-- northern soul
+  - northern soul
 instruments:
-- piano
-- lead vocals
+  - piano
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/marie_knight.jpg
   caption: marie knight
@@ -34,49 +34,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sister Rosetta Tharpe
-  - Rex Garvin
-  - The Millionaires (Thomasina Stewart, Eleonore King, Roberta Jones)
-  - Sunset Four
-  - Larry Campbell
+    - Sister Rosetta Tharpe
+    - Rex Garvin
+    - 'The Millionaires (Thomasina Stewart, Eleonore King, Roberta Jones)'
+    - Sunset Four
+    - Larry Campbell
   influenced: []
   mentors:
-  - Sister Rosetta Tharpe
-  - Frances Robinson
+    - Sister Rosetta Tharpe
+    - Frances Robinson
 spotify_data:
   followers: 1677
   id: 5SQDx1d1tEpptg9je4XGYS
   popularity: 26
-  url: https://open.spotify.com/artist/5SQDx1d1tEpptg9je4XGYS
+  url: 'https://open.spotify.com/artist/5SQDx1d1tEpptg9je4XGYS'
 discography_enriched: true
 top_tracks:
-- My Journey To The Sky (Gospel Train (Expanded Edition))
-- Didn't It Rain (Gospel Train (Expanded Edition))
-- Up Above My Head I Hear Music In The Air (Gospel Train (Expanded Edition))
-- When I Take My Vacation In Heaven (The Decca Singles, Vol. 3)
-- Didn't It Rain (The Decca Singles, Vol. 3)
-- I Thought I Told You Not to Tell Them - Remastered
-- Up Above My Head I Hear Music In The Air (The Gospel Of The Blues)
-- That's No Way To Treat A Girl (Blue Soul Belles - Volume 4)
-- Didn't It Rain (The Gospel Of The Blues)
-- I Thought I Told You Not to Tell Them
+  - My Journey To The Sky (Gospel Train (Expanded Edition))
+  - Didn't It Rain (Gospel Train (Expanded Edition))
+  - Up Above My Head I Hear Music In The Air (Gospel Train (Expanded Edition))
+  - 'When I Take My Vacation In Heaven (The Decca Singles, Vol. 3)'
+  - 'Didn''t It Rain (The Decca Singles, Vol. 3)'
+  - I Thought I Told You Not to Tell Them - Remastered
+  - Up Above My Head I Hear Music In The Air (The Gospel Of The Blues)
+  - That's No Way To Treat A Girl (Blue Soul Belles - Volume 4)
+  - Didn't It Rain (The Gospel Of The Blues)
+  - I Thought I Told You Not to Tell Them
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7fa1292d-7db0-42aa-a88e-eb3bd9d0c7c4
-  spotify: https://open.spotify.com/artist/5SQDx1d1tEpptg9je4XGYS
-  wikipedia: https://en.wikipedia.org/wiki/Marie_Knight
+  musicbrainz: 'https://musicbrainz.org/artist/7fa1292d-7db0-42aa-a88e-eb3bd9d0c7c4'
+  spotify: 'https://open.spotify.com/artist/5SQDx1d1tEpptg9je4XGYS'
+  wikipedia: 'https://en.wikipedia.org/wiki/Marie_Knight'
 image_path: 03_Resources/source_material/ArtistPortraits/marie_knight.jpg
 biography_enhanced_at: '2025-12-12T12:10:34.817659'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Marie_Knight [2]
-- https://fromthevaults-boppinbob.blogspot.com/2017/06/marie-knight-born-1-june-1925.html [1]
+  - 'https://en.wikipedia.org/wiki/Marie_Knight [2]'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2017/06/marie-knight-born-1-june-1925.html
+    [1]
 network_extracted: true
 entry_created: '2025-12-12T12:10:34.817667'
 last_updated: '2025-12-23T08:16:12.673936'
 disambiguation: US gospel/R&B vocalist
 gender: Female
 musicbrainz_id: 7fa1292d-7db0-42aa-a88e-eb3bd9d0c7c4
+is_active: false
 ---
 
 ![](marie_knight.jpg)

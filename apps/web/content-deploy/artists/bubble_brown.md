@@ -3,13 +3,13 @@ title: Bubble Brown
 wiki_slug: bubble-brown
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, USA (originally from Florida)
+birth_place: 'New Orleans, Louisiana, USA (originally from Florida)'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bubble_brown.jpg
   caption: Bubble Brown
   background: solo_singer
-  origin: New Orleans, Louisiana, USA (originally from Florida)
+  origin: 'New Orleans, Louisiana, USA (originally from Florida)'
 audio_profile:
   tempo_avg: 111.1
   energy_avg: 0.774
@@ -25,43 +25,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Washboard Ben Brundage
+    - Washboard Ben Brundage
   influenced: []
   mentors:
-  - Brown's Father and Sister
+    - Brown's Father and Sister
 spotify_data:
   followers: 20713
   id: 6GI3CJjT2bOnMfprCpjT1d
   popularity: 64
-  url: https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d
+  url: 'https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d'
 discography_enriched: true
 top_tracks:
-- Dirty Harry (Demon Days)
-- New Gold (feat. Tame Impala and Bootie Brown) (Cracker Island)
-- New Gold (feat. Tame Impala and Bootie Brown) (New Gold (feat. Tame Impala and Bootie Brown))
-- New Gold (feat. Tame Impala and Bootie Brown) - Dom Dolla Remix (New Gold (feat. Tame Impala and Bootie Brown) [Dom Dolla
-  Remix])
-- New Gold (feat. Tame Impala and Bootie Brown) - Dom Dolla Remix (Cracker Island (Deluxe))
-- New Gold (feat. Tame Impala and Bootie Brown) (Cracker Island (Deluxe))
-- Dirty Harry (Dirty Harry)
-- New Gold (feat. Tame Impala and Bootie Brown) (New Gold (feat. Tame Impala and Bootie Brown) [Dom Dolla Remix])
-- Otim Hop - feat. Otim Alpha, Bootie Brown, K.O.G & Tom Excell (Otim Hop (feat. Otim Alpha, Bootie Brown, K.O.G & Tom Excell))
-- Clint Eastwood (feat. De La Soul & Bootie Brown) - Live (DARE)
+  - Dirty Harry (Demon Days)
+  - New Gold (feat. Tame Impala and Bootie Brown) (Cracker Island)
+  - >-
+    New Gold (feat. Tame Impala and Bootie Brown) (New Gold (feat. Tame Impala
+    and Bootie Brown))
+  - >-
+    New Gold (feat. Tame Impala and Bootie Brown) - Dom Dolla Remix (New Gold
+    (feat. Tame Impala and Bootie Brown) [Dom Dolla Remix])
+  - >-
+    New Gold (feat. Tame Impala and Bootie Brown) - Dom Dolla Remix (Cracker
+    Island (Deluxe))
+  - New Gold (feat. Tame Impala and Bootie Brown) (Cracker Island (Deluxe))
+  - Dirty Harry (Dirty Harry)
+  - >-
+    New Gold (feat. Tame Impala and Bootie Brown) (New Gold (feat. Tame Impala
+    and Bootie Brown) [Dom Dolla Remix])
+  - >-
+    Otim Hop - feat. Otim Alpha, Bootie Brown, K.O.G & Tom Excell (Otim Hop
+    (feat. Otim Alpha, Bootie Brown, K.O.G & Tom Excell))
+  - Clint Eastwood (feat. De La Soul & Bootie Brown) - Live (DARE)
 external_urls:
-  spotify: https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d
+  spotify: 'https://open.spotify.com/artist/6GI3CJjT2bOnMfprCpjT1d'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/bubble_brown.jpg
 biography_enhanced_at: '2025-11-20T07:15:14.832501'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://www.bubblesbrown.com/about
-- https://substack.com/home/post/p-58455245
-- https://www.viberate.com/artist/bubbles-brown/
-- https://www.bandsintown.com/a/3567982-bubbles-brown
+  - 'http://www.bubblesbrown.com/about'
+  - 'https://substack.com/home/post/p-58455245'
+  - 'https://www.viberate.com/artist/bubbles-brown/'
+  - 'https://www.bandsintown.com/a/3567982-bubbles-brown'
 network_extracted: true
 entry_created: '2025-11-20T07:15:14.832508'
 last_updated: '2025-12-23T08:16:06.163836'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](bubble_brown.jpg)

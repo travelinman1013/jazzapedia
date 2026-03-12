@@ -3,41 +3,48 @@ biography_enhanced_at: '2026-01-05T07:56:55.759564'
 enhancement_provider: perplexity
 entry_created: '2026-01-05T07:56:55.759570'
 external_urls:
-  spotify: https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL
-  wikipedia: https://en.wikipedia.org/wiki/Presenting_Joe_Williams_and_Thad_Jones/Mel_Lewis,_the_Jazz_Orchestra
+  spotify: 'https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL'
+  wikipedia: >-
+    https://en.wikipedia.org/wiki/Presenting_Joe_Williams_and_Thad_Jones/Mel_Lewis,_the_Jazz_Orchestra
 genres:
-- vocal jazz
-- big band
-- swing music
-- jazz
-image_path: 03_Resources/source_material/ArtistPortraits/joe_williams_with_thad_jones_mel_lewis.jpg
+  - vocal jazz
+  - big band
+  - swing music
+  - jazz
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/joe_williams_with_thad_jones_mel_lewis.jpg
 last_updated: '2026-01-05T07:56:55.759571'
 musical_connections:
   collaborators:
-  - Thad Jones
-  - Mel Lewis
-  - Jerome Richardson
-  - Joe Farrell
+    - Thad Jones
+    - Mel Lewis
+    - Jerome Richardson
+    - Joe Farrell
   influenced: []
   mentors:
-  - Count Basie
+    - Count Basie
 network_extracted: true
-origin: Chicago, Illinois, United States (Joe Williams birthplace); New York City,
-  New York, United States (orchestra formation)
+origin: >-
+  Chicago, Illinois, United States (Joe Williams birthplace); New York City, New
+  York, United States (orchestra formation)
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Thad_Jones/Mel_Lewis_Orchestra
-- https://en.wikipedia.org/wiki/Presenting_Joe_Williams_and_Thad_Jones/Mel_Lewis,_the_Jazz_Orchestra
-- https://www.allaboutjazz.com/musicians/mel-lewis/
-- https://thesoundofvinyl.us/products/presenting-joe-williams-thad-jones-mel-lewis-the
-- https://www.allmusic.com/album/presenting-joe-williams-and-the-thad-jones-mel-lewis-jazz-orchestra-mw0000120692
+  - 'https://en.wikipedia.org/wiki/The_Thad_Jones/Mel_Lewis_Orchestra'
+  - >-
+    https://en.wikipedia.org/wiki/Presenting_Joe_Williams_and_Thad_Jones/Mel_Lewis,_the_Jazz_Orchestra
+  - 'https://www.allaboutjazz.com/musicians/mel-lewis/'
+  - >-
+    https://thesoundofvinyl.us/products/presenting-joe-williams-thad-jones-mel-lewis-the
+  - >-
+    https://www.allmusic.com/album/presenting-joe-williams-and-the-thad-jones-mel-lewis-jazz-orchestra-mw0000120692
 spotify_data:
   followers: 54581
   id: 7FMGtucexJvUxVz7scydEL
   popularity: 45
-  url: https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL
+  url: 'https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL'
 status: active
-title: JOE WILLIAMS WITH THAD JONES, MEL LEWIS
+title: 'Joe Williams With Thad Jones, Mel Lewis'
+artist_type: person
 ---
 
 ![](joe_williams_with_thad_jones_mel_lewis.jpg)

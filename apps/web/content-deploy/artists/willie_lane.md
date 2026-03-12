@@ -1,23 +1,23 @@
 ---
-title: WILLIE LANE
+title: Willie Lane
 wiki_slug: willie-lane
 schema_version: 2
 status: active
-birth_place: Athol, Massachusetts, USA
+birth_place: 'Athol, Massachusetts, USA'
 genres:
-- country hip hop
+  - country hip hop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/willie_lane.jpg
   caption: WILLIE LANE
   background: solo_singer
-  origin: Athol, Massachusetts, USA
+  origin: 'Athol, Massachusetts, USA'
 audio_profile:
   tempo_avg: 114.1
   energy_avg: 0.733
   valence_avg: 0.545
   danceability_avg: 0.628
   acousticness_avg: 0.153
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -5.1
   speechiness_avg: 0.054
   liveness_avg: 0.192
@@ -26,43 +26,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - MV & EE
-  - Stella Kola
-  - Wednesday Knudsen
+    - MV & EE
+    - Stella Kola
+    - Wednesday Knudsen
   influenced: []
   mentors:
-  - Matt Valentine
+    - Matt Valentine
 spotify_data:
   followers: 64248
   id: 5OCZWZ399lBKgxBxE8cjRM
   popularity: 42
-  url: https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM
+  url: 'https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM'
 discography_enriched: true
 top_tracks:
-- JUST FOR FUN (COWBOY CARTER)
-- Down by the Riverside (Down by the Riverside)
-- Down by the Riverside (Something To Dance To)
-- JUST FOR FUN (COWBOY CARTER)
-- Bachelorettes On Broadway (Right Now)
-- Silverado (Silverado)
-- Back Porch (Right Now)
-- Bachelorettes on Broadway (Bachelorettes on Broadway)
-- Yeehaw (Yeehaw)
-- For My Dawgs (feat. Willie Jones & Blanco Brown) (For My Dawgs (feat. Willie Jones & Blanco Brown))
+  - JUST FOR FUN (COWBOY CARTER)
+  - Down by the Riverside (Down by the Riverside)
+  - Down by the Riverside (Something To Dance To)
+  - JUST FOR FUN (COWBOY CARTER)
+  - Bachelorettes On Broadway (Right Now)
+  - Silverado (Silverado)
+  - Back Porch (Right Now)
+  - Bachelorettes on Broadway (Bachelorettes on Broadway)
+  - Yeehaw (Yeehaw)
+  - >-
+    For My Dawgs (feat. Willie Jones & Blanco Brown) (For My Dawgs (feat. Willie
+    Jones & Blanco Brown))
 external_urls:
-  spotify: https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM
+  spotify: 'https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/willie_lane.jpg
 biography_enhanced_at: '2025-10-28T09:11:04.430929'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Forced Exposure
-- AllMusic
-- Raven Sings The Blues
+  - Forced Exposure
+  - AllMusic
+  - Raven Sings The Blues
 network_extracted: true
 entry_created: '2025-10-28T09:11:04.430933'
 last_updated: '2025-12-23T08:16:18.195863'
+artist_type: person
 ---
 
 ![](willie_lane.jpg)

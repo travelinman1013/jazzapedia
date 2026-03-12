@@ -5,27 +5,27 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1992-10-10'
-birth_place: Spanish Town
+birth_place: 'Spanish Town, Jamaica'
 genres:
-- reggae
-- roots reggae
-- dancehall
-- ragga
-- lovers rock
+  - reggae
+  - roots reggae
+  - dancehall
+  - ragga
+  - lovers rock
 instruments:
-- original
-associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3dc96c51-406b-4fcb-8553-0cc1a49b264c
-  name: Chronixx and the Zincfence Redemption
-- begin: ''
-  end: ''
-  instruments:
   - original
-  mbid: 23b19bc5-813e-4456-bbae-ac3ca118f535
-  name: SAULT
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3dc96c51-406b-4fcb-8553-0cc1a49b264c
+    name: Chronixx and the Zincfence Redemption
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 23b19bc5-813e-4456-bbae-ac3ca118f535
+    name: SAULT
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/chronixx.jpg
   caption: Chronixx
@@ -33,7 +33,7 @@ infobox:
   born: '1992-10-10'
   origin: Spanish Town
 audio_profile:
-  tempo_avg: 112.0
+  tempo_avg: 112
   energy_avg: 0.673
   valence_avg: 0.684
   danceability_avg: 0.689
@@ -47,48 +47,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Chronicle (father)
-  - Major Lazer
-  - Jah Ova Evil collective members (Aijah & Jahnoi)
+    - Chronicle (father)
+    - Major Lazer
+    - Jah Ova Evil collective members (Aijah & Jahnoi)
   influenced: []
   mentors:
-  - Chronicle (father)
-  - Danny Browne
-  - Romaine 'Teflon' Arnett (ZincFence Recordz)
-  - Alty 'J.O.E' Nunes
+    - Chronicle (father)
+    - Danny Browne
+    - Romaine 'Teflon' Arnett (ZincFence Recordz)
+    - Alty 'J.O.E' Nunes
 spotify_data:
   followers: 643590
   id: 2oZcMYiKpjaA2Et5mU3RPP
   popularity: 63
-  url: https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP
+  url: 'https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP'
 discography_enriched: true
 top_tracks:
-- Eternal Light (Free Nationals)
-- Who Knows (Ancient Future)
-- Here Comes Trouble
-- Skankin' Sweet (Chronology)
-- Jam (feat. Wizkid) (SoundMan Vol. 1)
-- Who Knows (Ancient Future)
-- Bye Bye Bye (feat. Chronixx) - S.P.Y Remix
-- Smile Jamaica (Chronology)
-- Spanish Town Rockin' (Chronology)
-- Trouble
+  - Eternal Light (Free Nationals)
+  - Who Knows (Ancient Future)
+  - Here Comes Trouble
+  - Skankin' Sweet (Chronology)
+  - Jam (feat. Wizkid) (SoundMan Vol. 1)
+  - Who Knows (Ancient Future)
+  - Bye Bye Bye (feat. Chronixx) - S.P.Y Remix
+  - Smile Jamaica (Chronology)
+  - Spanish Town Rockin' (Chronology)
+  - Trouble
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/0de2154a-6c01-4cd6-8795-78d21211d6e6
-  spotify: https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP
+  musicbrainz: 'https://musicbrainz.org/artist/0de2154a-6c01-4cd6-8795-78d21211d6e6'
+  spotify: 'https://open.spotify.com/artist/2oZcMYiKpjaA2Et5mU3RPP'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/chronixx.jpg
 biography_enhanced_at: '2025-12-04T08:20:02.443594'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- reggaeville.com
-- youtube.com - Meet Singer Chronixx Wife, Houses, Age, Family, Net Worth & Lifestyle
-- submergemag.com
-- afropop.org
-- rootfire.net
-- awesomedjproductions.com
-- reggae.today
+  - reggaeville.com
+  - >-
+    youtube.com - Meet Singer Chronixx Wife, Houses, Age, Family, Net Worth &
+    Lifestyle
+  - submergemag.com
+  - afropop.org
+  - rootfire.net
+  - awesomedjproductions.com
+  - reggae.today
 network_extracted: true
 entry_created: '2025-12-04T08:20:02.443600'
 last_updated: '2025-12-23T08:16:06.958428'
@@ -96,7 +98,7 @@ disambiguation: Jamaican reggae artist
 gender: Male
 musicbrainz_id: 0de2154a-6c01-4cd6-8795-78d21211d6e6
 tags:
-- reggae
+  - reggae
 ---
 
 ![](chronixx.jpg)

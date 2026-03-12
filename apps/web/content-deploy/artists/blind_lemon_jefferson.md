@@ -1,20 +1,20 @@
 ---
-title: blind lemon jefferson
+title: Blind Lemon Jefferson
 wiki_slug: blind-lemon-jefferson
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1893-09-24'
-birth_place: Coutchman
+birth_place: 'Couchman, Texas, United States'
 death_date: '1929-12-19'
 genres:
-- country blues
-- blues
-- classic blues
-- ragtime
+  - country blues
+  - blues
+  - classic blues
+  - ragtime
 instruments:
-- guitar
-- spoken vocals
+  - guitar
+  - spoken vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/blind_lemon_jefferson.jpg
   caption: blind lemon jefferson
@@ -37,44 +37,44 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lead Belly (Huddie Ledbetter)
+    - Lead Belly (Huddie Ledbetter)
   influenced:
-  - T-Bone Walker
-  - B.B. King
-  - Lightnin' Hopkins
-  - The Beatles (via Carl Perkins)
+    - T-Bone Walker
+    - B.B. King
+    - Lightnin' Hopkins
+    - The Beatles (via Carl Perkins)
   mentors:
-  - Traveling Southern guitarists
+    - Traveling Southern guitarists
 spotify_data:
   followers: 53661
   id: 6EsuMifB8c5rm5P2DdjiLe
   popularity: 24
-  url: https://open.spotify.com/artist/6EsuMifB8c5rm5P2DdjiLe
+  url: 'https://open.spotify.com/artist/6EsuMifB8c5rm5P2DdjiLe'
 discography_enriched: true
 top_tracks:
-- Match Box Blues (4446) (Blind Lemon Jefferson Vol. 2 (1927))
-- Black Snake Moan (Easy Rider Blues)
-- Match Box Blues (Easy Rider Blues)
-- Bad Luck Blues (Blind Lemon Jefferson)
-- Match Box Blues (Blind Lemon Jefferson)
-- 'See That My Grave''s Kept Clean (American Epic: The Collection)'
-- Match Box Blues
-- Black Snake Moan
-- Black Snake Moan
-- Easy Rider Blues (Blind Lemon Jefferson)
+  - Match Box Blues (4446) (Blind Lemon Jefferson Vol. 2 (1927))
+  - Black Snake Moan (Easy Rider Blues)
+  - Match Box Blues (Easy Rider Blues)
+  - Bad Luck Blues (Blind Lemon Jefferson)
+  - Match Box Blues (Blind Lemon Jefferson)
+  - 'See That My Grave''s Kept Clean (American Epic: The Collection)'
+  - Match Box Blues
+  - Black Snake Moan
+  - Black Snake Moan
+  - Easy Rider Blues (Blind Lemon Jefferson)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9481010a-db23-469d-87df-b04118850efb
-  spotify: https://open.spotify.com/artist/6EsuMifB8c5rm5P2DdjiLe
-  wikipedia: https://en.wikipedia.org/wiki/Blind_Lemon_Jefferson
+  musicbrainz: 'https://musicbrainz.org/artist/9481010a-db23-469d-87df-b04118850efb'
+  spotify: 'https://open.spotify.com/artist/6EsuMifB8c5rm5P2DdjiLe'
+  wikipedia: 'https://en.wikipedia.org/wiki/Blind_Lemon_Jefferson'
 image_path: 03_Resources/source_material/ArtistPortraits/blind_lemon_jefferson.jpg
 biography_enhanced_at: '2025-11-08T22:01:59.046867'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.britannica.com/biography/Blind-Lemon-Jefferson
-- https://en.wikipedia.org/wiki/Blind_Lemon_Jefferson
-- https://mojohand.com/glossary/blind-lemon-jefferson/
-- https://teachrock.org/people/jefferson-blind-lemon/
+  - 'https://www.britannica.com/biography/Blind-Lemon-Jefferson'
+  - 'https://en.wikipedia.org/wiki/Blind_Lemon_Jefferson'
+  - 'https://mojohand.com/glossary/blind-lemon-jefferson/'
+  - 'https://teachrock.org/people/jefferson-blind-lemon/'
 network_extracted: true
 entry_created: '2025-11-08T22:01:59.046882'
 last_updated: '2025-12-23T08:16:05.722690'
@@ -82,9 +82,11 @@ disambiguation: American blues and gospel singer‐songwriter
 gender: Male
 musicbrainz_id: 9481010a-db23-469d-87df-b04118850efb
 tags:
-- acoustic blues
-- acoustic texas blues
-- american
+  - acoustic blues
+  - acoustic texas blues
+  - american
+is_active: false
+origin: 'Dallas, Texas, United States'
 ---
 
 ![](blind_lemon_jefferson.jpg)

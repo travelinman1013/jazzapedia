@@ -3,13 +3,13 @@ title: Hoyt Axton
 wiki_slug: hoyt-axton
 schema_version: 2
 status: active
-birth_place: Duncan, Oklahoma, United States
+birth_place: 'Duncan, Oklahoma, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/hoyt_axton.jpg
   caption: Hoyt Axton
   background: solo_singer
-  origin: Duncan, Oklahoma, United States
+  origin: 'Duncan, Oklahoma, United States'
 audio_profile:
   tempo_avg: 119.8
   energy_avg: 0.47
@@ -25,54 +25,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Three Dog Night
-  - Steppenwolf
-  - Linda Ronstadt
-  - Renee Armand
-  - Tanya Tucker
-  - Ringo Starr
+    - Three Dog Night
+    - Steppenwolf
+    - Linda Ronstadt
+    - Renee Armand
+    - Tanya Tucker
+    - Ringo Starr
   influenced:
-  - Three Dog Night
-  - Steppenwolf
-  - Ringo Starr
+    - Three Dog Night
+    - Steppenwolf
+    - Ringo Starr
   mentors:
-  - Mae Boren Axton
+    - Mae Boren Axton
 spotify_data:
   followers: 22185
   id: 4Qfv2sYwJcGqdqF7UaMZgQ
   popularity: 36
-  url: https://open.spotify.com/artist/4Qfv2sYwJcGqdqF7UaMZgQ
+  url: 'https://open.spotify.com/artist/4Qfv2sYwJcGqdqF7UaMZgQ'
 discography_enriched: true
 top_tracks:
-- Oh I'm A Good Old Rebel
-- Boney Fingers (Life Machine)
-- Sweet Evangelina (Loves to Sing)
-- Evangelina (Fearless)
-- Lion In Winter (Southbound)
-- I Dream Of Highways (Life Machine)
-- Movin' Down the Line (Saturday's Child)
-- Yellow Rose of Texas
-- Jealous Man (Fearless)
-- Della and the Dealer (Loves to Sing)
+  - Oh I'm A Good Old Rebel
+  - Boney Fingers (Life Machine)
+  - Sweet Evangelina (Loves to Sing)
+  - Evangelina (Fearless)
+  - Lion In Winter (Southbound)
+  - I Dream Of Highways (Life Machine)
+  - Movin' Down the Line (Saturday's Child)
+  - Yellow Rose of Texas
+  - Jealous Man (Fearless)
+  - Della and the Dealer (Loves to Sing)
 external_urls:
-  spotify: https://open.spotify.com/artist/4Qfv2sYwJcGqdqF7UaMZgQ
-  wikipedia: https://en.wikipedia.org/wiki/Hoyt_Axton
+  spotify: 'https://open.spotify.com/artist/4Qfv2sYwJcGqdqF7UaMZgQ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Hoyt_Axton'
 image_path: 03_Resources/source_material/ArtistPortraits/hoyt_axton.jpg
 biography_enhanced_at: '2025-12-08T04:25:15.683842'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Hoyt_Axton
-- https://www.ebsco.com/research-starters/biography/hoyt-axton
-- https://www.udiscovermusic.com/artist/hoyt-axton/
-- https://www.last.fm/music/Hoyt+Axton/+wiki
-- https://www.okhistory.org/publications/enc/entry?entry=AX001
-- https://www.windrep.org/Hoyt_Axton
-- https://www.imdb.com/name/nm0001924/
-- https://kids.kiddle.co/Hoyt_Axton
+  - 'https://en.wikipedia.org/wiki/Hoyt_Axton'
+  - 'https://www.ebsco.com/research-starters/biography/hoyt-axton'
+  - 'https://www.udiscovermusic.com/artist/hoyt-axton/'
+  - 'https://www.last.fm/music/Hoyt+Axton/+wiki'
+  - 'https://www.okhistory.org/publications/enc/entry?entry=AX001'
+  - 'https://www.windrep.org/Hoyt_Axton'
+  - 'https://www.imdb.com/name/nm0001924/'
+  - 'https://kids.kiddle.co/Hoyt_Axton'
 network_extracted: true
 entry_created: '2025-12-08T04:25:15.683850'
 last_updated: '2025-12-23T08:16:09.726141'
+birth_date: '1938-03-25'
+death_date: '1999-10-26'
+artist_type: person
 ---
 
 ![](hoyt_axton.jpg)

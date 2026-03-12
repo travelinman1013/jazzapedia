@@ -1,17 +1,17 @@
 ---
-title: SHIRLEY BROWN
+title: Shirley Brown
 wiki_slug: shirley-brown
 schema_version: 2
 status: active
-birth_place: West Memphis, Arkansas, United States
+birth_place: 'West Memphis, Arkansas, United States'
 genres:
-- soul
-- blues
+  - soul
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/SHIRLEY_BROWN.jpg
   caption: SHIRLEY BROWN
   background: solo_singer
-  origin: West Memphis, Arkansas, United States
+  origin: 'West Memphis, Arkansas, United States'
 audio_profile:
   tempo_avg: 120.7
   energy_avg: 0.488
@@ -19,7 +19,7 @@ audio_profile:
   danceability_avg: 0.646
   acousticness_avg: 0.382
   instrumentalness_avg: 0.003
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.072
   liveness_avg: 0.139
   track_count: 50
@@ -27,47 +27,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Oliver Sain
-  - Jim Stewart
-  - Bettye Crutcher
+    - Oliver Sain
+    - Jim Stewart
+    - Bettye Crutcher
   influenced:
-  - Millie Jackson
+    - Millie Jackson
   mentors:
-  - Albert King
+    - Albert King
 spotify_data:
   followers: 115453
   id: 5EORJzqrFf7pwweCv9fUnV
   popularity: 34
-  url: https://open.spotify.com/artist/5EORJzqrFf7pwweCv9fUnV
+  url: 'https://open.spotify.com/artist/5EORJzqrFf7pwweCv9fUnV'
 discography_enriched: true
 top_tracks:
-- Woman To Woman (Woman to Woman [Stax Remasters])
-- Stay With Me Baby (Woman to Woman [Stax Remasters])
-- Long As You Love Me (Woman to Woman [Stax Remasters])
-- Don't Go Lookin' for My Man (The Soul of a Woman)
-- It Ain't No Fun (Woman to Woman [Stax Remasters])
-- I Need You Tonight (Woman to Woman [Stax Remasters])
-- You Ain't Woman Enough To Take My Man (Diva of Soul)
-- I've Got To Go On Without You (Woman to Woman [Stax Remasters])
-- Passion (Woman to Woman [Stax Remasters])
-- Woman To Woman
+  - 'Woman To Woman (Woman to Woman [Stax Remasters])'
+  - 'Stay With Me Baby (Woman to Woman [Stax Remasters])'
+  - 'Long As You Love Me (Woman to Woman [Stax Remasters])'
+  - Don't Go Lookin' for My Man (The Soul of a Woman)
+  - 'It Ain''t No Fun (Woman to Woman [Stax Remasters])'
+  - 'I Need You Tonight (Woman to Woman [Stax Remasters])'
+  - You Ain't Woman Enough To Take My Man (Diva of Soul)
+  - 'I''ve Got To Go On Without You (Woman to Woman [Stax Remasters])'
+  - 'Passion (Woman to Woman [Stax Remasters])'
+  - Woman To Woman
 external_urls:
-  spotify: https://open.spotify.com/artist/5EORJzqrFf7pwweCv9fUnV
-  wikipedia: https://en.wikipedia.org/wiki/Shirley_Brown
+  spotify: 'https://open.spotify.com/artist/5EORJzqrFf7pwweCv9fUnV'
+  wikipedia: 'https://en.wikipedia.org/wiki/Shirley_Brown'
 image_path: 03_Resources/source_material/ArtistPortraits/SHIRLEY_BROWN.jpg
 biography_enhanced_at: '2025-10-19T11:39:57.697666'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Shirley_Brown
-- https://www.aaemusic.com/artist/shirley-brown
-- https://divabetic.org/2024/03/28/divabetic-salutes-shirley-brown/
-- http://www.soulwalking.co.uk/Shirley%20Brown.html
-- https://www.southernsoulrnb.com/artistguide.cfm?aid=34
+  - 'https://en.wikipedia.org/wiki/Shirley_Brown'
+  - 'https://www.aaemusic.com/artist/shirley-brown'
+  - 'https://divabetic.org/2024/03/28/divabetic-salutes-shirley-brown/'
+  - 'http://www.soulwalking.co.uk/Shirley%20Brown.html'
+  - 'https://www.southernsoulrnb.com/artistguide.cfm?aid=34'
 network_extracted: true
 entry_created: '2025-10-19T11:39:57.697680'
 last_updated: '2025-12-23T08:16:03.779543'
-
+birth_date: '1947-01-06'
+artist_type: person
 ---
 
 ![](SHIRLEY_BROWN.jpg)

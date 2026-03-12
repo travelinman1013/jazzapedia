@@ -1,10 +1,10 @@
 ---
-title: Pfister Sisters
+title: The Pfister Sisters
 wiki_slug: pfister-sisters
 schema_version: 2
 status: active
 genres:
-- boogie-woogie
+  - boogie-woogie
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Pfister_Sisters.jpg
   caption: Pfister Sisters
@@ -15,7 +15,7 @@ audio_profile:
   valence_avg: 0.511
   danceability_avg: 0.528
   acousticness_avg: 0.736
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -8.4
   speechiness_avg: 0.093
   liveness_avg: 0.373
@@ -30,32 +30,35 @@ spotify_data:
   followers: 300
   id: 31CpmaZEsWw40wmciRf1Kd
   popularity: 0
-  url: https://open.spotify.com/artist/31CpmaZEsWw40wmciRf1Kd
+  url: 'https://open.spotify.com/artist/31CpmaZEsWw40wmciRf1Kd'
 discography_enriched: true
 top_tracks:
-- Sing, Sing, Sing (Change In The Weather)
-- L'aissez Faire (Change In The Weather)
-- It's The Girl (Change In The Weather)
-- Don't Sit Under The Apple Tree (With Anyone Else But Me) (Change In The Weather)
-- Why Can't You Behave? (Change In The Weather)
-- There'll Be Some Changes Made (Change In The Weather)
-- It Don't Mean A Thing (If It Ain't Got That Swing) (Change In The Weather)
-- Between The Devil And The Deep Blue Sea (Change In The Weather)
-- Bei Mir Bist Du Schon (Change In The Weather)
-- You Oughta Be In Pictures (Change In The Weather)
+  - 'Sing, Sing, Sing (Change In The Weather)'
+  - L'aissez Faire (Change In The Weather)
+  - It's The Girl (Change In The Weather)
+  - >-
+    Don't Sit Under The Apple Tree (With Anyone Else But Me) (Change In The
+    Weather)
+  - Why Can't You Behave? (Change In The Weather)
+  - There'll Be Some Changes Made (Change In The Weather)
+  - It Don't Mean A Thing (If It Ain't Got That Swing) (Change In The Weather)
+  - Between The Devil And The Deep Blue Sea (Change In The Weather)
+  - Bei Mir Bist Du Schon (Change In The Weather)
+  - You Oughta Be In Pictures (Change In The Weather)
 external_urls:
-  spotify: https://open.spotify.com/artist/31CpmaZEsWw40wmciRf1Kd
+  spotify: 'https://open.spotify.com/artist/31CpmaZEsWw40wmciRf1Kd'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/Pfister_Sisters.jpg
 biography_enhanced_at: '2025-10-22T07:04:18.136190'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Metason ArtistInfo[3]
+  - 'Metason ArtistInfo[3]'
 network_extracted: true
 entry_created: '2025-10-22T07:04:18.136204'
 last_updated: '2025-12-23T08:16:03.580520'
 origin: Unknown
+artist_type: band
 ---
 
 ![](Pfister_Sisters.jpg)

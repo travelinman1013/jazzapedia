@@ -1,109 +1,112 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  - piano
-  mbid: e9ac5139-2da0-4f00-9ac2-c713e3813ff4
-  name: The Horace Silver Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  - piano
-  mbid: 8efa0fa8-d6f1-4be0-a702-67a2bf57c7ae
-  name: Horace Silver Sextet
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: bec3f2e3-da8f-4f2c-9256-56c6f89d173d
-  name: Hank Mobley Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 607d7275-2b92-49e5-a7ee-32f9cc29b076
-  name: Miles Davis All Stars
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 03606dee-b333-48fe-b9af-d671c837d40f
-  name: Miles Davis Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 1d112249-3a6c-44cd-9434-23fa6d38089a
-  name: Horace Silver Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - piano
+    mbid: e9ac5139-2da0-4f00-9ac2-c713e3813ff4
+    name: The Horace Silver Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - piano
+    mbid: 8efa0fa8-d6f1-4be0-a702-67a2bf57c7ae
+    name: Horace Silver Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: bec3f2e3-da8f-4f2c-9256-56c6f89d173d
+    name: Hank Mobley Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 607d7275-2b92-49e5-a7ee-32f9cc29b076
+    name: Miles Davis All Stars
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 03606dee-b333-48fe-b9af-d671c837d40f
+    name: Miles Davis Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 1d112249-3a6c-44cd-9434-23fa6d38089a
+    name: Horace Silver Quartet
 biography_enhanced_at: '2026-01-22T07:24:59.742715'
 birth_date: '1928-09-02'
-birth_place: Norwalk
+birth_place: 'Norwalk, Connecticut, United States'
 death_date: '2014-06-18'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:24:59.742722'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d185d986-ee96-4fd3-bd61-8c848a4765b6
-  spotify: https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5
-  wikipedia: https://en.wikipedia.org/wiki/Horace_Silver
+  musicbrainz: 'https://musicbrainz.org/artist/d185d986-ee96-4fd3-bd61-8c848a4765b6'
+  spotify: 'https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5'
+  wikipedia: 'https://en.wikipedia.org/wiki/Horace_Silver'
 gender: Male
 genres:
-- hard bop
-- jazz
-- bebop
-- cool jazz
-- soul jazz
-- jazz ballads
+  - hard bop
+  - jazz
+  - bebop
+  - cool jazz
+  - soul jazz
+  - jazz ballads
 image_path: 03_Resources/source_material/ArtistPortraits/horace_silver.jpg
 instruments:
-- eponymous
-- original
-- piano
-- electric piano
+  - eponymous
+  - original
+  - piano
+  - electric piano
 last_updated: '2026-01-22T07:24:59.742723'
 musical_connections:
   collaborators:
-  - Art Blakey
-  - Miles Davis
-  - Blue Mitchell
-  - Junior Cook
-  - Joe Henderson
-  - Michael Brecker
-  - Randy Brecker
-  - Paul Motian
-  - Roy Brooks
-  - Al Foster
+    - Art Blakey
+    - Miles Davis
+    - Blue Mitchell
+    - Junior Cook
+    - Joe Henderson
+    - Michael Brecker
+    - Randy Brecker
+    - Paul Motian
+    - Roy Brooks
+    - Al Foster
   influenced:
-  - Herbie Hancock
-  - Chick Corea
-  - Keith Jarrett
+    - Herbie Hancock
+    - Chick Corea
+    - Keith Jarrett
   mentors:
-  - Lester Young
-  - Stan Getz
+    - Lester Young
+    - Stan Getz
 musicbrainz_id: d185d986-ee96-4fd3-bd61-8c848a4765b6
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Horace_Silver
-- https://www.britannica.com/biography/Horace-Silver
-- https://www.knba.org/2014-06-18/jazz-pianist-composer-horace-silver-dies-at-85
-- https://www.bluenote.com/artist/horace-silver/
-- https://jazzfuel.com/horace-silver-biography/
+  - 'https://en.wikipedia.org/wiki/Horace_Silver'
+  - 'https://www.britannica.com/biography/Horace-Silver'
+  - >-
+    https://www.knba.org/2014-06-18/jazz-pianist-composer-horace-silver-dies-at-85
+  - 'https://www.bluenote.com/artist/horace-silver/'
+  - 'https://jazzfuel.com/horace-silver-biography/'
 spotify_data:
   followers: 137833
   id: 5ZATfKurLqflrBhv2FLht5
   popularity: 47
-  url: https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5
+  url: 'https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5'
 status: active
 tags:
-- hard bop
-- jazz
-- soul jazz
-title: horace silver
+  - hard bop
+  - jazz
+  - soul jazz
+title: Horace Silver
+is_active: false
+origin: 'New York City, New York, United States'
 ---
 
 ![](horace_silver.jpg)

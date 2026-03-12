@@ -2,11 +2,11 @@
 title: Sam Brothers 5
 wiki_slug: sam-brothers-5
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- zydeco
-- cajun
+  - zydeco
+  - cajun
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sam_brothers_5.jpg
   caption: Sam Brothers 5
@@ -26,51 +26,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Leon Sam
-  - Carl Sam
-  - Glen Sam
-  - Calvin Sam
-  - Rodney Sam
+    - Leon Sam
+    - Carl Sam
+    - Glen Sam
+    - Calvin Sam
+    - Rodney Sam
   influenced: []
   mentors:
-  - Herbert Sam
+    - Herbert Sam
 spotify_data:
   followers: 47
   id: 7KvX5a3sdivx5pKFtShgqd
   popularity: 1
-  url: https://open.spotify.com/artist/7KvX5a3sdivx5pKFtShgqd
+  url: 'https://open.spotify.com/artist/7KvX5a3sdivx5pKFtShgqd'
 discography_enriched: true
 top_tracks:
-- Lafayette Special (Zydeco Champs)
-- Lafayette Special (15 Louisiana Zydeco Classics)
-- SAM (Get Down) (Sam (Get Down!))
-- Country Boy (Sam (Get Down!))
-- S. B. 5 (Zydeco Champs)
-- Lafayette Special (Sam (Get Down!))
-- La La Waltz (Sam (Get Down!))
-- Hey! Mama (Sam (Get Down!))
-- Roll Me Baby (Sam (Get Down!))
-- Good Rockin' Sam's Boogie (Sam (Get Down!))
+  - Lafayette Special (Zydeco Champs)
+  - Lafayette Special (15 Louisiana Zydeco Classics)
+  - SAM (Get Down) (Sam (Get Down!))
+  - Country Boy (Sam (Get Down!))
+  - S. B. 5 (Zydeco Champs)
+  - Lafayette Special (Sam (Get Down!))
+  - La La Waltz (Sam (Get Down!))
+  - Hey! Mama (Sam (Get Down!))
+  - Roll Me Baby (Sam (Get Down!))
+  - Good Rockin' Sam's Boogie (Sam (Get Down!))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a3558788-44c6-49d1-a2c5-6658236b666e
-  spotify: https://open.spotify.com/artist/7KvX5a3sdivx5pKFtShgqd
+  musicbrainz: 'https://musicbrainz.org/artist/a3558788-44c6-49d1-a2c5-6658236b666e'
+  spotify: 'https://open.spotify.com/artist/7KvX5a3sdivx5pKFtShgqd'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/sam_brothers_5.jpg
 biography_enhanced_at: '2025-12-15T01:23:45.097528'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.shazam.com/artist/sam-brothers-five/573571192
-- https://arhoolie.org/herbert-sam-interview/
-- https://flattownmusic.com/artist/sam-brothers-five/
-- https://arhoolie.org/artist/sam-brothers-5/
-- https://www.allmusic.com/artist/sam-brothers-five-mn0000285351
-- https://folkways.si.edu/sam-brothers-5/sam-get-down/cajun-zydeco/music/album/smithsonian
+  - 'https://www.shazam.com/artist/sam-brothers-five/573571192'
+  - 'https://arhoolie.org/herbert-sam-interview/'
+  - 'https://flattownmusic.com/artist/sam-brothers-five/'
+  - 'https://arhoolie.org/artist/sam-brothers-5/'
+  - 'https://www.allmusic.com/artist/sam-brothers-five-mn0000285351'
+  - >-
+    https://folkways.si.edu/sam-brothers-5/sam-get-down/cajun-zydeco/music/album/smithsonian
 network_extracted: true
 entry_created: '2025-12-15T01:23:45.097545'
 last_updated: '2025-12-23T08:16:15.290077'
 musicbrainz_id: a3558788-44c6-49d1-a2c5-6658236b666e
-origin: Near Opelousas, Louisiana, USA
+origin: 'Near Opelousas, Louisiana, USA'
+birth_place: 'Opelousas, Louisiana, United States'
+birth_date: '1924'
 ---
 
 ![](sam_brothers_5.jpg)

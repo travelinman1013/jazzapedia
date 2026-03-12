@@ -3,13 +3,13 @@ title: Mitch Sanders & Tricky
 wiki_slug: mitch-sanders-tricky
 schema_version: 2
 status: active
-birth_place: Bristol, England, United Kingdom
+birth_place: 'Bristol, England, United Kingdom'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/mitch_sanders_and_tricky.jpg
   caption: Mitch Sanders & Tricky
   background: solo_singer
-  origin: Bristol, England, United Kingdom
+  origin: 'Bristol, England, United Kingdom'
 audio_profile:
   tempo_avg: 143.7
   energy_avg: 0.488
@@ -25,45 +25,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Catherine Marks
-  - Declan McKenna
-  - Flyte
+    - Catherine Marks
+    - Declan McKenna
+    - Flyte
   influenced: []
   mentors:
-  - Mitch Sanders' father
-  - Catherine Marks
+    - Mitch Sanders' father
+    - Catherine Marks
 spotify_data:
   followers: 997
   id: 7HedZ72Eue9RBASoQXqQWf
   popularity: 23
-  url: https://open.spotify.com/artist/7HedZ72Eue9RBASoQXqQWf
+  url: 'https://open.spotify.com/artist/7HedZ72Eue9RBASoQXqQWf'
 discography_enriched: true
 top_tracks:
-- She Drives The Car (These Things We Carry)
-- Garden Of England (Garden Of England)
-- Emotion Kicks (Emotion Kicks)
-- Heaven Is Ours (Heaven Is Ours)
-- Heroes Wall (Heroes Wall)
-- Ellen (Ellen)
-- Heroes Wall (These Things We Carry)
-- Heaven Is Ours (Emotion Kicks)
-- Garden Of England (These Things We Carry)
-- Moth (Ellen)
+  - She Drives The Car (These Things We Carry)
+  - Garden Of England (Garden Of England)
+  - Emotion Kicks (Emotion Kicks)
+  - Heaven Is Ours (Heaven Is Ours)
+  - Heroes Wall (Heroes Wall)
+  - Ellen (Ellen)
+  - Heroes Wall (These Things We Carry)
+  - Heaven Is Ours (Emotion Kicks)
+  - Garden Of England (These Things We Carry)
+  - Moth (Ellen)
 external_urls:
-  spotify: https://open.spotify.com/artist/7HedZ72Eue9RBASoQXqQWf
+  spotify: 'https://open.spotify.com/artist/7HedZ72Eue9RBASoQXqQWf'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/mitch_sanders_and_tricky.jpg
 biography_enhanced_at: '2025-11-05T12:48:49.332380'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://readdork.com/features/mitch-sanders-interview-nov25/
-- https://www.soundcity.uk.com/profile/mitch-sanders-1
-- https://www.wonderlandmagazine.com/2025/10/27/interview-mitch-sanders/
-- https://www.shazam.com/artist/-/1470570109
+  - 'https://readdork.com/features/mitch-sanders-interview-nov25/'
+  - 'https://www.soundcity.uk.com/profile/mitch-sanders-1'
+  - 'https://www.wonderlandmagazine.com/2025/10/27/interview-mitch-sanders/'
+  - 'https://www.shazam.com/artist/-/1470570109'
 network_extracted: true
 entry_created: '2025-11-05T12:48:49.332407'
 last_updated: '2025-12-23T08:16:13.222179'
+artist_type: person
 ---
 
 ![](mitch_sanders_and_tricky.jpg)

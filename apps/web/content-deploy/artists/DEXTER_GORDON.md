@@ -1,102 +1,104 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - tenor saxophone
-  mbid: 10d388ea-bf93-46c2-93e6-01952ed41b02
-  name: Dexter Gordon Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ce822195-459f-4d74-a4ae-d9e0ceacc197
-  name: Dexter Gordon Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: c7546284-4954-4fd0-9dd5-c08c1d911e73
-  name: The Dexter Gordon & Slide Hampton Sextet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: db98d3f8-1c74-423c-a0b8-6dd27de2663d
-  name: Dexter Gordon and His Boys
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 1f7aa941-282f-4faf-886f-57c162df60e4
-  name: The Dexter Gordon Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: 10d388ea-bf93-46c2-93e6-01952ed41b02
+    name: Dexter Gordon Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ce822195-459f-4d74-a4ae-d9e0ceacc197
+    name: Dexter Gordon Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: c7546284-4954-4fd0-9dd5-c08c1d911e73
+    name: The Dexter Gordon & Slide Hampton Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: db98d3f8-1c74-423c-a0b8-6dd27de2663d
+    name: Dexter Gordon and His Boys
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 1f7aa941-282f-4faf-886f-57c162df60e4
+    name: The Dexter Gordon Orchestra
 biography_enhanced_at: '2026-01-22T07:25:56.493902'
 birth_date: '1923-02-27'
-birth_place: Los Angeles
+birth_place: 'Los Angeles, California, United States'
 death_date: '1990-04-25'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:25:56.493909'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/cc1588e1-5ba3-45a6-b80c-b31035c89339
-  spotify: https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ
+  musicbrainz: 'https://musicbrainz.org/artist/cc1588e1-5ba3-45a6-b80c-b31035c89339'
+  spotify: 'https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ'
   wikipedia: Not provided in search results
 gender: Male
 genres:
-- hard bop
-- jazz
-- jazz ballads
-- bebop
-- cool jazz
+  - hard bop
+  - jazz
+  - jazz ballads
+  - bebop
+  - cool jazz
 image_path: 03_Resources/source_material/ArtistPortraits/dexter_gordon.jpg
 instruments:
-- tenor saxophone
-- eponymous
-- original
-- spoken vocals
+  - tenor saxophone
+  - eponymous
+  - original
+  - spoken vocals
 last_updated: '2026-01-22T07:25:56.493910'
 musical_connections:
   collaborators:
-  - Wardell Gray
-  - Dizzy Gillespie
-  - Charlie Parker
-  - Nat 'King' Cole
-  - Freddie Hubbard
-  - Bud Powell
-  - Bobby Hutcherson
-  - Miles Davis
-  - Max Roach
+    - Wardell Gray
+    - Dizzy Gillespie
+    - Charlie Parker
+    - Nat 'King' Cole
+    - Freddie Hubbard
+    - Bud Powell
+    - Bobby Hutcherson
+    - Miles Davis
+    - Max Roach
   influenced:
-  - Sonny Rollins
-  - John Coltrane
+    - Sonny Rollins
+    - John Coltrane
   mentors:
-  - Lloyd Reese
-  - Sam Browne
-  - Lionel Hampton
-  - Louis Armstrong
-  - Billy Eckstine
+    - Lloyd Reese
+    - Sam Browne
+    - Lionel Hampton
+    - Louis Armstrong
+    - Billy Eckstine
 musicbrainz_id: cc1588e1-5ba3-45a6-b80c-b31035c89339
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.udiscovermusic.com/uncategorized/dexter-gordon-master-tenor-sax/
-- https://mgleatherwork.com/blogs/news/dexter-gordon-the-tenor-saxophonist-who-shaped-bebop
-- https://www.ohjeanrecords.com/blogs/news/dexter-gordon-biography
-- https://dextergordon.com/pages/dexter-gordon-bio
-- https://www.arts.gov/honors/jazz/dexter-gordon
+  - 'https://www.udiscovermusic.com/uncategorized/dexter-gordon-master-tenor-sax/'
+  - >-
+    https://mgleatherwork.com/blogs/news/dexter-gordon-the-tenor-saxophonist-who-shaped-bebop
+  - 'https://www.ohjeanrecords.com/blogs/news/dexter-gordon-biography'
+  - 'https://dextergordon.com/pages/dexter-gordon-bio'
+  - 'https://www.arts.gov/honors/jazz/dexter-gordon'
 spotify_data:
   followers: 232133
   id: 3NUsiT2JSyaWAnWaXxDzhQ
   popularity: 50
-  url: https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ
+  url: 'https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ'
 status: active
 tags:
-- 2008 universal fire victim
-- bebop
-- bop
-title: dexter gordon
+  - 2008 universal fire victim
+  - bebop
+  - bop
+title: Dexter Gordon
+is_active: false
 ---
 
 ![](dexter_gordon.jpg)

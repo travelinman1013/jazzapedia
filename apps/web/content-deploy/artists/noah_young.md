@@ -3,13 +3,17 @@ title: Noah Young
 wiki_slug: noah-young
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States (current base); Vermont, United States (birthplace)
+birth_place: >-
+  New Orleans, Louisiana, United States (current base); Vermont, United States
+  (birthplace)
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/noah_young.jpg
   caption: Noah Young
   background: solo_singer
-  origin: New Orleans, Louisiana, United States (current base); Vermont, United States (birthplace)
+  origin: >-
+    New Orleans, Louisiana, United States (current base); Vermont, United States
+    (birthplace)
 audio_profile:
   tempo_avg: 115.8
   energy_avg: 0.6
@@ -25,51 +29,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Naughty Professor
-  - The Revivalists
-  - Jamison Ross
-  - Big Freedia
-  - Marcus King
-  - Ivan Neville
-  - David Shaw
-  - Noah Young Band
+    - Naughty Professor
+    - The Revivalists
+    - Jamison Ross
+    - Big Freedia
+    - Marcus King
+    - Ivan Neville
+    - David Shaw
+    - Noah Young Band
   influenced: []
   mentors:
-  - George Porter Jr.
-  - Various New Orleans Music Legends
+    - George Porter Jr.
+    - Various New Orleans Music Legends
 spotify_data:
   followers: 1190
   id: 3cz6mA1geg7vpFHLorgZLI
   popularity: 15
-  url: https://open.spotify.com/artist/3cz6mA1geg7vpFHLorgZLI
+  url: 'https://open.spotify.com/artist/3cz6mA1geg7vpFHLorgZLI'
 discography_enriched: true
 top_tracks:
-- Can't Help Falling in Love (Can't Help Falling in Love)
-- Where (Where)
-- The Dance - Acoustic (The Dance - Acoustic)
-- Coffee Shop (Acoustic) (Coffee Shop (Acoustic))
-- Kerry Park (Acoustic) (Kerry Park)
-- Attention (Acoustic) (Attention (Acoustic))
-- Never Said No (Kerry Park)
-- Lullaby (Kerry Park)
-- Kerry Park (Kerry Park)
-- Issues (feat. Tayler Lanning) (Issues (feat. Tayler Lanning))
+  - Can't Help Falling in Love (Can't Help Falling in Love)
+  - Where (Where)
+  - The Dance - Acoustic (The Dance - Acoustic)
+  - Coffee Shop (Acoustic) (Coffee Shop (Acoustic))
+  - Kerry Park (Acoustic) (Kerry Park)
+  - Attention (Acoustic) (Attention (Acoustic))
+  - Never Said No (Kerry Park)
+  - Lullaby (Kerry Park)
+  - Kerry Park (Kerry Park)
+  - Issues (feat. Tayler Lanning) (Issues (feat. Tayler Lanning))
 external_urls:
-  spotify: https://open.spotify.com/artist/3cz6mA1geg7vpFHLorgZLI
+  spotify: 'https://open.spotify.com/artist/3cz6mA1geg7vpFHLorgZLI'
   wikipedia: Not found
 image_path: 03_Resources/source_material/ArtistPortraits/noah_young.jpg
 biography_enhanced_at: '2025-11-29T06:58:10.794630'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.noahyoungbass.com/about
-- https://www.noahyoungbass.com
-- https://www.jazzmusicarchives.com/artist/noah-young
-- https://bassmusicianmagazine.com/2025/10/new-album-bassist-noah-young-noah/
-- https://wildfiremusic.net/2025/10/23/bassist-noah-young-allowed-accidents-and-chance-happenings-to-inform-solo-album-noah/
+  - 'https://www.noahyoungbass.com/about'
+  - 'https://www.noahyoungbass.com'
+  - 'https://www.jazzmusicarchives.com/artist/noah-young'
+  - 'https://bassmusicianmagazine.com/2025/10/new-album-bassist-noah-young-noah/'
+  - >-
+    https://wildfiremusic.net/2025/10/23/bassist-noah-young-allowed-accidents-and-chance-happenings-to-inform-solo-album-noah/
 network_extracted: true
 entry_created: '2025-11-29T06:58:10.794648'
 last_updated: '2025-12-23T08:16:13.614304'
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1991'
+artist_type: person
 ---
 
 ![](noah_young.jpg)

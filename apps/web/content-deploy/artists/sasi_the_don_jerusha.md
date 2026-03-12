@@ -1,15 +1,19 @@
 ---
-title: Sasi The Don, Jerusha
+title: 'Sasi The Don, Jerusha'
 wiki_slug: sasi-the-don-jerusha
 schema_version: 2
 status: active
-birth_place: Malaysia (Sasi The Don – national origin; specific birthplace city not reliably documented in the cited sources)
+birth_place: >-
+  Malaysia (Sasi The Don – national origin; specific birthplace city not
+  reliably documented in the cited sources)
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sasi_the_don_jerusha.jpg
-  caption: Sasi The Don, Jerusha
+  caption: 'Sasi The Don, Jerusha'
   background: solo_singer
-  origin: Malaysia (Sasi The Don – national origin; specific birthplace city not reliably documented in the cited sources)
+  origin: >-
+    Malaysia (Sasi The Don – national origin; specific birthplace city not
+    reliably documented in the cited sources)
 audio_profile:
   tempo_avg: 134.1
   energy_avg: 0.54
@@ -25,51 +29,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dr. Jerusha Naidoo
-  - Apache Indian
-  - Maxi Priest
+    - Dr. Jerusha Naidoo
+    - Apache Indian
+    - Maxi Priest
   influenced:
-  - Emerging Malaysian Tamil and multilingual pop-reggae artists
+    - Emerging Malaysian Tamil and multilingual pop-reggae artists
   mentors:
-  - Dr. Alban
-  - Apache Indian
-  - Shaggy
-  - Bob Marley
+    - Dr. Alban
+    - Apache Indian
+    - Shaggy
+    - Bob Marley
 spotify_data:
   followers: 496
   id: 3SyWnrT7mZVolH1d1CKZVb
   popularity: 18
-  url: https://open.spotify.com/artist/3SyWnrT7mZVolH1d1CKZVb
+  url: 'https://open.spotify.com/artist/3SyWnrT7mZVolH1d1CKZVb'
 discography_enriched: true
 top_tracks:
-- Inner Thoughts (Between the Lines (Original Cast Recording))
-- Do It for You (Between the Lines (Original Cast Recording))
-- Inner Thoughts (Reprise) (Between the Lines (Original Cast Recording))
-- MEDIOCRITY (MEDIOCRITY)
-- Monopoly (Monopoly)
-- where do u go? (where do u go?)
-- no feelings (no feelings)
-- Nightmare (Nightmare)
-- Zipporah (Her Sound, Vol. 1)
-- Happy Clappy (Sing, Dance, Play)
+  - Inner Thoughts (Between the Lines (Original Cast Recording))
+  - Do It for You (Between the Lines (Original Cast Recording))
+  - Inner Thoughts (Reprise) (Between the Lines (Original Cast Recording))
+  - MEDIOCRITY (MEDIOCRITY)
+  - Monopoly (Monopoly)
+  - where do u go? (where do u go?)
+  - no feelings (no feelings)
+  - Nightmare (Nightmare)
+  - 'Zipporah (Her Sound, Vol. 1)'
+  - 'Happy Clappy (Sing, Dance, Play)'
 external_urls:
-  spotify: https://open.spotify.com/artist/3SyWnrT7mZVolH1d1CKZVb
+  spotify: 'https://open.spotify.com/artist/3SyWnrT7mZVolH1d1CKZVb'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/sasi_the_don_jerusha.jpg
 biography_enhanced_at: '2025-12-08T04:51:33.838426'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- indianosaix.blogspot.com biography of Sasi The Don[1]
-- The Star feature on Sasi The Don’s 25th anniversary and “Fyre” single with Dr. Jerusha Naidoo[2]
-- 'YouTube interview: “Sasi the Don: From Malaysia to the World, Reggae with a Purpose!”[3]'
-- Malaysian Pop Wiki entry on Sasi The Don[4]
-- Official bio on Sasi The Don’s website[5]
-- New Straits Times feature “From coma to comeback with Sasi The Don”[6]
-- Astroulagam article on *My Perfect Yard* and “Fyre” featuring Jerusha Naidoo[8]
+  - 'indianosaix.blogspot.com biography of Sasi The Don[1]'
+  - >-
+    The Star feature on Sasi The Don’s 25th anniversary and “Fyre” single with
+    Dr. Jerusha Naidoo[2]
+  - >-
+    YouTube interview: “Sasi the Don: From Malaysia to the World, Reggae with a
+    Purpose!”[3]
+  - 'Malaysian Pop Wiki entry on Sasi The Don[4]'
+  - 'Official bio on Sasi The Don’s website[5]'
+  - 'New Straits Times feature “From coma to comeback with Sasi The Don”[6]'
+  - >-
+    Astroulagam article on *My Perfect Yard* and “Fyre” featuring Jerusha
+    Naidoo[8]
 network_extracted: true
 entry_created: '2025-12-08T04:51:33.838437'
 last_updated: '2025-12-23T08:16:15.410037'
+artist_type: person
+origin: 'Malaysia, Malaysia, Asia'
 ---
 
 ![](sasi_the_don_jerusha.jpg)

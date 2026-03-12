@@ -1,11 +1,11 @@
 ---
-title: LOST AND FOUND
+title: Lost and Found
 wiki_slug: lost-and-found
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- christian folk
+  - christian folk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lost_and_found.jpg
   caption: LOST AND FOUND
@@ -16,7 +16,7 @@ audio_profile:
   valence_avg: 0.457
   danceability_avg: 0.571
   acousticness_avg: 0.289
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -5.9
   speechiness_avg: 0.041
   liveness_avg: 0.199
@@ -25,47 +25,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Michael Bridges
-  - George Baum
+    - Michael Bridges
+    - George Baum
   influenced: []
   mentors: []
 spotify_data:
   followers: 24499
   id: 1r7O3OhNTysGMbMIsfuvPo
   popularity: 49
-  url: https://open.spotify.com/artist/1r7O3OhNTysGMbMIsfuvPo
+  url: 'https://open.spotify.com/artist/1r7O3OhNTysGMbMIsfuvPo'
 discography_enriched: true
 top_tracks:
-- PSALM 63 (UNFAILING LOVE) demo 7.mp3 (PSALM 63 (UNFAILING LOVE) demo 7.mp3)
-- PSALM 51 (RUNNING HOME) (PSALM 51 (RUNNING HOME))
-- PSALM 119 (BACK TO YOU) (PSALM 119 (BACK TO YOU))
-- PSALM 63 (UNFAILING LOVE) - Acoustic Version (PSALM 63 (UNFAILING LOVE) [Acoustic Version])
-- PSALM 30 (JOY IN THE MORNING) (PSALM 30 (JOY IN THE MORNING))
-- DEEP WATERS (PSALM 18) (DEEP WATERS (PSALM 18))
-- PRAISE THE LORD (PSALM 148) (PRAISE THE LORD (PSALM 148))
+  - PSALM 63 (UNFAILING LOVE) demo 7.mp3 (PSALM 63 (UNFAILING LOVE) demo 7.mp3)
+  - PSALM 51 (RUNNING HOME) (PSALM 51 (RUNNING HOME))
+  - PSALM 119 (BACK TO YOU) (PSALM 119 (BACK TO YOU))
+  - >-
+    PSALM 63 (UNFAILING LOVE) - Acoustic Version (PSALM 63 (UNFAILING LOVE)
+    [Acoustic Version])
+  - PSALM 30 (JOY IN THE MORNING) (PSALM 30 (JOY IN THE MORNING))
+  - DEEP WATERS (PSALM 18) (DEEP WATERS (PSALM 18))
+  - PRAISE THE LORD (PSALM 148) (PRAISE THE LORD (PSALM 148))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/40ea0170-53c2-4e10-aca2-09f1e6c1a6c8
-  spotify: https://open.spotify.com/artist/1r7O3OhNTysGMbMIsfuvPo
+  musicbrainz: 'https://musicbrainz.org/artist/40ea0170-53c2-4e10-aca2-09f1e6c1a6c8'
+  spotify: 'https://open.spotify.com/artist/1r7O3OhNTysGMbMIsfuvPo'
   wikipedia: Not found
 image_path: 03_Resources/source_material/ArtistPortraits/lost_and_found.jpg
 biography_enhanced_at: '2025-11-24T08:28:05.008905'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.newreleasetoday.com/artistdetail.php?artist_id=8329
-- https://www.christianmusicarchive.com/artist/lost-and-found
-- https://lost-and-found-band.myshopify.com/pages/about-us
-- https://open.spotify.com/artist/1r7O3OhNTysGMbMIsfuvPo
+  - 'https://www.newreleasetoday.com/artistdetail.php?artist_id=8329'
+  - 'https://www.christianmusicarchive.com/artist/lost-and-found'
+  - 'https://lost-and-found-band.myshopify.com/pages/about-us'
+  - 'https://open.spotify.com/artist/1r7O3OhNTysGMbMIsfuvPo'
 network_extracted: true
 entry_created: '2025-11-24T08:28:05.008921'
 last_updated: '2025-12-23T08:16:12.167679'
 disambiguation: US Speedwood Acoustic thrash duo
 musicbrainz_id: 40ea0170-53c2-4e10-aca2-09f1e6c1a6c8
-origin: Connecticut, United States
+origin: 'Connecticut, United States'
 tags:
-- pop rock
-- speedwood
-
+  - pop rock
+  - speedwood
 ---
 
 ![](lost_and_found.jpg)

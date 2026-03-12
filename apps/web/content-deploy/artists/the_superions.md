@@ -23,47 +23,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Fred Schneider
-  - Kate Pierson
+    - Fred Schneider
+    - Kate Pierson
   influenced: []
   mentors: []
 spotify_data:
   followers: 584
   id: 1EiU7zdqF5adOCKJblpuPj
   popularity: 13
-  url: https://open.spotify.com/artist/1EiU7zdqF5adOCKJblpuPj
+  url: 'https://open.spotify.com/artist/1EiU7zdqF5adOCKJblpuPj'
 discography_enriched: true
 top_tracks:
-- Fruitcake (Destination... Christmas!)
-- Chillin' at Christmas (Destination... Christmas!)
-- Jingle Those Bells (Destination... Christmas!)
-- Those Sexy Saucer Gals (The Superions)
-- Who Threw That Ham At Me (The Superions)
-- Totally Nude Island - The Lolligags Remix (The Superions)
-- Who Threw That Ham At Me - Casper And Cookies Remix (The Superions)
-- Totally Nude Island - Ursula 1000 Remix (The Superions)
-- Totally Nude Island - Marshmallow Coast Remix (The Superions)
-- Totally Nude Island (The Superions)
+  - Fruitcake (Destination... Christmas!)
+  - Chillin' at Christmas (Destination... Christmas!)
+  - Jingle Those Bells (Destination... Christmas!)
+  - Those Sexy Saucer Gals (The Superions)
+  - Who Threw That Ham At Me (The Superions)
+  - Totally Nude Island - The Lolligags Remix (The Superions)
+  - Who Threw That Ham At Me - Casper And Cookies Remix (The Superions)
+  - Totally Nude Island - Ursula 1000 Remix (The Superions)
+  - Totally Nude Island - Marshmallow Coast Remix (The Superions)
+  - Totally Nude Island (The Superions)
 external_urls:
-  spotify: https://open.spotify.com/artist/1EiU7zdqF5adOCKJblpuPj
+  spotify: 'https://open.spotify.com/artist/1EiU7zdqF5adOCKJblpuPj'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/the_superions.jpg
 biography_enhanced_at: '2025-12-19T02:00:25.625693'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.pastpri.me/home/fred-schneider-just-fred
-- https://www.somamagazine.com/fred-schneider-the-superions/
-- https://www.splicetoday.com/music/a-long-winding-and-weird-career
-- https://windycitytimes.com/2014/07/01/b-52s-fred-schneider-debuts-konnichiwa-with-the-superions/
-- https://www.punkglobe.com/fredschneiderinterview0510.html
-- https://ritholtz.com/2010/12/the-superions-fred-schneider-of-the-b-52s/
-- https://qromag.com/fred_schneider_of_the_b-52s_the_superions/
-- https://www.goldminemag.com/articles/go-island-hopping-with-fred-schneider-and-the-superions/
+  - 'https://www.pastpri.me/home/fred-schneider-just-fred'
+  - 'https://www.somamagazine.com/fred-schneider-the-superions/'
+  - 'https://www.splicetoday.com/music/a-long-winding-and-weird-career'
+  - >-
+    https://windycitytimes.com/2014/07/01/b-52s-fred-schneider-debuts-konnichiwa-with-the-superions/
+  - 'https://www.punkglobe.com/fredschneiderinterview0510.html'
+  - 'https://ritholtz.com/2010/12/the-superions-fred-schneider-of-the-b-52s/'
+  - 'https://qromag.com/fred_schneider_of_the_b-52s_the_superions/'
+  - >-
+    https://www.goldminemag.com/articles/go-island-hopping-with-fred-schneider-and-the-superions/
 network_extracted: true
 entry_created: '2025-12-19T02:00:25.625710'
 last_updated: '2025-12-23T08:16:17.194806'
-origin: Athens, Georgia, USA
+origin: 'Athens, Georgia, USA'
+artist_type: band
 ---
 
 ![](the_superions.jpg)

@@ -1,20 +1,24 @@
 ---
-title: june freedom
+title: June Freedom
 wiki_slug: june-freedom
 schema_version: 2
 status: active
-birth_place: Boston, Massachusetts, United States (birthplace); Fogo, Cape Verde (upbringing); Los Angeles, California, United States (current base)
+birth_place: >-
+  Boston, Massachusetts, United States (birthplace); Fogo, Cape Verde
+  (upbringing); Los Angeles, California, United States (current base)
 genres:
-- afrobeats
-- kizomba
-- afrobeat
-- afropop
-- afro soul
+  - afrobeats
+  - kizomba
+  - afrobeat
+  - afropop
+  - afro soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/june_freedom.jpg
   caption: june freedom
   background: solo_singer
-  origin: Boston, Massachusetts, United States (birthplace); Fogo, Cape Verde (upbringing); Los Angeles, California, United States (current base)
+  origin: >-
+    Boston, Massachusetts, United States (birthplace); Fogo, Cape Verde
+    (upbringing); Los Angeles, California, United States (current base)
 audio_profile:
   tempo_avg: 112.4
   energy_avg: 0.573
@@ -30,52 +34,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Naïka
-  - Nana Fofie
-  - Sabri
-  - Stacy Barthe
-  - Mally Mall
+    - Naïka
+    - Nana Fofie
+    - Sabri
+    - Stacy Barthe
+    - Mally Mall
   influenced:
-  - Emerging Cape Verdean and Afro-diasporic artists
+    - Emerging Cape Verdean and Afro-diasporic artists
   mentors:
-  - Ildo Lobo
-  - Jerry Wonda
-  - Akon
+    - Ildo Lobo
+    - Jerry Wonda
+    - Akon
 spotify_data:
   followers: 64491
   id: 7dYb5EKtRnRaWM0GQ12cKC
   popularity: 51
-  url: https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC
+  url: 'https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC'
 discography_enriched: true
 top_tracks:
-- 𝘠𝘚𝘓 (Anchor Baby)
-- Collabo (Anchor Baby)
-- Fever (Anchor Baby (Deluxe))
-- Messi (7 SEAS)
-- Streets Don't Love You (Anchor Baby (Deluxe))
-- / BLES-oh / (Anchor Baby)
-- DORAMA
-- Preta (Anchor Baby)
-- Messi - Sunset Mix
-- Options
+  - "\U0001D620\U0001D61A\U0001D613 (Anchor Baby)"
+  - Collabo (Anchor Baby)
+  - Fever (Anchor Baby (Deluxe))
+  - Messi (7 SEAS)
+  - Streets Don't Love You (Anchor Baby (Deluxe))
+  - / BLES-oh / (Anchor Baby)
+  - DORAMA
+  - Preta (Anchor Baby)
+  - Messi - Sunset Mix
+  - Options
 external_urls:
-  spotify: https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC
+  spotify: 'https://open.spotify.com/artist/7dYb5EKtRnRaWM0GQ12cKC'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/june_freedom.jpg
 biography_enhanced_at: '2025-10-19T12:32:25.550321'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/June+Freedom/+wiki
-- https://www.tirade.world/junefreedom
-- https://sdvoyager.com/interview/art-life-june-freedom/
-- https://www.dif.productions/june-freedom
-- https://www.famousbirthdays.com/people/june-freedom.html
-- https://trinitymusic.de/events/berlin/june-freedom
+  - 'https://www.last.fm/music/June+Freedom/+wiki'
+  - 'https://www.tirade.world/junefreedom'
+  - 'https://sdvoyager.com/interview/art-life-june-freedom/'
+  - 'https://www.dif.productions/june-freedom'
+  - 'https://www.famousbirthdays.com/people/june-freedom.html'
+  - 'https://trinitymusic.de/events/berlin/june-freedom'
 network_extracted: true
 entry_created: '2025-10-19T12:32:25.550330'
 last_updated: '2025-12-23T08:16:11.049659'
-
+birth_date: '1988-06-24'
+artist_type: person
 ---
 
 ![](june_freedom.jpg)

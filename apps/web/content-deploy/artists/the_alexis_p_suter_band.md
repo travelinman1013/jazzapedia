@@ -4,9 +4,9 @@ wiki_slug: the-alexis-p-suter-band
 schema_version: 2
 status: active
 genres:
-- soul blues
-- blues
-- blues rock
+  - soul blues
+  - blues
+  - blues rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_alexis_p_suter_band.jpg
   caption: The Alexis P Suter Band
@@ -26,58 +26,66 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ray Grappone
-  - Vicki Bell
-  - Michael Louis
-  - Tom Terry
-  - Jimmy Bennett
-  - Peter Bennett
-  - Ted Kooshian
-  - John Ginty
-  - Levon Helm
+    - Ray Grappone
+    - Vicki Bell
+    - Michael Louis
+    - Tom Terry
+    - Jimmy Bennett
+    - Peter Bennett
+    - Ted Kooshian
+    - John Ginty
+    - Levon Helm
   influenced:
-  - ''
+    - ''
   mentors:
-  - Carrie Suter
-  - The Mills Brothers
-  - Levon Helm
+    - Carrie Suter
+    - The Mills Brothers
+    - Levon Helm
 spotify_data:
   followers: 710
   id: 3DMyyr5HiNiDkqeyZYux3n
   popularity: 7
-  url: https://open.spotify.com/artist/3DMyyr5HiNiDkqeyZYux3n
+  url: 'https://open.spotify.com/artist/3DMyyr5HiNiDkqeyZYux3n'
 discography_enriched: true
 top_tracks:
-- God Gave Me the Blues (Just Stay High)
-- Be On Your Way (Just Stay High)
-- Some People (Just Stay High)
-- Some People (Some People)
-- Just Stay High (Just Stay High)
-- Breathe (Just Stay High)
-- My Only Need (Just Stay High)
-- It Ain't Easy (Just Stay High)
-- Big Girl Panties (Just Stay High)
-- Ride All Night (Just Stay High)
+  - God Gave Me the Blues (Just Stay High)
+  - Be On Your Way (Just Stay High)
+  - Some People (Just Stay High)
+  - Some People (Some People)
+  - Just Stay High (Just Stay High)
+  - Breathe (Just Stay High)
+  - My Only Need (Just Stay High)
+  - It Ain't Easy (Just Stay High)
+  - Big Girl Panties (Just Stay High)
+  - Ride All Night (Just Stay High)
 external_urls:
-  spotify: https://open.spotify.com/artist/3DMyyr5HiNiDkqeyZYux3n
-  wikipedia: https://en.wikipedia.org/wiki/Alexis_P._Suter
+  spotify: 'https://open.spotify.com/artist/3DMyyr5HiNiDkqeyZYux3n'
+  wikipedia: 'https://en.wikipedia.org/wiki/Alexis_P._Suter'
 image_path: 03_Resources/source_material/ArtistPortraits/the_alexis_p_suter_band.jpg
 biography_enhanced_at: '2025-12-11T03:51:51.269159'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Alexis_P._Suter
-- https://www.americanbluesscene.com/2025/09/alexis-p-suters-blues-sacred-roots-profane-power/
-- https://digital.livingblues.com/articles/artist-to-artist-with-alexis-p-suter
-- https://voicesofthevalleyblog.wordpress.com/2017/03/30/vol-7-interview-with-alexis-p-suter/
-- https://www.soundsofblue.com/reviews/asutterinterview.htm
-- https://www.sanctuary-magazine.com/sept-19-featured-artist-alexis-p-suter.html
-- https://alexispsuter.com
-- https://americanahighways.org/2025/06/02/review-the-alexis-p-suter-band-just-stay-high/
+  - 'https://en.wikipedia.org/wiki/Alexis_P._Suter'
+  - >-
+    https://www.americanbluesscene.com/2025/09/alexis-p-suters-blues-sacred-roots-profane-power/
+  - >-
+    https://digital.livingblues.com/articles/artist-to-artist-with-alexis-p-suter
+  - >-
+    https://voicesofthevalleyblog.wordpress.com/2017/03/30/vol-7-interview-with-alexis-p-suter/
+  - 'https://www.soundsofblue.com/reviews/asutterinterview.htm'
+  - >-
+    https://www.sanctuary-magazine.com/sept-19-featured-artist-alexis-p-suter.html
+  - 'https://alexispsuter.com'
+  - >-
+    https://americanahighways.org/2025/06/02/review-the-alexis-p-suter-band-just-stay-high/
 network_extracted: true
 entry_created: '2025-12-11T03:51:51.269171'
 last_updated: '2025-12-23T08:16:16.515555'
-origin: Brooklyn, New York, United States
+origin: 'Brooklyn, New York, United States'
+birth_place: 'Brooklyn, New York, United States'
+birth_date: '1963-02-15'
+artist_type: band
 ---
 
 ![](the_alexis_p_suter_band.jpg)

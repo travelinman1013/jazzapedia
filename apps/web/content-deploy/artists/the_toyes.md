@@ -1,10 +1,10 @@
 ---
-title: the toyes
+title: The Toyes
 wiki_slug: the-toyes
 schema_version: 2
 status: active
 genres:
-- reggae
+  - reggae
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_toyes.jpg
   caption: the toyes
@@ -15,7 +15,7 @@ audio_profile:
   valence_avg: 0.762
   danceability_avg: 0.7
   acousticness_avg: 0.194
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -9.6
   speechiness_avg: 0.094
   liveness_avg: 0.131
@@ -24,47 +24,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sky (Michael Kay)
-  - Ricci Accardi
-  - Mike Dawson
-  - B-dub, John Trujillo, Brian Rogers
+    - Sky (Michael Kay)
+    - Ricci Accardi
+    - Mike Dawson
+    - 'B-dub, John Trujillo, Brian Rogers'
   influenced:
-  - Sublime
-  - Norman Nardini, Frankie Lopez, Richard Cheese, The Rudiments, Ohrbooten, South Park Mexican, Afroman, Macy Gray
+    - Sublime
+    - >-
+      Norman Nardini, Frankie Lopez, Richard Cheese, The Rudiments, Ohrbooten,
+      South Park Mexican, Afroman, Macy Gray
   mentors:
-  - Bob Marley
+    - Bob Marley
 spotify_data:
   followers: 5857
   id: 689hvcJfLcbGOIkqVCIBJR
   popularity: 25
-  url: https://open.spotify.com/artist/689hvcJfLcbGOIkqVCIBJR
+  url: 'https://open.spotify.com/artist/689hvcJfLcbGOIkqVCIBJR'
 discography_enriched: true
 top_tracks:
-- Smoke Two Joints (The Toyes)
-- Monster Hash (The Toyes)
-- (Hey Uncle Sam) Leave Us Pot Smokers Alone (The Toyes)
-- Freebird (The Toyes)
-- Dos Leños (The Toyes)
-- Blues Line (The Toyes)
-- Waiting For The Aliens (Strange Animals)
-- The Lucky Sperm Club (The Toyes)
-- Fume Deux Joints (The Toyes)
-- Wake Up (And Smell The Java) (The Toyes)
+  - Smoke Two Joints (The Toyes)
+  - Monster Hash (The Toyes)
+  - (Hey Uncle Sam) Leave Us Pot Smokers Alone (The Toyes)
+  - Freebird (The Toyes)
+  - Dos Leños (The Toyes)
+  - Blues Line (The Toyes)
+  - Waiting For The Aliens (Strange Animals)
+  - The Lucky Sperm Club (The Toyes)
+  - Fume Deux Joints (The Toyes)
+  - Wake Up (And Smell The Java) (The Toyes)
 external_urls:
-  spotify: https://open.spotify.com/artist/689hvcJfLcbGOIkqVCIBJR
+  spotify: 'https://open.spotify.com/artist/689hvcJfLcbGOIkqVCIBJR'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/the_toyes.jpg
 biography_enhanced_at: '2025-11-01T15:36:10.822017'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.iriemag.com/respect-the-toyes/
-- https://www.last.fm/music/The+Toyes/+wiki
-- https://music.youtube.com/channel/UC7iwZ2iig7xJC0YOTmK9wxA
+  - 'https://www.iriemag.com/respect-the-toyes/'
+  - 'https://www.last.fm/music/The+Toyes/+wiki'
+  - 'https://music.youtube.com/channel/UC7iwZ2iig7xJC0YOTmK9wxA'
 network_extracted: true
 entry_created: '2025-11-01T15:36:10.822021'
 last_updated: '2025-12-23T08:16:17.235848'
-origin: Grants Pass, Oregon, United States
+origin: 'Grants Pass, Oregon, United States'
+artist_type: band
 ---
 
 ![](the_toyes.jpg)

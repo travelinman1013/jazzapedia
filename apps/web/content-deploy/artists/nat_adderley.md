@@ -1,98 +1,99 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e4f6330a-8217-4a83-86e6-b6de29bda97c
-  name: Nat Adderley Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 93be8f4b-f0d2-464d-aea0-3ddfc7c4456b
-  name: Cannonball Adderley Sextet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ec17f3ec-f5c9-4a34-903c-88c6f7cc133b
-  name: The Nat Adderley Sextet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 32385c7d-1bcc-4efc-b676-6ab1e94b3b86
-  name: The Victor Feldman All Stars
-- begin: ''
-  end: ''
-  instruments:
-  - cornet
-  - eponymous
-  mbid: 63575167-8f30-43fb-a0f4-1ea6e3ef07ef
-  name: Nat Adderley Septet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4e400bf1-cfbb-44ba-b5cd-e603550cd25e
-  name: All Star Big Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e4f6330a-8217-4a83-86e6-b6de29bda97c
+    name: Nat Adderley Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 93be8f4b-f0d2-464d-aea0-3ddfc7c4456b
+    name: Cannonball Adderley Sextet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ec17f3ec-f5c9-4a34-903c-88c6f7cc133b
+    name: The Nat Adderley Sextet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 32385c7d-1bcc-4efc-b676-6ab1e94b3b86
+    name: The Victor Feldman All Stars
+  - begin: ''
+    end: ''
+    instruments:
+      - cornet
+      - eponymous
+    mbid: 63575167-8f30-43fb-a0f4-1ea6e3ef07ef
+    name: Nat Adderley Septet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4e400bf1-cfbb-44ba-b5cd-e603550cd25e
+    name: All Star Big Band
 biography_enhanced_at: '2026-01-17T02:03:28.855337'
 birth_date: '1931-11-25'
-birth_place: Tampa
+birth_place: 'Tampa, Florida, United States'
 death_date: '2000-01-02'
 enhancement_provider: perplexity
 entry_created: '2026-01-17T02:03:28.855349'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a9e79d89-f90b-4cef-943e-68151336a430
-  spotify: https://open.spotify.com/artist/7KjjSmSX5wCE1KYOerEf6D
+  musicbrainz: 'https://musicbrainz.org/artist/a9e79d89-f90b-4cef-943e-68151336a430'
+  spotify: 'https://open.spotify.com/artist/7KjjSmSX5wCE1KYOerEf6D'
   wikipedia: Not found in search results
 gender: Male
 genres:
-- hard bop
-- jazz
-- bebop
-- soul jazz
-- cool jazz
+  - hard bop
+  - jazz
+  - bebop
+  - soul jazz
+  - cool jazz
 image_path: 03_Resources/source_material/ArtistPortraits/nat_adderley.jpg
 instruments:
-- cornet
-- eponymous
-- piano
+  - cornet
+  - eponymous
+  - piano
 last_updated: '2026-01-17T02:03:28.855350'
 musical_connections:
   collaborators:
-  - Cannonball Adderley (Julian Adderley)
-  - J.J. Johnson
-  - Woody Herman
-  - Wes Montgomery
-  - Bill Evans
-  - Lou Donaldson
-  - Sam Jones
-  - Jimmy Cobb
-  - Junior Mance
-  - Sonny Fortune
-  - Vincent Herring
+    - Cannonball Adderley (Julian Adderley)
+    - J.J. Johnson
+    - Woody Herman
+    - Wes Montgomery
+    - Bill Evans
+    - Lou Donaldson
+    - Sam Jones
+    - Jimmy Cobb
+    - Junior Mance
+    - Sonny Fortune
+    - Vincent Herring
   influenced: []
   mentors:
-  - Lionel Hampton
+    - Lionel Hampton
 musicbrainz_id: a9e79d89-f90b-4cef-943e-68151336a430
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.allaboutjazz.com/musicians/nat-adderley/
-- https://aaregistry.org/story/nat-adderley-musical-sideman-and-soloist/
-- https://www.britannica.com/biography/Nat-Adderley
-- https://concord.com/artist/nat-adderley/
-- https://urbanarchive.org/pr/jazzmap/c/41518b12-c40f-4eb4-97a4-7d9d1f97233d
-- https://floridamusictours.com/musicians/cannonball-and-nat-adderley/
+  - 'https://www.allaboutjazz.com/musicians/nat-adderley/'
+  - 'https://aaregistry.org/story/nat-adderley-musical-sideman-and-soloist/'
+  - 'https://www.britannica.com/biography/Nat-Adderley'
+  - 'https://concord.com/artist/nat-adderley/'
+  - 'https://urbanarchive.org/pr/jazzmap/c/41518b12-c40f-4eb4-97a4-7d9d1f97233d'
+  - 'https://floridamusictours.com/musicians/cannonball-and-nat-adderley/'
 spotify_data:
   followers: 22398
   id: 7KjjSmSX5wCE1KYOerEf6D
   popularity: 36
-  url: https://open.spotify.com/artist/7KjjSmSX5wCE1KYOerEf6D
+  url: 'https://open.spotify.com/artist/7KjjSmSX5wCE1KYOerEf6D'
 status: active
 tags:
-- 2008 universal fire victim
-- hard bop
-- jazz
+  - 2008 universal fire victim
+  - hard bop
+  - jazz
 title: Nat Adderley
+is_active: false
 ---
 
 ![](nat_adderley.jpg)

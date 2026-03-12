@@ -3,34 +3,36 @@ biography_enhanced_at: '2025-12-26T01:28:04.398082'
 enhancement_provider: perplexity
 entry_created: '2025-12-26T01:28:04.398093'
 external_urls:
-  spotify: https://open.spotify.com/artist/1WQZby72oPuL4n1j8TOn0q
+  spotify: 'https://open.spotify.com/artist/1WQZby72oPuL4n1j8TOn0q'
   wikipedia: ''
 genres:
-- jazz funk
-- latin jazz
+  - jazz funk
+  - latin jazz
 image_path: 03_Resources/source_material/ArtistPortraits/the_afrodiziacs_jazz.jpg
 last_updated: '2025-12-26T01:28:04.398094'
 musical_connections:
   collaborators:
-  - Maude Caillat
+    - Maude Caillat
   influenced: []
   mentors:
-  - Mulatu Astatke
+    - Mulatu Astatke
 network_extracted: true
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://theafrodiziacsjazz.bandcamp.com[2]
-- https://marignyoperahouse.org/upcoming-events/afrodiziacs-jazz/[4]
-- https://givebutter.com/womeninjazz[6]
-- https://www.myspiltmilk.com/articles/the-afrodiziaks-jazz-makes-ethiopian-jazz-sound-like-new-orleans-music[7]
+  - 'https://theafrodiziacsjazz.bandcamp.com[2]'
+  - 'https://marignyoperahouse.org/upcoming-events/afrodiziacs-jazz/[4]'
+  - 'https://givebutter.com/womeninjazz[6]'
+  - >-
+    https://www.myspiltmilk.com/articles/the-afrodiziaks-jazz-makes-ethiopian-jazz-sound-like-new-orleans-music[7]
 spotify_data:
   followers: 53
   id: 1WQZby72oPuL4n1j8TOn0q
   popularity: 0
-  url: https://open.spotify.com/artist/1WQZby72oPuL4n1j8TOn0q
+  url: 'https://open.spotify.com/artist/1WQZby72oPuL4n1j8TOn0q'
 status: active
 title: The Afrodiziac's Jazz
+artist_type: band
 ---
 
 ![](the_afrodiziacs_jazz.jpg)

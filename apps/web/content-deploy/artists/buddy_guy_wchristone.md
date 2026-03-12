@@ -3,19 +3,23 @@ title: Buddy Guy w/Christone
 wiki_slug: buddy-guy-wchristone
 schema_version: 2
 status: active
-birth_place: Lettsworth, Louisiana, USA (Buddy Guy); Clarksdale, Mississippi, USA (Christone 'Kingfish' Ingram)
+birth_place: >-
+  Lettsworth, Louisiana, USA (Buddy Guy); Clarksdale, Mississippi, USA
+  (Christone 'Kingfish' Ingram)
 genres:
-- blues
-- classic blues
-- blues rock
-- soul blues
-- modern blues
-- country blues
+  - blues
+  - classic blues
+  - blues rock
+  - soul blues
+  - modern blues
+  - country blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/buddy_guy_wchristone.jpg
   caption: Buddy Guy w/Christone
   background: solo_singer
-  origin: Lettsworth, Louisiana, USA (Buddy Guy); Clarksdale, Mississippi, USA (Christone 'Kingfish' Ingram)
+  origin: >-
+    Lettsworth, Louisiana, USA (Buddy Guy); Clarksdale, Mississippi, USA
+    (Christone 'Kingfish' Ingram)
 audio_profile:
   tempo_avg: 122.7
   energy_avg: 0.5
@@ -31,49 +35,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tom Hambridge
-  - Buddy Guy
+    - Tom Hambridge
+    - Buddy Guy
   influenced:
-  - John Mayer
-  - Gary Clark Jr.
-  - Christone 'Kingfish' Ingram
+    - John Mayer
+    - Gary Clark Jr.
+    - Christone 'Kingfish' Ingram
   mentors:
-  - Buddy Guy
-  - Keb' Mo'
+    - Buddy Guy
+    - Keb' Mo'
 spotify_data:
   followers: 875675
   id: 2gCsNOpiBaMNh20jQ5prf0
   popularity: 51
-  url: https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0
+  url: 'https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0'
 discography_enriched: true
 top_tracks:
-- Feels Like Rain (feat. Bonnie Raitt) (Feels Like Rain)
-- Stone Crazy (I Was Walking Through The Woods (Expanded Edition))
-- Damn Right, I've Got the Blues (Damn Right, I've Got The Blues)
-- Ain't No Sunshine (Bring 'Em In)
-- Mustang Sally (feat. Jeff Beck) (Damn Right, I've Got The Blues)
-- Six Strings Down (The Essential Jimmie Vaughan)
-- What Kind Of Woman Is This? (Bring 'Em In)
-- Flesh & Bone (Dedicated to B.B. King) (with Van Morrison) (Born To Play Guitar)
-- Whiskey, Beer & Wine (Born To Play Guitar)
-- How Blues Is That (feat. Joe Walsh)
+  - Feels Like Rain (feat. Bonnie Raitt) (Feels Like Rain)
+  - Stone Crazy (I Was Walking Through The Woods (Expanded Edition))
+  - 'Damn Right, I''ve Got the Blues (Damn Right, I''ve Got The Blues)'
+  - Ain't No Sunshine (Bring 'Em In)
+  - 'Mustang Sally (feat. Jeff Beck) (Damn Right, I''ve Got The Blues)'
+  - Six Strings Down (The Essential Jimmie Vaughan)
+  - What Kind Of Woman Is This? (Bring 'Em In)
+  - >-
+    Flesh & Bone (Dedicated to B.B. King) (with Van Morrison) (Born To Play
+    Guitar)
+  - 'Whiskey, Beer & Wine (Born To Play Guitar)'
+  - How Blues Is That (feat. Joe Walsh)
 external_urls:
-  spotify: https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0
-  wikipedia: https://en.wikipedia.org/wiki/Christone_%22Kingfish%22_Ingram
+  spotify: 'https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0'
+  wikipedia: 'https://en.wikipedia.org/wiki/Christone_%22Kingfish%22_Ingram'
 image_path: 03_Resources/source_material/ArtistPortraits/buddy_guy_wchristone.jpg
 biography_enhanced_at: '2025-11-04T10:46:14.332007'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Christone_%22Kingfish%22_Ingram
-- https://thebluegrasssituation.com/read/a-blues-sensation-christone-kingfish-ingram-tells-his-story-on-662/
-- https://www.chicagobluesguide.com/post/buddy-guy-kingfish-buddy-guy-s-legends-chicago-il-jan-9-2025
-- https://jazzaspensnowmass.org/getting-to-know-christone-kingfish-ingram/
-- https://fender.com/articles/fender-performances/strat-sessions-buddy-guy-christone-kingfish-ingram
+  - 'https://en.wikipedia.org/wiki/Christone_%22Kingfish%22_Ingram'
+  - >-
+    https://thebluegrasssituation.com/read/a-blues-sensation-christone-kingfish-ingram-tells-his-story-on-662/
+  - >-
+    https://www.chicagobluesguide.com/post/buddy-guy-kingfish-buddy-guy-s-legends-chicago-il-jan-9-2025
+  - 'https://jazzaspensnowmass.org/getting-to-know-christone-kingfish-ingram/'
+  - >-
+    https://fender.com/articles/fender-performances/strat-sessions-buddy-guy-christone-kingfish-ingram
 network_extracted: true
 entry_created: '2025-11-04T10:46:14.332018'
 last_updated: '2025-12-23T08:16:06.213274'
-
+artist_type: person
 ---
 
 ![](buddy_guy_wchristone.jpg)

@@ -4,7 +4,7 @@ wiki_slug: john-boutte-paul-sanchez
 schema_version: 2
 status: active
 genres:
-- cajun
+  - cajun
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/john_boutte_paul_sanchez.jpg
   caption: John Boutte/ Paul Sanchez
@@ -24,50 +24,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Paul Sanchez
-  - Cowboy Mouth
-  - Susan Cowsill
-  - Irma Thomas
+    - Paul Sanchez
+    - Cowboy Mouth
+    - Susan Cowsill
+    - Irma Thomas
   influenced:
-  - Younger New Orleans musicians
+    - Younger New Orleans musicians
   mentors:
-  - Lillian Boutté
-  - New Orleans jazz and R&B legends
+    - Lillian Boutté
+    - New Orleans jazz and R&B legends
 spotify_data:
   followers: 149
   id: 4rDy5XVbo0rn2wDYrEkzVE
   popularity: 0
-  url: https://open.spotify.com/artist/4rDy5XVbo0rn2wDYrEkzVE
+  url: 'https://open.spotify.com/artist/4rDy5XVbo0rn2wDYrEkzVE'
 discography_enriched: true
 top_tracks:
-- Stew Called New Orleans (Stew Called New Orleans)
-- Hey God (Stew Called New Orleans)
-- American Tune (Stew Called New Orleans)
-- Two-five-one (Stew Called New Orleans)
-- I Thought I Heard Buddy Bolden Say (Stew Called New Orleans)
-- Call Me Superstitious (Stew Called New Orleans)
-- An Empty Chair (Stew Called New Orleans)
-- Don't Smoke Around Susie (Stew Called New Orleans)
-- Wakes Me Up to Say Good-bye (Stew Called New Orleans)
-- A Meaning or a Message (Stew Called New Orleans)
+  - Stew Called New Orleans (Stew Called New Orleans)
+  - Hey God (Stew Called New Orleans)
+  - American Tune (Stew Called New Orleans)
+  - Two-five-one (Stew Called New Orleans)
+  - I Thought I Heard Buddy Bolden Say (Stew Called New Orleans)
+  - Call Me Superstitious (Stew Called New Orleans)
+  - An Empty Chair (Stew Called New Orleans)
+  - Don't Smoke Around Susie (Stew Called New Orleans)
+  - Wakes Me Up to Say Good-bye (Stew Called New Orleans)
+  - A Meaning or a Message (Stew Called New Orleans)
 external_urls:
-  spotify: https://open.spotify.com/artist/4rDy5XVbo0rn2wDYrEkzVE
-  wikipedia: https://en.wikipedia.org/wiki/John_Boutt%C3%A9
+  spotify: 'https://open.spotify.com/artist/4rDy5XVbo0rn2wDYrEkzVE'
+  wikipedia: 'https://en.wikipedia.org/wiki/John_Boutt%C3%A9'
 image_path: 03_Resources/source_material/ArtistPortraits/john_boutte_paul_sanchez.jpg
 biography_enhanced_at: '2025-11-04T10:54:28.230951'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Paul_Sanchez
-- https://en.wikipedia.org/wiki/John_Boutt%C3%A9
-- https://www.offbeat.com/music/john-boutte-and-paul-sanchez-stew-called-new-orleans-threadhead/
-- https://nolafamily.com/a-well-tempered-boutte/
-- https://jazztimes.com/features/profiles/john-boutte-nola-captured-in-song/
-- https://www.paulsanchez.com/bio
+  - 'https://en.wikipedia.org/wiki/Paul_Sanchez'
+  - 'https://en.wikipedia.org/wiki/John_Boutt%C3%A9'
+  - >-
+    https://www.offbeat.com/music/john-boutte-and-paul-sanchez-stew-called-new-orleans-threadhead/
+  - 'https://nolafamily.com/a-well-tempered-boutte/'
+  - 'https://jazztimes.com/features/profiles/john-boutte-nola-captured-in-song/'
+  - 'https://www.paulsanchez.com/bio'
 network_extracted: true
 entry_created: '2025-11-04T10:54:28.230967'
 last_updated: '2025-12-23T08:16:10.691544'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+birth_place: 'New Orleans, Louisiana, United States'
+birth_date: '1959-11-06'
+artist_type: person
 ---
 
 ![](john_boutte_paul_sanchez.jpg)

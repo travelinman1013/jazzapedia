@@ -2,18 +2,18 @@
 title: Swamp Dogg
 wiki_slug: swamp-dogg
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1942-07-12'
-birth_place: Portsmouth, Virginia, United States
+birth_place: 'Portsmouth, Virginia, United States'
 genres:
-- retro soul
+  - retro soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Swamp_Dogg.jpg
   caption: Swamp Dogg
   background: solo_singer
   born: '1942-07-12'
-  origin: Portsmouth, Virginia, United States
+  origin: 'Portsmouth, Virginia, United States'
 audio_profile:
   tempo_avg: 117.3
   energy_avg: 0.462
@@ -29,59 +29,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Doris Duke
-  - Ryan Olson
-  - Irma Thomas
-  - World Class Wreckin' Cru
+    - Doris Duke
+    - Ryan Olson
+    - Irma Thomas
+    - World Class Wreckin' Cru
   influenced:
-  - Dr. Dre
-  - Snoop Dogg
-  - Modern soul and alt-R&B artists
+    - Dr. Dre
+    - Snoop Dogg
+    - Modern soul and alt-R&B artists
   mentors:
-  - Louis Jordan
-  - Frank Zappa
+    - Louis Jordan
+    - Frank Zappa
 spotify_data:
   followers: 52670
   id: 6ZEUa75BqZkvpjhuVzCsdX
   popularity: 29
-  url: https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX
+  url: 'https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX'
 discography_enriched: true
 top_tracks:
-- Lonely (Love, Loss, and Auto-Tune)
-- Synthetic World (The Excellent Sides of Swamp Dogg Vol. 1)
-- Sleeping Without You Is a Dragg (feat. Justin Vernon, Jenny Lewis) (Sorry You Couldn't Make It)
-- Good, Better, Best (Sorry You Couldn't Make It)
-- Creeping Away (The Excellent Sides of Swamp Dogg Vol. 1)
-- Cheating in the Daylight (I Need a Job... So I Can Buy More Auto-Tune)
-- Total Destruction to Your Mind (The Excellent Sides of Swamp Dogg Vol. 1)
-- Sam Stone (The Excellent Sides Of Swamp Dogg Vol 2)
-- Please Let Me Go Round Again (Sorry You Couldn't Make It)
-- Soul to Blessed Soul (I Need a Job... So I Can Buy More Auto-Tune)
+  - 'Lonely (Love, Loss, and Auto-Tune)'
+  - Synthetic World (The Excellent Sides of Swamp Dogg Vol. 1)
+  - >-
+    Sleeping Without You Is a Dragg (feat. Justin Vernon, Jenny Lewis) (Sorry
+    You Couldn't Make It)
+  - 'Good, Better, Best (Sorry You Couldn''t Make It)'
+  - Creeping Away (The Excellent Sides of Swamp Dogg Vol. 1)
+  - Cheating in the Daylight (I Need a Job... So I Can Buy More Auto-Tune)
+  - Total Destruction to Your Mind (The Excellent Sides of Swamp Dogg Vol. 1)
+  - Sam Stone (The Excellent Sides Of Swamp Dogg Vol 2)
+  - Please Let Me Go Round Again (Sorry You Couldn't Make It)
+  - Soul to Blessed Soul (I Need a Job... So I Can Buy More Auto-Tune)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1403fbec-11e3-4ccb-af25-d26c9a05bc9d
-  spotify: https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX
-  wikipedia: https://en.wikipedia.org/wiki/Swamp_Dogg
+  musicbrainz: 'https://musicbrainz.org/artist/1403fbec-11e3-4ccb-af25-d26c9a05bc9d'
+  spotify: 'https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX'
+  wikipedia: 'https://en.wikipedia.org/wiki/Swamp_Dogg'
 image_path: 03_Resources/source_material/ArtistPortraits/Swamp_Dogg.jpg
 biography_enhanced_at: '2025-10-19T11:56:45.756797'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Swamp_Dogg
-- https://toneglow.substack.com/p/tone-glow-191-swamp-dogg
-- https://www.vice.com/en/article/how-jerry-williams-became-swamp-dogg-the-unsung-king-of-soul-music-profile/
-- https://fatpossum.com/collections/swamp-dogg
-- https://namm.org/library/oral-history/jerry-swamp-dogg-williams
+  - 'https://en.wikipedia.org/wiki/Swamp_Dogg'
+  - 'https://toneglow.substack.com/p/tone-glow-191-swamp-dogg'
+  - >-
+    https://www.vice.com/en/article/how-jerry-williams-became-swamp-dogg-the-unsung-king-of-soul-music-profile/
+  - 'https://fatpossum.com/collections/swamp-dogg'
+  - 'https://namm.org/library/oral-history/jerry-swamp-dogg-williams'
 network_extracted: true
 entry_created: '2025-10-19T11:56:45.756800'
 last_updated: '2025-12-23T08:16:03.973244'
-disambiguation: US soul and R&B singer, musician, songwriter and producer
+disambiguation: 'US soul and R&B singer, musician, songwriter and producer'
 gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:44:38.698141'
 musicbrainz_id: 1403fbec-11e3-4ccb-af25-d26c9a05bc9d
 tags:
-- country soul
-- r&b
-- soul
+  - country soul
+  - r&b
+  - soul
 ---
 
 ![](Swamp_Dogg.jpg)

@@ -2,12 +2,12 @@
 title: Imperial Crowns
 wiki_slug: imperial-crowns
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 aliases: []
 genres:
-- blues rock
-- blues
+  - blues rock
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Imperial_Crowns.jpg
   caption: Imperial Crowns
@@ -27,55 +27,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Billy Sullivan
-  - The Sacred Hearts
-  - J.J. Holiday
-  - Mike Barsimanto
+    - Billy Sullivan
+    - The Sacred Hearts
+    - J.J. Holiday
+    - Mike Barsimanto
   influenced:
-  - Younger European blues and rock musicians
+    - Younger European blues and rock musicians
   mentors:
-  - Clarence Fountain (The Five Blind Boys of Alabama)
+    - Clarence Fountain (The Five Blind Boys of Alabama)
 related_artists: []
 spotify_data:
   followers: 539
   id: 6eJYeoKv8FE2Stu2v3ZAdm
   popularity: 4
-  url: https://open.spotify.com/artist/6eJYeoKv8FE2Stu2v3ZAdm
+  url: 'https://open.spotify.com/artist/6eJYeoKv8FE2Stu2v3ZAdm'
   verified: false
 discography_enriched: true
 albums_count: 5
 singles_count: 0
 top_tracks:
-- Lil Death (Hymn Book)
-- Golden Girl (Hymn Book)
-- Baby's Gone Wild (Hymn Book)
-- Ramblin Woman Blues (Imperial Crowns)
-- I'm Gonna Hunt You Down (Imperial Crowns)
-- Preachin' the Blues (Imperial Crowns)
-- Blues Look Whatcha Done (Imperial Crowns)
-- Altar of Love (Imperial Crowns)
-- Altar of Love (25 Live)
-- Blues Au Go Go (25 Live)
+  - Lil Death (Hymn Book)
+  - Golden Girl (Hymn Book)
+  - Baby's Gone Wild (Hymn Book)
+  - Ramblin Woman Blues (Imperial Crowns)
+  - I'm Gonna Hunt You Down (Imperial Crowns)
+  - Preachin' the Blues (Imperial Crowns)
+  - Blues Look Whatcha Done (Imperial Crowns)
+  - Altar of Love (Imperial Crowns)
+  - Altar of Love (25 Live)
+  - Blues Au Go Go (25 Live)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4eaf2e4e-c9f1-4010-af18-c3afca00fde7
-  spotify: https://open.spotify.com/artist/6eJYeoKv8FE2Stu2v3ZAdm
-  wikipedia: https://en.wikipedia.org/wiki/Imperial_crown
+  musicbrainz: 'https://musicbrainz.org/artist/4eaf2e4e-c9f1-4010-af18-c3afca00fde7'
+  spotify: 'https://open.spotify.com/artist/6eJYeoKv8FE2Stu2v3ZAdm'
+  wikipedia: 'https://en.wikipedia.org/wiki/Imperial_crown'
 image_path: 03_Resources/source_material/ArtistPortraits/Imperial_Crowns.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:52:26.163708'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://theimperialcrowns.com/about-us/
-- https://www.last.fm/music/Imperial+Crowns/+wiki
-- https://dixiefrog.com/en/artist/imperial-crowns-2/
+  - 'https://theimperialcrowns.com/about-us/'
+  - 'https://www.last.fm/music/Imperial+Crowns/+wiki'
+  - 'https://dixiefrog.com/en/artist/imperial-crowns-2/'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 11:51:23.450866
+entry_created: 2025-09-18T11:51:23.450Z
 last_updated: '2025-12-23T08:16:09.833826'
 musicbrainz_enriched_at: '2025-10-21T09:53:08.880075'
 musicbrainz_id: 4eaf2e4e-c9f1-4010-af18-c3afca00fde7
-origin: Los Angeles, California, United States
+origin: 'Los Angeles, California, United States'
 ---
 
 ![](Imperial_Crowns.jpg)

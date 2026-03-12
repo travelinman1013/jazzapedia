@@ -2,17 +2,17 @@
 title: Kelis
 wiki_slug: kelis
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1979-08-21'
-birth_place: Manhattan, New York City, New York, United States
+birth_place: 'Manhattan, New York City, New York, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Kelis.jpg
   caption: Kelis
   background: solo_singer
   born: '1979-08-21'
-  origin: Manhattan, New York City, New York, United States
+  origin: 'Manhattan, New York City, New York, United States'
 audio_profile:
   tempo_avg: 110.8
   energy_avg: 0.71
@@ -28,47 +28,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ol' Dirty Bastard
-  - Calvin Harris
-  - will.i.am
-  - Too Short
-  - Diplo, Switch, David Guetta, Raphael Saadiq, Moby, Outkast, Björk, Enrique Iglesias
+    - Ol' Dirty Bastard
+    - Calvin Harris
+    - will.i.am
+    - Too Short
+    - >-
+      Diplo, Switch, David Guetta, Raphael Saadiq, Moby, Outkast, Björk, Enrique
+      Iglesias
   influenced:
-  - FKA twigs
-  - Tinashe
-  - Doja Cat
+    - FKA twigs
+    - Tinashe
+    - Doja Cat
   mentors:
-  - Pharrell Williams and Chad Hugo (The Neptunes)
+    - Pharrell Williams and Chad Hugo (The Neptunes)
 spotify_data:
   followers: 711999
   id: 0IF46mUS8NXjgHabxk2MCM
   popularity: 65
-  url: https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM
+  url: 'https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM'
 discography_enriched: true
 top_tracks:
-- Milkshake (Tasty)
-- Got Your Money (feat. Kelis) (Nigga Please)
-- Milkshake 20 - Alex Wann Remix
-- Trick Me (Tasty)
-- Bounce (feat. Kelis) - Radio Edit (18 Months)
-- Deal With It (feat. Kelis) (DEMIDEVIL)
-- Milkshake - Radio Mix
-- Millionaire (Tasty)
-- Milkshake
-- Bossy Featuring Too $hort (feat. Too $hort)
+  - Milkshake (Tasty)
+  - Got Your Money (feat. Kelis) (Nigga Please)
+  - Milkshake 20 - Alex Wann Remix
+  - Trick Me (Tasty)
+  - Bounce (feat. Kelis) - Radio Edit (18 Months)
+  - Deal With It (feat. Kelis) (DEMIDEVIL)
+  - Milkshake - Radio Mix
+  - Millionaire (Tasty)
+  - Milkshake
+  - Bossy Featuring Too $hort (feat. Too $hort)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1239d1bc-cc09-43e0-bcd0-374f60346138
-  spotify: https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM
-  wikipedia: https://en.wikipedia.org/wiki/Kelis
+  musicbrainz: 'https://musicbrainz.org/artist/1239d1bc-cc09-43e0-bcd0-374f60346138'
+  spotify: 'https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kelis'
 image_path: 03_Resources/source_material/ArtistPortraits/Kelis.jpg
 biography_enhanced_at: '2025-10-20T09:35:34.669461'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Kelis
-- https://kids.kiddle.co/Kelis
-- https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/kelis
-- https://www.redlightmanagement.com/artists/kelis/
+  - 'https://en.wikipedia.org/wiki/Kelis'
+  - 'https://kids.kiddle.co/Kelis'
+  - >-
+    https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/kelis
+  - 'https://www.redlightmanagement.com/artists/kelis/'
 network_extracted: true
 entry_created: '2025-10-20T09:35:34.669484'
 last_updated: '2025-12-23T08:16:02.816462'
@@ -76,9 +79,9 @@ gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:33:34.575809'
 musicbrainz_id: 1239d1bc-cc09-43e0-bcd0-374f60346138
 tags:
-- contemporary r&b
-- electro house
-- electropop
+  - contemporary r&b
+  - electro house
+  - electropop
 ---
 
 ![](Kelis.jpg)

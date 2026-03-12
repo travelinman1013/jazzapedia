@@ -1,16 +1,16 @@
 ---
-title: angelique kidjo
+title: Angelique Kidjo
 wiki_slug: angelique-kidjo
 schema_version: 2
 status: active
-birth_place: Ouidah, Atlantique Department, Benin
+birth_place: 'Ouidah, Atlantique Department, Benin'
 genres:
-- afropop
+  - afropop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/angelique_kidjo.jpg
   caption: angelique kidjo
   background: solo_singer
-  origin: Ouidah, Atlantique Department, Benin
+  origin: 'Ouidah, Atlantique Department, Benin'
 audio_profile:
   tempo_avg: 113.7
   energy_avg: 0.66
@@ -26,50 +26,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jean Hébrail
-  - Jasper van ’t Hof
-  - African Women All-Stars (Asa, Dobet Gnahoré, Lura, Trio Teriba)
-  - Orchestre Philharmonique Du Luxembourg
+    - Jean Hébrail
+    - Jasper van ’t Hof
+    - 'African Women All-Stars (Asa, Dobet Gnahoré, Lura, Trio Teriba)'
+    - Orchestre Philharmonique Du Luxembourg
   influenced:
-  - Dobet Gnahoré
-  - Younger African and diaspora artists
+    - Dobet Gnahoré
+    - Younger African and diaspora artists
   mentors:
-  - Miriam Makeba
-  - Her parents (notably her mother Yvonne Kidjo)
-  - James Brown, Stevie Wonder, Jimi Hendrix, Santana
+    - Miriam Makeba
+    - Her parents (notably her mother Yvonne Kidjo)
+    - 'James Brown, Stevie Wonder, Jimi Hendrix, Santana'
 spotify_data:
   followers: 160747
   id: 51qUDJb5AtQX6jIL4VJx6M
   popularity: 47
-  url: https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M
+  url: 'https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M'
 discography_enriched: true
 top_tracks:
-- 'Police (Uncle K: Lemon Chase)'
-- NA MONEY (feat. The Cavemen. & Angélique Kidjo) (Timeless)
-- Police
-- Joy
-- Love Song to the Earth
-- Mama Africa (feat. Angélique Kidjo et Youssou Ndour) (Forever United)
-- Agolo (Next Gen)
-- Fired Up
-- Different (feat. Damian Marley & Angelique Kidjo) (African Giant)
-- Let Me Be Great [Feat. Angélique Kidjo] (As Above, So Below)
+  - 'Police (Uncle K: Lemon Chase)'
+  - NA MONEY (feat. The Cavemen. & Angélique Kidjo) (Timeless)
+  - Police
+  - Joy
+  - Love Song to the Earth
+  - Mama Africa (feat. Angélique Kidjo et Youssou Ndour) (Forever United)
+  - Agolo (Next Gen)
+  - Fired Up
+  - Different (feat. Damian Marley & Angelique Kidjo) (African Giant)
+  - 'Let Me Be Great [Feat. Angélique Kidjo] (As Above, So Below)'
 external_urls:
-  spotify: https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M
-  wikipedia: https://en.wikipedia.org/wiki/Ang%C3%A9lique_Kidjo
+  spotify: 'https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ang%C3%A9lique_Kidjo'
 image_path: 03_Resources/source_material/ArtistPortraits/angelique_kidjo.jpg
 biography_enhanced_at: '2025-10-20T09:06:58.415805'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.songlines.co.uk/artists/angelique-kidjo
-- https://afropop.org/articles/angelique-kidjo-lighting-up-her-time
-- https://en.wikipedia.org/wiki/Ang%C3%A9lique_Kidjo
-- https://www.polarmusicprize.org/laureates/angelique-kidjo/
-- https://www.britannica.com/biography/Angelique-Kidjo
+  - 'https://www.songlines.co.uk/artists/angelique-kidjo'
+  - 'https://afropop.org/articles/angelique-kidjo-lighting-up-her-time'
+  - 'https://en.wikipedia.org/wiki/Ang%C3%A9lique_Kidjo'
+  - 'https://www.polarmusicprize.org/laureates/angelique-kidjo/'
+  - 'https://www.britannica.com/biography/Angelique-Kidjo'
 network_extracted: true
 entry_created: '2025-10-20T09:06:58.415975'
 last_updated: '2025-12-23T08:16:04.810172'
+birth_date: '1960-07-14'
+artist_type: person
 ---
 
 ![](angelique_kidjo.jpg)

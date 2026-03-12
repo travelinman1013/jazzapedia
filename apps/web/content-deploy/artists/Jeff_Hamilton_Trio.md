@@ -4,14 +4,14 @@ wiki_slug: jeff-hamilton-trio
 schema_version: 2
 status: active
 genres:
-- hard bop
-- jazz
+  - hard bop
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Jeff_Hamilton_Trio.jpg
   caption: Jeff Hamilton Trio
   background: solo_singer
 audio_profile:
-  tempo_avg: 117.0
+  tempo_avg: 117
   energy_avg: 0.335
   valence_avg: 0.447
   danceability_avg: 0.526
@@ -25,49 +25,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jon Hamar
-  - Tamir Hendelman
-  - John Clayton
-  - Ray Brown
-  - Diana Krall
+    - Jon Hamar
+    - Tamir Hendelman
+    - John Clayton
+    - Ray Brown
+    - Diana Krall
   influenced:
-  - Numerous jazz drummers and students
+    - Numerous jazz drummers and students
   mentors:
-  - Gene Krupa
-  - John Von Ohlen
+    - Gene Krupa
+    - John Von Ohlen
 spotify_data:
   followers: 3502
   id: 2XBImVyZr1gCo2dBESjHXb
   popularity: 13
-  url: https://open.spotify.com/artist/2XBImVyZr1gCo2dBESjHXb
+  url: 'https://open.spotify.com/artist/2XBImVyZr1gCo2dBESjHXb'
 discography_enriched: true
 top_tracks:
-- Daahoud (Hands On)
-- Hat's Dance (Red Sparkle)
-- Centerpiece - Live (Hamilton & Hamilton Live in Bern)
-- Killer Joe (Dynavibes)
-- Hammer's Tones - Live (Live from San Pedro)
-- September in the Rain - Live (Hamilton & Hamilton Live in Bern)
-- See See Rider - Live (Hamilton House (Live at Steamers))
-- On and On (Red Sparkle)
-- Watch What Happens - Live (Hamilton & Hamilton Live in Bern)
-- 'So many stars (Jeff Hamilton Trio: From Studio 4, Cologne, Germany)'
+  - Daahoud (Hands On)
+  - Hat's Dance (Red Sparkle)
+  - Centerpiece - Live (Hamilton & Hamilton Live in Bern)
+  - Killer Joe (Dynavibes)
+  - Hammer's Tones - Live (Live from San Pedro)
+  - September in the Rain - Live (Hamilton & Hamilton Live in Bern)
+  - See See Rider - Live (Hamilton House (Live at Steamers))
+  - On and On (Red Sparkle)
+  - Watch What Happens - Live (Hamilton & Hamilton Live in Bern)
+  - 'So many stars (Jeff Hamilton Trio: From Studio 4, Cologne, Germany)'
 external_urls:
-  spotify: https://open.spotify.com/artist/2XBImVyZr1gCo2dBESjHXb
-  wikipedia: https://en.wikipedia.org/wiki/Jeff_Hamilton_(drummer)
+  spotify: 'https://open.spotify.com/artist/2XBImVyZr1gCo2dBESjHXb'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jeff_Hamilton_(drummer)'
 image_path: 03_Resources/source_material/ArtistPortraits/Jeff_Hamilton_Trio.jpg
 biography_enhanced_at: '2025-10-19T10:28:49.088545'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jeff_Hamilton_(drummer)
-- https://www.allaboutjazz.com/musicians/jeff-hamilton/
-- https://jazzbuffalo.org/2025/03/14/meet-the-exciting-members-of-the-jeff-hamilton-trio-a-historic-afternoon-of-jazz-awaits/
-- https://nocturnejazz.com/music/16-uncategorised/1035-the-jeff-hamilton-trio
+  - 'https://en.wikipedia.org/wiki/Jeff_Hamilton_(drummer)'
+  - 'https://www.allaboutjazz.com/musicians/jeff-hamilton/'
+  - >-
+    https://jazzbuffalo.org/2025/03/14/meet-the-exciting-members-of-the-jeff-hamilton-trio-a-historic-afternoon-of-jazz-awaits/
+  - 'https://nocturnejazz.com/music/16-uncategorised/1035-the-jeff-hamilton-trio'
 network_extracted: true
 entry_created: '2025-10-19T10:28:49.088572'
 last_updated: '2025-12-23T08:16:02.503108'
-origin: Richmond, Indiana, United States
+origin: 'Richmond, Indiana, United States'
+birth_place: 'Richmond, Indiana, United States'
+birth_date: '1953-08-04'
+artist_type: band
 ---
 
 ![](Jeff_Hamilton_Trio.jpg)

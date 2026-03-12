@@ -5,8 +5,8 @@ schema_version: 2
 status: active
 birth_place: Unknown (birthplace not specified in available sources)
 genres:
-- classic blues
-- ragtime
+  - classic blues
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ozie_mcpherson.jpg
   caption: OZIE McPHERSON
@@ -27,43 +27,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Duke Ellington
-  - Irving Mills
-  - Duke Ellington's Hot Five
-  - The Whoopee Makers
+    - Duke Ellington
+    - Irving Mills
+    - Duke Ellington's Hot Five
+    - The Whoopee Makers
   influenced: []
   mentors: []
 spotify_data:
   followers: 3
   id: 54J24S4Z81sjJRAuYbtDXD
   popularity: 0
-  url: https://open.spotify.com/artist/54J24S4Z81sjJRAuYbtDXD
+  url: 'https://open.spotify.com/artist/54J24S4Z81sjJRAuYbtDXD'
 discography_enriched: true
 top_tracks:
-- Standing on the Corner Blues (Every Saturday Night)
-- He's My Man (Every Saturday Night)
-- You Gotta Know How (Daisy Martin & Ozie McPherson (1921-1926))
-- Outside Of That He's All Right With Me (Daisy Martin & Ozie McPherson (1921-1926))
-- Standing On The Corner Blues (Daisy Martin & Ozie McPherson (1921-1926))
-- He's My Man (Daisy Martin & Ozie McPherson (1921-1926))
-- Down To The Bottom Where I Stay (Daisy Martin & Ozie McPherson (1921-1926))
-- I Want My Loving (Daisy Martin & Ozie McPherson (1921-1926))
-- Nobody Rolls Their Jelly Roll Like Mine (Daisy Martin & Ozie McPherson (1921-1926))
-- I'm So Blue Since My Sweetie Went Away (Daisy Martin & Ozie McPherson (1921-1926))
+  - Standing on the Corner Blues (Every Saturday Night)
+  - He's My Man (Every Saturday Night)
+  - You Gotta Know How (Daisy Martin & Ozie McPherson (1921-1926))
+  - >-
+    Outside Of That He's All Right With Me (Daisy Martin & Ozie McPherson
+    (1921-1926))
+  - Standing On The Corner Blues (Daisy Martin & Ozie McPherson (1921-1926))
+  - He's My Man (Daisy Martin & Ozie McPherson (1921-1926))
+  - Down To The Bottom Where I Stay (Daisy Martin & Ozie McPherson (1921-1926))
+  - I Want My Loving (Daisy Martin & Ozie McPherson (1921-1926))
+  - >-
+    Nobody Rolls Their Jelly Roll Like Mine (Daisy Martin & Ozie McPherson
+    (1921-1926))
+  - >-
+    I'm So Blue Since My Sweetie Went Away (Daisy Martin & Ozie McPherson
+    (1921-1926))
 external_urls:
-  spotify: https://open.spotify.com/artist/54J24S4Z81sjJRAuYbtDXD
-  wikipedia: https://en.wikipedia.org/wiki/Eliza_Brown
+  spotify: 'https://open.spotify.com/artist/54J24S4Z81sjJRAuYbtDXD'
+  wikipedia: 'https://en.wikipedia.org/wiki/Eliza_Brown'
 image_path: 03_Resources/source_material/ArtistPortraits/ozie_mcpherson.jpg
 biography_enhanced_at: '2025-12-04T07:20:42.929425'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://syncopatedtimes.com/duke-ellingtons-singers-part-1/
-- https://musicbrainz.org/artist/6db31c3e-d390-42a7-8966-21e186f68f20
-- https://en.wikipedia.org/wiki/Eliza_Brown
+  - 'https://syncopatedtimes.com/duke-ellingtons-singers-part-1/'
+  - 'https://musicbrainz.org/artist/6db31c3e-d390-42a7-8966-21e186f68f20'
+  - 'https://en.wikipedia.org/wiki/Eliza_Brown'
 network_extracted: true
 entry_created: '2025-12-04T07:20:42.929434'
 last_updated: '2025-12-23T08:16:13.895849'
+birth_date: '1903'
+death_date: '1983'
+artist_type: person
 ---
 
 ![](ozie_mcpherson.jpg)

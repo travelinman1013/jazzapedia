@@ -1,17 +1,17 @@
 ---
-title: EJ JONES
+title: EJ Jones
 wiki_slug: ej-jones
 schema_version: 2
 status: active
-birth_place: Memphis, Tennessee, United States
+birth_place: 'Memphis, Tennessee, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/EJ_JONES.jpg
   caption: EJ JONES
   background: solo_singer
-  origin: Memphis, Tennessee, United States
+  origin: 'Memphis, Tennessee, United States'
 audio_profile:
-  tempo_avg: 108.0
+  tempo_avg: 108
   energy_avg: 0.499
   valence_avg: 0.482
   danceability_avg: 0.535
@@ -25,43 +25,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Quality Control Label Group
+    - Quality Control Label Group
   influenced: []
   mentors:
-  - Sam Cooke
-  - Bobby Womack
-  - Johnnie Taylor
+    - Sam Cooke
+    - Bobby Womack
+    - Johnnie Taylor
 spotify_data:
   followers: 32508
   id: 1Ub0AUonKoIZuFvy1WZbIC
   popularity: 44
-  url: https://open.spotify.com/artist/1Ub0AUonKoIZuFvy1WZbIC
+  url: 'https://open.spotify.com/artist/1Ub0AUonKoIZuFvy1WZbIC'
 discography_enriched: true
 top_tracks:
-- What You Won’t Do for Love (What You Won’t Do for Love)
-- Too Good (Too Good)
-- Gas Station Love (Gas Station Love)
-- What Christmas Means To Me (What Christmas Means To Me)
-- Tender (Tender)
-- Too Good (Too Good)
-- 'Cold Day (Unexpected Christmas: The Soundtrack)'
-- Lois Lane (Interlude) (Kiss 6)
-- Gas Station Love (Gas Station Love)
-- Cold Day (Cold Day)
+  - What You Won’t Do for Love (What You Won’t Do for Love)
+  - Too Good (Too Good)
+  - Gas Station Love (Gas Station Love)
+  - What Christmas Means To Me (What Christmas Means To Me)
+  - Tender (Tender)
+  - Too Good (Too Good)
+  - 'Cold Day (Unexpected Christmas: The Soundtrack)'
+  - Lois Lane (Interlude) (Kiss 6)
+  - Gas Station Love (Gas Station Love)
+  - Cold Day (Cold Day)
 external_urls:
-  spotify: https://open.spotify.com/artist/1Ub0AUonKoIZuFvy1WZbIC
+  spotify: 'https://open.spotify.com/artist/1Ub0AUonKoIZuFvy1WZbIC'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/EJ_JONES.jpg
 biography_enhanced_at: '2025-10-19T11:37:29.875761'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.famousbirthdays.com/people/ej-jones.html
-- https://www.hitsdailydouble.com/news/new-developing-2025-q2/new-developing-2025-q2-ej-jones
-- https://www.threads.com/@blacklovepage/post/DPHV3qkjuRK/ej-jones-is-taking-tiktok-by-storm-with-his-powerful-voice-and-smooth-style-fans?hl=en
+  - 'https://www.famousbirthdays.com/people/ej-jones.html'
+  - >-
+    https://www.hitsdailydouble.com/news/new-developing-2025-q2/new-developing-2025-q2-ej-jones
+  - >-
+    https://www.threads.com/@blacklovepage/post/DPHV3qkjuRK/ej-jones-is-taking-tiktok-by-storm-with-his-powerful-voice-and-smooth-style-fans?hl=en
 network_extracted: true
 entry_created: '2025-10-19T11:37:29.875772'
 last_updated: '2025-12-23T08:16:01.823279'
+artist_type: person
 ---
 
 ![](EJ_JONES.jpg)

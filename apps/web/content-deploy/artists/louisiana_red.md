@@ -5,21 +5,21 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1932-03-23'
-birth_place: Bessemer
+birth_place: 'Bessemer, Alabama, United States'
 death_date: '2012-02-25'
 genres:
-- blues
-- classic blues
-- modern blues
+  - blues
+  - classic blues
+  - modern blues
 instruments:
-- guitar
-- lead vocals
+  - guitar
+  - lead vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 79ef91a5-bce0-4ef4-919a-603b0fe9d594
-  name: Louisiana Red and His Chicago Blues Friends
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 79ef91a5-bce0-4ef4-919a-603b0fe9d594
+    name: Louisiana Red and His Chicago Blues Friends
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/louisiana_red.jpg
   caption: Louisiana Red
@@ -42,55 +42,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sugar Blue
-  - Carey Bell
-  - Stelios Vamvakaris
-  - Eric Burdon
+    - Sugar Blue
+    - Carey Bell
+    - Stelios Vamvakaris
+    - Eric Burdon
   influenced: []
   mentors:
-  - Muddy Waters
-  - John Lee Hooker
-  - Elmore James
-  - Jimmy Reed
+    - Muddy Waters
+    - John Lee Hooker
+    - Elmore James
+    - Jimmy Reed
 spotify_data:
   followers: 12990
   id: 1gAPH1IQmAFW28AYz1nyE9
   popularity: 29
-  url: https://open.spotify.com/artist/1gAPH1IQmAFW28AYz1nyE9
+  url: 'https://open.spotify.com/artist/1gAPH1IQmAFW28AYz1nyE9'
 discography_enriched: true
 top_tracks:
-- Freight Train to Ride (Louisiana Red Sings The Blues)
-- I Wonder Who - Live
-- Pretty Woman - Live
-- Mini Skirt (World on Fire)
-- Driftin' (Driftin')
-- Rollin' Stone (Louisiana Red Sings The Blues)
-- Alabama Train (Hot Sauce)
-- I Am Louisiana Red (Louisiana Red Sings The Blues)
-- Sweetblood Call (Sweet Blood Call)
-- You Don't Have to Go (Louisiana Red Sings The Blues)
+  - Freight Train to Ride (Louisiana Red Sings The Blues)
+  - I Wonder Who - Live
+  - Pretty Woman - Live
+  - Mini Skirt (World on Fire)
+  - Driftin' (Driftin')
+  - Rollin' Stone (Louisiana Red Sings The Blues)
+  - Alabama Train (Hot Sauce)
+  - I Am Louisiana Red (Louisiana Red Sings The Blues)
+  - Sweetblood Call (Sweet Blood Call)
+  - You Don't Have to Go (Louisiana Red Sings The Blues)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9aaeac38-9c12-4267-840a-05ae8586b194
-  spotify: https://open.spotify.com/artist/1gAPH1IQmAFW28AYz1nyE9
-  wikipedia: https://en.wikipedia.org/wiki/Louisiana_Red
+  musicbrainz: 'https://musicbrainz.org/artist/9aaeac38-9c12-4267-840a-05ae8586b194'
+  spotify: 'https://open.spotify.com/artist/1gAPH1IQmAFW28AYz1nyE9'
+  wikipedia: 'https://en.wikipedia.org/wiki/Louisiana_Red'
 image_path: 03_Resources/source_material/ArtistPortraits/louisiana_red.jpg
 biography_enhanced_at: '2025-11-28T07:32:40.609564'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Louisiana Red
-- Ponderosa Stomp - Louisiana Red
-- Earlyblues.org - In Memoriam Louisiana Red
-- Bluesway.gr - Louisiana Red
-- AllMusic - Louisiana Red
-- Earwig Music - Louisiana Red
+  - Wikipedia - Louisiana Red
+  - Ponderosa Stomp - Louisiana Red
+  - Earlyblues.org - In Memoriam Louisiana Red
+  - Bluesway.gr - Louisiana Red
+  - AllMusic - Louisiana Red
+  - Earwig Music - Louisiana Red
 network_extracted: true
 entry_created: '2025-11-28T07:32:40.609578'
 last_updated: '2025-12-23T08:16:12.272983'
 gender: Male
 musicbrainz_id: 9aaeac38-9c12-4267-840a-05ae8586b194
 tags:
-- blues
+  - blues
+is_active: false
 ---
 
 ![](louisiana_red.jpg)

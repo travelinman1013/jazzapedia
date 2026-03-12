@@ -1,15 +1,16 @@
 ---
-title: Thundercat/ Badbadnotgood/ Flying Lotus
+title: Thundercat
 wiki_slug: thundercat-badbadnotgood-flying-lotus
 schema_version: 2
 status: active
-birth_place: Los Angeles, California, United States
+birth_place: 'Los Angeles, California, United States'
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/thundercat_badbadnotgood_flying_lotus.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/thundercat_badbadnotgood_flying_lotus.jpg
   caption: Thundercat/ Badbadnotgood/ Flying Lotus
   background: solo_singer
-  origin: Los Angeles, California, United States
+  origin: 'Los Angeles, California, United States'
 audio_profile:
   tempo_avg: 113.6
   energy_avg: 0.654
@@ -25,54 +26,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Flying Lotus
-  - Kamasi Washington
-  - Kendrick Lamar
-  - Suicidal Tendencies
-  - Erykah Badu
-  - Snoop Dogg
+    - Flying Lotus
+    - Kamasi Washington
+    - Kendrick Lamar
+    - Suicidal Tendencies
+    - Erykah Badu
+    - Snoop Dogg
   influenced:
-  - Anderson .Paak
-  - MonoNeon
-  - Contemporary jazz, R&B, and hip-hop artists
+    - Anderson .Paak
+    - MonoNeon
+    - 'Contemporary jazz, R&B, and hip-hop artists'
   mentors:
-  - Ronald Bruner Sr.
-  - Stanley Clarke
-  - Erykah Badu
-  - Flying Lotus
+    - Ronald Bruner Sr.
+    - Stanley Clarke
+    - Erykah Badu
+    - Flying Lotus
 spotify_data:
   followers: 1536090
   id: 4frXpPxQQZwbCu3eTGnZEw
   popularity: 69
-  url: https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw
+  url: 'https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw'
 discography_enriched: true
 top_tracks:
-- Wesley's Theory (To Pimp A Butterfly)
-- Funny Thing (It Is What It Is)
-- Them Changes (Drunk)
-- After Last Night (with Thundercat & Bootsy Collins) (An Evening With Silk Sonic)
-- These Walls (To Pimp A Butterfly)
-- After Last Night (with Thundercat & Bootsy Collins) (An Evening With Silk Sonic)
-- Walk On By (Drunk)
-- No More Lies
-- Cracker Island (feat. Thundercat) (Cracker Island)
-- Dragonball Durag (It Is What It Is)
+  - Wesley's Theory (To Pimp A Butterfly)
+  - Funny Thing (It Is What It Is)
+  - Them Changes (Drunk)
+  - >-
+    After Last Night (with Thundercat & Bootsy Collins) (An Evening With Silk
+    Sonic)
+  - These Walls (To Pimp A Butterfly)
+  - >-
+    After Last Night (with Thundercat & Bootsy Collins) (An Evening With Silk
+    Sonic)
+  - Walk On By (Drunk)
+  - No More Lies
+  - Cracker Island (feat. Thundercat) (Cracker Island)
+  - Dragonball Durag (It Is What It Is)
 external_urls:
-  spotify: https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw
-  wikipedia: https://en.wikipedia.org/wiki/Thundercat_(musician)
-image_path: 03_Resources/source_material/ArtistPortraits/thundercat_badbadnotgood_flying_lotus.jpg
+  spotify: 'https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw'
+  wikipedia: 'https://en.wikipedia.org/wiki/Thundercat_(musician)'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/thundercat_badbadnotgood_flying_lotus.jpg
 biography_enhanced_at: '2025-11-21T07:11:28.975467'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Thundercat_(musician)
-- https://sogrooveoficial.com/thundercat-the-bass-maestro-redefining-modern-music/
-- https://ninjatune.net/artist/thundercat
-- https://www.labella.com/artists/thundercat/
-- https://www.insomniac.com/music/artists/thundercat/
+  - 'https://en.wikipedia.org/wiki/Thundercat_(musician)'
+  - >-
+    https://sogrooveoficial.com/thundercat-the-bass-maestro-redefining-modern-music/
+  - 'https://ninjatune.net/artist/thundercat'
+  - 'https://www.labella.com/artists/thundercat/'
+  - 'https://www.insomniac.com/music/artists/thundercat/'
 network_extracted: true
 entry_created: '2025-11-21T07:11:28.975478'
 last_updated: '2025-12-23T08:16:17.402158'
+birth_date: '1984-10-19'
+artist_type: person
 ---
 
 ![](thundercat_badbadnotgood_flying_lotus.jpg)

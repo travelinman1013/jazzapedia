@@ -3,13 +3,13 @@ title: Sinead O'Connor
 wiki_slug: sinead-oconnor
 schema_version: 2
 status: active
-birth_place: Glenageary, County Dublin, Ireland
+birth_place: 'Glenageary, County Dublin, Ireland'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sinead_oconnor.jpg
   caption: Sinead O'Connor
   background: solo_singer
-  origin: Glenageary, County Dublin, Ireland
+  origin: 'Glenageary, County Dublin, Ireland'
 audio_profile:
   tempo_avg: 112.8
   energy_avg: 0.451
@@ -25,48 +25,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ton Ton Macoute
-  - Prince
-  - In Tua Nua
+    - Ton Ton Macoute
+    - Prince
+    - In Tua Nua
   influenced: []
   mentors:
-  - Fachtna Ó Ceallaigh
-  - The Edge (U2)
+    - Fachtna Ó Ceallaigh
+    - The Edge (U2)
 spotify_data:
   followers: 1401729
   id: 4sD9znwiVFx9cgRPZ42aQ1
   popularity: 62
-  url: https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1
+  url: 'https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1'
 discography_enriched: true
 top_tracks:
-- Nothing Compares 2 U (I Do Not Want What I Haven't Got)
-- All Apologies (Universal Mother)
-- Mandinka (The Lion and the Cobra)
-- Drink Before the War (The Lion and the Cobra)
-- The Foggy Dew (with Sinéad O'Connor)
-- The Emperor's New Clothes (I Do Not Want What I Haven't Got)
-- Last Day of Our Acquaintance (I Do Not Want What I Haven't Got)
-- Troy (The Lion and the Cobra)
-- Black Boys on Mopeds (I Do Not Want What I Haven't Got)
-- Just Like U Said It Would B (The Lion and the Cobra)
+  - Nothing Compares 2 U (I Do Not Want What I Haven't Got)
+  - All Apologies (Universal Mother)
+  - Mandinka (The Lion and the Cobra)
+  - Drink Before the War (The Lion and the Cobra)
+  - The Foggy Dew (with Sinéad O'Connor)
+  - The Emperor's New Clothes (I Do Not Want What I Haven't Got)
+  - Last Day of Our Acquaintance (I Do Not Want What I Haven't Got)
+  - Troy (The Lion and the Cobra)
+  - Black Boys on Mopeds (I Do Not Want What I Haven't Got)
+  - Just Like U Said It Would B (The Lion and the Cobra)
 external_urls:
-  spotify: https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1
-  wikipedia: https://en.wikipedia.org/wiki/Sinéad_O'Connor
+  spotify: 'https://open.spotify.com/artist/4sD9znwiVFx9cgRPZ42aQ1'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sinéad_O''Connor'
 image_path: 03_Resources/source_material/ArtistPortraits/sinead_oconnor.jpg
 biography_enhanced_at: '2025-11-29T07:08:42.058819'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.biography.com/musicians/sinead-oconnor
-- https://calendar.songfacts.com/timeline/sinead-oconnor/
-- https://en.wikipedia.org/wiki/Sinéad_O'Connor
-- https://www.britannica.com/biography/Sinead-OConnor
-- https://www.irishexaminer.com/lifestyle/artsandculture/arid-41192548.html
-- https://www.last.fm/music/Sinéad+O'Connor/+wiki
-- https://arapahoelibraries.org/blogs/post/nothing-compares-sinead-oconnor-1966-2023/
+  - 'https://www.biography.com/musicians/sinead-oconnor'
+  - 'https://calendar.songfacts.com/timeline/sinead-oconnor/'
+  - 'https://en.wikipedia.org/wiki/Sinéad_O''Connor'
+  - 'https://www.britannica.com/biography/Sinead-OConnor'
+  - 'https://www.irishexaminer.com/lifestyle/artsandculture/arid-41192548.html'
+  - 'https://www.last.fm/music/Sinéad+O''Connor/+wiki'
+  - >-
+    https://arapahoelibraries.org/blogs/post/nothing-compares-sinead-oconnor-1966-2023/
 network_extracted: true
 entry_created: '2025-11-29T07:08:42.058831'
 last_updated: '2025-12-23T08:16:15.654316'
+birth_date: '1966-12-08'
+death_date: '2023-07-26'
+artist_type: person
 ---
 
 ![](sinead_oconnor.jpg)

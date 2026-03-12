@@ -2,19 +2,19 @@
 title: Jane Monheit
 wiki_slug: jane-monheit
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1977-11-03'
-birth_place: Oakdale, New York, USA
+birth_place: 'Oakdale, New York, USA'
 genres:
-- vocal jazz
-- jazz
+  - vocal jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Jane_Monheit.jpg
   caption: Jane Monheit
   background: solo_singer
   born: '1977-11-03'
-  origin: Oakdale, New York, USA
+  origin: 'Oakdale, New York, USA'
 audio_profile:
   tempo_avg: 122.1
   energy_avg: 0.306
@@ -22,7 +22,7 @@ audio_profile:
   danceability_avg: 0.497
   acousticness_avg: 0.797
   instrumentalness_avg: 0.001
-  loudness_avg: -11.0
+  loudness_avg: -11
   speechiness_avg: 0.05
   liveness_avg: 0.131
   track_count: 51
@@ -30,47 +30,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Rick Montalbano
-  - Michael Kanan
-  - Kenny Barron
-  - Ron Carter
-  - Nicholas Payton
+    - Rick Montalbano
+    - Michael Kanan
+    - Kenny Barron
+    - Ron Carter
+    - Nicholas Payton
   influenced:
-  - Emerging jazz vocalists
+    - Emerging jazz vocalists
   mentors:
-  - Peter Eldridge
-  - Ella Fitzgerald
+    - Peter Eldridge
+    - Ella Fitzgerald
 spotify_data:
   followers: 79693
   id: 7rwI5cbw9cUKFVul2rZMiZ
   popularity: 38
-  url: https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ
+  url: 'https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ'
 discography_enriched: true
 top_tracks:
-- Taking a Chance on Love (Taking A Chance On Love)
-- A Time For Love (Surrender)
-- Taking a Chance on Love (Taking A Chance On Love)
-- Caminhos Cruzados (Surrender)
-- Honeysuckle Rose (Taking A Chance On Love)
-- Caminhos Cruzados (Surrender)
-- A Time For Love (Surrender)
-- Avalon
-- I Won't Dance (feat. Michael Bublé) (Taking A Chance On Love)
-- The Man That Got Away (Come What May)
+  - Taking a Chance on Love (Taking A Chance On Love)
+  - A Time For Love (Surrender)
+  - Taking a Chance on Love (Taking A Chance On Love)
+  - Caminhos Cruzados (Surrender)
+  - Honeysuckle Rose (Taking A Chance On Love)
+  - Caminhos Cruzados (Surrender)
+  - A Time For Love (Surrender)
+  - Avalon
+  - I Won't Dance (feat. Michael Bublé) (Taking A Chance On Love)
+  - The Man That Got Away (Come What May)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/75d98827-d476-4112-84b4-44b5495581c6
-  spotify: https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ
-  wikipedia: https://en.wikipedia.org/wiki/Jane_Monheit
+  musicbrainz: 'https://musicbrainz.org/artist/75d98827-d476-4112-84b4-44b5495581c6'
+  spotify: 'https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jane_Monheit'
 image_path: 03_Resources/source_material/ArtistPortraits/Jane_Monheit.jpg
 biography_enhanced_at: '2025-10-20T10:13:52.565673'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jane_Monheit
-- https://www.justjazz.de/project/jane-monheit/
-- https://www.sfjazz.org/onthecorner/5-things-to-know-about-jane-monheit
-- https://www.imdb.com/name/nm1487577/bio/
-- https://litchfieldjazzfest.com/artwork/jane-monheit/
+  - 'https://en.wikipedia.org/wiki/Jane_Monheit'
+  - 'https://www.justjazz.de/project/jane-monheit/'
+  - 'https://www.sfjazz.org/onthecorner/5-things-to-know-about-jane-monheit'
+  - 'https://www.imdb.com/name/nm1487577/bio/'
+  - 'https://litchfieldjazzfest.com/artwork/jane-monheit/'
 network_extracted: true
 entry_created: '2025-10-20T10:13:52.565683'
 last_updated: '2025-12-23T08:16:02.470880'
@@ -78,9 +78,9 @@ gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:30:48.086288'
 musicbrainz_id: 75d98827-d476-4112-84b4-44b5495581c6
 tags:
-- contemporary jazz
-- jazz
-- jazz and blues
+  - contemporary jazz
+  - jazz
+  - jazz and blues
 ---
 
 ![](Jane_Monheit.jpg)

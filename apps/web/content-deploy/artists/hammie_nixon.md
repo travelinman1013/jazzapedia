@@ -2,53 +2,56 @@
 artist_type: person
 biography_enhanced_at: '2026-01-20T01:24:04.888007'
 birth_date: '1908-01-22'
-birth_place: Mississippi
+birth_place: 'Brownsville, Tennessee, United States'
 death_date: '1984-08-17'
 enhancement_provider: perplexity
 entry_created: '2026-01-20T01:24:04.888014'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d5b624d9-a488-4305-9035-6c3e3ac8097a
-  spotify: https://open.spotify.com/artist/5nfU9hbvHJegn6oPdo2dh2
-  wikipedia: https://en.wikipedia.org/wiki/Hammie_Nixon
+  musicbrainz: 'https://musicbrainz.org/artist/d5b624d9-a488-4305-9035-6c3e3ac8097a'
+  spotify: 'https://open.spotify.com/artist/5nfU9hbvHJegn6oPdo2dh2'
+  wikipedia: 'https://en.wikipedia.org/wiki/Hammie_Nixon'
 gender: Male
 genres:
-- country blues
-- blues
-- classic blues
-- modern blues
+  - country blues
+  - blues
+  - classic blues
+  - modern blues
 image_path: 03_Resources/source_material/ArtistPortraits/hammie_nixon.jpg
 instruments:
-- spoken vocals
-- lead vocals
+  - spoken vocals
+  - lead vocals
 last_updated: '2026-01-20T01:24:04.888014'
 musical_connections:
   collaborators:
-  - Sleepy John Estes
-  - Yank Rachell
-  - Little Buddy Doyle
-  - Charlie Pickett
-  - Son Bonds
-  - Beale Street Jug Band
+    - Sleepy John Estes
+    - Yank Rachell
+    - Little Buddy Doyle
+    - Charlie Pickett
+    - Son Bonds
+    - Beale Street Jug Band
   influenced: []
   mentors: []
 musicbrainz_id: d5b624d9-a488-4305-9035-6c3e3ac8097a
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Hammie_Nixon
-- https://blinddogradio.blogspot.com/2021/06/hammie-nixon.html
-- https://www.allmusic.com/artist/hammie-nixon-mn0000665257
-- https://fromthevaults-boppinbob.blogspot.com/2024/01/hammie-nixon-born-22-january-1908.html
+  - 'https://en.wikipedia.org/wiki/Hammie_Nixon'
+  - 'https://blinddogradio.blogspot.com/2021/06/hammie-nixon.html'
+  - 'https://www.allmusic.com/artist/hammie-nixon-mn0000665257'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2024/01/hammie-nixon-born-22-january-1908.html
 spotify_data:
   followers: 629
   id: 5nfU9hbvHJegn6oPdo2dh2
   popularity: 3
-  url: https://open.spotify.com/artist/5nfU9hbvHJegn6oPdo2dh2
+  url: 'https://open.spotify.com/artist/5nfU9hbvHJegn6oPdo2dh2'
 status: active
 tags:
-- blues
-- country blues
-title: HAMMIE NIXON
+  - blues
+  - country blues
+title: Hammie Nixon
+is_active: false
+origin: 'Memphis, Tennessee, United States'
 ---
 
 ![](hammie_nixon.jpg)

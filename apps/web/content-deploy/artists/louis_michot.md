@@ -3,15 +3,15 @@ title: Louis Michot
 wiki_slug: louis-michot
 schema_version: 2
 status: active
-birth_place: Baton Rouge, Louisiana, United States
+birth_place: 'Baton Rouge, Louisiana, United States'
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/louis_michot.jpg
   caption: Louis Michot
   background: solo_singer
-  origin: Baton Rouge, Louisiana, United States
+  origin: 'Baton Rouge, Louisiana, United States'
 audio_profile:
   tempo_avg: 115.5
   energy_avg: 0.497
@@ -19,7 +19,7 @@ audio_profile:
   danceability_avg: 0.556
   acousticness_avg: 0.602
   instrumentalness_avg: 0.195
-  loudness_avg: -10.0
+  loudness_avg: -10
   speechiness_avg: 0.068
   liveness_avg: 0.172
   track_count: 49
@@ -27,52 +27,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Andre Michot
-  - Kirkland Middleton
-  - Bryan Webre
-  - Mark Bingham
-  - Rickie Lee Jones, Scarlett Johansson, Jon Batiste, Lucinda Williams, Aloe Blacc, Donald Byrd, Spider Stacy, Gordon Gano,
-    Dr. John
-  - D. L. Menard, Belton Richard, Vin Bruce, Hadley Castille, Luderin Darbonne
+    - Andre Michot
+    - Kirkland Middleton
+    - Bryan Webre
+    - Mark Bingham
+    - >-
+      Rickie Lee Jones, Scarlett Johansson, Jon Batiste, Lucinda Williams, Aloe
+      Blacc, Donald Byrd, Spider Stacy, Gordon Gano, Dr. John
+    - 'D. L. Menard, Belton Richard, Vin Bruce, Hadley Castille, Luderin Darbonne'
   influenced:
-  - Emerging Louisiana French musicians
+    - Emerging Louisiana French musicians
   mentors:
-  - Louis J. Michot, Jr.
-  - David Michot
-  - Cajun French speakers and musicians
+    - 'Louis J. Michot, Jr.'
+    - David Michot
+    - Cajun French speakers and musicians
 spotify_data:
   followers: 1010
   id: 7gPlS4Nc3Ozgkux568aeNN
   popularity: 10
-  url: https://open.spotify.com/artist/7gPlS4Nc3Ozgkux568aeNN
+  url: 'https://open.spotify.com/artist/7gPlS4Nc3Ozgkux568aeNN'
 discography_enriched: true
 top_tracks:
-- laisse le bon temps rouler (laisse le bon temps rouler)
-- Blue Moon Special (Bayou Perdu)
-- Meche Perdu (SEAUXLEAUX)
-- Amourette (Rêve du troubadour)
-- laisse le bon temps rouler (BABY DON'T)
-- 'Jole Blon (with Louis Michot) (American Epic: The Soundtrack)'
-- Boscoyo Fleaux (SEAUXLEAUX)
-- L’Abandonne (SEAUXLEAUX)
-- Rêve du troubadour (Rêve du troubadour)
-- Souvenir de Porto Rico (Rêve du troubadour)
+  - laisse le bon temps rouler (laisse le bon temps rouler)
+  - Blue Moon Special (Bayou Perdu)
+  - Meche Perdu (SEAUXLEAUX)
+  - Amourette (Rêve du troubadour)
+  - laisse le bon temps rouler (BABY DON'T)
+  - 'Jole Blon (with Louis Michot) (American Epic: The Soundtrack)'
+  - Boscoyo Fleaux (SEAUXLEAUX)
+  - L’Abandonne (SEAUXLEAUX)
+  - Rêve du troubadour (Rêve du troubadour)
+  - Souvenir de Porto Rico (Rêve du troubadour)
 external_urls:
-  spotify: https://open.spotify.com/artist/7gPlS4Nc3Ozgkux568aeNN
+  spotify: 'https://open.spotify.com/artist/7gPlS4Nc3Ozgkux568aeNN'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/louis_michot.jpg
 biography_enhanced_at: '2025-11-08T21:53:39.190101'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.thatrecordgotmehigh.com/guests/louis-michot/
-- https://www.americanbluesscene.com/2023/09/in-tune-with-louis-michot-the-lost-bayou-ramblers-lead-singer-goes-solo/
-- https://www.nps.gov/jela/learn/photosmultimedia/golden-hour-louis-michot.htm
-- https://stringsmagazine.com/cajun-fiddler-louis-michot-bonds-traditional-music-with-contemporary-culture/
-- https://www.louismichot.com/about
+  - 'https://www.thatrecordgotmehigh.com/guests/louis-michot/'
+  - >-
+    https://www.americanbluesscene.com/2023/09/in-tune-with-louis-michot-the-lost-bayou-ramblers-lead-singer-goes-solo/
+  - 'https://www.nps.gov/jela/learn/photosmultimedia/golden-hour-louis-michot.htm'
+  - >-
+    https://stringsmagazine.com/cajun-fiddler-louis-michot-bonds-traditional-music-with-contemporary-culture/
+  - 'https://www.louismichot.com/about'
 network_extracted: true
 entry_created: '2025-11-08T21:53:39.190118'
 last_updated: '2025-12-23T08:16:12.260474'
+origin: 'Lafayette, Louisiana, United States'
+birth_date: '1979'
+artist_type: person
 ---
 
 ![](louis_michot.jpg)

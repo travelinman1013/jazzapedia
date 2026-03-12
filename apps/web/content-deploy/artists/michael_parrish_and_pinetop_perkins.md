@@ -5,7 +5,8 @@ schema_version: 2
 status: active
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/michael_parrish_and_pinetop_perkins.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/michael_parrish_and_pinetop_perkins.jpg
   caption: Michael Parrish & Pinetop Perkins
   background: solo_singer
 audio_profile:
@@ -23,51 +24,70 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Pinetop Perkins
-  - Michael Parrish Band (MPB)
-  - Blues Traveler
+    - Pinetop Perkins
+    - Michael Parrish Band (MPB)
+    - Blues Traveler
   influenced:
-  - Contemporary blues pianists
+    - Contemporary blues pianists
   mentors:
-  - Guitar Gabriel
-  - Meade Lux Lewis & Albert Ammons
+    - Guitar Gabriel
+    - Meade Lux Lewis & Albert Ammons
 spotify_data:
   followers: 608
   id: 4ikP3KN5qKAPbhyZOQUOFp
   popularity: 21
-  url: https://open.spotify.com/artist/4ikP3KN5qKAPbhyZOQUOFp
+  url: 'https://open.spotify.com/artist/4ikP3KN5qKAPbhyZOQUOFp'
 discography_enriched: true
 top_tracks:
-- Another Brick In The Wall (Part 2) (feat. Layne Staley, Tom Morello, Stephen Perkins, Martyn LeNoble & Matt Serletic) (The
-  Faculty (Music From The Dimension Motion Picture))
-- When The Levee Breaks (Songs For Humanity)
-- In the Beginning (feat. Tony Kanal & Stephen Perkins) (Crisis on Infinite Earths (Original Television Soundtrack))
-- In My Heart (In My Heart)
-- In the End (feat. Tony Kanal & Stephen Perkins) (Crisis on Infinite Earths (Original Television Soundtrack))
-- He Fought to His Last Breath (feat. Tony Kanal & Stephen Perkins) (Crisis on Infinite Earths (Original Television Soundtrack))
-- Can't Wait (Chepleeri Dream)
-- Another Brick In The Wall (Part 2) (feat. Layne Staley, Tom Morello, Stephen Perkins, Martyn LeNoble & Matt Serletic) (The
-  Faculty (Music From The Dimension Motion Picture))
-- In My Heart (Chepleeri Dream)
-- Fighting Shadows / A New Beginning (feat. Tony Kanal & Stephen Perkins) (Crisis on Infinite Earths (Original Television
-  Soundtrack))
+  - >-
+    Another Brick In The Wall (Part 2) (feat. Layne Staley, Tom Morello, Stephen
+    Perkins, Martyn LeNoble & Matt Serletic) (The Faculty (Music From The
+    Dimension Motion Picture))
+  - When The Levee Breaks (Songs For Humanity)
+  - >-
+    In the Beginning (feat. Tony Kanal & Stephen Perkins) (Crisis on Infinite
+    Earths (Original Television Soundtrack))
+  - In My Heart (In My Heart)
+  - >-
+    In the End (feat. Tony Kanal & Stephen Perkins) (Crisis on Infinite Earths
+    (Original Television Soundtrack))
+  - >-
+    He Fought to His Last Breath (feat. Tony Kanal & Stephen Perkins) (Crisis on
+    Infinite Earths (Original Television Soundtrack))
+  - Can't Wait (Chepleeri Dream)
+  - >-
+    Another Brick In The Wall (Part 2) (feat. Layne Staley, Tom Morello, Stephen
+    Perkins, Martyn LeNoble & Matt Serletic) (The Faculty (Music From The
+    Dimension Motion Picture))
+  - In My Heart (Chepleeri Dream)
+  - >-
+    Fighting Shadows / A New Beginning (feat. Tony Kanal & Stephen Perkins)
+    (Crisis on Infinite Earths (Original Television Soundtrack))
 external_urls:
-  spotify: https://open.spotify.com/artist/4ikP3KN5qKAPbhyZOQUOFp
+  spotify: 'https://open.spotify.com/artist/4ikP3KN5qKAPbhyZOQUOFp'
   wikipedia: ''
-image_path: 03_Resources/source_material/ArtistPortraits/michael_parrish_and_pinetop_perkins.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/michael_parrish_and_pinetop_perkins.jpg
 biography_enhanced_at: '2025-10-23T07:32:38.073654'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.allaboutjazz.com/musicians/pinetop-perkins/
-- https://michaelfolkfootparrish.bandcamp.com
-- https://www.allaboutjazz.com/one-heart-pinetop-perkins-geographic-records-review-by-ed-kopp
-- http://www.mnblues.com/cdreview/pinetopparrish.html
-- https://nodepression.org/michael-parrish-band-dont-shoot-me-im-not-the-piano-player/
+  - 'https://www.allaboutjazz.com/musicians/pinetop-perkins/'
+  - 'https://michaelfolkfootparrish.bandcamp.com'
+  - >-
+    https://www.allaboutjazz.com/one-heart-pinetop-perkins-geographic-records-review-by-ed-kopp
+  - 'http://www.mnblues.com/cdreview/pinetopparrish.html'
+  - >-
+    https://nodepression.org/michael-parrish-band-dont-shoot-me-im-not-the-piano-player/
 network_extracted: true
 entry_created: '2025-10-23T07:32:38.073664'
 last_updated: '2025-12-23T08:16:13.065731'
-origin: Belzoni, Mississippi, USA (Pinetop Perkins); Bay Area, California, USA (Michael Parrish)
+origin: >-
+  Belzoni, Mississippi, USA (Pinetop Perkins); Bay Area, California, USA
+  (Michael Parrish)
+birth_place: 'Belzoni, Mississippi, United States'
+birth_date: '1913'
+artist_type: person
 ---
 
 ![](michael_parrish_and_pinetop_perkins.jpg)

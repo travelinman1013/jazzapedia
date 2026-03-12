@@ -3,13 +3,13 @@ title: Jesse McBride
 wiki_slug: jesse-mcbride
 schema_version: 2
 status: active
-birth_place: Houston, Texas, USA (birthplace); New Orleans, Louisiana, USA (career base)
+birth_place: 'Houston, Texas, USA (birthplace); New Orleans, Louisiana, USA (career base)'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jesse_mcbride.jpg
   caption: Jesse McBride
   background: solo_singer
-  origin: Houston, Texas, USA (birthplace); New Orleans, Louisiana, USA (career base)
+  origin: 'Houston, Texas, USA (birthplace); New Orleans, Louisiana, USA (career base)'
 audio_profile:
   tempo_avg: 121.1
   energy_avg: 0.427
@@ -25,47 +25,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Germaine Bazzle
-  - Robert Glasper
-  - Members of 'The Next Generation'
+    - Germaine Bazzle
+    - Robert Glasper
+    - Members of 'The Next Generation'
   influenced:
-  - Young New Orleans jazz musicians
+    - Young New Orleans jazz musicians
   mentors:
-  - Harold Battiste
-  - Ellis Marsalis
+    - Harold Battiste
+    - Ellis Marsalis
 spotify_data:
   followers: 88
   id: 6XQJ4bD2Iq0SilqBVY7OZ7
   popularity: 0
-  url: https://open.spotify.com/artist/6XQJ4bD2Iq0SilqBVY7OZ7
+  url: 'https://open.spotify.com/artist/6XQJ4bD2Iq0SilqBVY7OZ7'
 discography_enriched: true
 top_tracks:
-- To Brownie (Live) (Live at the Old Us Mint)
-- Dee Wee (Jesse McBride presents "The Next Generation" Vol. 2)
-- Blue In Green (Jesse McBride presents "The Next Generation" Vol. 2)
-- Song For Harry Potter (Jesse McBride presents "The Next Generation" Vol. 2)
-- June 27 (Jesse McBride presents "The Next Generation" Vol. 2)
-- The Crucible (Jesse McBride presents "The Next Generation" Vol. 2)
-- Hinterland (Jesse McBride presents "The Next Generation" Vol. 2)
-- Red (Jesse McBride presents "The Next Generation" Vol. 2)
-- Have You Met Miss Jones (Jesse McBride presents "The Next Generation" Vol. 2)
-- Wave (Jesse McBride presents "The Next Generation" Vol. 2)
+  - To Brownie (Live) (Live at the Old Us Mint)
+  - Dee Wee (Jesse McBride presents "The Next Generation" Vol. 2)
+  - Blue In Green (Jesse McBride presents "The Next Generation" Vol. 2)
+  - Song For Harry Potter (Jesse McBride presents "The Next Generation" Vol. 2)
+  - June 27 (Jesse McBride presents "The Next Generation" Vol. 2)
+  - The Crucible (Jesse McBride presents "The Next Generation" Vol. 2)
+  - Hinterland (Jesse McBride presents "The Next Generation" Vol. 2)
+  - Red (Jesse McBride presents "The Next Generation" Vol. 2)
+  - >-
+    Have You Met Miss Jones (Jesse McBride presents "The Next Generation" Vol.
+    2)
+  - Wave (Jesse McBride presents "The Next Generation" Vol. 2)
 external_urls:
-  spotify: https://open.spotify.com/artist/6XQJ4bD2Iq0SilqBVY7OZ7
+  spotify: 'https://open.spotify.com/artist/6XQJ4bD2Iq0SilqBVY7OZ7'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/jesse_mcbride.jpg
 biography_enhanced_at: '2025-11-08T21:59:13.926595'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.offbeat.com/news/jesse-mcbride-other-mens-blues/
-- https://nolajazzmuseum.org/articles/primeexamples
-- https://www.vianolavie.org/2019/04/24/jesse-mcbride-on-the-past-present-and-future-of-new-orleans-jazz/
-- https://www.neworleans.com/listing/jesse-mcbride/46421/
-- https://www.youtube.com/watch?v=G0v_HWIDIWk
+  - 'https://www.offbeat.com/news/jesse-mcbride-other-mens-blues/'
+  - 'https://nolajazzmuseum.org/articles/primeexamples'
+  - >-
+    https://www.vianolavie.org/2019/04/24/jesse-mcbride-on-the-past-present-and-future-of-new-orleans-jazz/
+  - 'https://www.neworleans.com/listing/jesse-mcbride/46421/'
+  - 'https://www.youtube.com/watch?v=G0v_HWIDIWk'
 network_extracted: true
 entry_created: '2025-11-08T21:59:13.926611'
 last_updated: '2025-12-23T08:16:10.369352'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](jesse_mcbride.jpg)

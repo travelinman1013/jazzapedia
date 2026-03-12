@@ -1,198 +1,201 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '2010'
-  end: ''
-  instruments:
-  - guitar
-  - original
-  mbid: 8704b657-0373-44c8-a82f-7ab864ecf01f
-  name: Ingrid Laubrock Anti-House
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 45985c95-885a-4270-9370-4bf6a8a1c7af
-  name: Mary Halvorson Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: e0151fc8-17b2-440a-bdf1-a7d92a557a15
-  name: Mary Halvorson Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: df3657ea-c8f0-49e4-8c2d-53cb6e394350
-  name: Tomas Fujiwara & The Hook Up
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2b8fbb4c-f146-4895-afa3-652825652547
-  name: Mary Halvorson Septet
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  - original
-  mbid: 77ed5f21-9969-480e-a1aa-07d6d5768de8
-  name: People
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  - original
-  mbid: 77ed5f21-9969-480e-a1aa-07d6d5768de8
-  name: People
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: ccc33c55-8fd7-4947-84a2-bd5509aa6a83
-  name: Marc Ribot & The Young Philadelphians
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 979e7617-bb40-4384-ac7b-ec0692783bd6
-  name: Thumbscrew
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 859b1231-6d15-485f-a28a-9e0284945ac1
-  name: Mary Halvorson Octet
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: faac9139-8c25-431d-82e6-48e103e26883
-  name: Mary Halvorson Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: 3024cfb4-b1ef-44b1-8c7d-1d23955d7011
-  name: Tomeka Reid Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 5a6b1790-7b69-4539-acc1-cec49ee1845d
-  name: Mary Halvorson’s Code Girl
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: 9f90e1fb-3e4e-4af0-a263-4aeda4deede3
-  name: Myra Melford’s Fire and Water Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b732b24a-4389-4546-adb4-b659dc410440
-  name: Aych
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 62c3ecf0-7f61-4f3c-9cd8-2215ca8e0105
-  name: Tom Rainey Trio
-- begin: ''
-  end: ''
-  instruments:
-  - electric guitar
-  - original
-  mbid: fa667c69-039b-4c45-ac91-ddc726714fe4
-  name: Secret Keeper
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 864f9524-cf8f-4f11-a83c-d982b7ebf72e
-  name: Ches Smith & These Arches
-- begin: ''
-  end: ''
-  instruments:
-  - principal
-  mbid: dadc2eff-d1d7-4cfd-a21d-0a08a4703a86
-  name: Amaryllis Sextet
-- begin: ''
-  end: ''
-  instruments:
-  - electric guitar
-  mbid: 6d671111-7cc6-470a-bb10-89a824d62251
-  name: Plymouth
+  - begin: '2010'
+    end: ''
+    instruments:
+      - guitar
+      - original
+    mbid: 8704b657-0373-44c8-a82f-7ab864ecf01f
+    name: Ingrid Laubrock Anti-House
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 45985c95-885a-4270-9370-4bf6a8a1c7af
+    name: Mary Halvorson Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: e0151fc8-17b2-440a-bdf1-a7d92a557a15
+    name: Mary Halvorson Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: df3657ea-c8f0-49e4-8c2d-53cb6e394350
+    name: Tomas Fujiwara & The Hook Up
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2b8fbb4c-f146-4895-afa3-652825652547
+    name: Mary Halvorson Septet
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+      - original
+    mbid: 77ed5f21-9969-480e-a1aa-07d6d5768de8
+    name: People
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+      - original
+    mbid: 77ed5f21-9969-480e-a1aa-07d6d5768de8
+    name: People
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: ccc33c55-8fd7-4947-84a2-bd5509aa6a83
+    name: Marc Ribot & The Young Philadelphians
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 979e7617-bb40-4384-ac7b-ec0692783bd6
+    name: Thumbscrew
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 859b1231-6d15-485f-a28a-9e0284945ac1
+    name: Mary Halvorson Octet
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: faac9139-8c25-431d-82e6-48e103e26883
+    name: Mary Halvorson Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 3024cfb4-b1ef-44b1-8c7d-1d23955d7011
+    name: Tomeka Reid Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 5a6b1790-7b69-4539-acc1-cec49ee1845d
+    name: Mary Halvorson’s Code Girl
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 9f90e1fb-3e4e-4af0-a263-4aeda4deede3
+    name: Myra Melford’s Fire and Water Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b732b24a-4389-4546-adb4-b659dc410440
+    name: Aych
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 62c3ecf0-7f61-4f3c-9cd8-2215ca8e0105
+    name: Tom Rainey Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - electric guitar
+      - original
+    mbid: fa667c69-039b-4c45-ac91-ddc726714fe4
+    name: Secret Keeper
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 864f9524-cf8f-4f11-a83c-d982b7ebf72e
+    name: Ches Smith & These Arches
+  - begin: ''
+    end: ''
+    instruments:
+      - principal
+    mbid: dadc2eff-d1d7-4cfd-a21d-0a08a4703a86
+    name: Amaryllis Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - electric guitar
+    mbid: 6d671111-7cc6-470a-bb10-89a824d62251
+    name: Plymouth
 biography_enhanced_at: '2026-01-09T01:50:51.429216'
 birth_date: '1980-10-16'
-birth_place: Boston
+birth_place: 'Boston, Massachusetts, United States'
 disambiguation: US avant-garde jazz guitarist
 enhancement_provider: perplexity
 entry_created: '2026-01-09T01:50:51.429224'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5b79b380-0167-4f6e-b707-28c065053353
-  spotify: https://open.spotify.com/artist/5tCfZ8dYbzaq6auQeSAsRl
-  wikipedia: https://en.wikipedia.org/wiki/Mary_Halvorson
+  musicbrainz: 'https://musicbrainz.org/artist/5b79b380-0167-4f6e-b707-28c065053353'
+  spotify: 'https://open.spotify.com/artist/5tCfZ8dYbzaq6auQeSAsRl'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mary_Halvorson'
 gender: Female
 genres:
-- free jazz
-- avant-garde
-- jazz
+  - free jazz
+  - avant-garde
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/mary_halvorson.jpg
 instruments:
-- guitar
-- original
-- eponymous
-- lead vocals
-- electric guitar
-- principal
+  - guitar
+  - original
+  - eponymous
+  - lead vocals
+  - electric guitar
+  - principal
 last_updated: '2026-01-09T01:50:51.429226'
 musical_connections:
   collaborators:
-  - Michael Formanek
-  - Tomas Fujiwara
-  - Ches Smith
-  - John Hébert
-  - Jonathan Finlayson
-  - Jon Irabagon
-  - Ingrid Laubrock
-  - Jacob Garchik
-  - Susan Alcorn
-  - Jessica Pavone
-  - Tim Berne
-  - Taylor Ho Bynum
-  - Bill Frisell
-  - Marc Ribot
-  - John Dieterich
-  - Tomeka Reid
-  - Joe Morris, Jason Moran, Trevor Dunn, Tom Rainey, John Zorn
+    - Michael Formanek
+    - Tomas Fujiwara
+    - Ches Smith
+    - John Hébert
+    - Jonathan Finlayson
+    - Jon Irabagon
+    - Ingrid Laubrock
+    - Jacob Garchik
+    - Susan Alcorn
+    - Jessica Pavone
+    - Tim Berne
+    - Taylor Ho Bynum
+    - Bill Frisell
+    - Marc Ribot
+    - John Dieterich
+    - Tomeka Reid
+    - 'Joe Morris, Jason Moran, Trevor Dunn, Tom Rainey, John Zorn'
   influenced:
-  - Younger avant‑garde and creative jazz guitarists (various, not exhaustively documented by name)
+    - >-
+      Younger avant‑garde and creative jazz guitarists (various, not
+      exhaustively documented by name)
   mentors:
-  - Anthony Braxton
-  - Issi Rozen
-  - Jimi Hendrix
-  - Jazz tradition and experimental rock / folk influences
+    - Anthony Braxton
+    - Issi Rozen
+    - Jimi Hendrix
+    - Jazz tradition and experimental rock / folk influences
 musicbrainz_id: 5b79b380-0167-4f6e-b707-28c065053353
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Mary_Halvorson
-- https://www.macfound.org/fellows/class-of-2019/mary-halvorson
-- https://4columns.org/beta-andy/mary-halvorson
-- https://www.maryhalvorson.com/about
-- https://www.newschool.edu/jazz/faculty/mary-halvorson
-- https://www.kuvo.org/news/the-ozone-about-ghosts-a-new-mary-halvorson-album
-- https://www.pointofdeparture.org/PoD52/PoD52Halvorson.html
-- https://www.audeze.com/blogs/audeze-artists/audeze-interviews-guitarist-and-composer-mary-halvorson
-- https://chicagopresents.uchicago.edu/people/mary-halvorson-guitar
+  - 'https://en.wikipedia.org/wiki/Mary_Halvorson'
+  - 'https://www.macfound.org/fellows/class-of-2019/mary-halvorson'
+  - 'https://4columns.org/beta-andy/mary-halvorson'
+  - 'https://www.maryhalvorson.com/about'
+  - 'https://www.newschool.edu/jazz/faculty/mary-halvorson'
+  - 'https://www.kuvo.org/news/the-ozone-about-ghosts-a-new-mary-halvorson-album'
+  - 'https://www.pointofdeparture.org/PoD52/PoD52Halvorson.html'
+  - >-
+    https://www.audeze.com/blogs/audeze-artists/audeze-interviews-guitarist-and-composer-mary-halvorson
+  - 'https://chicagopresents.uchicago.edu/people/mary-halvorson-guitar'
 spotify_data:
   followers: 22967
   id: 5tCfZ8dYbzaq6auQeSAsRl
   popularity: 27
-  url: https://open.spotify.com/artist/5tCfZ8dYbzaq6auQeSAsRl
+  url: 'https://open.spotify.com/artist/5tCfZ8dYbzaq6auQeSAsRl'
 status: active
 tags:
-- avant-garde
-- avant-garde jazz
-- chamber jazz
+  - avant-garde
+  - avant-garde jazz
+  - chamber jazz
 title: Mary Halvorson
-
+origin: 'New York, New York, United States'
 ---
 
 ![](mary_halvorson.jpg)

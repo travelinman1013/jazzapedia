@@ -1,112 +1,112 @@
 ---
-title: jeff beck
+title: Jeff Beck
 wiki_slug: jeff-beck
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1944-06-24'
-birth_place: Wallington
+birth_place: 'Wallington, Surrey, England'
 death_date: '2023-01-10'
 genres:
-- jazz fusion
-- blues rock
-- blues
+  - jazz fusion
+  - blues rock
+  - blues
 instruments:
-- guitar
-- eponymous
-- original
-- electric guitar
-- additional
-- steel guitar
-- slide guitar
-- guitar family
-- acoustic guitar
-- bass guitar
-- lead vocals
-- spoken vocals
-associated_acts:
-- begin: 1964-08
-  end: 1965-03
-  instruments:
   - guitar
-  mbid: cb2db127-e46e-4fbe-9f7b-dac92814c74e
-  name: The Tridents
-- begin: '1965'
-  end: '1966'
-  instruments: []
-  mbid: 191de76f-a224-445d-b041-54df16d65bf7
-  name: The Yardbirds
-- begin: 1967-01
-  end: '1969'
-  instruments:
   - eponymous
-  - guitar
   - original
-  mbid: a6339659-c879-4f88-9908-206d47963e29
-  name: Jeff Beck Group
-- begin: '1970'
-  end: '1972'
-  instruments:
-  - eponymous
-  - guitar
-  - original
-  mbid: a6339659-c879-4f88-9908-206d47963e29
-  name: Jeff Beck Group
-- begin: '1972'
-  end: '1974'
-  instruments:
-  - eponymous
-  - guitar
-  - original
-  mbid: f16e80f0-8ee1-4bad-81d0-ff7c2893a250
-  name: Beck, Bogert & Appice
-- begin: 1984-03
-  end: 1984-03
-  instruments:
   - electric guitar
-  mbid: 10c058a2-41e6-4f64-8cdd-fa3c7f2be9c0
-  name: The Honeydrippers
-- begin: ''
-  end: ''
-  instruments:
   - additional
-  mbid: dd677525-28e5-44b1-acf4-f5683702dab7
-  name: UPP
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1bca8cad-598b-493f-91f6-7b3730bd5899
-  name: The Secret Police
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: fd9743c6-9720-4ec6-a8cc-bc6843f806ed
-  name: Immediate All Stars
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 051efb30-16a4-45f8-9ca4-59218e318f25
-  name: Malcolm McLaren and the Bootzilla Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 05b1427d-e344-4932-ae42-8a3f096c2119
-  name: Lord Sutch & Heavy Friends
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e551841c-8a3d-447a-b5b9-faf0114157a8
-  name: Jeffery Rod
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: fdac76bf-0076-461a-b4c0-0d5ee1cb1ade
-  name: Holy Smoke
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6d1c3698-6ef2-4f67-b626-fa16e2c69c8e
-  name: Mark Knopfler’s Guitar Heroes
+  - steel guitar
+  - slide guitar
+  - guitar family
+  - acoustic guitar
+  - bass guitar
+  - lead vocals
+  - spoken vocals
+associated_acts:
+  - begin: 1964-08
+    end: 1965-03
+    instruments:
+      - guitar
+    mbid: cb2db127-e46e-4fbe-9f7b-dac92814c74e
+    name: The Tridents
+  - begin: '1965'
+    end: '1966'
+    instruments: []
+    mbid: 191de76f-a224-445d-b041-54df16d65bf7
+    name: The Yardbirds
+  - begin: 1967-01
+    end: '1969'
+    instruments:
+      - eponymous
+      - guitar
+      - original
+    mbid: a6339659-c879-4f88-9908-206d47963e29
+    name: Jeff Beck Group
+  - begin: '1970'
+    end: '1972'
+    instruments:
+      - eponymous
+      - guitar
+      - original
+    mbid: a6339659-c879-4f88-9908-206d47963e29
+    name: Jeff Beck Group
+  - begin: '1972'
+    end: '1974'
+    instruments:
+      - eponymous
+      - guitar
+      - original
+    mbid: f16e80f0-8ee1-4bad-81d0-ff7c2893a250
+    name: 'Beck, Bogert & Appice'
+  - begin: 1984-03
+    end: 1984-03
+    instruments:
+      - electric guitar
+    mbid: 10c058a2-41e6-4f64-8cdd-fa3c7f2be9c0
+    name: The Honeydrippers
+  - begin: ''
+    end: ''
+    instruments:
+      - additional
+    mbid: dd677525-28e5-44b1-acf4-f5683702dab7
+    name: UPP
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1bca8cad-598b-493f-91f6-7b3730bd5899
+    name: The Secret Police
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: fd9743c6-9720-4ec6-a8cc-bc6843f806ed
+    name: Immediate All Stars
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 051efb30-16a4-45f8-9ca4-59218e318f25
+    name: Malcolm McLaren and the Bootzilla Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 05b1427d-e344-4932-ae42-8a3f096c2119
+    name: Lord Sutch & Heavy Friends
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e551841c-8a3d-447a-b5b9-faf0114157a8
+    name: Jeffery Rod
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: fdac76bf-0076-461a-b4c0-0d5ee1cb1ade
+    name: Holy Smoke
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6d1c3698-6ef2-4f67-b626-fa16e2c69c8e
+    name: Mark Knopfler’s Guitar Heroes
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jeff_beck.jpg
   caption: jeff beck
@@ -129,50 +129,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Yardbirds (including Jimmy Page, Keith Relf, Chris Dreja, Jim McCarty)
-  - Jeff Beck Group (Rod Stewart, Ronnie Wood, and later line‑ups)
-  - Beck, Bogert & Appice (Tim Bogert, Carmine Appice)
-  - George Martin
-  - Jennifer Batten
-  - High‑profile collaborators (e.g., Stevie Wonder, Tina Turner, Mick Jagger, Rod Stewart as solo artist)
+    - 'The Yardbirds (including Jimmy Page, Keith Relf, Chris Dreja, Jim McCarty)'
+    - 'Jeff Beck Group (Rod Stewart, Ronnie Wood, and later line‑ups)'
+    - 'Beck, Bogert & Appice (Tim Bogert, Carmine Appice)'
+    - George Martin
+    - Jennifer Batten
+    - >-
+      High‑profile collaborators (e.g., Stevie Wonder, Tina Turner, Mick Jagger,
+      Rod Stewart as solo artist)
   influenced:
-  - Jimmy Page
-  - Eric Clapton and British blues‑rock peers
-  - Heavy metal and hard rock guitarists (e.g., Ritchie Blackmore, Eddie Van Halen, Joe Satriani, Steve Vai)
-  - Modern fusion and session guitarists
+    - Jimmy Page
+    - Eric Clapton and British blues‑rock peers
+    - >-
+      Heavy metal and hard rock guitarists (e.g., Ritchie Blackmore, Eddie Van
+      Halen, Joe Satriani, Steve Vai)
+    - Modern fusion and session guitarists
   mentors:
-  - American rock ’n’ roll and rockabilly guitarists (e.g., Scotty Moore, Cliff Gallup, Les Paul)
-  - Chicago blues guitarists (e.g., Buddy Guy, Otis Rush, B.B. King)
-  - Jazz fusion innovators (e.g., John McLaughlin, Mahavishnu Orchestra)
+    - >-
+      American rock ’n’ roll and rockabilly guitarists (e.g., Scotty Moore,
+      Cliff Gallup, Les Paul)
+    - 'Chicago blues guitarists (e.g., Buddy Guy, Otis Rush, B.B. King)'
+    - 'Jazz fusion innovators (e.g., John McLaughlin, Mahavishnu Orchestra)'
 spotify_data:
   followers: 839186
   id: 0AD4odMWVQ2wUSlgxOB5Rl
   popularity: 55
-  url: https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl
+  url: 'https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl'
 discography_enriched: true
 top_tracks:
-- Cause We've Ended as Lovers (Blow By Blow)
-- I Put a Spell on You (feat. Joss Stone) (Emotion & Commotion)
-- Patient Number 9 (feat. Jeff Beck)
-- Patient Number 9 (feat. Jeff Beck) (Patient Number 9)
-- People Get Ready (Flash)
-- Mustang Sally (feat. Jeff Beck) (Damn Right, I've Got The Blues)
-- Hi Ho Silver Lining
-- Moon River (Meanwhile)
-- I'd Rather Go Blind - Live - Bonus Track (Bang Bang Boom Boom)
-- You Know What I Mean (Blow By Blow)
+  - Cause We've Ended as Lovers (Blow By Blow)
+  - I Put a Spell on You (feat. Joss Stone) (Emotion & Commotion)
+  - Patient Number 9 (feat. Jeff Beck)
+  - Patient Number 9 (feat. Jeff Beck) (Patient Number 9)
+  - People Get Ready (Flash)
+  - 'Mustang Sally (feat. Jeff Beck) (Damn Right, I''ve Got The Blues)'
+  - Hi Ho Silver Lining
+  - Moon River (Meanwhile)
+  - I'd Rather Go Blind - Live - Bonus Track (Bang Bang Boom Boom)
+  - You Know What I Mean (Blow By Blow)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/14a4bc78-1c2d-4ca7-8d1b-9b58076a2a17
-  spotify: https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl
-  wikipedia: https://en.wikipedia.org/wiki/Jeff_Beck
+  musicbrainz: 'https://musicbrainz.org/artist/14a4bc78-1c2d-4ca7-8d1b-9b58076a2a17'
+  spotify: 'https://open.spotify.com/artist/0AD4odMWVQ2wUSlgxOB5Rl'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jeff_Beck'
 image_path: 03_Resources/source_material/ArtistPortraits/jeff_beck.jpg
 biography_enhanced_at: '2025-12-05T06:16:36.592160'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jeff_Beck
-- https://www.britannica.com/biography/Jeff-Beck
-- https://www.jeffbeck.com/bio/
+  - 'https://en.wikipedia.org/wiki/Jeff_Beck'
+  - 'https://www.britannica.com/biography/Jeff-Beck'
+  - 'https://www.jeffbeck.com/bio/'
 network_extracted: true
 entry_created: '2025-12-05T06:16:36.592168'
 last_updated: '2025-12-23T08:16:10.291707'
@@ -180,9 +186,10 @@ disambiguation: English rock guitarist
 gender: Male
 musicbrainz_id: 14a4bc78-1c2d-4ca7-8d1b-9b58076a2a17
 tags:
-- blues rock
-- classic pop and rock
-- guitar virtuoso
+  - blues rock
+  - classic pop and rock
+  - guitar virtuoso
+is_active: false
 ---
 
 ![](jeff_beck.jpg)

@@ -3,13 +3,13 @@ title: Brad Walker
 wiki_slug: brad-walker
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, USA'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Brad_Walker.jpg
   caption: Brad Walker
   background: solo_singer
-  origin: New Orleans, Louisiana, USA
+  origin: 'New Orleans, Louisiana, USA'
 audio_profile:
   tempo_avg: 110.2
   energy_avg: 0.421
@@ -25,43 +25,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sturgill Simpson
-  - Bernard Purdie
-  - Marcia Ball
+    - Sturgill Simpson
+    - Bernard Purdie
+    - Marcia Ball
   influenced: []
   mentors:
-  - Louisiana State University Faculty
+    - Louisiana State University Faculty
 spotify_data:
   followers: 309
   id: 65PlXRV3MGuoR7oAlZXOfv
   popularity: 3
-  url: https://open.spotify.com/artist/65PlXRV3MGuoR7oAlZXOfv
+  url: 'https://open.spotify.com/artist/65PlXRV3MGuoR7oAlZXOfv'
 discography_enriched: true
 top_tracks:
-- Devil (Devil)
-- When the Night is Over (When the Night is Over)
-- Avril 14th > Nannou2 (Quintet)
-- 'X: or, ''A Voice Cries Out in the Wilderness'' (X: or, ''A Voice Cries Out in the Wilderness'')'
-- The Upper Peninsula (The Upper Peninsula)
-- Elephant (Elephant)
-- Once I Knew You (Daniel Seriff)
-- Between the Bars (Daniel Seriff)
-- Voyage (Borrowed Ladders)
-- Elephant (Borrowed Ladders)
+  - Devil (Devil)
+  - When the Night is Over (When the Night is Over)
+  - Avril 14th > Nannou2 (Quintet)
+  - >-
+    X: or, 'A Voice Cries Out in the Wilderness' (X: or, 'A Voice Cries Out in
+    the Wilderness')
+  - The Upper Peninsula (The Upper Peninsula)
+  - Elephant (Elephant)
+  - Once I Knew You (Daniel Seriff)
+  - Between the Bars (Daniel Seriff)
+  - Voyage (Borrowed Ladders)
+  - Elephant (Borrowed Ladders)
 external_urls:
-  spotify: https://open.spotify.com/artist/65PlXRV3MGuoR7oAlZXOfv
+  spotify: 'https://open.spotify.com/artist/65PlXRV3MGuoR7oAlZXOfv'
   wikipedia: Not available
 image_path: 03_Resources/source_material/ArtistPortraits/Brad_Walker.jpg
 biography_enhanced_at: '2025-10-21T06:38:38.761459'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://bradwalker.me/bio-press-kit
-- https://bradwalker.me/home
-- https://www.neworleans.com/listing/brad-walker/46319/
+  - 'https://bradwalker.me/bio-press-kit'
+  - 'https://bradwalker.me/home'
+  - 'https://www.neworleans.com/listing/brad-walker/46319/'
 network_extracted: true
 entry_created: '2025-10-21T06:38:38.761472'
 last_updated: '2025-12-23T08:16:01.331833'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](Brad_Walker.jpg)

@@ -5,16 +5,16 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1917-07-17'
-birth_place: Charleston
+birth_place: 'Charleston, West Virginia, United States'
 death_date: '1980-04-04'
 genres:
-- classic country
+  - classic country
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: fcde4b12-110e-4425-9a92-136ba3fbb433
-  name: Smiley and Red The Singing Sailors
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: fcde4b12-110e-4425-9a92-136ba3fbb433
+    name: Smiley and Red The Singing Sailors
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/red_sovine.jpg
   caption: Red Sovine
@@ -37,58 +37,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Johnnie Bailes
-  - Goldie Hill
-  - Webb Pierce
-  - Echo Valley Boys
+    - Johnnie Bailes
+    - Goldie Hill
+    - Webb Pierce
+    - Echo Valley Boys
   influenced:
-  - Charley Pride
-  - Truck‑drivin’ country and CB‑radio themed artists (e.g., later narrative truck‑song performers)
+    - Charley Pride
+    - >-
+      Truck‑drivin’ country and CB‑radio themed artists (e.g., later narrative
+      truck‑song performers)
   mentors:
-  - Hank Williams
-  - Buddy Starcher
-  - Frank Welling
+    - Hank Williams
+    - Buddy Starcher
+    - Frank Welling
 spotify_data:
   followers: 104834
   id: 7wVgfy012qNvQ607JM5Qsf
   popularity: 41
-  url: https://open.spotify.com/artist/7wVgfy012qNvQ607JM5Qsf
+  url: 'https://open.spotify.com/artist/7wVgfy012qNvQ607JM5Qsf'
 discography_enriched: true
 top_tracks:
-- Phantom 309 (Phantom 309)
-- Teddy Bear (Teddy Bear)
-- Freightliner Fever
-- Giddy Up Go (Giddy-Up Go)
-- Daddy's Girl (It'll Come Back)
-- Truck Drivin' Son Of A Gun
-- 18 Wheels A Hummin' Home Sweet Home (Teddy Bear)
-- Why Baby Why - Single Version
-- Lay Down Sally (Lay Down Sally)
-- Freightliner Fever
+  - Phantom 309 (Phantom 309)
+  - Teddy Bear (Teddy Bear)
+  - Freightliner Fever
+  - Giddy Up Go (Giddy-Up Go)
+  - Daddy's Girl (It'll Come Back)
+  - Truck Drivin' Son Of A Gun
+  - 18 Wheels A Hummin' Home Sweet Home (Teddy Bear)
+  - Why Baby Why - Single Version
+  - Lay Down Sally (Lay Down Sally)
+  - Freightliner Fever
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/03e318a0-2292-4219-888c-f491ac63c6d1
-  spotify: https://open.spotify.com/artist/7wVgfy012qNvQ607JM5Qsf
-  wikipedia: https://en.wikipedia.org/wiki/Red_Sovine
+  musicbrainz: 'https://musicbrainz.org/artist/03e318a0-2292-4219-888c-f491ac63c6d1'
+  spotify: 'https://open.spotify.com/artist/7wVgfy012qNvQ607JM5Qsf'
+  wikipedia: 'https://en.wikipedia.org/wiki/Red_Sovine'
 image_path: 03_Resources/source_material/ArtistPortraits/red_sovine.jpg
 biography_enhanced_at: '2025-12-09T05:17:54.815418'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Red_Sovine
-- https://rocky-52.net/chanteurss/sovine_r.htm
-- https://alancackett.com/red-sovine
-- https://www.countrythangdaily.com/red-sovine-facts/
-- https://www.countrymusichalloffame.org/oral-history/red-sovine-2
-- https://www.imdb.com/name/nm0816323/bio/
-- https://bornandbredmusic.com/heritage-legacy-red-sovine
+  - 'https://en.wikipedia.org/wiki/Red_Sovine'
+  - 'https://rocky-52.net/chanteurss/sovine_r.htm'
+  - 'https://alancackett.com/red-sovine'
+  - 'https://www.countrythangdaily.com/red-sovine-facts/'
+  - 'https://www.countrymusichalloffame.org/oral-history/red-sovine-2'
+  - 'https://www.imdb.com/name/nm0816323/bio/'
+  - 'https://bornandbredmusic.com/heritage-legacy-red-sovine'
 network_extracted: true
 entry_created: '2025-12-09T05:17:54.815425'
 last_updated: '2025-12-23T08:16:14.763174'
 gender: Male
 musicbrainz_id: 03e318a0-2292-4219-888c-f491ac63c6d1
 tags:
-- country
-- truck driving country
+  - country
+  - truck driving country
+is_active: false
 ---
 
 ![](red_sovine.jpg)

@@ -1,51 +1,54 @@
 ---
 biography_enhanced_at: '2026-01-19T01:15:41.988337'
-birth_place: St. Elizabeth, Jamaica (birthplace); Greenwich Town, Kingston, Jamaica
-  (raised and current residence)
+birth_place: 'St. Elizabeth, Jamaica, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-19T01:15:41.988343'
 external_urls:
-  spotify: https://open.spotify.com/artist/5Jyaf0Nnf92smFY09UOgfi
-  wikipedia: https://en.wikipedia.org/wiki/Prince_Alla
+  spotify: 'https://open.spotify.com/artist/5Jyaf0Nnf92smFY09UOgfi'
+  wikipedia: 'https://en.wikipedia.org/wiki/Prince_Alla'
 genres:
-- roots reggae
-- dub
-- reggae
-- rocksteady
+  - roots reggae
+  - dub
+  - reggae
+  - rocksteady
 image_path: 03_Resources/source_material/ArtistPortraits/prince_allajunior_ross.jpg
 last_updated: '2026-01-19T01:15:41.988344'
 musical_connections:
   collaborators:
-  - Milton Henry
-  - Roy "Soft" Palmer
-  - Frankie Jones
-  - Tappa Zukie
-  - King Tubby
-  - Junior Ross & The Spears
+    - Milton Henry
+    - Roy "Soft" Palmer
+    - Frankie Jones
+    - Tappa Zukie
+    - King Tubby
+    - Junior Ross & The Spears
   influenced: []
   mentors:
-  - Joe Gibbs
-  - Prince Emmanuel Edwards
-  - Earl Chinna Smith
-  - Bertram Brown
+    - Joe Gibbs
+    - Prince Emmanuel Edwards
+    - Earl Chinna Smith
+    - Bertram Brown
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://pauzeradio.com/prince-alla/
-- https://en.wikipedia.org/wiki/Prince_Alla
-- https://unitedreggae.com/articles/n420/071210/interview-prince-alla-part-1
-- https://soundsystemculture.org/interview-with-prince-alla/
-- https://www.yardie-reggae.com/ARTIST%20PAGES/JUNIOR%20ROSS.htm
-- https://musicbrainz.org/artist/e2b60aeb-ee20-410a-82f9-e6d273af0e45
-- https://www.reggaeville.com/artist-details/prince-alla/details/
-- https://rootfire.net/rare-record-showcase-vol-1-junior-ross-the-spear-babylon-fall/
+  - 'https://pauzeradio.com/prince-alla/'
+  - 'https://en.wikipedia.org/wiki/Prince_Alla'
+  - 'https://unitedreggae.com/articles/n420/071210/interview-prince-alla-part-1'
+  - 'https://soundsystemculture.org/interview-with-prince-alla/'
+  - 'https://www.yardie-reggae.com/ARTIST%20PAGES/JUNIOR%20ROSS.htm'
+  - 'https://musicbrainz.org/artist/e2b60aeb-ee20-410a-82f9-e6d273af0e45'
+  - 'https://www.reggaeville.com/artist-details/prince-alla/details/'
+  - >-
+    https://rootfire.net/rare-record-showcase-vol-1-junior-ross-the-spear-babylon-fall/
 spotify_data:
   followers: 264
   id: 5Jyaf0Nnf92smFY09UOgfi
   popularity: 3
-  url: https://open.spotify.com/artist/5Jyaf0Nnf92smFY09UOgfi
+  url: 'https://open.spotify.com/artist/5Jyaf0Nnf92smFY09UOgfi'
 status: active
-title: Prince Alla,Junior Ross
+title: 'Prince Alla,Junior Ross'
+origin: 'Kingston, Jamaica, United States'
+birth_date: '1950-05-10'
+artist_type: person
 ---
 
 ![](prince_allajunior_ross.jpg)

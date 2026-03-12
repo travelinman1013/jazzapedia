@@ -3,16 +3,16 @@ title: Mike Dillon
 wiki_slug: mike-dillon
 schema_version: 2
 status: active
-birth_place: San Antonio, Texas, United States
+birth_place: 'San Antonio, Texas, United States'
 genres:
-- nu jazz
+  - nu jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/mike_dillon.jpg
   caption: Mike Dillon
   background: solo_singer
-  origin: San Antonio, Texas, United States
+  origin: 'San Antonio, Texas, United States'
 audio_profile:
-  tempo_avg: 121.0
+  tempo_avg: 121
   energy_avg: 0.575
   valence_avg: 0.385
   danceability_avg: 0.515
@@ -26,58 +26,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Les Claypool
-  - Ani DiFranco
-  - Skerik
-  - Brian Haas
-  - Brad Houser
-  - James Singleton
-  - Go-Go Ray
-  - J.J. Jungle
-  - Rickie Lee Jones
-  - Galactic
-  - Dean Ween Group
+    - Les Claypool
+    - Ani DiFranco
+    - Skerik
+    - Brian Haas
+    - Brad Houser
+    - James Singleton
+    - Go-Go Ray
+    - J.J. Jungle
+    - Rickie Lee Jones
+    - Galactic
+    - Dean Ween Group
   influenced:
-  - Punkadelick band members
+    - Punkadelick band members
   mentors:
-  - Rush
-  - Lionel Hampton
-  - Milt Jackson
-  - Bad Brains, The Minutemen, Black Sabbath
+    - Rush
+    - Lionel Hampton
+    - Milt Jackson
+    - 'Bad Brains, The Minutemen, Black Sabbath'
 spotify_data:
   followers: 3972
   id: 18Lycl2oHZocGLEUJIfIlA
   popularity: 8
-  url: https://open.spotify.com/artist/18Lycl2oHZocGLEUJIfIlA
+  url: 'https://open.spotify.com/artist/18Lycl2oHZocGLEUJIfIlA'
 discography_enriched: true
 top_tracks:
-- Fourth Party (Zycordia)
-- Bowie Cumbia / I Want To Be Your Dog (Run White Boy Run)
-- If You Only Knew (feat. Skerik, Reggie Watts, Mike Dillon, Brad Houser, James Rotundi & Brian Siskind) (Trilon)
-- Get Your Gun (Run White Boy Run)
-- Golden Ask (Run White Boy Run)
-- Between the Bars (Functioning Broke)
-- Run White Boy Run (Run White Boy Run)
-- Bowie Cumbia / I Want To Be Your Dog (Run White Boy Run)
-- Houser (Run White Boy Run)
-- Hey Landlord (Run White Boy Run)
+  - Fourth Party (Zycordia)
+  - Bowie Cumbia / I Want To Be Your Dog (Run White Boy Run)
+  - >-
+    If You Only Knew (feat. Skerik, Reggie Watts, Mike Dillon, Brad Houser,
+    James Rotundi & Brian Siskind) (Trilon)
+  - Get Your Gun (Run White Boy Run)
+  - Golden Ask (Run White Boy Run)
+  - Between the Bars (Functioning Broke)
+  - Run White Boy Run (Run White Boy Run)
+  - Bowie Cumbia / I Want To Be Your Dog (Run White Boy Run)
+  - Houser (Run White Boy Run)
+  - Hey Landlord (Run White Boy Run)
 external_urls:
-  spotify: https://open.spotify.com/artist/18Lycl2oHZocGLEUJIfIlA
-  wikipedia: https://en.wikipedia.org/wiki/Mike_Dillon_(musician)
+  spotify: 'https://open.spotify.com/artist/18Lycl2oHZocGLEUJIfIlA'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mike_Dillon_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/mike_dillon.jpg
 biography_enhanced_at: '2025-10-24T07:35:36.581310'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Mike_Dillon_(musician)
-- https://www.gonbops.com/artists/mike-dillon/
-- https://www.allaboutjazz.com/musicians/mike-dillon/
-- https://www.sacurrent.com/music/san-antonio-born-mike-dillons-punkadelick-bringing-jazz-punk-fusion-to-the-lonesome-rose-33518592/
-- https://royalpotatofamily.com/artist/mike-dillon/
+  - 'https://en.wikipedia.org/wiki/Mike_Dillon_(musician)'
+  - 'https://www.gonbops.com/artists/mike-dillon/'
+  - 'https://www.allaboutjazz.com/musicians/mike-dillon/'
+  - >-
+    https://www.sacurrent.com/music/san-antonio-born-mike-dillons-punkadelick-bringing-jazz-punk-fusion-to-the-lonesome-rose-33518592/
+  - 'https://royalpotatofamily.com/artist/mike-dillon/'
 network_extracted: true
 entry_created: '2025-10-24T07:35:36.581327'
 last_updated: '2025-12-23T08:16:13.117213'
-
+artist_type: person
 ---
 
 ![](mike_dillon.jpg)

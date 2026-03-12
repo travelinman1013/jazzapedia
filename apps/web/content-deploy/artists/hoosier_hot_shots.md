@@ -1,12 +1,12 @@
 ---
-title: Hoosier Hot Shots
+title: The Hoosier Hot Shots
 wiki_slug: hoosier-hot-shots
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1929'
 genres:
-- traditional country
+  - traditional country
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/hoosier_hot_shots.jpg
   caption: Hoosier Hot Shots
@@ -27,55 +27,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kenneth Trietsch
-  - Paul (Hezzie) Trietsch
-  - Otto 'Gabe' Ward
-  - Gene Autry
-  - Dale Evans
-  - The Three Stooges
+    - Kenneth Trietsch
+    - Paul (Hezzie) Trietsch
+    - Otto 'Gabe' Ward
+    - Gene Autry
+    - Dale Evans
+    - The Three Stooges
   influenced:
-  - Novelty and Comedy Musicians
+    - Novelty and Comedy Musicians
   mentors:
-  - Mark Schaefer (Ezra Buzzington)
+    - Mark Schaefer (Ezra Buzzington)
 spotify_data:
   followers: 1129
   id: 48DbQNUj1qitHuw2cLgNph
   popularity: 13
-  url: https://open.spotify.com/artist/48DbQNUj1qitHuw2cLgNph
+  url: 'https://open.spotify.com/artist/48DbQNUj1qitHuw2cLgNph'
 discography_enriched: true
 top_tracks:
-- I Like Bananas (Because They Have No Bones) ("Are You Ready, Hezzie?")
-- Sioux City Sue (Running Wild)
-- I Like Bananas (Because They Have No Bones) (Running Wild)
-- Sioux City Sue (Presenting Hoosier Hot Shots)
-- I Like Bananas (Because They Have No Bones) (The Essential Hoosier Hot Shots)
-- I Like Bananas (Because They Have No Bones) (Presenting Hoosier Hot Shots)
-- You Must Have Been a Beautiful Baby (World Broadcasting System, Inc)
-- A Hot Dog, a Blanket and You (The Essential Hoosier Hot Shots)
-- Skeleton Rag ("Are You Ready, Hezzie?")
-- Skeleton Rag (Presenting Hoosier Hot Shots)
+  - 'I Like Bananas (Because They Have No Bones) ("Are You Ready, Hezzie?")'
+  - Sioux City Sue (Running Wild)
+  - I Like Bananas (Because They Have No Bones) (Running Wild)
+  - Sioux City Sue (Presenting Hoosier Hot Shots)
+  - >-
+    I Like Bananas (Because They Have No Bones) (The Essential Hoosier Hot
+    Shots)
+  - I Like Bananas (Because They Have No Bones) (Presenting Hoosier Hot Shots)
+  - 'You Must Have Been a Beautiful Baby (World Broadcasting System, Inc)'
+  - 'A Hot Dog, a Blanket and You (The Essential Hoosier Hot Shots)'
+  - 'Skeleton Rag ("Are You Ready, Hezzie?")'
+  - Skeleton Rag (Presenting Hoosier Hot Shots)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/43a6e5cc-b820-4afc-ac21-fea9f34712d7
-  spotify: https://open.spotify.com/artist/48DbQNUj1qitHuw2cLgNph
-  wikipedia: https://en.wikipedia.org/wiki/Hoosier_Hot_Shots
+  musicbrainz: 'https://musicbrainz.org/artist/43a6e5cc-b820-4afc-ac21-fea9f34712d7'
+  spotify: 'https://open.spotify.com/artist/48DbQNUj1qitHuw2cLgNph'
+  wikipedia: 'https://en.wikipedia.org/wiki/Hoosier_Hot_Shots'
 image_path: 03_Resources/source_material/ArtistPortraits/hoosier_hot_shots.jpg
 biography_enhanced_at: '2025-11-16T20:12:29.054374'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://humorinamerica.wordpress.com/2012/08/01/whos-yer-hot-shots/
-- https://go.gale.com/ps/i.do?id=GALE%7CA563182509&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=1040788X&p=AONE&sw=w
-- http://bottlesboozeandbackstories.blogspot.com/2019/04/remembering-hoosier-hot-shots.html
-- https://hoosierhistorylive.org/mail/2020-11-28.html
-- https://hoosierhistorylive.org/mail/2018-10-13.html
-- https://www.rocky-52.net/chanteursh/hoosier_hot_shots.htm
-- https://www.allmusic.com/artist/hoosier-hot-shots-mn0000219445
+  - 'https://humorinamerica.wordpress.com/2012/08/01/whos-yer-hot-shots/'
+  - >-
+    https://go.gale.com/ps/i.do?id=GALE%7CA563182509&sid=googleScholar&v=2.1&it=r&linkaccess=abs&issn=1040788X&p=AONE&sw=w
+  - >-
+    http://bottlesboozeandbackstories.blogspot.com/2019/04/remembering-hoosier-hot-shots.html
+  - 'https://hoosierhistorylive.org/mail/2020-11-28.html'
+  - 'https://hoosierhistorylive.org/mail/2018-10-13.html'
+  - 'https://www.rocky-52.net/chanteursh/hoosier_hot_shots.htm'
+  - 'https://www.allmusic.com/artist/hoosier-hot-shots-mn0000219445'
 network_extracted: true
 entry_created: '2025-11-16T20:12:29.054387'
 last_updated: '2025-12-23T08:16:09.658327'
 musicbrainz_id: 43a6e5cc-b820-4afc-ac21-fea9f34712d7
-origin: Indiana, United States
-
+origin: 'Indiana, United States'
 ---
 
 ![](hoosier_hot_shots.jpg)

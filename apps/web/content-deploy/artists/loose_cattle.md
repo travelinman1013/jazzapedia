@@ -23,49 +23,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lucinda Williams
-  - Patterson Hood
-  - Bob Mould
-  - Pete Townshend, The Breeders, The Pixies’ Frank Black, Teenage Fanclub
-  - René Coman, Doug Garrison, Rurik Nunan
+    - Lucinda Williams
+    - Patterson Hood
+    - Bob Mould
+    - 'Pete Townshend, The Breeders, The Pixies’ Frank Black, Teenage Fanclub'
+    - 'René Coman, Doug Garrison, Rurik Nunan'
   influenced:
-  - New Orleans Americana scene
+    - New Orleans Americana scene
   mentors:
-  - Paul Sanchez
+    - Paul Sanchez
 spotify_data:
   followers: 741
   id: 5mW3qHTB9KLtskoRH3fVOR
   popularity: 3
-  url: https://open.spotify.com/artist/5mW3qHTB9KLtskoRH3fVOR
+  url: 'https://open.spotify.com/artist/5mW3qHTB9KLtskoRH3fVOR'
 discography_enriched: true
 top_tracks:
-- Joanne (Someone's Monster)
-- Further On (Someone's Monster)
-- Not Over Yet (Someone's Monster)
-- Cheneyville (Someone's Monster)
-- Crescent City (Someone's Monster)
-- The Shoals (Someone's Monster)
-- Joanne (Joanne)
-- Here's That Attention You Ordered (Someone's Monster)
-- Before We Begin (Someone's Monster)
-- God's Teeth (Someone's Monster)
+  - Joanne (Someone's Monster)
+  - Further On (Someone's Monster)
+  - Not Over Yet (Someone's Monster)
+  - Cheneyville (Someone's Monster)
+  - Crescent City (Someone's Monster)
+  - The Shoals (Someone's Monster)
+  - Joanne (Joanne)
+  - Here's That Attention You Ordered (Someone's Monster)
+  - Before We Begin (Someone's Monster)
+  - God's Teeth (Someone's Monster)
 external_urls:
-  spotify: https://open.spotify.com/artist/5mW3qHTB9KLtskoRH3fVOR
+  spotify: 'https://open.spotify.com/artist/5mW3qHTB9KLtskoRH3fVOR'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/loose_cattle.jpg
 biography_enhanced_at: '2025-10-29T16:44:43.619091'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.singlelock.com/news/2024/4/9/welcome-loose-cattle-to-the-single-lock-family
-- https://americanahighways.org/2024/10/22/interview-kimberly-kaye-of-loose-cattle-on-the-new-orleans-community-behind-someones-monster/
-- https://www.popmatters.com/loose-cattle-someones-monster-review
-- http://www.loosecattleband.com/new-page
-- https://www.neworleans.com/listing/loose-cattle/46835/
+  - >-
+    https://www.singlelock.com/news/2024/4/9/welcome-loose-cattle-to-the-single-lock-family
+  - >-
+    https://americanahighways.org/2024/10/22/interview-kimberly-kaye-of-loose-cattle-on-the-new-orleans-community-behind-someones-monster/
+  - 'https://www.popmatters.com/loose-cattle-someones-monster-review'
+  - 'http://www.loosecattleband.com/new-page'
+  - 'https://www.neworleans.com/listing/loose-cattle/46835/'
 network_extracted: true
 entry_created: '2025-10-29T16:44:43.619107'
 last_updated: '2025-12-23T08:16:12.106642'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![](loose_cattle.jpg)

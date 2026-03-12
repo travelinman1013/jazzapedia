@@ -1,5 +1,5 @@
 ---
-title: smilin myron
+title: Smilin Myron
 wiki_slug: smilin-myron
 schema_version: 2
 status: active
@@ -15,7 +15,7 @@ audio_profile:
   danceability_avg: 0.675
   acousticness_avg: 0.328
   instrumentalness_avg: 0.32
-  loudness_avg: -8.0
+  loudness_avg: -8
   speechiness_avg: 0.092
   liveness_avg: 0.163
   track_count: 11
@@ -23,40 +23,42 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tim Guarisco
+    - Tim Guarisco
   influenced: []
   mentors: []
 spotify_data:
   followers: 100
   id: 3PVgkkksKde5Q2szhCW8Fv
   popularity: 0
-  url: https://open.spotify.com/artist/3PVgkkksKde5Q2szhCW8Fv
+  url: 'https://open.spotify.com/artist/3PVgkkksKde5Q2szhCW8Fv'
 discography_enriched: true
 top_tracks:
-- Johnny (What About The People?)
-- Tuna Ritz (What About The People?)
-- Horace Greedy (What About The People?)
-- The Marcsman (What About The People?)
-- The Ole Pecan Trail (What About The People?)
-- Bruff Lady (What About The People?)
-- The Mouse (What About The People?)
-- Everyday (What About The People?)
-- Apple Juice (What About The People?)
-- Business, This Is Tom (What About The People?)
+  - Johnny (What About The People?)
+  - Tuna Ritz (What About The People?)
+  - Horace Greedy (What About The People?)
+  - The Marcsman (What About The People?)
+  - The Ole Pecan Trail (What About The People?)
+  - Bruff Lady (What About The People?)
+  - The Mouse (What About The People?)
+  - Everyday (What About The People?)
+  - Apple Juice (What About The People?)
+  - 'Business, This Is Tom (What About The People?)'
 external_urls:
-  spotify: https://open.spotify.com/artist/3PVgkkksKde5Q2szhCW8Fv
+  spotify: 'https://open.spotify.com/artist/3PVgkkksKde5Q2szhCW8Fv'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/smilin_myron.jpg
 biography_enhanced_at: '2025-12-07T04:36:32.309174'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.offbeat.com/articles/smilin-myron-all-smiles/
-- https://www.offbeat.com/articles/the-summer-funk-smilin-myron-loses-tim-guarisco-to-cancer/
+  - 'https://www.offbeat.com/articles/smilin-myron-all-smiles/'
+  - >-
+    https://www.offbeat.com/articles/the-summer-funk-smilin-myron-loses-tim-guarisco-to-cancer/
 network_extracted: true
 entry_created: '2025-12-07T04:36:32.309185'
 last_updated: '2025-12-23T08:16:15.774937'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![](smilin_myron.jpg)

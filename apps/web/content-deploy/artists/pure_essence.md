@@ -1,59 +1,59 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-09T02:10:14.215595'
 disambiguation: 1970s US soul group
 enhancement_provider: perplexity
 entry_created: '2026-01-09T02:10:14.215611'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5e8d0ed3-27e9-4764-a1e7-233cbebabbac
-  spotify: https://open.spotify.com/artist/4xCpzpNTRGwmvXvfttdhLn
-  wikipedia: https://en.wikipedia.org/wiki/Pure_Essence
+  musicbrainz: 'https://musicbrainz.org/artist/5e8d0ed3-27e9-4764-a1e7-233cbebabbac'
+  spotify: 'https://open.spotify.com/artist/4xCpzpNTRGwmvXvfttdhLn'
+  wikipedia: 'https://en.wikipedia.org/wiki/Pure_Essence'
 genres: []
 image_path: ''
 instruments:
-- original
-- principal
-last_updated: '2026-01-09T02:10:14.215615'
-members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 602bbad9-3400-481c-96c9-fb12ac7a8899
-  name: Jerome "Mouse" Richmond
-- begin: ''
-  end: ''
-  instruments:
   - original
   - principal
-  mbid: dbb73e6a-2cd8-45ce-a1f1-cd1d49c0cdbc
-  name: Steve "Tuck" Walters
+last_updated: '2026-01-09T02:10:14.215615'
+members:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 602bbad9-3400-481c-96c9-fb12ac7a8899
+    name: Jerome "Mouse" Richmond
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - principal
+    mbid: dbb73e6a-2cd8-45ce-a1f1-cd1d49c0cdbc
+    name: Steve "Tuck" Walters
 musical_connections:
   collaborators:
-  - Steve "Tuck" Walters
-  - Jerome "Mouse" Richmond
-  - Antonio "L.A." Reid
-  - Kevin "Kayo" Roberson
-  - Toby Rivers, Tony Coats, Dwight Trible, Larry Middleton
+    - Steve "Tuck" Walters
+    - Jerome "Mouse" Richmond
+    - Antonio "L.A." Reid
+    - Kevin "Kayo" Roberson
+    - 'Toby Rivers, Tony Coats, Dwight Trible, Larry Middleton'
   influenced:
-  - The Deele (and, indirectly, Babyface and LaFace Records artists)
-  - Modern soul, rare groove, and crate-digging DJs/collectors
+    - 'The Deele (and, indirectly, Babyface and LaFace Records artists)'
+    - 'Modern soul, rare groove, and crate-digging DJs/collectors'
   mentors:
-  - Sly and the Family Stone
-  - Curtis Mayfield
-  - 'Yes'
-  - Bootsy Collins
+    - Sly and the Family Stone
+    - Curtis Mayfield
+    - 'Yes'
+    - Bootsy Collins
 musicbrainz_id: 5e8d0ed3-27e9-4764-a1e7-233cbebabbac
 network_extracted: true
-origin: Cincinnati, Ohio, United States
+origin: 'Cincinnati, Ohio, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Pure_Essence
-- https://www.inhailer.com/post/the-top-25-artists-in-cincinnati-music-history
+  - 'https://en.wikipedia.org/wiki/Pure_Essence'
+  - 'https://www.inhailer.com/post/the-top-25-artists-in-cincinnati-music-history'
 spotify_data:
   followers: 1382
   id: 4xCpzpNTRGwmvXvfttdhLn
   popularity: 13
-  url: https://open.spotify.com/artist/4xCpzpNTRGwmvXvfttdhLn
+  url: 'https://open.spotify.com/artist/4xCpzpNTRGwmvXvfttdhLn'
 status: active
 title: Pure Essence
 ---

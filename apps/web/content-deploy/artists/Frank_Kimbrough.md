@@ -3,15 +3,15 @@ title: Frank Kimbrough
 wiki_slug: frank-kimbrough
 schema_version: 2
 status: active
-birth_place: Roxboro, North Carolina, United States
+birth_place: 'Roxboro, North Carolina, United States'
 genres:
-- jazz
-- hard bop
+  - jazz
+  - hard bop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Frank_Kimbrough.jpg
   caption: Frank Kimbrough
   background: solo_singer
-  origin: Roxboro, North Carolina, United States
+  origin: 'Roxboro, North Carolina, United States'
 audio_profile:
   tempo_avg: 106.8
   energy_avg: 0.248
@@ -27,52 +27,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ben Allison
-  - Maria Schneider
-  - Paul Motian
-  - Ted Nash
-  - Ron Horton
-  - Michael Blake
+    - Ben Allison
+    - Maria Schneider
+    - Paul Motian
+    - Ted Nash
+    - Ron Horton
+    - Michael Blake
   influenced:
-  - Jerome Jennings
-  - Micah Thomas
+    - Jerome Jennings
+    - Micah Thomas
   mentors:
-  - Shirley Horn
-  - Andrew Hill
-  - Bill Evans
+    - Shirley Horn
+    - Andrew Hill
+    - Bill Evans
 spotify_data:
   followers: 1571
   id: 0oM6BnOY2eeCEsbl0GDpSE
   popularity: 6
-  url: https://open.spotify.com/artist/0oM6BnOY2eeCEsbl0GDpSE
+  url: 'https://open.spotify.com/artist/0oM6BnOY2eeCEsbl0GDpSE'
 discography_enriched: true
 top_tracks:
-- The Ballad of the Sad Young Men - Live at Jazz Standard
-- Walking by Flashlight (Solstice)
-- Buster's Last Stand - Live at Jazz Standard
-- The Ballad of the Sad Young Men - Live at Jazz Standard (Shades of Sound (Live at Jazz Standard))
-- Infatuation Eyes (Love Is Proximity)
-- Buster's Last Stand - Live at Jazz Standard
-- Buster's Last Stand - Live at Jazz Standard (Shades of Sound (Live at Jazz Standard))
-- Seven (Solstice)
-- Solstice (Solstice)
-- Angelica (The Call)
+  - The Ballad of the Sad Young Men - Live at Jazz Standard
+  - Walking by Flashlight (Solstice)
+  - Buster's Last Stand - Live at Jazz Standard
+  - >-
+    The Ballad of the Sad Young Men - Live at Jazz Standard (Shades of Sound
+    (Live at Jazz Standard))
+  - Infatuation Eyes (Love Is Proximity)
+  - Buster's Last Stand - Live at Jazz Standard
+  - >-
+    Buster's Last Stand - Live at Jazz Standard (Shades of Sound (Live at Jazz
+    Standard))
+  - Seven (Solstice)
+  - Solstice (Solstice)
+  - Angelica (The Call)
 external_urls:
-  spotify: https://open.spotify.com/artist/0oM6BnOY2eeCEsbl0GDpSE
-  wikipedia: https://en.wikipedia.org/wiki/Frank_Kimbrough
+  spotify: 'https://open.spotify.com/artist/0oM6BnOY2eeCEsbl0GDpSE'
+  wikipedia: 'https://en.wikipedia.org/wiki/Frank_Kimbrough'
 image_path: 03_Resources/source_material/ArtistPortraits/Frank_Kimbrough.jpg
 biography_enhanced_at: '2025-10-19T11:23:39.139910'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Frank_Kimbrough
-- https://www.allaboutjazz.com/musicians/frank-kimbrough/
-- https://www.wbgo.org/music/2020-12-31/frank-kimbrough-pianist-and-composer-who-balanced-mystery-with-clarity-has-died-at-64
-- https://jazztimes.com/features/profiles/frank-kimbrough-ghost-dance/
-- https://www.juilliard.edu/news/148001/frank-kimbrough-1956-2020-memoriam
+  - 'https://en.wikipedia.org/wiki/Frank_Kimbrough'
+  - 'https://www.allaboutjazz.com/musicians/frank-kimbrough/'
+  - >-
+    https://www.wbgo.org/music/2020-12-31/frank-kimbrough-pianist-and-composer-who-balanced-mystery-with-clarity-has-died-at-64
+  - 'https://jazztimes.com/features/profiles/frank-kimbrough-ghost-dance/'
+  - 'https://www.juilliard.edu/news/148001/frank-kimbrough-1956-2020-memoriam'
 network_extracted: true
 entry_created: '2025-10-19T11:23:39.139925'
 last_updated: '2025-12-23T08:16:02.032712'
+birth_date: '1956-11-02'
+death_date: '2020-12-30'
+artist_type: person
 ---
 
 ![](Frank_Kimbrough.jpg)

@@ -1,43 +1,46 @@
 ---
 biography_enhanced_at: '2025-12-26T01:19:02.192189'
-birth_place: Sacramento, California, USA (birthplace); New Orleans, Louisiana, USA
-  (primary base since 1992)
+birth_place: 'Sacramento, California, United States'
 enhancement_provider: perplexity
 entry_created: '2025-12-26T01:19:02.192200'
 external_urls:
-  spotify: https://open.spotify.com/artist/0VGGoSJ5nWffYusuewbRBt
-  wikipedia: https://en.wikipedia.org/wiki/Bonerama (mentions Matt Perrine as member;
-    no dedicated page found for Matt Perrine)
+  spotify: 'https://open.spotify.com/artist/0VGGoSJ5nWffYusuewbRBt'
+  wikipedia: >-
+    https://en.wikipedia.org/wiki/Bonerama (mentions Matt Perrine as member; no
+    dedicated page found for Matt Perrine)
 genres:
-- brass band
-image_path: 03_Resources/source_material/ArtistPortraits/ben_perrine_matt_perrine_anders_osborne_debbie_davis.jpg
+  - brass band
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/ben_perrine_matt_perrine_anders_osborne_debbie_davis.jpg
 last_updated: '2025-12-26T01:19:02.192201'
 musical_connections:
   collaborators:
-  - Alex McMurray
-  - Washboard Chaz Leary
-  - Mark Mullins and Craig Klein
-  - Ray Anderson
-  - Stanton Moore
+    - Alex McMurray
+    - Washboard Chaz Leary
+    - Mark Mullins and Craig Klein
+    - Ray Anderson
+    - Stanton Moore
   influenced: []
   mentors:
-  - Artie Shaw Orchestra
-  - Jessica Williams
+    - Artie Shaw Orchestra
+    - Jessica Williams
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.uno.edu/profile/faculty/matt_perrine
-- http://www.tinmenmusic.com/bio
-- https://connselmer.com/artists/matt-perrine
-- https://www.boneramabrass.com/bio/
-- https://en.wikipedia.org/wiki/Bonerama
+  - 'https://www.uno.edu/profile/faculty/matt_perrine'
+  - 'http://www.tinmenmusic.com/bio'
+  - 'https://connselmer.com/artists/matt-perrine'
+  - 'https://www.boneramabrass.com/bio/'
+  - 'https://en.wikipedia.org/wiki/Bonerama'
 spotify_data:
   followers: 101
   id: 0VGGoSJ5nWffYusuewbRBt
   popularity: 19
-  url: https://open.spotify.com/artist/0VGGoSJ5nWffYusuewbRBt
+  url: 'https://open.spotify.com/artist/0VGGoSJ5nWffYusuewbRBt'
 status: active
-title: Ben Perrine, Matt Perrine, Anders Osborne, Debbie Davis
+title: 'Ben Perrine, Matt Perrine, Anders Osborne, Debbie Davis'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![](ben_perrine_matt_perrine_anders_osborne_debbie_davis.jpg)

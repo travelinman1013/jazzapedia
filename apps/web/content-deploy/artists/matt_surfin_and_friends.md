@@ -23,49 +23,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Alejandro Skalany
-  - Ruy de Magalhães
-  - Hunter Keene
-  - Grady Bell
+    - Alejandro Skalany
+    - Ruy de Magalhães
+    - Hunter Keene
+    - Grady Bell
   influenced:
-  - New Orleans indie musicians
+    - New Orleans indie musicians
   mentors:
-  - Jeff Buckley
-  - Elliott Smith
+    - Jeff Buckley
+    - Elliott Smith
 spotify_data:
   followers: 336
   id: 0oDEo5HDSyY6oleZBgQP9g
   popularity: 0
-  url: https://open.spotify.com/artist/0oDEo5HDSyY6oleZBgQP9g
+  url: 'https://open.spotify.com/artist/0oDEo5HDSyY6oleZBgQP9g'
 discography_enriched: true
 top_tracks:
-- Waiting on You (Matt Surfin' & Friends)
-- Martian (Martian)
-- Get Down (Matt Surfin' & Friends)
-- Truth (Matt Surfin' & Friends)
-- Loser (Matt Surfin' & Friends)
-- Bleep (Matt Surfin' & Friends)
-- Life of Luxury (Lol) (Matt Surfin' & Friends)
-- Jamz (Matt Surfin' & Friends)
-- Cooper in Love (Matt Surfin' & Friends)
-- Vibrochamp (Matt Surfin' & Friends)
+  - Waiting on You (Matt Surfin' & Friends)
+  - Martian (Martian)
+  - Get Down (Matt Surfin' & Friends)
+  - Truth (Matt Surfin' & Friends)
+  - Loser (Matt Surfin' & Friends)
+  - Bleep (Matt Surfin' & Friends)
+  - Life of Luxury (Lol) (Matt Surfin' & Friends)
+  - Jamz (Matt Surfin' & Friends)
+  - Cooper in Love (Matt Surfin' & Friends)
+  - Vibrochamp (Matt Surfin' & Friends)
 external_urls:
-  spotify: https://open.spotify.com/artist/0oDEo5HDSyY6oleZBgQP9g
+  spotify: 'https://open.spotify.com/artist/0oDEo5HDSyY6oleZBgQP9g'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/matt_surfin_and_friends.jpg
 biography_enhanced_at: '2025-11-06T13:35:38.177569'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://antigravitymagazine.com/feature/matt-surfin-gets-by-with-a-little-help-from-his-friends/
-- http://www.communityrecords.org/matt-surfin
-- https://sungenre.com/review/matt-surfin-friends-matt-surfin-friends/
-- https://music.mxdwn.com/2019/04/16/news/mxdwn-premiere-matt-surfin-achieves-blissful-power-pop-perfection-on-waitin-on-you/
-- https://www.allmusic.com/artist/matt-surfin-friends-mn0003828691
+  - >-
+    https://antigravitymagazine.com/feature/matt-surfin-gets-by-with-a-little-help-from-his-friends/
+  - 'http://www.communityrecords.org/matt-surfin'
+  - 'https://sungenre.com/review/matt-surfin-friends-matt-surfin-friends/'
+  - >-
+    https://music.mxdwn.com/2019/04/16/news/mxdwn-premiere-matt-surfin-achieves-blissful-power-pop-perfection-on-waitin-on-you/
+  - 'https://www.allmusic.com/artist/matt-surfin-friends-mn0003828691'
 network_extracted: true
 entry_created: '2025-11-06T13:35:38.177591'
 last_updated: '2025-12-23T08:16:12.847324'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+birth_place: 'Washington, D.C., United States'
+artist_type: person
 ---
 
 ![](matt_surfin_and_friends.jpg)

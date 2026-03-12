@@ -1,21 +1,21 @@
 ---
-title: robert nighthawk
+title: Robert Nighthawk
 wiki_slug: robert-nighthawk
 schema_version: 2
 status: active
-birth_place: Helena, Arkansas, United States
+birth_place: 'Helena, Arkansas, United States'
 genres:
-- classic blues
-- blues
-- country blues
-- modern blues
+  - classic blues
+  - blues
+  - country blues
+  - modern blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/robert_nighthawk.jpg
   caption: robert nighthawk
   background: solo_singer
-  origin: Helena, Arkansas, United States
+  origin: 'Helena, Arkansas, United States'
 audio_profile:
-  tempo_avg: 115.0
+  tempo_avg: 115
   energy_avg: 0.422
   valence_avg: 0.646
   danceability_avg: 0.547
@@ -29,49 +29,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sonny Boy Williamson (John Lee Williamson)
-  - Big Joe Williams
-  - Henry Townsend
+    - Sonny Boy Williamson (John Lee Williamson)
+    - Big Joe Williams
+    - Henry Townsend
   influenced:
-  - Muddy Waters
-  - B.B. King
-  - Earl Hooker
-  - Elmore James
+    - Muddy Waters
+    - B.B. King
+    - Earl Hooker
+    - Elmore James
   mentors:
-  - Houston Stackhouse
+    - Houston Stackhouse
 spotify_data:
   followers: 11206
   id: 1ycL0Ct3hz0glGDIwsUyNG
   popularity: 12
-  url: https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG
+  url: 'https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG'
 discography_enriched: true
 top_tracks:
-- Black Angel Blues
-- Black Angel Blues (Take It Easy Baby)
-- The Moon Is Rising (Take It Easy Baby)
-- My Sweet Lovin' Woman
-- Black Angel Blues (Prowling With The Nighthawk)
-- The Moon Is Rising
-- Kansas City Blues
-- 'Goin'' Down To Eli''s - Live At The Corner Of 14th And Peoria, Chicago, IL / September 1964 (Live On Maxwell Street: 1964)'
-- Crying Won't Help You (Bricks in My Pillow)
-- I'm Getting Tired (Masters Of Modern Blues)
+  - Black Angel Blues
+  - Black Angel Blues (Take It Easy Baby)
+  - The Moon Is Rising (Take It Easy Baby)
+  - My Sweet Lovin' Woman
+  - Black Angel Blues (Prowling With The Nighthawk)
+  - The Moon Is Rising
+  - Kansas City Blues
+  - >-
+    Goin' Down To Eli's - Live At The Corner Of 14th And Peoria, Chicago, IL /
+    September 1964 (Live On Maxwell Street: 1964)
+  - Crying Won't Help You (Bricks in My Pillow)
+  - I'm Getting Tired (Masters Of Modern Blues)
 external_urls:
-  spotify: https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG
-  wikipedia: https://en.wikipedia.org/wiki/Robert_Nighthawk
+  spotify: 'https://open.spotify.com/artist/1ycL0Ct3hz0glGDIwsUyNG'
+  wikipedia: 'https://en.wikipedia.org/wiki/Robert_Nighthawk'
 image_path: 03_Resources/source_material/ArtistPortraits/robert_nighthawk.jpg
 biography_enhanced_at: '2025-10-20T10:21:13.107460'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://msbluestrail.org/blues-trail-markers/robert-nighthawk
-- https://nighthawk.sundayblues.org
-- https://mojohand.com/glossary/robert-nighthawk/
-- https://encyclopediaofarkansas.net/entries/robert-nighthawk-5522/
-- https://en.wikipedia.org/wiki/Robert_Nighthawk
+  - 'https://msbluestrail.org/blues-trail-markers/robert-nighthawk'
+  - 'https://nighthawk.sundayblues.org'
+  - 'https://mojohand.com/glossary/robert-nighthawk/'
+  - 'https://encyclopediaofarkansas.net/entries/robert-nighthawk-5522/'
+  - 'https://en.wikipedia.org/wiki/Robert_Nighthawk'
 network_extracted: true
 entry_created: '2025-10-20T10:21:13.107476'
 last_updated: '2025-12-23T08:16:14.913645'
+birth_date: '1909-11-30'
+artist_type: person
 ---
 
 ![](robert_nighthawk.jpg)

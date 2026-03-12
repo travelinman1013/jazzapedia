@@ -5,42 +5,42 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1970'
-birth_place: Fort Worth
+birth_place: 'Fort Worth, Texas, United States'
 genres:
-- jazz
+  - jazz
 instruments:
-- percussion
-- drums (drum set)
-associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 712b06ba-0fa4-4577-8f2b-920387dda410
-  name: J.D. Allen Trio
-- begin: ''
-  end: ''
-  instruments:
   - percussion
-  mbid: d39bba30-b316-45ba-9977-5ccac984f163
-  name: Posi-Tone Swingtet
-- begin: ''
-  end: ''
-  instruments:
   - drums (drum set)
-  mbid: d39bba30-b316-45ba-9977-5ccac984f163
-  name: Posi-Tone Swingtet
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: fe4004b8-51a5-4038-92b1-3c85994dc40d
-  name: Bruce Barth Trio
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: ff1ca8d9-6ed9-4294-864c-250c40ee5f1e
-  name: Trio Del Norte
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 712b06ba-0fa4-4577-8f2b-920387dda410
+    name: J.D. Allen Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - percussion
+    mbid: d39bba30-b316-45ba-9977-5ccac984f163
+    name: Posi-Tone Swingtet
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: d39bba30-b316-45ba-9977-5ccac984f163
+    name: Posi-Tone Swingtet
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: fe4004b8-51a5-4038-92b1-3c85994dc40d
+    name: Bruce Barth Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: ff1ca8d9-6ed9-4294-864c-250c40ee5f1e
+    name: Trio Del Norte
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/rudy_royston.jpg
   caption: Rudy Royston
@@ -62,60 +62,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dave Douglas
-  - Bill Frisell
-  - JD Allen
-  - Jason Moran
-  - Jon Irabagon
-  - Yasushi Nakamura
-  - Mingus Big Band
-  - Tom Harrell
-  - Les McCann
+    - Dave Douglas
+    - Bill Frisell
+    - JD Allen
+    - Jason Moran
+    - Jon Irabagon
+    - Yasushi Nakamura
+    - Mingus Big Band
+    - Tom Harrell
+    - Les McCann
   influenced: []
   mentors:
-  - Ron Miles
-  - Duffy Jackson
-  - Ed Soph
-  - Victor Lewis
+    - Ron Miles
+    - Duffy Jackson
+    - Ed Soph
+    - Victor Lewis
 spotify_data:
   followers: 1558
   id: 0ILg6S11FRLlqKHKOfTJyY
   popularity: 35
-  url: https://open.spotify.com/artist/0ILg6S11FRLlqKHKOfTJyY
+  url: 'https://open.spotify.com/artist/0ILg6S11FRLlqKHKOfTJyY'
 discography_enriched: true
 top_tracks:
-- Ascent (Balance Point)
-- A.M. Hours (Day)
-- Smoke Rings
-- Keepers Of The Eastern Door (Keepers of the Eastern Door)
-- On A Clear Day
-- Kino's Canoe
-- Thank You For Your Silence (Clarity)
-- Had It Happened (Balance Point)
-- O Sacrum Convivium! (Keepers of the Eastern Door)
-- Kino's Canoe (Keepers of the Eastern Door)
+  - Ascent (Balance Point)
+  - A.M. Hours (Day)
+  - Smoke Rings
+  - Keepers Of The Eastern Door (Keepers of the Eastern Door)
+  - On A Clear Day
+  - Kino's Canoe
+  - Thank You For Your Silence (Clarity)
+  - Had It Happened (Balance Point)
+  - O Sacrum Convivium! (Keepers of the Eastern Door)
+  - Kino's Canoe (Keepers of the Eastern Door)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a7cf9248-c3ea-4ba3-87b5-d57ad52f1b35
-  spotify: https://open.spotify.com/artist/0ILg6S11FRLlqKHKOfTJyY
+  musicbrainz: 'https://musicbrainz.org/artist/a7cf9248-c3ea-4ba3-87b5-d57ad52f1b35'
+  spotify: 'https://open.spotify.com/artist/0ILg6S11FRLlqKHKOfTJyY'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/rudy_royston.jpg
 biography_enhanced_at: '2025-12-04T07:18:06.483181'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Western Washington University - Rudy Royston Jazz event page
-- Greenleaf Music - Rudy Royston biography and artist page
-- All About Jazz - Rudy Royston musician profile
-- 'JazzTimes - Artist''s Choice: Rudy Royston on Creativity With Cymbals'
-- University of Denver Lamont School of Music - Alumni Profile
-- Canopus Drums - Rudy Royston endorser page
-- Bowling Green State University - Jazz Spotlight Artist announcement
+  - Western Washington University - Rudy Royston Jazz event page
+  - Greenleaf Music - Rudy Royston biography and artist page
+  - All About Jazz - Rudy Royston musician profile
+  - 'JazzTimes - Artist''s Choice: Rudy Royston on Creativity With Cymbals'
+  - University of Denver Lamont School of Music - Alumni Profile
+  - Canopus Drums - Rudy Royston endorser page
+  - Bowling Green State University - Jazz Spotlight Artist announcement
 network_extracted: true
 entry_created: '2025-12-04T07:18:06.483188'
 last_updated: '2025-12-23T08:16:15.195846'
 disambiguation: drummer and percussionist
 gender: Male
 musicbrainz_id: a7cf9248-c3ea-4ba3-87b5-d57ad52f1b35
+origin: 'Denver, Colorado, United States'
 ---
 
 ![](rudy_royston.jpg)

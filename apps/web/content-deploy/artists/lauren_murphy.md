@@ -1,42 +1,44 @@
 ---
 biography_enhanced_at: '2026-01-20T01:21:34.604007'
-birth_place: Baton Rouge, Louisiana, USA
+birth_place: 'Baton Rouge, Louisiana, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-20T01:21:34.604013'
 external_urls:
-  spotify: https://open.spotify.com/artist/157WwNMtoKbbxrvCSHKYxM
+  spotify: 'https://open.spotify.com/artist/157WwNMtoKbbxrvCSHKYxM'
   wikipedia: ''
 genres:
-- musicals
+  - musicals
 image_path: 03_Resources/source_material/ArtistPortraits/lauren_murphy.jpg
 last_updated: '2026-01-20T01:21:34.604013'
 musical_connections:
   collaborators:
-  - Judge Murphy
-  - Steve Kimock
-  - Robert Hunter
-  - Louis Michot
-  - Papa Mali
+    - Judge Murphy
+    - Steve Kimock
+    - Robert Hunter
+    - Louis Michot
+    - Papa Mali
   influenced: []
   mentors:
-  - Andrei Codrescu
-  - Maya Angelou
-  - Barry Kyle
+    - Andrei Codrescu
+    - Maya Angelou
+    - Barry Kyle
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://blues.gr/profiles/blogs/q-a-with-extremely-versatile-artist-lauren-murphy-a-personality
-- https://laurenmurphymusic.com
-- https://www.pageandpalette.com/events-master/2019/11/15/lauren-murphy
-- https://laurenmurphymusic.com/lauren-solo
-- https://talent.entireproductions.com/talent/lauren-murphy
+  - >-
+    https://blues.gr/profiles/blogs/q-a-with-extremely-versatile-artist-lauren-murphy-a-personality
+  - 'https://laurenmurphymusic.com'
+  - 'https://www.pageandpalette.com/events-master/2019/11/15/lauren-murphy'
+  - 'https://laurenmurphymusic.com/lauren-solo'
+  - 'https://talent.entireproductions.com/talent/lauren-murphy'
 spotify_data:
   followers: 459
   id: 157WwNMtoKbbxrvCSHKYxM
   popularity: 21
-  url: https://open.spotify.com/artist/157WwNMtoKbbxrvCSHKYxM
+  url: 'https://open.spotify.com/artist/157WwNMtoKbbxrvCSHKYxM'
 status: active
 title: Lauren Murphy
+artist_type: person
 ---
 
 ![](lauren_murphy.jpg)

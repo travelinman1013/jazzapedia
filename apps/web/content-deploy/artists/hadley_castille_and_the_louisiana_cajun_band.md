@@ -3,15 +3,16 @@ title: Hadley Castille & the Louisiana Cajun Band
 wiki_slug: hadley-castille-the-louisiana-cajun-band
 schema_version: 2
 status: active
-birth_place: Leonville, Louisiana, United States
+birth_place: 'Leonville, Louisiana, United States'
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/hadley_castille_and_the_louisiana_cajun_band.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/hadley_castille_and_the_louisiana_cajun_band.jpg
   caption: Hadley Castille & the Louisiana Cajun Band
   background: solo_singer
-  origin: Leonville, Louisiana, United States
+  origin: 'Leonville, Louisiana, United States'
 audio_profile:
   tempo_avg: 139.7
   energy_avg: 0.476
@@ -27,49 +28,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Sharecroppers Cajun Band
-  - Members of Hadley Castille & the Louisiana Cajun Band
+    - The Sharecroppers Cajun Band
+    - Members of Hadley Castille & the Louisiana Cajun Band
   influenced:
-  - Sarah Jayde Williams
-  - Younger Cajun fiddlers in Acadiana
+    - Sarah Jayde Williams
+    - Younger Cajun fiddlers in Acadiana
   mentors:
-  - Cyprien Castille
+    - Cyprien Castille
 spotify_data:
   followers: 46
   id: 4yTqy910PFG5ppaNOtM4u2
   popularity: 6
-  url: https://open.spotify.com/artist/4yTqy910PFG5ppaNOtM4u2
+  url: 'https://open.spotify.com/artist/4yTqy910PFG5ppaNOtM4u2'
 discography_enriched: true
 top_tracks:
-- Up On A Housetop (Cajun Christmas)
-- Silent Night (Cajun Christmas)
-- O Come All Ye Faithful (Cajun Christmas)
-- I Saw Mommy Kissing Santa Claus (Cajun Christmas)
-- O Come Ye Emanuel (Cajun Christmas)
-- It Came Upon A Midnight Clear (Cajun Christmas)
-- Silver Bells (Cajun Christmas)
-- We Three Kings (Cajun Christmas)
-- Jingle Bells (Cajun Christmas)
-- Joy To The World (Cajun Christmas)
+  - Up On A Housetop (Cajun Christmas)
+  - Silent Night (Cajun Christmas)
+  - O Come All Ye Faithful (Cajun Christmas)
+  - I Saw Mommy Kissing Santa Claus (Cajun Christmas)
+  - O Come Ye Emanuel (Cajun Christmas)
+  - It Came Upon A Midnight Clear (Cajun Christmas)
+  - Silver Bells (Cajun Christmas)
+  - We Three Kings (Cajun Christmas)
+  - Jingle Bells (Cajun Christmas)
+  - Joy To The World (Cajun Christmas)
 external_urls:
-  spotify: https://open.spotify.com/artist/4yTqy910PFG5ppaNOtM4u2
-  wikipedia: https://en.wikipedia.org/wiki/Hadley_Castille
-image_path: 03_Resources/source_material/ArtistPortraits/hadley_castille_and_the_louisiana_cajun_band.jpg
+  spotify: 'https://open.spotify.com/artist/4yTqy910PFG5ppaNOtM4u2'
+  wikipedia: 'https://en.wikipedia.org/wiki/Hadley_Castille'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/hadley_castille_and_the_louisiana_cajun_band.jpg
 biography_enhanced_at: '2025-12-08T04:23:01.408365'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.acadianmuseum.com/living-legend/hadley-j-castille/
-- https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/castille.htm.html
-- https://www.offbeat.com/news/hadley-castille-1933-2012/
-- https://flattownmusic.com/artist/hadley-castille/
-- https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/castille2.htm.html
-- https://cajunradio.com/cajun-music-legend-hadley-castille-turns-82-today-2/
-- https://acadianaprofile.com/genes-strings/
-- https://en.wikipedia.org/wiki/Hadley_Castille
+  - 'https://www.acadianmuseum.com/living-legend/hadley-j-castille/'
+  - >-
+    https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/castille.htm.html
+  - 'https://www.offbeat.com/news/hadley-castille-1933-2012/'
+  - 'https://flattownmusic.com/artist/hadley-castille/'
+  - >-
+    https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/castille2.htm.html
+  - 'https://cajunradio.com/cajun-music-legend-hadley-castille-turns-82-today-2/'
+  - 'https://acadianaprofile.com/genes-strings/'
+  - 'https://en.wikipedia.org/wiki/Hadley_Castille'
 network_extracted: true
 entry_created: '2025-12-08T04:23:01.408387'
 last_updated: '2025-12-23T08:16:09.436254'
+origin: 'Leonville, Louisiana, United States'
+birth_date: '1933-03-03'
+artist_type: person
 ---
 
 ![](hadley_castille_and_the_louisiana_cajun_band.jpg)

@@ -1,11 +1,11 @@
 ---
-title: LES DOUBLE SIX
+title: Les Double Six
 wiki_slug: les-double-six
 schema_version: 2
 status: active
 genres:
-- french jazz
-- vocal jazz
+  - french jazz
+  - vocal jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/les_double_six.jpg
   caption: LES DOUBLE SIX
@@ -16,7 +16,7 @@ audio_profile:
   valence_avg: 0.488
   danceability_avg: 0.584
   acousticness_avg: 0.74
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -13.7
   speechiness_avg: 0.099
   liveness_avg: 0.21
@@ -25,51 +25,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dizzy Gillespie
-  - Bud Powell
-  - Kenny Clarke
-  - Quincy Jones
-  - Christiane Legrand
-  - Ward Swingle
+    - Dizzy Gillespie
+    - Bud Powell
+    - Kenny Clarke
+    - Quincy Jones
+    - Christiane Legrand
+    - Ward Swingle
   influenced:
-  - The Swingle Singers
-  - The Manhattan Transfer
+    - The Swingle Singers
+    - The Manhattan Transfer
   mentors:
-  - Lambert, Hendricks & Ross
+    - 'Lambert, Hendricks & Ross'
 spotify_data:
   followers: 1129
   id: 24IdSSyVe7goZ5iCJj2EHw
   popularity: 2
-  url: https://open.spotify.com/artist/24IdSSyVe7goZ5iCJj2EHw
+  url: 'https://open.spotify.com/artist/24IdSSyVe7goZ5iCJj2EHw'
 discography_enriched: true
 top_tracks:
-- For Lena and Lennie (En Flânant Dans Paris) (The Essential)
-- Tickle-Toe (Le Racket Et Les Balles) (The Essential)
-- Rat Race (La Course Au Rat) (The Essential)
-- Doodlin' (Tout En Dodelinant) (The Essential)
-- Early Autumn (Finalement L'automne Est Arrivé) (The Essential)
-- A Night in Tunisia (Le Tapis Volant) (The Essential)
-- A Night in Tunisia
-- Stockholm Sweetin' (Un Coin Merveilleux) (The Essential)
-- Meet Benny Bailey (Au Bout Du Fil) (The Essential)
-- Naima (Naima) (The Essential)
+  - For Lena and Lennie (En Flânant Dans Paris) (The Essential)
+  - Tickle-Toe (Le Racket Et Les Balles) (The Essential)
+  - Rat Race (La Course Au Rat) (The Essential)
+  - Doodlin' (Tout En Dodelinant) (The Essential)
+  - Early Autumn (Finalement L'automne Est Arrivé) (The Essential)
+  - A Night in Tunisia (Le Tapis Volant) (The Essential)
+  - A Night in Tunisia
+  - Stockholm Sweetin' (Un Coin Merveilleux) (The Essential)
+  - Meet Benny Bailey (Au Bout Du Fil) (The Essential)
+  - Naima (Naima) (The Essential)
 external_urls:
-  spotify: https://open.spotify.com/artist/24IdSSyVe7goZ5iCJj2EHw
-  wikipedia: https://en.wikipedia.org/wiki/Les_Double_Six
+  spotify: 'https://open.spotify.com/artist/24IdSSyVe7goZ5iCJj2EHw'
+  wikipedia: 'https://en.wikipedia.org/wiki/Les_Double_Six'
 image_path: 03_Resources/source_material/ArtistPortraits/les_double_six.jpg
 biography_enhanced_at: '2025-11-11T09:39:47.300299'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://markofjazz.com/2025/01/
-- https://www.jazzempowers.org/les-double-six
-- https://artsfuse.org/185691/jazz-appreciation-the-double-six-of-paris-a-60th-anniversary-appreciation/
-- https://singers.com/grouphistory/3917
-- https://musicbrainz.org/artist/88a654c0-38ad-4f4f-a90b-12a0eedaeaf4
+  - 'https://markofjazz.com/2025/01/'
+  - 'https://www.jazzempowers.org/les-double-six'
+  - >-
+    https://artsfuse.org/185691/jazz-appreciation-the-double-six-of-paris-a-60th-anniversary-appreciation/
+  - 'https://singers.com/grouphistory/3917'
+  - 'https://musicbrainz.org/artist/88a654c0-38ad-4f4f-a90b-12a0eedaeaf4'
 network_extracted: true
 entry_created: '2025-11-11T09:39:47.300306'
 last_updated: '2025-12-23T08:16:11.834275'
-origin: Paris, Île-de-France, France
+origin: 'Paris, Île-de-France, France'
+artist_type: person
 ---
 
 ![](les_double_six.jpg)

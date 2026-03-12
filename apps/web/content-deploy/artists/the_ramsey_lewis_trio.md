@@ -1,27 +1,27 @@
 ---
-title: THE RAMSEY LEWIS TRIO
+title: The Ramsey Lewis Trio
 wiki_slug: the-ramsey-lewis-trio
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1956'
 genres:
-- soul jazz
-- jazz
+  - soul jazz
+  - jazz
 instruments:
-- eponymous
-- original
-- piano
-- drums (drum set)
-- cello
-- double bass
+  - eponymous
+  - original
+  - piano
+  - drums (drum set)
+  - cello
+  - double bass
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_ramsey_lewis_trio.jpg
   caption: THE RAMSEY LEWIS TRIO
   background: group_or_band
   born: '1956'
 audio_profile:
-  tempo_avg: 115.0
+  tempo_avg: 115
   energy_avg: 0.499
   valence_avg: 0.63
   danceability_avg: 0.578
@@ -35,96 +35,101 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Eldee Young
-  - Isaac 'Redd' Holt
-  - Cleveland Eaton
-  - Maurice White
-  - Morris Jennings
-  - Earth, Wind & Fire
-  - Lem Winchester
-  - Max Roach
-  - Clark Terry
-  - Sonny Stitt
+    - Eldee Young
+    - Isaac 'Redd' Holt
+    - Cleveland Eaton
+    - Maurice White
+    - Morris Jennings
+    - 'Earth, Wind & Fire'
+    - Lem Winchester
+    - Max Roach
+    - Clark Terry
+    - Sonny Stitt
   influenced:
-  - Young-Holt Unlimited
+    - Young-Holt Unlimited
   mentors:
-  - Edward Virgil Abner
+    - Edward Virgil Abner
 spotify_data:
   followers: 38892
   id: 4jZOiPysIzYxbDcDEOZmhu
   popularity: 54
-  url: https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu
+  url: 'https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu'
 discography_enriched: true
 top_tracks:
-- The "In" Crowd - Live At The Bohemian Caverns, Washington, D.C./1965 (The In Crowd (Expanded Edition))
-- Look-A-Here
-- Here Comes Santa Claus (Sound Of Christmas)
-- Do What You Wanna (Another Voyage)
-- Egg Nog (More Sounds Of Christmas)
-- Christmas Blues (Sound Of Christmas)
-- Bold And Black (Another Voyage)
-- Slipping Into Darkness
-- The "In" Crowd - Live At Bohemian Caverns, 1965 / Single Edit (The In Crowd Anthology)
-- The "In" Crowd (The Chess Story 1965-1975)
+  - >-
+    The "In" Crowd - Live At The Bohemian Caverns, Washington, D.C./1965 (The In
+    Crowd (Expanded Edition))
+  - Look-A-Here
+  - Here Comes Santa Claus (Sound Of Christmas)
+  - Do What You Wanna (Another Voyage)
+  - Egg Nog (More Sounds Of Christmas)
+  - Christmas Blues (Sound Of Christmas)
+  - Bold And Black (Another Voyage)
+  - Slipping Into Darkness
+  - >-
+    The "In" Crowd - Live At Bohemian Caverns, 1965 / Single Edit (The In Crowd
+    Anthology)
+  - The "In" Crowd (The Chess Story 1965-1975)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/98789b37-4903-42b4-9f5a-2e602684bff5
-  spotify: https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu
+  musicbrainz: 'https://musicbrainz.org/artist/98789b37-4903-42b4-9f5a-2e602684bff5'
+  spotify: 'https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/the_ramsey_lewis_trio.jpg
 biography_enhanced_at: '2025-12-22T01:44:58.166473'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://creativeaudioworks.com/history/the-in-crowd-october-9-2011/
-- https://www.thehistorymakers.org/biography/ramsey-lewis-44
-- https://www.bear-family.com/lewis-ramsey/
-- https://www.ramseylewis.com/biography
-- https://www.savagecontent.com/post/remembering-ramsey-lewis-and-his-legacy
-- https://www.knkx.org/jazz/2022-12-26/ramsey-lewis
-- https://magazine.waxpoetics.com/article/ramsey-lewis-the-touch/
-- https://www.arts.gov/honors/jazz/ramsey-lewis
+  - 'https://creativeaudioworks.com/history/the-in-crowd-october-9-2011/'
+  - 'https://www.thehistorymakers.org/biography/ramsey-lewis-44'
+  - 'https://www.bear-family.com/lewis-ramsey/'
+  - 'https://www.ramseylewis.com/biography'
+  - 'https://www.savagecontent.com/post/remembering-ramsey-lewis-and-his-legacy'
+  - 'https://www.knkx.org/jazz/2022-12-26/ramsey-lewis'
+  - 'https://magazine.waxpoetics.com/article/ramsey-lewis-the-touch/'
+  - 'https://www.arts.gov/honors/jazz/ramsey-lewis'
 network_extracted: true
 entry_created: '2025-12-22T01:44:58.166478'
 last_updated: '2025-12-23T08:16:17.086690'
 members:
-- begin: '1956'
-  end: '2022'
-  instruments:
-  - eponymous
-  - original
-  - piano
-  mbid: fe19b809-e86c-4736-882a-53b72e23171b
-  name: Ramsey Lewis
-- &id001
-  begin: '1956'
-  end: ''
-  instruments:
-  - drums (drum set)
-  - original
-  mbid: b32e07f5-fe21-46fa-920f-cc5b2a882382
-  name: Isaac "Redd" Holt
-- &id002
-  begin: '1956'
-  end: ''
-  instruments:
-  - cello
-  - double bass
-  - original
-  mbid: 34559ec1-3f19-4ce2-a795-48144b92e97b
-  name: Eldee Young
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f2676d44-f03b-4cee-9c15-e8f3736da64a
-  name: Cleveland Eaton
+  - begin: '1956'
+    end: '2022'
+    instruments:
+      - eponymous
+      - original
+      - piano
+    mbid: fe19b809-e86c-4736-882a-53b72e23171b
+    name: Ramsey Lewis
+  - &ref_0
+    begin: '1956'
+    end: ''
+    instruments:
+      - drums (drum set)
+      - original
+    mbid: b32e07f5-fe21-46fa-920f-cc5b2a882382
+    name: Isaac "Redd" Holt
+  - &ref_1
+    begin: '1956'
+    end: ''
+    instruments:
+      - cello
+      - double bass
+      - original
+    mbid: 34559ec1-3f19-4ce2-a795-48144b92e97b
+    name: Eldee Young
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f2676d44-f03b-4cee-9c15-e8f3736da64a
+    name: Cleveland Eaton
 musicbrainz_id: 98789b37-4903-42b4-9f5a-2e602684bff5
-origin: Chicago, Illinois, United States
+origin: 'Chicago, Illinois, United States'
 original_members:
-- *id001
-- *id002
+  - *ref_0
+  - *ref_1
 tags:
-- jazz
-- soul jazz
+  - jazz
+  - soul jazz
+birth_place: 'Chicago, Illinois, United States'
 ---
 
 ![](the_ramsey_lewis_trio.jpg)

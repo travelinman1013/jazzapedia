@@ -2,11 +2,11 @@
 title: Funkadelic
 wiki_slug: funkadelic
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- funk
-- funk rock
+  - funk
+  - funk rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/funkadelic.jpg
   caption: Funkadelic
@@ -18,7 +18,7 @@ audio_profile:
   danceability_avg: 0.564
   acousticness_avg: 0.24
   instrumentalness_avg: 0.107
-  loudness_avg: -10.0
+  loudness_avg: -10
   speechiness_avg: 0.092
   liveness_avg: 0.219
   track_count: 50
@@ -26,58 +26,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - George Clinton
-  - Eddie Hazel
-  - Billy Bass Nelson
-  - Bernie Worrell
-  - Bootsy Collins
-  - Garry Shider
+    - George Clinton
+    - Eddie Hazel
+    - Billy Bass Nelson
+    - Bernie Worrell
+    - Bootsy Collins
+    - Garry Shider
   influenced:
-  - Prince
-  - Red Hot Chili Peppers
-  - Dr. Dre
-  - OutKast
+    - Prince
+    - Red Hot Chili Peppers
+    - Dr. Dre
+    - OutKast
   mentors:
-  - James Brown
-  - Sly Stone
+    - James Brown
+    - Sly Stone
 spotify_data:
   followers: 801938
   id: 450o9jw6AtiQlQkHCdH6Ru
   popularity: 49
-  url: https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru
+  url: 'https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru'
 discography_enriched: true
 top_tracks:
-- Maggot Brain (Maggot Brain)
-- Can You Get To That (Maggot Brain)
-- Hit It and Quit It (Maggot Brain)
-- Super Stupid (Maggot Brain)
-- Ain't That Funkin' Kinda Hard on You? (feat. Kendrick Lamar & Ice Cube) - We Ain't Neva Gonna Stop Remix
-- Biological Speculation (America Eats Its Young)
-- One Nation Under a Groove
-- Knee Deep - Deep As A Mutha Funker Remix
-- You And Your Folks, Me And My Folks (Maggot Brain)
-- I Bet You - 2025 Remastered
+  - Maggot Brain (Maggot Brain)
+  - Can You Get To That (Maggot Brain)
+  - Hit It and Quit It (Maggot Brain)
+  - Super Stupid (Maggot Brain)
+  - >-
+    Ain't That Funkin' Kinda Hard on You? (feat. Kendrick Lamar & Ice Cube) - We
+    Ain't Neva Gonna Stop Remix
+  - Biological Speculation (America Eats Its Young)
+  - One Nation Under a Groove
+  - Knee Deep - Deep As A Mutha Funker Remix
+  - 'You And Your Folks, Me And My Folks (Maggot Brain)'
+  - I Bet You - 2025 Remastered
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/bd1d4b6e-c2d9-4b98-bee5-a5372cb4962d
-  spotify: https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru
-  wikipedia: https://en.wikipedia.org/wiki/Parliament-Funkadelic
+  musicbrainz: 'https://musicbrainz.org/artist/bd1d4b6e-c2d9-4b98-bee5-a5372cb4962d'
+  spotify: 'https://open.spotify.com/artist/450o9jw6AtiQlQkHCdH6Ru'
+  wikipedia: 'https://en.wikipedia.org/wiki/Parliament-Funkadelic'
 image_path: 03_Resources/source_material/ArtistPortraits/funkadelic.jpg
 biography_enhanced_at: '2025-10-23T07:45:56.799315'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Parliament-Funkadelic
-- https://blackpast.org/african-american-history/george-clinton-and-parliament-funkadelic-1964/
-- https://teachrock.org/people/parliament-funkadelic/
-- https://georgeclinton.com/bio/
-- https://123oclock4oclockrock.com/2024/11/23/the-story-parliament-funkadelic/
-- https://www.last.fm/music/Funkadelic/+wiki
+  - 'https://en.wikipedia.org/wiki/Parliament-Funkadelic'
+  - >-
+    https://blackpast.org/african-american-history/george-clinton-and-parliament-funkadelic-1964/
+  - 'https://teachrock.org/people/parliament-funkadelic/'
+  - 'https://georgeclinton.com/bio/'
+  - 'https://123oclock4oclockrock.com/2024/11/23/the-story-parliament-funkadelic/'
+  - 'https://www.last.fm/music/Funkadelic/+wiki'
 network_extracted: true
 entry_created: '2025-10-23T07:45:56.799325'
 last_updated: '2025-12-23T08:16:08.904515'
 disambiguation: funk rock
 musicbrainz_id: bd1d4b6e-c2d9-4b98-bee5-a5372cb4962d
-origin: Detroit, Michigan, USA
+origin: 'Detroit, Michigan, USA'
 ---
 
 ![](funkadelic.jpg)

@@ -15,7 +15,7 @@ audio_profile:
   danceability_avg: 0.586
   acousticness_avg: 0.806
   instrumentalness_avg: 0.468
-  loudness_avg: -14.0
+  loudness_avg: -14
   speechiness_avg: 0.062
   liveness_avg: 0.335
   track_count: 57
@@ -23,49 +23,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - James Chirillo
-  - Greg Cohen
-  - Tony DeNicola
-  - Bob Wilber
+    - James Chirillo
+    - Greg Cohen
+    - Tony DeNicola
+    - Bob Wilber
   influenced:
-  - Later traditional and mainstream jazz clarinetists (e.g., contemporary swing/Arbors Records circle)
+    - >-
+      Later traditional and mainstream jazz clarinetists (e.g., contemporary
+      swing/Arbors Records circle)
   mentors:
-  - Pee Wee Russell
+    - Pee Wee Russell
 spotify_data:
   followers: 812
   id: 5FrL8C2vYIUL7In8fWmglA
   popularity: 12
-  url: https://open.spotify.com/artist/5FrL8C2vYIUL7In8fWmglA
+  url: 'https://open.spotify.com/artist/5FrL8C2vYIUL7In8fWmglA'
 discography_enriched: true
 top_tracks:
-- When You're Smiling (The Whole World Smiles With You) - Voice
-- When You're Smiling (The Whole World Smiles With You) - Voice (Mighty Aphrodite)
-- Dark Eyes (Breezin' Along)
-- My Blue Heaven (Summit Reunion)
-- Potato Head Blues - Live (We Love You, Louis! (Live))
-- Jingle Bells
-- Nobody's Sweetheart
-- Love Me Or Leave Me (Summit Reunion)
-- Bugle Call Rag (Chasin' the Blues)
-- Cornet Chop Suey - Live (We Love You, Louis! (Live))
+  - When You're Smiling (The Whole World Smiles With You) - Voice
+  - >-
+    When You're Smiling (The Whole World Smiles With You) - Voice (Mighty
+    Aphrodite)
+  - Dark Eyes (Breezin' Along)
+  - My Blue Heaven (Summit Reunion)
+  - 'Potato Head Blues - Live (We Love You, Louis! (Live))'
+  - Jingle Bells
+  - Nobody's Sweetheart
+  - Love Me Or Leave Me (Summit Reunion)
+  - Bugle Call Rag (Chasin' the Blues)
+  - 'Cornet Chop Suey - Live (We Love You, Louis! (Live))'
 external_urls:
-  spotify: https://open.spotify.com/artist/5FrL8C2vYIUL7In8fWmglA
-  wikipedia: https://en.wikipedia.org/wiki/Kenny_Davern
+  spotify: 'https://open.spotify.com/artist/5FrL8C2vYIUL7In8fWmglA'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kenny_Davern'
 image_path: 03_Resources/source_material/ArtistPortraits/the_kenny_davern_quartet.jpg
 biography_enhanced_at: '2025-12-15T01:17:23.654109'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- 'All About Jazz – Kenny Davern profile and review of The Kenny Davern Quartet: In Concert at the Outpost Performance Space,
-  Albuquerque, 2004.[1]'
-- Wikipedia – Kenny Davern.[6]
-- NAMM Oral History – Kenny Davern.[2]
-- JazzNorthWest – Kenny Davern biography.[3]
-- Weekly Alibi – Celebrate the Late, Great Clarinetist Kenny Davern.[4]
+  - >-
+    All About Jazz – Kenny Davern profile and review of The Kenny Davern
+    Quartet: In Concert at the Outpost Performance Space, Albuquerque, 2004.[1]
+  - 'Wikipedia – Kenny Davern.[6]'
+  - 'NAMM Oral History – Kenny Davern.[2]'
+  - 'JazzNorthWest – Kenny Davern biography.[3]'
+  - 'Weekly Alibi – Celebrate the Late, Great Clarinetist Kenny Davern.[4]'
 network_extracted: true
 entry_created: '2025-12-15T01:17:23.654120'
 last_updated: '2025-12-23T08:16:16.888095'
-origin: Huntington, Long Island, New York, United States
+origin: 'Huntington, Long Island, New York, United States'
+birth_place: 'Huntington, Long Island, New York, United States'
+birth_date: '1935'
+artist_type: band
 ---
 
 ![](the_kenny_davern_quartet.jpg)

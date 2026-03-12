@@ -1,89 +1,93 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2025-12-25T01:08:49.406528'
 enhancement_provider: perplexity
 entry_created: '2025-12-25T01:08:49.406544'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/827bbebc-e178-4772-a69d-49db3bcafdb8
-  spotify: https://open.spotify.com/artist/2QYQ1OaqqulNz8o2c80ViP
-  wikipedia: https://en.wikipedia.org/wiki/Luis_Russell
+  musicbrainz: 'https://musicbrainz.org/artist/827bbebc-e178-4772-a69d-49db3bcafdb8'
+  spotify: 'https://open.spotify.com/artist/2QYQ1OaqqulNz8o2c80ViP'
+  wikipedia: 'https://en.wikipedia.org/wiki/Luis_Russell'
 genres:
-- big band
-- swing music
-- ragtime
-- jazz
-image_path: 03_Resources/source_material/ArtistPortraits/luis_russell_and_his_orchestra.jpg
+  - big band
+  - swing music
+  - ragtime
+  - jazz
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/luis_russell_and_his_orchestra.jpg
 instruments:
-- eponymous
+  - eponymous
 last_updated: '2025-12-25T01:08:49.406545'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 663c55ec-509e-4499-95ad-8cf087a73102
-  name: Gus Aiken
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 644adb90-bc50-4990-bdba-31c2092c5ac5
-  name: Paul Barbarin
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9179fad5-b45d-48cf-a12c-cce2c4162cd8
-  name: Otis Johnson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b6726768-8140-40aa-ad8c-be95c1a200ec
-  name: Will Johnson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5d87a448-1c61-4718-a022-b9ed1f549666
-  name: Henry “Moon” Jones
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 9092ac82-6f06-427a-8a8e-d949dc4ebf35
-  name: Luis Russell
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 663c55ec-509e-4499-95ad-8cf087a73102
+    name: Gus Aiken
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 644adb90-bc50-4990-bdba-31c2092c5ac5
+    name: Paul Barbarin
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9179fad5-b45d-48cf-a12c-cce2c4162cd8
+    name: Otis Johnson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b6726768-8140-40aa-ad8c-be95c1a200ec
+    name: Will Johnson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5d87a448-1c61-4718-a022-b9ed1f549666
+    name: Henry “Moon” Jones
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 9092ac82-6f06-427a-8a8e-d949dc4ebf35
+    name: Luis Russell
 musical_connections:
   collaborators:
-  - Louis Armstrong
-  - Henry "Red" Allen
-  - J. C. Higginbotham
-  - Albert Nicholas
-  - Pops Foster
-  - Paul Barbarin
-  - '"Big" Sid Catlett'
+    - Louis Armstrong
+    - Henry "Red" Allen
+    - J. C. Higginbotham
+    - Albert Nicholas
+    - Pops Foster
+    - Paul Barbarin
+    - '"Big" Sid Catlett'
   influenced:
-  - Louis Armstrong (big‑band period)
-  - Later swing and big‑band rhythm sections (general influence)
-  - Catherine Russell
+    - Louis Armstrong (big‑band period)
+    - Later swing and big‑band rhythm sections (general influence)
+    - Catherine Russell
   mentors:
-  - King Oliver
-  - Albert Nicholas
-  - Methodist church and Afro‑Caribbean musical traditions
+    - King Oliver
+    - Albert Nicholas
+    - Methodist church and Afro‑Caribbean musical traditions
 musicbrainz_id: 827bbebc-e178-4772-a69d-49db3bcafdb8
 network_extracted: true
-origin: Bocas del Toro, Bocas del Toro Province, Panama
+origin: 'Bocas del Toro, Bocas del Toro Province, Panama'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Luis_Russell
-- https://thebocasbreeze.com/culture/luisrussell/
-- https://syncopatedtimes.com/luis-russell-1902-1963/
-- https://www.allaboutjazz.com/musicians/luis-russell/
+  - 'https://en.wikipedia.org/wiki/Luis_Russell'
+  - 'https://thebocasbreeze.com/culture/luisrussell/'
+  - 'https://syncopatedtimes.com/luis-russell-1902-1963/'
+  - 'https://www.allaboutjazz.com/musicians/luis-russell/'
 spotify_data:
   followers: 1725
   id: 2QYQ1OaqqulNz8o2c80ViP
   popularity: 9
-  url: https://open.spotify.com/artist/2QYQ1OaqqulNz8o2c80ViP
+  url: 'https://open.spotify.com/artist/2QYQ1OaqqulNz8o2c80ViP'
 status: active
 tags:
-- big band
-- jazz
-title: LUIS RUSSELL AND HIS ORCHESTRA
+  - big band
+  - jazz
+title: Luis Russell and His Orchestra
+birth_place: 'Bocas del Toro, Bocas del Toro Province, Panama'
+birth_date: '1902-08-05'
+death_date: '1963-12-11'
 ---
 
 ![](luis_russell_and_his_orchestra.jpg)

@@ -1,13 +1,14 @@
 ---
-title: ANDY KIRK AND HIS CLOUDS OF JOY
+title: Andy Kirk and His Clouds OF Joy
 wiki_slug: andy-kirk-and-his-clouds-of-joy
 schema_version: 2
 status: active
 genres:
-- big band
-- swing music
+  - big band
+  - swing music
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/andy_kirk_and_his_clouds_of_joy.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/andy_kirk_and_his_clouds_of_joy.jpg
   caption: ANDY KIRK AND HIS CLOUDS OF JOY
   background: solo_singer
 audio_profile:
@@ -25,60 +26,68 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mary Lou Williams
-  - Pha Terrell
-  - Blanche Calloway
-  - John Williams
-  - Buddy Tate
-  - Claude Williams
-  - Dick Wilson
-  - Floyd Smith
-  - Don Byas
-  - '"Shorty" Baker'
-  - Howard McGhee
-  - Jimmy Forrest
-  - Fats Navarro
-  - Charlie Parker
+    - Mary Lou Williams
+    - Pha Terrell
+    - Blanche Calloway
+    - John Williams
+    - Buddy Tate
+    - Claude Williams
+    - Dick Wilson
+    - Floyd Smith
+    - Don Byas
+    - '"Shorty" Baker'
+    - Howard McGhee
+    - Jimmy Forrest
+    - Fats Navarro
+    - Charlie Parker
   influenced:
-  - Mary Lou Williams
-  - Buddy Tate
-  - Claude Williams
-  - Kansas City jazz musicians
+    - Mary Lou Williams
+    - Buddy Tate
+    - Claude Williams
+    - Kansas City jazz musicians
   mentors:
-  - Wilberforce Whiteman
+    - Wilberforce Whiteman
 spotify_data:
   followers: 259
   id: 4rDZ3eRHYohliOvg4u5Flg
   popularity: 2
-  url: https://open.spotify.com/artist/4rDZ3eRHYohliOvg4u5Flg
+  url: 'https://open.spotify.com/artist/4rDZ3eRHYohliOvg4u5Flg'
 discography_enriched: true
 top_tracks:
-- Now I Lay Me Down To Dream (Jukebox Hits 1936-1949)
-- Floyd's Guitar Blues (Jukebox Hits 1936-1949)
-- Wham Re Bop Boom Bam (Jukebox Hits 1936-1949)
-- Until The Real Thing Comes Along (Jukebox Hits 1936-1949)
-- Take It And Git (Jukebox Hits 1936-1949)
-- Until The Real Thing Comes Along - Remastered (The Real Thing)
-- Give Her A Pint (And She&apos;ll Tell It All) - Remastered (The Real Thing)
-- Corky Stomp - Remastered (The Real Thing)
-- Christopher Columbus (Jukebox Hits 1936-1949)
-- What Will I Tell My Heart (Jukebox Hits 1936-1949)
+  - Now I Lay Me Down To Dream (Jukebox Hits 1936-1949)
+  - Floyd's Guitar Blues (Jukebox Hits 1936-1949)
+  - Wham Re Bop Boom Bam (Jukebox Hits 1936-1949)
+  - Until The Real Thing Comes Along (Jukebox Hits 1936-1949)
+  - Take It And Git (Jukebox Hits 1936-1949)
+  - Until The Real Thing Comes Along - Remastered (The Real Thing)
+  - Give Her A Pint (And She&apos;ll Tell It All) - Remastered (The Real Thing)
+  - Corky Stomp - Remastered (The Real Thing)
+  - Christopher Columbus (Jukebox Hits 1936-1949)
+  - What Will I Tell My Heart (Jukebox Hits 1936-1949)
 external_urls:
-  spotify: https://open.spotify.com/artist/4rDZ3eRHYohliOvg4u5Flg
-  wikipedia: https://en.wikipedia.org/wiki/Andy_Kirk_(musician)
-image_path: 03_Resources/source_material/ArtistPortraits/andy_kirk_and_his_clouds_of_joy.jpg
+  spotify: 'https://open.spotify.com/artist/4rDZ3eRHYohliOvg4u5Flg'
+  wikipedia: 'https://en.wikipedia.org/wiki/Andy_Kirk_(musician)'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/andy_kirk_and_his_clouds_of_joy.jpg
 biography_enhanced_at: '2025-11-06T13:23:05.389423'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Andy_Kirk_(musician)
-- https://kcblackhistory.org/articles/andy-kirk
-- https://fromthevaults-boppinbob.blogspot.com/2018/05/andy-kirk-born-28-may-1898.html
-- https://www.arts.gov/honors/jazz/andy-kirk
+  - 'https://en.wikipedia.org/wiki/Andy_Kirk_(musician)'
+  - 'https://kcblackhistory.org/articles/andy-kirk'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2018/05/andy-kirk-born-28-may-1898.html
+  - 'https://www.arts.gov/honors/jazz/andy-kirk'
 network_extracted: true
 entry_created: '2025-11-06T13:23:05.389449'
 last_updated: '2025-12-23T08:16:04.792904'
-origin: Newport, Kentucky, United States (birthplace); Kansas City, Missouri, United States (band origin)
+origin: >-
+  Newport, Kentucky, United States (birthplace); Kansas City, Missouri, United
+  States (band origin)
+birth_place: 'Newport, Kentucky, United States'
+birth_date: '1898'
+death_date: '1992'
+artist_type: person
 ---
 
 ![](andy_kirk_and_his_clouds_of_joy.jpg)

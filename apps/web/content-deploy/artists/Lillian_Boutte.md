@@ -3,15 +3,15 @@ title: Lillian Boutte
 wiki_slug: lillian-boutte
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, USA'
 genres:
-- boogie-woogie
-- swing music
+  - boogie-woogie
+  - swing music
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Lillian_Boutte.jpg
   caption: Lillian Boutte
   background: solo_singer
-  origin: New Orleans, Louisiana, USA
+  origin: 'New Orleans, Louisiana, USA'
 audio_profile:
   tempo_avg: 131.3
   energy_avg: 0.393
@@ -19,7 +19,7 @@ audio_profile:
   danceability_avg: 0.538
   acousticness_avg: 0.659
   instrumentalness_avg: 0.016
-  loudness_avg: -13.0
+  loudness_avg: -13
   speechiness_avg: 0.108
   liveness_avg: 0.343
   track_count: 51
@@ -27,46 +27,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Allen Toussaint
-  - James Booker
-  - Thomas L'Etienne
-  - Olympia Brass Band
+    - Allen Toussaint
+    - James Booker
+    - Thomas L'Etienne
+    - Olympia Brass Band
   influenced:
-  - Various New Orleans Musicians
+    - Various New Orleans Musicians
   mentors:
-  - Vernell Bagneris
-  - Allen Toussaint
+    - Vernell Bagneris
+    - Allen Toussaint
 spotify_data:
   followers: 1325
   id: 19yWuxxzM6ou9zXPaKfASa
   popularity: 9
-  url: https://open.spotify.com/artist/19yWuxxzM6ou9zXPaKfASa
+  url: 'https://open.spotify.com/artist/19yWuxxzM6ou9zXPaKfASa'
 discography_enriched: true
 top_tracks:
-- Am I Blue (Music is My Life)
-- Go Back Whree You Stayed Last Night (Music is My Life)
-- He Touched Me (Music is My Life)
-- Is You Is or Is You Ain't My Baby (feat. Humphrey Lyttelton) (Having a Good Time)
-- All of Me (Music is My Life)
-- Tennesee Waltz (Tennesee Waltz)
-- His Eyes Is on the Sparrow (I Sing Because I'm Happy)
-- Down by the River (New Oreans Gospel in Molde Kirke with Lillian Boutté)
-- Take My Hand Precious Lord (New Oreans Gospel in Molde Kirke with Lillian Boutté)
-- Mama's Gone, Goodbye (feat. Humphrey Lyttelton) (Having a Good Time)
+  - Am I Blue (Music is My Life)
+  - Go Back Whree You Stayed Last Night (Music is My Life)
+  - He Touched Me (Music is My Life)
+  - >-
+    Is You Is or Is You Ain't My Baby (feat. Humphrey Lyttelton) (Having a Good
+    Time)
+  - All of Me (Music is My Life)
+  - Tennesee Waltz (Tennesee Waltz)
+  - His Eyes Is on the Sparrow (I Sing Because I'm Happy)
+  - Down by the River (New Oreans Gospel in Molde Kirke with Lillian Boutté)
+  - >-
+    Take My Hand Precious Lord (New Oreans Gospel in Molde Kirke with Lillian
+    Boutté)
+  - 'Mama''s Gone, Goodbye (feat. Humphrey Lyttelton) (Having a Good Time)'
 external_urls:
-  spotify: https://open.spotify.com/artist/19yWuxxzM6ou9zXPaKfASa
-  wikipedia: https://en.wikipedia.org/wiki/Lillian_Boutt%C3%A9
+  spotify: 'https://open.spotify.com/artist/19yWuxxzM6ou9zXPaKfASa'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lillian_Boutt%C3%A9'
 image_path: 03_Resources/source_material/ArtistPortraits/Lillian_Boutte.jpg
 biography_enhanced_at: '2025-10-20T10:16:19.166604'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://fromthevaults-boppinbob.blogspot.com/2025/08/lillian-boutte-born-6-august-1949.html
-- https://en.wikipedia.org/wiki/Lillian_Boutt%C3%A9
-- https://www.offbeat.com/news/lillian-boutte/
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2025/08/lillian-boutte-born-6-august-1949.html
+  - 'https://en.wikipedia.org/wiki/Lillian_Boutt%C3%A9'
+  - 'https://www.offbeat.com/news/lillian-boutte/'
 network_extracted: true
 entry_created: '2025-10-20T10:16:19.166621'
 last_updated: '2025-12-23T08:16:03.013168'
+birth_date: '1949-08-06'
+death_date: '2025-05-23'
+artist_type: person
 ---
 
 ![](Lillian_Boutte.jpg)

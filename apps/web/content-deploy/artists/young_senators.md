@@ -3,36 +3,38 @@ biography_enhanced_at: '2026-01-18T07:52:38.408466'
 enhancement_provider: perplexity
 entry_created: '2026-01-18T07:52:38.408471'
 external_urls:
-  spotify: https://open.spotify.com/artist/74vqSOzcso3wEJX8ZrD4GW
+  spotify: 'https://open.spotify.com/artist/74vqSOzcso3wEJX8ZrD4GW'
   wikipedia: Not found in search results
 genres:
-- go-go
+  - go-go
 image_path: 03_Resources/source_material/ArtistPortraits/young_senators.jpg
 last_updated: '2026-01-18T07:52:38.408471'
 musical_connections:
   collaborators: []
   influenced:
-  - Chuck Brown and the Soul Searchers
-  - Trouble Funk
-  - Experience Unlimited (EU)
-  - Rare Essence
+    - Chuck Brown and the Soul Searchers
+    - Trouble Funk
+    - Experience Unlimited (EU)
+    - Rare Essence
   mentors: []
 network_extracted: true
-origin: Washington, D.C., United States
+origin: 'Washington, D.C., United States'
 primary_source: perplexity
 research_sources:
-- https://timeline.carnegiehall.org/genres/go-go
-- https://www.thebeatisgogo.com/about-go-go
-- https://dclmusicians.org/?p=465
-- https://www.bet.com/photo-gallery/29duqt/go-go-greats/3l8jup
-- https://www.coleminerecords.com/products/young-senators-ringing-bells-sweet-music-part-1-b-w-part-2
+  - 'https://timeline.carnegiehall.org/genres/go-go'
+  - 'https://www.thebeatisgogo.com/about-go-go'
+  - 'https://dclmusicians.org/?p=465'
+  - 'https://www.bet.com/photo-gallery/29duqt/go-go-greats/3l8jup'
+  - >-
+    https://www.coleminerecords.com/products/young-senators-ringing-bells-sweet-music-part-1-b-w-part-2
 spotify_data:
   followers: 482
   id: 74vqSOzcso3wEJX8ZrD4GW
   popularity: 15
-  url: https://open.spotify.com/artist/74vqSOzcso3wEJX8ZrD4GW
+  url: 'https://open.spotify.com/artist/74vqSOzcso3wEJX8ZrD4GW'
 status: active
 title: Young Senators
+artist_type: band
 ---
 
 ![](young_senators.jpg)

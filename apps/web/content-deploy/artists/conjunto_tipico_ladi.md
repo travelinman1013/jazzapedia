@@ -2,7 +2,7 @@
 title: Conjunto Tipico Ladi
 wiki_slug: conjunto-tipico-ladi
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres: []
 infobox:
@@ -24,56 +24,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sarrail Archilla
-  - Apolo Ocasio
-  - Felipe R. Goyco (Don Felo)
-  - Patricio Rijos (Toribio)
-  - Jesús Sánchez Erazo (Chuíto el de Bayamón)
-  - Ramito
-  - Neri Orta
-  - Modesto Nieves
+    - Sarrail Archilla
+    - Apolo Ocasio
+    - Felipe R. Goyco (Don Felo)
+    - Patricio Rijos (Toribio)
+    - Jesús Sánchez Erazo (Chuíto el de Bayamón)
+    - Ramito
+    - Neri Orta
+    - Modesto Nieves
   influenced:
-  - Puerto Rican folkloric musicians
+    - Puerto Rican folkloric musicians
   mentors:
-  - Joaquín Rivera Gandía
-  - Carlos Soriano
+    - Joaquín Rivera Gandía
+    - Carlos Soriano
 spotify_data:
   followers: 10
   id: 4C8OhUBXHWc2M98C41VhFd
   popularity: 2
-  url: https://open.spotify.com/artist/4C8OhUBXHWc2M98C41VhFd
+  url: 'https://open.spotify.com/artist/4C8OhUBXHWc2M98C41VhFd'
 discography_enriched: true
 top_tracks:
-- 'Cristina (El Cuatro Puertorriqueño, Vol. 3: Danzas Puertorriqueñas)'
-- 'Raquel Noemí (El Cuatro Puertorriqueño, Vol. 3: Danzas Puertorriqueñas)'
-- 'De Tu Lado al Paraíso (El Cuatro Puertorriqueño, Vol. 3: Danzas Puertorriqueñas)'
-- 'Recuerdos (El Cuatro Puertorriqueño, Vol. 3: Danzas Puertorriqueñas)'
-- 'Bellos Ojos (El Cuatro Puertorriqueño, Vol. 3: Danzas Puertorriqueñas)'
-- 'Amor Bendito (El Cuatro Puertorriqueño, Vol. 3: Danzas Puertorriqueñas)'
-- 'Influencia del Arte (El Cuatro Puertorriqueño, Vol. 3: Danzas Puertorriqueñas)'
-- 'No Desconfíes (El Cuatro Puertorriqueño, Vol. 3: Danzas Puertorriqueñas)'
-- 'Tuya Es Mi Vida (El Cuatro Puertorriqueño, Vol. 3: Danzas Puertorriqueñas)'
-- 'La Graciosita (El Cuatro Puertorriqueño, Vol. 3: Danzas Puertorriqueñas)'
+  - 'Cristina (El Cuatro Puertorriqueño, Vol. 3: Danzas Puertorriqueñas)'
+  - 'Raquel Noemí (El Cuatro Puertorriqueño, Vol. 3: Danzas Puertorriqueñas)'
+  - >-
+    De Tu Lado al Paraíso (El Cuatro Puertorriqueño, Vol. 3: Danzas
+    Puertorriqueñas)
+  - 'Recuerdos (El Cuatro Puertorriqueño, Vol. 3: Danzas Puertorriqueñas)'
+  - 'Bellos Ojos (El Cuatro Puertorriqueño, Vol. 3: Danzas Puertorriqueñas)'
+  - 'Amor Bendito (El Cuatro Puertorriqueño, Vol. 3: Danzas Puertorriqueñas)'
+  - >-
+    Influencia del Arte (El Cuatro Puertorriqueño, Vol. 3: Danzas
+    Puertorriqueñas)
+  - 'No Desconfíes (El Cuatro Puertorriqueño, Vol. 3: Danzas Puertorriqueñas)'
+  - 'Tuya Es Mi Vida (El Cuatro Puertorriqueño, Vol. 3: Danzas Puertorriqueñas)'
+  - 'La Graciosita (El Cuatro Puertorriqueño, Vol. 3: Danzas Puertorriqueñas)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5598a322-1e72-4e93-9db2-626b57afcd6e
-  spotify: https://open.spotify.com/artist/4C8OhUBXHWc2M98C41VhFd
-  wikipedia: https://en.wikipedia.org/wiki/Ladislao_Mart%C3%ADnez
+  musicbrainz: 'https://musicbrainz.org/artist/5598a322-1e72-4e93-9db2-626b57afcd6e'
+  spotify: 'https://open.spotify.com/artist/4C8OhUBXHWc2M98C41VhFd'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ladislao_Mart%C3%ADnez'
 image_path: 03_Resources/source_material/ArtistPortraits/conjunto_tipico_ladi.jpg
 biography_enhanced_at: '2025-12-22T01:48:44.842734'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- El Proyecto del Cuatro - Ladislao Martínez Otero biography
-- Wikipedia - Ladislao Martínez
-- Vega Alta Official Government - Personajes Ilustres
-- EcuRed - Ladislao Martínez Otero
-- ACEMLA - Ladislao Martinez Otero
-- UCSB American Historical Discography
+  - El Proyecto del Cuatro - Ladislao Martínez Otero biography
+  - Wikipedia - Ladislao Martínez
+  - Vega Alta Official Government - Personajes Ilustres
+  - EcuRed - Ladislao Martínez Otero
+  - ACEMLA - Ladislao Martinez Otero
+  - UCSB American Historical Discography
 network_extracted: true
 entry_created: '2025-12-22T01:48:44.842748'
 last_updated: '2025-12-23T08:16:07.170126'
 musicbrainz_id: 5598a322-1e72-4e93-9db2-626b57afcd6e
-origin: San Juan, Puerto Rico (primary base); originated in Vega Alta, Puerto Rico
+origin: 'San Juan, Puerto Rico (primary base); originated in Vega Alta, Puerto Rico'
+birth_place: 'Vega Alta, Puerto Rico, United States'
+birth_date: '1898-06-27'
 ---
 
 ![](conjunto_tipico_ladi.jpg)

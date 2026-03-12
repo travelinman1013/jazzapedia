@@ -1,19 +1,19 @@
 ---
-title: lc good rockin robinson
+title: LC Good Rockin Robinson
 wiki_slug: lc-good-rockin-robinson
 schema_version: 2
 status: active
-birth_place: Brenham, Texas, USA
+birth_place: 'Brenham, Texas, USA'
 genres:
-- boogie-woogie
-- blues
+  - boogie-woogie
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lc_good_rockin_robinson.jpg
   caption: lc good rockin robinson
   background: solo_singer
-  origin: Brenham, Texas, USA
+  origin: 'Brenham, Texas, USA'
 audio_profile:
-  tempo_avg: 140.0
+  tempo_avg: 140
   energy_avg: 0.481
   valence_avg: 0.679
   danceability_avg: 0.498
@@ -27,46 +27,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dave Alexander
-  - Sugar Pie DeSanto
+    - Dave Alexander
+    - Sugar Pie DeSanto
   influenced:
-  - Bay Area blues musicians
+    - Bay Area blues musicians
   mentors:
-  - Blind Willie Johnson
+    - Blind Willie Johnson
 spotify_data:
   followers: 138
   id: 7qzI9d70FMyVwzOrYourKO
   popularity: 0
-  url: https://open.spotify.com/artist/7qzI9d70FMyVwzOrYourKO
+  url: 'https://open.spotify.com/artist/7qzI9d70FMyVwzOrYourKO'
 discography_enriched: true
 top_tracks:
-- Pinetop's Boogie Woogie (Mojo in My Hand)
-- Ups and Downs (15 Down Home Urban Blues Classics)
-- Pinetop's Boogie Woogie
-- Rock Me Baby (What a Ride! - 24 Special Tracks 1968-1989)
-- 'Summerville Blues (My Sweetest Touch: 22 Great Tracks, Demos, Promos & Unreleased Recordings (1975-2013): Celebrating Last Buzz Record Co. (35 Year Anniversary))'
-- 'Dust My Broom (Dust My Broom (Hot Stuff & Rare Tracks! #1))'
-- Rock Me Baby (What a Ride! - 24 Special Tracks 1968-1989)
-- Mojo in My Hand (Mojo in My Hand)
-- Ups and Downs (Mojo in My Hand)
-- Across the Bay Blues (Mojo in My Hand)
+  - Pinetop's Boogie Woogie (Mojo in My Hand)
+  - Ups and Downs (15 Down Home Urban Blues Classics)
+  - Pinetop's Boogie Woogie
+  - Rock Me Baby (What a Ride! - 24 Special Tracks 1968-1989)
+  - >-
+    Summerville Blues (My Sweetest Touch: 22 Great Tracks, Demos, Promos &
+    Unreleased Recordings (1975-2013): Celebrating Last Buzz Record Co. (35 Year
+    Anniversary))
+  - 'Dust My Broom (Dust My Broom (Hot Stuff & Rare Tracks! #1))'
+  - Rock Me Baby (What a Ride! - 24 Special Tracks 1968-1989)
+  - Mojo in My Hand (Mojo in My Hand)
+  - Ups and Downs (Mojo in My Hand)
+  - Across the Bay Blues (Mojo in My Hand)
 external_urls:
-  spotify: https://open.spotify.com/artist/7qzI9d70FMyVwzOrYourKO
-  wikipedia: https://en.wikipedia.org/wiki/L._C._Robinson
+  spotify: 'https://open.spotify.com/artist/7qzI9d70FMyVwzOrYourKO'
+  wikipedia: 'https://en.wikipedia.org/wiki/L._C._Robinson'
 image_path: 03_Resources/source_material/ArtistPortraits/lc_good_rockin_robinson.jpg
 biography_enhanced_at: '2025-11-14T11:05:37.921364'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/L._C._Robinson
-- https://wbssmedia.com/artists/detail/942
-- https://www.allmusic.com/artist/lc-good-rockin-robinson-mn0000878842
-- https://folkways.si.edu/lc-good-rockin-robinson/mojo-in-my-hand/blues/music/album/smithsonian
-- https://www.iheart.com/artist/lc-good-rockin-robinson-30030445/
+  - 'https://en.wikipedia.org/wiki/L._C._Robinson'
+  - 'https://wbssmedia.com/artists/detail/942'
+  - 'https://www.allmusic.com/artist/lc-good-rockin-robinson-mn0000878842'
+  - >-
+    https://folkways.si.edu/lc-good-rockin-robinson/mojo-in-my-hand/blues/music/album/smithsonian
+  - 'https://www.iheart.com/artist/lc-good-rockin-robinson-30030445/'
 network_extracted: true
 entry_created: '2025-11-14T11:05:37.921374'
 last_updated: '2025-12-23T08:16:11.673979'
-
+death_date: '1976-09-26'
+artist_type: person
 ---
 
 ![](lc_good_rockin_robinson.jpg)

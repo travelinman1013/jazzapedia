@@ -5,47 +5,47 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1977-02-21'
-birth_place: Greensboro
+birth_place: 'Greensboro, North Carolina, United States'
 genres:
-- folk
-- americana
+  - folk
+  - americana
 instruments:
-- original
-- background vocals
-- vocal
-- other vocals
-associated_acts:
-- begin: 2005-04
-  end: ''
-  instruments:
   - original
-  mbid: 9278d5f4-993d-403a-8dd8-eb61139274cf
-  name: Carolina Chocolate Drops
-- begin: '2005'
-  end: ''
-  instruments: []
-  mbid: b9fefa70-dae2-4e79-92ec-6cff60326d17
-  name: Sankofa Strings
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2d3b1855-679e-44b4-9294-3c4b705cf6e1
-  name: Our Native Daughters
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1d72f6b5-52de-4403-85a4-9c5465242b3b
-  name: The New Basement Tapes
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ff78a3c8-f75b-4a61-8782-d8a8957169b8
-  name: The Giddens Sisters
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6b94d6b8-7679-4f16-a029-71976d5db90e
-  name: Nashville Cast
+  - background vocals
+  - vocal
+  - other vocals
+associated_acts:
+  - begin: 2005-04
+    end: ''
+    instruments:
+      - original
+    mbid: 9278d5f4-993d-403a-8dd8-eb61139274cf
+    name: Carolina Chocolate Drops
+  - begin: '2005'
+    end: ''
+    instruments: []
+    mbid: b9fefa70-dae2-4e79-92ec-6cff60326d17
+    name: Sankofa Strings
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2d3b1855-679e-44b4-9294-3c4b705cf6e1
+    name: Our Native Daughters
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1d72f6b5-52de-4403-85a4-9c5465242b3b
+    name: The New Basement Tapes
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ff78a3c8-f75b-4a61-8782-d8a8957169b8
+    name: The Giddens Sisters
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6b94d6b8-7679-4f16-a029-71976d5db90e
+    name: Nashville Cast
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/rhiannon_giddens.jpg
   caption: Rhiannon Giddens
@@ -67,65 +67,71 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dom Flemons
-  - Justin Robinson
-  - Francesco Turrisi
-  - Michael Abels
-  - The New Basement Tapes ensemble (Elvis Costello, Marcus Mumford, Jim James, Taylor Goldsmith, et al.)
-  - Carolina Chocolate Drops
-  - Our Native Daughters (Allison Russell, Leyla McCalla, Amythyst Kiah)
-  - Silkroad Ensemble
+    - Dom Flemons
+    - Justin Robinson
+    - Francesco Turrisi
+    - Michael Abels
+    - >-
+      The New Basement Tapes ensemble (Elvis Costello, Marcus Mumford, Jim
+      James, Taylor Goldsmith, et al.)
+    - Carolina Chocolate Drops
+    - 'Our Native Daughters (Allison Russell, Leyla McCalla, Amythyst Kiah)'
+    - Silkroad Ensemble
   influenced:
-  - Allison Russell
-  - Amythyst Kiah
-  - Emerging Black string‑band and old‑time musicians
+    - Allison Russell
+    - Amythyst Kiah
+    - Emerging Black string‑band and old‑time musicians
   mentors:
-  - T Bone Burnett
-  - Joe Thompson
-  - Oberlin Conservatory voice faculty
+    - T Bone Burnett
+    - Joe Thompson
+    - Oberlin Conservatory voice faculty
 spotify_data:
   followers: 174950
   id: 1EI0NtLHoh9KBziYCeN1vM
   popularity: 49
-  url: https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM
+  url: 'https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM'
 discography_enriched: true
 top_tracks:
-- Forever Young - From NBC's Parenthood
-- Mountain Banjo
-- Mountain Hymn
-- Moonlight
-- Marching Jaybird
-- At the Purchaser's Option (Freedom Highway)
-- Wayfaring Stranger (with Francesco Turrisi) (there is no Other (with Francesco Turrisi) [Deluxe Version])
-- Old Corn Liquor (Sinners (Original Motion Picture Soundtrack))
-- Just the Two of Us (feat. Sxip Shirey)
-- Quasheba, Quasheba (Songs of Our Native Daughters)
+  - Forever Young - From NBC's Parenthood
+  - Mountain Banjo
+  - Mountain Hymn
+  - Moonlight
+  - Marching Jaybird
+  - At the Purchaser's Option (Freedom Highway)
+  - >-
+    Wayfaring Stranger (with Francesco Turrisi) (there is no Other (with
+    Francesco Turrisi) [Deluxe Version])
+  - Old Corn Liquor (Sinners (Original Motion Picture Soundtrack))
+  - Just the Two of Us (feat. Sxip Shirey)
+  - 'Quasheba, Quasheba (Songs of Our Native Daughters)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3f7574d9-94f3-46dc-8228-9d7358019d9f
-  spotify: https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM
-  wikipedia: https://en.wikipedia.org/wiki/Rhiannon_Giddens
+  musicbrainz: 'https://musicbrainz.org/artist/3f7574d9-94f3-46dc-8228-9d7358019d9f'
+  spotify: 'https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM'
+  wikipedia: 'https://en.wikipedia.org/wiki/Rhiannon_Giddens'
 image_path: 03_Resources/source_material/ArtistPortraits/rhiannon_giddens.jpg
 biography_enhanced_at: '2025-12-15T01:27:35.803112'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Rhiannon_Giddens
-- https://www.juilliard.edu/stage-beyond/creative-enterprise/creative-associates/rhiannon-giddens
-- https://www.silkroad.org/artists-rhiannon-giddens
-- https://www.redlightmanagement.com/artists/rhiannon-giddens/
-- https://www.uncsa.edu/kenan/artist-as-leader/rhiannon-giddens.aspx
-- https://www.smithsonianmag.com/arts-culture/rhiannon-giddens-american-music-history-21st-century-sound-180971449/
-- https://www.ncarts.org/blog/2018/09/04/50-50-rhiannon-giddens
+  - 'https://en.wikipedia.org/wiki/Rhiannon_Giddens'
+  - >-
+    https://www.juilliard.edu/stage-beyond/creative-enterprise/creative-associates/rhiannon-giddens
+  - 'https://www.silkroad.org/artists-rhiannon-giddens'
+  - 'https://www.redlightmanagement.com/artists/rhiannon-giddens/'
+  - 'https://www.uncsa.edu/kenan/artist-as-leader/rhiannon-giddens.aspx'
+  - >-
+    https://www.smithsonianmag.com/arts-culture/rhiannon-giddens-american-music-history-21st-century-sound-180971449/
+  - 'https://www.ncarts.org/blog/2018/09/04/50-50-rhiannon-giddens'
 network_extracted: true
 entry_created: '2025-12-15T01:27:35.803124'
 last_updated: '2025-12-23T08:16:03.675512'
 gender: Female
 musicbrainz_id: 3f7574d9-94f3-46dc-8228-9d7358019d9f
 tags:
-- americana
-- bluegrass
-- blues
-
+  - americana
+  - bluegrass
+  - blues
+origin: 'Greensboro, North Carolina, United States'
 ---
 
 ![](rhiannon_giddens.jpg)

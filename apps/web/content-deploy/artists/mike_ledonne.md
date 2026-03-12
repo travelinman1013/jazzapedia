@@ -5,38 +5,38 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1956-05-11'
-birth_place: Bridgeport
+birth_place: 'Bridgeport, Connecticut, United States'
 genres:
-- hard bop
-- jazz
+  - hard bop
+  - jazz
 instruments:
-- piano
+  - piano
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 99983412-c4d3-4ce0-90f7-e4611e5f706e
-  name: Vincent Herring's The Story of Jazz Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 917c6047-7e55-44aa-aa72-d99d3c337ebb
-  name: United Hammond Jazz Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: cdd8c6e6-1fbf-4703-8290-2c2126559a15
-  name: The Groover Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 63566f5e-a371-44a4-a50d-c2bab366c7a4
-  name: Mike LeDonne's Big Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b486b900-a987-45e1-9e5f-78309e3f00e1
-  name: The Heavy Hitters
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 99983412-c4d3-4ce0-90f7-e4611e5f706e
+    name: Vincent Herring's The Story of Jazz Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 917c6047-7e55-44aa-aa72-d99d3c337ebb
+    name: United Hammond Jazz Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: cdd8c6e6-1fbf-4703-8290-2c2126559a15
+    name: The Groover Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 63566f5e-a371-44a4-a50d-c2bab366c7a4
+    name: Mike LeDonne's Big Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b486b900-a987-45e1-9e5f-78309e3f00e1
+    name: The Heavy Hitters
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/mike_ledonne.jpg
   caption: Mike LeDonne
@@ -50,7 +50,7 @@ audio_profile:
   danceability_avg: 0.456
   acousticness_avg: 0.696
   instrumentalness_avg: 0.327
-  loudness_avg: -10.0
+  loudness_avg: -10
   speechiness_avg: 0.042
   liveness_avg: 0.333
   track_count: 50
@@ -58,57 +58,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Milt Jackson
-  - Benny Goodman
-  - Eric Alexander
-  - Peter Bernstein
-  - Joe Farnsworth
-  - Lou Donaldson
+    - Milt Jackson
+    - Benny Goodman
+    - Eric Alexander
+    - Peter Bernstein
+    - Joe Farnsworth
+    - Lou Donaldson
   influenced:
-  - Juilliard School students
+    - Juilliard School students
   mentors:
-  - Jaki Byard
-  - John Mehegan
+    - Jaki Byard
+    - John Mehegan
 spotify_data:
   followers: 3001
   id: 5HOZypv3IkaUfwr6UwhOX7
   popularity: 13
-  url: https://open.spotify.com/artist/5HOZypv3IkaUfwr6UwhOX7
+  url: 'https://open.spotify.com/artist/5HOZypv3IkaUfwr6UwhOX7'
 discography_enriched: true
 top_tracks:
-- One for all (Echoes of tomorrow)
-- I'd Never Change a Thing About You (That Feelin')
-- JB (That's What's Up)
-- Blues For All (That's What's Up)
-- Silverdust (Heavy Hitters)
-- That's Whats Up (That's What's Up)
-- Shadows (That's What's Up)
-- Groundation (That's What's Up)
-- It's Magic (That's What's Up)
-- Mutation (Together)
+  - One for all (Echoes of tomorrow)
+  - I'd Never Change a Thing About You (That Feelin')
+  - JB (That's What's Up)
+  - Blues For All (That's What's Up)
+  - Silverdust (Heavy Hitters)
+  - That's Whats Up (That's What's Up)
+  - Shadows (That's What's Up)
+  - Groundation (That's What's Up)
+  - It's Magic (That's What's Up)
+  - Mutation (Together)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/83c1af96-cea2-4500-bfec-f6fa0feb2aeb
-  spotify: https://open.spotify.com/artist/5HOZypv3IkaUfwr6UwhOX7
-  wikipedia: https://en.wikipedia.org/wiki/Mike_LeDonne
+  musicbrainz: 'https://musicbrainz.org/artist/83c1af96-cea2-4500-bfec-f6fa0feb2aeb'
+  spotify: 'https://open.spotify.com/artist/5HOZypv3IkaUfwr6UwhOX7'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mike_LeDonne'
 image_path: 03_Resources/source_material/ArtistPortraits/mike_ledonne.jpg
 biography_enhanced_at: '2025-10-25T10:03:07.239437'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Mike_LeDonne
-- https://www.allaboutjazz.com/musicians/mike-ledonne/
-- https://www.allsolos.com/soloist/180/mike-ledonne
-- https://jazzprofiles.blogspot.com/2021/02/a-conversation-about-jazz-with-mike.html
-- http://mikeledonne.org/about/
+  - 'https://en.wikipedia.org/wiki/Mike_LeDonne'
+  - 'https://www.allaboutjazz.com/musicians/mike-ledonne/'
+  - 'https://www.allsolos.com/soloist/180/mike-ledonne'
+  - >-
+    https://jazzprofiles.blogspot.com/2021/02/a-conversation-about-jazz-with-mike.html
+  - 'http://mikeledonne.org/about/'
 network_extracted: true
 entry_created: '2025-10-25T10:03:07.239442'
 last_updated: '2025-12-23T08:16:13.140811'
 gender: Male
 musicbrainz_id: 83c1af96-cea2-4500-bfec-f6fa0feb2aeb
 tags:
-- hard bop
-- jazz
-- post-bop
+  - hard bop
+  - jazz
+  - post-bop
+origin: 'New York City, New York, United States'
 ---
 
 ![](mike_ledonne.jpg)

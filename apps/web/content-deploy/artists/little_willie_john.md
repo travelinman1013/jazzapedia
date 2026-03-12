@@ -1,15 +1,15 @@
 ---
-title: little willie john
+title: Little Willie John
 wiki_slug: little-willie-john
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1937-11-15'
-birth_place: Cullendale
+birth_place: 'Cullendale, Arkansas, United States'
 death_date: '1968-05-26'
 genres:
-- doo-wop
-- blues
+  - doo-wop
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/little_willie_john.jpg
   caption: little willie john
@@ -32,56 +32,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Paul 'Hucklebuck' Williams
-  - Mertis John Jr.
+    - Paul 'Hucklebuck' Williams
+    - Mertis John Jr.
   influenced:
-  - Fleetwood Mac
-  - The Beatles
-  - Mable John
+    - Fleetwood Mac
+    - The Beatles
+    - Mable John
   mentors:
-  - Henry Glover
-  - Johnnie Otis
-  - B.B. King
+    - Henry Glover
+    - Johnnie Otis
+    - B.B. King
 spotify_data:
   followers: 33854
   id: 3mOiEPe870jJrahcf2TPYZ
   popularity: 33
-  url: https://open.spotify.com/artist/3mOiEPe870jJrahcf2TPYZ
+  url: 'https://open.spotify.com/artist/3mOiEPe870jJrahcf2TPYZ'
 discography_enriched: true
 top_tracks:
-- Need Your Love So Bad (Fever)
-- I'm Shakin' (Sure Things)
-- Fever (Fever)
-- My Love Is (Sure Things)
-- Fever (28 Big Ones)
-- Now You Know (28 Big Ones)
-- You Hurt Me (Fever)
-- No Regrets (In Action!)
-- All Around The World (Fever)
-- You Hurt Me (Love, Life and Money)
+  - Need Your Love So Bad (Fever)
+  - I'm Shakin' (Sure Things)
+  - Fever (Fever)
+  - My Love Is (Sure Things)
+  - Fever (28 Big Ones)
+  - Now You Know (28 Big Ones)
+  - You Hurt Me (Fever)
+  - No Regrets (In Action!)
+  - All Around The World (Fever)
+  - 'You Hurt Me (Love, Life and Money)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d59ce86d-2cc3-49be-be12-3eb4dde6e1ed
-  spotify: https://open.spotify.com/artist/3mOiEPe870jJrahcf2TPYZ
-  wikipedia: https://en.wikipedia.org/wiki/Little_Willie_John
+  musicbrainz: 'https://musicbrainz.org/artist/d59ce86d-2cc3-49be-be12-3eb4dde6e1ed'
+  spotify: 'https://open.spotify.com/artist/3mOiEPe870jJrahcf2TPYZ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Little_Willie_John'
 image_path: 03_Resources/source_material/ArtistPortraits/little_willie_john.jpg
 biography_enhanced_at: '2025-11-14T10:46:37.275808'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.britannica.com/biography/Little-Willie-John
-- https://top40weekly.com/little-willie-john/
-- https://encyclopediaofarkansas.net/entries/little-willie-john-322/
-- https://blues.org/blues_hof_inductee/little-willie-john/
-- https://www.knkx.org/blues/2023-11-25/r-b-singer-little-willie-john-tragic-death-walla-walla-washington
+  - 'https://www.britannica.com/biography/Little-Willie-John'
+  - 'https://top40weekly.com/little-willie-john/'
+  - 'https://encyclopediaofarkansas.net/entries/little-willie-john-322/'
+  - 'https://blues.org/blues_hof_inductee/little-willie-john/'
+  - >-
+    https://www.knkx.org/blues/2023-11-25/r-b-singer-little-willie-john-tragic-death-walla-walla-washington
 network_extracted: true
 entry_created: '2025-11-14T10:46:37.275816'
 last_updated: '2025-12-23T08:16:12.053377'
 gender: Male
 musicbrainz_id: d59ce86d-2cc3-49be-be12-3eb4dde6e1ed
 tags:
-- r&b
-- rhythm & blues
-- soul
+  - r&b
+  - rhythm & blues
+  - soul
+is_active: false
+origin: 'Detroit, Michigan, United States'
 ---
 
 ![](little_willie_john.jpg)

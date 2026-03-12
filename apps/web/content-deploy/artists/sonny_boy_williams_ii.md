@@ -3,17 +3,17 @@ title: Sonny Boy Williams II
 wiki_slug: sonny-boy-williams-ii
 schema_version: 2
 status: active
-birth_place: Glendora, Mississippi, United States
+birth_place: 'Glendora, Mississippi, United States'
 genres:
-- blues
-- classic blues
-- country blues
-- blues rock
+  - blues
+  - classic blues
+  - country blues
+  - blues rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sonny_boy_williams_ii.jpg
   caption: Sonny Boy Williams II
   background: solo_singer
-  origin: Glendora, Mississippi, United States
+  origin: 'Glendora, Mississippi, United States'
 audio_profile:
   tempo_avg: 122.5
   energy_avg: 0.497
@@ -29,57 +29,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Robert Lockwood Jr.
-  - Elmore James
-  - Sunnyland Slim
-  - Howlin’ Wolf
-  - The Yardbirds
-  - The Animals
-  - Jimmy Page
+    - Robert Lockwood Jr.
+    - Elmore James
+    - Sunnyland Slim
+    - Howlin’ Wolf
+    - The Yardbirds
+    - The Animals
+    - Jimmy Page
   influenced:
-  - Paul Butterfield
-  - Eric Clapton
-  - John Mayall
-  - Junior Wells
-  - Jimmy Reed
-  - Frank Frost
+    - Paul Butterfield
+    - Eric Clapton
+    - John Mayall
+    - Junior Wells
+    - Jimmy Reed
+    - Frank Frost
   mentors:
-  - Traditional Mississippi Delta blues community
-  - Robert Johnson / Delta guitar tradition (indirect)
+    - Traditional Mississippi Delta blues community
+    - Robert Johnson / Delta guitar tradition (indirect)
 spotify_data:
   followers: 199941
   id: 69VgCcXFV59QuQWEXSTxfK
   popularity: 47
-  url: https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK
+  url: 'https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK'
 discography_enriched: true
 top_tracks:
-- Help Me (More Real Folk Blues)
-- Bring It On Home (The Real Folk Blues)
-- Don't Start Me To Talkin' (His Best)
-- Checkin' Up On My Baby - Single Version (The Real Folk Blues)
-- Don't Start Me To Talkin' (Down And Out Blues)
-- Nine Below Zero - 1961 Single Version (More Real Folk Blues)
-- Help Me (His Best)
-- Keep It To Yourself (His Best)
-- Your Funeral And My Trial (His Best)
-- One Way Out - Mono Version (The Real Folk Blues)
+  - Help Me (More Real Folk Blues)
+  - Bring It On Home (The Real Folk Blues)
+  - Don't Start Me To Talkin' (His Best)
+  - Checkin' Up On My Baby - Single Version (The Real Folk Blues)
+  - Don't Start Me To Talkin' (Down And Out Blues)
+  - Nine Below Zero - 1961 Single Version (More Real Folk Blues)
+  - Help Me (His Best)
+  - Keep It To Yourself (His Best)
+  - Your Funeral And My Trial (His Best)
+  - One Way Out - Mono Version (The Real Folk Blues)
 external_urls:
-  spotify: https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK
-  wikipedia: https://en.wikipedia.org/wiki/Sonny_Boy_Williamson_II
+  spotify: 'https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sonny_Boy_Williamson_II'
 image_path: 03_Resources/source_material/ArtistPortraits/sonny_boy_williams_ii.jpg
 biography_enhanced_at: '2025-12-11T03:54:18.308089'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Encyclopedia of Arkansas – “Sonny Boy” Williamson II (Aleck Miller)[1]
-- Mississippi Blues Trail – Sonny Boy Williamson marker[2]
-- uDiscover Music – “The Mystery Of The Two Sonny Boy Williamsons”[3]
-- City of Clarksdale artist profile – Sonny Boy Williamson II (Rice Miller)[4]
-- Glenn Weiser, “Rice Miller (Sonny Boy II) – A Biographical Note”[5]
-- Alligator Records artist bio – Sonny Boy Williamson[6]
+  - 'Encyclopedia of Arkansas – “Sonny Boy” Williamson II (Aleck Miller)[1]'
+  - 'Mississippi Blues Trail – Sonny Boy Williamson marker[2]'
+  - 'uDiscover Music – “The Mystery Of The Two Sonny Boy Williamsons”[3]'
+  - 'City of Clarksdale artist profile – Sonny Boy Williamson II (Rice Miller)[4]'
+  - 'Glenn Weiser, “Rice Miller (Sonny Boy II) – A Biographical Note”[5]'
+  - 'Alligator Records artist bio – Sonny Boy Williamson[6]'
 network_extracted: true
 entry_created: '2025-12-11T03:54:18.308098'
 last_updated: '2025-12-23T08:16:15.895360'
+artist_type: person
 ---
 
 ![](sonny_boy_williams_ii.jpg)

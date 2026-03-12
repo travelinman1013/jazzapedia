@@ -3,14 +3,14 @@ title: Lenny McDaniel
 wiki_slug: lenny-mcdaniel
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, USA'
 genres:
-- russelåter
+  - russelåter
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lenny_mcdaniel.jpg
   caption: Lenny McDaniel
   background: solo_singer
-  origin: New Orleans, Louisiana, USA
+  origin: 'New Orleans, Louisiana, USA'
 audio_profile:
   tempo_avg: 117.1
   energy_avg: 0.651
@@ -26,46 +26,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Doug Therrien
-  - Allyn Robinson
+    - Doug Therrien
+    - Allyn Robinson
   influenced:
-  - Marva Wright
-  - Debbie Davies
+    - Marva Wright
+    - Debbie Davies
   mentors:
-  - New Orleans music tradition
+    - New Orleans music tradition
 spotify_data:
   followers: 96
   id: 2i6OfannqetCNoJJxZryP5
   popularity: 0
-  url: https://open.spotify.com/artist/2i6OfannqetCNoJJxZryP5
+  url: 'https://open.spotify.com/artist/2i6OfannqetCNoJJxZryP5'
 discography_enriched: true
 top_tracks:
-- Tired Angels (Tired Angels)
-- The Blues Side (The Blues Side)
-- Permanently Halloween (The Blues Side)
-- Brand New Mambo (The Blues Side)
-- It's Just Not Right (The Blues Side)
-- The Slow Nights (that kill you) (The Blues Side)
-- Southern Rain (The Blues Side)
-- Good People (The Blues Side)
-- Better Late Than Never (The Blues Side)
-- Let's Get Down To Business (The Blues Side)
+  - Tired Angels (Tired Angels)
+  - The Blues Side (The Blues Side)
+  - Permanently Halloween (The Blues Side)
+  - Brand New Mambo (The Blues Side)
+  - It's Just Not Right (The Blues Side)
+  - The Slow Nights (that kill you) (The Blues Side)
+  - Southern Rain (The Blues Side)
+  - Good People (The Blues Side)
+  - Better Late Than Never (The Blues Side)
+  - Let's Get Down To Business (The Blues Side)
 external_urls:
-  spotify: https://open.spotify.com/artist/2i6OfannqetCNoJJxZryP5
+  spotify: 'https://open.spotify.com/artist/2i6OfannqetCNoJJxZryP5'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/lenny_mcdaniel.jpg
 biography_enhanced_at: '2025-10-25T09:55:13.674837'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.offbeat.com/music/lenny-mcdaniel-tired-angels-cafe-au-lait-music-2/
-- https://www.offbeat.com/articles/obituary-lenny-mcdaniel/
-- https://www.legacy.com/us/obituaries/nola/name/leonard-mcdaniel-obituary?id=10092585
-- https://www.allmusic.com/artist/Lenny%20McDaniel-MN0000817279
+  - >-
+    https://www.offbeat.com/music/lenny-mcdaniel-tired-angels-cafe-au-lait-music-2/
+  - 'https://www.offbeat.com/articles/obituary-lenny-mcdaniel/'
+  - >-
+    https://www.legacy.com/us/obituaries/nola/name/leonard-mcdaniel-obituary?id=10092585
+  - 'https://www.allmusic.com/artist/Lenny%20McDaniel-MN0000817279'
 network_extracted: true
 entry_created: '2025-10-25T09:55:13.674849'
 last_updated: '2025-12-23T08:16:11.773694'
-
+origin: 'New Orleans, Louisiana, United States'
+death_date: '2015-07-23'
+artist_type: person
 ---
 
 ![](lenny_mcdaniel.jpg)

@@ -3,13 +3,13 @@ title: Roland Kirk
 wiki_slug: roland-kirk
 schema_version: 2
 status: active
-birth_place: Columbus, Ohio, United States
+birth_place: 'Columbus, Ohio, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Roland_Kirk.jpg
   caption: Roland Kirk
   background: solo_singer
-  origin: Columbus, Ohio, United States
+  origin: 'Columbus, Ohio, United States'
 audio_profile:
   tempo_avg: 120.5
   energy_avg: 0.471
@@ -25,50 +25,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Charles Mingus
-  - Thelonious Monk
-  - John Coltrane
-  - Jimi Hendrix
-  - The Vibration Society
+    - Charles Mingus
+    - Thelonious Monk
+    - John Coltrane
+    - Jimi Hendrix
+    - The Vibration Society
   influenced:
-  - Ian Anderson (Jethro Tull)
-  - David Jackson (Van der Graaf Generator)
-  - Modern jazz and experimental musicians
+    - Ian Anderson (Jethro Tull)
+    - David Jackson (Van der Graaf Generator)
+    - Modern jazz and experimental musicians
   mentors:
-  - Charles Mingus
-  - Edgard Varèse
+    - Charles Mingus
+    - Edgard Varèse
 spotify_data:
   followers: 1190
   id: 71WvLJf84izyCssOrJuUy5
   popularity: 1
-  url: https://open.spotify.com/artist/71WvLJf84izyCssOrJuUy5
+  url: 'https://open.spotify.com/artist/71WvLJf84izyCssOrJuUy5'
 discography_enriched: true
 top_tracks:
-- Soul Station (The Best Of Chess Jazz)
-- Intro - Three for the Festival - Live (Newport 1962 (Live))
-- Nice & Easy - Live (Newport 1962 (Live))
-- Domino - Live (Newport 1962 (Live))
-- Fat Man Please Get Thin - Live (Newport 1962 (Live))
-- Confusions of a Madman - Live (Newport 1962 (Live))
-- Inflated Tear - Outro - Live (Newport 1962 (Live))
-- Skater's Waltz - Remastered (Golden Hits (Remastered))
-- Kirk's Work - Remastered (Golden Hits (Remastered))
-- Funk Underneath - Remastered (Golden Hits (Remastered))
+  - Soul Station (The Best Of Chess Jazz)
+  - Intro - Three for the Festival - Live (Newport 1962 (Live))
+  - Nice & Easy - Live (Newport 1962 (Live))
+  - Domino - Live (Newport 1962 (Live))
+  - Fat Man Please Get Thin - Live (Newport 1962 (Live))
+  - Confusions of a Madman - Live (Newport 1962 (Live))
+  - Inflated Tear - Outro - Live (Newport 1962 (Live))
+  - Skater's Waltz - Remastered (Golden Hits (Remastered))
+  - Kirk's Work - Remastered (Golden Hits (Remastered))
+  - Funk Underneath - Remastered (Golden Hits (Remastered))
 external_urls:
-  spotify: https://open.spotify.com/artist/71WvLJf84izyCssOrJuUy5
-  wikipedia: https://en.wikipedia.org/wiki/Rahsaan_Roland_Kirk
+  spotify: 'https://open.spotify.com/artist/71WvLJf84izyCssOrJuUy5'
+  wikipedia: 'https://en.wikipedia.org/wiki/Rahsaan_Roland_Kirk'
 image_path: 03_Resources/source_material/ArtistPortraits/Roland_Kirk.jpg
 biography_enhanced_at: '2025-10-22T06:49:14.174144'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://wiki.killuglyradio.com/wiki/Roland_Kirk
-- https://www.ebsco.com/research-starters/history/rahsaan-roland-kirk
-- https://www.columbusmonthly.com/story/lifestyle/features/2023/05/25/musician-rahsaan-roland-kirk-one-of-columbus-ohios-greatest-artists/70259023007/
-- https://en.wikipedia.org/wiki/Rahsaan_Roland_Kirk
+  - 'https://wiki.killuglyradio.com/wiki/Roland_Kirk'
+  - 'https://www.ebsco.com/research-starters/history/rahsaan-roland-kirk'
+  - >-
+    https://www.columbusmonthly.com/story/lifestyle/features/2023/05/25/musician-rahsaan-roland-kirk-one-of-columbus-ohios-greatest-artists/70259023007/
+  - 'https://en.wikipedia.org/wiki/Rahsaan_Roland_Kirk'
 network_extracted: true
 entry_created: '2025-10-22T06:49:14.174166'
 last_updated: '2025-12-23T08:16:03.736719'
+birth_date: '1936-08-07'
+artist_type: person
 ---
 
 ![](Roland_Kirk.jpg)

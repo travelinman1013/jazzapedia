@@ -1,16 +1,16 @@
 ---
-title: johnny mastro
+title: Johnny Mastro
 wiki_slug: johnny-mastro
 schema_version: 2
 status: active
-birth_place: Brooklyn, New York City, New York, USA
+birth_place: 'Brooklyn, New York City, New York, USA'
 genres:
-- doo-wop
+  - doo-wop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/johnny_mastro.jpg
   caption: johnny mastro
   background: solo_singer
-  origin: Brooklyn, New York City, New York, USA
+  origin: 'Brooklyn, New York City, New York, USA'
 audio_profile:
   tempo_avg: 134.5
   energy_avg: 0.45
@@ -26,47 +26,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Crests
-  - The Del-Satins
-  - Rhythm Method
+    - The Crests
+    - The Del-Satins
+    - Rhythm Method
   influenced:
-  - Oldies and doo-wop revival acts
+    - Oldies and doo-wop revival acts
   mentors:
-  - Dion DiMucci
+    - Dion DiMucci
 spotify_data:
   followers: 13121
   id: 1pXoY8oTJtPVGsrB4jmCRw
   popularity: 34
-  url: https://open.spotify.com/artist/1pXoY8oTJtPVGsrB4jmCRw
+  url: 'https://open.spotify.com/artist/1pXoY8oTJtPVGsrB4jmCRw'
 discography_enriched: true
 top_tracks:
-- 16 Candles (Troubles in Paradise)
-- 16 Candles (For Collectors Only)
-- Earth Angel (Troubles in Paradise)
-- The Angels Listened In (Troubles in Paradise)
-- Step By Step (Troubles in Paradise)
-- Trouble in Paradise (The Amazing Crests)
-- Earth Angel - Stereo (For Collectors Only)
-- Trouble in Paradise (Troubles in Paradise)
-- In the Still Of the Night (Unreleased Version) (Troubles in Paradise)
-- The Way You Look Tonight (Troubles in Paradise)
+  - 16 Candles (Troubles in Paradise)
+  - 16 Candles (For Collectors Only)
+  - Earth Angel (Troubles in Paradise)
+  - The Angels Listened In (Troubles in Paradise)
+  - Step By Step (Troubles in Paradise)
+  - Trouble in Paradise (The Amazing Crests)
+  - Earth Angel - Stereo (For Collectors Only)
+  - Trouble in Paradise (Troubles in Paradise)
+  - In the Still Of the Night (Unreleased Version) (Troubles in Paradise)
+  - The Way You Look Tonight (Troubles in Paradise)
 external_urls:
-  spotify: https://open.spotify.com/artist/1pXoY8oTJtPVGsrB4jmCRw
-  wikipedia: https://en.wikipedia.org/wiki/Johnny_Maestro
+  spotify: 'https://open.spotify.com/artist/1pXoY8oTJtPVGsrB4jmCRw'
+  wikipedia: 'https://en.wikipedia.org/wiki/Johnny_Maestro'
 image_path: 03_Resources/source_material/ArtistPortraits/johnny_mastro.jpg
 biography_enhanced_at: '2025-10-19T10:38:11.681391'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://jerseygirlssing.com/JohnnyMaestroTribute.html
-- https://www.imdb.com/name/nm0535499/bio/
-- https://www.last.fm/music/Johnny+Maestro+&+The+Brooklyn+Bridge/+wiki
-- https://www.limusichalloffame.org/inductees/johnny-maestro-the-brooklyn-bridge/
-- https://fromthevaults-boppinbob.blogspot.com/2017/05/johnny-maestro-born-7-may-1939.html
-- https://www.cbsnews.com/news/singer-johnny-maestro-loses-cancer-battle/
+  - 'https://jerseygirlssing.com/JohnnyMaestroTribute.html'
+  - 'https://www.imdb.com/name/nm0535499/bio/'
+  - 'https://www.last.fm/music/Johnny+Maestro+&+The+Brooklyn+Bridge/+wiki'
+  - >-
+    https://www.limusichalloffame.org/inductees/johnny-maestro-the-brooklyn-bridge/
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2017/05/johnny-maestro-born-7-may-1939.html
+  - 'https://www.cbsnews.com/news/singer-johnny-maestro-loses-cancer-battle/'
 network_extracted: true
 entry_created: '2025-10-19T10:38:11.681408'
 last_updated: '2025-12-23T08:16:10.871671'
+birth_date: '1939-05-07'
+artist_type: person
 ---
 
 ![](johnny_mastro.jpg)

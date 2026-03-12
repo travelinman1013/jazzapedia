@@ -2,7 +2,7 @@
 title: Nolatet
 wiki_slug: nolatet
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 genres: []
 infobox:
@@ -24,52 +24,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jacob Fred Jazz Odyssey
-  - Garage A Trois
-  - Dead Kenny Gs
+    - Jacob Fred Jazz Odyssey
+    - Garage A Trois
+    - Dead Kenny Gs
   influenced:
-  - Younger New Orleans jazz musicians
+    - Younger New Orleans jazz musicians
   mentors:
-  - Professor Longhair
-  - James Booker
+    - Professor Longhair
+    - James Booker
 spotify_data:
   followers: 4357
   id: 595aNEU6YVFkUuJ3rzFDau
   popularity: 56
-  url: https://open.spotify.com/artist/595aNEU6YVFkUuJ3rzFDau
+  url: 'https://open.spotify.com/artist/595aNEU6YVFkUuJ3rzFDau'
 discography_enriched: true
 top_tracks:
-- Lola (Lola)
-- Lola (Grandes Exitos)
-- TÓCATE (TÓCATE)
-- Mirar de Niña
-- Chica Pokemón (feat. Jedismusic) (Chica Pokemón (feat. Jedismusic))
-- No lo dudes más (Gote Greatest Hits)
-- MUCHO MAS (MUCHO MAS)
-- Gamberra
-- SALSA YIPETA (EL DE LA VOZ EXÓTICA)
-- Jorge Valdivia (Jorge Valdivia)
+  - Lola (Lola)
+  - Lola (Grandes Exitos)
+  - TÓCATE (TÓCATE)
+  - Mirar de Niña
+  - Chica Pokemón (feat. Jedismusic) (Chica Pokemón (feat. Jedismusic))
+  - No lo dudes más (Gote Greatest Hits)
+  - MUCHO MAS (MUCHO MAS)
+  - Gamberra
+  - SALSA YIPETA (EL DE LA VOZ EXÓTICA)
+  - Jorge Valdivia (Jorge Valdivia)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/aa6e0b92-1309-4a63-a3bd-e5282f85e9f9
-  spotify: https://open.spotify.com/artist/595aNEU6YVFkUuJ3rzFDau
+  musicbrainz: 'https://musicbrainz.org/artist/aa6e0b92-1309-4a63-a3bd-e5282f85e9f9'
+  spotify: 'https://open.spotify.com/artist/595aNEU6YVFkUuJ3rzFDau'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/Nolatet.jpg
 biography_enhanced_at: '2025-10-19T11:35:44.393563'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://royalpotatofamily.com/artist/nolatet/
-- https://relix.com/articles/detail/group_at_work_nolatet/
-- https://nolatet.com
-- https://offbeat.com/news/nolatets-maiden-voyage/
-- https://ragman.org/nolatet
-- https://downbeat.com/news/detail/premiere-hear-a-new-cut-from-nolatet-black-sheep
+  - 'https://royalpotatofamily.com/artist/nolatet/'
+  - 'https://relix.com/articles/detail/group_at_work_nolatet/'
+  - 'https://nolatet.com'
+  - 'https://offbeat.com/news/nolatets-maiden-voyage/'
+  - 'https://ragman.org/nolatet'
+  - >-
+    https://downbeat.com/news/detail/premiere-hear-a-new-cut-from-nolatet-black-sheep
 network_extracted: true
 entry_created: '2025-10-19T11:35:44.393575'
 last_updated: '2025-12-23T08:16:03.465678'
 musicbrainz_enriched_at: '2025-10-21T09:39:52.010206'
 musicbrainz_id: aa6e0b92-1309-4a63-a3bd-e5282f85e9f9
-origin: New Orleans, Louisiana, USA
+origin: 'New Orleans, Louisiana, USA'
 ---
 
 ![](Nolatet.jpg)

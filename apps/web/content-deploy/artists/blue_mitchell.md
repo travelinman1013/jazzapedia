@@ -5,73 +5,73 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1930-03-13'
-birth_place: Miami
+birth_place: 'Miami, Florida, United States'
 death_date: '1979-05-21'
 genres:
-- hard bop
-- bebop
-- jazz
-- soul jazz
-- jazz funk
+  - hard bop
+  - bebop
+  - jazz
+  - soul jazz
+  - jazz funk
 instruments:
-- flugelhorn
-- trumpet
-- eponymous
-- original
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - flugelhorn
   - trumpet
-  mbid: 96c12c43-42fc-4cf9-876b-577f9371576a
-  name: The Blue Mitchell Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 34c81ce1-c05e-4dd3-a865-1e09f0aa456a
-  name: Johnny Griffin Sextet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e9ac5139-2da0-4f00-9ac2-c713e3813ff4
-  name: The Horace Silver Quintet
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
-  - trumpet
-  mbid: 96c12c43-42fc-4cf9-876b-577f9371576a
-  name: The Blue Mitchell Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: fd0e891f-7bcd-4fcd-8d11-29c712d23539
-  name: The Riverside Jazz Stars
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: 89ee67f8-06a2-4b62-be53-b1ae40afb2c8
-  name: The Night Blooming Jazzmen
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: 621ab99d-8ecd-4aaa-b219-abdef7b277ee
-  name: The Mitchells
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 43e6c4f1-2c59-4fc6-bcad-51232d012c9c
-  name: The NPG Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: f217c40c-28c5-4d65-995a-01a93ac6482f
-  name: Jimmy McGriff Organ and Blues Band
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - flugelhorn
+      - trumpet
+    mbid: 96c12c43-42fc-4cf9-876b-577f9371576a
+    name: The Blue Mitchell Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 34c81ce1-c05e-4dd3-a865-1e09f0aa456a
+    name: Johnny Griffin Sextet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e9ac5139-2da0-4f00-9ac2-c713e3813ff4
+    name: The Horace Silver Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - trumpet
+    mbid: 96c12c43-42fc-4cf9-876b-577f9371576a
+    name: The Blue Mitchell Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: fd0e891f-7bcd-4fcd-8d11-29c712d23539
+    name: The Riverside Jazz Stars
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: 89ee67f8-06a2-4b62-be53-b1ae40afb2c8
+    name: The Night Blooming Jazzmen
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: 621ab99d-8ecd-4aaa-b219-abdef7b277ee
+    name: The Mitchells
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 43e6c4f1-2c59-4fc6-bcad-51232d012c9c
+    name: The NPG Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: f217c40c-28c5-4d65-995a-01a93ac6482f
+    name: Jimmy McGriff Organ and Blues Band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/blue_mitchell.jpg
   caption: Blue Mitchell
@@ -94,66 +94,68 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Junior Cook
-  - Gene Taylor
-  - Roy Brooks
-  - Chick Corea
-  - Al Foster
-  - Ray Charles
-  - John Mayall
-  - Harold Land
-  - Tony Bennett
-  - Lena Horne
-  - Louie Bellson
-  - Bill Holman
-  - Bill Berry
-  - Lou Donaldson
-  - Kenny Dorham
-  - Jackie McLean
-  - Stanley Turrentine
-  - Nat Adderley
-  - Tina Brooks
-  - Kenny Drew
-  - Freddie Hubbard
-  - Sonny Red
+    - Junior Cook
+    - Gene Taylor
+    - Roy Brooks
+    - Chick Corea
+    - Al Foster
+    - Ray Charles
+    - John Mayall
+    - Harold Land
+    - Tony Bennett
+    - Lena Horne
+    - Louie Bellson
+    - Bill Holman
+    - Bill Berry
+    - Lou Donaldson
+    - Kenny Dorham
+    - Jackie McLean
+    - Stanley Turrentine
+    - Nat Adderley
+    - Tina Brooks
+    - Kenny Drew
+    - Freddie Hubbard
+    - Sonny Red
   influenced: []
   mentors:
-  - Cannonball Adderley
-  - Horace Silver
+    - Cannonball Adderley
+    - Horace Silver
 spotify_data:
   followers: 44998
   id: 420BtT2Zyze7Eb9zqHcliW
   popularity: 37
-  url: https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW
+  url: 'https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW'
 discography_enriched: true
 top_tracks:
-- I'll Close My Eyes (Blue's Moods)
-- When I Fall In Love (Blue's Moods)
-- I Wish I Knew (Blue's Moods)
-- Rigor Mortez - Rudy Van Gelder 24-Bit Mastering/2003 Remaster (Boss Horn (Remastered))
-- Sweet Pumpkin (Blue's Moods)
-- The Head (Blue Soul [Keepnews Collection])
-- Dorado (Graffiti Blues)
-- Blue Soul (Blue Soul [Keepnews Collection])
-- The Folks Who Live On The Hill (Heads Up!)
-- Avars (Blue's Moods)
+  - I'll Close My Eyes (Blue's Moods)
+  - When I Fall In Love (Blue's Moods)
+  - I Wish I Knew (Blue's Moods)
+  - >-
+    Rigor Mortez - Rudy Van Gelder 24-Bit Mastering/2003 Remaster (Boss Horn
+    (Remastered))
+  - Sweet Pumpkin (Blue's Moods)
+  - 'The Head (Blue Soul [Keepnews Collection])'
+  - Dorado (Graffiti Blues)
+  - 'Blue Soul (Blue Soul [Keepnews Collection])'
+  - The Folks Who Live On The Hill (Heads Up!)
+  - Avars (Blue's Moods)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ee287f2c-b209-4edf-acbd-c2fa23e8da40
-  spotify: https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW
-  wikipedia: https://en.wikipedia.org/wiki/Blue_Mitchell
+  musicbrainz: 'https://musicbrainz.org/artist/ee287f2c-b209-4edf-acbd-c2fa23e8da40'
+  spotify: 'https://open.spotify.com/artist/420BtT2Zyze7Eb9zqHcliW'
+  wikipedia: 'https://en.wikipedia.org/wiki/Blue_Mitchell'
 image_path: 03_Resources/source_material/ArtistPortraits/blue_mitchell.jpg
 biography_enhanced_at: '2025-11-28T07:29:27.744768'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Blue Mitchell
-- Rough Trade - Blue Mitchell
-- Concord Records - Blue Mitchell
-- Blue Note Records - Blue Mitchell
-- AllMusic - Blue Mitchell
-- All About Jazz - Blue Mitchell
-- UK Jazz News - Blue Mitchell
-- WBSS Media - Blue Mitchell
+  - Wikipedia - Blue Mitchell
+  - Rough Trade - Blue Mitchell
+  - Concord Records - Blue Mitchell
+  - Blue Note Records - Blue Mitchell
+  - AllMusic - Blue Mitchell
+  - All About Jazz - Blue Mitchell
+  - UK Jazz News - Blue Mitchell
+  - WBSS Media - Blue Mitchell
 network_extracted: true
 entry_created: '2025-11-28T07:29:27.744779'
 last_updated: '2025-12-23T08:16:05.770349'
@@ -161,8 +163,9 @@ disambiguation: American trumpet player
 gender: Male
 musicbrainz_id: ee287f2c-b209-4edf-acbd-c2fa23e8da40
 tags:
-- hard bop
-- jazz
+  - hard bop
+  - jazz
+is_active: false
 ---
 
 ![](blue_mitchell.jpg)

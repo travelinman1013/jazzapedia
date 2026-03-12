@@ -1,43 +1,44 @@
 ---
 biography_enhanced_at: '2026-01-01T01:11:08.714251'
-birth_place: Warren, Ohio, USA
+birth_place: 'Warren, Ohio, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-01T01:11:08.714266'
 external_urls:
-  spotify: https://open.spotify.com/artist/6QqHOrnGMdjtUy7Oyb3cw6
+  spotify: 'https://open.spotify.com/artist/6QqHOrnGMdjtUy7Oyb3cw6'
   wikipedia: ''
 genres:
-- jazz
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/sean_jones.jpg
 last_updated: '2026-01-01T01:11:08.714268'
 musical_connections:
   collaborators:
-  - Marcus Miller
-  - Wynton Marsalis / Jazz at Lincoln Center Orchestra
-  - SFJAZZ Collective
-  - Jimmy Heath
-  - Herbie Hancock
-  - Wayne Shorter
+    - Marcus Miller
+    - Wynton Marsalis / Jazz at Lincoln Center Orchestra
+    - SFJAZZ Collective
+    - Jimmy Heath
+    - Herbie Hancock
+    - Wayne Shorter
   influenced: []
   mentors:
-  - Miles Davis
-  - John Coltrane
-  - Wynton Marsalis
+    - Miles Davis
+    - John Coltrane
+    - Wynton Marsalis
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://peabody.jhu.edu/faculty/sean-jones/
-- https://cso.org/about/performers/visiting-artists/brass/sean-jones/
-- https://saltbaychamberfest.org/sean-jones
-- https://www.clevelandjazz.org/blog/meet-sean-jones
-- https://downbeat.com/news/detail/sean-jones-the-philosophy-of-hard-work
+  - 'https://peabody.jhu.edu/faculty/sean-jones/'
+  - 'https://cso.org/about/performers/visiting-artists/brass/sean-jones/'
+  - 'https://saltbaychamberfest.org/sean-jones'
+  - 'https://www.clevelandjazz.org/blog/meet-sean-jones'
+  - 'https://downbeat.com/news/detail/sean-jones-the-philosophy-of-hard-work'
 spotify_data:
   followers: 8407
   id: 6QqHOrnGMdjtUy7Oyb3cw6
   popularity: 19
-  url: https://open.spotify.com/artist/6QqHOrnGMdjtUy7Oyb3cw6
+  url: 'https://open.spotify.com/artist/6QqHOrnGMdjtUy7Oyb3cw6'
 status: active
-title: sean jones
+title: Sean Jones
+artist_type: person
 ---
 
 ![](sean_jones.jpg)

@@ -3,39 +3,44 @@ biography_enhanced_at: '2025-12-26T01:26:17.318030'
 enhancement_provider: perplexity
 entry_created: '2025-12-26T01:26:17.318048'
 external_urls:
-  spotify: https://open.spotify.com/artist/0mitgHaJKQ52fpQfwUbVnt
-  wikipedia: 'No joint page; individuals: https://en.wikipedia.org/wiki/Lee_Dorsey,
-    https://en.wikipedia.org/wiki/Betty_Harris'
+  spotify: 'https://open.spotify.com/artist/0mitgHaJKQ52fpQfwUbVnt'
+  wikipedia: >-
+    No joint page; individuals: https://en.wikipedia.org/wiki/Lee_Dorsey,
+    https://en.wikipedia.org/wiki/Betty_Harris
 genres:
-- rockabilly
+  - rockabilly
 image_path: ''
 last_updated: '2025-12-26T01:26:17.318051'
 musical_connections:
   collaborators:
-  - Allen Toussaint
-  - The Meters
-  - Betty Harris
+    - Allen Toussaint
+    - The Meters
+    - Betty Harris
   influenced:
-  - Pointer Sisters
+    - Pointer Sisters
   mentors:
-  - Allen Toussaint
-  - Bert Berns
-  - Marshall Sehorn
+    - Allen Toussaint
+    - Bert Berns
+    - Marshall Sehorn
 network_extracted: true
-origin: New Orleans, Louisiana, United States (primary base; Dorsey raised there,
+origin: >-
+  New Orleans, Louisiana, United States (primary base; Dorsey raised there,
   Harris recorded there)
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Betty_Harris
-- https://en.wikipedia.org/wiki/Lee_Dorsey
-- https://rocky-52.net/chanteursd/dorsey_lee.htm
+  - 'https://en.wikipedia.org/wiki/Betty_Harris'
+  - 'https://en.wikipedia.org/wiki/Lee_Dorsey'
+  - 'https://rocky-52.net/chanteursd/dorsey_lee.htm'
 spotify_data:
   followers: 112
   id: 0mitgHaJKQ52fpQfwUbVnt
   popularity: 3
-  url: https://open.spotify.com/artist/0mitgHaJKQ52fpQfwUbVnt
+  url: 'https://open.spotify.com/artist/0mitgHaJKQ52fpQfwUbVnt'
 status: active
 title: Lee Dorsey & Betty Harris
+birth_place: 'Portland, Oregon, United States'
+birth_date: '1939-09-09'
+artist_type: person
 ---
 
 ![]()

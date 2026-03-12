@@ -4,18 +4,18 @@ wiki_slug: the-upsetters
 schema_version: 2
 status: active
 genres:
-- reggae
-- dub
-- rocksteady
-- roots reggae
-- ska
-- ragga
+  - reggae
+  - dub
+  - rocksteady
+  - roots reggae
+  - ska
+  - ragga
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_upsetters.jpg
   caption: The Upsetters
   background: solo_singer
 audio_profile:
-  tempo_avg: 123.0
+  tempo_avg: 123
   energy_avg: 0.578
   valence_avg: 0.732
   danceability_avg: 0.748
@@ -29,52 +29,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bob Marley & The Wailers
-  - Junior Murvin
-  - Max Romeo
-  - The Congos
+    - Bob Marley & The Wailers
+    - Junior Murvin
+    - Max Romeo
+    - The Congos
   influenced:
-  - The Clash
-  - Adrian Sherwood
-  - Countless reggae and dub artists
+    - The Clash
+    - Adrian Sherwood
+    - Countless reggae and dub artists
   mentors:
-  - Coxsone Dodd
+    - Coxsone Dodd
 spotify_data:
   followers: 65794
   id: 12CNljuN6DW9e5x61FS03b
   popularity: 48
-  url: https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b
+  url: 'https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b'
 discography_enriched: true
 top_tracks:
-- Chase The Devil (War Ina Babylon (Expanded Edition))
-- War Ina Babylon (War Ina Babylon (Expanded Edition))
-- One Step Forward (War Ina Babylon (Expanded Edition))
-- Return of Django
-- I Chase the Devil
-- Return Of Django
-- Chase The Devil
-- Croaking Lizard (Super Ape)
-- Dollar in the Teeth
-- Return Of Django
+  - Chase The Devil (War Ina Babylon (Expanded Edition))
+  - War Ina Babylon (War Ina Babylon (Expanded Edition))
+  - One Step Forward (War Ina Babylon (Expanded Edition))
+  - Return of Django
+  - I Chase the Devil
+  - Return Of Django
+  - Chase The Devil
+  - Croaking Lizard (Super Ape)
+  - Dollar in the Teeth
+  - Return Of Django
 external_urls:
-  spotify: https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b
-  wikipedia: https://en.wikipedia.org/wiki/The_Upsetters
+  spotify: 'https://open.spotify.com/artist/12CNljuN6DW9e5x61FS03b'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Upsetters'
 image_path: 03_Resources/source_material/ArtistPortraits/the_upsetters.jpg
 biography_enhanced_at: '2025-11-14T11:10:16.851326'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://reggaegroove.com/lee-scratch-perry-wild-genius/
-- https://store.cali-strong.com/blogs/news/lee-scratch-perry-reggae-dub-ska
-- https://trouserpress.com/reviews/lee-scratch-perry-and-the-upsetters/
-- https://last.fm/music/The+Upsetters/+wiki
-- https://reggaelicious.pbworks.com/w/page/8800217/The%20Upsetters
-- https://stairwayto11.com/posts/rebel-rhythms-the-legacy-of-the-upsetters-in-jamaican-reggae-and-dub-music-01hvmfr96221
-- https://musicbrainz.org/artist/7bcf8b20-72a6-48b1-bad3-b28869090dda
+  - 'https://reggaegroove.com/lee-scratch-perry-wild-genius/'
+  - 'https://store.cali-strong.com/blogs/news/lee-scratch-perry-reggae-dub-ska'
+  - 'https://trouserpress.com/reviews/lee-scratch-perry-and-the-upsetters/'
+  - 'https://last.fm/music/The+Upsetters/+wiki'
+  - 'https://reggaelicious.pbworks.com/w/page/8800217/The%20Upsetters'
+  - >-
+    https://stairwayto11.com/posts/rebel-rhythms-the-legacy-of-the-upsetters-in-jamaican-reggae-and-dub-music-01hvmfr96221
+  - 'https://musicbrainz.org/artist/7bcf8b20-72a6-48b1-bad3-b28869090dda'
 network_extracted: true
 entry_created: '2025-11-14T11:10:16.851334'
 last_updated: '2025-12-23T08:16:17.252310'
-origin: Kingston, Jamaica
+origin: 'Kingston, Jamaica, United States'
+artist_type: band
 ---
 
 ![](the_upsetters.jpg)

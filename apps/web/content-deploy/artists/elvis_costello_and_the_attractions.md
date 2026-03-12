@@ -4,10 +4,11 @@ wiki_slug: elvis-costello-and-the-attractions
 schema_version: 2
 status: active
 genres:
-- new wave
-- power pop
+  - new wave
+  - power pop
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/elvis_costello_and_the_attractions.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/elvis_costello_and_the_attractions.jpg
   caption: Elvis Costello and the Attractions
   background: solo_singer
 audio_profile:
@@ -17,7 +18,7 @@ audio_profile:
   danceability_avg: 0.52
   acousticness_avg: 0.165
   instrumentalness_avg: 0.023
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.046
   liveness_avg: 0.218
   track_count: 49
@@ -25,52 +26,65 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Steve Nieve (Steve Nason)
-  - Pete Thomas
-  - Bruce Thomas
-  - Nick Lowe
+    - Steve Nieve (Steve Nason)
+    - Pete Thomas
+    - Bruce Thomas
+    - Nick Lowe
   influenced:
-  - Rock and Roll Hall of Fame recognition (broad influence on new wave and alternative rock)
+    - >-
+      Rock and Roll Hall of Fame recognition (broad influence on new wave and
+      alternative rock)
   mentors:
-  - Ross McManus
-  - 1960s pop, soul, and country songwriters (e.g., The Beatles, Motown writers, classic country artists)
+    - Ross McManus
+    - >-
+      1960s pop, soul, and country songwriters (e.g., The Beatles, Motown
+      writers, classic country artists)
 spotify_data:
   followers: 317539
   id: 4qmHkMxr6pTWh5Zo74odpH
   popularity: 50
-  url: https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH
+  url: 'https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH'
 discography_enriched: true
 top_tracks:
-- Pump It Up - 2021 Remaster (This Year's Model (2021 Remaster))
-- Oliver's Army (Armed Forces (Super Deluxe Edition))
-- Everyday I Write The Book (Punch The Clock)
-- Good Year For The Roses (Almost Blue)
-- Radio, Radio - 2021 Remaster (This Year's Model (2021 Remaster))
-- Oliver's Army (Armed Forces (Remastered 2020))
-- (I Don't Want To Go To) Chelsea - 2021 Remaster (This Year's Model (2021 Remaster))
-- I Want You (Blood And Chocolate)
-- (What's So Funny 'Bout) Peace, Love And Understanding (Armed Forces (Super Deluxe Edition))
-- Shipbuilding (Punch The Clock)
+  - Pump It Up - 2021 Remaster (This Year's Model (2021 Remaster))
+  - Oliver's Army (Armed Forces (Super Deluxe Edition))
+  - Everyday I Write The Book (Punch The Clock)
+  - Good Year For The Roses (Almost Blue)
+  - 'Radio, Radio - 2021 Remaster (This Year''s Model (2021 Remaster))'
+  - Oliver's Army (Armed Forces (Remastered 2020))
+  - >-
+    (I Don't Want To Go To) Chelsea - 2021 Remaster (This Year's Model (2021
+    Remaster))
+  - I Want You (Blood And Chocolate)
+  - >-
+    (What's So Funny 'Bout) Peace, Love And Understanding (Armed Forces (Super
+    Deluxe Edition))
+  - Shipbuilding (Punch The Clock)
 external_urls:
-  spotify: https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH
-  wikipedia: https://en.wikipedia.org/wiki/The_Attractions
-image_path: 03_Resources/source_material/ArtistPortraits/elvis_costello_and_the_attractions.jpg
+  spotify: 'https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Attractions'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/elvis_costello_and_the_attractions.jpg
 biography_enhanced_at: '2025-12-11T04:18:52.333045'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Elvis+Costello+&+The+Attractions/+wiki
-- https://www.britannica.com/biography/Elvis-Costello
-- https://en.wikipedia.org/wiki/Elvis_Costello
-- https://en.wikipedia.org/wiki/The_Attractions
-- https://rockhall.com/inductees/elvis-costello-attractions/
-- https://www.rhino.com/article/elvis-costello-the-attractions
-- https://www.imdb.com/name/nm0004845/bio/
+  - 'https://www.last.fm/music/Elvis+Costello+&+The+Attractions/+wiki'
+  - 'https://www.britannica.com/biography/Elvis-Costello'
+  - 'https://en.wikipedia.org/wiki/Elvis_Costello'
+  - 'https://en.wikipedia.org/wiki/The_Attractions'
+  - 'https://rockhall.com/inductees/elvis-costello-attractions/'
+  - 'https://www.rhino.com/article/elvis-costello-the-attractions'
+  - 'https://www.imdb.com/name/nm0004845/bio/'
 network_extracted: true
 entry_created: '2025-12-11T04:18:52.333052'
 last_updated: '2025-12-23T08:16:08.356924'
-origin: London, England, United Kingdom (origin of Elvis Costello; The Attractions formed in England though the Last.fm entry
-  lists California as founded location)
+origin: >-
+  London, England, United Kingdom (origin of Elvis Costello; The Attractions
+  formed in England though the Last.fm entry lists California as founded
+  location)
+birth_place: 'London, England, United Kingdom'
+artist_type: band
 ---
 
 ![](elvis_costello_and_the_attractions.jpg)

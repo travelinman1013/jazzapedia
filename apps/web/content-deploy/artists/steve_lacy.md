@@ -5,102 +5,102 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1934-07-23'
-birth_place: New York
+birth_place: 'New York City, New York, United States'
 death_date: '2004-06-04'
 genres: []
 instruments:
-- eponymous
-- original
-- soprano saxophone
-- saxophone
-- spoken vocals
-associated_acts:
-- begin: '1979'
-  end: '1979'
-  instruments:
   - eponymous
   - original
   - soprano saxophone
-  mbid: 6ac51cf5-2b8c-4e13-9e4a-788f8e524b32
-  name: Steve Lacy & Cie
-- begin: ''
-  end: ''
-  instruments:
-  - original
   - saxophone
-  mbid: 00aedbe6-379b-4e07-ab10-5dd09492a339
-  name: Steve Lacy Octet
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  - soprano saxophone
-  mbid: 6076f9c9-ce67-4870-8eec-84db69601c5a
-  name: The Steve Lacy Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1e678f03-c12a-4eb7-ab95-1b542e6d9c4d
-  name: Steve Lacy Seven
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 0971d6b9-5de7-4eab-92ee-d0beeb45ed63
-  name: Steve Lacy + 6
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 46fd2d45-d027-4a21-9f4d-6a8457a5cb14
-  name: Steve Lacy Two
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 77056b69-c256-4561-b0ec-9a8ab070de71
-  name: Steve Lacy Five
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 16741e06-5b5c-441c-88cc-0af521db59d0
-  name: Steve Lacy 6
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 843f2eef-671b-45c4-8781-a0c4569b3815
-  name: Steve Lacy Double Sextet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: ed4b26cb-e71d-42ad-b646-c61419137147
-  name: Steve Lacy+16
-- begin: ''
-  end: ''
-  instruments:
-  - soprano saxophone
-  mbid: 1f4ce030-5cc8-4136-bb38-714d33dfd616
-  name: Cecil Taylor Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 166f303c-a6ac-40e8-9523-8dcb22505e4e
-  name: Antonyms
-- begin: ''
-  end: ''
-  instruments:
-  - soprano saxophone
-  mbid: 7b682d42-1c71-4c92-bafb-37a9e9fb6a83
-  name: Alan Silva and The Celestrial Communication Orchestra
+  - spoken vocals
+associated_acts:
+  - begin: '1979'
+    end: '1979'
+    instruments:
+      - eponymous
+      - original
+      - soprano saxophone
+    mbid: 6ac51cf5-2b8c-4e13-9e4a-788f8e524b32
+    name: Steve Lacy & Cie
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - saxophone
+    mbid: 00aedbe6-379b-4e07-ab10-5dd09492a339
+    name: Steve Lacy Octet
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - soprano saxophone
+    mbid: 6076f9c9-ce67-4870-8eec-84db69601c5a
+    name: The Steve Lacy Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1e678f03-c12a-4eb7-ab95-1b542e6d9c4d
+    name: Steve Lacy Seven
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 0971d6b9-5de7-4eab-92ee-d0beeb45ed63
+    name: Steve Lacy + 6
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 46fd2d45-d027-4a21-9f4d-6a8457a5cb14
+    name: Steve Lacy Two
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 77056b69-c256-4561-b0ec-9a8ab070de71
+    name: Steve Lacy Five
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 16741e06-5b5c-441c-88cc-0af521db59d0
+    name: Steve Lacy 6
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 843f2eef-671b-45c4-8781-a0c4569b3815
+    name: Steve Lacy Double Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: ed4b26cb-e71d-42ad-b646-c61419137147
+    name: Steve Lacy+16
+  - begin: ''
+    end: ''
+    instruments:
+      - soprano saxophone
+    mbid: 1f4ce030-5cc8-4136-bb38-714d33dfd616
+    name: Cecil Taylor Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 166f303c-a6ac-40e8-9523-8dcb22505e4e
+    name: Antonyms
+  - begin: ''
+    end: ''
+    instruments:
+      - soprano saxophone
+    mbid: 7b682d42-1c71-4c92-bafb-37a9e9fb6a83
+    name: Alan Silva and The Celestrial Communication Orchestra
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/steve_lacy.jpg
   caption: Steve Lacy
@@ -123,58 +123,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Irene Aebi
-  - Roswell Rudd
-  - Gil Evans
-  - Kenny Drew
-  - Enrico Rava
-  - Karl Berger
-  - Paul Motian
-  - Bobby Few
-  - Steve Potts
-  - Jean-Jacques Avenel
-  - Ornette Coleman
-  - Kronos String Quartet
+    - Irene Aebi
+    - Roswell Rudd
+    - Gil Evans
+    - Kenny Drew
+    - Enrico Rava
+    - Karl Berger
+    - Paul Motian
+    - Bobby Few
+    - Steve Potts
+    - Jean-Jacques Avenel
+    - Ornette Coleman
+    - Kronos String Quartet
   influenced:
-  - John Coltrane
-  - Multiple saxophonists
+    - John Coltrane
+    - Multiple saxophonists
   mentors:
-  - Cecil Scott
-  - Cecil Taylor
-  - Thelonious Monk
-  - Rex Stewart
+    - Cecil Scott
+    - Cecil Taylor
+    - Thelonious Monk
+    - Rex Stewart
 spotify_data:
   followers: 6534411
   id: 57vWImR43h4CaDao012Ofp
   popularity: 79
-  url: https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp
+  url: 'https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp'
 discography_enriched: true
 top_tracks:
-- Dark Red
-- Bad Habit (Gemini Rights)
-- Infrunami (The Lo-Fis)
-- C U Girl
-- Some
-- 911 / Mr. Lonely (feat. Frank Ocean & Steve Lacy) (Flower Boy)
-- Uuuu (The Lo-Fis)
-- Static (Gemini Rights)
-- Bad Habit
-- N Side (Apollo XXI)
+  - Dark Red
+  - Bad Habit (Gemini Rights)
+  - Infrunami (The Lo-Fis)
+  - C U Girl
+  - Some
+  - 911 / Mr. Lonely (feat. Frank Ocean & Steve Lacy) (Flower Boy)
+  - Uuuu (The Lo-Fis)
+  - Static (Gemini Rights)
+  - Bad Habit
+  - N Side (Apollo XXI)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ca9766a0-1c30-43e6-a213-bac1334efc4a
-  spotify: https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp
+  musicbrainz: 'https://musicbrainz.org/artist/ca9766a0-1c30-43e6-a213-bac1334efc4a'
+  spotify: 'https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp'
   wikipedia: Not provided in search results
 image_path: 03_Resources/source_material/ArtistPortraits/steve_lacy.jpg
 biography_enhanced_at: '2025-12-04T07:36:25.331802'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- African American Registry - Steve Lacy biography
-- MacArthur Foundation - Steve Lacy Fellows profile
-- Western Front - Steve Lacy artist profile
-- All About Jazz - Steve Lacy musician profile
-- Henri Selmer Paris - Steve Lacy artist page
-- Jazz Profiles Blog - Steve Lacy and the Advent of Soprano Sax in Modern Jazz
+  - African American Registry - Steve Lacy biography
+  - MacArthur Foundation - Steve Lacy Fellows profile
+  - Western Front - Steve Lacy artist profile
+  - All About Jazz - Steve Lacy musician profile
+  - Henri Selmer Paris - Steve Lacy artist page
+  - Jazz Profiles Blog - Steve Lacy and the Advent of Soprano Sax in Modern Jazz
 network_extracted: true
 entry_created: '2025-12-04T07:36:25.331808'
 last_updated: '2025-12-23T08:16:16.118313'
@@ -182,9 +182,10 @@ disambiguation: jazz saxophonist and composer 1934–2004
 gender: Male
 musicbrainz_id: ca9766a0-1c30-43e6-a213-bac1334efc4a
 tags:
-- avant-garde jazz
-- free improvisation
-- free jazz
+  - avant-garde jazz
+  - free improvisation
+  - free jazz
+is_active: false
 ---
 
 ![](steve_lacy.jpg)

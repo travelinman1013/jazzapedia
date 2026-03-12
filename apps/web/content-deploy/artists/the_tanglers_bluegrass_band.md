@@ -4,7 +4,7 @@ wiki_slug: the-tanglers-bluegrass-band
 schema_version: 2
 status: active
 genres:
-- bluegrass
+  - bluegrass
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_tanglers_bluegrass_band.jpg
   caption: The Tanglers Bluegrass Band
@@ -24,46 +24,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dylan Williams
-  - Jacob Tanner
-  - Matt Rota
-  - Craig Alexander
-  - Graham Robinson
+    - Dylan Williams
+    - Jacob Tanner
+    - Matt Rota
+    - Craig Alexander
+    - Graham Robinson
   influenced: []
   mentors: []
 spotify_data:
   followers: 90
   id: 1kD5tidevwRv5SGMTyWaJr
   popularity: 0
-  url: https://open.spotify.com/artist/1kD5tidevwRv5SGMTyWaJr
+  url: 'https://open.spotify.com/artist/1kD5tidevwRv5SGMTyWaJr'
 discography_enriched: true
 top_tracks:
-- Hashbrown Blues (Gators In The City)
-- Working In The Coal Mine (Gators In The City)
-- Gators in the City (Gators In The City)
-- Blueglass (Gators In The City)
-- Possum's in the Dog Food (Gators In The City)
-- Getaway Whistle (Gators In The City)
-- Sun Gonna Shine On Me Today (Gators In The City)
-- Philip St. (Gators In The City)
-- Outa Town (Gators In The City)
-- Lonesome Brick (Gators In The City)
+  - Hashbrown Blues (Gators In The City)
+  - Working In The Coal Mine (Gators In The City)
+  - Gators in the City (Gators In The City)
+  - Blueglass (Gators In The City)
+  - Possum's in the Dog Food (Gators In The City)
+  - Getaway Whistle (Gators In The City)
+  - Sun Gonna Shine On Me Today (Gators In The City)
+  - Philip St. (Gators In The City)
+  - Outa Town (Gators In The City)
+  - Lonesome Brick (Gators In The City)
 external_urls:
-  spotify: https://open.spotify.com/artist/1kD5tidevwRv5SGMTyWaJr
+  spotify: 'https://open.spotify.com/artist/1kD5tidevwRv5SGMTyWaJr'
   wikipedia: Not found
 image_path: 03_Resources/source_material/ArtistPortraits/the_tanglers_bluegrass_band.jpg
 biography_enhanced_at: '2025-12-22T01:40:54.101960'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.telluride.com/event/tanglers-bluegrass-band/
-- https://www.louisianamusicfactory.com/product/the-tanglers-bluegrass-band-backwards-burner/
-- https://www.offbeat.com/music/tanglers-bluegrass-band-backwards-burner-independent/
-- https://tanglersbluegrass.com/album/backwards-burner
+  - 'https://www.telluride.com/event/tanglers-bluegrass-band/'
+  - >-
+    https://www.louisianamusicfactory.com/product/the-tanglers-bluegrass-band-backwards-burner/
+  - >-
+    https://www.offbeat.com/music/tanglers-bluegrass-band-backwards-burner-independent/
+  - 'https://tanglersbluegrass.com/album/backwards-burner'
 network_extracted: true
 entry_created: '2025-12-22T01:40:54.101966'
 last_updated: '2025-12-23T08:16:17.212764'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![](the_tanglers_bluegrass_band.jpg)

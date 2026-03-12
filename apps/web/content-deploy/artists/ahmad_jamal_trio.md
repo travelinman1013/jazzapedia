@@ -1,12 +1,12 @@
 ---
-title: AHMAD JAMAL TRIO
+title: Ahmad Jamal Trio
 wiki_slug: ahmad-jamal-trio
 schema_version: 2
 status: active
 genres:
-- jazz
-- cool jazz
-- hard bop
+  - jazz
+  - cool jazz
+  - hard bop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ahmad_jamal_trio.jpg
   caption: AHMAD JAMAL TRIO
@@ -26,49 +26,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Israel Crosby
-  - Vernel Fournier
-  - Ray Crawford
+    - Israel Crosby
+    - Vernel Fournier
+    - Ray Crawford
   influenced:
-  - Miles Davis
-  - Herbie Hancock
-  - Bill Evans
+    - Miles Davis
+    - Herbie Hancock
+    - Bill Evans
   mentors:
-  - Art Tatum
-  - Erroll Garner
+    - Art Tatum
+    - Erroll Garner
 spotify_data:
   followers: 101685
   id: 0BqALs1lInR9TTOulUADH7
   popularity: 46
-  url: https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7
+  url: 'https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7'
 discography_enriched: true
 top_tracks:
-- Dolphin Dance (The Awakening)
-- I Love Music (The Awakening)
-- Stolen Moments (The Awakening)
-- Volga Boatman (Count 'Em 88)
-- The Awakening (The Awakening)
-- 'But Not For Me - Live At The Pershing, Chicago, 1958 (Ahmad Jamal At The Pershing: But Not For Me)'
-- 'Poinciana - Live At The Pershing, Chicago, 1958 (Ahmad Jamal At The Pershing: But Not For Me)'
-- Wave (The Awakening)
-- Patterns (The Awakening)
-- 'Moonlight In Vermont - Live At The Pershing, Chicago, 1958 (Ahmad Jamal At The Pershing: But Not For Me)'
+  - Dolphin Dance (The Awakening)
+  - I Love Music (The Awakening)
+  - Stolen Moments (The Awakening)
+  - Volga Boatman (Count 'Em 88)
+  - The Awakening (The Awakening)
+  - >-
+    But Not For Me - Live At The Pershing, Chicago, 1958 (Ahmad Jamal At The
+    Pershing: But Not For Me)
+  - >-
+    Poinciana - Live At The Pershing, Chicago, 1958 (Ahmad Jamal At The
+    Pershing: But Not For Me)
+  - Wave (The Awakening)
+  - Patterns (The Awakening)
+  - >-
+    Moonlight In Vermont - Live At The Pershing, Chicago, 1958 (Ahmad Jamal At
+    The Pershing: But Not For Me)
 external_urls:
-  spotify: https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7
-  wikipedia: https://en.wikipedia.org/wiki/Ahmad_Jamal
+  spotify: 'https://open.spotify.com/artist/0BqALs1lInR9TTOulUADH7'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ahmad_Jamal'
 image_path: 03_Resources/source_material/ArtistPortraits/ahmad_jamal_trio.jpg
 biography_enhanced_at: '2025-11-24T08:36:28.495606'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Ahmad_Jamal
-- https://ahmadjamal.com/history
-- https://www.arts.gov/honors/jazz/ahmad-jamal
-- https://mosaicrecords.com/the-great-jazz-artists/ahmad-jamal/
+  - 'https://en.wikipedia.org/wiki/Ahmad_Jamal'
+  - 'https://ahmadjamal.com/history'
+  - 'https://www.arts.gov/honors/jazz/ahmad-jamal'
+  - 'https://mosaicrecords.com/the-great-jazz-artists/ahmad-jamal/'
 network_extracted: true
 entry_created: '2025-11-24T08:36:28.495614'
 last_updated: '2025-12-23T08:16:04.410510'
-origin: Pittsburgh, Pennsylvania, United States
+origin: 'Pittsburgh, Pennsylvania, United States'
+birth_place: 'Pittsburgh, Pennsylvania, United States'
+artist_type: band
 ---
 
 ![](ahmad_jamal_trio.jpg)

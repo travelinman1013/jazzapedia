@@ -3,13 +3,17 @@ title: Felbm
 wiki_slug: felbm
 schema_version: 2
 status: active
-birth_place: Zwolle, Overijssel, Netherlands (birthplace); Utrecht, Netherlands (current base/origin)
+birth_place: >-
+  Zwolle, Overijssel, Netherlands (birthplace); Utrecht, Netherlands (current
+  base/origin)
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/felbm.jpg
   caption: Felbm
   background: solo_singer
-  origin: Zwolle, Overijssel, Netherlands (birthplace); Utrecht, Netherlands (current base/origin)
+  origin: >-
+    Zwolle, Overijssel, Netherlands (birthplace); Utrecht, Netherlands (current
+    base/origin)
 audio_profile:
   tempo_avg: 134.2
   energy_avg: 0.419
@@ -25,46 +29,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Knobsticker
-  - Unnamed flute, saxophone, and cello players
-  - maya ongaku
+    - Knobsticker
+    - 'Unnamed flute, saxophone, and cello players'
+    - maya ongaku
   influenced:
-  - No specific artists documented
+    - No specific artists documented
   mentors:
-  - Benny Sings
+    - Benny Sings
 spotify_data:
   followers: 31076
   id: 2kjrM4RpZVRBHy3hjgJCr7
   popularity: 38
-  url: https://open.spotify.com/artist/2kjrM4RpZVRBHy3hjgJCr7
+  url: 'https://open.spotify.com/artist/2kjrM4RpZVRBHy3hjgJCr7'
 discography_enriched: true
 top_tracks:
-- Beaufort (Tape 4)
-- Filatelie (Tape 3)
-- Midori (Tape 4)
-- Filatelie (Tape 3)
-- Tartufai (Tape 3)
-- When It Rains (Tape 2)
-- Beaufort (Tape 4)
-- Funicular (Tape 1)
-- When It Rains (Tape 2)
-- Root (Elements of Nature)
+  - Beaufort (Tape 4)
+  - Filatelie (Tape 3)
+  - Midori (Tape 4)
+  - Filatelie (Tape 3)
+  - Tartufai (Tape 3)
+  - When It Rains (Tape 2)
+  - Beaufort (Tape 4)
+  - Funicular (Tape 1)
+  - When It Rains (Tape 2)
+  - Root (Elements of Nature)
 external_urls:
-  spotify: https://open.spotify.com/artist/2kjrM4RpZVRBHy3hjgJCr7
+  spotify: 'https://open.spotify.com/artist/2kjrM4RpZVRBHy3hjgJCr7'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/felbm.jpg
 biography_enhanced_at: '2025-10-29T16:36:20.624452'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Felbm/+wiki
-- https://banbantonton.com/2021/06/23/interview-felbm-soundway/
-- https://andybeta.substack.com/p/felbm
-- https://www.felbm.com/about
-- https://www.roughtrade.com/us/artist/felbm
+  - 'https://www.last.fm/music/Felbm/+wiki'
+  - 'https://banbantonton.com/2021/06/23/interview-felbm-soundway/'
+  - 'https://andybeta.substack.com/p/felbm'
+  - 'https://www.felbm.com/about'
+  - 'https://www.roughtrade.com/us/artist/felbm'
 network_extracted: true
 entry_created: '2025-10-29T16:36:20.624466'
 last_updated: '2025-12-23T08:16:08.606151'
+origin: 'Utrecht, Netherlands'
+artist_type: person
 ---
 
 ![](felbm.jpg)

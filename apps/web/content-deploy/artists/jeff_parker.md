@@ -3,15 +3,15 @@ title: Jeff Parker
 wiki_slug: jeff-parker
 schema_version: 2
 status: active
-birth_place: Bridgeport, Connecticut, United States
+birth_place: 'Bridgeport, Connecticut, United States'
 genres:
-- free jazz
-- nu jazz
+  - free jazz
+  - nu jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jeff_parker.jpg
   caption: Jeff Parker
   background: solo_singer
-  origin: Bridgeport, Connecticut, United States
+  origin: 'Bridgeport, Connecticut, United States'
 audio_profile:
   tempo_avg: 114.9
   energy_avg: 0.421
@@ -27,54 +27,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tortoise
-  - Isotope 217
-  - Chicago Underground Trio/Quartet
-  - Fred Anderson
-  - George Lewis
-  - Joey DeFrancesco
-  - Bill Callahan (Smog)
+    - Tortoise
+    - Isotope 217
+    - Chicago Underground Trio/Quartet
+    - Fred Anderson
+    - George Lewis
+    - Joey DeFrancesco
+    - Bill Callahan (Smog)
   influenced:
-  - Rob Mazurek
-  - Contemporary Chicago jazz musicians
+    - Rob Mazurek
+    - Contemporary Chicago jazz musicians
   mentors:
-  - Jon Spencer
+    - Jon Spencer
 spotify_data:
   followers: 52338
   id: 3AaY5O1qS0tcNPHwwMwplt
   popularity: 37
-  url: https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt
+  url: 'https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt'
 discography_enriched: true
 top_tracks:
-- Mar de Cirandeiras (Y'Y)
-- Those Who Know (feat. Jeff Parker, Damion Reid & Devin Daniels) (The Eternal)
-- Cliche (The New Breed)
-- Side by Side
-- Henny - Resavoir Remix
-- Freakadelic (The Way Out of Easy)
-- Cliche (The New Breed)
-- Freakadelic (feat. Anna Butterss, Jay Bellerose & Josh Johnson) (The Way Out of Easy)
-- Side by Side
-- Palindrome (feat. Jeff Parker)
+  - Mar de Cirandeiras (Y'Y)
+  - >-
+    Those Who Know (feat. Jeff Parker, Damion Reid & Devin Daniels) (The
+    Eternal)
+  - Cliche (The New Breed)
+  - Side by Side
+  - Henny - Resavoir Remix
+  - Freakadelic (The Way Out of Easy)
+  - Cliche (The New Breed)
+  - >-
+    Freakadelic (feat. Anna Butterss, Jay Bellerose & Josh Johnson) (The Way Out
+    of Easy)
+  - Side by Side
+  - Palindrome (feat. Jeff Parker)
 external_urls:
-  spotify: https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt
-  wikipedia: https://en.wikipedia.org/wiki/Jeff_Parker_(musician)
+  spotify: 'https://open.spotify.com/artist/3AaY5O1qS0tcNPHwwMwplt'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jeff_Parker_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/jeff_parker.jpg
 biography_enhanced_at: '2025-11-14T10:36:18.117777'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jeff_Parker_(musician)
-- https://www.unitedstatesartists.org/artists/jeff-parker
-- https://www.jawfamily.com/jeff-parker
-- https://fr-nt.nl/en/2020/06/16/hoe-jeff-parker-het-verleden-benut-om-vooruit-te-bewegen/
-- https://www.allaboutjazz.com/jeff-parker-reinventing-tradition-jeff-parker-by-jakob-baekgaard
-- https://www.intlanthem.com/artist-bios/jeff-parker
-- https://levidayan.substack.com/p/an-interview-with-jeff-parker
-- https://jeffparkersounds.com
+  - 'https://en.wikipedia.org/wiki/Jeff_Parker_(musician)'
+  - 'https://www.unitedstatesartists.org/artists/jeff-parker'
+  - 'https://www.jawfamily.com/jeff-parker'
+  - >-
+    https://fr-nt.nl/en/2020/06/16/hoe-jeff-parker-het-verleden-benut-om-vooruit-te-bewegen/
+  - >-
+    https://www.allaboutjazz.com/jeff-parker-reinventing-tradition-jeff-parker-by-jakob-baekgaard
+  - 'https://www.intlanthem.com/artist-bios/jeff-parker'
+  - 'https://levidayan.substack.com/p/an-interview-with-jeff-parker'
+  - 'https://jeffparkersounds.com'
 network_extracted: true
 entry_created: '2025-11-14T10:36:18.117787'
 last_updated: '2025-12-23T08:16:10.309571'
+origin: 'Chicago, Illinois, United States'
+birth_date: '1967-04-04'
+artist_type: person
 ---
 
 ![](jeff_parker.jpg)

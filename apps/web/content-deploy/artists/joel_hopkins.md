@@ -1,38 +1,42 @@
 ---
 biography_enhanced_at: '2026-01-06T02:09:36.384308'
-birth_place: Centerville, Texas, USA
+birth_place: 'Centerville, Texas, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-06T02:09:36.384314'
 external_urls:
-  spotify: https://open.spotify.com/artist/3RYzfbUi5t1JDtNgkKfjUV
+  spotify: 'https://open.spotify.com/artist/3RYzfbUi5t1JDtNgkKfjUV'
   wikipedia: ''
 genres:
-- country blues
-- blues
+  - country blues
+  - blues
 image_path: 03_Resources/source_material/ArtistPortraits/joel_hopkins.jpg
 last_updated: '2026-01-06T02:09:36.384315'
 musical_connections:
   collaborators:
-  - Lightnin' Hopkins
-  - John Henry Hopkins
-  - Chris Strachwitz
+    - Lightnin' Hopkins
+    - John Henry Hopkins
+    - Chris Strachwitz
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.wirz.de/music/hopkinsj.htm
-- https://en.wikipedia.org/wiki/Lightning_Hopkins_with_His_Brothers_Joel_and_John_Henry_/_with_Barbara_Dane
-- https://www.allmusic.com/artist/joel-hopkins-mn0000217542
-- https://music.apple.com/us/artist/joel-hopkins/274402123
-- https://blinddogradio.blogspot.com/2022/07/joel-lightnin-hopkins-1959.html
+  - 'https://www.wirz.de/music/hopkinsj.htm'
+  - >-
+    https://en.wikipedia.org/wiki/Lightning_Hopkins_with_His_Brothers_Joel_and_John_Henry_/_with_Barbara_Dane
+  - 'https://www.allmusic.com/artist/joel-hopkins-mn0000217542'
+  - 'https://music.apple.com/us/artist/joel-hopkins/274402123'
+  - 'https://blinddogradio.blogspot.com/2022/07/joel-lightnin-hopkins-1959.html'
 spotify_data:
   followers: 78
   id: 3RYzfbUi5t1JDtNgkKfjUV
   popularity: 0
-  url: https://open.spotify.com/artist/3RYzfbUi5t1JDtNgkKfjUV
+  url: 'https://open.spotify.com/artist/3RYzfbUi5t1JDtNgkKfjUV'
 status: active
-title: JOEL HOPKINS
+title: Joel Hopkins
+birth_date: '1904-01-03'
+death_date: '1975-02-15'
+artist_type: person
 ---
 
 ![](joel_hopkins.jpg)

@@ -1,48 +1,48 @@
 ---
-title: vincent herring
+title: Vincent Herring
 wiki_slug: vincent-herring
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1964-11-19'
-birth_place: Hopkinsville
+birth_place: 'Hopkinsville, Kentucky, United States'
 genres:
-- jazz
-- hard bop
+  - jazz
+  - hard bop
 instruments:
-- alto saxophone
-associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e2a0c084-0648-4ba0-805d-b61e39d7a9b3
-  name: Mingus Big Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 99983412-c4d3-4ce0-90f7-e4611e5f706e
-  name: Vincent Herring's The Story of Jazz Orchestra
-- begin: ''
-  end: ''
-  instruments:
   - alto saxophone
-  mbid: 39111b16-e4d6-40ed-acf8-37cd4311ce2d
-  name: Jimmy Cobb’s So What Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 917c6047-7e55-44aa-aa72-d99d3c337ebb
-  name: United Hammond Jazz Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b486b900-a987-45e1-9e5f-78309e3f00e1
-  name: The Heavy Hitters
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ff0ee1d1-eb58-4cac-934f-bd2799176b7c
-  name: Something Else!
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e2a0c084-0648-4ba0-805d-b61e39d7a9b3
+    name: Mingus Big Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 99983412-c4d3-4ce0-90f7-e4611e5f706e
+    name: Vincent Herring's The Story of Jazz Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - alto saxophone
+    mbid: 39111b16-e4d6-40ed-acf8-37cd4311ce2d
+    name: Jimmy Cobb’s So What Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 917c6047-7e55-44aa-aa72-d99d3c337ebb
+    name: United Hammond Jazz Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b486b900-a987-45e1-9e5f-78309e3f00e1
+    name: The Heavy Hitters
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ff0ee1d1-eb58-4cac-934f-bd2799176b7c
+    name: Something Else!
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/vincent_herring.jpg
   caption: vincent herring
@@ -64,46 +64,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Nat Adderley
-  - Louis Hayes
-  - Cedar Walton
-  - Eric Alexander
-  - Lionel Hampton
+    - Nat Adderley
+    - Louis Hayes
+    - Cedar Walton
+    - Eric Alexander
+    - Lionel Hampton
   influenced:
-  - Numerous jazz students and emerging musicians
+    - Numerous jazz students and emerging musicians
   mentors:
-  - Julian 'Cannonball' Adderley
+    - Julian 'Cannonball' Adderley
 spotify_data:
   followers: 8370
   id: 4vDfWi1S8RneRAgCPOIThL
   popularity: 25
-  url: https://open.spotify.com/artist/4vDfWi1S8RneRAgCPOIThL
+  url: 'https://open.spotify.com/artist/4vDfWi1S8RneRAgCPOIThL'
 discography_enriched: true
 top_tracks:
-- In a Sentimental Mood (Preaching to the Choir)
-- Tenderly (The Uptown Shuffle)
-- O Come, All Ye Faithful
-- Bolivia
-- I'd Never Change a Thing About You (That Feelin')
-- My Romance
-- Have You Met Miss Jones? (Secret Love)
-- Strasbourg/St. Denis (Soul Jazz)
-- Silverdust (Heavy Hitters)
-- Shadows (That's What's Up)
+  - In a Sentimental Mood (Preaching to the Choir)
+  - Tenderly (The Uptown Shuffle)
+  - 'O Come, All Ye Faithful'
+  - Bolivia
+  - I'd Never Change a Thing About You (That Feelin')
+  - My Romance
+  - Have You Met Miss Jones? (Secret Love)
+  - Strasbourg/St. Denis (Soul Jazz)
+  - Silverdust (Heavy Hitters)
+  - Shadows (That's What's Up)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/67b97580-f939-470e-bfa1-c3049f69c342
-  spotify: https://open.spotify.com/artist/4vDfWi1S8RneRAgCPOIThL
-  wikipedia: https://en.wikipedia.org/wiki/Vincent_Herring
+  musicbrainz: 'https://musicbrainz.org/artist/67b97580-f939-470e-bfa1-c3049f69c342'
+  spotify: 'https://open.spotify.com/artist/4vDfWi1S8RneRAgCPOIThL'
+  wikipedia: 'https://en.wikipedia.org/wiki/Vincent_Herring'
 image_path: 03_Resources/source_material/ArtistPortraits/vincent_herring.jpg
 biography_enhanced_at: '2025-11-20T06:41:13.277562'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Vincent_Herring
-- https://kids.kiddle.co/Vincent_Herring
-- https://eng.hotjazz.co.il/portfolio/vincent-herring/
-- https://www.vincentherring.com/bio
-- https://jazztimes.com/features/profiles/vincent-herring-alto-artistry/
+  - 'https://en.wikipedia.org/wiki/Vincent_Herring'
+  - 'https://kids.kiddle.co/Vincent_Herring'
+  - 'https://eng.hotjazz.co.il/portfolio/vincent-herring/'
+  - 'https://www.vincentherring.com/bio'
+  - 'https://jazztimes.com/features/profiles/vincent-herring-alto-artistry/'
 network_extracted: true
 entry_created: '2025-11-20T06:41:13.277570'
 last_updated: '2025-12-23T08:16:17.922661'
@@ -111,8 +111,9 @@ disambiguation: US jazz saxophonist and flautist
 gender: Male
 musicbrainz_id: 67b97580-f939-470e-bfa1-c3049f69c342
 tags:
-- hard bop
-- jazz
+  - hard bop
+  - jazz
+origin: 'New York City, New York, United States'
 ---
 
 ![](vincent_herring.jpg)

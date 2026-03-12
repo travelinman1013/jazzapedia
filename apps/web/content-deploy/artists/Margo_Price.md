@@ -5,20 +5,20 @@ schema_version: 2
 status: active
 aliases: []
 birth_date: '1983-04-15'
-birth_place: Buffalo Prairie
+birth_place: 'Buffalo Prairie, Illinois, United States'
 years_active: 2013-present
 genres:
-- americana
-- alt country
+  - americana
+  - alt country
 instruments:
-- guitar
-- voice
+  - guitar
+  - voice
 occupation:
-- songwriter
-- street artist
-- singer
+  - songwriter
+  - street artist
+  - singer
 record_labels:
-- Third Man Records
+  - Third Man Records
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Margo_Price.jpg
   caption: Margo Price
@@ -32,7 +32,7 @@ audio_profile:
   danceability_avg: 0.541
   acousticness_avg: 0.309
   instrumentalness_avg: 0.008
-  loudness_avg: -7.0
+  loudness_avg: -7
   speechiness_avg: 0.048
   liveness_avg: 0.236
   track_count: 53
@@ -43,32 +43,35 @@ spotify_data:
   followers: 145187
   id: 09yvLritEUxHrzx5TlFvbl
   popularity: 55
-  url: https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl
+  url: 'https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl'
   verified: false
 discography_enriched: true
 albums_count: 8
 singles_count: 31
 top_tracks:
-- Don’t Let The Bastards Get You Down
-- Hurtin' (On the Bottle) (Midwest Farmer's Daughter)
-- Too Stoned To Cry [Feat. Billy Strings]
-- Don't Wake Me Up [Feat. Jesse Welles] (Don't Wake Me Up [Feat. Jesse Welles])
-- Change Of Heart [Feat. Sierra Ferrell]
-- You're an Asshole, I Can't Stand You (and I Want a Divorce) (Stampede)
-- The Finest Line - feat. Margo Price (Heart of the Eternal)
-- Learning to Lose (feat. Willie Nelson) (All American Made)
-- Don’t Let The Bastards Get You Down (Don't Wake Me Up [Feat. Jesse Welles])
-- Hands of Time (Midwest Farmer's Daughter)
+  - Don’t Let The Bastards Get You Down
+  - Hurtin' (On the Bottle) (Midwest Farmer's Daughter)
+  - 'Too Stoned To Cry [Feat. Billy Strings]'
+  - >-
+    Don't Wake Me Up [Feat. Jesse Welles] (Don't Wake Me Up [Feat. Jesse
+    Welles])
+  - 'Change Of Heart [Feat. Sierra Ferrell]'
+  - 'You''re an Asshole, I Can''t Stand You (and I Want a Divorce) (Stampede)'
+  - The Finest Line - feat. Margo Price (Heart of the Eternal)
+  - Learning to Lose (feat. Willie Nelson) (All American Made)
+  - 'Don’t Let The Bastards Get You Down (Don''t Wake Me Up [Feat. Jesse Welles])'
+  - Hands of Time (Midwest Farmer's Daughter)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl
-  wikipedia: https://en.wikipedia.org/wiki/Margo_Price
+  spotify: 'https://open.spotify.com/artist/09yvLritEUxHrzx5TlFvbl'
+  wikipedia: 'https://en.wikipedia.org/wiki/Margo_Price'
 image_path: 03_Resources/source_material/ArtistPortraits/Margo_Price.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-18T15:55:28.308320'
-entry_created: 2025-09-18 15:23:39.619581
+entry_created: 2025-09-18T15:23:39.619Z
 last_updated: '2025-12-23T08:16:03.169913'
-
+artist_type: person
+origin: 'Nashville, Tennessee, United States'
 ---
 
 ![](Margo_Price.jpg)

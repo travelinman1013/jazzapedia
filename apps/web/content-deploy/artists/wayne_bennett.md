@@ -1,17 +1,17 @@
 ---
-title: WAYNE BENNETT
+title: Wayne Bennett
 wiki_slug: wayne-bennett
 schema_version: 2
 status: active
-birth_place: Sulphur, Oklahoma, USA
+birth_place: 'Sulphur, Oklahoma, USA'
 genres:
-- modern blues
-- blues
+  - modern blues
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/wayne_bennett.jpg
   caption: WAYNE BENNETT
   background: solo_singer
-  origin: Sulphur, Oklahoma, USA
+  origin: 'Sulphur, Oklahoma, USA'
 audio_profile:
   tempo_avg: 131.9
   energy_avg: 0.457
@@ -27,52 +27,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bobby Bland
-  - Amos Milburn
-  - Five Blind Boys of Mississippi
-  - Otis Rush
-  - Jimmy Reed
-  - Tyrone Davis
-  - Chi-Lites
-  - Cannonball Adderley
+    - Bobby Bland
+    - Amos Milburn
+    - Five Blind Boys of Mississippi
+    - Otis Rush
+    - Jimmy Reed
+    - Tyrone Davis
+    - Chi-Lites
+    - Cannonball Adderley
   influenced:
-  - Eric Clapton
+    - Eric Clapton
   mentors:
-  - Harry Volpe
-  - Nate Griffin
-  - Junior Mance
-  - Tony Hanson
+    - Harry Volpe
+    - Nate Griffin
+    - Junior Mance
+    - Tony Hanson
 spotify_data:
   followers: 186
   id: 2IJ3JAigmZesIQ7Wc3LPqJ
   popularity: 0
-  url: https://open.spotify.com/artist/2IJ3JAigmZesIQ7Wc3LPqJ
+  url: 'https://open.spotify.com/artist/2IJ3JAigmZesIQ7Wc3LPqJ'
 discography_enriched: true
 top_tracks:
-- Every Night and Every Day (The Chicago Blues Collection)
-- Rockin' (Guitar Star)
-- Drawing On Dry Land (Mojo Boogie)
-- Every Night And Every Day (Mojo Boogie)
-- The Chicken (Rosco Rocks Again)
-- Hello Baby (Rosco Rocks Again)
-- Kansas City (Rosco Rocks Again)
-- I Don't Wanna Die (Rosco Rocks Again)
-- I Got So Many Women (Rosco Rocks Again)
-- Darling, I Really Love You (Rosco Rocks Again)
+  - Every Night and Every Day (The Chicago Blues Collection)
+  - Rockin' (Guitar Star)
+  - Drawing On Dry Land (Mojo Boogie)
+  - Every Night And Every Day (Mojo Boogie)
+  - The Chicken (Rosco Rocks Again)
+  - Hello Baby (Rosco Rocks Again)
+  - Kansas City (Rosco Rocks Again)
+  - I Don't Wanna Die (Rosco Rocks Again)
+  - I Got So Many Women (Rosco Rocks Again)
+  - 'Darling, I Really Love You (Rosco Rocks Again)'
 external_urls:
-  spotify: https://open.spotify.com/artist/2IJ3JAigmZesIQ7Wc3LPqJ
-  wikipedia: https://en.wikipedia.org/wiki/Wayne_Bennett_(blues_guitarist)
+  spotify: 'https://open.spotify.com/artist/2IJ3JAigmZesIQ7Wc3LPqJ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Wayne_Bennett_(blues_guitarist)'
 image_path: ''
 biography_enhanced_at: '2025-12-16T03:17:05.319358'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Wayne_Bennett_(blues_guitarist)
-- https://www.allmusic.com/artist/wayne-bennett-mn0000818215
-- https://sites.google.com/view/oldschoolbluesguitar/home/electric-blues-profiles/wayne-bennett
+  - 'https://en.wikipedia.org/wiki/Wayne_Bennett_(blues_guitarist)'
+  - 'https://www.allmusic.com/artist/wayne-bennett-mn0000818215'
+  - >-
+    https://sites.google.com/view/oldschoolbluesguitar/home/electric-blues-profiles/wayne-bennett
 network_extracted: true
 entry_created: '2025-12-16T03:17:05.319371'
 last_updated: '2025-12-23T08:16:18.032290'
+birth_date: '1932-12-13'
+death_date: '1992-11-28'
+artist_type: person
 ---
 
 ![]()

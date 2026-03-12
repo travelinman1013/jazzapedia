@@ -1,12 +1,12 @@
 ---
-title: KITTY WATERS
+title: Kitty Waters
 wiki_slug: kitty-waters
 schema_version: 2
 status: active
 birth_place: Unknown
 genres:
-- classic blues
-- ragtime
+  - classic blues
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/kitty_waters.jpg
   caption: KITTY WATERS
@@ -33,31 +33,36 @@ spotify_data:
   followers: 37
   id: 7blV5o2XsCVWaBHP8lqGyQ
   popularity: 0
-  url: https://open.spotify.com/artist/7blV5o2XsCVWaBHP8lqGyQ
+  url: 'https://open.spotify.com/artist/7blV5o2XsCVWaBHP8lqGyQ'
 discography_enriched: true
 top_tracks:
-- Back Water Blues (Female Blues Singers Vol. 14 S/T/U/W/Y (1923-1932))
-- Rough House Blues (Female Blues Singers Vol. 14 S/T/U/W/Y (1923-1932))
-- Mean Old Bed Bug Blues (Female Blues Singers Vol. 14 S/T/U/W/Y (1923-1932))
-- Loud And Wrong (Female Blues Singers Vol. 14 S/T/U/W/Y (1923-1932))
-- Back Water Blues (The Roots of Etta James)
-- Back Water Blues (The Roots Of Billie Holiday - Ladies Sing The Blues Of The 1920s)
-- Mean Old Bed Bug Blues (The Roots Of Billie Holiday - Ladies Sing The Blues Of The 1920s)
-- Rough House Blues (Rough House Blues)
-- Back Water Blues (Rough House Blues)
-- Loud and Wrong (Rough House Blues)
+  - Back Water Blues (Female Blues Singers Vol. 14 S/T/U/W/Y (1923-1932))
+  - Rough House Blues (Female Blues Singers Vol. 14 S/T/U/W/Y (1923-1932))
+  - Mean Old Bed Bug Blues (Female Blues Singers Vol. 14 S/T/U/W/Y (1923-1932))
+  - Loud And Wrong (Female Blues Singers Vol. 14 S/T/U/W/Y (1923-1932))
+  - Back Water Blues (The Roots of Etta James)
+  - >-
+    Back Water Blues (The Roots Of Billie Holiday - Ladies Sing The Blues Of The
+    1920s)
+  - >-
+    Mean Old Bed Bug Blues (The Roots Of Billie Holiday - Ladies Sing The Blues
+    Of The 1920s)
+  - Rough House Blues (Rough House Blues)
+  - Back Water Blues (Rough House Blues)
+  - Loud and Wrong (Rough House Blues)
 external_urls:
-  spotify: https://open.spotify.com/artist/7blV5o2XsCVWaBHP8lqGyQ
+  spotify: 'https://open.spotify.com/artist/7blV5o2XsCVWaBHP8lqGyQ'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/kitty_waters.jpg
 biography_enhanced_at: '2025-12-18T02:36:13.894738'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://open.spotify.com/track/4ddXs4h8gPEbCHHl69aMln[4]
+  - 'https://open.spotify.com/track/4ddXs4h8gPEbCHHl69aMln[4]'
 network_extracted: true
 entry_created: '2025-12-18T02:36:13.894747'
 last_updated: '2025-12-23T08:16:11.449260'
+artist_type: person
 ---
 
 ![](kitty_waters.jpg)

@@ -1,47 +1,47 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-04T01:59:10.078417'
 enhancement_provider: perplexity
 entry_created: '2026-01-04T01:59:10.078421'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9c21d546-9625-404d-83e0-df715fbd220b
-  spotify: https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL
+  musicbrainz: 'https://musicbrainz.org/artist/9c21d546-9625-404d-83e0-df715fbd220b'
+  spotify: 'https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL'
   wikipedia: ''
 genres:
-- flamenco
+  - flamenco
 image_path: 03_Resources/source_material/ArtistPortraits/gypsy_lane.jpg
 last_updated: '2026-01-04T01:59:10.078422'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b2fbd0a0-ceb6-43ec-a6e8-3c2d850809b5
-  name: Alfonso Carey
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4c8fe0e1-667d-47bc-b456-4bd72ee7da9a
-  name: Russell Dabney
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: eb4053db-af65-479e-97ab-d4f294df7fb2
-  name: Larry Davis
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ea661987-ce12-431d-b77f-84111597d963
-  name: Jimmy Lee
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b930a834-ceb8-4b3e-b709-0446f6809894
-  name: Rodger Lee
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 446fecd4-c27a-461b-8550-88c71afa5b88
-  name: Nathaniel Wilkie
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b2fbd0a0-ceb6-43ec-a6e8-3c2d850809b5
+    name: Alfonso Carey
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4c8fe0e1-667d-47bc-b456-4bd72ee7da9a
+    name: Russell Dabney
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: eb4053db-af65-479e-97ab-d4f294df7fb2
+    name: Larry Davis
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ea661987-ce12-431d-b77f-84111597d963
+    name: Jimmy Lee
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b930a834-ceb8-4b3e-b709-0446f6809894
+    name: Rodger Lee
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 446fecd4-c27a-461b-8550-88c71afa5b88
+    name: Nathaniel Wilkie
 musical_connections:
   collaborators: []
   influenced: []
@@ -50,14 +50,15 @@ musicbrainz_id: 9c21d546-9625-404d-83e0-df715fbd220b
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://artsparksmusic.com/gypsy-kings-pivotal-force-in-spanish-flamenco-music-with-deep-family-roots/[1]
-- http://www.gipsykings.com/about[2]
-- https://www.gypsylaneband.com/about.html[4]
+  - >-
+    https://artsparksmusic.com/gypsy-kings-pivotal-force-in-spanish-flamenco-music-with-deep-family-roots/[1]
+  - 'http://www.gipsykings.com/about[2]'
+  - 'https://www.gypsylaneband.com/about.html[4]'
 spotify_data:
   followers: 1087729
   id: 3jc496ljiyrS3ECrD7QiqL
   popularity: 68
-  url: https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL
+  url: 'https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL'
 status: active
 title: Gypsy Lane
 ---

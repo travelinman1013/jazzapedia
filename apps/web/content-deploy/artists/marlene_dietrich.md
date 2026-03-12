@@ -2,52 +2,55 @@
 artist_type: person
 biography_enhanced_at: '2026-01-20T01:18:21.326846'
 birth_date: '1901-12-27'
-birth_place: Schöneberg
+birth_place: 'Schöneberg, Berlin, Germany'
 death_date: '1992-05-06'
 disambiguation: actress and singer
 enhancement_provider: perplexity
 entry_created: '2026-01-20T01:18:21.326851'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/191cba6a-b83f-49ca-883c-02b20c7a9dd5
-  spotify: https://open.spotify.com/artist/3UuPzfQMdGK40O8Rj9jqVM
-  wikipedia: https://en.wikipedia.org/wiki/Marlene_Dietrich
+  musicbrainz: 'https://musicbrainz.org/artist/191cba6a-b83f-49ca-883c-02b20c7a9dd5'
+  spotify: 'https://open.spotify.com/artist/3UuPzfQMdGK40O8Rj9jqVM'
+  wikipedia: 'https://en.wikipedia.org/wiki/Marlene_Dietrich'
 gender: Female
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/marlene_dietrich.jpg
 instruments:
-- spoken vocals
+  - spoken vocals
 last_updated: '2026-01-20T01:18:21.326852'
 musical_connections:
   collaborators:
-  - Josef von Sternberg
-  - Burt Bacharach
-  - Rudolf Sieber
+    - Josef von Sternberg
+    - Burt Bacharach
+    - Rudolf Sieber
   influenced:
-  - David Bowie
+    - David Bowie
   mentors:
-  - Max Reinhardt
-  - Josef von Sternberg
+    - Max Reinhardt
+    - Josef von Sternberg
 musicbrainz_id: 191cba6a-b83f-49ca-883c-02b20c7a9dd5
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Marlene_Dietrich
-- https://www.britannica.com/biography/Marlene-Dietrich
-- https://www.deutschland.de/en/topic/culture/marlene-dietrich-hollywood-berlin-world-star
-- https://www.biography.com/actors/marlene-dietrich
-- https://www.queerportraits.com/bio/dietrich
-- https://www.womenshistory.org/education-resources/biographies/marlene-dietrich
+  - 'https://en.wikipedia.org/wiki/Marlene_Dietrich'
+  - 'https://www.britannica.com/biography/Marlene-Dietrich'
+  - >-
+    https://www.deutschland.de/en/topic/culture/marlene-dietrich-hollywood-berlin-world-star
+  - 'https://www.biography.com/actors/marlene-dietrich'
+  - 'https://www.queerportraits.com/bio/dietrich'
+  - >-
+    https://www.womenshistory.org/education-resources/biographies/marlene-dietrich
 spotify_data:
   followers: 66547
   id: 3UuPzfQMdGK40O8Rj9jqVM
   popularity: 40
-  url: https://open.spotify.com/artist/3UuPzfQMdGK40O8Rj9jqVM
+  url: 'https://open.spotify.com/artist/3UuPzfQMdGK40O8Rj9jqVM'
 status: active
 tags:
-- actor
-- cabaret
-- german
+  - actor
+  - cabaret
+  - german
 title: Marlene Dietrich
+is_active: false
 ---
 
 ![](marlene_dietrich.jpg)

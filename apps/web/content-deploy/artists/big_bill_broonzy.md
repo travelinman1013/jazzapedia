@@ -8,79 +8,79 @@ birth_date: '1893-06-26'
 birth_place: Jefferson County
 death_date: '1958-08-15'
 genres:
-- blues
-- country blues
-- classic blues
-- ragtime
+  - blues
+  - country blues
+  - classic blues
+  - ragtime
 instruments:
-- eponymous
-- original
-- guitar
-- acoustic guitar
-- choir vocals
-- vocal
-- lead vocals
+  - eponymous
+  - original
+  - guitar
+  - acoustic guitar
+  - choir vocals
+  - vocal
+  - lead vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 9700b4c7-3e81-4caa-8edb-a779876de026
-  name: Big Bill and His Jug Busters
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: af0e85e7-81c9-4d8a-8b25-81681954a893
-  name: State Street Boys
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 119e8c81-d2b5-4aee-9e5c-66e8b5a3eb56
-  name: Hokum Boys
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e52cccf5-886e-47f3-a96f-bd5664ea6036
-  name: Midnight Ramblers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f5842919-aca7-4ee4-84c3-5cbe42feec39
-  name: Chicago Black Swans
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: b7986283-fd35-40f7-8602-149f601c9059
-  name: Big Bill and The Memphis Five
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: d04344c4-74d6-4747-bf99-57d844563f48
-  name: Big Bill Bronzy and His Rhythm Band
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 2642c553-ce94-4023-98ce-91439ac2a59f
-  name: Big Bill Broonzy & His Big Little Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: d31c0531-c97c-4e9c-9422-4ac6faa1b92e
-  name: Big Bill Broonzy & His Fat Four
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 83efa4ec-4c87-4953-a162-1861f7ec1158
-  name: Famous Hokum Boys
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 9700b4c7-3e81-4caa-8edb-a779876de026
+    name: Big Bill and His Jug Busters
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: af0e85e7-81c9-4d8a-8b25-81681954a893
+    name: State Street Boys
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 119e8c81-d2b5-4aee-9e5c-66e8b5a3eb56
+    name: Hokum Boys
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e52cccf5-886e-47f3-a96f-bd5664ea6036
+    name: Midnight Ramblers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f5842919-aca7-4ee4-84c3-5cbe42feec39
+    name: Chicago Black Swans
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: b7986283-fd35-40f7-8602-149f601c9059
+    name: Big Bill and The Memphis Five
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: d04344c4-74d6-4747-bf99-57d844563f48
+    name: Big Bill Bronzy and His Rhythm Band
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 2642c553-ce94-4023-98ce-91439ac2a59f
+    name: Big Bill Broonzy & His Big Little Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: d31c0531-c97c-4e9c-9422-4ac6faa1b92e
+    name: Big Bill Broonzy & His Fat Four
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 83efa4ec-4c87-4953-a162-1861f7ec1158
+    name: Famous Hokum Boys
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/big_bill_broonzy.jpg
   caption: Big Bill Broonzy
@@ -103,57 +103,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Memphis Slim
-  - Washboard Sam
-  - Jazz Gillum
+    - Memphis Slim
+    - Washboard Sam
+    - Jazz Gillum
   influenced:
-  - Muddy Waters
-  - Eric Clapton
-  - Keith Richards
+    - Muddy Waters
+    - Eric Clapton
+    - Keith Richards
   mentors:
-  - Papa Charlie Jackson
+    - Papa Charlie Jackson
 spotify_data:
   followers: 64121
   id: 6HwigzRpuWoCZDqMOQc5eu
   popularity: 28
-  url: https://open.spotify.com/artist/6HwigzRpuWoCZDqMOQc5eu
+  url: 'https://open.spotify.com/artist/6HwigzRpuWoCZDqMOQc5eu'
 discography_enriched: true
 top_tracks:
-- Glory of Love (Big Bill Broonzy Sings Folk Songs)
-- 'Get Back (Volume 3: The War And Postwar Years 1949 - 1951)'
-- Hey, Hey Baby (Trouble in Mind)
-- Get Back
-- This Train (Big Bill Broonzy Sings Folk Songs)
-- Key to the Highway (Trouble in Mind)
-- When Things Go Wrong (It Hurts Me Too) (Trouble in Mind)
-- Black, Brown and White (Trouble in Mind)
-- 'Hey Hey (Volume 3: The War And Postwar Years 1949 - 1951)'
-- Bill Bailey (Big Bill Broonzy Sings Folk Songs)
+  - Glory of Love (Big Bill Broonzy Sings Folk Songs)
+  - 'Get Back (Volume 3: The War And Postwar Years 1949 - 1951)'
+  - 'Hey, Hey Baby (Trouble in Mind)'
+  - Get Back
+  - This Train (Big Bill Broonzy Sings Folk Songs)
+  - Key to the Highway (Trouble in Mind)
+  - When Things Go Wrong (It Hurts Me Too) (Trouble in Mind)
+  - 'Black, Brown and White (Trouble in Mind)'
+  - 'Hey Hey (Volume 3: The War And Postwar Years 1949 - 1951)'
+  - Bill Bailey (Big Bill Broonzy Sings Folk Songs)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/05bc49f8-3108-44c8-82b9-ac3254896a69
-  spotify: https://open.spotify.com/artist/6HwigzRpuWoCZDqMOQc5eu
-  wikipedia: https://en.wikipedia.org/wiki/Big_Bill_Broonzy
+  musicbrainz: 'https://musicbrainz.org/artist/05bc49f8-3108-44c8-82b9-ac3254896a69'
+  spotify: 'https://open.spotify.com/artist/6HwigzRpuWoCZDqMOQc5eu'
+  wikipedia: 'https://en.wikipedia.org/wiki/Big_Bill_Broonzy'
 image_path: 03_Resources/source_material/ArtistPortraits/big_bill_broonzy.jpg
 biography_enhanced_at: '2025-11-08T21:58:20.590156'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Big_Bill_Broonzy
-- https://blues.org/blues_hof_inductee/big-bill-broonzy/
-- https://www.britannica.com/biography/Big-Bill-Broonzy
-- https://www.culturalequity.org/alan-lomax/friends/broonzy
-- https://www.broonzy.com
-- https://encyclopediaofarkansas.net/entries/big-bill-broonzy-2489/
-- https://www.udiscovermusic.com/stories/big-bill-broonzy-a-sadly-neglected-blues-hero/
+  - 'https://en.wikipedia.org/wiki/Big_Bill_Broonzy'
+  - 'https://blues.org/blues_hof_inductee/big-bill-broonzy/'
+  - 'https://www.britannica.com/biography/Big-Bill-Broonzy'
+  - 'https://www.culturalequity.org/alan-lomax/friends/broonzy'
+  - 'https://www.broonzy.com'
+  - 'https://encyclopediaofarkansas.net/entries/big-bill-broonzy-2489/'
+  - >-
+    https://www.udiscovermusic.com/stories/big-bill-broonzy-a-sadly-neglected-blues-hero/
 network_extracted: true
 entry_created: '2025-11-08T21:58:20.590174'
 last_updated: '2025-12-23T08:16:05.414253'
 gender: Male
 musicbrainz_id: 05bc49f8-3108-44c8-82b9-ac3254896a69
 tags:
-- 2008 universal fire victim
-- acoustic blues
-- acoustic chicago blues
+  - 2008 universal fire victim
+  - acoustic blues
+  - acoustic chicago blues
+is_active: false
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](big_bill_broonzy.jpg)

@@ -1,13 +1,13 @@
 ---
-title: OSCAR PETERSON TRIO
+title: Oscar Peterson Trio
 wiki_slug: oscar-peterson-trio
 schema_version: 2
 status: active
 genres:
-- jazz
-- cool jazz
-- bebop
-- hard bop
+  - jazz
+  - cool jazz
+  - bebop
+  - hard bop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/oscar_peterson_trio.jpg
   caption: OSCAR PETERSON TRIO
@@ -27,56 +27,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ray Brown
-  - Herb Ellis
-  - Barney Kessel
-  - Ed Thigpen
-  - Joe Pass
-  - Niels-Henning Ørsted Pedersen
-  - Norman Granz
-  - Ella Fitzgerald
-  - Louis Armstrong
+    - Ray Brown
+    - Herb Ellis
+    - Barney Kessel
+    - Ed Thigpen
+    - Joe Pass
+    - Niels-Henning Ørsted Pedersen
+    - Norman Granz
+    - Ella Fitzgerald
+    - Louis Armstrong
   influenced:
-  - Herbie Hancock
-  - Chick Corea
-  - Diana Krall
+    - Herbie Hancock
+    - Chick Corea
+    - Diana Krall
   mentors:
-  - Art Tatum
-  - Nat King Cole
+    - Art Tatum
+    - Nat King Cole
 spotify_data:
   followers: 220807
   id: 0ldU0QJm31y0d6f57R1G2A
   popularity: 60
-  url: https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A
+  url: 'https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A'
 discography_enriched: true
 top_tracks:
-- I Got It Bad And That Ain't Good (Night Train (Expanded Edition))
-- There Will Never Be Another You (The President Plays With The Oscar Peterson Trio)
-- Georgia On My Mind (Night Train (Expanded Edition))
-- Quiet Nights Of Quiet Stars (Corcovado)
-- I Can't Get Started (The President Plays With The Oscar Peterson Trio)
-- All Of Me (A Jazz Portrait Of Frank Sinatra)
-- Stardust (The President Plays With The Oscar Peterson Trio)
-- C Jam Blues (Night Train (Expanded Edition))
-- Easy Does It (Night Train (Expanded Edition))
-- Night Train (Night Train (Expanded Edition))
+  - I Got It Bad And That Ain't Good (Night Train (Expanded Edition))
+  - >-
+    There Will Never Be Another You (The President Plays With The Oscar Peterson
+    Trio)
+  - Georgia On My Mind (Night Train (Expanded Edition))
+  - Quiet Nights Of Quiet Stars (Corcovado)
+  - I Can't Get Started (The President Plays With The Oscar Peterson Trio)
+  - All Of Me (A Jazz Portrait Of Frank Sinatra)
+  - Stardust (The President Plays With The Oscar Peterson Trio)
+  - C Jam Blues (Night Train (Expanded Edition))
+  - Easy Does It (Night Train (Expanded Edition))
+  - Night Train (Night Train (Expanded Edition))
 external_urls:
-  spotify: https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A
-  wikipedia: https://en.wikipedia.org/wiki/Oscar_Peterson
+  spotify: 'https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A'
+  wikipedia: 'https://en.wikipedia.org/wiki/Oscar_Peterson'
 image_path: 03_Resources/source_material/ArtistPortraits/oscar_peterson_trio.jpg
 biography_enhanced_at: '2025-11-24T08:37:17.304331'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://interlude.hk/oscar-peterson-1925-2007-maharaja-of-the-keyboard/
-- https://gregtivis.com/articles/Oscar-Peterson.php
-- https://en.wikipedia.org/wiki/Oscar_Peterson
-- https://jazzstandards.com/biographies/biography_2375.htm
+  - 'https://interlude.hk/oscar-peterson-1925-2007-maharaja-of-the-keyboard/'
+  - 'https://gregtivis.com/articles/Oscar-Peterson.php'
+  - 'https://en.wikipedia.org/wiki/Oscar_Peterson'
+  - 'https://jazzstandards.com/biographies/biography_2375.htm'
 network_extracted: true
 entry_created: '2025-11-24T08:37:17.304335'
 last_updated: '2025-12-23T08:16:13.846420'
-origin: Montreal, Quebec, Canada
-
+origin: 'Montreal, Quebec, Canada'
+birth_place: 'Montreal, Quebec, Canada'
+artist_type: band
 ---
 
 ![](oscar_peterson_trio.jpg)

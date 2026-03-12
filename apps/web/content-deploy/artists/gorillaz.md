@@ -2,30 +2,30 @@
 title: Gorillaz
 wiki_slug: gorillaz
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
-birth_date: '1999'
+birth_date: '1998'
 genres: []
 instruments:
-- guitar
-- original
-- keyboard
-- lead vocals
-- melodica
-- drums (drum set)
-- membranophone
-- percussion
-- bass guitar
-- drum machine
-- background vocals
-- spoken vocals
-- additional
-- turntable
-- guitar family
-- bass
-- electric guitar
-- piano
-- acoustic guitar
+  - guitar
+  - original
+  - keyboard
+  - lead vocals
+  - melodica
+  - drums (drum set)
+  - membranophone
+  - percussion
+  - bass guitar
+  - drum machine
+  - background vocals
+  - spoken vocals
+  - additional
+  - turntable
+  - guitar family
+  - bass
+  - electric guitar
+  - piano
+  - acoustic guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/gorillaz.jpg
   caption: Gorillaz
@@ -46,138 +46,142 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Damon Albarn
-  - Jamie Hewlett
-  - De La Soul
-  - Bobby Womack
-  - Lou Reed
-  - Little Dragon
+    - Damon Albarn
+    - Jamie Hewlett
+    - De La Soul
+    - Bobby Womack
+    - Lou Reed
+    - Little Dragon
   influenced:
-  - Subsequent virtual and multimedia music projects
-  - Artists mixing animation, comics, and music branding
+    - Subsequent virtual and multimedia music projects
+    - 'Artists mixing animation, comics, and music branding'
   mentors:
-  - Hip hop and trip-hop pioneers (e.g., De La Soul, Massive Attack)
-  - Dub, reggae, and world-music traditions
-  - Cartoon and virtual entertainment (e.g., Alvin and the Chipmunks, The Muppet Show)
+    - 'Hip hop and trip-hop pioneers (e.g., De La Soul, Massive Attack)'
+    - 'Dub, reggae, and world-music traditions'
+    - >-
+      Cartoon and virtual entertainment (e.g., Alvin and the Chipmunks, The
+      Muppet Show)
 spotify_data:
   followers: 14829604
   id: 3AA28KZvwAUcZuOKwyblJQ
   popularity: 84
-  url: https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ
+  url: 'https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ'
 discography_enriched: true
 top_tracks:
-- Feel Good Inc. (Demon Days)
-- On Melancholy Hill (Plastic Beach)
-- DARE (Demon Days)
-- Clint Eastwood (Gorillaz)
-- Rhinestone Eyes (Plastic Beach)
-- She's My Collar (feat. Kali Uchis) (Humanz (Deluxe))
-- Dirty Harry (Demon Days)
-- Clint Eastwood (Gorillaz)
-- New Gold (feat. Tame Impala and Bootie Brown) (Cracker Island)
-- Empire Ants (feat. Little Dragon) (Plastic Beach)
+  - Feel Good Inc. (Demon Days)
+  - On Melancholy Hill (Plastic Beach)
+  - DARE (Demon Days)
+  - Clint Eastwood (Gorillaz)
+  - Rhinestone Eyes (Plastic Beach)
+  - She's My Collar (feat. Kali Uchis) (Humanz (Deluxe))
+  - Dirty Harry (Demon Days)
+  - Clint Eastwood (Gorillaz)
+  - New Gold (feat. Tame Impala and Bootie Brown) (Cracker Island)
+  - Empire Ants (feat. Little Dragon) (Plastic Beach)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e21857d5-3256-4547-afb3-4b6ded592596
-  spotify: https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ
-  wikipedia: https://en.wikipedia.org/wiki/Gorillaz
+  musicbrainz: 'https://musicbrainz.org/artist/e21857d5-3256-4547-afb3-4b6ded592596'
+  spotify: 'https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Gorillaz'
 image_path: 03_Resources/source_material/ArtistPortraits/gorillaz.jpg
 biography_enhanced_at: '2025-12-10T05:22:44.943026'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Gorillaz
-- https://www.last.fm/music/Gorillaz/+wiki
-- https://articles.roland.com/gorillaz-at-20-the-story-of-the-virtual-bands-debut/
-- https://www.therevolverclub.com/blogs/the-revolver-club/gorillaz-the-story-of-one-of-the-most-successful-virtual-bands-in-the-world
-- https://www.soundoflife.com/blogs/mixtape/gorillaz-band
-- https://gorillazforbeginners.com/phase-1/
+  - 'https://en.wikipedia.org/wiki/Gorillaz'
+  - 'https://www.last.fm/music/Gorillaz/+wiki'
+  - >-
+    https://articles.roland.com/gorillaz-at-20-the-story-of-the-virtual-bands-debut/
+  - >-
+    https://www.therevolverclub.com/blogs/the-revolver-club/gorillaz-the-story-of-one-of-the-most-successful-virtual-bands-in-the-world
+  - 'https://www.soundoflife.com/blogs/mixtape/gorillaz-band'
+  - 'https://gorillazforbeginners.com/phase-1/'
 network_extracted: true
 entry_created: '2025-12-10T05:22:44.943034'
 last_updated: '2025-12-23T08:16:09.276060'
 disambiguation: virtual band
 members:
-- begin: '1998'
-  end: '2000'
-  instruments:
-  - guitar
-  - original
-  mbid: 11d42122-a4b8-4b0f-a7b1-5811032e008c
-  name: Paula Cracker
-- &id001
-  begin: '1998'
-  end: ''
-  instruments:
-  - keyboard
-  - lead vocals
-  - melodica
-  - original
-  mbid: 583f2f7b-a29d-4378-9e7c-454d114be30d
-  name: 2D
-- &id002
-  begin: '1998'
-  end: ''
-  instruments:
-  - drums (drum set)
-  - membranophone
-  - original
-  - percussion
-  mbid: ddc1ff36-41f7-4681-95be-3fe34c8dd53c
-  name: Russel Hobbs
-- &id003
-  begin: '1998'
-  end: ''
-  instruments:
-  - bass guitar
-  - drum machine
-  - original
-  mbid: 6ff7e6e2-f4bb-406a-aa4b-7afa615a389f
-  name: Murdoc Niccals
-- &id004
-  begin: '1998'
-  end: ''
-  instruments:
-  - background vocals
-  - guitar
-  - keyboard
-  - original
-  mbid: b88e3a88-3e87-4e83-8a70-6300b9fe15f1
-  name: Noodle
-- begin: '2000'
-  end: '2003'
-  instruments:
-  - spoken vocals
-  mbid: 1637b0db-7253-45a2-b16f-6445c8959243
-  name: Del Tha Ghost Rapper
-- begin: '2001'
-  end: '2006'
-  instruments:
-  - additional
-  - turntable
-  mbid: a45fc2f8-4a32-4be9-9d4a-894eda9be537
-  name: DJ D-Zire
-- begin: '2010'
-  end: '2011'
-  instruments:
-  - guitar family
-  mbid: 679c4c44-588c-4f3e-b393-c52e6cc1c391
-  name: Cyborg Noodle
-- begin: '2018'
-  end: '2018'
-  instruments:
-  - bass
-  mbid: 7d882cef-3747-4a29-b14f-c3a2851e7de4
-  name: Ace
+  - begin: '1998'
+    end: '2000'
+    instruments:
+      - guitar
+      - original
+    mbid: 11d42122-a4b8-4b0f-a7b1-5811032e008c
+    name: Paula Cracker
+  - &ref_0
+    begin: '1998'
+    end: ''
+    instruments:
+      - keyboard
+      - lead vocals
+      - melodica
+      - original
+    mbid: 583f2f7b-a29d-4378-9e7c-454d114be30d
+    name: 2D
+  - &ref_1
+    begin: '1998'
+    end: ''
+    instruments:
+      - drums (drum set)
+      - membranophone
+      - original
+      - percussion
+    mbid: ddc1ff36-41f7-4681-95be-3fe34c8dd53c
+    name: Russel Hobbs
+  - &ref_2
+    begin: '1998'
+    end: ''
+    instruments:
+      - bass guitar
+      - drum machine
+      - original
+    mbid: 6ff7e6e2-f4bb-406a-aa4b-7afa615a389f
+    name: Murdoc Niccals
+  - &ref_3
+    begin: '1998'
+    end: ''
+    instruments:
+      - background vocals
+      - guitar
+      - keyboard
+      - original
+    mbid: b88e3a88-3e87-4e83-8a70-6300b9fe15f1
+    name: Noodle
+  - begin: '2000'
+    end: '2003'
+    instruments:
+      - spoken vocals
+    mbid: 1637b0db-7253-45a2-b16f-6445c8959243
+    name: Del Tha Ghost Rapper
+  - begin: '2001'
+    end: '2006'
+    instruments:
+      - additional
+      - turntable
+    mbid: a45fc2f8-4a32-4be9-9d4a-894eda9be537
+    name: DJ D-Zire
+  - begin: '2010'
+    end: '2011'
+    instruments:
+      - guitar family
+    mbid: 679c4c44-588c-4f3e-b393-c52e6cc1c391
+    name: Cyborg Noodle
+  - begin: '2018'
+    end: '2018'
+    instruments:
+      - bass
+    mbid: 7d882cef-3747-4a29-b14f-c3a2851e7de4
+    name: Ace
 musicbrainz_id: e21857d5-3256-4547-afb3-4b6ded592596
-origin: Essex
+origin: 'Essex, England, United Kingdom'
 original_members:
-- *id001
-- *id002
-- *id003
-- *id004
+  - *ref_0
+  - *ref_1
+  - *ref_2
+  - *ref_3
 tags:
-- alternative dance
-- alternative rock
-- art pop
+  - alternative dance
+  - alternative rock
+  - art pop
 ---
 
 ![](gorillaz.jpg)

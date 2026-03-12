@@ -4,11 +4,12 @@ wiki_slug: louis-armstrong-red-allen
 schema_version: 2
 status: active
 genres:
-- ragtime
-- swing music
-- big band
+  - ragtime
+  - swing music
+  - big band
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/louis_armstrong_and_red_allen.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/louis_armstrong_and_red_allen.jpg
   caption: Louis Armstrong & Red Allen
   background: solo_singer
 audio_profile:
@@ -26,49 +27,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Luis Russell
-  - Fletcher Henderson
-  - Coleman Hawkins
+    - Luis Russell
+    - Fletcher Henderson
+    - Coleman Hawkins
   influenced:
-  - Roy Eldridge
-  - Dizzy Gillespie
-  - Miles Davis
+    - Roy Eldridge
+    - Dizzy Gillespie
+    - Miles Davis
   mentors:
-  - King Oliver
+    - King Oliver
 spotify_data:
   followers: 47
   id: 1YzeQYM0Bgl6E3TfijamjE
   popularity: 0
-  url: https://open.spotify.com/artist/1YzeQYM0Bgl6E3TfijamjE
+  url: 'https://open.spotify.com/artist/1YzeQYM0Bgl6E3TfijamjE'
 discography_enriched: true
 top_tracks:
-- Great Day (The Jubilee Shows No. 21 & No. 22)
-- On The Sunny Side Of The Street (The Jubilee Shows No. 21 & No. 22)
-- Leap Frog (The Jubilee Shows No. 21 & No. 22)
-- Comedy Skit (The Jubilee Shows No. 21 & No. 22)
-- Dear Old Southland (The Jubilee Shows No. 21 & No. 22)
-- Drum Stomp (The Jubilee Shows No. 21 & No. 22)
-- Stormy Weather (The Jubilee Shows No. 21 & No. 22)
-- Ol' Man Mose (The Jubilee Shows No. 21 & No. 22)
-- Great Day (The Jubilee Shows No. 21 & No. 22)
-- Dear Old Southland (The Jubilee Shows No. 21 & No. 22)
+  - Great Day (The Jubilee Shows No. 21 & No. 22)
+  - On The Sunny Side Of The Street (The Jubilee Shows No. 21 & No. 22)
+  - Leap Frog (The Jubilee Shows No. 21 & No. 22)
+  - Comedy Skit (The Jubilee Shows No. 21 & No. 22)
+  - Dear Old Southland (The Jubilee Shows No. 21 & No. 22)
+  - Drum Stomp (The Jubilee Shows No. 21 & No. 22)
+  - Stormy Weather (The Jubilee Shows No. 21 & No. 22)
+  - Ol' Man Mose (The Jubilee Shows No. 21 & No. 22)
+  - Great Day (The Jubilee Shows No. 21 & No. 22)
+  - Dear Old Southland (The Jubilee Shows No. 21 & No. 22)
 external_urls:
-  spotify: https://open.spotify.com/artist/1YzeQYM0Bgl6E3TfijamjE
-  wikipedia: https://en.wikipedia.org/wiki/Louis_Armstrong
+  spotify: 'https://open.spotify.com/artist/1YzeQYM0Bgl6E3TfijamjE'
+  wikipedia: 'https://en.wikipedia.org/wiki/Louis_Armstrong'
 image_path: 03_Resources/source_material/ArtistPortraits/louis_armstrong_and_red_allen.jpg
 biography_enhanced_at: '2025-10-25T09:56:03.145223'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://jazzprofiles.blogspot.com/2018/05/henry-red-allen.html
-- https://syncopatedtimes.com/profiles-in-jazz-henry-red-allen/
-- https://en.wikipedia.org/wiki/Louis_Armstrong
-- https://masterclass.com/articles/louis-armstrong-biography-and-music
-- http://www.jazzarcheology.com/artists/henry_red_allen.pdf
+  - 'https://jazzprofiles.blogspot.com/2018/05/henry-red-allen.html'
+  - 'https://syncopatedtimes.com/profiles-in-jazz-henry-red-allen/'
+  - 'https://en.wikipedia.org/wiki/Louis_Armstrong'
+  - 'https://masterclass.com/articles/louis-armstrong-biography-and-music'
+  - 'http://www.jazzarcheology.com/artists/henry_red_allen.pdf'
 network_extracted: true
 entry_created: '2025-10-25T09:56:03.145379'
 last_updated: '2025-12-23T08:16:12.216149'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](louis_armstrong_and_red_allen.jpg)

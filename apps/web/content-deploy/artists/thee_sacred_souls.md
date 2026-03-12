@@ -2,10 +2,10 @@
 title: Thee Sacred Souls
 wiki_slug: thee-sacred-souls
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- retro soul
+  - retro soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/thee_sacred_souls.jpg
   caption: Thee Sacred Souls
@@ -25,77 +25,80 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Josh Lane
-  - Alex Garcia
-  - Salvador Samano
-  - St. Paul and The Broken Bones
+    - Josh Lane
+    - Alex Garcia
+    - Salvador Samano
+    - St. Paul and The Broken Bones
   influenced:
-  - Thee Sinseers
-  - Jalen Ngonda
+    - Thee Sinseers
+    - Jalen Ngonda
   mentors:
-  - Gabriel Roth (Bosco Mann)
+    - Gabriel Roth (Bosco Mann)
 spotify_data:
   followers: 936076
   id: 0oK5D6uPhGu4Jk2dbZfodU
   popularity: 70
-  url: https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU
+  url: 'https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU'
 discography_enriched: true
 top_tracks:
-- Can I Call You Rose? (Thee Sacred Souls)
-- Will I See You Again? (Will I See You Again?)
-- Easier Said Than Done (Thee Sacred Souls)
-- Weak for Your Love (Thee Sacred Souls)
-- Love Is The Way (Love Is The Way)
-- It's Our Love (Will I See You Again?)
-- Live For You (Got a Story to Tell)
-- Future Lover (Thee Sacred Souls)
-- Running Away (Running Away)
-- Lucid Girl (Got a Story to Tell)
+  - Can I Call You Rose? (Thee Sacred Souls)
+  - Will I See You Again? (Will I See You Again?)
+  - Easier Said Than Done (Thee Sacred Souls)
+  - Weak for Your Love (Thee Sacred Souls)
+  - Love Is The Way (Love Is The Way)
+  - It's Our Love (Will I See You Again?)
+  - Live For You (Got a Story to Tell)
+  - Future Lover (Thee Sacred Souls)
+  - Running Away (Running Away)
+  - Lucid Girl (Got a Story to Tell)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/32b87bbc-2363-457a-97b4-3103a569f3a7
-  spotify: https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU
-  wikipedia: https://en.wikipedia.org/wiki/Thee_Sacred_Souls
+  musicbrainz: 'https://musicbrainz.org/artist/32b87bbc-2363-457a-97b4-3103a569f3a7'
+  spotify: 'https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU'
+  wikipedia: 'https://en.wikipedia.org/wiki/Thee_Sacred_Souls'
 image_path: 03_Resources/source_material/ArtistPortraits/thee_sacred_souls.jpg
 biography_enhanced_at: '2025-11-26T07:53:27.155304'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.clashmusic.com/features/shine-your-light-thee-sacred-souls-interviewed/
-- https://www.spin.com/2024/10/thee-sacred-souls-have-got-a-story-or-two-to-tell/
-- https://www.latimes.com/entertainment-arts/music/story/2024-10-02/thee-sacred-souls-are-still-writing-their-own-story
-- https://bombmagazine.org/articles/2023/07/21/thee-sacred-souls-interviewed/
-- https://relix.com/articles/detail/spotlight-thee-sacred-souls/
-- https://www.theesacredsouls.com/about
+  - >-
+    https://www.clashmusic.com/features/shine-your-light-thee-sacred-souls-interviewed/
+  - >-
+    https://www.spin.com/2024/10/thee-sacred-souls-have-got-a-story-or-two-to-tell/
+  - >-
+    https://www.latimes.com/entertainment-arts/music/story/2024-10-02/thee-sacred-souls-are-still-writing-their-own-story
+  - 'https://bombmagazine.org/articles/2023/07/21/thee-sacred-souls-interviewed/'
+  - 'https://relix.com/articles/detail/spotlight-thee-sacred-souls/'
+  - 'https://www.theesacredsouls.com/about'
 network_extracted: true
 entry_created: '2025-11-26T07:53:27.155311'
 last_updated: '2025-12-23T08:16:17.333676'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4f929ea4-0f61-4ef1-8cb9-bb78dfb93e13
-  name: Jensine Benitez
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c5af5794-9050-4449-b47c-dec1cad48a57
-  name: Alex Garcia
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b57656ce-7e16-42ca-84cc-882067041e4d
-  name: Josh Lane
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bfdcb8b3-e2a7-4c6a-82ea-b1a2f7a97c2a
-  name: Sal Samano
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4f929ea4-0f61-4ef1-8cb9-bb78dfb93e13
+    name: Jensine Benitez
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c5af5794-9050-4449-b47c-dec1cad48a57
+    name: Alex Garcia
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b57656ce-7e16-42ca-84cc-882067041e4d
+    name: Josh Lane
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bfdcb8b3-e2a7-4c6a-82ea-b1a2f7a97c2a
+    name: Sal Samano
 musicbrainz_id: 32b87bbc-2363-457a-97b4-3103a569f3a7
-origin: San Diego, California, United States
+origin: 'San Diego, California, United States'
 tags:
-- chicago soul
-- smooth soul
-- soul
+  - chicago soul
+  - smooth soul
+  - soul
 ---
 
 ![](thee_sacred_souls.jpg)

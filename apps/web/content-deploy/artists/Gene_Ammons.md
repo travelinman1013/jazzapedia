@@ -2,27 +2,27 @@
 title: Gene Ammons
 wiki_slug: gene-ammons
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1925-04-14'
-birth_place: Chicago, Illinois, United States
+birth_place: 'Chicago, Illinois, United States'
 death_date: '1974-07-23'
 genres:
-- jazz
-- hard bop
-- soul jazz
-- bebop
-- cool jazz
-- acid jazz
+  - jazz
+  - hard bop
+  - soul jazz
+  - bebop
+  - cool jazz
+  - acid jazz
 instruments:
-- original
-- eponymous
+  - original
+  - eponymous
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Gene_Ammons.jpg
   caption: Gene Ammons
   background: non_vocal_instrumentalist
   born: '1925-04-14'
-  origin: Chicago, Illinois, United States
+  origin: 'Chicago, Illinois, United States'
   died: '1974-07-23'
 audio_profile:
   tempo_avg: 104.4
@@ -39,53 +39,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sonny Stitt
-  - Dexter Gordon
-  - Billy Eckstine
-  - Woody Herman
-  - Art Farmer
-  - John Coltrane
-  - James Moody
-  - Houston Person
+    - Sonny Stitt
+    - Dexter Gordon
+    - Billy Eckstine
+    - Woody Herman
+    - Art Farmer
+    - John Coltrane
+    - James Moody
+    - Houston Person
   influenced:
-  - Von Freeman
-  - Eddie Harris
-  - Houston Person
+    - Von Freeman
+    - Eddie Harris
+    - Houston Person
   mentors:
-  - Albert Ammons
-  - Captain Walter Dyett
-  - Lester Young
+    - Albert Ammons
+    - Captain Walter Dyett
+    - Lester Young
 spotify_data:
   followers: 53590
   id: 338mC0yGyX0C9of8QMJ5hK
   popularity: 45
-  url: https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK
+  url: 'https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK'
 discography_enriched: true
 top_tracks:
-- My Romance - Remastered 2006 (Boss Tenor (RVG Remasters / Remastered 2006))
-- My Romance (Boss Tenor)
-- Here's That Rainy Day (The Boss Is Back!)
-- My Foolish Heart (Makes It Happen)
-- Play Me (Fine And Mellow)
-- 'Willow Weep For Me (The Gene Ammons Story: Gentle Jug)'
-- Angel Eyes (Angel Eyes)
-- 'There Is No Greater Love (Boss Tenors: Straight Ahead From Chicago August 1961)'
-- Close Your Eyes - Remastered 2006 (Boss Tenor (RVG Remasters / Remastered 2006))
-- Till There Was You (On Prestige)
+  - My Romance - Remastered 2006 (Boss Tenor (RVG Remasters / Remastered 2006))
+  - My Romance (Boss Tenor)
+  - Here's That Rainy Day (The Boss Is Back!)
+  - My Foolish Heart (Makes It Happen)
+  - Play Me (Fine And Mellow)
+  - 'Willow Weep For Me (The Gene Ammons Story: Gentle Jug)'
+  - Angel Eyes (Angel Eyes)
+  - >-
+    There Is No Greater Love (Boss Tenors: Straight Ahead From Chicago August
+    1961)
+  - >-
+    Close Your Eyes - Remastered 2006 (Boss Tenor (RVG Remasters / Remastered
+    2006))
+  - Till There Was You (On Prestige)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/00dbf694-d614-44cc-91d3-21bf18800e3d
-  spotify: https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK
-  wikipedia: https://en.wikipedia.org/wiki/Gene_Ammons
+  musicbrainz: 'https://musicbrainz.org/artist/00dbf694-d614-44cc-91d3-21bf18800e3d'
+  spotify: 'https://open.spotify.com/artist/338mC0yGyX0C9of8QMJ5hK'
+  wikipedia: 'https://en.wikipedia.org/wiki/Gene_Ammons'
 image_path: 03_Resources/source_material/ArtistPortraits/Gene_Ammons.jpg
 biography_enhanced_at: '2025-10-20T01:42:58.674567'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.ebsco.com/research-starters/biography/gene-ammons
-- https://www.britannica.com/biography/Gene-Ammons
-- https://www.allaboutjazz.com/musicians/gene-ammons/
-- https://www.pointofdeparture.org/PoD58/PoD58BookCooks_SoulJazz.html
-- https://en.wikipedia.org/wiki/Gene_Ammons
+  - 'https://www.ebsco.com/research-starters/biography/gene-ammons'
+  - 'https://www.britannica.com/biography/Gene-Ammons'
+  - 'https://www.allaboutjazz.com/musicians/gene-ammons/'
+  - 'https://www.pointofdeparture.org/PoD58/PoD58BookCooks_SoulJazz.html'
+  - 'https://en.wikipedia.org/wiki/Gene_Ammons'
 network_extracted: true
 entry_created: '2025-10-20T01:42:58.674575'
 last_updated: '2025-12-23T08:16:02.099702'
@@ -93,9 +97,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:27:29.696875'
 musicbrainz_id: 00dbf694-d614-44cc-91d3-21bf18800e3d
 tags:
-- 2008 universal fire victim
-- hard bop
-- jazz
+  - 2008 universal fire victim
+  - hard bop
+  - jazz
+is_active: false
 ---
 
 ![](Gene_Ammons.jpg)

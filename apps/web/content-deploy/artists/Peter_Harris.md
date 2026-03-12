@@ -3,14 +3,14 @@ title: Peter Harris
 wiki_slug: peter-harris
 schema_version: 2
 status: active
-birth_place: Portsmouth, England, United Kingdom
+birth_place: 'Portsmouth, England, United Kingdom'
 genres:
-- dub
+  - dub
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Peter_Harris.jpg
   caption: Peter Harris
   background: solo_singer
-  origin: Portsmouth, England, United Kingdom
+  origin: 'Portsmouth, England, United Kingdom'
 audio_profile:
   tempo_avg: 114.6
   energy_avg: 0.527
@@ -26,45 +26,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lee 'Scratch' Perry
-  - Mark Stewart
-  - Fritz Catlin
+    - Lee 'Scratch' Perry
+    - Mark Stewart
+    - Fritz Catlin
   influenced:
-  - Contemporary visual and dub artists
+    - Contemporary visual and dub artists
   mentors:
-  - Lee 'Scratch' Perry
+    - Lee 'Scratch' Perry
 spotify_data:
   followers: 127
   id: 5TNHT79EgJ2F6vpRo2Xg2y
   popularity: 6
-  url: https://open.spotify.com/artist/5TNHT79EgJ2F6vpRo2Xg2y
+  url: 'https://open.spotify.com/artist/5TNHT79EgJ2F6vpRo2Xg2y'
 discography_enriched: true
 top_tracks:
-- Big Fish (Mercy)
-- Promised Land (Mercy)
-- Row Fisherman / Whale Song (Mercy)
-- This Is Hell (Mercy)
-- Tiny Victories (Mercy)
-- Reggae Poison (Mercy)
-- Devil Come Down (Mercy)
-- Nothing & Then Nothing - Trashmouth Remix (Nothing & Then Nothing (Trashmouth Remix))
-- When The Great Wind Blows (Mercy)
-- Alpha - Adrian Sherwood and Peter Harris Mix (VS)
+  - Big Fish (Mercy)
+  - Promised Land (Mercy)
+  - Row Fisherman / Whale Song (Mercy)
+  - This Is Hell (Mercy)
+  - Tiny Victories (Mercy)
+  - Reggae Poison (Mercy)
+  - Devil Come Down (Mercy)
+  - >-
+    Nothing & Then Nothing - Trashmouth Remix (Nothing & Then Nothing
+    (Trashmouth Remix))
+  - When The Great Wind Blows (Mercy)
+  - Alpha - Adrian Sherwood and Peter Harris Mix (VS)
 external_urls:
-  spotify: https://open.spotify.com/artist/5TNHT79EgJ2F6vpRo2Xg2y
+  spotify: 'https://open.spotify.com/artist/5TNHT79EgJ2F6vpRo2Xg2y'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/Peter_Harris.jpg
 biography_enhanced_at: '2025-10-21T06:35:53.897650'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.leescratchperry-peterharris-art.com/index.php?page=works-2007-09
-- https://markstewart-peterharris-bombart.com/about/
-- https://thequietus.com/quietus-reviews/peter-harris-fritz-catlin-lee-scratch-perry-mercy/
-- https://blackrhinoradio.com/interviews/a-walk-through-music-and-visual-arts-with-peter-harris
+  - 'https://www.leescratchperry-peterharris-art.com/index.php?page=works-2007-09'
+  - 'https://markstewart-peterharris-bombart.com/about/'
+  - >-
+    https://thequietus.com/quietus-reviews/peter-harris-fritz-catlin-lee-scratch-perry-mercy/
+  - >-
+    https://blackrhinoradio.com/interviews/a-walk-through-music-and-visual-arts-with-peter-harris
 network_extracted: true
 entry_created: '2025-10-21T06:35:53.897669'
 last_updated: '2025-12-23T08:16:03.569567'
+artist_type: person
 ---
 
 ![](Peter_Harris.jpg)

@@ -3,51 +3,53 @@ biography_enhanced_at: '2026-01-08T01:46:15.197681'
 enhancement_provider: perplexity
 entry_created: '2026-01-08T01:46:15.197685'
 external_urls:
-  spotify: https://open.spotify.com/artist/5Odrl8RJfCf0km0UaRI4cR
-  wikipedia: https://en.wikipedia.org/wiki/The_Outsiders_(American_band)
+  spotify: 'https://open.spotify.com/artist/5Odrl8RJfCf0km0UaRI4cR'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Outsiders_(American_band)'
 genres:
-- northern soul
-- garage rock
+  - northern soul
+  - garage rock
 image_path: 03_Resources/source_material/ArtistPortraits/the_outsiders.jpg
 last_updated: '2026-01-08T01:46:15.197686'
 musical_connections:
   collaborators:
-  - Sonny Geraci
-  - Jimmy Fox
-  - Ronnie Harkai
-  - Chet Kelley
-  - Hal Blaine
-  - Carol Kaye
-  - Richard Delvy
-  - Joe Kelley
-  - Jim Guercio
-  - Ricky Biagiola (Ricky Baker)
+    - Sonny Geraci
+    - Jimmy Fox
+    - Ronnie Harkai
+    - Chet Kelley
+    - Hal Blaine
+    - Carol Kaye
+    - Richard Delvy
+    - Joe Kelley
+    - Jim Guercio
+    - Ricky Biagiola (Ricky Baker)
   influenced:
-  - The Buckinghams
-  - Chicago (Chicago Transit Authority)
-  - Northern soul DJs and collectors
-  - James Gang (via Jimmy Fox)
+    - The Buckinghams
+    - Chicago (Chicago Transit Authority)
+    - Northern soul DJs and collectors
+    - James Gang (via Jimmy Fox)
   mentors:
-  - Motown and soul artists (e.g., Motown roster)
-  - Merseybeat / British Invasion bands
+    - 'Motown and soul artists (e.g., Motown roster)'
+    - Merseybeat / British Invasion bands
 network_extracted: true
-origin: Cleveland, Ohio, United States
+origin: 'Cleveland, Ohio, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Outsiders_(American_band)
-- https://www.last.fm/music/The+Outsiders/+wiki
-- https://www.classicbands.com/outsiders.html
-- http://poprunners.blogspot.com/2018/07/garage-pop-blue-eyed-soul-outsiders-us.html
-- https://classicsongoftheday.com/time-wont-let-me-the-outsiders/
-- https://rock.fandom.com/wiki/The_Outsiders
-- https://www.concertsatsea.com/the-outsiders/
+  - 'https://en.wikipedia.org/wiki/The_Outsiders_(American_band)'
+  - 'https://www.last.fm/music/The+Outsiders/+wiki'
+  - 'https://www.classicbands.com/outsiders.html'
+  - >-
+    http://poprunners.blogspot.com/2018/07/garage-pop-blue-eyed-soul-outsiders-us.html
+  - 'https://classicsongoftheday.com/time-wont-let-me-the-outsiders/'
+  - 'https://rock.fandom.com/wiki/The_Outsiders'
+  - 'https://www.concertsatsea.com/the-outsiders/'
 spotify_data:
   followers: 4738
   id: 5Odrl8RJfCf0km0UaRI4cR
   popularity: 25
-  url: https://open.spotify.com/artist/5Odrl8RJfCf0km0UaRI4cR
+  url: 'https://open.spotify.com/artist/5Odrl8RJfCf0km0UaRI4cR'
 status: active
 title: The Outsiders
+artist_type: band
 ---
 
 ![](the_outsiders.jpg)

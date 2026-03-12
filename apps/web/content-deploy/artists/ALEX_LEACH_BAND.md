@@ -1,15 +1,15 @@
 ---
-title: ALEX LEACH BAND
+title: Alex Leach Band
 wiki_slug: alex-leach-band
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 birth_date: '2019'
 genres:
-- bluegrass
-- newgrass
+  - bluegrass
+  - newgrass
 instruments:
-- eponymous
+  - eponymous
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ALEX_LEACH_BAND.jpg
   caption: ALEX LEACH BAND
@@ -30,52 +30,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Miranda Leach
-  - JT Coleman
-  - Joshua Gooding
-  - Brandon Masur
-  - Jon Weisberger
+    - Miranda Leach
+    - JT Coleman
+    - Joshua Gooding
+    - Brandon Masur
+    - Jon Weisberger
   influenced:
-  - Wyatt Ellis
+    - Wyatt Ellis
   mentors:
-  - Ralph Stanley II
+    - Ralph Stanley II
 spotify_data:
   followers: 393
   id: 02qBfrRhdA5NWqqukQgdIC
   popularity: 1
-  url: https://open.spotify.com/artist/02qBfrRhdA5NWqqukQgdIC
+  url: 'https://open.spotify.com/artist/02qBfrRhdA5NWqqukQgdIC'
 discography_enriched: true
 top_tracks:
-- Take The Long Way Home (I'm The Happiest When I'm Moving)
-- Take the Long Way Home (Take the Long Way Home)
-- Little Secret (All the Way)
-- Golden Rule (I'm The Happiest When I'm Moving)
-- Mandy Mae (I'm The Happiest When I'm Moving)
-- Slip Slidin' Away (Slip Slidin' Away)
-- Little Secret (Little Secret)
-- The Turntable (I'm The Happiest When I'm Moving)
-- I’m Happiest When I’m Movin’ (I'm The Happiest When I'm Moving)
-- Ellen (I'm The Happiest When I'm Moving)
+  - Take The Long Way Home (I'm The Happiest When I'm Moving)
+  - Take the Long Way Home (Take the Long Way Home)
+  - Little Secret (All the Way)
+  - Golden Rule (I'm The Happiest When I'm Moving)
+  - Mandy Mae (I'm The Happiest When I'm Moving)
+  - Slip Slidin' Away (Slip Slidin' Away)
+  - Little Secret (Little Secret)
+  - The Turntable (I'm The Happiest When I'm Moving)
+  - I’m Happiest When I’m Movin’ (I'm The Happiest When I'm Moving)
+  - Ellen (I'm The Happiest When I'm Moving)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/59d78bc8-0d97-4e2f-aa53-abd4cbf8e59a
-  spotify: https://open.spotify.com/artist/02qBfrRhdA5NWqqukQgdIC
+  musicbrainz: 'https://musicbrainz.org/artist/59d78bc8-0d97-4e2f-aa53-abd4cbf8e59a'
+  spotify: 'https://open.spotify.com/artist/02qBfrRhdA5NWqqukQgdIC'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/ALEX_LEACH_BAND.jpg
 biography_enhanced_at: '2025-10-20T01:44:31.501314'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://bluegrassbios.com/leach-alex-the-alex-leach-band/
-- https://musicmecca.org/interview-bluegrass-trailblazer-alex-leach-talks-new-album-all-the-way-tour-more/
-- https://bluegrasstoday.com/alex-leach-back-with-ralph-ii/
-- https://worldmusiccentral.org/artist-profiles-the-alex-leach-band/
-- https://americanahighways.org/2022/08/05/review-alex-leach-band-all-the-way/
+  - 'https://bluegrassbios.com/leach-alex-the-alex-leach-band/'
+  - >-
+    https://musicmecca.org/interview-bluegrass-trailblazer-alex-leach-talks-new-album-all-the-way-tour-more/
+  - 'https://bluegrasstoday.com/alex-leach-back-with-ralph-ii/'
+  - 'https://worldmusiccentral.org/artist-profiles-the-alex-leach-band/'
+  - 'https://americanahighways.org/2022/08/05/review-alex-leach-band-all-the-way/'
 network_extracted: true
 entry_created: '2025-10-20T01:44:31.501339'
 last_updated: '2025-12-23T08:16:00.926330'
 musicbrainz_enriched_at: '2025-10-21T08:04:46.259023'
 musicbrainz_id: 59d78bc8-0d97-4e2f-aa53-abd4cbf8e59a
-origin: Knoxville, Tennessee, United States
+origin: 'Knoxville, Tennessee, United States'
+birth_place: 'Knoxville, Tennessee, United States'
 ---
 
 ![](ALEX_LEACH_BAND.jpg)

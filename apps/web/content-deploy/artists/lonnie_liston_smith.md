@@ -1,76 +1,78 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
+  - begin: ''
+    end: ''
+    instruments:
+      - electric piano
+      - lead vocals
+      - original
+      - piano
+    mbid: 9afbdfa9-cc56-40d8-929a-4f40cc196f03
+    name: Lonnie Liston Smith & the Cosmic Echoes
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: 74580f40-e289-4c66-b3eb-ca19c3187477
+    name: Pharoah Sanders Quintet
+biography_enhanced_at: '2026-01-01T01:11:41.234626'
+birth_date: '1940-12-28'
+birth_place: 'Richmond, Virginia, United States'
+enhancement_provider: perplexity
+entry_created: '2026-01-01T01:11:41.234635'
+external_urls:
+  musicbrainz: 'https://musicbrainz.org/artist/b7eb7b38-7f51-45e9-b583-64303b24eabe'
+  spotify: 'https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lonnie_Liston_Smith'
+gender: Male
+genres:
+  - jazz funk
+  - jazz fusion
+  - acid jazz
+  - soul jazz
+image_path: 03_Resources/source_material/ArtistPortraits/lonnie_liston_smith.jpg
+instruments:
   - electric piano
   - lead vocals
   - original
   - piano
-  mbid: 9afbdfa9-cc56-40d8-929a-4f40cc196f03
-  name: Lonnie Liston Smith & the Cosmic Echoes
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: 74580f40-e289-4c66-b3eb-ca19c3187477
-  name: Pharoah Sanders Quintet
-biography_enhanced_at: '2026-01-01T01:11:41.234626'
-birth_date: '1940-12-28'
-birth_place: Richmond
-enhancement_provider: perplexity
-entry_created: '2026-01-01T01:11:41.234635'
-external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b7eb7b38-7f51-45e9-b583-64303b24eabe
-  spotify: https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK
-  wikipedia: https://en.wikipedia.org/wiki/Lonnie_Liston_Smith
-gender: Male
-genres:
-- jazz funk
-- jazz fusion
-- acid jazz
-- soul jazz
-image_path: 03_Resources/source_material/ArtistPortraits/lonnie_liston_smith.jpg
-instruments:
-- electric piano
-- lead vocals
-- original
-- piano
-- piano accordion
-- Rhodes piano
+  - piano accordion
+  - Rhodes piano
 last_updated: '2026-01-01T01:11:41.234637'
 musical_connections:
   collaborators:
-  - Pharoah Sanders
-  - Rahsaan Roland Kirk
-  - Gato Barbieri
-  - Cecil McBee
-  - Art Blakey
+    - Pharoah Sanders
+    - Rahsaan Roland Kirk
+    - Gato Barbieri
+    - Cecil McBee
+    - Art Blakey
   influenced:
-  - Generation of young keyboardists
+    - Generation of young keyboardists
   mentors:
-  - Charlie Parker
-  - John Coltrane
-  - Miles Davis
+    - Charlie Parker
+    - John Coltrane
+    - Miles Davis
 musicbrainz_id: b7eb7b38-7f51-45e9-b583-64303b24eabe
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Lonnie_Liston_Smith
-- https://www.jazzisdead.com/lonnielistonsmith
-- https://www.redbullmusicacademy.com/lectures/lonnie-liston-smith-and-gilles-peterson/
-- http://www.drlonniesmith.com/bio
+  - 'https://en.wikipedia.org/wiki/Lonnie_Liston_Smith'
+  - 'https://www.jazzisdead.com/lonnielistonsmith'
+  - >-
+    https://www.redbullmusicacademy.com/lectures/lonnie-liston-smith-and-gilles-peterson/
+  - 'http://www.drlonniesmith.com/bio'
 spotify_data:
   followers: 95314
   id: 2hdpXvaQJHBCZIVUd6cLvK
   popularity: 42
-  url: https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK
+  url: 'https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK'
 status: active
 tags:
-- jazz
-- soul
-title: lonnie liston smith
+  - jazz
+  - soul
+title: Lonnie Liston Smith
+origin: 'Baltimore, Maryland, United States'
 ---
 
 ![](lonnie_liston_smith.jpg)

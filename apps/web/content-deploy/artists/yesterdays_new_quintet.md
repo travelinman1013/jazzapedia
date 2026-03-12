@@ -3,39 +3,43 @@ biography_enhanced_at: '2026-01-21T01:18:13.706099'
 enhancement_provider: perplexity
 entry_created: '2026-01-21T01:18:13.706105'
 external_urls:
-  spotify: https://open.spotify.com/artist/5pSUhgxq9FwDCRBDux7gS5
-  wikipedia: https://en.wikipedia.org/wiki/Angles_Without_Edges
+  spotify: 'https://open.spotify.com/artist/5pSUhgxq9FwDCRBDux7gS5'
+  wikipedia: 'https://en.wikipedia.org/wiki/Angles_Without_Edges'
 genres:
-- nu jazz
+  - nu jazz
 image_path: 03_Resources/source_material/ArtistPortraits/yesterdays_new_quintet.jpg
 last_updated: '2026-01-21T01:18:13.706105'
 musical_connections:
   collaborators:
-  - Joe McDuphrey
-  - Malik Flavors
-  - Ahmad Miller
-  - Monk Hughes
-  - Blue Note Records artists
+    - Joe McDuphrey
+    - Malik Flavors
+    - Ahmad Miller
+    - Monk Hughes
+    - Blue Note Records artists
   influenced:
-  - Yesterdays Universe collective
+    - Yesterdays Universe collective
   mentors:
-  - Peanut Butter Wolf
+    - Peanut Butter Wolf
 network_extracted: true
-origin: Los Angeles, California, United States
+origin: 'Los Angeles, California, United States'
 primary_source: perplexity
 research_sources:
-- https://www.stonesthrow.com/news/guide-to-madlib-yesterdays-new-quintet-yesterdays-universe/
-- https://glidemagazine.com/279379/a-brief-history-of-madlibs-brave-jazz-project-yesterdays-new-quintet/
-- https://everythingmustswing.com/2019/03/10/a-preliminary-introduction-to-yesterdays-new-quintet-2019-03-10/
-- https://en.wikipedia.org/wiki/Angles_Without_Edges
-- https://www.theaudiodb.com/artist/126510-Yesterdays-New-Quintet
+  - >-
+    https://www.stonesthrow.com/news/guide-to-madlib-yesterdays-new-quintet-yesterdays-universe/
+  - >-
+    https://glidemagazine.com/279379/a-brief-history-of-madlibs-brave-jazz-project-yesterdays-new-quintet/
+  - >-
+    https://everythingmustswing.com/2019/03/10/a-preliminary-introduction-to-yesterdays-new-quintet-2019-03-10/
+  - 'https://en.wikipedia.org/wiki/Angles_Without_Edges'
+  - 'https://www.theaudiodb.com/artist/126510-Yesterdays-New-Quintet'
 spotify_data:
   followers: 31121
   id: 5pSUhgxq9FwDCRBDux7gS5
   popularity: 25
-  url: https://open.spotify.com/artist/5pSUhgxq9FwDCRBDux7gS5
+  url: 'https://open.spotify.com/artist/5pSUhgxq9FwDCRBDux7gS5'
 status: active
-title: yesterday's new quintet
+title: Yesterday's New Quintet
+artist_type: person
 ---
 
 ![](yesterdays_new_quintet.jpg)

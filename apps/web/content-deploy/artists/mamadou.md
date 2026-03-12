@@ -3,16 +3,16 @@ title: Mamadou.
 wiki_slug: mamadou
 schema_version: 2
 status: active
-birth_place: Harlem, New York, United States (with family origins in Bamako, Mali)
+birth_place: 'Harlem, New York, United States (with family origins in Bamako, Mali)'
 genres:
-- spoken word
+  - spoken word
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/mamadou.jpg
   caption: Mamadou.
   background: solo_singer
-  origin: Harlem, New York, United States (with family origins in Bamako, Mali)
+  origin: 'Harlem, New York, United States (with family origins in Bamako, Mali)'
 audio_profile:
-  tempo_avg: 110.0
+  tempo_avg: 110
   energy_avg: 0.282
   valence_avg: 0.305
   danceability_avg: 0.572
@@ -26,46 +26,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Donovan Simpson
-  - Krishna Canning
+    - Donovan Simpson
+    - Krishna Canning
   influenced:
-  - ''
+    - ''
   mentors:
-  - Unnamed seventh-grade English teacher
+    - Unnamed seventh-grade English teacher
 spotify_data:
   followers: 18931
   id: 2qlAceDoD1gfvRyVa7p5bK
   popularity: 36
-  url: https://open.spotify.com/artist/2qlAceDoD1gfvRyVa7p5bK
+  url: 'https://open.spotify.com/artist/2qlAceDoD1gfvRyVa7p5bK'
 discography_enriched: true
 top_tracks:
-- We Need Hugs, Too. (We Need Hugs, Too.)
-- A Rose Told Me About Love. (A Rose Told Me About Love.)
-- A Rose Told Me About Love. - Sped-Up (A Collection of Mamadou's Songs (Sped-Up))
-- I Found My Remedy. (I Found My Remedy.)
-- Tread Slowly. (Tread Slowly.)
-- lose yourself (demo) (lose yourself (demo))
-- Weighted Palms. (Weighted Palms.)
-- A Rose Told Me About Love (with my brother) (Poems That Bled From The Soul - Vol.3)
-- Tread Slowly. - Instrumental (Tread Slowly.)
-- please, save a seat for me - Sped-Up (please, save a seat for me (Sped-Up))
+  - 'We Need Hugs, Too. (We Need Hugs, Too.)'
+  - A Rose Told Me About Love. (A Rose Told Me About Love.)
+  - >-
+    A Rose Told Me About Love. - Sped-Up (A Collection of Mamadou's Songs
+    (Sped-Up))
+  - I Found My Remedy. (I Found My Remedy.)
+  - Tread Slowly. (Tread Slowly.)
+  - lose yourself (demo) (lose yourself (demo))
+  - Weighted Palms. (Weighted Palms.)
+  - >-
+    A Rose Told Me About Love (with my brother) (Poems That Bled From The Soul -
+    Vol.3)
+  - Tread Slowly. - Instrumental (Tread Slowly.)
+  - 'please, save a seat for me - Sped-Up (please, save a seat for me (Sped-Up))'
 external_urls:
-  spotify: https://open.spotify.com/artist/2qlAceDoD1gfvRyVa7p5bK
+  spotify: 'https://open.spotify.com/artist/2qlAceDoD1gfvRyVa7p5bK'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/mamadou.jpg
 biography_enhanced_at: '2025-12-10T05:21:08.051569'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Mamadou. official site – About page[1]
-- Mixtape Madness – "Mad About Mamadou." interview[2]
-- DropSpot – "Meet Mamadou." feature[3]
-- NOT 97 – Mamadou interview description[4]
-- Mamadou. YouTube channel – About section[6]
-- Ratrock Magazine – profile under name Mamadou Yattassaye (context on background and writing)[7]
+  - 'Mamadou. official site – About page[1]'
+  - 'Mixtape Madness – "Mad About Mamadou." interview[2]'
+  - 'DropSpot – "Meet Mamadou." feature[3]'
+  - 'NOT 97 – Mamadou interview description[4]'
+  - 'Mamadou. YouTube channel – About section[6]'
+  - >-
+    Ratrock Magazine – profile under name Mamadou Yattassaye (context on
+    background and writing)[7]
 network_extracted: true
 entry_created: '2025-12-10T05:21:08.051577'
 last_updated: '2025-12-23T08:16:12.576572'
+origin: 'Harlem, New York, United States'
+artist_type: person
 ---
 
 ![](mamadou.jpg)

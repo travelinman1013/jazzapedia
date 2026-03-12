@@ -1,15 +1,16 @@
 ---
-title: Delroy Wilson, Sly & Robbie
+title: 'Delroy Wilson, Sly & Robbie'
 wiki_slug: delroy-wilson-sly-robbie
 schema_version: 2
 status: active
 genres:
-- roots reggae
-- reggae
-- dub
+  - roots reggae
+  - reggae
+  - dub
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/delroy_wilson_sly_and_robbie.jpg
-  caption: Delroy Wilson, Sly & Robbie
+  image: >-
+    03_Resources/source_material/ArtistPortraits/delroy_wilson_sly_and_robbie.jpg
+  caption: 'Delroy Wilson, Sly & Robbie'
   background: solo_singer
 audio_profile:
   tempo_avg: 117.3
@@ -26,49 +27,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sly Dunbar & Robbie Shakespeare (Sly & Robbie)
-  - Bunny “Striker” Lee
-  - Sonia Pottinger
-  - Keith Hudson
+    - Sly Dunbar & Robbie Shakespeare (Sly & Robbie)
+    - Bunny “Striker” Lee
+    - Sonia Pottinger
+    - Keith Hudson
   influenced:
-  - Krept & Konan (via Karl “Konan” Wilson)
+    - Krept & Konan (via Karl “Konan” Wilson)
   mentors:
-  - Clement “Coxsone” Dodd
-  - Lee “Scratch” Perry
+    - Clement “Coxsone” Dodd
+    - Lee “Scratch” Perry
 spotify_data:
   followers: 3762
   id: 1j1A515xm7WZDVfp5OEFOe
   popularity: 10
-  url: https://open.spotify.com/artist/1j1A515xm7WZDVfp5OEFOe
+  url: 'https://open.spotify.com/artist/1j1A515xm7WZDVfp5OEFOe'
 discography_enriched: true
 top_tracks:
-- Help One Another (Shaka All Stars - Message from Africa)
-- Sunshine in My Veins (Sunshine in My Veins)
-- Jah Wonderful - 2002 Digital Remaster (I-Sus)
-- Wake Up Jamaica - 2001 Digital Remaster (Rasta)
-- Freedom Fighters - 2002 Digital Remaster (I-Sus)
-- Help (Shaka All Stars - Message from Africa)
-- Rasta - 2001 Digital Remaster (Rasta)
-- 'Freedom Fighters (Virgin Front Line: Sounds Of Reality)'
-- 'Give All The Praise To Jah (Virgin Front Line: Sounds Of Reality)'
-- Midnight Ravers - 2002 Digital Remaster (I-Sus)
+  - Help One Another (Shaka All Stars - Message from Africa)
+  - Sunshine in My Veins (Sunshine in My Veins)
+  - Jah Wonderful - 2002 Digital Remaster (I-Sus)
+  - Wake Up Jamaica - 2001 Digital Remaster (Rasta)
+  - Freedom Fighters - 2002 Digital Remaster (I-Sus)
+  - Help (Shaka All Stars - Message from Africa)
+  - Rasta - 2001 Digital Remaster (Rasta)
+  - 'Freedom Fighters (Virgin Front Line: Sounds Of Reality)'
+  - 'Give All The Praise To Jah (Virgin Front Line: Sounds Of Reality)'
+  - Midnight Ravers - 2002 Digital Remaster (I-Sus)
 external_urls:
-  spotify: https://open.spotify.com/artist/1j1A515xm7WZDVfp5OEFOe
-  wikipedia: https://en.wikipedia.org/wiki/Delroy_Wilson
+  spotify: 'https://open.spotify.com/artist/1j1A515xm7WZDVfp5OEFOe'
+  wikipedia: 'https://en.wikipedia.org/wiki/Delroy_Wilson'
 image_path: 03_Resources/source_material/ArtistPortraits/delroy_wilson_sly_and_robbie.jpg
 biography_enhanced_at: '2025-12-08T04:50:18.347021'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Delroy_Wilson
-- https://www.forcedexposure.com/Artists/WILSON.DELROY.html
-- https://wayneirie.com/blackbeard-releases-delroy-wilsons-changing-for-you-with-sly-robbie-world-a-reggae-entertainmentworld-a-reggae-entertainment/
-- https://www.redbullmusicacademy.com/lectures/sly-and-robbie-twins-peak/
-- http://www.jamaicanrecordings.com/page0/page9/page9.html
+  - 'https://en.wikipedia.org/wiki/Delroy_Wilson'
+  - 'https://www.forcedexposure.com/Artists/WILSON.DELROY.html'
+  - >-
+    https://wayneirie.com/blackbeard-releases-delroy-wilsons-changing-for-you-with-sly-robbie-world-a-reggae-entertainmentworld-a-reggae-entertainment/
+  - 'https://www.redbullmusicacademy.com/lectures/sly-and-robbie-twins-peak/'
+  - 'http://www.jamaicanrecordings.com/page0/page9/page9.html'
 network_extracted: true
 entry_created: '2025-12-08T04:50:18.347026'
 last_updated: '2025-12-23T08:16:07.682423'
-origin: Trench Town, Kingston, Jamaica
+origin: 'Trench Town, Kingston, Jamaica'
+birth_place: 'Trench Town, Kingston, Jamaica'
+birth_date: '1948-10-05'
+artist_type: band
 ---
 
 ![](delroy_wilson_sly_and_robbie.jpg)

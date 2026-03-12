@@ -4,16 +4,16 @@ wiki_slug: the-budos-band
 schema_version: 2
 status: active
 genres:
-- afrobeat
-- jazz funk
-- afro soul
-- retro soul
+  - afrobeat
+  - jazz funk
+  - afro soul
+  - retro soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_budos_band.jpg
   caption: The Budos Band
   background: solo_singer
 audio_profile:
-  tempo_avg: 109.0
+  tempo_avg: 109
   energy_avg: 0.78
   valence_avg: 0.658
   danceability_avg: 0.538
@@ -27,50 +27,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sharon Jones
-  - Charles Bradley
-  - Bosco Mann (Gabe Roth)
-  - Neal Sugarman
+    - Sharon Jones
+    - Charles Bradley
+    - Bosco Mann (Gabe Roth)
+    - Neal Sugarman
   influenced:
-  - Menahan Street Band
-  - Holy Hive
+    - Menahan Street Band
+    - Holy Hive
   mentors:
-  - Martín Perna
-  - Fela Kuti
-  - James Brown
+    - Martín Perna
+    - Fela Kuti
+    - James Brown
 spotify_data:
   followers: 237805
   id: 5q4eLKmqFVP0xII8087PHz
   popularity: 52
-  url: https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz
+  url: 'https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz'
 discography_enriched: true
 top_tracks:
-- Changes (Changes)
-- T.I.B.W.F. (The Budos Band)
-- Up From the South (The Budos Band)
-- Night Raid (VII)
-- Ghost Walk (The Budos Band)
-- Chicago Falcon (The Budos Band II)
-- Thrice Crowned (VII)
-- Aynotchesh Yererfu (The Budos Band)
-- Overlander
-- Gun Metal Grey (Long in the Tooth)
+  - Changes (Changes)
+  - T.I.B.W.F. (The Budos Band)
+  - Up From the South (The Budos Band)
+  - Night Raid (VII)
+  - Ghost Walk (The Budos Band)
+  - Chicago Falcon (The Budos Band II)
+  - Thrice Crowned (VII)
+  - Aynotchesh Yererfu (The Budos Band)
+  - Overlander
+  - Gun Metal Grey (Long in the Tooth)
 external_urls:
-  spotify: https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz
-  wikipedia: https://en.wikipedia.org/wiki/The_Budos_Band
+  spotify: 'https://open.spotify.com/artist/5q4eLKmqFVP0xII8087PHz'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Budos_Band'
 image_path: 03_Resources/source_material/ArtistPortraits/the_budos_band.jpg
 biography_enhanced_at: '2025-11-05T12:52:08.251542'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Budos_Band
-- https://www.last.fm/music/The+Budos+Band/+wiki
-- https://americansongwriter.com/long-in-the-tooth-budos-band-and-the-holy-hive-album-interview/
+  - 'https://en.wikipedia.org/wiki/The_Budos_Band'
+  - 'https://www.last.fm/music/The+Budos+Band/+wiki'
+  - >-
+    https://americansongwriter.com/long-in-the-tooth-budos-band-and-the-holy-hive-album-interview/
 network_extracted: true
 entry_created: '2025-11-05T12:52:08.251580'
 last_updated: '2025-12-23T08:16:16.609140'
-origin: Staten Island, New York, United States
-
+origin: 'Staten Island, New York, United States'
+artist_type: band
 ---
 
 ![](the_budos_band.jpg)

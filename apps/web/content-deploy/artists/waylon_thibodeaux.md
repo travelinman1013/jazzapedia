@@ -3,17 +3,17 @@ title: Waylon Thibodeaux
 wiki_slug: waylon-thibodeaux
 schema_version: 2
 status: active
-birth_place: Houma, Louisiana, United States
+birth_place: 'Houma, Louisiana, United States'
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/waylon_thibodeaux.jpg
   caption: Waylon Thibodeaux
   background: solo_singer
-  origin: Houma, Louisiana, United States
+  origin: 'Houma, Louisiana, United States'
 audio_profile:
-  tempo_avg: 129.0
+  tempo_avg: 129
   energy_avg: 0.694
   valence_avg: 0.74
   danceability_avg: 0.643
@@ -33,36 +33,40 @@ spotify_data:
   followers: 1563
   id: 7bnCFBoA4ZVWfHX4DA139K
   popularity: 11
-  url: https://open.spotify.com/artist/7bnCFBoA4ZVWfHX4DA139K
+  url: 'https://open.spotify.com/artist/7bnCFBoA4ZVWfHX4DA139K'
 discography_enriched: true
 top_tracks:
-- My Baby Don't Wear No Drawers
-- Jambalaya (Like a Real Cajun)
-- Jolie Blonde
-- Comin' On Strong
-- Grand Mamou
-- Stackolina - Live (Night Train To Nashville (Live))
-- Comin' On Strong (Brother To The Blues)
-- Way Down South (Here We Go Again)
-- Marie Laveaux
-- Cher Bebe' (Who's Yo' Cher Be' Be')
+  - My Baby Don't Wear No Drawers
+  - Jambalaya (Like a Real Cajun)
+  - Jolie Blonde
+  - Comin' On Strong
+  - Grand Mamou
+  - Stackolina - Live (Night Train To Nashville (Live))
+  - Comin' On Strong (Brother To The Blues)
+  - Way Down South (Here We Go Again)
+  - Marie Laveaux
+  - Cher Bebe' (Who's Yo' Cher Be' Be')
 external_urls:
-  spotify: https://open.spotify.com/artist/7bnCFBoA4ZVWfHX4DA139K
+  spotify: 'https://open.spotify.com/artist/7bnCFBoA4ZVWfHX4DA139K'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/waylon_thibodeaux.jpg
 biography_enhanced_at: '2025-11-24T08:30:05.154302'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://rhythmandroots.com/artists/waylon-thibodeaux/
-- https://www.neworleans.com/listing/waylon-thibodeaux/47753/
-- https://www.explorelouisiana.com/sites/default/files/2024-12/Waylon%20Thibodeaux%20-%20Houma.pdf
-- https://www.allmusic.com/artist/waylon-thibodeaux-mn0000816860
-- https://www.waylont.com/welcome
-- https://houmatimes.com/news/waylon-thibodeaux-receives-2024-tradition-bearer-award-at-annual-rougarou-festival/
+  - 'https://rhythmandroots.com/artists/waylon-thibodeaux/'
+  - 'https://www.neworleans.com/listing/waylon-thibodeaux/47753/'
+  - >-
+    https://www.explorelouisiana.com/sites/default/files/2024-12/Waylon%20Thibodeaux%20-%20Houma.pdf
+  - 'https://www.allmusic.com/artist/waylon-thibodeaux-mn0000816860'
+  - 'https://www.waylont.com/welcome'
+  - >-
+    https://houmatimes.com/news/waylon-thibodeaux-receives-2024-tradition-bearer-award-at-annual-rougarou-festival/
 network_extracted: true
 entry_created: '2025-11-24T08:30:05.154314'
 last_updated: '2025-12-23T08:16:18.020679'
+origin: 'Houma, Louisiana, United States'
+artist_type: person
 ---
 
 ![](waylon_thibodeaux.jpg)

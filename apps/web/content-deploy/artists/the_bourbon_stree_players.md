@@ -3,10 +3,10 @@ biography_enhanced_at: '2025-12-26T01:20:16.703689'
 enhancement_provider: perplexity
 entry_created: '2025-12-26T01:20:16.703716'
 external_urls:
-  spotify: https://open.spotify.com/artist/1oOEAbvi5pXciANCv8454z
+  spotify: 'https://open.spotify.com/artist/1oOEAbvi5pXciANCv8454z'
   wikipedia: ''
 genres:
-- brass band
+  - brass band
 image_path: ''
 last_updated: '2025-12-26T01:20:16.703719'
 musical_connections:
@@ -14,21 +14,24 @@ musical_connections:
   influenced: []
   mentors: []
 network_extracted: true
-origin: New Orleans, Louisiana, USA (inferred from genre and related bands)
+origin: 'New Orleans, Louisiana, USA (inferred from genre and related bands)'
 primary_source: perplexity
 research_sources:
-- https://reverb.com/news/second-line-blues-a-brief-history-of-new-orleans-brass-bands[1]
-- https://msmokemusic.com/blogs/mind-smoke-blog/posts/6508022/a-brief-history-of-new-orleans-brass-bands[2]
-- https://www.preshallfoundation.org/bourbonstparade[4]
-- https://creativesonoma.org/artist/bourbon-street-brass-band/[5]
-- https://bourbonstreetbrassband.net[6]
+  - >-
+    https://reverb.com/news/second-line-blues-a-brief-history-of-new-orleans-brass-bands[1]
+  - >-
+    https://msmokemusic.com/blogs/mind-smoke-blog/posts/6508022/a-brief-history-of-new-orleans-brass-bands[2]
+  - 'https://www.preshallfoundation.org/bourbonstparade[4]'
+  - 'https://creativesonoma.org/artist/bourbon-street-brass-band/[5]'
+  - 'https://bourbonstreetbrassband.net[6]'
 spotify_data:
   followers: 10
   id: 1oOEAbvi5pXciANCv8454z
   popularity: 2
-  url: https://open.spotify.com/artist/1oOEAbvi5pXciANCv8454z
+  url: 'https://open.spotify.com/artist/1oOEAbvi5pXciANCv8454z'
 status: active
 title: The Bourbon Stree Players
+artist_type: band
 ---
 
 ![]()

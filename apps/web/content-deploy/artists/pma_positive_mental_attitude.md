@@ -5,7 +5,8 @@ schema_version: 2
 status: active
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/pma_positive_mental_attitude.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/pma_positive_mental_attitude.jpg
   caption: PMA (positive Mental Attitude)
   background: solo_singer
 audio_profile:
@@ -23,45 +24,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bad Brains
+    - Bad Brains
   influenced:
-  - Jesse Malin
-  - John Joseph
+    - Jesse Malin
+    - John Joseph
   mentors:
-  - Napoleon Hill
+    - Napoleon Hill
 spotify_data:
   followers: 101
   id: 2PLQFsZHoMoD37S5mG3RNt
   popularity: 0
-  url: https://open.spotify.com/artist/2PLQFsZHoMoD37S5mG3RNt
+  url: 'https://open.spotify.com/artist/2PLQFsZHoMoD37S5mG3RNt'
 discography_enriched: true
 top_tracks:
-- Dub Confession Version (PMA)
-- Tree Sap (PMA)
-- Karma (PMA)
-- Music (PMA)
-- Dance (PMA)
-- Embargo Dub (PMA)
-- Digga Digga Doo Doo (PMA)
-- A Song 4 Her (PMA)
-- Walkin' by the Riverside (PMA)
-- Little Easton (PMA)
+  - Dub Confession Version (PMA)
+  - Tree Sap (PMA)
+  - Karma (PMA)
+  - Music (PMA)
+  - Dance (PMA)
+  - Embargo Dub (PMA)
+  - Digga Digga Doo Doo (PMA)
+  - A Song 4 Her (PMA)
+  - Walkin' by the Riverside (PMA)
+  - Little Easton (PMA)
 external_urls:
-  spotify: https://open.spotify.com/artist/2PLQFsZHoMoD37S5mG3RNt
+  spotify: 'https://open.spotify.com/artist/2PLQFsZHoMoD37S5mG3RNt'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/pma_positive_mental_attitude.jpg
 biography_enhanced_at: '2025-10-23T07:31:53.317212'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.onelifeonechance.com/projects
-- https://iowapublicradio.org/studioone/news/2025-03-11/h-rs-positive-mental-attitude-in-all-its-punk-contradiction-provides-message-of-love
-- https://community.thriveglobal.com/john-joseph-and-the-power-of-positive-mental-attitude/
-- https://www.psychologytoday.com/us/blog/brick-brick/201702/paul-hr-hudson-and-the-enduring-power-pma
-- https://wackidol.fandom.com/wiki/PMA%EF%BC%88Positive_Mental_Attitude%EF%BC%89
+  - 'https://www.onelifeonechance.com/projects'
+  - >-
+    https://iowapublicradio.org/studioone/news/2025-03-11/h-rs-positive-mental-attitude-in-all-its-punk-contradiction-provides-message-of-love
+  - >-
+    https://community.thriveglobal.com/john-joseph-and-the-power-of-positive-mental-attitude/
+  - >-
+    https://www.psychologytoday.com/us/blog/brick-brick/201702/paul-hr-hudson-and-the-enduring-power-pma
+  - >-
+    https://wackidol.fandom.com/wiki/PMA%EF%BC%88Positive_Mental_Attitude%EF%BC%89
 network_extracted: true
 entry_created: '2025-10-23T07:31:53.317223'
 last_updated: '2025-12-23T08:16:14.373181'
+artist_type: band
 ---
 
 ![](pma_positive_mental_attitude.jpg)

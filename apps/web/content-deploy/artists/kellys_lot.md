@@ -4,8 +4,8 @@ wiki_slug: kellys-lot
 schema_version: 2
 status: active
 genres:
-- blues
-- modern blues
+  - blues
+  - modern blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/kellys_lot.jpg
   caption: Kelly's Lot
@@ -25,50 +25,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Perry Robertson
-  - Alex Rylance
-  - Mo Beeks
-  - Homero Chavez, Greg Granieri, David Walsh
-  - Doug Pettibone
+    - Perry Robertson
+    - Alex Rylance
+    - Mo Beeks
+    - 'Homero Chavez, Greg Granieri, David Walsh'
+    - Doug Pettibone
   influenced: []
   mentors:
-  - Kelly Zirbes' Mother
-  - Cat Stevens
+    - Kelly Zirbes' Mother
+    - Cat Stevens
 spotify_data:
   followers: 375
   id: 5tjs8ZRnAXfN39sZFIO5oF
   popularity: 2
-  url: https://open.spotify.com/artist/5tjs8ZRnAXfN39sZFIO5oF
+  url: 'https://open.spotify.com/artist/5tjs8ZRnAXfN39sZFIO5oF'
 discography_enriched: true
 top_tracks:
-- House of the Rising Sun (Pastrami and Jam)
-- Foolish Try (Another Sky)
-- Mama's Blues (The Blues Remind Me)
-- Man In The Moon (The Blues Remind Me)
-- Pied Piper (Late Bloomer)
-- Terry (Late Bloomer)
-- Angels We Have Heard on High (Local Love Holiday Album)
-- 'Angels We Have Heard on High (The Local Love Project Holiday Album: The Spirit of Giving)'
-- I Gotta Sing The Blues (The Blues Remind Me)
-- Boogie Bus (The Blues Remind Me)
+  - House of the Rising Sun (Pastrami and Jam)
+  - Foolish Try (Another Sky)
+  - Mama's Blues (The Blues Remind Me)
+  - Man In The Moon (The Blues Remind Me)
+  - Pied Piper (Late Bloomer)
+  - Terry (Late Bloomer)
+  - Angels We Have Heard on High (Local Love Holiday Album)
+  - >-
+    Angels We Have Heard on High (The Local Love Project Holiday Album: The
+    Spirit of Giving)
+  - I Gotta Sing The Blues (The Blues Remind Me)
+  - Boogie Bus (The Blues Remind Me)
 external_urls:
-  spotify: https://open.spotify.com/artist/5tjs8ZRnAXfN39sZFIO5oF
+  spotify: 'https://open.spotify.com/artist/5tjs8ZRnAXfN39sZFIO5oF'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/kellys_lot.jpg
 biography_enhanced_at: '2025-10-23T07:35:26.689013'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.kellyslot.com
-- https://nohoartsdistrict.com/meet-kellys-lot/
-- https://undiscoveredmusic.net/artists/kellys_lot
-- https://blues.gr/profiles/blogs/q-a-with-kelly-zirbes-kelly-s-lot-a-folk-singer-songwriter-with-a
-- https://rootsmusicreport.com/bands/view/93153/kellys-lot
+  - 'https://www.kellyslot.com'
+  - 'https://nohoartsdistrict.com/meet-kellys-lot/'
+  - 'https://undiscoveredmusic.net/artists/kellys_lot'
+  - >-
+    https://blues.gr/profiles/blogs/q-a-with-kelly-zirbes-kelly-s-lot-a-folk-singer-songwriter-with-a
+  - 'https://rootsmusicreport.com/bands/view/93153/kellys-lot'
 network_extracted: true
 entry_created: '2025-10-23T07:35:26.689030'
 last_updated: '2025-12-23T08:16:11.275156'
-origin: Los Angeles, California, USA
-
+origin: 'Los Angeles, California, USA'
+artist_type: person
 ---
 
 ![](kellys_lot.jpg)

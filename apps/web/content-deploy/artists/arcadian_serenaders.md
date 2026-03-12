@@ -1,13 +1,13 @@
 ---
-title: ARCADIAN SERENADERS
+title: Arcadian Serenaders
 wiki_slug: arcadian-serenaders
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres: []
 instruments:
-- drums (drum set)
-- piano
+  - drums (drum set)
+  - piano
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/arcadian_serenaders.jpg
   caption: ARCADIAN SERENADERS
@@ -23,55 +23,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Stirling Bose
-  - Felix Guarino
-  - Slim Hall
-  - Cliff Holman
-  - Avery Loposer
-  - Eddie Powers
-  - Johnny Riddick
+    - Stirling Bose
+    - Felix Guarino
+    - Slim Hall
+    - Cliff Holman
+    - Avery Loposer
+    - Eddie Powers
+    - Johnny Riddick
   influenced:
-  - St. Louis jazz musicians
+    - St. Louis jazz musicians
   mentors:
-  - Original Dixieland Jazz Band
+    - Original Dixieland Jazz Band
 spotify_data:
   followers: 0
   id: 1UlMGZMttgq5JBQduqNEhv
   popularity: 0
-  url: https://open.spotify.com/artist/1UlMGZMttgq5JBQduqNEhv
+  url: 'https://open.spotify.com/artist/1UlMGZMttgq5JBQduqNEhv'
 discography_enriched: false
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/eed85cf8-a0fe-493a-8f6a-35f8d15b9943
-  spotify: https://open.spotify.com/artist/1UlMGZMttgq5JBQduqNEhv
-  wikipedia: https://en.wikipedia.org/wiki/Arcadian_Serenaders
+  musicbrainz: 'https://musicbrainz.org/artist/eed85cf8-a0fe-493a-8f6a-35f8d15b9943'
+  spotify: 'https://open.spotify.com/artist/1UlMGZMttgq5JBQduqNEhv'
+  wikipedia: 'https://en.wikipedia.org/wiki/Arcadian_Serenaders'
 image_path: 03_Resources/source_material/ArtistPortraits/arcadian_serenaders.jpg
 biography_enhanced_at: '2025-11-14T10:58:25.441187'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Arcadian_Serenaders
-- https://syncopatedtimes.com/original-crescent-city-jazzers/
-- https://iheart.com/artist/arcadian-serenaders-31532247/
+  - 'https://en.wikipedia.org/wiki/Arcadian_Serenaders'
+  - 'https://syncopatedtimes.com/original-crescent-city-jazzers/'
+  - 'https://iheart.com/artist/arcadian-serenaders-31532247/'
 network_extracted: true
 entry_created: '2025-11-14T10:58:25.441199'
 last_updated: '2025-12-23T08:07:22.402591'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: f183df1c-d555-43a5-825c-567bb542efb1
-  name: Felix Guarino
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: 04d707f9-8948-49bb-87a7-e118c52c9928
-  name: Johnny Riddick
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: f183df1c-d555-43a5-825c-567bb542efb1
+    name: Felix Guarino
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: 04d707f9-8948-49bb-87a7-e118c52c9928
+    name: Johnny Riddick
 musicbrainz_id: eed85cf8-a0fe-493a-8f6a-35f8d15b9943
-origin: New Orleans, Louisiana, United States (origin); later based in St. Louis, Missouri, United States
+origin: >-
+  New Orleans, Louisiana, United States (origin); later based in St. Louis,
+  Missouri, United States
 tags:
-- jazz
+  - jazz
 ---
 
 ![](arcadian_serenaders.jpg)

@@ -3,41 +3,47 @@ biography_enhanced_at: '2026-01-11T02:21:17.292046'
 enhancement_provider: perplexity
 entry_created: '2026-01-11T02:21:17.292059'
 external_urls:
-  spotify: https://open.spotify.com/artist/0UKnzJD2bAj1KtjMhRTq1e
+  spotify: 'https://open.spotify.com/artist/0UKnzJD2bAj1KtjMhRTq1e'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/mario_ulloa_and_daniel_guedes.jpg
 last_updated: '2026-01-11T02:21:17.292063'
 musical_connections:
   collaborators:
-  - Mario Ulloa
-  - Daniel Guedes
+    - Mario Ulloa
+    - Daniel Guedes
   influenced:
-  - No specifically documented artists
+    - No specifically documented artists
   mentors:
-  - Pinchas Zukerman
-  - Patinka Kopec
-  - Detlef Hahn
+    - Pinchas Zukerman
+    - Patinka Kopec
+    - Detlef Hahn
 network_extracted: true
-origin: Rio de Janeiro, Rio de Janeiro, Brazil (Daniel Guedes – birthplace); Costa
-  Rica (Mario Ulloa – country of origin); Duo active primarily in Brazil and Latin
-  America
+origin: >-
+  Rio de Janeiro, Rio de Janeiro, Brazil (Daniel Guedes – birthplace); Costa
+  Rica (Mario Ulloa – country of origin); Duo active primarily in Brazil and
+  Latin America
 primary_source: perplexity
 research_sources:
-- https://www.danielguedes.com.br/?lang=en
-- https://thejewishmuseum.org/press/gortler-guedes-release/
-- https://www.behance.net/gallery/11732645/Daniel-Guedes-e-Mario-Ulloa
-- https://www.pauloportoalegre.com/en/discography
-- https://www.youtube.com/watch?v=kHC4CpLdD8Q
-- https://www.shazam.com/song/676794996/o-b%C3%AAbado-e-a-equilibrista/music-video
-- https://www.hotchkiss.org/arts/post/~board/art-news/post/hotchkiss-philharmonic-performs-with-guest-violinist-and-conductor-daniel-guedes-of-brazil-feb-22-7-pm
+  - 'https://www.danielguedes.com.br/?lang=en'
+  - 'https://thejewishmuseum.org/press/gortler-guedes-release/'
+  - 'https://www.behance.net/gallery/11732645/Daniel-Guedes-e-Mario-Ulloa'
+  - 'https://www.pauloportoalegre.com/en/discography'
+  - 'https://www.youtube.com/watch?v=kHC4CpLdD8Q'
+  - >-
+    https://www.shazam.com/song/676794996/o-b%C3%AAbado-e-a-equilibrista/music-video
+  - >-
+    https://www.hotchkiss.org/arts/post/~board/art-news/post/hotchkiss-philharmonic-performs-with-guest-violinist-and-conductor-daniel-guedes-of-brazil-feb-22-7-pm
 spotify_data:
   followers: 228
   id: 0UKnzJD2bAj1KtjMhRTq1e
   popularity: 8
-  url: https://open.spotify.com/artist/0UKnzJD2bAj1KtjMhRTq1e
+  url: 'https://open.spotify.com/artist/0UKnzJD2bAj1KtjMhRTq1e'
 status: active
 title: Mario Ulloa & Daniel Guedes
+birth_place: 'Rio de Janeiro, Rio de Janeiro, Brazil'
+birth_date: '1965-03-17'
+artist_type: band
 ---
 
 ![](mario_ulloa_and_daniel_guedes.jpg)

@@ -2,23 +2,23 @@
 title: Lynyrd Skynyrd
 wiki_slug: lynyrd-skynyrd
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 birth_date: '1964'
 genres:
-- southern rock
-- classic rock
-- rock
+  - southern rock
+  - classic rock
+  - rock
 instruments:
-- drums (drum set)
-- original
-- bass guitar
-- guitar
-- lead vocals
-- keyboard
-- organ
-- piano
-- background vocals
+  - drums (drum set)
+  - original
+  - bass guitar
+  - guitar
+  - lead vocals
+  - keyboard
+  - organ
+  - piano
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lynyrd_skynyrd.jpg
   caption: Lynyrd Skynyrd
@@ -39,229 +39,229 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ronnie Van Zant
-  - Gary Rossington
-  - Allen Collins
-  - Ed King
-  - Leon Wilkeson
-  - Billy Powell
-  - Johnny Van Zant
-  - Al Kooper
+    - Ronnie Van Zant
+    - Gary Rossington
+    - Allen Collins
+    - Ed King
+    - Leon Wilkeson
+    - Billy Powell
+    - Johnny Van Zant
+    - Al Kooper
   influenced:
-  - Southern rock and country rock bands (e.g., .38 Special)
-  - Country and country‑rock artists
-  - Classic rock and jam‑band guitarists
+    - 'Southern rock and country rock bands (e.g., .38 Special)'
+    - Country and country‑rock artists
+    - Classic rock and jam‑band guitarists
   mentors:
-  - The Allman Brothers Band / Duane Allman
-  - British and American blues‑rock (e.g., Free)
-  - Al Kooper
+    - The Allman Brothers Band / Duane Allman
+    - 'British and American blues‑rock (e.g., Free)'
+    - Al Kooper
 spotify_data:
   followers: 5949540
   id: 4MVyzYMgTwdP7Z49wAZHx0
   popularity: 74
-  url: https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0
+  url: 'https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0'
 discography_enriched: true
 top_tracks:
-- Sweet Home Alabama (Second Helping (Expanded Edition))
-- Free Bird (Pronounced' Leh-'Nerd 'Skin-'Nerd)
-- Simple Man (Pronounced' Leh-'Nerd 'Skin-'Nerd)
-- Tuesday's Gone (Pronounced' Leh-'Nerd 'Skin-'Nerd)
-- Gimme Three Steps (Pronounced' Leh-'Nerd 'Skin-'Nerd)
-- That Smell (Street Survivors)
-- Call Me The Breeze (Second Helping (Expanded Edition))
-- I Need You (Second Helping (Expanded Edition))
-- The Ballad Of Curtis Loew (Second Helping (Expanded Edition))
-- The Needle And The Spoon (Second Helping (Expanded Edition))
+  - Sweet Home Alabama (Second Helping (Expanded Edition))
+  - Free Bird (Pronounced' Leh-'Nerd 'Skin-'Nerd)
+  - Simple Man (Pronounced' Leh-'Nerd 'Skin-'Nerd)
+  - Tuesday's Gone (Pronounced' Leh-'Nerd 'Skin-'Nerd)
+  - Gimme Three Steps (Pronounced' Leh-'Nerd 'Skin-'Nerd)
+  - That Smell (Street Survivors)
+  - Call Me The Breeze (Second Helping (Expanded Edition))
+  - I Need You (Second Helping (Expanded Edition))
+  - The Ballad Of Curtis Loew (Second Helping (Expanded Edition))
+  - The Needle And The Spoon (Second Helping (Expanded Edition))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c544ed4d-2390-4442-a83e-1ea2883b09c8
-  spotify: https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0
-  wikipedia: https://en.wikipedia.org/wiki/Lynyrd_Skynyrd
+  musicbrainz: 'https://musicbrainz.org/artist/c544ed4d-2390-4442-a83e-1ea2883b09c8'
+  spotify: 'https://open.spotify.com/artist/4MVyzYMgTwdP7Z49wAZHx0'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lynyrd_Skynyrd'
 image_path: 03_Resources/source_material/ArtistPortraits/lynyrd_skynyrd.jpg
 biography_enhanced_at: '2025-12-09T05:15:37.850721'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Official Lynyrd Skynyrd band history[1]
-- Lynyrd Skynyrd article on Wikipedia[2]
-- Lynyrd Skynyrd entry, Encyclopedia Britannica[3]
-- 'EBSCO Research Starters: Lynyrd Skynyrd (music group)[4]'
-- Louder / Classic Rock feature on Lynyrd Skynyrd’s early years[5]
+  - 'Official Lynyrd Skynyrd band history[1]'
+  - 'Lynyrd Skynyrd article on Wikipedia[2]'
+  - 'Lynyrd Skynyrd entry, Encyclopedia Britannica[3]'
+  - 'EBSCO Research Starters: Lynyrd Skynyrd (music group)[4]'
+  - 'Louder / Classic Rock feature on Lynyrd Skynyrd’s early years[5]'
 network_extracted: true
 entry_created: '2025-12-09T05:15:37.850730'
 last_updated: '2025-12-23T08:16:12.423801'
 members:
-- begin: '1964'
-  end: '1971'
-  instruments:
-  - drums (drum set)
-  - original
-  mbid: 851a40b0-1ad5-4f5d-9e56-e1f1b5275ef8
-  name: Bob Burns
-- begin: '1964'
-  end: '1971'
-  instruments:
-  - bass guitar
-  - original
-  mbid: f649b802-b5bc-4458-b0af-26d9f3dfc269
-  name: Larry Junstrom
-- begin: '1964'
-  end: '1977'
-  instruments:
-  - guitar
-  - original
-  mbid: 3e8f2f3e-25d9-425e-9bd7-ee0b47bb1785
-  name: Allen Collins
-- begin: '1964'
-  end: '1977'
-  instruments:
-  - guitar
-  - original
-  mbid: 15a5032b-70f2-4c00-bab9-5072b6fbba02
-  name: Gary Rossington
-- begin: '1964'
-  end: '1977'
-  instruments:
-  - lead vocals
-  - original
-  mbid: 39787cc4-b614-485b-86f2-91c99ddf2f93
-  name: Ronnie Van Zant
-- begin: '1971'
-  end: '1972'
-  instruments: []
-  mbid: 0ed95d63-69ad-461d-8514-c1b66631b257
-  name: Greg T. Walker
-- begin: '1971'
-  end: '2009'
-  instruments:
-  - keyboard
-  - organ
-  - piano
-  mbid: 01679bcb-c5a6-442c-bb98-45c42f613080
-  name: Billy Powell
-- begin: '1972'
-  end: '1974'
-  instruments:
-  - drums (drum set)
-  - original
-  mbid: 851a40b0-1ad5-4f5d-9e56-e1f1b5275ef8
-  name: Bob Burns
-- begin: '1987'
-  end: '1993'
-  instruments:
-  - guitar
-  mbid: 746373d1-0297-4b0d-993d-605079e12b3b
-  name: Randall Hall
-- begin: '1987'
-  end: '2023'
-  instruments:
-  - guitar
-  - original
-  mbid: 15a5032b-70f2-4c00-bab9-5072b6fbba02
-  name: Gary Rossington
-- &id001
-  begin: '1987'
-  end: ''
-  instruments: []
-  mbid: 689d63c1-3591-45b1-9965-bf95c2d85931
-  name: Johnny Van Zant
-- &id002
-  begin: '2009'
-  end: ''
-  instruments: []
-  mbid: 6df311dd-ee55-47bf-858a-577ead609419
-  name: Peter Keys
-- begin: ''
-  end: '1977-10-20'
-  instruments:
-  - background vocals
-  mbid: 10985a45-a8d3-4cd8-92cc-74af44e144a7
-  name: Cassie Gaines
-- begin: ''
-  end: '1977-10-20'
-  instruments: []
-  mbid: 5000f7eb-5519-4534-8044-c0be850c7473
-  name: Steve Gaines
-- begin: ''
-  end: '1995'
-  instruments: []
-  mbid: c2566277-e680-41bf-8e9d-6936d1fa4b0e
-  name: Ed King
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6abef29f-1e94-475e-be7a-2e9a7077909f
-  name: JoJo Billingsley
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4f0c3b05-2f11-4a45-8219-ecfb3ae3a0ce
-  name: Michael Cartellone
-- begin: ''
-  end: ''
-  instruments:
-  - background vocals
-  mbid: 127af3c1-4e86-409c-a968-7418b8b7de9d
-  name: Carol Chase
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 86f6ddae-4a83-4597-953d-a6e7b1f0a9b8
-  name: Mike Estes
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 817c71bc-a6d2-4ea0-be3b-a55de41e56cf
-  name: Ean Evans
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9e4a8704-d555-4c3c-a8c9-a4d049a20d9e
-  name: Leslie Hawkins
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d909933a-67b3-4c0a-9a8e-f577488e3603
-  name: Dale Krantz-Rossington
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 35d1a319-16f8-41c0-b4b9-99f835b3efe4
-  name: Alias
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8b50fb43-1009-4770-9a8f-2c7560a10776
-  name: Rickey Medlocke
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3cc0e44d-0e16-488b-98fe-874ee38294d9
-  name: Artimus Pyle
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ea0b4f3a-05dd-4a5d-8506-68ac408dc4f7
-  name: Hughie Thomasson
-- begin: ''
-  end: ''
-  instruments:
-  - bass guitar
-  mbid: 21b184bf-2eb8-428f-a93e-2cbc46607a11
-  name: Leon Wilkeson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e84d1de9-e62c-4cca-af14-f04b04ba0456
-  name: Robert Kearns
+  - begin: '1964'
+    end: '1971'
+    instruments:
+      - drums (drum set)
+      - original
+    mbid: 851a40b0-1ad5-4f5d-9e56-e1f1b5275ef8
+    name: Bob Burns
+  - begin: '1964'
+    end: '1971'
+    instruments:
+      - bass guitar
+      - original
+    mbid: f649b802-b5bc-4458-b0af-26d9f3dfc269
+    name: Larry Junstrom
+  - begin: '1964'
+    end: '1977'
+    instruments:
+      - guitar
+      - original
+    mbid: 3e8f2f3e-25d9-425e-9bd7-ee0b47bb1785
+    name: Allen Collins
+  - begin: '1964'
+    end: '1977'
+    instruments:
+      - guitar
+      - original
+    mbid: 15a5032b-70f2-4c00-bab9-5072b6fbba02
+    name: Gary Rossington
+  - begin: '1964'
+    end: '1977'
+    instruments:
+      - lead vocals
+      - original
+    mbid: 39787cc4-b614-485b-86f2-91c99ddf2f93
+    name: Ronnie Van Zant
+  - begin: '1971'
+    end: '1972'
+    instruments: []
+    mbid: 0ed95d63-69ad-461d-8514-c1b66631b257
+    name: Greg T. Walker
+  - begin: '1971'
+    end: '2009'
+    instruments:
+      - keyboard
+      - organ
+      - piano
+    mbid: 01679bcb-c5a6-442c-bb98-45c42f613080
+    name: Billy Powell
+  - begin: '1972'
+    end: '1974'
+    instruments:
+      - drums (drum set)
+      - original
+    mbid: 851a40b0-1ad5-4f5d-9e56-e1f1b5275ef8
+    name: Bob Burns
+  - begin: '1987'
+    end: '1993'
+    instruments:
+      - guitar
+    mbid: 746373d1-0297-4b0d-993d-605079e12b3b
+    name: Randall Hall
+  - begin: '1987'
+    end: '2023'
+    instruments:
+      - guitar
+      - original
+    mbid: 15a5032b-70f2-4c00-bab9-5072b6fbba02
+    name: Gary Rossington
+  - &ref_0
+    begin: '1987'
+    end: ''
+    instruments: []
+    mbid: 689d63c1-3591-45b1-9965-bf95c2d85931
+    name: Johnny Van Zant
+  - &ref_1
+    begin: '2009'
+    end: ''
+    instruments: []
+    mbid: 6df311dd-ee55-47bf-858a-577ead609419
+    name: Peter Keys
+  - begin: ''
+    end: '1977-10-20'
+    instruments:
+      - background vocals
+    mbid: 10985a45-a8d3-4cd8-92cc-74af44e144a7
+    name: Cassie Gaines
+  - begin: ''
+    end: '1977-10-20'
+    instruments: []
+    mbid: 5000f7eb-5519-4534-8044-c0be850c7473
+    name: Steve Gaines
+  - begin: ''
+    end: '1995'
+    instruments: []
+    mbid: c2566277-e680-41bf-8e9d-6936d1fa4b0e
+    name: Ed King
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6abef29f-1e94-475e-be7a-2e9a7077909f
+    name: JoJo Billingsley
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4f0c3b05-2f11-4a45-8219-ecfb3ae3a0ce
+    name: Michael Cartellone
+  - begin: ''
+    end: ''
+    instruments:
+      - background vocals
+    mbid: 127af3c1-4e86-409c-a968-7418b8b7de9d
+    name: Carol Chase
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 86f6ddae-4a83-4597-953d-a6e7b1f0a9b8
+    name: Mike Estes
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 817c71bc-a6d2-4ea0-be3b-a55de41e56cf
+    name: Ean Evans
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9e4a8704-d555-4c3c-a8c9-a4d049a20d9e
+    name: Leslie Hawkins
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d909933a-67b3-4c0a-9a8e-f577488e3603
+    name: Dale Krantz-Rossington
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 35d1a319-16f8-41c0-b4b9-99f835b3efe4
+    name: Alias
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8b50fb43-1009-4770-9a8f-2c7560a10776
+    name: Rickey Medlocke
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3cc0e44d-0e16-488b-98fe-874ee38294d9
+    name: Artimus Pyle
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ea0b4f3a-05dd-4a5d-8506-68ac408dc4f7
+    name: Hughie Thomasson
+  - begin: ''
+    end: ''
+    instruments:
+      - bass guitar
+    mbid: 21b184bf-2eb8-428f-a93e-2cbc46607a11
+    name: Leon Wilkeson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e84d1de9-e62c-4cca-af14-f04b04ba0456
+    name: Robert Kearns
 musicbrainz_id: c544ed4d-2390-4442-a83e-1ea2883b09c8
-origin: Jacksonville
+origin: 'Jacksonville, Florida, United States'
 original_members:
-- *id001
-- *id002
+  - *ref_0
+  - *ref_1
 tags:
-- acoustic rock
-- blues rock
-- boogie rock
+  - acoustic rock
+  - blues rock
+  - boogie rock
 ---
 
 ![](lynyrd_skynyrd.jpg)

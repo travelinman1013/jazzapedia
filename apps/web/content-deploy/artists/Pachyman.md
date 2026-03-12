@@ -3,15 +3,19 @@ title: Pachyman
 wiki_slug: pachyman
 schema_version: 2
 status: active
-birth_place: Guaynabo, Puerto Rico (birthplace); Los Angeles, California, USA (current residence/origin as solo artist)
+birth_place: >-
+  Guaynabo, Puerto Rico (birthplace); Los Angeles, California, USA (current
+  residence/origin as solo artist)
 genres:
-- dub
-- spanish-language reggae
+  - dub
+  - spanish-language reggae
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Pachyman.jpg
   caption: Pachyman
   background: solo_singer
-  origin: Guaynabo, Puerto Rico (birthplace); Los Angeles, California, USA (current residence/origin as solo artist)
+  origin: >-
+    Guaynabo, Puerto Rico (birthplace); Los Angeles, California, USA (current
+    residence/origin as solo artist)
 audio_profile:
   tempo_avg: 131.2
   energy_avg: 0.777
@@ -27,53 +31,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Prettiest Eyes
-  - MNDSGN
-  - Gabriel De Rosa
+    - Prettiest Eyes
+    - MNDSGN
+    - Gabriel De Rosa
   influenced:
-  - Emerging dub and experimental producers (unnamed)
+    - Emerging dub and experimental producers (unnamed)
   mentors:
-  - King Tubby
-  - Scientist
+    - King Tubby
+    - Scientist
 spotify_data:
   followers: 40388
   id: 515f4vsvg0JQWrmt7qpR6l
   popularity: 39
-  url: https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l
+  url: 'https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l'
 discography_enriched: true
 top_tracks:
-- All Night Long
-- Destroy The Empire (The Return of…)
-- Ta Que Tiembla - Pachyman Remix
-- Trago Coqueto (Switched-On)
-- Sunset Sound (The Return of…)
-- El Benson (The Return of…)
-- In Love
-- SJU (Another Place)
-- Towards The Mountain
-- Trago Coqueto (Switched-On)
+  - All Night Long
+  - Destroy The Empire (The Return of…)
+  - Ta Que Tiembla - Pachyman Remix
+  - Trago Coqueto (Switched-On)
+  - Sunset Sound (The Return of…)
+  - El Benson (The Return of…)
+  - In Love
+  - SJU (Another Place)
+  - Towards The Mountain
+  - Trago Coqueto (Switched-On)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/db0f43f1-2433-4231-b3e6-a7069870a426
-  spotify: https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l
+  musicbrainz: 'https://musicbrainz.org/artist/db0f43f1-2433-4231-b3e6-a7069870a426'
+  spotify: 'https://open.spotify.com/artist/515f4vsvg0JQWrmt7qpR6l'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/Pachyman.jpg
 biography_enhanced_at: '2025-10-20T09:36:22.758682'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://bassculture.substack.com/p/soundcheck-pachyman-exploring-dubs
-- https://www.wunc.org/wunc-music/2025-10-02/pachyman-pursuit-of-dub-motorco
-- https://www.afrotaino.com/spotlights/pachyman
-- https://atorecords.com/artists/pachyman/
-- https://lataco.com/pachyman-reggae-puerto-rico-boricua
+  - 'https://bassculture.substack.com/p/soundcheck-pachyman-exploring-dubs'
+  - 'https://www.wunc.org/wunc-music/2025-10-02/pachyman-pursuit-of-dub-motorco'
+  - 'https://www.afrotaino.com/spotlights/pachyman'
+  - 'https://atorecords.com/artists/pachyman/'
+  - 'https://lataco.com/pachyman-reggae-puerto-rico-boricua'
 network_extracted: true
 entry_created: '2025-10-20T09:36:22.758699'
 last_updated: '2025-12-23T08:16:03.525787'
 musicbrainz_enriched_at: '2025-10-21T09:40:30.854082'
 musicbrainz_id: db0f43f1-2433-4231-b3e6-a7069870a426
 tags:
-- dub
-
+  - dub
+origin: 'Los Angeles, California, United States'
+artist_type: person
 ---
 
 ![](Pachyman.jpg)

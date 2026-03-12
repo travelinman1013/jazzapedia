@@ -6,28 +6,28 @@ status: active
 birth_name: Henry Jackson Thomas
 aliases: []
 birth_date: '1971-09-09'
-birth_place: Big Sandy, Texas, United States
+birth_place: 'Big Sandy, Texas, United States'
 years_active: 1981–present
 genres:
-- country blues
-- classic blues
-- blues
-- ragtime
+  - country blues
+  - classic blues
+  - blues
+  - ragtime
 occupation:
-- actor
-- musician
-- television actor
-- film actor
-- guitarist
+  - actor
+  - musician
+  - television actor
+  - film actor
+  - guitarist
 spouse:
-- Marie Zielcke
+  - Marie Zielcke
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Henry_Thomas.jpg
   caption: Henry Thomas
   background: solo_singer
   birth_name: Henry Jackson Thomas
   born: '1971-09-09'
-  origin: Big Sandy, Texas, United States
+  origin: 'Big Sandy, Texas, United States'
 audio_profile:
   tempo_avg: 132.5
   energy_avg: 0.261
@@ -44,50 +44,54 @@ similar_artists: []
 musical_connections:
   collaborators: []
   influenced:
-  - Canned Heat
-  - Bob Dylan
-  - Taj Mahal
+    - Canned Heat
+    - Bob Dylan
+    - Taj Mahal
   mentors:
-  - Traditional African American folk musicians
+    - Traditional African American folk musicians
 related_artists: []
 spotify_data:
   followers: 9698
   id: 1FGYC9AcBsascq5DSXX1Ie
   popularity: 28
-  url: https://open.spotify.com/artist/1FGYC9AcBsascq5DSXX1Ie
+  url: 'https://open.spotify.com/artist/1FGYC9AcBsascq5DSXX1Ie'
   verified: false
 discography_enriched: true
 albums_count: 7
 singles_count: 3
 top_tracks:
-- Bull Doze Blues (Lovin' Babe)
-- Fishing Blues (Lovin' Babe)
-- Bull Doze Blues
-- 'Bull Doze Blues (Texas Worried Blues: Complete Recorded Works 1927-1929)'
-- Red River Blues (Lovin' Babe)
-- Don't Ease Me In (Lovin' Babe)
-- Fishing Blues
-- 'Fishing Blues (Texas Worried Blues: Complete Recorded Works 1927-1929)'
-- When The Train Comes Along (Lovin' Babe)
-- Texas Easy Street (Lovin' Babe)
+  - Bull Doze Blues (Lovin' Babe)
+  - Fishing Blues (Lovin' Babe)
+  - Bull Doze Blues
+  - 'Bull Doze Blues (Texas Worried Blues: Complete Recorded Works 1927-1929)'
+  - Red River Blues (Lovin' Babe)
+  - Don't Ease Me In (Lovin' Babe)
+  - Fishing Blues
+  - 'Fishing Blues (Texas Worried Blues: Complete Recorded Works 1927-1929)'
+  - When The Train Comes Along (Lovin' Babe)
+  - Texas Easy Street (Lovin' Babe)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/1FGYC9AcBsascq5DSXX1Ie
-  wikipedia: https://en.wikipedia.org/wiki/Henry_Thomas_(musician)
+  spotify: 'https://open.spotify.com/artist/1FGYC9AcBsascq5DSXX1Ie'
+  wikipedia: 'https://en.wikipedia.org/wiki/Henry_Thomas_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/Henry_Thomas.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:28:02.251836'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://mojohand.com/glossary/henry-thomas/
-- https://www.tshaonline.org/handbook/entries/thomas-henry-ragtime-texas
-- https://www.mrrobertsonscorner.com/2024/06/the-life-of-blues-musician-henry-thomas.html
-- http://oldtimeblues.net/2017/06/30/vocalion-1094-henry-thomas-ragtime-texas-1927/
+  - 'https://mojohand.com/glossary/henry-thomas/'
+  - 'https://www.tshaonline.org/handbook/entries/thomas-henry-ragtime-texas'
+  - >-
+    https://www.mrrobertsonscorner.com/2024/06/the-life-of-blues-musician-henry-thomas.html
+  - >-
+    http://oldtimeblues.net/2017/06/30/vocalion-1094-henry-thomas-ragtime-texas-1927/
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 22:00:49.178159
+entry_created: 2025-09-22T22:00:49.178Z
 last_updated: '2025-12-23T08:16:09.573134'
+origin: 'Chicago, Illinois, United States'
+artist_type: person
 ---
 
 ![](Henry_Thomas.jpg)

@@ -5,17 +5,17 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1994-02-23'
-birth_place: Islington
+birth_place: 'Islington, London, United Kingdom'
 genres: []
 instruments:
-- piano
-- lead vocals
+  - piano
+  - lead vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: dadaa6a0-33f0-4782-8e6a-1e44540749d7
-  name: SPACE AGE
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: dadaa6a0-33f0-4782-8e6a-1e44540749d7
+    name: SPACE AGE
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/little_simz.jpg
   caption: Little Simz
@@ -37,54 +37,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Cleo Sol
-  - Inflo
-  - Gorillaz
+    - Cleo Sol
+    - Inflo
+    - Gorillaz
   influenced:
-  - ENNY
+    - ENNY
   mentors:
-  - Kendrick Lamar
-  - Dizzee Rascal
+    - Kendrick Lamar
+    - Dizzee Rascal
 spotify_data:
   followers: 1246847
   id: 6eXZu6O7nAUA5z6vLV8NKI
   popularity: 65
-  url: https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI
+  url: 'https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI'
 discography_enriched: true
 top_tracks:
-- WE PRAY - Single Version
-- WE PRAY (Moon Music)
-- WE PRAY (Moon Music (Full Moon Edition))
-- WE PRAY - (TINI Version)
-- WE PRAY - Jasleen Royal Version
-- Flood
-- Gorilla (NO THANK YOU)
-- WE PRAY - (Elyanna Version)
-- Young
-- Woman (Sometimes I Might Be Introvert)
+  - WE PRAY - Single Version
+  - WE PRAY (Moon Music)
+  - WE PRAY (Moon Music (Full Moon Edition))
+  - WE PRAY - (TINI Version)
+  - WE PRAY - Jasleen Royal Version
+  - Flood
+  - Gorilla (NO THANK YOU)
+  - WE PRAY - (Elyanna Version)
+  - Young
+  - Woman (Sometimes I Might Be Introvert)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3cdb40fe-a63e-4bb9-b40d-17cda5f50979
-  spotify: https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI
-  wikipedia: https://en.wikipedia.org/wiki/Little_Simz
+  musicbrainz: 'https://musicbrainz.org/artist/3cdb40fe-a63e-4bb9-b40d-17cda5f50979'
+  spotify: 'https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI'
+  wikipedia: 'https://en.wikipedia.org/wiki/Little_Simz'
 image_path: 03_Resources/source_material/ArtistPortraits/little_simz.jpg
 biography_enhanced_at: '2025-11-20T06:54:04.783648'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Little_Simz
-- https://www.last.fm/music/Little+Simz/+wiki
-- https://thegentlewoman.co.uk/library/little-simz
-- https://littlesimz.fandom.com/wiki/Little_Simz
-- https://exposure.org.uk/young_peoples_work/little-simz-rising-loud-from-north-london/
+  - 'https://en.wikipedia.org/wiki/Little_Simz'
+  - 'https://www.last.fm/music/Little+Simz/+wiki'
+  - 'https://thegentlewoman.co.uk/library/little-simz'
+  - 'https://littlesimz.fandom.com/wiki/Little_Simz'
+  - >-
+    https://exposure.org.uk/young_peoples_work/little-simz-rising-loud-from-north-london/
 network_extracted: true
 entry_created: '2025-11-20T06:54:04.783655'
 last_updated: '2025-12-23T08:16:12.033923'
 gender: Female
 musicbrainz_id: 3cdb40fe-a63e-4bb9-b40d-17cda5f50979
 tags:
-- hip hop
-- pop rap
-- rapper
+  - hip hop
+  - pop rap
+  - rapper
 ---
 
 ![](little_simz.jpg)

@@ -1,16 +1,17 @@
 ---
-title: Joshua Redman, Brad Mehldau, Chr
+title: 'Joshua Redman, Brad Mehldau, Christian McBride, Brian Blade'
 wiki_slug: joshua-redman-brad-mehldau-chr
 schema_version: 2
 status: active
 genres:
-- jazz
+  - jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/Joshua_Redman_Brad_Mehldau_Chr.jpg
-  caption: Joshua Redman, Brad Mehldau, Chr
+  image: >-
+    03_Resources/source_material/ArtistPortraits/Joshua_Redman_Brad_Mehldau_Chr.jpg
+  caption: 'Joshua Redman, Brad Mehldau, Chr'
   background: solo_singer
 audio_profile:
-  tempo_avg: 107.0
+  tempo_avg: 107
   energy_avg: 0.29
   valence_avg: 0.299
   danceability_avg: 0.444
@@ -24,53 +25,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Joshua Redman
-  - Brad Mehldau
-  - Christian McBride
-  - Brian Blade
-  - Larry Grenadier
+    - Joshua Redman
+    - Brad Mehldau
+    - Christian McBride
+    - Brian Blade
+    - Larry Grenadier
   influenced:
-  - Aaron Goldberg
-  - Younger jazz pianists
+    - Aaron Goldberg
+    - Younger jazz pianists
   mentors:
-  - Dewey Redman
-  - Betty Carter
+    - Dewey Redman
+    - Betty Carter
 spotify_data:
   followers: 250071
   id: 2vI9KFm0fwSfPrpEgOeIbq
   popularity: 47
-  url: https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq
+  url: 'https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq'
 discography_enriched: true
 top_tracks:
-- Blackbird (The Art of the Trio, Vol. 1)
-- 'Exit Music (Songs: The Art of the Trio, Vol. 3)'
-- Alfie (Day Is Done)
-- I Fall in Love Too Easily (The Art of the Trio, Vol. 1)
-- When It Rains (Largo)
-- Paranoid Android I (Mon chien Stupide (Bande originale du film))
-- Between the Bars
-- 'Your Mother Should Know (Your Mother Should Know: Brad Mehldau Plays The Beatles)'
-- Tabhair dom do Lámh (Chris Thile & Brad Mehldau)
-- Blame It on My Youth (The Art of the Trio, Vol. 1)
+  - 'Blackbird (The Art of the Trio, Vol. 1)'
+  - 'Exit Music (Songs: The Art of the Trio, Vol. 3)'
+  - Alfie (Day Is Done)
+  - 'I Fall in Love Too Easily (The Art of the Trio, Vol. 1)'
+  - When It Rains (Largo)
+  - Paranoid Android I (Mon chien Stupide (Bande originale du film))
+  - Between the Bars
+  - >-
+    Your Mother Should Know (Your Mother Should Know: Brad Mehldau Plays The
+    Beatles)
+  - Tabhair dom do Lámh (Chris Thile & Brad Mehldau)
+  - 'Blame It on My Youth (The Art of the Trio, Vol. 1)'
 external_urls:
-  spotify: https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq
-  wikipedia: https://en.wikipedia.org/wiki/LongGone
-image_path: 03_Resources/source_material/ArtistPortraits/Joshua_Redman_Brad_Mehldau_Chr.jpg
+  spotify: 'https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq'
+  wikipedia: 'https://en.wikipedia.org/wiki/LongGone'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/Joshua_Redman_Brad_Mehldau_Chr.jpg
 biography_enhanced_at: '2025-10-19T11:42:30.744777'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.sfjazz.org/onthecorner/brad-mehldau-and-joshua-redman-connections
-- https://www.laphil.com/musicdb/artists/4414/joshua-redman-quartet
-- https://cso.org/experience/article/25682/as-musicians-mcbride-and-mehldau-feel-that-th
-- https://en.wikipedia.org/wiki/LongGone
-- https://www.popmatters.com/redman-mehldau-mcbride-blade-roundagain-2646436231.html
-- https://www.nonesuch.com/journal/joshua-redman-brad-mehldau-christian-mcbride-brian-blade-longgone-nonesuch-2022-09-09
+  - >-
+    https://www.sfjazz.org/onthecorner/brad-mehldau-and-joshua-redman-connections
+  - 'https://www.laphil.com/musicdb/artists/4414/joshua-redman-quartet'
+  - >-
+    https://cso.org/experience/article/25682/as-musicians-mcbride-and-mehldau-feel-that-th
+  - 'https://en.wikipedia.org/wiki/LongGone'
+  - >-
+    https://www.popmatters.com/redman-mehldau-mcbride-blade-roundagain-2646436231.html
+  - >-
+    https://www.nonesuch.com/journal/joshua-redman-brad-mehldau-christian-mcbride-brian-blade-longgone-nonesuch-2022-09-09
 network_extracted: true
 entry_created: '2025-10-19T11:42:30.744784'
 last_updated: '2025-12-23T08:16:02.742732'
-origin: United States (New York City, NY for Redman and Mehldau's early collaborations)
-
+origin: 'New York City, NY, United States'
+artist_type: band
 ---
 
 ![](Joshua_Redman_Brad_Mehldau_Chr.jpg)

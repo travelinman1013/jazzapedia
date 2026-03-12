@@ -1,46 +1,52 @@
 ---
 biography_enhanced_at: '2025-12-29T01:14:57.712322'
-birth_place: Oberlin, Louisiana, U.S. (born); Soileau, Louisiana, U.S. (origin)
+birth_place: 'Oberlin, Louisiana, U.S. (born); Soileau, Louisiana, U.S. (origin)'
 enhancement_provider: perplexity
 entry_created: '2025-12-29T01:14:57.712336'
 external_urls:
-  spotify: https://open.spotify.com/artist/1YvjXYC3THkoI1oQR8kCpw
-  wikipedia: https://en.wikipedia.org/wiki/Preston_Frank
+  spotify: 'https://open.spotify.com/artist/1YvjXYC3THkoI1oQR8kCpw'
+  wikipedia: 'https://en.wikipedia.org/wiki/Preston_Frank'
 genres:
-- zydeco
-- cajun
-image_path: 03_Resources/source_material/ArtistPortraits/preston_frank_and_the_frank_family_band.jpg
+  - zydeco
+  - cajun
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/preston_frank_and_the_frank_family_band.jpg
 last_updated: '2025-12-29T01:14:57.712338'
 musical_connections:
   collaborators:
-  - Carlton Frank
-  - Hampton Frank
-  - Charles Prudhomme
-  - '''Slim'' Prudhomme'
-  - Keith Frank
-  - Brad Frank
-  - Jennifer Frank
+    - Carlton Frank
+    - Hampton Frank
+    - Charles Prudhomme
+    - '''Slim'' Prudhomme'
+    - Keith Frank
+    - Brad Frank
+    - Jennifer Frank
   influenced:
-  - Keith Frank
+    - Keith Frank
   mentors:
-  - Paul Frank
-  - Carlton Frank
+    - Paul Frank
+    - Carlton Frank
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Preston_Frank
-- https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/pfrank.htm.html
-- https://www.wwoz.org/acts/preston-frank-frank-family-band
-- https://centrum.org/faculty-profile/name/preston-frank/
-- https://kreolmagazine.com/preston-frank-a-legacy-of-zydeco-music-and-cultural-preservation/
-- https://www.offbeat.com/music/preston-frank-the-frank-family-band-seventy-five-soulwood-records/
+  - 'https://en.wikipedia.org/wiki/Preston_Frank'
+  - >-
+    https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/pfrank.htm.html
+  - 'https://www.wwoz.org/acts/preston-frank-frank-family-band'
+  - 'https://centrum.org/faculty-profile/name/preston-frank/'
+  - >-
+    https://kreolmagazine.com/preston-frank-a-legacy-of-zydeco-music-and-cultural-preservation/
+  - >-
+    https://www.offbeat.com/music/preston-frank-the-frank-family-band-seventy-five-soulwood-records/
 spotify_data:
   followers: 322
   id: 1YvjXYC3THkoI1oQR8kCpw
   popularity: 2
-  url: https://open.spotify.com/artist/1YvjXYC3THkoI1oQR8kCpw
+  url: 'https://open.spotify.com/artist/1YvjXYC3THkoI1oQR8kCpw'
 status: active
 title: Preston Frank & the Frank Family Band
+origin: 'Soileau, Louisiana, United States'
+artist_type: person
 ---
 
 ![](preston_frank_and_the_frank_family_band.jpg)

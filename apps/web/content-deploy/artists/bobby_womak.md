@@ -1,46 +1,52 @@
 ---
 biography_enhanced_at: '2026-01-09T01:58:23.969170'
-birth_place: Cleveland, Ohio, United States
+birth_place: 'Cleveland, Ohio, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-09T01:58:23.969178'
 external_urls:
-  spotify: https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq
-  wikipedia: https://en.wikipedia.org/wiki/Bobby_Womack
+  spotify: 'https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bobby_Womack'
 genres:
-- soul
+  - soul
 image_path: 03_Resources/source_material/ArtistPortraits/bobby_womak.jpg
 last_updated: '2026-01-09T01:58:23.969180'
 musical_connections:
   collaborators:
-  - The Valentinos (Womack Brothers)
-  - Wilson Pickett
-  - Aretha Franklin
-  - Patti LaBelle
-  - Gorillaz (Damon Albarn)
+    - The Valentinos (Womack Brothers)
+    - Wilson Pickett
+    - Aretha Franklin
+    - Patti LaBelle
+    - Gorillaz (Damon Albarn)
   influenced:
-  - The Rolling Stones
-  - New Birth
-  - Later soul and R&B vocalists (e.g., quiet storm and contemporary R&B singers)
+    - The Rolling Stones
+    - New Birth
+    - >-
+      Later soul and R&B vocalists (e.g., quiet storm and contemporary R&B
+      singers)
   mentors:
-  - Sam Cooke
+    - Sam Cooke
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Bobby_Womack
-- https://www.britannica.com/biography/Bobby-Womack
-- https://www.theroot.com/the-life-times-and-villain-era-of-soul-legend-bobby-wo-1851768393
-- https://www.promises.com/addiction-blog/bobby-womack-1944-2014-music-legend-overcame-drug-addiction-enjoyed-career-resurgence/
-- https://case.edu/ech/articles/w/womack-bobby
-- https://blackpast.org/african-american-history/womack-bobby-1944-2014/
-- https://www.imdb.com/name/nm0938810/bio/
+  - 'https://en.wikipedia.org/wiki/Bobby_Womack'
+  - 'https://www.britannica.com/biography/Bobby-Womack'
+  - >-
+    https://www.theroot.com/the-life-times-and-villain-era-of-soul-legend-bobby-wo-1851768393
+  - >-
+    https://www.promises.com/addiction-blog/bobby-womack-1944-2014-music-legend-overcame-drug-addiction-enjoyed-career-resurgence/
+  - 'https://case.edu/ech/articles/w/womack-bobby'
+  - 'https://blackpast.org/african-american-history/womack-bobby-1944-2014/'
+  - 'https://www.imdb.com/name/nm0938810/bio/'
 spotify_data:
   followers: 769864
   id: 0vqkz1b2qBkoYrGMj2CUWq
   popularity: 59
-  url: https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq
+  url: 'https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq'
 status: active
-title: BOBBY WOMAK
-
+title: Bobby Womack
+birth_date: '1944-03-04'
+death_date: '2014-06-27'
+artist_type: person
 ---
 
 ![](bobby_womak.jpg)

@@ -1,19 +1,19 @@
 ---
-title: CEDELL DAVIS
+title: CeDell Davis
 wiki_slug: cedell-davis
 schema_version: 2
 status: active
-birth_place: Helena, Arkansas, United States
+birth_place: 'Helena, Arkansas, United States'
 genres:
-- blues
-- modern blues
-- footwork
-- country blues
+  - blues
+  - modern blues
+  - footwork
+  - country blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/cedell_davis.jpg
   caption: CEDELL DAVIS
   background: solo_singer
-  origin: Helena, Arkansas, United States
+  origin: 'Helena, Arkansas, United States'
 audio_profile:
   tempo_avg: 121.9
   energy_avg: 0.474
@@ -21,7 +21,7 @@ audio_profile:
   danceability_avg: 0.602
   acousticness_avg: 0.562
   instrumentalness_avg: 0.105
-  loudness_avg: -10.0
+  loudness_avg: -10
   speechiness_avg: 0.072
   liveness_avg: 0.178
   track_count: 50
@@ -29,51 +29,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Col. Bruce Hampton & The Aquarium Rescue Unit
-  - Peter Buck
-  - Barrett Martin
-  - Scott McCaughey
-  - Alex Veley
-  - Joe Cripps
+    - Col. Bruce Hampton & The Aquarium Rescue Unit
+    - Peter Buck
+    - Barrett Martin
+    - Scott McCaughey
+    - Alex Veley
+    - Joe Cripps
   influenced:
-  - Tedeschi Trucks Band
+    - Tedeschi Trucks Band
   mentors:
-  - Doctor Ross (Isaiah Ross)
-  - Robert Nighthawk
+    - Doctor Ross (Isaiah Ross)
+    - Robert Nighthawk
 spotify_data:
   followers: 5509
   id: 0Savi9s4Zz0g4hENYhUP0F
   popularity: 10
-  url: https://open.spotify.com/artist/0Savi9s4Zz0g4hENYhUP0F
+  url: 'https://open.spotify.com/artist/0Savi9s4Zz0g4hENYhUP0F'
 discography_enriched: true
 top_tracks:
-- She's Got the Devil in Her (Even the Devil Gets the Blues)
-- Catfish & Cornbread (Last Man Standing)
-- Catfish Blues (Even the Devil Gets the Blues)
-- Green Onions (Feel Like Doin' Something Wrong)
-- I Don't Know Why (Feel Like Doin' Something Wrong)
-- If You Like Fat Women (Feel Like Doin' Something Wrong)
-- Keep on Snatchin It Back (The Horror of It All)
-- She's Got The Devil In Her (The Singing Earth)
-- Play with Your Poodle (Even the Devil Gets the Blues)
-- Boogie Chillen No. 2 (Feel Like Doin' Something Wrong)
+  - She's Got the Devil in Her (Even the Devil Gets the Blues)
+  - Catfish & Cornbread (Last Man Standing)
+  - Catfish Blues (Even the Devil Gets the Blues)
+  - Green Onions (Feel Like Doin' Something Wrong)
+  - I Don't Know Why (Feel Like Doin' Something Wrong)
+  - If You Like Fat Women (Feel Like Doin' Something Wrong)
+  - Keep on Snatchin It Back (The Horror of It All)
+  - She's Got The Devil In Her (The Singing Earth)
+  - Play with Your Poodle (Even the Devil Gets the Blues)
+  - Boogie Chillen No. 2 (Feel Like Doin' Something Wrong)
 external_urls:
-  spotify: https://open.spotify.com/artist/0Savi9s4Zz0g4hENYhUP0F
-  wikipedia: https://en.wikipedia.org/wiki/CeDell_Davis
+  spotify: 'https://open.spotify.com/artist/0Savi9s4Zz0g4hENYhUP0F'
+  wikipedia: 'https://en.wikipedia.org/wiki/CeDell_Davis'
 image_path: 03_Resources/source_material/ArtistPortraits/cedell_davis.jpg
 biography_enhanced_at: '2025-10-28T09:08:03.032335'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/CeDell_Davis
-- https://archive.musicmaker.org/artists/cedell-davis/
-- https://encyclopediaofarkansas.net/entries/ellis-cedell-davis-3613/
-- https://fatpossum.com/collections/cedell-davis
-- https://barrettmartin.com/2019/10/29/last-man-standing/
-- https://www.kuaf.com/show/ozarks-at-large/2025-08-18/the-life-legacy-of-arkansas-blues-legend-cedell-davis
+  - 'https://en.wikipedia.org/wiki/CeDell_Davis'
+  - 'https://archive.musicmaker.org/artists/cedell-davis/'
+  - 'https://encyclopediaofarkansas.net/entries/ellis-cedell-davis-3613/'
+  - 'https://fatpossum.com/collections/cedell-davis'
+  - 'https://barrettmartin.com/2019/10/29/last-man-standing/'
+  - >-
+    https://www.kuaf.com/show/ozarks-at-large/2025-08-18/the-life-legacy-of-arkansas-blues-legend-cedell-davis
 network_extracted: true
 entry_created: '2025-10-28T09:08:03.032345'
 last_updated: '2025-12-23T08:16:06.594186'
+birth_date: '1926-06-09'
+artist_type: person
 ---
 
 ![](cedell_davis.jpg)

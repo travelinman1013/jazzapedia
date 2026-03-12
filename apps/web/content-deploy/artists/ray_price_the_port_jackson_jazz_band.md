@@ -1,19 +1,20 @@
 ---
-title: Ray Price, The Port Jackson Jazz Band
+title: 'Ray Price, The Port Jackson Jazz Band'
 wiki_slug: ray-price-the-port-jackson-jazz-band
 schema_version: 2
 status: active
-birth_place: Sydney, New South Wales, Australia
+birth_place: 'Sydney, New South Wales, Australia'
 genres:
-- jazz
-- cool jazz
-- bebop
-- hard bop
+  - jazz
+  - cool jazz
+  - bebop
+  - hard bop
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/ray_price_the_port_jackson_jazz_band.jpg
-  caption: Ray Price, The Port Jackson Jazz Band
+  image: >-
+    03_Resources/source_material/ArtistPortraits/ray_price_the_port_jackson_jazz_band.jpg
+  caption: 'Ray Price, The Port Jackson Jazz Band'
   background: solo_singer
-  origin: Sydney, New South Wales, Australia
+  origin: 'Sydney, New South Wales, Australia'
 audio_profile:
   tempo_avg: 109.3
   energy_avg: 0.164
@@ -21,7 +22,7 @@ audio_profile:
   danceability_avg: 0.531
   acousticness_avg: 0.803
   instrumentalness_avg: 0.502
-  loudness_avg: -21.0
+  loudness_avg: -21
   speechiness_avg: 0.053
   liveness_avg: 0.137
   track_count: 61
@@ -29,47 +30,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jim Somerville
-  - Doc Willis
-  - Flannery, McCarthy, Harman
+    - Jim Somerville
+    - Doc Willis
+    - 'Flannery, McCarthy, Harman'
   influenced:
-  - Sydney jazz musicians of the 1950s–1980s
+    - Sydney jazz musicians of the 1950s–1980s
   mentors:
-  - Len Barnard
+    - Len Barnard
 spotify_data:
   followers: 29567
   id: 0SvD7DL5CQTbcrMtns1US8
   popularity: 39
-  url: https://open.spotify.com/artist/0SvD7DL5CQTbcrMtns1US8
+  url: 'https://open.spotify.com/artist/0SvD7DL5CQTbcrMtns1US8'
 discography_enriched: true
 top_tracks:
-- Dany Boy (For Betty)
-- Custard Puff (The Poll Winners Ride Again!)
-- A Foggy Day (Kessel Plays Standards)
-- When Your Lover Has Gone (Milestones of a Jazz Legend - Ben Webster, Vol. 2 (1957, 1959))
-- Girl Talk (For Betty)
-- Custard Puff (The Poll Winners Ride Again!)
-- 'It Never Entered My Mind: Higher and Higher: It Never Entered My Mind (from "Higher & Higher") (Milestones of a Jazz Legend
-  - Ben Webster, Vol. 4 (1957, 1959))'
-- Upstairs Blues (This Is Ray Brown)
-- On Green Dolphin Street (The Poll Winners)
-- Jordu (The Poll Winners)
+  - Dany Boy (For Betty)
+  - Custard Puff (The Poll Winners Ride Again!)
+  - A Foggy Day (Kessel Plays Standards)
+  - >-
+    When Your Lover Has Gone (Milestones of a Jazz Legend - Ben Webster, Vol. 2
+    (1957, 1959))
+  - Girl Talk (For Betty)
+  - Custard Puff (The Poll Winners Ride Again!)
+  - >-
+    It Never Entered My Mind: Higher and Higher: It Never Entered My Mind (from
+    "Higher & Higher") (Milestones of a Jazz Legend - Ben Webster, Vol. 4 (1957,
+    1959))
+  - Upstairs Blues (This Is Ray Brown)
+  - On Green Dolphin Street (The Poll Winners)
+  - Jordu (The Poll Winners)
 external_urls:
-  spotify: https://open.spotify.com/artist/0SvD7DL5CQTbcrMtns1US8
-  wikipedia: https://en.wikipedia.org/wiki/The_Port_Jackson_Jazz_Band
-image_path: 03_Resources/source_material/ArtistPortraits/ray_price_the_port_jackson_jazz_band.jpg
+  spotify: 'https://open.spotify.com/artist/0SvD7DL5CQTbcrMtns1US8'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Port_Jackson_Jazz_Band'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/ray_price_the_port_jackson_jazz_band.jpg
 biography_enhanced_at: '2025-11-16T20:12:03.824584'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://static1.squarespace.com/static/58bf64e6c534a5e3ac61401d/t/599d389e579fb3102efcf23b/1503475876625/JohnsonBruceRayPriceOBITUARY.pdf
-- https://archival.sl.nsw.gov.au/Details/archive/110094547
-- https://en.wikipedia.org/wiki/The_Port_Jackson_Jazz_Band
-- http://historyofaussiemusic.blogspot.com/2019/09/ray-price-quartet.html
-- https://rme.rilm.org/article?id=dau01005&v=1.0
+  - >-
+    https://static1.squarespace.com/static/58bf64e6c534a5e3ac61401d/t/599d389e579fb3102efcf23b/1503475876625/JohnsonBruceRayPriceOBITUARY.pdf
+  - 'https://archival.sl.nsw.gov.au/Details/archive/110094547'
+  - 'https://en.wikipedia.org/wiki/The_Port_Jackson_Jazz_Band'
+  - 'http://historyofaussiemusic.blogspot.com/2019/09/ray-price-quartet.html'
+  - 'https://rme.rilm.org/article?id=dau01005&v=1.0'
 network_extracted: true
 entry_created: '2025-11-16T20:12:03.824593'
 last_updated: '2025-12-23T08:16:14.688618'
+origin: 'Sydney, New South Wales, Australia'
+birth_date: '1921'
+death_date: '1990'
+artist_type: person
 ---
 
 ![](ray_price_the_port_jackson_jazz_band.jpg)

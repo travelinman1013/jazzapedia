@@ -3,16 +3,16 @@ title: Thays Sodre
 wiki_slug: thays-sodre
 schema_version: 2
 status: active
-birth_place: Pará, Brazil
+birth_place: 'Pará, Brazil'
 genres:
-- tecnobrega
+  - tecnobrega
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/thays_sodre.jpg
   caption: Thays Sodre
   background: solo_singer
-  origin: Pará, Brazil
+  origin: 'Pará, Brazil'
 audio_profile:
-  tempo_avg: 115.0
+  tempo_avg: 115
   energy_avg: 0.416
   valence_avg: 0.485
   danceability_avg: 0.533
@@ -28,38 +28,38 @@ musical_connections:
   collaborators: []
   influenced: []
   mentors:
-  - Luiz Gonzaga
+    - Luiz Gonzaga
 spotify_data:
   followers: 694
   id: 1GDU906NEmnJSrDKFB2QIo
   popularity: 19
-  url: https://open.spotify.com/artist/1GDU906NEmnJSrDKFB2QIo
+  url: 'https://open.spotify.com/artist/1GDU906NEmnJSrDKFB2QIo'
 discography_enriched: true
 top_tracks:
-- Confissão (Café Brazil by Putumayo)
-- Céu (Céu)
-- Confissão (Flor do Destino)
-- Baila do Lundu (Baila do Lundu)
-- Pérola Azulada (Pérola Azulada)
-- Tudo é Bom e Nada Presta (Flor do Destino)
-- Onde Está Você? (Onde Está Você?)
-- Sabor Açaí (Flor do Destino)
-- Não Vou Sair (Flor do Destino)
-- Seus Olhinhos (Seus Olhinhos)
+  - Confissão (Café Brazil by Putumayo)
+  - Céu (Céu)
+  - Confissão (Flor do Destino)
+  - Baila do Lundu (Baila do Lundu)
+  - Pérola Azulada (Pérola Azulada)
+  - Tudo é Bom e Nada Presta (Flor do Destino)
+  - Onde Está Você? (Onde Está Você?)
+  - Sabor Açaí (Flor do Destino)
+  - Não Vou Sair (Flor do Destino)
+  - Seus Olhinhos (Seus Olhinhos)
 external_urls:
-  spotify: https://open.spotify.com/artist/1GDU906NEmnJSrDKFB2QIo
+  spotify: 'https://open.spotify.com/artist/1GDU906NEmnJSrDKFB2QIo'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/thays_sodre.jpg
 biography_enhanced_at: '2025-11-02T07:27:46.776368'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.putumayo.com/thayssodr%C3%A9
-- https://bahia.ws/en/historia-origem-evolucao-forro/
+  - 'https://www.putumayo.com/thayssodr%C3%A9'
+  - 'https://bahia.ws/en/historia-origem-evolucao-forro/'
 network_extracted: true
 entry_created: '2025-11-02T07:27:46.776375'
 last_updated: '2025-12-23T08:16:04.045867'
-
+artist_type: person
 ---
 
 ![](thays_sodre.jpg)

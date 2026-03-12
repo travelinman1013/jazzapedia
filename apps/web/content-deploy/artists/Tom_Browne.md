@@ -2,21 +2,21 @@
 title: Tom Browne
 wiki_slug: tom-browne
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1954-10-30'
-birth_place: Queens, New York, United States
+birth_place: 'Queens, New York, United States'
 genres:
-- jazz funk
-- post-disco
+  - jazz funk
+  - post-disco
 instruments:
-- eponymous
+  - eponymous
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Tom_Browne.jpg
   caption: Tom Browne
   background: non_vocal_instrumentalist
   born: '1954-10-30'
-  origin: Queens, New York, United States
+  origin: 'Queens, New York, United States'
 audio_profile:
   tempo_avg: 112.1
   energy_avg: 0.684
@@ -24,7 +24,7 @@ audio_profile:
   danceability_avg: 0.721
   acousticness_avg: 0.197
   instrumentalness_avg: 0.301
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.101
   liveness_avg: 0.168
   track_count: 52
@@ -32,54 +32,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Weldon Irvine
-  - Sonny Fortune
-  - The Fatback Band
-  - Ron Carter
-  - Idris Muhammad
-  - Billy Childs
-  - Fred Wesley
-  - Groove Collective
-  - Joyce San Mateo
+    - Weldon Irvine
+    - Sonny Fortune
+    - The Fatback Band
+    - Ron Carter
+    - Idris Muhammad
+    - Billy Childs
+    - Fred Wesley
+    - Groove Collective
+    - Joyce San Mateo
   influenced:
-  - Numerous jazz-funk and R&B artists
+    - Numerous jazz-funk and R&B artists
   mentors:
-  - Murray Karpilovsky
-  - Jimmy Nottingham
-  - Richard Williams
-  - Woody Shaw
-  - Freddie Hubbard
+    - Murray Karpilovsky
+    - Jimmy Nottingham
+    - Richard Williams
+    - Woody Shaw
+    - Freddie Hubbard
 spotify_data:
   followers: 82985
   id: 4Ytvi4r3WPIZmEw1Ndmkp9
   popularity: 38
-  url: https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9
+  url: 'https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9'
 discography_enriched: true
 top_tracks:
-- Funkin' for Jamaica (Love Approach (Bonus Track))
-- Funkin' for Jamaica (Funkin' For Jamaica)
-- Charisma (Yours Truly)
-- Thighs High (Grip Your Hips and Move) (Magic (Expanded Edition))
-- Forever More (Love Approach (Bonus Track))
-- Impulse
-- Funkin' for Jamaica
-- Funkin' For Jamaica
-- Funkin' for Jamaica (DISCO - 100 Hit's - Dance floor fillers from the 70s and 80s inc. The Jacksons, Boney M & Earth Wind & Fire)
-- Brighter Tomorrow (Rockin' Radio (Expanded Edition))
+  - Funkin' for Jamaica (Love Approach (Bonus Track))
+  - Funkin' for Jamaica (Funkin' For Jamaica)
+  - Charisma (Yours Truly)
+  - Thighs High (Grip Your Hips and Move) (Magic (Expanded Edition))
+  - Forever More (Love Approach (Bonus Track))
+  - Impulse
+  - Funkin' for Jamaica
+  - Funkin' For Jamaica
+  - >-
+    Funkin' for Jamaica (DISCO - 100 Hit's - Dance floor fillers from the 70s
+    and 80s inc. The Jacksons, Boney M & Earth Wind & Fire)
+  - Brighter Tomorrow (Rockin' Radio (Expanded Edition))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2b2596a1-089b-47ee-9aad-0587da08383a
-  spotify: https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9
-  wikipedia: https://en.wikipedia.org/wiki/Tom_Browne_(trumpeter)
+  musicbrainz: 'https://musicbrainz.org/artist/2b2596a1-089b-47ee-9aad-0587da08383a'
+  spotify: 'https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tom_Browne_(trumpeter)'
 image_path: 03_Resources/source_material/ArtistPortraits/Tom_Browne.jpg
 biography_enhanced_at: '2025-10-19T12:40:01.653481'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.tombrowne.org/bio
-- https://wdet.org/2020/11/16/jazz-trumpeter-tom-browne-makes-his-own-lane/
-- https://bluesboulevardjazzgreenville.com/artists/tom-browne/
-- https://www.allmusic.com/artist/tom-browne-mn0000603091
-- https://www.sevenvenues.com/events/detail/tom-browne
+  - 'https://www.tombrowne.org/bio'
+  - 'https://wdet.org/2020/11/16/jazz-trumpeter-tom-browne-makes-his-own-lane/'
+  - 'https://bluesboulevardjazzgreenville.com/artists/tom-browne/'
+  - 'https://www.allmusic.com/artist/tom-browne-mn0000603091'
+  - 'https://www.sevenvenues.com/events/detail/tom-browne'
 network_extracted: true
 entry_created: '2025-10-19T12:40:01.653493'
 last_updated: '2025-12-23T08:16:04.185450'
@@ -88,10 +90,9 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:47:07.069941'
 musicbrainz_id: 2b2596a1-089b-47ee-9aad-0587da08383a
 tags:
-- contemporary jazz
-- contemporary r&b
-- funk
-
+  - contemporary jazz
+  - contemporary r&b
+  - funk
 ---
 
 ![](Tom_Browne.jpg)

@@ -1,28 +1,28 @@
 ---
-title: ELIZA
+title: Eliza
 wiki_slug: eliza
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1988-04-15'
-birth_place: Westminster, London, England, United Kingdom
+birth_place: 'Westminster, London, England, United Kingdom'
 genres:
-- alternative r&b
-- neo soul
+  - alternative r&b
+  - neo soul
 instruments:
-- lead vocals
+  - lead vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: dce02d78-ec77-416a-ac25-50dfc045fc7c
-  name: The Justice Collective
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: dce02d78-ec77-416a-ac25-50dfc045fc7c
+    name: The Justice Collective
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/eliza.jpg
   caption: ELIZA
   background: solo_singer
   born: '1988-04-15'
-  origin: Westminster, London, England, United Kingdom
+  origin: 'Westminster, London, England, United Kingdom'
 audio_profile:
   tempo_avg: 115.6
   energy_avg: 0.352
@@ -38,47 +38,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Disclosure
-  - Vic Mensa
-  - Wookie
-  - Jesse James Solomon
+    - Disclosure
+    - Vic Mensa
+    - Wookie
+    - Jesse James Solomon
   influenced:
-  - ''
+    - ''
   mentors:
-  - Aaliyah
-  - Radiohead (Kid A era)
-  - Whitney Houston
-  - Aretha Franklin
+    - Aaliyah
+    - Radiohead (Kid A era)
+    - Whitney Houston
+    - Aretha Franklin
 spotify_data:
   followers: 181766
   id: 0PgYKqH7ohfAm9LFgWjpl8
   popularity: 51
-  url: https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8
+  url: 'https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8'
 discography_enriched: true
 top_tracks:
-- CHROMA 008 TANGZ (CHROMA 008)
-- Heat of the Moon (A Sky Without Stars)
-- Straight Talker (A Sky Without Stars)
-- Wasn't Looking (A Real Romantic)
-- Abandon the Rule (A Sky Without Stars)
-- Lava/Treacle (Lava/Treacle)
-- Livid (A Real Romantic)
-- Everywhere I'll Ever Be (A Sky Without Stars)
-- Alone & Unafraid (A Real Romantic)
-- All Night (A Real Romantic)
+  - CHROMA 008 TANGZ (CHROMA 008)
+  - Heat of the Moon (A Sky Without Stars)
+  - Straight Talker (A Sky Without Stars)
+  - Wasn't Looking (A Real Romantic)
+  - Abandon the Rule (A Sky Without Stars)
+  - Lava/Treacle (Lava/Treacle)
+  - Livid (A Real Romantic)
+  - Everywhere I'll Ever Be (A Sky Without Stars)
+  - Alone & Unafraid (A Real Romantic)
+  - All Night (A Real Romantic)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c45c1037-5469-420c-ac21-83841efd815d
-  spotify: https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8
-  wikipedia: https://en.wikipedia.org/wiki/Eliza_Doolittle_(singer)
+  musicbrainz: 'https://musicbrainz.org/artist/c45c1037-5469-420c-ac21-83841efd815d'
+  spotify: 'https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8'
+  wikipedia: 'https://en.wikipedia.org/wiki/Eliza_Doolittle_(singer)'
 image_path: 03_Resources/source_material/ArtistPortraits/eliza.jpg
 biography_enhanced_at: '2025-12-10T05:19:25.766969'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://sungenre.com/artist/eliza/
-- https://www.officialcharts.com/chart-news/eliza-interview-leaving-my-major-label-was-like-leaving-a-band-i-want-to-help-change-the-world-for-better-in-my-own-little-way__37412/
-- https://www.therosiegspot.com/post/eliza
-- https://www.viberate.com/artist/eliza/
+  - 'https://sungenre.com/artist/eliza/'
+  - >-
+    https://www.officialcharts.com/chart-news/eliza-interview-leaving-my-major-label-was-like-leaving-a-band-i-want-to-help-change-the-world-for-better-in-my-own-little-way__37412/
+  - 'https://www.therosiegspot.com/post/eliza'
+  - 'https://www.viberate.com/artist/eliza/'
 network_extracted: true
 entry_created: '2025-12-10T05:19:25.766977'
 last_updated: '2025-12-23T08:16:08.300536'
@@ -86,10 +87,10 @@ disambiguation: Formerly Eliza Doolittle
 gender: Female
 musicbrainz_id: c45c1037-5469-420c-ac21-83841efd815d
 tags:
-- british
-- female vocalists
-- indie
-
+  - british
+  - female vocalists
+  - indie
+origin: 'Westminster, London, England, United Kingdom'
 ---
 
 ![](eliza.jpg)

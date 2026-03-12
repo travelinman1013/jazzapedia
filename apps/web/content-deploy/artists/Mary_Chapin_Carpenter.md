@@ -2,18 +2,18 @@
 title: Mary Chapin Carpenter
 wiki_slug: mary-chapin-carpenter
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1958-02-21'
-birth_place: Princeton, New Jersey, USA
+birth_place: 'Princeton, New Jersey, USA'
 genres:
-- classic country
+  - classic country
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Mary_Chapin_Carpenter.jpg
   caption: Mary Chapin Carpenter
   background: solo_singer
   born: '1958-02-21'
-  origin: Princeton, New Jersey, USA
+  origin: 'Princeton, New Jersey, USA'
 audio_profile:
   tempo_avg: 128.9
   energy_avg: 0.517
@@ -29,42 +29,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John Jennings
-  - Shawn Colvin
+    - John Jennings
+    - Shawn Colvin
   influenced:
-  - Brandy Clark
+    - Brandy Clark
   mentors:
-  - Mary Bowie Robertson
+    - Mary Bowie Robertson
 spotify_data:
   followers: 237128
   id: 0qAmeOULjwn04k6jMMeDyr
   popularity: 47
-  url: https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr
+  url: 'https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr'
 discography_enriched: true
 top_tracks:
-- Down at the Twist and Shout (The Essential Mary Chapin Carpenter)
-- He Thinks He'll Keep Her (The Essential Mary Chapin Carpenter)
-- I Feel Lucky
-- Down at the Twist and Shout
-- I Feel Lucky (Come On Come On)
-- Home Is A Song
-- Shut Up and Kiss Me (The Essential Mary Chapin Carpenter)
-- Shut Up and Kiss Me (Stones In The Road)
-- Passionate Kisses (The Essential Mary Chapin Carpenter)
-- Romeo (with Billy Ray Cyrus, Tanya Tucker, Mary Chapin Carpenter, Kathy Mattea & Pam Tillis) (Slow Dancing With The Moon)
+  - Down at the Twist and Shout (The Essential Mary Chapin Carpenter)
+  - He Thinks He'll Keep Her (The Essential Mary Chapin Carpenter)
+  - I Feel Lucky
+  - Down at the Twist and Shout
+  - I Feel Lucky (Come On Come On)
+  - Home Is A Song
+  - Shut Up and Kiss Me (The Essential Mary Chapin Carpenter)
+  - Shut Up and Kiss Me (Stones In The Road)
+  - Passionate Kisses (The Essential Mary Chapin Carpenter)
+  - >-
+    Romeo (with Billy Ray Cyrus, Tanya Tucker, Mary Chapin Carpenter, Kathy
+    Mattea & Pam Tillis) (Slow Dancing With The Moon)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ba1bf556-2af2-4772-835f-ed2e15070758
-  spotify: https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr
-  wikipedia: https://en.wikipedia.org/wiki/Mary_Chapin_Carpenter
+  musicbrainz: 'https://musicbrainz.org/artist/ba1bf556-2af2-4772-835f-ed2e15070758'
+  spotify: 'https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mary_Chapin_Carpenter'
 image_path: 03_Resources/source_material/ArtistPortraits/Mary_Chapin_Carpenter.jpg
 biography_enhanced_at: '2025-10-20T02:01:24.094171'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://mabumbe.com/people/mary-chapin-carpenter-age-net-worth-career-highlights-family-more/
-- https://kids.kiddle.co/Mary_Chapin_Carpenter
-- https://njhalloffame.org/2021-inductees/mary-chapin-carpenter/
-- https://www.marychapincarpenter.com/about
+  - >-
+    https://mabumbe.com/people/mary-chapin-carpenter-age-net-worth-career-highlights-family-more/
+  - 'https://kids.kiddle.co/Mary_Chapin_Carpenter'
+  - 'https://njhalloffame.org/2021-inductees/mary-chapin-carpenter/'
+  - 'https://www.marychapincarpenter.com/about'
 network_extracted: true
 entry_created: '2025-10-20T02:01:24.094180'
 last_updated: '2025-12-23T08:16:03.214230'
@@ -72,9 +75,9 @@ gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:37:10.586790'
 musicbrainz_id: ba1bf556-2af2-4772-835f-ed2e15070758
 tags:
-- aln-sh
-- country
-- folk
+  - aln-sh
+  - country
+  - folk
 ---
 
 ![](Mary_Chapin_Carpenter.jpg)

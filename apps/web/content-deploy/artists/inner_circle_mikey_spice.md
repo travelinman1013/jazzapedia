@@ -1,24 +1,24 @@
 ---
-title: INNER CIRCLE/ MIKEY SPICE
+title: Inner Circle/ Mikey Spice
 wiki_slug: inner-circle-mikey-spice
 schema_version: 2
 status: active
-birth_place: Kingston, Jamaica
+birth_place: 'Kingston, Jamaica, United States'
 genres:
-- lovers rock
-- reggae
+  - lovers rock
+  - reggae
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/inner_circle_mikey_spice.jpg
   caption: INNER CIRCLE/ MIKEY SPICE
   background: solo_singer
-  origin: Kingston, Jamaica
+  origin: 'Kingston, Jamaica'
 audio_profile:
   tempo_avg: 102.9
   energy_avg: 0.575
   valence_avg: 0.7
   danceability_avg: 0.687
   acousticness_avg: 0.11
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -7.3
   speechiness_avg: 0.114
   liveness_avg: 0.165
@@ -27,44 +27,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Luciano
-  - Tony Rebel
-  - Frankie Paul
-  - Shaggy
+    - Luciano
+    - Tony Rebel
+    - Frankie Paul
+    - Shaggy
   influenced: []
   mentors:
-  - Lou Rawls
+    - Lou Rawls
 spotify_data:
   followers: 40753
   id: 4pKmKFXWNCqDM9OfGraSbx
   popularity: 36
-  url: https://open.spotify.com/artist/4pKmKFXWNCqDM9OfGraSbx
+  url: 'https://open.spotify.com/artist/4pKmKFXWNCqDM9OfGraSbx'
 discography_enriched: true
 top_tracks:
-- I Am I Said (I Am I Said)
-- Walk A Mile (Walk A Mile)
-- Born Again (Born Again)
-- Practice What You Preach (Happiness)
-- The Power of Love (I Am I Said)
-- 50 Reggae Lovers Rock Songs - Continuous Mix
-- I Am I Said (I Am I Said)
-- Alli Alli Ho (Twice as Nice Vol. 2)
-- When You Are Lonely (Born Again)
-- Loving In Your Eyes (Happiness)
+  - I Am I Said (I Am I Said)
+  - Walk A Mile (Walk A Mile)
+  - Born Again (Born Again)
+  - Practice What You Preach (Happiness)
+  - The Power of Love (I Am I Said)
+  - 50 Reggae Lovers Rock Songs - Continuous Mix
+  - I Am I Said (I Am I Said)
+  - Alli Alli Ho (Twice as Nice Vol. 2)
+  - When You Are Lonely (Born Again)
+  - Loving In Your Eyes (Happiness)
 external_urls:
-  spotify: https://open.spotify.com/artist/4pKmKFXWNCqDM9OfGraSbx
-  wikipedia: https://en.wikipedia.org/wiki/Mikey_Spice
+  spotify: 'https://open.spotify.com/artist/4pKmKFXWNCqDM9OfGraSbx'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mikey_Spice'
 image_path: 03_Resources/source_material/ArtistPortraits/inner_circle_mikey_spice.jpg
 biography_enhanced_at: '2025-12-16T04:02:36.424710'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://caribbeanentertainmenthub.com/mikey-spice-the-forgotten-treasure-of-reggae
-- https://en.wikipedia.org/wiki/Mikey_Spice
-- https://music.apple.com/lc/artist/mikey-spice/3216120
+  - >-
+    https://caribbeanentertainmenthub.com/mikey-spice-the-forgotten-treasure-of-reggae
+  - 'https://en.wikipedia.org/wiki/Mikey_Spice'
+  - 'https://music.apple.com/lc/artist/mikey-spice/3216120'
 network_extracted: true
 entry_created: '2025-12-16T04:02:36.424735'
 last_updated: '2025-12-23T08:16:09.872874'
+birth_date: '1965-07-21'
+artist_type: person
 ---
 
 ![](inner_circle_mikey_spice.jpg)

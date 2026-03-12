@@ -5,14 +5,14 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1942-03-22'
-birth_place: Rio de Janeiro
+birth_place: 'Rio de Janeiro, Brazil'
 genres:
-- mpb
-- bossa nova
-- samba
-- brazilian jazz
+  - mpb
+  - bossa nova
+  - samba
+  - brazilian jazz
 instruments:
-- guitar
+  - guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jorge_ben_jor.jpg
   caption: Jorge Ben Jor
@@ -26,7 +26,7 @@ audio_profile:
   danceability_avg: 0.564
   acousticness_avg: 0.533
   instrumentalness_avg: 0.003
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.077
   liveness_avg: 0.293
   track_count: 51
@@ -34,54 +34,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sérgio Mendes
-  - Gilberto Gil
-  - Os Mutantes
+    - Sérgio Mendes
+    - Gilberto Gil
+    - Os Mutantes
   influenced:
-  - Mundo Livre S/A
-  - Racionais MC's
-  - Fernanda Abreu
+    - Mundo Livre S/A
+    - Racionais MC's
+    - Fernanda Abreu
   mentors:
-  - João Gilberto
+    - João Gilberto
 spotify_data:
   followers: 1212453
   id: 5JYtpnUKxAzXfHEYpOeeit
   popularity: 65
-  url: https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit
+  url: 'https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit'
 discography_enriched: true
 top_tracks:
-- Chove Chuva (Samba Esquema Novo)
-- Oba, Lá Vem Ela (Força Bruta)
-- Mas, Que Nada! (Samba Esquema Novo)
-- Carolina, Carol Bela
-- O Telefone Tocou Novamente (Força Bruta)
-- Menina Mulher Da Pele Preta (A Tabua De Esmeralda)
-- Solitário Surfista / Surfista Solitário (Sem Crise)
-- Ogum - Ao Vivo (Zeca Pagodinho - Uma Prova De Amor Ao Vivo (Deluxe))
-- País Tropical (Jorge Ben)
-- Amante Amado (A Banda do Zé Pretinho)
+  - Chove Chuva (Samba Esquema Novo)
+  - 'Oba, Lá Vem Ela (Força Bruta)'
+  - 'Mas, Que Nada! (Samba Esquema Novo)'
+  - 'Carolina, Carol Bela'
+  - O Telefone Tocou Novamente (Força Bruta)
+  - Menina Mulher Da Pele Preta (A Tabua De Esmeralda)
+  - Solitário Surfista / Surfista Solitário (Sem Crise)
+  - Ogum - Ao Vivo (Zeca Pagodinho - Uma Prova De Amor Ao Vivo (Deluxe))
+  - País Tropical (Jorge Ben)
+  - Amante Amado (A Banda do Zé Pretinho)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/19499124-36d4-4ccc-b28d-04dde3d2076f
-  spotify: https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit
-  wikipedia: https://en.wikipedia.org/wiki/Jorge_Ben
+  musicbrainz: 'https://musicbrainz.org/artist/19499124-36d4-4ccc-b28d-04dde3d2076f'
+  spotify: 'https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jorge_Ben'
 image_path: 03_Resources/source_material/ArtistPortraits/jorge_ben_jor.jpg
 biography_enhanced_at: '2025-11-20T07:02:23.514748'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://brazilbeatblog.wordpress.com/2018/03/01/jorge-ben-jor-part-one-introduction/
-- https://en.wikipedia.org/wiki/Jorge_Ben
-- https://www.last.fm/music/Jorge+Ben/+wiki
-- https://artsandculture.google.com/story/jorge-ben-jor-%E2%80%9Cwe-wanted-to-show-the-black-is-beautiful%E2%80%9D-instituto-gilberto-gil/BAXRAUunJ2IAkA?hl=en
+  - >-
+    https://brazilbeatblog.wordpress.com/2018/03/01/jorge-ben-jor-part-one-introduction/
+  - 'https://en.wikipedia.org/wiki/Jorge_Ben'
+  - 'https://www.last.fm/music/Jorge+Ben/+wiki'
+  - >-
+    https://artsandculture.google.com/story/jorge-ben-jor-%E2%80%9Cwe-wanted-to-show-the-black-is-beautiful%E2%80%9D-instituto-gilberto-gil/BAXRAUunJ2IAkA?hl=en
 network_extracted: true
 entry_created: '2025-11-20T07:02:23.514757'
 last_updated: '2025-12-23T08:16:10.965781'
 gender: Male
 musicbrainz_id: 19499124-36d4-4ccc-b28d-04dde3d2076f
 tags:
-- bossa nova
-- mpb
-- samba-rock
+  - bossa nova
+  - mpb
+  - samba-rock
 ---
 
 ![](jorge_ben_jor.jpg)

@@ -2,25 +2,25 @@
 title: Fats Domino
 wiki_slug: fats-domino
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1928-02-26'
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 death_date: '2017-10-24'
 genres:
-- rock and roll
-- doo-wop
-- rockabilly
-- boogie-woogie
+  - rock and roll
+  - doo-wop
+  - rockabilly
+  - boogie-woogie
 instruments:
-- eponymous
-- original
+  - eponymous
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Fats_Domino.jpg
   caption: Fats Domino
   background: non_vocal_instrumentalist
   born: '1928-02-26'
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
   died: '2017-10-24'
 audio_profile:
   tempo_avg: 116.5
@@ -37,48 +37,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dave Bartholomew
-  - Billy Diamond
-  - Buddy Hagans
+    - Dave Bartholomew
+    - Billy Diamond
+    - Buddy Hagans
   influenced:
-  - Elvis Presley
-  - The Beatles
-  - Dr. John
+    - Elvis Presley
+    - The Beatles
+    - Dr. John
   mentors:
-  - Harrison Verrett
-  - Fats Waller
-  - Albert Ammons
+    - Harrison Verrett
+    - Fats Waller
+    - Albert Ammons
 spotify_data:
   followers: 601270
   id: 09C0xjtosNAIXP36wTnWxd
   popularity: 51
-  url: https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd
+  url: 'https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd'
 discography_enriched: true
 top_tracks:
-- Blueberry Hill (Fats Domino Swings)
-- Ain't That A Shame (Fats Domino Swings)
-- Jambalaya (On The Bayou) (Legends Of Rock n' Roll)
-- Blueberry Hill - Remastered 2002
-- I'm Walkin' (Fats Domino Swings)
-- Walking To New Orleans (A Lot Of Dominos)
-- Blueberry Hill - Non Stop Edit (Legends Of Rock n' Roll)
-- Blue Monday (Fats Domino Swings)
-- Ain't That A Shame? - Remastered 2002
-- Ain't That A Shame (Legends Of Rock n' Roll)
+  - Blueberry Hill (Fats Domino Swings)
+  - Ain't That A Shame (Fats Domino Swings)
+  - Jambalaya (On The Bayou) (Legends Of Rock n' Roll)
+  - Blueberry Hill - Remastered 2002
+  - I'm Walkin' (Fats Domino Swings)
+  - Walking To New Orleans (A Lot Of Dominos)
+  - Blueberry Hill - Non Stop Edit (Legends Of Rock n' Roll)
+  - Blue Monday (Fats Domino Swings)
+  - Ain't That A Shame? - Remastered 2002
+  - Ain't That A Shame (Legends Of Rock n' Roll)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e787de5d-49e2-4b1f-9bde-1fd3a671b971
-  spotify: https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd
-  wikipedia: https://en.wikipedia.org/wiki/Fats_Domino
+  musicbrainz: 'https://musicbrainz.org/artist/e787de5d-49e2-4b1f-9bde-1fd3a671b971'
+  spotify: 'https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd'
+  wikipedia: 'https://en.wikipedia.org/wiki/Fats_Domino'
 image_path: 03_Resources/source_material/ArtistPortraits/Fats_Domino.jpg
 biography_enhanced_at: '2025-10-21T06:51:11.027780'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.biography.com/musicians/fats-domino
-- https://en.wikipedia.org/wiki/Fats_Domino
-- https://64parishes.org/entry/fats-domino
-- https://aaep1600.osu.edu/book/06_Domino.php
-- https://www.britannica.com/biography/Fats-Domino
+  - 'https://www.biography.com/musicians/fats-domino'
+  - 'https://en.wikipedia.org/wiki/Fats_Domino'
+  - 'https://64parishes.org/entry/fats-domino'
+  - 'https://aaep1600.osu.edu/book/06_Domino.php'
+  - 'https://www.britannica.com/biography/Fats-Domino'
 network_extracted: true
 entry_created: '2025-10-21T06:51:11.027799'
 last_updated: '2025-12-23T08:16:01.995634'
@@ -86,9 +86,11 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:26:17.514480'
 musicbrainz_id: e787de5d-49e2-4b1f-9bde-1fd3a671b971
 tags:
-- blues
-- boogie-woogie
-- new orleans r&b
+  - blues
+  - boogie-woogie
+  - new orleans r&b
+is_active: false
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](Fats_Domino.jpg)

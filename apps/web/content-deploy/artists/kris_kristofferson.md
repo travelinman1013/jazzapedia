@@ -1,46 +1,54 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-12T02:00:09.005023'
-birth_place: Brownsville, Texas, United States
+birth_place: 'Brownsville, Texas, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-12T02:00:09.005028'
 external_urls:
-  spotify: https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX
-  wikipedia: https://en.wikipedia.org/wiki/Kris_Kristofferson
+  spotify: 'https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kris_Kristofferson'
 genres:
-- outlaw country
-- classic country
-- country
+  - outlaw country
+  - classic country
+  - country
 image_path: 03_Resources/source_material/ArtistPortraits/kris_kristofferson.jpg
 last_updated: '2026-01-12T02:00:09.005029'
 musical_connections:
   collaborators:
-  - Johnny Cash
-  - Willie Nelson
-  - Waylon Jennings
-  - Rita Coolidge
-  - The Highwaymen (supergroup with Johnny Cash, Waylon Jennings, Willie Nelson)
+    - Johnny Cash
+    - Willie Nelson
+    - Waylon Jennings
+    - Rita Coolidge
+    - >-
+      The Highwaymen (supergroup with Johnny Cash, Waylon Jennings, Willie
+      Nelson)
   influenced:
-  - Outlaw country singer‑songwriters of the 1970s and later (e.g., the broader outlaw
-    country movement)
+    - >-
+      Outlaw country singer‑songwriters of the 1970s and later (e.g., the
+      broader outlaw country movement)
   mentors:
-  - Johnny Cash
-  - William Blake (literary influence)
+    - Johnny Cash
+    - William Blake (literary influence)
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.britannica.com/biography/Kris-Kristofferson
-- https://www.april4thfoundation.org/persons/KKristof.html
-- https://www.opb.org/article/2024/09/30/kris-kristofferson-musical-rebel-and-movie-star-has-died-at-age-88/
-- https://www.audible.com/podcast/Kris-Kristofferson-Audio-Biography/B0CQRT81GV
-- https://en.wikipedia.org/wiki/Kris_Kristofferson
+  - 'https://www.britannica.com/biography/Kris-Kristofferson'
+  - 'https://www.april4thfoundation.org/persons/KKristof.html'
+  - >-
+    https://www.opb.org/article/2024/09/30/kris-kristofferson-musical-rebel-and-movie-star-has-died-at-age-88/
+  - >-
+    https://www.audible.com/podcast/Kris-Kristofferson-Audio-Biography/B0CQRT81GV
+  - 'https://en.wikipedia.org/wiki/Kris_Kristofferson'
 spotify_data:
   followers: 714227
   id: 0vYQRW5LIDeYQOccTviQNX
   popularity: 63
-  url: https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX
+  url: 'https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX'
 status: active
 title: Kris Kristofferson
+origin: 'Nashville, Tennessee, United States'
+birth_date: '1936-06-22'
+death_date: '2024-09-28'
 ---
 
 ![](kris_kristofferson.jpg)

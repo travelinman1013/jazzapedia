@@ -5,44 +5,44 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1928-11-13'
-birth_place: Los Angeles
+birth_place: 'Los Angeles, California, United States'
 death_date: '1977-05-22'
 genres:
-- hard bop
-- bebop
-- jazz
-- cool jazz
+  - hard bop
+  - bebop
+  - jazz
+  - cool jazz
 instruments:
-- piano
-- eponymous
-- original
-- Rhodes piano
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - piano
-  mbid: 578a7157-bcb1-443d-8003-588eb2e43015
-  name: Wardell Gray Sextet
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: 8d55c763-f6ac-443a-b2d0-a0f4446cc095
-  name: Wardell Gray’s Los Angeles All Stars
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
-  - piano
-  mbid: 2b675ce3-dd1b-4a45-b288-634c45af6d2c
-  name: Hampton Hawes Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e76aea2f-968a-43bf-ac1c-e743dafab023
-  name: Teddy Edwards Septet
+  - Rhodes piano
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: 578a7157-bcb1-443d-8003-588eb2e43015
+    name: Wardell Gray Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: 8d55c763-f6ac-443a-b2d0-a0f4446cc095
+    name: Wardell Gray’s Los Angeles All Stars
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - piano
+    mbid: 2b675ce3-dd1b-4a45-b288-634c45af6d2c
+    name: Hampton Hawes Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e76aea2f-968a-43bf-ac1c-e743dafab023
+    name: Teddy Edwards Septet
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/hampton_hawes.jpg
   caption: Hampton Hawes
@@ -57,7 +57,7 @@ audio_profile:
   danceability_avg: 0.565
   acousticness_avg: 0.754
   instrumentalness_avg: 0.486
-  loudness_avg: -17.0
+  loudness_avg: -17
   speechiness_avg: 0.047
   liveness_avg: 0.157
   track_count: 52
@@ -65,67 +65,68 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dexter Gordon
-  - Wardell Gray
-  - Howard McGhee
-  - Shorty Rogers
-  - Art Pepper
-  - Red Mitchell
-  - Chuck Thompson
-  - Jim Hall
-  - Charles Mingus
-  - Harold Land
-  - Barney Kessel
-  - Shelly Manne
-  - Toshiko Akiyoshi
+    - Dexter Gordon
+    - Wardell Gray
+    - Howard McGhee
+    - Shorty Rogers
+    - Art Pepper
+    - Red Mitchell
+    - Chuck Thompson
+    - Jim Hall
+    - Charles Mingus
+    - Harold Land
+    - Barney Kessel
+    - Shelly Manne
+    - Toshiko Akiyoshi
   influenced:
-  - Horace Silver
+    - Horace Silver
   mentors:
-  - Earl 'Fatha' Hines
-  - Fats Waller
-  - Charlie Parker
+    - Earl 'Fatha' Hines
+    - Fats Waller
+    - Charlie Parker
 spotify_data:
   followers: 13653
   id: 6BvSJSt6l7QJO2GHvtwFOK
   popularity: 22
-  url: https://open.spotify.com/artist/6BvSJSt6l7QJO2GHvtwFOK
+  url: 'https://open.spotify.com/artist/6BvSJSt6l7QJO2GHvtwFOK'
 discography_enriched: true
 top_tracks:
-- Thou Swell (Four!)
-- You and the Night and the Music (All The Things You Are)
-- Crazeology - Instrumental (For Real!)
-- All the Things You Are (Jazz Stars)
-- Don't Get Around Much Anymore (All The Things You Are)
-- I Love You - Instrumental (For Real!)
-- Wrap Your Troubles In Dreams - Instrumental (For Real!)
-- Hip (For Real!)
-- Yardbird Suite (Four!)
-- Web - Remastered 2024
+  - Thou Swell (Four!)
+  - You and the Night and the Music (All The Things You Are)
+  - Crazeology - Instrumental (For Real!)
+  - All the Things You Are (Jazz Stars)
+  - Don't Get Around Much Anymore (All The Things You Are)
+  - I Love You - Instrumental (For Real!)
+  - Wrap Your Troubles In Dreams - Instrumental (For Real!)
+  - Hip (For Real!)
+  - Yardbird Suite (Four!)
+  - Web - Remastered 2024
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/0becbf36-027e-4b92-9689-ae03cc4ea6bb
-  spotify: https://open.spotify.com/artist/6BvSJSt6l7QJO2GHvtwFOK
-  wikipedia: https://en.wikipedia.org/wiki/Hampton_Hawes
+  musicbrainz: 'https://musicbrainz.org/artist/0becbf36-027e-4b92-9689-ae03cc4ea6bb'
+  spotify: 'https://open.spotify.com/artist/6BvSJSt6l7QJO2GHvtwFOK'
+  wikipedia: 'https://en.wikipedia.org/wiki/Hampton_Hawes'
 image_path: 03_Resources/source_material/ArtistPortraits/hampton_hawes.jpg
 biography_enhanced_at: '2025-12-04T07:57:05.670159'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- 'thejazzvnu.com - Hampton Hawes: Classic Jazz Artist'
-- Wikipedia - Hampton Hawes
-- fromthevaults-boppinbob.blogspot.com - Hampton Hawes born 13 November 1928
-- udiscovermusic.com - Hampton Hawes' Contemporary Years
-- concord.com - Hampton Hawes
-- allaboutjazz.com - Hampton Hawes Musician
-- jango.com - Hampton Hawes
+  - 'thejazzvnu.com - Hampton Hawes: Classic Jazz Artist'
+  - Wikipedia - Hampton Hawes
+  - fromthevaults-boppinbob.blogspot.com - Hampton Hawes born 13 November 1928
+  - udiscovermusic.com - Hampton Hawes' Contemporary Years
+  - concord.com - Hampton Hawes
+  - allaboutjazz.com - Hampton Hawes Musician
+  - jango.com - Hampton Hawes
 network_extracted: true
 entry_created: '2025-12-04T07:57:05.670167'
 last_updated: '2025-12-23T08:16:09.451919'
 gender: Male
 musicbrainz_id: 0becbf36-027e-4b92-9689-ae03cc4ea6bb
 tags:
-- american
-- bebop
-- hard bop
+  - american
+  - bebop
+  - hard bop
+is_active: false
 ---
 
 ![](hampton_hawes.jpg)

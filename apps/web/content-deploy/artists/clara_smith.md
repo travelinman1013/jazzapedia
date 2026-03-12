@@ -1,46 +1,50 @@
 ---
 biography_enhanced_at: '2026-01-22T07:06:41.569123'
-birth_place: Spartanburg, South Carolina, USA
+birth_place: 'Spartanburg, South Carolina, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:06:41.569130'
 external_urls:
-  spotify: https://open.spotify.com/artist/2It5hXbGPFBNCCJQQr7iHH
-  wikipedia: https://en.wikipedia.org/wiki/Clara_Smith
+  spotify: 'https://open.spotify.com/artist/2It5hXbGPFBNCCJQQr7iHH'
+  wikipedia: 'https://en.wikipedia.org/wiki/Clara_Smith'
 genres:
-- classic blues
-- blues
-- ragtime
+  - classic blues
+  - blues
+  - ragtime
 image_path: 03_Resources/source_material/ArtistPortraits/clara_smith.jpg
 last_updated: '2026-01-22T07:06:41.569131'
 musical_connections:
   collaborators:
-  - Louis Armstrong
-  - Fletcher Henderson
-  - Don Redman
-  - Bessie Smith
-  - Lonnie Johnson
-  - James P. Johnson
+    - Louis Armstrong
+    - Fletcher Henderson
+    - Don Redman
+    - Bessie Smith
+    - Lonnie Johnson
+    - James P. Johnson
   influenced:
-  - Josephine Baker
+    - Josephine Baker
   mentors:
-  - None identified
+    - None identified
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.spartanburgmusictrail.com/music-makers/clara-smith
-- https://studysc.org/sc-people/clara-smith
-- https://blinddogradio.blogspot.com/2019/12/clara-smith.html
-- https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/smith-clara-1894-1935
-- https://rsa.fau.edu/clara-smith
-- https://en.wikipedia.org/wiki/Clara_Smith
-- https://activisthistory.com/2019/05/28/the-queer-moan-of-clara-smith-on-queer-aphasia-in-blues-studies/
+  - 'https://www.spartanburgmusictrail.com/music-makers/clara-smith'
+  - 'https://studysc.org/sc-people/clara-smith'
+  - 'https://blinddogradio.blogspot.com/2019/12/clara-smith.html'
+  - >-
+    https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/smith-clara-1894-1935
+  - 'https://rsa.fau.edu/clara-smith'
+  - 'https://en.wikipedia.org/wiki/Clara_Smith'
+  - >-
+    https://activisthistory.com/2019/05/28/the-queer-moan-of-clara-smith-on-queer-aphasia-in-blues-studies/
 spotify_data:
   followers: 3539
   id: 2It5hXbGPFBNCCJQQr7iHH
   popularity: 9
-  url: https://open.spotify.com/artist/2It5hXbGPFBNCCJQQr7iHH
+  url: 'https://open.spotify.com/artist/2It5hXbGPFBNCCJQQr7iHH'
 status: active
-title: CLARA SMITH
+title: Clara Smith
+birth_date: '1894-03-13'
+artist_type: person
 ---
 
 ![](clara_smith.jpg)

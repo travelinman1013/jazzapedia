@@ -5,21 +5,21 @@ schema_version: 2
 status: deceased
 aliases: []
 birth_date: '1942-01-01'
-birth_place: Violet, Louisiana, United States
+birth_place: 'Violet, Louisiana, United States'
 death_date: '1998-11-13'
 years_active: 1962-1998
 genres:
-- northern soul
+  - northern soul
 instruments:
-- voice
+  - voice
 occupation:
-- singer
+  - singer
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Eldridge_Holmes.jpg
   caption: Eldridge Holmes
   background: solo_singer
   born: '1942-01-01'
-  origin: Violet, Louisiana, United States
+  origin: 'Violet, Louisiana, United States'
   died: '1998-11-13'
 audio_profile:
   tempo_avg: 110.6
@@ -27,8 +27,8 @@ audio_profile:
   valence_avg: 0.729
   danceability_avg: 0.58
   acousticness_avg: 0.628
-  instrumentalness_avg: 0.0
-  loudness_avg: -12.0
+  instrumentalness_avg: 0
+  loudness_avg: -12
   speechiness_avg: 0.064
   liveness_avg: 0.239
   track_count: 50
@@ -36,51 +36,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Meters
-  - Marshall Sehorn
+    - The Meters
+    - Marshall Sehorn
   influenced:
-  - Northern Soul artists and DJs
+    - Northern Soul artists and DJs
   mentors:
-  - Allen Toussaint
+    - Allen Toussaint
 related_artists: []
 spotify_data:
   followers: 2204
   id: 25aWvOh8uTg8ZZSZvOPB9P
   popularity: 13
-  url: https://open.spotify.com/artist/25aWvOh8uTg8ZZSZvOPB9P
+  url: 'https://open.spotify.com/artist/25aWvOh8uTg8ZZSZvOPB9P'
   verified: false
 discography_enriched: true
 albums_count: 5
 singles_count: 6
 top_tracks:
-- The Book - Remastered (Artist • Producer • Songwriter (Deluxe Edition))
-- Gone, Gone, Gone - Remastered (Artist • Producer • Songwriter (Deluxe Edition))
-- Where is Love (Now That I've Lost You / Where is Love)
-- If I Were a Carpenter (Love Problem)
-- Hump Back (No Substitute)
-- Where Is The Love (Essential Louisiana R&B)
-- Wait for Me Baby (Beverly)
-- Wait for Me Baby (New Orleans Soul ('65-'67))
-- The Book (Love Problem)
-- Now That I've Lost You (Now That I've Lost You / Where is Love)
+  - The Book - Remastered (Artist • Producer • Songwriter (Deluxe Edition))
+  - >-
+    Gone, Gone, Gone - Remastered (Artist • Producer • Songwriter (Deluxe
+    Edition))
+  - Where is Love (Now That I've Lost You / Where is Love)
+  - If I Were a Carpenter (Love Problem)
+  - Hump Back (No Substitute)
+  - Where Is The Love (Essential Louisiana R&B)
+  - Wait for Me Baby (Beverly)
+  - Wait for Me Baby (New Orleans Soul ('65-'67))
+  - The Book (Love Problem)
+  - Now That I've Lost You (Now That I've Lost You / Where is Love)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/25aWvOh8uTg8ZZSZvOPB9P
-  wikipedia: https://en.wikipedia.org/wiki/Eldridge_Holmes
+  spotify: 'https://open.spotify.com/artist/25aWvOh8uTg8ZZSZvOPB9P'
+  wikipedia: 'https://en.wikipedia.org/wiki/Eldridge_Holmes'
 image_path: 03_Resources/source_material/ArtistPortraits/Eldridge_Holmes.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:25:05.814378'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Eldridge_Holmes
-- https://homeofthegroove.blogspot.com/2008/06/eldridge-holmes-sells-book.html
-- https://www.nts.live/artists/53605-eldridge-holmes
-- https://homeofthegroove.blogspot.com/2007/06/three-sides-of-eldridge-holmes.html
+  - 'https://en.wikipedia.org/wiki/Eldridge_Holmes'
+  - 'https://homeofthegroove.blogspot.com/2008/06/eldridge-holmes-sells-book.html'
+  - 'https://www.nts.live/artists/53605-eldridge-holmes'
+  - >-
+    https://homeofthegroove.blogspot.com/2007/06/three-sides-of-eldridge-holmes.html
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 11:44:41.351700
+entry_created: 2025-09-18T11:44:41.351Z
 last_updated: '2025-12-23T08:16:01.870764'
+is_active: false
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](Eldridge_Holmes.jpg)

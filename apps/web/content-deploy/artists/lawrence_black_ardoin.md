@@ -1,17 +1,17 @@
 ---
-title: LAWRENCE BLACK ARDOIN
+title: Lawrence Black Ardoin
 wiki_slug: lawrence-black-ardoin
 schema_version: 2
 status: active
-birth_place: Duralde, Louisiana, USA
+birth_place: 'Duralde, Louisiana, USA'
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lawrence_black_ardoin.jpg
   caption: LAWRENCE BLACK ARDOIN
   background: solo_singer
-  origin: Duralde, Louisiana, USA
+  origin: 'Duralde, Louisiana, USA'
 audio_profile:
   tempo_avg: 122.3
   energy_avg: 0.645
@@ -27,49 +27,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Morris Ardoin
-  - Edward Poullard
-  - Canray Fontenot
-  - Sean Ardoin
+    - Morris Ardoin
+    - Edward Poullard
+    - Canray Fontenot
+    - Sean Ardoin
   influenced:
-  - Chris Ardoin
-  - Sean Ardoin
+    - Chris Ardoin
+    - Sean Ardoin
   mentors:
-  - Alphonse "Bois Sec" Ardoin
+    - Alphonse "Bois Sec" Ardoin
 spotify_data:
   followers: 271
   id: 3n5M1gxyL36k5s1596kTIo
   popularity: 1
-  url: https://open.spotify.com/artist/3n5M1gxyL36k5s1596kTIo
+  url: 'https://open.spotify.com/artist/3n5M1gxyL36k5s1596kTIo'
 discography_enriched: true
 top_tracks:
-- Matilda (Tradition Creole)
-- Cofair (15 Louisiana Zydeco Classics)
-- You Used to Call Me (Tradition Creole)
-- Walking Down the Interstate (Tradition Creole)
-- Midland Two-Step (Zydeco Champs)
-- I've Been There (Zydeco Champs)
-- 'Cofair (Classic Creole Music, Vol. 10: Zydeco)'
-- 'Cofair (Classic Creole Music, Vol. 10: Zydeco)'
-- Bayou Two Step (Tradition Creole)
-- Haunted House (Tradition Creole)
+  - Matilda (Tradition Creole)
+  - Cofair (15 Louisiana Zydeco Classics)
+  - You Used to Call Me (Tradition Creole)
+  - Walking Down the Interstate (Tradition Creole)
+  - Midland Two-Step (Zydeco Champs)
+  - I've Been There (Zydeco Champs)
+  - 'Cofair (Classic Creole Music, Vol. 10: Zydeco)'
+  - 'Cofair (Classic Creole Music, Vol. 10: Zydeco)'
+  - Bayou Two Step (Tradition Creole)
+  - Haunted House (Tradition Creole)
 external_urls:
-  spotify: https://open.spotify.com/artist/3n5M1gxyL36k5s1596kTIo
+  spotify: 'https://open.spotify.com/artist/3n5M1gxyL36k5s1596kTIo'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/lawrence_black_ardoin.jpg
 biography_enhanced_at: '2025-11-20T07:20:43.886124'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://arhoolie.org/deep-dives-black-history-month/
-- https://folkways-media.si.edu/docs/folkways/artwork/ARH09012.pdf
-- https://www.visitlakecharles.org/blog/post/zydeco-roots-in-lake-charles-la/
-- https://www.iheart.com/artist/lawrence-ardoin-33362823/
-- https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/bardoin.htm.html
-- https://folkways.si.edu/lawrence-black-ardoin/tradition-creole/cajun-zydeco/music/album/smithsonian
+  - 'https://arhoolie.org/deep-dives-black-history-month/'
+  - 'https://folkways-media.si.edu/docs/folkways/artwork/ARH09012.pdf'
+  - 'https://www.visitlakecharles.org/blog/post/zydeco-roots-in-lake-charles-la/'
+  - 'https://www.iheart.com/artist/lawrence-ardoin-33362823/'
+  - >-
+    https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/bardoin.htm.html
+  - >-
+    https://folkways.si.edu/lawrence-black-ardoin/tradition-creole/cajun-zydeco/music/album/smithsonian
 network_extracted: true
 entry_created: '2025-11-20T07:20:43.886135'
 last_updated: '2025-12-23T08:16:11.650668'
+birth_date: '1946-11-17'
+artist_type: person
 ---
 
 ![](lawrence_black_ardoin.jpg)

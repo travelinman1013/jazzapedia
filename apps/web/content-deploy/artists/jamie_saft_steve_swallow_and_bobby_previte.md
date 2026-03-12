@@ -1,14 +1,15 @@
 ---
-title: Jamie Saft, Steve Swallow, & Bobby Previte
+title: 'Jamie Saft, Steve Swallow, & Bobby Previte'
 wiki_slug: jamie-saft-steve-swallow-bobby-previte
 schema_version: 2
 status: active
 genres:
-- drone metal
-- avant-garde
+  - drone metal
+  - avant-garde
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/jamie_saft_steve_swallow_and_bobby_previte.jpg
-  caption: Jamie Saft, Steve Swallow, & Bobby Previte
+  image: >-
+    03_Resources/source_material/ArtistPortraits/jamie_saft_steve_swallow_and_bobby_previte.jpg
+  caption: 'Jamie Saft, Steve Swallow, & Bobby Previte'
   background: solo_singer
 audio_profile:
   tempo_avg: 114.7
@@ -25,49 +26,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Iggy Pop
-  - John Zorn
-  - Marc Ribot
+    - Iggy Pop
+    - John Zorn
+    - Marc Ribot
   influenced:
-  - Younger jazz and experimental musicians
+    - Younger jazz and experimental musicians
   mentors:
-  - John Zorn
+    - John Zorn
 spotify_data:
   followers: 176
   id: 6shMCECU8rEpAb89BiqRyD
   popularity: 3
-  url: https://open.spotify.com/artist/6shMCECU8rEpAb89BiqRyD
+  url: 'https://open.spotify.com/artist/6shMCECU8rEpAb89BiqRyD'
 discography_enriched: true
 top_tracks:
-- Just Another Murder (Keystone)
-- Black Shabbis - The Trail Of Libels (Black Shabbis)
-- A Noise from the Deep (Keystone)
-- Sapphire Sky Blue (Keystone)
-- Butterfly Effect (Keystone)
-- Mabel Normand (Keystone)
-- The Real Roscoe (Keystone)
-- Famous Players (Keystone)
-- Hollywood (Keystone)
-- Issachar (Borscht Belt Studies)
+  - Just Another Murder (Keystone)
+  - Black Shabbis - The Trail Of Libels (Black Shabbis)
+  - A Noise from the Deep (Keystone)
+  - Sapphire Sky Blue (Keystone)
+  - Butterfly Effect (Keystone)
+  - Mabel Normand (Keystone)
+  - The Real Roscoe (Keystone)
+  - Famous Players (Keystone)
+  - Hollywood (Keystone)
+  - Issachar (Borscht Belt Studies)
 external_urls:
-  spotify: https://open.spotify.com/artist/6shMCECU8rEpAb89BiqRyD
-  wikipedia: https://en.wikipedia.org/wiki/Jamie_Saft
-image_path: 03_Resources/source_material/ArtistPortraits/jamie_saft_steve_swallow_and_bobby_previte.jpg
+  spotify: 'https://open.spotify.com/artist/6shMCECU8rEpAb89BiqRyD'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jamie_Saft'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/jamie_saft_steve_swallow_and_bobby_previte.jpg
 biography_enhanced_at: '2025-10-28T09:01:26.394871'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://downbeat.com/news/detail/jamie-saft-rarenoise-qa
-- https://jazzdagama.com/music/jamie-saft-steve-swallow-and-bobby-previte-you-dont-know-the-life/
-- https://jazztimes.com/reviews/albums/jamie-saftsteve-swallowbobby-previte-the-new-standard/
-- https://loudswell.com/artist/jamie-saft-steve-swallow-bobby-previte/
-- https://www.allaboutjazz.com/loneliness-road-jamie-saft-steve-swallow-bobby-previte-rarenoiserecords-review-by-dan-mcclenaghan
-- https://en.wikipedia.org/wiki/Jamie_Saft
+  - 'https://downbeat.com/news/detail/jamie-saft-rarenoise-qa'
+  - >-
+    https://jazzdagama.com/music/jamie-saft-steve-swallow-and-bobby-previte-you-dont-know-the-life/
+  - >-
+    https://jazztimes.com/reviews/albums/jamie-saftsteve-swallowbobby-previte-the-new-standard/
+  - 'https://loudswell.com/artist/jamie-saft-steve-swallow-bobby-previte/'
+  - >-
+    https://www.allaboutjazz.com/loneliness-road-jamie-saft-steve-swallow-bobby-previte-rarenoiserecords-review-by-dan-mcclenaghan
+  - 'https://en.wikipedia.org/wiki/Jamie_Saft'
 network_extracted: true
 entry_created: '2025-10-28T09:01:26.394884'
 last_updated: '2025-12-23T08:16:10.190604'
-origin: New York, New York, USA (primary base for Jamie Saft; Steve Swallow and Bobby Previte are also associated with the
-  New York jazz scene)
+origin: >-
+  New York, New York, USA (primary base for Jamie Saft; Steve Swallow and Bobby
+  Previte are also associated with the New York jazz scene)
+artist_type: band
 ---
 
 ![](jamie_saft_steve_swallow_and_bobby_previte.jpg)

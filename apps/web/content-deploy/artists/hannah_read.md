@@ -4,20 +4,20 @@ wiki_slug: hannah-read
 schema_version: 2
 artist_type: person
 status: active
-birth_place: Edinburgh
+birth_place: 'Edinburgh, Scotland, United Kingdom'
 genres:
-- bedroom pop
+  - bedroom pop
 instruments:
-- fiddle
-- guitar
-- lead vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - fiddle
-  mbid: e9760dee-7ef7-4987-b6db-4ae4f51eab96
-  name: Songs of Separation
+  - guitar
+  - lead vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - fiddle
+    mbid: e9760dee-7ef7-4987-b6db-4ae4f51eab96
+    name: Songs of Separation
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/hannah_read.jpg
   caption: Hannah Read
@@ -38,44 +38,44 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Michael Starkey
-  - Songs of Separation
-  - Sarah Jarosz, Jefferson Hamer, Jeff Picker
+    - Michael Starkey
+    - Songs of Separation
+    - 'Sarah Jarosz, Jefferson Hamer, Jeff Picker'
   influenced: []
   mentors:
-  - Traditional Scottish musicians
+    - Traditional Scottish musicians
 spotify_data:
   followers: 40080
   id: 523ty8zP7K5cPIdenUm4bj
   popularity: 45
-  url: https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj
+  url: 'https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj'
 discography_enriched: true
 top_tracks:
-- My Love (My Love)
-- Warning Sign (Aperture)
-- Lose (Aperture)
-- Say It Now (Aperture)
-- What Is Going On? (What Is Going On?)
-- All My Time Is Wasted (All My Time Is Wasted)
-- Think Too Much (What Is Going On?)
-- What You Did (Aperture)
-- Admit It (Aperture)
-- Dreaming (Aperture)
+  - My Love (My Love)
+  - Warning Sign (Aperture)
+  - Lose (Aperture)
+  - Say It Now (Aperture)
+  - What Is Going On? (What Is Going On?)
+  - All My Time Is Wasted (All My Time Is Wasted)
+  - Think Too Much (What Is Going On?)
+  - What You Did (Aperture)
+  - Admit It (Aperture)
+  - Dreaming (Aperture)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/61f294a2-1be3-48be-ae24-c6e575a9140b
-  spotify: https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj
+  musicbrainz: 'https://musicbrainz.org/artist/61f294a2-1be3-48be-ae24-c6e575a9140b'
+  spotify: 'https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/hannah_read.jpg
 biography_enhanced_at: '2025-11-08T21:49:10.299507'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.passim.org/artists/hannah-read/
-- https://theglasshouseicm.org/hannah-read-fiddle-and-americana-band/
-- https://thebluegrasssituation.com/read/basic-folk-hannah-read/
-- https://www.hannahread.com/about
-- https://www.hannahandmichaelmusic.com/bio1
-- https://hudsonrecords.co.uk/artist/hannah-read
+  - 'https://www.passim.org/artists/hannah-read/'
+  - 'https://theglasshouseicm.org/hannah-read-fiddle-and-americana-band/'
+  - 'https://thebluegrasssituation.com/read/basic-folk-hannah-read/'
+  - 'https://www.hannahread.com/about'
+  - 'https://www.hannahandmichaelmusic.com/bio1'
+  - 'https://hudsonrecords.co.uk/artist/hannah-read'
 network_extracted: true
 entry_created: '2025-11-08T21:49:10.299521'
 last_updated: '2025-12-23T08:16:09.505118'

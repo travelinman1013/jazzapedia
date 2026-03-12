@@ -1,17 +1,17 @@
 ---
-title: arathejay & wise shady
+title: Arathejay & Wise Shady
 wiki_slug: arathejay-wise-shady
 schema_version: 2
 status: active
-birth_place: Sekondi-Takoradi, Ghana
+birth_place: 'Sekondi-Takoradi, Ghana, Ghana'
 genres:
-- baltimore club
-- jersey club
+  - baltimore club
+  - jersey club
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/arathejay_and_wise_shady.jpg
   caption: arathejay & wise shady
   background: solo_singer
-  origin: Sekondi-Takoradi, Ghana
+  origin: 'Sekondi-Takoradi, Ghana'
 audio_profile:
   tempo_avg: 129.1
   energy_avg: 0.632
@@ -27,47 +27,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - King Promise
-  - Wise Shady
-  - Bella
-  - Black Sharie
-  - Grenade
+    - King Promise
+    - Wise Shady
+    - Bella
+    - Black Sharie
+    - Grenade
   influenced: []
   mentors: []
 spotify_data:
   followers: 348
   id: 4lbr44We5XdOj2aElp1mzx
   popularity: 2
-  url: https://open.spotify.com/artist/4lbr44We5XdOj2aElp1mzx
+  url: 'https://open.spotify.com/artist/4lbr44We5XdOj2aElp1mzx'
 discography_enriched: true
 top_tracks:
-- Pipe (Pipe)
-- Nunya (Nunya)
-- Turn You to a Dancer Challenge (Turn You to a Dancer Challenge)
-- FUCKED UP (Studio Rats, Vol. 1)
-- Rolando
-- BAILE FUNK CULTURE PARTY (BAILE FUNK CULTURE PARTY)
-- CHIK FIL A (CHIK FIL A)
-- Moving (Moving)
-- Dlya Her (Dlya Her)
-- Sad (Sad)
+  - Pipe (Pipe)
+  - Nunya (Nunya)
+  - Turn You to a Dancer Challenge (Turn You to a Dancer Challenge)
+  - 'FUCKED UP (Studio Rats, Vol. 1)'
+  - Rolando
+  - BAILE FUNK CULTURE PARTY (BAILE FUNK CULTURE PARTY)
+  - CHIK FIL A (CHIK FIL A)
+  - Moving (Moving)
+  - Dlya Her (Dlya Her)
+  - Sad (Sad)
 external_urls:
-  spotify: https://open.spotify.com/artist/4lbr44We5XdOj2aElp1mzx
+  spotify: 'https://open.spotify.com/artist/4lbr44We5XdOj2aElp1mzx'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/arathejay_and_wise_shady.jpg
 biography_enhanced_at: '2025-12-21T01:28:45.713300'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.musicmetricsvault.com/artists/arathejay/2d8z61cS6XfaDDv5tbDOWN
-- https://www.youtube.com/watch?v=5hFJ91rfD08
-- https://thenativemag.com/arathejay-wants-to-find-god/
-- https://imullar.com/2022/03/12/discovery-arathejay/
-- https://www.youtube.com/watch?v=ci90VifOJkY
-- https://www.theechohouse.com/jesus-christ-hitmaker-arathejay-makes-his-self-discovery-through-finding-nemo/
+  - 'https://www.musicmetricsvault.com/artists/arathejay/2d8z61cS6XfaDDv5tbDOWN'
+  - 'https://www.youtube.com/watch?v=5hFJ91rfD08'
+  - 'https://thenativemag.com/arathejay-wants-to-find-god/'
+  - 'https://imullar.com/2022/03/12/discovery-arathejay/'
+  - 'https://www.youtube.com/watch?v=ci90VifOJkY'
+  - >-
+    https://www.theechohouse.com/jesus-christ-hitmaker-arathejay-makes-his-self-discovery-through-finding-nemo/
 network_extracted: true
 entry_created: '2025-12-21T01:28:45.713306'
 last_updated: '2025-12-23T08:16:04.893197'
+artist_type: person
 ---
 
 ![](arathejay_and_wise_shady.jpg)

@@ -1,12 +1,13 @@
 ---
-title: Donna Jean Godchaux Band, Jeff Mattson
+title: 'Donna Jean Godchaux Band, Jeff Mattson'
 wiki_slug: donna-jean-godchaux-band-jeff-mattson
 schema_version: 2
 status: active
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/donna_jean_godchaux_band_jeff_mattson.jpg
-  caption: Donna Jean Godchaux Band, Jeff Mattson
+  image: >-
+    03_Resources/source_material/ArtistPortraits/donna_jean_godchaux_band_jeff_mattson.jpg
+  caption: 'Donna Jean Godchaux Band, Jeff Mattson'
   background: solo_singer
 audio_profile:
   tempo_avg: 104.8
@@ -23,49 +24,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jeff Mattson
-  - Zen Tricksters
-  - Phil Lesh & Friends
-  - David Mackay
+    - Jeff Mattson
+    - Zen Tricksters
+    - Phil Lesh & Friends
+    - David Mackay
   influenced:
-  - Zion 'Rock' Godchaux
+    - Zion 'Rock' Godchaux
   mentors:
-  - Grateful Dead
-  - Muscle Shoals Sound Studios artists
+    - Grateful Dead
+    - Muscle Shoals Sound Studios artists
 spotify_data:
   followers: 828
   id: 0oJLSGX6fWsdCFNCiPoz67
   popularity: 10
-  url: https://open.spotify.com/artist/0oJLSGX6fWsdCFNCiPoz67
+  url: 'https://open.spotify.com/artist/0oJLSGX6fWsdCFNCiPoz67'
 discography_enriched: true
 top_tracks:
-- Crazy Fingers (Back Around)
-- Don't Ask Me Why (Back Around)
-- Back Around (Back Around)
-- 19th Nervous Breakdown (Back Around)
-- Don't Fight It (Back Around)
-- Darkness Darkness (Back Around)
-- Delta Jubilee (Back Around)
-- She Said She Said (Back Around)
-- Stranger Things (Back Around)
+  - Crazy Fingers (Back Around)
+  - Don't Ask Me Why (Back Around)
+  - Back Around (Back Around)
+  - 19th Nervous Breakdown (Back Around)
+  - Don't Fight It (Back Around)
+  - Darkness Darkness (Back Around)
+  - Delta Jubilee (Back Around)
+  - She Said She Said (Back Around)
+  - Stranger Things (Back Around)
 external_urls:
-  spotify: https://open.spotify.com/artist/0oJLSGX6fWsdCFNCiPoz67
-  wikipedia: https://en.wikipedia.org/wiki/Donna_Jean_Godchaux_Band
-image_path: 03_Resources/source_material/ArtistPortraits/donna_jean_godchaux_band_jeff_mattson.jpg
+  spotify: 'https://open.spotify.com/artist/0oJLSGX6fWsdCFNCiPoz67'
+  wikipedia: 'https://en.wikipedia.org/wiki/Donna_Jean_Godchaux_Band'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/donna_jean_godchaux_band_jeff_mattson.jpg
 biography_enhanced_at: '2025-11-14T10:48:19.722124'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://donnajeangodchauxband.com
-- https://en.wikipedia.org/wiki/Jeff_Mattson
-- https://en.wikipedia.org/wiki/Donna_Jean_Godchaux_Band
-- https://jeffmattson.net/bio
-- https://glidemagazine.com/13245/donna-jean-godchaux-band-with-jeff-mattson/
-- https://gratefulweb.com/articles/announcing-the-donna-jean-godchaux-band-w-jeff-matson/
+  - 'https://donnajeangodchauxband.com'
+  - 'https://en.wikipedia.org/wiki/Jeff_Mattson'
+  - 'https://en.wikipedia.org/wiki/Donna_Jean_Godchaux_Band'
+  - 'https://jeffmattson.net/bio'
+  - 'https://glidemagazine.com/13245/donna-jean-godchaux-band-with-jeff-mattson/'
+  - >-
+    https://gratefulweb.com/articles/announcing-the-donna-jean-godchaux-band-w-jeff-matson/
 network_extracted: true
 entry_created: '2025-11-14T10:48:19.722135'
 last_updated: '2025-12-23T08:16:07.946138'
-origin: Muscle Shoals, Alabama, United States (Donna Jean Godchaux's birthplace and band origin)
+origin: >-
+  Muscle Shoals, Alabama, United States (Donna Jean Godchaux's birthplace and
+  band origin)
+birth_place: 'Muscle Shoals, Alabama, United States'
+artist_type: band
 ---
 
 ![](donna_jean_godchaux_band_jeff_mattson.jpg)

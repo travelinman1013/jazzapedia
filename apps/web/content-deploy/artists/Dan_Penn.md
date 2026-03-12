@@ -1,28 +1,28 @@
 ---
-title: DAN PENN
+title: Dan Penn
 wiki_slug: dan-penn
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1941-11-16'
-birth_place: Vernon
+birth_place: 'Vernon, Alabama, United States'
 genres:
-- classic soul
+  - classic soul
 instruments:
-- acoustic guitar
-- guitar
-- lead vocals
+  - acoustic guitar
+  - guitar
+  - lead vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f3047b81-7939-4793-93f6-374c10d0fb7b
-  name: Spooner & The Spoons
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: fd7744cb-5a5a-4f1e-9a72-06c9016ef517
-  name: The Dandylions
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f3047b81-7939-4793-93f6-374c10d0fb7b
+    name: Spooner & The Spoons
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: fd7744cb-5a5a-4f1e-9a72-06c9016ef517
+    name: The Dandylions
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/dan_penn.jpg
   caption: DAN PENN
@@ -44,61 +44,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Spooner Oldham
-  - Chips Moman
-  - The Box Tops
-  - Dan Penn and the Pallbearers
+    - Spooner Oldham
+    - Chips Moman
+    - The Box Tops
+    - Dan Penn and the Pallbearers
   influenced:
-  - Lou Reed
-  - Aretha Franklin
-  - Janis Joplin
+    - Lou Reed
+    - Aretha Franklin
+    - Janis Joplin
   mentors:
-  - Rick Hall
-  - Billy Sherrill
+    - Rick Hall
+    - Billy Sherrill
 spotify_data:
   followers: 8512
   id: 4Z8f0RlC4uuFPi8KD5JbvB
   popularity: 21
-  url: https://open.spotify.com/artist/4Z8f0RlC4uuFPi8KD5JbvB
+  url: 'https://open.spotify.com/artist/4Z8f0RlC4uuFPi8KD5JbvB'
 discography_enriched: true
 top_tracks:
-- Tearjoint (Nobody's Fool)
-- Nobody's Fool (Nobody's Fool)
-- The Dark End of the Street (Do Right Man)
-- Dreamer (Late Night Etta James)
-- Edge of Love (Living on Mercy)
-- I'm Your Puppet - Live (Moments from This Theatre (Live))
-- Living on Mercy (Living on Mercy)
-- Raining In Memphis (Nobody's Fool)
-- Lodi (Nobody's Fool)
-- Memphis Women and Chicken (Do Right Man)
+  - Tearjoint (Nobody's Fool)
+  - Nobody's Fool (Nobody's Fool)
+  - The Dark End of the Street (Do Right Man)
+  - Dreamer (Late Night Etta James)
+  - Edge of Love (Living on Mercy)
+  - I'm Your Puppet - Live (Moments from This Theatre (Live))
+  - Living on Mercy (Living on Mercy)
+  - Raining In Memphis (Nobody's Fool)
+  - Lodi (Nobody's Fool)
+  - Memphis Women and Chicken (Do Right Man)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/cc54ec8d-ba66-4051-970d-6b3c24cd9e8b
-  spotify: https://open.spotify.com/artist/4Z8f0RlC4uuFPi8KD5JbvB
-  wikipedia: https://en.wikipedia.org/wiki/Dan_Penn
+  musicbrainz: 'https://musicbrainz.org/artist/cc54ec8d-ba66-4051-970d-6b3c24cd9e8b'
+  spotify: 'https://open.spotify.com/artist/4Z8f0RlC4uuFPi8KD5JbvB'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dan_Penn'
 image_path: 03_Resources/source_material/ArtistPortraits/dan_penn.jpg
 biography_enhanced_at: '2025-11-20T07:18:44.502377'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Dan Penn
-- Memphis Music Hall of Fame
-- The Last Music Company
-- TeachRock
-- Songwriter Universe
-- The Box Tops Official Site
-- FAME Studios
-- Americana UK
+  - Wikipedia - Dan Penn
+  - Memphis Music Hall of Fame
+  - The Last Music Company
+  - TeachRock
+  - Songwriter Universe
+  - The Box Tops Official Site
+  - FAME Studios
+  - Americana UK
 network_extracted: true
 entry_created: '2025-11-20T07:18:44.502383'
 last_updated: '2025-12-23T08:16:01.632601'
-disambiguation: songwriter, soul singer
+disambiguation: 'songwriter, soul singer'
 gender: Male
 musicbrainz_id: cc54ec8d-ba66-4051-970d-6b3c24cd9e8b
 tags:
-- blue-eyed soul
-- country soul
-- soul
+  - blue-eyed soul
+  - country soul
+  - soul
+origin: 'Muscle Shoals, Alabama, United States'
 ---
 
 ![](dan_penn.jpg)

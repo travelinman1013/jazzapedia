@@ -5,24 +5,24 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1930-10-29'
-birth_place: La Habana
+birth_place: 'La Habana, Cuba'
 genres:
-- son cubano
-- bolero
-- latin jazz
+  - son cubano
+  - bolero
+  - latin jazz
 instruments:
-- lead vocals
+  - lead vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2a85ecff-41e9-4be1-aca6-c87054a4c334
-  name: Buena Vista Social Club
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a9112fb8-90e0-4ef4-b3a3-29a1f807301b
-  name: Cuarteto d’Aida
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2a85ecff-41e9-4be1-aca6-c87054a4c334
+    name: Buena Vista Social Club
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a9112fb8-90e0-4ef4-b3a3-29a1f807301b
+    name: Cuarteto d’Aida
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/omara_portuondo.jpg
   caption: Omara Portuondo
@@ -44,60 +44,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Haydée Portuondo
-  - Elena Burke
-  - Chucho Valdés
-  - Buena Vista Social Club
-  - Swami Jr.
-  - Maria Bethânia
+    - Haydée Portuondo
+    - Elena Burke
+    - Chucho Valdés
+    - Buena Vista Social Club
+    - Swami Jr.
+    - Maria Bethânia
   influenced:
-  - Daymé Arocena
-  - Aymée Nuviola
+    - Daymé Arocena
+    - Aymée Nuviola
   mentors:
-  - Aida Diestro
-  - Frank Emilio Flynn
+    - Aida Diestro
+    - Frank Emilio Flynn
 spotify_data:
   followers: 159818
   id: 1h4iSQAKdvAAm07l6FX6dy
   popularity: 54
-  url: https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy
+  url: 'https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy'
 discography_enriched: true
 top_tracks:
-- Tiene Sabor (feat. Omara Portuondo) (Lost and Found)
-- Lágrimas Negras (feat. Omara Portuondo) (Lost and Found)
-- Quizás, quizás, quizás (feat. Nathy Peluso)
-- ¿Dónde Estabas Tú? (Omara Portuondo (Buena Vista Social Club Presents))
-- Tú Me Acostumbraste (feat. Omara Portuondo & Los Macorinos) (Musas (Un Homenaje al Folclore Latinoamericano en Manos de
-  Los Macorinos, Vol. 1))
-- La Sitiera (Omara Portuondo (Buena Vista Social Club Presents))
-- Te Venero (El Madrileño (La Sobremesa))
-- He Perdido Contigo (Omara Portuondo (Buena Vista Social Club Presents))
-- No Me Llores Más - 2019 Remaster (Omara Portuondo (Buena Vista Social Club Presents) (2019 Remaster))
-- Échame a Mi la Culpa (México & Amigos)
+  - Tiene Sabor (feat. Omara Portuondo) (Lost and Found)
+  - Lágrimas Negras (feat. Omara Portuondo) (Lost and Found)
+  - 'Quizás, quizás, quizás (feat. Nathy Peluso)'
+  - ¿Dónde Estabas Tú? (Omara Portuondo (Buena Vista Social Club Presents))
+  - >-
+    Tú Me Acostumbraste (feat. Omara Portuondo & Los Macorinos) (Musas (Un
+    Homenaje al Folclore Latinoamericano en Manos de Los Macorinos, Vol. 1))
+  - La Sitiera (Omara Portuondo (Buena Vista Social Club Presents))
+  - Te Venero (El Madrileño (La Sobremesa))
+  - He Perdido Contigo (Omara Portuondo (Buena Vista Social Club Presents))
+  - >-
+    No Me Llores Más - 2019 Remaster (Omara Portuondo (Buena Vista Social Club
+    Presents) (2019 Remaster))
+  - Échame a Mi la Culpa (México & Amigos)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d2e06763-1035-4b1a-82c7-b7c08e06ba48
-  spotify: https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy
-  wikipedia: https://en.wikipedia.org/wiki/Omara_Portuondo
+  musicbrainz: 'https://musicbrainz.org/artist/d2e06763-1035-4b1a-82c7-b7c08e06ba48'
+  spotify: 'https://open.spotify.com/artist/1h4iSQAKdvAAm07l6FX6dy'
+  wikipedia: 'https://en.wikipedia.org/wiki/Omara_Portuondo'
 image_path: 03_Resources/source_material/ArtistPortraits/omara_portuondo.jpg
 biography_enhanced_at: '2025-11-23T06:25:56.486164'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://latinjazznet.com/featured/omara-portuondo-multifaceted-gem-of-cuban-music/
-- https://www.oneworldsmusic.com/omara-portuondo
-- https://www.laphil.com/musicdb/artists/4287/omara-portuondo
-- https://cubaonrecord.substack.com/p/celebrating-omara-portuondos-95th
-- https://kpbs.org/news/2025/09/22/voces-omara-cubas-legendary-diva
-- https://en.wikipedia.org/wiki/Omara_Portuondo
+  - >-
+    https://latinjazznet.com/featured/omara-portuondo-multifaceted-gem-of-cuban-music/
+  - 'https://www.oneworldsmusic.com/omara-portuondo'
+  - 'https://www.laphil.com/musicdb/artists/4287/omara-portuondo'
+  - 'https://cubaonrecord.substack.com/p/celebrating-omara-portuondos-95th'
+  - 'https://kpbs.org/news/2025/09/22/voces-omara-cubas-legendary-diva'
+  - 'https://en.wikipedia.org/wiki/Omara_Portuondo'
 network_extracted: true
 entry_created: '2025-11-23T06:25:56.486175'
 last_updated: '2025-12-23T08:16:13.744437'
 gender: Female
 musicbrainz_id: d2e06763-1035-4b1a-82c7-b7c08e06ba48
 tags:
-- bolero
-- latin
-- son cubano
+  - bolero
+  - latin
+  - son cubano
 ---
 
 ![](omara_portuondo.jpg)

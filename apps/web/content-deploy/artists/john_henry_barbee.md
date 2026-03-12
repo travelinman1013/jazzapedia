@@ -1,19 +1,19 @@
 ---
-title: JOHN HENRY BARBEE
+title: John Henry Barbee
 wiki_slug: john-henry-barbee
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1905-11-14'
-birth_place: Henning
+birth_place: 'Henning, Tennessee, United States'
 death_date: '1964-11-03'
 genres:
-- country blues
-- blues
-- classic blues
+  - country blues
+  - blues
+  - classic blues
 instruments:
-- guitar
-- lead vocals
+  - guitar
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/john_henry_barbee.jpg
   caption: JOHN HENRY BARBEE
@@ -22,7 +22,7 @@ infobox:
   origin: Henning
   died: '1964-11-03'
 audio_profile:
-  tempo_avg: 122.0
+  tempo_avg: 122
   energy_avg: 0.178
   valence_avg: 0.508
   danceability_avg: 0.572
@@ -36,49 +36,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - American Folk Blues Festival ensemble
+    - American Folk Blues Festival ensemble
   influenced:
-  - European blues musicians
+    - European blues musicians
   mentors:
-  - Blind Lemon Jefferson
+    - Blind Lemon Jefferson
 spotify_data:
   followers: 543
   id: 5AK5GroO11AWwphIKoPcGG
   popularity: 2
-  url: https://open.spotify.com/artist/5AK5GroO11AWwphIKoPcGG
+  url: 'https://open.spotify.com/artist/5AK5GroO11AWwphIKoPcGG'
 discography_enriched: true
 top_tracks:
-- That's All Right, Pt. 1 (Blues Masters, Vol. 3)
-- Dust My Broom (Blues Masters, Vol. 3)
-- That Ain't It (The George Mitchell Collection Vol. 5)
-- Dust My Broom (The Blues Box)
-- I Heard My Baby (The Blues Box)
-- I Ain'tgonna Pick No More Cotton (The Blues Box)
-- Miss Nelly Grey (The Blues Box)
-- Tell Me Baby (The Blues Box)
-- Jump Blues (The Blues Box)
-- 'Against My Will (And This Is Free: The Life and Times of Chicago''s Legendary Maxwell Street)'
+  - 'That''s All Right, Pt. 1 (Blues Masters, Vol. 3)'
+  - 'Dust My Broom (Blues Masters, Vol. 3)'
+  - That Ain't It (The George Mitchell Collection Vol. 5)
+  - Dust My Broom (The Blues Box)
+  - I Heard My Baby (The Blues Box)
+  - I Ain'tgonna Pick No More Cotton (The Blues Box)
+  - Miss Nelly Grey (The Blues Box)
+  - Tell Me Baby (The Blues Box)
+  - Jump Blues (The Blues Box)
+  - >-
+    Against My Will (And This Is Free: The Life and Times of Chicago's Legendary
+    Maxwell Street)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/0cd7889d-0f36-45c2-aad0-ab0499e4b11b
-  spotify: https://open.spotify.com/artist/5AK5GroO11AWwphIKoPcGG
-  wikipedia: https://en.wikipedia.org/wiki/John_Henry_Barbee
+  musicbrainz: 'https://musicbrainz.org/artist/0cd7889d-0f36-45c2-aad0-ab0499e4b11b'
+  spotify: 'https://open.spotify.com/artist/5AK5GroO11AWwphIKoPcGG'
+  wikipedia: 'https://en.wikipedia.org/wiki/John_Henry_Barbee'
 image_path: 03_Resources/source_material/ArtistPortraits/john_henry_barbee.jpg
 biography_enhanced_at: '2025-11-20T07:16:37.059793'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://musicbrainz.org/artist/0cd7889d-0f36-45c2-aad0-ab0499e4b11b
-- https://www.allmusic.com/artist/john-henry-barbee-mn0000811768
-- https://corfublues.blogspot.com/2013/01/john-henry-barbee.html
-- https://storyvillerecords.com/product-category/john-henry-barbee/
-- https://jacobsweetman.home.blog/2019/11/04/john-henry-barbees-bad-luck/
-- https://www.instagram.com/p/DPoWVJVDRWL/
-- https://www.wirz.de/music/barbee.htm
+  - 'https://musicbrainz.org/artist/0cd7889d-0f36-45c2-aad0-ab0499e4b11b'
+  - 'https://www.allmusic.com/artist/john-henry-barbee-mn0000811768'
+  - 'https://corfublues.blogspot.com/2013/01/john-henry-barbee.html'
+  - 'https://storyvillerecords.com/product-category/john-henry-barbee/'
+  - 'https://jacobsweetman.home.blog/2019/11/04/john-henry-barbees-bad-luck/'
+  - 'https://www.instagram.com/p/DPoWVJVDRWL/'
+  - 'https://www.wirz.de/music/barbee.htm'
 network_extracted: true
 entry_created: '2025-11-20T07:16:37.059802'
 last_updated: '2025-12-23T08:16:10.762836'
 gender: Male
 musicbrainz_id: 0cd7889d-0f36-45c2-aad0-ab0499e4b11b
+is_active: false
 ---
 
 ![](john_henry_barbee.jpg)

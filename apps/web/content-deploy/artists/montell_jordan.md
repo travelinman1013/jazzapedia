@@ -5,13 +5,13 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1968-12-03'
-birth_place: Los Angeles
+birth_place: 'Los Angeles, California, United States'
 genres:
-- new jack swing
+  - new jack swing
 instruments:
-- piano
-- background vocals
-- lead vocals
+  - piano
+  - background vocals
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/montell_jordan.jpg
   caption: Montell Jordan
@@ -33,54 +33,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Master P
-  - Silkk the Shocker
+    - Master P
+    - Silkk the Shocker
   influenced: []
   mentors:
-  - Russell Simmons
-  - Slick Rick
+    - Russell Simmons
+    - Slick Rick
 spotify_data:
   followers: 970767
   id: 0iVrCROxeyon7MZUW3MfzT
   popularity: 59
-  url: https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT
+  url: 'https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT'
 discography_enriched: true
 top_tracks:
-- This Is How We Do It
-- This Is How We Do It
-- Get It On Tonite (Get It On...Tonite)
-- Get It On Tonite
-- This Is How We Do It (This Is How We Do It)
-- Love Sets You Free (Mirror Mirror)
-- The Party (This Is How We Do It)
-- How We Do It
-- Let's Ride
-- Falling (More ...)
+  - This Is How We Do It
+  - This Is How We Do It
+  - Get It On Tonite (Get It On...Tonite)
+  - Get It On Tonite
+  - This Is How We Do It (This Is How We Do It)
+  - Love Sets You Free (Mirror Mirror)
+  - The Party (This Is How We Do It)
+  - How We Do It
+  - Let's Ride
+  - Falling (More ...)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/cc1f4763-a306-4ae7-8ba7-331872199f9e
-  spotify: https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT
-  wikipedia: https://en.wikipedia.org/wiki/Montell_Jordan
+  musicbrainz: 'https://musicbrainz.org/artist/cc1f4763-a306-4ae7-8ba7-331872199f9e'
+  spotify: 'https://open.spotify.com/artist/0iVrCROxeyon7MZUW3MfzT'
+  wikipedia: 'https://en.wikipedia.org/wiki/Montell_Jordan'
 image_path: 03_Resources/source_material/ArtistPortraits/montell_jordan.jpg
 biography_enhanced_at: '2025-12-04T07:32:38.284658'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Montell Jordan
-- Trainual - Montell Jordan Bio
-- Special Olympics - Montell Jordan
-- Montell & Kristin Jordan Official Website
-- WBSS Media - Montell Jordan
-- IMDb - Montell Jordan
-- Pepperdine University Alumni Spotlight
+  - Wikipedia - Montell Jordan
+  - Trainual - Montell Jordan Bio
+  - Special Olympics - Montell Jordan
+  - Montell & Kristin Jordan Official Website
+  - WBSS Media - Montell Jordan
+  - IMDb - Montell Jordan
+  - Pepperdine University Alumni Spotlight
 network_extracted: true
 entry_created: '2025-12-04T07:32:38.284671'
 last_updated: '2025-12-23T08:16:13.248968'
 gender: Male
 musicbrainz_id: cc1f4763-a306-4ae7-8ba7-331872199f9e
 tags:
-- contemporary r&b
-- hip hop
-- hip hop soul
+  - contemporary r&b
+  - hip hop
+  - hip hop soul
+origin: 'Los Angeles, California, United States'
 ---
 
 ![](montell_jordan.jpg)

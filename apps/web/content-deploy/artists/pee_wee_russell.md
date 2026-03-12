@@ -5,51 +5,51 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1906-03-27'
-birth_place: Maplewood
+birth_place: 'Maplewood, Missouri, United States'
 death_date: '1969-02-15'
 genres:
-- ragtime
-- jazz
-- swing music
-- big band
+  - ragtime
+  - jazz
+  - swing music
+  - big band
 instruments:
-- clarinet
-- eponymous
-- original
+  - clarinet
+  - eponymous
+  - original
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - clarinet
-  - eponymous
-  - original
-  mbid: bd9874d5-4a11-4d23-91ca-65bed627356b
-  name: Pee Wee Russell's Hot Four
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 58e093f4-a0d9-4441-9e42-a58aaa661457
-  name: Louis Prima and His New Orleans Gang
-- begin: ''
-  end: ''
-  instruments:
-  - clarinet
-  mbid: 9233f1a7-7518-4da3-a576-39c86286ab33
-  name: George Wein & The Storyville Sextet
-- begin: ''
-  end: ''
-  instruments:
-  - clarinet
-  mbid: 6c65d375-aed6-452a-91cd-9718da0e802e
-  name: Eddie Condon and His Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - clarinet
-  - eponymous
-  - original
-  mbid: a12ee65d-2d1b-41a2-a5ab-5179ab17ebd0
-  name: Pee Wee Russell's Rhythmakers
+  - begin: ''
+    end: ''
+    instruments:
+      - clarinet
+      - eponymous
+      - original
+    mbid: bd9874d5-4a11-4d23-91ca-65bed627356b
+    name: Pee Wee Russell's Hot Four
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 58e093f4-a0d9-4441-9e42-a58aaa661457
+    name: Louis Prima and His New Orleans Gang
+  - begin: ''
+    end: ''
+    instruments:
+      - clarinet
+    mbid: 9233f1a7-7518-4da3-a576-39c86286ab33
+    name: George Wein & The Storyville Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - clarinet
+    mbid: 6c65d375-aed6-452a-91cd-9718da0e802e
+    name: Eddie Condon and His Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - clarinet
+      - eponymous
+      - original
+    mbid: a12ee65d-2d1b-41a2-a5ab-5179ab17ebd0
+    name: Pee Wee Russell's Rhythmakers
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/pee_wee_russell.jpg
   caption: Pee Wee Russell
@@ -72,67 +72,72 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Herbert Berger
-  - Peck Kelley
-  - Jack Teagarden
-  - Red Nichols
-  - Frankie Trumbauer and Bix Beiderbecke
-  - Coleman Hawkins
-  - Louis Prima
-  - Eddie Condon
-  - Bobby Hackett
-  - Art Hodes and Muggsy Spanier
-  - Thelonious Monk
-  - Duke Ellington
-  - Marshall Brown
-  - George Wein
+    - Herbert Berger
+    - Peck Kelley
+    - Jack Teagarden
+    - Red Nichols
+    - Frankie Trumbauer and Bix Beiderbecke
+    - Coleman Hawkins
+    - Louis Prima
+    - Eddie Condon
+    - Bobby Hackett
+    - Art Hodes and Muggsy Spanier
+    - Thelonious Monk
+    - Duke Ellington
+    - Marshall Brown
+    - George Wein
   influenced:
-  - Early free jazz and avant-garde clarinetists (general category)
-  - Modernist jazz musicians drawn to cross-era collaboration (general category)
+    - Early free jazz and avant-garde clarinetists (general category)
+    - >-
+      Modernist jazz musicians drawn to cross-era collaboration (general
+      category)
   mentors:
-  - Alcide Nunez
-  - New Orleans clarinet tradition (Albert-system players)
-  - Bix Beiderbecke and Frankie Trumbauer
+    - Alcide Nunez
+    - New Orleans clarinet tradition (Albert-system players)
+    - Bix Beiderbecke and Frankie Trumbauer
 spotify_data:
   followers: 5619
   id: 61EY7PIU7wT3t3766ZTvqB
   popularity: 17
-  url: https://open.spotify.com/artist/61EY7PIU7wT3t3766ZTvqB
+  url: 'https://open.spotify.com/artist/61EY7PIU7wT3t3766ZTvqB'
 discography_enriched: true
 top_tracks:
-- Love Is Just Around The Corner (Jazz Original)
-- If I Had You (Portrait Of Pee Wee)
-- The Very Thought Of You (Swingin' With Pee Wee)
-- Embraceable You (Jazz Original)
-- That Old Feeling (Portrait Of Pee Wee)
-- The Very Thought Of You
-- 'A Good Man is Hard to Find (Really the Blues?: A Blues History (1893-1959), Vol. 1 (1893-1929))'
-- Ask Me Now! (Ask Me Now!)
-- 'Basin Street Blues (Red Nichols : Original 1929 Recordings)'
-- That da da Strain (Louisiana Rhythm Kings 1929-1930)
+  - Love Is Just Around The Corner (Jazz Original)
+  - If I Had You (Portrait Of Pee Wee)
+  - The Very Thought Of You (Swingin' With Pee Wee)
+  - Embraceable You (Jazz Original)
+  - That Old Feeling (Portrait Of Pee Wee)
+  - The Very Thought Of You
+  - >-
+    A Good Man is Hard to Find (Really the Blues?: A Blues History (1893-1959),
+    Vol. 1 (1893-1929))
+  - Ask Me Now! (Ask Me Now!)
+  - 'Basin Street Blues (Red Nichols : Original 1929 Recordings)'
+  - That da da Strain (Louisiana Rhythm Kings 1929-1930)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/81e26fc9-ddb5-42cf-9b31-2e0f55bf6342
-  spotify: https://open.spotify.com/artist/61EY7PIU7wT3t3766ZTvqB
-  wikipedia: https://en.wikipedia.org/wiki/Pee_Wee_Russell
+  musicbrainz: 'https://musicbrainz.org/artist/81e26fc9-ddb5-42cf-9b31-2e0f55bf6342'
+  spotify: 'https://open.spotify.com/artist/61EY7PIU7wT3t3766ZTvqB'
+  wikipedia: 'https://en.wikipedia.org/wiki/Pee_Wee_Russell'
 image_path: 03_Resources/source_material/ArtistPortraits/pee_wee_russell.jpg
 biography_enhanced_at: '2025-12-08T04:19:04.747717'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Encyclopaedia Britannica – Pee Wee Russell biography[1]
-- Wikipedia – Pee Wee Russell[2]
-- The Syncopated Times – Charles Ellsworth “Pee Wee” Russell profile[4]
-- 'Jazz Commentary: Pee Wee Russell – A Singular Voice (ArtsFuse)[5]'
-- Jazz Rhythm – Pee Wee Russell profile[6]
+  - 'Encyclopaedia Britannica – Pee Wee Russell biography[1]'
+  - 'Wikipedia – Pee Wee Russell[2]'
+  - 'The Syncopated Times – Charles Ellsworth “Pee Wee” Russell profile[4]'
+  - 'Jazz Commentary: Pee Wee Russell – A Singular Voice (ArtsFuse)[5]'
+  - 'Jazz Rhythm – Pee Wee Russell profile[6]'
 network_extracted: true
 entry_created: '2025-12-08T04:19:04.747725'
 last_updated: '2025-12-23T08:16:14.162777'
 gender: Male
 musicbrainz_id: 81e26fc9-ddb5-42cf-9b31-2e0f55bf6342
 tags:
-- 2008 universal fire victim
-- bebop
-- dixieland
+  - 2008 universal fire victim
+  - bebop
+  - dixieland
+is_active: false
 ---
 
 ![](pee_wee_russell.jpg)

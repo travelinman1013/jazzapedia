@@ -3,36 +3,38 @@ biography_enhanced_at: '2025-12-31T01:45:03.551344'
 enhancement_provider: perplexity
 entry_created: '2025-12-31T01:45:03.551349'
 external_urls:
-  spotify: https://open.spotify.com/artist/7MxRSOIsrKKrMc7pAzKlqs
-  wikipedia: https://en.wikipedia.org/wiki/Tora_Tora
+  spotify: 'https://open.spotify.com/artist/7MxRSOIsrKKrMc7pAzKlqs'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tora_Tora'
 genres:
-- glam metal
-- glam rock
+  - glam metal
+  - glam rock
 image_path: 03_Resources/source_material/ArtistPortraits/tora.jpg
 last_updated: '2025-12-31T01:45:03.551349'
 musical_connections:
   collaborators:
-  - Anthony Corder
-  - Keith Douglas
-  - Patrick Francis
-  - John Patterson
+    - Anthony Corder
+    - Keith Douglas
+    - Patrick Francis
+    - John Patterson
   influenced: []
   mentors: []
 network_extracted: true
-origin: Memphis, Shelby County, Tennessee, United States
+origin: 'Memphis, Shelby County, Tennessee, United States'
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Tora+Tora/+wiki
-- https://en.wikipedia.org/wiki/Tora_Tora
-- https://vwmusicrocks.com/2022/11/29/tora-tora-vocalist-anthony-corder-recounts-the-bands-early-years-reunion-new-music/
-- http://dbgeekshow.blogspot.com/2012/12/25-years-of-tora-tora.html
+  - 'https://www.last.fm/music/Tora+Tora/+wiki'
+  - 'https://en.wikipedia.org/wiki/Tora_Tora'
+  - >-
+    https://vwmusicrocks.com/2022/11/29/tora-tora-vocalist-anthony-corder-recounts-the-bands-early-years-reunion-new-music/
+  - 'http://dbgeekshow.blogspot.com/2012/12/25-years-of-tora-tora.html'
 spotify_data:
   followers: 49612
   id: 7MxRSOIsrKKrMc7pAzKlqs
   popularity: 28
-  url: https://open.spotify.com/artist/7MxRSOIsrKKrMc7pAzKlqs
+  url: 'https://open.spotify.com/artist/7MxRSOIsrKKrMc7pAzKlqs'
 status: active
 title: Tora
+artist_type: person
 ---
 
 ![](tora.jpg)

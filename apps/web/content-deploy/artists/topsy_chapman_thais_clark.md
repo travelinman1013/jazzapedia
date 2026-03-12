@@ -1,40 +1,43 @@
 ---
 biography_enhanced_at: '2025-12-26T01:18:26.247137'
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2025-12-26T01:18:26.247145'
 external_urls:
-  spotify: https://open.spotify.com/artist/2tKivvaRADF3SupG95wulV
+  spotify: 'https://open.spotify.com/artist/2tKivvaRADF3SupG95wulV'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/topsy_chapman_thais_clark.jpg
 last_updated: '2025-12-26T01:18:26.247147'
 musical_connections:
   collaborators:
-  - Vernel Bagneris
-  - Topsy Chapman
-  - Dr. Michael White
-  - Wynton Marsalis
+    - Vernel Bagneris
+    - Topsy Chapman
+    - Dr. Michael White
+    - Wynton Marsalis
   influenced:
-  - Caleb Windsay
+    - Caleb Windsay
   mentors:
-  - Bessie Smith
-  - Ma Rainey
+    - Bessie Smith
+    - Ma Rainey
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://gardenandgun.com/articles/living-legends-of-jazz/
-- https://www.nojc.org/nickel-a-dance
-- https://syncopatedtimes.com/down-at-the-jazz-fest-in-new-orleans/
-- https://www.fusicology.com/events/nickel-a-dance-presents-thais-clark-at-snug-harbor-jazz-bistro-nola-oct-12-2025/
-- https://www.jazzology.com/item_detail.php?id=BCD-441
+  - 'https://gardenandgun.com/articles/living-legends-of-jazz/'
+  - 'https://www.nojc.org/nickel-a-dance'
+  - 'https://syncopatedtimes.com/down-at-the-jazz-fest-in-new-orleans/'
+  - >-
+    https://www.fusicology.com/events/nickel-a-dance-presents-thais-clark-at-snug-harbor-jazz-bistro-nola-oct-12-2025/
+  - 'https://www.jazzology.com/item_detail.php?id=BCD-441'
 spotify_data:
   followers: 1158
   id: 2tKivvaRADF3SupG95wulV
   popularity: 20
-  url: https://open.spotify.com/artist/2tKivvaRADF3SupG95wulV
+  url: 'https://open.spotify.com/artist/2tKivvaRADF3SupG95wulV'
 status: active
-title: Topsy Chapman, Thais Clark
+title: 'Topsy Chapman, Thais Clark'
+birth_date: '1942-05-23'
+artist_type: person
 ---
 
 ![](topsy_chapman_thais_clark.jpg)

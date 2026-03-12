@@ -1,39 +1,39 @@
 ---
 biography_enhanced_at: '2025-12-29T01:22:49.622794'
-birth_place: Saint Croix, U.S. Virgin Islands (Dezarie); France (Sistah Jahia’s Afro‑Caribbean
-  origin)
+birth_place: 'Saint Croix, U.S. Virgin Islands'
 enhancement_provider: perplexity
 entry_created: '2025-12-29T01:22:49.622807'
 external_urls:
-  spotify: https://open.spotify.com/artist/0BuKaDPB0A4VdnwKa7SK93
+  spotify: 'https://open.spotify.com/artist/0BuKaDPB0A4VdnwKa7SK93'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/sistah_jahia_dezarie.jpg
 last_updated: '2025-12-29T01:22:49.622809'
 musical_connections:
   collaborators:
-  - Midnite
-  - Dezarie
+    - Midnite
+    - Dezarie
   influenced:
-  - Sistah Jahia
+    - Sistah Jahia
   mentors:
-  - Midnite (band) / Vaughn Benjamin
+    - Midnite (band) / Vaughn Benjamin
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- Interview with Dezarie – Hailing the Guardian (Reggaeville)[1]
-- DEZARIE artist profile (Jah Live)[2]
-- Dezarie biography (Last.fm)[3]
-- 'Article: “Sistah Jahia en collaboration avec Dezarie !” (Reggae.fr)[4]'
-- Sistah Jahia – “Empress On The Rise” / “Chant A Prayer” videos (YouTube)[5]
-- Sistah Jahia artist page (Shazam)[6]
+  - 'Interview with Dezarie – Hailing the Guardian (Reggaeville)[1]'
+  - 'DEZARIE artist profile (Jah Live)[2]'
+  - 'Dezarie biography (Last.fm)[3]'
+  - 'Article: “Sistah Jahia en collaboration avec Dezarie !” (Reggae.fr)[4]'
+  - 'Sistah Jahia – “Empress On The Rise” / “Chant A Prayer” videos (YouTube)[5]'
+  - 'Sistah Jahia artist page (Shazam)[6]'
 spotify_data:
   followers: 482
   id: 0BuKaDPB0A4VdnwKa7SK93
   popularity: 3
-  url: https://open.spotify.com/artist/0BuKaDPB0A4VdnwKa7SK93
+  url: 'https://open.spotify.com/artist/0BuKaDPB0A4VdnwKa7SK93'
 status: active
-title: Sistah Jahia, Dezarie
+title: 'Sistah Jahia, Dezarie'
+artist_type: person
 ---
 
 ![](sistah_jahia_dezarie.jpg)

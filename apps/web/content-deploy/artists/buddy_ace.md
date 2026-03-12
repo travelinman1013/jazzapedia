@@ -1,18 +1,18 @@
 ---
-title: BUDDY ACE
+title: Buddy Ace
 wiki_slug: buddy-ace
 schema_version: 2
 status: active
-birth_place: Jasper, Texas, United States
+birth_place: 'Jasper, Texas, United States'
 genres:
-- soul blues
-- northern soul
-- blues
+  - soul blues
+  - northern soul
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/buddy_ace.jpg
   caption: BUDDY ACE
   background: solo_singer
-  origin: Jasper, Texas, United States
+  origin: 'Jasper, Texas, United States'
 audio_profile:
   tempo_avg: 117.3
   energy_avg: 0.465
@@ -20,7 +20,7 @@ audio_profile:
   danceability_avg: 0.605
   acousticness_avg: 0.496
   instrumentalness_avg: 0.027
-  loudness_avg: -10.0
+  loudness_avg: -10
   speechiness_avg: 0.05
   liveness_avg: 0.172
   track_count: 49
@@ -28,48 +28,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Joe Tex
-  - Bobby 'Blue' Bland
-  - Junior Parker
-  - Leon Haywood
+    - Joe Tex
+    - Bobby 'Blue' Bland
+    - Junior Parker
+    - Leon Haywood
   influenced:
-  - Regional Texas soul and blues musicians
+    - Regional Texas soul and blues musicians
   mentors:
-  - Ivory Joe Hunter
-  - Big Joe Turner
+    - Ivory Joe Hunter
+    - Big Joe Turner
 spotify_data:
   followers: 1720
   id: 4QP0coGRLggyMr9Pg65HBK
   popularity: 13
-  url: https://open.spotify.com/artist/4QP0coGRLggyMr9Pg65HBK
+  url: 'https://open.spotify.com/artist/4QP0coGRLggyMr9Pg65HBK'
 discography_enriched: true
 top_tracks:
-- Love of Mine (Don't Hurt No More)
-- Chockin' Kind (Don't Hurt No More)
-- Don't Hurt No More (Don't Hurt No More)
-- Pouring Water on a Drowning Man (Don't Hurt No More)
-- Root Doctor (Don't Hurt No More)
-- Screaming Please (Authentic Oldies - Retro Vinyl Editions)
-- Ain't Nothing You Can Do (From Me to You, Bobby Bland)
-- True Love Money Can´t Buy (I Was a Mod Before You Were a Mod Vol. 9)
-- I Kicked the Habit (Don't Hurt No More)
-- She Ain't Givin' up No Love (Don't Hurt No More)
+  - Love of Mine (Don't Hurt No More)
+  - Chockin' Kind (Don't Hurt No More)
+  - Don't Hurt No More (Don't Hurt No More)
+  - Pouring Water on a Drowning Man (Don't Hurt No More)
+  - Root Doctor (Don't Hurt No More)
+  - Screaming Please (Authentic Oldies - Retro Vinyl Editions)
+  - 'Ain''t Nothing You Can Do (From Me to You, Bobby Bland)'
+  - True Love Money Can´t Buy (I Was a Mod Before You Were a Mod Vol. 9)
+  - I Kicked the Habit (Don't Hurt No More)
+  - She Ain't Givin' up No Love (Don't Hurt No More)
 external_urls:
-  spotify: https://open.spotify.com/artist/4QP0coGRLggyMr9Pg65HBK
-  wikipedia: https://en.wikipedia.org/wiki/Buddy_Ace
+  spotify: 'https://open.spotify.com/artist/4QP0coGRLggyMr9Pg65HBK'
+  wikipedia: 'https://en.wikipedia.org/wiki/Buddy_Ace'
 image_path: 03_Resources/source_material/ArtistPortraits/buddy_ace.jpg
 biography_enhanced_at: '2025-11-11T09:22:25.114717'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.tshaonline.org/handbook/entries/land-jimmy-lee-buddy-ace
-- https://fromthevaults-boppinbob.blogspot.com/2024/11/buddy-ace-born-11-november-1936.html
-- https://en.wikipedia.org/wiki/Buddy_Ace
-- https://www.houstonpress.com/music/buddy-ace-moves-on-6572428/
+  - 'https://www.tshaonline.org/handbook/entries/land-jimmy-lee-buddy-ace'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2024/11/buddy-ace-born-11-november-1936.html
+  - 'https://en.wikipedia.org/wiki/Buddy_Ace'
+  - 'https://www.houstonpress.com/music/buddy-ace-moves-on-6572428/'
 network_extracted: true
 entry_created: '2025-11-11T09:22:25.114732'
 last_updated: '2025-12-23T08:16:06.192277'
-
+birth_date: '1936-11-11'
+artist_type: person
 ---
 
 ![](buddy_ace.jpg)

@@ -2,22 +2,26 @@
 title: Mizz Lowe
 wiki_slug: mizz-lowe
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
-birth_place: Holmes County, Mississippi, United States (birthplace); Greenwood, Mississippi, United States (origin)
+birth_place: >-
+  Holmes County, Mississippi, United States (birthplace); Greenwood,
+  Mississippi, United States (origin)
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Mizz_Lowe.jpg
   caption: Mizz Lowe
   background: solo_singer
-  origin: Holmes County, Mississippi, United States (birthplace); Greenwood, Mississippi, United States (origin)
+  origin: >-
+    Holmes County, Mississippi, United States (birthplace); Greenwood,
+    Mississippi, United States (origin)
 audio_profile:
   tempo_avg: 124.8
   energy_avg: 0.274
   valence_avg: 0.452
   danceability_avg: 0.542
   acousticness_avg: 0.701
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -15.5
   speechiness_avg: 0.113
   liveness_avg: 0.155
@@ -26,42 +30,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Paul Brown
-  - Bobby Rush
+    - Paul Brown
+    - Bobby Rush
   influenced:
-  - Emerging blues dancers and performers
+    - Emerging blues dancers and performers
   mentors:
-  - Bobby Rush
+    - Bobby Rush
 spotify_data:
   followers: 8116
   id: 1xEXTwqxdBNstrAaHm5QLX
   popularity: 28
-  url: https://open.spotify.com/artist/1xEXTwqxdBNstrAaHm5QLX
+  url: 'https://open.spotify.com/artist/1xEXTwqxdBNstrAaHm5QLX'
 discography_enriched: true
 top_tracks:
-- Hush (Unfinished Symphony)
-- Woe to The People of Order (Woe to The People of Order)
-- If You Love Me for Me (If You Love Me for Me)
-- Hush (Hush)
-- When Nothing Mattered More Than Friends (When Nothing Mattered More Than Friends)
-- Everything is Fine (Everything is Fine)
-- Ode to L'Manburg (Ode to L'Manburg)
-- Ghostbur's Lullaby (Ghostbur's Lullaby)
-- The Dismemberment Song (The Dismemberment Song)
-- Prison Break (Unfinished) (Prison Break (Unfinished))
+  - Hush (Unfinished Symphony)
+  - Woe to The People of Order (Woe to The People of Order)
+  - If You Love Me for Me (If You Love Me for Me)
+  - Hush (Hush)
+  - >-
+    When Nothing Mattered More Than Friends (When Nothing Mattered More Than
+    Friends)
+  - Everything is Fine (Everything is Fine)
+  - Ode to L'Manburg (Ode to L'Manburg)
+  - Ghostbur's Lullaby (Ghostbur's Lullaby)
+  - The Dismemberment Song (The Dismemberment Song)
+  - Prison Break (Unfinished) (Prison Break (Unfinished))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/daef77c9-8d44-49f5-a369-5274ed40d545
-  spotify: https://open.spotify.com/artist/1xEXTwqxdBNstrAaHm5QLX
+  musicbrainz: 'https://musicbrainz.org/artist/daef77c9-8d44-49f5-a369-5274ed40d545'
+  spotify: 'https://open.spotify.com/artist/1xEXTwqxdBNstrAaHm5QLX'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/Mizz_Lowe.jpg
 biography_enhanced_at: '2025-10-20T09:49:08.086877'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://digital.livingblues.com/articles/mizz-lowe
-- https://blues.gr/profiles/blogs/q-amp-a-with-vocalist-dancer-and-entertainer-mizz-lowe-fusion-of
-- https://nolajazzmuseum.org/events/2024/6/4/live-from-the-jazz-museum-balcony
-- https://www.youtube.com/watch?v=cFfOYPHySmU
+  - 'https://digital.livingblues.com/articles/mizz-lowe'
+  - >-
+    https://blues.gr/profiles/blogs/q-amp-a-with-vocalist-dancer-and-entertainer-mizz-lowe-fusion-of
+  - 'https://nolajazzmuseum.org/events/2024/6/4/live-from-the-jazz-museum-balcony'
+  - 'https://www.youtube.com/watch?v=cFfOYPHySmU'
 network_extracted: true
 entry_created: '2025-10-20T09:49:08.086888'
 last_updated: '2025-12-23T08:16:03.358222'
@@ -69,6 +76,8 @@ disambiguation: Loretta "MizzLowe" Harris
 gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:38:30.536325'
 musicbrainz_id: daef77c9-8d44-49f5-a369-5274ed40d545
+origin: 'Greenwood, Mississippi, United States'
+birth_date: '1972'
 ---
 
 ![](Mizz_Lowe.jpg)

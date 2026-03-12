@@ -1,79 +1,80 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '1966'
-  end: '1974'
-  instruments:
-  - electric guitar
-  mbid: ab73de4d-06ee-4814-acce-2e3e537eb4ac
-  name: The Tennessee Three
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: fe94cef8-b6ee-4a1e-9ca4-c2aafc982dcf
-  name: Class Of '55
+  - begin: '1966'
+    end: '1974'
+    instruments:
+      - electric guitar
+    mbid: ab73de4d-06ee-4814-acce-2e3e537eb4ac
+    name: The Tennessee Three
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: fe94cef8-b6ee-4a1e-9ca4-c2aafc982dcf
+    name: Class Of '55
 biography_enhanced_at: '2026-01-06T02:08:00.197925'
 birth_date: '1932-04-09'
-birth_place: Tiptonville
+birth_place: 'Tiptonville, Tennessee, United States'
 death_date: '1998-01-19'
 disambiguation: American pioneer of rockabilly music
 enhancement_provider: perplexity
 entry_created: '2026-01-06T02:08:00.197931'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/068bd7ab-c38e-4fae-8ed2-cb0c153ed68f
-  spotify: https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f
+  musicbrainz: 'https://musicbrainz.org/artist/068bd7ab-c38e-4fae-8ed2-cb0c153ed68f'
+  spotify: 'https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f'
   wikipedia: ''
 gender: Male
 genres:
-- rockabilly
-- rock and roll
+  - rockabilly
+  - rock and roll
 image_path: 03_Resources/source_material/ArtistPortraits/carl_perkins.jpg
 instruments:
-- electric guitar
-- guitar
-- piano
-- lead vocals
-- other vocals
-- vocal
-- spoken vocals
+  - electric guitar
+  - guitar
+  - piano
+  - lead vocals
+  - other vocals
+  - vocal
+  - spoken vocals
 last_updated: '2026-01-06T02:08:00.197932'
 musical_connections:
   collaborators:
-  - Jay Perkins
-  - Clayton Perkins
-  - W.S. 'Fluke' Holland
-  - Johnny Cash
-  - The Beatles
-  - Paul McCartney
+    - Jay Perkins
+    - Clayton Perkins
+    - W.S. 'Fluke' Holland
+    - Johnny Cash
+    - The Beatles
+    - Paul McCartney
   influenced:
-  - Elvis Presley
-  - The Beatles
-  - Jimi Hendrix
-  - Bono (U2)
-  - John Fogerty
+    - Elvis Presley
+    - The Beatles
+    - Jimi Hendrix
+    - Bono (U2)
+    - John Fogerty
   mentors:
-  - Bill Monroe
-  - Ernest Tubb
-  - Sam Phillips
+    - Bill Monroe
+    - Ernest Tubb
+    - Sam Phillips
 musicbrainz_id: 068bd7ab-c38e-4fae-8ed2-cb0c153ed68f
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://memphismusichalloffame.com/inductee/carlperkins/
-- https://sunrecords.com/artists/carl-perkins/
-- https://www.britannica.com/biography/Carl-Perkins
-- https://alancackett.com/carl-perkins-biography
+  - 'https://memphismusichalloffame.com/inductee/carlperkins/'
+  - 'https://sunrecords.com/artists/carl-perkins/'
+  - 'https://www.britannica.com/biography/Carl-Perkins'
+  - 'https://alancackett.com/carl-perkins-biography'
 spotify_data:
   followers: 192748
   id: 5hIClg6noTaCzMu2s5wp4f
   popularity: 44
-  url: https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f
+  url: 'https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f'
 status: active
 tags:
-- american
-- country
-- rock
-title: CARL PERKINS
+  - american
+  - country
+  - rock
+title: Carl Perkins
+is_active: false
 ---
 
 ![](carl_perkins.jpg)

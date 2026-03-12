@@ -5,12 +5,12 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1939-01-24'
-birth_place: Cobb County
+birth_place: 'Clarkdale, Georgia, United States'
 genres:
-- comedy
+  - comedy
 instruments:
-- piano
-- background vocals
+  - piano
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ray_stevens.jpg
   caption: Ray Stevens
@@ -32,43 +32,43 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dolly Parton
-  - Andy Williams
+    - Dolly Parton
+    - Andy Williams
   influenced:
-  - Weird Al Yankovic
+    - Weird Al Yankovic
   mentors:
-  - Bill Lowery
+    - Bill Lowery
 spotify_data:
   followers: 97558
   id: 7MpUvihmfilIxyN20kXwQj
   popularity: 38
-  url: https://open.spotify.com/artist/7MpUvihmfilIxyN20kXwQj
+  url: 'https://open.spotify.com/artist/7MpUvihmfilIxyN20kXwQj'
 discography_enriched: true
 top_tracks:
-- That’s My Desire (Grover's Hat Project)
-- The Streak (Boogity Boogity)
-- The Mississippi Squirrel Revival (Mississippi Squirrel Revival)
-- Misty (Misty)
-- Everything Is Beautiful (Everything Is Beautiful)
-- It's Me Again, Margaret (Box Set)
-- Cannonball (main theme)
-- Mississippi Squirrel Revival (The Legendary Ray Stevens)
-- I'm My Own Grandpaw (Crackin' Up!)
-- Ahab The Arab (Get Serious!)
+  - That’s My Desire (Grover's Hat Project)
+  - The Streak (Boogity Boogity)
+  - The Mississippi Squirrel Revival (Mississippi Squirrel Revival)
+  - Misty (Misty)
+  - Everything Is Beautiful (Everything Is Beautiful)
+  - 'It''s Me Again, Margaret (Box Set)'
+  - Cannonball (main theme)
+  - Mississippi Squirrel Revival (The Legendary Ray Stevens)
+  - I'm My Own Grandpaw (Crackin' Up!)
+  - Ahab The Arab (Get Serious!)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/140220f3-95fe-417a-8b66-4102d2deacb9
-  spotify: https://open.spotify.com/artist/7MpUvihmfilIxyN20kXwQj
-  wikipedia: https://en.wikipedia.org/wiki/Ray_Stevens
+  musicbrainz: 'https://musicbrainz.org/artist/140220f3-95fe-417a-8b66-4102d2deacb9'
+  spotify: 'https://open.spotify.com/artist/7MpUvihmfilIxyN20kXwQj'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ray_Stevens'
 image_path: 03_Resources/source_material/ArtistPortraits/ray_stevens.jpg
 biography_enhanced_at: '2025-10-26T12:26:00.572843'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://raystevenscabaray.com/about/ray/
-- https://raystevens.com/about/
-- https://www.opry.com/artists/ray-stevens
-- https://www.imdb.com/name/nm0828696/bio/
-- https://www.countrymusichalloffame.org/artist/ray-stevens
+  - 'https://raystevenscabaray.com/about/ray/'
+  - 'https://raystevens.com/about/'
+  - 'https://www.opry.com/artists/ray-stevens'
+  - 'https://www.imdb.com/name/nm0828696/bio/'
+  - 'https://www.countrymusichalloffame.org/artist/ray-stevens'
 network_extracted: true
 entry_created: '2025-10-26T12:26:00.572852'
 last_updated: '2025-12-23T08:16:14.696583'
@@ -76,10 +76,10 @@ disambiguation: US singer‐songwriter & comedian
 gender: Male
 musicbrainz_id: 140220f3-95fe-417a-8b66-4102d2deacb9
 tags:
-- comedy
-- country
-- novelty song
-
+  - comedy
+  - country
+  - novelty song
+origin: 'Albany, Georgia, United States'
 ---
 
 ![](ray_stevens.jpg)

@@ -1,96 +1,99 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9b77f3fb-b702-4a2d-a370-37e0624e0709
-  name: Paul Winter Consort
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: e4a87b96-8178-4f5f-bfa1-22fc95078c7e
-  name: Oregon
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ef97b5c9-2220-49fc-808c-4168902d5656
-  name: MGT
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e1823fa7-95ab-4afc-a1c6-3f1886a12973
-  name: Atmospheres
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: da1e2f2c-1c9a-4369-a85f-4d3ed4b1a634
-  name: Gary Burton & Friends
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9b77f3fb-b702-4a2d-a370-37e0624e0709
+    name: Paul Winter Consort
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: e4a87b96-8178-4f5f-bfa1-22fc95078c7e
+    name: Oregon
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ef97b5c9-2220-49fc-808c-4168902d5656
+    name: MGT
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e1823fa7-95ab-4afc-a1c6-3f1886a12973
+    name: Atmospheres
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: da1e2f2c-1c9a-4369-a85f-4d3ed4b1a634
+    name: Gary Burton & Friends
 biography_enhanced_at: '2026-01-22T06:59:28.053854'
 birth_date: '1940-03-01'
-birth_place: Chehalis
+birth_place: 'Chehalis, Washington, United States'
 death_date: '2026-01-18'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T06:59:28.053861'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/610b8b96-faf7-4633-afd6-d6c338a81144
-  spotify: https://open.spotify.com/artist/1tbxopipOkDjnRDfMKj535
-  wikipedia: https://en.wikipedia.org/wiki/Ralph_Towner
+  musicbrainz: 'https://musicbrainz.org/artist/610b8b96-faf7-4633-afd6-d6c338a81144'
+  spotify: 'https://open.spotify.com/artist/1tbxopipOkDjnRDfMKj535'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ralph_Towner'
 gender: Male
 genres:
-- ambient jazz
-- jazz fusion
-- jazz
+  - ambient jazz
+  - jazz fusion
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/ralph_towner.jpg
 instruments:
-- original
-- guitar
-- acoustic guitar
-- 12 string guitar
-- piano
-- classical guitar
+  - original
+  - guitar
+  - acoustic guitar
+  - 12 string guitar
+  - piano
+  - classical guitar
 last_updated: '2026-01-22T06:59:28.053862'
 musical_connections:
   collaborators:
-  - Paul Winter
-  - Glen Moore
-  - Paul McCandless
-  - Collin Walcott
-  - Jan Garbarek
-  - John Abercrombie
-  - Gary Peacock
-  - Keith Jarrett
-  - Gary Burton
-  - Egberto Gismonti
+    - Paul Winter
+    - Glen Moore
+    - Paul McCandless
+    - Collin Walcott
+    - Jan Garbarek
+    - John Abercrombie
+    - Gary Peacock
+    - Keith Jarrett
+    - Gary Burton
+    - Egberto Gismonti
   influenced:
-  - Generation of jazz and world music musicians
+    - Generation of jazz and world music musicians
   mentors:
-  - Homer Keller
-  - Karl Scheit
-  - Bill Evans
+    - Homer Keller
+    - Karl Scheit
+    - Bill Evans
 musicbrainz_id: 610b8b96-faf7-4633-afd6-d6c338a81144
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Ralph_Towner
-- https://www.knkx.org/jazz/2026-01-20/ralph-towner-guitarist-composer-oregon-dies
-- https://www.ralphtowner.com/biography
-- https://www.freejazzblog.org/2026/01/ralph-towner-1940-2026.html
-- https://www.orartswatch.org/ralph-towner-nancy-king-and-glenn-moores-oregon-musical-origins/
-- https://downbeat.com/news/detail/in-memoriam-ralph-towner-19402026
-- https://ecmrecords.com/ralph-towner-1940-2026/
+  - 'https://en.wikipedia.org/wiki/Ralph_Towner'
+  - >-
+    https://www.knkx.org/jazz/2026-01-20/ralph-towner-guitarist-composer-oregon-dies
+  - 'https://www.ralphtowner.com/biography'
+  - 'https://www.freejazzblog.org/2026/01/ralph-towner-1940-2026.html'
+  - >-
+    https://www.orartswatch.org/ralph-towner-nancy-king-and-glenn-moores-oregon-musical-origins/
+  - 'https://downbeat.com/news/detail/in-memoriam-ralph-towner-19402026'
+  - 'https://ecmrecords.com/ralph-towner-1940-2026/'
 spotify_data:
   followers: 35949
   id: 1tbxopipOkDjnRDfMKj535
   popularity: 39
-  url: https://open.spotify.com/artist/1tbxopipOkDjnRDfMKj535
+  url: 'https://open.spotify.com/artist/1tbxopipOkDjnRDfMKj535'
 status: active
 tags:
-- contemporary jazz
-- jazz
-- jazz and blues
+  - contemporary jazz
+  - jazz
+  - jazz and blues
 title: Ralph Towner
+is_active: false
 ---
 
 ![](ralph_towner.jpg)

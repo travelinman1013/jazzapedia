@@ -1,12 +1,12 @@
 ---
-title: vampire beach babes
+title: Vampire Beach Babes
 wiki_slug: vampire-beach-babes
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1997'
 genres:
-- psychobilly
+  - psychobilly
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/vampire_beach_babes.jpg
   caption: vampire beach babes
@@ -27,54 +27,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bunny (Melinda)
-  - Eris
-  - Heather
-  - Anita Cocktail
-  - Ricky Las Vegas
+    - Bunny (Melinda)
+    - Eris
+    - Heather
+    - Anita Cocktail
+    - Ricky Las Vegas
   influenced:
-  - Toronto goth scene artists
+    - Toronto goth scene artists
   mentors:
-  - Peter Murphy
-  - Bauhaus
+    - Peter Murphy
+    - Bauhaus
 spotify_data:
   followers: 10740
   id: 60HdTjHban0NWzP7TgnbXZ
   popularity: 29
-  url: https://open.spotify.com/artist/60HdTjHban0NWzP7TgnbXZ
+  url: 'https://open.spotify.com/artist/60HdTjHban0NWzP7TgnbXZ'
 discography_enriched: true
 top_tracks:
-- Gothic Surf-a-rama (Reckless Summer)
-- Gothmobile (Reckless Summer)
-- Tomb Mau Mau (Reckless Summer)
-- Creepy Baby Man (Reckless Summer)
-- Run Dangerboy, Run (Reckless Summer)
-- Horseshoes (Up My Ass) (Reckless Summer)
-- Tomb Mau Mau (Party Mix) (Reckless Summer)
-- Blackstar (Blackstar)
-- Blackstar (The Black Album)
-- Hot Foot (Beach Blanket Bedlam!)
+  - Gothic Surf-a-rama (Reckless Summer)
+  - Gothmobile (Reckless Summer)
+  - Tomb Mau Mau (Reckless Summer)
+  - Creepy Baby Man (Reckless Summer)
+  - 'Run Dangerboy, Run (Reckless Summer)'
+  - Horseshoes (Up My Ass) (Reckless Summer)
+  - Tomb Mau Mau (Party Mix) (Reckless Summer)
+  - Blackstar (Blackstar)
+  - Blackstar (The Black Album)
+  - Hot Foot (Beach Blanket Bedlam!)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5457d441-1d51-4421-b35a-5020581f9cfd
-  spotify: https://open.spotify.com/artist/60HdTjHban0NWzP7TgnbXZ
-  wikipedia: https://en.wikipedia.org/wiki/Vampire_Beach_Babes
+  musicbrainz: 'https://musicbrainz.org/artist/5457d441-1d51-4421-b35a-5020581f9cfd'
+  spotify: 'https://open.spotify.com/artist/60HdTjHban0NWzP7TgnbXZ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Vampire_Beach_Babes'
 image_path: 03_Resources/source_material/ArtistPortraits/vampire_beach_babes.jpg
 biography_enhanced_at: '2025-11-01T15:34:33.799120'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Vampire_Beach_Babes
-- https://citizenfreak.com/artists/104754-vampire-beach-babes
-- https://www.last.fm/music/Vampire+Beach+Babes/+wiki
-- https://www.baronmarcus.com/copy-of-vampire-beach-babes
+  - 'https://en.wikipedia.org/wiki/Vampire_Beach_Babes'
+  - 'https://citizenfreak.com/artists/104754-vampire-beach-babes'
+  - 'https://www.last.fm/music/Vampire+Beach+Babes/+wiki'
+  - 'https://www.baronmarcus.com/copy-of-vampire-beach-babes'
 network_extracted: true
 entry_created: '2025-11-01T15:34:33.799129'
 last_updated: '2025-12-23T08:16:17.815442'
 musicbrainz_id: 5457d441-1d51-4421-b35a-5020581f9cfd
-origin: Toronto
+origin: 'Toronto, Ontario, Canada'
 tags:
-- gothic rock
-
+  - gothic rock
 ---
 
 ![](vampire_beach_babes.jpg)

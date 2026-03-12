@@ -5,13 +5,13 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1988-01-16'
-birth_place: Cheltenham
+birth_place: 'Cheltenham, Gloucestershire, England'
 genres:
-- art pop
-- alternative r&b
+  - art pop
+  - alternative r&b
 instruments:
-- spoken vocals
-- other vocals
+  - spoken vocals
+  - other vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/FKA_twigs.jpg
   caption: FKA twigs
@@ -25,7 +25,7 @@ audio_profile:
   danceability_avg: 0.628
   acousticness_avg: 0.394
   instrumentalness_avg: 0.045
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.143
   liveness_avg: 0.168
   track_count: 43
@@ -33,48 +33,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Arca
-  - Koreless
-  - Future
+    - Arca
+    - Koreless
+    - Future
   influenced:
-  - Kelela
-  - Sevdaliza
-  - yeule
+    - Kelela
+    - Sevdaliza
+    - yeule
   mentors:
-  - Her mother (unnamed)
-  - Arca
+    - Her mother (unnamed)
+    - Arca
 spotify_data:
   followers: 1439594
   id: 6nB0iY1cjSY1KyhYyuIIKH
   popularity: 63
-  url: https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH
+  url: 'https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH'
 discography_enriched: true
 top_tracks:
-- Childlike Things (EUSEXUA)
-- Fukk Sleep (feat. FKA twigs) (TESTING)
-- Girl Feels Good (EUSEXUA)
-- Eusexua (EUSEXUA)
-- Striptease (EUSEXUA)
-- Perfect Stranger (EUSEXUA)
-- Drums of Death (EUSEXUA)
-- oh my love (CAPRISONGS)
-- Room Of Fools (EUSEXUA)
-- Sticky (EUSEXUA)
+  - Childlike Things (EUSEXUA)
+  - Fukk Sleep (feat. FKA twigs) (TESTING)
+  - Girl Feels Good (EUSEXUA)
+  - Eusexua (EUSEXUA)
+  - Striptease (EUSEXUA)
+  - Perfect Stranger (EUSEXUA)
+  - Drums of Death (EUSEXUA)
+  - oh my love (CAPRISONGS)
+  - Room Of Fools (EUSEXUA)
+  - Sticky (EUSEXUA)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1e4e9db7-5068-4a9c-bdd0-5777e47172c8
-  spotify: https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH
-  wikipedia: https://en.wikipedia.org/wiki/FKA_Twigs
+  musicbrainz: 'https://musicbrainz.org/artist/1e4e9db7-5068-4a9c-bdd0-5777e47172c8'
+  spotify: 'https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH'
+  wikipedia: 'https://en.wikipedia.org/wiki/FKA_Twigs'
 image_path: 03_Resources/source_material/ArtistPortraits/FKA_twigs.jpg
 biography_enhanced_at: '2025-10-22T06:39:17.739602'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://nationaltoday.com/birthday/fka-twigs/
-- https://hollywoodlife.com/celeb/fka-twigs/
-- https://www.last.fm/music/FKA+twigs/+wiki
-- https://kids.kiddle.co/FKA_Twigs
-- https://fka-twigs.fandom.com/wiki/FKA_twigs
-- https://imdb.com/name/nm4766226/
+  - 'https://nationaltoday.com/birthday/fka-twigs/'
+  - 'https://hollywoodlife.com/celeb/fka-twigs/'
+  - 'https://www.last.fm/music/FKA+twigs/+wiki'
+  - 'https://kids.kiddle.co/FKA_Twigs'
+  - 'https://fka-twigs.fandom.com/wiki/FKA_twigs'
+  - 'https://imdb.com/name/nm4766226/'
 network_extracted: true
 entry_created: '2025-10-22T06:39:17.739616'
 last_updated: '2025-12-23T08:16:01.972733'
@@ -82,9 +82,9 @@ disambiguation: British electro-pop artist
 gender: Female
 musicbrainz_id: 1e4e9db7-5068-4a9c-bdd0-5777e47172c8
 tags:
-- alternative r&b
-- alternative/indie rock
-- ambient pop
+  - alternative r&b
+  - alternative/indie rock
+  - ambient pop
 ---
 
 ![](FKA_twigs.jpg)

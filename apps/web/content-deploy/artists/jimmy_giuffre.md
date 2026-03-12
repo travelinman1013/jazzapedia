@@ -1,57 +1,57 @@
 ---
-title: JIMMY GIUFFRE
+title: Jimmy Giuffre
 wiki_slug: jimmy-giuffre
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1921-04-26'
-birth_place: Dallas
+birth_place: 'Dallas, Texas, United States'
 death_date: '2008-04-24'
 genres:
-- cool jazz
-- free jazz
-- jazz
+  - cool jazz
+  - free jazz
+  - jazz
 instruments:
-- eponymous
-- baritone saxophone
-- clarinet
-- tenor saxophone
-associated_acts:
-- begin: '1957'
-  end: ''
-  instruments:
   - eponymous
-  mbid: 50fa7a0e-c92d-439e-a743-a31c28230716
-  name: The Jimmy Giuffre 3
-- begin: ''
-  end: ''
-  instruments:
   - baritone saxophone
-  mbid: cac7737d-15ab-4185-85f8-3e159cd18e41
-  name: John Graas Octet
-- begin: ''
-  end: ''
-  instruments:
   - clarinet
-  mbid: 66b65dc2-0103-475a-a89a-73ad18e46214
-  name: Teddy Charles Quintet
-- begin: ''
-  end: ''
-  instruments:
   - tenor saxophone
-  mbid: 66b65dc2-0103-475a-a89a-73ad18e46214
-  name: Teddy Charles Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - baritone saxophone
-  mbid: 66b65dc2-0103-475a-a89a-73ad18e46214
-  name: Teddy Charles Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 91720f2b-270b-406b-8ba6-fe2d6ee517aa
-  name: Shelly Manne & His Men
+associated_acts:
+  - begin: '1957'
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 50fa7a0e-c92d-439e-a743-a31c28230716
+    name: The Jimmy Giuffre 3
+  - begin: ''
+    end: ''
+    instruments:
+      - baritone saxophone
+    mbid: cac7737d-15ab-4185-85f8-3e159cd18e41
+    name: John Graas Octet
+  - begin: ''
+    end: ''
+    instruments:
+      - clarinet
+    mbid: 66b65dc2-0103-475a-a89a-73ad18e46214
+    name: Teddy Charles Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: 66b65dc2-0103-475a-a89a-73ad18e46214
+    name: Teddy Charles Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - baritone saxophone
+    mbid: 66b65dc2-0103-475a-a89a-73ad18e46214
+    name: Teddy Charles Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 91720f2b-270b-406b-8ba6-fe2d6ee517aa
+    name: Shelly Manne & His Men
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jimmy_giuffre.jpg
   caption: JIMMY GIUFFRE
@@ -74,51 +74,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jim Hall
-  - Ralph Peña
-  - Paul Bley
-  - Steve Swallow
-  - Bob Brookmeyer
-  - Shorty Rogers
-  - Howard Rumsey
-  - Woody Herman
-  - Joe McPhee
+    - Jim Hall
+    - Ralph Peña
+    - Paul Bley
+    - Steve Swallow
+    - Bob Brookmeyer
+    - Shorty Rogers
+    - Howard Rumsey
+    - Woody Herman
+    - Joe McPhee
   influenced:
-  - Lee Konitz
-  - Warne Marsh
+    - Lee Konitz
+    - Warne Marsh
   mentors:
-  - Dr. Wesley La Violette
+    - Dr. Wesley La Violette
 spotify_data:
   followers: 11931
   id: 4RncsrNJ1GDGsFBIxI76L6
   popularity: 36
-  url: https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6
+  url: 'https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6'
 discography_enriched: true
 top_tracks:
-- Someone To Watch Over Me (Lee Konitz Meets Jimmy Giuffre)
-- Crazy She Calls Me (The Jimmy Giuffre 3)
-- That's the Way It Is (The Jimmy Giuffre 3)
-- When Your Lover Has Gone (Lee Konitz Meets Jimmy Giuffre)
-- Uncharted (Lee Konitz Meets Jimmy Giuffre)
-- Gotta Dance (The Jimmy Giuffre 3)
-- Lazy Tones (Voodoo)
-- Lazy Tones (Tangents In Jazz)
-- The Green Country (New England Mood) (The Jimmy Giuffre 3)
-- The Train and the River (The Jimmy Giuffre 3)
+  - Someone To Watch Over Me (Lee Konitz Meets Jimmy Giuffre)
+  - Crazy She Calls Me (The Jimmy Giuffre 3)
+  - That's the Way It Is (The Jimmy Giuffre 3)
+  - When Your Lover Has Gone (Lee Konitz Meets Jimmy Giuffre)
+  - Uncharted (Lee Konitz Meets Jimmy Giuffre)
+  - Gotta Dance (The Jimmy Giuffre 3)
+  - Lazy Tones (Voodoo)
+  - Lazy Tones (Tangents In Jazz)
+  - The Green Country (New England Mood) (The Jimmy Giuffre 3)
+  - The Train and the River (The Jimmy Giuffre 3)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a7bd6de6-1739-4927-93f0-693b1f8fed32
-  spotify: https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6
-  wikipedia: https://en.wikipedia.org/wiki/Jimmy_Giuffre
+  musicbrainz: 'https://musicbrainz.org/artist/a7bd6de6-1739-4927-93f0-693b1f8fed32'
+  spotify: 'https://open.spotify.com/artist/4RncsrNJ1GDGsFBIxI76L6'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jimmy_Giuffre'
 image_path: 03_Resources/source_material/ArtistPortraits/jimmy_giuffre.jpg
 biography_enhanced_at: '2025-12-22T01:45:23.422638'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Jimmy Giuffre
-- JazzTimes - Jimmy Giuffre, Clarinetist Who Bridged Eras, Dies at 86
-- All About Jazz - Jimmy Giuffre Musician
-- Blue Note Records - Jimmy Giuffre
-- 'WBGO Jazz - Jimmy Giuffre at 100: A Centennial Tribute in Take Five'
+  - Wikipedia - Jimmy Giuffre
+  - 'JazzTimes - Jimmy Giuffre, Clarinetist Who Bridged Eras, Dies at 86'
+  - All About Jazz - Jimmy Giuffre Musician
+  - Blue Note Records - Jimmy Giuffre
+  - 'WBGO Jazz - Jimmy Giuffre at 100: A Centennial Tribute in Take Five'
 network_extracted: true
 entry_created: '2025-12-22T01:45:23.422643'
 last_updated: '2025-12-23T08:16:10.463448'
@@ -126,10 +126,11 @@ disambiguation: American jazz clarinetist/saxophonist and composer
 gender: Male
 musicbrainz_id: a7bd6de6-1739-4927-93f0-693b1f8fed32
 tags:
-- avant-garde jazz
-- cool jazz
-- free improvisation
-
+  - avant-garde jazz
+  - cool jazz
+  - free improvisation
+is_active: false
+origin: 'Los Angeles, California, United States'
 ---
 
 ![](jimmy_giuffre.jpg)

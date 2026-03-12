@@ -4,7 +4,7 @@ wiki_slug: davina-the-vagabonds
 schema_version: 2
 status: active
 genres:
-- swing music
+  - swing music
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/davina_and_the_vagabonds.jpg
   caption: Davina & The Vagabonds
@@ -24,46 +24,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Zee (Zack) Lozier
-  - Connor McRae Hammergren
-  - Steve Rogness
+    - Zee (Zack) Lozier
+    - Connor McRae Hammergren
+    - Steve Rogness
   influenced:
-  - Emerging Twin Cities jazz and blues musicians
+    - Emerging Twin Cities jazz and blues musicians
   mentors:
-  - Davina Sowers' stepfather
+    - Davina Sowers' stepfather
 spotify_data:
   followers: 10146
   id: 3oLbVep4MpWVFfeLgdRVjd
   popularity: 14
-  url: https://open.spotify.com/artist/3oLbVep4MpWVFfeLgdRVjd
+  url: 'https://open.spotify.com/artist/3oLbVep4MpWVFfeLgdRVjd'
 discography_enriched: true
 top_tracks:
-- Sunshine (Sunshine)
-- Bone Collection (Sugar Drops)
-- I'd Rather Go Blind (Nicollet and Tenth)
-- Ho Hum (Shoot For The Moon)
-- Lipstick and Chrome (Black Cloud)
-- Shake That Thing (Nicollet and Tenth)
-- Knock Me a Kiss (Nicollet and Tenth)
-- I Try to Be Good (Sunshine)
-- Devil Horns (Sugar Drops)
-- Red Shoes (Sunshine)
+  - Sunshine (Sunshine)
+  - Bone Collection (Sugar Drops)
+  - I'd Rather Go Blind (Nicollet and Tenth)
+  - Ho Hum (Shoot For The Moon)
+  - Lipstick and Chrome (Black Cloud)
+  - Shake That Thing (Nicollet and Tenth)
+  - Knock Me a Kiss (Nicollet and Tenth)
+  - I Try to Be Good (Sunshine)
+  - Devil Horns (Sugar Drops)
+  - Red Shoes (Sunshine)
 external_urls:
-  spotify: https://open.spotify.com/artist/3oLbVep4MpWVFfeLgdRVjd
-  wikipedia: https://en.wikipedia.org/wiki/Davina_and_the_Vagabonds
+  spotify: 'https://open.spotify.com/artist/3oLbVep4MpWVFfeLgdRVjd'
+  wikipedia: 'https://en.wikipedia.org/wiki/Davina_and_the_Vagabonds'
 image_path: 03_Resources/source_material/ArtistPortraits/davina_and_the_vagabonds.jpg
 biography_enhanced_at: '2025-10-31T08:04:02.119915'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Davina_and_the_Vagabonds
-- https://theconrad.org/events/davina-and-the-vagabonds/
-- https://showcasemedialive.com/a-vagabond-holiday/
-- https://www.redhouserecords.com/artists/davina-and-vagabonds/
+  - 'https://en.wikipedia.org/wiki/Davina_and_the_Vagabonds'
+  - 'https://theconrad.org/events/davina-and-the-vagabonds/'
+  - 'https://showcasemedialive.com/a-vagabond-holiday/'
+  - 'https://www.redhouserecords.com/artists/davina-and-vagabonds/'
 network_extracted: true
 entry_created: '2025-10-31T08:04:02.119927'
 last_updated: '2025-12-23T08:16:07.594699'
-origin: Twin Cities, Minnesota, United States
+origin: 'Twin Cities, Minnesota, United States'
+artist_type: person
 ---
 
 ![](davina_and_the_vagabonds.jpg)

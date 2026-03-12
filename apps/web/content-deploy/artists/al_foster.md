@@ -3,17 +3,17 @@ title: Al Foster
 wiki_slug: al-foster
 schema_version: 2
 status: active
-birth_place: Richmond, Virginia, United States
+birth_place: 'Richmond, Virginia, United States'
 genres:
-- jazz
-- hard bop
+  - jazz
+  - hard bop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/al_foster.jpg
   caption: Al Foster
   background: solo_singer
-  origin: Richmond, Virginia, United States
+  origin: 'Richmond, Virginia, United States'
 audio_profile:
-  tempo_avg: 114.0
+  tempo_avg: 114
   energy_avg: 0.256
   valence_avg: 0.369
   danceability_avg: 0.489
@@ -27,54 +27,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Miles Davis
-  - Blue Mitchell
-  - McCoy Tyner
-  - Sonny Rollins
-  - John Scofield
-  - Joe Lovano
-  - Dave Holland
+    - Miles Davis
+    - Blue Mitchell
+    - McCoy Tyner
+    - Sonny Rollins
+    - John Scofield
+    - Joe Lovano
+    - Dave Holland
   influenced:
-  - Eli Degibri
-  - Jeff Williams
+    - Eli Degibri
+    - Jeff Williams
   mentors:
-  - Max Roach
-  - Philly Joe Jones
-  - Miles Davis
+    - Max Roach
+    - Philly Joe Jones
+    - Miles Davis
 spotify_data:
   followers: 4408
   id: 4PqV4TEgVltnn4N47ODKV6
   popularity: 26
-  url: https://open.spotify.com/artist/4PqV4TEgVltnn4N47ODKV6
+  url: 'https://open.spotify.com/artist/4PqV4TEgVltnn4N47ODKV6'
 discography_enriched: true
 top_tracks:
-- Round Midnight (The Standard Joe)
-- When I'm Here with You (The Time is Now)
-- The Odd Couple (The Time is Now)
-- Our Son (Inspirations & Dedications)
-- Cabin in the Sky (The Time is Now)
-- I Want To Tell You 'Bout That (McCoy Tyner With Stanley Clarke And Al Foster)
-- The Winding Way
-- The Time is Now (The Time is Now)
-- Never Let Me Go (McCoy Tyner With Stanley Clarke And Al Foster)
-- Will You Still Be Mine (McCoy Tyner With Stanley Clarke And Al Foster)
+  - Round Midnight (The Standard Joe)
+  - When I'm Here with You (The Time is Now)
+  - The Odd Couple (The Time is Now)
+  - Our Son (Inspirations & Dedications)
+  - Cabin in the Sky (The Time is Now)
+  - >-
+    I Want To Tell You 'Bout That (McCoy Tyner With Stanley Clarke And Al
+    Foster)
+  - The Winding Way
+  - The Time is Now (The Time is Now)
+  - Never Let Me Go (McCoy Tyner With Stanley Clarke And Al Foster)
+  - Will You Still Be Mine (McCoy Tyner With Stanley Clarke And Al Foster)
 external_urls:
-  spotify: https://open.spotify.com/artist/4PqV4TEgVltnn4N47ODKV6
+  spotify: 'https://open.spotify.com/artist/4PqV4TEgVltnn4N47ODKV6'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/al_foster.jpg
 biography_enhanced_at: '2025-12-20T01:10:56.664087'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.everythingjazz.com/story/how-drummer-al-foster-shaped-miles-electric-sound/
-- https://aloysiusfoster.com/index.php/biography/
-- http://jazzforumarts.org/al-foster/
-- https://usa.yamaha.com/artists/a/al-foster.html
-- https://downbeat.com/news/detail/in-memoriam-al-foster-1943-2025
-- https://www.wrti.org/wrti-picks-from-npr-music/2025-05-29/al-foster-drummer-for-miles-davis-and-sonny-rollins-has-died
+  - >-
+    https://www.everythingjazz.com/story/how-drummer-al-foster-shaped-miles-electric-sound/
+  - 'https://aloysiusfoster.com/index.php/biography/'
+  - 'http://jazzforumarts.org/al-foster/'
+  - 'https://usa.yamaha.com/artists/a/al-foster.html'
+  - 'https://downbeat.com/news/detail/in-memoriam-al-foster-1943-2025'
+  - >-
+    https://www.wrti.org/wrti-picks-from-npr-music/2025-05-29/al-foster-drummer-for-miles-davis-and-sonny-rollins-has-died
 network_extracted: true
 entry_created: '2025-12-20T01:10:56.664096'
 last_updated: '2025-12-23T08:16:04.442938'
+birth_date: '1943-01-18'
+artist_type: person
 ---
 
 ![](al_foster.jpg)

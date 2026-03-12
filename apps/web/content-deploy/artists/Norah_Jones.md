@@ -6,28 +6,28 @@ status: active
 birth_name: Geethali Norah Jones Shankar
 aliases: []
 birth_date: '1979-03-30'
-birth_place: New York City, New York, USA
+birth_place: 'Brooklyn, New York City, United States'
 years_active: 2001–present
 genres: []
 instruments:
-- piano
-- guitar
-- voice
+  - piano
+  - guitar
+  - voice
 occupation:
-- actor
-- pianist
-- singer-songwriter
-- jazz musician
-- singer
+  - actor
+  - pianist
+  - singer-songwriter
+  - jazz musician
+  - singer
 record_labels:
-- Blue Note
+  - Blue Note
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Norah_Jones.jpg
   caption: Norah Jones
   background: solo_singer
   birth_name: Geethali Norah Jones Shankar
   born: '1979-03-30'
-  origin: New York City, New York, USA
+  origin: 'New York City, New York, USA'
 audio_profile:
   tempo_avg: 111.9
   energy_avg: 0.315
@@ -35,7 +35,7 @@ audio_profile:
   danceability_avg: 0.549
   acousticness_avg: 0.724
   instrumentalness_avg: 0.081
-  loudness_avg: -12.0
+  loudness_avg: -12
   speechiness_avg: 0.05
   liveness_avg: 0.199
   track_count: 71
@@ -43,59 +43,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jesse Harris
-  - Lee Alexander
-  - Ray Charles
-  - Charlie Hunter
-  - The Little Willies
-  - Puss N Boots (Sasha Dobson, Catherine Popper)
-  - Willie Nelson
-  - Herbie Hancock
+    - Jesse Harris
+    - Lee Alexander
+    - Ray Charles
+    - Charlie Hunter
+    - The Little Willies
+    - 'Puss N Boots (Sasha Dobson, Catherine Popper)'
+    - Willie Nelson
+    - Herbie Hancock
   influenced:
-  - Adele
-  - Sara Bareilles
+    - Adele
+    - Sara Bareilles
   mentors:
-  - Ravi Shankar
-  - Billie Holiday
+    - Ravi Shankar
+    - Billie Holiday
 related_artists: []
 spotify_data:
   followers: 3352279
   id: 2Kx7MNY7cI1ENniW7vT30N
   popularity: 75
-  url: https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N
+  url: 'https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N'
   verified: false
 discography_enriched: true
 albums_count: 19
 singles_count: 59
 top_tracks:
-- Don't Know Why (Come Away With Me (Super Deluxe Edition))
-- Sunrise (Feels Like Home)
-- Come Away With Me (Come Away With Me (Super Deluxe Edition))
-- Turn Me On (Come Away With Me (Super Deluxe Edition))
-- Those Sweet Words (Feels Like Home)
-- What Am I To You? (Feels Like Home)
-- Carry On (Day Breaks)
-- Here We Go Again (Genius Loves Company)
-- Seven Years (Come Away With Me (Super Deluxe Edition))
-- The Nearness Of You (Come Away With Me (Super Deluxe Edition))
+  - Don't Know Why (Come Away With Me (Super Deluxe Edition))
+  - Sunrise (Feels Like Home)
+  - Come Away With Me (Come Away With Me (Super Deluxe Edition))
+  - Turn Me On (Come Away With Me (Super Deluxe Edition))
+  - Those Sweet Words (Feels Like Home)
+  - What Am I To You? (Feels Like Home)
+  - Carry On (Day Breaks)
+  - Here We Go Again (Genius Loves Company)
+  - Seven Years (Come Away With Me (Super Deluxe Edition))
+  - The Nearness Of You (Come Away With Me (Super Deluxe Edition))
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N
-  wikipedia: https://en.wikipedia.org/wiki/Norah_Jones
+  spotify: 'https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N'
+  wikipedia: 'https://en.wikipedia.org/wiki/Norah_Jones'
 image_path: 03_Resources/source_material/ArtistPortraits/Norah_Jones.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:43:55.190489'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Norah_Jones
-- https://www.bluenote.com/artist/norah-jones/
-- https://www.imdb.com/name/nm1289528/bio/
-- https://www.yamaha.com/artists/norahjones.html
+  - 'https://en.wikipedia.org/wiki/Norah_Jones'
+  - 'https://www.bluenote.com/artist/norah-jones/'
+  - 'https://www.imdb.com/name/nm1289528/bio/'
+  - 'https://www.yamaha.com/artists/norahjones.html'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:42:45.413572
+entry_created: 2025-09-22T21:42:45.413Z
 last_updated: '2025-12-23T08:16:03.470032'
+artist_type: person
 ---
 
 ![](Norah_Jones.jpg)

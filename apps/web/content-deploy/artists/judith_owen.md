@@ -1,15 +1,15 @@
 ---
-title: judith owen
+title: Judith Owen
 wiki_slug: judith-owen
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1969'
-birth_place: London
+birth_place: 'London, England, United Kingdom'
 genres:
-- vocal jazz
+  - vocal jazz
 instruments:
-- background vocals
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/judith_owen.jpg
   caption: judith owen
@@ -31,59 +31,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Richard Thompson
-  - Kevin Louis
-  - David Torkanowsky
-  - Pedro Segundo
-  - Lex Warshawsky
-  - k.d. lang
-  - Keb' Mo'
-  - Tom Scott
-  - Julia Fordham
-  - Ian Shaw
+    - Richard Thompson
+    - Kevin Louis
+    - David Torkanowsky
+    - Pedro Segundo
+    - Lex Warshawsky
+    - k.d. lang
+    - Keb' Mo'
+    - Tom Scott
+    - Julia Fordham
+    - Ian Shaw
   influenced: []
   mentors:
-  - Julia Lee
-  - Nellie Lutcher
-  - Blossom Dearie
+    - Julia Lee
+    - Nellie Lutcher
+    - Blossom Dearie
 spotify_data:
   followers: 36991
   id: 7JJBBV4U990CO3PJrn3CIo
   popularity: 24
-  url: https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo
+  url: 'https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo'
 discography_enriched: true
 top_tracks:
-- Fine Brown Frame (Come On & Get It (Deluxe))
-- Hot Stuff (redisCOVERed)
-- Ladies' Man (redisCOVERed)
-- Blossom's Blues (Come On & Get It (Deluxe))
-- No Better Time (Judith Owen Swings Christmas)
-- Last Christmas (Judith Owen Swings Christmas)
-- Shape of You (redisCOVERed)
-- I Promise You (Mopping Up Karma)
-- Why Don't You Do Right ? (Come On & Get It (Deluxe))
-- Lady Be Good - Live (Comes Alive [Live from Marians Jazzroom (Bern, Switzerland)])
+  - Fine Brown Frame (Come On & Get It (Deluxe))
+  - Hot Stuff (redisCOVERed)
+  - Ladies' Man (redisCOVERed)
+  - Blossom's Blues (Come On & Get It (Deluxe))
+  - No Better Time (Judith Owen Swings Christmas)
+  - Last Christmas (Judith Owen Swings Christmas)
+  - Shape of You (redisCOVERed)
+  - I Promise You (Mopping Up Karma)
+  - Why Don't You Do Right ? (Come On & Get It (Deluxe))
+  - >-
+    Lady Be Good - Live (Comes Alive [Live from Marians Jazzroom (Bern,
+    Switzerland)])
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c178b908-c00b-439c-a666-741e0ce81df9
-  spotify: https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo
-  wikipedia: https://en.wikipedia.org/wiki/Judith_Owen
+  musicbrainz: 'https://musicbrainz.org/artist/c178b908-c00b-439c-a666-741e0ce81df9'
+  spotify: 'https://open.spotify.com/artist/7JJBBV4U990CO3PJrn3CIo'
+  wikipedia: 'https://en.wikipedia.org/wiki/Judith_Owen'
 image_path: 03_Resources/source_material/ArtistPortraits/judith_owen.jpg
 biography_enhanced_at: '2025-10-23T07:27:39.620799'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://judithowen.net/bio/
-- https://www.wwoz.org/acts/judith-owen
-- https://www.yamaha.com/artists/judithowen.html
-- https://jazzjournal.co.uk/2022/10/04/judith-owen-come-on-get-it/
-- https://sfjazz.org/tickets/productions/24-25/judith-owen/
+  - 'https://judithowen.net/bio/'
+  - 'https://www.wwoz.org/acts/judith-owen'
+  - 'https://www.yamaha.com/artists/judithowen.html'
+  - 'https://jazzjournal.co.uk/2022/10/04/judith-owen-come-on-get-it/'
+  - 'https://sfjazz.org/tickets/productions/24-25/judith-owen/'
 network_extracted: true
 entry_created: '2025-10-23T07:27:39.620815'
 last_updated: '2025-12-23T08:16:11.031812'
 gender: Female
 musicbrainz_id: c178b908-c00b-439c-a666-741e0ce81df9
 tags:
-- singer-songwriter
+  - singer-songwriter
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](judith_owen.jpg)

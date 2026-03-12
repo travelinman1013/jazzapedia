@@ -1,16 +1,17 @@
 ---
-title: Yussef Dayes, Charlie Stacey, Rocco Palladino
+title: 'Yussef Dayes, Charlie Stacey, Rocco Palladino'
 wiki_slug: yussef-dayes-charlie-stacey-rocco-palladino
 schema_version: 2
 status: active
 genres:
-- jazz
-- hard bop
-- free jazz
-- avant-garde
+  - jazz
+  - hard bop
+  - free jazz
+  - avant-garde
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/Yussef_Dayes_Charlie_Stacey_Rocco_Palladino.jpg
-  caption: Yussef Dayes, Charlie Stacey, Rocco Palladino
+  image: >-
+    03_Resources/source_material/ArtistPortraits/Yussef_Dayes_Charlie_Stacey_Rocco_Palladino.jpg
+  caption: 'Yussef Dayes, Charlie Stacey, Rocco Palladino'
   background: solo_singer
 audio_profile:
   tempo_avg: 112.3
@@ -27,53 +28,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tom Misch
-  - Kamaal Williams
-  - Charlie Stacey
-  - Rocco Palladino
+    - Tom Misch
+    - Kamaal Williams
+    - Charlie Stacey
+    - Rocco Palladino
   influenced:
-  - Venna
-  - Jamilah Barry
+    - Venna
+    - Jamilah Barry
   mentors:
-  - Billy Cobham
+    - Billy Cobham
 spotify_data:
   followers: 162812
   id: 33XkS6h90eeK7e6OJHw0mq
   popularity: 47
-  url: https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq
+  url: 'https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq'
 discography_enriched: true
 top_tracks:
-- Love Theme From Spartacus - Remastered 2023 (Eastern Sounds (Remastered 2023))
-- Michelle (Suite 16)
-- Don't Blame Me - Remastered 2023 (Eastern Sounds (Remastered 2023))
-- The Plum Blossom - Remastered 2023 (Eastern Sounds (Remastered 2023))
-- Love Theme From The Robe - Remastered 2023 (Eastern Sounds (Remastered 2023))
-- Like It Is - Remastered (The Blue Yusef Lateef)
-- First Gymnopedie (Psychicemotus)
-- Woodward Avenue (Yusef Lateef's Detroit Latitude 42º 30º Longitude 83º)
-- Ching Miau - Remastered 2023 (Eastern Sounds (Remastered 2023))
-- (I Don't Stand) A Ghost Of A Chance With You (The Golden Flute)
+  - >-
+    Love Theme From Spartacus - Remastered 2023 (Eastern Sounds (Remastered
+    2023))
+  - Michelle (Suite 16)
+  - Don't Blame Me - Remastered 2023 (Eastern Sounds (Remastered 2023))
+  - The Plum Blossom - Remastered 2023 (Eastern Sounds (Remastered 2023))
+  - >-
+    Love Theme From The Robe - Remastered 2023 (Eastern Sounds (Remastered
+    2023))
+  - Like It Is - Remastered (The Blue Yusef Lateef)
+  - First Gymnopedie (Psychicemotus)
+  - Woodward Avenue (Yusef Lateef's Detroit Latitude 42º 30º Longitude 83º)
+  - Ching Miau - Remastered 2023 (Eastern Sounds (Remastered 2023))
+  - (I Don't Stand) A Ghost Of A Chance With You (The Golden Flute)
 external_urls:
-  spotify: https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq
-  wikipedia: https://en.wikipedia.org/wiki/Yussef_Dayes
-image_path: 03_Resources/source_material/ArtistPortraits/Yussef_Dayes_Charlie_Stacey_Rocco_Palladino.jpg
+  spotify: 'https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq'
+  wikipedia: 'https://en.wikipedia.org/wiki/Yussef_Dayes'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/Yussef_Dayes_Charlie_Stacey_Rocco_Palladino.jpg
 biography_enhanced_at: '2025-10-20T09:46:16.324133'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Yussef_Dayes
-- https://crackmagazine.net/article/long-reads/yussef-dayes-is-at-the-heart-of-the-new-generation-of-uk-jazz-players/
-- https://yussefdayes.com
-- https://www.holican.io/artist-wiki/yussef-dayes
-- https://colorsxstudios.com/shows/yussef-dayes
-- https://europe.yamaha.com/en/musical-instruments/drums/artists/y/Yussef%20Dayes.html
-- https://downbeat.com/news/detail/yussef-dayes-wants-challenge
-- https://pan-african-music.com/en/yussef-dayes-trio-welcome-to-the-hills/
-- https://www.wonderlandmagazine.com/2023/09/12/yussef-dayes/
+  - 'https://en.wikipedia.org/wiki/Yussef_Dayes'
+  - >-
+    https://crackmagazine.net/article/long-reads/yussef-dayes-is-at-the-heart-of-the-new-generation-of-uk-jazz-players/
+  - 'https://yussefdayes.com'
+  - 'https://www.holican.io/artist-wiki/yussef-dayes'
+  - 'https://colorsxstudios.com/shows/yussef-dayes'
+  - >-
+    https://europe.yamaha.com/en/musical-instruments/drums/artists/y/Yussef%20Dayes.html
+  - 'https://downbeat.com/news/detail/yussef-dayes-wants-challenge'
+  - 'https://pan-african-music.com/en/yussef-dayes-trio-welcome-to-the-hills/'
+  - 'https://www.wonderlandmagazine.com/2023/09/12/yussef-dayes/'
 network_extracted: true
 entry_created: '2025-10-20T09:46:16.324142'
 last_updated: '2025-12-23T08:16:04.322732'
-origin: South East London, England, United Kingdom
+origin: 'South East London, England, United Kingdom'
+birth_place: 'South East London, England, United Kingdom'
+birth_date: '1992-12-12'
+artist_type: band
 ---
 
 ![](Yussef_Dayes_Charlie_Stacey_Rocco_Palladino.jpg)

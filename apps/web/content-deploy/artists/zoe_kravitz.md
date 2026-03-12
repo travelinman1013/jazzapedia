@@ -3,13 +3,13 @@ title: Zoe Kravitz
 wiki_slug: zoe-kravitz
 schema_version: 2
 status: active
-birth_place: Los Angeles, California, United States
+birth_place: 'Los Angeles, California, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/zoe_kravitz.jpg
   caption: Zoe Kravitz
   background: solo_singer
-  origin: Los Angeles, California, United States
+  origin: 'Los Angeles, California, United States'
 audio_profile:
   tempo_avg: 108.2
   energy_avg: 0.638
@@ -25,46 +25,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lolawolf (band members)
-  - Taylor Swift
-  - Elevator Fight (band members)
+    - Lolawolf (band members)
+    - Taylor Swift
+    - Elevator Fight (band members)
   influenced:
-  - Emerging female artists in alternative R&B and indie pop
+    - Emerging female artists in alternative R&B and indie pop
   mentors:
-  - Lenny Kravitz
-  - Lisa Bonet
+    - Lenny Kravitz
+    - Lisa Bonet
 spotify_data:
   followers: 12053
   id: 4G4om3U7TKES0hDBQYYVy7
   popularity: 27
-  url: https://open.spotify.com/artist/4G4om3U7TKES0hDBQYYVy7
+  url: 'https://open.spotify.com/artist/4G4om3U7TKES0hDBQYYVy7'
 discography_enriched: true
 top_tracks:
-- Screwed (feat. Zoë Kravitz) (Dirty Computer)
-- Don't (Big Little Lies (Music From The HBO Limited Series))
-- Don't (Big Little Lies EP (Music From The HBO Limited Series))
-- Anti-Social Smokers Club (feat. Zoë Kravitz) - From Jxmtro (SR3MM)
-- Screwed (feat. Zoë Kravitz) (Dirty Computer)
-- Screwed (Pumped Up Pop)
-- 'Made In Love: The Megamix (Made In Love: The Megamix)'
-- You Can't Make It By Yourself (feat. Zoe Kravitz) (Grab a Root and Growl)
-- Anti-Social Smokers Club (feat. Zoë Kravitz) - From Jxmtro (SR3MM)
-- Screwed (Pop Wecker)
+  - Screwed (feat. Zoë Kravitz) (Dirty Computer)
+  - Don't (Big Little Lies (Music From The HBO Limited Series))
+  - Don't (Big Little Lies EP (Music From The HBO Limited Series))
+  - Anti-Social Smokers Club (feat. Zoë Kravitz) - From Jxmtro (SR3MM)
+  - Screwed (feat. Zoë Kravitz) (Dirty Computer)
+  - Screwed (Pumped Up Pop)
+  - 'Made In Love: The Megamix (Made In Love: The Megamix)'
+  - You Can't Make It By Yourself (feat. Zoe Kravitz) (Grab a Root and Growl)
+  - Anti-Social Smokers Club (feat. Zoë Kravitz) - From Jxmtro (SR3MM)
+  - Screwed (Pop Wecker)
 external_urls:
-  spotify: https://open.spotify.com/artist/4G4om3U7TKES0hDBQYYVy7
-  wikipedia: https://en.wikipedia.org/wiki/Zo%C3%AB_Kravitz
+  spotify: 'https://open.spotify.com/artist/4G4om3U7TKES0hDBQYYVy7'
+  wikipedia: 'https://en.wikipedia.org/wiki/Zo%C3%AB_Kravitz'
 image_path: 03_Resources/source_material/ArtistPortraits/zoe_kravitz.jpg
 biography_enhanced_at: '2025-11-21T07:26:25.499051'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Zo%C3%AB_Kravitz
-- https://www.britannica.com/biography/Zoe-Kravitz
-- https://www.biography.com/actors/zoe-kravitz
-- https://zoe-kravitz.com/zoe-kravitz/biography/
+  - 'https://en.wikipedia.org/wiki/Zo%C3%AB_Kravitz'
+  - 'https://www.britannica.com/biography/Zoe-Kravitz'
+  - 'https://www.biography.com/actors/zoe-kravitz'
+  - 'https://zoe-kravitz.com/zoe-kravitz/biography/'
 network_extracted: true
 entry_created: '2025-11-21T07:26:25.499060'
 last_updated: '2025-12-23T08:16:18.470191'
+birth_date: '1988-12-01'
+artist_type: person
 ---
 
 ![](zoe_kravitz.jpg)

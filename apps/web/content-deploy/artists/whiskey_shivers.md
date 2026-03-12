@@ -1,14 +1,14 @@
 ---
-title: WHISKEY SHIVERS
+title: Whiskey Shivers
 wiki_slug: whiskey-shivers
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- gothic country
-- bluegrass
-- newgrass
-- americana
+  - gothic country
+  - bluegrass
+  - newgrass
+  - americana
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/whiskey_shivers.jpg
   caption: WHISKEY SHIVERS
@@ -28,86 +28,87 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Robert Ellis
-  - 'Band Members: Bobby Fitzgerald, Andrew VanVoorhees, Jeff ''Horti'' Hortillosa, James Bookert, Joe Deuce'
+    - Robert Ellis
+    - >-
+      Band Members: Bobby Fitzgerald, Andrew VanVoorhees, Jeff 'Horti'
+      Hortillosa, James Bookert, Joe Deuce
   influenced:
-  - Emerging Americana and 'newgrass' bands
+    - Emerging Americana and 'newgrass' bands
   mentors:
-  - Bill Monroe
-  - The Dillards
-  - Doug Kershaw
+    - Bill Monroe
+    - The Dillards
+    - Doug Kershaw
 spotify_data:
   followers: 28799
   id: 2N91y9Uko6gWwugdCpxJYH
   popularity: 36
-  url: https://open.spotify.com/artist/2N91y9Uko6gWwugdCpxJYH
+  url: 'https://open.spotify.com/artist/2N91y9Uko6gWwugdCpxJYH'
 discography_enriched: true
 top_tracks:
-- Graves (Whiskey Shivers)
-- Fuck You (Some Part of Something)
-- There Is a Time (feat. Kelsey Wilson) (Whiskey Shivers)
-- Long Low Down (Whiskey Shivers)
-- Cluck Ol' Hen (Some Part of Something)
-- Free (Whiskey Shivers)
-- Red Rocking Chair (Some Part of Something)
-- Swarm (Whiskey Shivers)
-- I Kissed a Girl (Smothered & Covered)
-- Fuck You (Some Part of Something)
+  - Graves (Whiskey Shivers)
+  - Fuck You (Some Part of Something)
+  - There Is a Time (feat. Kelsey Wilson) (Whiskey Shivers)
+  - Long Low Down (Whiskey Shivers)
+  - Cluck Ol' Hen (Some Part of Something)
+  - Free (Whiskey Shivers)
+  - Red Rocking Chair (Some Part of Something)
+  - Swarm (Whiskey Shivers)
+  - I Kissed a Girl (Smothered & Covered)
+  - Fuck You (Some Part of Something)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3fdce133-7631-4404-b502-04f22f546bab
-  spotify: https://open.spotify.com/artist/2N91y9Uko6gWwugdCpxJYH
-  wikipedia: https://en.wikipedia.org/wiki/Whiskey_Shivers
+  musicbrainz: 'https://musicbrainz.org/artist/3fdce133-7631-4404-b502-04f22f546bab'
+  spotify: 'https://open.spotify.com/artist/2N91y9Uko6gWwugdCpxJYH'
+  wikipedia: 'https://en.wikipedia.org/wiki/Whiskey_Shivers'
 image_path: 03_Resources/source_material/ArtistPortraits/whiskey_shivers.jpg
 biography_enhanced_at: '2025-11-17T10:43:24.478672'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://devilduckrecords.com/artists/gone/whiskey-shivers/
-- https://theboot.com/who-are-whiskey-shivers-pitch-perfect-3-bluegrass-band/
-- https://nodepression.org/whiskey-shivers-bring-trashgrass-to-the-people/
-- https://www.last.fm/music/Whiskey+Shivers/+wiki
-- https://singout.org/whiskey-shivers-whiskey-shivers/
+  - 'https://devilduckrecords.com/artists/gone/whiskey-shivers/'
+  - 'https://theboot.com/who-are-whiskey-shivers-pitch-perfect-3-bluegrass-band/'
+  - 'https://nodepression.org/whiskey-shivers-bring-trashgrass-to-the-people/'
+  - 'https://www.last.fm/music/Whiskey+Shivers/+wiki'
+  - 'https://singout.org/whiskey-shivers-whiskey-shivers/'
 network_extracted: true
 entry_created: '2025-11-17T10:43:24.478678'
 last_updated: '2025-12-23T08:16:18.108367'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d57c2667-43a7-4290-98b4-18f82c9b72af
-  name: James Bookert
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3b87727d-9655-49c5-bc15-5e712031d96c
-  name: Joe Deuce
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0cfbe92e-af90-4700-a05b-6a52c02a16f1
-  name: Bobby Fitzgerald
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4115b715-19c4-4083-b738-87f57d4b9877
-  name: James Gwyn
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b9a4920d-2d6d-4012-a5bc-9da8c2c38dad
-  name: Evan Heidtmann
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8d4efde6-3776-44e7-80e7-96e21d398f72
-  name: Andrew Vanvoorhees
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d57c2667-43a7-4290-98b4-18f82c9b72af
+    name: James Bookert
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3b87727d-9655-49c5-bc15-5e712031d96c
+    name: Joe Deuce
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0cfbe92e-af90-4700-a05b-6a52c02a16f1
+    name: Bobby Fitzgerald
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4115b715-19c4-4083-b738-87f57d4b9877
+    name: James Gwyn
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b9a4920d-2d6d-4012-a5bc-9da8c2c38dad
+    name: Evan Heidtmann
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8d4efde6-3776-44e7-80e7-96e21d398f72
+    name: Andrew Vanvoorhees
 musicbrainz_id: 3fdce133-7631-4404-b502-04f22f546bab
-origin: Austin
+origin: 'Austin, Texas, United States'
 tags:
-- austin
-- band
-- banjo
-
+  - austin
+  - band
+  - banjo
 ---
 
 ![](whiskey_shivers.jpg)

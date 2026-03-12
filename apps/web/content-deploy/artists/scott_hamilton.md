@@ -5,74 +5,74 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1954-09-12'
-birth_place: Providence
+birth_place: 'Providence, Rhode Island, United States'
 genres:
-- jazz
-- cool jazz
+  - jazz
+  - cool jazz
 instruments:
-- tenor saxophone
-- original
-- saxophone
-- eponymous
-associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 33a277f3-c2b5-43b6-aa14-fb1413628d90
-  name: Scott Hamilton Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8f6f7d4d-9544-4419-9c64-78ea98bd4459
-  name: Eddie Higgins Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f08735df-14e8-4a65-8764-664632db0972
-  name: The World’s Greatest Jazzband
-- begin: ''
-  end: ''
-  instruments:
   - tenor saxophone
-  mbid: 6fc845ec-cb59-4e15-9cff-70d34f69df71
-  name: Eddie Higgins Quartet
-- begin: ''
-  end: ''
-  instruments:
   - original
   - saxophone
-  mbid: 92c1b89e-7893-4379-a743-9c1c630ff483
-  name: Scott Hamilton Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 77969c27-a11c-49d9-a389-a89298e7cc3d
-  name: Scott Hamilton Scandinavian Five
-- begin: ''
-  end: ''
-  instruments:
-  - tenor saxophone
-  mbid: 21034e4f-959e-48c0-906e-726168d115f5
-  name: The Scott Hamilton Trio
-- begin: ''
-  end: ''
-  instruments:
-  - tenor saxophone
-  mbid: 27987765-e687-4cd6-9c27-c8bc74798945
-  name: The Gene Harris / Scott Hamilton Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - tenor saxophone
-  mbid: b88f05a7-9e66-4faa-aa60-3fa5fc343bd3
-  name: Brian Lemon/Roy Williams Quintet
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
-  - original
-  mbid: 06393c5f-b196-4f89-86db-3aaddeef9fc0
-  name: Scott Hamilton With Strings
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 33a277f3-c2b5-43b6-aa14-fb1413628d90
+    name: Scott Hamilton Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8f6f7d4d-9544-4419-9c64-78ea98bd4459
+    name: Eddie Higgins Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f08735df-14e8-4a65-8764-664632db0972
+    name: The World’s Greatest Jazzband
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: 6fc845ec-cb59-4e15-9cff-70d34f69df71
+    name: Eddie Higgins Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - saxophone
+    mbid: 92c1b89e-7893-4379-a743-9c1c630ff483
+    name: Scott Hamilton Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 77969c27-a11c-49d9-a389-a89298e7cc3d
+    name: Scott Hamilton Scandinavian Five
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: 21034e4f-959e-48c0-906e-726168d115f5
+    name: The Scott Hamilton Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: 27987765-e687-4cd6-9c27-c8bc74798945
+    name: The Gene Harris / Scott Hamilton Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: b88f05a7-9e66-4faa-aa60-3fa5fc343bd3
+    name: Brian Lemon/Roy Williams Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 06393c5f-b196-4f89-86db-3aaddeef9fc0
+    name: Scott Hamilton With Strings
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/scott_hamilton.jpg
   caption: Scott Hamilton
@@ -94,49 +94,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Rosemary Clooney
-  - Gerry Mulligan
-  - Dave McKenna
-  - Ruby Braff
-  - Benny Goodman
-  - Flip Phillips
-  - Buddy Tate
+    - Rosemary Clooney
+    - Gerry Mulligan
+    - Dave McKenna
+    - Ruby Braff
+    - Benny Goodman
+    - Flip Phillips
+    - Buddy Tate
   influenced:
-  - Harry Allen
+    - Harry Allen
   mentors:
-  - Roy Eldridge
-  - Ben Webster
-  - Zoot Sims
+    - Roy Eldridge
+    - Ben Webster
+    - Zoot Sims
 spotify_data:
   followers: 42538
   id: 7sBx432MZn1MzHeYHAA5qr
   popularity: 45
-  url: https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr
+  url: 'https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr'
 discography_enriched: true
 top_tracks:
-- Summer Time (Live at Jamboree - Barcelona)
-- Forelsket i København (Danish Ballads... & More)
-- Young and Foolish (Moon Mist)
-- The Maids of Cadiz
-- Stockholm Sweetnin' (Swedish Ballads... & More)
-- The Shadow of Your Smile (The Shadow of Your Smile)
-- Good Morning Heartache (Remembering Billie)
-- My Reverie (Classics)
-- Min Soldat (My Soldier) (Swedish Ballads... & More)
-- Maybe September (Scott Hamilton Plays Ballads)
+  - Summer Time (Live at Jamboree - Barcelona)
+  - Forelsket i København (Danish Ballads... & More)
+  - Young and Foolish (Moon Mist)
+  - The Maids of Cadiz
+  - Stockholm Sweetnin' (Swedish Ballads... & More)
+  - The Shadow of Your Smile (The Shadow of Your Smile)
+  - Good Morning Heartache (Remembering Billie)
+  - My Reverie (Classics)
+  - Min Soldat (My Soldier) (Swedish Ballads... & More)
+  - Maybe September (Scott Hamilton Plays Ballads)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8554cf23-a0d1-4458-9c72-be2417d44b94
-  spotify: https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr
-  wikipedia: https://en.wikipedia.org/wiki/Scott_Hamilton_(musician)
+  musicbrainz: 'https://musicbrainz.org/artist/8554cf23-a0d1-4458-9c72-be2417d44b94'
+  spotify: 'https://open.spotify.com/artist/7sBx432MZn1MzHeYHAA5qr'
+  wikipedia: 'https://en.wikipedia.org/wiki/Scott_Hamilton_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/scott_hamilton.jpg
 biography_enhanced_at: '2025-11-17T10:41:24.886025'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://www.eijikitamura.com/scott-bio.html
-- https://www.last.fm/music/Scott+Hamilton/+wiki
-- https://www.justjazz.de/project/scott-hamilton/
-- https://www.ripopmusic.org/musical-artists/musicians/scott-hamilton/
+  - 'http://www.eijikitamura.com/scott-bio.html'
+  - 'https://www.last.fm/music/Scott+Hamilton/+wiki'
+  - 'https://www.justjazz.de/project/scott-hamilton/'
+  - 'https://www.ripopmusic.org/musical-artists/musicians/scott-hamilton/'
 network_extracted: true
 entry_created: '2025-11-17T10:41:24.886036'
 last_updated: '2025-12-23T08:16:15.430993'
@@ -144,9 +144,10 @@ disambiguation: jazz tenor saxophonist
 gender: Male
 musicbrainz_id: 8554cf23-a0d1-4458-9c72-be2417d44b94
 tags:
-- candy
-- cool jazz
-- hard bop
+  - candy
+  - cool jazz
+  - hard bop
+origin: 'New York City, New York, United States'
 ---
 
 ![](scott_hamilton.jpg)

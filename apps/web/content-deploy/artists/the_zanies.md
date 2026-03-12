@@ -1,10 +1,10 @@
 ---
-title: the zanies
+title: The Zanies
 wiki_slug: the-zanies
 schema_version: 2
 status: active
 genres:
-- go-go
+  - go-go
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_zanies.jpg
   caption: the zanies
@@ -24,40 +24,43 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lew Bedell
+    - Lew Bedell
   influenced: []
   mentors: []
 spotify_data:
   followers: 190
   id: 3mdVdm9Z0VlYaA4GT78rsm
   popularity: 7
-  url: https://open.spotify.com/artist/3mdVdm9Z0VlYaA4GT78rsm
+  url: 'https://open.spotify.com/artist/3mdVdm9Z0VlYaA4GT78rsm'
 discography_enriched: true
 top_tracks:
-- The Blob (Make Mine Mondo!)
-- The Mad Scientist (Make Mine Mondo!)
-- Mad Scientist (Hipster Halloween, Vol. 2)
-- Slinky (The Best Of West Coast Rock & Roll)
-- Russian Roulette (Make Mine Mondo!)
-- The Blob (Lights Out The Dore Records Story 1958-1962)
-- 'Brandenburg Concerto No.5 In D Major, BWV1050: III. Allegro (J. S. Bach: Brandenburg / Concertos No.4, 5 And 6)'
-- Stalled (Selections from Make Mine Mondo 2)
-- The Mad Scientist (Halloween Graveyard Hits)
-- The Mad Scientist (Haunted Halloween Party)
+  - The Blob (Make Mine Mondo!)
+  - The Mad Scientist (Make Mine Mondo!)
+  - 'Mad Scientist (Hipster Halloween, Vol. 2)'
+  - Slinky (The Best Of West Coast Rock & Roll)
+  - Russian Roulette (Make Mine Mondo!)
+  - The Blob (Lights Out The Dore Records Story 1958-1962)
+  - >-
+    Brandenburg Concerto No.5 In D Major, BWV1050: III. Allegro (J. S. Bach:
+    Brandenburg / Concertos No.4, 5 And 6)
+  - Stalled (Selections from Make Mine Mondo 2)
+  - The Mad Scientist (Halloween Graveyard Hits)
+  - The Mad Scientist (Haunted Halloween Party)
 external_urls:
-  spotify: https://open.spotify.com/artist/3mdVdm9Z0VlYaA4GT78rsm
+  spotify: 'https://open.spotify.com/artist/3mdVdm9Z0VlYaA4GT78rsm'
   wikipedia: ''
 image_path: ''
 biography_enhanced_at: '2025-11-01T15:36:24.567405'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/The+Zanies
-- https://en.wikipedia.org/wiki/The_Five_Blobs
+  - 'https://www.last.fm/music/The+Zanies'
+  - 'https://en.wikipedia.org/wiki/The_Five_Blobs'
 network_extracted: true
 entry_created: '2025-11-01T15:36:24.567420'
 last_updated: '2025-12-23T08:16:17.321490'
-origin: Los Angeles, California, United States
+origin: 'Los Angeles, California, United States'
+artist_type: band
 ---
 
 ![]()

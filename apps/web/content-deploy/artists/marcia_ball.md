@@ -5,21 +5,21 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1949-03-20'
-birth_place: Orange
+birth_place: 'Orange, Texas, United States'
 genres:
-- blues
-- boogie-woogie
-- modern blues
+  - blues
+  - boogie-woogie
+  - modern blues
 instruments:
-- piano
-- grand piano
-- background vocals
+  - piano
+  - grand piano
+  - background vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 57a107d4-1ba4-4ca6-9ed6-d5c0264915c5
-  name: Freda and the Firedogs
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 57a107d4-1ba4-4ca6-9ed6-d5c0264915c5
+    name: Freda and the Firedogs
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/marcia_ball.jpg
   caption: Marcia Ball
@@ -41,56 +41,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tracy Nelson
-  - Angela Strehli
-  - Lou Ann Barton
-  - Irma Thomas
-  - Freda and the Firedogs (John X Reed, Bobby Earl Smith, David Cook, Steve McDaniels)
+    - Tracy Nelson
+    - Angela Strehli
+    - Lou Ann Barton
+    - Irma Thomas
+    - >-
+      Freda and the Firedogs (John X Reed, Bobby Earl Smith, David Cook, Steve
+      McDaniels)
   influenced:
-  - Austin and New Orleans blues pianists
+    - Austin and New Orleans blues pianists
   mentors:
-  - Irma Thomas
-  - Fats Domino, Professor Longhair, James Booker
+    - Irma Thomas
+    - 'Fats Domino, Professor Longhair, James Booker'
 spotify_data:
   followers: 23200
   id: 0kK3ZgTw6mvlYgekz4xf18
   popularity: 31
-  url: https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18
+  url: 'https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18'
 discography_enriched: true
 top_tracks:
-- Louella (Presumed Innocent)
-- You Make Me Happy (Presumed Innocent)
-- A Fool in Love (Dreams Come True)
-- Thibodaux, Louisiana (Presumed Innocent)
-- I'm Coming Down With The Blues (Presumed Innocent)
-- Good Rockin Daddy (Dreams Come True)
-- Believing In Love (Roadside Attractions)
-- Shake A Leg (Presumed Innocent)
-- It Hurts to Be in Love (Dreams Come True)
-- Let The Tears Roll Down (Presumed Innocent)
+  - Louella (Presumed Innocent)
+  - You Make Me Happy (Presumed Innocent)
+  - A Fool in Love (Dreams Come True)
+  - 'Thibodaux, Louisiana (Presumed Innocent)'
+  - I'm Coming Down With The Blues (Presumed Innocent)
+  - Good Rockin Daddy (Dreams Come True)
+  - Believing In Love (Roadside Attractions)
+  - Shake A Leg (Presumed Innocent)
+  - It Hurts to Be in Love (Dreams Come True)
+  - Let The Tears Roll Down (Presumed Innocent)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/475eabb3-1ccd-4fda-944e-4dd6ca1d9e99
-  spotify: https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18
-  wikipedia: https://en.wikipedia.org/wiki/Marcia_Ball
+  musicbrainz: 'https://musicbrainz.org/artist/475eabb3-1ccd-4fda-944e-4dd6ca1d9e99'
+  spotify: 'https://open.spotify.com/artist/0kK3ZgTw6mvlYgekz4xf18'
+  wikipedia: 'https://en.wikipedia.org/wiki/Marcia_Ball'
 image_path: 03_Resources/source_material/ArtistPortraits/marcia_ball.jpg
 biography_enhanced_at: '2025-11-08T21:54:54.757654'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Marcia_Ball
-- http://marciaball.com/about-marcia-ball/
-- https://www.thewittliffcollections.txst.edu/research/a-z/ball-marcia.html
-- https://cmhof.imgix.net/content/uploads/2019/09/SCH_Outlaws_ToolKit_19_Grades_3-6_MarciaBall.pdf
+  - 'https://en.wikipedia.org/wiki/Marcia_Ball'
+  - 'http://marciaball.com/about-marcia-ball/'
+  - 'https://www.thewittliffcollections.txst.edu/research/a-z/ball-marcia.html'
+  - >-
+    https://cmhof.imgix.net/content/uploads/2019/09/SCH_Outlaws_ToolKit_19_Grades_3-6_MarciaBall.pdf
 network_extracted: true
 entry_created: '2025-11-08T21:54:54.757670'
 last_updated: '2025-12-23T08:16:12.611265'
 gender: Female
 musicbrainz_id: 475eabb3-1ccd-4fda-944e-4dd6ca1d9e99
 tags:
-- blues
-- new orleans blues
-- swamp blues
-
+  - blues
+  - new orleans blues
+  - swamp blues
+origin: 'Austin, Texas, United States'
 ---
 
 ![](marcia_ball.jpg)

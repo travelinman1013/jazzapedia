@@ -1,11 +1,11 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-13T01:10:54.820066'
-birth_place: New Jersey, USA (born); New Orleans, Louisiana, USA (based)
+birth_place: 'New Jersey, USA (born); New Orleans, Louisiana, USA (based)'
 enhancement_provider: perplexity
 entry_created: '2026-01-13T01:10:54.820073'
 external_urls:
-  spotify: https://open.spotify.com/artist/32POifvtGNBo1CGQo0wn5X
+  spotify: 'https://open.spotify.com/artist/32POifvtGNBo1CGQo0wn5X'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/sari_jordan.jpg
@@ -17,19 +17,21 @@ musical_connections:
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://themusicbugle.com/2023/12/08/sari-jordan-releases-dreamy-new-album-sing-to-the-moon/
-- https://crescentcitysounds.org/artists/sari-jordan
-- https://sarijordan.bandcamp.com
-- https://sidedooraccess.com/artists/SariJordan-1
-- https://www.neworleans.com/listing/sari-jordan/48106/
-- https://soundbetter.com/profiles/591113-sari-jordan
+  - >-
+    https://themusicbugle.com/2023/12/08/sari-jordan-releases-dreamy-new-album-sing-to-the-moon/
+  - 'https://crescentcitysounds.org/artists/sari-jordan'
+  - 'https://sarijordan.bandcamp.com'
+  - 'https://sidedooraccess.com/artists/SariJordan-1'
+  - 'https://www.neworleans.com/listing/sari-jordan/48106/'
+  - 'https://soundbetter.com/profiles/591113-sari-jordan'
 spotify_data:
   followers: 750
   id: 32POifvtGNBo1CGQo0wn5X
   popularity: 3
-  url: https://open.spotify.com/artist/32POifvtGNBo1CGQo0wn5X
+  url: 'https://open.spotify.com/artist/32POifvtGNBo1CGQo0wn5X'
 status: active
 title: Sari Jordan
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](sari_jordan.jpg)

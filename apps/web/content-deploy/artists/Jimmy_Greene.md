@@ -5,18 +5,18 @@ schema_version: 2
 status: active
 aliases: []
 birth_date: '1975-02-24'
-birth_place: Hartford
+birth_place: 'Hartford, Connecticut, United States'
 years_active: 1997–present
 genres:
-- jazz
+  - jazz
 instruments:
-- saxophone
+  - saxophone
 occupation:
-- musician
-- saxophonist
-- songwriter
+  - musician
+  - saxophonist
+  - songwriter
 record_labels:
-- RCA Records
+  - RCA Records
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Jimmy_Greene.jpg
   caption: Jimmy Greene
@@ -41,33 +41,33 @@ spotify_data:
   followers: 5208
   id: 3j768jlsTvAm20LvqIJlqO
   popularity: 19
-  url: https://open.spotify.com/artist/3j768jlsTvAm20LvqIJlqO
+  url: 'https://open.spotify.com/artist/3j768jlsTvAm20LvqIJlqO'
   verified: false
 discography_enriched: true
 albums_count: 10
 singles_count: 1
 top_tracks:
-- Good Morning Heartache (While Looking Up)
-- While Looking Up (While Looking Up)
-- The Art Of War (The Art Of War)
-- Your Great Name (Beautiful Life)
-- Where is Love? (Beautiful Life)
-- Little Voices (Beautiful Life)
-- Mission Statement (Mission Statement)
-- Joshua (Foursight - Stockholm, Vol. 1)
-- You and the Night and the Music (Foursight - Stockholm, Vol. 1)
-- Saludos / Come Thou Almighty King (Beautiful Life)
+  - Good Morning Heartache (While Looking Up)
+  - While Looking Up (While Looking Up)
+  - The Art Of War (The Art Of War)
+  - Your Great Name (Beautiful Life)
+  - Where is Love? (Beautiful Life)
+  - Little Voices (Beautiful Life)
+  - Mission Statement (Mission Statement)
+  - 'Joshua (Foursight - Stockholm, Vol. 1)'
+  - 'You and the Night and the Music (Foursight - Stockholm, Vol. 1)'
+  - Saludos / Come Thou Almighty King (Beautiful Life)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/3j768jlsTvAm20LvqIJlqO
-  wikipedia: https://en.wikipedia.org/wiki/Jimmy_Greene
+  spotify: 'https://open.spotify.com/artist/3j768jlsTvAm20LvqIJlqO'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jimmy_Greene'
 image_path: 03_Resources/source_material/ArtistPortraits/Jimmy_Greene.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T10:12:31.781940'
 enhancement_provider: perplexity
-entry_created: 2025-09-18 11:47:36.135289
+entry_created: 2025-09-18T11:47:36.135Z
 last_updated: '2025-12-23T08:16:02.557190'
-
+artist_type: person
 ---
 
 ![](Jimmy_Greene.jpg)

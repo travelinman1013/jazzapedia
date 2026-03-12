@@ -2,54 +2,54 @@
 artist_type: person
 biography_enhanced_at: '2026-01-18T07:48:10.339541'
 birth_date: '1962-06-06'
-birth_place: La Habana
+birth_place: 'La Habana, Cuba, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-18T07:48:10.339548'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a1b54eae-bd93-4f08-bb07-6a6aea855db4
-  spotify: https://open.spotify.com/artist/4BFJdlcCGjmEEnDaUNdB4a
-  wikipedia: https://en.wikipedia.org/wiki/Albita_Rodr%C3%ADguez
+  musicbrainz: 'https://musicbrainz.org/artist/a1b54eae-bd93-4f08-bb07-6a6aea855db4'
+  spotify: 'https://open.spotify.com/artist/4BFJdlcCGjmEEnDaUNdB4a'
+  wikipedia: 'https://en.wikipedia.org/wiki/Albita_Rodr%C3%ADguez'
 gender: Female
 genres:
-- son cubano
-- salsa
-- timba
+  - son cubano
+  - salsa
+  - timba
 image_path: 03_Resources/source_material/ArtistPortraits/albita.jpg
 last_updated: '2026-01-18T07:48:10.339548'
 musical_connections:
   collaborators:
-  - Celia Cruz
-  - Tito Puente
-  - Phil Collins
-  - Tony Bennett
-  - Gilberto Gil
-  - Juan Luis Guerra
+    - Celia Cruz
+    - Tito Puente
+    - Phil Collins
+    - Tony Bennett
+    - Gilberto Gil
+    - Juan Luis Guerra
   influenced: []
   mentors:
-  - Celia Cruz
-  - Emilio Estefan
+    - Celia Cruz
+    - Emilio Estefan
 musicbrainz_id: a1b54eae-bd93-4f08-bb07-6a6aea855db4
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.orfeon.com.mx/artist/?id=albita
-- https://www.latinolife.co.uk/articles/albita-latina-alter-ego
-- https://www.allaboutjazz.com/musicians/albita/
-- https://en.wikipedia.org/wiki/Albita_Rodr%C3%ADguez
-- https://cubaonrecord.substack.com/p/albita-rodriguezs-que-culpa-tengo
-- https://lasmujeres.com/albita/
-- https://www.playandfollow.com/a/albita
-- https://bombmagazine.org/articles/1996/10/01/albita/
-- https://www.iheart.com/artist/albita-123369/
+  - 'https://www.orfeon.com.mx/artist/?id=albita'
+  - 'https://www.latinolife.co.uk/articles/albita-latina-alter-ego'
+  - 'https://www.allaboutjazz.com/musicians/albita/'
+  - 'https://en.wikipedia.org/wiki/Albita_Rodr%C3%ADguez'
+  - 'https://cubaonrecord.substack.com/p/albita-rodriguezs-que-culpa-tengo'
+  - 'https://lasmujeres.com/albita/'
+  - 'https://www.playandfollow.com/a/albita'
+  - 'https://bombmagazine.org/articles/1996/10/01/albita/'
+  - 'https://www.iheart.com/artist/albita-123369/'
 spotify_data:
   followers: 17939
   id: 4BFJdlcCGjmEEnDaUNdB4a
   popularity: 37
-  url: https://open.spotify.com/artist/4BFJdlcCGjmEEnDaUNdB4a
+  url: 'https://open.spotify.com/artist/4BFJdlcCGjmEEnDaUNdB4a'
 status: active
 tags:
-- latin
-- salsa
+  - latin
+  - salsa
 title: Albita
 ---
 

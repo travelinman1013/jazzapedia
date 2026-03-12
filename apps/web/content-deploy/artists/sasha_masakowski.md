@@ -1,75 +1,79 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: a835a387-b51a-42f1-9956-9e6d3c9053a5
-  name: Masakowski Family
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 47f23a54-c102-4c66-bda8-1fd4be3a59f1
-  name: The Copacetics
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: a835a387-b51a-42f1-9956-9e6d3c9053a5
+    name: Masakowski Family
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 47f23a54-c102-4c66-bda8-1fd4be3a59f1
+    name: The Copacetics
 biography_enhanced_at: '2026-01-09T01:55:54.849372'
-birth_place: New Orleans
+birth_place: 'New Orleans, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-09T01:55:54.849425'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a029ed97-80ae-4449-9bd3-73c142f603a3
-  spotify: https://open.spotify.com/artist/7LfzKQS8GTiqOSXROmg6xr
-  wikipedia: https://en.wikipedia.org/wiki/Sasha_Masakowski
+  musicbrainz: 'https://musicbrainz.org/artist/a029ed97-80ae-4449-9bd3-73c142f603a3'
+  spotify: 'https://open.spotify.com/artist/7LfzKQS8GTiqOSXROmg6xr'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sasha_Masakowski'
 gender: Female
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/sasha_masakowski.jpg
 instruments:
-- lead vocals
-- original
+  - lead vocals
+  - original
 last_updated: '2026-01-09T01:55:54.849430'
 musical_connections:
   collaborators:
-  - Steve Masakowski
-  - Martin Masakowski
-  - James Westfall
-  - Nicholas Payton
-  - Cliff Hines
-  - Zach Danziger
-  - Jason Lindner
-  - Aurora Nealand
-  - Rasmee (Rasmee Wayrana)
-  - Pagsberg Big Band
-  - Tarionna “Tank” Ball
-  - Adonis Rose
+    - Steve Masakowski
+    - Martin Masakowski
+    - James Westfall
+    - Nicholas Payton
+    - Cliff Hines
+    - Zach Danziger
+    - Jason Lindner
+    - Aurora Nealand
+    - Rasmee (Rasmee Wayrana)
+    - Pagsberg Big Band
+    - Tarionna “Tank” Ball
+    - Adonis Rose
   influenced:
-  - Emerging Danish jazz and electronic music students (collective)
-  - New Orleans art‑jazz and electro‑pop vocalists (scene influence)
+    - Emerging Danish jazz and electronic music students (collective)
+    - New Orleans art‑jazz and electro‑pop vocalists (scene influence)
   mentors:
-  - Steve Masakowski
-  - Ellis Marsalis Jr.
-  - Bobby McFerrin
-  - Rachelle Ferrell
-  - Flora Purim
+    - Steve Masakowski
+    - Ellis Marsalis Jr.
+    - Bobby McFerrin
+    - Rachelle Ferrell
+    - Flora Purim
 musicbrainz_id: a029ed97-80ae-4449-9bd3-73c142f603a3
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://sashamasakowski.com/about/
-- https://en.wikipedia.org/wiki/Sasha_Masakowski
-- https://thevelvetnote.com/sasha-and-steve-masakowski/
-- https://ramonamag.com/2019/07/qa-ahead-of-her-melbourne-tour-we-chat-to-new-orleans-art-jazz-pop-singer-sasha-masakowski/
-- https://ropeadope.com/sasha-masakowski
-- https://www.southarts.org/events/sasha-masakowski-sextet-tribute-antonio-carlos-jobim-2024-10-21
-- https://www.allaboutjazz.com/musicians/sasha-masakowski/
-- https://www.therosiegspot.com/post/sasha-masakowski
+  - 'https://sashamasakowski.com/about/'
+  - 'https://en.wikipedia.org/wiki/Sasha_Masakowski'
+  - 'https://thevelvetnote.com/sasha-and-steve-masakowski/'
+  - >-
+    https://ramonamag.com/2019/07/qa-ahead-of-her-melbourne-tour-we-chat-to-new-orleans-art-jazz-pop-singer-sasha-masakowski/
+  - 'https://ropeadope.com/sasha-masakowski'
+  - >-
+    https://www.southarts.org/events/sasha-masakowski-sextet-tribute-antonio-carlos-jobim-2024-10-21
+  - 'https://www.allaboutjazz.com/musicians/sasha-masakowski/'
+  - 'https://www.therosiegspot.com/post/sasha-masakowski'
 spotify_data:
   followers: 807
   id: 7LfzKQS8GTiqOSXROmg6xr
   popularity: 6
-  url: https://open.spotify.com/artist/7LfzKQS8GTiqOSXROmg6xr
+  url: 'https://open.spotify.com/artist/7LfzKQS8GTiqOSXROmg6xr'
 status: active
-title: sasha masakowski
+title: Sasha Masakowski
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1986'
 ---
 
 ![](sasha_masakowski.jpg)

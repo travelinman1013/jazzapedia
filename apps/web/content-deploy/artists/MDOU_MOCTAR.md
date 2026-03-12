@@ -2,25 +2,25 @@
 title: Mdou Moctar
 wiki_slug: mdou-moctar
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 aliases: []
 birth_date: '1986'
-birth_place: Abalak, Tahoua Region, Niger
+birth_place: 'Abalak, Tahoua Region, Niger'
 years_active: 2008–present
 genres:
-- gnawa
+  - gnawa
 instruments:
-- '{{hlist'
+  - '{{hlist'
 occupation:
-- guitarist
-- songwriter
+  - guitarist
+  - songwriter
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Mdou_Moctar.jpg
   caption: Mdou Moctar
   background: non_vocal_instrumentalist
   born: '1986'
-  origin: Abalak, Tahoua Region, Niger
+  origin: 'Abalak, Tahoua Region, Niger'
 audio_profile:
   tempo_avg: 128.2
   energy_avg: 0.709
@@ -36,63 +36,65 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ahmoudou Madassane
-  - Michael Coltun
-  - Souleymane Ibrahim
-  - Christopher Kirkley
+    - Ahmoudou Madassane
+    - Michael Coltun
+    - Souleymane Ibrahim
+    - Christopher Kirkley
   influenced:
-  - Les Filles de Illighadad
-  - Brainstorm (Portland band)
+    - Les Filles de Illighadad
+    - Brainstorm (Portland band)
   mentors:
-  - Abdallah Oumbadougou
-  - Eddie Van Halen
+    - Abdallah Oumbadougou
+    - Eddie Van Halen
 related_artists: []
 spotify_data:
   followers: 156043
   id: 48dgx7iGqLQ3E5KO3pzd94
   popularity: 38
-  url: https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94
+  url: 'https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94'
   verified: false
 discography_enriched: true
 albums_count: 11
 singles_count: 18
 top_tracks:
-- Chismiten (Afrique Victime)
-- Tarhatazed (Ilana (The Creator))
-- Funeral for Justice - Injustice Version
-- Tala Tannam (Afrique Victime)
-- Funeral for Justice - Injustice Version (Tears of Injustice)
-- Funeral for Justice (Funeral for Justice)
-- Imouhar (Funeral for Justice)
-- Imouhar - Injustice Version (Tears of Injustice)
-- Oh France - Injustice Version (Tears of Injustice)
-- Pacific Theme
+  - Chismiten (Afrique Victime)
+  - Tarhatazed (Ilana (The Creator))
+  - Funeral for Justice - Injustice Version
+  - Tala Tannam (Afrique Victime)
+  - Funeral for Justice - Injustice Version (Tears of Injustice)
+  - Funeral for Justice (Funeral for Justice)
+  - Imouhar (Funeral for Justice)
+  - Imouhar - Injustice Version (Tears of Injustice)
+  - Oh France - Injustice Version (Tears of Injustice)
+  - Pacific Theme
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d85defaf-b82e-48be-beb5-2672099e392e
-  spotify: https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94
-  wikipedia: https://en.wikipedia.org/wiki/Mdou_Moctar
+  musicbrainz: 'https://musicbrainz.org/artist/d85defaf-b82e-48be-beb5-2672099e392e'
+  spotify: 'https://open.spotify.com/artist/48dgx7iGqLQ3E5KO3pzd94'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mdou_Moctar'
 image_path: 03_Resources/source_material/ArtistPortraits/Mdou_Moctar.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:10:42.639342'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Mdou_Moctar
-- https://www.mdoumoctar.com/aboutold
-- https://pan-african-music.com/en/mdou-moctar-from-sahara-to-the-world/
-- https://www.globalartslive.org/sites/default/files/Mdou%20Moctar%20Biography.pdf
+  - 'https://en.wikipedia.org/wiki/Mdou_Moctar'
+  - 'https://www.mdoumoctar.com/aboutold'
+  - 'https://pan-african-music.com/en/mdou-moctar-from-sahara-to-the-world/'
+  - >-
+    https://www.globalartslive.org/sites/default/files/Mdou%20Moctar%20Biography.pdf
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:52:12.764021
+entry_created: 2025-09-22T21:52:12.764Z
 last_updated: '2025-12-23T08:16:03.121814'
 disambiguation: Tuareg musician Mahamadou Souleymane
 gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:36:20.944446'
 musicbrainz_id: d85defaf-b82e-48be-beb5-2672099e392e
 tags:
-- blues rock
-- desert blues
-- niger
+  - blues rock
+  - desert blues
+  - niger
+origin: 'Arlit, Agadez Region, Niger'
 ---
 
 ![](Mdou_Moctar.jpg)

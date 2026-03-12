@@ -2,21 +2,21 @@
 title: Hank Jones Trio
 wiki_slug: hank-jones-trio
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- jazz
+  - jazz
 instruments:
-- drums (drum set)
-- double bass
-- original
-- piano
+  - drums (drum set)
+  - double bass
+  - original
+  - piano
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/hank_jones_trio.jpg
   caption: Hank Jones Trio
   background: group_or_band
 audio_profile:
-  tempo_avg: 113.0
+  tempo_avg: 113
   energy_avg: 0.256
   valence_avg: 0.487
   danceability_avg: 0.526
@@ -30,75 +30,77 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ella Fitzgerald
-  - Charlie Parker
-  - Ron Carter
-  - Tony Williams
-  - Eddie Gómez
-  - Jimmy Cobb
-  - Elvin Jones
+    - Ella Fitzgerald
+    - Charlie Parker
+    - Ron Carter
+    - Tony Williams
+    - Eddie Gómez
+    - Jimmy Cobb
+    - Elvin Jones
   influenced:
-  - Thad Jones
+    - Thad Jones
   mentors:
-  - Art Tatum
+    - Art Tatum
 spotify_data:
   followers: 1317
   id: 0mwM5zJkCaimWBvlUu0P6U
   popularity: 21
-  url: https://open.spotify.com/artist/0mwM5zJkCaimWBvlUu0P6U
+  url: 'https://open.spotify.com/artist/0mwM5zJkCaimWBvlUu0P6U'
 discography_enriched: true
 top_tracks:
-- How High The Moon (The Trio)
-- Relaxin' at Camarillo (Hank Jones Trio)
-- Lullaby of the Leaves (The Trio)
-- Queen of Hearts (The Trio)
-- Little Girl Blue (The Trio)
-- Hank's Pranks (The Trio)
-- Alpha (The Trio)
-- Wine And Brandy (The Trio)
-- '''Swonderful (The Trio)'
-- Right Here, Right Now (The Trio)
+  - How High The Moon (The Trio)
+  - Relaxin' at Camarillo (Hank Jones Trio)
+  - Lullaby of the Leaves (The Trio)
+  - Queen of Hearts (The Trio)
+  - Little Girl Blue (The Trio)
+  - Hank's Pranks (The Trio)
+  - Alpha (The Trio)
+  - Wine And Brandy (The Trio)
+  - '''Swonderful (The Trio)'
+  - 'Right Here, Right Now (The Trio)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/12b89948-0f57-434a-b74b-b2932c718ca8
-  spotify: https://open.spotify.com/artist/0mwM5zJkCaimWBvlUu0P6U
-  wikipedia: https://en.wikipedia.org/wiki/Hank_Jones
+  musicbrainz: 'https://musicbrainz.org/artist/12b89948-0f57-434a-b74b-b2932c718ca8'
+  spotify: 'https://open.spotify.com/artist/0mwM5zJkCaimWBvlUu0P6U'
+  wikipedia: 'https://en.wikipedia.org/wiki/Hank_Jones'
 image_path: 03_Resources/source_material/ArtistPortraits/hank_jones_trio.jpg
 biography_enhanced_at: '2025-12-15T01:19:42.859691'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Hank_Jones
-- https://www.ebsco.com/research-starters/biography/hank-jones
-- https://jazztimes.com/features/profiles/hank-jones-have-you-met-mr-jones/
-- https://www.allaboutjazz.com/musicians/hank-jones/
-- https://www.arts.gov/honors/jazz/hank-jones
+  - 'https://en.wikipedia.org/wiki/Hank_Jones'
+  - 'https://www.ebsco.com/research-starters/biography/hank-jones'
+  - 'https://jazztimes.com/features/profiles/hank-jones-have-you-met-mr-jones/'
+  - 'https://www.allaboutjazz.com/musicians/hank-jones/'
+  - 'https://www.arts.gov/honors/jazz/hank-jones'
 network_extracted: true
 entry_created: '2025-12-15T01:19:42.859705'
 last_updated: '2025-12-23T08:16:09.477780'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: fb9de1c6-ab01-445c-b5a7-7be8674e99e0
-  name: Kurt Bong
-- begin: ''
-  end: ''
-  instruments:
-  - double bass
-  mbid: 9a1f662d-325a-4d9b-9743-25fcf0a699b3
-  name: Isla Eckinger
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  - piano
-  mbid: 80d610fe-7771-4226-aa9b-950944791698
-  name: Hank Jones
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: fb9de1c6-ab01-445c-b5a7-7be8674e99e0
+    name: Kurt Bong
+  - begin: ''
+    end: ''
+    instruments:
+      - double bass
+    mbid: 9a1f662d-325a-4d9b-9743-25fcf0a699b3
+    name: Isla Eckinger
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - piano
+    mbid: 80d610fe-7771-4226-aa9b-950944791698
+    name: Hank Jones
 musicbrainz_id: 12b89948-0f57-434a-b74b-b2932c718ca8
-origin: Vicksburg, Mississippi, United States
+origin: 'Vicksburg, Mississippi, United States'
 tags:
-- jazz
+  - jazz
+birth_place: 'Vicksburg, Mississippi, United States'
+birth_date: '1918-07-31'
 ---
 
 ![](hank_jones_trio.jpg)

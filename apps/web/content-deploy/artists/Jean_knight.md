@@ -6,25 +6,25 @@ status: deceased
 birth_name: Jean Caliste
 aliases: []
 birth_date: '1943-01-26'
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 death_date: '2023-11-22'
 years_active: 1965–2023
 genres:
-- motown
-- soul
+  - motown
+  - soul
 instruments:
-- voice
+  - voice
 occupation:
-- singer
+  - singer
 record_labels:
-- Stax Records
+  - Stax Records
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Jean_Knight.jpg
   caption: Jean Knight
   background: solo_singer
   birth_name: Jean Caliste
   born: '1943-01-26'
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
   died: '2023-11-22'
 audio_profile:
   tempo_avg: 117.3
@@ -41,53 +41,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Wardell Quezergue
-  - Donna Summer
-  - Gloria Gaynor
+    - Wardell Quezergue
+    - Donna Summer
+    - Gloria Gaynor
   influenced:
-  - Contemporary New Orleans soul artists
+    - Contemporary New Orleans soul artists
   mentors:
-  - Wardell Quezergue
+    - Wardell Quezergue
 related_artists: []
 spotify_data:
   followers: 36093
   id: 2Tk0pWxTuQgnE5nsUexrLr
   popularity: 49
-  url: https://open.spotify.com/artist/2Tk0pWxTuQgnE5nsUexrLr
+  url: 'https://open.spotify.com/artist/2Tk0pWxTuQgnE5nsUexrLr'
   verified: false
 discography_enriched: true
 albums_count: 7
 singles_count: 1
 top_tracks:
-- Mr. Big Stuff (Mr. Big Stuff)
-- Do Me (Mr. Big Stuff)
-- 'Mr. Big Stuff (The Complete Stax / Volt Soul Singles, Vol. 2: 1968-1971)'
-- A Little Bit Of Something (Is Better Than All Of Nothing) (Mr. Big Stuff)
-- You Think You're Hot Stuff (Mr. Big Stuff)
-- Take Him (You Can Have My Man) (Mr. Big Stuff)
-- Don't Talk About Jody (Mr. Big Stuff)
-- You City Slicker (Mr. Big Stuff)
-- My Toot Toot (My Toot Toot)
-- Carry On (Mr. Big Stuff)
+  - Mr. Big Stuff (Mr. Big Stuff)
+  - Do Me (Mr. Big Stuff)
+  - 'Mr. Big Stuff (The Complete Stax / Volt Soul Singles, Vol. 2: 1968-1971)'
+  - A Little Bit Of Something (Is Better Than All Of Nothing) (Mr. Big Stuff)
+  - You Think You're Hot Stuff (Mr. Big Stuff)
+  - Take Him (You Can Have My Man) (Mr. Big Stuff)
+  - Don't Talk About Jody (Mr. Big Stuff)
+  - You City Slicker (Mr. Big Stuff)
+  - My Toot Toot (My Toot Toot)
+  - Carry On (Mr. Big Stuff)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/2Tk0pWxTuQgnE5nsUexrLr
-  wikipedia: https://en.wikipedia.org/wiki/Jean_Knight
+  spotify: 'https://open.spotify.com/artist/2Tk0pWxTuQgnE5nsUexrLr'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jean_Knight'
 image_path: 03_Resources/source_material/ArtistPortraits/Jean_Knight.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:01:41.500441'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://staxrecords.com/artist/jean-knight/
-- https://blackpast.org/african-american-history/jean-knight-1943/
-- https://www.jango.com/music/Jean+Knight/_full_bio
-- https://mainepublic.org/2023-11-28/mr-big-stuff-singer-jean-knight-has-died-at-age-80
+  - 'https://staxrecords.com/artist/jean-knight/'
+  - 'https://blackpast.org/african-american-history/jean-knight-1943/'
+  - 'https://www.jango.com/music/Jean+Knight/_full_bio'
+  - >-
+    https://mainepublic.org/2023-11-28/mr-big-stuff-singer-jean-knight-has-died-at-age-80
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:49:22.883464
+entry_created: 2025-09-22T21:49:22.883Z
 last_updated: '2025-12-23T08:16:02.494269'
-
+is_active: false
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](Jean_Knight.jpg)

@@ -1,45 +1,46 @@
 ---
 biography_enhanced_at: '2026-01-22T07:02:54.220768'
-birth_place: Perth, Western Australia, Australia
+birth_place: 'Perth, Western Australia, Australia'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:02:54.220775'
 external_urls:
-  spotify: https://open.spotify.com/artist/2s5t1B6rBWhjjKjORgesXC
+  spotify: 'https://open.spotify.com/artist/2s5t1B6rBWhjjKjORgesXC'
   wikipedia: null
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/tim_jago.jpg
 last_updated: '2026-01-22T07:02:54.220776'
 musical_connections:
   collaborators:
-  - Troy Roberts
-  - Mark Small
-  - Martin Bejerano
-  - Dion Kerr
-  - David Chiverton
-  - Roxana Amed
-  - Ben Vanderwal
-  - Dane Alderson
+    - Troy Roberts
+    - Mark Small
+    - Martin Bejerano
+    - Dion Kerr
+    - David Chiverton
+    - Roxana Amed
+    - Ben Vanderwal
+    - Dane Alderson
   influenced: []
   mentors:
-  - Roy Haynes
+    - Roy Haynes
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://home.nestor.minsk.by/jazz/news/2025/03/1803.html
-- https://www.timjagomusic.com/about.html
-- https://voyagemia.com/interview/daily-inspiration-meet-tim-jago/
-- https://www.makingascene.org/tim-jago-time-shift/
-- https://tartanmoon.weebly.com/tim-jago.html
-- https://www.timjagomusic.com
-- https://www.youtube.com/watch?v=RFHdo1RMEps
-- https://www.wtju.net/new-jazz-blues-june-21-2022/
+  - 'https://home.nestor.minsk.by/jazz/news/2025/03/1803.html'
+  - 'https://www.timjagomusic.com/about.html'
+  - 'https://voyagemia.com/interview/daily-inspiration-meet-tim-jago/'
+  - 'https://www.makingascene.org/tim-jago-time-shift/'
+  - 'https://tartanmoon.weebly.com/tim-jago.html'
+  - 'https://www.timjagomusic.com'
+  - 'https://www.youtube.com/watch?v=RFHdo1RMEps'
+  - 'https://www.wtju.net/new-jazz-blues-june-21-2022/'
 spotify_data:
   followers: 178
   id: 2s5t1B6rBWhjjKjORgesXC
   popularity: 2
-  url: https://open.spotify.com/artist/2s5t1B6rBWhjjKjORgesXC
+  url: 'https://open.spotify.com/artist/2s5t1B6rBWhjjKjORgesXC'
 status: active
 title: Tim Jago
+artist_type: person
 ---
 
 ![](tim_jago.jpg)

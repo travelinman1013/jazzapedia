@@ -1,15 +1,15 @@
 ---
-title: harmonica fats
+title: Harmonica Fats
 wiki_slug: harmonica-fats
 schema_version: 2
 status: active
-birth_place: McDade, Bossier Parish, Louisiana, United States
+birth_place: 'McDade, Bossier Parish, Louisiana, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/harmonica_fats.jpg
   caption: harmonica fats
   background: solo_singer
-  origin: McDade, Bossier Parish, Louisiana, United States
+  origin: 'McDade, Bossier Parish, Louisiana, United States'
 audio_profile:
   tempo_avg: 117.1
   energy_avg: 0.715
@@ -25,48 +25,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bernie Pearl
-  - Cleveland Weller
-  - Jesse Pipkin
-  - Toby Tobias
-  - Henry Strogin
+    - Bernie Pearl
+    - Cleveland Weller
+    - Jesse Pipkin
+    - Toby Tobias
+    - Henry Strogin
   influenced: []
   mentors:
-  - Sonny Terry
-  - Lightnin' Hopkins
-  - Mance Lipscomb
+    - Sonny Terry
+    - Lightnin' Hopkins
+    - Mance Lipscomb
 spotify_data:
   followers: 112
   id: 2FE5NTrGemODPahvSAifB1
   popularity: 0
-  url: https://open.spotify.com/artist/2FE5NTrGemODPahvSAifB1
+  url: 'https://open.spotify.com/artist/2FE5NTrGemODPahvSAifB1'
 discography_enriched: true
 top_tracks:
-- Boogie All the Way (Just the Blues Music)
-- Low Desert (Just the Blues Music)
-- Harmonica Fats Blows (Just the Blues Music)
-- How Low Is Low (When Girls Do It)
-- How Low Is Low (When Girls Do It)
-- My Baby Didn't Come Home (Rhythm & Blues Vol. 4)
-- My Baby Didn't Come Home (You're Too Bad)
-- The Birds and the Bees (The Birds and the Bees / The Big Round Wheel)
-- The Big Round Wheel (The Birds and the Bees / The Big Round Wheel)
-- My Baby Didn't Come Home (The '50s Keep On Rockin')
+  - Boogie All the Way (Just the Blues Music)
+  - Low Desert (Just the Blues Music)
+  - Harmonica Fats Blows (Just the Blues Music)
+  - How Low Is Low (When Girls Do It)
+  - How Low Is Low (When Girls Do It)
+  - My Baby Didn't Come Home (Rhythm & Blues Vol. 4)
+  - My Baby Didn't Come Home (You're Too Bad)
+  - The Birds and the Bees (The Birds and the Bees / The Big Round Wheel)
+  - The Big Round Wheel (The Birds and the Bees / The Big Round Wheel)
+  - My Baby Didn't Come Home (The '50s Keep On Rockin')
 external_urls:
-  spotify: https://open.spotify.com/artist/2FE5NTrGemODPahvSAifB1
+  spotify: 'https://open.spotify.com/artist/2FE5NTrGemODPahvSAifB1'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/harmonica_fats.jpg
 biography_enhanced_at: '2025-10-20T10:23:06.319080'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://bigtrainblues.com/harmonica-fats/
-- https://mojohand.com/today-in-blues-history-september-8-harmonica-fats-born-birthday/
-- https://www.bluesandrhythm.co.uk/documents/164.pdf
-- https://kids.kiddle.co/Harmonica_Fats
+  - 'https://bigtrainblues.com/harmonica-fats/'
+  - >-
+    https://mojohand.com/today-in-blues-history-september-8-harmonica-fats-born-birthday/
+  - 'https://www.bluesandrhythm.co.uk/documents/164.pdf'
+  - 'https://kids.kiddle.co/Harmonica_Fats'
 network_extracted: true
 entry_created: '2025-10-20T10:23:06.319093'
 last_updated: '2025-12-23T08:16:09.508593'
+birth_date: '1927-09-08'
+death_date: '2000-01-03'
+artist_type: person
 ---
 
 ![](harmonica_fats.jpg)

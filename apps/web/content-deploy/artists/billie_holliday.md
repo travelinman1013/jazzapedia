@@ -1,19 +1,19 @@
 ---
-title: Billie Holliday
+title: Billie Holiday
 wiki_slug: billie-holliday
 schema_version: 2
 status: active
-birth_place: Philadelphia, Pennsylvania, United States
+birth_place: 'Philadelphia, Pennsylvania, United States'
 genres:
-- big band
-- jazz
-- jazz blues
-- vocal jazz
+  - big band
+  - jazz
+  - jazz blues
+  - vocal jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/billie_holliday.jpg
   caption: Billie Holliday
   background: solo_singer
-  origin: Philadelphia, Pennsylvania, United States
+  origin: 'Philadelphia, Pennsylvania, United States'
 audio_profile:
   tempo_avg: 106.3
   energy_avg: 0.196
@@ -29,48 +29,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Teddy Wilson
-  - Count Basie
-  - Artie Shaw
-  - Lester Young
-  - Louis Armstrong
+    - Teddy Wilson
+    - Count Basie
+    - Artie Shaw
+    - Lester Young
+    - Louis Armstrong
   influenced:
-  - Subsequent jazz vocalists
+    - Subsequent jazz vocalists
   mentors:
-  - Teddy Wilson
-  - John Hammond
+    - Teddy Wilson
+    - John Hammond
 spotify_data:
   followers: 2088290
   id: 1YzCsTRb22dQkh9lghPIrp
   popularity: 67
-  url: https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp
+  url: 'https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp'
 discography_enriched: true
 top_tracks:
-- I'll Be Seeing You (Billie Holiday)
-- Blue Moon (Solitude)
-- Solitude (Solitude)
-- All of Me
-- April In Paris (All Or Nothing At All)
-- As Time Goes By (The Complete Commodore Recordings)
-- Strange Fruit (Billie Holiday)
-- Autumn In New York (Recital)
-- Crazy He Calls Me (Lover Man)
-- You Go To My Head (Solitude)
+  - I'll Be Seeing You (Billie Holiday)
+  - Blue Moon (Solitude)
+  - Solitude (Solitude)
+  - All of Me
+  - April In Paris (All Or Nothing At All)
+  - As Time Goes By (The Complete Commodore Recordings)
+  - Strange Fruit (Billie Holiday)
+  - Autumn In New York (Recital)
+  - Crazy He Calls Me (Lover Man)
+  - You Go To My Head (Solitude)
 external_urls:
-  spotify: https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp
-  wikipedia: https://en.wikipedia.org/wiki/Billie_Holiday
+  spotify: 'https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp'
+  wikipedia: 'https://en.wikipedia.org/wiki/Billie_Holiday'
 image_path: 03_Resources/source_material/ArtistPortraits/billie_holliday.jpg
 biography_enhanced_at: '2025-12-17T02:27:05.062609'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Billie_Holiday
-- https://www.britannica.com/biography/Billie-Holiday
-- https://billieholiday.com/bio/
-- https://www.biography.com/musicians/billie-holiday
+  - 'https://en.wikipedia.org/wiki/Billie_Holiday'
+  - 'https://www.britannica.com/biography/Billie-Holiday'
+  - 'https://billieholiday.com/bio/'
+  - 'https://www.biography.com/musicians/billie-holiday'
 network_extracted: true
 entry_created: '2025-12-17T02:27:05.062617'
 last_updated: '2025-12-23T08:16:05.530502'
+birth_date: '1915-04-07'
+artist_type: person
 ---
 
 ![](billie_holliday.jpg)

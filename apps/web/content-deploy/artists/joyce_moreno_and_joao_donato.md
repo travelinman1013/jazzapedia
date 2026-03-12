@@ -3,23 +3,24 @@ title: Joyce Moreno & Joao Donato
 wiki_slug: joyce-moreno-joao-donato
 schema_version: 2
 status: active
-birth_place: Rio de Janeiro, Rio de Janeiro, Brazil
+birth_place: 'Rio de Janeiro, Rio de Janeiro, Brazil'
 genres:
-- bossa nova
-- brazilian jazz
+  - bossa nova
+  - brazilian jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/joyce_moreno_and_joao_donato.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/joyce_moreno_and_joao_donato.jpg
   caption: Joyce Moreno & Joao Donato
   background: solo_singer
-  origin: Rio de Janeiro, Rio de Janeiro, Brazil
+  origin: 'Rio de Janeiro, Rio de Janeiro, Brazil'
 audio_profile:
-  tempo_avg: 133.0
+  tempo_avg: 133
   energy_avg: 0.21
   valence_avg: 0.299
   danceability_avg: 0.623
   acousticness_avg: 0.9
   instrumentalness_avg: 0.038
-  loudness_avg: -15.0
+  loudness_avg: -15
   speechiness_avg: 0.045
   liveness_avg: 0.112
   track_count: 50
@@ -27,48 +28,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - João Donato
-  - Nelson Angelo
-  - Tutty Moreno
-  - Maurício Maestro
+    - João Donato
+    - Nelson Angelo
+    - Tutty Moreno
+    - Maurício Maestro
   influenced:
-  - Clara Moreno
-  - Younger generations of Brazilian singer-songwriters
+    - Clara Moreno
+    - Younger generations of Brazilian singer-songwriters
   mentors:
-  - Luiz Eça
-  - Antonio Carlos Jobim
+    - Luiz Eça
+    - Antonio Carlos Jobim
 spotify_data:
   followers: 75
   id: 584II7Kp0BEjQYTJq4lUwi
   popularity: 3
-  url: https://open.spotify.com/artist/584II7Kp0BEjQYTJq4lUwi
+  url: 'https://open.spotify.com/artist/584II7Kp0BEjQYTJq4lUwi'
 discography_enriched: true
 top_tracks:
-- What a Difference a Day Made (Here's That Rainy Bossa Day)
-- Tea For Two (Here's That Rainy Bossa Day)
-- Vivo Sonhando - Dreamer (Here's That Rainy Bossa Day)
-- Voce - You (Here's That Rainy Bossa Day)
-- Fotografia - Photograph (Here's That Rainy Bossa Day)
-- Inutil Paisagem - Useless Landscape (Here's That Rainy Bossa Day)
-- Stormy Weather (Here's That Rainy Bossa Day)
-- Corcovado - Quiet Night (Here's That Rainy Bossa Day)
-- What a Difference a Day Made (Natale in Lounge (55 canzoni sotto l'albero in stile lounge))
-- Here's That Rainy Day (Here's That Rainy Bossa Day)
+  - What a Difference a Day Made (Here's That Rainy Bossa Day)
+  - Tea For Two (Here's That Rainy Bossa Day)
+  - Vivo Sonhando - Dreamer (Here's That Rainy Bossa Day)
+  - Voce - You (Here's That Rainy Bossa Day)
+  - Fotografia - Photograph (Here's That Rainy Bossa Day)
+  - Inutil Paisagem - Useless Landscape (Here's That Rainy Bossa Day)
+  - Stormy Weather (Here's That Rainy Bossa Day)
+  - Corcovado - Quiet Night (Here's That Rainy Bossa Day)
+  - >-
+    What a Difference a Day Made (Natale in Lounge (55 canzoni sotto l'albero in
+    stile lounge))
+  - Here's That Rainy Day (Here's That Rainy Bossa Day)
 external_urls:
-  spotify: https://open.spotify.com/artist/584II7Kp0BEjQYTJq4lUwi
-  wikipedia: https://en.wikipedia.org/wiki/Joyce_(singer)
+  spotify: 'https://open.spotify.com/artist/584II7Kp0BEjQYTJq4lUwi'
+  wikipedia: 'https://en.wikipedia.org/wiki/Joyce_(singer)'
 image_path: ''
 biography_enhanced_at: '2025-11-16T20:15:42.781135'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.joycemoreno.com/en/joyce-moreno-%E2%80%93-biography.html
-- https://en.wikipedia.org/wiki/Joyce_(singer)
-- https://www.faroutrecordings.com/artist/393695-joyce-moreno?lang=en_GB
-- https://artsfuse.org/138729/fuse-music-feature-joyce-moreno-at-berklee/
+  - 'https://www.joycemoreno.com/en/joyce-moreno-%E2%80%93-biography.html'
+  - 'https://en.wikipedia.org/wiki/Joyce_(singer)'
+  - 'https://www.faroutrecordings.com/artist/393695-joyce-moreno?lang=en_GB'
+  - 'https://artsfuse.org/138729/fuse-music-feature-joyce-moreno-at-berklee/'
 network_extracted: true
 entry_created: '2025-11-16T20:15:42.781142'
 last_updated: '2025-12-23T08:16:11.012593'
+birth_date: '1948-01-31'
+artist_type: person
 ---
 
 ![]()

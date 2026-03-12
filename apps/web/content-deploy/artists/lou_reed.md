@@ -1,61 +1,61 @@
 ---
-title: LOU REED
+title: Lou Reed
 wiki_slug: lou-reed
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1942-03-02'
-birth_place: Brooklyn
+birth_place: 'Brooklyn, New York, United States'
 death_date: '2013-10-27'
 genres:
-- glam rock
-- proto-punk
-- art rock
+  - glam rock
+  - proto-punk
+  - art rock
 instruments:
-- guitar
-- lead vocals
-- original
-- piano
-- electric guitar
-- guitar family
-- bass guitar
-- spoken vocals
-- background vocals
+  - guitar
+  - lead vocals
+  - original
+  - piano
+  - electric guitar
+  - guitar family
+  - bass guitar
+  - spoken vocals
+  - background vocals
 associated_acts:
-- begin: '1965'
-  end: '1970'
-  instruments:
-  - guitar
-  - lead vocals
-  - original
-  - piano
-  mbid: 94b0fb9d-a066-4823-b2ec-af1d324bcfcf
-  name: The Velvet Underground
-- begin: '1992'
-  end: '1996'
-  instruments:
-  - guitar
-  - lead vocals
-  - original
-  - piano
-  mbid: 94b0fb9d-a066-4823-b2ec-af1d324bcfcf
-  name: The Velvet Underground
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: dd62892b-2835-40ab-9c96-d3032078d6e6
-  name: Metal Machine Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e88fcb22-9c82-4696-ba76-de0b1b5a9c1e
-  name: The Roughnecks
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a2dfd381-7ec6-4fa9-b5a1-ad732c7477e0
-  name: The Conspirators
+  - begin: '1965'
+    end: '1970'
+    instruments:
+      - guitar
+      - lead vocals
+      - original
+      - piano
+    mbid: 94b0fb9d-a066-4823-b2ec-af1d324bcfcf
+    name: The Velvet Underground
+  - begin: '1992'
+    end: '1996'
+    instruments:
+      - guitar
+      - lead vocals
+      - original
+      - piano
+    mbid: 94b0fb9d-a066-4823-b2ec-af1d324bcfcf
+    name: The Velvet Underground
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: dd62892b-2835-40ab-9c96-d3032078d6e6
+    name: Metal Machine Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e88fcb22-9c82-4696-ba76-de0b1b5a9c1e
+    name: The Roughnecks
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a2dfd381-7ec6-4fa9-b5a1-ad732c7477e0
+    name: The Conspirators
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lou_reed.jpg
   caption: LOU REED
@@ -78,61 +78,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John Cale
-  - David Bowie
-  - Mick Ronson
-  - Sterling Morrison
-  - Moe Tucker
-  - Nico
+    - John Cale
+    - David Bowie
+    - Mick Ronson
+    - Sterling Morrison
+    - Moe Tucker
+    - Nico
   influenced:
-  - David Bowie
-  - Patti Smith
-  - R.E.M.
-  - Sonic Youth
-  - The Strokes
+    - David Bowie
+    - Patti Smith
+    - R.E.M.
+    - Sonic Youth
+    - The Strokes
   mentors:
-  - Delmore Schwartz
-  - Andy Warhol
+    - Delmore Schwartz
+    - Andy Warhol
 spotify_data:
   followers: 2025020
   id: 42TFhl7WlMRXiNqzSrnzPL
   popularity: 59
-  url: https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL
+  url: 'https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL'
 discography_enriched: true
 top_tracks:
-- Walk On the Wild Side (Transformer)
-- Perfect Day (Transformer)
-- Satellite of Love (Transformer)
-- Vicious (Transformer)
-- Charley's Girl (Coney Island Baby)
-- Some Kind of Nature (feat. Lou Reed) (Plastic Beach)
-- Coney Island Baby (Coney Island Baby)
-- This Magic Moment
-- Dirty Blvd. (New York)
-- Tranquilize
+  - Walk On the Wild Side (Transformer)
+  - Perfect Day (Transformer)
+  - Satellite of Love (Transformer)
+  - Vicious (Transformer)
+  - Charley's Girl (Coney Island Baby)
+  - Some Kind of Nature (feat. Lou Reed) (Plastic Beach)
+  - Coney Island Baby (Coney Island Baby)
+  - This Magic Moment
+  - Dirty Blvd. (New York)
+  - Tranquilize
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9d1ebcfe-4c15-4d18-95d3-d919898638a1
-  spotify: https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL
-  wikipedia: https://en.wikipedia.org/wiki/Lou_Reed
+  musicbrainz: 'https://musicbrainz.org/artist/9d1ebcfe-4c15-4d18-95d3-d919898638a1'
+  spotify: 'https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lou_Reed'
 image_path: 03_Resources/source_material/ArtistPortraits/lou_reed.jpg
 biography_enhanced_at: '2025-10-28T09:19:39.403116'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Lou_Reed
-- https://teachrock.org/people/reed-lou/
-- https://www.ebsco.com/research-starters/music/lou-reed
-- https://loureedarchive.com/pages/bio
-- https://www.riotmaterial.com/lou-reed-life/
+  - 'https://en.wikipedia.org/wiki/Lou_Reed'
+  - 'https://teachrock.org/people/reed-lou/'
+  - 'https://www.ebsco.com/research-starters/music/lou-reed'
+  - 'https://loureedarchive.com/pages/bio'
+  - 'https://www.riotmaterial.com/lou-reed-life/'
 network_extracted: true
 entry_created: '2025-10-28T09:19:39.403155'
 last_updated: '2025-12-23T08:16:12.186863'
 gender: Male
 musicbrainz_id: 9d1ebcfe-4c15-4d18-95d3-d919898638a1
 tags:
-- art rock
-- glam rock
-- hard rock
+  - art rock
+  - glam rock
+  - hard rock
+is_active: false
 ---
 
 ![](lou_reed.jpg)

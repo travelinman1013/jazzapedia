@@ -3,35 +3,38 @@ biography_enhanced_at: '2025-12-30T01:28:39.091250'
 enhancement_provider: perplexity
 entry_created: '2025-12-30T01:28:39.091256'
 external_urls:
-  spotify: https://open.spotify.com/artist/5OqXRbqDfocjMUtoqCA3kg
+  spotify: 'https://open.spotify.com/artist/5OqXRbqDfocjMUtoqCA3kg'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/future_cowboys.jpg
 last_updated: '2025-12-30T01:28:39.091257'
 musical_connections:
   collaborators:
-  - Eren Cannata
-  - Miguel Oliveira
-  - Soul Brass Band
+    - Eren Cannata
+    - Miguel Oliveira
+    - Soul Brass Band
   influenced: []
   mentors: []
 network_extracted: true
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://www.offbeat.com/music/future-cowboys-going-kamikaze/
-- https://thefunkyuncle.live/artist/future-cowboys/
-- https://futurecowboys.net/about/
-- https://www.whereyat.com/future-cowboys-emlife-on-mars/em-album-is-out-of-this-world
-- https://futurecowboys.net
-- https://www.offbeat.com/news/black-woman-owned-production-company-produces-future-cowboys-party-video/
+  - 'https://www.offbeat.com/music/future-cowboys-going-kamikaze/'
+  - 'https://thefunkyuncle.live/artist/future-cowboys/'
+  - 'https://futurecowboys.net/about/'
+  - >-
+    https://www.whereyat.com/future-cowboys-emlife-on-mars/em-album-is-out-of-this-world
+  - 'https://futurecowboys.net'
+  - >-
+    https://www.offbeat.com/news/black-woman-owned-production-company-produces-future-cowboys-party-video/
 spotify_data:
   followers: 128
   id: 5OqXRbqDfocjMUtoqCA3kg
   popularity: 1
-  url: https://open.spotify.com/artist/5OqXRbqDfocjMUtoqCA3kg
+  url: 'https://open.spotify.com/artist/5OqXRbqDfocjMUtoqCA3kg'
 status: active
 title: Future Cowboys
+artist_type: person
 ---
 
 ![](future_cowboys.jpg)

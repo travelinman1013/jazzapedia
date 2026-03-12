@@ -3,36 +3,43 @@ biography_enhanced_at: '2026-01-03T01:41:19.982276'
 enhancement_provider: perplexity
 entry_created: '2026-01-03T01:41:19.982290'
 external_urls:
-  spotify: https://open.spotify.com/artist/4QYDxx5VDqINxMtUapyF9q
-  wikipedia: https://en.wikipedia.org/wiki/Herbie_Mann (for Herbie Mann); https://en.wikipedia.org/wiki/Cissy_Houston
-    (for Cissy Houston)
+  spotify: 'https://open.spotify.com/artist/4QYDxx5VDqINxMtUapyF9q'
+  wikipedia: >-
+    https://en.wikipedia.org/wiki/Herbie_Mann (for Herbie Mann);
+    https://en.wikipedia.org/wiki/Cissy_Houston (for Cissy Houston)
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/herbie_mann_wcissy_houston.jpg
 last_updated: '2026-01-03T01:41:19.982292'
 musical_connections:
   collaborators:
-  - Cissy Houston
-  - Herbie Mann
-  - Duane Allman
-  - Larry Coryell
+    - Cissy Houston
+    - Herbie Mann
+    - Duane Allman
+    - Larry Coryell
   influenced:
-  - None directly identified
+    - None directly identified
   mentors:
-  - None identified
+    - None identified
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Cissy_Houston
-- https://en.wikipedia.org/wiki/Herbie_Mann
-- https://www.thehistorymakers.org/biography/cissy-houston
-- https://godsmusicismylife.substack.com/p/the-cissy-houston-effect
+  - 'https://en.wikipedia.org/wiki/Cissy_Houston'
+  - 'https://en.wikipedia.org/wiki/Herbie_Mann'
+  - 'https://www.thehistorymakers.org/biography/cissy-houston'
+  - 'https://godsmusicismylife.substack.com/p/the-cissy-houston-effect'
 spotify_data:
   followers: 11745
   id: 4QYDxx5VDqINxMtUapyF9q
   popularity: 35
-  url: https://open.spotify.com/artist/4QYDxx5VDqINxMtUapyF9q
+  url: 'https://open.spotify.com/artist/4QYDxx5VDqINxMtUapyF9q'
 status: active
 title: Herbie Mann w/Cissy Houston
+birth_place: 'Brooklyn, New York, United States'
+origin: >-
+  Brooklyn, New York, USA (Herbie Mann birthplace); Newark, New Jersey, USA
+  (Cissy Houston birthplace)
+birth_date: '1930'
+artist_type: band
 ---
 
 ![](herbie_mann_wcissy_houston.jpg)

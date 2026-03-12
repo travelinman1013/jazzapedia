@@ -1,15 +1,15 @@
 ---
-title: DOJA CAT
+title: Doja Cat
 wiki_slug: doja-cat
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1995-10-21'
-birth_place: Tarzana
+birth_place: 'Tarzana, California, United States'
 genres: []
 instruments:
-- lead vocals
-- background vocals
+  - lead vocals
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/doja_cat.jpg
   caption: DOJA CAT
@@ -17,7 +17,7 @@ infobox:
   born: '1995-10-21'
   origin: Tarzana
 audio_profile:
-  tempo_avg: 117.0
+  tempo_avg: 117
   energy_avg: 0.655
   valence_avg: 0.502
   danceability_avg: 0.76
@@ -31,56 +31,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Yeti Beats
-  - Dr. Luke (Kemosabe Records)
-  - Nicki Minaj
-  - SZA
+    - Yeti Beats
+    - Dr. Luke (Kemosabe Records)
+    - Nicki Minaj
+    - SZA
   influenced:
-  - Emerging TikTok-era pop-rap and internet-native artists (various)
+    - Emerging TikTok-era pop-rap and internet-native artists (various)
   mentors:
-  - Alice Coltrane
-  - Yeti Beats
-  - Jerry "Tizhimself" Powell
+    - Alice Coltrane
+    - Yeti Beats
+    - Jerry "Tizhimself" Powell
 spotify_data:
   followers: 35328938
   id: 5cj0lLjcoR7YOSnhnX0Po5
   popularity: 88
-  url: https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5
+  url: 'https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5'
 discography_enriched: true
 top_tracks:
-- Born Again (feat. Doja Cat & RAYE)
-- Kiss Me More (feat. SZA) (Planet Her)
-- Streets (Hot Pink)
-- Woman (Planet Her)
-- Born Again (feat. Doja Cat & RAYE) (Alter Ego)
-- Need to Know (Planet Her)
-- Paint The Town Red
-- Just Us (feat. Doja Cat)
-- So High
-- Candy (Amala)
+  - Born Again (feat. Doja Cat & RAYE)
+  - Kiss Me More (feat. SZA) (Planet Her)
+  - Streets (Hot Pink)
+  - Woman (Planet Her)
+  - Born Again (feat. Doja Cat & RAYE) (Alter Ego)
+  - Need to Know (Planet Her)
+  - Paint The Town Red
+  - Just Us (feat. Doja Cat)
+  - So High
+  - Candy (Amala)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5df62a88-cac9-490a-b62c-c7c88f4020f4
-  spotify: https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5
-  wikipedia: https://en.wikipedia.org/wiki/Doja_Cat
+  musicbrainz: 'https://musicbrainz.org/artist/5df62a88-cac9-490a-b62c-c7c88f4020f4'
+  spotify: 'https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5'
+  wikipedia: 'https://en.wikipedia.org/wiki/Doja_Cat'
 image_path: 03_Resources/source_material/ArtistPortraits/doja_cat.jpg
 biography_enhanced_at: '2025-12-16T03:58:54.374905'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Doja_Cat
-- https://www.biography.com/musicians/a60500636/doja-cat
-- https://www.hiphopscriptures.com/doja-cat
-- https://www.imdb.com/name/nm9798310/bio/
-- https://narcissemagazine.com/blogs/articles/doja-cat
+  - 'https://en.wikipedia.org/wiki/Doja_Cat'
+  - 'https://www.biography.com/musicians/a60500636/doja-cat'
+  - 'https://www.hiphopscriptures.com/doja-cat'
+  - 'https://www.imdb.com/name/nm9798310/bio/'
+  - 'https://narcissemagazine.com/blogs/articles/doja-cat'
 network_extracted: true
 entry_created: '2025-12-16T03:58:54.374911'
 last_updated: '2025-12-23T08:16:07.828973'
 gender: Female
 musicbrainz_id: 5df62a88-cac9-490a-b62c-c7c88f4020f4
 tags:
-- alternative rock
-- grunge
-- hip hop
+  - alternative rock
+  - grunge
+  - hip hop
+origin: 'Los Angeles, California, United States'
 ---
 
 ![](doja_cat.jpg)

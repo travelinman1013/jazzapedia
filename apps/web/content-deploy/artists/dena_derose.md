@@ -5,33 +5,33 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1966-02-15'
-birth_place: Binghamton
+birth_place: 'Binghamton, New York, United States'
 genres:
-- vocal jazz
-- jazz
+  - vocal jazz
+  - jazz
 instruments:
-- lead vocals
-- piano
+  - lead vocals
+  - piano
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  - piano
-  mbid: 47cea55e-15d9-429b-9efd-c8524acbde8c
-  name: The Dena DeRose Trio
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: c04bf147-e2ea-40ca-bb99-a1252c6a3dbc
-  name: Young Lions of Jazz
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: c04bf147-e2ea-40ca-bb99-a1252c6a3dbc
-  name: Young Lions of Jazz
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+      - piano
+    mbid: 47cea55e-15d9-429b-9efd-c8524acbde8c
+    name: The Dena DeRose Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: c04bf147-e2ea-40ca-bb99-a1252c6a3dbc
+    name: Young Lions of Jazz
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: c04bf147-e2ea-40ca-bb99-a1252c6a3dbc
+    name: Young Lions of Jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/dena_derose.jpg
   caption: Dena DeRose
@@ -53,56 +53,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Doug Beardsley
-  - Jimmy Lovelace
-  - Various jazz musicians
+    - Doug Beardsley
+    - Jimmy Lovelace
+    - Various jazz musicians
   influenced:
-  - Students at University of Music and Dramatic Arts, Graz
-  - Stanford Jazz Workshop students
+    - 'Students at University of Music and Dramatic Arts, Graz'
+    - Stanford Jazz Workshop students
   mentors:
-  - Hank Jones
-  - Mulgrew Miller
-  - Unnamed opera singer
+    - Hank Jones
+    - Mulgrew Miller
+    - Unnamed opera singer
 spotify_data:
   followers: 6625
   id: 2Ror5pi9KTS40JRNzcWxj3
   popularity: 33
-  url: https://open.spotify.com/artist/2Ror5pi9KTS40JRNzcWxj3
+  url: 'https://open.spotify.com/artist/2Ror5pi9KTS40JRNzcWxj3'
 discography_enriched: true
 top_tracks:
-- Young and Foolish (Moon Mist)
-- The Shadow of Your Smile (The Shadow of Your Smile)
-- I Wished on the Moon
-- I'll Close My Eyes (Moon Mist)
-- Thank You for Everything (Mellow Tones)
-- Pure Imagination (Street of Dreams)
-- Lucky to be Me (Street of Dreams)
-- Laura
-- How Deep Is the Ocean (The Shadow of Your Smile)
-- Summer Wind (The Shadow of Your Smile)
+  - Young and Foolish (Moon Mist)
+  - The Shadow of Your Smile (The Shadow of Your Smile)
+  - I Wished on the Moon
+  - I'll Close My Eyes (Moon Mist)
+  - Thank You for Everything (Mellow Tones)
+  - Pure Imagination (Street of Dreams)
+  - Lucky to be Me (Street of Dreams)
+  - Laura
+  - How Deep Is the Ocean (The Shadow of Your Smile)
+  - Summer Wind (The Shadow of Your Smile)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/92d9b014-5978-4b0b-8b7a-a464b89e2b5c
-  spotify: https://open.spotify.com/artist/2Ror5pi9KTS40JRNzcWxj3
-  wikipedia: https://en.wikipedia.org/wiki/Dena_DeRose
+  musicbrainz: 'https://musicbrainz.org/artist/92d9b014-5978-4b0b-8b7a-a464b89e2b5c'
+  spotify: 'https://open.spotify.com/artist/2Ror5pi9KTS40JRNzcWxj3'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dena_DeRose'
 image_path: 03_Resources/source_material/ArtistPortraits/dena_derose.jpg
 biography_enhanced_at: '2025-11-17T10:40:21.417375'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://stanfordjazz.org/faculty/dena-derose/
-- https://jazzleadsheets.com/composers/dena-derose.html
-- https://popcultureclassics.com/dena_derose.html
-- https://denaderose.com/cms/wp-content/uploads/2020/08/new-bio-2020-long.pdf
-- https://allaboutjazz.com/dena-derose-keeper-of-the-song-dena-derose
-- https://denaderose.com/about/
-- https://preferredartists.net/dena-derose
+  - 'https://stanfordjazz.org/faculty/dena-derose/'
+  - 'https://jazzleadsheets.com/composers/dena-derose.html'
+  - 'https://popcultureclassics.com/dena_derose.html'
+  - 'https://denaderose.com/cms/wp-content/uploads/2020/08/new-bio-2020-long.pdf'
+  - 'https://allaboutjazz.com/dena-derose-keeper-of-the-song-dena-derose'
+  - 'https://denaderose.com/about/'
+  - 'https://preferredartists.net/dena-derose'
 network_extracted: true
 entry_created: '2025-11-17T10:40:21.417381'
 last_updated: '2025-12-23T08:16:07.690388'
 gender: Female
 musicbrainz_id: 92d9b014-5978-4b0b-8b7a-a464b89e2b5c
 tags:
-- jazz
+  - jazz
 ---
 
 ![](dena_derose.jpg)

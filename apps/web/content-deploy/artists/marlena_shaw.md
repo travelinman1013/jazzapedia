@@ -5,15 +5,15 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1939-09-22'
-birth_place: New Rochelle
+birth_place: 'New Rochelle, New York, United States'
 death_date: '2024-01-19'
 genres:
-- northern soul
-- soul
+  - northern soul
+  - soul
 instruments:
-- piano
-- lead vocals
-- spoken vocals
+  - piano
+  - lead vocals
+  - spoken vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/marlena_shaw.jpg
   caption: Marlena Shaw
@@ -36,55 +36,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Howard McGhee
-  - Count Basie Orchestra
-  - Richard Evans
+    - Howard McGhee
+    - Count Basie Orchestra
+    - Richard Evans
   influenced:
-  - Hip hop artists (various)
-  - UK rare groove scene
+    - Hip hop artists (various)
+    - UK rare groove scene
   mentors:
-  - Jimmy Burgess
-  - Al Hibbler
+    - Jimmy Burgess
+    - Al Hibbler
 spotify_data:
   followers: 92330
   id: 0hirZ8kPPdM9pzXpoagB4w
   popularity: 47
-  url: https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w
+  url: 'https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w'
 discography_enriched: true
 top_tracks:
-- California Soul (The Spice Of Life)
-- Woman of the Ghetto - Akshin Alizadeh Remix (Gecko Beach Club Formentera, Vol. 4)
-- Woman Of The Ghetto (The Spice Of Life)
-- Let's Wade In The Water
-- California Soul - Diplo Remix
-- Liberation Conversation (The Spice Of Life)
-- Woman Of The Ghetto - Akshin Alizadeh Remix
-- Touch Me In The Morning (Take A Bite)
-- Where Can I Go? (The Spice Of Life)
-- Feel Like Making Love (Who Is This Bitch, Anyway?)
+  - California Soul (The Spice Of Life)
+  - >-
+    Woman of the Ghetto - Akshin Alizadeh Remix (Gecko Beach Club Formentera,
+    Vol. 4)
+  - Woman Of The Ghetto (The Spice Of Life)
+  - Let's Wade In The Water
+  - California Soul - Diplo Remix
+  - Liberation Conversation (The Spice Of Life)
+  - Woman Of The Ghetto - Akshin Alizadeh Remix
+  - Touch Me In The Morning (Take A Bite)
+  - Where Can I Go? (The Spice Of Life)
+  - 'Feel Like Making Love (Who Is This Bitch, Anyway?)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f94db5b3-9260-4e81-9d35-6806e50c713f
-  spotify: https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w
-  wikipedia: https://en.wikipedia.org/wiki/Marlena_Shaw
+  musicbrainz: 'https://musicbrainz.org/artist/f94db5b3-9260-4e81-9d35-6806e50c713f'
+  spotify: 'https://open.spotify.com/artist/0hirZ8kPPdM9pzXpoagB4w'
+  wikipedia: 'https://en.wikipedia.org/wiki/Marlena_Shaw'
 image_path: 03_Resources/source_material/ArtistPortraits/marlena_shaw.jpg
 biography_enhanced_at: '2025-10-29T16:36:05.283824'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Marlena+Shaw/+wiki
-- https://www.allaboutjazz.com/musicians/marlena-shaw/
-- https://www.bluenote.com/artist/marlena-shaw/
-- https://newpittsburghcourier.com/2024/01/23/marlena-shaw-rip-bio-music/
-- https://musicianguide.com/biographies/1608004470/Marlena-Shaw.html
+  - 'https://www.last.fm/music/Marlena+Shaw/+wiki'
+  - 'https://www.allaboutjazz.com/musicians/marlena-shaw/'
+  - 'https://www.bluenote.com/artist/marlena-shaw/'
+  - 'https://newpittsburghcourier.com/2024/01/23/marlena-shaw-rip-bio-music/'
+  - 'https://musicianguide.com/biographies/1608004470/Marlena-Shaw.html'
 network_extracted: true
 entry_created: '2025-10-29T16:36:05.283831'
 last_updated: '2025-12-23T08:16:12.723288'
 gender: Female
 musicbrainz_id: f94db5b3-9260-4e81-9d35-6806e50c713f
 tags:
-- 2008 universal fire victim
-- classic pop and rock
-- soul
+  - 2008 universal fire victim
+  - classic pop and rock
+  - soul
+is_active: false
 ---
 
 ![](marlena_shaw.jpg)

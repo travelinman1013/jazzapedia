@@ -1,8 +1,8 @@
 ---
-title: RARE SILK
+title: Rare Silk
 wiki_slug: rare-silk
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1978'
 genres: []
@@ -26,60 +26,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Todd Buffa
-  - Michael Brecker
-  - Randy Brecker
-  - Kip Kuepper
-  - Barbara Reeves
+    - Todd Buffa
+    - Michael Brecker
+    - Randy Brecker
+    - Kip Kuepper
+    - Barbara Reeves
   influenced:
-  - Marylynn Gillaspie
+    - Marylynn Gillaspie
   mentors:
-  - Benny Goodman
+    - Benny Goodman
 spotify_data:
   followers: 6359
   id: 3k8BWRW5BWLewWbhSOImEf
   popularity: 20
-  url: https://open.spotify.com/artist/3k8BWRW5BWLewWbhSOImEf
+  url: 'https://open.spotify.com/artist/3k8BWRW5BWLewWbhSOImEf'
 discography_enriched: true
 top_tracks:
-- Storm (American Eyes)
-- Storm - Temple Haze Remix (Storm (Temple Haze Remix))
-- New York Afternoon (New Weave)
-- '''Round Midnight (American Eyes)'
-- Up From The Skies (American Eyes)
-- Hello (American Eyes)
-- Red Clay (New Weave)
-- Storm - Arp Duppy Chip Mix (Luke Una Presents É Soul Cultura, Vol. 2)
-- Storm (La Torre Ibiza - Volumen Quatro)
-- Oops! (American Eyes)
+  - Storm (American Eyes)
+  - Storm - Temple Haze Remix (Storm (Temple Haze Remix))
+  - New York Afternoon (New Weave)
+  - '''Round Midnight (American Eyes)'
+  - Up From The Skies (American Eyes)
+  - Hello (American Eyes)
+  - Red Clay (New Weave)
+  - 'Storm - Arp Duppy Chip Mix (Luke Una Presents É Soul Cultura, Vol. 2)'
+  - Storm (La Torre Ibiza - Volumen Quatro)
+  - Oops! (American Eyes)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7c44df71-6be1-4fbd-9d04-b701a4857245
-  spotify: https://open.spotify.com/artist/3k8BWRW5BWLewWbhSOImEf
+  musicbrainz: 'https://musicbrainz.org/artist/7c44df71-6be1-4fbd-9d04-b701a4857245'
+  spotify: 'https://open.spotify.com/artist/3k8BWRW5BWLewWbhSOImEf'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/rare_silk.jpg
 biography_enhanced_at: '2025-11-24T08:38:58.683896'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Colorado Music Experience - Rare Silk Profile
-- Westword - MaryLynn Gillaspie Article
-- Fried Foo - Rare Silk Jazz Vocal Group
-- Last.fm - Rare Silk
-- All About Jazz - Rare Silk Musician
-- NTS Live - Rare Silk
-- 'Kate Norlander - Something Wonderful: Rare Silk'
-- In Sheeps Clothing HiFi - Rare Silk American Eyes Album
+  - Colorado Music Experience - Rare Silk Profile
+  - Westword - MaryLynn Gillaspie Article
+  - Fried Foo - Rare Silk Jazz Vocal Group
+  - Last.fm - Rare Silk
+  - All About Jazz - Rare Silk Musician
+  - NTS Live - Rare Silk
+  - 'Kate Norlander - Something Wonderful: Rare Silk'
+  - In Sheeps Clothing HiFi - Rare Silk American Eyes Album
 network_extracted: true
 entry_created: '2025-11-24T08:38:58.683901'
 last_updated: '2025-12-23T08:16:14.649284'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e9c1cd4f-70b9-41dd-95ee-59835a2aadae
-  name: Chris Canute
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e9c1cd4f-70b9-41dd-95ee-59835a2aadae
+    name: Chris Canute
 musicbrainz_id: 7c44df71-6be1-4fbd-9d04-b701a4857245
-origin: Boulder, Colorado, United States
+origin: 'Boulder, Colorado, United States'
 ---
 
 ![](rare_silk.jpg)

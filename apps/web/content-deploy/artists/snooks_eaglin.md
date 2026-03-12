@@ -1,31 +1,31 @@
 ---
-title: snooks eaglin
+title: Snooks Eaglin
 wiki_slug: snooks-eaglin
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1936-01-21'
-birth_place: New Orleans
+birth_place: 'New Orleans, Louisiana, United States'
 death_date: '2009-02-18'
 genres:
-- blues
-- classic blues
-- country blues
+  - blues
+  - classic blues
+  - country blues
 instruments:
-- guitar
-- lead vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: db0a8f0a-ddb4-4fd3-908a-ae28045f7ed4
-  name: The Wild Magnolias
-- begin: ''
-  end: ''
-  instruments:
   - guitar
-  mbid: c2a9d093-d84f-47f7-be96-0e6bc8d665ac
-  name: The New Orleans Project
+  - lead vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: db0a8f0a-ddb4-4fd3-908a-ae28045f7ed4
+    name: The Wild Magnolias
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: c2a9d093-d84f-47f7-be96-0e6bc8d665ac
+    name: The New Orleans Project
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/snooks_eaglin.jpg
   caption: snooks eaglin
@@ -34,7 +34,7 @@ infobox:
   origin: New Orleans
   died: '2009-02-18'
 audio_profile:
-  tempo_avg: 117.0
+  tempo_avg: 117
   energy_avg: 0.315
   valence_avg: 0.672
   danceability_avg: 0.704
@@ -48,60 +48,67 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Allen Toussaint and the Flamingos
-  - James "Sugar Boy" Crawford
-  - Harry Oster and accompanying musicians (Lucius Bridges, Percy Randolph)
-  - Imperial Records studio band (including James Booker and Smokey Johnson)
-  - Professor Longhair
-  - The Wild Magnolias (Big Chief Bo Dollis, Big Chief Monk Boudreaux, Willie Tee, and band)
-  - Aurellia (Aurelius) Turbinton’s New Orleans Project
-  - Black Top Records roster and producers
+    - Allen Toussaint and the Flamingos
+    - James "Sugar Boy" Crawford
+    - 'Harry Oster and accompanying musicians (Lucius Bridges, Percy Randolph)'
+    - Imperial Records studio band (including James Booker and Smokey Johnson)
+    - Professor Longhair
+    - >-
+      The Wild Magnolias (Big Chief Bo Dollis, Big Chief Monk Boudreaux, Willie
+      Tee, and band)
+    - Aurellia (Aurelius) Turbinton’s New Orleans Project
+    - Black Top Records roster and producers
   influenced:
-  - New Orleans blues and R&B guitarists (later generations)
+    - New Orleans blues and R&B guitarists (later generations)
   mentors:
-  - Local Baptist church musicians and radio performers
-  - New Orleans R&B and jazz tradition (e.g., Ray Charles, local bandleaders)
+    - Local Baptist church musicians and radio performers
+    - 'New Orleans R&B and jazz tradition (e.g., Ray Charles, local bandleaders)'
 spotify_data:
   followers: 27055
   id: 4ReGayOtLkcAsNi6d2n7LS
   popularity: 29
-  url: https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS
+  url: 'https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS'
 discography_enriched: true
 top_tracks:
-- Saint James Infirmary (New Orleans Street Singer)
-- I Got a Woman (New Orleans Street Singer)
-- By the Water (The Imperial Recordings)
-- I've Been Walkin' (The Imperial Recordings)
-- Brown Skin Woman (New Orleans Street Singer)
-- Yours Truly (The Imperial Recordings)
-- Alberta (New Orleans Street Singer)
-- One Scotch, One Bourbon, One Beer (New Orleans Street Singer)
-- Good News (Snooks Eaglin (The Sonet Blues Story))
-- Funky Malaguena (Snooks Eaglin (The Sonet Blues Story))
+  - Saint James Infirmary (New Orleans Street Singer)
+  - I Got a Woman (New Orleans Street Singer)
+  - By the Water (The Imperial Recordings)
+  - I've Been Walkin' (The Imperial Recordings)
+  - Brown Skin Woman (New Orleans Street Singer)
+  - Yours Truly (The Imperial Recordings)
+  - Alberta (New Orleans Street Singer)
+  - 'One Scotch, One Bourbon, One Beer (New Orleans Street Singer)'
+  - Good News (Snooks Eaglin (The Sonet Blues Story))
+  - Funky Malaguena (Snooks Eaglin (The Sonet Blues Story))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8d722779-d25a-493c-a324-c21fb9024e1b
-  spotify: https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS
-  wikipedia: https://en.wikipedia.org/wiki/Snooks_Eaglin
+  musicbrainz: 'https://musicbrainz.org/artist/8d722779-d25a-493c-a324-c21fb9024e1b'
+  spotify: 'https://open.spotify.com/artist/4ReGayOtLkcAsNi6d2n7LS'
+  wikipedia: 'https://en.wikipedia.org/wiki/Snooks_Eaglin'
 image_path: 03_Resources/source_material/ArtistPortraits/snooks_eaglin.jpg
 biography_enhanced_at: '2025-12-05T06:12:33.463154'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Snooks_Eaglin
-- https://musicrising.tulane.edu/discover/people/snooks-eaglin/
-- http://www.bluesaccess.com/No_38/snooks.html
-- https://fromthevaults-boppinbob.blogspot.com/2024/01/snooks-eaglin-born-21-january-1937.html
-- https://downatthecrossroads.wordpress.com/2022/03/02/great-blues-albums-snooks-eaglin-new-orleans-street-singer/
-- https://veritenews.org/2024/11/11/snooks-eaglin-one-of-new-orleans-most-beloved-musicians/
+  - 'https://en.wikipedia.org/wiki/Snooks_Eaglin'
+  - 'https://musicrising.tulane.edu/discover/people/snooks-eaglin/'
+  - 'http://www.bluesaccess.com/No_38/snooks.html'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2024/01/snooks-eaglin-born-21-january-1937.html
+  - >-
+    https://downatthecrossroads.wordpress.com/2022/03/02/great-blues-albums-snooks-eaglin-new-orleans-street-singer/
+  - >-
+    https://veritenews.org/2024/11/11/snooks-eaglin-one-of-new-orleans-most-beloved-musicians/
 network_extracted: true
 entry_created: '2025-12-05T06:12:33.463162'
 last_updated: '2025-12-23T08:16:15.833572'
 gender: Male
 musicbrainz_id: 8d722779-d25a-493c-a324-c21fb9024e1b
 tags:
-- blues
-- folk
-- jazz
+  - blues
+  - folk
+  - jazz
+is_active: false
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](snooks_eaglin.jpg)

@@ -3,13 +3,13 @@ title: Romy
 wiki_slug: romy
 schema_version: 2
 status: active
-birth_place: London, England, United Kingdom
+birth_place: 'London, England, United Kingdom'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/romy.jpg
   caption: Romy
   background: solo_singer
-  origin: London, England, United Kingdom
+  origin: 'London, England, United Kingdom'
 audio_profile:
   tempo_avg: 127.3
   energy_avg: 0.745
@@ -17,7 +17,7 @@ audio_profile:
   danceability_avg: 0.615
   acousticness_avg: 0.126
   instrumentalness_avg: 0.235
-  loudness_avg: -8.0
+  loudness_avg: -8
   speechiness_avg: 0.059
   liveness_avg: 0.196
   track_count: 49
@@ -25,47 +25,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jamie Smith (Jamie xx)
-  - Oliver Sim
-  - Fred (Fred again..)
+    - Jamie Smith (Jamie xx)
+    - Oliver Sim
+    - Fred (Fred again..)
   influenced:
-  - Beverley Glenn-Copeland
+    - Beverley Glenn-Copeland
   mentors:
-  - Jamie Smith (Jamie xx)
-  - Oliver Sim
+    - Jamie Smith (Jamie xx)
+    - Oliver Sim
 spotify_data:
   followers: 151190
   id: 3X2DdnmoANw8Rg8luHyZQb
   popularity: 55
-  url: https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb
+  url: 'https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb'
 discography_enriched: true
 top_tracks:
-- Loud Places (In Colour)
-- Waited All Night (In Waves)
-- Lights Out (USB)
-- Strong
-- She's On My Mind (Mid Air)
-- Loud Places (In Colour)
-- Strong (Mid Air)
-- Enjoy Your Life
-- Always Forever
-- Enjoy Your Life (Mid Air)
+  - Loud Places (In Colour)
+  - Waited All Night (In Waves)
+  - Lights Out (USB)
+  - Strong
+  - She's On My Mind (Mid Air)
+  - Loud Places (In Colour)
+  - Strong (Mid Air)
+  - Enjoy Your Life
+  - Always Forever
+  - Enjoy Your Life (Mid Air)
 external_urls:
-  spotify: https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb
+  spotify: 'https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/romy.jpg
 biography_enhanced_at: '2025-11-20T06:57:04.528693'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- romybmusic.com/meet-romy/
-- gaytimes.com/music/romy-cover-interview/
-- beatportal.com/articles/91830-artist-of-the-month-romy
-- metalmagazine.eu/en/post/romy
-- nbhap.com/stories/romy-solo-debut-album-mid-air
+  - romybmusic.com/meet-romy/
+  - gaytimes.com/music/romy-cover-interview/
+  - beatportal.com/articles/91830-artist-of-the-month-romy
+  - metalmagazine.eu/en/post/romy
+  - nbhap.com/stories/romy-solo-debut-album-mid-air
 network_extracted: true
 entry_created: '2025-11-20T06:57:04.528704'
 last_updated: '2025-12-23T08:16:15.001021'
+artist_type: person
 ---
 
 ![](romy.jpg)

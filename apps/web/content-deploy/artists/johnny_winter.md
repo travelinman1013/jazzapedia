@@ -1,28 +1,28 @@
 ---
-title: johnny winter
+title: Johnny Winter
 wiki_slug: johnny-winter
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1944-02-23'
-birth_place: Beaumont, Texas, United States
+birth_place: 'Beaumont, Texas, United States'
 death_date: '2014-07-16'
 genres:
-- blues
-- blues rock
-- classic blues
-- modern blues
+  - blues
+  - blues rock
+  - classic blues
+  - modern blues
 instruments:
-- guitar
-- harmonica
-- lead vocals
-- original
+  - guitar
+  - harmonica
+  - lead vocals
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/johnny_winter.jpg
   caption: johnny winter
   background: solo_singer
   born: '1944-02-23'
-  origin: Beaumont, Texas, United States
+  origin: 'Beaumont, Texas, United States'
   died: '2014-07-16'
 audio_profile:
   tempo_avg: 131.1
@@ -39,50 +39,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Edgar Winter
-  - Tommy Shannon
-  - Uncle John Turner
-  - Dr. John (Mac Rebennack)
-  - Muddy Waters
+    - Edgar Winter
+    - Tommy Shannon
+    - Uncle John Turner
+    - Dr. John (Mac Rebennack)
+    - Muddy Waters
   influenced:
-  - Stevie Ray Vaughan
-  - Joe Bonamassa
-  - Kenny Wayne Shepherd
+    - Stevie Ray Vaughan
+    - Joe Bonamassa
+    - Kenny Wayne Shepherd
   mentors:
-  - Muddy Waters
-  - Clarence Garlow
-  - B.B. King
+    - Muddy Waters
+    - Clarence Garlow
+    - B.B. King
 spotify_data:
   followers: 520473
   id: 2ODUxmFxJSyvGiimNhMHbO
   popularity: 41
-  url: https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO
+  url: 'https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO'
 discography_enriched: true
 top_tracks:
-- Be Careful With a Fool (Johnny Winter)
-- Life Is Hard (Let Me In)
-- Rock Me Baby (White Hot Blues)
-- Mojo Boogie - Remastered (3rd Degree (Remastered))
-- Third Degree - Remastered (3rd Degree (Remastered))
-- Rock and Roll, Hoochie Koo (Johnny Winter And)
-- Mean Mistreater (Johnny Winter)
-- Mean Town Blues - 2004 Digital Remaster (Progressive Blues Experiment)
-- Highway 61 Revisited (Second Winter)
-- Busted, Disgusted Or Dead (Still Climbing)
+  - Be Careful With a Fool (Johnny Winter)
+  - Life Is Hard (Let Me In)
+  - Rock Me Baby (White Hot Blues)
+  - Mojo Boogie - Remastered (3rd Degree (Remastered))
+  - Third Degree - Remastered (3rd Degree (Remastered))
+  - 'Rock and Roll, Hoochie Koo (Johnny Winter And)'
+  - Mean Mistreater (Johnny Winter)
+  - Mean Town Blues - 2004 Digital Remaster (Progressive Blues Experiment)
+  - Highway 61 Revisited (Second Winter)
+  - 'Busted, Disgusted Or Dead (Still Climbing)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8300d0fa-d120-47f6-a84e-91f140c74767
-  spotify: https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO
-  wikipedia: https://en.wikipedia.org/wiki/Johnny_Winter
+  musicbrainz: 'https://musicbrainz.org/artist/8300d0fa-d120-47f6-a84e-91f140c74767'
+  spotify: 'https://open.spotify.com/artist/2ODUxmFxJSyvGiimNhMHbO'
+  wikipedia: 'https://en.wikipedia.org/wiki/Johnny_Winter'
 image_path: 03_Resources/source_material/ArtistPortraits/johnny_winter.jpg
 biography_enhanced_at: '2025-10-19T10:48:57.545344'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.johnnywinter.com/about/
-- https://www.bethelwoodscenter.org/news/detail/johnny-winter-50-years-of-peace-music
-- https://blog.truefire.com/guitar-lessons/johnny-winter-the-blues-guitar-legend/
-- https://www.americanbluesscene.com/2023/02/10-things-you-didnt-know-about-johnny-winter/
-- https://simple.wikipedia.org/wiki/Johnny_Winter
+  - 'https://www.johnnywinter.com/about/'
+  - >-
+    https://www.bethelwoodscenter.org/news/detail/johnny-winter-50-years-of-peace-music
+  - >-
+    https://blog.truefire.com/guitar-lessons/johnny-winter-the-blues-guitar-legend/
+  - >-
+    https://www.americanbluesscene.com/2023/02/10-things-you-didnt-know-about-johnny-winter/
+  - 'https://simple.wikipedia.org/wiki/Johnny_Winter'
 network_extracted: true
 entry_created: '2025-10-19T10:48:57.545350'
 last_updated: '2025-12-23T08:16:10.918402'
@@ -91,10 +94,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:53:39.347700'
 musicbrainz_id: 8300d0fa-d120-47f6-a84e-91f140c74767
 tags:
-- 2008 universal fire victim
-- american
-- blues
-
+  - 2008 universal fire victim
+  - american
+  - blues
+is_active: false
 ---
 
 ![](johnny_winter.jpg)

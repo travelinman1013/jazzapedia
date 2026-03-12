@@ -3,15 +3,15 @@ title: Jeffrey Martin
 wiki_slug: jeffrey-martin
 schema_version: 2
 status: active
-birth_place: Portland, Oregon, United States
+birth_place: 'Portland, Oregon, United States'
 genres:
-- acoustic folk
-- americana
+  - acoustic folk
+  - americana
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jeffrey_martin.jpg
   caption: Jeffrey Martin
   background: solo_singer
-  origin: Portland, Oregon, United States
+  origin: 'Portland, Oregon, United States'
 audio_profile:
   tempo_avg: 120.6
   energy_avg: 0.201
@@ -29,40 +29,44 @@ musical_connections:
   collaborators: []
   influenced: []
   mentors:
-  - Josh Ritter
+    - Josh Ritter
 spotify_data:
   followers: 29327
   id: 7mIGDvDuuObf7vdxapVrmZ
   popularity: 38
-  url: https://open.spotify.com/artist/7mIGDvDuuObf7vdxapVrmZ
+  url: 'https://open.spotify.com/artist/7mIGDvDuuObf7vdxapVrmZ'
 discography_enriched: true
 top_tracks:
-- The Middle (Dogs In The Daylight)
-- Sad Blue Eyes (One Go Around)
-- Down at the Bottom (Dogs In The Daylight)
-- Thief and a Liar (Build a Home)
-- I Know What I Know (OurVinyl Sessions) (Jeffrey Martin | OurVinyl Sessions)
-- Sculptor (OurVinyl Sessions) (Jeffrey Martin | OurVinyl Sessions)
-- Coal Fire (Dogs In The Daylight)
-- Thrift Store Dress (One Go Around)
-- Golden Thread (One Go Around)
-- Garden (Thank God We Left The Garden)
+  - The Middle (Dogs In The Daylight)
+  - Sad Blue Eyes (One Go Around)
+  - Down at the Bottom (Dogs In The Daylight)
+  - Thief and a Liar (Build a Home)
+  - I Know What I Know (OurVinyl Sessions) (Jeffrey Martin | OurVinyl Sessions)
+  - Sculptor (OurVinyl Sessions) (Jeffrey Martin | OurVinyl Sessions)
+  - Coal Fire (Dogs In The Daylight)
+  - Thrift Store Dress (One Go Around)
+  - Golden Thread (One Go Around)
+  - Garden (Thank God We Left The Garden)
 external_urls:
-  spotify: https://open.spotify.com/artist/7mIGDvDuuObf7vdxapVrmZ
+  spotify: 'https://open.spotify.com/artist/7mIGDvDuuObf7vdxapVrmZ'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/jeffrey_martin.jpg
 biography_enhanced_at: '2025-12-15T01:39:17.715437'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.eartothegroundmusic.co/2018/10/31/artist-interview-oregon-singer-songwriter-jeffrey-martin-brings-working-class-music-to-the-rust-belt/
-- https://sites.up.edu/kdup/interview-jeffrey-martin/
-- https://www.lonesomehighway.com/interviewsold/2024/1/23/jeffrey-martin-interview
-- https://www.jeffreymartinmusic.com
-- https://fluffandgravy.com/artists/jeffrey-martin/
+  - >-
+    https://www.eartothegroundmusic.co/2018/10/31/artist-interview-oregon-singer-songwriter-jeffrey-martin-brings-working-class-music-to-the-rust-belt/
+  - 'https://sites.up.edu/kdup/interview-jeffrey-martin/'
+  - >-
+    https://www.lonesomehighway.com/interviewsold/2024/1/23/jeffrey-martin-interview
+  - 'https://www.jeffreymartinmusic.com'
+  - 'https://fluffandgravy.com/artists/jeffrey-martin/'
 network_extracted: true
 entry_created: '2025-12-15T01:39:17.715446'
 last_updated: '2025-12-23T08:16:10.313463'
+origin: 'Portland, Oregon, United States'
+artist_type: person
 ---
 
 ![](jeffrey_martin.jpg)

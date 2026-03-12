@@ -9,7 +9,7 @@ infobox:
   caption: Joe Krown Trio
   background: solo_singer
 audio_profile:
-  tempo_avg: 119.0
+  tempo_avg: 119
   energy_avg: 0.734
   valence_avg: 0.665
   danceability_avg: 0.615
@@ -23,52 +23,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Walter "Wolfman" Washington
-  - Russell Batiste, Jr.
-  - Wayne Maureau
-  - Brint Anderson
-  - Mike Barras
-  - Papa Mali
-  - Clarence "Gatemouth" Brown
+    - Walter "Wolfman" Washington
+    - 'Russell Batiste, Jr.'
+    - Wayne Maureau
+    - Brint Anderson
+    - Mike Barras
+    - Papa Mali
+    - Clarence "Gatemouth" Brown
   influenced:
-  - New Orleans piano students and younger musicians
+    - New Orleans piano students and younger musicians
   mentors:
-  - Professor Longhair
-  - Allen Toussaint
-  - James Booker
+    - Professor Longhair
+    - Allen Toussaint
+    - James Booker
 spotify_data:
   followers: 235
   id: 45uir3miTT0xQJ1L4bN6EG
   popularity: 0
-  url: https://open.spotify.com/artist/45uir3miTT0xQJ1L4bN6EG
+  url: 'https://open.spotify.com/artist/45uir3miTT0xQJ1L4bN6EG'
 discography_enriched: true
 top_tracks:
-- Tipitinas (Old friends)
-- Feel So Good (Old friends)
-- Keep on Gwine (Old friends)
-- Junko Partner (Old friends)
-- My Blue Heaven (Old friends)
-- The Royal Boogie (Old friends)
-- Tchoupitoulas St. Rag (Old friends)
-- 'Soul Understanding - Live (The Immunofunk Vaccination: Fridays from the Funky Uncle, Vol. 1 (Live))'
-- It Wasn't Me (Old friends)
-- Old Friends (Old friends)
+  - Tipitinas (Old friends)
+  - Feel So Good (Old friends)
+  - Keep on Gwine (Old friends)
+  - Junko Partner (Old friends)
+  - My Blue Heaven (Old friends)
+  - The Royal Boogie (Old friends)
+  - Tchoupitoulas St. Rag (Old friends)
+  - >-
+    Soul Understanding - Live (The Immunofunk Vaccination: Fridays from the
+    Funky Uncle, Vol. 1 (Live))
+  - It Wasn't Me (Old friends)
+  - Old Friends (Old friends)
 external_urls:
-  spotify: https://open.spotify.com/artist/45uir3miTT0xQJ1L4bN6EG
-  wikipedia: https://en.wikipedia.org/wiki/Joe_Krown
+  spotify: 'https://open.spotify.com/artist/45uir3miTT0xQJ1L4bN6EG'
+  wikipedia: 'https://en.wikipedia.org/wiki/Joe_Krown'
 image_path: 03_Resources/source_material/ArtistPortraits/joe_krown_trio.jpg
 biography_enhanced_at: '2025-10-24T07:39:44.330104'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Joe_Krown
-- https://www.joekrown.com/trio.htm
-- https://www.allaboutjazz.com/musicians/joe-krown/
-- https://sportsmensbuffalo.com/single/joe-krown-trio-feat-papa-mali-wsg-busted-on-bourbon-st-feat-members-of-organ-fairchild-the-brass-machine-the-cave/
+  - 'https://en.wikipedia.org/wiki/Joe_Krown'
+  - 'https://www.joekrown.com/trio.htm'
+  - 'https://www.allaboutjazz.com/musicians/joe-krown/'
+  - >-
+    https://sportsmensbuffalo.com/single/joe-krown-trio-feat-papa-mali-wsg-busted-on-bourbon-st-feat-members-of-organ-fairchild-the-brass-machine-the-cave/
 network_extracted: true
 entry_created: '2025-10-24T07:39:44.330135'
 last_updated: '2025-12-23T08:16:10.613095'
-origin: New Orleans, Louisiana, USA
+origin: 'New Orleans, Louisiana, USA'
+artist_type: person
 ---
 
 ![](joe_krown_trio.jpg)

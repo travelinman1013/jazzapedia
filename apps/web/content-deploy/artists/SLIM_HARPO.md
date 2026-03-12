@@ -1,21 +1,21 @@
 ---
-title: SLIM HARPO
+title: Slim Harpo
 wiki_slug: slim-harpo
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1924-01-11'
-birth_place: Lobdell, Louisiana, United States
+birth_place: 'Lobdell, Louisiana, United States'
 death_date: '1970-01-31'
 genres:
-- blues
-- classic blues
+  - blues
+  - classic blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/SLIM_HARPO.jpg
   caption: SLIM HARPO
   background: solo_singer
   born: '1924-01-11'
-  origin: Lobdell, Louisiana, United States
+  origin: 'Lobdell, Louisiana, United States'
   died: '1970-01-31'
 audio_profile:
   tempo_avg: 127.9
@@ -32,45 +32,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lightnin' Slim (Otis Hicks)
-  - Lovelle Moore
+    - Lightnin' Slim (Otis Hicks)
+    - Lovelle Moore
   influenced:
-  - The Rolling Stones
-  - The Kinks
-  - The Moody Blues
-  - British blues and rock musicians
+    - The Rolling Stones
+    - The Kinks
+    - The Moody Blues
+    - British blues and rock musicians
   mentors:
-  - Jay Miller
+    - Jay Miller
 spotify_data:
   followers: 61358
   id: 36hwOoNPgnsKnhoMBYpJrJ
   popularity: 38
-  url: https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ
+  url: 'https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ'
 discography_enriched: true
 top_tracks:
-- I'm A King Bee (Sings Raining In My Heart)
-- I've Got Love If You Want It (Sings Raining In My Heart)
-- Baby Scratch My Back - Single Version
-- Buzz Me, Babe (Sings Raining In My Heart)
-- Mailbox Blues - Single Version
-- I Just Can't Leave You - Single Version
-- Blues Hangover (Sings Raining In My Heart)
-- Baby, Scratch My Back (What a Dream)
-- I'm A King Bee
-- Te Ni Nee Ni Nu - Single Version
+  - I'm A King Bee (Sings Raining In My Heart)
+  - I've Got Love If You Want It (Sings Raining In My Heart)
+  - Baby Scratch My Back - Single Version
+  - 'Buzz Me, Babe (Sings Raining In My Heart)'
+  - Mailbox Blues - Single Version
+  - I Just Can't Leave You - Single Version
+  - Blues Hangover (Sings Raining In My Heart)
+  - 'Baby, Scratch My Back (What a Dream)'
+  - I'm A King Bee
+  - Te Ni Nee Ni Nu - Single Version
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/dcf7b2e3-d3aa-41e4-bba5-40515122f209
-  spotify: https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ
-  wikipedia: https://en.wikipedia.org/wiki/Slim_Harpo
+  musicbrainz: 'https://musicbrainz.org/artist/dcf7b2e3-d3aa-41e4-bba5-40515122f209'
+  spotify: 'https://open.spotify.com/artist/36hwOoNPgnsKnhoMBYpJrJ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Slim_Harpo'
 image_path: 03_Resources/source_material/ArtistPortraits/SLIM_HARPO.jpg
 biography_enhanced_at: '2025-10-19T11:33:51.804247'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Slim_Harpo
-- https://musicrising.tulane.edu/discover/people/james-slim-harpo-moore/
-- https://64parishes.org/entry/slim-harpo
-- https://www.imdb.com/name/nm1537697/bio/
+  - 'https://en.wikipedia.org/wiki/Slim_Harpo'
+  - 'https://musicrising.tulane.edu/discover/people/james-slim-harpo-moore/'
+  - 'https://64parishes.org/entry/slim-harpo'
+  - 'https://www.imdb.com/name/nm1537697/bio/'
 network_extracted: true
 entry_created: '2025-10-19T11:33:51.804256'
 last_updated: '2025-12-23T08:16:03.786277'
@@ -78,9 +78,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:42:43.780346'
 musicbrainz_id: dcf7b2e3-d3aa-41e4-bba5-40515122f209
 tags:
-- 2008 universal fire victim
-- blues
-- electric blues
+  - 2008 universal fire victim
+  - blues
+  - electric blues
+is_active: false
 ---
 
 ![](SLIM_HARPO.jpg)

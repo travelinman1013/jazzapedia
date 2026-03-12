@@ -1,17 +1,17 @@
 ---
-title: lonesome sundown
+title: Lonesome Sundown
 wiki_slug: lonesome-sundown
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1928-12-12'
-birth_place: Ascension Parish
+birth_place: 'Ascension Parish, Louisiana, United States'
 death_date: '1995-04-23'
 genres:
-- classic blues
-- blues
+  - classic blues
+  - blues
 instruments:
-- guitar
+  - guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lonesome_sundown.jpg
   caption: lonesome sundown
@@ -34,56 +34,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - J. D. 'Jay' Miller
-  - Phillip Walker
-  - Katie Webster
-  - Leroy Washington
-  - Lionel Prevost (aka Lionel Torrence)
+    - J. D. 'Jay' Miller
+    - Phillip Walker
+    - Katie Webster
+    - Leroy Washington
+    - Lionel Prevost (aka Lionel Torrence)
   influenced:
-  - Phillip Walker
+    - Phillip Walker
   mentors:
-  - Muddy Waters
-  - John Lee Hooker
-  - Cousin (unnamed)
+    - Muddy Waters
+    - John Lee Hooker
+    - Cousin (unnamed)
 spotify_data:
   followers: 1473
   id: 6AT5owmIbmW2Ktd9vI73ZJ
   popularity: 16
-  url: https://open.spotify.com/artist/6AT5owmIbmW2Ktd9vI73ZJ
+  url: 'https://open.spotify.com/artist/6AT5owmIbmW2Ktd9vI73ZJ'
 discography_enriched: true
 top_tracks:
-- Dealin' From The Bottom Of The Deck (Been Gone Too Long)
-- One More Night (Been Gone Too Long)
-- They Call Me Sundown (Been Gone Too Long)
-- 'Gonna Stick To You Baby (I''m A Mojo Man: The Best Of The Excello Singles)'
-- 'My Home Is A Prison (I''m A Mojo Man: The Best Of The Excello Singles)'
-- They Call Me Sundown (Been Gone Too Long)
-- Dealin' From The Bottom Of The Deck (Been Gone Too Long)
-- One More Night (Been Gone Too Long)
-- 'Don''t Say A Word (I''m A Mojo Man: The Best Of The Excello Singles)'
-- 'Don''t Go (I''m A Mojo Man: The Best Of The Excello Singles)'
+  - Dealin' From The Bottom Of The Deck (Been Gone Too Long)
+  - One More Night (Been Gone Too Long)
+  - They Call Me Sundown (Been Gone Too Long)
+  - 'Gonna Stick To You Baby (I''m A Mojo Man: The Best Of The Excello Singles)'
+  - 'My Home Is A Prison (I''m A Mojo Man: The Best Of The Excello Singles)'
+  - They Call Me Sundown (Been Gone Too Long)
+  - Dealin' From The Bottom Of The Deck (Been Gone Too Long)
+  - One More Night (Been Gone Too Long)
+  - 'Don''t Say A Word (I''m A Mojo Man: The Best Of The Excello Singles)'
+  - 'Don''t Go (I''m A Mojo Man: The Best Of The Excello Singles)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/654dc72e-561e-4e70-b652-40025fa6ab2a
-  spotify: https://open.spotify.com/artist/6AT5owmIbmW2Ktd9vI73ZJ
-  wikipedia: https://en.wikipedia.org/wiki/Lonesome_Sundown
+  musicbrainz: 'https://musicbrainz.org/artist/654dc72e-561e-4e70-b652-40025fa6ab2a'
+  spotify: 'https://open.spotify.com/artist/6AT5owmIbmW2Ktd9vI73ZJ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lonesome_Sundown'
 image_path: 03_Resources/source_material/ArtistPortraits/lonesome_sundown.jpg
 biography_enhanced_at: '2025-11-06T13:27:17.933662'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Lonesome_Sundown
-- https://bluesmatters.com/blues-birthday-lonesome-sundown-dec-12th-1928/
-- https://www.toppermost.co.uk/lonesome-sundown/
+  - 'https://en.wikipedia.org/wiki/Lonesome_Sundown'
+  - 'https://bluesmatters.com/blues-birthday-lonesome-sundown-dec-12th-1928/'
+  - 'https://www.toppermost.co.uk/lonesome-sundown/'
 network_extracted: true
 entry_created: '2025-11-06T13:27:17.933690'
 last_updated: '2025-12-23T08:16:12.074643'
 gender: Male
 musicbrainz_id: 654dc72e-561e-4e70-b652-40025fa6ab2a
 tags:
-- blues
-- louisiana blues
-- swamp blues
-
+  - blues
+  - louisiana blues
+  - swamp blues
+is_active: false
+origin: 'Opelousas, Louisiana, United States'
 ---
 
 ![](lonesome_sundown.jpg)

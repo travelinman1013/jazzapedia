@@ -2,16 +2,16 @@
 title: Bell Biv DeVoe
 wiki_slug: bell-biv-devoe
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1989'
 genres:
-- new jack swing
+  - new jack swing
 instruments:
-- additional
-- keyboard
-- turntable
-- background vocals
+  - additional
+  - keyboard
+  - turntable
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bell_biv_devoe.jpg
   caption: Bell Biv DeVoe
@@ -32,94 +32,94 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Hank Shocklee and Keith Shocklee
-  - Bernard Belle
-  - Eric Sadler
+    - Hank Shocklee and Keith Shocklee
+    - Bernard Belle
+    - Eric Sadler
   influenced:
-  - Jodeci
-  - Boyz II Men
-  - Dru Hill
-  - Usher
-  - Trey Songz
-  - Ne-Yo
-  - Dr. Dre and EPMD
+    - Jodeci
+    - Boyz II Men
+    - Dru Hill
+    - Usher
+    - Trey Songz
+    - Ne-Yo
+    - Dr. Dre and EPMD
   mentors:
-  - Jimmy Jam and Terry Lewis
-  - Teddy Riley
-  - Maurice Starr
+    - Jimmy Jam and Terry Lewis
+    - Teddy Riley
+    - Maurice Starr
 spotify_data:
   followers: 1144678
   id: 2zFZiWQJFFshzojycnXoTL
   popularity: 61
-  url: https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL
+  url: 'https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL'
 discography_enriched: true
 top_tracks:
-- Poison (Poison)
-- Poison (Poison (Expanded Edition))
-- Do Me! (Poison)
-- When Will I See You Smile Again? (Poison)
-- Poison
-- Poison
-- B.B.D. (I Thought It Was Me)? (Poison)
-- The Best Things In Life Are Free - Classic 7" With Rap
-- Breezy (BBD)
-- Do Me! (Poison (Expanded Edition))
+  - Poison (Poison)
+  - Poison (Poison (Expanded Edition))
+  - Do Me! (Poison)
+  - When Will I See You Smile Again? (Poison)
+  - Poison
+  - Poison
+  - B.B.D. (I Thought It Was Me)? (Poison)
+  - The Best Things In Life Are Free - Classic 7" With Rap
+  - Breezy (BBD)
+  - Do Me! (Poison (Expanded Edition))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9b16908a-a78c-45a7-8366-d2a41967f745
-  spotify: https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL
-  wikipedia: https://en.wikipedia.org/wiki/Bell_Biv_DeVoe
+  musicbrainz: 'https://musicbrainz.org/artist/9b16908a-a78c-45a7-8366-d2a41967f745'
+  spotify: 'https://open.spotify.com/artist/2zFZiWQJFFshzojycnXoTL'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bell_Biv_DeVoe'
 image_path: 03_Resources/source_material/ArtistPortraits/bell_biv_devoe.jpg
 biography_enhanced_at: '2025-12-04T07:32:15.093030'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.mmone.org/bell-biv-devoe/
-- https://www.last.fm/music/Bell+Biv+DeVoe/+wiki
-- https://en.wikipedia.org/wiki/Bell_Biv_DeVoe
-- https://www.ohjeanrecords.com/blogs/news/bell-biv-devoe-biography
-- http://www.distributedhistory.com/njsessay.htm
-- https://bellbivdevoe.com/behind-the-music-bell-biv-devoe-on-paramount/
-- https://www.laphil.com/musicdb/artists/8483/bell-biv-devoe
-- https://new-jack-swing.fandom.com/wiki/Bell_Biv_Devoe
+  - 'https://www.mmone.org/bell-biv-devoe/'
+  - 'https://www.last.fm/music/Bell+Biv+DeVoe/+wiki'
+  - 'https://en.wikipedia.org/wiki/Bell_Biv_DeVoe'
+  - 'https://www.ohjeanrecords.com/blogs/news/bell-biv-devoe-biography'
+  - 'http://www.distributedhistory.com/njsessay.htm'
+  - 'https://bellbivdevoe.com/behind-the-music-bell-biv-devoe-on-paramount/'
+  - 'https://www.laphil.com/musicdb/artists/8483/bell-biv-devoe'
+  - 'https://new-jack-swing.fandom.com/wiki/Bell_Biv_Devoe'
 network_extracted: true
 entry_created: '2025-12-04T07:32:15.093038'
 last_updated: '2025-12-23T08:16:05.210506'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f0989916-1e75-4eb2-a0e8-8cc4946c11ac
-  name: Ricky Bell
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b9d5a7f5-c965-4ea9-8bb7-5fb6f40d6f43
-  name: Michael Bivins
-- begin: ''
-  end: ''
-  instruments:
-  - additional
-  - keyboard
-  mbid: 6b64fdd0-068f-421d-af44-973aa6b79fb1
-  name: Carl Bourelly
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3f35f89e-2939-40b1-a925-319105d29751
-  name: Ronnie DeVoe
-- begin: ''
-  end: ''
-  instruments:
-  - additional
-  - turntable
-  mbid: 290035b3-24a0-4117-be41-4b2406748853
-  name: DJ Spinbad
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f0989916-1e75-4eb2-a0e8-8cc4946c11ac
+    name: Ricky Bell
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b9d5a7f5-c965-4ea9-8bb7-5fb6f40d6f43
+    name: Michael Bivins
+  - begin: ''
+    end: ''
+    instruments:
+      - additional
+      - keyboard
+    mbid: 6b64fdd0-068f-421d-af44-973aa6b79fb1
+    name: Carl Bourelly
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3f35f89e-2939-40b1-a925-319105d29751
+    name: Ronnie DeVoe
+  - begin: ''
+    end: ''
+    instruments:
+      - additional
+      - turntable
+    mbid: 290035b3-24a0-4117-be41-4b2406748853
+    name: DJ Spinbad
 musicbrainz_id: 9b16908a-a78c-45a7-8366-d2a41967f745
-origin: Boston
+origin: 'Boston, Massachusetts, United States'
 tags:
-- 2008 universal fire victim
-- contemporary r&b
-- hip hop
+  - 2008 universal fire victim
+  - contemporary r&b
+  - hip hop
 ---
 
 ![](bell_biv_devoe.jpg)

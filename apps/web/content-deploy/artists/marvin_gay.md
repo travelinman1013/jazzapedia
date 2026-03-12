@@ -1,19 +1,19 @@
 ---
-title: marvin gay
+title: Marvin Gaye
 wiki_slug: marvin-gay
 schema_version: 2
 status: active
-birth_place: Washington, D.C., United States
+birth_place: 'Washington, D.C., United States'
 genres:
-- motown
-- soul
-- northern soul
-- quiet storm
+  - motown
+  - soul
+  - northern soul
+  - quiet storm
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/marvin_gay.jpg
   caption: marvin gay
   background: solo_singer
-  origin: Washington, D.C., United States
+  origin: 'Washington, D.C., United States'
 audio_profile:
   tempo_avg: 118.6
   energy_avg: 0.566
@@ -29,54 +29,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tammi Terrell
-  - Kim Weston
-  - Diana Ross
-  - Mary Wells
-  - Smokey Robinson
+    - Tammi Terrell
+    - Kim Weston
+    - Diana Ross
+    - Mary Wells
+    - Smokey Robinson
   influenced:
-  - Prince
-  - D'Angelo
-  - Usher
-  - John Legend
+    - Prince
+    - D'Angelo
+    - Usher
+    - John Legend
   mentors:
-  - Harvey Fuqua
-  - Berry Gordy Jr.
+    - Harvey Fuqua
+    - Berry Gordy Jr.
 spotify_data:
   followers: 5962725
   id: 3koiLjNrgRTNbOwViDipeA
   popularity: 72
-  url: https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA
+  url: 'https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA'
 discography_enriched: true
 top_tracks:
-- Ain't No Mountain High Enough (United)
-- Sexual Healing (Midnight Love)
-- I Heard It Through The Grapevine (In The Groove)
-- What's Going On (What's Going On)
-- Let's Get It On (Let's Get It On)
-- Mercy Mercy Me (The Ecology) (What's Going On)
-- Got To Give It Up - Pt. 1
-- Sexual Healing - Kygo Remix
-- I Want You (I Want You (Deluxe Edition))
-- Inner City Blues (Make Me Wanna Holler) (What's Going On)
+  - Ain't No Mountain High Enough (United)
+  - Sexual Healing (Midnight Love)
+  - I Heard It Through The Grapevine (In The Groove)
+  - What's Going On (What's Going On)
+  - Let's Get It On (Let's Get It On)
+  - Mercy Mercy Me (The Ecology) (What's Going On)
+  - Got To Give It Up - Pt. 1
+  - Sexual Healing - Kygo Remix
+  - I Want You (I Want You (Deluxe Edition))
+  - Inner City Blues (Make Me Wanna Holler) (What's Going On)
 external_urls:
-  spotify: https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA
-  wikipedia: https://en.wikipedia.org/wiki/Marvin_Gaye
+  spotify: 'https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA'
+  wikipedia: 'https://en.wikipedia.org/wiki/Marvin_Gaye'
 image_path: 03_Resources/source_material/ArtistPortraits/marvin_gay.jpg
 biography_enhanced_at: '2025-10-19T11:55:42.627254'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Marvin_Gaye
-- https://classic.motown.com/artist/marvin-gaye/
-- https://www.britannica.com/biography/Marvin-Gaye
-- https://wers.org/the-vault-of-soul-marvin-gaye/
-- https://www.motownmuseum.org/artist/marvin-gaye/
-- https://rockhall.com/inductees/marvin-gaye/
+  - 'https://en.wikipedia.org/wiki/Marvin_Gaye'
+  - 'https://classic.motown.com/artist/marvin-gaye/'
+  - 'https://www.britannica.com/biography/Marvin-Gaye'
+  - 'https://wers.org/the-vault-of-soul-marvin-gaye/'
+  - 'https://www.motownmuseum.org/artist/marvin-gaye/'
+  - 'https://rockhall.com/inductees/marvin-gaye/'
 network_extracted: true
 entry_created: '2025-10-19T11:55:42.627258'
 last_updated: '2025-12-23T08:16:12.763235'
-
+birth_date: '1939-04-02'
+artist_type: person
 ---
 
 ![](marvin_gay.jpg)

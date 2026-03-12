@@ -4,8 +4,8 @@ wiki_slug: the-temptations
 schema_version: 2
 status: active
 genres:
-- motown
-- soul
+  - motown
+  - soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_temptations.jpg
   caption: The Temptations
@@ -25,53 +25,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Otis Williams
-  - Eddie Kendricks
-  - David Ruffin
-  - Melvin Franklin
-  - Paul Williams
+    - Otis Williams
+    - Eddie Kendricks
+    - David Ruffin
+    - Melvin Franklin
+    - Paul Williams
   influenced:
-  - The Supremes
-  - Four Tops
+    - The Supremes
+    - Four Tops
   mentors:
-  - Berry Gordy
-  - Smokey Robinson
-  - Norman Whitfield
+    - Berry Gordy
+    - Smokey Robinson
+    - Norman Whitfield
 spotify_data:
   followers: 3314546
   id: 3RwQ26hR2tJtA8F9p2n7jG
   popularity: 67
-  url: https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG
+  url: 'https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG'
 discography_enriched: true
 top_tracks:
-- My Girl (The Temptations Sing Smokey)
-- Papa Was A Rollin' Stone - Single Version
-- Ain't Too Proud To Beg (Gettin' Ready (Expanded Edition))
-- Just My Imagination (Running Away With Me) (Sky's The Limit)
-- Get Ready (Gettin' Ready (Expanded Edition))
-- The Way You Do The Things You Do (Meet The Temptations)
-- I Wish It Would Rain (Wish It Would Rain)
-- I Can't Get Next To You (Puzzle People)
-- Treat Her Like A Lady (Truly For You)
-- I'm Gonna Make You Love Me (Diana Ross & The Supremes Join The Temptations)
+  - My Girl (The Temptations Sing Smokey)
+  - Papa Was A Rollin' Stone - Single Version
+  - Ain't Too Proud To Beg (Gettin' Ready (Expanded Edition))
+  - Just My Imagination (Running Away With Me) (Sky's The Limit)
+  - Get Ready (Gettin' Ready (Expanded Edition))
+  - The Way You Do The Things You Do (Meet The Temptations)
+  - I Wish It Would Rain (Wish It Would Rain)
+  - I Can't Get Next To You (Puzzle People)
+  - Treat Her Like A Lady (Truly For You)
+  - I'm Gonna Make You Love Me (Diana Ross & The Supremes Join The Temptations)
 external_urls:
-  spotify: https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG
-  wikipedia: https://en.wikipedia.org/wiki/The_Temptations
+  spotify: 'https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Temptations'
 image_path: 03_Resources/source_material/ArtistPortraits/the_temptations.jpg
 biography_enhanced_at: '2025-12-15T01:33:52.704118'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Temptations
-- https://www.temptationsofficial.com/about/
-- https://www.edsullivan.com/artists/the-temptations/
-- https://www.temptationsofficial.com/history/
-- https://classic.motown.com/artist/the-temptations/
+  - 'https://en.wikipedia.org/wiki/The_Temptations'
+  - 'https://www.temptationsofficial.com/about/'
+  - 'https://www.edsullivan.com/artists/the-temptations/'
+  - 'https://www.temptationsofficial.com/history/'
+  - 'https://classic.motown.com/artist/the-temptations/'
 network_extracted: true
 entry_created: '2025-12-15T01:33:52.704129'
 last_updated: '2025-12-23T08:16:17.216496'
-origin: Detroit, Michigan, United States
-
+origin: 'Detroit, Michigan, United States'
+artist_type: band
 ---
 
 ![](the_temptations.jpg)

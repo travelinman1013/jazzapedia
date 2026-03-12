@@ -1,10 +1,10 @@
 ---
-title: JOHN HYMAN'S BAYOU STOMPERS
+title: John Hyman's Bayou Stompers
 wiki_slug: john-hymans-bayou-stompers
 schema_version: 2
 status: active
 genres:
-- ragtime
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/JOHN_HYMANS_BAYOU_STOMPERS.jpg
   caption: JOHN HYMAN'S BAYOU STOMPERS
@@ -24,46 +24,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tony Parenti
+    - Tony Parenti
   influenced:
-  - Pete Fountain
-  - George Finola
+    - Pete Fountain
+    - George Finola
   mentors:
-  - Bix Beiderbecke
-  - King Oliver
+    - Bix Beiderbecke
+    - King Oliver
 spotify_data:
   followers: 13
   id: 0KeyvnRSYroPK6V1zat8Rt
   popularity: 0
-  url: https://open.spotify.com/artist/0KeyvnRSYroPK6V1zat8Rt
+  url: 'https://open.spotify.com/artist/0KeyvnRSYroPK6V1zat8Rt'
 discography_enriched: true
 top_tracks:
-- Alligator Blues (Take 2) (The Owl's Hoot)
-- Ain't love grand? (Unissued on 78s)
-- Alligator blues (Unissued on 78s)
-- Ain't Love Grand (Don't Get Funky) (New Orleans Dance Bands)
-- Ain't Love Grand? (Take 1) (The Owl's Hoot)
-- Ain't Love Grand? (Take 2) (The Owl's Hoot)
-- Alligator Blues (Take 1) (The Owl's Hoot)
-- Ain't Love Grand? (New Orleans In The Twenties)
-- Alligator Blues (New Orleans In The Twenties)
-- 'Alligator Blues (That Devilin'' Tune: A Jazz History (1895-1950), Vol. 2 (1927-1934))'
+  - Alligator Blues (Take 2) (The Owl's Hoot)
+  - Ain't love grand? (Unissued on 78s)
+  - Alligator blues (Unissued on 78s)
+  - Ain't Love Grand (Don't Get Funky) (New Orleans Dance Bands)
+  - Ain't Love Grand? (Take 1) (The Owl's Hoot)
+  - Ain't Love Grand? (Take 2) (The Owl's Hoot)
+  - Alligator Blues (Take 1) (The Owl's Hoot)
+  - Ain't Love Grand? (New Orleans In The Twenties)
+  - Alligator Blues (New Orleans In The Twenties)
+  - >-
+    Alligator Blues (That Devilin' Tune: A Jazz History (1895-1950), Vol. 2
+    (1927-1934))
 external_urls:
-  spotify: https://open.spotify.com/artist/0KeyvnRSYroPK6V1zat8Rt
-  wikipedia: https://en.wikipedia.org/wiki/Johnny_Wiggs
+  spotify: 'https://open.spotify.com/artist/0KeyvnRSYroPK6V1zat8Rt'
+  wikipedia: 'https://en.wikipedia.org/wiki/Johnny_Wiggs'
 image_path: ''
 biography_enhanced_at: '2025-10-20T09:16:34.203915'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Johnny Wiggs
-- 64 Parishes - Know Louisiana
-- National Park Service - Jazz History
-- Music Rising - Tulane University
+  - Wikipedia - Johnny Wiggs
+  - 64 Parishes - Know Louisiana
+  - National Park Service - Jazz History
+  - Music Rising - Tulane University
 network_extracted: true
 entry_created: '2025-10-20T09:16:34.203928'
 last_updated: '2025-12-23T08:16:02.375497'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+birth_place: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![]()

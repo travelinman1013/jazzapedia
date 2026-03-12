@@ -1,16 +1,16 @@
 ---
-title: johnny jenkins
+title: Johnny Jenkins
 wiki_slug: johnny-jenkins
 schema_version: 2
 status: active
-birth_place: Macon, Georgia, United States
+birth_place: 'Macon, Georgia, United States'
 genres:
-- blues
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/johnny_jenkins.jpg
   caption: johnny jenkins
   background: solo_singer
-  origin: Macon, Georgia, United States
+  origin: 'Macon, Georgia, United States'
 audio_profile:
   tempo_avg: 115.6
   energy_avg: 0.608
@@ -18,7 +18,7 @@ audio_profile:
   danceability_avg: 0.61
   acousticness_avg: 0.471
   instrumentalness_avg: 0.115
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.051
   liveness_avg: 0.193
   track_count: 50
@@ -26,48 +26,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Otis Redding
-  - Duane Allman
-  - Chuck Leavell
-  - The Pinetoppers
+    - Otis Redding
+    - Duane Allman
+    - Chuck Leavell
+    - The Pinetoppers
   influenced:
-  - Jimi Hendrix
-  - Beck
-  - Oasis
+    - Jimi Hendrix
+    - Beck
+    - Oasis
   mentors:
-  - Bill Doggett
+    - Bill Doggett
 spotify_data:
   followers: 5980
   id: 3ghDyCR4DJVjwfcjNHUD27
   popularity: 20
-  url: https://open.spotify.com/artist/3ghDyCR4DJVjwfcjNHUD27
+  url: 'https://open.spotify.com/artist/3ghDyCR4DJVjwfcjNHUD27'
 discography_enriched: true
 top_tracks:
-- Down Along The Cove (Ton-Ton Macoute!)
-- I Walk On Guilded Splinters (Ton-Ton Macoute!)
-- Down Along The Cove (An Anthology)
-- Bashful Guitar (Handle With Care)
-- Rollin' Stone (An Anthology)
-- Leaving Trunk (Ton-Ton Macoute!)
-- Walk On Gilded Splinters (An Anthology Vol. 2)
-- Voodoo In You (Ton-Ton Macoute!)
-- Bad News (Ton-Ton Macoute!)
-- Spunky (Spunky)
+  - Down Along The Cove (Ton-Ton Macoute!)
+  - I Walk On Guilded Splinters (Ton-Ton Macoute!)
+  - Down Along The Cove (An Anthology)
+  - Bashful Guitar (Handle With Care)
+  - Rollin' Stone (An Anthology)
+  - Leaving Trunk (Ton-Ton Macoute!)
+  - Walk On Gilded Splinters (An Anthology Vol. 2)
+  - Voodoo In You (Ton-Ton Macoute!)
+  - Bad News (Ton-Ton Macoute!)
+  - Spunky (Spunky)
 external_urls:
-  spotify: https://open.spotify.com/artist/3ghDyCR4DJVjwfcjNHUD27
-  wikipedia: https://en.wikipedia.org/wiki/Johnny_Jenkins
+  spotify: 'https://open.spotify.com/artist/3ghDyCR4DJVjwfcjNHUD27'
+  wikipedia: 'https://en.wikipedia.org/wiki/Johnny_Jenkins'
 image_path: 03_Resources/source_material/ArtistPortraits/johnny_jenkins.jpg
 biography_enhanced_at: '2025-10-25T10:13:18.474618'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Johnny_Jenkins
-- https://fromthevaults-boppinbob.blogspot.com/2017/03/johnny-jenkins-born-5-march-1935.html
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/jenkins-johnny
-- https://www.latimes.com/archives/la-xpm-2006-jun-30-me-jenkins30-story.html
+  - 'https://en.wikipedia.org/wiki/Johnny_Jenkins'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2017/03/johnny-jenkins-born-5-march-1935.html
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/jenkins-johnny
+  - 'https://www.latimes.com/archives/la-xpm-2006-jun-30-me-jenkins30-story.html'
 network_extracted: true
 entry_created: '2025-10-25T10:13:18.474630'
 last_updated: '2025-12-23T08:16:10.855664'
+birth_date: '1939-03-05'
+artist_type: person
 ---
 
 ![](johnny_jenkins.jpg)

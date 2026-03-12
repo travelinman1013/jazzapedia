@@ -4,8 +4,8 @@ wiki_slug: zico-zeca
 schema_version: 2
 status: active
 genres:
-- sertanejo tradicional
-- sertanejo
+  - sertanejo tradicional
+  - sertanejo
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/zico_and_zeca.jpg
   caption: Zico & Zeca
@@ -16,7 +16,7 @@ audio_profile:
   valence_avg: 0.68
   danceability_avg: 0.7
   acousticness_avg: 0.603
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -6.6
   speechiness_avg: 0.05
   liveness_avg: 0.165
@@ -25,45 +25,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Vieira & Vieirinha
-  - Liu & Léu
+    - Vieira & Vieirinha
+    - Liu & Léu
   influenced:
-  - Liu & Léu
-  - As Galvão
+    - Liu & Léu
+    - As Galvão
   mentors:
-  - Ted Vieira
+    - Ted Vieira
 spotify_data:
   followers: 97738
   id: 3Rf9Uwfr70eqblPsUjhaBp
   popularity: 31
-  url: https://open.spotify.com/artist/3Rf9Uwfr70eqblPsUjhaBp
+  url: 'https://open.spotify.com/artist/3Rf9Uwfr70eqblPsUjhaBp'
 discography_enriched: true
 top_tracks:
-- Ilusão De Uma Vida (Cadeia Da Saudade)
-- Minha vida (Participação especial de Zico & Zeca) (Meu reino encantado II)
-- A Enxada E A Caneta (Troca Tapas)
-- Dona Felicidade (Troca Tapas)
-- Folha Seca (Troca Tapas)
-- Dona Jandira (Interpretam Seus Grandes Sucessos)
-- Folha Seca
-- A Enxada E A Caneta (Cantam Sucessos de Teddy Vieira)
-- João Ninguém (Cadeia Da Saudade)
-- Tocar e Cantar
+  - Ilusão De Uma Vida (Cadeia Da Saudade)
+  - Minha vida (Participação especial de Zico & Zeca) (Meu reino encantado II)
+  - A Enxada E A Caneta (Troca Tapas)
+  - Dona Felicidade (Troca Tapas)
+  - Folha Seca (Troca Tapas)
+  - Dona Jandira (Interpretam Seus Grandes Sucessos)
+  - Folha Seca
+  - A Enxada E A Caneta (Cantam Sucessos de Teddy Vieira)
+  - João Ninguém (Cadeia Da Saudade)
+  - Tocar e Cantar
 external_urls:
-  spotify: https://open.spotify.com/artist/3Rf9Uwfr70eqblPsUjhaBp
+  spotify: 'https://open.spotify.com/artist/3Rf9Uwfr70eqblPsUjhaBp'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/zico_and_zeca.jpg
 biography_enhanced_at: '2025-11-16T20:19:27.977984'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.youtube.com/watch?v=oQZ5SuU47KE
-- https://biografias.hi7.co/biografia-zico-e-zeca-dupla-sertaneja--5643c0a48c53c.html
-- https://www.youtube.com/watch?v=QgWv9DkPC1Y
-- https://pt.wikipedia.org/wiki/Liu_&_L%C3%A9u
+  - 'https://www.youtube.com/watch?v=oQZ5SuU47KE'
+  - >-
+    https://biografias.hi7.co/biografia-zico-e-zeca-dupla-sertaneja--5643c0a48c53c.html
+  - 'https://www.youtube.com/watch?v=QgWv9DkPC1Y'
+  - 'https://pt.wikipedia.org/wiki/Liu_&_L%C3%A9u'
 network_extracted: true
 entry_created: '2025-11-16T20:19:27.977990'
 last_updated: '2025-12-23T08:16:18.444378'
+origin: 'Interior de São Paulo, São Paulo, Brazil'
+artist_type: band
 ---
 
 ![](zico_and_zeca.jpg)

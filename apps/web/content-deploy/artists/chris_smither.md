@@ -1,22 +1,26 @@
 ---
-title: chris smither
+title: Chris Smither
 wiki_slug: chris-smither
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1944-11-11'
-birth_place: Miami, Florida, United States (birthplace); New Orleans, Louisiana, United States (raised)
+birth_place: >-
+  Miami, Florida, United States (birthplace); New Orleans, Louisiana, United
+  States (raised)
 genres:
-- acoustic folk
-- americana
-- blues
-- country blues
+  - acoustic folk
+  - americana
+  - blues
+  - country blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/chris_smither.jpg
   caption: chris smither
   background: solo_singer
   born: '1944-11-11'
-  origin: Miami, Florida, United States (birthplace); New Orleans, Louisiana, United States (raised)
+  origin: >-
+    Miami, Florida, United States (birthplace); New Orleans, Louisiana, United
+    States (raised)
 audio_profile:
   tempo_avg: 114.6
   energy_avg: 0.465
@@ -32,52 +36,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bonnie Raitt
-  - David Goodrich
-  - Zak Trojano
-  - BettySoo
-  - Tim O'Brien
+    - Bonnie Raitt
+    - David Goodrich
+    - Zak Trojano
+    - BettySoo
+    - Tim O'Brien
   influenced:
-  - The Suitcase Junket
-  - Peter Mulvey
-  - Mary Gauthier
+    - The Suitcase Junket
+    - Peter Mulvey
+    - Mary Gauthier
   mentors:
-  - Eric Von Schmidt
-  - Mississippi Fred McDowell
-  - Son House
+    - Eric Von Schmidt
+    - Mississippi Fred McDowell
+    - Son House
 spotify_data:
   followers: 41890
   id: 4PM86aECDhcdwuJNZNrR22
   popularity: 39
-  url: https://open.spotify.com/artist/4PM86aECDhcdwuJNZNrR22
+  url: 'https://open.spotify.com/artist/4PM86aECDhcdwuJNZNrR22'
 discography_enriched: true
 top_tracks:
-- Leave The Light On (Leave The Light On)
-- What They Say (Hundred Dollar Valentine)
-- Link Of Chain (Live as I'll Ever Be)
-- Maybellene (Call Me Lucky)
-- Time Stands Still (Time Stands Still)
-- Hold On I (Live as I'll Ever Be)
-- I Am The Ride (Live as I'll Ever Be)
-- No Love Today (Live as I'll Ever Be)
-- Killing the Blues (Live as I'll Ever Be)
-- She Said She Said (Call Me Lucky)
+  - Leave The Light On (Leave The Light On)
+  - What They Say (Hundred Dollar Valentine)
+  - Link Of Chain (Live as I'll Ever Be)
+  - Maybellene (Call Me Lucky)
+  - Time Stands Still (Time Stands Still)
+  - Hold On I (Live as I'll Ever Be)
+  - I Am The Ride (Live as I'll Ever Be)
+  - No Love Today (Live as I'll Ever Be)
+  - Killing the Blues (Live as I'll Ever Be)
+  - She Said She Said (Call Me Lucky)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/0667bf87-1c76-46e7-bb06-9e8bf8fb5ff8
-  spotify: https://open.spotify.com/artist/4PM86aECDhcdwuJNZNrR22
-  wikipedia: https://en.wikipedia.org/wiki/Chris_Smither
+  musicbrainz: 'https://musicbrainz.org/artist/0667bf87-1c76-46e7-bb06-9e8bf8fb5ff8'
+  spotify: 'https://open.spotify.com/artist/4PM86aECDhcdwuJNZNrR22'
+  wikipedia: 'https://en.wikipedia.org/wiki/Chris_Smither'
 image_path: 03_Resources/source_material/ArtistPortraits/chris_smither.jpg
 biography_enhanced_at: '2025-10-19T11:54:58.673060'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Chris_Smither
-- https://acousticguitar.com/approaching-his-80th-birthday-legendary-roots-singer-songwriter-chris-smither-reflects-on-lessons-from-the-stage-studio-and-woodshed/
-- https://www.museumofmakingmusic.org/more/appearances/chris-smither-2
-- https://www.wmot.org/show/the-string/2024-06-11/chris-smither-marks-60-years-in-folk-by-getting-to-the-bones
-- https://smither.com/press-kit/biography/
-- https://secure.thefreight.org/15123/15124-chris-smither-and-motivators-251210
-- https://www.lonesomehighway.com/interviewsold/2024/5/16/chris-smither-interview
+  - 'https://en.wikipedia.org/wiki/Chris_Smither'
+  - >-
+    https://acousticguitar.com/approaching-his-80th-birthday-legendary-roots-singer-songwriter-chris-smither-reflects-on-lessons-from-the-stage-studio-and-woodshed/
+  - 'https://www.museumofmakingmusic.org/more/appearances/chris-smither-2'
+  - >-
+    https://www.wmot.org/show/the-string/2024-06-11/chris-smither-marks-60-years-in-folk-by-getting-to-the-bones
+  - 'https://smither.com/press-kit/biography/'
+  - >-
+    https://secure.thefreight.org/15123/15124-chris-smither-and-motivators-251210
+  - >-
+    https://www.lonesomehighway.com/interviewsold/2024/5/16/chris-smither-interview
 network_extracted: true
 entry_created: '2025-10-19T11:54:58.673064'
 last_updated: '2025-12-23T08:16:06.901516'
@@ -86,9 +94,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:50:48.296479'
 musicbrainz_id: 0667bf87-1c76-46e7-bb06-9e8bf8fb5ff8
 tags:
-- acoustic blues
-- blues
-- contemporary folk
+  - acoustic blues
+  - blues
+  - contemporary folk
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](chris_smither.jpg)

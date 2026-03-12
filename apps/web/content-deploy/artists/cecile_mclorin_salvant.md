@@ -1,45 +1,48 @@
 ---
 biography_enhanced_at: '2026-01-03T01:44:52.338296'
-birth_place: Miami, Florida, United States
+birth_place: 'Miami, Florida, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-03T01:44:52.338310'
 external_urls:
-  spotify: https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn
-  wikipedia: https://en.wikipedia.org/wiki/C%C3%A9cile_McLorin_Salvant
+  spotify: 'https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn'
+  wikipedia: 'https://en.wikipedia.org/wiki/C%C3%A9cile_McLorin_Salvant'
 genres:
-- vocal jazz
-- french jazz
-- jazz
+  - vocal jazz
+  - french jazz
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/cecile_mclorin_salvant.jpg
 last_updated: '2026-01-03T01:44:52.338312'
 musical_connections:
   collaborators:
-  - Jean-François Bonnel
-  - Wynton Marsalis
-  - Dee Dee Bridgewater
-  - Dianne Reeves
+    - Jean-François Bonnel
+    - Wynton Marsalis
+    - Dee Dee Bridgewater
+    - Dianne Reeves
   influenced: []
   mentors:
-  - Sarah Vaughan
-  - Billie Holiday
-  - Bessie Smith
-  - Betty Carter
-  - Jessye Norman
+    - Sarah Vaughan
+    - Billie Holiday
+    - Bessie Smith
+    - Betty Carter
+    - Jessye Norman
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/C%C3%A9cile_McLorin_Salvant
-- https://www.thekurlandagency.com/kurlandpress/wp-content/uploads/2015/06/Bio_CE%CC%81CILE-McLORIN-SALVANT.pdf
-- https://www.juilliard.edu/stage-beyond/creative-enterprise/creative-associates/cecile-mclorin-salvant
-- https://www.macfound.org/fellows/class-of-2020/ccile-mclorin-salvant
+  - 'https://en.wikipedia.org/wiki/C%C3%A9cile_McLorin_Salvant'
+  - >-
+    https://www.thekurlandagency.com/kurlandpress/wp-content/uploads/2015/06/Bio_CE%CC%81CILE-McLORIN-SALVANT.pdf
+  - >-
+    https://www.juilliard.edu/stage-beyond/creative-enterprise/creative-associates/cecile-mclorin-salvant
+  - 'https://www.macfound.org/fellows/class-of-2020/ccile-mclorin-salvant'
 spotify_data:
   followers: 139168
   id: 6PkSULcbxFKkxdgrmPGAvn
   popularity: 48
-  url: https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn
+  url: 'https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn'
 status: active
 title: Cecile McLorin Salvant
-
+birth_date: '1989-08-28'
+artist_type: person
 ---
 
 ![](cecile_mclorin_salvant.jpg)

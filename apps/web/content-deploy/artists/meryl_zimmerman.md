@@ -3,16 +3,16 @@ title: Meryl Zimmerman
 wiki_slug: meryl-zimmerman
 schema_version: 2
 status: active
-birth_place: Long Island, New York, USA
+birth_place: 'Long Island, New York, USA'
 genres:
-- vocal jazz
+  - vocal jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/meryl_zimmerman.jpg
   caption: Meryl Zimmerman
   background: solo_singer
-  origin: Long Island, New York, USA
+  origin: 'Long Island, New York, USA'
 audio_profile:
-  tempo_avg: 120.0
+  tempo_avg: 120
   energy_avg: 0.282
   valence_avg: 0.394
   danceability_avg: 0.533
@@ -26,44 +26,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Hal Smith
-  - Kris Tokarski
-  - Nobu Ozaki
+    - Hal Smith
+    - Kris Tokarski
+    - Nobu Ozaki
   influenced: []
   mentors: []
 spotify_data:
   followers: 54
   id: 5cWMjaRiV7UNercciImF8A
   popularity: 2
-  url: https://open.spotify.com/artist/5cWMjaRiV7UNercciImF8A
+  url: 'https://open.spotify.com/artist/5cWMjaRiV7UNercciImF8A'
 discography_enriched: true
 top_tracks:
-- Ocho Kandelikas (Ocho Kandelikas)
-- Eight Candles (Eight Candles)
-- Snowbound (A Very Meryl Christmas)
-- Deck The Halls (A Very Meryl Christmas)
-- Good Morning Blues (A Very Meryl Christmas)
-- Blue Xmas (To Whom It May Concern) (A Very Meryl Christmas)
-- '''Zat You, Santa Claus? (A Very Meryl Christmas)'
-- River (A Very Meryl Christmas)
-- Please Come Home For Christmas (A Very Meryl Christmas)
-- Carol Of The Bells (A Very Meryl Christmas)
+  - Ocho Kandelikas (Ocho Kandelikas)
+  - Eight Candles (Eight Candles)
+  - Snowbound (A Very Meryl Christmas)
+  - Deck The Halls (A Very Meryl Christmas)
+  - Good Morning Blues (A Very Meryl Christmas)
+  - Blue Xmas (To Whom It May Concern) (A Very Meryl Christmas)
+  - '''Zat You, Santa Claus? (A Very Meryl Christmas)'
+  - River (A Very Meryl Christmas)
+  - Please Come Home For Christmas (A Very Meryl Christmas)
+  - Carol Of The Bells (A Very Meryl Christmas)
 external_urls:
-  spotify: https://open.spotify.com/artist/5cWMjaRiV7UNercciImF8A
+  spotify: 'https://open.spotify.com/artist/5cWMjaRiV7UNercciImF8A'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/meryl_zimmerman.jpg
 biography_enhanced_at: '2025-12-21T01:22:43.198188'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.merylzimmerman.com/privatelessons
-- https://syncopatedtimes.com/meryl-zimmerman-easy-to-love/
-- https://www.merylzimmerman.com
-- https://www.crescentcityjewishnews.com/meryl-zimmerman-a-finalist-in-stage-door-idol-competition/
-- https://jazzlives.wordpress.com/2023/11/08/meryl-makes-magic-meryl-zimmerman-hal-smith-kris-tokarski-nobu-ozaki-october-26-2023-new-orleans/
+  - 'https://www.merylzimmerman.com/privatelessons'
+  - 'https://syncopatedtimes.com/meryl-zimmerman-easy-to-love/'
+  - 'https://www.merylzimmerman.com'
+  - >-
+    https://www.crescentcityjewishnews.com/meryl-zimmerman-a-finalist-in-stage-door-idol-competition/
+  - >-
+    https://jazzlives.wordpress.com/2023/11/08/meryl-makes-magic-meryl-zimmerman-hal-smith-kris-tokarski-nobu-ozaki-october-26-2023-new-orleans/
 network_extracted: true
 entry_created: '2025-12-21T01:22:43.198193'
 last_updated: '2025-12-23T08:16:13.001464'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](meryl_zimmerman.jpg)

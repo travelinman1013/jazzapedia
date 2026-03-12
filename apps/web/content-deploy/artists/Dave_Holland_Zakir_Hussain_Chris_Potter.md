@@ -5,20 +5,20 @@ schema_version: 2
 status: deceased
 aliases: []
 birth_date: '1951-03-09'
-birth_place: Mumbai
+birth_place: 'Mumbai, Maharashtra, India'
 death_date: '2024-12-15'
 years_active: 1963–2024
 genres:
-- free jazz
-- jazz
+  - free jazz
+  - jazz
 instruments:
-- tabla
+  - tabla
 occupation:
-- composer
-- film actor
-- percussionist
-- DJ producer
-- musician
+  - composer
+  - film actor
+  - percussionist
+  - DJ producer
+  - musician
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Dave_Holland.jpg
   caption: Dave Holland
@@ -41,60 +41,68 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John McLaughlin
-  - Chick Corea
-  - Jack DeJohnette
-  - Herbie Hancock
-  - Mickey Hart
+    - John McLaughlin
+    - Chick Corea
+    - Jack DeJohnette
+    - Herbie Hancock
+    - Mickey Hart
   influenced:
-  - Esperanza Spalding
-  - Vijay Iyer
-  - Ben Wendel
+    - Esperanza Spalding
+    - Vijay Iyer
+    - Ben Wendel
   mentors:
-  - Miles Davis
-  - Alla Rakha
+    - Miles Davis
+    - Alla Rakha
 related_artists: []
 spotify_data:
   followers: 36813
   id: 1bqaQBqbqbEXPxLF0v6AAH
   popularity: 44
-  url: https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH
+  url: 'https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH'
   verified: false
 discography_enriched: true
 albums_count: 29
 singles_count: 22
 top_tracks:
-- The Eternal Olive Tree (After the Last Sky)
-- Bitches Brew (feat. Wayne Shorter, Bennie Maupin, John McLaughlin, Chick Corea, Joe Zawinul, Dave Holland & Harvey Brooks) (Bitches Brew)
-- Opening Day (Blue Maqams)
-- After the Last Sky
-- Vague (After the Last Sky)
-- Dancing Under the Meteorites
-- Spanish Key (feat. Wayne Shorter, Bennie Maupin, John McLaughlin, Chick Corea, Joe Zawinul, Dave Holland & Harvey Brooks) (Bitches Brew)
-- Question And Answer
-- Dancing Under the Meteorites (After the Last Sky)
-- After the Last Sky (Melancholic Oud)
+  - The Eternal Olive Tree (After the Last Sky)
+  - >-
+    Bitches Brew (feat. Wayne Shorter, Bennie Maupin, John McLaughlin, Chick
+    Corea, Joe Zawinul, Dave Holland & Harvey Brooks) (Bitches Brew)
+  - Opening Day (Blue Maqams)
+  - After the Last Sky
+  - Vague (After the Last Sky)
+  - Dancing Under the Meteorites
+  - >-
+    Spanish Key (feat. Wayne Shorter, Bennie Maupin, John McLaughlin, Chick
+    Corea, Joe Zawinul, Dave Holland & Harvey Brooks) (Bitches Brew)
+  - Question And Answer
+  - Dancing Under the Meteorites (After the Last Sky)
+  - After the Last Sky (Melancholic Oud)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH
-  wikipedia: https://en.wikipedia.org/wiki/Zakir_Hussain_(musician)
+  spotify: 'https://open.spotify.com/artist/1bqaQBqbqbEXPxLF0v6AAH'
+  wikipedia: 'https://en.wikipedia.org/wiki/Zakir_Hussain_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/Dave_Holland.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:22:40.254084'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://cadoganhall.com/whats-on/cross-currents-trio/
-- https://rachot.cz/crosscurrents-trio-zakir-hussain-dave-holland-chris-potter-2/
-- https://www.sfjazz.org/tickets/productions/23-24/dave-holland-chris-potter-zakir-hussain/
-- https://daveholland.com/recordings/crosscurrentsdave-holland-zakir-hussain-chris-potter-good-hope/
-- https://ticketing.jazz.org/6176/6178
+  - 'https://cadoganhall.com/whats-on/cross-currents-trio/'
+  - >-
+    https://rachot.cz/crosscurrents-trio-zakir-hussain-dave-holland-chris-potter-2/
+  - >-
+    https://www.sfjazz.org/tickets/productions/23-24/dave-holland-chris-potter-zakir-hussain/
+  - >-
+    https://daveholland.com/recordings/crosscurrentsdave-holland-zakir-hussain-chris-potter-good-hope/
+  - 'https://ticketing.jazz.org/6176/6178'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 12:53:50.825149
+entry_created: 2025-09-18T12:53:50.825Z
 last_updated: '2025-12-23T08:16:01.671285'
-origin: London, England, United Kingdom (Dave Holland); Mumbai, Maharashtra, India (Zakir Hussain); Chicago, Illinois, United States (Chris Potter)
-
+origin: 'London, England, United Kingdom'
+is_active: false
+artist_type: person
 ---
 
 ![](Dave_Holland.jpg)

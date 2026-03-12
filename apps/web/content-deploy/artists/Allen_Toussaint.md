@@ -2,22 +2,22 @@
 title: Allen Toussaint
 wiki_slug: allen-toussaint
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1938-01-14'
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 death_date: '2015-11-10'
 genres:
-- cajun
+  - cajun
 instruments:
-- original
-- eponymous
+  - original
+  - eponymous
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Allen_Toussaint.jpg
   caption: Allen Toussaint
   background: non_vocal_instrumentalist
   born: '1938-01-14'
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
   died: '2015-11-10'
 audio_profile:
   tempo_avg: 115.6
@@ -34,49 +34,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Meters
-  - Lee Dorsey
-  - Dr. John (Mac Rebennack)
-  - Labelle
-  - Irma Thomas
+    - The Meters
+    - Lee Dorsey
+    - Dr. John (Mac Rebennack)
+    - Labelle
+    - Irma Thomas
   influenced:
-  - Elvis Costello
-  - The Neville Brothers
-  - Paul McCartney
-  - Bonnie Raitt
+    - Elvis Costello
+    - The Neville Brothers
+    - Paul McCartney
+    - Bonnie Raitt
   mentors:
-  - Professor Longhair (Henry Roeland Byrd)
+    - Professor Longhair (Henry Roeland Byrd)
 spotify_data:
   followers: 100914
   id: 63aP18bg2ABSOqSNQcAMNy
   popularity: 41
-  url: https://open.spotify.com/artist/63aP18bg2ABSOqSNQcAMNy
+  url: 'https://open.spotify.com/artist/63aP18bg2ABSOqSNQcAMNy'
 discography_enriched: true
 top_tracks:
-- Soul Sister - Remastered Version (Life, Love And Faith)
-- Ripple - Live
-- St. James Infirmary (The Bright Mississippi)
-- Southern Nights - 2003 Remaster (Southern Nights)
-- Last Train - 2003 Remaster (Southern Nights)
-- Blue Drag (The Bright Mississippi)
-- Worldwide - 2003 Remaster (Southern Nights)
-- Yes We Can Can (Our New Orleans (Expanded Edition))
-- Night People (The Allen Toussaint Collection)
-- Here Comes The Girls - Remastered (Artist • Producer • Songwriter (Deluxe Edition))
+  - 'Soul Sister - Remastered Version (Life, Love And Faith)'
+  - Ripple - Live
+  - St. James Infirmary (The Bright Mississippi)
+  - Southern Nights - 2003 Remaster (Southern Nights)
+  - Last Train - 2003 Remaster (Southern Nights)
+  - Blue Drag (The Bright Mississippi)
+  - Worldwide - 2003 Remaster (Southern Nights)
+  - Yes We Can Can (Our New Orleans (Expanded Edition))
+  - Night People (The Allen Toussaint Collection)
+  - >-
+    Here Comes The Girls - Remastered (Artist • Producer • Songwriter (Deluxe
+    Edition))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ec21cced-2d22-4883-9ee3-f642e6e52f58
-  spotify: https://open.spotify.com/artist/63aP18bg2ABSOqSNQcAMNy
-  wikipedia: https://en.wikipedia.org/wiki/Allen_Toussaint
+  musicbrainz: 'https://musicbrainz.org/artist/ec21cced-2d22-4883-9ee3-f642e6e52f58'
+  spotify: 'https://open.spotify.com/artist/63aP18bg2ABSOqSNQcAMNy'
+  wikipedia: 'https://en.wikipedia.org/wiki/Allen_Toussaint'
 image_path: 03_Resources/source_material/ArtistPortraits/Allen_Toussaint.jpg
 biography_enhanced_at: '2025-10-21T07:02:02.236072'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.songhall.org/profiles/allen-toussaint
-- https://en.wikipedia.org/wiki/Allen_Toussaint
-- https://www.explorelouisiana.com/music/allen-toussaint
-- https://selu.libguides.com/BlackHistorySELA/toussaint
-- https://concord.com/artist/allen-toussaint-c11139/
+  - 'https://www.songhall.org/profiles/allen-toussaint'
+  - 'https://en.wikipedia.org/wiki/Allen_Toussaint'
+  - 'https://www.explorelouisiana.com/music/allen-toussaint'
+  - 'https://selu.libguides.com/BlackHistorySELA/toussaint'
+  - 'https://concord.com/artist/allen-toussaint-c11139/'
 network_extracted: true
 entry_created: '2025-10-21T07:02:02.236098'
 last_updated: '2025-12-23T08:16:00.983430'
@@ -84,9 +86,11 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:10:42.248997'
 musicbrainz_id: ec21cced-2d22-4883-9ee3-f642e6e52f58
 tags:
-- blues
-- funk
-- jazz
+  - blues
+  - funk
+  - jazz
+is_active: false
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](Allen_Toussaint.jpg)

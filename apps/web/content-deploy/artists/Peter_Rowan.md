@@ -2,26 +2,26 @@
 title: Peter Rowan
 wiki_slug: peter-rowan
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1942-07-04'
-birth_place: Wayland, Massachusetts, United States
+birth_place: 'Wayland, Massachusetts, United States'
 genres:
-- bluegrass
-- newgrass
-- americana
+  - bluegrass
+  - newgrass
+  - americana
 instruments:
-- guitar
-- original
-- banjo
-- eponymous
-- principal
+  - guitar
+  - original
+  - banjo
+  - eponymous
+  - principal
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Peter_Rowan.jpg
   caption: Peter Rowan
   background: non_vocal_instrumentalist
   born: '1942-07-04'
-  origin: Wayland, Massachusetts, United States
+  origin: 'Wayland, Massachusetts, United States'
 audio_profile:
   tempo_avg: 132.2
   energy_avg: 0.45
@@ -37,50 +37,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - David Grisman
-  - Jerry Garcia
-  - Tony Rice
-  - Chris and Lorin Rowan
-  - Vassar Clements
-  - Richard Greene
+    - David Grisman
+    - Jerry Garcia
+    - Tony Rice
+    - Chris and Lorin Rowan
+    - Vassar Clements
+    - Richard Greene
   influenced:
-  - Sam Bush
-  - Tim O'Brien
+    - Sam Bush
+    - Tim O'Brien
   mentors:
-  - Bill Monroe
-  - The Lilly Brothers
+    - Bill Monroe
+    - The Lilly Brothers
 spotify_data:
   followers: 26245
   id: 52FOkBVb83F2QduWKRqmhm
   popularity: 29
-  url: https://open.spotify.com/artist/52FOkBVb83F2QduWKRqmhm
+  url: 'https://open.spotify.com/artist/52FOkBVb83F2QduWKRqmhm'
 discography_enriched: true
 top_tracks:
-- Sweet Melinda (Texican Badman)
-- Moonlight Midnight (Quartet)
-- Gone, Baby, Gone (DAGGOMIT!)
-- Shady Grove (Quartet)
-- Winds of Rowan County
-- Ruby Ridge (Bluegrass Boy)
-- Texican Badman (Texican Badman)
-- Awake My Love (Texican Badman)
-- Alligator Alley (Tales of the Free Mexican Airforce)
-- Cold Rain and Snow (Quartet)
+  - Sweet Melinda (Texican Badman)
+  - Moonlight Midnight (Quartet)
+  - 'Gone, Baby, Gone (DAGGOMIT!)'
+  - Shady Grove (Quartet)
+  - Winds of Rowan County
+  - Ruby Ridge (Bluegrass Boy)
+  - Texican Badman (Texican Badman)
+  - Awake My Love (Texican Badman)
+  - Alligator Alley (Tales of the Free Mexican Airforce)
+  - Cold Rain and Snow (Quartet)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1d1488a5-71c0-40ef-9b79-8451a18635ec
-  spotify: https://open.spotify.com/artist/52FOkBVb83F2QduWKRqmhm
-  wikipedia: https://en.wikipedia.org/wiki/Peter_Rowan
+  musicbrainz: 'https://musicbrainz.org/artist/1d1488a5-71c0-40ef-9b79-8451a18635ec'
+  spotify: 'https://open.spotify.com/artist/52FOkBVb83F2QduWKRqmhm'
+  wikipedia: 'https://en.wikipedia.org/wiki/Peter_Rowan'
 image_path: 03_Resources/source_material/ArtistPortraits/Peter_Rowan.jpg
 biography_enhanced_at: '2025-10-20T01:52:17.445614'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.etown.org/broadcasts/etown-time-capsule-peter-rowan-aj-lee-blue-summit/
-- https://peter-rowan.com/biography
-- https://www.bluegrasshall.org/inductees/johnson-mountain-boys/
-- https://ukulelemagazine.com/stories/peter-rowan-where-bluegrass-meets-hawaiian
-- https://thebluegrasssituation.com/read/basic-folk-peter-rowan/
-- https://en.wikipedia.org/wiki/Peter_Rowan
+  - >-
+    https://www.etown.org/broadcasts/etown-time-capsule-peter-rowan-aj-lee-blue-summit/
+  - 'https://peter-rowan.com/biography'
+  - 'https://www.bluegrasshall.org/inductees/johnson-mountain-boys/'
+  - >-
+    https://ukulelemagazine.com/stories/peter-rowan-where-bluegrass-meets-hawaiian
+  - 'https://thebluegrasssituation.com/read/basic-folk-peter-rowan/'
+  - 'https://en.wikipedia.org/wiki/Peter_Rowan'
 network_extracted: true
 entry_created: '2025-10-20T01:52:17.445631'
 last_updated: '2025-12-23T08:16:03.576530'
@@ -89,8 +91,8 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:41:07.539263'
 musicbrainz_id: 1d1488a5-71c0-40ef-9b79-8451a18635ec
 tags:
-- bluegrass
-- folk
+  - bluegrass
+  - folk
 ---
 
 ![](Peter_Rowan.jpg)

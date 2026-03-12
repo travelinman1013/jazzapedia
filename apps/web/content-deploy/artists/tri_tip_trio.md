@@ -4,8 +4,8 @@ wiki_slug: tri-tip-trio
 schema_version: 2
 status: active
 genres:
-- zydeco
-- cajun
+  - zydeco
+  - cajun
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/tri_tip_trio.jpg
   caption: Tri Tip Trio
@@ -17,7 +17,7 @@ audio_profile:
   danceability_avg: 0.618
   acousticness_avg: 0.26
   instrumentalness_avg: 0.014
-  loudness_avg: -13.0
+  loudness_avg: -13
   speechiness_avg: 0.048
   liveness_avg: 0.152
   track_count: 15
@@ -25,43 +25,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Zydeco Flames
+    - Zydeco Flames
   influenced: []
   mentors: []
 spotify_data:
   followers: 8
   id: 0MYALjRKpA76k8ODIe7lUN
   popularity: 0
-  url: https://open.spotify.com/artist/0MYALjRKpA76k8ODIe7lUN
+  url: 'https://open.spotify.com/artist/0MYALjRKpA76k8ODIe7lUN'
 discography_enriched: true
 top_tracks:
-- 'Don''t Worry (3 Of a Kind: a Tribute to Clifton Chenier)'
-- 'Mardi Gras In New Orleans (3 Of a Kind: a Tribute to Clifton Chenier)'
-- 'Josephine n''est pas Ma Femme (3 Of a Kind: a Tribute to Clifton Chenier)'
-- 'My Eyes Are Tired Of Crying (3 Of a Kind: a Tribute to Clifton Chenier)'
-- 'Morning Train (3 Of a Kind: a Tribute to Clifton Chenier)'
-- 'Cabbage Alley (3 Of a Kind: a Tribute to Clifton Chenier)'
-- 'Got My Mojo Working (3 Of a Kind: a Tribute to Clifton Chenier)'
-- 'Can''t Stop Me From Loving You (3 Of a Kind: a Tribute to Clifton Chenier)'
-- 'Shake It, Don''t Break It (3 Of a Kind: a Tribute to Clifton Chenier)'
-- 'Ya Ya (3 Of a Kind: a Tribute to Clifton Chenier)'
+  - 'Don''t Worry (3 Of a Kind: a Tribute to Clifton Chenier)'
+  - 'Mardi Gras In New Orleans (3 Of a Kind: a Tribute to Clifton Chenier)'
+  - 'Josephine n''est pas Ma Femme (3 Of a Kind: a Tribute to Clifton Chenier)'
+  - 'My Eyes Are Tired Of Crying (3 Of a Kind: a Tribute to Clifton Chenier)'
+  - 'Morning Train (3 Of a Kind: a Tribute to Clifton Chenier)'
+  - 'Cabbage Alley (3 Of a Kind: a Tribute to Clifton Chenier)'
+  - 'Got My Mojo Working (3 Of a Kind: a Tribute to Clifton Chenier)'
+  - 'Can''t Stop Me From Loving You (3 Of a Kind: a Tribute to Clifton Chenier)'
+  - 'Shake It, Don''t Break It (3 Of a Kind: a Tribute to Clifton Chenier)'
+  - 'Ya Ya (3 Of a Kind: a Tribute to Clifton Chenier)'
 external_urls:
-  spotify: https://open.spotify.com/artist/0MYALjRKpA76k8ODIe7lUN
+  spotify: 'https://open.spotify.com/artist/0MYALjRKpA76k8ODIe7lUN'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/tri_tip_trio.jpg
 biography_enhanced_at: '2025-12-15T01:23:28.254313'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Sonoma Valley Patch – "The Tri-Tip Trio"[1]
-- Sonoma Magazine – zydeco scene in Sonoma, mentioning Tri-Tip Trio and its Zydeco Flames connection[2]
-- Cotati Accordion Festival artist profile – "Tri Tip Trio"[4]
-- CBS San Francisco – Bay Area Fat Tuesday celebrations featuring Tri Tip Trio[5]
-- YouTube – Tri Tip Trio performing "Oaktown Boogie" on California Live Mic[6]
+  - 'Sonoma Valley Patch – "The Tri-Tip Trio"[1]'
+  - >-
+    Sonoma Magazine – zydeco scene in Sonoma, mentioning Tri-Tip Trio and its
+    Zydeco Flames connection[2]
+  - 'Cotati Accordion Festival artist profile – "Tri Tip Trio"[4]'
+  - >-
+    CBS San Francisco – Bay Area Fat Tuesday celebrations featuring Tri Tip
+    Trio[5]
+  - 'YouTube – Tri Tip Trio performing "Oaktown Boogie" on California Live Mic[6]'
 network_extracted: true
 entry_created: '2025-12-15T01:23:28.254318'
 last_updated: '2025-12-23T08:16:17.694225'
-origin: San Francisco Bay Area, California, United States
+origin: 'San Francisco Bay Area, California, United States'
+artist_type: band
 ---
 
 ![](tri_tip_trio.jpg)

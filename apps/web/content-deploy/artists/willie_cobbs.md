@@ -1,16 +1,16 @@
 ---
-title: WILLIE COBBS
+title: Willie Cobbs
 wiki_slug: willie-cobbs
 schema_version: 2
 status: active
-birth_place: Smale, Monroe County, Arkansas, United States
+birth_place: 'Smale, Monroe County, Arkansas, United States'
 genres:
-- blues
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/willie_cobbs.jpg
   caption: WILLIE COBBS
   background: solo_singer
-  origin: Smale, Monroe County, Arkansas, United States
+  origin: 'Smale, Monroe County, Arkansas, United States'
 audio_profile:
   tempo_avg: 116.3
   energy_avg: 0.619
@@ -26,53 +26,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Eddie Boyd
-  - Billy Lee Riley
-  - Sammy Lawhorn
-  - Johnny Rawls
-  - Willie Mitchell
+    - Eddie Boyd
+    - Billy Lee Riley
+    - Sammy Lawhorn
+    - Johnny Rawls
+    - Willie Mitchell
   influenced:
-  - The Allman Brothers Band
-  - Dawn Penn
-  - Junior Wells
-  - Numerous blues and rock artists
+    - The Allman Brothers Band
+    - Dawn Penn
+    - Junior Wells
+    - Numerous blues and rock artists
   mentors:
-  - Little Walter
-  - Eddie Boyd
-  - Jimmy Reed
+    - Little Walter
+    - Eddie Boyd
+    - Jimmy Reed
 spotify_data:
   followers: 687
   id: 3r48J3gAlltGN7xQad6J0Q
   popularity: 5
-  url: https://open.spotify.com/artist/3r48J3gAlltGN7xQad6J0Q
+  url: 'https://open.spotify.com/artist/3r48J3gAlltGN7xQad6J0Q'
 discography_enriched: true
 top_tracks:
-- You Don't Love Me (Fernwood Rhythm 'N' Blues From Memphis)
-- Kiss Me One more time (Fernwood Rhythm 'N' Blues From Memphis)
-- I'll Love Only You (Best of Soul Blues)
-- 'Don''t Worry About Me (South Side Of Soul Street: The Minaret Soul Singles 1967-1976)'
-- You don't Love me (Rockin' Rhythm 'n' Blues from MEMPHIS)
-- 'I''ll Love Only You (South Side Of Soul Street: The Minaret Soul Singles 1967-1976)'
-- You Don't Love Me (You Don't Love Me)
-- You're so hard to Please (Rockin' Rhythm 'n' Blues from MEMPHIS)
-- 'You Have Done Me Wrong (Blue Diamonds: Southern Soul Gems)'
-- My Little Girl (Fernwood Rhythm 'N' Blues From Memphis)
+  - You Don't Love Me (Fernwood Rhythm 'N' Blues From Memphis)
+  - Kiss Me One more time (Fernwood Rhythm 'N' Blues From Memphis)
+  - I'll Love Only You (Best of Soul Blues)
+  - >-
+    Don't Worry About Me (South Side Of Soul Street: The Minaret Soul Singles
+    1967-1976)
+  - You don't Love me (Rockin' Rhythm 'n' Blues from MEMPHIS)
+  - >-
+    I'll Love Only You (South Side Of Soul Street: The Minaret Soul Singles
+    1967-1976)
+  - You Don't Love Me (You Don't Love Me)
+  - You're so hard to Please (Rockin' Rhythm 'n' Blues from MEMPHIS)
+  - 'You Have Done Me Wrong (Blue Diamonds: Southern Soul Gems)'
+  - My Little Girl (Fernwood Rhythm 'N' Blues From Memphis)
 external_urls:
-  spotify: https://open.spotify.com/artist/3r48J3gAlltGN7xQad6J0Q
-  wikipedia: https://en.wikipedia.org/wiki/Willie_Cobbs
+  spotify: 'https://open.spotify.com/artist/3r48J3gAlltGN7xQad6J0Q'
+  wikipedia: 'https://en.wikipedia.org/wiki/Willie_Cobbs'
 image_path: 03_Resources/source_material/ArtistPortraits/willie_cobbs.jpg
 biography_enhanced_at: '2025-11-20T07:19:44.889706'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Willie_Cobbs
-- https://www.arkansasheritage.com/blog/dah/2021/05/25/willie-cobbs-a-hidden-gem-of-the-arkansas-delta
-- https://www.bear-family.com/cobbs-willie/
-- https://www.mswritersandmusicians.com/mississippi-musicians/willie-cobbs
+  - 'https://en.wikipedia.org/wiki/Willie_Cobbs'
+  - >-
+    https://www.arkansasheritage.com/blog/dah/2021/05/25/willie-cobbs-a-hidden-gem-of-the-arkansas-delta
+  - 'https://www.bear-family.com/cobbs-willie/'
+  - 'https://www.mswritersandmusicians.com/mississippi-musicians/willie-cobbs'
 network_extracted: true
 entry_created: '2025-11-20T07:19:44.889748'
 last_updated: '2025-12-23T08:16:18.172390'
-
+birth_date: '1932-07-15'
+death_date: '2021-10-25'
+artist_type: person
 ---
 
 ![](willie_cobbs.jpg)

@@ -2,36 +2,36 @@
 title: Eddie Harris
 wiki_slug: eddie-harris
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1934-10-20'
-birth_place: Chicago, Illinois, United States
+birth_place: 'Chicago, Illinois, United States'
 death_date: '1996-11-05'
 genres:
-- soul jazz
-- jazz funk
-- hard bop
-- jazz
+  - soul jazz
+  - jazz funk
+  - hard bop
+  - jazz
 instruments:
-- tenor saxophone
-- eponymous
-- original
-- saxophone
+  - tenor saxophone
+  - eponymous
+  - original
+  - saxophone
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Eddie_Harris.jpg
   caption: Eddie Harris
   background: non_vocal_instrumentalist
   born: '1934-10-20'
-  origin: Chicago, Illinois, United States
+  origin: 'Chicago, Illinois, United States'
   died: '1996-11-05'
 audio_profile:
-  tempo_avg: 130.0
+  tempo_avg: 130
   energy_avg: 0.391
   valence_avg: 0.576
   danceability_avg: 0.601
   acousticness_avg: 0.687
   instrumentalness_avg: 0.261
-  loudness_avg: -14.0
+  loudness_avg: -14
   speechiness_avg: 0.072
   liveness_avg: 0.301
   track_count: 50
@@ -39,54 +39,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Les McCann
-  - Miles Davis
-  - Steve Winwood and Jeff Beck
+    - Les McCann
+    - Miles Davis
+    - Steve Winwood and Jeff Beck
   influenced:
-  - Miles Davis
-  - Modern jazz saxophonists
+    - Miles Davis
+    - Modern jazz saxophonists
   mentors:
-  - Captain Walter Dyett
+    - Captain Walter Dyett
 spotify_data:
   followers: 44109
   id: 0bcDOCWIbvWApEIB7l1uZ4
   popularity: 32
-  url: https://open.spotify.com/artist/0bcDOCWIbvWApEIB7l1uZ4
+  url: 'https://open.spotify.com/artist/0bcDOCWIbvWApEIB7l1uZ4'
 discography_enriched: true
 top_tracks:
-- Compared to What - Live at Montreux Jazz Festival (Swiss Movement (Montreux 30th Anniversary))
-- I Don't Want Nobody (I Need Some Money)
-- It's All Right Now (That Is Why You're Overweight)
-- Listen Here (The Electrifying Eddie Harris / Plug Me In)
-- Compared to What
-- Funkorama (Bird of Stone)
-- Compared to What - Live (Compared to What)
-- Willow Weep for Me (Bird of Stone)
-- More Soul, Than Soulful (Cool Sax, Warm Heart)
-- Cold Duck Time - Live at Montreux Jazz Festival (Swiss Movement (Montreux 30th Anniversary))
+  - >-
+    Compared to What - Live at Montreux Jazz Festival (Swiss Movement (Montreux
+    30th Anniversary))
+  - I Don't Want Nobody (I Need Some Money)
+  - It's All Right Now (That Is Why You're Overweight)
+  - Listen Here (The Electrifying Eddie Harris / Plug Me In)
+  - Compared to What
+  - Funkorama (Bird of Stone)
+  - Compared to What - Live (Compared to What)
+  - Willow Weep for Me (Bird of Stone)
+  - 'More Soul, Than Soulful (Cool Sax, Warm Heart)'
+  - >-
+    Cold Duck Time - Live at Montreux Jazz Festival (Swiss Movement (Montreux
+    30th Anniversary))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f9ba6d40-60f3-4c85-ac23-0bf67c3247e4
-  spotify: https://open.spotify.com/artist/0bcDOCWIbvWApEIB7l1uZ4
-  wikipedia: https://en.wikipedia.org/wiki/Eddie_Harris
+  musicbrainz: 'https://musicbrainz.org/artist/f9ba6d40-60f3-4c85-ac23-0bf67c3247e4'
+  spotify: 'https://open.spotify.com/artist/0bcDOCWIbvWApEIB7l1uZ4'
+  wikipedia: 'https://en.wikipedia.org/wiki/Eddie_Harris'
 image_path: 03_Resources/source_material/ArtistPortraits/Eddie_Harris.jpg
 biography_enhanced_at: '2025-10-21T07:02:33.899535'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://aaregistry.org/story/the-electrifying-eddie-harris/
-- https://kids.kiddle.co/Eddie_Harris
-- https://eddieharris.com/about/
+  - 'https://aaregistry.org/story/the-electrifying-eddie-harris/'
+  - 'https://kids.kiddle.co/Eddie_Harris'
+  - 'https://eddieharris.com/about/'
 network_extracted: true
 entry_created: '2025-10-21T07:02:33.899544'
 last_updated: '2025-12-23T08:16:01.864354'
-disambiguation: saxophone, piano, vocals
+disambiguation: 'saxophone, piano, vocals'
 gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:25:22.594450'
 musicbrainz_id: f9ba6d40-60f3-4c85-ac23-0bf67c3247e4
 tags:
-- hard bop
-- jazz
-- jazz fusion
+  - hard bop
+  - jazz
+  - jazz fusion
+is_active: false
 ---
 
 ![](Eddie_Harris.jpg)

@@ -3,14 +3,14 @@ title: Betty Davis
 wiki_slug: betty-davis
 schema_version: 2
 status: active
-birth_place: Durham, North Carolina, United States
+birth_place: 'Durham, North Carolina, United States'
 genres:
-- funk rock
+  - funk rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/betty_davis.jpg
   caption: Betty Davis
   background: solo_singer
-  origin: Durham, North Carolina, United States
+  origin: 'Durham, North Carolina, United States'
 audio_profile:
   tempo_avg: 124.6
   energy_avg: 0.654
@@ -26,62 +26,65 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sly and the Family Stone
-  - The Pointer Sisters
-  - Sylvester
-  - Larry Johnson
-  - Fred Mills
-  - Nicky Neal
-  - Louis 'Pee Wee' Kerr
-  - Carlos Morales
+    - Sly and the Family Stone
+    - The Pointer Sisters
+    - Sylvester
+    - Larry Johnson
+    - Fred Mills
+    - Nicky Neal
+    - Louis 'Pee Wee' Kerr
+    - Carlos Morales
   influenced:
-  - Prince
-  - Erykah Badu
-  - Janelle Monáe
-  - Outkast
-  - Ice Cube
-  - Talib Kweli
-  - Ludacris
+    - Prince
+    - Erykah Badu
+    - Janelle Monáe
+    - Outkast
+    - Ice Cube
+    - Talib Kweli
+    - Ludacris
   mentors:
-  - Jimi Hendrix
-  - Miles Davis
-  - Sly Stone
+    - Jimi Hendrix
+    - Miles Davis
+    - Sly Stone
 spotify_data:
   followers: 182779
   id: 5Ryxgm3uLvQOsw4H5ZpHDn
   popularity: 36
-  url: https://open.spotify.com/artist/5Ryxgm3uLvQOsw4H5ZpHDn
+  url: 'https://open.spotify.com/artist/5Ryxgm3uLvQOsw4H5ZpHDn'
 discography_enriched: true
 top_tracks:
-- They Say I'm Different (They Say I'm Different)
-- Shoo-B-Doop and Cop Him (They Say I'm Different)
-- Anti Love Song (Betty Davis)
-- Nasty Gal (Nasty Gal)
-- If I'm In Luck I Might Get Picked Up (Betty Davis)
-- They Say I'm Different (They Say I'm Different)
-- Your Mama Wants Ya Back (They Say I'm Different)
-- F.U.N.K. (Nasty Gal)
-- They Say I'm Different (They Say I'm Different)
-- Anti Love Song (Betty Davis)
+  - They Say I'm Different (They Say I'm Different)
+  - Shoo-B-Doop and Cop Him (They Say I'm Different)
+  - Anti Love Song (Betty Davis)
+  - Nasty Gal (Nasty Gal)
+  - If I'm In Luck I Might Get Picked Up (Betty Davis)
+  - They Say I'm Different (They Say I'm Different)
+  - Your Mama Wants Ya Back (They Say I'm Different)
+  - F.U.N.K. (Nasty Gal)
+  - They Say I'm Different (They Say I'm Different)
+  - Anti Love Song (Betty Davis)
 external_urls:
-  spotify: https://open.spotify.com/artist/5Ryxgm3uLvQOsw4H5ZpHDn
-  wikipedia: https://en.wikipedia.org/wiki/Betty_Davis
+  spotify: 'https://open.spotify.com/artist/5Ryxgm3uLvQOsw4H5ZpHDn'
+  wikipedia: 'https://en.wikipedia.org/wiki/Betty_Davis'
 image_path: 03_Resources/source_material/ArtistPortraits/betty_davis.jpg
 biography_enhanced_at: '2025-11-28T07:40:01.826155'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.britannica.com/biography/Betty-Davis
-- https://funkologie.com/betty-davis-raw-power-of-funk/
-- https://www.hhv-mag.com/feature/betty-davis-war-weit-mehr-als-eine-phaenomenale-funk-saengerin/?lang=en
-- https://lightintheattic.net/collections/betty-davis
-- https://en.wikipedia.org/wiki/Betty_Davis
-- https://teachrock.org/traceitback/betty-davis/
-- https://www.music.nc.gov/music-trails/nc-musician-murals-trail/betty-davis
+  - 'https://www.britannica.com/biography/Betty-Davis'
+  - 'https://funkologie.com/betty-davis-raw-power-of-funk/'
+  - >-
+    https://www.hhv-mag.com/feature/betty-davis-war-weit-mehr-als-eine-phaenomenale-funk-saengerin/?lang=en
+  - 'https://lightintheattic.net/collections/betty-davis'
+  - 'https://en.wikipedia.org/wiki/Betty_Davis'
+  - 'https://teachrock.org/traceitback/betty-davis/'
+  - 'https://www.music.nc.gov/music-trails/nc-musician-murals-trail/betty-davis'
 network_extracted: true
 entry_created: '2025-11-28T07:40:01.826166'
 last_updated: '2025-12-23T08:16:05.359631'
-
+birth_date: '1944-07-26'
+death_date: '2022-02-09'
+artist_type: person
 ---
 
 ![](betty_davis.jpg)

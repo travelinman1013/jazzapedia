@@ -1,16 +1,16 @@
 ---
-title: wilmoth houdini
+title: Wilmoth Houdini
 wiki_slug: wilmoth-houdini
 schema_version: 2
 status: active
-birth_place: Port of Spain, Trinidad and Tobago
+birth_place: 'Port of Spain, Trinidad and Tobago, United States'
 genres:
-- calypso
+  - calypso
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/wilmoth_houdini.jpg
   caption: wilmoth houdini
   background: solo_singer
-  origin: Port of Spain, Trinidad and Tobago
+  origin: 'Port of Spain, Trinidad and Tobago'
 audio_profile:
   tempo_avg: 120.3
   energy_avg: 0.423
@@ -26,44 +26,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lionel Belasco
-  - Gerald Clark's Night Owls
+    - Lionel Belasco
+    - Gerald Clark's Night Owls
   influenced:
-  - Louis Jordan and Ella Fitzgerald
-  - Port of Spain calypsonians (e.g., Johnny Walker, Sam Manning, Walter Merrick)
+    - Louis Jordan and Ella Fitzgerald
+    - >-
+      Port of Spain calypsonians (e.g., Johnny Walker, Sam Manning, Walter
+      Merrick)
   mentors:
-  - African Millionaires masquerade band
+    - African Millionaires masquerade band
 spotify_data:
   followers: 78
   id: 7GZBdVyNoXIigc7sfahbDK
   popularity: 1
-  url: https://open.spotify.com/artist/7GZBdVyNoXIigc7sfahbDK
+  url: 'https://open.spotify.com/artist/7GZBdVyNoXIigc7sfahbDK'
 discography_enriched: true
 top_tracks:
-- If I Knew You Were Comin', I'd've Baked a Cake (Calypsonians (1930 - 1960), Vol.1)
-- Caroline (Calypsonians (1930 - 1960), Vol.1)
-- Don't Sell Daddy Any More Whiskey (Calypso Carnival (1914 - 1940))
-- Way Down Sobo (Calypso Carnival (1914 - 1940))
-- Caroline (feat. Lionel Belasco and His Orchestra) (Islands in the Sun)
-- Poor But Ambitious (Stranded In The USA - Early Songs Of Emigration)
-- 'Contantine (Trinidad Loves to Play Carnival: Carnival, Calenda and Calypso from Trinidad 1914 - 1939)'
-- 'Good-Night Ladies & Gents (Trinidad Loves to Play Carnival: Carnival, Calenda and Calypso from Trinidad 1914 - 1939)'
-- 'Executor Doomed to Die (Trinidad Loves to Play Carnival: Carnival, Calenda and Calypso from Trinidad 1914 - 1939)'
-- Caroline (Calypsonians (1930 - 1960), Vol.1)
+  - >-
+    If I Knew You Were Comin', I'd've Baked a Cake (Calypsonians (1930 - 1960),
+    Vol.1)
+  - 'Caroline (Calypsonians (1930 - 1960), Vol.1)'
+  - Don't Sell Daddy Any More Whiskey (Calypso Carnival (1914 - 1940))
+  - Way Down Sobo (Calypso Carnival (1914 - 1940))
+  - Caroline (feat. Lionel Belasco and His Orchestra) (Islands in the Sun)
+  - Poor But Ambitious (Stranded In The USA - Early Songs Of Emigration)
+  - >-
+    Contantine (Trinidad Loves to Play Carnival: Carnival, Calenda and Calypso
+    from Trinidad 1914 - 1939)
+  - >-
+    Good-Night Ladies & Gents (Trinidad Loves to Play Carnival: Carnival,
+    Calenda and Calypso from Trinidad 1914 - 1939)
+  - >-
+    Executor Doomed to Die (Trinidad Loves to Play Carnival: Carnival, Calenda
+    and Calypso from Trinidad 1914 - 1939)
+  - 'Caroline (Calypsonians (1930 - 1960), Vol.1)'
 external_urls:
-  spotify: https://open.spotify.com/artist/7GZBdVyNoXIigc7sfahbDK
-  wikipedia: https://en.wikipedia.org/wiki/Wilmoth_Houdini
+  spotify: 'https://open.spotify.com/artist/7GZBdVyNoXIigc7sfahbDK'
+  wikipedia: 'https://en.wikipedia.org/wiki/Wilmoth_Houdini'
 image_path: ''
 biography_enhanced_at: '2025-10-31T08:18:02.114055'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://tropicalfete.com/new-yorks-first-calypso-superstar-wilmoth-houdini/
-- https://en.wikipedia.org/wiki/Wilmoth_Houdini
-- https://folkways-media.si.edu/docs/folkways/artwork/ARH07010.pdf
+  - 'https://tropicalfete.com/new-yorks-first-calypso-superstar-wilmoth-houdini/'
+  - 'https://en.wikipedia.org/wiki/Wilmoth_Houdini'
+  - 'https://folkways-media.si.edu/docs/folkways/artwork/ARH07010.pdf'
 network_extracted: true
 entry_created: '2025-10-31T08:18:02.114075'
 last_updated: '2025-12-23T08:16:18.229556'
+artist_type: person
 ---
 
 ![]()

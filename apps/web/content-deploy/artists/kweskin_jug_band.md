@@ -1,10 +1,10 @@
 ---
-title: kweskin jug band
+title: The Jim Kweskin Jug Band
 wiki_slug: kweskin-jug-band
 schema_version: 2
 status: active
 genres:
-- traditional folk
+  - traditional folk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/kweskin_jug_band.jpg
   caption: kweskin jug band
@@ -24,54 +24,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Geoff Muldaur
-  - Fritz Richmond
-  - Maria Muldaur
-  - Bob Siggins
-  - Bruno Wolfe
-  - Mel Lyman
+    - Geoff Muldaur
+    - Fritz Richmond
+    - Maria Muldaur
+    - Bob Siggins
+    - Bruno Wolfe
+    - Mel Lyman
   influenced:
-  - Grateful Dead
-  - The Lovin’ Spoonful
-  - Carolina Chocolate Drops
-  - Spirit Family Reunion
+    - Grateful Dead
+    - The Lovin’ Spoonful
+    - Carolina Chocolate Drops
+    - Spirit Family Reunion
   mentors:
-  - Blind Boy Fuller
-  - Mississippi John Hurt
+    - Blind Boy Fuller
+    - Mississippi John Hurt
 spotify_data:
   followers: 1423
   id: 3rIKyPd5haTa40autKGc1q
   popularity: 4
-  url: https://open.spotify.com/artist/3rIKyPd5haTa40autKGc1q
+  url: 'https://open.spotify.com/artist/3rIKyPd5haTa40autKGc1q'
 discography_enriched: true
 top_tracks:
-- Sadie Green (The Vamp Of New Orleans) (Folk Music At Newport)
-- Washington At Valley Forge (Jim Kweskin And The Jug Band)
-- If You're a Viper (Garden of Joy)
-- Minglewood (Garden of Joy)
-- Sweet Sue (Jim Kweskin And The Jug Band)
-- The Sheik of Araby (Garden of Joy)
-- I Ain't Gonna Marry (Garden of Joy)
-- Coney Island Washboard (Jim Kweskin And The Jug Band)
-- When I Was a Cowboy (Western Plains) (Garden of Joy)
-- Mood Indigo (Garden of Joy)
+  - Sadie Green (The Vamp Of New Orleans) (Folk Music At Newport)
+  - Washington At Valley Forge (Jim Kweskin And The Jug Band)
+  - If You're a Viper (Garden of Joy)
+  - Minglewood (Garden of Joy)
+  - Sweet Sue (Jim Kweskin And The Jug Band)
+  - The Sheik of Araby (Garden of Joy)
+  - I Ain't Gonna Marry (Garden of Joy)
+  - Coney Island Washboard (Jim Kweskin And The Jug Band)
+  - When I Was a Cowboy (Western Plains) (Garden of Joy)
+  - Mood Indigo (Garden of Joy)
 external_urls:
-  spotify: https://open.spotify.com/artist/3rIKyPd5haTa40autKGc1q
-  wikipedia: https://en.wikipedia.org/wiki/Jim_Kweskin
+  spotify: 'https://open.spotify.com/artist/3rIKyPd5haTa40autKGc1q'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jim_Kweskin'
 image_path: 03_Resources/source_material/ArtistPortraits/kweskin_jug_band.jpg
 biography_enhanced_at: '2025-11-11T09:37:50.650834'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jim_Kweskin
-- https://oldtimeparty.wordpress.com/2015/05/03/kweskins-jug-band/
-- https://www.mmone.org/jim-kweskin-and-the-jug-band/
-- https://folkalley.com/basic-folk-with-cindy-howes-jim-kweskin/
-- https://xpn.org/2025/07/10/60-years-in-folk-legend-jim-kweskin-is-still-a-faithful-student-of-his-craft/
+  - 'https://en.wikipedia.org/wiki/Jim_Kweskin'
+  - 'https://oldtimeparty.wordpress.com/2015/05/03/kweskins-jug-band/'
+  - 'https://www.mmone.org/jim-kweskin-and-the-jug-band/'
+  - 'https://folkalley.com/basic-folk-with-cindy-howes-jim-kweskin/'
+  - >-
+    https://xpn.org/2025/07/10/60-years-in-folk-legend-jim-kweskin-is-still-a-faithful-student-of-his-craft/
 network_extracted: true
 entry_created: '2025-11-11T09:37:50.650846'
 last_updated: '2025-12-23T08:16:11.495739'
-origin: Cambridge, Massachusetts, USA
+origin: 'Cambridge, Massachusetts, USA'
+artist_type: band
 ---
 
 ![](kweskin_jug_band.jpg)

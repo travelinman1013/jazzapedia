@@ -3,53 +3,62 @@ biography_enhanced_at: '2025-12-29T01:20:28.521588'
 enhancement_provider: perplexity
 entry_created: '2025-12-29T01:20:28.521603'
 external_urls:
-  spotify: https://open.spotify.com/artist/66nb5pwDsLK0VohyTk5ICJ
-  wikipedia: https://fr.wikipedia.org/wiki/Brain_Damage_(groupe_de_dub)
+  spotify: 'https://open.spotify.com/artist/66nb5pwDsLK0VohyTk5ICJ'
+  wikipedia: 'https://fr.wikipedia.org/wiki/Brain_Damage_(groupe_de_dub)'
 genres:
-- reggae pop
-- dub
+  - reggae pop
+  - dub
 image_path: 03_Resources/source_material/ArtistPortraits/brain_damage_emiko_ota.jpg
 last_updated: '2025-12-29T01:20:28.521605'
 musical_connections:
   collaborators:
-  - Mad Professor
-  - Raphaël Talis
-  - OXZ and Osaka underground collaborators
-  - Acid Mothers Temple
-  - Rihanna (and mainstream/pop collaborators)
-  - KiriSaki Nin (anime‑song cover band) and Ensemble Sakura
-  - Various popular and underground artists (e.g., projects on labels like Captured
-    Tracks)
-  - International artists in Jamaica, Colombia and other regions
-  - Brain Damage (Martin Nathan) & Emiko Ota (core partnership)
+    - Mad Professor
+    - Raphaël Talis
+    - OXZ and Osaka underground collaborators
+    - Acid Mothers Temple
+    - Rihanna (and mainstream/pop collaborators)
+    - KiriSaki Nin (anime‑song cover band) and Ensemble Sakura
+    - >-
+      Various popular and underground artists (e.g., projects on labels like
+      Captured Tracks)
+    - 'International artists in Jamaica, Colombia and other regions'
+    - Brain Damage (Martin Nathan) & Emiko Ota (core partnership)
   influenced:
-  - ''
+    - ''
   mentors:
-  - UK and Jamaican dub pioneers (e.g., Mad Professor, Lee “Scratch” Perry, Dennis
-    Bovell)
-  - Osaka underground rock and Japanese experimental scenes
+    - >-
+      UK and Jamaican dub pioneers (e.g., Mad Professor, Lee “Scratch” Perry,
+      Dennis Bovell)
+    - Osaka underground rock and Japanese experimental scenes
 network_extracted: true
-origin: Saint-Étienne, Auvergne-Rhône-Alpes, France (Brain Damage); Osaka, Osaka Prefecture,
-  Japan (Emiko Ota)
+origin: >-
+  Saint-Étienne, Auvergne-Rhône-Alpes, France (Brain Damage); Osaka, Osaka
+  Prefecture, Japan (Emiko Ota)
 primary_source: perplexity
 research_sources:
-- truthandliesmusic.com review of Brain Damage x Emiko Ota x Mad Professor – Oide
-  Oide[1]
-- The Tone Arm feature and interview on Brain Damage’s post‑dub pivot and collaboration
-  with Emiko Ota[2]
-- Official Brain Damage page for *Oide Oide* (Jarring Effects release)[3]
-- French Wikipedia entry for Brain Damage (groupe de dub)[4]
-- ROVR artist overview for Brain Damage, Emiko Ota, Mad Professor[5]
-- Ban Ban Ton Ton review of Brain Damage, Emiko Ota & Mad Professor – Oide Oide[6]
-- Emiko Ota official site discography listing Brain Damage / Combat Dub 4 – Revisited
-  – “Under the ground”[7]
+  - >-
+    truthandliesmusic.com review of Brain Damage x Emiko Ota x Mad Professor –
+    Oide Oide[1]
+  - >-
+    The Tone Arm feature and interview on Brain Damage’s post‑dub pivot and
+    collaboration with Emiko Ota[2]
+  - 'Official Brain Damage page for *Oide Oide* (Jarring Effects release)[3]'
+  - 'French Wikipedia entry for Brain Damage (groupe de dub)[4]'
+  - 'ROVR artist overview for Brain Damage, Emiko Ota, Mad Professor[5]'
+  - >-
+    Ban Ban Ton Ton review of Brain Damage, Emiko Ota & Mad Professor – Oide
+    Oide[6]
+  - >-
+    Emiko Ota official site discography listing Brain Damage / Combat Dub 4 –
+    Revisited – “Under the ground”[7]
 spotify_data:
   followers: 350
   id: 66nb5pwDsLK0VohyTk5ICJ
   popularity: 9
-  url: https://open.spotify.com/artist/66nb5pwDsLK0VohyTk5ICJ
+  url: 'https://open.spotify.com/artist/66nb5pwDsLK0VohyTk5ICJ'
 status: active
-title: Brain Damage, Emiko Ota
+title: 'Brain Damage, Emiko Ota'
+artist_type: band
 ---
 
 ![](brain_damage_emiko_ota.jpg)

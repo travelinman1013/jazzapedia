@@ -1,56 +1,58 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 019cc3c3-57e0-4baf-847d-16fdfedfb91f
-  name: S'il Vous Play
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 019cc3c3-57e0-4baf-847d-16fdfedfb91f
+    name: S'il Vous Play
 biography_enhanced_at: '2026-01-21T01:13:34.101930'
 birth_place: France
 enhancement_provider: perplexity
 entry_created: '2026-01-21T01:13:34.101936'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/74991b06-ca74-4458-85ea-2d1d070fd37f
-  spotify: https://open.spotify.com/artist/3V2paBXEoZIAhfZRJmo2jL
+  musicbrainz: 'https://musicbrainz.org/artist/74991b06-ca74-4458-85ea-2d1d070fd37f'
+  spotify: 'https://open.spotify.com/artist/3V2paBXEoZIAhfZRJmo2jL'
   wikipedia: ''
 genres:
-- trip hop
+  - trip hop
 image_path: 03_Resources/source_material/ArtistPortraits/degiheugi.jpg
 last_updated: '2026-01-21T01:13:34.101937'
 musical_connections:
   collaborators:
-  - Chill Bump
-  - Ceschi
-  - Astronautalis
-  - ASM
-  - Hugo Kant
-  - Miscellaneous
-  - The Architect
-  - DJ Vadim
+    - Chill Bump
+    - Ceschi
+    - Astronautalis
+    - ASM
+    - Hugo Kant
+    - Miscellaneous
+    - The Architect
+    - DJ Vadim
   influenced: []
   mentors:
-  - Wu-Tang Clan
-  - DJ Shadow
-  - Pete Rock
+    - Wu-Tang Clan
+    - DJ Shadow
+    - Pete Rock
 musicbrainz_id: 74991b06-ca74-4458-85ea-2d1d070fd37f
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Degiheugi/+wiki
-- https://www.degiheugi.com/about-me/
-- https://www.aaemusic.com/artist/degiheugi
-- https://www.theaudiodb.com/artist/154703-Degiheugi
-- https://www.psychedelicbabymag.com/2021/11/degiheugi-interview-in-search-of-the-ultimate-sample.html
-- https://www.deezer.com/us/artist/4037758
-- https://www.last.fm/music/Degiheugi
+  - 'https://www.last.fm/music/Degiheugi/+wiki'
+  - 'https://www.degiheugi.com/about-me/'
+  - 'https://www.aaemusic.com/artist/degiheugi'
+  - 'https://www.theaudiodb.com/artist/154703-Degiheugi'
+  - >-
+    https://www.psychedelicbabymag.com/2021/11/degiheugi-interview-in-search-of-the-ultimate-sample.html
+  - 'https://www.deezer.com/us/artist/4037758'
+  - 'https://www.last.fm/music/Degiheugi'
 spotify_data:
   followers: 117702
   id: 3V2paBXEoZIAhfZRJmo2jL
   popularity: 52
-  url: https://open.spotify.com/artist/3V2paBXEoZIAhfZRJmo2jL
+  url: 'https://open.spotify.com/artist/3V2paBXEoZIAhfZRJmo2jL'
 status: active
 title: Degiheugi
+origin: France
 ---
 
 ![](degiheugi.jpg)

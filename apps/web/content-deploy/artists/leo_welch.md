@@ -3,13 +3,13 @@ title: Leo Welch
 wiki_slug: leo-welch
 schema_version: 2
 status: active
-birth_place: Sabougla, Mississippi, USA
+birth_place: 'Sabougla, Mississippi, USA'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/leo_welch.jpg
   caption: Leo Welch
   background: solo_singer
-  origin: Sabougla, Mississippi, USA
+  origin: 'Sabougla, Mississippi, USA'
 audio_profile:
   tempo_avg: 123.2
   energy_avg: 0.498
@@ -25,56 +25,76 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Vencie Varnado
-  - Sabougla Voices
-  - Skuna Valley Male Chorus
-  - Dan Auerbach
+    - Vencie Varnado
+    - Sabougla Voices
+    - Skuna Valley Male Chorus
+    - Dan Auerbach
   influenced:
-  - Younger Mississippi blues and gospel musicians
+    - Younger Mississippi blues and gospel musicians
   mentors:
-  - L.C. Welch
+    - L.C. Welch
 spotify_data:
   followers: 1
   id: 3uupY97tSw6Kwl2jJskfBd
   popularity: 0
-  url: https://open.spotify.com/artist/3uupY97tSw6Kwl2jJskfBd
+  url: 'https://open.spotify.com/artist/3uupY97tSw6Kwl2jJskfBd'
 discography_enriched: true
 top_tracks:
-- 'Abdelazar Suite, Z. 570: II. Rondeau (Arr. for Guitars) [Live] (2016 Florida Music Educators Association (FMEA): All-State
-  Guitar Ensemble & All-State Elementary Orff Ensemble [Live])'
-- 'Rondo for 3 Guitars (Live) (2016 Florida Music Educators Association (FMEA): All-State Guitar Ensemble & All-State Elementary
-  Orff Ensemble [Live])'
-- 'Divergent Rondo (Live) (2016 Florida Music Educators Association (FMEA): All-State Guitar Ensemble & All-State Elementary
-  Orff Ensemble [Live])'
-- 'Secure the Moon with 3 Rings (Live) (2016 Florida Music Educators Association (FMEA): All-State Guitar Ensemble & All-State
-  Elementary Orff Ensemble [Live])'
-- 'Shades of Light (Live) (2016 Florida Music Educators Association (FMEA): All-State Guitar Ensemble & All-State Elementary
-  Orff Ensemble [Live])'
-- 'Danças populares brasileiras: V. Frevo (Live) (2016 Florida Music Educators Association (FMEA): All-State Guitar Ensemble
-  & All-State Elementary Orff Ensemble [Live])'
-- 'Danças populares brasileiras: II. Ponteio (Live) (2016 Florida Music Educators Association (FMEA): All-State Guitar Ensemble
-  & All-State Elementary Orff Ensemble [Live])'
-- 'Abdelazar Suite, Z. 570: II. Rondeau (Arr. for Guitars) [Live] (2016 Florida Music Educators Association (FMEA): All-State
-  Guitar Ensemble & All-State Elementary Orff Ensemble [Live])'
-- 'Rondo for 3 Guitars (Live) (2016 Florida Music Educators Association (FMEA): All-State Guitar Ensemble & All-State Elementary
-  Orff Ensemble [Live])'
-- 'Divergent Rondo (Live) (2016 Florida Music Educators Association (FMEA): All-State Guitar Ensemble & All-State Elementary
-  Orff Ensemble [Live])'
+  - >-
+    Abdelazar Suite, Z. 570: II. Rondeau (Arr. for Guitars) [Live] (2016 Florida
+    Music Educators Association (FMEA): All-State Guitar Ensemble & All-State
+    Elementary Orff Ensemble [Live])
+  - >-
+    Rondo for 3 Guitars (Live) (2016 Florida Music Educators Association (FMEA):
+    All-State Guitar Ensemble & All-State Elementary Orff Ensemble [Live])
+  - >-
+    Divergent Rondo (Live) (2016 Florida Music Educators Association (FMEA):
+    All-State Guitar Ensemble & All-State Elementary Orff Ensemble [Live])
+  - >-
+    Secure the Moon with 3 Rings (Live) (2016 Florida Music Educators
+    Association (FMEA): All-State Guitar Ensemble & All-State Elementary Orff
+    Ensemble [Live])
+  - >-
+    Shades of Light (Live) (2016 Florida Music Educators Association (FMEA):
+    All-State Guitar Ensemble & All-State Elementary Orff Ensemble [Live])
+  - >-
+    Danças populares brasileiras: V. Frevo (Live) (2016 Florida Music Educators
+    Association (FMEA): All-State Guitar Ensemble & All-State Elementary Orff
+    Ensemble [Live])
+  - >-
+    Danças populares brasileiras: II. Ponteio (Live) (2016 Florida Music
+    Educators Association (FMEA): All-State Guitar Ensemble & All-State
+    Elementary Orff Ensemble [Live])
+  - >-
+    Abdelazar Suite, Z. 570: II. Rondeau (Arr. for Guitars) [Live] (2016 Florida
+    Music Educators Association (FMEA): All-State Guitar Ensemble & All-State
+    Elementary Orff Ensemble [Live])
+  - >-
+    Rondo for 3 Guitars (Live) (2016 Florida Music Educators Association (FMEA):
+    All-State Guitar Ensemble & All-State Elementary Orff Ensemble [Live])
+  - >-
+    Divergent Rondo (Live) (2016 Florida Music Educators Association (FMEA):
+    All-State Guitar Ensemble & All-State Elementary Orff Ensemble [Live])
 external_urls:
-  spotify: https://open.spotify.com/artist/3uupY97tSw6Kwl2jJskfBd
-  wikipedia: https://en.wikipedia.org/wiki/Leo_Bud_Welch
+  spotify: 'https://open.spotify.com/artist/3uupY97tSw6Kwl2jJskfBd'
+  wikipedia: 'https://en.wikipedia.org/wiki/Leo_Bud_Welch'
 image_path: 03_Resources/source_material/ArtistPortraits/leo_welch.jpg
 biography_enhanced_at: '2025-11-08T21:55:35.120307'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://concord.com/artist/leo-bud-welch/
-- https://www.imdb.com/name/nm6611003/bio/
-- https://blues.gr/profiles/blogs/the-story-of-leo-bud-welch-by-wolfgang-almer-interview-with-the
-- https://www.crossrhythms.co.uk/articles/music/Leo_Bud_Welch_Remembering_the_late_blues_and_gospel_singer/63373/p1/
+  - 'https://concord.com/artist/leo-bud-welch/'
+  - 'https://www.imdb.com/name/nm6611003/bio/'
+  - >-
+    https://blues.gr/profiles/blogs/the-story-of-leo-bud-welch-by-wolfgang-almer-interview-with-the
+  - >-
+    https://www.crossrhythms.co.uk/articles/music/Leo_Bud_Welch_Remembering_the_late_blues_and_gospel_singer/63373/p1/
 network_extracted: true
 entry_created: '2025-11-08T21:55:35.120323'
 last_updated: '2025-12-23T08:16:11.800833'
+birth_date: '1932-03-22'
+death_date: '2017-12-19'
+artist_type: person
 ---
 
 ![](leo_welch.jpg)

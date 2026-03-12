@@ -3,14 +3,15 @@ title: Dollar Brand/Abdullah Ibrahim
 wiki_slug: dollar-brandabdullah-ibrahim
 schema_version: 2
 status: active
-birth_place: Cape Town, Western Cape, South Africa
+birth_place: 'Cape Town, Western Cape, South Africa'
 genres:
-- jazz
+  - jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/dollar_brandabdullah_ibrahim.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/dollar_brandabdullah_ibrahim.jpg
   caption: Dollar Brand/Abdullah Ibrahim
   background: solo_singer
-  origin: Cape Town, Western Cape, South Africa
+  origin: 'Cape Town, Western Cape, South Africa'
 audio_profile:
   tempo_avg: 103.9
   energy_avg: 0.156
@@ -26,56 +27,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sathima Bea Benjamin
-  - Kippie Moeketsi
-  - Hugh Masekela
-  - Jonas Gwangwa
-  - Johnny Gertze
-  - Makaya Ntshoko
-  - Elvin Jones
-  - Don Cherry, Ornette Coleman, John Coltrane, Pharoah Sanders, Cecil Taylor, Archie Shepp
+    - Sathima Bea Benjamin
+    - Kippie Moeketsi
+    - Hugh Masekela
+    - Jonas Gwangwa
+    - Johnny Gertze
+    - Makaya Ntshoko
+    - Elvin Jones
+    - >-
+      Don Cherry, Ornette Coleman, John Coltrane, Pharoah Sanders, Cecil Taylor,
+      Archie Shepp
   influenced:
-  - Kyle Shepherd
-  - Nduduzo Makhathini
-  - Generations of South African jazz musicians
+    - Kyle Shepherd
+    - Nduduzo Makhathini
+    - Generations of South African jazz musicians
   mentors:
-  - Thelonious Monk
-  - Duke Ellington
-  - Albert Ammons
-  - Hall Overton
+    - Thelonious Monk
+    - Duke Ellington
+    - Albert Ammons
+    - Hall Overton
 spotify_data:
   followers: 66677
   id: 39mb0I6tdTcCXkeigvzxOJ
   popularity: 38
-  url: https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ
+  url: 'https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ'
 discography_enriched: true
 top_tracks:
-- Dreamtime (The Balance)
-- The Balance (The Balance)
-- Trieste My Love (Solotude)
-- Mindiff (Solotude)
-- Blue Bolero (Solotude)
-- Maraba Blue (Cape Town Flowers)
-- Soweto (Cape Town Revisited)
-- Water From An Ancient Well (Cape Town Revisited)
-- 'Earth Bird (The Enja Heritage Collection: Mindif)'
-- Tonegawa (The Balance)
+  - Dreamtime (The Balance)
+  - The Balance (The Balance)
+  - Trieste My Love (Solotude)
+  - Mindiff (Solotude)
+  - Blue Bolero (Solotude)
+  - Maraba Blue (Cape Town Flowers)
+  - Soweto (Cape Town Revisited)
+  - Water From An Ancient Well (Cape Town Revisited)
+  - 'Earth Bird (The Enja Heritage Collection: Mindif)'
+  - Tonegawa (The Balance)
 external_urls:
-  spotify: https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ
-  wikipedia: https://en.wikipedia.org/wiki/Abdullah_Ibrahim
+  spotify: 'https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Abdullah_Ibrahim'
 image_path: 03_Resources/source_material/ArtistPortraits/dollar_brandabdullah_ibrahim.jpg
 biography_enhanced_at: '2025-11-20T06:32:50.721465'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://abdullahibrahim.co.za/biography/
-- https://www.worldmusicinstitute.org/abdullahibrahim92ny/
-- https://sahistory.org.za/article/biography-abdullah-ibrahim-chance-overby
-- https://schwarzman.yale.edu/artist/abdullah-ibrahim
-- https://en.wikipedia.org/wiki/Abdullah_Ibrahim
+  - 'https://abdullahibrahim.co.za/biography/'
+  - 'https://www.worldmusicinstitute.org/abdullahibrahim92ny/'
+  - 'https://sahistory.org.za/article/biography-abdullah-ibrahim-chance-overby'
+  - 'https://schwarzman.yale.edu/artist/abdullah-ibrahim'
+  - 'https://en.wikipedia.org/wiki/Abdullah_Ibrahim'
 network_extracted: true
 entry_created: '2025-11-20T06:32:50.721469'
 last_updated: '2025-12-23T08:16:07.838313'
+birth_date: '1934-10-09'
+artist_type: person
 ---
 
 ![](dollar_brandabdullah_ibrahim.jpg)

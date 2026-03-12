@@ -1,18 +1,18 @@
 ---
-title: Nat Cole
+title: Nat King Cole
 wiki_slug: nat-cole
 schema_version: 2
 status: active
-birth_place: Montgomery, Alabama, United States
+birth_place: 'Montgomery, Alabama, United States'
 genres:
-- christmas
-- adult standards
-- vocal jazz
+  - christmas
+  - adult standards
+  - vocal jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/nat_cole.jpg
   caption: Nat Cole
   background: solo_singer
-  origin: Montgomery, Alabama, United States
+  origin: 'Montgomery, Alabama, United States'
 audio_profile:
   tempo_avg: 101.1
   energy_avg: 0.247
@@ -28,54 +28,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Oscar Moore
-  - Johnny Miller
-  - Nelson Riddle
-  - Gordon Jenkins
-  - Ella Fitzgerald
-  - Louis Armstrong
+    - Oscar Moore
+    - Johnny Miller
+    - Nelson Riddle
+    - Gordon Jenkins
+    - Ella Fitzgerald
+    - Louis Armstrong
   influenced:
-  - Natalie Cole
-  - Ray Charles
-  - Harry Connick Jr.
-  - Michael Bublé
+    - Natalie Cole
+    - Ray Charles
+    - Harry Connick Jr.
+    - Michael Bublé
   mentors:
-  - Earl Hines
+    - Earl Hines
 spotify_data:
   followers: 2547860
   id: 7v4imS0moSyGdXyLgVTIV7
   popularity: 72
-  url: https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7
+  url: 'https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7'
 discography_enriched: true
 top_tracks:
-- L-O-V-E (L-O-V-E)
-- Unforgettable (Unforgettable)
-- When I Fall In Love (Love Is The Thing)
-- (I Love You) For Sentimental Reasons (The Nat King Cole Story)
-- 'Unforgettable (Unforgettable: With Love)'
-- Orange Colored Sky (The Nat King Cole Story)
-- The Christmas Song (Merry Christmas To You) (The Christmas Song (Expanded Edition))
-- Smile - Mono / 1954 Version / Remastered 1992 (Ballads Of The Day)
-- Smile (The Nat King Cole Story)
-- Deck The Hall (The Christmas Song (Expanded Edition))
+  - L-O-V-E (L-O-V-E)
+  - Unforgettable (Unforgettable)
+  - When I Fall In Love (Love Is The Thing)
+  - (I Love You) For Sentimental Reasons (The Nat King Cole Story)
+  - 'Unforgettable (Unforgettable: With Love)'
+  - Orange Colored Sky (The Nat King Cole Story)
+  - >-
+    The Christmas Song (Merry Christmas To You) (The Christmas Song (Expanded
+    Edition))
+  - Smile - Mono / 1954 Version / Remastered 1992 (Ballads Of The Day)
+  - Smile (The Nat King Cole Story)
+  - Deck The Hall (The Christmas Song (Expanded Edition))
 external_urls:
-  spotify: https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7
-  wikipedia: https://en.wikipedia.org/wiki/Nat_King_Cole
+  spotify: 'https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7'
+  wikipedia: 'https://en.wikipedia.org/wiki/Nat_King_Cole'
 image_path: 03_Resources/source_material/ArtistPortraits/nat_cole.jpg
 biography_enhanced_at: '2025-11-14T10:42:42.763317'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Nat_King_Cole
-- https://www.songhall.org/profiles/nat-king-cole
-- https://www.ebsco.com/research-starters/history/nat-king-cole
-- https://natkingcole.com/pages/about
-- https://www.britannica.com/biography/Nat-King-Cole
-- https://www.alamhof.org/nat-king-cole
-- https://www.biography.com/musicians/nat-king-cole
+  - 'https://en.wikipedia.org/wiki/Nat_King_Cole'
+  - 'https://www.songhall.org/profiles/nat-king-cole'
+  - 'https://www.ebsco.com/research-starters/history/nat-king-cole'
+  - 'https://natkingcole.com/pages/about'
+  - 'https://www.britannica.com/biography/Nat-King-Cole'
+  - 'https://www.alamhof.org/nat-king-cole'
+  - 'https://www.biography.com/musicians/nat-king-cole'
 network_extracted: true
 entry_created: '2025-11-14T10:42:42.763328'
 last_updated: '2025-12-23T08:16:13.448825'
+origin: 'Chicago, Illinois, United States'
+birth_date: '1919-03-17'
+death_date: '1965'
+artist_type: person
 ---
 
 ![](nat_cole.jpg)

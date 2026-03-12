@@ -2,13 +2,13 @@
 title: The Chicks
 wiki_slug: the-chicks
 schema_version: 2
-artist_type: Group
+artist_type: person
 status: active
 birth_date: '1989'
 genres:
-- country
+  - country
 instruments:
-- original
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/The_Chicks.jpg
   caption: The Chicks
@@ -29,56 +29,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Natalie Maines
-  - Martie Maguire
-  - Emily Strayer
-  - Rick Rubin
+    - Natalie Maines
+    - Martie Maguire
+    - Emily Strayer
+    - Rick Rubin
   influenced:
-  - Taylor Swift
-  - Kacey Musgraves
+    - Taylor Swift
+    - Kacey Musgraves
   mentors:
-  - Bill Monroe
-  - Little Feat
+    - Bill Monroe
+    - Little Feat
 spotify_data:
   followers: 1541627
   id: 25IG9fa7cbdmCIy3OnuH57
   popularity: 64
-  url: https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57
+  url: 'https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57'
 discography_enriched: true
 top_tracks:
-- Cowboy Take Me Away (Fly)
-- Wide Open Spaces (Wide Open Spaces)
-- Landslide (Home)
-- Travelin' Soldier (Home)
-- Soon You’ll Get Better (feat. The Chicks) (Lover)
-- Goodbye Earl (Fly)
-- There's Your Trouble (Wide Open Spaces)
-- Not Ready to Make Nice (Taking The Long Way)
-- Ready to Run (Fly)
-- You Were Mine (Wide Open Spaces)
+  - Cowboy Take Me Away (Fly)
+  - Wide Open Spaces (Wide Open Spaces)
+  - Landslide (Home)
+  - Travelin' Soldier (Home)
+  - Soon You’ll Get Better (feat. The Chicks) (Lover)
+  - Goodbye Earl (Fly)
+  - There's Your Trouble (Wide Open Spaces)
+  - Not Ready to Make Nice (Taking The Long Way)
+  - Ready to Run (Fly)
+  - You Were Mine (Wide Open Spaces)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3248ed2d-bada-41b5-a7b6-ac88faa1f1ac
-  spotify: https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57
-  wikipedia: https://en.wikipedia.org/wiki/The_Chicks
+  musicbrainz: 'https://musicbrainz.org/artist/3248ed2d-bada-41b5-a7b6-ac88faa1f1ac'
+  spotify: 'https://open.spotify.com/artist/25IG9fa7cbdmCIy3OnuH57'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Chicks'
 image_path: 03_Resources/source_material/ArtistPortraits/The_Chicks.jpg
 biography_enhanced_at: '2025-10-20T01:57:51.295202'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Chicks
-- https://www.britannica.com/topic/Dixie-Chicks
-- https://teachrock.org/traceitback/the-chicks-formerly-known-as-dixie-chicks/
+  - 'https://en.wikipedia.org/wiki/The_Chicks'
+  - 'https://www.britannica.com/topic/Dixie-Chicks'
+  - 'https://teachrock.org/traceitback/the-chicks-formerly-known-as-dixie-chicks/'
 network_extracted: true
 entry_created: '2025-10-20T01:57:51.295221'
 last_updated: '2025-12-23T08:16:04.055777'
-disambiguation: US country trio, formerly known as the Dixie Chicks
+disambiguation: 'US country trio, formerly known as the Dixie Chicks'
 musicbrainz_enriched_at: '2025-10-21T09:45:40.223637'
 musicbrainz_id: 3248ed2d-bada-41b5-a7b6-ac88faa1f1ac
-origin: Dallas, Texas, USA
+origin: 'Dallas, Texas, USA'
 tags:
-- bluegrass
-- contemporary country
-- contemporary folk
+  - bluegrass
+  - contemporary country
+  - contemporary folk
+birth_place: Dallas
 ---
 
 ![](The_Chicks.jpg)

@@ -3,16 +3,16 @@ title: Elmo James
 wiki_slug: elmo-james
 schema_version: 2
 status: active
-birth_place: Richland, Mississippi, United States
+birth_place: 'Richland, Mississippi, United States'
 genres:
-- blues
-- classic blues
-- blues rock
+  - blues
+  - classic blues
+  - blues rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/elmo_james.jpg
   caption: Elmo James
   background: solo_singer
-  origin: Richland, Mississippi, United States
+  origin: 'Richland, Mississippi, United States'
 audio_profile:
   tempo_avg: 121.8
   energy_avg: 0.658
@@ -20,7 +20,7 @@ audio_profile:
   danceability_avg: 0.515
   acousticness_avg: 0.492
   instrumentalness_avg: 0.149
-  loudness_avg: -7.0
+  loudness_avg: -7
   speechiness_avg: 0.044
   liveness_avg: 0.197
   track_count: 47
@@ -28,52 +28,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sonny Boy Williamson II (Rice Miller)
-  - Johnny Jones
-  - J.T. Brown
-  - Homesick James Williamson
-  - Eddie Taylor
-  - Wayne Bennett
+    - Sonny Boy Williamson II (Rice Miller)
+    - Johnny Jones
+    - J.T. Brown
+    - Homesick James Williamson
+    - Eddie Taylor
+    - Wayne Bennett
   influenced:
-  - Muddy Waters
-  - Eric Clapton
-  - Duane Allman
+    - Muddy Waters
+    - Eric Clapton
+    - Duane Allman
   mentors:
-  - Robert Johnson
-  - Sonny Boy Williamson II (Rice Miller)
+    - Robert Johnson
+    - Sonny Boy Williamson II (Rice Miller)
 spotify_data:
   followers: 205924
   id: 0q9kpdDkEA3H17gcRMjgVS
   popularity: 44
-  url: https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS
+  url: 'https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS'
 discography_enriched: true
 top_tracks:
-- The Sky Is Crying
-- Dust My Broom
-- Dust My Broom
-- The Sky Is Crying
-- The Sky Is Crying (Elmore James Blues Legends)
-- Dust My Broom (Dust My Broom)
-- It Hurts Me Too (Street Talkin')
-- Dust My Broom (Whose Muddy Shoes)
-- Shake Your Money Maker (Dust My Broom)
-- Madison Blues (Whose Muddy Shoes)
+  - The Sky Is Crying
+  - Dust My Broom
+  - Dust My Broom
+  - The Sky Is Crying
+  - The Sky Is Crying (Elmore James Blues Legends)
+  - Dust My Broom (Dust My Broom)
+  - It Hurts Me Too (Street Talkin')
+  - Dust My Broom (Whose Muddy Shoes)
+  - Shake Your Money Maker (Dust My Broom)
+  - Madison Blues (Whose Muddy Shoes)
 external_urls:
-  spotify: https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS
-  wikipedia: https://en.wikipedia.org/wiki/Elmore_James
+  spotify: 'https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS'
+  wikipedia: 'https://en.wikipedia.org/wiki/Elmore_James'
 image_path: 03_Resources/source_material/ArtistPortraits/elmo_james.jpg
 biography_enhanced_at: '2025-12-06T05:49:22.375193'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Elmore_James
-- https://earlyblues.org/blues-artists-biographies-elmore-james/
-- https://www.britannica.com/biography/Elmore-James
-- https://msbluestrail.org/blues-trail-markers/elmore-james
-- https://www.elderly.com/pages/elmore-james-celebrating-black-history-month
+  - 'https://en.wikipedia.org/wiki/Elmore_James'
+  - 'https://earlyblues.org/blues-artists-biographies-elmore-james/'
+  - 'https://www.britannica.com/biography/Elmore-James'
+  - 'https://msbluestrail.org/blues-trail-markers/elmore-james'
+  - 'https://www.elderly.com/pages/elmore-james-celebrating-black-history-month'
 network_extracted: true
 entry_created: '2025-12-06T05:49:22.375197'
 last_updated: '2025-12-23T08:16:08.338832'
+birth_date: '1918-01-27'
+artist_type: person
 ---
 
 ![](elmo_james.jpg)

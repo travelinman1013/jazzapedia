@@ -5,66 +5,66 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1911-05-18'
-birth_place: Kansas City
+birth_place: 'Kansas City, Missouri, United States'
 death_date: '1985-11-24'
 genres:
-- boogie-woogie
-- doo-wop
-- blues
-- classic blues
-- rockabilly
+  - boogie-woogie
+  - doo-wop
+  - blues
+  - classic blues
+  - rockabilly
 instruments:
-- eponymous
-- original
-- lead vocals
-- background vocals
-- vocal
+  - eponymous
+  - original
+  - lead vocals
+  - background vocals
+  - vocal
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: ae021900-84f3-4343-a937-b8b47b1505f7
-  name: Joe Turner and His Memphis Men
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: b168bb54-825d-4bef-bb49-b02fa3ca601b
-  name: Big Joe Turner & His Blues Kings
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: f4cabb51-a542-461f-9b37-f37f980a9c07
-  name: Big Joe Turner & Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 55aa4823-6bab-4158-82fb-387504a087e5
-  name: Joe Turner and His Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c38002a8-567e-4da3-ad20-26ff988c243d
-  name: Joe Sullivan and His Café Society Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: e5d473d2-7697-4a86-b487-6a0eeba3de57
-  name: Big Joe Turner and His Fly Cats
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3bbf4409-34cf-46d0-a581-5363e80a1866
-  name: Art Tatum and His Band
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: ae021900-84f3-4343-a937-b8b47b1505f7
+    name: Joe Turner and His Memphis Men
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: b168bb54-825d-4bef-bb49-b02fa3ca601b
+    name: Big Joe Turner & His Blues Kings
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: f4cabb51-a542-461f-9b37-f37f980a9c07
+    name: Big Joe Turner & Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 55aa4823-6bab-4158-82fb-387504a087e5
+    name: Joe Turner and His Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c38002a8-567e-4da3-ad20-26ff988c243d
+    name: Joe Sullivan and His Café Society Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: e5d473d2-7697-4a86-b487-6a0eeba3de57
+    name: Big Joe Turner and His Fly Cats
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3bbf4409-34cf-46d0-a581-5363e80a1866
+    name: Art Tatum and His Band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/big_joe_turner.jpg
   caption: Big Joe Turner
@@ -87,62 +87,65 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Pete Johnson
-  - Count Basie
-  - Albert Ammons and Meade Lux Lewis
-  - Duke Ellington
-  - Roomful of Blues
+    - Pete Johnson
+    - Count Basie
+    - Albert Ammons and Meade Lux Lewis
+    - Duke Ellington
+    - Roomful of Blues
   influenced:
-  - Bill Haley
-  - Chuck Berry
-  - Bo Diddley
-  - Elvis Presley
+    - Bill Haley
+    - Chuck Berry
+    - Bo Diddley
+    - Elvis Presley
   mentors:
-  - Kansas City jazz and blues scene
-  - John Hammond
+    - Kansas City jazz and blues scene
+    - John Hammond
 spotify_data:
   followers: 52611
   id: 1DTgcOxytJHD8p17mhSgd7
   popularity: 38
-  url: https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7
+  url: 'https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7'
 discography_enriched: true
 top_tracks:
-- Shake, Rattle and Roll (Shake Rattle & Rock)
-- Shake, Rattle & Roll (Flip, Flop And Fly 1951-1955)
-- 'Honey Hush (Big Joe Turner: The Rhythm & Blues Years)'
-- Boogie Woogie Country Girl (Shake Rattle & Rock)
-- Corrine Corrina (Shake Rattle & Rock)
-- Shake, Rattle and Roll
-- Flip, Flop And Fly (Flip, Flop And Fly 1951-1955)
-- Roll 'Em Pete (Jumpin' With Joe)
-- Lipstick, Powder and Paint (Big Bad & Blue - The Joe Turner Anthology)
-- Flip, Flop and Fly
+  - 'Shake, Rattle and Roll (Shake Rattle & Rock)'
+  - 'Shake, Rattle & Roll (Flip, Flop And Fly 1951-1955)'
+  - 'Honey Hush (Big Joe Turner: The Rhythm & Blues Years)'
+  - Boogie Woogie Country Girl (Shake Rattle & Rock)
+  - Corrine Corrina (Shake Rattle & Rock)
+  - 'Shake, Rattle and Roll'
+  - 'Flip, Flop And Fly (Flip, Flop And Fly 1951-1955)'
+  - Roll 'Em Pete (Jumpin' With Joe)
+  - 'Lipstick, Powder and Paint (Big Bad & Blue - The Joe Turner Anthology)'
+  - 'Flip, Flop and Fly'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b123ba15-c4a5-4281-8117-2e57f8f02496
-  spotify: https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7
-  wikipedia: https://en.wikipedia.org/wiki/Big_Joe_Turner
+  musicbrainz: 'https://musicbrainz.org/artist/b123ba15-c4a5-4281-8117-2e57f8f02496'
+  spotify: 'https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7'
+  wikipedia: 'https://en.wikipedia.org/wiki/Big_Joe_Turner'
 image_path: 03_Resources/source_material/ArtistPortraits/big_joe_turner.jpg
 biography_enhanced_at: '2025-12-19T01:47:44.495794'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- 'EBSCO Research Starter: Big Joe Turner[1]'
-- 'Encyclopaedia Britannica: Big Joe Turner[2]'
-- The Pendergast Years / Kansas City Public Library biography of Joe Turner[3]
-- 'The Syncopated Times – Big Joe Turner: Feel So Fine, A Bio‑Discography review[4]'
-- 'Concord Music artist profile: Joe Turner[5]'
-- 'BlackPast.org: Joseph Vernon "Big Joe" Turner (1911–1985)[7]'
-- 'Rock & Roll Hall of Fame: Big Joe Turner inductee biography[8]'
+  - 'EBSCO Research Starter: Big Joe Turner[1]'
+  - 'Encyclopaedia Britannica: Big Joe Turner[2]'
+  - 'The Pendergast Years / Kansas City Public Library biography of Joe Turner[3]'
+  - >-
+    The Syncopated Times – Big Joe Turner: Feel So Fine, A Bio‑Discography
+    review[4]
+  - 'Concord Music artist profile: Joe Turner[5]'
+  - 'BlackPast.org: Joseph Vernon "Big Joe" Turner (1911–1985)[7]'
+  - 'Rock & Roll Hall of Fame: Big Joe Turner inductee biography[8]'
 network_extracted: true
 entry_created: '2025-12-19T01:47:44.495802'
 last_updated: '2025-12-23T08:16:05.451162'
 gender: Male
 musicbrainz_id: b123ba15-c4a5-4281-8117-2e57f8f02496
 tags:
-- blues
-- jump blues
-- r&b
-
+  - blues
+  - jump blues
+  - r&b
+is_active: false
+origin: 'Kansas City, Missouri, United States'
 ---
 
 ![](big_joe_turner.jpg)

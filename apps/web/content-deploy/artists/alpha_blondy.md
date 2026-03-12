@@ -1,15 +1,15 @@
 ---
-title: alpha blondy
+title: Alpha Blondy
 wiki_slug: alpha-blondy
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1953-01-01'
-birth_place: Dimbokro
+birth_place: 'Dimbokro, Côte d''Ivoire, Ivory Coast'
 genres:
-- reggae
-- roots reggae
-- ragga
+  - reggae
+  - roots reggae
+  - ragga
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/alpha_blondy.jpg
   caption: alpha blondy
@@ -31,59 +31,71 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Solar System
-  - The Wailers
-  - Dennis Bovell
-  - Fulgence Kassi
-  - Ophelie Winter and Saian Supa Crew
+    - Solar System
+    - The Wailers
+    - Dennis Bovell
+    - Fulgence Kassi
+    - Ophelie Winter and Saian Supa Crew
   influenced:
-  - Ismaël Isaac
-  - Jonathan Wilson
+    - Ismaël Isaac
+    - Jonathan Wilson
   mentors:
-  - Bob Marley
-  - Clive Hunt
-  - Burning Spear
+    - Bob Marley
+    - Clive Hunt
+    - Burning Spear
 spotify_data:
   followers: 783491
   id: 41ekW4MXG59xJMXR8dX1OG
   popularity: 58
-  url: https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG
+  url: 'https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG'
 discography_enriched: true
 top_tracks:
-- I Wish You Were Here (Jah Victory)
-- Brigadier Sabari - 2010 Remastered Edition (Jah Glory (2010 Remastered Edition))
-- Cocody Rock - 2010 Remastered Edition (Cocody Rock !!! (2010 Remastered Edition))
-- Jerusalem - 2010 Remastered Edition (Jerusalem (2010 Remastered Edition))
-- Masada - 2010 Remastered Edition (Masada (2010 Remastered Edition))
-- Sweet Fanta Diallo - Remastered Edition (Revolution (Remastered Edition))
-- Seba Allah Y'e - 2010 Remastered Edition (Apartheid Is Nazism (2010 Remastered Edition))
-- 'THE TOP (DIYILEM & BAZARHOFF : GENIUS)'
-- Travailler c'est trop dur - 2010 Remastered Edition (Jerusalem (2010 Remastered Edition))
-- Peace in Liberia - 2010 Remastered Edition (Masada (2010 Remastered Edition))
+  - I Wish You Were Here (Jah Victory)
+  - >-
+    Brigadier Sabari - 2010 Remastered Edition (Jah Glory (2010 Remastered
+    Edition))
+  - >-
+    Cocody Rock - 2010 Remastered Edition (Cocody Rock !!! (2010 Remastered
+    Edition))
+  - Jerusalem - 2010 Remastered Edition (Jerusalem (2010 Remastered Edition))
+  - Masada - 2010 Remastered Edition (Masada (2010 Remastered Edition))
+  - Sweet Fanta Diallo - Remastered Edition (Revolution (Remastered Edition))
+  - >-
+    Seba Allah Y'e - 2010 Remastered Edition (Apartheid Is Nazism (2010
+    Remastered Edition))
+  - 'THE TOP (DIYILEM & BAZARHOFF : GENIUS)'
+  - >-
+    Travailler c'est trop dur - 2010 Remastered Edition (Jerusalem (2010
+    Remastered Edition))
+  - >-
+    Peace in Liberia - 2010 Remastered Edition (Masada (2010 Remastered
+    Edition))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/88502cc3-20e7-4c5d-b583-ea84ed263db4
-  spotify: https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG
-  wikipedia: https://en.wikipedia.org/wiki/Alpha_Blondy
+  musicbrainz: 'https://musicbrainz.org/artist/88502cc3-20e7-4c5d-b583-ea84ed263db4'
+  spotify: 'https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG'
+  wikipedia: 'https://en.wikipedia.org/wiki/Alpha_Blondy'
 image_path: 03_Resources/source_material/ArtistPortraits/alpha_blondy.jpg
 biography_enhanced_at: '2025-11-16T20:20:49.400131'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Alpha_Blondy
-- https://www.last.fm/music/Alpha+Blondy/+wiki
-- https://www.incotedivoire.net/proeminent-persons/Alpha%20Blondy/show/Alpha%20Blondy
-- https://www.gatewayofafrica.com/artists/biography/69.html
-- https://www.laphil.com/musicdb/artists/6068/alpha-blondy
-- https://www.allmusic.com/artist/alpha-blondy-mn0000016944
+  - 'https://en.wikipedia.org/wiki/Alpha_Blondy'
+  - 'https://www.last.fm/music/Alpha+Blondy/+wiki'
+  - >-
+    https://www.incotedivoire.net/proeminent-persons/Alpha%20Blondy/show/Alpha%20Blondy
+  - 'https://www.gatewayofafrica.com/artists/biography/69.html'
+  - 'https://www.laphil.com/musicdb/artists/6068/alpha-blondy'
+  - 'https://www.allmusic.com/artist/alpha-blondy-mn0000016944'
 network_extracted: true
 entry_created: '2025-11-16T20:20:49.400137'
 last_updated: '2025-12-23T08:16:04.627557'
 gender: Male
 musicbrainz_id: 88502cc3-20e7-4c5d-b583-ea84ed263db4
 tags:
-- dub
-- reggae
-- roots reggae
+  - dub
+  - reggae
+  - roots reggae
+origin: 'Dimbokro, Côte d''Ivoire, United States'
 ---
 
 ![](alpha_blondy.jpg)

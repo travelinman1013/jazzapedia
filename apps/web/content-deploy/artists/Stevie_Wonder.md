@@ -2,19 +2,19 @@
 title: Stevie Wonder
 wiki_slug: stevie-wonder
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1950-05-13'
-birth_place: Saginaw, Michigan, United States
+birth_place: 'Saginaw, Michigan, United States'
 genres:
-- motown
-- soul
+  - motown
+  - soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Stevie_Wonder.jpg
   caption: Stevie Wonder
   background: solo_singer
   born: '1950-05-13'
-  origin: Saginaw, Michigan, United States
+  origin: 'Saginaw, Michigan, United States'
 audio_profile:
   tempo_avg: 117.5
   energy_avg: 0.599
@@ -30,51 +30,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ronnie White
-  - Syreeta Wright
-  - Nathan Watts
-  - Michael Sembello
+    - Ronnie White
+    - Syreeta Wright
+    - Nathan Watts
+    - Michael Sembello
   influenced:
-  - Prince
-  - Alicia Keys
-  - John Legend
-  - Beyoncé
+    - Prince
+    - Alicia Keys
+    - John Legend
+    - Beyoncé
   mentors:
-  - Berry Gordy Jr.
-  - Clarence Paul
-  - Ray Charles
+    - Berry Gordy Jr.
+    - Clarence Paul
+    - Ray Charles
 spotify_data:
   followers: 7122047
   id: 7guDJrEfX3qb6FEbdPA5qi
   popularity: 73
-  url: https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi
+  url: 'https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi'
 discography_enriched: true
 top_tracks:
-- I Just Called To Say I Love You
-- Signed, Sealed, Delivered (I'm Yours) (Signed Sealed And Delivered)
-- Superstition - Single Version
-- For Once In My Life (For Once In My Life)
-- Sir Duke (Songs In The Key Of Life)
-- Part-Time Lover (In Square Circle)
-- Isn't She Lovely
-- You Are The Sunshine Of My Life (Talking Book)
-- Superstition (Talking Book)
-- Higher Ground (Innervisions)
+  - I Just Called To Say I Love You
+  - 'Signed, Sealed, Delivered (I''m Yours) (Signed Sealed And Delivered)'
+  - Superstition - Single Version
+  - For Once In My Life (For Once In My Life)
+  - Sir Duke (Songs In The Key Of Life)
+  - Part-Time Lover (In Square Circle)
+  - Isn't She Lovely
+  - You Are The Sunshine Of My Life (Talking Book)
+  - Superstition (Talking Book)
+  - Higher Ground (Innervisions)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1ee18fb3-18a6-4c7f-8ba0-bc41cdd0462e
-  spotify: https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi
-  wikipedia: https://en.wikipedia.org/wiki/Stevie_Wonder
+  musicbrainz: 'https://musicbrainz.org/artist/1ee18fb3-18a6-4c7f-8ba0-bc41cdd0462e'
+  spotify: 'https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi'
+  wikipedia: 'https://en.wikipedia.org/wiki/Stevie_Wonder'
 image_path: 03_Resources/source_material/ArtistPortraits/Stevie_Wonder.jpg
 biography_enhanced_at: '2025-10-19T11:37:46.726610'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.edsullivan.com/artists/stevie-wonder/
-- https://www.britannica.com/biography/Stevie-Wonder
-- https://www.biography.com/musicians/stevie-wonder
-- https://steviewonder.org.uk/stevie-wonder-biography
-- https://wers.org/the-vault-of-soul-stevie-wonder/
-- https://en.wikipedia.org/wiki/Stevie_Wonder
+  - 'https://www.edsullivan.com/artists/stevie-wonder/'
+  - 'https://www.britannica.com/biography/Stevie-Wonder'
+  - 'https://www.biography.com/musicians/stevie-wonder'
+  - 'https://steviewonder.org.uk/stevie-wonder-biography'
+  - 'https://wers.org/the-vault-of-soul-stevie-wonder/'
+  - 'https://en.wikipedia.org/wiki/Stevie_Wonder'
 network_extracted: true
 entry_created: '2025-10-19T11:37:46.726617'
 last_updated: '2025-12-23T08:16:03.951207'
@@ -82,10 +82,9 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:44:18.633383'
 musicbrainz_id: 1ee18fb3-18a6-4c7f-8ba0-bc41cdd0462e
 tags:
-- contemporary r&b
-- film soundtrack
-- funk
-
+  - contemporary r&b
+  - film soundtrack
+  - funk
 ---
 
 ![](Stevie_Wonder.jpg)

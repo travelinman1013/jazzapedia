@@ -3,45 +3,46 @@ biography_enhanced_at: '2025-12-28T01:52:15.764588'
 enhancement_provider: perplexity
 entry_created: '2025-12-28T01:52:15.764614'
 external_urls:
-  spotify: https://open.spotify.com/artist/71wHsZOrC6bjcBdWt1bM8d
-  wikipedia: https://en.wikipedia.org/wiki/McKenzie_and_Condon%27s_Chicagoans
+  spotify: 'https://open.spotify.com/artist/71wHsZOrC6bjcBdWt1bM8d'
+  wikipedia: 'https://en.wikipedia.org/wiki/McKenzie_and_Condon%27s_Chicagoans'
 genres:
-- ragtime
+  - ragtime
 image_path: ''
 last_updated: '2025-12-28T01:52:15.764617'
 musical_connections:
   collaborators:
-  - Red McKenzie
-  - Eddie Condon
-  - Bud Freeman
-  - Gene Krupa
-  - Jimmy McPartland
-  - Frank Teschemacher
-  - Joe Sullivan
-  - Jim Lanigan
-  - Mezz Mezzrow
-  - Pee Wee Russell
-  - Bob Haggart
-  - Jack Teagarden
+    - Red McKenzie
+    - Eddie Condon
+    - Bud Freeman
+    - Gene Krupa
+    - Jimmy McPartland
+    - Frank Teschemacher
+    - Joe Sullivan
+    - Jim Lanigan
+    - Mezz Mezzrow
+    - Pee Wee Russell
+    - Bob Haggart
+    - Jack Teagarden
   influenced:
-  - Later Chicago‑style and traditional jazz revival bands (general category)
+    - Later Chicago‑style and traditional jazz revival bands (general category)
   mentors:
-  - New Orleans Rhythm Kings
+    - New Orleans Rhythm Kings
 network_extracted: true
-origin: Chicago, Illinois, United States
+origin: 'Chicago, Illinois, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/McKenzie_and_Condon%27s_Chicagoans
-- https://syncopatedtimes.com/mckenzie-and-condons-chicagoans/
-- https://traditional-jazz.com/history
-- https://jaz.fandom.com/wiki/McKenzie_and_Condon%27s_Chicagoans
+  - 'https://en.wikipedia.org/wiki/McKenzie_and_Condon%27s_Chicagoans'
+  - 'https://syncopatedtimes.com/mckenzie-and-condons-chicagoans/'
+  - 'https://traditional-jazz.com/history'
+  - 'https://jaz.fandom.com/wiki/McKenzie_and_Condon%27s_Chicagoans'
 spotify_data:
   followers: 55
   id: 71wHsZOrC6bjcBdWt1bM8d
   popularity: 1
-  url: https://open.spotify.com/artist/71wHsZOrC6bjcBdWt1bM8d
+  url: 'https://open.spotify.com/artist/71wHsZOrC6bjcBdWt1bM8d'
 status: active
 title: McKenzie and Condon's Chicagoans
+artist_type: person
 ---
 
 ![]()

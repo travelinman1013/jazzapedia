@@ -1,44 +1,47 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-13T01:10:01.134791'
-birth_place: Atlanta, Georgia, United States
+birth_place: 'Atlanta, Georgia, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-13T01:10:01.134797'
 external_urls:
-  spotify: https://open.spotify.com/artist/2SZ1e7QHN5jon9tpSpQl44
-  wikipedia: https://en.wikipedia.org/wiki/Duke_Pearson
+  spotify: 'https://open.spotify.com/artist/2SZ1e7QHN5jon9tpSpQl44'
+  wikipedia: 'https://en.wikipedia.org/wiki/Duke_Pearson'
 genres:
-- hard bop
-- jazz
-- soul jazz
+  - hard bop
+  - jazz
+  - soul jazz
 image_path: 03_Resources/source_material/ArtistPortraits/duke_pearson.jpg
 last_updated: '2026-01-13T01:10:01.134798'
 musical_connections:
   collaborators:
-  - Donald Byrd
-  - Nancy Wilson
-  - Art Farmer/Benny Golson (Jazztet)
-  - Bobby Hutcherson
+    - Donald Byrd
+    - Nancy Wilson
+    - Art Farmer/Benny Golson (Jazztet)
+    - Bobby Hutcherson
   influenced:
-  - Herbie Hancock
+    - Herbie Hancock
   mentors:
-  - Wynton Kelly
-  - Duke Ellington
+    - Wynton Kelly
+    - Duke Ellington
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.everythingjazz.com/story/duke-pearson-the-phantom/
-- https://www.bluenote.com/artist/duke-pearson/
-- https://en.wikipedia.org/wiki/Duke_Pearson
-- https://hipstersanctuary.com/2013/08/17/remembering-duke-pearsonjazzs-other-duke/
-- https://www.allaboutjazz.com/musicians/duke-pearson/
+  - 'https://www.everythingjazz.com/story/duke-pearson-the-phantom/'
+  - 'https://www.bluenote.com/artist/duke-pearson/'
+  - 'https://en.wikipedia.org/wiki/Duke_Pearson'
+  - >-
+    https://hipstersanctuary.com/2013/08/17/remembering-duke-pearsonjazzs-other-duke/
+  - 'https://www.allaboutjazz.com/musicians/duke-pearson/'
 spotify_data:
   followers: 20676
   id: 2SZ1e7QHN5jon9tpSpQl44
   popularity: 40
-  url: https://open.spotify.com/artist/2SZ1e7QHN5jon9tpSpQl44
+  url: 'https://open.spotify.com/artist/2SZ1e7QHN5jon9tpSpQl44'
 status: active
 title: Duke Pearson
+birth_date: '1932-08-17'
+death_date: '1980-08-04'
 ---
 
 ![](duke_pearson.jpg)

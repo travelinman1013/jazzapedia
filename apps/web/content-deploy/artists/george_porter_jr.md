@@ -1,17 +1,17 @@
 ---
-title: GEORGE PORTER JR.
+title: George Porter Jr.
 wiki_slug: george-porter-jr
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/george_porter_jr.jpg
   caption: GEORGE PORTER JR.
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
-  tempo_avg: 91.0
+  tempo_avg: 91
   energy_avg: 0.977
   valence_avg: 0.466
   danceability_avg: 0.669
@@ -25,44 +25,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Art Neville
-  - Leo Nocentelli
-  - Joseph 'Zigaboo' Modeliste
-  - Allen Toussaint
-  - Dr. John
-  - Paul McCartney
-  - Runnin' Pardners
+    - Art Neville
+    - Leo Nocentelli
+    - Joseph 'Zigaboo' Modeliste
+    - Allen Toussaint
+    - Dr. John
+    - Paul McCartney
+    - Runnin' Pardners
   influenced:
-  - Red Hot Chili Peppers
-  - Beastie Boys
-  - A Tribe Called Quest
-  - Queen Latifah
+    - Red Hot Chili Peppers
+    - Beastie Boys
+    - A Tribe Called Quest
+    - Queen Latifah
   mentors:
-  - Benjamin 'Poppi' Francis
+    - Benjamin 'Poppi' Francis
 spotify_data:
   followers: 13
   id: 2tITVdAW99hgiobsmJ05ss
   popularity: 5
-  url: https://open.spotify.com/artist/2tITVdAW99hgiobsmJ05ss
+  url: 'https://open.spotify.com/artist/2tITVdAW99hgiobsmJ05ss'
 discography_enriched: true
 top_tracks:
-- Give It What You Can (Give It What You Can)
+  - Give It What You Can (Give It What You Can)
 external_urls:
-  spotify: https://open.spotify.com/artist/2tITVdAW99hgiobsmJ05ss
-  wikipedia: https://en.wikipedia.org/wiki/George_Porter_Jr.
+  spotify: 'https://open.spotify.com/artist/2tITVdAW99hgiobsmJ05ss'
+  wikipedia: 'https://en.wikipedia.org/wiki/George_Porter_Jr.'
 image_path: ''
 biography_enhanced_at: '2025-10-25T09:58:39.598099'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/George_Porter_Jr.
-- https://www.georgeporterjr.com/bio
-- https://acadianacenterforthearts.org/events/george-porter-jr/
-- https://musicrising.tulane.edu/discover/people/george-porter/
-- https://www.namm.org/library/oral-history/george-porter-jr
+  - 'https://en.wikipedia.org/wiki/George_Porter_Jr.'
+  - 'https://www.georgeporterjr.com/bio'
+  - 'https://acadianacenterforthearts.org/events/george-porter-jr/'
+  - 'https://musicrising.tulane.edu/discover/people/george-porter/'
+  - 'https://www.namm.org/library/oral-history/george-porter-jr'
 network_extracted: true
 entry_created: '2025-10-25T09:58:39.598112'
 last_updated: '2025-12-23T08:16:09.114342'
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1947-12-26'
+artist_type: person
 ---
 
 ![]()

@@ -2,55 +2,55 @@
 artist_type: person
 biography_enhanced_at: '2026-01-04T01:58:35.424094'
 birth_date: '1992-11-21'
-birth_place: Atlanta
+birth_place: 'Atlanta, Georgia, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-04T01:58:35.424100'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a9ae7d4b-10f0-4da8-8b8c-21722a074a54
-  spotify: https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh
-  wikipedia: https://en.wikipedia.org/wiki/Davido
+  musicbrainz: 'https://musicbrainz.org/artist/a9ae7d4b-10f0-4da8-8b8c-21722a074a54'
+  spotify: 'https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh'
+  wikipedia: 'https://en.wikipedia.org/wiki/Davido'
 gender: Male
 genres:
-- afrobeats
-- afrobeat
-- afropop
-- afropiano
-- azonto
-- amapiano
-- hiplife
-- afroswing
+  - afrobeats
+  - afrobeat
+  - afropop
+  - afropiano
+  - azonto
+  - amapiano
+  - hiplife
+  - afroswing
 image_path: 03_Resources/source_material/ArtistPortraits/davido.jpg
 last_updated: '2026-01-04T01:58:35.424100'
 musical_connections:
   collaborators:
-  - Chris Brown
-  - Nicki Minaj
-  - B-Red
-  - Sina Rambo
+    - Chris Brown
+    - Nicki Minaj
+    - B-Red
+    - Sina Rambo
   influenced:
-  - Morravey
-  - Logos Olori
+    - Morravey
+    - Logos Olori
   mentors:
-  - Naeto C
+    - Naeto C
 musicbrainz_id: a9ae7d4b-10f0-4da8-8b8c-21722a074a54
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://vocal.media/humans/davido-s-music-career-gf27q0c4c
-- https://guardian.ng/life/davido-biography-networth-age-family-and-career/
-- https://en.wikipedia.org/wiki/Davido
+  - 'https://vocal.media/humans/davido-s-music-career-gf27q0c4c'
+  - 'https://guardian.ng/life/davido-biography-networth-age-family-and-career/'
+  - 'https://en.wikipedia.org/wiki/Davido'
 spotify_data:
   followers: 9771167
   id: 0Y3agQaa6g2r0YmHPOO9rh
   popularity: 77
-  url: https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh
+  url: 'https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh'
 status: active
 tags:
-- afrobeat
-- afrobeats
-- davido
-title: davido
-
+  - afrobeat
+  - afrobeats
+  - davido
+title: Davido
+origin: 'Lagos, Nigeria, Nigeria'
 ---
 
 ![](davido.jpg)

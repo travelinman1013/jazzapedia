@@ -1,67 +1,68 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 3f033575-6f68-4456-8f5e-f35c86594dbb
-  name: Courtney Barnett and Kurt Vile
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 3f033575-6f68-4456-8f5e-f35c86594dbb
+    name: Courtney Barnett and Kurt Vile
 biography_enhanced_at: '2026-01-02T01:27:36.684689'
 birth_date: '1987-11-03'
-birth_place: Sydney
+birth_place: 'Sydney, New South Wales, Australia'
 enhancement_provider: perplexity
 entry_created: '2026-01-02T01:27:36.684695'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/55111838-f001-494a-a1b5-9d818db85810
-  spotify: https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y
-  wikipedia: https://en.wikipedia.org/wiki/Courtney_Barnett
+  musicbrainz: 'https://musicbrainz.org/artist/55111838-f001-494a-a1b5-9d818db85810'
+  spotify: 'https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y'
+  wikipedia: 'https://en.wikipedia.org/wiki/Courtney_Barnett'
 gender: Female
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/courtney_barnett.jpg
 instruments:
-- eponymous
-- guitar
-- electric guitar
-- bass guitar
-- slide guitar
-- lead vocals
-- background vocals
+  - eponymous
+  - guitar
+  - electric guitar
+  - bass guitar
+  - slide guitar
+  - lead vocals
+  - background vocals
 last_updated: '2026-01-02T01:27:36.684695'
 musical_connections:
   collaborators:
-  - Brent DeBoer
-  - Jen Cloher
-  - Dan Luscombe
-  - The Olivettes
-  - Rapid Transit
-  - Immigrant Union
+    - Brent DeBoer
+    - Jen Cloher
+    - Dan Luscombe
+    - The Olivettes
+    - Rapid Transit
+    - Immigrant Union
   influenced: []
   mentors:
-  - Darren Hanlon
-  - Dan Kelly
-  - Paul Kelly
+    - Darren Hanlon
+    - Dan Kelly
+    - Paul Kelly
 musicbrainz_id: 55111838-f001-494a-a1b5-9d818db85810
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- Wikipedia - Courtney Barnett
-- Kiddle - Courtney Barnett Facts for Kids
-- Relix - The Many Sides of Courtney Barnett
-- 'Ceremony Music - 21st Century Music: Courtney Barnett'
-- 'Sennheiser - Courtney Barnett: Artist Spotlight'
-- Sound Summit - Courtney Barnett
+  - Wikipedia - Courtney Barnett
+  - Kiddle - Courtney Barnett Facts for Kids
+  - Relix - The Many Sides of Courtney Barnett
+  - 'Ceremony Music - 21st Century Music: Courtney Barnett'
+  - 'Sennheiser - Courtney Barnett: Artist Spotlight'
+  - Sound Summit - Courtney Barnett
 spotify_data:
   followers: 623058
   id: 4OOlG5eBXSkSAAEeKjJb5Y
   popularity: 52
-  url: https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y
+  url: 'https://open.spotify.com/artist/4OOlG5eBXSkSAAEeKjJb5Y'
 status: active
 tags:
-- alternative rock
-- indie rock
-- left handed musicians
+  - alternative rock
+  - indie rock
+  - left handed musicians
 title: Courtney Barnett
+origin: 'Melbourne, Victoria, Australia'
 ---
 
 ![](courtney_barnett.jpg)

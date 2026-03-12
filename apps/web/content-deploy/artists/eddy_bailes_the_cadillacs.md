@@ -1,24 +1,24 @@
 ---
-title: Eddy Bailes, The Cadillacs
+title: 'Eddy Bailes, The Cadillacs'
 wiki_slug: eddy-bailes-the-cadillacs
 schema_version: 2
 status: active
-birth_place: Parkersburg, West Virginia, USA
+birth_place: 'Parkersburg, West Virginia, United States'
 genres:
-- doo-wop
+  - doo-wop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/eddy_bailes_the_cadillacs.jpg
-  caption: Eddy Bailes, The Cadillacs
+  caption: 'Eddy Bailes, The Cadillacs'
   background: solo_singer
-  origin: Parkersburg, West Virginia, USA
+  origin: 'Parkersburg, West Virginia, USA'
 audio_profile:
   tempo_avg: 123.4
   energy_avg: 0.438
   valence_avg: 0.688
   danceability_avg: 0.478
   acousticness_avg: 0.783
-  instrumentalness_avg: 0.0
-  loudness_avg: -10.0
+  instrumentalness_avg: 0
+  loudness_avg: -10
   speechiness_avg: 0.055
   liveness_avg: 0.266
   track_count: 47
@@ -26,44 +26,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Cadillacs
-  - The Accents
-  - Frank Rankin
-  - Faron Young
+    - The Cadillacs
+    - The Accents
+    - Frank Rankin
+    - Faron Young
   influenced:
-  - Chris Heers
+    - Chris Heers
   mentors:
-  - Local country musicians in West Virginia
+    - Local country musicians in West Virginia
 spotify_data:
   followers: 48121
   id: 5ye4TzZU2L7cxiQgCZoJUH
   popularity: 32
-  url: https://open.spotify.com/artist/5ye4TzZU2L7cxiQgCZoJUH
+  url: 'https://open.spotify.com/artist/5ye4TzZU2L7cxiQgCZoJUH'
 discography_enriched: true
 top_tracks:
-- Speedo (The Fabulous Cadillacs)
-- Speedo (The Fabulous Cadillacs)
-- Speedoo (Alternative Take) (The Fabulous Cadillacs)
-- Gloria (The Crazy Cadillacs)
-- Zoom (The Fabulous Cadillacs)
-- Speedo
-- Rudolph the Red Nosed Reindeer (The Fabulous Cadillacs)
-- The Boogie Man (The Fabulous Cadillacs)
-- Gloria (The Fabulous Cadillacs)
-- The Girl I Love (The Fabulous Cadillacs)
+  - Speedo (The Fabulous Cadillacs)
+  - Speedo (The Fabulous Cadillacs)
+  - Speedoo (Alternative Take) (The Fabulous Cadillacs)
+  - Gloria (The Crazy Cadillacs)
+  - Zoom (The Fabulous Cadillacs)
+  - Speedo
+  - Rudolph the Red Nosed Reindeer (The Fabulous Cadillacs)
+  - The Boogie Man (The Fabulous Cadillacs)
+  - Gloria (The Fabulous Cadillacs)
+  - The Girl I Love (The Fabulous Cadillacs)
 external_urls:
-  spotify: https://open.spotify.com/artist/5ye4TzZU2L7cxiQgCZoJUH
+  spotify: 'https://open.spotify.com/artist/5ye4TzZU2L7cxiQgCZoJUH'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/eddy_bailes_the_cadillacs.jpg
 biography_enhanced_at: '2025-11-01T15:17:47.053248'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://thatsallritemama.blogspot.com/2009/04/eddy-bailes-parkersburg-west-virginia.html
-- http://countrydiscography.blogspot.com/2011/05/eddy-bailes.html
+  - >-
+    http://thatsallritemama.blogspot.com/2009/04/eddy-bailes-parkersburg-west-virginia.html
+  - 'http://countrydiscography.blogspot.com/2011/05/eddy-bailes.html'
 network_extracted: true
 entry_created: '2025-11-01T15:17:47.053257'
 last_updated: '2025-12-23T08:16:08.214562'
+artist_type: person
 ---
 
 ![](eddy_bailes_the_cadillacs.jpg)

@@ -5,36 +5,36 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1936-12-15'
-birth_place: The Bronx
+birth_place: 'The Bronx, New York City, United States'
 death_date: '2025-08-06'
 genres:
-- latin jazz
-- salsa
-- son cubano
-- cha cha cha
-- mambo
+  - latin jazz
+  - salsa
+  - son cubano
+  - cha cha cha
+  - mambo
 instruments:
-- eponymous
-- original
-- piano
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
-  mbid: 10788ba5-5480-409a-831c-38e7ee9e8e6c
-  name: Eddie Palmieri and His Conjunto La Perfecta
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 037a1bb7-0dde-4368-92be-02f4c282dc31
-  name: Harlem River Drive
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8af70b0b-3d36-49d6-9956-4e1e68ab280e
-  name: The Brian Lynch / Eddie Palmieri Project
+  - piano
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 10788ba5-5480-409a-831c-38e7ee9e8e6c
+    name: Eddie Palmieri and His Conjunto La Perfecta
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 037a1bb7-0dde-4368-92be-02f4c282dc31
+    name: Harlem River Drive
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8af70b0b-3d36-49d6-9956-4e1e68ab280e
+    name: The Brian Lynch / Eddie Palmieri Project
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/eddie_palmieri.jpg
   caption: Eddie Palmieri
@@ -43,7 +43,7 @@ infobox:
   origin: The Bronx
   died: '2025-08-06'
 audio_profile:
-  tempo_avg: 116.0
+  tempo_avg: 116
   energy_avg: 0.656
   valence_avg: 0.77
   danceability_avg: 0.593
@@ -57,58 +57,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ismael Quintana
-  - Tito Puente
-  - Cal Tjader
-  - Brian Lynch
-  - La India
+    - Ismael Quintana
+    - Tito Puente
+    - Cal Tjader
+    - Brian Lynch
+    - La India
   influenced:
-  - La India
-  - Fania All-Stars
-  - Younger Latin jazz pianists (e.g., Oscar Hernández, Arturo O’Farrill)
+    - La India
+    - Fania All-Stars
+    - 'Younger Latin jazz pianists (e.g., Oscar Hernández, Arturo O’Farrill)'
   mentors:
-  - Charlie Palmieri
-  - Thelonious Monk, Herbie Hancock, McCoy Tyner
+    - Charlie Palmieri
+    - 'Thelonious Monk, Herbie Hancock, McCoy Tyner'
 spotify_data:
   followers: 234110
   id: 2VviFtXYreO6Zn9n8Ibk6C
   popularity: 44
-  url: https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C
+  url: 'https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C'
 discography_enriched: true
 top_tracks:
-- Vámonos Pa'l Monte (Vámonos Pa'l Monte)
-- Café (Echando pa'lante)
-- Black Orchid (Breeze From The East)
-- Ay Qué Rico (Champagne)
-- Azúcar (Azúcar pa' Ti)
-- La Malanga (Superimposition)
-- Cafe (El Rumbero Del Piano)
-- Sun Sun Babaé (Mi Luz Mayor)
-- Oyelo Que Te Conviene
-- Bilongo (Superimposition)
+  - Vámonos Pa'l Monte (Vámonos Pa'l Monte)
+  - Café (Echando pa'lante)
+  - Black Orchid (Breeze From The East)
+  - Ay Qué Rico (Champagne)
+  - Azúcar (Azúcar pa' Ti)
+  - La Malanga (Superimposition)
+  - Cafe (El Rumbero Del Piano)
+  - Sun Sun Babaé (Mi Luz Mayor)
+  - Oyelo Que Te Conviene
+  - Bilongo (Superimposition)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/42b5af45-312e-4dc1-ad0c-84dea2d5dcb2
-  spotify: https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C
-  wikipedia: https://en.wikipedia.org/wiki/Eddie_Palmieri
+  musicbrainz: 'https://musicbrainz.org/artist/42b5af45-312e-4dc1-ad0c-84dea2d5dcb2'
+  spotify: 'https://open.spotify.com/artist/2VviFtXYreO6Zn9n8Ibk6C'
+  wikipedia: 'https://en.wikipedia.org/wiki/Eddie_Palmieri'
 image_path: 03_Resources/source_material/ArtistPortraits/eddie_palmieri.jpg
 biography_enhanced_at: '2025-11-10T03:33:04.709199'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.bronxwalkoffame.com/inductees/eddie-palmieri
-- https://en.wikipedia.org/wiki/Eddie_Palmieri
-- https://latinjazznet.com/artist-profiles/tribute-to-the-masters/eddie-palmieri-the-relentless-genius-of-latin-jazz/
-- https://palmierimusic.com/pages/about
-- https://blogs.loc.gov/music/2025/08/celebrating-the-life-and-legacy-of-eddie-palmieri-the-sun-of-latin-music/
+  - 'https://www.bronxwalkoffame.com/inductees/eddie-palmieri'
+  - 'https://en.wikipedia.org/wiki/Eddie_Palmieri'
+  - >-
+    https://latinjazznet.com/artist-profiles/tribute-to-the-masters/eddie-palmieri-the-relentless-genius-of-latin-jazz/
+  - 'https://palmierimusic.com/pages/about'
+  - >-
+    https://blogs.loc.gov/music/2025/08/celebrating-the-life-and-legacy-of-eddie-palmieri-the-sun-of-latin-music/
 network_extracted: true
 entry_created: '2025-11-10T03:33:04.709214'
 last_updated: '2025-12-23T08:16:08.196756'
 gender: Male
 musicbrainz_id: 42b5af45-312e-4dc1-ad0c-84dea2d5dcb2
 tags:
-- jazz
-- latin
-- latin jazz
+  - jazz
+  - latin
+  - latin jazz
+is_active: false
+origin: 'Spanish Harlem, New York City, United States'
 ---
 
 ![](eddie_palmieri.jpg)

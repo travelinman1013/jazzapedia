@@ -5,22 +5,22 @@ schema_version: 2
 status: active
 aliases: []
 birth_date: '1972-07-09'
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 years_active: 1990s–present
 genres:
-- jazz funk
+  - jazz funk
 instruments:
-- drum kit
+  - drum kit
 occupation:
-- jazz musician
+  - jazz musician
 record_labels:
-- Telarc International Corporation
+  - Telarc International Corporation
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Stanton_Moore.jpg
   caption: Stanton Moore
   background: non_vocal_instrumentalist
   born: '1972-07-09'
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 109.5
   energy_avg: 0.639
@@ -36,47 +36,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Galactic
-  - Charlie Hunter
-  - Skerik
-  - Maceo Parker
-  - Irma Thomas
-  - Tom Morello
-  - George Porter Jr. (The Meters)
-  - Preservation Hall Jazz Band
-  - Anders Osborne
+    - Galactic
+    - Charlie Hunter
+    - Skerik
+    - Maceo Parker
+    - Irma Thomas
+    - Tom Morello
+    - George Porter Jr. (The Meters)
+    - Preservation Hall Jazz Band
+    - Anders Osborne
   influenced:
-  - Drum students worldwide
-  - New Orleans drummers
+    - Drum students worldwide
+    - New Orleans drummers
   mentors:
-  - Professor Longhair
-  - Dr. John
-  - The Meters
-  - Jabo Starks, Clyde Stubblefield, Zigaboo Modeliste
+    - Professor Longhair
+    - Dr. John
+    - The Meters
+    - 'Jabo Starks, Clyde Stubblefield, Zigaboo Modeliste'
 related_artists: []
 spotify_data:
   followers: 27907
   id: 7bOHiKCHJ7mPMrSIiLMOIj
   popularity: 30
-  url: https://open.spotify.com/artist/7bOHiKCHJ7mPMrSIiLMOIj
+  url: 'https://open.spotify.com/artist/7bOHiKCHJ7mPMrSIiLMOIj'
   verified: false
 discography_enriched: true
 albums_count: 9
 singles_count: 3
 top_tracks:
-- Blues for Ben (All Kooked Out!)
-- Here Come The Girls (With You In Mind)
-- Java (With You In Mind)
-- Zulu King (James Andrews and Trombone Shorty Brothers)
-- Give It What You Can (Give It What You Can)
-- 'You Know I’m No Good (Krasno/Moore Project: Book of Queens)'
-- Tchfunkta (All Kooked Out!)
-- 'Stay High [Feat. Cory Henry] (Krasno/Moore Project: Book of Queens)'
-- Pie-Eyed Manc (Groove Alchemy)
-- 'Slow Burn (Krasno/Moore Project: Book of Queens)'
+  - Blues for Ben (All Kooked Out!)
+  - Here Come The Girls (With You In Mind)
+  - Java (With You In Mind)
+  - Zulu King (James Andrews and Trombone Shorty Brothers)
+  - Give It What You Can (Give It What You Can)
+  - 'You Know I’m No Good (Krasno/Moore Project: Book of Queens)'
+  - Tchfunkta (All Kooked Out!)
+  - 'Stay High [Feat. Cory Henry] (Krasno/Moore Project: Book of Queens)'
+  - Pie-Eyed Manc (Groove Alchemy)
+  - 'Slow Burn (Krasno/Moore Project: Book of Queens)'
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/7bOHiKCHJ7mPMrSIiLMOIj
+  spotify: 'https://open.spotify.com/artist/7bOHiKCHJ7mPMrSIiLMOIj'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/Stanton_Moore.jpg
 biography_source: wikipedia
@@ -84,13 +84,16 @@ biography_enhanced_at: '2025-09-30T11:50:11.478625'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.stantonmoore.com/about
-- https://concord.com/artist/stanton-moore-trio/
-- https://www.gretsch.com/2023/03/stanton-moore-drummer-performer-and-1-educator-of-the-new-orleans-groove/
+  - 'https://www.stantonmoore.com/about'
+  - 'https://concord.com/artist/stanton-moore-trio/'
+  - >-
+    https://www.gretsch.com/2023/03/stanton-moore-drummer-performer-and-1-educator-of-the-new-orleans-groove/
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:53:09.731061
+entry_created: 2025-09-22T21:53:09.731Z
 last_updated: '2025-12-23T08:16:03.798363'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](Stanton_Moore.jpg)

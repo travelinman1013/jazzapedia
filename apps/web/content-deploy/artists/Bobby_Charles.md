@@ -3,15 +3,15 @@ title: Bobby Charles
 wiki_slug: bobby-charles
 schema_version: 2
 status: active
-birth_place: Abbeville, Louisiana, United States
+birth_place: 'Abbeville, Louisiana, United States'
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Bobby_Charles.jpg
   caption: Bobby Charles
   background: solo_singer
-  origin: Abbeville, Louisiana, United States
+  origin: 'Abbeville, Louisiana, United States'
 audio_profile:
   tempo_avg: 118.8
   energy_avg: 0.482
@@ -27,50 +27,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Band
-  - Dr. John
-  - Neil Young
-  - Willie Nelson
-  - Clarence 'Frogman' Henry
+    - The Band
+    - Dr. John
+    - Neil Young
+    - Willie Nelson
+    - Clarence 'Frogman' Henry
   influenced:
-  - Swamp Pop Musicians of Louisiana
-  - The Band
+    - Swamp Pop Musicians of Louisiana
+    - The Band
   mentors:
-  - Fats Domino
-  - Guitar Slim
+    - Fats Domino
+    - Guitar Slim
 spotify_data:
   followers: 18902
   id: 1B8vzl6kObOf1cxN4myLS1
   popularity: 34
-  url: https://open.spotify.com/artist/1B8vzl6kObOf1cxN4myLS1
+  url: 'https://open.spotify.com/artist/1B8vzl6kObOf1cxN4myLS1'
 discography_enriched: true
 top_tracks:
-- I Must Be in a Good Place Now (Bobby Charles [w/ Bonus Tracks])
-- Small Town Talk (Bobby Charles [w/ Bonus Tracks])
-- Street People (Bobby Charles [w/ Bonus Tracks])
-- Down South in New Orleans (feat. Bobby Charles) - Concert Version (The Last Waltz (Deluxe Version))
-- Party Town (Last Train To Memphis)
-- Long Face (Bobby Charles [w/ Bonus Tracks])
-- Save Me Jesus (Bobby Charles [w/ Bonus Tracks])
-- See You Later Alligator (See You Later, Alligator)
-- Later Alligator (See You Later, Alligator) (See You Later, Alligator)
-- Tennessee Blues (Bobby Charles [w/ Bonus Tracks])
+  - 'I Must Be in a Good Place Now (Bobby Charles [w/ Bonus Tracks])'
+  - 'Small Town Talk (Bobby Charles [w/ Bonus Tracks])'
+  - 'Street People (Bobby Charles [w/ Bonus Tracks])'
+  - >-
+    Down South in New Orleans (feat. Bobby Charles) - Concert Version (The Last
+    Waltz (Deluxe Version))
+  - Party Town (Last Train To Memphis)
+  - 'Long Face (Bobby Charles [w/ Bonus Tracks])'
+  - 'Save Me Jesus (Bobby Charles [w/ Bonus Tracks])'
+  - 'See You Later Alligator (See You Later, Alligator)'
+  - 'Later Alligator (See You Later, Alligator) (See You Later, Alligator)'
+  - 'Tennessee Blues (Bobby Charles [w/ Bonus Tracks])'
 external_urls:
-  spotify: https://open.spotify.com/artist/1B8vzl6kObOf1cxN4myLS1
-  wikipedia: https://en.wikipedia.org/wiki/Bobby_Charles
+  spotify: 'https://open.spotify.com/artist/1B8vzl6kObOf1cxN4myLS1'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bobby_Charles'
 image_path: 03_Resources/source_material/ArtistPortraits/Bobby_Charles.jpg
 biography_enhanced_at: '2025-10-19T10:36:20.899950'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Bobby_Charles
-- https://64parishes.org/entry/bobby-charles
-- https://www.therecordlive.com/story/2020/01/14/news/the-life-and-death-of-bobby-charlesdown-lifes-highway/28311.html
-- https://www.rocky-52.net/chanteursc/charles_bobby.htm
-- https://www.bear-family.com/charles-bobby/
+  - 'https://en.wikipedia.org/wiki/Bobby_Charles'
+  - 'https://64parishes.org/entry/bobby-charles'
+  - >-
+    https://www.therecordlive.com/story/2020/01/14/news/the-life-and-death-of-bobby-charlesdown-lifes-highway/28311.html
+  - 'https://www.rocky-52.net/chanteursc/charles_bobby.htm'
+  - 'https://www.bear-family.com/charles-bobby/'
 network_extracted: true
 entry_created: '2025-10-19T10:36:20.899961'
 last_updated: '2025-12-23T08:16:01.279192'
+origin: 'Abbeville, Louisiana, United States'
+birth_date: '1938-02-21'
+artist_type: person
 ---
 
 ![](Bobby_Charles.jpg)

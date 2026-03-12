@@ -1,13 +1,14 @@
 ---
-title: freddy fender y isidro lopez
+title: Freddy Fender Y Isidro Lopez
 wiki_slug: freddy-fender-y-isidro-lopez
 schema_version: 2
 status: active
 genres:
-- tejano
-- indorock
+  - tejano
+  - indorock
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/freddy_fender_y_isidro_lopez.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/freddy_fender_y_isidro_lopez.jpg
   caption: freddy fender y isidro lopez
   background: solo_singer
 audio_profile:
@@ -25,53 +26,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Freddy Fender
-  - Flaco Jimenez
-  - Steve Jordan
-  - Doug Sahm & Augie Meyers
-  - Los Super Seven
+    - Freddy Fender
+    - Flaco Jimenez
+    - Steve Jordan
+    - Doug Sahm & Augie Meyers
+    - Los Super Seven
   influenced:
-  - Freddy Fender
-  - Los Lobos
-  - Texas Tornados
+    - Freddy Fender
+    - Los Lobos
+    - Texas Tornados
   mentors:
-  - Juan Colorado Orchestra
-  - Paco Betancourt / IDEAL Records
+    - Juan Colorado Orchestra
+    - Paco Betancourt / IDEAL Records
 spotify_data:
   followers: 1062
   id: 51yKzA4xr5EnDTezqvGe5H
   popularity: 3
-  url: https://open.spotify.com/artist/51yKzA4xr5EnDTezqvGe5H
+  url: 'https://open.spotify.com/artist/51yKzA4xr5EnDTezqvGe5H'
 discography_enriched: true
 top_tracks:
-- Jambalaya (Cantan Country)
-- Your Cheating Heart Tu Corazon Traidor (Cantan Country)
-- You Win Again (Tu Has Ganado) (Cantan Country)
-- Honky Tonk Blues (Cantan Country)
-- Hey Good Lookin' (Hey Mamacita) (Cantan Country)
-- Cold, Cold Heart (Tu Frio Corazon) (Cantan Country)
-- There'll Be No Teardrops Tonight (No Voy A Llorar) (Cantan Country)
-- I Can't Help It If I'm Still In Love With You (No Me Importa) (Cantan Country)
-- Kaw-Liga (Cantan Country)
-- I'm So Lonesome I Could Cry (Estoy Triste Que Voy A Llorar) (Cantan Country)
+  - Jambalaya (Cantan Country)
+  - Your Cheating Heart Tu Corazon Traidor (Cantan Country)
+  - You Win Again (Tu Has Ganado) (Cantan Country)
+  - Honky Tonk Blues (Cantan Country)
+  - Hey Good Lookin' (Hey Mamacita) (Cantan Country)
+  - 'Cold, Cold Heart (Tu Frio Corazon) (Cantan Country)'
+  - There'll Be No Teardrops Tonight (No Voy A Llorar) (Cantan Country)
+  - >-
+    I Can't Help It If I'm Still In Love With You (No Me Importa) (Cantan
+    Country)
+  - Kaw-Liga (Cantan Country)
+  - I'm So Lonesome I Could Cry (Estoy Triste Que Voy A Llorar) (Cantan Country)
 external_urls:
-  spotify: https://open.spotify.com/artist/51yKzA4xr5EnDTezqvGe5H
+  spotify: 'https://open.spotify.com/artist/51yKzA4xr5EnDTezqvGe5H'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/freddy_fender_y_isidro_lopez.jpg
 biography_enhanced_at: '2025-11-28T07:36:30.573137'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Last.fm - Isidro Lopez biography
-- Smithsonian Folkways - The Roots of Tejano and Conjunto Music
-- Texas State University Center for Texas Music History - Houston Roots
-- Texas State University Center for Texas Music History - History of Texas Chicano Soul
-- Apple Music - Isidro Lopez
-- AllMusic - Isidro Lopez
+  - Last.fm - Isidro Lopez biography
+  - Smithsonian Folkways - The Roots of Tejano and Conjunto Music
+  - Texas State University Center for Texas Music History - Houston Roots
+  - >-
+    Texas State University Center for Texas Music History - History of Texas
+    Chicano Soul
+  - Apple Music - Isidro Lopez
+  - AllMusic - Isidro Lopez
 network_extracted: true
 entry_created: '2025-11-28T07:36:30.573152'
 last_updated: '2025-12-23T08:16:08.860735'
-
+birth_place: 'Bishop, Texas, United States'
+origin: >-
+  Bishop, Texas, USA (Isidro Lopez birthplace); San Benito, Texas, USA (Freddy
+  Fender birthplace)
+birth_date: '1929-05-17'
+death_date: '2004-08-15'
+artist_type: band
 ---
 
 ![](freddy_fender_y_isidro_lopez.jpg)

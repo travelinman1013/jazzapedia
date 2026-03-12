@@ -2,63 +2,62 @@
 artist_type: person
 biography_enhanced_at: '2025-12-28T01:59:11.244145'
 birth_date: '1989-08-19'
-birth_place: Enugu
+birth_place: 'Enugu, Enugu State, Nigeria'
 disambiguation: alias for Douglas Jack Agu from Nigeria
 enhancement_provider: perplexity
 entry_created: '2025-12-28T01:59:11.244160'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8659a81e-3f22-4035-bdc6-8cf89ada7d50
-  spotify: https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb
-  wikipedia: https://en.wikipedia.org/wiki/Runtown
+  musicbrainz: 'https://musicbrainz.org/artist/8659a81e-3f22-4035-bdc6-8cf89ada7d50'
+  spotify: 'https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb'
+  wikipedia: 'https://en.wikipedia.org/wiki/Runtown'
 gender: Male
 genres:
-- afrobeats
-- afrobeat
-- afropop
-- azonto
-- hiplife
-- alté
-- afroswing
-- soca
+  - afrobeats
+  - afrobeat
+  - afropop
+  - azonto
+  - hiplife
+  - alté
+  - afroswing
+  - soca
 image_path: 03_Resources/source_material/ArtistPortraits/runtown.jpg
 last_updated: '2025-12-28T01:59:11.244162'
 musical_connections:
   collaborators:
-  - Phyno
-  - Davido
-  - Skales
-  - Patoranking
-  - WizzyPro
-  - Eric Many Entertainment
+    - Phyno
+    - Davido
+    - Skales
+    - Patoranking
+    - WizzyPro
+    - Eric Many Entertainment
   influenced:
-  - Younger Afrobeats and alté/afro‑fusion artists (various, emerging)
+    - 'Younger Afrobeats and alté/afro‑fusion artists (various, emerging)'
   mentors:
-  - Timaya
-  - J. Martins
-  - Sean Kingston, Bob Marley, Kanye West
+    - Timaya
+    - J. Martins
+    - 'Sean Kingston, Bob Marley, Kanye West'
 musicbrainz_id: 8659a81e-3f22-4035-bdc6-8cf89ada7d50
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Runtown
-- https://kids.kiddle.co/Runtown
-- https://www.bluepierecords.com/artist/runtown/
-- https://orimmusic.com/runtown-2/
-- https://www.musicinafrica.net/fr/node/12437
-- https://www.youtube.com/watch?v=CaRcojRwPB4
-- https://www.last.fm/music/RUNTOWN/+wiki
-- https://afternoonexpress.co.za/guests/runtown/3103
+  - 'https://en.wikipedia.org/wiki/Runtown'
+  - 'https://kids.kiddle.co/Runtown'
+  - 'https://www.bluepierecords.com/artist/runtown/'
+  - 'https://orimmusic.com/runtown-2/'
+  - 'https://www.musicinafrica.net/fr/node/12437'
+  - 'https://www.youtube.com/watch?v=CaRcojRwPB4'
+  - 'https://www.last.fm/music/RUNTOWN/+wiki'
+  - 'https://afternoonexpress.co.za/guests/runtown/3103'
 spotify_data:
   followers: 1689837
   id: 6mMtnxEQkYoY5FfJIQ9Rhb
   popularity: 63
-  url: https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb
+  url: 'https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb'
 status: active
 tags:
-- afrobeats
-- nigerian songwriter
-title: runtown
-
+  - afrobeats
+  - nigerian songwriter
+title: Runtown
 ---
 
 ![](runtown.jpg)

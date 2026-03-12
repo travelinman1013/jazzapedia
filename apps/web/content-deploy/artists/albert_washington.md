@@ -1,42 +1,46 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-13T01:15:02.900483'
-birth_place: Georgia, USA (birthplace)
+birth_place: 'Georgia, USA (birthplace)'
 enhancement_provider: perplexity
 entry_created: '2026-01-13T01:15:02.900489'
 external_urls:
-  spotify: https://open.spotify.com/artist/6UqKZtNxjPiCZ63E74KnUs
+  spotify: 'https://open.spotify.com/artist/6UqKZtNxjPiCZ63E74KnUs'
   wikipedia: ''
 genres:
-- northern soul
-- soul blues
+  - northern soul
+  - soul blues
 image_path: 03_Resources/source_material/ArtistPortraits/albert_washington.jpg
 last_updated: '2026-01-13T01:15:02.900489'
 musical_connections:
   collaborators:
-  - Lonnie Mack
-  - The Kings
-  - Steve Tracy
-  - Harry Carlson
+    - Lonnie Mack
+    - The Kings
+    - Steve Tracy
+    - Harry Carlson
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://buckeyebeat.com/albertwashington.html
-- https://fromthevaults-boppinbob.blogspot.com/2023/08/albert-washington-born-17-august-1935.html
-- https://acerecords.co.uk/im-the-mancase-of-the-blues
-- https://recentmusic.com/artist/6UqKZtNxjPiCZ63E74KnUs/
-- https://www.blues-sessions.com/albertwashington.php
-- https://www.allmusic.com/artist/albert-washington-mn0000616739
-- https://www.zeroto180.org/albert-washingtons-psych-funk/
+  - 'https://buckeyebeat.com/albertwashington.html'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2023/08/albert-washington-born-17-august-1935.html
+  - 'https://acerecords.co.uk/im-the-mancase-of-the-blues'
+  - 'https://recentmusic.com/artist/6UqKZtNxjPiCZ63E74KnUs/'
+  - 'https://www.blues-sessions.com/albertwashington.php'
+  - 'https://www.allmusic.com/artist/albert-washington-mn0000616739'
+  - 'https://www.zeroto180.org/albert-washingtons-psych-funk/'
 spotify_data:
   followers: 355
   id: 6UqKZtNxjPiCZ63E74KnUs
   popularity: 5
-  url: https://open.spotify.com/artist/6UqKZtNxjPiCZ63E74KnUs
+  url: 'https://open.spotify.com/artist/6UqKZtNxjPiCZ63E74KnUs'
 status: active
 title: Albert Washington
+origin: 'Cincinnati, Ohio, United States'
+birth_date: '1935-08-17'
+death_date: '1998-10-23'
 ---
 
 ![](albert_washington.jpg)

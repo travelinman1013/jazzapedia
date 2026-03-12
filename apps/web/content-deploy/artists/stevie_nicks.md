@@ -5,49 +5,49 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1948-05-26'
-birth_place: Phoenix
+birth_place: 'Phoenix, Arizona, United States'
 genres: []
 instruments:
-- eponymous
-- lead vocals
-- original
-- keyboard
-- piano
-- tack piano
-- background vocals
-- spoken vocals
-associated_acts:
-- begin: '1972'
-  end: '1974'
-  instruments:
   - eponymous
   - lead vocals
   - original
-  mbid: 4b1bf05d-0e3c-44a3-9fc8-ad088fc25797
-  name: Buckingham Nicks
-- begin: '1975'
-  end: '1990'
-  instruments:
-  - lead vocals
-  mbid: bd13909f-1c29-4c27-a874-d4aaf27c5b1a
-  name: Fleetwood Mac
-- begin: '1997'
-  end: ''
-  instruments:
   - keyboard
-  - lead vocals
-  mbid: bd13909f-1c29-4c27-a874-d4aaf27c5b1a
-  name: Fleetwood Mac
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b9a9487b-abf6-4a95-a8fd-238cc093e99b
-  name: Sound City Players
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c5e16e32-a5c4-4c13-a738-e12ccf39cac8
-  name: Sincerely, San Jose
+  - piano
+  - tack piano
+  - background vocals
+  - spoken vocals
+associated_acts:
+  - begin: '1972'
+    end: '1974'
+    instruments:
+      - eponymous
+      - lead vocals
+      - original
+    mbid: 4b1bf05d-0e3c-44a3-9fc8-ad088fc25797
+    name: Buckingham Nicks
+  - begin: '1975'
+    end: '1990'
+    instruments:
+      - lead vocals
+    mbid: bd13909f-1c29-4c27-a874-d4aaf27c5b1a
+    name: Fleetwood Mac
+  - begin: '1997'
+    end: ''
+    instruments:
+      - keyboard
+      - lead vocals
+    mbid: bd13909f-1c29-4c27-a874-d4aaf27c5b1a
+    name: Fleetwood Mac
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b9a9487b-abf6-4a95-a8fd-238cc093e99b
+    name: Sound City Players
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c5e16e32-a5c4-4c13-a738-e12ccf39cac8
+    name: 'Sincerely, San Jose'
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/stevie_nicks.jpg
   caption: Stevie Nicks
@@ -61,7 +61,7 @@ audio_profile:
   danceability_avg: 0.577
   acousticness_avg: 0.188
   instrumentalness_avg: 0.013
-  loudness_avg: -8.0
+  loudness_avg: -8
   speechiness_avg: 0.038
   liveness_avg: 0.23
   track_count: 51
@@ -69,58 +69,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lindsey Buckingham
-  - Fleetwood Mac (Mick Fleetwood, John McVie, Christine McVie)
-  - Tom Petty
-  - Don Henley
-  - Sheryl Crow
+    - Lindsey Buckingham
+    - 'Fleetwood Mac (Mick Fleetwood, John McVie, Christine McVie)'
+    - Tom Petty
+    - Don Henley
+    - Sheryl Crow
   influenced:
-  - Florence Welch (Florence + The Machine)
-  - HAIM
-  - Taylor Swift
+    - Florence Welch (Florence + The Machine)
+    - HAIM
+    - Taylor Swift
   mentors:
-  - Janis Joplin
-  - Joni Mitchell
+    - Janis Joplin
+    - Joni Mitchell
 spotify_data:
   followers: 2156484
   id: 7crPfGd2k81ekOoSqQKWWz
   popularity: 68
-  url: https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz
+  url: 'https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz'
 discography_enriched: true
 top_tracks:
-- Edge of Seventeen - 2016 Remaster (Bella Donna (2016 Remastered))
-- Edge of Seventeen
-- Stop Draggin' My Heart Around (with Tom Petty and The Heartbreakers) - 2016 Remaster (Bella Donna (2016 Remastered))
-- Edge of Midnight (Midnight Sky Remix) (feat. Stevie Nicks) (Plastic Hearts)
-- Beautiful People Beautiful Problems (feat. Stevie Nicks) (Lust For Life)
-- Stand Back
-- Edge of Seventeen - 2016 Remaster (Bella Donna (Deluxe Edition))
-- Oil (feat. Stevie Nicks) (Cracker Island)
-- Rooms on Fire (The Other Side of the Mirror)
-- Leather and Lace - 2016 Remaster (Bella Donna (2016 Remastered))
+  - Edge of Seventeen - 2016 Remaster (Bella Donna (2016 Remastered))
+  - Edge of Seventeen
+  - >-
+    Stop Draggin' My Heart Around (with Tom Petty and The Heartbreakers) - 2016
+    Remaster (Bella Donna (2016 Remastered))
+  - Edge of Midnight (Midnight Sky Remix) (feat. Stevie Nicks) (Plastic Hearts)
+  - Beautiful People Beautiful Problems (feat. Stevie Nicks) (Lust For Life)
+  - Stand Back
+  - Edge of Seventeen - 2016 Remaster (Bella Donna (Deluxe Edition))
+  - Oil (feat. Stevie Nicks) (Cracker Island)
+  - Rooms on Fire (The Other Side of the Mirror)
+  - Leather and Lace - 2016 Remaster (Bella Donna (2016 Remastered))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b7f2cca2-72c6-41fb-ae33-53370fc62fe7
-  spotify: https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz
-  wikipedia: https://en.wikipedia.org/wiki/Stevie_Nicks
+  musicbrainz: 'https://musicbrainz.org/artist/b7f2cca2-72c6-41fb-ae33-53370fc62fe7'
+  spotify: 'https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz'
+  wikipedia: 'https://en.wikipedia.org/wiki/Stevie_Nicks'
 image_path: 03_Resources/source_material/ArtistPortraits/stevie_nicks.jpg
 biography_enhanced_at: '2025-11-21T07:28:04.275254'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.biography.com/musicians/stevie-nicks
-- https://en.wikipedia.org/wiki/Stevie_Nicks
-- https://www.britannica.com/biography/Stevie-Nicks
-- https://stevienicks.info/about/
-- https://www.timetoast.com/timelines/stevie-nicks-5cdec0c7-9e3d-450f-a447-396f77bd2732
+  - 'https://www.biography.com/musicians/stevie-nicks'
+  - 'https://en.wikipedia.org/wiki/Stevie_Nicks'
+  - 'https://www.britannica.com/biography/Stevie-Nicks'
+  - 'https://stevienicks.info/about/'
+  - >-
+    https://www.timetoast.com/timelines/stevie-nicks-5cdec0c7-9e3d-450f-a447-396f77bd2732
 network_extracted: true
 entry_created: '2025-11-21T07:28:04.275263'
 last_updated: '2025-12-23T08:16:16.161436'
 gender: Female
 musicbrainz_id: b7f2cca2-72c6-41fb-ae33-53370fc62fe7
 tags:
-- country rock
-- pop
-- pop rock
+  - country rock
+  - pop
+  - pop rock
 ---
 
 ![](stevie_nicks.jpg)

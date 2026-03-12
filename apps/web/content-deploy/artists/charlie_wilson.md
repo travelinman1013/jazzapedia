@@ -3,14 +3,14 @@ title: Charlie Wilson
 wiki_slug: charlie-wilson
 schema_version: 2
 status: active
-birth_place: Tulsa, Oklahoma, USA
+birth_place: 'Tulsa, Oklahoma, USA'
 genres:
-- sexy drill
+  - sexy drill
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/charlie_wilson.jpg
   caption: Charlie Wilson
   background: solo_singer
-  origin: Tulsa, Oklahoma, USA
+  origin: 'Tulsa, Oklahoma, USA'
 audio_profile:
   tempo_avg: 112.4
   energy_avg: 0.662
@@ -26,52 +26,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Robert Wilson & Ronnie Wilson
-  - Snoop Dogg
-  - R. Kelly
-  - Justin Timberlake
-  - will.i.am
-  - Pharrell Williams
-  - Kanye West
-  - Bruno Mars
-  - Eurythmics
+    - Robert Wilson & Ronnie Wilson
+    - Snoop Dogg
+    - R. Kelly
+    - Justin Timberlake
+    - will.i.am
+    - Pharrell Williams
+    - Kanye West
+    - Bruno Mars
+    - Eurythmics
   influenced: []
   mentors:
-  - Leon Russell & Denny Cordell
+    - Leon Russell & Denny Cordell
 spotify_data:
   followers: 1169320
   id: 6CxZzQFUTM6AzgluGwtq5w
   popularity: 63
-  url: https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w
+  url: 'https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w'
 discography_enriched: true
 top_tracks:
-- Beautiful (Paid Tha Cost To Be Da Bo$$)
-- 'Signs (R&G (Rhythm & Gangsta): The Masterpiece)'
-- FUCKING YOUNG / PERFECT (feat. Charlie Wilson, Chaz Bundick, Sydney Bennett & Kali Uchis) (Cherry Bomb)
-- ATTITUDE (FEAT. CHARLIE WILSON & CASH COBAIN) (HARDSTONE PSYCHO)
-- ATTITUDE (FEAT. CHARLIE WILSON & CASH COBAIN)
-- ATTITUDE (FEAT. CHARLIE WILSON & CASH COBAIN) (HARDSTONE PSYCHO)
-- Charlie, Last Name Wilson
-- If I Had (feat. Charlie Wilson) (Love Sick)
-- Without You
-- FUCKING YOUNG / PERFECT (feat. Charlie Wilson, Chaz Bundick, Sydney Bennett & Kali Uchis) (Cherry Bomb + Instrumentals)
+  - Beautiful (Paid Tha Cost To Be Da Bo$$)
+  - 'Signs (R&G (Rhythm & Gangsta): The Masterpiece)'
+  - >-
+    FUCKING YOUNG / PERFECT (feat. Charlie Wilson, Chaz Bundick, Sydney Bennett
+    & Kali Uchis) (Cherry Bomb)
+  - ATTITUDE (FEAT. CHARLIE WILSON & CASH COBAIN) (HARDSTONE PSYCHO)
+  - ATTITUDE (FEAT. CHARLIE WILSON & CASH COBAIN)
+  - ATTITUDE (FEAT. CHARLIE WILSON & CASH COBAIN) (HARDSTONE PSYCHO)
+  - 'Charlie, Last Name Wilson'
+  - If I Had (feat. Charlie Wilson) (Love Sick)
+  - Without You
+  - >-
+    FUCKING YOUNG / PERFECT (feat. Charlie Wilson, Chaz Bundick, Sydney Bennett
+    & Kali Uchis) (Cherry Bomb + Instrumentals)
 external_urls:
-  spotify: https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w
-  wikipedia: https://en.wikipedia.org/wiki/Charlie_Wilson_(singer)
+  spotify: 'https://open.spotify.com/artist/6CxZzQFUTM6AzgluGwtq5w'
+  wikipedia: 'https://en.wikipedia.org/wiki/Charlie_Wilson_(singer)'
 image_path: 03_Resources/source_material/ArtistPortraits/charlie_wilson.jpg
 biography_enhanced_at: '2025-12-04T07:32:59.649133'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Charlie Wilson (singer)
-- National Today - Charlie Wilson Birthday
-- All American Speakers - Charlie Wilson Biography
-- BlackPast.org - Charlie Wilson (1953-)
-- IMDb - Charlie Wilson Biography
-- AllMusic - Charlie Wilson
+  - Wikipedia - Charlie Wilson (singer)
+  - National Today - Charlie Wilson Birthday
+  - All American Speakers - Charlie Wilson Biography
+  - BlackPast.org - Charlie Wilson (1953-)
+  - IMDb - Charlie Wilson Biography
+  - AllMusic - Charlie Wilson
 network_extracted: true
 entry_created: '2025-12-04T07:32:59.649148'
 last_updated: '2025-12-23T08:16:06.775931'
+birth_date: '1953-01-29'
+artist_type: person
 ---
 
 ![](charlie_wilson.jpg)

@@ -1,40 +1,41 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-03T01:42:35.681906'
 disambiguation: 50s funk/soul
 enhancement_provider: perplexity
 entry_created: '2026-01-03T01:42:35.681920'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/edccdb07-9924-4066-be91-fce9bbc0bd04
-  spotify: https://open.spotify.com/artist/3CCZWBU9kOxJQLzdzomvwb
+  musicbrainz: 'https://musicbrainz.org/artist/edccdb07-9924-4066-be91-fce9bbc0bd04'
+  spotify: 'https://open.spotify.com/artist/3CCZWBU9kOxJQLzdzomvwb'
   wikipedia: ''
 genres:
-- doo-wop
-- northern soul
+  - doo-wop
+  - northern soul
 image_path: 03_Resources/source_material/ArtistPortraits/the_four_kings.jpg
 last_updated: '2026-01-03T01:42:35.681922'
 musical_connections:
   collaborators:
-  - Sam Stray
+    - Sam Stray
   influenced: []
   mentors: []
 musicbrainz_id: edccdb07-9924-4066-be91-fce9bbc0bd04
 network_extracted: true
-origin: Linden, New Jersey, USA
+origin: 'Linden, New Jersey, USA'
 primary_source: perplexity
 research_sources:
-- https://doo-wop.blogg.org/the-four-kings-6-aka-the-uniques-4-a116515804
-- http://whitedoowopcollector.blogspot.com/2009/05/the-uniques-aka-four-kings.html
-- https://doo-wop.blogg.org/main-tag/four-kings-3-c26502940
+  - 'https://doo-wop.blogg.org/the-four-kings-6-aka-the-uniques-4-a116515804'
+  - >-
+    http://whitedoowopcollector.blogspot.com/2009/05/the-uniques-aka-four-kings.html
+  - 'https://doo-wop.blogg.org/main-tag/four-kings-3-c26502940'
 spotify_data:
   followers: 103
   id: 3CCZWBU9kOxJQLzdzomvwb
   popularity: 1
-  url: https://open.spotify.com/artist/3CCZWBU9kOxJQLzdzomvwb
+  url: 'https://open.spotify.com/artist/3CCZWBU9kOxJQLzdzomvwb'
 status: active
 tags:
-- funk
-- soul
+  - funk
+  - soul
 title: The Four Kings
 ---
 

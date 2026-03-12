@@ -5,23 +5,23 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1958-12-13'
-birth_place: Chicago
+birth_place: 'Chicago, Illinois, United States'
 genres:
-- blues
-- modern blues
-- classic blues
-- blues rock
+  - blues
+  - modern blues
+  - classic blues
+  - blues rock
 instruments:
-- guitar
-- electric guitar
-- acoustic guitar
-- vocal
+  - guitar
+  - electric guitar
+  - acoustic guitar
+  - vocal
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 40104ee9-6a2a-48c4-926f-48c460feb065
-  name: 'Chicago Blues: A Living History'
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 40104ee9-6a2a-48c4-926f-48c460feb065
+    name: 'Chicago Blues: A Living History'
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lurrie_bell.jpg
   caption: Lurrie Bell
@@ -35,7 +35,7 @@ audio_profile:
   danceability_avg: 0.605
   acousticness_avg: 0.49
   instrumentalness_avg: 0.097
-  loudness_avg: -7.0
+  loudness_avg: -7
   speechiness_avg: 0.073
   liveness_avg: 0.209
   track_count: 50
@@ -43,64 +43,67 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Carey Bell
-  - Billy Branch
-  - Koko Taylor
-  - Freddie Dixon
-  - Eddie C. Campbell
-  - Billy Boy Arnold
-  - John Primer
-  - Orgone
-  - Steve Ferrone
-  - Sunnyland Slim
-  - Louisiana Red
+    - Carey Bell
+    - Billy Branch
+    - Koko Taylor
+    - Freddie Dixon
+    - Eddie C. Campbell
+    - Billy Boy Arnold
+    - John Primer
+    - Orgone
+    - Steve Ferrone
+    - Sunnyland Slim
+    - Louisiana Red
   influenced: []
   mentors:
-  - Lovie Lee
-  - Willie Dixon
-  - Eddy Clearwater
-  - Big Walter Horton
-  - Eddie Taylor
+    - Lovie Lee
+    - Willie Dixon
+    - Eddy Clearwater
+    - Big Walter Horton
+    - Eddie Taylor
 spotify_data:
   followers: 9714
   id: 4l8tDkcTwCBeLrQPk5lEU3
   popularity: 26
-  url: https://open.spotify.com/artist/4l8tDkcTwCBeLrQPk5lEU3
+  url: 'https://open.spotify.com/artist/4l8tDkcTwCBeLrQPk5lEU3'
 discography_enriched: true
 top_tracks:
-- Blues in My Soul (Blues in My Soul)
-- Windy City Blues
-- This Worrisome Feeling in My Heart (Can't Shake This Feeling)
-- The Sky Is Crying (Set Me Free)
-- Got My Eyes On You (The Blues Had A Baby)
-- The Road Is So Long (Second Nature)
-- I Feel so Good (Blues in My Soul)
-- Smokin' Dynamite
-- The Road Is So Long (Alligator Records 45th Anniversary Collection)
-- Key To The Highway (Second Nature)
+  - Blues in My Soul (Blues in My Soul)
+  - Windy City Blues
+  - This Worrisome Feeling in My Heart (Can't Shake This Feeling)
+  - The Sky Is Crying (Set Me Free)
+  - Got My Eyes On You (The Blues Had A Baby)
+  - The Road Is So Long (Second Nature)
+  - I Feel so Good (Blues in My Soul)
+  - Smokin' Dynamite
+  - The Road Is So Long (Alligator Records 45th Anniversary Collection)
+  - Key To The Highway (Second Nature)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/eb9c7f54-740b-48bf-9b5e-e727e682b727
-  spotify: https://open.spotify.com/artist/4l8tDkcTwCBeLrQPk5lEU3
-  wikipedia: https://en.wikipedia.org/wiki/Lurrie_Bell
+  musicbrainz: 'https://musicbrainz.org/artist/eb9c7f54-740b-48bf-9b5e-e727e682b727'
+  spotify: 'https://open.spotify.com/artist/4l8tDkcTwCBeLrQPk5lEU3'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lurrie_Bell'
 image_path: 03_Resources/source_material/ArtistPortraits/lurrie_bell.jpg
 biography_enhanced_at: '2025-12-04T07:24:40.596283'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Lurrie_Bell
-- https://www.oakpark.com/2022/12/13/the-rollercoaster-life-of-master-bluesman-lurrie-bell/
-- https://blues.org/blues_hof_inductee/lurrie-bell/
-- https://thefestival.bc.ca/artists/lurrie-bell/
-- https://www.americanbluesscene.com/2023/03/lurrie-bell-genius-takes-its-toll/
-- https://www.3arts.org/artist/lurrie-bell/
+  - 'https://en.wikipedia.org/wiki/Lurrie_Bell'
+  - >-
+    https://www.oakpark.com/2022/12/13/the-rollercoaster-life-of-master-bluesman-lurrie-bell/
+  - 'https://blues.org/blues_hof_inductee/lurrie-bell/'
+  - 'https://thefestival.bc.ca/artists/lurrie-bell/'
+  - >-
+    https://www.americanbluesscene.com/2023/03/lurrie-bell-genius-takes-its-toll/
+  - 'https://www.3arts.org/artist/lurrie-bell/'
 network_extracted: true
 entry_created: '2025-12-04T07:24:40.596291'
 last_updated: '2025-12-23T08:16:12.374531'
 gender: Male
 musicbrainz_id: eb9c7f54-740b-48bf-9b5e-e727e682b727
 tags:
-- blues
-- chicago blues
+  - blues
+  - chicago blues
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](lurrie_bell.jpg)

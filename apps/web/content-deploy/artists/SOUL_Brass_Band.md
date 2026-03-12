@@ -4,7 +4,7 @@ wiki_slug: soul-brass-band
 schema_version: 2
 status: active
 genres:
-- retro soul
+  - retro soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/SOUL_Brass_Band.jpg
   caption: SOUL Brass Band
@@ -24,46 +24,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Derrick 'Smoker' Freeman
-  - CeeLo Green
+    - Derrick 'Smoker' Freeman
+    - CeeLo Green
   influenced:
-  - Local New Orleans musicians
+    - Local New Orleans musicians
   mentors:
-  - Reggie Houston
+    - Reggie Houston
 spotify_data:
   followers: 511
   id: 0MfoQDpz1RAj2qAKIfoZ33
   popularity: 1
-  url: https://open.spotify.com/artist/0MfoQDpz1RAj2qAKIfoZ33
+  url: 'https://open.spotify.com/artist/0MfoQDpz1RAj2qAKIfoZ33'
 discography_enriched: true
 top_tracks:
-- How Far We Come (Levels)
-- Open Your Eyes (Levels)
-- Ease on Down the Road (Levels)
-- Rendezvous (Levels)
-- PARTY (Life on Mars!)
-- Circles (Levels)
-- Dark Corners (Levels)
-- Life on Mars! (Life on Mars!)
-- Levels (Levels)
-- Fuck Around and Find Out (Fuck Around and Find Out)
+  - How Far We Come (Levels)
+  - Open Your Eyes (Levels)
+  - Ease on Down the Road (Levels)
+  - Rendezvous (Levels)
+  - PARTY (Life on Mars!)
+  - Circles (Levels)
+  - Dark Corners (Levels)
+  - Life on Mars! (Life on Mars!)
+  - Levels (Levels)
+  - Fuck Around and Find Out (Fuck Around and Find Out)
 external_urls:
-  spotify: https://open.spotify.com/artist/0MfoQDpz1RAj2qAKIfoZ33
+  spotify: 'https://open.spotify.com/artist/0MfoQDpz1RAj2qAKIfoZ33'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/SOUL_Brass_Band.jpg
 biography_enhanced_at: '2025-10-20T09:54:00.512437'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.neworleans.com/listing/soul-brass-band/46551/
-- https://soulbrassband.com/soul-brass-band
-- https://www.youtube.com/@soulbrassband2526/about
-- https://www.youtube.com/watch?v=XStD4rudYWQ
+  - 'https://www.neworleans.com/listing/soul-brass-band/46551/'
+  - 'https://soulbrassband.com/soul-brass-band'
+  - 'https://www.youtube.com/@soulbrassband2526/about'
+  - 'https://www.youtube.com/watch?v=XStD4rudYWQ'
 network_extracted: true
 entry_created: '2025-10-20T09:54:00.512449'
 last_updated: '2025-12-23T08:16:03.794119'
-origin: New Orleans, Louisiana, United States
-
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](SOUL_Brass_Band.jpg)

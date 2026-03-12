@@ -15,7 +15,7 @@ audio_profile:
   danceability_avg: 0.529
   acousticness_avg: 0.727
   instrumentalness_avg: 0.479
-  loudness_avg: -13.0
+  loudness_avg: -13
   speechiness_avg: 0.109
   liveness_avg: 0.107
   track_count: 9
@@ -23,49 +23,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Cleveland Donald
-  - David Bode
-  - Peter Gustafson
-  - Yacine Sebti
-  - Steven Bohnstengel
-  - Trenton O’Neal
-  - Angie Z
+    - Cleveland Donald
+    - David Bode
+    - Peter Gustafson
+    - Yacine Sebti
+    - Steven Bohnstengel
+    - Trenton O’Neal
+    - Angie Z
   influenced: []
   mentors:
-  - New Orleans jazz tradition
+    - New Orleans jazz tradition
 spotify_data:
   followers: 136
   id: 1TCbCFLuMBtHFihlJUYSFF
   popularity: 0
-  url: https://open.spotify.com/artist/1TCbCFLuMBtHFihlJUYSFF
+  url: 'https://open.spotify.com/artist/1TCbCFLuMBtHFihlJUYSFF'
 discography_enriched: true
 top_tracks:
-- On the Sunny Side of the Street (New Orleans High Society)
-- Lil' Liza Jane (New Orleans High Society)
-- Down by the Riverside (New Orleans High Society)
-- New Orleans (New Orleans High Society)
-- Creole Love Call (New Orleans High Society)
-- Ice Cream (New Orleans High Society)
-- When It's Sleepy Time Down South (New Orleans High Society)
-- At the Jazz Band Ball (New Orleans High Society)
-- That's a Plenty (New Orleans High Society)
+  - On the Sunny Side of the Street (New Orleans High Society)
+  - Lil' Liza Jane (New Orleans High Society)
+  - Down by the Riverside (New Orleans High Society)
+  - New Orleans (New Orleans High Society)
+  - Creole Love Call (New Orleans High Society)
+  - Ice Cream (New Orleans High Society)
+  - When It's Sleepy Time Down South (New Orleans High Society)
+  - At the Jazz Band Ball (New Orleans High Society)
+  - That's a Plenty (New Orleans High Society)
 external_urls:
-  spotify: https://open.spotify.com/artist/1TCbCFLuMBtHFihlJUYSFF
+  spotify: 'https://open.spotify.com/artist/1TCbCFLuMBtHFihlJUYSFF'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/new_orleans_high_society.jpg
 biography_enhanced_at: '2025-10-29T16:43:40.476697'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://nohighsociety.com/bio
-- https://slamminmedia.ca/artist/new-orleans-high-society/
-- https://www.louisianamusicfactory.com/product/new-orleans-high-society-new-orleans-high-society/
-- https://nohighsociety.com
-- https://jazzjournal.co.uk/2021/01/28/new-orleans-high-society/
+  - 'https://nohighsociety.com/bio'
+  - 'https://slamminmedia.ca/artist/new-orleans-high-society/'
+  - >-
+    https://www.louisianamusicfactory.com/product/new-orleans-high-society-new-orleans-high-society/
+  - 'https://nohighsociety.com'
+  - 'https://jazzjournal.co.uk/2021/01/28/new-orleans-high-society/'
 network_extracted: true
 entry_created: '2025-10-29T16:43:40.476711'
 last_updated: '2025-12-23T08:16:13.535167'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![](new_orleans_high_society.jpg)

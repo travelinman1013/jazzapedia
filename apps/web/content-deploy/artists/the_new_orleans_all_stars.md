@@ -1,14 +1,14 @@
 ---
-title: the new orleans all stars
+title: The New Orleans All Stars
 wiki_slug: the-new-orleans-all-stars
 schema_version: 2
 status: active
 genres:
-- jazz
-- swing music
-- big band
-- vocal jazz
-- jazz blues
+  - jazz
+  - swing music
+  - big band
+  - vocal jazz
+  - jazz blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_new_orleans_all_stars.jpg
   caption: the new orleans all stars
@@ -34,21 +34,21 @@ spotify_data:
   followers: 3256834
   id: 19eLuQmk9aCobbVDHc6eek
   popularity: 73
-  url: https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek
+  url: 'https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek'
 discography_enriched: true
 top_tracks:
-- What A Wonderful World (What A Wonderful World)
-- La vie en rose - Single Version (Satchmo Serenades)
-- Dream A Little Dream Of Me (What A Wonderful World)
-- Dream A Little Dream Of Me - Single Version
-- A Kiss To Build A Dream On - Single Version (Satchmo Serenades)
-- Summertime (Porgy And Bess)
-- Cheek To Cheek (Ella and Louis)
-- Cheek To Cheek
-- C'est si bon (Satchmo Serenades)
-- Hello, Dolly! (Hello, Dolly! (Remastered))
+  - What A Wonderful World (What A Wonderful World)
+  - La vie en rose - Single Version (Satchmo Serenades)
+  - Dream A Little Dream Of Me (What A Wonderful World)
+  - Dream A Little Dream Of Me - Single Version
+  - A Kiss To Build A Dream On - Single Version (Satchmo Serenades)
+  - Summertime (Porgy And Bess)
+  - Cheek To Cheek (Ella and Louis)
+  - Cheek To Cheek
+  - C'est si bon (Satchmo Serenades)
+  - 'Hello, Dolly! (Hello, Dolly! (Remastered))'
 external_urls:
-  spotify: https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek
+  spotify: 'https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/the_new_orleans_all_stars.jpg
 biography_enhanced_at: '2025-12-05T06:09:16.760357'
@@ -58,7 +58,8 @@ research_sources: []
 network_extracted: true
 entry_created: '2025-12-05T06:09:16.760367'
 last_updated: '2025-12-23T08:16:17.018242'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![](the_new_orleans_all_stars.jpg)

@@ -1,51 +1,55 @@
 ---
 biography_enhanced_at: '2025-12-28T02:01:26.170951'
-birth_place: Born in Germany; raised between Spain, Nigeria and the United Kingdom (London‑based).
+birth_place: >-
+  Born in Germany; raised between Spain, Nigeria and the United Kingdom
+  (London‑based).
 enhancement_provider: perplexity
 entry_created: '2025-12-28T02:01:26.170966'
 external_urls:
-  spotify: https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh
-  wikipedia: https://en.wikipedia.org/wiki/Odeal
+  spotify: 'https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh'
+  wikipedia: 'https://en.wikipedia.org/wiki/Odeal'
 genres:
-- afroswing
-- alté
-- afrobeats
-- afrobeat
-- afro soul
+  - afroswing
+  - alté
+  - afrobeats
+  - afrobeat
+  - afro soul
 image_path: 03_Resources/source_material/ArtistPortraits/odeal_and_wizkid.jpg
 last_updated: '2025-12-28T02:01:26.170968'
 musical_connections:
   collaborators:
-  - TMG
-  - Gabzy
-  - Nines
-  - ENNY
-  - Lojay
+    - TMG
+    - Gabzy
+    - Nines
+    - ENNY
+    - Lojay
   influenced:
-  - Emerging UK alté and afro‑R&B artists (general cohort)
+    - Emerging UK alté and afro‑R&B artists (general cohort)
   mentors:
-  - James Brown
-  - Fela Kuti
-  - Burna Boy
-  - Wizkid
+    - James Brown
+    - Fela Kuti
+    - Burna Boy
+    - Wizkid
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Odeal
-- https://www.last.fm/music/Odeal/+wiki
-- https://primarytalent.com/artists/odeal/documents/Odeal%20Biography.pdf
-- https://hq.rostr.cc/insider/news/odeal-signs-with-sony-music-publishing
-- https://www.teamwass.com/music/odeal/
-- https://www.yamstheplaylist.com/p/the-soulful-world-of-odeal
-- https://uproxx.com/music/odeal-interview-thoughts-i-never-said-uproxx-music-20/
+  - 'https://en.wikipedia.org/wiki/Odeal'
+  - 'https://www.last.fm/music/Odeal/+wiki'
+  - 'https://primarytalent.com/artists/odeal/documents/Odeal%20Biography.pdf'
+  - 'https://hq.rostr.cc/insider/news/odeal-signs-with-sony-music-publishing'
+  - 'https://www.teamwass.com/music/odeal/'
+  - 'https://www.yamstheplaylist.com/p/the-soulful-world-of-odeal'
+  - >-
+    https://uproxx.com/music/odeal-interview-thoughts-i-never-said-uproxx-music-20/
 spotify_data:
   followers: 348232
   id: 2BPwxhCvvcb8xDl8GWIjbh
   popularity: 70
-  url: https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh
+  url: 'https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh'
 status: active
-title: odeal & wizkid
-
+title: Odeal & Wizkid
+origin: 'London, England, United Kingdom'
+artist_type: band
 ---
 
 ![](odeal_and_wizkid.jpg)

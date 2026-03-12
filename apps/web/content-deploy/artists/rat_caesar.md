@@ -29,32 +29,33 @@ spotify_data:
   followers: 551
   id: 5FQTVHZer0IAdZC3IOF7hL
   popularity: 3
-  url: https://open.spotify.com/artist/5FQTVHZer0IAdZC3IOF7hL
+  url: 'https://open.spotify.com/artist/5FQTVHZer0IAdZC3IOF7hL'
 discography_enriched: true
 top_tracks:
-- Poison
-- Wiki Wiki
-- Apologia - Jay Caesar Remix (Apologia EP)
-- Funky House - Original Mix (So Magic EP)
-- Psycho Killer
-- Just Keeping - Sean Guillermo Remix
-- Get Down
-- La Rumba
-- Indeed - Jizz Stopmer Remix
-- Smejem - Jay Caesar Remix
+  - Poison
+  - Wiki Wiki
+  - Apologia - Jay Caesar Remix (Apologia EP)
+  - Funky House - Original Mix (So Magic EP)
+  - Psycho Killer
+  - Just Keeping - Sean Guillermo Remix
+  - Get Down
+  - La Rumba
+  - Indeed - Jizz Stopmer Remix
+  - Smejem - Jay Caesar Remix
 external_urls:
-  spotify: https://open.spotify.com/artist/5FQTVHZer0IAdZC3IOF7hL
+  spotify: 'https://open.spotify.com/artist/5FQTVHZer0IAdZC3IOF7hL'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/rat_caesar.jpg
 biography_enhanced_at: '2025-12-23T02:07:16.391125'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Spotify context provided
-- 'YouTube: Bargain Bin (full album) - Rat Caesar (2021)'
+  - Spotify context provided
+  - 'YouTube: Bargain Bin (full album) - Rat Caesar (2021)'
 network_extracted: true
 entry_created: '2025-12-23T02:07:16.391139'
 last_updated: '2025-12-23T08:16:14.660325'
+artist_type: person
 ---
 
 ![](rat_caesar.jpg)

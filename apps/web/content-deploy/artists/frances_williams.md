@@ -1,39 +1,41 @@
 ---
 biography_enhanced_at: '2026-01-01T01:06:17.494088'
-birth_place: McConnell's Mill, Pennsylvania, USA
+birth_place: 'McConnell''s Mill, Pennsylvania, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-01T01:06:17.494103'
 external_urls:
-  spotify: https://open.spotify.com/artist/3TYcqgH4ulWA9z5H3qhmVf
-  wikipedia: https://en.wikipedia.org/wiki/Francis_Williams_(musician)
+  spotify: 'https://open.spotify.com/artist/3TYcqgH4ulWA9z5H3qhmVf'
+  wikipedia: 'https://en.wikipedia.org/wiki/Francis_Williams_(musician)'
 genres:
-- ragtime
+  - ragtime
 image_path: ''
 last_updated: '2026-01-01T01:06:17.494105'
 musical_connections:
   collaborators:
-  - Duke Ellington
-  - Fats Waller
-  - Ella Fitzgerald
-  - Machito
-  - Panama Francis
-  - Clyde Bernhardt
+    - Duke Ellington
+    - Fats Waller
+    - Ella Fitzgerald
+    - Machito
+    - Panama Francis
+    - Clyde Bernhardt
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Francis_Williams_(musician)
-- https://www.allmusic.com/artist/francis-williams-mn0000185641
-- https://www.allaboutjazz.com/musicians/francis-williams/
+  - 'https://en.wikipedia.org/wiki/Francis_Williams_(musician)'
+  - 'https://www.allmusic.com/artist/francis-williams-mn0000185641'
+  - 'https://www.allaboutjazz.com/musicians/francis-williams/'
 spotify_data:
   followers: 32
   id: 3TYcqgH4ulWA9z5H3qhmVf
   popularity: 1
-  url: https://open.spotify.com/artist/3TYcqgH4ulWA9z5H3qhmVf
+  url: 'https://open.spotify.com/artist/3TYcqgH4ulWA9z5H3qhmVf'
 status: active
-title: FRANCES WILLIAMS
-
+title: Frances Williams
+birth_date: '1910-09-20'
+death_date: '1983-10-02'
+artist_type: person
 ---
 
 ![]()

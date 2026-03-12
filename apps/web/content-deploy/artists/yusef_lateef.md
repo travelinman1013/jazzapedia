@@ -5,44 +5,44 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1920-10-09'
-birth_place: Chattanooga
+birth_place: 'Chattanooga, Tennessee, United States'
 death_date: '2013-12-23'
 genres:
-- jazz
-- hard bop
-- free jazz
-- avant-garde
+  - jazz
+  - hard bop
+  - free jazz
+  - avant-garde
 instruments:
-- eponymous
-- original
-- spoken vocals
+  - eponymous
+  - original
+  - spoken vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: b9e499eb-11b6-455f-8827-497f301edfc6
-  name: Yusef Lateef Sextet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 969c0626-7970-4426-8845-47ab55a717b2
-  name: Yusef Lateef Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 93be8f4b-f0d2-464d-aea0-3ddfc7c4456b
-  name: Cannonball Adderley Sextet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 581500ff-a866-4cd2-93cd-464e01669313
-  name: Yusef Lateef Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: b9e499eb-11b6-455f-8827-497f301edfc6
+    name: Yusef Lateef Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 969c0626-7970-4426-8845-47ab55a717b2
+    name: Yusef Lateef Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 93be8f4b-f0d2-464d-aea0-3ddfc7c4456b
+    name: Cannonball Adderley Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 581500ff-a866-4cd2-93cd-464e01669313
+    name: Yusef Lateef Quartet
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/yusef_lateef.jpg
   caption: Yusef Lateef
@@ -65,55 +65,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dizzy Gillespie
-  - Ernie Farrow
-  - Kenny Barron
+    - Dizzy Gillespie
+    - Ernie Farrow
+    - Kenny Barron
   influenced:
-  - Shabaka Hutchings
-  - Pharoah Sanders
+    - Shabaka Hutchings
+    - Pharoah Sanders
   mentors:
-  - Saj Dev
+    - Saj Dev
 spotify_data:
   followers: 163312
   id: 33XkS6h90eeK7e6OJHw0mq
   popularity: 47
-  url: https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq
+  url: 'https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq'
 discography_enriched: true
 top_tracks:
-- Love Theme From Spartacus - Remastered 2023 (Eastern Sounds (Remastered 2023))
-- Michelle (Suite 16)
-- Don't Blame Me - Remastered 2023 (Eastern Sounds (Remastered 2023))
-- The Plum Blossom - Remastered 2023 (Eastern Sounds (Remastered 2023))
-- Love Theme From The Robe - Remastered 2023 (Eastern Sounds (Remastered 2023))
-- Like It Is - Remastered (The Blue Yusef Lateef)
-- First Gymnopedie (Psychicemotus)
-- Woodward Avenue (Yusef Lateef's Detroit Latitude 42º 30º Longitude 83º)
-- Ching Miau - Remastered 2023 (Eastern Sounds (Remastered 2023))
-- (I Don't Stand) A Ghost Of A Chance With You (The Golden Flute)
+  - >-
+    Love Theme From Spartacus - Remastered 2023 (Eastern Sounds (Remastered
+    2023))
+  - Michelle (Suite 16)
+  - Don't Blame Me - Remastered 2023 (Eastern Sounds (Remastered 2023))
+  - The Plum Blossom - Remastered 2023 (Eastern Sounds (Remastered 2023))
+  - >-
+    Love Theme From The Robe - Remastered 2023 (Eastern Sounds (Remastered
+    2023))
+  - Like It Is - Remastered (The Blue Yusef Lateef)
+  - First Gymnopedie (Psychicemotus)
+  - Woodward Avenue (Yusef Lateef's Detroit Latitude 42º 30º Longitude 83º)
+  - Ching Miau - Remastered 2023 (Eastern Sounds (Remastered 2023))
+  - (I Don't Stand) A Ghost Of A Chance With You (The Golden Flute)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2968722f-03d8-4e2f-88bc-f9975f147503
-  spotify: https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq
-  wikipedia: https://en.wikipedia.org/wiki/Yusef_Lateef
+  musicbrainz: 'https://musicbrainz.org/artist/2968722f-03d8-4e2f-88bc-f9975f147503'
+  spotify: 'https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq'
+  wikipedia: 'https://en.wikipedia.org/wiki/Yusef_Lateef'
 image_path: 03_Resources/source_material/ArtistPortraits/yusef_lateef.jpg
 biography_enhanced_at: '2025-10-28T08:59:32.699832'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.arts.gov/honors/jazz/yusef-lateef
-- https://daily.bandcamp.com/lists/yusuf-lateef-album-guide
-- https://downbeat.com/news/detail/yusef-lateef-evolutionist
-- https://yuseflateef.com/about-yusef-lateef/
-- https://newmusicusa.org/nmbx/yusef-lateef-1920-2013/
-- https://www.everythingjazz.com/story/yusef-lateef-eastern-sounds/
+  - 'https://www.arts.gov/honors/jazz/yusef-lateef'
+  - 'https://daily.bandcamp.com/lists/yusuf-lateef-album-guide'
+  - 'https://downbeat.com/news/detail/yusef-lateef-evolutionist'
+  - 'https://yuseflateef.com/about-yusef-lateef/'
+  - 'https://newmusicusa.org/nmbx/yusef-lateef-1920-2013/'
+  - 'https://www.everythingjazz.com/story/yusef-lateef-eastern-sounds/'
 network_extracted: true
 entry_created: '2025-10-28T08:59:32.699845'
 last_updated: '2025-12-23T08:16:18.373635'
 gender: Male
 musicbrainz_id: 2968722f-03d8-4e2f-88bc-f9975f147503
 tags:
-- 2008 universal fire victim
-- avant-garde jazz
-- hard bop
+  - 2008 universal fire victim
+  - avant-garde jazz
+  - hard bop
+is_active: false
+origin: 'Detroit, Michigan, United States'
 ---
 
 ![](yusef_lateef.jpg)

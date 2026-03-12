@@ -5,15 +5,15 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1957-06-04'
-birth_place: Atlanta
+birth_place: 'Atlanta, Georgia, United States'
 genres:
-- blues
-- blues rock
-- modern blues
+  - blues
+  - blues rock
+  - modern blues
 instruments:
-- electric guitar
-- guitar
-- lead vocals
+  - electric guitar
+  - guitar
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/tinsley_ellis.jpg
   caption: Tinsley Ellis
@@ -35,56 +35,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Chicago Bob Nelson
-  - Nappy Brown
-  - Preston Hubbard
-  - Derek Trucks
+    - Chicago Bob Nelson
+    - Nappy Brown
+    - Preston Hubbard
+    - Derek Trucks
   influenced:
-  - Derek Trucks
+    - Derek Trucks
   mentors:
-  - B.B. King
-  - Freddie King
-  - British Invasion blues‑rock bands (The Yardbirds, The Animals, Cream, The Rolling Stones)
-  - Dana “Fast‑Fret” Scholl
+    - B.B. King
+    - Freddie King
+    - >-
+      British Invasion blues‑rock bands (The Yardbirds, The Animals, Cream, The
+      Rolling Stones)
+    - Dana “Fast‑Fret” Scholl
 spotify_data:
   followers: 54314
   id: 56LMX8mqaIhJCaxjZBM1on
   popularity: 41
-  url: https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on
+  url: 'https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on'
 discography_enriched: true
 top_tracks:
-- Kiss Of Death (Midnight Blue)
-- In From The Cold (Tough Love)
-- Freeway Soul (Moment of Truth)
-- Everything And Everyone (Ice Cream In Hell)
-- Don't Bury Our Love (Devil May Care)
-- Your Love's Like Heroin (Ice Cream In Hell)
-- Don't Turn Off The Light (Winning Hand)
-- Gamblin' Man (Winning Hand)
-- Lucky Lou (Georgia Blue)
-- Sound Of A Broken Man (Winning Hand)
+  - Kiss Of Death (Midnight Blue)
+  - In From The Cold (Tough Love)
+  - Freeway Soul (Moment of Truth)
+  - Everything And Everyone (Ice Cream In Hell)
+  - Don't Bury Our Love (Devil May Care)
+  - Your Love's Like Heroin (Ice Cream In Hell)
+  - Don't Turn Off The Light (Winning Hand)
+  - Gamblin' Man (Winning Hand)
+  - Lucky Lou (Georgia Blue)
+  - Sound Of A Broken Man (Winning Hand)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/16d25d6d-d763-436c-8bc4-3ea43e25a177
-  spotify: https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on
-  wikipedia: https://en.wikipedia.org/wiki/Tinsley_Ellis
+  musicbrainz: 'https://musicbrainz.org/artist/16d25d6d-d763-436c-8bc4-3ea43e25a177'
+  spotify: 'https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tinsley_Ellis'
 image_path: 03_Resources/source_material/ArtistPortraits/tinsley_ellis.jpg
 biography_enhanced_at: '2025-12-18T02:40:28.467164'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Official biography at tinsleyellis.com[1]
-- Tinsley Ellis entry on Wikipedia[2]
-- Iowa State University event bio for Tinsley Ellis[3]
-- World Records / concert bio summarizing his label history and touring[4]
-- ARTS ATL profile on Tinsley Ellis and his mentoring/Atlanta background[5]
+  - 'Official biography at tinsleyellis.com[1]'
+  - 'Tinsley Ellis entry on Wikipedia[2]'
+  - 'Iowa State University event bio for Tinsley Ellis[3]'
+  - 'World Records / concert bio summarizing his label history and touring[4]'
+  - 'ARTS ATL profile on Tinsley Ellis and his mentoring/Atlanta background[5]'
 network_extracted: true
 entry_created: '2025-12-18T02:40:28.467175'
 last_updated: '2025-12-23T08:16:17.481003'
 gender: Male
 musicbrainz_id: 16d25d6d-d763-436c-8bc4-3ea43e25a177
 tags:
-- blues
-- blues rock
+  - blues
+  - blues rock
+origin: 'Atlanta, Georgia, United States'
 ---
 
 ![](tinsley_ellis.jpg)

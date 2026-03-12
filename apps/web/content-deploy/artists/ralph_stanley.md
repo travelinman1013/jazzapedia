@@ -5,25 +5,25 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1927-02-25'
-birth_place: McClure
+birth_place: 'McClure, Virginia, United States'
 death_date: '2016-06-23'
 genres:
-- bluegrass
-- christian country
-- southern gospel
-- newgrass
+  - bluegrass
+  - christian country
+  - southern gospel
+  - newgrass
 instruments:
-- baritone vocals
-- tenor vocals
-- lead vocals
-- spoken vocals
-- background vocals
+  - baritone vocals
+  - tenor vocals
+  - lead vocals
+  - spoken vocals
+  - background vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8f918972-81e9-43a5-80a4-d244a42dc5b2
-  name: The Stanley Brothers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8f918972-81e9-43a5-80a4-d244a42dc5b2
+    name: The Stanley Brothers
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ralph_stanley.jpg
   caption: Ralph Stanley
@@ -46,49 +46,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Carter Stanley
-  - Larry Sparks
-  - Ricky Skaggs
-  - Keith Whitley
-  - Jim Lauderdale
+    - Carter Stanley
+    - Larry Sparks
+    - Ricky Skaggs
+    - Keith Whitley
+    - Jim Lauderdale
   influenced:
-  - Ricky Skaggs
-  - Keith Whitley
-  - Alison Krauss
-  - Gillian Welch
+    - Ricky Skaggs
+    - Keith Whitley
+    - Alison Krauss
+    - Gillian Welch
   mentors:
-  - Mother (Lucy Stanley)
-  - Carter Family
-  - Bill Monroe
+    - Mother (Lucy Stanley)
+    - Carter Family
+    - Bill Monroe
 spotify_data:
   followers: 80329
   id: 4fMhmL6pvw61o0C1z8Bdib
   popularity: 42
-  url: https://open.spotify.com/artist/4fMhmL6pvw61o0C1z8Bdib
+  url: 'https://open.spotify.com/artist/4fMhmL6pvw61o0C1z8Bdib'
 discography_enriched: true
 top_tracks:
-- O Death (O Brother, Where Art Thou? (Original Motion Picture Soundtrack))
-- Gloryland (Something Old, Something New)
-- I'll Fly Away (Shine On)
-- Rank Stranger (Classic Bluegrass)
-- Man of Constant Sorrow (Man of Constant Sorrow)
-- Over In The Gloryland (Clinch Mountain Gospel)
-- Oh, Death (Clinch Mountain Gospel)
-- Amazing Grace (Clinch Mountain Gospel)
-- Are You Washed In The Blood (A Mother's Prayer)
-- This Little Light Of Mine (Shine On)
+  - 'O Death (O Brother, Where Art Thou? (Original Motion Picture Soundtrack))'
+  - 'Gloryland (Something Old, Something New)'
+  - I'll Fly Away (Shine On)
+  - Rank Stranger (Classic Bluegrass)
+  - Man of Constant Sorrow (Man of Constant Sorrow)
+  - Over In The Gloryland (Clinch Mountain Gospel)
+  - 'Oh, Death (Clinch Mountain Gospel)'
+  - Amazing Grace (Clinch Mountain Gospel)
+  - Are You Washed In The Blood (A Mother's Prayer)
+  - This Little Light Of Mine (Shine On)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/845adb53-9281-41ff-a911-c0af49f3c943
-  spotify: https://open.spotify.com/artist/4fMhmL6pvw61o0C1z8Bdib
-  wikipedia: https://en.wikipedia.org/wiki/Ralph_Stanley
+  musicbrainz: 'https://musicbrainz.org/artist/845adb53-9281-41ff-a911-c0af49f3c943'
+  spotify: 'https://open.spotify.com/artist/4fMhmL6pvw61o0C1z8Bdib'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ralph_Stanley'
 image_path: 03_Resources/source_material/ArtistPortraits/ralph_stanley.jpg
 biography_enhanced_at: '2025-10-26T12:38:27.872609'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Britannica
-- Ralph Stanley Museum
-- Wikipedia
+  - Britannica
+  - Ralph Stanley Museum
+  - Wikipedia
 network_extracted: true
 entry_created: '2025-10-26T12:38:27.872618'
 last_updated: '2025-12-23T08:16:14.600225'
@@ -96,10 +96,11 @@ disambiguation: US bluegrass singer and banjo player
 gender: Male
 musicbrainz_id: 845adb53-9281-41ff-a911-c0af49f3c943
 tags:
-- bluegrass
-- bluegrass gospel
-- check recordings
-
+  - bluegrass
+  - bluegrass gospel
+  - check recordings
+is_active: false
+origin: 'Stratton, Dickenson County, Virginia, United States'
 ---
 
 ![](ralph_stanley.jpg)

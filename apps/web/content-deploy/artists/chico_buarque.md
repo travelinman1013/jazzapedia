@@ -3,16 +3,16 @@ title: Chico Buarque
 wiki_slug: chico-buarque
 schema_version: 2
 status: active
-birth_place: Rio de Janeiro, Rio de Janeiro, Brazil
+birth_place: 'Rio de Janeiro, Rio de Janeiro, Brazil'
 genres:
-- mpb
-- bossa nova
-- samba
+  - mpb
+  - bossa nova
+  - samba
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/chico_buarque.jpg
   caption: Chico Buarque
   background: solo_singer
-  origin: Rio de Janeiro, Rio de Janeiro, Brazil
+  origin: 'Rio de Janeiro, Rio de Janeiro, Brazil'
 audio_profile:
   tempo_avg: 114.4
   energy_avg: 0.51
@@ -28,51 +28,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Nara Leão
-  - Ruy Guerra
-  - Caetano Veloso
-  - Gilberto Gil
-  - Maria Bethânia
+    - Nara Leão
+    - Ruy Guerra
+    - Caetano Veloso
+    - Gilberto Gil
+    - Maria Bethânia
   influenced:
-  - Adriana Calcanhotto
-  - Seu Jorge
+    - Adriana Calcanhotto
+    - Seu Jorge
   mentors:
-  - João Gilberto
+    - João Gilberto
 spotify_data:
   followers: 1789490
   id: 6tOsSffQQIXmK8TqsDck8t
   popularity: 62
-  url: https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t
+  url: 'https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t'
 discography_enriched: true
 top_tracks:
-- Apesar De Você (Chico Buarque)
-- Construção (Construção)
-- Cotidiano (Construção)
-- Cálice (Chico Buarque)
-- O Que Será (A Flor Da Terra) (Meus Caros Amigos)
-- Valsinha (Construção)
-- A Banda (Chico Buarque de Hollanda)
-- João E Maria (Chico 50 Anos - O Trovador)
-- Essa Moça Tá Diferente (Chico Buarque De Hollanda Nº4)
-- Jorge Maravilha (Umas E Outras)
+  - Apesar De Você (Chico Buarque)
+  - Construção (Construção)
+  - Cotidiano (Construção)
+  - Cálice (Chico Buarque)
+  - O Que Será (A Flor Da Terra) (Meus Caros Amigos)
+  - Valsinha (Construção)
+  - A Banda (Chico Buarque de Hollanda)
+  - João E Maria (Chico 50 Anos - O Trovador)
+  - Essa Moça Tá Diferente (Chico Buarque De Hollanda Nº4)
+  - Jorge Maravilha (Umas E Outras)
 external_urls:
-  spotify: https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t
-  wikipedia: https://en.wikipedia.org/wiki/Chico_Buarque
+  spotify: 'https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t'
+  wikipedia: 'https://en.wikipedia.org/wiki/Chico_Buarque'
 image_path: 03_Resources/source_material/ArtistPortraits/chico_buarque.jpg
 biography_enhanced_at: '2025-11-02T07:32:09.199880'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Encyclopedia.com[1]
-- Brazil Reports[2]
-- OutsideLeft[3]
-- Music & Literature[4]
-- Americas Quarterly[5]
-- AllMusic[6]
+  - 'Encyclopedia.com[1]'
+  - 'Brazil Reports[2]'
+  - 'OutsideLeft[3]'
+  - 'Music & Literature[4]'
+  - 'Americas Quarterly[5]'
+  - 'AllMusic[6]'
 network_extracted: true
 entry_created: '2025-11-02T07:32:09.199898'
 last_updated: '2025-12-23T08:16:06.829026'
-
+birth_date: '1944-07-19'
+artist_type: person
 ---
 
 ![](chico_buarque.jpg)

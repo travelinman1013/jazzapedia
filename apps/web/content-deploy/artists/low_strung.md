@@ -1,5 +1,5 @@
 ---
-title: low strung
+title: Low Strung
 wiki_slug: low-strung
 schema_version: 2
 status: active
@@ -23,45 +23,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dan Lewis
-  - Current and Past Yale Cellists
+    - Dan Lewis
+    - Current and Past Yale Cellists
   influenced:
-  - Yale student musicians
+    - Yale student musicians
   mentors:
-  - Yale University School of Music Faculty
+    - Yale University School of Music Faculty
 spotify_data:
   followers: 1425
   id: 4BQvv66od6YNLOeIYFWTRj
   popularity: 8
-  url: https://open.spotify.com/artist/4BQvv66od6YNLOeIYFWTRj
+  url: 'https://open.spotify.com/artist/4BQvv66od6YNLOeIYFWTRj'
 discography_enriched: true
 top_tracks:
-- Don't Stop Believin' (Low Strung)
-- Fix You (Low Strung)
-- Dream On (Low Strung)
-- Livin' On a Prayer (Low Strung)
-- Back to Black (Quadruple Moon)
-- Sympathy for the Devil (Low Strung)
-- Hotel California (Low Strung)
-- House of the Rising Sun (Low Strung)
-- Your Love (Quadruple Moon)
-- Under the Boardwalk (Quadruple Moon)
+  - Don't Stop Believin' (Low Strung)
+  - Fix You (Low Strung)
+  - Dream On (Low Strung)
+  - Livin' On a Prayer (Low Strung)
+  - Back to Black (Quadruple Moon)
+  - Sympathy for the Devil (Low Strung)
+  - Hotel California (Low Strung)
+  - House of the Rising Sun (Low Strung)
+  - Your Love (Quadruple Moon)
+  - Under the Boardwalk (Quadruple Moon)
 external_urls:
-  spotify: https://open.spotify.com/artist/4BQvv66od6YNLOeIYFWTRj
+  spotify: 'https://open.spotify.com/artist/4BQvv66od6YNLOeIYFWTRj'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/low_strung.jpg
 biography_enhanced_at: '2025-10-31T08:19:34.616866'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.lowstrungcellos.org
-- https://milfordarts.org/event/low-strung-classical-concert/
-- https://yaledailynews.com/blog/2019/12/05/low-strung-presents-snow-strung/
-- https://www.lowstrungcellos.org/dans-story
+  - 'https://www.lowstrungcellos.org'
+  - 'https://milfordarts.org/event/low-strung-classical-concert/'
+  - 'https://yaledailynews.com/blog/2019/12/05/low-strung-presents-snow-strung/'
+  - 'https://www.lowstrungcellos.org/dans-story'
 network_extracted: true
 entry_created: '2025-10-31T08:19:34.616876'
 last_updated: '2025-12-23T08:16:12.296709'
-origin: New Haven, Connecticut, United States
+origin: 'New Haven, Connecticut, United States'
+artist_type: band
 ---
 
 ![](low_strung.jpg)

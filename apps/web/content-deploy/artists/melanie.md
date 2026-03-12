@@ -2,57 +2,59 @@
 artist_type: person
 biography_enhanced_at: '2026-01-09T02:07:08.396064'
 birth_date: '1947-02-03'
-birth_place: Astoria
+birth_place: 'Astoria, Queens, New York, United States'
 death_date: '2024-01-23'
 disambiguation: US singer‐songwriter Melanie Safka
 enhancement_provider: perplexity
 entry_created: '2026-01-09T02:07:08.396069'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c8c3beb5-d213-40e6-9ef6-d4e1cad59e12
-  spotify: https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8
-  wikipedia: https://en.wikipedia.org/wiki/Melanie_(singer)
+  musicbrainz: 'https://musicbrainz.org/artist/c8c3beb5-d213-40e6-9ef6-d4e1cad59e12'
+  spotify: 'https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8'
+  wikipedia: 'https://en.wikipedia.org/wiki/Melanie_(singer)'
 gender: Female
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/melanie.jpg
 instruments:
-- guitar
-- lead vocals
+  - guitar
+  - lead vocals
 last_updated: '2026-01-09T02:07:08.396070'
 musical_connections:
   collaborators:
-  - Peter Schekeryk
-  - Edwin Hawkins Singers
+    - Peter Schekeryk
+    - Edwin Hawkins Singers
   influenced:
-  - Miley Cyrus
-  - Morrissey
-  - The Wurzels
+    - Miley Cyrus
+    - Morrissey
+    - The Wurzels
   mentors:
-  - Polly Safka (Melanie’s mother)
-  - John Hammond
-  - Greenwich Village folk scene (general influence)
+    - Polly Safka (Melanie’s mother)
+    - John Hammond
+    - Greenwich Village folk scene (general influence)
 musicbrainz_id: c8c3beb5-d213-40e6-9ef6-d4e1cad59e12
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://melaniesmusic.com/biography/
-- https://kids.kiddle.co/Melanie_(singer)
-- https://www.imdb.com/name/nm0577376/bio/
-- https://www.bethelwoodscenter.org/news/detail/melanie-50-years-of-peace-music
-- https://www.popcultureclassics.com/melanie.html
-- https://www.youtube.com/watch?v=_xRj1EHgAMY
-- https://culture.fandom.com/wiki/Melanie_Safka
-- https://en.wikipedia.org/wiki/Melanie_(singer)
+  - 'https://melaniesmusic.com/biography/'
+  - 'https://kids.kiddle.co/Melanie_(singer)'
+  - 'https://www.imdb.com/name/nm0577376/bio/'
+  - >-
+    https://www.bethelwoodscenter.org/news/detail/melanie-50-years-of-peace-music
+  - 'https://www.popcultureclassics.com/melanie.html'
+  - 'https://www.youtube.com/watch?v=_xRj1EHgAMY'
+  - 'https://culture.fandom.com/wiki/Melanie_Safka'
+  - 'https://en.wikipedia.org/wiki/Melanie_(singer)'
 spotify_data:
   followers: 22339835
   id: 63yrD80RY3RNEM2YDpUpO8
   popularity: 78
-  url: https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8
+  url: 'https://open.spotify.com/artist/63yrD80RY3RNEM2YDpUpO8'
 status: active
 tags:
-- chamber folk
-- contemporary folk
-- folk
+  - chamber folk
+  - contemporary folk
+  - folk
 title: Melanie
+is_active: false
 ---
 
 ![](melanie.jpg)

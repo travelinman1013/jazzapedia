@@ -4,11 +4,12 @@ wiki_slug: thelonious-monk-and-sonny-rollins
 schema_version: 2
 status: active
 genres:
-- jazz
-- hard bop
-- bebop
+  - jazz
+  - hard bop
+  - bebop
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/thelonious_monk_and_sonny_rollins.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/thelonious_monk_and_sonny_rollins.jpg
   caption: Thelonious Monk and Sonny Rollins
   background: solo_singer
 audio_profile:
@@ -26,49 +27,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Miles Davis
-  - Clifford Brown & Max Roach
-  - Art Blakey
+    - Miles Davis
+    - Clifford Brown & Max Roach
+    - Art Blakey
   influenced:
-  - John Coltrane
-  - Herbie Hancock
-  - Joshua Redman
+    - John Coltrane
+    - Herbie Hancock
+    - Joshua Redman
   mentors:
-  - Thelonious Monk
+    - Thelonious Monk
 spotify_data:
   followers: 85963
   id: 2ZUAe0H2nhsuuCOykSVsJ2
   popularity: 25
-  url: https://open.spotify.com/artist/2ZUAe0H2nhsuuCOykSVsJ2
+  url: 'https://open.spotify.com/artist/2ZUAe0H2nhsuuCOykSVsJ2'
 discography_enriched: true
 top_tracks:
-- Monk's Mood - Live At Carnegie Hall, New York/1957 (At Carnegie Hall)
-- Light Blue - Live At The Five Spot / August 7, 1958 (Thelonious In Action)
-- Evidence - Live At Carnegie Hall, New York/1957 (At Carnegie Hall)
-- Blue Monk - Live At Carnegie Hall, New York/1957 (At Carnegie Hall)
-- Nutty - Live At Carnegie Hall, New York/1957 (At Carnegie Hall)
-- Epistrophy - Live At Carnegie Hall, New York /1957/Early Show (At Carnegie Hall)
-- Just A Gigolo - Live At The Five Spot / August 7, 1958 (Misterioso)
-- Crepescule With Nellie - Live At Carnegie Hall, New York/1957 (At Carnegie Hall)
-- Evidence (Misterioso [Original Jazz Classics Remasters])
-- Epistrophy - Live At Carnegie Hall, New York/1957/Late Show (At Carnegie Hall)
+  - 'Monk''s Mood - Live At Carnegie Hall, New York/1957 (At Carnegie Hall)'
+  - 'Light Blue - Live At The Five Spot / August 7, 1958 (Thelonious In Action)'
+  - 'Evidence - Live At Carnegie Hall, New York/1957 (At Carnegie Hall)'
+  - 'Blue Monk - Live At Carnegie Hall, New York/1957 (At Carnegie Hall)'
+  - 'Nutty - Live At Carnegie Hall, New York/1957 (At Carnegie Hall)'
+  - >-
+    Epistrophy - Live At Carnegie Hall, New York /1957/Early Show (At Carnegie
+    Hall)
+  - 'Just A Gigolo - Live At The Five Spot / August 7, 1958 (Misterioso)'
+  - >-
+    Crepescule With Nellie - Live At Carnegie Hall, New York/1957 (At Carnegie
+    Hall)
+  - 'Evidence (Misterioso [Original Jazz Classics Remasters])'
+  - >-
+    Epistrophy - Live At Carnegie Hall, New York/1957/Late Show (At Carnegie
+    Hall)
 external_urls:
-  spotify: https://open.spotify.com/artist/2ZUAe0H2nhsuuCOykSVsJ2
-  wikipedia: https://en.wikipedia.org/wiki/Thelonious_Monk_and_Sonny_Rollins
-image_path: 03_Resources/source_material/ArtistPortraits/thelonious_monk_and_sonny_rollins.jpg
+  spotify: 'https://open.spotify.com/artist/2ZUAe0H2nhsuuCOykSVsJ2'
+  wikipedia: 'https://en.wikipedia.org/wiki/Thelonious_Monk_and_Sonny_Rollins'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/thelonious_monk_and_sonny_rollins.jpg
 biography_enhanced_at: '2025-11-26T07:56:44.489991'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Thelonious_Monk_and_Sonny_Rollins
-- https://sonnyrollins.com/bio
-- https://achievement.org/achiever/sonny-rollins/
-- http://www.squidco.com/r.cgi?p=36129
-- https://www.theloniousmonkmusic.com/bio/
+  - 'https://en.wikipedia.org/wiki/Thelonious_Monk_and_Sonny_Rollins'
+  - 'https://sonnyrollins.com/bio'
+  - 'https://achievement.org/achiever/sonny-rollins/'
+  - 'http://www.squidco.com/r.cgi?p=36129'
+  - 'https://www.theloniousmonkmusic.com/bio/'
 network_extracted: true
 entry_created: '2025-11-26T07:56:44.490001'
 last_updated: '2025-12-23T08:16:17.345893'
-origin: Harlem, New York City, New York, USA
+origin: 'Harlem, New York City, New York, USA'
+birth_place: 'Rocky Mount, North Carolina, United States'
+birth_date: '1917'
+artist_type: person
 ---
 
 ![](thelonious_monk_and_sonny_rollins.jpg)

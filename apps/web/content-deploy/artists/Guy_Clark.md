@@ -2,21 +2,21 @@
 title: Guy Clark
 wiki_slug: guy-clark
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1941-11-06'
-birth_place: Monahans, Texas, United States
+birth_place: 'Monahans, Texas, United States'
 death_date: '2016-05-17'
 genres:
-- americana
-- alt country
-- texas country
+  - americana
+  - alt country
+  - texas country
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Guy_Clark.jpg
   caption: Guy Clark
   background: solo_singer
   born: '1941-11-06'
-  origin: Monahans, Texas, United States
+  origin: 'Monahans, Texas, United States'
   died: '2016-05-17'
 audio_profile:
   tempo_avg: 114.1
@@ -33,46 +33,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Susanna Clark
-  - Steve Earle
-  - Rodney Crowell
+    - Susanna Clark
+    - Steve Earle
+    - Rodney Crowell
   influenced:
-  - Steve Earle
-  - Rodney Crowell
-  - Noel McKay
+    - Steve Earle
+    - Rodney Crowell
+    - Noel McKay
   mentors:
-  - Mickey Newbury
-  - Townes Van Zandt
+    - Mickey Newbury
+    - Townes Van Zandt
 spotify_data:
   followers: 147536
   id: 0Ekfvspc0hlcxdfJJVjcnq
   popularity: 42
-  url: https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq
+  url: 'https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq'
 discography_enriched: true
 top_tracks:
-- The Guitar (Somedays The Song Writes You)
-- Dublin Blues (Dublin Blues)
-- L.A. Freeway (Old No. 1)
-- Stuff That Works (Dublin Blues)
-- The Cape (Dublin Blues)
-- Anyhow, I Love You (Texas Cookin)
-- My Favorite Picture of You (My Favorite Picture Of You)
-- Desperados Waiting For A Train (Old No. 1)
-- L.A. Freeway
-- Hell Bent of a Heartache (My Favorite Picture Of You)
+  - The Guitar (Somedays The Song Writes You)
+  - Dublin Blues (Dublin Blues)
+  - L.A. Freeway (Old No. 1)
+  - Stuff That Works (Dublin Blues)
+  - The Cape (Dublin Blues)
+  - 'Anyhow, I Love You (Texas Cookin)'
+  - My Favorite Picture of You (My Favorite Picture Of You)
+  - Desperados Waiting For A Train (Old No. 1)
+  - L.A. Freeway
+  - Hell Bent of a Heartache (My Favorite Picture Of You)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e885f72e-4617-46de-9454-5485061f29b3
-  spotify: https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq
-  wikipedia: https://en.wikipedia.org/wiki/Guy_Clark
+  musicbrainz: 'https://musicbrainz.org/artist/e885f72e-4617-46de-9454-5485061f29b3'
+  spotify: 'https://open.spotify.com/artist/0Ekfvspc0hlcxdfJJVjcnq'
+  wikipedia: 'https://en.wikipedia.org/wiki/Guy_Clark'
 image_path: 03_Resources/source_material/ArtistPortraits/Guy_Clark.jpg
 biography_enhanced_at: '2025-10-20T01:50:34.518088'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://alancackett.com/guy-clark-obituary
-- https://en.wikipedia.org/wiki/Guy_Clark
-- https://cmhof.imgix.net/wp-content/uploads/2022/06/24103053/SCH_Outlaws_ToolKit_19_Grades_7-12_GuyClark.pdf
-- https://www.guyclark.com
+  - 'https://alancackett.com/guy-clark-obituary'
+  - 'https://en.wikipedia.org/wiki/Guy_Clark'
+  - >-
+    https://cmhof.imgix.net/wp-content/uploads/2022/06/24103053/SCH_Outlaws_ToolKit_19_Grades_7-12_GuyClark.pdf
+  - 'https://www.guyclark.com'
 network_extracted: true
 entry_created: '2025-10-20T01:50:34.518107'
 last_updated: '2025-12-23T08:16:02.174587'
@@ -80,10 +81,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:28:23.213467'
 musicbrainz_id: e885f72e-4617-46de-9454-5485061f29b3
 tags:
-- country
-- folk
-- singer-songwriter
-
+  - country
+  - folk
+  - singer-songwriter
+is_active: false
 ---
 
 ![](Guy_Clark.jpg)

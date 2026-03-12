@@ -2,14 +2,14 @@
 title: Tonstartssbandht
 wiki_slug: tonstartssbandht
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '2007'
 genres:
-- space rock
+  - space rock
 instruments:
-- electric guitar
-- drums (drum set)
+  - electric guitar
+  - drums (drum set)
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/tonstartssbandht.jpg
   caption: Tonstartssbandht
@@ -22,7 +22,7 @@ audio_profile:
   danceability_avg: 0.307
   acousticness_avg: 0.477
   instrumentalness_avg: 0.397
-  loudness_avg: -10.0
+  loudness_avg: -10
   speechiness_avg: 0.082
   liveness_avg: 0.242
   track_count: 50
@@ -30,71 +30,70 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Andy White
-  - Edwin White
-  - PC Worship, Ashcan Orchestra, The Dreebs, Guerilla Toss
+    - Andy White
+    - Edwin White
+    - 'PC Worship, Ashcan Orchestra, The Dreebs, Guerilla Toss'
   influenced:
-  - Eastern European and Russian underground musicians
+    - Eastern European and Russian underground musicians
   mentors:
-  - Brian Wilson
-  - Boy Choir
+    - Brian Wilson
+    - Boy Choir
 spotify_data:
   followers: 38818
   id: 0ZoYAbDGICaSPSfTTvworW
   popularity: 31
-  url: https://open.spotify.com/artist/0ZoYAbDGICaSPSfTTvworW
+  url: 'https://open.spotify.com/artist/0ZoYAbDGICaSPSfTTvworW'
 discography_enriched: true
 top_tracks:
-- What Has Happened (Petunia)
-- 5ft7 (An When)
-- Black Country (An When)
-- Magic Pig (Petunia)
-- Hymn Eola (Hymn)
-- Little April Showers (An When)
-- Walken With Jesus (An When)
-- Breathe (Sorcerer)
-- 5FT7
-- What Has Happened - Edit (Petunia)
+  - What Has Happened (Petunia)
+  - 5ft7 (An When)
+  - Black Country (An When)
+  - Magic Pig (Petunia)
+  - Hymn Eola (Hymn)
+  - Little April Showers (An When)
+  - Walken With Jesus (An When)
+  - Breathe (Sorcerer)
+  - 5FT7
+  - What Has Happened - Edit (Petunia)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3f6e6624-5389-4cac-bda4-87f5d7aaa4d6
-  spotify: https://open.spotify.com/artist/0ZoYAbDGICaSPSfTTvworW
-  wikipedia: https://en.wikipedia.org/wiki/Tonstartssbandht
+  musicbrainz: 'https://musicbrainz.org/artist/3f6e6624-5389-4cac-bda4-87f5d7aaa4d6'
+  spotify: 'https://open.spotify.com/artist/0ZoYAbDGICaSPSfTTvworW'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tonstartssbandht'
 image_path: 03_Resources/source_material/ArtistPortraits/tonstartssbandht.jpg
 biography_enhanced_at: '2025-11-14T11:11:34.495056'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.interviewmagazine.com/music/tonstartssbandht-discovery
-- https://www.zstaehling.com/post/tonstartssbandht
-- https://first-avenue.com/performer/tonstartssbandht/
-- https://subbacultcha.nl/2014/05/07/interview-tonstartssbandht/
-- http://pangbianr.com/interview-tonstartssbandht/
-- https://www.undertheradar.co.nz/interview/770/Tonstartssbandht-.utr
-- https://www.vice.com/en/article/this-tonstartssbandht-will-change-your-life/
-- https://www.premierguitar.com/artists/guitarists/tonstartssbandht
-- https://www.wunc.org/2021-09-22/tonstartssbandht-what-has-happened
+  - 'https://www.interviewmagazine.com/music/tonstartssbandht-discovery'
+  - 'https://www.zstaehling.com/post/tonstartssbandht'
+  - 'https://first-avenue.com/performer/tonstartssbandht/'
+  - 'https://subbacultcha.nl/2014/05/07/interview-tonstartssbandht/'
+  - 'http://pangbianr.com/interview-tonstartssbandht/'
+  - 'https://www.undertheradar.co.nz/interview/770/Tonstartssbandht-.utr'
+  - 'https://www.vice.com/en/article/this-tonstartssbandht-will-change-your-life/'
+  - 'https://www.premierguitar.com/artists/guitarists/tonstartssbandht'
+  - 'https://www.wunc.org/2021-09-22/tonstartssbandht-what-has-happened'
 network_extracted: true
 entry_created: '2025-11-14T11:11:34.495067'
 last_updated: '2025-12-23T08:16:17.591758'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - electric guitar
-  mbid: 51357eee-e5a4-4217-acc5-4df246b03ee4
-  name: Andy White
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: e75fcf25-be37-4cb4-99e7-19fe3e2dc59a
-  name: Edwin White
+  - begin: ''
+    end: ''
+    instruments:
+      - electric guitar
+    mbid: 51357eee-e5a4-4217-acc5-4df246b03ee4
+    name: Andy White
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: e75fcf25-be37-4cb4-99e7-19fe3e2dc59a
+    name: Edwin White
 musicbrainz_id: 3f6e6624-5389-4cac-bda4-87f5d7aaa4d6
-origin: Orlando
+origin: 'Orlando, Florida, United States'
 tags:
-- noise rock
-- psychedelic rock
-
+  - noise rock
+  - psychedelic rock
 ---
 
 ![](tonstartssbandht.jpg)

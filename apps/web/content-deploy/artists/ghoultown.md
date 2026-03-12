@@ -1,31 +1,31 @@
 ---
-title: ghoultown
+title: Ghoultown
 wiki_slug: ghoultown
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 birth_date: '1999'
 genres:
-- psychobilly
-- gothic country
-- rockabilly
+  - psychobilly
+  - gothic country
+  - rockabilly
 instruments:
-- membranophone
-- percussion
-- trumpet
-- electric guitar
-- lead vocals
-- original
-- acoustic guitar
-- background vocals
-- bass
+  - membranophone
+  - percussion
+  - trumpet
+  - electric guitar
+  - lead vocals
+  - original
+  - acoustic guitar
+  - background vocals
+  - bass
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ghoultown.jpg
   caption: ghoultown
   background: group_or_band
   born: '1999'
 audio_profile:
-  tempo_avg: 127.0
+  tempo_avg: 127
   energy_avg: 0.882
   valence_avg: 0.563
   danceability_avg: 0.511
@@ -39,123 +39,123 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Count Lyle
-  - Jake Middlefinger
-  - Lizard Lazario
-  - Santi
-  - Dalton Black
-  - Randy Grimm
+    - Count Lyle
+    - Jake Middlefinger
+    - Lizard Lazario
+    - Santi
+    - Dalton Black
+    - Randy Grimm
   influenced:
-  - The Creepshow
-  - Koffin Kats
+    - The Creepshow
+    - Koffin Kats
   mentors:
-  - Sergio Leone
-  - Johnny Cash
-  - Rob Zombie
+    - Sergio Leone
+    - Johnny Cash
+    - Rob Zombie
 spotify_data:
   followers: 50598
   id: 1pXT9wt3jNgkk4AVvAydBm
   popularity: 31
-  url: https://open.spotify.com/artist/1pXT9wt3jNgkk4AVvAydBm
+  url: 'https://open.spotify.com/artist/1pXT9wt3jNgkk4AVvAydBm'
 discography_enriched: true
 top_tracks:
-- Drink with the Living Dead (Life After Sundown)
-- Bury Them Deep (Bury Them Deep)
-- Under the Phantom Moon (Life After Sundown)
-- Black on Black (Ghost of the Southern Son)
-- Walkin' Through the Desert (With a Crow) (Bury Them Deep)
-- Against a Crooked Sky (Life After Sundown)
-- Black-Lung Revival (Ghost of the Southern Son)
-- I Am the Undead (I Am the Undead)
-- Werewolves on Wheels (Life After Sundown)
-- I Spit on Your Grave (Life After Sundown)
+  - Drink with the Living Dead (Life After Sundown)
+  - Bury Them Deep (Bury Them Deep)
+  - Under the Phantom Moon (Life After Sundown)
+  - Black on Black (Ghost of the Southern Son)
+  - Walkin' Through the Desert (With a Crow) (Bury Them Deep)
+  - Against a Crooked Sky (Life After Sundown)
+  - Black-Lung Revival (Ghost of the Southern Son)
+  - I Am the Undead (I Am the Undead)
+  - Werewolves on Wheels (Life After Sundown)
+  - I Spit on Your Grave (Life After Sundown)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/cd8e2987-765d-4cd0-afc6-82a093443f47
-  spotify: https://open.spotify.com/artist/1pXT9wt3jNgkk4AVvAydBm
-  wikipedia: https://en.wikipedia.org/wiki/Ghoultown
+  musicbrainz: 'https://musicbrainz.org/artist/cd8e2987-765d-4cd0-afc6-82a093443f47'
+  spotify: 'https://open.spotify.com/artist/1pXT9wt3jNgkk4AVvAydBm'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ghoultown'
 image_path: 03_Resources/source_material/ArtistPortraits/ghoultown.jpg
 biography_enhanced_at: '2025-11-01T15:38:52.512090'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Ghoultown
-- http://dallaspsychobilly.weebly.com/ghoultown.html
-- http://rocknrollhorror.blogspot.com/2011/02/interview-with-count-lyle-of-ghoultown.html
+  - 'https://en.wikipedia.org/wiki/Ghoultown'
+  - 'http://dallaspsychobilly.weebly.com/ghoultown.html'
+  - >-
+    http://rocknrollhorror.blogspot.com/2011/02/interview-with-count-lyle-of-ghoultown.html
 network_extracted: true
 entry_created: '2025-11-01T15:38:52.512097'
 last_updated: '2025-12-23T08:16:09.188787'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - membranophone
-  - percussion
-  mbid: 80e73772-a00b-4485-85d0-b1cc961c41a6
-  name: Dalton Black
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: 22555052-f9f0-438e-bb6b-4d958b8d206b
-  name: Dez Black
-- begin: ''
-  end: ''
-  instruments:
-  - membranophone
-  mbid: 8dbb935f-43e1-467e-b21b-c9a03c844609
-  name: X-Ray Charles
-- begin: ''
-  end: ''
-  instruments:
-  - electric guitar
-  - lead vocals
-  - original
-  mbid: 3625c12c-af5f-443d-8997-e0131c805936
-  name: Count Lyle
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: 16ae123b-0f71-4ddf-bc6f-e3f7754f0df4
-  name: Randy Grimm
-- begin: ''
-  end: ''
-  instruments:
-  - acoustic guitar
-  - background vocals
-  mbid: 4e7834ac-59f2-4746-b9c0-6d7ee41a1775
-  name: Lizard Lazario
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: a9d27202-4251-477b-90f2-477e9096fdcc
-  name: J. Luis
-- begin: ''
-  end: ''
-  instruments:
-  - electric guitar
-  mbid: 879b441c-1b00-4fab-88ff-e998d0de39a5
-  name: Jake Middlefinger
-- begin: ''
-  end: ''
-  instruments:
-  - bass
-  mbid: 7f286845-f0f2-4f92-a2ca-9867c5c731a6
-  name: Queeno De Vamps
-- begin: ''
-  end: ''
-  instruments:
-  - background vocals
-  - bass
-  mbid: 07644b60-1c78-4af3-90b9-3327dc230bec
-  name: Santi
+  - begin: ''
+    end: ''
+    instruments:
+      - membranophone
+      - percussion
+    mbid: 80e73772-a00b-4485-85d0-b1cc961c41a6
+    name: Dalton Black
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: 22555052-f9f0-438e-bb6b-4d958b8d206b
+    name: Dez Black
+  - begin: ''
+    end: ''
+    instruments:
+      - membranophone
+    mbid: 8dbb935f-43e1-467e-b21b-c9a03c844609
+    name: X-Ray Charles
+  - begin: ''
+    end: ''
+    instruments:
+      - electric guitar
+      - lead vocals
+      - original
+    mbid: 3625c12c-af5f-443d-8997-e0131c805936
+    name: Count Lyle
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: 16ae123b-0f71-4ddf-bc6f-e3f7754f0df4
+    name: Randy Grimm
+  - begin: ''
+    end: ''
+    instruments:
+      - acoustic guitar
+      - background vocals
+    mbid: 4e7834ac-59f2-4746-b9c0-6d7ee41a1775
+    name: Lizard Lazario
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: a9d27202-4251-477b-90f2-477e9096fdcc
+    name: J. Luis
+  - begin: ''
+    end: ''
+    instruments:
+      - electric guitar
+    mbid: 879b441c-1b00-4fab-88ff-e998d0de39a5
+    name: Jake Middlefinger
+  - begin: ''
+    end: ''
+    instruments:
+      - bass
+    mbid: 7f286845-f0f2-4f92-a2ca-9867c5c731a6
+    name: Queeno De Vamps
+  - begin: ''
+    end: ''
+    instruments:
+      - background vocals
+      - bass
+    mbid: 07644b60-1c78-4af3-90b9-3327dc230bec
+    name: Santi
 musicbrainz_id: cd8e2987-765d-4cd0-afc6-82a093443f47
-origin: Dallas
+origin: 'Dallas, Texas, United States'
 tags:
-- psychobilly
-- rock
-
+  - psychobilly
+  - rock
 ---
 
 ![](ghoultown.jpg)

@@ -1,40 +1,44 @@
 ---
 biography_enhanced_at: '2026-01-06T02:14:31.650630'
-birth_place: Haringey (born), Walthamstow (raised), London, UK
+birth_place: 'Haringey (born), Walthamstow (raised), London, UK'
 enhancement_provider: perplexity
 entry_created: '2026-01-06T02:14:31.650636'
 external_urls:
-  spotify: https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW
-  wikipedia: https://en.wikipedia.org/wiki/Olivia_Dean
+  spotify: 'https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW'
+  wikipedia: 'https://en.wikipedia.org/wiki/Olivia_Dean'
 genres:
-- pop soul
+  - pop soul
 image_path: 03_Resources/source_material/ArtistPortraits/olivia_dean.jpg
 last_updated: '2026-01-06T02:14:31.650637'
 musical_connections:
   collaborators:
-  - Rudimental
-  - Sam Fender
-  - The Supremes
+    - Rudimental
+    - Sam Fender
+    - The Supremes
   influenced: []
   mentors:
-  - Emily Braham
-  - Aretha Franklin
-  - Nat King Cole
+    - Emily Braham
+    - Aretha Franklin
+    - Nat King Cole
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Olivia_Dean
-- https://umusic.co.nz/originals/soul/get-to-know-olivia-dean/
-- https://www.oliviadeano.com
-- https://numero.com/en/culture-en/music/interview-with-olivia-dean-the-new-bewitching-voice-of-soul/
-- https://swarthmorephoenix.com/2025/10/09/why-arent-we-talking-about-olivia-dean/
+  - 'https://en.wikipedia.org/wiki/Olivia_Dean'
+  - 'https://umusic.co.nz/originals/soul/get-to-know-olivia-dean/'
+  - 'https://www.oliviadeano.com'
+  - >-
+    https://numero.com/en/culture-en/music/interview-with-olivia-dean-the-new-bewitching-voice-of-soul/
+  - >-
+    https://swarthmorephoenix.com/2025/10/09/why-arent-we-talking-about-olivia-dean/
 spotify_data:
   followers: 2510932
   id: 00x1fYSGhdqScXBRpSj3DW
   popularity: 92
-  url: https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW
+  url: 'https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW'
 status: active
 title: Olivia Dean
+birth_date: '1999-03-14'
+artist_type: person
 ---
 
 ![](olivia_dean.jpg)

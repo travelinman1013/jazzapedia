@@ -1,45 +1,48 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-15T01:16:39.950281'
-birth_place: Memphis, Tennessee, United States
+birth_place: 'Memphis, Tennessee, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-15T01:16:39.950290'
 external_urls:
-  spotify: https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek
-  wikipedia: https://en.wikipedia.org/wiki/Lil_Hardin_Armstrong
+  spotify: 'https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lil_Hardin_Armstrong'
 genres:
-- jazz
-- swing music
-- vocal jazz
-- big band
+  - jazz
+  - swing music
+  - vocal jazz
+  - big band
 image_path: 03_Resources/source_material/ArtistPortraits/lil_armstrong.jpg
 last_updated: '2026-01-15T01:16:39.950292'
 musical_connections:
   collaborators:
-  - King Oliver
-  - Louis Armstrong
-  - Alberta Hunter
-  - Lawrence Duhé
+    - King Oliver
+    - Louis Armstrong
+    - Alberta Hunter
+    - Lawrence Duhé
   influenced:
-  - Louis Armstrong
+    - Louis Armstrong
   mentors:
-  - Jelly Roll Morton
+    - Jelly Roll Morton
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Lil_Hardin_Armstrong
-- https://www.ebsco.com/research-starters/history/lillian-hardin-armstrong
-- https://memphismusichalloffame.com/inductee/lilhardinarmstrong/
-- http://jazzhotbigstep.com/text/296.html
-- https://mus-col.com/en/the-authors/33261/
-- https://sandiegotroubadour.com/women-in-blues-and-jazz-lil-hardin-armstrong-gladys-bentley-sweet-emma-barrett/
+  - 'https://en.wikipedia.org/wiki/Lil_Hardin_Armstrong'
+  - 'https://www.ebsco.com/research-starters/history/lillian-hardin-armstrong'
+  - 'https://memphismusichalloffame.com/inductee/lilhardinarmstrong/'
+  - 'http://jazzhotbigstep.com/text/296.html'
+  - 'https://mus-col.com/en/the-authors/33261/'
+  - >-
+    https://sandiegotroubadour.com/women-in-blues-and-jazz-lil-hardin-armstrong-gladys-bentley-sweet-emma-barrett/
 spotify_data:
   followers: 3291232
   id: 19eLuQmk9aCobbVDHc6eek
   popularity: 75
-  url: https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek
+  url: 'https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek'
 status: active
-title: LIL ARMSTRONG
+title: Lil Armstrong
+origin: 'Chicago, Illinois, United States'
+death_date: '1971-08-27'
 ---
 
 ![](lil_armstrong.jpg)

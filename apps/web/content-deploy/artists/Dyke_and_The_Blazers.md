@@ -2,11 +2,11 @@
 title: Dyke & The Blazers
 wiki_slug: dyke-the-blazers
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 birth_date: '1965'
 genres:
-- funk
+  - funk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Dyke_and_The_Blazers.jpg
   caption: Dyke & The Blazers
@@ -27,57 +27,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Alvester "Pig" Jacobs
-  - J.V. Hunt
-  - Bernard Williams
-  - Rich Cason
-  - Rodney Brown
-  - Watts 103rd Street Rhythm Band
+    - Alvester "Pig" Jacobs
+    - J.V. Hunt
+    - Bernard Williams
+    - Rich Cason
+    - Rodney Brown
+    - Watts 103rd Street Rhythm Band
   influenced:
-  - Wilson Pickett
-  - Tupac Shakur
-  - Stetsasonic
-  - The Heavy
-  - Diana Ross and the Supremes & The Temptations
-  - Jackie Wilson and Count Basie
+    - Wilson Pickett
+    - Tupac Shakur
+    - Stetsasonic
+    - The Heavy
+    - Diana Ross and the Supremes & The Temptations
+    - Jackie Wilson and Count Basie
   mentors:
-  - James Brown
+    - James Brown
 spotify_data:
   followers: 16979
   id: 5dORjaew9A94A25xvTMiTg
   popularity: 32
-  url: https://open.spotify.com/artist/5dORjaew9A94A25xvTMiTg
+  url: 'https://open.spotify.com/artist/5dORjaew9A94A25xvTMiTg'
 discography_enriched: true
 top_tracks:
-- Let A Woman Be A Woman - Let A Man Be A Man (Dyke's Greatest Hits - The Complete Singles)
-- We Got More Soul (Dyke's Greatest Hits - The Complete Singles)
-- Funky Broadway Part 1 (The Funky Broadway)
-- Funky Walk Part 1 (East) (Dyke's Greatest Hits - The Complete Singles)
-- You Are My Sunshine (Dyke's Greatest Hits - The Complete Singles)
-- The Wobble (Dyke's Greatest Hits - The Complete Singles)
-- Black Boy From the Ghetto (Rarities Volume 1 - Phoenix to Hollywood)
-- So Sharp (The Funky Broadway)
-- It's Your Thing (Rarities Volume 1 - Phoenix to Hollywood)
-- Runaway People (Dyke's Greatest Hits - The Complete Singles)
+  - >-
+    Let A Woman Be A Woman - Let A Man Be A Man (Dyke's Greatest Hits - The
+    Complete Singles)
+  - We Got More Soul (Dyke's Greatest Hits - The Complete Singles)
+  - Funky Broadway Part 1 (The Funky Broadway)
+  - Funky Walk Part 1 (East) (Dyke's Greatest Hits - The Complete Singles)
+  - You Are My Sunshine (Dyke's Greatest Hits - The Complete Singles)
+  - The Wobble (Dyke's Greatest Hits - The Complete Singles)
+  - Black Boy From the Ghetto (Rarities Volume 1 - Phoenix to Hollywood)
+  - So Sharp (The Funky Broadway)
+  - It's Your Thing (Rarities Volume 1 - Phoenix to Hollywood)
+  - Runaway People (Dyke's Greatest Hits - The Complete Singles)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2956178f-8247-422e-b693-a04753a67e27
-  spotify: https://open.spotify.com/artist/5dORjaew9A94A25xvTMiTg
-  wikipedia: https://en.wikipedia.org/wiki/Dyke_and_the_Blazers
+  musicbrainz: 'https://musicbrainz.org/artist/2956178f-8247-422e-b693-a04753a67e27'
+  spotify: 'https://open.spotify.com/artist/5dORjaew9A94A25xvTMiTg'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dyke_and_the_Blazers'
 image_path: 03_Resources/source_material/ArtistPortraits/Dyke_and_The_Blazers.jpg
 biography_enhanced_at: '2025-10-19T11:58:08.724380'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Dyke_and_the_Blazers
-- https://concord.com/news/two-career-spanning-collections-celebrate-pioneering-funk-band-dyke-the-blazers/
-- https://bmhof.org/Inductees-C/Arlester-Dyke-Christian.html
-- https://www.udiscovermusic.com/news/dyke-the-blazers-mini-documentary/
+  - 'https://en.wikipedia.org/wiki/Dyke_and_the_Blazers'
+  - >-
+    https://concord.com/news/two-career-spanning-collections-celebrate-pioneering-funk-band-dyke-the-blazers/
+  - 'https://bmhof.org/Inductees-C/Arlester-Dyke-Christian.html'
+  - 'https://www.udiscovermusic.com/news/dyke-the-blazers-mini-documentary/'
 network_extracted: true
 entry_created: '2025-10-19T11:58:08.724384'
 last_updated: '2025-12-23T08:16:01.803427'
 musicbrainz_enriched_at: '2025-10-21T09:25:01.510401'
 musicbrainz_id: 2956178f-8247-422e-b693-a04753a67e27
-origin: Phoenix, Arizona, United States
+origin: 'Phoenix, Arizona, United States'
+birth_place: 'Buffalo, New York, United States'
 ---
 
 ![](Dyke_and_The_Blazers.jpg)

@@ -1,17 +1,17 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-18T08:25:18.658029'
-birth_place: Brasília, Federal District, Brazil
+birth_place: 'Brasília, Federal District, Brazil'
 enhancement_provider: perplexity
 entry_created: '2026-01-18T08:25:18.658036'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/dd9fcd85-783b-4224-87a4-adc0782766f8
-  spotify: https://open.spotify.com/artist/0p7EOZ5rAvP46Jccu2cVDX
+  musicbrainz: 'https://musicbrainz.org/artist/dd9fcd85-783b-4224-87a4-adc0782766f8'
+  spotify: 'https://open.spotify.com/artist/0p7EOZ5rAvP46Jccu2cVDX'
   wikipedia: null
 gender: Female
 genres:
-- axé
-- samba
+  - axé
+  - samba
 image_path: 03_Resources/source_material/ArtistPortraits/renata_jambeiro.jpg
 last_updated: '2026-01-18T08:25:18.658037'
 musical_connections:
@@ -22,16 +22,17 @@ musicbrainz_id: dd9fcd85-783b-4224-87a4-adc0782766f8
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.womex.com/virtual/frg_cultural_prod/renata_jambeiro
-- https://renatajambeiro.com.br/renatajambeiro/
-- https://www.youtube.com/renatajambeiro
+  - 'https://www.womex.com/virtual/frg_cultural_prod/renata_jambeiro'
+  - 'https://renatajambeiro.com.br/renatajambeiro/'
+  - 'https://www.youtube.com/renatajambeiro'
 spotify_data:
   followers: 4900
   id: 0p7EOZ5rAvP46Jccu2cVDX
   popularity: 24
-  url: https://open.spotify.com/artist/0p7EOZ5rAvP46Jccu2cVDX
+  url: 'https://open.spotify.com/artist/0p7EOZ5rAvP46Jccu2cVDX'
 status: active
 title: Renata Jambeiro
+birth_date: '1981-12-22'
 ---
 
 ![](renata_jambeiro.jpg)

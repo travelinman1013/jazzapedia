@@ -3,20 +3,20 @@ title: Les Getrex
 wiki_slug: les-getrex
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/les_getrex.jpg
   caption: Les Getrex
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 130.5
   energy_avg: 0.719
   valence_avg: 0.724
   danceability_avg: 0.551
   acousticness_avg: 0.286
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -6.3
   speechiness_avg: 0.096
   liveness_avg: 0.213
@@ -25,49 +25,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Burnt Toast and Coffee
-  - Les Getrex and His All Star Band
+    - Burnt Toast and Coffee
+    - Les Getrex and His All Star Band
   influenced: []
   mentors:
-  - Gospel Church
+    - Gospel Church
 spotify_data:
   followers: 82
   id: 7L11aX0dxRjjNDE7NTrObb
   popularity: 0
-  url: https://open.spotify.com/artist/7L11aX0dxRjjNDE7NTrObb
+  url: 'https://open.spotify.com/artist/7L11aX0dxRjjNDE7NTrObb'
 discography_enriched: true
 top_tracks:
-- Elvina (Soul Romantix Vol. II)
-- Fool for You (Sound of New Orleans Blue Ribbon Blues)
-- Indian Red (Sound of New Orleans 1992-2005)
-- Farther on up the Road (Live) (Live Must Go On)
-- Farther On Up The Road (Les Getrex Sings the Classics)
-- Fool For You (Les Getrex Sings the Classics)
-- Misty (Les Getrex Sings the Classics)
-- Elvina (Les Getrex Sings the Classics)
-- Hallelujah I Love Her So (Les Getrex Sings the Classics)
-- Tennessee Waltz (Les Getrex Sings the Classics)
+  - Elvina (Soul Romantix Vol. II)
+  - Fool for You (Sound of New Orleans Blue Ribbon Blues)
+  - Indian Red (Sound of New Orleans 1992-2005)
+  - Farther on up the Road (Live) (Live Must Go On)
+  - Farther On Up The Road (Les Getrex Sings the Classics)
+  - Fool For You (Les Getrex Sings the Classics)
+  - Misty (Les Getrex Sings the Classics)
+  - Elvina (Les Getrex Sings the Classics)
+  - Hallelujah I Love Her So (Les Getrex Sings the Classics)
+  - Tennessee Waltz (Les Getrex Sings the Classics)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/594762ae-66cc-4c01-998e-7aae70efc312
-  spotify: https://open.spotify.com/artist/7L11aX0dxRjjNDE7NTrObb
+  musicbrainz: 'https://musicbrainz.org/artist/594762ae-66cc-4c01-998e-7aae70efc312'
+  spotify: 'https://open.spotify.com/artist/7L11aX0dxRjjNDE7NTrObb'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/les_getrex.jpg
 biography_enhanced_at: '2025-11-20T07:08:09.329534'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.gigroster.com/listings/les-getrex-and-and-his-all-star-band-creole-cookin
-- https://www.neworleans.com/listing/les-getrex/46460/
-- https://www.lesgetrex.com/images/breakThruMedia.pdf
-- https://conversationsmag.blogspot.com/2013/06/the-sound-of-les-getrex.html
-- https://www.lesgetrex.com
-- https://www.lesgetrex.com/bio.html
-- https://www.offbeat.com/music/les-getrex-his-all-star-band-300-miles-cm-records/
-- https://www.youtube.com/watch?v=hbuD8hBtuek
+  - >-
+    https://www.gigroster.com/listings/les-getrex-and-and-his-all-star-band-creole-cookin
+  - 'https://www.neworleans.com/listing/les-getrex/46460/'
+  - 'https://www.lesgetrex.com/images/breakThruMedia.pdf'
+  - 'https://conversationsmag.blogspot.com/2013/06/the-sound-of-les-getrex.html'
+  - 'https://www.lesgetrex.com'
+  - 'https://www.lesgetrex.com/bio.html'
+  - >-
+    https://www.offbeat.com/music/les-getrex-his-all-star-band-300-miles-cm-records/
+  - 'https://www.youtube.com/watch?v=hbuD8hBtuek'
 network_extracted: true
 entry_created: '2025-11-20T07:08:09.329550'
 last_updated: '2025-12-23T08:16:11.847176'
 musicbrainz_id: 594762ae-66cc-4c01-998e-7aae70efc312
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](les_getrex.jpg)

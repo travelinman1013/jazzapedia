@@ -2,14 +2,15 @@
 title: New Orleans Klezmer All Stars
 wiki_slug: new-orleans-klezmer-all-stars
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1991'
 genres: []
 instruments:
-- original
+  - original
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/new_orleans_klezmer_all_stars.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/new_orleans_klezmer_all_stars.jpg
   caption: New Orleans Klezmer All Stars
   background: group_or_band
   born: '1991'
@@ -20,7 +21,7 @@ audio_profile:
   danceability_avg: 0.427
   acousticness_avg: 0.313
   instrumentalness_avg: 0.46
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.069
   liveness_avg: 0.22
   track_count: 27
@@ -28,101 +29,109 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jonathan Freilich
-  - Glenn Hartman
-  - Ben Ellman
-  - Stanton Moore
-  - “Mean” Willie Green
-  - Doug Garrison
-  - Aurora Nealand
-  - Dan Oestreicher
-  - Nick Ellman
-  - Joe Cabral
-  - Andrei Codrescu
+    - Jonathan Freilich
+    - Glenn Hartman
+    - Ben Ellman
+    - Stanton Moore
+    - “Mean” Willie Green
+    - Doug Garrison
+    - Aurora Nealand
+    - Dan Oestreicher
+    - Nick Ellman
+    - Joe Cabral
+    - Andrei Codrescu
   influenced:
-  - Galactic (via Stanton Moore and Ben Ellman)
+    - Galactic (via Stanton Moore and Ben Ellman)
   mentors:
-  - New Orleans jazz, funk, and social dance traditions
-  - Traditional Eastern European klezmer and Yiddish secular music
+    - 'New Orleans jazz, funk, and social dance traditions'
+    - Traditional Eastern European klezmer and Yiddish secular music
 spotify_data:
   followers: 341
   id: 7ucU0CgyTllmn3XP2lNYGP
   popularity: 1
-  url: https://open.spotify.com/artist/7ucU0CgyTllmn3XP2lNYGP
+  url: 'https://open.spotify.com/artist/7ucU0CgyTllmn3XP2lNYGP'
 discography_enriched: true
 top_tracks:
-- Mr. 9 O'Clock (Fresh Out The Past)
-- Klezmer Defiance (Fresh Out The Past)
-- Hartman Pick Up Your Accordion And Play (Fresh Out The Past)
-- Dr. Lizard (Fresh Out The Past)
-- Not Too Eggy (Fresh Out The Past)
-- The Unholy Chazir (Fresh Out The Past)
-- Struttin' With Some Doner Kabob (Fresh Out The Past)
-- Coney Island White Fish (Fresh Out The Past)
-- Aging Raver's Personal Hell (Fresh Out The Past)
-- Casablanca To L.A. (Fresh Out The Past)
+  - Mr. 9 O'Clock (Fresh Out The Past)
+  - Klezmer Defiance (Fresh Out The Past)
+  - Hartman Pick Up Your Accordion And Play (Fresh Out The Past)
+  - Dr. Lizard (Fresh Out The Past)
+  - Not Too Eggy (Fresh Out The Past)
+  - The Unholy Chazir (Fresh Out The Past)
+  - Struttin' With Some Doner Kabob (Fresh Out The Past)
+  - Coney Island White Fish (Fresh Out The Past)
+  - Aging Raver's Personal Hell (Fresh Out The Past)
+  - Casablanca To L.A. (Fresh Out The Past)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/484bca89-c1cf-47eb-967a-0eea93239657
-  spotify: https://open.spotify.com/artist/7ucU0CgyTllmn3XP2lNYGP
+  musicbrainz: 'https://musicbrainz.org/artist/484bca89-c1cf-47eb-967a-0eea93239657'
+  spotify: 'https://open.spotify.com/artist/7ucU0CgyTllmn3XP2lNYGP'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/new_orleans_klezmer_all_stars.jpg
 biography_enhanced_at: '2025-12-16T03:13:01.296809'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Relix feature on New Orleans Klezmer All Stars and the album *Tipish*.[1]
-- Official listing on NewOrleans.com describing the band’s origins and style.[2]
-- Official band bio from klezmerallstars.com.[3]
-- San Jose Jazz Summer Fest artist profile mentioning the group as a pioneering klezmer ensemble.[4]
-- Jonathan Freilich’s site detailing the band’s discography, touring, and Codrescu collaboration.[5]
-- Quantum Leap Music/NOFO artist bio reiterating the group’s philosophy and long activity.[6]
-- Documentary description for the band’s 20th anniversary on YouTube.[7]
-- JazzTimes coverage of the band’s music and instrumentation.[8]
+  - 'Relix feature on New Orleans Klezmer All Stars and the album *Tipish*.[1]'
+  - >-
+    Official listing on NewOrleans.com describing the band’s origins and
+    style.[2]
+  - 'Official band bio from klezmerallstars.com.[3]'
+  - >-
+    San Jose Jazz Summer Fest artist profile mentioning the group as a
+    pioneering klezmer ensemble.[4]
+  - >-
+    Jonathan Freilich’s site detailing the band’s discography, touring, and
+    Codrescu collaboration.[5]
+  - >-
+    Quantum Leap Music/NOFO artist bio reiterating the group’s philosophy and
+    long activity.[6]
+  - 'Documentary description for the band’s 20th anniversary on YouTube.[7]'
+  - 'JazzTimes coverage of the band’s music and instrumentation.[8]'
 network_extracted: true
 entry_created: '2025-12-16T03:13:01.296822'
 last_updated: '2025-12-23T08:16:13.541071'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bd9cf25d-4299-4063-8d01-65336d0194b3
-  name: Ben Ellman
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: b6732dc7-cb1f-4e91-8e64-5b2a75058489
-  name: Jonathan Freilich
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: e86855b9-841b-4eb0-be6b-6a8fa388e911
-  name: Glenn Hartman
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0d090a3e-6f19-4f3f-931f-8696334f08e7
-  name: Arthur Kastler
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c1e9d142-3ca3-46b5-9da4-34cbde3cc6e1
-  name: Kevin O'Day
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 21a53f26-d4d7-48e9-9955-14f283c6c2c3
-  name: Rick Perles
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c0e49dde-257f-46cd-8591-e56a9c9680b2
-  name: Rob Wagner
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bd9cf25d-4299-4063-8d01-65336d0194b3
+    name: Ben Ellman
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: b6732dc7-cb1f-4e91-8e64-5b2a75058489
+    name: Jonathan Freilich
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: e86855b9-841b-4eb0-be6b-6a8fa388e911
+    name: Glenn Hartman
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0d090a3e-6f19-4f3f-931f-8696334f08e7
+    name: Arthur Kastler
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c1e9d142-3ca3-46b5-9da4-34cbde3cc6e1
+    name: Kevin O'Day
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 21a53f26-d4d7-48e9-9955-14f283c6c2c3
+    name: Rick Perles
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c0e49dde-257f-46cd-8591-e56a9c9680b2
+    name: Rob Wagner
 musicbrainz_id: 484bca89-c1cf-47eb-967a-0eea93239657
-origin: New Orleans
+origin: 'New Orleans, Louisiana, United States'
 tags:
-- klezmer
+  - klezmer
 ---
 
 ![](new_orleans_klezmer_all_stars.jpg)

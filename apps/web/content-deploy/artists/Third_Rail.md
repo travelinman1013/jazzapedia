@@ -1,8 +1,8 @@
 ---
-title: Third Rail
+title: The Third Rail
 wiki_slug: third-rail
 schema_version: 2
-artist_type: Group
+artist_type: person
 status: active
 genres: []
 infobox:
@@ -24,43 +24,43 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Arthur Resnick
-  - Kris Resnick
-  - Joey Levine
+    - Arthur Resnick
+    - Kris Resnick
+    - Joey Levine
   influenced:
-  - Ohio Express
+    - Ohio Express
   mentors:
-  - Brill Building Songwriters
+    - Brill Building Songwriters
 spotify_data:
   followers: 22
   id: 6xUJ9flk0CNfQHWGO4wt6X
   popularity: 46
-  url: https://open.spotify.com/artist/6xUJ9flk0CNfQHWGO4wt6X
+  url: 'https://open.spotify.com/artist/6xUJ9flk0CNfQHWGO4wt6X'
 discography_enriched: true
 top_tracks:
-- Velvet ends (Velvet ends)
-- Starlight Stroll (Starlight Stroll)
-- Where the wind once was (Where the wind once was)
-- Whispered secrets (Whispered secrets)
-- The wind the time (The wind the time)
+  - Velvet ends (Velvet ends)
+  - Starlight Stroll (Starlight Stroll)
+  - Where the wind once was (Where the wind once was)
+  - Whispered secrets (Whispered secrets)
+  - The wind the time (The wind the time)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/815d3e7e-e0dc-4647-b345-159d81b74fd7
-  spotify: https://open.spotify.com/artist/6xUJ9flk0CNfQHWGO4wt6X
-  wikipedia: https://en.wikipedia.org/wiki/The_Third_Rail_(band)
+  musicbrainz: 'https://musicbrainz.org/artist/815d3e7e-e0dc-4647-b345-159d81b74fd7'
+  spotify: 'https://open.spotify.com/artist/6xUJ9flk0CNfQHWGO4wt6X'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Third_Rail_(band)'
 image_path: 03_Resources/source_material/ArtistPortraits/Third_Rail.jpg
 biography_enhanced_at: '2025-10-19T12:39:34.346181'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Third_Rail_(band)
-- https://www.allmusic.com/artist/third-rail-mn0001297026
+  - 'https://en.wikipedia.org/wiki/The_Third_Rail_(band)'
+  - 'https://www.allmusic.com/artist/third-rail-mn0001297026'
 network_extracted: true
 entry_created: '2025-10-19T12:39:34.346192'
 last_updated: '2025-12-23T08:16:04.160072'
 disambiguation: jazz group (James Blood Ulmer/Bill Laswell)
 musicbrainz_enriched_at: '2025-10-21T09:46:49.496850'
 musicbrainz_id: 815d3e7e-e0dc-4647-b345-159d81b74fd7
-origin: New York City, New York, United States
+origin: 'New York City, New York, United States'
 ---
 
 ![](Third_Rail.jpg)

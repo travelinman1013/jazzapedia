@@ -1,16 +1,16 @@
 ---
-title: labelle
+title: Labelle
 wiki_slug: labelle
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1970'
 genres:
-- disco
-- philly soul
+  - disco
+  - philly soul
 instruments:
-- other vocals
-- background vocals
+  - other vocals
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/labelle.jpg
   caption: labelle
@@ -31,73 +31,73 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Patti LaBelle (Patricia Holt)
-  - Nona Hendryx
-  - Sarah Dash
-  - Cindy Birdsong
+    - Patti LaBelle (Patricia Holt)
+    - Nona Hendryx
+    - Sarah Dash
+    - Cindy Birdsong
   influenced:
-  - En Vogue
-  - Beyoncé
-  - Christina Aguilera, Lil' Kim, Mýa, Pink
+    - En Vogue
+    - Beyoncé
+    - 'Christina Aguilera, Lil'' Kim, Mýa, Pink'
   mentors:
-  - Bobby Martin
-  - Vicki Wickham
+    - Bobby Martin
+    - Vicki Wickham
 spotify_data:
   followers: 113366
   id: 3DznKagEU8yMQZR9z33Da5
   popularity: 40
-  url: https://open.spotify.com/artist/3DznKagEU8yMQZR9z33Da5
+  url: 'https://open.spotify.com/artist/3DznKagEU8yMQZR9z33Da5'
 discography_enriched: true
 top_tracks:
-- Lady Marmalade (Nightbirds)
-- Lady Marmalade - Single Version
-- Lady Marmalade
-- Lady Marmalade - Single Version (The Essential LaBelle)
-- Lady Marmalade
-- It Took a Long Time (Nightbirds)
-- Jimmy Mack (Gonna Take A Miracle)
-- Lady Marmalade (feat. Patti LaBelle)
-- You Turn Me On (Nightbirds)
-- I Met Him On A Sunday (Gonna Take A Miracle)
+  - Lady Marmalade (Nightbirds)
+  - Lady Marmalade - Single Version
+  - Lady Marmalade
+  - Lady Marmalade - Single Version (The Essential LaBelle)
+  - Lady Marmalade
+  - It Took a Long Time (Nightbirds)
+  - Jimmy Mack (Gonna Take A Miracle)
+  - Lady Marmalade (feat. Patti LaBelle)
+  - You Turn Me On (Nightbirds)
+  - I Met Him On A Sunday (Gonna Take A Miracle)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/875074d3-6458-47b4-b515-f7ecda93bd8d
-  spotify: https://open.spotify.com/artist/3DznKagEU8yMQZR9z33Da5
-  wikipedia: https://en.wikipedia.org/wiki/Labelle
+  musicbrainz: 'https://musicbrainz.org/artist/875074d3-6458-47b4-b515-f7ecda93bd8d'
+  spotify: 'https://open.spotify.com/artist/3DznKagEU8yMQZR9z33Da5'
+  wikipedia: 'https://en.wikipedia.org/wiki/Labelle'
 image_path: 03_Resources/source_material/ArtistPortraits/labelle.jpg
 biography_enhanced_at: '2025-10-24T07:45:06.217646'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Labelle
-- https://www.philadelphiamusicalliance.org/walk-of-fame/labelle/
-- https://www.biography.com/musicians/patti-labelle
-- https://walkoffame.com/patti-labelle/
+  - 'https://en.wikipedia.org/wiki/Labelle'
+  - 'https://www.philadelphiamusicalliance.org/walk-of-fame/labelle/'
+  - 'https://www.biography.com/musicians/patti-labelle'
+  - 'https://walkoffame.com/patti-labelle/'
 network_extracted: true
 entry_created: '2025-10-24T07:45:06.217659'
 last_updated: '2025-12-23T08:16:11.540395'
-disambiguation: American female vocal group, of "Lady Marmalade" fame
+disambiguation: 'American female vocal group, of "Lady Marmalade" fame'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5385b774-61d3-4df4-b8a0-8fde9f695ba6
-  name: Sarah Dash
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: af78c8ec-0d33-4082-98f5-23281b65b109
-  name: Nona Hendryx
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f319ec6a-9290-449b-baef-4244809c487a
-  name: Patti LaBelle
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5385b774-61d3-4df4-b8a0-8fde9f695ba6
+    name: Sarah Dash
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: af78c8ec-0d33-4082-98f5-23281b65b109
+    name: Nona Hendryx
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f319ec6a-9290-449b-baef-4244809c487a
+    name: Patti LaBelle
 musicbrainz_id: 875074d3-6458-47b4-b515-f7ecda93bd8d
-origin: Philadelphia
+origin: 'Philadelphia, Pennsylvania, United States'
 tags:
-- disco
-- funk
-- pop soul
+  - disco
+  - funk
+  - pop soul
 ---
 
 ![](labelle.jpg)

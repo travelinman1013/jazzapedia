@@ -2,19 +2,20 @@
 title: Glenn Miller and his Orchestra
 wiki_slug: glenn-miller-and-his-orchestra
 schema_version: 2
-artist_type: Orchestra
+artist_type: band
 status: active
-birth_date: '1938'
+birth_date: '1904'
 genres:
-- big band
-- swing music
+  - big band
+  - swing music
 instruments:
-- trombone
-- guitar
-- original
-- piano
+  - trombone
+  - guitar
+  - original
+  - piano
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/Glenn_Miller_and_his_Orchestra.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/Glenn_Miller_and_his_Orchestra.jpg
   caption: Glenn Miller and his Orchestra
   background: non_vocal_instrumentalist
   born: '1938'
@@ -33,59 +34,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Hal McIntyre
-  - Chummy MacGregor
-  - Marion Hutton
+    - Hal McIntyre
+    - Chummy MacGregor
+    - Marion Hutton
   influenced:
-  - Ray Anthony
-  - Benny Goodman
-  - Artie Shaw
+    - Ray Anthony
+    - Benny Goodman
+    - Artie Shaw
   mentors:
-  - Joseph Schillinger
+    - Joseph Schillinger
 spotify_data:
   followers: 136233
   id: 6N1ycRllcq7fwHMdeTQD1z
   popularity: 41
-  url: https://open.spotify.com/artist/6N1ycRllcq7fwHMdeTQD1z
+  url: 'https://open.spotify.com/artist/6N1ycRllcq7fwHMdeTQD1z'
 discography_enriched: true
 top_tracks:
-- Moonlight Serenade (Moonlight Serenade)
-- In The Mood (In The Digital Mood)
-- At Last (Glenn Miller Orchestra (2 CD set))
-- Begin The Beguine (Glenn Miller Orchestra (2 CD set))
-- In The Mood (Remastered 2022) (In The Mood (Remastered 2022))
-- Sleepy Lagoon (The Legendary Glenn Miller Orchestra)
-- A String Of Pearls (Glenn Miller Orchestra (2 CD set))
-- Moonlight Serenade
-- Cross Town (Be Happy)
-- Jukebox Saturday Night (Jukebox Saturday Night)
+  - Moonlight Serenade (Moonlight Serenade)
+  - In The Mood (In The Digital Mood)
+  - At Last (Glenn Miller Orchestra (2 CD set))
+  - Begin The Beguine (Glenn Miller Orchestra (2 CD set))
+  - In The Mood (Remastered 2022) (In The Mood (Remastered 2022))
+  - Sleepy Lagoon (The Legendary Glenn Miller Orchestra)
+  - A String Of Pearls (Glenn Miller Orchestra (2 CD set))
+  - Moonlight Serenade
+  - Cross Town (Be Happy)
+  - Jukebox Saturday Night (Jukebox Saturday Night)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9b87c1f6-23ae-469b-b710-ea5da2d3f848
-  spotify: https://open.spotify.com/artist/6N1ycRllcq7fwHMdeTQD1z
-  wikipedia: https://en.wikipedia.org/wiki/Glenn_Miller_Orchestra
-image_path: 03_Resources/source_material/ArtistPortraits/Glenn_Miller_and_his_Orchestra.jpg
+  musicbrainz: 'https://musicbrainz.org/artist/9b87c1f6-23ae-469b-b710-ea5da2d3f848'
+  spotify: 'https://open.spotify.com/artist/6N1ycRllcq7fwHMdeTQD1z'
+  wikipedia: 'https://en.wikipedia.org/wiki/Glenn_Miller_Orchestra'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/Glenn_Miller_and_his_Orchestra.jpg
 biography_enhanced_at: '2025-10-20T01:40:24.363333'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Glenn_Miller_Orchestra
-- https://blogs.loc.gov/music/2021/04/the-chattanooga-choo-choo-that-could-the-life-and-legacy-of-glenn-miller/
-- https://glennmillerorchestra.com/history/
-- https://mgleatherwork.com/blogs/news/glenn-miller-s-biography-career-and-legacy
-- https://www.biography.com/musicians/glenn-miller
-- https://colomusic.org/video/glenn-miller-2/
-- https://www.britannica.com/biography/Glenn-Miller
-- https://libraries.colorado.edu/2018/06/03/archives-glenn-miller
+  - 'https://en.wikipedia.org/wiki/Glenn_Miller_Orchestra'
+  - >-
+    https://blogs.loc.gov/music/2021/04/the-chattanooga-choo-choo-that-could-the-life-and-legacy-of-glenn-miller/
+  - 'https://glennmillerorchestra.com/history/'
+  - >-
+    https://mgleatherwork.com/blogs/news/glenn-miller-s-biography-career-and-legacy
+  - 'https://www.biography.com/musicians/glenn-miller'
+  - 'https://colomusic.org/video/glenn-miller-2/'
+  - 'https://www.britannica.com/biography/Glenn-Miller'
+  - 'https://libraries.colorado.edu/2018/06/03/archives-glenn-miller'
 network_extracted: true
 entry_created: '2025-10-20T01:40:24.363349'
 last_updated: '2025-12-23T08:16:02.141584'
 disambiguation: use only for releases Glenn Miller performed with
 musicbrainz_enriched_at: '2025-10-21T09:27:56.339648'
 musicbrainz_id: 9b87c1f6-23ae-469b-b710-ea5da2d3f848
-origin: Clarinda, Iowa, United States
+origin: 'Clarinda, Iowa, United States'
 tags:
-- big band
-- swing
+  - big band
+  - swing
+birth_place: 'Clarinda, Iowa, United States'
 ---
 
 ![](Glenn_Miller_and_his_Orchestra.jpg)

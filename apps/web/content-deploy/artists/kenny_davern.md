@@ -5,43 +5,43 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1935-01-07'
-birth_place: Huntington
+birth_place: 'Huntington, New York, United States'
 death_date: '2006-12-12'
 genres: []
 instruments:
-- clarinet
-- eponymous
-- original
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - clarinet
   - eponymous
   - original
-  mbid: 9b224f3c-86fd-404c-8c63-21647d9c0452
-  name: Kenny Davern Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9592f3cf-5db2-4b39-b0e3-0633b26692f3
-  name: Kenny Davern Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e5625a54-8ab1-4341-ac20-25e09864d6db
-  name: Soprano Summit
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a418fc3c-ea4a-4d5b-aa86-5e612a1f5563
-  name: Summit Reunion
-- begin: ''
-  end: ''
-  instruments:
-  - clarinet
-  mbid: b0823e15-fc80-4d05-a342-280a3d7e621f
-  name: Kenny Davern Big Three
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - clarinet
+      - eponymous
+      - original
+    mbid: 9b224f3c-86fd-404c-8c63-21647d9c0452
+    name: Kenny Davern Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9592f3cf-5db2-4b39-b0e3-0633b26692f3
+    name: Kenny Davern Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e5625a54-8ab1-4341-ac20-25e09864d6db
+    name: Soprano Summit
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a418fc3c-ea4a-4d5b-aa86-5e612a1f5563
+    name: Summit Reunion
+  - begin: ''
+    end: ''
+    instruments:
+      - clarinet
+    mbid: b0823e15-fc80-4d05-a342-280a3d7e621f
+    name: Kenny Davern Big Three
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/kenny_davern.jpg
   caption: Kenny Davern
@@ -56,7 +56,7 @@ audio_profile:
   danceability_avg: 0.586
   acousticness_avg: 0.806
   instrumentalness_avg: 0.468
-  loudness_avg: -14.0
+  loudness_avg: -14
   speechiness_avg: 0.062
   liveness_avg: 0.335
   track_count: 57
@@ -64,57 +64,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jack Teagarden
-  - Bob Wilber
-  - Dick Wellstood
-  - Steve Lacy, Steve Swallow, Paul Motian
-  - Phil Napoleon, Pee Wee Erwin, Ruby Braff, Wild Bill Davison, Ralph Sutton, Bud Freeman, Shorty Baker
+    - Jack Teagarden
+    - Bob Wilber
+    - Dick Wellstood
+    - 'Steve Lacy, Steve Swallow, Paul Motian'
+    - >-
+      Phil Napoleon, Pee Wee Erwin, Ruby Braff, Wild Bill Davison, Ralph Sutton,
+      Bud Freeman, Shorty Baker
   influenced:
-  - Modern traditional jazz clarinetists
+    - Modern traditional jazz clarinetists
   mentors:
-  - David Weber
-  - Pee Wee Russell
-  - Louis Armstrong
+    - David Weber
+    - Pee Wee Russell
+    - Louis Armstrong
 spotify_data:
   followers: 803
   id: 5FrL8C2vYIUL7In8fWmglA
   popularity: 8
-  url: https://open.spotify.com/artist/5FrL8C2vYIUL7In8fWmglA
+  url: 'https://open.spotify.com/artist/5FrL8C2vYIUL7In8fWmglA'
 discography_enriched: true
 top_tracks:
-- When You're Smiling (The Whole World Smiles With You) - Voice
-- When You're Smiling (The Whole World Smiles With You) - Voice (Mighty Aphrodite)
-- Dark Eyes (Breezin' Along)
-- My Blue Heaven (Summit Reunion)
-- Potato Head Blues - Live (We Love You, Louis! (Live))
-- Jingle Bells
-- Nobody's Sweetheart
-- Love Me Or Leave Me (Summit Reunion)
-- Bugle Call Rag (Chasin' the Blues)
-- Cornet Chop Suey - Live (We Love You, Louis! (Live))
+  - When You're Smiling (The Whole World Smiles With You) - Voice
+  - >-
+    When You're Smiling (The Whole World Smiles With You) - Voice (Mighty
+    Aphrodite)
+  - Dark Eyes (Breezin' Along)
+  - My Blue Heaven (Summit Reunion)
+  - 'Potato Head Blues - Live (We Love You, Louis! (Live))'
+  - Jingle Bells
+  - Nobody's Sweetheart
+  - Love Me Or Leave Me (Summit Reunion)
+  - Bugle Call Rag (Chasin' the Blues)
+  - 'Cornet Chop Suey - Live (We Love You, Louis! (Live))'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d941537c-9ae9-425c-bb05-be7ac6fb4e2d
-  spotify: https://open.spotify.com/artist/5FrL8C2vYIUL7In8fWmglA
-  wikipedia: https://en.wikipedia.org/wiki/Kenny_Davern
+  musicbrainz: 'https://musicbrainz.org/artist/d941537c-9ae9-425c-bb05-be7ac6fb4e2d'
+  spotify: 'https://open.spotify.com/artist/5FrL8C2vYIUL7In8fWmglA'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kenny_Davern'
 image_path: 03_Resources/source_material/ArtistPortraits/kenny_davern.jpg
 biography_enhanced_at: '2025-11-03T07:30:32.342710'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.allaboutjazz.com/musicians/kenny-davern/
-- https://jazztimes.com/archives/clarinetist-kenny-davern-dies-at-71/
-- https://www.latimes.com/archives/la-xpm-2006-dec-18-me-davern18-story.html
-- https://www.jazznorthwest.co.uk/davern.htm
-- https://en.wikipedia.org/wiki/Kenny_Davern
+  - 'https://www.allaboutjazz.com/musicians/kenny-davern/'
+  - 'https://jazztimes.com/archives/clarinetist-kenny-davern-dies-at-71/'
+  - 'https://www.latimes.com/archives/la-xpm-2006-dec-18-me-davern18-story.html'
+  - 'https://www.jazznorthwest.co.uk/davern.htm'
+  - 'https://en.wikipedia.org/wiki/Kenny_Davern'
 network_extracted: true
 entry_created: '2025-11-03T07:30:32.342730'
 last_updated: '2025-12-23T08:16:11.300137'
 gender: Male
 musicbrainz_id: d941537c-9ae9-425c-bb05-be7ac6fb4e2d
 tags:
-- dixieland
-- jazz
-- swing
+  - dixieland
+  - jazz
+  - swing
+is_active: false
 ---
 
 ![](kenny_davern.jpg)

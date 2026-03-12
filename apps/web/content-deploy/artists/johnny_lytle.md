@@ -1,21 +1,21 @@
 ---
-title: johnny lytle
+title: Johnny Lytle
 wiki_slug: johnny-lytle
 schema_version: 2
 status: active
-birth_place: Springfield, Ohio, United States
+birth_place: 'Springfield, Ohio, United States'
 genres:
-- soul jazz
-- northern soul
-- hard bop
-- exotica
+  - soul jazz
+  - northern soul
+  - hard bop
+  - exotica
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/johnny_lytle.jpg
   caption: johnny lytle
   background: solo_singer
-  origin: Springfield, Ohio, United States
+  origin: 'Springfield, Ohio, United States'
 audio_profile:
-  tempo_avg: 114.0
+  tempo_avg: 114
   energy_avg: 0.487
   valence_avg: 0.538
   danceability_avg: 0.543
@@ -29,48 +29,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Orrin Keepnews
-  - Milton Harris
-  - William 'Peppy' Hinnant
-  - Marcel Lytle
-  - Ray Charles
-  - Gene Ammons
+    - Orrin Keepnews
+    - Milton Harris
+    - William 'Peppy' Hinnant
+    - Marcel Lytle
+    - Ray Charles
+    - Gene Ammons
   influenced:
-  - Roy Ayers
+    - Roy Ayers
   mentors:
-  - Lionel Hampton
+    - Lionel Hampton
 spotify_data:
   followers: 3177
   id: 1YENA5yMZMS2ta6wzLKWPg
   popularity: 12
-  url: https://open.spotify.com/artist/1YENA5yMZMS2ta6wzLKWPg
+  url: 'https://open.spotify.com/artist/1YENA5yMZMS2ta6wzLKWPg'
 discography_enriched: true
 top_tracks:
-- Where Is The Love? - Remastered 2023 (People & Love (Remastered 2023))
-- St. Louis Blues
-- Family - Remastered 2023 (People & Love (Remastered 2023))
-- The Man (On Green Dolphin Street)
-- The Man (Essential Masters)
-- A Child Is Born
-- Selim (On Green Dolphin Street)
-- The Loop (On Green Dolphin Street)
-- Selim (Essential Masters)
-- The Loop (Essential Masters)
+  - Where Is The Love? - Remastered 2023 (People & Love (Remastered 2023))
+  - St. Louis Blues
+  - Family - Remastered 2023 (People & Love (Remastered 2023))
+  - The Man (On Green Dolphin Street)
+  - The Man (Essential Masters)
+  - A Child Is Born
+  - Selim (On Green Dolphin Street)
+  - The Loop (On Green Dolphin Street)
+  - Selim (Essential Masters)
+  - The Loop (Essential Masters)
 external_urls:
-  spotify: https://open.spotify.com/artist/1YENA5yMZMS2ta6wzLKWPg
-  wikipedia: https://en.wikipedia.org/wiki/Johnny_Lytle
+  spotify: 'https://open.spotify.com/artist/1YENA5yMZMS2ta6wzLKWPg'
+  wikipedia: 'https://en.wikipedia.org/wiki/Johnny_Lytle'
 image_path: 03_Resources/source_material/ArtistPortraits/johnny_lytle.jpg
 biography_enhanced_at: '2025-10-20T09:27:37.740194'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Johnny_Lytle
-- https://dereksmusicblog.com/2023/07/27/johnny-lytle-the-loop/
-- https://www.jazzempowers.org/johnny-lytle
-- https://www.wmky.org/arts-culture/2017-04-21/johnny-lytle
+  - 'https://en.wikipedia.org/wiki/Johnny_Lytle'
+  - 'https://dereksmusicblog.com/2023/07/27/johnny-lytle-the-loop/'
+  - 'https://www.jazzempowers.org/johnny-lytle'
+  - 'https://www.wmky.org/arts-culture/2017-04-21/johnny-lytle'
 network_extracted: true
 entry_created: '2025-10-20T09:27:37.740208'
 last_updated: '2025-12-23T08:16:10.863949'
+birth_date: '1932-10-13'
+artist_type: person
 ---
 
 ![](johnny_lytle.jpg)

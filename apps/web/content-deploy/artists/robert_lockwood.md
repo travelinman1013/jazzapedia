@@ -1,18 +1,18 @@
 ---
-title: ROBERT LOCKWOOD
+title: Robert Lockwood
 wiki_slug: robert-lockwood
 schema_version: 2
 status: active
-birth_place: Turkey Scratch (near Helena), Arkansas, United States
+birth_place: 'Turkey Scratch (near Helena), Arkansas, United States'
 genres:
-- classic blues
-- blues
-- country blues
+  - classic blues
+  - blues
+  - country blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/robert_lockwood.jpg
   caption: ROBERT LOCKWOOD
   background: solo_singer
-  origin: Turkey Scratch (near Helena), Arkansas, United States
+  origin: 'Turkey Scratch (near Helena), Arkansas, United States'
 audio_profile:
   tempo_avg: 109.5
   energy_avg: 0.475
@@ -28,53 +28,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sonny Boy Williamson II (Rice Miller)
-  - Little Walter
-  - Muddy Waters
-  - Otis Spann
-  - Johnny Shines
-  - The Aces (Louis Myers, Dave Myers, Fred Below)
+    - Sonny Boy Williamson II (Rice Miller)
+    - Little Walter
+    - Muddy Waters
+    - Otis Spann
+    - Johnny Shines
+    - 'The Aces (Louis Myers, Dave Myers, Fred Below)'
   influenced:
-  - B.B. King
-  - Modern blues guitarists and Delta blues revivalists
+    - B.B. King
+    - Modern blues guitarists and Delta blues revivalists
   mentors:
-  - Robert Johnson
+    - Robert Johnson
 spotify_data:
   followers: 146
   id: 7DKLqbL81yGkdtJk75Cw3w
   popularity: 1
-  url: https://open.spotify.com/artist/7DKLqbL81yGkdtJk75Cw3w
+  url: 'https://open.spotify.com/artist/7DKLqbL81yGkdtJk75Cw3w'
 discography_enriched: true
 top_tracks:
-- Little Boy Blue (Little Boy Blue)
-- Sweet Woman from Maine (Little Boy Blue)
-- Dust My Broom (Johnny Shines and Robert Lockwood)
-- Take a Little Walk with Me (Little Boy Blue)
-- Aw Aw Baby (Sweet Home Chicago) (Little Boy Blue)
-- Pearly B (Johnny Shines and Robert Lockwood)
-- Aw Aw Baby (Johnny Shines and Robert Lockwood)
-- Sweet Woman from Maine (Johnny Shines and Robert Lockwood)
-- Leaving Your Town (Johnny Shines and Robert Lockwood)
-- Pearly (Little Boy Blue)
+  - Little Boy Blue (Little Boy Blue)
+  - Sweet Woman from Maine (Little Boy Blue)
+  - Dust My Broom (Johnny Shines and Robert Lockwood)
+  - Take a Little Walk with Me (Little Boy Blue)
+  - Aw Aw Baby (Sweet Home Chicago) (Little Boy Blue)
+  - Pearly B (Johnny Shines and Robert Lockwood)
+  - Aw Aw Baby (Johnny Shines and Robert Lockwood)
+  - Sweet Woman from Maine (Johnny Shines and Robert Lockwood)
+  - Leaving Your Town (Johnny Shines and Robert Lockwood)
+  - Pearly (Little Boy Blue)
 external_urls:
-  spotify: https://open.spotify.com/artist/7DKLqbL81yGkdtJk75Cw3w
-  wikipedia: https://en.wikipedia.org/wiki/Robert_Lockwood_Jr.
+  spotify: 'https://open.spotify.com/artist/7DKLqbL81yGkdtJk75Cw3w'
+  wikipedia: 'https://en.wikipedia.org/wiki/Robert_Lockwood_Jr.'
 image_path: ''
 biography_enhanced_at: '2025-12-09T04:44:58.220586'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Encyclopedia of Cleveland History – LOCKWOOD, ROBERT, JR.[1]
-- Official biography at rlockwoodjr.com[2]
-- Encyclopedia of Arkansas – Robert Lockwood Jr. (1915–2006)[3]
-- MojoHand blues biography – Robert Lockwood Jr.[4]
-- Wikipedia – Robert Lockwood Jr.[5]
-- National Endowment for the Arts – National Heritage Fellow profile[6]
-- The Blues Foundation – Blues Hall of Fame inductee bio[7]
+  - 'Encyclopedia of Cleveland History – LOCKWOOD, ROBERT, JR.[1]'
+  - 'Official biography at rlockwoodjr.com[2]'
+  - 'Encyclopedia of Arkansas – Robert Lockwood Jr. (1915–2006)[3]'
+  - 'MojoHand blues biography – Robert Lockwood Jr.[4]'
+  - 'Wikipedia – Robert Lockwood Jr.[5]'
+  - 'National Endowment for the Arts – National Heritage Fellow profile[6]'
+  - 'The Blues Foundation – Blues Hall of Fame inductee bio[7]'
 network_extracted: true
 entry_created: '2025-12-09T04:44:58.220600'
 last_updated: '2025-12-23T08:16:14.909895'
-
+origin: 'Chicago, Illinois, United States'
+birth_date: '1915-03-27'
+artist_type: person
 ---
 
 ![]()

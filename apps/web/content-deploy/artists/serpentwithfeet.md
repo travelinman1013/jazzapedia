@@ -1,13 +1,13 @@
 ---
-title: serpentwithfeet
+title: Serpentwithfeet
 wiki_slug: serpentwithfeet
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1988-07-09'
-birth_place: Baltimore
+birth_place: 'Baltimore, Maryland, United States'
 genres:
-- alternative r&b
+  - alternative r&b
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/serpentwithfeet.jpg
   caption: serpentwithfeet
@@ -29,44 +29,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Haxan Cloak
-  - Ty Dolla $ign
-  - Nao
-  - Sampha
+    - The Haxan Cloak
+    - Ty Dolla $ign
+    - Nao
+    - Sampha
   influenced:
-  - Emerging Black queer artists in alternative R&B
+    - Emerging Black queer artists in alternative R&B
   mentors:
-  - Wise's Mother
+    - Wise's Mother
 spotify_data:
   followers: 154530
   id: 1O9iHQjrVuiAYOJFCBeFSl
   popularity: 55
-  url: https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl
+  url: 'https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl'
 discography_enriched: true
 top_tracks:
-- Disillusioned (with serpentwithfeet) (NEVER ENOUGH)
-- Disillusioned (with serpentwithfeet) (NEVER ENOUGH (Bonus Version))
-- Disillusioned (with serpentwithfeet) (NEVER ENOUGH)
-- CHAPTER & VERS (GRIP SEQUEL)
-- Luvaroq (Circmvnt)
-- Scottie Pippen (Elephant in the Room)
-- Scottie Pippen
-- on air - 4am version (always centered at night - remixes)
-- WANDERER
-- DAMN GLOVES - BAILE FUNK REMIX (GRIP SEQUEL)
+  - Disillusioned (with serpentwithfeet) (NEVER ENOUGH)
+  - Disillusioned (with serpentwithfeet) (NEVER ENOUGH (Bonus Version))
+  - Disillusioned (with serpentwithfeet) (NEVER ENOUGH)
+  - CHAPTER & VERS (GRIP SEQUEL)
+  - Luvaroq (Circmvnt)
+  - Scottie Pippen (Elephant in the Room)
+  - Scottie Pippen
+  - on air - 4am version (always centered at night - remixes)
+  - WANDERER
+  - DAMN GLOVES - BAILE FUNK REMIX (GRIP SEQUEL)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/cc9ddb3d-1217-4a40-9864-d85920cfa1ed
-  spotify: https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl
-  wikipedia: https://en.wikipedia.org/wiki/Serpentwithfeet
+  musicbrainz: 'https://musicbrainz.org/artist/cc9ddb3d-1217-4a40-9864-d85920cfa1ed'
+  spotify: 'https://open.spotify.com/artist/1O9iHQjrVuiAYOJFCBeFSl'
+  wikipedia: 'https://en.wikipedia.org/wiki/Serpentwithfeet'
 image_path: 03_Resources/source_material/ArtistPortraits/serpentwithfeet.jpg
 biography_enhanced_at: '2025-11-04T10:49:05.582603'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.loudandquiet.com/interview/when-the-classical-world-passed-up-on-serpentwithfeet-he-built-a-whole-new-one-for-himself/
-- https://www.kqed.org/arts/13835391/serpentwithfeet-crafts-his-own-language-for-queer-life
-- https://www.baltimoremagazine.com/section/artsentertainment/serpentwithfeet-musician-discusses-how-baltimore-shaped-him/
-- https://www.therosiegspot.com/post/serpentwithfeet
+  - >-
+    https://www.loudandquiet.com/interview/when-the-classical-world-passed-up-on-serpentwithfeet-he-built-a-whole-new-one-for-himself/
+  - >-
+    https://www.kqed.org/arts/13835391/serpentwithfeet-crafts-his-own-language-for-queer-life
+  - >-
+    https://www.baltimoremagazine.com/section/artsentertainment/serpentwithfeet-musician-discusses-how-baltimore-shaped-him/
+  - 'https://www.therosiegspot.com/post/serpentwithfeet'
 network_extracted: true
 entry_created: '2025-11-04T10:49:05.582619'
 last_updated: '2025-12-23T08:16:15.506426'
@@ -74,9 +77,9 @@ disambiguation: experimental musician/singer based in Brooklyn
 gender: Male
 musicbrainz_id: cc9ddb3d-1217-4a40-9864-d85920cfa1ed
 tags:
-- alternative r&b
-- ambient pop
-- art pop
+  - alternative r&b
+  - ambient pop
+  - art pop
 ---
 
 ![](serpentwithfeet.jpg)

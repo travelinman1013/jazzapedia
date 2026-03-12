@@ -1,16 +1,17 @@
 ---
-title: stanton moore with cyril neville
+title: Stanton Moore With Cyril Neville
 wiki_slug: stanton-moore-with-cyril-neville
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- jazz funk
+  - jazz funk
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/stanton_moore_with_cyril_neville.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/stanton_moore_with_cyril_neville.jpg
   caption: stanton moore with cyril neville
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 109.5
   energy_avg: 0.639
@@ -26,57 +27,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Cyril Neville
-  - David Torkanowsky
-  - James Singleton
-  - Galactic
-  - Garage a Trois
-  - Robert Walter
-  - Maceo Parker
-  - Tom Morello
+    - Cyril Neville
+    - David Torkanowsky
+    - James Singleton
+    - Galactic
+    - Garage a Trois
+    - Robert Walter
+    - Maceo Parker
+    - Tom Morello
   influenced:
-  - Stanton Moore Drum Academy students
+    - Stanton Moore Drum Academy students
   mentors:
-  - Kenny Washington
-  - Jeff Hamilton
-  - Johnny Vidacovich
-  - Philly Joe Jones
+    - Kenny Washington
+    - Jeff Hamilton
+    - Johnny Vidacovich
+    - Philly Joe Jones
 spotify_data:
   followers: 27892
   id: 7bOHiKCHJ7mPMrSIiLMOIj
   popularity: 27
-  url: https://open.spotify.com/artist/7bOHiKCHJ7mPMrSIiLMOIj
+  url: 'https://open.spotify.com/artist/7bOHiKCHJ7mPMrSIiLMOIj'
 discography_enriched: true
 top_tracks:
-- Blues for Ben (All Kooked Out!)
-- Here Come The Girls (With You In Mind)
-- Java (With You In Mind)
-- Zulu King (James Andrews and Trombone Shorty Brothers)
-- Give It What You Can (Give It What You Can)
-- 'You Know I’m No Good (Krasno/Moore Project: Book of Queens)'
-- Tchfunkta (All Kooked Out!)
-- 'Stay High [Feat. Cory Henry] (Krasno/Moore Project: Book of Queens)'
-- Pie-Eyed Manc (Groove Alchemy)
-- 'Slow Burn (Krasno/Moore Project: Book of Queens)'
+  - Blues for Ben (All Kooked Out!)
+  - Here Come The Girls (With You In Mind)
+  - Java (With You In Mind)
+  - Zulu King (James Andrews and Trombone Shorty Brothers)
+  - Give It What You Can (Give It What You Can)
+  - 'You Know I’m No Good (Krasno/Moore Project: Book of Queens)'
+  - Tchfunkta (All Kooked Out!)
+  - 'Stay High [Feat. Cory Henry] (Krasno/Moore Project: Book of Queens)'
+  - Pie-Eyed Manc (Groove Alchemy)
+  - 'Slow Burn (Krasno/Moore Project: Book of Queens)'
 external_urls:
-  spotify: https://open.spotify.com/artist/7bOHiKCHJ7mPMrSIiLMOIj
-  wikipedia: https://en.wikipedia.org/wiki/Stanton_Moore
-image_path: 03_Resources/source_material/ArtistPortraits/stanton_moore_with_cyril_neville.jpg
+  spotify: 'https://open.spotify.com/artist/7bOHiKCHJ7mPMrSIiLMOIj'
+  wikipedia: 'https://en.wikipedia.org/wiki/Stanton_Moore'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/stanton_moore_with_cyril_neville.jpg
 biography_enhanced_at: '2025-11-29T06:55:18.091148'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- All About Jazz - Stanton Moore Musician Profile
-- Wikipedia - Stanton Moore
-- 7S Management - Stanton Moore (Solo)
-- 'JamBase - Living In The Greatest Musical Toolbox: Stanton Moore Interview'
-- Stanton Moore Official Website - About
-- MusicRadar - Funk/Jazz Master Stanton Moore Interview
-- DownBeat - Q&A with Stanton Moore
-- Soul and Jazz and Funk - More of Moore
+  - All About Jazz - Stanton Moore Musician Profile
+  - Wikipedia - Stanton Moore
+  - 7S Management - Stanton Moore (Solo)
+  - 'JamBase - Living In The Greatest Musical Toolbox: Stanton Moore Interview'
+  - Stanton Moore Official Website - About
+  - MusicRadar - Funk/Jazz Master Stanton Moore Interview
+  - DownBeat - Q&A with Stanton Moore
+  - Soul and Jazz and Funk - More of Moore
 network_extracted: true
 entry_created: '2025-11-29T06:55:18.091159'
 last_updated: '2025-12-23T08:16:16.031100'
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1972-07-09'
+artist_type: person
 ---
 
 ![](stanton_moore_with_cyril_neville.jpg)

@@ -5,15 +5,15 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1893-07-03'
-birth_place: Mississippi
+birth_place: 'Teoc, Mississippi, United States'
 death_date: '1966-11-02'
 genres:
-- country blues
-- blues
-- classic blues
-- ragtime
+  - country blues
+  - blues
+  - classic blues
+  - ragtime
 instruments:
-- guitar
+  - guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/mississippi_john_hurt.jpg
   caption: Mississippi John Hurt
@@ -36,55 +36,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Willie Narmour
-  - Shell Smith
+    - Willie Narmour
+    - Shell Smith
   influenced:
-  - Taj Mahal
-  - Bob Dylan
-  - Dave Van Ronk
+    - Taj Mahal
+    - Bob Dylan
+    - Dave Van Ronk
   mentors:
-  - William H. Carson
+    - William H. Carson
 spotify_data:
   followers: 144095
   id: 1FdwVX3yL8ITuRnTZxetsA
   popularity: 34
-  url: https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA
+  url: 'https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA'
 discography_enriched: true
 top_tracks:
-- Coffee Blues (Rediscovered)
-- Make Me A Pallet On Your Floor (Rediscovered)
-- Boys, You're Welcome (Last Sessions)
-- Let The Mermaids Flirt With Me (Last Sessions)
-- I'm Satisfied (Rediscovered)
-- Pay Day (Complete Studio Recordings)
-- Candy Man (Rediscovered)
-- Monday Morning Blues (Rediscovered)
-- Since I've Laid My Burden Down (Rediscovered)
-- Coffee Blues (Complete Studio Recordings)
+  - Coffee Blues (Rediscovered)
+  - Make Me A Pallet On Your Floor (Rediscovered)
+  - 'Boys, You''re Welcome (Last Sessions)'
+  - Let The Mermaids Flirt With Me (Last Sessions)
+  - I'm Satisfied (Rediscovered)
+  - Pay Day (Complete Studio Recordings)
+  - Candy Man (Rediscovered)
+  - Monday Morning Blues (Rediscovered)
+  - Since I've Laid My Burden Down (Rediscovered)
+  - Coffee Blues (Complete Studio Recordings)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/802484e0-90de-4611-9fa4-f5ef0c7727b6
-  spotify: https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA
-  wikipedia: https://en.wikipedia.org/wiki/Mississippi_John_Hurt
+  musicbrainz: 'https://musicbrainz.org/artist/802484e0-90de-4611-9fa4-f5ef0c7727b6'
+  spotify: 'https://open.spotify.com/artist/1FdwVX3yL8ITuRnTZxetsA'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mississippi_John_Hurt'
 image_path: 03_Resources/source_material/ArtistPortraits/mississippi_john_hurt.jpg
 biography_enhanced_at: '2025-10-24T07:58:05.368126'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.ebsco.com/research-starters/history/mississippi-john-hurt
-- https://msbluestrail.org/blues-trail-markers/mississippi-john-hurt
-- https://blueskc.org/mississippi-john-hurt/
-- https://en.wikipedia.org/wiki/Mississippi_John_Hurt
-- https://www.mississippijohnhurtfoundation.org/bio.html
+  - 'https://www.ebsco.com/research-starters/history/mississippi-john-hurt'
+  - 'https://msbluestrail.org/blues-trail-markers/mississippi-john-hurt'
+  - 'https://blueskc.org/mississippi-john-hurt/'
+  - 'https://en.wikipedia.org/wiki/Mississippi_John_Hurt'
+  - 'https://www.mississippijohnhurtfoundation.org/bio.html'
 network_extracted: true
 entry_created: '2025-10-24T07:58:05.368139'
 last_updated: '2025-12-23T08:16:13.218746'
 gender: Male
 musicbrainz_id: 802484e0-90de-4611-9fa4-f5ef0c7727b6
 tags:
-- american
-- blues
-- country blues
-
+  - american
+  - blues
+  - country blues
+is_active: false
+origin: 'Avalon, Mississippi, United States'
 ---
 
 ![](mississippi_john_hurt.jpg)

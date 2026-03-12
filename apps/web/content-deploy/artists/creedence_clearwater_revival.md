@@ -1,16 +1,17 @@
 ---
-title: CREEDENCE CLEARWATER REVIVAL
+title: Creedence Clearwater Revival
 wiki_slug: creedence-clearwater-revival
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1959'
 genres:
-- classic rock
-- southern rock
-- country rock
+  - classic rock
+  - southern rock
+  - country rock
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/creedence_clearwater_revival.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/creedence_clearwater_revival.jpg
   caption: CREEDENCE CLEARWATER REVIVAL
   background: group_or_band
   born: '1959'
@@ -29,75 +30,75 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John Fogerty
-  - Tom Fogerty
-  - Stu Cook
-  - Doug Clifford
-  - Saul Zaentz
+    - John Fogerty
+    - Tom Fogerty
+    - Stu Cook
+    - Doug Clifford
+    - Saul Zaentz
   influenced: []
   mentors:
-  - Dale Hawkins
-  - Southern rock and blues traditions
+    - Dale Hawkins
+    - Southern rock and blues traditions
 spotify_data:
   followers: 7938026
   id: 3IYUhFvPQItj6xySrBmZkd
   popularity: 77
-  url: https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd
+  url: 'https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd'
 discography_enriched: true
 top_tracks:
-- Have You Ever Seen The Rain (Pendulum (Expanded Edition))
-- Fortunate Son (Willy And The Poor Boys (Expanded Edition))
-- Bad Moon Rising (Green River (Expanded Edition))
-- Proud Mary (Bayou Country (Expanded Edition))
-- Green River (Green River (Expanded Edition))
-- Down On The Corner (Willy And The Poor Boys (Expanded Edition))
-- Up Around The Bend (Cosmo's Factory)
-- Who'll Stop The Rain (Cosmo's Factory)
-- Run Through The Jungle (Cosmo's Factory)
-- Born On The Bayou (Bayou Country (Expanded Edition))
+  - Have You Ever Seen The Rain (Pendulum (Expanded Edition))
+  - Fortunate Son (Willy And The Poor Boys (Expanded Edition))
+  - Bad Moon Rising (Green River (Expanded Edition))
+  - Proud Mary (Bayou Country (Expanded Edition))
+  - Green River (Green River (Expanded Edition))
+  - Down On The Corner (Willy And The Poor Boys (Expanded Edition))
+  - Up Around The Bend (Cosmo's Factory)
+  - Who'll Stop The Rain (Cosmo's Factory)
+  - Run Through The Jungle (Cosmo's Factory)
+  - Born On The Bayou (Bayou Country (Expanded Edition))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/109958eb-a335-4c5e-907e-597ff4c6af46
-  spotify: https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd
-  wikipedia: https://en.wikipedia.org/wiki/Creedence_Clearwater_Revival
+  musicbrainz: 'https://musicbrainz.org/artist/109958eb-a335-4c5e-907e-597ff4c6af46'
+  spotify: 'https://open.spotify.com/artist/3IYUhFvPQItj6xySrBmZkd'
+  wikipedia: 'https://en.wikipedia.org/wiki/Creedence_Clearwater_Revival'
 image_path: 03_Resources/source_material/ArtistPortraits/creedence_clearwater_revival.jpg
 biography_enhanced_at: '2025-10-28T09:23:15.761361'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Creedence_Clearwater_Revival
-- https://www.britannica.com/topic/Creedence-Clearwater-Revival
-- https://concord.com/artist/creedence-clearwater-revival/
-- https://rockhall.com/inductees/creedence-clearwater-revival/
+  - 'https://en.wikipedia.org/wiki/Creedence_Clearwater_Revival'
+  - 'https://www.britannica.com/topic/Creedence-Clearwater-Revival'
+  - 'https://concord.com/artist/creedence-clearwater-revival/'
+  - 'https://rockhall.com/inductees/creedence-clearwater-revival/'
 network_extracted: true
 entry_created: '2025-10-28T09:23:15.761372'
 last_updated: '2025-12-23T08:16:07.285290'
 members:
-- begin: ''
-  end: '1971'
-  instruments: []
-  mbid: 15bd502c-b620-4036-a3cb-69b946ccf43c
-  name: Tom Fogerty
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: cdd07746-5de2-4a64-af79-f8d7aa379cc0
-  name: Doug Clifford
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 262c5f61-ded2-4e21-976e-80977daeb471
-  name: Stu Cook
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c3649208-0ebe-449b-b1d7-4bd6c560f109
-  name: John Fogerty
+  - begin: ''
+    end: '1971'
+    instruments: []
+    mbid: 15bd502c-b620-4036-a3cb-69b946ccf43c
+    name: Tom Fogerty
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: cdd07746-5de2-4a64-af79-f8d7aa379cc0
+    name: Doug Clifford
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 262c5f61-ded2-4e21-976e-80977daeb471
+    name: Stu Cook
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c3649208-0ebe-449b-b1d7-4bd6c560f109
+    name: John Fogerty
 musicbrainz_id: 109958eb-a335-4c5e-907e-597ff4c6af46
-origin: El Cerrito
+origin: 'El Cerrito, California, United States'
 tags:
-- 60's
-- american
-- blues rock
+  - 60's
+  - american
+  - blues rock
 ---
 
 ![](creedence_clearwater_revival.jpg)

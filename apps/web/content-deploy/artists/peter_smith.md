@@ -3,14 +3,14 @@ title: Peter Smith
 wiki_slug: peter-smith
 schema_version: 2
 status: active
-birth_place: South London, England, United Kingdom
+birth_place: 'South London, England, United Kingdom'
 genres:
-- choral
+  - choral
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/peter_smith.jpg
   caption: Peter Smith
   background: solo_singer
-  origin: South London, England, United Kingdom
+  origin: 'South London, England, United Kingdom'
 audio_profile:
   tempo_avg: 116.9
   energy_avg: 0.37
@@ -26,42 +26,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Wimbledon Chamber Choir
+    - Wimbledon Chamber Choir
   influenced: []
   mentors:
-  - David Willcocks
-  - Richard Marlow
-  - Philip Radcliffe
-  - Peter Tranchell
+    - David Willcocks
+    - Richard Marlow
+    - Philip Radcliffe
+    - Peter Tranchell
 spotify_data:
   followers: 10
   id: 2mz4Crjxb3F2llhsCDr0gF
   popularity: 2
-  url: https://open.spotify.com/artist/2mz4Crjxb3F2llhsCDr0gF
+  url: 'https://open.spotify.com/artist/2mz4Crjxb3F2llhsCDr0gF'
 discography_enriched: true
 top_tracks:
-- 'Le Ballet des Ombres (Berlioz: Songs for Chorus)'
-- 'Six Pack (Gimmie Gimmie Gimmie: Reinterpreting Black Flag)'
-- 'Nervous Breakdown (Gimmie Gimmie Gimmie: Reinterpreting Black Flag)'
-- 'Gimmie Gimmie Gimmie (Gimmie Gimmie Gimmie: Reinterpreting Black Flag)'
-- Hero - From "Spider-Man" (Filmmusik)
-- 'In the Jailhouse Now (Gimmie Gimmie Gimmie: Reinterpreting Black Flag)'
-- The Cowboy Song (feat. Nathaniel Smith, Peter Smith, Timothy Smith & Andrew Smith) (Meeting in the Air)
-- I Don't Have to Wait Until I'm Grown Up (feat. Peter Smith) (Meeting in the Air)
-- Hold to the Book (feat. Dwight Smith, Peter Smith, Timothy Smith & Nathaniel Smith) (Meeting in the Air)
-- Sweet Georgia Brown (Dollar Dreams)
+  - 'Le Ballet des Ombres (Berlioz: Songs for Chorus)'
+  - 'Six Pack (Gimmie Gimmie Gimmie: Reinterpreting Black Flag)'
+  - 'Nervous Breakdown (Gimmie Gimmie Gimmie: Reinterpreting Black Flag)'
+  - 'Gimmie Gimmie Gimmie (Gimmie Gimmie Gimmie: Reinterpreting Black Flag)'
+  - Hero - From "Spider-Man" (Filmmusik)
+  - 'In the Jailhouse Now (Gimmie Gimmie Gimmie: Reinterpreting Black Flag)'
+  - >-
+    The Cowboy Song (feat. Nathaniel Smith, Peter Smith, Timothy Smith & Andrew
+    Smith) (Meeting in the Air)
+  - >-
+    I Don't Have to Wait Until I'm Grown Up (feat. Peter Smith) (Meeting in the
+    Air)
+  - >-
+    Hold to the Book (feat. Dwight Smith, Peter Smith, Timothy Smith & Nathaniel
+    Smith) (Meeting in the Air)
+  - Sweet Georgia Brown (Dollar Dreams)
 external_urls:
-  spotify: https://open.spotify.com/artist/2mz4Crjxb3F2llhsCDr0gF
+  spotify: 'https://open.spotify.com/artist/2mz4Crjxb3F2llhsCDr0gF'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/peter_smith.jpg
 biography_enhanced_at: '2025-11-15T18:13:31.616744'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.lfccm.com/whatson/participants/peter-smith/
+  - 'https://www.lfccm.com/whatson/participants/peter-smith/'
 network_extracted: true
 entry_created: '2025-11-15T18:13:31.616754'
 last_updated: '2025-12-23T08:16:14.239661'
+artist_type: person
 ---
 
 ![](peter_smith.jpg)

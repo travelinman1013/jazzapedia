@@ -4,8 +4,8 @@ wiki_slug: the-poets-of-rhythm
 schema_version: 2
 status: active
 genres:
-- jazz funk
-- acid jazz
+  - jazz funk
+  - acid jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_poets_of_rhythm.jpg
   caption: The Poets of Rhythm
@@ -17,7 +17,7 @@ audio_profile:
   danceability_avg: 0.685
   acousticness_avg: 0.177
   instrumentalness_avg: 0.317
-  loudness_avg: -8.0
+  loudness_avg: -8
   speechiness_avg: 0.101
   liveness_avg: 0.156
   track_count: 50
@@ -25,55 +25,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jan Weissenfeldt (J.J. Whitefield)
-  - Boris Geiger (Bo Baral)
-  - Jan Krause
-  - Max Weissenfeldt
-  - Lyrics Born (Tom Shimura)
+    - Jan Weissenfeldt (J.J. Whitefield)
+    - Boris Geiger (Bo Baral)
+    - Jan Krause
+    - Max Weissenfeldt
+    - Lyrics Born (Tom Shimura)
   influenced:
-  - Whitefield Brothers
-  - Karl Hector & related funk/psych projects
-  - Contemporary deep funk and soul revival bands and DJs
+    - Whitefield Brothers
+    - Karl Hector & related funk/psych projects
+    - Contemporary deep funk and soul revival bands and DJs
   mentors:
-  - James Brown and The J.B.'s
-  - Funkadelic / Parliament (George Clinton, Bootsy Collins)
-  - The Meters
+    - James Brown and The J.B.'s
+    - 'Funkadelic / Parliament (George Clinton, Bootsy Collins)'
+    - The Meters
 spotify_data:
   followers: 47066
   id: 1i4iT0Sw4OUeMp7egnsbxR
   popularity: 42
-  url: https://open.spotify.com/artist/1i4iT0Sw4OUeMp7egnsbxR
+  url: 'https://open.spotify.com/artist/1i4iT0Sw4OUeMp7egnsbxR'
 discography_enriched: true
 top_tracks:
-- More Mess on My Thing (Practice What You Preach)
-- Discern/Define (The Anthology 1992-2003)
-- I Changed My Mind (Quannum Spectrum)
-- Strokin' the Grits (Practice What You Preach)
-- North Carolina (Practice What You Preach)
-- South Carolina (The Anthology 1992-2003)
-- Choking on a Piece of Meat Pt. 2 (The Anthology 1992-2003)
-- Upper Class (Practice What You Preach)
-- Funky Train (The Anthology 1992-2003)
-- Choking on a Piece of Meat (Practice What You Preach)
+  - More Mess on My Thing (Practice What You Preach)
+  - Discern/Define (The Anthology 1992-2003)
+  - I Changed My Mind (Quannum Spectrum)
+  - Strokin' the Grits (Practice What You Preach)
+  - North Carolina (Practice What You Preach)
+  - South Carolina (The Anthology 1992-2003)
+  - Choking on a Piece of Meat Pt. 2 (The Anthology 1992-2003)
+  - Upper Class (Practice What You Preach)
+  - Funky Train (The Anthology 1992-2003)
+  - Choking on a Piece of Meat (Practice What You Preach)
 external_urls:
-  spotify: https://open.spotify.com/artist/1i4iT0Sw4OUeMp7egnsbxR
-  wikipedia: https://en.wikipedia.org/wiki/The_Poets_of_Rhythm
+  spotify: 'https://open.spotify.com/artist/1i4iT0Sw4OUeMp7egnsbxR'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Poets_of_Rhythm'
 image_path: 03_Resources/source_material/ArtistPortraits/the_poets_of_rhythm.jpg
 biography_enhanced_at: '2025-12-19T02:00:11.033188'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Ninja Tune artist biography for The Poets of Rhythm[2]
-- Impose Magazine interview with J.J. Whitefield of Poets of Rhythm[5]
-- Flea Market Funk feature on The Poets of Rhythm – Anthology 1992–2003[1]
-- Color Red Music artist overview of The Poets of Rhythm[6]
-- Last.fm biography and lineup information for The Poets of Rhythm[7]
-- Now-Again Records notes on the Whitefield Brothers and Poets of Rhythm founders[4]
+  - 'Ninja Tune artist biography for The Poets of Rhythm[2]'
+  - 'Impose Magazine interview with J.J. Whitefield of Poets of Rhythm[5]'
+  - 'Flea Market Funk feature on The Poets of Rhythm – Anthology 1992–2003[1]'
+  - 'Color Red Music artist overview of The Poets of Rhythm[6]'
+  - 'Last.fm biography and lineup information for The Poets of Rhythm[7]'
+  - >-
+    Now-Again Records notes on the Whitefield Brothers and Poets of Rhythm
+    founders[4]
 network_extracted: true
 entry_created: '2025-12-19T02:00:11.033197'
 last_updated: '2025-12-23T08:16:17.061469'
-origin: Munich, Bavaria, Germany
-
+origin: 'Munich, Bavaria, Germany'
+artist_type: band
 ---
 
 ![](the_poets_of_rhythm.jpg)

@@ -3,15 +3,15 @@ title: Edmond Hall
 wiki_slug: edmond-hall
 schema_version: 2
 status: active
-birth_place: Reserve, Louisiana, United States
+birth_place: 'Reserve, Louisiana, United States'
 genres:
-- swing music
-- big band
+  - swing music
+  - big band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/edmond_hall.jpg
   caption: Edmond Hall
   background: solo_singer
-  origin: Reserve, Louisiana, United States
+  origin: 'Reserve, Louisiana, United States'
 audio_profile:
   tempo_avg: 119.1
   energy_avg: 0.436
@@ -27,57 +27,70 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Claude Hopkins
-  - Billie Holiday
-  - Henry "Red" Allen
-  - Meade Lux Lewis, Charlie Christian, and Israel Crosby (Edmond Hall Celeste Quartet)
-  - Eddie Condon
-  - Louis Armstrong
-  - George Wein
-  - Chris Barber
+    - Claude Hopkins
+    - Billie Holiday
+    - Henry "Red" Allen
+    - >-
+      Meade Lux Lewis, Charlie Christian, and Israel Crosby (Edmond Hall Celeste
+      Quartet)
+    - Eddie Condon
+    - Louis Armstrong
+    - George Wein
+    - Chris Barber
   influenced:
-  - Dick Creeden
-  - Tony Tomasso
-  - Porky Cohen
+    - Dick Creeden
+    - Tony Tomasso
+    - Porky Cohen
   mentors:
-  - Edward Hall (Edmond Hall’s father)
-  - Buddy Petit
-  - Lee Collins
+    - Edward Hall (Edmond Hall’s father)
+    - Buddy Petit
+    - Lee Collins
 spotify_data:
   followers: 117
   id: 4xbkTedi9YMnT7HDNTHowq
   popularity: 3
-  url: https://open.spotify.com/artist/4xbkTedi9YMnT7HDNTHowq
+  url: 'https://open.spotify.com/artist/4xbkTedi9YMnT7HDNTHowq'
 discography_enriched: true
 top_tracks:
-- 'It''s Been so Long - Remastered (Anthology: The Deluxe Collection (Remastered))'
-- Night and Day (Swing Session with Edmond Hall Quartette and Teddy Wilson)
-- 'Sweet Georgia Brown - Remastered (Anthology: The Deluxe Collection (Remastered))'
-- 'Bésame Mucho - Remastered (Anthology: The Deluxe Collection (Remastered))'
-- 'High Society - Remastered (Anthology: The Deluxe Collection (Remastered))'
-- 'Blues at Blue Note - Remastered (Anthology: The Deluxe Collection (Remastered))'
-- 'Dardanella - Remastered (Anthology: The Deluxe Collection (Remastered))'
-- 'Coquette - Remastered (Anthology: The Deluxe Collection (Remastered))'
-- 'The Man I Love - Remastered (Anthology: The Deluxe Collection (Remastered))'
-- 'Sleepy Time Girl - Remastered (Anthology: The Deluxe Collection (Remastered))'
+  - >-
+    It's Been so Long - Remastered (Anthology: The Deluxe Collection
+    (Remastered))
+  - Night and Day (Swing Session with Edmond Hall Quartette and Teddy Wilson)
+  - >-
+    Sweet Georgia Brown - Remastered (Anthology: The Deluxe Collection
+    (Remastered))
+  - 'Bésame Mucho - Remastered (Anthology: The Deluxe Collection (Remastered))'
+  - 'High Society - Remastered (Anthology: The Deluxe Collection (Remastered))'
+  - >-
+    Blues at Blue Note - Remastered (Anthology: The Deluxe Collection
+    (Remastered))
+  - 'Dardanella - Remastered (Anthology: The Deluxe Collection (Remastered))'
+  - 'Coquette - Remastered (Anthology: The Deluxe Collection (Remastered))'
+  - 'The Man I Love - Remastered (Anthology: The Deluxe Collection (Remastered))'
+  - >-
+    Sleepy Time Girl - Remastered (Anthology: The Deluxe Collection
+    (Remastered))
 external_urls:
-  spotify: https://open.spotify.com/artist/4xbkTedi9YMnT7HDNTHowq
-  wikipedia: https://en.wikipedia.org/wiki/Edmond_Hall
+  spotify: 'https://open.spotify.com/artist/4xbkTedi9YMnT7HDNTHowq'
+  wikipedia: 'https://en.wikipedia.org/wiki/Edmond_Hall'
 image_path: 03_Resources/source_material/ArtistPortraits/edmond_hall.jpg
 biography_enhanced_at: '2025-12-20T01:12:32.767544'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Jazz History Database – Edmond Hall profile[1]
-- 'The Syncopated Times – “Edmond Hall: Profiles in Jazz”[2]'
-- The 78rpm Record Spins – Edmond Hall biography[3]
-- Mark Sowlakis – “Edmond Hall – Profoundly Blue Crescent City Clarinet”[4]
-- Storyville Records – Edmond Hall artist page[5]
-- Discography of American Historical Recordings – Edmond Hall entry[6]
-- JazzArcheology – Edmond Hall PDF dossier[7]
+  - 'Jazz History Database – Edmond Hall profile[1]'
+  - 'The Syncopated Times – “Edmond Hall: Profiles in Jazz”[2]'
+  - 'The 78rpm Record Spins – Edmond Hall biography[3]'
+  - 'Mark Sowlakis – “Edmond Hall – Profoundly Blue Crescent City Clarinet”[4]'
+  - 'Storyville Records – Edmond Hall artist page[5]'
+  - 'Discography of American Historical Recordings – Edmond Hall entry[6]'
+  - 'JazzArcheology – Edmond Hall PDF dossier[7]'
 network_extracted: true
 entry_created: '2025-12-20T01:12:32.767551'
 last_updated: '2025-12-23T08:16:08.222181'
+birth_date: '1901-05-15'
+death_date: '1967-02-11'
+artist_type: person
 ---
 
 ![](edmond_hall.jpg)

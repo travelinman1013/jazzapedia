@@ -1,16 +1,16 @@
 ---
-title: eddie ray
+title: Eddie Ray
 wiki_slug: eddie-ray
 schema_version: 2
 status: active
-birth_place: Franklin, North Carolina, USA
+birth_place: 'Franklin, North Carolina, USA'
 genres:
-- classic country
+  - classic country
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/eddie_ray.jpg
   caption: eddie ray
   background: solo_singer
-  origin: Franklin, North Carolina, USA
+  origin: 'Franklin, North Carolina, USA'
 audio_profile:
   tempo_avg: 121.1
   energy_avg: 0.505
@@ -26,47 +26,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Rudy Jackson
-  - Mike Curb
-  - Al Schlesinger and Larry Goldberg
+    - Rudy Jackson
+    - Mike Curb
+    - Al Schlesinger and Larry Goldberg
   influenced:
-  - Pink Floyd
-  - Mike Curb
-  - Students at music vocational school
+    - Pink Floyd
+    - Mike Curb
+    - Students at music vocational school
   mentors:
-  - Leo and Eddie Mesner
+    - Leo and Eddie Mesner
 spotify_data:
   followers: 455657
   id: 0jgAONnsHxrwAlhkMUVS78
   popularity: 58
-  url: https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78
+  url: 'https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78'
 discography_enriched: true
 top_tracks:
-- I Love a Rainy Night
-- Drivin' My Life Away (Horizon)
-- Every Which Way but Loose - 2009 Remaster
-- You And I (Radio Romance)
-- Drivin' My Life Away
-- Two Dollars in the Jukebox - 2008 Remaster (Rocky Mountain Music)
-- The Room at the Top of the Stairs - 2008 Version (Variations)
-- Drivin' My Life Away - 2009 Remaster
-- You Don't Love Me Anymore - 2008 Version (Variations)
-- Step By Step (Step By Step)
+  - I Love a Rainy Night
+  - Drivin' My Life Away (Horizon)
+  - Every Which Way but Loose - 2009 Remaster
+  - You And I (Radio Romance)
+  - Drivin' My Life Away
+  - Two Dollars in the Jukebox - 2008 Remaster (Rocky Mountain Music)
+  - The Room at the Top of the Stairs - 2008 Version (Variations)
+  - Drivin' My Life Away - 2009 Remaster
+  - You Don't Love Me Anymore - 2008 Version (Variations)
+  - Step By Step (Step By Step)
 external_urls:
-  spotify: https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78
-  wikipedia: https://en.wikipedia.org/wiki/Edward_Wiley_Ray
+  spotify: 'https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78'
+  wikipedia: 'https://en.wikipedia.org/wiki/Edward_Wiley_Ray'
 image_path: 03_Resources/source_material/ArtistPortraits/eddie_ray.jpg
 biography_enhanced_at: '2025-12-19T01:54:10.978587'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.ncarts.org/blog/2019/07/23/50-50-eddie-ray
-- https://en.wikipedia.org/wiki/Edward_Wiley_Ray
-- https://www.ncmea.net/eddie-ray/
-- https://www.namm.org/library/oral-history/eddie-ray
+  - 'https://www.ncarts.org/blog/2019/07/23/50-50-eddie-ray'
+  - 'https://en.wikipedia.org/wiki/Edward_Wiley_Ray'
+  - 'https://www.ncmea.net/eddie-ray/'
+  - 'https://www.namm.org/library/oral-history/eddie-ray'
 network_extracted: true
 entry_created: '2025-12-19T01:54:10.978601'
 last_updated: '2025-12-23T08:16:08.205894'
+birth_date: '1926-12-21'
+artist_type: person
 ---
 
 ![](eddie_ray.jpg)

@@ -1,49 +1,49 @@
 ---
-title: SONNY CLARK
+title: Sonny Clark
 wiki_slug: sonny-clark
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1931-07-21'
-birth_place: Herminie
+birth_place: 'Herminie, Pennsylvania, United States'
 death_date: '1963-01-13'
 genres:
-- hard bop
-- jazz
-- bebop
-- cool jazz
+  - hard bop
+  - jazz
+  - bebop
+  - cool jazz
 instruments:
-- eponymous
-- original
-- piano
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
-  mbid: 75b7fe56-f653-499e-bb9a-1a72c88421b0
-  name: Sonny Clark Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 31e1b955-1867-461c-9131-8ebd1d9084c0
-  name: Sonny Clark Sextet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9c71132e-0e6d-4d6f-9f29-50d161ae43c0
-  name: Sonny Clark Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 218c7eac-d6c3-4126-ac80-673914673385
-  name: Sonny Clark Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 37d07222-ae1e-4b7b-8219-a1ce2fe0f5f8
-  name: The Cal Tjader Quintet
+  - piano
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 75b7fe56-f653-499e-bb9a-1a72c88421b0
+    name: Sonny Clark Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 31e1b955-1867-461c-9131-8ebd1d9084c0
+    name: Sonny Clark Sextet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9c71132e-0e6d-4d6f-9f29-50d161ae43c0
+    name: Sonny Clark Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 218c7eac-d6c3-4126-ac80-673914673385
+    name: Sonny Clark Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 37d07222-ae1e-4b7b-8219-a1ce2fe0f5f8
+    name: The Cal Tjader Quintet
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sonny_clark.jpg
   caption: SONNY CLARK
@@ -66,59 +66,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Buddy DeFranco
-  - John Coltrane
-  - Hank Mobley
-  - Dinah Washington
-  - Art Farmer, Donald Byrd, Jackie McLean, Art Taylor, Paul Chambers, Wilbur Ware, Philly Joe Jones
+    - Buddy DeFranco
+    - John Coltrane
+    - Hank Mobley
+    - Dinah Washington
+    - >-
+      Art Farmer, Donald Byrd, Jackie McLean, Art Taylor, Paul Chambers, Wilbur
+      Ware, Philly Joe Jones
   influenced:
-  - Grant Green
-  - Dexter Gordon
-  - Japanese jazz musicians
+    - Grant Green
+    - Dexter Gordon
+    - Japanese jazz musicians
   mentors:
-  - George Clark
-  - Bud Powell
-  - Thelonious Monk
+    - George Clark
+    - Bud Powell
+    - Thelonious Monk
 spotify_data:
   followers: 65431
   id: 1Sc9ykJB728MAZab1Ocwy8
   popularity: 44
-  url: https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8
+  url: 'https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8'
 discography_enriched: true
 top_tracks:
-- Gee Baby, Ain't I Good To You (Blues In The Night)
-- Cool Struttin' (Cool Struttin' (Remastered / Rudy Van Gelder Edition))
-- Deep In A Dream (Leapin' And Lopin')
-- Gee Baby, Ain't I Good To You (Standards)
-- I Can't Give You Anything But Love (Standards)
-- My Conception (My Conception)
-- I Can't Give You Anything But Love (Blues In The Night)
-- All Of You (Blues In The Night)
-- Can't We Be Friends (Blues In The Night)
-- Somebody Loves Me (Blues In The Night)
+  - 'Gee Baby, Ain''t I Good To You (Blues In The Night)'
+  - Cool Struttin' (Cool Struttin' (Remastered / Rudy Van Gelder Edition))
+  - Deep In A Dream (Leapin' And Lopin')
+  - 'Gee Baby, Ain''t I Good To You (Standards)'
+  - I Can't Give You Anything But Love (Standards)
+  - My Conception (My Conception)
+  - I Can't Give You Anything But Love (Blues In The Night)
+  - All Of You (Blues In The Night)
+  - Can't We Be Friends (Blues In The Night)
+  - Somebody Loves Me (Blues In The Night)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/58368691-5b44-45d8-b617-47a7633f5e30
-  spotify: https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8
-  wikipedia: https://en.wikipedia.org/wiki/Sonny_Clark
+  musicbrainz: 'https://musicbrainz.org/artist/58368691-5b44-45d8-b617-47a7633f5e30'
+  spotify: 'https://open.spotify.com/artist/1Sc9ykJB728MAZab1Ocwy8'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sonny_Clark'
 image_path: 03_Resources/source_material/ArtistPortraits/sonny_clark.jpg
 biography_enhanced_at: '2025-10-28T09:15:46.718911'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- udiscovermusic.com
-- allaboutjazz.com
-- cc-seas.columbia.edu
-- bluenote.com
-- nextchapter.pub
-- theparisreview.org
+  - udiscovermusic.com
+  - allaboutjazz.com
+  - cc-seas.columbia.edu
+  - bluenote.com
+  - nextchapter.pub
+  - theparisreview.org
 network_extracted: true
 entry_created: '2025-10-28T09:15:46.718916'
 last_updated: '2025-12-23T08:16:15.905382'
 gender: Male
 musicbrainz_id: 58368691-5b44-45d8-b617-47a7633f5e30
 tags:
-- hard bop
-- jazz
+  - hard bop
+  - jazz
+is_active: false
+origin: 'Pittsburgh, Pennsylvania, United States'
 ---
 
 ![](sonny_clark.jpg)

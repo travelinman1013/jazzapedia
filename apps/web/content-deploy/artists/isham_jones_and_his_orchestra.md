@@ -1,14 +1,15 @@
 ---
-title: ISHAM JONES AND HIS ORCHESTRA
+title: Isham Jones and His Orchestra
 wiki_slug: isham-jones-and-his-orchestra
 schema_version: 2
 status: active
 genres:
-- ragtime
-- big band
-- swing music
+  - ragtime
+  - big band
+  - swing music
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/isham_jones_and_his_orchestra.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/isham_jones_and_his_orchestra.jpg
   caption: ISHAM JONES AND HIS ORCHESTRA
   background: solo_singer
 audio_profile:
@@ -26,49 +27,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Gordon Jenkins
-  - Woody Herman
-  - Al Jolson
-  - Marion Harris
-  - The Three X Sisters
+    - Gordon Jenkins
+    - Woody Herman
+    - Al Jolson
+    - Marion Harris
+    - The Three X Sisters
   influenced:
-  - Woody Herman
+    - Woody Herman
   mentors: []
 spotify_data:
   followers: 861
   id: 1hAB05TXiiOAD8pzZ3L1j1
   popularity: 15
-  url: https://open.spotify.com/artist/1hAB05TXiiOAD8pzZ3L1j1
+  url: 'https://open.spotify.com/artist/1hAB05TXiiOAD8pzZ3L1j1'
 discography_enriched: true
 top_tracks:
-- The Original Charleston
-- I Ain't Lazy, I'm Just Dreamin' (Shadows on the Swanee (1932-1934))
-- Pardon My Southern Accent (The Big Broadcast, Vol.3, Jazz and Popular Music of the 1920s and 1930s)
-- Sweet Georgia Brown (with Isham Jones & His Orchestra) (The Essential Bing Crosby (The Columbia Years))
-- 'In My Heart It''s You - Remastered (Anthology: The Deluxe Collection (Remastered))'
-- Blue Lament (Cry for Me) (Shadows on the Swanee (1932-1934))
-- It's Winter Again
-- Ida - I Do (Song of the Blues)
-- 'Out of Space - Remastered (Anthology: The Deluxe Collection (Remastered))'
-- Sweet Georgia Brown (with Isham Jones & His Orchestra) (The Essential Bing Crosby)
+  - The Original Charleston
+  - 'I Ain''t Lazy, I''m Just Dreamin'' (Shadows on the Swanee (1932-1934))'
+  - >-
+    Pardon My Southern Accent (The Big Broadcast, Vol.3, Jazz and Popular Music
+    of the 1920s and 1930s)
+  - >-
+    Sweet Georgia Brown (with Isham Jones & His Orchestra) (The Essential Bing
+    Crosby (The Columbia Years))
+  - >-
+    In My Heart It's You - Remastered (Anthology: The Deluxe Collection
+    (Remastered))
+  - Blue Lament (Cry for Me) (Shadows on the Swanee (1932-1934))
+  - It's Winter Again
+  - Ida - I Do (Song of the Blues)
+  - 'Out of Space - Remastered (Anthology: The Deluxe Collection (Remastered))'
+  - >-
+    Sweet Georgia Brown (with Isham Jones & His Orchestra) (The Essential Bing
+    Crosby)
 external_urls:
-  spotify: https://open.spotify.com/artist/1hAB05TXiiOAD8pzZ3L1j1
-  wikipedia: https://en.wikipedia.org/wiki/Isham_Jones
+  spotify: 'https://open.spotify.com/artist/1hAB05TXiiOAD8pzZ3L1j1'
+  wikipedia: 'https://en.wikipedia.org/wiki/Isham_Jones'
 image_path: 03_Resources/source_material/ArtistPortraits/isham_jones_and_his_orchestra.jpg
 biography_enhanced_at: '2025-11-27T06:31:01.618503'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.jazzstandards.com/biographies/biography_61.htm
-- https://syncopatedtimes.com/isham-jones-profiles-in-jazz/
-- https://syncopatedtimes.com/isham-jones-and-his-orchestra/
-- https://en.wikipedia.org/wiki/Isham_Jones
-- https://travsd.wordpress.com/2023/01/31/isham-jones-and-his-orchestra/
-- https://saginawcountyhalloffame.org/isham-jones
+  - 'https://www.jazzstandards.com/biographies/biography_61.htm'
+  - 'https://syncopatedtimes.com/isham-jones-profiles-in-jazz/'
+  - 'https://syncopatedtimes.com/isham-jones-and-his-orchestra/'
+  - 'https://en.wikipedia.org/wiki/Isham_Jones'
+  - 'https://travsd.wordpress.com/2023/01/31/isham-jones-and-his-orchestra/'
+  - 'https://saginawcountyhalloffame.org/isham-jones'
 network_extracted: true
 entry_created: '2025-11-27T06:31:01.618519'
 last_updated: '2025-12-23T08:16:09.924701'
-origin: Coalton, Ohio, United States
+origin: 'Coalton, Ohio, United States'
+birth_place: 'Coalton, Ohio, United States'
+birth_date: '1894-01-31'
+artist_type: band
 ---
 
 ![](isham_jones_and_his_orchestra.jpg)

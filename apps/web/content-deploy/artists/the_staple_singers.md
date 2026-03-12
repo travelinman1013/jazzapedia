@@ -1,15 +1,15 @@
 ---
-title: the staple singers
+title: The Staple Singers
 wiki_slug: the-staple-singers
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
-birth_date: '1948'
+birth_date: '1914'
 genres:
-- soul
-- motown
+  - soul
+  - motown
 instruments:
-- choir vocals
+  - choir vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_staple_singers.jpg
   caption: the staple singers
@@ -30,82 +30,85 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Steve Cropper
-  - Curtis Mayfield
-  - Al Bell
-  - The Band
+    - Steve Cropper
+    - Curtis Mayfield
+    - Al Bell
+    - The Band
   influenced:
-  - Mavis Staples
+    - Mavis Staples
   mentors:
-  - Charley Patton
-  - Crooms Brothers
+    - Charley Patton
+    - Crooms Brothers
 spotify_data:
   followers: 368635
   id: 7xGGqA85UIWX1GoTVM4itC
   popularity: 52
-  url: https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC
+  url: 'https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC'
 discography_enriched: true
 top_tracks:
-- I'll Take You There
-- Respect Yourself
-- The Weight (Soul Folk In Action)
-- 'The Last Waltz Suite: The Weight (feat. The Staples) (The Last Waltz (Deluxe Version))'
-- Let's Do It Again (Let's Do It Again Original Sound Track)
-- If You're Ready (Come Go With Me) (Be What You Are (Reissue))
-- 'Let''s Do It Again (Faith And Grace: A Family Journey 1953-1976)'
-- 'I''ll Take You There (Be Altitude: Respect Yourself [Stax Remasters])'
-- I'll Take You There
-- 'Respect Yourself (Be Altitude: Respect Yourself [Stax Remasters])'
+  - I'll Take You There
+  - Respect Yourself
+  - The Weight (Soul Folk In Action)
+  - >-
+    The Last Waltz Suite: The Weight (feat. The Staples) (The Last Waltz (Deluxe
+    Version))
+  - Let's Do It Again (Let's Do It Again Original Sound Track)
+  - If You're Ready (Come Go With Me) (Be What You Are (Reissue))
+  - 'Let''s Do It Again (Faith And Grace: A Family Journey 1953-1976)'
+  - 'I''ll Take You There (Be Altitude: Respect Yourself [Stax Remasters])'
+  - I'll Take You There
+  - 'Respect Yourself (Be Altitude: Respect Yourself [Stax Remasters])'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3d49e36a-cc9e-411e-93c6-d1646ba5bd3a
-  spotify: https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC
-  wikipedia: https://en.wikipedia.org/wiki/The_Staple_Singers
+  musicbrainz: 'https://musicbrainz.org/artist/3d49e36a-cc9e-411e-93c6-d1646ba5bd3a'
+  spotify: 'https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Staple_Singers'
 image_path: 03_Resources/source_material/ArtistPortraits/the_staple_singers.jpg
 biography_enhanced_at: '2025-12-12T12:07:23.625505'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Staple_Singers
-- https://teachrock.org/people/staple-singers/
-- https://www.britannica.com/topic/the-Staple-Singers
-- https://staxrecords.com/artist/the-staple-singers/
-- https://memphismusichalloffame.com/inductee/staplesingers/
+  - 'https://en.wikipedia.org/wiki/The_Staple_Singers'
+  - 'https://teachrock.org/people/staple-singers/'
+  - 'https://www.britannica.com/topic/the-Staple-Singers'
+  - 'https://staxrecords.com/artist/the-staple-singers/'
+  - 'https://memphismusichalloffame.com/inductee/staplesingers/'
 network_extracted: true
 entry_created: '2025-12-12T12:07:23.625520'
 last_updated: '2025-12-23T08:16:17.183878'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 17bfd8a6-d21e-4f82-acd6-d5c787b060ac
-  name: Cleotha Staples
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 04f57a2d-2449-400e-8fff-5b1c5af9560b
-  name: Mavis Staples
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bdb4bd6c-b1b8-4df9-9374-22c544f4a1c5
-  name: Pervis Staples
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b70b23f2-a310-4f08-8ec2-a45d3cc27bc1
-  name: Roebuck “Pops” Staples
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 594f5f17-9b1c-4bd9-afc4-e646016a17a3
-  name: Yvonne Staples
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 17bfd8a6-d21e-4f82-acd6-d5c787b060ac
+    name: Cleotha Staples
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 04f57a2d-2449-400e-8fff-5b1c5af9560b
+    name: Mavis Staples
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bdb4bd6c-b1b8-4df9-9374-22c544f4a1c5
+    name: Pervis Staples
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b70b23f2-a310-4f08-8ec2-a45d3cc27bc1
+    name: Roebuck “Pops” Staples
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 594f5f17-9b1c-4bd9-afc4-e646016a17a3
+    name: Yvonne Staples
 musicbrainz_id: 3d49e36a-cc9e-411e-93c6-d1646ba5bd3a
-origin: Chicago
+origin: 'Chicago, Illinois, United States'
 tags:
-- gospel
-- jazz
-- r&b
-
+  - gospel
+  - jazz
+  - r&b
+birth_place: 'Winona, Mississippi, United States'
+death_date: '2000'
 ---
 
 ![](the_staple_singers.jpg)

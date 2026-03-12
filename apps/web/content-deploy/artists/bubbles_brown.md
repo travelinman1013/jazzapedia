@@ -1,16 +1,16 @@
 ---
-title: bubbles brown
+title: Bubbles Brown
 wiki_slug: bubbles-brown
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, USA (originally from Florida)
+birth_place: 'New Orleans, Louisiana, USA (originally from Florida)'
 genres:
-- zydeco
+  - zydeco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bubbles_brown.jpg
   caption: bubbles brown
   background: solo_singer
-  origin: New Orleans, Louisiana, USA (originally from Florida)
+  origin: 'New Orleans, Louisiana, USA (originally from Florida)'
 audio_profile:
   tempo_avg: 129.2
   energy_avg: 0.578
@@ -26,43 +26,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Washboard Ben
-  - George Ducas
+    - Washboard Ben
+    - George Ducas
   influenced: []
   mentors:
-  - Father and Sister
+    - Father and Sister
 spotify_data:
   followers: 891
   id: 6iOkWxW0k1b1i56M7kNK8j
   popularity: 2
-  url: https://open.spotify.com/artist/6iOkWxW0k1b1i56M7kNK8j
+  url: 'https://open.spotify.com/artist/6iOkWxW0k1b1i56M7kNK8j'
 discography_enriched: true
 top_tracks:
-- Beehive Blues (Mt. Gilead)
-- Peru (Colombian Gold)
-- Peru (Peru)
-- Sugarcane Waltz (Sugarcane Waltz)
-- 'Hold Keep Rock #2 (Colombian Gold)'
-- Funky Jump (Colombian Gold)
-- In My Room (Colombian Gold)
-- Dream Lover (Colombian Gold)
-- Pill for Pleasure (Colombian Gold)
-- Sugarcane Waltz (Colombian Gold)
+  - Beehive Blues (Mt. Gilead)
+  - Peru (Colombian Gold)
+  - Peru (Peru)
+  - Sugarcane Waltz (Sugarcane Waltz)
+  - 'Hold Keep Rock #2 (Colombian Gold)'
+  - Funky Jump (Colombian Gold)
+  - In My Room (Colombian Gold)
+  - Dream Lover (Colombian Gold)
+  - Pill for Pleasure (Colombian Gold)
+  - Sugarcane Waltz (Colombian Gold)
 external_urls:
-  spotify: https://open.spotify.com/artist/6iOkWxW0k1b1i56M7kNK8j
+  spotify: 'https://open.spotify.com/artist/6iOkWxW0k1b1i56M7kNK8j'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/bubbles_brown.jpg
 biography_enhanced_at: '2025-10-19T10:38:28.680552'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://www.bubblesbrown.com/about
-- https://www.viberate.com/artist/bubbles-brown/
-- https://substack.com/home/post/p-58455245
-- https://www.youtube.com/watch?v=2H3fmXbzrOE
+  - 'http://www.bubblesbrown.com/about'
+  - 'https://www.viberate.com/artist/bubbles-brown/'
+  - 'https://substack.com/home/post/p-58455245'
+  - 'https://www.youtube.com/watch?v=2H3fmXbzrOE'
 network_extracted: true
 entry_created: '2025-10-19T10:38:28.680561'
 last_updated: '2025-12-23T08:16:06.167187'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](bubbles_brown.jpg)

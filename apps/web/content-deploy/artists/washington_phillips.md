@@ -1,25 +1,27 @@
 ---
-title: washington phillips
+title: Washington Phillips
 wiki_slug: washington-phillips
 schema_version: 2
 status: active
-birth_place: Simsboro, Texas, United States (primary residence and recording location); born near Cotton Gin, Freestone County,
-  Texas, United States
+birth_place: >-
+  Simsboro, Texas, United States (primary residence and recording location);
+  born near Cotton Gin, Freestone County, Texas, United States
 genres:
-- country blues
+  - country blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/washington_phillips.jpg
   caption: washington phillips
   background: solo_singer
-  origin: Simsboro, Texas, United States (primary residence and recording location); born near Cotton Gin, Freestone County,
-    Texas, United States
+  origin: >-
+    Simsboro, Texas, United States (primary residence and recording location);
+    born near Cotton Gin, Freestone County, Texas, United States
 audio_profile:
   tempo_avg: 105.3
   energy_avg: 0.169
   valence_avg: 0.35
   danceability_avg: 0.487
   acousticness_avg: 0.966
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -13.2
   speechiness_avg: 0.067
   liveness_avg: 0.176
@@ -28,53 +30,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Frank B. Walker
+    - Frank B. Walker
   influenced:
-  - Sister Rosetta Tharpe
-  - Ry Cooder
-  - Linda Ronstadt
-  - 2nd Chapter of Acts
-  - The 77s
-  - Jorma Kaukonen
-  - Will Oldham
+    - Sister Rosetta Tharpe
+    - Ry Cooder
+    - Linda Ronstadt
+    - 2nd Chapter of Acts
+    - The 77s
+    - Jorma Kaukonen
+    - Will Oldham
   mentors:
-  - Charles Albert Tindley
+    - Charles Albert Tindley
 spotify_data:
   followers: 8781
   id: 11YbY0pwLfcWTRJTkEctRH
   popularity: 19
-  url: https://open.spotify.com/artist/11YbY0pwLfcWTRJTkEctRH
+  url: 'https://open.spotify.com/artist/11YbY0pwLfcWTRJTkEctRH'
 discography_enriched: true
 top_tracks:
-- Mother's Last Word To Her Son (The Key To The Kingdom)
-- Lift Him Up That's All (The Key To The Kingdom)
-- What Are They Doing In Heaven Today? (Storefront & Streetcorner Gospel 1927 - 1929)
-- What Are They Doing In Heaven Today (The Key To The Kingdom)
-- I Had A Good Father And Mother (The Key To The Kingdom)
-- Take Your Burden To The Lord And Leave It There (The Key To The Kingdom)
-- Denomination Blues, Pt. 1 (The Key To The Kingdom)
-- Paul And Silas In Jail (The Key To The Kingdom)
-- Denomination Blues, Pt. 2 (The Key To The Kingdom)
-- Take Your Burden to the Lord and Leave It There (Washington Phillips and His Manzarene Dreams)
+  - Mother's Last Word To Her Son (The Key To The Kingdom)
+  - Lift Him Up That's All (The Key To The Kingdom)
+  - >-
+    What Are They Doing In Heaven Today? (Storefront & Streetcorner Gospel 1927
+    - 1929)
+  - What Are They Doing In Heaven Today (The Key To The Kingdom)
+  - I Had A Good Father And Mother (The Key To The Kingdom)
+  - Take Your Burden To The Lord And Leave It There (The Key To The Kingdom)
+  - 'Denomination Blues, Pt. 1 (The Key To The Kingdom)'
+  - Paul And Silas In Jail (The Key To The Kingdom)
+  - 'Denomination Blues, Pt. 2 (The Key To The Kingdom)'
+  - >-
+    Take Your Burden to the Lord and Leave It There (Washington Phillips and His
+    Manzarene Dreams)
 external_urls:
-  spotify: https://open.spotify.com/artist/11YbY0pwLfcWTRJTkEctRH
-  wikipedia: https://en.wikipedia.org/wiki/Washington_Phillips
+  spotify: 'https://open.spotify.com/artist/11YbY0pwLfcWTRJTkEctRH'
+  wikipedia: 'https://en.wikipedia.org/wiki/Washington_Phillips'
 image_path: 03_Resources/source_material/ArtistPortraits/washington_phillips.jpg
 biography_enhanced_at: '2025-11-21T07:19:56.591673'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Washington_Phillips
-- https://www.michaelcorcoran.net/juneteenth-wash-phillips-son-of-slaves-makes-music-for-the-ages/
-- https://www.africanbluegrass.com/content/washington-phillips
-- https://www.minermusic.com/dolceola/corcoran.htm
-- https://www.tshaonline.org/handbook/entries/phillips-george-washington
-- https://oldtimeblues.net/2021/01/11/columbia-14333-d-washington-phillips-1927/
-- https://nyfos.org/washington-phillips-heaven-today/
-- https://www.texasstandard.org/stories/washington-phillips-and-his-manzarene-dreams-a-mysterious-texas-gospel-artist-resurfaces/
+  - 'https://en.wikipedia.org/wiki/Washington_Phillips'
+  - >-
+    https://www.michaelcorcoran.net/juneteenth-wash-phillips-son-of-slaves-makes-music-for-the-ages/
+  - 'https://www.africanbluegrass.com/content/washington-phillips'
+  - 'https://www.minermusic.com/dolceola/corcoran.htm'
+  - 'https://www.tshaonline.org/handbook/entries/phillips-george-washington'
+  - >-
+    https://oldtimeblues.net/2021/01/11/columbia-14333-d-washington-phillips-1927/
+  - 'https://nyfos.org/washington-phillips-heaven-today/'
+  - >-
+    https://www.texasstandard.org/stories/washington-phillips-and-his-manzarene-dreams-a-mysterious-texas-gospel-artist-resurfaces/
 network_extracted: true
 entry_created: '2025-11-21T07:19:56.591681'
 last_updated: '2025-12-23T08:16:18.006135'
+origin: 'Simsboro, Texas, United States'
+artist_type: person
 ---
 
 ![](washington_phillips.jpg)

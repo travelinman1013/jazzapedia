@@ -2,26 +2,26 @@
 title: Weather Report
 wiki_slug: weather-report
 schema_version: 2
-artist_type: Group
+artist_type: person
 status: active
 birth_date: '1971'
 genres:
-- jazz fusion
-- jazz
-- jazz funk
-- free jazz
+  - jazz fusion
+  - jazz
+  - jazz funk
+  - free jazz
 instruments:
-- original
-- double bass
-- drums (drum set)
-- percussion
+  - original
+  - double bass
+  - drums (drum set)
+  - percussion
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Weather_Report.jpg
   caption: Weather Report
   background: non_vocal_instrumentalist
   born: '1971'
 audio_profile:
-  tempo_avg: 122.0
+  tempo_avg: 122
   energy_avg: 0.544
   valence_avg: 0.467
   danceability_avg: 0.465
@@ -35,59 +35,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Joe Zawinul
-  - Wayne Shorter
-  - Miroslav Vitouš
-  - Jaco Pastorius
-  - Alphonse Mouzon
-  - Omar Hakim
+    - Joe Zawinul
+    - Wayne Shorter
+    - Miroslav Vitouš
+    - Jaco Pastorius
+    - Alphonse Mouzon
+    - Omar Hakim
   influenced:
-  - Pat Metheny
-  - Marcus Miller
-  - Esperanza Spalding
+    - Pat Metheny
+    - Marcus Miller
+    - Esperanza Spalding
   mentors:
-  - Miles Davis
+    - Miles Davis
 spotify_data:
   followers: 305744
   id: 162DCkd8aDKwvjBb74Gu8b
   popularity: 40
-  url: https://open.spotify.com/artist/162DCkd8aDKwvjBb74Gu8b
+  url: 'https://open.spotify.com/artist/162DCkd8aDKwvjBb74Gu8b'
 discography_enriched: true
 top_tracks:
-- Birdland (Heavy Weather)
-- A Remark You Made (Heavy Weather)
-- Teen Town (Heavy Weather)
-- Teen Town (Heavy Weather (Expanded Edition))
-- Palladium (Heavy Weather)
-- Black Market (Black Market)
-- Harlequin (Heavy Weather)
-- Havona (Heavy Weather)
-- Cucumber Slumber (Mysterious Traveller)
-- Havona (Heavy Weather (Expanded Edition))
+  - Birdland (Heavy Weather)
+  - A Remark You Made (Heavy Weather)
+  - Teen Town (Heavy Weather)
+  - Teen Town (Heavy Weather (Expanded Edition))
+  - Palladium (Heavy Weather)
+  - Black Market (Black Market)
+  - Harlequin (Heavy Weather)
+  - Havona (Heavy Weather)
+  - Cucumber Slumber (Mysterious Traveller)
+  - Havona (Heavy Weather (Expanded Edition))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/0f9997bd-e079-429e-8ccd-9378c9b0c746
-  spotify: https://open.spotify.com/artist/162DCkd8aDKwvjBb74Gu8b
-  wikipedia: https://en.wikipedia.org/wiki/Weather_Report
+  musicbrainz: 'https://musicbrainz.org/artist/0f9997bd-e079-429e-8ccd-9378c9b0c746'
+  spotify: 'https://open.spotify.com/artist/162DCkd8aDKwvjBb74Gu8b'
+  wikipedia: 'https://en.wikipedia.org/wiki/Weather_Report'
 image_path: 03_Resources/source_material/ArtistPortraits/Weather_Report.jpg
 biography_enhanced_at: '2025-10-19T10:26:57.591033'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://weatherreportband.com/the-band/
-- https://www.weatherreportdiscography.org/elegant-people-a-history-of-the-band-weather-report/
-- https://www.britannica.com/topic/Weather-Report
-- https://jazzfuel.com/weather-report-band/
-- https://en.wikipedia.org/wiki/Weather_Report
+  - 'https://weatherreportband.com/the-band/'
+  - >-
+    https://www.weatherreportdiscography.org/elegant-people-a-history-of-the-band-weather-report/
+  - 'https://www.britannica.com/topic/Weather-Report'
+  - 'https://jazzfuel.com/weather-report-band/'
+  - 'https://en.wikipedia.org/wiki/Weather_Report'
 network_extracted: true
 entry_created: '2025-10-19T10:26:57.591044'
 last_updated: '2025-12-23T08:16:04.273750'
 musicbrainz_enriched_at: '2025-10-21T09:48:01.686398'
 musicbrainz_id: 0f9997bd-e079-429e-8ccd-9378c9b0c746
-origin: New York City, New York, United States
+origin: 'New York City, New York, United States'
 tags:
-- fusion
-- jazz
-- jazz fusion
+  - fusion
+  - jazz
+  - jazz fusion
+birth_place: New York
 ---
 
 ![](Weather_Report.jpg)

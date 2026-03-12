@@ -1,38 +1,38 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-13T01:09:25.466591'
-birth_place: Saginaw, Michigan, USA (Stevie Wonder birthplace); Denver, Colorado,
-  USA (India Arie birthplace)
+birth_place: 'Saginaw, Michigan, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-13T01:09:25.466598'
 external_urls:
-  spotify: https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC
-  wikipedia: https://en.wikipedia.org/wiki/Stevie_Wonder
+  spotify: 'https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC'
+  wikipedia: 'https://en.wikipedia.org/wiki/Stevie_Wonder'
 genres:
-- neo soul
+  - neo soul
 image_path: 03_Resources/source_material/ArtistPortraits/stevie_wonder_windia_arie.jpg
 last_updated: '2026-01-13T01:09:25.466598'
 musical_connections:
   collaborators:
-  - India Arie
+    - India Arie
   influenced:
-  - India Arie
+    - India Arie
   mentors:
-  - Stevie Wonder
+    - Stevie Wonder
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://pennylibertygbow.wordpress.com/2012/02/18/india-arie/
-- https://www.youtube.com/watch?v=5qbiixoujU0
-- https://en.wikipedia.org/wiki/Stevie_Wonder
-- https://carmelmonthlymagazine.com/india-arie/
+  - 'https://pennylibertygbow.wordpress.com/2012/02/18/india-arie/'
+  - 'https://www.youtube.com/watch?v=5qbiixoujU0'
+  - 'https://en.wikipedia.org/wiki/Stevie_Wonder'
+  - 'https://carmelmonthlymagazine.com/india-arie/'
 spotify_data:
   followers: 941693
   id: 7Gf3LSwa5hh8Cjo60WhVjC
   popularity: 56
-  url: https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC
+  url: 'https://open.spotify.com/artist/7Gf3LSwa5hh8Cjo60WhVjC'
 status: active
 title: Stevie Wonder w/India Arie
+birth_date: '1950-05-13'
 ---
 
 ![](stevie_wonder_windia_arie.jpg)

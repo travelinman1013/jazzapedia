@@ -1,21 +1,21 @@
 ---
-title: GOLDEN BOUGH
+title: Golden Bough
 wiki_slug: golden-bough
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1980'
 genres:
-- celtic
-- medieval
+  - celtic
+  - medieval
 instruments:
-- Irish harp / clàrsach
-- lead vocals
-- original
-- guitar
-- violin
-- flute
-- fiddle
+  - Irish harp / clàrsach
+  - lead vocals
+  - original
+  - guitar
+  - violin
+  - flute
+  - fiddle
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/golden_bough.jpg
   caption: GOLDEN BOUGH
@@ -36,117 +36,124 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lief Sørbye
-  - Florie Brown
-  - Richard Ferry
-  - Alison Bailey
-  - Sue Draheim
-  - Kathy Sierra
-  - Nina Black
+    - Lief Sørbye
+    - Florie Brown
+    - Richard Ferry
+    - Alison Bailey
+    - Sue Draheim
+    - Kathy Sierra
+    - Nina Black
   influenced:
-  - Tempest
+    - Tempest
   mentors:
-  - Eric Bogle
-  - Archie Fisher
-  - Brendan Graham
+    - Eric Bogle
+    - Archie Fisher
+    - Brendan Graham
 spotify_data:
   followers: 3031
   id: 4oMDJ1BARLl3ZgFfV0f9Os
   popularity: 34
-  url: https://open.spotify.com/artist/4oMDJ1BARLl3ZgFfV0f9Os
+  url: 'https://open.spotify.com/artist/4oMDJ1BARLl3ZgFfV0f9Os'
 discography_enriched: true
 top_tracks:
-- Fog on the Bay (Celtic & Original Music)
-- The Wren Boys / Gavin’s / Honeysuckle (Celtic Festival)
-- Cathi Milligan's Fancy (Celtic & Original Music)
-- The Blarney Pilgrim - The Merry Blacksmith (Celtic Music from Ireland, Scotland and Brittany)
-- Doue Lan a Vadeleh - Ar Serjant Major - Jan en Piet (Celtic Music from Ireland, Scotland and Brittany)
-- The Collaraine Jig - Sharks' Favorite - Far from Home … (Celtic Music from Ireland, Scotland and Brittany)
-- My Little Boat(Irish Traditional) (Winding Road)
-- Farewell To Whiskey (Celtic Music from Ireland, Scotland and Brittany)
-- One Bottle More/Humors Of Winter/Apples In Winter (Winter's Dance - A Celebration Of The Season)
-- Breton Tunes (Celtic Music from Ireland, Scotland and Brittany)
+  - Fog on the Bay (Celtic & Original Music)
+  - The Wren Boys / Gavin’s / Honeysuckle (Celtic Festival)
+  - Cathi Milligan's Fancy (Celtic & Original Music)
+  - >-
+    The Blarney Pilgrim - The Merry Blacksmith (Celtic Music from Ireland,
+    Scotland and Brittany)
+  - >-
+    Doue Lan a Vadeleh - Ar Serjant Major - Jan en Piet (Celtic Music from
+    Ireland, Scotland and Brittany)
+  - >-
+    The Collaraine Jig - Sharks' Favorite - Far from Home … (Celtic Music from
+    Ireland, Scotland and Brittany)
+  - My Little Boat(Irish Traditional) (Winding Road)
+  - 'Farewell To Whiskey (Celtic Music from Ireland, Scotland and Brittany)'
+  - >-
+    One Bottle More/Humors Of Winter/Apples In Winter (Winter's Dance - A
+    Celebration Of The Season)
+  - 'Breton Tunes (Celtic Music from Ireland, Scotland and Brittany)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4adb841f-7def-4354-b1eb-9f2e16bba162
-  spotify: https://open.spotify.com/artist/4oMDJ1BARLl3ZgFfV0f9Os
-  wikipedia: https://en.wikipedia.org/wiki/Golden_Bough_(band)
+  musicbrainz: 'https://musicbrainz.org/artist/4adb841f-7def-4354-b1eb-9f2e16bba162'
+  spotify: 'https://open.spotify.com/artist/4oMDJ1BARLl3ZgFfV0f9Os'
+  wikipedia: 'https://en.wikipedia.org/wiki/Golden_Bough_(band)'
 image_path: 03_Resources/source_material/ArtistPortraits/golden_bough.jpg
 biography_enhanced_at: '2025-12-22T01:38:01.209854'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- 'Wikipedia: Golden Bough (band)'
-- Golden Bough Official Website (goldenboughmusic.com)
-- YouTube - Golden Bough Channel
-- ARC Music Productions International Limited
-- Sonora Christmas Festival Entertainment
+  - 'Wikipedia: Golden Bough (band)'
+  - Golden Bough Official Website (goldenboughmusic.com)
+  - YouTube - Golden Bough Channel
+  - ARC Music Productions International Limited
+  - Sonora Christmas Festival Entertainment
 network_extracted: true
 entry_created: '2025-12-22T01:38:01.209861'
 last_updated: '2025-12-23T08:16:09.260697'
 members:
-- begin: '1980'
-  end: '1988'
-  instruments: []
-  mbid: 319e0896-b164-44a1-8797-5356de68e94b
-  name: Lief Sorbye
-- &id001
-  begin: '1980'
-  end: ''
-  instruments:
-  - Irish harp / clàrsach
-  - lead vocals
-  - original
-  mbid: 7aaadc18-99c5-4172-ac04-2b3ef5db19da
-  name: Margie Butler
-- &id002
-  begin: '1980'
-  end: ''
-  instruments:
-  - guitar
-  - lead vocals
-  - original
-  mbid: 7c85b7a2-7590-435b-b690-4ed9647b8cfd
-  name: Paul Espinoza
-- begin: '1982'
-  end: '1997'
-  instruments:
-  - violin
-  mbid: 5c1c248e-9cd3-4ba3-bf13-cc8478aa373f
-  name: Florie Brown
-- begin: '1993'
-  end: '1996'
-  instruments:
-  - flute
-  mbid: 5f172b35-f791-469d-a5af-a2ef9aa0f083
-  name: Richard Ferry
-- begin: '1997'
-  end: 1999-03
-  instruments:
-  - fiddle
-  mbid: a9d1c443-8b45-4247-b1f8-d049c7149d42
-  name: Alison Bailey Streich
-- begin: '1999'
-  end: '2001'
-  instruments:
-  - violin
-  mbid: 704692bd-2512-4335-95cf-1c73034b1a15
-  name: Sue Draheim
-- &id003
-  begin: 2001-04
-  end: ''
-  instruments:
-  - violin
-  mbid: 1032edc8-c5ce-4d87-9ec9-5fb53c43c83c
-  name: Kathy Sierra
+  - begin: '1980'
+    end: '1988'
+    instruments: []
+    mbid: 319e0896-b164-44a1-8797-5356de68e94b
+    name: Lief Sorbye
+  - &ref_0
+    begin: '1980'
+    end: ''
+    instruments:
+      - Irish harp / clàrsach
+      - lead vocals
+      - original
+    mbid: 7aaadc18-99c5-4172-ac04-2b3ef5db19da
+    name: Margie Butler
+  - &ref_1
+    begin: '1980'
+    end: ''
+    instruments:
+      - guitar
+      - lead vocals
+      - original
+    mbid: 7c85b7a2-7590-435b-b690-4ed9647b8cfd
+    name: Paul Espinoza
+  - begin: '1982'
+    end: '1997'
+    instruments:
+      - violin
+    mbid: 5c1c248e-9cd3-4ba3-bf13-cc8478aa373f
+    name: Florie Brown
+  - begin: '1993'
+    end: '1996'
+    instruments:
+      - flute
+    mbid: 5f172b35-f791-469d-a5af-a2ef9aa0f083
+    name: Richard Ferry
+  - begin: '1997'
+    end: 1999-03
+    instruments:
+      - fiddle
+    mbid: a9d1c443-8b45-4247-b1f8-d049c7149d42
+    name: Alison Bailey Streich
+  - begin: '1999'
+    end: '2001'
+    instruments:
+      - violin
+    mbid: 704692bd-2512-4335-95cf-1c73034b1a15
+    name: Sue Draheim
+  - &ref_2
+    begin: 2001-04
+    end: ''
+    instruments:
+      - violin
+    mbid: 1032edc8-c5ce-4d87-9ec9-5fb53c43c83c
+    name: Kathy Sierra
 musicbrainz_id: 4adb841f-7def-4354-b1eb-9f2e16bba162
-origin: California, United States
+origin: 'California, United States'
 original_members:
-- *id001
-- *id002
-- *id003
+  - *ref_0
+  - *ref_1
+  - *ref_2
 tags:
-- celtic
-
+  - celtic
 ---
 
 ![](golden_bough.jpg)

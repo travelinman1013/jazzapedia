@@ -2,42 +2,42 @@
 title: Angie Stone
 wiki_slug: angie-stone
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: deceased
 birth_name: Angela Laverne Brown
 also_known_as:
-- Angie Stone
+  - Angie Stone
 aliases:
-- Angie Stone
-birth_date: '1961-12-18'
-birth_place: Columbia, South Carolina, United States
+  - Angie Stone
+birth_date: '1961-12-19'
+birth_place: 'Columbia, South Carolina, United States'
 death_date: '2025-03-01'
 years_active: 1979–2025
 genres:
-- neo soul
-- soul
+  - neo soul
+  - soul
 instruments:
-- keyboard instrument
-- voice
-- saxophone
+  - keyboard instrument
+  - voice
+  - saxophone
 occupation:
-- singer
-- singer-songwriter
-- television actor
-- record producer
-- stage actor
+  - singer
+  - singer-songwriter
+  - television actor
+  - record producer
+  - stage actor
 record_labels:
-- Arista Records
-- Concord Records
-- J Records
-- Stax Records
+  - Arista Records
+  - Concord Records
+  - J Records
+  - Stax Records
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Angie_Stone.jpg
   caption: Angie Stone
   background: solo_singer
   birth_name: Angela Laverne Brown
   born: '1961-12-18'
-  origin: Columbia, South Carolina, United States
+  origin: 'Columbia, South Carolina, United States'
   died: '2025-03-01'
 audio_profile:
   tempo_avg: 107.9
@@ -54,60 +54,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - D'Angelo
-  - Lenny Kravitz
-  - Vertical Hold
-  - Calvin Richardson
+    - D'Angelo
+    - Lenny Kravitz
+    - Vertical Hold
+    - Calvin Richardson
   influenced:
-  - Alicia Keys
-  - Jill Scott
+    - Alicia Keys
+    - Jill Scott
   mentors:
-  - Gospel Church Musicians
+    - Gospel Church Musicians
 related_artists: []
 spotify_data:
   followers: 709152
   id: 2hWr3AjjKOCVmWcwvuT4uM
   popularity: 56
-  url: https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM
+  url: 'https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM'
   verified: false
 discography_enriched: true
 albums_count: 11
 singles_count: 24
 top_tracks:
-- Wish I Didn't Miss You (Mahogany Soul)
-- No More Rain (In This Cloud) (Black Diamond (Deluxe Edition))
-- Brotha (Mahogany Soul)
-- More Than A Woman (feat. Calvin) (Mahogany Soul)
-- Keep Your Worries (Streetsoul)
-- Heaven Help (Black Diamond (Deluxe Edition))
-- Wish I Didn't Miss You - Pound Boys Stoneface Bootleg Mix
-- These Eyes (Covered in Soul)
-- Pissed Off (Mahogany Soul)
-- Excuse Me (Instant Vintage)
+  - Wish I Didn't Miss You (Mahogany Soul)
+  - No More Rain (In This Cloud) (Black Diamond (Deluxe Edition))
+  - Brotha (Mahogany Soul)
+  - More Than A Woman (feat. Calvin) (Mahogany Soul)
+  - Keep Your Worries (Streetsoul)
+  - Heaven Help (Black Diamond (Deluxe Edition))
+  - Wish I Didn't Miss You - Pound Boys Stoneface Bootleg Mix
+  - These Eyes (Covered in Soul)
+  - Pissed Off (Mahogany Soul)
+  - Excuse Me (Instant Vintage)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/82f8dd22-0319-4f35-953c-358b3f883027
-  spotify: https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM
-  wikipedia: https://en.wikipedia.org/wiki/Angie_Stone
+  musicbrainz: 'https://musicbrainz.org/artist/82f8dd22-0319-4f35-953c-358b3f883027'
+  spotify: 'https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM'
+  wikipedia: 'https://en.wikipedia.org/wiki/Angie_Stone'
 image_path: 03_Resources/source_material/ArtistPortraits/Angie_Stone.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:25:35.953285'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Angie_Stone
-- https://hudsonvalleypress.com/2025/03/05/angie-stone-a-life-of-music-struggle-and-legacy/
-- https://concord.com/artist/angie-stone/
+  - 'https://en.wikipedia.org/wiki/Angie_Stone'
+  - >-
+    https://hudsonvalleypress.com/2025/03/05/angie-stone-a-life-of-music-struggle-and-legacy/
+  - 'https://concord.com/artist/angie-stone/'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 13:00:34.267579
+entry_created: 2025-09-18T13:00:34.267Z
 last_updated: '2025-12-23T08:16:01.012250'
 gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:05:48.196459'
 musicbrainz_id: 82f8dd22-0319-4f35-953c-358b3f883027
 tags:
-- contemporary r&b
-- neo soul
-- r&b
+  - contemporary r&b
+  - neo soul
+  - r&b
+is_active: false
 ---
 
 ![](Angie_Stone.jpg)

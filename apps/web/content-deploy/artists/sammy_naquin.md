@@ -4,10 +4,10 @@ wiki_slug: sammy-naquin
 schema_version: 2
 status: active
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 instruments:
-- accordion
+  - accordion
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sammy_naquin.jpg
   caption: Sammy Naquin
@@ -27,57 +27,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Waylon Thibodeaux
-  - Rusty Kershaw
+    - Waylon Thibodeaux
+    - Rusty Kershaw
   influenced: []
   mentors:
-  - Sammy Naquin's Father
+    - Sammy Naquin's Father
 spotify_data:
   followers: 280
   id: 1xGgL161C6iNKEeIH7MYCc
   popularity: 3
-  url: https://open.spotify.com/artist/1xGgL161C6iNKEeIH7MYCc
+  url: 'https://open.spotify.com/artist/1xGgL161C6iNKEeIH7MYCc'
 discography_enriched: true
 top_tracks:
-- Lacassine Special (Best of Cajun Instrumentals)
-- Coulee Rodair (Best of Cajun Instrumentals)
-- Lacassine Special (Best of Cajun)
-- Perrodin Two Step (Best of Cajun Instrumentals)
-- Meeko the Cajun (Best of Cajun Instrumentals)
-- Deux Freres (Best of Cajun Instrumentals)
-- Creole Stomp (Best of Cajun Instrumentals)
-- Eunice Blues (Best of Cajun Instrumentals)
-- Pick of the Litter (Best of Cajun Instrumentals)
-- New Orleans Waltz (Best of Cajun Instrumentals)
+  - Lacassine Special (Best of Cajun Instrumentals)
+  - Coulee Rodair (Best of Cajun Instrumentals)
+  - Lacassine Special (Best of Cajun)
+  - Perrodin Two Step (Best of Cajun Instrumentals)
+  - Meeko the Cajun (Best of Cajun Instrumentals)
+  - Deux Freres (Best of Cajun Instrumentals)
+  - Creole Stomp (Best of Cajun Instrumentals)
+  - Eunice Blues (Best of Cajun Instrumentals)
+  - Pick of the Litter (Best of Cajun Instrumentals)
+  - New Orleans Waltz (Best of Cajun Instrumentals)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d41c2c5e-d322-42ee-98f2-8c7c06b2978b
-  spotify: https://open.spotify.com/artist/1xGgL161C6iNKEeIH7MYCc
+  musicbrainz: 'https://musicbrainz.org/artist/d41c2c5e-d322-42ee-98f2-8c7c06b2978b'
+  spotify: 'https://open.spotify.com/artist/1xGgL161C6iNKEeIH7MYCc'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/sammy_naquin.jpg
 biography_enhanced_at: '2025-11-24T08:30:23.246561'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://sammynaquinmusic.com/index.php/bio
-- https://www.thebash.com/zydeco-band/sammy-naquin
-- https://www.sammynaquinmusic.com
-- https://pub21.bravenet.com/forum/static/show.php?usernum=1722942123&frmid=16&msgid=747753&cmd=show
-- https://www.houmatoday.com/story/news/2008/04/25/local-variety-band-bets-its-current-lineup-is-a-winner/26768119007/
+  - 'https://sammynaquinmusic.com/index.php/bio'
+  - 'https://www.thebash.com/zydeco-band/sammy-naquin'
+  - 'https://www.sammynaquinmusic.com'
+  - >-
+    https://pub21.bravenet.com/forum/static/show.php?usernum=1722942123&frmid=16&msgid=747753&cmd=show
+  - >-
+    https://www.houmatoday.com/story/news/2008/04/25/local-variety-band-bets-its-current-lineup-is-a-winner/26768119007/
 network_extracted: true
 entry_created: '2025-11-24T08:30:23.246573'
 last_updated: '2025-12-23T08:16:15.346951'
-disambiguation: Cajun artist, New Orleans, LA (Mardi Gras Records)
+disambiguation: 'Cajun artist, New Orleans, LA (Mardi Gras Records)'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - accordion
-  mbid: e0b94d05-b4e1-4b1c-9374-ae5f5963bdec
-  name: Cajun Playboys
+  - begin: ''
+    end: ''
+    instruments:
+      - accordion
+    mbid: e0b94d05-b4e1-4b1c-9374-ae5f5963bdec
+    name: Cajun Playboys
 musicbrainz_id: d41c2c5e-d322-42ee-98f2-8c7c06b2978b
-origin: Cajun Prairie, Louisiana, United States
+origin: 'Cajun Prairie, Louisiana, United States'
 tags:
-- cajun
+  - cajun
+artist_type: person
 ---
 
 ![](sammy_naquin.jpg)

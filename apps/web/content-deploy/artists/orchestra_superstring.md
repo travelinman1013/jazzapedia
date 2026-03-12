@@ -4,8 +4,8 @@ wiki_slug: orchestra-superstring
 schema_version: 2
 status: active
 genres:
-- dark cabaret
-- exotica
+  - dark cabaret
+  - exotica
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/orchestra_superstring.jpg
   caption: Orchestra Superstring
@@ -25,41 +25,42 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - DJ Bonebrake
+    - DJ Bonebrake
   influenced: []
   mentors: []
 spotify_data:
   followers: 129
   id: 60UYJSwp10D7JZWsBCLNQZ
   popularity: 0
-  url: https://open.spotify.com/artist/60UYJSwp10D7JZWsBCLNQZ
+  url: 'https://open.spotify.com/artist/60UYJSwp10D7JZWsBCLNQZ'
 discography_enriched: true
 top_tracks:
-- Shapale (Easy)
-- Sonador (Orchestra Superstring)
-- Ambrosia (Orchestra Superstring)
-- Mambalita (Orchestra Superstring)
-- Diana (Orchestra Superstring)
-- Easy (Easy)
-- Silberstrasse (Orchestra Superstring)
-- Id Tempo (Orchestra Superstring)
-- Twilight (Orchestra Superstring)
-- A Call for All Demons (Orchestra Superstring)
+  - Shapale (Easy)
+  - Sonador (Orchestra Superstring)
+  - Ambrosia (Orchestra Superstring)
+  - Mambalita (Orchestra Superstring)
+  - Diana (Orchestra Superstring)
+  - Easy (Easy)
+  - Silberstrasse (Orchestra Superstring)
+  - Id Tempo (Orchestra Superstring)
+  - Twilight (Orchestra Superstring)
+  - A Call for All Demons (Orchestra Superstring)
 external_urls:
-  spotify: https://open.spotify.com/artist/60UYJSwp10D7JZWsBCLNQZ
+  spotify: 'https://open.spotify.com/artist/60UYJSwp10D7JZWsBCLNQZ'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/orchestra_superstring.jpg
 biography_enhanced_at: '2025-12-19T01:39:23.566185'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.djbonebrakemusic.com/superstringbio.html[5]
-- http://www.davesontour.com/interviews/dj_boneb.html[6]
-- http://www.ambientexotica.com/exorev281_orchestrasuperstring_kalopia/[7]
+  - 'https://www.djbonebrakemusic.com/superstringbio.html[5]'
+  - 'http://www.davesontour.com/interviews/dj_boneb.html[6]'
+  - 'http://www.ambientexotica.com/exorev281_orchestrasuperstring_kalopia/[7]'
 network_extracted: true
 entry_created: '2025-12-19T01:39:23.566201'
 last_updated: '2025-12-23T08:16:13.761240'
-origin: Los Angeles, California, United States
+origin: 'Los Angeles, California, United States'
+artist_type: band
 ---
 
 ![](orchestra_superstring.jpg)

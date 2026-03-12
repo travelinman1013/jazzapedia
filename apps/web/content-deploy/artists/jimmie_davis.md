@@ -1,18 +1,18 @@
 ---
-title: jimmie davis
+title: Jimmie Davis
 wiki_slug: jimmie-davis
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1899-09-11'
-birth_place: Jackson Parish
+birth_place: 'Beech Springs, Louisiana, United States'
 death_date: '2000-11-05'
 genres:
-- christian country
-- traditional country
+  - christian country
+  - traditional country
 instruments:
-- lead vocals
-- spoken vocals
+  - lead vocals
+  - spoken vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jimmie_davis.jpg
   caption: jimmie davis
@@ -35,57 +35,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - African American blues musicians (unnamed)
-  - Decca Records session musicians
+    - African American blues musicians (unnamed)
+    - Decca Records session musicians
   influenced:
-  - Ray Charles
-  - Gene Autry
-  - Bing Crosby
+    - Ray Charles
+    - Gene Autry
+    - Bing Crosby
   mentors:
-  - Jimmie Rodgers
+    - Jimmie Rodgers
 spotify_data:
   followers: 7258
   id: 0ow3Ac8tlahUoDVXbRuaRy
   popularity: 21
-  url: https://open.spotify.com/artist/0ow3Ac8tlahUoDVXbRuaRy
+  url: 'https://open.spotify.com/artist/0ow3Ac8tlahUoDVXbRuaRy'
 discography_enriched: true
 top_tracks:
-- There's A New Moon Over My Shoulder (Louisiana (Soundtrack from the Motion Picture))
-- You Are My Sunshine (You Are My Sunshine)
-- You Are My Sunshine (The Country Music Hall Of Fame)
-- You Are My Sunshine (Louisiana (Soundtrack from the Motion Picture))
-- There's a New Moon Over My Shoulder (Jimmie Davis Presents You Are My Sunshine)
-- It Makes No Difference Now
-- you are my sunshine
-- You Are My Sunshine (Alternate Take) (Jimmie Davis Presents You Are My Sunshine)
-- You Are My Sunshine
-- Lover Man/Smile
+  - >-
+    There's A New Moon Over My Shoulder (Louisiana (Soundtrack from the Motion
+    Picture))
+  - You Are My Sunshine (You Are My Sunshine)
+  - You Are My Sunshine (The Country Music Hall Of Fame)
+  - You Are My Sunshine (Louisiana (Soundtrack from the Motion Picture))
+  - >-
+    There's a New Moon Over My Shoulder (Jimmie Davis Presents You Are My
+    Sunshine)
+  - It Makes No Difference Now
+  - you are my sunshine
+  - >-
+    You Are My Sunshine (Alternate Take) (Jimmie Davis Presents You Are My
+    Sunshine)
+  - You Are My Sunshine
+  - Lover Man/Smile
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/06ed4e1e-4416-4a7c-b14b-bc68dfd252aa
-  spotify: https://open.spotify.com/artist/0ow3Ac8tlahUoDVXbRuaRy
-  wikipedia: https://en.wikipedia.org/wiki/Jimmie_Davis
+  musicbrainz: 'https://musicbrainz.org/artist/06ed4e1e-4416-4a7c-b14b-bc68dfd252aa'
+  spotify: 'https://open.spotify.com/artist/0ow3Ac8tlahUoDVXbRuaRy'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jimmie_Davis'
 image_path: 03_Resources/source_material/ArtistPortraits/jimmie_davis.jpg
 biography_enhanced_at: '2025-11-20T07:29:34.619411'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://americansongwriter.com/born-on-this-day-in-1899-a-country-music-hall-of-famer-turned-governor-and-the-voice-behind-louisianas-state-song/
-- https://louisianamusichalloffame.org/jimmie-davis/
-- https://64parishes.org/entry/jimmie-davis
-- https://guides.lib.lsu.edu/LouisianaMusic/davis
-- https://www.countrymusichalloffame.org/artist/jimmie-davis
-- https://en.wikipedia.org/wiki/Jimmie_Davis
+  - >-
+    https://americansongwriter.com/born-on-this-day-in-1899-a-country-music-hall-of-famer-turned-governor-and-the-voice-behind-louisianas-state-song/
+  - 'https://louisianamusichalloffame.org/jimmie-davis/'
+  - 'https://64parishes.org/entry/jimmie-davis'
+  - 'https://guides.lib.lsu.edu/LouisianaMusic/davis'
+  - 'https://www.countrymusichalloffame.org/artist/jimmie-davis'
+  - 'https://en.wikipedia.org/wiki/Jimmie_Davis'
 network_extracted: true
 entry_created: '2025-11-20T07:29:34.619416'
 last_updated: '2025-12-23T08:16:10.403614'
-disambiguation: American politician, singer and songwriter
+disambiguation: 'American politician, singer and songwriter'
 gender: Male
 musicbrainz_id: 06ed4e1e-4416-4a7c-b14b-bc68dfd252aa
 tags:
-- country
-- country gospel
-- politician
-
+  - country
+  - country gospel
+  - politician
+is_active: false
 ---
 
 ![](jimmie_davis.jpg)

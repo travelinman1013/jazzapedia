@@ -3,7 +3,7 @@ biography_enhanced_at: '2026-01-04T01:54:00.384202'
 enhancement_provider: perplexity
 entry_created: '2026-01-04T01:54:00.384207'
 external_urls:
-  spotify: https://open.spotify.com/artist/02DvQ9T0Cgxf4VObTv2rmM
+  spotify: 'https://open.spotify.com/artist/02DvQ9T0Cgxf4VObTv2rmM'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/colossus_brass_band.jpg
@@ -13,17 +13,18 @@ musical_connections:
   influenced: []
   mentors: []
 network_extracted: true
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://www.colossusbrassband.com[7]
+  - 'https://www.colossusbrassband.com[7]'
 spotify_data:
   followers: 6
   id: 02DvQ9T0Cgxf4VObTv2rmM
   popularity: 0
-  url: https://open.spotify.com/artist/02DvQ9T0Cgxf4VObTv2rmM
+  url: 'https://open.spotify.com/artist/02DvQ9T0Cgxf4VObTv2rmM'
 status: active
-title: colossus brass band
+title: Colossus Brass Band
+artist_type: band
 ---
 
 ![](colossus_brass_band.jpg)

@@ -1,22 +1,22 @@
 ---
-title: SADIE McKINNEY
+title: Sadie McKinney
 wiki_slug: sadie-mckinney
 schema_version: 2
 status: active
-birth_place: Memphis, Tennessee, United States (recording location)
+birth_place: 'Memphis, Tennessee, United States (recording location)'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sadie_mckinney.jpg
   caption: SADIE McKINNEY
   background: solo_singer
-  origin: Memphis, Tennessee, United States (recording location)
+  origin: 'Memphis, Tennessee, United States (recording location)'
 audio_profile:
-  tempo_avg: 79.0
+  tempo_avg: 79
   energy_avg: 0.311
   valence_avg: 0.166
   danceability_avg: 0.333
   acousticness_avg: 0.348
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -8.1
   speechiness_avg: 0.034
   liveness_avg: 0.238
@@ -25,33 +25,37 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - James Alsten (pianist)
+    - James Alsten (pianist)
   influenced:
-  - Early rock and roll musicians
+    - Early rock and roll musicians
   mentors: []
 spotify_data:
   followers: 839
   id: 5ojgGI1Afjl8JohNhHOSAe
   popularity: 25
-  url: https://open.spotify.com/artist/5ojgGI1Afjl8JohNhHOSAe
+  url: 'https://open.spotify.com/artist/5ojgGI1Afjl8JohNhHOSAe'
 discography_enriched: true
 top_tracks:
-- Too Good To Be You (Too Good To Be You)
+  - Too Good To Be You (Too Good To Be You)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2567a9e0-f580-4588-9c87-f064112d2df3
-  spotify: https://open.spotify.com/artist/5ojgGI1Afjl8JohNhHOSAe
+  musicbrainz: 'https://musicbrainz.org/artist/2567a9e0-f580-4588-9c87-f064112d2df3'
+  spotify: 'https://open.spotify.com/artist/5ojgGI1Afjl8JohNhHOSAe'
   wikipedia: Not found
 image_path: 03_Resources/source_material/ArtistPortraits/sadie_mckinney.jpg
 biography_enhanced_at: '2025-12-04T07:23:01.465882'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- 'Before Elvis: The Pre-history of Rock ''n'' Roll by Larry Birnbaum (jazzdagama.com)'
-- Ramblin - Big Road Blues (sundayblues.org)
+  - >-
+    Before Elvis: The Pre-history of Rock 'n' Roll by Larry Birnbaum
+    (jazzdagama.com)
+  - Ramblin - Big Road Blues (sundayblues.org)
 network_extracted: true
 entry_created: '2025-12-04T07:23:01.465890'
 last_updated: '2025-12-23T08:16:15.269383'
 musicbrainz_id: 2567a9e0-f580-4588-9c87-f064112d2df3
+origin: 'Memphis, Tennessee, United States'
+artist_type: person
 ---
 
 ![](sadie_mckinney.jpg)

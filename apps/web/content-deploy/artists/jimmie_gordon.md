@@ -1,47 +1,49 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-13T01:12:04.526377'
-birth_place: Unknown, United States
+birth_place: 'Unknown, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-13T01:12:04.526383'
 external_urls:
-  spotify: https://open.spotify.com/artist/6XrOb8biVVH7gH09AIjB7l
-  wikipedia: https://en.wikipedia.org/wiki/Jimmie_Gordon
+  spotify: 'https://open.spotify.com/artist/6XrOb8biVVH7gH09AIjB7l'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jimmie_Gordon'
 genres:
-- ragtime
-- blues
-- boogie-woogie
+  - ragtime
+  - blues
+  - boogie-woogie
 image_path: 03_Resources/source_material/ArtistPortraits/jimmie_gordon.jpg
 last_updated: '2026-01-13T01:12:04.526383'
 musical_connections:
   collaborators:
-  - Memphis Minnie
-  - Bumble Bee Slim
-  - Big Bill Broonzy
-  - Scrapper Blackwell
-  - Kansas Joe McCoy
-  - Papa Charlie McCoy
-  - Frankie Newton
-  - Pete Brown
-  - Zutty Singleton
+    - Memphis Minnie
+    - Bumble Bee Slim
+    - Big Bill Broonzy
+    - Scrapper Blackwell
+    - Kansas Joe McCoy
+    - Papa Charlie McCoy
+    - Frankie Newton
+    - Pete Brown
+    - Zutty Singleton
   influenced:
-  - Muddy Waters
-  - Johnny Winter
+    - Muddy Waters
+    - Johnny Winter
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jimmie_Gordon
-- https://adp.library.ucsb.edu/names/106738
-- https://www.allmusic.com/artist/jimmie-gordon-mn0000286683
-- https://sentirelblues.blogspot.com/2017/02/jimmie-gordon.html
+  - 'https://en.wikipedia.org/wiki/Jimmie_Gordon'
+  - 'https://adp.library.ucsb.edu/names/106738'
+  - 'https://www.allmusic.com/artist/jimmie-gordon-mn0000286683'
+  - 'https://sentirelblues.blogspot.com/2017/02/jimmie-gordon.html'
 spotify_data:
   followers: 177
   id: 6XrOb8biVVH7gH09AIjB7l
   popularity: 2
-  url: https://open.spotify.com/artist/6XrOb8biVVH7gH09AIjB7l
+  url: 'https://open.spotify.com/artist/6XrOb8biVVH7gH09AIjB7l'
 status: active
-title: JIMMIE GORDON
+title: Jimmie Gordon
+origin: 'Chicago, Illinois, United States'
+death_date: '1993-10-27'
 ---
 
 ![](jimmie_gordon.jpg)

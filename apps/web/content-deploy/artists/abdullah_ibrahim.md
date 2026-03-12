@@ -5,93 +5,93 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1934-10-09'
-birth_place: Cape Town
+birth_place: 'Cape Town, Western Cape, South Africa'
 genres:
-- jazz
+  - jazz
 instruments:
-- eponymous
-- original
-- piano
-- other vocals
-- saxophone
-- lead vocals
-- electric piano
-- grand piano
-- spoken vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 04103638-4b35-4e53-b29f-381be9e66961
-  name: Jazz Epistles
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 62ce0f10-45f8-491f-8393-9cead046c194
-  name: Abdullah Ibrahim Trio
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
   - piano
-  mbid: 65c8e240-6735-4665-90bd-ad20d245b3d1
-  name: Dollar Brand Trio
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  - piano
-  mbid: 29132278-c5ab-43dd-a034-361cdec4f4f8
-  name: Dollar Brand Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
   - other vocals
-  - piano
-  mbid: 7d17434f-3b24-4acc-be82-f9bce385a43b
-  name: Dollar Brand Duo
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  - piano
-  mbid: f4998165-650f-4d00-90f4-90fb719b86f0
-  name: Dollar Brand Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
   - saxophone
-  mbid: f4998165-650f-4d00-90f4-90fb719b86f0
-  name: Dollar Brand Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
   - lead vocals
-  - original
-  mbid: f4998165-650f-4d00-90f4-90fb719b86f0
-  name: Dollar Brand Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: 11d54615-09b8-408a-b792-2365a5427d44
-  name: South African Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: 11d54615-09b8-408a-b792-2365a5427d44
-  name: South African Quintet
+  - electric piano
+  - grand piano
+  - spoken vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 04103638-4b35-4e53-b29f-381be9e66961
+    name: Jazz Epistles
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 62ce0f10-45f8-491f-8393-9cead046c194
+    name: Abdullah Ibrahim Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - piano
+    mbid: 65c8e240-6735-4665-90bd-ad20d245b3d1
+    name: Dollar Brand Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - piano
+    mbid: 29132278-c5ab-43dd-a034-361cdec4f4f8
+    name: Dollar Brand Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - other vocals
+      - piano
+    mbid: 7d17434f-3b24-4acc-be82-f9bce385a43b
+    name: Dollar Brand Duo
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - piano
+    mbid: f4998165-650f-4d00-90f4-90fb719b86f0
+    name: Dollar Brand Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - saxophone
+    mbid: f4998165-650f-4d00-90f4-90fb719b86f0
+    name: Dollar Brand Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - lead vocals
+      - original
+    mbid: f4998165-650f-4d00-90f4-90fb719b86f0
+    name: Dollar Brand Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: 11d54615-09b8-408a-b792-2365a5427d44
+    name: South African Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: 11d54615-09b8-408a-b792-2365a5427d44
+    name: South African Quintet
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/abdullah_ibrahim.jpg
   caption: Abdullah Ibrahim
@@ -113,47 +113,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Hugh Masekela
-  - Elvin Jones
-  - Max Roach
-  - Carlos Ward
+    - Hugh Masekela
+    - Elvin Jones
+    - Max Roach
+    - Carlos Ward
   influenced:
-  - Nduduzo Makhathini
-  - Kyle Shepherd
+    - Nduduzo Makhathini
+    - Kyle Shepherd
   mentors:
-  - Duke Ellington
-  - Kippie Moeketsi
+    - Duke Ellington
+    - Kippie Moeketsi
 spotify_data:
   followers: 66589
   id: 39mb0I6tdTcCXkeigvzxOJ
   popularity: 38
-  url: https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ
+  url: 'https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ'
 discography_enriched: true
 top_tracks:
-- Dreamtime (The Balance)
-- The Balance (The Balance)
-- Trieste My Love (Solotude)
-- Mindiff (Solotude)
-- Blue Bolero (Solotude)
-- Maraba Blue (Cape Town Flowers)
-- Soweto (Cape Town Revisited)
-- Water From An Ancient Well (Cape Town Revisited)
-- 'Earth Bird (The Enja Heritage Collection: Mindif)'
-- Tonegawa (The Balance)
+  - Dreamtime (The Balance)
+  - The Balance (The Balance)
+  - Trieste My Love (Solotude)
+  - Mindiff (Solotude)
+  - Blue Bolero (Solotude)
+  - Maraba Blue (Cape Town Flowers)
+  - Soweto (Cape Town Revisited)
+  - Water From An Ancient Well (Cape Town Revisited)
+  - 'Earth Bird (The Enja Heritage Collection: Mindif)'
+  - Tonegawa (The Balance)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/fd64e185-9973-44d5-ad09-5d5562804292
-  spotify: https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ
-  wikipedia: https://en.wikipedia.org/wiki/Abdullah_Ibrahim
+  musicbrainz: 'https://musicbrainz.org/artist/fd64e185-9973-44d5-ad09-5d5562804292'
+  spotify: 'https://open.spotify.com/artist/39mb0I6tdTcCXkeigvzxOJ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Abdullah_Ibrahim'
 image_path: 03_Resources/source_material/ArtistPortraits/abdullah_ibrahim.jpg
 biography_enhanced_at: '2025-11-14T10:55:59.509419'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://abdullahibrahim.co.za/biography/
-- https://en.wikipedia.org/wiki/Abdullah_Ibrahim
-- https://www.arts.gov/honors/jazz/abdullah-ibrahim
-- https://schwarzman.yale.edu/artist/abdullah-ibrahim
-- https://www.thekurlandagency.com/artist/abdullah-ibrahim/
+  - 'https://abdullahibrahim.co.za/biography/'
+  - 'https://en.wikipedia.org/wiki/Abdullah_Ibrahim'
+  - 'https://www.arts.gov/honors/jazz/abdullah-ibrahim'
+  - 'https://schwarzman.yale.edu/artist/abdullah-ibrahim'
+  - 'https://www.thekurlandagency.com/artist/abdullah-ibrahim/'
 network_extracted: true
 entry_created: '2025-11-14T10:55:59.509431'
 last_updated: '2025-12-23T08:16:04.368298'
@@ -161,9 +161,9 @@ disambiguation: South African pianist and composer
 gender: Male
 musicbrainz_id: fd64e185-9973-44d5-ad09-5d5562804292
 tags:
-- bebop
-- cape jazz
-- folk
+  - bebop
+  - cape jazz
+  - folk
 ---
 
 ![](abdullah_ibrahim.jpg)

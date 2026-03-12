@@ -5,25 +5,25 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1943-12-31'
-birth_place: Roswell
+birth_place: 'Roswell, New Mexico, United States'
 death_date: '1997-10-12'
 genres:
-- folk
+  - folk
 instruments:
-- guitar
-- 12 string guitar
-- electric guitar
-- acoustic guitar
-- background vocals
-- lead vocals
-- choir vocals
-- tenor vocals
+  - guitar
+  - 12 string guitar
+  - electric guitar
+  - acoustic guitar
+  - background vocals
+  - lead vocals
+  - choir vocals
+  - tenor vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 74304517-fb31-45b9-b3e9-16728fa66f7b
-  name: The Chad Mitchell Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 74304517-fb31-45b9-b3e9-16728fa66f7b
+    name: The Chad Mitchell Trio
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/john_denver.jpg
   caption: John Denver
@@ -46,56 +46,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Chad Mitchell Trio (later Denver, Boise & Johnson)
-  - Jerry Weintraub
-  - The Muppets (Jim Henson Productions)
+    - 'The Chad Mitchell Trio (later Denver, Boise & Johnson)'
+    - Jerry Weintraub
+    - The Muppets (Jim Henson Productions)
   influenced:
-  - John Berry
+    - John Berry
   mentors:
-  - Milt Okun
-  - Peter, Paul and Mary
+    - Milt Okun
+    - 'Peter, Paul and Mary'
 spotify_data:
   followers: 2600973
   id: 7EK1bQADBoqbYXnT4Cqv9w
   popularity: 70
-  url: https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w
+  url: 'https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w'
 discography_enriched: true
 top_tracks:
-- Take Me Home, Country Roads - Original Version (Poems, Prayers and Promises)
-- 'Take Me Home, Country Roads (The John Denver Collection, Vol 1: Take Me Home Country Roads)'
-- Annie's Song (Back Home Again)
-- Rocky Mountain High (Rocky Mountain High)
-- Thank God I'm a Country Boy (Back Home Again)
-- Leaving, On a Jet Plane - "Greatest Hits" Version
-- Sunshine On My Shoulders (Poems, Prayers and Promises)
-- Country Roads, Take Me Home - 2024 Mix
-- Back Home Again (Back Home Again)
-- Perhaps Love
+  - 'Take Me Home, Country Roads - Original Version (Poems, Prayers and Promises)'
+  - >-
+    Take Me Home, Country Roads (The John Denver Collection, Vol 1: Take Me Home
+    Country Roads)
+  - Annie's Song (Back Home Again)
+  - Rocky Mountain High (Rocky Mountain High)
+  - Thank God I'm a Country Boy (Back Home Again)
+  - 'Leaving, On a Jet Plane - "Greatest Hits" Version'
+  - 'Sunshine On My Shoulders (Poems, Prayers and Promises)'
+  - 'Country Roads, Take Me Home - 2024 Mix'
+  - Back Home Again (Back Home Again)
+  - Perhaps Love
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/34e10b51-b5c6-4bc1-b70e-f05f141eda1e
-  spotify: https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w
-  wikipedia: https://en.wikipedia.org/wiki/John_Denver
+  musicbrainz: 'https://musicbrainz.org/artist/34e10b51-b5c6-4bc1-b70e-f05f141eda1e'
+  spotify: 'https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w'
+  wikipedia: 'https://en.wikipedia.org/wiki/John_Denver'
 image_path: 03_Resources/source_material/ArtistPortraits/john_denver.jpg
 biography_enhanced_at: '2025-12-09T05:18:42.954787'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Official John Denver biography (johndenver.com)[1]
-- John Denver – Wikipedia[3]
-- Biography.com – John Denver profile[4]
-- Encyclopaedia Britannica – John Denver entry[5]
-- Songwriters Hall of Fame – John Denver profile[6]
-- Colorado Music Hall of Fame – John Denver profile[7]
-- Wind Repertory Project – John Denver[9]
+  - 'Official John Denver biography (johndenver.com)[1]'
+  - 'John Denver – Wikipedia[3]'
+  - 'Biography.com – John Denver profile[4]'
+  - 'Encyclopaedia Britannica – John Denver entry[5]'
+  - 'Songwriters Hall of Fame – John Denver profile[6]'
+  - 'Colorado Music Hall of Fame – John Denver profile[7]'
+  - 'Wind Repertory Project – John Denver[9]'
 network_extracted: true
 entry_created: '2025-12-09T05:18:42.954795'
 last_updated: '2025-12-23T08:16:10.731491'
 gender: Male
 musicbrainz_id: 34e10b51-b5c6-4bc1-b70e-f05f141eda1e
 tags:
-- american
-- country
-- country folk
+  - american
+  - country
+  - country folk
+is_active: false
+origin: 'Denver, Colorado, United States'
 ---
 
 ![](john_denver.jpg)

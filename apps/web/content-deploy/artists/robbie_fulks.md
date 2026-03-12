@@ -5,23 +5,23 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1963-03-25'
-birth_place: York
+birth_place: 'York, Pennsylvania, United States'
 genres:
-- alt country
-- americana
-- honky tonk
-- bluegrass
+  - alt country
+  - americana
+  - honky tonk
+  - bluegrass
 instruments:
-- guitar
-- electric guitar
-- lead vocals
-associated_acts:
-- begin: '1988'
-  end: '1990'
-  instruments:
   - guitar
-  mbid: 88ac0688-278a-42cf-bdd3-4c23427173fc
-  name: Special Consensus
+  - electric guitar
+  - lead vocals
+associated_acts:
+  - begin: '1988'
+    end: '1990'
+    instruments:
+      - guitar
+    mbid: 88ac0688-278a-42cf-bdd3-4c23427173fc
+    name: Special Consensus
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/robbie_fulks.jpg
   caption: Robbie Fulks
@@ -43,57 +43,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Steve Albini
-  - The Special Consensus Bluegrass Band
-  - Linda Gail Lewis
-  - The Mekons
-  - Rob Gjersoe, Lorne Rall, Dan Massey
+    - Steve Albini
+    - The Special Consensus Bluegrass Band
+    - Linda Gail Lewis
+    - The Mekons
+    - 'Rob Gjersoe, Lorne Rall, Dan Massey'
   influenced:
-  - Old 97s
-  - Hiss Golden Messenger
-  - Andrew Bird
+    - Old 97s
+    - Hiss Golden Messenger
+    - Andrew Bird
   mentors:
-  - Family (Aunt Stella, Aunt Mildred, Mother, Father)
+    - 'Family (Aunt Stella, Aunt Mildred, Mother, Father)'
 spotify_data:
   followers: 15856
   id: 0l5iOYpiSkQFYR3uPNoMDe
   popularity: 28
-  url: https://open.spotify.com/artist/0l5iOYpiSkQFYR3uPNoMDe
+  url: 'https://open.spotify.com/artist/0l5iOYpiSkQFYR3uPNoMDe'
 discography_enriched: true
 top_tracks:
-- Long I Ride (Gone Away Backward)
-- She Took A Lot Of Pills (And Died) (Country Love Songs)
-- I Just Lived a Country Song (Wild! Wild! Wild!)
-- Been All Around This World
-- The Buck Starts Here (Country Love Songs)
-- Fuck This Town (South Mouth)
-- Speed Of The Sound Of Loneliness (Lives Wisely)
-- Every Kind Of Music But Country (Country Love Songs)
-- Aunt Peg's New Old Man (Upland Stories)
-- Rock Bottom, Pop. 1 (Country Love Songs)
+  - Long I Ride (Gone Away Backward)
+  - She Took A Lot Of Pills (And Died) (Country Love Songs)
+  - I Just Lived a Country Song (Wild! Wild! Wild!)
+  - Been All Around This World
+  - The Buck Starts Here (Country Love Songs)
+  - Fuck This Town (South Mouth)
+  - Speed Of The Sound Of Loneliness (Lives Wisely)
+  - Every Kind Of Music But Country (Country Love Songs)
+  - Aunt Peg's New Old Man (Upland Stories)
+  - 'Rock Bottom, Pop. 1 (Country Love Songs)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/217f526c-f353-4d8b-8ba7-67fe0407f489
-  spotify: https://open.spotify.com/artist/0l5iOYpiSkQFYR3uPNoMDe
-  wikipedia: https://en.wikipedia.org/wiki/Robbie_Fulks
+  musicbrainz: 'https://musicbrainz.org/artist/217f526c-f353-4d8b-8ba7-67fe0407f489'
+  spotify: 'https://open.spotify.com/artist/0l5iOYpiSkQFYR3uPNoMDe'
+  wikipedia: 'https://en.wikipedia.org/wiki/Robbie_Fulks'
 image_path: 03_Resources/source_material/ArtistPortraits/robbie_fulks.jpg
 biography_enhanced_at: '2025-11-06T13:25:32.597677'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Robbie_Fulks
-- http://www.robbiefulks.com/bio
-- https://first-avenue.com/performer/robbie-fulks/
-- https://nataliesgrandview.com/events/robbie-folks/
+  - 'https://en.wikipedia.org/wiki/Robbie_Fulks'
+  - 'http://www.robbiefulks.com/bio'
+  - 'https://first-avenue.com/performer/robbie-fulks/'
+  - 'https://nataliesgrandview.com/events/robbie-folks/'
 network_extracted: true
 entry_created: '2025-11-06T13:25:32.597696'
 last_updated: '2025-12-23T08:16:14.876247'
 gender: Male
 musicbrainz_id: 217f526c-f353-4d8b-8ba7-67fe0407f489
 tags:
-- alternative country
-- bluegrass
-- neo-traditionalist country
-
+  - alternative country
+  - bluegrass
+  - neo-traditionalist country
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](robbie_fulks.jpg)

@@ -2,18 +2,18 @@
 title: The jacksons
 wiki_slug: the-jacksons
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 birth_date: '1966'
 genres:
-- disco
-- motown
-- philly soul
+  - disco
+  - motown
+  - philly soul
 instruments:
-- additional
-- lead vocals
-- original
-- electric guitar
+  - additional
+  - lead vocals
+  - original
+  - electric guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/The_jacksons.jpg
   caption: The jacksons
@@ -34,58 +34,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Gamble and Huff
-  - Hal Davis
-  - Michael Jackson
-  - Randy Jackson
+    - Gamble and Huff
+    - Hal Davis
+    - Michael Jackson
+    - Randy Jackson
   influenced:
-  - New Edition
-  - NSYNC
-  - Beyoncé
+    - New Edition
+    - NSYNC
+    - Beyoncé
   mentors:
-  - Joseph Jackson
-  - Berry Gordy
-  - The Corporation™
+    - Joseph Jackson
+    - Berry Gordy
+    - The Corporation™
 spotify_data:
   followers: 2098790
   id: 2yrbLiuBmc9j81lTX3XUuI
   popularity: 57
-  url: https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI
+  url: 'https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI'
 discography_enriched: true
 top_tracks:
-- Blame It on the Boogie (Destiny)
-- Can You Feel It (Triumph)
-- This Place Hotel (a.k.a. Heartbreak Hotel) (Triumph)
-- Shake Your Body (Down to the Ground) - 7" Version (Destiny (Expanded Version))
-- Shake Your Body (Down to the Ground) (Destiny)
-- Blame It on the Boogie
-- Can You Feel It - 7" Version
-- Can You Feel It - 7" Version (Triumph (Expanded Version))
-- Blame It on the Boogie
-- Shake Your Body (Down to the Ground) - Single Edit
+  - Blame It on the Boogie (Destiny)
+  - Can You Feel It (Triumph)
+  - This Place Hotel (a.k.a. Heartbreak Hotel) (Triumph)
+  - >-
+    Shake Your Body (Down to the Ground) - 7" Version (Destiny (Expanded
+    Version))
+  - Shake Your Body (Down to the Ground) (Destiny)
+  - Blame It on the Boogie
+  - Can You Feel It - 7" Version
+  - Can You Feel It - 7" Version (Triumph (Expanded Version))
+  - Blame It on the Boogie
+  - Shake Your Body (Down to the Ground) - Single Edit
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e5257dc5-1edd-4fca-b7e6-1158e00522c8
-  spotify: https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI
-  wikipedia: https://en.wikipedia.org/wiki/Jackson_family
+  musicbrainz: 'https://musicbrainz.org/artist/e5257dc5-1edd-4fca-b7e6-1158e00522c8'
+  spotify: 'https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jackson_family'
 image_path: 03_Resources/source_material/ArtistPortraits/The_jacksons.jpg
 biography_enhanced_at: '2025-10-20T10:34:58.556710'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://walkoffame.com/the-jacksons/
-- https://en.wikipedia.org/wiki/Jackson_family
-- https://www.last.fm/music/The+Jacksons/+wiki
+  - 'https://walkoffame.com/the-jacksons/'
+  - 'https://en.wikipedia.org/wiki/Jackson_family'
+  - 'https://www.last.fm/music/The+Jacksons/+wiki'
 network_extracted: true
 entry_created: '2025-10-20T10:34:58.556733'
 last_updated: '2025-12-23T08:16:04.148936'
 disambiguation: formerly “The Jackson 5”
 musicbrainz_enriched_at: '2025-10-21T09:46:42.776083'
 musicbrainz_id: e5257dc5-1edd-4fca-b7e6-1158e00522c8
-origin: Gary, Indiana, United States
+origin: 'Gary, Indiana, United States'
 tags:
-- bubblegum pop
-- funk
-- pop
+  - bubblegum pop
+  - funk
+  - pop
+birth_place: Gary
 ---
 
 ![](The_jacksons.jpg)

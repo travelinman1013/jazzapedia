@@ -1,24 +1,24 @@
 ---
-title: BUCKWHEAT ZYDECO
+title: Buckwheat Zydeco
 wiki_slug: buckwheat-zydeco
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1947-11-14'
-birth_place: Lafayette
+birth_place: 'Lafayette, Louisiana, United States'
 death_date: '2016-09-24'
 genres:
-- zydeco
-- cajun
+  - zydeco
+  - cajun
 instruments:
-- piano
-- background vocals
+  - piano
+  - background vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8e555372-a595-42bb-80af-516b50d4abef
-  name: Buckwheat Zydeco & Ils Sont Partis Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8e555372-a595-42bb-80af-516b50d4abef
+    name: Buckwheat Zydeco & Ils Sont Partis Band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/buckwheat_zydeco.jpg
   caption: BUCKWHEAT ZYDECO
@@ -41,57 +41,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ted Fox
-  - Eric Clapton
-  - U2
-  - Robert Plant
-  - The Boston Pops
+    - Ted Fox
+    - Eric Clapton
+    - U2
+    - Robert Plant
+    - The Boston Pops
   influenced:
-  - Contemporary Zydeco Artists
+    - Contemporary Zydeco Artists
   mentors:
-  - Clifton Chenier
+    - Clifton Chenier
 spotify_data:
   followers: 21355
   id: 31ioFU3ADV6npBP7ykNvtF
   popularity: 27
-  url: https://open.spotify.com/artist/31ioFU3ADV6npBP7ykNvtF
+  url: 'https://open.spotify.com/artist/31ioFU3ADV6npBP7ykNvtF'
 discography_enriched: true
 top_tracks:
-- Tee Nah Nah (Waitin' For My Ya Ya)
-- On A Night Like This (On A Night Like This)
-- Ya Ya (Waitin' For My Ya Ya)
-- Ma Tit Fille (On A Night Like This)
-- Beast Of Burden (Where There's Smoke There's Fire)
-- 'Crawfish Song (Choo Choo Boogaloo: Zydeco Music For Families)'
-- Hot Tamale Baby (On A Night Like This)
-- Throw Me Something, Mister (Lay Your Burden Down)
-- Hey Good Lookin' (Where There's Smoke There's Fire)
-- Walkin' To New Orleans (Waitin' For My Ya Ya)
+  - Tee Nah Nah (Waitin' For My Ya Ya)
+  - On A Night Like This (On A Night Like This)
+  - Ya Ya (Waitin' For My Ya Ya)
+  - Ma Tit Fille (On A Night Like This)
+  - Beast Of Burden (Where There's Smoke There's Fire)
+  - 'Crawfish Song (Choo Choo Boogaloo: Zydeco Music For Families)'
+  - Hot Tamale Baby (On A Night Like This)
+  - 'Throw Me Something, Mister (Lay Your Burden Down)'
+  - Hey Good Lookin' (Where There's Smoke There's Fire)
+  - Walkin' To New Orleans (Waitin' For My Ya Ya)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ca2b920b-702a-4c4a-9e22-a07e052b4fd8
-  spotify: https://open.spotify.com/artist/31ioFU3ADV6npBP7ykNvtF
-  wikipedia: https://en.wikipedia.org/wiki/Buckwheat_Zydeco
+  musicbrainz: 'https://musicbrainz.org/artist/ca2b920b-702a-4c4a-9e22-a07e052b4fd8'
+  spotify: 'https://open.spotify.com/artist/31ioFU3ADV6npBP7ykNvtF'
+  wikipedia: 'https://en.wikipedia.org/wiki/Buckwheat_Zydeco'
 image_path: 03_Resources/source_material/ArtistPortraits/buckwheat_zydeco.jpg
 biography_enhanced_at: '2025-11-20T07:20:10.627359'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.alligator.com/artists/Buckwheat-Zydeco/
-- https://www.allaboutjazz.com/musicians/buckwheat-zydeco/
-- https://www.namm.org/library/oral-history/buckwheat-zydeco
-- https://64parishes.org/entry/buckwheat-zydeco
-- https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/dural.htm.html
-- https://www.whereyat.com/buckwheat-zydeco
-- https://robertdoerschuk.substack.com/p/buckwheat-zydeco
+  - 'https://www.alligator.com/artists/Buckwheat-Zydeco/'
+  - 'https://www.allaboutjazz.com/musicians/buckwheat-zydeco/'
+  - 'https://www.namm.org/library/oral-history/buckwheat-zydeco'
+  - 'https://64parishes.org/entry/buckwheat-zydeco'
+  - >-
+    https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/dural.htm.html
+  - 'https://www.whereyat.com/buckwheat-zydeco'
+  - 'https://robertdoerschuk.substack.com/p/buckwheat-zydeco'
 network_extracted: true
 entry_created: '2025-11-20T07:20:10.627376'
 last_updated: '2025-12-23T08:16:06.176856'
 gender: Male
 musicbrainz_id: ca2b920b-702a-4c4a-9e22-a07e052b4fd8
 tags:
-- country
-- rhythm and blues
-- zydeco
+  - country
+  - rhythm and blues
+  - zydeco
+is_active: false
 ---
 
 ![](buckwheat_zydeco.jpg)

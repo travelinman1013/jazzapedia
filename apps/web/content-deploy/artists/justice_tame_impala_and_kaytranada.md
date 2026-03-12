@@ -1,12 +1,13 @@
 ---
-title: Justice, Tame Impala & KAYTRANADA
+title: 'Justice, Tame Impala & KAYTRANADA'
 wiki_slug: justice-tame-impala-kaytranada
 schema_version: 2
 status: active
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/justice_tame_impala_and_kaytranada.jpg
-  caption: Justice, Tame Impala & KAYTRANADA
+  image: >-
+    03_Resources/source_material/ArtistPortraits/justice_tame_impala_and_kaytranada.jpg
+  caption: 'Justice, Tame Impala & KAYTRANADA'
   background: solo_singer
 audio_profile:
   tempo_avg: 110.9
@@ -23,47 +24,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tame Impala (Kevin Parker)
-  - KAYTRANADA
-  - Justine Skye
-  - FLO
+    - Tame Impala (Kevin Parker)
+    - KAYTRANADA
+    - Justine Skye
+    - FLO
   influenced:
-  - Contemporary Electronic Artists
+    - Contemporary Electronic Artists
   mentors:
-  - French Touch Movement (1996-2003)
+    - French Touch Movement (1996-2003)
 spotify_data:
   followers: 1843175
   id: 6qgnBH6iDM91ipVXv28OMu
   popularity: 72
-  url: https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu
+  url: 'https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu'
 discography_enriched: true
 top_tracks:
-- Intimidated (feat. H.E.R.)
-- YOU'RE THE ONE (99.9%)
-- Witchy (feat. Childish Gambino) (TIMELESS)
-- 10% (feat. Kali Uchis) (BUBBA)
-- Snap My Finger (feat. PinkPantheress) (TIMELESS)
-- What You Need (feat. Charlotte Day Wilson) (BUBBA)
-- Feel A Way (feat. Don Toliver) (TIMELESS)
-- Girl (feat. KAYTRANADA) (Ego Death)
-- CHANCES
-- Vex Oh feat. GoldLink & Ari PenSmith (BUBBA)
+  - Intimidated (feat. H.E.R.)
+  - YOU'RE THE ONE (99.9%)
+  - Witchy (feat. Childish Gambino) (TIMELESS)
+  - 10% (feat. Kali Uchis) (BUBBA)
+  - Snap My Finger (feat. PinkPantheress) (TIMELESS)
+  - What You Need (feat. Charlotte Day Wilson) (BUBBA)
+  - Feel A Way (feat. Don Toliver) (TIMELESS)
+  - Girl (feat. KAYTRANADA) (Ego Death)
+  - CHANCES
+  - Vex Oh feat. GoldLink & Ari PenSmith (BUBBA)
 external_urls:
-  spotify: https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu
+  spotify: 'https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu'
   wikipedia: Not provided in search results
-image_path: 03_Resources/source_material/ArtistPortraits/justice_tame_impala_and_kaytranada.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/justice_tame_impala_and_kaytranada.jpg
 biography_enhanced_at: '2025-11-26T07:39:38.820689'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- setlist.fm - Kaytranada & Justice Announce Joint Tour
-- 'YouTube - Mix with the Masters: Behind the Track ''Neverender'' by Justice & Tame Impala'
-- mix103.com - Kaytranada And Justice Set To Launch Co-Headlining North America Arena Tour
-- ksdtradio.com - KAYTRANADA x Justice Deliver At Viejas Arena
-- phoenixnewtimes.com - Kaytranada and Justice tour with October Phoenix stop
+  - setlist.fm - Kaytranada & Justice Announce Joint Tour
+  - >-
+    YouTube - Mix with the Masters: Behind the Track 'Neverender' by Justice &
+    Tame Impala
+  - >-
+    mix103.com - Kaytranada And Justice Set To Launch Co-Headlining North
+    America Arena Tour
+  - ksdtradio.com - KAYTRANADA x Justice Deliver At Viejas Arena
+  - phoenixnewtimes.com - Kaytranada and Justice tour with October Phoenix stop
 network_extracted: true
 entry_created: '2025-11-26T07:39:38.820696'
 last_updated: '2025-12-23T08:16:11.121152'
+birth_place: 'Montreal, Quebec, Canada'
+origin: >-
+  Justice: Paris, France (band origin); KAYTRANADA: Montreal, Quebec, Canada
+  (artist origin); Tame Impala: Perth, Western Australia, Australia (project
+  origin)
+artist_type: person
 ---
 
 ![](justice_tame_impala_and_kaytranada.jpg)

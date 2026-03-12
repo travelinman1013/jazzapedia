@@ -3,16 +3,20 @@ title: Kenny Neal
 wiki_slug: kenny-neal
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States (birthplace); Baton Rouge, Louisiana, United States (primary base)
+birth_place: >-
+  New Orleans, Louisiana, United States (birthplace); Baton Rouge, Louisiana,
+  United States (primary base)
 genres:
-- blues
-- modern blues
-- blues rock
+  - blues
+  - modern blues
+  - blues rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/kenny_neal.jpg
   caption: Kenny Neal
   background: solo_singer
-  origin: New Orleans, Louisiana, United States (birthplace); Baton Rouge, Louisiana, United States (primary base)
+  origin: >-
+    New Orleans, Louisiana, United States (birthplace); Baton Rouge, Louisiana,
+    United States (primary base)
 audio_profile:
   tempo_avg: 126.4
   energy_avg: 0.595
@@ -28,53 +32,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Downchild Blues Band
-  - Lucky Peterson
-  - Tab Benoit
-  - Debbie Davies
-  - Tom Hambridge
+    - Downchild Blues Band
+    - Lucky Peterson
+    - Tab Benoit
+    - Debbie Davies
+    - Tom Hambridge
   influenced: []
   mentors:
-  - Raful Neal
-  - Slim Harpo
-  - Buddy Guy
-  - Lazy Lester
+    - Raful Neal
+    - Slim Harpo
+    - Buddy Guy
+    - Lazy Lester
 spotify_data:
   followers: 15688
   id: 2YNoaobWamjDPop3nk9xMQ
   popularity: 28
-  url: https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ
+  url: 'https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ'
 discography_enriched: true
 top_tracks:
-- Devil's In The Delta
-- Any Fool Will Do (Devil Child)
-- I Put a Spell on You
-- Mount up on the Wings of the King (Straight from the Heart)
-- Blues Keep Chasing Me (Straight from the Heart)
-- Look But Don't Touch (Walking On Fire)
-- I'm A Blues Man (Hoodoo Moon)
-- Old Friends (Hooked On Your Love)
-- I Go by Feel (Bloodline)
-- Hoodoo Moon (Hoodoo Moon)
+  - Devil's In The Delta
+  - Any Fool Will Do (Devil Child)
+  - I Put a Spell on You
+  - Mount up on the Wings of the King (Straight from the Heart)
+  - Blues Keep Chasing Me (Straight from the Heart)
+  - Look But Don't Touch (Walking On Fire)
+  - I'm A Blues Man (Hoodoo Moon)
+  - Old Friends (Hooked On Your Love)
+  - I Go by Feel (Bloodline)
+  - Hoodoo Moon (Hoodoo Moon)
 external_urls:
-  spotify: https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ
-  wikipedia: https://en.wikipedia.org/wiki/Kenny_Neal
+  spotify: 'https://open.spotify.com/artist/2YNoaobWamjDPop3nk9xMQ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kenny_Neal'
 image_path: 03_Resources/source_material/ArtistPortraits/kenny_neal.jpg
 biography_enhanced_at: '2025-11-29T06:53:06.696923'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Kenny Neal
-- Concord Records - Kenny Neal Artist Page
-- Ruf Records - Kenny Neal
-- 64 Parishes - Kenny Neal
-- Alligator Records - Kenny Neal
-- Kenny Neal Official Website
-- WWNO American Routes - Kenny Neal
-- Big Blues Bender - Kenny Neal
+  - Wikipedia - Kenny Neal
+  - Concord Records - Kenny Neal Artist Page
+  - Ruf Records - Kenny Neal
+  - 64 Parishes - Kenny Neal
+  - Alligator Records - Kenny Neal
+  - Kenny Neal Official Website
+  - WWNO American Routes - Kenny Neal
+  - Big Blues Bender - Kenny Neal
 network_extracted: true
 entry_created: '2025-11-29T06:53:06.696935'
 last_updated: '2025-12-23T08:16:11.329474'
+origin: 'Baton Rouge, Louisiana, United States'
+birth_date: '1957-10-14'
+artist_type: person
 ---
 
 ![](kenny_neal.jpg)

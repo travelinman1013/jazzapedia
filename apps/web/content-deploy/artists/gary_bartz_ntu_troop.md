@@ -2,10 +2,10 @@
 title: Gary Bartz Ntu Troop
 wiki_slug: gary-bartz-ntu-troop
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- jazz funk
+  - jazz funk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/gary_bartz_ntu_troop.jpg
   caption: Gary Bartz Ntu Troop
@@ -25,73 +25,81 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Hubert Eaves
-  - John Lee
-  - Howard King
-  - Andy Bey
-  - Mizell Brothers (Larry and Fonce Mizell)
-  - Session musicians such as Wah Wah Watson, David T. Walker, James Gadson, Bill Summers, James Mtume, Eddie Henderson, and
-    Syreeta Wright
+    - Hubert Eaves
+    - John Lee
+    - Howard King
+    - Andy Bey
+    - Mizell Brothers (Larry and Fonce Mizell)
+    - >-
+      Session musicians such as Wah Wah Watson, David T. Walker, James Gadson,
+      Bill Summers, James Mtume, Eddie Henderson, and Syreeta Wright
   influenced:
-  - A Tribe Called Quest
-  - Hip‑hop producers and DJs
-  - Contemporary spiritual jazz and jazz‑funk artists
+    - A Tribe Called Quest
+    - Hip‑hop producers and DJs
+    - Contemporary spiritual jazz and jazz‑funk artists
   mentors:
-  - Charles Mingus
-  - Max Roach
-  - Art Blakey
-  - McCoy Tyner
-  - Miles Davis
+    - Charles Mingus
+    - Max Roach
+    - Art Blakey
+    - McCoy Tyner
+    - Miles Davis
 spotify_data:
   followers: 5961
   id: 1vaNGxPiwE1mrIZvU7fOSN
   popularity: 22
-  url: https://open.spotify.com/artist/1vaNGxPiwE1mrIZvU7fOSN
+  url: 'https://open.spotify.com/artist/1vaNGxPiwE1mrIZvU7fOSN'
 discography_enriched: true
 top_tracks:
-- Celestial Blues (Harlem Bush Music - Uhuru)
-- Uhuru Sasa (Harlem Bush Music - Uhuru)
-- Blue (A Folk Tale) (Harlem Bush Music - Uhuru)
-- Nation Time - Live, Bremen (Live In Bremen 1975)
-- Vietcong (Harlem Bush Music - Uhuru)
-- The Planets (Harlem Bush Music - Uhuru)
-- I've Known Rivers - Live, Bremen (Live In Bremen 1975)
-- Ju Ju Man - Live, Bremen (Live In Bremen 1975)
-- 'Medley: Rise / Celestial Blues / The Sounding Song / Incident / Uhuru Sasa - Live, Bremen (Live In Bremen 1975)'
-- 'Celestial Blues (Soul Jazz Records Presents SOUL OF A NATION: Jazz is the Teacher, Funk Is the Preacher: Afro-Centric Jazz,
-  Street Funk and the Roots of Rap in the Black Power Era, 1969-75)'
+  - Celestial Blues (Harlem Bush Music - Uhuru)
+  - Uhuru Sasa (Harlem Bush Music - Uhuru)
+  - Blue (A Folk Tale) (Harlem Bush Music - Uhuru)
+  - 'Nation Time - Live, Bremen (Live In Bremen 1975)'
+  - Vietcong (Harlem Bush Music - Uhuru)
+  - The Planets (Harlem Bush Music - Uhuru)
+  - 'I''ve Known Rivers - Live, Bremen (Live In Bremen 1975)'
+  - 'Ju Ju Man - Live, Bremen (Live In Bremen 1975)'
+  - >-
+    Medley: Rise / Celestial Blues / The Sounding Song / Incident / Uhuru Sasa -
+    Live, Bremen (Live In Bremen 1975)
+  - >-
+    Celestial Blues (Soul Jazz Records Presents SOUL OF A NATION: Jazz is the
+    Teacher, Funk Is the Preacher: Afro-Centric Jazz, Street Funk and the Roots
+    of Rap in the Black Power Era, 1969-75)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/58b35c1e-19a0-4a30-95d9-a5d82a29d67f
-  spotify: https://open.spotify.com/artist/1vaNGxPiwE1mrIZvU7fOSN
-  wikipedia: https://en.wikipedia.org/wiki/Gary_Bartz
+  musicbrainz: 'https://musicbrainz.org/artist/58b35c1e-19a0-4a30-95d9-a5d82a29d67f'
+  spotify: 'https://open.spotify.com/artist/1vaNGxPiwE1mrIZvU7fOSN'
+  wikipedia: 'https://en.wikipedia.org/wiki/Gary_Bartz'
 image_path: 03_Resources/source_material/ArtistPortraits/gary_bartz_ntu_troop.jpg
 biography_enhanced_at: '2025-12-05T06:04:51.372956'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.bluenote.com/artist/gary-bartz/
-- https://jointzoftheday.substack.com/p/gary-bartz-born-september-26-1940-ntu-troop
-- https://www.arts.gov/honors/jazz/gary-bartz
-- https://www.capitalbop.com/gary-bartz-interview-library-of-congress/
-- https://en.wikipedia.org/wiki/Gary_Bartz
-- https://concord.com/artist/gary-bartz/
-- https://www.jazzempowers.org/gary-bartz
-- https://www.jazzisdead.com/garybartz
-- https://www.oberlin.edu/gary-bartz
-- https://www.redbullmusicacademy.com/lectures/gary-bartz-bonn-better-know/
+  - 'https://www.bluenote.com/artist/gary-bartz/'
+  - >-
+    https://jointzoftheday.substack.com/p/gary-bartz-born-september-26-1940-ntu-troop
+  - 'https://www.arts.gov/honors/jazz/gary-bartz'
+  - 'https://www.capitalbop.com/gary-bartz-interview-library-of-congress/'
+  - 'https://en.wikipedia.org/wiki/Gary_Bartz'
+  - 'https://concord.com/artist/gary-bartz/'
+  - 'https://www.jazzempowers.org/gary-bartz'
+  - 'https://www.jazzisdead.com/garybartz'
+  - 'https://www.oberlin.edu/gary-bartz'
+  - 'https://www.redbullmusicacademy.com/lectures/gary-bartz-bonn-better-know/'
 network_extracted: true
 entry_created: '2025-12-05T06:04:51.372962'
 last_updated: '2025-12-23T08:16:09.011292'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 77493da4-d25b-4fa9-8ab7-bd73faf1c20e
-  name: Andy Bey
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 77493da4-d25b-4fa9-8ab7-bd73faf1c20e
+    name: Andy Bey
 musicbrainz_id: 58b35c1e-19a0-4a30-95d9-a5d82a29d67f
-origin: New York City-based project led by a Baltimore, Maryland, United States musician
+origin: >-
+  New York City-based project led by a Baltimore, Maryland, United States
+  musician
 tags:
-- jazz
+  - jazz
 ---
 
 ![](gary_bartz_ntu_troop.jpg)

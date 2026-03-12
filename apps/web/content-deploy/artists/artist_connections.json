@@ -57099,5 +57099,201 @@
     "influenced": [],
     "updated": "2026-03-11T01:55:54.614194",
     "source": "perplexity_research"
+  },
+  "Chano Dominguez": {
+    "mentors": [
+      "Paco de Lucía",
+      "Bill Evans",
+      "Thelonious Monk"
+    ],
+    "collaborators": [
+      "Martirio",
+      "Paquito D’Rivera",
+      "Wynton Marsalis",
+      "Javier Colina",
+      "Horacio Fumero",
+      "David Xirgu"
+    ],
+    "influenced": [],
+    "updated": "2026-03-12T01:03:20.333990",
+    "source": "perplexity_research"
+  },
+  "Paul Desmond Quartet": {
+    "mentors": [
+      "Lee Konitz"
+    ],
+    "collaborators": [
+      "Dave Brubeck",
+      "Eugene Wright",
+      "Joe Morello",
+      "Jack Fina",
+      "Alvino Rey"
+    ],
+    "influenced": [],
+    "updated": "2026-03-12T01:03:36.734213",
+    "source": "perplexity_research"
+  },
+  "Jan Garbarek": {
+    "mentors": [
+      "George Russell",
+      "John Coltrane"
+    ],
+    "collaborators": [
+      "Keith Jarrett",
+      "Ralph Towner",
+      "Eberhard Weber",
+      "Hilliard Ensemble",
+      "Gary Peacock"
+    ],
+    "influenced": [
+      "Anja Garbarek"
+    ],
+    "updated": "2026-03-12T01:03:59.221342",
+    "source": "perplexity_research"
+  },
+  "Walter Smith III": {
+    "mentors": [
+      "Roy Haynes",
+      "Bill Pierce",
+      "George Garzone",
+      "Terence Blanchard"
+    ],
+    "collaborators": [
+      "Eric Harland",
+      "Jason Moran",
+      "Ambrose Akinmusire",
+      "Terence Blanchard",
+      "Reuben Rogers"
+    ],
+    "influenced": [
+      "Berklee Woodwinds Students"
+    ],
+    "updated": "2026-03-12T01:04:21.650819",
+    "source": "perplexity_research"
+  },
+  "Orrin Evans": {
+    "mentors": [
+      "Kenny Barron",
+      "Shirley Scott",
+      "Trudy Pitts",
+      "Sid Simmons",
+      "Mickey Roker",
+      "Bobby Watson",
+      "Ralph Peterson"
+    ],
+    "collaborators": [
+      "Vicente Archer",
+      "Bill Stewart",
+      "Immanuel Wilkins",
+      "Eric Revis",
+      "Nasheet Waits",
+      "Kevin Eubanks",
+      "Luques Curtis",
+      "Mark Whitfield Jr.",
+      "The Bad Plus",
+      "Captain Black Big Band"
+    ],
+    "influenced": [
+      "Immanuel Wilkins",
+      "Brandon Goldberg"
+    ],
+    "updated": "2026-03-12T01:04:47.221544",
+    "source": "perplexity_research"
+  },
+  "Patricia Barber": {
+    "mentors": [
+      "Floyd 'Shim' Barber"
+    ],
+    "collaborators": [
+      "Jim Winterfoerder"
+    ],
+    "influenced": [],
+    "updated": "2026-03-12T01:05:05.282735",
+    "source": "perplexity_research"
+  },
+  "SHARKEY BONANO": {
+    "mentors": [
+      "Buddie Petit",
+      "Joe Oliver",
+      "Sam Morgan"
+    ],
+    "collaborators": [
+      "Santo Pecora",
+      "Thurman Teague",
+      "Leon Prima",
+      "Louis Prima",
+      "Jimmy Durante",
+      "Bix Beiderbecke",
+      "Frankie Trumbauer"
+    ],
+    "influenced": [],
+    "updated": "2026-03-12T01:05:24.266799",
+    "source": "perplexity_research"
+  },
+  "NEW ORLEANS OWLS": {
+    "mentors": [],
+    "collaborators": [
+      "Benjie White",
+      "Bill Padron",
+      "Frank Netto",
+      "Nappy Lamare",
+      "Pinky Vidacovich",
+      "Moses Farrar",
+      "Dan LeBlanc"
+    ],
+    "influenced": [],
+    "updated": "2026-03-12T01:05:41.221897",
+    "source": "perplexity_research"
+  },
+  "miles davis/gil evans": {
+    "mentors": [
+      "George Avakian",
+      "Gunther Schuller"
+    ],
+    "collaborators": [
+      "Miles Davis Nonet",
+      "George Avakian",
+      "Teo Macero",
+      "Warren Smith"
+    ],
+    "influenced": [
+      "Third Stream Movement musicians"
+    ],
+    "updated": "2026-03-12T01:06:03.432645",
+    "source": "perplexity_research"
+  },
+  "Texas Tornados": {
+    "mentors": [
+      "Santiago Jiménez Sr."
+    ],
+    "collaborators": [
+      "Doug Sahm",
+      "Augie Meyers",
+      "Flaco Jiménez",
+      "Freddy Fender",
+      "Shawn Sahm"
+    ],
+    "influenced": [
+      "Los Lonely Boys"
+    ],
+    "updated": "2026-03-12T01:06:25.781487",
+    "source": "perplexity_research"
+  },
+  "Doug Sahm and Band": {
+    "mentors": [
+      "Charlie Fitch"
+    ],
+    "collaborators": [
+      "Augie Meyers",
+      "Flaco Jiménez",
+      "Freddy Fender",
+      "Bob Dylan",
+      "Shawn Sahm and Shandon Sahm"
+    ],
+    "influenced": [
+      "Ed Burleson"
+    ],
+    "updated": "2026-03-12T01:06:42.075437",
+    "source": "perplexity_research"
   }
 }

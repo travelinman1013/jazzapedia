@@ -5,50 +5,50 @@ schema_version: 2
 status: deceased
 birth_name: David Robert Jones
 also_known_as:
-- David Bowie
-- Thin White Duke
-- Ziggy Stardust
-- Aladdin Sane
+  - David Bowie
+  - Thin White Duke
+  - Ziggy Stardust
+  - Aladdin Sane
 aliases:
-- David Bowie
-- Thin White Duke
-- Ziggy Stardust
-- Aladdin Sane
+  - David Bowie
+  - Thin White Duke
+  - Ziggy Stardust
+  - Aladdin Sane
 birth_date: '1947-01-08'
-birth_place: Brixton, London, England
+birth_place: 'Brixton, London, United Kingdom'
 death_date: '2016-01-10'
 years_active: 1962–2016
 genres:
-- glam rock
-- art rock
+  - glam rock
+  - art rock
 instruments:
-- saxophone
-- guitar
-- piano
-- voice
-- keyboard instrument
+  - saxophone
+  - guitar
+  - piano
+  - voice
+  - keyboard instrument
 occupation:
-- painter
-- singer-songwriter
-- guitarist
-- saxophonist
-- composer
+  - painter
+  - singer-songwriter
+  - guitarist
+  - saxophonist
+  - composer
 record_labels:
-- Iso (record label)
-- Columbia Records
-- Decca
-- Deram
-- EMI
+  - Iso (record label)
+  - Columbia Records
+  - Decca
+  - Deram
+  - EMI
 spouse:
-- Angela Bowie
-- Iman
+  - Angela Bowie
+  - Iman
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/David_Bowie.jpg
   caption: David Bowie
   background: solo_singer
   birth_name: David Robert Jones
   born: '1947-01-08'
-  origin: Brixton, London, England
+  origin: 'Brixton, London, England'
   died: '2016-01-10'
 audio_profile:
   tempo_avg: 115.6
@@ -65,59 +65,68 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mick Ronson
-  - Brian Eno
-  - John Lennon
-  - Carlos Alomar
-  - Tony Visconti
-  - Queen
+    - Mick Ronson
+    - Brian Eno
+    - John Lennon
+    - Carlos Alomar
+    - Tony Visconti
+    - Queen
   influenced:
-  - Lady Gaga
-  - Trent Reznor (Nine Inch Nails)
-  - Arcade Fire
-  - Madonna
+    - Lady Gaga
+    - Trent Reznor (Nine Inch Nails)
+    - Arcade Fire
+    - Madonna
   mentors:
-  - Terry Burns
-  - Little Richard
+    - Terry Burns
+    - Little Richard
 related_artists: []
 spotify_data:
   followers: 11680505
   id: 0oSGxfWSnnOXhD2fKuz2Gy
   popularity: 80
-  url: https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy
+  url: 'https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy'
   verified: false
 discography_enriched: true
 albums_count: 62
 singles_count: 54
 top_tracks:
-- Under Pressure - Remastered 2011 (Hot Space (2011 Remaster))
-- Starman - 2012 Remaster (The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster))
-- Heroes - 2017 Remaster ("Heroes" (2017 Remaster))
-- Under Pressure - Remastered 2011 (Hot Space (Deluxe Remastered Version))
-- Space Oddity - 2015 Remaster (David Bowie (aka Space Oddity) [2015 Remaster])
-- Let's Dance - 2018 Remaster (Let's Dance (2018 Remaster))
-- Rebel Rebel - 2016 Remaster (Diamond Dogs (2016 Remaster))
-- Modern Love - 2018 Remaster (Let's Dance (2018 Remaster))
-- Moonage Daydream - 2012 Remaster (The Rise and Fall of Ziggy Stardust and the Spiders from Mars (2012 Remaster))
-- Life on Mars? - 2015 Remaster (Hunky Dory (2015 Remaster))
+  - Under Pressure - Remastered 2011 (Hot Space (2011 Remaster))
+  - >-
+    Starman - 2012 Remaster (The Rise and Fall of Ziggy Stardust and the Spiders
+    from Mars (2012 Remaster))
+  - Heroes - 2017 Remaster ("Heroes" (2017 Remaster))
+  - Under Pressure - Remastered 2011 (Hot Space (Deluxe Remastered Version))
+  - >-
+    Space Oddity - 2015 Remaster (David Bowie (aka Space Oddity) [2015
+    Remaster])
+  - Let's Dance - 2018 Remaster (Let's Dance (2018 Remaster))
+  - Rebel Rebel - 2016 Remaster (Diamond Dogs (2016 Remaster))
+  - Modern Love - 2018 Remaster (Let's Dance (2018 Remaster))
+  - >-
+    Moonage Daydream - 2012 Remaster (The Rise and Fall of Ziggy Stardust and
+    the Spiders from Mars (2012 Remaster))
+  - Life on Mars? - 2015 Remaster (Hunky Dory (2015 Remaster))
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy
-  wikipedia: https://en.wikipedia.org/wiki/David_Bowie
+  spotify: 'https://open.spotify.com/artist/0oSGxfWSnnOXhD2fKuz2Gy'
+  wikipedia: 'https://en.wikipedia.org/wiki/David_Bowie'
 image_path: 03_Resources/source_material/ArtistPortraits/David_Bowie.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:24:12.226400'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/David_Bowie
-- https://musicdatablog.com.ar/en/timeline/david-bowie-history-timeline-1964-1979/
-- https://faroutmagazine.co.uk/david-bowie-life-timeline/
-- https://www.davidbowieworld.nl/david-bowie-biography-2/
+  - 'https://en.wikipedia.org/wiki/David_Bowie'
+  - >-
+    https://musicdatablog.com.ar/en/timeline/david-bowie-history-timeline-1964-1979/
+  - 'https://faroutmagazine.co.uk/david-bowie-life-timeline/'
+  - 'https://www.davidbowieworld.nl/david-bowie-biography-2/'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:41:27.068895
+entry_created: 2025-09-22T21:41:27.068Z
 last_updated: '2025-12-23T08:16:01.686120'
+is_active: false
+artist_type: person
 ---
 
 ![](David_Bowie.jpg)

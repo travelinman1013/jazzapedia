@@ -3,15 +3,15 @@ title: Belton Richard
 wiki_slug: belton-richard
 schema_version: 2
 status: active
-birth_place: Rayne, Louisiana, United States
+birth_place: 'Rayne, Louisiana, United States'
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/belton_richard.jpg
   caption: Belton Richard
   background: solo_singer
-  origin: Rayne, Louisiana, United States
+  origin: 'Rayne, Louisiana, United States'
 audio_profile:
   tempo_avg: 125.1
   energy_avg: 0.529
@@ -27,46 +27,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Musical Aces
-  - Floyd Soileau
+    - The Musical Aces
+    - Floyd Soileau
   influenced:
-  - Contemporary Cajun Musicians
+    - Contemporary Cajun Musicians
   mentors:
-  - Richard's Father
+    - Richard's Father
 spotify_data:
   followers: 2324
   id: 2m15lUMs1PkjiIcQ3V8LKE
   popularity: 16
-  url: https://open.spotify.com/artist/2m15lUMs1PkjiIcQ3V8LKE
+  url: 'https://open.spotify.com/artist/2m15lUMs1PkjiIcQ3V8LKE'
 discography_enriched: true
 top_tracks:
-- I Cried for You (J'ai Brailler Pour Toi) (Modern Sounds of Cajun Music, Vol. 2)
-- Weekend Special (Cajun Music Hits)
-- La jolie blonde (Modern Sounds of Cajun Music, Vol. 2)
-- Un autre soir d'ennui (Another Lonely Night) (Modern Sounds in Cajun Music, Vol. 1)
-- Give Me Another Chance (The Essential Collection)
-- Oh Lucille (Modern Sounds of Cajun Music, Vol. 2)
-- Bosco Stomp (Modern Sounds in Cajun Music, Vol. 1)
-- 'Another Lonely Night (J''ai Été Au Bal: I Went to the Dance, Vol. 2)'
-- Cajun Fugitive (Modern Sounds of Cajun Music, Vol. 2)
-- I Can't Stop Loving You (The Older the Wine, The Finer the Taste!)
+  - >-
+    I Cried for You (J'ai Brailler Pour Toi) (Modern Sounds of Cajun Music, Vol.
+    2)
+  - Weekend Special (Cajun Music Hits)
+  - 'La jolie blonde (Modern Sounds of Cajun Music, Vol. 2)'
+  - >-
+    Un autre soir d'ennui (Another Lonely Night) (Modern Sounds in Cajun Music,
+    Vol. 1)
+  - Give Me Another Chance (The Essential Collection)
+  - 'Oh Lucille (Modern Sounds of Cajun Music, Vol. 2)'
+  - 'Bosco Stomp (Modern Sounds in Cajun Music, Vol. 1)'
+  - 'Another Lonely Night (J''ai Été Au Bal: I Went to the Dance, Vol. 2)'
+  - 'Cajun Fugitive (Modern Sounds of Cajun Music, Vol. 2)'
+  - 'I Can''t Stop Loving You (The Older the Wine, The Finer the Taste!)'
 external_urls:
-  spotify: https://open.spotify.com/artist/2m15lUMs1PkjiIcQ3V8LKE
-  wikipedia: https://en.wikipedia.org/wiki/Belton_Richard
+  spotify: 'https://open.spotify.com/artist/2m15lUMs1PkjiIcQ3V8LKE'
+  wikipedia: 'https://en.wikipedia.org/wiki/Belton_Richard'
 image_path: 03_Resources/source_material/ArtistPortraits/belton_richard.jpg
 biography_enhanced_at: '2025-11-17T10:46:43.770665'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.shazam.com/artist/belton-richard/32590251
-- https://en.wikipedia.org/wiki/Belton_Richard
-- https://www.last.fm/music/Belton+Richard/+wiki
-- https://www.acadianmuseum.com/living-legend/belton-richard/
-- https://flattownmusic.com/artist/belton-richard/
-- https://worldmusiccentral.org/cajun-accordion-master-belton-richard-dies-at-77/
+  - 'https://www.shazam.com/artist/belton-richard/32590251'
+  - 'https://en.wikipedia.org/wiki/Belton_Richard'
+  - 'https://www.last.fm/music/Belton+Richard/+wiki'
+  - 'https://www.acadianmuseum.com/living-legend/belton-richard/'
+  - 'https://flattownmusic.com/artist/belton-richard/'
+  - >-
+    https://worldmusiccentral.org/cajun-accordion-master-belton-richard-dies-at-77/
 network_extracted: true
 entry_created: '2025-11-17T10:46:43.770675'
 last_updated: '2025-12-23T08:16:05.229969'
+origin: 'Rayne, Louisiana, United States'
+birth_date: '1939-10-05'
+death_date: '2017-06-21'
+artist_type: person
 ---
 
 ![](belton_richard.jpg)

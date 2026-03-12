@@ -2,19 +2,19 @@
 title: Portishead
 wiki_slug: portishead
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1991'
 genres:
-- trip hop
-- downtempo
+  - trip hop
+  - downtempo
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/portishead.jpg
   caption: Portishead
   background: group_or_band
   born: '1991'
 audio_profile:
-  tempo_avg: 112.0
+  tempo_avg: 112
   energy_avg: 0.525
   valence_avg: 0.253
   danceability_avg: 0.51
@@ -28,89 +28,89 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Beth Gibbons
-  - Adrian Utley
-  - Geoff Barrow
-  - Clive Deamer
+    - Beth Gibbons
+    - Adrian Utley
+    - Geoff Barrow
+    - Clive Deamer
   influenced:
-  - Tricky
-  - Morcheeba
-  - FKA twigs
+    - Tricky
+    - Morcheeba
+    - FKA twigs
   mentors:
-  - Massive Attack
-  - Neneh Cherry
+    - Massive Attack
+    - Neneh Cherry
 spotify_data:
   followers: 2358056
   id: 6liAMWkVf5LH7YR9yfFy1Y
   popularity: 66
-  url: https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y
+  url: 'https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y'
 discography_enriched: true
 top_tracks:
-- Glory Box (Dummy)
-- Sour Times (Dummy)
-- Roads (Dummy)
-- Wandering Star (Dummy)
-- The Rip (Third)
-- All Mine (Portishead)
-- Glory Box - Live (Roseland NYC Live)
-- Mysterons (Dummy)
-- It Could Be Sweet (Dummy)
-- Numb (Dummy)
+  - Glory Box (Dummy)
+  - Sour Times (Dummy)
+  - Roads (Dummy)
+  - Wandering Star (Dummy)
+  - The Rip (Third)
+  - All Mine (Portishead)
+  - Glory Box - Live (Roseland NYC Live)
+  - Mysterons (Dummy)
+  - It Could Be Sweet (Dummy)
+  - Numb (Dummy)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8f6bd1e4-fbe1-4f50-aa9b-94c450ec0f11
-  spotify: https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y
-  wikipedia: https://en.wikipedia.org/wiki/Portishead_(band)
+  musicbrainz: 'https://musicbrainz.org/artist/8f6bd1e4-fbe1-4f50-aa9b-94c450ec0f11'
+  spotify: 'https://open.spotify.com/artist/6liAMWkVf5LH7YR9yfFy1Y'
+  wikipedia: 'https://en.wikipedia.org/wiki/Portishead_(band)'
 image_path: 03_Resources/source_material/ArtistPortraits/portishead.jpg
 biography_enhanced_at: '2025-11-26T07:43:55.668166'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Portishead/+wiki
-- https://www.britannica.com/topic/Portishead-British-music-group
-- https://www.infoplease.com/biographies/art-entertainment/portishead
-- https://www.udiscovermusic.com/artist/portishead/
+  - 'https://www.last.fm/music/Portishead/+wiki'
+  - 'https://www.britannica.com/topic/Portishead-British-music-group'
+  - 'https://www.infoplease.com/biographies/art-entertainment/portishead'
+  - 'https://www.udiscovermusic.com/artist/portishead/'
 network_extracted: true
 entry_created: '2025-11-26T07:43:55.668180'
 last_updated: '2025-12-23T08:16:14.418371'
 members:
-- &id001
-  begin: '1991'
-  end: ''
-  instruments: []
-  mbid: 5082a11f-7203-4ff3-ae04-2a0150d3bbb6
-  name: Geoff Barrow
-- &id002
-  begin: '1991'
-  end: ''
-  instruments: []
-  mbid: 5adcb9d9-5ea2-428d-af46-ef626966e106
-  name: Beth Gibbons
-- &id003
-  begin: '1991'
-  end: ''
-  instruments: []
-  mbid: 619b1116-740e-42e0-bdfe-96af274f79f7
-  name: Adrian Utley
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d576e6be-03d1-489c-8c3e-692c6fbfb7ca
-  name: Clive Deamer
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0944a9f5-65be-44b6-9e8e-33732fdfe923
-  name: Dave McDonald
+  - &ref_0
+    begin: '1991'
+    end: ''
+    instruments: []
+    mbid: 5082a11f-7203-4ff3-ae04-2a0150d3bbb6
+    name: Geoff Barrow
+  - &ref_1
+    begin: '1991'
+    end: ''
+    instruments: []
+    mbid: 5adcb9d9-5ea2-428d-af46-ef626966e106
+    name: Beth Gibbons
+  - &ref_2
+    begin: '1991'
+    end: ''
+    instruments: []
+    mbid: 619b1116-740e-42e0-bdfe-96af274f79f7
+    name: Adrian Utley
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d576e6be-03d1-489c-8c3e-692c6fbfb7ca
+    name: Clive Deamer
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0944a9f5-65be-44b6-9e8e-33732fdfe923
+    name: Dave McDonald
 musicbrainz_id: 8f6bd1e4-fbe1-4f50-aa9b-94c450ec0f11
-origin: Bristol
+origin: 'Bristol, England, United Kingdom'
 original_members:
-- *id001
-- *id002
-- *id003
+  - *ref_0
+  - *ref_1
+  - *ref_2
 tags:
-- acid jazz
-- alternative rock
-- british
+  - acid jazz
+  - alternative rock
+  - british
 ---
 
 ![](portishead.jpg)

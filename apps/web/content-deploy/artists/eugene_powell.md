@@ -1,18 +1,18 @@
 ---
-title: EUGENE POWELL
+title: Eugene Powell
 wiki_slug: eugene-powell
 schema_version: 2
 status: active
-birth_place: Utica, Hinds County, Mississippi, USA
+birth_place: 'Utica, Hinds County, Mississippi, USA'
 genres:
-- country blues
-- blues
-- ragtime
+  - country blues
+  - blues
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/eugene_powell.jpg
   caption: EUGENE POWELL
   background: solo_singer
-  origin: Utica, Hinds County, Mississippi, USA
+  origin: 'Utica, Hinds County, Mississippi, USA'
 audio_profile:
   tempo_avg: 107.1
   energy_avg: 0.305
@@ -28,52 +28,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bo Carter
-  - Mississippi Matilda
-  - Robert Hill
-  - Lonnie Chatmon
-  - Sam Chatmon
-  - Walter Vinson
-  - Brother Willie Harris
+    - Bo Carter
+    - Mississippi Matilda
+    - Robert Hill
+    - Lonnie Chatmon
+    - Sam Chatmon
+    - Walter Vinson
+    - Brother Willie Harris
   influenced: []
   mentors:
-  - Richard “Hacksaw” Harney
-  - Blind Lemon Jefferson
-  - Blind Blake
-  - Lonnie Johnson
+    - Richard “Hacksaw” Harney
+    - Blind Lemon Jefferson
+    - Blind Blake
+    - Lonnie Johnson
 spotify_data:
   followers: 259
   id: 1zH76nU6jo0pe9xff6GXHH
   popularity: 1
-  url: https://open.spotify.com/artist/1zH76nU6jo0pe9xff6GXHH
+  url: 'https://open.spotify.com/artist/1zH76nU6jo0pe9xff6GXHH'
 discography_enriched: true
 top_tracks:
-- Greenville Boogie (I Got the Blues This Morning)
-- I Got the Blues and I Can't Be Satisfied (I Got the Blues This Morning)
-- Big Fat Mama (I Got the Blues This Morning)
-- 'Eugene Powell Discusses Pony Blues (Blues At Home 14: Interviews)'
-- 'Eugene Powell Discusses Forty-Four Blues (Blues At Home 14: Interviews)'
-- 'Eugene Powell Discusses Texas Blues (Blues At Home 14: Interviews)'
-- 'Eugene Powell Discusses Meet Me in the Bottom (Blues At Home 14: Interviews)'
-- 'Eugene Powell Discusses Poor Boy Blues (Blues At Home 14: Interviews)'
-- 'Eugene Powell Discusses M & O Blues (Blues At Home 14: Interviews)'
-- 'Eugene Powell Discusses I''ve Been a Dog in My Family (Blues At Home 14: Interviews)'
+  - Greenville Boogie (I Got the Blues This Morning)
+  - I Got the Blues and I Can't Be Satisfied (I Got the Blues This Morning)
+  - Big Fat Mama (I Got the Blues This Morning)
+  - 'Eugene Powell Discusses Pony Blues (Blues At Home 14: Interviews)'
+  - 'Eugene Powell Discusses Forty-Four Blues (Blues At Home 14: Interviews)'
+  - 'Eugene Powell Discusses Texas Blues (Blues At Home 14: Interviews)'
+  - 'Eugene Powell Discusses Meet Me in the Bottom (Blues At Home 14: Interviews)'
+  - 'Eugene Powell Discusses Poor Boy Blues (Blues At Home 14: Interviews)'
+  - 'Eugene Powell Discusses M & O Blues (Blues At Home 14: Interviews)'
+  - >-
+    Eugene Powell Discusses I've Been a Dog in My Family (Blues At Home 14:
+    Interviews)
 external_urls:
-  spotify: https://open.spotify.com/artist/1zH76nU6jo0pe9xff6GXHH
+  spotify: 'https://open.spotify.com/artist/1zH76nU6jo0pe9xff6GXHH'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/eugene_powell.jpg
 biography_enhanced_at: '2025-12-23T02:02:13.119626'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://mtzionmemorialfund.com/project/eugene-powell/
-- https://archive.musicmaker.org/artists/eugene-powell/
-- https://www.littletobywalker.com/eugene-powell.html
-- https://deltaboogie.com/deltamusicians/powelle/
-- https://www.blues-sessions.com/eugenepowell.php
+  - 'https://mtzionmemorialfund.com/project/eugene-powell/'
+  - 'https://archive.musicmaker.org/artists/eugene-powell/'
+  - 'https://www.littletobywalker.com/eugene-powell.html'
+  - 'https://deltaboogie.com/deltamusicians/powelle/'
+  - 'https://www.blues-sessions.com/eugenepowell.php'
 network_extracted: true
 entry_created: '2025-12-23T02:02:13.119641'
 last_updated: '2025-12-23T08:16:08.527519'
+birth_date: '1908-12-23'
+artist_type: person
 ---
 
 ![](eugene_powell.jpg)

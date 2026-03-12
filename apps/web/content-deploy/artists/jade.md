@@ -4,13 +4,13 @@ wiki_slug: jade
 schema_version: 2
 artist_type: person
 status: active
-birth_place: South Shields, Tyne & Wear, England, United Kingdom
+birth_place: 'South Shields, Tyne & Wear, England, United Kingdom'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jade.jpg
   caption: Jade
   background: solo_singer
-  origin: South Shields, Tyne & Wear, England, United Kingdom
+  origin: 'South Shields, Tyne & Wear, England, United Kingdom'
 audio_profile:
   tempo_avg: 123.3
   energy_avg: 0.751
@@ -26,56 +26,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Perrie Edwards
-  - Leigh-Anne Pinnock
-  - Jesy Nelson
-  - PinkPantheress
-  - Rose Gray
+    - Perrie Edwards
+    - Leigh-Anne Pinnock
+    - Jesy Nelson
+    - PinkPantheress
+    - Rose Gray
   influenced: []
   mentors:
-  - Louis Walsh
-  - Cheryl Tweedy
-  - Simon Cowell
+    - Louis Walsh
+    - Cheryl Tweedy
+    - Simon Cowell
 spotify_data:
   followers: 304231
   id: 24b0qNYNgeOfpP5rbljIB3
   popularity: 64
-  url: https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3
+  url: 'https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3'
 discography_enriched: true
 top_tracks:
-- FUFN (Fuck You For Now) (FUFN (Fuck You For Now))
-- Angel Of My Dreams (Angel Of My Dreams)
-- IT girl (IT girl)
-- Plastic Box (Plastic Box)
-- Fantasy (Fantasy)
-- gossip (gossip)
-- Midnight Cowboy (Midnight Cowboy)
-- Angel Of My Dreams (FUFN (Fuck You For Now))
-- Angel Of My Dreams - S.A.D. Version - Slow. Angelic. Dramatic. (Angel Of My Dreams - S.A.D. Version (Slow. Angelic. Dramatic.))
-- IT girl (FUFN (Fuck You For Now))
+  - FUFN (Fuck You For Now) (FUFN (Fuck You For Now))
+  - Angel Of My Dreams (Angel Of My Dreams)
+  - IT girl (IT girl)
+  - Plastic Box (Plastic Box)
+  - Fantasy (Fantasy)
+  - gossip (gossip)
+  - Midnight Cowboy (Midnight Cowboy)
+  - Angel Of My Dreams (FUFN (Fuck You For Now))
+  - >-
+    Angel Of My Dreams - S.A.D. Version - Slow. Angelic. Dramatic. (Angel Of My
+    Dreams - S.A.D. Version (Slow. Angelic. Dramatic.))
+  - IT girl (FUFN (Fuck You For Now))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/22bec108-cd77-4b50-a9dd-449239909bf9
-  spotify: https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3
-  wikipedia: https://en.wikipedia.org/wiki/Jade_Thirlwall
+  musicbrainz: 'https://musicbrainz.org/artist/22bec108-cd77-4b50-a9dd-449239909bf9'
+  spotify: 'https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jade_Thirlwall'
 image_path: 03_Resources/source_material/ArtistPortraits/jade.jpg
 biography_enhanced_at: '2025-11-20T06:50:37.319425'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Jade Thirlwall
-- Last.fm - Jade biography
-- 'Hello Rayo - JADE: Everything you need to know about the singer'
-- IMDb - Jade Thirlwall Biography
-- Little Mix Wiki - Jade Thirlwall
-- YouTube - JADE Reflects On Little Mix And Making Solo Debut
+  - Wikipedia - Jade Thirlwall
+  - Last.fm - Jade biography
+  - 'Hello Rayo - JADE: Everything you need to know about the singer'
+  - IMDb - Jade Thirlwall Biography
+  - Little Mix Wiki - Jade Thirlwall
+  - YouTube - JADE Reflects On Little Mix And Making Solo Debut
 network_extracted: true
 entry_created: '2025-11-20T06:50:37.319435'
 last_updated: '2025-12-23T08:16:10.110467'
 disambiguation: ambient/experimental electronic producer – furry
 musicbrainz_id: 22bec108-cd77-4b50-a9dd-449239909bf9
 tags:
-- ambient
-- experimental
+  - ambient
+  - experimental
+birth_date: '1992-12-26'
 ---
 
 ![](jade.jpg)

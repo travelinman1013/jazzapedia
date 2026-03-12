@@ -2,14 +2,14 @@
 title: Azymuth
 wiki_slug: azymuth
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 birth_date: '1973'
 genres:
-- brazilian jazz
-- jazz funk
-- jazz fusion
-- acid jazz
+  - brazilian jazz
+  - jazz funk
+  - jazz fusion
+  - acid jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/azymuth.jpg
   caption: Azymuth
@@ -30,78 +30,78 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Marcos Valle
-  - Jorge Ben
-  - Flora Purim & Airto Moreira
-  - Mark Murphy
-  - Kiko Continentinho
+    - Marcos Valle
+    - Jorge Ben
+    - Flora Purim & Airto Moreira
+    - Mark Murphy
+    - Kiko Continentinho
   influenced:
-  - London Acid Jazz scene
-  - Marcos Valle & Joyce
+    - London Acid Jazz scene
+    - Marcos Valle & Joyce
   mentors:
-  - American jazz musicians
-  - Brazilian bossa nova and MPB artists
+    - American jazz musicians
+    - Brazilian bossa nova and MPB artists
 spotify_data:
   followers: 111041
   id: 5lYcr7Yue9FUB7MJDBtTJx
   popularity: 45
-  url: https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx
+  url: 'https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx'
 discography_enriched: true
 top_tracks:
-- Morning
-- Zé e Paraná
-- Pra Zé (Brazilian Soul)
-- Vôo sobre o horizonte (Aguia Não Come Mosca (Remasterizado))
-- Unknown Jam (Demos (1973-1975), Vol. 1 & 2)
-- Dear Limmertz (Outubro)
-- Seems Like This
-- Bis (Encore)
-- Andaraí
-- Villa Mariana - De Tarde (Fênix)
+  - Morning
+  - Zé e Paraná
+  - Pra Zé (Brazilian Soul)
+  - Vôo sobre o horizonte (Aguia Não Come Mosca (Remasterizado))
+  - 'Unknown Jam (Demos (1973-1975), Vol. 1 & 2)'
+  - Dear Limmertz (Outubro)
+  - Seems Like This
+  - Bis (Encore)
+  - Andaraí
+  - Villa Mariana - De Tarde (Fênix)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5f86a079-be87-4eb3-8709-afe2498afa37
-  spotify: https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx
-  wikipedia: https://en.wikipedia.org/wiki/Azymuth
+  musicbrainz: 'https://musicbrainz.org/artist/5f86a079-be87-4eb3-8709-afe2498afa37'
+  spotify: 'https://open.spotify.com/artist/5lYcr7Yue9FUB7MJDBtTJx'
+  wikipedia: 'https://en.wikipedia.org/wiki/Azymuth'
 image_path: 03_Resources/source_material/ArtistPortraits/azymuth.jpg
 biography_enhanced_at: '2025-11-14T10:35:43.851603'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.jazzisdead.com/azymuth
-- https://www.faroutrecordings.com/artist/393654-azymuth?lang=en_GB
-- https://ethnocloud.com/Azymuth/
-- http://spaceagencybooking.com/azymuth-1
-- https://concord.com/artist/azymuth/
+  - 'https://www.jazzisdead.com/azymuth'
+  - 'https://www.faroutrecordings.com/artist/393654-azymuth?lang=en_GB'
+  - 'https://ethnocloud.com/Azymuth/'
+  - 'http://spaceagencybooking.com/azymuth-1'
+  - 'https://concord.com/artist/azymuth/'
 network_extracted: true
 entry_created: '2025-11-14T10:35:43.851614'
 last_updated: '2025-12-23T08:16:05.027140'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ca70ca01-8b43-4198-b957-c075b8671399
-  name: Ivan Conti
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 270bc583-73e6-49f0-952c-9661a2b9e883
-  name: Alex Malheiros
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2caf5745-afd6-47d3-990e-9e053aac7c5c
-  name: Mamão
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 10e8fbb6-f126-4369-81c9-728329a75b06
-  name: José Roberto Bertrami
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ca70ca01-8b43-4198-b957-c075b8671399
+    name: Ivan Conti
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 270bc583-73e6-49f0-952c-9661a2b9e883
+    name: Alex Malheiros
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2caf5745-afd6-47d3-990e-9e053aac7c5c
+    name: Mamão
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 10e8fbb6-f126-4369-81c9-728329a75b06
+    name: José Roberto Bertrami
 musicbrainz_id: 5f86a079-be87-4eb3-8709-afe2498afa37
-origin: Rio de Janeiro
+origin: 'Rio de Janeiro, Rio de Janeiro, Brazil'
 tags:
-- jazz
-- jazz fusion
-- jazz-funk
+  - jazz
+  - jazz fusion
+  - jazz-funk
 ---
 
 ![](azymuth.jpg)

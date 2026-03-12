@@ -1,12 +1,13 @@
 ---
-title: LOUIS ARMSTRONG & THE COMMANDERS
+title: Louis Armstrong & The Commanders
 wiki_slug: louis-armstrong-the-commanders
 schema_version: 2
 status: active
 genres:
-- christmas
+  - christmas
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/louis_armstrong_and_the_commanders.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/louis_armstrong_and_the_commanders.jpg
   caption: LOUIS ARMSTRONG & THE COMMANDERS
   background: solo_singer
 audio_profile:
@@ -24,53 +25,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Billy Butterfield
-  - Kai Winding
-  - Eddie Barefield
-  - Tutti Camarata
-  - Dick Hyman
-  - Louis Armstrong and His All Stars (e.g., Jack Teagarden, Earl Hines)
+    - Billy Butterfield
+    - Kai Winding
+    - Eddie Barefield
+    - Tutti Camarata
+    - Dick Hyman
+    - 'Louis Armstrong and His All Stars (e.g., Jack Teagarden, Earl Hines)'
   influenced:
-  - Dizzy Gillespie
-  - Miles Davis
-  - Bing Crosby
+    - Dizzy Gillespie
+    - Miles Davis
+    - Bing Crosby
   mentors:
-  - Peter Davis
-  - Joe “King” Oliver
-  - Fletcher Henderson
+    - Peter Davis
+    - Joe “King” Oliver
+    - Fletcher Henderson
 spotify_data:
   followers: 3268
   id: 3VrWSWV74xyECVDt2zBy4T
   popularity: 65
-  url: https://open.spotify.com/artist/3VrWSWV74xyECVDt2zBy4T
+  url: 'https://open.spotify.com/artist/3VrWSWV74xyECVDt2zBy4T'
 discography_enriched: true
 top_tracks:
-- Cool Yule
-- '''Zat You, Santa Claus? - Single Version'
-- Cool Yule (Louis Wishes You a Cool Yule)
-- '''Zat You, Santa Claus? - Single Version (Louis Wishes You a Cool Yule)'
-- Cool Yule
-- Someday (You'll Be Sorry) (Satchmo Sings)
-- The Gypsy (Satchmo Sings)
-- '''Zat You, Santa Claus? - Single Version'
-- I Can't Afford To Miss This Dream (La Vie En Rose (Deluxe Edition))
-- I Can't Afford To Miss This Dream (Satchmo Serenades)
+  - Cool Yule
+  - '''Zat You, Santa Claus? - Single Version'
+  - Cool Yule (Louis Wishes You a Cool Yule)
+  - '''Zat You, Santa Claus? - Single Version (Louis Wishes You a Cool Yule)'
+  - Cool Yule
+  - Someday (You'll Be Sorry) (Satchmo Sings)
+  - The Gypsy (Satchmo Sings)
+  - '''Zat You, Santa Claus? - Single Version'
+  - I Can't Afford To Miss This Dream (La Vie En Rose (Deluxe Edition))
+  - I Can't Afford To Miss This Dream (Satchmo Serenades)
 external_urls:
-  spotify: https://open.spotify.com/artist/3VrWSWV74xyECVDt2zBy4T
-  wikipedia: https://en.wikipedia.org/wiki/Louis_Armstrong
-image_path: 03_Resources/source_material/ArtistPortraits/louis_armstrong_and_the_commanders.jpg
+  spotify: 'https://open.spotify.com/artist/3VrWSWV74xyECVDt2zBy4T'
+  wikipedia: 'https://en.wikipedia.org/wiki/Louis_Armstrong'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/louis_armstrong_and_the_commanders.jpg
 biography_enhanced_at: '2025-12-20T01:13:15.265991'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Louis_Armstrong
-- https://www.louisarmstronghouse.org/biography/
-- https://www.biography.com/musicians/louis-armstrong
-- https://dippermouth.blogspot.com/2008/10/55-years-of-louis-armstrong-and.html
+  - 'https://en.wikipedia.org/wiki/Louis_Armstrong'
+  - 'https://www.louisarmstronghouse.org/biography/'
+  - 'https://www.biography.com/musicians/louis-armstrong'
+  - >-
+    https://dippermouth.blogspot.com/2008/10/55-years-of-louis-armstrong-and.html
 network_extracted: true
 entry_created: '2025-12-20T01:13:15.266005'
 last_updated: '2025-12-23T08:16:12.228125'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+birth_place: 'New Orleans, Louisiana, United States'
+birth_date: '1901-08-04'
+artist_type: band
 ---
 
 ![](louis_armstrong_and_the_commanders.jpg)

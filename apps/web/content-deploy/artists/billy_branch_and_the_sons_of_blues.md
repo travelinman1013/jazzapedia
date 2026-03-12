@@ -2,14 +2,15 @@
 title: Billy Branch & The Sons Of Blues
 wiki_slug: billy-branch-the-sons-of-blues
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- blues
-- jazz blues
-- modern blues
+  - blues
+  - jazz blues
+  - modern blues
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/billy_branch_and_the_sons_of_blues.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/billy_branch_and_the_sons_of_blues.jpg
   caption: Billy Branch & The Sons Of Blues
   background: group_or_band
 audio_profile:
@@ -27,56 +28,66 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dionte “McMusik” Skinner
-  - Sumito "Ariyo" Ariyoshi
-  - Ari Seder
-  - Giles Corey
-  - Andrew “Blaze” Thomas
-  - Bobby Rush
-  - Shemekia Copeland
-  - Ronnie Baker Brooks
-  - Various major artists (e.g., Vince Gill, Billy Gibbons, Stephen Stills, Koko Taylor, Lonnie Brooks, Lou Rawls, Johnny Winter, Taj Mahal)
+    - Dionte “McMusik” Skinner
+    - Sumito "Ariyo" Ariyoshi
+    - Ari Seder
+    - Giles Corey
+    - Andrew “Blaze” Thomas
+    - Bobby Rush
+    - Shemekia Copeland
+    - Ronnie Baker Brooks
+    - >-
+      Various major artists (e.g., Vince Gill, Billy Gibbons, Stephen Stills,
+      Koko Taylor, Lonnie Brooks, Lou Rawls, Johnny Winter, Taj Mahal)
   influenced:
-  - Students in his "Blues in the Schools" programs
+    - Students in his "Blues in the Schools" programs
   mentors:
-  - Willie Dixon
+    - Willie Dixon
 spotify_data:
   followers: 2803
   id: 4TRfrM7ljwL52xGyQGHk9y
   popularity: 29
-  url: https://open.spotify.com/artist/4TRfrM7ljwL52xGyQGHk9y
+  url: 'https://open.spotify.com/artist/4TRfrM7ljwL52xGyQGHk9y'
 discography_enriched: true
 top_tracks:
-- As The Years Go Passing By (As the Years Go Passing By (Blues Reference))
-- The Band Ladies Have the Blues (As the Years Go Passing By (Blues Reference))
-- Blue And Lonesome (Roots And Branches - The Songs Of Little Walter)
-- Nobody But You (Roots And Branches - The Songs Of Little Walter)
-- Rock Me Baby (As the Years Go Passing By (Blues Reference))
-- In My Lonely Room (As the Years Go Passing By (Blues Reference))
-- Just Your Fool/Key To The Highway (Roots And Branches - The Songs Of Little Walter)
-- In the Ghetto (As the Years Go Passing By (Blues Reference))
-- I'm Oing Fishing Baby (As the Years Go Passing By (Blues Reference))
-- 'Back Alley Cat (Blind Pig Records: 40th Anniversary Collection)'
+  - As The Years Go Passing By (As the Years Go Passing By (Blues Reference))
+  - >-
+    The Band Ladies Have the Blues (As the Years Go Passing By (Blues
+    Reference))
+  - Blue And Lonesome (Roots And Branches - The Songs Of Little Walter)
+  - Nobody But You (Roots And Branches - The Songs Of Little Walter)
+  - Rock Me Baby (As the Years Go Passing By (Blues Reference))
+  - In My Lonely Room (As the Years Go Passing By (Blues Reference))
+  - >-
+    Just Your Fool/Key To The Highway (Roots And Branches - The Songs Of Little
+    Walter)
+  - In the Ghetto (As the Years Go Passing By (Blues Reference))
+  - I'm Oing Fishing Baby (As the Years Go Passing By (Blues Reference))
+  - 'Back Alley Cat (Blind Pig Records: 40th Anniversary Collection)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/68152464-06f0-470e-bed1-d53f79ccb933
-  spotify: https://open.spotify.com/artist/4TRfrM7ljwL52xGyQGHk9y
-  wikipedia: https://en.wikipedia.org/wiki/Billy_Branch
-image_path: 03_Resources/source_material/ArtistPortraits/billy_branch_and_the_sons_of_blues.jpg
+  musicbrainz: 'https://musicbrainz.org/artist/68152464-06f0-470e-bed1-d53f79ccb933'
+  spotify: 'https://open.spotify.com/artist/4TRfrM7ljwL52xGyQGHk9y'
+  wikipedia: 'https://en.wikipedia.org/wiki/Billy_Branch'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/billy_branch_and_the_sons_of_blues.jpg
 biography_enhanced_at: '2025-12-18T02:38:54.481892'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.americanbluesscene.com/2025/10/billy-branch-creates-21st-century-chicago-blues-on-new-album/
-- https://lahoradelblues.com/en/billy-branch-the-sons-of-the-blues-the-blues-is-my-biography/
-- https://americanahighways.org/2025/11/18/review-billy-branch-the-sons-of-the-blues-the-blues-is-my-biography/
-- https://www.bluesblastmagazine.com/featured-interview-billy-branch-3/
-- https://open.spotify.com/album/5jRwTsJwBhDxtHP34l2Exc
+  - >-
+    https://www.americanbluesscene.com/2025/10/billy-branch-creates-21st-century-chicago-blues-on-new-album/
+  - >-
+    https://lahoradelblues.com/en/billy-branch-the-sons-of-the-blues-the-blues-is-my-biography/
+  - >-
+    https://americanahighways.org/2025/11/18/review-billy-branch-the-sons-of-the-blues-the-blues-is-my-biography/
+  - 'https://www.bluesblastmagazine.com/featured-interview-billy-branch-3/'
+  - 'https://open.spotify.com/album/5jRwTsJwBhDxtHP34l2Exc'
 network_extracted: true
 entry_created: '2025-12-18T02:38:54.481898'
 last_updated: '2025-12-23T08:16:05.556426'
 musicbrainz_id: 68152464-06f0-470e-bed1-d53f79ccb933
-origin: Chicago, Illinois, United States
-
+origin: 'Chicago, Illinois, United States'
+birth_place: 'Chicago, Illinois, United States'
 ---
 
 ![](billy_branch_and_the_sons_of_blues.jpg)

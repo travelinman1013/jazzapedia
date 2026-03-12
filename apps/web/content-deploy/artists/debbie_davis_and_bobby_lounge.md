@@ -3,30 +3,32 @@ biography_enhanced_at: '2026-01-10T01:11:15.210996'
 enhancement_provider: perplexity
 entry_created: '2026-01-10T01:11:15.211003'
 external_urls:
-  spotify: https://open.spotify.com/artist/7qr1GBzozNMeez0DfUIWGb
+  spotify: 'https://open.spotify.com/artist/7qr1GBzozNMeez0DfUIWGb'
   wikipedia: ''
 genres: []
 image_path: ''
 last_updated: '2026-01-10T01:11:15.211004'
 musical_connections:
   collaborators:
-  - Various New Orleans ‘music royalty’ (unspecified)
-  - Local New Orleans bands and ensembles (unspecified)
+    - Various New Orleans ‘music royalty’ (unspecified)
+    - Local New Orleans bands and ensembles (unspecified)
   influenced: []
   mentors: []
 network_extracted: true
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://www.offbeat.com/music/debbie-davis-its-not-the-years-its-the-miles-threadhead-records/
-- https://www.neworleans.com/listing/debbie-davis/46620/
+  - >-
+    https://www.offbeat.com/music/debbie-davis-its-not-the-years-its-the-miles-threadhead-records/
+  - 'https://www.neworleans.com/listing/debbie-davis/46620/'
 spotify_data:
   followers: 6
   id: 7qr1GBzozNMeez0DfUIWGb
   popularity: 0
-  url: https://open.spotify.com/artist/7qr1GBzozNMeez0DfUIWGb
+  url: 'https://open.spotify.com/artist/7qr1GBzozNMeez0DfUIWGb'
 status: active
-title: debbie davis & bobby lounge
+title: Debbie Davis & Bobby Lounge
+artist_type: band
 ---
 
 ![]()

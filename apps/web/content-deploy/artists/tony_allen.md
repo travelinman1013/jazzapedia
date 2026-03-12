@@ -3,14 +3,14 @@ title: Tony Allen
 wiki_slug: tony-allen
 schema_version: 2
 status: active
-birth_place: Lagos, Lagos State, Nigeria
+birth_place: 'Lagos, Lagos State, Nigeria'
 genres:
-- afrobeat
+  - afrobeat
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/tony_allen.jpg
   caption: Tony Allen
   background: solo_singer
-  origin: Lagos, Lagos State, Nigeria
+  origin: 'Lagos, Lagos State, Nigeria'
 audio_profile:
   tempo_avg: 112.6
   energy_avg: 0.73
@@ -26,50 +26,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Fela Kuti
-  - Africa 70
-  - Manu Dibango
-  - Ray Lema
+    - Fela Kuti
+    - Africa 70
+    - Manu Dibango
+    - Ray Lema
   influenced:
-  - Brian Eno
-  - Tony Allen's proteges and the global Afrobeat movement
+    - Brian Eno
+    - Tony Allen's proteges and the global Afrobeat movement
   mentors:
-  - Max Roach
-  - Art Blakey
-  - Guy Warren (Kofi Ghanaba)
+    - Max Roach
+    - Art Blakey
+    - Guy Warren (Kofi Ghanaba)
 spotify_data:
   followers: 140638
   id: 6JpZEemWmunccsrHXFUOgi
   popularity: 41
-  url: https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi
+  url: 'https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi'
 discography_enriched: true
 top_tracks:
-- Rain Can't Reach Us
-- Go Back
-- Walk Through Fire
-- Go Back (Film Of Life)
-- Ikeja Roads (Afrobeat Makers (Tony Allen Rhythms Revisited))
-- Never (Lagos Never Gonna Be the Same) (Rejoice)
-- 'How Far? (feat. Tony Allen and Skepta) (Song Machine, Season One: Strange Timez (Deluxe))'
-- Every Season (HomeCooking)
-- Howls (Afrobeat Makers, Vol. 3 (The Tony Allen Experiments))
-- Politely
+  - Rain Can't Reach Us
+  - Go Back
+  - Walk Through Fire
+  - Go Back (Film Of Life)
+  - Ikeja Roads (Afrobeat Makers (Tony Allen Rhythms Revisited))
+  - Never (Lagos Never Gonna Be the Same) (Rejoice)
+  - >-
+    How Far? (feat. Tony Allen and Skepta) (Song Machine, Season One: Strange
+    Timez (Deluxe))
+  - Every Season (HomeCooking)
+  - 'Howls (Afrobeat Makers, Vol. 3 (The Tony Allen Experiments))'
+  - Politely
 external_urls:
-  spotify: https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi
-  wikipedia: https://en.wikipedia.org/wiki/Tony_Allen_(musician)
+  spotify: 'https://open.spotify.com/artist/6JpZEemWmunccsrHXFUOgi'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tony_Allen_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/tony_allen.jpg
 biography_enhanced_at: '2025-10-27T02:43:44.143836'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.allaboutjazz.com/musicians/tony-allen/
-- https://www.bluenote.com/artist/tony-allen/
-- https://www.jazzisdead.com/tonyallen
-- https://www.kcrw.com/stories/tony-allen-obituary-afrobeat-drummer-fela
-- https://www.dukeupress.edu/tony-allen
+  - 'https://www.allaboutjazz.com/musicians/tony-allen/'
+  - 'https://www.bluenote.com/artist/tony-allen/'
+  - 'https://www.jazzisdead.com/tonyallen'
+  - 'https://www.kcrw.com/stories/tony-allen-obituary-afrobeat-drummer-fela'
+  - 'https://www.dukeupress.edu/tony-allen'
 network_extracted: true
 entry_created: '2025-10-27T02:43:44.143854'
 last_updated: '2025-12-23T08:16:17.596267'
+birth_date: '1940'
+artist_type: person
 ---
 
 ![](tony_allen.jpg)

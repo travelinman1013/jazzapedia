@@ -1,16 +1,16 @@
 ---
-title: king curtis
+title: King Curtis
 wiki_slug: king-curtis
 schema_version: 2
 status: active
-birth_place: Fort Worth, Texas, United States
+birth_place: 'Fort Worth, Texas, United States'
 genres:
-- jazz blues
+  - jazz blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/king_curtis.jpg
   caption: king curtis
   background: solo_singer
-  origin: Fort Worth, Texas, United States
+  origin: 'Fort Worth, Texas, United States'
 audio_profile:
   tempo_avg: 121.4
   energy_avg: 0.487
@@ -26,53 +26,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ornette Coleman
-  - Lionel Hampton
-  - The Coasters
-  - Aretha Franklin
-  - Buddy Holly
-  - John Lennon
-  - Jimi Hendrix
-  - Kingpins
+    - Ornette Coleman
+    - Lionel Hampton
+    - The Coasters
+    - Aretha Franklin
+    - Buddy Holly
+    - John Lennon
+    - Jimi Hendrix
+    - Kingpins
   influenced:
-  - The Allman Brothers Band
-  - The Rolling Stones
-  - Bruce Springsteen
-  - Grover Washington, Jr.
+    - The Allman Brothers Band
+    - The Rolling Stones
+    - Bruce Springsteen
+    - 'Grover Washington, Jr.'
   mentors:
-  - G.A. Baxter
-  - Lester Young
+    - G.A. Baxter
+    - Lester Young
 spotify_data:
   followers: 56581
   id: 0WxOgeRxUt0MwPrI7A5atQ
   popularity: 36
-  url: https://open.spotify.com/artist/0WxOgeRxUt0MwPrI7A5atQ
+  url: 'https://open.spotify.com/artist/0WxOgeRxUt0MwPrI7A5atQ'
 discography_enriched: true
 top_tracks:
-- Memphis Soul Stew (King Size Soul)
-- A Whiter Shade of Pale - Live at Fillmore West, 3/7/1971 (Live At The Fillmore West)
-- The Christmas Song (Kingdom Of Curtis)
-- A Whiter Shade of Pale (King Size Soul)
-- Memphis Soul Stew - Live at Fillmore West, 3/7/1971 (Live At The Fillmore West)
-- Games People Play (Instant Groove)
-- Instant Groove (Instant Groove)
-- Melancholy Serenade - Remastered
-- The Weight (An Anthology Vol. 2)
-- C.C. Rider (King Size Soul)
+  - Memphis Soul Stew (King Size Soul)
+  - >-
+    A Whiter Shade of Pale - Live at Fillmore West, 3/7/1971 (Live At The
+    Fillmore West)
+  - The Christmas Song (Kingdom Of Curtis)
+  - A Whiter Shade of Pale (King Size Soul)
+  - >-
+    Memphis Soul Stew - Live at Fillmore West, 3/7/1971 (Live At The Fillmore
+    West)
+  - Games People Play (Instant Groove)
+  - Instant Groove (Instant Groove)
+  - Melancholy Serenade - Remastered
+  - The Weight (An Anthology Vol. 2)
+  - C.C. Rider (King Size Soul)
 external_urls:
-  spotify: https://open.spotify.com/artist/0WxOgeRxUt0MwPrI7A5atQ
-  wikipedia: https://en.wikipedia.org/wiki/King_Curtis
+  spotify: 'https://open.spotify.com/artist/0WxOgeRxUt0MwPrI7A5atQ'
+  wikipedia: 'https://en.wikipedia.org/wiki/King_Curtis'
 image_path: 03_Resources/source_material/ArtistPortraits/king_curtis.jpg
 biography_enhanced_at: '2025-10-19T11:53:29.989367'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://wbssmedia.com/artists/detail/3735
-- https://livliterary.commons.gc.cuny.edu/king-curtis-a-leader-of-american-soul/
-- https://www.newdirectionsinmusic.com/the-tenor-soul-king-king-curtis/
+  - 'https://wbssmedia.com/artists/detail/3735'
+  - >-
+    https://livliterary.commons.gc.cuny.edu/king-curtis-a-leader-of-american-soul/
+  - 'https://www.newdirectionsinmusic.com/the-tenor-soul-king-king-curtis/'
 network_extracted: true
 entry_created: '2025-10-19T11:53:29.989372'
 last_updated: '2025-12-23T08:16:11.377515'
+birth_date: '1934-02-07'
+artist_type: person
 ---
 
 ![](king_curtis.jpg)

@@ -3,39 +3,42 @@ biography_enhanced_at: '2026-01-09T02:11:59.609855'
 enhancement_provider: perplexity
 entry_created: '2026-01-09T02:11:59.609869'
 external_urls:
-  spotify: https://open.spotify.com/artist/3Mqf1Klfn1CCpnzaLhCjWr
+  spotify: 'https://open.spotify.com/artist/3Mqf1Klfn1CCpnzaLhCjWr'
   wikipedia: ''
 genres:
-- soul
+  - soul
 image_path: 03_Resources/source_material/ArtistPortraits/majestic_arrows.jpg
 last_updated: '2026-01-09T02:11:59.609872'
 musical_connections:
   collaborators:
-  - Pieces of Peace
-  - Tridia Brown
-  - The Arrows
+    - Pieces of Peace
+    - Tridia Brown
+    - The Arrows
   influenced:
-  - Rare-soul and northern soul collectors and reissue curators (e.g., Numero Group’s Ken Shipley)
+    - >-
+      Rare-soul and northern soul collectors and reissue curators (e.g., Numero
+      Group’s Ken Shipley)
   mentors:
-  - Arrow Brown
-  - Benjamin Wright
+    - Arrow Brown
+    - Benjamin Wright
 network_extracted: true
-origin: Bronzeville, Chicago, Illinois, United States
+origin: 'Bronzeville, Chicago, Illinois, United States'
 primary_source: perplexity
 research_sources:
-- https://numerogroup.com/blogs/stories/eccentric-soul-the-bandit-label
-- https://humanitiesfutures.org/papers/close-reading-sound-recording/index.html
-- https://mark-guarino.com/the-legacy-of-chicagos-bandit-records/
-- https://www.rushhour.nl/record/vinyl/magic-majestic-arrows
-- https://en.wikipedia.org/wiki/Eccentric_Soul:_The_Bandit_Label
+  - 'https://numerogroup.com/blogs/stories/eccentric-soul-the-bandit-label'
+  - >-
+    https://humanitiesfutures.org/papers/close-reading-sound-recording/index.html
+  - 'https://mark-guarino.com/the-legacy-of-chicagos-bandit-records/'
+  - 'https://www.rushhour.nl/record/vinyl/magic-majestic-arrows'
+  - 'https://en.wikipedia.org/wiki/Eccentric_Soul:_The_Bandit_Label'
 spotify_data:
   followers: 1894
   id: 3Mqf1Klfn1CCpnzaLhCjWr
   popularity: 14
-  url: https://open.spotify.com/artist/3Mqf1Klfn1CCpnzaLhCjWr
+  url: 'https://open.spotify.com/artist/3Mqf1Klfn1CCpnzaLhCjWr'
 status: active
 title: Majestic Arrows
-
+artist_type: band
 ---
 
 ![](majestic_arrows.jpg)

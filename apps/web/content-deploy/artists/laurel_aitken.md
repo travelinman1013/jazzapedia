@@ -5,50 +5,50 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1927-04-22'
-birth_place: La Habana
+birth_place: 'La Habana, Cuba, Country'
 death_date: '2005-07-17'
 genres:
-- ska
-- rocksteady
-- calypso
-- reggae
-- ska punk
+  - ska
+  - rocksteady
+  - calypso
+  - reggae
+  - ska punk
 instruments:
-- eponymous
-- original
-- principal
+  - eponymous
+  - original
+  - principal
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 62cad6d5-943f-4957-878e-169f4ecc067c
-  name: Gruvy Beats
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5af75def-7f92-40c1-900a-b5cece160da5
-  name: Laurel & Girlie
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3253a1be-2e7c-41f3-b54d-83fae90057e8
-  name: King Edward Allstars
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  - principal
-  mbid: 2c42cfe4-b5b3-4380-b2d3-6af7f456e697
-  name: Laurel Aitken & His Calypso Band
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  - principal
-  mbid: 1fec8bf5-5a5f-4d69-bea1-5178e2753e08
-  name: Laurel Aitken Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 62cad6d5-943f-4957-878e-169f4ecc067c
+    name: Gruvy Beats
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5af75def-7f92-40c1-900a-b5cece160da5
+    name: Laurel & Girlie
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3253a1be-2e7c-41f3-b54d-83fae90057e8
+    name: King Edward Allstars
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - principal
+    mbid: 2c42cfe4-b5b3-4380-b2d3-6af7f456e697
+    name: Laurel Aitken & His Calypso Band
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - principal
+    mbid: 1fec8bf5-5a5f-4d69-bea1-5178e2753e08
+    name: Laurel Aitken Band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/laurel_aitken.jpg
   caption: Laurel Aitken
@@ -63,7 +63,7 @@ audio_profile:
   danceability_avg: 0.757
   acousticness_avg: 0.403
   instrumentalness_avg: 0.115
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.078
   liveness_avg: 0.158
   track_count: 53
@@ -71,55 +71,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Skatalites
-  - Duke Reid
+    - The Skatalites
+    - Duke Reid
   influenced:
-  - 2 Tone Movement Artists
+    - 2 Tone Movement Artists
   mentors:
-  - Smiley Lewis, Louis Jordan, Amos Milburn
-  - Chris Blackwell
+    - 'Smiley Lewis, Louis Jordan, Amos Milburn'
+    - Chris Blackwell
 spotify_data:
   followers: 45454
   id: 30vvi2orcocejP6c3nKcEA
   popularity: 32
-  url: https://open.spotify.com/artist/30vvi2orcocejP6c3nKcEA
+  url: 'https://open.spotify.com/artist/30vvi2orcocejP6c3nKcEA'
 discography_enriched: true
 top_tracks:
-- Quizás Quizás (En Español)
-- Sally Brown (The Story So Far...)
-- Mi Vida Sin Tu Amor (En Español)
-- Negro (En Español)
-- Skinhead (The Godfather Of Ska Anthology)
-- Ojos Sexys (En Español)
-- Perfidia (En Español)
-- Rudi Got Married (The Godfather Of Ska Anthology)
-- 'Skinhead (Laurel Aitken: Ska Legend)'
-- Jesse Jackson (Meets Floyd Lloyd & The Potato 5)
+  - Quizás Quizás (En Español)
+  - Sally Brown (The Story So Far...)
+  - Mi Vida Sin Tu Amor (En Español)
+  - Negro (En Español)
+  - Skinhead (The Godfather Of Ska Anthology)
+  - Ojos Sexys (En Español)
+  - Perfidia (En Español)
+  - Rudi Got Married (The Godfather Of Ska Anthology)
+  - 'Skinhead (Laurel Aitken: Ska Legend)'
+  - Jesse Jackson (Meets Floyd Lloyd & The Potato 5)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/aef5b6b3-c1f3-4dbb-9755-50842da36a63
-  spotify: https://open.spotify.com/artist/30vvi2orcocejP6c3nKcEA
-  wikipedia: https://en.wikipedia.org/wiki/Laurel_Aitken
+  musicbrainz: 'https://musicbrainz.org/artist/aef5b6b3-c1f3-4dbb-9755-50842da36a63'
+  spotify: 'https://open.spotify.com/artist/30vvi2orcocejP6c3nKcEA'
+  wikipedia: 'https://en.wikipedia.org/wiki/Laurel_Aitken'
 image_path: 03_Resources/source_material/ArtistPortraits/laurel_aitken.jpg
 biography_enhanced_at: '2025-12-04T08:25:05.249002'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Bear Family Records - Laurel Aitken
-- Wikipedia - Laurel Aitken
-- The Second Disc - Cherry Red Celebrates Godfather of Ska
-- Underground England - Ever Heard of Laurel Aitken
-- Spectropop - Laurel Aitken Obituary
-- ROVR - Laurel Aitken & The Blue Beats
-- World A Reggae Entertainment - Laurel Aitken
+  - Bear Family Records - Laurel Aitken
+  - Wikipedia - Laurel Aitken
+  - The Second Disc - Cherry Red Celebrates Godfather of Ska
+  - Underground England - Ever Heard of Laurel Aitken
+  - Spectropop - Laurel Aitken Obituary
+  - ROVR - Laurel Aitken & The Blue Beats
+  - World A Reggae Entertainment - Laurel Aitken
 network_extracted: true
 entry_created: '2025-12-04T08:25:05.249017'
 last_updated: '2025-12-23T08:16:11.631615'
 gender: Male
 musicbrainz_id: aef5b6b3-c1f3-4dbb-9755-50842da36a63
 tags:
-- calypso
-- mentos
-- reggae music
+  - calypso
+  - mentos
+  - reggae music
+is_active: false
+origin: 'West Kingston, Jamaica, Country'
 ---
 
 ![](laurel_aitken.jpg)

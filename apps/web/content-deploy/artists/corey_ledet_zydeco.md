@@ -1,50 +1,57 @@
 ---
 biography_enhanced_at: '2026-01-05T07:54:17.973064'
-birth_place: Houston, Texas, United States (born and raised); Parks, Louisiana, United
+birth_place: >-
+  Houston, Texas, United States (born and raised); Parks, Louisiana, United
   States (summers/family roots)
 enhancement_provider: perplexity
 entry_created: '2026-01-05T07:54:17.973070'
 external_urls:
-  spotify: https://open.spotify.com/artist/2BiexIzKjoLSH8H0zKB1pW
+  spotify: 'https://open.spotify.com/artist/2BiexIzKjoLSH8H0zKB1pW'
   wikipedia: ''
 genres:
-- zydeco
-- cajun
+  - zydeco
+  - cajun
 image_path: 03_Resources/source_material/ArtistPortraits/corey_ledet_zydeco.jpg
 last_updated: '2026-01-05T07:54:17.973071'
 musical_connections:
   collaborators:
-  - Rosie Ledet
-  - Wilbert Thibodeaux and the Zydeco Rascals
-  - Cedric Watson
-  - Louis Michot
-  - Lee Allen Zeno
-  - Anders Osborne
-  - Kermit Ruffins
+    - Rosie Ledet
+    - Wilbert Thibodeaux and the Zydeco Rascals
+    - Cedric Watson
+    - Louis Michot
+    - Lee Allen Zeno
+    - Anders Osborne
+    - Kermit Ruffins
   influenced: []
   mentors:
-  - Buchanan “Tbu” Ledet
-  - Clifton Chenier
-  - John Delafose
-  - Boozoo Chavis
+    - Buchanan “Tbu” Ledet
+    - Clifton Chenier
+    - John Delafose
+    - Boozoo Chavis
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.makingascene.org/corey-ledet-zydeco-black-magic-live-in-alaska/
-- https://centrum.org/faculty/name/corey-ledet/
-- https://americana-uk.com/interview-corey-ledet-on-zydecos-history-and-modern-relevance
-- https://blues.gr/profiles/blogs/q-a-with-creole-zydeco-musician-corey-ledet-a-true-dance-music-ex
-- https://americanahighways.org/2023/10/23/interview-corey-ledet-zydecos-medikamen-brings-creole-language-to-the-party/
-- https://www.neworleans.com/listing/corey-ledet/47825/
-- https://media.dlib.indiana.edu/media_objects/j098zv54w
-- https://www.americanbluesscene.com/2021/01/corey-ledet-is-connecting-with-his-ancestors-on-zydeco/
+  - 'https://www.makingascene.org/corey-ledet-zydeco-black-magic-live-in-alaska/'
+  - 'https://centrum.org/faculty/name/corey-ledet/'
+  - >-
+    https://americana-uk.com/interview-corey-ledet-on-zydecos-history-and-modern-relevance
+  - >-
+    https://blues.gr/profiles/blogs/q-a-with-creole-zydeco-musician-corey-ledet-a-true-dance-music-ex
+  - >-
+    https://americanahighways.org/2023/10/23/interview-corey-ledet-zydecos-medikamen-brings-creole-language-to-the-party/
+  - 'https://www.neworleans.com/listing/corey-ledet/47825/'
+  - 'https://media.dlib.indiana.edu/media_objects/j098zv54w'
+  - >-
+    https://www.americanbluesscene.com/2021/01/corey-ledet-is-connecting-with-his-ancestors-on-zydeco/
 spotify_data:
   followers: 331
   id: 2BiexIzKjoLSH8H0zKB1pW
   popularity: 1
-  url: https://open.spotify.com/artist/2BiexIzKjoLSH8H0zKB1pW
+  url: 'https://open.spotify.com/artist/2BiexIzKjoLSH8H0zKB1pW'
 status: active
 title: Corey Ledet Zydeco
+origin: 'Parks, Louisiana, United States'
+artist_type: person
 ---
 
 ![](corey_ledet_zydeco.jpg)

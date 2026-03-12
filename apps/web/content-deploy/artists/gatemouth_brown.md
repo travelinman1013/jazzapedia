@@ -1,21 +1,21 @@
 ---
-title: gatemouth brown
+title: Gatemouth Brown
 wiki_slug: gatemouth-brown
 schema_version: 2
 status: active
-birth_place: Vinton, Louisiana, United States
+birth_place: 'Vinton, Louisiana, United States'
 genres:
-- blues
-- classic blues
-- modern blues
-- blues rock
+  - blues
+  - classic blues
+  - modern blues
+  - blues rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/gatemouth_brown.jpg
   caption: gatemouth brown
   background: solo_singer
-  origin: Vinton, Louisiana, United States
+  origin: 'Vinton, Louisiana, United States'
 audio_profile:
-  tempo_avg: 120.0
+  tempo_avg: 120
   energy_avg: 0.453
   valence_avg: 0.646
   danceability_avg: 0.633
@@ -29,49 +29,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Don Robey
-  - Peacock Records Orchestra
+    - Don Robey
+    - Peacock Records Orchestra
   influenced:
-  - Guitar Slim
-  - Buddy Guy
-  - Jimi Hendrix
-  - Stevie Ray Vaughan
+    - Guitar Slim
+    - Buddy Guy
+    - Jimi Hendrix
+    - Stevie Ray Vaughan
   mentors:
-  - Clarence Brown Sr.
-  - T-Bone Walker
+    - Clarence Brown Sr.
+    - T-Bone Walker
 spotify_data:
   followers: 73162
   id: 4aoS04mCVj1CMam1LiHngo
   popularity: 29
-  url: https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo
+  url: 'https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo'
 discography_enriched: true
 top_tracks:
-- I Got My Mojo Working (Standing My Ground)
-- Long Way Home (Long Way Home)
-- Ventilator Blues
-- Honky Tonk (The Man)
-- I Hate These Doggone Blues (Standing My Ground)
-- Grape Jelly (Back To Bogalusa)
-- Born In Louisiana (Standing My Ground)
-- 'Okie Dokie Stomp (The Peacock Recordings: 1949-1959)'
-- Blues Power (Long Way Home)
-- Deep, Deep Water (Long Way Home)
+  - I Got My Mojo Working (Standing My Ground)
+  - Long Way Home (Long Way Home)
+  - Ventilator Blues
+  - Honky Tonk (The Man)
+  - I Hate These Doggone Blues (Standing My Ground)
+  - Grape Jelly (Back To Bogalusa)
+  - Born In Louisiana (Standing My Ground)
+  - 'Okie Dokie Stomp (The Peacock Recordings: 1949-1959)'
+  - Blues Power (Long Way Home)
+  - 'Deep, Deep Water (Long Way Home)'
 external_urls:
-  spotify: https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo
-  wikipedia: https://en.wikipedia.org/wiki/Clarence_Gatemouth_Brown
+  spotify: 'https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo'
+  wikipedia: 'https://en.wikipedia.org/wiki/Clarence_Gatemouth_Brown'
 image_path: 03_Resources/source_material/ArtistPortraits/gatemouth_brown.jpg
 biography_enhanced_at: '2025-10-19T10:33:34.056932'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.alligator.com/artists/Clarence-Gatemouth-Brown/
-- https://michaelcorcoran.substack.com/p/on-the-centennial-of-clarence-gatemouth
-- https://veritenews.org/2025/01/15/bitd-clarence-gatemouth-brown-katrina/
-- https://www.tshaonline.org/handbook/entries/brown-clarence-gatemouth
+  - 'https://www.alligator.com/artists/Clarence-Gatemouth-Brown/'
+  - >-
+    https://michaelcorcoran.substack.com/p/on-the-centennial-of-clarence-gatemouth
+  - 'https://veritenews.org/2025/01/15/bitd-clarence-gatemouth-brown-katrina/'
+  - 'https://www.tshaonline.org/handbook/entries/brown-clarence-gatemouth'
 network_extracted: true
 entry_created: '2025-10-19T10:33:34.056951'
 last_updated: '2025-12-23T08:16:09.025221'
-
+birth_date: '1924-04-18'
+artist_type: person
 ---
 
 ![](gatemouth_brown.jpg)

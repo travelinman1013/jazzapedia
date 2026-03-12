@@ -2,20 +2,20 @@
 title: Pete Rock
 wiki_slug: pete-rock
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1970-06-21'
-birth_place: The Bronx, New York City, New York, USA
+birth_place: 'The Bronx, New York City, New York, USA'
 genres:
-- jazz rap
-- east coast hip hop
-- boom bap
+  - jazz rap
+  - east coast hip hop
+  - boom bap
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Pete_Rock.jpg
   caption: Pete Rock
   background: solo_singer
   born: '1970-06-21'
-  origin: The Bronx, New York City, New York, USA
+  origin: 'The Bronx, New York City, New York, USA'
 audio_profile:
   tempo_avg: 105.4
   energy_avg: 0.724
@@ -23,7 +23,7 @@ audio_profile:
   danceability_avg: 0.683
   acousticness_avg: 0.135
   instrumentalness_avg: 0.135
-  loudness_avg: -6.0
+  loudness_avg: -6
   speechiness_avg: 0.246
   liveness_avg: 0.224
   track_count: 52
@@ -31,48 +31,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - CL Smooth
-  - Heavy D
-  - Nas
-  - Grap Luva
+    - CL Smooth
+    - Heavy D
+    - Nas
+    - Grap Luva
   influenced:
-  - J Dilla
-  - 9th Wonder
-  - Kanye West
+    - J Dilla
+    - 9th Wonder
+    - Kanye West
   mentors:
-  - Marley Marl
-  - His father (unnamed DJ)
+    - Marley Marl
+    - His father (unnamed DJ)
 spotify_data:
   followers: 379679
   id: 3BeQqzKdlARoOd6y30kCO2
   popularity: 49
-  url: https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2
+  url: 'https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2'
 discography_enriched: true
 top_tracks:
-- Grown Man Sport (Center of Attention)
-- After The Storm (feat. Tyler, The Creator & Bootsy Collins) - Pete Rock Remix
-- Down With the King (feat. Pete Rock & C.L. Smooth)
-- Step Up (Center of Attention)
-- A Little Soul (Petestrumentals)
-- Square One (Center of Attention)
-- Dreamin' (The Auditorium Vol. 1)
-- Think Twice (Center of Attention)
-- Fakin Jax (Center of Attention)
-- This Man (The Auditorium Vol. 1)
+  - Grown Man Sport (Center of Attention)
+  - >-
+    After The Storm (feat. Tyler, The Creator & Bootsy Collins) - Pete Rock
+    Remix
+  - Down With the King (feat. Pete Rock & C.L. Smooth)
+  - Step Up (Center of Attention)
+  - A Little Soul (Petestrumentals)
+  - Square One (Center of Attention)
+  - Dreamin' (The Auditorium Vol. 1)
+  - Think Twice (Center of Attention)
+  - Fakin Jax (Center of Attention)
+  - This Man (The Auditorium Vol. 1)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/39a973f2-0785-4ef6-90d9-551378864f89
-  spotify: https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2
-  wikipedia: https://en.wikipedia.org/wiki/Pete_Rock
+  musicbrainz: 'https://musicbrainz.org/artist/39a973f2-0785-4ef6-90d9-551378864f89'
+  spotify: 'https://open.spotify.com/artist/3BeQqzKdlARoOd6y30kCO2'
+  wikipedia: 'https://en.wikipedia.org/wiki/Pete_Rock'
 image_path: 03_Resources/source_material/ArtistPortraits/Pete_Rock.jpg
 biography_enhanced_at: '2025-10-20T09:46:35.151424'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://mabumbe.com/people/pete-rocks-life-story-early-beginnings-achievements-more/
-- https://en.wikipedia.org/wiki/Pete_Rock
-- https://www.onestophiphop.co.uk/blogs/pure-hip-hop/pete-rock-the-soul-brother-who-shaped-east-coast-hip-hop
-- https://www.stereofox.com/artists/pete-rock/
-- https://www.hiphopscriptures.com/pete-rock
+  - >-
+    https://mabumbe.com/people/pete-rocks-life-story-early-beginnings-achievements-more/
+  - 'https://en.wikipedia.org/wiki/Pete_Rock'
+  - >-
+    https://www.onestophiphop.co.uk/blogs/pure-hip-hop/pete-rock-the-soul-brother-who-shaped-east-coast-hip-hop
+  - 'https://www.stereofox.com/artists/pete-rock/'
+  - 'https://www.hiphopscriptures.com/pete-rock'
 network_extracted: true
 entry_created: '2025-10-20T09:46:35.151446'
 last_updated: '2025-12-23T08:16:03.565690'
@@ -81,9 +85,9 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:41:00.363613'
 musicbrainz_id: 39a973f2-0785-4ef6-90d9-551378864f89
 tags:
-- alternative hip hop
-- boom bap
-- conscious hip hop
+  - alternative hip hop
+  - boom bap
+  - conscious hip hop
 ---
 
 ![](Pete_Rock.jpg)

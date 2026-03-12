@@ -1,12 +1,12 @@
 ---
-title: Real Dreem, Tell Dem Turbo
+title: 'Real Dreem, Tell Dem Turbo'
 wiki_slug: real-dreem-tell-dem-turbo
 schema_version: 2
 status: active
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/real_dreem_tell_dem_turbo.jpg
-  caption: Real Dreem, Tell Dem Turbo
+  caption: 'Real Dreem, Tell Dem Turbo'
   background: solo_singer
 audio_profile:
   tempo_avg: 174.1
@@ -23,34 +23,36 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Chronic Law
+    - Chronic Law
   influenced: []
   mentors: []
 spotify_data:
   followers: 66
   id: 1eNkpsOIohQ1SP058xYH3y
   popularity: 36
-  url: https://open.spotify.com/artist/1eNkpsOIohQ1SP058xYH3y
+  url: 'https://open.spotify.com/artist/1eNkpsOIohQ1SP058xYH3y'
 discography_enriched: true
 top_tracks:
-- Emergency (feat. Wyclef Jean, Turbo the Great) (Lil Herb)
-- Emergency (feat. Wyclef Jean, Turbo the Great) (Lil Herb (Extended))
-- Emergency (feat. Wyclef Jean, Turbo the Great) (Lil Herb (Extended))
+  - 'Emergency (feat. Wyclef Jean, Turbo the Great) (Lil Herb)'
+  - 'Emergency (feat. Wyclef Jean, Turbo the Great) (Lil Herb (Extended))'
+  - 'Emergency (feat. Wyclef Jean, Turbo the Great) (Lil Herb (Extended))'
 external_urls:
-  spotify: https://open.spotify.com/artist/1eNkpsOIohQ1SP058xYH3y
+  spotify: 'https://open.spotify.com/artist/1eNkpsOIohQ1SP058xYH3y'
   wikipedia: Not found
 image_path: ''
 biography_enhanced_at: '2025-12-04T08:26:07.222272'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.shazam.com/artist/real-dreem-jahyanai-and-tell-dem-turbo/1617718825
-- https://www.youtube.com/watch?v=VST8LP6oRX4
-- https://blog.lyricallemonade.com/p/a-conversation-with-turbo/
+  - >-
+    https://www.shazam.com/artist/real-dreem-jahyanai-and-tell-dem-turbo/1617718825
+  - 'https://www.youtube.com/watch?v=VST8LP6oRX4'
+  - 'https://blog.lyricallemonade.com/p/a-conversation-with-turbo/'
 network_extracted: true
 entry_created: '2025-12-04T08:26:07.222283'
 last_updated: '2025-12-23T08:16:14.707466'
 origin: Unknown
+artist_type: band
 ---
 
 ![]()

@@ -29,30 +29,32 @@ spotify_data:
   followers: 91
   id: 4BqrcNbCVneZqkMWpMzGzP
   popularity: 0
-  url: https://open.spotify.com/artist/4BqrcNbCVneZqkMWpMzGzP
+  url: 'https://open.spotify.com/artist/4BqrcNbCVneZqkMWpMzGzP'
 discography_enriched: true
 top_tracks:
-- Alguém Te Vê (Alguém Te Vê)
-- Essa Mentira (Não Cabe em Você) (Alguém Te Vê)
-- Bonita da Balada (Alguém Te Vê)
-- Linda Blair (Alguém Te Vê)
-- Cobras no Paraíso (Alguém Te Vê)
-- Makina Loka (Makina Loka)
-- Sister Mary (Makina Loka)
-- Ninguém é Dorian (Makina Loka)
-- Gagá (Makina Loka)
+  - Alguém Te Vê (Alguém Te Vê)
+  - Essa Mentira (Não Cabe em Você) (Alguém Te Vê)
+  - Bonita da Balada (Alguém Te Vê)
+  - Linda Blair (Alguém Te Vê)
+  - Cobras no Paraíso (Alguém Te Vê)
+  - Makina Loka (Makina Loka)
+  - Sister Mary (Makina Loka)
+  - Ninguém é Dorian (Makina Loka)
+  - Gagá (Makina Loka)
 external_urls:
-  spotify: https://open.spotify.com/artist/4BqrcNbCVneZqkMWpMzGzP
+  spotify: 'https://open.spotify.com/artist/4BqrcNbCVneZqkMWpMzGzP'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/bruxos_modernos.jpg
 biography_enhanced_at: '2025-12-23T02:05:59.668536'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.bandsintown.com/e/107638307-the-targets-at-casa-lab-sp?came_from=209
+  - >-
+    https://www.bandsintown.com/e/107638307-the-targets-at-casa-lab-sp?came_from=209
 network_extracted: true
 entry_created: '2025-12-23T02:05:59.668547'
 last_updated: '2025-12-23T08:16:06.158017'
+artist_type: band
 ---
 
 ![](bruxos_modernos.jpg)

@@ -1,16 +1,17 @@
 ---
-title: Ivan Neville, Aaron Neville, Bonnie Raitt, Michael McDonald, Tro
+title: Ivan Neville
 wiki_slug: ivan-neville-aaron-neville-bonnie-raitt-michael-mcdonald-tro
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- classic soul
+  - classic soul
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/ivan_neville_aaron_neville_bonnie_raitt_michael_mcdonald_tro.jpg
-  caption: Ivan Neville, Aaron Neville, Bonnie Raitt, Michael McDonald, Tro
+  image: >-
+    03_Resources/source_material/ArtistPortraits/ivan_neville_aaron_neville_bonnie_raitt_michael_mcdonald_tro.jpg
+  caption: 'Ivan Neville, Aaron Neville, Bonnie Raitt, Michael McDonald, Tro'
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 116.4
   energy_avg: 0.439
@@ -26,54 +27,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bonnie Raitt
-  - Keith Richards
-  - Rolling Stones
-  - Dumpstaphunk
-  - Spin Doctors
-  - Aaron Neville, Bonnie Raitt, Michael McDonald, Trombone Shorty
+    - Bonnie Raitt
+    - Keith Richards
+    - Rolling Stones
+    - Dumpstaphunk
+    - Spin Doctors
+    - 'Aaron Neville, Bonnie Raitt, Michael McDonald, Trombone Shorty'
   influenced:
-  - Ian Neville
-  - David Shaw (The Revivalists)
+    - Ian Neville
+    - David Shaw (The Revivalists)
   mentors:
-  - Aaron Neville
-  - Art Neville
-  - Allen Toussaint
+    - Aaron Neville
+    - Art Neville
+    - Allen Toussaint
 spotify_data:
   followers: 166736
   id: 57ALvbCBaCkNlgTOSiUPdT
   popularity: 54
-  url: https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT
+  url: 'https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT'
 discography_enriched: true
 top_tracks:
-- Don't Know Much (with Aaron Neville) (Cry Like a Rainstorm Howl Like the Wind)
-- Tell It Like It Is (Soul Feeling)
-- Tell It Like It Is
-- Tell It Like It Is
-- All My Life (with Aaron Neville) - 1999 Remaster (Cry Like a Rainstorm Howl Like the Wind)
-- Hercules (Tell It Like It Is)
-- The Weight - Live
-- Don't Know Much (feat. Aaron Neville) - 2015 Remaster
-- Everybody Plays The Fool (Warm Your Heart)
-- Even If My Heart Would Break (Breathless)
+  - >-
+    Don't Know Much (with Aaron Neville) (Cry Like a Rainstorm Howl Like the
+    Wind)
+  - Tell It Like It Is (Soul Feeling)
+  - Tell It Like It Is
+  - Tell It Like It Is
+  - >-
+    All My Life (with Aaron Neville) - 1999 Remaster (Cry Like a Rainstorm Howl
+    Like the Wind)
+  - Hercules (Tell It Like It Is)
+  - The Weight - Live
+  - Don't Know Much (feat. Aaron Neville) - 2015 Remaster
+  - Everybody Plays The Fool (Warm Your Heart)
+  - Even If My Heart Would Break (Breathless)
 external_urls:
-  spotify: https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT
-  wikipedia: https://en.wikipedia.org/wiki/Ivan_Neville
-image_path: 03_Resources/source_material/ArtistPortraits/ivan_neville_aaron_neville_bonnie_raitt_michael_mcdonald_tro.jpg
+  spotify: 'https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ivan_Neville'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/ivan_neville_aaron_neville_bonnie_raitt_michael_mcdonald_tro.jpg
 biography_enhanced_at: '2025-11-21T07:25:46.997685'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://playingforchange.com/artists/ivan-neville
-- https://en.wikipedia.org/wiki/Ivan_Neville
-- https://music.youtube.com/channel/UCmS_aPeSvtSt_MnOF5NQmDA
-- https://www.minttalentgroup.com/ivan-neville
-- https://www.seattleweekly.com/music/ivan-neville-comes-from-an-insanely-musical-family-his-dad-is-aaron/
-- https://www.psaudio.com/blogs/copper/ivan-neville-carrying-on-the-family-musical-torch
-- http://www.makingitwithchrisg.com/podcast/019
+  - 'https://playingforchange.com/artists/ivan-neville'
+  - 'https://en.wikipedia.org/wiki/Ivan_Neville'
+  - 'https://music.youtube.com/channel/UCmS_aPeSvtSt_MnOF5NQmDA'
+  - 'https://www.minttalentgroup.com/ivan-neville'
+  - >-
+    https://www.seattleweekly.com/music/ivan-neville-comes-from-an-insanely-musical-family-his-dad-is-aaron/
+  - >-
+    https://www.psaudio.com/blogs/copper/ivan-neville-carrying-on-the-family-musical-torch
+  - 'http://www.makingitwithchrisg.com/podcast/019'
 network_extracted: true
 entry_created: '2025-11-21T07:25:46.997700'
 last_updated: '2025-12-23T08:16:09.945016'
+birth_date: '1959'
+artist_type: person
 ---
 
 ![](ivan_neville_aaron_neville_bonnie_raitt_michael_mcdonald_tro.jpg)

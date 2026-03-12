@@ -2,14 +2,14 @@
 title: Brian Auger & The Trinity
 wiki_slug: brian-auger-the-trinity
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 birth_date: '1968'
 genres:
-- acid rock
+  - acid rock
 instruments:
-- eponymous
-- original
+  - eponymous
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/brian_auger_and_the_trinity.jpg
   caption: Brian Auger & The Trinity
@@ -30,68 +30,70 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Julie Driscoll
-  - Vic Briggs
-  - Rod Stewart
-  - John McLaughlin
-  - Clive Thacker
-  - Roger Sutton
-  - Gary Boyle
-  - Eric Burdon
-  - Sonny Boy Williamson
-  - Jimmy Page
+    - Julie Driscoll
+    - Vic Briggs
+    - Rod Stewart
+    - John McLaughlin
+    - Clive Thacker
+    - Roger Sutton
+    - Gary Boyle
+    - Eric Burdon
+    - Sonny Boy Williamson
+    - Jimmy Page
   influenced:
-  - Jazz fusion artists
+    - Jazz fusion artists
   mentors:
-  - Long John Baldry
+    - Long John Baldry
 spotify_data:
   followers: 1764
   id: 64mmVwEeYtiiheLlRhTMuU
   popularity: 21
-  url: https://open.spotify.com/artist/64mmVwEeYtiiheLlRhTMuU
+  url: 'https://open.spotify.com/artist/64mmVwEeYtiiheLlRhTMuU'
 discography_enriched: true
 top_tracks:
-- Flesh Failures (Let the Sunshine In) (Streetnoise)
-- Walking (Auger Incorporated)
-- Indian Rope Man (Streetnoise)
-- I See a Man Downstairs (Don't Send Me No Flowers)
-- Bumpin' on Sunset (Definitely What)
-- Light My Fire (Streetnoise)
-- Season of the Witch (Open)
-- Why (Am I Treated So Bad) (Open)
-- Tropic of Capricorn (Streetnoise)
-- In And Out (Open)
+  - Flesh Failures (Let the Sunshine In) (Streetnoise)
+  - Walking (Auger Incorporated)
+  - Indian Rope Man (Streetnoise)
+  - I See a Man Downstairs (Don't Send Me No Flowers)
+  - Bumpin' on Sunset (Definitely What)
+  - Light My Fire (Streetnoise)
+  - Season of the Witch (Open)
+  - Why (Am I Treated So Bad) (Open)
+  - Tropic of Capricorn (Streetnoise)
+  - In And Out (Open)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6c3412f5-aa21-4ecf-a641-9d9ae885b1e5
-  spotify: https://open.spotify.com/artist/64mmVwEeYtiiheLlRhTMuU
-  wikipedia: https://en.wikipedia.org/wiki/Brian_Auger_and_the_Trinity
+  musicbrainz: 'https://musicbrainz.org/artist/6c3412f5-aa21-4ecf-a641-9d9ae885b1e5'
+  spotify: 'https://open.spotify.com/artist/64mmVwEeYtiiheLlRhTMuU'
+  wikipedia: 'https://en.wikipedia.org/wiki/Brian_Auger_and_the_Trinity'
 image_path: 03_Resources/source_material/ArtistPortraits/brian_auger_and_the_trinity.jpg
 biography_enhanced_at: '2025-12-04T07:17:38.156228'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://brianauger.com/full-bio-2/
-- https://nostalgiacentral.com/music/artists-a-to-k/artists-b/brian-auger-the-trinity/
-- https://blog.musoscribe.com/index.php/2022/06/27/whenever-youre-ready-brian-auger-celebrates-60-years-in-music-part-1-of-3/
-- https://www.last.fm/music/Brian+Auger+&+The+Trinity/+wiki
-- https://jazztimes.com/features/profiles/brian-auger/
-- https://en.wikipedia.org/wiki/Brian_Auger_and_the_Trinity
+  - 'https://brianauger.com/full-bio-2/'
+  - >-
+    https://nostalgiacentral.com/music/artists-a-to-k/artists-b/brian-auger-the-trinity/
+  - >-
+    https://blog.musoscribe.com/index.php/2022/06/27/whenever-youre-ready-brian-auger-celebrates-60-years-in-music-part-1-of-3/
+  - 'https://www.last.fm/music/Brian+Auger+&+The+Trinity/+wiki'
+  - 'https://jazztimes.com/features/profiles/brian-auger/'
+  - 'https://en.wikipedia.org/wiki/Brian_Auger_and_the_Trinity'
 network_extracted: true
 entry_created: '2025-12-04T07:17:38.156241'
 last_updated: '2025-12-23T08:16:06.075674'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 6536929c-9bbf-4f99-a5cf-14a574cabea9
-  name: Brian Auger
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 6536929c-9bbf-4f99-a5cf-14a574cabea9
+    name: Brian Auger
 musicbrainz_id: 6c3412f5-aa21-4ecf-a641-9d9ae885b1e5
-origin: London
+origin: 'London, England, United Kingdom'
 tags:
-- jazz rock
-- progressive rock
+  - jazz rock
+  - progressive rock
 ---
 
 ![](brian_auger_and_the_trinity.jpg)

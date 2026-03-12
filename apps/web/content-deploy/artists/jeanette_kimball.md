@@ -1,15 +1,15 @@
 ---
-title: jeanette kimball
+title: Jeanette Kimball
 wiki_slug: jeanette-kimball
 schema_version: 2
 status: active
-birth_place: Pass Christian, Mississippi, USA
+birth_place: 'Pass Christian, Mississippi, USA'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jeanette_kimball.jpg
   caption: jeanette kimball
   background: solo_singer
-  origin: Pass Christian, Mississippi, USA
+  origin: 'Pass Christian, Mississippi, USA'
 audio_profile:
   tempo_avg: 132.7
   energy_avg: 0.354
@@ -25,48 +25,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Papa Celestin
-  - Clive Wilson
-  - Kid Sheik
-  - Herbert Leary
-  - Eddie Pierson and Albert 'Papa' French
+    - Papa Celestin
+    - Clive Wilson
+    - Kid Sheik
+    - Herbert Leary
+    - Eddie Pierson and Albert 'Papa' French
   influenced:
-  - Clive Wilson
+    - Clive Wilson
   mentors:
-  - Stewart (first name unknown)
+    - Stewart (first name unknown)
 spotify_data:
   followers: 86
   id: 1hVdKB9owxq0737rs0JZyD
   popularity: 8
-  url: https://open.spotify.com/artist/1hVdKB9owxq0737rs0JZyD
+  url: 'https://open.spotify.com/artist/1hVdKB9owxq0737rs0JZyD'
 discography_enriched: true
 top_tracks:
-- Don't Go 'Way Nobody (The Sheik of Araby)
-- Bugle Boy March (In the Tradition)
-- After the Ball (Echoes of New Orleans)
-- Sugar Blues (In the Tradition)
-- A Fool Such as I (In the Tradition)
-- I Used to Love You (Take 1) (Rare and Unissued Recordings 1954-1962)
-- Mr. Sandman (In the Tradition)
-- Last Night on the Back Porch (The Sheik of Araby)
-- Swanee River (The Sheik of Araby)
-- Chloe (Sammy Rimington Quintet)
+  - Don't Go 'Way Nobody (The Sheik of Araby)
+  - Bugle Boy March (In the Tradition)
+  - After the Ball (Echoes of New Orleans)
+  - Sugar Blues (In the Tradition)
+  - A Fool Such as I (In the Tradition)
+  - I Used to Love You (Take 1) (Rare and Unissued Recordings 1954-1962)
+  - Mr. Sandman (In the Tradition)
+  - Last Night on the Back Porch (The Sheik of Araby)
+  - Swanee River (The Sheik of Araby)
+  - Chloe (Sammy Rimington Quintet)
 external_urls:
-  spotify: https://open.spotify.com/artist/1hVdKB9owxq0737rs0JZyD
-  wikipedia: https://en.wikipedia.org/wiki/Jeanette_Kimball
+  spotify: 'https://open.spotify.com/artist/1hVdKB9owxq0737rs0JZyD'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jeanette_Kimball'
 image_path: ''
 biography_enhanced_at: '2025-11-23T06:25:09.175287'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://salon726.com/home/2017/10/4/ladiesofpreshall-jeanette-kimball
-- https://syncopatedtimes.com/from-the-back-to-the-front-sophisticated-lady-jeanette-kimball/
-- https://en.wikipedia.org/wiki/Jeanette_Kimball
-- https://www.findagrave.com/memorial/154950782/jeanette-kimball
-- https://www.allmusic.com/artist/jeanette-kimball-mn0002142352
+  - 'https://salon726.com/home/2017/10/4/ladiesofpreshall-jeanette-kimball'
+  - >-
+    https://syncopatedtimes.com/from-the-back-to-the-front-sophisticated-lady-jeanette-kimball/
+  - 'https://en.wikipedia.org/wiki/Jeanette_Kimball'
+  - 'https://www.findagrave.com/memorial/154950782/jeanette-kimball'
+  - 'https://www.allmusic.com/artist/jeanette-kimball-mn0002142352'
 network_extracted: true
 entry_created: '2025-11-23T06:25:09.175299'
 last_updated: '2025-12-23T08:16:10.276557'
+birth_date: '1906-12-18'
+death_date: '2001-03-29'
+artist_type: person
 ---
 
 ![]()

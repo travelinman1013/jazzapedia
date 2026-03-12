@@ -1,21 +1,21 @@
 ---
-title: carmen lundy
+title: Carmen Lundy
 wiki_slug: carmen-lundy
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1954-11-01'
-birth_place: Miami, Florida, United States
+birth_place: 'Miami, Florida, United States'
 genres:
-- vocal jazz
+  - vocal jazz
 instruments:
-- lead vocals
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/carmen_lundy.jpg
   caption: carmen lundy
   background: solo_singer
   born: '1954-11-01'
-  origin: Miami, Florida, United States
+  origin: 'Miami, Florida, United States'
 audio_profile:
   tempo_avg: 111.5
   energy_avg: 0.471
@@ -31,55 +31,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bruce Hornsby
-  - Pat Metheny
-  - Kenny Barron
-  - Ernie Watts
-  - Terri Lyne Carrington
-  - Regina Carter
-  - Elisabeth Oei
+    - Bruce Hornsby
+    - Pat Metheny
+    - Kenny Barron
+    - Ernie Watts
+    - Terri Lyne Carrington
+    - Regina Carter
+    - Elisabeth Oei
   influenced:
-  - Younger jazz vocalists and composers
+    - Younger jazz vocalists and composers
   mentors:
-  - Oveida Lundy
-  - Mary Lou Williams
+    - Oveida Lundy
+    - Mary Lou Williams
 spotify_data:
   followers: 4222
   id: 6ea0n3vrwje4VwlWDXMLxL
   popularity: 17
-  url: https://open.spotify.com/artist/6ea0n3vrwje4VwlWDXMLxL
+  url: 'https://open.spotify.com/artist/6ea0n3vrwje4VwlWDXMLxL'
 discography_enriched: true
 top_tracks:
-- Our Love Remains (Back Home in Kansas City)
-- The Island, The Sea And You (Code Noir)
-- Everything I Need (Soul to Soul)
-- Life Is a Song in Me (Soul to Soul)
-- Grace (Soul to Soul)
-- Jazz On TV (Modern Ancestors)
-- When Will They Learn (Soul to Soul)
-- Time Is Love (Good Morning Kiss)
-- Good Morning Kiss (Good Morning Kiss)
-- Have A Little Faith (Code Noir)
+  - Our Love Remains (Back Home in Kansas City)
+  - 'The Island, The Sea And You (Code Noir)'
+  - Everything I Need (Soul to Soul)
+  - Life Is a Song in Me (Soul to Soul)
+  - Grace (Soul to Soul)
+  - Jazz On TV (Modern Ancestors)
+  - When Will They Learn (Soul to Soul)
+  - Time Is Love (Good Morning Kiss)
+  - Good Morning Kiss (Good Morning Kiss)
+  - Have A Little Faith (Code Noir)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b8070575-02b9-4793-b7cf-55bd85be8636
-  spotify: https://open.spotify.com/artist/6ea0n3vrwje4VwlWDXMLxL
-  wikipedia: https://en.wikipedia.org/wiki/Carmen_Lundy
+  musicbrainz: 'https://musicbrainz.org/artist/b8070575-02b9-4793-b7cf-55bd85be8636'
+  spotify: 'https://open.spotify.com/artist/6ea0n3vrwje4VwlWDXMLxL'
+  wikipedia: 'https://en.wikipedia.org/wiki/Carmen_Lundy'
 image_path: 03_Resources/source_material/ArtistPortraits/carmen_lundy.jpg
 biography_enhanced_at: '2025-11-20T06:43:08.693040'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.artburstmiami.com/music-articles/carmen-lundy-back-in-her-miami-hometown-to-sing-mary-lou-williams-with-new-world-symphony
-- https://en.wikipedia.org/wiki/Carmen_Lundy
-- https://carmenlundy.com/wp-content/uploads/2021/07/BIO-2021-CARMENLUNDY.pdf
-- https://sfjazz.org/onthecorner/five-things-you-should-know-about-carmen-lundy/
-- https://carmenlundy.com/about-carmen-lundy/
+  - >-
+    https://www.artburstmiami.com/music-articles/carmen-lundy-back-in-her-miami-hometown-to-sing-mary-lou-williams-with-new-world-symphony
+  - 'https://en.wikipedia.org/wiki/Carmen_Lundy'
+  - 'https://carmenlundy.com/wp-content/uploads/2021/07/BIO-2021-CARMENLUNDY.pdf'
+  - >-
+    https://sfjazz.org/onthecorner/five-things-you-should-know-about-carmen-lundy/
+  - 'https://carmenlundy.com/about-carmen-lundy/'
 network_extracted: true
 entry_created: '2025-11-20T06:43:08.693056'
 last_updated: '2025-12-23T08:16:06.472245'
 disambiguation: American jazz singer
 gender: Female
 musicbrainz_id: b8070575-02b9-4793-b7cf-55bd85be8636
+origin: 'New York City, New York, United States'
 ---
 
 ![](carmen_lundy.jpg)

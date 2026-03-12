@@ -1,27 +1,27 @@
 ---
-title: JAMES BROWN
+title: James Brown
 wiki_slug: james-brown
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1933-05-03'
-birth_place: Barnwell, South Carolina, United States
+birth_place: 'Barnwell, South Carolina, United States'
 death_date: '2006-12-25'
 genres:
-- soul
-- motown
-- funk
+  - soul
+  - motown
+  - funk
 instruments:
-- eponymous
+  - eponymous
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/JAMES_BROWN.jpg
   caption: JAMES BROWN
   background: non_vocal_instrumentalist
   born: '1933-05-03'
-  origin: Barnwell, South Carolina, United States
+  origin: 'Barnwell, South Carolina, United States'
   died: '2006-12-25'
 audio_profile:
-  tempo_avg: 116.0
+  tempo_avg: 116
   energy_avg: 0.628
   valence_avg: 0.734
   danceability_avg: 0.729
@@ -35,48 +35,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Famous Flames
-  - Maceo Parker
-  - Fred Wesley
+    - The Famous Flames
+    - Maceo Parker
+    - Fred Wesley
   influenced:
-  - Michael Jackson
-  - Prince
-  - Mick Jagger
-  - Public Enemy
+    - Michael Jackson
+    - Prince
+    - Mick Jagger
+    - Public Enemy
   mentors:
-  - Louis Jordan
-  - Bobby Byrd
+    - Louis Jordan
+    - Bobby Byrd
 spotify_data:
   followers: 2315423
   id: 7GaxyUddsPok8BuhxN6OUW
   popularity: 61
-  url: https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW
+  url: 'https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW'
 discography_enriched: true
 top_tracks:
-- Get Up Offa That Thing (The 50th Anniversary Collection)
-- The Boss (Black Caesar)
-- People Get Up And Drive Your Funky Soul - Remix (Motherlode)
-- It's A Man's, Man's, Man's World - Single Version / Mono (The 50th Anniversary Collection)
-- SUPA GOOD!!! (from Dog Man)
-- The Payback (The Payback)
-- Unchained (The Payback / Untouchable)
-- I Got You (I Feel Good) (The 50th Anniversary Collection)
-- Living in America - From "Rocky IV" Soundtrack
-- Papa's Got A Brand New Bag (Star Time)
+  - Get Up Offa That Thing (The 50th Anniversary Collection)
+  - The Boss (Black Caesar)
+  - People Get Up And Drive Your Funky Soul - Remix (Motherlode)
+  - >-
+    It's A Man's, Man's, Man's World - Single Version / Mono (The 50th
+    Anniversary Collection)
+  - SUPA GOOD!!! (from Dog Man)
+  - The Payback (The Payback)
+  - Unchained (The Payback / Untouchable)
+  - I Got You (I Feel Good) (The 50th Anniversary Collection)
+  - Living in America - From "Rocky IV" Soundtrack
+  - Papa's Got A Brand New Bag (Star Time)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/20ff3303-4fe2-4a47-a1b6-291e26aa3438
-  spotify: https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW
-  wikipedia: https://en.wikipedia.org/wiki/James_Brown
+  musicbrainz: 'https://musicbrainz.org/artist/20ff3303-4fe2-4a47-a1b6-291e26aa3438'
+  spotify: 'https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW'
+  wikipedia: 'https://en.wikipedia.org/wiki/James_Brown'
 image_path: 03_Resources/source_material/ArtistPortraits/JAMES_BROWN.jpg
 biography_enhanced_at: '2025-10-19T11:36:33.430045'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/James_Brown
-- https://www.biography.com/musicians/james-brown
-- https://www.georgiaencyclopedia.org/articles/arts-culture/james-brown-ca-1933-2006/
-- https://wers.org/the-vault-of-soul-james-brown/
-- https://www.ebsco.com/research-starters/biography/james-brown
+  - 'https://en.wikipedia.org/wiki/James_Brown'
+  - 'https://www.biography.com/musicians/james-brown'
+  - >-
+    https://www.georgiaencyclopedia.org/articles/arts-culture/james-brown-ca-1933-2006/
+  - 'https://wers.org/the-vault-of-soul-james-brown/'
+  - 'https://www.ebsco.com/research-starters/biography/james-brown'
 network_extracted: true
 entry_created: '2025-10-19T11:36:33.430057'
 last_updated: '2025-12-23T08:16:02.427385'
@@ -85,10 +88,11 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:30:34.109312'
 musicbrainz_id: 20ff3303-4fe2-4a47-a1b6-291e26aa3438
 tags:
-- blues
-- christmas music
-- disco
-
+  - blues
+  - christmas music
+  - disco
+is_active: false
+origin: 'Augusta, Georgia, United States'
 ---
 
 ![](JAMES_BROWN.jpg)

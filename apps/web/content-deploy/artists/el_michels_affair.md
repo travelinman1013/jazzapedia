@@ -1,89 +1,89 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-01-07T01:14:39.275329'
 birth_date: '2001'
 enhancement_provider: perplexity
 entry_created: '2026-01-07T01:14:39.275334'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/dbf0a5c5-3665-4495-b13b-99438a6a0900
-  spotify: https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc
+  musicbrainz: 'https://musicbrainz.org/artist/dbf0a5c5-3665-4495-b13b-99438a6a0900'
+  spotify: 'https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/el_michels_affair.jpg
 last_updated: '2026-01-07T01:14:39.275335'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 741371e7-e0e1-4ad7-b673-8a7afe7940aa
-  name: Thomas Brenneck
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6554ffb4-fa5a-4e46-9c03-53b04704cfd9
-  name: Aaron Johnson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0438dfba-84aa-4cae-832b-f449ced42985
-  name: Michael Leonhart
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e99e2c02-0ca7-4687-897c-efedbe5b98c2
-  name: Leon Michels
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0fc5c3bc-129f-47f5-8f6b-f8ac169c7722
-  name: Nick Movshon
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4f8bbb20-4b4d-43cd-bf45-be9efc694714
-  name: Tobias Pazner
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c1bdc39a-13d5-4a2a-8baa-ef7414acfb63
-  name: Todd Simon
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9a3b83a9-b245-4e85-9c0f-3fff2219bd9e
-  name: Homer Steinweiss
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 741371e7-e0e1-4ad7-b673-8a7afe7940aa
+    name: Thomas Brenneck
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6554ffb4-fa5a-4e46-9c03-53b04704cfd9
+    name: Aaron Johnson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0438dfba-84aa-4cae-832b-f449ced42985
+    name: Michael Leonhart
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e99e2c02-0ca7-4687-897c-efedbe5b98c2
+    name: Leon Michels
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0fc5c3bc-129f-47f5-8f6b-f8ac169c7722
+    name: Nick Movshon
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4f8bbb20-4b4d-43cd-bf45-be9efc694714
+    name: Tobias Pazner
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c1bdc39a-13d5-4a2a-8baa-ef7414acfb63
+    name: Todd Simon
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9a3b83a9-b245-4e85-9c0f-3fff2219bd9e
+    name: Homer Steinweiss
 musical_connections:
   collaborators:
-  - Nick Movshon
-  - Homer Steinweiss
-  - Sharon Jones & The Dap-Kings
-  - Raekwon (Wu-Tang Clan)
-  - Jeff Silverman
-  - Danny Akalepse
+    - Nick Movshon
+    - Homer Steinweiss
+    - Sharon Jones & The Dap-Kings
+    - Raekwon (Wu-Tang Clan)
+    - Jeff Silverman
+    - Danny Akalepse
   influenced:
-  - Ghostface Killah, Jay-Z, J. Cole, Travis Scott
+    - 'Ghostface Killah, Jay-Z, J. Cole, Travis Scott'
   mentors:
-  - The Meters
+    - The Meters
 musicbrainz_id: dbf0a5c5-3665-4495-b13b-99438a6a0900
 network_extracted: true
-origin: New York
+origin: 'New York, New York, United States'
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/El+Michels+Affair/+wiki
-- http://spaceagencybooking.com/el-michels-affair
-- https://elmichelsaffair.com/bio/
-- https://bigcrownrecords.com/artists/el-michels-affair/
-- https://musicbrainz.org/artist/dbf0a5c5-3665-4495-b13b-99438a6a0900
+  - 'https://www.last.fm/music/El+Michels+Affair/+wiki'
+  - 'http://spaceagencybooking.com/el-michels-affair'
+  - 'https://elmichelsaffair.com/bio/'
+  - 'https://bigcrownrecords.com/artists/el-michels-affair/'
+  - 'https://musicbrainz.org/artist/dbf0a5c5-3665-4495-b13b-99438a6a0900'
 spotify_data:
   followers: 222493
   id: 0cLrgpG3pW4MX4nD8h6qCc
   popularity: 52
-  url: https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc
+  url: 'https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc'
 status: active
 tags:
-- cinematic soul
-- funk
-- funk soul
+  - cinematic soul
+  - funk
+  - funk soul
 title: El Michels Affair
 ---
 

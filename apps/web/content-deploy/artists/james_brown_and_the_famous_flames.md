@@ -4,40 +4,42 @@ biography_enhanced_at: '2026-01-17T02:02:33.950376'
 enhancement_provider: perplexity
 entry_created: '2026-01-17T02:02:33.950388'
 external_urls:
-  spotify: https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr
-  wikipedia: https://en.wikipedia.org/wiki/The_Famous_Flames
+  spotify: 'https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Famous_Flames'
 genres: []
-image_path: 03_Resources/source_material/ArtistPortraits/james_brown_and_the_famous_flames.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/james_brown_and_the_famous_flames.jpg
 is_active: true
 last_updated: '2026-01-17T02:02:33.950390'
 musical_connections:
   collaborators:
-  - Bobby Byrd
-  - Johnny Terry
-  - Lloyd Stallworth
-  - Bobby Bennett
+    - Bobby Byrd
+    - Johnny Terry
+    - Lloyd Stallworth
+    - Bobby Bennett
   influenced:
-  - The Fabulous Flames
+    - The Fabulous Flames
   mentors:
-  - Bobby Byrd
-  - Little Richard's manager
+    - Bobby Byrd
+    - Little Richard's manager
 network_extracted: true
-origin: Toccoa, Georgia, USA
+origin: 'Toccoa, Georgia, United States'
 primary_source: perplexity
 research_sources:
-- https://www.famousflamesstore.com/team-1
-- https://www.songhall.org/profiles/james-brown
-- https://wers.org/the-vault-of-soul-james-brown/
-- https://en.wikipedia.org/wiki/The_Famous_Flames
-- https://www.augustamuseum.org/JamesBrown
-- https://www.britannica.com/biography/James-Brown-American-singer
+  - 'https://www.famousflamesstore.com/team-1'
+  - 'https://www.songhall.org/profiles/james-brown'
+  - 'https://wers.org/the-vault-of-soul-james-brown/'
+  - 'https://en.wikipedia.org/wiki/The_Famous_Flames'
+  - 'https://www.augustamuseum.org/JamesBrown'
+  - 'https://www.britannica.com/biography/James-Brown-American-singer'
 spotify_data:
   followers: 250081
   id: 32r72WOqqRO1DtSznId7Lr
   popularity: 60
-  url: https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr
+  url: 'https://open.spotify.com/artist/32r72WOqqRO1DtSznId7Lr'
 status: active
-title: James brown and the FAmous Flames
+title: James Brown and the FAmous Flames
+birth_place: 'Barnwell, South Carolina, United States'
 ---
 
 ![](james_brown_and_the_famous_flames.jpg)

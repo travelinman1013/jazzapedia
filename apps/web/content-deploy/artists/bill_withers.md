@@ -1,21 +1,21 @@
 ---
-title: bill withers
+title: Bill Withers
 wiki_slug: bill-withers
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1938-07-04'
-birth_place: Slab Fork, West Virginia, United States
+birth_place: 'Slab Fork, West Virginia, United States'
 death_date: '2020-03-30'
 genres:
-- soul
-- motown
+  - soul
+  - motown
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bill_withers.jpg
   caption: bill withers
   background: solo_singer
   born: '1938-07-04'
-  origin: Slab Fork, West Virginia, United States
+  origin: 'Slab Fork, West Virginia, United States'
   died: '2020-03-30'
 audio_profile:
   tempo_avg: 102.2
@@ -32,45 +32,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Grover Washington Jr.
-  - Watts 103rd Street Band
-  - The Crusaders
-  - Ralph MacDonald
+    - Grover Washington Jr.
+    - Watts 103rd Street Band
+    - The Crusaders
+    - Ralph MacDonald
   influenced:
-  - John Legend
-  - Ed Sheeran
-  - Aloe Blacc
+    - John Legend
+    - Ed Sheeran
+    - Aloe Blacc
   mentors:
-  - Booker T. Jones
+    - Booker T. Jones
 spotify_data:
   followers: 1998893
   id: 1ThoqLcyIYvZn7iWbj8fsj
   popularity: 71
-  url: https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj
+  url: 'https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj'
 discography_enriched: true
 top_tracks:
-- Lovely Day (Menagerie)
-- Ain't No Sunshine (Just As I Am)
-- Just the Two of Us (feat. Bill Withers) (Anthology)
-- Use Me (Still Bill)
-- Lean on Me (Still Bill)
-- Just the Two of Us (feat. Bill Withers) - Edit
-- Grandma's Hands (Just As I Am)
-- Lovely Day
-- 'Just the Two of Us (In the Name of Love: The Elektra Recordings 1979-1984)'
-- Who Is He (And What Is He to You)? (Still Bill)
+  - Lovely Day (Menagerie)
+  - Ain't No Sunshine (Just As I Am)
+  - Just the Two of Us (feat. Bill Withers) (Anthology)
+  - Use Me (Still Bill)
+  - Lean on Me (Still Bill)
+  - Just the Two of Us (feat. Bill Withers) - Edit
+  - Grandma's Hands (Just As I Am)
+  - Lovely Day
+  - 'Just the Two of Us (In the Name of Love: The Elektra Recordings 1979-1984)'
+  - Who Is He (And What Is He to You)? (Still Bill)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/fd1a2d9d-9bb6-44de-83a3-41560658aba9
-  spotify: https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj
-  wikipedia: https://en.wikipedia.org/wiki/Bill_Withers
+  musicbrainz: 'https://musicbrainz.org/artist/fd1a2d9d-9bb6-44de-83a3-41560658aba9'
+  spotify: 'https://open.spotify.com/artist/1ThoqLcyIYvZn7iWbj8fsj'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bill_Withers'
 image_path: 03_Resources/source_material/ArtistPortraits/bill_withers.jpg
 biography_enhanced_at: '2025-10-19T11:49:49.917805'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Bill_Withers
-- https://billwithers.com/biography/
-- https://kids.kiddle.co/Bill_Withers
+  - 'https://en.wikipedia.org/wiki/Bill_Withers'
+  - 'https://billwithers.com/biography/'
+  - 'https://kids.kiddle.co/Bill_Withers'
 network_extracted: true
 entry_created: '2025-10-19T11:49:49.917814'
 last_updated: '2025-12-23T08:16:05.519435'
@@ -78,10 +78,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:49:18.074924'
 musicbrainz_id: fd1a2d9d-9bb6-44de-83a3-41560658aba9
 tags:
-- 1970s
-- deep soul
-- funk
-
+  - 1970s
+  - deep soul
+  - funk
+is_active: false
 ---
 
 ![](bill_withers.jpg)

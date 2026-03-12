@@ -5,14 +5,14 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1928-04-09'
-birth_place: Manhattan
+birth_place: 'Manhattan, New York, United States'
 death_date: '2025-07-26'
 genres:
-- comedy
-- dark cabaret
+  - comedy
+  - dark cabaret
 instruments:
-- piano
-- spoken vocals
+  - piano
+  - spoken vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/tom_lehrer.jpg
   caption: Tom Lehrer
@@ -26,7 +26,7 @@ audio_profile:
   valence_avg: 0.745
   danceability_avg: 0.606
   acousticness_avg: 0.872
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -12.1
   speechiness_avg: 0.185
   liveness_avg: 0.221
@@ -35,50 +35,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Joe Raposo
+    - Joe Raposo
   influenced:
-  - Weird Al Yankovic
-  - Dr. Demento
-  - Tim Minchin
+    - Weird Al Yankovic
+    - Dr. Demento
+    - Tim Minchin
   mentors:
-  - Harvard faculty (various)
+    - Harvard faculty (various)
 spotify_data:
   followers: 118515
   id: 5iNvbRVX9W8t1RpD2SHpAO
   popularity: 44
-  url: https://open.spotify.com/artist/5iNvbRVX9W8t1RpD2SHpAO
+  url: 'https://open.spotify.com/artist/5iNvbRVX9W8t1RpD2SHpAO'
 discography_enriched: true
 top_tracks:
-- The Masochism Tango (Stereo Mix) (The Conducted Tom Lehrer)
-- The Masochism Tango (The Best & Worst of Tom Lehrer)
-- The Masochism Tango (Selling Out)
-- The Masochism Tango (More of Tom Lehrer)
-- The Masochism Tango
-- I Hold Your Hand in Mine (Songs by Tom Lehrer)
-- Poisoning Pigeons in the Park (Stereo Mix) (The Conducted Tom Lehrer)
-- The Elements (More of Tom Lehrer)
-- We Will All Go Together When We Go (Stereo Mix) (The Conducted Tom Lehrer)
-- The Hunting Song (Stereo Mix) (The Conducted Tom Lehrer)
+  - The Masochism Tango (Stereo Mix) (The Conducted Tom Lehrer)
+  - The Masochism Tango (The Best & Worst of Tom Lehrer)
+  - The Masochism Tango (Selling Out)
+  - The Masochism Tango (More of Tom Lehrer)
+  - The Masochism Tango
+  - I Hold Your Hand in Mine (Songs by Tom Lehrer)
+  - Poisoning Pigeons in the Park (Stereo Mix) (The Conducted Tom Lehrer)
+  - The Elements (More of Tom Lehrer)
+  - We Will All Go Together When We Go (Stereo Mix) (The Conducted Tom Lehrer)
+  - The Hunting Song (Stereo Mix) (The Conducted Tom Lehrer)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/359363a8-1dc7-40c9-9337-f5aa507000b6
-  spotify: https://open.spotify.com/artist/5iNvbRVX9W8t1RpD2SHpAO
-  wikipedia: https://en.wikipedia.org/wiki/Tom_Lehrer
+  musicbrainz: 'https://musicbrainz.org/artist/359363a8-1dc7-40c9-9337-f5aa507000b6'
+  spotify: 'https://open.spotify.com/artist/5iNvbRVX9W8t1RpD2SHpAO'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tom_Lehrer'
 image_path: 03_Resources/source_material/ArtistPortraits/tom_lehrer.jpg
 biography_enhanced_at: '2025-10-26T12:26:19.919017'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Tom_Lehrer
-- https://www.jagranjosh.com/us/trending/who-was-tom-lehrer-1860000566
-- https://www.last.fm/music/Tom+Lehrer/+wiki
+  - 'https://en.wikipedia.org/wiki/Tom_Lehrer'
+  - 'https://www.jagranjosh.com/us/trending/who-was-tom-lehrer-1860000566'
+  - 'https://www.last.fm/music/Tom+Lehrer/+wiki'
 network_extracted: true
 entry_created: '2025-10-26T12:26:19.919026'
 last_updated: '2025-12-23T08:16:17.524918'
 gender: Male
 musicbrainz_id: 359363a8-1dc7-40c9-9337-f5aa507000b6
 tags:
-- comedy
-- satire
+  - comedy
+  - satire
+is_active: false
 ---
 
 ![](tom_lehrer.jpg)

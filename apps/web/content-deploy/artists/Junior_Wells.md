@@ -2,25 +2,25 @@
 title: Junior Wells
 wiki_slug: junior-wells
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1934-12-09'
-birth_place: Memphis, Tennessee, USA
+birth_place: 'Memphis, Tennessee, USA'
 death_date: '1998-01-15'
 genres:
-- blues
-- classic blues
-- modern blues
-- blues rock
-- soul blues
+  - blues
+  - classic blues
+  - modern blues
+  - blues rock
+  - soul blues
 instruments:
-- original
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Junior_Wells.jpg
   caption: Junior Wells
   background: non_vocal_instrumentalist
   born: '1934-12-09'
-  origin: Memphis, Tennessee, USA
+  origin: 'Memphis, Tennessee, USA'
   died: '1998-01-15'
 audio_profile:
   tempo_avg: 117.2
@@ -37,48 +37,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Buddy Guy
-  - Muddy Waters
-  - The Aces (Dave Myers, Louis Myers, Fred Below)
-  - Earl Hooker
+    - Buddy Guy
+    - Muddy Waters
+    - 'The Aces (Dave Myers, Louis Myers, Fred Below)'
+    - Earl Hooker
   influenced:
-  - Billy Branch
-  - Sugar Blue
-  - Blues-rock and modern blues artists
+    - Billy Branch
+    - Sugar Blue
+    - Blues-rock and modern blues artists
   mentors:
-  - Junior Parker
-  - Sonny Boy Williamson II
-  - Little Walter
+    - Junior Parker
+    - Sonny Boy Williamson II
+    - Little Walter
 spotify_data:
   followers: 127014
   id: 78CBFzwo7wwNaaTYVP5btK
   popularity: 34
-  url: https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK
+  url: 'https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK'
 discography_enriched: true
 top_tracks:
-- She's A Sweet One (Calling All Blues - The Chief, Profile & USA Recordings 1957-1963)
-- Messin' with the Kid (Buddy Guy & Junior Wells Play The Blues)
-- Snatch It Back And Hold It (Hoodoo Man Blues)
-- Ships On The Ocean (Hoodoo Man Blues)
-- Hoodoo Man Blues (Hoodoo Man Blues)
-- (I Can't Get No) Satisfaction
-- Down Home Blues (Harp Attack!)
-- Cheaper To Keep Her (Blues Brothers 2000)
-- Cut That Out (Essential Blues Masters)
-- Watch Me Move (On Tap)
+  - >-
+    She's A Sweet One (Calling All Blues - The Chief, Profile & USA Recordings
+    1957-1963)
+  - Messin' with the Kid (Buddy Guy & Junior Wells Play The Blues)
+  - Snatch It Back And Hold It (Hoodoo Man Blues)
+  - Ships On The Ocean (Hoodoo Man Blues)
+  - Hoodoo Man Blues (Hoodoo Man Blues)
+  - (I Can't Get No) Satisfaction
+  - Down Home Blues (Harp Attack!)
+  - Cheaper To Keep Her (Blues Brothers 2000)
+  - Cut That Out (Essential Blues Masters)
+  - Watch Me Move (On Tap)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5f526374-0e88-4508-a8d6-7f25c16cb2d8
-  spotify: https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK
-  wikipedia: https://en.wikipedia.org/wiki/Junior_Wells
+  musicbrainz: 'https://musicbrainz.org/artist/5f526374-0e88-4508-a8d6-7f25c16cb2d8'
+  spotify: 'https://open.spotify.com/artist/78CBFzwo7wwNaaTYVP5btK'
+  wikipedia: 'https://en.wikipedia.org/wiki/Junior_Wells'
 image_path: 03_Resources/source_material/ArtistPortraits/Junior_Wells.jpg
 biography_enhanced_at: '2025-10-19T10:41:23.975471'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://wbssmedia.com/artists/detail/3084
-- https://www.britannica.com/biography/Junior-Wells
-- https://www.kunc.org/music/2013-08-31/junior-wells-may-have-been-the-godfather-of-pimp-style
-- https://en.wikipedia.org/wiki/Junior_Wells
+  - 'https://wbssmedia.com/artists/detail/3084'
+  - 'https://www.britannica.com/biography/Junior-Wells'
+  - >-
+    https://www.kunc.org/music/2013-08-31/junior-wells-may-have-been-the-godfather-of-pimp-style
+  - 'https://en.wikipedia.org/wiki/Junior_Wells'
 network_extracted: true
 entry_created: '2025-10-19T10:41:23.975486'
 last_updated: '2025-12-23T08:16:02.768548'
@@ -86,9 +89,11 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:33:05.187666'
 musicbrainz_id: 5f526374-0e88-4508-a8d6-7f25c16cb2d8
 tags:
-- blues
-- chicago blues
-- electric blues
+  - blues
+  - chicago blues
+  - electric blues
+is_active: false
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](Junior_Wells.jpg)

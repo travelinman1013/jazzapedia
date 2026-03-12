@@ -1,95 +1,95 @@
 ---
-title: john scofield
+title: John Scofield
 wiki_slug: john-scofield
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1951-12-26'
-birth_place: Ohio
+birth_place: 'Dayton, Ohio, United States'
 genres:
-- jazz fusion
-- jazz
-- jazz funk
-- jazz blues
-- soul jazz
+  - jazz fusion
+  - jazz
+  - jazz funk
+  - jazz blues
+  - soul jazz
 instruments:
-- guitar
-- original
-- flute
-- eponymous
-- electric guitar
-- acoustic guitar
-- guitar family
-- other vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8cbae88e-5f16-402e-a44d-bcc33171c250
-  name: John Scofield Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: eed93176-8ecc-4c5d-b291-03e112e4640a
-  name: Trio Beyond
-- begin: ''
-  end: ''
-  instruments:
   - guitar
   - original
-  mbid: e9efc3c5-3bcb-4bfc-9d16-d7ebf4182008
-  name: John Scofield Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0d1f449a-dbff-4972-b65c-5b5498c84ea3
-  name: Scolohofo
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f0fb7a00-ed72-40ec-94b4-45aa190d2d59
-  name: Medeski Scofield Martin & Wood
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 543b20c7-45ed-477f-ab58-781cd5f72014
-  name: Niels-Henning Ørsted Pedersen Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: 0fe0d15a-a02e-43dd-b05e-8ce0406beafd
-  name: Hudson
-- begin: ''
-  end: ''
-  instruments:
   - flute
-  mbid: 0fe0d15a-a02e-43dd-b05e-8ce0406beafd
-  name: Hudson
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: 9d94ecb6-dc5c-4ed2-988f-9689ba2f33a0
-  name: Adams-Peterson All Stars
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
-  - guitar
-  - original
-  mbid: 0ec5a8aa-92f2-40f7-aa05-0d00db8a5bbc
-  name: John Scofield Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 12a951d6-c237-48d3-bd44-0e4572a4aa14
-  name: David Liebman Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: da1e2f2c-1c9a-4369-a85f-4d3ed4b1a634
-  name: Gary Burton & Friends
+  - electric guitar
+  - acoustic guitar
+  - guitar family
+  - other vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8cbae88e-5f16-402e-a44d-bcc33171c250
+    name: John Scofield Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: eed93176-8ecc-4c5d-b291-03e112e4640a
+    name: Trio Beyond
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+      - original
+    mbid: e9efc3c5-3bcb-4bfc-9d16-d7ebf4182008
+    name: John Scofield Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0d1f449a-dbff-4972-b65c-5b5498c84ea3
+    name: Scolohofo
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f0fb7a00-ed72-40ec-94b4-45aa190d2d59
+    name: Medeski Scofield Martin & Wood
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 543b20c7-45ed-477f-ab58-781cd5f72014
+    name: Niels-Henning Ørsted Pedersen Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 0fe0d15a-a02e-43dd-b05e-8ce0406beafd
+    name: Hudson
+  - begin: ''
+    end: ''
+    instruments:
+      - flute
+    mbid: 0fe0d15a-a02e-43dd-b05e-8ce0406beafd
+    name: Hudson
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 9d94ecb6-dc5c-4ed2-988f-9689ba2f33a0
+    name: Adams-Peterson All Stars
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - guitar
+      - original
+    mbid: 0ec5a8aa-92f2-40f7-aa05-0d00db8a5bbc
+    name: John Scofield Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 12a951d6-c237-48d3-bd44-0e4572a4aa14
+    name: David Liebman Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: da1e2f2c-1c9a-4369-a85f-4d3ed4b1a634
+    name: Gary Burton & Friends
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/john_scofield.jpg
   caption: john scofield
@@ -111,51 +111,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Miles Davis
-  - Pat Metheny
-  - Medeski, Martin & Wood
-  - Joe Lovano
-  - Bill Frisell
+    - Miles Davis
+    - Pat Metheny
+    - 'Medeski, Martin & Wood'
+    - Joe Lovano
+    - Bill Frisell
   influenced:
-  - Julian Lage
-  - Kurt Rosenwinkel
-  - Adam Rogers
+    - Julian Lage
+    - Kurt Rosenwinkel
+    - Adam Rogers
   mentors:
-  - Steve Swallow
-  - Jim Hall
-  - Wes Montgomery
-  - John Coltrane
+    - Steve Swallow
+    - Jim Hall
+    - Wes Montgomery
+    - John Coltrane
 spotify_data:
   followers: 193618
   id: 14RXohtx6NiBGFTW8IdmAK
   popularity: 43
-  url: https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK
+  url: 'https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK'
 discography_enriched: true
 top_tracks:
-- A Go Go (A Go Go)
-- I Don't Need No Doctor (That's What I Say)
-- I Don't Need No Doctor (That's What I Say (Int'l Online/Yahoo Exclusive))
-- The Red One (I Can See Your House From Here)
-- Just Don't Want To Be Lonely (Überjam Deux)
-- Uncle John’s Band
-- A Guitar's Gentle Promise
-- Stairway to the Stars (Uncle John's Band)
-- Chank (A Go Go)
-- Harmony In Your Eyes
+  - A Go Go (A Go Go)
+  - I Don't Need No Doctor (That's What I Say)
+  - I Don't Need No Doctor (That's What I Say (Int'l Online/Yahoo Exclusive))
+  - The Red One (I Can See Your House From Here)
+  - Just Don't Want To Be Lonely (Überjam Deux)
+  - Uncle John’s Band
+  - A Guitar's Gentle Promise
+  - Stairway to the Stars (Uncle John's Band)
+  - Chank (A Go Go)
+  - Harmony In Your Eyes
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/cbfd7f01-87c3-44bf-a3a2-fe4dbff20ad2
-  spotify: https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK
-  wikipedia: https://en.wikipedia.org/wiki/John_Scofield
+  musicbrainz: 'https://musicbrainz.org/artist/cbfd7f01-87c3-44bf-a3a2-fe4dbff20ad2'
+  spotify: 'https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK'
+  wikipedia: 'https://en.wikipedia.org/wiki/John_Scofield'
 image_path: 03_Resources/source_material/ArtistPortraits/john_scofield.jpg
 biography_enhanced_at: '2025-10-29T16:57:15.766285'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.johnscofield.com/bio/
-- https://en.wikipedia.org/wiki/John_Scofield
-- https://www.detroitjazzfest.org/artist/john-scofield/
-- https://www.afm.org/en/2017/12/jazz-master-john-scofield/
-- https://steinhardt.nyu.edu/people/john-scofield
+  - 'https://www.johnscofield.com/bio/'
+  - 'https://en.wikipedia.org/wiki/John_Scofield'
+  - 'https://www.detroitjazzfest.org/artist/john-scofield/'
+  - 'https://www.afm.org/en/2017/12/jazz-master-john-scofield/'
+  - 'https://steinhardt.nyu.edu/people/john-scofield'
 network_extracted: true
 entry_created: '2025-10-29T16:57:15.766301'
 last_updated: '2025-12-23T08:16:10.799524'
@@ -163,9 +163,10 @@ disambiguation: US guitarist/composer
 gender: Male
 musicbrainz_id: cbfd7f01-87c3-44bf-a3a2-fe4dbff20ad2
 tags:
-- acid jazz
-- contemporary jazz
-- jazz
+  - acid jazz
+  - contemporary jazz
+  - jazz
+origin: 'Wilton, Connecticut, United States'
 ---
 
 ![](john_scofield.jpg)

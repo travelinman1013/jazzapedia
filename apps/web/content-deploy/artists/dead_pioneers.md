@@ -1,10 +1,10 @@
 ---
-title: DEAD PIONEERS
+title: Dead Pioneers
 wiki_slug: dead-pioneers
 schema_version: 2
 status: active
 genres:
-- punk
+  - punk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/dead_pioneers.jpg
   caption: DEAD PIONEERS
@@ -24,59 +24,66 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Joshua Rivera
-  - Shane Zweygardt
-  - Lee Tesche
-  - Abe Brennan
-  - Jeff Ament
+    - Joshua Rivera
+    - Shane Zweygardt
+    - Lee Tesche
+    - Abe Brennan
+    - Jeff Ament
   influenced:
-  - Public Enemy
-  - Misfits
-  - Suicidal Tendencies
-  - Rage Against the Machine
-  - Minutemen
-  - Rollins Band
+    - Public Enemy
+    - Misfits
+    - Suicidal Tendencies
+    - Rage Against the Machine
+    - Minutemen
+    - Rollins Band
   mentors:
-  - Jello Biafra
-  - Bill Stevenson
+    - Jello Biafra
+    - Bill Stevenson
 spotify_data:
   followers: 28113
   id: 3t0cq15eUtB2wvb1wJARsv
   popularity: 35
-  url: https://open.spotify.com/artist/3t0cq15eUtB2wvb1wJARsv
+  url: 'https://open.spotify.com/artist/3t0cq15eUtB2wvb1wJARsv'
 discography_enriched: true
 top_tracks:
-- Bad Indian (Dead Pioneers)
-- Tired (Dead Pioneers)
-- My Spirit Animal Ate Your Spirit Animal (My Spirit Animal Ate Your Spirit Animal)
-- Political Song (Dead Pioneers)
-- We Were Punk First (Dead Pioneers)
-- The Caucasity (The Caucasity)
-- PO$T AMERICAN (PO$T AMERICAN)
-- Mythical Cowboys (Mythical Cowboys)
-- No One Owns Anything & Death Is Real (Dead Pioneers)
-- Working Class Warfare (PO$T AMERICAN)
+  - Bad Indian (Dead Pioneers)
+  - Tired (Dead Pioneers)
+  - >-
+    My Spirit Animal Ate Your Spirit Animal (My Spirit Animal Ate Your Spirit
+    Animal)
+  - Political Song (Dead Pioneers)
+  - We Were Punk First (Dead Pioneers)
+  - The Caucasity (The Caucasity)
+  - PO$T AMERICAN (PO$T AMERICAN)
+  - Mythical Cowboys (Mythical Cowboys)
+  - No One Owns Anything & Death Is Real (Dead Pioneers)
+  - Working Class Warfare (PO$T AMERICAN)
 external_urls:
-  spotify: https://open.spotify.com/artist/3t0cq15eUtB2wvb1wJARsv
+  spotify: 'https://open.spotify.com/artist/3t0cq15eUtB2wvb1wJARsv'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/dead_pioneers.jpg
 biography_enhanced_at: '2025-11-28T07:41:25.775350'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Last.fm - Dead Pioneers Biography
-- Westword - Gregg Deal Combines Punk, Indigenous Activism in Denver Band Dead Pioneers
-- Grandstand Media - Dead Pioneers
-- Colorado Springs Independent - On blistering new record, Dead Pioneers fuse punk, poetry, politics
-- 15 Questions - Dead Pioneers Interview
-- Dead Pioneers Official Website
-- 'Joyzine - Album Review: Dead Pioneers'
-- Alternative Tentacles - Dead Pioneers Introduction
-- The Punk Site - Dead Pioneers Review
+  - Last.fm - Dead Pioneers Biography
+  - >-
+    Westword - Gregg Deal Combines Punk, Indigenous Activism in Denver Band Dead
+    Pioneers
+  - Grandstand Media - Dead Pioneers
+  - >-
+    Colorado Springs Independent - On blistering new record, Dead Pioneers fuse
+    punk, poetry, politics
+  - 15 Questions - Dead Pioneers Interview
+  - Dead Pioneers Official Website
+  - 'Joyzine - Album Review: Dead Pioneers'
+  - Alternative Tentacles - Dead Pioneers Introduction
+  - The Punk Site - Dead Pioneers Review
 network_extracted: true
 entry_created: '2025-11-28T07:41:25.775361'
 last_updated: '2025-12-23T08:16:07.631493'
-origin: Denver, Colorado, United States
+origin: 'Denver, Colorado, United States'
+artist_type: person
 ---
 
 ![](dead_pioneers.jpg)

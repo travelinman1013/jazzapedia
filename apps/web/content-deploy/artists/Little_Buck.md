@@ -4,13 +4,15 @@ wiki_slug: lil-dicky
 schema_version: 2
 status: active
 aliases: []
-birth_place: Chicago, Illinois, United States (birthplace); Memphis, Tennessee, United States (origin)
+birth_place: 'Chicago, Illinois, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Lil_Dicky.jpg
   caption: Lil Dicky
   background: solo_singer
-  origin: Chicago, Illinois, United States (birthplace); Memphis, Tennessee, United States (origin)
+  origin: >-
+    Chicago, Illinois, United States (birthplace); Memphis, Tennessee, United
+    States (origin)
 audio_profile:
   tempo_avg: 114.9
   energy_avg: 0.565
@@ -26,54 +28,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Yo-Yo Ma
-  - Janelle Monáe
-  - Madonna
-  - Mikhail Baryshnikov
-  - Jon Boogz
+    - Yo-Yo Ma
+    - Janelle Monáe
+    - Madonna
+    - Mikhail Baryshnikov
+    - Jon Boogz
   influenced:
-  - Dancers in Memphis Jookin community
-  - Movement Art Is artists
+    - Dancers in Memphis Jookin community
+    - Movement Art Is artists
   mentors:
-  - Katie Smythe
+    - Katie Smythe
 related_artists: []
 spotify_data:
   followers: 2042985
   id: 1tqhsYv8yBBdwANFNzHtcr
   popularity: 63
-  url: https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr
+  url: 'https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr'
   verified: false
 discography_enriched: true
 albums_count: 2
 singles_count: 6
 top_tracks:
-- Freaky Friday (feat. Chris Brown) (Freaky Friday (feat. Chris Brown))
-- Molly (feat. Brendon Urie of Panic at the Disco) (Professional Rapper)
-- $ave Dat Money (feat. Fetty Wap & Rich Homie Quan) (Professional Rapper)
-- Earth (Earth)
-- Professional Rapper (feat. Snoop Dogg) (Professional Rapper)
-- Running Over (feat. Lil Dicky) (Changes)
-- Lemme Freak (Professional Rapper)
-- Pillow Talking (feat. Brain) (Professional Rapper)
-- Bruh... (Professional Rapper)
-- Just A Lil' Thick (She Juicy) (feat. Mystikal & Lil Dicky) (Just A Lil' Thick (She Juicy) (feat. Mystikal & Lil Dicky))
+  - Freaky Friday (feat. Chris Brown) (Freaky Friday (feat. Chris Brown))
+  - Molly (feat. Brendon Urie of Panic at the Disco) (Professional Rapper)
+  - $ave Dat Money (feat. Fetty Wap & Rich Homie Quan) (Professional Rapper)
+  - Earth (Earth)
+  - Professional Rapper (feat. Snoop Dogg) (Professional Rapper)
+  - Running Over (feat. Lil Dicky) (Changes)
+  - Lemme Freak (Professional Rapper)
+  - Pillow Talking (feat. Brain) (Professional Rapper)
+  - Bruh... (Professional Rapper)
+  - >-
+    Just A Lil' Thick (She Juicy) (feat. Mystikal & Lil Dicky) (Just A Lil'
+    Thick (She Juicy) (feat. Mystikal & Lil Dicky))
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr
-  wikipedia: https://en.wikipedia.org/wiki/Little_Bucks
+  spotify: 'https://open.spotify.com/artist/1tqhsYv8yBBdwANFNzHtcr'
+  wikipedia: 'https://en.wikipedia.org/wiki/Little_Bucks'
 image_path: 03_Resources/source_material/ArtistPortraits/Lil_Dicky.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:22:46.563575'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://officemagazine.net/lil-buck-walking-water
-- https://www.imdb.com/name/nm2005945/bio/
-- https://www.juilliard.edu/stage-beyond/creative-enterprise/creative-associates/lil-buck
+  - 'https://officemagazine.net/lil-buck-walking-water'
+  - 'https://www.imdb.com/name/nm2005945/bio/'
+  - >-
+    https://www.juilliard.edu/stage-beyond/creative-enterprise/creative-associates/lil-buck
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 11:45:01.498693
+entry_created: 2025-09-18T11:45:01.498Z
 last_updated: '2025-12-23T08:16:03.029036'
+origin: 'Memphis, Tennessee, United States'
+birth_date: '1988-05-25'
+artist_type: person
 ---
 
 ![](Lil_Dicky.jpg)

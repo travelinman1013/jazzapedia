@@ -3,18 +3,18 @@ title: Daniela Mercury
 wiki_slug: daniela-mercury
 schema_version: 2
 status: active
-birth_place: Salvador, Bahia, Brazil
+birth_place: 'Salvador, Bahia, Brazil'
 genres:
-- axé
-- pagode baiano
-- mpb
+  - axé
+  - pagode baiano
+  - mpb
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/daniela_mercury.jpg
   caption: Daniela Mercury
   background: solo_singer
-  origin: Salvador, Bahia, Brazil
+  origin: 'Salvador, Bahia, Brazil'
 audio_profile:
-  tempo_avg: 114.0
+  tempo_avg: 114
   energy_avg: 0.682
   valence_avg: 0.638
   danceability_avg: 0.625
@@ -28,48 +28,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Olodum
-  - Cheiro de Amor
-  - Companhia Clic
+    - Olodum
+    - Cheiro de Amor
+    - Companhia Clic
   influenced:
-  - Ivete Sangalo
-  - Claudia Leitte
+    - Ivete Sangalo
+    - Claudia Leitte
   mentors:
-  - Elis Regina
-  - Gilberto Gil
+    - Elis Regina
+    - Gilberto Gil
 spotify_data:
   followers: 313703
   id: 2krrkKvM52JgvfGu2Uewbg
   popularity: 48
-  url: https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg
+  url: 'https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg'
 discography_enriched: true
 top_tracks:
-- Nobre Vagabundo (Feijão Com Arroz)
-- O Canto da Cidade (O Canto da Cidade)
-- O Canto Da Cidade (O Canto Da Cidade)
-- Swing da Cor - Ao Vivo (20 Grandes Êxitos)
-- Trio Metal - Ao Vivo na Apoteose
-- Baianidade Nagô (Balé Mulato Ao Vivo)
-- Rapunzel - Ao Vivo (Feijão Com Arroz)
-- À Primeira Vista (Feijão Com Arroz)
-- Maimbê Dandá
-- Axé Salvador - Ao Vivo
+  - Nobre Vagabundo (Feijão Com Arroz)
+  - O Canto da Cidade (O Canto da Cidade)
+  - O Canto Da Cidade (O Canto Da Cidade)
+  - Swing da Cor - Ao Vivo (20 Grandes Êxitos)
+  - Trio Metal - Ao Vivo na Apoteose
+  - Baianidade Nagô (Balé Mulato Ao Vivo)
+  - Rapunzel - Ao Vivo (Feijão Com Arroz)
+  - À Primeira Vista (Feijão Com Arroz)
+  - Maimbê Dandá
+  - Axé Salvador - Ao Vivo
 external_urls:
-  spotify: https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg
-  wikipedia: https://en.wikipedia.org/wiki/Daniela_Mercury
+  spotify: 'https://open.spotify.com/artist/2krrkKvM52JgvfGu2Uewbg'
+  wikipedia: 'https://en.wikipedia.org/wiki/Daniela_Mercury'
 image_path: 03_Resources/source_material/ArtistPortraits/daniela_mercury.jpg
 biography_enhanced_at: '2025-11-02T07:27:02.388664'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://bi.org/en/famous/daniela-mercury
-- https://pantheon.world/profile/person/Daniela_Mercury
-- https://bahia.ws/en/biografia-daniela-mercury/
-- https://kids.kiddle.co/Daniela_Mercury
-- https://womex.com/virtual/tempest_entertainment/daniela_mercury
+  - 'https://bi.org/en/famous/daniela-mercury'
+  - 'https://pantheon.world/profile/person/Daniela_Mercury'
+  - 'https://bahia.ws/en/biografia-daniela-mercury/'
+  - 'https://kids.kiddle.co/Daniela_Mercury'
+  - 'https://womex.com/virtual/tempest_entertainment/daniela_mercury'
 network_extracted: true
 entry_created: '2025-11-02T07:27:02.388681'
 last_updated: '2025-12-23T08:16:07.434175'
+artist_type: person
 ---
 
 ![](daniela_mercury.jpg)

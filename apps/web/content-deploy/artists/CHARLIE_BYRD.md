@@ -2,25 +2,25 @@
 title: Charlie Byrd
 wiki_slug: charlie-byrd
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1925-09-16'
-birth_place: Suffolk, Virginia, United States
+birth_place: 'Suffolk, Virginia, United States'
 death_date: '1999-12-02'
 genres:
-- bossa nova
-- brazilian jazz
-- latin jazz
-- jazz
-- cool jazz
+  - bossa nova
+  - brazilian jazz
+  - latin jazz
+  - jazz
+  - cool jazz
 instruments:
-- eponymous
+  - eponymous
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Charlie_Byrd.jpg
   caption: Charlie Byrd
   background: non_vocal_instrumentalist
   born: '1925-09-16'
-  origin: Suffolk, Virginia, United States
+  origin: 'Suffolk, Virginia, United States'
   died: '1999-12-02'
 audio_profile:
   tempo_avg: 112.3
@@ -37,48 +37,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Stan Getz
-  - Herb Ellis
-  - Barney Kessel
-  - Keter Betts
-  - Joe Byrd
-  - Woody Herman
+    - Stan Getz
+    - Herb Ellis
+    - Barney Kessel
+    - Keter Betts
+    - Joe Byrd
+    - Woody Herman
   influenced:
-  - Gene "Joe" Byrd
-  - Numerous guitar students
+    - Gene "Joe" Byrd
+    - Numerous guitar students
   mentors:
-  - Sophocles Papas
-  - Andrés Segovia
+    - Sophocles Papas
+    - Andrés Segovia
 spotify_data:
   followers: 32699
   id: 0i5yrKtlP4URcRBXQQwnik
   popularity: 44
-  url: https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik
+  url: 'https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik'
 discography_enriched: true
 top_tracks:
-- Desafinado (Jazz Samba)
-- O Pato (Jazz Samba)
-- Samba De Uma Nota So (Jazz Samba)
-- Samba Triste (Jazz Samba)
-- E Luxo So (Jazz Samba)
-- Samba Dees Days (Jazz Samba)
-- Bahia (Jazz Samba)
-- The Girl from Ipanema (Brazilian Byrd)
-- Meditacao (Bossa Nova Pelos Passaros)
-- O Pato (A Nightingale Sang in Berkeley Square)
+  - Desafinado (Jazz Samba)
+  - O Pato (Jazz Samba)
+  - Samba De Uma Nota So (Jazz Samba)
+  - Samba Triste (Jazz Samba)
+  - E Luxo So (Jazz Samba)
+  - Samba Dees Days (Jazz Samba)
+  - Bahia (Jazz Samba)
+  - The Girl from Ipanema (Brazilian Byrd)
+  - Meditacao (Bossa Nova Pelos Passaros)
+  - O Pato (A Nightingale Sang in Berkeley Square)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9d99c378-247c-47a3-94ea-753efa330023
-  spotify: https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik
-  wikipedia: https://en.wikipedia.org/wiki/Charlie_Byrd
+  musicbrainz: 'https://musicbrainz.org/artist/9d99c378-247c-47a3-94ea-753efa330023'
+  spotify: 'https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik'
+  wikipedia: 'https://en.wikipedia.org/wiki/Charlie_Byrd'
 image_path: 03_Resources/source_material/ArtistPortraits/Charlie_Byrd.jpg
 biography_enhanced_at: '2025-10-21T06:36:29.507479'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://fromthevaults-boppinbob.blogspot.com/2025/09/charlie-byrd-born-16-september-1925.html
-- https://www.allaboutjazz.com/musicians/charlie-byrd/
-- https://concord.com/artist/charlie-byrd/
-- https://www.visitsuffolkva.com/about-suffolk/hometown-legends/charlie-byrd/
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2025/09/charlie-byrd-born-16-september-1925.html
+  - 'https://www.allaboutjazz.com/musicians/charlie-byrd/'
+  - 'https://concord.com/artist/charlie-byrd/'
+  - 'https://www.visitsuffolkva.com/about-suffolk/hometown-legends/charlie-byrd/'
 network_extracted: true
 entry_created: '2025-10-21T06:36:29.507502'
 last_updated: '2025-12-23T08:16:01.409187'
@@ -86,9 +87,11 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:20:53.968317'
 musicbrainz_id: 9d99c378-247c-47a3-94ea-753efa330023
 tags:
-- american
-- bebop
-- bossa nova
+  - american
+  - bebop
+  - bossa nova
+is_active: false
+origin: 'Washington, D.C., District of Columbia, United States'
 ---
 
 ![](Charlie_Byrd.jpg)

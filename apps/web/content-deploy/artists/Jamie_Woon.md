@@ -2,19 +2,19 @@
 title: Jamie Woon
 wiki_slug: jamie-woon
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1983-03-29'
-birth_place: New Malden, Greater London, England, United Kingdom
+birth_place: 'New Malden, Greater London, England, United Kingdom'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Jamie_Woon.jpg
   caption: Jamie Woon
   background: solo_singer
   born: '1983-03-29'
-  origin: New Malden, Greater London, England, United Kingdom
+  origin: 'New Malden, Greater London, England, United Kingdom'
 audio_profile:
-  tempo_avg: 115.0
+  tempo_avg: 115
   energy_avg: 0.443
   valence_avg: 0.493
   danceability_avg: 0.743
@@ -28,46 +28,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Burial
-  - Lexxx
-  - Dan See
-  - Dan Gulino
+    - Burial
+    - Lexxx
+    - Dan See
+    - Dan Gulino
   influenced:
-  - The Weeknd
-  - Sampha
-  - James Blake
-  - Jessie Ware
+    - The Weeknd
+    - Sampha
+    - James Blake
+    - Jessie Ware
   mentors:
-  - Mae McKenna
+    - Mae McKenna
 spotify_data:
   followers: 196062
   id: 1fUMEn4Yk7ZUloozE0fRLL
   popularity: 44
-  url: https://open.spotify.com/artist/1fUMEn4Yk7ZUloozE0fRLL
+  url: 'https://open.spotify.com/artist/1fUMEn4Yk7ZUloozE0fRLL'
 discography_enriched: true
 top_tracks:
-- Sharpness (Making Time)
-- Night Air (Mirrorwriting)
-- Shoulda (Mirrorwriting)
-- January (Settle (Special Edition))
-- Heavy Going...
-- Celebration (Making Time)
-- January (Settle (Deluxe))
-- Lady Luck (Mirrorwriting)
-- January - Kaytranada Edition (Settle (Special Edition))
-- A Velvet Rope
+  - Sharpness (Making Time)
+  - Night Air (Mirrorwriting)
+  - Shoulda (Mirrorwriting)
+  - January (Settle (Special Edition))
+  - Heavy Going...
+  - Celebration (Making Time)
+  - January (Settle (Deluxe))
+  - Lady Luck (Mirrorwriting)
+  - January - Kaytranada Edition (Settle (Special Edition))
+  - A Velvet Rope
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/62564a24-1b7e-4485-88d1-0c2dc0a749b6
-  spotify: https://open.spotify.com/artist/1fUMEn4Yk7ZUloozE0fRLL
-  wikipedia: https://en.wikipedia.org/wiki/Jamie_Woon
+  musicbrainz: 'https://musicbrainz.org/artist/62564a24-1b7e-4485-88d1-0c2dc0a749b6'
+  spotify: 'https://open.spotify.com/artist/1fUMEn4Yk7ZUloozE0fRLL'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jamie_Woon'
 image_path: 03_Resources/source_material/ArtistPortraits/Jamie_Woon.jpg
 biography_enhanced_at: '2025-10-20T09:40:56.768991'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://prsfoundation.com/funding-support/funding-music-creators/international/musicians-in-residence-china/musicians-in-residence-china-2011-12/meet-the-musicians-in-residence-china/jamie-woon/
-- https://www.apolaroidstory.com/2016/04/time-for-woon/
-- https://www.aaemusic.com/artist/jamie-woon
+  - >-
+    https://prsfoundation.com/funding-support/funding-music-creators/international/musicians-in-residence-china/musicians-in-residence-china-2011-12/meet-the-musicians-in-residence-china/jamie-woon/
+  - 'https://www.apolaroidstory.com/2016/04/time-for-woon/'
+  - 'https://www.aaemusic.com/artist/jamie-woon'
 network_extracted: true
 entry_created: '2025-10-20T09:40:56.769005'
 last_updated: '2025-12-23T08:16:02.457589'
@@ -75,9 +76,9 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:30:43.044427'
 musicbrainz_id: 62564a24-1b7e-4485-88d1-0c2dc0a749b6
 tags:
-- contemporary r&b
-- dubstep
-- future garage
+  - contemporary r&b
+  - dubstep
+  - future garage
 ---
 
 ![](Jamie_Woon.jpg)

@@ -5,11 +5,11 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1951-09-17'
-birth_place: Rio de Janeiro
+birth_place: 'Rio de Janeiro, Brazil'
 genres:
-- mpb
-- bossa nova
-- brazilian jazz
+  - mpb
+  - bossa nova
+  - brazilian jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/evinha.jpg
   caption: Evinha
@@ -31,45 +31,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Trio Esperança (Regina and Mario Correia José Maria)
-  - Renato Correa
-  - Gérard Gambus
+    - Trio Esperança (Regina and Mario Correia José Maria)
+    - Renato Correa
+    - Gérard Gambus
   influenced:
-  - Brazilian pop and MPB artists
+    - Brazilian pop and MPB artists
   mentors:
-  - Jovem Guarda movement
+    - Jovem Guarda movement
 spotify_data:
   followers: 73424
   id: 6cnJ8gP9R3JEh5mCCvOwz3
   popularity: 58
-  url: https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3
+  url: 'https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3'
 discography_enriched: true
 top_tracks:
-- 'Cacos De Vidro (sample: Esperar pra Ver) (Diamantes, Lágrimas e Rostos para Esquecer)'
-- Só Quero Ver (Diamantes, Lágrimas e Rostos para Esquecer)
-- Esperar Pra Ver (Cartão Postal)
-- Que Bandeira (Cartão Postal)
-- Só Quero (Cartão Postal)
-- Olha Eu Aqui Oh! Oh! Oh!... (Eva)
-- Virou Lágrimas (Eva)
-- Cartão Postal (Cartão Postal)
-- Encontro (Cartão Postal)
-- Casaco Marron (Bye, Bye, Ceci) (Eva 2001)
+  - >-
+    Cacos De Vidro (sample: Esperar pra Ver) (Diamantes, Lágrimas e Rostos para
+    Esquecer)
+  - 'Só Quero Ver (Diamantes, Lágrimas e Rostos para Esquecer)'
+  - Esperar Pra Ver (Cartão Postal)
+  - Que Bandeira (Cartão Postal)
+  - Só Quero (Cartão Postal)
+  - Olha Eu Aqui Oh! Oh! Oh!... (Eva)
+  - Virou Lágrimas (Eva)
+  - Cartão Postal (Cartão Postal)
+  - Encontro (Cartão Postal)
+  - 'Casaco Marron (Bye, Bye, Ceci) (Eva 2001)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/0e649bfa-5e63-4454-9449-81ff21093920
-  spotify: https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3
-  wikipedia: https://pt.wikipedia.org/wiki/Evinha
+  musicbrainz: 'https://musicbrainz.org/artist/0e649bfa-5e63-4454-9449-81ff21093920'
+  spotify: 'https://open.spotify.com/artist/6cnJ8gP9R3JEh5mCCvOwz3'
+  wikipedia: 'https://pt.wikipedia.org/wiki/Evinha'
 image_path: 03_Resources/source_material/ArtistPortraits/evinha.jpg
 biography_enhanced_at: '2025-10-29T16:42:19.432298'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Evinha/+wiki
-- https://www.popmatters.com/evinha-carto-postal-review-2650157536.html
-- https://www.slipcue.com/music/brazil/evinha_01.html
-- https://www.imdb.com/name/nm0263768/bio/
-- https://www.viberate.com/artist/evinha/
-- https://www.allmusic.com/artist/evinha-mn0000789798
+  - 'https://www.last.fm/music/Evinha/+wiki'
+  - 'https://www.popmatters.com/evinha-carto-postal-review-2650157536.html'
+  - 'https://www.slipcue.com/music/brazil/evinha_01.html'
+  - 'https://www.imdb.com/name/nm0263768/bio/'
+  - 'https://www.viberate.com/artist/evinha/'
+  - 'https://www.allmusic.com/artist/evinha-mn0000789798'
 network_extracted: true
 entry_created: '2025-10-29T16:42:19.432313'
 last_updated: '2025-12-23T08:16:08.550716'

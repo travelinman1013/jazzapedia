@@ -1,60 +1,63 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '1996'
-  end: ''
-  instruments: []
-  mbid: f4857fb9-e255-4dc6-bd01-e4ca7cc68544
-  name: Jamiroquai
+  - begin: '1996'
+    end: ''
+    instruments: []
+    mbid: f4857fb9-e255-4dc6-bd01-e4ca7cc68544
+    name: Jamiroquai
 biography_enhanced_at: '2026-01-05T07:58:31.255009'
 birth_date: '1965-08-02'
-birth_place: Lagos
+birth_place: 'Lagos, Nigeria'
 enhancement_provider: perplexity
 entry_created: '2026-01-05T07:58:31.255016'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/aaba2457-1869-4282-8431-2806f0b66be5
-  spotify: https://open.spotify.com/artist/5ruxoBEG1WP5HDYHl3fv52
+  musicbrainz: 'https://musicbrainz.org/artist/aaba2457-1869-4282-8431-2806f0b66be5'
+  spotify: 'https://open.spotify.com/artist/5ruxoBEG1WP5HDYHl3fv52'
   wikipedia: Not found in search results
 gender: Male
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/sola_akingbola.jpg
 instruments:
-- lead vocals
-- background vocals
+  - lead vocals
+  - background vocals
 last_updated: '2026-01-05T07:58:31.255016'
 musical_connections:
   collaborators:
-  - Jamiroquai
-  - Ronny Jordan
-  - Damon Albarn
-  - Lokua Kanza
-  - Fatoumata Diawara
-  - Newton Faulkner
-  - Tony Allen
-  - Idris Elba
+    - Jamiroquai
+    - Ronny Jordan
+    - Damon Albarn
+    - Lokua Kanza
+    - Fatoumata Diawara
+    - Newton Faulkner
+    - Tony Allen
+    - Idris Elba
   influenced: []
   mentors:
-  - Gasper Lawal
-  - Joji Hirota
+    - Gasper Lawal
+    - Joji Hirota
 musicbrainz_id: aaba2457-1869-4282-8431-2806f0b66be5
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Sola+Akingbola/+wiki
-- https://worldmusiccentral.org/artist-profiles-sola-akingbola/
-- https://www.woodburnermusic.co.uk/agency/sola-akingbola
-- https://www.themusicalroad.net/blog/november2024/sola-akingbola-and-the-eegun-rhapsodies
-- https://artistagraph.com/artists/sola-akingbola
-- https://www.solaakingbola.com/bio
-- https://funkymadhatterblog.wordpress.com/2017/08/06/sonic-afrofuturism-an-interview-with-sola-akingbola-jamioquais-african-connection/
-- https://www.oocities.org/synkronizedpt/intsola.htm
+  - 'https://www.last.fm/music/Sola+Akingbola/+wiki'
+  - 'https://worldmusiccentral.org/artist-profiles-sola-akingbola/'
+  - 'https://www.woodburnermusic.co.uk/agency/sola-akingbola'
+  - >-
+    https://www.themusicalroad.net/blog/november2024/sola-akingbola-and-the-eegun-rhapsodies
+  - 'https://artistagraph.com/artists/sola-akingbola'
+  - 'https://www.solaakingbola.com/bio'
+  - >-
+    https://funkymadhatterblog.wordpress.com/2017/08/06/sonic-afrofuturism-an-interview-with-sola-akingbola-jamioquais-african-connection/
+  - 'https://www.oocities.org/synkronizedpt/intsola.htm'
 spotify_data:
   followers: 4801
   id: 5ruxoBEG1WP5HDYHl3fv52
   popularity: 15
-  url: https://open.spotify.com/artist/5ruxoBEG1WP5HDYHl3fv52
+  url: 'https://open.spotify.com/artist/5ruxoBEG1WP5HDYHl3fv52'
 status: active
 title: Sola Akingbola
+origin: 'London, England, United Kingdom'
 ---
 
 ![](sola_akingbola.jpg)

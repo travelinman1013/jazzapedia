@@ -7,10 +7,10 @@ status: active
 birth_date: '1983-10-19'
 birth_place: Paris
 genres:
-- nu jazz
-- indie jazz
-- jazz
-- free jazz
+  - nu jazz
+  - indie jazz
+  - jazz
+  - free jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/makaya_mccraven.jpg
   caption: Makaya McCraven
@@ -18,7 +18,7 @@ infobox:
   born: '1983-10-19'
   origin: Paris
 audio_profile:
-  tempo_avg: 116.0
+  tempo_avg: 116
   energy_avg: 0.647
   valence_avg: 0.55
   danceability_avg: 0.506
@@ -32,67 +32,69 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jeff Parker
-  - Marquis Hill
-  - Willie Pickens
-  - Tomeka Reid
-  - Shabaka Hutchings
-  - Brandee Younger
-  - Joel Ross
-  - De’Sean Jones
-  - Kamasi Washington
-  - Nubya Garcia
+    - Jeff Parker
+    - Marquis Hill
+    - Willie Pickens
+    - Tomeka Reid
+    - Shabaka Hutchings
+    - Brandee Younger
+    - Joel Ross
+    - De’Sean Jones
+    - Kamasi Washington
+    - Nubya Garcia
   influenced:
-  - Junius Paul
-  - Ashley Henry
-  - Cassie Kinoshi
+    - Junius Paul
+    - Ashley Henry
+    - Cassie Kinoshi
   mentors:
-  - Stephen McCraven
-  - Archie Shepp
-  - Marion Brown
-  - Yusef Lateef
-  - Pete Rock
+    - Stephen McCraven
+    - Archie Shepp
+    - Marion Brown
+    - Yusef Lateef
+    - Pete Rock
 spotify_data:
   followers: 90826
   id: 5FnpXrrMdJVZCK54oHWqUa
   popularity: 43
-  url: https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa
+  url: 'https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa'
 discography_enriched: true
 top_tracks:
-- Autumn In New York (Deciphering The Message)
-- Butterscotch (In the Moment)
-- Inner Flight (Universal Beings)
-- Inner Flight (Universal Beings)
-- Butterscotch (In the Moment)
-- When Your Lover Has Gone (Deciphering The Message)
-- Sweet Tooth (In The Moment (IA11 Edition))
-- Sweet Tooth (In The Moment (IA11 Edition))
-- hills (Acoustic)
-- I'm New Here (We're New Again - A Reimagining by Makaya McCraven)
+  - Autumn In New York (Deciphering The Message)
+  - Butterscotch (In the Moment)
+  - Inner Flight (Universal Beings)
+  - Inner Flight (Universal Beings)
+  - Butterscotch (In the Moment)
+  - When Your Lover Has Gone (Deciphering The Message)
+  - Sweet Tooth (In The Moment (IA11 Edition))
+  - Sweet Tooth (In The Moment (IA11 Edition))
+  - hills (Acoustic)
+  - I'm New Here (We're New Again - A Reimagining by Makaya McCraven)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/59476fae-d0c9-4ebd-b03c-c38b19b30dff
-  spotify: https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa
-  wikipedia: https://en.wikipedia.org/wiki/Makaya_McCraven
+  musicbrainz: 'https://musicbrainz.org/artist/59476fae-d0c9-4ebd-b03c-c38b19b30dff'
+  spotify: 'https://open.spotify.com/artist/5FnpXrrMdJVZCK54oHWqUa'
+  wikipedia: 'https://en.wikipedia.org/wiki/Makaya_McCraven'
 image_path: 03_Resources/source_material/ArtistPortraits/makaya_mccraven.jpg
 biography_enhanced_at: '2025-11-14T10:34:31.198637'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Makaya_McCraven
-- https://atljazzfest.com/artists/makaya-mccraven/
-- https://www.sfjazz.org/onthecorner/articles/5-things-you-should-know-about-makaya-mccraven/
-- https://www.intlanthem.com/artists/makaya-mccraven
-- https://ums.org/performance/makaya-mccraven/
-- https://stringtheories.substack.com/p/discovery-makaya-mccraven
+  - 'https://en.wikipedia.org/wiki/Makaya_McCraven'
+  - 'https://atljazzfest.com/artists/makaya-mccraven/'
+  - >-
+    https://www.sfjazz.org/onthecorner/articles/5-things-you-should-know-about-makaya-mccraven/
+  - 'https://www.intlanthem.com/artists/makaya-mccraven'
+  - 'https://ums.org/performance/makaya-mccraven/'
+  - 'https://stringtheories.substack.com/p/discovery-makaya-mccraven'
 network_extracted: true
 entry_created: '2025-11-14T10:34:31.198649'
 last_updated: '2025-12-23T08:16:12.539035'
 gender: Male
 musicbrainz_id: 59476fae-d0c9-4ebd-b03c-c38b19b30dff
 tags:
-- contemporary jazz
-- jazz
-- nu jazz
+  - contemporary jazz
+  - jazz
+  - nu jazz
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](makaya_mccraven.jpg)

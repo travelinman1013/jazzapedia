@@ -2,13 +2,13 @@
 title: Truckstop Honeymoon
 wiki_slug: truckstop-honeymoon
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- bluegrass
-- alt country
-- honky tonk
-- americana
+  - bluegrass
+  - alt country
+  - honky tonk
+  - americana
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/truckstop_honeymoon.jpg
   caption: Truckstop Honeymoon
@@ -28,55 +28,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mike West
+    - Mike West
   influenced: []
   mentors: []
 spotify_data:
   followers: 4452
   id: 06dr4G6rZmlQbTLAoe8W7q
   popularity: 11
-  url: https://open.spotify.com/artist/06dr4G6rZmlQbTLAoe8W7q
+  url: 'https://open.spotify.com/artist/06dr4G6rZmlQbTLAoe8W7q'
 discography_enriched: true
 top_tracks:
-- Johnny And June (Delivery Boy)
-- Magnolia Tree (Delivery Boy)
-- Howlin' at the Moon (Hiram and Huddie Vol. 1 Hiram)
-- Wichita (Diamonds In The Asphalt)
-- Walk Of Shame (Christmas In Ocala)
-- Bad Attitude (Diamonds In The Asphalt)
-- The Woman You Married (Delivery Boy)
-- Your Mother Is a Sociopath (Steamboat in a Cornfield)
-- Waffle House Booth (Delivery Boy)
-- Rockabilly Debutante (Diamonds In The Asphalt)
+  - Johnny And June (Delivery Boy)
+  - Magnolia Tree (Delivery Boy)
+  - Howlin' at the Moon (Hiram and Huddie Vol. 1 Hiram)
+  - Wichita (Diamonds In The Asphalt)
+  - Walk Of Shame (Christmas In Ocala)
+  - Bad Attitude (Diamonds In The Asphalt)
+  - The Woman You Married (Delivery Boy)
+  - Your Mother Is a Sociopath (Steamboat in a Cornfield)
+  - Waffle House Booth (Delivery Boy)
+  - Rockabilly Debutante (Diamonds In The Asphalt)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e40a050e-8f4a-401c-81ad-79f8e510c108
-  spotify: https://open.spotify.com/artist/06dr4G6rZmlQbTLAoe8W7q
+  musicbrainz: 'https://musicbrainz.org/artist/e40a050e-8f4a-401c-81ad-79f8e510c108'
+  spotify: 'https://open.spotify.com/artist/06dr4G6rZmlQbTLAoe8W7q'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/truckstop_honeymoon.jpg
 biography_enhanced_at: '2025-11-24T08:32:36.697557'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.truckstophoneymoon.com/bio
-- https://www.last.fm/music/Truckstop+Honeymoon/+wiki
-- https://www.offbeat.com/music/truckstop-honeymoon-great-big-family-squirrel/
+  - 'https://www.truckstophoneymoon.com/bio'
+  - 'https://www.last.fm/music/Truckstop+Honeymoon/+wiki'
+  - 'https://www.offbeat.com/music/truckstop-honeymoon-great-big-family-squirrel/'
 network_extracted: true
 entry_created: '2025-11-24T08:32:36.697569'
 last_updated: '2025-12-23T08:16:17.717873'
 disambiguation: Mike West and Katie Euliss
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9caeaeb9-6a6b-4b1d-928a-ece345358455
-  name: Katie West
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 161df48b-b016-4a5a-9019-2f4d230e7118
-  name: Mike West
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9caeaeb9-6a6b-4b1d-928a-ece345358455
+    name: Katie West
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 161df48b-b016-4a5a-9019-2f4d230e7118
+    name: Mike West
 musicbrainz_id: e40a050e-8f4a-401c-81ad-79f8e510c108
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](truckstop_honeymoon.jpg)

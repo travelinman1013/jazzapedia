@@ -1,39 +1,40 @@
 ---
 biography_enhanced_at: '2025-12-31T01:44:18.461948'
-birth_place: North West London, UK
+birth_place: 'North West London, UK'
 enhancement_provider: perplexity
 entry_created: '2025-12-31T01:44:18.461953'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/56a210e8-5482-4b52-a8c4-eaf785cbcb59
-  spotify: https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI
+  musicbrainz: 'https://musicbrainz.org/artist/56a210e8-5482-4b52-a8c4-eaf785cbcb59'
+  spotify: 'https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI'
   wikipedia: ''
 genres:
-- alternative r&b
+  - alternative r&b
 image_path: 03_Resources/source_material/ArtistPortraits/qendresa.jpg
 last_updated: '2025-12-31T01:44:18.461954'
 musical_connections:
   collaborators:
-  - Jordan Lee
+    - Jordan Lee
   influenced: []
   mentors: []
 musicbrainz_id: 56a210e8-5482-4b52-a8c4-eaf785cbcb59
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Qendresa/+wiki
-- https://pitchforkmusicfestival.co.uk/artists/qendresa-dj/
-- https://www.rngldr.com/review/qendresa-londra
-- https://wknc.org/2024/12/06/soundbites-londra-qendresa/
-- https://kosovotwopointzero.com/en/qendresa-i-say-what-kind-of-sound-i-want
-- https://tnam.uk/new-single-review-qendresa-2-much/
-- https://eat-hear.co.uk/neighborhood-guide-qendresa/
+  - 'https://www.last.fm/music/Qendresa/+wiki'
+  - 'https://pitchforkmusicfestival.co.uk/artists/qendresa-dj/'
+  - 'https://www.rngldr.com/review/qendresa-londra'
+  - 'https://wknc.org/2024/12/06/soundbites-londra-qendresa/'
+  - 'https://kosovotwopointzero.com/en/qendresa-i-say-what-kind-of-sound-i-want'
+  - 'https://tnam.uk/new-single-review-qendresa-2-much/'
+  - 'https://eat-hear.co.uk/neighborhood-guide-qendresa/'
 spotify_data:
   followers: 78410
   id: 6FnMmUQSUGpOE3P9QePPqI
   popularity: 56
-  url: https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI
+  url: 'https://open.spotify.com/artist/6FnMmUQSUGpOE3P9QePPqI'
 status: active
 title: Qendresa
+artist_type: person
 ---
 
 ![](qendresa.jpg)

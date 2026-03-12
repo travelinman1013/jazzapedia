@@ -3,14 +3,14 @@ title: Michael Mayo
 wiki_slug: michael-mayo
 schema_version: 2
 status: active
-birth_place: Los Angeles, California, United States
+birth_place: 'Los Angeles, California, United States'
 genres:
-- vocal jazz
+  - vocal jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/michael_mayo.jpg
   caption: Michael Mayo
   background: solo_singer
-  origin: Los Angeles, California, United States
+  origin: 'Los Angeles, California, United States'
 audio_profile:
   tempo_avg: 111.1
   energy_avg: 0.429
@@ -26,50 +26,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Amber Navran
-  - Shai Maestro
-  - Linda May Han Oh
-  - Nate Smith
-  - Ben Wendel
+    - Amber Navran
+    - Shai Maestro
+    - Linda May Han Oh
+    - Nate Smith
+    - Ben Wendel
   influenced: []
   mentors:
-  - Herbie Hancock
-  - Bobby McFerrin
+    - Herbie Hancock
+    - Bobby McFerrin
 spotify_data:
   followers: 21525
   id: 5GPxGRe2IglKP3ZiwwJbP4
   popularity: 33
-  url: https://open.spotify.com/artist/5GPxGRe2IglKP3ZiwwJbP4
+  url: 'https://open.spotify.com/artist/5GPxGRe2IglKP3ZiwwJbP4'
 discography_enriched: true
 top_tracks:
-- Four (Fly)
-- Just Friends (Fly)
-- Bag of Bones (Fly)
-- Speak No Evil (Fly)
-- Fly (Fly)
-- VESPER
-- I Wish (Fly)
-- Silence (Fly)
-- I Didn't Know What Time It Was (Fly)
-- It Could Happen to You (Fly)
+  - Four (Fly)
+  - Just Friends (Fly)
+  - Bag of Bones (Fly)
+  - Speak No Evil (Fly)
+  - Fly (Fly)
+  - VESPER
+  - I Wish (Fly)
+  - Silence (Fly)
+  - I Didn't Know What Time It Was (Fly)
+  - It Could Happen to You (Fly)
 external_urls:
-  spotify: https://open.spotify.com/artist/5GPxGRe2IglKP3ZiwwJbP4
+  spotify: 'https://open.spotify.com/artist/5GPxGRe2IglKP3ZiwwJbP4'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/michael_mayo.jpg
 biography_enhanced_at: '2025-11-08T21:59:33.896903'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.ronniescotts.co.uk/find-a-show/michael-mayo
-- https://www.michaelmayomusic.com/about
-- https://www.jazzempowers.org/michael-mayo
-- https://pittsburghjazzfest.org/artists/michael-mayo/
-- https://www.fasching.se/en/michael-mayo/
-- https://www.oneworldoursong.com/bio-michael-mayo/
-- https://litchfieldjazzfest.com/artwork/michael-mayo-quintet/
+  - 'https://www.ronniescotts.co.uk/find-a-show/michael-mayo'
+  - 'https://www.michaelmayomusic.com/about'
+  - 'https://www.jazzempowers.org/michael-mayo'
+  - 'https://pittsburghjazzfest.org/artists/michael-mayo/'
+  - 'https://www.fasching.se/en/michael-mayo/'
+  - 'https://www.oneworldoursong.com/bio-michael-mayo/'
+  - 'https://litchfieldjazzfest.com/artwork/michael-mayo-quintet/'
 network_extracted: true
 entry_created: '2025-11-08T21:59:33.896919'
 last_updated: '2025-12-23T08:16:13.061962'
+artist_type: person
 ---
 
 ![](michael_mayo.jpg)

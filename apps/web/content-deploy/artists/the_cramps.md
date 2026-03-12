@@ -2,21 +2,21 @@
 title: The Cramps
 wiki_slug: the-cramps
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1976'
 genres:
-- psychobilly
-- rockabilly
-- deathrock
-- punk
-- proto-punk
+  - psychobilly
+  - rockabilly
+  - deathrock
+  - punk
+  - proto-punk
 instruments:
-- original
-- membranophone
-- electric guitar
-- drums (drum set)
-- bass guitar
+  - original
+  - membranophone
+  - electric guitar
+  - drums (drum set)
+  - bass guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_cramps.jpg
   caption: The Cramps
@@ -37,147 +37,150 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Poison Ivy Rorschach
-  - Bryan Gregory
-  - Nick Knox
-  - Kid Congo Powers
+    - Poison Ivy Rorschach
+    - Bryan Gregory
+    - Nick Knox
+    - Kid Congo Powers
   influenced:
-  - The White Stripes
-  - The Horrors
-  - Jon Spencer Blues Explosion
+    - The White Stripes
+    - The Horrors
+    - Jon Spencer Blues Explosion
   mentors:
-  - Hasil Adkins
-  - The Stooges
+    - Hasil Adkins
+    - The Stooges
 spotify_data:
   followers: 595048
   id: 4lYtGx5NZQJHsMyhHc5iz3
   popularity: 59
-  url: https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3
+  url: 'https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3'
 discography_enriched: true
 top_tracks:
-- Goo Goo Muck (Psychedelic Jungle)
-- Human Fly (Off The Bone)
-- I Was A Teenage Werewolf - Remastered 1989 (Songs The Lord Taught Us)
-- I Can't Hardly Stand It (Off The Bone)
-- The Way I Walk (Off The Bone)
-- Goo Goo Muck (Bad Music For Bad People)
-- Green Fuz (Psychedelic Jungle)
-- Primitive (Psychedelic Jungle)
-- Bikini Girls with Machine Guns (Stay Sick!)
-- The Creature from the Black Leather Lagoon (Stay Sick!)
+  - Goo Goo Muck (Psychedelic Jungle)
+  - Human Fly (Off The Bone)
+  - I Was A Teenage Werewolf - Remastered 1989 (Songs The Lord Taught Us)
+  - I Can't Hardly Stand It (Off The Bone)
+  - The Way I Walk (Off The Bone)
+  - Goo Goo Muck (Bad Music For Bad People)
+  - Green Fuz (Psychedelic Jungle)
+  - Primitive (Psychedelic Jungle)
+  - Bikini Girls with Machine Guns (Stay Sick!)
+  - The Creature from the Black Leather Lagoon (Stay Sick!)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/96c1edac-1011-4cb8-882c-27248de35071
-  spotify: https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3
-  wikipedia: https://en.wikipedia.org/wiki/The_Cramps
+  musicbrainz: 'https://musicbrainz.org/artist/96c1edac-1011-4cb8-882c-27248de35071'
+  spotify: 'https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Cramps'
 image_path: 03_Resources/source_material/ArtistPortraits/the_cramps.jpg
 biography_enhanced_at: '2025-10-30T12:08:09.314224'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Cramps
-- https://insounder.org/milestones-music-history-15-cramps-and-birth-psychobilly
-- https://faroutmagazine.co.uk/the-cramps-the-life-and-times-of-americas-scariest-band/
-- https://udiscovermusic.com/stories/cramps-early-years/
-- https://simple.wikipedia.org/wiki/The_Cramps
+  - 'https://en.wikipedia.org/wiki/The_Cramps'
+  - >-
+    https://insounder.org/milestones-music-history-15-cramps-and-birth-psychobilly
+  - >-
+    https://faroutmagazine.co.uk/the-cramps-the-life-and-times-of-americas-scariest-band/
+  - 'https://udiscovermusic.com/stories/cramps-early-years/'
+  - 'https://simple.wikipedia.org/wiki/The_Cramps'
 network_extracted: true
 entry_created: '2025-10-30T12:08:09.314234'
 last_updated: '2025-12-23T08:16:16.681134'
 members:
-- begin: '1976'
-  end: '1977'
-  instruments: []
-  mbid: 21754b41-41fa-49c8-b3bd-583964412dfc
-  name: Miriam Linna
-- begin: '1976'
-  end: '1980'
-  instruments:
-  - original
-  mbid: 826b8076-d8d6-4eed-9d91-40cbd2318dd0
-  name: Bryan Gregory
-- begin: 1977-07
-  end: 1991-01
-  instruments:
-  - membranophone
-  mbid: 0f3d19da-27b4-47fa-b329-f2298a52d8b0
-  name: Nick Knox
-- begin: '1980'
-  end: '1980'
-  instruments:
-  - electric guitar
-  mbid: 18529eec-e8e2-4f83-b4ae-ae0463fddaa9
-  name: Julien Hechtlinger
-- begin: '1981'
-  end: '1983'
-  instruments: []
-  mbid: 46c5862a-ccbb-4bd9-8c48-2d8d992e38f3
-  name: Kid Congo Powers
-- begin: 1986-06
-  end: 1991-01
-  instruments: []
-  mbid: 98582955-6658-4aa9-8d74-a1014bb4530a
-  name: Candy Del Mar
-- begin: 1993-02
-  end: 2003-07
-  instruments: []
-  mbid: 9183bc32-9fd7-4e67-8799-a7da9377cbeb
-  name: Harry Drumdini
-- begin: 2006-08
-  end: 2009-02
-  instruments: []
-  mbid: 9183bc32-9fd7-4e67-8799-a7da9377cbeb
-  name: Harry Drumdini
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: cf5b11cd-eca0-49f7-bf14-c07f8b2bbf1e
-  name: Nickey “Beat” Alexander
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: bd6d6bae-524b-4e5d-9645-ffcf2ffd5c73
-  name: Bill Bateman
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 58856f5c-0589-4811-9441-c08a077d4bd9
-  name: Lux Interior
-- begin: ''
-  end: ''
-  instruments:
-  - bass guitar
-  mbid: 0e3c4c06-b544-4f2f-9991-6f7200e7198e
-  name: Timothy Maag
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 7a06d1f2-202c-49c9-8393-f31b46843df2
-  name: Poison Ivy
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: dc24f4fa-1b47-412f-891c-0f0a43664b8b
-  name: Jim Sclavunos
-- begin: ''
-  end: ''
-  instruments:
-  - bass guitar
-  mbid: be247504-256f-4772-9b82-abaf8ca84458
-  name: Slim Chance
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: cfda6f99-35cd-41cb-925f-61ec4b3ee030
-  name: Mike Metoff
+  - begin: '1976'
+    end: '1977'
+    instruments: []
+    mbid: 21754b41-41fa-49c8-b3bd-583964412dfc
+    name: Miriam Linna
+  - begin: '1976'
+    end: '1980'
+    instruments:
+      - original
+    mbid: 826b8076-d8d6-4eed-9d91-40cbd2318dd0
+    name: Bryan Gregory
+  - begin: 1977-07
+    end: 1991-01
+    instruments:
+      - membranophone
+    mbid: 0f3d19da-27b4-47fa-b329-f2298a52d8b0
+    name: Nick Knox
+  - begin: '1980'
+    end: '1980'
+    instruments:
+      - electric guitar
+    mbid: 18529eec-e8e2-4f83-b4ae-ae0463fddaa9
+    name: Julien Hechtlinger
+  - begin: '1981'
+    end: '1983'
+    instruments: []
+    mbid: 46c5862a-ccbb-4bd9-8c48-2d8d992e38f3
+    name: Kid Congo Powers
+  - begin: 1986-06
+    end: 1991-01
+    instruments: []
+    mbid: 98582955-6658-4aa9-8d74-a1014bb4530a
+    name: Candy Del Mar
+  - begin: 1993-02
+    end: 2003-07
+    instruments: []
+    mbid: 9183bc32-9fd7-4e67-8799-a7da9377cbeb
+    name: Harry Drumdini
+  - begin: 2006-08
+    end: 2009-02
+    instruments: []
+    mbid: 9183bc32-9fd7-4e67-8799-a7da9377cbeb
+    name: Harry Drumdini
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: cf5b11cd-eca0-49f7-bf14-c07f8b2bbf1e
+    name: Nickey “Beat” Alexander
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: bd6d6bae-524b-4e5d-9645-ffcf2ffd5c73
+    name: Bill Bateman
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 58856f5c-0589-4811-9441-c08a077d4bd9
+    name: Lux Interior
+  - begin: ''
+    end: ''
+    instruments:
+      - bass guitar
+    mbid: 0e3c4c06-b544-4f2f-9991-6f7200e7198e
+    name: Timothy Maag
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 7a06d1f2-202c-49c9-8393-f31b46843df2
+    name: Poison Ivy
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: dc24f4fa-1b47-412f-891c-0f0a43664b8b
+    name: Jim Sclavunos
+  - begin: ''
+    end: ''
+    instruments:
+      - bass guitar
+    mbid: be247504-256f-4772-9b82-abaf8ca84458
+    name: Slim Chance
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: cfda6f99-35cd-41cb-925f-61ec4b3ee030
+    name: Mike Metoff
 musicbrainz_id: 96c1edac-1011-4cb8-882c-27248de35071
-origin: New York
+origin: 'New York City, New York, United States'
 tags:
-- garage punk
-- garage rock
-- gothic rock
-
+  - garage punk
+  - garage rock
+  - gothic rock
+death_date: '2009'
+birth_place: 'Sacramento, California, United States'
 ---
 
 ![](the_cramps.jpg)

@@ -1,13 +1,13 @@
 ---
-title: ZAPP
+title: Zapp
 wiki_slug: zapp
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1978'
 genres:
-- funk
-- post-disco
+  - funk
+  - post-disco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/zapp.jpg
   caption: ZAPP
@@ -28,114 +28,115 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Roger Troutman
-  - Larry Troutman
-  - Lester Troutman
-  - Terry Troutman
-  - Bootsy Collins
+    - Roger Troutman
+    - Larry Troutman
+    - Lester Troutman
+    - Terry Troutman
+    - Bootsy Collins
   influenced:
-  - Dr. Dre
-  - 2Pac
-  - West Coast Hip-Hop Artists
+    - Dr. Dre
+    - 2Pac
+    - West Coast Hip-Hop Artists
   mentors:
-  - George Clinton
-  - Bootsy Collins
+    - George Clinton
+    - Bootsy Collins
 spotify_data:
   followers: 611846
   id: 396Kh0m4wGUvcMUULw71yi
   popularity: 52
-  url: https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi
+  url: 'https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi'
 discography_enriched: true
 top_tracks:
-- More Bounce to the Ounce (Zapp)
-- Computer Love (The New Zapp IV U)
-- Doo Wa Ditty (Blow That Thing)
-- So Ruff, so Tuff
-- Computer Love
-- More Bounce to the Ounce
-- Be Alright
-- I Can Make You Dance
-- Superman (Livin Shady)
-- Be Alright (Zapp)
+  - More Bounce to the Ounce (Zapp)
+  - Computer Love (The New Zapp IV U)
+  - Doo Wa Ditty (Blow That Thing)
+  - 'So Ruff, so Tuff'
+  - Computer Love
+  - More Bounce to the Ounce
+  - Be Alright
+  - I Can Make You Dance
+  - Superman (Livin Shady)
+  - Be Alright (Zapp)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e89e79d4-04c1-4bc3-9be1-a15899c93d8f
-  spotify: https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi
-  wikipedia: https://en.wikipedia.org/wiki/Zapp
+  musicbrainz: 'https://musicbrainz.org/artist/e89e79d4-04c1-4bc3-9be1-a15899c93d8f'
+  spotify: 'https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi'
+  wikipedia: 'https://en.wikipedia.org/wiki/Zapp'
 image_path: 03_Resources/source_material/ArtistPortraits/zapp.jpg
 biography_enhanced_at: '2025-11-20T07:35:28.092858'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.thezappband.com/biography
-- https://en.apoplife.nl/zapp-revolutionary-electro-funk-pioneers/
-- https://en.wikipedia.org/wiki/Zapp
-- https://www.daytondailynews.com/events/concerts/funk-dream-lives-dayton-band-zapp-playing-rare-dayton-concert/spUs83a9bAbMjtCt8uQMUJ/
+  - 'https://www.thezappband.com/biography'
+  - 'https://en.apoplife.nl/zapp-revolutionary-electro-funk-pioneers/'
+  - 'https://en.wikipedia.org/wiki/Zapp'
+  - >-
+    https://www.daytondailynews.com/events/concerts/funk-dream-lives-dayton-band-zapp-playing-rare-dayton-concert/spUs83a9bAbMjtCt8uQMUJ/
 network_extracted: true
 entry_created: '2025-11-20T07:35:28.092869'
 last_updated: '2025-12-23T08:16:18.418318'
 disambiguation: US funk band
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 962f6f14-ad84-47f9-ab46-83feb01485ea
-  name: Billy Beck
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7dc66f1f-ce90-4497-9622-472782480102
-  name: Carl Cowen
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a0031651-8355-4862-bce6-ac02111882b2
-  name: Greg Jackson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 585cb025-29f5-4558-960e-dcf73e8b6ea7
-  name: Shirley Murdock
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 68fa5147-7183-4fd1-85a6-4f98ae106ce7
-  name: Larry Troutman
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bb6cdbe3-e5ab-4c26-ba7e-080fabad2ada
-  name: Lester Troutman
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1ee7489a-af64-4ca2-9041-c1d8588b3a97
-  name: Roger Troutman
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a37595b4-7db5-42b0-8953-bc69e4bb8cc8
-  name: Terry "Zapp" Troutman
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 558b064e-d33c-432a-91a4-381a768fbfd8
-  name: Thomas Troutman
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 23e1361c-1f94-4f13-ab3a-14d47543bd6b
-  name: Randy Wallace
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 076e152e-4e9f-409e-82b7-61d57375bc1c
-  name: Wanda Rash
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 962f6f14-ad84-47f9-ab46-83feb01485ea
+    name: Billy Beck
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7dc66f1f-ce90-4497-9622-472782480102
+    name: Carl Cowen
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a0031651-8355-4862-bce6-ac02111882b2
+    name: Greg Jackson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 585cb025-29f5-4558-960e-dcf73e8b6ea7
+    name: Shirley Murdock
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 68fa5147-7183-4fd1-85a6-4f98ae106ce7
+    name: Larry Troutman
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bb6cdbe3-e5ab-4c26-ba7e-080fabad2ada
+    name: Lester Troutman
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1ee7489a-af64-4ca2-9041-c1d8588b3a97
+    name: Roger Troutman
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a37595b4-7db5-42b0-8953-bc69e4bb8cc8
+    name: Terry "Zapp" Troutman
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 558b064e-d33c-432a-91a4-381a768fbfd8
+    name: Thomas Troutman
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 23e1361c-1f94-4f13-ab3a-14d47543bd6b
+    name: Randy Wallace
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 076e152e-4e9f-409e-82b7-61d57375bc1c
+    name: Wanda Rash
 musicbrainz_id: e89e79d4-04c1-4bc3-9be1-a15899c93d8f
-origin: Dayton
+origin: 'Dayton, Ohio, United States'
 tags:
-- funk
-- hip hop rnb and dance hall
-- synth funk
+  - funk
+  - hip hop rnb and dance hall
+  - synth funk
 ---
 
 ![](zapp.jpg)

@@ -4,8 +4,8 @@ wiki_slug: bon-jovi-with-jelly-roll
 schema_version: 2
 status: active
 genres:
-- country hip hop
-- country
+  - country hip hop
+  - country
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bon_jovi_with_jelly_roll.jpg
   caption: Bon Jovi with Jelly Roll
@@ -16,8 +16,8 @@ audio_profile:
   valence_avg: 0.393
   danceability_avg: 0.608
   acousticness_avg: 0.153
-  instrumentalness_avg: 0.0
-  loudness_avg: -6.0
+  instrumentalness_avg: 0
+  loudness_avg: -6
   speechiness_avg: 0.069
   liveness_avg: 0.189
   track_count: 55
@@ -25,46 +25,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bon Jovi
-  - Struggle Jennings
-  - Lil Wyte
+    - Bon Jovi
+    - Struggle Jennings
+    - Lil Wyte
   influenced:
-  - Up-and-coming country-rap artists
+    - Up-and-coming country-rap artists
   mentors:
-  - George Strait
-  - Garth Brooks
+    - George Strait
+    - Garth Brooks
 spotify_data:
   followers: 6105445
   id: 19k8AgwwTSxeaxkOuCQEJs
   popularity: 79
-  url: https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs
+  url: 'https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs'
 discography_enriched: true
 top_tracks:
-- Liar (Beautifully Broken)
-- I Am Not Okay (Beautifully Broken)
-- Lonely Road (with Jelly Roll)
-- Losers (Feat. Jelly Roll) (F-1 Trillion)
-- Need A Favor (Whitsitt Chapel)
-- Somebody Save Me (The Death of Slim Shady (Coup De Grâce))
-- Save Me - with Lainey Wilson (Whitsitt Chapel)
-- Run It
-- Son Of A Sinner
-- Wild Ones (feat. Jelly Roll) (That Ain't No Man That's The Devil)
+  - Liar (Beautifully Broken)
+  - I Am Not Okay (Beautifully Broken)
+  - Lonely Road (with Jelly Roll)
+  - Losers (Feat. Jelly Roll) (F-1 Trillion)
+  - Need A Favor (Whitsitt Chapel)
+  - Somebody Save Me (The Death of Slim Shady (Coup De Grâce))
+  - Save Me - with Lainey Wilson (Whitsitt Chapel)
+  - Run It
+  - Son Of A Sinner
+  - Wild Ones (feat. Jelly Roll) (That Ain't No Man That's The Devil)
 external_urls:
-  spotify: https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs
-  wikipedia: https://en.wikipedia.org/wiki/Jelly_Roll_(singer)
+  spotify: 'https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jelly_Roll_(singer)'
 image_path: 03_Resources/source_material/ArtistPortraits/bon_jovi_with_jelly_roll.jpg
 biography_enhanced_at: '2025-11-03T07:54:59.825535'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.biography.com/musicians/a45530830/jelly-roll
-- https://macleansbooks.com.au/p/the-complete-biography-of-jelly-roll-the-untold-story-of-jason-deford-the-nashville-rapper-who-defied-the-odds-and-blended-genres-from-addiction-prison-and-heartache-to-redemption-musical-breakthroughs-and-global-influence
-- https://www.etonline.com/the-rise-of-jelly-roll-how-a-tattooed-ex-con-and-former-rapper-became-one-of-country-musics-biggest
+  - 'https://www.biography.com/musicians/a45530830/jelly-roll'
+  - >-
+    https://macleansbooks.com.au/p/the-complete-biography-of-jelly-roll-the-untold-story-of-jason-deford-the-nashville-rapper-who-defied-the-odds-and-blended-genres-from-addiction-prison-and-heartache-to-redemption-musical-breakthroughs-and-global-influence
+  - >-
+    https://www.etonline.com/the-rise-of-jelly-roll-how-a-tattooed-ex-con-and-former-rapper-became-one-of-country-musics-biggest
 network_extracted: true
 entry_created: '2025-11-03T07:54:59.825546'
 last_updated: '2025-12-23T08:16:05.914870'
-origin: Nashville, Tennessee, United States
+origin: 'Nashville, Tennessee, United States'
+birth_place: 'Antioch, Tennessee, United States'
+birth_date: '1984'
+artist_type: band
 ---
 
 ![](bon_jovi_with_jelly_roll.jpg)

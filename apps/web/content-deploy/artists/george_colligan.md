@@ -3,14 +3,14 @@ title: George Colligan
 wiki_slug: george-colligan
 schema_version: 2
 status: active
-birth_place: New Jersey, USA
+birth_place: 'New Jersey, USA'
 genres:
-- jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/george_colligan.jpg
   caption: George Colligan
   background: solo_singer
-  origin: New Jersey, USA
+  origin: 'New Jersey, USA'
 audio_profile:
   tempo_avg: 115.2
   energy_avg: 0.486
@@ -26,59 +26,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jack DeJohnette
-  - John Scofield
-  - Cassandra Wilson
-  - Ravi Coltrane
-  - Don Byron
-  - Buster Williams
-  - Linda May Han Oh
-  - Rudy Royston
+    - Jack DeJohnette
+    - John Scofield
+    - Cassandra Wilson
+    - Ravi Coltrane
+    - Don Byron
+    - Buster Williams
+    - Linda May Han Oh
+    - Rudy Royston
   influenced:
-  - Nicole Glover
+    - Nicole Glover
   mentors:
-  - Clifford Brown
-  - Wynton Marsalis
-  - Herbie Hancock
-  - McCoy Tyner
-  - Chick Corea
-  - Keith Jarrett
-  - Kenny Kirkland
-  - Mulgrew Miller
-  - Wynton Kelly
-  - Ahmad Jamal
+    - Clifford Brown
+    - Wynton Marsalis
+    - Herbie Hancock
+    - McCoy Tyner
+    - Chick Corea
+    - Keith Jarrett
+    - Kenny Kirkland
+    - Mulgrew Miller
+    - Wynton Kelly
+    - Ahmad Jamal
 spotify_data:
   followers: 1863
   id: 6uBYC2SHo3OZBzXShYrEol
   popularity: 14
-  url: https://open.spotify.com/artist/6uBYC2SHo3OZBzXShYrEol
+  url: 'https://open.spotify.com/artist/6uBYC2SHo3OZBzXShYrEol'
 discography_enriched: true
 top_tracks:
-- Her Majesty
-- Watercolor
-- Song for the Tarahumera
-- Here We Go Again
-- Go On (Home)
-- Bubbles (Home)
-- Waiting for Solitude (Live At The Jazz Standard)
-- Song for the Tarahumera (Live At The Jazz Standard)
-- Song for the Tarahumera (The Endless Mysteries)
-- Epistrophy (New York Flamenco Reunion (feat. Javier Colina, Perico Sambeat, Guillermo McGill, George Colligan))
+  - Her Majesty
+  - Watercolor
+  - Song for the Tarahumera
+  - Here We Go Again
+  - Go On (Home)
+  - Bubbles (Home)
+  - Waiting for Solitude (Live At The Jazz Standard)
+  - Song for the Tarahumera (Live At The Jazz Standard)
+  - Song for the Tarahumera (The Endless Mysteries)
+  - >-
+    Epistrophy (New York Flamenco Reunion (feat. Javier Colina, Perico Sambeat,
+    Guillermo McGill, George Colligan))
 external_urls:
-  spotify: https://open.spotify.com/artist/6uBYC2SHo3OZBzXShYrEol
-  wikipedia: https://en.wikipedia.org/wiki/George_Colligan
+  spotify: 'https://open.spotify.com/artist/6uBYC2SHo3OZBzXShYrEol'
+  wikipedia: 'https://en.wikipedia.org/wiki/George_Colligan'
 image_path: 03_Resources/source_material/ArtistPortraits/george_colligan.jpg
 biography_enhanced_at: '2025-11-20T06:29:46.842586'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://downbeat.com/news/detail/george-colligans-vision-realized
-- https://www.allaboutjazz.com/musicians/george-colligan/
-- https://georgecolligan.com
-- https://en.wikipedia.org/wiki/George_Colligan
+  - 'https://downbeat.com/news/detail/george-colligans-vision-realized'
+  - 'https://www.allaboutjazz.com/musicians/george-colligan/'
+  - 'https://georgecolligan.com'
+  - 'https://en.wikipedia.org/wiki/George_Colligan'
 network_extracted: true
 entry_created: '2025-11-20T06:29:46.842594'
 last_updated: '2025-12-23T08:16:09.079127'
+birth_date: '1969-12-29'
+artist_type: person
 ---
 
 ![](george_colligan.jpg)

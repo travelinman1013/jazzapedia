@@ -4,32 +4,33 @@ biography_enhanced_at: '2026-01-17T02:06:30.335977'
 enhancement_provider: perplexity
 entry_created: '2026-01-17T02:06:30.335982'
 external_urls:
-  spotify: https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ
+  spotify: 'https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ'
   wikipedia: ''
 genres:
-- folk punk
-- folk
+  - folk punk
+  - folk
 image_path: 03_Resources/source_material/ArtistPortraits/jesse_welles_and_joan_baez.jpg
 last_updated: '2026-01-17T02:06:30.335983'
 musical_connections:
   collaborators:
-  - Joan Baez
-  - John Fogerty
+    - Joan Baez
+    - John Fogerty
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://parade.com/news/joan-baez-duets-bob-dylan-jesse-welles
-- https://bcheights.com/225237/arts/the-voice-of-a-tiktok-generation-why-jesse-welles-is-not-the-next-bob-dylan/
-- https://en.wikipedia.org/wiki/Joan_Baez
+  - 'https://parade.com/news/joan-baez-duets-bob-dylan-jesse-welles'
+  - >-
+    https://bcheights.com/225237/arts/the-voice-of-a-tiktok-generation-why-jesse-welles-is-not-the-next-bob-dylan/
+  - 'https://en.wikipedia.org/wiki/Joan_Baez'
 spotify_data:
   followers: 382665
   id: 366xgdzfRGQoiDRGidGlDJ
   popularity: 57
-  url: https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ
+  url: 'https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ'
 status: active
-title: Jesse Welles & joan baez
+title: Jesse Welles & Joan Baez
 ---
 
 ![](jesse_welles_and_joan_baez.jpg)

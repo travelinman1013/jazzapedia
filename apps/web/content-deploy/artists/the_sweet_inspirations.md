@@ -1,11 +1,11 @@
 ---
-title: the sweet inspirations
+title: The Sweet Inspirations
 wiki_slug: the-sweet-inspirations
 schema_version: 2
 status: active
 genres:
-- soul
-- philly soul
+  - soul
+  - philly soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_sweet_inspirations.jpg
   caption: the sweet inspirations
@@ -25,51 +25,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Aretha Franklin
-  - Elvis Presley
-  - Van Morrison
-  - Dusty Springfield
-  - Jimi Hendrix
-  - Solomon Burke
-  - Dionne Warwick
-  - Doris Troy
+    - Aretha Franklin
+    - Elvis Presley
+    - Van Morrison
+    - Dusty Springfield
+    - Jimi Hendrix
+    - Solomon Burke
+    - Dionne Warwick
+    - Doris Troy
   influenced:
-  - Salt-N-Pepa
+    - Salt-N-Pepa
   mentors:
-  - The Drinkard Singers
+    - The Drinkard Singers
 spotify_data:
   followers: 14561
   id: 1wonEkTZkBGYq7J4w56yZl
   popularity: 22
-  url: https://open.spotify.com/artist/1wonEkTZkBGYq7J4w56yZl
+  url: 'https://open.spotify.com/artist/1wonEkTZkBGYq7J4w56yZl'
 discography_enriched: true
 top_tracks:
-- Sweet Inspiration (The Sweet Inspirations)
-- I'm Blue (The Sweet Inspirations)
-- That's How Strong My Love Is (What The World Needs Now)
-- Here I Am - Take Me (The Sweet Inspirations)
-- Why Marry (Estelle, Myrna and Sylvia)
-- What the World Needs Now Is Love (What The World Needs Now)
-- What the World Needs Now Is Love (100 Greatest Love Songs)
-- Every Day Will Be Like a Holiday (Sweets For My Sweet)
-- Let It Be Me (The Sweet Inspirations)
-- Why (Am I Treated so Bad) - Single Version (The Sweet Inspirations)
+  - Sweet Inspiration (The Sweet Inspirations)
+  - I'm Blue (The Sweet Inspirations)
+  - That's How Strong My Love Is (What The World Needs Now)
+  - Here I Am - Take Me (The Sweet Inspirations)
+  - 'Why Marry (Estelle, Myrna and Sylvia)'
+  - What the World Needs Now Is Love (What The World Needs Now)
+  - What the World Needs Now Is Love (100 Greatest Love Songs)
+  - Every Day Will Be Like a Holiday (Sweets For My Sweet)
+  - Let It Be Me (The Sweet Inspirations)
+  - Why (Am I Treated so Bad) - Single Version (The Sweet Inspirations)
 external_urls:
-  spotify: https://open.spotify.com/artist/1wonEkTZkBGYq7J4w56yZl
-  wikipedia: https://en.wikipedia.org/wiki/The_Sweet_Inspirations
+  spotify: 'https://open.spotify.com/artist/1wonEkTZkBGYq7J4w56yZl'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Sweet_Inspirations'
 image_path: 03_Resources/source_material/ArtistPortraits/the_sweet_inspirations.jpg
 biography_enhanced_at: '2025-10-20T09:00:23.777153'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Sweet_Inspirations
-- https://www.last.fm/music/The+Sweet+Inspirations/+wiki
-- http://www.soulwalking.co.uk/Sweet%20Inspirations.html
+  - 'https://en.wikipedia.org/wiki/The_Sweet_Inspirations'
+  - 'https://www.last.fm/music/The+Sweet+Inspirations/+wiki'
+  - 'http://www.soulwalking.co.uk/Sweet%20Inspirations.html'
 network_extracted: true
 entry_created: '2025-10-20T09:00:23.777163'
 last_updated: '2025-12-23T08:16:17.203553'
-origin: Newark, New Jersey, United States
-
+origin: 'Newark, New Jersey, United States'
+artist_type: band
 ---
 
 ![](the_sweet_inspirations.jpg)

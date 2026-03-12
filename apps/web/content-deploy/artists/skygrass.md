@@ -2,7 +2,7 @@
 title: Skygrass
 wiki_slug: skygrass
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 genres: []
 infobox:
@@ -24,47 +24,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lutan Fyah
-  - Turbulence
-  - Mykal Rose
-  - Rasheed McCallum
-  - Suane Brown
-  - RoryStonelove
-  - Aspekt Mafia
-  - Nicole Arbour
+    - Lutan Fyah
+    - Turbulence
+    - Mykal Rose
+    - Rasheed McCallum
+    - Suane Brown
+    - RoryStonelove
+    - Aspekt Mafia
+    - Nicole Arbour
   influenced: []
   mentors:
-  - Turbulence
+    - Turbulence
 spotify_data:
   followers: 2
   id: 18UiwEYNuBEUdWBwXBIlwp
   popularity: 6
-  url: https://open.spotify.com/artist/18UiwEYNuBEUdWBwXBIlwp
+  url: 'https://open.spotify.com/artist/18UiwEYNuBEUdWBwXBIlwp'
 discography_enriched: true
 top_tracks:
-- Todo (Todo)
+  - Todo (Todo)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7426ce4c-e483-453c-8136-5eef15b91b9c
-  spotify: https://open.spotify.com/artist/18UiwEYNuBEUdWBwXBIlwp
+  musicbrainz: 'https://musicbrainz.org/artist/7426ce4c-e483-453c-8136-5eef15b91b9c'
+  spotify: 'https://open.spotify.com/artist/18UiwEYNuBEUdWBwXBIlwp'
   wikipedia: Not found in search results
 image_path: ''
 biography_enhanced_at: '2025-12-04T08:23:12.216945'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- markets.financialcontent.com - Skygrass Releases Single and Visualizer RIDDIM FYAH (September 26, 2025)
-- jamaicans.com - Jamaican-Born Branding Expert Simon 'Skygrass' Bowden
-- jackrussellmusic.net - Simon 'Skygrass' Bowden
-- recentmusic.com - Skygrass New Releases
-- 'hunnypotunlimited.com - Album Review: Skygrass Walking On Water'
-- jamaica-gleaner.com - SkyGrass releases 'I Am King'
-- reggaeville.com - Skygrass Artist Details
+  - >-
+    markets.financialcontent.com - Skygrass Releases Single and Visualizer
+    RIDDIM FYAH (September 26, 2025)
+  - jamaicans.com - Jamaican-Born Branding Expert Simon 'Skygrass' Bowden
+  - jackrussellmusic.net - Simon 'Skygrass' Bowden
+  - recentmusic.com - Skygrass New Releases
+  - 'hunnypotunlimited.com - Album Review: Skygrass Walking On Water'
+  - jamaica-gleaner.com - SkyGrass releases 'I Am King'
+  - reggaeville.com - Skygrass Artist Details
 network_extracted: true
 entry_created: '2025-12-04T08:23:12.216957'
 last_updated: '2025-12-23T08:16:15.714484'
 disambiguation: Reggae Group
 musicbrainz_id: 7426ce4c-e483-453c-8136-5eef15b91b9c
-origin: Kingston, Jamaica
+origin: 'Kingston, Jamaica, United States'
 ---
 
 ![]()

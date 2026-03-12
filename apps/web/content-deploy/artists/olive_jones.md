@@ -3,13 +3,13 @@ title: Olive Jones
 wiki_slug: olive-jones
 schema_version: 2
 status: active
-birth_place: London, England, United Kingdom
+birth_place: 'London, England, United Kingdom'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/olive_jones.jpg
   caption: Olive Jones
   background: solo_singer
-  origin: London, England, United Kingdom
+  origin: 'London, England, United Kingdom'
 audio_profile:
   tempo_avg: 104.9
   energy_avg: 0.372
@@ -25,46 +25,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Gotts Street Park
-  - Jalen Ngonda
-  - Nitin Sawhney
+    - Gotts Street Park
+    - Jalen Ngonda
+    - Nitin Sawhney
   influenced: []
   mentors:
-  - Aretha Franklin
-  - Alicia Keys
+    - Aretha Franklin
+    - Alicia Keys
 spotify_data:
   followers: 27411
   id: 2DwbPVZ7uyW2B0AgoHuzLn
   popularity: 55
-  url: https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn
+  url: 'https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn'
 discography_enriched: true
 top_tracks:
-- Tell Me Why (On The Inside)
-- Planes (Planes)
-- Summer Rain (Summer Rain)
-- All In My Head (All In My Head)
-- Tell Me Why (Tell Me Why)
-- Nobody Knows (Nobody Knows)
-- A Woman's Heart (A Woman's Heart)
-- Three More Nights (Three More Nights)
-- Summer Rain (Summer Rain)
-- All In My Head (All In My Head)
+  - Tell Me Why (On The Inside)
+  - Planes (Planes)
+  - Summer Rain (Summer Rain)
+  - All In My Head (All In My Head)
+  - Tell Me Why (Tell Me Why)
+  - Nobody Knows (Nobody Knows)
+  - A Woman's Heart (A Woman's Heart)
+  - Three More Nights (Three More Nights)
+  - Summer Rain (Summer Rain)
+  - All In My Head (All In My Head)
 external_urls:
-  spotify: https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn
+  spotify: 'https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/olive_jones.jpg
 biography_enhanced_at: '2025-11-12T14:42:38.083635'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://earth-agency.com/artist/olive-jones/
-- https://bandonthewall.org/events/olive-jones/
-- https://olivejonesmusic.com
-- https://www.viberate.com/artist/olive-jones/
-- https://www.thewordisbond.com/olive-jones-end-of-time/
+  - 'https://earth-agency.com/artist/olive-jones/'
+  - 'https://bandonthewall.org/events/olive-jones/'
+  - 'https://olivejonesmusic.com'
+  - 'https://www.viberate.com/artist/olive-jones/'
+  - 'https://www.thewordisbond.com/olive-jones-end-of-time/'
 network_extracted: true
 entry_created: '2025-11-12T14:42:38.083643'
 last_updated: '2025-12-23T08:16:13.727626'
+artist_type: person
 ---
 
 ![](olive_jones.jpg)

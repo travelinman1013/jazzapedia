@@ -4,8 +4,8 @@ wiki_slug: the-spiders
 schema_version: 2
 status: active
 genres:
-- doo-wop
-- mexican rock
+  - doo-wop
+  - mexican rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_spiders.jpg
   caption: The Spiders
@@ -25,43 +25,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - La Fachada de Piedra
-  - Tony Vierling
-  - Talín Avilés
+    - La Fachada de Piedra
+    - Tony Vierling
+    - Talín Avilés
   influenced: []
   mentors: []
 spotify_data:
   followers: 3966
   id: 5mrfwFGMT56yGbirhVdInL
   popularity: 15
-  url: https://open.spotify.com/artist/5mrfwFGMT56yGbirhVdInL
+  url: 'https://open.spotify.com/artist/5mrfwFGMT56yGbirhVdInL'
 discography_enriched: true
 top_tracks:
-- Back (Back)
-- 'Boom! Boom! Boom! (Slitherama: Teen Trash From Psychedelic Tokyo ''66 - ''69 (Volume 3))'
-- 'Nati Bati Yi (Monster A Go-Go: Teen Trash From Psychedelic Tokyo ''66 - ''69 (Volume 1))'
-- Anything You Want (Sixties Japanese Garage-Psych Sampler)
-- 'Witchcraft - 2002 Remastered (The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949-1960)'
-- Witchcraft (I Didn't Wanna Do It)
-- Johnny B. Goode (Big Lizard Stomp! Teen Trash From Psychedelic Tokyo '66 - '69 (Volume 2))
-- Something I Heard (Last Night) (Back)
-- People Deceive (Back)
-- I Didn't Want to Do It (I Didn't Wanna Do It)
+  - Back (Back)
+  - >-
+    Boom! Boom! Boom! (Slitherama: Teen Trash From Psychedelic Tokyo '66 - '69
+    (Volume 3))
+  - >-
+    Nati Bati Yi (Monster A Go-Go: Teen Trash From Psychedelic Tokyo '66 - '69
+    (Volume 1))
+  - Anything You Want (Sixties Japanese Garage-Psych Sampler)
+  - >-
+    Witchcraft - 2002 Remastered (The Big Beat Of Dave Bartholomew: 20 Milestone
+    Dave Bartholomew Productions 1949-1960)
+  - Witchcraft (I Didn't Wanna Do It)
+  - >-
+    Johnny B. Goode (Big Lizard Stomp! Teen Trash From Psychedelic Tokyo '66 -
+    '69 (Volume 2))
+  - Something I Heard (Last Night) (Back)
+  - People Deceive (Back)
+  - I Didn't Want to Do It (I Didn't Wanna Do It)
 external_urls:
-  spotify: https://open.spotify.com/artist/5mrfwFGMT56yGbirhVdInL
-  wikipedia: https://es.wikipedia.org/wiki/The_Spiders
+  spotify: 'https://open.spotify.com/artist/5mrfwFGMT56yGbirhVdInL'
+  wikipedia: 'https://es.wikipedia.org/wiki/The_Spiders'
 image_path: 03_Resources/source_material/ArtistPortraits/the_spiders.jpg
 biography_enhanced_at: '2025-10-25T09:56:43.590153'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://es.wikipedia.org/wiki/The_Spiders
-- http://poprunners.blogspot.com/2018/06/mexican-psychedelic-rockpop-spiders.html
-- https://www.last.fm/music/The+Spiders/+wiki
+  - 'https://es.wikipedia.org/wiki/The_Spiders'
+  - >-
+    http://poprunners.blogspot.com/2018/06/mexican-psychedelic-rockpop-spiders.html
+  - 'https://www.last.fm/music/The+Spiders/+wiki'
 network_extracted: true
 entry_created: '2025-10-25T09:56:43.590165'
 last_updated: '2025-12-23T08:16:17.170343'
-origin: Guadalajara, Jalisco, Mexico
+origin: 'Guadalajara, Jalisco, Mexico'
+artist_type: band
 ---
 
 ![](the_spiders.jpg)

@@ -1,17 +1,17 @@
 ---
-title: BABE STOVALL
+title: Babe Stovall
 wiki_slug: babe-stovall
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
-birth_place: Tylertown, Mississippi, United States
+birth_place: 'Tylertown, Mississippi, United States'
 genres:
-- blues
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/BABE_STOVALL.jpg
   caption: BABE STOVALL
   background: solo_singer
-  origin: Tylertown, Mississippi, United States
+  origin: 'Tylertown, Mississippi, United States'
 audio_profile:
   tempo_avg: 112.6
   energy_avg: 0.506
@@ -27,47 +27,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bob West
+    - Bob West
   influenced:
-  - Young white musicians in New Orleans
-  - Jerry Jeff Walker (indirectly)
+    - Young white musicians in New Orleans
+    - Jerry Jeff Walker (indirectly)
   mentors:
-  - Tommy Johnson
+    - Tommy Johnson
 spotify_data:
   followers: 195
   id: 1xPSzLznqiCRzmGdCWX08b
   popularity: 1
-  url: https://open.spotify.com/artist/1xPSzLznqiCRzmGdCWX08b
+  url: 'https://open.spotify.com/artist/1xPSzLznqiCRzmGdCWX08b'
 discography_enriched: true
 top_tracks:
-- 'When the Circle Be Unbroken (Sorrow Come Pass Me Around: A Survey of Rural Religious Black Music)'
-- 'The Ship Is at the Landing (Sorrow Come Pass Me Around: A Survey of Rural Religious Black Music)'
-- Going Away to Wear You off My Mind - Live (Babe Stovall 1958-1964)
-- 'Big Road Blues (2) (Matchbox Bluesmaster Series, Vol. 8: Big Road Blues)'
-- 'Big Road Blues (2) (Matchbox Bluesmaster Series, Vol. 8: Big Road Blues)'
-- Do Lord - Live (Babe Stovall 1958-1964)
-- Big Road Blues - Live (Babe Stovall 1958-1964)
-- CC Rider - Live (Babe Stovall 1958-1964)
-- I Ain't Gonna Be Your Do No More - Live (Babe Stovall 1958-1964)
-- Trouble in Mind - Live (Babe Stovall 1958-1964)
+  - >-
+    When the Circle Be Unbroken (Sorrow Come Pass Me Around: A Survey of Rural
+    Religious Black Music)
+  - >-
+    The Ship Is at the Landing (Sorrow Come Pass Me Around: A Survey of Rural
+    Religious Black Music)
+  - Going Away to Wear You off My Mind - Live (Babe Stovall 1958-1964)
+  - 'Big Road Blues (2) (Matchbox Bluesmaster Series, Vol. 8: Big Road Blues)'
+  - 'Big Road Blues (2) (Matchbox Bluesmaster Series, Vol. 8: Big Road Blues)'
+  - Do Lord - Live (Babe Stovall 1958-1964)
+  - Big Road Blues - Live (Babe Stovall 1958-1964)
+  - CC Rider - Live (Babe Stovall 1958-1964)
+  - I Ain't Gonna Be Your Do No More - Live (Babe Stovall 1958-1964)
+  - Trouble in Mind - Live (Babe Stovall 1958-1964)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/dc7f112f-95c4-4d71-a2a7-4200e47dfb7c
-  spotify: https://open.spotify.com/artist/1xPSzLznqiCRzmGdCWX08b
-  wikipedia: https://en.wikipedia.org/wiki/Babe_Stovall
+  musicbrainz: 'https://musicbrainz.org/artist/dc7f112f-95c4-4d71-a2a7-4200e47dfb7c'
+  spotify: 'https://open.spotify.com/artist/1xPSzLznqiCRzmGdCWX08b'
+  wikipedia: 'https://en.wikipedia.org/wiki/Babe_Stovall'
 image_path: 03_Resources/source_material/ArtistPortraits/BABE_STOVALL.jpg
 biography_enhanced_at: '2025-10-21T07:00:02.588768'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Babe_Stovall
-- https://blinddogradio.blogspot.com/2021/11/jewell-babe-stovall.html
-- https://musicrising.tulane.edu/discover/people/jewell-babe-stovall/
-- https://allaboutjazz.com/musicians/jewell-babe-stovall/
+  - 'https://en.wikipedia.org/wiki/Babe_Stovall'
+  - 'https://blinddogradio.blogspot.com/2021/11/jewell-babe-stovall.html'
+  - 'https://musicrising.tulane.edu/discover/people/jewell-babe-stovall/'
+  - 'https://allaboutjazz.com/musicians/jewell-babe-stovall/'
 network_extracted: true
 entry_created: '2025-10-21T07:00:02.588784'
 last_updated: '2025-12-23T08:16:01.092386'
 musicbrainz_enriched_at: '2025-10-21T09:00:32.013018'
 musicbrainz_id: dc7f112f-95c4-4d71-a2a7-4200e47dfb7c
+birth_date: '1907-10-14'
+death_date: '1974-09-21'
 ---
 
 ![](BABE_STOVALL.jpg)

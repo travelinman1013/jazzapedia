@@ -1,33 +1,37 @@
 ---
 biography_enhanced_at: '2025-12-26T01:18:36.611517'
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2025-12-26T01:18:36.611531'
 external_urls:
-  spotify: https://open.spotify.com/artist/4g8qklOeq88nq1jEw8NSrZ
-  wikipedia: https://en.wikipedia.org/wiki/Batiste_family
+  spotify: 'https://open.spotify.com/artist/4g8qklOeq88nq1jEw8NSrZ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Batiste_family'
 genres:
-- cajun
+  - cajun
 image_path: 03_Resources/source_material/ArtistPortraits/milton_batiste.jpg
 last_updated: '2025-12-26T01:18:36.611534'
 musical_connections:
   collaborators:
-  - Olympia Brass Band
+    - Olympia Brass Band
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Batiste_family
-- https://www.allmusic.com/artist/milton-batiste-mn0000493305
-- https://www.iheart.com/artist/milton-batiste-192257/
+  - 'https://en.wikipedia.org/wiki/Batiste_family'
+  - 'https://www.allmusic.com/artist/milton-batiste-mn0000493305'
+  - 'https://www.iheart.com/artist/milton-batiste-192257/'
 spotify_data:
   followers: 95
   id: 4g8qklOeq88nq1jEw8NSrZ
   popularity: 14
-  url: https://open.spotify.com/artist/4g8qklOeq88nq1jEw8NSrZ
+  url: 'https://open.spotify.com/artist/4g8qklOeq88nq1jEw8NSrZ'
 status: active
 title: Milton Batiste
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1934-09-05'
+death_date: '2001-03-29'
+artist_type: person
 ---
 
 ![](milton_batiste.jpg)

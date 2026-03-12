@@ -2,14 +2,14 @@
 title: Bonsoir Catin
 wiki_slug: bonsoir-catin
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '2004'
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 instruments:
-- original
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bonsoir_catin.jpg
   caption: Bonsoir Catin
@@ -30,84 +30,84 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kristi Guillory
-  - Christine Balfa
-  - Anya Burgess
-  - Maegan Berard
-  - Ashley Hayes Steele
-  - Daniel Devillier
-  - Yvette Landry
-  - Jude Veillon
-  - Richard Comeaux
-  - Courtney Granger
-  - Sheryl Cormier
+    - Kristi Guillory
+    - Christine Balfa
+    - Anya Burgess
+    - Maegan Berard
+    - Ashley Hayes Steele
+    - Daniel Devillier
+    - Yvette Landry
+    - Jude Veillon
+    - Richard Comeaux
+    - Courtney Granger
+    - Sheryl Cormier
   influenced:
-  - Emerging female Cajun musicians
+    - Emerging female Cajun musicians
   mentors:
-  - Dewey Balfa
+    - Dewey Balfa
 spotify_data:
   followers: 1735
   id: 1TO8Vv48OEKCJguW18HaAt
   popularity: 9
-  url: https://open.spotify.com/artist/1TO8Vv48OEKCJguW18HaAt
+  url: 'https://open.spotify.com/artist/1TO8Vv48OEKCJguW18HaAt'
 discography_enriched: true
 top_tracks:
-- 73 Special (Vive L'Amour)
-- Black Cat Bones (Vive L'Amour)
-- J'Aimerais Sentir Comme Ca Chez Moi (Vive L'Amour)
-- Moi L'aime Une Petite Fille (Light the Stars)
-- Freetown Breakdown (Light the Stars)
-- Mon Aimable Brune (Vive L'Amour)
-- Cinquante Piastres (Blues À Catin)
-- Squirrel Song (L'aurore)
-- C'est Pas Eux-Autres Á Dire (Light the Stars)
-- L'amour, L'amour (L'aurore)
+  - 73 Special (Vive L'Amour)
+  - Black Cat Bones (Vive L'Amour)
+  - J'Aimerais Sentir Comme Ca Chez Moi (Vive L'Amour)
+  - Moi L'aime Une Petite Fille (Light the Stars)
+  - Freetown Breakdown (Light the Stars)
+  - Mon Aimable Brune (Vive L'Amour)
+  - Cinquante Piastres (Blues À Catin)
+  - Squirrel Song (L'aurore)
+  - C'est Pas Eux-Autres Á Dire (Light the Stars)
+  - 'L''amour, L''amour (L''aurore)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/37554aad-991c-4e6a-abf5-1f15c207bfee
-  spotify: https://open.spotify.com/artist/1TO8Vv48OEKCJguW18HaAt
+  musicbrainz: 'https://musicbrainz.org/artist/37554aad-991c-4e6a-abf5-1f15c207bfee'
+  spotify: 'https://open.spotify.com/artist/1TO8Vv48OEKCJguW18HaAt'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/bonsoir_catin.jpg
 biography_enhanced_at: '2025-10-27T02:31:05.701133'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- World Listening Post (worldlisteningpost.com)[1]
-- Downtown Cajun Band (downtowncajunband.nl)[2]
-- The Advertiser (theadvertiser.com)[3]
-- WWNO American Routes (wwno.org)[4]
-- The Herald-Times (heraldtimesonline.com)[7]
-- OffBeat Magazine (offbeat.com)[5]
-- Herald Times Online (heraldtimesonline.com)[7]
+  - 'World Listening Post (worldlisteningpost.com)[1]'
+  - 'Downtown Cajun Band (downtowncajunband.nl)[2]'
+  - 'The Advertiser (theadvertiser.com)[3]'
+  - 'WWNO American Routes (wwno.org)[4]'
+  - 'The Herald-Times (heraldtimesonline.com)[7]'
+  - 'OffBeat Magazine (offbeat.com)[5]'
+  - 'Herald Times Online (heraldtimesonline.com)[7]'
 network_extracted: true
 entry_created: '2025-10-27T02:31:05.701153'
 last_updated: '2025-12-23T08:16:05.928373'
-disambiguation: Spelled "Bonsoir, Catin" on initial releases.
+disambiguation: 'Spelled "Bonsoir, Catin" on initial releases.'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 5b7a0c02-e2fe-4e66-892f-8c3d4efef332
-  name: Christine Balfa
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 27e2c692-25f6-44e4-8f8c-5f7bfc33185c
-  name: Danny Devillier
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: cc074b0e-c068-455b-a60e-a5ed5d3a96be
-  name: Kristi Guillory
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: b47dd475-aab1-4906-8f1f-43d124e40f98
-  name: Yvette Landry
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 5b7a0c02-e2fe-4e66-892f-8c3d4efef332
+    name: Christine Balfa
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 27e2c692-25f6-44e4-8f8c-5f7bfc33185c
+    name: Danny Devillier
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: cc074b0e-c068-455b-a60e-a5ed5d3a96be
+    name: Kristi Guillory
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: b47dd475-aab1-4906-8f1f-43d124e40f98
+    name: Yvette Landry
 musicbrainz_id: 37554aad-991c-4e6a-abf5-1f15c207bfee
-origin: Lafayette, Louisiana, USA
+origin: 'Lafayette, Louisiana, USA'
 ---
 
 ![](bonsoir_catin.jpg)

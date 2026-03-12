@@ -1,17 +1,17 @@
 ---
-title: eddie jefferson
+title: Eddie Jefferson
 wiki_slug: eddie-jefferson
 schema_version: 2
 status: active
-birth_place: Pittsburgh, Pennsylvania, United States
+birth_place: 'Pittsburgh, Pennsylvania, United States'
 genres:
-- vocal jazz
-- soul jazz
+  - vocal jazz
+  - soul jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/eddie_jefferson.jpg
   caption: eddie jefferson
   background: solo_singer
-  origin: Pittsburgh, Pennsylvania, United States
+  origin: 'Pittsburgh, Pennsylvania, United States'
 audio_profile:
   tempo_avg: 110.4
   energy_avg: 0.376
@@ -27,53 +27,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - James Moody
-  - Richie Cole
-  - Erroll Garner
+    - James Moody
+    - Richie Cole
+    - Erroll Garner
   influenced:
-  - King Pleasure
-  - Lambert, Hendricks & Ross
-  - The Manhattan Transfer
-  - New York Voices
+    - King Pleasure
+    - 'Lambert, Hendricks & Ross'
+    - The Manhattan Transfer
+    - New York Voices
   mentors:
-  - Coleman Hawkins
-  - Charlie Parker
-  - Lester Young
+    - Coleman Hawkins
+    - Charlie Parker
+    - Lester Young
 spotify_data:
   followers: 7572
   id: 4GDOPUTIg2XgWCnK3spR3B
   popularity: 17
-  url: https://open.spotify.com/artist/4GDOPUTIg2XgWCnK3spR3B
+  url: 'https://open.spotify.com/artist/4GDOPUTIg2XgWCnK3spR3B'
 discography_enriched: true
 top_tracks:
-- Psychedelic Sally (Body And Soul)
-- 'Moody''s Mood For Love (The Jazz Singer: Vocal Improvisations on Famous Jazz Solos)'
-- Jeannine (The Main Man)
-- So What (Body And Soul)
-- There I Go, There I Go Again (Body And Soul)
-- Filthy McNasty (Body And Soul)
-- Mercy, Mercy, Mercy (Body And Soul)
-- See If You Can Git To That (Body And Soul)
-- Body And Soul (Body And Soul)
-- 'So What? (The Jazz Singer: Vocal Improvisations on Famous Jazz Solos)'
+  - Psychedelic Sally (Body And Soul)
+  - >-
+    Moody's Mood For Love (The Jazz Singer: Vocal Improvisations on Famous Jazz
+    Solos)
+  - Jeannine (The Main Man)
+  - So What (Body And Soul)
+  - 'There I Go, There I Go Again (Body And Soul)'
+  - Filthy McNasty (Body And Soul)
+  - 'Mercy, Mercy, Mercy (Body And Soul)'
+  - See If You Can Git To That (Body And Soul)
+  - Body And Soul (Body And Soul)
+  - 'So What? (The Jazz Singer: Vocal Improvisations on Famous Jazz Solos)'
 external_urls:
-  spotify: https://open.spotify.com/artist/4GDOPUTIg2XgWCnK3spR3B
-  wikipedia: https://en.wikipedia.org/wiki/Eddie_Jefferson
+  spotify: 'https://open.spotify.com/artist/4GDOPUTIg2XgWCnK3spR3B'
+  wikipedia: 'https://en.wikipedia.org/wiki/Eddie_Jefferson'
 image_path: 03_Resources/source_material/ArtistPortraits/eddie_jefferson.jpg
 biography_enhanced_at: '2025-12-16T03:21:39.256240'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- WKCR Jazz Profiles – "Eddie Jefferson"
-- All About Jazz – Eddie Jefferson musician biography
-- Playbill – "Eddie Jefferson Remembered"
-- 'Ann Arbor Sun interview – "Eddie Jefferson: Where the Music Started" (Ann Arbor District Library)'
-- African American Registry – "Eddie Jefferson, Singer born"
-- RarePhillySax (SoulDennis blog) – "The Murder of Eddie Jefferson in 1979"
-- Wikipedia – "Eddie Jefferson"
+  - WKCR Jazz Profiles – "Eddie Jefferson"
+  - All About Jazz – Eddie Jefferson musician biography
+  - Playbill – "Eddie Jefferson Remembered"
+  - >-
+    Ann Arbor Sun interview – "Eddie Jefferson: Where the Music Started" (Ann
+    Arbor District Library)
+  - 'African American Registry – "Eddie Jefferson, Singer born"'
+  - RarePhillySax (SoulDennis blog) – "The Murder of Eddie Jefferson in 1979"
+  - Wikipedia – "Eddie Jefferson"
 network_extracted: true
 entry_created: '2025-12-16T03:21:39.256259'
 last_updated: '2025-12-23T08:16:08.171620'
+birth_date: '1918-08-03'
+artist_type: person
 ---
 
 ![](eddie_jefferson.jpg)

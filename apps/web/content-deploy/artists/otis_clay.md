@@ -2,52 +2,53 @@
 artist_type: person
 biography_enhanced_at: '2026-01-03T01:43:01.172001'
 birth_date: '1942-02-11'
-birth_place: Waxhaw
+birth_place: 'Waxhaw, Mississippi, United States'
 death_date: '2016-01-08'
 enhancement_provider: perplexity
 entry_created: '2026-01-03T01:43:01.172016'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/566c5190-cbec-41d0-822d-883f6ac61695
-  spotify: https://open.spotify.com/artist/2jV8AcZ8W3TfiqInUGWwlL
-  wikipedia: https://en.wikipedia.org/wiki/Otis_Clay
+  musicbrainz: 'https://musicbrainz.org/artist/566c5190-cbec-41d0-822d-883f6ac61695'
+  spotify: 'https://open.spotify.com/artist/2jV8AcZ8W3TfiqInUGWwlL'
+  wikipedia: 'https://en.wikipedia.org/wiki/Otis_Clay'
 gender: Male
 genres:
-- soul blues
+  - soul blues
 image_path: 03_Resources/source_material/ArtistPortraits/otis_clay.jpg
 last_updated: '2026-01-03T01:43:01.172018'
 musical_connections:
   collaborators:
-  - Johnny Rawls
-  - Tommy Brown
-  - Billy Price
+    - Johnny Rawls
+    - Tommy Brown
+    - Billy Price
   influenced:
-  - Bob Seger
+    - Bob Seger
   mentors:
-  - Harold Burrage
-  - Willie Mitchell
-  - Syl Johnson
+    - Harold Burrage
+    - Willie Mitchell
+    - Syl Johnson
 musicbrainz_id: 566c5190-cbec-41d0-822d-883f6ac61695
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://msbluestrail.org/blues-trail-markers/otis-clay
-- https://blues.org/blues_hof_inductee/otis-clay/
-- https://www.deltabluesmuseum.org/news-otis-clay-rip.aspx
-- https://en.wikipedia.org/wiki/Otis_Clay
-- https://www.bluesblastmagazine.com/featured-interview-otis-clay/
-- https://otisclay.net/biography/
-- https://www.bear-family.com/clay-otis/
+  - 'https://msbluestrail.org/blues-trail-markers/otis-clay'
+  - 'https://blues.org/blues_hof_inductee/otis-clay/'
+  - 'https://www.deltabluesmuseum.org/news-otis-clay-rip.aspx'
+  - 'https://en.wikipedia.org/wiki/Otis_Clay'
+  - 'https://www.bluesblastmagazine.com/featured-interview-otis-clay/'
+  - 'https://otisclay.net/biography/'
+  - 'https://www.bear-family.com/clay-otis/'
 spotify_data:
   followers: 27609
   id: 2jV8AcZ8W3TfiqInUGWwlL
   popularity: 33
-  url: https://open.spotify.com/artist/2jV8AcZ8W3TfiqInUGWwlL
+  url: 'https://open.spotify.com/artist/2jV8AcZ8W3TfiqInUGWwlL'
 status: active
 tags:
-- memphis soul
-- soul
+  - memphis soul
+  - soul
 title: Otis Clay
-
+is_active: false
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](otis_clay.jpg)

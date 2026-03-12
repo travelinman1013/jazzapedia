@@ -1,16 +1,16 @@
 ---
-title: EDDIE KIRKLAND
+title: Eddie Kirkland
 wiki_slug: eddie-kirkland
 schema_version: 2
 status: active
-birth_place: Tarrant, Texas, United States
+birth_place: 'Tarrant, Texas, United States'
 genres:
-- christian folk
+  - christian folk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/eddie_kirkland.jpg
   caption: EDDIE KIRKLAND
   background: solo_singer
-  origin: Tarrant, Texas, United States
+  origin: 'Tarrant, Texas, United States'
 audio_profile:
   tempo_avg: 124.6
   energy_avg: 0.562
@@ -26,42 +26,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - North Point Music
-  - Churches for the Sake of Others (C4SO)
+    - North Point Music
+    - Churches for the Sake of Others (C4SO)
   influenced: []
   mentors:
-  - Andy Stanley
-  - Graham Kendrick
+    - Andy Stanley
+    - Graham Kendrick
 spotify_data:
   followers: 640
   id: 4iP9gaD3Qg37BkJxlgpdMN
   popularity: 6
-  url: https://open.spotify.com/artist/4iP9gaD3Qg37BkJxlgpdMN
+  url: 'https://open.spotify.com/artist/4iP9gaD3Qg37BkJxlgpdMN'
 discography_enriched: true
 top_tracks:
-- 'Here And Now - Live (Live: Here + Now)'
-- Brighter Days (Kings & Queens)
-- Bless Your Name - Live (No One Higher (Live))
-- 'Beautiful Things - Live (Live: Here + Now)'
-- Here And Now - Live (Beginnings)
-- Everything Changed (Christmas)
-- God Is Alive - Live (Awake (Live))
-- Bless Your Name - Live (Awake (Live))
-- Forever Changed - Live (Awake (Live))
-- My Next Breath - Live (No One Higher (Live))
+  - 'Here And Now - Live (Live: Here + Now)'
+  - Brighter Days (Kings & Queens)
+  - Bless Your Name - Live (No One Higher (Live))
+  - 'Beautiful Things - Live (Live: Here + Now)'
+  - Here And Now - Live (Beginnings)
+  - Everything Changed (Christmas)
+  - God Is Alive - Live (Awake (Live))
+  - Bless Your Name - Live (Awake (Live))
+  - Forever Changed - Live (Awake (Live))
+  - My Next Breath - Live (No One Higher (Live))
 external_urls:
-  spotify: https://open.spotify.com/artist/4iP9gaD3Qg37BkJxlgpdMN
-  wikipedia: https://en.wikipedia.org/wiki/Eddie_Kirkland_(Christian_musician)
+  spotify: 'https://open.spotify.com/artist/4iP9gaD3Qg37BkJxlgpdMN'
+  wikipedia: 'https://en.wikipedia.org/wiki/Eddie_Kirkland_(Christian_musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/eddie_kirkland.jpg
 biography_enhanced_at: '2025-10-28T09:12:39.492763'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Eddie_Kirkland_(Christian_musician)
-- https://anglicanchurch.net/how-an-evangelical-church-planter-discovered-freedom-in-liturgy/
+  - 'https://en.wikipedia.org/wiki/Eddie_Kirkland_(Christian_musician)'
+  - >-
+    https://anglicanchurch.net/how-an-evangelical-church-planter-discovered-freedom-in-liturgy/
 network_extracted: true
 entry_created: '2025-10-28T09:12:39.492772'
 last_updated: '2025-12-23T08:16:08.185458'
+birth_date: '1981-12-16'
+artist_type: person
 ---
 
 ![](eddie_kirkland.jpg)

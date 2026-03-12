@@ -5,54 +5,54 @@ schema_version: 2
 status: deceased
 birth_name: Louis Daniel Armstrong
 also_known_as:
-- Satchmo
-- Satch
-- Pops
-- Dipper
-- El Trompetista Luis
+  - Satchmo
+  - Satch
+  - Pops
+  - Dipper
+  - El Trompetista Luis
 aliases:
-- Satchmo
-- Satch
-- Pops
-- Dipper
-- El Trompetista Luis
+  - Satchmo
+  - Satch
+  - Pops
+  - Dipper
+  - El Trompetista Luis
 birth_date: '1901-08-04'
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 death_date: '1971-07-06'
 years_active: 1918–1971
 genres:
-- jazz
-- swing music
-- big band
-- vocal jazz
-- jazz blues
+  - jazz
+  - swing music
+  - big band
+  - vocal jazz
+  - jazz blues
 instruments:
-- trumpet
-- cornet
-- voice
+  - trumpet
+  - cornet
+  - voice
 occupation:
-- actor
-- street artist
-- trumpeter
-- bandleader
-- conductor
+  - actor
+  - street artist
+  - trumpeter
+  - bandleader
+  - conductor
 record_labels:
-- ABC Records
-- Audio Fidelity
-- Columbia Records
-- Decca
+  - ABC Records
+  - Audio Fidelity
+  - Columbia Records
+  - Decca
 spouse:
-- Lucille Armstrong
-- Lil Hardin Armstrong
+  - Lucille Armstrong
+  - Lil Hardin Armstrong
 associated_acts:
-- Ella Fitzgerald & Louis Armstrong
+  - Ella Fitzgerald & Louis Armstrong
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Louis_Armstrong.jpg
   caption: Louis Armstrong
   background: solo_singer
   birth_name: Louis Daniel Armstrong
   born: '1901-08-04'
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
   died: '1971-07-06'
 audio_profile:
   tempo_avg: 112.5
@@ -69,57 +69,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lillian Hardin Armstrong
-  - Fletcher Henderson
-  - Earl Hines
-  - Luis Russell
+    - Lillian Hardin Armstrong
+    - Fletcher Henderson
+    - Earl Hines
+    - Luis Russell
   influenced:
-  - Billie Holiday
-  - Bing Crosby
-  - Coleman Hawkins
-  - Bud Freeman
+    - Billie Holiday
+    - Bing Crosby
+    - Coleman Hawkins
+    - Bud Freeman
   mentors:
-  - Joe 'King' Oliver
-  - Fate Marable
+    - Joe 'King' Oliver
+    - Fate Marable
 related_artists: []
 spotify_data:
   followers: 3207862
   id: 19eLuQmk9aCobbVDHc6eek
   popularity: 72
-  url: https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek
+  url: 'https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek'
   verified: false
 discography_enriched: true
 albums_count: 114
 singles_count: 0
 top_tracks:
-- What A Wonderful World (What A Wonderful World)
-- La vie en rose - Single Version (Satchmo Serenades)
-- Dream A Little Dream Of Me (What A Wonderful World)
-- Dream A Little Dream Of Me - Single Version (None)
-- A Kiss To Build A Dream On - Single Version (Satchmo Serenades)
-- Summertime (Porgy And Bess)
-- Cheek To Cheek (Ella and Louis)
-- Cheek To Cheek (None)
-- C'est si bon (Satchmo Serenades)
-- Hello, Dolly! (Hello, Dolly! (Remastered))
+  - What A Wonderful World (What A Wonderful World)
+  - La vie en rose - Single Version (Satchmo Serenades)
+  - Dream A Little Dream Of Me (What A Wonderful World)
+  - Dream A Little Dream Of Me - Single Version (None)
+  - A Kiss To Build A Dream On - Single Version (Satchmo Serenades)
+  - Summertime (Porgy And Bess)
+  - Cheek To Cheek (Ella and Louis)
+  - Cheek To Cheek (None)
+  - C'est si bon (Satchmo Serenades)
+  - 'Hello, Dolly! (Hello, Dolly! (Remastered))'
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek
-  wikipedia: https://en.wikipedia.org/wiki/Louis_Armstrong
+  spotify: 'https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek'
+  wikipedia: 'https://en.wikipedia.org/wiki/Louis_Armstrong'
 image_path: 03_Resources/source_material/ArtistPortraits/Louis_Armstrong.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:55:09.233525'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia
-- Britannica
-- KGU Music
-- National Archives
+  - Wikipedia
+  - Britannica
+  - KGU Music
+  - National Archives
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 10:36:24.630808
+entry_created: 2025-09-18T10:36:24.630Z
 last_updated: '2025-12-23T08:14:23.186381'
+is_active: false
+origin: 'Chicago, Illinois, United States'
+artist_type: person
 ---
 
 ![](Louis_Armstrong.jpg)

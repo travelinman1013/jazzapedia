@@ -1,16 +1,16 @@
 ---
-title: jesse winchester
+title: Jesse Winchester
 wiki_slug: jesse-winchester
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1944-05-17'
-birth_place: Bossier City
+birth_place: 'Bossier City, Louisiana, United States'
 death_date: '2014-04-11'
 genres:
-- americana
+  - americana
 instruments:
-- guitar
+  - guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jesse_winchester.jpg
   caption: jesse winchester
@@ -33,59 +33,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Robbie Robertson
-  - Albert Grossman
-  - Butch McDade
+    - Robbie Robertson
+    - Albert Grossman
+    - Butch McDade
   influenced:
-  - Jimmy Buffett
-  - Joan Baez
-  - Elvis Costello
-  - Emmylou Harris
+    - Jimmy Buffett
+    - Joan Baez
+    - Elvis Costello
+    - Emmylou Harris
   mentors:
-  - Robbie Robertson
+    - Robbie Robertson
 spotify_data:
   followers: 17573
   id: 0LQrsY8CFvCyUAqAtiiVxw
   popularity: 32
-  url: https://open.spotify.com/artist/0LQrsY8CFvCyUAqAtiiVxw
+  url: 'https://open.spotify.com/artist/0LQrsY8CFvCyUAqAtiiVxw'
 discography_enriched: true
 top_tracks:
-- Step by Step (Let The Rough Side Drag)
-- Mississippi You're On My Mind (Learn To Love It)
-- Sham-a-Ling-Dong-Ding (Love Filling Station)
-- Nothing But A Breeze (Nothing But A Breeze)
-- Stand By Me - (feat. Jerry Douglas) (Love Filling Station)
-- Step by Step
-- The Brand New Tennessee Waltz (Jesse Winchester)
-- Bless Your Foolish Heart (Love Filling Station)
-- Rhythm Of The Rain (A Reasonable Amount of Trouble)
-- All That We Have Is Now (A Reasonable Amount of Trouble)
+  - Step by Step (Let The Rough Side Drag)
+  - Mississippi You're On My Mind (Learn To Love It)
+  - Sham-a-Ling-Dong-Ding (Love Filling Station)
+  - Nothing But A Breeze (Nothing But A Breeze)
+  - Stand By Me - (feat. Jerry Douglas) (Love Filling Station)
+  - Step by Step
+  - The Brand New Tennessee Waltz (Jesse Winchester)
+  - Bless Your Foolish Heart (Love Filling Station)
+  - Rhythm Of The Rain (A Reasonable Amount of Trouble)
+  - All That We Have Is Now (A Reasonable Amount of Trouble)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/455911db-b472-4702-bf0d-ae4f87c922bd
-  spotify: https://open.spotify.com/artist/0LQrsY8CFvCyUAqAtiiVxw
-  wikipedia: https://en.wikipedia.org/wiki/Jesse_Winchester
+  musicbrainz: 'https://musicbrainz.org/artist/455911db-b472-4702-bf0d-ae4f87c922bd'
+  spotify: 'https://open.spotify.com/artist/0LQrsY8CFvCyUAqAtiiVxw'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jesse_Winchester'
 image_path: 03_Resources/source_material/ArtistPortraits/jesse_winchester.jpg
 biography_enhanced_at: '2025-11-14T11:03:30.185556'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Jesse+Winchester/+wiki
-- https://en.wikipedia.org/wiki/Jesse_Winchester
-- https://memphismusichalloffame.com/inductee/jessewinchester/
-- https://alancackett.com/jesse-winchester-1978
-- https://forgetthebox.ca/arts/remembering-jesse-winchester-honorary-montrealer
-- https://americansongwriter.com/how-jesse-winchester-established-his-elite-songwriter-status-with-the-first-lyrics-he-ever-wrote/
-- https://theimmortaljukebox.com/2017/04/13/jesse-winchester-remembered-the-songwriters-songwriter/
+  - 'https://www.last.fm/music/Jesse+Winchester/+wiki'
+  - 'https://en.wikipedia.org/wiki/Jesse_Winchester'
+  - 'https://memphismusichalloffame.com/inductee/jessewinchester/'
+  - 'https://alancackett.com/jesse-winchester-1978'
+  - >-
+    https://forgetthebox.ca/arts/remembering-jesse-winchester-honorary-montrealer
+  - >-
+    https://americansongwriter.com/how-jesse-winchester-established-his-elite-songwriter-status-with-the-first-lyrics-he-ever-wrote/
+  - >-
+    https://theimmortaljukebox.com/2017/04/13/jesse-winchester-remembered-the-songwriters-songwriter/
 network_extracted: true
 entry_created: '2025-11-14T11:03:30.185565'
 last_updated: '2025-12-23T08:16:10.385285'
-disambiguation: singer-songwriter, producer
+disambiguation: 'singer-songwriter, producer'
 gender: Male
 musicbrainz_id: 455911db-b472-4702-bf0d-ae4f87c922bd
 tags:
-- americana
-- country
-- country rock
+  - americana
+  - country
+  - country rock
+is_active: false
+origin: 'Memphis, Tennessee, United States'
 ---
 
 ![](jesse_winchester.jpg)

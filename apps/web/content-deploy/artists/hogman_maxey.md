@@ -1,42 +1,44 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-20T01:22:47.947340'
-birth_place: Louisiana, USA (Angola Prison region)
+birth_place: 'Louisiana, USA (Angola Prison region)'
 enhancement_provider: perplexity
 entry_created: '2026-01-20T01:22:47.947348'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/870a27ed-88b5-4e47-abec-8af23aa70322
-  spotify: https://open.spotify.com/artist/58HvlQDE1yZjEqfE8X1mhK
+  musicbrainz: 'https://musicbrainz.org/artist/870a27ed-88b5-4e47-abec-8af23aa70322'
+  spotify: 'https://open.spotify.com/artist/58HvlQDE1yZjEqfE8X1mhK'
   wikipedia: ''
 gender: Male
 genres:
-- traditional folk
-- country blues
+  - traditional folk
+  - country blues
 image_path: ''
 last_updated: '2026-01-20T01:22:47.947348'
 musical_connections:
   collaborators:
-  - Greenville Pepper Shakers
-  - Harry Oster
-  - Robert Pete Williams
-  - Guitar Welch
+    - Greenville Pepper Shakers
+    - Harry Oster
+    - Robert Pete Williams
+    - Guitar Welch
   influenced: []
   mentors: []
 musicbrainz_id: 870a27ed-88b5-4e47-abec-8af23aa70322
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://sundayblues.org/wp-content/uploads/2016/04/AngolaPrisonersBlues.pdf
-- https://sundayblues.org/?p=10945
-- https://folkways.si.edu/angola-prisoners-blues-cd/blues/music/album/smithsonian
-- https://folkways-media.si.edu/docs/folkways/artwork/ARH00419.pdf
+  - 'https://sundayblues.org/wp-content/uploads/2016/04/AngolaPrisonersBlues.pdf'
+  - 'https://sundayblues.org/?p=10945'
+  - >-
+    https://folkways.si.edu/angola-prisoners-blues-cd/blues/music/album/smithsonian
+  - 'https://folkways-media.si.edu/docs/folkways/artwork/ARH00419.pdf'
 spotify_data:
   followers: 63
   id: 58HvlQDE1yZjEqfE8X1mhK
   popularity: 2
-  url: https://open.spotify.com/artist/58HvlQDE1yZjEqfE8X1mhK
+  url: 'https://open.spotify.com/artist/58HvlQDE1yZjEqfE8X1mhK'
 status: active
-title: HOGMAN MAXEY
+title: Hogman Maxey
+origin: 'Louisiana, United States'
 ---
 
 ![]()

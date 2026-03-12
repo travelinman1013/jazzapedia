@@ -1,11 +1,12 @@
 ---
-title: JIMMY O'BRYANT'S WASHBOARD BAND
+title: Jimmy O'Bryant's Washboard Band
 wiki_slug: jimmy-obryants-washboard-band
 schema_version: 2
 status: active
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/jimmy_obryants_washboard_band.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/jimmy_obryants_washboard_band.jpg
   caption: JIMMY O'BRYANT'S WASHBOARD BAND
   background: solo_singer
 audio_profile:
@@ -23,48 +24,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lovie Austin
-  - Jimmy Blythe
+    - Lovie Austin
+    - Jimmy Blythe
   influenced:
-  - Later Chicago jazz clarinetists
+    - Later Chicago jazz clarinetists
   mentors:
-  - Johnny Dodds
+    - Johnny Dodds
 spotify_data:
   followers: 75
   id: 76ay1Yr53sdeWgFExLmDoY
   popularity: 2
-  url: https://open.spotify.com/artist/76ay1Yr53sdeWgFExLmDoY
+  url: 'https://open.spotify.com/artist/76ay1Yr53sdeWgFExLmDoY'
 discography_enriched: true
 top_tracks:
-- 'Clarinet Getaway (Jimmy O'' Bryant: Mystery Man of Jazz)'
-- Broadway Daddy Blues (The Roots of British Rock 'n Roll)
-- Clarinet Getaway (Jimmy O'Bryant Vol. 1 (1924-1925))
-- Chicago Skiffle (The Roots of British Rock 'n Roll)
-- Alabamy Bound (The Roots of British Rock 'n Roll)
-- 'Red Hot Mama (Jimmy O'' Bryant: Mystery Man of Jazz)'
-- 'Drunk Man''s Strut (Jimmy O'' Bryant: Mystery Man of Jazz)'
-- 'Washboard Blues (Jimmy O'' Bryant: Mystery Man of Jazz)'
-- 'Brand New Charleston (Jimmy O'' Bryant: Mystery Man of Jazz)'
-- 'Skoodlum Blues (Jimmy O'' Bryant: Mystery Man of Jazz)'
+  - 'Clarinet Getaway (Jimmy O'' Bryant: Mystery Man of Jazz)'
+  - Broadway Daddy Blues (The Roots of British Rock 'n Roll)
+  - Clarinet Getaway (Jimmy O'Bryant Vol. 1 (1924-1925))
+  - Chicago Skiffle (The Roots of British Rock 'n Roll)
+  - Alabamy Bound (The Roots of British Rock 'n Roll)
+  - 'Red Hot Mama (Jimmy O'' Bryant: Mystery Man of Jazz)'
+  - 'Drunk Man''s Strut (Jimmy O'' Bryant: Mystery Man of Jazz)'
+  - 'Washboard Blues (Jimmy O'' Bryant: Mystery Man of Jazz)'
+  - 'Brand New Charleston (Jimmy O'' Bryant: Mystery Man of Jazz)'
+  - 'Skoodlum Blues (Jimmy O'' Bryant: Mystery Man of Jazz)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/cfe7f9f2-4d84-4cd8-9cb8-c74f81baae91
-  spotify: https://open.spotify.com/artist/76ay1Yr53sdeWgFExLmDoY
-  wikipedia: https://www.wikiwand.com/en/articles/Jimmy_O'Bryant
+  musicbrainz: 'https://musicbrainz.org/artist/cfe7f9f2-4d84-4cd8-9cb8-c74f81baae91'
+  spotify: 'https://open.spotify.com/artist/76ay1Yr53sdeWgFExLmDoY'
+  wikipedia: 'https://www.wikiwand.com/en/articles/Jimmy_O''Bryant'
 image_path: 03_Resources/source_material/ArtistPortraits/jimmy_obryants_washboard_band.jpg
 biography_enhanced_at: '2025-11-14T10:59:44.019007'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.wikiwand.com/en/articles/Jimmy_O'Bryant
-- https://wbssmedia.com/artists/detail/939
-- https://oldtimeblues.net/2016/05/15/paramount-12287-obryants-washboard-band-1925/
-- https://www.allmusic.com/album/mystery-man-of-jazz-mw0000662384
-- https://www.youtube.com/watch?v=UeivU1n5PqU
+  - 'https://www.wikiwand.com/en/articles/Jimmy_O''Bryant'
+  - 'https://wbssmedia.com/artists/detail/939'
+  - >-
+    https://oldtimeblues.net/2016/05/15/paramount-12287-obryants-washboard-band-1925/
+  - 'https://www.allmusic.com/album/mystery-man-of-jazz-mw0000662384'
+  - 'https://www.youtube.com/watch?v=UeivU1n5PqU'
 network_extracted: true
 entry_created: '2025-11-14T10:59:44.019014'
 last_updated: '2025-12-23T08:16:10.473405'
 musicbrainz_id: cfe7f9f2-4d84-4cd8-9cb8-c74f81baae91
-origin: Arkansas or Louisville, Kentucky, United States (birthplace); Chicago, Illinois, United States (career and death)
+origin: >-
+  Arkansas or Louisville, Kentucky, United States (birthplace); Chicago,
+  Illinois, United States (career and death)
+birth_date: '1896-05-14'
+artist_type: person
 ---
 
 ![](jimmy_obryants_washboard_band.jpg)

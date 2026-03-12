@@ -5,35 +5,35 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1904-01-08'
-birth_place: Smithville
+birth_place: 'Smithville, Georgia, United States'
 death_date: '1981-03-19'
 genres: []
 instruments:
-- guitar
-- piano
-- lead vocals
-- spoken vocals
+  - guitar
+  - piano
+  - lead vocals
+  - spoken vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 84e300a3-ed82-4654-be4b-995760057548
-  name: Tampa Red’s Hokum Jug Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f5842919-aca7-4ee4-84c3-5cbe42feec39
-  name: Chicago Black Swans
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b37d3a91-9c6b-4bb7-8b4f-e3a20f2293e1
-  name: The Black Hill Billies
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 94aec596-c238-4a72-8e7f-d8cad5338a86
-  name: Chicago Five
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 84e300a3-ed82-4654-be4b-995760057548
+    name: Tampa Red’s Hokum Jug Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f5842919-aca7-4ee4-84c3-5cbe42feec39
+    name: Chicago Black Swans
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b37d3a91-9c6b-4bb7-8b4f-e3a20f2293e1
+    name: The Black Hill Billies
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 94aec596-c238-4a72-8e7f-d8cad5338a86
+    name: Chicago Five
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/tampa_red.jpg
   caption: Tampa Red
@@ -47,8 +47,8 @@ audio_profile:
   valence_avg: 0.582
   danceability_avg: 0.553
   acousticness_avg: 0.134
-  instrumentalness_avg: 0.0
-  loudness_avg: -6.0
+  instrumentalness_avg: 0
+  loudness_avg: -6
   speechiness_avg: 0.061
   liveness_avg: 0.136
   track_count: 9
@@ -56,69 +56,71 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Thomas A. Dorsey (Georgia Tom)
-  - Frankie Jaxon
-  - John Lee "Sonny Boy" Williamson
-  - Memphis Minnie
-  - Big Maceo Merriweather
-  - Big Bill Broonzy
-  - Chicago Five
+    - Thomas A. Dorsey (Georgia Tom)
+    - Frankie Jaxon
+    - John Lee "Sonny Boy" Williamson
+    - Memphis Minnie
+    - Big Maceo Merriweather
+    - Big Bill Broonzy
+    - Chicago Five
   influenced:
-  - Elmore James
-  - Muddy Waters
-  - Robert Nighthawk
-  - Big Bill Broonzy
-  - B.B. King
-  - Little Walter
-  - Fats Domino
-  - Albert King
-  - Mose Allison
+    - Elmore James
+    - Muddy Waters
+    - Robert Nighthawk
+    - Big Bill Broonzy
+    - B.B. King
+    - Little Walter
+    - Fats Domino
+    - Albert King
+    - Mose Allison
   mentors:
-  - Piccolo Pete
-  - Eddie Whittaker
-  - Lonnie Johnson
-  - Ma Rainey
+    - Piccolo Pete
+    - Eddie Whittaker
+    - Lonnie Johnson
+    - Ma Rainey
 spotify_data:
   followers: 27
   id: 3ZSu26LdsCSeiLZq9O7DVi
   popularity: 4
-  url: https://open.spotify.com/artist/3ZSu26LdsCSeiLZq9O7DVi
+  url: 'https://open.spotify.com/artist/3ZSu26LdsCSeiLZq9O7DVi'
 discography_enriched: true
 top_tracks:
-- Waiting On You (Waiting On You)
-- Low / High (Low / High)
-- Fade On (Fade On)
-- Don't You Know Why? (Tampa Sweats)
-- A Better Man (Tampa Sweats)
-- Waiting on You (Tampa Sweats)
-- Fade On (Tampa Sweats)
-- Low & High (Tampa Sweats)
-- The Line (Tampa Sweats)
+  - Waiting On You (Waiting On You)
+  - Low / High (Low / High)
+  - Fade On (Fade On)
+  - Don't You Know Why? (Tampa Sweats)
+  - A Better Man (Tampa Sweats)
+  - Waiting on You (Tampa Sweats)
+  - Fade On (Tampa Sweats)
+  - Low & High (Tampa Sweats)
+  - The Line (Tampa Sweats)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1b62df85-00d2-464f-81bc-a5c0cdcad278
-  spotify: https://open.spotify.com/artist/3ZSu26LdsCSeiLZq9O7DVi
-  wikipedia: https://en.wikipedia.org/wiki/Tampa_Red
+  musicbrainz: 'https://musicbrainz.org/artist/1b62df85-00d2-464f-81bc-a5c0cdcad278'
+  spotify: 'https://open.spotify.com/artist/3ZSu26LdsCSeiLZq9O7DVi'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tampa_Red'
 image_path: 03_Resources/source_material/ArtistPortraits/tampa_red.jpg
 biography_enhanced_at: '2025-12-23T02:01:36.657934'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- WBSS Media - Tampa Red
-- Wikipedia - Tampa Red
-- Blues Foundation - Tampa Red
-- Roadhouse Ramblings - Tampa Red
-- Discography of American Historical Recordings - Tampa Red
-- New Georgia Encyclopedia - Tampa Red Whittaker
-- All About Jazz - Tampa Red
+  - WBSS Media - Tampa Red
+  - Wikipedia - Tampa Red
+  - Blues Foundation - Tampa Red
+  - Roadhouse Ramblings - Tampa Red
+  - Discography of American Historical Recordings - Tampa Red
+  - New Georgia Encyclopedia - Tampa Red Whittaker
+  - All About Jazz - Tampa Red
 network_extracted: true
 entry_created: '2025-12-23T02:01:36.657946'
 last_updated: '2025-12-23T08:16:16.383182'
 gender: Male
 musicbrainz_id: 1b62df85-00d2-464f-81bc-a5c0cdcad278
 tags:
-- acoustic blues
-- acoustic chicago blues
-- blues
+  - acoustic blues
+  - acoustic chicago blues
+  - blues
+is_active: false
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](tampa_red.jpg)

@@ -3,14 +3,14 @@ title: Rich Willey
 wiki_slug: rich-willey
 schema_version: 2
 status: active
-birth_place: Florida, USA (birthplace); Candler, North Carolina, USA (current residence)
+birth_place: 'Florida, USA (birthplace); Candler, North Carolina, USA (current residence)'
 genres:
-- big band
+  - big band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Rich_Willey.jpg
   caption: Rich Willey
   background: solo_singer
-  origin: Florida, USA (birthplace); Candler, North Carolina, USA (current residence)
+  origin: 'Florida, USA (birthplace); Candler, North Carolina, USA (current residence)'
 audio_profile:
   tempo_avg: 118.2
   energy_avg: 0.476
@@ -26,47 +26,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Maynard Ferguson
-  - Buddy Morrow
-  - Mel Tormé
-  - Lionel Hampton
+    - Maynard Ferguson
+    - Buddy Morrow
+    - Mel Tormé
+    - Lionel Hampton
   influenced:
-  - Students at UNC-Asheville, Clemson University, Limestone College, Gardner-Webb University
+    - >-
+      Students at UNC-Asheville, Clemson University, Limestone College,
+      Gardner-Webb University
   mentors:
-  - Byron Stripling
-  - Mike Abene
+    - Byron Stripling
+    - Mike Abene
 spotify_data:
   followers: 48
   id: 4Ckh1wLdVm46OQiqVWt3w0
   popularity: 0
-  url: https://open.spotify.com/artist/4Ckh1wLdVm46OQiqVWt3w0
+  url: 'https://open.spotify.com/artist/4Ckh1wLdVm46OQiqVWt3w0'
 discography_enriched: true
 top_tracks:
-- Boogie Beast (Down & Dirty)
-- Down & Dirty (Down & Dirty)
-- Walter the Ferret (Down & Dirty)
-- Eyes All for You (Down & Dirty)
-- Dancing Hippo (Down & Dirty)
-- Ed Zachary Meets Gregory Peccary (Down & Dirty)
-- How 'Bout That? (Down & Dirty)
-- Old Folks (Down & Dirty)
-- Little Treasures (Down & Dirty)
-- Not so Fast! (Down & Dirty)
+  - Boogie Beast (Down & Dirty)
+  - Down & Dirty (Down & Dirty)
+  - Walter the Ferret (Down & Dirty)
+  - Eyes All for You (Down & Dirty)
+  - Dancing Hippo (Down & Dirty)
+  - Ed Zachary Meets Gregory Peccary (Down & Dirty)
+  - How 'Bout That? (Down & Dirty)
+  - Old Folks (Down & Dirty)
+  - Little Treasures (Down & Dirty)
+  - Not so Fast! (Down & Dirty)
 external_urls:
-  spotify: https://open.spotify.com/artist/4Ckh1wLdVm46OQiqVWt3w0
+  spotify: 'https://open.spotify.com/artist/4Ckh1wLdVm46OQiqVWt3w0'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/Rich_Willey.jpg
 biography_enhanced_at: '2025-10-19T11:09:39.866285'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://boptism.com/epk/rich-willey-bio/
-- https://www.allaboutjazz.com/musicians/rich-willey/
-- https://boptism.com/freelance-jazz-musician/jazz-trumpeter-composer-arranger/
-- https://jazzsensibilities.com/jazz/rich-willeys-boptism-big-band-down-dirty/
+  - 'https://boptism.com/epk/rich-willey-bio/'
+  - 'https://www.allaboutjazz.com/musicians/rich-willey/'
+  - >-
+    https://boptism.com/freelance-jazz-musician/jazz-trumpeter-composer-arranger/
+  - 'https://jazzsensibilities.com/jazz/rich-willeys-boptism-big-band-down-dirty/'
 network_extracted: true
 entry_created: '2025-10-19T11:09:39.866294'
 last_updated: '2025-12-23T08:16:03.680203'
+artist_type: person
 ---
 
 ![](Rich_Willey.jpg)

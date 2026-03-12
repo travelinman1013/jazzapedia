@@ -1,19 +1,19 @@
 ---
-title: SHORTY ROGERS
+title: Shorty Rogers
 wiki_slug: shorty-rogers
 schema_version: 2
 status: active
-birth_place: Great Barrington, Massachusetts, United States
+birth_place: 'Great Barrington, Massachusetts, United States'
 genres:
-- cool jazz
-- exotica
-- big band
-- jazz
+  - cool jazz
+  - exotica
+  - big band
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/shorty_rogers.jpg
   caption: SHORTY ROGERS
   background: solo_singer
-  origin: Great Barrington, Massachusetts, United States
+  origin: 'Great Barrington, Massachusetts, United States'
 audio_profile:
   tempo_avg: 119.3
   energy_avg: 0.349
@@ -29,57 +29,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Art Pepper
-  - Shelley Manne
-  - Jimmy Giuffre
-  - Hampton Hawes
-  - Stan Kenton
-  - Bud Shank
-  - Andre Previn
-  - Perez Prado
-  - Mel Torme
+    - Art Pepper
+    - Shelley Manne
+    - Jimmy Giuffre
+    - Hampton Hawes
+    - Stan Kenton
+    - Bud Shank
+    - Andre Previn
+    - Perez Prado
+    - Mel Torme
   influenced:
-  - The Monkees
+    - The Monkees
   mentors:
-  - Will Bradley
-  - Red Norvo
-  - Woody Herman
+    - Will Bradley
+    - Red Norvo
+    - Woody Herman
 spotify_data:
   followers: 3778
   id: 7hxJ7osu5ELi0SVSvgUjQN
   popularity: 17
-  url: https://open.spotify.com/artist/7hxJ7osu5ELi0SVSvgUjQN
+  url: 'https://open.spotify.com/artist/7hxJ7osu5ELi0SVSvgUjQN'
 discography_enriched: true
 top_tracks:
-- Moon Over Cuba (Afro-Cuban Influence)
-- Swingin' The Blues (Shorty Rodgers Courts The Count)
-- Jasmine (Noctambulism)
-- A Mile Down The Highway (There's A Toll Bridge) (Day Dreams)
-- Samba De Uma Nota So - One Note Samba (Bossa Nova)
-- Martians Go Home (The Swinging Mr. Rogers)
-- Four Mothers
-- The Three Little Bops
-- The Wonder of You (with Shorty Rogers)
-- I Don't Mean a Thing (If It Ain't Got That Swing) (Mavis Rivers. The Complete Reprise Years 1961-1962. "Mavis," "Swing Along with Mavis" And "Mavis Meets Shorty" Plus Four Bonus Tracks from Singles)
+  - Moon Over Cuba (Afro-Cuban Influence)
+  - Swingin' The Blues (Shorty Rodgers Courts The Count)
+  - Jasmine (Noctambulism)
+  - A Mile Down The Highway (There's A Toll Bridge) (Day Dreams)
+  - Samba De Uma Nota So - One Note Samba (Bossa Nova)
+  - Martians Go Home (The Swinging Mr. Rogers)
+  - Four Mothers
+  - The Three Little Bops
+  - The Wonder of You (with Shorty Rogers)
+  - >-
+    I Don't Mean a Thing (If It Ain't Got That Swing) (Mavis Rivers. The
+    Complete Reprise Years 1961-1962. "Mavis," "Swing Along with Mavis" And
+    "Mavis Meets Shorty" Plus Four Bonus Tracks from Singles)
 external_urls:
-  spotify: https://open.spotify.com/artist/7hxJ7osu5ELi0SVSvgUjQN
-  wikipedia: https://en.wikipedia.org/wiki/Shorty_Rogers
+  spotify: 'https://open.spotify.com/artist/7hxJ7osu5ELi0SVSvgUjQN'
+  wikipedia: 'https://en.wikipedia.org/wiki/Shorty_Rogers'
 image_path: 03_Resources/source_material/ArtistPortraits/shorty_rogers.jpg
 biography_enhanced_at: '2025-12-22T01:45:56.248643'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://fromthevaults-boppinbob.blogspot.com/2020/04/shorty-rogers-born-14-april-1924.html
-- https://en.wikipedia.org/wiki/Shorty_Rogers
-- https://www.allaboutjazz.com/musicians/shorty-rogers/
-- https://www.allaboutjazz.com/shorty-rogers-and-his-giants
-- https://attictoys.com/the-birth-of-the-cool-legacy-part-2-shorty-rogers/
-- https://www.latimes.com/archives/la-xpm-1994-11-09-mn-60566-story.html
-- https://www.ejazzlines.com/big-band-arrangements/by-performer/shorty-rogers-jazz-big-band-small-group-charts/
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2020/04/shorty-rogers-born-14-april-1924.html
+  - 'https://en.wikipedia.org/wiki/Shorty_Rogers'
+  - 'https://www.allaboutjazz.com/musicians/shorty-rogers/'
+  - 'https://www.allaboutjazz.com/shorty-rogers-and-his-giants'
+  - 'https://attictoys.com/the-birth-of-the-cool-legacy-part-2-shorty-rogers/'
+  - 'https://www.latimes.com/archives/la-xpm-1994-11-09-mn-60566-story.html'
+  - >-
+    https://www.ejazzlines.com/big-band-arrangements/by-performer/shorty-rogers-jazz-big-band-small-group-charts/
 network_extracted: true
 entry_created: '2025-12-22T01:45:56.248647'
 last_updated: '2025-12-23T08:16:15.594490'
-
+birth_date: '1924-04-14'
+death_date: '1994-11-07'
+artist_type: person
 ---
 
 ![](shorty_rogers.jpg)

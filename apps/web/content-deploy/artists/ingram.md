@@ -1,42 +1,44 @@
 ---
 biography_enhanced_at: '2026-01-11T02:24:36.059038'
-birth_place: Akron, Ohio, United States
+birth_place: 'Akron, Ohio, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-11T02:24:36.059047'
 external_urls:
-  spotify: https://open.spotify.com/artist/5R56gqNAAqQSlO3IfI60Yv
-  wikipedia: https://en.wikipedia.org/wiki/James_Ingram
+  spotify: 'https://open.spotify.com/artist/5R56gqNAAqQSlO3IfI60Yv'
+  wikipedia: 'https://en.wikipedia.org/wiki/James_Ingram'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/ingram.jpg
 last_updated: '2026-01-11T02:24:36.059048'
 musical_connections:
   collaborators:
-  - Quincy Jones
-  - Michael McDonald
-  - Michael Jackson
-  - Linda Ronstadt
-  - Thom Bell
-  - Patti Austin
+    - Quincy Jones
+    - Michael McDonald
+    - Michael Jackson
+    - Linda Ronstadt
+    - Thom Bell
+    - Patti Austin
   influenced:
-  - Adult contemporary and R&B balladeers of the 1980s–1990s (category)
+    - Adult contemporary and R&B balladeers of the 1980s–1990s (category)
   mentors:
-  - Jimmy Smith
-  - Ray Charles
-  - Quincy Jones
+    - Jimmy Smith
+    - Ray Charles
+    - Quincy Jones
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.thehistorymakers.org/biography/james-ingram-41
-- https://www.britannica.com/biography/James-Ingram
-- https://www.imdb.com/name/nm0408986/bio/
-- https://en.wikipedia.org/wiki/James_Ingram
+  - 'https://www.thehistorymakers.org/biography/james-ingram-41'
+  - 'https://www.britannica.com/biography/James-Ingram'
+  - 'https://www.imdb.com/name/nm0408986/bio/'
+  - 'https://en.wikipedia.org/wiki/James_Ingram'
 spotify_data:
   followers: 9346
   id: 5R56gqNAAqQSlO3IfI60Yv
   popularity: 20
-  url: https://open.spotify.com/artist/5R56gqNAAqQSlO3IfI60Yv
+  url: 'https://open.spotify.com/artist/5R56gqNAAqQSlO3IfI60Yv'
 status: active
 title: Ingram
+birth_date: '1952-02-16'
+artist_type: person
 ---
 
 ![](ingram.jpg)

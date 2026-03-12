@@ -5,11 +5,11 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1962-06-19'
-birth_place: San Fernando
+birth_place: 'San Fernando, California, United States'
 genres: []
 instruments:
-- lead vocals
-- background vocals
+  - lead vocals
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/paula_abdul.jpg
   caption: Paula Abdul
@@ -31,45 +31,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Randy Jackson
-  - Simon Cowell
-  - New Kids on the Block
+    - Randy Jackson
+    - Simon Cowell
+    - New Kids on the Block
   influenced:
-  - Britney Spears
-  - Christina Aguilera
+    - Britney Spears
+    - Christina Aguilera
   mentors:
-  - Gene Kelly
+    - Gene Kelly
 spotify_data:
   followers: 1181514
   id: 4PpmBoqphQusNFsxuVKb6j
   popularity: 53
-  url: https://open.spotify.com/artist/4PpmBoqphQusNFsxuVKb6j
+  url: 'https://open.spotify.com/artist/4PpmBoqphQusNFsxuVKb6j'
 discography_enriched: true
 top_tracks:
-- Straight Up (Forever Your Girl)
-- Rush Rush (Spellbound)
-- Cold Hearted (Forever Your Girl)
-- Opposites Attract (Forever Your Girl)
-- Forever Your Girl (Forever Your Girl)
-- Vibeology (Spellbound)
-- Straight Up
-- Cold Hearted - 7" Edit
-- The Way That You Love Me (Forever Your Girl)
-- Rush Rush - Single Version
+  - Straight Up (Forever Your Girl)
+  - Rush Rush (Spellbound)
+  - Cold Hearted (Forever Your Girl)
+  - Opposites Attract (Forever Your Girl)
+  - Forever Your Girl (Forever Your Girl)
+  - Vibeology (Spellbound)
+  - Straight Up
+  - Cold Hearted - 7" Edit
+  - The Way That You Love Me (Forever Your Girl)
+  - Rush Rush - Single Version
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/275d1fca-22e8-46b9-85e6-c3523098a599
-  spotify: https://open.spotify.com/artist/4PpmBoqphQusNFsxuVKb6j
-  wikipedia: https://en.wikipedia.org/wiki/Paula_Abdul
+  musicbrainz: 'https://musicbrainz.org/artist/275d1fca-22e8-46b9-85e6-c3523098a599'
+  spotify: 'https://open.spotify.com/artist/4PpmBoqphQusNFsxuVKb6j'
+  wikipedia: 'https://en.wikipedia.org/wiki/Paula_Abdul'
 image_path: 03_Resources/source_material/ArtistPortraits/paula_abdul.jpg
 biography_enhanced_at: '2025-11-26T07:38:01.481622'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Paula_Abdul
-- https://www.imdb.com/name/nm0000716/bio/
-- https://www.britannica.com/biography/Paula-Abdul
-- https://www.last.fm/music/Paula+Abdul/+wiki
-- https://walkoffame.com/paula-abdul/
+  - 'https://en.wikipedia.org/wiki/Paula_Abdul'
+  - 'https://www.imdb.com/name/nm0000716/bio/'
+  - 'https://www.britannica.com/biography/Paula-Abdul'
+  - 'https://www.last.fm/music/Paula+Abdul/+wiki'
+  - 'https://walkoffame.com/paula-abdul/'
 network_extracted: true
 entry_created: '2025-11-26T07:38:01.481629'
 last_updated: '2025-12-23T08:16:14.130461'
@@ -77,9 +77,10 @@ disambiguation: American singer
 gender: Female
 musicbrainz_id: 275d1fca-22e8-46b9-85e6-c3523098a599
 tags:
-- dance-pop
-- new jack swing
-- pop
+  - dance-pop
+  - new jack swing
+  - pop
+origin: 'Los Angeles, California, United States'
 ---
 
 ![](paula_abdul.jpg)

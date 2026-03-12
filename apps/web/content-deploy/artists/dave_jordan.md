@@ -3,14 +3,14 @@ title: Dave Jordan
 wiki_slug: dave-jordan
 schema_version: 2
 status: active
-birth_place: Mandeville, Louisiana, United States
+birth_place: 'Mandeville, Louisiana, United States'
 genres:
-- roots rock
+  - roots rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/dave_jordan.jpg
   caption: Dave Jordan
   background: solo_singer
-  origin: Mandeville, Louisiana, United States
+  origin: 'Mandeville, Louisiana, United States'
 audio_profile:
   tempo_avg: 111.8
   energy_avg: 0.577
@@ -26,49 +26,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Anders Osborne
-  - George Porter Jr.
-  - Chad Cromwell
-  - Rurik Nunan
-  - Juice (band)
-  - Art Neville, Galactic, George Porter, Iris May Tango, All That
+    - Anders Osborne
+    - George Porter Jr.
+    - Chad Cromwell
+    - Rurik Nunan
+    - Juice (band)
+    - 'Art Neville, Galactic, George Porter, Iris May Tango, All That'
   influenced:
-  - Contemporary New Orleans roots musicians
+    - Contemporary New Orleans roots musicians
   mentors:
-  - Tom Petty, John Prine, Dr. John
+    - 'Tom Petty, John Prine, Dr. John'
 spotify_data:
   followers: 708
   id: 02J2RYaUO9TSo85a1v0DYb
   popularity: 2
-  url: https://open.spotify.com/artist/02J2RYaUO9TSo85a1v0DYb
+  url: 'https://open.spotify.com/artist/02J2RYaUO9TSo85a1v0DYb'
 discography_enriched: true
 top_tracks:
-- So Far Away (Keep Going)
-- Pontchartrain (No Losers Tonight)
-- Long Way (Bridges)
-- Santa Ana Winds (Bridges)
-- Shooting Star (Bridges)
-- Lying to Myself (Burning Sage)
-- Shattered Glass (Bridges)
-- Time Alone (Bridges)
-- Telluride (Bridges)
-- Tonight I'll Be Staying Here With You (Bridges)
+  - So Far Away (Keep Going)
+  - Pontchartrain (No Losers Tonight)
+  - Long Way (Bridges)
+  - Santa Ana Winds (Bridges)
+  - Shooting Star (Bridges)
+  - Lying to Myself (Burning Sage)
+  - Shattered Glass (Bridges)
+  - Time Alone (Bridges)
+  - Telluride (Bridges)
+  - Tonight I'll Be Staying Here With You (Bridges)
 external_urls:
-  spotify: https://open.spotify.com/artist/02J2RYaUO9TSo85a1v0DYb
+  spotify: 'https://open.spotify.com/artist/02J2RYaUO9TSo85a1v0DYb'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/dave_jordan.jpg
 biography_enhanced_at: '2025-11-06T13:24:27.335197'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://thefunkyuncle.live/artist/dave-jordan-performing/
-- https://blues.gr/profiles/blogs/q-a-with-talented-roots-musician-dave-jordan-a-staple-of-the-new-
-- https://www.davejordanmusic.net
-- https://indiepulsemusic.com/2022/12/30/new-orleans-roots-musician-dave-jordan-releases-new-album-keep-going-to-great-early-reviews/
-- https://www.churchofneworleans.com/church-of-new-orleans-blog/2020/7/7/happy-birthday-dave-jordan-21-syb3e-fe6h8
+  - 'https://thefunkyuncle.live/artist/dave-jordan-performing/'
+  - >-
+    https://blues.gr/profiles/blogs/q-a-with-talented-roots-musician-dave-jordan-a-staple-of-the-new-
+  - 'https://www.davejordanmusic.net'
+  - >-
+    https://indiepulsemusic.com/2022/12/30/new-orleans-roots-musician-dave-jordan-releases-new-album-keep-going-to-great-early-reviews/
+  - >-
+    https://www.churchofneworleans.com/church-of-new-orleans-blog/2020/7/7/happy-birthday-dave-jordan-21-syb3e-fe6h8
 network_extracted: true
 entry_created: '2025-11-06T13:24:27.335219'
 last_updated: '2025-12-23T08:16:07.509029'
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1972-01-29'
+artist_type: person
 ---
 
 ![](dave_jordan.jpg)

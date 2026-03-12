@@ -3,15 +3,15 @@ title: Rosinha De Valenca
 wiki_slug: rosinha-de-valenca
 schema_version: 2
 status: active
-birth_place: Valença, Rio de Janeiro, Brazil
+birth_place: 'Valença, Rio de Janeiro, Brazil'
 genres:
-- brazilian jazz
-- bossa nova
+  - brazilian jazz
+  - bossa nova
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/rosinha_de_valenca.jpg
   caption: Rosinha De Valenca
   background: solo_singer
-  origin: Valença, Rio de Janeiro, Brazil
+  origin: 'Valença, Rio de Janeiro, Brazil'
 audio_profile:
   tempo_avg: 113.3
   energy_avg: 0.531
@@ -27,50 +27,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sérgio Mendes
-  - Stan Getz
-  - Henry Mancini
-  - Sarah Vaughan
-  - Sivuca
-  - Waltel Branco
-  - Martinho da Vila
+    - Sérgio Mendes
+    - Stan Getz
+    - Henry Mancini
+    - Sarah Vaughan
+    - Sivuca
+    - Waltel Branco
+    - Martinho da Vila
   influenced:
-  - Contemporary Brazilian guitarists (unnamed)
+    - Contemporary Brazilian guitarists (unnamed)
   mentors:
-  - Her brother (unnamed)
+    - Her brother (unnamed)
 spotify_data:
   followers: 51533
   id: 3PaJldxyhusOBLFXRkI36B
   popularity: 34
-  url: https://open.spotify.com/artist/3PaJldxyhusOBLFXRkI36B
+  url: 'https://open.spotify.com/artist/3PaJldxyhusOBLFXRkI36B'
 discography_enriched: true
 top_tracks:
-- Summertime (Um Violão em Primeiro Plano)
-- Asa Branca (Um Violão em Primeiro Plano)
-- O Samba da Minha Terra (Um Violão em Primeiro Plano)
-- Euridice (Rosinha de Valença & Flavio Faria (feat. Toots Thielemans))
-- Comme d'habitude (Saveur Brésil (feat. Rosinha de Valença) [Brazilian Flavour])
-- Concierto de Aranjuez (Um Violão em Primeiro Plano)
-- De Conversa em Conversa (Um Violão em Primeiro Plano)
-- One O'Clock Last Morning, 20th April 1970 (Um Violão em Primeiro Plano)
-- London, London (Um Violão em Primeiro Plano)
-- Mudei de Idéia (Um Violão em Primeiro Plano)
+  - Summertime (Um Violão em Primeiro Plano)
+  - Asa Branca (Um Violão em Primeiro Plano)
+  - O Samba da Minha Terra (Um Violão em Primeiro Plano)
+  - Euridice (Rosinha de Valença & Flavio Faria (feat. Toots Thielemans))
+  - >-
+    Comme d'habitude (Saveur Brésil (feat. Rosinha de Valença) [Brazilian
+    Flavour])
+  - Concierto de Aranjuez (Um Violão em Primeiro Plano)
+  - De Conversa em Conversa (Um Violão em Primeiro Plano)
+  - 'One O''Clock Last Morning, 20th April 1970 (Um Violão em Primeiro Plano)'
+  - 'London, London (Um Violão em Primeiro Plano)'
+  - Mudei de Idéia (Um Violão em Primeiro Plano)
 external_urls:
-  spotify: https://open.spotify.com/artist/3PaJldxyhusOBLFXRkI36B
-  wikipedia: https://en.wikipedia.org/wiki/Rosinha_de_Valen%C3%A7a
+  spotify: 'https://open.spotify.com/artist/3PaJldxyhusOBLFXRkI36B'
+  wikipedia: 'https://en.wikipedia.org/wiki/Rosinha_de_Valen%C3%A7a'
 image_path: 03_Resources/source_material/ArtistPortraits/rosinha_de_valenca.jpg
 biography_enhanced_at: '2025-11-12T14:49:34.586122'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://faroutmagazine.co.uk/rosinha-de-valenca-brazil-bossa-nova-guitar/
-- https://www.slipcue.com/music/brazil/devalenca_rosinha_01.html
-- https://www.rnz.co.nz/national/programmes/thesampler/audio/2018902245/the-sampler-a-guitar-in-the-foreground-by-rosinha-de-valenca
-- https://www.jango.com/music/Rosinha+de+Valenca
-- https://sheshreds.com/rosinha-de-valenca/
+  - 'https://faroutmagazine.co.uk/rosinha-de-valenca-brazil-bossa-nova-guitar/'
+  - 'https://www.slipcue.com/music/brazil/devalenca_rosinha_01.html'
+  - >-
+    https://www.rnz.co.nz/national/programmes/thesampler/audio/2018902245/the-sampler-a-guitar-in-the-foreground-by-rosinha-de-valenca
+  - 'https://www.jango.com/music/Rosinha+de+Valenca'
+  - 'https://sheshreds.com/rosinha-de-valenca/'
 network_extracted: true
 entry_created: '2025-11-12T14:49:34.586133'
 last_updated: '2025-12-23T08:16:15.087284'
+birth_date: '1941'
+artist_type: person
 ---
 
 ![](rosinha_de_valenca.jpg)

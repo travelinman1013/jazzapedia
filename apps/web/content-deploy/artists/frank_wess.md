@@ -1,43 +1,46 @@
 ---
 biography_enhanced_at: '2025-12-29T01:08:08.339170'
-birth_place: Kansas City, Missouri, United States
+birth_place: 'Kansas City, Missouri, United States'
 enhancement_provider: perplexity
 entry_created: '2025-12-29T01:08:08.339175'
 external_urls:
-  spotify: https://open.spotify.com/artist/1yy6FH5FQX3RQqxnjMPRBn
-  wikipedia: https://en.wikipedia.org/wiki/Frank_Wess
+  spotify: 'https://open.spotify.com/artist/1yy6FH5FQX3RQqxnjMPRBn'
+  wikipedia: 'https://en.wikipedia.org/wiki/Frank_Wess'
 genres:
-- hard bop
-- jazz
-- bebop
+  - hard bop
+  - jazz
+  - bebop
 image_path: 03_Resources/source_material/ArtistPortraits/frank_wess.jpg
 last_updated: '2025-12-29T01:08:08.339176'
 musical_connections:
   collaborators:
-  - Count Basie
-  - Billy Eckstine
-  - Frank Foster
-  - Clark Terry
+    - Count Basie
+    - Billy Eckstine
+    - Frank Foster
+    - Clark Terry
   influenced:
-  - Aspiring jazz musicians
+    - Aspiring jazz musicians
   mentors:
-  - Wallace Mann
-  - Lester Young
-  - Johnny Hodges, Ben Webster, Benny Carter
+    - Wallace Mann
+    - Lester Young
+    - 'Johnny Hodges, Ben Webster, Benny Carter'
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Frank_Wess
-- https://jazzprofiles.blogspot.com/2020/06/remembering-frank-wess-1922-2013.html
-- https://attictoys.com/frank-wess/
-- https://www.allaboutjazz.com/musicians/frank-wess/
+  - 'https://en.wikipedia.org/wiki/Frank_Wess'
+  - >-
+    https://jazzprofiles.blogspot.com/2020/06/remembering-frank-wess-1922-2013.html
+  - 'https://attictoys.com/frank-wess/'
+  - 'https://www.allaboutjazz.com/musicians/frank-wess/'
 spotify_data:
   followers: 4943
   id: 1yy6FH5FQX3RQqxnjMPRBn
   popularity: 24
-  url: https://open.spotify.com/artist/1yy6FH5FQX3RQqxnjMPRBn
+  url: 'https://open.spotify.com/artist/1yy6FH5FQX3RQqxnjMPRBn'
 status: active
 title: Frank Wess
+birth_date: '1922-01-04'
+artist_type: person
 ---
 
 ![](frank_wess.jpg)

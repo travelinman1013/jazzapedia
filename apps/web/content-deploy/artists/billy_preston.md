@@ -5,40 +5,40 @@ schema_version: 2
 status: deceased
 birth_name: William Everett Preston
 also_known_as:
-- The Fifth Beatle
+  - The Fifth Beatle
 aliases:
-- The Fifth Beatle
+  - The Fifth Beatle
 birth_date: '1946-09-02'
-birth_place: Houston, Texas, United States
+birth_place: 'Houston, Texas, United States'
 death_date: '2006-06-06'
 years_active: 1956–2005
 genres:
-- motown
+  - motown
 instruments:
-- piano
-- electric piano
-- Hammond organ
-- synthesizer
-- voice
+  - piano
+  - electric piano
+  - Hammond organ
+  - synthesizer
+  - voice
 occupation:
-- singer
-- singer-songwriter
-- composer
-- pianist
-- actor
+  - singer
+  - singer-songwriter
+  - composer
+  - pianist
+  - actor
 record_labels:
-- Embassy
-- A&M Records
-- Apple Records
-- Manticore Records
-- Derby Records
+  - Embassy
+  - A&M Records
+  - Apple Records
+  - Manticore Records
+  - Derby Records
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Billy_Preston.jpg
   caption: Billy Preston
   background: solo_singer
   birth_name: William Everett Preston
   born: '1946-09-02'
-  origin: Houston, Texas, United States
+  origin: 'Houston, Texas, United States'
   died: '2006-06-06'
 audio_profile:
   tempo_avg: 109.7
@@ -55,58 +55,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Beatles
-  - George Harrison
-  - The Rolling Stones
-  - Syreeta Wright
-  - Eric Clapton
-  - Ringo Starr
-  - Joe Cocker
+    - The Beatles
+    - George Harrison
+    - The Rolling Stones
+    - Syreeta Wright
+    - Eric Clapton
+    - Ringo Starr
+    - Joe Cocker
   influenced:
-  - Stevie Wonder
-  - Bruno Mars
+    - Stevie Wonder
+    - Bruno Mars
   mentors:
-  - Mahalia Jackson
-  - Ray Charles
+    - Mahalia Jackson
+    - Ray Charles
 related_artists: []
 spotify_data:
   followers: 159770
   id: 0IecGJbdBeYSOVtSPRehh5
   popularity: 53
-  url: https://open.spotify.com/artist/0IecGJbdBeYSOVtSPRehh5
+  url: 'https://open.spotify.com/artist/0IecGJbdBeYSOVtSPRehh5'
   verified: false
 discography_enriched: true
 albums_count: 29
 singles_count: 9
 top_tracks:
-- Nothing From Nothing (The Kids & Me)
-- Get Back - Remastered 2015
-- Will It Go Round In Circles (Music Is My Life)
-- My Sweet Lord - Live
-- Outa-Space (I Wrote A Simple Song)
-- Get Back - 2015 Mix (The Beatles 1967 – 1970 (2023 Edition))
-- With You I'm Born Again (Music From The Motion Picture "Fast Break")
-- Will It Go Round In Circles
-- Nothing From Nothing
-- With You I'm Born Again
+  - Nothing From Nothing (The Kids & Me)
+  - Get Back - Remastered 2015
+  - Will It Go Round In Circles (Music Is My Life)
+  - My Sweet Lord - Live
+  - Outa-Space (I Wrote A Simple Song)
+  - Get Back - 2015 Mix (The Beatles 1967 – 1970 (2023 Edition))
+  - With You I'm Born Again (Music From The Motion Picture "Fast Break")
+  - Will It Go Round In Circles
+  - Nothing From Nothing
+  - With You I'm Born Again
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/0IecGJbdBeYSOVtSPRehh5
-  wikipedia: https://en.wikipedia.org/wiki/Billy_Preston
+  spotify: 'https://open.spotify.com/artist/0IecGJbdBeYSOVtSPRehh5'
+  wikipedia: 'https://en.wikipedia.org/wiki/Billy_Preston'
 image_path: 03_Resources/source_material/ArtistPortraits/Billy_Preston.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:14:52.547452'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.creativeanddreams.com/legends/billy-preston/
-- https://en.wikipedia.org/wiki/Billy_Preston
-- https://www.udiscovermusic.com/artist/billy-preston/
-- https://www.britannica.com/biography/Billy-Preston
+  - 'https://www.creativeanddreams.com/legends/billy-preston/'
+  - 'https://en.wikipedia.org/wiki/Billy_Preston'
+  - 'https://www.udiscovermusic.com/artist/billy-preston/'
+  - 'https://www.britannica.com/biography/Billy-Preston'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:46:39.025134
+entry_created: 2025-09-22T21:46:39.025Z
 last_updated: '2025-12-23T08:16:05.615172'
+is_active: false
+artist_type: person
 ---
 
 ![](Billy_Preston.jpg)

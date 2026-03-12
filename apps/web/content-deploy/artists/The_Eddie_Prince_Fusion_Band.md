@@ -2,12 +2,13 @@
 title: The Eddie Prince Fusion Band
 wiki_slug: the-eddie-prince-fusion-band
 schema_version: 2
-artist_type: Group
+artist_type: person
 status: active
 genres:
-- nu jazz
+  - nu jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/The_Eddie_Prince_Fusion_Band.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/The_Eddie_Prince_Fusion_Band.jpg
   caption: The Eddie Prince Fusion Band
   background: solo_singer
 audio_profile:
@@ -25,39 +26,41 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Madlib
+    - Madlib
   influenced:
-  - Yesterdays Universe All Stars
+    - Yesterdays Universe All Stars
   mentors:
-  - James Mtume
+    - James Mtume
 spotify_data:
   followers: 166
   id: 0qYYDVyEQly784GgZJM93A
   popularity: 0
-  url: https://open.spotify.com/artist/0qYYDVyEQly784GgZJM93A
+  url: 'https://open.spotify.com/artist/0qYYDVyEQly784GgZJM93A'
 discography_enriched: true
 top_tracks:
-- 'Mtume''s Song (Yesterdays Universe: Prepare For A New Yesterday (Volume 1))'
-- 'Mtume''s Song (Yesterdays Universe: Prepare For A New Yesterday (Volume 1))'
-- 'Mtume''s Song (Yesterdays Universe: Prepare For A New Yesterday (Volume 1))'
+  - 'Mtume''s Song (Yesterdays Universe: Prepare For A New Yesterday (Volume 1))'
+  - 'Mtume''s Song (Yesterdays Universe: Prepare For A New Yesterday (Volume 1))'
+  - 'Mtume''s Song (Yesterdays Universe: Prepare For A New Yesterday (Volume 1))'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8ccc6c00-c7aa-4194-ab6d-0b43703251b4
-  spotify: https://open.spotify.com/artist/0qYYDVyEQly784GgZJM93A
+  musicbrainz: 'https://musicbrainz.org/artist/8ccc6c00-c7aa-4194-ab6d-0b43703251b4'
+  spotify: 'https://open.spotify.com/artist/0qYYDVyEQly784GgZJM93A'
   wikipedia: ''
 image_path: ''
 biography_enhanced_at: '2025-10-20T09:47:44.449682'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://fakebands.com/wiki/index.php?title=The_Eddie_Prince_Fusion_Band
-- https://www.stonesthrow.com/product_artists/the-eddie-prince-fusion-band/
-- https://hitz.me/artist/979917fa-111f-406e-b859-4a20b7e6fae3
+  - 'https://fakebands.com/wiki/index.php?title=The_Eddie_Prince_Fusion_Band'
+  - 'https://www.stonesthrow.com/product_artists/the-eddie-prince-fusion-band/'
+  - 'https://hitz.me/artist/979917fa-111f-406e-b859-4a20b7e6fae3'
 network_extracted: true
 entry_created: '2025-10-20T09:47:44.449706'
 last_updated: '2025-12-23T08:16:04.072010'
 musicbrainz_enriched_at: '2025-10-21T09:45:55.372097'
 musicbrainz_id: 8ccc6c00-c7aa-4194-ab6d-0b43703251b4
-origin: Los Angeles, California, United States (fictional origin, as part of Madlib's projects)
+origin: >-
+  Los Angeles, California, United States (fictional origin, as part of Madlib's
+  projects)
 ---
 
 ![]()

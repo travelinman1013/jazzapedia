@@ -3,16 +3,16 @@ title: Bob Marley
 wiki_slug: bob-marley
 schema_version: 2
 status: active
-birth_place: Nine Miles, Saint Ann Parish, Jamaica
+birth_place: 'Nine Miles, Saint Ann Parish, Jamaica'
 genres:
-- reggae
-- roots reggae
-- rocksteady
+  - reggae
+  - roots reggae
+  - rocksteady
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bob_marley.jpg
   caption: Bob Marley
   background: solo_singer
-  origin: Nine Miles, Saint Ann Parish, Jamaica
+  origin: 'Nine Miles, Saint Ann Parish, Jamaica'
 audio_profile:
   tempo_avg: 110.5
   energy_avg: 0.523
@@ -28,49 +28,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Peter Tosh
-  - Bunny Wailer (Bunny Livingston)
-  - Rita Marley
-  - Aston 'Family Man' Barrett
+    - Peter Tosh
+    - Bunny Wailer (Bunny Livingston)
+    - Rita Marley
+    - Aston 'Family Man' Barrett
   influenced:
-  - Ziggy Marley
-  - Lauryn Hill
-  - Alpha Blondy
+    - Ziggy Marley
+    - Lauryn Hill
+    - Alpha Blondy
   mentors:
-  - Lee 'Scratch' Perry
-  - Fats Domino
+    - Lee 'Scratch' Perry
+    - Fats Domino
 spotify_data:
   followers: 1308548
   id: 6BH2lormtpjy3X9DyrGHVj
   popularity: 47
-  url: https://open.spotify.com/artist/6BH2lormtpjy3X9DyrGHVj
+  url: 'https://open.spotify.com/artist/6BH2lormtpjy3X9DyrGHVj'
 discography_enriched: true
 top_tracks:
-- Turn Your Lights Down Low
-- Stir It Up - Alternate Jamaican
-- Soul Rebel
-- One cup of Coffee
-- Kaya
-- Mello Rock (Cork &Tar)
-- Give Thanks (Cork &Tar)
-- 'Outro (Bob Marley Interviews: So Much Things to Say)'
-- Sun Is Shining
-- Soul Shakedown Party
+  - Turn Your Lights Down Low
+  - Stir It Up - Alternate Jamaican
+  - Soul Rebel
+  - One cup of Coffee
+  - Kaya
+  - Mello Rock (Cork &Tar)
+  - Give Thanks (Cork &Tar)
+  - 'Outro (Bob Marley Interviews: So Much Things to Say)'
+  - Sun Is Shining
+  - Soul Shakedown Party
 external_urls:
-  spotify: https://open.spotify.com/artist/6BH2lormtpjy3X9DyrGHVj
-  wikipedia: https://en.wikipedia.org/wiki/Bob_Marley
+  spotify: 'https://open.spotify.com/artist/6BH2lormtpjy3X9DyrGHVj'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bob_Marley'
 image_path: 03_Resources/source_material/ArtistPortraits/bob_marley.jpg
 biography_enhanced_at: '2025-11-02T07:35:31.929441'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.britannica.com/biography/Bob-Marley
-- https://www.bobmarley.com/history/
-- https://www.imdb.com/name/nm0002490/bio/
-- https://thehouseofmarley.com/blogs/news/bob-marley-biography
+  - 'https://www.britannica.com/biography/Bob-Marley'
+  - 'https://www.bobmarley.com/history/'
+  - 'https://www.imdb.com/name/nm0002490/bio/'
+  - 'https://thehouseofmarley.com/blogs/news/bob-marley-biography'
 network_extracted: true
 entry_created: '2025-11-02T07:35:31.929457'
 last_updated: '2025-12-23T08:16:05.803945'
+birth_date: '1945-02-06'
+artist_type: person
 ---
 
 ![](bob_marley.jpg)

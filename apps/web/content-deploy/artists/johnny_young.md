@@ -1,16 +1,20 @@
 ---
-title: JOHNNY YOUNG
+title: Johnny Young
 wiki_slug: johnny-young
 schema_version: 2
 status: active
-birth_place: Rotterdam, Netherlands (birthplace); Perth, Western Australia (origin/where he grew up)
+birth_place: >-
+  Rotterdam, Netherlands (birthplace); Perth, Western Australia (origin/where he
+  grew up)
 genres:
-- classic rock
+  - classic rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/johnny_young.jpg
   caption: JOHNNY YOUNG
   background: solo_singer
-  origin: Rotterdam, Netherlands (birthplace); Perth, Western Australia (origin/where he grew up)
+  origin: >-
+    Rotterdam, Netherlands (birthplace); Perth, Western Australia (origin/where
+    he grew up)
 audio_profile:
   tempo_avg: 122.8
   energy_avg: 0.781
@@ -26,53 +30,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Easybeats
-  - John Eddy
-  - Warwick Findlay
-  - Tony Summers
-  - Jim Griffiths
-  - Rod Alexander
-  - Danny Finley
+    - The Easybeats
+    - John Eddy
+    - Warwick Findlay
+    - Tony Summers
+    - Jim Griffiths
+    - Rod Alexander
+    - Danny Finley
   influenced:
-  - Russell Morris
-  - Ronnie Burns
-  - Lionel Rose
-  - Ross D. Wyllie
+    - Russell Morris
+    - Ronnie Burns
+    - Lionel Rose
+    - Ross D. Wyllie
   mentors:
-  - Barry Gibb
+    - Barry Gibb
 spotify_data:
   followers: 1900723
   id: 3lPQ2Fk5JOwGWAF3ORFCqH
   popularity: 64
-  url: https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH
+  url: 'https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH'
 discography_enriched: true
 top_tracks:
-- Jack & Diane (American Fool)
-- Hurts So Good (American Fool)
-- Small Town (Scarecrow)
-- Pink Houses (Uh-HUH!)
-- Cherry Bomb (The Lonesome Jubilee)
-- Authority Song (Uh-HUH!)
-- Ain't Even Done With The Night (Nothin' Matters And What If It Did)
-- R.O.C.K. In The U.S.A. (A Salute To 60's Rock) (Scarecrow)
-- Paper In Fire (The Lonesome Jubilee)
-- Rain On The Scarecrow (Scarecrow)
+  - Jack & Diane (American Fool)
+  - Hurts So Good (American Fool)
+  - Small Town (Scarecrow)
+  - Pink Houses (Uh-HUH!)
+  - Cherry Bomb (The Lonesome Jubilee)
+  - Authority Song (Uh-HUH!)
+  - Ain't Even Done With The Night (Nothin' Matters And What If It Did)
+  - R.O.C.K. In The U.S.A. (A Salute To 60's Rock) (Scarecrow)
+  - Paper In Fire (The Lonesome Jubilee)
+  - Rain On The Scarecrow (Scarecrow)
 external_urls:
-  spotify: https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH
-  wikipedia: https://en.wikipedia.org/wiki/Johnny_Young
+  spotify: 'https://open.spotify.com/artist/3lPQ2Fk5JOwGWAF3ORFCqH'
+  wikipedia: 'https://en.wikipedia.org/wiki/Johnny_Young'
 image_path: 03_Resources/source_material/ArtistPortraits/johnny_young.jpg
 biography_enhanced_at: '2025-12-04T07:54:15.317393'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Johnny Young
-- History of Aussie Music Blog
-- MILESAGO - Groups & Solo Artists
-- John Peel Wiki - Fandom
-- Pop Archives Australia
+  - Wikipedia - Johnny Young
+  - History of Aussie Music Blog
+  - MILESAGO - Groups & Solo Artists
+  - John Peel Wiki - Fandom
+  - Pop Archives Australia
 network_extracted: true
 entry_created: '2025-12-04T07:54:15.317404'
 last_updated: '2025-12-23T08:16:10.927648'
+origin: 'Perth, Western Australia, Australia'
+birth_date: '1947-03-12'
+artist_type: person
 ---
 
 ![](johnny_young.jpg)

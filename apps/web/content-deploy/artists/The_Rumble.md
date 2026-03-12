@@ -9,7 +9,7 @@ infobox:
   caption: The Rumble
   background: solo_singer
 audio_profile:
-  tempo_avg: 121.0
+  tempo_avg: 121
   energy_avg: 0.834
   valence_avg: 0.675
   danceability_avg: 0.583
@@ -23,55 +23,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Aurélien Barnes
-  - José Maize Jr.
-  - TJ Norris
-  - Ari Teitel
-  - Andriu Yanovski
-  - Trenton O’Neal
+    - Aurélien Barnes
+    - José Maize Jr.
+    - TJ Norris
+    - Ari Teitel
+    - Andriu Yanovski
+    - Trenton O’Neal
   influenced:
-  - Young New Orleans musicians
+    - Young New Orleans musicians
   mentors:
-  - Monk Boudreaux
-  - The Neville Brothers
-  - The Meters
+    - Monk Boudreaux
+    - The Neville Brothers
+    - The Meters
 spotify_data:
   followers: 2330
   id: 3jHXl1AU6QfHvvySUYfRZB
   popularity: 9
-  url: https://open.spotify.com/artist/3jHXl1AU6QfHvvySUYfRZB
+  url: 'https://open.spotify.com/artist/3jHXl1AU6QfHvvySUYfRZB'
 discography_enriched: true
 top_tracks:
-- Now You Know (Stories from the Battlefield)
-- Trouble (Stories from the Battlefield)
-- Down In The City (Stories from the Battlefield)
-- Golden Crown (Stories from the Battlefield)
-- My People - Live (The Rumble Ft. Chief Joseph Boudreaux Jr. Live at the Maple Leaf Bar)
-- Take It Back (Stories from the Battlefield)
-- Up Until The Morning (Stories from the Battlefield)
-- Up Until The Morning - Live (The Rumble Ft. Chief Joseph Boudreaux Jr. Live at the Maple Leaf Bar)
-- The Rumble (Stories from the Battlefield)
-- Stories from the Battlefield (Stories from the Battlefield)
+  - Now You Know (Stories from the Battlefield)
+  - Trouble (Stories from the Battlefield)
+  - Down In The City (Stories from the Battlefield)
+  - Golden Crown (Stories from the Battlefield)
+  - >-
+    My People - Live (The Rumble Ft. Chief Joseph Boudreaux Jr. Live at the
+    Maple Leaf Bar)
+  - Take It Back (Stories from the Battlefield)
+  - Up Until The Morning (Stories from the Battlefield)
+  - >-
+    Up Until The Morning - Live (The Rumble Ft. Chief Joseph Boudreaux Jr. Live
+    at the Maple Leaf Bar)
+  - The Rumble (Stories from the Battlefield)
+  - Stories from the Battlefield (Stories from the Battlefield)
 external_urls:
-  spotify: https://open.spotify.com/artist/3jHXl1AU6QfHvvySUYfRZB
+  spotify: 'https://open.spotify.com/artist/3jHXl1AU6QfHvvySUYfRZB'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/The_Rumble.jpg
 biography_enhanced_at: '2025-10-21T06:52:16.667057'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://deviousplanet.com/the-rumble/
-- https://therumbleband.com/bio-1
-- https://jazzaspensnowmass.org/getting-to-know-the-rumble/
-- https://therumbleband.com
-- https://rochesterjazz.com/artists/the-rumble-ft-chief-joseph-boudreaux-jr/
-- https://nextfavband.com/2023/12/27/the-rumble-featuring-chief-joseph-boudreaux-jr/
-- https://ragman.org/the-rumble-ft-chief-joseph-boudreaux-jr
-- https://americanahighways.org/2023/05/17/review-the-rumble-featuring-chief-joseph-boudreaux-jr-live-from-the-maple-leaf/
+  - 'https://deviousplanet.com/the-rumble/'
+  - 'https://therumbleband.com/bio-1'
+  - 'https://jazzaspensnowmass.org/getting-to-know-the-rumble/'
+  - 'https://therumbleband.com'
+  - 'https://rochesterjazz.com/artists/the-rumble-ft-chief-joseph-boudreaux-jr/'
+  - >-
+    https://nextfavband.com/2023/12/27/the-rumble-featuring-chief-joseph-boudreaux-jr/
+  - 'https://ragman.org/the-rumble-ft-chief-joseph-boudreaux-jr'
+  - >-
+    https://americanahighways.org/2023/05/17/review-the-rumble-featuring-chief-joseph-boudreaux-jr-live-from-the-maple-leaf/
 network_extracted: true
 entry_created: '2025-10-21T06:52:16.667081'
 last_updated: '2025-12-23T08:16:04.117649'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![](The_Rumble.jpg)

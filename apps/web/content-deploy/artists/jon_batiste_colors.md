@@ -1,15 +1,15 @@
 ---
-title: Jon Batiste, COLORS
+title: 'Jon Batiste, COLORS'
 wiki_slug: jon-batiste-colors
 schema_version: 2
 status: active
-birth_place: Metairie, Louisiana, United States
+birth_place: 'Metairie, Louisiana, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jon_batiste_colors.jpg
-  caption: Jon Batiste, COLORS
+  caption: 'Jon Batiste, COLORS'
   background: solo_singer
-  origin: Metairie, Louisiana, United States
+  origin: 'Metairie, Louisiana, United States'
 audio_profile:
   tempo_avg: 111.3
   energy_avg: 0.439
@@ -25,47 +25,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Stay Human
-  - Trent Reznor & Atticus Ross
-  - Mavis Staples
-  - Lana Del Rey, Lil Wayne, NewJeans
+    - Stay Human
+    - Trent Reznor & Atticus Ross
+    - Mavis Staples
+    - 'Lana Del Rey, Lil Wayne, NewJeans'
   influenced:
-  - Students at the National Jazz Museum in Harlem
+    - Students at the National Jazz Museum in Harlem
   mentors:
-  - Alvin Batiste
+    - Alvin Batiste
 spotify_data:
   followers: 621149
   id: 0eRbECAGCLLiTyVXPBRexU
   popularity: 58
-  url: https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU
+  url: 'https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU'
 discography_enriched: true
 top_tracks:
-- Sunshine In The Room (feat. Jon Batiste)
-- Candy Necklace (feat. Jon Batiste) (Did you know that there's a tunnel under Ocean Blvd)
-- Dusklight Movement (Beethoven Blues)
-- FREEDOM (WE ARE)
-- Be Who You Are (Real Magic) (feat. JID, NewJeans & Camilo)
-- It's All Right
-- I NEED YOU (WE ARE)
-- MODERN TIMES (feat. Jon Batiste) (FATHER FIGURE)
-- Drink Water (feat. Jon Bellion and Fireboy DML) (World Music Radio)
-- Für Elise - Batiste (Beethoven Blues)
+  - Sunshine In The Room (feat. Jon Batiste)
+  - >-
+    Candy Necklace (feat. Jon Batiste) (Did you know that there's a tunnel under
+    Ocean Blvd)
+  - Dusklight Movement (Beethoven Blues)
+  - FREEDOM (WE ARE)
+  - 'Be Who You Are (Real Magic) (feat. JID, NewJeans & Camilo)'
+  - It's All Right
+  - I NEED YOU (WE ARE)
+  - MODERN TIMES (feat. Jon Batiste) (FATHER FIGURE)
+  - Drink Water (feat. Jon Bellion and Fireboy DML) (World Music Radio)
+  - Für Elise - Batiste (Beethoven Blues)
 external_urls:
-  spotify: https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU
-  wikipedia: https://en.wikipedia.org/wiki/Jon_Batiste
+  spotify: 'https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jon_Batiste'
 image_path: 03_Resources/source_material/ArtistPortraits/jon_batiste_colors.jpg
 biography_enhanced_at: '2025-11-14T10:51:20.737698'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.britannica.com/biography/Jon-Batiste
-- https://en.wikipedia.org/wiki/Jon_Batiste
-- https://www.bso.org/profiles/jon-batiste
-- https://www.scad.edu/content/jon-batiste
-- https://www.imdb.com/name/nm4456022/
+  - 'https://www.britannica.com/biography/Jon-Batiste'
+  - 'https://en.wikipedia.org/wiki/Jon_Batiste'
+  - 'https://www.bso.org/profiles/jon-batiste'
+  - 'https://www.scad.edu/content/jon-batiste'
+  - 'https://www.imdb.com/name/nm4456022/'
 network_extracted: true
 entry_created: '2025-11-14T10:51:20.737704'
 last_updated: '2025-12-23T08:16:10.938512'
+birth_date: '1986-11-11'
+artist_type: person
 ---
 
 ![](jon_batiste_colors.jpg)

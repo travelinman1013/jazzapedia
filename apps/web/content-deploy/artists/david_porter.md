@@ -1,18 +1,18 @@
 ---
-title: david porter
+title: David Porter
 wiki_slug: david-porter
 schema_version: 2
 status: active
-birth_place: Memphis, Tennessee, United States
+birth_place: 'Memphis, Tennessee, United States'
 genres:
-- northern soul
-- philly soul
-- soul
+  - northern soul
+  - philly soul
+  - soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/david_porter.jpg
   caption: david porter
   background: solo_singer
-  origin: Memphis, Tennessee, United States
+  origin: 'Memphis, Tennessee, United States'
 audio_profile:
   tempo_avg: 122.8
   energy_avg: 0.503
@@ -28,49 +28,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Isaac Hayes
-  - Booker T. Jones
-  - Maurice White
+    - Isaac Hayes
+    - Booker T. Jones
+    - Maurice White
   influenced:
-  - Wu-Tang Clan
-  - Drake
-  - Mariah Carey
+    - Wu-Tang Clan
+    - Drake
+    - Mariah Carey
   mentors:
-  - Jerry Butler
+    - Jerry Butler
 spotify_data:
   followers: 7064
   id: 1k0ZB1aFWMh6dr3y63X5Jr
   popularity: 15
-  url: https://open.spotify.com/artist/1k0ZB1aFWMh6dr3y63X5Jr
+  url: 'https://open.spotify.com/artist/1k0ZB1aFWMh6dr3y63X5Jr'
 discography_enriched: true
 top_tracks:
-- You Got Me Hummin' (And So It Goes)
-- Can't See You When I Want To - Alternate Take (The Spirit Of Memphis (1962-1976))
-- I'm Afraid The Masquerade Is Over
-- (I'm Afraid) The Masquerade Is Over (Victim Of The Joke?...An Opera)
-- Ain't That Loving You (For More Reasons Than One) - Remastered 1991 Album Version (Isaac Hayes Sings For Lovers)
-- Can't See You When I Want To - Alternate Take (Gritty, Groovy, & Gettin' It (Deluxe Edition))
-- Hang On Sloopy (Into A Real Thing)
-- Ain't That Loving You (For More Reasons Than One) - Remastered 1991 Album Version (Stax Records Presents)
-- 'Can''t See You When I Want To (Stax-Volt: The Complete Singles 1959-1968)'
-- Baby I'm-A Want You (Isaac Hayes Sings For Lovers)
+  - You Got Me Hummin' (And So It Goes)
+  - >-
+    Can't See You When I Want To - Alternate Take (The Spirit Of Memphis
+    (1962-1976))
+  - I'm Afraid The Masquerade Is Over
+  - (I'm Afraid) The Masquerade Is Over (Victim Of The Joke?...An Opera)
+  - >-
+    Ain't That Loving You (For More Reasons Than One) - Remastered 1991 Album
+    Version (Isaac Hayes Sings For Lovers)
+  - >-
+    Can't See You When I Want To - Alternate Take (Gritty, Groovy, & Gettin' It
+    (Deluxe Edition))
+  - Hang On Sloopy (Into A Real Thing)
+  - >-
+    Ain't That Loving You (For More Reasons Than One) - Remastered 1991 Album
+    Version (Stax Records Presents)
+  - 'Can''t See You When I Want To (Stax-Volt: The Complete Singles 1959-1968)'
+  - Baby I'm-A Want You (Isaac Hayes Sings For Lovers)
 external_urls:
-  spotify: https://open.spotify.com/artist/1k0ZB1aFWMh6dr3y63X5Jr
-  wikipedia: https://en.wikipedia.org/wiki/David_Porter_(musician)
+  spotify: 'https://open.spotify.com/artist/1k0ZB1aFWMh6dr3y63X5Jr'
+  wikipedia: 'https://en.wikipedia.org/wiki/David_Porter_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/david_porter.jpg
 biography_enhanced_at: '2025-10-19T11:54:43.773547'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.musicconnection.com/songwriter-profile-david-porter/
-- https://staxrecords.com/artist/david-porter/
-- https://memphismusichalloffame.com/inductee/davidporter/
-- https://docs.house.gov/meetings/JU/JU03/20230627/116155/HHRG-118-JU03-Bio-PorterD-20230627.pdf
-- https://staxrecords.com/songwriter/isaac-hayes-and-david-porter/
+  - 'https://www.musicconnection.com/songwriter-profile-david-porter/'
+  - 'https://staxrecords.com/artist/david-porter/'
+  - 'https://memphismusichalloffame.com/inductee/davidporter/'
+  - >-
+    https://docs.house.gov/meetings/JU/JU03/20230627/116155/HHRG-118-JU03-Bio-PorterD-20230627.pdf
+  - 'https://staxrecords.com/songwriter/isaac-hayes-and-david-porter/'
 network_extracted: true
 entry_created: '2025-10-19T11:54:43.773552'
 last_updated: '2025-12-23T08:16:07.585613'
-
+birth_date: '1941-11-21'
+artist_type: person
 ---
 
 ![](david_porter.jpg)

@@ -1,13 +1,14 @@
 ---
-title: bessie smith and louis armstrong
+title: Bessie Smith and Louis Armstrong
 wiki_slug: bessie-smith-and-louis-armstrong
 schema_version: 2
 status: active
 genres:
-- jazz
-- ragtime
+  - jazz
+  - ragtime
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/bessie_smith_and_louis_armstrong.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/bessie_smith_and_louis_armstrong.jpg
   caption: bessie smith and louis armstrong
   background: solo_singer
 audio_profile:
@@ -25,54 +26,66 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Fred Longshaw
-  - Fletcher Henderson
-  - Joe Smith
-  - Charlie Green
-  - Sidney Bechet
+    - Fred Longshaw
+    - Fletcher Henderson
+    - Joe Smith
+    - Charlie Green
+    - Sidney Bechet
   influenced:
-  - Lester Young
-  - Billie Holiday
-  - Ella Fitzgerald
+    - Lester Young
+    - Billie Holiday
+    - Ella Fitzgerald
   mentors:
-  - W.C. Handy
-  - Alberta Hunter & Lovie Austin
+    - W.C. Handy
+    - Alberta Hunter & Lovie Austin
 spotify_data:
   followers: 37964
   id: 267SHEPfqnF16IEmwbLhLQ
   popularity: 18
-  url: https://open.spotify.com/artist/267SHEPfqnF16IEmwbLhLQ
+  url: 'https://open.spotify.com/artist/267SHEPfqnF16IEmwbLhLQ'
 discography_enriched: true
 top_tracks:
-- Potato Head Blues (The Complete Hot Five And Hot Seven Recordings Volume 2)
-- Potato Head Blues - 78rpm Version (The Essential Louis Armstrong)
-- Willie the Weeper (The Essential Louis Armstrong)
-- Muggles (The Complete Hot Five And Hot Seven Recordings Volume 3)
-- 'Melancholy Blues (Louis Armstrong: Hot Fives & Sevens - Vol. 2)'
-- Wild Man Blues (The Complete Hot Five And Hot Seven Recordings Volume 2)
-- Twelfth Street Rag (The Complete Hot Five And Hot Seven Recordings Volume 2)
-- Knee Drops (The Complete Hot Five And Hot Seven Recordings Volume 3)
-- 'Hotter Than That (Louis Armstrong: Portrait Of The Artist As A Young Man 1923-1934)'
-- Squeeze Me (The Complete Hot Five And Hot Seven Recordings Volume 3)
+  - Potato Head Blues (The Complete Hot Five And Hot Seven Recordings Volume 2)
+  - Potato Head Blues - 78rpm Version (The Essential Louis Armstrong)
+  - Willie the Weeper (The Essential Louis Armstrong)
+  - Muggles (The Complete Hot Five And Hot Seven Recordings Volume 3)
+  - 'Melancholy Blues (Louis Armstrong: Hot Fives & Sevens - Vol. 2)'
+  - Wild Man Blues (The Complete Hot Five And Hot Seven Recordings Volume 2)
+  - Twelfth Street Rag (The Complete Hot Five And Hot Seven Recordings Volume 2)
+  - Knee Drops (The Complete Hot Five And Hot Seven Recordings Volume 3)
+  - >-
+    Hotter Than That (Louis Armstrong: Portrait Of The Artist As A Young Man
+    1923-1934)
+  - Squeeze Me (The Complete Hot Five And Hot Seven Recordings Volume 3)
 external_urls:
-  spotify: https://open.spotify.com/artist/267SHEPfqnF16IEmwbLhLQ
+  spotify: 'https://open.spotify.com/artist/267SHEPfqnF16IEmwbLhLQ'
   wikipedia: Not provided in search results
-image_path: 03_Resources/source_material/ArtistPortraits/bessie_smith_and_louis_armstrong.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/bessie_smith_and_louis_armstrong.jpg
 biography_enhanced_at: '2025-11-27T06:34:27.789922'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.ebsco.com/research-starters/women-s-studies-and-feminism/bessie-smith-records-downhearted-blues
-- https://dippermouth.blogspot.com/2015/01/bessie-smith-meets-louis-armstrong-90.html
-- https://www.premierguitar.com/pro-advice/last-call/louis-armstrong
-- https://www.italianpiano.com/blog/monday-notes/bessie-smith-louis-armstrong-st-louis-blues/
-- https://syncopatedtimes.com/louis-armstrongs-70-greatest-recordings/
-- https://americanarchive.org/catalog/cpb-aacip_24-11xd27bq
-- https://nmaahc.si.edu/lgbtq/bessie-smith
-- https://www.louisarmstronghouse.org/virtual-exhibits/she-just-sends-me-all-over-billie-holiday-and-louis-armstrong/
+  - >-
+    https://www.ebsco.com/research-starters/women-s-studies-and-feminism/bessie-smith-records-downhearted-blues
+  - >-
+    https://dippermouth.blogspot.com/2015/01/bessie-smith-meets-louis-armstrong-90.html
+  - 'https://www.premierguitar.com/pro-advice/last-call/louis-armstrong'
+  - >-
+    https://www.italianpiano.com/blog/monday-notes/bessie-smith-louis-armstrong-st-louis-blues/
+  - 'https://syncopatedtimes.com/louis-armstrongs-70-greatest-recordings/'
+  - 'https://americanarchive.org/catalog/cpb-aacip_24-11xd27bq'
+  - 'https://nmaahc.si.edu/lgbtq/bessie-smith'
+  - >-
+    https://www.louisarmstronghouse.org/virtual-exhibits/she-just-sends-me-all-over-billie-holiday-and-louis-armstrong/
 network_extracted: true
 entry_created: '2025-11-27T06:34:27.789936'
 last_updated: '2025-12-23T08:16:05.352448'
+birth_place: 'Chattanooga, Tennessee, United States'
+origin: >-
+  Bessie Smith: Chattanooga, Tennessee, USA; Louis Armstrong: New Orleans,
+  Louisiana, USA
+artist_type: band
 ---
 
 ![](bessie_smith_and_louis_armstrong.jpg)

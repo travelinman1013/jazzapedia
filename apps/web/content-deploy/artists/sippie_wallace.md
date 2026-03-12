@@ -1,21 +1,21 @@
 ---
-title: SIPPIE WALLACE
+title: Sippie Wallace
 wiki_slug: sippie-wallace
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1898-11-01'
-birth_place: Arkansas
+birth_place: 'Plum Bayou, Arkansas, United States'
 death_date: '1986-11-01'
 genres:
-- classic blues
-- country blues
-- blues
-- ragtime
+  - classic blues
+  - country blues
+  - blues
+  - ragtime
 instruments:
-- piano
-- background vocals
-- vocal
+  - piano
+  - background vocals
+  - vocal
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sippie_wallace.jpg
   caption: SIPPIE WALLACE
@@ -38,49 +38,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Louis Armstrong
-  - Victoria Spivey
-  - Bonnie Raitt
+    - Louis Armstrong
+    - Victoria Spivey
+    - Bonnie Raitt
   influenced:
-  - Bonnie Raitt
+    - Bonnie Raitt
   mentors:
-  - George Washington Thomas (brother)
-  - Hersal Thomas (brother)
+    - George Washington Thomas (brother)
+    - Hersal Thomas (brother)
 spotify_data:
   followers: 7477
   id: 1MzNMhcJhkG0pCk2sg3PTR
   popularity: 14
-  url: https://open.spotify.com/artist/1MzNMhcJhkG0pCk2sg3PTR
+  url: 'https://open.spotify.com/artist/1MzNMhcJhkG0pCk2sg3PTR'
 discography_enriched: true
 top_tracks:
-- I'm a Mighty Tight Woman (First Time I Met the Blues (When the Sun Goes Down series))
-- Bedroom Blues (9930) (Sippie Wallace Vol. 2 (1925-1945))
-- Women Be Wise (Sippie)
-- A Man That Don't Want Me (Sippie)
-- Devil Dance Blues (Sippie Wallace Vol. 1 (1923-1925))
-- Bedroom Blues (Bedroom Blues)
-- A Jelaous Woman Like Me (Sippie Wallace Vol. 2 (1925-1945))
-- Parlor Social De Luxe (Sippie Wallace Vol. 1 (1923-1925))
-- A Jealous Woman Like Me (Bedroom Blues)
-- Bedroom Blues
+  - >-
+    I'm a Mighty Tight Woman (First Time I Met the Blues (When the Sun Goes Down
+    series))
+  - Bedroom Blues (9930) (Sippie Wallace Vol. 2 (1925-1945))
+  - Women Be Wise (Sippie)
+  - A Man That Don't Want Me (Sippie)
+  - Devil Dance Blues (Sippie Wallace Vol. 1 (1923-1925))
+  - Bedroom Blues (Bedroom Blues)
+  - A Jelaous Woman Like Me (Sippie Wallace Vol. 2 (1925-1945))
+  - Parlor Social De Luxe (Sippie Wallace Vol. 1 (1923-1925))
+  - A Jealous Woman Like Me (Bedroom Blues)
+  - Bedroom Blues
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ac4c191a-92cf-4def-9a48-8635429edb96
-  spotify: https://open.spotify.com/artist/1MzNMhcJhkG0pCk2sg3PTR
-  wikipedia: https://en.wikipedia.org/wiki/Sippie_Wallace
+  musicbrainz: 'https://musicbrainz.org/artist/ac4c191a-92cf-4def-9a48-8635429edb96'
+  spotify: 'https://open.spotify.com/artist/1MzNMhcJhkG0pCk2sg3PTR'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sippie_Wallace'
 image_path: 03_Resources/source_material/ArtistPortraits/sippie_wallace.jpg
 biography_enhanced_at: '2025-11-04T10:59:00.611845'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Sippie_Wallace
-- https://aaregistry.org/story/the-texas-nightingale-sippie-wallace/
-- https://bigtrainblues.com/sippie-wallace/
-- https://www.tshaonline.org/handbook/entries/wallace-beulah-thomas-sippie
+  - 'https://en.wikipedia.org/wiki/Sippie_Wallace'
+  - 'https://aaregistry.org/story/the-texas-nightingale-sippie-wallace/'
+  - 'https://bigtrainblues.com/sippie-wallace/'
+  - 'https://www.tshaonline.org/handbook/entries/wallace-beulah-thomas-sippie'
 network_extracted: true
 entry_created: '2025-11-04T10:59:00.611855'
 last_updated: '2025-12-23T08:16:15.666836'
 gender: Female
 musicbrainz_id: ac4c191a-92cf-4def-9a48-8635429edb96
+is_active: false
+origin: 'Houston, Texas, United States'
 ---
 
 ![](sippie_wallace.jpg)

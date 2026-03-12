@@ -4,7 +4,7 @@ wiki_slug: cidinei-barbosa
 schema_version: 2
 status: active
 genres:
-- brega
+  - brega
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/cidinei_barbosa.jpg
   caption: Cidinei Barbosa
@@ -30,35 +30,40 @@ spotify_data:
   followers: 7
   id: 7hLUd94HNI8VQ4iAcDa0OD
   popularity: 0
-  url: https://open.spotify.com/artist/7hLUd94HNI8VQ4iAcDa0OD
+  url: 'https://open.spotify.com/artist/7hLUd94HNI8VQ4iAcDa0OD'
 discography_enriched: true
 top_tracks:
-- Portal dos Sonhos
-- Plante uma Flor
-- Terra Distante (Terra Distante)
-- Jeito Simples
-- Minha Sítona
-- Metálica - Acústico
-- Intimidade Natural
-- Sense
-- O Meu Lado Humano
-- Penteadeira - Acústico (Penteadeira (Acústico))
+  - Portal dos Sonhos
+  - Plante uma Flor
+  - Terra Distante (Terra Distante)
+  - Jeito Simples
+  - Minha Sítona
+  - Metálica - Acústico
+  - Intimidade Natural
+  - Sense
+  - O Meu Lado Humano
+  - Penteadeira - Acústico (Penteadeira (Acústico))
 external_urls:
-  spotify: https://open.spotify.com/artist/7hLUd94HNI8VQ4iAcDa0OD
+  spotify: 'https://open.spotify.com/artist/7hLUd94HNI8VQ4iAcDa0OD'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/cidinei_barbosa.jpg
 biography_enhanced_at: '2025-12-07T04:47:59.421237'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia search for “Cidinei Barbosa” and related Portuguese variants (no results returned)[1]
-- General web search for “Cidinei Barbosa” combined with terms like música, cantor, brega, álbum, disco (no authoritative
-  results)[2]
-- Searches in academic and genre-specific contexts for Brazilian *brega* artists, which do not list any musician named Cidinei
-  Barbosa[3]
+  - >-
+    Wikipedia search for “Cidinei Barbosa” and related Portuguese variants (no
+    results returned)[1]
+  - >-
+    General web search for “Cidinei Barbosa” combined with terms like música,
+    cantor, brega, álbum, disco (no authoritative results)[2]
+  - >-
+    Searches in academic and genre-specific contexts for Brazilian *brega*
+    artists, which do not list any musician named Cidinei Barbosa[3]
 network_extracted: true
 entry_created: '2025-12-07T04:47:59.421242'
 last_updated: '2025-12-23T08:16:06.988437'
+artist_type: person
 ---
 
 ![](cidinei_barbosa.jpg)

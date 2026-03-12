@@ -1,5 +1,5 @@
 ---
-title: Benny Lackner Trio
+title: The Benny Lackner Trio
 wiki_slug: benny-lackner-trio
 schema_version: 2
 status: active
@@ -23,49 +23,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jérôme Regard
-  - Matthieu Chazarenc
+    - Jérôme Regard
+    - Matthieu Chazarenc
   influenced:
-  - ''
+    - ''
   mentors:
-  - Brad Mehldau
+    - Brad Mehldau
 spotify_data:
   followers: 361
   id: 1wca1ZvrCPGSi3IOM6iVCK
   popularity: 2
-  url: https://open.spotify.com/artist/1wca1ZvrCPGSi3IOM6iVCK
+  url: 'https://open.spotify.com/artist/1wca1ZvrCPGSi3IOM6iVCK'
 discography_enriched: true
 top_tracks:
-- Tears (Drake)
-- I Told You So (Drake)
-- Rise to the Occasion (Drake)
-- Here to Stay (Drake)
-- Good Stuff (Drake)
-- Drake (Drake)
-- The 4th Member (Siskiyou)
-- Cygnet Committee (Siskiyou)
-- Palau (Siskiyou)
-- Sugarman (Siskiyou)
+  - Tears (Drake)
+  - I Told You So (Drake)
+  - Rise to the Occasion (Drake)
+  - Here to Stay (Drake)
+  - Good Stuff (Drake)
+  - Drake (Drake)
+  - The 4th Member (Siskiyou)
+  - Cygnet Committee (Siskiyou)
+  - Palau (Siskiyou)
+  - Sugarman (Siskiyou)
 external_urls:
-  spotify: https://open.spotify.com/artist/1wca1ZvrCPGSi3IOM6iVCK
+  spotify: 'https://open.spotify.com/artist/1wca1ZvrCPGSi3IOM6iVCK'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/benny_lackner_trio.jpg
 biography_enhanced_at: '2025-12-05T05:59:54.687326'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Official biography and press materials on benjaminlackner.com, including background on Berlin birth, California move, and
-  later New York/Berlin activity.[3][8]
-- Biographical notes from education and artist‑profile sites describing his Berlin origins, American upbringing, and studies
-  at California Institute of the Arts.[6][9]
-- Ensemble description from collaborator Matthieu Chazarenc’s site noting the founding of the Benny Lackner Trio in New York
-  City in 2002 with Jérôme Regard and Chazarenc.[2]
-- Reviews and articles in jazz publications outlining Lackner’s lyrical style, trio work, and blend of modern influences,
-  including JazzTimes and JazzLocal32.[4][5][7]
+  - >-
+    Official biography and press materials on benjaminlackner.com, including
+    background on Berlin birth, California move, and later New York/Berlin
+    activity.[3][8]
+  - >-
+    Biographical notes from education and artist‑profile sites describing his
+    Berlin origins, American upbringing, and studies at California Institute of
+    the Arts.[6][9]
+  - >-
+    Ensemble description from collaborator Matthieu Chazarenc’s site noting the
+    founding of the Benny Lackner Trio in New York City in 2002 with Jérôme
+    Regard and Chazarenc.[2]
+  - >-
+    Reviews and articles in jazz publications outlining Lackner’s lyrical style,
+    trio work, and blend of modern influences, including JazzTimes and
+    JazzLocal32.[4][5][7]
 network_extracted: true
 entry_created: '2025-12-05T05:59:54.687343'
 last_updated: '2025-12-23T08:16:05.331912'
-origin: Berlin, Germany
+origin: 'New York City, New York, United States'
+birth_place: 'Berlin, Germany, Europe'
+birth_date: '1976'
+artist_type: band
 ---
 
 ![](benny_lackner_trio.jpg)

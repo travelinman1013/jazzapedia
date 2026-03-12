@@ -1,18 +1,18 @@
 ---
-title: Jimmy Cliff, Wyclef Jean
+title: Jimmy Cliff
 wiki_slug: jimmy-cliff-wyclef-jean
 schema_version: 2
 status: active
-birth_place: Saint James, Jamaica
+birth_place: 'Saint James, Jamaica, United States'
 genres:
-- reggae
-- rocksteady
-- roots reggae
+  - reggae
+  - rocksteady
+  - roots reggae
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jimmy_cliff_wyclef_jean.jpg
-  caption: Jimmy Cliff, Wyclef Jean
+  caption: 'Jimmy Cliff, Wyclef Jean'
   background: solo_singer
-  origin: Saint James, Jamaica
+  origin: 'Saint James, Jamaica'
 audio_profile:
   tempo_avg: 118.2
   energy_avg: 0.511
@@ -28,48 +28,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Joe Strummer
-  - Annie Lennox
-  - Sting
-  - Wyclef Jean
-  - Dave Stewart
+    - Joe Strummer
+    - Annie Lennox
+    - Sting
+    - Wyclef Jean
+    - Dave Stewart
   influenced:
-  - Bob Marley
-  - Paul Simon
+    - Bob Marley
+    - Paul Simon
   mentors:
-  - Leslie Kong
-  - Chris Blackwell
+    - Leslie Kong
+    - Chris Blackwell
 spotify_data:
   followers: 869926
   id: 3rJ3m1tM6vUgiWLjfV8sRf
   popularity: 63
-  url: https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf
+  url: 'https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf'
 discography_enriched: true
 top_tracks:
-- You Can Get It If You Really Want (The Harder They Come (Original Motion Picture Soundtrack))
-- I Can See Clearly Now
-- I Can See Clearly Now
-- The Harder They Come (The Harder They Come (Original Motion Picture Soundtrack))
-- Wonderful World, Beautiful People - Single Version (Wonderful World, Beautiful People)
-- Reggae Night (The Power And The Glory)
-- Reggae Night
-- Many Rivers To Cross (Wonderful World, Beautiful People)
-- Rebel In Me
-- I Can See Clearly Now (Sunshine In The Music)
+  - >-
+    You Can Get It If You Really Want (The Harder They Come (Original Motion
+    Picture Soundtrack))
+  - I Can See Clearly Now
+  - I Can See Clearly Now
+  - >-
+    The Harder They Come (The Harder They Come (Original Motion Picture
+    Soundtrack))
+  - >-
+    Wonderful World, Beautiful People - Single Version (Wonderful World,
+    Beautiful People)
+  - Reggae Night (The Power And The Glory)
+  - Reggae Night
+  - 'Many Rivers To Cross (Wonderful World, Beautiful People)'
+  - Rebel In Me
+  - I Can See Clearly Now (Sunshine In The Music)
 external_urls:
-  spotify: https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf
-  wikipedia: https://en.wikipedia.org/wiki/Jimmy_Cliff
+  spotify: 'https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jimmy_Cliff'
 image_path: 03_Resources/source_material/ArtistPortraits/jimmy_cliff_wyclef_jean.jpg
 biography_enhanced_at: '2025-12-04T08:18:40.243858'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Jimmy Cliff
-- EBSCO Research Starters - Jimmy Cliff
-- Britannica - Jimmy Cliff
+  - Wikipedia - Jimmy Cliff
+  - EBSCO Research Starters - Jimmy Cliff
+  - Britannica - Jimmy Cliff
 network_extracted: true
 entry_created: '2025-12-04T08:18:40.243869'
 last_updated: '2025-12-23T08:16:10.434401'
+birth_date: '1944-07-30'
+artist_type: person
 ---
 
 ![](jimmy_cliff_wyclef_jean.jpg)

@@ -1,20 +1,20 @@
 ---
-title: betty wright
+title: Betty Wright
 wiki_slug: betty-wright
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1953-12-21'
-birth_place: Miami, Florida, United States
+birth_place: 'Miami, Florida, United States'
 death_date: '2020-05-10'
 genres:
-- soul
+  - soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/betty_wright.jpg
   caption: betty wright
   background: solo_singer
   born: '1953-12-21'
-  origin: Miami, Florida, United States
+  origin: 'Miami, Florida, United States'
   died: '2020-05-10'
 audio_profile:
   tempo_avg: 115.7
@@ -31,47 +31,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Angie Stone
-  - The Roots
-  - Gloria Estefan, Jennifer Lopez, Joss Stone
-  - David Byrne, Jimmy Cliff, Johnny Mathis, Millie Jackson
+    - Angie Stone
+    - The Roots
+    - 'Gloria Estefan, Jennifer Lopez, Joss Stone'
+    - 'David Byrne, Jimmy Cliff, Johnny Mathis, Millie Jackson'
   influenced:
-  - Mary J. Blige
-  - SWV
-  - Destiny's Child, Jonas Brothers, Joss Stone, Skip Marley
-  - Hip hop artists (Afrika Bambaataa, others)
+    - Mary J. Blige
+    - SWV
+    - 'Destiny''s Child, Jonas Brothers, Joss Stone, Skip Marley'
+    - 'Hip hop artists (Afrika Bambaataa, others)'
   mentors:
-  - Echoes of Joy (family gospel group)
+    - Echoes of Joy (family gospel group)
 spotify_data:
   followers: 314518
   id: 0PDqlUGugF5Jt6DZyATvfz
   popularity: 43
-  url: https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz
+  url: 'https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz'
 discography_enriched: true
 top_tracks:
-- Clean up Woman (I Love The Way You Love)
-- No Pain, (No Gain) (Mother Wit)
-- Tonight Is the Night - Live (Betty Wright Live)
-- After The Pain (Mother Wit)
-- Shoorah! Shoorah! (Danger High Voltage)
-- 'Old Songs (Betty Wright: The Movie)'
-- Ain't No Sunshine (I Love The Way You Love)
-- Girls Can't Do What the Guys Do
-- Baby (The Art of Love & War)
-- Holy Key (feat. Big Sean, Kendrick Lamar & Betty Wright) (Major Key)
+  - Clean up Woman (I Love The Way You Love)
+  - 'No Pain, (No Gain) (Mother Wit)'
+  - Tonight Is the Night - Live (Betty Wright Live)
+  - After The Pain (Mother Wit)
+  - Shoorah! Shoorah! (Danger High Voltage)
+  - 'Old Songs (Betty Wright: The Movie)'
+  - Ain't No Sunshine (I Love The Way You Love)
+  - Girls Can't Do What the Guys Do
+  - Baby (The Art of Love & War)
+  - 'Holy Key (feat. Big Sean, Kendrick Lamar & Betty Wright) (Major Key)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/eed5f159-4858-4464-93c3-fc2da3796446
-  spotify: https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz
-  wikipedia: https://en.wikipedia.org/wiki/Betty_Wright
+  musicbrainz: 'https://musicbrainz.org/artist/eed5f159-4858-4464-93c3-fc2da3796446'
+  spotify: 'https://open.spotify.com/artist/0PDqlUGugF5Jt6DZyATvfz'
+  wikipedia: 'https://en.wikipedia.org/wiki/Betty_Wright'
 image_path: 03_Resources/source_material/ArtistPortraits/betty_wright.jpg
 biography_enhanced_at: '2025-10-20T09:03:15.596787'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Betty_Wright
-- https://www.imdb.com/name/nm1678013/bio/
-- https://www.last.fm/music/Betty+Wright/+wiki
-- https://bettywrightofficial.com/pages/bio
+  - 'https://en.wikipedia.org/wiki/Betty_Wright'
+  - 'https://www.imdb.com/name/nm1678013/bio/'
+  - 'https://www.last.fm/music/Betty+Wright/+wiki'
+  - 'https://bettywrightofficial.com/pages/bio'
 network_extracted: true
 entry_created: '2025-10-20T09:03:15.596800'
 last_updated: '2025-12-23T08:16:05.371623'
@@ -80,10 +80,10 @@ gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:49:03.748495'
 musicbrainz_id: eed5f159-4858-4464-93c3-fc2da3796446
 tags:
-- background vocalist
-- disco
-- gospel
-
+  - background vocalist
+  - disco
+  - gospel
+is_active: false
 ---
 
 ![](betty_wright.jpg)

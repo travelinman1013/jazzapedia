@@ -2,7 +2,7 @@
 title: Phantogram
 wiki_slug: phantogram
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 birth_date: '2007'
 genres: []
@@ -26,57 +26,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Big Boi
-  - The Flaming Lips
-  - Sarah Barthel
-  - Josh Carter
+    - Big Boi
+    - The Flaming Lips
+    - Sarah Barthel
+    - Josh Carter
   influenced:
-  - Jocelyn & Chris Arndt
+    - Jocelyn & Chris Arndt
   mentors:
-  - The Beatles
-  - J Dilla
-  - Cocteau Twins
+    - The Beatles
+    - J Dilla
+    - Cocteau Twins
 spotify_data:
   followers: 963299
   id: 1l9d7B8W0IHy3LqWsxP2SH
   popularity: 69
-  url: https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH
+  url: 'https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH'
 discography_enriched: true
 top_tracks:
-- Black Out Days (Voices)
-- Black Out Days - Future Islands Remix
-- When I'm Small (Eyelid Movies)
-- When I'm Small (Eyelid Movies)
-- Black Out Days (Voices)
-- Black Out Days - Sped Up
-- Don't Move
-- Black Out Days - Subtronics Remix
-- Black Out Days - Future Islands Remix (Slowed)
-- Mouthful of Diamonds (Eyelid Movies)
+  - Black Out Days (Voices)
+  - Black Out Days - Future Islands Remix
+  - When I'm Small (Eyelid Movies)
+  - When I'm Small (Eyelid Movies)
+  - Black Out Days (Voices)
+  - Black Out Days - Sped Up
+  - Don't Move
+  - Black Out Days - Subtronics Remix
+  - Black Out Days - Future Islands Remix (Slowed)
+  - Mouthful of Diamonds (Eyelid Movies)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/dfe78af2-779e-4137-826a-3073a16e3278
-  spotify: https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH
-  wikipedia: https://en.wikipedia.org/wiki/Phantogram_(band)
+  musicbrainz: 'https://musicbrainz.org/artist/dfe78af2-779e-4137-826a-3073a16e3278'
+  spotify: 'https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH'
+  wikipedia: 'https://en.wikipedia.org/wiki/Phantogram_(band)'
 image_path: 03_Resources/source_material/ArtistPortraits/Phantogram.jpg
 biography_enhanced_at: '2025-10-20T09:35:57.456538'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://wknc.org/2021/04/24/phantogram-band-profile/
-- https://dellbby.github.io/dws2/wk4/index.html
-- https://www.last.fm/music/Phantogram/+wiki
-- https://freemusicarchive.org/music/Phantogram/bio
-- https://saratogaliving.com/phantogram-saratoga-most-successful-indie-rock-band-upstate-concert-hall/
+  - 'https://wknc.org/2021/04/24/phantogram-band-profile/'
+  - 'https://dellbby.github.io/dws2/wk4/index.html'
+  - 'https://www.last.fm/music/Phantogram/+wiki'
+  - 'https://freemusicarchive.org/music/Phantogram/bio'
+  - >-
+    https://saratogaliving.com/phantogram-saratoga-most-successful-indie-rock-band-upstate-concert-hall/
 network_extracted: true
 entry_created: '2025-10-20T09:35:57.456548'
 last_updated: '2025-12-23T08:16:03.585152'
 musicbrainz_enriched_at: '2025-10-21T09:41:17.111456'
 musicbrainz_id: dfe78af2-779e-4137-826a-3073a16e3278
-origin: Greenwich, New York, USA
+origin: 'Greenwich, New York, USA'
 tags:
-- ambient pop
-- electropop
-- glitch pop
+  - ambient pop
+  - electropop
+  - glitch pop
+birth_place: Greenwich
 ---
 
 ![](Phantogram.jpg)

@@ -3,17 +3,17 @@ title: Chloe Marie
 wiki_slug: chloe-marie
 schema_version: 2
 status: active
-birth_place: Baton Rouge, Louisiana, USA (birthplace and origin)
+birth_place: 'Baton Rouge, Louisiana, USA (birthplace and origin)'
 genres:
-- bedroom pop
-- indie pop
+  - bedroom pop
+  - indie pop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Chloe_Marie.jpg
   caption: Chloe Marie
   background: solo_singer
-  origin: Baton Rouge, Louisiana, USA (birthplace and origin)
+  origin: 'Baton Rouge, Louisiana, USA (birthplace and origin)'
 audio_profile:
-  tempo_avg: 119.0
+  tempo_avg: 119
   energy_avg: 0.496
   valence_avg: 0.477
   danceability_avg: 0.631
@@ -27,42 +27,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Alabaster Stag
-  - Tank and the Bangas, Boyfriend, Flow Tribe, Anna Wise, Seratones
+    - Alabaster Stag
+    - 'Tank and the Bangas, Boyfriend, Flow Tribe, Anna Wise, Seratones'
   influenced: []
   mentors:
-  - Clay Achee
+    - Clay Achee
 spotify_data:
   followers: 704327
   id: 3P4vW5tzQvmuoNaFQqzy9q
   popularity: 53
-  url: https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q
+  url: 'https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q'
 discography_enriched: true
 top_tracks:
-- shoreline
-- I Want To Be With You (Blood Bunny)
-- hate it
-- Silly Girl (Rabbit Hearted.)
-- Bugbear
-- 12 Fractures (The Jaws Of Life)
-- abyss
-- Manta Rays (Blood Bunny)
-- You’d Be Stars (feat. chloe moriondo) (One Sided)
-- Mr. Loverman (feat. Chloe Moriondo)
+  - shoreline
+  - I Want To Be With You (Blood Bunny)
+  - hate it
+  - Silly Girl (Rabbit Hearted.)
+  - Bugbear
+  - 12 Fractures (The Jaws Of Life)
+  - abyss
+  - Manta Rays (Blood Bunny)
+  - You’d Be Stars (feat. chloe moriondo) (One Sided)
+  - Mr. Loverman (feat. Chloe Moriondo)
 external_urls:
-  spotify: https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q
+  spotify: 'https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/Chloe_Marie.jpg
 biography_enhanced_at: '2025-10-19T12:00:51.264308'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.offbeat.com/news/chloe-marie-pulls-right-strings/
-- https://www.225batonrouge.com/our-city/meet-chloe-marie-baton-rouge-actress-songwriter-alabaster-stag-frontwoman
-- https://www.neworleans.com/listing/chlo%C3%A9-marie/48341/
+  - 'https://www.offbeat.com/news/chloe-marie-pulls-right-strings/'
+  - >-
+    https://www.225batonrouge.com/our-city/meet-chloe-marie-baton-rouge-actress-songwriter-alabaster-stag-frontwoman
+  - 'https://www.neworleans.com/listing/chlo%C3%A9-marie/48341/'
 network_extracted: true
 entry_created: '2025-10-19T12:00:51.264318'
 last_updated: '2025-12-23T08:16:01.500648'
+origin: 'Baton Rouge, Louisiana, United States'
+artist_type: person
 ---
 
 ![](Chloe_Marie.jpg)

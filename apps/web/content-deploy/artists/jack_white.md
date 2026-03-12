@@ -1,68 +1,68 @@
 ---
-title: jack white
+title: Jack White
 wiki_slug: jack-white
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1975-07-09'
-birth_place: Detroit
+birth_place: 'Detroit, Michigan, United States'
 genres:
-- blues rock
+  - blues rock
 instruments:
-- original
-- electric guitar
-- guitar
-- piano
-- acoustic guitar
-- electric bass guitar
-- bass guitar
-- Rhodes piano
-- lead vocals
-- background vocals
-- other vocals
-associated_acts:
-- begin: '1997'
-  end: '2011-02-02'
-  instruments:
   - original
-  mbid: 11ae9fbb-f3d7-4a47-936f-4c0a04d3b3b5
-  name: The White Stripes
-- begin: '1998'
-  end: '1999'
-  instruments: []
-  mbid: 89025cbd-7ce3-4b5a-ab59-de2859d58b23
-  name: The Go
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8b456736-fe99-4d33-ac69-cd267ee97b97
-  name: 2 Star Tabernacle
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: be407b02-f3e6-4ed5-9489-f8e5f0ab36dc
-  name: The Raconteurs
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 334bd887-9044-4c38-aebd-4baab851efb4
-  name: The Dead Weather
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ab33138d-2f61-4bcb-89fb-9d0c56522e16
-  name: The Upholsterers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 962b9083-46f3-4c5e-aa6a-c81cd01f5f7e
-  name: Jack White and The Bricks
-- begin: ''
-  end: ''
-  instruments:
   - electric guitar
-  mbid: 0674bec1-d848-4621-8170-a6c7f7cab710
-  name: Goober & the Peas
+  - guitar
+  - piano
+  - acoustic guitar
+  - electric bass guitar
+  - bass guitar
+  - Rhodes piano
+  - lead vocals
+  - background vocals
+  - other vocals
+associated_acts:
+  - begin: '1997'
+    end: '2011-02-02'
+    instruments:
+      - original
+    mbid: 11ae9fbb-f3d7-4a47-936f-4c0a04d3b3b5
+    name: The White Stripes
+  - begin: '1998'
+    end: '1999'
+    instruments: []
+    mbid: 89025cbd-7ce3-4b5a-ab59-de2859d58b23
+    name: The Go
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8b456736-fe99-4d33-ac69-cd267ee97b97
+    name: 2 Star Tabernacle
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: be407b02-f3e6-4ed5-9489-f8e5f0ab36dc
+    name: The Raconteurs
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 334bd887-9044-4c38-aebd-4baab851efb4
+    name: The Dead Weather
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ab33138d-2f61-4bcb-89fb-9d0c56522e16
+    name: The Upholsterers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 962b9083-46f3-4c5e-aa6a-c81cd01f5f7e
+    name: Jack White and The Bricks
+  - begin: ''
+    end: ''
+    instruments:
+      - electric guitar
+    mbid: 0674bec1-d848-4621-8170-a6c7f7cab710
+    name: Goober & the Peas
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jack_white.jpg
   caption: jack white
@@ -84,60 +84,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Meg White
-  - Brendan Benson
-  - Alison Mosshart
-  - Alicia Keys
-  - Loretta Lynn
-  - Bob Dylan
-  - Olivia Jean
+    - Meg White
+    - Brendan Benson
+    - Alison Mosshart
+    - Alicia Keys
+    - Loretta Lynn
+    - Bob Dylan
+    - Olivia Jean
   influenced:
-  - Multiple contemporary artists
+    - Multiple contemporary artists
   mentors:
-  - Brian Muldoon
+    - Brian Muldoon
 spotify_data:
   followers: 1422455
   id: 4FZ3j1oH43e7cukCALsCwf
   popularity: 56
-  url: https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf
+  url: 'https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf'
 discography_enriched: true
 top_tracks:
-- Don't Hurt Yourself (feat. Jack White) (Lemonade)
-- Lazaretto (Lazaretto)
-- That's How I'm Feeling (No Name)
-- Another Way to Die (As I Am (Expanded Edition))
-- Conrad Tokyo (feat. Kendrick Lamar & Jack White) (We got it from Here... Thank You 4 Your service)
-- Archbishop Harold Holmes (No Name)
-- Love Is Blindness
-- Bless Yourself (No Name)
-- Old Scratch Blues (No Name)
-- Sixteen Saltines (Blunderbuss)
+  - Don't Hurt Yourself (feat. Jack White) (Lemonade)
+  - Lazaretto (Lazaretto)
+  - That's How I'm Feeling (No Name)
+  - Another Way to Die (As I Am (Expanded Edition))
+  - >-
+    Conrad Tokyo (feat. Kendrick Lamar & Jack White) (We got it from Here...
+    Thank You 4 Your service)
+  - Archbishop Harold Holmes (No Name)
+  - Love Is Blindness
+  - Bless Yourself (No Name)
+  - Old Scratch Blues (No Name)
+  - Sixteen Saltines (Blunderbuss)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3ae2fb37-8a23-429d-9920-bac811c4fc22
-  spotify: https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf
-  wikipedia: https://en.wikipedia.org/wiki/Jack_White
+  musicbrainz: 'https://musicbrainz.org/artist/3ae2fb37-8a23-429d-9920-bac811c4fc22'
+  spotify: 'https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jack_White'
 image_path: 03_Resources/source_material/ArtistPortraits/jack_white.jpg
 biography_enhanced_at: '2025-11-28T07:38:43.648226'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Jack White
-- Last.fm - Jack White
-- Britannica - Jack White
-- WERS 88.9FM - Jack White's Long and Successful Career
-- Big Hassle - Jack White Bio
-- IMDb - Jack White
+  - Wikipedia - Jack White
+  - Last.fm - Jack White
+  - Britannica - Jack White
+  - WERS 88.9FM - Jack White's Long and Successful Career
+  - Big Hassle - Jack White Bio
+  - IMDb - Jack White
 network_extracted: true
 entry_created: '2025-11-28T07:38:43.648237'
 last_updated: '2025-12-23T08:16:10.033074'
-disambiguation: rock & blues multi‐instrumentalist, The White Stripes, Third Man Records
+disambiguation: 'rock & blues multi‐instrumentalist, The White Stripes, Third Man Records'
 gender: Male
 musicbrainz_id: 3ae2fb37-8a23-429d-9920-bac811c4fc22
 tags:
-- alternative rock
-- art rock
-- blues rock
-
+  - alternative rock
+  - art rock
+  - blues rock
+origin: 'Detroit, Michigan, United States'
 ---
 
 ![](jack_white.jpg)

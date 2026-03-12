@@ -4,7 +4,7 @@ wiki_slug: serapicos
 schema_version: 2
 status: active
 genres:
-- corrido
+  - corrido
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/serapicos.jpg
   caption: Serapicos
@@ -15,7 +15,7 @@ audio_profile:
   valence_avg: 0.787
   danceability_avg: 0.66
   acousticness_avg: 0.464
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -5.5
   speechiness_avg: 0.052
   liveness_avg: 0.193
@@ -24,48 +24,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Gabriel Serapicos
-  - Pedro Serapicos
-  - Matheus Souza
-  - Allan André
-  - Ana Guariglia
-  - Victória Vaz
-  - Caio Nazaro
+    - Gabriel Serapicos
+    - Pedro Serapicos
+    - Matheus Souza
+    - Allan André
+    - Ana Guariglia
+    - Victória Vaz
+    - Caio Nazaro
   influenced: []
   mentors: []
 spotify_data:
   followers: 47173
   id: 5zEu1AEBrzoPsIGwH0weYW
   popularity: 45
-  url: https://open.spotify.com/artist/5zEu1AEBrzoPsIGwH0weYW
+  url: 'https://open.spotify.com/artist/5zEu1AEBrzoPsIGwH0weYW'
 discography_enriched: true
 top_tracks:
-- Corrido Del Payaso (Corrido Del Payaso)
-- La Panchita (La Panchita)
-- El Comico (El Comico)
-- Corrido Del Talacho (Corrido Del Payaso)
-- El Regalo (Corrido Del Payaso)
-- La Primera Con Agua (La Primera Con Agua)
-- Borracho y Loco (Amor A Otro Nivel)
-- Los Sueños De Mi Dama (Amor A Otro Nivel)
-- Mi Virus (Mi Virus)
-- Mi Ultimo Rezo (Amor A Otro Nivel)
+  - Corrido Del Payaso (Corrido Del Payaso)
+  - La Panchita (La Panchita)
+  - El Comico (El Comico)
+  - Corrido Del Talacho (Corrido Del Payaso)
+  - El Regalo (Corrido Del Payaso)
+  - La Primera Con Agua (La Primera Con Agua)
+  - Borracho y Loco (Amor A Otro Nivel)
+  - Los Sueños De Mi Dama (Amor A Otro Nivel)
+  - Mi Virus (Mi Virus)
+  - Mi Ultimo Rezo (Amor A Otro Nivel)
 external_urls:
-  spotify: https://open.spotify.com/artist/5zEu1AEBrzoPsIGwH0weYW
+  spotify: 'https://open.spotify.com/artist/5zEu1AEBrzoPsIGwH0weYW'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/serapicos.jpg
 biography_enhanced_at: '2025-12-21T01:24:43.219393'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Rock On Stage – Stage News (Oct 2014) feature on Serapicos, including band history, lineup, album information and quotes
-  from vocalist Gabriel.[1]
-- Caipirinha Appreciation Society podcast tracklists and mentions, situating Serapicos within contemporary Brazilian independent
-  music playlists.[5]
+  - >-
+    Rock On Stage – Stage News (Oct 2014) feature on Serapicos, including band
+    history, lineup, album information and quotes from vocalist Gabriel.[1]
+  - >-
+    Caipirinha Appreciation Society podcast tracklists and mentions, situating
+    Serapicos within contemporary Brazilian independent music playlists.[5]
 network_extracted: true
 entry_created: '2025-12-21T01:24:43.219398'
 last_updated: '2025-12-23T08:16:15.484788'
-origin: São Paulo, São Paulo, Brazil
+origin: 'São Paulo, São Paulo, Brazil'
+artist_type: band
 ---
 
 ![](serapicos.jpg)

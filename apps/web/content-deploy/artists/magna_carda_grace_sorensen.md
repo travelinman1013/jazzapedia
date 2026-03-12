@@ -1,15 +1,15 @@
 ---
-title: Magna Carda, Grace Sorensen
+title: 'Magna Carda, Grace Sorensen'
 wiki_slug: magna-carda-grace-sorensen
 schema_version: 2
 status: active
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/magna_carda_grace_sorensen.jpg
-  caption: Magna Carda, Grace Sorensen
+  caption: 'Magna Carda, Grace Sorensen'
   background: solo_singer
 audio_profile:
-  tempo_avg: 120.0
+  tempo_avg: 120
   energy_avg: 0.62
   valence_avg: 0.505
   danceability_avg: 0.598
@@ -23,51 +23,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Magna Carda
-  - Lew Apollo
-  - BLK ODYSSY
-  - Eric 'The Greek' Nikolaides
-  - Derek Van Wagner
-  - Michael 'Brotha Mike' Gonzales
+    - Magna Carda
+    - Lew Apollo
+    - BLK ODYSSY
+    - Eric 'The Greek' Nikolaides
+    - Derek Van Wagner
+    - Michael 'Brotha Mike' Gonzales
   influenced:
-  - Emerging Austin R&B and hip-hop artists
+    - Emerging Austin R&B and hip-hop artists
   mentors:
-  - Matt Noveskey
-  - Victor Gaspar
+    - Matt Noveskey
+    - Victor Gaspar
 spotify_data:
   followers: 7670
   id: 0Akzjllih1lP7k60c8Dtct
   popularity: 19
-  url: https://open.spotify.com/artist/0Akzjllih1lP7k60c8Dtct
+  url: 'https://open.spotify.com/artist/0Akzjllih1lP7k60c8Dtct'
 discography_enriched: true
 top_tracks:
-- Digits (Digits)
-- The Root (Cirqlation)
-- Running With The Clouds (Mercedez Babies)
-- Temptation (Temptation)
-- Angels/Devils (Mercedez Babies)
-- Co-Sign It (Mercedez Babies)
-- Cowboy (Cowboy)
-- Somewhere Between (Somewhere Between)
-- HOME (Little Trumpet (Original Motion Picture Soundtrack))
-- Back Then (Somewhere Between)
+  - Digits (Digits)
+  - The Root (Cirqlation)
+  - Running With The Clouds (Mercedez Babies)
+  - Temptation (Temptation)
+  - Angels/Devils (Mercedez Babies)
+  - Co-Sign It (Mercedez Babies)
+  - Cowboy (Cowboy)
+  - Somewhere Between (Somewhere Between)
+  - HOME (Little Trumpet (Original Motion Picture Soundtrack))
+  - Back Then (Somewhere Between)
 external_urls:
-  spotify: https://open.spotify.com/artist/0Akzjllih1lP7k60c8Dtct
+  spotify: 'https://open.spotify.com/artist/0Akzjllih1lP7k60c8Dtct'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/magna_carda_grace_sorensen.jpg
 biography_enhanced_at: '2025-11-03T07:54:39.062099'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://austinmusicfoundation.org/magna-carda/
-- https://austinmusicfoundation.org/gracesorensen/
-- https://viberate.com/artist/grace-sorensen/
-- https://onestowatch.com/en/blog/grace-sorensen-blueprint-interview
-- https://kutx.org/kutx-presents/kutx-live-at-scholz-garten-2/
+  - 'https://austinmusicfoundation.org/magna-carda/'
+  - 'https://austinmusicfoundation.org/gracesorensen/'
+  - 'https://viberate.com/artist/grace-sorensen/'
+  - 'https://onestowatch.com/en/blog/grace-sorensen-blueprint-interview'
+  - 'https://kutx.org/kutx-presents/kutx-live-at-scholz-garten-2/'
 network_extracted: true
 entry_created: '2025-11-03T07:54:39.062108'
 last_updated: '2025-12-23T08:16:12.511655'
-origin: Austin, Texas, United States
+origin: 'Austin, Texas, United States'
+birth_place: 'San Antonio, Texas, United States'
+artist_type: person
 ---
 
 ![](magna_carda_grace_sorensen.jpg)

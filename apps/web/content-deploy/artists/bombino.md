@@ -5,23 +5,23 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1980-01-01'
-birth_place: Agadez
+birth_place: 'Tidene, Agadez, Niger'
 genres:
-- gnawa
+  - gnawa
 instruments:
-- eponymous
-- original
-- guitar
-- bass guitar
-- lead vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
-  mbid: 86fbd569-3b70-4eb0-a33a-841b8d5daa0d
-  name: Group Bombino
+  - guitar
+  - bass guitar
+  - lead vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 86fbd569-3b70-4eb0-a33a-841b8d5daa0d
+    name: Group Bombino
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bombino.jpg
   caption: Bombino
@@ -29,7 +29,7 @@ infobox:
   born: '1980-01-01'
   origin: Agadez
 audio_profile:
-  tempo_avg: 129.0
+  tempo_avg: 129
   energy_avg: 0.703
   valence_avg: 0.56
   danceability_avg: 0.471
@@ -43,43 +43,43 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ron Wyman
-  - Keith Richards & Charlie Watts (Rolling Stones)
-  - Tidawt
+    - Ron Wyman
+    - Keith Richards & Charlie Watts (Rolling Stones)
+    - Tidawt
   influenced:
-  - Mdou Moctar
+    - Mdou Moctar
   mentors:
-  - Haja Bebe
+    - Haja Bebe
 spotify_data:
   followers: 113890
   id: 7s4I6rDvTcdBDKElVbtsAN
   popularity: 36
-  url: https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN
+  url: 'https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN'
 discography_enriched: true
 top_tracks:
-- Tamiditine (Nomad)
-- Tarha
-- Imuhar (Nomad)
-- Amidinine (Nomad)
-- Midiwan (My Friends) (Deran)
-- La Sombra (feat. Bombino) (Residente)
-- Iyat Ninhay / Jaguar (A Great Desert I Saw) (Azel)
-- Tar Hani (My Love) (Agadez)
-- Iwaranagh (We Must) (Azel)
-- El Árbol de los Venenos (Caldero)
+  - Tamiditine (Nomad)
+  - Tarha
+  - Imuhar (Nomad)
+  - Amidinine (Nomad)
+  - Midiwan (My Friends) (Deran)
+  - La Sombra (feat. Bombino) (Residente)
+  - Iyat Ninhay / Jaguar (A Great Desert I Saw) (Azel)
+  - Tar Hani (My Love) (Agadez)
+  - Iwaranagh (We Must) (Azel)
+  - El Árbol de los Venenos (Caldero)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d7613e57-4383-454a-8b26-b1e7c28cb740
-  spotify: https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN
-  wikipedia: https://en.wikipedia.org/wiki/Bombino_(musician)
+  musicbrainz: 'https://musicbrainz.org/artist/d7613e57-4383-454a-8b26-b1e7c28cb740'
+  spotify: 'https://open.spotify.com/artist/7s4I6rDvTcdBDKElVbtsAN'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bombino_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/bombino.jpg
 biography_enhanced_at: '2025-10-24T07:57:35.655517'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://www.bombinomusic.com/bio
-- https://en.wikipedia.org/wiki/Bombino_(musician)
-- https://www.musicalista.it/en/artisti/bombino-2/
-- https://worldmusiccentral.org/artist-profiles-bombino/
+  - 'http://www.bombinomusic.com/bio'
+  - 'https://en.wikipedia.org/wiki/Bombino_(musician)'
+  - 'https://www.musicalista.it/en/artisti/bombino-2/'
+  - 'https://worldmusiccentral.org/artist-profiles-bombino/'
 network_extracted: true
 entry_created: '2025-10-24T07:57:35.655526'
 last_updated: '2025-12-23T08:16:05.907353'
@@ -87,9 +87,10 @@ disambiguation: Tuareg singer-songwriter Omara Moctar
 gender: Male
 musicbrainz_id: d7613e57-4383-454a-8b26-b1e7c28cb740
 tags:
-- blues
-- desert blues
-- rock
+  - blues
+  - desert blues
+  - rock
+origin: 'Agadez, Agadez, Niger'
 ---
 
 ![](bombino.jpg)

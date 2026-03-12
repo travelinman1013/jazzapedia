@@ -2,27 +2,28 @@
 title: Teddy Wilson and His Orchestra
 wiki_slug: teddy-wilson-and-his-orchestra
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- jazz
-- swing music
-- big band
-- vocal jazz
+  - jazz
+  - swing music
+  - big band
+  - vocal jazz
 instruments:
-- clarinet
-- tenor saxophone
-- drums (drum set)
-- bass
-- trumpet
-- alto saxophone
-- double bass
-- guitar
-- eponymous
-- original
-- piano
+  - clarinet
+  - tenor saxophone
+  - drums (drum set)
+  - bass
+  - trumpet
+  - alto saxophone
+  - double bass
+  - guitar
+  - eponymous
+  - original
+  - piano
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/teddy_wilson_and_his_orchestra.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/teddy_wilson_and_his_orchestra.jpg
   caption: Teddy Wilson and His Orchestra
   background: group_or_band
 audio_profile:
@@ -40,176 +41,181 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Benny Goodman
-  - Billie Holiday
-  - Mildred Bailey
-  - Louis Armstrong
-  - Count Basie and Duke Ellington band soloists
+    - Benny Goodman
+    - Billie Holiday
+    - Mildred Bailey
+    - Louis Armstrong
+    - Count Basie and Duke Ellington band soloists
   influenced:
-  - Red Garland
-  - Cedar Walton
-  - Generations of swing and modern jazz pianists
+    - Red Garland
+    - Cedar Walton
+    - Generations of swing and modern jazz pianists
   mentors:
-  - Earl Hines
-  - John Hammond
+    - Earl Hines
+    - John Hammond
 spotify_data:
   followers: 43291
   id: 0tg5uVI4VjzZOFzBryJZii
   popularity: 49
-  url: https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii
+  url: 'https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii'
 discography_enriched: true
 top_tracks:
-- Fools Rush In (The Noble Art Of Teddy Wilson)
-- Easy Living (with Teddy Wilson & His Orchestra)
-- 'Moonglow (Essential Classics, Vol. 24: Teddy Wilson)'
-- Moonglow - Take 1 (The Fabulous Benny Goodman)
-- My Funny Valentine (Jazz 'Round Midnight)
-- Stompin' At The Savoy - 1956 Version (I Got Rhythm)
-- Say It Isn't So (I Got Rhythm)
-- Gloomy Sunday (with Teddy Wilson & His Orchestra) - Take 1
-- Easy Living (06-01-37) (Complete Jazz Series 1937)
-- When You're Smiling (The Whole World Smiles with You) (with Teddy Wilson & His Orchestra) - Take 3
+  - Fools Rush In (The Noble Art Of Teddy Wilson)
+  - Easy Living (with Teddy Wilson & His Orchestra)
+  - 'Moonglow (Essential Classics, Vol. 24: Teddy Wilson)'
+  - Moonglow - Take 1 (The Fabulous Benny Goodman)
+  - My Funny Valentine (Jazz 'Round Midnight)
+  - Stompin' At The Savoy - 1956 Version (I Got Rhythm)
+  - Say It Isn't So (I Got Rhythm)
+  - Gloomy Sunday (with Teddy Wilson & His Orchestra) - Take 1
+  - Easy Living (06-01-37) (Complete Jazz Series 1937)
+  - >-
+    When You're Smiling (The Whole World Smiles with You) (with Teddy Wilson &
+    His Orchestra) - Take 3
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3cd95572-1af4-466f-a7f2-a65f15c934b3
-  spotify: https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii
-  wikipedia: https://en.wikipedia.org/wiki/Teddy_Wilson
-image_path: 03_Resources/source_material/ArtistPortraits/teddy_wilson_and_his_orchestra.jpg
+  musicbrainz: 'https://musicbrainz.org/artist/3cd95572-1af4-466f-a7f2-a65f15c934b3'
+  spotify: 'https://open.spotify.com/artist/0tg5uVI4VjzZOFzBryJZii'
+  wikipedia: 'https://en.wikipedia.org/wiki/Teddy_Wilson'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/teddy_wilson_and_his_orchestra.jpg
 biography_enhanced_at: '2025-12-14T01:44:30.817147'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Encyclopaedia Britannica biography of Teddy Wilson[1]
-- Texas State Historical Association entry on Theodore Shaw ‘Teddy’ Wilson[2]
-- Teddy Wilson entry on Wikipedia[3]
-- 'Profiles in Jazz: Teddy Wilson – The Syncopated Times[4]'
-- KUTX ‘This Week in Texas Music History’ segment on Teddy Wilson[5]
-- Texas Music Museum profile of Teddy Wilson[6]
-- National Endowment for the Arts Jazz Masters profile of Teddy Wilson[7]
-- DownBeat archive article ‘The Impeccable Mr. Wilson’[8]
-- BlackPast.org biography of Teddy Wilson[9]
-- Austin Jazz Society Hall of Fame note on Teddy Wilson[10]
+  - 'Encyclopaedia Britannica biography of Teddy Wilson[1]'
+  - 'Texas State Historical Association entry on Theodore Shaw ‘Teddy’ Wilson[2]'
+  - 'Teddy Wilson entry on Wikipedia[3]'
+  - 'Profiles in Jazz: Teddy Wilson – The Syncopated Times[4]'
+  - 'KUTX ‘This Week in Texas Music History’ segment on Teddy Wilson[5]'
+  - 'Texas Music Museum profile of Teddy Wilson[6]'
+  - 'National Endowment for the Arts Jazz Masters profile of Teddy Wilson[7]'
+  - 'DownBeat archive article ‘The Impeccable Mr. Wilson’[8]'
+  - 'BlackPast.org biography of Teddy Wilson[9]'
+  - 'Austin Jazz Society Hall of Fame note on Teddy Wilson[10]'
 network_extracted: true
 entry_created: '2025-12-14T01:44:30.817152'
 last_updated: '2025-12-23T08:16:16.452725'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - clarinet
-  mbid: 20a72e06-2568-4637-a283-1f99f81e82bb
-  name: Buster Bailey
-- begin: ''
-  end: ''
-  instruments:
-  - tenor saxophone
-  mbid: bf4b276e-b71c-43d3-a943-1067706b7765
-  name: Leon “Chu” Berry
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 25cf5731-bed9-4604-97a4-8b9655de1a30
-  name: Benny Carter
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 7f35e102-b02b-4e51-a1cf-9586b7f5e904
-  name: Sid Catlett
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 87e11371-46c7-4f7a-8fa0-9548a9569989
-  name: Pete Clark
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 7fc949db-cc94-4196-ac79-245471930008
-  name: Cozy Cole
-- begin: ''
-  end: ''
-  instruments:
-  - bass
-  mbid: 354cbda4-f966-4cf6-b3a0-d37a73199e6f
-  name: Israel Crosby
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: 58234c8b-954e-4617-9c7e-4a8712f41a23
-  name: Roy Eldridge
-- begin: ''
-  end: ''
-  instruments:
-  - clarinet
-  mbid: b09ae88f-4156-4caa-b129-1cacb5e1632e
-  name: Benny Goodman
-- begin: ''
-  end: ''
-  instruments:
-  - tenor saxophone
-  mbid: 9341e699-12de-472c-b246-7e248f81d759
-  name: George Irish
-- begin: ''
-  end: ''
-  instruments:
-  - alto saxophone
-  mbid: fadcfecc-6ecf-4e5c-a43b-fa67a4defb5c
-  name: Hilton Jefferson
-- begin: ''
-  end: ''
-  instruments:
-  - double bass
-  mbid: 34866882-9929-4bb4-80ce-125958a6560b
-  name: John Kirby
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: eda47971-43b4-4123-b2d0-f8e840645476
-  name: Bob Lessey
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: 450caafb-6bd2-4c4a-8ca4-c1e4c86697f4
-  name: Lawrence Lucie
-- begin: ''
-  end: ''
-  instruments:
-  - clarinet
-  mbid: 6e22f323-f137-45de-a905-8ed98ea7c95e
-  name: Cecil Scott
-- begin: ''
-  end: ''
-  instruments:
-  - double bass
-  mbid: c94b7a51-f039-434e-a04e-e124fd590b20
-  name: Lee Stanfield
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: d4a2c052-46cd-4608-8ddf-50d5aaab3c5c
-  name: John Trueheart
-- begin: ''
-  end: ''
-  instruments:
-  - tenor saxophone
-  mbid: e28c0b26-3bdb-45dc-b4f5-f309c7c35ec4
-  name: Ben Webster
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  - piano
-  mbid: 2e89725a-ac85-414c-b3b2-70f0a82fae9a
-  name: Teddy Wilson
+  - begin: ''
+    end: ''
+    instruments:
+      - clarinet
+    mbid: 20a72e06-2568-4637-a283-1f99f81e82bb
+    name: Buster Bailey
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: bf4b276e-b71c-43d3-a943-1067706b7765
+    name: Leon “Chu” Berry
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 25cf5731-bed9-4604-97a4-8b9655de1a30
+    name: Benny Carter
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 7f35e102-b02b-4e51-a1cf-9586b7f5e904
+    name: Sid Catlett
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 87e11371-46c7-4f7a-8fa0-9548a9569989
+    name: Pete Clark
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 7fc949db-cc94-4196-ac79-245471930008
+    name: Cozy Cole
+  - begin: ''
+    end: ''
+    instruments:
+      - bass
+    mbid: 354cbda4-f966-4cf6-b3a0-d37a73199e6f
+    name: Israel Crosby
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: 58234c8b-954e-4617-9c7e-4a8712f41a23
+    name: Roy Eldridge
+  - begin: ''
+    end: ''
+    instruments:
+      - clarinet
+    mbid: b09ae88f-4156-4caa-b129-1cacb5e1632e
+    name: Benny Goodman
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: 9341e699-12de-472c-b246-7e248f81d759
+    name: George Irish
+  - begin: ''
+    end: ''
+    instruments:
+      - alto saxophone
+    mbid: fadcfecc-6ecf-4e5c-a43b-fa67a4defb5c
+    name: Hilton Jefferson
+  - begin: ''
+    end: ''
+    instruments:
+      - double bass
+    mbid: 34866882-9929-4bb4-80ce-125958a6560b
+    name: John Kirby
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: eda47971-43b4-4123-b2d0-f8e840645476
+    name: Bob Lessey
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 450caafb-6bd2-4c4a-8ca4-c1e4c86697f4
+    name: Lawrence Lucie
+  - begin: ''
+    end: ''
+    instruments:
+      - clarinet
+    mbid: 6e22f323-f137-45de-a905-8ed98ea7c95e
+    name: Cecil Scott
+  - begin: ''
+    end: ''
+    instruments:
+      - double bass
+    mbid: c94b7a51-f039-434e-a04e-e124fd590b20
+    name: Lee Stanfield
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: d4a2c052-46cd-4608-8ddf-50d5aaab3c5c
+    name: John Trueheart
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: e28c0b26-3bdb-45dc-b4f5-f309c7c35ec4
+    name: Ben Webster
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - piano
+    mbid: 2e89725a-ac85-414c-b3b2-70f0a82fae9a
+    name: Teddy Wilson
 musicbrainz_id: 3cd95572-1af4-466f-a7f2-a65f15c934b3
-origin: Austin, Texas, United States
+origin: 'Austin, Texas, United States'
 tags:
-- jazz
+  - jazz
+birth_place: 'Austin, Texas, United States'
+birth_date: '1912'
 ---
 
 ![](teddy_wilson_and_his_orchestra.jpg)

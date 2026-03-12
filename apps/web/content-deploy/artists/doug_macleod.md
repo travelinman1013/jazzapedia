@@ -5,12 +5,12 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1946-04-21'
-birth_place: New York
+birth_place: 'New York City, New York, United States'
 genres:
-- blues
-- modern blues
+  - blues
+  - modern blues
 instruments:
-- guitar
+  - guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/doug_macleod.jpg
   caption: Doug MacLeod
@@ -32,55 +32,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Big Joe Turner
-  - Pee Wee Crayton
-  - Eddie 'Cleanhead' Vinson
-  - Lowell Fulson
-  - Big Mama Thornton
+    - Big Joe Turner
+    - Pee Wee Crayton
+    - Eddie 'Cleanhead' Vinson
+    - Lowell Fulson
+    - Big Mama Thornton
   influenced:
-  - Albert King
-  - Albert Collins
-  - Joe Louis Walker
-  - Eva Cassidy
+    - Albert King
+    - Albert Collins
+    - Joe Louis Walker
+    - Eva Cassidy
   mentors:
-  - Ernest Banks
-  - George 'Harmonica' Smith
+    - Ernest Banks
+    - George 'Harmonica' Smith
 spotify_data:
   followers: 7236
   id: 74TtiqgtscsnZGa84SHolz
   popularity: 22
-  url: https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz
+  url: 'https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz'
 discography_enriched: true
 top_tracks:
-- I'm Gone (Raw Blues 1)
-- Mystery Woman (Come to Find)
-- Money Talks (A Soul to Claim)
-- Rosa Lee (There's a Time)
-- Only Porter at the Station (A Soul to Claim)
-- Black Nights (There's a Time)
-- Come to Find (Come to Find)
-- Lobby Money
-- Mud Island Morning (A Soul to Claim)
-- Send the Soul on Home
+  - I'm Gone (Raw Blues 1)
+  - Mystery Woman (Come to Find)
+  - Money Talks (A Soul to Claim)
+  - Rosa Lee (There's a Time)
+  - Only Porter at the Station (A Soul to Claim)
+  - Black Nights (There's a Time)
+  - Come to Find (Come to Find)
+  - Lobby Money
+  - Mud Island Morning (A Soul to Claim)
+  - Send the Soul on Home
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8a53e168-c1f1-4b55-ac96-da3a69d9e240
-  spotify: https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz
-  wikipedia: https://en.wikipedia.org/wiki/Doug_MacLeod_(musician)
+  musicbrainz: 'https://musicbrainz.org/artist/8a53e168-c1f1-4b55-ac96-da3a69d9e240'
+  spotify: 'https://open.spotify.com/artist/74TtiqgtscsnZGa84SHolz'
+  wikipedia: 'https://en.wikipedia.org/wiki/Doug_MacLeod_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/doug_macleod.jpg
 biography_enhanced_at: '2025-10-23T07:32:59.408971'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Doug_MacLeod_(musician)
-- https://www.doug-macleod.com/biography.html
+  - 'https://en.wikipedia.org/wiki/Doug_MacLeod_(musician)'
+  - 'https://www.doug-macleod.com/biography.html'
 network_extracted: true
 entry_created: '2025-10-23T07:32:59.409122'
 last_updated: '2025-12-23T08:16:07.990485'
 gender: Male
 musicbrainz_id: 8a53e168-c1f1-4b55-ac96-da3a69d9e240
 tags:
-- blues
-
+  - blues
+origin: 'St. Louis, Missouri, United States'
 ---
 
 ![](doug_macleod.jpg)

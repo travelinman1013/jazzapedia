@@ -2,18 +2,18 @@
 title: Missy Elliott
 wiki_slug: missy-elliott
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1971-07-01'
-birth_place: Portsmouth, Virginia, United States
+birth_place: 'Portsmouth, Virginia, United States'
 genres:
-- hip hop
+  - hip hop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Missy_Elliott.jpg
   caption: Missy Elliott
   background: solo_singer
   born: '1971-07-01'
-  origin: Portsmouth, Virginia, United States
+  origin: 'Portsmouth, Virginia, United States'
 audio_profile:
   tempo_avg: 112.5
   energy_avg: 0.651
@@ -29,58 +29,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Timbaland
-  - Aaliyah
-  - Lil' Kim
-  - Jay-Z
-  - Beyoncé
+    - Timbaland
+    - Aaliyah
+    - Lil' Kim
+    - Jay-Z
+    - Beyoncé
   influenced:
-  - Nicki Minaj
-  - Beyoncé
-  - Lizzo
+    - Nicki Minaj
+    - Beyoncé
+    - Lizzo
   mentors:
-  - DeVante Swing
+    - DeVante Swing
 spotify_data:
   followers: 2735094
   id: 2wIVse2owClT7go1WT98tk
   popularity: 68
-  url: https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk
+  url: 'https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk'
 discography_enriched: true
 top_tracks:
-- 1, 2 Step (feat. Missy Elliott) (Goodies)
-- Work It
-- Get Ur Freak On (Miss E... So Addictive)
-- Lose Control (feat. Ciara & Fat Man Scoop)
-- RATATA
-- 'Nobody''s Perfect (Cole World: The Sideline Story)'
-- Let It Go
-- Bounce (Shock Value)
-- Fly Girl (feat. Missy Elliott)
-- Oops (Oh My) [feat. Missy Elliott]
+  - '1, 2 Step (feat. Missy Elliott) (Goodies)'
+  - Work It
+  - Get Ur Freak On (Miss E... So Addictive)
+  - Lose Control (feat. Ciara & Fat Man Scoop)
+  - RATATA
+  - 'Nobody''s Perfect (Cole World: The Sideline Story)'
+  - Let It Go
+  - Bounce (Shock Value)
+  - Fly Girl (feat. Missy Elliott)
+  - 'Oops (Oh My) [feat. Missy Elliott]'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a0b8cb9e-7532-45fe-a74c-30e7c4009a39
-  spotify: https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk
-  wikipedia: https://en.wikipedia.org/wiki/Missy_Elliott
+  musicbrainz: 'https://musicbrainz.org/artist/a0b8cb9e-7532-45fe-a74c-30e7c4009a39'
+  spotify: 'https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk'
+  wikipedia: 'https://en.wikipedia.org/wiki/Missy_Elliott'
 image_path: 03_Resources/source_material/ArtistPortraits/Missy_Elliott.jpg
 biography_enhanced_at: '2025-10-20T01:59:46.101662'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Missy_Elliott
-- https://www.biography.com/musicians/missy-elliott
-- https://www.hiphopscriptures.com/missy-elliott
-- https://wers.org/missy-elliott-a-trailblazing-woman-in-music-and-culture/
+  - 'https://en.wikipedia.org/wiki/Missy_Elliott'
+  - 'https://www.biography.com/musicians/missy-elliott'
+  - 'https://www.hiphopscriptures.com/missy-elliott'
+  - 'https://wers.org/missy-elliott-a-trailblazing-woman-in-music-and-culture/'
 network_extracted: true
 entry_created: '2025-10-20T01:59:46.101681'
 last_updated: '2025-12-23T08:16:03.354119'
-disambiguation: American rapper, singer, dancer & record producer
+disambiguation: 'American rapper, singer, dancer & record producer'
 gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:38:25.944329'
 musicbrainz_id: a0b8cb9e-7532-45fe-a74c-30e7c4009a39
 tags:
-- contemporary r&b
-- hip hop
-- hip house
+  - contemporary r&b
+  - hip hop
+  - hip house
 ---
 
 ![](Missy_Elliott.jpg)

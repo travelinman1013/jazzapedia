@@ -1,22 +1,22 @@
 ---
-title: suzy bogguss
+title: Suzy Bogguss
 wiki_slug: suzy-bogguss
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1956-12-30'
-birth_place: Aledo
+birth_place: 'Aledo, Illinois, United States'
 genres:
-- classic country
+  - classic country
 instruments:
-- background vocals
-- lead vocals
+  - background vocals
+  - lead vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: aeabe760-83e9-44cb-86d0-980d303bad98
-  name: The Red Hots
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: aeabe760-83e9-44cb-86d0-980d303bad98
+    name: The Red Hots
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/suzy_bogguss.jpg
   caption: suzy bogguss
@@ -29,7 +29,7 @@ audio_profile:
   valence_avg: 0.478
   danceability_avg: 0.591
   acousticness_avg: 0.511
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -9.6
   speechiness_avg: 0.03
   liveness_avg: 0.127
@@ -38,54 +38,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Doug Crider
-  - Lee Greenwood
-  - Tommy Emmanuel
+    - Doug Crider
+    - Lee Greenwood
+    - Tommy Emmanuel
   influenced:
-  - Contemporary country artists
+    - Contemporary country artists
   mentors:
-  - Chet Atkins
-  - Ray Benson
+    - Chet Atkins
+    - Ray Benson
 spotify_data:
   followers: 129469
   id: 13YoXxZt6SLg96dQE1vkHy
   popularity: 40
-  url: https://open.spotify.com/artist/13YoXxZt6SLg96dQE1vkHy
+  url: 'https://open.spotify.com/artist/13YoXxZt6SLg96dQE1vkHy'
 discography_enriched: true
 top_tracks:
-- Someday Soon (Aces)
-- Somewhere Between (Somewhere Between)
-- Aces (Aces)
-- Outbound Plane (Aces)
-- Guilty As They Come (Somewhere Between)
-- Other Side Of The Hill (Voices In The Wind)
-- Two Shades Of Blue (Simpatico)
-- Hopelessly Yours (A Perfect 10)
-- Red River Valley (American Folk Songbook)
-- Hey Cinderella (Something Up My Sleeve)
+  - Someday Soon (Aces)
+  - Somewhere Between (Somewhere Between)
+  - Aces (Aces)
+  - Outbound Plane (Aces)
+  - Guilty As They Come (Somewhere Between)
+  - Other Side Of The Hill (Voices In The Wind)
+  - Two Shades Of Blue (Simpatico)
+  - Hopelessly Yours (A Perfect 10)
+  - Red River Valley (American Folk Songbook)
+  - Hey Cinderella (Something Up My Sleeve)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/37d4bb9c-422b-4032-abfc-479dfdc64bbd
-  spotify: https://open.spotify.com/artist/13YoXxZt6SLg96dQE1vkHy
-  wikipedia: https://en.wikipedia.org/wiki/Suzy_Bogguss
+  musicbrainz: 'https://musicbrainz.org/artist/37d4bb9c-422b-4032-abfc-479dfdc64bbd'
+  spotify: 'https://open.spotify.com/artist/13YoXxZt6SLg96dQE1vkHy'
+  wikipedia: 'https://en.wikipedia.org/wiki/Suzy_Bogguss'
 image_path: 03_Resources/source_material/ArtistPortraits/suzy_bogguss.jpg
 biography_enhanced_at: '2025-11-04T11:04:36.507409'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Suzy_Bogguss
-- https://www.suzybogguss.com/bio
-- https://swco-ir.tdl.org/bitstreams/a7900f10-216b-4f6a-ba66-d746718020cf/download
-- https://www.wmot.org/show/the-string/2024-04-02/with-all-original-songs-suzy-bogguss-is-back-in-the-sunshine
-- https://www.thefencepost.com/news/suzy-bogguss-country-western-singer/
+  - 'https://en.wikipedia.org/wiki/Suzy_Bogguss'
+  - 'https://www.suzybogguss.com/bio'
+  - >-
+    https://swco-ir.tdl.org/bitstreams/a7900f10-216b-4f6a-ba66-d746718020cf/download
+  - >-
+    https://www.wmot.org/show/the-string/2024-04-02/with-all-original-songs-suzy-bogguss-is-back-in-the-sunshine
+  - 'https://www.thefencepost.com/news/suzy-bogguss-country-western-singer/'
 network_extracted: true
 entry_created: '2025-11-04T11:04:36.507418'
 last_updated: '2025-12-23T08:16:16.273478'
 gender: Female
 musicbrainz_id: 37d4bb9c-422b-4032-abfc-479dfdc64bbd
 tags:
-- american
-- classic pop and rock
-- contemporary country
+  - american
+  - classic pop and rock
+  - contemporary country
 ---
 
 ![](suzy_bogguss.jpg)

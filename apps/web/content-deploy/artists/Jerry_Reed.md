@@ -2,21 +2,21 @@
 title: Jerry Reed
 wiki_slug: jerry-reed
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1937-03-20'
-birth_place: Atlanta, Georgia, United States
+birth_place: 'Atlanta, Georgia, United States'
 death_date: '2008-09-01'
 genres:
-- country
+  - country
 instruments:
-- original
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Jerry_Reed.jpg
   caption: Jerry Reed
   background: non_vocal_instrumentalist
   born: '1937-03-20'
-  origin: Atlanta, Georgia, United States
+  origin: 'Atlanta, Georgia, United States'
   died: '2008-09-01'
 audio_profile:
   tempo_avg: 116.8
@@ -33,48 +33,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Elvis Presley
-  - Waylon Jennings
-  - Willie Nelson
-  - Burt Reynolds
+    - Elvis Presley
+    - Waylon Jennings
+    - Willie Nelson
+    - Burt Reynolds
   influenced:
-  - Brad Paisley
-  - Steve Wariner
-  - Brent Mason
+    - Brad Paisley
+    - Steve Wariner
+    - Brent Mason
   mentors:
-  - Chet Atkins
-  - Merle Travis
+    - Chet Atkins
+    - Merle Travis
 spotify_data:
   followers: 477087
   id: 3kvy8do7n0qVqvlNFS4yOF
   popularity: 53
-  url: https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF
+  url: 'https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF'
 discography_enriched: true
 top_tracks:
-- East Bound and Down (East Bound and Down)
-- Amos Moses (Georgia Sunshine)
-- The Bandit (East Bound and Down)
-- East Bound and Down (The Essential Jerry Reed)
-- West Bound And Down
-- The Legend
-- She Got the Goldmine (I Got the Shaft) (The Man with the Golden Thumb)
-- East Bound And Down
-- Amos Moses (The Essential Jerry Reed)
-- She Got the Goldmine (I Got the Shaft) (The Essential Jerry Reed)
+  - East Bound and Down (East Bound and Down)
+  - Amos Moses (Georgia Sunshine)
+  - The Bandit (East Bound and Down)
+  - East Bound and Down (The Essential Jerry Reed)
+  - West Bound And Down
+  - The Legend
+  - She Got the Goldmine (I Got the Shaft) (The Man with the Golden Thumb)
+  - East Bound And Down
+  - Amos Moses (The Essential Jerry Reed)
+  - She Got the Goldmine (I Got the Shaft) (The Essential Jerry Reed)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/44419ff2-0251-49ba-933b-b09733ff9adb
-  spotify: https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF
-  wikipedia: https://en.wikipedia.org/wiki/Jerry_Reed
+  musicbrainz: 'https://musicbrainz.org/artist/44419ff2-0251-49ba-933b-b09733ff9adb'
+  spotify: 'https://open.spotify.com/artist/3kvy8do7n0qVqvlNFS4yOF'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jerry_Reed'
 image_path: 03_Resources/source_material/ArtistPortraits/Jerry_Reed.jpg
 biography_enhanced_at: '2025-10-20T01:49:22.477654'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jerry_Reed
-- https://www.georgiaencyclopedia.org/articles/arts-culture/jerry-reed-1937-2008/
-- https://countrymusichalloffame.org/exhibit/dylan-cash-and-the-nashville-cats-a-new-music-city/the-nashville-cats/jerry-reed/
-- https://learnguitarcafe.com/jerry-reed/
-- https://www.imdb.com/name/nm0715274/bio/
+  - 'https://en.wikipedia.org/wiki/Jerry_Reed'
+  - >-
+    https://www.georgiaencyclopedia.org/articles/arts-culture/jerry-reed-1937-2008/
+  - >-
+    https://countrymusichalloffame.org/exhibit/dylan-cash-and-the-nashville-cats-a-new-music-city/the-nashville-cats/jerry-reed/
+  - 'https://learnguitarcafe.com/jerry-reed/'
+  - 'https://www.imdb.com/name/nm0715274/bio/'
 network_extracted: true
 entry_created: '2025-10-20T01:49:22.477675'
 last_updated: '2025-12-23T08:16:02.524958'
@@ -82,9 +84,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:31:08.711546'
 musicbrainz_id: 44419ff2-0251-49ba-933b-b09733ff9adb
 tags:
-- country
-- singer-songwriter
-
+  - country
+  - singer-songwriter
+is_active: false
+origin: 'Nashville, Tennessee, United States'
 ---
 
 ![](Jerry_Reed.jpg)

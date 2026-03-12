@@ -8,9 +8,9 @@ birth_date: '1954-06-29'
 death_date: '1992-01-22'
 years_active: 1978–1988
 genres:
-- post-disco
+  - post-disco
 occupation:
-- musician
+  - musician
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/General_Caine.jpg
   caption: General Caine
@@ -32,52 +32,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Johnny Guitar Carson
-  - P-Funk members (Dawn, Fred, Maceo, Ray, Kevin Goins)
+    - Johnny Guitar Carson
+    - 'P-Funk members (Dawn, Fred, Maceo, Ray, Kevin Goins)'
   influenced:
-  - None documented
+    - None documented
   mentors:
-  - Officer at Military School
+    - Officer at Military School
 related_artists: []
 spotify_data:
   followers: 3539
   id: 4TEnX645RxRiSlddJbyuSW
   popularity: 14
-  url: https://open.spotify.com/artist/4TEnX645RxRiSlddJbyuSW
+  url: 'https://open.spotify.com/artist/4TEnX645RxRiSlddJbyuSW'
   verified: false
 discography_enriched: true
 albums_count: 4
 singles_count: 0
 top_tracks:
-- Get Closer (Dangerous)
-- Yellow Pages (Dangerous)
-- For Lovers Only (Girls)
-- Girls (Girls)
-- LRJ Pop (Get Down Attack)
-- By My Side (Dangerous)
-- Pop (The Best of General Caine- Pure Funk)
-- Ooh Aah (Dangerous)
-- Bomb Belly (Dangerous)
-- Don't Stop (Girls)
+  - Get Closer (Dangerous)
+  - Yellow Pages (Dangerous)
+  - For Lovers Only (Girls)
+  - Girls (Girls)
+  - LRJ Pop (Get Down Attack)
+  - By My Side (Dangerous)
+  - Pop (The Best of General Caine- Pure Funk)
+  - Ooh Aah (Dangerous)
+  - Bomb Belly (Dangerous)
+  - Don't Stop (Girls)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/4TEnX645RxRiSlddJbyuSW
-  wikipedia: https://en.wikipedia.org/wiki/General_Caine
+  spotify: 'https://open.spotify.com/artist/4TEnX645RxRiSlddJbyuSW'
+  wikipedia: 'https://en.wikipedia.org/wiki/General_Caine'
 image_path: 03_Resources/source_material/ArtistPortraits/General_Caine.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:34:28.698716'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia
-- Last.fm
-- P-Funk Forums
+  - Wikipedia
+  - Last.fm
+  - P-Funk Forums
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 15:24:17.518390
+entry_created: 2025-09-18T15:24:17.518Z
 last_updated: '2025-12-23T08:16:02.104463'
-origin: San Bernardino, California, United States
-
+origin: 'San Bernardino, California, United States'
+is_active: false
+birth_place: 'San Bernardino, California, United States'
+artist_type: band
 ---
 
 ![](General_Caine.jpg)

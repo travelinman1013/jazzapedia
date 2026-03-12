@@ -2,11 +2,11 @@
 title: Morning 40 Federation
 wiki_slug: morning-40-federation
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1998'
 genres:
-- cajun
+  - cajun
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/morning_40_federation.jpg
   caption: Morning 40 Federation
@@ -27,58 +27,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Josh Cohen
-  - Ryan Scully
-  - Mike Andrepont
-  - Bailey Smith
-  - Steve Calandra
-  - Rick Hukill
-  - Andre Williams
+    - Josh Cohen
+    - Ryan Scully
+    - Mike Andrepont
+    - Bailey Smith
+    - Steve Calandra
+    - Rick Hukill
+    - Andre Williams
   influenced:
-  - R. Scully's Rough Seven
+    - R. Scully's Rough Seven
   mentors:
-  - King Oliver
-  - Tom Waits
-  - Jon Spencer
+    - King Oliver
+    - Tom Waits
+    - Jon Spencer
 spotify_data:
   followers: 1355
   id: 2HLqXndAih8dYb9DGszlFu
   popularity: 3
-  url: https://open.spotify.com/artist/2HLqXndAih8dYb9DGszlFu
+  url: 'https://open.spotify.com/artist/2HLqXndAih8dYb9DGszlFu'
 discography_enriched: true
 top_tracks:
-- Corkscrew (Ticonderoga)
-- Gin Instead Of Whiskey (Ticonderoga)
-- White Powder (Ticonderoga)
-- A & P (Ticonderoga)
-- Washing Machine (Ticonderoga)
-- God Help Me (Ticonderoga)
-- Dumpster Juice (Ticonderoga)
-- Sorry Mom (Live Personal Hygiene)
-- Chili Cheese Fries (Live Personal Hygiene)
-- Stinky (Live Personal Hygiene)
+  - Corkscrew (Ticonderoga)
+  - Gin Instead Of Whiskey (Ticonderoga)
+  - White Powder (Ticonderoga)
+  - A & P (Ticonderoga)
+  - Washing Machine (Ticonderoga)
+  - God Help Me (Ticonderoga)
+  - Dumpster Juice (Ticonderoga)
+  - Sorry Mom (Live Personal Hygiene)
+  - Chili Cheese Fries (Live Personal Hygiene)
+  - Stinky (Live Personal Hygiene)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b0714be4-6696-4a8e-86a5-863d1716dc97
-  spotify: https://open.spotify.com/artist/2HLqXndAih8dYb9DGszlFu
-  wikipedia: https://en.wikipedia.org/wiki/Morning_40_Federation
+  musicbrainz: 'https://musicbrainz.org/artist/b0714be4-6696-4a8e-86a5-863d1716dc97'
+  spotify: 'https://open.spotify.com/artist/2HLqXndAih8dYb9DGszlFu'
+  wikipedia: 'https://en.wikipedia.org/wiki/Morning_40_Federation'
 image_path: 03_Resources/source_material/ArtistPortraits/morning_40_federation.jpg
 biography_enhanced_at: '2025-12-04T07:31:00.802687'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Morning 40 Federation
-- OffBeat Magazine - Jazz Fest Second Weekend Top Picks
-- ANTIGRAVITY Magazine - Slow Cookin' with R. Scully
-- Jonathan Freilich - Interview with Josh Cohen & Ryan Scully of The Morning 40 Federation
-- 'Local 802 AFM - One Year Later: Musicians Say What It''s Like in New Orleans'
-- Glide Magazine - 2025 Threadhead Cultural Foundation Party Review
+  - Wikipedia - Morning 40 Federation
+  - OffBeat Magazine - Jazz Fest Second Weekend Top Picks
+  - ANTIGRAVITY Magazine - Slow Cookin' with R. Scully
+  - >-
+    Jonathan Freilich - Interview with Josh Cohen & Ryan Scully of The Morning
+    40 Federation
+  - 'Local 802 AFM - One Year Later: Musicians Say What It''s Like in New Orleans'
+  - Glide Magazine - 2025 Threadhead Cultural Foundation Party Review
 network_extracted: true
 entry_created: '2025-12-04T07:31:00.802694'
 last_updated: '2025-12-23T08:16:13.290265'
 musicbrainz_id: b0714be4-6696-4a8e-86a5-863d1716dc97
-origin: New Orleans
+origin: 'New Orleans, Louisiana, United States'
 tags:
-- jazz
+  - jazz
 ---
 
 ![](morning_40_federation.jpg)

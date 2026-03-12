@@ -5,27 +5,27 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1921-05-23'
-birth_place: Eton
+birth_place: 'Eton, Buckinghamshire, England'
 death_date: '2008-04-25'
 genres:
-- swing music
-- ragtime
-- jazz
+  - swing music
+  - ragtime
+  - jazz
 instruments:
-- original
-- spoken vocals
-associated_acts:
-- begin: '1972-04-11'
-  end: '2008'
-  instruments:
   - original
-  mbid: 3a6494fd-3e26-4dc9-b87f-3f7c736ac14a
-  name: I’m Sorry I Haven’t a Clue “Team”
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: de3fd3c6-780e-4a5f-942e-ac0319d1aa74
-  name: Humphrey Lyttelton and His Band
+  - spoken vocals
+associated_acts:
+  - begin: '1972-04-11'
+    end: '2008'
+    instruments:
+      - original
+    mbid: 3a6494fd-3e26-4dc9-b87f-3f7c736ac14a
+    name: I’m Sorry I Haven’t a Clue “Team”
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: de3fd3c6-780e-4a5f-942e-ac0319d1aa74
+    name: Humphrey Lyttelton and His Band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/humphrey_lyttelton.jpg
   caption: Humphrey Lyttelton
@@ -48,47 +48,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Wally Fawkes
-  - Sidney Bechet
-  - George Webb
+    - Wally Fawkes
+    - Sidney Bechet
+    - George Webb
   influenced:
-  - Chris Barber
-  - British jazz musicians (general)
+    - Chris Barber
+    - British jazz musicians (general)
   mentors:
-  - Louis Armstrong
-  - Nat Gonella
+    - Louis Armstrong
+    - Nat Gonella
 spotify_data:
   followers: 4303
   id: 64rUsDFcuATcV1JyYn26mf
   popularity: 21
-  url: https://open.spotify.com/artist/64rUsDFcuATcV1JyYn26mf
+  url: 'https://open.spotify.com/artist/64rUsDFcuATcV1JyYn26mf'
 discography_enriched: true
 top_tracks:
-- Georgia (Vintage (1948-51))
-- Bad Penny Blues (Think Well of Me)
-- Beale Street Blues (Bad Penny Blues 1955-1956)
-- Mr. Five By Five (The Humphrey Lyttelton Big Band with Jimmy Rushing)
-- Bad Penny Blues (The Humphrey Lyttelton Collection)
-- Trouble In Mind (Privately Recorded Acetates 1953 - 56)
-- Bad Penny Blues (Bad Penny Blues 1955-1956)
-- Bad Penny Blues
-- Evenin' (The Humphrey Lyttelton Big Band with Jimmy Rushing)
-- Trouble In Mind (Trouble In Mind)
+  - Georgia (Vintage (1948-51))
+  - Bad Penny Blues (Think Well of Me)
+  - Beale Street Blues (Bad Penny Blues 1955-1956)
+  - Mr. Five By Five (The Humphrey Lyttelton Big Band with Jimmy Rushing)
+  - Bad Penny Blues (The Humphrey Lyttelton Collection)
+  - Trouble In Mind (Privately Recorded Acetates 1953 - 56)
+  - Bad Penny Blues (Bad Penny Blues 1955-1956)
+  - Bad Penny Blues
+  - Evenin' (The Humphrey Lyttelton Big Band with Jimmy Rushing)
+  - Trouble In Mind (Trouble In Mind)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/bb834ed2-681e-4617-8fb7-4ad563b72ac2
-  spotify: https://open.spotify.com/artist/64rUsDFcuATcV1JyYn26mf
-  wikipedia: https://en.wikipedia.org/wiki/Humphrey_Lyttelton
+  musicbrainz: 'https://musicbrainz.org/artist/bb834ed2-681e-4617-8fb7-4ad563b72ac2'
+  spotify: 'https://open.spotify.com/artist/64rUsDFcuATcV1JyYn26mf'
+  wikipedia: 'https://en.wikipedia.org/wiki/Humphrey_Lyttelton'
 image_path: 03_Resources/source_material/ArtistPortraits/humphrey_lyttelton.jpg
 biography_enhanced_at: '2025-11-02T07:22:18.883224'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Humphrey_Lyttelton
-- https://www.britannica.com/biography/Humphrey-Lyttelton
-- https://syncopatedtimes.com/humphrey-lyttelton-profiles-in-jazz/
-- https://www.encyclopedia.com/arts/educational-magazines/lyttelton-humphrey-1921-2008
-- http://jazzhotbigstep.com/text/24222.html
-- https://www.allaboutjazz.com/musicians/humphrey-lyttelton/
+  - 'https://en.wikipedia.org/wiki/Humphrey_Lyttelton'
+  - 'https://www.britannica.com/biography/Humphrey-Lyttelton'
+  - 'https://syncopatedtimes.com/humphrey-lyttelton-profiles-in-jazz/'
+  - >-
+    https://www.encyclopedia.com/arts/educational-magazines/lyttelton-humphrey-1921-2008
+  - 'http://jazzhotbigstep.com/text/24222.html'
+  - 'https://www.allaboutjazz.com/musicians/humphrey-lyttelton/'
 network_extracted: true
 entry_created: '2025-11-02T07:22:18.883245'
 last_updated: '2025-12-23T08:16:09.764260'
@@ -96,9 +97,10 @@ disambiguation: British jazz musician & broadcaster
 gender: Male
 musicbrainz_id: bb834ed2-681e-4617-8fb7-4ad563b72ac2
 tags:
-- british
-- classic pop and rock
-- dixieland
+  - british
+  - classic pop and rock
+  - dixieland
+is_active: false
 ---
 
 ![](humphrey_lyttelton.jpg)

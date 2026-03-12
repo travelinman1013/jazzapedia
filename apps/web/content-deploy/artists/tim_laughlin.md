@@ -3,14 +3,14 @@ title: Tim Laughlin
 wiki_slug: tim-laughlin
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- ragtime
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/tim_laughlin.jpg
   caption: Tim Laughlin
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 116.4
   energy_avg: 0.335
@@ -18,7 +18,7 @@ audio_profile:
   danceability_avg: 0.592
   acousticness_avg: 0.816
   instrumentalness_avg: 0.447
-  loudness_avg: -11.0
+  loudness_avg: -11
   speechiness_avg: 0.039
   liveness_avg: 0.143
   track_count: 60
@@ -26,49 +26,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Connie Jones
-  - Lucien Barbarin
-  - Tom McDermott
-  - Jason Marsalis
+    - Connie Jones
+    - Lucien Barbarin
+    - Tom McDermott
+    - Jason Marsalis
   influenced:
-  - Younger New Orleans jazz clarinetists
+    - Younger New Orleans jazz clarinetists
   mentors:
-  - Pete Fountain
-  - Lorenzo Tio Sr. and Jr.
+    - Pete Fountain
+    - Lorenzo Tio Sr. and Jr.
 spotify_data:
   followers: 1089
   id: 4OXso8SUbs9Nm1rDHJMId8
   popularity: 20
-  url: https://open.spotify.com/artist/4OXso8SUbs9Nm1rDHJMId8
+  url: 'https://open.spotify.com/artist/4OXso8SUbs9Nm1rDHJMId8'
 discography_enriched: true
 top_tracks:
-- It's a Lovely Day Today (The Trio Collection, Vol 1)
-- Must Be Right, Can't Be Wrong (The Trio Collection, Vol 1)
-- Up a Lazy River (The Trio Collection, Vol 2)
-- The Gentilly Strut (The Isle of Orleans)
-- If I Could Be With You (The Trio Collection, Vol 1)
-- Blues for Faz (The Isle of Orleans)
-- '''Deed I Do (Rebecca Kilgore with Hal Smith''s California Swing Cats)'
-- You're Lucky to Me (The Trio Collection, Vol 1)
-- Si tu vois ma mere (New Orleans Rhythm)
-- A Kiss to Build a Dream On (Rebecca Kilgore with Hal Smith's California Swing Cats)
+  - 'It''s a Lovely Day Today (The Trio Collection, Vol 1)'
+  - 'Must Be Right, Can''t Be Wrong (The Trio Collection, Vol 1)'
+  - 'Up a Lazy River (The Trio Collection, Vol 2)'
+  - The Gentilly Strut (The Isle of Orleans)
+  - 'If I Could Be With You (The Trio Collection, Vol 1)'
+  - Blues for Faz (The Isle of Orleans)
+  - '''Deed I Do (Rebecca Kilgore with Hal Smith''s California Swing Cats)'
+  - 'You''re Lucky to Me (The Trio Collection, Vol 1)'
+  - Si tu vois ma mere (New Orleans Rhythm)
+  - >-
+    A Kiss to Build a Dream On (Rebecca Kilgore with Hal Smith's California
+    Swing Cats)
 external_urls:
-  spotify: https://open.spotify.com/artist/4OXso8SUbs9Nm1rDHJMId8
+  spotify: 'https://open.spotify.com/artist/4OXso8SUbs9Nm1rDHJMId8'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/tim_laughlin.jpg
 biography_enhanced_at: '2025-11-05T12:55:00.402882'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://jazztimes.com/features/profiles/tim-laughlin-swinging-son-of-new-orleans/
-- https://www.offbeat.com/music/tim-laughlin-new-standards-gentilly-records/
-- https://www.allaboutjazz.com/tim-laughlin-bourbon-street-in-the-yucatn-tim-laughlin-by-gerardo-alejos-victoria
-- http://www.timlaughlin.com/about.htm
-- https://www.taxi.com/members/timlaughlin-clarinet
-- https://syncopatedtimes.com/tim-laughlin-%E2%80%A2-the-trio-collection-vol-ii/
+  - >-
+    https://jazztimes.com/features/profiles/tim-laughlin-swinging-son-of-new-orleans/
+  - 'https://www.offbeat.com/music/tim-laughlin-new-standards-gentilly-records/'
+  - >-
+    https://www.allaboutjazz.com/tim-laughlin-bourbon-street-in-the-yucatn-tim-laughlin-by-gerardo-alejos-victoria
+  - 'http://www.timlaughlin.com/about.htm'
+  - 'https://www.taxi.com/members/timlaughlin-clarinet'
+  - >-
+    https://syncopatedtimes.com/tim-laughlin-%E2%80%A2-the-trio-collection-vol-ii/
 network_extracted: true
 entry_created: '2025-11-05T12:55:00.402897'
 last_updated: '2025-12-23T08:16:17.429070'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](tim_laughlin.jpg)

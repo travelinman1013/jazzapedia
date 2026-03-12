@@ -1,5 +1,5 @@
 ---
-title: free nationals/ Chronixx
+title: The Free Nationals/Chronixx
 wiki_slug: free-nationals-chronixx
 schema_version: 2
 status: active
@@ -23,50 +23,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Anderson .Paak
-  - Daniel Caesar
-  - Mac Miller
-  - Kali Uchis
-  - Chronixx
-  - Protoje
-  - Lutan Fyah
-  - Popcaan, Konshens
+    - Anderson .Paak
+    - Daniel Caesar
+    - Mac Miller
+    - Kali Uchis
+    - Chronixx
+    - Protoje
+    - Lutan Fyah
+    - 'Popcaan, Konshens'
   influenced:
-  - Reggae Revival artists
+    - Reggae Revival artists
   mentors:
-  - Shafiq Huisayn
-  - Chronicle (Selvin McNaughton)
+    - Shafiq Huisayn
+    - Chronicle (Selvin McNaughton)
 spotify_data:
   followers: 359665
   id: 4596e2d3KmYzAeVenjCxfj
   popularity: 58
-  url: https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj
+  url: 'https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj'
 discography_enriched: true
 top_tracks:
-- Eternal Light (Free Nationals)
-- Time (Free Nationals)
-- Beauty & Essex (feat. Daniel Caesar & Unknown Mortal Orchestra) (Free Nationals)
-- Shibuya (feat. Syd) (Free Nationals)
-- On Sight (Free Nationals)
-- Gidget (feat. Anderson .Paak & T.Nava) (Free Nationals)
-- Gangsta (Gangsta)
-- Through The Night (feat. Free Nationals) (When I Hear Your Name)
-- The Rivington (feat. Conway, Westside Gunn & Joyce Wrice) (Free Nationals)
-- Apartment (feat. Benny Sings) (Free Nationals)
+  - Eternal Light (Free Nationals)
+  - Time (Free Nationals)
+  - >-
+    Beauty & Essex (feat. Daniel Caesar & Unknown Mortal Orchestra) (Free
+    Nationals)
+  - Shibuya (feat. Syd) (Free Nationals)
+  - On Sight (Free Nationals)
+  - Gidget (feat. Anderson .Paak & T.Nava) (Free Nationals)
+  - Gangsta (Gangsta)
+  - Through The Night (feat. Free Nationals) (When I Hear Your Name)
+  - 'The Rivington (feat. Conway, Westside Gunn & Joyce Wrice) (Free Nationals)'
+  - Apartment (feat. Benny Sings) (Free Nationals)
 external_urls:
-  spotify: https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj
-  wikipedia: https://en.wikipedia.org/wiki/Free_Nationals, https://en.wikipedia.org/wiki/Chronixx
+  spotify: 'https://open.spotify.com/artist/4596e2d3KmYzAeVenjCxfj'
+  wikipedia: >-
+    https://en.wikipedia.org/wiki/Free_Nationals,
+    https://en.wikipedia.org/wiki/Chronixx
 image_path: 03_Resources/source_material/ArtistPortraits/free_nationals_Chronixx.jpg
 biography_enhanced_at: '2025-10-20T10:27:37.627093'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia
-- Rootfire
-- Jamaica Observer
+  - Wikipedia
+  - Rootfire
+  - Jamaica Observer
 network_extracted: true
 entry_created: '2025-10-20T10:27:37.627123'
 last_updated: '2025-12-23T08:16:08.870685'
+birth_place: 'Spanish Town, Jamaica, Jamaica'
+origin: 'Los Angeles, California, United States'
+birth_date: '1992-10-10'
+artist_type: person
 ---
 
 ![](free_nationals_Chronixx.jpg)

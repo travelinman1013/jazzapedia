@@ -2,15 +2,15 @@
 title: Lord Kitchener
 wiki_slug: lord-kitchener
 schema_version: 2
-artist_type: person
+artist_type: band
 status: active
 birth_date: '1922-04-18'
-birth_place: Arima
+birth_place: 'Arima, Trinidad and Tobago, Trinidad and Tobago'
 death_date: '2000-02-11'
 genres:
-- calypso
-- soca
-- rocksteady
+  - calypso
+  - soca
+  - rocksteady
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lord_kitchener.jpg
   caption: Lord Kitchener
@@ -33,56 +33,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lord Beginner (Egbert Moore)
-  - Lord Woodbine (Harold Phillips)
-  - Steelbands and the Trinidad steelband movement
+    - Lord Beginner (Egbert Moore)
+    - Lord Woodbine (Harold Phillips)
+    - Steelbands and the Trinidad steelband movement
   influenced:
-  - Calypso Rose (McCartha Linda Sandy-Lewis)
-  - David Rudder
-  - Black Stalin (Leroy Calliste)
-  - Denyse Plummer
+    - Calypso Rose (McCartha Linda Sandy-Lewis)
+    - David Rudder
+    - Black Stalin (Leroy Calliste)
+    - Denyse Plummer
   mentors:
-  - Kitchener's father (name not widely documented)
-  - Growling Tiger (Neville Marcano)
+    - Kitchener's father (name not widely documented)
+    - Growling Tiger (Neville Marcano)
 spotify_data:
   followers: 18485
   id: 7FL6vuQ7VGJvOiZUukHAcK
   popularity: 31
-  url: https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK
+  url: 'https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK'
 discography_enriched: true
 top_tracks:
-- Sugar Bum Bum (Forever Vol.1)
-- Doctor Kitch (Doctor Kitch)
-- London is the Place for Me (8)
-- Gee Me the Ting
-- Sweet Jamaica (Sweet Jamaica)
-- Saxophone No. 2 (Sweet Jamaica)
-- London Is the Place for Me
-- Birth of Ghana (Calypso Romeo)
-- Pan in ""A"" Minor (Forever Vol.1)
-- Love in the Cemetery (Love in the Cemetery)
+  - Sugar Bum Bum (Forever Vol.1)
+  - Doctor Kitch (Doctor Kitch)
+  - London is the Place for Me (8)
+  - Gee Me the Ting
+  - Sweet Jamaica (Sweet Jamaica)
+  - Saxophone No. 2 (Sweet Jamaica)
+  - London Is the Place for Me
+  - Birth of Ghana (Calypso Romeo)
+  - Pan in ""A"" Minor (Forever Vol.1)
+  - Love in the Cemetery (Love in the Cemetery)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2b3f31fe-44d8-4861-950c-a653ec92ed7b
-  spotify: https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK
-  wikipedia: https://en.wikipedia.org/wiki/Lord_Kitchener_(calypsonian)
+  musicbrainz: 'https://musicbrainz.org/artist/2b3f31fe-44d8-4861-950c-a653ec92ed7b'
+  spotify: 'https://open.spotify.com/artist/7FL6vuQ7VGJvOiZUukHAcK'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lord_Kitchener_(calypsonian)'
 image_path: 03_Resources/source_material/ArtistPortraits/lord_kitchener.jpg
 biography_enhanced_at: '2025-12-19T02:02:34.438478'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- 'Los Angeles Times obituary: ''Lord Kitchener; Grand Master of Trinidad Calypso''[1]'
-- Wikipedia entry on Lord Kitchener (calypsonian)[2]
-- Kiddle/Lord Kitchener (calypsonian) summary[3]
-- TriniSoca.com artist profile on Lord Kitchener[4]
-- Windrush 70 biography of Aldwyn Roberts[5]
+  - >-
+    Los Angeles Times obituary: 'Lord Kitchener; Grand Master of Trinidad
+    Calypso'[1]
+  - 'Wikipedia entry on Lord Kitchener (calypsonian)[2]'
+  - 'Kiddle/Lord Kitchener (calypsonian) summary[3]'
+  - 'TriniSoca.com artist profile on Lord Kitchener[4]'
+  - 'Windrush 70 biography of Aldwyn Roberts[5]'
 network_extracted: true
 entry_created: '2025-12-19T02:02:34.438487'
 last_updated: '2025-12-23T08:16:12.111092'
 gender: Male
 musicbrainz_id: 2b3f31fe-44d8-4861-950c-a653ec92ed7b
 tags:
-- calypso
-- soca
+  - calypso
+  - soca
+is_active: false
 ---
 
 ![](lord_kitchener.jpg)

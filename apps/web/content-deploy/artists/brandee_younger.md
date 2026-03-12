@@ -5,9 +5,9 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1983-07-01'
-birth_place: Hempstead
+birth_place: 'Hempstead, New York, United States'
 genres:
-- jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/brandee_younger.jpg
   caption: Brandee Younger
@@ -29,58 +29,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dezron Douglas
-  - Ravi Coltrane
-  - Pharoah Sanders
-  - Jack DeJohnette
-  - Lauryn Hill, Beyoncé, Stevie Wonder, The Roots, Common, John Legend, Makaya McCraven, Moses Sumney
+    - Dezron Douglas
+    - Ravi Coltrane
+    - Pharoah Sanders
+    - Jack DeJohnette
+    - >-
+      Lauryn Hill, Beyoncé, Stevie Wonder, The Roots, Common, John Legend,
+      Makaya McCraven, Moses Sumney
   influenced:
-  - Emerging jazz harpists and students
+    - Emerging jazz harpists and students
   mentors:
-  - Jackie McLean
-  - Alice Coltrane
-  - Dorothy Ashby
-  - Ravi Coltrane
+    - Jackie McLean
+    - Alice Coltrane
+    - Dorothy Ashby
+    - Ravi Coltrane
 spotify_data:
   followers: 33099
   id: 1DT11FntvMnaU47ZZWlTpB
   popularity: 38
-  url: https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB
+  url: 'https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB'
 discography_enriched: true
 top_tracks:
-- BBL (Gadabout Season)
-- Unswept Corners - Ambient Mix
-- Olivia Benson (Somewhere Different)
-- Taking Flight (feat. Brandee Younger) (Resavoir)
-- Reflection Eternal
-- Dreamful Love Story
-- Taking Flight (Resavoir)
-- You're A Girl For One Man Only (Brand New Life)
-- End Means (feat. Shabaka) (Gadabout Season)
-- Brand New Life (feat. Mumu Fresh) (Brand New Life)
+  - BBL (Gadabout Season)
+  - Unswept Corners - Ambient Mix
+  - Olivia Benson (Somewhere Different)
+  - Taking Flight (feat. Brandee Younger) (Resavoir)
+  - Reflection Eternal
+  - Dreamful Love Story
+  - Taking Flight (Resavoir)
+  - You're A Girl For One Man Only (Brand New Life)
+  - End Means (feat. Shabaka) (Gadabout Season)
+  - Brand New Life (feat. Mumu Fresh) (Brand New Life)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/61d68647-258e-43e2-942f-11321df5a96a
-  spotify: https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB
-  wikipedia: https://en.wikipedia.org/wiki/Brandee_Younger
+  musicbrainz: 'https://musicbrainz.org/artist/61d68647-258e-43e2-942f-11321df5a96a'
+  spotify: 'https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB'
+  wikipedia: 'https://en.wikipedia.org/wiki/Brandee_Younger'
 image_path: 03_Resources/source_material/ArtistPortraits/brandee_younger.jpg
 biography_enhanced_at: '2025-10-29T16:37:22.921414'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://mylifeinjazz.co.uk/episode/the-jazz-harp/
-- https://www.popmatters.com/brandee-younger-jazz-interview
-- https://www.sfjazz.org/onthecorner/articles/brandee-younger-representation-is-everything/
-- https://pennlivearts.org/blog/5-questions-with-brandee-younger
-- https://commonsnews.org/issue/798/798VJC_Younger
+  - 'https://mylifeinjazz.co.uk/episode/the-jazz-harp/'
+  - 'https://www.popmatters.com/brandee-younger-jazz-interview'
+  - >-
+    https://www.sfjazz.org/onthecorner/articles/brandee-younger-representation-is-everything/
+  - 'https://pennlivearts.org/blog/5-questions-with-brandee-younger'
+  - 'https://commonsnews.org/issue/798/798VJC_Younger'
 network_extracted: true
 entry_created: '2025-10-29T16:37:22.921428'
 last_updated: '2025-12-23T08:16:06.007357'
 gender: Female
 musicbrainz_id: 61d68647-258e-43e2-942f-11321df5a96a
 tags:
-- contemporary jazz
-- jazz
-- soul jazz
+  - contemporary jazz
+  - jazz
+  - soul jazz
+origin: 'Long Island, New York, United States'
 ---
 
 ![](brandee_younger.jpg)

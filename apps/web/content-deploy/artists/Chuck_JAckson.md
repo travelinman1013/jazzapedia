@@ -5,21 +5,21 @@ schema_version: 2
 status: deceased
 aliases: []
 birth_date: '1937-07-22'
-birth_place: Winston-Salem
+birth_place: 'Winston-Salem, North Carolina, United States'
 death_date: '2023-02-16'
 years_active: 1957-2023
 genres:
-- northern soul
-- motown
-- doo-wop
+  - northern soul
+  - motown
+  - doo-wop
 instruments:
-- voice
+  - voice
 occupation:
-- singer
-- recording artist
+  - singer
+  - recording artist
 record_labels:
-- Motown
-- Wand Records
+  - Motown
+  - Wand Records
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Chuck_Jackson.jpg
   caption: Chuck Jackson
@@ -28,7 +28,7 @@ infobox:
   origin: Winston-Salem
   died: '2023-02-16'
 audio_profile:
-  tempo_avg: 115.0
+  tempo_avg: 115
   energy_avg: 0.496
   valence_avg: 0.718
   danceability_avg: 0.591
@@ -45,31 +45,34 @@ spotify_data:
   followers: 22130
   id: 64wglyu5BoOzwMXYjtAbfS
   popularity: 28
-  url: https://open.spotify.com/artist/64wglyu5BoOzwMXYjtAbfS
+  url: 'https://open.spotify.com/artist/64wglyu5BoOzwMXYjtAbfS'
   verified: false
 discography_enriched: true
 albums_count: 17
 singles_count: 3
 top_tracks:
-- Any Day Now (Super Hits)
-- I Don't Want To Cry (28 Big Ones)
-- Any Day Now (I Wake up Crying)
-- What Am I Gonna Do Without You (Arrives!)
-- Hold On I'm Coming (Super Hits)
-- Any Day Now (My Wild Beautiful Bird)
-- Any Day Now (Any Day Now)
-- I Don't Want to Cry (I Wake up Crying)
-- I Don't Want to Cry (Lonely Teardrops)
-- Something You Got (Super Hits)
+  - Any Day Now (Super Hits)
+  - I Don't Want To Cry (28 Big Ones)
+  - Any Day Now (I Wake up Crying)
+  - What Am I Gonna Do Without You (Arrives!)
+  - Hold On I'm Coming (Super Hits)
+  - Any Day Now (My Wild Beautiful Bird)
+  - Any Day Now (Any Day Now)
+  - I Don't Want to Cry (I Wake up Crying)
+  - I Don't Want to Cry (Lonely Teardrops)
+  - Something You Got (Super Hits)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/64wglyu5BoOzwMXYjtAbfS
-  wikipedia: https://en.wikipedia.org/wiki/Chuck_Jackson
+  spotify: 'https://open.spotify.com/artist/64wglyu5BoOzwMXYjtAbfS'
+  wikipedia: 'https://en.wikipedia.org/wiki/Chuck_Jackson'
 image_path: 03_Resources/source_material/ArtistPortraits/Chuck_Jackson.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-18T16:09:47.730731'
-entry_created: 2025-09-18 11:42:20.011855
+entry_created: 2025-09-18T11:42:20.011Z
 last_updated: '2025-12-23T08:16:01.530714'
+is_active: false
+artist_type: person
+origin: 'Pittsburgh, Pennsylvania, United States'
 ---
 
 ![](Chuck_Jackson.jpg)

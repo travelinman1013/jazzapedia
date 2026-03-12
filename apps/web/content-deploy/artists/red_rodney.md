@@ -1,18 +1,18 @@
 ---
-title: red rodney
+title: Red Rodney
 wiki_slug: red-rodney
 schema_version: 2
 status: active
-birth_place: Philadelphia, Pennsylvania, United States
+birth_place: 'Philadelphia, Pennsylvania, United States'
 genres:
-- bebop
-- hard bop
-- jazz
+  - bebop
+  - hard bop
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/red_rodney.jpg
   caption: red rodney
   background: solo_singer
-  origin: Philadelphia, Pennsylvania, United States
+  origin: 'Philadelphia, Pennsylvania, United States'
 audio_profile:
   tempo_avg: 114.1
   energy_avg: 0.454
@@ -28,50 +28,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Charlie Parker
-  - Ira Sullivan
-  - Charlie Watts
-  - Chris Potter
+    - Charlie Parker
+    - Ira Sullivan
+    - Charlie Watts
+    - Chris Potter
   influenced:
-  - Wayne Kramer
-  - Chris Potter
+    - Wayne Kramer
+    - Chris Potter
   mentors:
-  - Dizzy Gillespie
-  - Charlie Parker
-  - Gene Krupa
+    - Dizzy Gillespie
+    - Charlie Parker
+    - Gene Krupa
 spotify_data:
   followers: 1847
   id: 4tIG3p7d799xi5qJbMddl8
   popularity: 5
-  url: https://open.spotify.com/artist/4tIG3p7d799xi5qJbMddl8
+  url: 'https://open.spotify.com/artist/4tIG3p7d799xi5qJbMddl8'
 discography_enriched: true
 top_tracks:
-- Blues for Alice (One For Bird)
-- Stella By Starlight (Fiery)
-- Blues for Alice - Live (One for Bird (Live))
-- My little suede shoes (One For Bird)
-- Star Eyes (Fiery)
-- You Better Go Now (Fiery)
-- Box 2000 (Fiery)
-- Little Willie leaps (One For Bird)
-- Ladybird (One For Bird)
-- Red Rodney Interview (The Washington Concerts)
+  - Blues for Alice (One For Bird)
+  - Stella By Starlight (Fiery)
+  - Blues for Alice - Live (One for Bird (Live))
+  - My little suede shoes (One For Bird)
+  - Star Eyes (Fiery)
+  - You Better Go Now (Fiery)
+  - Box 2000 (Fiery)
+  - Little Willie leaps (One For Bird)
+  - Ladybird (One For Bird)
+  - Red Rodney Interview (The Washington Concerts)
 external_urls:
-  spotify: https://open.spotify.com/artist/4tIG3p7d799xi5qJbMddl8
-  wikipedia: https://en.wikipedia.org/wiki/Red_Rodney
+  spotify: 'https://open.spotify.com/artist/4tIG3p7d799xi5qJbMddl8'
+  wikipedia: 'https://en.wikipedia.org/wiki/Red_Rodney'
 image_path: 03_Resources/source_material/ArtistPortraits/red_rodney.jpg
 biography_enhanced_at: '2025-11-04T11:05:53.016673'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Red_Rodney
-- https://www.allaboutjazz.com/musicians/red-rodney/
-- http://www.canadianjazzarchive.net/musicians/red-rodney.html
-- https://www.wrti.org/wrti-spotlight/2020-09-29/bob-perkins-on-trumpeter-red-rodney-an-overlooked-philly-great
-- https://jazzfuel.com/charlie-parker-and-albino-red-rodney/
+  - 'https://en.wikipedia.org/wiki/Red_Rodney'
+  - 'https://www.allaboutjazz.com/musicians/red-rodney/'
+  - 'http://www.canadianjazzarchive.net/musicians/red-rodney.html'
+  - >-
+    https://www.wrti.org/wrti-spotlight/2020-09-29/bob-perkins-on-trumpeter-red-rodney-an-overlooked-philly-great
+  - 'https://jazzfuel.com/charlie-parker-and-albino-red-rodney/'
 network_extracted: true
 entry_created: '2025-11-04T11:05:53.016683'
 last_updated: '2025-12-23T08:16:14.754570'
+artist_type: person
 ---
 
 ![](red_rodney.jpg)

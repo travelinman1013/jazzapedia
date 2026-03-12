@@ -1,5 +1,5 @@
 ---
-title: LUCILLE BOGAN
+title: Lucille Bogan
 wiki_slug: lucille-bogan
 schema_version: 2
 artist_type: person
@@ -8,12 +8,12 @@ birth_date: '1897-04-01'
 birth_place: Amory
 death_date: '1948-08-10'
 genres:
-- classic blues
-- blues
-- country blues
-- ragtime
+  - classic blues
+  - blues
+  - country blues
+  - ragtime
 instruments:
-- spoken vocals
+  - spoken vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lucille_bogan.jpg
   caption: LUCILLE BOGAN
@@ -36,54 +36,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Henry Callens
-  - Tampa Red
-  - Cow Cow Davenport
+    - Henry Callens
+    - Tampa Red
+    - Cow Cow Davenport
   influenced:
-  - B.B. King
-  - Memphis Minnie
-  - Various blues and jazz musicians
+    - B.B. King
+    - Memphis Minnie
+    - Various blues and jazz musicians
   mentors:
-  - Viola McCoy
+    - Viola McCoy
 spotify_data:
   followers: 68002
   id: 2cDKW2JF97WZ5ruG9Obfdf
   popularity: 25
-  url: https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf
+  url: 'https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf'
 discography_enriched: true
 top_tracks:
-- Shave 'Em Dry II
-- Till The Cows Come Home
-- Shave 'Em Dry
-- Sloppy Drunk Blues
-- Man Stealer Blues
-- B.D. Woman's Blues (Lucille Bogan (Bessie Jackson) Vol. 3 (1934-1935))
-- B.D. Woman's Blues
-- Barbecue Blues (Lucille Bogan (Bessie Jackson) Vol. 3 (1934-1935))
-- Shave 'Em Dry II
-- Till The Cows Come Home
+  - Shave 'Em Dry II
+  - Till The Cows Come Home
+  - Shave 'Em Dry
+  - Sloppy Drunk Blues
+  - Man Stealer Blues
+  - B.D. Woman's Blues (Lucille Bogan (Bessie Jackson) Vol. 3 (1934-1935))
+  - B.D. Woman's Blues
+  - Barbecue Blues (Lucille Bogan (Bessie Jackson) Vol. 3 (1934-1935))
+  - Shave 'Em Dry II
+  - Till The Cows Come Home
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3ae93ceb-6bc7-4321-98da-2f9257ccb4b4
-  spotify: https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf
-  wikipedia: https://en.wikipedia.org/wiki/Lucille_Bogan
+  musicbrainz: 'https://musicbrainz.org/artist/3ae93ceb-6bc7-4321-98da-2f9257ccb4b4'
+  spotify: 'https://open.spotify.com/artist/2cDKW2JF97WZ5ruG9Obfdf'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lucille_Bogan'
 image_path: 03_Resources/source_material/ArtistPortraits/lucille_bogan.jpg
 biography_enhanced_at: '2025-10-30T11:47:51.884731'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Lucille_Bogan
-- https://mississippiencyclopedia.org/entries/lucille-bogan/
-- https://mojohand.com/glossary/lucille-bogan/
-- https://blues.org/blues_hof_inductee/lucille-bogan/
-- https://www.americanbluesscene.com/2022/08/10-things-you-didnt-know-about-blues-hall-of-famer-lucille-bogan/
+  - 'https://en.wikipedia.org/wiki/Lucille_Bogan'
+  - 'https://mississippiencyclopedia.org/entries/lucille-bogan/'
+  - 'https://mojohand.com/glossary/lucille-bogan/'
+  - 'https://blues.org/blues_hof_inductee/lucille-bogan/'
+  - >-
+    https://www.americanbluesscene.com/2022/08/10-things-you-didnt-know-about-blues-hall-of-famer-lucille-bogan/
 network_extracted: true
 entry_created: '2025-10-30T11:47:51.884749'
 last_updated: '2025-12-23T08:16:12.322220'
 gender: Female
 musicbrainz_id: 3ae93ceb-6bc7-4321-98da-2f9257ccb4b4
 tags:
-- blues
-- vaudeville blues
+  - blues
+  - vaudeville blues
+is_active: false
+origin: 'Birmingham, Alabama, United States'
 ---
 
 ![](lucille_bogan.jpg)

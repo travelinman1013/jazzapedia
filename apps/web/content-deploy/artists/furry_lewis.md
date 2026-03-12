@@ -1,20 +1,20 @@
 ---
-title: furry lewis
+title: Furry Lewis
 wiki_slug: furry-lewis
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1893-03-06'
-birth_place: Greenwood
+birth_place: 'Greenwood, Mississippi, United States'
 death_date: '1981-09-14'
 genres:
-- country blues
-- classic blues
-- blues
+  - country blues
+  - classic blues
+  - blues
 instruments:
-- guitar
-- lead vocals
-- spoken vocals
+  - guitar
+  - lead vocals
+  - spoken vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/furry_lewis.jpg
   caption: furry lewis
@@ -23,7 +23,7 @@ infobox:
   origin: Greenwood
   died: '1981-09-14'
 audio_profile:
-  tempo_avg: 115.0
+  tempo_avg: 115
   energy_avg: 0.138
   valence_avg: 0.36
   danceability_avg: 0.485
@@ -37,44 +37,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Memphis Jug Band
-  - Leon Russell
-  - Alabama State Troupers
+    - Memphis Jug Band
+    - Leon Russell
+    - Alabama State Troupers
   influenced:
-  - Joni Mitchell
-  - Contemporary blues and folk musicians
+    - Joni Mitchell
+    - Contemporary blues and folk musicians
   mentors:
-  - W.C. Handy
+    - W.C. Handy
 spotify_data:
   followers: 21166
   id: 66SiMdpsWXE23qqX0JaWg9
   popularity: 25
-  url: https://open.spotify.com/artist/66SiMdpsWXE23qqX0JaWg9
+  url: 'https://open.spotify.com/artist/66SiMdpsWXE23qqX0JaWg9'
 discography_enriched: true
 top_tracks:
-- When My Baby Left Me (Shake 'Em On Down)
-- Shake 'Em On Down (Shake 'Em On Down)
-- Judge Harsh Blues (Rock Island Blues)
-- Roberta (Shake 'Em On Down)
-- White Lightinin' (Shake 'Em On Down)
-- John Henry (Furry Lewis)
-- Good Morning Judge (Good Morning Judge)
-- Falling Down Blues (Rock Island Blues)
-- Billy Lyons and Stack O'lee (Rock Island Blues)
-- Kassie Jones (Casey Jones) (Furry Lewis)
+  - When My Baby Left Me (Shake 'Em On Down)
+  - Shake 'Em On Down (Shake 'Em On Down)
+  - Judge Harsh Blues (Rock Island Blues)
+  - Roberta (Shake 'Em On Down)
+  - White Lightinin' (Shake 'Em On Down)
+  - John Henry (Furry Lewis)
+  - Good Morning Judge (Good Morning Judge)
+  - Falling Down Blues (Rock Island Blues)
+  - Billy Lyons and Stack O'lee (Rock Island Blues)
+  - Kassie Jones (Casey Jones) (Furry Lewis)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/56cc74c7-6a8c-42a4-87a1-59d6963b2c1f
-  spotify: https://open.spotify.com/artist/66SiMdpsWXE23qqX0JaWg9
-  wikipedia: https://en.wikipedia.org/wiki/Furry_Lewis
+  musicbrainz: 'https://musicbrainz.org/artist/56cc74c7-6a8c-42a4-87a1-59d6963b2c1f'
+  spotify: 'https://open.spotify.com/artist/66SiMdpsWXE23qqX0JaWg9'
+  wikipedia: 'https://en.wikipedia.org/wiki/Furry_Lewis'
 image_path: 03_Resources/source_material/ArtistPortraits/furry_lewis.jpg
 biography_enhanced_at: '2025-11-20T07:31:37.571536'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://folkways.si.edu/furry-lewis-rural-blues-performer/music/article/smithsonian
-- https://en.wikipedia.org/wiki/Furry_Lewis
-- https://msbluestrail.org/blues-trail-markers/furry-lewis
-- https://blueskc.org/walter-furry-lewis/
+  - >-
+    https://folkways.si.edu/furry-lewis-rural-blues-performer/music/article/smithsonian
+  - 'https://en.wikipedia.org/wiki/Furry_Lewis'
+  - 'https://msbluestrail.org/blues-trail-markers/furry-lewis'
+  - 'https://blueskc.org/walter-furry-lewis/'
 network_extracted: true
 entry_created: '2025-11-20T07:31:37.571543'
 last_updated: '2025-12-23T08:16:08.910761'
@@ -82,10 +83,11 @@ disambiguation: American country blues guitarist
 gender: Male
 musicbrainz_id: 56cc74c7-6a8c-42a4-87a1-59d6963b2c1f
 tags:
-- acoustic blues
-- blues
-- country blues
-
+  - acoustic blues
+  - blues
+  - country blues
+is_active: false
+origin: 'Memphis, Tennessee, United States'
 ---
 
 ![](furry_lewis.jpg)

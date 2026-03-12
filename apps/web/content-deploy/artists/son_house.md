@@ -1,22 +1,22 @@
 ---
-title: son house
+title: Son House
 wiki_slug: son-house
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1902-03-21'
-birth_place: Lyon
+birth_place: 'Lyon, Mississippi, United States'
 death_date: '1988-10-19'
 genres:
-- blues
-- classic blues
-- country blues
+  - blues
+  - classic blues
+  - country blues
 instruments:
-- guitar
-- slide guitar
-- steel guitar
-- spoken vocals
-- lead vocals
+  - guitar
+  - slide guitar
+  - steel guitar
+  - spoken vocals
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/son_house.jpg
   caption: son house
@@ -39,57 +39,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Willie Brown
-  - Charley Patton
-  - Alan Lomax & John W. Work
+    - Willie Brown
+    - Charley Patton
+    - Alan Lomax & John W. Work
   influenced:
-  - Robert Johnson
-  - Muddy Waters
-  - Alan Wilson
+    - Robert Johnson
+    - Muddy Waters
+    - Alan Wilson
   mentors:
-  - James McCoy
-  - Willie Wilson
-  - Charley Patton
+    - James McCoy
+    - Willie Wilson
+    - Charley Patton
 spotify_data:
   followers: 165396
   id: 15oeqKO5k5uZ5773tWvpda
   popularity: 30
-  url: https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda
+  url: 'https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda'
 discography_enriched: true
 top_tracks:
-- 'Death Letter Blues (Father Of The Delta Blues: The Complete 1965 Sessions)'
-- 'John the Revelator (Father Of The Delta Blues: The Complete 1965 Sessions)'
-- Death Letter (Forever On My Mind)
-- Grinnin' In Your Face
-- 'Levee Camp Blues (Martin Scorsese Presents The Blues: Son House)'
-- 'Pearline (Father Of The Delta Blues: The Complete 1965 Sessions)'
-- 'Death Letter Blues (The Original Delta Blues (Mojo Workin'': Blues For The Next Generation))'
-- 'John The Revelator (The Original Delta Blues (Mojo Workin'': Blues For The Next Generation))'
-- Empire State Express
-- 'Death Letter Blues (Martin Scorsese Presents The Blues: Son House)'
+  - 'Death Letter Blues (Father Of The Delta Blues: The Complete 1965 Sessions)'
+  - 'John the Revelator (Father Of The Delta Blues: The Complete 1965 Sessions)'
+  - Death Letter (Forever On My Mind)
+  - Grinnin' In Your Face
+  - 'Levee Camp Blues (Martin Scorsese Presents The Blues: Son House)'
+  - 'Pearline (Father Of The Delta Blues: The Complete 1965 Sessions)'
+  - >-
+    Death Letter Blues (The Original Delta Blues (Mojo Workin': Blues For The
+    Next Generation))
+  - >-
+    John The Revelator (The Original Delta Blues (Mojo Workin': Blues For The
+    Next Generation))
+  - Empire State Express
+  - 'Death Letter Blues (Martin Scorsese Presents The Blues: Son House)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8c87dda0-be58-4e48-a3b5-2626f26364c7
-  spotify: https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda
-  wikipedia: https://en.wikipedia.org/wiki/Son_House
+  musicbrainz: 'https://musicbrainz.org/artist/8c87dda0-be58-4e48-a3b5-2626f26364c7'
+  spotify: 'https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda'
+  wikipedia: 'https://en.wikipedia.org/wiki/Son_House'
 image_path: 03_Resources/source_material/ArtistPortraits/son_house.jpg
 biography_enhanced_at: '2025-10-31T08:24:44.929536'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Son_House
-- https://msbluestrail.org/blues-trail-markers/son-house
-- https://blackpast.org/african-american-history/house-eddie-james-son-jr-1902-1988/
-- https://mostlymusiccovers.com/2024/03/01/son-house/
-- https://www.thecurrent.org/feature/2025/03/21/classic-americana-son-house
+  - 'https://en.wikipedia.org/wiki/Son_House'
+  - 'https://msbluestrail.org/blues-trail-markers/son-house'
+  - >-
+    https://blackpast.org/african-american-history/house-eddie-james-son-jr-1902-1988/
+  - 'https://mostlymusiccovers.com/2024/03/01/son-house/'
+  - 'https://www.thecurrent.org/feature/2025/03/21/classic-americana-son-house'
 network_extracted: true
 entry_created: '2025-10-31T08:24:44.929545'
 last_updated: '2025-12-23T08:16:15.856428'
 gender: Male
 musicbrainz_id: 8c87dda0-be58-4e48-a3b5-2626f26364c7
 tags:
-- acoustic blues
-- blues
-- delta blues
+  - acoustic blues
+  - blues
+  - delta blues
+is_active: false
 ---
 
 ![](son_house.jpg)

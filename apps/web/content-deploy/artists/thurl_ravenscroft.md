@@ -5,27 +5,27 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1914-02-06'
-birth_place: Norfolk
+birth_place: 'Norfolk, Nebraska, United States'
 death_date: '2005-05-22'
 genres:
-- christmas
+  - christmas
 instruments:
-- original
-- background vocals
-- bass vocals
-- spoken vocals
-associated_acts:
-- begin: '1948'
-  end: ''
-  instruments:
   - original
-  mbid: f0d672cb-adfd-4798-87c5-15dd0d9fa47e
-  name: The Mellomen
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a0f14f35-761b-46f4-a469-1d1dbdbda5f2
-  name: The Sportsmen
+  - background vocals
+  - bass vocals
+  - spoken vocals
+associated_acts:
+  - begin: '1948'
+    end: ''
+    instruments:
+      - original
+    mbid: f0d672cb-adfd-4798-87c5-15dd0d9fa47e
+    name: The Mellomen
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a0f14f35-761b-46f4-a469-1d1dbdbda5f2
+    name: The Sportsmen
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/thurl_ravenscroft.jpg
   caption: Thurl Ravenscroft
@@ -48,42 +48,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Sportsmen
-  - The Mellomen
-  - The Johnny Mann Singers
-  - The Norman Luboff Choir
-  - Elvis Presley
-  - Bing Crosby
+    - The Sportsmen
+    - The Mellomen
+    - The Johnny Mann Singers
+    - The Norman Luboff Choir
+    - Elvis Presley
+    - Bing Crosby
   influenced: []
   mentors: []
 spotify_data:
   followers: 997
   id: 5LCQTpuQCzKjfv233UFQnb
   popularity: 61
-  url: https://open.spotify.com/artist/5LCQTpuQCzKjfv233UFQnb
+  url: 'https://open.spotify.com/artist/5LCQTpuQCzKjfv233UFQnb'
 discography_enriched: true
 top_tracks:
-- You're A Mean One, Mr. Grinch (Dr. Seuss' How The Grinch Stole Christmas! (Original TV Soundtrack))
-- You're A Mean One, Mr. Grinch - Reprise (Dr. Seuss' How The Grinch Stole Christmas! (Original TV Soundtrack))
+  - >-
+    You're A Mean One, Mr. Grinch (Dr. Seuss' How The Grinch Stole Christmas!
+    (Original TV Soundtrack))
+  - >-
+    You're A Mean One, Mr. Grinch - Reprise (Dr. Seuss' How The Grinch Stole
+    Christmas! (Original TV Soundtrack))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f666ee36-5c6c-46d2-923a-39ce7f02ca34
-  spotify: https://open.spotify.com/artist/5LCQTpuQCzKjfv233UFQnb
-  wikipedia: https://en.wikipedia.org/wiki/Thurl_Ravenscroft
+  musicbrainz: 'https://musicbrainz.org/artist/f666ee36-5c6c-46d2-923a-39ce7f02ca34'
+  spotify: 'https://open.spotify.com/artist/5LCQTpuQCzKjfv233UFQnb'
+  wikipedia: 'https://en.wikipedia.org/wiki/Thurl_Ravenscroft'
 image_path: ''
 biography_enhanced_at: '2025-12-20T01:09:58.789720'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Thurl_Ravenscroft
-- https://www.imdb.com/name/nm0712391/bio/
-- https://www.hoganmag.com/blog/hes-grrrrreat-the-thurl-ravenscroft-interview
-- https://www.imdb.com/name/nm0712391/
-- https://celebrationspress.com/2017/09/11/five-facts-about-the-career-of-disney-legend-thurl-ravenscroft/
+  - 'https://en.wikipedia.org/wiki/Thurl_Ravenscroft'
+  - 'https://www.imdb.com/name/nm0712391/bio/'
+  - 'https://www.hoganmag.com/blog/hes-grrrrreat-the-thurl-ravenscroft-interview'
+  - 'https://www.imdb.com/name/nm0712391/'
+  - >-
+    https://celebrationspress.com/2017/09/11/five-facts-about-the-career-of-disney-legend-thurl-ravenscroft/
 network_extracted: true
 entry_created: '2025-12-20T01:09:58.789727'
 last_updated: '2025-12-23T08:16:17.409055'
 gender: Male
 musicbrainz_id: f666ee36-5c6c-46d2-923a-39ce7f02ca34
+is_active: false
 ---
 
 ![]()

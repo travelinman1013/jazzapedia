@@ -1,36 +1,39 @@
 ---
 biography_enhanced_at: '2026-01-19T01:02:41.137320'
-birth_place: Orange County, California, USA
+birth_place: 'Orange County, California, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-19T01:02:41.137326'
 external_urls:
-  spotify: https://open.spotify.com/artist/7q5RmWKS9t8GaXaPMLJXAl
+  spotify: 'https://open.spotify.com/artist/7q5RmWKS9t8GaXaPMLJXAl'
   wikipedia: ''
 genres:
-- big band
+  - big band
 image_path: 03_Resources/source_material/ArtistPortraits/jenny_swoish.jpg
 last_updated: '2026-01-19T01:02:41.137327'
 musical_connections:
   collaborators:
-  - Erik Stabnau
-  - Glenn Miller Orchestra
+    - Erik Stabnau
+    - Glenn Miller Orchestra
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Glenn_Miller_Orchestra_(1956%E2%80%93present)
-- https://cvindependent.com/2023/03/big-band-big-history-the-glenn-miller-orchestra-brings-vintage-hits-to-the-palm-springs-cultural-center/
-- https://glennmillerorchestra.com/wp-content/uploads/2023/05/Jenny-Swoish-Bio.pdf
-- https://chisholmcountry.com/2022/02/04/king-of-swing-lives-on/
-- https://glennmillerorchestra.com/jenny-swoish/
+  - 'https://en.wikipedia.org/wiki/Glenn_Miller_Orchestra_(1956%E2%80%93present)'
+  - >-
+    https://cvindependent.com/2023/03/big-band-big-history-the-glenn-miller-orchestra-brings-vintage-hits-to-the-palm-springs-cultural-center/
+  - >-
+    https://glennmillerorchestra.com/wp-content/uploads/2023/05/Jenny-Swoish-Bio.pdf
+  - 'https://chisholmcountry.com/2022/02/04/king-of-swing-lives-on/'
+  - 'https://glennmillerorchestra.com/jenny-swoish/'
 spotify_data:
   followers: 189
   id: 7q5RmWKS9t8GaXaPMLJXAl
   popularity: 1
-  url: https://open.spotify.com/artist/7q5RmWKS9t8GaXaPMLJXAl
+  url: 'https://open.spotify.com/artist/7q5RmWKS9t8GaXaPMLJXAl'
 status: active
 title: Jenny Swoish
+artist_type: person
 ---
 
 ![](jenny_swoish.jpg)

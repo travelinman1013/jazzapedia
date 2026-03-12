@@ -2,18 +2,18 @@
 title: Tortoise
 wiki_slug: tortoise
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1990'
 genres:
-- post-rock
-- math rock
-- krautrock
-- slowcore
+  - post-rock
+  - math rock
+  - krautrock
+  - slowcore
 instruments:
-- drums (drum set)
-- vibraphone
-- keyboard
+  - drums (drum set)
+  - vibraphone
+  - keyboard
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/tortoise.jpg
   caption: Tortoise
@@ -34,111 +34,111 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Doug McCombs
-  - John Herndon
-  - John McEntire
-  - Dan Bitney
-  - Bundy K. Brown
-  - Jeff Parker
-  - David Pajo
+    - Doug McCombs
+    - John Herndon
+    - John McEntire
+    - Dan Bitney
+    - Bundy K. Brown
+    - Jeff Parker
+    - David Pajo
   influenced:
-  - Post-rock genre
-  - Chicago underground music scene
-  - Contemporary independent American music scene
+    - Post-rock genre
+    - Chicago underground music scene
+    - Contemporary independent American music scene
   mentors:
-  - Brad Wood
-  - SST Records catalog
+    - Brad Wood
+    - SST Records catalog
 spotify_data:
   followers: 155741
   id: 3WggbHDpj4rPKbL97zG5MQ
   popularity: 40
-  url: https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ
+  url: 'https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ'
 discography_enriched: true
 top_tracks:
-- Oganesson - Broken Social Scene Remix
-- I Set My Face to the Hillside (TNT)
-- Oganesson
-- Oganesson
-- Ten-Day Interval (TNT)
-- TNT (TNT)
-- Swung From the Gutters (TNT)
-- Glass Museum (Millions Now Living Will Never Die)
-- The Equator (TNT)
-- The Suspension Bridge at Iguazú Falls (TNT)
+  - Oganesson - Broken Social Scene Remix
+  - I Set My Face to the Hillside (TNT)
+  - Oganesson
+  - Oganesson
+  - Ten-Day Interval (TNT)
+  - TNT (TNT)
+  - Swung From the Gutters (TNT)
+  - Glass Museum (Millions Now Living Will Never Die)
+  - The Equator (TNT)
+  - The Suspension Bridge at Iguazú Falls (TNT)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e0953daa-860f-4dc8-9f1a-b12587cdaf17
-  spotify: https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ
+  musicbrainz: 'https://musicbrainz.org/artist/e0953daa-860f-4dc8-9f1a-b12587cdaf17'
+  spotify: 'https://open.spotify.com/artist/3WggbHDpj4rPKbL97zG5MQ'
   wikipedia: Not provided in search results
 image_path: 03_Resources/source_material/ArtistPortraits/tortoise.jpg
 biography_enhanced_at: '2025-10-29T16:43:19.793083'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Red Bull Music Academy - Tortoise Oral History
-- Bandcamp Daily - Thirty Years of Tortoise
-- PopMatters - Tortoise's Doug McCombs Interview
-- 'Michael A. Muller Substack - Artist Profile: Tortoise'
-- 'Piero Scaruffi - The History of Rock Music: Tortoise'
-- Sound Opinions - Tortoise, Post-Rock & Opinions on Michael Kiwanuka
-- Jango Radio - Tortoise Full Bio
+  - Red Bull Music Academy - Tortoise Oral History
+  - Bandcamp Daily - Thirty Years of Tortoise
+  - PopMatters - Tortoise's Doug McCombs Interview
+  - 'Michael A. Muller Substack - Artist Profile: Tortoise'
+  - 'Piero Scaruffi - The History of Rock Music: Tortoise'
+  - 'Sound Opinions - Tortoise, Post-Rock & Opinions on Michael Kiwanuka'
+  - Jango Radio - Tortoise Full Bio
 network_extracted: true
 entry_created: '2025-10-29T16:43:19.793092'
 last_updated: '2025-12-23T08:16:17.659041'
 members:
-- begin: '1996'
-  end: '1998'
-  instruments: []
-  mbid: 85188c46-d3ed-4517-ba78-5d06ec764f1c
-  name: David Pajo
-- begin: ''
-  end: '1996'
-  instruments: []
-  mbid: 940101f1-79c7-40ac-98d3-7b924b244a8e
-  name: Bundy K. Brown
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 781f0356-33b7-4168-8f68-db9387063320
-  name: Dan Bitney
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: d51c78af-2c21-4ced-ac8d-141ff0d57d5b
-  name: John Herndon
-- begin: ''
-  end: ''
-  instruments:
-  - vibraphone
-  mbid: d51c78af-2c21-4ced-ac8d-141ff0d57d5b
-  name: John Herndon
-- begin: ''
-  end: ''
-  instruments:
-  - keyboard
-  mbid: d51c78af-2c21-4ced-ac8d-141ff0d57d5b
-  name: John Herndon
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2bf77a32-29bb-432f-afe1-bde92b431c23
-  name: Douglas McCombs
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 73e452bb-1f86-4dec-a2aa-a8b097fea4c6
-  name: John McEntire
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4894f8eb-be75-4bd5-a3a3-7c20894439f9
-  name: Jeff Parker
+  - begin: '1996'
+    end: '1998'
+    instruments: []
+    mbid: 85188c46-d3ed-4517-ba78-5d06ec764f1c
+    name: David Pajo
+  - begin: ''
+    end: '1996'
+    instruments: []
+    mbid: 940101f1-79c7-40ac-98d3-7b924b244a8e
+    name: Bundy K. Brown
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 781f0356-33b7-4168-8f68-db9387063320
+    name: Dan Bitney
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: d51c78af-2c21-4ced-ac8d-141ff0d57d5b
+    name: John Herndon
+  - begin: ''
+    end: ''
+    instruments:
+      - vibraphone
+    mbid: d51c78af-2c21-4ced-ac8d-141ff0d57d5b
+    name: John Herndon
+  - begin: ''
+    end: ''
+    instruments:
+      - keyboard
+    mbid: d51c78af-2c21-4ced-ac8d-141ff0d57d5b
+    name: John Herndon
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2bf77a32-29bb-432f-afe1-bde92b431c23
+    name: Douglas McCombs
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 73e452bb-1f86-4dec-a2aa-a8b097fea4c6
+    name: John McEntire
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4894f8eb-be75-4bd5-a3a3-7c20894439f9
+    name: Jeff Parker
 musicbrainz_id: e0953daa-860f-4dc8-9f1a-b12587cdaf17
-origin: Chicago
+origin: 'Chicago, Illinois, United States'
 tags:
-- chicago school
-- electronica
-- experimental rock
+  - chicago school
+  - electronica
+  - experimental rock
 ---
 
 ![](tortoise.jpg)

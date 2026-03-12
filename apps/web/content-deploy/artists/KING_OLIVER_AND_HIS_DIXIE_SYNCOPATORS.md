@@ -4,16 +4,17 @@ wiki_slug: king-olivers-dixie-syncopators
 schema_version: 2
 status: active
 aliases: []
-birth_place: Aben, Louisiana, United States
+birth_place: 'Aben, Louisiana, United States'
 genres:
-- ragtime
+  - ragtime
 record_labels:
-- Brunswick Records
+  - Brunswick Records
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/King_Olivers_Dixie_Syncopators.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/King_Olivers_Dixie_Syncopators.jpg
   caption: King Oliver's Dixie Syncopators
   background: solo_singer
-  origin: Aben, Louisiana, United States
+  origin: 'Aben, Louisiana, United States'
 audio_profile:
   tempo_avg: 120.8
   energy_avg: 0.512
@@ -29,62 +30,70 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Louis Armstrong
-  - Johnny Dodds
-  - Baby Dodds
-  - Lil Hardin (Armstrong)
-  - Honoré Dutrey
-  - Bill Johnson
-  - Kid Ory
-  - Albert Nicholas
-  - Barney Bigard
-  - Luis Russell
-  - Paul Barbarin
-  - Clarence Williams
+    - Louis Armstrong
+    - Johnny Dodds
+    - Baby Dodds
+    - Lil Hardin (Armstrong)
+    - Honoré Dutrey
+    - Bill Johnson
+    - Kid Ory
+    - Albert Nicholas
+    - Barney Bigard
+    - Luis Russell
+    - Paul Barbarin
+    - Clarence Williams
   influenced:
-  - Louis Armstrong
-  - Duke Ellington
-  - Countless Jazz Musicians
+    - Louis Armstrong
+    - Duke Ellington
+    - Countless Jazz Musicians
   mentors:
-  - New Orleans Brass Bands
+    - New Orleans Brass Bands
 related_artists: []
 spotify_data:
   followers: 229
   id: 1bCikHdbGN5TZ7Y7MRb4ay
   popularity: 7
-  url: https://open.spotify.com/artist/1bCikHdbGN5TZ7Y7MRb4ay
+  url: 'https://open.spotify.com/artist/1bCikHdbGN5TZ7Y7MRb4ay'
   verified: false
 discography_enriched: true
 albums_count: 0
 singles_count: 0
 top_tracks:
-- Speakeasy Blues (Farewell Blues)
-- Farewell Blues (Farewell Blues)
-- Sweet Emmalina (Farewell Blues)
-- West End Blues (Farewell Blues)
-- Jackass Blues (Sugar Foot Stomp - Vocalion & Brunswick Recordings, Vol. 1)
-- Showboat Shuffle (Sugar Foot Stomp - Vocalion & Brunswick Recordings, Vol. 1)
-- Sobbin' Blues (Farewell Blues)
-- Deep Henderson (Sugar Foot Stomp - Vocalion & Brunswick Recordings, Vol. 1)
-- Every Tub (Sugar Foot Stomp - Vocalion & Brunswick Recordings, Vol. 1)
-- 'Black Snake Blues (Really the Blues?: A Blues History (1893-1959), Vol. 1 (1893-1929))'
+  - Speakeasy Blues (Farewell Blues)
+  - Farewell Blues (Farewell Blues)
+  - Sweet Emmalina (Farewell Blues)
+  - West End Blues (Farewell Blues)
+  - 'Jackass Blues (Sugar Foot Stomp - Vocalion & Brunswick Recordings, Vol. 1)'
+  - >-
+    Showboat Shuffle (Sugar Foot Stomp - Vocalion & Brunswick Recordings, Vol.
+    1)
+  - Sobbin' Blues (Farewell Blues)
+  - 'Deep Henderson (Sugar Foot Stomp - Vocalion & Brunswick Recordings, Vol. 1)'
+  - 'Every Tub (Sugar Foot Stomp - Vocalion & Brunswick Recordings, Vol. 1)'
+  - >-
+    Black Snake Blues (Really the Blues?: A Blues History (1893-1959), Vol. 1
+    (1893-1929))
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/1bCikHdbGN5TZ7Y7MRb4ay
-  wikipedia: https://en.wikipedia.org/wiki/King_Oliver
-image_path: 03_Resources/source_material/ArtistPortraits/King_Olivers_Dixie_Syncopators.jpg
+  spotify: 'https://open.spotify.com/artist/1bCikHdbGN5TZ7Y7MRb4ay'
+  wikipedia: 'https://en.wikipedia.org/wiki/King_Oliver'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/King_Olivers_Dixie_Syncopators.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:45:20.222146'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://wbssmedia.com/artists/detail/3185
-- https://en.wikipedia.org/wiki/King_Oliver
-- https://syncopatedtimes.com/profiles-in-jazz-joe-king-oliver/
+  - 'https://wbssmedia.com/artists/detail/3185'
+  - 'https://en.wikipedia.org/wiki/King_Oliver'
+  - 'https://syncopatedtimes.com/profiles-in-jazz-joe-king-oliver/'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 12:55:09.096300
+entry_created: 2025-09-18T12:55:09.096Z
 last_updated: '2025-12-23T08:16:02.784274'
+origin: 'Chicago, Illinois, United States'
+birth_date: '1881-12-19'
+artist_type: person
 ---
 
 ![](King_Olivers_Dixie_Syncopators.jpg)

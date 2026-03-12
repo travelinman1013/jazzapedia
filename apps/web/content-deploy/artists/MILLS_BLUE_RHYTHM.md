@@ -3,50 +3,54 @@ biography_enhanced_at: '2026-01-08T01:33:07.725221'
 enhancement_provider: perplexity
 entry_created: '2026-01-08T01:33:07.725226'
 external_urls:
-  spotify: https://open.spotify.com/artist/140K78ooLk7HfhlWiTc9dM
-  wikipedia: https://en.wikipedia.org/wiki/Mills_Blue_Rhythm_Band
+  spotify: 'https://open.spotify.com/artist/140K78ooLk7HfhlWiTc9dM'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mills_Blue_Rhythm_Band'
 genres:
-- swing music
-- big band
-- ragtime
+  - swing music
+  - big band
+  - ragtime
 image_path: 03_Resources/source_material/ArtistPortraits/mills_blue_rhythm.jpg
 last_updated: '2026-01-08T01:33:07.725227'
 musical_connections:
   collaborators:
-  - Lucky Millinder
-  - Henry “Red” Allen
-  - Louis Armstrong
-  - Bingie Madison
-  - Eddie Mallory
-  - Charlie Shavers
-  - Joe Garland
-  - Van Alexander
+    - Lucky Millinder
+    - Henry “Red” Allen
+    - Louis Armstrong
+    - Bingie Madison
+    - Eddie Mallory
+    - Charlie Shavers
+    - Joe Garland
+    - Van Alexander
   influenced:
-  - Lucky Millinder and His Orchestra
-  - Later swing and revivalist big bands
+    - Lucky Millinder and His Orchestra
+    - Later swing and revivalist big bands
   mentors:
-  - Irving Mills
-  - Duke Ellington
-  - Cab Calloway
+    - Irving Mills
+    - Duke Ellington
+    - Cab Calloway
 network_extracted: true
-origin: Harlem, New York City, United States
+origin: 'Harlem, New York City, United States'
 primary_source: perplexity
 research_sources:
-- https://www.swingstreetradio.org/swings-unsung-heroes-the-story-of-the-mills-blue-rhythm-band/
-- https://the78rpmrecordspins.wordpress.com/2013/03/20/mills-blue-rhythm-band/
-- https://www.jazz-on-film.com/mills-blue-rhythm-band/
-- https://vintagestardust.wordpress.com/2022/08/21/mills-blue-rhythm-band-1930s-music/
-- https://www.swingstreetradio.org/performer/mills-blue-rhythm-band/
-- https://www.last.fm/music/Mills+Blue+Rhythm+Band/+wiki
-- https://adp.library.ucsb.edu/index.php/mastertalent/detail/105991/Mills_Blue_Rhythm_Band
-- https://en.wikipedia.org/wiki/Mills_Blue_Rhythm_Band
+  - >-
+    https://www.swingstreetradio.org/swings-unsung-heroes-the-story-of-the-mills-blue-rhythm-band/
+  - 'https://the78rpmrecordspins.wordpress.com/2013/03/20/mills-blue-rhythm-band/'
+  - 'https://www.jazz-on-film.com/mills-blue-rhythm-band/'
+  - >-
+    https://vintagestardust.wordpress.com/2022/08/21/mills-blue-rhythm-band-1930s-music/
+  - 'https://www.swingstreetradio.org/performer/mills-blue-rhythm-band/'
+  - 'https://www.last.fm/music/Mills+Blue+Rhythm+Band/+wiki'
+  - >-
+    https://adp.library.ucsb.edu/index.php/mastertalent/detail/105991/Mills_Blue_Rhythm_Band
+  - 'https://en.wikipedia.org/wiki/Mills_Blue_Rhythm_Band'
 spotify_data:
   followers: 4360
   id: 140K78ooLk7HfhlWiTc9dM
   popularity: 17
-  url: https://open.spotify.com/artist/140K78ooLk7HfhlWiTc9dM
+  url: 'https://open.spotify.com/artist/140K78ooLk7HfhlWiTc9dM'
 status: active
-title: MILLS BLUE RHYTHM
+title: Mills Blue Rhythm
+artist_type: band
 ---
 
 ![](mills_blue_rhythm.jpg)

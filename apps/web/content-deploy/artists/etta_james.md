@@ -5,30 +5,30 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1938-01-25'
-birth_place: Los Angeles
+birth_place: 'Los Angeles, California, United States'
 death_date: '2012-01-20'
 genres:
-- soul
-- jazz blues
-- soul blues
-- blues
-- vocal jazz
+  - soul
+  - jazz blues
+  - soul blues
+  - blues
+  - vocal jazz
 instruments:
-- original
-- lead vocals
-- background vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - original
-  mbid: 8920a7c6-a44b-4134-b7a9-cd19c56776d5
-  name: Betty & Dupree
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3ee63eef-a314-451d-9e06-4b605a08841e
-  name: Etta James & The Peaches
+  - lead vocals
+  - background vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 8920a7c6-a44b-4134-b7a9-cd19c56776d5
+    name: Betty & Dupree
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3ee63eef-a314-451d-9e06-4b605a08841e
+    name: Etta James & The Peaches
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/etta_james.jpg
   caption: Etta James
@@ -51,56 +51,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Harvey Fuqua
-  - B.B. King
-  - Marvin Gaye
+    - Harvey Fuqua
+    - B.B. King
+    - Marvin Gaye
   influenced:
-  - Beyoncé
-  - Adele
-  - Christina Aguilera
+    - Beyoncé
+    - Adele
+    - Christina Aguilera
   mentors:
-  - James Earl Hines
-  - Johnny Otis
+    - James Earl Hines
+    - Johnny Otis
 spotify_data:
   followers: 1993434
   id: 0iOVhN3tnSvgDbcg25JoJb
   popularity: 67
-  url: https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb
+  url: 'https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb'
 discography_enriched: true
 top_tracks:
-- I'd Rather Go Blind (Tell Mama)
-- At Last (At Last!)
-- A Sunday Kind Of Love (At Last!)
-- Stormy Weather (At Last!)
-- 'Something''s Got A Hold On Me (Heart & Soul: A Retrospective)'
-- I Just Want To Make Love To You - Single Version (At Last!)
-- Trust In Me (At Last!)
-- All I Could Do Was Cry (At Last!)
-- Tell Mama (Tell Mama)
-- Don't Cry Baby (The Second Time Around)
+  - I'd Rather Go Blind (Tell Mama)
+  - At Last (At Last!)
+  - A Sunday Kind Of Love (At Last!)
+  - Stormy Weather (At Last!)
+  - 'Something''s Got A Hold On Me (Heart & Soul: A Retrospective)'
+  - I Just Want To Make Love To You - Single Version (At Last!)
+  - Trust In Me (At Last!)
+  - All I Could Do Was Cry (At Last!)
+  - Tell Mama (Tell Mama)
+  - Don't Cry Baby (The Second Time Around)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e22d2f66-881e-41ca-9356-544697ee5f90
-  spotify: https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb
-  wikipedia: https://en.wikipedia.org/wiki/Etta_James
+  musicbrainz: 'https://musicbrainz.org/artist/e22d2f66-881e-41ca-9356-544697ee5f90'
+  spotify: 'https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb'
+  wikipedia: 'https://en.wikipedia.org/wiki/Etta_James'
 image_path: 03_Resources/source_material/ArtistPortraits/etta_james.jpg
 biography_enhanced_at: '2025-10-24T07:42:41.601546'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Etta_James
-- https://www.biography.com/musicians/etta-james
-- https://www.britannica.com/biography/Etta-James
-- https://aaregistry.org/story/a-voice-of-passion-etta-james/
-- https://teyxo.com/lifestyle/the-life-and-art-of-etta-james-the-voice-that-defined-generations/
+  - 'https://en.wikipedia.org/wiki/Etta_James'
+  - 'https://www.biography.com/musicians/etta-james'
+  - 'https://www.britannica.com/biography/Etta-James'
+  - 'https://aaregistry.org/story/a-voice-of-passion-etta-james/'
+  - >-
+    https://teyxo.com/lifestyle/the-life-and-art-of-etta-james-the-voice-that-defined-generations/
 network_extracted: true
 entry_created: '2025-10-24T07:42:41.601563'
 last_updated: '2025-12-23T08:16:08.507420'
 gender: Female
 musicbrainz_id: e22d2f66-881e-41ca-9356-544697ee5f90
 tags:
-- 2008 universal fire victim
-- blues
-- blues rock
+  - 2008 universal fire victim
+  - blues
+  - blues rock
+is_active: false
+origin: 'San Francisco, California, United States'
 ---
 
 ![](etta_james.jpg)

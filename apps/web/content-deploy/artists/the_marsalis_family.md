@@ -2,10 +2,10 @@
 title: The Marsalis Family
 wiki_slug: the-marsalis-family
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_marsalis_family.jpg
   caption: The Marsalis Family
@@ -25,84 +25,85 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Harry Connick Jr.
-  - Roland Guerin
-  - Sting
-  - Grateful Dead
+    - Harry Connick Jr.
+    - Roland Guerin
+    - Sting
+    - Grateful Dead
   influenced:
-  - Terence Blanchard
-  - Donald Harrison
-  - Nicholas Payton
-  - Harry Connick Jr.
+    - Terence Blanchard
+    - Donald Harrison
+    - Nicholas Payton
+    - Harry Connick Jr.
   mentors:
-  - Ellis Marsalis Jr.
-  - Al Hirt
-  - Art Blakey
+    - Ellis Marsalis Jr.
+    - Al Hirt
+    - Art Blakey
 spotify_data:
   followers: 2340
   id: 5R6ngkwjXVEX6LaXCXEsau
   popularity: 11
-  url: https://open.spotify.com/artist/5R6ngkwjXVEX6LaXCXEsau
+  url: 'https://open.spotify.com/artist/5R6ngkwjXVEX6LaXCXEsau'
 discography_enriched: true
 top_tracks:
-- Swinging At The Haven (A Jazz Celebration)
-- Swinging At The Haven (A Jazz Celebration)
-- Struttin' With Some Barbecue (A Jazz Celebration)
-- Twelve's It (A Jazz Celebration)
-- Struttin' With Some Barbecue (A Jazz Celebration)
-- The Surrey With the Fringe on Top (A Jazz Celebration)
-- Nostalgic Impressions (A Jazz Celebration)
-- Donna Lee (Live) (Music Redeems (Live))
-- The 2nd Line (Live) (Music Redeems (Live))
-- St. James Infirmary (A Jazz Celebration)
+  - Swinging At The Haven (A Jazz Celebration)
+  - Swinging At The Haven (A Jazz Celebration)
+  - Struttin' With Some Barbecue (A Jazz Celebration)
+  - Twelve's It (A Jazz Celebration)
+  - Struttin' With Some Barbecue (A Jazz Celebration)
+  - The Surrey With the Fringe on Top (A Jazz Celebration)
+  - Nostalgic Impressions (A Jazz Celebration)
+  - Donna Lee (Live) (Music Redeems (Live))
+  - The 2nd Line (Live) (Music Redeems (Live))
+  - St. James Infirmary (A Jazz Celebration)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/205a935f-6ce4-461b-88d9-9dcc74d76415
-  spotify: https://open.spotify.com/artist/5R6ngkwjXVEX6LaXCXEsau
-  wikipedia: https://en.wikipedia.org/wiki/Ellis_Marsalis_Jr.
+  musicbrainz: 'https://musicbrainz.org/artist/205a935f-6ce4-461b-88d9-9dcc74d76415'
+  spotify: 'https://open.spotify.com/artist/5R6ngkwjXVEX6LaXCXEsau'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ellis_Marsalis_Jr.'
 image_path: 03_Resources/source_material/ArtistPortraits/the_marsalis_family.jpg
 biography_enhanced_at: '2025-10-31T08:11:06.075398'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.britannica.com/biography/Marsalis-family
-- https://en.wikipedia.org/wiki/Ellis_Marsalis_Jr.
-- https://wyntonmarsalis.org/discography/title/the-marsalis-family
-- https://www.frenchquarter.com/marsalis-masters/
-- https://www.arts.gov/honors/jazz/marsalis-family
-- https://chancentre.com/news/a-family-affair-the-marsalises/
+  - 'https://www.britannica.com/biography/Marsalis-family'
+  - 'https://en.wikipedia.org/wiki/Ellis_Marsalis_Jr.'
+  - 'https://wyntonmarsalis.org/discography/title/the-marsalis-family'
+  - 'https://www.frenchquarter.com/marsalis-masters/'
+  - 'https://www.arts.gov/honors/jazz/marsalis-family'
+  - 'https://chancentre.com/news/a-family-affair-the-marsalises/'
 network_extracted: true
 entry_created: '2025-10-31T08:11:06.075408'
 last_updated: '2025-12-23T08:16:16.933230'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: fd9cdeb8-5436-46a7-8e17-4ee900219246
-  name: Branford Marsalis
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d745400c-705b-4776-84ac-f23fc923104f
-  name: Delfeayo Marsalis
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c28999ee-ff26-4825-be24-b466e7b32821
-  name: Ellis Marsalis
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: dee32178-b8fc-4c8f-b435-112c57a9175a
-  name: Jason Marsalis
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0d74dcc7-5684-4695-830f-a9846aad8ba9
-  name: Wynton Marsalis
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: fd9cdeb8-5436-46a7-8e17-4ee900219246
+    name: Branford Marsalis
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d745400c-705b-4776-84ac-f23fc923104f
+    name: Delfeayo Marsalis
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c28999ee-ff26-4825-be24-b466e7b32821
+    name: Ellis Marsalis
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: dee32178-b8fc-4c8f-b435-112c57a9175a
+    name: Jason Marsalis
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0d74dcc7-5684-4695-830f-a9846aad8ba9
+    name: Wynton Marsalis
 musicbrainz_id: 205a935f-6ce4-461b-88d9-9dcc74d76415
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 tags:
-- jazz and blues
+  - jazz and blues
+birth_place: 'New Orleans, Louisiana, United States'
 ---
 
 ![](the_marsalis_family.jpg)

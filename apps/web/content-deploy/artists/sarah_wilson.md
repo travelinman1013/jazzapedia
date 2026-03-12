@@ -3,14 +3,14 @@ title: Sarah Wilson
 wiki_slug: sarah-wilson
 schema_version: 2
 status: active
-birth_place: Healdsburg, California, United States
+birth_place: 'Healdsburg, California, United States'
 genres:
-- vocal jazz
+  - vocal jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sarah_wilson.jpg
   caption: Sarah Wilson
   background: solo_singer
-  origin: Healdsburg, California, United States
+  origin: 'Healdsburg, California, United States'
 audio_profile:
   tempo_avg: 115.3
   energy_avg: 0.313
@@ -26,50 +26,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Myra Melford
-  - Matt Wilson
-  - Charles Burnham
-  - Jerome Harris
-  - John Schott
-  - Ben Goldberg
-  - Scott Amendola
+    - Myra Melford
+    - Matt Wilson
+    - Charles Burnham
+    - Jerome Harris
+    - John Schott
+    - Ben Goldberg
+    - Scott Amendola
   influenced: []
   mentors:
-  - John McNeil
-  - Laurie Frink
-  - Carla Bley
+    - John McNeil
+    - Laurie Frink
+    - Carla Bley
 spotify_data:
   followers: 71
   id: 4d7WcPo4CTRXBHZ6MqynVv
   popularity: 0
-  url: https://open.spotify.com/artist/4d7WcPo4CTRXBHZ6MqynVv
+  url: 'https://open.spotify.com/artist/4d7WcPo4CTRXBHZ6MqynVv'
 discography_enriched: true
 top_tracks:
-- Architecture in Space (Incandescence)
-- Incandescence (Incandescence)
-- Music Appears to Stand Still (Incandescence)
-- Aspiration (Kaleidoscope)
-- Presence (Kaleidoscope)
-- Young Woman (Kaleidoscope)
-- Color (Kaleidoscope)
-- Kaleidoscope (Kaleidoscope)
-- Felta Road (Kaleidoscope)
-- Quiet Rust (Kaleidoscope)
+  - Architecture in Space (Incandescence)
+  - Incandescence (Incandescence)
+  - Music Appears to Stand Still (Incandescence)
+  - Aspiration (Kaleidoscope)
+  - Presence (Kaleidoscope)
+  - Young Woman (Kaleidoscope)
+  - Color (Kaleidoscope)
+  - Kaleidoscope (Kaleidoscope)
+  - Felta Road (Kaleidoscope)
+  - Quiet Rust (Kaleidoscope)
 external_urls:
-  spotify: https://open.spotify.com/artist/4d7WcPo4CTRXBHZ6MqynVv
+  spotify: 'https://open.spotify.com/artist/4d7WcPo4CTRXBHZ6MqynVv'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/sarah_wilson.jpg
 biography_enhanced_at: '2025-10-24T07:35:59.907654'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://jazztimes.com/features/profiles/sarah-wilson-parallel-paths-converge/
-- https://www.sarahwilsonmusic.com/about
-- https://artsfuse.org/232665/jazz-album-review-sarah-wilsons-kaleidoscope-unrelievedly-optimistic/
-- https://allaboutjazz.com/musicians/sarah-wilson/
+  - >-
+    https://jazztimes.com/features/profiles/sarah-wilson-parallel-paths-converge/
+  - 'https://www.sarahwilsonmusic.com/about'
+  - >-
+    https://artsfuse.org/232665/jazz-album-review-sarah-wilsons-kaleidoscope-unrelievedly-optimistic/
+  - 'https://allaboutjazz.com/musicians/sarah-wilson/'
 network_extracted: true
 entry_created: '2025-10-24T07:35:59.907668'
 last_updated: '2025-12-23T08:16:15.402434'
+artist_type: person
 ---
 
 ![](sarah_wilson.jpg)

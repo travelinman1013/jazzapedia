@@ -2,57 +2,58 @@
 artist_type: person
 biography_enhanced_at: '2026-01-05T07:52:58.603353'
 birth_date: '1925-04-30'
-birth_place: Los Angeles
+birth_place: 'Los Angeles, California, United States'
 death_date: '1960-11-05'
 enhancement_provider: perplexity
 entry_created: '2026-01-05T07:52:58.603359'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8736f41f-365e-42c7-a733-36c22e74c97e
-  spotify: https://open.spotify.com/artist/1bBZcz4jP7CoPlqpCFh4gz
-  wikipedia: https://en.wikipedia.org/wiki/Johnny_Horton
+  musicbrainz: 'https://musicbrainz.org/artist/8736f41f-365e-42c7-a733-36c22e74c97e'
+  spotify: 'https://open.spotify.com/artist/1bBZcz4jP7CoPlqpCFh4gz'
+  wikipedia: 'https://en.wikipedia.org/wiki/Johnny_Horton'
 gender: Male
 genres:
-- rockabilly
-- honky tonk
+  - rockabilly
+  - honky tonk
 image_path: 03_Resources/source_material/ArtistPortraits/johnny_horton.jpg
 instruments:
-- lead vocals
+  - lead vocals
 last_updated: '2026-01-05T07:52:58.603360'
 musical_connections:
   collaborators:
-  - Tillman Franks
-  - Jerry Rowley
-  - Evelyn Rowley
-  - Vera (Dido) Rowley
-  - Billie Jean Jones (Hank Williams' widow)
+    - Tillman Franks
+    - Jerry Rowley
+    - Evelyn Rowley
+    - Vera (Dido) Rowley
+    - Billie Jean Jones (Hank Williams' widow)
   influenced:
-  - Jim Reeves
+    - Jim Reeves
   mentors:
-  - Mother (Ella Claudia Horton)
-  - Elvis Presley
-  - Tillman Franks
+    - Mother (Ella Claudia Horton)
+    - Elvis Presley
+    - Tillman Franks
 musicbrainz_id: 8736f41f-365e-42c7-a733-36c22e74c97e
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Johnny_Horton
-- https://alancackett.com/johnny-horton-biography
-- https://louisianamusichalloffame.org/johnny-horton/
-- https://rockabillylegends.com/the-johnny-horton-biography/
-- https://www.tshaonline.org/handbook/entries/horton-johnny
-- https://www.iheart.com/artist/johnny-horton-13820/
+  - 'https://en.wikipedia.org/wiki/Johnny_Horton'
+  - 'https://alancackett.com/johnny-horton-biography'
+  - 'https://louisianamusichalloffame.org/johnny-horton/'
+  - 'https://rockabillylegends.com/the-johnny-horton-biography/'
+  - 'https://www.tshaonline.org/handbook/entries/horton-johnny'
+  - 'https://www.iheart.com/artist/johnny-horton-13820/'
 spotify_data:
   followers: 235114
   id: 1bBZcz4jP7CoPlqpCFh4gz
   popularity: 48
-  url: https://open.spotify.com/artist/1bBZcz4jP7CoPlqpCFh4gz
+  url: 'https://open.spotify.com/artist/1bBZcz4jP7CoPlqpCFh4gz'
 status: active
 tags:
-- american
-- country
-- honky tonk
-title: JOHNNY HORTON
-
+  - american
+  - country
+  - honky tonk
+title: Johnny Horton
+is_active: false
+origin: 'Shreveport, Louisiana, United States'
 ---
 
 ![](johnny_horton.jpg)

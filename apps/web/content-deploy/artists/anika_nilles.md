@@ -5,19 +5,19 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1983-05-29'
-birth_place: Aschaffenburg
+birth_place: 'Aschaffenburg, Bavaria, Germany'
 genres:
-- jazz fusion
-- jazz funk
+  - jazz fusion
+  - jazz funk
 instruments:
-- drums (drum set)
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - drums (drum set)
-  mbid: 5e16de06-5a23-4e5e-97ac-848910afc20f
-  name: Jeff Beck Band
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 5e16de06-5a23-4e5e-97ac-848910afc20f
+    name: Jeff Beck Band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/anika_nilles.jpg
   caption: Anika Nilles
@@ -39,45 +39,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Joachim Schneiss
-  - Nevell
-  - Jeff Beck
+    - Joachim Schneiss
+    - Nevell
+    - Jeff Beck
   influenced:
-  - Students at Popakademie Baden-Württemberg, Drumeo, and Nexus ICA
+    - 'Students at Popakademie Baden-Württemberg, Drumeo, and Nexus ICA'
   mentors:
-  - Her father
+    - Her father
 spotify_data:
   followers: 51240
   id: 0IF3ewdvS7h9Wu3gDgV3fi
   popularity: 40
-  url: https://open.spotify.com/artist/0IF3ewdvS7h9Wu3gDgV3fi
+  url: 'https://open.spotify.com/artist/0IF3ewdvS7h9Wu3gDgV3fi'
 discography_enriched: true
 top_tracks:
-- Synergy (Pikalar)
-- Up and Down (Opuntia)
-- Pure (For a Colorful Soul)
-- Bowser (Bowser)
-- Morphosis (Opuntia)
-- Neon (For a Colorful Soul)
-- The Age (For a Colorful Soul)
-- Circles (For a Colorful Soul)
-- One Ride One Life (Pikalar)
-- Alter Ego - Bonus Track (Pikalar)
+  - Synergy (Pikalar)
+  - Up and Down (Opuntia)
+  - Pure (For a Colorful Soul)
+  - Bowser (Bowser)
+  - Morphosis (Opuntia)
+  - Neon (For a Colorful Soul)
+  - The Age (For a Colorful Soul)
+  - Circles (For a Colorful Soul)
+  - One Ride One Life (Pikalar)
+  - Alter Ego - Bonus Track (Pikalar)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/98b4fff5-e004-4ecb-84fb-83b245e33fdb
-  spotify: https://open.spotify.com/artist/0IF3ewdvS7h9Wu3gDgV3fi
-  wikipedia: https://en.wikipedia.org/wiki/Anika_Nilles
+  musicbrainz: 'https://musicbrainz.org/artist/98b4fff5-e004-4ecb-84fb-83b245e33fdb'
+  spotify: 'https://open.spotify.com/artist/0IF3ewdvS7h9Wu3gDgV3fi'
+  wikipedia: 'https://en.wikipedia.org/wiki/Anika_Nilles'
 image_path: 03_Resources/source_material/ArtistPortraits/anika_nilles.jpg
 biography_enhanced_at: '2025-10-25T09:48:23.753731'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Anika_Nilles
-- https://www.anikanilles.com
-- https://loudwire.com/rush-new-drummer-anika-nilles/
-- https://hamariweb.com/profiles/anika-nilles_20640
-- https://meinlpercussion.com/en/artists/anika-nilles-a1509.html
-- https://jazzmusicarchives.com/artist/anika-nilles
+  - 'https://en.wikipedia.org/wiki/Anika_Nilles'
+  - 'https://www.anikanilles.com'
+  - 'https://loudwire.com/rush-new-drummer-anika-nilles/'
+  - 'https://hamariweb.com/profiles/anika-nilles_20640'
+  - 'https://meinlpercussion.com/en/artists/anika-nilles-a1509.html'
+  - 'https://jazzmusicarchives.com/artist/anika-nilles'
 network_extracted: true
 entry_created: '2025-10-25T09:48:23.753741'
 last_updated: '2025-12-23T08:16:04.814954'
@@ -85,7 +85,8 @@ disambiguation: German drummer
 gender: Female
 musicbrainz_id: 98b4fff5-e004-4ecb-84fb-83b245e33fdb
 tags:
-- jazz fusion
+  - jazz fusion
+origin: 'Mannheim, Baden-Württemberg, Germany'
 ---
 
 ![](anika_nilles.jpg)

@@ -1,14 +1,15 @@
 ---
 biography_enhanced_at: '2026-01-09T01:49:07.199020'
-birth_place: Miami, Florida, United States (birthplace); Birmingham, Alabama, United
-  States (career base/origin as recording artist)
+birth_place: >-
+  Miami, Florida, United States (birthplace); Birmingham, Alabama, United States
+  (career base/origin as recording artist)
 enhancement_provider: perplexity
 entry_created: '2026-01-09T01:49:07.199025'
 external_urls:
-  spotify: https://open.spotify.com/artist/2vs8yylcDc2kRhNcBxtnGz
+  spotify: 'https://open.spotify.com/artist/2vs8yylcDc2kRhNcBxtnGz'
   wikipedia: ''
 genres:
-- hyphy
+  - hyphy
 image_path: 03_Resources/source_material/ArtistPortraits/love_moor.jpg
 last_updated: '2026-01-09T01:49:07.199026'
 musical_connections:
@@ -18,14 +19,17 @@ musical_connections:
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://wbhm.org/2018/birminghams-love-moor-is-grabbing-ears-beyond-the-magic-city/
+  - >-
+    https://wbhm.org/2018/birminghams-love-moor-is-grabbing-ears-beyond-the-magic-city/
 spotify_data:
   followers: 1661
   id: 2vs8yylcDc2kRhNcBxtnGz
   popularity: 15
-  url: https://open.spotify.com/artist/2vs8yylcDc2kRhNcBxtnGz
+  url: 'https://open.spotify.com/artist/2vs8yylcDc2kRhNcBxtnGz'
 status: active
 title: Love Moor
+origin: 'Birmingham, Alabama, United States'
+artist_type: person
 ---
 
 ![](love_moor.jpg)

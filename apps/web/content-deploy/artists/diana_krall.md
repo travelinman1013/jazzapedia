@@ -2,20 +2,20 @@
 title: Diana Krall
 wiki_slug: diana-krall
 schema_version: 2
-artist_type: person
+artist_type: band
 status: active
 birth_date: '1964-11-16'
-birth_place: Nanaimo
+birth_place: 'Nanaimo, British Columbia, Canada'
 genres:
-- vocal jazz
-- jazz
-- smooth jazz
+  - vocal jazz
+  - jazz
+  - smooth jazz
 instruments:
-- piano
-- upright piano
-- grand piano
-- lead vocals
-- spoken vocals
+  - piano
+  - upright piano
+  - grand piano
+  - lead vocals
+  - spoken vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/diana_krall.jpg
   caption: Diana Krall
@@ -37,55 +37,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tommy LiPuma
-  - Elvis Costello
-  - John Clayton
-  - Jeff Hamilton
+    - Tommy LiPuma
+    - Elvis Costello
+    - John Clayton
+    - Jeff Hamilton
   influenced:
-  - Norah Jones
+    - Norah Jones
   mentors:
-  - Ray Brown
-  - Jimmy Rowles
+    - Ray Brown
+    - Jimmy Rowles
 spotify_data:
   followers: 1165165
   id: 5z1VAFwT35EVvCp1XlZZuL
   popularity: 61
-  url: https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL
+  url: 'https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL'
 discography_enriched: true
 top_tracks:
-- The Look Of Love (The Look Of Love)
-- Let's Fall In Love (When I Look In Your Eyes)
-- You Don't Know Me (Genius Loves Company)
-- Alone Again (Naturally) (Wallflower)
-- Just The Way You Are (Live In Paris)
-- '''S Wonderful (The Look Of Love)'
-- Night And Day (Turn Up The Quiet)
-- Cry Me A River (The Look Of Love)
-- Temptation (The Girl In The Other Room)
-- California Dreamin' (Wallflower)
+  - The Look Of Love (The Look Of Love)
+  - Let's Fall In Love (When I Look In Your Eyes)
+  - You Don't Know Me (Genius Loves Company)
+  - Alone Again (Naturally) (Wallflower)
+  - Just The Way You Are (Live In Paris)
+  - '''S Wonderful (The Look Of Love)'
+  - Night And Day (Turn Up The Quiet)
+  - Cry Me A River (The Look Of Love)
+  - Temptation (The Girl In The Other Room)
+  - California Dreamin' (Wallflower)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/67d2cb7a-9ddb-4a7f-82bf-5a2d1a038e98
-  spotify: https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL
-  wikipedia: https://en.wikipedia.org/wiki/Diana_Krall
+  musicbrainz: 'https://musicbrainz.org/artist/67d2cb7a-9ddb-4a7f-82bf-5a2d1a038e98'
+  spotify: 'https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL'
+  wikipedia: 'https://en.wikipedia.org/wiki/Diana_Krall'
 image_path: 03_Resources/source_material/ArtistPortraits/diana_krall.jpg
 biography_enhanced_at: '2025-10-24T07:47:29.478869'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.hellomagazine.com/profiles/20091008873/diana-krall/
-- https://www.opry.com/artists/diana-krall
-- https://www.imdb.com/name/nm0005106/bio/
-- https://www.britannica.com/biography/Diana-Krall
-- https://en.wikipedia.org/wiki/Diana_Krall
+  - 'https://www.hellomagazine.com/profiles/20091008873/diana-krall/'
+  - 'https://www.opry.com/artists/diana-krall'
+  - 'https://www.imdb.com/name/nm0005106/bio/'
+  - 'https://www.britannica.com/biography/Diana-Krall'
+  - 'https://en.wikipedia.org/wiki/Diana_Krall'
 network_extracted: true
 entry_created: '2025-10-24T07:47:29.478887'
 last_updated: '2025-12-23T08:16:07.743796'
 gender: Female
 musicbrainz_id: 67d2cb7a-9ddb-4a7f-82bf-5a2d1a038e98
 tags:
-- british
-- canadian
-- contemporary jazz
+  - british
+  - canadian
+  - contemporary jazz
 ---
 
 ![](diana_krall.jpg)

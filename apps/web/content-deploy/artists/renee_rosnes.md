@@ -2,62 +2,62 @@
 title: Renee Rosnes
 wiki_slug: renee-rosnes
 schema_version: 2
-artist_type: person
+artist_type: band
 status: active
 birth_date: '1962-03-24'
-birth_place: Regina
+birth_place: 'Regina, Saskatchewan, Canada'
 genres:
-- jazz
+  - jazz
 instruments:
-- original
-- piano
-- Rhodes piano
-associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 21d3d54e-8bbd-44a5-b2a8-47918f83d395
-  name: Out of the Blue
-- begin: ''
-  end: ''
-  instruments:
   - original
-  mbid: 3377ca0c-52aa-46fc-af6e-7f6e3bea79f2
-  name: Renee Rosnes Quartet
-- begin: ''
-  end: ''
-  instruments:
   - piano
-  mbid: 53732191-7511-466e-b47f-872cb373e623
-  name: Gerald Wilson Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bef1290e-c8f4-4cd8-a002-6d2cf8efaa4e
-  name: The J.J. Johnson Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: c6c65144-28fe-47e4-8303-dbc983689221
-  name: Native Colours
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: e43154ac-3bd3-4003-b3ba-980b4120624e
-  name: ARTEMIS
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: 3202ce0a-90a4-44ca-b4b2-32cc1b178dd4
-  name: Todd Coolman Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 13747f49-5867-4230-b957-9162eea74319
-  name: Ron Carter Foursight Quartet
+  - Rhodes piano
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 21d3d54e-8bbd-44a5-b2a8-47918f83d395
+    name: Out of the Blue
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 3377ca0c-52aa-46fc-af6e-7f6e3bea79f2
+    name: Renee Rosnes Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: 53732191-7511-466e-b47f-872cb373e623
+    name: Gerald Wilson Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bef1290e-c8f4-4cd8-a002-6d2cf8efaa4e
+    name: The J.J. Johnson Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: c6c65144-28fe-47e4-8303-dbc983689221
+    name: Native Colours
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: e43154ac-3bd3-4003-b3ba-980b4120624e
+    name: ARTEMIS
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: 3202ce0a-90a4-44ca-b4b2-32cc1b178dd4
+    name: Todd Coolman Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 13747f49-5867-4230-b957-9162eea74319
+    name: Ron Carter Foursight Quartet
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/renee_rosnes.jpg
   caption: Renee Rosnes
@@ -79,61 +79,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Joe Henderson
-  - Wayne Shorter
-  - J.J. Johnson
-  - James Moody
-  - Bobby Hutcherson
-  - Ron Carter
-  - Billy Drummond & Ray Drummond
-  - Bill Charlap
-  - SFJAZZ Collective
-  - ARTEMIS
+    - Joe Henderson
+    - Wayne Shorter
+    - J.J. Johnson
+    - James Moody
+    - Bobby Hutcherson
+    - Ron Carter
+    - Billy Drummond & Ray Drummond
+    - Bill Charlap
+    - SFJAZZ Collective
+    - ARTEMIS
   influenced:
-  - Melissa Aldana
-  - Noriko Ueda
+    - Melissa Aldana
+    - Noriko Ueda
   mentors:
-  - Bob Rebagliati
-  - William Aide
+    - Bob Rebagliati
+    - William Aide
 spotify_data:
   followers: 6605
   id: 7ixjaiJXnC2cxrbIE3WugD
   popularity: 22
-  url: https://open.spotify.com/artist/7ixjaiJXnC2cxrbIE3WugD
+  url: 'https://open.spotify.com/artist/7ixjaiJXnC2cxrbIE3WugD'
 discography_enriched: true
 top_tracks:
-- The Winter of My Discontent (Beloved of the Sky)
-- Evermore (Kinds of Love)
-- Goodbye (Art & Soul)
-- Chorinho (Double Portrait)
-- Dancing In The Dark (Double Portrait)
-- Sax Chase (In My Time)
-- Say When (Legacy)
-- Ray's Vision At The U (In My Time)
-- Double Rainbow (Choveno Na Roseira) (Double Portrait)
-- Have You Met Miss Jones? (Secret Love)
+  - The Winter of My Discontent (Beloved of the Sky)
+  - Evermore (Kinds of Love)
+  - Goodbye (Art & Soul)
+  - Chorinho (Double Portrait)
+  - Dancing In The Dark (Double Portrait)
+  - Sax Chase (In My Time)
+  - Say When (Legacy)
+  - Ray's Vision At The U (In My Time)
+  - Double Rainbow (Choveno Na Roseira) (Double Portrait)
+  - Have You Met Miss Jones? (Secret Love)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/bff6007a-b3d9-451b-897f-5ca8a9979906
-  spotify: https://open.spotify.com/artist/7ixjaiJXnC2cxrbIE3WugD
-  wikipedia: https://en.wikipedia.org/wiki/Renee_Rosnes
+  musicbrainz: 'https://musicbrainz.org/artist/bff6007a-b3d9-451b-897f-5ca8a9979906'
+  spotify: 'https://open.spotify.com/artist/7ixjaiJXnC2cxrbIE3WugD'
+  wikipedia: 'https://en.wikipedia.org/wiki/Renee_Rosnes'
 image_path: 03_Resources/source_material/ArtistPortraits/renee_rosnes.jpg
 biography_enhanced_at: '2025-11-01T15:32:57.507287'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Renee_Rosnes
-- https://www.bluenote.com/artist/renee-rosnes/
-- http://reneerosnes.com/new/cms/wp-content/uploads/2016/03/Renee-Rosnes-Bio-2018-1.pdf
-- http://www.princeton.edu/~mjjr/Rosnes.html
-- https://tedpanken.wordpress.com/2024/03/25/a-day-late-for-renee-rosnes-birthday-a-jazz-times-feature-from-2021and-a-publicity-bio-for-her-2001-album-life-on-earth/
+  - 'https://en.wikipedia.org/wiki/Renee_Rosnes'
+  - 'https://www.bluenote.com/artist/renee-rosnes/'
+  - >-
+    http://reneerosnes.com/new/cms/wp-content/uploads/2016/03/Renee-Rosnes-Bio-2018-1.pdf
+  - 'http://www.princeton.edu/~mjjr/Rosnes.html'
+  - >-
+    https://tedpanken.wordpress.com/2024/03/25/a-day-late-for-renee-rosnes-birthday-a-jazz-times-feature-from-2021and-a-publicity-bio-for-her-2001-album-life-on-earth/
 network_extracted: true
 entry_created: '2025-11-01T15:32:57.507306'
 last_updated: '2025-12-23T08:16:14.795561'
 gender: Female
 musicbrainz_id: bff6007a-b3d9-451b-897f-5ca8a9979906
 tags:
-- hard bop
-- jazz
+  - hard bop
+  - jazz
+origin: 'North Vancouver, British Columbia, Canada'
 ---
 
 ![](renee_rosnes.jpg)

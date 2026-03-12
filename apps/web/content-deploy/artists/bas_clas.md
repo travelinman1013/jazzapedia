@@ -1,13 +1,13 @@
 ---
-title: bas clas
+title: Bas Clas
 wiki_slug: bas-clas
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1976'
 genres:
-- electroclash
-- witch house
+  - electroclash
+  - witch house
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bas_clas.jpg
   caption: bas clas
@@ -28,49 +28,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Anthony Thistlethwaite
-  - Jonno Frishberg
-  - Tom Werman
+    - Anthony Thistlethwaite
+    - Jonno Frishberg
+    - Tom Werman
   influenced: []
   mentors:
-  - Samuel Charters
-  - John Hammond Sr.
+    - Samuel Charters
+    - John Hammond Sr.
 spotify_data:
   followers: 59419
   id: 7f8ydynRRnrJBqWxevKLcM
   popularity: 53
-  url: https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM
+  url: 'https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM'
 discography_enriched: true
 top_tracks:
-- Forever salty (Basspunk 2)
-- Canary Wharf drift (Basspunk)
-- Alice (Basspunk 2)
-- Curse is Lifted - Club rmx (Curse is Lifted (Club rmx))
-- Air on a G String (Basspunk)
-- Gajówka (Basspunk 2)
-- Wooden girl (Basspunk 2)
-- As Long As (Basspunk)
-- Hum it to google (Basspunk 2)
-- L-ON-D-ON (Basspunk)
+  - Forever salty (Basspunk 2)
+  - Canary Wharf drift (Basspunk)
+  - Alice (Basspunk 2)
+  - Curse is Lifted - Club rmx (Curse is Lifted (Club rmx))
+  - Air on a G String (Basspunk)
+  - Gajówka (Basspunk 2)
+  - Wooden girl (Basspunk 2)
+  - As Long As (Basspunk)
+  - Hum it to google (Basspunk 2)
+  - L-ON-D-ON (Basspunk)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4551c8bf-2394-40d3-9af2-75c50c1fd471
-  spotify: https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM
-  wikipedia: https://en.wikipedia.org/wiki/Bas_Clas
+  musicbrainz: 'https://musicbrainz.org/artist/4551c8bf-2394-40d3-9af2-75c50c1fd471'
+  spotify: 'https://open.spotify.com/artist/7f8ydynRRnrJBqWxevKLcM'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bas_Clas'
 image_path: 03_Resources/source_material/ArtistPortraits/bas_clas.jpg
 biography_enhanced_at: '2025-11-01T15:28:29.831720'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Bas_Clas
-- https://theind.com/articles/8504/
-- https://www.reverbnation.com/basclas
+  - 'https://en.wikipedia.org/wiki/Bas_Clas'
+  - 'https://theind.com/articles/8504/'
+  - 'https://www.reverbnation.com/basclas'
 network_extracted: true
 entry_created: '2025-11-01T15:28:29.831730'
 last_updated: '2025-12-23T08:16:05.127767'
 disambiguation: US punk / new wave band
 musicbrainz_id: 4551c8bf-2394-40d3-9af2-75c50c1fd471
-origin: Lafayette
-
+origin: 'Lafayette, Louisiana, United States'
 ---
 
 ![](bas_clas.jpg)

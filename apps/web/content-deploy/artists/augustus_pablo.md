@@ -1,42 +1,42 @@
 ---
-title: augustus pablo
+title: Augustus Pablo
 wiki_slug: augustus-pablo
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1954-06-21'
-birth_place: Saint Andrew
+birth_place: 'Saint Andrew, Jamaica'
 death_date: '1999-05-18'
 genres:
-- dub
-- roots reggae
-- reggae
-- rocksteady
+  - dub
+  - roots reggae
+  - reggae
+  - rocksteady
 instruments:
-- original
-- piano
-associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7bcf8b20-72a6-48b1-bad3-b28869090dda
-  name: The Upsetters
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6639ceb1-920d-45ef-9278-0c810e7e11c8
-  name: The Now Generation
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7bbc78aa-246d-4047-a04a-453f655275f4
-  name: Impact All Stars
-- begin: ''
-  end: ''
-  instruments:
   - original
-  mbid: 53789722-c6cf-432f-ae42-ea2e595a1381
-  name: Rockers All Stars
+  - piano
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7bcf8b20-72a6-48b1-bad3-b28869090dda
+    name: The Upsetters
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6639ceb1-920d-45ef-9278-0c810e7e11c8
+    name: The Now Generation
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7bbc78aa-246d-4047-a04a-453f655275f4
+    name: Impact All Stars
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 53789722-c6cf-432f-ae42-ea2e595a1381
+    name: Rockers All Stars
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/augustus_pablo.jpg
   caption: augustus pablo
@@ -45,7 +45,7 @@ infobox:
   origin: Saint Andrew
   died: '1999-05-18'
 audio_profile:
-  tempo_avg: 125.0
+  tempo_avg: 125
   energy_avg: 0.531
   valence_avg: 0.641
   danceability_avg: 0.764
@@ -59,58 +59,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - King Tubby
-  - Lee "Scratch" Perry
-  - Jacob Miller
-  - Hugh Mundell
-  - Various Artists
+    - King Tubby
+    - Lee "Scratch" Perry
+    - Jacob Miller
+    - Hugh Mundell
+    - Various Artists
   influenced:
-  - Dub Music Genre
-  - Global Reggae and Dub Musicians
+    - Dub Music Genre
+    - Global Reggae and Dub Musicians
   mentors:
-  - Herman Chin Loy
-  - Clive Chin
+    - Herman Chin Loy
+    - Clive Chin
 spotify_data:
   followers: 112127
   id: 5WwEQwX3ruZofwDDqtOXwI
   popularity: 43
-  url: https://open.spotify.com/artist/5WwEQwX3ruZofwDDqtOXwI
+  url: 'https://open.spotify.com/artist/5WwEQwX3ruZofwDDqtOXwI'
 discography_enriched: true
 top_tracks:
-- King Tubby's Meets Rockers Uptown (King Tubbys Meets Rockers Uptown)
-- Cassava Piece ('79 Style) (Original Rockers)
-- Java (This Is Augustus Pablo)
-- King Tubby Meets Rockers Uptown (King Tubbys Meets Rockers Uptown)
-- Peace and Love Dub
-- East over the River Nile
-- Thunder Clap (Original Rockers)
-- Keep on Dubbing (King Tubbys Meets Rockers Uptown)
-- Sunshine Dub
-- Up Wareika Hill (Original Rockers)
+  - King Tubby's Meets Rockers Uptown (King Tubbys Meets Rockers Uptown)
+  - Cassava Piece ('79 Style) (Original Rockers)
+  - Java (This Is Augustus Pablo)
+  - King Tubby Meets Rockers Uptown (King Tubbys Meets Rockers Uptown)
+  - Peace and Love Dub
+  - East over the River Nile
+  - Thunder Clap (Original Rockers)
+  - Keep on Dubbing (King Tubbys Meets Rockers Uptown)
+  - Sunshine Dub
+  - Up Wareika Hill (Original Rockers)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e2f9c452-7eb0-4782-bc3e-36f2c456ffe0
-  spotify: https://open.spotify.com/artist/5WwEQwX3ruZofwDDqtOXwI
+  musicbrainz: 'https://musicbrainz.org/artist/e2f9c452-7eb0-4782-bc3e-36f2c456ffe0'
+  spotify: 'https://open.spotify.com/artist/5WwEQwX3ruZofwDDqtOXwI'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/augustus_pablo.jpg
 biography_enhanced_at: '2025-11-24T08:40:37.163385'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Last.fm - Augustus Pablo Biography
-- VP Records - Augustus Pablo Artist Page
-- Mill Rock Music - Augustus Pablo Bio
-- YouTube - The Genius & Mysterious Life of Augustus Pablo (Reggae Appreciation Society)
-- UDiscover Music - Classic Rockers Feature
-- Rockers International - History
+  - Last.fm - Augustus Pablo Biography
+  - VP Records - Augustus Pablo Artist Page
+  - Mill Rock Music - Augustus Pablo Bio
+  - >-
+    YouTube - The Genius & Mysterious Life of Augustus Pablo (Reggae
+    Appreciation Society)
+  - UDiscover Music - Classic Rockers Feature
+  - Rockers International - History
 network_extracted: true
 entry_created: '2025-11-24T08:40:37.163397'
 last_updated: '2025-12-23T08:16:04.998680'
 gender: Male
 musicbrainz_id: e2f9c452-7eb0-4782-bc3e-36f2c456ffe0
 tags:
-- deejay
-- dub
-- reggae
+  - deejay
+  - dub
+  - reggae
+is_active: false
 ---
 
 ![](augustus_pablo.jpg)

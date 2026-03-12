@@ -2,19 +2,19 @@
 title: Tribalistas
 wiki_slug: tribalistas
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '2002'
 genres:
-- mpb
-- nova mpb
+  - mpb
+  - nova mpb
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/tribalistas.jpg
   caption: Tribalistas
   background: group_or_band
   born: '2002'
 audio_profile:
-  tempo_avg: 122.0
+  tempo_avg: 122
   energy_avg: 0.613
   valence_avg: 0.514
   danceability_avg: 0.559
@@ -28,68 +28,68 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Marisa Monte
-  - Arnaldo Antunes
-  - Carlinhos Brown
-  - Alê Siqueira
+    - Marisa Monte
+    - Arnaldo Antunes
+    - Carlinhos Brown
+    - Alê Siqueira
   influenced: []
   mentors:
-  - Caetano Veloso
-  - Arto Lindsay
+    - Caetano Veloso
+    - Arto Lindsay
 spotify_data:
   followers: 1618432
   id: 4laQz4PaKeh2Hu6QL6evVD
   popularity: 64
-  url: https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD
+  url: 'https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD'
 discography_enriched: true
 top_tracks:
-- Velha Infância - 2004 Digital Remaster (Tribalistas)
-- Aliança (Tribalistas)
-- Já Sei Namorar - 2004 Digital Remaster (Tribalistas)
-- É Você - 2004 Digital Remaster (Tribalistas)
-- Carnavália - 2004 Digital Remaster (Tribalistas)
-- Aliança (Tribalistas)
-- Diáspora (Tribalistas)
-- Vilarejo - Ao Vivo (Tribalistas (Ao Vivo))
-- Passe Em Casa - 2004 Digital Remaster (Tribalistas)
-- Um a Um - 2004 Digital Remaster (Tribalistas)
+  - Velha Infância - 2004 Digital Remaster (Tribalistas)
+  - Aliança (Tribalistas)
+  - Já Sei Namorar - 2004 Digital Remaster (Tribalistas)
+  - É Você - 2004 Digital Remaster (Tribalistas)
+  - Carnavália - 2004 Digital Remaster (Tribalistas)
+  - Aliança (Tribalistas)
+  - Diáspora (Tribalistas)
+  - Vilarejo - Ao Vivo (Tribalistas (Ao Vivo))
+  - Passe Em Casa - 2004 Digital Remaster (Tribalistas)
+  - Um a Um - 2004 Digital Remaster (Tribalistas)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a27207ee-a79e-4887-aa65-e644d2702f5e
-  spotify: https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD
-  wikipedia: https://en.wikipedia.org/wiki/Tribalistas
+  musicbrainz: 'https://musicbrainz.org/artist/a27207ee-a79e-4887-aa65-e644d2702f5e'
+  spotify: 'https://open.spotify.com/artist/4laQz4PaKeh2Hu6QL6evVD'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tribalistas'
 image_path: 03_Resources/source_material/ArtistPortraits/tribalistas.jpg
 biography_enhanced_at: '2025-12-14T01:49:14.010092'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Tribalistas
-- https://www.latimes.com/entertainment/music/la-et-ms-tribalistas-20190213-story.html
-- https://www.connectbrazil.com/one-track-mind-tribalistas-2002/
-- https://en.wikipedia.org/wiki/Tribalistas_(2002_album)
+  - 'https://en.wikipedia.org/wiki/Tribalistas'
+  - >-
+    https://www.latimes.com/entertainment/music/la-et-ms-tribalistas-20190213-story.html
+  - 'https://www.connectbrazil.com/one-track-mind-tribalistas-2002/'
+  - 'https://en.wikipedia.org/wiki/Tribalistas_(2002_album)'
 network_extracted: true
 entry_created: '2025-12-14T01:49:14.010107'
 last_updated: '2025-12-23T08:16:17.698529'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d3a71b82-e2e3-4dce-85c2-ce1271912426
-  name: Arnaldo Antunes
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4c61c6e4-b8d2-45b5-b31a-ab064f5ef9f4
-  name: Carlinhos Brown
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f81f19b9-c76e-43ac-8656-bb56071785fb
-  name: Marisa Monte
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d3a71b82-e2e3-4dce-85c2-ce1271912426
+    name: Arnaldo Antunes
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4c61c6e4-b8d2-45b5-b31a-ab064f5ef9f4
+    name: Carlinhos Brown
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f81f19b9-c76e-43ac-8656-bb56071785fb
+    name: Marisa Monte
 musicbrainz_id: a27207ee-a79e-4887-aa65-e644d2702f5e
-origin: Rio de Janeiro / São Paulo / Salvador, Brazil
+origin: 'Rio de Janeiro / São Paulo / Salvador, Brazil'
 tags:
-- mpb
-
+  - mpb
 ---
 
 ![](tribalistas.jpg)

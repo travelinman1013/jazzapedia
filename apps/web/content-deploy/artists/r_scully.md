@@ -1,15 +1,15 @@
 ---
-title: R Scully
+title: R. Scully
 wiki_slug: r-scully
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/r_scully.jpg
   caption: R Scully
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 113.7
   energy_avg: 0.653
@@ -25,44 +25,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mike Andrepont
-  - Ratty Scurvics
-  - Rob Cambre
-  - Meschiya Lake, Erica Lewis, Mush
+    - Mike Andrepont
+    - Ratty Scurvics
+    - Rob Cambre
+    - 'Meschiya Lake, Erica Lewis, Mush'
   influenced:
-  - Local New Orleans musicians
+    - Local New Orleans musicians
   mentors:
-  - New Orleans music community
+    - New Orleans music community
 spotify_data:
   followers: 54
   id: 2q5wI3QEiXEJh9ih0MiVbv
   popularity: 0
-  url: https://open.spotify.com/artist/2q5wI3QEiXEJh9ih0MiVbv
+  url: 'https://open.spotify.com/artist/2q5wI3QEiXEJh9ih0MiVbv'
 discography_enriched: true
 top_tracks:
-- St. Anthony (Give Up Your Dreams)
-- Give Up Your Dreams (Give Up Your Dreams)
-- Had a Home (Give Up Your Dreams)
-- Sugardaddy (Give Up Your Dreams)
-- Meltdown (Give Up Your Dreams)
-- Love is the Main Thing (Give Up Your Dreams)
-- Red Hot Coal (Give Up Your Dreams)
-- Not Insane (Give Up Your Dreams)
-- Golden Parachute (Give Up Your Dreams)
-- The Good Outweighs the Bad (Give Up Your Dreams)
+  - St. Anthony (Give Up Your Dreams)
+  - Give Up Your Dreams (Give Up Your Dreams)
+  - Had a Home (Give Up Your Dreams)
+  - Sugardaddy (Give Up Your Dreams)
+  - Meltdown (Give Up Your Dreams)
+  - Love is the Main Thing (Give Up Your Dreams)
+  - Red Hot Coal (Give Up Your Dreams)
+  - Not Insane (Give Up Your Dreams)
+  - Golden Parachute (Give Up Your Dreams)
+  - The Good Outweighs the Bad (Give Up Your Dreams)
 external_urls:
-  spotify: https://open.spotify.com/artist/2q5wI3QEiXEJh9ih0MiVbv
+  spotify: 'https://open.spotify.com/artist/2q5wI3QEiXEJh9ih0MiVbv'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/r_scully.jpg
 biography_enhanced_at: '2025-11-06T13:34:06.493837'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://antigravitymagazine.com/feature/slow-cookin-with-r-scully/
-- https://glidemagazine.com/17425/the-rough-seven-give-up-your-dreams/
+  - 'https://antigravitymagazine.com/feature/slow-cookin-with-r-scully/'
+  - 'https://glidemagazine.com/17425/the-rough-seven-give-up-your-dreams/'
 network_extracted: true
 entry_created: '2025-11-06T13:34:06.493855'
 last_updated: '2025-12-23T08:16:14.550549'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![](r_scully.jpg)

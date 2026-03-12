@@ -2,17 +2,17 @@
 title: United Future Organization
 wiki_slug: united-future-organization
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 aliases: []
 birth_date: '1990'
 years_active: 1990–present
 genres:
-- acid jazz
-- jazz funk
-- jazz fusion
-- nu jazz
-- shibuya-kei
+  - acid jazz
+  - jazz funk
+  - jazz fusion
+  - nu jazz
+  - shibuya-kei
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/United_Future_Organization.jpg
   caption: United Future Organization
@@ -33,61 +33,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ayumu Kohinata
-  - Red Hot Organization
-  - Satoshi Tomiie
+    - Ayumu Kohinata
+    - Red Hot Organization
+    - Satoshi Tomiie
   influenced:
-  - Shibuya-kei artists (e.g., Pizzicato Five, Cornelius)
-  - Japanese acid jazz and nu jazz musicians
+    - 'Shibuya-kei artists (e.g., Pizzicato Five, Cornelius)'
+    - Japanese acid jazz and nu jazz musicians
   mentors:
-  - Moichi Kuwahara
-  - Major Force
+    - Moichi Kuwahara
+    - Major Force
 related_artists: []
 spotify_data:
   followers: 26088
   id: 0V4fAktrp2psvXpQb2KSWh
   popularity: 28
-  url: https://open.spotify.com/artist/0V4fAktrp2psvXpQb2KSWh
+  url: 'https://open.spotify.com/artist/0V4fAktrp2psvXpQb2KSWh'
   verified: false
 discography_enriched: true
 albums_count: 7
 singles_count: 0
 top_tracks:
-- Good Luck Shore (Bon Voyage)
-- I LOVE MY BABY my baby loves jazz (Jazzin’)
-- LOUD MINORITY - radio mix (Jazzin’)
-- NEMURENAI insomnie (Jazzin’)
-- Tres Amigos (Bon Voyage)
-- Flying Saucer (Bon Voyage)
-- I LOVE MY BABY my baby loves jazz - Norman Cook & Ashley Slater Remix (Jazzin’)
-- His Name Is...
-- Stolen Moments (REMIX)
-- MOONDANCE moon chant (Jazzin’)
+  - Good Luck Shore (Bon Voyage)
+  - I LOVE MY BABY my baby loves jazz (Jazzin’)
+  - LOUD MINORITY - radio mix (Jazzin’)
+  - NEMURENAI insomnie (Jazzin’)
+  - Tres Amigos (Bon Voyage)
+  - Flying Saucer (Bon Voyage)
+  - >-
+    I LOVE MY BABY my baby loves jazz - Norman Cook & Ashley Slater Remix
+    (Jazzin’)
+  - His Name Is...
+  - Stolen Moments (REMIX)
+  - MOONDANCE moon chant (Jazzin’)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/dda1dc9e-42e9-4c35-bed5-b5846d71de9f
-  spotify: https://open.spotify.com/artist/0V4fAktrp2psvXpQb2KSWh
-  wikipedia: https://en.wikipedia.org/wiki/United_Future_Organization
+  musicbrainz: 'https://musicbrainz.org/artist/dda1dc9e-42e9-4c35-bed5-b5846d71de9f'
+  spotify: 'https://open.spotify.com/artist/0V4fAktrp2psvXpQb2KSWh'
+  wikipedia: 'https://en.wikipedia.org/wiki/United_Future_Organization'
 image_path: 03_Resources/source_material/ArtistPortraits/United_Future_Organization.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:49:52.636783'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/United_Future_Organization
-- https://daily.redbullmusicacademy.com/2014/11/tadashi-yabe-interview/
-- https://www.theaudiodb.com/artist/136878-United-Future-Organization
-- https://www.allmusic.com/artist/united-future-organization-mn0000810225
+  - 'https://en.wikipedia.org/wiki/United_Future_Organization'
+  - 'https://daily.redbullmusicacademy.com/2014/11/tadashi-yabe-interview/'
+  - 'https://www.theaudiodb.com/artist/136878-United-Future-Organization'
+  - 'https://www.allmusic.com/artist/united-future-organization-mn0000810225'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:40:03.902157
+entry_created: 2025-09-22T21:40:03.902Z
 last_updated: '2025-12-23T08:16:04.238913'
 musicbrainz_enriched_at: '2025-10-21T09:47:42.810498'
 musicbrainz_id: dda1dc9e-42e9-4c35-bed5-b5846d71de9f
-origin: Shibuya, Tokyo, Japan
+origin: 'Shibuya, Tokyo, Japan'
 tags:
-- acid jazz
-- jazz
-- nu jazz
+  - acid jazz
+  - jazz
+  - nu jazz
+birth_place: Shibuya
 ---
 
 ![](United_Future_Organization.jpg)

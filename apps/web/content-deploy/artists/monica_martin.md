@@ -1,42 +1,45 @@
 ---
 biography_enhanced_at: '2026-01-10T01:17:50.239217'
-birth_place: Chicago, Illinois, United States (birthplace); Baraboo, Wisconsin, United
+birth_place: >-
+  Chicago, Illinois, United States (birthplace); Baraboo, Wisconsin, United
   States (hometown/origin)
 enhancement_provider: perplexity
 entry_created: '2026-01-10T01:17:50.239223'
 external_urls:
-  spotify: https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN
+  spotify: 'https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/monica_martin.jpg
 last_updated: '2026-01-10T01:17:50.239224'
 musical_connections:
   collaborators:
-  - PHOX (band)
-  - Violents
-  - Vulfpeck
-  - James Blake
-  - Scary Pockets
+    - PHOX (band)
+    - Violents
+    - Vulfpeck
+    - James Blake
+    - Scary Pockets
   influenced:
-  - ''
+    - ''
   mentors:
-  - Billie Holiday
-  - Fiona Apple
+    - Billie Holiday
+    - Fiona Apple
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- http://www.third-story.com/listen/monicamartin
-- https://www.teamwass.com/music/monica-martin/
-- https://www.thewildhoneypie.com/buzzing-daily/monica-martin-thoughtless/p3
-- https://intothegloss.com/2014/07/monica-martin-phox/
-- https://www.allaboutjazz.com/musicians/monica-martin/
+  - 'http://www.third-story.com/listen/monicamartin'
+  - 'https://www.teamwass.com/music/monica-martin/'
+  - 'https://www.thewildhoneypie.com/buzzing-daily/monica-martin-thoughtless/p3'
+  - 'https://intothegloss.com/2014/07/monica-martin-phox/'
+  - 'https://www.allaboutjazz.com/musicians/monica-martin/'
 spotify_data:
   followers: 37034
   id: 2Oq3sgFa2HSvRY0vL6bDxN
   popularity: 41
-  url: https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN
+  url: 'https://open.spotify.com/artist/2Oq3sgFa2HSvRY0vL6bDxN'
 status: active
-title: monica martin
+title: Monica Martin
+origin: 'Baraboo, Wisconsin, United States'
+artist_type: person
 ---
 
 ![](monica_martin.jpg)

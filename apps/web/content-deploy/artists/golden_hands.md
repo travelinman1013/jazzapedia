@@ -3,33 +3,37 @@ biography_enhanced_at: '2026-01-09T02:05:19.481565'
 enhancement_provider: perplexity
 entry_created: '2026-01-09T02:05:19.481573'
 external_urls:
-  spotify: https://open.spotify.com/artist/0lPR71mfj9LtLdNM8ZlEeZ
+  spotify: 'https://open.spotify.com/artist/0lPR71mfj9LtLdNM8ZlEeZ'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/golden_hands.jpg
 last_updated: '2026-01-09T02:05:19.481574'
 musical_connections:
   collaborators:
-  - Founding brothers and friend (names not specified in available sources)
+    - Founding brothers and friend (names not specified in available sources)
   influenced:
-  - Contemporary crate‑diggers, reissue labels, and fans of 1970s North African rock
+    - >-
+      Contemporary crate‑diggers, reissue labels, and fans of 1970s North
+      African rock
   mentors:
-  - Unspecified Western rock and funk artists
+    - Unspecified Western rock and funk artists
 network_extracted: true
-origin: Casablanca, Morocco
+origin: 'Casablanca, Morocco, Morocco'
 primary_source: perplexity
 research_sources:
-- https://sdbanrecords.bandcamp.com/album/golden-hands
-- https://www.sdbanrecords.com/node/153
-- https://musicyouneedtohear.com/golden-hands-golden-hands/
-- https://africarockstheseventies.wordpress.com/tag/jalil-bennis-et-les-golden-hands/
+  - 'https://sdbanrecords.bandcamp.com/album/golden-hands'
+  - 'https://www.sdbanrecords.com/node/153'
+  - 'https://musicyouneedtohear.com/golden-hands-golden-hands/'
+  - >-
+    https://africarockstheseventies.wordpress.com/tag/jalil-bennis-et-les-golden-hands/
 spotify_data:
   followers: 1883
   id: 0lPR71mfj9LtLdNM8ZlEeZ
   popularity: 14
-  url: https://open.spotify.com/artist/0lPR71mfj9LtLdNM8ZlEeZ
+  url: 'https://open.spotify.com/artist/0lPR71mfj9LtLdNM8ZlEeZ'
 status: active
 title: Golden Hands
+artist_type: band
 ---
 
 ![](golden_hands.jpg)

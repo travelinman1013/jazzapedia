@@ -3,47 +3,55 @@ biography_enhanced_at: '2026-01-10T01:12:22.349064'
 enhancement_provider: perplexity
 entry_created: '2026-01-10T01:12:22.349071'
 external_urls:
-  spotify: https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy
+  spotify: 'https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy'
   wikipedia: ''
 genres:
-- jazz
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/cory_weeds_and_jerry_weldon.jpg
 last_updated: '2026-01-10T01:12:22.349071'
 musical_connections:
   collaborators:
-  - Miles Black
-  - John Lee
-  - Jesse Cahill
-  - Harry Connick Jr.
-  - Dr. Lonnie Smith
+    - Miles Black
+    - John Lee
+    - Jesse Cahill
+    - Harry Connick Jr.
+    - Dr. Lonnie Smith
   influenced:
-  - Vancouver jazz community (various emerging artists)
+    - Vancouver jazz community (various emerging artists)
   mentors:
-  - Lionel Hampton
-  - Jack McDuff
-  - Joey DeFrancesco
-  - Harold Mabern
+    - Lionel Hampton
+    - Jack McDuff
+    - Joey DeFrancesco
+    - Harold Mabern
 network_extracted: true
-origin: Vancouver, British Columbia, Canada / New York City, New York, United States
+origin: >-
+  Vancouver, British Columbia, Canada / New York City, New York, United States
   (origins of the two co-leaders)
 primary_source: perplexity
 research_sources:
-- https://www.allaboutjazz.com/musicians/cory-weeds/
-- https://en.wikipedia.org/wiki/Jerry_Weldon
-- https://www.allaboutjazz.com/cory-weeds-meets-jerry-weldon-jerry-weldon-cellar-music-group
-- https://coryweeds.com/about/
-- https://www.highresaudio.com/en/artist/view/6a0692fd-574d-439a-903e-ee4e8d8a65a2/cory-weeds-jerry-weldon
-- https://www.exploresquamish.com/submitted-events/the-cory-weeds-quintet-featuring-nyc-saxophonist-jerry-weldon/
-- https://squamisharts.com/sa-event/the-cory-weeds-quintet-featuring-nyc-jazz-saxophonist-jerry-weldon/
-- https://www.wbgo.org/music/2025-09-06/cory-weeds-meets-jerry-weldon-featured-on-wbgos-new-day-new-play-sep-8-12
-- https://www.goldminemag.com/columns/jazzology/jazz-on-the-scene-cory-weeds-miguel-zenon-quartet-and-jaleel-shaw/
+  - 'https://www.allaboutjazz.com/musicians/cory-weeds/'
+  - 'https://en.wikipedia.org/wiki/Jerry_Weldon'
+  - >-
+    https://www.allaboutjazz.com/cory-weeds-meets-jerry-weldon-jerry-weldon-cellar-music-group
+  - 'https://coryweeds.com/about/'
+  - >-
+    https://www.highresaudio.com/en/artist/view/6a0692fd-574d-439a-903e-ee4e8d8a65a2/cory-weeds-jerry-weldon
+  - >-
+    https://www.exploresquamish.com/submitted-events/the-cory-weeds-quintet-featuring-nyc-saxophonist-jerry-weldon/
+  - >-
+    https://squamisharts.com/sa-event/the-cory-weeds-quintet-featuring-nyc-jazz-saxophonist-jerry-weldon/
+  - >-
+    https://www.wbgo.org/music/2025-09-06/cory-weeds-meets-jerry-weldon-featured-on-wbgos-new-day-new-play-sep-8-12
+  - >-
+    https://www.goldminemag.com/columns/jazzology/jazz-on-the-scene-cory-weeds-miguel-zenon-quartet-and-jaleel-shaw/
 spotify_data:
   followers: 9621
   id: 0YB9WHBn7xTEQsvcFZRUdy
   popularity: 36
-  url: https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy
+  url: 'https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy'
 status: active
 title: Cory Weeds & Jerry Weldon
+artist_type: band
 ---
 
 ![](cory_weeds_and_jerry_weldon.jpg)

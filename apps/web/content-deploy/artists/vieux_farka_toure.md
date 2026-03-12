@@ -3,13 +3,13 @@ title: Vieux Farka Toure
 wiki_slug: vieux-farka-toure
 schema_version: 2
 status: active
-birth_place: Niafunké, Mali
+birth_place: 'Niafunké, Mali, Mali'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/vieux_farka_toure.jpg
   caption: Vieux Farka Toure
   background: solo_singer
-  origin: Niafunké, Mali
+  origin: 'Niafunké, Mali'
 audio_profile:
   tempo_avg: 119.2
   energy_avg: 0.56
@@ -25,48 +25,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ali Farka Touré
-  - Toumani Diabaté
-  - Sidiki Diabaté
-  - Mamadou Sidiki Diabaté
-  - Amadou Bagayoko (Amadou & Mariam)
-  - Madou Traore
+    - Ali Farka Touré
+    - Toumani Diabaté
+    - Sidiki Diabaté
+    - Mamadou Sidiki Diabaté
+    - Amadou Bagayoko (Amadou & Mariam)
+    - Madou Traore
   influenced: []
   mentors:
-  - Ali Farka Touré
-  - Toumani Diabaté
+    - Ali Farka Touré
+    - Toumani Diabaté
 spotify_data:
   followers: 95779
   id: 4PmxbsWP1u0TnvqcrIA9ze
   popularity: 49
-  url: https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze
+  url: 'https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze'
 discography_enriched: true
 top_tracks:
-- Savanne (Ali)
-- Tongo Barra (Ali)
-- Diarabi (Ali)
-- Lobbo (Ali)
-- Mahine Me (Ali)
-- Azawade (The Tel Aviv Session)
-- Tamalla (Ali)
-- Alakarra (Ali)
-- Ali Hala Abada (Ali)
-- Les Racines (Les Racines)
+  - Savanne (Ali)
+  - Tongo Barra (Ali)
+  - Diarabi (Ali)
+  - Lobbo (Ali)
+  - Mahine Me (Ali)
+  - Azawade (The Tel Aviv Session)
+  - Tamalla (Ali)
+  - Alakarra (Ali)
+  - Ali Hala Abada (Ali)
+  - Les Racines (Les Racines)
 external_urls:
-  spotify: https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze
-  wikipedia: https://en.wikipedia.org/wiki/Vieux_Farka_Tour%C3%A9
+  spotify: 'https://open.spotify.com/artist/4PmxbsWP1u0TnvqcrIA9ze'
+  wikipedia: 'https://en.wikipedia.org/wiki/Vieux_Farka_Tour%C3%A9'
 image_path: 03_Resources/source_material/ArtistPortraits/vieux_farka_toure.jpg
 biography_enhanced_at: '2025-12-12T12:15:55.350911'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.vieuxfarkatoure.com/bio
-- https://muzatik.com/vieux-farka-toure/
-- https://en.wikipedia.org/wiki/Vieux_Farka_Tour%C3%A9
-- https://www.vieuxfarkatoure.com/samba
+  - 'https://www.vieuxfarkatoure.com/bio'
+  - 'https://muzatik.com/vieux-farka-toure/'
+  - 'https://en.wikipedia.org/wiki/Vieux_Farka_Tour%C3%A9'
+  - 'https://www.vieuxfarkatoure.com/samba'
 network_extracted: true
 entry_created: '2025-12-12T12:15:55.350922'
 last_updated: '2025-12-23T08:16:17.872254'
+birth_date: '1981-03-12'
+artist_type: person
 ---
 
 ![](vieux_farka_toure.jpg)

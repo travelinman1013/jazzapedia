@@ -4,47 +4,49 @@ biography_enhanced_at: '2026-01-17T01:59:47.188556'
 enhancement_provider: perplexity
 entry_created: '2026-01-17T01:59:47.188563'
 external_urls:
-  spotify: https://open.spotify.com/artist/10NEMYLJwVvYSvtvZn5Ipz
+  spotify: 'https://open.spotify.com/artist/10NEMYLJwVvYSvtvZn5Ipz'
   wikipedia: null
 genres:
-- brass band
-- new orleans bounce
-- cajun
+  - brass band
+  - new orleans bounce
+  - cajun
 image_path: 03_Resources/source_material/ArtistPortraits/lakou_mizi_the_soul_rebels.jpg
 is_active: true
 last_updated: '2026-01-17T01:59:47.188564'
 musical_connections:
   collaborators:
-  - The Soul Rebels
-  - Leyla McCalla
-  - Raja Kassis
-  - Eric Heigle
-  - Win Butler and Régine Chassagne
-  - Preservation Hall Jazz Band
-  - Trombone Shorty
-  - Tank and The Bangas
-  - Jon Cleary
-  - Zach Niles
+    - The Soul Rebels
+    - Leyla McCalla
+    - Raja Kassis
+    - Eric Heigle
+    - Win Butler and Régine Chassagne
+    - Preservation Hall Jazz Band
+    - Trombone Shorty
+    - Tank and The Bangas
+    - Jon Cleary
+    - Zach Niles
   influenced: []
   mentors:
-  - Sanba Zao (Louis Lesly Marcelin)
+    - Sanba Zao (Louis Lesly Marcelin)
 network_extracted: true
-origin: Port-au-Prince, Haiti
+origin: 'Port-au-Prince, Haiti, Haiti'
 primary_source: perplexity
 research_sources:
-- https://signalkitchen.com/artist/lakou-mizik/
-- https://worldtreasuresmusic.com/2019/10/17/haitian-roots-revivalists-lakou-mizik-collaborate-with-the-musical-royalty-of-new-orleans-for-groundbreaking-new-album/
-- https://lakoumizik.com/about
-- https://www.newmodelradio.sk/en/lakou-mizik-bridge-between-haiti-and-new-orleans/
-- https://thefestival.bc.ca/artists/lakou-mizik/
-- https://www.afropop.org/articles/haitianola
+  - 'https://signalkitchen.com/artist/lakou-mizik/'
+  - >-
+    https://worldtreasuresmusic.com/2019/10/17/haitian-roots-revivalists-lakou-mizik-collaborate-with-the-musical-royalty-of-new-orleans-for-groundbreaking-new-album/
+  - 'https://lakoumizik.com/about'
+  - >-
+    https://www.newmodelradio.sk/en/lakou-mizik-bridge-between-haiti-and-new-orleans/
+  - 'https://thefestival.bc.ca/artists/lakou-mizik/'
+  - 'https://www.afropop.org/articles/haitianola'
 spotify_data:
   followers: 39129
   id: 10NEMYLJwVvYSvtvZn5Ipz
   popularity: 31
-  url: https://open.spotify.com/artist/10NEMYLJwVvYSvtvZn5Ipz
+  url: 'https://open.spotify.com/artist/10NEMYLJwVvYSvtvZn5Ipz'
 status: active
-title: Lakou Mizi, The Soul Rebels
+title: 'Lakou Mizi, The Soul Rebels'
 ---
 
 ![](lakou_mizi_the_soul_rebels.jpg)

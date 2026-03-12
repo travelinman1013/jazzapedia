@@ -1,59 +1,61 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - bass
-  mbid: 9e396cd2-4ac4-4039-8b1a-d72ff4a3230f
-  name: The History of Apple Pie
+  - begin: ''
+    end: ''
+    instruments:
+      - bass
+    mbid: 9e396cd2-4ac4-4039-8b1a-d72ff4a3230f
+    name: The History of Apple Pie
 biography_enhanced_at: '2025-12-31T01:42:55.182659'
 birth_date: '1988-08-24'
-birth_place: Rhuddlan
+birth_place: 'Rhuddlan, Wales, United Kingdom'
 enhancement_provider: perplexity
 entry_created: '2025-12-31T01:42:55.182664'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9d88eaab-f90a-4fbe-b84f-20da5518cd26
-  spotify: https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5
+  musicbrainz: 'https://musicbrainz.org/artist/9d88eaab-f90a-4fbe-b84f-20da5518cd26'
+  spotify: 'https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5'
   wikipedia: ''
 gender: Female
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/kelly_lee_owens.jpg
 instruments:
-- bass
-- vocal
+  - bass
+  - vocal
 last_updated: '2025-12-31T01:42:55.182665'
 musical_connections:
   collaborators:
-  - St. Vincent
-  - Bjørk
-  - Sigrid
-  - Jon Hopkins
-  - Charli XCX
+    - St. Vincent
+    - Bjørk
+    - Sigrid
+    - Jon Hopkins
+    - Charli XCX
   influenced: []
   mentors:
-  - Cancer patients
+    - Cancer patients
 musicbrainz_id: 9d88eaab-f90a-4fbe-b84f-20da5518cd26
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.loudandquiet.com/interview/kelly-lee-owens-sonic-medicine-former-cancer-ward-nurse/
-- https://thecreativeindependent.com/people/musician-kelly-lee-owens-on-knowing-who-you-are-and-what-you-do/
-- https://www.umusicpub.com/us/Artists/K/Kelly-Lee-Owens.aspx
-- https://goodliveartists.com/artists/kelly-lee-owens
-- https://www.papermag.com/kelly-lee-owens-dreamstate
-- https://www.deccapublishing.com/roster/kelly-lee-owens/
-- https://15questions.net/interview/creative-profile-kelly-lee-owens/
+  - >-
+    https://www.loudandquiet.com/interview/kelly-lee-owens-sonic-medicine-former-cancer-ward-nurse/
+  - >-
+    https://thecreativeindependent.com/people/musician-kelly-lee-owens-on-knowing-who-you-are-and-what-you-do/
+  - 'https://www.umusicpub.com/us/Artists/K/Kelly-Lee-Owens.aspx'
+  - 'https://goodliveartists.com/artists/kelly-lee-owens'
+  - 'https://www.papermag.com/kelly-lee-owens-dreamstate'
+  - 'https://www.deccapublishing.com/roster/kelly-lee-owens/'
+  - 'https://15questions.net/interview/creative-profile-kelly-lee-owens/'
 spotify_data:
   followers: 154337
   id: 5eitAUlYmlha3LLWg7aBn5
   popularity: 46
-  url: https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5
+  url: 'https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5'
 status: active
 tags:
-- dance
-- dream pop
-- electronic
+  - dance
+  - dream pop
+  - electronic
 title: Kelly Lee Owens
 ---
 

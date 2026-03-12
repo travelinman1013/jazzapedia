@@ -3,13 +3,13 @@ title: Debbie Davis
 wiki_slug: debbie-davis
 schema_version: 2
 status: active
-birth_place: Los Angeles, Los Angeles County, California, United States
+birth_place: 'Los Angeles, Los Angeles County, California, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/debbie_davis.jpg
   caption: Debbie Davis
   background: solo_singer
-  origin: Los Angeles, Los Angeles County, California, United States
+  origin: 'Los Angeles, Los Angeles County, California, United States'
 audio_profile:
   tempo_avg: 111.6
   energy_avg: 0.473
@@ -25,48 +25,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Maggie Mayall and the Cadillacs
-  - Albert Collins and the Icebreakers
-  - John Mayall
-  - Fingers Taylor and the Ladyfingers Revue
-  - Robin Rogers
-  - Duke Robillard
+    - Maggie Mayall and the Cadillacs
+    - Albert Collins and the Icebreakers
+    - John Mayall
+    - Fingers Taylor and the Ladyfingers Revue
+    - Robin Rogers
+    - Duke Robillard
   influenced: []
   mentors:
-  - Eric Clapton
-  - Albert Collins
+    - Eric Clapton
+    - Albert Collins
 spotify_data:
   followers: 2682
   id: 6z40yL5DM6MM4LU5f9CpfX
   popularity: 46
-  url: https://open.spotify.com/artist/6z40yL5DM6MM4LU5f9CpfX
+  url: 'https://open.spotify.com/artist/6z40yL5DM6MM4LU5f9CpfX'
 discography_enriched: true
 top_tracks:
-- De Zéro En Héros (Hercules Original Soundtrack)
-- L'Histoire De La Vie (Le Roi Lion (Deluxe Collection - Lion King))
-- Jamais Je N'avouerai (Hercules Original Soundtrack)
-- You Are the Sunshine of My Life (New York Lounge Jazz (Vocal Classics))
-- Une étoile Est Née (Hercules Original Soundtrack)
-- Body and Soul (New York Lounge Jazz (Vocal Classics))
-- Le Gospel Pur I (Hercules Original Soundtrack)
-- Autumn Leaves (New York Lounge Jazz (Vocal Classics))
-- Isn't She Lovely (New York Lounge Jazz (Vocal Classics))
-- A Felicidade (New York Lounge Jazz (Vocal Classics))
+  - De Zéro En Héros (Hercules Original Soundtrack)
+  - L'Histoire De La Vie (Le Roi Lion (Deluxe Collection - Lion King))
+  - Jamais Je N'avouerai (Hercules Original Soundtrack)
+  - You Are the Sunshine of My Life (New York Lounge Jazz (Vocal Classics))
+  - Une étoile Est Née (Hercules Original Soundtrack)
+  - Body and Soul (New York Lounge Jazz (Vocal Classics))
+  - Le Gospel Pur I (Hercules Original Soundtrack)
+  - Autumn Leaves (New York Lounge Jazz (Vocal Classics))
+  - Isn't She Lovely (New York Lounge Jazz (Vocal Classics))
+  - A Felicidade (New York Lounge Jazz (Vocal Classics))
 external_urls:
-  spotify: https://open.spotify.com/artist/6z40yL5DM6MM4LU5f9CpfX
+  spotify: 'https://open.spotify.com/artist/6z40yL5DM6MM4LU5f9CpfX'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/debbie_davis.jpg
 biography_enhanced_at: '2025-12-17T02:26:52.285729'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Debbie+Davies/+wiki
-- https://concord.com/artist/debbie-davies/
-- https://www.debbiedavies.com/about
-- https://www.bluesblastmagazine.com/featured-interview-debbie-davies-2/
+  - 'https://www.last.fm/music/Debbie+Davies/+wiki'
+  - 'https://concord.com/artist/debbie-davies/'
+  - 'https://www.debbiedavies.com/about'
+  - 'https://www.bluesblastmagazine.com/featured-interview-debbie-davies-2/'
 network_extracted: true
 entry_created: '2025-12-17T02:26:52.285742'
 last_updated: '2025-12-23T08:16:07.648505'
+birth_date: '1952-08-22'
+artist_type: person
 ---
 
 ![](debbie_davis.jpg)

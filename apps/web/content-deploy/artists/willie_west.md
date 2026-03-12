@@ -1,15 +1,15 @@
 ---
-title: WILLIE WEST
+title: Willie West
 wiki_slug: willie-west
 schema_version: 2
 status: active
-birth_place: Raceland, Louisiana, United States
+birth_place: 'Raceland, Louisiana, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/willie_west.jpg
   caption: WILLIE WEST
   background: solo_singer
-  origin: Raceland, Louisiana, United States
+  origin: 'Raceland, Louisiana, United States'
 audio_profile:
   tempo_avg: 108.1
   energy_avg: 0.457
@@ -25,52 +25,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Meters
-  - Deacon John and the Ivories
-  - Edgar Blanchard and the Gondoliers
-  - Oliver and the Rockettes
-  - Electric Soul Train
-  - Uptown Rulers
-  - Bobby Love
-  - Carl Marshall
+    - The Meters
+    - Deacon John and the Ivories
+    - Edgar Blanchard and the Gondoliers
+    - Oliver and the Rockettes
+    - Electric Soul Train
+    - Uptown Rulers
+    - Bobby Love
+    - Carl Marshall
   influenced:
-  - Aaron Neville
+    - Aaron Neville
   mentors:
-  - Guitar Slim
-  - James 'Thunderbird' Davis
-  - Allen Toussaint
+    - Guitar Slim
+    - James 'Thunderbird' Davis
+    - Allen Toussaint
 spotify_data:
   followers: 4998
   id: 76HrK2f7GCk4phitcHr60T
   popularity: 23
-  url: https://open.spotify.com/artist/76HrK2f7GCk4phitcHr60T
+  url: 'https://open.spotify.com/artist/76HrK2f7GCk4phitcHr60T'
 discography_enriched: true
 top_tracks:
-- I'm Still a Man (Lord Have Mercy) (I'm Still A Man (Lord Have Mercy))
-- Greatest Love - Remastered (Artist • Producer • Songwriter (Deluxe Edition))
-- I'm Still a Man (Lord Have Mercy) - Instrumental (I'm Still A Man (Lord Have Mercy))
-- 'Fairchild (Allen Toussaint: The Lost Sessions)'
-- The Devil Gives Me Everything - Pt. 2 (Lost Soul)
-- After The Storm
-- 'Fairchild - Single Version; Remastered (Crate Diggers: Funk)'
-- The Devil Gives Me Everything (Lost Soul)
-- Baby, Baby I Love You
-- Greatest Love
+  - I'm Still a Man (Lord Have Mercy) (I'm Still A Man (Lord Have Mercy))
+  - Greatest Love - Remastered (Artist • Producer • Songwriter (Deluxe Edition))
+  - >-
+    I'm Still a Man (Lord Have Mercy) - Instrumental (I'm Still A Man (Lord Have
+    Mercy))
+  - 'Fairchild (Allen Toussaint: The Lost Sessions)'
+  - The Devil Gives Me Everything - Pt. 2 (Lost Soul)
+  - After The Storm
+  - 'Fairchild - Single Version; Remastered (Crate Diggers: Funk)'
+  - The Devil Gives Me Everything (Lost Soul)
+  - 'Baby, Baby I Love You'
+  - Greatest Love
 external_urls:
-  spotify: https://open.spotify.com/artist/76HrK2f7GCk4phitcHr60T
-  wikipedia: https://en.wikipedia.org/wiki/Willie_West_(musician)
+  spotify: 'https://open.spotify.com/artist/76HrK2f7GCk4phitcHr60T'
+  wikipedia: 'https://en.wikipedia.org/wiki/Willie_West_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/willie_west.jpg
 biography_enhanced_at: '2025-10-22T09:24:16.920764'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Willie+West/+wiki
-- https://blues.gr/profiles/blogs/q-a-with-willie-west-one-of-the-original-soul-and-blues-men
-- https://homeofthegroove.blogspot.com/2008/07/willie-west-genuine-soul-survivor.html
-- https://www.ponderosastomp.com/music_more/247/Willie+West
+  - 'https://www.last.fm/music/Willie+West/+wiki'
+  - >-
+    https://blues.gr/profiles/blogs/q-a-with-willie-west-one-of-the-original-soul-and-blues-men
+  - >-
+    https://homeofthegroove.blogspot.com/2008/07/willie-west-genuine-soul-survivor.html
+  - 'https://www.ponderosastomp.com/music_more/247/Willie+West'
 network_extracted: true
 entry_created: '2025-10-22T09:24:16.920782'
 last_updated: '2025-12-23T08:16:18.219551'
+birth_date: '1941-12-08'
+artist_type: person
 ---
 
 ![](willie_west.jpg)

@@ -5,26 +5,26 @@ schema_version: 2
 status: deceased
 aliases: []
 birth_date: '1933-12-18'
-birth_place: St. Landry Parish
+birth_place: 'Dubuisson, Louisiana, United States'
 death_date: '2017-04-01'
 years_active: 1953–2017
 genres:
-- blues
-- modern blues
-- blues rock
-- classic blues
+  - blues
+  - modern blues
+  - blues rock
+  - classic blues
 instruments:
-- guitar
-- voice
+  - guitar
+  - voice
 occupation:
-- musician
-- singer
-- guitarist
-- recording artist
+  - musician
+  - singer
+  - guitarist
+  - recording artist
 record_labels:
-- Capitol Records
-- Alligator Records
-- Chess Records
+  - Capitol Records
+  - Alligator Records
+  - Chess Records
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Lonnie_Brooks.jpg
   caption: Lonnie Brooks
@@ -50,31 +50,36 @@ spotify_data:
   followers: 21090
   id: 56tyBq8Ta1BdSTBs0gGhog
   popularity: 36
-  url: https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog
+  url: 'https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog'
   verified: false
 discography_enriched: true
 albums_count: 12
 singles_count: 1
 top_tracks:
-- Mr. Somebody (Hot Shot)
-- Two Guitars Shuffle - Take 2 (Sweet Home Chicago (Paris 1975) [Blues Reference])
-- Don't Go To Sleep On Me (Turn On The Night)
-- Twine Time (Times Have Changed)
-- Voodoo Daddy (Bayou Lightning)
-- A Man's Got To Do What A Man's Got To Do (Satisfaction Guaranteed)
-- In The Dark (Bayou Lightning)
-- Two Headed Man
-- Sweet Home Chicago (Sweet Home Chicago (Paris 1975) [Blues Reference])
-- Cheaper To Keep Her (Blues Brothers 2000)
+  - Mr. Somebody (Hot Shot)
+  - >-
+    Two Guitars Shuffle - Take 2 (Sweet Home Chicago (Paris 1975) [Blues
+    Reference])
+  - Don't Go To Sleep On Me (Turn On The Night)
+  - Twine Time (Times Have Changed)
+  - Voodoo Daddy (Bayou Lightning)
+  - A Man's Got To Do What A Man's Got To Do (Satisfaction Guaranteed)
+  - In The Dark (Bayou Lightning)
+  - Two Headed Man
+  - 'Sweet Home Chicago (Sweet Home Chicago (Paris 1975) [Blues Reference])'
+  - Cheaper To Keep Her (Blues Brothers 2000)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog
-  wikipedia: https://en.wikipedia.org/wiki/Lonnie_Brooks
+  spotify: 'https://open.spotify.com/artist/56tyBq8Ta1BdSTBs0gGhog'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lonnie_Brooks'
 image_path: 03_Resources/source_material/ArtistPortraits/Lonnie_Brooks.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-18T16:20:00.258572'
-entry_created: 2025-09-18 11:49:56.109985
+entry_created: 2025-09-18T11:49:56.109Z
 last_updated: '2025-12-23T08:16:12.082195'
+is_active: false
+origin: 'Chicago, Illinois, United States'
+artist_type: person
 ---
 
 ![](Lonnie_Brooks.jpg)

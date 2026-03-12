@@ -2,23 +2,23 @@
 title: Brian Eno
 wiki_slug: brian-eno
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1948-05-15'
-birth_place: Woodbridge, Suffolk, England, UK
+birth_place: 'Woodbridge, Suffolk, England, UK'
 genres:
-- ambient
-- art rock
-- krautrock
-- minimalism
-- drone
-- glam rock
+  - ambient
+  - art rock
+  - krautrock
+  - minimalism
+  - drone
+  - glam rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Brian_Eno.jpg
   caption: Brian Eno
   background: solo_singer
   born: '1948-05-15'
-  origin: Woodbridge, Suffolk, England, UK
+  origin: 'Woodbridge, Suffolk, England, UK'
 audio_profile:
   tempo_avg: 96.2
   energy_avg: 0.182
@@ -34,53 +34,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - David Bowie
-  - Robert Fripp
-  - David Byrne
-  - Daniel Lanois
-  - Talking Heads
-  - U2
-  - Harold Budd
+    - David Bowie
+    - Robert Fripp
+    - David Byrne
+    - Daniel Lanois
+    - Talking Heads
+    - U2
+    - Harold Budd
   influenced:
-  - Coldplay
-  - Aphex Twin
-  - Moby
-  - Radiohead
-  - James Blake
+    - Coldplay
+    - Aphex Twin
+    - Moby
+    - Radiohead
+    - James Blake
   mentors:
-  - Cornelius Cardew
-  - John Cage
+    - Cornelius Cardew
+    - John Cage
 spotify_data:
   followers: 828113
   id: 7MSUfLeTdDEoZiJPDSBXgi
   popularity: 59
-  url: https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi
+  url: 'https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi'
 discography_enriched: true
 top_tracks:
-- An Ending (Ascent) - Remastered 2005 (Apollo)
-- Cmon (Secret Life)
-- Emerald and Stone (Small Craft On A Milk Sea)
-- Deep Blue Day - Remastered 2005 (Apollo)
-- '1/1 - Remastered 2004 (Ambient 1: Music For Airports (Remastered 2004))'
-- Spinning Away (Wrong Way Up [Expanded Edition])
-- Enough (Secret Life)
-- Always Returning - Remastered 2005 (Apollo)
-- Secret (Secret Life)
-- The Big Ship - 2004 Remaster (Another Green World (2004 Remaster))
+  - An Ending (Ascent) - Remastered 2005 (Apollo)
+  - Cmon (Secret Life)
+  - Emerald and Stone (Small Craft On A Milk Sea)
+  - Deep Blue Day - Remastered 2005 (Apollo)
+  - '1/1 - Remastered 2004 (Ambient 1: Music For Airports (Remastered 2004))'
+  - 'Spinning Away (Wrong Way Up [Expanded Edition])'
+  - Enough (Secret Life)
+  - Always Returning - Remastered 2005 (Apollo)
+  - Secret (Secret Life)
+  - The Big Ship - 2004 Remaster (Another Green World (2004 Remaster))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ff95eb47-41c4-4f7f-a104-cdc30f02e872
-  spotify: https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi
-  wikipedia: https://en.wikipedia.org/wiki/Brian_Eno
+  musicbrainz: 'https://musicbrainz.org/artist/ff95eb47-41c4-4f7f-a104-cdc30f02e872'
+  spotify: 'https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi'
+  wikipedia: 'https://en.wikipedia.org/wiki/Brian_Eno'
 image_path: 03_Resources/source_material/ArtistPortraits/Brian_Eno.jpg
 biography_enhanced_at: '2025-10-20T09:42:58.214280'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Brian_Eno
-- https://www.brian-eno.net/about/
-- http://music.hyperreal.org/artists/brian_eno/in/eno_cv.html
-- https://thesummit.fm/2024/02/08/timeline-2023-brian-eno/
-- https://www.imdb.com/name/nm0006061/bio/
+  - 'https://en.wikipedia.org/wiki/Brian_Eno'
+  - 'https://www.brian-eno.net/about/'
+  - 'http://music.hyperreal.org/artists/brian_eno/in/eno_cv.html'
+  - 'https://thesummit.fm/2024/02/08/timeline-2023-brian-eno/'
+  - 'https://www.imdb.com/name/nm0006061/bio/'
 network_extracted: true
 entry_created: '2025-10-20T09:42:58.214290'
 last_updated: '2025-12-23T08:16:01.362835'
@@ -88,10 +88,9 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:20:34.308828'
 musicbrainz_id: ff95eb47-41c4-4f7f-a104-cdc30f02e872
 tags:
-- ambient
-- art pop
-- art rock
-
+  - ambient
+  - art pop
+  - art rock
 ---
 
 ![](Brian_Eno.jpg)

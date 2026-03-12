@@ -4,12 +4,12 @@ wiki_slug: jaimee-harris
 schema_version: 2
 artist_type: person
 status: active
-birth_place: Waco
+birth_place: 'Waco, Texas, United States'
 genres:
-- americana
+  - americana
 instruments:
-- background vocals
-- other vocals
+  - background vocals
+  - other vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jaimee_harris.jpg
   caption: Jaimee Harris
@@ -22,7 +22,7 @@ audio_profile:
   danceability_avg: 0.535
   acousticness_avg: 0.423
   instrumentalness_avg: 0.019
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.034
   liveness_avg: 0.14
   track_count: 50
@@ -30,51 +30,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Chris Harris (father)
-  - David Ramirez
+    - Chris Harris (father)
+    - David Ramirez
   influenced: []
   mentors:
-  - Mary Gauthier
-  - Craig Ross
-  - Ray Wylie Hubbard
+    - Mary Gauthier
+    - Craig Ross
+    - Ray Wylie Hubbard
 spotify_data:
   followers: 4094
   id: 7bDmybZmPCu9SCNvxMsTme
   popularity: 14
-  url: https://open.spotify.com/artist/7bDmybZmPCu9SCNvxMsTme
+  url: 'https://open.spotify.com/artist/7bDmybZmPCu9SCNvxMsTme'
 discography_enriched: true
 top_tracks:
-- Shoreline (feat. Jaimee Harris) (Shoreline)
-- Pretty Reckless (Co-Starring Too)
-- Boomerang Town (Boomerang Town)
-- The Fair and Dark Haired Lad (Boomerang Town)
-- Good Morning, My Love (Boomerang Town)
-- Love is Gonna Come Again (Boomerang Town)
-- Missing Someone (Boomerang Town)
-- Sam's (Boomerang Town)
-- Ain't Dead Yet (Ain't Dead Yet)
-- The Fair and Dark Haired Lad (The Fair and Dark Haired Lad)
+  - Shoreline (feat. Jaimee Harris) (Shoreline)
+  - Pretty Reckless (Co-Starring Too)
+  - Boomerang Town (Boomerang Town)
+  - The Fair and Dark Haired Lad (Boomerang Town)
+  - 'Good Morning, My Love (Boomerang Town)'
+  - Love is Gonna Come Again (Boomerang Town)
+  - Missing Someone (Boomerang Town)
+  - Sam's (Boomerang Town)
+  - Ain't Dead Yet (Ain't Dead Yet)
+  - The Fair and Dark Haired Lad (The Fair and Dark Haired Lad)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ce66bdf7-df0f-47c5-a628-c68fa960c436
-  spotify: https://open.spotify.com/artist/7bDmybZmPCu9SCNvxMsTme
+  musicbrainz: 'https://musicbrainz.org/artist/ce66bdf7-df0f-47c5-a628-c68fa960c436'
+  spotify: 'https://open.spotify.com/artist/7bDmybZmPCu9SCNvxMsTme'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/jaimee_harris.jpg
 biography_enhanced_at: '2025-12-04T08:15:45.649160'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- americanamusic.com - Jaimee Harris, an Artist You Should Know
-- wacoan.com - Jaimee Harris profile
-- 'michaelcorcoran.substack.com - Jaimee Harris: Falling, Falling Into Place'
-- 'copyrightalliance.org - Creator Spotlight: Singer/Songwriter Jaimee Harris'
-- jaimeeharris.com - Official biography
-- acousticguitar.com - Jaimee Harris' Boomerang Town review
-- wmot.org - Finally Friday's Jaimee Harris On Leaving, Losing And Loving
+  - 'americanamusic.com - Jaimee Harris, an Artist You Should Know'
+  - wacoan.com - Jaimee Harris profile
+  - 'michaelcorcoran.substack.com - Jaimee Harris: Falling, Falling Into Place'
+  - 'copyrightalliance.org - Creator Spotlight: Singer/Songwriter Jaimee Harris'
+  - jaimeeharris.com - Official biography
+  - acousticguitar.com - Jaimee Harris' Boomerang Town review
+  - 'wmot.org - Finally Friday''s Jaimee Harris On Leaving, Losing And Loving'
 network_extracted: true
 entry_created: '2025-12-04T08:15:45.649172'
 last_updated: '2025-12-23T08:16:10.117713'
 gender: Female
 musicbrainz_id: ce66bdf7-df0f-47c5-a628-c68fa960c436
+origin: 'Austin, Texas, United States'
 ---
 
 ![](jaimee_harris.jpg)

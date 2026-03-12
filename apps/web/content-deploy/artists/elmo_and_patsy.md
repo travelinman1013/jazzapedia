@@ -2,13 +2,13 @@
 title: Elmo & Patsy
 wiki_slug: elmo-patsy
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- christmas
+  - christmas
 instruments:
-- eponymous
-- original
+  - eponymous
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/elmo_and_patsy.jpg
   caption: Elmo & Patsy
@@ -19,7 +19,7 @@ audio_profile:
   valence_avg: 0.788
   danceability_avg: 0.735
   acousticness_avg: 0.218
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -10.3
   speechiness_avg: 0.062
   liveness_avg: 0.114
@@ -28,64 +28,67 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Patsy Trigg
-  - Gene Nelson
-  - Dr. Demento
+    - Patsy Trigg
+    - Gene Nelson
+    - Dr. Demento
   influenced:
-  - Less Than Jake
-  - Reel Big Fish
+    - Less Than Jake
+    - Reel Big Fish
   mentors:
-  - Randy Brooks
+    - Randy Brooks
 spotify_data:
   followers: 6200
   id: 3Ubvmshojm0HJHWWr4C6GF
   popularity: 53
-  url: https://open.spotify.com/artist/3Ubvmshojm0HJHWWr4C6GF
+  url: 'https://open.spotify.com/artist/3Ubvmshojm0HJHWWr4C6GF'
 discography_enriched: true
 top_tracks:
-- Grandma Got Run over by a Reindeer (Grandma Got Run Over By A Reindeer)
-- Grandma Got Run over by a Reindeer (All-Star Christmas)
-- Percy, the Puny Poinsettia (Grandma Got Run Over By A Reindeer)
-- Rudolph the Red-Nosed Reindeer (Grandma Got Run Over By A Reindeer)
-- Jingle Bell Rock (Grandma Got Run Over By A Reindeer)
-- Señor Santa Claus (Grandma Got Run Over By A Reindeer)
-- Jingle Bells (Grandma Got Run Over By A Reindeer)
-- Christmas (Grandma Got Run Over By A Reindeer)
-- Here's to the Lonely (Grandma Got Run Over By A Reindeer)
-- Joy to the World (Grandma Got Run Over By A Reindeer)
+  - Grandma Got Run over by a Reindeer (Grandma Got Run Over By A Reindeer)
+  - Grandma Got Run over by a Reindeer (All-Star Christmas)
+  - 'Percy, the Puny Poinsettia (Grandma Got Run Over By A Reindeer)'
+  - Rudolph the Red-Nosed Reindeer (Grandma Got Run Over By A Reindeer)
+  - Jingle Bell Rock (Grandma Got Run Over By A Reindeer)
+  - Señor Santa Claus (Grandma Got Run Over By A Reindeer)
+  - Jingle Bells (Grandma Got Run Over By A Reindeer)
+  - Christmas (Grandma Got Run Over By A Reindeer)
+  - Here's to the Lonely (Grandma Got Run Over By A Reindeer)
+  - Joy to the World (Grandma Got Run Over By A Reindeer)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/adcb6655-ba5c-4cf9-9d7a-94aaedbc478b
-  spotify: https://open.spotify.com/artist/3Ubvmshojm0HJHWWr4C6GF
-  wikipedia: https://en.wikipedia.org/wiki/Grandma_Got_Run_Over_by_a_Reindeer
+  musicbrainz: 'https://musicbrainz.org/artist/adcb6655-ba5c-4cf9-9d7a-94aaedbc478b'
+  spotify: 'https://open.spotify.com/artist/3Ubvmshojm0HJHWWr4C6GF'
+  wikipedia: 'https://en.wikipedia.org/wiki/Grandma_Got_Run_Over_by_a_Reindeer'
 image_path: 03_Resources/source_material/ArtistPortraits/elmo_and_patsy.jpg
 biography_enhanced_at: '2025-12-22T01:52:02.858333'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://parade.com/news/elmo-patsy-grandma-got-run-over-by-a-reindeer-story-worst-christmas-song
-- https://en.wikipedia.org/wiki/Grandma_Got_Run_Over_by_a_Reindeer
-- https://anticsincandyland.wordpress.com/2010/12/07/reindeer-crossing-meet-elmo-shropshire-maestro-of-madcap/
-- https://www.mentalfloss.com/article/89570/how-grandma-got-run-over-reindeer-became-holiday-staple
+  - >-
+    https://parade.com/news/elmo-patsy-grandma-got-run-over-by-a-reindeer-story-worst-christmas-song
+  - 'https://en.wikipedia.org/wiki/Grandma_Got_Run_Over_by_a_Reindeer'
+  - >-
+    https://anticsincandyland.wordpress.com/2010/12/07/reindeer-crossing-meet-elmo-shropshire-maestro-of-madcap/
+  - >-
+    https://www.mentalfloss.com/article/89570/how-grandma-got-run-over-reindeer-became-holiday-staple
 network_extracted: true
 entry_created: '2025-12-22T01:52:02.858341'
 last_updated: '2025-12-23T08:16:08.334506'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 3f4a14ca-96d2-4ebd-9334-502fc24c2f85
-  name: Dr. Elmo
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 7d3e4e89-cb76-4864-8177-cd90c5d2a7cd
-  name: Patsy Trigg
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 3f4a14ca-96d2-4ebd-9334-502fc24c2f85
+    name: Dr. Elmo
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 7d3e4e89-cb76-4864-8177-cd90c5d2a7cd
+    name: Patsy Trigg
 musicbrainz_id: adcb6655-ba5c-4cf9-9d7a-94aaedbc478b
-origin: Lexington, Kentucky, United States
+origin: 'Lexington, Kentucky, United States'
 ---
 
 ![](elmo_and_patsy.jpg)

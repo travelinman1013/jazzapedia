@@ -2,22 +2,22 @@
 title: Roger Wolfe Kahn
 wiki_slug: roger-wolfe-kahn
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1907-10-19'
-birth_place: Morristown, New Jersey, United States
+birth_place: 'Morristown, New Jersey, United States'
 death_date: '1962-07-12'
 genres:
-- ragtime
+  - ragtime
 instruments:
-- eponymous
-- original
+  - eponymous
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Roger_Wolfe_Kahn.jpg
   caption: Roger Wolfe Kahn
   background: non_vocal_instrumentalist
   born: '1907-10-19'
-  origin: Morristown, New Jersey, United States
+  origin: 'Morristown, New Jersey, United States'
   died: '1962-07-12'
 audio_profile:
   tempo_avg: 125.8
@@ -26,7 +26,7 @@ audio_profile:
   danceability_avg: 0.552
   acousticness_avg: 0.926
   instrumentalness_avg: 0.422
-  loudness_avg: -12.0
+  loudness_avg: -12
   speechiness_avg: 0.072
   liveness_avg: 0.35
   track_count: 50
@@ -34,48 +34,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jack Teagarden
-  - Miff Mole
-  - Tommy Gott
-  - Leo McConville
-  - Joe Venuti
-  - Eddie Lang
-  - Jimmy Dorsey
-  - Artie Shaw
-  - Libby Holman
+    - Jack Teagarden
+    - Miff Mole
+    - Tommy Gott
+    - Leo McConville
+    - Joe Venuti
+    - Eddie Lang
+    - Jimmy Dorsey
+    - Artie Shaw
+    - Libby Holman
   influenced: []
   mentors: []
 spotify_data:
   followers: 309
   id: 29QmuvE0ycnc6r57M2AUYf
   popularity: 7
-  url: https://open.spotify.com/artist/29QmuvE0ycnc6r57M2AUYf
+  url: 'https://open.spotify.com/artist/29QmuvE0ycnc6r57M2AUYf'
 discography_enriched: true
 top_tracks:
-- 'Exactly Like You (Collection: 1925 - 1932)'
-- Crazy rhythm (Piano Derby)
-- Brazil
-- 'Liza (All The Clouds''ll Roll Away) (Collection: 1925 - 1932)'
-- 'On The Sunny Side Of The Street (Collection: 1925 - 1932)'
-- Into My Heart
-- 'Crazy Rhythm (All That Jazz, Vol. 69: Stan Getz & Friends – Boppin'' in Studio & on Stage (2016 Remaster))'
-- 'Crazy Rhythm (Icon: Menuhin and Grappelli)'
-- 'Here''s Howe: Crazy Rhythm (arr. for organ) (Organ Arrangements - Porter, C. / Rodgers, R. / Olias, L. / Berlin, I. / Kern,
-  J. / Caesar, I. / Hupfeld, H. / Velasquez, C.)'
-- 'A Little Bungalow (Collection: 1925 - 1932)'
+  - 'Exactly Like You (Collection: 1925 - 1932)'
+  - Crazy rhythm (Piano Derby)
+  - Brazil
+  - 'Liza (All The Clouds''ll Roll Away) (Collection: 1925 - 1932)'
+  - 'On The Sunny Side Of The Street (Collection: 1925 - 1932)'
+  - Into My Heart
+  - >-
+    Crazy Rhythm (All That Jazz, Vol. 69: Stan Getz & Friends – Boppin' in
+    Studio & on Stage (2016 Remaster))
+  - 'Crazy Rhythm (Icon: Menuhin and Grappelli)'
+  - >-
+    Here's Howe: Crazy Rhythm (arr. for organ) (Organ Arrangements - Porter, C.
+    / Rodgers, R. / Olias, L. / Berlin, I. / Kern, J. / Caesar, I. / Hupfeld, H.
+    / Velasquez, C.)
+  - 'A Little Bungalow (Collection: 1925 - 1932)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1d371d7d-be13-405c-9f56-260147e5c04b
-  spotify: https://open.spotify.com/artist/29QmuvE0ycnc6r57M2AUYf
-  wikipedia: https://en.wikipedia.org/wiki/Roger_Wolfe_Kahn
+  musicbrainz: 'https://musicbrainz.org/artist/1d371d7d-be13-405c-9f56-260147e5c04b'
+  spotify: 'https://open.spotify.com/artist/29QmuvE0ycnc6r57M2AUYf'
+  wikipedia: 'https://en.wikipedia.org/wiki/Roger_Wolfe_Kahn'
 image_path: 03_Resources/source_material/ArtistPortraits/Roger_Wolfe_Kahn.jpg
 biography_enhanced_at: '2025-10-20T08:58:31.265555'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Roger_Wolfe_Kahn
-- https://travsd.wordpress.com/2013/09/19/stars-of-vaudeville-810-roger-wolf-kahn/
-- https://syncopatedtimes.com/roger-wolfe-kahn-and-his-orchestra/
-- https://syncopatedtimes.com/roger-wolfe-kahn-1925-1932/
+  - 'https://en.wikipedia.org/wiki/Roger_Wolfe_Kahn'
+  - >-
+    https://travsd.wordpress.com/2013/09/19/stars-of-vaudeville-810-roger-wolf-kahn/
+  - 'https://syncopatedtimes.com/roger-wolfe-kahn-and-his-orchestra/'
+  - 'https://syncopatedtimes.com/roger-wolfe-kahn-1925-1932/'
 network_extracted: true
 entry_created: '2025-10-20T08:58:31.265559'
 last_updated: '2025-12-23T08:16:03.732247'
@@ -83,7 +88,9 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:42:24.663709'
 musicbrainz_id: 1d371d7d-be13-405c-9f56-260147e5c04b
 tags:
-- jazz
+  - jazz
+is_active: false
+origin: 'New York City, New York, United States'
 ---
 
 ![](Roger_Wolfe_Kahn.jpg)

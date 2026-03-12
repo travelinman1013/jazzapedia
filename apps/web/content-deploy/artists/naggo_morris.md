@@ -5,17 +5,17 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1947-09-30'
-birth_place: Saint Mary
+birth_place: 'Carron Hall, St. Mary, Jamaica'
 death_date: '2020-05-17'
 genres:
-- roots reggae
-- dub
+  - roots reggae
+  - dub
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e6aa1a19-699e-4a9e-882f-bc07220243e7
-  name: Soul Boys
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e6aa1a19-699e-4a9e-882f-bc07220243e7
+    name: Soul Boys
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/naggo_morris.jpg
   caption: Naggo Morris
@@ -34,33 +34,35 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Heptones
+    - The Heptones
   influenced: []
   mentors: []
 spotify_data:
   followers: 10
   id: 7quipUOHeUmgDunJ9Ejs0O
   popularity: 3
-  url: https://open.spotify.com/artist/7quipUOHeUmgDunJ9Ejs0O
+  url: 'https://open.spotify.com/artist/7quipUOHeUmgDunJ9Ejs0O'
 discography_enriched: true
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5f9401a0-e429-4644-a9b7-eb621294ed8f
-  spotify: https://open.spotify.com/artist/7quipUOHeUmgDunJ9Ejs0O
+  musicbrainz: 'https://musicbrainz.org/artist/5f9401a0-e429-4644-a9b7-eb621294ed8f'
+  spotify: 'https://open.spotify.com/artist/7quipUOHeUmgDunJ9Ejs0O'
   wikipedia: ''
 image_path: ''
 biography_enhanced_at: '2025-12-22T01:48:57.909225'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.allmusic.com/artist/naggo-morris-mn0000377557[1]
-- https://www.caribbeannationalweekly.com/entertainment/former-heptones-member-naggo-morris-dies-at-age-72/[3]
-- https://www.reverbnation.com/naggomorris/song/7992986-everday-life[4]
-- https://www.last.fm/music/Naggo+Morris/+wiki[5]
+  - 'https://www.allmusic.com/artist/naggo-morris-mn0000377557[1]'
+  - >-
+    https://www.caribbeannationalweekly.com/entertainment/former-heptones-member-naggo-morris-dies-at-age-72/[3]
+  - 'https://www.reverbnation.com/naggomorris/song/7992986-everday-life[4]'
+  - 'https://www.last.fm/music/Naggo+Morris/+wiki[5]'
 network_extracted: true
 entry_created: '2025-12-22T01:48:57.909241'
 last_updated: '2025-12-23T08:16:13.399226'
 gender: Male
 musicbrainz_id: 5f9401a0-e429-4644-a9b7-eb621294ed8f
+is_active: false
 ---
 
 ![]()

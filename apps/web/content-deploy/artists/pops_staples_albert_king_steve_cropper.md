@@ -1,47 +1,50 @@
 ---
 biography_enhanced_at: '2025-12-27T01:30:10.139507'
-birth_place: Winona, Mississippi, USA
+birth_place: 'Winona, Mississippi, United States'
 enhancement_provider: perplexity
 entry_created: '2025-12-27T01:30:10.139523'
 external_urls:
-  spotify: https://open.spotify.com/artist/1gLCO8HDtmhp1eWmGcPl8S
-  wikipedia: https://en.wikipedia.org/wiki/Pops_Staples
+  spotify: 'https://open.spotify.com/artist/1gLCO8HDtmhp1eWmGcPl8S'
+  wikipedia: 'https://en.wikipedia.org/wiki/Pops_Staples'
 genres:
-- blues
-- blues rock
-- classic blues
-- soul blues
-- modern blues
-image_path: 03_Resources/source_material/ArtistPortraits/pops_staples_albert_king_steve_cropper.jpg
+  - blues
+  - blues rock
+  - classic blues
+  - soul blues
+  - modern blues
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/pops_staples_albert_king_steve_cropper.jpg
 last_updated: '2025-12-27T01:30:10.139525'
 musical_connections:
   collaborators:
-  - Albert King
-  - Steve Cropper
-  - Curtis Mayfield
-  - Mavis Staples
+    - Albert King
+    - Steve Cropper
+    - Curtis Mayfield
+    - Mavis Staples
   influenced:
-  - The Rolling Stones
-  - Widespread Panic
-  - Talking Heads
+    - The Rolling Stones
+    - Widespread Panic
+    - Talking Heads
   mentors:
-  - Martin Luther King, Jr.
+    - 'Martin Luther King, Jr.'
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Pops_Staples
-- https://kids.kiddle.co/Pops_Staples
-- https://www.premierguitar.com/artists/forgotten-heroes-pops-staples
-- https://www.mswritersandmusicians.com/mississippi-musicians/roebuck-pops-staples-and-the-staple-singers
-- https://msbluestrail.org/blues-trail-markers/pops-staples
-- https://www.arts.gov/honors/heritage/roebuck-pops-staples
+  - 'https://en.wikipedia.org/wiki/Pops_Staples'
+  - 'https://kids.kiddle.co/Pops_Staples'
+  - 'https://www.premierguitar.com/artists/forgotten-heroes-pops-staples'
+  - >-
+    https://www.mswritersandmusicians.com/mississippi-musicians/roebuck-pops-staples-and-the-staple-singers
+  - 'https://msbluestrail.org/blues-trail-markers/pops-staples'
+  - 'https://www.arts.gov/honors/heritage/roebuck-pops-staples'
 spotify_data:
   followers: 15633
   id: 1gLCO8HDtmhp1eWmGcPl8S
   popularity: 36
-  url: https://open.spotify.com/artist/1gLCO8HDtmhp1eWmGcPl8S
+  url: 'https://open.spotify.com/artist/1gLCO8HDtmhp1eWmGcPl8S'
 status: active
-title: pops staples, albert king, steve cropper
+title: Pops Staples
+artist_type: person
 ---
 
 ![](pops_staples_albert_king_steve_cropper.jpg)

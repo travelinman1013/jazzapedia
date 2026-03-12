@@ -2,10 +2,10 @@
 title: Pete Ellman Big Band
 wiki_slug: pete-ellman-big-band
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 genres:
-- big band
+  - big band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/pete_ellman_big_band.jpg
   caption: Pete Ellman Big Band
@@ -25,49 +25,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Members of the 566th Air Force Band (Illinois Air National Guard)
-  - Guest artists at the Naperville Big Band Jazz Festival (e.g., Wayne Bergeron, Andy Martin, Jeff Coffin)
-  - Student jazz ensembles from Chicagoland schools
+    - Members of the 566th Air Force Band (Illinois Air National Guard)
+    - >-
+      Guest artists at the Naperville Big Band Jazz Festival (e.g., Wayne
+      Bergeron, Andy Martin, Jeff Coffin)
+    - Student jazz ensembles from Chicagoland schools
   influenced:
-  - Chicagoland student jazz musicians (multiple schools, including participants in the Naperville Big Band Jazz Festival)
+    - >-
+      Chicagoland student jazz musicians (multiple schools, including
+      participants in the Naperville Big Band Jazz Festival)
   mentors:
-  - Wayne Cook
+    - Wayne Cook
 spotify_data:
   followers: 234
   id: 0jP6L37NZ6pkkQ91GMb0CU
   popularity: 9
-  url: https://open.spotify.com/artist/0jP6L37NZ6pkkQ91GMb0CU
+  url: 'https://open.spotify.com/artist/0jP6L37NZ6pkkQ91GMb0CU'
 discography_enriched: true
 top_tracks:
-- High Speed Pursuit (For Pete's Ache)
-- Livin' larger Than Life (For Pete's Ache)
-- When Lights Are Low (For Pete's Ache)
-- For Pete's Ache (For Pete's Ache)
-- Soon It's Gonna Rain (For Pete's Ache)
-- It Don't Mean a Thing (If It Ain't Got That Swing) (For Pete's Ache)
-- Manteca the "A" Train (For Pete's Ache)
-- Tenor Sanity (For Pete's Ache)
-- Dos Cinco Juan (For Pete's Ache)
-- Home, Sweet Home (For Pete's Ache)
+  - High Speed Pursuit (For Pete's Ache)
+  - Livin' larger Than Life (For Pete's Ache)
+  - When Lights Are Low (For Pete's Ache)
+  - For Pete's Ache (For Pete's Ache)
+  - Soon It's Gonna Rain (For Pete's Ache)
+  - It Don't Mean a Thing (If It Ain't Got That Swing) (For Pete's Ache)
+  - Manteca the "A" Train (For Pete's Ache)
+  - Tenor Sanity (For Pete's Ache)
+  - Dos Cinco Juan (For Pete's Ache)
+  - 'Home, Sweet Home (For Pete''s Ache)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d0b9a22d-a801-4030-892f-2dd54c873baf
-  spotify: https://open.spotify.com/artist/0jP6L37NZ6pkkQ91GMb0CU
+  musicbrainz: 'https://musicbrainz.org/artist/d0b9a22d-a801-4030-892f-2dd54c873baf'
+  spotify: 'https://open.spotify.com/artist/0jP6L37NZ6pkkQ91GMb0CU'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/pete_ellman_big_band.jpg
 biography_enhanced_at: '2025-12-20T01:10:41.301561'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Neon Jazz interview with Big Band Leader Pete Ellman (YouTube transcript/interview)[1]
-- Illinois Presenters Network – Pete Ellman Big Band NFP profile[2]
-- Official Pete Ellman Big Band website[3]
-- 'NCTV17 feature: “Pete Ellman Big Band bridges the gap for budding jazz musicians”[4]'
-- Midwest Clinic – Pete Ellman Big Band NFP performing organization profile[6]
+  - >-
+    Neon Jazz interview with Big Band Leader Pete Ellman (YouTube
+    transcript/interview)[1]
+  - 'Illinois Presenters Network – Pete Ellman Big Band NFP profile[2]'
+  - 'Official Pete Ellman Big Band website[3]'
+  - >-
+    NCTV17 feature: “Pete Ellman Big Band bridges the gap for budding jazz
+    musicians”[4]
+  - 'Midwest Clinic – Pete Ellman Big Band NFP performing organization profile[6]'
 network_extracted: true
 entry_created: '2025-12-20T01:10:41.301569'
 last_updated: '2025-12-23T08:16:14.206625'
 musicbrainz_id: d0b9a22d-a801-4030-892f-2dd54c873baf
-origin: Western suburbs of Chicago (notably Naperville and Aurora), Illinois, United States
+origin: >-
+  Western suburbs of Chicago (notably Naperville and Aurora), Illinois, United
+  States
+birth_place: 'Chicago, Illinois, United States'
+birth_date: '1962'
 ---
 
 ![](pete_ellman_big_band.jpg)

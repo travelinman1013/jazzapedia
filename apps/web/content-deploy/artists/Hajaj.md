@@ -2,16 +2,16 @@
 title: Hajaj
 wiki_slug: hajaj
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
-birth_place: Jeddah, Saudi Arabia (birthplace); London, England (current base)
+birth_place: 'Jeddah, Saudi Arabia (birthplace); London, England (current base)'
 genres:
-- retro soul
+  - retro soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Hajaj.jpg
   caption: Hajaj
   background: solo_singer
-  origin: Jeddah, Saudi Arabia (birthplace); London, England (current base)
+  origin: 'Jeddah, Saudi Arabia (birthplace); London, England (current base)'
 audio_profile:
   tempo_avg: 94.7
   energy_avg: 0.329
@@ -27,44 +27,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Rhys Lewis
-  - Joe Stoddart
-  - Richard Wilkinson
+    - Rhys Lewis
+    - Joe Stoddart
+    - Richard Wilkinson
   influenced: []
   mentors:
-  - Aidan Glover
+    - Aidan Glover
 spotify_data:
   followers: 69723
   id: 08yjRkGm8KNsShKjtbEmt6
   popularity: 57
-  url: https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6
+  url: 'https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6'
 discography_enriched: true
 top_tracks:
-- High No More (High No More)
-- Love To Last (Last Call For Coco)
-- Let Me Get To Know You (Last Call For Coco)
-- Place To Call Home (Last Call For Coco)
-- Follow Me Into The Dark (Last Call For Coco)
-- Learning To Live Without You (Learning To Live Without You)
-- High No More (Last Call For Coco)
-- Learning To Live Without You (Last Call For Coco)
-- Follow Me Into The Dark (Last Call For Coco)
-- Maybe It's You (Maybe It's You)
+  - High No More (High No More)
+  - Love To Last (Last Call For Coco)
+  - Let Me Get To Know You (Last Call For Coco)
+  - Place To Call Home (Last Call For Coco)
+  - Follow Me Into The Dark (Last Call For Coco)
+  - Learning To Live Without You (Learning To Live Without You)
+  - High No More (Last Call For Coco)
+  - Learning To Live Without You (Last Call For Coco)
+  - Follow Me Into The Dark (Last Call For Coco)
+  - Maybe It's You (Maybe It's You)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/529e913e-d3a4-4047-ac93-01e857868565
-  spotify: https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6
+  musicbrainz: 'https://musicbrainz.org/artist/529e913e-d3a4-4047-ac93-01e857868565'
+  spotify: 'https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/Hajaj.jpg
 biography_enhanced_at: '2025-10-20T09:07:50.156483'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Hajaj/+wiki
-- https://nettwerk.com/middle-eastern-soul-artist-hajaj-announces-in-the-meantime-ep-shares-new-song-yours-or-mine/
-- https://www.thatericalper.com/2025/09/09/hajaj-announces-soulful-new-ep-in-the-meantime-with-retro-groove-single-yours-or-mine/
-- https://www.melodicmag.com/news/hajaj-seeks-out-a-moment-to-himself-on-space/
-- https://hq.rostr.cc/insider/news/hajaj-signs-with-iag
-- https://www.thenationalnews.com/arts-culture/music/2021/11/07/meet-saudi-singer-hajaj-the-face-of-an-influential-spotify-playlist/
+  - 'https://www.last.fm/music/Hajaj/+wiki'
+  - >-
+    https://nettwerk.com/middle-eastern-soul-artist-hajaj-announces-in-the-meantime-ep-shares-new-song-yours-or-mine/
+  - >-
+    https://www.thatericalper.com/2025/09/09/hajaj-announces-soulful-new-ep-in-the-meantime-with-retro-groove-single-yours-or-mine/
+  - >-
+    https://www.melodicmag.com/news/hajaj-seeks-out-a-moment-to-himself-on-space/
+  - 'https://hq.rostr.cc/insider/news/hajaj-signs-with-iag'
+  - >-
+    https://www.thenationalnews.com/arts-culture/music/2021/11/07/meet-saudi-singer-hajaj-the-face-of-an-influential-spotify-playlist/
 network_extracted: true
 entry_created: '2025-10-20T09:07:50.156495'
 last_updated: '2025-12-23T08:16:02.199531'
@@ -72,6 +76,7 @@ disambiguation: (Abdul Rahman) Hajaj
 gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:28:38.569215'
 musicbrainz_id: 529e913e-d3a4-4047-ac93-01e857868565
+origin: 'London, England, United Kingdom'
 ---
 
 ![](Hajaj.jpg)

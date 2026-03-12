@@ -1,35 +1,35 @@
 ---
-title: KATHY KALLICK
+title: Kathy Kallick
 wiki_slug: kathy-kallick
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1952-09-19'
-birth_place: Chicago
+birth_place: 'Chicago, Illinois, United States'
 genres:
-- bluegrass
-- americana
+  - bluegrass
+  - americana
 instruments:
-- original
-- guitar
-- acoustic guitar
-- lead vocals
-- tenor vocals
-- background vocals
-- baritone vocals
-- other vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 831c4132-d78f-4aaa-b74a-adada0b3b38a
-  name: Good Ol' Persons
-- begin: ''
-  end: ''
-  instruments:
   - original
-  mbid: dd951028-9c8e-4530-8b62-d9816c2a159b
-  name: Kathy Kallick Band
+  - guitar
+  - acoustic guitar
+  - lead vocals
+  - tenor vocals
+  - background vocals
+  - baritone vocals
+  - other vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 831c4132-d78f-4aaa-b74a-adada0b3b38a
+    name: Good Ol' Persons
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: dd951028-9c8e-4530-8b62-d9816c2a159b
+    name: Kathy Kallick Band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/kathy_kallick.jpg
   caption: KATHY KALLICK
@@ -43,7 +43,7 @@ audio_profile:
   danceability_avg: 0.574
   acousticness_avg: 0.795
   instrumentalness_avg: 0.001
-  loudness_avg: -11.0
+  loudness_avg: -11
   speechiness_avg: 0.033
   liveness_avg: 0.173
   track_count: 50
@@ -51,56 +51,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Laurie Lewis
-  - Good Ol' Persons
-  - Kathy Kallick Band members (Tom Bekeny, Annie Staninec, Greg Booth, Cary Black)
+    - Laurie Lewis
+    - Good Ol' Persons
+    - >-
+      Kathy Kallick Band members (Tom Bekeny, Annie Staninec, Greg Booth, Cary
+      Black)
   influenced:
-  - Numerous West Coast bluegrass musicians
+    - Numerous West Coast bluegrass musicians
   mentors:
-  - John Prine
-  - Steve Goodman
-  - Tom Dundee
+    - John Prine
+    - Steve Goodman
+    - Tom Dundee
 spotify_data:
   followers: 596
   id: 6kHR8586E2UXrjSRNhZFZv
   popularity: 5
-  url: https://open.spotify.com/artist/6kHR8586E2UXrjSRNhZFZv
+  url: 'https://open.spotify.com/artist/6kHR8586E2UXrjSRNhZFZv'
 discography_enriched: true
 top_tracks:
-- Use a Napkin (Not Your Mom) (The Greatest Bluesgrass Fiddlers)
-- 'Champagne Blues (Julia Belle: The John Hartford Fiddle Tune Project, Vol. 2)'
-- Anywhere The Wind Blows (Anywhere The Wind Blows)
-- 'Used To Be (True Life Blues: The Songs Of Bill Monroe)'
-- 'True Life Blues (True Life Blues: The Songs Of Bill Monroe)'
-- Anywhere The Wind Blows (Love & Trouble)
-- Ring The Bells At Midnight (Tinsel Tunes - More Holiday Treats From Sugar Hill)
-- Just Like Rain (O Sister! The Women's Bluegrass Collection)
-- Use A Napkin (Not Your Mom) (Use A Napkin)
-- My Old Kentucky Home (Laurie & Kathy Sing Songs of Vern & Ray)
+  - Use a Napkin (Not Your Mom) (The Greatest Bluesgrass Fiddlers)
+  - 'Champagne Blues (Julia Belle: The John Hartford Fiddle Tune Project, Vol. 2)'
+  - Anywhere The Wind Blows (Anywhere The Wind Blows)
+  - 'Used To Be (True Life Blues: The Songs Of Bill Monroe)'
+  - 'True Life Blues (True Life Blues: The Songs Of Bill Monroe)'
+  - Anywhere The Wind Blows (Love & Trouble)
+  - >-
+    Ring The Bells At Midnight (Tinsel Tunes - More Holiday Treats From Sugar
+    Hill)
+  - Just Like Rain (O Sister! The Women's Bluegrass Collection)
+  - Use A Napkin (Not Your Mom) (Use A Napkin)
+  - My Old Kentucky Home (Laurie & Kathy Sing Songs of Vern & Ray)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/277aef51-e4da-40d4-9662-30057c5bf3bf
-  spotify: https://open.spotify.com/artist/6kHR8586E2UXrjSRNhZFZv
-  wikipedia: https://en.wikipedia.org/wiki/Kathy_Kallick
+  musicbrainz: 'https://musicbrainz.org/artist/277aef51-e4da-40d4-9662-30057c5bf3bf'
+  spotify: 'https://open.spotify.com/artist/6kHR8586E2UXrjSRNhZFZv'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kathy_Kallick'
 image_path: 03_Resources/source_material/ArtistPortraits/kathy_kallick.jpg
 biography_enhanced_at: '2025-11-03T07:37:58.035028'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.rocky-52.net/chanteursk/kallick_kathy.htm
-- http://www.kathykallick.com/about-us.html
-- https://www.pugetsoundguitarworkshop.org/instructors/kathy-kallick
-- https://www.flatpik.com/instructors/kathy-kallick
-- https://bluegrasstoday.com/california-report-kathy-kallick-on-songwriting-and-the-kathy-kallick-band/
-- https://bluegrassunlimited.com/article/kathy-kallick/
-- https://www.popcultureclassics.com/kkb.html
-- http://www.kathykallick.com/kathy-kallick.html
+  - 'https://www.rocky-52.net/chanteursk/kallick_kathy.htm'
+  - 'http://www.kathykallick.com/about-us.html'
+  - 'https://www.pugetsoundguitarworkshop.org/instructors/kathy-kallick'
+  - 'https://www.flatpik.com/instructors/kathy-kallick'
+  - >-
+    https://bluegrasstoday.com/california-report-kathy-kallick-on-songwriting-and-the-kathy-kallick-band/
+  - 'https://bluegrassunlimited.com/article/kathy-kallick/'
+  - 'https://www.popcultureclassics.com/kkb.html'
+  - 'http://www.kathykallick.com/kathy-kallick.html'
 network_extracted: true
 entry_created: '2025-11-03T07:37:58.035038'
 last_updated: '2025-12-23T08:16:11.201556'
 disambiguation: folk musician
 gender: Female
 musicbrainz_id: 277aef51-e4da-40d4-9662-30057c5bf3bf
-
 ---
 
 ![](kathy_kallick.jpg)

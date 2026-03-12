@@ -1,16 +1,16 @@
 ---
-title: rudy green
+title: Rudy Green
 wiki_slug: rudy-green
 schema_version: 2
 status: active
-birth_place: Lake Charles, Louisiana, United States
+birth_place: 'Lake Charles, Louisiana, United States'
 genres:
-- rockabilly
+  - rockabilly
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/rudy_green.jpg
   caption: rudy green
   background: solo_singer
-  origin: Lake Charles, Louisiana, United States
+  origin: 'Lake Charles, Louisiana, United States'
 audio_profile:
   tempo_avg: 121.1
   energy_avg: 0.704
@@ -26,43 +26,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Eddie Chamblee
+    - Eddie Chamblee
   influenced:
-  - Various rockabilly and R&B revivalists
+    - Various rockabilly and R&B revivalists
   mentors:
-  - T-Bone Walker
+    - T-Bone Walker
 spotify_data:
   followers: 72
   id: 4dyPogIjXx9KJU9S1RWNR5
   popularity: 1
-  url: https://open.spotify.com/artist/4dyPogIjXx9KJU9S1RWNR5
+  url: 'https://open.spotify.com/artist/4dyPogIjXx9KJU9S1RWNR5'
 discography_enriched: true
 top_tracks:
-- Juicy Fruit (The Stroll)
-- 'Juicy Fruit (Digging Deeper: Love & Rhythm in USA)'
-- My Mumblin'babe (Easy Tiger !)
-- Juicy Fruit (Juicy Blues)
-- You're the One for Me (Memories of the Great 1950's, Vol. 2)
-- 'Juicy Fruit (Wow! Jump, Shout & Jive: Blues Classics)'
-- Juicy Fruit (Music Road,Vol. 12 - Pop Travel)
-- Yoùre the One for Me
-- 'SYMPHONY No.2 in C, Op.61, 3rd movement: Adagio expressivo (Schumann Symphonies 1-4)'
-- You're The One For Me (The Stroll)
+  - Juicy Fruit (The Stroll)
+  - 'Juicy Fruit (Digging Deeper: Love & Rhythm in USA)'
+  - My Mumblin'babe (Easy Tiger !)
+  - Juicy Fruit (Juicy Blues)
+  - 'You''re the One for Me (Memories of the Great 1950''s, Vol. 2)'
+  - 'Juicy Fruit (Wow! Jump, Shout & Jive: Blues Classics)'
+  - 'Juicy Fruit (Music Road,Vol. 12 - Pop Travel)'
+  - Yoùre the One for Me
+  - >-
+    SYMPHONY No.2 in C, Op.61, 3rd movement: Adagio expressivo (Schumann
+    Symphonies 1-4)
+  - You're The One For Me (The Stroll)
 external_urls:
-  spotify: https://open.spotify.com/artist/4dyPogIjXx9KJU9S1RWNR5
-  wikipedia: https://fr.wikipedia.org/wiki/Rudy_Greene
+  spotify: 'https://open.spotify.com/artist/4dyPogIjXx9KJU9S1RWNR5'
+  wikipedia: 'https://fr.wikipedia.org/wiki/Rudy_Greene'
 image_path: 03_Resources/source_material/ArtistPortraits/rudy_green.jpg
 biography_enhanced_at: '2025-11-04T11:09:05.650225'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://fr.wikipedia.org/wiki/Rudy_Greene
-- https://tims.blackcat.nl/messages/rudy_green.htm
-- https://sentirelblues.blogspot.com/2015/08/rudy-greene.html
-- https://www.allmusic.com/artist/rudy-greene-mn0000856147
+  - 'https://fr.wikipedia.org/wiki/Rudy_Greene'
+  - 'https://tims.blackcat.nl/messages/rudy_green.htm'
+  - 'https://sentirelblues.blogspot.com/2015/08/rudy-greene.html'
+  - 'https://www.allmusic.com/artist/rudy-greene-mn0000856147'
 network_extracted: true
 entry_created: '2025-11-04T11:09:05.650236'
 last_updated: '2025-12-23T08:16:15.189086'
+birth_date: '1926'
+death_date: '1976'
+artist_type: person
 ---
 
 ![](rudy_green.jpg)

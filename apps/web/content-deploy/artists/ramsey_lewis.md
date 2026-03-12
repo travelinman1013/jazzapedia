@@ -1,22 +1,22 @@
 ---
-title: RAMSEY LEWIS
+title: Ramsey Lewis
 wiki_slug: ramsey-lewis
 schema_version: 2
 status: active
-birth_place: Chicago, Illinois, United States
+birth_place: 'Chicago, Illinois, United States'
 genres:
-- jazz funk
-- smooth jazz
-- northern soul
-- soul jazz
-- jazz
+  - jazz funk
+  - smooth jazz
+  - northern soul
+  - soul jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ramsey_lewis.jpg
   caption: RAMSEY LEWIS
   background: solo_singer
-  origin: Chicago, Illinois, United States
+  origin: 'Chicago, Illinois, United States'
 audio_profile:
-  tempo_avg: 113.0
+  tempo_avg: 113
   energy_avg: 0.573
   valence_avg: 0.62
   danceability_avg: 0.604
@@ -30,58 +30,65 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Eldee Young
-  - Isaac “Red” Holt
-  - Cleveland Eaton
-  - Maurice White
-  - Morris Jennings
-  - Nancy Wilson
-  - London Philharmonic Orchestra
-  - Dr. Billy Taylor
-  - Herbie Hancock and Roy Ayers
+    - Eldee Young
+    - Isaac “Red” Holt
+    - Cleveland Eaton
+    - Maurice White
+    - Morris Jennings
+    - Nancy Wilson
+    - London Philharmonic Orchestra
+    - Dr. Billy Taylor
+    - Herbie Hancock and Roy Ayers
   influenced:
-  - Maurice White / Earth, Wind & Fire
-  - Contemporary smooth jazz and jazz‑funk pianists
+    - 'Maurice White / Earth, Wind & Fire'
+    - Contemporary smooth jazz and jazz‑funk pianists
   mentors:
-  - Ernestine Bruce
-  - Dorothy Mendelssohn (Mendelsohn/Mendelsohn) at Chicago Musical College
+    - Ernestine Bruce
+    - Dorothy Mendelssohn (Mendelsohn/Mendelsohn) at Chicago Musical College
 spotify_data:
   followers: 114597
   id: 7Kfrmups2Z3ncDQmNS5jRc
   popularity: 43
-  url: https://open.spotify.com/artist/7Kfrmups2Z3ncDQmNS5jRc
+  url: 'https://open.spotify.com/artist/7Kfrmups2Z3ncDQmNS5jRc'
 discography_enriched: true
 top_tracks:
-- Wade In The Water (Wade In The Water)
-- Love's Serenade (Dance Of The Soul)
-- Sun Goddess (feat. Ramsey Lewis) (Sun Goddess)
-- Cry Baby Cry (Mother Nature's Son)
-- Do What You Wanna - Mr. Scruff's Soul Party Remix
-- Sun Goddess
-- Sarah Jane (Ivory Pyramid)
-- Summer Breeze (Solar Wind)
-- Dear Prudence (Mother Nature's Son)
-- Fragile (Dance Of The Soul)
+  - Wade In The Water (Wade In The Water)
+  - Love's Serenade (Dance Of The Soul)
+  - Sun Goddess (feat. Ramsey Lewis) (Sun Goddess)
+  - Cry Baby Cry (Mother Nature's Son)
+  - Do What You Wanna - Mr. Scruff's Soul Party Remix
+  - Sun Goddess
+  - Sarah Jane (Ivory Pyramid)
+  - Summer Breeze (Solar Wind)
+  - Dear Prudence (Mother Nature's Son)
+  - Fragile (Dance Of The Soul)
 external_urls:
-  spotify: https://open.spotify.com/artist/7Kfrmups2Z3ncDQmNS5jRc
-  wikipedia: https://en.wikipedia.org/wiki/Ramsey_Lewis
+  spotify: 'https://open.spotify.com/artist/7Kfrmups2Z3ncDQmNS5jRc'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ramsey_Lewis'
 image_path: 03_Resources/source_material/ArtistPortraits/ramsey_lewis.jpg
 biography_enhanced_at: '2025-12-12T12:01:11.737225'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Ramsey Lewis - Wikipedia[1]
-- African American Registry biography of Ramsey Lewis[2]
-- National Endowment for the Arts (NEA Jazz Masters) biography of Ramsey Lewis[3]
-- The HistoryMakers biography of Ramsey Lewis[4]
-- Official Ramsey Lewis website biography[5]
-- 'DownBeat review and profile: Gentleman of Jazz[6]'
-- 'KMHD obituary: Ramsey Lewis, the pop chart’s favorite jazz pianist dies at 87[7]'
-- 'Savage Content article: Remembering Ramsey Lewis and his Legacy[8]'
+  - 'Ramsey Lewis - Wikipedia[1]'
+  - 'African American Registry biography of Ramsey Lewis[2]'
+  - >-
+    National Endowment for the Arts (NEA Jazz Masters) biography of Ramsey
+    Lewis[3]
+  - 'The HistoryMakers biography of Ramsey Lewis[4]'
+  - 'Official Ramsey Lewis website biography[5]'
+  - 'DownBeat review and profile: Gentleman of Jazz[6]'
+  - >-
+    KMHD obituary: Ramsey Lewis, the pop chart’s favorite jazz pianist dies at
+    87[7]
+  - 'Savage Content article: Remembering Ramsey Lewis and his Legacy[8]'
 network_extracted: true
 entry_created: '2025-12-12T12:01:11.737276'
 last_updated: '2025-12-23T08:16:14.616146'
-
+origin: 'Chicago, Illinois, United States'
+birth_date: '1935-05-27'
+death_date: '2022-09-12'
+artist_type: person
 ---
 
 ![](ramsey_lewis.jpg)

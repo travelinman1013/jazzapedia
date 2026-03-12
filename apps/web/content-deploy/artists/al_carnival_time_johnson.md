@@ -1,17 +1,17 @@
 ---
-title: AL CARNIVAL TIME JOHNSON
+title: AL Carnival Time Johnson
 wiki_slug: al-carnival-time-johnson
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/al_carnival_time_johnson.jpg
   caption: AL CARNIVAL TIME JOHNSON
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 129.1
   energy_avg: 0.559
@@ -27,50 +27,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Joe Ruffino
-  - Cosimo Matassa
-  - Egg Yolk Jubilee
-  - Margie Perez
-  - Bon Bon Vivant
+    - Joe Ruffino
+    - Cosimo Matassa
+    - Egg Yolk Jubilee
+    - Margie Perez
+    - Bon Bon Vivant
   influenced:
-  - New Orleans Mardi Gras musicians
+    - New Orleans Mardi Gras musicians
   mentors:
-  - Fats Domino
-  - Sugar Boy Crawford
-  - Smiley Lewis
+    - Fats Domino
+    - Sugar Boy Crawford
+    - Smiley Lewis
 spotify_data:
   followers: 173
   id: 0gLee3ARp4KZ856wSrr8oF
   popularity: 3
-  url: https://open.spotify.com/artist/0gLee3ARp4KZ856wSrr8oF
+  url: 'https://open.spotify.com/artist/0gLee3ARp4KZ856wSrr8oF'
 discography_enriched: true
 top_tracks:
-- Carnivale Time (Carnivale Electricos)
-- Mardi Gras Strut (Mambo) (Talking 'Bout the Blues, Vol. 3)
-- Carnival Time (Carnivale Electricos)
-- Carnival Time (One Note At A Time (Official Soundtrack))
-- Who Dat Say (feat. Eggyolk Jubilee) (Who Dat Say - single)
-- Lena (Talking 'Bout the Blues, Vol. 6)
-- Sad Story
-- 'Lena (Blues Makers: The Vocal Mix, Vol. 6)'
-- Lena
-- Lower Ninth Ward Blues
+  - Carnivale Time (Carnivale Electricos)
+  - 'Mardi Gras Strut (Mambo) (Talking ''Bout the Blues, Vol. 3)'
+  - Carnival Time (Carnivale Electricos)
+  - Carnival Time (One Note At A Time (Official Soundtrack))
+  - Who Dat Say (feat. Eggyolk Jubilee) (Who Dat Say - single)
+  - 'Lena (Talking ''Bout the Blues, Vol. 6)'
+  - Sad Story
+  - 'Lena (Blues Makers: The Vocal Mix, Vol. 6)'
+  - Lena
+  - Lower Ninth Ward Blues
 external_urls:
-  spotify: https://open.spotify.com/artist/0gLee3ARp4KZ856wSrr8oF
-  wikipedia: https://en.wikipedia.org/wiki/Al_%22Carnival_Time%22_Johnson
+  spotify: 'https://open.spotify.com/artist/0gLee3ARp4KZ856wSrr8oF'
+  wikipedia: 'https://en.wikipedia.org/wiki/Al_%22Carnival_Time%22_Johnson'
 image_path: 03_Resources/source_material/ArtistPortraits/al_carnival_time_johnson.jpg
 biography_enhanced_at: '2025-10-22T09:26:45.443400'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://ellanola.org/ellanotes/musician-and-songwriter-al-carnival-time-johnson-keeps-his-fete-going-strong
-- https://www.318central.com/alcarnivaltimejohnson/
-- https://kids.kiddle.co/Al_%22Carnival_Time%22_Johnson
-- https://en.wikipedia.org/wiki/Al_%22Carnival_Time%22_Johnson
-- https://www.neworleans.com/listing/al-carnival-time-johnson/48310/
+  - >-
+    https://ellanola.org/ellanotes/musician-and-songwriter-al-carnival-time-johnson-keeps-his-fete-going-strong
+  - 'https://www.318central.com/alcarnivaltimejohnson/'
+  - 'https://kids.kiddle.co/Al_%22Carnival_Time%22_Johnson'
+  - 'https://en.wikipedia.org/wiki/Al_%22Carnival_Time%22_Johnson'
+  - 'https://www.neworleans.com/listing/al-carnival-time-johnson/48310/'
 network_extracted: true
 entry_created: '2025-10-22T09:26:45.443425'
 last_updated: '2025-12-23T08:16:04.435059'
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1939-06-20'
+artist_type: person
 ---
 
 ![](al_carnival_time_johnson.jpg)

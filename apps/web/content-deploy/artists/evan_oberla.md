@@ -1,55 +1,56 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - trombone
-  mbid: c70b72cc-e9b5-4318-aa34-992f9f1352a9
-  name: MojoFlo
+  - begin: ''
+    end: ''
+    instruments:
+      - trombone
+    mbid: c70b72cc-e9b5-4318-aa34-992f9f1352a9
+    name: MojoFlo
 biography_enhanced_at: '2025-12-30T01:22:46.272605'
-birth_place: Columbus
+birth_place: 'Columbus, Ohio, United States'
 disambiguation: Trombonist
 enhancement_provider: perplexity
 entry_created: '2025-12-30T01:22:46.272611'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c43d5731-b3a8-4e0a-8b3c-45de508de08d
-  spotify: https://open.spotify.com/artist/3BiQ43mt2pLHlg7Vyym6OU
+  musicbrainz: 'https://musicbrainz.org/artist/c43d5731-b3a8-4e0a-8b3c-45de508de08d'
+  spotify: 'https://open.spotify.com/artist/3BiQ43mt2pLHlg7Vyym6OU'
   wikipedia: ''
 gender: Male
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/evan_oberla.jpg
 instruments:
-- trombone
+  - trombone
 last_updated: '2025-12-30T01:22:46.272611'
 musical_connections:
   collaborators:
-  - Ero
-  - Dan Shaw
-  - Jeff Bass
-  - Nathan Parker
-  - Flow Tribe members
-  - Corey Henry
+    - Ero
+    - Dan Shaw
+    - Jeff Bass
+    - Nathan Parker
+    - Flow Tribe members
+    - Corey Henry
   influenced: []
   mentors:
-  - Unnamed school mentors
+    - Unnamed school mentors
 musicbrainz_id: c43d5731-b3a8-4e0a-8b3c-45de508de08d
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://turtletempo.co.uk/2020/06/03/in-conversation-with-evan-oberla/
-- https://www.evanoberla.com/about
-- https://definitionmusic.net/artist-page-evan-oberla
-- https://crescentcitysounds.org/artists/evan-oberla
-- https://www.neworleans.com/listing/evan-oberla/46848/
-- https://neworleansmusicians.com/blog/tag/evan-oberla/
+  - 'https://turtletempo.co.uk/2020/06/03/in-conversation-with-evan-oberla/'
+  - 'https://www.evanoberla.com/about'
+  - 'https://definitionmusic.net/artist-page-evan-oberla'
+  - 'https://crescentcitysounds.org/artists/evan-oberla'
+  - 'https://www.neworleans.com/listing/evan-oberla/46848/'
+  - 'https://neworleansmusicians.com/blog/tag/evan-oberla/'
 spotify_data:
   followers: 89
   id: 3BiQ43mt2pLHlg7Vyym6OU
   popularity: 0
-  url: https://open.spotify.com/artist/3BiQ43mt2pLHlg7Vyym6OU
+  url: 'https://open.spotify.com/artist/3BiQ43mt2pLHlg7Vyym6OU'
 status: active
 title: Evan Oberla
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](evan_oberla.jpg)

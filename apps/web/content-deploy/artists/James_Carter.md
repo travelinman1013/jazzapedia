@@ -3,13 +3,13 @@ title: James Carter
 wiki_slug: james-carter
 schema_version: 2
 status: active
-birth_place: Detroit, Michigan, United States
+birth_place: 'Detroit, Michigan, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/James_Carter.jpg
   caption: James Carter
   background: solo_singer
-  origin: Detroit, Michigan, United States
+  origin: 'Detroit, Michigan, United States'
 audio_profile:
   tempo_avg: 127.2
   energy_avg: 0.811
@@ -25,50 +25,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lester Bowie
-  - Julius Hemphill
-  - Dee Dee Bridgewater
-  - Kathleen Battle
-  - Frank Lowe
-  - Madeleine Peyroux
+    - Lester Bowie
+    - Julius Hemphill
+    - Dee Dee Bridgewater
+    - Kathleen Battle
+    - Frank Lowe
+    - Madeleine Peyroux
   influenced:
-  - Roberto Sierra
+    - Roberto Sierra
   mentors:
-  - Wynton Marsalis
+    - Wynton Marsalis
 spotify_data:
   followers: 71447
   id: 5344K3N7rx7kw1HjO8psuq
   popularity: 60
-  url: https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq
+  url: 'https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq'
 discography_enriched: true
 top_tracks:
-- Bad Memories (feat. Elley Duhé & FAST BOY) (Bad Memories (feat. Elley Duhé & FAST BOY))
-- Bad Memories (MEDUZA)
-- Bad Memories - Felix Jaehn Remix (Bad Memories (Felix Jaehn Remix))
-- Summer Of Love (Summer Of Love)
-- Electric Feel (Electric Feel)
-- COLD (COLD)
-- Tell Me (Tell Me)
-- You're Not Alone - James Carter Remix (You're Not Alone (James Carter Remix))
-- Heaven (Heaven)
-- Tell Me Why - James Carter Remix (Tell Me Why (James Carter Remix))
+  - >-
+    Bad Memories (feat. Elley Duhé & FAST BOY) (Bad Memories (feat. Elley Duhé &
+    FAST BOY))
+  - Bad Memories (MEDUZA)
+  - Bad Memories - Felix Jaehn Remix (Bad Memories (Felix Jaehn Remix))
+  - Summer Of Love (Summer Of Love)
+  - Electric Feel (Electric Feel)
+  - COLD (COLD)
+  - Tell Me (Tell Me)
+  - >-
+    You're Not Alone - James Carter Remix (You're Not Alone (James Carter
+    Remix))
+  - Heaven (Heaven)
+  - Tell Me Why - James Carter Remix (Tell Me Why (James Carter Remix))
 external_urls:
-  spotify: https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq
-  wikipedia: https://en.wikipedia.org/wiki/James_Carter_(musician)
+  spotify: 'https://open.spotify.com/artist/5344K3N7rx7kw1HjO8psuq'
+  wikipedia: 'https://en.wikipedia.org/wiki/James_Carter_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/James_Carter.jpg
 biography_enhanced_at: '2025-10-21T06:34:14.465620'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.bso.org/profiles/james-carter
-- https://www.allaboutjazz.com/musicians/james-carter/
-- https://www.bluenote.com/artist/james-carter/
-- https://jazztimes.com/features/profiles/james-carter-blows-through-saxophone-history/
-- https://jamescarterlive.com/biography-five
-- https://www.allmusic.com/artist/james-carter-mn0000131227
+  - 'https://www.bso.org/profiles/james-carter'
+  - 'https://www.allaboutjazz.com/musicians/james-carter/'
+  - 'https://www.bluenote.com/artist/james-carter/'
+  - >-
+    https://jazztimes.com/features/profiles/james-carter-blows-through-saxophone-history/
+  - 'https://jamescarterlive.com/biography-five'
+  - 'https://www.allmusic.com/artist/james-carter-mn0000131227'
 network_extracted: true
 entry_created: '2025-10-21T06:34:14.465636'
 last_updated: '2025-12-23T08:16:02.431626'
+birth_date: '1969-01-03'
+artist_type: person
 ---
 
 ![](James_Carter.jpg)

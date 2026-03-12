@@ -1,47 +1,51 @@
 ---
-artist_type: person
+artist_type: band
 biography_enhanced_at: '2026-01-14T01:09:38.317700'
-birth_place: Ponchatoula, Louisiana, USA
+birth_place: 'Ponchatoula, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-14T01:09:38.317708'
 external_urls:
-  spotify: https://open.spotify.com/artist/63aP18bg2ABSOqSNQcAMNy
-  wikipedia: https://en.wikipedia.org/wiki/Irma_Thomas
+  spotify: 'https://open.spotify.com/artist/63aP18bg2ABSOqSNQcAMNy'
+  wikipedia: 'https://en.wikipedia.org/wiki/Irma_Thomas'
 genres:
-- cajun
-image_path: 03_Resources/source_material/ArtistPortraits/irma_thomas_and_allen_toussaint.jpg
+  - cajun
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/irma_thomas_and_allen_toussaint.jpg
 last_updated: '2026-01-14T01:09:38.317709'
 musical_connections:
   collaborators:
-  - Allen Toussaint
-  - Scott Billington
-  - Marcia Ball and Tracy Nelson
+    - Allen Toussaint
+    - Scott Billington
+    - Marcia Ball and Tracy Nelson
   influenced:
-  - Otis Redding
-  - The Rolling Stones
-  - Tracey Ullman
+    - Otis Redding
+    - The Rolling Stones
+    - Tracey Ullman
   mentors:
-  - Tommy Ridgley
-  - Allen Toussaint
+    - Tommy Ridgley
+    - Allen Toussaint
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.allaboutjazz.com/musicians/irma-thomas/
-- https://bookfest.tulane.edu/authors/irma-thomas
-- https://www.thehistorymakers.org/biography/irma-thomas-41
-- https://en.wikipedia.org/wiki/Irma_Thomas
-- https://www.thehelisfoundation.org/projects/irma-thomas-documentary
-- https://64parishes.org/entry/irma-thomas
-- https://jazztimes.com/features/galleries/irma-thomas-remembers-allen-toussaint/
-- https://www.neworleans.com/listing/irma-thomas/46406/
-- https://jazz.fm/irma-thomas-interview-documentary-irma-my-life-in-music/
+  - 'https://www.allaboutjazz.com/musicians/irma-thomas/'
+  - 'https://bookfest.tulane.edu/authors/irma-thomas'
+  - 'https://www.thehistorymakers.org/biography/irma-thomas-41'
+  - 'https://en.wikipedia.org/wiki/Irma_Thomas'
+  - 'https://www.thehelisfoundation.org/projects/irma-thomas-documentary'
+  - 'https://64parishes.org/entry/irma-thomas'
+  - >-
+    https://jazztimes.com/features/galleries/irma-thomas-remembers-allen-toussaint/
+  - 'https://www.neworleans.com/listing/irma-thomas/46406/'
+  - 'https://jazz.fm/irma-thomas-interview-documentary-irma-my-life-in-music/'
 spotify_data:
   followers: 103041
   id: 63aP18bg2ABSOqSNQcAMNy
   popularity: 47
-  url: https://open.spotify.com/artist/63aP18bg2ABSOqSNQcAMNy
+  url: 'https://open.spotify.com/artist/63aP18bg2ABSOqSNQcAMNy'
 status: active
 title: Irma Thomas & Allen Toussaint
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1941-02-18'
 ---
 
 ![](irma_thomas_and_allen_toussaint.jpg)

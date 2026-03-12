@@ -29,34 +29,35 @@ spotify_data:
   followers: 79
   id: 4e33tYULCAvqPho2GI0lU9
   popularity: 17
-  url: https://open.spotify.com/artist/4e33tYULCAvqPho2GI0lU9
+  url: 'https://open.spotify.com/artist/4e33tYULCAvqPho2GI0lU9'
 discography_enriched: true
 top_tracks:
-- 'guiding light (for hours : 01)'
-- 'torches (for hours : 01)'
-- 'paper lanterns (for hours : 01)'
-- 'adrift, awake (for hours : 02)'
-- 'submerged (submerged : stalactites)'
-- 'illuminant (for hours : 01)'
-- 'the mysteries (for hours : 02)'
-- submerged - Eglerion remix (submerged (Eglerion remix))
-- 'stalactites (submerged : stalactites)'
-- submerged - Go Outside remix (submerged (Go Outside remix))
+  - 'guiding light (for hours : 01)'
+  - 'torches (for hours : 01)'
+  - 'paper lanterns (for hours : 01)'
+  - 'adrift, awake (for hours : 02)'
+  - 'submerged (submerged : stalactites)'
+  - 'illuminant (for hours : 01)'
+  - 'the mysteries (for hours : 02)'
+  - submerged - Eglerion remix (submerged (Eglerion remix))
+  - 'stalactites (submerged : stalactites)'
+  - submerged - Go Outside remix (submerged (Go Outside remix))
 external_urls:
-  spotify: https://open.spotify.com/artist/4e33tYULCAvqPho2GI0lU9
+  spotify: 'https://open.spotify.com/artist/4e33tYULCAvqPho2GI0lU9'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/soma_soma.jpg
 biography_enhanced_at: '2025-11-02T07:27:19.954928'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Soma_(band)
-- http://citizenfreak.com/artists/103281-soma
-- https://www.last.fm/music/Soma/+wiki
-- https://www.viberate.com/artist/soma-979/
+  - 'https://en.wikipedia.org/wiki/Soma_(band)'
+  - 'http://citizenfreak.com/artists/103281-soma'
+  - 'https://www.last.fm/music/Soma/+wiki'
+  - 'https://www.viberate.com/artist/soma-979/'
 network_extracted: true
 entry_created: '2025-11-02T07:27:19.954934'
 last_updated: '2025-12-23T08:16:15.848958'
+artist_type: person
 ---
 
 ![](soma_soma.jpg)

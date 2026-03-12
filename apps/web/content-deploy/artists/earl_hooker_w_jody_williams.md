@@ -1,46 +1,48 @@
 ---
-artist_type: person
+artist_type: band
 biography_enhanced_at: '2026-01-16T01:43:43.172479'
-birth_place: Chicago, Illinois, United States (primary base; Hooker from Mississippi
-  Delta, Williams from Mobile, Alabama)
+birth_place: 'Clarksdale, Mississippi, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-16T01:43:43.172484'
 external_urls:
-  spotify: https://open.spotify.com/artist/43vlGbTKjgO6nfjSKhdabx
+  spotify: 'https://open.spotify.com/artist/43vlGbTKjgO6nfjSKhdabx'
   wikipedia: ''
 genres:
-- classic blues
-- blues
+  - classic blues
+  - blues
 image_path: 03_Resources/source_material/ArtistPortraits/earl_hooker_w_jody_williams.jpg
 last_updated: '2026-01-16T01:43:43.172484'
 musical_connections:
   collaborators:
-  - Junior Wells
-  - Jody Williams
-  - Muddy Waters
-  - Howlin' Wolf
+    - Junior Wells
+    - Jody Williams
+    - Muddy Waters
+    - Howlin' Wolf
   influenced:
-  - Otis Rush
-  - Buddy Guy
+    - Otis Rush
+    - Buddy Guy
   mentors:
-  - Bo Diddley
-  - Robert Nighthawk
+    - Bo Diddley
+    - Robert Nighthawk
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://wbssmedia.com/artists/detail/3702
-- https://fridaybluesfix.blogspot.com/2011/06/blues-legends-earl-hooker.html
-- https://arhoolie.org/earl-hooker-interview/
-- https://sites.google.com/view/oldschoolbluesguitar/home/electric-blues-profiles/earl-hooker
-- https://www.kimfield.com/blog/2018/12/3/rip-jody-williams-1935-2018
-- https://dontaskmeidontknow.blogspot.com/2012/08/earl-hooker-jody-williams-leading-brand.html
+  - 'https://wbssmedia.com/artists/detail/3702'
+  - 'https://fridaybluesfix.blogspot.com/2011/06/blues-legends-earl-hooker.html'
+  - 'https://arhoolie.org/earl-hooker-interview/'
+  - >-
+    https://sites.google.com/view/oldschoolbluesguitar/home/electric-blues-profiles/earl-hooker
+  - 'https://www.kimfield.com/blog/2018/12/3/rip-jody-williams-1935-2018'
+  - >-
+    https://dontaskmeidontknow.blogspot.com/2012/08/earl-hooker-jody-williams-leading-brand.html
 spotify_data:
   followers: 987
   id: 43vlGbTKjgO6nfjSKhdabx
   popularity: 12
-  url: https://open.spotify.com/artist/43vlGbTKjgO6nfjSKhdabx
+  url: 'https://open.spotify.com/artist/43vlGbTKjgO6nfjSKhdabx'
 status: active
-title: earl hooker w jody williams
+title: Earl Hooker W Jody Williams
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](earl_hooker_w_jody_williams.jpg)

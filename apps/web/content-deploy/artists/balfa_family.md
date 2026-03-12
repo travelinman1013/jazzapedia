@@ -4,8 +4,8 @@ wiki_slug: balfa-family
 schema_version: 2
 status: active
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/balfa_family.jpg
   caption: Balfa Family
@@ -25,51 +25,71 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Hadley Fontenot
-  - Nathan Abshire
-  - Nelda Balfa
+    - Hadley Fontenot
+    - Nathan Abshire
+    - Nelda Balfa
   influenced:
-  - Christine Balfa
-  - Cajun musicians via workshops
+    - Christine Balfa
+    - Cajun musicians via workshops
   mentors:
-  - Charles Balfa
-  - J.B. Fuselier
+    - Charles Balfa
+    - J.B. Fuselier
 spotify_data:
   followers: 75
   id: 2fPcN5fh8hSOvhKR0ajYaB
   popularity: 0
-  url: https://open.spotify.com/artist/2fPcN5fh8hSOvhKR0ajYaB
+  url: 'https://open.spotify.com/artist/2fPcN5fh8hSOvhKR0ajYaB'
 discography_enriched: true
 top_tracks:
-- 'Pine Grove Blues - 1981 (The Balfa Family: A Retrospective (Festivals Acadiens et Créoles 1977-2010))'
-- 'J''ai été au bal - 1981 (The Balfa Family: A Retrospective (Festivals Acadiens et Créoles 1977-2010))'
-- 'Viens me chercher - 1981 (The Balfa Family: A Retrospective (Festivals Acadiens et Créoles 1977-2010))'
-- 'Lacassine Special - 1977 (The Balfa Family: A Retrospective (Festivals Acadiens et Créoles 1977-2010))'
-- 'Choupique - 1977 (The Balfa Family: A Retrospective (Festivals Acadiens et Créoles 1977-2010))'
-- 'French Blues - 1982 (The Balfa Family: A Retrospective (Festivals Acadiens et Créoles 1977-2010))'
-- 'Fiddlesticks - J''ai été au bal/Lost Indian Reel - 1982 (The Balfa Family: A Retrospective (Festivals Acadiens et Créoles
-  1977-2010))'
-- 'Quand j''étais pauvre - 1988 (The Balfa Family: A Retrospective (Festivals Acadiens et Créoles 1977-2010))'
-- 'Big Boy''s Waltz - 1989 (The Balfa Family: A Retrospective (Festivals Acadiens et Créoles 1977-2010))'
-- 'Parlez - nous à boire - 1991 (The Balfa Family: A Retrospective (Festivals Acadiens et Créoles 1977-2010))'
+  - >-
+    Pine Grove Blues - 1981 (The Balfa Family: A Retrospective (Festivals
+    Acadiens et Créoles 1977-2010))
+  - >-
+    J'ai été au bal - 1981 (The Balfa Family: A Retrospective (Festivals
+    Acadiens et Créoles 1977-2010))
+  - >-
+    Viens me chercher - 1981 (The Balfa Family: A Retrospective (Festivals
+    Acadiens et Créoles 1977-2010))
+  - >-
+    Lacassine Special - 1977 (The Balfa Family: A Retrospective (Festivals
+    Acadiens et Créoles 1977-2010))
+  - >-
+    Choupique - 1977 (The Balfa Family: A Retrospective (Festivals Acadiens et
+    Créoles 1977-2010))
+  - >-
+    French Blues - 1982 (The Balfa Family: A Retrospective (Festivals Acadiens
+    et Créoles 1977-2010))
+  - >-
+    Fiddlesticks - J'ai été au bal/Lost Indian Reel - 1982 (The Balfa Family: A
+    Retrospective (Festivals Acadiens et Créoles 1977-2010))
+  - >-
+    Quand j'étais pauvre - 1988 (The Balfa Family: A Retrospective (Festivals
+    Acadiens et Créoles 1977-2010))
+  - >-
+    Big Boy's Waltz - 1989 (The Balfa Family: A Retrospective (Festivals
+    Acadiens et Créoles 1977-2010))
+  - >-
+    Parlez - nous à boire - 1991 (The Balfa Family: A Retrospective (Festivals
+    Acadiens et Créoles 1977-2010))
 external_urls:
-  spotify: https://open.spotify.com/artist/2fPcN5fh8hSOvhKR0ajYaB
-  wikipedia: https://en.wikipedia.org/wiki/The_Balfa_Brothers
+  spotify: 'https://open.spotify.com/artist/2fPcN5fh8hSOvhKR0ajYaB'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Balfa_Brothers'
 image_path: 03_Resources/source_material/ArtistPortraits/balfa_family.jpg
 biography_enhanced_at: '2025-12-15T01:22:06.069104'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Balfa_Brothers
-- https://fieldrecorder.org/the-cajuns-balfa-and-abshire/
-- https://folkways.si.edu/dewey-balfa-master-cajun/music/article/smithsonian
-- https://flattownmusic.com/artist/balfa-toujours/
-- https://64parishes.org/entry/dewey-balfa
-- https://www.arts.gov/honors/heritage/dewey-balfa
+  - 'https://en.wikipedia.org/wiki/The_Balfa_Brothers'
+  - 'https://fieldrecorder.org/the-cajuns-balfa-and-abshire/'
+  - 'https://folkways.si.edu/dewey-balfa-master-cajun/music/article/smithsonian'
+  - 'https://flattownmusic.com/artist/balfa-toujours/'
+  - 'https://64parishes.org/entry/dewey-balfa'
+  - 'https://www.arts.gov/honors/heritage/dewey-balfa'
 network_extracted: true
 entry_created: '2025-12-15T01:22:06.069180'
 last_updated: '2025-12-23T08:16:05.060408'
-origin: Mamou, Louisiana, United States
+origin: 'Mamou, Louisiana, United States'
+artist_type: band
 ---
 
 ![](balfa_family.jpg)

@@ -2,13 +2,13 @@
 title: Tame Impala
 wiki_slug: tame-impala
 schema_version: 2
-artist_type: person
+artist_type: band
 status: active
 birth_date: '1986-01-20'
-birth_place: Sydney
+birth_place: 'Sydney, New South Wales, Australia'
 genres:
-- indie
-- psychedelic pop
+  - indie
+  - psychedelic pop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/tame_impala.jpg
   caption: Tame Impala
@@ -30,62 +30,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dominic Simper
-  - Jay Watson
-  - Nick Allbrook
-  - Mark Ronson
-  - Lady Gaga
-  - The Flaming Lips
-  - Pond
+    - Dominic Simper
+    - Jay Watson
+    - Nick Allbrook
+    - Mark Ronson
+    - Lady Gaga
+    - The Flaming Lips
+    - Pond
   influenced:
-  - Clairo
-  - Rex Orange County
-  - Tyler, the Creator
-  - The Weeknd
+    - Clairo
+    - Rex Orange County
+    - 'Tyler, the Creator'
+    - The Weeknd
   mentors:
-  - The Beatles (especially John Lennon)
-  - Pink Floyd
+    - The Beatles (especially John Lennon)
+    - Pink Floyd
 spotify_data:
   followers: 9551156
   id: 5INjqkS1o8h1imAzPqGZBb
   popularity: 85
-  url: https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb
+  url: 'https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb'
 discography_enriched: true
 top_tracks:
-- The Less I Know The Better (Currents)
-- Borderline (The Slow Rush)
-- Let It Happen (Currents)
-- New Person, Same Old Mistakes (Currents)
-- Eventually (Currents)
-- Feels Like We Only Go Backwards (Lonerism)
-- Nangs (Currents)
-- One More Hour (The Slow Rush)
-- Is It True (The Slow Rush)
-- New Gold (feat. Tame Impala and Bootie Brown) (Cracker Island)
+  - The Less I Know The Better (Currents)
+  - Borderline (The Slow Rush)
+  - Let It Happen (Currents)
+  - 'New Person, Same Old Mistakes (Currents)'
+  - Eventually (Currents)
+  - Feels Like We Only Go Backwards (Lonerism)
+  - Nangs (Currents)
+  - One More Hour (The Slow Rush)
+  - Is It True (The Slow Rush)
+  - New Gold (feat. Tame Impala and Bootie Brown) (Cracker Island)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/63aa26c3-d59b-4da4-84ac-716b54f1ef4d
-  spotify: https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb
-  wikipedia: https://en.wikipedia.org/wiki/Kevin_Parker
+  musicbrainz: 'https://musicbrainz.org/artist/63aa26c3-d59b-4da4-84ac-716b54f1ef4d'
+  spotify: 'https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kevin_Parker'
 image_path: 03_Resources/source_material/ArtistPortraits/tame_impala.jpg
 biography_enhanced_at: '2025-11-05T12:45:50.149664'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Kevin_Parker
-- https://www.highsnobiety.com/tag/kevin-parker/
-- https://mixdownmag.com.au/features/the-history-of-tame-impala-and-kevin-parker/
-- https://krui.fm/2017/12/02/art-anatomy-artist-bio-kevin-parker/
-- https://www.youtube.com/watch?v=7J-q2nV9il4
+  - 'https://en.wikipedia.org/wiki/Kevin_Parker'
+  - 'https://www.highsnobiety.com/tag/kevin-parker/'
+  - >-
+    https://mixdownmag.com.au/features/the-history-of-tame-impala-and-kevin-parker/
+  - 'https://krui.fm/2017/12/02/art-anatomy-artist-bio-kevin-parker/'
+  - 'https://www.youtube.com/watch?v=7J-q2nV9il4'
 network_extracted: true
 entry_created: '2025-11-05T12:45:50.149684'
 last_updated: '2025-12-23T08:16:16.374838'
 gender: Male
 musicbrainz_id: 63aa26c3-d59b-4da4-84ac-716b54f1ef4d
 tags:
-- alternative rock
-- australia
-- australian
-
+  - alternative rock
+  - australia
+  - australian
+origin: 'Perth, Western Australia, Australia'
 ---
 
 ![](tame_impala.jpg)

@@ -5,25 +5,25 @@ schema_version: 2
 status: active
 aliases: []
 birth_date: '1934-11-10'
-birth_place: Florence, South Carolina, United States
+birth_place: 'Florence, South Carolina, United States'
 genres:
-- jazz
-- soul jazz
-- hard bop
+  - jazz
+  - soul jazz
+  - hard bop
 instruments:
-- saxophone
+  - saxophone
 occupation:
-- jazz musician
-- saxophonist
-- recording artist
+  - jazz musician
+  - saxophonist
+  - recording artist
 record_labels:
-- Prestige
+  - Prestige
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Houston_Person.jpg
   caption: Houston Person
   background: non_vocal_instrumentalist
   born: '1934-11-10'
-  origin: Florence, South Carolina, United States
+  origin: 'Florence, South Carolina, United States'
 audio_profile:
   tempo_avg: 119.2
   energy_avg: 0.224
@@ -39,45 +39,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Etta Jones
-  - Johnny Hammond
-  - Stan Hope
-  - Eddie Harris
-  - Cedar Walton
-  - Don Ellis
+    - Etta Jones
+    - Johnny Hammond
+    - Stan Hope
+    - Eddie Harris
+    - Cedar Walton
+    - Don Ellis
   influenced:
-  - Joey DeFrancesco
-  - Charles Earland
-  - David 'Fathead' Newman
+    - Joey DeFrancesco
+    - Charles Earland
+    - David 'Fathead' Newman
   mentors:
-  - Gene Ammons
-  - Illinois Jacquet
-  - Hank Mobley
-  - Sonny Stitt
+    - Gene Ammons
+    - Illinois Jacquet
+    - Hank Mobley
+    - Sonny Stitt
 related_artists: []
 spotify_data:
   followers: 15447
   id: 16Xx0WCnAKOA9mwPPSUJmr
   popularity: 38
-  url: https://open.spotify.com/artist/16Xx0WCnAKOA9mwPPSUJmr
+  url: 'https://open.spotify.com/artist/16Xx0WCnAKOA9mwPPSUJmr'
   verified: false
 discography_enriched: true
 albums_count: 48
 singles_count: 9
 top_tracks:
-- Why Did I Choose You (Reminiscing at Rudy's)
-- Willow Weep for Me (I'm Just a Lucky So and So)
-- I Guess I'll Hang My Tears out to Dry (I'm Just a Lucky So and So)
-- I'll Let You Know (Reminiscing at Rudy's)
-- Spring Can Really Hang You Up The Most
-- Please Send Me Someone to Love (Reminiscing at Rudy's)
-- That Ole Devil Called Love (Etta Jones Sings Lady Day)
-- 'Isn''t It Romantic (Masters Legacy Series, Volume 5: Houston Person)'
-- Just My Imagination (Legends Of Acid Jazz)
-- Spring Can Really Hang You Up The Most
+  - Why Did I Choose You (Reminiscing at Rudy's)
+  - Willow Weep for Me (I'm Just a Lucky So and So)
+  - I Guess I'll Hang My Tears out to Dry (I'm Just a Lucky So and So)
+  - I'll Let You Know (Reminiscing at Rudy's)
+  - Spring Can Really Hang You Up The Most
+  - Please Send Me Someone to Love (Reminiscing at Rudy's)
+  - That Ole Devil Called Love (Etta Jones Sings Lady Day)
+  - 'Isn''t It Romantic (Masters Legacy Series, Volume 5: Houston Person)'
+  - Just My Imagination (Legends Of Acid Jazz)
+  - Spring Can Really Hang You Up The Most
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/16Xx0WCnAKOA9mwPPSUJmr
+  spotify: 'https://open.spotify.com/artist/16Xx0WCnAKOA9mwPPSUJmr'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/Houston_Person.jpg
 biography_source: wikipedia
@@ -85,16 +85,17 @@ biography_enhanced_at: '2025-09-30T12:09:02.888323'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- African American Registry
-- Concord Records
-- WKCR 89.9FM
-- Jazz St. Louis
-- KNKX
-- WDAV
+  - African American Registry
+  - Concord Records
+  - WKCR 89.9FM
+  - Jazz St. Louis
+  - KNKX
+  - WDAV
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:53:22.528139
+entry_created: 2025-09-22T21:53:22.528Z
 last_updated: '2025-12-23T08:16:02.266572'
+artist_type: person
 ---
 
 ![](Houston_Person.jpg)

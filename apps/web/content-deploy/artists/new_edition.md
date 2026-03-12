@@ -1,20 +1,20 @@
 ---
-title: NEW EDITION
+title: New Edition
 wiki_slug: new-edition
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1978'
 genres:
-- new jack swing
-- quiet storm
+  - new jack swing
+  - quiet storm
 instruments:
-- additional
-- turntable
-- drums (drum set)
-- keyboard
-- bass guitar
-- guitar
+  - additional
+  - turntable
+  - drums (drum set)
+  - keyboard
+  - bass guitar
+  - guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/new_edition.jpg
   caption: NEW EDITION
@@ -35,147 +35,147 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bobby Brown
-  - Ralph Tresvant
-  - Ricky Bell, Michael Bivins, and Ronnie DeVoe (Bell Biv DeVoe)
-  - Johnny Gill
-  - Sean “Diddy” Combs / Bad Boy Records
+    - Bobby Brown
+    - Ralph Tresvant
+    - 'Ricky Bell, Michael Bivins, and Ronnie DeVoe (Bell Biv DeVoe)'
+    - Johnny Gill
+    - Sean “Diddy” Combs / Bad Boy Records
   influenced:
-  - New Kids on the Block
-  - Backstreet Boys and NSYNC
-  - Boyz II Men
+    - New Kids on the Block
+    - Backstreet Boys and NSYNC
+    - Boyz II Men
   mentors:
-  - Maurice Starr
-  - Jimmy Jam & Terry Lewis
-  - The Jackson 5
+    - Maurice Starr
+    - Jimmy Jam & Terry Lewis
+    - The Jackson 5
 spotify_data:
   followers: 1796524
   id: 1mFX1QlezK1lNPKQJkhwWb
   popularity: 59
-  url: https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb
+  url: 'https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb'
 discography_enriched: true
 top_tracks:
-- Can You Stand The Rain (Heart Break)
-- Mr. Telephone Man (New Edition)
-- If It Isn't Love (Heart Break)
-- I'm Still In Love With You (Home Again)
-- Cool It Now (New Edition)
-- Boys To Men (Heart Break)
-- Candy Girl (Candy Girl)
-- Hit Me Off (Home Again)
-- You're Not My Kind Of Girl (Heart Break)
-- Is This The End (Candy Girl)
+  - Can You Stand The Rain (Heart Break)
+  - Mr. Telephone Man (New Edition)
+  - If It Isn't Love (Heart Break)
+  - I'm Still In Love With You (Home Again)
+  - Cool It Now (New Edition)
+  - Boys To Men (Heart Break)
+  - Candy Girl (Candy Girl)
+  - Hit Me Off (Home Again)
+  - You're Not My Kind Of Girl (Heart Break)
+  - Is This The End (Candy Girl)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b4b94b15-1535-48a4-aa1e-d44e55d75bc5
-  spotify: https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb
-  wikipedia: https://en.wikipedia.org/wiki/New_Edition
+  musicbrainz: 'https://musicbrainz.org/artist/b4b94b15-1535-48a4-aa1e-d44e55d75bc5'
+  spotify: 'https://open.spotify.com/artist/1mFX1QlezK1lNPKQJkhwWb'
+  wikipedia: 'https://en.wikipedia.org/wiki/New_Edition'
 image_path: 03_Resources/source_material/ArtistPortraits/new_edition.jpg
 biography_enhanced_at: '2025-12-16T04:03:14.320345'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/New_Edition
-- https://www.last.fm/music/New+Edition/+wiki
-- https://kids.kiddle.co/New_Edition
-- https://blackpast.org/african-american-history/new-edition-1978/
-- https://mi-soul.com/the-new-edition-story/
-- https://rxmusic.com/editorial/the-new-edition-story-is-finally-here/
+  - 'https://en.wikipedia.org/wiki/New_Edition'
+  - 'https://www.last.fm/music/New+Edition/+wiki'
+  - 'https://kids.kiddle.co/New_Edition'
+  - 'https://blackpast.org/african-american-history/new-edition-1978/'
+  - 'https://mi-soul.com/the-new-edition-story/'
+  - 'https://rxmusic.com/editorial/the-new-edition-story-is-finally-here/'
 network_extracted: true
 entry_created: '2025-12-16T04:03:14.320352'
 last_updated: '2025-12-23T08:16:13.521603'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f0989916-1e75-4eb2-a0e8-8cc4946c11ac
-  name: Ricky Bell
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b9d5a7f5-c965-4ea9-8bb7-5fb6f40d6f43
-  name: Michael Bivins
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d11f9c07-0eac-4a1f-a443-19cd0f63d5f0
-  name: Bobby Brown
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3f35f89e-2939-40b1-a925-319105d29751
-  name: Ronnie DeVoe
-- begin: ''
-  end: ''
-  instruments:
-  - additional
-  - turntable
-  mbid: cfbb7dcb-cbd4-457e-819b-6f9c4e194dc4
-  name: DJ Shakim
-- begin: ''
-  end: ''
-  instruments:
-  - additional
-  - drums (drum set)
-  mbid: f4993367-bcf6-469d-aea3-8e41bd79c12a
-  name: Danny Donnelly
-- begin: ''
-  end: ''
-  instruments:
-  - additional
-  - keyboard
-  mbid: a7f8ff89-9734-4a0d-bdf9-884160ec789a
-  name: Jamin Eunice
-- begin: ''
-  end: ''
-  instruments:
-  - additional
-  - bass guitar
-  mbid: c66111ea-fd5e-4734-b34b-8219de0869aa
-  name: Tres Gilbert
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7dc35846-c93a-4261-b665-ae750e3afdfb
-  name: Johnny Gill
-- begin: ''
-  end: ''
-  instruments:
-  - additional
-  - guitar
-  mbid: a374093a-af81-4e98-9fa0-420901993ba4
-  name: Tomi Martin
-- begin: ''
-  end: ''
-  instruments:
-  - additional
-  - drums (drum set)
-  mbid: 576d0d03-5698-4052-a8d6-a7cdc5de495d
-  name: MrYouAlreadyKnow
-- begin: ''
-  end: ''
-  instruments:
-  - additional
-  - keyboard
-  mbid: db47642b-57db-49ab-b5c8-4290ad8224a5
-  name: Gene Peoples
-- begin: ''
-  end: ''
-  instruments:
-  - additional
-  - keyboard
-  mbid: 369a67f6-5d29-4ab7-a103-262d169547bf
-  name: John Steiner
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: de2ddcdd-66ff-487c-9537-560153200a4e
-  name: Ralph Tresvant
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f0989916-1e75-4eb2-a0e8-8cc4946c11ac
+    name: Ricky Bell
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b9d5a7f5-c965-4ea9-8bb7-5fb6f40d6f43
+    name: Michael Bivins
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d11f9c07-0eac-4a1f-a443-19cd0f63d5f0
+    name: Bobby Brown
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3f35f89e-2939-40b1-a925-319105d29751
+    name: Ronnie DeVoe
+  - begin: ''
+    end: ''
+    instruments:
+      - additional
+      - turntable
+    mbid: cfbb7dcb-cbd4-457e-819b-6f9c4e194dc4
+    name: DJ Shakim
+  - begin: ''
+    end: ''
+    instruments:
+      - additional
+      - drums (drum set)
+    mbid: f4993367-bcf6-469d-aea3-8e41bd79c12a
+    name: Danny Donnelly
+  - begin: ''
+    end: ''
+    instruments:
+      - additional
+      - keyboard
+    mbid: a7f8ff89-9734-4a0d-bdf9-884160ec789a
+    name: Jamin Eunice
+  - begin: ''
+    end: ''
+    instruments:
+      - additional
+      - bass guitar
+    mbid: c66111ea-fd5e-4734-b34b-8219de0869aa
+    name: Tres Gilbert
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7dc35846-c93a-4261-b665-ae750e3afdfb
+    name: Johnny Gill
+  - begin: ''
+    end: ''
+    instruments:
+      - additional
+      - guitar
+    mbid: a374093a-af81-4e98-9fa0-420901993ba4
+    name: Tomi Martin
+  - begin: ''
+    end: ''
+    instruments:
+      - additional
+      - drums (drum set)
+    mbid: 576d0d03-5698-4052-a8d6-a7cdc5de495d
+    name: MrYouAlreadyKnow
+  - begin: ''
+    end: ''
+    instruments:
+      - additional
+      - keyboard
+    mbid: db47642b-57db-49ab-b5c8-4290ad8224a5
+    name: Gene Peoples
+  - begin: ''
+    end: ''
+    instruments:
+      - additional
+      - keyboard
+    mbid: 369a67f6-5d29-4ab7-a103-262d169547bf
+    name: John Steiner
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: de2ddcdd-66ff-487c-9537-560153200a4e
+    name: Ralph Tresvant
 musicbrainz_id: b4b94b15-1535-48a4-aa1e-d44e55d75bc5
-origin: Boston
+origin: 'Boston, Massachusetts, United States'
 tags:
-- 2008 universal fire victim
-- boy band
-- contemporary r&b
+  - 2008 universal fire victim
+  - boy band
+  - contemporary r&b
 ---
 
 ![](new_edition.jpg)

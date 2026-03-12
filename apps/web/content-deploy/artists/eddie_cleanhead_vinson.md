@@ -1,18 +1,18 @@
 ---
-title: EDDIE CLEANHEAD VINSON
+title: Eddie Cleanhead Vinson
 wiki_slug: eddie-cleanhead-vinson
 schema_version: 2
 status: active
-birth_place: Houston, Texas, United States
+birth_place: 'Houston, Texas, United States'
 genres:
-- blues
-- classic blues
-- jazz blues
+  - blues
+  - classic blues
+  - jazz blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/eddie_cleanhead_vinson.jpg
   caption: EDDIE CLEANHEAD VINSON
   background: solo_singer
-  origin: Houston, Texas, United States
+  origin: 'Houston, Texas, United States'
 audio_profile:
   tempo_avg: 106.1
   energy_avg: 0.348
@@ -28,54 +28,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Cootie Williams
-  - Milton (Milt) Larkins
-  - John Coltrane
-  - T-Bone Walker
-  - Jay McShann
-  - Cannonball Adderley
+    - Cootie Williams
+    - Milton (Milt) Larkins
+    - John Coltrane
+    - T-Bone Walker
+    - Jay McShann
+    - Cannonball Adderley
   influenced:
-  - John Coltrane
+    - John Coltrane
   mentors:
-  - Big Bill Broonzy
+    - Big Bill Broonzy
 spotify_data:
   followers: 6484
   id: 0R3bGv703d8JFKdZxsHr58
   popularity: 26
-  url: https://open.spotify.com/artist/0R3bGv703d8JFKdZxsHr58
+  url: 'https://open.spotify.com/artist/0R3bGv703d8JFKdZxsHr58'
 discography_enriched: true
 top_tracks:
-- Wee Baby Blues (Kidney Stew (The Definitive Black & Blue Sessions))
-- Kidney Stew (Kidney Stew (The Definitive Black & Blue Sessions))
-- Juice Head Baby (Kidney Stew (The Definitive Black & Blue Sessions))
-- Blues Dues (Movin' and Groovin' Man (feat. Melvin Taylor, Ken Saydak, Harlan Terson, Merle Perkins, Eddie "Cleanhead" Vinson)
-  [Blues Power])
-- Wait a Minute Baby (Kidney Stew (The Definitive Black & Blue Sessions))
-- I'm the Midnight Creeper (feat.Shuggie Otis) (Pioneers of Rhythm & Blues Volume 7)
-- Old Maid Boogie (Kidney Stew (The Definitive Black & Blue Sessions))
-- Please Send Me Someone to Love (Kidney Stew (The Definitive Black & Blue Sessions))
-- Somebody's Got to Go (Kidney Stew (The Definitive Black & Blue Sessions))
-- I'm In Awful Mood (Kidney Stew (The Definitive Black & Blue Sessions))
+  - Wee Baby Blues (Kidney Stew (The Definitive Black & Blue Sessions))
+  - Kidney Stew (Kidney Stew (The Definitive Black & Blue Sessions))
+  - Juice Head Baby (Kidney Stew (The Definitive Black & Blue Sessions))
+  - >-
+    Blues Dues (Movin' and Groovin' Man (feat. Melvin Taylor, Ken Saydak, Harlan
+    Terson, Merle Perkins, Eddie "Cleanhead" Vinson) [Blues Power])
+  - Wait a Minute Baby (Kidney Stew (The Definitive Black & Blue Sessions))
+  - >-
+    I'm the Midnight Creeper (feat.Shuggie Otis) (Pioneers of Rhythm & Blues
+    Volume 7)
+  - Old Maid Boogie (Kidney Stew (The Definitive Black & Blue Sessions))
+  - >-
+    Please Send Me Someone to Love (Kidney Stew (The Definitive Black & Blue
+    Sessions))
+  - Somebody's Got to Go (Kidney Stew (The Definitive Black & Blue Sessions))
+  - I'm In Awful Mood (Kidney Stew (The Definitive Black & Blue Sessions))
 external_urls:
-  spotify: https://open.spotify.com/artist/0R3bGv703d8JFKdZxsHr58
-  wikipedia: https://en.wikipedia.org/wiki/Eddie_Vinson
+  spotify: 'https://open.spotify.com/artist/0R3bGv703d8JFKdZxsHr58'
+  wikipedia: 'https://en.wikipedia.org/wiki/Eddie_Vinson'
 image_path: 03_Resources/source_material/ArtistPortraits/eddie_cleanhead_vinson.jpg
 biography_enhanced_at: '2025-12-16T03:18:07.308835'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- All About Jazz – Eddie “Cleanhead” Vinson musician profile[1]
-- NEPM – The Eddie “Cleanhead” Vinson Centennial[2]
-- Blues Foundation – Eddie “Cleanhead” Vinson Hall of Fame biography[3]
-- Tom Harrison – Eddie “Cleanhead” Vinson Biography[4]
-- From The Vaults – Eddie “Cleanhead” Vinson born 18 December 1917[5]
-- Bear Family Records – Eddie “Cleanhead” Vinson artist page[6]
-- Texas State Historical Association – Vinson, Eddie [Cleanhead][7]
-- Jazz Journal – Eddie ‘Cleanhead’ Vinson at the 100 Club review[8]
-- Wikipedia – Eddie Vinson[9]
+  - 'All About Jazz – Eddie “Cleanhead” Vinson musician profile[1]'
+  - 'NEPM – The Eddie “Cleanhead” Vinson Centennial[2]'
+  - 'Blues Foundation – Eddie “Cleanhead” Vinson Hall of Fame biography[3]'
+  - 'Tom Harrison – Eddie “Cleanhead” Vinson Biography[4]'
+  - 'From The Vaults – Eddie “Cleanhead” Vinson born 18 December 1917[5]'
+  - 'Bear Family Records – Eddie “Cleanhead” Vinson artist page[6]'
+  - 'Texas State Historical Association – Vinson, Eddie [Cleanhead][7]'
+  - 'Jazz Journal – Eddie ‘Cleanhead’ Vinson at the 100 Club review[8]'
+  - 'Wikipedia – Eddie Vinson[9]'
 network_extracted: true
 entry_created: '2025-12-16T03:18:07.308849'
 last_updated: '2025-12-23T08:16:08.161521'
+birth_date: '1917-12-18'
+artist_type: person
 ---
 
 ![](eddie_cleanhead_vinson.jpg)

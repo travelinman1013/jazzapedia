@@ -1,34 +1,34 @@
 ---
-title: MERLE TRAVIS
+title: Merle Travis
 wiki_slug: merle-travis
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1917-11-29'
-birth_place: Rosewood
+birth_place: 'Rosewood, Muhlenberg County, Kentucky, United States'
 death_date: '1983-10-20'
 genres:
-- bluegrass
-- traditional country
+  - bluegrass
+  - traditional country
 instruments:
-- guitar
-- electric guitar
-- bass vocals
-- other vocals
-- lead vocals
-- spoken vocals
-- background vocals
+  - guitar
+  - electric guitar
+  - bass vocals
+  - other vocals
+  - lead vocals
+  - spoken vocals
+  - background vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 627a7d84-f8b5-4981-bede-ad209064af64
-  name: Tin Ear Tanner and His Back Room Boys
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4238f644-b426-4527-ba3e-275a554cb46f
-  name: Sheppard Brothers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 627a7d84-f8b5-4981-bede-ad209064af64
+    name: Tin Ear Tanner and His Back Room Boys
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4238f644-b426-4527-ba3e-275a554cb46f
+    name: Sheppard Brothers
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/merle_travis.jpg
   caption: MERLE TRAVIS
@@ -51,57 +51,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Drifting Pioneers
-  - Grandpa Jones (Louis Marshall Jones)
-  - Georgia Wildcats
+    - Drifting Pioneers
+    - Grandpa Jones (Louis Marshall Jones)
+    - Georgia Wildcats
   influenced:
-  - Chet Atkins
-  - Thom Bresh
-  - Marty Stuart
+    - Chet Atkins
+    - Thom Bresh
+    - Marty Stuart
   mentors:
-  - Ike Everly
-  - Mose Rager
-  - Clayton McMichen
+    - Ike Everly
+    - Mose Rager
+    - Clayton McMichen
 spotify_data:
   followers: 37719
   id: 30SpGunnNpbbUL4IfkvC5q
   popularity: 33
-  url: https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q
+  url: 'https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q'
 discography_enriched: true
 top_tracks:
-- Sixteen Tons (The Merle Travis Story)
-- 16 Tons (The Very Best)
-- Dark As A Dungeon (Folk Songs Of The Hills)
-- Blue Smoke - Instrumental (The Merle Travis Guitar)
-- Nine Pound Hammer (Folk Songs Of The Hills)
-- Dark as a Dungeon
-- Dark As A Dungeon (Will The Circle Be Unbroken)
-- Wildwood Flower (Capitol Country Music Classics)
-- Divorce Me C.O.D. (The Merle Travis Story)
-- Peach Picking Time Down in Georgia
+  - Sixteen Tons (The Merle Travis Story)
+  - 16 Tons (The Very Best)
+  - Dark As A Dungeon (Folk Songs Of The Hills)
+  - Blue Smoke - Instrumental (The Merle Travis Guitar)
+  - Nine Pound Hammer (Folk Songs Of The Hills)
+  - Dark as a Dungeon
+  - Dark As A Dungeon (Will The Circle Be Unbroken)
+  - Wildwood Flower (Capitol Country Music Classics)
+  - Divorce Me C.O.D. (The Merle Travis Story)
+  - Peach Picking Time Down in Georgia
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/13da4ed2-7344-49aa-aa73-004826896c5c
-  spotify: https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q
-  wikipedia: https://en.wikipedia.org/wiki/Merle_Travis
+  musicbrainz: 'https://musicbrainz.org/artist/13da4ed2-7344-49aa-aa73-004826896c5c'
+  spotify: 'https://open.spotify.com/artist/30SpGunnNpbbUL4IfkvC5q'
+  wikipedia: 'https://en.wikipedia.org/wiki/Merle_Travis'
 image_path: 03_Resources/source_material/ArtistPortraits/merle_travis.jpg
 biography_enhanced_at: '2025-12-04T07:55:20.324096'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Merle Travis
-- Alan Cackett - Merle Travis Biography
-- 'The Bluegrass Situation - Merle Travis: The Urban Hillbilly Guitar Hero'
-- WCKY History & Genealogy - Merle Robert Travis (1917-1983)
-- EBSCO Research Starters - Merle Travis
-- Britannica - Merle Travis
-- SWCO DSpace - Merle Travis
-- NAMM.org - Merle Travis Oral History
+  - Wikipedia - Merle Travis
+  - Alan Cackett - Merle Travis Biography
+  - 'The Bluegrass Situation - Merle Travis: The Urban Hillbilly Guitar Hero'
+  - WCKY History & Genealogy - Merle Robert Travis (1917-1983)
+  - EBSCO Research Starters - Merle Travis
+  - Britannica - Merle Travis
+  - SWCO DSpace - Merle Travis
+  - NAMM.org - Merle Travis Oral History
 network_extracted: true
 entry_created: '2025-12-04T07:55:20.324102'
 last_updated: '2025-12-23T08:16:12.982463'
 gender: Male
 musicbrainz_id: 13da4ed2-7344-49aa-aa73-004826896c5c
-
+is_active: false
+origin: 'Muhlenberg County, Kentucky, United States'
 ---
 
 ![](merle_travis.jpg)

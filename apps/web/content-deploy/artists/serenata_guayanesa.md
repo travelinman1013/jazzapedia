@@ -1,67 +1,69 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-10T01:06:03.098883'
 birth_date: '1971'
 enhancement_provider: perplexity
 entry_created: '2026-01-10T01:06:03.098890'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a2c41bfa-0315-4e17-87c7-55f89e960a28
-  spotify: https://open.spotify.com/artist/1G6AdxMaPnYJFHZhBsH2V9
-  wikipedia: https://en.wikipedia.org/wiki/Serenata_Guayanesa
+  musicbrainz: 'https://musicbrainz.org/artist/a2c41bfa-0315-4e17-87c7-55f89e960a28'
+  spotify: 'https://open.spotify.com/artist/1G6AdxMaPnYJFHZhBsH2V9'
+  wikipedia: 'https://en.wikipedia.org/wiki/Serenata_Guayanesa'
 genres:
-- calypso
-- villancicos
-- traditional music
+  - calypso
+  - villancicos
+  - traditional music
 image_path: 03_Resources/source_material/ArtistPortraits/serenata_guayanesa.jpg
 last_updated: '2026-01-10T01:06:03.098890'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 657b0be4-d017-4158-948e-f47c76056d0c
-  name: Miguel Angel Bosch
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 810a1812-cce5-4a4f-b1a2-8577eda65e32
-  name: Mauricio Castro
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c83a06f5-623b-4f45-a983-1c49d0caa5e7
-  name: Iván Pérez Rossi
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 630d789b-1828-49d8-b58a-629c1be010dd
-  name: César Pérez Rossi
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 657b0be4-d017-4158-948e-f47c76056d0c
+    name: Miguel Angel Bosch
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 810a1812-cce5-4a4f-b1a2-8577eda65e32
+    name: Mauricio Castro
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c83a06f5-623b-4f45-a983-1c49d0caa5e7
+    name: Iván Pérez Rossi
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 630d789b-1828-49d8-b58a-629c1be010dd
+    name: César Pérez Rossi
 musical_connections:
   collaborators:
-  - Gualberto Ibarreto
-  - María Teresa Chacín
-  - Ricardo Cepeda
-  - Abdenago “Neguito” Borjas
-  - Asdrúbal “Cheo” Hurtado
+    - Gualberto Ibarreto
+    - María Teresa Chacín
+    - Ricardo Cepeda
+    - Abdenago “Neguito” Borjas
+    - Asdrúbal “Cheo” Hurtado
   influenced:
-  - Unspecified younger Venezuelan folk and children’s-music ensembles
+    - Unspecified younger Venezuelan folk and children’s-music ensembles
   mentors:
-  - Carmito Gamboa
+    - Carmito Gamboa
 musicbrainz_id: a2c41bfa-0315-4e17-87c7-55f89e960a28
 network_extracted: true
-origin: Ciudad Bolívar, Bolívar, Venezuela
+origin: 'Ciudad Bolívar, Bolívar, Venezuela'
 primary_source: perplexity
 research_sources:
-- https://es.wikipedia.org/wiki/Serenata_Guayanesa
-- https://en.wikipedia.org/wiki/Serenata_Guayanesa
-- https://sincopa.com/traditional/artists2/serenata.htm
-- https://www.last.fm/music/Serenata+Guayanesa/+wiki
-- https://folkways.si.edu/serenata-guayanesa/canta-con-venezuela-sing-with/latin-world-american-indian/album/smithsonian
-- https://folkways.si.edu/desesperanza-despair-by-serenata-guayanesa/latin/music/video/smithsonian
+  - 'https://es.wikipedia.org/wiki/Serenata_Guayanesa'
+  - 'https://en.wikipedia.org/wiki/Serenata_Guayanesa'
+  - 'https://sincopa.com/traditional/artists2/serenata.htm'
+  - 'https://www.last.fm/music/Serenata+Guayanesa/+wiki'
+  - >-
+    https://folkways.si.edu/serenata-guayanesa/canta-con-venezuela-sing-with/latin-world-american-indian/album/smithsonian
+  - >-
+    https://folkways.si.edu/desesperanza-despair-by-serenata-guayanesa/latin/music/video/smithsonian
 spotify_data:
   followers: 61205
   id: 1G6AdxMaPnYJFHZhBsH2V9
   popularity: 38
-  url: https://open.spotify.com/artist/1G6AdxMaPnYJFHZhBsH2V9
+  url: 'https://open.spotify.com/artist/1G6AdxMaPnYJFHZhBsH2V9'
 status: active
 title: Serenata Guayanesa
 ---

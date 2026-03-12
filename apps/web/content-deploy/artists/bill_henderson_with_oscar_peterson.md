@@ -3,36 +3,40 @@ biography_enhanced_at: '2026-01-05T07:57:05.340351'
 enhancement_provider: perplexity
 entry_created: '2026-01-05T07:57:05.340358'
 external_urls:
-  spotify: https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A
-  wikipedia: https://en.wikipedia.org/wiki/Bill_Henderson_with_the_Oscar_Peterson_Trio
+  spotify: 'https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bill_Henderson_with_the_Oscar_Peterson_Trio'
 genres:
-- jazz
-- cool jazz
-- bebop
-- hard bop
-image_path: 03_Resources/source_material/ArtistPortraits/bill_henderson_with_oscar_peterson.jpg
+  - jazz
+  - cool jazz
+  - bebop
+  - hard bop
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/bill_henderson_with_oscar_peterson.jpg
 last_updated: '2026-01-05T07:57:05.340359'
 musical_connections:
   collaborators:
-  - Oscar Peterson
+    - Oscar Peterson
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- http://flatfivejazzdb.com/album/bill-henderson-the-oscar-peterson-bill-henderson-with-the-oscar-peterson-trio/
-- https://music.apple.com/us/album/bill-henderson-with-the-oscar-peterson-trio/1445958484
-- https://en.wikipedia.org/wiki/Bill_Henderson_with_the_Oscar_Peterson_Trio
-- https://secondhandsongs.com/artist/12626+28972/all
-- https://store.ververecords.com/products/bill-henderson-with-the-oscar-peterson-trio-verve-by-request-limited-edition-lp
+  - >-
+    http://flatfivejazzdb.com/album/bill-henderson-the-oscar-peterson-bill-henderson-with-the-oscar-peterson-trio/
+  - >-
+    https://music.apple.com/us/album/bill-henderson-with-the-oscar-peterson-trio/1445958484
+  - 'https://en.wikipedia.org/wiki/Bill_Henderson_with_the_Oscar_Peterson_Trio'
+  - 'https://secondhandsongs.com/artist/12626+28972/all'
+  - >-
+    https://store.ververecords.com/products/bill-henderson-with-the-oscar-peterson-trio-verve-by-request-limited-edition-lp
 spotify_data:
   followers: 224399
   id: 0ldU0QJm31y0d6f57R1G2A
   popularity: 61
-  url: https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A
+  url: 'https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A'
 status: active
-title: BILL HENDERSON WITH OSCAR PETERSON
-
+title: Bill Henderson With Oscar Peterson
+artist_type: person
 ---
 
 ![](bill_henderson_with_oscar_peterson.jpg)

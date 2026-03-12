@@ -23,51 +23,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Eric Lindell
-  - Samantha Fish
-  - Russell Batiste
-  - John 'Papa' Gros
-  - Glen David Andrews
-  - Justin Tocket
-  - Marc Paradis (Johnny Sketch and the Dirty Notes)
+    - Eric Lindell
+    - Samantha Fish
+    - Russell Batiste
+    - John 'Papa' Gros
+    - Glen David Andrews
+    - Justin Tocket
+    - Marc Paradis (Johnny Sketch and the Dirty Notes)
   influenced: []
   mentors:
-  - David "Fathead" Newman
-  - The Meters
-  - Booker T & the MGs
+    - David "Fathead" Newman
+    - The Meters
+    - Booker T & the MGs
 spotify_data:
   followers: 73
   id: 3q8yPNmKITP14G9YOEnnrV
   popularity: 1
-  url: https://open.spotify.com/artist/3q8yPNmKITP14G9YOEnnrV
+  url: 'https://open.spotify.com/artist/3q8yPNmKITP14G9YOEnnrV'
 discography_enriched: true
 top_tracks:
-- Baby's Gone (Baby's Gone)
-- Bucket of Fish (Bucket of Fish)
-- Hurry Up (Hurry Up)
-- Bus Station Blues (Hurry Up)
-- Itis (Hurry Up)
-- Cringe (Hurry Up)
-- This Time (Hurry Up)
-- Acting Up (Hurry Up)
-- Raindrops on Mardi Gras (Hurry Up)
+  - Baby's Gone (Baby's Gone)
+  - Bucket of Fish (Bucket of Fish)
+  - Hurry Up (Hurry Up)
+  - Bus Station Blues (Hurry Up)
+  - Itis (Hurry Up)
+  - Cringe (Hurry Up)
+  - This Time (Hurry Up)
+  - Acting Up (Hurry Up)
+  - Raindrops on Mardi Gras (Hurry Up)
 external_urls:
-  spotify: https://open.spotify.com/artist/3q8yPNmKITP14G9YOEnnrV
+  spotify: 'https://open.spotify.com/artist/3q8yPNmKITP14G9YOEnnrV'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/captain_buckles.jpg
 biography_enhanced_at: '2025-12-04T07:49:02.896587'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://glidemagazine.com/318690/song-premiere-talented-new-orleans-sidemen-come-together-as-captain-buckles-for-soulful-blues-rock-tune-bus-station-blues/
-- https://www.americanbluesscene.com/2025/11/captain-buckles-exclusive-album-stream-qa-with-bandleader-smitti-supab/
-- https://rockandbluesmuse.com/2025/11/11/review-captain-buckles-hurry-up/
-- https://captainbucklesband.com
-- https://captainbucklesband.com/about
+  - >-
+    https://glidemagazine.com/318690/song-premiere-talented-new-orleans-sidemen-come-together-as-captain-buckles-for-soulful-blues-rock-tune-bus-station-blues/
+  - >-
+    https://www.americanbluesscene.com/2025/11/captain-buckles-exclusive-album-stream-qa-with-bandleader-smitti-supab/
+  - 'https://rockandbluesmuse.com/2025/11/11/review-captain-buckles-hurry-up/'
+  - 'https://captainbucklesband.com'
+  - 'https://captainbucklesband.com/about'
 network_extracted: true
 entry_created: '2025-12-04T07:49:02.896596'
 last_updated: '2025-12-23T08:16:06.401604'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![](captain_buckles.jpg)

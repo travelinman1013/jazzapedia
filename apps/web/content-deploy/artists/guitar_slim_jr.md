@@ -1,18 +1,18 @@
 ---
-title: Guitar Slim, Jr
+title: 'Guitar Slim, Jr'
 wiki_slug: guitar-slim-jr
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- classic blues
-- blues
-- country blues
+  - classic blues
+  - blues
+  - country blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/guitar_slim_jr.jpg
-  caption: Guitar Slim, Jr
+  caption: 'Guitar Slim, Jr'
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 116.8
   energy_avg: 0.432
@@ -28,51 +28,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Shannon Powell
-  - Kerry Brown
-  - Rene Coman
-  - Charles Moore
-  - Jon Cleary
-  - Milton Batiste Jr.
+    - Shannon Powell
+    - Kerry Brown
+    - Rene Coman
+    - Charles Moore
+    - Jon Cleary
+    - Milton Batiste Jr.
   influenced: []
   mentors:
-  - Huey 'Piano' Smith
-  - Earl King
+    - Huey 'Piano' Smith
+    - Earl King
 spotify_data:
   followers: 18407
   id: 6fxCRWTrlk6wDMM4Gn421s
   popularity: 30
-  url: https://open.spotify.com/artist/6fxCRWTrlk6wDMM4Gn421s
+  url: 'https://open.spotify.com/artist/6fxCRWTrlk6wDMM4Gn421s'
 discography_enriched: true
 top_tracks:
-- The Things That I Used To Do (Sufferin' Mind)
-- Well I Done Got Over It (Sufferin' Mind)
-- Along About Midnight (The ATCO Sessions)
-- The Things That I Used To Do (10-27-53) (1951-1954)
-- It Hurts to Love Someone (The ATCO Sessions)
-- Bad Luck Blues (Sufferin' Mind)
-- Story Of My Life (Sufferin' Mind)
-- Guitar Slim (Sufferin' Mind)
-- Sufferin' Mind (Sufferin' Mind)
-- Stand By Me (09-28-54) (1951-1954)
+  - The Things That I Used To Do (Sufferin' Mind)
+  - Well I Done Got Over It (Sufferin' Mind)
+  - Along About Midnight (The ATCO Sessions)
+  - The Things That I Used To Do (10-27-53) (1951-1954)
+  - It Hurts to Love Someone (The ATCO Sessions)
+  - Bad Luck Blues (Sufferin' Mind)
+  - Story Of My Life (Sufferin' Mind)
+  - Guitar Slim (Sufferin' Mind)
+  - Sufferin' Mind (Sufferin' Mind)
+  - Stand By Me (09-28-54) (1951-1954)
 external_urls:
-  spotify: https://open.spotify.com/artist/6fxCRWTrlk6wDMM4Gn421s
+  spotify: 'https://open.spotify.com/artist/6fxCRWTrlk6wDMM4Gn421s'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/guitar_slim_jr.jpg
 biography_enhanced_at: '2025-11-26T07:53:46.833042'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.howlinwuelf.com/clients/guitar-slim-jr/
-- https://www.orleansrecords.com/post/guitar-slim-jr-the-story-of-my-life-making-a-scene
-- https://thefunkyuncle.live/artist/guitar-slim-jr/
-- https://www.makingascene.org/guitar-slim-jr-story-life/
-- https://www.wwoz.org/acts/guitar-slim-jr
-- https://www.offbeat.com/news/drawn-back-new-orleans-guitar-slim-jr/
-- https://ink19.com/2017/05/magazine/music-reviews/gvhxcp-guitar-slim-jr
+  - 'https://www.howlinwuelf.com/clients/guitar-slim-jr/'
+  - >-
+    https://www.orleansrecords.com/post/guitar-slim-jr-the-story-of-my-life-making-a-scene
+  - 'https://thefunkyuncle.live/artist/guitar-slim-jr/'
+  - 'https://www.makingascene.org/guitar-slim-jr-story-life/'
+  - 'https://www.wwoz.org/acts/guitar-slim-jr'
+  - 'https://www.offbeat.com/news/drawn-back-new-orleans-guitar-slim-jr/'
+  - 'https://ink19.com/2017/05/magazine/music-reviews/gvhxcp-guitar-slim-jr'
 network_extracted: true
 entry_created: '2025-11-26T07:53:46.833053'
 last_updated: '2025-12-23T08:16:09.414609'
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1952-08-24'
+artist_type: person
 ---
 
 ![](guitar_slim_jr.jpg)

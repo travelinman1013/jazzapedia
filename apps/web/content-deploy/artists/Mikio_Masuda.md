@@ -3,16 +3,16 @@ title: Mikio Masuda
 wiki_slug: mikio-masuda
 schema_version: 2
 status: active
-birth_place: Osaka, Osaka Prefecture, Japan
+birth_place: 'Osaka, Osaka Prefecture, Japan'
 genres:
-- city pop
-- j-r&b
-- jazz fusion
+  - city pop
+  - j-r&b
+  - jazz fusion
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Mikio_Masuda.jpg
   caption: Mikio Masuda
   background: solo_singer
-  origin: Osaka, Osaka Prefecture, Japan
+  origin: 'Osaka, Osaka Prefecture, Japan'
 audio_profile:
   tempo_avg: 115.5
   energy_avg: 0.506
@@ -28,49 +28,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Terumasa Hino
-  - Motohiko Hino
-  - Ron Carter
-  - Lewis Nash
-  - Grady Tate
-  - Anthony Jackson
-  - Bernard Purdie
-  - Kazumi Watanabe
-  - Kosuke Mine
-  - David Matthews
+    - Terumasa Hino
+    - Motohiko Hino
+    - Ron Carter
+    - Lewis Nash
+    - Grady Tate
+    - Anthony Jackson
+    - Bernard Purdie
+    - Kazumi Watanabe
+    - Kosuke Mine
+    - David Matthews
   influenced: []
   mentors: []
 spotify_data:
   followers: 407
   id: 61eAtvu2zxMJKClNHFioL5
   popularity: 2
-  url: https://open.spotify.com/artist/61eAtvu2zxMJKClNHFioL5
+  url: 'https://open.spotify.com/artist/61eAtvu2zxMJKClNHFioL5'
 discography_enriched: true
 top_tracks:
-- Let's Get Together (DJ Notoya Presents Funk Tide - Tokyo Jazz Funk From Electric Bird 1978-87)
-- REFRESHING (CHI CHI)
-- WALKIN' IN THE CITY (CHI CHI)
-- SONG OF FANTASY (CHI CHI)
-- Mickey Finn (Mickey Finn)
-- MOZAMBIQUE (CHI CHI)
-- JUST HUNGING (CHI CHI)
-- ESCRAVA DA ALEGRIA (CHI CHI)
-- Skippin' High (Mickey Finn)
-- Tico Tico (Mickey Finn)
+  - >-
+    Let's Get Together (DJ Notoya Presents Funk Tide - Tokyo Jazz Funk From
+    Electric Bird 1978-87)
+  - REFRESHING (CHI CHI)
+  - WALKIN' IN THE CITY (CHI CHI)
+  - SONG OF FANTASY (CHI CHI)
+  - Mickey Finn (Mickey Finn)
+  - MOZAMBIQUE (CHI CHI)
+  - JUST HUNGING (CHI CHI)
+  - ESCRAVA DA ALEGRIA (CHI CHI)
+  - Skippin' High (Mickey Finn)
+  - Tico Tico (Mickey Finn)
 external_urls:
-  spotify: https://open.spotify.com/artist/61eAtvu2zxMJKClNHFioL5
-  wikipedia: https://en.wikipedia.org/wiki/Mikio_Masuda
+  spotify: 'https://open.spotify.com/artist/61eAtvu2zxMJKClNHFioL5'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mikio_Masuda'
 image_path: 03_Resources/source_material/ArtistPortraits/Mikio_Masuda.jpg
 biography_enhanced_at: '2025-10-21T06:40:36.657151'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Mikio_Masuda
-- https://de.wikipedia.org/wiki/Mikio_Masuda
-- https://www.jazzmusicarchives.com/artist/mikio-masuda-%E7%9B%8A%E7%94%B0%E5%B9%B9%E5%A4%AB
+  - 'https://en.wikipedia.org/wiki/Mikio_Masuda'
+  - 'https://de.wikipedia.org/wiki/Mikio_Masuda'
+  - >-
+    https://www.jazzmusicarchives.com/artist/mikio-masuda-%E7%9B%8A%E7%94%B0%E5%B9%B9%E5%A4%AB
 network_extracted: true
 entry_created: '2025-10-21T06:40:36.657167'
 last_updated: '2025-12-23T08:16:03.321384'
+birth_date: '1949-08-14'
+artist_type: person
 ---
 
 ![](Mikio_Masuda.jpg)

@@ -1,40 +1,43 @@
 ---
 biography_enhanced_at: '2026-01-06T02:12:44.465934'
-birth_place: Luling, Louisiana, USA
+birth_place: 'Luling, Louisiana, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-06T02:12:44.465939'
 external_urls:
-  spotify: https://open.spotify.com/artist/5ZMDMg8T46GhNdD03KF9Au
+  spotify: 'https://open.spotify.com/artist/5ZMDMg8T46GhNdD03KF9Au'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/bailey_flores.jpg
 last_updated: '2026-01-06T02:12:44.465940'
 musical_connections:
   collaborators:
-  - SoDown
-  - MZG
-  - Manic Focus
-  - Bass Physics
+    - SoDown
+    - MZG
+    - Manic Focus
+    - Bass Physics
   influenced: []
   mentors:
-  - Paramore
-  - Circa Survive
+    - Paramore
+    - Circa Survive
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.viberate.com/artist/bailey-flores/
-- https://bigtakeover.com/profiles/BaileyFloresAcolorfulartistwithastylisticallyvariedpalette
-- https://www.baileyflores.com
-- https://rawartists.com/baileyfloresmusic
-- https://www.xsnoize.com/track-premiere-bailey-flores-kiss-me-more/
-- https://essentiallypop.com/epop/2021/07/new-orleans-artist-bailey-flores-implores-us-to-kiss-me-more-with-new-single/
+  - 'https://www.viberate.com/artist/bailey-flores/'
+  - >-
+    https://bigtakeover.com/profiles/BaileyFloresAcolorfulartistwithastylisticallyvariedpalette
+  - 'https://www.baileyflores.com'
+  - 'https://rawartists.com/baileyfloresmusic'
+  - 'https://www.xsnoize.com/track-premiere-bailey-flores-kiss-me-more/'
+  - >-
+    https://essentiallypop.com/epop/2021/07/new-orleans-artist-bailey-flores-implores-us-to-kiss-me-more-with-new-single/
 spotify_data:
   followers: 683
   id: 5ZMDMg8T46GhNdD03KF9Au
   popularity: 20
-  url: https://open.spotify.com/artist/5ZMDMg8T46GhNdD03KF9Au
+  url: 'https://open.spotify.com/artist/5ZMDMg8T46GhNdD03KF9Au'
 status: active
 title: Bailey Flores
+artist_type: person
 ---
 
 ![](bailey_flores.jpg)

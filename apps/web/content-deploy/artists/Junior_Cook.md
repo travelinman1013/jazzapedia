@@ -3,20 +3,20 @@ title: Junior Cook
 wiki_slug: junior-cook
 schema_version: 2
 status: active
-birth_place: Pensacola, Florida, United States
+birth_place: 'Pensacola, Florida, United States'
 genres:
-- hard bop
-- soul jazz
-- bebop
-- jazz
-- free jazz
+  - hard bop
+  - soul jazz
+  - bebop
+  - jazz
+  - free jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Junior_Cook.jpg
   caption: Junior Cook
   background: solo_singer
-  origin: Pensacola, Florida, United States
+  origin: 'Pensacola, Florida, United States'
 audio_profile:
-  tempo_avg: 112.0
+  tempo_avg: 112
   energy_avg: 0.36
   valence_avg: 0.432
   danceability_avg: 0.495
@@ -30,54 +30,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Horace Silver
-  - Blue Mitchell
-  - Dizzy Gillespie
-  - Freddie Hubbard
-  - Elvin Jones
-  - Louis Hayes
-  - Bill Hardman
-  - McCoy Tyner
+    - Horace Silver
+    - Blue Mitchell
+    - Dizzy Gillespie
+    - Freddie Hubbard
+    - Elvin Jones
+    - Louis Hayes
+    - Bill Hardman
+    - McCoy Tyner
   influenced:
-  - Richie Vitale
-  - Joe Farnsworth
-  - Michael Weiss
+    - Richie Vitale
+    - Joe Farnsworth
+    - Michael Weiss
   mentors:
-  - Hank Mobley
-  - Wardell Gray
+    - Hank Mobley
+    - Wardell Gray
 spotify_data:
   followers: 931
   id: 5tOQYJ46QiQpCWqsVqHexe
   popularity: 3
-  url: https://open.spotify.com/artist/5tOQYJ46QiQpCWqsVqHexe
+  url: 'https://open.spotify.com/artist/5tOQYJ46QiQpCWqsVqHexe'
 discography_enriched: true
 top_tracks:
-- Myzar (Junior's Cookin' (Reissue))
-- Easy Living (Junior's Cookin' (Reissue))
-- Blue Farouq (Junior's Cookin' (Reissue))
-- Sweet Cakes (Junior's Cookin' (Reissue))
-- Ichi Ban (Number One) (Ichi Ban)
-- Brothers and Sisters (Ichi Ban)
-- Spirits up Above (Spirits up Above)
-- The Inflated Tear (Spirits up Above)
-- Rock Salt (Milestones of Jazz Legends - More Jazz Guitar, Vol. 8)
-- Pannonica (Ichi Ban)
+  - Myzar (Junior's Cookin' (Reissue))
+  - Easy Living (Junior's Cookin' (Reissue))
+  - Blue Farouq (Junior's Cookin' (Reissue))
+  - Sweet Cakes (Junior's Cookin' (Reissue))
+  - Ichi Ban (Number One) (Ichi Ban)
+  - Brothers and Sisters (Ichi Ban)
+  - Spirits up Above (Spirits up Above)
+  - The Inflated Tear (Spirits up Above)
+  - 'Rock Salt (Milestones of Jazz Legends - More Jazz Guitar, Vol. 8)'
+  - Pannonica (Ichi Ban)
 external_urls:
-  spotify: https://open.spotify.com/artist/5tOQYJ46QiQpCWqsVqHexe
-  wikipedia: https://en.wikipedia.org/wiki/Junior_Cook
+  spotify: 'https://open.spotify.com/artist/5tOQYJ46QiQpCWqsVqHexe'
+  wikipedia: 'https://en.wikipedia.org/wiki/Junior_Cook'
 image_path: 03_Resources/source_material/ArtistPortraits/Junior_Cook.jpg
 biography_enhanced_at: '2025-10-19T11:43:05.204156'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Junior_Cook
-- https://jazzjournal.co.uk/2023/07/15/junior-cook-quintessential-hard-bop-tenor/
-- https://untpress.unt.edu/catalog/nero-have-horn-will-travel/
-- https://www.allaboutjazz.com/musicians/junior-cook/
-- https://thejazztome.info/glossary/junior-cook/
+  - 'https://en.wikipedia.org/wiki/Junior_Cook'
+  - >-
+    https://jazzjournal.co.uk/2023/07/15/junior-cook-quintessential-hard-bop-tenor/
+  - 'https://untpress.unt.edu/catalog/nero-have-horn-will-travel/'
+  - 'https://www.allaboutjazz.com/musicians/junior-cook/'
+  - 'https://thejazztome.info/glossary/junior-cook/'
 network_extracted: true
 entry_created: '2025-10-19T11:43:05.204165'
 last_updated: '2025-12-23T08:16:02.758304'
+artist_type: person
 ---
 
 ![](Junior_Cook.jpg)

@@ -3,14 +3,14 @@ title: Tabby Thomas
 wiki_slug: tabby-thomas
 schema_version: 2
 status: active
-birth_place: Baton Rouge, Louisiana, United States
+birth_place: 'Baton Rouge, Louisiana, United States'
 genres:
-- blues
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/tabby_thomas.jpg
   caption: Tabby Thomas
   background: solo_singer
-  origin: Baton Rouge, Louisiana, United States
+  origin: 'Baton Rouge, Louisiana, United States'
 audio_profile:
   tempo_avg: 134.2
   energy_avg: 0.463
@@ -18,7 +18,7 @@ audio_profile:
   danceability_avg: 0.623
   acousticness_avg: 0.569
   instrumentalness_avg: 0.129
-  loudness_avg: -12.0
+  loudness_avg: -12
   speechiness_avg: 0.089
   liveness_avg: 0.175
   track_count: 50
@@ -26,46 +26,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Whispering Smith
-  - Lazy Lester
-  - Chris Thomas King
-  - Mellow, Mellow Men
+    - Whispering Smith
+    - Lazy Lester
+    - Chris Thomas King
+    - 'Mellow, Mellow Men'
   influenced:
-  - Chris Thomas King
+    - Chris Thomas King
   mentors:
-  - Jay Miller
+    - Jay Miller
 spotify_data:
   followers: 358
   id: 1dkSLm85XMoppZ4g5Pmt4b
   popularity: 1
-  url: https://open.spotify.com/artist/1dkSLm85XMoppZ4g5Pmt4b
+  url: 'https://open.spotify.com/artist/1dkSLm85XMoppZ4g5Pmt4b'
 discography_enriched: true
 top_tracks:
-- Hoodoo Party (Cockroach Run)
-- Da Thrill Is Gone From Here (Dirty South Hip Hop Blues)
-- Popeye Train (Rhythm & Blues 50 Hits)
-- Louisiana Woman (Louisiana Swamp Blues Vol. 5)
-- Da Thrill Is Gone From Here (Dirty South Hip Hop Blues)
-- Hoodoo Party (Swamp Blues 2)
-- 'Popeye Train (It''s Your Voodoo Working: The Best of Excello)'
-- Popeye Train (Popeye Train / He's Got the Whole Word in His Hands)
-- Hoo Doo Man Blues
-- Swamp Man Blues
+  - Hoodoo Party (Cockroach Run)
+  - Da Thrill Is Gone From Here (Dirty South Hip Hop Blues)
+  - Popeye Train (Rhythm & Blues 50 Hits)
+  - Louisiana Woman (Louisiana Swamp Blues Vol. 5)
+  - Da Thrill Is Gone From Here (Dirty South Hip Hop Blues)
+  - Hoodoo Party (Swamp Blues 2)
+  - 'Popeye Train (It''s Your Voodoo Working: The Best of Excello)'
+  - Popeye Train (Popeye Train / He's Got the Whole Word in His Hands)
+  - Hoo Doo Man Blues
+  - Swamp Man Blues
 external_urls:
-  spotify: https://open.spotify.com/artist/1dkSLm85XMoppZ4g5Pmt4b
-  wikipedia: https://en.wikipedia.org/wiki/Tabby_Thomas
+  spotify: 'https://open.spotify.com/artist/1dkSLm85XMoppZ4g5Pmt4b'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tabby_Thomas'
 image_path: 03_Resources/source_material/ArtistPortraits/tabby_thomas.jpg
 biography_enhanced_at: '2025-11-15T18:39:56.961945'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Tabby_Thomas
-- https://fromthevaults-boppinbob.blogspot.com/2022/01/tabby-thomas-born-5-january-1929.html
-- https://www.americanbluesscene.com/2014/01/famed-baton-rouge-bluesman-passes-away/
+  - 'https://en.wikipedia.org/wiki/Tabby_Thomas'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2022/01/tabby-thomas-born-5-january-1929.html
+  - >-
+    https://www.americanbluesscene.com/2014/01/famed-baton-rouge-bluesman-passes-away/
 network_extracted: true
 entry_created: '2025-11-15T18:39:56.961955'
 last_updated: '2025-12-23T08:16:16.353057'
-
+origin: 'Baton Rouge, Louisiana, United States'
+birth_date: '1929-01-05'
+death_date: '2014-01-01'
+artist_type: person
 ---
 
 ![](tabby_thomas.jpg)

@@ -1,16 +1,20 @@
 ---
-title: BARBRA STREISAND/ HAROLD ARLEN
+title: Barbra Streisand / Harold Arlen
 wiki_slug: barbra-streisand-harold-arlen
 schema_version: 2
 status: active
-birth_place: Brooklyn, New York City, New York, United States (Barbra Streisand); Buffalo, New York, United States (Harold
-  Arlen)
+birth_place: >-
+  Brooklyn, New York City, New York, United States (Barbra Streisand); Buffalo,
+  New York, United States (Harold Arlen)
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/barbra_streisand_harold_arlen.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/barbra_streisand_harold_arlen.jpg
   caption: BARBRA STREISAND/ HAROLD ARLEN
   background: solo_singer
-  origin: Brooklyn, New York City, New York, United States (Barbra Streisand); Buffalo, New York, United States (Harold Arlen)
+  origin: >-
+    Brooklyn, New York City, New York, United States (Barbra Streisand);
+    Buffalo, New York, United States (Harold Arlen)
 audio_profile:
   tempo_avg: 99.7
   energy_avg: 0.171
@@ -26,47 +30,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Yip Harburg (lyricist for Harold Arlen)
-  - Ted Koehler
-  - Columbia Records producers and arrangers
+    - Yip Harburg (lyricist for Harold Arlen)
+    - Ted Koehler
+    - Columbia Records producers and arrangers
   influenced:
-  - Contemporary pop and Broadway vocalists (e.g., Celine Dion, Lea Michele – representative examples)
+    - >-
+      Contemporary pop and Broadway vocalists (e.g., Celine Dion, Lea Michele –
+      representative examples)
   mentors:
-  - Broadway and American Songbook composers (including Harold Arlen)
-  - E.Y. "Yip" Harburg and Ted Koehler
+    - Broadway and American Songbook composers (including Harold Arlen)
+    - E.Y. "Yip" Harburg and Ted Koehler
 spotify_data:
   followers: 3912
   id: 7MOUyX1yT017l1Zt0mExIA
   popularity: 36
-  url: https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA
+  url: 'https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA'
 discography_enriched: true
 top_tracks:
-- Somewhere over the rainbow (Domingo Pur)
-- Somewhere Over the Rainbow (Arr. André Rieu) (André Rieu in Wonderland)
-- The Man That Got Away (The New Limelight)
-- Over the Rainbow (From "The Wizard of Oz") (Le Monde en Fête)
-- Over the Rainbow (Arr. for String Quartet by William Ryden)
-- Over the Rainbow (From "The Wizard of Oz")
-- Let's Fall in Love
-- Over the Rainbow
-- Over the Rainbow (From "The Wizard of Oz") (Sensations)
-- Let's Fall in Love (Arr. Haginomori for Flute and Piano)
+  - Somewhere over the rainbow (Domingo Pur)
+  - Somewhere Over the Rainbow (Arr. André Rieu) (André Rieu in Wonderland)
+  - The Man That Got Away (The New Limelight)
+  - Over the Rainbow (From "The Wizard of Oz") (Le Monde en Fête)
+  - Over the Rainbow (Arr. for String Quartet by William Ryden)
+  - Over the Rainbow (From "The Wizard of Oz")
+  - Let's Fall in Love
+  - Over the Rainbow
+  - Over the Rainbow (From "The Wizard of Oz") (Sensations)
+  - Let's Fall in Love (Arr. Haginomori for Flute and Piano)
 external_urls:
-  spotify: https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA
-  wikipedia: https://en.wikipedia.org/wiki/Barbra_Streisand
+  spotify: 'https://open.spotify.com/artist/7MOUyX1yT017l1Zt0mExIA'
+  wikipedia: 'https://en.wikipedia.org/wiki/Barbra_Streisand'
 image_path: 03_Resources/source_material/ArtistPortraits/barbra_streisand_harold_arlen.jpg
 biography_enhanced_at: '2025-12-16T04:00:01.544109'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Barbra_Streisand
-- https://www.biography.com/musicians/barbra-streisand
-- https://www.imdb.com/name/nm0000659/bio/
-- https://www.barbra-archives.info
-- https://en.wikipedia.org/wiki/Harold_Arlen
+  - 'https://en.wikipedia.org/wiki/Barbra_Streisand'
+  - 'https://www.biography.com/musicians/barbra-streisand'
+  - 'https://www.imdb.com/name/nm0000659/bio/'
+  - 'https://www.barbra-archives.info'
+  - 'https://en.wikipedia.org/wiki/Harold_Arlen'
 network_extracted: true
 entry_created: '2025-12-16T04:00:01.544122'
 last_updated: '2025-12-23T08:16:05.100923'
+birth_date: '1942-04-24'
+artist_type: person
 ---
 
 ![](barbra_streisand_harold_arlen.jpg)

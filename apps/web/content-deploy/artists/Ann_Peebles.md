@@ -2,19 +2,19 @@
 title: Ann Peebles
 wiki_slug: ann-peebles
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1947-04-27'
-birth_place: St. Louis, Missouri, United States
+birth_place: 'St. Louis, Missouri, United States'
 genres:
-- soul
-- soul blues
+  - soul
+  - soul blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Ann_Peebles.jpg
   caption: Ann Peebles
   background: solo_singer
   born: '1947-04-27'
-  origin: St. Louis, Missouri, United States
+  origin: 'St. Louis, Missouri, United States'
 audio_profile:
   tempo_avg: 117.7
   energy_avg: 0.441
@@ -30,48 +30,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Don Bryant
-  - Hi Rhythm Section
-  - Memphis Horns
-  - Cyndi Lauper
+    - Don Bryant
+    - Hi Rhythm Section
+    - Memphis Horns
+    - Cyndi Lauper
   influenced:
-  - Missy Elliott
-  - Tina Turner
-  - Paul Young
-  - Bonnie Raitt
+    - Missy Elliott
+    - Tina Turner
+    - Paul Young
+    - Bonnie Raitt
   mentors:
-  - Oliver Sain
-  - Willie Mitchell
+    - Oliver Sain
+    - Willie Mitchell
 spotify_data:
   followers: 132747
   id: 5dM7jA0PXh0Ozz8LT2YOCB
   popularity: 45
-  url: https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB
+  url: 'https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB'
 discography_enriched: true
 top_tracks:
-- I Can't Stand the Rain (I Can't Stand the Rain)
-- Trouble, Heartaches & Sadness (Straight from the Heart)
-- I'm Gonna Tear Your Playhouse Down (I Can't Stand the Rain)
-- Until You Came into My Life (I Can't Stand the Rain)
-- Slipped, Tripped and Fell in Love (Straight from the Heart)
-- I Feel Like Breaking up Somebody's Home Tonight (Straight from the Heart)
-- Run, Run, Run (I Can't Stand the Rain)
-- 99 Lbs
-- Do I Need You (I Can't Stand the Rain)
-- (You Keep Me) Hangin' On (I Can't Stand the Rain)
+  - I Can't Stand the Rain (I Can't Stand the Rain)
+  - 'Trouble, Heartaches & Sadness (Straight from the Heart)'
+  - I'm Gonna Tear Your Playhouse Down (I Can't Stand the Rain)
+  - Until You Came into My Life (I Can't Stand the Rain)
+  - 'Slipped, Tripped and Fell in Love (Straight from the Heart)'
+  - I Feel Like Breaking up Somebody's Home Tonight (Straight from the Heart)
+  - 'Run, Run, Run (I Can''t Stand the Rain)'
+  - 99 Lbs
+  - Do I Need You (I Can't Stand the Rain)
+  - (You Keep Me) Hangin' On (I Can't Stand the Rain)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a7e05e3f-7459-4ba6-9041-8b5cacf6338c
-  spotify: https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB
-  wikipedia: https://en.wikipedia.org/wiki/Ann_Peebles
+  musicbrainz: 'https://musicbrainz.org/artist/a7e05e3f-7459-4ba6-9041-8b5cacf6338c'
+  spotify: 'https://open.spotify.com/artist/5dM7jA0PXh0Ozz8LT2YOCB'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ann_Peebles'
 image_path: 03_Resources/source_material/ArtistPortraits/Ann_Peebles.jpg
 biography_enhanced_at: '2025-10-19T11:58:27.666209'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Ann_Peebles
-- https://memphismusichalloffame.com/inductee/annpeebles/
-- https://fatpossum.com/collections/ann-peebles
-- https://souldisco.de/allgemein/ann-peebles-the-soulful-voice-behind-timeless-rb-classics/
+  - 'https://en.wikipedia.org/wiki/Ann_Peebles'
+  - 'https://memphismusichalloffame.com/inductee/annpeebles/'
+  - 'https://fatpossum.com/collections/ann-peebles'
+  - >-
+    https://souldisco.de/allgemein/ann-peebles-the-soulful-voice-behind-timeless-rb-classics/
 network_extracted: true
 entry_created: '2025-10-19T11:58:27.666213'
 last_updated: '2025-12-23T08:16:01.017242'
@@ -79,9 +80,8 @@ gender: Female
 musicbrainz_enriched_at: '2025-10-21T08:59:31.536535'
 musicbrainz_id: a7e05e3f-7459-4ba6-9041-8b5cacf6338c
 tags:
-- rock and indie
-- soul
-
+  - rock and indie
+  - soul
 ---
 
 ![](Ann_Peebles.jpg)

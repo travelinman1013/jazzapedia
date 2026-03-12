@@ -2,20 +2,20 @@
 title: Mavis Staples
 wiki_slug: mavis-staples
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1939-07-10'
-birth_place: Chicago, Illinois, United States
+birth_place: 'Chicago, Illinois, United States'
 genres:
-- soul
+  - soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Mavis_Staples.jpg
   caption: Mavis Staples
   background: solo_singer
   born: '1939-07-10'
-  origin: Chicago, Illinois, United States
+  origin: 'Chicago, Illinois, United States'
 audio_profile:
-  tempo_avg: 112.0
+  tempo_avg: 112
   energy_avg: 0.625
   valence_avg: 0.576
   danceability_avg: 0.574
@@ -29,47 +29,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Staple Singers
-  - Bob Dylan
-  - Booker T. and the MGs
-  - Prince
-  - Jeff Tweedy
-  - Arcade Fire
-  - Los Lobos
+    - The Staple Singers
+    - Bob Dylan
+    - Booker T. and the MGs
+    - Prince
+    - Jeff Tweedy
+    - Arcade Fire
+    - Los Lobos
   influenced:
-  - Bob Dylan
+    - Bob Dylan
   mentors:
-  - Roebuck 'Pops' Staples
-  - Mahalia Jackson
+    - Roebuck 'Pops' Staples
+    - Mahalia Jackson
 spotify_data:
   followers: 119963
   id: 0cTSCsVx04SSht9V6cpKN0
   popularity: 48
-  url: https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0
+  url: 'https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0'
 discography_enriched: true
 top_tracks:
-- Nina Cried Power (feat. Mavis Staples) (Wasteland, Baby!)
-- Nina Cried Power (Wasteland, Baby!)
-- Let Me Out (feat. Mavis Staples & Pusha T) (Humanz (Deluxe))
-- 'If I Ever Needed Someone (Duets: Re-Working The Catalogue)'
-- The Weight - Live
-- We Get By (We Get By)
-- Boulder To Birmingham - Live
-- You Are Not Alone (You Are Not Alone)
-- Walk This Road (feat. Mavis Staples)
-- Godspeed
+  - 'Nina Cried Power (feat. Mavis Staples) (Wasteland, Baby!)'
+  - 'Nina Cried Power (Wasteland, Baby!)'
+  - Let Me Out (feat. Mavis Staples & Pusha T) (Humanz (Deluxe))
+  - 'If I Ever Needed Someone (Duets: Re-Working The Catalogue)'
+  - The Weight - Live
+  - We Get By (We Get By)
+  - Boulder To Birmingham - Live
+  - You Are Not Alone (You Are Not Alone)
+  - Walk This Road (feat. Mavis Staples)
+  - Godspeed
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/04f57a2d-2449-400e-8fff-5b1c5af9560b
-  spotify: https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0
-  wikipedia: https://en.wikipedia.org/wiki/Mavis_Staples
+  musicbrainz: 'https://musicbrainz.org/artist/04f57a2d-2449-400e-8fff-5b1c5af9560b'
+  spotify: 'https://open.spotify.com/artist/0cTSCsVx04SSht9V6cpKN0'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mavis_Staples'
 image_path: 03_Resources/source_material/ArtistPortraits/Mavis_Staples.jpg
 biography_enhanced_at: '2025-10-20T09:59:45.237793'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.britannica.com/biography/Mavis-Staples
-- https://memphismusichalloffame.com/inductee/mavis-staples/
-- https://wers.org/the-vault-of-soul-mavis-staples/
+  - 'https://www.britannica.com/biography/Mavis-Staples'
+  - 'https://memphismusichalloffame.com/inductee/mavis-staples/'
+  - 'https://wers.org/the-vault-of-soul-mavis-staples/'
 network_extracted: true
 entry_created: '2025-10-20T09:59:45.237811'
 last_updated: '2025-12-23T08:16:03.243002'
@@ -77,9 +77,9 @@ gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:37:28.216459'
 musicbrainz_id: 04f57a2d-2449-400e-8fff-5b1c5af9560b
 tags:
-- gospel
-- rhythm and blues
-- soul
+  - gospel
+  - rhythm and blues
+  - soul
 ---
 
 ![](Mavis_Staples.jpg)

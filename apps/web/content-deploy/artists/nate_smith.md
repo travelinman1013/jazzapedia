@@ -2,52 +2,53 @@
 artist_type: person
 biography_enhanced_at: '2026-01-09T01:52:24.412142'
 birth_date: '1985-09-19'
-birth_place: Paradise
+birth_place: 'Paradise, California, United States'
 disambiguation: US country singer
 enhancement_provider: perplexity
 entry_created: '2026-01-09T01:52:24.412154'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a1652aa0-8fae-4f6b-b914-6ab6a1291fdd
-  spotify: https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x
+  musicbrainz: 'https://musicbrainz.org/artist/a1652aa0-8fae-4f6b-b914-6ab6a1291fdd'
+  spotify: 'https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x'
   wikipedia: ''
 gender: Male
 genres:
-- country
+  - country
 image_path: 03_Resources/source_material/ArtistPortraits/nate_smith.jpg
 last_updated: '2026-01-09T01:52:24.412156'
 musical_connections:
   collaborators:
-  - Jonathan Smith
-  - Avril Lavigne
-  - Morgan Wallen (tour mate)
-  - Cole Swindell (tour mate)
-  - Thomas Rhett (tour mate and supporter)
+    - Jonathan Smith
+    - Avril Lavigne
+    - Morgan Wallen (tour mate)
+    - Cole Swindell (tour mate)
+    - Thomas Rhett (tour mate and supporter)
   influenced:
-  - Bailey Zimmerman
+    - Bailey Zimmerman
   mentors:
-  - Unnamed church youth leader
-  - Garth Brooks
-  - Tom Petty and Fleetwood Mac
+    - Unnamed church youth leader
+    - Garth Brooks
+    - Tom Petty and Fleetwood Mac
 musicbrainz_id: a1652aa0-8fae-4f6b-b914-6ab6a1291fdd
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://holican.io/wiki/nate-smith
-- https://www.allamericanspeakers.com/celebritytalentbios/Nate+Smith/423591
-- https://www.latimes.com/entertainment-arts/music/story/2024-11-20/nate-smith-cma-awards-avril-lavigne-paradise-camp-fire
-- https://www.famousbirthdays.com/people/nate-smith.html
-- https://www.opry.com/artists/nate-smith
-- https://www.natesmithofficial.com
-- https://frizzellheritagemusic.com/nate-smith/
-- https://todaysbestcountry.com/artist/a1652aa0-8fae-4f6b-b914-6ab6a1291fdd
+  - 'https://holican.io/wiki/nate-smith'
+  - 'https://www.allamericanspeakers.com/celebritytalentbios/Nate+Smith/423591'
+  - >-
+    https://www.latimes.com/entertainment-arts/music/story/2024-11-20/nate-smith-cma-awards-avril-lavigne-paradise-camp-fire
+  - 'https://www.famousbirthdays.com/people/nate-smith.html'
+  - 'https://www.opry.com/artists/nate-smith'
+  - 'https://www.natesmithofficial.com'
+  - 'https://frizzellheritagemusic.com/nate-smith/'
+  - 'https://todaysbestcountry.com/artist/a1652aa0-8fae-4f6b-b914-6ab6a1291fdd'
 spotify_data:
   followers: 598970
   id: 4NYMUsIcUUsBHbV9DICa5x
   popularity: 67
-  url: https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x
+  url: 'https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x'
 status: active
 tags:
-- country
+  - country
 title: Nate Smith
 ---
 

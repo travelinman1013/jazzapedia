@@ -1,42 +1,45 @@
 ---
 biography_enhanced_at: '2026-01-22T07:18:29.043351'
-birth_place: Canton, Ohio, United States
+birth_place: 'Canton, Ohio, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:18:29.043358'
 external_urls:
-  spotify: https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh
-  wikipedia: https://en.wikipedia.org/wiki/Boz_Scaggs
+  spotify: 'https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh'
+  wikipedia: 'https://en.wikipedia.org/wiki/Boz_Scaggs'
 genres:
-- yacht rock
-- aor
+  - yacht rock
+  - aor
 image_path: 03_Resources/source_material/ArtistPortraits/boz_scaggs.jpg
 last_updated: '2026-01-22T07:18:29.043359'
 musical_connections:
   collaborators:
-  - Duane Allman
-  - Toto (Dennis Paich and Steve Porcaro)
-  - Muscle Shoals Rhythm Section
+    - Duane Allman
+    - Toto (Dennis Paich and Steve Porcaro)
+    - Muscle Shoals Rhythm Section
   influenced:
-  - Toto
+    - Toto
   mentors:
-  - Steve Miller
-  - Johnny Bristol
-  - Jann Wenner
+    - Steve Miller
+    - Johnny Bristol
+    - Jann Wenner
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.highroadtouring.com/artists/boz-scaggs/
-- https://www.thekurlandagency.com/artist/boz-scaggs/
-- https://en.wikipedia.org/wiki/Boz_Scaggs
-- https://concord.com/publishing-roster/boz-scaggs/
-- https://www.nashvillescene.com/criticspicks/critics-pick-boz-scaggs/article_cfeddc79-9b90-45da-9f75-0dc11c7bdce6.html
+  - 'https://www.highroadtouring.com/artists/boz-scaggs/'
+  - 'https://www.thekurlandagency.com/artist/boz-scaggs/'
+  - 'https://en.wikipedia.org/wiki/Boz_Scaggs'
+  - 'https://concord.com/publishing-roster/boz-scaggs/'
+  - >-
+    https://www.nashvillescene.com/criticspicks/critics-pick-boz-scaggs/article_cfeddc79-9b90-45da-9f75-0dc11c7bdce6.html
 spotify_data:
   followers: 870190
   id: 46njgd2Rq9tZc4ZjeQMgbh
   popularity: 58
-  url: https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh
+  url: 'https://open.spotify.com/artist/46njgd2Rq9tZc4ZjeQMgbh'
 status: active
 title: Boz Scaggs
+birth_date: '1944-06-08'
+artist_type: person
 ---
 
 ![](boz_scaggs.jpg)

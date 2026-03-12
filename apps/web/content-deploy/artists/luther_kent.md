@@ -3,14 +3,14 @@ title: Luther Kent
 wiki_slug: luther-kent
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- ragtime
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/luther_kent.jpg
   caption: Luther Kent
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 122.1
   energy_avg: 0.581
@@ -26,52 +26,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Charlie Brent
-  - Blood, Sweat & Tears
-  - Allen Toussaint
-  - Pete Fountain
-  - The Dukes of Dixieland
-  - Robi Zonca
+    - Charlie Brent
+    - 'Blood, Sweat & Tears'
+    - Allen Toussaint
+    - Pete Fountain
+    - The Dukes of Dixieland
+    - Robi Zonca
   influenced:
-  - New Orleans R&B and blues musicians
+    - New Orleans R&B and blues musicians
   mentors:
-  - Bobby 'Blue' Bland
-  - Etta James
-  - Ray Charles
+    - Bobby 'Blue' Bland
+    - Etta James
+    - Ray Charles
 spotify_data:
   followers: 376
   id: 1ZdN8N7SDTxD0tTd3lGH9Y
   popularity: 7
-  url: https://open.spotify.com/artist/1ZdN8N7SDTxD0tTd3lGH9Y
+  url: 'https://open.spotify.com/artist/1ZdN8N7SDTxD0tTd3lGH9Y'
 discography_enriched: true
 top_tracks:
-- Petit Fleur (Louisiana Legends)
-- Gotta Make New Orleans (Luther)
-- Third Degree (Luther)
-- Blueberry Hill (Louisiana Legends)
-- All on a Mardi Gras Day (New Orleans Mardi Gras)
-- Mardi Gras Mambo (Iko Iko) (New Orleans Mardi Gras)
-- Go to the Mardi Gras (New Orleans Mardi Gras)
-- Go to the Mardi Gras (Louisiana Legends)
-- Tin Roof Blues (Louisiana Legends)
-- Sick and Tired (Louisiana Legends)
+  - Petit Fleur (Louisiana Legends)
+  - Gotta Make New Orleans (Luther)
+  - Third Degree (Luther)
+  - Blueberry Hill (Louisiana Legends)
+  - All on a Mardi Gras Day (New Orleans Mardi Gras)
+  - Mardi Gras Mambo (Iko Iko) (New Orleans Mardi Gras)
+  - Go to the Mardi Gras (New Orleans Mardi Gras)
+  - Go to the Mardi Gras (Louisiana Legends)
+  - Tin Roof Blues (Louisiana Legends)
+  - Sick and Tired (Louisiana Legends)
 external_urls:
-  spotify: https://open.spotify.com/artist/1ZdN8N7SDTxD0tTd3lGH9Y
-  wikipedia: https://en.wikipedia.org/wiki/Luther_Kent
+  spotify: 'https://open.spotify.com/artist/1ZdN8N7SDTxD0tTd3lGH9Y'
+  wikipedia: 'https://en.wikipedia.org/wiki/Luther_Kent'
 image_path: 03_Resources/source_material/ArtistPortraits/luther_kent.jpg
 biography_enhanced_at: '2025-11-14T10:40:49.990493'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.offbeat.com/news/luther-kent-1948-2024/
-- https://en.wikipedia.org/wiki/Luther_Kent
-- https://heartbeatofaplanet.com/musicians/luther-kent/
-- https://www.allaboutjazz.com/musicians/luther-kent/
-- https://www.soundsofblue.com/reviews/lutherkentinterview.htm
-- https://www.neworleans.com/listing/luther-kent/47872/
+  - 'https://www.offbeat.com/news/luther-kent-1948-2024/'
+  - 'https://en.wikipedia.org/wiki/Luther_Kent'
+  - 'https://heartbeatofaplanet.com/musicians/luther-kent/'
+  - 'https://www.allaboutjazz.com/musicians/luther-kent/'
+  - 'https://www.soundsofblue.com/reviews/lutherkentinterview.htm'
+  - 'https://www.neworleans.com/listing/luther-kent/47872/'
 network_extracted: true
 entry_created: '2025-11-14T10:40:49.990503'
 last_updated: '2025-12-23T08:16:12.393995'
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1948-06-23'
+artist_type: person
 ---
 
 ![](luther_kent.jpg)

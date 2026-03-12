@@ -3,45 +3,47 @@ biography_enhanced_at: '2026-01-10T01:05:28.478783'
 enhancement_provider: perplexity
 entry_created: '2026-01-10T01:05:28.478789'
 external_urls:
-  spotify: https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1
+  spotify: 'https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1'
   wikipedia: ''
 genres:
-- americana
-- alt country
+  - americana
+  - alt country
 image_path: 03_Resources/source_material/ArtistPortraits/the_deslondes.jpg
 last_updated: '2026-01-10T01:05:28.478790'
 musical_connections:
   collaborators:
-  - Hurray for the Riff Raff (Alynda Segarra)
-  - Alabama Shakes
-  - Broken Wing Routine
-  - The Longtime Goners
+    - Hurray for the Riff Raff (Alynda Segarra)
+    - Alabama Shakes
+    - Broken Wing Routine
+    - The Longtime Goners
   influenced:
-  - No specific artists reliably documented
+    - No specific artists reliably documented
   mentors:
-  - Woody Guthrie
-  - Fats Domino and Allen Toussaint
-  - Cast King and Abner Jay
+    - Woody Guthrie
+    - Fats Domino and Allen Toussaint
+    - Cast King and Abner Jay
 network_extracted: true
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- http://www.rocky-52.net/chanteursd/deslondes.htm
-- https://www.deslondes.com/about
-- https://www.dontrocktheinbox.com/meet-the-best-country-band-youre-not-listening-to-the-deslondes/
-- https://www.uncut.co.uk/features/an-interview-with-the-deslondes-68920/
-- https://motherchurchpew.com/2015/11/30/interview-with-the-deslondes/
-- https://www.countrystandardtime.com/d/article.asp?xid=1191
-- https://thebluegrasssituation.com/read/the-show-on-the-road-the-deslondes/
-- https://www.whereyat.com/the-deslondes
-- http://www.thesoutherncville.com/events/detail/the-deslondes
+  - 'http://www.rocky-52.net/chanteursd/deslondes.htm'
+  - 'https://www.deslondes.com/about'
+  - >-
+    https://www.dontrocktheinbox.com/meet-the-best-country-band-youre-not-listening-to-the-deslondes/
+  - 'https://www.uncut.co.uk/features/an-interview-with-the-deslondes-68920/'
+  - 'https://motherchurchpew.com/2015/11/30/interview-with-the-deslondes/'
+  - 'https://www.countrystandardtime.com/d/article.asp?xid=1191'
+  - 'https://thebluegrasssituation.com/read/the-show-on-the-road-the-deslondes/'
+  - 'https://www.whereyat.com/the-deslondes'
+  - 'http://www.thesoutherncville.com/events/detail/the-deslondes'
 spotify_data:
   followers: 41120
   id: 5nlQijI9hZ50keRqmLVov1
   popularity: 46
-  url: https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1
+  url: 'https://open.spotify.com/artist/5nlQijI9hZ50keRqmLVov1'
 status: active
 title: The Deslondes
+artist_type: band
 ---
 
 ![](the_deslondes.jpg)

@@ -1,16 +1,16 @@
 ---
-title: THE RED GARLAND QUINTET
+title: The Red Garland Quintet
 wiki_slug: the-red-garland-quintet
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- hard bop
-- jazz
-- bebop
+  - hard bop
+  - jazz
+  - bebop
 instruments:
-- tenor saxophone
-- drums (drum set)
+  - tenor saxophone
+  - drums (drum set)
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_red_garland_quintet.jpg
   caption: THE RED GARLAND QUINTET
@@ -30,87 +30,90 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Miles Davis
-  - John Coltrane
-  - Donald Byrd
-  - Jimmy Heath
-  - Philly Joe Jones
-  - Paul Chambers
-  - Other collaborators
+    - Miles Davis
+    - John Coltrane
+    - Donald Byrd
+    - Jimmy Heath
+    - Philly Joe Jones
+    - Paul Chambers
+    - Other collaborators
   influenced:
-  - Herbie Hancock
-  - McCoy Tyner
-  - Bill Evans
+    - Herbie Hancock
+    - McCoy Tyner
+    - Bill Evans
   mentors:
-  - Buster 'Prof' Smith
-  - John Lewis
-  - Lee Barnes
-  - Ahmad Jamal
+    - Buster 'Prof' Smith
+    - John Lewis
+    - Lee Barnes
+    - Ahmad Jamal
 spotify_data:
   followers: 8412
   id: 0JsWkl2GlMvsvCQzYUQQ97
   popularity: 16
-  url: https://open.spotify.com/artist/0JsWkl2GlMvsvCQzYUQQ97
+  url: 'https://open.spotify.com/artist/0JsWkl2GlMvsvCQzYUQQ97'
 discography_enriched: true
 top_tracks:
-- Crazy Rhythm - Instrumental (Dig It!)
-- Billie's Bounce (Another Side Of John Coltrane)
-- I've Got It Bad (And That Ain't Good) (Soul Junction)
-- Birks' Works (Soul Junction)
-- Billie's Bounce - RVG Remaster (Dig It! (RVG Remaster))
-- Soul Junction (Soul Junction)
-- Solitude (High Pressure)
-- Birks' Works (Soul Junction [Rudy Van Gelder edition])
-- What Is There To Say
-- Soul Junction (Soul Junction [Rudy Van Gelder edition])
+  - Crazy Rhythm - Instrumental (Dig It!)
+  - Billie's Bounce (Another Side Of John Coltrane)
+  - I've Got It Bad (And That Ain't Good) (Soul Junction)
+  - Birks' Works (Soul Junction)
+  - Billie's Bounce - RVG Remaster (Dig It! (RVG Remaster))
+  - Soul Junction (Soul Junction)
+  - Solitude (High Pressure)
+  - 'Birks'' Works (Soul Junction [Rudy Van Gelder edition])'
+  - What Is There To Say
+  - 'Soul Junction (Soul Junction [Rudy Van Gelder edition])'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a5944490-231e-485a-9baf-6d056a9733a3
-  spotify: https://open.spotify.com/artist/0JsWkl2GlMvsvCQzYUQQ97
-  wikipedia: https://en.wikipedia.org/wiki/Red_Garland
+  musicbrainz: 'https://musicbrainz.org/artist/a5944490-231e-485a-9baf-6d056a9733a3'
+  spotify: 'https://open.spotify.com/artist/0JsWkl2GlMvsvCQzYUQQ97'
+  wikipedia: 'https://en.wikipedia.org/wiki/Red_Garland'
 image_path: 03_Resources/source_material/ArtistPortraits/the_red_garland_quintet.jpg
 biography_enhanced_at: '2025-11-11T09:24:34.338842'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.tshaonline.org/handbook/entries/garland-william-m-red
-- https://mps-music.com/artists/4105/
-- https://en.wikipedia.org/wiki/Red_Garland
-- https://aaregistry.org/story/red-garland-jazz-pianist-born/
+  - 'https://www.tshaonline.org/handbook/entries/garland-william-m-red'
+  - 'https://mps-music.com/artists/4105/'
+  - 'https://en.wikipedia.org/wiki/Red_Garland'
+  - 'https://aaregistry.org/story/red-garland-jazz-pianist-born/'
 network_extracted: true
 entry_created: '2025-11-11T09:24:34.338845'
 last_updated: '2025-12-23T08:16:17.099773'
 members:
-- begin: '1957'
-  end: '1957'
-  instruments:
-  - tenor saxophone
-  mbid: b625448e-bf4a-41c3-a421-72ad46cdb831
-  name: John Coltrane
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 69f95e5c-4b34-4c8b-b8fe-c59f9296195a
-  name: Donald Byrd
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d9399921-2d82-437e-825e-16daff591a0c
-  name: Red Garland
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 35a92228-a559-4235-99ee-bb92bb970e3e
-  name: Art Taylor
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a2fddd8d-a030-4994-aa1c-c50b021ce988
-  name: George Joyner
+  - begin: '1957'
+    end: '1957'
+    instruments:
+      - tenor saxophone
+    mbid: b625448e-bf4a-41c3-a421-72ad46cdb831
+    name: John Coltrane
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 69f95e5c-4b34-4c8b-b8fe-c59f9296195a
+    name: Donald Byrd
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d9399921-2d82-437e-825e-16daff591a0c
+    name: Red Garland
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 35a92228-a559-4235-99ee-bb92bb970e3e
+    name: Art Taylor
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a2fddd8d-a030-4994-aa1c-c50b021ce988
+    name: George Joyner
 musicbrainz_id: a5944490-231e-485a-9baf-6d056a9733a3
-origin: Dallas, Texas, United States
+origin: 'Dallas, Texas, United States'
 tags:
-- jazz
+  - jazz
+birth_place: 'Dallas, Texas, United States'
+birth_date: '1923-05-13'
+death_date: '1984-04-23'
 ---
 
 ![](the_red_garland_quintet.jpg)

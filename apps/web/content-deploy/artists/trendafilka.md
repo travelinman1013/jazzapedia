@@ -1,8 +1,8 @@
 ---
-title: TRENDAFILKA
+title: Trendafilka
 wiki_slug: trendafilka
 schema_version: 2
-artist_type: choir
+artist_type: band
 status: active
 genres: []
 infobox:
@@ -24,48 +24,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Misha Kachkachishvili
-  - New Orleans Jazz & Heritage Foundation
-  - Threadhead Cultural Foundation
+    - Misha Kachkachishvili
+    - New Orleans Jazz & Heritage Foundation
+    - Threadhead Cultural Foundation
   influenced: []
   mentors: []
 spotify_data:
   followers: 454
   id: 1V6a8CkSqjUBJwWhYemNpD
   popularity: 3
-  url: https://open.spotify.com/artist/1V6a8CkSqjUBJwWhYemNpD
+  url: 'https://open.spotify.com/artist/1V6a8CkSqjUBJwWhYemNpD'
 discography_enriched: true
 top_tracks:
-- Ergen Deda (Under, Over)
-- Chichovite Konye (For the Olives)
-- Devoiko Mari Hubava (Under, Over)
-- Oi Na Ivana Na Kupala (For the Olives)
-- Zaspalo E Chelebiche (For the Olives)
-- Slanchitse Milo, Mamino (Under, Over)
-- Vdova (Under, Over)
-- Oi Mori Kavale (Under, Over)
-- Ederlezi (Under, Over)
-- Kaval Sviri (Under, Over)
+  - 'Ergen Deda (Under, Over)'
+  - Chichovite Konye (For the Olives)
+  - 'Devoiko Mari Hubava (Under, Over)'
+  - Oi Na Ivana Na Kupala (For the Olives)
+  - Zaspalo E Chelebiche (For the Olives)
+  - 'Slanchitse Milo, Mamino (Under, Over)'
+  - 'Vdova (Under, Over)'
+  - 'Oi Mori Kavale (Under, Over)'
+  - 'Ederlezi (Under, Over)'
+  - 'Kaval Sviri (Under, Over)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7b94dd2f-454c-4dad-a1d4-822de0cf4dfa
-  spotify: https://open.spotify.com/artist/1V6a8CkSqjUBJwWhYemNpD
+  musicbrainz: 'https://musicbrainz.org/artist/7b94dd2f-454c-4dad-a1d4-822de0cf4dfa'
+  spotify: 'https://open.spotify.com/artist/1V6a8CkSqjUBJwWhYemNpD'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/trendafilka.jpg
 biography_enhanced_at: '2025-12-12T12:03:19.843823'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- 'Official site: trendafilka.com (about page and member bios)[1]'
-- World Music Central feature on *For the Olives*[2]
-- Trendafilka EPK (electronic press kit)[3]
-- New Marigny Theatre event description[4]
-- ANTIGRAVITY Magazine review of *Under, Over*[5]
-- A Green Man Review article on *For the Olives*[6]
+  - 'Official site: trendafilka.com (about page and member bios)[1]'
+  - 'World Music Central feature on *For the Olives*[2]'
+  - 'Trendafilka EPK (electronic press kit)[3]'
+  - 'New Marigny Theatre event description[4]'
+  - 'ANTIGRAVITY Magazine review of *Under, Over*[5]'
+  - 'A Green Man Review article on *For the Olives*[6]'
 network_extracted: true
 entry_created: '2025-12-12T12:03:19.843834'
 last_updated: '2025-12-23T08:16:17.687891'
 musicbrainz_id: 7b94dd2f-454c-4dad-a1d4-822de0cf4dfa
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](trendafilka.jpg)

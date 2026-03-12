@@ -2,7 +2,7 @@
 title: TCR
 wiki_slug: tcr
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 genres: []
 infobox:
@@ -24,48 +24,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - TC Smith
-  - Chris Vrenna
-  - Scott Putesky (Daisy Berkowitz)
-  - method (Godhead)
+    - TC Smith
+    - Chris Vrenna
+    - Scott Putesky (Daisy Berkowitz)
+    - method (Godhead)
   influenced:
-  - Poppy
+    - Poppy
   mentors:
-  - Jessicka Addams
+    - Jessicka Addams
 spotify_data:
   followers: 1395
   id: 30BPxs3U2ThD634xBuTRNZ
   popularity: 3
-  url: https://open.spotify.com/artist/30BPxs3U2ThD634xBuTRNZ
+  url: 'https://open.spotify.com/artist/30BPxs3U2ThD634xBuTRNZ'
 discography_enriched: true
 top_tracks:
-- Longoko Ô
-- Tengo Que Beber (TCR)
-- Un Domingo de Sol (TCR)
-- Es Pop (TCR)
-- Hasta Qué Punto (Paro, Siesta, Días de Fiesta)
-- De la 'A'a la 'Z' (Paro, Siesta, Días de Fiesta)
-- Ariadna Nos Parece Más Bien Normalita y Fuera de Onda (Paro, Siesta, Días de Fiesta)
-- Salva Mi Navidad (TCR)
-- Pues Yo Creo Sinceramente Que No Se Cambia (TCR)
-- Colecciono Caras Tristes (TCR)
+  - Longoko Ô
+  - Tengo Que Beber (TCR)
+  - Un Domingo de Sol (TCR)
+  - Es Pop (TCR)
+  - 'Hasta Qué Punto (Paro, Siesta, Días de Fiesta)'
+  - 'De la ''A''a la ''Z'' (Paro, Siesta, Días de Fiesta)'
+  - >-
+    Ariadna Nos Parece Más Bien Normalita y Fuera de Onda (Paro, Siesta, Días de
+    Fiesta)
+  - Salva Mi Navidad (TCR)
+  - Pues Yo Creo Sinceramente Que No Se Cambia (TCR)
+  - Colecciono Caras Tristes (TCR)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/969638f4-3d24-47ca-a6a7-3b34b764b08e
-  spotify: https://open.spotify.com/artist/30BPxs3U2ThD634xBuTRNZ
-  wikipedia: https://en.wikipedia.org/wiki/Robin_Moulder
+  musicbrainz: 'https://musicbrainz.org/artist/969638f4-3d24-47ca-a6a7-3b34b764b08e'
+  spotify: 'https://open.spotify.com/artist/30BPxs3U2ThD634xBuTRNZ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Robin_Moulder'
 image_path: 03_Resources/source_material/ArtistPortraits/tcr.jpg
 biography_enhanced_at: '2025-11-01T15:35:14.400347'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Robin_Moulder
-- https://en.wikipedia.org/wiki/TC_Smith
+  - 'https://en.wikipedia.org/wiki/Robin_Moulder'
+  - 'https://en.wikipedia.org/wiki/TC_Smith'
 network_extracted: true
 entry_created: '2025-11-01T15:35:14.400368'
 last_updated: '2025-12-23T08:16:16.406830'
-disambiguation: Total Racing Control, band from Barcelona
+disambiguation: 'Total Racing Control, band from Barcelona'
 musicbrainz_id: 969638f4-3d24-47ca-a6a7-3b34b764b08e
-origin: Barcelona
+origin: 'Barcelona, Spain, Country'
 ---
 
 ![](tcr.jpg)

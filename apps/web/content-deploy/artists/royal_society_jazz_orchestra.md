@@ -3,43 +3,45 @@ biography_enhanced_at: '2026-01-04T01:52:54.150512'
 enhancement_provider: perplexity
 entry_created: '2026-01-04T01:52:54.150516'
 external_urls:
-  spotify: https://open.spotify.com/artist/6Q0zCMNKdEphW5JKfMjxCX
+  spotify: 'https://open.spotify.com/artist/6Q0zCMNKdEphW5JKfMjxCX'
   wikipedia: ''
 genres:
-- ragtime
+  - ragtime
 image_path: 03_Resources/source_material/ArtistPortraits/royal_society_jazz_orchestra.jpg
 last_updated: '2026-01-04T01:52:54.150517'
 musical_connections:
   collaborators:
-  - Carla Normand
-  - Frederick Hodges
-  - Marty Eggers
-  - Bob Neighbor
-  - Kent Fiske
-  - Brent Kirkpatrick
-  - Jeff Gilbert
+    - Carla Normand
+    - Frederick Hodges
+    - Marty Eggers
+    - Bob Neighbor
+    - Kent Fiske
+    - Brent Kirkpatrick
+    - Jeff Gilbert
   influenced:
-  - Dean Mora
-  - Alex Mendham
+    - Dean Mora
+    - Alex Mendham
   mentors:
-  - Brian Rust
-  - David Fowler
-  - Ellen Farmer
+    - Brian Rust
+    - David Fowler
+    - Ellen Farmer
 network_extracted: true
-origin: San Francisco Bay Area, California, USA
+origin: 'San Francisco Bay Area, California, USA'
 primary_source: perplexity
 research_sources:
-- https://syncopatedtimes.com/royal-society-jazz-orchestra-bids-farewell-after-five-decades-of-great-music/
-- https://syncopatedtimes.com/don-neelys-royal-society-jazzes-on/
-- https://royalsocietyjazzorchestra.com/about.html
-- https://royalsocietyjazzorchestra.com
+  - >-
+    https://syncopatedtimes.com/royal-society-jazz-orchestra-bids-farewell-after-five-decades-of-great-music/
+  - 'https://syncopatedtimes.com/don-neelys-royal-society-jazzes-on/'
+  - 'https://royalsocietyjazzorchestra.com/about.html'
+  - 'https://royalsocietyjazzorchestra.com'
 spotify_data:
   followers: 292
   id: 6Q0zCMNKdEphW5JKfMjxCX
   popularity: 6
-  url: https://open.spotify.com/artist/6Q0zCMNKdEphW5JKfMjxCX
+  url: 'https://open.spotify.com/artist/6Q0zCMNKdEphW5JKfMjxCX'
 status: active
 title: Royal Society Jazz Orchestra
+artist_type: band
 ---
 
 ![](royal_society_jazz_orchestra.jpg)

@@ -3,20 +3,24 @@ title: Marc Stone
 wiki_slug: marc-stone
 schema_version: 2
 status: active
-birth_place: New York City, New York, USA (birthplace); New Orleans, Louisiana, USA (primary career base)
+birth_place: >-
+  New York City, New York, USA (birthplace); New Orleans, Louisiana, USA
+  (primary career base)
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Marc_Stone.jpg
   caption: Marc Stone
   background: solo_singer
-  origin: New York City, New York, USA (birthplace); New Orleans, Louisiana, USA (primary career base)
+  origin: >-
+    New York City, New York, USA (birthplace); New Orleans, Louisiana, USA
+    (primary career base)
 audio_profile:
-  tempo_avg: 129.0
+  tempo_avg: 129
   energy_avg: 0.428
   valence_avg: 0.393
   danceability_avg: 0.756
   acousticness_avg: 0.189
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -11.5
   speechiness_avg: 0.317
   liveness_avg: 0.127
@@ -25,55 +29,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - C.J. Chenier
-  - Eddie Bo
-  - Marva Wright
-  - Terrance Simien
-  - John Mooney
-  - George Porter Trio
-  - Joy Clark
-  - Campbell Brothers
+    - C.J. Chenier
+    - Eddie Bo
+    - Marva Wright
+    - Terrance Simien
+    - John Mooney
+    - George Porter Trio
+    - Joy Clark
+    - Campbell Brothers
   influenced:
-  - Emerging New Orleans roots musicians
+    - Emerging New Orleans roots musicians
   mentors:
-  - Johnny Allen
-  - Jerry Dugger
-  - Bill Sims
+    - Johnny Allen
+    - Jerry Dugger
+    - Bill Sims
 spotify_data:
   followers: 31
   id: 2w82mtY373AspTbVCtbAcN
   popularity: 2
-  url: https://open.spotify.com/artist/2w82mtY373AspTbVCtbAcN
+  url: 'https://open.spotify.com/artist/2w82mtY373AspTbVCtbAcN'
 discography_enriched: true
 top_tracks:
-- Humble - Remix (Trapping A Sport)
-- A Hunnid (Lonely Road)
-- Windit (Lonely Road)
-- Bowls & Bells (TURNT THEN A BIH)
-- Story (PAROXETINE)
-- HOURS (The Come Up!, Vol. 1)
-- Sweet Lovin (The Come Up!, Vol. 1)
-- HIGH SCHOOL (The Come Up!, Vol. 1)
-- The Underdogs (The Come Up!, Vol. 1)
-- Wake Me Up (The Come Up!, Vol. 1)
+  - Humble - Remix (Trapping A Sport)
+  - A Hunnid (Lonely Road)
+  - Windit (Lonely Road)
+  - Bowls & Bells (TURNT THEN A BIH)
+  - Story (PAROXETINE)
+  - 'HOURS (The Come Up!, Vol. 1)'
+  - 'Sweet Lovin (The Come Up!, Vol. 1)'
+  - 'HIGH SCHOOL (The Come Up!, Vol. 1)'
+  - 'The Underdogs (The Come Up!, Vol. 1)'
+  - 'Wake Me Up (The Come Up!, Vol. 1)'
 external_urls:
-  spotify: https://open.spotify.com/artist/2w82mtY373AspTbVCtbAcN
+  spotify: 'https://open.spotify.com/artist/2w82mtY373AspTbVCtbAcN'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/Marc_Stone.jpg
 biography_enhanced_at: '2025-10-19T11:34:19.435445'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://www.marcstonemusic.com/113006/bio.htm
-- https://livemusicnewsandreview.com/2021/09/marc-stone-roots-revitalizer/
-- https://thefunkyuncle.live/artist/john-mooney-marc-stone/
-- https://www.wwoz.org/acts/marc-stone
-- https://musicmecca.org/marc-stone-delivers-soulful-new-orleans-energy-words-of-wisdom-on-latest-album-shining-like-a-diamond/
-- https://lrhr.dreamhosters.com/wp/?p=331
-- https://www.offbeat.com/music/marc-stone-poison-medicine-louisiana-red-hot-records/
+  - 'http://www.marcstonemusic.com/113006/bio.htm'
+  - 'https://livemusicnewsandreview.com/2021/09/marc-stone-roots-revitalizer/'
+  - 'https://thefunkyuncle.live/artist/john-mooney-marc-stone/'
+  - 'https://www.wwoz.org/acts/marc-stone'
+  - >-
+    https://musicmecca.org/marc-stone-delivers-soulful-new-orleans-energy-words-of-wisdom-on-latest-album-shining-like-a-diamond/
+  - 'https://lrhr.dreamhosters.com/wp/?p=331'
+  - >-
+    https://www.offbeat.com/music/marc-stone-poison-medicine-louisiana-red-hot-records/
 network_extracted: true
 entry_created: '2025-10-19T11:34:19.435455'
 last_updated: '2025-12-23T08:16:03.157966'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](Marc_Stone.jpg)

@@ -2,15 +2,15 @@
 title: Crow Black Chicken
 wiki_slug: crow-black-chicken
 schema_version: 2
-artist_type: Group
+artist_type: person
 status: active
 aliases: []
 birth_date: '2009'
 years_active: 2009&ndash;present
 genres:
-- blues rock
-- modern blues
-- blues
+  - blues rock
+  - modern blues
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Crow_Black_Chicken.jpg
   caption: Crow Black Chicken
@@ -31,61 +31,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - George Reiff
-  - Stephen Parker
-  - Christian Volkmann
-  - Mark Walsh
-  - Philip Magee
+    - George Reiff
+    - Stephen Parker
+    - Christian Volkmann
+    - Mark Walsh
+    - Philip Magee
   influenced:
-  - Irish blues-rock acts (unspecified)
+    - Irish blues-rock acts (unspecified)
   mentors:
-  - Muddy Waters
-  - Rory Gallagher
-  - Ray Wylie Hubbard
+    - Muddy Waters
+    - Rory Gallagher
+    - Ray Wylie Hubbard
 related_artists: []
 spotify_data:
   followers: 3348
   id: 6fnHEWCgo0NKcvD1kyfSDp
   popularity: 15
-  url: https://open.spotify.com/artist/6fnHEWCgo0NKcvD1kyfSDp
+  url: 'https://open.spotify.com/artist/6fnHEWCgo0NKcvD1kyfSDp'
   verified: false
 discography_enriched: true
 albums_count: 6
 singles_count: 2
 top_tracks:
-- Make It Right (Make It Right)
-- Hot Molasses (Ghost Dance)
-- The Longest Time (Ghost Dance)
-- Make It Right (Ghost Dance)
-- Terlingua (Ghost Dance)
-- Heavy Rain (Ghost Dance)
-- Fire And Blood (Ghost Dance)
-- Bottom Feeders (Ghost Dance)
-- Dark Matters (Ghost Dance)
-- Rumble Shake (Rumble Shake)
+  - Make It Right (Make It Right)
+  - Hot Molasses (Ghost Dance)
+  - The Longest Time (Ghost Dance)
+  - Make It Right (Ghost Dance)
+  - Terlingua (Ghost Dance)
+  - Heavy Rain (Ghost Dance)
+  - Fire And Blood (Ghost Dance)
+  - Bottom Feeders (Ghost Dance)
+  - Dark Matters (Ghost Dance)
+  - Rumble Shake (Rumble Shake)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/bb8a9713-1b72-4056-9ad8-da0458c98f47
-  spotify: https://open.spotify.com/artist/6fnHEWCgo0NKcvD1kyfSDp
-  wikipedia: https://en.wikipedia.org/wiki/Crow_Black_Chicken
+  musicbrainz: 'https://musicbrainz.org/artist/bb8a9713-1b72-4056-9ad8-da0458c98f47'
+  spotify: 'https://open.spotify.com/artist/6fnHEWCgo0NKcvD1kyfSDp'
+  wikipedia: 'https://en.wikipedia.org/wiki/Crow_Black_Chicken'
 image_path: 03_Resources/source_material/ArtistPortraits/Crow_Black_Chicken.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:14:32.628165'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Crow_Black_Chicken
-- http://irishmusicdb.com/c/crowblackchicken/band_biography.htm
-- https://mikemcgb.com/2016/07/11/crow-black-chicken-brothers-in-blues/
-- https://crowblackchicken.com/about/
+  - 'https://en.wikipedia.org/wiki/Crow_Black_Chicken'
+  - 'http://irishmusicdb.com/c/crowblackchicken/band_biography.htm'
+  - 'https://mikemcgb.com/2016/07/11/crow-black-chicken-brothers-in-blues/'
+  - 'https://crowblackchicken.com/about/'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 11:48:29.956214
+entry_created: 2025-09-18T11:48:29.956Z
 last_updated: '2025-12-23T08:16:07.310799'
 musicbrainz_enriched_at: '2025-10-21T09:51:21.768031'
 musicbrainz_id: bb8a9713-1b72-4056-9ad8-da0458c98f47
-origin: Cork and Clonmel, County Tipperary, Ireland
+origin: 'Cork and Clonmel, Ireland'
 tags:
-- blues rock
+  - blues rock
 ---
 
 ![](Crow_Black_Chicken.jpg)

@@ -3,13 +3,17 @@ title: James Singleton
 wiki_slug: james-singleton
 schema_version: 2
 status: active
-birth_place: Chicago, Illinois, United States (birthplace); New Orleans, Louisiana, United States (primary career location)
+birth_place: >-
+  Chicago, Illinois, United States (birthplace); New Orleans, Louisiana, United
+  States (primary career location)
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/James_Singleton.jpg
   caption: James Singleton
   background: solo_singer
-  origin: Chicago, Illinois, United States (birthplace); New Orleans, Louisiana, United States (primary career location)
+  origin: >-
+    Chicago, Illinois, United States (birthplace); New Orleans, Louisiana,
+    United States (primary career location)
 audio_profile:
   tempo_avg: 120.5
   energy_avg: 0.51
@@ -25,50 +29,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ellis Marsalis
-  - James Booker
-  - Astral Project (Johnny Vidacovich, Tony Dagradi, Steve Masakowski)
-  - John Scofield
-  - Chet Baker
-  - Big Freedia
+    - Ellis Marsalis
+    - James Booker
+    - 'Astral Project (Johnny Vidacovich, Tony Dagradi, Steve Masakowski)'
+    - John Scofield
+    - Chet Baker
+    - Big Freedia
   influenced:
-  - Justin Peake
-  - Cliff Hines
+    - Justin Peake
+    - Cliff Hines
   mentors:
-  - Clarence 'Gatemouth' Brown
+    - Clarence 'Gatemouth' Brown
 spotify_data:
   followers: 1
   id: 7fg2622RmkMq7sA8ZJjM56
   popularity: 0
-  url: https://open.spotify.com/artist/7fg2622RmkMq7sA8ZJjM56
+  url: 'https://open.spotify.com/artist/7fg2622RmkMq7sA8ZJjM56'
 discography_enriched: true
 top_tracks:
-- New Orleans Mambo (Mystery Street)
-- Out da Box (Mystery Street)
-- Mystery Street (Mystery Street)
-- Little Joe / Carnival (Mystery Street)
-- Squeezin' (Mystery Street)
-- Skypager (Mystery Street)
-- Dr. Watson (Mystery Street)
-- Gentilly Lilly (Mystery Street)
-- Dr. Moon (Mystery Street)
-- The Arrival (Mystery Street)
+  - New Orleans Mambo (Mystery Street)
+  - Out da Box (Mystery Street)
+  - Mystery Street (Mystery Street)
+  - Little Joe / Carnival (Mystery Street)
+  - Squeezin' (Mystery Street)
+  - Skypager (Mystery Street)
+  - Dr. Watson (Mystery Street)
+  - Gentilly Lilly (Mystery Street)
+  - Dr. Moon (Mystery Street)
+  - The Arrival (Mystery Street)
 external_urls:
-  spotify: https://open.spotify.com/artist/7fg2622RmkMq7sA8ZJjM56
+  spotify: 'https://open.spotify.com/artist/7fg2622RmkMq7sA8ZJjM56'
   wikipedia: ''
 image_path: ''
 biography_enhanced_at: '2025-10-20T10:09:27.643441'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://birdfootfestival.org/artist/james-singleton/
-- https://ww1.namm.org/library/oral-history/james-singleton
-- https://www.notreble.com/buzz/2018/04/26/nolabass-an-interview-with-james-singleton/
-- https://antigravitymagazine.com/feature/james-singleton-my-life-is-a-distortion/
-- https://www.neworleans.com/event/james-singleton-&-friends/173263/
+  - 'https://birdfootfestival.org/artist/james-singleton/'
+  - 'https://ww1.namm.org/library/oral-history/james-singleton'
+  - >-
+    https://www.notreble.com/buzz/2018/04/26/nolabass-an-interview-with-james-singleton/
+  - >-
+    https://antigravitymagazine.com/feature/james-singleton-my-life-is-a-distortion/
+  - 'https://www.neworleans.com/event/james-singleton-&-friends/173263/'
 network_extracted: true
 entry_created: '2025-10-20T10:09:27.643458'
 last_updated: '2025-12-23T08:16:02.453452'
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1955'
+artist_type: person
 ---
 
 ![]()

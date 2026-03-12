@@ -1,235 +1,238 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 2b991c03-2419-4bc5-a861-ee548725e881
-  name: Coleman Hawkins Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9e0bec6b-086b-4492-9cb2-497e426ebe90
-  name: Michel Warlop et son orchestre
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: eff3a96c-ac14-4e9e-a812-f95be0d62ca3
-  name: Coleman Hawkins Septet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 9ec34d3f-d3fd-4c05-93df-900472d30a62
-  name: Henry Allen - Coleman Hawkins and Their Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: c75b5671-935f-4f20-959f-bb23980a890e
-  name: Coleman Hawkins and His Sax Ensemble
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 701275bf-1d03-4b11-ac99-65b8b2b2a037
-  name: Coleman Hawkins’ Swing Four
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 3dd03315-36f7-4c37-8244-a9f9f6d990e2
-  name: Coleman Hawkins’ All American Four
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: c9f5e8cf-881b-4bd8-8aa9-8481a3fb8773
-  name: Coleman Hawkins Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 4e4ba2d2-46d5-46ae-b9ba-a650c3ea89a8
-  name: Coleman Hawkins’ 52nd Street All Stars
-- begin: ''
-  end: ''
-  instruments:
-  - tenor saxophone
-  mbid: 51fe321e-5ad0-4dd1-a5c3-3e773688cdf8
-  name: Thelonious Monk Septet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5d5e9bc9-5ded-40c3-b29c-01de0f8309b2
-  name: Benny Carter and His Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - tenor saxophone
-  mbid: fcfd6dd1-84cf-4a16-863d-7350eadc7523
-  name: Charlie Shavers’ All American Five
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 91d9051e-3a6d-4254-9149-7fd72125700b
-  name: Cozy Cole All Stars
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8b24d647-f57d-486c-b945-0fe8847f962d
-  name: Esquire All-American Award Winners
-- begin: ''
-  end: ''
-  instruments:
-  - tenor saxophone
-  mbid: 6e6170a4-31c6-4cae-a3f9-f0db3b9f5892
-  name: Fletcher Henderson and His Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c9e59b41-a6ef-436b-b80a-f595347f87a9
-  name: Jack Purvis and His Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e0da639b-0bfb-4ac3-b128-5eb46dfe0b9a
-  name: Lionel Hampton and His Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a33419ce-40d2-4431-9e5e-0ae0918df0dd
-  name: Mamie Smith and Her Jazz Hounds
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 16f74a5b-bb94-4025-93e4-ca56ece9f947
-  name: McKinney’s Cotton Pickers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3313a8ad-c6be-418e-8737-a465c822d0f4
-  name: Metronome All Stars
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bd414bf2-f546-417d-ba28-fb34fa0b5901
-  name: Spike Hughes and His Negro Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b921b793-c924-4c29-93af-39ed7e1f9f12
-  name: The Capitol Jazzmen
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f0cc5e2e-a2b3-4e38-b641-4dabe32c136d
-  name: The Chocolate Dandies
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f3d4060d-af2b-47de-b72e-7bccbcc93e01
-  name: The Dixie Stompers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 69d24317-1d5f-4c4b-8f76-d61ea2808f4f
-  name: Mound City Blue Blowers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 93a7ed83-4497-4e38-bedf-d4d57b4eba1d
-  name: The Prestige All Stars
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2ecbb940-9d9a-49aa-8643-32376301056d
-  name: Fletcher Henderson and His Club Alabam Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 2b991c03-2419-4bc5-a861-ee548725e881
+    name: Coleman Hawkins Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9e0bec6b-086b-4492-9cb2-497e426ebe90
+    name: Michel Warlop et son orchestre
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: eff3a96c-ac14-4e9e-a812-f95be0d62ca3
+    name: Coleman Hawkins Septet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 9ec34d3f-d3fd-4c05-93df-900472d30a62
+    name: Henry Allen - Coleman Hawkins and Their Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: c75b5671-935f-4f20-959f-bb23980a890e
+    name: Coleman Hawkins and His Sax Ensemble
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 701275bf-1d03-4b11-ac99-65b8b2b2a037
+    name: Coleman Hawkins’ Swing Four
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 3dd03315-36f7-4c37-8244-a9f9f6d990e2
+    name: Coleman Hawkins’ All American Four
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: c9f5e8cf-881b-4bd8-8aa9-8481a3fb8773
+    name: Coleman Hawkins Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 4e4ba2d2-46d5-46ae-b9ba-a650c3ea89a8
+    name: Coleman Hawkins’ 52nd Street All Stars
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: 51fe321e-5ad0-4dd1-a5c3-3e773688cdf8
+    name: Thelonious Monk Septet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5d5e9bc9-5ded-40c3-b29c-01de0f8309b2
+    name: Benny Carter and His Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: fcfd6dd1-84cf-4a16-863d-7350eadc7523
+    name: Charlie Shavers’ All American Five
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 91d9051e-3a6d-4254-9149-7fd72125700b
+    name: Cozy Cole All Stars
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8b24d647-f57d-486c-b945-0fe8847f962d
+    name: Esquire All-American Award Winners
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: 6e6170a4-31c6-4cae-a3f9-f0db3b9f5892
+    name: Fletcher Henderson and His Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c9e59b41-a6ef-436b-b80a-f595347f87a9
+    name: Jack Purvis and His Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e0da639b-0bfb-4ac3-b128-5eb46dfe0b9a
+    name: Lionel Hampton and His Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a33419ce-40d2-4431-9e5e-0ae0918df0dd
+    name: Mamie Smith and Her Jazz Hounds
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 16f74a5b-bb94-4025-93e4-ca56ece9f947
+    name: McKinney’s Cotton Pickers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3313a8ad-c6be-418e-8737-a465c822d0f4
+    name: Metronome All Stars
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bd414bf2-f546-417d-ba28-fb34fa0b5901
+    name: Spike Hughes and His Negro Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b921b793-c924-4c29-93af-39ed7e1f9f12
+    name: The Capitol Jazzmen
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f0cc5e2e-a2b3-4e38-b641-4dabe32c136d
+    name: The Chocolate Dandies
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f3d4060d-af2b-47de-b72e-7bccbcc93e01
+    name: The Dixie Stompers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 69d24317-1d5f-4c4b-8f76-d61ea2808f4f
+    name: Mound City Blue Blowers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 93a7ed83-4497-4e38-bedf-d4d57b4eba1d
+    name: The Prestige All Stars
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2ecbb940-9d9a-49aa-8643-32376301056d
+    name: Fletcher Henderson and His Club Alabam Orchestra
 biography_enhanced_at: '2026-01-22T07:27:00.382111'
 birth_date: '1904-11-21'
-birth_place: Missouri
+birth_place: 'Missouri, United States'
 death_date: '1969-05-19'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:27:00.382149'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5c8cb181-38fe-4300-8153-650b2ed0258f
-  spotify: https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0
-  wikipedia: https://en.wikipedia.org/wiki/Coleman_Hawkins
+  musicbrainz: 'https://musicbrainz.org/artist/5c8cb181-38fe-4300-8153-650b2ed0258f'
+  spotify: 'https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0'
+  wikipedia: 'https://en.wikipedia.org/wiki/Coleman_Hawkins'
 gender: Male
 genres:
-- jazz
-- jazz ballads
-- bebop
-- cool jazz
-- hard bop
+  - jazz
+  - jazz ballads
+  - bebop
+  - cool jazz
+  - hard bop
 image_path: 03_Resources/source_material/ArtistPortraits/coleman_hawkins.jpg
 instruments:
-- eponymous
-- original
-- tenor saxophone
+  - eponymous
+  - original
+  - tenor saxophone
 last_updated: '2026-01-22T07:27:00.382150'
 musical_connections:
   collaborators:
-  - Thelonious Monk
-  - John Coltrane
-  - Dizzy Gillespie
-  - Oscar Pettiford
-  - Max Roach
-  - Duke Ellington
-  - Sonny Rollins
-  - Randy Weston
-  - Roy Eldridge
+    - Thelonious Monk
+    - John Coltrane
+    - Dizzy Gillespie
+    - Oscar Pettiford
+    - Max Roach
+    - Duke Ellington
+    - Sonny Rollins
+    - Randy Weston
+    - Roy Eldridge
   influenced:
-  - Chu Berry
-  - Ben Webster
-  - Don Byas
-  - Charlie Barnet
-  - Tex Beneke
-  - Herschel Evans
-  - Buddy Tate
-  - Illinois Jacquet
-  - Sonny Rollins
-  - Arnett Cobb
-  - Flip Phillips
-  - Ike Quebec
-  - Al Sears
-  - Paul Gonsalves
-  - Lucky Thompson
+    - Chu Berry
+    - Ben Webster
+    - Don Byas
+    - Charlie Barnet
+    - Tex Beneke
+    - Herschel Evans
+    - Buddy Tate
+    - Illinois Jacquet
+    - Sonny Rollins
+    - Arnett Cobb
+    - Flip Phillips
+    - Ike Quebec
+    - Al Sears
+    - Paul Gonsalves
+    - Lucky Thompson
   mentors:
-  - Louis Armstrong
-  - Fletcher Henderson
+    - Louis Armstrong
+    - Fletcher Henderson
 musicbrainz_id: 5c8cb181-38fe-4300-8153-650b2ed0258f
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Coleman_Hawkins
-- https://jazzprofiles.blogspot.com/2015/02/coleman-hawkins-and-jazz-tradition.html
-- https://syncopatedtimes.com/profiles-in-jazz-coleman-hawkins/
-- https://historicmissourians.shsmo.org/coleman-hawkins/
-- https://www.ohjeanrecords.com/blogs/news/coleman-hawkins-biography
-- https://www.mosaicrecords.com/the-great-jazz-artists/coleman-hawkins/
-- https://concord.com/artist/coleman-hawkins/
-- https://adp.library.ucsb.edu/index.php/mastertalent/detail/103427/Hawkins_Coleman
+  - 'https://en.wikipedia.org/wiki/Coleman_Hawkins'
+  - >-
+    https://jazzprofiles.blogspot.com/2015/02/coleman-hawkins-and-jazz-tradition.html
+  - 'https://syncopatedtimes.com/profiles-in-jazz-coleman-hawkins/'
+  - 'https://historicmissourians.shsmo.org/coleman-hawkins/'
+  - 'https://www.ohjeanrecords.com/blogs/news/coleman-hawkins-biography'
+  - 'https://www.mosaicrecords.com/the-great-jazz-artists/coleman-hawkins/'
+  - 'https://concord.com/artist/coleman-hawkins/'
+  - >-
+    https://adp.library.ucsb.edu/index.php/mastertalent/detail/103427/Hawkins_Coleman
 spotify_data:
   followers: 152409
   id: 0JM134st8VY7Ld9T2wQiH0
   popularity: 53
-  url: https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0
+  url: 'https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0'
 status: active
 tags:
-- 2008 universal fire victim
-- american
-- bebop
-title: coleman hawkins
+  - 2008 universal fire victim
+  - american
+  - bebop
+title: Coleman Hawkins
+is_active: false
 ---
 
 ![](coleman_hawkins.jpg)

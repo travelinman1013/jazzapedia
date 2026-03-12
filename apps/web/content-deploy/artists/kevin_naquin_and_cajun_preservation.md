@@ -1,57 +1,59 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-01-19T01:08:27.918488'
 enhancement_provider: perplexity
 entry_created: '2026-01-19T01:08:27.918495'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/924f6e96-d97e-4964-b6a0-4bd8d7e12f11
-  spotify: https://open.spotify.com/artist/2ZHC08JFaz72MhfsTEorhv
-  wikipedia: https://en.wikipedia.org/wiki/Kevin_Naquin
+  musicbrainz: 'https://musicbrainz.org/artist/924f6e96-d97e-4964-b6a0-4bd8d7e12f11'
+  spotify: 'https://open.spotify.com/artist/2ZHC08JFaz72MhfsTEorhv'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kevin_Naquin'
 genres:
-- cajun
-- zydeco
-image_path: 03_Resources/source_material/ArtistPortraits/kevin_naquin_and_cajun_preservation.jpg
+  - cajun
+  - zydeco
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/kevin_naquin_and_cajun_preservation.jpg
 instruments:
-- eponymous
+  - eponymous
 last_updated: '2026-01-19T01:08:27.918495'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 75fc7253-3011-435b-9c78-94bfdbc33202
-  name: Kevin Naquin
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 75fc7253-3011-435b-9c78-94bfdbc33202
+    name: Kevin Naquin
 musical_connections:
   collaborators:
-  - The Ossun Playboys
-  - Ashley Hayes
-  - Louis Dronet
-  - John Gary
-  - Beau Thomas
-  - Seth Guidry
+    - The Ossun Playboys
+    - Ashley Hayes
+    - Louis Dronet
+    - John Gary
+    - Beau Thomas
+    - Seth Guidry
   influenced: []
   mentors:
-  - Don Montoucet
-  - Hadley Fontenot
-  - Steve Riley
-  - Barry Ancelet
+    - Don Montoucet
+    - Hadley Fontenot
+    - Steve Riley
+    - Barry Ancelet
 musicbrainz_id: 924f6e96-d97e-4964-b6a0-4bd8d7e12f11
 network_extracted: true
-origin: Ossun, Louisiana, United States
+origin: 'Ossun, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://flattownmusic.com/artist/kevin-naquin/
-- https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/naquin.htm.html
-- https://kevinnaquinandcajunpreservation.com/about-us/
-- https://www.offbeat.com/articles/legendary-kevin-naquin/
-- https://www.acadianmuseum.com/living-legend/kevin-naquin/
-- https://en.wikipedia.org/wiki/Kevin_Naquin
-- https://kevinnaquinandcajunpreservation.com
+  - 'https://flattownmusic.com/artist/kevin-naquin/'
+  - >-
+    https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/naquin.htm.html
+  - 'https://kevinnaquinandcajunpreservation.com/about-us/'
+  - 'https://www.offbeat.com/articles/legendary-kevin-naquin/'
+  - 'https://www.acadianmuseum.com/living-legend/kevin-naquin/'
+  - 'https://en.wikipedia.org/wiki/Kevin_Naquin'
+  - 'https://kevinnaquinandcajunpreservation.com'
 spotify_data:
   followers: 1408
   id: 2ZHC08JFaz72MhfsTEorhv
   popularity: 13
-  url: https://open.spotify.com/artist/2ZHC08JFaz72MhfsTEorhv
+  url: 'https://open.spotify.com/artist/2ZHC08JFaz72MhfsTEorhv'
 status: active
 title: Kevin Naquin & Cajun Preservation
 ---

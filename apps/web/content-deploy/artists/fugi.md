@@ -4,8 +4,8 @@ wiki_slug: fugi
 schema_version: 2
 status: active
 genres:
-- thrash metal
-- speed metal
+  - thrash metal
+  - speed metal
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/fugi.jpg
   caption: Fugi
@@ -15,7 +15,7 @@ audio_profile:
   energy_avg: 0.953
   valence_avg: 0.423
   danceability_avg: 0.432
-  acousticness_avg: 0.0
+  acousticness_avg: 0
   instrumentalness_avg: 0.156
   loudness_avg: -4.9
   speechiness_avg: 0.073
@@ -31,32 +31,33 @@ spotify_data:
   followers: 29468
   id: 5Gn20zEvjiNUyQUIaItAlL
   popularity: 29
-  url: https://open.spotify.com/artist/5Gn20zEvjiNUyQUIaItAlL
+  url: 'https://open.spotify.com/artist/5Gn20zEvjiNUyQUIaItAlL'
 discography_enriched: true
 top_tracks:
-- Spheres Of Virulence (Spheres Of Virulence)
-- Blast Furnace (Blast Furnace b/w Standoff)
-- The Javelin (Maniac)
-- Hell's Half Acre (Maniac)
-- Maniac (Maniac)
-- Neutralized (Maniac)
-- Standoff (Blast Furnace b/w Standoff)
-- Raise the Dead (Maniac)
+  - Spheres Of Virulence (Spheres Of Virulence)
+  - Blast Furnace (Blast Furnace b/w Standoff)
+  - The Javelin (Maniac)
+  - Hell's Half Acre (Maniac)
+  - Maniac (Maniac)
+  - Neutralized (Maniac)
+  - Standoff (Blast Furnace b/w Standoff)
+  - Raise the Dead (Maniac)
 external_urls:
-  spotify: https://open.spotify.com/artist/5Gn20zEvjiNUyQUIaItAlL
+  spotify: 'https://open.spotify.com/artist/5Gn20zEvjiNUyQUIaItAlL'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/fugi.jpg
 biography_enhanced_at: '2025-11-16T20:25:48.869212'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Fugazi
-- https://thebandindex.com/band/fugazi
-- https://musicianguide.com/biographies/1608000563/Fugazi.html
-- https://www.metal-archives.com/bands/M.T._Fuji/3540350232
+  - 'https://en.wikipedia.org/wiki/Fugazi'
+  - 'https://thebandindex.com/band/fugazi'
+  - 'https://musicianguide.com/biographies/1608000563/Fugazi.html'
+  - 'https://www.metal-archives.com/bands/M.T._Fuji/3540350232'
 network_extracted: true
 entry_created: '2025-11-16T20:25:48.869223'
 last_updated: '2025-12-23T08:16:08.900612'
+artist_type: band
 ---
 
 ![](fugi.jpg)

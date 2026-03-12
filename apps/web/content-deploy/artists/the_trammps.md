@@ -1,75 +1,78 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2025-12-28T02:03:13.279906'
 birth_date: '1972'
 disambiguation: US disco/soul band
 enhancement_provider: perplexity
 entry_created: '2025-12-28T02:03:13.279913'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8799413d-7df8-4eb9-8542-af8cea6b0feb
-  spotify: https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK
-  wikipedia: https://en.wikipedia.org/wiki/The_Trammps
+  musicbrainz: 'https://musicbrainz.org/artist/8799413d-7df8-4eb9-8542-af8cea6b0feb'
+  spotify: 'https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Trammps'
 genres:
-- disco
-- philly soul
-- northern soul
+  - disco
+  - philly soul
+  - northern soul
 image_path: 03_Resources/source_material/ArtistPortraits/the_trammps.jpg
 last_updated: '2025-12-28T02:03:13.279915'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a71a5fa0-f1a5-4405-91ca-89aea6511c12
-  name: Jimmy Ellis
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ed955757-7cfd-4e4a-b122-e06cfc1493a5
-  name: Ron Kersey
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f6bbc9ca-d99e-4cf7-a523-4c8f147f4c41
-  name: Earl Young
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3b5e0228-5716-4cb9-a81a-c38ca59d55f4
-  name: Dennis Harris
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a71a5fa0-f1a5-4405-91ca-89aea6511c12
+    name: Jimmy Ellis
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ed955757-7cfd-4e4a-b122-e06cfc1493a5
+    name: Ron Kersey
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f6bbc9ca-d99e-4cf7-a523-4c8f147f4c41
+    name: Earl Young
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3b5e0228-5716-4cb9-a81a-c38ca59d55f4
+    name: Dennis Harris
 musical_connections:
   collaborators:
-  - Earl Young
-  - Jimmy Ellis
-  - Norman Harris
-  - Ron (Ronald) Kersey
-  - Atlantic Records and *Saturday Night Fever* production team
+    - Earl Young
+    - Jimmy Ellis
+    - Norman Harris
+    - Ron (Ronald) Kersey
+    - Atlantic Records and *Saturday Night Fever* production team
   influenced:
-  - Disco and dance music producers and vocal groups of the late 1970s and 1980s
-  - Film and television music supervisors using disco as cultural shorthand
+    - >-
+      Disco and dance music producers and vocal groups of the late 1970s and
+      1980s
+    - Film and television music supervisors using disco as cultural shorthand
   mentors:
-  - Philadelphia soul and R&B tradition (e.g., Motown/Stax-era soul)
-  - East Coast nightclub disco scene (New York and Philadelphia)
+    - 'Philadelphia soul and R&B tradition (e.g., Motown/Stax-era soul)'
+    - East Coast nightclub disco scene (New York and Philadelphia)
 musicbrainz_id: 8799413d-7df8-4eb9-8542-af8cea6b0feb
 network_extracted: true
-origin: Philadelphia
+origin: 'Philadelphia, Pennsylvania, United States'
 primary_source: perplexity
 research_sources:
-- IMDb – The Trammps biography[1]
-- 'Far Out Magazine – “The Trammps: the Philadelphia group that bridged the gap between
-  soul and disco”[2]'
-- AllMusic – The Trammps artist biography[3]
-- Shefik presents Invocation – The Trammps profile[4]
-- Jango – The Trammps full bio[5]
+  - 'IMDb – The Trammps biography[1]'
+  - >-
+    Far Out Magazine – “The Trammps: the Philadelphia group that bridged the gap
+    between soul and disco”[2]
+  - 'AllMusic – The Trammps artist biography[3]'
+  - 'Shefik presents Invocation – The Trammps profile[4]'
+  - 'Jango – The Trammps full bio[5]'
 spotify_data:
   followers: 295499
   id: 1zgNpeHQe8GulzfVkYP2VK
   popularity: 53
-  url: https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK
+  url: 'https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK'
 status: active
 tags:
-- classic pop and rock
-- disco
-- philly soul
+  - classic pop and rock
+  - disco
+  - philly soul
 title: The Trammps
 ---
 

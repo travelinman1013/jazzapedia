@@ -3,15 +3,15 @@ title: Yola
 wiki_slug: yola
 schema_version: 2
 status: active
-birth_place: Bristol, England, UK
+birth_place: 'Bristol, England, UK'
 genres:
-- gospel
-- gospel r&b
+  - gospel
+  - gospel r&b
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/yola.jpg
   caption: Yola
   background: solo_singer
-  origin: Bristol, England, UK
+  origin: 'Bristol, England, UK'
 audio_profile:
   tempo_avg: 111.4
   energy_avg: 0.539
@@ -27,44 +27,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Chase & Status
-  - Sub Focus
-  - Vince Gill
-  - Molly Tuttle
+    - Chase & Status
+    - Sub Focus
+    - Vince Gill
+    - Molly Tuttle
   influenced: []
   mentors:
-  - Dan Auerbach
+    - Dan Auerbach
 spotify_data:
   followers: 806255
   id: 47opbYEKDjXnRk9uLscp11
   popularity: 48
-  url: https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11
+  url: 'https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11'
 discography_enriched: true
 top_tracks:
-- I Believe
-- Open My Heart (Mountain High Valley Low)
-- I'm Gonna Be Ready (Believe)
-- The Battle Is the Lord's (The Essential Yolanda Adams)
-- In the Midst of It All (Mountain High Valley Low)
-- The Battle Is the Lord's
-- Victory (Day by Day)
-- Be Blessed (Day by Day)
-- Thank You
-- Blessings (Sunny Days)
+  - I Believe
+  - Open My Heart (Mountain High Valley Low)
+  - I'm Gonna Be Ready (Believe)
+  - The Battle Is the Lord's (The Essential Yolanda Adams)
+  - In the Midst of It All (Mountain High Valley Low)
+  - The Battle Is the Lord's
+  - Victory (Day by Day)
+  - Be Blessed (Day by Day)
+  - Thank You
+  - Blessings (Sunny Days)
 external_urls:
-  spotify: https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11
-  wikipedia: https://en.wikipedia.org/wiki/Yola_(singer)
+  spotify: 'https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11'
+  wikipedia: 'https://en.wikipedia.org/wiki/Yola_(singer)'
 image_path: 03_Resources/source_material/ArtistPortraits/yola.jpg
 biography_enhanced_at: '2025-10-26T12:43:17.823375'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Yola_(singer)
-- https://industryme.co.uk/yola/
-- https://www.latimes.com/entertainment-arts/music/story/2019-12-04/yola-grammys-2020-best-new-artist-dan-auerbach
+  - 'https://en.wikipedia.org/wiki/Yola_(singer)'
+  - 'https://industryme.co.uk/yola/'
+  - >-
+    https://www.latimes.com/entertainment-arts/music/story/2019-12-04/yola-grammys-2020-best-new-artist-dan-auerbach
 network_extracted: true
 entry_created: '2025-10-26T12:43:17.823383'
 last_updated: '2025-12-23T08:16:18.343966'
+birth_date: '1983-07-31'
+artist_type: person
 ---
 
 ![](yola.jpg)

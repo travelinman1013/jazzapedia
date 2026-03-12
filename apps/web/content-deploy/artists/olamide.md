@@ -1,20 +1,20 @@
 ---
-title: olamide
+title: Olamide
 wiki_slug: olamide
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1989-03-15'
-birth_place: Lagos
+birth_place: 'Bariga, Lagos State, Nigeria'
 genres:
-- afrobeats
-- afrobeat
-- afropop
-- afropiano
-- azonto
-- afro adura
-- afroswing
-- amapiano
+  - afrobeats
+  - afrobeat
+  - afropop
+  - afropiano
+  - azonto
+  - afro adura
+  - afroswing
+  - amapiano
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/olamide.jpg
   caption: olamide
@@ -36,47 +36,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Phyno
-  - Wizkid
-  - Tiwa Savage
-  - Fireboy DML
-  - Adekunle Gold
+    - Phyno
+    - Wizkid
+    - Tiwa Savage
+    - Fireboy DML
+    - Adekunle Gold
   influenced:
-  - Fireboy DML
-  - Adekunle Gold
-  - Lil Kesh
-  - Chinko Ekun
+    - Fireboy DML
+    - Adekunle Gold
+    - Lil Kesh
+    - Chinko Ekun
   mentors:
-  - ID Cabasa
+    - ID Cabasa
 spotify_data:
   followers: 4368459
   id: 4ovtyvs7j1jSmwhkBGHqSr
   popularity: 70
-  url: https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr
+  url: 'https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr'
 discography_enriched: true
 top_tracks:
-- Billionaires Club (Olamidé)
-- Free (Olamidé)
-- Infinity (feat. Omah Lay) (Carpe Diem)
-- Hasibunallah (Olamidé)
-- Luvaluvah (Olamidé)
-- WAHALA (feat. Olamide) (EMOTIONS)
-- Amapiano (Work Of Art)
-- Duro (Olamidé)
-- Indika (Olamidé)
-- 99 (feat. Daecolm) (Olamidé)
+  - Billionaires Club (Olamidé)
+  - Free (Olamidé)
+  - Infinity (feat. Omah Lay) (Carpe Diem)
+  - Hasibunallah (Olamidé)
+  - Luvaluvah (Olamidé)
+  - WAHALA (feat. Olamide) (EMOTIONS)
+  - Amapiano (Work Of Art)
+  - Duro (Olamidé)
+  - Indika (Olamidé)
+  - 99 (feat. Daecolm) (Olamidé)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ba800215-62c3-4fbf-93e9-8008186af81d
-  spotify: https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr
-  wikipedia: https://en.wikipedia.org/wiki/Olamide
+  musicbrainz: 'https://musicbrainz.org/artist/ba800215-62c3-4fbf-93e9-8008186af81d'
+  spotify: 'https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr'
+  wikipedia: 'https://en.wikipedia.org/wiki/Olamide'
 image_path: 03_Resources/source_material/ArtistPortraits/olamide.jpg
 biography_enhanced_at: '2025-11-23T06:34:07.679184'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.legit.ng/1171771-olamide-biography-age-family-awards.html
-- https://www.last.fm/music/Olamide/+wiki
-- https://afropop.org/articles/olamide-seizes-the-day
+  - 'https://www.legit.ng/1171771-olamide-biography-age-family-awards.html'
+  - 'https://www.last.fm/music/Olamide/+wiki'
+  - 'https://afropop.org/articles/olamide-seizes-the-day'
 network_extracted: true
 entry_created: '2025-11-23T06:34:07.679192'
 last_updated: '2025-12-23T08:16:13.714273'
@@ -84,9 +84,9 @@ disambiguation: Nigerian Hip Hop artist
 gender: Male
 musicbrainz_id: ba800215-62c3-4fbf-93e9-8008186af81d
 tags:
-- afrobeats
-- pop rap
-
+  - afrobeats
+  - pop rap
+origin: 'Lagos, Lagos State, Nigeria'
 ---
 
 ![](olamide.jpg)

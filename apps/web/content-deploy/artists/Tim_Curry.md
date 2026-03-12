@@ -2,18 +2,18 @@
 title: Tim Curry
 wiki_slug: tim-curry
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1946-04-19'
-birth_place: Grappenhall, Cheshire, England
+birth_place: 'Grappenhall, Cheshire, England'
 genres:
-- musicals
+  - musicals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Tim_Curry.jpg
   caption: Tim Curry
   background: solo_singer
   born: '1946-04-19'
-  origin: Grappenhall, Cheshire, England
+  origin: 'Grappenhall, Cheshire, England'
 audio_profile:
   tempo_avg: 118.5
   energy_avg: 0.533
@@ -21,7 +21,7 @@ audio_profile:
   danceability_avg: 0.507
   acousticness_avg: 0.426
   instrumentalness_avg: 0.016
-  loudness_avg: -10.0
+  loudness_avg: -10
   speechiness_avg: 0.09
   liveness_avg: 0.25
   track_count: 50
@@ -29,46 +29,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bob Ezrin
-  - Dick Wagner
-  - David Sanborn
+    - Bob Ezrin
+    - Dick Wagner
+    - David Sanborn
   influenced:
-  - Rocky Horror Show cast and musical theatre performers
+    - Rocky Horror Show cast and musical theatre performers
   mentors:
-  - Lou Adler
+    - Lou Adler
 spotify_data:
   followers: 48586
   id: 5upLeyz8OjRZcbFuXOF59B
   popularity: 46
-  url: https://open.spotify.com/artist/5upLeyz8OjRZcbFuXOF59B
+  url: 'https://open.spotify.com/artist/5upLeyz8OjRZcbFuXOF59B'
 discography_enriched: true
 top_tracks:
-- Sweet Transvestite (The Rocky Horror Picture Show - Original Soundtrack)
-- I Can Make You a Man (The Rocky Horror Picture Show - Original Soundtrack)
-- Toxic Love (FernGully...The Last Rainforest (Original Motion Picture Soundtrack))
-- I Can Make You a Man (Reprise) (The Rocky Horror Picture Show - Original Soundtrack)
-- I'm Going Home (The Rocky Horror Picture Show - Original Soundtrack)
-- 'Planet Schmanet Janet (Absolute Treasures: The Rocky Horror Picture Show - The Complete and Definitive Soundtrack (2015
-  40th Anniversary Re-Mastered Edition))'
-- Easy Street (Annie (Original Motion Picture Soundtrack))
-- 'Fanfare / Don''t Dream It (Absolute Treasures: The Rocky Horror Picture Show - The Complete and Definitive Soundtrack (2015
-  40th Anniversary Re-Mastered Edition))'
-- 'Wild and Untamed Thing (Absolute Treasures: The Rocky Horror Picture Show - The Complete and Definitive Soundtrack (2015
-  40th Anniversary Re-Mastered Edition))'
-- 'Always Look On The Bright Side Of Life - Original Broadway Cast Recording: "Spamalot" (Monty Python''s Spamalot)'
+  - Sweet Transvestite (The Rocky Horror Picture Show - Original Soundtrack)
+  - I Can Make You a Man (The Rocky Horror Picture Show - Original Soundtrack)
+  - >-
+    Toxic Love (FernGully...The Last Rainforest (Original Motion Picture
+    Soundtrack))
+  - >-
+    I Can Make You a Man (Reprise) (The Rocky Horror Picture Show - Original
+    Soundtrack)
+  - I'm Going Home (The Rocky Horror Picture Show - Original Soundtrack)
+  - >-
+    Planet Schmanet Janet (Absolute Treasures: The Rocky Horror Picture Show -
+    The Complete and Definitive Soundtrack (2015 40th Anniversary Re-Mastered
+    Edition))
+  - Easy Street (Annie (Original Motion Picture Soundtrack))
+  - >-
+    Fanfare / Don't Dream It (Absolute Treasures: The Rocky Horror Picture Show
+    - The Complete and Definitive Soundtrack (2015 40th Anniversary Re-Mastered
+    Edition))
+  - >-
+    Wild and Untamed Thing (Absolute Treasures: The Rocky Horror Picture Show -
+    The Complete and Definitive Soundtrack (2015 40th Anniversary Re-Mastered
+    Edition))
+  - >-
+    Always Look On The Bright Side Of Life - Original Broadway Cast Recording:
+    "Spamalot" (Monty Python's Spamalot)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/33ce4a70-005d-4563-bb6e-2d253fab9842
-  spotify: https://open.spotify.com/artist/5upLeyz8OjRZcbFuXOF59B
-  wikipedia: https://en.wikipedia.org/wiki/Tim_Curry
+  musicbrainz: 'https://musicbrainz.org/artist/33ce4a70-005d-4563-bb6e-2d253fab9842'
+  spotify: 'https://open.spotify.com/artist/5upLeyz8OjRZcbFuXOF59B'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tim_Curry'
 image_path: 03_Resources/source_material/ArtistPortraits/Tim_Curry.jpg
 biography_enhanced_at: '2025-10-21T06:50:51.341359'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Tim_Curry
-- https://www.timcurry.co.uk/biography
-- https://www.imdb.com/name/nm0000347/
-- https://timcurry.com/pages/biography
+  - 'https://en.wikipedia.org/wiki/Tim_Curry'
+  - 'https://www.timcurry.co.uk/biography'
+  - 'https://www.imdb.com/name/nm0000347/'
+  - 'https://timcurry.com/pages/biography'
 network_extracted: true
 entry_created: '2025-10-21T06:50:51.341374'
 last_updated: '2025-12-23T08:16:04.167587'
@@ -77,7 +89,7 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:46:56.020769'
 musicbrainz_id: 33ce4a70-005d-4563-bb6e-2d253fab9842
 tags:
-- 2008 universal fire victim
+  - 2008 universal fire victim
 ---
 
 ![](Tim_Curry.jpg)

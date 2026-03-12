@@ -1,43 +1,44 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-19T01:07:40.456430'
 disambiguation: 5-piece band
 enhancement_provider: perplexity
 entry_created: '2026-01-19T01:07:40.456436'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4de24708-8583-41cb-869f-92ab34d1ced1
-  spotify: https://open.spotify.com/artist/5sk5WQ9HRcDGzWoheanfXg
+  musicbrainz: 'https://musicbrainz.org/artist/4de24708-8583-41cb-869f-92ab34d1ced1'
+  spotify: 'https://open.spotify.com/artist/5sk5WQ9HRcDGzWoheanfXg'
   wikipedia: Not found
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/bad_ass_boots.jpg
 last_updated: '2026-01-19T01:07:40.456437'
 musical_connections:
   collaborators:
-  - Lisa Nemzo
-  - Martin
+    - Lisa Nemzo
+    - Martin
   influenced: []
   mentors: []
 musicbrainz_id: 4de24708-8583-41cb-869f-92ab34d1ced1
 network_extracted: true
-origin: Oakland, California, United States
+origin: 'Oakland, California, United States'
 primary_source: perplexity
 research_sources:
-- https://radiowigwam.co.uk/bands/bad-ass-boots/
-- https://indiemusicpeople.com/BadAssBoots
-- https://www.last.fm/music/Bad+Ass+Boots/+wiki
-- https://themarsh.org/shows_and_events/marshstream/celebrate-lbgtqi-pride-at-the-marsh-berkeley/
-- https://www.last.fm/music/Bad+Ass+Boots
-- https://mixposure.com/bad-ass-boots-band/
-- https://www.viberate.com/artist/bad-ass-boots/
-- https://www.youtube.com/watch?v=1L_NEgByk_8
-- https://open.spotify.com/artist/5sk5WQ9HRcDGzWoheanfXg
+  - 'https://radiowigwam.co.uk/bands/bad-ass-boots/'
+  - 'https://indiemusicpeople.com/BadAssBoots'
+  - 'https://www.last.fm/music/Bad+Ass+Boots/+wiki'
+  - >-
+    https://themarsh.org/shows_and_events/marshstream/celebrate-lbgtqi-pride-at-the-marsh-berkeley/
+  - 'https://www.last.fm/music/Bad+Ass+Boots'
+  - 'https://mixposure.com/bad-ass-boots-band/'
+  - 'https://www.viberate.com/artist/bad-ass-boots/'
+  - 'https://www.youtube.com/watch?v=1L_NEgByk_8'
+  - 'https://open.spotify.com/artist/5sk5WQ9HRcDGzWoheanfXg'
 spotify_data:
   followers: 27
   id: 5sk5WQ9HRcDGzWoheanfXg
   popularity: 0
-  url: https://open.spotify.com/artist/5sk5WQ9HRcDGzWoheanfXg
+  url: 'https://open.spotify.com/artist/5sk5WQ9HRcDGzWoheanfXg'
 status: active
-title: BAD ASS BOOTS
+title: Bad Ass Boots
 ---
 
 ![](bad_ass_boots.jpg)

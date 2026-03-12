@@ -5,14 +5,14 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1936-08-22'
-birth_place: Gold Mine
+birth_place: 'Gold Mine, Richland Parish, Louisiana, United States'
 death_date: '2010-02-13'
 genres:
-- rockabilly
-- psychobilly
-- rock and roll
+  - rockabilly
+  - psychobilly
+  - rock and roll
 instruments:
-- guitar
+  - guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/dale_hawkins.jpg
   caption: Dale Hawkins
@@ -35,57 +35,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - James Burton
-  - Joe Osborn
-  - Roy Buchanan
-  - Bruce Channel
-  - The Uniques, The Five Americans
+    - James Burton
+    - Joe Osborn
+    - Roy Buchanan
+    - Bruce Channel
+    - 'The Uniques, The Five Americans'
   influenced:
-  - Creedence Clearwater Revival
-  - Ronnie Hawkins
-  - Numerous rockabilly and swamp rock artists
+    - Creedence Clearwater Revival
+    - Ronnie Hawkins
+    - Numerous rockabilly and swamp rock artists
   mentors:
-  - Delmar "Skipper" Hawkins
-  - Black Louisiana blues and gospel musicians
-  - Elvis Presley and Scotty Moore
+    - Delmar "Skipper" Hawkins
+    - Black Louisiana blues and gospel musicians
+    - Elvis Presley and Scotty Moore
 spotify_data:
   followers: 16519
   id: 7kcPzHlsyJm5tDv7JMcr6T
   popularity: 29
-  url: https://open.spotify.com/artist/7kcPzHlsyJm5tDv7JMcr6T
+  url: 'https://open.spotify.com/artist/7kcPzHlsyJm5tDv7JMcr6T'
 discography_enriched: true
 top_tracks:
-- Suzie Q (Oh! Suzy-Q)
-- Little Pig (Oh! Suzy-Q)
-- Tornado (Oh! Suzy-Q)
-- My Babe (Wild, Wild World)
-- Wildcat Tamer (Wildcat Tamer)
-- My Babe (Rockabilly Madness)
-- Everglades (Daredevil)
-- Wild, Wild World (Oh! Suzy-Q)
-- Suzie Q. (Oh, Suzi Q!)
-- Juanita (Oh! Suzy-Q)
+  - Suzie Q (Oh! Suzy-Q)
+  - Little Pig (Oh! Suzy-Q)
+  - Tornado (Oh! Suzy-Q)
+  - 'My Babe (Wild, Wild World)'
+  - Wildcat Tamer (Wildcat Tamer)
+  - My Babe (Rockabilly Madness)
+  - Everglades (Daredevil)
+  - 'Wild, Wild World (Oh! Suzy-Q)'
+  - 'Suzie Q. (Oh, Suzi Q!)'
+  - Juanita (Oh! Suzy-Q)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6517f833-742a-48a0-a30a-32980c442074
-  spotify: https://open.spotify.com/artist/7kcPzHlsyJm5tDv7JMcr6T
-  wikipedia: https://en.wikipedia.org/wiki/Dale_Hawkins
+  musicbrainz: 'https://musicbrainz.org/artist/6517f833-742a-48a0-a30a-32980c442074'
+  spotify: 'https://open.spotify.com/artist/7kcPzHlsyJm5tDv7JMcr6T'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dale_Hawkins'
 image_path: 03_Resources/source_material/ArtistPortraits/dale_hawkins.jpg
 biography_enhanced_at: '2025-10-31T08:11:30.436879'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Dale_Hawkins
-- https://64parishes.org/entry/dale-hawkins
-- https://pryorcenter.uark.edu/interview.php?thisProject=Arkansas+Memories&thisProfileURL=HAWKINS-Dale&displayName=&thisInterviewee=424
+  - 'https://en.wikipedia.org/wiki/Dale_Hawkins'
+  - 'https://64parishes.org/entry/dale-hawkins'
+  - >-
+    https://pryorcenter.uark.edu/interview.php?thisProject=Arkansas+Memories&thisProfileURL=HAWKINS-Dale&displayName=&thisInterviewee=424
 network_extracted: true
 entry_created: '2025-10-31T08:11:30.436890'
 last_updated: '2025-12-23T08:16:07.398086'
 gender: Male
 musicbrainz_id: 6517f833-742a-48a0-a30a-32980c442074
 tags:
-- 2008 universal fire victim
-- classic pop and rock
-- rock
+  - 2008 universal fire victim
+  - classic pop and rock
+  - rock
+is_active: false
+origin: 'Richland Parish, Louisiana, United States'
 ---
 
 ![](dale_hawkins.jpg)

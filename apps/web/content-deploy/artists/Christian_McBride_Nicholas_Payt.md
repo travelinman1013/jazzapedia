@@ -1,16 +1,17 @@
 ---
-title: Christian McBride, Nicholas Payt
+title: 'Christian McBride, Nicholas Payt'
 wiki_slug: christian-mcbride-nicholas-payt
 schema_version: 2
 status: active
-birth_place: Philadelphia, Pennsylvania, United States
+birth_place: 'Philadelphia, Pennsylvania, United States'
 genres:
-- jazz
+  - jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/Christian_McBride_Nicholas_Payt.jpg
-  caption: Christian McBride, Nicholas Payt
+  image: >-
+    03_Resources/source_material/ArtistPortraits/Christian_McBride_Nicholas_Payt.jpg
+  caption: 'Christian McBride, Nicholas Payt'
   background: solo_singer
-  origin: Philadelphia, Pennsylvania, United States
+  origin: 'Philadelphia, Pennsylvania, United States'
 audio_profile:
   tempo_avg: 112.8
   energy_avg: 0.323
@@ -18,7 +19,7 @@ audio_profile:
   danceability_avg: 0.516
   acousticness_avg: 0.747
   instrumentalness_avg: 0.597
-  loudness_avg: -17.0
+  loudness_avg: -17
   speechiness_avg: 0.054
   liveness_avg: 0.291
   track_count: 61
@@ -26,50 +27,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Joshua Redman
-  - Herbie Hancock
-  - Diana Krall
-  - The Roots
+    - Joshua Redman
+    - Herbie Hancock
+    - Diana Krall
+    - The Roots
   influenced:
-  - Christian Sands
-  - Warren Wolf
-  - Nicole Glover
+    - Christian Sands
+    - Warren Wolf
+    - Nicole Glover
   mentors:
-  - Ray Brown
-  - Bobby Watson
+    - Ray Brown
+    - Bobby Watson
 spotify_data:
   followers: 67605
   id: 5ACxPOI9gR3l0cyy2dvkHv
   popularity: 37
-  url: https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv
+  url: 'https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv'
 discography_enriched: true
 top_tracks:
-- Eleanor (West of 5th)
-- Murder by Numbers
-- September in the Rain (Public Eye)
-- More Is
-- Right Back Round Again (feat. Brad Mehldau, Christian McBride & Brian Blade) (RoundAgain (feat. Brad Mehldau, Christian
-  McBride, Brian Blade))
-- But Beautiful - Live (Trilogy 2 (Live))
-- Humpty Dumpty - Live (Trilogy 3 (Live))
-- Windows - Live (Trilogy 3 (Live))
-- Why Am I Treated So Bad (with Questlove, Christian McBride) [From “Norah Jones is Playing Along” Podcast]
-- Devil May Care (The Women Who Raised Me)
+  - Eleanor (West of 5th)
+  - Murder by Numbers
+  - September in the Rain (Public Eye)
+  - More Is
+  - >-
+    Right Back Round Again (feat. Brad Mehldau, Christian McBride & Brian Blade)
+    (RoundAgain (feat. Brad Mehldau, Christian McBride, Brian Blade))
+  - But Beautiful - Live (Trilogy 2 (Live))
+  - Humpty Dumpty - Live (Trilogy 3 (Live))
+  - Windows - Live (Trilogy 3 (Live))
+  - >-
+    Why Am I Treated So Bad (with Questlove, Christian McBride) [From “Norah
+    Jones is Playing Along” Podcast]
+  - Devil May Care (The Women Who Raised Me)
 external_urls:
-  spotify: https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv
-  wikipedia: https://en.wikipedia.org/wiki/Christian_McBride
-image_path: 03_Resources/source_material/ArtistPortraits/Christian_McBride_Nicholas_Payt.jpg
+  spotify: 'https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv'
+  wikipedia: 'https://en.wikipedia.org/wiki/Christian_McBride'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/Christian_McBride_Nicholas_Payt.jpg
 biography_enhanced_at: '2025-10-19T11:41:40.736230'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Christian_McBride
-- https://www.christianmcbride.com/bio
-- https://jazzhousekids.org/people/christian-mcbride/
-- https://www.wrti.org/people/christian-mcbride
+  - 'https://en.wikipedia.org/wiki/Christian_McBride'
+  - 'https://www.christianmcbride.com/bio'
+  - 'https://jazzhousekids.org/people/christian-mcbride/'
+  - 'https://www.wrti.org/people/christian-mcbride'
 network_extracted: true
 entry_created: '2025-10-19T11:41:40.736243'
 last_updated: '2025-12-23T08:16:01.511000'
+birth_date: '1972-05-31'
+artist_type: person
 ---
 
 ![](Christian_McBride_Nicholas_Payt.jpg)

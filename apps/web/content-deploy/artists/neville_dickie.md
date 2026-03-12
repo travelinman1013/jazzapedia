@@ -3,16 +3,16 @@ title: Neville Dickie
 wiki_slug: neville-dickie
 schema_version: 2
 status: active
-birth_place: Durham, County Durham, England, United Kingdom
+birth_place: 'Durham, County Durham, England, United Kingdom'
 genres:
-- ragtime
-- boogie-woogie
-- boogie
+  - ragtime
+  - boogie-woogie
+  - boogie
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/neville_dickie.jpg
   caption: Neville Dickie
   background: solo_singer
-  origin: Durham, County Durham, England, United Kingdom
+  origin: 'Durham, County Durham, England, United Kingdom'
 audio_profile:
   tempo_avg: 119.2
   energy_avg: 0.368
@@ -28,58 +28,66 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Louis Mazetier
-  - The Midiri Brothers
-  - Al Casey
-  - Dick Morrissey
-  - Norman Emberson
-  - Paul Asaro
-  - The Rhythmakers
+    - Louis Mazetier
+    - The Midiri Brothers
+    - Al Casey
+    - Dick Morrissey
+    - Norman Emberson
+    - Paul Asaro
+    - The Rhythmakers
   influenced:
-  - Younger stride and boogie‑woogie pianists (general category)
+    - Younger stride and boogie‑woogie pianists (general category)
   mentors:
-  - Fats Waller
-  - James P. Johnson
-  - Willie "The Lion" Smith
+    - Fats Waller
+    - James P. Johnson
+    - Willie "The Lion" Smith
 spotify_data:
   followers: 243
   id: 1ZFGe3cGSMG2E9Jm56rRe4
   popularity: 6
-  url: https://open.spotify.com/artist/1ZFGe3cGSMG2E9Jm56rRe4
+  url: 'https://open.spotify.com/artist/1ZFGe3cGSMG2E9Jm56rRe4'
 discography_enriched: true
 top_tracks:
-- Sunday (If Dreams Come True)
-- Harlem Strut (Harlem Strut)
-- The Original Pine Top's Boogie Woogie (Boogie Woogie Fantastiques Special Piano)
-- Swannee River Boogie (Boogie Woogie Fantastiques Special Piano)
-- Saint-Louis Blues (Boogie Woogie Fantastiques Special Piano)
-- Hamp's Boogie Woogie (Boogie Woogie Fantastiques Special Piano)
-- Roll'Em Pete (Boogie Woogie Fantastiques Special Piano)
-- Guess Who's in Town (Charleston Mad)
-- Carolina in the Morning (Harlem Strut)
-- Everybody Loves My Baby (But My Baby Don't Love Nobody But Me) (Harlem Strut)
+  - Sunday (If Dreams Come True)
+  - Harlem Strut (Harlem Strut)
+  - >-
+    The Original Pine Top's Boogie Woogie (Boogie Woogie Fantastiques Special
+    Piano)
+  - Swannee River Boogie (Boogie Woogie Fantastiques Special Piano)
+  - Saint-Louis Blues (Boogie Woogie Fantastiques Special Piano)
+  - Hamp's Boogie Woogie (Boogie Woogie Fantastiques Special Piano)
+  - Roll'Em Pete (Boogie Woogie Fantastiques Special Piano)
+  - Guess Who's in Town (Charleston Mad)
+  - Carolina in the Morning (Harlem Strut)
+  - >-
+    Everybody Loves My Baby (But My Baby Don't Love Nobody But Me) (Harlem
+    Strut)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/edb2d1ed-c220-4e62-97ae-b4ea0737f45a
-  spotify: https://open.spotify.com/artist/1ZFGe3cGSMG2E9Jm56rRe4
-  wikipedia: https://en.wikipedia.org/wiki/Neville_Dickie
+  musicbrainz: 'https://musicbrainz.org/artist/edb2d1ed-c220-4e62-97ae-b4ea0737f45a'
+  spotify: 'https://open.spotify.com/artist/1ZFGe3cGSMG2E9Jm56rRe4'
+  wikipedia: 'https://en.wikipedia.org/wiki/Neville_Dickie'
 image_path: 03_Resources/source_material/ArtistPortraits/neville_dickie.jpg
 biography_enhanced_at: '2025-12-07T04:35:04.254737'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Neville_Dickie
-- https://www.allmusic.com/artist/neville-dickie-mn0000329656
-- https://syncopatedtimes.com/jazz-travels-august2018/
-- https://biographycentral.com/biography/neville_dickie
-- https://www.tristatejazz.org/the-music/past-concert/neville-dickie-and-the-midiri-brothers-2024
-- https://jaz.fandom.com/wiki/Neville_Dickie
-- https://www.dailyrecord.com/story/entertainment/2018/05/31/jazz-artists-midiri-bros-neville-dickie-play-bickford/651829002/
-- https://www.allaboutjazz.com/musicians/neville-dickie/
+  - 'https://en.wikipedia.org/wiki/Neville_Dickie'
+  - 'https://www.allmusic.com/artist/neville-dickie-mn0000329656'
+  - 'https://syncopatedtimes.com/jazz-travels-august2018/'
+  - 'https://biographycentral.com/biography/neville_dickie'
+  - >-
+    https://www.tristatejazz.org/the-music/past-concert/neville-dickie-and-the-midiri-brothers-2024
+  - 'https://jaz.fandom.com/wiki/Neville_Dickie'
+  - >-
+    https://www.dailyrecord.com/story/entertainment/2018/05/31/jazz-artists-midiri-bros-neville-dickie-play-bickford/651829002/
+  - 'https://www.allaboutjazz.com/musicians/neville-dickie/'
 network_extracted: true
 entry_created: '2025-12-07T04:35:04.254751'
 last_updated: '2025-12-23T08:16:13.494080'
 disambiguation: '''50s/''60s artist'
 musicbrainz_id: edb2d1ed-c220-4e62-97ae-b4ea0737f45a
+birth_date: '1937-01-01'
+artist_type: person
 ---
 
 ![](neville_dickie.jpg)

@@ -4,15 +4,15 @@ wiki_slug: ben-williams
 schema_version: 2
 status: active
 aliases: []
-birth_place: Washington, D.C., United States
+birth_place: 'Washington, D.C., United States'
 genres:
-- jazz
-- nu jazz
+  - jazz
+  - nu jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Ben_Williams.jpg
   caption: Ben Williams
   background: solo_singer
-  origin: Washington, D.C., United States
+  origin: 'Washington, D.C., United States'
 audio_profile:
   tempo_avg: 112.1
   energy_avg: 0.49
@@ -28,59 +28,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Pat Metheny
-  - Stefon Harris
-  - Jacky Terrasson
-  - Marcus Strickland
-  - Keyon Harrold
-  - Syndee Winters
-  - José James
-  - Kamasi Washington
+    - Pat Metheny
+    - Stefon Harris
+    - Jacky Terrasson
+    - Marcus Strickland
+    - Keyon Harrold
+    - Syndee Winters
+    - José James
+    - Kamasi Washington
   influenced: []
   mentors:
-  - Davey Yarborough
-  - Rodney Whitaker
+    - Davey Yarborough
+    - Rodney Whitaker
 related_artists: []
 spotify_data:
   followers: 8735
   id: 2NVNbP5qYO9vHhOPGGuPJV
   popularity: 37
-  url: https://open.spotify.com/artist/2NVNbP5qYO9vHhOPGGuPJV
+  url: 'https://open.spotify.com/artist/2NVNbP5qYO9vHhOPGGuPJV'
   verified: false
 discography_enriched: true
 albums_count: 5
 singles_count: 38
 top_tracks:
-- Only Shadows Stay
-- Everything That Isn’t
-- Breathe the Void
-- Halfway Nowhere
-- Lose the Map
-- What Hides Here?
-- See Beyond Eyes
-- Nothing Stays Still
-- What Did You See?
-- Blink If Real
+  - Only Shadows Stay
+  - Everything That Isn’t
+  - Breathe the Void
+  - Halfway Nowhere
+  - Lose the Map
+  - What Hides Here?
+  - See Beyond Eyes
+  - Nothing Stays Still
+  - What Did You See?
+  - Blink If Real
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/2NVNbP5qYO9vHhOPGGuPJV
-  wikipedia: https://en.wikipedia.org/wiki/Ben_Williams
+  spotify: 'https://open.spotify.com/artist/2NVNbP5qYO9vHhOPGGuPJV'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ben_Williams'
 image_path: 03_Resources/source_material/ArtistPortraits/Ben_Williams.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:52:24.721654'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Monterey Jazz Festival
-- Capital Bop
-- Chicago Symphony Orchestra
-- Salt Bay Chamberfest
-- Bandcamp Daily
-- Ben Williams Official Website
+  - Monterey Jazz Festival
+  - Capital Bop
+  - Chicago Symphony Orchestra
+  - Salt Bay Chamberfest
+  - Bandcamp Daily
+  - Ben Williams Official Website
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 12:53:38.982132
+entry_created: 2025-09-18T12:53:38.982Z
 last_updated: '2025-12-23T08:16:01.155470'
+artist_type: person
 ---
 
 ![](Ben_Williams.jpg)

@@ -2,60 +2,62 @@
 artist_type: person
 biography_enhanced_at: '2026-01-03T01:48:14.820435'
 birth_date: '1936-06-30'
-birth_place: Brooklyn
+birth_place: 'Brooklyn, New York, United States'
 death_date: '2002-02-10'
 enhancement_provider: perplexity
 entry_created: '2026-01-03T01:48:14.820447'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c07a8ae5-3322-482f-9bfe-27448a2cf593
-  spotify: https://open.spotify.com/artist/6QmHysWvckkQR74oxmLmtz
-  wikipedia: https://en.wikipedia.org/wiki/Dave_Van_Ronk
+  musicbrainz: 'https://musicbrainz.org/artist/c07a8ae5-3322-482f-9bfe-27448a2cf593'
+  spotify: 'https://open.spotify.com/artist/6QmHysWvckkQR74oxmLmtz'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dave_Van_Ronk'
 gender: Male
 genres:
-- folk
-- country blues
+  - folk
+  - country blues
 image_path: 03_Resources/source_material/ArtistPortraits/dave_van_ronk.jpg
 instruments:
-- guitar
-- 12 string guitar
-- spoken vocals
-- lead vocals
+  - guitar
+  - 12 string guitar
+  - spoken vocals
+  - lead vocals
 last_updated: '2026-01-03T01:48:14.820449'
 musical_connections:
   collaborators:
-  - Moses Asch
-  - Prestige Records artists
+    - Moses Asch
+    - Prestige Records artists
   influenced:
-  - Bob Dylan
-  - Joni Mitchell
-  - Phil Ochs
-  - Tom Paxton
-  - Ramblin' Jack Elliott
+    - Bob Dylan
+    - Joni Mitchell
+    - Phil Ochs
+    - Tom Paxton
+    - Ramblin' Jack Elliott
   mentors:
-  - Tom Paley
-  - Reverend Gary Davis
-  - Furry Lewis
-  - Mississippi John Hurt
+    - Tom Paley
+    - Reverend Gary Davis
+    - Furry Lewis
+    - Mississippi John Hurt
 musicbrainz_id: c07a8ae5-3322-482f-9bfe-27448a2cf593
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.ebsco.com/research-starters/biography/dave-van-ronk
-- https://en.wikipedia.org/wiki/Dave_Van_Ronk
-- https://nettwerk.com/artist/dave-van-ronk/
-- https://concord.com/artist/dave-van-ronk/
-- https://folkways.si.edu/dave-van-ronk/american-folk-blues-gospel/music/article/smithsonian
+  - 'https://www.ebsco.com/research-starters/biography/dave-van-ronk'
+  - 'https://en.wikipedia.org/wiki/Dave_Van_Ronk'
+  - 'https://nettwerk.com/artist/dave-van-ronk/'
+  - 'https://concord.com/artist/dave-van-ronk/'
+  - >-
+    https://folkways.si.edu/dave-van-ronk/american-folk-blues-gospel/music/article/smithsonian
 spotify_data:
   followers: 69196
   id: 6QmHysWvckkQR74oxmLmtz
   popularity: 39
-  url: https://open.spotify.com/artist/6QmHysWvckkQR74oxmLmtz
+  url: 'https://open.spotify.com/artist/6QmHysWvckkQR74oxmLmtz'
 status: active
 tags:
-- contemporary folk
-- rock
-title: dave van ronk
-
+  - contemporary folk
+  - rock
+title: Dave van Ronk
+is_active: false
+origin: 'Greenwich Village, New York, United States'
 ---
 
 ![](dave_van_ronk.jpg)

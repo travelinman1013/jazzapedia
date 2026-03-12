@@ -3,46 +3,47 @@ biography_enhanced_at: '2025-12-27T01:27:07.820279'
 enhancement_provider: perplexity
 entry_created: '2025-12-27T01:27:07.820288'
 external_urls:
-  spotify: https://open.spotify.com/artist/1EhNTOm8TyioIoIhOkiyQZ
+  spotify: 'https://open.spotify.com/artist/1EhNTOm8TyioIoIhOkiyQZ'
   wikipedia: ''
 genres:
-- dark cabaret
+  - dark cabaret
 image_path: 03_Resources/source_material/ArtistPortraits/dirty_bourbon_river_show.jpg
 last_updated: '2025-12-27T01:27:07.820290'
 musical_connections:
   collaborators:
-  - Charlie Skinner
-  - Noah Adams
-  - Matt Thomas
-  - Nick Garrison
-  - Jimmy Williams
-  - Scott Graves
-  - Sandra Love
-  - Logan Van Meter
-  - Bon Bon Vivant
-  - Valarie Sassyfras
-  - Amanda Ashley
+    - Charlie Skinner
+    - Noah Adams
+    - Matt Thomas
+    - Nick Garrison
+    - Jimmy Williams
+    - Scott Graves
+    - Sandra Love
+    - Logan Van Meter
+    - Bon Bon Vivant
+    - Valarie Sassyfras
+    - Amanda Ashley
   influenced: []
   mentors: []
 network_extracted: true
-origin: New Orleans, Louisiana, USA
+origin: 'New Orleans, Louisiana, USA'
 primary_source: perplexity
 research_sources:
-- https://first-avenue.com/performer/dirty-bourbon-river-show/
-- https://www.roccitymag.com/music/brass-rock-dirty-bourbon-river-show-2405253/
-- https://purplefiddle.com/bands/dirty-bourbon-river-show/
-- https://dirtybourbonrivershow.com/category/general/
-- https://dirtybourbonrivershow.com
-- https://www.last.fm/music/Dirty+Bourbon+River+Show/+wiki
-- https://dirtybourbonrivershow.com/press/
+  - 'https://first-avenue.com/performer/dirty-bourbon-river-show/'
+  - >-
+    https://www.roccitymag.com/music/brass-rock-dirty-bourbon-river-show-2405253/
+  - 'https://purplefiddle.com/bands/dirty-bourbon-river-show/'
+  - 'https://dirtybourbonrivershow.com/category/general/'
+  - 'https://dirtybourbonrivershow.com'
+  - 'https://www.last.fm/music/Dirty+Bourbon+River+Show/+wiki'
+  - 'https://dirtybourbonrivershow.com/press/'
 spotify_data:
   followers: 4361
   id: 1EhNTOm8TyioIoIhOkiyQZ
   popularity: 17
-  url: https://open.spotify.com/artist/1EhNTOm8TyioIoIhOkiyQZ
+  url: 'https://open.spotify.com/artist/1EhNTOm8TyioIoIhOkiyQZ'
 status: active
-title: dirty bourbon river show
-
+title: Dirty Bourbon River Show
+artist_type: band
 ---
 
 ![](dirty_bourbon_river_show.jpg)

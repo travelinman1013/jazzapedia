@@ -4,14 +4,14 @@ wiki_slug: sessa
 schema_version: 2
 artist_type: person
 status: active
-birth_place: São Paulo, São Paulo, Brazil
+birth_place: 'São Paulo, São Paulo, Brazil'
 genres:
-- nova mpb
+  - nova mpb
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sessa.jpg
   caption: Sessa
   background: solo_singer
-  origin: São Paulo, São Paulo, Brazil
+  origin: 'São Paulo, São Paulo, Brazil'
 audio_profile:
   tempo_avg: 116.9
   energy_avg: 0.316
@@ -27,45 +27,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Yonatan Gat
-  - Garotas Suecas
+    - Yonatan Gat
+    - Garotas Suecas
   influenced: []
   mentors:
-  - Caetano Veloso
-  - Tom Jobim
+    - Caetano Veloso
+    - Tom Jobim
 spotify_data:
   followers: 35464
   id: 6ijeN3MhwnbRfo86gH5McZ
   popularity: 44
-  url: https://open.spotify.com/artist/6ijeN3MhwnbRfo86gH5McZ
+  url: 'https://open.spotify.com/artist/6ijeN3MhwnbRfo86gH5McZ'
 discography_enriched: true
 top_tracks:
-- Sereia Sentimental (Sereia Sentimental)
-- Flor do Real (Grandeza)
-- Grandeza (Grandeza)
-- Canção da Cura (Estrela Acesa)
-- Ponta de Faca (Estrela Acesa)
-- Voyage (anaiis & Grupo Cosmo)
-- Pele da Esfera (Estrela Acesa)
-- Como é que vai você (Force of the Wind)
-- Gostar do Mundo (Estrela Acesa)
-- Sereia Sentimental (Estrela Acesa)
+  - Sereia Sentimental (Sereia Sentimental)
+  - Flor do Real (Grandeza)
+  - Grandeza (Grandeza)
+  - Canção da Cura (Estrela Acesa)
+  - Ponta de Faca (Estrela Acesa)
+  - Voyage (anaiis & Grupo Cosmo)
+  - Pele da Esfera (Estrela Acesa)
+  - Como é que vai você (Force of the Wind)
+  - Gostar do Mundo (Estrela Acesa)
+  - Sereia Sentimental (Estrela Acesa)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/53d61df0-7de0-4bb8-b73c-94758ae02466
-  spotify: https://open.spotify.com/artist/6ijeN3MhwnbRfo86gH5McZ
+  musicbrainz: 'https://musicbrainz.org/artist/53d61df0-7de0-4bb8-b73c-94758ae02466'
+  spotify: 'https://open.spotify.com/artist/6ijeN3MhwnbRfo86gH5McZ'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/sessa.jpg
 biography_enhanced_at: '2025-11-26T07:48:45.075216'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://mexicansummer.com/artist/sessa/
-- https://puschen.net/artists/sessa/
-- https://www.thelineofbestfit.com/features/interviews/sessa-on-the-rise
-- https://sessa.bandcamp.com
-- https://www.wnyc.org/story/sessa-2023-new-york-guitar-festival-greene-space/
-- https://www.fasching.se/en/sessa/
-- https://www.sfchronicle.com/entertainment/music/article/sessa-s-music-mixes-soul-of-his-native-brazil-21188867.php
+  - 'https://mexicansummer.com/artist/sessa/'
+  - 'https://puschen.net/artists/sessa/'
+  - 'https://www.thelineofbestfit.com/features/interviews/sessa-on-the-rise'
+  - 'https://sessa.bandcamp.com'
+  - 'https://www.wnyc.org/story/sessa-2023-new-york-guitar-festival-greene-space/'
+  - 'https://www.fasching.se/en/sessa/'
+  - >-
+    https://www.sfchronicle.com/entertainment/music/article/sessa-s-music-mixes-soul-of-his-native-brazil-21188867.php
 network_extracted: true
 entry_created: '2025-11-26T07:48:45.075227'
 last_updated: '2025-12-23T08:16:15.511897'
@@ -73,9 +74,10 @@ disambiguation: Brazilian psych folk
 gender: Male
 musicbrainz_id: 53d61df0-7de0-4bb8-b73c-94758ae02466
 tags:
-- cosmic jazz
-- folk
-- psychedelic folk
+  - cosmic jazz
+  - folk
+  - psychedelic folk
+origin: 'São Paulo, São Paulo, Brazil'
 ---
 
 ![](sessa.jpg)

@@ -5,9 +5,9 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1986-11-07'
-birth_place: Columbia
+birth_place: 'Columbia, South Carolina, United States'
 genres:
-- chillwave
+  - chillwave
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/toro_y_moi.jpg
   caption: Toro y Moi
@@ -29,62 +29,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tyler, the Creator
-  - Washed Out
-  - Rome Fortune
-  - Nosaj Thing
-  - Imari Mubarak
-  - Andy Woodward
-  - Anthony Ferraro
+    - 'Tyler, the Creator'
+    - Washed Out
+    - Rome Fortune
+    - Nosaj Thing
+    - Imari Mubarak
+    - Andy Woodward
+    - Anthony Ferraro
   influenced:
-  - Contemporary artists in chillwave movement
+    - Contemporary artists in chillwave movement
   mentors:
-  - Ernest Greene (Washed Out)
-  - Parents' vinyl and tape collection
+    - Ernest Greene (Washed Out)
+    - Parents' vinyl and tape collection
 spotify_data:
   followers: 804270
   id: 6O4EGCCb6DoIiR6B1QCQgp
   popularity: 59
-  url: https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp
+  url: 'https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp'
 discography_enriched: true
 top_tracks:
-- The Difference
-- Ordinary Pleasure (Outer Peace)
-- Flying High (feat. Toro y Moi) (Rodeo)
-- Daria
-- Rose Quartz (Anything in Return)
-- drip bounce _ 7_24_18 (Soul Trash)
-- So Many Details (Anything in Return)
-- Girl Like You (Boo Boo)
-- Images (feat. 454 & Toro y Moi) (13 Months of Sunshine)
-- Dark & Handsome (Angel's Pulse)
+  - The Difference
+  - Ordinary Pleasure (Outer Peace)
+  - Flying High (feat. Toro y Moi) (Rodeo)
+  - Daria
+  - Rose Quartz (Anything in Return)
+  - drip bounce _ 7_24_18 (Soul Trash)
+  - So Many Details (Anything in Return)
+  - Girl Like You (Boo Boo)
+  - Images (feat. 454 & Toro y Moi) (13 Months of Sunshine)
+  - Dark & Handsome (Angel's Pulse)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3a6d6481-142d-423f-91d4-55bbfff318ed
-  spotify: https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp
-  wikipedia: https://en.wikipedia.org/wiki/Toro_y_Moi
+  musicbrainz: 'https://musicbrainz.org/artist/3a6d6481-142d-423f-91d4-55bbfff318ed'
+  spotify: 'https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp'
+  wikipedia: 'https://en.wikipedia.org/wiki/Toro_y_Moi'
 image_path: 03_Resources/source_material/ArtistPortraits/toro_y_moi.jpg
 biography_enhanced_at: '2025-12-04T07:35:24.798860'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Toro y Moi
-- Last.fm - Toro y Moi
-- Kiddle - Toro y Moi Facts for Kids
-- Astrophe Magazine - Hole Erth with Toro y Moi
-- Office Magazine - Toro y Moi
-- Cool Hunting - Toro y Moi on His Multi-Faceted Project Mahal
-- The Line of Best Fit - The stars are aligning for Toro y Moi
-- Anthem Magazine - Q&A with Toro y Moi
-- TBA Agency - Toro y Moi Artist Bio
+  - Wikipedia - Toro y Moi
+  - Last.fm - Toro y Moi
+  - Kiddle - Toro y Moi Facts for Kids
+  - Astrophe Magazine - Hole Erth with Toro y Moi
+  - Office Magazine - Toro y Moi
+  - Cool Hunting - Toro y Moi on His Multi-Faceted Project Mahal
+  - The Line of Best Fit - The stars are aligning for Toro y Moi
+  - Anthem Magazine - Q&A with Toro y Moi
+  - TBA Agency - Toro y Moi Artist Bio
 network_extracted: true
 entry_created: '2025-12-04T07:35:24.798866'
 last_updated: '2025-12-23T08:16:17.649553'
 gender: Male
 musicbrainz_id: 3a6d6481-142d-423f-91d4-55bbfff318ed
 tags:
-- chillwave
-- electronic
-- funk
+  - chillwave
+  - electronic
+  - funk
 ---
 
 ![](toro_y_moi.jpg)

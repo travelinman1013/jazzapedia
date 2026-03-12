@@ -1,46 +1,49 @@
 ---
 biography_enhanced_at: '2025-12-29T01:06:43.760750'
-birth_place: Illinois, USA
+birth_place: 'Illinois, USA'
 enhancement_provider: perplexity
 entry_created: '2025-12-29T01:06:43.760757'
 external_urls:
-  spotify: https://open.spotify.com/artist/6y4UEOdiILRPouv35SGjSW
+  spotify: 'https://open.spotify.com/artist/6y4UEOdiILRPouv35SGjSW'
   wikipedia: ''
 genres:
-- vocal jazz
-- cool jazz
+  - vocal jazz
+  - cool jazz
 image_path: 03_Resources/source_material/ArtistPortraits/helyne_stewart.jpg
 last_updated: '2025-12-29T01:06:43.760759'
 musical_connections:
   collaborators:
-  - Teddy Edwards
-  - Jack Sheldon
-  - Art Pepper
-  - Frank Rosolino
-  - Phineas Newborn Jr.
-  - Ahmad Jamal
-  - Lionel Hampton
-  - Teddy Wilson
-  - Caldwells
+    - Teddy Edwards
+    - Jack Sheldon
+    - Art Pepper
+    - Frank Rosolino
+    - Phineas Newborn Jr.
+    - Ahmad Jamal
+    - Lionel Hampton
+    - Teddy Wilson
+    - Caldwells
   influenced: []
   mentors:
-  - Della Reese
-  - Dinah Washington
+    - Della Reese
+    - Dinah Washington
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.ipm.org/show/afterglow/2020-03-27/voices-that-time-forgot-pat-thomas-norene-tate-gloria-smyth-and-more
-- https://www.jazzmessengers.com/fr/11754/teddy-edwards/quartet-and-septet-introducing-helyne-stewart
-- https://jazzjournal.co.uk/2019/09/08/gloria-smyth-like-soul-helyne-stewart-love-moods/
-- https://www.uncamarvy.com/Caldwells/caldwells.html
+  - >-
+    https://www.ipm.org/show/afterglow/2020-03-27/voices-that-time-forgot-pat-thomas-norene-tate-gloria-smyth-and-more
+  - >-
+    https://www.jazzmessengers.com/fr/11754/teddy-edwards/quartet-and-septet-introducing-helyne-stewart
+  - >-
+    https://jazzjournal.co.uk/2019/09/08/gloria-smyth-like-soul-helyne-stewart-love-moods/
+  - 'https://www.uncamarvy.com/Caldwells/caldwells.html'
 spotify_data:
   followers: 41
   id: 6y4UEOdiILRPouv35SGjSW
   popularity: 0
-  url: https://open.spotify.com/artist/6y4UEOdiILRPouv35SGjSW
+  url: 'https://open.spotify.com/artist/6y4UEOdiILRPouv35SGjSW'
 status: active
 title: Helyne Stewart
-
+artist_type: person
 ---
 
 ![](helyne_stewart.jpg)

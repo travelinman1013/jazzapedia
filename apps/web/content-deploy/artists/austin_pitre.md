@@ -5,25 +5,25 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1918-02-23'
-birth_place: Ville Platte
+birth_place: 'Ville Platte, Louisiana, United States'
 death_date: '1981-04-08'
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 instruments:
-- eponymous
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
-  mbid: 1bd52775-cc82-4fad-8bca-a478db493038
-  name: Austin Pitre and The Evangeline Playboys
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0f2aaecd-7fc3-4ca5-b31f-703e284e4d5e
-  name: Austin Pitre Band
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 1bd52775-cc82-4fad-8bca-a478db493038
+    name: Austin Pitre and The Evangeline Playboys
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0f2aaecd-7fc3-4ca5-b31f-703e284e4d5e
+    name: Austin Pitre Band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/austin_pitre.jpg
   caption: Austin Pitre
@@ -46,50 +46,66 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Evangeline Playboys
-  - Eston Bellow
-  - Junior Martin
-  - Mike Tate
+    - The Evangeline Playboys
+    - Eston Bellow
+    - Junior Martin
+    - Mike Tate
   influenced:
-  - Modern Cajun dancehall bands
-  - Nouveau Electric Records artists
+    - Modern Cajun dancehall bands
+    - Nouveau Electric Records artists
   mentors:
-  - Joseph Vige Pitre
+    - Joseph Vige Pitre
 spotify_data:
   followers: 604
   id: 4fKPF2pARLi2IPgvQRIFiL
   popularity: 2
-  url: https://open.spotify.com/artist/4fKPF2pARLi2IPgvQRIFiL
+  url: 'https://open.spotify.com/artist/4fKPF2pARLi2IPgvQRIFiL'
 discography_enriched: true
 top_tracks:
-- Le pauvre hobo (The Poor Hobo) (The Essential Early Cajun Recordings of Austin Pitre and the Evangeline Playboys)
-- 'Mamou Blues (Louisiana Cajun Music Special: Bon temps rouler)'
-- Poor Hobo (Cajun Saturday Night)
-- Les flammes d'enfer (The Flames of Hell) (The Essential Early Cajun Recordings of Austin Pitre and the Evangeline Playboys)
-- Two Step de Bayou Teche (The Essential Early Cajun Recordings of Austin Pitre and the Evangeline Playboys)
-- Church Point Breakdown (Opelousas Waltz)
-- Opelousas Waltz (The Essential Early Cajun Recordings of Austin Pitre and the Evangeline Playboys)
-- Rene's Special - Instrumental (The Essential Early Cajun Recordings of Austin Pitre and the Evangeline Playboys)
-- Two Step a Tante Adele (The Essential Early Cajun Recordings of Austin Pitre and the Evangeline Playboys)
-- Grand Mamou Blues (The Essential Early Cajun Recordings of Austin Pitre and the Evangeline Playboys)
+  - >-
+    Le pauvre hobo (The Poor Hobo) (The Essential Early Cajun Recordings of
+    Austin Pitre and the Evangeline Playboys)
+  - 'Mamou Blues (Louisiana Cajun Music Special: Bon temps rouler)'
+  - Poor Hobo (Cajun Saturday Night)
+  - >-
+    Les flammes d'enfer (The Flames of Hell) (The Essential Early Cajun
+    Recordings of Austin Pitre and the Evangeline Playboys)
+  - >-
+    Two Step de Bayou Teche (The Essential Early Cajun Recordings of Austin
+    Pitre and the Evangeline Playboys)
+  - Church Point Breakdown (Opelousas Waltz)
+  - >-
+    Opelousas Waltz (The Essential Early Cajun Recordings of Austin Pitre and
+    the Evangeline Playboys)
+  - >-
+    Rene's Special - Instrumental (The Essential Early Cajun Recordings of
+    Austin Pitre and the Evangeline Playboys)
+  - >-
+    Two Step a Tante Adele (The Essential Early Cajun Recordings of Austin Pitre
+    and the Evangeline Playboys)
+  - >-
+    Grand Mamou Blues (The Essential Early Cajun Recordings of Austin Pitre and
+    the Evangeline Playboys)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/db111232-1730-4a93-9f6f-39bd1d8af67d
-  spotify: https://open.spotify.com/artist/4fKPF2pARLi2IPgvQRIFiL
-  wikipedia: https://en.wikipedia.org/wiki/Austin_Pitre
+  musicbrainz: 'https://musicbrainz.org/artist/db111232-1730-4a93-9f6f-39bd1d8af67d'
+  spotify: 'https://open.spotify.com/artist/4fKPF2pARLi2IPgvQRIFiL'
+  wikipedia: 'https://en.wikipedia.org/wiki/Austin_Pitre'
 image_path: 03_Resources/source_material/ArtistPortraits/austin_pitre.jpg
 biography_enhanced_at: '2025-10-30T12:05:01.246989'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://flattownmusic.com/artist/austin-pitre/
-- https://en.wikipedia.org/wiki/Austin_Pitre
-- https://americana-uk.com/cajun-corner-tribute-to-austin-pitre
-- https://www.americanbluesscene.com/2023/02/exclusive-premiere-austin-pitres-signature-song-evangeline-playboys-special/
+  - 'https://flattownmusic.com/artist/austin-pitre/'
+  - 'https://en.wikipedia.org/wiki/Austin_Pitre'
+  - 'https://americana-uk.com/cajun-corner-tribute-to-austin-pitre'
+  - >-
+    https://www.americanbluesscene.com/2023/02/exclusive-premiere-austin-pitres-signature-song-evangeline-playboys-special/
 network_extracted: true
 entry_created: '2025-10-30T12:05:01.247006'
 last_updated: '2025-12-23T08:16:05.014590'
 gender: Male
 musicbrainz_id: db111232-1730-4a93-9f6f-39bd1d8af67d
+is_active: false
 ---
 
 ![](austin_pitre.jpg)

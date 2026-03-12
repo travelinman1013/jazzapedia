@@ -1,16 +1,16 @@
 ---
-title: big chenier
+title: Big Chenier
 wiki_slug: big-chenier
 schema_version: 2
 status: active
-birth_place: Opelousas, Louisiana, United States
+birth_place: 'Opelousas, Louisiana, United States'
 genres:
-- footwork
+  - footwork
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/big_chenier.jpg
   caption: big chenier
   background: solo_singer
-  origin: Opelousas, Louisiana, United States
+  origin: 'Opelousas, Louisiana, United States'
 audio_profile:
   tempo_avg: 131.5
   energy_avg: 0.56
@@ -26,56 +26,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Cleveland Chenier
-  - Chris Strachwitz
-  - Lonnie Brooks
-  - Phillip Walker
-  - Lonesome Sundown
-  - Blind John Hart
-  - Paul Senegal
-  - C.J. Chenier
-  - Bumps Blackwell
-  - Sam Charters
+    - Cleveland Chenier
+    - Chris Strachwitz
+    - Lonnie Brooks
+    - Phillip Walker
+    - Lonesome Sundown
+    - Blind John Hart
+    - Paul Senegal
+    - C.J. Chenier
+    - Bumps Blackwell
+    - Sam Charters
   influenced:
-  - C.J. Chenier
+    - C.J. Chenier
   mentors:
-  - Joseph Chenier
-  - Professor Longhair
-  - Fats Domino
+    - Joseph Chenier
+    - Professor Longhair
+    - Fats Domino
 spotify_data:
   followers: 16
   id: 0IwIVXFvZ4g73yPBChU7WN
   popularity: 0
-  url: https://open.spotify.com/artist/0IwIVXFvZ4g73yPBChU7WN
+  url: 'https://open.spotify.com/artist/0IwIVXFvZ4g73yPBChU7WN'
 discography_enriched: true
 top_tracks:
-- Let Me Hold Your Hand (Goin' Down to Louisiana)
-- Let Me Hold Your Hand (Juke Joint Blues 2)
-- Please Try To Realise (Juke Joint Blues 2)
-- 'Let Me Hold Your Hand (Bayou Blues Blasters: Goldband Blues)'
-- The Dog and His Puppies (Goin' Down to Louisiana)
-- Going to the City (Goin' Down to Louisiana)
-- Please Try to Realize (Goin' Down to Louisiana)
-- I Wanna Know, I Know Now (Goin' Down to Louisiana)
-- Come on Little Girl (Goin' Down to Louisiana)
-- 'Going to the City (Louisiana Blues Scene: Juke Boy Bonner and Friends)'
+  - Let Me Hold Your Hand (Goin' Down to Louisiana)
+  - Let Me Hold Your Hand (Juke Joint Blues 2)
+  - Please Try To Realise (Juke Joint Blues 2)
+  - 'Let Me Hold Your Hand (Bayou Blues Blasters: Goldband Blues)'
+  - The Dog and His Puppies (Goin' Down to Louisiana)
+  - Going to the City (Goin' Down to Louisiana)
+  - Please Try to Realize (Goin' Down to Louisiana)
+  - 'I Wanna Know, I Know Now (Goin'' Down to Louisiana)'
+  - Come on Little Girl (Goin' Down to Louisiana)
+  - 'Going to the City (Louisiana Blues Scene: Juke Boy Bonner and Friends)'
 external_urls:
-  spotify: https://open.spotify.com/artist/0IwIVXFvZ4g73yPBChU7WN
+  spotify: 'https://open.spotify.com/artist/0IwIVXFvZ4g73yPBChU7WN'
   wikipedia: Not found in search results
 image_path: ''
 biography_enhanced_at: '2025-10-20T10:21:49.943279'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.alligator.com/artists/Clifton-Chenier/
-- https://folkways.si.edu/artists/clifton-chenier
-- https://louisianamusichalloffame.org/clifton-chenier/
-- https://www.latimes.com/archives/la-xpm-1987-12-14-mn-19254-story.html
-- https://www.tshaonline.org/handbook/entries/chenier-clifton
+  - 'https://www.alligator.com/artists/Clifton-Chenier/'
+  - 'https://folkways.si.edu/artists/clifton-chenier'
+  - 'https://louisianamusichalloffame.org/clifton-chenier/'
+  - 'https://www.latimes.com/archives/la-xpm-1987-12-14-mn-19254-story.html'
+  - 'https://www.tshaonline.org/handbook/entries/chenier-clifton'
 network_extracted: true
 entry_created: '2025-10-20T10:21:49.943315'
 last_updated: '2025-12-23T08:16:05.419774'
-
+birth_date: '1925-06-25'
+death_date: '1987-12-12'
+artist_type: person
 ---
 
 ![]()

@@ -2,10 +2,10 @@
 title: AFO Executives
 wiki_slug: afo-executives
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 genres:
-- cajun
+  - cajun
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/AFO_Executives.jpg
   caption: AFO Executives
@@ -17,7 +17,7 @@ audio_profile:
   danceability_avg: 0.578
   acousticness_avg: 0.354
   instrumentalness_avg: 0.002
-  loudness_avg: -10.0
+  loudness_avg: -10
   speechiness_avg: 0.038
   liveness_avg: 0.097
   track_count: 17
@@ -25,51 +25,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Harold Battiste Jr.
-  - Sam Cooke
-  - Melvin Lastie
-  - Red Tyler
-  - Tami Lynn
-  - Barbara George
+    - Harold Battiste Jr.
+    - Sam Cooke
+    - Melvin Lastie
+    - Red Tyler
+    - Tami Lynn
+    - Barbara George
   influenced: []
   mentors: []
 spotify_data:
   followers: 83
   id: 10Wa3jOd4kwKIHtCBfJpmr
   popularity: 0
-  url: https://open.spotify.com/artist/10Wa3jOd4kwKIHtCBfJpmr
+  url: 'https://open.spotify.com/artist/10Wa3jOd4kwKIHtCBfJpmr'
 discography_enriched: true
 top_tracks:
-- Wyld (More Gumbo Stew)
-- Olde Wine (Gumbo Stew)
-- Nancy (Still Spicy Gumbo Stew)
-- Money (That's What I Want) (Still Spicy Gumbo Stew)
-- Olde Wine (Gumbo Stew)
-- Olde Wine (Gumbo Stew)
-- Money (That's What I Want) (Still Spicy Gumbo Stew)
-- Nancy (Still Spicy Gumbo Stew)
-- Wyld (More Gumbo Stew)
-- Money (That's What I Want) (Still Spicy Gumbo Stew)
+  - Wyld (More Gumbo Stew)
+  - Olde Wine (Gumbo Stew)
+  - Nancy (Still Spicy Gumbo Stew)
+  - Money (That's What I Want) (Still Spicy Gumbo Stew)
+  - Olde Wine (Gumbo Stew)
+  - Olde Wine (Gumbo Stew)
+  - Money (That's What I Want) (Still Spicy Gumbo Stew)
+  - Nancy (Still Spicy Gumbo Stew)
+  - Wyld (More Gumbo Stew)
+  - Money (That's What I Want) (Still Spicy Gumbo Stew)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6ebe1ee1-4cfb-4c77-9195-ead4a3b6e4c1
-  spotify: https://open.spotify.com/artist/10Wa3jOd4kwKIHtCBfJpmr
-  wikipedia: https://en.wikipedia.org/wiki/AFO_Records
+  musicbrainz: 'https://musicbrainz.org/artist/6ebe1ee1-4cfb-4c77-9195-ead4a3b6e4c1'
+  spotify: 'https://open.spotify.com/artist/10Wa3jOd4kwKIHtCBfJpmr'
+  wikipedia: 'https://en.wikipedia.org/wiki/AFO_Records'
 image_path: ''
 biography_enhanced_at: '2025-10-21T06:43:46.005219'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/AFO_Records
-- https://www.thehistorymakers.org/biography/harold-battiste-39
-- https://acloserwalknola.com/places/afo-records-office/
-- https://www.afofoundation.org/musicians/
-- https://www.afofoundation.org/history/
+  - 'https://en.wikipedia.org/wiki/AFO_Records'
+  - 'https://www.thehistorymakers.org/biography/harold-battiste-39'
+  - 'https://acloserwalknola.com/places/afo-records-office/'
+  - 'https://www.afofoundation.org/musicians/'
+  - 'https://www.afofoundation.org/history/'
 network_extracted: true
 entry_created: '2025-10-21T06:43:46.005235'
 last_updated: '2025-12-23T08:16:00.922464'
 musicbrainz_enriched_at: '2025-10-21T09:10:01.787306'
 musicbrainz_id: 6ebe1ee1-4cfb-4c77-9195-ead4a3b6e4c1
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![]()

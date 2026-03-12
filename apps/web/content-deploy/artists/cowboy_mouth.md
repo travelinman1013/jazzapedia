@@ -2,7 +2,7 @@
 title: Cowboy Mouth
 wiki_slug: cowboy-mouth
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1990'
 genres: []
@@ -12,13 +12,13 @@ infobox:
   background: group_or_band
   born: '1990'
 audio_profile:
-  tempo_avg: 133.0
+  tempo_avg: 133
   energy_avg: 0.82
   valence_avg: 0.714
   danceability_avg: 0.55
   acousticness_avg: 0.09
   instrumentalness_avg: 0.017
-  loudness_avg: -6.0
+  loudness_avg: -6
   speechiness_avg: 0.074
   liveness_avg: 0.22
   track_count: 50
@@ -26,121 +26,121 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Red Rockers
-  - Dash Rip Rock
-  - The Blues Runners
-  - The Backbeats
-  - Texas Tornadoes
-  - U2, Joan Jett and the Blackhearts, the Go-Go's, the B-52s
-  - Hootie and the Blowfish
+    - The Red Rockers
+    - Dash Rip Rock
+    - The Blues Runners
+    - The Backbeats
+    - Texas Tornadoes
+    - 'U2, Joan Jett and the Blackhearts, the Go-Go''s, the B-52s'
+    - Hootie and the Blowfish
   influenced: []
   mentors:
-  - Glenn Miller and Dean Martin
-  - Motown and British Invasion Artists
-  - Cajun and Country-Western Musicians
-  - Bo Diddley
+    - Glenn Miller and Dean Martin
+    - Motown and British Invasion Artists
+    - Cajun and Country-Western Musicians
+    - Bo Diddley
 spotify_data:
   followers: 18198
   id: 32rtQaUBGDTxYH3rMWKNvH
   popularity: 29
-  url: https://open.spotify.com/artist/32rtQaUBGDTxYH3rMWKNvH
+  url: 'https://open.spotify.com/artist/32rtQaUBGDTxYH3rMWKNvH'
 discography_enriched: true
 top_tracks:
-- Jenny Says (Word of Mouth)
-- Jenny Says (Are You With Me?)
-- How Do You Tell Someone (Are You With Me?)
-- Easy (Easy)
-- Iko Iko
-- Love Of My Life (Are You With Me?)
-- New Orleans (Are You With Me?)
-- I Believe (The Name of the Band Is, Vol. 2)
-- Take It Out On Me (Are You With Me?)
-- Everybody Loves Jill
+  - Jenny Says (Word of Mouth)
+  - Jenny Says (Are You With Me?)
+  - How Do You Tell Someone (Are You With Me?)
+  - Easy (Easy)
+  - Iko Iko
+  - Love Of My Life (Are You With Me?)
+  - New Orleans (Are You With Me?)
+  - 'I Believe (The Name of the Band Is, Vol. 2)'
+  - Take It Out On Me (Are You With Me?)
+  - Everybody Loves Jill
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7f76ddd0-fd30-470b-918e-9fd816d98291
-  spotify: https://open.spotify.com/artist/32rtQaUBGDTxYH3rMWKNvH
+  musicbrainz: 'https://musicbrainz.org/artist/7f76ddd0-fd30-470b-918e-9fd816d98291'
+  spotify: 'https://open.spotify.com/artist/32rtQaUBGDTxYH3rMWKNvH'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/cowboy_mouth.jpg
 biography_enhanced_at: '2025-11-28T07:31:40.137193'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- encyclopedia.com - Cowboy Mouth
-- floodcitymusic.com - Cowboy Mouth
-- rhythmandroots.com - Cowboy Mouth
-- cowboymouth.com - About
-- theheightstheater.com - Cowboy Mouth Archives
-- bigtakeover.com - Interview with Fred LeBlanc
-- jaminthevan.com - Cowboy Mouth
-- phoenixnewtimes.com - Fred LeBlanc Interview
+  - encyclopedia.com - Cowboy Mouth
+  - floodcitymusic.com - Cowboy Mouth
+  - rhythmandroots.com - Cowboy Mouth
+  - cowboymouth.com - About
+  - theheightstheater.com - Cowboy Mouth Archives
+  - bigtakeover.com - Interview with Fred LeBlanc
+  - jaminthevan.com - Cowboy Mouth
+  - phoenixnewtimes.com - Fred LeBlanc Interview
 network_extracted: true
 entry_created: '2025-11-28T07:31:40.137205'
 last_updated: '2025-12-23T08:16:07.268223'
 disambiguation: New Orleans rock band
 members:
-- begin: 1995-05
-  end: 2003-03
-  instruments: []
-  mbid: 3bb95772-ef2b-42ca-86f1-41440f3d20b5
-  name: Rob Savoy
-- begin: '2004'
-  end: '2007-05-12'
-  instruments: []
-  mbid: 9f1cdc2f-0457-44c2-9b75-be76e82fe9f5
-  name: Sonia Tetlow
-- begin: 2006-12
-  end: 2007-08
-  instruments: []
-  mbid: 51145ac5-fe48-4c7c-baa0-8f96e0e772c2
-  name: Vance DeGeneres
-- &id001
-  begin: '2007-05-12'
-  end: ''
-  instruments: []
-  mbid: 05e23b91-ad32-46eb-85e0-770d3af47c5c
-  name: Regina Zernay
-- &id002
-  begin: '2007'
-  end: ''
-  instruments: []
-  mbid: 1de45ece-5082-4c17-bc85-2cb8205e8c5d
-  name: Jonathan Pretus
-- &id003
-  begin: '2014'
-  end: ''
-  instruments: []
-  mbid: 501eda6c-6950-41c8-86d3-e5032237d0ae
-  name: Brian Broussard
-- begin: ''
-  end: 2006-11
-  instruments: []
-  mbid: 43d8ef11-2c5b-4faa-9b09-f71aaa93e3a9
-  name: Paul Sanchez
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5febfc4b-fc28-425e-b34b-11681f872fd8
-  name: John Thomas Griffith
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2ad6f53d-1e0f-4354-9a1e-8d6facaad59f
-  name: Frankie G
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: be5aa865-b439-41fc-83da-12661fcb08db
-  name: Fred LeBlanc
+  - begin: 1995-05
+    end: 2003-03
+    instruments: []
+    mbid: 3bb95772-ef2b-42ca-86f1-41440f3d20b5
+    name: Rob Savoy
+  - begin: '2004'
+    end: '2007-05-12'
+    instruments: []
+    mbid: 9f1cdc2f-0457-44c2-9b75-be76e82fe9f5
+    name: Sonia Tetlow
+  - begin: 2006-12
+    end: 2007-08
+    instruments: []
+    mbid: 51145ac5-fe48-4c7c-baa0-8f96e0e772c2
+    name: Vance DeGeneres
+  - &ref_0
+    begin: '2007-05-12'
+    end: ''
+    instruments: []
+    mbid: 05e23b91-ad32-46eb-85e0-770d3af47c5c
+    name: Regina Zernay
+  - &ref_1
+    begin: '2007'
+    end: ''
+    instruments: []
+    mbid: 1de45ece-5082-4c17-bc85-2cb8205e8c5d
+    name: Jonathan Pretus
+  - &ref_2
+    begin: '2014'
+    end: ''
+    instruments: []
+    mbid: 501eda6c-6950-41c8-86d3-e5032237d0ae
+    name: Brian Broussard
+  - begin: ''
+    end: 2006-11
+    instruments: []
+    mbid: 43d8ef11-2c5b-4faa-9b09-f71aaa93e3a9
+    name: Paul Sanchez
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5febfc4b-fc28-425e-b34b-11681f872fd8
+    name: John Thomas Griffith
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2ad6f53d-1e0f-4354-9a1e-8d6facaad59f
+    name: Frankie G
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: be5aa865-b439-41fc-83da-12661fcb08db
+    name: Fred LeBlanc
 musicbrainz_id: 7f76ddd0-fd30-470b-918e-9fd816d98291
-origin: New Orleans
+origin: 'New Orleans, Louisiana, United States'
 original_members:
-- *id001
-- *id002
-- *id003
+  - *ref_0
+  - *ref_1
+  - *ref_2
 tags:
-- alternative rock
-- american
-- rock
+  - alternative rock
+  - american
+  - rock
 ---
 
 ![](cowboy_mouth.jpg)

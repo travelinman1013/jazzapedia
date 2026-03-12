@@ -4,14 +4,14 @@ wiki_slug: esg
 schema_version: 2
 status: active
 genres:
-- post-punk
-- post-disco
+  - post-punk
+  - post-disco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ESG.jpg
   caption: ESG
   background: solo_singer
 audio_profile:
-  tempo_avg: 125.0
+  tempo_avg: 125
   energy_avg: 0.558
   valence_avg: 0.614
   danceability_avg: 0.727
@@ -25,60 +25,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Renee Scroggins
-  - Valerie Scroggins
-  - Deborah Scroggins
-  - Marie Scroggins
-  - Tito Libran
-  - Nicole Scroggins
-  - Chistelle Scroggins
+    - Renee Scroggins
+    - Valerie Scroggins
+    - Deborah Scroggins
+    - Marie Scroggins
+    - Tito Libran
+    - Nicole Scroggins
+    - Chistelle Scroggins
   influenced:
-  - Beastie Boys
-  - Wu-Tang Clan
-  - LCD Soundsystem
-  - The Rapture
-  - Liars
-  - Unrest
-  - TLC
-  - Tricky
+    - Beastie Boys
+    - Wu-Tang Clan
+    - LCD Soundsystem
+    - The Rapture
+    - Liars
+    - Unrest
+    - TLC
+    - Tricky
   mentors:
-  - Ed Bahlman
-  - Martin Hannett
-  - James Brown
+    - Ed Bahlman
+    - Martin Hannett
+    - James Brown
 spotify_data:
   followers: 101314
   id: 4EF5vIcCYKMM61oYOG2Tqa
   popularity: 37
-  url: https://open.spotify.com/artist/4EF5vIcCYKMM61oYOG2Tqa
+  url: 'https://open.spotify.com/artist/4EF5vIcCYKMM61oYOG2Tqa'
 discography_enriched: true
 top_tracks:
-- Dance (Come Away with ESG)
-- My Love for You (Come Away with ESG)
-- Moody
-- You Make No Sense (Come Away with ESG)
-- It's Alright (Come Away with ESG)
-- The Beat (Come Away with ESG)
-- U.F.O
-- You're No Good
-- Moody - Spaced Out (Come Away with ESG)
-- Erase You
+  - Dance (Come Away with ESG)
+  - My Love for You (Come Away with ESG)
+  - Moody
+  - You Make No Sense (Come Away with ESG)
+  - It's Alright (Come Away with ESG)
+  - The Beat (Come Away with ESG)
+  - U.F.O
+  - You're No Good
+  - Moody - Spaced Out (Come Away with ESG)
+  - Erase You
 external_urls:
-  spotify: https://open.spotify.com/artist/4EF5vIcCYKMM61oYOG2Tqa
-  wikipedia: https://en.wikipedia.org/wiki/ESG_(band)
+  spotify: 'https://open.spotify.com/artist/4EF5vIcCYKMM61oYOG2Tqa'
+  wikipedia: 'https://en.wikipedia.org/wiki/ESG_(band)'
 image_path: 03_Resources/source_material/ArtistPortraits/ESG.jpg
 biography_enhanced_at: '2025-10-19T11:59:35.073565'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/ESG_(band)
-- https://reverb.com/news/the-minimalist-funk-legacy-of-esg
-- https://flagpole.com/music/music-features/2017/08/09/esg-just-wants-to-make-you-dance/
-- https://superradnow.wordpress.com/2012/10/26/esg/
-- https://www.last.fm/music/ESG/+wiki
+  - 'https://en.wikipedia.org/wiki/ESG_(band)'
+  - 'https://reverb.com/news/the-minimalist-funk-legacy-of-esg'
+  - >-
+    https://flagpole.com/music/music-features/2017/08/09/esg-just-wants-to-make-you-dance/
+  - 'https://superradnow.wordpress.com/2012/10/26/esg/'
+  - 'https://www.last.fm/music/ESG/+wiki'
 network_extracted: true
 entry_created: '2025-10-19T11:59:35.073569'
 last_updated: '2025-12-23T08:16:01.835639'
-origin: South Bronx, New York City, New York, USA
+origin: 'South Bronx, New York City, New York, USA'
+artist_type: band
 ---
 
 ![](ESG.jpg)

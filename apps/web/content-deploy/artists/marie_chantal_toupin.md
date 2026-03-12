@@ -3,14 +3,14 @@ title: Marie Chantal Toupin
 wiki_slug: marie-chantal-toupin
 schema_version: 2
 status: active
-birth_place: Montreal, Quebec, Canada
+birth_place: 'Montreal, Quebec, Canada'
 genres:
-- chanson
+  - chanson
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/marie_chantal_toupin.jpg
   caption: Marie Chantal Toupin
   background: solo_singer
-  origin: Montreal, Quebec, Canada
+  origin: 'Montreal, Quebec, Canada'
 audio_profile:
   tempo_avg: 118.3
   energy_avg: 0.656
@@ -26,43 +26,44 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Eduardo Da Costa
-  - Jacques Roy
-  - Michel Poirier
+    - Eduardo Da Costa
+    - Jacques Roy
+    - Michel Poirier
   influenced: []
   mentors: []
 spotify_data:
   followers: 18960
   id: 5uMfnmb3ObrjAIi7pNySQe
   popularity: 36
-  url: https://open.spotify.com/artist/5uMfnmb3ObrjAIi7pNySQe
+  url: 'https://open.spotify.com/artist/5uMfnmb3ObrjAIi7pNySQe'
 discography_enriched: true
 top_tracks:
-- Comment j'pourrais te l'dire (Marie-Chantal Toupin)
-- Soirée de fille (Maudit bordel)
-- Maudit bordel (Maudit bordel)
-- 'Maudit bordel - Live (Non négociable : La tournée (Live))'
-- Tout effacer (Non négociable)
-- 'Soirée de filles - Live (Non négociable : La tournée (Live))'
-- Naître (Non négociable)
-- Toé c'est moé (Maudit bordel)
-- Les faits contraires (Marie-Chantal Toupin)
-- Ce soir l'amour est dans tes yeux (Onze grands succès à ma manière)
+  - Comment j'pourrais te l'dire (Marie-Chantal Toupin)
+  - Soirée de fille (Maudit bordel)
+  - Maudit bordel (Maudit bordel)
+  - 'Maudit bordel - Live (Non négociable : La tournée (Live))'
+  - Tout effacer (Non négociable)
+  - 'Soirée de filles - Live (Non négociable : La tournée (Live))'
+  - Naître (Non négociable)
+  - Toé c'est moé (Maudit bordel)
+  - Les faits contraires (Marie-Chantal Toupin)
+  - Ce soir l'amour est dans tes yeux (Onze grands succès à ma manière)
 external_urls:
-  spotify: https://open.spotify.com/artist/5uMfnmb3ObrjAIi7pNySQe
-  wikipedia: https://en.wikipedia.org/wiki/Marie-Chantal_Toupin
+  spotify: 'https://open.spotify.com/artist/5uMfnmb3ObrjAIi7pNySQe'
+  wikipedia: 'https://en.wikipedia.org/wiki/Marie-Chantal_Toupin'
 image_path: 03_Resources/source_material/ArtistPortraits/marie_chantal_toupin.jpg
 biography_enhanced_at: '2025-12-22T01:39:36.854351'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Marie-Chantal_Toupin
-- https://music.apple.com/us/artist/marie-chantal-toupin/199132898
-- https://www.gestev.com/en/events/marie-chantal-toupin/
+  - 'https://en.wikipedia.org/wiki/Marie-Chantal_Toupin'
+  - 'https://music.apple.com/us/artist/marie-chantal-toupin/199132898'
+  - 'https://www.gestev.com/en/events/marie-chantal-toupin/'
 network_extracted: true
 entry_created: '2025-12-22T01:39:36.854357'
 last_updated: '2025-12-23T08:16:12.668917'
-
+birth_date: '1971-07-14'
+artist_type: person
 ---
 
 ![](marie_chantal_toupin.jpg)

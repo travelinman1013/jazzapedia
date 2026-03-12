@@ -4,17 +4,17 @@ wiki_slug: hasa-ortego
 schema_version: 2
 artist_type: person
 status: active
-birth_place: Louisiana, United States
+birth_place: 'Louisiana, United States'
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/hasa_ortego.jpg
   caption: Hasa Ortego
   background: solo_singer
-  origin: Louisiana, United States
+  origin: 'Louisiana, United States'
 audio_profile:
-  tempo_avg: 92.0
+  tempo_avg: 92
   energy_avg: 0.309
   valence_avg: 0.732
   danceability_avg: 0.695
@@ -28,36 +28,39 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Michael Duocet
-  - Belton Richard
-  - Johnny Allen
-  - Paul Daigle
-  - Robert Elkins
+    - Michael Duocet
+    - Belton Richard
+    - Johnny Allen
+    - Paul Daigle
+    - Robert Elkins
   influenced: []
   mentors: []
 spotify_data:
   followers: 27
   id: 66OdpKZ210RZPjoEYY2UF1
   popularity: 2
-  url: https://open.spotify.com/artist/66OdpKZ210RZPjoEYY2UF1
+  url: 'https://open.spotify.com/artist/66OdpKZ210RZPjoEYY2UF1'
 discography_enriched: true
 top_tracks:
-- La veille de Christmas sur le grand bayou (Merry Cajun Christmas)
+  - La veille de Christmas sur le grand bayou (Merry Cajun Christmas)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6b458b58-15f1-420d-9c0a-0ae754dc144d
-  spotify: https://open.spotify.com/artist/66OdpKZ210RZPjoEYY2UF1
+  musicbrainz: 'https://musicbrainz.org/artist/6b458b58-15f1-420d-9c0a-0ae754dc144d'
+  spotify: 'https://open.spotify.com/artist/66OdpKZ210RZPjoEYY2UF1'
   wikipedia: Not found
 image_path: ''
 biography_enhanced_at: '2025-12-22T01:38:59.125938'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- WWOZ New Orleans 90.7 FM - Cajun and Zydeco Music for the Christmas Season
-- YouTube - La veille de Noel by Paul Daigle and Robert Elkins featuring Hasa Ortego
+  - WWOZ New Orleans 90.7 FM - Cajun and Zydeco Music for the Christmas Season
+  - >-
+    YouTube - La veille de Noel by Paul Daigle and Robert Elkins featuring Hasa
+    Ortego
 network_extracted: true
 entry_created: '2025-12-22T01:38:59.125945'
 last_updated: '2025-12-23T08:16:09.533657'
 musicbrainz_id: 6b458b58-15f1-420d-9c0a-0ae754dc144d
+origin: 'Louisiana, United States'
 ---
 
 ![]()

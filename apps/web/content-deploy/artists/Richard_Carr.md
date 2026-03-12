@@ -3,13 +3,17 @@ title: Richard Carr
 wiki_slug: richard-carr
 schema_version: 2
 status: active
-birth_place: St. Louis, Missouri, United States (birthplace); New Orleans, Louisiana, United States (career origin)
+birth_place: >-
+  St. Louis, Missouri, United States (birthplace); New Orleans, Louisiana,
+  United States (career origin)
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Richard_Carr.jpg
   caption: Richard Carr
   background: solo_singer
-  origin: St. Louis, Missouri, United States (birthplace); New Orleans, Louisiana, United States (career origin)
+  origin: >-
+    St. Louis, Missouri, United States (birthplace); New Orleans, Louisiana,
+    United States (career origin)
 audio_profile:
   tempo_avg: 110.4
   energy_avg: 0.211
@@ -25,42 +29,44 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Blooz Brothers Band
-  - Various New Orleans singer/songwriters
+    - The Blooz Brothers Band
+    - Various New Orleans singer/songwriters
   influenced:
-  - Local New Orleans musicians
+    - Local New Orleans musicians
   mentors:
-  - Keith Jarrett
-  - George Winston
+    - Keith Jarrett
+    - George Winston
 spotify_data:
   followers: 377
   id: 3WbWxiJ9tmG3N2C4Z1Hb5I
   popularity: 11
-  url: https://open.spotify.com/artist/3WbWxiJ9tmG3N2C4Z1Hb5I
+  url: 'https://open.spotify.com/artist/3WbWxiJ9tmG3N2C4Z1Hb5I'
 discography_enriched: true
 top_tracks:
-- Cadillac (Homegrown)
-- 'The Leap: III. Probing the Depths (Richard Carr: The Leap)'
-- 'The Leap: II. Confluence (Richard Carr: The Leap)'
-- The Traveler
-- 'The Leap: IV. Acceleration to the Precipice (Richard Carr: The Leap)'
-- 'The Leap: V. Mid-Air Regrets (Richard Carr: The Leap)'
-- Sun Ritual (August Dreams)
-- 'The Leap: I. Gathering Light (Richard Carr: The Leap)'
-- On the Shoulders of Giants (August Dreams)
-- Satellite (August Dreams)
+  - Cadillac (Homegrown)
+  - 'The Leap: III. Probing the Depths (Richard Carr: The Leap)'
+  - 'The Leap: II. Confluence (Richard Carr: The Leap)'
+  - The Traveler
+  - 'The Leap: IV. Acceleration to the Precipice (Richard Carr: The Leap)'
+  - 'The Leap: V. Mid-Air Regrets (Richard Carr: The Leap)'
+  - Sun Ritual (August Dreams)
+  - 'The Leap: I. Gathering Light (Richard Carr: The Leap)'
+  - On the Shoulders of Giants (August Dreams)
+  - Satellite (August Dreams)
 external_urls:
-  spotify: https://open.spotify.com/artist/3WbWxiJ9tmG3N2C4Z1Hb5I
+  spotify: 'https://open.spotify.com/artist/3WbWxiJ9tmG3N2C4Z1Hb5I'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/Richard_Carr.jpg
 biography_enhanced_at: '2025-10-19T11:09:55.915771'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://mainlypiano.com/interviews/richard-carr-2004-april
+  - 'https://mainlypiano.com/interviews/richard-carr-2004-april'
 network_extracted: true
 entry_created: '2025-10-19T11:09:55.915783'
 last_updated: '2025-12-23T08:16:03.688162'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](Richard_Carr.jpg)

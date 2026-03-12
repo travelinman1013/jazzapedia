@@ -1,53 +1,52 @@
 ---
 artist_type: person
 biography_enhanced_at: '2025-12-29T01:09:52.966616'
-birth_place: Chillicothe, Ohio, USA
-disambiguation: American country, bluegrass singer, songwriter
+birth_place: 'Chillicothe, Ohio, USA'
+disambiguation: 'American country, bluegrass singer, songwriter'
 enhancement_provider: perplexity
 entry_created: '2025-12-29T01:09:52.966634'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/44b2e17a-4526-4f0c-b531-1610c0324127
-  spotify: https://open.spotify.com/artist/0vkoBzaQQvNfgn8wejIwtH
+  musicbrainz: 'https://musicbrainz.org/artist/44b2e17a-4526-4f0c-b531-1610c0324127'
+  spotify: 'https://open.spotify.com/artist/0vkoBzaQQvNfgn8wejIwtH'
   wikipedia: ''
 gender: Male
 genres:
-- bluegrass
-- christian country
-- southern gospel
+  - bluegrass
+  - christian country
+  - southern gospel
 image_path: 03_Resources/source_material/ArtistPortraits/jerry_salley.jpg
 instruments:
-- background vocals
-- tenor vocals
+  - background vocals
+  - tenor vocals
 last_updated: '2025-12-29T01:09:52.966636'
 musical_connections:
   collaborators:
-  - Steven Curtis Chapman
-  - Carl Jackson
-  - Larry Cordle
-  - Rhonda Vincent
-  - Vince Gill
-  - Ricky Skaggs
+    - Steven Curtis Chapman
+    - Carl Jackson
+    - Larry Cordle
+    - Rhonda Vincent
+    - Vince Gill
+    - Ricky Skaggs
   influenced: []
   mentors:
-  - Father
-  - Grandfather
+    - Father
+    - Grandfather
 musicbrainz_id: 44b2e17a-4526-4f0c-b531-1610c0324127
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://jerrysalley.com/bio/
-- https://smswf.com/jerry-salley-bio-2/
-- https://www.sgmradio.com/2010/08/04/artist-feature-jerry-salley/
-- https://bluegrassunlimited.com/article/the-songwriter/
-- https://bluegrasstoday.com/the-songwriter-jerry-salley/
+  - 'https://jerrysalley.com/bio/'
+  - 'https://smswf.com/jerry-salley-bio-2/'
+  - 'https://www.sgmradio.com/2010/08/04/artist-feature-jerry-salley/'
+  - 'https://bluegrassunlimited.com/article/the-songwriter/'
+  - 'https://bluegrasstoday.com/the-songwriter-jerry-salley/'
 spotify_data:
   followers: 1302
   id: 0vkoBzaQQvNfgn8wejIwtH
   popularity: 14
-  url: https://open.spotify.com/artist/0vkoBzaQQvNfgn8wejIwtH
+  url: 'https://open.spotify.com/artist/0vkoBzaQQvNfgn8wejIwtH'
 status: active
-title: JERRY SALLEY
-
+title: Jerry Salley
 ---
 
 ![](jerry_salley.jpg)

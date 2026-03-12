@@ -3,15 +3,15 @@ title: Otis Gibbs
 wiki_slug: otis-gibbs
 schema_version: 2
 status: active
-birth_place: Wanamaker, Indiana, United States
+birth_place: 'Wanamaker, Indiana, United States'
 genres:
-- americana
-- alt country
+  - americana
+  - alt country
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/otis_gibbs.jpg
   caption: Otis Gibbs
   background: solo_singer
-  origin: Wanamaker, Indiana, United States
+  origin: 'Wanamaker, Indiana, United States'
 audio_profile:
   tempo_avg: 120.7
   energy_avg: 0.419
@@ -27,48 +27,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Amy Lashley
-  - Mando Saenz
-  - Chris Shiflett
-  - Delbert McClinton
+    - Amy Lashley
+    - Mando Saenz
+    - Chris Shiflett
+    - Delbert McClinton
   influenced:
-  - Independent country and roots musicians
+    - Independent country and roots musicians
   mentors:
-  - Methodist hymn tradition
+    - Methodist hymn tradition
 spotify_data:
   followers: 12794
   id: 28ArvZS9yIxIPnPCDD5IXD
   popularity: 30
-  url: https://open.spotify.com/artist/28ArvZS9yIxIPnPCDD5IXD
+  url: 'https://open.spotify.com/artist/28ArvZS9yIxIPnPCDD5IXD'
 discography_enriched: true
 top_tracks:
-- The Darker Side of Me (Souvenirs of a Misspent Youth)
-- Ghosts of Our Fathers (Souvenirs of a Misspent Youth)
-- Kansas City (Joe Hill's Ashes)
-- Eastside (Eastside)
-- It Was a Train (Souvenirs of a Misspent Youth)
-- Big Whiskers (Harder Than Hammered Hell)
-- Raze (Raze)
-- Joe Hill's Ashes (Joe Hill's Ashes)
-- Where Only the Graves Are Real (Joe Hill's Ashes)
-- Panhead (Hoosier National)
+  - The Darker Side of Me (Souvenirs of a Misspent Youth)
+  - Ghosts of Our Fathers (Souvenirs of a Misspent Youth)
+  - Kansas City (Joe Hill's Ashes)
+  - Eastside (Eastside)
+  - It Was a Train (Souvenirs of a Misspent Youth)
+  - Big Whiskers (Harder Than Hammered Hell)
+  - Raze (Raze)
+  - Joe Hill's Ashes (Joe Hill's Ashes)
+  - Where Only the Graves Are Real (Joe Hill's Ashes)
+  - Panhead (Hoosier National)
 external_urls:
-  spotify: https://open.spotify.com/artist/28ArvZS9yIxIPnPCDD5IXD
-  wikipedia: https://en.wikipedia.org/wiki/Otis_Gibbs
+  spotify: 'https://open.spotify.com/artist/28ArvZS9yIxIPnPCDD5IXD'
+  wikipedia: 'https://en.wikipedia.org/wiki/Otis_Gibbs'
 image_path: 03_Resources/source_material/ArtistPortraits/otis_gibbs.jpg
 biography_enhanced_at: '2025-12-22T01:40:24.108487'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Otis_Gibbs
-- https://americana-uk.com/more-people-should-really-know-about-otis-gibbs
-- https://savingcountrymusic.com/otis-gibbs-shares-his-souvenirs-of-a-misspent-youth/
-- https://mokbpresents.com/artist/otis-gibbs/
-- https://tskw.org/otis-gibbs-in-concert/
+  - 'https://en.wikipedia.org/wiki/Otis_Gibbs'
+  - 'https://americana-uk.com/more-people-should-really-know-about-otis-gibbs'
+  - >-
+    https://savingcountrymusic.com/otis-gibbs-shares-his-souvenirs-of-a-misspent-youth/
+  - 'https://mokbpresents.com/artist/otis-gibbs/'
+  - 'https://tskw.org/otis-gibbs-in-concert/'
 network_extracted: true
 entry_created: '2025-12-22T01:40:24.108493'
 last_updated: '2025-12-23T08:16:13.866227'
-
+artist_type: person
 ---
 
 ![](otis_gibbs.jpg)

@@ -1,18 +1,18 @@
 ---
-title: george thorogood
+title: George Thorogood
 wiki_slug: george-thorogood
 schema_version: 2
 status: active
-birth_place: Wilmington, Delaware, United States
+birth_place: 'Wilmington, Delaware, United States'
 genres:
-- classic rock
-- blues rock
-- southern rock
+  - classic rock
+  - blues rock
+  - southern rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/george_thorogood.jpg
   caption: george thorogood
   background: solo_singer
-  origin: Wilmington, Delaware, United States
+  origin: 'Wilmington, Delaware, United States'
 audio_profile:
   tempo_avg: 146.7
   energy_avg: 0.815
@@ -28,53 +28,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jeff Simon
-  - Bill Blough
-  - Hank "Hurricane" Carter
-  - Buddy Leach
-  - The Rolling Stones
+    - Jeff Simon
+    - Bill Blough
+    - Hank "Hurricane" Carter
+    - Buddy Leach
+    - The Rolling Stones
   influenced:
-  - Mainstream rock and radio audiences for classic American blues and roots music
+    - >-
+      Mainstream rock and radio audiences for classic American blues and roots
+      music
   mentors:
-  - John Lee Hooker
-  - Hank Williams
-  - Bo Diddley
+    - John Lee Hooker
+    - Hank Williams
+    - Bo Diddley
 spotify_data:
   followers: 1032010
   id: 4n31svBA9GGIYxGxgrQaRK
   popularity: 59
-  url: https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK
+  url: 'https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK'
 discography_enriched: true
 top_tracks:
-- Bad To The Bone (BAD TO THE BONE)
-- One Bourbon, One Scotch, One Beer (George Thorogood & the Destroyers)
-- 'Who Do You Love? (Essential Recordings: One Bourbon, One Scotch, One Beer)'
-- I Drink Alone (Maverick)
-- 'Move It On Over (Essential Recordings: One Bourbon, One Scotch, One Beer)'
-- Get A Haircut (Haircut)
-- Move It On Over (The Baddest Of George Thorogood And The Destroyers)
-- Gear Jammer (Maverick)
-- Who Do You Love? (The Baddest Of George Thorogood And The Destroyers)
-- Madison Blues (George Thorogood & the Destroyers)
+  - Bad To The Bone (BAD TO THE BONE)
+  - 'One Bourbon, One Scotch, One Beer (George Thorogood & the Destroyers)'
+  - 'Who Do You Love? (Essential Recordings: One Bourbon, One Scotch, One Beer)'
+  - I Drink Alone (Maverick)
+  - 'Move It On Over (Essential Recordings: One Bourbon, One Scotch, One Beer)'
+  - Get A Haircut (Haircut)
+  - Move It On Over (The Baddest Of George Thorogood And The Destroyers)
+  - Gear Jammer (Maverick)
+  - Who Do You Love? (The Baddest Of George Thorogood And The Destroyers)
+  - Madison Blues (George Thorogood & the Destroyers)
 external_urls:
-  spotify: https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK
-  wikipedia: https://en.wikipedia.org/wiki/George_Thorogood
+  spotify: 'https://open.spotify.com/artist/4n31svBA9GGIYxGxgrQaRK'
+  wikipedia: 'https://en.wikipedia.org/wiki/George_Thorogood'
 image_path: 03_Resources/source_material/ArtistPortraits/george_thorogood.jpg
 biography_enhanced_at: '2025-12-06T05:57:36.222847'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://kids.kiddle.co/George_Thorogood
-- https://mabumbe.com/people/george-thorogood-age-net-worth-relationships-biography/
-- https://www.last.fm/music/George+Thorogood/+wiki
-- https://charleston.com/charleston-insider/arts-culture/50-years-later-george-thorogood-still-bad-to-the-bone
-- https://www.primeontheweb.com/featurestory/georgethorogood/
-- https://www.georgethorogood.com/the-band.html
-- https://www.allamericanspeakers.com/speakers/403975/George-Thorogood-&-The-Destroyers
-- https://www.imdb.com/name/nm0973888/bio/
+  - 'https://kids.kiddle.co/George_Thorogood'
+  - >-
+    https://mabumbe.com/people/george-thorogood-age-net-worth-relationships-biography/
+  - 'https://www.last.fm/music/George+Thorogood/+wiki'
+  - >-
+    https://charleston.com/charleston-insider/arts-culture/50-years-later-george-thorogood-still-bad-to-the-bone
+  - 'https://www.primeontheweb.com/featurestory/georgethorogood/'
+  - 'https://www.georgethorogood.com/the-band.html'
+  - >-
+    https://www.allamericanspeakers.com/speakers/403975/George-Thorogood-&-The-Destroyers
+  - 'https://www.imdb.com/name/nm0973888/bio/'
 network_extracted: true
 entry_created: '2025-12-06T05:57:36.222859'
 last_updated: '2025-12-23T08:16:09.124875'
+birth_date: '1950-02-24'
+artist_type: person
 ---
 
 ![](george_thorogood.jpg)

@@ -4,9 +4,10 @@ wiki_slug: dizzy-gillespie-arturo-sandoval
 schema_version: 2
 status: active
 genres:
-- latin jazz
+  - latin jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/dizzy_gillespie_and_arturo_sandoval.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/dizzy_gillespie_and_arturo_sandoval.jpg
   caption: Dizzy Gillespie & Arturo Sandoval
   background: solo_singer
 audio_profile:
@@ -24,52 +25,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Irakere
-  - Herbie Hancock
-  - Woody Herman
-  - Josh Groban
-  - Tony Bennett
-  - Frank Sinatra
-  - Michel Legrand
-  - Alicia Keys
+    - Irakere
+    - Herbie Hancock
+    - Woody Herman
+    - Josh Groban
+    - Tony Bennett
+    - Frank Sinatra
+    - Michel Legrand
+    - Alicia Keys
   influenced: []
   mentors:
-  - Dizzy Gillespie
-  - Charlie Parker
-  - Clifford Brown
+    - Dizzy Gillespie
+    - Charlie Parker
+    - Clifford Brown
 spotify_data:
   followers: 207
   id: 0PvD7SEa64UcDOnnbJWeq7
   popularity: 16
-  url: https://open.spotify.com/artist/0PvD7SEa64UcDOnnbJWeq7
+  url: 'https://open.spotify.com/artist/0PvD7SEa64UcDOnnbJWeq7'
 discography_enriched: true
 top_tracks:
-- A Night in Tunisia (Tumbaito)
-- Relax (Tumbaito)
-- Tunisian Blues (Tumbaito)
-- Nuestro Blues (Tumbaito)
-- Los Elefantes (Tumbaito)
-- Tumbaito (Tumbaito)
-- Un alma más (feat. Arturo Sandoval) (The Josh Groban Collection)
-- Solo Esta Soledad (with Josh Groban) (Hidden Gems)
+  - A Night in Tunisia (Tumbaito)
+  - Relax (Tumbaito)
+  - Tunisian Blues (Tumbaito)
+  - Nuestro Blues (Tumbaito)
+  - Los Elefantes (Tumbaito)
+  - Tumbaito (Tumbaito)
+  - Un alma más (feat. Arturo Sandoval) (The Josh Groban Collection)
+  - Solo Esta Soledad (with Josh Groban) (Hidden Gems)
 external_urls:
-  spotify: https://open.spotify.com/artist/0PvD7SEa64UcDOnnbJWeq7
-  wikipedia: https://en.wikipedia.org/wiki/Arturo_Sandoval
-image_path: 03_Resources/source_material/ArtistPortraits/dizzy_gillespie_and_arturo_sandoval.jpg
+  spotify: 'https://open.spotify.com/artist/0PvD7SEa64UcDOnnbJWeq7'
+  wikipedia: 'https://en.wikipedia.org/wiki/Arturo_Sandoval'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/dizzy_gillespie_and_arturo_sandoval.jpg
 biography_enhanced_at: '2025-12-23T01:57:50.836793'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Arturo Sandoval
-- 'Adrienne Arsht Center - Arturo Sandoval: A Master of Afro-Cuban Jazz'
-- KGUmusic - Arturo Sandoval. Unusual facts from the biography
-- Arturo Sandoval Official Website
-- LA Phil - Arturo Sandoval
-- The Midwest Clinic - A Conversation with Arturo Sandoval
+  - Wikipedia - Arturo Sandoval
+  - 'Adrienne Arsht Center - Arturo Sandoval: A Master of Afro-Cuban Jazz'
+  - KGUmusic - Arturo Sandoval. Unusual facts from the biography
+  - Arturo Sandoval Official Website
+  - LA Phil - Arturo Sandoval
+  - The Midwest Clinic - A Conversation with Arturo Sandoval
 network_extracted: true
 entry_created: '2025-12-23T01:57:50.836802'
 last_updated: '2025-12-23T08:16:07.792306'
-
+birth_place: 'Cheraw, South Carolina, United States'
+origin: >-
+  Artemisa, Havana, Cuba (Sandoval's birthplace); Cheraw, South Carolina, USA
+  (Gillespie's birthplace)
+birth_date: '1949-11-06'
+artist_type: person
 ---
 
 ![](dizzy_gillespie_and_arturo_sandoval.jpg)

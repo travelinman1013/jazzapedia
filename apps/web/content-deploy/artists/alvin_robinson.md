@@ -1,16 +1,16 @@
 ---
-title: alvin robinson
+title: Alvin Robinson
 wiki_slug: alvin-robinson
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- soul blues
+  - soul blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/alvin_robinson.jpg
   caption: alvin robinson
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 107.4
   energy_avg: 0.574
@@ -26,55 +26,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dr. John
-  - Wardell Quezergue
-  - Harold Battiste
-  - King Curtis
+    - Dr. John
+    - Wardell Quezergue
+    - Harold Battiste
+    - King Curtis
   influenced:
-  - The Rolling Stones
-  - Jimi Hendrix
-  - Stevie Ray Vaughan
-  - Dr. John
+    - The Rolling Stones
+    - Jimi Hendrix
+    - Stevie Ray Vaughan
+    - Dr. John
   mentors:
-  - Joe Jones
-  - Jerry Leiber and Mike Stoller
-  - Ray Charles
+    - Joe Jones
+    - Jerry Leiber and Mike Stoller
+    - Ray Charles
 spotify_data:
   followers: 1981
   id: 3J2KA7iktnREuTJnn6uwgS
   popularity: 16
-  url: https://open.spotify.com/artist/3J2KA7iktnREuTJnn6uwgS
+  url: 'https://open.spotify.com/artist/3J2KA7iktnREuTJnn6uwgS'
 discography_enriched: true
 top_tracks:
-- 'Down Home Girl (I Wanna Love Him So Bad: ''60s Pop Hits & Rarities)'
-- Tuned in, Turned On (Gumbo Stew)
-- 'Let The Good Times Roll (I Wanna Love Him So Bad: ''60s Pop Hits & Rarities)'
-- 'Something You Got (I Wanna Love Him So Bad: ''60s Pop Hits & Rarities)'
-- Down Home Girl - Original (Alvin Robinson's Fever)
-- 'Fever (I Wanna Love Him So Bad: ''60s Pop Hits & Rarities)'
-- Let The Good Times Roll - Original (The Red Bird Story CD 1)
-- Fever - Original (Alvin Robinson's Fever)
-- Empty Talk (Gumbo Stew)
-- Better Be Cool (More Gumbo Stew)
+  - 'Down Home Girl (I Wanna Love Him So Bad: ''60s Pop Hits & Rarities)'
+  - 'Tuned in, Turned On (Gumbo Stew)'
+  - 'Let The Good Times Roll (I Wanna Love Him So Bad: ''60s Pop Hits & Rarities)'
+  - 'Something You Got (I Wanna Love Him So Bad: ''60s Pop Hits & Rarities)'
+  - Down Home Girl - Original (Alvin Robinson's Fever)
+  - 'Fever (I Wanna Love Him So Bad: ''60s Pop Hits & Rarities)'
+  - Let The Good Times Roll - Original (The Red Bird Story CD 1)
+  - Fever - Original (Alvin Robinson's Fever)
+  - Empty Talk (Gumbo Stew)
+  - Better Be Cool (More Gumbo Stew)
 external_urls:
-  spotify: https://open.spotify.com/artist/3J2KA7iktnREuTJnn6uwgS
-  wikipedia: https://en.wikipedia.org/wiki/Alvin_Robinson_(musician)
+  spotify: 'https://open.spotify.com/artist/3J2KA7iktnREuTJnn6uwgS'
+  wikipedia: 'https://en.wikipedia.org/wiki/Alvin_Robinson_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/alvin_robinson.jpg
 biography_enhanced_at: '2025-11-27T06:33:47.949155'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Alvin Robinson (musician)
-- Last.fm - Alvin Robinson
-- AllMusic - Alvin Robinson Biography
-- Brace for the Obscure 60s Rock - Down Home Girl Special Edition
-- Red Kelly Blog - Al Robinson Wake Up
-- 'Elsewhere by Graham Reid - Alvin Robinson: Down Home Girl (1964)'
-- A Modernist Blog - Alvin Robinson (1937-1989)
-- LiveOne - Alvin Robinson
+  - Wikipedia - Alvin Robinson (musician)
+  - Last.fm - Alvin Robinson
+  - AllMusic - Alvin Robinson Biography
+  - Brace for the Obscure 60s Rock - Down Home Girl Special Edition
+  - Red Kelly Blog - Al Robinson Wake Up
+  - 'Elsewhere by Graham Reid - Alvin Robinson: Down Home Girl (1964)'
+  - A Modernist Blog - Alvin Robinson (1937-1989)
+  - LiveOne - Alvin Robinson
 network_extracted: true
 entry_created: '2025-11-27T06:33:47.949171'
 last_updated: '2025-12-23T08:16:04.647488'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](alvin_robinson.jpg)

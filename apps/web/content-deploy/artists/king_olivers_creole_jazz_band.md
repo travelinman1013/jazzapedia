@@ -4,10 +4,11 @@ wiki_slug: king-olivers-creole-jazz-band
 schema_version: 2
 status: active
 genres:
-- ragtime
-- jazz
+  - ragtime
+  - jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/king_olivers_creole_jazz_band.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/king_olivers_creole_jazz_band.jpg
   caption: King Oliver`s Creole Jazz Band
   background: solo_singer
 audio_profile:
@@ -25,55 +26,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Louis Armstrong
-  - Johnny Dodds
-  - Honoré Dutrey
-  - Lil Hardin (Lil Hardin Armstrong)
-  - Baby Dodds
-  - Bill Johnson
+    - Louis Armstrong
+    - Johnny Dodds
+    - Honoré Dutrey
+    - Lil Hardin (Lil Hardin Armstrong)
+    - Baby Dodds
+    - Bill Johnson
   influenced:
-  - Louis Armstrong
-  - Early swing and big band leaders (e.g., later 1920s–1930s jazz orchestras)
-  - Subsequent New Orleans and traditional jazz revival bands
+    - Louis Armstrong
+    - 'Early swing and big band leaders (e.g., later 1920s–1930s jazz orchestras)'
+    - Subsequent New Orleans and traditional jazz revival bands
   mentors:
-  - Joe “King” Oliver
+    - Joe “King” Oliver
 spotify_data:
   followers: 12388
   id: 08Zk65toyJllap1MnzljxZ
   popularity: 19
-  url: https://open.spotify.com/artist/08Zk65toyJllap1MnzljxZ
+  url: 'https://open.spotify.com/artist/08Zk65toyJllap1MnzljxZ'
 discography_enriched: true
 top_tracks:
-- Dippermouth Blues (Louis Armstrong And King Oliver)
-- Canal Street Blues (Louis Armstrong And King Oliver)
-- Alligator Hop (Louis Armstrong And King Oliver)
-- Snake Rag (Louis Armstrong And King Oliver)
-- Just Gone (Louis Armstrong And King Oliver)
-- 'Tears (Louis Armstrong: Portrait Of The Artist As A Young Man 1923-1934)'
-- Mandy Lee Blues (Louis Armstrong And King Oliver)
-- Dipper Mouth Blues (King of the Blues Clarinet 1923 - 1940)
-- Chimes Blues (Louis Armstrong And King Oliver)
-- Froggie Moore (Louis Armstrong And King Oliver)
+  - Dippermouth Blues (Louis Armstrong And King Oliver)
+  - Canal Street Blues (Louis Armstrong And King Oliver)
+  - Alligator Hop (Louis Armstrong And King Oliver)
+  - Snake Rag (Louis Armstrong And King Oliver)
+  - Just Gone (Louis Armstrong And King Oliver)
+  - 'Tears (Louis Armstrong: Portrait Of The Artist As A Young Man 1923-1934)'
+  - Mandy Lee Blues (Louis Armstrong And King Oliver)
+  - Dipper Mouth Blues (King of the Blues Clarinet 1923 - 1940)
+  - Chimes Blues (Louis Armstrong And King Oliver)
+  - Froggie Moore (Louis Armstrong And King Oliver)
 external_urls:
-  spotify: https://open.spotify.com/artist/08Zk65toyJllap1MnzljxZ
-  wikipedia: https://en.wikipedia.org/wiki/King_Oliver
+  spotify: 'https://open.spotify.com/artist/08Zk65toyJllap1MnzljxZ'
+  wikipedia: 'https://en.wikipedia.org/wiki/King_Oliver'
 image_path: 03_Resources/source_material/ArtistPortraits/king_olivers_creole_jazz_band.jpg
 biography_enhanced_at: '2025-12-20T01:11:56.138575'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://musicalgeography.org/king-oliver/
-- https://www.ebsco.com/research-starters/history/king-oliver
-- https://trackingangle.com/music/centennial-king-olivers-creole-jazz-band
-- https://www.louisarmstronghouse.org/west-end-blog/joe-oliver-the-king/
-- https://scholarship.richmond.edu/cgi/viewcontent.cgi?article=1006&context=music-faculty-publications
-- https://en.wikipedia.org/wiki/King_Oliver
-- https://convocations.purdue.edu/king-olivers-creole-jazz-band-recording-of-dippermouth-blues-celebrates-100th-anniversary/
-- https://syncopatedtimes.com/king-olivers-creole-jazz-band/
+  - 'https://musicalgeography.org/king-oliver/'
+  - 'https://www.ebsco.com/research-starters/history/king-oliver'
+  - 'https://trackingangle.com/music/centennial-king-olivers-creole-jazz-band'
+  - 'https://www.louisarmstronghouse.org/west-end-blog/joe-oliver-the-king/'
+  - >-
+    https://scholarship.richmond.edu/cgi/viewcontent.cgi?article=1006&context=music-faculty-publications
+  - 'https://en.wikipedia.org/wiki/King_Oliver'
+  - >-
+    https://convocations.purdue.edu/king-olivers-creole-jazz-band-recording-of-dippermouth-blues-celebrates-100th-anniversary/
+  - 'https://syncopatedtimes.com/king-olivers-creole-jazz-band/'
 network_extracted: true
 entry_created: '2025-12-20T01:11:56.138584'
 last_updated: '2025-12-23T08:16:11.393262'
-origin: Chicago, Illinois, United States (primary base of operations; most famous residency at Lincoln Gardens)
+origin: >-
+  Chicago, Illinois, United States (primary base of operations; most famous
+  residency at Lincoln Gardens)
+artist_type: band
 ---
 
 ![](king_olivers_creole_jazz_band.jpg)

@@ -1,5 +1,5 @@
 ---
-title: afroskull
+title: Afroskull
 wiki_slug: afroskull
 schema_version: 2
 status: active
@@ -14,7 +14,7 @@ audio_profile:
   valence_avg: 0.404
   danceability_avg: 0.747
   acousticness_avg: 0.191
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -8.6
   speechiness_avg: 0.05
   liveness_avg: 0.189
@@ -23,48 +23,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Joe Scatassa
-  - Jason Isaac
+    - Joe Scatassa
+    - Jason Isaac
   influenced: []
   mentors: []
 spotify_data:
   followers: 1132
   id: 1Kcc89YXqrHEhuMQ4sj1nb
   popularity: 17
-  url: https://open.spotify.com/artist/1Kcc89YXqrHEhuMQ4sj1nb
+  url: 'https://open.spotify.com/artist/1Kcc89YXqrHEhuMQ4sj1nb'
 discography_enriched: true
 top_tracks:
-- Broken in Your Arms (Broken in Your Arms)
-- Miles Between Us (Miles Between Us)
-- Silent Walls (Silent Walls)
-- Callin' You (Callin' You)
-- When You Looked My Way (When You Looked My Way)
-- Picking up the Pieces (Picking up the Pieces)
-- When It's Over (When It's Over)
-- Under These Sheets (Under These Sheets)
-- Can't Stay Away (Can't Stay Away)
-- Between Us (Between Us)
+  - Broken in Your Arms (Broken in Your Arms)
+  - Miles Between Us (Miles Between Us)
+  - Silent Walls (Silent Walls)
+  - Callin' You (Callin' You)
+  - When You Looked My Way (When You Looked My Way)
+  - Picking up the Pieces (Picking up the Pieces)
+  - When It's Over (When It's Over)
+  - Under These Sheets (Under These Sheets)
+  - Can't Stay Away (Can't Stay Away)
+  - Between Us (Between Us)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7e3be57a-c3e0-4d6b-999e-fc884d185d8a
-  spotify: https://open.spotify.com/artist/1Kcc89YXqrHEhuMQ4sj1nb
+  musicbrainz: 'https://musicbrainz.org/artist/7e3be57a-c3e0-4d6b-999e-fc884d185d8a'
+  spotify: 'https://open.spotify.com/artist/1Kcc89YXqrHEhuMQ4sj1nb'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/afroskull.jpg
 biography_enhanced_at: '2025-12-13T11:09:22.467926'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Afroskull official site – About/biography page[3]
-- Afroskull official site – main page and band description[5]
-- Free Music Archive – Afroskull artist bio[8]
-- ProgArchives – Afroskull artist entry and genre classification[2]
-- JazzMusicArchives – Afroskull artist entry and discography[6]
-- Jambands.com – review of "To Obscurity and Beyond"[7]
-- Viberate – Afroskull artist profile (location and style)[1]
+  - 'Afroskull official site – About/biography page[3]'
+  - 'Afroskull official site – main page and band description[5]'
+  - 'Free Music Archive – Afroskull artist bio[8]'
+  - 'ProgArchives – Afroskull artist entry and genre classification[2]'
+  - 'JazzMusicArchives – Afroskull artist entry and discography[6]'
+  - 'Jambands.com – review of "To Obscurity and Beyond"[7]'
+  - 'Viberate – Afroskull artist profile (location and style)[1]'
 network_extracted: true
 entry_created: '2025-12-13T11:09:22.467952'
 last_updated: '2025-12-23T08:16:04.406438'
 musicbrainz_id: 7e3be57a-c3e0-4d6b-999e-fc884d185d8a
-origin: New Orleans, Louisiana, United States (origin; later based in Brooklyn, New York, United States)
+origin: >-
+  New Orleans, Louisiana, United States (origin; later based in Brooklyn, New
+  York, United States)
+artist_type: band
 ---
 
 ![](afroskull.jpg)

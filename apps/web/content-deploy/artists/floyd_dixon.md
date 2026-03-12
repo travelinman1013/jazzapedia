@@ -1,19 +1,19 @@
 ---
-title: floyd dixon
+title: Floyd Dixon
 wiki_slug: floyd-dixon
 schema_version: 2
 status: active
-birth_place: Marshall, Texas, United States
+birth_place: 'Marshall, Texas, United States'
 genres:
-- boogie-woogie
-- blues
-- classic blues
-- swing music
+  - boogie-woogie
+  - blues
+  - classic blues
+  - swing music
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/floyd_dixon.jpg
   caption: floyd dixon
   background: solo_singer
-  origin: Marshall, Texas, United States
+  origin: 'Marshall, Texas, United States'
 audio_profile:
   tempo_avg: 122.6
   energy_avg: 0.406
@@ -29,51 +29,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Johnny Moore’s Three Blazers
-  - Johnny Moore
-  - Pinetop Perkins
+    - Johnny Moore’s Three Blazers
+    - Johnny Moore
+    - Pinetop Perkins
   influenced:
-  - The Blues Brothers (John Belushi & Dan Aykroyd)
+    - The Blues Brothers (John Belushi & Dan Aykroyd)
   mentors:
-  - Charles Brown
-  - Johnny Otis
+    - Charles Brown
+    - Johnny Otis
 spotify_data:
   followers: 7854
   id: 5UCUtfCh50agObTTt2ma1M
   popularity: 32
-  url: https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M
+  url: 'https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M'
 discography_enriched: true
 top_tracks:
-- Hey, Bartender (Wake Up And Live!)
-- 450 Pound Woman (Wake Up And Live!)
-- Hey Bartender (Marshall Texas Is My Home)
-- I Wanna Rock Now (Wake Up And Live!)
-- Skeet's California Sunshine (Wake Up And Live!)
-- You Know That'll Get It (Wake Up And Live!)
-- Wine, Wine, Wine (His Complete Aladdin Recordings)
-- A Dream (Wake Up And Live!)
-- Rockin' At Home (Wake Up And Live!)
-- Getting' Ready (Wake Up And Live!)
+  - 'Hey, Bartender (Wake Up And Live!)'
+  - 450 Pound Woman (Wake Up And Live!)
+  - Hey Bartender (Marshall Texas Is My Home)
+  - I Wanna Rock Now (Wake Up And Live!)
+  - Skeet's California Sunshine (Wake Up And Live!)
+  - You Know That'll Get It (Wake Up And Live!)
+  - 'Wine, Wine, Wine (His Complete Aladdin Recordings)'
+  - A Dream (Wake Up And Live!)
+  - Rockin' At Home (Wake Up And Live!)
+  - Getting' Ready (Wake Up And Live!)
 external_urls:
-  spotify: https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M
-  wikipedia: https://en.wikipedia.org/wiki/Floyd_Dixon
+  spotify: 'https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M'
+  wikipedia: 'https://en.wikipedia.org/wiki/Floyd_Dixon'
 image_path: 03_Resources/source_material/ArtistPortraits/floyd_dixon.jpg
 biography_enhanced_at: '2025-12-19T02:04:49.031576'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Floyd_Dixon
-- https://www.britannica.com/biography/Floyd-Dixon
-- https://www.imdb.com/name/nm5490200/bio/
-- https://www.tshaonline.org/handbook/entries/dixon-floyd
-- https://www.geddieconnections.com/2022/01/01/49329/
-- https://www.sfgate.com/bayarea/article/floyd-dixon-singer-pianist-and-mentor-in-2515150.php
-- https://sundayblues.org/?tag=floyd-dixon
-- https://www.tracklib.com/music/artists/floyd-dixon
+  - 'https://en.wikipedia.org/wiki/Floyd_Dixon'
+  - 'https://www.britannica.com/biography/Floyd-Dixon'
+  - 'https://www.imdb.com/name/nm5490200/bio/'
+  - 'https://www.tshaonline.org/handbook/entries/dixon-floyd'
+  - 'https://www.geddieconnections.com/2022/01/01/49329/'
+  - >-
+    https://www.sfgate.com/bayarea/article/floyd-dixon-singer-pianist-and-mentor-in-2515150.php
+  - 'https://sundayblues.org/?tag=floyd-dixon'
+  - 'https://www.tracklib.com/music/artists/floyd-dixon'
 network_extracted: true
 entry_created: '2025-12-19T02:04:49.031587'
 last_updated: '2025-12-23T08:16:08.729289'
-
+birth_date: '1929-02-08'
+death_date: '2006-07-26'
+artist_type: person
 ---
 
 ![](floyd_dixon.jpg)

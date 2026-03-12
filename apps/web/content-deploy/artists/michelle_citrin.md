@@ -3,13 +3,17 @@ title: Michelle Citrin
 wiki_slug: michelle-citrin
 schema_version: 2
 status: active
-birth_place: Fair Lawn, New Jersey, United States (birthplace); based in Brooklyn, New York, United States
+birth_place: >-
+  Fair Lawn, New Jersey, United States (birthplace); based in Brooklyn, New
+  York, United States
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/michelle_citrin.jpg
   caption: Michelle Citrin
   background: solo_singer
-  origin: Fair Lawn, New Jersey, United States (birthplace); based in Brooklyn, New York, United States
+  origin: >-
+    Fair Lawn, New Jersey, United States (birthplace); based in Brooklyn, New
+    York, United States
 audio_profile:
   tempo_avg: 122.2
   energy_avg: 0.64
@@ -25,48 +29,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jewish communal and media organizations (various)
+    - Jewish communal and media organizations (various)
   influenced:
-  - not specifically named in sources
+    - not specifically named in sources
   mentors:
-  - not publicly documented
+    - not publicly documented
 spotify_data:
   followers: 529
   id: 2jINb9SCrCBDzo6zRFdXVh
   popularity: 13
-  url: https://open.spotify.com/artist/2jINb9SCrCBDzo6zRFdXVh
+  url: 'https://open.spotify.com/artist/2jINb9SCrCBDzo6zRFdXVh'
 discography_enriched: true
 top_tracks:
-- Turn It On - Sean Tyas Remix (25 All Time Trance Classics, Vol. 1)
-- Shake Your Grogger (Shake Your Grogger)
-- Turn It On [ASOT 384] - Original Mix (A State Of Trance Episode 384 (Year Mix 2008))
-- Hanukkah Lovin' (Hanukkah Lovin')
-- Turn It On - Radio Edit (Trance Top 1000 - Selection 004)
-- Turn It On - Original Mix
-- Yihiyu
-- 20 Things You Can Do With Matzah (Rosh Hashanah Girl & The Matzah Song)
-- Turn It On [ASOT 344] **Tune Of The Week** - Original Mix (A State Of Trance Episode 344)
-- Modeh Ani (Modeh Ani)
+  - 'Turn It On - Sean Tyas Remix (25 All Time Trance Classics, Vol. 1)'
+  - Shake Your Grogger (Shake Your Grogger)
+  - >-
+    Turn It On [ASOT 384] - Original Mix (A State Of Trance Episode 384 (Year
+    Mix 2008))
+  - Hanukkah Lovin' (Hanukkah Lovin')
+  - Turn It On - Radio Edit (Trance Top 1000 - Selection 004)
+  - Turn It On - Original Mix
+  - Yihiyu
+  - 20 Things You Can Do With Matzah (Rosh Hashanah Girl & The Matzah Song)
+  - >-
+    Turn It On [ASOT 344] **Tune Of The Week** - Original Mix (A State Of Trance
+    Episode 344)
+  - Modeh Ani (Modeh Ani)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/29f67078-d5cd-47fb-894e-38057a2eb3fe
-  spotify: https://open.spotify.com/artist/2jINb9SCrCBDzo6zRFdXVh
+  musicbrainz: 'https://musicbrainz.org/artist/29f67078-d5cd-47fb-894e-38057a2eb3fe'
+  spotify: 'https://open.spotify.com/artist/2jINb9SCrCBDzo6zRFdXVh'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/michelle_citrin.jpg
 biography_enhanced_at: '2025-12-16T03:13:47.940718'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Michelle Citrin official site (michellecitrin.com)[1]
-- Temple Isaiah event bio for Michelle Citrin[2]
-- The Forward – “From YouTube to Broadway” profile of Michelle Citrin[3]
-- Last.fm artist biography for Michelle Citrin[4]
-- The Jerusalem Post – “Jewish ‘it’ girl in the US” profile[5]
-- 'Jewish Rock Radio – Featured Artist: Michelle Citrin[6]'
-- Michelle Citrin ReverbNation artist page[7]
+  - 'Michelle Citrin official site (michellecitrin.com)[1]'
+  - 'Temple Isaiah event bio for Michelle Citrin[2]'
+  - 'The Forward – “From YouTube to Broadway” profile of Michelle Citrin[3]'
+  - 'Last.fm artist biography for Michelle Citrin[4]'
+  - 'The Jerusalem Post – “Jewish ‘it’ girl in the US” profile[5]'
+  - 'Jewish Rock Radio – Featured Artist: Michelle Citrin[6]'
+  - 'Michelle Citrin ReverbNation artist page[7]'
 network_extracted: true
 entry_created: '2025-12-16T03:13:47.940732'
 last_updated: '2025-12-23T08:16:13.083869'
 musicbrainz_id: 29f67078-d5cd-47fb-894e-38057a2eb3fe
+origin: 'Brooklyn, New York, United States'
+artist_type: person
 ---
 
 ![](michelle_citrin.jpg)

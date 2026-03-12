@@ -1,20 +1,20 @@
 ---
-title: Tony Bennet
+title: Tony Bennett
 wiki_slug: tony-bennet
 schema_version: 2
 status: active
-birth_place: Astoria, Queens, New York, United States
+birth_place: 'Astoria, Queens, New York, United States'
 genres:
-- vocal jazz
-- christmas
-- big band
-- adult standards
-- jazz
+  - vocal jazz
+  - christmas
+  - big band
+  - adult standards
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/tony_bennet.jpg
   caption: Tony Bennet
   background: solo_singer
-  origin: Astoria, Queens, New York, United States
+  origin: 'Astoria, Queens, New York, United States'
 audio_profile:
   tempo_avg: 112.4
   energy_avg: 0.32
@@ -30,52 +30,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bill Evans
-  - Bill Hassett
-  - Bill Charlap
-  - Diana Krall
+    - Bill Evans
+    - Bill Hassett
+    - Bill Charlap
+    - Diana Krall
   influenced:
-  - Lady Gaga
+    - Lady Gaga
   mentors:
-  - Pearl Bailey
-  - Bob Hope
-  - Mitch Miller
-  - Ralph Sharon
+    - Pearl Bailey
+    - Bob Hope
+    - Mitch Miller
+    - Ralph Sharon
 spotify_data:
   followers: 1011624
   id: 2lolQgalUvZDfp5vvVtTYV
   popularity: 67
-  url: https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV
+  url: 'https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV'
 discography_enriched: true
 top_tracks:
-- Body and Soul (Duets II)
-- The Way You Look Tonight
-- (I Left My Heart) In San Francisco (I Left My Heart In San Francisco)
-- Don't Get Around Much Anymore (Duets II)
-- New York, New York (Duets (20th Anniversary Deluxe Edition))
-- One for My Baby (And One More for the Road) (Duets II)
-- Rags to Riches
-- The Good Life
-- 'Winter Wonderland (Snowfall: The Tony Bennett Christmas Album)'
-- '''S Wonderful (Love Is Here To Stay)'
+  - Body and Soul (Duets II)
+  - The Way You Look Tonight
+  - (I Left My Heart) In San Francisco (I Left My Heart In San Francisco)
+  - Don't Get Around Much Anymore (Duets II)
+  - 'New York, New York (Duets (20th Anniversary Deluxe Edition))'
+  - One for My Baby (And One More for the Road) (Duets II)
+  - Rags to Riches
+  - The Good Life
+  - 'Winter Wonderland (Snowfall: The Tony Bennett Christmas Album)'
+  - '''S Wonderful (Love Is Here To Stay)'
 external_urls:
-  spotify: https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV
-  wikipedia: https://en.wikipedia.org/wiki/Tony_Bennett
+  spotify: 'https://open.spotify.com/artist/2lolQgalUvZDfp5vvVtTYV'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tony_Bennett'
 image_path: 03_Resources/source_material/ArtistPortraits/tony_bennet.jpg
 biography_enhanced_at: '2025-12-04T07:41:56.455401'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Tony Bennett
-- Biography.com - Tony Bennett
-- Britannica - Tony Bennett
-- EBSCO Research Starters - Tony Bennett
-- Official Tony Bennett Website
-- National Endowment for the Arts - Tony Bennett
-- Sony Music - Tony Bennett Tribute
+  - Wikipedia - Tony Bennett
+  - Biography.com - Tony Bennett
+  - Britannica - Tony Bennett
+  - EBSCO Research Starters - Tony Bennett
+  - Official Tony Bennett Website
+  - National Endowment for the Arts - Tony Bennett
+  - Sony Music - Tony Bennett Tribute
 network_extracted: true
 entry_created: '2025-12-04T07:41:56.455412'
 last_updated: '2025-12-23T08:16:17.603549'
+birth_date: '1926-08-03'
+artist_type: person
 ---
 
 ![](tony_bennet.jpg)

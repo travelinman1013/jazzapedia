@@ -1,13 +1,13 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-13T01:11:30.699401'
-birth_place: Annapolis, Maryland, United States
+birth_place: 'Annapolis, Maryland, United States'
 disambiguation: Hip Hop
 enhancement_provider: perplexity
 entry_created: '2026-01-13T01:11:30.699407'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/473fd72e-f02b-45aa-987e-f084ad2f7a1d
-  spotify: https://open.spotify.com/artist/33FyQwDqyOB0kMeLXiXIZj
+  musicbrainz: 'https://musicbrainz.org/artist/473fd72e-f02b-45aa-987e-f084ad2f7a1d'
+  spotify: 'https://open.spotify.com/artist/33FyQwDqyOB0kMeLXiXIZj'
   wikipedia: ''
 gender: Male
 genres: []
@@ -21,17 +21,19 @@ musicbrainz_id: 473fd72e-f02b-45aa-987e-f084ad2f7a1d
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.severnaparkvoice.com/stories/skribe-pens-big-nothing-as-a-tribute-to-his-brother-others-battling-mental-illness,32465
-- https://www.viberate.com/artist/skribe/
-- https://www.bandsintown.com/e/1036713053-skribe-at-rams-head-on-stage
-- https://skribestudios.com/bio
+  - >-
+    https://www.severnaparkvoice.com/stories/skribe-pens-big-nothing-as-a-tribute-to-his-brother-others-battling-mental-illness,32465
+  - 'https://www.viberate.com/artist/skribe/'
+  - 'https://www.bandsintown.com/e/1036713053-skribe-at-rams-head-on-stage'
+  - 'https://skribestudios.com/bio'
 spotify_data:
   followers: 2434
   id: 33FyQwDqyOB0kMeLXiXIZj
   popularity: 7
-  url: https://open.spotify.com/artist/33FyQwDqyOB0kMeLXiXIZj
+  url: 'https://open.spotify.com/artist/33FyQwDqyOB0kMeLXiXIZj'
 status: active
 title: Skribe
+origin: 'Annapolis, Maryland, United States'
 ---
 
 ![](skribe.jpg)

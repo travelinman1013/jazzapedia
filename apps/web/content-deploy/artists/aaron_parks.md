@@ -5,30 +5,30 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1983-10-07'
-birth_place: Seattle
+birth_place: 'Seattle, Washington, United States'
 genres:
-- jazz
-- jazz fusion
+  - jazz
+  - jazz fusion
 instruments:
-- original
-- piano
-- Rhodes piano
-- tack piano
-- Wurlitzer electric piano
-- other vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - original
-  mbid: f0943d5e-d311-48e6-a665-fade914acaff
-  name: James Farm
-- begin: ''
-  end: ''
-  instruments:
   - piano
-  mbid: e025a183-2840-47f2-9eb5-866c21a2ae61
-  name: The E‐Collective
+  - Rhodes piano
+  - tack piano
+  - Wurlitzer electric piano
+  - other vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: f0943d5e-d311-48e6-a665-fade914acaff
+    name: James Farm
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: e025a183-2840-47f2-9eb5-866c21a2ae61
+    name: The E‐Collective
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/aaron_parks.jpg
   caption: Aaron Parks
@@ -50,59 +50,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Terence Blanchard
-  - Joshua Redman
-  - Matt Penman
-  - Eric Harland
-  - Billy Hart
-  - Ben Street
-  - Christian Scott
-  - Kendrick Scott
-  - Ambrose Akinmusire
-  - Kurt Rosenwinkel
-  - Gretchen Parlato
-  - Mike Moreno
+    - Terence Blanchard
+    - Joshua Redman
+    - Matt Penman
+    - Eric Harland
+    - Billy Hart
+    - Ben Street
+    - Christian Scott
+    - Kendrick Scott
+    - Ambrose Akinmusire
+    - Kurt Rosenwinkel
+    - Gretchen Parlato
+    - Mike Moreno
   influenced: []
   mentors:
-  - Kenny Barron
-  - Keith Jarrett
-  - Gene Harris
-  - McCoy Tyner
-  - Herbie Hancock
+    - Kenny Barron
+    - Keith Jarrett
+    - Gene Harris
+    - McCoy Tyner
+    - Herbie Hancock
 spotify_data:
   followers: 61605
   id: 22KzEvCtrTGf9l6k7zFcdv
   popularity: 43
-  url: https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv
+  url: 'https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv'
 discography_enriched: true
 top_tracks:
-- Lilac (Little Big)
-- Doors Open (Little Big)
-- Where Do You Go? (Where Do You Go?)
-- Ashé (Little Big III)
-- Small Planet (Little Big)
-- 'Here (Little Big II: Dreams of a Mechanical Man)'
-- Roadside Distraction (Invisible Cinema)
-- Praise (Invisible Cinema)
-- Afterglow (Invisible Cinema)
-- Flyways (Little Big III)
+  - Lilac (Little Big)
+  - Doors Open (Little Big)
+  - Where Do You Go? (Where Do You Go?)
+  - Ashé (Little Big III)
+  - Small Planet (Little Big)
+  - 'Here (Little Big II: Dreams of a Mechanical Man)'
+  - Roadside Distraction (Invisible Cinema)
+  - Praise (Invisible Cinema)
+  - Afterglow (Invisible Cinema)
+  - Flyways (Little Big III)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4dd62d49-9868-465b-882f-733afb40eb0d
-  spotify: https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv
-  wikipedia: https://en.wikipedia.org/wiki/Aaron_Parks
+  musicbrainz: 'https://musicbrainz.org/artist/4dd62d49-9868-465b-882f-733afb40eb0d'
+  spotify: 'https://open.spotify.com/artist/22KzEvCtrTGf9l6k7zFcdv'
+  wikipedia: 'https://en.wikipedia.org/wiki/Aaron_Parks'
 image_path: 03_Resources/source_material/ArtistPortraits/aaron_parks.jpg
 biography_enhanced_at: '2025-11-15T18:15:26.495403'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- All About Jazz - Aaron Parks Musician Profile
-- 'JazzTimes - Profile: Pianist Aaron Parks ''The Comeback Kid'''
-- São Luiz Teatro Municipal - Aaron Parks Trio
-- Music Works International - Aaron Parks
-- Wikipedia - Aaron Parks
-- Blue Note Records - Aaron Parks
-- Newvelle Records - Aaron Parks
-- Open Studio Jazz - Aaron Parks
+  - All About Jazz - Aaron Parks Musician Profile
+  - 'JazzTimes - Profile: Pianist Aaron Parks ''The Comeback Kid'''
+  - São Luiz Teatro Municipal - Aaron Parks Trio
+  - Music Works International - Aaron Parks
+  - Wikipedia - Aaron Parks
+  - Blue Note Records - Aaron Parks
+  - Newvelle Records - Aaron Parks
+  - Open Studio Jazz - Aaron Parks
 network_extracted: true
 entry_created: '2025-11-15T18:15:26.495413'
 last_updated: '2025-12-23T08:16:04.353706'
@@ -110,9 +110,10 @@ disambiguation: jazz pianist
 gender: Male
 musicbrainz_id: 4dd62d49-9868-465b-882f-733afb40eb0d
 tags:
-- contemporary jazz
-- jazz
-- jazz fusion
+  - contemporary jazz
+  - jazz
+  - jazz fusion
+origin: 'Seattle, Washington, United States'
 ---
 
 ![](aaron_parks.jpg)

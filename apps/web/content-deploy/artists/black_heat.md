@@ -1,11 +1,11 @@
 ---
-title: black heat
+title: Black Heat
 wiki_slug: black-heat
 schema_version: 2
 status: active
 genres:
-- go-go
-- breakbeat
+  - go-go
+  - breakbeat
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/black_heat.jpg
   caption: black heat
@@ -25,45 +25,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - David 'Fathead' Newman
-  - Ralph MacDonald
-  - Joel Dorn
+    - David 'Fathead' Newman
+    - Ralph MacDonald
+    - Joel Dorn
   influenced:
-  - Breakbeat and Hip-Hop Producers
+    - Breakbeat and Hip-Hop Producers
   mentors:
-  - Phillip Guilbeau
+    - Phillip Guilbeau
 spotify_data:
   followers: 14248
   id: 5VYgZ08x5HUQFmgCBggrZ3
   popularity: 19
-  url: https://open.spotify.com/artist/5VYgZ08x5HUQFmgCBggrZ3
+  url: 'https://open.spotify.com/artist/5VYgZ08x5HUQFmgCBggrZ3'
 discography_enriched: true
 top_tracks:
-- Zimba Ku (Keep On Runnin')
-- Love the Life You Live (No Time To Burn)
-- The Jungle (Black Heat)
-- Wanaoh (Black Heat)
-- Check It All Out (No Time To Burn)
-- Rapid Fire (No Time To Burn)
-- No Time to Burn (No Time To Burn)
-- Chip's Funk (Black Heat)
-- Chicken Heads (Black Heat)
-- Drive My Car (Keep On Runnin')
+  - Zimba Ku (Keep On Runnin')
+  - Love the Life You Live (No Time To Burn)
+  - The Jungle (Black Heat)
+  - Wanaoh (Black Heat)
+  - Check It All Out (No Time To Burn)
+  - Rapid Fire (No Time To Burn)
+  - No Time to Burn (No Time To Burn)
+  - Chip's Funk (Black Heat)
+  - Chicken Heads (Black Heat)
+  - Drive My Car (Keep On Runnin')
 external_urls:
-  spotify: https://open.spotify.com/artist/5VYgZ08x5HUQFmgCBggrZ3
-  wikipedia: https://en.wikipedia.org/wiki/Black_Heat
+  spotify: 'https://open.spotify.com/artist/5VYgZ08x5HUQFmgCBggrZ3'
+  wikipedia: 'https://en.wikipedia.org/wiki/Black_Heat'
 image_path: 03_Resources/source_material/ArtistPortraits/black_heat.jpg
 biography_enhanced_at: '2025-10-19T11:48:06.134877'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Black_Heat
-- https://www.soulstrut.com/Archive/black-heat-no-time-to-burn
+  - 'https://en.wikipedia.org/wiki/Black_Heat'
+  - 'https://www.soulstrut.com/Archive/black-heat-no-time-to-burn'
 network_extracted: true
 entry_created: '2025-10-19T11:48:06.134891'
 last_updated: '2025-12-23T08:16:05.648422'
-origin: Washington, D.C., United States
-
+origin: 'Washington, D.C., United States'
+artist_type: person
 ---
 
 ![](black_heat.jpg)

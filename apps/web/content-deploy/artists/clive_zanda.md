@@ -3,13 +3,13 @@ title: Clive Zanda
 wiki_slug: clive-zanda
 schema_version: 2
 status: active
-birth_place: Trinidad, Trinidad and Tobago
+birth_place: 'Trinidad, Trinidad and Tobago'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/clive_zanda.jpg
   caption: Clive Zanda
   background: solo_singer
-  origin: Trinidad, Trinidad and Tobago
+  origin: 'Trinidad, Trinidad and Tobago'
 audio_profile:
   tempo_avg: 98.6
   energy_avg: 0.661
@@ -25,50 +25,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dez Alex Combo
-  - Clive Alexander Trio
-  - Chris White
-  - Dunmore Louis Haynes, Charlie Davis, Tex Allen, David 'Happy' Williams
+    - Dez Alex Combo
+    - Clive Alexander Trio
+    - Chris White
+    - 'Dunmore Louis Haynes, Charlie Davis, Tex Allen, David ''Happy'' Williams'
   influenced:
-  - Michael Georges, Michael 'Toby' Tobas, Beverly 'Muthadi' Thomas, Luther Francois, Michael Boothman, Rafael Robertson,
-    Ron Reid, Etienne Charles, Wayne 'Barney' Bonaparte
+    - >-
+      Michael Georges, Michael 'Toby' Tobas, Beverly 'Muthadi' Thomas, Luther
+      Francois, Michael Boothman, Rafael Robertson, Ron Reid, Etienne Charles,
+      Wayne 'Barney' Bonaparte
   mentors:
-  - Michael Grant
-  - Scofield Pilgrim
+    - Michael Grant
+    - Scofield Pilgrim
 spotify_data:
   followers: 501
   id: 5TgZjbuEXzdzvfeyMwi8KS
   popularity: 5
-  url: https://open.spotify.com/artist/5TgZjbuEXzdzvfeyMwi8KS
+  url: 'https://open.spotify.com/artist/5TgZjbuEXzdzvfeyMwi8KS'
 discography_enriched: true
 top_tracks:
-- Ogun (Clive Zanda Is Here With 'Dat Kinda Ting')
-- Caribbean Lullaby (Clive Zanda Is Here With 'Dat Kinda Ting')
-- Chip Down (Clive Zanda Is Here With 'Dat Kinda Ting')
-- Fancy Sailor (Clive Zanda Is Here With 'Dat Kinda Ting')
-- Fever (Clive Zanda Is Here With 'Dat Kinda Ting')
-- Dat-Kinda-Ting (Clive Zanda Is Here With 'Dat Kinda Ting')
-- Mr. Walker (Clive Zanda Is Here With 'Dat Kinda Ting')
-- Major to Minor (Clive Zanda Is Here With 'Dat Kinda Ting')
-- Kitty Kang (Clive Zanda Is Here With 'Dat Kinda Ting')
-- Chip Down (Clive Zanda Is Here with 'Dat Kinda Ting')
+  - Ogun (Clive Zanda Is Here With 'Dat Kinda Ting')
+  - Caribbean Lullaby (Clive Zanda Is Here With 'Dat Kinda Ting')
+  - Chip Down (Clive Zanda Is Here With 'Dat Kinda Ting')
+  - Fancy Sailor (Clive Zanda Is Here With 'Dat Kinda Ting')
+  - Fever (Clive Zanda Is Here With 'Dat Kinda Ting')
+  - Dat-Kinda-Ting (Clive Zanda Is Here With 'Dat Kinda Ting')
+  - Mr. Walker (Clive Zanda Is Here With 'Dat Kinda Ting')
+  - Major to Minor (Clive Zanda Is Here With 'Dat Kinda Ting')
+  - Kitty Kang (Clive Zanda Is Here With 'Dat Kinda Ting')
+  - Chip Down (Clive Zanda Is Here with 'Dat Kinda Ting')
 external_urls:
-  spotify: https://open.spotify.com/artist/5TgZjbuEXzdzvfeyMwi8KS
+  spotify: 'https://open.spotify.com/artist/5TgZjbuEXzdzvfeyMwi8KS'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/clive_zanda.jpg
 biography_enhanced_at: '2025-10-29T16:37:01.514492'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://www.guardian.co.tt/article-6.2.359946.f0fbff5f51
-- https://iradiott.wordpress.com/2018/09/21/clive-zanda-is-here-proof-of-concept/
-- https://caribbean-renaissance.org/blog/clive-zanda-alexander/
-- https://podcast.jazz.tt/detail3.html
-- https://newsday.co.tt/2022/01/06/clive-zanda-alexander-architect-of-kaiso-jazz-dies/
-- https://www.panonthenet.com/opinions/2022/clive-zanda-is-dead-by-rubadiri-victor-1-7-22.htm
+  - 'http://www.guardian.co.tt/article-6.2.359946.f0fbff5f51'
+  - >-
+    https://iradiott.wordpress.com/2018/09/21/clive-zanda-is-here-proof-of-concept/
+  - 'https://caribbean-renaissance.org/blog/clive-zanda-alexander/'
+  - 'https://podcast.jazz.tt/detail3.html'
+  - >-
+    https://newsday.co.tt/2022/01/06/clive-zanda-alexander-architect-of-kaiso-jazz-dies/
+  - >-
+    https://www.panonthenet.com/opinions/2022/clive-zanda-is-dead-by-rubadiri-victor-1-7-22.htm
 network_extracted: true
 entry_created: '2025-10-29T16:37:01.514508'
 last_updated: '2025-12-23T08:16:07.110611'
+artist_type: person
 ---
 
 ![](clive_zanda.jpg)

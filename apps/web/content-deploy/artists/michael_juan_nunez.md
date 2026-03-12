@@ -1,21 +1,21 @@
 ---
-title: michael juan nunez
+title: Michael Juan Nunez
 wiki_slug: michael-juan-nunez
 schema_version: 2
 artist_type: person
 status: active
-birth_place: Lafayette
+birth_place: 'Lafayette, Louisiana, United States'
 genres:
-- blues rock
-- southern rock
+  - blues rock
+  - southern rock
 instruments:
-- pedal steel guitar
+  - pedal steel guitar
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 03da46cb-2eb2-49f1-8fc3-6a8b3a165f23
-  name: Roddie Romero & the Hub‐City All‐Stars
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 03da46cb-2eb2-49f1-8fc3-6a8b3a165f23
+    name: Roddie Romero & the Hub‐City All‐Stars
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/michael_juan_nunez.jpg
   caption: michael juan nunez
@@ -36,47 +36,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Chad Willis
-  - Clint 'Chief' Redwing
+    - Chad Willis
+    - Clint 'Chief' Redwing
   influenced: []
   mentors:
-  - Louisiana Cajun and Creole musicians
+    - Louisiana Cajun and Creole musicians
 spotify_data:
   followers: 258
   id: 1VvmK1c6Lck7wzmGPztvXc
   popularity: 0
-  url: https://open.spotify.com/artist/1VvmK1c6Lck7wzmGPztvXc
+  url: 'https://open.spotify.com/artist/1VvmK1c6Lck7wzmGPztvXc'
 discography_enriched: true
 top_tracks:
-- She's My Baby (Lawd) (Rouxsta)
-- Barres De La Prison (Rouxsta)
-- Lemonade (Rise)
-- B.L.T.L.O. (Rise)
-- Experience (Inkstyle 04) [feat. Philosophic & Michael Juan Nunez] (Singh, Vol. 1)
-- Jimmy Reed Type Thing (Rouxsta)
-- Water and Steel (Rouxsta)
-- Plowin' On (Rouxsta)
-- Don't Put It in Her Mind (Rouxsta)
-- Game Like Me (Rouxsta)
+  - She's My Baby (Lawd) (Rouxsta)
+  - Barres De La Prison (Rouxsta)
+  - Lemonade (Rise)
+  - B.L.T.L.O. (Rise)
+  - >-
+    Experience (Inkstyle 04) [feat. Philosophic & Michael Juan Nunez] (Singh,
+    Vol. 1)
+  - Jimmy Reed Type Thing (Rouxsta)
+  - Water and Steel (Rouxsta)
+  - Plowin' On (Rouxsta)
+  - Don't Put It in Her Mind (Rouxsta)
+  - Game Like Me (Rouxsta)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/60d2d2b8-6026-4fd6-a449-f9ff37ad041c
-  spotify: https://open.spotify.com/artist/1VvmK1c6Lck7wzmGPztvXc
+  musicbrainz: 'https://musicbrainz.org/artist/60d2d2b8-6026-4fd6-a449-f9ff37ad041c'
+  spotify: 'https://open.spotify.com/artist/1VvmK1c6Lck7wzmGPztvXc'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/michael_juan_nunez.jpg
 biography_enhanced_at: '2025-11-20T06:38:17.233435'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://bluenotes.thewhirlybird.com/notable-cajun-creole-musicians/
-- https://www.viberate.com/artist/michael-juan-nunez/
-- https://www.concertarchives.org/bands/michael-juan-nunez
-- https://www.last.fm/music/Michael+Juan+Nunez/+wiki
-- https://michaeljuannunez.com/whatdeysay-d
-- https://michaeljuannunez.com/allabout
+  - 'https://bluenotes.thewhirlybird.com/notable-cajun-creole-musicians/'
+  - 'https://www.viberate.com/artist/michael-juan-nunez/'
+  - 'https://www.concertarchives.org/bands/michael-juan-nunez'
+  - 'https://www.last.fm/music/Michael+Juan+Nunez/+wiki'
+  - 'https://michaeljuannunez.com/whatdeysay-d'
+  - 'https://michaeljuannunez.com/allabout'
 network_extracted: true
 entry_created: '2025-11-20T06:38:17.233445'
 last_updated: '2025-12-23T08:16:13.047864'
 musicbrainz_id: 60d2d2b8-6026-4fd6-a449-f9ff37ad041c
+origin: 'Lafayette, Louisiana, United States'
 ---
 
 ![](michael_juan_nunez.jpg)

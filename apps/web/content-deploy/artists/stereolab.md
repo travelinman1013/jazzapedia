@@ -2,16 +2,16 @@
 title: Stereolab
 wiki_slug: stereolab
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 birth_date: '1990'
 genres:
-- art pop
-- krautrock
-- post-rock
-- chamber pop
+  - art pop
+  - krautrock
+  - post-rock
+  - chamber pop
 instruments:
-- original
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/stereolab.jpg
   caption: Stereolab
@@ -32,146 +32,148 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tim Gane
-  - Laetitia Sadier
-  - Mary Hansen
-  - Andy Ramsay
-  - Sean O'Hagan
-  - Nurse With Wound
-  - Jan St. Werner (Mouse on Mars)
+    - Tim Gane
+    - Laetitia Sadier
+    - Mary Hansen
+    - Andy Ramsay
+    - Sean O'Hagan
+    - Nurse With Wound
+    - Jan St. Werner (Mouse on Mars)
   influenced:
-  - Blur
-  - Broadcast
-  - Tortoise
-  - Sonic Youth
+    - Blur
+    - Broadcast
+    - Tortoise
+    - Sonic Youth
   mentors:
-  - Neu!
-  - Faust
-  - The Modern Lovers
+    - Neu!
+    - Faust
+    - The Modern Lovers
 spotify_data:
   followers: 399234
   id: 3Rj0tDHoX7C5NFq5DKIpHt
   popularity: 52
-  url: https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt
+  url: 'https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt'
 discography_enriched: true
 top_tracks:
-- The Flower Called Nowhere (Dots And Loops (Expanded Edition))
-- Transmuted Matter
-- French Disko
-- Come And Play In The Milky Night (Demo) (Cobra And Phases Group Play Voltage In The Milky Night (Expanded Edition))
-- Aerial Troubles (Instant Holograms On Metal Film)
-- Mystical Plosives (Instant Holograms On Metal Film)
-- Melodie Is A Wound (Instant Holograms On Metal Film)
-- Immortal Hands (Instant Holograms On Metal Film)
-- Vermona F Transistor (Instant Holograms On Metal Film)
-- Le Coeur Et La Force (Instant Holograms On Metal Film)
+  - The Flower Called Nowhere (Dots And Loops (Expanded Edition))
+  - Transmuted Matter
+  - French Disko
+  - >-
+    Come And Play In The Milky Night (Demo) (Cobra And Phases Group Play Voltage
+    In The Milky Night (Expanded Edition))
+  - Aerial Troubles (Instant Holograms On Metal Film)
+  - Mystical Plosives (Instant Holograms On Metal Film)
+  - Melodie Is A Wound (Instant Holograms On Metal Film)
+  - Immortal Hands (Instant Holograms On Metal Film)
+  - Vermona F Transistor (Instant Holograms On Metal Film)
+  - Le Coeur Et La Force (Instant Holograms On Metal Film)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f1df0431-9250-4ec8-95d8-f19ce7cf7fb6
-  spotify: https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt
-  wikipedia: https://en.wikipedia.org/wiki/Stereolab
+  musicbrainz: 'https://musicbrainz.org/artist/f1df0431-9250-4ec8-95d8-f19ce7cf7fb6'
+  spotify: 'https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt'
+  wikipedia: 'https://en.wikipedia.org/wiki/Stereolab'
 image_path: 03_Resources/source_material/ArtistPortraits/stereolab.jpg
 biography_enhanced_at: '2025-11-12T14:46:13.818311'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Stereolab/+wiki
-- https://teenbe.at/artists/stereolab.html
-- https://ponderosa.it/en/artist/stereolab/
-- https://thequietus.com/interviews/strange-world-of/stereolab-strange-world-review/
+  - 'https://www.last.fm/music/Stereolab/+wiki'
+  - 'https://teenbe.at/artists/stereolab.html'
+  - 'https://ponderosa.it/en/artist/stereolab/'
+  - >-
+    https://thequietus.com/interviews/strange-world-of/stereolab-strange-world-review/
 network_extracted: true
 entry_created: '2025-11-12T14:46:13.818326'
 last_updated: '2025-12-23T08:16:16.070216'
 members:
-- &id001
-  begin: '1990'
-  end: ''
-  instruments:
-  - original
-  mbid: 88badcce-fa1a-457e-814c-c1f3c44206bb
-  name: Tim Gane
-- &id002
-  begin: '1990'
-  end: ''
-  instruments:
-  - original
-  mbid: 9710d91f-bfbd-4f84-9c54-cb04f2a464b1
-  name: Lætitia Sadier
-- begin: '1992'
-  end: '1992'
-  instruments: []
-  mbid: b0214beb-fbb9-4f37-9f6a-3de2497f61eb
-  name: Gina Morris
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2829a4cd-73e2-4eec-9479-c37920bc7d6e
-  name: Duncan Brown
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5b867388-63c1-4bd7-acf7-02dee8a9c7b5
-  name: Joe Dilworth
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c92ed046-8f44-4618-84c0-f07ad2e330d4
-  name: Katharine Gifford
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5488ad16-f1df-48af-9835-36fde3fc7c53
-  name: Mary Hansen
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e649708b-da73-4d02-b6b3-544aa51afd98
-  name: Richard Harrison
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a00e19c0-eb4a-4369-b077-5c59f454ba9f
-  name: Simon Johns
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 105b8afe-a2e5-4259-b1ea-83c804772271
-  name: Martin Kean
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b458b533-b777-45d7-815b-eb665e72bdff
-  name: Morgane Lhote
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 62b38d85-b2b9-4c59-8b86-9336c6e58491
-  name: Sean O’Hagan
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b61f5ffa-62fd-47f6-86a2-3542ba073615
-  name: Andy Ramsay
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4b5af5ef-1d43-4582-beb3-d68f692e649d
-  name: Joe Walters
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e50f5ca5-b132-42f3-9254-8f15525dc2cd
-  name: Joe Watson
+  - &ref_0
+    begin: '1990'
+    end: ''
+    instruments:
+      - original
+    mbid: 88badcce-fa1a-457e-814c-c1f3c44206bb
+    name: Tim Gane
+  - &ref_1
+    begin: '1990'
+    end: ''
+    instruments:
+      - original
+    mbid: 9710d91f-bfbd-4f84-9c54-cb04f2a464b1
+    name: Lætitia Sadier
+  - begin: '1992'
+    end: '1992'
+    instruments: []
+    mbid: b0214beb-fbb9-4f37-9f6a-3de2497f61eb
+    name: Gina Morris
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2829a4cd-73e2-4eec-9479-c37920bc7d6e
+    name: Duncan Brown
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5b867388-63c1-4bd7-acf7-02dee8a9c7b5
+    name: Joe Dilworth
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c92ed046-8f44-4618-84c0-f07ad2e330d4
+    name: Katharine Gifford
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5488ad16-f1df-48af-9835-36fde3fc7c53
+    name: Mary Hansen
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e649708b-da73-4d02-b6b3-544aa51afd98
+    name: Richard Harrison
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a00e19c0-eb4a-4369-b077-5c59f454ba9f
+    name: Simon Johns
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 105b8afe-a2e5-4259-b1ea-83c804772271
+    name: Martin Kean
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b458b533-b777-45d7-815b-eb665e72bdff
+    name: Morgane Lhote
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 62b38d85-b2b9-4c59-8b86-9336c6e58491
+    name: Sean O’Hagan
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b61f5ffa-62fd-47f6-86a2-3542ba073615
+    name: Andy Ramsay
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4b5af5ef-1d43-4582-beb3-d68f692e649d
+    name: Joe Walters
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e50f5ca5-b132-42f3-9254-8f15525dc2cd
+    name: Joe Watson
 musicbrainz_id: f1df0431-9250-4ec8-95d8-f19ce7cf7fb6
-origin: London
+origin: 'London, England, United Kingdom'
 original_members:
-- *id001
-- *id002
+  - *ref_0
+  - *ref_1
 tags:
-- art pop
-- avant-garde pop
-- british
-
+  - art pop
+  - avant-garde pop
+  - british
 ---
 
 ![](stereolab.jpg)

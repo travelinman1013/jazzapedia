@@ -1,51 +1,51 @@
 ---
-title: MAC WISEMAN
+title: Mac Wiseman
 wiki_slug: mac-wiseman
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1925-05-23'
-birth_place: Crimora
+birth_place: 'Crimora, Virginia, United States'
 death_date: '2019-02-24'
 genres:
-- bluegrass
-- christian country
-- newgrass
+  - bluegrass
+  - christian country
+  - newgrass
 instruments:
-- guitar
-- eponymous
-- acoustic guitar
-- lead vocals
-- background vocals
-- spoken vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 624db6ea-1afb-4a3c-8092-5acfd2cb4a33
-  name: Bill Monroe and the Bluegrass Boys
-- begin: ''
-  end: ''
-  instruments:
   - guitar
-  mbid: bf1254a2-4f29-4f44-90e7-291f96edc332
-  name: The Foggy Mountain Boys
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
-  mbid: 1bc930e2-e02e-4444-9c89-99c6dc76e4e8
-  name: Mac Wiseman and the Country Boys
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 01d6fd93-cfcb-4d59-a45d-9313d4ac62cc
-  name: The Cumberland Mountain Folks
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 36c2f168-2ddd-487d-b51a-6e86ee92dfb8
-  name: The GrooveGrass Boyz
+  - acoustic guitar
+  - lead vocals
+  - background vocals
+  - spoken vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 624db6ea-1afb-4a3c-8092-5acfd2cb4a33
+    name: Bill Monroe and the Bluegrass Boys
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: bf1254a2-4f29-4f44-90e7-291f96edc332
+    name: The Foggy Mountain Boys
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 1bc930e2-e02e-4444-9c89-99c6dc76e4e8
+    name: Mac Wiseman and the Country Boys
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 01d6fd93-cfcb-4d59-a45d-9313d4ac62cc
+    name: The Cumberland Mountain Folks
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 36c2f168-2ddd-487d-b51a-6e86ee92dfb8
+    name: The GrooveGrass Boyz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/mac_wiseman.jpg
   caption: MAC WISEMAN
@@ -68,57 +68,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lester Flatt & Earl Scruggs (Foggy Mountain Boys)
-  - Bill Monroe & His Blue Grass Boys
-  - Osborne Brothers
-  - Dot Records artists / Randy Wood
-  - Woody Herman, Duane Eddy, John Prine
+    - Lester Flatt & Earl Scruggs (Foggy Mountain Boys)
+    - Bill Monroe & His Blue Grass Boys
+    - Osborne Brothers
+    - Dot Records artists / Randy Wood
+    - 'Woody Herman, Duane Eddy, John Prine'
   influenced:
-  - First- and second‑generation bluegrass and country vocalists (e.g., artists in the IBMA and International Bluegrass Music
-    Hall of Fame orbit)
+    - >-
+      First- and second‑generation bluegrass and country vocalists (e.g.,
+      artists in the IBMA and International Bluegrass Music Hall of Fame orbit)
   mentors:
-  - Molly O'Day
-  - Bill Monroe
-  - Lester Flatt & Earl Scruggs
+    - Molly O'Day
+    - Bill Monroe
+    - Lester Flatt & Earl Scruggs
 spotify_data:
   followers: 10599
   id: 01buTDfh4qo8wbcUt9Enly
   popularity: 30
-  url: https://open.spotify.com/artist/01buTDfh4qo8wbcUt9Enly
+  url: 'https://open.spotify.com/artist/01buTDfh4qo8wbcUt9Enly'
 discography_enriched: true
 top_tracks:
-- I Sang The Song
-- Love Letters in the Sand
-- Shackles and Chains
-- Midnight Flyer (The Essential Osborne Brothers Collection)
-- Pistol Packin' Mama (Standard Songs for Average People)
-- Mother Maybelle
-- Don't Let Your Sweet Love Die
-- Love Letter In the Sand
-- Corina Corina (Sings Old Time Country Favorites)
-- Bringing Mary Home
+  - I Sang The Song
+  - Love Letters in the Sand
+  - Shackles and Chains
+  - Midnight Flyer (The Essential Osborne Brothers Collection)
+  - Pistol Packin' Mama (Standard Songs for Average People)
+  - Mother Maybelle
+  - Don't Let Your Sweet Love Die
+  - Love Letter In the Sand
+  - Corina Corina (Sings Old Time Country Favorites)
+  - Bringing Mary Home
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f6cde1f4-220a-48cb-a398-30be58c69456
-  spotify: https://open.spotify.com/artist/01buTDfh4qo8wbcUt9Enly
-  wikipedia: https://en.wikipedia.org/wiki/Mac_Wiseman
+  musicbrainz: 'https://musicbrainz.org/artist/f6cde1f4-220a-48cb-a398-30be58c69456'
+  spotify: 'https://open.spotify.com/artist/01buTDfh4qo8wbcUt9Enly'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mac_Wiseman'
 image_path: 03_Resources/source_material/ArtistPortraits/mac_wiseman.jpg
 biography_enhanced_at: '2025-12-08T04:21:14.149506'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Mac_Wiseman
-- https://www.bluegrasshall.org/inductees/mac-wiseman/
-- https://alancackett.com/mac-wiseman-obituary
-- https://thebluegrasssituation.com/read/a-slice-of-life-a-conversation-with-mac-wiseman/
-- https://www.namm.org/library/oral-history/mac-wiseman
+  - 'https://en.wikipedia.org/wiki/Mac_Wiseman'
+  - 'https://www.bluegrasshall.org/inductees/mac-wiseman/'
+  - 'https://alancackett.com/mac-wiseman-obituary'
+  - >-
+    https://thebluegrasssituation.com/read/a-slice-of-life-a-conversation-with-mac-wiseman/
+  - 'https://www.namm.org/library/oral-history/mac-wiseman'
 network_extracted: true
 entry_created: '2025-12-08T04:21:14.149515'
 last_updated: '2025-12-23T08:16:12.452353'
 gender: Male
 musicbrainz_id: f6cde1f4-220a-48cb-a398-30be58c69456
 tags:
-- bluegrass
-- country
+  - bluegrass
+  - country
+is_active: false
+origin: 'Harrisonburg, Virginia, United States'
 ---
 
 ![](mac_wiseman.jpg)

@@ -5,16 +5,16 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1931-07-21'
-birth_place: Louisiana
+birth_place: 'Donaldsonville, Louisiana, United States'
 genres: []
 instruments:
-- choir vocals
+  - choir vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 72d32de0-21e3-4bbd-ab88-ebe7cea22dc5
-  name: B. Bumble & the Stingers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 72d32de0-21e3-4bbd-ab88-ebe7cea22dc5
+    name: B. Bumble & the Stingers
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/plas_johnson.jpg
   caption: Plas Johnson
@@ -36,55 +36,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ray Johnson
-  - Henry Mancini
-  - Peggy Lee, Nat 'King' Cole, Frank Sinatra, Ella Fitzgerald, The Beach Boys
-  - Johnny Otis
+    - Ray Johnson
+    - Henry Mancini
+    - 'Peggy Lee, Nat ''King'' Cole, Frank Sinatra, Ella Fitzgerald, The Beach Boys'
+    - Johnny Otis
   influenced:
-  - Numerous session saxophonists and jazz/R&B musicians
+    - Numerous session saxophonists and jazz/R&B musicians
   mentors:
-  - Plas Johnson Sr.
-  - Maxwell Davis
+    - Plas Johnson Sr.
+    - Maxwell Davis
 spotify_data:
   followers: 2466
   id: 4Xqx9yiQsWMNXE2oKbm5uc
   popularity: 35
-  url: https://open.spotify.com/artist/4Xqx9yiQsWMNXE2oKbm5uc
+  url: 'https://open.spotify.com/artist/4Xqx9yiQsWMNXE2oKbm5uc'
 discography_enriched: true
 top_tracks:
-- The Pink Panther Theme - From "The Pink Panther" (The Pink Panther - Original Soundtrack)
-- The Pink Panther Theme - From "The Pink Panther"
-- The Pink Panther Theme - From "The Pink Panther"
-- Confidential
-- This Little Light of Mine ("Livin' with the Blues". Barbara Dane with Earl Fatha Hines and His Orchestra Plus "On My Way"
-  With Kenny Whitson Quartet)
-- Pink Panther/It Had Better Be Tonight (Meglio Stasera)
-- I’ll Be Home For Christmas (A Very Swingin’ Basie Christmas!)
-- Mama Don't Allow No Twistin' ("Livin' with the Blues". Barbara Dane with Earl Fatha Hines and His Orchestra Plus "On My
-  Way" With Kenny Whitson Quartet)
-- The Pink Panther Theme - From "The Pink Panther"
-- I'm on My Way ("Livin' with the Blues". Barbara Dane with Earl Fatha Hines and His Orchestra Plus "On My Way" With Kenny
-  Whitson Quartet)
+  - >-
+    The Pink Panther Theme - From "The Pink Panther" (The Pink Panther -
+    Original Soundtrack)
+  - The Pink Panther Theme - From "The Pink Panther"
+  - The Pink Panther Theme - From "The Pink Panther"
+  - Confidential
+  - >-
+    This Little Light of Mine ("Livin' with the Blues". Barbara Dane with Earl
+    Fatha Hines and His Orchestra Plus "On My Way" With Kenny Whitson Quartet)
+  - Pink Panther/It Had Better Be Tonight (Meglio Stasera)
+  - I’ll Be Home For Christmas (A Very Swingin’ Basie Christmas!)
+  - >-
+    Mama Don't Allow No Twistin' ("Livin' with the Blues". Barbara Dane with
+    Earl Fatha Hines and His Orchestra Plus "On My Way" With Kenny Whitson
+    Quartet)
+  - The Pink Panther Theme - From "The Pink Panther"
+  - >-
+    I'm on My Way ("Livin' with the Blues". Barbara Dane with Earl Fatha Hines
+    and His Orchestra Plus "On My Way" With Kenny Whitson Quartet)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/af3fd163-80ee-4782-abc5-5106cc0cdb60
-  spotify: https://open.spotify.com/artist/4Xqx9yiQsWMNXE2oKbm5uc
-  wikipedia: https://en.wikipedia.org/wiki/Plas_Johnson
+  musicbrainz: 'https://musicbrainz.org/artist/af3fd163-80ee-4782-abc5-5106cc0cdb60'
+  spotify: 'https://open.spotify.com/artist/4Xqx9yiQsWMNXE2oKbm5uc'
+  wikipedia: 'https://en.wikipedia.org/wiki/Plas_Johnson'
 image_path: 03_Resources/source_material/ArtistPortraits/plas_johnson.jpg
 biography_enhanced_at: '2025-11-02T07:25:36.498646'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://kids.kiddle.co/Plas_Johnson
-- https://tims.blackcat.nl/messages/plas_johnson.htm
-- https://www.spaceagepop.com/johnson.htm
+  - 'https://kids.kiddle.co/Plas_Johnson'
+  - 'https://tims.blackcat.nl/messages/plas_johnson.htm'
+  - 'https://www.spaceagepop.com/johnson.htm'
 network_extracted: true
 entry_created: '2025-11-02T07:25:36.498650'
 last_updated: '2025-12-23T08:16:14.358504'
 gender: Male
 musicbrainz_id: af3fd163-80ee-4782-abc5-5106cc0cdb60
 tags:
-- jazz
-- soul jazz
+  - jazz
+  - soul jazz
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](plas_johnson.jpg)

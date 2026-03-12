@@ -1,95 +1,97 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 835eba72-433e-483e-9a11-bcb6eebf61c7
-  name: Henri Texier Red Route Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: ff4e61fb-9e95-4548-89c4-9f220498ab31
-  name: Henri Texier "Azur" Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: cd6b06b8-99de-480d-be62-0b07555f6858
-  name: Henri Texier Azur Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: c1423984-2963-4c06-8302-6f782236e35d
-  name: Henri Texier Strada Sextet
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 6d4b40ed-dad5-4e12-9aaa-cf2746c51da4
-  name: Henri Texier Trio
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: e7e337d1-c2ad-4ecb-8278-e418d72f9abe
-  name: Henri Texier Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 835eba72-433e-483e-9a11-bcb6eebf61c7
+    name: Henri Texier Red Route Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: ff4e61fb-9e95-4548-89c4-9f220498ab31
+    name: Henri Texier "Azur" Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: cd6b06b8-99de-480d-be62-0b07555f6858
+    name: Henri Texier Azur Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: c1423984-2963-4c06-8302-6f782236e35d
+    name: Henri Texier Strada Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 6d4b40ed-dad5-4e12-9aaa-cf2746c51da4
+    name: Henri Texier Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: e7e337d1-c2ad-4ecb-8278-e418d72f9abe
+    name: Henri Texier Quartet
 biography_enhanced_at: '2026-01-16T01:37:59.432500'
 birth_date: '1945-01-27'
-birth_place: Paris
+birth_place: 'Paris, France, Country'
 disambiguation: French jazz double bassist
 enhancement_provider: perplexity
 entry_created: '2026-01-16T01:37:59.432505'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2d1750ec-4d5b-4388-bac4-bbd753394fce
-  spotify: https://open.spotify.com/artist/7nFb95Ufz3MkdXP4bnlSES
-  wikipedia: https://en.wikipedia.org/wiki/Henri_Texier
+  musicbrainz: 'https://musicbrainz.org/artist/2d1750ec-4d5b-4388-bac4-bbd753394fce'
+  spotify: 'https://open.spotify.com/artist/7nFb95Ufz3MkdXP4bnlSES'
+  wikipedia: 'https://en.wikipedia.org/wiki/Henri_Texier'
 gender: Male
 genres:
-- french jazz
+  - french jazz
 image_path: 03_Resources/source_material/ArtistPortraits/henri_texier.jpg
 instruments:
-- original
-- eponymous
+  - original
+  - eponymous
 last_updated: '2026-01-16T01:37:59.432506'
 musical_connections:
   collaborators:
-  - Daniel Humair
-  - Phil Woods
-  - Louis Sclavis
-  - Aldo Romano
-  - Don Cherry
-  - Sébastien Texier
+    - Daniel Humair
+    - Phil Woods
+    - Louis Sclavis
+    - Aldo Romano
+    - Don Cherry
+    - Sébastien Texier
   influenced:
-  - Sébastien Texier
+    - Sébastien Texier
   mentors:
-  - Wilbur Ware
+    - Wilbur Ware
 musicbrainz_id: 2d1750ec-4d5b-4388-bac4-bbd753394fce
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://allerlei2013riffmaster.wordpress.com/2024/06/08/henri-texier-amir-1976/
-- https://www.allaboutjazz.com/musicians/henri-texier/
-- https://en.wikipedia.org/wiki/Henri_Texier
-- https://couleursjazz.fr/three-questions-to-henri-texier/
-- https://www.allmusic.com/artist/henri-texier-mn0000566436
-- https://www.aaemusic.com/artist/henri-texier
-- https://15questions.net/interview/fifteen-questions-interview-henri-texier/
-- https://www.qwest.tv/posts/henri-texier-replays-the-past
-- https://www.jazzmusicarchives.com/forum/forum_posts.asp?TID=31370&title=henri-texier-an-indians-life
+  - >-
+    https://allerlei2013riffmaster.wordpress.com/2024/06/08/henri-texier-amir-1976/
+  - 'https://www.allaboutjazz.com/musicians/henri-texier/'
+  - 'https://en.wikipedia.org/wiki/Henri_Texier'
+  - 'https://couleursjazz.fr/three-questions-to-henri-texier/'
+  - 'https://www.allmusic.com/artist/henri-texier-mn0000566436'
+  - 'https://www.aaemusic.com/artist/henri-texier'
+  - 'https://15questions.net/interview/fifteen-questions-interview-henri-texier/'
+  - 'https://www.qwest.tv/posts/henri-texier-replays-the-past'
+  - >-
+    https://www.jazzmusicarchives.com/forum/forum_posts.asp?TID=31370&title=henri-texier-an-indians-life
 spotify_data:
   followers: 43963
   id: 7nFb95Ufz3MkdXP4bnlSES
   popularity: 39
-  url: https://open.spotify.com/artist/7nFb95Ufz3MkdXP4bnlSES
+  url: 'https://open.spotify.com/artist/7nFb95Ufz3MkdXP4bnlSES'
 status: active
 tags:
-- french
-- hard bop
-- jazz
+  - french
+  - hard bop
+  - jazz
 title: Henri Texier
 ---
 

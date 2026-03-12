@@ -1,24 +1,24 @@
 ---
-title: nancy wilson
+title: Nancy Wilson
 wiki_slug: nancy-wilson
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1937-02-20'
-birth_place: Chillicothe, Ohio, USA
+birth_place: 'Chillicothe, Ohio, USA'
 death_date: '2018-12-13'
 genres:
-- vocal jazz
-- jazz
+  - vocal jazz
+  - jazz
 instruments:
-- lead vocals
-- original
+  - lead vocals
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/nancy_wilson.jpg
   caption: nancy wilson
   background: solo_singer
   born: '1937-02-20'
-  origin: Chillicothe, Ohio, USA
+  origin: 'Chillicothe, Ohio, USA'
   died: '2018-12-13'
 audio_profile:
   tempo_avg: 110.3
@@ -35,41 +35,43 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - George Shearing
+    - George Shearing
   influenced:
-  - Diana Krall
+    - Diana Krall
   mentors:
-  - Cannonball Adderley
-  - John Levy
+    - Cannonball Adderley
+    - John Levy
 spotify_data:
   followers: 238287
   id: 2JfVCMa3FlvQRlLT5uH9zb
   popularity: 49
-  url: https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb
+  url: 'https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb'
 discography_enriched: true
 top_tracks:
-- I Wish You Love - 2004 Remastered/Remixed (Something Wonderful)
-- The Masquerade Is Over (Nancy Wilson/Cannonball Adderley)
-- Save Your Love For Me (Nancy Wilson/Cannonball Adderley)
-- (You Don't Know) How Glad I Am (How Glad I Am)
-- The Boy From Ipanema (How Glad I Am)
-- The Nearness of You (All of You)
-- Never Will I Marry (Nancy Wilson/Cannonball Adderley)
-- The Nearness Of You - Remastered (The Swingin's Mutual (Expanded Edition / Remastered))
-- For Once In My Life - Remastered/1994 (Welcome To My Love)
-- What A Little Moonlight Can Do - Remastered (Something Wonderful)
+  - I Wish You Love - 2004 Remastered/Remixed (Something Wonderful)
+  - The Masquerade Is Over (Nancy Wilson/Cannonball Adderley)
+  - Save Your Love For Me (Nancy Wilson/Cannonball Adderley)
+  - (You Don't Know) How Glad I Am (How Glad I Am)
+  - The Boy From Ipanema (How Glad I Am)
+  - The Nearness of You (All of You)
+  - Never Will I Marry (Nancy Wilson/Cannonball Adderley)
+  - >-
+    The Nearness Of You - Remastered (The Swingin's Mutual (Expanded Edition /
+    Remastered))
+  - For Once In My Life - Remastered/1994 (Welcome To My Love)
+  - What A Little Moonlight Can Do - Remastered (Something Wonderful)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f597eafc-4dc5-4bc4-a019-a5035a3c8502
-  spotify: https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb
-  wikipedia: https://en.wikipedia.org/wiki/Nancy_Wilson_(jazz_singer)
+  musicbrainz: 'https://musicbrainz.org/artist/f597eafc-4dc5-4bc4-a019-a5035a3c8502'
+  spotify: 'https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb'
+  wikipedia: 'https://en.wikipedia.org/wiki/Nancy_Wilson_(jazz_singer)'
 image_path: 03_Resources/source_material/ArtistPortraits/nancy_wilson.jpg
 biography_enhanced_at: '2025-10-20T09:27:09.837586'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Nancy_Wilson_(jazz_singer)
-- https://www.historyhit.com/culture/facts-about-jazz-singer-nancy-wilson/
-- https://www.imdb.com/name/nm0933897/bio/
+  - 'https://en.wikipedia.org/wiki/Nancy_Wilson_(jazz_singer)'
+  - 'https://www.historyhit.com/culture/facts-about-jazz-singer-nancy-wilson/'
+  - 'https://www.imdb.com/name/nm0933897/bio/'
 network_extracted: true
 entry_created: '2025-10-20T09:27:09.837597'
 last_updated: '2025-12-23T08:16:13.422193'
@@ -78,9 +80,11 @@ gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:55:02.143308'
 musicbrainz_id: f597eafc-4dc5-4bc4-a019-a5035a3c8502
 tags:
-- jazz
-- pop
-- pop soul
+  - jazz
+  - pop
+  - pop soul
+is_active: false
+origin: 'New York City, New York, United States'
 ---
 
 ![](nancy_wilson.jpg)

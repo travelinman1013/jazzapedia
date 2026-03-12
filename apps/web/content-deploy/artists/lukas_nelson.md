@@ -3,13 +3,13 @@ title: Lukas Nelson
 wiki_slug: lukas-nelson
 schema_version: 2
 status: active
-birth_place: USA (born December 25, 1988; based in Texas and Hawaii)
+birth_place: 'USA (born December 25, 1988; based in Texas and Hawaii)'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lukas_nelson.jpg
   caption: Lukas Nelson
   background: solo_singer
-  origin: USA (born December 25, 1988; based in Texas and Hawaii)
+  origin: 'USA (born December 25, 1988; based in Texas and Hawaii)'
 audio_profile:
   tempo_avg: 124.2
   energy_avg: 0.529
@@ -25,56 +25,66 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Anthony LoGerfo
-  - Bradley Cooper
-  - Lady Gaga
-  - Shooter Jennings
-  - Sierra Ferrell
-  - Stephen Wilson Jr.
-  - Sheryl Crow
-  - Kesha
+    - Anthony LoGerfo
+    - Bradley Cooper
+    - Lady Gaga
+    - Shooter Jennings
+    - Sierra Ferrell
+    - Stephen Wilson Jr.
+    - Sheryl Crow
+    - Kesha
   influenced: []
   mentors:
-  - Tom Conway
-  - Willie Nelson
-  - Neil Young
+    - Tom Conway
+    - Willie Nelson
+    - Neil Young
 spotify_data:
   followers: 70900
   id: 1oK57qVDixqM7no13U1mK9
   popularity: 52
-  url: https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9
+  url: 'https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9'
 discography_enriched: true
 top_tracks:
-- Just Breathe (Heroes)
-- Welcome To Hazeville (Fire & Brimstone)
-- Someone Like You (with The Travelin' McCourys & Sierra Ferrell)
-- Ain't Done
-- Born Runnin' Outta Time
-- Mammas Don't Let Your Babies Grow Up To Be Cowboys
-- Why Dallas (feat. Lukas Nelson) (NASHVILLE, TENNESSEE)
-- Pretty Much
-- The Weight
-- 'Angel Flying Too Close to the Ground - Live at The Hollywood Bowl, Los Angeles, CA - April 30, 2023 (Long Story Short:
-  Willie Nelson 90 (Live At The Hollywood Bowl))'
+  - Just Breathe (Heroes)
+  - Welcome To Hazeville (Fire & Brimstone)
+  - Someone Like You (with The Travelin' McCourys & Sierra Ferrell)
+  - Ain't Done
+  - Born Runnin' Outta Time
+  - Mammas Don't Let Your Babies Grow Up To Be Cowboys
+  - 'Why Dallas (feat. Lukas Nelson) (NASHVILLE, TENNESSEE)'
+  - Pretty Much
+  - The Weight
+  - >-
+    Angel Flying Too Close to the Ground - Live at The Hollywood Bowl, Los
+    Angeles, CA - April 30, 2023 (Long Story Short: Willie Nelson 90 (Live At
+    The Hollywood Bowl))
 external_urls:
-  spotify: https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9
-  wikipedia: https://en.wikipedia.org/wiki/Lukas_Nelson
+  spotify: 'https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lukas_Nelson'
 image_path: 03_Resources/source_material/ArtistPortraits/lukas_nelson.jpg
 biography_enhanced_at: '2025-12-04T08:17:49.621084'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Lukas Nelson
-- Country Thang Daily - Lukas Nelson and His Extremely Eventful Life in the World of Music
-- American Songwriter - Lukas Nelson Discusses the Beginning of His Solo Career and American Romance
-- 'American Blues Scene - Lukas Nelson: Voice of a Generation'
-- Wildlands Music - Lukas Nelson 2025
-- The Opry - Lukas Nelson Artist Information
-- IMDb - Lukas Nelson Biography
-- St. Pete Catalyst - Musician Lukas Nelson Brings the 'Real' Everywhere He Goes
+  - Wikipedia - Lukas Nelson
+  - >-
+    Country Thang Daily - Lukas Nelson and His Extremely Eventful Life in the
+    World of Music
+  - >-
+    American Songwriter - Lukas Nelson Discusses the Beginning of His Solo
+    Career and American Romance
+  - 'American Blues Scene - Lukas Nelson: Voice of a Generation'
+  - Wildlands Music - Lukas Nelson 2025
+  - The Opry - Lukas Nelson Artist Information
+  - IMDb - Lukas Nelson Biography
+  - >-
+    St. Pete Catalyst - Musician Lukas Nelson Brings the 'Real' Everywhere He
+    Goes
 network_extracted: true
 entry_created: '2025-12-04T08:17:49.621095'
 last_updated: '2025-12-23T08:16:12.353771'
+birth_date: '1988-12-25'
+artist_type: person
 ---
 
 ![](lukas_nelson.jpg)

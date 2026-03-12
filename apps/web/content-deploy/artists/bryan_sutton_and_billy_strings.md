@@ -4,47 +4,53 @@ biography_enhanced_at: '2026-01-12T02:02:13.039812'
 enhancement_provider: perplexity
 entry_created: '2026-01-12T02:02:13.039818'
 external_urls:
-  spotify: https://open.spotify.com/artist/0k01jWEMpYvVLiIJZqY5Hq
-  wikipedia: https://en.wikipedia.org/wiki/Bryan_Sutton
+  spotify: 'https://open.spotify.com/artist/0k01jWEMpYvVLiIJZqY5Hq'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bryan_Sutton'
 genres:
-- bluegrass
-- newgrass
-image_path: 03_Resources/source_material/ArtistPortraits/bryan_sutton_and_billy_strings.jpg
+  - bluegrass
+  - newgrass
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/bryan_sutton_and_billy_strings.jpg
 is_active: true
 last_updated: '2026-01-12T02:02:13.039819'
 musical_connections:
   collaborators:
-  - Ricky Skaggs & Kentucky Thunder
-  - Hot Rize
-  - Jerry Douglas
-  - American Legion Post 82 (Nashville ensemble context)
-  - Sam Bush, T. Michael Coleman, and Jerry Roe
+    - Ricky Skaggs & Kentucky Thunder
+    - Hot Rize
+    - Jerry Douglas
+    - American Legion Post 82 (Nashville ensemble context)
+    - 'Sam Bush, T. Michael Coleman, and Jerry Roe'
   influenced:
-  - Billy Strings
-  - Younger flatpicking guitarists in contemporary bluegrass
+    - Billy Strings
+    - Younger flatpicking guitarists in contemporary bluegrass
   mentors:
-  - Doc Watson
-  - Tony Rice
-  - Clarence White
+    - Doc Watson
+    - Tony Rice
+    - Clarence White
 network_extracted: true
-origin: Nashville‑centered collaboration between Bryan Sutton of Asheville, North
-  Carolina, United States, and Billy Strings of Michigan, United States.[1][4][6][7]
+origin: >-
+  Nashville‑centered collaboration between Bryan Sutton of Asheville, North
+  Carolina, United States, and Billy Strings of Michigan, United States.
 primary_source: perplexity
 research_sources:
-- https://www.bryansutton.com
-- https://owensboroliving.com/culture/bryan-sutton-billy-strings/
-- https://bluegrassunlimited.com/article/live-at-the-legion/
-- https://en.wikipedia.org/wiki/Bryan_Sutton
-- https://savingcountrymusic.com/billy-strings-bryan-sutton-release-new-bluegrass-metal-tribute/
-- https://thebluegrasssituation.com/read/everyones-doing-it-bryan-sutton-in-conversation-with-billy-strings/
-- https://www.billystrings.com
+  - 'https://www.bryansutton.com'
+  - 'https://owensboroliving.com/culture/bryan-sutton-billy-strings/'
+  - 'https://bluegrassunlimited.com/article/live-at-the-legion/'
+  - 'https://en.wikipedia.org/wiki/Bryan_Sutton'
+  - >-
+    https://savingcountrymusic.com/billy-strings-bryan-sutton-release-new-bluegrass-metal-tribute/
+  - >-
+    https://thebluegrasssituation.com/read/everyones-doing-it-bryan-sutton-in-conversation-with-billy-strings/
+  - 'https://www.billystrings.com'
 spotify_data:
   followers: 3857
   id: 0k01jWEMpYvVLiIJZqY5Hq
   popularity: 15
-  url: https://open.spotify.com/artist/0k01jWEMpYvVLiIJZqY5Hq
+  url: 'https://open.spotify.com/artist/0k01jWEMpYvVLiIJZqY5Hq'
 status: active
 title: Bryan Sutton & Billy Strings
+birth_place: 'North Carolina, United States'
+birth_date: '1973'
 ---
 
 ![](bryan_sutton_and_billy_strings.jpg)

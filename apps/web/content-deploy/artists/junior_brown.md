@@ -1,17 +1,17 @@
 ---
-title: junior brown
+title: Junior Brown
 wiki_slug: junior-brown
 schema_version: 2
 status: active
-birth_place: Cottonwood, Arizona, United States
+birth_place: 'Cottonwood, Arizona, United States'
 genres:
-- honky tonk
-- rockabilly
+  - honky tonk
+  - rockabilly
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/junior_brown.jpg
   caption: junior brown
   background: solo_singer
-  origin: Cottonwood, Arizona, United States
+  origin: 'Cottonwood, Arizona, United States'
 audio_profile:
   tempo_avg: 131.4
   energy_avg: 0.601
@@ -27,49 +27,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tanya Rae Brown
-  - Ralph Stanley
-  - Hank Thompson
-  - The Beach Boys
-  - George Jones
+    - Tanya Rae Brown
+    - Ralph Stanley
+    - Hank Thompson
+    - The Beach Boys
+    - George Jones
   influenced:
-  - Contemporary country and Americana guitarists
+    - Contemporary country and Americana guitarists
   mentors:
-  - Hank Thompson
+    - Hank Thompson
 spotify_data:
   followers: 56680
   id: 55Ptzry7mHvRycwsNqfZhY
   popularity: 35
-  url: https://open.spotify.com/artist/55Ptzry7mHvRycwsNqfZhY
+  url: 'https://open.spotify.com/artist/55Ptzry7mHvRycwsNqfZhY'
 discography_enriched: true
 top_tracks:
-- Highway Patrol (Guit With It)
-- My Wife Thinks You're Dead (Guit With It)
-- Surf Medley (Semi Crazy)
-- Broke Down South Of Dallas (12 Shades Of Brown)
-- Semi-Crazy (Semi Crazy)
-- Long Walk Back To San Antone (Long Walk Back)
-- Venom Wearin' Denim (Semi Crazy)
-- Gotta Get Up Every Morning (Semi Crazy)
-- Too Many Nights In A Roadhouse (12 Shades Of Brown)
-- Highway Patrol
+  - Highway Patrol (Guit With It)
+  - My Wife Thinks You're Dead (Guit With It)
+  - Surf Medley (Semi Crazy)
+  - Broke Down South Of Dallas (12 Shades Of Brown)
+  - Semi-Crazy (Semi Crazy)
+  - Long Walk Back To San Antone (Long Walk Back)
+  - Venom Wearin' Denim (Semi Crazy)
+  - Gotta Get Up Every Morning (Semi Crazy)
+  - Too Many Nights In A Roadhouse (12 Shades Of Brown)
+  - Highway Patrol
 external_urls:
-  spotify: https://open.spotify.com/artist/55Ptzry7mHvRycwsNqfZhY
-  wikipedia: https://en.wikipedia.org/wiki/Junior_Brown_(musician)
+  spotify: 'https://open.spotify.com/artist/55Ptzry7mHvRycwsNqfZhY'
+  wikipedia: 'https://en.wikipedia.org/wiki/Junior_Brown_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/junior_brown.jpg
 biography_enhanced_at: '2025-11-04T11:10:46.121924'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.themusichall.org/events/juniorbrown/
-- https://themomentary.org/calendar/junior-brown/
-- https://www.opry.com/artists/junior-brown
-- https://americana-uk.com/whatever-happened-to-junior-brown
-- https://www.juniorbrown.com/bio/
+  - 'https://www.themusichall.org/events/juniorbrown/'
+  - 'https://themomentary.org/calendar/junior-brown/'
+  - 'https://www.opry.com/artists/junior-brown'
+  - 'https://americana-uk.com/whatever-happened-to-junior-brown'
+  - 'https://www.juniorbrown.com/bio/'
 network_extracted: true
 entry_created: '2025-11-04T11:10:46.121934'
 last_updated: '2025-12-23T08:16:11.068753'
-
+artist_type: person
 ---
 
 ![](junior_brown.jpg)

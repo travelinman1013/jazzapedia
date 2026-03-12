@@ -1,41 +1,44 @@
 ---
 biography_enhanced_at: '2026-01-07T01:18:47.301596'
-birth_place: Birmingham, Alabama, USA
+birth_place: 'Birmingham, Alabama, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-07T01:18:47.301601'
 external_urls:
-  spotify: https://open.spotify.com/artist/3Dj8QpO2yUyElSCfiatKI9
-  wikipedia: https://en.wikipedia.org/wiki/Chuck_Leavell
+  spotify: 'https://open.spotify.com/artist/3Dj8QpO2yUyElSCfiatKI9'
+  wikipedia: 'https://en.wikipedia.org/wiki/Chuck_Leavell'
 genres:
-- blues
+  - blues
 image_path: 03_Resources/source_material/ArtistPortraits/chuck_leavell.jpg
 last_updated: '2026-01-07T01:18:47.301601'
 musical_connections:
   collaborators:
-  - Allman Brothers Band
-  - Sea Level
-  - The Rolling Stones
-  - Eric Clapton
+    - Allman Brothers Band
+    - Sea Level
+    - The Rolling Stones
+    - Eric Clapton
   influenced: []
   mentors:
-  - Dr. John
-  - Ian Stewart
-  - Ray Charles
+    - Dr. John
+    - Ian Stewart
+    - Ray Charles
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://chuckleavell.com/bio/
-- https://www.anightofgeorgiamusic.com/chuck-leavell-bio
-- https://www.allamericanspeakers.com/speakers/395876/Chuck-Leavell
-- https://en.wikipedia.org/wiki/Chuck_Leavell
-- https://www.americasforestswithchuckleavell.com/2024/01/12/birmingham-native-rolling-stones-keyboardist-chuck-leavell-hosts-americas-forests-show-on-pbs/
+  - 'https://chuckleavell.com/bio/'
+  - 'https://www.anightofgeorgiamusic.com/chuck-leavell-bio'
+  - 'https://www.allamericanspeakers.com/speakers/395876/Chuck-Leavell'
+  - 'https://en.wikipedia.org/wiki/Chuck_Leavell'
+  - >-
+    https://www.americasforestswithchuckleavell.com/2024/01/12/birmingham-native-rolling-stones-keyboardist-chuck-leavell-hosts-americas-forests-show-on-pbs/
 spotify_data:
   followers: 4683
   id: 3Dj8QpO2yUyElSCfiatKI9
   popularity: 28
-  url: https://open.spotify.com/artist/3Dj8QpO2yUyElSCfiatKI9
+  url: 'https://open.spotify.com/artist/3Dj8QpO2yUyElSCfiatKI9'
 status: active
 title: Chuck Leavell
+birth_date: '1952-04-28'
+artist_type: person
 ---
 
 ![](chuck_leavell.jpg)

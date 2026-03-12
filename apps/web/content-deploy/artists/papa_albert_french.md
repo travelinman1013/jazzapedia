@@ -1,15 +1,15 @@
 ---
-title: PAPA ALBERT FRENCH
+title: Papa Albert French
 wiki_slug: papa-albert-french
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/papa_albert_french.jpg
   caption: PAPA ALBERT FRENCH
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 129.8
   energy_avg: 0.547
@@ -25,36 +25,42 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Members of the Original Tuxedo Jazz Band
-  - Preservation Hall Jazz Band
+    - Members of the Original Tuxedo Jazz Band
+    - Preservation Hall Jazz Band
   influenced:
-  - Gerald French
+    - Gerald French
   mentors:
-  - Oscar "Papa" Celestin
+    - Oscar "Papa" Celestin
 spotify_data:
   followers: 8
   id: 1jUc6rT4TkYtGD5U2Ytfnc
   popularity: 0
-  url: https://open.spotify.com/artist/1jUc6rT4TkYtGD5U2Ytfnc
+  url: 'https://open.spotify.com/artist/1jUc6rT4TkYtGD5U2Ytfnc'
 discography_enriched: true
 top_tracks:
-- Bald Headed Beulah (Movements, Vol. 8)
+  - 'Bald Headed Beulah (Movements, Vol. 8)'
 external_urls:
-  spotify: https://open.spotify.com/artist/1jUc6rT4TkYtGD5U2Ytfnc
-  wikipedia: https://en.wikipedia.org/wiki/Papa_French
+  spotify: 'https://open.spotify.com/artist/1jUc6rT4TkYtGD5U2Ytfnc'
+  wikipedia: 'https://en.wikipedia.org/wiki/Papa_French'
 image_path: ''
 biography_enhanced_at: '2025-11-15T18:16:01.798405'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Papa_French
-- https://www.mps-music.com/releases/the-original-tuxedo-jass-band/
-- https://secondhandsongs.com/artist/70804/all
-- https://sites.duke.edu/banjology/banjo-and-jazz/jazz-banjo-ists-of-new-orleans/albert-french/
-- https://library.search.tulane.edu/discovery/fulldisplay/alma9945513330206326/01TUL_INST:Tulane
+  - 'https://en.wikipedia.org/wiki/Papa_French'
+  - 'https://www.mps-music.com/releases/the-original-tuxedo-jass-band/'
+  - 'https://secondhandsongs.com/artist/70804/all'
+  - >-
+    https://sites.duke.edu/banjology/banjo-and-jazz/jazz-banjo-ists-of-new-orleans/albert-french/
+  - >-
+    https://library.search.tulane.edu/discovery/fulldisplay/alma9945513330206326/01TUL_INST:Tulane
 network_extracted: true
 entry_created: '2025-11-15T18:16:01.798416'
 last_updated: '2025-12-23T08:16:13.916044'
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1910-11-16'
+death_date: '1977-09-28'
+artist_type: person
 ---
 
 ![]()

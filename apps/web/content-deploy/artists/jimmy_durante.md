@@ -1,58 +1,60 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 32a7b880-a285-4658-9116-23076d200f9b
-  name: Original New Orleans Jazz Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 32a7b880-a285-4658-9116-23076d200f9b
+    name: Original New Orleans Jazz Band
 biography_enhanced_at: '2026-01-03T01:47:24.031165'
 birth_date: '1893-02-10'
-birth_place: Manhattan
+birth_place: 'Manhattan, New York, United States'
 death_date: '1980-01-29'
-disambiguation: comedian, actor, singer, pianist
+disambiguation: 'comedian, actor, singer, pianist'
 enhancement_provider: perplexity
 entry_created: '2026-01-03T01:47:24.031177'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c4c8a72e-a518-48ba-bd59-c27ea6f8d932
-  spotify: https://open.spotify.com/artist/5FNHfTn3yzVpqdUyWwej0v
-  wikipedia: https://en.wikipedia.org/wiki/Jimmy_Durante
+  musicbrainz: 'https://musicbrainz.org/artist/c4c8a72e-a518-48ba-bd59-c27ea6f8d932'
+  spotify: 'https://open.spotify.com/artist/5FNHfTn3yzVpqdUyWwej0v'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jimmy_Durante'
 gender: Male
 genres:
-- adult standards
+  - adult standards
 image_path: 03_Resources/source_material/ArtistPortraits/jimmy_durante.jpg
 instruments:
-- piano
-- lead vocals
+  - piano
+  - lead vocals
 last_updated: '2026-01-03T01:47:24.031179'
 musical_connections:
   collaborators:
-  - Eddie Jackson and Lou Clayton
-  - Ben Ryan
-  - Original New Orleans Jazz Band (Johnny Stein)
+    - Eddie Jackson and Lou Clayton
+    - Ben Ryan
+    - Original New Orleans Jazz Band (Johnny Stein)
   influenced: []
   mentors:
-  - Scott Joplin
+    - Scott Joplin
 musicbrainz_id: c4c8a72e-a518-48ba-bd59-c27ea6f8d932
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.imdb.com/name/nm0002051/bio/
-- https://www.britannica.com/biography/Jimmy-Durante
-- https://en.wikipedia.org/wiki/Jimmy_Durante
-- https://nationalcomedyhalloffame.com/jimmy-durante/
-- https://www.allaboutjazz.com/musicians/jimmy-durante/
+  - 'https://www.imdb.com/name/nm0002051/bio/'
+  - 'https://www.britannica.com/biography/Jimmy-Durante'
+  - 'https://en.wikipedia.org/wiki/Jimmy_Durante'
+  - 'https://nationalcomedyhalloffame.com/jimmy-durante/'
+  - 'https://www.allaboutjazz.com/musicians/jimmy-durante/'
 spotify_data:
   followers: 121852
   id: 5FNHfTn3yzVpqdUyWwej0v
   popularity: 54
-  url: https://open.spotify.com/artist/5FNHfTn3yzVpqdUyWwej0v
+  url: 'https://open.spotify.com/artist/5FNHfTn3yzVpqdUyWwej0v'
 status: active
 tags:
-- 2008 universal fire victim
-- jazz
-- traditional pop
-title: jimmy durante
+  - 2008 universal fire victim
+  - jazz
+  - traditional pop
+title: Jimmy Durante
+is_active: false
+origin: 'New York City, New York, United States'
 ---
 
 ![](jimmy_durante.jpg)

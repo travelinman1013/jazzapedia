@@ -1,28 +1,28 @@
 ---
-title: MAMIE SMITH
+title: Mamie Smith
 wiki_slug: mamie-smith
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1891-05-26'
-birth_place: Cincinnati, Ohio, USA
+birth_place: 'Cincinnati, Ohio, USA'
 death_date: '1946-09-16'
 genres:
-- classic blues
-- blues
-- ragtime
-- country blues
+  - classic blues
+  - blues
+  - ragtime
+  - country blues
 instruments:
-- original
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/MAMIE_SMITH.jpg
   caption: MAMIE SMITH
   background: non_vocal_instrumentalist
   born: '1891-05-26'
-  origin: Cincinnati, Ohio, USA
+  origin: 'Cincinnati, Ohio, USA'
   died: '1946-09-16'
 audio_profile:
-  tempo_avg: 103.0
+  tempo_avg: 103
   energy_avg: 0.25
   valence_avg: 0.579
   danceability_avg: 0.516
@@ -36,43 +36,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jazz Hounds
-  - Ward 'Dope' Andrews
-  - Coleman Hawkins
+    - Jazz Hounds
+    - Ward 'Dope' Andrews
+    - Coleman Hawkins
   influenced:
-  - Ma Rainey
-  - Bessie Smith
+    - Ma Rainey
+    - Bessie Smith
   mentors:
-  - Perry Bradford
+    - Perry Bradford
 spotify_data:
   followers: 14502
   id: 2HS2wQTJXpA65XWOKlAVxk
   popularity: 15
-  url: https://open.spotify.com/artist/2HS2wQTJXpA65XWOKlAVxk
+  url: 'https://open.spotify.com/artist/2HS2wQTJXpA65XWOKlAVxk'
 discography_enriched: true
 top_tracks:
-- Crazy Blues (What Have I Done?)
-- Crazy Blues
-- Crazy Blues (Mamie Smith Vol. 1 (1920-1921))
-- Keep A Song In Your Soul
-- Crazy Blues - (Alternate Take) (What Have I Done?)
-- You've Got To See Mamma Ev'ry Night (What Have I Done?)
-- You Can Have Him, I Don't Want Him, Didn't Love Him Anyhow Blues (Mamie Smith Vol. 3 (1922-1923))
-- That Da Da Strain (Mamie Smith Vol. 3 (1922-1923))
-- Crazy Blues (Female Crazy Blues (Classic Mood Experience))
-- Alabama Blues (Mamie Smith Vol. 3 (1922-1923))
+  - Crazy Blues (What Have I Done?)
+  - Crazy Blues
+  - Crazy Blues (Mamie Smith Vol. 1 (1920-1921))
+  - Keep A Song In Your Soul
+  - Crazy Blues - (Alternate Take) (What Have I Done?)
+  - You've Got To See Mamma Ev'ry Night (What Have I Done?)
+  - >-
+    You Can Have Him, I Don't Want Him, Didn't Love Him Anyhow Blues (Mamie
+    Smith Vol. 3 (1922-1923))
+  - That Da Da Strain (Mamie Smith Vol. 3 (1922-1923))
+  - Crazy Blues (Female Crazy Blues (Classic Mood Experience))
+  - Alabama Blues (Mamie Smith Vol. 3 (1922-1923))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/918aef2a-cce5-4747-a0f0-c33a8ec299cb
-  spotify: https://open.spotify.com/artist/2HS2wQTJXpA65XWOKlAVxk
-  wikipedia: https://en.wikipedia.org/wiki/Mamie_Smith
+  musicbrainz: 'https://musicbrainz.org/artist/918aef2a-cce5-4747-a0f0-c33a8ec299cb'
+  spotify: 'https://open.spotify.com/artist/2HS2wQTJXpA65XWOKlAVxk'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mamie_Smith'
 image_path: 03_Resources/source_material/ArtistPortraits/MAMIE_SMITH.jpg
 biography_enhanced_at: '2025-10-20T09:15:01.729116'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- TeachRock
-- Friends of Music Hall
-- The Syncopated Times
+  - TeachRock
+  - Friends of Music Hall
+  - The Syncopated Times
 network_extracted: true
 entry_created: '2025-10-20T09:15:01.729126'
 last_updated: '2025-12-23T08:16:03.111014'
@@ -80,7 +82,9 @@ gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:36:09.783465'
 musicbrainz_id: 918aef2a-cce5-4747-a0f0-c33a8ec299cb
 tags:
-- vaudeville blues
+  - vaudeville blues
+is_active: false
+origin: 'New York City, New York, United States'
 ---
 
 ![](MAMIE_SMITH.jpg)

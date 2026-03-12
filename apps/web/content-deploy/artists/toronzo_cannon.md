@@ -1,60 +1,61 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5654b65e-a9de-4c1b-8fbf-f4a8cea2f714
-  name: Toronzo Cannon and the Chicago Way
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5654b65e-a9de-4c1b-8fbf-f4a8cea2f714
+    name: Toronzo Cannon and the Chicago Way
 biography_enhanced_at: '2025-12-27T01:31:01.477461'
 birth_date: '1968-02-14'
-birth_place: Chicago
+birth_place: 'Chicago, Illinois, United States'
 disambiguation: American electric blues guitarist
 enhancement_provider: perplexity
 entry_created: '2025-12-27T01:31:01.477479'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ad553775-13e3-4f64-b7c1-b1e7046b42a7
-  spotify: https://open.spotify.com/artist/0zqygsU5SAxzfK5hop7As6
-  wikipedia: https://en.wikipedia.org/wiki/Toronzo_Cannon
+  musicbrainz: 'https://musicbrainz.org/artist/ad553775-13e3-4f64-b7c1-b1e7046b42a7'
+  spotify: 'https://open.spotify.com/artist/0zqygsU5SAxzfK5hop7As6'
+  wikipedia: 'https://en.wikipedia.org/wiki/Toronzo_Cannon'
 gender: Male
 genres:
-- blues
-- modern blues
-- blues rock
-- soul blues
+  - blues
+  - modern blues
+  - blues rock
+  - soul blues
 image_path: 03_Resources/source_material/ArtistPortraits/toronzo_cannon.jpg
 last_updated: '2025-12-27T01:31:01.477481'
 musical_connections:
   collaborators:
-  - Tommy McCracken
-  - Wayne Baker Brooks
-  - L.V. Banks
-  - Joanna Connor
+    - Tommy McCracken
+    - Wayne Baker Brooks
+    - L.V. Banks
+    - Joanna Connor
   influenced: []
   mentors:
-  - Buddy Guy
-  - Junior Wells
-  - Jimi Hendrix
-  - Albert Collins
-  - B.B. King
-  - Freddie King
-  - Luther Allison
+    - Buddy Guy
+    - Junior Wells
+    - Jimi Hendrix
+    - Albert Collins
+    - B.B. King
+    - Freddie King
+    - Luther Allison
 musicbrainz_id: ad553775-13e3-4f64-b7c1-b1e7046b42a7
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Toronzo_Cannon
-- https://function-fx.com/site/toronzo-cannon/
-- https://www.chicagobluesguide.com/post/toronzo-cannon-interview
-- https://toronzocannon.com/bio
-- https://www.acornlive.org/events/toronzo-cannon-joanna-connor/
+  - 'https://en.wikipedia.org/wiki/Toronzo_Cannon'
+  - 'https://function-fx.com/site/toronzo-cannon/'
+  - 'https://www.chicagobluesguide.com/post/toronzo-cannon-interview'
+  - 'https://toronzocannon.com/bio'
+  - 'https://www.acornlive.org/events/toronzo-cannon-joanna-connor/'
 spotify_data:
   followers: 7963
   id: 0zqygsU5SAxzfK5hop7As6
   popularity: 28
-  url: https://open.spotify.com/artist/0zqygsU5SAxzfK5hop7As6
+  url: 'https://open.spotify.com/artist/0zqygsU5SAxzfK5hop7As6'
 status: active
-title: toronzo cannon
+title: Toronzo Cannon
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](toronzo_cannon.jpg)

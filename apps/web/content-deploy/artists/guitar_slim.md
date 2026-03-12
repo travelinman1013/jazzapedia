@@ -1,25 +1,25 @@
 ---
-title: guitar slim
+title: Guitar Slim
 wiki_slug: guitar-slim
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1926-12-10'
-birth_place: Greenwood, Mississippi, USA
+birth_place: 'Greenwood, Mississippi, USA'
 death_date: '1959-02-07'
 genres:
-- classic blues
-- blues
-- country blues
+  - classic blues
+  - blues
+  - country blues
 instruments:
-- eponymous
-- principal
+  - eponymous
+  - principal
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/guitar_slim.jpg
   caption: guitar slim
   background: non_vocal_instrumentalist
   born: '1926-12-10'
-  origin: Greenwood, Mississippi, USA
+  origin: 'Greenwood, Mississippi, USA'
   died: '1959-02-07'
 audio_profile:
   tempo_avg: 116.8
@@ -36,47 +36,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Huey 'Piano' Smith
-  - Ray Charles
-  - Cloyd Cambert
+    - Huey 'Piano' Smith
+    - Ray Charles
+    - Cloyd Cambert
   influenced:
-  - Buddy Guy
-  - Stevie Ray Vaughan
-  - Frank Zappa
-  - Billy Gibbons (ZZ Top)
+    - Buddy Guy
+    - Stevie Ray Vaughan
+    - Frank Zappa
+    - Billy Gibbons (ZZ Top)
   mentors:
-  - Willie D. Warren
-  - Clarence 'Gatemouth' Brown
-  - T-Bone Walker
+    - Willie D. Warren
+    - Clarence 'Gatemouth' Brown
+    - T-Bone Walker
 spotify_data:
   followers: 18314
   id: 6fxCRWTrlk6wDMM4Gn421s
   popularity: 28
-  url: https://open.spotify.com/artist/6fxCRWTrlk6wDMM4Gn421s
+  url: 'https://open.spotify.com/artist/6fxCRWTrlk6wDMM4Gn421s'
 discography_enriched: true
 top_tracks:
-- The Things That I Used To Do (Sufferin' Mind)
-- Well I Done Got Over It (Sufferin' Mind)
-- Along About Midnight (The ATCO Sessions)
-- The Things That I Used To Do (10-27-53) (1951-1954)
-- It Hurts to Love Someone (The ATCO Sessions)
-- Bad Luck Blues (Sufferin' Mind)
-- Story Of My Life (Sufferin' Mind)
-- Guitar Slim (Sufferin' Mind)
-- Sufferin' Mind (Sufferin' Mind)
-- Stand By Me (09-28-54) (1951-1954)
+  - The Things That I Used To Do (Sufferin' Mind)
+  - Well I Done Got Over It (Sufferin' Mind)
+  - Along About Midnight (The ATCO Sessions)
+  - The Things That I Used To Do (10-27-53) (1951-1954)
+  - It Hurts to Love Someone (The ATCO Sessions)
+  - Bad Luck Blues (Sufferin' Mind)
+  - Story Of My Life (Sufferin' Mind)
+  - Guitar Slim (Sufferin' Mind)
+  - Sufferin' Mind (Sufferin' Mind)
+  - Stand By Me (09-28-54) (1951-1954)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/017151db-3920-4b4d-ab17-c8c5b6616648
-  spotify: https://open.spotify.com/artist/6fxCRWTrlk6wDMM4Gn421s
+  musicbrainz: 'https://musicbrainz.org/artist/017151db-3920-4b4d-ab17-c8c5b6616648'
+  spotify: 'https://open.spotify.com/artist/6fxCRWTrlk6wDMM4Gn421s'
   wikipedia: Not found in search results; no Wikipedia URL provided.
 image_path: 03_Resources/source_material/ArtistPortraits/guitar_slim.jpg
 biography_enhanced_at: '2025-10-20T10:22:18.161360'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- mojohand.com
-- Mississippi Blues Trail
-- Mississippi Writers and Musicians
+  - mojohand.com
+  - Mississippi Blues Trail
+  - Mississippi Writers and Musicians
 network_extracted: true
 entry_created: '2025-10-20T10:22:18.161376'
 last_updated: '2025-12-23T08:16:09.408250'
@@ -85,8 +85,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:52:43.967317'
 musicbrainz_id: 017151db-3920-4b4d-ab17-c8c5b6616648
 tags:
-- electric blues
-- new orleans blues
+  - electric blues
+  - new orleans blues
+is_active: false
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](guitar_slim.jpg)

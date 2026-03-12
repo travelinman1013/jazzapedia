@@ -3,15 +3,16 @@ title: Marie Delta & Valentina Fanigliulo
 wiki_slug: marie-delta-valentina-fanigliulo
 schema_version: 2
 status: active
-birth_place: Paris, Île-de-France, France
+birth_place: 'Paris, Île-de-France, France'
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/Marie_Delta_and_Valentina_Fanigliulo.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/Marie_Delta_and_Valentina_Fanigliulo.jpg
   caption: Marie Delta & Valentina Fanigliulo
   background: solo_singer
-  origin: Paris, Île-de-France, France
+  origin: 'Paris, Île-de-France, France'
 audio_profile:
-  tempo_avg: 147.0
+  tempo_avg: 147
   energy_avg: 0.545
   valence_avg: 0.722
   danceability_avg: 0.714
@@ -25,34 +26,36 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Pussy Patrol
-  - Eyes Behind
-  - BCBG
+    - Pussy Patrol
+    - Eyes Behind
+    - BCBG
   influenced:
-  - Not documented
+    - Not documented
   mentors:
-  - Not documented
+    - Not documented
 spotify_data:
   followers: 0
   id: 4Gy992cDPdZPUM66yt1Sro
   popularity: 1
-  url: https://open.spotify.com/artist/4Gy992cDPdZPUM66yt1Sro
+  url: 'https://open.spotify.com/artist/4Gy992cDPdZPUM66yt1Sro'
 discography_enriched: true
 top_tracks:
-- Lettre à la Lune (The Girl from Poison Paradise)
-- Algo-gaze (The Girl from Poison Paradise)
+  - Lettre à la Lune (The Girl from Poison Paradise)
+  - Algo-gaze (The Girl from Poison Paradise)
 external_urls:
-  spotify: https://open.spotify.com/artist/4Gy992cDPdZPUM66yt1Sro
+  spotify: 'https://open.spotify.com/artist/4Gy992cDPdZPUM66yt1Sro'
   wikipedia: ''
-image_path: 03_Resources/source_material/ArtistPortraits/Marie_Delta_and_Valentina_Fanigliulo.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/Marie_Delta_and_Valentina_Fanigliulo.jpg
 biography_enhanced_at: '2025-10-20T09:40:27.827610'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://mariedelta.bandcamp.com/album/route-de-nuit
+  - 'https://mariedelta.bandcamp.com/album/route-de-nuit'
 network_extracted: true
 entry_created: '2025-10-20T09:40:27.827622'
 last_updated: '2025-12-23T08:16:03.183178'
+artist_type: band
 ---
 
 ![](Marie_Delta_and_Valentina_Fanigliulo.jpg)

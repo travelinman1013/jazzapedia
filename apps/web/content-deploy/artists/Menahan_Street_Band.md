@@ -4,7 +4,7 @@ wiki_slug: menahan-street-band
 schema_version: 2
 status: active
 genres:
-- retro soul
+  - retro soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Menahan_Street_Band.jpg
   caption: Menahan Street Band
@@ -24,53 +24,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Charles Bradley
-  - Sharon Jones & The Dap-Kings
-  - The Budos Band
-  - Rogê
+    - Charles Bradley
+    - Sharon Jones & The Dap-Kings
+    - The Budos Band
+    - Rogê
   influenced:
-  - Jay-Z
-  - Kendrick Lamar
-  - Eminem
-  - Travis Scott
+    - Jay-Z
+    - Kendrick Lamar
+    - Eminem
+    - Travis Scott
   mentors:
-  - Curtis Mayfield
-  - Mulatu Astatke
-  - Ennio Morricone
+    - Curtis Mayfield
+    - Mulatu Astatke
+    - Ennio Morricone
 spotify_data:
   followers: 254596
   id: 1PryMSya1JnSAlcwYawCxp
   popularity: 58
-  url: https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp
+  url: 'https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp'
 discography_enriched: true
 top_tracks:
-- The World (Is Going Up in Flames) (No Time For Dreaming)
-- Queens Highway (The Exciting Sounds of Menahan Street Band)
-- The Traitor (Make the Road By Walking)
-- Heart of Gold (No Time For Dreaming)
-- There's a New Day Coming
-- How Long (No Time For Dreaming)
-- Home Again (Make the Road By Walking)
-- No Time for Dreaming (No Time For Dreaming)
-- Every Day a Dream (The Crossing)
-- Victim of Love (Victim of Love)
+  - The World (Is Going Up in Flames) (No Time For Dreaming)
+  - Queens Highway (The Exciting Sounds of Menahan Street Band)
+  - The Traitor (Make the Road By Walking)
+  - Heart of Gold (No Time For Dreaming)
+  - There's a New Day Coming
+  - How Long (No Time For Dreaming)
+  - Home Again (Make the Road By Walking)
+  - No Time for Dreaming (No Time For Dreaming)
+  - Every Day a Dream (The Crossing)
+  - Victim of Love (Victim of Love)
 external_urls:
-  spotify: https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp
-  wikipedia: https://en.wikipedia.org/wiki/Menahan_Street_Band
+  spotify: 'https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp'
+  wikipedia: 'https://en.wikipedia.org/wiki/Menahan_Street_Band'
 image_path: 03_Resources/source_material/ArtistPortraits/Menahan_Street_Band.jpg
 biography_enhanced_at: '2025-10-22T06:56:13.492308'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://americansongwriter.com/menahan-street-band-make-exciting-return-after-nearly-10-years/
-- https://www.holican.io/artist-wiki/menahan-street-band
-- https://independentmusicpromotions.com/the-exciting-sounds-of-menahan-street-band-the-title-says-it-all/
-- https://www.theaudiodb.com/artist/123040-Menahan-Street-Band
-- https://www.diamondwestrecords.com/pages/the-menahan-street-band
+  - >-
+    https://americansongwriter.com/menahan-street-band-make-exciting-return-after-nearly-10-years/
+  - 'https://www.holican.io/artist-wiki/menahan-street-band'
+  - >-
+    https://independentmusicpromotions.com/the-exciting-sounds-of-menahan-street-band-the-title-says-it-all/
+  - 'https://www.theaudiodb.com/artist/123040-Menahan-Street-Band'
+  - 'https://www.diamondwestrecords.com/pages/the-menahan-street-band'
 network_extracted: true
 entry_created: '2025-10-22T06:56:13.492318'
 last_updated: '2025-12-23T08:16:03.283774'
-origin: Brooklyn, New York, United States
+origin: 'Brooklyn, New York, United States'
+artist_type: band
 ---
 
 ![](Menahan_Street_Band.jpg)

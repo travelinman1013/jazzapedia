@@ -1,13 +1,14 @@
 ---
-title: Theo Croker, Sullivan Fortner
+title: 'Theo Croker, Sullivan Fortner'
 wiki_slug: theo-croker-sullivan-fortner
 schema_version: 2
 status: active
 genres:
-- soul jazz
+  - soul jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/theo_croker_sullivan_fortner.jpg
-  caption: Theo Croker, Sullivan Fortner
+  image: >-
+    03_Resources/source_material/ArtistPortraits/theo_croker_sullivan_fortner.jpg
+  caption: 'Theo Croker, Sullivan Fortner'
   background: solo_singer
 audio_profile:
   tempo_avg: 105.9
@@ -24,54 +25,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Roy Hargrove
-  - Dee Dee Bridgewater
-  - Cecile McLorin Salvant
-  - Stefon Harris
-  - Karriem Riggins
-  - Justin Robinson
-  - Paul Simon
+    - Roy Hargrove
+    - Dee Dee Bridgewater
+    - Cecile McLorin Salvant
+    - Stefon Harris
+    - Karriem Riggins
+    - Justin Robinson
+    - Paul Simon
   influenced:
-  - Samara Joy
+    - Samara Joy
   mentors:
-  - Doc Cheatham
-  - Donald Byrd
-  - Gary Bartz
-  - Barry Harris
+    - Doc Cheatham
+    - Donald Byrd
+    - Gary Bartz
+    - Barry Harris
 spotify_data:
   followers: 38
   id: 5OgLSnr6MkQKbCXKIFB4C4
   popularity: 2
-  url: https://open.spotify.com/artist/5OgLSnr6MkQKbCXKIFB4C4
+  url: 'https://open.spotify.com/artist/5OgLSnr6MkQKbCXKIFB4C4'
 discography_enriched: true
 top_tracks:
-- I Gotta Right to Sing the Blues (In The Tradition)
-- She's Funny That Way (In The Tradition)
-- Gee Baby, Ain't I Good to You (In The Tradition)
-- Struttin' With Some Barbeque (In The Tradition)
-- You're Blasé (In The Tradition)
-- Jada (In The Tradition)
-- New Orleans (In The Tradition)
-- St. Louis Blues (In The Tradition)
-- I Cover the Waterfront (In The Tradition)
-- Little Things That Mean So Much (In The Tradition)
+  - I Gotta Right to Sing the Blues (In The Tradition)
+  - She's Funny That Way (In The Tradition)
+  - 'Gee Baby, Ain''t I Good to You (In The Tradition)'
+  - Struttin' With Some Barbeque (In The Tradition)
+  - You're Blasé (In The Tradition)
+  - Jada (In The Tradition)
+  - New Orleans (In The Tradition)
+  - St. Louis Blues (In The Tradition)
+  - I Cover the Waterfront (In The Tradition)
+  - Little Things That Mean So Much (In The Tradition)
 external_urls:
-  spotify: https://open.spotify.com/artist/5OgLSnr6MkQKbCXKIFB4C4
-  wikipedia: https://en.wikipedia.org/wiki/Sullivan_Fortner
+  spotify: 'https://open.spotify.com/artist/5OgLSnr6MkQKbCXKIFB4C4'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sullivan_Fortner'
 image_path: ''
 biography_enhanced_at: '2025-12-23T01:58:47.226419'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Sullivan_Fortner
-- https://en.wikipedia.org/wiki/Theo_Croker
-- https://www.sullivanfortnermusic.com/new-page
-- https://www.allaboutjazz.com/musicians/theo-croker/
-- https://latinjazznet.com/reviews/albums/theo-croker-afro-physicist/
-- https://www.paris-move.com/reviews/theo-croker-sullivan-fortner-play/
+  - 'https://en.wikipedia.org/wiki/Sullivan_Fortner'
+  - 'https://en.wikipedia.org/wiki/Theo_Croker'
+  - 'https://www.sullivanfortnermusic.com/new-page'
+  - 'https://www.allaboutjazz.com/musicians/theo-croker/'
+  - 'https://latinjazznet.com/reviews/albums/theo-croker-afro-physicist/'
+  - 'https://www.paris-move.com/reviews/theo-croker-sullivan-fortner-play/'
 network_extracted: true
 entry_created: '2025-12-23T01:58:47.226443'
 last_updated: '2025-12-23T08:16:17.365563'
+birth_place: 'Leesburg, Florida, United States'
+origin: 'New Orleans, Louisiana, USA (Fortner); Leesburg, Florida, USA (Croker)'
+birth_date: '1985-07-18'
+artist_type: person
 ---
 
 ![]()

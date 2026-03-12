@@ -3,40 +3,40 @@ biography_enhanced_at: '2025-12-26T01:25:50.838327'
 enhancement_provider: perplexity
 entry_created: '2025-12-26T01:25:50.838336'
 external_urls:
-  spotify: https://open.spotify.com/artist/5JV9mEqpwVT7biLaRQEjZ3
-  wikipedia: https://en.wikipedia.org/wiki/Faze-O
+  spotify: 'https://open.spotify.com/artist/5JV9mEqpwVT7biLaRQEjZ3'
+  wikipedia: 'https://en.wikipedia.org/wiki/Faze-O'
 genres:
-- hardcore punk
+  - hardcore punk
 image_path: 03_Resources/source_material/ArtistPortraits/faze-o.jpg
 last_updated: '2025-12-26T01:25:50.838337'
 musical_connections:
   collaborators:
-  - Keith Harrison
-  - Ralph Aikens
-  - Tyrone Crum
-  - Robert Neal Jr.
-  - Roger Parker
+    - Keith Harrison
+    - Ralph Aikens
+    - Tyrone Crum
+    - Robert Neal Jr.
+    - Roger Parker
   influenced:
-  - Fresh Four
-  - EPMD
+    - Fresh Four
+    - EPMD
   mentors:
-  - Clarence Satchell
-  - Ohio Players (Tight Corporation/Billy Beck)
+    - Clarence Satchell
+    - Ohio Players (Tight Corporation/Billy Beck)
 network_extracted: true
-origin: Dayton, Ohio, USA
+origin: 'Dayton, Ohio, USA'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Faze-O
-- https://jazzrocksoul.com/artists/faze-o/
-- https://www.allmusic.com/artist/faze-o-mn0000136263
+  - 'https://en.wikipedia.org/wiki/Faze-O'
+  - 'https://jazzrocksoul.com/artists/faze-o/'
+  - 'https://www.allmusic.com/artist/faze-o-mn0000136263'
 spotify_data:
   followers: 4407
   id: 5JV9mEqpwVT7biLaRQEjZ3
   popularity: 24
-  url: https://open.spotify.com/artist/5JV9mEqpwVT7biLaRQEjZ3
+  url: 'https://open.spotify.com/artist/5JV9mEqpwVT7biLaRQEjZ3'
 status: active
 title: Faze-O
-
+artist_type: person
 ---
 
 ![](faze-o.jpg)

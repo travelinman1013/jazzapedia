@@ -1,12 +1,13 @@
 ---
-title: geno washington and the ram jam band
+title: Geno Washington and the Ram Jam Band
 wiki_slug: geno-washington-and-the-ram-jam-band
 schema_version: 2
 status: active
 genres:
-- northern soul
+  - northern soul
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/geno_washington_and_the_ram_jam_band.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/geno_washington_and_the_ram_jam_band.jpg
   caption: geno washington and the ram jam band
   background: solo_singer
 audio_profile:
@@ -24,46 +25,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Pete Gage
-  - Geoff Pullum
-  - Errol Dixon
-  - Herb Prestidge, John Roberts, Lionel Kingham, Buddy Beadle
+    - Pete Gage
+    - Geoff Pullum
+    - Errol Dixon
+    - 'Herb Prestidge, John Roberts, Lionel Kingham, Buddy Beadle'
   influenced:
-  - Dexys Midnight Runners
+    - Dexys Midnight Runners
   mentors:
-  - American Soul and R&B Artists
+    - American Soul and R&B Artists
 spotify_data:
   followers: 2066
   id: 75d6MzfTU38ScL6rrDZtXb
   popularity: 2
-  url: https://open.spotify.com/artist/75d6MzfTU38ScL6rrDZtXb
+  url: 'https://open.spotify.com/artist/75d6MzfTU38ScL6rrDZtXb'
 discography_enriched: true
 top_tracks:
-- You Don't Know Like I Know - Full Version - Live (Hand Clappin' Foot Stompin' Funky-Butt... Live!)
-- Shake Shake Senora - 2007 Remaster (Take My Tip (25 British Mod Artefacts From The EMI Vaults))
-- All I Need (Oh, Geno! Rare Pye Singles As and Bs)
-- Michael (the Lover) (It's Geno Time)
-- Que Sera Sera (Oh, Geno! Rare Pye Singles As and Bs)
-- I'm Your Puppet
-- Three Time Loser (Shake A Tail Feather)
-- Who's Foolin' Who (Shake A Tail Feather)
-- Ride Your Pony (It's Geno Time)
-- Hold On I'm Comin' (It's Geno Time)
+  - >-
+    You Don't Know Like I Know - Full Version - Live (Hand Clappin' Foot
+    Stompin' Funky-Butt... Live!)
+  - >-
+    Shake Shake Senora - 2007 Remaster (Take My Tip (25 British Mod Artefacts
+    From The EMI Vaults))
+  - 'All I Need (Oh, Geno! Rare Pye Singles As and Bs)'
+  - Michael (the Lover) (It's Geno Time)
+  - 'Que Sera Sera (Oh, Geno! Rare Pye Singles As and Bs)'
+  - I'm Your Puppet
+  - Three Time Loser (Shake A Tail Feather)
+  - Who's Foolin' Who (Shake A Tail Feather)
+  - Ride Your Pony (It's Geno Time)
+  - Hold On I'm Comin' (It's Geno Time)
 external_urls:
-  spotify: https://open.spotify.com/artist/75d6MzfTU38ScL6rrDZtXb
-  wikipedia: https://en.wikipedia.org/wiki/Geno_Washington
-image_path: 03_Resources/source_material/ArtistPortraits/geno_washington_and_the_ram_jam_band.jpg
+  spotify: 'https://open.spotify.com/artist/75d6MzfTU38ScL6rrDZtXb'
+  wikipedia: 'https://en.wikipedia.org/wiki/Geno_Washington'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/geno_washington_and_the_ram_jam_band.jpg
 biography_enhanced_at: '2025-10-24T07:48:26.454943'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Geno_Washington
-- https://en.wikipedia.org/wiki/Geno_Washington_&_the_Ram_Jam_Band
-- https://www.blackhistorymonth.org.uk/article/listings/region/brighton-and-hove/geno-washington-and-the-ram-jam-band/
+  - 'https://en.wikipedia.org/wiki/Geno_Washington'
+  - 'https://en.wikipedia.org/wiki/Geno_Washington_&_the_Ram_Jam_Band'
+  - >-
+    https://www.blackhistorymonth.org.uk/article/listings/region/brighton-and-hove/geno-washington-and-the-ram-jam-band/
 network_extracted: true
 entry_created: '2025-10-24T07:48:26.454956'
 last_updated: '2025-12-23T08:16:09.061851'
-origin: Evansville, Indiana, United States
+origin: 'Evansville, Indiana, United States'
+birth_place: 'Evansville, Indiana, United States'
+birth_date: '1943-12-21'
+artist_type: band
 ---
 
 ![](geno_washington_and_the_ram_jam_band.jpg)

@@ -1,54 +1,57 @@
 ---
 biography_enhanced_at: '2026-01-09T02:04:51.429880'
-birth_place: London, England, United Kingdom (born; raised largely in Barbados)
+birth_place: 'London, England, United Kingdom (born; raised largely in Barbados)'
 enhancement_provider: perplexity
 entry_created: '2026-01-09T02:04:51.429886'
 external_urls:
-  spotify: https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js
-  wikipedia: https://en.wikipedia.org/wiki/Shabaka_Hutchings
+  spotify: 'https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js'
+  wikipedia: 'https://en.wikipedia.org/wiki/Shabaka_Hutchings'
 genres:
-- nu jazz
+  - nu jazz
 image_path: 03_Resources/source_material/ArtistPortraits/shabaka.jpg
 last_updated: '2026-01-09T02:04:51.429887'
 musical_connections:
   collaborators:
-  - Sons of Kemet (Theon Cross, tuba; dual drummers including Tom Skinner and Eddie Hick, among others)
-  - The Comet Is Coming (with Danalogue and Betamax)
-  - Shabaka and the Ancestors
-  - Mulatu Astatke and The Heliocentrics
-  - Floating Points
-  - Courtney Pine
-  - André 3000
-  - Esperanza Spalding
-  - Lianne La Havas
-  - Laraaji
-  - Moses Sumney
-  - Saul Williams
+    - >-
+      Sons of Kemet (Theon Cross, tuba; dual drummers including Tom Skinner and
+      Eddie Hick, among others)
+    - The Comet Is Coming (with Danalogue and Betamax)
+    - Shabaka and the Ancestors
+    - Mulatu Astatke and The Heliocentrics
+    - Floating Points
+    - Courtney Pine
+    - André 3000
+    - Esperanza Spalding
+    - Lianne La Havas
+    - Laraaji
+    - Moses Sumney
+    - Saul Williams
   influenced:
-  - London ‘neo‑jazz’ and youth jazz scenes (collective influence)
+    - London ‘neo‑jazz’ and youth jazz scenes (collective influence)
   mentors:
-  - Soweto Kinch
-  - Marshall Allen
-  - Sun Ra (influence via recordings and Arkestra legacy)
+    - Soweto Kinch
+    - Marshall Allen
+    - Sun Ra (influence via recordings and Arkestra legacy)
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.shabakahutchings.com/bio/
-- https://walkerart.org/magazine/program-notes-for-shabaka/
-- https://downbeat.com/news/detail/shabaka-hutchings-britains-best-export/P1
-- https://www.sfjazz.org/onthecorner/shabaka-hutchings-interview/
-- https://jazzmiddelheim.eu/artists/shabaka
-- https://maximumfun.org/episodes/bullseye-with-jesse-thorn/jazz-musician-shabaka-hutchings/
-- https://nextisafrica.com/shabakamagic-flute
-- https://en.wikipedia.org/wiki/Shabaka_Hutchings
+  - 'https://www.shabakahutchings.com/bio/'
+  - 'https://walkerart.org/magazine/program-notes-for-shabaka/'
+  - 'https://downbeat.com/news/detail/shabaka-hutchings-britains-best-export/P1'
+  - 'https://www.sfjazz.org/onthecorner/shabaka-hutchings-interview/'
+  - 'https://jazzmiddelheim.eu/artists/shabaka'
+  - >-
+    https://maximumfun.org/episodes/bullseye-with-jesse-thorn/jazz-musician-shabaka-hutchings/
+  - 'https://nextisafrica.com/shabakamagic-flute'
+  - 'https://en.wikipedia.org/wiki/Shabaka_Hutchings'
 spotify_data:
   followers: 62612
   id: 6ywMpa6AmGJpV5Sbyy58Js
   popularity: 37
-  url: https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js
+  url: 'https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js'
 status: active
 title: Shabaka
-
+artist_type: person
 ---
 
 ![](shabaka.jpg)

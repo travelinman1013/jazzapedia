@@ -4,7 +4,7 @@ wiki_slug: laureaux
 schema_version: 2
 status: active
 genres:
-- neoclassical
+  - neoclassical
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/laureaux.jpg
   caption: LauReaux
@@ -16,7 +16,7 @@ audio_profile:
   danceability_avg: 0.513
   acousticness_avg: 0.993
   instrumentalness_avg: 0.958
-  loudness_avg: -29.0
+  loudness_avg: -29
   speechiness_avg: 0.055
   liveness_avg: 0.104
   track_count: 7
@@ -30,29 +30,32 @@ spotify_data:
   followers: 30
   id: 72lB7eoXttyxj9rcAGEoGJ
   popularity: 8
-  url: https://open.spotify.com/artist/72lB7eoXttyxj9rcAGEoGJ
+  url: 'https://open.spotify.com/artist/72lB7eoXttyxj9rcAGEoGJ'
 discography_enriched: true
 top_tracks:
-- The Broken Marionette (The Broken Marionette)
-- On The Shore (On The Shore)
-- Sonder (Sonder)
-- Valse Triste (Valse Triste)
-- Waltz (Waltz)
-- Silent Harbor (Silent Harbor)
-- Gusting Thoughts (Gusting Thoughts)
+  - The Broken Marionette (The Broken Marionette)
+  - On The Shore (On The Shore)
+  - Sonder (Sonder)
+  - Valse Triste (Valse Triste)
+  - Waltz (Waltz)
+  - Silent Harbor (Silent Harbor)
+  - Gusting Thoughts (Gusting Thoughts)
 external_urls:
-  spotify: https://open.spotify.com/artist/72lB7eoXttyxj9rcAGEoGJ
+  spotify: 'https://open.spotify.com/artist/72lB7eoXttyxj9rcAGEoGJ'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/laureaux.jpg
 biography_enhanced_at: '2025-11-21T07:08:54.396153'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Spotify artist listing (context provided)
-- No relevant results in Wikipedia, Interlude.hk, or major music reference sources
+  - Spotify artist listing (context provided)
+  - >-
+    No relevant results in Wikipedia, Interlude.hk, or major music reference
+    sources
 network_extracted: true
 entry_created: '2025-11-21T07:08:54.396167'
 last_updated: '2025-12-23T08:16:11.626824'
+artist_type: person
 ---
 
 ![](laureaux.jpg)

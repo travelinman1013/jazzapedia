@@ -4,7 +4,7 @@ wiki_slug: patsy-raye-the-beatniks
 schema_version: 2
 status: active
 genres:
-- spoken word
+  - spoken word
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/patsy_raye_and_the_beatniks.jpg
   caption: Patsy Raye & the Beatniks
@@ -15,7 +15,7 @@ audio_profile:
   valence_avg: 0.447
   danceability_avg: 0.485
   acousticness_avg: 0.754
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -8.1
   speechiness_avg: 0.061
   liveness_avg: 0.866
@@ -30,31 +30,33 @@ spotify_data:
   followers: 61
   id: 431KgU5k9J5yjRgqylmQxx
   popularity: 5
-  url: https://open.spotify.com/artist/431KgU5k9J5yjRgqylmQxx
+  url: 'https://open.spotify.com/artist/431KgU5k9J5yjRgqylmQxx'
 discography_enriched: true
 top_tracks:
-- Beatnik's Wish (Beatnik's Wish)
-- Beatnik's Wish (Merry Christmas From Stateside)
-- Beatnik's Wish (Alternative Christmas)
-- Beatnik's Wish (Beatnik)
-- Beatnik's Wish (Alternative Christmas)
-- Beatnik's Wish (Ultimate Beatnik Collection, Vol. 4)
-- Beatnik's Wish (Let's Have a Beatnik Party Vol. 1)
+  - Beatnik's Wish (Beatnik's Wish)
+  - Beatnik's Wish (Merry Christmas From Stateside)
+  - Beatnik's Wish (Alternative Christmas)
+  - Beatnik's Wish (Beatnik)
+  - Beatnik's Wish (Alternative Christmas)
+  - 'Beatnik''s Wish (Ultimate Beatnik Collection, Vol. 4)'
+  - Beatnik's Wish (Let's Have a Beatnik Party Vol. 1)
 external_urls:
-  spotify: https://open.spotify.com/artist/431KgU5k9J5yjRgqylmQxx
+  spotify: 'https://open.spotify.com/artist/431KgU5k9J5yjRgqylmQxx'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/patsy_raye_and_the_beatniks.jpg
 biography_enhanced_at: '2025-12-20T01:20:11.370715'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Patsy+Raye+&+The+Beatniks/+wiki[1]
-- https://kfai.org/episode/12-18-2025-freewheelin/[2]
-- https://allenginsberg.org/2017/12/t-d-26/[4]
-- https://poeticjusticemagazine.com/2022/03/17/jack-kerouac-100-years-of-beatitude/[5]
+  - 'https://www.last.fm/music/Patsy+Raye+&+The+Beatniks/+wiki[1]'
+  - 'https://kfai.org/episode/12-18-2025-freewheelin/[2]'
+  - 'https://allenginsberg.org/2017/12/t-d-26/[4]'
+  - >-
+    https://poeticjusticemagazine.com/2022/03/17/jack-kerouac-100-years-of-beatitude/[5]
 network_extracted: true
 entry_created: '2025-12-20T01:20:11.370726'
 last_updated: '2025-12-23T08:16:14.006667'
+artist_type: band
 ---
 
 ![](patsy_raye_and_the_beatniks.jpg)

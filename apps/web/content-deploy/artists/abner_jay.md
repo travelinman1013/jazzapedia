@@ -1,11 +1,11 @@
 ---
-title: abner jay
+title: Abner Jay
 wiki_slug: abner-jay
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1921-07-15'
-birth_place: Fitzgerald
+birth_place: 'Fitzgerald, Georgia, United States'
 death_date: '1993-11-04'
 genres: []
 infobox:
@@ -30,44 +30,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Rabbit Foot Minstrels
-  - Silas Green from New Orleans
-  - The Sunlight Four
-  - Jay Brothers band
+    - Rabbit Foot Minstrels
+    - Silas Green from New Orleans
+    - The Sunlight Four
+    - Jay Brothers band
   influenced:
-  - Anthony Braxton
-  - Contemporary outsider and lo‑fi folk artists
+    - Anthony Braxton
+    - Contemporary outsider and lo‑fi folk artists
   mentors:
-  - Abner Jay's grandfather
-  - Abner Jay's father
+    - Abner Jay's grandfather
+    - Abner Jay's father
 spotify_data:
   followers: 15902
   id: 0MPTLi41EZ3fWi3GYQvHQi
   popularity: 22
-  url: https://open.spotify.com/artist/0MPTLi41EZ3fWi3GYQvHQi
+  url: 'https://open.spotify.com/artist/0MPTLi41EZ3fWi3GYQvHQi'
 discography_enriched: true
 top_tracks:
-- My Baby Is Coming Back To Me (I Don't Have Time To Lie To You)
-- I'm So Depressed (True Story Of...)
-- Hard Working Man (I Don't Have Time To Lie To You)
-- Cocaine (True Story Of...)
-- Plum Nelly (I Don't Have Time To Lie To You)
-- The Reason Young People Use Drugs (True Story Of...)
-- St James Infirmiry Blues (True Story Of...)
-- I'm So Depressed (I Don't Have Time To Lie To You)
-- Woke Up This Morning (True Story Of...)
-- Ol Man River (True Story Of...)
+  - My Baby Is Coming Back To Me (I Don't Have Time To Lie To You)
+  - I'm So Depressed (True Story Of...)
+  - Hard Working Man (I Don't Have Time To Lie To You)
+  - Cocaine (True Story Of...)
+  - Plum Nelly (I Don't Have Time To Lie To You)
+  - The Reason Young People Use Drugs (True Story Of...)
+  - St James Infirmiry Blues (True Story Of...)
+  - I'm So Depressed (I Don't Have Time To Lie To You)
+  - Woke Up This Morning (True Story Of...)
+  - Ol Man River (True Story Of...)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/222267be-6b06-48a9-86dd-15d4b6490788
-  spotify: https://open.spotify.com/artist/0MPTLi41EZ3fWi3GYQvHQi
-  wikipedia: https://en.wikipedia.org/wiki/Abner_Jay
+  musicbrainz: 'https://musicbrainz.org/artist/222267be-6b06-48a9-86dd-15d4b6490788'
+  spotify: 'https://open.spotify.com/artist/0MPTLi41EZ3fWi3GYQvHQi'
+  wikipedia: 'https://en.wikipedia.org/wiki/Abner_Jay'
 image_path: 03_Resources/source_material/ArtistPortraits/abner_jay.jpg
 biography_enhanced_at: '2025-12-05T06:10:18.011273'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Abner_Jay
-- Interviews and profiles in music journalism and archival websites discussing Abner Jay's life, performances, and discography
+  - 'https://en.wikipedia.org/wiki/Abner_Jay'
+  - >-
+    Interviews and profiles in music journalism and archival websites discussing
+    Abner Jay's life, performances, and discography
 network_extracted: true
 entry_created: '2025-12-05T06:10:18.011282'
 last_updated: '2025-12-23T08:16:04.377654'
@@ -75,9 +77,11 @@ disambiguation: US blues/folk multi-instrumentalist
 gender: Male
 musicbrainz_id: 222267be-6b06-48a9-86dd-15d4b6490788
 tags:
-- country blues
-- country soul
-- spirituals
+  - country blues
+  - country soul
+  - spirituals
+is_active: false
+origin: 'Ocilla/Fitzgerald, Georgia, United States'
 ---
 
 ![](abner_jay.jpg)

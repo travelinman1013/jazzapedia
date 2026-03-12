@@ -1,17 +1,17 @@
 ---
-title: tony joe white & JJ cale
+title: Tony Joe White & JJ Cale
 wiki_slug: tony-joe-white-jj-cale
 schema_version: 2
 status: active
-birth_place: Oak Grove, Louisiana, United States
+birth_place: 'Oak Grove, Louisiana, United States'
 genres:
-- blues
-- blues rock
+  - blues
+  - blues rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/tony_joe_white_and_JJ_cale.jpg
   caption: tony joe white & JJ cale
   background: solo_singer
-  origin: Oak Grove, Louisiana, United States
+  origin: 'Oak Grove, Louisiana, United States'
 audio_profile:
   tempo_avg: 115.1
   energy_avg: 0.446
@@ -27,50 +27,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tina Turner
-  - Jerry Lee Lewis
-  - Mark Knopfler
-  - Joe Cocker, Eric Clapton
+    - Tina Turner
+    - Jerry Lee Lewis
+    - Mark Knopfler
+    - 'Joe Cocker, Eric Clapton'
   influenced:
-  - Elvis Presley
-  - Brook Benton
-  - Tina Turner
-  - Tom Jones
+    - Elvis Presley
+    - Brook Benton
+    - Tina Turner
+    - Tom Jones
   mentors:
-  - Lightnin' Hopkins
+    - Lightnin' Hopkins
 spotify_data:
   followers: 154557
   id: 6QvgWa4x3Ij4tvBpFMo11P
   popularity: 52
-  url: https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P
+  url: 'https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P'
 discography_enriched: true
 top_tracks:
-- You're Gonna Look Good in Blues (Closer to the Truth)
-- Ain't Going Down This Time (Closer to the Truth)
-- Polk Salad Annie (Black & White)
-- Closer to the Truth (Closer to the Truth)
-- Keep Going (Dust My Broom)
-- Tunica Motel (Closer to the Truth)
-- Steamy Windows (Closer to the Truth)
-- Who You Gonna Hoodoo Now? (Hoodoo)
-- The Guitar Don't Lie (Lake Placid Blues)
-- Lake Placid Blues (Lake Placid Blues)
+  - You're Gonna Look Good in Blues (Closer to the Truth)
+  - Ain't Going Down This Time (Closer to the Truth)
+  - Polk Salad Annie (Black & White)
+  - Closer to the Truth (Closer to the Truth)
+  - Keep Going (Dust My Broom)
+  - Tunica Motel (Closer to the Truth)
+  - Steamy Windows (Closer to the Truth)
+  - Who You Gonna Hoodoo Now? (Hoodoo)
+  - The Guitar Don't Lie (Lake Placid Blues)
+  - Lake Placid Blues (Lake Placid Blues)
 external_urls:
-  spotify: https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P
-  wikipedia: https://en.wikipedia.org/wiki/Tony_Joe_White
+  spotify: 'https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tony_Joe_White'
 image_path: 03_Resources/source_material/ArtistPortraits/tony_joe_white_and_JJ_cale.jpg
 biography_enhanced_at: '2025-10-19T10:53:20.870334'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Tony_Joe_White
-- https://blues.gr/profiles/blogs/q-a-with-tony-joe-white-the-sound-is-heavily-influenced-by-the
-- https://www.last.fm/music/Tony+Joe+White/+wiki
-- https://www.classicrockmusicwriter.com/2014/01/
-- https://www.elsewhere.co.nz/absoluteelsewhere/6410/jj-cale-remembered-2014-old-slowhands-together/
+  - 'https://en.wikipedia.org/wiki/Tony_Joe_White'
+  - >-
+    https://blues.gr/profiles/blogs/q-a-with-tony-joe-white-the-sound-is-heavily-influenced-by-the
+  - 'https://www.last.fm/music/Tony+Joe+White/+wiki'
+  - 'https://www.classicrockmusicwriter.com/2014/01/'
+  - >-
+    https://www.elsewhere.co.nz/absoluteelsewhere/6410/jj-cale-remembered-2014-old-slowhands-together/
 network_extracted: true
 entry_created: '2025-10-19T10:53:20.870350'
 last_updated: '2025-12-23T08:16:17.621283'
+birth_date: '1943-07-23'
+death_date: '2018-10-24'
+artist_type: person
 ---
 
 ![](tony_joe_white_and_JJ_cale.jpg)

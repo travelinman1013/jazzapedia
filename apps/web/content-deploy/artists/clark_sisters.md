@@ -4,7 +4,7 @@ wiki_slug: clark-sisters
 schema_version: 2
 status: active
 genres:
-- gospel
+  - gospel
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/clark_sisters.jpg
   caption: Clark Sisters
@@ -24,47 +24,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Twinkie Clark
-  - Dr. Mattie Moss Clark
+    - Twinkie Clark
+    - Dr. Mattie Moss Clark
   influenced:
-  - Contemporary gospel artists
+    - Contemporary gospel artists
   mentors:
-  - Dr. Mattie Moss Clark
-  - Aretha Franklin
+    - Dr. Mattie Moss Clark
+    - Aretha Franklin
 spotify_data:
   followers: 304814
   id: 6VUdDU44uo3KwSHc9lAEFE
   popularity: 45
-  url: https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE
+  url: 'https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE'
 discography_enriched: true
 top_tracks:
-- 'Blessed & Highly Favored - Live (Live: One Last Time)'
-- 'Livin'' - Live (Live: One Last Time)'
-- 'You Brought The Sunshine - Live (Live: One Last Time)'
-- Victory (The Return)
-- Jesus Is A Love Song (Finally Karen)
-- His Love (The Return)
-- You Brought The Sunshine (You Brought The Sunshine / Unworthy)
-- Jesus Is A Love Song - Live
-- 'Name It Claim It - Live (Live: One Last Time)'
-- 'Medley: Is My Living In Vain? / You Brought The Sunshine / Hallelujah (Bringing It Back Home)'
+  - 'Blessed & Highly Favored - Live (Live: One Last Time)'
+  - 'Livin'' - Live (Live: One Last Time)'
+  - 'You Brought The Sunshine - Live (Live: One Last Time)'
+  - Victory (The Return)
+  - Jesus Is A Love Song (Finally Karen)
+  - His Love (The Return)
+  - You Brought The Sunshine (You Brought The Sunshine / Unworthy)
+  - Jesus Is A Love Song - Live
+  - 'Name It Claim It - Live (Live: One Last Time)'
+  - >-
+    Medley: Is My Living In Vain? / You Brought The Sunshine / Hallelujah
+    (Bringing It Back Home)
 external_urls:
-  spotify: https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE
-  wikipedia: https://en.wikipedia.org/wiki/The_Clark_Sisters
+  spotify: 'https://open.spotify.com/artist/6VUdDU44uo3KwSHc9lAEFE'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Clark_Sisters'
 image_path: 03_Resources/source_material/ArtistPortraits/clark_sisters.jpg
 biography_enhanced_at: '2025-12-14T01:53:16.479725'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Clark_Sisters
-- https://ism.yale.edu/posts/2023-04-19-the-clark-sisters
-- https://theclarksisters.net
-- https://blackpast.org/african-american-history/the-clark-sisters-1966/
-- https://www.essence.com/videos/feature-entertainment-clark-sisters-facts/
+  - 'https://en.wikipedia.org/wiki/The_Clark_Sisters'
+  - 'https://ism.yale.edu/posts/2023-04-19-the-clark-sisters'
+  - 'https://theclarksisters.net'
+  - 'https://blackpast.org/african-american-history/the-clark-sisters-1966/'
+  - 'https://www.essence.com/videos/feature-entertainment-clark-sisters-facts/'
 network_extracted: true
 entry_created: '2025-12-14T01:53:16.479739'
 last_updated: '2025-12-23T08:16:07.047020'
-origin: Detroit, Michigan, USA
+origin: 'Detroit, Michigan, USA'
+artist_type: band
 ---
 
 ![](clark_sisters.jpg)

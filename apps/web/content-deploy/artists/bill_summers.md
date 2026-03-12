@@ -1,52 +1,56 @@
 ---
 biography_enhanced_at: '2026-01-03T01:40:15.692867'
-birth_place: Detroit, Michigan, United States (birthplace); New Orleans, Louisiana,
-  United States (current base)
+birth_place: >-
+  Detroit, Michigan, United States (birthplace); New Orleans, Louisiana, United
+  States (current base)
 enhancement_provider: perplexity
 entry_created: '2026-01-03T01:40:15.692882'
 external_urls:
-  spotify: https://open.spotify.com/artist/4jfExfOYzFuC4YkwHFSgiG
-  wikipedia: https://en.wikipedia.org/wiki/Bill_Summers_(musician)
+  spotify: 'https://open.spotify.com/artist/4jfExfOYzFuC4YkwHFSgiG'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bill_Summers_(musician)'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/bill_summers.jpg
 last_updated: '2026-01-03T01:40:15.692883'
 musical_connections:
   collaborators:
-  - Herbie Hancock
-  - The Headhunters
-  - Quincy Jones
-  - Irvin Mayfield
-  - Jason Marsalis
-  - Mike Clark
-  - Sonny Rollins
-  - David "Fathead" Newman
-  - Yvette Bostic-Summers
+    - Herbie Hancock
+    - The Headhunters
+    - Quincy Jones
+    - Irvin Mayfield
+    - Jason Marsalis
+    - Mike Clark
+    - Sonny Rollins
+    - David "Fathead" Newman
+    - Yvette Bostic-Summers
   influenced:
-  - Kim Provost and Bill Solley
-  - Students of Summers Multi-Ethnic Institute of Art
+    - Kim Provost and Bill Solley
+    - Students of Summers Multi-Ethnic Institute of Art
   mentors:
-  - Detroit Conservatory of Music
-  - Michigan Conservatory of Music
-  - University of California, Berkeley
+    - Detroit Conservatory of Music
+    - Michigan Conservatory of Music
+    - 'University of California, Berkeley'
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- Wikipedia - Bill Summers (musician)
-- African American Registry - Bill Summers, Global Percussionist born
-- All About Jazz - Bill Summers Musician
-- A Studio in the Woods - Bill Summers
-- Playing For Change - Bill Summers
-- 'WUNC - Bill Summers: A Percussionist in His Own Words'
-- New Orleans.com - Bill Summers & The Headhunters
-- WWOZ New Orleans 90.7 FM - Bill Summers
-- Passion Weiss - An Interview With Bill Summers of The Headhunters
+  - Wikipedia - Bill Summers (musician)
+  - 'African American Registry - Bill Summers, Global Percussionist born'
+  - All About Jazz - Bill Summers Musician
+  - A Studio in the Woods - Bill Summers
+  - Playing For Change - Bill Summers
+  - 'WUNC - Bill Summers: A Percussionist in His Own Words'
+  - New Orleans.com - Bill Summers & The Headhunters
+  - WWOZ New Orleans 90.7 FM - Bill Summers
+  - Passion Weiss - An Interview With Bill Summers of The Headhunters
 spotify_data:
   followers: 2980
   id: 4jfExfOYzFuC4YkwHFSgiG
   popularity: 24
-  url: https://open.spotify.com/artist/4jfExfOYzFuC4YkwHFSgiG
+  url: 'https://open.spotify.com/artist/4jfExfOYzFuC4YkwHFSgiG'
 status: active
 title: Bill Summers
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1948-06-27'
+artist_type: person
 ---
 
 ![](bill_summers.jpg)

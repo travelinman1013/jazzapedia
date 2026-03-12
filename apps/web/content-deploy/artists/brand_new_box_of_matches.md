@@ -4,34 +4,34 @@ biography_enhanced_at: '2026-01-12T01:55:32.747676'
 enhancement_provider: perplexity
 entry_created: '2026-01-12T01:55:32.747681'
 external_urls:
-  spotify: https://open.spotify.com/artist/4aaqXj6WTU2uc6udFIoTZv
+  spotify: 'https://open.spotify.com/artist/4aaqXj6WTU2uc6udFIoTZv'
   wikipedia: ''
 genres:
-- bluegrass
+  - bluegrass
 image_path: 03_Resources/source_material/ArtistPortraits/brand_new_box_of_matches.jpg
 is_active: true
 last_updated: '2026-01-12T01:55:32.747682'
 musical_connections:
   collaborators:
-  - Ryan Hardison
-  - Elizabeth Sherman
+    - Ryan Hardison
+    - Elizabeth Sherman
   influenced: []
   mentors: []
 network_extracted: true
-origin: Knoxville, Tennessee, United States
+origin: 'Knoxville, Tennessee, United States'
 primary_source: perplexity
 research_sources:
-- https://www.brandnewboxofmatches.com
-- https://bluegrasstoday.com/tossing-turning-from-brand-new-box-of-matches/
-- https://bluegrasstoday.com/tag/brand-new-box-of-matches/
-- https://www.youtube.com/watch?v=Za22me3ebAA
+  - 'https://www.brandnewboxofmatches.com'
+  - 'https://bluegrasstoday.com/tossing-turning-from-brand-new-box-of-matches/'
+  - 'https://bluegrasstoday.com/tag/brand-new-box-of-matches/'
+  - 'https://www.youtube.com/watch?v=Za22me3ebAA'
 spotify_data:
   followers: 327
   id: 4aaqXj6WTU2uc6udFIoTZv
   popularity: 2
-  url: https://open.spotify.com/artist/4aaqXj6WTU2uc6udFIoTZv
+  url: 'https://open.spotify.com/artist/4aaqXj6WTU2uc6udFIoTZv'
 status: active
-title: BRAND NEW BOX OF MATCHES
+title: Brand New Box OF Matches
 ---
 
 ![](brand_new_box_of_matches.jpg)

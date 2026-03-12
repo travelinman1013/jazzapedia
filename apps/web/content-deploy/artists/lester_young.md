@@ -5,65 +5,65 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1909-08-27'
-birth_place: Woodville
+birth_place: 'Woodville, Mississippi, United States'
 death_date: '1959-03-15'
 genres:
-- jazz
-- cool jazz
-- bebop
+  - jazz
+  - cool jazz
+  - bebop
 instruments:
-- tenor saxophone
-- eponymous
-- spoken vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1a36874d-2373-42d4-a753-ba32599ba65d
-  name: Lester Young and His Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f44ede04-4e28-414b-9624-9b0afe29e934
-  name: Kansas City Six
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f5c743a8-99e4-405b-aae1-583aec742812
-  name: Jones‐Smith, Incorporated
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1b11c138-574c-41b5-a52c-dcf46aedddb0
-  name: Count Basie Band
-- begin: ''
-  end: ''
-  instruments:
   - tenor saxophone
-  mbid: 3313a8ad-c6be-418e-8737-a465c822d0f4
-  name: Metronome All Stars
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: eef50e55-4a13-4752-ad59-a4185c0ae62c
-  name: Lester Young Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 22dd28d4-07cf-4cea-9888-530d2f7ea8e2
-  name: Lester Young-Buddy Rich Trio
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
-  mbid: 702e0175-dec2-492b-9618-f4a2069d9f5b
-  name: Lester Young Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 08aca56f-1507-40e4-8d2c-d10d25beb900
-  name: Lester Young & Company
+  - spoken vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1a36874d-2373-42d4-a753-ba32599ba65d
+    name: Lester Young and His Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f44ede04-4e28-414b-9624-9b0afe29e934
+    name: Kansas City Six
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f5c743a8-99e4-405b-aae1-583aec742812
+    name: 'Jones‐Smith, Incorporated'
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1b11c138-574c-41b5-a52c-dcf46aedddb0
+    name: Count Basie Band
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: 3313a8ad-c6be-418e-8737-a465c822d0f4
+    name: Metronome All Stars
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: eef50e55-4a13-4752-ad59-a4185c0ae62c
+    name: Lester Young Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 22dd28d4-07cf-4cea-9888-530d2f7ea8e2
+    name: Lester Young-Buddy Rich Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 702e0175-dec2-492b-9618-f4a2069d9f5b
+    name: Lester Young Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 08aca56f-1507-40e4-8d2c-d10d25beb900
+    name: Lester Young & Company
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lester_young.jpg
   caption: Lester Young
@@ -86,49 +86,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Count Basie
-  - Billie Holiday
-  - Buck Clayton
-  - Herschel Evans
+    - Count Basie
+    - Billie Holiday
+    - Buck Clayton
+    - Herschel Evans
   influenced:
-  - Stan Getz
-  - John Coltrane
-  - Paul Desmond
-  - Dexter Gordon
+    - Stan Getz
+    - John Coltrane
+    - Paul Desmond
+    - Dexter Gordon
   mentors:
-  - Willis Handy Young
-  - Coleman Hawkins
+    - Willis Handy Young
+    - Coleman Hawkins
 spotify_data:
   followers: 164589
   id: 05E3NBxNMdnrPtxF9oraJm
   popularity: 51
-  url: https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm
+  url: 'https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm'
 discography_enriched: true
 top_tracks:
-- There Will Never Be Another You (The President Plays With The Oscar Peterson Trio)
-- I Can't Get Started (The President Plays With The Oscar Peterson Trio)
-- These Foolish Things - Remastered 1995 (The Complete Aladdin Recordings Of Lester Young)
-- Stardust (The President Plays With The Oscar Peterson Trio)
-- 'Blue Lester (Blue Lester: The Immortal Lester Young)'
-- 'These Foolish Things (Blue Lester: The Immortal Lester Young)'
-- Almost Like Being In Love (The President Plays With The Oscar Peterson Trio)
-- There Will Never Be Another You (Lester Young With The Oscar Peterson Trio)
-- I Guess I'll Have To Change My Plan (The Jazz Giants '56)
-- On The Sunny Side Of The Street (The President Plays With The Oscar Peterson Trio)
+  - >-
+    There Will Never Be Another You (The President Plays With The Oscar Peterson
+    Trio)
+  - I Can't Get Started (The President Plays With The Oscar Peterson Trio)
+  - >-
+    These Foolish Things - Remastered 1995 (The Complete Aladdin Recordings Of
+    Lester Young)
+  - Stardust (The President Plays With The Oscar Peterson Trio)
+  - 'Blue Lester (Blue Lester: The Immortal Lester Young)'
+  - 'These Foolish Things (Blue Lester: The Immortal Lester Young)'
+  - Almost Like Being In Love (The President Plays With The Oscar Peterson Trio)
+  - There Will Never Be Another You (Lester Young With The Oscar Peterson Trio)
+  - I Guess I'll Have To Change My Plan (The Jazz Giants '56)
+  - >-
+    On The Sunny Side Of The Street (The President Plays With The Oscar Peterson
+    Trio)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d613e4ae-093a-49a1-b06a-579480f7f7e8
-  spotify: https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm
-  wikipedia: https://en.wikipedia.org/wiki/Lester_Young
+  musicbrainz: 'https://musicbrainz.org/artist/d613e4ae-093a-49a1-b06a-579480f7f7e8'
+  spotify: 'https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lester_Young'
 image_path: 03_Resources/source_material/ArtistPortraits/lester_young.jpg
 biography_enhanced_at: '2025-11-03T07:32:59.666608'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Lester_Young
-- https://newyorkjazzworkshop.com/lester-young/
-- https://www.jazzattackswings.com/post/jazz-greats-lester-young
-- https://www.allaboutjazz.com/musicians/lester-young/
-- https://jazznightschool.org/pages/lester-young
+  - 'https://en.wikipedia.org/wiki/Lester_Young'
+  - 'https://newyorkjazzworkshop.com/lester-young/'
+  - 'https://www.jazzattackswings.com/post/jazz-greats-lester-young'
+  - 'https://www.allaboutjazz.com/musicians/lester-young/'
+  - 'https://jazznightschool.org/pages/lester-young'
 network_extracted: true
 entry_created: '2025-11-03T07:32:59.666614'
 last_updated: '2025-12-23T08:16:11.874679'
@@ -136,9 +142,10 @@ disambiguation: saxophonist
 gender: Male
 musicbrainz_id: d613e4ae-093a-49a1-b06a-579480f7f7e8
 tags:
-- jazz
-- swing
-
+  - jazz
+  - swing
+is_active: false
+origin: 'Kansas City, Missouri, United States'
 ---
 
 ![](lester_young.jpg)

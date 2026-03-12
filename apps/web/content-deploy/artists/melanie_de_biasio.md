@@ -5,12 +5,12 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1978-07-12'
-birth_place: Charleroi
+birth_place: 'Charleroi, Belgium'
 genres: []
 instruments:
-- acoustic guitar
-- lead vocals
-- spoken vocals
+  - acoustic guitar
+  - lead vocals
+  - spoken vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/melanie_de_biasio.jpg
   caption: Melanie De Biasio
@@ -38,22 +38,26 @@ spotify_data:
   followers: 82240
   id: 3pGgFAbmQ22e2LWjOtv5jH
   popularity: 43
-  url: https://open.spotify.com/artist/3pGgFAbmQ22e2LWjOtv5jH
+  url: 'https://open.spotify.com/artist/3pGgFAbmQ22e2LWjOtv5jH'
 discography_enriched: true
 top_tracks:
-- Your Freedom Is the End of Me (Lilies)
-- Afro Blue (Lilies)
-- Gold Junkies (Lilies)
-- Brother (Lilies)
-- 'I''m Gonna Leave You - The Cinematic Orchestra Remix (Gilles Peterson Presents : Melanie De Biasio – No Deal Remixed)'
-- Never Gonna Make It (A Stomach Is Burning)
-- I Feel You (No Deal)
-- The Flow (No Deal)
-- 'I Feel You - Eels Remix (Gilles Peterson Presents : Melanie De Biasio – No Deal Remixed)'
-- Let Me Love You (Lilies)
+  - Your Freedom Is the End of Me (Lilies)
+  - Afro Blue (Lilies)
+  - Gold Junkies (Lilies)
+  - Brother (Lilies)
+  - >-
+    I'm Gonna Leave You - The Cinematic Orchestra Remix (Gilles Peterson
+    Presents : Melanie De Biasio – No Deal Remixed)
+  - Never Gonna Make It (A Stomach Is Burning)
+  - I Feel You (No Deal)
+  - The Flow (No Deal)
+  - >-
+    I Feel You - Eels Remix (Gilles Peterson Presents : Melanie De Biasio – No
+    Deal Remixed)
+  - Let Me Love You (Lilies)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/287948f0-d785-4d10-81c2-69a8b6a83a2b
-  spotify: https://open.spotify.com/artist/3pGgFAbmQ22e2LWjOtv5jH
+  musicbrainz: 'https://musicbrainz.org/artist/287948f0-d785-4d10-81c2-69a8b6a83a2b'
+  spotify: 'https://open.spotify.com/artist/3pGgFAbmQ22e2LWjOtv5jH'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/melanie_de_biasio.jpg
 biography_enhanced_at: '2025-12-05T06:01:32.781089'
@@ -67,9 +71,9 @@ disambiguation: Belgian jazz singer
 gender: Female
 musicbrainz_id: 287948f0-d785-4d10-81c2-69a8b6a83a2b
 tags:
-- ambient pop
-- jazz
-- post-rock
+  - ambient pop
+  - jazz
+  - post-rock
 ---
 
 ![](melanie_de_biasio.jpg)

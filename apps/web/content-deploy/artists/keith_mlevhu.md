@@ -5,16 +5,16 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1950-09-14'
-birth_place: Chingola, Copperbelt Province, Zambia
+birth_place: 'Chingola, Copperbelt Province, Zambia'
 death_date: '1988-03-05'
 genres:
-- psychedelic rock
+  - psychedelic rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/keith_mlevhu.jpg
   caption: Keith Mlevhu
   background: solo_singer
   born: '1950-09-14'
-  origin: Chingola, Copperbelt Province, Zambia
+  origin: 'Chingola, Copperbelt Province, Zambia'
   died: '1988-03-05'
 audio_profile:
   tempo_avg: 141.2
@@ -31,44 +31,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Rave Five
+    - Rave Five
   influenced:
-  - Later Zamrock revival listeners and contemporary psych/garage musicians
+    - Later Zamrock revival listeners and contemporary psych/garage musicians
   mentors:
-  - Jimi Hendrix
-  - James Brown
-  - Cream / Black Sabbath / Deep Purple (Western rock bands)
+    - Jimi Hendrix
+    - James Brown
+    - Cream / Black Sabbath / Deep Purple (Western rock bands)
 spotify_data:
   followers: 1746
   id: 3f323EinOxDYjs9MEOCf1v
   popularity: 14
-  url: https://open.spotify.com/artist/3f323EinOxDYjs9MEOCf1v
+  url: 'https://open.spotify.com/artist/3f323EinOxDYjs9MEOCf1v'
 discography_enriched: true
 top_tracks:
-- Love And Freedom (Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol. 2 (1972-1977))
-- Dzikolino Ni Zambia (Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol. 1 (1972-1977))
-- The Bad Will Die (Can't You Hear Me?)
+  - >-
+    Love And Freedom (Welcome To Zamrock! How Zambia's Liberation Led To a Rock
+    Revolution, Vol. 2 (1972-1977))
+  - >-
+    Dzikolino Ni Zambia (Welcome To Zamrock! How Zambia's Liberation Led To a
+    Rock Revolution, Vol. 1 (1972-1977))
+  - The Bad Will Die (Can't You Hear Me?)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ef7963cb-c51e-462d-8eb9-5be126a734b5
-  spotify: https://open.spotify.com/artist/3f323EinOxDYjs9MEOCf1v
+  musicbrainz: 'https://musicbrainz.org/artist/ef7963cb-c51e-462d-8eb9-5be126a734b5'
+  spotify: 'https://open.spotify.com/artist/3f323EinOxDYjs9MEOCf1v'
   wikipedia: ''
 image_path: ''
 biography_enhanced_at: '2025-12-08T04:49:01.259705'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://zamrockorg.blogspot.com/2019/02/keith-mlevhu-bad-will-die.html
-- http://rocknrollperolas.blogspot.com/2014/07/zam-rock-keith-mlevhu-love-and-freedom.html
-- https://www.okayafrica.com/zamrock-the-best-1970s-zambian-psychedelic-rock-tracks/239965
-- https://composemd.com/2021/05/30/zamrock-your-guide-to-the-awesomeness/
-- https://www.openculture.com/2020/08/zamrock-an-introduction-to-zambias-1970s-rich-psychedelic-rock-scene.html
-- https://www.nationsvoice.co/post/zamrock
-- https://wknc.org/2024/04/19/a-short-dive-into-the-history-of-zamrock/
+  - 'https://zamrockorg.blogspot.com/2019/02/keith-mlevhu-bad-will-die.html'
+  - >-
+    http://rocknrollperolas.blogspot.com/2014/07/zam-rock-keith-mlevhu-love-and-freedom.html
+  - >-
+    https://www.okayafrica.com/zamrock-the-best-1970s-zambian-psychedelic-rock-tracks/239965
+  - 'https://composemd.com/2021/05/30/zamrock-your-guide-to-the-awesomeness/'
+  - >-
+    https://www.openculture.com/2020/08/zamrock-an-introduction-to-zambias-1970s-rich-psychedelic-rock-scene.html
+  - 'https://www.nationsvoice.co/post/zamrock'
+  - 'https://wknc.org/2024/04/19/a-short-dive-into-the-history-of-zamrock/'
 network_extracted: true
 entry_created: '2025-12-08T04:49:01.259721'
 last_updated: '2025-12-23T08:16:11.249879'
 gender: Male
 musicbrainz_id: ef7963cb-c51e-462d-8eb9-5be126a734b5
+is_active: false
 ---
 
 ![]()

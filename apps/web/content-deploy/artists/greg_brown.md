@@ -1,20 +1,20 @@
 ---
-title: greg brown
+title: Greg Brown
 wiki_slug: greg-brown
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1949-07-02'
-birth_place: Fairfield
+birth_place: 'Fairfield, Iowa, United States'
 genres:
-- americana
-- folk
-- alt country
+  - americana
+  - folk
+  - alt country
 instruments:
-- guitar
-- acoustic guitar
-- lead vocals
-- background vocals
+  - guitar
+  - acoustic guitar
+  - lead vocals
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/greg_brown.jpg
   caption: greg brown
@@ -36,49 +36,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bo Ramsey
-  - Bob Feldman
-  - Garrison Keillor
+    - Bo Ramsey
+    - Bob Feldman
+    - Garrison Keillor
   influenced:
-  - Shawn Colvin
-  - Mary Chapin Carpenter
-  - Red House Records artists
+    - Shawn Colvin
+    - Mary Chapin Carpenter
+    - Red House Records artists
   mentors:
-  - Eric Andersen
-  - Buck Ram
+    - Eric Andersen
+    - Buck Ram
 spotify_data:
   followers: 41009
   id: 0nnDCl6emTFoWtygqSs4Jy
   popularity: 34
-  url: https://open.spotify.com/artist/0nnDCl6emTFoWtygqSs4Jy
+  url: 'https://open.spotify.com/artist/0nnDCl6emTFoWtygqSs4Jy'
 discography_enriched: true
 top_tracks:
-- Spring Wind (If I Had Known - Essential Recordings 1980-1996)
-- Blue Car (Covenant)
-- Why We Build the Wall (Hadestown)
-- Dream Café (Dream Café)
-- Hey, Little Songbird (Hadestown)
-- Freak Flag (Freak Flag)
-- '''Cept You & Me Babe (Covenant)'
-- Laughing River (If I Had Known - Essential Recordings 1980-1996)
-- Two Little Feet (If I Had Known - Essential Recordings 1980-1996)
-- How Long? (Hadestown)
+  - Spring Wind (If I Had Known - Essential Recordings 1980-1996)
+  - Blue Car (Covenant)
+  - Why We Build the Wall (Hadestown)
+  - Dream Café (Dream Café)
+  - 'Hey, Little Songbird (Hadestown)'
+  - Freak Flag (Freak Flag)
+  - '''Cept You & Me Babe (Covenant)'
+  - Laughing River (If I Had Known - Essential Recordings 1980-1996)
+  - Two Little Feet (If I Had Known - Essential Recordings 1980-1996)
+  - How Long? (Hadestown)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8d5521d6-473d-4da0-b68d-553d4188619d
-  spotify: https://open.spotify.com/artist/0nnDCl6emTFoWtygqSs4Jy
-  wikipedia: https://en.wikipedia.org/wiki/Greg_Brown_(folk_musician)
+  musicbrainz: 'https://musicbrainz.org/artist/8d5521d6-473d-4da0-b68d-553d4188619d'
+  spotify: 'https://open.spotify.com/artist/0nnDCl6emTFoWtygqSs4Jy'
+  wikipedia: 'https://en.wikipedia.org/wiki/Greg_Brown_(folk_musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/greg_brown.jpg
 biography_enhanced_at: '2025-11-08T22:03:44.371186'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://littlevillagemag.com/greg-brown-retirement/
-- http://www.gregbrown.org/gbbio.html
-- https://nodepression.org/the-reading-room-greg-brown-on-the-power-of-care-the-intimacy-of-art-and-his-new-songbook/
-- https://www.thecurrent.org/feature/2024/06/30/greg-brown-talks-about-his-retrospective-ring-around-the-moon-a-songbook
-- https://briandambrosio.substack.com/p/greg-browns-self-explanatory-life
-- https://www.pitchforksocial.com/greg-brown
-- https://thebluegrasssituation.com/read/archiving-the-heart-greg-brown-on-music-family-and-throwing-out-old-notebooks/
+  - 'https://littlevillagemag.com/greg-brown-retirement/'
+  - 'http://www.gregbrown.org/gbbio.html'
+  - >-
+    https://nodepression.org/the-reading-room-greg-brown-on-the-power-of-care-the-intimacy-of-art-and-his-new-songbook/
+  - >-
+    https://www.thecurrent.org/feature/2024/06/30/greg-brown-talks-about-his-retrospective-ring-around-the-moon-a-songbook
+  - 'https://briandambrosio.substack.com/p/greg-browns-self-explanatory-life'
+  - 'https://www.pitchforksocial.com/greg-brown'
+  - >-
+    https://thebluegrasssituation.com/read/archiving-the-heart-greg-brown-on-music-family-and-throwing-out-old-notebooks/
 network_extracted: true
 entry_created: '2025-11-08T22:03:44.371200'
 last_updated: '2025-12-23T08:16:09.326687'
@@ -86,7 +89,7 @@ disambiguation: American folk singer
 gender: Male
 musicbrainz_id: 8d5521d6-473d-4da0-b68d-553d4188619d
 tags:
-- folk
+  - folk
 ---
 
 ![](greg_brown.jpg)

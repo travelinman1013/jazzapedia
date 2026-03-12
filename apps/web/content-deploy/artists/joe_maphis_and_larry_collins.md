@@ -5,23 +5,23 @@ schema_version: 2
 status: deceased
 birth_name: Lawrence Albert Collins
 also_known_as:
-- Larry Collins
+  - Larry Collins
 aliases:
-- Larry Collins
-birth_date: '1944-10-04'
-birth_place: Tulsa
+  - Larry Collins
+birth_date: '1921-05-12'
+birth_place: 'Suffolk, Virginia, United States'
 death_date: '2024-01-05'
 years_active: 1954–2024
 genres:
-- bluegrass
-- rockabilly
-- traditional country
+  - bluegrass
+  - rockabilly
+  - traditional country
 instruments:
-- Guitar
+  - Guitar
 occupation:
-- songwriter
-- guitarist
-- television actor
+  - songwriter
+  - guitarist
+  - television actor
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Joe_Maphis.jpg
   caption: Joe Maphis
@@ -31,7 +31,7 @@ infobox:
   origin: Tulsa
   died: '2024-01-05'
 audio_profile:
-  tempo_avg: 133.0
+  tempo_avg: 133
   energy_avg: 0.624
   valence_avg: 0.822
   danceability_avg: 0.554
@@ -45,55 +45,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lorrie Collins
-  - Joe Maphis
-  - Rose Lee Maphis
+    - Lorrie Collins
+    - Joe Maphis
+    - Rose Lee Maphis
   influenced:
-  - Dick Dale
-  - Don Rich
-  - James Burton
+    - Dick Dale
+    - Don Rich
+    - James Burton
   mentors:
-  - Joe Maphis
-  - Leon McAuliffe
+    - Joe Maphis
+    - Leon McAuliffe
 related_artists: []
 spotify_data:
   followers: 3816
   id: 78jG8Y0sek0gP9WpBuludG
   popularity: 27
-  url: https://open.spotify.com/artist/78jG8Y0sek0gP9WpBuludG
+  url: 'https://open.spotify.com/artist/78jG8Y0sek0gP9WpBuludG'
   verified: false
 discography_enriched: true
 albums_count: 11
 singles_count: 5
 top_tracks:
-- Foggy Mountain Breakdown
-- Memories of Maybelle
-- Life's Railway to Heaven
-- Maple on the Hill
-- Night Train to Memphis
-- Devil's Dream
-- Me and Ol' Merle
-- Nine Pound Hammer
-- Joe Maphis' Blues
-- Lonesome Road Blues
+  - Foggy Mountain Breakdown
+  - Memories of Maybelle
+  - Life's Railway to Heaven
+  - Maple on the Hill
+  - Night Train to Memphis
+  - Devil's Dream
+  - Me and Ol' Merle
+  - Nine Pound Hammer
+  - Joe Maphis' Blues
+  - Lonesome Road Blues
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/78jG8Y0sek0gP9WpBuludG
-  wikipedia: https://en.wikipedia.org/wiki/Larry_Collins_(guitarist)
+  spotify: 'https://open.spotify.com/artist/78jG8Y0sek0gP9WpBuludG'
+  wikipedia: 'https://en.wikipedia.org/wiki/Larry_Collins_(guitarist)'
 image_path: 03_Resources/source_material/ArtistPortraits/Joe_Maphis.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:29:59.739601'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Larry_Collins_(guitarist)
-- https://dekedickerson.com/musings/rip-larry-collins/
-- https://www.bear-family.com/maphis-joe/
-- https://www.vintageguitar.com/68200/larry-collins/
+  - 'https://en.wikipedia.org/wiki/Larry_Collins_(guitarist)'
+  - 'https://dekedickerson.com/musings/rip-larry-collins/'
+  - 'https://www.bear-family.com/maphis-joe/'
+  - 'https://www.vintageguitar.com/68200/larry-collins/'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 11:52:02.859583
+entry_created: 2025-09-18T11:52:02.859Z
 last_updated: '2025-12-23T08:16:10.632347'
+is_active: false
+artist_type: person
+origin: 'Tulsa, Oklahoma, United States'
 ---
 
 ![](Joe_Maphis.jpg)

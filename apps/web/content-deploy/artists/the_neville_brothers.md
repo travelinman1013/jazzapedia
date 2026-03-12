@@ -2,15 +2,15 @@
 title: The Neville Brothers
 wiki_slug: the-neville-brothers
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 birth_date: '1977'
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 instruments:
-- eponymous
-- original
+  - eponymous
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_neville_brothers.jpg
   caption: The Neville Brothers
@@ -31,93 +31,94 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Meters
-  - Allen Toussaint
-  - Daniel Lanois
-  - Grateful Dead
-  - Joseph 'Zigaboo' Modeliste
-  - George Porter Jr.
-  - Leo Nocentelli
+    - The Meters
+    - Allen Toussaint
+    - Daniel Lanois
+    - Grateful Dead
+    - Joseph 'Zigaboo' Modeliste
+    - George Porter Jr.
+    - Leo Nocentelli
   influenced: []
   mentors:
-  - George 'Big Chief Jolly' Landry
-  - Professor Longhair
-  - Fats Domino
-  - Smiley Lewis
+    - George 'Big Chief Jolly' Landry
+    - Professor Longhair
+    - Fats Domino
+    - Smiley Lewis
 spotify_data:
   followers: 81125
   id: 3d1olqhURDe8e5HOta1Qxg
   popularity: 40
-  url: https://open.spotify.com/artist/3d1olqhURDe8e5HOta1Qxg
+  url: 'https://open.spotify.com/artist/3d1olqhURDe8e5HOta1Qxg'
 discography_enriched: true
 top_tracks:
-- Yellow Moon (Yellow Moon)
-- Voodoo (Yellow Moon)
-- Bird On A Wire (Brother's Keeper)
-- A Change Is Gonna Come (Yellow Moon)
-- Brother John / Iko Iko (Fiyo On The Bayou)
-- Hey Pocky Way (Fiyo On The Bayou)
-- Mona Lisa (feat. The Neville Brothers) (Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All
-  Stars))
-- With God On Our Side (Yellow Moon)
-- Bird On A Wire (Brother's Keeper)
-- Drift Away (Uptown)
+  - Yellow Moon (Yellow Moon)
+  - Voodoo (Yellow Moon)
+  - Bird On A Wire (Brother's Keeper)
+  - A Change Is Gonna Come (Yellow Moon)
+  - Brother John / Iko Iko (Fiyo On The Bayou)
+  - Hey Pocky Way (Fiyo On The Bayou)
+  - >-
+    Mona Lisa (feat. The Neville Brothers) (Wyclef Jean presents The Carnival
+    featuring Refugee Allstars (feat. Refugee All Stars))
+  - With God On Our Side (Yellow Moon)
+  - Bird On A Wire (Brother's Keeper)
+  - Drift Away (Uptown)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5464e20c-7dcb-4a3e-9b25-13bb959fadc9
-  spotify: https://open.spotify.com/artist/3d1olqhURDe8e5HOta1Qxg
-  wikipedia: https://en.wikipedia.org/wiki/The_Neville_Brothers
+  musicbrainz: 'https://musicbrainz.org/artist/5464e20c-7dcb-4a3e-9b25-13bb959fadc9'
+  spotify: 'https://open.spotify.com/artist/3d1olqhURDe8e5HOta1Qxg'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Neville_Brothers'
 image_path: 03_Resources/source_material/ArtistPortraits/the_neville_brothers.jpg
 biography_enhanced_at: '2025-10-28T08:54:13.013836'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Neville_Brothers
-- https://64parishes.org/entry/neville-brothers
-- https://musicrising.tulane.edu/discover/people/the-neville-brothers/
-- https://www.laphil.com/musicdb/artists/3865/neville-brothers
+  - 'https://en.wikipedia.org/wiki/The_Neville_Brothers'
+  - 'https://64parishes.org/entry/neville-brothers'
+  - 'https://musicrising.tulane.edu/discover/people/the-neville-brothers/'
+  - 'https://www.laphil.com/musicdb/artists/3865/neville-brothers'
 network_extracted: true
 entry_created: '2025-10-28T08:54:13.013846'
 last_updated: '2025-12-23T08:16:17.011103'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 2f53411b-ec29-4979-aa46-62786a2bb377
-  name: Aaron Neville
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: f03e25f3-c8e5-42db-b2c3-8cbc0bf878fd
-  name: Art Neville
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 81cbff49-2e4b-44be-a93e-e34ba329914a
-  name: Charles Neville
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 0248dd95-6c4f-45dd-8a76-a6e00d41078e
-  name: Cyril Neville
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 5ddbb875-2458-403f-9f7e-1d472d2f8c4b
-  name: Ivan Neville
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 2f53411b-ec29-4979-aa46-62786a2bb377
+    name: Aaron Neville
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: f03e25f3-c8e5-42db-b2c3-8cbc0bf878fd
+    name: Art Neville
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 81cbff49-2e4b-44be-a93e-e34ba329914a
+    name: Charles Neville
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 0248dd95-6c4f-45dd-8a76-a6e00d41078e
+    name: Cyril Neville
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 5ddbb875-2458-403f-9f7e-1d472d2f8c4b
+    name: Ivan Neville
 musicbrainz_id: 5464e20c-7dcb-4a3e-9b25-13bb959fadc9
-origin: New Orleans
+origin: 'New Orleans, Louisiana, United States'
 tags:
-- 2008 universal fire victim
+  - 2008 universal fire victim
 ---
 
 ![](the_neville_brothers.jpg)

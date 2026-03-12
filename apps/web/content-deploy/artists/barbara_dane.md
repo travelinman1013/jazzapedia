@@ -3,14 +3,14 @@ title: Barbara Dane
 wiki_slug: barbara-dane
 schema_version: 2
 status: active
-birth_place: Detroit, Michigan, United States
+birth_place: 'Detroit, Michigan, United States'
 genres:
-- folk
+  - folk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/barbara_dane.jpg
   caption: Barbara Dane
   background: solo_singer
-  origin: Detroit, Michigan, United States
+  origin: 'Detroit, Michigan, United States'
 audio_profile:
   tempo_avg: 116.8
   energy_avg: 0.222
@@ -26,57 +26,65 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Louis Armstrong
-  - Memphis Slim
-  - Muddy Waters
-  - Willie Dixon
-  - The Chambers Brothers
-  - Pete Seeger
-  - Irwin Silber
-  - Byron Menendez
-  - Bob Dylan
+    - Louis Armstrong
+    - Memphis Slim
+    - Muddy Waters
+    - Willie Dixon
+    - The Chambers Brothers
+    - Pete Seeger
+    - Irwin Silber
+    - Byron Menendez
+    - Bob Dylan
   influenced:
-  - International protest and liberation musicians documented on Paredon Records
+    - >-
+      International protest and liberation musicians documented on Paredon
+      Records
   mentors:
-  - Bessie Smith
-  - Ma Rainey
+    - Bessie Smith
+    - Ma Rainey
 spotify_data:
   followers: 16835
   id: 7htyUKqAPLpbTA9nkEhGRf
   popularity: 41
-  url: https://open.spotify.com/artist/7htyUKqAPLpbTA9nkEhGRf
+  url: 'https://open.spotify.com/artist/7htyUKqAPLpbTA9nkEhGRf'
 discography_enriched: true
 top_tracks:
-- Nine Hundred Miles (When I Was A Young Girl)
-- Nine Hundred Miles (Anthology of American Folk Songs)
-- I Hate the Capitalist System (I Hate the Capitalist System)
-- I'm on My Way (I'm on My Way)
-- I'm On My Way (On My Way)
-- Ramblin' (Anthology of American Folk Songs)
-- Ramblin' (When I Was A Young Girl)
-- Little Maggie (Anthology of American Folk Songs)
-- It Isn't Nice (Hot Jazz, Cool Blues & Hard-Hitting Songs)
-- I Don't Want Your Millions, Mister (I Hate the Capitalist System)
+  - Nine Hundred Miles (When I Was A Young Girl)
+  - Nine Hundred Miles (Anthology of American Folk Songs)
+  - I Hate the Capitalist System (I Hate the Capitalist System)
+  - I'm on My Way (I'm on My Way)
+  - I'm On My Way (On My Way)
+  - Ramblin' (Anthology of American Folk Songs)
+  - Ramblin' (When I Was A Young Girl)
+  - Little Maggie (Anthology of American Folk Songs)
+  - 'It Isn''t Nice (Hot Jazz, Cool Blues & Hard-Hitting Songs)'
+  - 'I Don''t Want Your Millions, Mister (I Hate the Capitalist System)'
 external_urls:
-  spotify: https://open.spotify.com/artist/7htyUKqAPLpbTA9nkEhGRf
-  wikipedia: https://en.wikipedia.org/wiki/Barbara_Dane
+  spotify: 'https://open.spotify.com/artist/7htyUKqAPLpbTA9nkEhGRf'
+  wikipedia: 'https://en.wikipedia.org/wiki/Barbara_Dane'
 image_path: 03_Resources/source_material/ArtistPortraits/barbara_dane.jpg
 biography_enhanced_at: '2025-12-15T01:19:11.796927'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Barbara_Dane
-- https://www.barbaradane.net/biography
-- https://folkways.si.edu/news-and-press/remembering-barbara-dane-1927-2024
-- https://www.kqed.org/arts/13966880/barbara-dane-musician-revolutionary-causes-dies-at-97
-- https://againstthecurrent.org/atc235/remembering-barbara-dane/
-- https://magpiesmagazine.com/2024/12/13/socialist-singer-barbara-dane-was-a-true-american-radical/
-- https://peoplesworld.org/article/barbara-danes-autobiography-a-testament-to-a-life-of-struggle-and-song/
-- https://findingaids.loc.gov/db/search/xq/searchMfer02.xq?_id=loc.afc.eadafc.af021002&_faSection=overview&_faSubsection=bioghist&_dmdid=d41203e14
+  - 'https://en.wikipedia.org/wiki/Barbara_Dane'
+  - 'https://www.barbaradane.net/biography'
+  - 'https://folkways.si.edu/news-and-press/remembering-barbara-dane-1927-2024'
+  - >-
+    https://www.kqed.org/arts/13966880/barbara-dane-musician-revolutionary-causes-dies-at-97
+  - 'https://againstthecurrent.org/atc235/remembering-barbara-dane/'
+  - >-
+    https://magpiesmagazine.com/2024/12/13/socialist-singer-barbara-dane-was-a-true-american-radical/
+  - >-
+    https://peoplesworld.org/article/barbara-danes-autobiography-a-testament-to-a-life-of-struggle-and-song/
+  - >-
+    https://findingaids.loc.gov/db/search/xq/searchMfer02.xq?_id=loc.afc.eadafc.af021002&_faSection=overview&_faSubsection=bioghist&_dmdid=d41203e14
 network_extracted: true
 entry_created: '2025-12-15T01:19:11.796943'
 last_updated: '2025-12-23T08:16:05.087852'
-
+birth_date: '1927-05-12'
+death_date: '2024-10-20'
+artist_type: person
 ---
 
 ![](barbara_dane.jpg)

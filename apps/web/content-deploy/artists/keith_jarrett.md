@@ -5,34 +5,34 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1945-05-08'
-birth_place: Allentown
+birth_place: 'Allentown, Pennsylvania, United States'
 genres:
-- jazz
+  - jazz
 instruments:
-- eponymous
-- original
-- piano
-- guitar
-- bass guitar
-- Rhodes piano
-- electric piano
-- grand piano
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 19e48a4b-7aff-4794-a76f-1e7ed20caa4e
-  name: Keith Jarrett Trio
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
   - piano
-  mbid: 7ef355a4-d2a4-43a0-9fcd-e4ce8b82501f
-  name: Keith Jarrett, Gary Peacock, Jack DeJohnette
+  - guitar
+  - bass guitar
+  - Rhodes piano
+  - electric piano
+  - grand piano
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 19e48a4b-7aff-4794-a76f-1e7ed20caa4e
+    name: Keith Jarrett Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - piano
+    mbid: 7ef355a4-d2a4-43a0-9fcd-e4ce8b82501f
+    name: 'Keith Jarrett, Gary Peacock, Jack DeJohnette'
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/keith_jarrett.jpg
   caption: Keith Jarrett
@@ -54,55 +54,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Art Blakey
-  - Charles Lloyd
-  - Miles Davis
-  - Gary Peacock
-  - Jack DeJohnette
-  - Dewey Redman
-  - Charlie Haden
-  - Paul Motian
-  - Jan Garbarek
+    - Art Blakey
+    - Charles Lloyd
+    - Miles Davis
+    - Gary Peacock
+    - Jack DeJohnette
+    - Dewey Redman
+    - Charlie Haden
+    - Paul Motian
+    - Jan Garbarek
   influenced:
-  - Brad Mehldau
-  - Vijay Iyer
-  - Jason Moran
+    - Brad Mehldau
+    - Vijay Iyer
+    - Jason Moran
   mentors:
-  - Nadia Boulanger
+    - Nadia Boulanger
 spotify_data:
   followers: 433059
   id: 0F3Aew9DSd6fb6192K1K0Y
   popularity: 51
-  url: https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y
+  url: 'https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y'
 discography_enriched: true
 top_tracks:
-- Köln, January 24, 1975, Part I - Live (The Köln Concert)
-- So Tender (Standards, Vol. 2)
-- Köln, January 24, 1975, Part II c - Live (The Köln Concert)
-- Köln, January 24, 1975, Part II a - Live (The Köln Concert)
-- Köln, January 24, 1975, Part II b - Live (The Köln Concert)
-- One Day I'll Fly Away (Jasmine)
-- '''Long As You Know You''re Living Yours (Belonging)'
-- I Loves You Porgy (The Melody At Night, With You)
-- Guess I'll Hang Out My Tears To Dry (My Foolish Heart)
-- One For Majid - Live (After The Fall (Live))
+  - 'Köln, January 24, 1975, Part I - Live (The Köln Concert)'
+  - 'So Tender (Standards, Vol. 2)'
+  - 'Köln, January 24, 1975, Part II c - Live (The Köln Concert)'
+  - 'Köln, January 24, 1975, Part II a - Live (The Köln Concert)'
+  - 'Köln, January 24, 1975, Part II b - Live (The Köln Concert)'
+  - One Day I'll Fly Away (Jasmine)
+  - '''Long As You Know You''re Living Yours (Belonging)'
+  - 'I Loves You Porgy (The Melody At Night, With You)'
+  - Guess I'll Hang Out My Tears To Dry (My Foolish Heart)
+  - One For Majid - Live (After The Fall (Live))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/061c4920-3ea6-4835-98f6-02f3b82f5e3a
-  spotify: https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y
-  wikipedia: https://en.wikipedia.org/wiki/Keith_Jarrett
+  musicbrainz: 'https://musicbrainz.org/artist/061c4920-3ea6-4835-98f6-02f3b82f5e3a'
+  spotify: 'https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y'
+  wikipedia: 'https://en.wikipedia.org/wiki/Keith_Jarrett'
 image_path: 03_Resources/source_material/ArtistPortraits/keith_jarrett.jpg
 biography_enhanced_at: '2025-10-31T08:10:43.471017'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- All About Jazz[1]
-- EBSCO Research Starters[2]
-- Britannica[3]
-- National Endowment for the Arts[4]
-- ECM Records[5]
-- LA Phil[6]
-- Jazz88.FM[7]
-- uDiscover Music[8]
+  - 'All About Jazz[1]'
+  - 'EBSCO Research Starters[2]'
+  - 'Britannica[3]'
+  - 'National Endowment for the Arts[4]'
+  - 'ECM Records[5]'
+  - 'LA Phil[6]'
+  - 'Jazz88.FM[7]'
+  - 'uDiscover Music[8]'
 network_extracted: true
 entry_created: '2025-10-31T08:10:43.471024'
 last_updated: '2025-12-23T08:16:11.234098'
@@ -110,9 +110,9 @@ disambiguation: pianist
 gender: Male
 musicbrainz_id: 061c4920-3ea6-4835-98f6-02f3b82f5e3a
 tags:
-- 2008 universal fire victim
-- american
-- american pianist
+  - 2008 universal fire victim
+  - american
+  - american pianist
 ---
 
 ![](keith_jarrett.jpg)

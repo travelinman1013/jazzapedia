@@ -5,16 +5,16 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1955-07-28'
-birth_place: Washington, D.C.
+birth_place: 'Washington, D.C., United States'
 death_date: '2022-09-21'
 genres:
-- post-disco
+  - post-disco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/vernon_burch.jpg
   caption: Vernon Burch
   background: solo_singer
   born: '1955-07-28'
-  origin: Washington, D.C.
+  origin: 'Washington, D.C.'
   died: '2022-09-21'
 audio_profile:
   tempo_avg: null
@@ -27,40 +27,41 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Delfonics
-  - The Bar-Kays
-  - Lea Roberts
+    - The Delfonics
+    - The Bar-Kays
+    - Lea Roberts
   influenced:
-  - Deee-Lite
+    - Deee-Lite
   mentors: []
 spotify_data:
   followers: 5
   id: 4gV190AJH61O98fRbPt88m
   popularity: 3
-  url: https://open.spotify.com/artist/4gV190AJH61O98fRbPt88m
+  url: 'https://open.spotify.com/artist/4gV190AJH61O98fRbPt88m'
 discography_enriched: true
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/da5b5b5b-ae36-4cc1-a6c3-ffb4b0b9b23f
-  spotify: https://open.spotify.com/artist/4gV190AJH61O98fRbPt88m
-  wikipedia: https://en.wikipedia.org/wiki/Vernon_Burch
+  musicbrainz: 'https://musicbrainz.org/artist/da5b5b5b-ae36-4cc1-a6c3-ffb4b0b9b23f'
+  spotify: 'https://open.spotify.com/artist/4gV190AJH61O98fRbPt88m'
+  wikipedia: 'https://en.wikipedia.org/wiki/Vernon_Burch'
 image_path: ''
 biography_enhanced_at: '2025-12-14T01:52:49.054552'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Vernon_Burch
-- https://www.last.fm/music/Vernon+Burch/+wiki
-- http://www.soulwalking.co.uk/Vernon%20Burch.html
-- https://www.allmusic.com/artist/vernon-burch-mn0001219466
-- https://jazzrocksoul.com/artists/vernon-burch/
+  - 'https://en.wikipedia.org/wiki/Vernon_Burch'
+  - 'https://www.last.fm/music/Vernon+Burch/+wiki'
+  - 'http://www.soulwalking.co.uk/Vernon%20Burch.html'
+  - 'https://www.allmusic.com/artist/vernon-burch-mn0001219466'
+  - 'https://jazzrocksoul.com/artists/vernon-burch/'
 network_extracted: true
 entry_created: '2025-12-14T01:52:49.054558'
 last_updated: '2025-12-23T08:16:17.832679'
 gender: Male
 musicbrainz_id: da5b5b5b-ae36-4cc1-a6c3-ffb4b0b9b23f
 tags:
-- r&b
-- soul
+  - r&b
+  - soul
+is_active: false
 ---
 
 ![]()

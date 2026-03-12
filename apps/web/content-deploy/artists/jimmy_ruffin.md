@@ -1,16 +1,16 @@
 ---
-title: jimmy ruffin
+title: Jimmy Ruffin
 wiki_slug: jimmy-ruffin
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1936-05-07'
-birth_place: Collinsville
+birth_place: 'Collinsville, Mississippi, United States'
 death_date: '2014-11-17'
 genres:
-- motown
-- northern soul
-- soul
+  - motown
+  - northern soul
+  - soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jimmy_ruffin.jpg
   caption: jimmy ruffin
@@ -24,8 +24,8 @@ audio_profile:
   valence_avg: 0.711
   danceability_avg: 0.613
   acousticness_avg: 0.399
-  instrumentalness_avg: 0.0
-  loudness_avg: -9.0
+  instrumentalness_avg: 0
+  loudness_avg: -9
   speechiness_avg: 0.04
   liveness_avg: 0.289
   track_count: 51
@@ -33,56 +33,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - David Ruffin
-  - Robin Gibb
-  - The Funk Brothers
-  - The Originals and The Andantes
+    - David Ruffin
+    - Robin Gibb
+    - The Funk Brothers
+    - The Originals and The Andantes
   influenced:
-  - Northern Soul artists
-  - Contemporary soul singers
+    - Northern Soul artists
+    - Contemporary soul singers
   mentors:
-  - Raynoma Gordy Singleton
-  - Berry Gordy
+    - Raynoma Gordy Singleton
+    - Berry Gordy
 spotify_data:
   followers: 213539
   id: 0hF0PwB04hnXfYMiZWfJzy
   popularity: 45
-  url: https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy
+  url: 'https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy'
 discography_enriched: true
 top_tracks:
-- What Becomes Of The Brokenhearted (Greatest Motown Hits)
-- What Becomes Of The Brokenhearted (Sings Top Ten)
-- What Becomes Of The Brokenhearted - Single Version
-- What Becomes Of The Brokenhearted - Single Version (Motown Greatest Hits)
-- Farewell Is A Lonely Sound (Ruff 'N Ready)
-- What Becomes of the Brokenhearted (Hold on to My Love)
-- I've Passed This Way Before (Greatest Motown Hits)
-- It's Wonderful (To Be Loved By You) (Ruff 'N Ready)
-- I'll Say Forever My Love (Ruff 'N Ready)
-- Hold On To My Love
+  - What Becomes Of The Brokenhearted (Greatest Motown Hits)
+  - What Becomes Of The Brokenhearted (Sings Top Ten)
+  - What Becomes Of The Brokenhearted - Single Version
+  - What Becomes Of The Brokenhearted - Single Version (Motown Greatest Hits)
+  - Farewell Is A Lonely Sound (Ruff 'N Ready)
+  - What Becomes of the Brokenhearted (Hold on to My Love)
+  - I've Passed This Way Before (Greatest Motown Hits)
+  - It's Wonderful (To Be Loved By You) (Ruff 'N Ready)
+  - I'll Say Forever My Love (Ruff 'N Ready)
+  - Hold On To My Love
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e39c7351-7110-41e9-9328-ca08df0921cc
-  spotify: https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy
-  wikipedia: https://en.wikipedia.org/wiki/Jimmy_Ruffin
+  musicbrainz: 'https://musicbrainz.org/artist/e39c7351-7110-41e9-9328-ca08df0921cc'
+  spotify: 'https://open.spotify.com/artist/0hF0PwB04hnXfYMiZWfJzy'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jimmy_Ruffin'
 image_path: 03_Resources/source_material/ArtistPortraits/jimmy_ruffin.jpg
 biography_enhanced_at: '2025-11-04T11:09:27.990029'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Motown Museum[1]
-- Mississippi Writers & Musicians[2]
-- Jointz of the Day Substack[3]
-- Classic Motown[4]
+  - 'Motown Museum[1]'
+  - 'Mississippi Writers & Musicians[2]'
+  - 'Jointz of the Day Substack[3]'
+  - 'Classic Motown[4]'
 network_extracted: true
 entry_created: '2025-11-04T11:09:27.990039'
 last_updated: '2025-12-23T08:16:10.488847'
 gender: Male
 musicbrainz_id: e39c7351-7110-41e9-9328-ca08df0921cc
 tags:
-- classic pop and rock
-- r&b
-- soul
-
+  - classic pop and rock
+  - r&b
+  - soul
+is_active: false
 ---
 
 ![](jimmy_ruffin.jpg)

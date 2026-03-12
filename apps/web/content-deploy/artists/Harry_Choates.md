@@ -2,19 +2,19 @@
 title: Harry Choates
 wiki_slug: harry-choates
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1922-12-26'
-birth_place: Rayne, Louisiana, USA
+birth_place: 'Rayne, Louisiana, USA'
 death_date: '1951-07-17'
 genres:
-- traditional country
+  - traditional country
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Harry_Choates.jpg
   caption: Harry Choates
   background: solo_singer
   born: '1922-12-26'
-  origin: Rayne, Louisiana, USA
+  origin: 'Rayne, Louisiana, USA'
   died: '1951-07-17'
 audio_profile:
   tempo_avg: 130.7
@@ -31,48 +31,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Melody Boys
-  - Bill Quinn
+    - The Melody Boys
+    - Bill Quinn
   influenced:
-  - Doug Kershaw
-  - Clifton Chenier
-  - Numerous Texas and Louisiana country artists
+    - Doug Kershaw
+    - Clifton Chenier
+    - Numerous Texas and Louisiana country artists
   mentors:
-  - Leo Soileau
-  - Leroy 'Happy Fats' LeBlanc
+    - Leo Soileau
+    - Leroy 'Happy Fats' LeBlanc
 spotify_data:
   followers: 984
   id: 6l4QK1xUyUtRWGeBPee1bC
   popularity: 9
-  url: https://open.spotify.com/artist/6l4QK1xUyUtRWGeBPee1bC
+  url: 'https://open.spotify.com/artist/6l4QK1xUyUtRWGeBPee1bC'
 discography_enriched: true
 top_tracks:
-- 'Jole Blon (Jole Blon: The Original Cajun Fiddle of Harry Choates)'
-- Devil In The Bayou (The Fiddle King of Cajun Swing)
-- Jole Blon (Cajun Classics)
-- Korea Here We Come
-- Poor Hobo (Cajun Classics)
-- Jole Blon (It's Cajun Time!)
-- 'Allons A Lafayette (Jole Blon: The Original Cajun Fiddle of Harry Choates)'
-- Allons à Lafayette (The Fiddle King of Cajun Swing)
-- Devil in the Bayou
-- Poor Hobo (It's Cajun Time!)
+  - 'Jole Blon (Jole Blon: The Original Cajun Fiddle of Harry Choates)'
+  - Devil In The Bayou (The Fiddle King of Cajun Swing)
+  - Jole Blon (Cajun Classics)
+  - Korea Here We Come
+  - Poor Hobo (Cajun Classics)
+  - Jole Blon (It's Cajun Time!)
+  - 'Allons A Lafayette (Jole Blon: The Original Cajun Fiddle of Harry Choates)'
+  - Allons à Lafayette (The Fiddle King of Cajun Swing)
+  - Devil in the Bayou
+  - Poor Hobo (It's Cajun Time!)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e4c9b74d-ad49-41f1-8b50-1b0d1ea188d4
-  spotify: https://open.spotify.com/artist/6l4QK1xUyUtRWGeBPee1bC
-  wikipedia: https://en.wikipedia.org/wiki/Harry_Choates
+  musicbrainz: 'https://musicbrainz.org/artist/e4c9b74d-ad49-41f1-8b50-1b0d1ea188d4'
+  spotify: 'https://open.spotify.com/artist/6l4QK1xUyUtRWGeBPee1bC'
+  wikipedia: 'https://en.wikipedia.org/wiki/Harry_Choates'
 image_path: 03_Resources/source_material/ArtistPortraits/Harry_Choates.jpg
 biography_enhanced_at: '2025-10-20T01:48:26.193389'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Harry_Choates
-- https://www.tshaonline.org/handbook/entries/choates-harry-h
-- https://arhoolie.org/j-d-miller-abe-manuel-harry-choates/
-- https://panews.com/2019/10/04/seeking-harry-choates-68-years-after-his-death-the-port-arthur-musician-and-his-hit-song-remain-elusive/
-- https://folkways-media.si.edu/docs/folkways/artwork/ARH00380.pdf
-- https://folkways.si.edu/harry-choates/fiddle-king-of-cajun-swing/cajun-zydeco/music/album/smithsonian
-- https://www.museumofthegulfcoast.org/harry-choates
+  - 'https://en.wikipedia.org/wiki/Harry_Choates'
+  - 'https://www.tshaonline.org/handbook/entries/choates-harry-h'
+  - 'https://arhoolie.org/j-d-miller-abe-manuel-harry-choates/'
+  - >-
+    https://panews.com/2019/10/04/seeking-harry-choates-68-years-after-his-death-the-port-arthur-musician-and-his-hit-song-remain-elusive/
+  - 'https://folkways-media.si.edu/docs/folkways/artwork/ARH00380.pdf'
+  - >-
+    https://folkways.si.edu/harry-choates/fiddle-king-of-cajun-swing/cajun-zydeco/music/album/smithsonian
+  - 'https://www.museumofthegulfcoast.org/harry-choates'
 network_extracted: true
 entry_created: '2025-10-20T01:48:26.193407'
 last_updated: '2025-12-23T08:16:02.207093'
@@ -80,8 +82,8 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:28:48.289515'
 musicbrainz_id: e4c9b74d-ad49-41f1-8b50-1b0d1ea188d4
 tags:
-- cajun
-
+  - cajun
+is_active: false
 ---
 
 ![](Harry_Choates.jpg)

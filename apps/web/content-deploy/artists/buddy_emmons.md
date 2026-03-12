@@ -1,14 +1,14 @@
 ---
-title: buddy emmons
+title: Buddy Emmons
 wiki_slug: buddy-emmons
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1937-01-27'
 birth_place: United States (specific birthplace not provided in sources)
 death_date: '2015-07-29'
 genres:
-- traditional country
+  - traditional country
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/buddy_emmons.jpg
   caption: buddy emmons
@@ -31,50 +31,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Little Jimmy Dickens
-  - Ernest Tubb
-  - Ray Price
-  - Roger Miller
-  - The Everly Brothers
-  - John Sebastian
-  - Shot Jackson
-  - Billy Byrd
-  - Buddy Spicher
-  - Lenny Breau
+    - Little Jimmy Dickens
+    - Ernest Tubb
+    - Ray Price
+    - Roger Miller
+    - The Everly Brothers
+    - John Sebastian
+    - Shot Jackson
+    - Billy Byrd
+    - Buddy Spicher
+    - Lenny Breau
   influenced:
-  - Steve Fishell
+    - Steve Fishell
   mentors:
-  - Arvin Garrison
+    - Arvin Garrison
 spotify_data:
   followers: 4946
   id: 30CKw91YOH49ow02aqBg1g
   popularity: 19
-  url: https://open.spotify.com/artist/30CKw91YOH49ow02aqBg1g
+  url: 'https://open.spotify.com/artist/30CKw91YOH49ow02aqBg1g'
 discography_enriched: true
 top_tracks:
-- Honky Tonk Angels (The Steel Guitar And Dobro Sounds Of Shot Jackson And Buddy Emmons)
-- Witchcraft (Steel Guitar Jazz)
-- Wild Mountain Thyme (Steel Guitar)
-- Where Or When (Steel Guitar Jazz)
-- Gospel Medley (The Steel Guitar And Dobro Sounds Of Shot Jackson And Buddy Emmons)
-- Cherokee (Steel Guitar Jazz)
-- Smokey Mountain Rag (The Steel Guitar And Dobro Sounds Of Shot Jackson And Buddy Emmons)
-- Bluemmons (Steel Guitar Jazz)
-- Any Time (Steel Guitar Jazz)
-- Waltz Medley (The Steel Guitar And Dobro Sounds Of Shot Jackson And Buddy Emmons)
+  - >-
+    Honky Tonk Angels (The Steel Guitar And Dobro Sounds Of Shot Jackson And
+    Buddy Emmons)
+  - Witchcraft (Steel Guitar Jazz)
+  - Wild Mountain Thyme (Steel Guitar)
+  - Where Or When (Steel Guitar Jazz)
+  - >-
+    Gospel Medley (The Steel Guitar And Dobro Sounds Of Shot Jackson And Buddy
+    Emmons)
+  - Cherokee (Steel Guitar Jazz)
+  - >-
+    Smokey Mountain Rag (The Steel Guitar And Dobro Sounds Of Shot Jackson And
+    Buddy Emmons)
+  - Bluemmons (Steel Guitar Jazz)
+  - Any Time (Steel Guitar Jazz)
+  - >-
+    Waltz Medley (The Steel Guitar And Dobro Sounds Of Shot Jackson And Buddy
+    Emmons)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/72997c83-ac10-46ad-800a-513d8c2dba5d
-  spotify: https://open.spotify.com/artist/30CKw91YOH49ow02aqBg1g
+  musicbrainz: 'https://musicbrainz.org/artist/72997c83-ac10-46ad-800a-513d8c2dba5d'
+  spotify: 'https://open.spotify.com/artist/30CKw91YOH49ow02aqBg1g'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/buddy_emmons.jpg
 biography_enhanced_at: '2025-10-20T09:01:15.087661'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.vintageguitar.com/25099/buddy-emmons/
-- https://www.press.uillinois.edu/books/?id=p086786
-- https://nodepression.org/the-reading-room-how-buddy-emmons-steel-guitar-changed-country-music/
-- https://www.youtube.com/watch?v=DLdXNzSu1Bc
+  - 'https://www.vintageguitar.com/25099/buddy-emmons/'
+  - 'https://www.press.uillinois.edu/books/?id=p086786'
+  - >-
+    https://nodepression.org/the-reading-room-how-buddy-emmons-steel-guitar-changed-country-music/
+  - 'https://www.youtube.com/watch?v=DLdXNzSu1Bc'
 network_extracted: true
 entry_created: '2025-10-20T09:01:15.087670'
 last_updated: '2025-12-23T08:16:06.203953'
@@ -82,7 +91,8 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:50:03.039293'
 musicbrainz_id: 72997c83-ac10-46ad-800a-513d8c2dba5d
 tags:
-- country
+  - country
+is_active: false
 ---
 
 ![](buddy_emmons.jpg)

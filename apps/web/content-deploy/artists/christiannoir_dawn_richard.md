@@ -1,15 +1,15 @@
 ---
-title: CHRISTIANNOIR, Dawn Richard
+title: 'CHRISTIANNOIR, Dawn Richard'
 wiki_slug: christiannoir-dawn-richard
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/christiannoir_dawn_richard.jpg
-  caption: CHRISTIANNOIR, Dawn Richard
+  caption: 'CHRISTIANNOIR, Dawn Richard'
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 122.7
   energy_avg: 0.604
@@ -25,49 +25,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Danity Kane
-  - Diddy-Dirty Money
-  - Spencer Zahn
-  - Druski
+    - Danity Kane
+    - Diddy-Dirty Money
+    - Spencer Zahn
+    - Druski
   influenced:
-  - Ella Dunbar-Wilcox
+    - Ella Dunbar-Wilcox
   mentors:
-  - Björk
-  - Phil Collins
+    - Björk
+    - Phil Collins
 spotify_data:
   followers: 6
   id: 1WjtI7iEjcTeioiNJy5dBn
   popularity: 6
-  url: https://open.spotify.com/artist/1WjtI7iEjcTeioiNJy5dBn
+  url: 'https://open.spotify.com/artist/1WjtI7iEjcTeioiNJy5dBn'
 discography_enriched: true
 top_tracks:
-- LIVING FOR US (DIE WITHOUT YOU REMIX) (THE IANCHRISTENING)
-- KARMIC REWARDZ (THE IANCHRISTENING)
-- SUPERPOWERZ (THE IANCHRISTENING)
-- CURIOUS? HOLLER. (THE IANCHRISTENING)
-- AMBROSIA (MOUNT OLYMPUS MANTRAS)
-- WW4 (MOUNT OLYMPUS MANTRAS)
-- NEFERIOUS (MOUNT OLYMPUS MANTRAS)
-- RUBIES ARE ETERNAL (MOUNT OLYMPUS MANTRAS)
-- GO INSANE FOR ME (COWBOY THRILLER) (MOUNT OLYMPUS MANTRAS)
-- MEDUSA (SEDUCTION SONG) (MOUNT OLYMPUS MANTRAS)
+  - LIVING FOR US (DIE WITHOUT YOU REMIX) (THE IANCHRISTENING)
+  - KARMIC REWARDZ (THE IANCHRISTENING)
+  - SUPERPOWERZ (THE IANCHRISTENING)
+  - CURIOUS? HOLLER. (THE IANCHRISTENING)
+  - AMBROSIA (MOUNT OLYMPUS MANTRAS)
+  - WW4 (MOUNT OLYMPUS MANTRAS)
+  - NEFERIOUS (MOUNT OLYMPUS MANTRAS)
+  - RUBIES ARE ETERNAL (MOUNT OLYMPUS MANTRAS)
+  - GO INSANE FOR ME (COWBOY THRILLER) (MOUNT OLYMPUS MANTRAS)
+  - MEDUSA (SEDUCTION SONG) (MOUNT OLYMPUS MANTRAS)
 external_urls:
-  spotify: https://open.spotify.com/artist/1WjtI7iEjcTeioiNJy5dBn
-  wikipedia: https://en.wikipedia.org/wiki/Dawn_Richard
+  spotify: 'https://open.spotify.com/artist/1WjtI7iEjcTeioiNJy5dBn'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dawn_Richard'
 image_path: 03_Resources/source_material/ArtistPortraits/christiannoir_dawn_richard.jpg
 biography_enhanced_at: '2025-11-12T14:41:29.422168'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Dawn_Richard
-- https://music.usc.edu/spotlights/inspiring-the-next-generation-of-artists/
-- https://www.essence.com/of-the-essence/dawn-richard-rising/
-- https://www.interviewmagazine.com/music/exclusive-song-premiere-and-interview-86-dawn-richard
-- https://beatroutemedia.com/dawn-richard/
-- https://daily.redbullmusicacademy.com/2016/06/dawn-richard-musical-landmarks/
+  - 'https://en.wikipedia.org/wiki/Dawn_Richard'
+  - 'https://music.usc.edu/spotlights/inspiring-the-next-generation-of-artists/'
+  - 'https://www.essence.com/of-the-essence/dawn-richard-rising/'
+  - >-
+    https://www.interviewmagazine.com/music/exclusive-song-premiere-and-interview-86-dawn-richard
+  - 'https://beatroutemedia.com/dawn-richard/'
+  - >-
+    https://daily.redbullmusicacademy.com/2016/06/dawn-richard-musical-landmarks/
 network_extracted: true
 entry_created: '2025-11-12T14:41:29.422178'
 last_updated: '2025-12-23T08:16:06.934133'
+birth_date: '1983-08-05'
+artist_type: person
 ---
 
 ![](christiannoir_dawn_richard.jpg)

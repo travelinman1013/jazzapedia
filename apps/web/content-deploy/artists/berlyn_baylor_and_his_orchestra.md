@@ -1,11 +1,12 @@
 ---
-title: BERLYN BAYLOR AND HIS ORCHESTRA
+title: Berlyn Baylor and His Orchestra
 wiki_slug: berlyn-baylor-and-his-orchestra
 schema_version: 2
 status: active
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/berlyn_baylor_and_his_orchestra.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/berlyn_baylor_and_his_orchestra.jpg
   caption: BERLYN BAYLOR AND HIS ORCHESTRA
   background: solo_singer
 audio_profile:
@@ -29,27 +30,30 @@ spotify_data:
   followers: 0
   id: 0f2KWdvym9sMwBJT2Epa6S
   popularity: 0
-  url: https://open.spotify.com/artist/0f2KWdvym9sMwBJT2Epa6S
+  url: 'https://open.spotify.com/artist/0f2KWdvym9sMwBJT2Epa6S'
 discography_enriched: true
 top_tracks:
-- Clarinet Marmalade (Gennett Hot Dance, Volume 2 (1927-1930))
-- Riverboat Shuffle (Gennett Hot Dance, Volume 2 (1927-1930))
+  - 'Clarinet Marmalade (Gennett Hot Dance, Volume 2 (1927-1930))'
+  - 'Riverboat Shuffle (Gennett Hot Dance, Volume 2 (1927-1930))'
 external_urls:
-  spotify: https://open.spotify.com/artist/0f2KWdvym9sMwBJT2Epa6S
+  spotify: 'https://open.spotify.com/artist/0f2KWdvym9sMwBJT2Epa6S'
   wikipedia: ''
 image_path: ''
 biography_enhanced_at: '2025-12-11T03:47:48.685529'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- 'Apple Music artist page: Berlyn Baylor Orchestra[4]'
-- Conference and composer/performer biography documents consulted and found no relevant entries for Berlyn Baylor or this
-  orchestra[1][3]
-- Baylor University School of Music faculty and related listings checked for any connection to a Berlyn Baylor bandleader
-  and found none[2]
+  - 'Apple Music artist page: Berlyn Baylor Orchestra[4]'
+  - >-
+    Conference and composer/performer biography documents consulted and found no
+    relevant entries for Berlyn Baylor or this orchestra[1][3]
+  - >-
+    Baylor University School of Music faculty and related listings checked for
+    any connection to a Berlyn Baylor bandleader and found none[2]
 network_extracted: true
 entry_created: '2025-12-11T03:47:48.685546'
 last_updated: '2025-12-23T08:16:05.335736'
+artist_type: band
 ---
 
 ![]()

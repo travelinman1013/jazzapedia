@@ -3,33 +3,35 @@ biography_enhanced_at: '2025-12-26T01:23:20.246968'
 enhancement_provider: perplexity
 entry_created: '2025-12-26T01:23:20.246978'
 external_urls:
-  spotify: https://open.spotify.com/artist/3P4UYWilEvNB5YV0klMuF2
-  wikipedia: https://en.wikipedia.org/wiki/Hits_Unlimited
+  spotify: 'https://open.spotify.com/artist/3P4UYWilEvNB5YV0klMuF2'
+  wikipedia: 'https://en.wikipedia.org/wiki/Hits_Unlimited'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/hits_unlimited.jpg
 last_updated: '2025-12-26T01:23:20.246979'
 musical_connections:
   collaborators:
-  - Jean-Paul De Coster
-  - Phil Wilde
-  - Ray Slijngaard
-  - Anita Doth
+    - Jean-Paul De Coster
+    - Phil Wilde
+    - Ray Slijngaard
+    - Anita Doth
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/2_Unlimited
-- https://en.wikipedia.org/wiki/Hits_Unlimited
-- https://www.last.fm/music/2+Unlimited/+wiki
-- https://eurochannel.com/en/2-Unlimited-Belgium.html
+  - 'https://en.wikipedia.org/wiki/2_Unlimited'
+  - 'https://en.wikipedia.org/wiki/Hits_Unlimited'
+  - 'https://www.last.fm/music/2+Unlimited/+wiki'
+  - 'https://eurochannel.com/en/2-Unlimited-Belgium.html'
 spotify_data:
   followers: 547
   id: 3P4UYWilEvNB5YV0klMuF2
   popularity: 6
-  url: https://open.spotify.com/artist/3P4UYWilEvNB5YV0klMuF2
+  url: 'https://open.spotify.com/artist/3P4UYWilEvNB5YV0klMuF2'
 status: active
 title: Hits Unlimited
+origin: 'Antwerp, Belgium'
+artist_type: band
 ---
 
 ![](hits_unlimited.jpg)

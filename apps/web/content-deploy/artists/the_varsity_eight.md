@@ -1,10 +1,10 @@
 ---
-title: THE VARSITY EIGHT
+title: The Varsity Eight
 wiki_slug: the-varsity-eight
 schema_version: 2
 status: active
 genres:
-- ragtime
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_varsity_eight.jpg
   caption: THE VARSITY EIGHT
@@ -24,43 +24,44 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Fred Van Eps Jr.
-  - Felix Arndt
+    - Fred Van Eps Jr.
+    - Felix Arndt
   influenced:
-  - Jack Teagarden Big Band
+    - Jack Teagarden Big Band
   mentors:
-  - Fred Van Eps
+    - Fred Van Eps
 spotify_data:
   followers: 164
   id: 7xQmTMmNmqpB8h03bz7sNj
   popularity: 1
-  url: https://open.spotify.com/artist/7xQmTMmNmqpB8h03bz7sNj
+  url: 'https://open.spotify.com/artist/7xQmTMmNmqpB8h03bz7sNj'
 discography_enriched: true
 top_tracks:
-- Milenberg Joys (The Varsity Eight 1923-1926)
-- Oh! Mabel (Recorded 1924)
-- Copenhagen (Dimestore 1920's Vol. 1)
-- I'm Satisfied Beside That Sweetie O'Mine
-- Clementine (from New Orleans)
-- Charleston (We Call It Jazz!, Vol. 30)
-- Copenhagen (Version by the Varsity Eight)
-- Copenhagen
-- Who's Calling You Sweatheart Tonight (We Call It Jazz!, Vol. 3)
-- Last Night On the Back Porch
+  - Milenberg Joys (The Varsity Eight 1923-1926)
+  - Oh! Mabel (Recorded 1924)
+  - Copenhagen (Dimestore 1920's Vol. 1)
+  - I'm Satisfied Beside That Sweetie O'Mine
+  - Clementine (from New Orleans)
+  - 'Charleston (We Call It Jazz!, Vol. 30)'
+  - Copenhagen (Version by the Varsity Eight)
+  - Copenhagen
+  - 'Who''s Calling You Sweatheart Tonight (We Call It Jazz!, Vol. 3)'
+  - Last Night On the Back Porch
 external_urls:
-  spotify: https://open.spotify.com/artist/7xQmTMmNmqpB8h03bz7sNj
+  spotify: 'https://open.spotify.com/artist/7xQmTMmNmqpB8h03bz7sNj'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/the_varsity_eight.jpg
 biography_enhanced_at: '2025-11-20T06:37:59.691424'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://syncopatedtimes.com/fred-and-george-van-eps-profiles-in-jazz/
-- https://musiktiteldb.de/Label/Var_08.html
+  - 'https://syncopatedtimes.com/fred-and-george-van-eps-profiles-in-jazz/'
+  - 'https://musiktiteldb.de/Label/Var_08.html'
 network_extracted: true
 entry_created: '2025-11-20T06:37:59.691432'
 last_updated: '2025-12-23T08:16:17.255674'
-origin: New York, New York, USA
+origin: 'New York, New York, USA'
+artist_type: band
 ---
 
 ![](the_varsity_eight.jpg)

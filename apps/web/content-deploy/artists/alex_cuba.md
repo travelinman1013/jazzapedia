@@ -5,27 +5,27 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1974'
-birth_place: Artemisa
+birth_place: 'Artemisa, Cuba, United States'
 genres:
-- latin folk
-- trova
-- latin pop
+  - latin folk
+  - trova
+  - latin pop
 instruments:
-- eponymous
-- original
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
-  mbid: cb1a266a-9159-4bd3-9b56-9ed1f509166e
-  name: Alex Cuba Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0010f4e7-02a9-43eb-8184-fd4b563e6c8f
-  name: Puentes Brothers
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: cb1a266a-9159-4bd3-9b56-9ed1f509166e
+    name: Alex Cuba Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0010f4e7-02a9-43eb-8184-fd4b563e6c8f
+    name: Puentes Brothers
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/alex_cuba.jpg
   caption: Alex Cuba
@@ -38,7 +38,7 @@ audio_profile:
   valence_avg: 0.74
   danceability_avg: 0.728
   acousticness_avg: 0.67
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -9.2
   speechiness_avg: 0.065
   liveness_avg: 0.12
@@ -47,54 +47,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Nelly Furtado
-  - Lila Downs
-  - Pablo Milanés
-  - Omara Portuondo
-  - Leonel García
+    - Nelly Furtado
+    - Lila Downs
+    - Pablo Milanés
+    - Omara Portuondo
+    - Leonel García
   influenced:
-  - Emerging Canadian Latin musicians
+    - Emerging Canadian Latin musicians
   mentors:
-  - Valentin Puentes
+    - Valentin Puentes
 spotify_data:
   followers: 60630
   id: 7gZRUp2WL6r11PXTv309P1
   popularity: 46
-  url: https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1
+  url: 'https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1'
 discography_enriched: true
 top_tracks:
-- Dividido (Sublime)
-- Solo Mía (Sublime)
-- Nada es de Verdad
-- Sueña Conmigo (TROPICALIA)
-- Dividido
-- Solo Mía
-- Bachata Rosa ((un poco + de) FE)
-- Bachata Rosa
-- Ciudad Hembra (La Habana) (Sublime)
-- Si Pero No (Agua Del Pozo)
+  - Dividido (Sublime)
+  - Solo Mía (Sublime)
+  - Nada es de Verdad
+  - Sueña Conmigo (TROPICALIA)
+  - Dividido
+  - Solo Mía
+  - Bachata Rosa ((un poco + de) FE)
+  - Bachata Rosa
+  - Ciudad Hembra (La Habana) (Sublime)
+  - Si Pero No (Agua Del Pozo)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6bab395b-a808-44f0-a844-70d589a259c2
-  spotify: https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1
-  wikipedia: https://en.wikipedia.org/wiki/Alex_Cuba
+  musicbrainz: 'https://musicbrainz.org/artist/6bab395b-a808-44f0-a844-70d589a259c2'
+  spotify: 'https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1'
+  wikipedia: 'https://en.wikipedia.org/wiki/Alex_Cuba'
 image_path: 03_Resources/source_material/ArtistPortraits/alex_cuba.jpg
 biography_enhanced_at: '2025-11-10T03:35:02.376170'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.capilanou.ca/about-capu/governance/senate/honorary-degrees/2024-recipients/alex-cuba/
-- https://cindyhowes.net/2021/07/22/basic-folk-127-alex-cuba/
-- https://www.artburstmiami.com/music-articles/alex-cuba-talks-grammys-music-canada-and-being-at-the-center-of-miamis-global-cuba-fest-2023
-- https://www.mtpr.org/show/musicians-spotlight/2025-09-10/musicians-spotlight-alex-cuba
-- https://www.independent.com/2024/04/28/alex-cuba-embraces-his-original-sound/
-- https://www.alexcuba.com/about.html
+  - >-
+    https://www.capilanou.ca/about-capu/governance/senate/honorary-degrees/2024-recipients/alex-cuba/
+  - 'https://cindyhowes.net/2021/07/22/basic-folk-127-alex-cuba/'
+  - >-
+    https://www.artburstmiami.com/music-articles/alex-cuba-talks-grammys-music-canada-and-being-at-the-center-of-miamis-global-cuba-fest-2023
+  - >-
+    https://www.mtpr.org/show/musicians-spotlight/2025-09-10/musicians-spotlight-alex-cuba
+  - >-
+    https://www.independent.com/2024/04/28/alex-cuba-embraces-his-original-sound/
+  - 'https://www.alexcuba.com/about.html'
 network_extracted: true
 entry_created: '2025-11-10T03:35:02.376185'
 last_updated: '2025-12-23T08:16:04.539593'
 gender: Male
 musicbrainz_id: 6bab395b-a808-44f0-a844-70d589a259c2
 tags:
-- latin pop
+  - latin pop
+origin: 'Smithers, British Columbia, Canada'
 ---
 
 ![](alex_cuba.jpg)

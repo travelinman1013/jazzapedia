@@ -2,23 +2,24 @@
 title: Frankie Trumbauer and his Orchestra
 wiki_slug: frankie-trumbauer-and-his-orchestra
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 genres:
-- ragtime
-- jazz
+  - ragtime
+  - jazz
 instruments:
-- violin
-- guitar
-- alto saxophone
-- eponymous
-- drums (drum set)
+  - violin
+  - guitar
+  - alto saxophone
+  - eponymous
+  - drums (drum set)
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/frankie_trumbauer_and_his_orchestra.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/frankie_trumbauer_and_his_orchestra.jpg
   caption: Frankie Trumbauer and his Orchestra
   background: group_or_band
 audio_profile:
-  tempo_avg: 136.0
+  tempo_avg: 136
   energy_avg: 0.318
   valence_avg: 0.763
   danceability_avg: 0.691
@@ -32,134 +33,151 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bix Beiderbecke
-  - Eddie Lang
-  - Paul Whiteman
-  - Jack Teagarden
+    - Bix Beiderbecke
+    - Eddie Lang
+    - Paul Whiteman
+    - Jack Teagarden
   influenced:
-  - Lester Young
-  - Cool Jazz Movement
+    - Lester Young
+    - Cool Jazz Movement
   mentors:
-  - Mother (unnamed)
+    - Mother (unnamed)
 spotify_data:
   followers: 1836
   id: 0aJIIcFkN8kEdJk68J19SX
   popularity: 13
-  url: https://open.spotify.com/artist/0aJIIcFkN8kEdJk68J19SX
+  url: 'https://open.spotify.com/artist/0aJIIcFkN8kEdJk68J19SX'
 discography_enriched: true
 top_tracks:
-- 'Way Down Yonder In New Orleans (feat. Bix Beiderbecke) (Bix Beiderbecke, Volume I: Singin'' The Blues)'
-- 'Riverboat Shuffle (feat. Bix Beiderbecke) (Bix Beiderbecke, Volume I: Singin'' The Blues)'
-- 'Ostrich Walk (feat. Bix Beiderbecke) (Bix Beiderbecke, Volume I: Singin'' The Blues)'
-- '(The) Baltimore (feat. Bix Beiderbecke & Eddie Lang) (Bix Beiderbecke, Volume I: Singin'' The Blues)'
-- Happy Feet
-- Singin' the Blues
-- 'Blue River (feat. Bix Beiderbecke) (Bix Beiderbecke, Volume I: Singin'' The Blues)'
-- 'Humpty Dumpty (feat. Bix Beiderbecke & Eddie Lang) (Bix Beiderbecke, Volume I: Singin'' The Blues)'
-- Singin' the Blues (feat. Bix Beiderbecke)
-- 'Krazy Kat (feat. Bix Beiderbecke & Eddie Lang) (Bix Beiderbecke, Volume I: Singin'' The Blues)'
+  - >-
+    Way Down Yonder In New Orleans (feat. Bix Beiderbecke) (Bix Beiderbecke,
+    Volume I: Singin' The Blues)
+  - >-
+    Riverboat Shuffle (feat. Bix Beiderbecke) (Bix Beiderbecke, Volume I:
+    Singin' The Blues)
+  - >-
+    Ostrich Walk (feat. Bix Beiderbecke) (Bix Beiderbecke, Volume I: Singin' The
+    Blues)
+  - >-
+    (The) Baltimore (feat. Bix Beiderbecke & Eddie Lang) (Bix Beiderbecke,
+    Volume I: Singin' The Blues)
+  - Happy Feet
+  - Singin' the Blues
+  - >-
+    Blue River (feat. Bix Beiderbecke) (Bix Beiderbecke, Volume I: Singin' The
+    Blues)
+  - >-
+    Humpty Dumpty (feat. Bix Beiderbecke & Eddie Lang) (Bix Beiderbecke, Volume
+    I: Singin' The Blues)
+  - Singin' the Blues (feat. Bix Beiderbecke)
+  - >-
+    Krazy Kat (feat. Bix Beiderbecke & Eddie Lang) (Bix Beiderbecke, Volume I:
+    Singin' The Blues)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9d67b4ef-cd78-4202-a379-78324d66c4bc
-  spotify: https://open.spotify.com/artist/0aJIIcFkN8kEdJk68J19SX
-  wikipedia: https://en.wikipedia.org/wiki/Frankie_Trumbauer
-image_path: 03_Resources/source_material/ArtistPortraits/frankie_trumbauer_and_his_orchestra.jpg
+  musicbrainz: 'https://musicbrainz.org/artist/9d67b4ef-cd78-4202-a379-78324d66c4bc'
+  spotify: 'https://open.spotify.com/artist/0aJIIcFkN8kEdJk68J19SX'
+  wikipedia: 'https://en.wikipedia.org/wiki/Frankie_Trumbauer'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/frankie_trumbauer_and_his_orchestra.jpg
 biography_enhanced_at: '2025-10-26T12:23:14.322126'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Frankie_Trumbauer
-- http://oldtimeblues.net/tag/frankie-trumbauer/
-- https://syncopatedtimes.com/frankie-trumbauer-1901-1956/
+  - 'https://en.wikipedia.org/wiki/Frankie_Trumbauer'
+  - 'http://oldtimeblues.net/tag/frankie-trumbauer/'
+  - 'https://syncopatedtimes.com/frankie-trumbauer-1901-1956/'
 network_extracted: true
 entry_created: '2025-10-26T12:23:14.322139'
 last_updated: '2025-12-23T08:16:08.797845'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - violin
-  mbid: 3e98b53c-27c3-4b41-b1bd-507c5c5a00a7
-  name: Charles Gaylord
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: 6a2612e8-afae-426b-b144-2947a2ec4f70
-  name: Lionel Hall
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7c6e10c8-7896-4624-a46b-2f3b5784d2d6
-  name: Eddie Lang
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: cd6f31f9-2dc5-4854-85ba-77b6a92d6c7c
-  name: Fud Livingston
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c803b5aa-af2f-406a-9e40-a80827ca20da
-  name: Paul Madeira
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 398f84b0-1c11-48f0-a043-fb7bf694d364
-  name: Chauncey Morehouse
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0b9022a1-3f77-4d58-8a1f-22ad031efeb1
-  name: Don Murray
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f9787d91-2fd2-4a34-870a-8c449baf14dc
-  name: Howdy Quicksell
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a6154e35-aaca-4b82-82eb-3793cdecfadb
-  name: Bill Rank
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8a1241d7-c105-4df9-ae16-c8070e23aa0a
-  name: Itzy Riskin
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f560eccb-fa98-46a8-9290-93ff6f89b16c
-  name: Adrian Rollini
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bf123001-9c4b-43ee-8e6e-53ffdc3818c9
-  name: Doc Ryker
-- begin: ''
-  end: ''
-  instruments:
-  - alto saxophone
-  mbid: 56401cdf-53a2-4876-821b-4aef5797058d
-  name: Jack Shore
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 714b9ee6-ff84-451f-a121-4d873859291c
-  name: Frankie Trumbauer
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: a4f7c8d1-dc67-42d1-adb7-ad9c92029aed
-  name: Jack Williams
+  - begin: ''
+    end: ''
+    instruments:
+      - violin
+    mbid: 3e98b53c-27c3-4b41-b1bd-507c5c5a00a7
+    name: Charles Gaylord
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 6a2612e8-afae-426b-b144-2947a2ec4f70
+    name: Lionel Hall
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7c6e10c8-7896-4624-a46b-2f3b5784d2d6
+    name: Eddie Lang
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: cd6f31f9-2dc5-4854-85ba-77b6a92d6c7c
+    name: Fud Livingston
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c803b5aa-af2f-406a-9e40-a80827ca20da
+    name: Paul Madeira
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 398f84b0-1c11-48f0-a043-fb7bf694d364
+    name: Chauncey Morehouse
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0b9022a1-3f77-4d58-8a1f-22ad031efeb1
+    name: Don Murray
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f9787d91-2fd2-4a34-870a-8c449baf14dc
+    name: Howdy Quicksell
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a6154e35-aaca-4b82-82eb-3793cdecfadb
+    name: Bill Rank
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8a1241d7-c105-4df9-ae16-c8070e23aa0a
+    name: Itzy Riskin
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f560eccb-fa98-46a8-9290-93ff6f89b16c
+    name: Adrian Rollini
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bf123001-9c4b-43ee-8e6e-53ffdc3818c9
+    name: Doc Ryker
+  - begin: ''
+    end: ''
+    instruments:
+      - alto saxophone
+    mbid: 56401cdf-53a2-4876-821b-4aef5797058d
+    name: Jack Shore
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 714b9ee6-ff84-451f-a121-4d873859291c
+    name: Frankie Trumbauer
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: a4f7c8d1-dc67-42d1-adb7-ad9c92029aed
+    name: Jack Williams
 musicbrainz_id: 9d67b4ef-cd78-4202-a379-78324d66c4bc
-origin: Carbondale, Illinois, United States
+origin: 'Carbondale, Illinois, United States'
 tags:
-- big band
-- dixieland
-- jazz
+  - big band
+  - dixieland
+  - jazz
+birth_place: 'Carbondale, Illinois, United States'
+birth_date: '1901-05-30'
 ---
 
 ![](frankie_trumbauer_and_his_orchestra.jpg)

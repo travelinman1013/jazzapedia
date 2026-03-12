@@ -1,24 +1,24 @@
 ---
-title: bob rivers
+title: Bob Rivers
 wiki_slug: bob-rivers
 schema_version: 2
 status: active
-birth_place: Connecticut, United States
+birth_place: 'Connecticut, United States'
 genres:
-- christmas
-- comedy
+  - christmas
+  - comedy
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bob_rivers.jpg
   caption: bob rivers
   background: solo_singer
-  origin: Connecticut, United States
+  origin: 'Connecticut, United States'
 audio_profile:
   tempo_avg: 126.8
   energy_avg: 0.533
   valence_avg: 0.604
   danceability_avg: 0.579
   acousticness_avg: 0.401
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -9.3
   speechiness_avg: 0.074
   liveness_avg: 0.208
@@ -27,50 +27,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Peter “Zip” Zipfel
-  - Spike O’Neill
-  - Joe Bryant
-  - Spike & The Impalers
-  - Heart By Heart
+    - Peter “Zip” Zipfel
+    - Spike O’Neill
+    - Joe Bryant
+    - Spike & The Impalers
+    - Heart By Heart
   influenced:
-  - Contemporary radio comedy and musical parody creators (various)
+    - Contemporary radio comedy and musical parody creators (various)
   mentors:
-  - American Comedy Network (KATZ/Newcity)
+    - American Comedy Network (KATZ/Newcity)
 spotify_data:
   followers: 13234
   id: 2v7Q2VJ6Xo1rwwhfJ6piQw
   popularity: 47
-  url: https://open.spotify.com/artist/2v7Q2VJ6Xo1rwwhfJ6piQw
+  url: 'https://open.spotify.com/artist/2v7Q2VJ6Xo1rwwhfJ6piQw'
 discography_enriched: true
 top_tracks:
-- What If God Smoked Cannabis? (Best Of Twisted Tunes, Vol. 2)
-- The Twelve Pains of Christmas (Bob Rivers & Twisted Radio - Twisted Christmas Boxed Set)
-- Walkin' 'Round in Women's Underwear (Bob Rivers & Twisted Radio - Twisted Christmas Boxed Set)
-- The Restroom Door Said, "Gentleman" (Bob Rivers & Twisted Radio - Twisted Christmas Boxed Set)
-- I Am Santa Claus (Bob Rivers & Twisted Radio - Twisted Christmas Boxed Set)
-- Chipmunks Roasting on an Open Fire (Chipmunks Roasting On An Open Fire)
-- The Chimney Song (Bob Rivers & Twisted Radio - Twisted Christmas Boxed Set)
-- Be Claus I Got High (White Trash Christmas)
-- The Twisted Chipmunk Song (Chipmunks Roasting On An Open Fire)
-- Wreck the Malls (Bob Rivers & Twisted Radio - Twisted Christmas Boxed Set)
+  - 'What If God Smoked Cannabis? (Best Of Twisted Tunes, Vol. 2)'
+  - >-
+    The Twelve Pains of Christmas (Bob Rivers & Twisted Radio - Twisted
+    Christmas Boxed Set)
+  - >-
+    Walkin' 'Round in Women's Underwear (Bob Rivers & Twisted Radio - Twisted
+    Christmas Boxed Set)
+  - >-
+    The Restroom Door Said, "Gentleman" (Bob Rivers & Twisted Radio - Twisted
+    Christmas Boxed Set)
+  - I Am Santa Claus (Bob Rivers & Twisted Radio - Twisted Christmas Boxed Set)
+  - Chipmunks Roasting on an Open Fire (Chipmunks Roasting On An Open Fire)
+  - The Chimney Song (Bob Rivers & Twisted Radio - Twisted Christmas Boxed Set)
+  - Be Claus I Got High (White Trash Christmas)
+  - The Twisted Chipmunk Song (Chipmunks Roasting On An Open Fire)
+  - Wreck the Malls (Bob Rivers & Twisted Radio - Twisted Christmas Boxed Set)
 external_urls:
-  spotify: https://open.spotify.com/artist/2v7Q2VJ6Xo1rwwhfJ6piQw
-  wikipedia: https://en.wikipedia.org/wiki/Bob_Rivers
+  spotify: 'https://open.spotify.com/artist/2v7Q2VJ6Xo1rwwhfJ6piQw'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bob_Rivers'
 image_path: 03_Resources/source_material/ArtistPortraits/bob_rivers.jpg
 biography_enhanced_at: '2025-12-20T01:20:33.591354'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Bob_Rivers
-- https://bobrivers.com
-- https://www.legacy.com/news/bob-rivers-1956-2025-radio-dj-and-parody-songwriter
-- https://www.98online.com/bob-rivers-iconic-98-rock-baltimore-radio-host-dies-at-68
-- https://theworcesterguardian.org/f/bob-rivers%E2%80%99-legacy-a-life-in-radio-and-laughter
-- https://jacobsmedia.com/what-about-bob-3/
-- https://www.iheart.com/podcast/1119-takin-a-walk-music-histor-89049061/episode/bob-rivers-one-of-256380551/
+  - 'https://en.wikipedia.org/wiki/Bob_Rivers'
+  - 'https://bobrivers.com'
+  - >-
+    https://www.legacy.com/news/bob-rivers-1956-2025-radio-dj-and-parody-songwriter
+  - >-
+    https://www.98online.com/bob-rivers-iconic-98-rock-baltimore-radio-host-dies-at-68
+  - >-
+    https://theworcesterguardian.org/f/bob-rivers%E2%80%99-legacy-a-life-in-radio-and-laughter
+  - 'https://jacobsmedia.com/what-about-bob-3/'
+  - >-
+    https://www.iheart.com/podcast/1119-takin-a-walk-music-histor-89049061/episode/bob-rivers-one-of-256380551/
 network_extracted: true
 entry_created: '2025-12-20T01:20:33.591371'
 last_updated: '2025-12-23T08:16:05.824118'
+birth_date: '1956-07-07'
+death_date: '2025-03-11'
+artist_type: person
 ---
 
 ![](bob_rivers.jpg)

@@ -1,15 +1,15 @@
 ---
-title: kyle roussel/john boutte
+title: Kyle Roussel/John Boutte
 wiki_slug: kyle-rousseljohn-boutte
 schema_version: 2
 status: active
-birth_place: Boutte, Louisiana, United States
+birth_place: 'Boutte, Louisiana, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/kyle_rousseljohn_boutte.jpg
   caption: kyle roussel/john boutte
   background: solo_singer
-  origin: Boutte, Louisiana, United States
+  origin: 'Boutte, Louisiana, United States'
 audio_profile:
   tempo_avg: 117.6
   energy_avg: 0.494
@@ -25,50 +25,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John Boutté
-  - Preservation Hall Jazz Band
-  - Irma Thomas
-  - The Headhunters
+    - John Boutté
+    - Preservation Hall Jazz Band
+    - Irma Thomas
+    - The Headhunters
   influenced:
-  - Emerging New Orleans pianists
+    - Emerging New Orleans pianists
   mentors:
-  - Frozine Francis
-  - Alvin Batiste
-  - Ellis Marsalis Jr.
+    - Frozine Francis
+    - Alvin Batiste
+    - Ellis Marsalis Jr.
 spotify_data:
   followers: 945
   id: 4ZHBxjFO23C2Y2smCt67dG
   popularity: 12
-  url: https://open.spotify.com/artist/4ZHBxjFO23C2Y2smCt67dG
+  url: 'https://open.spotify.com/artist/4ZHBxjFO23C2Y2smCt67dG'
 discography_enriched: true
 top_tracks:
-- Pickles (Pickles)
-- Pickles (Church of New Orleans)
-- African Gumbo (Church of New Orleans)
-- Daylight - Remix (Church of New Orleans)
-- Don't Wait (Church of New Orleans)
-- Changes (Church of New Orleans)
-- Sankofa (Church of New Orleans)
-- Close To Me (Church of New Orleans)
-- True (Church of New Orleans)
-- I Can Do Anything (Church of New Orleans)
+  - Pickles (Pickles)
+  - Pickles (Church of New Orleans)
+  - African Gumbo (Church of New Orleans)
+  - Daylight - Remix (Church of New Orleans)
+  - Don't Wait (Church of New Orleans)
+  - Changes (Church of New Orleans)
+  - Sankofa (Church of New Orleans)
+  - Close To Me (Church of New Orleans)
+  - True (Church of New Orleans)
+  - I Can Do Anything (Church of New Orleans)
 external_urls:
-  spotify: https://open.spotify.com/artist/4ZHBxjFO23C2Y2smCt67dG
-  wikipedia: https://en.wikipedia.org/wiki/Kyle_Roussel
+  spotify: 'https://open.spotify.com/artist/4ZHBxjFO23C2Y2smCt67dG'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kyle_Roussel'
 image_path: 03_Resources/source_material/ArtistPortraits/kyle_rousseljohn_boutte.jpg
 biography_enhanced_at: '2025-11-20T06:45:31.354705'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Kyle_Roussel
-- https://www.allaboutjazz.com/musicians/kyle-roussel/
-- https://www.heraldguide.com/news/boutte-native-has-shared-stage-with-music-legends-traveled-across-globe/
-- https://antigravitymagazine.com/column/sound-check-13/
-- https://www.instagram.com/itskyleroussel/?hl=en
-- https://www.neworleans.com/listing/kyle-roussel/46452/
+  - 'https://en.wikipedia.org/wiki/Kyle_Roussel'
+  - 'https://www.allaboutjazz.com/musicians/kyle-roussel/'
+  - >-
+    https://www.heraldguide.com/news/boutte-native-has-shared-stage-with-music-legends-traveled-across-globe/
+  - 'https://antigravitymagazine.com/column/sound-check-13/'
+  - 'https://www.instagram.com/itskyleroussel/?hl=en'
+  - 'https://www.neworleans.com/listing/kyle-roussel/46452/'
 network_extracted: true
 entry_created: '2025-11-20T06:45:31.354720'
 last_updated: '2025-12-23T08:16:11.505850'
+birth_date: '1988-04-26'
+artist_type: person
 ---
 
 ![](kyle_rousseljohn_boutte.jpg)

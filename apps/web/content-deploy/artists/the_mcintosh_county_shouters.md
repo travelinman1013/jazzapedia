@@ -1,12 +1,13 @@
 ---
-title: THE MCINTOSH COUNTY SHOUTERS
+title: The McIntosh County Shouters
 wiki_slug: the-mcintosh-county-shouters
 schema_version: 2
 status: active
 genres:
-- southern gothic
+  - southern gothic
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/the_mcintosh_county_shouters.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/the_mcintosh_county_shouters.jpg
   caption: THE MCINTOSH COUNTY SHOUTERS
   background: solo_singer
 audio_profile:
@@ -15,7 +16,7 @@ audio_profile:
   valence_avg: 0.565
   danceability_avg: 0.589
   acousticness_avg: 0.651
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -13.4
   speechiness_avg: 0.425
   liveness_avg: 0.269
@@ -24,52 +25,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Original McIntosh County Shouters ensemble members
-  - Carletha Sullivan
-  - Freddie Palmer
-  - Brenton Jordan
-  - Smithsonian Folkways
+    - Original McIntosh County Shouters ensemble members
+    - Carletha Sullivan
+    - Freddie Palmer
+    - Brenton Jordan
+    - Smithsonian Folkways
   influenced: []
   mentors:
-  - Lawrence McKiver
-  - Alan Lomax
-  - Moses Asch
+    - Lawrence McKiver
+    - Alan Lomax
+    - Moses Asch
 spotify_data:
   followers: 3864
   id: 4AkVLTXW8K1i7D9AXSN54e
   popularity: 20
-  url: https://open.spotify.com/artist/4AkVLTXW8K1i7D9AXSN54e
+  url: 'https://open.spotify.com/artist/4AkVLTXW8K1i7D9AXSN54e'
 discography_enriched: true
 top_tracks:
-- 'Sign of the Judgement (Wade in the Water: African American Sacred Music Traditions Vol. I-IV)'
-- 'Sign of the Judgement (Wade in the Water, Vol. 2: African-American Congregational Singing)'
-- Oh, Lord, I Want You to Help Me (Spirituals and Shout Songs from the Georgia Coast)
-- Blow, Gabriel (Slave Shout Songs from the Coast of Georgia)
-- Jubilee (Slave Shout Songs from the Coast of Georgia)
-- Wade the Water to My Knees (Slave Shout Songs from the Coast of Georgia)
-- Move, Daniel (Slave Shout Songs from the Coast of Georgia)
-- Watch That Star (Slave Shout Songs from the Coast of Georgia)
-- Determined Spirits (Freedom's Path (Original Motion Picture Soundtrack))
-- 'Lay Down Body (Wade in the Water, Vol. 2: African-American Congregational Singing)'
+  - >-
+    Sign of the Judgement (Wade in the Water: African American Sacred Music
+    Traditions Vol. I-IV)
+  - >-
+    Sign of the Judgement (Wade in the Water, Vol. 2: African-American
+    Congregational Singing)
+  - >-
+    Oh, Lord, I Want You to Help Me (Spirituals and Shout Songs from the Georgia
+    Coast)
+  - 'Blow, Gabriel (Slave Shout Songs from the Coast of Georgia)'
+  - Jubilee (Slave Shout Songs from the Coast of Georgia)
+  - Wade the Water to My Knees (Slave Shout Songs from the Coast of Georgia)
+  - 'Move, Daniel (Slave Shout Songs from the Coast of Georgia)'
+  - Watch That Star (Slave Shout Songs from the Coast of Georgia)
+  - Determined Spirits (Freedom's Path (Original Motion Picture Soundtrack))
+  - >-
+    Lay Down Body (Wade in the Water, Vol. 2: African-American Congregational
+    Singing)
 external_urls:
-  spotify: https://open.spotify.com/artist/4AkVLTXW8K1i7D9AXSN54e
-  wikipedia: https://en.wikipedia.org/wiki/McIntosh_County_Shouters
+  spotify: 'https://open.spotify.com/artist/4AkVLTXW8K1i7D9AXSN54e'
+  wikipedia: 'https://en.wikipedia.org/wiki/McIntosh_County_Shouters'
 image_path: 03_Resources/source_material/ArtistPortraits/the_mcintosh_county_shouters.jpg
 biography_enhanced_at: '2025-12-04T07:53:35.187981'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://bittersoutherner.com/mcintosh-county-shouters
-- https://www.arts.gov/honors/heritage/mcintosh-county-shouters
-- https://www.georgiaencyclopedia.org/articles/arts-culture/mcintosh-county-shouters/
-- https://folkways-media.si.edu/docs/folkways/artwork/SFW40214.pdf
-- https://en.wikipedia.org/wiki/McIntosh_County_Shouters
-- https://newsuns.net/brenton-jordan-ring-shout-a-family-history/
-- https://www.ajc.com/entertainment/mcintosh-county-shouters-preserve-african-traditions/mzoyN56doRKmOjagpcvL3M/
+  - 'https://bittersoutherner.com/mcintosh-county-shouters'
+  - 'https://www.arts.gov/honors/heritage/mcintosh-county-shouters'
+  - >-
+    https://www.georgiaencyclopedia.org/articles/arts-culture/mcintosh-county-shouters/
+  - 'https://folkways-media.si.edu/docs/folkways/artwork/SFW40214.pdf'
+  - 'https://en.wikipedia.org/wiki/McIntosh_County_Shouters'
+  - 'https://newsuns.net/brenton-jordan-ring-shout-a-family-history/'
+  - >-
+    https://www.ajc.com/entertainment/mcintosh-county-shouters-preserve-african-traditions/mzoyN56doRKmOjagpcvL3M/
 network_extracted: true
 entry_created: '2025-12-04T07:53:35.187990'
 last_updated: '2025-12-23T08:16:16.944061'
-origin: Bolden (Briar Patch), McIntosh County, Georgia, United States
+origin: 'Bolden (Briar Patch), McIntosh County, Georgia, United States'
+artist_type: band
 ---
 
 ![](the_mcintosh_county_shouters.jpg)

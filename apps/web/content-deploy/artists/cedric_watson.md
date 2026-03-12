@@ -1,24 +1,24 @@
 ---
-title: cedric watson
+title: Cedric Watson
 wiki_slug: cedric-watson
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1983'
-birth_place: San Felipe, Texas, United States
+birth_place: 'San Felipe, Texas, United States'
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 instruments:
-- eponymous
+  - eponymous
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/cedric_watson.jpg
   caption: cedric watson
   background: non_vocal_instrumentalist
   born: '1983'
-  origin: San Felipe, Texas, United States
+  origin: 'San Felipe, Texas, United States'
 audio_profile:
-  tempo_avg: 128.0
+  tempo_avg: 128
   energy_avg: 0.62
   valence_avg: 0.789
   danceability_avg: 0.598
@@ -32,43 +32,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Corey Ledet
-  - Ed Poullard and J.B. Adams
-  - Chris Stafford
-  - Desireé Champagne
+    - Corey Ledet
+    - Ed Poullard and J.B. Adams
+    - Chris Stafford
+    - Desireé Champagne
   influenced:
-  - Younger Cajun and Zydeco musicians
+    - Younger Cajun and Zydeco musicians
   mentors:
-  - Dexter Ardoin
+    - Dexter Ardoin
 spotify_data:
   followers: 4749
   id: 2a8PsBPX3LvG671uuQGDpq
   popularity: 10
-  url: https://open.spotify.com/artist/2a8PsBPX3LvG671uuQGDpq
+  url: 'https://open.spotify.com/artist/2a8PsBPX3LvG671uuQGDpq'
 discography_enriched: true
 top_tracks:
-- Goin' Down To Louisiana (Goin' Down to Louisiana)
-- Cochon De Lait (Cedric Watson)
-- La Vieille Chanson De Mardi Gras (Cedric Watson)
-- C'est La Vie (Le Troubadour Creole)
-- J'ai Été Tout Autour Du Pays (Cedric Watson)
-- Skip, Skat, Doodle-do (Ma Rainey's Black Bottom (Music from the Netflix Film))
-- Stubben (Stubben)
-- Let The Good Times Roll (Goin' Down to Louisiana)
-- Broken Hearted (Goin' Down to Louisiana)
-- Bijou Créole (L'esprit Créole)
+  - Goin' Down To Louisiana (Goin' Down to Louisiana)
+  - Cochon De Lait (Cedric Watson)
+  - La Vieille Chanson De Mardi Gras (Cedric Watson)
+  - C'est La Vie (Le Troubadour Creole)
+  - J'ai Été Tout Autour Du Pays (Cedric Watson)
+  - >-
+    Skip, Skat, Doodle-do (Ma Rainey's Black Bottom (Music from the Netflix
+    Film))
+  - Stubben (Stubben)
+  - Let The Good Times Roll (Goin' Down to Louisiana)
+  - Broken Hearted (Goin' Down to Louisiana)
+  - Bijou Créole (L'esprit Créole)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7bdc7aa6-8645-4102-849a-577d2398a6bb
-  spotify: https://open.spotify.com/artist/2a8PsBPX3LvG671uuQGDpq
-  wikipedia: https://en.wikipedia.org/wiki/Cedric_Watson
+  musicbrainz: 'https://musicbrainz.org/artist/7bdc7aa6-8645-4102-849a-577d2398a6bb'
+  spotify: 'https://open.spotify.com/artist/2a8PsBPX3LvG671uuQGDpq'
+  wikipedia: 'https://en.wikipedia.org/wiki/Cedric_Watson'
 image_path: 03_Resources/source_material/ArtistPortraits/cedric_watson.jpg
 biography_enhanced_at: '2025-10-20T09:05:53.101656'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://montanafolkfestival.com/cedric-watson-and-bijou-creole/
-- https://en.wikipedia.org/wiki/Cedric_Watson
-- https://blogs.loc.gov/folklife/2020/04/homegrown-plus-cedric-watson-trio/
+  - 'https://montanafolkfestival.com/cedric-watson-and-bijou-creole/'
+  - 'https://en.wikipedia.org/wiki/Cedric_Watson'
+  - 'https://blogs.loc.gov/folklife/2020/04/homegrown-plus-cedric-watson-trio/'
 network_extracted: true
 entry_created: '2025-10-20T09:05:53.101667'
 last_updated: '2025-12-23T08:16:06.602667'
@@ -76,6 +78,7 @@ disambiguation: Zydeco accordionist
 gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:50:31.223065'
 musicbrainz_id: 7bdc7aa6-8645-4102-849a-577d2398a6bb
+origin: 'Lafayette, Louisiana, United States'
 ---
 
 ![](cedric_watson.jpg)

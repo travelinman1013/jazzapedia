@@ -9,7 +9,7 @@ infobox:
   caption: Kristin Diable
   background: solo_singer
 audio_profile:
-  tempo_avg: 120.0
+  tempo_avg: 120
   energy_avg: 0.491
   valence_avg: 0.396
   danceability_avg: 0.49
@@ -23,56 +23,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dave Cobb
-  - The City
-  - Jeffrey Roedel
+    - Dave Cobb
+    - The City
+    - Jeffrey Roedel
   influenced:
-  - Emerging New Orleans songwriters
+    - Emerging New Orleans songwriters
   mentors:
-  - Terence Simien
-  - Marc Broussard
+    - Terence Simien
+    - Marc Broussard
 spotify_data:
   followers: 5521
   id: 54pjCT6b2kZAQuHsS4lR43
   popularity: 16
-  url: https://open.spotify.com/artist/54pjCT6b2kZAQuHsS4lR43
+  url: 'https://open.spotify.com/artist/54pjCT6b2kZAQuHsS4lR43'
 discography_enriched: true
 top_tracks:
-- Bird on a Wire (Create Your Own Mythology)
-- Honey Leave the Light On (Create Your Own Mythology)
-- I'll Make Time for You (Create Your Own Mythology)
-- Deepest Blue (Create Your Own Mythology)
-- Time Will Wait (Create Your Own Mythology)
-- Rock and Roll Goes to Heaven (Call It a Miracle)
-- Hold Steady (Create Your Own Mythology)
-- Driving in Your Car (Create Your Own Mythology)
-- True Devotion (Create Your Own Mythology)
-- I've Been Searching (Kristin Diable and the City)
+  - Bird on a Wire (Create Your Own Mythology)
+  - Honey Leave the Light On (Create Your Own Mythology)
+  - I'll Make Time for You (Create Your Own Mythology)
+  - Deepest Blue (Create Your Own Mythology)
+  - Time Will Wait (Create Your Own Mythology)
+  - Rock and Roll Goes to Heaven (Call It a Miracle)
+  - Hold Steady (Create Your Own Mythology)
+  - Driving in Your Car (Create Your Own Mythology)
+  - True Devotion (Create Your Own Mythology)
+  - I've Been Searching (Kristin Diable and the City)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b769c53e-617f-4dd8-9577-59907a06d928
-  spotify: https://open.spotify.com/artist/54pjCT6b2kZAQuHsS4lR43
+  musicbrainz: 'https://musicbrainz.org/artist/b769c53e-617f-4dd8-9577-59907a06d928'
+  spotify: 'https://open.spotify.com/artist/54pjCT6b2kZAQuHsS4lR43'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/kristin_diable.jpg
 biography_enhanced_at: '2025-11-24T08:43:59.636771'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.loyno.edu/academics/faculty-and-staff-directory/kristin-diable
-- https://www.myneworleans.com/kristin-diable/
-- https://kristindiable.com/impossible-things
-- https://www.btdfoundation.org/kristin-diable/
-- https://americansongwriter.com/writer-week-kristin-diable/
+  - 'https://www.loyno.edu/academics/faculty-and-staff-directory/kristin-diable'
+  - 'https://www.myneworleans.com/kristin-diable/'
+  - 'https://kristindiable.com/impossible-things'
+  - 'https://www.btdfoundation.org/kristin-diable/'
+  - 'https://americansongwriter.com/writer-week-kristin-diable/'
 network_extracted: true
 entry_created: '2025-11-24T08:43:59.636787'
 last_updated: '2025-12-23T08:16:11.492195'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e843bcd7-cd0b-4e27-9e6a-ed43a086ff0c
-  name: Kristin Diable & the City
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e843bcd7-cd0b-4e27-9e6a-ed43a086ff0c
+    name: Kristin Diable & the City
 musicbrainz_id: b769c53e-617f-4dd8-9577-59907a06d928
-origin: Baton Rouge, Louisiana, USA (birthplace); New Orleans, Louisiana, USA (current base/origin)
+origin: >-
+  Baton Rouge, Louisiana, USA (birthplace); New Orleans, Louisiana, USA (current
+  base/origin)
+birth_place: 'Baton Rouge, Louisiana, United States'
+artist_type: person
 ---
 
 ![](kristin_diable.jpg)

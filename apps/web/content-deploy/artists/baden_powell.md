@@ -5,21 +5,21 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1937-08-06'
-birth_place: Rio de Janeiro
+birth_place: 'Varre-e-Sai, Rio de Janeiro, Brazil'
 death_date: '2000-09-26'
 genres:
-- bossa nova
-- brazilian jazz
-- samba
-- latin jazz
+  - bossa nova
+  - brazilian jazz
+  - samba
+  - latin jazz
 instruments:
-- guitar
+  - guitar
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e3b3fac0-f955-4bc7-bfdb-decc8b4d861f
-  name: Baden Powell & Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e3b3fac0-f955-4bc7-bfdb-decc8b4d861f
+    name: Baden Powell & Trio
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/baden_powell.jpg
   caption: Baden Powell
@@ -42,64 +42,70 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Vinícius de Moraes
-  - Billy Blanco
-  - Paulo César Pinheiro
-  - Elis Regina
-  - Sílvia Telles
-  - Ed Lincoln
-  - Antônio Carlos Jobim
-  - Jimmy Pratt
+    - Vinícius de Moraes
+    - Billy Blanco
+    - Paulo César Pinheiro
+    - Elis Regina
+    - Sílvia Telles
+    - Ed Lincoln
+    - Antônio Carlos Jobim
+    - Jimmy Pratt
   influenced:
-  - Contemporary Brazilian guitarists (e.g., later generations of MPB and Brazilian jazz players)
+    - >-
+      Contemporary Brazilian guitarists (e.g., later generations of MPB and
+      Brazilian jazz players)
   mentors:
-  - Jayme “Meira” Florence
-  - Andrés Segovia (influence via recordings)
-  - Francisco Tárrega (influence via repertoire)
-  - Garoto (Aníbal Augusto Sardinha)
+    - Jayme “Meira” Florence
+    - Andrés Segovia (influence via recordings)
+    - Francisco Tárrega (influence via repertoire)
+    - Garoto (Aníbal Augusto Sardinha)
 spotify_data:
   followers: 182766
   id: 0VSgciOd32tP2Yna1w4vDr
   popularity: 45
-  url: https://open.spotify.com/artist/0VSgciOd32tP2Yna1w4vDr
+  url: 'https://open.spotify.com/artist/0VSgciOd32tP2Yna1w4vDr'
 discography_enriched: true
 top_tracks:
-- Tristeza (Tristeza on Guitar)
-- Canto De Ossanha (Os Afro - Sambas De Baden E Vinícius)
-- Consolação (Baden Powell À Vontade)
-- Canto De Xangô (Os Afro - Sambas De Baden E Vinícius)
-- Canto de Ossanha (Os Afro-Sambas)
-- Apelo (Tempo Feliz)
-- Round About Midnight (Tristeza on Guitar)
-- Canto De Iemanjá (Os Afro - Sambas De Baden E Vinícius)
-- Tempo De Amor (Os Afro - Sambas De Baden E Vinícius)
-- Berimbau (Baden Powell À Vontade)
+  - Tristeza (Tristeza on Guitar)
+  - Canto De Ossanha (Os Afro - Sambas De Baden E Vinícius)
+  - Consolação (Baden Powell À Vontade)
+  - Canto De Xangô (Os Afro - Sambas De Baden E Vinícius)
+  - Canto de Ossanha (Os Afro-Sambas)
+  - Apelo (Tempo Feliz)
+  - Round About Midnight (Tristeza on Guitar)
+  - Canto De Iemanjá (Os Afro - Sambas De Baden E Vinícius)
+  - Tempo De Amor (Os Afro - Sambas De Baden E Vinícius)
+  - Berimbau (Baden Powell À Vontade)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ba617653-44e4-404f-91cd-f74adce5687d
-  spotify: https://open.spotify.com/artist/0VSgciOd32tP2Yna1w4vDr
-  wikipedia: https://en.wikipedia.org/wiki/Baden_Powell_(guitarist)
+  musicbrainz: 'https://musicbrainz.org/artist/ba617653-44e4-404f-91cd-f74adce5687d'
+  spotify: 'https://open.spotify.com/artist/0VSgciOd32tP2Yna1w4vDr'
+  wikipedia: 'https://en.wikipedia.org/wiki/Baden_Powell_(guitarist)'
 image_path: 03_Resources/source_material/ArtistPortraits/baden_powell.jpg
 biography_enhanced_at: '2025-12-07T04:43:06.122393'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://musicabrasileira.org/baden-powell-lembrancas/
-- https://www.allaboutjazz.com/musicians/baden-powell/
-- https://www.classicsforkids.com/composer/baden-powell/
-- https://allerlei2013riffmaster.wordpress.com/2023/05/23/baden-powell-swings-with-jimmy-pratt-developtments-1963/
-- https://m.sunnysiderecords.com/index.php/artist/id/189
-- http://www.tigertail.org/baden.html
-- https://www.groupmuse.com/events/11171-rhythm-and-ritual-the-music-of-baden-powell
-- https://www.pcmsconcerts.org/composer/baden-powell/
+  - 'https://musicabrasileira.org/baden-powell-lembrancas/'
+  - 'https://www.allaboutjazz.com/musicians/baden-powell/'
+  - 'https://www.classicsforkids.com/composer/baden-powell/'
+  - >-
+    https://allerlei2013riffmaster.wordpress.com/2023/05/23/baden-powell-swings-with-jimmy-pratt-developtments-1963/
+  - 'https://m.sunnysiderecords.com/index.php/artist/id/189'
+  - 'http://www.tigertail.org/baden.html'
+  - >-
+    https://www.groupmuse.com/events/11171-rhythm-and-ritual-the-music-of-baden-powell
+  - 'https://www.pcmsconcerts.org/composer/baden-powell/'
 network_extracted: true
 entry_created: '2025-12-07T04:43:06.122425'
 last_updated: '2025-12-23T08:16:05.052064'
 gender: Male
 musicbrainz_id: ba617653-44e4-404f-91cd-f74adce5687d
 tags:
-- bossa nova
-- jazz
-- latin
+  - bossa nova
+  - jazz
+  - latin
+is_active: false
+origin: 'Rio de Janeiro, Rio de Janeiro, Brazil'
 ---
 
 ![](baden_powell.jpg)

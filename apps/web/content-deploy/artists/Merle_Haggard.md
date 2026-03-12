@@ -1,38 +1,38 @@
 ---
-title: MERLE HAGGARD
+title: Merle Haggard
 wiki_slug: merle-haggard
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1937-04-06'
-birth_place: Oildale
+birth_place: 'Oildale, California, United States'
 death_date: '2016-04-06'
 genres:
-- country
-- traditional country
-- honky tonk
+  - country
+  - traditional country
+  - honky tonk
 instruments:
-- guitar
-- acoustic guitar
-- lead vocals
-- spoken vocals
-- background vocals
+  - guitar
+  - acoustic guitar
+  - lead vocals
+  - spoken vocals
+  - background vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 21683983-b1e6-4bbb-bb88-f0f1885fa63d
-  name: Orquestra Was
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7f06d419-4b14-452b-8334-616a9533e856
-  name: The Buckaroos
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2dae7fe4-40a4-4089-b9da-c3f1a6b4490c
-  name: Bob Wills and His Texas Playboys
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 21683983-b1e6-4bbb-bb88-f0f1885fa63d
+    name: Orquestra Was
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7f06d419-4b14-452b-8334-616a9533e856
+    name: The Buckaroos
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2dae7fe4-40a4-4089-b9da-c3f1a6b4490c
+    name: Bob Wills and His Texas Playboys
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/merle_haggard.jpg
   caption: MERLE HAGGARD
@@ -55,59 +55,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Strangers
-  - Wynn Stewart
-  - Fuzzy Owen
+    - The Strangers
+    - Wynn Stewart
+    - Fuzzy Owen
   influenced:
-  - Outlaw Country Movement
-  - Country Music Artists (General)
+    - Outlaw Country Movement
+    - Country Music Artists (General)
   mentors:
-  - Lefty Frizzell
-  - Jimmie Rodgers
-  - Bob Wills
-  - Johnny Cash
+    - Lefty Frizzell
+    - Jimmie Rodgers
+    - Bob Wills
+    - Johnny Cash
 spotify_data:
   followers: 1522235
   id: 2ptmyXoL7poH6Zq62h1QT9
   popularity: 61
-  url: https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9
+  url: 'https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9'
 discography_enriched: true
 top_tracks:
-- 'Pancho and Lefty (The Essential Merle Haggard: The Epic Years)'
-- Mama Tried (Mama Tried/ Pride In What I Am)
-- I Think I'll Just Stay Here And Drink (Okie From Muskogee)
-- Fightin Side Of Me (American Country Legend)
-- I Think I'll Just Stay Here And Drink (Back To The Barrooms)
-- 'Big City (The Essential Merle Haggard: The Epic Years)'
-- 'Are the Good Times Really Over (I Wish a Buck Was Still Silver) (The Essential Merle Haggard: The Epic Years)'
-- Okie From Muskogee (Okie From Muskogee)
-- Pancho and Lefty (Walking the Line)
-- 'Twinkle, Twinkle Lucky Star (The Essential Merle Haggard: The Epic Years)'
+  - 'Pancho and Lefty (The Essential Merle Haggard: The Epic Years)'
+  - Mama Tried (Mama Tried/ Pride In What I Am)
+  - I Think I'll Just Stay Here And Drink (Okie From Muskogee)
+  - Fightin Side Of Me (American Country Legend)
+  - I Think I'll Just Stay Here And Drink (Back To The Barrooms)
+  - 'Big City (The Essential Merle Haggard: The Epic Years)'
+  - >-
+    Are the Good Times Really Over (I Wish a Buck Was Still Silver) (The
+    Essential Merle Haggard: The Epic Years)
+  - Okie From Muskogee (Okie From Muskogee)
+  - Pancho and Lefty (Walking the Line)
+  - 'Twinkle, Twinkle Lucky Star (The Essential Merle Haggard: The Epic Years)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/deb2448c-6fdf-4d31-921e-757630515dbd
-  spotify: https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9
+  musicbrainz: 'https://musicbrainz.org/artist/deb2448c-6fdf-4d31-921e-757630515dbd'
+  spotify: 'https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9'
   wikipedia: Not provided in search results
 image_path: 03_Resources/source_material/ArtistPortraits/merle_haggard.jpg
 biography_enhanced_at: '2025-12-04T08:02:36.001195'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- biography.com
-- britannica.com
-- merlehaggard.com
-- countrymusichalloffame.org
-- sandiegotroubadour.com
+  - biography.com
+  - britannica.com
+  - merlehaggard.com
+  - countrymusichalloffame.org
+  - sandiegotroubadour.com
 network_extracted: true
 entry_created: '2025-12-04T08:02:36.001207'
 last_updated: '2025-12-23T08:16:03.288600'
-disambiguation: US country singer, guitarist, fiddler & songwriter
+disambiguation: 'US country singer, guitarist, fiddler & songwriter'
 gender: Male
 musicbrainz_id: deb2448c-6fdf-4d31-921e-757630515dbd
 tags:
-- 2008 universal fire victim
-- american
-- country
-
+  - 2008 universal fire victim
+  - american
+  - country
+is_active: false
+origin: 'Bakersfield, California, United States'
 ---
 
 ![](merle_haggard.jpg)

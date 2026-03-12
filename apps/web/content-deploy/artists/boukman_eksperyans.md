@@ -1,12 +1,12 @@
 ---
-title: boukman eksperyans
+title: Boukman Eksperyans
 wiki_slug: boukman-eksperyans
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
-birth_date: '1987'
+birth_date: '1978'
 genres:
-- afro house
+  - afro house
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/boukman_eksperyans.jpg
   caption: boukman eksperyans
@@ -27,104 +27,104 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mimerose 'Manze' Beaubrun
-  - Daniel Beaubrun
-  - Michael Brun
-  - Paul Beaubrun
-  - TROUBLEBOY HITMAKER
+    - Mimerose 'Manze' Beaubrun
+    - Daniel Beaubrun
+    - Michael Brun
+    - Paul Beaubrun
+    - TROUBLEBOY HITMAKER
   influenced:
-  - Paul Beaubrun
-  - Younger mizik rasin and Haitian fusion artists
+    - Paul Beaubrun
+    - Younger mizik rasin and Haitian fusion artists
   mentors:
-  - Théodore Beaubrun (Languichatte Debordus)
-  - Jimi Hendrix
+    - Théodore Beaubrun (Languichatte Debordus)
+    - Jimi Hendrix
 spotify_data:
   followers: 12354
   id: 1d8NAgmltXoGvjZmpxgHzp
   popularity: 35
-  url: https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp
+  url: 'https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp'
 discography_enriched: true
 top_tracks:
-- Imamou
-- Ke M Pa Sote (Vodoo Adjae)
-- Imamou Lele (Revolution)
-- Kalfou Danjere (Kalfou Danjere)
-- Pèpèyè (Isit E Kounyea La)
-- Tipa Tipa (Revolution)
-- Mayi A Gaye (Kalfou Danjere)
-- Se Kreyo L Nou Ye (Vodoo Adjae)
-- Tribylasion (Vodoo Adjae)
-- Zombi San Manman (Isit E Kounyea La)
+  - Imamou
+  - Ke M Pa Sote (Vodoo Adjae)
+  - Imamou Lele (Revolution)
+  - Kalfou Danjere (Kalfou Danjere)
+  - Pèpèyè (Isit E Kounyea La)
+  - Tipa Tipa (Revolution)
+  - Mayi A Gaye (Kalfou Danjere)
+  - Se Kreyo L Nou Ye (Vodoo Adjae)
+  - Tribylasion (Vodoo Adjae)
+  - Zombi San Manman (Isit E Kounyea La)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/0e2577fd-116c-4661-98c1-901c9e1e66a4
-  spotify: https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp
-  wikipedia: https://en.wikipedia.org/wiki/Boukman_Eksperyans
+  musicbrainz: 'https://musicbrainz.org/artist/0e2577fd-116c-4661-98c1-901c9e1e66a4'
+  spotify: 'https://open.spotify.com/artist/1d8NAgmltXoGvjZmpxgHzp'
+  wikipedia: 'https://en.wikipedia.org/wiki/Boukman_Eksperyans'
 image_path: 03_Resources/source_material/ArtistPortraits/boukman_eksperyans.jpg
 biography_enhanced_at: '2025-11-02T07:33:56.274475'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Boukman_Eksperyans
-- https://afropop.org/articles/best-of-the-beat-on-afropop-boukman-eksperyans-haitis-real-revolutionaries
-- https://www.allmusic.com/artist/boukman-eksperyans-mn0000771568
-- https://www.viberate.com/artist/boukman-eksperyans/
+  - 'https://en.wikipedia.org/wiki/Boukman_Eksperyans'
+  - >-
+    https://afropop.org/articles/best-of-the-beat-on-afropop-boukman-eksperyans-haitis-real-revolutionaries
+  - 'https://www.allmusic.com/artist/boukman-eksperyans-mn0000771568'
+  - 'https://www.viberate.com/artist/boukman-eksperyans/'
 network_extracted: true
 entry_created: '2025-11-02T07:33:56.274491'
 last_updated: '2025-12-23T08:16:05.965679'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: af0d3c2f-9d0b-4312-80a3-a859fce3ab06
-  name: Theodore Beaubrun Jr.
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b67909e0-ed2e-420e-beba-efd655ecc609
-  name: Daniel Beaubrun
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 69933018-54b3-465d-87f7-f9be49570030
-  name: Marjorie Beaubrun
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2582c6ca-1dd1-46e6-b99a-f14eac3d3deb
-  name: Mimerose Beaubrun
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bbd06fc0-edac-4e5c-98d9-245124eb2ee9
-  name: Hans Dominique
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: df0774d5-6b58-4e20-b871-35da83904ad7
-  name: Mackel Jean-Baptiste
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6013ba2d-a246-4d6e-b264-520b9986aea0
-  name: Maguy Jean-Louis
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 570e1ed5-89e7-416e-b969-d63caaeff7c8
-  name: Henry Pierre Joseph
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f7ca85b2-f9e5-4adb-a959-c00674375ab5
-  name: Gary Seney
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5615615e-f00b-47a5-8836-6ee492d543c5
-  name: Michel Melthon Lynch
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: af0d3c2f-9d0b-4312-80a3-a859fce3ab06
+    name: Theodore Beaubrun Jr.
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b67909e0-ed2e-420e-beba-efd655ecc609
+    name: Daniel Beaubrun
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 69933018-54b3-465d-87f7-f9be49570030
+    name: Marjorie Beaubrun
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2582c6ca-1dd1-46e6-b99a-f14eac3d3deb
+    name: Mimerose Beaubrun
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bbd06fc0-edac-4e5c-98d9-245124eb2ee9
+    name: Hans Dominique
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: df0774d5-6b58-4e20-b871-35da83904ad7
+    name: Mackel Jean-Baptiste
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6013ba2d-a246-4d6e-b264-520b9986aea0
+    name: Maguy Jean-Louis
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 570e1ed5-89e7-416e-b969-d63caaeff7c8
+    name: Henry Pierre Joseph
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f7ca85b2-f9e5-4adb-a959-c00674375ab5
+    name: Gary Seney
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5615615e-f00b-47a5-8836-6ee492d543c5
+    name: Michel Melthon Lynch
 musicbrainz_id: 0e2577fd-116c-4661-98c1-901c9e1e66a4
-origin: Port-au-Prince
-
+origin: 'Port-au-Prince, Haiti, United States'
 ---
 
 ![](boukman_eksperyans.jpg)

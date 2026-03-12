@@ -1,17 +1,17 @@
 ---
-title: Gap Band
+title: The Gap Band
 wiki_slug: gap-band
 schema_version: 2
 status: active
 genres:
-- funk
-- quiet storm
+  - funk
+  - quiet storm
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Gap_Band.jpg
   caption: Gap Band
   background: solo_singer
 audio_profile:
-  tempo_avg: 110.0
+  tempo_avg: 110
   energy_avg: 0.632
   valence_avg: 0.745
   danceability_avg: 0.706
@@ -25,52 +25,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Charlie Wilson
-  - Ronnie Wilson
-  - Robert Wilson
-  - Dawn Silva
+    - Charlie Wilson
+    - Ronnie Wilson
+    - Robert Wilson
+    - Dawn Silva
   influenced:
-  - Snoop Dogg
-  - Mary J. Blige
-  - Blackstreet
-  - R. Kelly
+    - Snoop Dogg
+    - Mary J. Blige
+    - Blackstreet
+    - R. Kelly
   mentors:
-  - Leon Russell
+    - Leon Russell
 spotify_data:
   followers: 1172819
   id: 4TwHRCIu3Xg9fjS3l7owkp
   popularity: 54
-  url: https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp
+  url: 'https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp'
 discography_enriched: true
 top_tracks:
-- Outstanding - Original 12" Mix (The 12" Collection And More (Funk Essentials))
-- Outstanding (The Gap Band IV)
-- You Dropped A Bomb On Me (The Gap Band IV)
-- Burn Rubber On Me (Why You Wanna Hurt Me)
-- Yearning For Your Love (The Gap Band III)
-- Early In The Morning (The Gap Band IV)
-- I Don't Believe You Want To Get Up And Dance (Oops, Up Side Your Head)
-- Early In The Morning - 12" Version (The 12" Collection And More (Funk Essentials))
-- Party Train (The Gap Band V - Jammin' (Deluxe Edition))
-- Burn Rubber On Me (Why You Wanna Hurt Me) (The Gap Band III)
+  - >-
+    Outstanding - Original 12" Mix (The 12" Collection And More (Funk
+    Essentials))
+  - Outstanding (The Gap Band IV)
+  - You Dropped A Bomb On Me (The Gap Band IV)
+  - Burn Rubber On Me (Why You Wanna Hurt Me)
+  - Yearning For Your Love (The Gap Band III)
+  - Early In The Morning (The Gap Band IV)
+  - 'I Don''t Believe You Want To Get Up And Dance (Oops, Up Side Your Head)'
+  - >-
+    Early In The Morning - 12" Version (The 12" Collection And More (Funk
+    Essentials))
+  - Party Train (The Gap Band V - Jammin' (Deluxe Edition))
+  - Burn Rubber On Me (Why You Wanna Hurt Me) (The Gap Band III)
 external_urls:
-  spotify: https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp
-  wikipedia: https://en.wikipedia.org/wiki/The_Gap_Band
+  spotify: 'https://open.spotify.com/artist/4TwHRCIu3Xg9fjS3l7owkp'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Gap_Band'
 image_path: 03_Resources/source_material/ArtistPortraits/Gap_Band.jpg
 biography_enhanced_at: '2025-10-19T12:40:31.900460'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.classicrockhistory.com/complete-list-of-the-gap-band-members/
-- https://en.wikipedia.org/wiki/The_Gap_Band
-- https://www.imdb.com/name/nm2063134/bio/
-- http://www.pmusicgroup.com/client/the-gap-band/
-- https://blackpast.org/african-american-history/the-gap-band-1974-2010/
-- https://www.laphil.com/musicdb/artists/1929/the-gap-band
+  - 'https://www.classicrockhistory.com/complete-list-of-the-gap-band-members/'
+  - 'https://en.wikipedia.org/wiki/The_Gap_Band'
+  - 'https://www.imdb.com/name/nm2063134/bio/'
+  - 'http://www.pmusicgroup.com/client/the-gap-band/'
+  - 'https://blackpast.org/african-american-history/the-gap-band-1974-2010/'
+  - 'https://www.laphil.com/musicdb/artists/1929/the-gap-band'
 network_extracted: true
 entry_created: '2025-10-19T12:40:31.900484'
 last_updated: '2025-12-23T08:16:02.086296'
-origin: Tulsa, Oklahoma, United States
+origin: 'Tulsa, Oklahoma, United States'
+artist_type: person
 ---
 
 ![](Gap_Band.jpg)

@@ -3,16 +3,20 @@ title: Mary Flower
 wiki_slug: mary-flower
 schema_version: 2
 status: active
-birth_place: Delphi, Indiana, United States (birthplace); Portland, Oregon, United States (current base)
+birth_place: >-
+  Delphi, Indiana, United States (birthplace); Portland, Oregon, United States
+  (current base)
 genres:
-- ragtime
-- country blues
-- blues
+  - ragtime
+  - country blues
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/mary_flower.jpg
   caption: Mary Flower
   background: solo_singer
-  origin: Delphi, Indiana, United States (birthplace); Portland, Oregon, United States (current base)
+  origin: >-
+    Delphi, Indiana, United States (birthplace); Portland, Oregon, United States
+    (current base)
 audio_profile:
   tempo_avg: 123.5
   energy_avg: 0.321
@@ -28,52 +32,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Katy Moffatt
-  - Pat Donohue
-  - Mother Folkers
-  - Jorma Kaukonen
-  - Tim O'Brien & Mollie O'Brien
-  - Geoff Muldaur
-  - Campbell Brothers
+    - Katy Moffatt
+    - Pat Donohue
+    - Mother Folkers
+    - Jorma Kaukonen
+    - Tim O'Brien & Mollie O'Brien
+    - Geoff Muldaur
+    - Campbell Brothers
   influenced:
-  - Caroline Peyton
-  - Numerous students and proteges
+    - Caroline Peyton
+    - Numerous students and proteges
   mentors:
-  - Yank Rachell
+    - Yank Rachell
 spotify_data:
   followers: 1473
   id: 58sXz2QNZ3Zr0JlQ198mg2
   popularity: 7
-  url: https://open.spotify.com/artist/58sXz2QNZ3Zr0JlQ198mg2
+  url: 'https://open.spotify.com/artist/58sXz2QNZ3Zr0JlQ198mg2'
 discography_enriched: true
 top_tracks:
-- Death Letter Blues (Misery Loves Company)
-- Arkansas Ramble (Ragtime Gal)
-- Hard Day Blues (Misery Loves Company)
-- Virginia Bound (Ladyfingers)
-- Baby Please Don't Go - Green Onions (Ladyfingers)
-- I Almost Lost My Mind (Ladyfingers)
-- Ragtag Rag (When My Bluebird Sings)
-- Suspendimento (When My Bluebird Sings)
-- My Bluebird (When My Bluebird Sings)
-- Ruckus Rag (When My Bluebird Sings)
+  - Death Letter Blues (Misery Loves Company)
+  - Arkansas Ramble (Ragtime Gal)
+  - Hard Day Blues (Misery Loves Company)
+  - Virginia Bound (Ladyfingers)
+  - Baby Please Don't Go - Green Onions (Ladyfingers)
+  - I Almost Lost My Mind (Ladyfingers)
+  - Ragtag Rag (When My Bluebird Sings)
+  - Suspendimento (When My Bluebird Sings)
+  - My Bluebird (When My Bluebird Sings)
+  - Ruckus Rag (When My Bluebird Sings)
 external_urls:
-  spotify: https://open.spotify.com/artist/58sXz2QNZ3Zr0JlQ198mg2
-  wikipedia: https://en.wikipedia.org/wiki/Mary_Flower
+  spotify: 'https://open.spotify.com/artist/58sXz2QNZ3Zr0JlQ198mg2'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mary_Flower'
 image_path: 03_Resources/source_material/ArtistPortraits/mary_flower.jpg
 biography_enhanced_at: '2025-11-12T14:59:10.301979'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Mary_Flower
-- https://maryflower.com/press-kit/mary-flower-short-bio/
-- https://maryflower.com/press-kit/bio/
-- https://centrum.org/faculty-profile/name/mary-flower/
-- https://downatthecrossroads.wordpress.com/2019/12/16/acoustic-guitar-maestro-mary-flower-is-livin-with-the-blues-again/
-- https://visitstaugustine.com/musician/mary-flower
+  - 'https://en.wikipedia.org/wiki/Mary_Flower'
+  - 'https://maryflower.com/press-kit/mary-flower-short-bio/'
+  - 'https://maryflower.com/press-kit/bio/'
+  - 'https://centrum.org/faculty-profile/name/mary-flower/'
+  - >-
+    https://downatthecrossroads.wordpress.com/2019/12/16/acoustic-guitar-maestro-mary-flower-is-livin-with-the-blues-again/
+  - 'https://visitstaugustine.com/musician/mary-flower'
 network_extracted: true
 entry_created: '2025-11-12T14:59:10.301991'
 last_updated: '2025-12-23T08:16:12.771341'
+artist_type: person
 ---
 
 ![](mary_flower.jpg)

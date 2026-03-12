@@ -1,18 +1,18 @@
 ---
-title: lizz wright
+title: Lizz Wright
 wiki_slug: lizz-wright
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1980-01-22'
-birth_place: Hahira
+birth_place: 'Hahira, Georgia, United States'
 genres:
-- vocal jazz
-- smooth jazz
-- jazz
+  - vocal jazz
+  - smooth jazz
+  - jazz
 instruments:
-- lead vocals
-- background vocals
+  - lead vocals
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lizz_wright.jpg
   caption: lizz wright
@@ -34,49 +34,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Larry Klein
-  - Meshell Ndegeocello
-  - Angélique Kidjo
-  - Joe Henry
-  - Bobby Ray Sparks II, Ben Zwerin, Ivan Edwards, Chris Bruce
+    - Larry Klein
+    - Meshell Ndegeocello
+    - Angélique Kidjo
+    - Joe Henry
+    - 'Bobby Ray Sparks II, Ben Zwerin, Ivan Edwards, Chris Bruce'
   influenced:
-  - Emerging jazz and soul vocalists
+    - Emerging jazz and soul vocalists
   mentors:
-  - Dr. Dwight Coleman
-  - Dr. Richard Harper
-  - Billie Holiday
+    - Dr. Dwight Coleman
+    - Dr. Richard Harper
+    - Billie Holiday
 spotify_data:
   followers: 123312
   id: 3K0BfjMh2dS8WITuiMuGGW
   popularity: 47
-  url: https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW
+  url: 'https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW'
 discography_enriched: true
 top_tracks:
-- Hit The Ground (Dreaming Wide Awake)
-- Stars Fell On Alabama (Grace)
-- I'm Confessin' (Dreaming Wide Awake)
-- Hit The Ground (Dreaming Wide Awake)
-- My Heart (The Orchard)
-- Hit The Ground (Dreaming Wide Awake)
-- I'm Confessin' (Dreaming Wide Awake)
-- I'm Confessin' (Dreaming Wide Awake)
-- A Taste Of Honey (Dreaming Wide Awake)
-- Seems I’m Never Tired Lovin’ You (Grace)
+  - Hit The Ground (Dreaming Wide Awake)
+  - Stars Fell On Alabama (Grace)
+  - I'm Confessin' (Dreaming Wide Awake)
+  - Hit The Ground (Dreaming Wide Awake)
+  - My Heart (The Orchard)
+  - Hit The Ground (Dreaming Wide Awake)
+  - I'm Confessin' (Dreaming Wide Awake)
+  - I'm Confessin' (Dreaming Wide Awake)
+  - A Taste Of Honey (Dreaming Wide Awake)
+  - Seems I’m Never Tired Lovin’ You (Grace)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/31303fcd-f78d-4693-aafa-9b274061b032
-  spotify: https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW
-  wikipedia: https://en.wikipedia.org/wiki/Lizz_Wright
+  musicbrainz: 'https://musicbrainz.org/artist/31303fcd-f78d-4693-aafa-9b274061b032'
+  spotify: 'https://open.spotify.com/artist/3K0BfjMh2dS8WITuiMuGGW'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lizz_Wright'
 image_path: 03_Resources/source_material/ArtistPortraits/lizz_wright.jpg
 biography_enhanced_at: '2025-11-06T13:31:31.201633'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.lizzwright.net/about
-- https://atljazzfest.com/artists/lizz-wright/
-- https://concord.com/artist/lizz-wright/
-- https://www.jazzinchicago.org/chicago-in-tune-jazz-2021/lizz-wright
-- https://jazztimes.com/features/interviews/the-lizz-wright-interview/
-- https://www.detroitjazzfest.org/artist/lizz-wright/
+  - 'https://www.lizzwright.net/about'
+  - 'https://atljazzfest.com/artists/lizz-wright/'
+  - 'https://concord.com/artist/lizz-wright/'
+  - 'https://www.jazzinchicago.org/chicago-in-tune-jazz-2021/lizz-wright'
+  - 'https://jazztimes.com/features/interviews/the-lizz-wright-interview/'
+  - 'https://www.detroitjazzfest.org/artist/lizz-wright/'
 network_extracted: true
 entry_created: '2025-11-06T13:31:31.201658'
 last_updated: '2025-12-23T08:16:03.059955'
@@ -84,9 +84,9 @@ disambiguation: US jazz & gospel singer
 gender: Female
 musicbrainz_id: 31303fcd-f78d-4693-aafa-9b274061b032
 tags:
-- blues
-- gospel
-- jazz
+  - blues
+  - gospel
+  - jazz
 ---
 
 ![](lizz_wright.jpg)

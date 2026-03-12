@@ -1,20 +1,21 @@
 ---
-title: Nancy Wilson, Cannonball Adderly
+title: 'Nancy Wilson, Cannonball Adderly'
 wiki_slug: nancy-wilson-cannonball-adderly
 schema_version: 2
 status: active
-birth_place: Chillicothe, Ohio, United States
+birth_place: 'Chillicothe, Ohio, United States'
 genres:
-- hard bop
-- jazz
-- bebop
-- cool jazz
-- jazz blues
+  - hard bop
+  - jazz
+  - bebop
+  - cool jazz
+  - jazz blues
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/nancy_wilson_cannonball_adderly.jpg
-  caption: Nancy Wilson, Cannonball Adderly
+  image: >-
+    03_Resources/source_material/ArtistPortraits/nancy_wilson_cannonball_adderly.jpg
+  caption: 'Nancy Wilson, Cannonball Adderly'
   background: solo_singer
-  origin: Chillicothe, Ohio, United States
+  origin: 'Chillicothe, Ohio, United States'
 audio_profile:
   tempo_avg: 113.6
   energy_avg: 0.372
@@ -30,51 +31,70 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Cannonball Adderley
-  - Nat Adderley
-  - Joe Zawinul
-  - John Levy
+    - Cannonball Adderley
+    - Nat Adderley
+    - Joe Zawinul
+    - John Levy
   influenced:
-  - Dianne Reeves
-  - Ledisi
+    - Dianne Reeves
+    - Ledisi
   mentors:
-  - Rusty Bryant
-  - Her father (name not specified)
+    - Rusty Bryant
+    - Her father (name not specified)
 spotify_data:
   followers: 241888
   id: 5v74mT11KGJqadf9sLw4dA
   popularity: 57
-  url: https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA
+  url: 'https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA'
 discography_enriched: true
 top_tracks:
-- So What (feat. John Coltrane, Cannonball Adderley & Bill Evans) (Kind Of Blue (Legacy Edition))
-- Milestones (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones) (Milestones)
-- Autumn Leaves (Somethin' Else (Rudy Van Gelder Edition))
-- Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly & Paul Chambers) (Kind Of Blue)
-- The Masquerade Is Over (Nancy Wilson/Cannonball Adderley)
-- Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly & Paul Chambers) (Kind Of Blue (Legacy Edition))
-- So What (feat. John Coltrane, Cannonball Adderley & Bill Evans) (Kind Of Blue)
-- Dancing In The Dark (Somethin' Else (Rudy Van Gelder Edition))
-- All Blues (feat. John Coltrane, Cannonball Adderley & Bill Evans) (Kind Of Blue (Legacy Edition))
-- Flamenco Sketches (feat. John Coltrane, Cannonball Adderley & Bill Evans) (Kind Of Blue (Legacy Edition))
+  - >-
+    So What (feat. John Coltrane, Cannonball Adderley & Bill Evans) (Kind Of
+    Blue (Legacy Edition))
+  - >-
+    Milestones (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul
+    Chambers & Philly Joe Jones) (Milestones)
+  - Autumn Leaves (Somethin' Else (Rudy Van Gelder Edition))
+  - >-
+    Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly &
+    Paul Chambers) (Kind Of Blue)
+  - The Masquerade Is Over (Nancy Wilson/Cannonball Adderley)
+  - >-
+    Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly &
+    Paul Chambers) (Kind Of Blue (Legacy Edition))
+  - >-
+    So What (feat. John Coltrane, Cannonball Adderley & Bill Evans) (Kind Of
+    Blue)
+  - Dancing In The Dark (Somethin' Else (Rudy Van Gelder Edition))
+  - >-
+    All Blues (feat. John Coltrane, Cannonball Adderley & Bill Evans) (Kind Of
+    Blue (Legacy Edition))
+  - >-
+    Flamenco Sketches (feat. John Coltrane, Cannonball Adderley & Bill Evans)
+    (Kind Of Blue (Legacy Edition))
 external_urls:
-  spotify: https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA
-  wikipedia: https://en.wikipedia.org/wiki/Nancy_Wilson/Cannonball_Adderley
-image_path: 03_Resources/source_material/ArtistPortraits/nancy_wilson_cannonball_adderly.jpg
+  spotify: 'https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA'
+  wikipedia: 'https://en.wikipedia.org/wiki/Nancy_Wilson/Cannonball_Adderley'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/nancy_wilson_cannonball_adderly.jpg
 biography_enhanced_at: '2025-11-17T10:51:01.052370'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.thequietone.net/post/when-elegance-met-jazz-nancy-wilson-cannonball-adderley
-- https://en.wikipedia.org/wiki/Nancy_Wilson/Cannonball_Adderley
-- https://www.laphil.com/musicdb/artists/5746/nancy-wilson
-- https://www.arts.gov/honors/jazz/nancy-wilson
-- https://jazztimes.com/features/profiles/nancy-wilson-how-glad-we-are-for-the-grace-of/
-- https://www.seacoastjazz.org/nancy-wilson.html
-- https://www.thehistorymakers.org/biography/nancy-wilson-41
+  - >-
+    https://www.thequietone.net/post/when-elegance-met-jazz-nancy-wilson-cannonball-adderley
+  - 'https://en.wikipedia.org/wiki/Nancy_Wilson/Cannonball_Adderley'
+  - 'https://www.laphil.com/musicdb/artists/5746/nancy-wilson'
+  - 'https://www.arts.gov/honors/jazz/nancy-wilson'
+  - >-
+    https://jazztimes.com/features/profiles/nancy-wilson-how-glad-we-are-for-the-grace-of/
+  - 'https://www.seacoastjazz.org/nancy-wilson.html'
+  - 'https://www.thehistorymakers.org/biography/nancy-wilson-41'
 network_extracted: true
 entry_created: '2025-11-17T10:51:01.052377'
 last_updated: '2025-12-23T08:16:13.426866'
+birth_date: '1937'
+artist_type: band
 ---
 
 ![](nancy_wilson_cannonball_adderly.jpg)

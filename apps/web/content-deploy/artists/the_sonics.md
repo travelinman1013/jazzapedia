@@ -2,12 +2,12 @@
 title: The Sonics
 wiki_slug: the-sonics
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1960'
 genres:
-- proto-punk
-- garage rock
+  - proto-punk
+  - garage rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_sonics.jpg
   caption: The Sonics
@@ -28,97 +28,97 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Larry Parypa
-  - Andy Parypa
-  - Gerry (Jerry) Roslie
-  - Rob Lind
-  - Bob Bennett
-  - Buck Ormsby & Etiquette Records
-  - Jerry Dennon & Jerden Records
+    - Larry Parypa
+    - Andy Parypa
+    - Gerry (Jerry) Roslie
+    - Rob Lind
+    - Bob Bennett
+    - Buck Ormsby & Etiquette Records
+    - Jerry Dennon & Jerden Records
   influenced:
-  - Punk rock movement (various bands)
-  - Garage rock and garage‑punk revival bands
-  - Pacific Northwest alternative and grunge scenes
+    - Punk rock movement (various bands)
+    - Garage rock and garage‑punk revival bands
+    - Pacific Northwest alternative and grunge scenes
   mentors:
-  - The Wailers (Tacoma band)
-  - Link Wray
-  - Duane Eddy
-  - Little Richard
-  - Buck Ormsby
+    - The Wailers (Tacoma band)
+    - Link Wray
+    - Duane Eddy
+    - Little Richard
+    - Buck Ormsby
 spotify_data:
   followers: 150676
   id: 2g3PKH7Z1Ofn5oGR6oDjLy
   popularity: 42
-  url: https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy
+  url: 'https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy'
 discography_enriched: true
 top_tracks:
-- Have Love Will Travel (Here Are the Sonics)
-- Strychnine (Here Are the Sonics)
-- Shot Down (The Sonics Boom)
-- The Witch (Here Are the Sonics)
-- Psycho (Maintaining My Cool)
-- Psycho (Here Are the Sonics)
-- The Witch (Introducing The Sonics)
-- Money (Here Are the Sonics)
-- Cinderella (The Sonics Boom)
-- Walkin' the Dog (Here Are the Sonics)
+  - Have Love Will Travel (Here Are the Sonics)
+  - Strychnine (Here Are the Sonics)
+  - Shot Down (The Sonics Boom)
+  - The Witch (Here Are the Sonics)
+  - Psycho (Maintaining My Cool)
+  - Psycho (Here Are the Sonics)
+  - The Witch (Introducing The Sonics)
+  - Money (Here Are the Sonics)
+  - Cinderella (The Sonics Boom)
+  - Walkin' the Dog (Here Are the Sonics)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/16346cf4-4d2b-40ec-8393-0fc7296d92fe
-  spotify: https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy
-  wikipedia: https://en.wikipedia.org/wiki/The_Sonics
+  musicbrainz: 'https://musicbrainz.org/artist/16346cf4-4d2b-40ec-8393-0fc7296d92fe'
+  spotify: 'https://open.spotify.com/artist/2g3PKH7Z1Ofn5oGR6oDjLy'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Sonics'
 image_path: 03_Resources/source_material/ArtistPortraits/the_sonics.jpg
 biography_enhanced_at: '2025-12-09T05:16:31.049360'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.history-of-rock.com/sonics.htm
-- https://acerecords.co.uk/features/artist-profiles/the-sonics
-- https://www.ponderosastomp.com/music_more/304/The+Sonics
-- https://first-avenue.com/performer/the-sonics/
-- https://tacomamusichistory.org/2023/08/09/the-sonics-a-boom-for-boomers/
-- https://www.historylink.org/file/8844
-- https://tacomatales.org/2023/05/15/grandfathers-of-grunge-the-sonics/
+  - 'https://www.history-of-rock.com/sonics.htm'
+  - 'https://acerecords.co.uk/features/artist-profiles/the-sonics'
+  - 'https://www.ponderosastomp.com/music_more/304/The+Sonics'
+  - 'https://first-avenue.com/performer/the-sonics/'
+  - 'https://tacomamusichistory.org/2023/08/09/the-sonics-a-boom-for-boomers/'
+  - 'https://www.historylink.org/file/8844'
+  - 'https://tacomatales.org/2023/05/15/grandfathers-of-grunge-the-sonics/'
 network_extracted: true
 entry_created: '2025-12-09T05:16:31.049368'
 last_updated: '2025-12-23T08:16:17.152579'
 disambiguation: American garage rock
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 29742e26-8c41-4652-9e0e-a70bd7e3fd41
-  name: Freddie Dennis
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e01d9fd4-13cc-4f40-ab88-d2a20ad4e66e
-  name: Rob Lind
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: df6e00db-e1d3-4785-bb07-61e77f7e2718
-  name: Andy Parypa
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 406f45e8-710b-4c7c-8c20-50a8a840879e
-  name: Larry Parypa
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bc5b2b9d-d261-450b-9c8a-c4aa59bbaf38
-  name: Gerry Roslie
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 64bb75b5-2e06-41f6-9b7f-facb78401b03
-  name: Dusty Watson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 29742e26-8c41-4652-9e0e-a70bd7e3fd41
+    name: Freddie Dennis
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e01d9fd4-13cc-4f40-ab88-d2a20ad4e66e
+    name: Rob Lind
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: df6e00db-e1d3-4785-bb07-61e77f7e2718
+    name: Andy Parypa
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 406f45e8-710b-4c7c-8c20-50a8a840879e
+    name: Larry Parypa
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bc5b2b9d-d261-450b-9c8a-c4aa59bbaf38
+    name: Gerry Roslie
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 64bb75b5-2e06-41f6-9b7f-facb78401b03
+    name: Dusty Watson
 musicbrainz_id: 16346cf4-4d2b-40ec-8393-0fc7296d92fe
-origin: Bremerton
+origin: 'Bremerton, Washington State, United States'
 tags:
-- classic pop and rock
-- garage rock
-- proto-punk
+  - classic pop and rock
+  - garage rock
+  - proto-punk
 ---
 
 ![](the_sonics.jpg)

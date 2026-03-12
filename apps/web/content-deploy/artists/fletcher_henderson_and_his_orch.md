@@ -1,19 +1,20 @@
 ---
-title: FLETCHER HENDERSON AND HIS ORCH
+title: Fletcher Henderson and His Orch
 wiki_slug: fletcher-henderson-and-his-orch
 schema_version: 2
 status: active
-birth_place: Cuthbert, Georgia, United States
+birth_place: 'Cuthbert, Georgia, United States'
 genres:
-- big band
-- swing music
-- ragtime
-- jazz
+  - big band
+  - swing music
+  - ragtime
+  - jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/fletcher_henderson_and_his_orch.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/fletcher_henderson_and_his_orch.jpg
   caption: FLETCHER HENDERSON AND HIS ORCH
   background: solo_singer
-  origin: Cuthbert, Georgia, United States
+  origin: 'Cuthbert, Georgia, United States'
 audio_profile:
   tempo_avg: 116.5
   energy_avg: 0.409
@@ -29,47 +30,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Don Redman
-  - Louis Armstrong
-  - Benny Goodman
-  - Coleman Hawkins
+    - Don Redman
+    - Louis Armstrong
+    - Benny Goodman
+    - Coleman Hawkins
   influenced:
-  - Benny Goodman
-  - Roy Eldridge
-  - Count Basie
+    - Benny Goodman
+    - Roy Eldridge
+    - Count Basie
   mentors:
-  - His mother, teacher of piano
+    - 'His mother, teacher of piano'
 spotify_data:
   followers: 9257
   id: 3ZeU30PhqVBalNYg2SFNZN
   popularity: 20
-  url: https://open.spotify.com/artist/3ZeU30PhqVBalNYg2SFNZN
+  url: 'https://open.spotify.com/artist/3ZeU30PhqVBalNYg2SFNZN'
 discography_enriched: true
 top_tracks:
-- Sugar Foot Stomp (The Essential Louis Armstrong)
-- Rug Cutter's Swing (Tidal Wave)
-- Sugar Foot Stomp
-- Sing, Sing, Sing (With a Swing)
-- King Porter Stomp
-- Sugar Foot Stomp
-- The Stampede
-- Hotter Than 'Ell (Ben Webster's Finest Hour)
-- Alabamy Bound
-- Queer Notions (Road To Perdition (Original Motion Picture Soundtrack))
+  - Sugar Foot Stomp (The Essential Louis Armstrong)
+  - Rug Cutter's Swing (Tidal Wave)
+  - Sugar Foot Stomp
+  - 'Sing, Sing, Sing (With a Swing)'
+  - King Porter Stomp
+  - Sugar Foot Stomp
+  - The Stampede
+  - Hotter Than 'Ell (Ben Webster's Finest Hour)
+  - Alabamy Bound
+  - Queer Notions (Road To Perdition (Original Motion Picture Soundtrack))
 external_urls:
-  spotify: https://open.spotify.com/artist/3ZeU30PhqVBalNYg2SFNZN
-  wikipedia: https://en.wikipedia.org/wiki/Fletcher_Henderson
-image_path: 03_Resources/source_material/ArtistPortraits/fletcher_henderson_and_his_orch.jpg
+  spotify: 'https://open.spotify.com/artist/3ZeU30PhqVBalNYg2SFNZN'
+  wikipedia: 'https://en.wikipedia.org/wiki/Fletcher_Henderson'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/fletcher_henderson_and_his_orch.jpg
 biography_enhanced_at: '2025-11-20T06:33:06.591407'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Fletcher_Henderson
-- https://syncopatedtimes.com/profiles-in-jazz-fletcher-henderson/
-- https://www.georgiaencyclopedia.org/articles/arts-culture/fletcher-henderson-1897-1952/
+  - 'https://en.wikipedia.org/wiki/Fletcher_Henderson'
+  - 'https://syncopatedtimes.com/profiles-in-jazz-fletcher-henderson/'
+  - >-
+    https://www.georgiaencyclopedia.org/articles/arts-culture/fletcher-henderson-1897-1952/
 network_extracted: true
 entry_created: '2025-11-20T06:33:06.591413'
 last_updated: '2025-12-23T08:16:08.703754'
+artist_type: person
 ---
 
 ![](fletcher_henderson_and_his_orch.jpg)

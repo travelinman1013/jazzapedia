@@ -1,41 +1,43 @@
 ---
 biography_enhanced_at: '2026-01-06T02:07:04.421211'
-birth_place: London, England, United Kingdom
+birth_place: 'London, England, United Kingdom'
 enhancement_provider: perplexity
 entry_created: '2026-01-06T02:07:04.421218'
 external_urls:
-  spotify: https://open.spotify.com/artist/2T6oFUSs8KH3PGDPV1Sc4V
-  wikipedia: https://en.wikipedia.org/wiki/Albert_Harris_(composer)
+  spotify: 'https://open.spotify.com/artist/2T6oFUSs8KH3PGDPV1Sc4V'
+  wikipedia: 'https://en.wikipedia.org/wiki/Albert_Harris_(composer)'
 genres: []
 image_path: ''
 last_updated: '2026-01-06T02:07:04.421218'
 musical_connections:
   collaborators:
-  - Nelson Riddle
-  - Barbra Streisand
-  - Cher
-  - Roberta Flack
-  - Frank deVol
+    - Nelson Riddle
+    - Barbra Streisand
+    - Cher
+    - Roberta Flack
+    - Frank deVol
   influenced:
-  - Andrés Segovia
-  - Aaron Copland
+    - Andrés Segovia
+    - Aaron Copland
   mentors:
-  - Mary Carr Moore
-  - Eugen Zador
-  - Richard Lert
-  - Darius Milhaud
+    - Mary Carr Moore
+    - Eugen Zador
+    - Richard Lert
+    - Darius Milhaud
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Albert_Harris_(composer)
-- https://gypsyjazzuk.wordpress.com/36-2/albert-harris/
+  - 'https://en.wikipedia.org/wiki/Albert_Harris_(composer)'
+  - 'https://gypsyjazzuk.wordpress.com/36-2/albert-harris/'
 spotify_data:
   followers: 2
   id: 2T6oFUSs8KH3PGDPV1Sc4V
   popularity: 0
-  url: https://open.spotify.com/artist/2T6oFUSs8KH3PGDPV1Sc4V
+  url: 'https://open.spotify.com/artist/2T6oFUSs8KH3PGDPV1Sc4V'
 status: active
-title: ALFRED HARRIS
+title: Alfred Harris
+birth_date: '1916-02-13'
+artist_type: person
 ---
 
 ![]()

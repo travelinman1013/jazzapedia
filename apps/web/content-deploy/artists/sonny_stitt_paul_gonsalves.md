@@ -1,18 +1,20 @@
 ---
-title: Sonny Stitt, Paul Gonsalves
+title: 'Sonny Stitt, Paul Gonsalves'
 wiki_slug: sonny-stitt-paul-gonsalves
 schema_version: 2
 status: active
-birth_place: Boston, Massachusetts, USA (Sonny Stitt); Brockton, Massachusetts, USA (Paul Gonsalves)
+birth_place: 'Boston, Massachusetts, United States'
 genres:
-- bebop
-- hard bop
-- jazz
+  - bebop
+  - hard bop
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sonny_stitt_paul_gonsalves.jpg
-  caption: Sonny Stitt, Paul Gonsalves
+  caption: 'Sonny Stitt, Paul Gonsalves'
   background: solo_singer
-  origin: Boston, Massachusetts, USA (Sonny Stitt); Brockton, Massachusetts, USA (Paul Gonsalves)
+  origin: >-
+    Boston, Massachusetts, USA (Sonny Stitt); Brockton, Massachusetts, USA (Paul
+    Gonsalves)
 audio_profile:
   tempo_avg: 120.4
   energy_avg: 0.348
@@ -28,57 +30,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Billy Eckstine
-  - Gene Ammons
-  - Dizzy Gillespie
-  - Miles Davis
-  - Paul Gonsalves
-  - Nat Adderley
-  - Ray Charles
+    - Billy Eckstine
+    - Gene Ammons
+    - Dizzy Gillespie
+    - Miles Davis
+    - Paul Gonsalves
+    - Nat Adderley
+    - Ray Charles
   influenced:
-  - John Coltrane
-  - Branford Marsalis
-  - Kenny Garrett
-  - Joshua Redman
-  - Courtney Pine
+    - John Coltrane
+    - Branford Marsalis
+    - Kenny Garrett
+    - Joshua Redman
+    - Courtney Pine
   mentors:
-  - Charlie Parker
-  - Lester Young
-  - Duke Ellington
+    - Charlie Parker
+    - Lester Young
+    - Duke Ellington
 spotify_data:
   followers: 9066
   id: 03Sna6rwmroeEViv4M4K8H
   popularity: 24
-  url: https://open.spotify.com/artist/03Sna6rwmroeEViv4M4K8H
+  url: 'https://open.spotify.com/artist/03Sna6rwmroeEViv4M4K8H'
 discography_enriched: true
 top_tracks:
-- Liza (All The Clouds'll Roll Away) (Kaleidoscope)
-- Just Friends (Saxophone Supremacy)
-- Can't We Be Friends (Kaleidoscope)
-- 'Nice Work If You Can Get It (Stitt''s Bits: The Bebop Recordings, 1949-1952)'
-- 'Taking A Chance On Love (Stitt''s Bits: The Bebop Recordings, 1949-1952)'
-- All Of Me (Saxophone Supremacy)
-- On a Slow Boat to China (The Sonny Side of Stitt)
-- Low Flame (Low Flame (Hd Remastered))
-- Later (Kaleidoscope)
-- Liza (Bebop Story, Vol. 61)
+  - Liza (All The Clouds'll Roll Away) (Kaleidoscope)
+  - Just Friends (Saxophone Supremacy)
+  - Can't We Be Friends (Kaleidoscope)
+  - 'Nice Work If You Can Get It (Stitt''s Bits: The Bebop Recordings, 1949-1952)'
+  - 'Taking A Chance On Love (Stitt''s Bits: The Bebop Recordings, 1949-1952)'
+  - All Of Me (Saxophone Supremacy)
+  - On a Slow Boat to China (The Sonny Side of Stitt)
+  - Low Flame (Low Flame (Hd Remastered))
+  - Later (Kaleidoscope)
+  - 'Liza (Bebop Story, Vol. 61)'
 external_urls:
-  spotify: https://open.spotify.com/artist/03Sna6rwmroeEViv4M4K8H
-  wikipedia: https://en.wikipedia.org/wiki/Paul_Gonsalves
+  spotify: 'https://open.spotify.com/artist/03Sna6rwmroeEViv4M4K8H'
+  wikipedia: 'https://en.wikipedia.org/wiki/Paul_Gonsalves'
 image_path: 03_Resources/source_material/ArtistPortraits/sonny_stitt_paul_gonsalves.jpg
 biography_enhanced_at: '2025-11-20T07:02:42.255352'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.ebsco.com/research-starters/history/sonny-stitt
-- https://www.jazzhistorydatabase.com/neja/paul-gonsalves.php
-- https://en.wikipedia.org/wiki/Paul_Gonsalves
-- https://www.allaboutjazz.com/musicians/sonny-stitt
-- https://www.the-jazz-cat.com/sonny-stitt-biography.html
-- https://highresaudio.com/en/album/view/fq99fw/sonny-stitt-and-paul-gonsalves-salt-and-pepper
+  - 'https://www.ebsco.com/research-starters/history/sonny-stitt'
+  - 'https://www.jazzhistorydatabase.com/neja/paul-gonsalves.php'
+  - 'https://en.wikipedia.org/wiki/Paul_Gonsalves'
+  - 'https://www.allaboutjazz.com/musicians/sonny-stitt'
+  - 'https://www.the-jazz-cat.com/sonny-stitt-biography.html'
+  - >-
+    https://highresaudio.com/en/album/view/fq99fw/sonny-stitt-and-paul-gonsalves-salt-and-pepper
 network_extracted: true
 entry_created: '2025-11-20T07:02:42.255360'
 last_updated: '2025-12-23T08:16:15.920134'
+birth_date: '1924-02-02'
+death_date: '1982-07-22'
+artist_type: person
 ---
 
 ![](sonny_stitt_paul_gonsalves.jpg)

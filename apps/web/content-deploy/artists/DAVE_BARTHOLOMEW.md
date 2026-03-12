@@ -1,23 +1,23 @@
 ---
-title: DAVE BARTHOLOMEW
+title: Dave Bartholomew
 wiki_slug: dave-bartholomew
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1918-12-24'
-birth_place: Edgard, Louisiana, United States
+birth_place: 'Edgard, Louisiana, United States'
 death_date: '2019-06-23'
 genres:
-- cajun
+  - cajun
 instruments:
-- original
-- eponymous
+  - original
+  - eponymous
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/DAVE_BARTHOLOMEW.jpg
   caption: DAVE BARTHOLOMEW
   background: non_vocal_instrumentalist
   born: '1918-12-24'
-  origin: Edgard, Louisiana, United States
+  origin: 'Edgard, Louisiana, United States'
   died: '2019-06-23'
 audio_profile:
   tempo_avg: 125.1
@@ -34,46 +34,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Fats Domino
-  - Earl Palmer
-  - Lee Allen
-  - Alvin Tyler
-  - Cosimo Matassa
-  - Lew Chudd
+    - Fats Domino
+    - Earl Palmer
+    - Lee Allen
+    - Alvin Tyler
+    - Cosimo Matassa
+    - Lew Chudd
   influenced: []
   mentors:
-  - Peter Davis
+    - Peter Davis
 spotify_data:
   followers: 6103
   id: 4J7xpEpjniTZGE73PxVfkw
   popularity: 16
-  url: https://open.spotify.com/artist/4J7xpEpjniTZGE73PxVfkw
+  url: 'https://open.spotify.com/artist/4J7xpEpjniTZGE73PxVfkw'
 discography_enriched: true
 top_tracks:
-- Carnival Day
-- Single Life (New Orleans Finest the Dave Bartholomew Essential Collection, Vol. 1)
-- 'The Monkey - Remastered (The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949-1960)'
-- 'Shrimp And Gumbo - Remastered (The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949-1960)'
-- I'm Walking (Walking to New Orleans)
-- 'Who Drank My Beer While I Was In The Rear - Remastered (The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew
-  Productions 1949-1960)'
-- My Ding-A-Ling (In The Alley)
-- 'Jump Children (Jump Blue: Rockin'' The Jukes)'
-- Lawdy Lawdy Lord (Part 1) (In The Alley)
-- Let The Four Winds Blow (New Orleans 'Yea Yea' Breakdown)
+  - Carnival Day
+  - >-
+    Single Life (New Orleans Finest the Dave Bartholomew Essential Collection,
+    Vol. 1)
+  - >-
+    The Monkey - Remastered (The Big Beat Of Dave Bartholomew: 20 Milestone Dave
+    Bartholomew Productions 1949-1960)
+  - >-
+    Shrimp And Gumbo - Remastered (The Big Beat Of Dave Bartholomew: 20
+    Milestone Dave Bartholomew Productions 1949-1960)
+  - I'm Walking (Walking to New Orleans)
+  - >-
+    Who Drank My Beer While I Was In The Rear - Remastered (The Big Beat Of Dave
+    Bartholomew: 20 Milestone Dave Bartholomew Productions 1949-1960)
+  - My Ding-A-Ling (In The Alley)
+  - 'Jump Children (Jump Blue: Rockin'' The Jukes)'
+  - Lawdy Lawdy Lord (Part 1) (In The Alley)
+  - Let The Four Winds Blow (New Orleans 'Yea Yea' Breakdown)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9ad119e3-8a03-41a9-9ba8-fa754390b81d
-  spotify: https://open.spotify.com/artist/4J7xpEpjniTZGE73PxVfkw
-  wikipedia: https://en.wikipedia.org/wiki/Dave_Bartholomew
+  musicbrainz: 'https://musicbrainz.org/artist/9ad119e3-8a03-41a9-9ba8-fa754390b81d'
+  spotify: 'https://open.spotify.com/artist/4J7xpEpjniTZGE73PxVfkw'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dave_Bartholomew'
 image_path: 03_Resources/source_material/ArtistPortraits/DAVE_BARTHOLOMEW.jpg
 biography_enhanced_at: '2025-10-20T09:33:39.832201'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Dave_Bartholomew
-- https://www.songhall.org/profiles/dave-bartholomew
-- https://nolajazzmuseum.org/articles/2019/7/8/remembering-dave-bartholomew-at-the-jazz-museum
-- https://www.nationalww2museum.org/dave-bartholomew-service-and-musical-influences
+  - 'https://en.wikipedia.org/wiki/Dave_Bartholomew'
+  - 'https://www.songhall.org/profiles/dave-bartholomew'
+  - >-
+    https://nolajazzmuseum.org/articles/2019/7/8/remembering-dave-bartholomew-at-the-jazz-museum
+  - >-
+    https://www.nationalww2museum.org/dave-bartholomew-service-and-musical-influences
 network_extracted: true
 entry_created: '2025-10-20T09:33:39.832215'
 last_updated: '2025-12-23T08:16:01.598937'
@@ -81,9 +90,11 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:23:19.622823'
 musicbrainz_id: 9ad119e3-8a03-41a9-9ba8-fa754390b81d
 tags:
-- jazz
-- new orleans r&b
-- r&b
+  - jazz
+  - new orleans r&b
+  - r&b
+is_active: false
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](DAVE_BARTHOLOMEW.jpg)

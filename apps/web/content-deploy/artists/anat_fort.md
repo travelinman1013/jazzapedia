@@ -2,57 +2,58 @@
 artist_type: person
 biography_enhanced_at: '2026-01-22T06:58:19.918250'
 birth_date: '1970-03-08'
-birth_place: Tel Aviv, Israel
+birth_place: 'Tel Aviv, Israel'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T06:58:19.918256'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/29567d1b-f5f1-478b-b9c1-032f986707ed
-  spotify: https://open.spotify.com/artist/32OuYoQkedAGs4hKig6oUi
-  wikipedia: https://en.wikipedia.org/wiki/Anat_Fort
+  musicbrainz: 'https://musicbrainz.org/artist/29567d1b-f5f1-478b-b9c1-032f986707ed'
+  spotify: 'https://open.spotify.com/artist/32OuYoQkedAGs4hKig6oUi'
+  wikipedia: 'https://en.wikipedia.org/wiki/Anat_Fort'
 gender: Female
 genres:
-- ambient jazz
+  - ambient jazz
 image_path: 03_Resources/source_material/ArtistPortraits/anat_fort.jpg
 instruments:
-- piano
+  - piano
 last_updated: '2026-01-22T06:58:19.918257'
 musical_connections:
   collaborators:
-  - Gary Wang
-  - Roland Schneider
-  - Paul Motian
-  - Ed Schuller
-  - Perry Robinson
-  - Ayelet Rose Gottlieb
-  - Gianluigi Trovesi
-  - Vered Dekel
+    - Gary Wang
+    - Roland Schneider
+    - Paul Motian
+    - Ed Schuller
+    - Perry Robinson
+    - Ayelet Rose Gottlieb
+    - Gianluigi Trovesi
+    - Vered Dekel
   influenced: []
   mentors:
-  - Paul Bley
-  - Harold Seletsky
-  - Harold Mabern
-  - Rufus Reid
-  - Norman Simmons
-  - Manfred Eicher
+    - Paul Bley
+    - Harold Seletsky
+    - Harold Mabern
+    - Rufus Reid
+    - Norman Simmons
+    - Manfred Eicher
 musicbrainz_id: 29567d1b-f5f1-478b-b9c1-032f986707ed
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Anat_Fort
-- https://www.allaboutjazz.com/musicians/anat-fort/
-- https://judaical.wordpress.com/2019/03/28/anat-forts-story/
-- https://www.anatfort.com/bio/
-- https://downbeat.com/news/detail/anat-fort-bold-strokes
-- https://jazztimes.com/features/columns/born-in-israel/
-- https://salt-peanuts.eu/record/anat-fort/
-- https://www.nepm.org/jazz-world/2007-11-09/anat-fort-on-piano-jazz
+  - 'https://en.wikipedia.org/wiki/Anat_Fort'
+  - 'https://www.allaboutjazz.com/musicians/anat-fort/'
+  - 'https://judaical.wordpress.com/2019/03/28/anat-forts-story/'
+  - 'https://www.anatfort.com/bio/'
+  - 'https://downbeat.com/news/detail/anat-fort-bold-strokes'
+  - 'https://jazztimes.com/features/columns/born-in-israel/'
+  - 'https://salt-peanuts.eu/record/anat-fort/'
+  - 'https://www.nepm.org/jazz-world/2007-11-09/anat-fort-on-piano-jazz'
 spotify_data:
   followers: 3035
   id: 32OuYoQkedAGs4hKig6oUi
   popularity: 14
-  url: https://open.spotify.com/artist/32OuYoQkedAGs4hKig6oUi
+  url: 'https://open.spotify.com/artist/32OuYoQkedAGs4hKig6oUi'
 status: active
 title: Anat Fort
+origin: 'New York, New Jersey, United States'
 ---
 
 ![](anat_fort.jpg)

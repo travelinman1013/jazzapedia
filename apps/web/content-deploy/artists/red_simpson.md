@@ -5,12 +5,12 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1934-03-06'
-birth_place: Maricopa County
+birth_place: 'Higley, Arizona, United States'
 death_date: '2016-01-08'
 genres:
-- honky tonk
+  - honky tonk
 instruments:
-- guitar
+  - guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/red_simpson.jpg
   caption: Red Simpson
@@ -33,59 +33,65 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ken Nelson
-  - Merle Haggard
-  - Buck Owens
-  - Lorraine Walden
-  - Capitol Records session musicians (Bakersfield players)
+    - Ken Nelson
+    - Merle Haggard
+    - Buck Owens
+    - Lorraine Walden
+    - Capitol Records session musicians (Bakersfield players)
   influenced:
-  - Later Bakersfield‑influenced country artists (e.g., Dwight Yoakam, Brad Paisley, Clint Black)
-  - Truck‑driving country performers and songwriters
+    - >-
+      Later Bakersfield‑influenced country artists (e.g., Dwight Yoakam, Brad
+      Paisley, Clint Black)
+    - Truck‑driving country performers and songwriters
   mentors:
-  - Bill Woods
-  - Fuzzy Owen
-  - Buck Owens
-  - Merle Haggard
+    - Bill Woods
+    - Fuzzy Owen
+    - Buck Owens
+    - Merle Haggard
 spotify_data:
   followers: 21961
   id: 0tPkIoqIyEKDqvxO4YzadS
   popularity: 33
-  url: https://open.spotify.com/artist/0tPkIoqIyEKDqvxO4YzadS
+  url: 'https://open.spotify.com/artist/0tPkIoqIyEKDqvxO4YzadS'
 discography_enriched: true
 top_tracks:
-- Diesel Smoke, Dangerous Curves (Truck Drivin' Fool)
-- Semi-Crazy (Semi Crazy)
-- Hello, I'm A Truck (Hello I'm A Truck)
-- Roll, Truck, Roll (Roll, Truck, Roll)
-- Nitro Express (Roll, Truck, Roll)
-- Runaway Truck (Roll, Truck, Roll)
-- Jackknife (Truck Drivin' Fool)
-- The Highway Patrol (The Man Behind The Badge)
-- Sleeper, Five-By-Two (Truck Drivin' Fool)
-- The Highway Patrol (Hello I'm A Truck)
+  - 'Diesel Smoke, Dangerous Curves (Truck Drivin'' Fool)'
+  - Semi-Crazy (Semi Crazy)
+  - 'Hello, I''m A Truck (Hello I''m A Truck)'
+  - 'Roll, Truck, Roll (Roll, Truck, Roll)'
+  - 'Nitro Express (Roll, Truck, Roll)'
+  - 'Runaway Truck (Roll, Truck, Roll)'
+  - Jackknife (Truck Drivin' Fool)
+  - The Highway Patrol (The Man Behind The Badge)
+  - 'Sleeper, Five-By-Two (Truck Drivin'' Fool)'
+  - The Highway Patrol (Hello I'm A Truck)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/db96de54-4c4f-4466-8181-32bb8fb31d43
-  spotify: https://open.spotify.com/artist/0tPkIoqIyEKDqvxO4YzadS
-  wikipedia: https://en.wikipedia.org/wiki/Red_Simpson
+  musicbrainz: 'https://musicbrainz.org/artist/db96de54-4c4f-4466-8181-32bb8fb31d43'
+  spotify: 'https://open.spotify.com/artist/0tPkIoqIyEKDqvxO4YzadS'
+  wikipedia: 'https://en.wikipedia.org/wiki/Red_Simpson'
 image_path: 03_Resources/source_material/ArtistPortraits/red_simpson.jpg
 biography_enhanced_at: '2025-12-09T05:19:58.468478'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://kids.kiddle.co/Red_Simpson
-- https://musicrow.com/2016/01/lifenotes-trucker-song-specialist-red-simpson-passes/
-- https://www.bear-family.com/simpson-red/
-- https://alancackett.com/red-simpson-obituary
-- https://www.latimes.com/local/obituaries/la-me-red-simpson-20160114-story.html
-- https://fromthevaults-boppinbob.blogspot.com/2023/03/red-simpson-born-6-march-1934.html
-- https://oldtimeandbluegrass.fandom.com/wiki/Red_Simpson
+  - 'https://kids.kiddle.co/Red_Simpson'
+  - >-
+    https://musicrow.com/2016/01/lifenotes-trucker-song-specialist-red-simpson-passes/
+  - 'https://www.bear-family.com/simpson-red/'
+  - 'https://alancackett.com/red-simpson-obituary'
+  - >-
+    https://www.latimes.com/local/obituaries/la-me-red-simpson-20160114-story.html
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2023/03/red-simpson-born-6-march-1934.html
+  - 'https://oldtimeandbluegrass.fandom.com/wiki/Red_Simpson'
 network_extracted: true
 entry_created: '2025-12-09T05:19:58.468487'
 last_updated: '2025-12-23T08:16:14.758511'
 disambiguation: American country singer and songwriter
 gender: Male
 musicbrainz_id: db96de54-4c4f-4466-8181-32bb8fb31d43
-
+is_active: false
+origin: 'Bakersfield, California, United States'
 ---
 
 ![](red_simpson.jpg)

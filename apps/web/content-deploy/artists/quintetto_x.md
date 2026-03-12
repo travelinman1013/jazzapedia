@@ -2,11 +2,11 @@
 title: Quintetto X
 wiki_slug: quintetto-x
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- acid jazz
-- brazilian jazz
+  - acid jazz
+  - brazilian jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/quintetto_x.jpg
   caption: Quintetto X
@@ -26,45 +26,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Pietro Vincenti
+    - Pietro Vincenti
   influenced:
-  - Contemporary Italian jazz musicians
+    - Contemporary Italian jazz musicians
   mentors:
-  - Brazilian jazz masters
+    - Brazilian jazz masters
 spotify_data:
   followers: 1996
   id: 5NjJZiOLy4NHO9DpooehKu
   popularity: 11
-  url: https://open.spotify.com/artist/5NjJZiOLy4NHO9DpooehKu
+  url: 'https://open.spotify.com/artist/5NjJZiOLy4NHO9DpooehKu'
 discography_enriched: true
 top_tracks:
-- Diplomacia (Novo Esquema Da Bossa)
-- Mentira (Novo Esquema Da Bossa)
-- Esquema Da Bossa (Novo Esquema Da Bossa)
-- Senza Paura (Novo Esquema Da Bossa)
-- The Jody Grind (Novo Esquema Da Bossa)
-- Luce Del Sud (Novo Esquema Da Bossa)
-- Balanca Pema (Novo Esquema Da Bossa)
-- C'e Piu Samba (Novo Esquema Da Bossa)
-- Ceu Azul (Novo Esquema Da Bossa)
-- Eumir (Novo Esquema Da Bossa)
+  - Diplomacia (Novo Esquema Da Bossa)
+  - Mentira (Novo Esquema Da Bossa)
+  - Esquema Da Bossa (Novo Esquema Da Bossa)
+  - Senza Paura (Novo Esquema Da Bossa)
+  - The Jody Grind (Novo Esquema Da Bossa)
+  - Luce Del Sud (Novo Esquema Da Bossa)
+  - Balanca Pema (Novo Esquema Da Bossa)
+  - C'e Piu Samba (Novo Esquema Da Bossa)
+  - Ceu Azul (Novo Esquema Da Bossa)
+  - Eumir (Novo Esquema Da Bossa)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ca2d279a-9e2a-49c4-92e2-0a40e62b2ac0
-  spotify: https://open.spotify.com/artist/5NjJZiOLy4NHO9DpooehKu
+  musicbrainz: 'https://musicbrainz.org/artist/ca2d279a-9e2a-49c4-92e2-0a40e62b2ac0'
+  spotify: 'https://open.spotify.com/artist/5NjJZiOLy4NHO9DpooehKu'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/quintetto_x.jpg
 biography_enhanced_at: '2025-11-10T03:39:04.056943'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://sites.google.com/pietrovincenti.com/musica/english/projects-quintetto-x
-- Spotify artist context
+  - >-
+    https://sites.google.com/pietrovincenti.com/musica/english/projects-quintetto-x
+  - Spotify artist context
 network_extracted: true
 entry_created: '2025-11-10T03:39:04.056960'
 last_updated: '2025-12-23T08:16:14.524777'
 musicbrainz_id: ca2d279a-9e2a-49c4-92e2-0a40e62b2ac0
-origin: Bari, Apulia, Italy
-
+origin: 'Bari, Apulia, Italy'
 ---
 
 ![](quintetto_x.jpg)

@@ -3,18 +3,18 @@ title: Bob Andy
 wiki_slug: bob-andy
 schema_version: 2
 status: active
-birth_place: Kingston, Jamaica
+birth_place: 'Kingston, Jamaica, United States'
 genres:
-- rocksteady
-- reggae
-- lovers rock
-- roots reggae
-- dub
+  - rocksteady
+  - reggae
+  - lovers rock
+  - roots reggae
+  - dub
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bob_andy.jpg
   caption: Bob Andy
   background: solo_singer
-  origin: Kingston, Jamaica
+  origin: 'Kingston, Jamaica'
 audio_profile:
   tempo_avg: 121.1
   energy_avg: 0.49
@@ -22,7 +22,7 @@ audio_profile:
   danceability_avg: 0.784
   acousticness_avg: 0.311
   instrumentalness_avg: 0.109
-  loudness_avg: -11.0
+  loudness_avg: -11
   speechiness_avg: 0.109
   liveness_avg: 0.161
   track_count: 50
@@ -30,49 +30,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tyrone Evans
-  - Howard Barrett
-  - John Holt
-  - Marcia Griffiths
-  - Ken Boothe
+    - Tyrone Evans
+    - Howard Barrett
+    - John Holt
+    - Marcia Griffiths
+    - Ken Boothe
   influenced:
-  - Marcia Griffiths
-  - Numerous reggae artists
+    - Marcia Griffiths
+    - Numerous reggae artists
   mentors:
-  - Jackie Mittoo
+    - Jackie Mittoo
 spotify_data:
   followers: 47482
   id: 6GFAZnwXhNER0WS76WMpS4
   popularity: 36
-  url: https://open.spotify.com/artist/6GFAZnwXhNER0WS76WMpS4
+  url: 'https://open.spotify.com/artist/6GFAZnwXhNER0WS76WMpS4'
 discography_enriched: true
 top_tracks:
-- Life
-- Too Proud to Beg (Retrospective)
-- You Don't Know (Retrospective)
-- Going Home (Friends)
-- Hell a Go Broke Loose (Retrospective)
-- Rasta Reggae Music (Friends)
-- Rock It Down (Retrospective)
-- Patience Is the Key (Retrospective)
-- I Don't Want to See You Cry (Freely)
-- Let Them Say (Retrospective)
+  - Life
+  - Too Proud to Beg (Retrospective)
+  - You Don't Know (Retrospective)
+  - Going Home (Friends)
+  - Hell a Go Broke Loose (Retrospective)
+  - Rasta Reggae Music (Friends)
+  - Rock It Down (Retrospective)
+  - Patience Is the Key (Retrospective)
+  - I Don't Want to See You Cry (Freely)
+  - Let Them Say (Retrospective)
 external_urls:
-  spotify: https://open.spotify.com/artist/6GFAZnwXhNER0WS76WMpS4
-  wikipedia: https://en.wikipedia.org/wiki/Bob_Andy
+  spotify: 'https://open.spotify.com/artist/6GFAZnwXhNER0WS76WMpS4'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bob_Andy'
 image_path: 03_Resources/source_material/ArtistPortraits/bob_andy.jpg
 biography_enhanced_at: '2025-10-27T02:49:15.217634'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://jamaicans.com/jamaican-history-bob-andy/
-- https://en.wikipedia.org/wiki/Bob_Andy
-- https://kids.kiddle.co/Bob_Andy
-- https://simple.wikipedia.org/wiki/Bob_Andy
-- https://bobandymusic.com/biography
+  - 'https://jamaicans.com/jamaican-history-bob-andy/'
+  - 'https://en.wikipedia.org/wiki/Bob_Andy'
+  - 'https://kids.kiddle.co/Bob_Andy'
+  - 'https://simple.wikipedia.org/wiki/Bob_Andy'
+  - 'https://bobandymusic.com/biography'
 network_extracted: true
 entry_created: '2025-10-27T02:49:15.217652'
 last_updated: '2025-12-23T08:16:05.792445'
+birth_date: '1944-10-28'
+artist_type: person
 ---
 
 ![](bob_andy.jpg)

@@ -5,21 +5,21 @@ schema_version: 2
 status: active
 aliases: []
 birth_date: '1941-04-28'
-birth_place: Valsjöbyn
+birth_place: 'Valsjöbyn, Sweden'
 years_active: 1961–present
 genres: []
 instruments:
-- voice
+  - voice
 occupation:
-- singer
-- stage actor
-- film actor
-- television actor
-- recording artist
+  - singer
+  - stage actor
+  - film actor
+  - television actor
+  - recording artist
 record_labels:
-- Gold Star Records
+  - Gold Star Records
 spouse:
-- Roger Smith
+  - Roger Smith
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Ann-Margret.jpg
   caption: Ann-Margret
@@ -44,31 +44,37 @@ spotify_data:
   followers: 11475
   id: 69LGCmz5gH56OxMRVmyMte
   popularity: 34
-  url: https://open.spotify.com/artist/69LGCmz5gH56OxMRVmyMte
+  url: 'https://open.spotify.com/artist/69LGCmz5gH56OxMRVmyMte'
   verified: false
 discography_enriched: true
 albums_count: 15
 singles_count: 6
 top_tracks:
-- The Lady Loves Me (from the MGM movie soundtrack "Viva Las Vegas") (Let Me Entertain You)
-- Bye Bye Birdie (Bye Bye Birdie (Original Motion Picture Soundtrack))
-- The Lady Loves Me (with Ann-Margret) (The Essential Ann-Margret)
-- Thirteen Men (Let Me Entertain You)
-- Slowly (On the Way Up)
-- My Last Date (With You) (On the Way Up)
-- My Lovey-Dovey Baby
-- One Boy (Bye Bye Birdie (Original Motion Picture Soundtrack))
-- How Lovely to Be a Woman (Bye Bye Birdie (Original Motion Picture Soundtrack))
-- A Lot of Livin' to Do (Bye Bye Birdie (Original Motion Picture Soundtrack))
+  - >-
+    The Lady Loves Me (from the MGM movie soundtrack "Viva Las Vegas") (Let Me
+    Entertain You)
+  - Bye Bye Birdie (Bye Bye Birdie (Original Motion Picture Soundtrack))
+  - The Lady Loves Me (with Ann-Margret) (The Essential Ann-Margret)
+  - Thirteen Men (Let Me Entertain You)
+  - Slowly (On the Way Up)
+  - My Last Date (With You) (On the Way Up)
+  - My Lovey-Dovey Baby
+  - One Boy (Bye Bye Birdie (Original Motion Picture Soundtrack))
+  - >-
+    How Lovely to Be a Woman (Bye Bye Birdie (Original Motion Picture
+    Soundtrack))
+  - A Lot of Livin' to Do (Bye Bye Birdie (Original Motion Picture Soundtrack))
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/69LGCmz5gH56OxMRVmyMte
-  wikipedia: https://en.wikipedia.org/wiki/Ann-Margret
+  spotify: 'https://open.spotify.com/artist/69LGCmz5gH56OxMRVmyMte'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ann-Margret'
 image_path: 03_Resources/source_material/ArtistPortraits/Ann-Margret.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-18T15:41:19.489076'
-entry_created: 2025-09-18 11:50:48.831002
+entry_created: 2025-09-18T11:50:48.831Z
 last_updated: '2025-12-23T08:16:04.823689'
+artist_type: person
+origin: 'Winnetka, Illinois, United States'
 ---
 
 ![](Ann-Margret.jpg)

@@ -1,46 +1,52 @@
 ---
 biography_enhanced_at: '2025-12-25T01:17:50.818671'
-birth_place: Newark, New Jersey, United States
+birth_place: 'Newark, New Jersey, United States'
 enhancement_provider: perplexity
 entry_created: '2025-12-25T01:17:50.818681'
 external_urls:
-  spotify: https://open.spotify.com/artist/6nnjKHTxPpJtw08NqB0gvJ
-  wikipedia: https://en.wikipedia.org/wiki/Andy_Bey
+  spotify: 'https://open.spotify.com/artist/6nnjKHTxPpJtw08NqB0gvJ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Andy_Bey'
 genres:
-- vocal jazz
+  - vocal jazz
 image_path: 03_Resources/source_material/ArtistPortraits/andy_bey.jpg
 last_updated: '2025-12-25T01:17:50.818682'
 musical_connections:
   collaborators:
-  - Salome Bey and Geraldine Bey de Haas (Andy & the Bey Sisters)
-  - Gary Bartz (NTU Troop)
-  - Horace Silver
-  - Max Roach
-  - Duke Pearson
-  - Stanley Clarke
-  - Lonnie Liston Smith & the Cosmic Echoes
+    - Salome Bey and Geraldine Bey de Haas (Andy & the Bey Sisters)
+    - Gary Bartz (NTU Troop)
+    - Horace Silver
+    - Max Roach
+    - Duke Pearson
+    - Stanley Clarke
+    - Lonnie Liston Smith & the Cosmic Echoes
   influenced:
-  - Contemporary jazz vocalists (e.g., later generations of male jazz singers)
+    - 'Contemporary jazz vocalists (e.g., later generations of male jazz singers)'
   mentors:
-  - Sarah Vaughan
-  - Billie Holiday
-  - Nat King Cole
+    - Sarah Vaughan
+    - Billie Holiday
+    - Nat King Cole
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://jazztimes.com/features/tributes-and-obituaries/in-memoriam-andy-bey-1939-2025/
-- https://www.wrti.org/arts-desk/2025-04-29/andy-bey-jazz-singer-of-emotional-and-musical-range-has-died-at-85
-- https://downbeat.com/news/detail/vocalist-andy-bey-dies-at-85
-- https://www.wbgo.org/music/2025-04-29/the-jazz-world-mourns-the-loss-of-singer-pianist-and-newark-native-andy-bey
-- https://www.allaboutjazz.com/meet-andy-bey-andy-bey
-- https://www.jazz24.org/2025-05-02/remembering-andy-bey-a-love-letter-to-a-jazz-legend
+  - >-
+    https://jazztimes.com/features/tributes-and-obituaries/in-memoriam-andy-bey-1939-2025/
+  - >-
+    https://www.wrti.org/arts-desk/2025-04-29/andy-bey-jazz-singer-of-emotional-and-musical-range-has-died-at-85
+  - 'https://downbeat.com/news/detail/vocalist-andy-bey-dies-at-85'
+  - >-
+    https://www.wbgo.org/music/2025-04-29/the-jazz-world-mourns-the-loss-of-singer-pianist-and-newark-native-andy-bey
+  - 'https://www.allaboutjazz.com/meet-andy-bey-andy-bey'
+  - >-
+    https://www.jazz24.org/2025-05-02/remembering-andy-bey-a-love-letter-to-a-jazz-legend
 spotify_data:
   followers: 15870
   id: 6nnjKHTxPpJtw08NqB0gvJ
   popularity: 34
-  url: https://open.spotify.com/artist/6nnjKHTxPpJtw08NqB0gvJ
+  url: 'https://open.spotify.com/artist/6nnjKHTxPpJtw08NqB0gvJ'
 status: active
-title: andy bey
+title: Andy Bey
+birth_date: '1939-10-28'
+artist_type: person
 ---
 
 ![](andy_bey.jpg)

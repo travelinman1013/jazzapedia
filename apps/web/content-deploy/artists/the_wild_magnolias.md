@@ -1,15 +1,15 @@
 ---
-title: THE WILD MAGNOLIAS
+title: The Wild Magnolias
 wiki_slug: the-wild-magnolias
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1970'
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 instruments:
-- background vocals
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_wild_magnolias.jpg
   caption: THE WILD MAGNOLIAS
@@ -30,137 +30,137 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Willie Tee
-  - Snooks Eaglin
-  - ReBirth Brass Band
-  - Dr. John
-  - Monk Boudreaux
+    - Willie Tee
+    - Snooks Eaglin
+    - ReBirth Brass Band
+    - Dr. John
+    - Monk Boudreaux
   influenced:
-  - Bo Dollis Jr.
-  - June Yamagishi
+    - Bo Dollis Jr.
+    - June Yamagishi
   mentors:
-  - Leon, Flap, Joe Lee Davis
+    - 'Leon, Flap, Joe Lee Davis'
 spotify_data:
   followers: 8834
   id: 2l1iG0JqpgXHYg3RpRsHNz
   popularity: 15
-  url: https://open.spotify.com/artist/2l1iG0JqpgXHYg3RpRsHNz
+  url: 'https://open.spotify.com/artist/2l1iG0JqpgXHYg3RpRsHNz'
 discography_enriched: true
 top_tracks:
-- All On A Mardi Gras Day (Life Is A Carnival)
-- Carnival Time (I'm Back… At Carnival Time!)
-- Handa Wanda (Best of New Orleans (Mardi Gras Indians))
-- Carnival Time (The Rounder Records Story)
-- Party (Life Is A Carnival)
-- A Nickel and a Nail (Chip Off the Old Block)
-- Tipitina (Meet Me At Mardi Gras)
-- Chip Off The Old Block (Chip Off The Old Block)
-- Tipitina (I'm Back… At Carnival Time!)
-- New Suit (They Call Us Wild)
+  - All On A Mardi Gras Day (Life Is A Carnival)
+  - Carnival Time (I'm Back… At Carnival Time!)
+  - Handa Wanda (Best of New Orleans (Mardi Gras Indians))
+  - Carnival Time (The Rounder Records Story)
+  - Party (Life Is A Carnival)
+  - A Nickel and a Nail (Chip Off the Old Block)
+  - Tipitina (Meet Me At Mardi Gras)
+  - Chip Off The Old Block (Chip Off The Old Block)
+  - Tipitina (I'm Back… At Carnival Time!)
+  - New Suit (They Call Us Wild)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/db0a8f0a-ddb4-4fd3-908a-ae28045f7ed4
-  spotify: https://open.spotify.com/artist/2l1iG0JqpgXHYg3RpRsHNz
-  wikipedia: https://en.wikipedia.org/wiki/The_Wild_Magnolias
+  musicbrainz: 'https://musicbrainz.org/artist/db0a8f0a-ddb4-4fd3-908a-ae28045f7ed4'
+  spotify: 'https://open.spotify.com/artist/2l1iG0JqpgXHYg3RpRsHNz'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Wild_Magnolias'
 image_path: 03_Resources/source_material/ArtistPortraits/the_wild_magnolias.jpg
 biography_enhanced_at: '2025-11-05T12:58:37.277619'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Wild_Magnolias
-- https://m.sunnysiderecords.com/index.php/artist/id/312
-- https://www.offbeat.com/news/theodore-emile-bo-dollis/
-- https://www.arts.gov/honors/heritage/bo-dollis
+  - 'https://en.wikipedia.org/wiki/The_Wild_Magnolias'
+  - 'https://m.sunnysiderecords.com/index.php/artist/id/312'
+  - 'https://www.offbeat.com/news/theodore-emile-bo-dollis/'
+  - 'https://www.arts.gov/honors/heritage/bo-dollis'
 network_extracted: true
 entry_created: '2025-11-05T12:58:37.277629'
 last_updated: '2025-12-23T08:16:17.309096'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5ad82e37-dea0-4935-9dbe-40712d4295f2
-  name: Crip Adams
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 65372941-cc18-47a4-9ced-06964074a8d2
-  name: Big Chief Monk Boudreaux
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b3bfe7d7-92a8-48b0-88d7-e3f1e0d219a6
-  name: Bo Dollis
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 65a7cd15-d698-4d71-8353-9fbe90666ea0
-  name: Bo Dollis, Jr.
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c2156608-28ba-4624-9d79-2afb4632c0db
-  name: Gerard Dollis
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8d722779-d25a-493c-a324-c21fb9024e1b
-  name: Snooks Eaglin
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5761b080-d6c4-44cd-95de-d941a0c16522
-  name: Geenie
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 79ccd722-faa3-4890-a271-732335440b34
-  name: June Johnson, Jr.
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5da487af-ca26-4414-babe-b4b8225353da
-  name: Norwood Johnson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0b646d15-b1a7-435a-bcb2-a0f7904b0e12
-  name: Tobias Johnson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4b74c4d2-cab8-4dc6-ba2c-35594320025b
-  name: Larry Panna
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: be82d5da-eb51-424d-baaa-41f446c86690
-  name: Queen Rita
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d572cd17-3b65-4278-bf86-d73f7da735f2
-  name: Bubba Scott
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d014a132-d965-41a8-9bd0-525312d31fa2
-  name: Henry "Penney" Singleton
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 159f50f1-2cfb-42d0-a68a-f926435cb73b
-  name: James Smothers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f9e8a98e-0b40-40a1-88ec-d0d1401f2692
-  name: Willie Tee
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2c69c10e-0bdb-4518-954e-4f9bc81130f5
-  name: 山岸潤史
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5ad82e37-dea0-4935-9dbe-40712d4295f2
+    name: Crip Adams
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 65372941-cc18-47a4-9ced-06964074a8d2
+    name: Big Chief Monk Boudreaux
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b3bfe7d7-92a8-48b0-88d7-e3f1e0d219a6
+    name: Bo Dollis
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 65a7cd15-d698-4d71-8353-9fbe90666ea0
+    name: 'Bo Dollis, Jr.'
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c2156608-28ba-4624-9d79-2afb4632c0db
+    name: Gerard Dollis
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8d722779-d25a-493c-a324-c21fb9024e1b
+    name: Snooks Eaglin
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5761b080-d6c4-44cd-95de-d941a0c16522
+    name: Geenie
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 79ccd722-faa3-4890-a271-732335440b34
+    name: 'June Johnson, Jr.'
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5da487af-ca26-4414-babe-b4b8225353da
+    name: Norwood Johnson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0b646d15-b1a7-435a-bcb2-a0f7904b0e12
+    name: Tobias Johnson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4b74c4d2-cab8-4dc6-ba2c-35594320025b
+    name: Larry Panna
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: be82d5da-eb51-424d-baaa-41f446c86690
+    name: Queen Rita
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d572cd17-3b65-4278-bf86-d73f7da735f2
+    name: Bubba Scott
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d014a132-d965-41a8-9bd0-525312d31fa2
+    name: Henry "Penney" Singleton
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 159f50f1-2cfb-42d0-a68a-f926435cb73b
+    name: James Smothers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f9e8a98e-0b40-40a1-88ec-d0d1401f2692
+    name: Willie Tee
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2c69c10e-0bdb-4518-954e-4f9bc81130f5
+    name: 山岸潤史
 musicbrainz_id: db0a8f0a-ddb4-4fd3-908a-ae28045f7ed4
-origin: New Orleans
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](the_wild_magnolias.jpg)

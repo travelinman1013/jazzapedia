@@ -1,84 +1,88 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '1961'
-  end: '1962'
-  instruments:
-  - tenor saxophone
-  mbid: f137837b-fa55-48d1-8c85-f13961b3ac77
-  name: Miles Davis Sextet
-- begin: ''
-  end: ''
-  instruments:
-  - tenor saxophone
-  mbid: 9fb7dbc9-76cf-412d-91cf-79ae97d8ace2
-  name: Elmo Hope Sextet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - tenor saxophone
-  mbid: bec3f2e3-da8f-4f2c-9256-56c6f89d173d
-  name: Hank Mobley Quartet
+  - begin: '1961'
+    end: '1962'
+    instruments:
+      - tenor saxophone
+    mbid: f137837b-fa55-48d1-8c85-f13961b3ac77
+    name: Miles Davis Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: 9fb7dbc9-76cf-412d-91cf-79ae97d8ace2
+    name: Elmo Hope Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - tenor saxophone
+    mbid: bec3f2e3-da8f-4f2c-9256-56c6f89d173d
+    name: Hank Mobley Quartet
 biography_enhanced_at: '2026-01-22T07:26:21.280111'
 birth_date: '1930-07-07'
-birth_place: Eastman
+birth_place: 'Eastman, Georgia, United States'
 death_date: '1986-05-30'
 disambiguation: US jazz tenor saxophonist
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:26:21.280118'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/026b096e-e024-42ab-82f3-107bddae77c2
-  spotify: https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv
+  musicbrainz: 'https://musicbrainz.org/artist/026b096e-e024-42ab-82f3-107bddae77c2'
+  spotify: 'https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv'
   wikipedia: ''
 gender: Male
 genres:
-- hard bop
-- jazz
-- bebop
-- jazz ballads
-- cool jazz
+  - hard bop
+  - jazz
+  - bebop
+  - jazz ballads
+  - cool jazz
 image_path: 03_Resources/source_material/ArtistPortraits/hank_mobley.jpg
 instruments:
-- tenor saxophone
-- eponymous
+  - tenor saxophone
+  - eponymous
 last_updated: '2026-01-22T07:26:21.280118'
 musical_connections:
   collaborators:
-  - Horace Silver
-  - Art Blakey
-  - Miles Davis
-  - Dizzy Gillespie
-  - Max Roach
+    - Horace Silver
+    - Art Blakey
+    - Miles Davis
+    - Dizzy Gillespie
+    - Max Roach
   influenced:
-  - Johnny Griffin
-  - John Coltrane
+    - Johnny Griffin
+    - John Coltrane
   mentors:
-  - Lester Young
-  - Charlie Parker
-  - Clifford Brown
+    - Lester Young
+    - Charlie Parker
+    - Clifford Brown
 musicbrainz_id: 026b096e-e024-42ab-82f3-107bddae77c2
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.bluenote.com/artist/hank-mobley/
-- https://www.britannica.com/biography/Hank-Mobley
-- https://newyorkjazzworkshop.com/hankmobley/
-- https://www.selmer.fr/en/blogs/artistes/hank-mobley
-- https://downbeat.com/news/detail/hank-mobley-master-contrasts
-- https://jazzcollector.com/booksmagazines/guest-column-review-of-hank-mobley-bio/
-- https://www.wrti.org/cd-selections/2014-05-08/bob-perkins-jazz-library-memories-of-saxophonist-hank-mobley
+  - 'https://www.bluenote.com/artist/hank-mobley/'
+  - 'https://www.britannica.com/biography/Hank-Mobley'
+  - 'https://newyorkjazzworkshop.com/hankmobley/'
+  - 'https://www.selmer.fr/en/blogs/artistes/hank-mobley'
+  - 'https://downbeat.com/news/detail/hank-mobley-master-contrasts'
+  - >-
+    https://jazzcollector.com/booksmagazines/guest-column-review-of-hank-mobley-bio/
+  - >-
+    https://www.wrti.org/cd-selections/2014-05-08/bob-perkins-jazz-library-memories-of-saxophonist-hank-mobley
 spotify_data:
   followers: 110083
   id: 5cbutZUQE7SUCA6MsEMbBv
   popularity: 51
-  url: https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv
+  url: 'https://open.spotify.com/artist/5cbutZUQE7SUCA6MsEMbBv'
 status: active
 tags:
-- hard bop
-- jazz
-- soul jazz
-title: hank mobley
+  - hard bop
+  - jazz
+  - soul jazz
+title: Hank Mobley
+is_active: false
+origin: 'Elizabeth, New Jersey, United States'
 ---
 
 ![](hank_mobley.jpg)

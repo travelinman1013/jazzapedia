@@ -5,9 +5,9 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1978'
-birth_place: Dundas
+birth_place: 'London, Ontario, Canada'
 genres:
-- idm
+  - idm
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/caribou.jpg
   caption: Caribou
@@ -29,50 +29,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ryan Smith
-  - Brad Weber
-  - John Schmersal
-  - Marshall Allen
+    - Ryan Smith
+    - Brad Weber
+    - John Schmersal
+    - Marshall Allen
   influenced:
-  - Floating Points (Sam Shepherd)
-  - Joy Orbison
-  - Household Audio collective
+    - Floating Points (Sam Shepherd)
+    - Joy Orbison
+    - Household Audio collective
   mentors:
-  - Albert Ayler
-  - John Coltrane
-  - Four Tet (Kieran Hebden)
+    - Albert Ayler
+    - John Coltrane
+    - Four Tet (Kieran Hebden)
 spotify_data:
   followers: 724399
   id: 4aEnNH9PuU1HF3TsZTru54
   popularity: 58
-  url: https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54
+  url: 'https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54'
 discography_enriched: true
 top_tracks:
-- Can't Do Without You (Our Love)
-- Never Come Back (Suddenly)
-- Odessa (Swim)
-- Can't Do Without You (Our Love)
-- Home (Suddenly)
-- Odessa (Swim)
-- You and I (Suddenly)
-- Climbing - Solomun Remix
-- Home (Suddenly)
-- Come Find Me (Honey)
+  - Can't Do Without You (Our Love)
+  - Never Come Back (Suddenly)
+  - Odessa (Swim)
+  - Can't Do Without You (Our Love)
+  - Home (Suddenly)
+  - Odessa (Swim)
+  - You and I (Suddenly)
+  - Climbing - Solomun Remix
+  - Home (Suddenly)
+  - Come Find Me (Honey)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/735e3514-a8ae-401f-af3b-6300df1b8d2c
-  spotify: https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54
-  wikipedia: https://en.wikipedia.org/wiki/Dan_Snaith
+  musicbrainz: 'https://musicbrainz.org/artist/735e3514-a8ae-401f-af3b-6300df1b8d2c'
+  spotify: 'https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dan_Snaith'
 image_path: 03_Resources/source_material/ArtistPortraits/caribou.jpg
 biography_enhanced_at: '2025-11-20T06:57:33.920430'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Dan_Snaith
-- https://thecreativeindependent.com/people/dan-snaith
-- https://www.redbullmusicacademy.com/lectures/caribou-the-artist-formerly-known-as-manitoba/
-- https://www.last.fm/music/Caribou/+wiki
-- https://www.vice.com/en/article/dan-snaith-caribou-interview/
-- https://kids.kiddle.co/Dan_Snaith
+  - 'https://en.wikipedia.org/wiki/Dan_Snaith'
+  - 'https://thecreativeindependent.com/people/dan-snaith'
+  - >-
+    https://www.redbullmusicacademy.com/lectures/caribou-the-artist-formerly-known-as-manitoba/
+  - 'https://www.last.fm/music/Caribou/+wiki'
+  - 'https://www.vice.com/en/article/dan-snaith-caribou-interview/'
+  - 'https://kids.kiddle.co/Dan_Snaith'
 network_extracted: true
 entry_created: '2025-11-20T06:57:33.920438'
 last_updated: '2025-12-23T08:16:06.428224'
@@ -80,9 +81,9 @@ disambiguation: Canadian composer and musician
 gender: Male
 musicbrainz_id: 735e3514-a8ae-401f-af3b-6300df1b8d2c
 tags:
-- dream pop
-- electronic
-- folktronica
+  - dream pop
+  - electronic
+  - folktronica
 ---
 
 ![](caribou.jpg)

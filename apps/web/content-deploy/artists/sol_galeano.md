@@ -1,18 +1,18 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e3beaf72-c7ee-4926-b530-c60d28b740bc
-  name: BELOVED SUN
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e3beaf72-c7ee-4926-b530-c60d28b740bc
+    name: BELOVED SUN
 biography_enhanced_at: '2026-01-09T01:49:52.703971'
 birth_place: United States
 enhancement_provider: perplexity
 entry_created: '2026-01-09T01:49:52.703977'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/30917f84-5456-43de-be95-f76ac83e0b26
-  spotify: https://open.spotify.com/artist/1CcZMlt1mVa4otnwA340hL
+  musicbrainz: 'https://musicbrainz.org/artist/30917f84-5456-43de-be95-f76ac83e0b26'
+  spotify: 'https://open.spotify.com/artist/1CcZMlt1mVa4otnwA340hL'
   wikipedia: ''
 gender: Female
 genres: []
@@ -20,28 +20,29 @@ image_path: ''
 last_updated: '2026-01-09T01:49:52.703978'
 musical_connections:
   collaborators:
-  - khiarra
-  - reia
-  - nicotine
+    - khiarra
+    - reia
+    - nicotine
   influenced: []
   mentors: []
 musicbrainz_id: 30917f84-5456-43de-be95-f76ac83e0b26
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.thelunacollective.co/journal/qa-sol-galeano
-- https://soundcloud.com/solgaleano
-- https://www.solgaleano.studio
-- https://www.last.fm/music/SOL+GALEANO/+wiki
-- https://www.last.fm/music/SOL+GALEANO/+wiki/history
-- https://solgaleano.bandcamp.com/album/glass-boi-2
+  - 'https://www.thelunacollective.co/journal/qa-sol-galeano'
+  - 'https://soundcloud.com/solgaleano'
+  - 'https://www.solgaleano.studio'
+  - 'https://www.last.fm/music/SOL+GALEANO/+wiki'
+  - 'https://www.last.fm/music/SOL+GALEANO/+wiki/history'
+  - 'https://solgaleano.bandcamp.com/album/glass-boi-2'
 spotify_data:
   followers: 0
   id: 1CcZMlt1mVa4otnwA340hL
   popularity: 0
-  url: https://open.spotify.com/artist/1CcZMlt1mVa4otnwA340hL
+  url: 'https://open.spotify.com/artist/1CcZMlt1mVa4otnwA340hL'
 status: active
 title: Sol Galeano
+origin: United States
 ---
 
 ![]()

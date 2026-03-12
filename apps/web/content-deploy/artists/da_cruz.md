@@ -3,43 +3,45 @@ biography_enhanced_at: '2025-12-28T01:53:22.776520'
 enhancement_provider: perplexity
 entry_created: '2025-12-28T01:53:22.776534'
 external_urls:
-  spotify: https://open.spotify.com/artist/14zXojIFl2UIWoJQDkJrm8
-  wikipedia: https://en.wikipedia.org/wiki/Da_Cruz
+  spotify: 'https://open.spotify.com/artist/14zXojIFl2UIWoJQDkJrm8'
+  wikipedia: 'https://en.wikipedia.org/wiki/Da_Cruz'
 genres:
-- tropical house
-- lounge
+  - tropical house
+  - lounge
 image_path: 03_Resources/source_material/ArtistPortraits/da_cruz.jpg
 last_updated: '2025-12-28T01:53:22.776536'
 musical_connections:
   collaborators:
-  - Mariana Da Cruz
-  - Ane Hebeisen (Ane H.)
-  - Oliver Husmann
-  - Pit Lee
-  - Nik Hurny
-  - Marc Stucki
+    - Mariana Da Cruz
+    - Ane Hebeisen (Ane H.)
+    - Oliver Husmann
+    - Pit Lee
+    - Nik Hurny
+    - Marc Stucki
   influenced:
-  - ''
+    - ''
   mentors:
-  - Elis Regina
-  - Jorge Ben
-  - Fela Kuti
-  - Swans and Suicide (bands)
+    - Elis Regina
+    - Jorge Ben
+    - Fela Kuti
+    - Swans and Suicide (bands)
 network_extracted: true
-origin: Bern, Canton of Bern, Switzerland / São Paulo, São Paulo State, Brazil (binational
-  origin of the group)
+origin: >-
+  Bern, Canton of Bern, Switzerland / São Paulo, São Paulo State, Brazil
+  (binational origin of the group)
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Da_Cruz
-- https://koeterhai.de/en/artists/dacruz-en/
-- https://www.sixdegreesrecords.com/da-cruz/
+  - 'https://en.wikipedia.org/wiki/Da_Cruz'
+  - 'https://koeterhai.de/en/artists/dacruz-en/'
+  - 'https://www.sixdegreesrecords.com/da-cruz/'
 spotify_data:
   followers: 32055
   id: 14zXojIFl2UIWoJQDkJrm8
   popularity: 52
-  url: https://open.spotify.com/artist/14zXojIFl2UIWoJQDkJrm8
+  url: 'https://open.spotify.com/artist/14zXojIFl2UIWoJQDkJrm8'
 status: active
 title: Da Cruz
+artist_type: person
 ---
 
 ![](da_cruz.jpg)

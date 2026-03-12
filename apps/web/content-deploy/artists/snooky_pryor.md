@@ -5,21 +5,21 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1921-09-15'
-birth_place: Lambert, Mississippi, United States
+birth_place: 'Lambert, Mississippi, United States'
 death_date: '2006-10-18'
 genres:
-- blues
-- classic blues
-- modern blues
+  - blues
+  - classic blues
+  - modern blues
 instruments:
-- lead vocals
-- spoken vocals
+  - lead vocals
+  - spoken vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/snooky_pryor.jpg
   caption: Snooky Pryor
   background: solo_singer
   born: '1921-09-15'
-  origin: Lambert, Mississippi, United States
+  origin: 'Lambert, Mississippi, United States'
   died: '2006-10-18'
 audio_profile:
   tempo_avg: 127.2
@@ -36,48 +36,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Moody Jones
-  - Floyd Jones
-  - Homesick James
-  - Sunnyland Slim
-  - Jimmy Rogers
+    - Moody Jones
+    - Floyd Jones
+    - Homesick James
+    - Sunnyland Slim
+    - Jimmy Rogers
   influenced:
-  - Little Walter
-  - Pretty Things
-  - Eric Clapton
+    - Little Walter
+    - Pretty Things
+    - Eric Clapton
   mentors:
-  - Sonny Boy Williamson I (John Lee Williamson)
-  - Sonny Boy Williamson II (Aleck Ford "Rice" Miller)
+    - Sonny Boy Williamson I (John Lee Williamson)
+    - Sonny Boy Williamson II (Aleck Ford "Rice" Miller)
 spotify_data:
   followers: 19478
   id: 2mGsLcgVJSfpUTgrMuPxt3
   popularity: 29
-  url: https://open.spotify.com/artist/2mGsLcgVJSfpUTgrMuPxt3
+  url: 'https://open.spotify.com/artist/2mGsLcgVJSfpUTgrMuPxt3'
 discography_enriched: true
 top_tracks:
-- Work With Me Annie (Shake My Hand)
-- Bottle It Up and Go (Too Cool to Move)
-- Bury You in a Paper Sack (In This Mess Up to My Chest)
-- Shake Your Boogie (Mind Your Own Business)
-- Keyhole in Your Door (Too Cool to Move)
-- Coal Black Mare (Too Cool to Move)
-- Come on Down to My House (Mind Your Own Business)
-- Crazy 'Bout My Baby (Snooky)
-- Stick Way out Behind (In This Mess Up to My Chest)
-- Can I Get a Witness? (In This Mess Up to My Chest)
+  - Work With Me Annie (Shake My Hand)
+  - Bottle It Up and Go (Too Cool to Move)
+  - Bury You in a Paper Sack (In This Mess Up to My Chest)
+  - Shake Your Boogie (Mind Your Own Business)
+  - Keyhole in Your Door (Too Cool to Move)
+  - Coal Black Mare (Too Cool to Move)
+  - Come on Down to My House (Mind Your Own Business)
+  - Crazy 'Bout My Baby (Snooky)
+  - Stick Way out Behind (In This Mess Up to My Chest)
+  - Can I Get a Witness? (In This Mess Up to My Chest)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f1027a6e-4a7b-465b-814d-a93a1941ed1e
-  spotify: https://open.spotify.com/artist/2mGsLcgVJSfpUTgrMuPxt3
-  wikipedia: https://en.wikipedia.org/wiki/Snooky_Pryor
+  musicbrainz: 'https://musicbrainz.org/artist/f1027a6e-4a7b-465b-814d-a93a1941ed1e'
+  spotify: 'https://open.spotify.com/artist/2mGsLcgVJSfpUTgrMuPxt3'
+  wikipedia: 'https://en.wikipedia.org/wiki/Snooky_Pryor'
 image_path: 03_Resources/source_material/ArtistPortraits/snooky_pryor.jpg
 biography_enhanced_at: '2025-10-23T07:36:06.766794'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://wbssmedia.com/artists/detail/2238
-- https://www.allaboutjazz.com/musicians/snooky-pryor/
-- https://blues.org/blues_hof_inductee/snooky-pryor/
-- https://en.wikipedia.org/wiki/Snooky_Pryor
+  - 'https://wbssmedia.com/artists/detail/2238'
+  - 'https://www.allaboutjazz.com/musicians/snooky-pryor/'
+  - 'https://blues.org/blues_hof_inductee/snooky-pryor/'
+  - 'https://en.wikipedia.org/wiki/Snooky_Pryor'
 network_extracted: true
 entry_created: '2025-10-23T07:36:06.766806'
 last_updated: '2025-12-23T08:16:15.838380'
@@ -85,7 +85,9 @@ disambiguation: blues harmonica player
 gender: Male
 musicbrainz_id: f1027a6e-4a7b-465b-814d-a93a1941ed1e
 tags:
-- blues
+  - blues
+is_active: false
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](snooky_pryor.jpg)

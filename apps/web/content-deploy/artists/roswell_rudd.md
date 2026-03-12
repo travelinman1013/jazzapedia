@@ -5,42 +5,42 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1935-11-17'
-birth_place: Sharon
+birth_place: 'Sharon, Connecticut, United States'
 death_date: '2017-12-21'
 genres:
-- free jazz
-- avant-garde
+  - free jazz
+  - avant-garde
 instruments:
-- original
-- trombone
-- eponymous
-associated_acts:
-- begin: '1964'
-  end: ''
-  instruments:
   - original
   - trombone
-  mbid: 52a923b0-c3bc-47b6-ab81-3e1e82cc1de7
-  name: New York Art Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2e5d212d-74bf-4b50-a485-cdd9673cede3
-  name: Steve Swell Quartet
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
-  - original
-  - trombone
-  mbid: 113726a1-a9e8-4e93-9a60-fae6ef46ef5c
-  name: Roswell Rudd Sextet
-- begin: ''
-  end: ''
-  instruments:
-  - trombone
-  mbid: 5214982b-0151-484d-b08f-06d52d22cf92
-  name: Charlie Haden’s Liberation Music Orchestra
+associated_acts:
+  - begin: '1964'
+    end: ''
+    instruments:
+      - original
+      - trombone
+    mbid: 52a923b0-c3bc-47b6-ab81-3e1e82cc1de7
+    name: New York Art Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2e5d212d-74bf-4b50-a485-cdd9673cede3
+    name: Steve Swell Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - trombone
+    mbid: 113726a1-a9e8-4e93-9a60-fae6ef46ef5c
+    name: Roswell Rudd Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - trombone
+    mbid: 5214982b-0151-484d-b08f-06d52d22cf92
+    name: Charlie Haden’s Liberation Music Orchestra
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/roswell_rudd.jpg
   caption: Roswell Rudd
@@ -63,60 +63,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Archie Shepp
-  - Cecil Taylor
-  - John Tchicai
-  - Carla Bley
-  - Steve Lacy
-  - Charlie Haden
-  - Toumani Diabaté
+    - Archie Shepp
+    - Cecil Taylor
+    - John Tchicai
+    - Carla Bley
+    - Steve Lacy
+    - Charlie Haden
+    - Toumani Diabaté
   influenced:
-  - Modern jazz trombonists
+    - Modern jazz trombonists
   mentors:
-  - Herbie Nichols
-  - Louis Armstrong
+    - Herbie Nichols
+    - Louis Armstrong
 spotify_data:
   followers: 3351
   id: 6nCAbymHv2MRYV1sluCDr9
   popularity: 19
-  url: https://open.spotify.com/artist/6nCAbymHv2MRYV1sluCDr9
+  url: 'https://open.spotify.com/artist/6nCAbymHv2MRYV1sluCDr9'
 discography_enriched: true
 top_tracks:
-- Bamako (Malicool)
-- Don's Dawn
-- All Through The Night (Malicool)
-- Jackie-Ing (Malicool)
-- Feeling Good (The Incredible Honk)
-- Rosmani (Malicool)
-- A.Y.
-- Hank (Malicool)
-- Johanna (Malicool)
-- Malicool (Malicool)
+  - Bamako (Malicool)
+  - Don's Dawn
+  - All Through The Night (Malicool)
+  - Jackie-Ing (Malicool)
+  - Feeling Good (The Incredible Honk)
+  - Rosmani (Malicool)
+  - A.Y.
+  - Hank (Malicool)
+  - Johanna (Malicool)
+  - Malicool (Malicool)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/52f469ef-3992-4b0f-9560-c9982d98c146
-  spotify: https://open.spotify.com/artist/6nCAbymHv2MRYV1sluCDr9
-  wikipedia: https://en.wikipedia.org/wiki/Roswell_Rudd
+  musicbrainz: 'https://musicbrainz.org/artist/52f469ef-3992-4b0f-9560-c9982d98c146'
+  spotify: 'https://open.spotify.com/artist/6nCAbymHv2MRYV1sluCDr9'
+  wikipedia: 'https://en.wikipedia.org/wiki/Roswell_Rudd'
 image_path: 03_Resources/source_material/ArtistPortraits/roswell_rudd.jpg
 biography_enhanced_at: '2025-11-20T07:11:32.796643'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Roswell_Rudd
-- https://www.nepm.org/jazz-world/2017-12-27/roswell-rudd-downhome-yankee-trombonist-1935-2017
-- https://www.roswellrudd.com/bio
-- https://www.wbgo.org/music/2017-12-22/roswell-rudd-trombonist-of-agreeable-bluster-and-far-ranging-influence-dies-at-82
-- https://artsfuse.org/166755/remembrance-roswell-rudd-avant-garde-trombonist-extraordinaire/
-- https://www.culturalequity.org/alan-lomax/friends/rudd
-- https://www.allaboutjazz.com/musicians/roswell-rudd/
+  - 'https://en.wikipedia.org/wiki/Roswell_Rudd'
+  - >-
+    https://www.nepm.org/jazz-world/2017-12-27/roswell-rudd-downhome-yankee-trombonist-1935-2017
+  - 'https://www.roswellrudd.com/bio'
+  - >-
+    https://www.wbgo.org/music/2017-12-22/roswell-rudd-trombonist-of-agreeable-bluster-and-far-ranging-influence-dies-at-82
+  - >-
+    https://artsfuse.org/166755/remembrance-roswell-rudd-avant-garde-trombonist-extraordinaire/
+  - 'https://www.culturalequity.org/alan-lomax/friends/rudd'
+  - 'https://www.allaboutjazz.com/musicians/roswell-rudd/'
 network_extracted: true
 entry_created: '2025-11-20T07:11:32.796650'
 last_updated: '2025-12-23T08:16:15.092146'
 gender: Male
 musicbrainz_id: 52f469ef-3992-4b0f-9560-c9982d98c146
 tags:
-- 2008 universal fire victim
-- avant-garde jazz
-- free jazz
+  - 2008 universal fire victim
+  - avant-garde jazz
+  - free jazz
+is_active: false
 ---
 
 ![](roswell_rudd.jpg)

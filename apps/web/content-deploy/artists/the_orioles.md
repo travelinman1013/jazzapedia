@@ -3,44 +3,46 @@ biography_enhanced_at: '2025-12-30T01:25:31.272300'
 enhancement_provider: perplexity
 entry_created: '2025-12-30T01:25:31.272306'
 external_urls:
-  spotify: https://open.spotify.com/artist/4Am5deuAhDuKUJgXmoCQzj
-  wikipedia: https://en.wikipedia.org/wiki/The_Orioles
+  spotify: 'https://open.spotify.com/artist/4Am5deuAhDuKUJgXmoCQzj'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Orioles'
 genres:
-- doo-wop
+  - doo-wop
 image_path: 03_Resources/source_material/ArtistPortraits/the_orioles.jpg
 last_updated: '2025-12-30T01:25:31.272307'
 musical_connections:
   collaborators:
-  - Sonny Til
-  - Tommy Gaither
-  - Alexander Sharp
-  - George Nelson
-  - Johnny Reed
-  - Gerald Gregory
+    - Sonny Til
+    - Tommy Gaither
+    - Alexander Sharp
+    - George Nelson
+    - Johnny Reed
+    - Gerald Gregory
   influenced:
-  - Doo-wop vocal groups of 1950s-60s
-  - Vocal groups with ornithological names
+    - Doo-wop vocal groups of 1950s-60s
+    - Vocal groups with ornithological names
   mentors:
-  - Deborah Chessler
-  - The Ink Spots
-  - The Ravens
-  - Gospel groups like The Soul Stirrers
+    - Deborah Chessler
+    - The Ink Spots
+    - The Ravens
+    - Gospel groups like The Soul Stirrers
 network_extracted: true
-origin: Baltimore, Maryland, United States
+origin: 'Baltimore, Maryland, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Orioles
-- https://vocalgroup.org/inductees/sonny-til-and-the-orioles/
-- https://www.britannica.com/topic/The-Orioles
-- https://www.rhino.com/article/the-orioles
-- https://www.uncamarvy.com/Orioles/orioles3.html
+  - 'https://en.wikipedia.org/wiki/The_Orioles'
+  - 'https://vocalgroup.org/inductees/sonny-til-and-the-orioles/'
+  - 'https://www.britannica.com/topic/The-Orioles'
+  - 'https://www.rhino.com/article/the-orioles'
+  - 'https://www.uncamarvy.com/Orioles/orioles3.html'
 spotify_data:
   followers: 7562
   id: 4Am5deuAhDuKUJgXmoCQzj
   popularity: 23
-  url: https://open.spotify.com/artist/4Am5deuAhDuKUJgXmoCQzj
+  url: 'https://open.spotify.com/artist/4Am5deuAhDuKUJgXmoCQzj'
 status: active
-title: THE ORIOLES
+title: The Orioles
+birth_date: '1928-08-18'
+artist_type: band
 ---
 
 ![](the_orioles.jpg)

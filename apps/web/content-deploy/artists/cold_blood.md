@@ -1,89 +1,89 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-01-04T01:59:26.694685'
 birth_date: '1968'
 enhancement_provider: perplexity
 entry_created: '2026-01-04T01:59:26.694689'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6f007e8d-cb04-4b1e-b259-f122a929687e
-  spotify: https://open.spotify.com/artist/224JfHoUX8o2qUzzYtWuny
+  musicbrainz: 'https://musicbrainz.org/artist/6f007e8d-cb04-4b1e-b259-f122a929687e'
+  spotify: 'https://open.spotify.com/artist/224JfHoUX8o2qUzzYtWuny'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/cold_blood.jpg
 instruments:
-- bass
-- guitar
-- trumpet
+  - bass
+  - guitar
+  - trumpet
 last_updated: '2026-01-04T01:59:26.694690'
 members:
-- &id001
-  begin: '1968'
-  end: ''
-  instruments: []
-  mbid: 3f06eaf8-5bf8-40df-8cc5-9d0c49ebb189
-  name: Lydia Pense
-- begin: ''
-  end: ''
-  instruments:
-  - bass
-  mbid: 53eeb8d6-16b5-41c7-913d-cb84ec1ec04b
-  name: Rod Ellicott
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: 1ae2554a-b9c0-41c1-83b6-9707baecdaac
-  name: Larry Field
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ecdb6684-f3c8-48d9-9271-80d0bae0a260
-  name: Raul Matute
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2a4e5619-7875-44a9-8f7d-f0bb349a2428
-  name: Skip Mesquite
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: d2ae64e9-774e-4e09-81eb-7ba8e08fb0b1
-  name: David Padron
+  - &ref_0
+    begin: '1968'
+    end: ''
+    instruments: []
+    mbid: 3f06eaf8-5bf8-40df-8cc5-9d0c49ebb189
+    name: Lydia Pense
+  - begin: ''
+    end: ''
+    instruments:
+      - bass
+    mbid: 53eeb8d6-16b5-41c7-913d-cb84ec1ec04b
+    name: Rod Ellicott
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 1ae2554a-b9c0-41c1-83b6-9707baecdaac
+    name: Larry Field
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ecdb6684-f3c8-48d9-9271-80d0bae0a260
+    name: Raul Matute
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2a4e5619-7875-44a9-8f7d-f0bb349a2428
+    name: Skip Mesquite
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: d2ae64e9-774e-4e09-81eb-7ba8e08fb0b1
+    name: David Padron
 musical_connections:
   collaborators:
-  - Larry Field
-  - Rod Ellicott
-  - Raul Matute
-  - Tower of Power members (Mic Gillette, Skip Mesquite)
+    - Larry Field
+    - Rod Ellicott
+    - Raul Matute
+    - 'Tower of Power members (Mic Gillette, Skip Mesquite)'
   influenced: []
   mentors:
-  - Bill Graham
-  - Janis Joplin
+    - Bill Graham
+    - Janis Joplin
 musicbrainz_id: 6f007e8d-cb04-4b1e-b259-f122a929687e
 network_extracted: true
-origin: San Francisco
+origin: 'San Francisco, California, United States'
 original_members:
-- *id001
+  - *ref_0
 primary_source: perplexity
 research_sources:
-- 'YouTube: Cold Blood, The Early Years[1]'
-- 'Yoshi''s: Lydia Pense & Cold Blood bio[2]'
-- lydiapense.com Band Bio[3]
-- 'popcultureclassics.com: Lydia Pense[4]'
-- overdoseoffingalcocoa.blogspot.com[5]
-- last.fm Cold Blood wiki[6]
-- 'theband.hiof.no: Thriller lineup[7]'
+  - 'YouTube: Cold Blood, The Early Years[1]'
+  - 'Yoshi''s: Lydia Pense & Cold Blood bio[2]'
+  - 'lydiapense.com Band Bio[3]'
+  - 'popcultureclassics.com: Lydia Pense[4]'
+  - 'overdoseoffingalcocoa.blogspot.com[5]'
+  - 'last.fm Cold Blood wiki[6]'
+  - 'theband.hiof.no: Thriller lineup[7]'
 spotify_data:
   followers: 65
   id: 224JfHoUX8o2qUzzYtWuny
   popularity: 16
-  url: https://open.spotify.com/artist/224JfHoUX8o2qUzzYtWuny
+  url: 'https://open.spotify.com/artist/224JfHoUX8o2qUzzYtWuny'
 status: active
 tags:
-- jazz rock
-- jazz-funk
-- rock
+  - jazz rock
+  - jazz-funk
+  - rock
 title: Cold Blood
 ---
 

@@ -2,26 +2,30 @@
 title: Andy Williams
 wiki_slug: andy-williams
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 aliases: []
 birth_date: '1927-12-03'
-birth_place: Bessemer, Alabama, United States (birthplace); Chicago, Illinois, United States (raised)
+birth_place: >-
+  Bessemer, Alabama, United States (birthplace); Chicago, Illinois, United
+  States (raised)
 death_date: '2012-09-25'
 genres:
-- christmas
-- adult standards
+  - christmas
+  - adult standards
 instruments:
-- original
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Andy_Williams.jpg
   caption: Andy Williams
   background: non_vocal_instrumentalist
   born: '1927-12-03'
-  origin: Bessemer, Alabama, United States (birthplace); Chicago, Illinois, United States (raised)
+  origin: >-
+    Bessemer, Alabama, United States (birthplace); Chicago, Illinois, United
+    States (raised)
   died: '2012-09-25'
 audio_profile:
-  tempo_avg: 117.0
+  tempo_avg: 117
   energy_avg: 0.367
   valence_avg: 0.41
   danceability_avg: 0.341
@@ -35,67 +39,71 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Five Dollars / Don Juans
-  - Stevie Wonder
-  - Mary Wells
-  - The Contours
-  - Edwin Starr
-  - Ike Turner
-  - Jon Spencer
-  - The Sadies
-  - Dick Taylor (The Pretty Things)
+    - The Five Dollars / Don Juans
+    - Stevie Wonder
+    - Mary Wells
+    - The Contours
+    - Edwin Starr
+    - Ike Turner
+    - Jon Spencer
+    - The Sadies
+    - Dick Taylor (The Pretty Things)
   influenced:
-  - Hip-hop artists
-  - Punk and garage rock musicians
+    - Hip-hop artists
+    - Punk and garage rock musicians
   mentors:
-  - Devora Brown
-  - Ed Wingate
+    - Devora Brown
+    - Ed Wingate
 related_artists: []
 spotify_data:
   followers: 587113
   id: 4sj6D0zlMOl25nprDJBiU9
   popularity: 60
-  url: https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9
+  url: 'https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9'
   verified: false
 discography_enriched: true
 albums_count: 39
 singles_count: 0
 top_tracks:
-- It's the Most Wonderful Time of the Year (The Andy Williams Christmas Album)
-- Moon River (From "Breakfast at Tiffany's") (Moon River And Other Great Movie Themes)
-- Can't Take My Eyes Off You (Can't Get Used To Losing You / Love, Andy)
-- Happy Holiday / The Holiday Season (The Andy Williams Christmas Album)
-- Where Do I Begin - Love Theme from "Love Story" (Love Story)
-- A Summer Place (Moon River And Other Great Movie Themes)
-- It's the Most Wonderful Time of the Year (The Andy Williams Christmas Album)
-- The First Noël (The Andy Williams Christmas Album)
-- Sleigh Ride (Merry Christmas)
-- Can't Take My Eyes Off You
+  - It's the Most Wonderful Time of the Year (The Andy Williams Christmas Album)
+  - >-
+    Moon River (From "Breakfast at Tiffany's") (Moon River And Other Great Movie
+    Themes)
+  - 'Can''t Take My Eyes Off You (Can''t Get Used To Losing You / Love, Andy)'
+  - Happy Holiday / The Holiday Season (The Andy Williams Christmas Album)
+  - Where Do I Begin - Love Theme from "Love Story" (Love Story)
+  - A Summer Place (Moon River And Other Great Movie Themes)
+  - It's the Most Wonderful Time of the Year (The Andy Williams Christmas Album)
+  - The First Noël (The Andy Williams Christmas Album)
+  - Sleigh Ride (Merry Christmas)
+  - Can't Take My Eyes Off You
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/57cb4257-9855-4a42-b1be-bfba1d9b520d
-  spotify: https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9
-  wikipedia: https://en.wikipedia.org/wiki/Andre_Williams_(musician)
+  musicbrainz: 'https://musicbrainz.org/artist/57cb4257-9855-4a42-b1be-bfba1d9b520d'
+  spotify: 'https://open.spotify.com/artist/4sj6D0zlMOl25nprDJBiU9'
+  wikipedia: 'https://en.wikipedia.org/wiki/Andre_Williams_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/Andy_Williams.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:06:42.373591'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Bhamwiki
-- Michigan Rock and Roll Legends
-- Top40Weekly
+  - Bhamwiki
+  - Michigan Rock and Roll Legends
+  - Top40Weekly
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 13:07:17.394415
+entry_created: 2025-09-18T13:07:17.394Z
 last_updated: '2025-12-23T08:16:01.006340'
 disambiguation: US pop/jazz vocalist
 gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:05:43.086849'
 musicbrainz_id: 57cb4257-9855-4a42-b1be-bfba1d9b520d
 tags:
-- christmas music
-- easy listening
-- easy listening soundtracks and musicals
+  - christmas music
+  - easy listening
+  - easy listening soundtracks and musicals
+is_active: false
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](Andy_Williams.jpg)

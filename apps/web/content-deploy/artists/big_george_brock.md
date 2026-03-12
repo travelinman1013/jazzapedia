@@ -1,18 +1,20 @@
 ---
-title: big george brock
+title: Big George Brock
 wiki_slug: big-george-brock
 schema_version: 2
 status: active
-birth_place: Grenada, Mississippi, United States (birthplace); St. Louis, Missouri, United States (primary residence and career
-  base)
+birth_place: >-
+  Grenada, Mississippi, United States (birthplace); St. Louis, Missouri, United
+  States (primary residence and career base)
 genres:
-- blues
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/big_george_brock.jpg
   caption: big george brock
   background: solo_singer
-  origin: Grenada, Mississippi, United States (birthplace); St. Louis, Missouri, United States (primary residence and career
-    base)
+  origin: >-
+    Grenada, Mississippi, United States (birthplace); St. Louis, Missouri,
+    United States (primary residence and career base)
 audio_profile:
   tempo_avg: 129.9
   energy_avg: 0.502
@@ -28,49 +30,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Riley Coatie Sr.
-  - Big George and the Houserockers
-  - Roger Stolle
+    - Riley Coatie Sr.
+    - Big George and the Houserockers
+    - Roger Stolle
   influenced: []
   mentors:
-  - Howlin' Wolf
-  - John Lee "Sonny Boy" Williamson
-  - Wayne Raney
-  - Muddy Waters
+    - Howlin' Wolf
+    - John Lee "Sonny Boy" Williamson
+    - Wayne Raney
+    - Muddy Waters
 spotify_data:
   followers: 708
   id: 5nkLP01y07JXNMJLKzKQqP
   popularity: 1
-  url: https://open.spotify.com/artist/5nkLP01y07JXNMJLKzKQqP
+  url: 'https://open.spotify.com/artist/5nkLP01y07JXNMJLKzKQqP'
 discography_enriched: true
 top_tracks:
-- I Just Want To Make Love To You (Heavyweight Blues)
-- Walking Thru The Park (Heavyweight Blues)
-- Still A Fool (Two Trains Running) (Heavyweight Blues)
-- Cut You Loose (Live At Seventy Five)
-- So Long (Round Two)
-- All Night Long (Club Caravan)
-- 'So Long (Homeward Bound: A Loving Tribute to John-Alex Mason)'
-- Smokestack Lightining (Heavyweight Blues)
-- Tiger In Your Tank (Heavyweight Blues)
-- Trouble No More (Heavyweight Blues)
+  - I Just Want To Make Love To You (Heavyweight Blues)
+  - Walking Thru The Park (Heavyweight Blues)
+  - Still A Fool (Two Trains Running) (Heavyweight Blues)
+  - Cut You Loose (Live At Seventy Five)
+  - So Long (Round Two)
+  - All Night Long (Club Caravan)
+  - 'So Long (Homeward Bound: A Loving Tribute to John-Alex Mason)'
+  - Smokestack Lightining (Heavyweight Blues)
+  - Tiger In Your Tank (Heavyweight Blues)
+  - Trouble No More (Heavyweight Blues)
 external_urls:
-  spotify: https://open.spotify.com/artist/5nkLP01y07JXNMJLKzKQqP
+  spotify: 'https://open.spotify.com/artist/5nkLP01y07JXNMJLKzKQqP'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/big_george_brock.jpg
 biography_enhanced_at: '2025-11-27T06:33:02.221624'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- 'Living Blues #267: Obituaries'
-- NAMM.org Oral History
-- STLBlues.net
-- MojoHand - Everything Blues
-- Big Train Blues
-- Baucom's Precious Memories Obituary
+  - 'Living Blues #267: Obituaries'
+  - NAMM.org Oral History
+  - STLBlues.net
+  - MojoHand - Everything Blues
+  - Big Train Blues
+  - Baucom's Precious Memories Obituary
 network_extracted: true
 entry_created: '2025-11-27T06:33:02.221639'
 last_updated: '2025-12-23T08:16:05.439043'
+origin: 'St. Louis, Missouri, United States'
+birth_date: '1932-05-16'
+artist_type: person
 ---
 
 ![](big_george_brock.jpg)

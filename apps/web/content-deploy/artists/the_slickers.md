@@ -1,12 +1,12 @@
 ---
-title: THE SLICKERS
+title: The Slickers
 wiki_slug: the-slickers
 schema_version: 2
 status: active
 genres:
-- ska
-- rocksteady
-- ska punk
+  - ska
+  - rocksteady
+  - ska punk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_slickers.jpg
   caption: THE SLICKERS
@@ -26,47 +26,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Derrick Crooks
-  - Sydney Crooks
+    - Derrick Crooks
+    - Sydney Crooks
   influenced:
-  - Sublime
-  - UB40
+    - Sublime
+    - UB40
   mentors:
-  - Duke Reid
-  - Clement 'Coxsone' Dodd
+    - Duke Reid
+    - Clement 'Coxsone' Dodd
 spotify_data:
   followers: 75722
   id: 2QRPuDfRA9LtoeGFaMikmK
   popularity: 38
-  url: https://open.spotify.com/artist/2QRPuDfRA9LtoeGFaMikmK
+  url: 'https://open.spotify.com/artist/2QRPuDfRA9LtoeGFaMikmK'
 discography_enriched: true
 top_tracks:
-- Wasted Days (Wasted Days)
-- Have The Time (The Question)
-- I Shall Be Released (Peculiar)
-- Married Girl (Redlight)
-- Rude and Reckless (Redlight)
-- International War Criminal (Peculiar)
-- Watch This (Redlight)
-- I Still Love You (Redlight)
-- How It Feels (The Great Rocksteady Swindle (Deluxe Edition))
-- Spin I'm In (The Slackers)
+  - Wasted Days (Wasted Days)
+  - Have The Time (The Question)
+  - I Shall Be Released (Peculiar)
+  - Married Girl (Redlight)
+  - Rude and Reckless (Redlight)
+  - International War Criminal (Peculiar)
+  - Watch This (Redlight)
+  - I Still Love You (Redlight)
+  - How It Feels (The Great Rocksteady Swindle (Deluxe Edition))
+  - Spin I'm In (The Slackers)
 external_urls:
-  spotify: https://open.spotify.com/artist/2QRPuDfRA9LtoeGFaMikmK
-  wikipedia: https://en.wikipedia.org/wiki/The_Slickers
+  spotify: 'https://open.spotify.com/artist/2QRPuDfRA9LtoeGFaMikmK'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Slickers'
 image_path: 03_Resources/source_material/ArtistPortraits/the_slickers.jpg
 biography_enhanced_at: '2025-11-20T06:48:33.642081'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/The+Slickers/+wiki
-- https://www.allmusic.com/artist/the-slickers-mn0000501622
-- https://www.yardie-reggae.com/ARTIST%20PAGES/SLICKERS.htm
-- https://open.spotify.com/artist/4gYhCmAiXZvNxC92ODseS4
+  - 'https://www.last.fm/music/The+Slickers/+wiki'
+  - 'https://www.allmusic.com/artist/the-slickers-mn0000501622'
+  - 'https://www.yardie-reggae.com/ARTIST%20PAGES/SLICKERS.htm'
+  - 'https://open.spotify.com/artist/4gYhCmAiXZvNxC92ODseS4'
 network_extracted: true
 entry_created: '2025-11-20T06:48:33.642096'
 last_updated: '2025-12-23T08:16:17.147409'
-origin: Kingston, Jamaica
+origin: 'Kingston, Jamaica, United States'
+artist_type: band
 ---
 
 ![](the_slickers.jpg)

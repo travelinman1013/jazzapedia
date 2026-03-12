@@ -1,12 +1,13 @@
 ---
-title: BLANCHE CALLOWAY AND HER JOY BOYS
+title: Blanche Calloway and Her Joy Boys
 wiki_slug: blanche-calloway-and-her-joy-boys
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/blanche_calloway_and_her_joy_boys.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/blanche_calloway_and_her_joy_boys.jpg
   caption: BLANCHE CALLOWAY AND HER JOY BOYS
   background: group_or_band
 audio_profile:
@@ -16,7 +17,7 @@ audio_profile:
   danceability_avg: 0.87
   acousticness_avg: 0.991
   instrumentalness_avg: 0.097
-  loudness_avg: -14.0
+  loudness_avg: -14
   speechiness_avg: 0.07
   liveness_avg: 0.203
   track_count: 1
@@ -24,51 +25,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Andy Kirk
-  - Edgar 'Puddin Head' Battle
-  - Ben Webster
-  - Cozy Cole
-  - Mary Lou Williams
+    - Andy Kirk
+    - Edgar 'Puddin Head' Battle
+    - Ben Webster
+    - Cozy Cole
+    - Mary Lou Williams
   influenced:
-  - Cab Calloway
-  - Ruth Brown
+    - Cab Calloway
+    - Ruth Brown
   mentors:
-  - Louis Armstrong
-  - Eubie Blake & Noble Sissle
+    - Louis Armstrong
+    - Eubie Blake & Noble Sissle
 spotify_data:
   followers: 0
   id: 54l2GuvT0ncsrsJUoysyth
   popularity: 0
-  url: https://open.spotify.com/artist/54l2GuvT0ncsrsJUoysyth
+  url: 'https://open.spotify.com/artist/54l2GuvT0ncsrsJUoysyth'
 discography_enriched: true
 top_tracks:
-- There's Rhythm in the River (A Taste of 1931)
+  - There's Rhythm in the River (A Taste of 1931)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/576ed3c7-41f3-4a44-81ac-b5039d8929d6
-  spotify: https://open.spotify.com/artist/54l2GuvT0ncsrsJUoysyth
-  wikipedia: https://en.wikipedia.org/wiki/Blanche_Calloway
+  musicbrainz: 'https://musicbrainz.org/artist/576ed3c7-41f3-4a44-81ac-b5039d8929d6'
+  spotify: 'https://open.spotify.com/artist/54l2GuvT0ncsrsJUoysyth'
+  wikipedia: 'https://en.wikipedia.org/wiki/Blanche_Calloway'
 image_path: ''
 biography_enhanced_at: '2025-11-06T13:22:46.796701'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Blanche_Calloway
-- https://www.allaboutjazz.com/musicians/blanche-calloway/
-- http://jazzhotbigstep.com/789221.html
-- http://oldtimeblues.net/2017/02/09/victor-22866-blanche-calloway-and-her-joy-boys-1931/
-- https://zapatosjam.substack.com/p/blanche-calloway-and-her-joy-boys
-- https://blanchecalloway.com/about-blanche-calloway/
+  - 'https://en.wikipedia.org/wiki/Blanche_Calloway'
+  - 'https://www.allaboutjazz.com/musicians/blanche-calloway/'
+  - 'http://jazzhotbigstep.com/789221.html'
+  - >-
+    http://oldtimeblues.net/2017/02/09/victor-22866-blanche-calloway-and-her-joy-boys-1931/
+  - 'https://zapatosjam.substack.com/p/blanche-calloway-and-her-joy-boys'
+  - 'https://blanchecalloway.com/about-blanche-calloway/'
 network_extracted: true
 entry_created: '2025-11-06T13:22:46.796731'
 last_updated: '2025-12-23T08:16:05.705257'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7fd175fa-3715-4219-9ec1-a944d8fede8b
-  name: Blanche Calloway
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7fd175fa-3715-4219-9ec1-a944d8fede8b
+    name: Blanche Calloway
 musicbrainz_id: 576ed3c7-41f3-4a44-81ac-b5039d8929d6
-origin: Baltimore, Maryland, United States
+origin: 'Baltimore, Maryland, United States'
+birth_place: 'Baltimore, Maryland, United States'
 ---
 
 ![]()

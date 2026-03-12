@@ -3,16 +3,16 @@ title: Sister Carol
 wiki_slug: sister-carol
 schema_version: 2
 status: active
-birth_place: Kingston, Jamaica
+birth_place: 'Kingston, Jamaica, United States'
 genres:
-- roots reggae
-- reggae
-- rocksteady
+  - roots reggae
+  - reggae
+  - rocksteady
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sister_carol.jpg
   caption: Sister Carol
   background: solo_singer
-  origin: Kingston, Jamaica
+  origin: 'Kingston, Jamaica'
 audio_profile:
   tempo_avg: 104.5
   energy_avg: 0.343
@@ -28,50 +28,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Meditations
-  - Judy Mowatt
-  - Marcia Griffiths
-  - Jason Mraz
-  - Nakeeba Amaniyea
-  - Glen Adams, Lee 'Scratch' Perry, Bunny 'Striker' Lee
+    - The Meditations
+    - Judy Mowatt
+    - Marcia Griffiths
+    - Jason Mraz
+    - Nakeeba Amaniyea
+    - 'Glen Adams, Lee ''Scratch'' Perry, Bunny ''Striker'' Lee'
   influenced:
-  - Nakeeba Amaniyea
-  - Female reggae and dancehall artists
+    - Nakeeba Amaniyea
+    - Female reggae and dancehall artists
   mentors:
-  - Brigadier Jerry
+    - Brigadier Jerry
 spotify_data:
   followers: 1189
   id: 7HieattO2EZxOGtbq1Zza6
   popularity: 6
-  url: https://open.spotify.com/artist/7HieattO2EZxOGtbq1Zza6
+  url: 'https://open.spotify.com/artist/7HieattO2EZxOGtbq1Zza6'
 discography_enriched: true
 top_tracks:
-- Murdee & Stylee (Black Cinderella)
-- Black Cinderella (Black Cinderella)
-- International Style (Black Cinderella)
-- Oh Jah (Mi Ready) (Black Cinderella)
-- Down In The Ghetto (Black Cinderella)
-- Reggae Gone International (Black Cinderella)
-- Spidla-Ding (Black Cinderella)
-- No Way No Better Than Yard (Black Cinderella)
-- Dedicated To Bob Marley (Black Cinderella)
-- Free Food Ticket (Black Cinderella)
+  - Murdee & Stylee (Black Cinderella)
+  - Black Cinderella (Black Cinderella)
+  - International Style (Black Cinderella)
+  - Oh Jah (Mi Ready) (Black Cinderella)
+  - Down In The Ghetto (Black Cinderella)
+  - Reggae Gone International (Black Cinderella)
+  - Spidla-Ding (Black Cinderella)
+  - No Way No Better Than Yard (Black Cinderella)
+  - Dedicated To Bob Marley (Black Cinderella)
+  - Free Food Ticket (Black Cinderella)
 external_urls:
-  spotify: https://open.spotify.com/artist/7HieattO2EZxOGtbq1Zza6
-  wikipedia: https://en.wikipedia.org/wiki/Sister_Carol
+  spotify: 'https://open.spotify.com/artist/7HieattO2EZxOGtbq1Zza6'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sister_Carol'
 image_path: 03_Resources/source_material/ArtistPortraits/sister_carol.jpg
 biography_enhanced_at: '2025-10-27T02:52:08.326692'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://reggae.university/2023/11/30/sister-carol-reggae-black-cinderella/
-- https://en.wikipedia.org/wiki/Sister_Carol
-- https://easystar.com/artists/sister-carol/
-- https://www.reggaeville.com/artist-details/sister-carol/about/
-- https://wbssmedia.com/artists/detail/3470
+  - 'https://reggae.university/2023/11/30/sister-carol-reggae-black-cinderella/'
+  - 'https://en.wikipedia.org/wiki/Sister_Carol'
+  - 'https://easystar.com/artists/sister-carol/'
+  - 'https://www.reggaeville.com/artist-details/sister-carol/about/'
+  - 'https://wbssmedia.com/artists/detail/3470'
 network_extracted: true
 entry_created: '2025-10-27T02:52:08.326708'
 last_updated: '2025-12-23T08:16:15.689479'
+birth_date: '1959-01-15'
+artist_type: person
 ---
 
 ![](sister_carol.jpg)

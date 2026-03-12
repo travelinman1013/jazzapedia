@@ -6,34 +6,34 @@ status: deceased
 birth_name: Dorothy Jeanne Thompson
 aliases: []
 birth_date: '1932-08-06'
-birth_place: Detroit, Michigan, United States
+birth_place: 'Detroit, Michigan, United States'
 death_date: '1986-04-13'
 years_active: 1952-1986
 genres:
-- exotica
+  - exotica
 instruments:
-- harp
-- koto
-- piano
-- saxophone
-- double bass
+  - harp
+  - koto
+  - piano
+  - saxophone
+  - double bass
 occupation:
-- composer
-- songwriter
-- jazz musician
+  - composer
+  - songwriter
+  - jazz musician
 record_labels:
-- Atlantic Records
-- Cadet Records
-- Prestige
-- Jazzland
-- Argo Records
+  - Atlantic Records
+  - Cadet Records
+  - Prestige
+  - Jazzland
+  - Argo Records
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Dorothy_Ashby.jpg
   caption: Dorothy Ashby
   background: non_vocal_instrumentalist
   birth_name: Dorothy Jeanne Thompson
   born: '1932-08-06'
-  origin: Detroit, Michigan, United States
+  origin: 'Detroit, Michigan, United States'
   died: '1986-04-13'
 audio_profile:
   tempo_avg: 103.7
@@ -50,56 +50,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John Ashby
-  - Frank Wess
-  - Jimmy Cobb
-  - Ed Thigpen
-  - Richard Davis
-  - Louis Armstrong
-  - Woody Herman
+    - John Ashby
+    - Frank Wess
+    - Jimmy Cobb
+    - Ed Thigpen
+    - Richard Davis
+    - Louis Armstrong
+    - Woody Herman
   influenced:
-  - Detroit music education system
+    - Detroit music education system
   mentors:
-  - Wiley Thompson
+    - Wiley Thompson
 related_artists: []
 spotify_data:
   followers: 102198
   id: 0dAZ2slrElfR0Y5flcoSPt
   popularity: 48
-  url: https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt
+  url: 'https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt'
   verified: false
 discography_enriched: true
 albums_count: 6
 singles_count: 3
 top_tracks:
-- Come Live With Me (Afro-Harping)
-- Little Sunflower (Afro-Harping)
-- The Windmills Of Your Mind (Dorothy's Harp)
-- Action Line (Afro-Harping)
-- By The Time I Get To Phoenix (Dorothy's Harp)
-- Soul Vibrations (Afro-Harping)
-- Afro-Harping (Afro-Harping)
-- Lonely Girl (Afro-Harping)
-- Theme From "Valley Of The Dolls" (Afro-Harping)
-- Games (Afro-Harping)
+  - Come Live With Me (Afro-Harping)
+  - Little Sunflower (Afro-Harping)
+  - The Windmills Of Your Mind (Dorothy's Harp)
+  - Action Line (Afro-Harping)
+  - By The Time I Get To Phoenix (Dorothy's Harp)
+  - Soul Vibrations (Afro-Harping)
+  - Afro-Harping (Afro-Harping)
+  - Lonely Girl (Afro-Harping)
+  - Theme From "Valley Of The Dolls" (Afro-Harping)
+  - Games (Afro-Harping)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt
-  wikipedia: https://en.wikipedia.org/wiki/Dorothy_Ashby
+  spotify: 'https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dorothy_Ashby'
 image_path: 03_Resources/source_material/ArtistPortraits/Dorothy_Ashby.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:58:13.642688'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia
-- BlackPast.org
-- JazzArts Charlotte
-- Jazzin.lv
+  - Wikipedia
+  - BlackPast.org
+  - JazzArts Charlotte
+  - Jazzin.lv
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:45:53.092093
+entry_created: 2025-09-22T21:45:53.092Z
 last_updated: '2025-12-23T08:16:07.966505'
+is_active: false
+origin: 'Detroit, Michigan, United States'
+artist_type: person
 ---
 
 ![](Dorothy_Ashby.jpg)

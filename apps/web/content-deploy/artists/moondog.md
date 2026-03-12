@@ -5,14 +5,14 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1916-05-26'
-birth_place: Marysville
+birth_place: 'Marysville, Kansas, United States'
 death_date: '1999-09-08'
 genres:
-- avant-garde
-- minimalism
+  - avant-garde
+  - minimalism
 instruments:
-- piano
-- spoken vocals
+  - piano
+  - spoken vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/moondog.jpg
   caption: Moondog
@@ -35,64 +35,68 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ilona Goebel (Ilona Sommer)
-  - John Harle
-  - Elvis Costello
-  - Paul Jordan
-  - Hessische Rundfunk (German radio organization)
+    - Ilona Goebel (Ilona Sommer)
+    - John Harle
+    - Elvis Costello
+    - Paul Jordan
+    - Hessische Rundfunk (German radio organization)
   influenced:
-  - Steve Reich
-  - Philip Glass
-  - Terry Riley and the New York minimalist circle
-  - Younger avant‑garde and bohemian musicians in 1950s–60s New York
+    - Steve Reich
+    - Philip Glass
+    - Terry Riley and the New York minimalist circle
+    - Younger avant‑garde and bohemian musicians in 1950s–60s New York
   mentors:
-  - Native American ceremonial music (Arapaho / Blackfoot traditions)
-  - European classical composers (Renaissance and Baroque traditions)
-  - Contemporary jazz of 1940s–1950s New York
-  - John Cage
+    - Native American ceremonial music (Arapaho / Blackfoot traditions)
+    - European classical composers (Renaissance and Baroque traditions)
+    - Contemporary jazz of 1940s–1950s New York
+    - John Cage
 spotify_data:
   followers: 157970
   id: 7HvQfRNJCvPXTVirKKB0Nn
   popularity: 44
-  url: https://open.spotify.com/artist/7HvQfRNJCvPXTVirKKB0Nn
+  url: 'https://open.spotify.com/artist/7HvQfRNJCvPXTVirKKB0Nn'
 discography_enriched: true
 top_tracks:
-- Bird's Lament (Sax Pax For A Sax)
-- High On A Rocky Ledge (H'art Songs)
-- Do Your Thing (H'art Songs)
-- Lament I, "Bird's Lament" - Instrumental (Moondog)
-- Pastoral II - 2000 Remaster (Moondog 2 (2000 Remaster))
-- New Amsterdam (Sax Pax For A Sax)
-- Stamping Ground - Instrumental (Moondog)
-- Theme - Instrumental (Moondog)
-- I'm This, I'm That (H'art Songs)
-- To A Sea Horse (Moondog)
+  - Bird's Lament (Sax Pax For A Sax)
+  - High On A Rocky Ledge (H'art Songs)
+  - Do Your Thing (H'art Songs)
+  - 'Lament I, "Bird''s Lament" - Instrumental (Moondog)'
+  - Pastoral II - 2000 Remaster (Moondog 2 (2000 Remaster))
+  - New Amsterdam (Sax Pax For A Sax)
+  - Stamping Ground - Instrumental (Moondog)
+  - Theme - Instrumental (Moondog)
+  - 'I''m This, I''m That (H''art Songs)'
+  - To A Sea Horse (Moondog)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/0b8dff0b-ce42-4cc6-afd1-1841f7781ed4
-  spotify: https://open.spotify.com/artist/7HvQfRNJCvPXTVirKKB0Nn
-  wikipedia: https://en.wikipedia.org/wiki/Moondog
+  musicbrainz: 'https://musicbrainz.org/artist/0b8dff0b-ce42-4cc6-afd1-1841f7781ed4'
+  spotify: 'https://open.spotify.com/artist/7HvQfRNJCvPXTVirKKB0Nn'
+  wikipedia: 'https://en.wikipedia.org/wiki/Moondog'
 image_path: 03_Resources/source_material/ArtistPortraits/moondog.jpg
 biography_enhanced_at: '2025-12-20T01:08:31.359150'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Moondog
-- https://msmokemusic.com/blogs/mind-smoke-blog/posts/6650303/a-legendary-musician-called-moondog
-- https://priceonomics.com/the-legend-of-moondog-new-yorks-homeless-composer/
-- https://blogthehum.com/2016/12/26/artifacts-from-the-musical-life-of-moondog/
-- https://tedium.co/2019/03/28/moondog-musician-history/
-- https://moondogscorner.de/biography/chap3.html
-- https://macleans.ca/culture/arts/the-weird-and-true-story-of-moondog/
+  - 'https://en.wikipedia.org/wiki/Moondog'
+  - >-
+    https://msmokemusic.com/blogs/mind-smoke-blog/posts/6650303/a-legendary-musician-called-moondog
+  - 'https://priceonomics.com/the-legend-of-moondog-new-yorks-homeless-composer/'
+  - >-
+    https://blogthehum.com/2016/12/26/artifacts-from-the-musical-life-of-moondog/
+  - 'https://tedium.co/2019/03/28/moondog-musician-history/'
+  - 'https://moondogscorner.de/biography/chap3.html'
+  - 'https://macleans.ca/culture/arts/the-weird-and-true-story-of-moondog/'
 network_extracted: true
 entry_created: '2025-12-20T01:08:31.359161'
 last_updated: '2025-12-23T08:16:13.265453'
-disambiguation: Louis Thomas Hardin, American composer, musician, poet & inventor
+disambiguation: 'Louis Thomas Hardin, American composer, musician, poet & inventor'
 gender: Male
 musicbrainz_id: 0b8dff0b-ce42-4cc6-afd1-1841f7781ed4
 tags:
-- avant-garde
-- avant-garde jazz
-- experimental
+  - avant-garde
+  - avant-garde jazz
+  - experimental
+is_active: false
+origin: 'New York City, New York, United States'
 ---
 
 ![](moondog.jpg)

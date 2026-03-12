@@ -5,22 +5,22 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1981-01-25'
-birth_place: Manhattan
+birth_place: 'Manhattan, New York, United States'
 genres:
-- r&b
-- neo soul
+  - r&b
+  - neo soul
 instruments:
-- piano
-- electric piano
-- Rhodes piano
-- background vocals
-- lead vocals
+  - piano
+  - electric piano
+  - Rhodes piano
+  - background vocals
+  - lead vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ce4b6b68-9a8e-4e7d-bf53-7e33ebe89b33
-  name: The Il'Luminaries
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ce4b6b68-9a8e-4e7d-bf53-7e33ebe89b33
+    name: The Il'Luminaries
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/alicia_keys.jpg
   caption: Alicia Keys
@@ -34,7 +34,7 @@ audio_profile:
   danceability_avg: 0.56
   acousticness_avg: 0.341
   instrumentalness_avg: 0.008
-  loudness_avg: -7.0
+  loudness_avg: -7
   speechiness_avg: 0.117
   liveness_avg: 0.18
   track_count: 56
@@ -42,59 +42,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kerry Brothers Jr. (Krucial)
-  - Swizz Beatz
-  - Usher
+    - Kerry Brothers Jr. (Krucial)
+    - Swizz Beatz
+    - Usher
   influenced:
-  - H.E.R.
-  - John Legend
-  - Egypt Daoud Dean
+    - H.E.R.
+    - John Legend
+    - Egypt Daoud Dean
   mentors:
-  - Clive Davis
-  - Jeff Robinson
-  - Classical piano teachers
+    - Clive Davis
+    - Jeff Robinson
+    - Classical piano teachers
 spotify_data:
   followers: 12937215
   id: 3DiDSECUqqY1AuBP8qtaIa
   popularity: 79
-  url: https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa
+  url: 'https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa'
 discography_enriched: true
 top_tracks:
-- Empire State Of Mind (The Blueprint 3)
-- If I Ain't Got You (The Diary Of Alicia Keys)
-- My Boo (Confessions (Expanded Edition))
-- Fallin' (Songs In A Minor)
-- No One (No One (Remixes))
-- Girl on Fire
-- Finally
-- Un-thinkable (I'm Ready) (feat. Drake) - Remix
-- No One (As I Am (Expanded Edition))
-- Empire State of Mind (Part II) Broken Down
+  - Empire State Of Mind (The Blueprint 3)
+  - If I Ain't Got You (The Diary Of Alicia Keys)
+  - My Boo (Confessions (Expanded Edition))
+  - Fallin' (Songs In A Minor)
+  - No One (No One (Remixes))
+  - Girl on Fire
+  - Finally
+  - Un-thinkable (I'm Ready) (feat. Drake) - Remix
+  - No One (As I Am (Expanded Edition))
+  - Empire State of Mind (Part II) Broken Down
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8ef1df30-ae4f-4dbd-9351-1a32b208a01e
-  spotify: https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa
-  wikipedia: https://en.wikipedia.org/wiki/Alicia_Keys
+  musicbrainz: 'https://musicbrainz.org/artist/8ef1df30-ae4f-4dbd-9351-1a32b208a01e'
+  spotify: 'https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa'
+  wikipedia: 'https://en.wikipedia.org/wiki/Alicia_Keys'
 image_path: 03_Resources/source_material/ArtistPortraits/alicia_keys.jpg
 biography_enhanced_at: '2025-11-14T10:47:19.987071'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.biography.com/musicians/alicia-keys
-- https://en.wikipedia.org/wiki/Alicia_Keys
-- https://www.imdb.com/name/nm1006024/bio/
-- https://www.nbc.com/nbc-insider/alicia-keys-songs-films-books-broadway-show
-- https://www.aliciakeys.com/info/
-- https://blackpast.org/african-american-history/keys-alicia-1981/
-- https://top40weekly.com/alicia-keys-biography/
+  - 'https://www.biography.com/musicians/alicia-keys'
+  - 'https://en.wikipedia.org/wiki/Alicia_Keys'
+  - 'https://www.imdb.com/name/nm1006024/bio/'
+  - 'https://www.nbc.com/nbc-insider/alicia-keys-songs-films-books-broadway-show'
+  - 'https://www.aliciakeys.com/info/'
+  - 'https://blackpast.org/african-american-history/keys-alicia-1981/'
+  - 'https://top40weekly.com/alicia-keys-biography/'
 network_extracted: true
 entry_created: '2025-11-14T10:47:19.987082'
 last_updated: '2025-12-23T08:16:04.585316'
 gender: Female
 musicbrainz_id: 8ef1df30-ae4f-4dbd-9351-1a32b208a01e
 tags:
-- contemporary r&b
-- jazz
-- jazz pop
+  - contemporary r&b
+  - jazz
+  - jazz pop
+origin: 'New York City, New York, United States'
 ---
 
 ![](alicia_keys.jpg)

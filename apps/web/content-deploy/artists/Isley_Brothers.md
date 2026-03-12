@@ -1,13 +1,13 @@
 ---
-title: Isley Brothers
+title: The Isley Brothers
 wiki_slug: isley-brothers
 schema_version: 2
 status: active
 genres:
-- motown
-- soul
-- quiet storm
-- northern soul
+  - motown
+  - soul
+  - quiet storm
+  - northern soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/isley_brothers.jpg
   caption: Isley Brothers
@@ -27,56 +27,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ernie Isley
-  - Marvin Isley
-  - Chris Jasper
-  - Jimi Hendrix
-  - Elton John (and his band)
-  - Santana
+    - Ernie Isley
+    - Marvin Isley
+    - Chris Jasper
+    - Jimi Hendrix
+    - Elton John (and his band)
+    - Santana
   influenced:
-  - Hip‑hop and R&B artists who sample the Isley Brothers (e.g., The Notorious B.I.G., Ice Cube, Aaliyah, and others)
-  - Later soul, funk, and quiet‑storm vocal groups and solo singers
-  - Rock and crossover R&B artists inspired by their hybrid funk‑rock sound
+    - >-
+      Hip‑hop and R&B artists who sample the Isley Brothers (e.g., The Notorious
+      B.I.G., Ice Cube, Aaliyah, and others)
+    - 'Later soul, funk, and quiet‑storm vocal groups and solo singers'
+    - Rock and crossover R&B artists inspired by their hybrid funk‑rock sound
   mentors:
-  - Billy Ward and His Dominoes
-  - The Dixie Hummingbirds
-  - Motown Records / Berry Gordy Jr.
+    - Billy Ward and His Dominoes
+    - The Dixie Hummingbirds
+    - Motown Records / Berry Gordy Jr.
 spotify_data:
   followers: 2044715
   id: 53QzNeFpzAaXYnrDBbDrIp
   popularity: 62
-  url: https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp
+  url: 'https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp'
 discography_enriched: true
 top_tracks:
-- This Old Heart Of Mine (Is Weak For You) (This Old Heart Of Mine)
-- Footsteps in the Dark, Pts. 1 & 2 (Go for Your Guns)
-- Between the Sheets (Between the Sheets)
-- For the Love of You, Pts. 1 & 2 (The Heat Is On)
-- Shout, Pts. 1 & 2 (Shout!)
-- It's Your Thing (It's Our Thing (Expanded Edition))
-- That Lady, Pts. 1 & 2 (3+3)
-- Busted (Body Kiss)
-- Contagious (Eternal)
-- For the Love of You, Pts. 1 & 2
+  - This Old Heart Of Mine (Is Weak For You) (This Old Heart Of Mine)
+  - 'Footsteps in the Dark, Pts. 1 & 2 (Go for Your Guns)'
+  - Between the Sheets (Between the Sheets)
+  - 'For the Love of You, Pts. 1 & 2 (The Heat Is On)'
+  - 'Shout, Pts. 1 & 2 (Shout!)'
+  - It's Your Thing (It's Our Thing (Expanded Edition))
+  - 'That Lady, Pts. 1 & 2 (3+3)'
+  - Busted (Body Kiss)
+  - Contagious (Eternal)
+  - 'For the Love of You, Pts. 1 & 2'
 external_urls:
-  spotify: https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp
-  wikipedia: https://en.wikipedia.org/wiki/The_Isley_Brothers
+  spotify: 'https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Isley_Brothers'
 image_path: 03_Resources/source_material/ArtistPortraits/isley_brothers.jpg
 biography_enhanced_at: '2025-12-07T04:55:55.924424'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Isley_Brothers
-- https://officialisleybrothers.com/bio/
-- https://www.britannica.com/topic/the-Isley-Brothers
-- https://blackpast.org/african-american-history/isley-brothers-1957-1984/
-- https://www.allmusic.com/artist/the-isley-brothers-mn0000766893
-- https://www.theroot.com/heard-of-the-isley-brothers-the-legendary-group-is-the-1851732498
+  - 'https://en.wikipedia.org/wiki/The_Isley_Brothers'
+  - 'https://officialisleybrothers.com/bio/'
+  - 'https://www.britannica.com/topic/the-Isley-Brothers'
+  - 'https://blackpast.org/african-american-history/isley-brothers-1957-1984/'
+  - 'https://www.allmusic.com/artist/the-isley-brothers-mn0000766893'
+  - >-
+    https://www.theroot.com/heard-of-the-isley-brothers-the-legendary-group-is-the-1851732498
 network_extracted: true
 entry_created: '2025-12-07T04:55:55.924445'
 last_updated: '2025-12-23T08:16:02.312205'
-origin: Cincinnati, Ohio, United States
-
+origin: 'Cincinnati, Ohio, United States'
+artist_type: band
 ---
 
 ![](isley_brothers.jpg)

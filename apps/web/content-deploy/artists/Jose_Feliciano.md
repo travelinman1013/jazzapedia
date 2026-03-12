@@ -3,15 +3,15 @@ title: Jose Feliciano
 wiki_slug: jose-feliciano
 schema_version: 2
 status: active
-birth_place: Lares, Puerto Rico
+birth_place: 'Lares, Puerto Rico, United States'
 genres:
-- christmas
-- bolero
+  - christmas
+  - bolero
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Jose_Feliciano.jpg
   caption: Jose Feliciano
   background: solo_singer
-  origin: Lares, Puerto Rico
+  origin: 'Lares, Puerto Rico'
 audio_profile:
   tempo_avg: 109.5
   energy_avg: 0.569
@@ -27,47 +27,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Rick Jarrard
-  - José Hernández
+    - Rick Jarrard
+    - José Hernández
   influenced:
-  - Gloria Estefan
-  - Marc Anthony
+    - Gloria Estefan
+    - Marc Anthony
   mentors:
-  - Andrés Segovia
-  - Ray Charles
+    - Andrés Segovia
+    - Ray Charles
 spotify_data:
   followers: 462651
   id: 7K78lVZ8XzkjfRSI7570FF
   popularity: 60
-  url: https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF
+  url: 'https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF'
 discography_enriched: true
 top_tracks:
-- Feliz Navidad
-- Por Qué Te Tengo Que Olvidar? (Mis Mejores Canciones - 17 Super Exitos)
-- Feliz Navidad (Feliz Navidad)
-- El Tango De Roxanne - From "Moulin Rouge" Soundtrack
-- Para Decir Adiós (Lo Mejor De...)
-- Un Veneno - G-Mix (El Madrileño)
-- El Tango De Roxanne - From "Moulin Rouge" Soundtrack
-- Paso La Vida Pensando (Lo Mejor De...)
-- Feliz Navidad (My Name Is José Feliciano)
-- 'Por Ella (with José José) (Coleccion Original: José Feliciano)'
+  - Feliz Navidad
+  - Por Qué Te Tengo Que Olvidar? (Mis Mejores Canciones - 17 Super Exitos)
+  - Feliz Navidad (Feliz Navidad)
+  - El Tango De Roxanne - From "Moulin Rouge" Soundtrack
+  - Para Decir Adiós (Lo Mejor De...)
+  - Un Veneno - G-Mix (El Madrileño)
+  - El Tango De Roxanne - From "Moulin Rouge" Soundtrack
+  - Paso La Vida Pensando (Lo Mejor De...)
+  - Feliz Navidad (My Name Is José Feliciano)
+  - 'Por Ella (with José José) (Coleccion Original: José Feliciano)'
 external_urls:
-  spotify: https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF
-  wikipedia: https://en.wikipedia.org/wiki/Jos%C3%A9_Feliciano
+  spotify: 'https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jos%C3%A9_Feliciano'
 image_path: 03_Resources/source_material/ArtistPortraits/Jose_Feliciano.jpg
 biography_enhanced_at: '2025-10-20T10:07:23.202889'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.josefeliciano.com/biography
-- https://en.wikipedia.org/wiki/Jos%C3%A9_Feliciano
-- https://mabumbe.com/people/jose-feliciano-age-net-worth-family-career-highlights-more/
-- https://www.ntatutor.com/jose-feliciano.html
+  - 'https://www.josefeliciano.com/biography'
+  - 'https://en.wikipedia.org/wiki/Jos%C3%A9_Feliciano'
+  - >-
+    https://mabumbe.com/people/jose-feliciano-age-net-worth-family-career-highlights-more/
+  - 'https://www.ntatutor.com/jose-feliciano.html'
 network_extracted: true
 entry_created: '2025-10-20T10:07:23.202982'
 last_updated: '2025-12-23T08:16:02.730815'
-
+birth_date: '1945-09-10'
+artist_type: person
 ---
 
 ![](Jose_Feliciano.jpg)

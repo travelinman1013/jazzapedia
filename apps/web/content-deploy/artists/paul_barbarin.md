@@ -3,14 +3,14 @@ title: Paul Barbarin
 wiki_slug: paul-barbarin
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- ragtime
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/paul_barbarin.jpg
   caption: Paul Barbarin
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 130.1
   energy_avg: 0.429
@@ -26,60 +26,67 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Freddie Keppard
-  - Jimmie Noone
-  - King Oliver
-  - Luis Russell
-  - Louis Armstrong
-  - Red Allen
-  - Sidney Bechet
-  - Art Hodes
-  - Louis Cottrell Jr.
+    - Freddie Keppard
+    - Jimmie Noone
+    - King Oliver
+    - Luis Russell
+    - Louis Armstrong
+    - Red Allen
+    - Sidney Bechet
+    - Art Hodes
+    - Louis Cottrell Jr.
   influenced:
-  - Danny Barker
-  - Louis Cottrell Jr.
-  - Generations of New Orleans drummers
+    - Danny Barker
+    - Louis Cottrell Jr.
+    - Generations of New Orleans drummers
   mentors:
-  - Isidore Barbarin
-  - Paul Chaligny
-  - Jean “Ratty”
-  - Louis Cottrell Sr.
+    - Isidore Barbarin
+    - Paul Chaligny
+    - Jean “Ratty”
+    - Louis Cottrell Sr.
 spotify_data:
   followers: 572
   id: 1cLOY9H3pg2sw6rkYkWlZX
   popularity: 7
-  url: https://open.spotify.com/artist/1cLOY9H3pg2sw6rkYkWlZX
+  url: 'https://open.spotify.com/artist/1cLOY9H3pg2sw6rkYkWlZX'
 discography_enriched: true
 top_tracks:
-- After the Ball (Echoes of New Orleans)
-- Savoy Blues (New Orleans Styles)
-- 'Bourbon Street Parade (Atlantic Jazz: New Orleans)'
-- 'Whose Honey Are You? (Red Allen: Original 1933-1941 Recordings)'
-- 'Eh La Bas (Atlantic Jazz: New Orleans)'
-- I Used to Love You (Take 1) (Rare and Unissued Recordings 1954-1962)
-- 'Whose Honey Are You? (Red Allen: Original 1933-1941 Recordings)'
-- On A Persian Market (New Orleans Styles)
-- All of Me (Billie & Dede Pierce and Paul Barbarin with Chris Barber's Jazz Band 1960)
-- Bourbon Street Parade - Voice (New Orleans, Vol. 4)
+  - After the Ball (Echoes of New Orleans)
+  - Savoy Blues (New Orleans Styles)
+  - 'Bourbon Street Parade (Atlantic Jazz: New Orleans)'
+  - 'Whose Honey Are You? (Red Allen: Original 1933-1941 Recordings)'
+  - 'Eh La Bas (Atlantic Jazz: New Orleans)'
+  - I Used to Love You (Take 1) (Rare and Unissued Recordings 1954-1962)
+  - 'Whose Honey Are You? (Red Allen: Original 1933-1941 Recordings)'
+  - On A Persian Market (New Orleans Styles)
+  - >-
+    All of Me (Billie & Dede Pierce and Paul Barbarin with Chris Barber's Jazz
+    Band 1960)
+  - 'Bourbon Street Parade - Voice (New Orleans, Vol. 4)'
 external_urls:
-  spotify: https://open.spotify.com/artist/1cLOY9H3pg2sw6rkYkWlZX
-  wikipedia: https://en.wikipedia.org/wiki/Paul_Barbarin
+  spotify: 'https://open.spotify.com/artist/1cLOY9H3pg2sw6rkYkWlZX'
+  wikipedia: 'https://en.wikipedia.org/wiki/Paul_Barbarin'
 image_path: 03_Resources/source_material/ArtistPortraits/paul_barbarin.jpg
 biography_enhanced_at: '2025-10-25T09:51:57.099861'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Paul_Barbarin
-- https://syncopatedtimes.com/paul-barbarin-1899-1969/
-- https://drumsinthetwenties.com/2018/01/11/heroes-8-paul-barbarin-1899-1969/
-- https://64parishes.org/entry/paul-barbarin
-- https://preshallfoundation.org/paulbarbarin
-- https://musicrising.tulane.edu/discover/people/paul-barbarin/
-- https://escholarship.org/content/qt82m4p4rg/qt82m4p4rg.pdf
-- https://cemeterytourneworleans.com/the-barbarin-family-of-jazz-new-orleans-musicians-tomb/
+  - 'https://en.wikipedia.org/wiki/Paul_Barbarin'
+  - 'https://syncopatedtimes.com/paul-barbarin-1899-1969/'
+  - 'https://drumsinthetwenties.com/2018/01/11/heroes-8-paul-barbarin-1899-1969/'
+  - 'https://64parishes.org/entry/paul-barbarin'
+  - 'https://preshallfoundation.org/paulbarbarin'
+  - 'https://musicrising.tulane.edu/discover/people/paul-barbarin/'
+  - 'https://escholarship.org/content/qt82m4p4rg/qt82m4p4rg.pdf'
+  - >-
+    https://cemeterytourneworleans.com/the-barbarin-family-of-jazz-new-orleans-musicians-tomb/
 network_extracted: true
 entry_created: '2025-10-25T09:51:57.099876'
 last_updated: '2025-12-23T08:16:14.043334'
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1899-05-05'
+death_date: '1969'
+artist_type: person
 ---
 
 ![](paul_barbarin.jpg)

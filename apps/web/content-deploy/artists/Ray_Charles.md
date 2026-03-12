@@ -5,45 +5,45 @@ schema_version: 2
 status: deceased
 birth_name: Raymond Charles Robinson
 also_known_as:
-- Ray Charles
-- The Genius
+  - Ray Charles
+  - The Genius
 aliases:
-- Ray Charles
-- The Genius
+  - Ray Charles
+  - The Genius
 birth_date: '1930-09-23'
-birth_place: Albany, Georgia, United States
+birth_place: 'Albany, Georgia, United States'
 death_date: '2004-06-10'
 years_active: 1945–2004
 genres:
-- jazz blues
-- soul
-- soul blues
-- blues
-- vocal jazz
+  - jazz blues
+  - soul
+  - soul blues
+  - blues
+  - vocal jazz
 instruments:
-- piano
-- voice
+  - piano
+  - voice
 occupation:
-- pianist
-- composer
-- singer-songwriter
-- singer
-- jazz musician
+  - pianist
+  - composer
+  - singer-songwriter
+  - singer
+  - jazz musician
 record_labels:
-- Swing Time
-- ABC Records
-- Atlantic Records
-- Warner Bros. Records
-- Philips Records
+  - Swing Time
+  - ABC Records
+  - Atlantic Records
+  - Warner Bros. Records
+  - Philips Records
 spouse:
-- Della Beatrice Howard Robinson
+  - Della Beatrice Howard Robinson
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Ray_Charles.jpg
   caption: Ray Charles
   background: solo_singer
   birth_name: Raymond Charles Robinson
   born: '1930-09-23'
-  origin: Albany, Georgia, United States
+  origin: 'Albany, Georgia, United States'
   died: '2004-06-10'
 audio_profile:
   tempo_avg: 121.1
@@ -60,54 +60,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Quincy Jones
-  - The Florida Playboys
+    - Quincy Jones
+    - The Florida Playboys
   influenced: []
   mentors:
-  - Wylie Pitman
-  - Nat King Cole
-  - Art Tatum
+    - Wylie Pitman
+    - Nat King Cole
+    - Art Tatum
 related_artists: []
 spotify_data:
   followers: 2592458
   id: 1eYhYunlNJlDoQhtYBvPsi
   popularity: 70
-  url: https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi
+  url: 'https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi'
   verified: false
 discography_enriched: true
 albums_count: 39
 singles_count: 9
 top_tracks:
-- Hit the Road Jack (True Genius)
-- 'I''ve Got a Woman (Ray Charles (aka: Hallelujah, I Love Her So))'
-- Hit the Road Jack
-- 'Hallelujah, I Love Her So (Ray Charles (aka: Hallelujah, I Love Her So))'
-- Here We Go Again (Genius Loves Company)
-- I Can't Stop Loving You - 2024 Remaster (Modern Sounds In Country And Western Music, Vols 1 & 2 (2024 Remaster))
-- What'd I Say, Pt. 1 & 2 (What'd I Say)
-- I Believe to My Soul (The Genius Sings the Blues)
-- Come Rain or Come Shine (The Genius Of Ray Charles)
-- 'Mess Around (Ray Charles (aka: Hallelujah, I Love Her So))'
+  - Hit the Road Jack (True Genius)
+  - 'I''ve Got a Woman (Ray Charles (aka: Hallelujah, I Love Her So))'
+  - Hit the Road Jack
+  - 'Hallelujah, I Love Her So (Ray Charles (aka: Hallelujah, I Love Her So))'
+  - Here We Go Again (Genius Loves Company)
+  - >-
+    I Can't Stop Loving You - 2024 Remaster (Modern Sounds In Country And
+    Western Music, Vols 1 & 2 (2024 Remaster))
+  - 'What''d I Say, Pt. 1 & 2 (What''d I Say)'
+  - I Believe to My Soul (The Genius Sings the Blues)
+  - Come Rain or Come Shine (The Genius Of Ray Charles)
+  - 'Mess Around (Ray Charles (aka: Hallelujah, I Love Her So))'
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi
-  wikipedia: https://en.wikipedia.org/wiki/Ray_Charles
+  spotify: 'https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ray_Charles'
 image_path: 03_Resources/source_material/ArtistPortraits/Ray_Charles.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:25:15.501964'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia
-- Ray Charles Official Website
-- New Georgia Encyclopedia
-- Florida Division of Arts and Culture
-- HistoryLink.org
+  - Wikipedia
+  - Ray Charles Official Website
+  - New Georgia Encyclopedia
+  - Florida Division of Arts and Culture
+  - HistoryLink.org
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:43:44.330097
+entry_created: 2025-09-22T21:43:44.330Z
 last_updated: '2025-12-23T08:16:03.656261'
-
+is_active: false
+artist_type: person
 ---
 
 ![](Ray_Charles.jpg)

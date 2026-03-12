@@ -1,62 +1,65 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4c1424f3-68e0-4a77-8e69-c3eda4d399a1
-  name: Alexey Marti & Urban Minds
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 578b5d70-3e66-4308-baa5-62e79e501a23
-  name: Big Sam’s Funky Nation
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4c1424f3-68e0-4a77-8e69-c3eda4d399a1
+    name: Alexey Marti & Urban Minds
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 578b5d70-3e66-4308-baa5-62e79e501a23
+    name: Big Sam’s Funky Nation
 biography_enhanced_at: '2026-01-22T07:23:42.673845'
-birth_place: Havana, Cuba (birthplace); New Orleans, Louisiana, United States (primary
+birth_place: >-
+  Havana, Cuba (birthplace); New Orleans, Louisiana, United States (primary
   residence since 2008)
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:23:42.673852'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/bbb0b95d-b864-4d58-8c8a-35c18e01ad24
-  spotify: https://open.spotify.com/artist/0InnxloAxxw1kPi5IiFmS9
+  musicbrainz: 'https://musicbrainz.org/artist/bbb0b95d-b864-4d58-8c8a-35c18e01ad24'
+  spotify: 'https://open.spotify.com/artist/0InnxloAxxw1kPi5IiFmS9'
   wikipedia: null
 gender: Male
 genres:
-- afro-cuban jazz
-- latin jazz
+  - afro-cuban jazz
+  - latin jazz
 image_path: 03_Resources/source_material/ArtistPortraits/alexey_marti.jpg
 last_updated: '2026-01-22T07:23:42.673853'
 musical_connections:
   collaborators:
-  - Oscar Rossignoli
-  - Julian Addison
-  - Pat Casey
-  - Brent Rose
-  - Curtis and Bomani Pierre
-  - The Headhunters
-  - Delfeayo Marsalis
-  - Jason Marsalis
-  - Herlin Riley
+    - Oscar Rossignoli
+    - Julian Addison
+    - Pat Casey
+    - Brent Rose
+    - Curtis and Bomani Pierre
+    - The Headhunters
+    - Delfeayo Marsalis
+    - Jason Marsalis
+    - Herlin Riley
   influenced: []
   mentors:
-  - Oscar Valdes
+    - Oscar Valdes
 musicbrainz_id: bbb0b95d-b864-4d58-8c8a-35c18e01ad24
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.alexeymarti.com
-- https://www.offbeat.com/music/alexey-marti-mundo-independent/
-- https://vivanolamag.com/culture/viva-musica/the-world-of-alexey-marti-2/
-- https://practicingdrummer.com/alexey-marti/
-- https://www.allaboutjazz.com/musicians/alexey-marti/
-- https://www.offbeat.com/articles/music-is-everything-cuban-born-percussionist-alexey-marti-creates-his-own-style/
+  - 'https://www.alexeymarti.com'
+  - 'https://www.offbeat.com/music/alexey-marti-mundo-independent/'
+  - 'https://vivanolamag.com/culture/viva-musica/the-world-of-alexey-marti-2/'
+  - 'https://practicingdrummer.com/alexey-marti/'
+  - 'https://www.allaboutjazz.com/musicians/alexey-marti/'
+  - >-
+    https://www.offbeat.com/articles/music-is-everything-cuban-born-percussionist-alexey-marti-creates-his-own-style/
 spotify_data:
   followers: 541
   id: 0InnxloAxxw1kPi5IiFmS9
   popularity: 1
-  url: https://open.spotify.com/artist/0InnxloAxxw1kPi5IiFmS9
+  url: 'https://open.spotify.com/artist/0InnxloAxxw1kPi5IiFmS9'
 status: active
-title: alexey marti
+title: Alexey Marti
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](alexey_marti.jpg)

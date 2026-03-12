@@ -3,41 +3,44 @@ biography_enhanced_at: '2026-01-11T02:19:12.639855'
 enhancement_provider: perplexity
 entry_created: '2026-01-11T02:19:12.639874'
 external_urls:
-  spotify: https://open.spotify.com/artist/52aTlThLoC3vEHXqdDfx7v
-  wikipedia: https://en.wikipedia.org/wiki/Carlinhos_Brown
+  spotify: 'https://open.spotify.com/artist/52aTlThLoC3vEHXqdDfx7v'
+  wikipedia: 'https://en.wikipedia.org/wiki/Carlinhos_Brown'
 genres:
-- bossa nova
-- seresta
-image_path: 03_Resources/source_material/ArtistPortraits/bonga_marisa_monte_carlinhos_brown.jpg
+  - bossa nova
+  - seresta
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/bonga_marisa_monte_carlinhos_brown.jpg
 last_updated: '2026-01-11T02:19:12.639904'
 musical_connections:
   collaborators:
-  - Bonga
-  - Marisa Monte
-  - Carlinhos Brown
-  - Red Hot Organization
+    - Bonga
+    - Marisa Monte
+    - Carlinhos Brown
+    - Red Hot Organization
   influenced:
-  - Lusophone and world‑music audiences (Angola–Brazil diaspora listeners)
+    - Lusophone and world‑music audiences (Angola–Brazil diaspora listeners)
   mentors:
-  - Osvaldo Alves da Silva (local drum master in Salvador)
+    - Osvaldo Alves da Silva (local drum master in Salvador)
 network_extracted: true
-origin: Angola / Rio de Janeiro, Rio de Janeiro, Brazil / Salvador, Bahia, Brazil
+origin: >-
+  Angola / Rio de Janeiro, Rio de Janeiro, Brazil / Salvador, Bahia, Brazil
   (origins of the three individual artists featured in the collaboration)
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Carlinhos_Brown
-- https://kids.kiddle.co/Carlinhos_Brown
-- https://bahia.ws/en/biografia-do-cantor-e-compositor-carlinhos-brown/
-- https://www.bluenote.com/artist/marisa-monte/
-- https://www.buala.org/en/stages/bonga-i-help-to-place-angola-in-the-world
-- https://en.wikipedia.org/wiki/Marisa_Monte
+  - 'https://en.wikipedia.org/wiki/Carlinhos_Brown'
+  - 'https://kids.kiddle.co/Carlinhos_Brown'
+  - 'https://bahia.ws/en/biografia-do-cantor-e-compositor-carlinhos-brown/'
+  - 'https://www.bluenote.com/artist/marisa-monte/'
+  - 'https://www.buala.org/en/stages/bonga-i-help-to-place-angola-in-the-world'
+  - 'https://en.wikipedia.org/wiki/Marisa_Monte'
 spotify_data:
   followers: 1099
   id: 52aTlThLoC3vEHXqdDfx7v
   popularity: 11
-  url: https://open.spotify.com/artist/52aTlThLoC3vEHXqdDfx7v
+  url: 'https://open.spotify.com/artist/52aTlThLoC3vEHXqdDfx7v'
 status: active
-title: Bonga, Marisa Monte, Carlinhos Brown
+title: 'Bonga, Marisa Monte, Carlinhos Brown'
+artist_type: band
 ---
 
 ![](bonga_marisa_monte_carlinhos_brown.jpg)

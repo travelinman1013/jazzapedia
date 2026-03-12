@@ -4,7 +4,7 @@ wiki_slug: marvelous-funkshun
 schema_version: 2
 status: active
 genres:
-- jam band
+  - jam band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/marvelous_funkshun.jpg
   caption: Marvelous Funkshun
@@ -24,51 +24,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - George Porter Jr.
-  - Eric Gales
-  - John “Papa” Gros
-  - Kofi Burbridge
-  - Snoop Dogg
-  - Durell Randolph
-  - Will Bagley
-  - Zach Landon
-  - Ian McIsaac
+    - George Porter Jr.
+    - Eric Gales
+    - John “Papa” Gros
+    - Kofi Burbridge
+    - Snoop Dogg
+    - Durell Randolph
+    - Will Bagley
+    - Zach Landon
+    - Ian McIsaac
   influenced: []
   mentors:
-  - Robert Randolph
+    - Robert Randolph
 spotify_data:
   followers: 651
   id: 2qihApizoYkgZES7Li0gKF
   popularity: 5
-  url: https://open.spotify.com/artist/2qihApizoYkgZES7Li0gKF
+  url: 'https://open.spotify.com/artist/2qihApizoYkgZES7Li0gKF'
 discography_enriched: true
 top_tracks:
-- Maggot Brain - Live (I Love You)
-- Harris the Hater (Harris the Hater)
-- Stormy Weather (Stormy Weather)
-- Harris the Hater (Instru-Mental (Deluxe Edition))
-- Trouble (I Love You)
-- I Love You (I Love You)
-- Funky Bitch - Live (I Love You)
-- Truman (Truman)
-- Introspect (I Love You)
-- Trouble (Trouble)
+  - Maggot Brain - Live (I Love You)
+  - Harris the Hater (Harris the Hater)
+  - Stormy Weather (Stormy Weather)
+  - Harris the Hater (Instru-Mental (Deluxe Edition))
+  - Trouble (I Love You)
+  - I Love You (I Love You)
+  - Funky Bitch - Live (I Love You)
+  - Truman (Truman)
+  - Introspect (I Love You)
+  - Trouble (Trouble)
 external_urls:
-  spotify: https://open.spotify.com/artist/2qihApizoYkgZES7Li0gKF
+  spotify: 'https://open.spotify.com/artist/2qihApizoYkgZES7Li0gKF'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/marvelous_funkshun.jpg
 biography_enhanced_at: '2025-12-23T01:59:27.130414'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://liveforlivemusic.com/news/marvelous-funkshun-harris-the-hater-george-porter-jr-show/
-- https://www.marvelousfunkshun.com
-- https://www.bandsintown.com/e/107101272-marvelous-funkshun-at-martin's-downtown
-- https://homegrownmusic.net/news-and-views/hgmn-welcomes-marvelous-funkshun
+  - >-
+    https://liveforlivemusic.com/news/marvelous-funkshun-harris-the-hater-george-porter-jr-show/
+  - 'https://www.marvelousfunkshun.com'
+  - >-
+    https://www.bandsintown.com/e/107101272-marvelous-funkshun-at-martin's-downtown
+  - 'https://homegrownmusic.net/news-and-views/hgmn-welcomes-marvelous-funkshun'
 network_extracted: true
 entry_created: '2025-12-23T01:59:27.130429'
 last_updated: '2025-12-23T08:16:12.758039'
-origin: Winston-Salem, North Carolina, USA
+origin: 'Winston-Salem, North Carolina, USA'
+artist_type: person
 ---
 
 ![](marvelous_funkshun.jpg)

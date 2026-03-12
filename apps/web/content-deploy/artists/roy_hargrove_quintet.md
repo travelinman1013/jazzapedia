@@ -2,13 +2,13 @@
 title: Roy Hargrove Quintet
 wiki_slug: roy-hargrove-quintet
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 genres:
-- jazz
-- latin jazz
+  - jazz
+  - latin jazz
 instruments:
-- eponymous
+  - eponymous
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/roy_hargrove_quintet.jpg
   caption: Roy Hargrove Quintet
@@ -28,68 +28,71 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Christian McBride
-  - Antonio Hart
-  - Stephen Scott
-  - Herbie Hancock
-  - Michael Brecker
-  - D'Angelo
-  - Erykah Badu
-  - Common
+    - Christian McBride
+    - Antonio Hart
+    - Stephen Scott
+    - Herbie Hancock
+    - Michael Brecker
+    - D'Angelo
+    - Erykah Badu
+    - Common
   influenced:
-  - Contemporary jazz musicians
+    - Contemporary jazz musicians
   mentors:
-  - Wynton Marsalis
-  - Clifford Brown
-  - Freddie Hubbard
+    - Wynton Marsalis
+    - Clifford Brown
+    - Freddie Hubbard
 spotify_data:
   followers: 175815
   id: 49zXTngyUTielHTbbH5YKs
   popularity: 48
-  url: https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs
+  url: 'https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs'
 discography_enriched: true
 top_tracks:
-- Ruby My Dear (Approaching Standards)
-- Strasbourg / St. Denis (Earfood)
-- Trust (Nothing Serious)
-- Ruby My Dear (Diamond In The Rough)
-- Speak Low (Earfood)
-- I'm Not So Sure (Earfood)
-- Unsophisticated (Indigo)
-- September in the Rain (Public Eye)
-- Joy Is Sorrow Unmasked (Earfood)
-- The Nearness Of You (Family)
+  - Ruby My Dear (Approaching Standards)
+  - Strasbourg / St. Denis (Earfood)
+  - Trust (Nothing Serious)
+  - Ruby My Dear (Diamond In The Rough)
+  - Speak Low (Earfood)
+  - I'm Not So Sure (Earfood)
+  - Unsophisticated (Indigo)
+  - September in the Rain (Public Eye)
+  - Joy Is Sorrow Unmasked (Earfood)
+  - The Nearness Of You (Family)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d6bc9b64-6480-4d74-b539-651f07ee31b9
-  spotify: https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs
-  wikipedia: https://en.wikipedia.org/wiki/Roy_Hargrove
+  musicbrainz: 'https://musicbrainz.org/artist/d6bc9b64-6480-4d74-b539-651f07ee31b9'
+  spotify: 'https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs'
+  wikipedia: 'https://en.wikipedia.org/wiki/Roy_Hargrove'
 image_path: 03_Resources/source_material/ArtistPortraits/roy_hargrove_quintet.jpg
 biography_enhanced_at: '2025-11-27T06:29:20.173541'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- 'DownBeat - Roy Hargrove: Once in a Lifetime'
-- Wikipedia - Roy Hargrove
-- Arthur's Tavern - Roy Hargrove
-- Jazz Alley - Roy Hargrove Quintet
-- JazzTimes - Earfood The Roy Hargrove Quintet
-- Berklee College of Music - Roy Hargrove
-- Roy Hargrove Official Legacy Site
-- Michael Valentine Studio - Roy Hargrove Quintet
+  - 'DownBeat - Roy Hargrove: Once in a Lifetime'
+  - Wikipedia - Roy Hargrove
+  - Arthur's Tavern - Roy Hargrove
+  - Jazz Alley - Roy Hargrove Quintet
+  - JazzTimes - Earfood The Roy Hargrove Quintet
+  - Berklee College of Music - Roy Hargrove
+  - Roy Hargrove Official Legacy Site
+  - Michael Valentine Studio - Roy Hargrove Quintet
 network_extracted: true
 entry_created: '2025-11-27T06:29:20.173556'
 last_updated: '2025-12-23T08:16:15.125143'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 8cdf780e-b909-4d25-9060-e552e95b3414
-  name: Roy Hargrove
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 8cdf780e-b909-4d25-9060-e552e95b3414
+    name: Roy Hargrove
 musicbrainz_id: d6bc9b64-6480-4d74-b539-651f07ee31b9
-origin: Waco, Texas, United States
+origin: 'Waco, Texas, United States'
 tags:
-- jazz
+  - jazz
+birth_place: 'Waco, Texas, United States'
+birth_date: '1969-10-16'
+death_date: '2018-11-02'
 ---
 
 ![](roy_hargrove_quintet.jpg)

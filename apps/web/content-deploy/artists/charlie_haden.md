@@ -1,87 +1,87 @@
 ---
-title: charlie haden
+title: Charlie Haden
 wiki_slug: charlie-haden
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1937-08-06'
-birth_place: Shenandoah
+birth_place: 'Shenandoah, Iowa, United States'
 death_date: '2014-07-11'
 genres:
-- jazz
-- free jazz
-- cool jazz
+  - jazz
+  - free jazz
+  - cool jazz
 instruments:
-- bass
-- original
-- double bass
-- eponymous
-- acoustic bass guitar
+  - bass
+  - original
+  - double bass
+  - eponymous
+  - acoustic bass guitar
 associated_acts:
-- begin: '1976'
-  end: '1987'
-  instruments:
-  - bass
-  - original
-  mbid: 94ea208f-38d7-4b33-b405-dfdc4ab0e00b
-  name: Old and New Dreams
-- begin: ''
-  end: '2014'
-  instruments:
-  - double bass
-  - eponymous
-  - original
-  mbid: 5214982b-0151-484d-b08f-06d52d22cf92
-  name: Charlie Haden’s Liberation Music Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - bass
-  mbid: 19e48a4b-7aff-4794-a76f-1e7ed20caa4e
-  name: Keith Jarrett Trio
-- begin: ''
-  end: ''
-  instruments:
-  - double bass
-  mbid: 31ea99e3-c222-4809-8912-95678314beec
-  name: The Ornette Coleman Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - bass
-  mbid: da68e70e-e156-4da4-9c3c-c12ee507f4a7
-  name: Ornette Coleman Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - bass
-  mbid: d24fc285-7b2f-47da-8ac5-4070b08570b1
-  name: Alice Coltrane
-- begin: ''
-  end: ''
-  instruments:
-  - bass
-  mbid: 3022f81d-47cd-48bb-b6eb-6d244b5e74b3
-  name: Don Cherry Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7f120576-3bde-448f-9410-23ba37b1f820
-  name: Ginger Baker Trio
-- begin: ''
-  end: ''
-  instruments:
-  - bass
-  mbid: 113726a1-a9e8-4e93-9a60-fae6ef46ef5c
-  name: Roswell Rudd Sextet
-- begin: ''
-  end: ''
-  instruments:
-  - double bass
-  - eponymous
-  - original
-  mbid: a2232822-9a09-401b-aad6-cc6ce54bfcb3
-  name: Charlie Haden Quartet West
+  - begin: '1976'
+    end: '1987'
+    instruments:
+      - bass
+      - original
+    mbid: 94ea208f-38d7-4b33-b405-dfdc4ab0e00b
+    name: Old and New Dreams
+  - begin: ''
+    end: '2014'
+    instruments:
+      - double bass
+      - eponymous
+      - original
+    mbid: 5214982b-0151-484d-b08f-06d52d22cf92
+    name: Charlie Haden’s Liberation Music Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - bass
+    mbid: 19e48a4b-7aff-4794-a76f-1e7ed20caa4e
+    name: Keith Jarrett Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - double bass
+    mbid: 31ea99e3-c222-4809-8912-95678314beec
+    name: The Ornette Coleman Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - bass
+    mbid: da68e70e-e156-4da4-9c3c-c12ee507f4a7
+    name: Ornette Coleman Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - bass
+    mbid: d24fc285-7b2f-47da-8ac5-4070b08570b1
+    name: Alice Coltrane
+  - begin: ''
+    end: ''
+    instruments:
+      - bass
+    mbid: 3022f81d-47cd-48bb-b6eb-6d244b5e74b3
+    name: Don Cherry Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7f120576-3bde-448f-9410-23ba37b1f820
+    name: Ginger Baker Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - bass
+    mbid: 113726a1-a9e8-4e93-9a60-fae6ef46ef5c
+    name: Roswell Rudd Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - double bass
+      - eponymous
+      - original
+    mbid: a2232822-9a09-401b-aad6-cc6ce54bfcb3
+    name: Charlie Haden Quartet West
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/charlie_haden.jpg
   caption: charlie haden
@@ -104,48 +104,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ornette Coleman
-  - Carla Bley
-  - Keith Jarrett
-  - Pat Metheny
-  - Paul Bley
-  - Hank Jones
+    - Ornette Coleman
+    - Carla Bley
+    - Keith Jarrett
+    - Pat Metheny
+    - Paul Bley
+    - Hank Jones
   influenced:
-  - Josh Haden
-  - Petra, Rachel, and Tanya Haden
-  - Countless jazz bassists
+    - Josh Haden
+    - 'Petra, Rachel, and Tanya Haden'
+    - Countless jazz bassists
   mentors:
-  - Haden Family
-  - Johann Sebastian Bach
+    - Haden Family
+    - Johann Sebastian Bach
 spotify_data:
   followers: 83866
   id: 5Pqc0ZFA20Y9zGJZ3ojUin
   popularity: 44
-  url: https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin
+  url: 'https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin'
 discography_enriched: true
 top_tracks:
-- Cinema Paradiso [Love Theme] (Beyond The Missouri Sky)
-- One Day I'll Fly Away (Jasmine)
-- The Moon Is A Harsh Mistress (Beyond The Missouri Sky)
-- Where Can I Go Without You (Last Dance)
-- The Moon Song (Beyond The Missouri Sky)
-- Our Spanish Love Song (Beyond The Missouri Sky)
-- Spiritual (Beyond The Missouri Sky)
-- Waltz For Ruth (Beyond The Missouri Sky)
-- Two For The Road (Beyond The Missouri Sky)
-- Nightfall (Nocturne)
+  - 'Cinema Paradiso [Love Theme] (Beyond The Missouri Sky)'
+  - One Day I'll Fly Away (Jasmine)
+  - The Moon Is A Harsh Mistress (Beyond The Missouri Sky)
+  - Where Can I Go Without You (Last Dance)
+  - The Moon Song (Beyond The Missouri Sky)
+  - Our Spanish Love Song (Beyond The Missouri Sky)
+  - Spiritual (Beyond The Missouri Sky)
+  - Waltz For Ruth (Beyond The Missouri Sky)
+  - Two For The Road (Beyond The Missouri Sky)
+  - Nightfall (Nocturne)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1f0cdc02-c8d5-4228-8227-37ec0c289b48
-  spotify: https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin
-  wikipedia: https://en.wikipedia.org/wiki/Charlie_Haden
+  musicbrainz: 'https://musicbrainz.org/artist/1f0cdc02-c8d5-4228-8227-37ec0c289b48'
+  spotify: 'https://open.spotify.com/artist/5Pqc0ZFA20Y9zGJZ3ojUin'
+  wikipedia: 'https://en.wikipedia.org/wiki/Charlie_Haden'
 image_path: 03_Resources/source_material/ArtistPortraits/charlie_haden.jpg
 biography_enhanced_at: '2025-10-29T16:55:39.193251'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Charlie_Haden
-- https://www.allaboutjazz.com/musicians/charlie-haden/
-- https://www.bluenote.com/artist/charlie-haden/
+  - 'https://en.wikipedia.org/wiki/Charlie_Haden'
+  - 'https://www.allaboutjazz.com/musicians/charlie-haden/'
+  - 'https://www.bluenote.com/artist/charlie-haden/'
 network_extracted: true
 entry_created: '2025-10-29T16:55:39.193261'
 last_updated: '2025-12-23T08:16:06.727386'
@@ -153,9 +153,11 @@ disambiguation: American jazz bassist
 gender: Male
 musicbrainz_id: 1f0cdc02-c8d5-4228-8227-37ec0c289b48
 tags:
-- 2008 universal fire victim
-- hard bop
-- jazz
+  - 2008 universal fire victim
+  - hard bop
+  - jazz
+is_active: false
+origin: 'Los Angeles, California, United States'
 ---
 
 ![](charlie_haden.jpg)

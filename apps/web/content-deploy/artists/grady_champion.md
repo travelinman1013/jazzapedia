@@ -1,48 +1,49 @@
 ---
 artist_type: person
 biography_enhanced_at: '2025-12-25T01:10:18.949197'
-birth_place: Canton, Mississippi, United States
+birth_place: 'Canton, Mississippi, United States'
 enhancement_provider: perplexity
 entry_created: '2025-12-25T01:10:18.949204'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2d181e15-0677-4f14-87d6-1d21e8e9488b
-  spotify: https://open.spotify.com/artist/1xvmnq8zHu9LhcqBmyqCnc
+  musicbrainz: 'https://musicbrainz.org/artist/2d181e15-0677-4f14-87d6-1d21e8e9488b'
+  spotify: 'https://open.spotify.com/artist/1xvmnq8zHu9LhcqBmyqCnc'
   wikipedia: null
 gender: Male
 genres:
-- modern blues
-- blues
-- blues rock
+  - modern blues
+  - blues
+  - blues rock
 image_path: 03_Resources/source_material/ArtistPortraits/grady_champion.jpg
 last_updated: '2025-12-25T01:10:18.949204'
 musical_connections:
   collaborators:
-  - Kevin Bowe
-  - Malaco Records production team
-  - Shanachie Records staff and session musicians
+    - Kevin Bowe
+    - Malaco Records production team
+    - Shanachie Records staff and session musicians
   influenced:
-  - Younger Mississippi and soul‑blues performers (various)
+    - Younger Mississippi and soul‑blues performers (various)
   mentors:
-  - Frank J. Hackinson
-  - Etta James
-  - Sonny Boy Williamson (comparison/influence)
+    - Frank J. Hackinson
+    - Etta James
+    - Sonny Boy Williamson (comparison/influence)
 musicbrainz_id: 2d181e15-0677-4f14-87d6-1d21e8e9488b
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- 'Official site biography: gradychampion.com/bio'
-- American Blues Scene feature on "Dreamin’"
-- MojoHand blues artist entry on Grady Champion
-- WMKY artist profile on Grady Champion
-- Blues Blast Magazine interview with Grady Champion
-- Making A Scene in‑depth interview with Grady Champion
+  - 'Official site biography: gradychampion.com/bio'
+  - American Blues Scene feature on "Dreamin’"
+  - MojoHand blues artist entry on Grady Champion
+  - WMKY artist profile on Grady Champion
+  - Blues Blast Magazine interview with Grady Champion
+  - Making A Scene in‑depth interview with Grady Champion
 spotify_data:
   followers: 701
   id: 1xvmnq8zHu9LhcqBmyqCnc
   popularity: 6
-  url: https://open.spotify.com/artist/1xvmnq8zHu9LhcqBmyqCnc
+  url: 'https://open.spotify.com/artist/1xvmnq8zHu9LhcqBmyqCnc'
 status: active
 title: Grady Champion
+birth_date: '1969-10-10'
 ---
 
 ![](grady_champion.jpg)

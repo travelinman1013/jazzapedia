@@ -3,16 +3,16 @@ title: Kid Fonque
 wiki_slug: kid-fonque
 schema_version: 2
 status: active
-birth_place: Scotland, United Kingdom
+birth_place: 'Scotland, United Kingdom'
 genres:
-- deep house
-- afro house
-- 3 step
+  - deep house
+  - afro house
+  - 3 step
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/kid_fonque.jpg
   caption: Kid Fonque
   background: solo_singer
-  origin: Scotland, United Kingdom
+  origin: 'Scotland, United Kingdom'
 audio_profile:
   tempo_avg: 119.7
   energy_avg: 0.675
@@ -28,48 +28,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jullian Gomes
+    - Jullian Gomes
   influenced:
-  - South African deep house producers
+    - South African deep house producers
   mentors:
-  - Donovan
+    - Donovan
 spotify_data:
   followers: 34520
   id: 6hPLYDljt7lCTao1bx1Dcp
   popularity: 29
-  url: https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp
+  url: 'https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp'
 discography_enriched: true
 top_tracks:
-- Another New Day - Kid Fonque Refix
-- Tshinela - Fka Mash Re-Glitch
-- Migration (feat. Zaki Ibrahim) - Jnr SA Remix
-- Rekindled
-- Tshinela - Fka Mash Re-Glitch Radio Edit
-- MOTHER MOTHER - Remix (Blackbird Returns)
-- Migration
-- Be (feat. Zaki Ibrahim & Herbert) - Herbert's Truth Dub
-- Rodeo - Kid Fonque Refix
-- Golden (Features)
+  - Another New Day - Kid Fonque Refix
+  - Tshinela - Fka Mash Re-Glitch
+  - Migration (feat. Zaki Ibrahim) - Jnr SA Remix
+  - Rekindled
+  - Tshinela - Fka Mash Re-Glitch Radio Edit
+  - MOTHER MOTHER - Remix (Blackbird Returns)
+  - Migration
+  - Be (feat. Zaki Ibrahim & Herbert) - Herbert's Truth Dub
+  - Rodeo - Kid Fonque Refix
+  - Golden (Features)
 external_urls:
-  spotify: https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp
+  spotify: 'https://open.spotify.com/artist/6hPLYDljt7lCTao1bx1Dcp'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/kid_fonque.jpg
 biography_enhanced_at: '2025-11-26T08:00:23.510873'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.youtube.com/watch?v=gyv9dN6dBZA
-- https://pan-african-music.com/en/stay-true-sounds-the-alternative-flavour-of-south-africa/
-- https://www.afrilycs.africa/artist?type=Muso&title=Kid+Fonque
-- http://defectedmusic.com/artists/39
-- http://shomag.com/kid-fonque-biography-2/
-- https://www.okayafrica.com/the-house-that-kid-fonque-built/266073
-- https://growtheramagazine.co.za/?p=335
-- https://www.dailymaverick.co.za/article/2022-03-29-where-house-finds-a-home-kid-fonque-stays-true-to-the-musical-unknown/
+  - 'https://www.youtube.com/watch?v=gyv9dN6dBZA'
+  - >-
+    https://pan-african-music.com/en/stay-true-sounds-the-alternative-flavour-of-south-africa/
+  - 'https://www.afrilycs.africa/artist?type=Muso&title=Kid+Fonque'
+  - 'http://defectedmusic.com/artists/39'
+  - 'http://shomag.com/kid-fonque-biography-2/'
+  - 'https://www.okayafrica.com/the-house-that-kid-fonque-built/266073'
+  - 'https://growtheramagazine.co.za/?p=335'
+  - >-
+    https://www.dailymaverick.co.za/article/2022-03-29-where-house-finds-a-home-kid-fonque-stays-true-to-the-musical-unknown/
 network_extracted: true
 entry_created: '2025-11-26T08:00:23.510880'
 last_updated: '2025-12-23T08:16:11.354913'
-
+artist_type: person
 ---
 
 ![](kid_fonque.jpg)

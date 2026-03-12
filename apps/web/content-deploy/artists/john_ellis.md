@@ -3,17 +3,21 @@ title: John Ellis
 wiki_slug: john-ellis
 schema_version: 2
 status: active
-birth_place: Rural area near a small town in North Carolina, United States (raised); strong artistic ties to New Orleans,
-  Louisiana, and New York City, New York, United States.[1][2][3]
+birth_place: >-
+  Rural area near a small town in North Carolina, United States (raised); strong
+  artistic ties to New Orleans, Louisiana, and New York City, New York, United
+  States.
 genres:
-- big band
-- brazilian jazz
+  - big band
+  - brazilian jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/john_ellis.jpg
   caption: John Ellis
   background: solo_singer
-  origin: Rural area near a small town in North Carolina, United States (raised); strong artistic ties to New Orleans, Louisiana,
-    and New York City, New York, United States.[1][2][3]
+  origin: >-
+    Rural area near a small town in North Carolina, United States (raised);
+    strong artistic ties to New Orleans, Louisiana, and New York City, New York,
+    United States.[1][2][3]
 audio_profile:
   tempo_avg: 113.8
   energy_avg: 0.39
@@ -29,55 +33,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Charlie Hunter
-  - Dr. Lonnie Smith
-  - Miguel Zenón
-  - Darcy James Argue
-  - Sting
-  - Kendrick Scott / Kendrick Scott Oracle
-  - Helen Sung
-  - Robert Glasper
-  - Double-Wide (band members)
-  - Andy Bragen
-  - Aaron Goldberg
-  - Glenn Patscha and Adam Levy
+    - Charlie Hunter
+    - Dr. Lonnie Smith
+    - Miguel Zenón
+    - Darcy James Argue
+    - Sting
+    - Kendrick Scott / Kendrick Scott Oracle
+    - Helen Sung
+    - Robert Glasper
+    - Double-Wide (band members)
+    - Andy Bragen
+    - Aaron Goldberg
+    - Glenn Patscha and Adam Levy
   influenced:
-  - Students at The New School School of Jazz and Contemporary Music
+    - Students at The New School School of Jazz and Contemporary Music
   mentors:
-  - Ellis Marsalis
+    - Ellis Marsalis
 spotify_data:
   followers: 1913
   id: 2jqFKnUNOcp9RnR9C6JHjR
   popularity: 27
-  url: https://open.spotify.com/artist/2jqFKnUNOcp9RnR9C6JHjR
+  url: 'https://open.spotify.com/artist/2jqFKnUNOcp9RnR9C6JHjR'
 discography_enriched: true
 top_tracks:
-- Solitude (Eleven Moons)
-- 11 Moons (Eleven Moons)
-- 3 Marias (Wanderlust)
-- Running In Fear From Imaginary Assailants (Friends Seen and Unseen (2022 Remaster))
-- Suite America Latina (Eleven Moons)
-- Encontros e Despedidas (Eleven Moons)
-- Ethereal (For Alana) (Wanderlust)
-- Mystery To Me (Mystery To Me (20th Anniversary Edition))
-- 7 Seas (Wanderlust)
-- Time Stands Still (Mystery To Me (20th Anniversary Edition))
+  - Solitude (Eleven Moons)
+  - 11 Moons (Eleven Moons)
+  - 3 Marias (Wanderlust)
+  - >-
+    Running In Fear From Imaginary Assailants (Friends Seen and Unseen (2022
+    Remaster))
+  - Suite America Latina (Eleven Moons)
+  - Encontros e Despedidas (Eleven Moons)
+  - Ethereal (For Alana) (Wanderlust)
+  - Mystery To Me (Mystery To Me (20th Anniversary Edition))
+  - 7 Seas (Wanderlust)
+  - Time Stands Still (Mystery To Me (20th Anniversary Edition))
 external_urls:
-  spotify: https://open.spotify.com/artist/2jqFKnUNOcp9RnR9C6JHjR
+  spotify: 'https://open.spotify.com/artist/2jqFKnUNOcp9RnR9C6JHjR'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/john_ellis.jpg
 biography_enhanced_at: '2025-12-06T05:39:36.618869'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.mymusicmasterclass.com/artist/artists/john-ellis/
-- https://bestsaxophonewebsiteever.com/tenor-titan-john-ellis-discusses-sound-rhythm-music-business/
-- https://www.allaboutjazz.com/musicians/john-ellis/
-- https://www.johnaxsonellis.com/bio/
-- https://www.newschool.edu/jazz/faculty/john-ellis/
+  - 'https://www.mymusicmasterclass.com/artist/artists/john-ellis/'
+  - >-
+    https://bestsaxophonewebsiteever.com/tenor-titan-john-ellis-discusses-sound-rhythm-music-business/
+  - 'https://www.allaboutjazz.com/musicians/john-ellis/'
+  - 'https://www.johnaxsonellis.com/bio/'
+  - 'https://www.newschool.edu/jazz/faculty/john-ellis/'
 network_extracted: true
 entry_created: '2025-12-06T05:39:36.618886'
 last_updated: '2025-12-23T08:16:10.735820'
+artist_type: person
 ---
 
 ![](john_ellis.jpg)

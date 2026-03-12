@@ -1,15 +1,16 @@
 ---
-title: DUKE ELLINGTON AND HIS COTTON CLUB ORCHESTRA
+title: Duke Ellington and His Cotton Club Orchestra
 wiki_slug: duke-ellington-and-his-cotton-club-orchestra
 schema_version: 2
 status: active
 genres:
-- big band
-- jazz
-- ragtime
-- swing music
+  - big band
+  - jazz
+  - ragtime
+  - swing music
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/duke_ellington_and_his_cotton_club_orchestra.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/duke_ellington_and_his_cotton_club_orchestra.jpg
   caption: DUKE ELLINGTON AND HIS COTTON CLUB ORCHESTRA
   background: solo_singer
 audio_profile:
@@ -27,49 +28,65 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Billy Strayhorn
-  - Johnny Hodges
-  - Cootie Williams
-  - Juan Tizol
+    - Billy Strayhorn
+    - Johnny Hodges
+    - Cootie Williams
+    - Juan Tizol
   influenced:
-  - Charles Mingus
-  - Quincy Jones
-  - Thelonious Monk
+    - Charles Mingus
+    - Quincy Jones
+    - Thelonious Monk
   mentors:
-  - Will Marion Cook
-  - James P. Johnson
+    - Will Marion Cook
+    - James P. Johnson
 spotify_data:
   followers: 9224
   id: 5FDQAcoLHvQkpAlrwWky3i
   popularity: 18
-  url: https://open.spotify.com/artist/5FDQAcoLHvQkpAlrwWky3i
+  url: 'https://open.spotify.com/artist/5FDQAcoLHvQkpAlrwWky3i'
 discography_enriched: true
 top_tracks:
-- Jubilee Stomp (Duke Ellington's Finest Hour)
-- Mood Indigo - 1989 Remastered (Early Ellington 1927-1934)
-- 'Jubilee Stomp (Early Ellington: The Complete Brunswick And Vocalion Recordings 1926-1931)'
-- Haunted Nights
-- Got Everything But You (Ellington In Order, Volume 1 (1927-28))
-- The Dicty Glide (aka A-flat Shout) - Take 1 (Ellington In Order, Volume 2 (1928-30))
-- 'Red Hot Band (Early Ellington: The Complete Brunswick And Vocalion Recordings 1926-1931)'
-- East Saint Louis Toodle-O - Victor session (Ellington In Order, Volume 1 (1927-28))
-- That Lindy Hop (with Dick Robertson) (Ellington In Order, Volume 3 (1930-31))
-- What Good Am I Without You? - Take 4 (Ellington In Order, Volume 3 (1930-31))
+  - Jubilee Stomp (Duke Ellington's Finest Hour)
+  - Mood Indigo - 1989 Remastered (Early Ellington 1927-1934)
+  - >-
+    Jubilee Stomp (Early Ellington: The Complete Brunswick And Vocalion
+    Recordings 1926-1931)
+  - Haunted Nights
+  - 'Got Everything But You (Ellington In Order, Volume 1 (1927-28))'
+  - >-
+    The Dicty Glide (aka A-flat Shout) - Take 1 (Ellington In Order, Volume 2
+    (1928-30))
+  - >-
+    Red Hot Band (Early Ellington: The Complete Brunswick And Vocalion
+    Recordings 1926-1931)
+  - >-
+    East Saint Louis Toodle-O - Victor session (Ellington In Order, Volume 1
+    (1927-28))
+  - >-
+    That Lindy Hop (with Dick Robertson) (Ellington In Order, Volume 3
+    (1930-31))
+  - >-
+    What Good Am I Without You? - Take 4 (Ellington In Order, Volume 3
+    (1930-31))
 external_urls:
-  spotify: https://open.spotify.com/artist/5FDQAcoLHvQkpAlrwWky3i
-  wikipedia: https://en.wikipedia.org/wiki/Duke_Ellington
-image_path: 03_Resources/source_material/ArtistPortraits/duke_ellington_and_his_cotton_club_orchestra.jpg
+  spotify: 'https://open.spotify.com/artist/5FDQAcoLHvQkpAlrwWky3i'
+  wikipedia: 'https://en.wikipedia.org/wiki/Duke_Ellington'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/duke_ellington_and_his_cotton_club_orchestra.jpg
 biography_enhanced_at: '2025-10-30T11:45:38.159528'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.ebsco.com/research-starters/music/ellington-begins-performing-cotton-club
-- https://en.wikipedia.org/wiki/Duke_Ellington
-- https://nmaahc.si.edu/explore/stories/jazz-appreciation-month-duke-ellington
+  - >-
+    https://www.ebsco.com/research-starters/music/ellington-begins-performing-cotton-club
+  - 'https://en.wikipedia.org/wiki/Duke_Ellington'
+  - 'https://nmaahc.si.edu/explore/stories/jazz-appreciation-month-duke-ellington'
 network_extracted: true
 entry_created: '2025-10-30T11:45:38.159537'
 last_updated: '2025-12-23T08:16:08.042568'
-origin: Washington, D.C., United States
+origin: 'Washington, D.C., United States'
+birth_place: 'Washington, D.C., United States'
+artist_type: band
 ---
 
 ![](duke_ellington_and_his_cotton_club_orchestra.jpg)

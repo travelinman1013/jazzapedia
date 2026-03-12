@@ -1,97 +1,102 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-09T02:05:57.417598'
 birth_date: '1995'
 disambiguation: UK electronic band
 enhancement_provider: perplexity
 entry_created: '2026-01-09T02:05:57.417605'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/aaae25bf-c794-45d7-bab7-cdc7c655bfa6
-  spotify: https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU
-  wikipedia: https://en.wikipedia.org/wiki/Broadcast_(band)
+  musicbrainz: 'https://musicbrainz.org/artist/aaae25bf-c794-45d7-bab7-cdc7c655bfa6'
+  spotify: 'https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU'
+  wikipedia: 'https://en.wikipedia.org/wiki/Broadcast_(band)'
 genres:
-- dream pop
-- shoegaze
+  - dream pop
+  - shoegaze
 image_path: 03_Resources/source_material/ArtistPortraits/broadcast.jpg
 instruments:
-- original
-- drums (drum set)
+  - original
+  - drums (drum set)
 last_updated: '2026-01-09T02:05:57.417607'
 members:
-- begin: '1995'
-  end: '2000'
-  instruments:
-  - original
-  mbid: 56434174-a885-4f75-bab6-ca80be01fda0
-  name: Steve Perkins
-- begin: '1995'
-  end: '2000'
-  instruments:
-  - original
-  mbid: bacb7383-e97b-4a06-a3c5-100fe27a5354
-  name: Roj Stevens
-- begin: '1995'
-  end: '2005'
-  instruments:
-  - original
-  mbid: 3fdbf809-d44a-43cd-89f1-5eca00b96720
-  name: Tim Felton
-- begin: '1995'
-  end: '2011-01-14'
-  instruments:
-  - original
-  mbid: 35f31ca5-c4c7-4e90-802b-cb930ce9f6db
-  name: Trish Keenan
-- &id001
-  begin: '1995'
-  end: ''
-  instruments:
-  - original
-  mbid: 97ad7da2-0368-45b5-931f-a1f9fe76d798
-  name: James Cargill
-- begin: '2000'
-  end: '2003'
-  instruments:
-  - drums (drum set)
-  mbid: 6228169a-0b1c-462c-afb4-9df5e84df347
-  name: Keith York
+  - begin: '1995'
+    end: '2000'
+    instruments:
+      - original
+    mbid: 56434174-a885-4f75-bab6-ca80be01fda0
+    name: Steve Perkins
+  - begin: '1995'
+    end: '2000'
+    instruments:
+      - original
+    mbid: bacb7383-e97b-4a06-a3c5-100fe27a5354
+    name: Roj Stevens
+  - begin: '1995'
+    end: '2005'
+    instruments:
+      - original
+    mbid: 3fdbf809-d44a-43cd-89f1-5eca00b96720
+    name: Tim Felton
+  - begin: '1995'
+    end: '2011-01-14'
+    instruments:
+      - original
+    mbid: 35f31ca5-c4c7-4e90-802b-cb930ce9f6db
+    name: Trish Keenan
+  - &ref_0
+    begin: '1995'
+    end: ''
+    instruments:
+      - original
+    mbid: 97ad7da2-0368-45b5-931f-a1f9fe76d798
+    name: James Cargill
+  - begin: '2000'
+    end: '2003'
+    instruments:
+      - drums (drum set)
+    mbid: 6228169a-0b1c-462c-afb4-9df5e84df347
+    name: Keith York
 musical_connections:
   collaborators:
-  - James Cargill
-  - Tim Felton
-  - Roj Stevens
-  - Steve Perkins and other drummers (Keith York, Phil Jenkins, Jeremy Barnes, Neil Bullock, Ash Sheehan)
-  - Julian House / The Focus Group
+    - James Cargill
+    - Tim Felton
+    - Roj Stevens
+    - >-
+      Steve Perkins and other drummers (Keith York, Phil Jenkins, Jeremy Barnes,
+      Neil Bullock, Ash Sheehan)
+    - Julian House / The Focus Group
   influenced:
-  - Contemporary dream pop and indie electronic artists (various, e.g., later Warp‑adjacent and underground acts)
+    - >-
+      Contemporary dream pop and indie electronic artists (various, e.g., later
+      Warp‑adjacent and underground acts)
   mentors:
-  - The United States of America
-  - 1960s psychedelic pop and soundtrack/library music (various artists)
+    - The United States of America
+    - 1960s psychedelic pop and soundtrack/library music (various artists)
 musicbrainz_id: aaae25bf-c794-45d7-bab7-cdc7c655bfa6
 network_extracted: true
-origin: Birmingham
+origin: 'Birmingham, England, United Kingdom'
 original_members:
-- *id001
+  - *ref_0
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Broadcast_(band)
-- https://www.last.fm/music/Broadcast/+wiki
-- https://beat.com.au/broadcast/
-- https://www.allmusic.com/artist/broadcast-mn0000937150
-- https://faroutmagazine.co.uk/why-broadcast-are-the-most-underrated-band-in-alternative-music/
-- https://wqhs.upenn.edu/revisiting-broadcasts-healing-psychedelia/
+  - 'https://en.wikipedia.org/wiki/Broadcast_(band)'
+  - 'https://www.last.fm/music/Broadcast/+wiki'
+  - 'https://beat.com.au/broadcast/'
+  - 'https://www.allmusic.com/artist/broadcast-mn0000937150'
+  - >-
+    https://faroutmagazine.co.uk/why-broadcast-are-the-most-underrated-band-in-alternative-music/
+  - 'https://wqhs.upenn.edu/revisiting-broadcasts-healing-psychedelia/'
 spotify_data:
   followers: 266126
   id: 0WtTGUjbur1R1cNzBvbsMU
   popularity: 49
-  url: https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU
+  url: 'https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU'
 status: active
 tags:
-- ambient pop
-- avant-garde pop
-- dream pop
+  - ambient pop
+  - avant-garde pop
+  - dream pop
 title: Broadcast
-
+death_date: '2011-12-31'
 ---
 
 ![](broadcast.jpg)

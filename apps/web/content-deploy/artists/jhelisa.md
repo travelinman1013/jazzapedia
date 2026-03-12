@@ -1,55 +1,56 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-03T01:39:37.426589'
-birth_place: Jackson
+birth_place: 'Jackson, Mississippi, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-03T01:39:37.426605'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b50cfe5c-0b07-4543-8a1e-fa1ced0c963a
-  spotify: https://open.spotify.com/artist/5Cku4OBzfFNMx4tdgDgFNA
+  musicbrainz: 'https://musicbrainz.org/artist/b50cfe5c-0b07-4543-8a1e-fa1ced0c963a'
+  spotify: 'https://open.spotify.com/artist/5Cku4OBzfFNMx4tdgDgFNA'
   wikipedia: ''
 gender: Female
 genres:
-- uk garage
-- acid jazz
-- house
+  - uk garage
+  - acid jazz
+  - house
 image_path: 03_Resources/source_material/ArtistPortraits/jhelisa.jpg
 instruments:
-- Rhodes piano
+  - Rhodes piano
 last_updated: '2026-01-03T01:39:37.426606'
 musical_connections:
   collaborators:
-  - Soul Family Sensation
-  - The Shamen
-  - Björk
-  - Jeff Buckley
-  - Massive Attack
-  - Bryan Ferry
-  - Greg Osby
-  - Everton Nelson
+    - Soul Family Sensation
+    - The Shamen
+    - Björk
+    - Jeff Buckley
+    - Massive Attack
+    - Bryan Ferry
+    - Greg Osby
+    - Everton Nelson
   influenced:
-  - Chaka Khan
+    - Chaka Khan
   mentors:
-  - Nina Simone
+    - Nina Simone
 musicbrainz_id: b50cfe5c-0b07-4543-8a1e-fa1ced0c963a
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://dorado.net/jhelisa
-- https://composer.spitfireaudio.com/en/articles/jhelisa-on-releasing-7-keys-the-power-of-using-vocals-for-composing
-- https://www.riotsquadpublicity.com/publicity/jhelisa/
-- https://www.last.fm/music/Jhelisa/+wiki
-- https://www.jazzmusicarchives.com/artist/jhelisa
+  - 'https://dorado.net/jhelisa'
+  - >-
+    https://composer.spitfireaudio.com/en/articles/jhelisa-on-releasing-7-keys-the-power-of-using-vocals-for-composing
+  - 'https://www.riotsquadpublicity.com/publicity/jhelisa/'
+  - 'https://www.last.fm/music/Jhelisa/+wiki'
+  - 'https://www.jazzmusicarchives.com/artist/jhelisa'
 spotify_data:
   followers: 16420
   id: 5Cku4OBzfFNMx4tdgDgFNA
   popularity: 48
-  url: https://open.spotify.com/artist/5Cku4OBzfFNMx4tdgDgFNA
+  url: 'https://open.spotify.com/artist/5Cku4OBzfFNMx4tdgDgFNA'
 status: active
 tags:
-- acid jazz
-- downtempo
-- neo soul
+  - acid jazz
+  - downtempo
+  - neo soul
 title: Jhelisa
 ---
 

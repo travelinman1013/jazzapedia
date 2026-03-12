@@ -5,53 +5,53 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1940-09-26'
-birth_place: Baltimore
+birth_place: 'Baltimore, Maryland, United States'
 genres:
-- jazz funk
-- jazz
-- jazz fusion
+  - jazz funk
+  - jazz
+  - jazz fusion
 instruments:
-- original
-- saxophone
-- alto saxophone
-- piano
-- guitar
-- spoken vocals
-- background vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6103f496-ed44-474d-b776-02db851eb9de
-  name: Chico Freeman - Gary Bartz Quintet
-- begin: ''
-  end: ''
-  instruments:
   - original
   - saxophone
-  mbid: feca73f5-65e8-4f00-981a-e985ec8ca5ad
-  name: Heads of State
-- begin: ''
-  end: ''
-  instruments:
   - alto saxophone
-  mbid: bcc5ae1e-b39e-4125-a559-3119379b5812
-  name: Sphere
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 46afa768-d285-4c27-b3d7-20472ebbd984
-  name: Grachan Moncur III Octet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 22edb005-f399-47c3-bc19-36eb6f444af4
-  name: Gary Bartz Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f86fa8ff-dc99-4724-9665-361fd07e62eb
-  name: The Bob Thiele Collective
+  - piano
+  - guitar
+  - spoken vocals
+  - background vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6103f496-ed44-474d-b776-02db851eb9de
+    name: Chico Freeman - Gary Bartz Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - saxophone
+    mbid: feca73f5-65e8-4f00-981a-e985ec8ca5ad
+    name: Heads of State
+  - begin: ''
+    end: ''
+    instruments:
+      - alto saxophone
+    mbid: bcc5ae1e-b39e-4125-a559-3119379b5812
+    name: Sphere
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 46afa768-d285-4c27-b3d7-20472ebbd984
+    name: Grachan Moncur III Octet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 22edb005-f399-47c3-bc19-36eb6f444af4
+    name: Gary Bartz Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f86fa8ff-dc99-4724-9665-361fd07e62eb
+    name: The Bob Thiele Collective
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/gary_bartz.jpg
   caption: Gary Bartz
@@ -73,56 +73,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Art Blakey
-  - Miles Davis
-  - McCoy Tyner
-  - Ntu Troop
+    - Art Blakey
+    - Miles Davis
+    - McCoy Tyner
+    - Ntu Troop
   influenced:
-  - Kenny Garrett
-  - Jazz Is Dead collective
+    - Kenny Garrett
+    - Jazz Is Dead collective
   mentors:
-  - John Coltrane
-  - Max Roach
+    - John Coltrane
+    - Max Roach
 spotify_data:
   followers: 29493
   id: 5ArqvMflDEhxdqW8sBBQUQ
   popularity: 31
-  url: https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ
+  url: 'https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ'
 discography_enriched: true
 top_tracks:
-- Spiritual Ideation (Gary Bartz JID006)
-- Gentle Smiles (Saxy) (The Shadow Do!)
-- I've Known Rivers (I've Known Rivers And Other Bodies)
-- Music Is My Sanctuary (Music Is My Sanctuary)
-- Day By Day (Gary Bartz JID006)
-- light as a feather (Dream Manifest)
-- Little Miss Lover (feat. Gary Bartz & The Greyboy Allstars) (Spirit of '70)
-- The Message (Gary Bartz JID006)
-- Soulsea (Gary Bartz JID006)
-- Distant Mode (Gary Bartz JID006)
+  - Spiritual Ideation (Gary Bartz JID006)
+  - Gentle Smiles (Saxy) (The Shadow Do!)
+  - I've Known Rivers (I've Known Rivers And Other Bodies)
+  - Music Is My Sanctuary (Music Is My Sanctuary)
+  - Day By Day (Gary Bartz JID006)
+  - light as a feather (Dream Manifest)
+  - Little Miss Lover (feat. Gary Bartz & The Greyboy Allstars) (Spirit of '70)
+  - The Message (Gary Bartz JID006)
+  - Soulsea (Gary Bartz JID006)
+  - Distant Mode (Gary Bartz JID006)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d2cdb3df-783b-472e-91ab-70630fc6a4ad
-  spotify: https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ
-  wikipedia: https://en.wikipedia.org/wiki/Gary_Bartz
+  musicbrainz: 'https://musicbrainz.org/artist/d2cdb3df-783b-472e-91ab-70630fc6a4ad'
+  spotify: 'https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Gary_Bartz'
 image_path: 03_Resources/source_material/ArtistPortraits/gary_bartz.jpg
 biography_enhanced_at: '2025-11-20T06:30:23.178489'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Gary_Bartz
-- https://www.capitalbop.com/gary-bartz-interview-library-of-congress/
-- https://www.yanagisawasax.co.jp/en/artists/view/139
-- https://concord.com/artist/gary-bartz/
-- https://www.kqed.org/arts/13935159/8-over-80-gary-bartz
+  - 'https://en.wikipedia.org/wiki/Gary_Bartz'
+  - 'https://www.capitalbop.com/gary-bartz-interview-library-of-congress/'
+  - 'https://www.yanagisawasax.co.jp/en/artists/view/139'
+  - 'https://concord.com/artist/gary-bartz/'
+  - 'https://www.kqed.org/arts/13935159/8-over-80-gary-bartz'
 network_extracted: true
 entry_created: '2025-11-20T06:30:23.178497'
 last_updated: '2025-12-23T08:16:09.001282'
 gender: Male
 musicbrainz_id: d2cdb3df-783b-472e-91ab-70630fc6a4ad
 tags:
-- american
-- free funk
-- hard bop
+  - american
+  - free funk
+  - hard bop
 ---
 
 ![](gary_bartz.jpg)

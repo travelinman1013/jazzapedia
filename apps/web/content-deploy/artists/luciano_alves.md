@@ -9,14 +9,16 @@ infobox:
   image: 03_Resources/source_material/ArtistPortraits/luciano_alves.jpg
   caption: Luciano Alves
   background: solo_singer
-  origin: Brazil (specific city and state not stated in available music-related sources)
+  origin: >-
+    Brazil (specific city and state not stated in available music-related
+    sources)
 audio_profile:
   tempo_avg: 127.9
   energy_avg: 0.31
   valence_avg: 0.193
   danceability_avg: 0.509
   acousticness_avg: 0.738
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -12.9
   speechiness_avg: 0.028
   liveness_avg: 0.116
@@ -25,31 +27,32 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Various artists on "The Ethnic Sampler, Vol. 6"
+    - 'Various artists on "The Ethnic Sampler, Vol. 6"'
   influenced: []
   mentors: []
 spotify_data:
   followers: 1
   id: 74MDncpqghngO9EpTrEh9O
   popularity: 0
-  url: https://open.spotify.com/artist/74MDncpqghngO9EpTrEh9O
+  url: 'https://open.spotify.com/artist/74MDncpqghngO9EpTrEh9O'
 discography_enriched: true
 top_tracks:
-- Salmo 30 (Vias da Ressurreição)
+  - Salmo 30 (Vias da Ressurreição)
 external_urls:
-  spotify: https://open.spotify.com/artist/74MDncpqghngO9EpTrEh9O
+  spotify: 'https://open.spotify.com/artist/74MDncpqghngO9EpTrEh9O'
   wikipedia: ''
 image_path: ''
 biography_enhanced_at: '2025-12-07T04:48:59.961542'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://lucianoalves.mus.br/english/labiog00i.htm
-- https://lucianoalves.mus.br/english/index1i.htm
-- https://open.spotify.com/artist/2kVBBjV5vzevmI3mvxVMRM
+  - 'https://lucianoalves.mus.br/english/labiog00i.htm'
+  - 'https://lucianoalves.mus.br/english/index1i.htm'
+  - 'https://open.spotify.com/artist/2kVBBjV5vzevmI3mvxVMRM'
 network_extracted: true
 entry_created: '2025-12-07T04:48:59.961549'
 last_updated: '2025-12-23T08:16:12.310479'
+artist_type: person
 ---
 
 ![]()

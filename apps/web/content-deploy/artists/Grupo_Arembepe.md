@@ -23,38 +23,41 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Novos Baianos
+    - Novos Baianos
   influenced:
-  - Eri and Ari (children of Mestre Lua de Bobó)
+    - Eri and Ari (children of Mestre Lua de Bobó)
   mentors:
-  - Mestre Bobó (Milton Santos)
+    - Mestre Bobó (Milton Santos)
 spotify_data:
   followers: 18
   id: 0QKFCC09kwI3YwjWMum1f4
   popularity: 0
-  url: https://open.spotify.com/artist/0QKFCC09kwI3YwjWMum1f4
+  url: 'https://open.spotify.com/artist/0QKFCC09kwI3YwjWMum1f4'
 discography_enriched: true
 top_tracks:
-- Iaiá (Nicola Conte Presents Viagem 5)
+  - Iaiá (Nicola Conte Presents Viagem 5)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9ca51202-435e-4d2f-b363-503de7fbbfbb
-  spotify: https://open.spotify.com/artist/0QKFCC09kwI3YwjWMum1f4
+  musicbrainz: 'https://musicbrainz.org/artist/9ca51202-435e-4d2f-b363-503de7fbbfbb'
+  spotify: 'https://open.spotify.com/artist/0QKFCC09kwI3YwjWMum1f4'
   wikipedia: null
 image_path: ''
 biography_enhanced_at: '2025-10-19T12:28:39.639093'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://bahia.ws/en/arembepe-tem-a-mais-famosa-aldeia-hippie-do-brasil/
-- https://nossa-tribo.com/mestre-lua-de-bobo/
-- https://www.capoeirahub.net/mestres/68a1e0020223926ddbeea95c-mestre-lua-de-bobo
-- https://www.tripadvisor.com/AttractionProductReview-g303272-d17349344-Hippie_Arembepe_Village_Tour-Salvador_State_of_Bahia.html
+  - 'https://bahia.ws/en/arembepe-tem-a-mais-famosa-aldeia-hippie-do-brasil/'
+  - 'https://nossa-tribo.com/mestre-lua-de-bobo/'
+  - >-
+    https://www.capoeirahub.net/mestres/68a1e0020223926ddbeea95c-mestre-lua-de-bobo
+  - >-
+    https://www.tripadvisor.com/AttractionProductReview-g303272-d17349344-Hippie_Arembepe_Village_Tour-Salvador_State_of_Bahia.html
 network_extracted: true
 entry_created: '2025-10-19T12:28:39.639110'
 last_updated: '2025-12-23T08:16:02.166775'
 musicbrainz_enriched_at: '2025-10-21T09:28:17.253764'
 musicbrainz_id: 9ca51202-435e-4d2f-b363-503de7fbbfbb
-origin: Arembepe, Camaçari, Bahia, Brazil
+origin: 'Arembepe, Camaçari, Bahia, Brazil'
+artist_type: band
 ---
 
 ![]()

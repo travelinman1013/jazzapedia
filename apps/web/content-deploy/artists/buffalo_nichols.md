@@ -3,15 +3,19 @@ title: Buffalo Nichols
 wiki_slug: buffalo-nichols
 schema_version: 2
 status: active
-birth_place: Houston, Texas (birthplace); Milwaukee, Wisconsin (raised); Austin, Texas (current base), USA
+birth_place: >-
+  Houston, Texas (birthplace); Milwaukee, Wisconsin (raised); Austin, Texas
+  (current base), USA
 genres:
-- modern blues
-- blues
+  - modern blues
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/buffalo_nichols.jpg
   caption: Buffalo Nichols
   background: solo_singer
-  origin: Houston, Texas (birthplace); Milwaukee, Wisconsin (raised); Austin, Texas (current base), USA
+  origin: >-
+    Houston, Texas (birthplace); Milwaukee, Wisconsin (raised); Austin, Texas
+    (current base), USA
 audio_profile:
   tempo_avg: 116.4
   energy_avg: 0.558
@@ -27,45 +31,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Various local bands
+    - Various local bands
   influenced: []
   mentors:
-  - Son House
-  - Keb' Mo'
-  - Skip James
+    - Son House
+    - Keb' Mo'
+    - Skip James
 spotify_data:
   followers: 25793
   id: 5dT9JLuBwGNiHJQsY29Qmh
   popularity: 26
-  url: https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh
+  url: 'https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh'
 discography_enriched: true
 top_tracks:
-- Lost & Lonesome (Buffalo Nichols)
-- Belly of the Beast (Belly of the Beast)
-- In the Name of God (In the Name of God)
-- How to Love (Buffalo Nichols)
-- Back on Top (Buffalo Nichols)
-- Another Man (Buffalo Nichols)
-- Voices (Voices)
-- Love Is All (The Fatalist)
-- Broken Heart of America (Broken Heart of America)
-- The Fatalist Blues (The Fatalist)
+  - Lost & Lonesome (Buffalo Nichols)
+  - Belly of the Beast (Belly of the Beast)
+  - In the Name of God (In the Name of God)
+  - How to Love (Buffalo Nichols)
+  - Back on Top (Buffalo Nichols)
+  - Another Man (Buffalo Nichols)
+  - Voices (Voices)
+  - Love Is All (The Fatalist)
+  - Broken Heart of America (Broken Heart of America)
+  - The Fatalist Blues (The Fatalist)
 external_urls:
-  spotify: https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh
+  spotify: 'https://open.spotify.com/artist/5dT9JLuBwGNiHJQsY29Qmh'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/buffalo_nichols.jpg
 biography_enhanced_at: '2025-11-24T08:31:54.270320'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://preacher.co/the-good-word/buffalo-nichols
-- https://calgaryfolkfest.com/artists/buffalo-nichols
-- https://jaminthevan.com/band/buffalo-nichols/
-- https://thebluegrasssituation.com/read/buffalo-nichols-champions-blues-in-the-21st-century/
-- https://kutx.org/artist-of-the-month/buffalo-nichols/
+  - 'https://preacher.co/the-good-word/buffalo-nichols'
+  - 'https://calgaryfolkfest.com/artists/buffalo-nichols'
+  - 'https://jaminthevan.com/band/buffalo-nichols/'
+  - >-
+    https://thebluegrasssituation.com/read/buffalo-nichols-champions-blues-in-the-21st-century/
+  - 'https://kutx.org/artist-of-the-month/buffalo-nichols/'
 network_extracted: true
 entry_created: '2025-11-24T08:31:54.270334'
 last_updated: '2025-12-23T08:16:06.241508'
+artist_type: person
 ---
 
 ![](buffalo_nichols.jpg)

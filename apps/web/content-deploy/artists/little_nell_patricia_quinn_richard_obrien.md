@@ -1,12 +1,13 @@
 ---
-title: Little nell, Patricia Quinn, Richard O'Brien
+title: 'Little nell, Patricia Quinn, Richard O''Brien'
 wiki_slug: little-nell-patricia-quinn-richard-obrien
 schema_version: 2
 status: active
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/little_nell_patricia_quinn_richard_obrien.jpg
-  caption: Little nell, Patricia Quinn, Richard O'Brien
+  image: >-
+    03_Resources/source_material/ArtistPortraits/little_nell_patricia_quinn_richard_obrien.jpg
+  caption: 'Little nell, Patricia Quinn, Richard O''Brien'
   background: solo_singer
 audio_profile:
   tempo_avg: 143.8
@@ -14,7 +15,7 @@ audio_profile:
   valence_avg: 0.326
   danceability_avg: 0.471
   acousticness_avg: 0.87
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -9.5
   speechiness_avg: 0.029
   liveness_avg: 0.175
@@ -23,39 +24,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tim Curry
-  - Susan Sarandon
-  - Barry Bostwick
+    - Tim Curry
+    - Susan Sarandon
+    - Barry Bostwick
   influenced:
-  - Countless cult and musical theatre performers
+    - Countless cult and musical theatre performers
   mentors:
-  - Jim Sharman
+    - Jim Sharman
 spotify_data:
   followers: 28
   id: 4SgVIudbfYwuPWMU90jiRw
   popularity: 2
-  url: https://open.spotify.com/artist/4SgVIudbfYwuPWMU90jiRw
+  url: 'https://open.spotify.com/artist/4SgVIudbfYwuPWMU90jiRw'
 discography_enriched: true
 top_tracks:
-- A Song for My Son (A Song for My Son)
+  - A Song for My Son (A Song for My Son)
 external_urls:
-  spotify: https://open.spotify.com/artist/4SgVIudbfYwuPWMU90jiRw
-  wikipedia: https://en.wikipedia.org/wiki/The_Rocky_Horror_Picture_Show
-image_path: 03_Resources/source_material/ArtistPortraits/little_nell_patricia_quinn_richard_obrien.jpg
+  spotify: 'https://open.spotify.com/artist/4SgVIudbfYwuPWMU90jiRw'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Rocky_Horror_Picture_Show'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/little_nell_patricia_quinn_richard_obrien.jpg
 biography_enhanced_at: '2025-11-01T15:19:12.957676'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://normanwrites.wordpress.com/2016/06/09/richard-obrien-rocky-horror-picture-show/
-- https://en.wikipedia.org/wiki/The_Rocky_Horror_Picture_Show
-- https://www.imdb.com/name/nm0703946/
-- https://rockyhorror.fandom.com/wiki/Nell_Campbell
-- http://www.rockyhorror.com/history/timeline.php
+  - >-
+    https://normanwrites.wordpress.com/2016/06/09/richard-obrien-rocky-horror-picture-show/
+  - 'https://en.wikipedia.org/wiki/The_Rocky_Horror_Picture_Show'
+  - 'https://www.imdb.com/name/nm0703946/'
+  - 'https://rockyhorror.fandom.com/wiki/Nell_Campbell'
+  - 'http://www.rockyhorror.com/history/timeline.php'
 network_extracted: true
 entry_created: '2025-11-01T15:19:12.957684'
 last_updated: '2025-12-23T08:16:12.026076'
-origin: London, England (origin of collaboration); Sydney, Australia (Little Nell's birthplace); Belfast, Northern Ireland
-  (Patricia Quinn's birthplace); England (Richard O'Brien's birthplace)
+origin: >-
+  London, England (origin of collaboration); Sydney, Australia (Little Nell's
+  birthplace); Belfast, Northern Ireland (Patricia Quinn's birthplace); England
+  (Richard O'Brien's birthplace)
+birth_place: 'Sydney, Australia'
+birth_date: '1953'
+artist_type: band
 ---
 
 ![](little_nell_patricia_quinn_richard_obrien.jpg)

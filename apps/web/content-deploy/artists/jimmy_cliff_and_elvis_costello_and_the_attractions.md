@@ -3,15 +3,16 @@ title: Jimmy Cliff and Elvis Costello and the Attractions
 wiki_slug: jimmy-cliff-and-elvis-costello-and-the-attractions
 schema_version: 2
 status: active
-birth_place: London, England (birthplace); raised in London and Liverpool
+birth_place: 'London, England, United Kingdom'
 genres:
-- new wave
-- power pop
+  - new wave
+  - power pop
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/jimmy_cliff_and_elvis_costello_and_the_attractions.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/jimmy_cliff_and_elvis_costello_and_the_attractions.jpg
   caption: Jimmy Cliff and Elvis Costello and the Attractions
   background: solo_singer
-  origin: London, England (birthplace); raised in London and Liverpool
+  origin: 'London, England (birthplace); raised in London and Liverpool'
 audio_profile:
   tempo_avg: 135.8
   energy_avg: 0.664
@@ -19,7 +20,7 @@ audio_profile:
   danceability_avg: 0.52
   acousticness_avg: 0.165
   instrumentalness_avg: 0.023
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.046
   liveness_avg: 0.218
   track_count: 49
@@ -27,47 +28,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Attractions
-  - The Imposters
-  - Clover
-  - Steve Nieve
+    - The Attractions
+    - The Imposters
+    - Clover
+    - Steve Nieve
   influenced: []
   mentors:
-  - Ross McManus
-  - Nick Lowe
+    - Ross McManus
+    - Nick Lowe
 spotify_data:
   followers: 316566
   id: 4qmHkMxr6pTWh5Zo74odpH
   popularity: 50
-  url: https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH
+  url: 'https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH'
 discography_enriched: true
 top_tracks:
-- Pump It Up - 2021 Remaster (This Year's Model (2021 Remaster))
-- Oliver's Army (Armed Forces (Super Deluxe Edition))
-- Everyday I Write The Book (Punch The Clock)
-- Good Year For The Roses (Almost Blue)
-- Radio, Radio - 2021 Remaster (This Year's Model (2021 Remaster))
-- Oliver's Army (Armed Forces (Remastered 2020))
-- (I Don't Want To Go To) Chelsea - 2021 Remaster (This Year's Model (2021 Remaster))
-- I Want You (Blood And Chocolate)
-- (What's So Funny 'Bout) Peace, Love And Understanding (Armed Forces (Super Deluxe Edition))
-- Shipbuilding (Punch The Clock)
+  - Pump It Up - 2021 Remaster (This Year's Model (2021 Remaster))
+  - Oliver's Army (Armed Forces (Super Deluxe Edition))
+  - Everyday I Write The Book (Punch The Clock)
+  - Good Year For The Roses (Almost Blue)
+  - 'Radio, Radio - 2021 Remaster (This Year''s Model (2021 Remaster))'
+  - Oliver's Army (Armed Forces (Remastered 2020))
+  - >-
+    (I Don't Want To Go To) Chelsea - 2021 Remaster (This Year's Model (2021
+    Remaster))
+  - I Want You (Blood And Chocolate)
+  - >-
+    (What's So Funny 'Bout) Peace, Love And Understanding (Armed Forces (Super
+    Deluxe Edition))
+  - Shipbuilding (Punch The Clock)
 external_urls:
-  spotify: https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH
+  spotify: 'https://open.spotify.com/artist/4qmHkMxr6pTWh5Zo74odpH'
   wikipedia: Not provided in search results
-image_path: 03_Resources/source_material/ArtistPortraits/jimmy_cliff_and_elvis_costello_and_the_attractions.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/jimmy_cliff_and_elvis_costello_and_the_attractions.jpg
 biography_enhanced_at: '2025-11-27T06:40:21.951526'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.imdb.com/name/nm0004845/bio/
-- https://www.ebsco.com/research-starters/music/elvis-costello
-- https://www.britannica.com/biography/Elvis-Costello
-- https://ciariguitars.com/blogs/artists/elvis-costello
-- https://shorefire.com/roster/elvis-costello/bio
+  - 'https://www.imdb.com/name/nm0004845/bio/'
+  - 'https://www.ebsco.com/research-starters/music/elvis-costello'
+  - 'https://www.britannica.com/biography/Elvis-Costello'
+  - 'https://ciariguitars.com/blogs/artists/elvis-costello'
+  - 'https://shorefire.com/roster/elvis-costello/bio'
 network_extracted: true
 entry_created: '2025-11-27T06:40:21.951542'
 last_updated: '2025-12-23T08:16:10.426377'
+birth_date: '2006-12-06'
+artist_type: person
 ---
 
 ![](jimmy_cliff_and_elvis_costello_and_the_attractions.jpg)

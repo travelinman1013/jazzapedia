@@ -5,15 +5,15 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1947-07-10'
-birth_place: Coney Island
+birth_place: 'Coney Island, New York City, United States'
 genres:
-- folk
-- singer-songwriter
-- folk rock
+  - folk
+  - singer-songwriter
+  - folk rock
 instruments:
-- guitar
-- lead vocals
-- background vocals
+  - guitar
+  - lead vocals
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/arlo_guthrie.jpg
   caption: Arlo Guthrie
@@ -35,48 +35,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Pete Seeger
-  - Steve Goodman
-  - Family members (Sarah Lee Guthrie, Abe Guthrie, Cathy Guthrie, Annie Guthrie)
+    - Pete Seeger
+    - Steve Goodman
+    - >-
+      Family members (Sarah Lee Guthrie, Abe Guthrie, Cathy Guthrie, Annie
+      Guthrie)
   influenced:
-  - Sarah Lee Guthrie
-  - Abe Guthrie
-  - Contemporary folk artists
+    - Sarah Lee Guthrie
+    - Abe Guthrie
+    - Contemporary folk artists
   mentors:
-  - Woody Guthrie
-  - Pete Seeger
-  - Ramblin’ Jack Elliott
+    - Woody Guthrie
+    - Pete Seeger
+    - Ramblin’ Jack Elliott
 spotify_data:
   followers: 171096
   id: 0B6QEFtRnneEzb4iqjI0Nw
   popularity: 39
-  url: https://open.spotify.com/artist/0B6QEFtRnneEzb4iqjI0Nw
+  url: 'https://open.spotify.com/artist/0B6QEFtRnneEzb4iqjI0Nw'
 discography_enriched: true
 top_tracks:
-- The City of New Orleans (Hobo's Lullaby (Remastered 2004))
-- Coming into Los Angeles - Remastered (Running Down the Road (Remastered))
-- Alice's Restaurant Massacree (Alice's Restaurant)
-- The Motorcycle Song (Alice's Restaurant)
-- Coming into Los Angeles (Taking Woodstock - Original Motion Picture Soundtrack) - Live
-- Hobo's Lullaby (Hobo's Lullaby (Remastered 2004))
-- Lightning Bar Blues (Hobo's Lullaby (Remastered 2004))
-- Last Train (Last of the Brooklyn Cowboys (Remastered 2004))
-- Highway in the Wind (Alice's Restaurant)
-- Oklahoma Hills - Remastered (Running Down the Road (Remastered))
+  - The City of New Orleans (Hobo's Lullaby (Remastered 2004))
+  - Coming into Los Angeles - Remastered (Running Down the Road (Remastered))
+  - Alice's Restaurant Massacree (Alice's Restaurant)
+  - The Motorcycle Song (Alice's Restaurant)
+  - >-
+    Coming into Los Angeles (Taking Woodstock - Original Motion Picture
+    Soundtrack) - Live
+  - Hobo's Lullaby (Hobo's Lullaby (Remastered 2004))
+  - Lightning Bar Blues (Hobo's Lullaby (Remastered 2004))
+  - Last Train (Last of the Brooklyn Cowboys (Remastered 2004))
+  - Highway in the Wind (Alice's Restaurant)
+  - Oklahoma Hills - Remastered (Running Down the Road (Remastered))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b8efe8ac-45db-4a71-bb51-c1503986172f
-  spotify: https://open.spotify.com/artist/0B6QEFtRnneEzb4iqjI0Nw
-  wikipedia: https://en.wikipedia.org/wiki/Arlo_Guthrie
+  musicbrainz: 'https://musicbrainz.org/artist/b8efe8ac-45db-4a71-bb51-c1503986172f'
+  spotify: 'https://open.spotify.com/artist/0B6QEFtRnneEzb4iqjI0Nw'
+  wikipedia: 'https://en.wikipedia.org/wiki/Arlo_Guthrie'
 image_path: 03_Resources/source_material/ArtistPortraits/arlo_guthrie.jpg
 biography_enhanced_at: '2025-10-25T09:58:01.269053'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Arlo_Guthrie
-- https://www.arloguthrie.com/about
-- https://aaep1600.osu.edu/book/08_Guthrie.php
-- https://www.limusichalloffame.org/inductees/arlo-guthrie/
-- https://simple.wikipedia.org/wiki/Arlo_Guthrie
+  - 'https://en.wikipedia.org/wiki/Arlo_Guthrie'
+  - 'https://www.arloguthrie.com/about'
+  - 'https://aaep1600.osu.edu/book/08_Guthrie.php'
+  - 'https://www.limusichalloffame.org/inductees/arlo-guthrie/'
+  - 'https://simple.wikipedia.org/wiki/Arlo_Guthrie'
 network_extracted: true
 entry_created: '2025-10-25T09:58:01.269067'
 last_updated: '2025-12-23T08:16:04.920270'
@@ -84,7 +88,7 @@ disambiguation: American folk singer-songwriter
 gender: Male
 musicbrainz_id: b8efe8ac-45db-4a71-bb51-c1503986172f
 tags:
-- folk
+  - folk
 ---
 
 ![](arlo_guthrie.jpg)

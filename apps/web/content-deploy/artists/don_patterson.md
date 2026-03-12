@@ -1,19 +1,19 @@
 ---
-title: DON PATTERSON
+title: Don Patterson
 wiki_slug: don-patterson
 schema_version: 2
 status: active
-birth_place: Columbus, Ohio, United States
+birth_place: 'Columbus, Ohio, United States'
 genres:
-- hard bop
-- acid jazz
-- soul jazz
-- bebop
+  - hard bop
+  - acid jazz
+  - soul jazz
+  - bebop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/don_patterson.jpg
   caption: DON PATTERSON
   background: solo_singer
-  origin: Columbus, Ohio, United States
+  origin: 'Columbus, Ohio, United States'
 audio_profile:
   tempo_avg: 116.4
   energy_avg: 0.458
@@ -31,42 +31,47 @@ musical_connections:
   collaborators: []
   influenced: []
   mentors:
-  - Erroll Garner
-  - Jimmy Smith
+    - Erroll Garner
+    - Jimmy Smith
 spotify_data:
   followers: 1452
   id: 6SRSZ1BTxmlbfdHqIiEgIO
   popularity: 21
-  url: https://open.spotify.com/artist/6SRSZ1BTxmlbfdHqIiEgIO
+  url: 'https://open.spotify.com/artist/6SRSZ1BTxmlbfdHqIiEgIO'
 discography_enriched: true
 top_tracks:
-- Low Flame (Low Flame (Hd Remastered))
-- There Will Never Be Another You
-- Brothers-4 (Brothers 4)
-- Tangerine
-- Someday My Prince Will Come
-- Please Don't Talk About Me When I'm Gone
-- Airegin
-- Funk In 3/4
-- St. Thomas (Brothers 4)
-- Star Eyes
+  - Low Flame (Low Flame (Hd Remastered))
+  - There Will Never Be Another You
+  - Brothers-4 (Brothers 4)
+  - Tangerine
+  - Someday My Prince Will Come
+  - Please Don't Talk About Me When I'm Gone
+  - Airegin
+  - Funk In 3/4
+  - St. Thomas (Brothers 4)
+  - Star Eyes
 external_urls:
-  spotify: https://open.spotify.com/artist/6SRSZ1BTxmlbfdHqIiEgIO
-  wikipedia: https://en.wikipedia.org/wiki/Don_Patterson_(organist)
+  spotify: 'https://open.spotify.com/artist/6SRSZ1BTxmlbfdHqIiEgIO'
+  wikipedia: 'https://en.wikipedia.org/wiki/Don_Patterson_(organist)'
 image_path: 03_Resources/source_material/ArtistPortraits/don_patterson.jpg
 biography_enhanced_at: '2025-12-22T01:46:06.149206'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Don_Patterson_(organist)
-- https://alchetron.com/Don-Patterson-(organist)
-- https://jazzdiscography.com/Artists/don-patterson/index.php
-- https://jazzleadsheets.com/composers/don-patterson.html
-- https://www.allaboutjazz.com/musicians/don-patterson/
-- https://fromthevaults-boppinbob.blogspot.com/2020/07/don-patterson-born-22-july-1936.html
+  - 'https://en.wikipedia.org/wiki/Don_Patterson_(organist)'
+  - 'https://alchetron.com/Don-Patterson-(organist)'
+  - 'https://jazzdiscography.com/Artists/don-patterson/index.php'
+  - 'https://jazzleadsheets.com/composers/don-patterson.html'
+  - 'https://www.allaboutjazz.com/musicians/don-patterson/'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2020/07/don-patterson-born-22-july-1936.html
 network_extracted: true
 entry_created: '2025-12-22T01:46:06.149211'
 last_updated: '2025-12-23T08:16:07.889525'
+origin: 'Philadelphia, Pennsylvania, United States'
+birth_date: '1936-07-22'
+death_date: '1988-02-10'
+artist_type: person
 ---
 
 ![](don_patterson.jpg)

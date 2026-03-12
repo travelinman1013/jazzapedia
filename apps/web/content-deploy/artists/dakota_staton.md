@@ -3,16 +3,16 @@ title: Dakota Staton
 wiki_slug: dakota-staton
 schema_version: 2
 status: active
-birth_place: Pittsburgh, Pennsylvania, USA
+birth_place: 'Pittsburgh, Pennsylvania, USA'
 genres:
-- vocal jazz
-- jazz
-- jazz blues
+  - vocal jazz
+  - jazz
+  - jazz blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/dakota_staton.jpg
   caption: Dakota Staton
   background: solo_singer
-  origin: Pittsburgh, Pennsylvania, USA
+  origin: 'Pittsburgh, Pennsylvania, USA'
 audio_profile:
   tempo_avg: 107.1
   energy_avg: 0.266
@@ -28,48 +28,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dave Cavanaugh
-  - Van Alexander
-  - Jonah Jones
-  - Talib Dawud
+    - Dave Cavanaugh
+    - Van Alexander
+    - Jonah Jones
+    - Talib Dawud
   influenced:
-  - African-American female jazz and soul vocalists
+    - African-American female jazz and soul vocalists
   mentors:
-  - Dinah Washington
-  - Joe Westray
+    - Dinah Washington
+    - Joe Westray
 spotify_data:
   followers: 47637
   id: 2oJWxzbOW9q6pTekL8JPGx
   popularity: 39
-  url: https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx
+  url: 'https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx'
 discography_enriched: true
 top_tracks:
-- When Lights Are Low (Time To Swing)
-- Willow Weep For Me (Time To Swing)
-- Misty - Remastered (Great Ladies Of Song / Spotlight On Dakota Staton)
-- I Hear Music - Remastered (Great Ladies Of Song / Spotlight On Dakota Staton)
-- (It Will Have To Do) Until The Real Thing Comes Along (Time To Swing)
-- Moonray (An Invitation)
-- 'I Hear Music (Precious & Rare: Dakota Staton)'
-- 'In the Night (Precious & Rare: Dakota Staton)'
-- Say It Ain't So, Joe (Dynamic!)
-- The Song Is You (Time To Swing)
+  - When Lights Are Low (Time To Swing)
+  - Willow Weep For Me (Time To Swing)
+  - Misty - Remastered (Great Ladies Of Song / Spotlight On Dakota Staton)
+  - >-
+    I Hear Music - Remastered (Great Ladies Of Song / Spotlight On Dakota
+    Staton)
+  - (It Will Have To Do) Until The Real Thing Comes Along (Time To Swing)
+  - Moonray (An Invitation)
+  - 'I Hear Music (Precious & Rare: Dakota Staton)'
+  - 'In the Night (Precious & Rare: Dakota Staton)'
+  - 'Say It Ain''t So, Joe (Dynamic!)'
+  - The Song Is You (Time To Swing)
 external_urls:
-  spotify: https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx
-  wikipedia: https://en.wikipedia.org/wiki/Dakota_Staton
+  spotify: 'https://open.spotify.com/artist/2oJWxzbOW9q6pTekL8JPGx'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dakota_Staton'
 image_path: 03_Resources/source_material/ArtistPortraits/dakota_staton.jpg
 biography_enhanced_at: '2025-11-03T07:37:12.009567'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://thejazzvnu.com/dakota-staton-vocal-jazz/
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/staton-dakota
-- https://www.ipm.org/show/afterglow/2024-02-07/the-dynamic-dakota-staton
-- https://www.allaboutjazz.com/musicians/dakota-staton/
-- https://www.allmusic.com/artist/dakota-staton-mn0000668932
+  - 'http://thejazzvnu.com/dakota-staton-vocal-jazz/'
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/staton-dakota
+  - 'https://www.ipm.org/show/afterglow/2024-02-07/the-dynamic-dakota-staton'
+  - 'https://www.allaboutjazz.com/musicians/dakota-staton/'
+  - 'https://www.allmusic.com/artist/dakota-staton-mn0000668932'
 network_extracted: true
 entry_created: '2025-11-03T07:37:12.009585'
 last_updated: '2025-12-23T08:16:07.393359'
+birth_date: '1930-06-03'
+artist_type: person
 ---
 
 ![](dakota_staton.jpg)

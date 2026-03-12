@@ -2,21 +2,21 @@
 title: Corey Ledet
 wiki_slug: corey-ledet
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 aliases: []
-birth_place: Houston, Texas, USA
+birth_place: 'Houston, Texas, USA'
 genres:
-- zydeco
-- cajun
+  - zydeco
+  - cajun
 instruments:
-- eponymous
-- original
+  - eponymous
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Corey_Ledet.jpg
   caption: Corey Ledet
   background: non_vocal_instrumentalist
-  origin: Houston, Texas, USA
+  origin: 'Houston, Texas, USA'
 audio_profile:
   tempo_avg: 122.8
   energy_avg: 0.718
@@ -32,40 +32,40 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Germaine Jack
-  - Anders Osborne
-  - Kermit Ruffins
-  - Grant Dermody
+    - Germaine Jack
+    - Anders Osborne
+    - Kermit Ruffins
+    - Grant Dermody
   influenced:
-  - None documented
+    - None documented
   mentors:
-  - Clifton Chenier
-  - John Delafose
-  - Boozoo Chavis
+    - Clifton Chenier
+    - John Delafose
+    - Boozoo Chavis
 related_artists: []
 spotify_data:
   followers: 1056
   id: 5fOBJYdlwH0bXvmguPxrkY
   popularity: 11
-  url: https://open.spotify.com/artist/5fOBJYdlwH0bXvmguPxrkY
+  url: 'https://open.spotify.com/artist/5fOBJYdlwH0bXvmguPxrkY'
   verified: false
 discography_enriched: true
 albums_count: 1
 singles_count: 0
 top_tracks:
-- tout mon coeur (BABY DON'T)
-- Goin' Down To Louisiana (Goin' Down to Louisiana)
-- House Is Rockin' (Nothin' But the Best)
-- That Girl Wanna Dance (Nothin' But the Best)
-- Gabriel Ledet Two-Step (Nothin' But the Best)
-- No One to Dance With Me (Nothin' But the Best)
-- Let The Good Times Roll (Goin' Down to Louisiana)
-- Broken Hearted (Goin' Down to Louisiana)
-- Madame Faielle (Goin' Down to Louisiana)
-- Valse de Cherokee (Goin' Down to Louisiana)
+  - tout mon coeur (BABY DON'T)
+  - Goin' Down To Louisiana (Goin' Down to Louisiana)
+  - House Is Rockin' (Nothin' But the Best)
+  - That Girl Wanna Dance (Nothin' But the Best)
+  - Gabriel Ledet Two-Step (Nothin' But the Best)
+  - No One to Dance With Me (Nothin' But the Best)
+  - Let The Good Times Roll (Goin' Down to Louisiana)
+  - Broken Hearted (Goin' Down to Louisiana)
+  - Madame Faielle (Goin' Down to Louisiana)
+  - Valse de Cherokee (Goin' Down to Louisiana)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ed574a50-2b73-4d14-b19c-f7411fb5260d
-  spotify: https://open.spotify.com/artist/5fOBJYdlwH0bXvmguPxrkY
+  musicbrainz: 'https://musicbrainz.org/artist/ed574a50-2b73-4d14-b19c-f7411fb5260d'
+  spotify: 'https://open.spotify.com/artist/5fOBJYdlwH0bXvmguPxrkY'
   wikipedia: Not available
 image_path: 03_Resources/source_material/ArtistPortraits/Corey_Ledet.jpg
 biography_source: wikipedia
@@ -73,17 +73,18 @@ biography_enhanced_at: '2025-09-30T11:41:57.005805'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Centrum.org
-- Americanahighways.org
-- Anchoragefolkfestival.org
+  - Centrum.org
+  - Americanahighways.org
+  - Anchoragefolkfestival.org
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 12:57:47.275210
+entry_created: 2025-09-18T12:57:47.275Z
 last_updated: '2025-12-23T08:16:01.556320'
 disambiguation: US zydeco musician and accordionist
 gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:22:39.534204'
 musicbrainz_id: ed574a50-2b73-4d14-b19c-f7411fb5260d
+origin: 'Houston, Texas, United States'
 ---
 
 ![](Corey_Ledet.jpg)

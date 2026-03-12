@@ -1,13 +1,14 @@
 ---
-title: Fred Hersch, Drew Gress, Joey Baron
+title: 'Fred Hersch, Drew Gress, Joey Baron'
 wiki_slug: fred-hersch-drew-gress-joey-baron
 schema_version: 2
 status: active
 genres:
-- spoken word
+  - spoken word
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/fred_hersch_drew_gress_joey_baron.jpg
-  caption: Fred Hersch, Drew Gress, Joey Baron
+  image: >-
+    03_Resources/source_material/ArtistPortraits/fred_hersch_drew_gress_joey_baron.jpg
+  caption: 'Fred Hersch, Drew Gress, Joey Baron'
   background: solo_singer
 audio_profile:
   tempo_avg: 107.6
@@ -24,54 +25,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Drew Gress
-  - Joey Baron
-  - Charlie Haden
-  - esperanza spalding
-  - Enrico Rava
+    - Drew Gress
+    - Joey Baron
+    - Charlie Haden
+    - esperanza spalding
+    - Enrico Rava
   influenced:
-  - Brad Mehldau
-  - Sullivan Fortner
-  - Dan Tepfer
-  - Ethan Iverson
+    - Brad Mehldau
+    - Sullivan Fortner
+    - Dan Tepfer
+    - Ethan Iverson
   mentors:
-  - Art Farmer
+    - Art Farmer
 spotify_data:
   followers: 1252
   id: 6zkLBsQUuL6gqjtK7a4Glf
   popularity: 2
-  url: https://open.spotify.com/artist/6zkLBsQUuL6gqjtK7a4Glf
+  url: 'https://open.spotify.com/artist/6zkLBsQUuL6gqjtK7a4Glf'
 discography_enriched: true
 top_tracks:
-- A Riddle Song (Overture) (Leaves of Grass)
-- Song of the Universal (Leaves of Grass)
-- 'Song of Myself, Pt I: "I Celebrate Myself" (Leaves of Grass)'
-- 'Song of Myself, Pt II: "A Child Said, ''What Is the Grass''" (Leaves of Grass)'
-- Whoever You Are Holding Me Now in Hand (Leaves of Grass)
-- 'Song of Myself, Pt. III: "A Learner with the Simplest" (Leaves of Grass)'
-- 'Song of Myself, Pt. IV: "I Exist as I Am" (Leaves of Grass)'
-- 'Song of Myself, Pt. V: "I Am He That Walks" (Leaves of Grass)'
-- 'Song of Myself, Pt. VI: "Through Me Forbidden Voices" (Leaves of Grass)'
-- 'Song of Myself, Pt. VII: "Now I Will Do Nothing but Listen" (Leaves of Grass)'
+  - A Riddle Song (Overture) (Leaves of Grass)
+  - Song of the Universal (Leaves of Grass)
+  - 'Song of Myself, Pt I: "I Celebrate Myself" (Leaves of Grass)'
+  - 'Song of Myself, Pt II: "A Child Said, ''What Is the Grass''" (Leaves of Grass)'
+  - Whoever You Are Holding Me Now in Hand (Leaves of Grass)
+  - 'Song of Myself, Pt. III: "A Learner with the Simplest" (Leaves of Grass)'
+  - 'Song of Myself, Pt. IV: "I Exist as I Am" (Leaves of Grass)'
+  - 'Song of Myself, Pt. V: "I Am He That Walks" (Leaves of Grass)'
+  - 'Song of Myself, Pt. VI: "Through Me Forbidden Voices" (Leaves of Grass)'
+  - >-
+    Song of Myself, Pt. VII: "Now I Will Do Nothing but Listen" (Leaves of
+    Grass)
 external_urls:
-  spotify: https://open.spotify.com/artist/6zkLBsQUuL6gqjtK7a4Glf
-  wikipedia: https://en.wikipedia.org/wiki/Fred_Hersch
-image_path: 03_Resources/source_material/ArtistPortraits/fred_hersch_drew_gress_joey_baron.jpg
+  spotify: 'https://open.spotify.com/artist/6zkLBsQUuL6gqjtK7a4Glf'
+  wikipedia: 'https://en.wikipedia.org/wiki/Fred_Hersch'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/fred_hersch_drew_gress_joey_baron.jpg
 biography_enhanced_at: '2025-12-11T03:43:51.584361'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Fred_Hersch
-- https://fredhersch.com/about/
-- https://dlmediamusic.com/artists/fred-hersch-the-surrounding-green/
-- https://jazzviews.net/fred-hersch-drew-gress-joey-baron-the-surrounding-green/
-- https://crossovermedia.net/artists/fred-hersch/projects/the-surrounding-green-w-drew-gress-joey-baron
-- https://ecmreviews.com/tag/fred-hersch/
-- https://www.allaboutjazz.com/musicians/joey-baron/
+  - 'https://en.wikipedia.org/wiki/Fred_Hersch'
+  - 'https://fredhersch.com/about/'
+  - 'https://dlmediamusic.com/artists/fred-hersch-the-surrounding-green/'
+  - >-
+    https://jazzviews.net/fred-hersch-drew-gress-joey-baron-the-surrounding-green/
+  - >-
+    https://crossovermedia.net/artists/fred-hersch/projects/the-surrounding-green-w-drew-gress-joey-baron
+  - 'https://ecmreviews.com/tag/fred-hersch/'
+  - 'https://www.allaboutjazz.com/musicians/joey-baron/'
 network_extracted: true
 entry_created: '2025-12-11T03:43:51.584371'
 last_updated: '2025-12-23T08:16:08.810608'
-origin: Cincinnati, Ohio, United States (Fred Hersch’s birthplace; trio is a US‑based jazz group with international activity)
+origin: >-
+  Cincinnati, Ohio, United States (Fred Hersch’s birthplace; trio is a US‑based
+  jazz group with international activity)
+birth_place: 'Cincinnati, Ohio, United States'
+birth_date: '1955-10-21'
+artist_type: band
 ---
 
 ![](fred_hersch_drew_gress_joey_baron.jpg)

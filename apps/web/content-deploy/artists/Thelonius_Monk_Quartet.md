@@ -1,13 +1,13 @@
 ---
-title: Thelonius Monk Quartet
+title: The Thelonious Monk Quartet
 wiki_slug: thelonius-monk-quartet
 schema_version: 2
 status: active
 genres:
-- jazz
-- bebop
-- hard bop
-- cool jazz
+  - jazz
+  - bebop
+  - hard bop
+  - cool jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Thelonius_Monk_Quartet.jpg
   caption: Thelonius Monk Quartet
@@ -27,53 +27,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John Coltrane
-  - Charlie Rouse
-  - Art Blakey
-  - Wilbur Ware
-  - Frankie Dunlop
+    - John Coltrane
+    - Charlie Rouse
+    - Art Blakey
+    - Wilbur Ware
+    - Frankie Dunlop
   influenced:
-  - Herbie Hancock
-  - Chick Corea
-  - Jason Moran
-  - Steve Lacy
+    - Herbie Hancock
+    - Chick Corea
+    - Jason Moran
+    - Steve Lacy
   mentors:
-  - Mary Lou Williams
-  - Duke Ellington
+    - Mary Lou Williams
+    - Duke Ellington
 spotify_data:
   followers: 725351
   id: 4PDpGtF16XpqvXxsrFwQnN
   popularity: 50
-  url: https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN
+  url: 'https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN'
 discography_enriched: true
 top_tracks:
-- '''Round Midnight (Genius Of Modern Music (Vol.1, Expanded Edition))'
-- I'm Confessin' (That I Love You) (Solo Monk (Expanded Edition))
-- Straight, No Chaser (Straight, No Chaser)
-- Ruby, My Dear (Thelonious Monk with John Coltrane (OJC Remaster))
-- Monk's Dream - Take 8 (Monk's Dream)
-- Blue Monk - Rudy Van Gelder Remaster (Thelonious Monk)
-- Ruby, My Dear (Genius Of Modern Music (Vol.1, Expanded Edition))
-- Body and Soul (Monk's Dream)
-- Caravan (Plays Duke Ellington (Keepnews Collection))
-- Leap Frog - Take 11 / Take 6 / Master Take (Bird And Diz (Expanded Edition))
+  - '''Round Midnight (Genius Of Modern Music (Vol.1, Expanded Edition))'
+  - I'm Confessin' (That I Love You) (Solo Monk (Expanded Edition))
+  - 'Straight, No Chaser (Straight, No Chaser)'
+  - 'Ruby, My Dear (Thelonious Monk with John Coltrane (OJC Remaster))'
+  - Monk's Dream - Take 8 (Monk's Dream)
+  - Blue Monk - Rudy Van Gelder Remaster (Thelonious Monk)
+  - 'Ruby, My Dear (Genius Of Modern Music (Vol.1, Expanded Edition))'
+  - Body and Soul (Monk's Dream)
+  - Caravan (Plays Duke Ellington (Keepnews Collection))
+  - Leap Frog - Take 11 / Take 6 / Master Take (Bird And Diz (Expanded Edition))
 external_urls:
-  spotify: https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN
-  wikipedia: https://en.wikipedia.org/wiki/Thelonious_Monk
+  spotify: 'https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN'
+  wikipedia: 'https://en.wikipedia.org/wiki/Thelonious_Monk'
 image_path: 03_Resources/source_material/ArtistPortraits/Thelonius_Monk_Quartet.jpg
 biography_enhanced_at: '2025-10-19T11:28:17.300702'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.theloniousmonkmusic.com/bio/
-- https://en.wikipedia.org/wiki/Thelonious_Monk
-- https://www.biography.com/musicians/thelonious-monk
-- https://lincolnjazzcafe.co.uk/unraveling-the-enigma-of-thelonious-monk-the-genius-behind-jazzs-quirky-maestro/
+  - 'https://www.theloniousmonkmusic.com/bio/'
+  - 'https://en.wikipedia.org/wiki/Thelonious_Monk'
+  - 'https://www.biography.com/musicians/thelonious-monk'
+  - >-
+    https://lincolnjazzcafe.co.uk/unraveling-the-enigma-of-thelonious-monk-the-genius-behind-jazzs-quirky-maestro/
 network_extracted: true
 entry_created: '2025-10-19T11:28:17.300712'
 last_updated: '2025-12-23T08:16:04.156373'
-origin: Rocky Mount, North Carolina, United States
-
+origin: 'Rocky Mount, North Carolina, United States'
+birth_place: 'Rocky Mount, North Carolina, United States'
+birth_date: '1917-10-10'
+artist_type: band
 ---
 
 ![](Thelonius_Monk_Quartet.jpg)

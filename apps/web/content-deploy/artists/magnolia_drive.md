@@ -1,11 +1,11 @@
 ---
-title: MAGNOLIA DRIVE
+title: Magnolia Drive
 wiki_slug: magnolia-drive
 schema_version: 2
 status: active
 genres:
-- bluegrass
-- newgrass
+  - bluegrass
+  - newgrass
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/magnolia_drive.jpg
   caption: MAGNOLIA DRIVE
@@ -25,47 +25,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Glen Harrell (Volume Five)
-  - Tim Hathorn
+    - Glen Harrell (Volume Five)
+    - Tim Hathorn
   influenced:
-  - Regional bluegrass musicians in Mississippi and the Southeast
+    - Regional bluegrass musicians in Mississippi and the Southeast
   mentors:
-  - Gulf Coast bluegrass community
+    - Gulf Coast bluegrass community
 spotify_data:
   followers: 91
   id: 3THNwmc5wooW7up7wdbrjx
   popularity: 2
-  url: https://open.spotify.com/artist/3THNwmc5wooW7up7wdbrjx
+  url: 'https://open.spotify.com/artist/3THNwmc5wooW7up7wdbrjx'
 discography_enriched: true
 top_tracks:
-- Lonely Side of Goodbye (Timeless)
-- I Won't Call You (I Won't Call You)
-- The Girl on Sugar Pie Lane (Timeless)
-- Going Back in Time (Timeless)
-- Your Tender Love and Care (Timeless)
-- I Will Always Be with You (Timeless)
-- I Won't Call You (Timeless)
-- It's Me Again Lord (Timeless)
-- Mountain Rose (Timeless)
-- Sweet Country Girl (Timeless)
+  - Lonely Side of Goodbye (Timeless)
+  - I Won't Call You (I Won't Call You)
+  - The Girl on Sugar Pie Lane (Timeless)
+  - Going Back in Time (Timeless)
+  - Your Tender Love and Care (Timeless)
+  - I Will Always Be with You (Timeless)
+  - I Won't Call You (Timeless)
+  - It's Me Again Lord (Timeless)
+  - Mountain Rose (Timeless)
+  - Sweet Country Girl (Timeless)
 external_urls:
-  spotify: https://open.spotify.com/artist/3THNwmc5wooW7up7wdbrjx
+  spotify: 'https://open.spotify.com/artist/3THNwmc5wooW7up7wdbrjx'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/magnolia_drive.jpg
 biography_enhanced_at: '2025-11-03T07:39:46.746322'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://bluegrasstoday.com/timeless-magnolia-drive/
-- https://arts.ms.gov/artist/magnolia-drive/
-- https://bluegrassbios.com/magnolia-drive/
-- https://mountainfever.com/welcome-magnolia-drive/
-- https://californiabluegrass.org/brenda-reviews-2/
-- https://bluegrasstoday.com/magnolia-drive-signs-with-mountain-fever-records/
+  - 'https://bluegrasstoday.com/timeless-magnolia-drive/'
+  - 'https://arts.ms.gov/artist/magnolia-drive/'
+  - 'https://bluegrassbios.com/magnolia-drive/'
+  - 'https://mountainfever.com/welcome-magnolia-drive/'
+  - 'https://californiabluegrass.org/brenda-reviews-2/'
+  - 'https://bluegrasstoday.com/magnolia-drive-signs-with-mountain-fever-records/'
 network_extracted: true
 entry_created: '2025-11-03T07:39:46.746327'
 last_updated: '2025-12-23T08:16:12.521463'
-origin: Mississippi, USA
+origin: 'Mississippi, USA'
+artist_type: band
 ---
 
 ![](magnolia_drive.jpg)

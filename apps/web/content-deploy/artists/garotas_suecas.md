@@ -2,11 +2,11 @@
 title: Garotas Suecas
 wiki_slug: garotas-suecas
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '2005'
 genres:
-- nova mpb
+  - nova mpb
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/garotas_suecas.jpg
   caption: Garotas Suecas
@@ -27,57 +27,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lurdez da Luz
-  - Paulo Miklos
-  - Kid Congo Powers
-  - Nick Graham‑Smith
-  - Skank (via tribute project)
+    - Lurdez da Luz
+    - Paulo Miklos
+    - Kid Congo Powers
+    - Nick Graham‑Smith
+    - Skank (via tribute project)
   influenced:
-  - Brazilian independent rock and new MPB bands of the 2010s (scene influence)
+    - >-
+      Brazilian independent rock and new MPB bands of the 2010s (scene
+      influence)
   mentors:
-  - Os Mutantes
-  - Caetano Veloso and Gilberto Gil
-  - 1960s–1970s American soul and funk artists (generic influence)
+    - Os Mutantes
+    - Caetano Veloso and Gilberto Gil
+    - 1960s–1970s American soul and funk artists (generic influence)
 spotify_data:
   followers: 9774
   id: 7wJGwp76IcWzKRDsrudqLd
   popularity: 10
-  url: https://open.spotify.com/artist/7wJGwp76IcWzKRDsrudqLd
+  url: 'https://open.spotify.com/artist/7wJGwp76IcWzKRDsrudqLd'
 discography_enriched: true
 top_tracks:
-- New Country (Feras Míticas)
-- New Country (Feras Míticas)
-- Eu Vou Sorrir Pra Quem É Gente Boa (Feras Míticas)
-- Não Se Perca por Aí (Escaldante Banda)
-- Codinome Dinamite (Dinossauros)
-- A Nuvem (Feras Míticas)
-- Banho de Bucha (Escaldante Banda)
-- Bucolismo (Feras Míticas)
-- Feito Pra Você (O Auto da Virada)
-- Todo Dia É De Mudanca (1 2 3 4)
+  - New Country (Feras Míticas)
+  - New Country (Feras Míticas)
+  - Eu Vou Sorrir Pra Quem É Gente Boa (Feras Míticas)
+  - Não Se Perca por Aí (Escaldante Banda)
+  - Codinome Dinamite (Dinossauros)
+  - A Nuvem (Feras Míticas)
+  - Banho de Bucha (Escaldante Banda)
+  - Bucolismo (Feras Míticas)
+  - Feito Pra Você (O Auto da Virada)
+  - Todo Dia É De Mudanca (1 2 3 4)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2e4639b7-b151-4487-a2cb-7f45a52bb970
-  spotify: https://open.spotify.com/artist/7wJGwp76IcWzKRDsrudqLd
-  wikipedia: https://pt.wikipedia.org/wiki/Garotas_Suecas
+  musicbrainz: 'https://musicbrainz.org/artist/2e4639b7-b151-4487-a2cb-7f45a52bb970'
+  spotify: 'https://open.spotify.com/artist/7wJGwp76IcWzKRDsrudqLd'
+  wikipedia: 'https://pt.wikipedia.org/wiki/Garotas_Suecas'
 image_path: 03_Resources/source_material/ArtistPortraits/garotas_suecas.jpg
 biography_enhanced_at: '2025-12-07T04:43:38.451139'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://pt.wikipedia.org/wiki/Garotas_Suecas
-- https://monkeybuzz.com.br/resenhas/albuns/garotas-suecas-mal-educado/
-- https://bodyspace.net/entrevistas/277-garotas-suecas/
-- https://cultura.uol.com.br/videos/30742_garotas-suecas-no-cultura-livre.html
-- https://www.redbull.com/br-pt/garotas-suecas-por-tras-da-faixa
-- https://trabalhosujo.com.br/garotas-suecas-1-2-3-4/
-- https://www.gazetadopovo.com.br/caderno-g/garotas-suecas-mostra-fase-madura-no-jokers-ejm8m207xlts4befcho16nkum/
-- https://hitsperdidos.com/2023/07/19/garotas-suecas-lancam-1-2-3-4-quarto-album/
+  - 'https://pt.wikipedia.org/wiki/Garotas_Suecas'
+  - 'https://monkeybuzz.com.br/resenhas/albuns/garotas-suecas-mal-educado/'
+  - 'https://bodyspace.net/entrevistas/277-garotas-suecas/'
+  - 'https://cultura.uol.com.br/videos/30742_garotas-suecas-no-cultura-livre.html'
+  - 'https://www.redbull.com/br-pt/garotas-suecas-por-tras-da-faixa'
+  - 'https://trabalhosujo.com.br/garotas-suecas-1-2-3-4/'
+  - >-
+    https://www.gazetadopovo.com.br/caderno-g/garotas-suecas-mostra-fase-madura-no-jokers-ejm8m207xlts4befcho16nkum/
+  - >-
+    https://hitsperdidos.com/2023/07/19/garotas-suecas-lancam-1-2-3-4-quarto-album/
 network_extracted: true
 entry_created: '2025-12-07T04:43:38.451154'
 last_updated: '2025-12-23T08:16:08.988722'
 musicbrainz_id: 2e4639b7-b151-4487-a2cb-7f45a52bb970
-origin: São Paulo
-
+origin: 'São Paulo, State of São Paulo, Brazil'
 ---
 
 ![](garotas_suecas.jpg)

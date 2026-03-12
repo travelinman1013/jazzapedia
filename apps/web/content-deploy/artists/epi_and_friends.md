@@ -4,18 +4,18 @@ wiki_slug: epi-and-friends
 schema_version: 2
 status: active
 genres:
-- tejano
+  - tejano
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/epi_and_friends.jpg
   caption: Epi and Friends
   background: solo_singer
 audio_profile:
-  tempo_avg: 140.0
+  tempo_avg: 140
   energy_avg: 0.766
   valence_avg: 0.764
   danceability_avg: 0.563
   acousticness_avg: 0.291
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -4.3
   speechiness_avg: 0.113
   liveness_avg: 0.174
@@ -24,42 +24,43 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Friends (Band Members)
+    - Friends (Band Members)
   influenced:
-  - Emerging South Texas Conjunto Musicians
+    - Emerging South Texas Conjunto Musicians
   mentors:
-  - South Texas Conjunto Pioneers
+    - South Texas Conjunto Pioneers
 spotify_data:
   followers: 439
   id: 4ukDT2N63PdqjJJc1X5syZ
   popularity: 1
-  url: https://open.spotify.com/artist/4ukDT2N63PdqjJJc1X5syZ
+  url: 'https://open.spotify.com/artist/4ukDT2N63PdqjJJc1X5syZ'
 discography_enriched: true
 top_tracks:
-- Luckenbach, Texas (Mi Cultura Y Tradicion)
-- Paloma Negra (Mi Cultura Y Tradicion)
-- Porque Voy a Llorar (Mi Cultura Y Tradicion)
-- Corazon de Piedra (Mi Cultura Y Tradicion)
-- Laguna de Pesares (Mi Cultura Y Tradicion)
-- La Chancla (Mi Cultura Y Tradicion)
-- Los Dos (Mi Cultura Y Tradicion)
-- No Me Vuelvo Enamorar (Mi Cultura Y Tradicion)
-- Corazon de Mi Amor (Mi Cultura Y Tradicion)
-- Me Ha Tocado a Mi Sufrir (Mi Cultura Y Tradicion)
+  - 'Luckenbach, Texas (Mi Cultura Y Tradicion)'
+  - Paloma Negra (Mi Cultura Y Tradicion)
+  - Porque Voy a Llorar (Mi Cultura Y Tradicion)
+  - Corazon de Piedra (Mi Cultura Y Tradicion)
+  - Laguna de Pesares (Mi Cultura Y Tradicion)
+  - La Chancla (Mi Cultura Y Tradicion)
+  - Los Dos (Mi Cultura Y Tradicion)
+  - No Me Vuelvo Enamorar (Mi Cultura Y Tradicion)
+  - Corazon de Mi Amor (Mi Cultura Y Tradicion)
+  - Me Ha Tocado a Mi Sufrir (Mi Cultura Y Tradicion)
 external_urls:
-  spotify: https://open.spotify.com/artist/4ukDT2N63PdqjJJc1X5syZ
+  spotify: 'https://open.spotify.com/artist/4ukDT2N63PdqjJJc1X5syZ'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/epi_and_friends.jpg
 biography_enhanced_at: '2025-11-08T21:47:56.659821'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://tejanonation.net/tag/epi-martinez/
-- https://www.youtube.com/watch?v=lrsjDrcBjpI
+  - 'https://tejanonation.net/tag/epi-martinez/'
+  - 'https://www.youtube.com/watch?v=lrsjDrcBjpI'
 network_extracted: true
 entry_created: '2025-11-08T21:47:56.659835'
 last_updated: '2025-12-23T08:16:08.403347'
-origin: South Texas, USA
+origin: 'South Texas, USA'
+artist_type: person
 ---
 
 ![](epi_and_friends.jpg)

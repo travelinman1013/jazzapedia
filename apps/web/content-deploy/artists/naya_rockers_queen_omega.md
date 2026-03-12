@@ -1,19 +1,19 @@
 ---
-title: Naya Rockers, Queen Omega
+title: 'Naya Rockers, Queen Omega'
 wiki_slug: naya-rockers-queen-omega
 schema_version: 2
 status: active
-birth_place: San Fernando, Trinidad and Tobago
+birth_place: 'San Fernando, Trinidad and Tobago, Trinidad and Tobago'
 genres:
-- reggae
-- ragga
-- dub
-- roots reggae
+  - reggae
+  - ragga
+  - dub
+  - roots reggae
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/naya_rockers_queen_omega.jpg
-  caption: Naya Rockers, Queen Omega
+  caption: 'Naya Rockers, Queen Omega'
   background: solo_singer
-  origin: San Fernando, Trinidad and Tobago
+  origin: 'San Fernando, Trinidad and Tobago'
 audio_profile:
   tempo_avg: 121.7
   energy_avg: 0.707
@@ -29,51 +29,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Buju Banton
-  - Sizzla
-  - Luciano
-  - Capleton
-  - Jah Sun
-  - Marcia Griffiths
-  - Nathan Sabanayagam & Naya Rockers
-  - Don Carlos & Barrington Levy
+    - Buju Banton
+    - Sizzla
+    - Luciano
+    - Capleton
+    - Jah Sun
+    - Marcia Griffiths
+    - Nathan Sabanayagam & Naya Rockers
+    - Don Carlos & Barrington Levy
   influenced: []
   mentors:
-  - Mickey D
-  - Kenny Phillips
+    - Mickey D
+    - Kenny Phillips
 spotify_data:
   followers: 326546
   id: 0NZQTozgPtlt5iN3hmANhy
   popularity: 51
-  url: https://open.spotify.com/artist/0NZQTozgPtlt5iN3hmANhy
+  url: 'https://open.spotify.com/artist/0NZQTozgPtlt5iN3hmANhy'
 discography_enriched: true
 top_tracks:
-- No Love Dubplate
-- No Love
-- Florilège (La clarté dans la confusion)
-- Three The Hard Way
-- Don't Call Me Local - Digital Session (Digital Kingston Session (Vol. 1))
-- Fittest (Freedom Legacy)
-- Three The Hard Way - Extended Mix
-- Touch ina Di Place
-- Wham to Dem?
-- Wham to Dem? (Mic Sessions Volume II)
+  - No Love Dubplate
+  - No Love
+  - Florilège (La clarté dans la confusion)
+  - Three The Hard Way
+  - Don't Call Me Local - Digital Session (Digital Kingston Session (Vol. 1))
+  - Fittest (Freedom Legacy)
+  - Three The Hard Way - Extended Mix
+  - Touch ina Di Place
+  - Wham to Dem?
+  - Wham to Dem? (Mic Sessions Volume II)
 external_urls:
-  spotify: https://open.spotify.com/artist/0NZQTozgPtlt5iN3hmANhy
-  wikipedia: https://en.wikipedia.org/wiki/Queen_Omega_(singer)
+  spotify: 'https://open.spotify.com/artist/0NZQTozgPtlt5iN3hmANhy'
+  wikipedia: 'https://en.wikipedia.org/wiki/Queen_Omega_(singer)'
 image_path: 03_Resources/source_material/ArtistPortraits/naya_rockers_queen_omega.jpg
 biography_enhanced_at: '2025-12-04T08:24:21.478933'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.reggaeville.com/artist-details/queen-omega/about/
-- https://pauzeradio.com/queen-omega/
-- https://en.wikipedia.org/wiki/Queen_Omega_(singer)
-- https://www.festivalnuitsdafrique.com/en/artistes/queen-omega-the-royal-souls/
-- https://news.theurbanmusicscene.com/2025/07/queen-omega-naya-rockers-to-release-new-single-words-of-wisdom/
+  - 'https://www.reggaeville.com/artist-details/queen-omega/about/'
+  - 'https://pauzeradio.com/queen-omega/'
+  - 'https://en.wikipedia.org/wiki/Queen_Omega_(singer)'
+  - >-
+    https://www.festivalnuitsdafrique.com/en/artistes/queen-omega-the-royal-souls/
+  - >-
+    https://news.theurbanmusicscene.com/2025/07/queen-omega-naya-rockers-to-release-new-single-words-of-wisdom/
 network_extracted: true
 entry_created: '2025-12-04T08:24:21.478939'
 last_updated: '2025-12-23T08:16:13.467849'
+birth_date: '1981'
+artist_type: person
 ---
 
 ![](naya_rockers_queen_omega.jpg)

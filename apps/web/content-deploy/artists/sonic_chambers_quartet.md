@@ -2,10 +2,10 @@
 title: Sonic Chambers Quartet
 wiki_slug: sonic-chambers-quartet
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 genres:
-- free jazz
+  - free jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sonic_chambers_quartet.jpg
   caption: Sonic Chambers Quartet
@@ -17,7 +17,7 @@ audio_profile:
   danceability_avg: 0.337
   acousticness_avg: 0.553
   instrumentalness_avg: 0.604
-  loudness_avg: -11.0
+  loudness_avg: -11
   speechiness_avg: 0.048
   liveness_avg: 0.112
   track_count: 7
@@ -25,52 +25,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Byron Asher
-  - Matt Booth
-  - Doug Garrison
+    - Byron Asher
+    - Matt Booth
+    - Doug Garrison
   influenced: []
   mentors:
-  - Marilyn Van Scoyoc
-  - Michael Kendrot
-  - Hal McKusick
-  - Teddy Charles
-  - Ornette Coleman
-  - Don Cherry
+    - Marilyn Van Scoyoc
+    - Michael Kendrot
+    - Hal McKusick
+    - Teddy Charles
+    - Ornette Coleman
+    - Don Cherry
 spotify_data:
   followers: 23
   id: 7wyznQnWqA2NrY2n12Lrfw
   popularity: 0
-  url: https://open.spotify.com/artist/7wyznQnWqA2NrY2n12Lrfw
+  url: 'https://open.spotify.com/artist/7wyznQnWqA2NrY2n12Lrfw'
 discography_enriched: true
 top_tracks:
-- Susketch (Kiss Of The Earth)
-- For Matt (Kiss Of The Earth)
-- Anticipation on a Park Bench (Kiss Of The Earth)
-- 7th Line (Kiss Of The Earth)
-- Kiss of the Earth (Kiss Of The Earth)
-- View from a Green Kitchen Table (Kiss Of The Earth)
-- Just Made 21 (Kiss Of The Earth)
+  - Susketch (Kiss Of The Earth)
+  - For Matt (Kiss Of The Earth)
+  - Anticipation on a Park Bench (Kiss Of The Earth)
+  - 7th Line (Kiss Of The Earth)
+  - Kiss of the Earth (Kiss Of The Earth)
+  - View from a Green Kitchen Table (Kiss Of The Earth)
+  - Just Made 21 (Kiss Of The Earth)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a262b259-62f9-4b1f-85f5-620f299c2f1c
-  spotify: https://open.spotify.com/artist/7wyznQnWqA2NrY2n12Lrfw
+  musicbrainz: 'https://musicbrainz.org/artist/a262b259-62f9-4b1f-85f5-620f299c2f1c'
+  spotify: 'https://open.spotify.com/artist/7wyznQnWqA2NrY2n12Lrfw'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/sonic_chambers_quartet.jpg
 biography_enhanced_at: '2025-12-04T07:41:32.589214'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- The East Hampton Star - Musical Adventures With Sonic Chambers
-- 'Squidco - Sonic Chambers Quartet: Kiss Of The Earth'
-- 'SimpleTix - Sonic Chambers Quartet: Album Release Show'
-- Byron Asher official website - Sonic Chambers
-- The Red Room - Sonic Chambers Quartet & Bashi Rose
-- Rhizome DC - Sonic Chambers Quartet
+  - The East Hampton Star - Musical Adventures With Sonic Chambers
+  - 'Squidco - Sonic Chambers Quartet: Kiss Of The Earth'
+  - 'SimpleTix - Sonic Chambers Quartet: Album Release Show'
+  - Byron Asher official website - Sonic Chambers
+  - The Red Room - Sonic Chambers Quartet & Bashi Rose
+  - Rhizome DC - Sonic Chambers Quartet
 network_extracted: true
 entry_created: '2025-12-04T07:41:32.589221'
 last_updated: '2025-12-23T08:16:15.890873'
 disambiguation: New Orleans Jazz Band
 musicbrainz_id: a262b259-62f9-4b1f-85f5-620f299c2f1c
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](sonic_chambers_quartet.jpg)

@@ -1,68 +1,70 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-02T01:26:08.413507'
 birth_date: '2014'
 enhancement_provider: perplexity
 entry_created: '2026-01-02T01:26:08.413512'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e44ef539-1ec9-4cb2-bee7-852e84618308
-  spotify: https://open.spotify.com/artist/72rZmJbRFSY6IFJAysfOdr
-  wikipedia: https://en.wikipedia.org/wiki/Too_Many_Zooz
+  musicbrainz: 'https://musicbrainz.org/artist/e44ef539-1ec9-4cb2-bee7-852e84618308'
+  spotify: 'https://open.spotify.com/artist/72rZmJbRFSY6IFJAysfOdr'
+  wikipedia: 'https://en.wikipedia.org/wiki/Too_Many_Zooz'
 genres:
-- brass band
+  - brass band
 image_path: 03_Resources/source_material/ArtistPortraits/too_many_zooz.jpg
 instruments:
-- trumpet
-- drums (drum set)
-- baritone saxophone
+  - trumpet
+  - drums (drum set)
+  - baritone saxophone
 last_updated: '2026-01-02T01:26:08.413513'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: 214e9b89-9cee-4d94-a0f7-9fd7ea635c03
-  name: Matt Muirhead
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: a1995f51-2e6b-43b5-ad28-2e99862be4f9
-  name: David Parks
-- begin: ''
-  end: ''
-  instruments:
-  - baritone saxophone
-  mbid: 7856fdc6-9a6e-48cb-a266-619297e08f6f
-  name: Leo Pellegrino
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: 214e9b89-9cee-4d94-a0f7-9fd7ea635c03
+    name: Matt Muirhead
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: a1995f51-2e6b-43b5-ad28-2e99862be4f9
+    name: David Parks
+  - begin: ''
+    end: ''
+    instruments:
+      - baritone saxophone
+    mbid: 7856fdc6-9a6e-48cb-a266-619297e08f6f
+    name: Leo Pellegrino
 musical_connections:
   collaborators:
-  - Beyoncé
-  - Leo Pellegrino and David Parks (pre-TMZ)
+    - Beyoncé
+    - Leo Pellegrino and David Parks (pre-TMZ)
   influenced: []
   mentors:
-  - John Coltrane
+    - John Coltrane
 musicbrainz_id: e44ef539-1ec9-4cb2-bee7-852e84618308
 network_extracted: true
-origin: New York
+origin: 'New York City, New York, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Too_Many_Zooz
-- https://www.bendsource.com/music/band-fact-sheet-too-many-zooz-16236736/
-- https://raisethestakeseditions.com/interview-many-zooz/
-- https://www.citybeat.com/music/leo-pellegrino-of-too-many-zooz-discusses-unique-musical-journey-ahead-of-xavier-university-show-18348997/
-- https://toomanyzooz.com
+  - 'https://en.wikipedia.org/wiki/Too_Many_Zooz'
+  - 'https://www.bendsource.com/music/band-fact-sheet-too-many-zooz-16236736/'
+  - 'https://raisethestakeseditions.com/interview-many-zooz/'
+  - >-
+    https://www.citybeat.com/music/leo-pellegrino-of-too-many-zooz-discusses-unique-musical-journey-ahead-of-xavier-university-show-18348997/
+  - 'https://toomanyzooz.com'
 spotify_data:
   followers: 215424
   id: 72rZmJbRFSY6IFJAysfOdr
   popularity: 44
-  url: https://open.spotify.com/artist/72rZmJbRFSY6IFJAysfOdr
+  url: 'https://open.spotify.com/artist/72rZmJbRFSY6IFJAysfOdr'
 status: active
 tags:
-- brass
-- brass band
-- brass house
-title: TOO MANY ZOOZ
+  - brass
+  - brass band
+  - brass house
+title: Too Many Zooz
+birth_place: 'Pittsburgh, Pennsylvania, United States'
 ---
 
 ![](too_many_zooz.jpg)

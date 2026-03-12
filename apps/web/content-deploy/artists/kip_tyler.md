@@ -1,17 +1,17 @@
 ---
-title: KIP TYLER
+title: Kip Tyler
 wiki_slug: kip-tyler
 schema_version: 2
 status: active
-birth_place: Chicago, Illinois, United States
+birth_place: 'Chicago, Illinois, United States'
 genres:
-- rockabilly
-- psychobilly
+  - rockabilly
+  - psychobilly
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/kip_tyler.jpg
   caption: KIP TYLER
   background: solo_singer
-  origin: Chicago, Illinois, United States
+  origin: 'Chicago, Illinois, United States'
 audio_profile:
   tempo_avg: 122.6
   energy_avg: 0.727
@@ -27,45 +27,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jim Horn
-  - Larry Knechtel
-  - Sandy Nelson
-  - Mike Bermani, Mike Deasy, Steve Kreisman
+    - Jim Horn
+    - Larry Knechtel
+    - Sandy Nelson
+    - 'Mike Bermani, Mike Deasy, Steve Kreisman'
   influenced:
-  - The Cramps
+    - The Cramps
   mentors:
-  - Joseph Gershenson
+    - Joseph Gershenson
 spotify_data:
   followers: 8551
   id: 6SfIGvJgOsRC2mguki6OCh
   popularity: 42
-  url: https://open.spotify.com/artist/6SfIGvJgOsRC2mguki6OCh
+  url: 'https://open.spotify.com/artist/6SfIGvJgOsRC2mguki6OCh'
 discography_enriched: true
 top_tracks:
-- She's My Witch (Ooh Yeah Baby)
-- Eternity (Ooh Yeah Baby)
-- She Got Eyes (Ooh Yeah Baby)
-- Shadow Street (Ooh Yeah Baby)
-- She's My Witch (Monster Mash)
-- She's My Witch (Frankenstein’s Halloween Jukebox)
-- Jungle Hop (Ooh Yeah Baby)
-- Red Lips and Green Eyes (Ooh Yeah Baby)
-- She´s My Witch (Ooh Yeah Baby! - Red Hot Rock And Roll out of Hollywood)
-- How's About a Little Kiss (Ooh Yeah Baby)
+  - She's My Witch (Ooh Yeah Baby)
+  - Eternity (Ooh Yeah Baby)
+  - She Got Eyes (Ooh Yeah Baby)
+  - Shadow Street (Ooh Yeah Baby)
+  - She's My Witch (Monster Mash)
+  - She's My Witch (Frankenstein’s Halloween Jukebox)
+  - Jungle Hop (Ooh Yeah Baby)
+  - Red Lips and Green Eyes (Ooh Yeah Baby)
+  - She´s My Witch (Ooh Yeah Baby! - Red Hot Rock And Roll out of Hollywood)
+  - How's About a Little Kiss (Ooh Yeah Baby)
 external_urls:
-  spotify: https://open.spotify.com/artist/6SfIGvJgOsRC2mguki6OCh
+  spotify: 'https://open.spotify.com/artist/6SfIGvJgOsRC2mguki6OCh'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/kip_tyler.jpg
 biography_enhanced_at: '2025-11-01T15:17:31.842321'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Kip+Tyler/+wiki
-- https://fromthevaults-boppinbob.blogspot.com/2020/05/
-- http://www.rocky-52.net/chanteurst/tyler_kip.htm
+  - 'https://www.last.fm/music/Kip+Tyler/+wiki'
+  - 'https://fromthevaults-boppinbob.blogspot.com/2020/05/'
+  - 'http://www.rocky-52.net/chanteurst/tyler_kip.htm'
 network_extracted: true
 entry_created: '2025-11-01T15:17:31.842339'
 last_updated: '2025-12-23T08:16:11.431035'
+birth_date: '1929-05-31'
+death_date: '1996-09-23'
+artist_type: person
 ---
 
 ![](kip_tyler.jpg)

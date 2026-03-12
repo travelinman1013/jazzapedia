@@ -3,43 +3,48 @@ biography_enhanced_at: '2026-01-04T01:55:57.827048'
 enhancement_provider: perplexity
 entry_created: '2026-01-04T01:55:57.827053'
 external_urls:
-  spotify: https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG
-  wikipedia: https://en.wikipedia.org/wiki/Elis_%26_Tom
+  spotify: 'https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG'
+  wikipedia: 'https://en.wikipedia.org/wiki/Elis_%26_Tom'
 genres:
-- bossa nova
-- brazilian jazz
-- mpb
-- latin jazz
-image_path: 03_Resources/source_material/ArtistPortraits/antonio_carlos_jobim_and_elis_regina.jpg
+  - bossa nova
+  - brazilian jazz
+  - mpb
+  - latin jazz
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/antonio_carlos_jobim_and_elis_regina.jpg
 last_updated: '2026-01-04T01:55:57.827054'
 musical_connections:
   collaborators:
-  - Vinicius de Moraes
-  - João Gilberto
-  - Stan Getz
-  - Astrud Gilberto
-  - Frank Sinatra
-  - Cesar Camargo Mariano
-  - Oscar Castro-Neves
-  - Aloysio de Oliveira
+    - Vinicius de Moraes
+    - João Gilberto
+    - Stan Getz
+    - Astrud Gilberto
+    - Frank Sinatra
+    - Cesar Camargo Mariano
+    - Oscar Castro-Neves
+    - Aloysio de Oliveira
   influenced:
-  - Jazz musicians
+    - Jazz musicians
   mentors:
-  - Vinicius de Moraes
+    - Vinicius de Moraes
 network_extracted: true
-origin: Rio de Janeiro, Brazil
+origin: 'Rio de Janeiro, Brazil'
 primary_source: perplexity
 research_sources:
-- https://www.allaboutjazz.com/elis-regina-and-antonio-carlos-jobim-a-musical-love-story-and-a-timeless-recording-antonio-carlos-jobim
-- https://jazzvideolessons.net/antonio-carlos-jobim-the-genius-behind-bossa-nova/
-- https://en.wikipedia.org/wiki/Elis_%26_Tom
+  - >-
+    https://www.allaboutjazz.com/elis-regina-and-antonio-carlos-jobim-a-musical-love-story-and-a-timeless-recording-antonio-carlos-jobim
+  - >-
+    https://jazzvideolessons.net/antonio-carlos-jobim-the-genius-behind-bossa-nova/
+  - 'https://en.wikipedia.org/wiki/Elis_%26_Tom'
 spotify_data:
   followers: 885348
   id: 3pO5VjZ4wOHCMBXOvbMISG
   popularity: 70
-  url: https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG
+  url: 'https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG'
 status: active
 title: Antonio Carlos Jobim & Elis Regina
+birth_place: 'Rio de Janeiro, Brazil'
+artist_type: band
 ---
 
 ![](antonio_carlos_jobim_and_elis_regina.jpg)

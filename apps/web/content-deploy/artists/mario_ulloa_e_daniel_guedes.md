@@ -4,7 +4,7 @@ wiki_slug: mario-ulloa-e-daniel-guedes
 schema_version: 2
 status: active
 genres:
-- brazilian jazz
+  - brazilian jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/mario_ulloa_e_daniel_guedes.jpg
   caption: Mario Ulloa e Daniel Guedes
@@ -24,48 +24,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mario Ulloa
-  - Quarteto da Guanabara
-  - Simone Leitão
-  - Ilan Rechtman
+    - Mario Ulloa
+    - Quarteto da Guanabara
+    - Simone Leitão
+    - Ilan Rechtman
   influenced:
-  - Young Brazilian musicians
+    - Young Brazilian musicians
   mentors:
-  - Pinchas Zukerman
-  - Patinka Kopec
-  - Detlef Hahn
+    - Pinchas Zukerman
+    - Patinka Kopec
+    - Detlef Hahn
 spotify_data:
   followers: 40
   id: 3ZDADlTx4egQvlHNwd59k6
   popularity: 3
-  url: https://open.spotify.com/artist/3ZDADlTx4egQvlHNwd59k6
+  url: 'https://open.spotify.com/artist/3ZDADlTx4egQvlHNwd59k6'
 discography_enriched: true
 top_tracks:
-- Fêmea (Colibri)
-- Alga Roilo Ghorer Doroja (Doroja)
-- Paisagens (Paisagens)
-- Estrela Natal (Titane e o Campo das Vertentes)
-- Mulher do Pajé (Titane e o Campo das Vertentes)
-- Jericoacoara e o Vento (Vata)
-- Fogo (Fogo)
-- Estrela Maior (Titane e o Campo das Vertentes)
-- Canção de Sabiá (Colibri)
-- Gaiata (Colibri)
+  - Fêmea (Colibri)
+  - Alga Roilo Ghorer Doroja (Doroja)
+  - Paisagens (Paisagens)
+  - Estrela Natal (Titane e o Campo das Vertentes)
+  - Mulher do Pajé (Titane e o Campo das Vertentes)
+  - Jericoacoara e o Vento (Vata)
+  - Fogo (Fogo)
+  - Estrela Maior (Titane e o Campo das Vertentes)
+  - Canção de Sabiá (Colibri)
+  - Gaiata (Colibri)
 external_urls:
-  spotify: https://open.spotify.com/artist/3ZDADlTx4egQvlHNwd59k6
-  wikipedia: Not found in English or Portuguese Wikipedia based on available search results.
+  spotify: 'https://open.spotify.com/artist/3ZDADlTx4egQvlHNwd59k6'
+  wikipedia: >-
+    Not found in English or Portuguese Wikipedia based on available search
+    results.
 image_path: ''
 biography_enhanced_at: '2025-10-26T12:30:49.518595'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- danielguedes.com.br
-- thejewishmuseum.org
-- wwoz.org
+  - danielguedes.com.br
+  - thejewishmuseum.org
+  - wwoz.org
 network_extracted: true
 entry_created: '2025-10-26T12:30:49.518632'
 last_updated: '2025-12-23T08:16:12.679017'
-origin: Rio de Janeiro, Brazil (Daniel Guedes); Costa Rica (Mario Ulloa)
+origin: 'Rio de Janeiro, Brazil (Daniel Guedes); Costa Rica (Mario Ulloa)'
+birth_place: 'Rio de Janeiro, Brazil'
+birth_date: '1977'
+artist_type: band
 ---
 
 ![]()

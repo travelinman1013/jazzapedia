@@ -2,19 +2,19 @@
 title: Kurt Elling
 wiki_slug: kurt-elling
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1967-11-02'
-birth_place: Chicago, Illinois, United States
+birth_place: 'Chicago, Illinois, United States'
 genres:
-- vocal jazz
-- jazz
+  - vocal jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Kurt_Elling.jpg
   caption: Kurt Elling
   background: solo_singer
   born: '1967-11-02'
-  origin: Chicago, Illinois, United States
+  origin: 'Chicago, Illinois, United States'
 audio_profile:
   tempo_avg: 115.1
   energy_avg: 0.352
@@ -30,49 +30,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Laurence Hobgood
-  - Branford Marsalis
-  - Danilo Pérez
-  - Fred Hersch
-  - Charlie Hunter
+    - Laurence Hobgood
+    - Branford Marsalis
+    - Danilo Pérez
+    - Fred Hersch
+    - Charlie Hunter
   influenced:
-  - Sachal Vasandani
-  - Theo Bleckmann
+    - Sachal Vasandani
+    - Theo Bleckmann
   mentors:
-  - Mark Murphy
-  - Elling's father
+    - Mark Murphy
+    - Elling's father
 spotify_data:
   followers: 85486
   id: 1UhC1mCcd9SFXLibHhMX61
   popularity: 40
-  url: https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61
+  url: 'https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61'
 discography_enriched: true
 top_tracks:
-- Moonlight Serenade (Flirting With Twilight)
-- La Vie En Rose (Passion World)
-- Wichita Lineman (Wichita Lineman)
-- Nature Boy (The Messenger)
-- I Get Along Without You Very Well (Flirting With Twilight)
-- Steppin' Out
-- Where The Streets Have No Name (Passion World)
-- Blame It On My Youth (Flirting With Twilight)
-- 'Sharp Dressed Man (SuperBlue: Guilty Pleasures Vol.2)'
-- My Foolish Heart (This Time It's Love)
+  - Moonlight Serenade (Flirting With Twilight)
+  - La Vie En Rose (Passion World)
+  - Wichita Lineman (Wichita Lineman)
+  - Nature Boy (The Messenger)
+  - I Get Along Without You Very Well (Flirting With Twilight)
+  - Steppin' Out
+  - Where The Streets Have No Name (Passion World)
+  - Blame It On My Youth (Flirting With Twilight)
+  - 'Sharp Dressed Man (SuperBlue: Guilty Pleasures Vol.2)'
+  - My Foolish Heart (This Time It's Love)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4d39b9be-128d-49a4-a1d3-52727c496343
-  spotify: https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61
-  wikipedia: https://en.wikipedia.org/wiki/Kurt_Elling
+  musicbrainz: 'https://musicbrainz.org/artist/4d39b9be-128d-49a4-a1d3-52727c496343'
+  spotify: 'https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kurt_Elling'
 image_path: 03_Resources/source_material/ArtistPortraits/Kurt_Elling.jpg
 biography_enhanced_at: '2025-10-20T10:06:17.871300'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://sungenre.com/artist/kurt-elling/
-- https://www.bluenote.com/artist/kurt-elling/
-- https://kurtelling.com/about/
-- https://library.berklee.edu/indexed-people/elling-kurt
-- https://www.jazzempowers.org/kurt-elling
-- https://www.brainerdmusic.org/aow-38-kurt-elling.html
+  - 'https://sungenre.com/artist/kurt-elling/'
+  - 'https://www.bluenote.com/artist/kurt-elling/'
+  - 'https://kurtelling.com/about/'
+  - 'https://library.berklee.edu/indexed-people/elling-kurt'
+  - 'https://www.jazzempowers.org/kurt-elling'
+  - 'https://www.brainerdmusic.org/aow-38-kurt-elling.html'
 network_extracted: true
 entry_created: '2025-10-20T10:06:17.871320'
 last_updated: '2025-12-23T08:16:02.913072'
@@ -81,9 +81,9 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:34:09.402071'
 musicbrainz_id: 4d39b9be-128d-49a4-a1d3-52727c496343
 tags:
-- easy listening soundtracks and musicals
-- jazz
-- vocal jazz
+  - easy listening soundtracks and musicals
+  - jazz
+  - vocal jazz
 ---
 
 ![](Kurt_Elling.jpg)

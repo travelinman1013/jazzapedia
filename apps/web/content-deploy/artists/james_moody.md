@@ -5,67 +5,67 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1925-03-26'
-birth_place: Savannah
+birth_place: 'Savannah, Georgia, United States'
 death_date: '2010-12-09'
 genres:
-- hard bop
-- bebop
-- jazz
+  - hard bop
+  - bebop
+  - jazz
 instruments:
-- original
-- saxophone
-- flute
-- tenor saxophone
-associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: af930a29-3892-430c-9e2e-dcafeabd9367
-  name: James Moody and His Modernists
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1db53731-bb2d-4596-9046-4bb964704b23
-  name: James Moody and His Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0517a8df-9784-42a4-a3c4-49828518431a
-  name: James Moody Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 148e4af5-16ae-4cd8-b769-6d5d23027713
-  name: The Dizzy Gillespie United Nation All Star Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 764df898-6b37-4c1c-afc3-161b7f9c90a2
-  name: Tubby Hayes and The All Stars
-- begin: ''
-  end: ''
-  instruments:
   - original
   - saxophone
-  mbid: 26b7a922-7cf0-4e77-b2fc-bdd414f6d950
-  name: James Moody and His Swedish Crowns
-- begin: ''
-  end: ''
-  instruments:
   - flute
-  mbid: fa418742-d8e2-4de7-9b32-d4b9d58adbe2
-  name: Monterey Jazz Festival 50th Anniversary All-Stars
-- begin: ''
-  end: ''
-  instruments:
   - tenor saxophone
-  mbid: fa418742-d8e2-4de7-9b32-d4b9d58adbe2
-  name: Monterey Jazz Festival 50th Anniversary All-Stars
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4e400bf1-cfbb-44ba-b5cd-e603550cd25e
-  name: All Star Big Band
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: af930a29-3892-430c-9e2e-dcafeabd9367
+    name: James Moody and His Modernists
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1db53731-bb2d-4596-9046-4bb964704b23
+    name: James Moody and His Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0517a8df-9784-42a4-a3c4-49828518431a
+    name: James Moody Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 148e4af5-16ae-4cd8-b769-6d5d23027713
+    name: The Dizzy Gillespie United Nation All Star Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 764df898-6b37-4c1c-afc3-161b7f9c90a2
+    name: Tubby Hayes and The All Stars
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - saxophone
+    mbid: 26b7a922-7cf0-4e77-b2fc-bdd414f6d950
+    name: James Moody and His Swedish Crowns
+  - begin: ''
+    end: ''
+    instruments:
+      - flute
+    mbid: fa418742-d8e2-4de7-9b32-d4b9d58adbe2
+    name: Monterey Jazz Festival 50th Anniversary All-Stars
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: fa418742-d8e2-4de7-9b32-d4b9d58adbe2
+    name: Monterey Jazz Festival 50th Anniversary All-Stars
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4e400bf1-cfbb-44ba-b5cd-e603550cd25e
+    name: All Star Big Band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/james_moody.jpg
   caption: James Moody
@@ -88,48 +88,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dizzy Gillespie
-  - Gene Ammons
-  - Sonny Stitt
-  - Gene Harris
-  - Manhattan Transfer
+    - Dizzy Gillespie
+    - Gene Ammons
+    - Sonny Stitt
+    - Gene Harris
+    - Manhattan Transfer
   influenced:
-  - Quincy Jones
-  - Vocalese and jazz singers (e.g., Eddie Jefferson, King Pleasure, later vocalese artists)
+    - Quincy Jones
+    - >-
+      Vocalese and jazz singers (e.g., Eddie Jefferson, King Pleasure, later
+      vocalese artists)
   mentors:
-  - Dizzy Gillespie
-  - Tom McIntosh
+    - Dizzy Gillespie
+    - Tom McIntosh
 spotify_data:
   followers: 14504
   id: 4aEpM8RuVFDhH7ry8TUn4M
   popularity: 30
-  url: https://open.spotify.com/artist/4aEpM8RuVFDhH7ry8TUn4M
+  url: 'https://open.spotify.com/artist/4aEpM8RuVFDhH7ry8TUn4M'
 discography_enriched: true
 top_tracks:
-- Moody's Mood For Love (I'm In The Mood For Love) (Q's Jook Joint)
-- I'm In the Mood for Love (Body and Soul)
-- Disappointed (At The Jazz Workshop)
-- I'm in the Mood for Love (My Desire)
-- Moody's Mood For Love (I'm In The Mood For Love) (At The Jazz Workshop)
-- I'm in the Mood for Love - Remastered (Tenor Contrasts (Remastered 2016))
-- Moody's Mood For Love (I'm In The Mood For Love) (From Q, With Love)
-- First Thing In The Morning (The World Is A Ghetto)
-- I'm In The Mood For Love (Moody's Mood For Love)
-- Si jolie (Visiting Paris)
+  - Moody's Mood For Love (I'm In The Mood For Love) (Q's Jook Joint)
+  - I'm In the Mood for Love (Body and Soul)
+  - Disappointed (At The Jazz Workshop)
+  - I'm in the Mood for Love (My Desire)
+  - Moody's Mood For Love (I'm In The Mood For Love) (At The Jazz Workshop)
+  - I'm in the Mood for Love - Remastered (Tenor Contrasts (Remastered 2016))
+  - 'Moody''s Mood For Love (I''m In The Mood For Love) (From Q, With Love)'
+  - First Thing In The Morning (The World Is A Ghetto)
+  - I'm In The Mood For Love (Moody's Mood For Love)
+  - Si jolie (Visiting Paris)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/cb8c8b87-a52d-4a7e-b168-983ca8e60b14
-  spotify: https://open.spotify.com/artist/4aEpM8RuVFDhH7ry8TUn4M
-  wikipedia: https://en.wikipedia.org/wiki/James_Moody_(saxophonist)
+  musicbrainz: 'https://musicbrainz.org/artist/cb8c8b87-a52d-4a7e-b168-983ca8e60b14'
+  spotify: 'https://open.spotify.com/artist/4aEpM8RuVFDhH7ry8TUn4M'
+  wikipedia: 'https://en.wikipedia.org/wiki/James_Moody_(saxophonist)'
 image_path: 03_Resources/source_material/ArtistPortraits/james_moody.jpg
 biography_enhanced_at: '2025-12-08T04:47:34.556862'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.todayingeorgiahistory.org/tih-georgia-day/james-moody/
-- https://jamesmoody.com/biography/
-- https://en.wikipedia.org/wiki/James_Moody_(saxophonist)
-- https://www.arts.gov/honors/jazz/james-moody
-- https://billmilkowski.substack.com/p/remembering-the-great-james-moody
+  - 'https://www.todayingeorgiahistory.org/tih-georgia-day/james-moody/'
+  - 'https://jamesmoody.com/biography/'
+  - 'https://en.wikipedia.org/wiki/James_Moody_(saxophonist)'
+  - 'https://www.arts.gov/honors/jazz/james-moody'
+  - 'https://billmilkowski.substack.com/p/remembering-the-great-james-moody'
 network_extracted: true
 entry_created: '2025-12-08T04:47:34.556870'
 last_updated: '2025-12-23T08:16:10.180848'
@@ -137,9 +139,11 @@ disambiguation: jazz saxophonist
 gender: Male
 musicbrainz_id: cb8c8b87-a52d-4a7e-b168-983ca8e60b14
 tags:
-- bebop
-- hard bop
-- jazz
+  - bebop
+  - hard bop
+  - jazz
+is_active: false
+origin: 'Newark, New Jersey, United States'
 ---
 
 ![](james_moody.jpg)

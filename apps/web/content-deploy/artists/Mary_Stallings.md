@@ -2,27 +2,27 @@
 title: Mary Stallings
 wiki_slug: mary-stallings
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1939-08-16'
-birth_place: San Francisco, California, USA
+birth_place: 'San Francisco, California, USA'
 genres:
-- vocal jazz
-- latin jazz
-- jazz
+  - vocal jazz
+  - latin jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Mary_Stallings.jpg
   caption: Mary Stallings
   background: solo_singer
   born: '1939-08-16'
-  origin: San Francisco, California, USA
+  origin: 'San Francisco, California, USA'
 audio_profile:
   tempo_avg: 120.9
   energy_avg: 0.249
   valence_avg: 0.369
   danceability_avg: 0.558
   acousticness_avg: 0.761
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -13.9
   speechiness_avg: 0.073
   liveness_avg: 0.158
@@ -31,45 +31,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Cal Tjader
-  - Dizzy Gillespie
-  - Count Basie Orchestra
-  - Gene Harris
-  - Gerald Wiggins
-  - Geri Allen
+    - Cal Tjader
+    - Dizzy Gillespie
+    - Count Basie Orchestra
+    - Gene Harris
+    - Gerald Wiggins
+    - Geri Allen
   influenced:
-  - Adriana Evans
+    - Adriana Evans
   mentors:
-  - Orlando Stallings
+    - Orlando Stallings
 spotify_data:
   followers: 6006
   id: 3EYSKfrP35BZwqsMiGU3Gf
   popularity: 14
-  url: https://open.spotify.com/artist/3EYSKfrP35BZwqsMiGU3Gf
+  url: 'https://open.spotify.com/artist/3EYSKfrP35BZwqsMiGU3Gf'
 discography_enriched: true
 top_tracks:
-- Black Coffee (Spectrum)
-- When I Close My Eyes (Songs Were Made to Sing)
-- This Can't Be Love (Manhattan Moods)
-- '''Round Midnight (Songs Were Made to Sing)'
-- Lullaby Of The Leaves (Manhattan Moods)
-- Sweet And Lovely (Manhattan Moods)
-- Surrey With The Fringe On Top (Manhattan Moods)
-- Black Coffee
-- Sunday Kind of Love (Live) (Live at the Village Vanguard)
-- You Go To My Head (Manhattan Moods)
+  - Black Coffee (Spectrum)
+  - When I Close My Eyes (Songs Were Made to Sing)
+  - This Can't Be Love (Manhattan Moods)
+  - '''Round Midnight (Songs Were Made to Sing)'
+  - Lullaby Of The Leaves (Manhattan Moods)
+  - Sweet And Lovely (Manhattan Moods)
+  - Surrey With The Fringe On Top (Manhattan Moods)
+  - Black Coffee
+  - Sunday Kind of Love (Live) (Live at the Village Vanguard)
+  - You Go To My Head (Manhattan Moods)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/18c37327-ae76-4dca-a2c7-8c27f4eabbeb
-  spotify: https://open.spotify.com/artist/3EYSKfrP35BZwqsMiGU3Gf
-  wikipedia: https://en.wikipedia.org/wiki/Mary_Stallings
+  musicbrainz: 'https://musicbrainz.org/artist/18c37327-ae76-4dca-a2c7-8c27f4eabbeb'
+  spotify: 'https://open.spotify.com/artist/3EYSKfrP35BZwqsMiGU3Gf'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mary_Stallings'
 image_path: 03_Resources/source_material/ArtistPortraits/Mary_Stallings.jpg
 biography_enhanced_at: '2025-10-20T10:14:01.311202'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://jazztimes.com/features/profiles/mary-stallings-the-best-kept-secret-in-vocal-jazz/
-- https://en.wikipedia.org/wiki/Mary_Stallings
-- https://marystallingsjazz.com
+  - >-
+    https://jazztimes.com/features/profiles/mary-stallings-the-best-kept-secret-in-vocal-jazz/
+  - 'https://en.wikipedia.org/wiki/Mary_Stallings'
+  - 'https://marystallingsjazz.com'
 network_extracted: true
 entry_created: '2025-10-20T10:14:01.311211'
 last_updated: '2025-12-23T08:16:03.225109'

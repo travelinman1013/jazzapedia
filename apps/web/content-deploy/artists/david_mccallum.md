@@ -1,40 +1,43 @@
 ---
 biography_enhanced_at: '2026-01-06T02:04:26.466653'
-birth_place: Glasgow, Scotland, United Kingdom
+birth_place: 'Glasgow, Scotland, United Kingdom'
 enhancement_provider: perplexity
 entry_created: '2026-01-06T02:04:26.466660'
 external_urls:
-  spotify: https://open.spotify.com/artist/6bRTEieKlIK6JMuPCjXiro
+  spotify: 'https://open.spotify.com/artist/6bRTEieKlIK6JMuPCjXiro'
   wikipedia: Not found in search results
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/david_mccallum.jpg
 last_updated: '2026-01-06T02:04:26.466661'
 musical_connections:
   collaborators:
-  - David Axelrod
-  - Annunzio Mantovani
+    - David Axelrod
+    - Annunzio Mantovani
   influenced:
-  - Dr. Dre and Snoop Dogg
-  - Jimmy Page
-  - Multiple Hip-Hop and Popular Artists
+    - Dr. Dre and Snoop Dogg
+    - Jimmy Page
+    - Multiple Hip-Hop and Popular Artists
   mentors:
-  - David McCallum Sr.
-  - David Axelrod
+    - David McCallum Sr.
+    - David Axelrod
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://raymonddefelitta.org/david-mccallum-conductor/
-- https://www.the-paulmccartney-project.com/artist/david-mccallum/
-- https://www.biography.com/actors/a45325227/david-mccallum-the-edge-song-samples
-- https://www.imdb.com/name/nm0564724/bio/
-- https://www.allmusic.com/artist/david-mccallum-mn0000001444
+  - 'https://raymonddefelitta.org/david-mccallum-conductor/'
+  - 'https://www.the-paulmccartney-project.com/artist/david-mccallum/'
+  - >-
+    https://www.biography.com/actors/a45325227/david-mccallum-the-edge-song-samples
+  - 'https://www.imdb.com/name/nm0564724/bio/'
+  - 'https://www.allmusic.com/artist/david-mccallum-mn0000001444'
 spotify_data:
   followers: 23149
   id: 6bRTEieKlIK6JMuPCjXiro
   popularity: 32
-  url: https://open.spotify.com/artist/6bRTEieKlIK6JMuPCjXiro
+  url: 'https://open.spotify.com/artist/6bRTEieKlIK6JMuPCjXiro'
 status: active
 title: David McCallum
+birth_date: '1933-09-19'
+artist_type: person
 ---
 
 ![](david_mccallum.jpg)

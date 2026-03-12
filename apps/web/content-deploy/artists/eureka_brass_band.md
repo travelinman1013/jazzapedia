@@ -1,10 +1,10 @@
 ---
-title: Eureka brass band
+title: Eureka Brass Band
 wiki_slug: eureka-brass-band
 schema_version: 2
 status: active
 genres:
-- ragtime
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/eureka_brass_band.jpg
   caption: Eureka brass band
@@ -16,7 +16,7 @@ audio_profile:
   danceability_avg: 0.453
   acousticness_avg: 0.855
   instrumentalness_avg: 0.679
-  loudness_avg: -14.0
+  loudness_avg: -14
   speechiness_avg: 0.075
   liveness_avg: 0.278
   track_count: 50
@@ -24,50 +24,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Willie Wilson
-  - Alcide Landry
-  - Joseph 'Red' Clark
-  - Dominique 'T-Boy' Remy
-  - Percy Humphrey
+    - Willie Wilson
+    - Alcide Landry
+    - Joseph 'Red' Clark
+    - Dominique 'T-Boy' Remy
+    - Percy Humphrey
   influenced:
-  - Olympia Brass Band
-  - Treme Brass Band
-  - Modern New Orleans Brass Bands (e.g., Rebirth, Dirty Dozen)
+    - Olympia Brass Band
+    - Treme Brass Band
+    - 'Modern New Orleans Brass Bands (e.g., Rebirth, Dirty Dozen)'
   mentors:
-  - Early New Orleans Brass Band Tradition
+    - Early New Orleans Brass Band Tradition
 spotify_data:
   followers: 613
   id: 2nLK1CVZhGslAENNRQv2cV
   popularity: 4
-  url: https://open.spotify.com/artist/2nLK1CVZhGslAENNRQv2cV
+  url: 'https://open.spotify.com/artist/2nLK1CVZhGslAENNRQv2cV'
 discography_enriched: true
 top_tracks:
-- 'Just a Little While to Stay Here (Music of New Orleans, Vol. 2: Music of the Eureka Brass Band)'
-- West Lawn Dirge (New Orleans Funeral & Parade)
-- Just a Closer Walk with Thee (New Orleans Funeral & Parade)
-- Sing On (New Orleans Funeral & Parade)
-- 'Lord, Lord, Lord (Music of New Orleans, Vol. 2: Music of the Eureka Brass Band)'
-- Just A Little While To Stay Here (Classic Sounds of New Orleans from Smithsonian Folkways)
-- Garland of Flowers (New Orleans Funeral & Parade)
-- Lady Be Good (New Orleans Funeral & Parade)
-- You Tell Me Your Dream (New Orleans Funeral & Parade)
-- West Lawn Dirge - Previously Unreleased (New Orleans Funeral & Parade)
+  - >-
+    Just a Little While to Stay Here (Music of New Orleans, Vol. 2: Music of the
+    Eureka Brass Band)
+  - West Lawn Dirge (New Orleans Funeral & Parade)
+  - Just a Closer Walk with Thee (New Orleans Funeral & Parade)
+  - Sing On (New Orleans Funeral & Parade)
+  - >-
+    Lord, Lord, Lord (Music of New Orleans, Vol. 2: Music of the Eureka Brass
+    Band)
+  - >-
+    Just A Little While To Stay Here (Classic Sounds of New Orleans from
+    Smithsonian Folkways)
+  - Garland of Flowers (New Orleans Funeral & Parade)
+  - Lady Be Good (New Orleans Funeral & Parade)
+  - You Tell Me Your Dream (New Orleans Funeral & Parade)
+  - West Lawn Dirge - Previously Unreleased (New Orleans Funeral & Parade)
 external_urls:
-  spotify: https://open.spotify.com/artist/2nLK1CVZhGslAENNRQv2cV
-  wikipedia: https://en.wikipedia.org/wiki/Eureka_Brass_Band
+  spotify: 'https://open.spotify.com/artist/2nLK1CVZhGslAENNRQv2cV'
+  wikipedia: 'https://en.wikipedia.org/wiki/Eureka_Brass_Band'
 image_path: 03_Resources/source_material/ArtistPortraits/eureka_brass_band.jpg
 biography_enhanced_at: '2025-10-26T12:27:21.435110'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://syncopatedtimes.com/eureka-brass-band-new-orleans-funeral-and-parade-music-on-lp/
-- https://folkways.si.edu/the-eureka-brass-band/music-of-new-orleans-vol-2/jazz-ragtime/album/smithsonian
-- https://folkways.si.edu/magazine-winter-spring-2015-the-last-brass-band-musical-mentorship-and-social-justice-organizing
-- https://en.wikipedia.org/wiki/Eureka_Brass_Band
+  - >-
+    https://syncopatedtimes.com/eureka-brass-band-new-orleans-funeral-and-parade-music-on-lp/
+  - >-
+    https://folkways.si.edu/the-eureka-brass-band/music-of-new-orleans-vol-2/jazz-ragtime/album/smithsonian
+  - >-
+    https://folkways.si.edu/magazine-winter-spring-2015-the-last-brass-band-musical-mentorship-and-social-justice-organizing
+  - 'https://en.wikipedia.org/wiki/Eureka_Brass_Band'
 network_extracted: true
 entry_created: '2025-10-26T12:27:21.435121'
 last_updated: '2025-12-23T08:16:08.531294'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![](eureka_brass_band.jpg)

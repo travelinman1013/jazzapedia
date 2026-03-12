@@ -3,15 +3,15 @@ title: James Carr
 wiki_slug: james-carr
 schema_version: 2
 status: active
-birth_place: Coahoma, Mississippi, USA
+birth_place: 'Coahoma, Mississippi, USA'
 genres:
-- northern soul
-- soul
+  - northern soul
+  - soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/james_carr.jpg
   caption: James Carr
   background: solo_singer
-  origin: Coahoma, Mississippi, USA
+  origin: 'Coahoma, Mississippi, USA'
 audio_profile:
   tempo_avg: 116.7
   energy_avg: 0.527
@@ -27,49 +27,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Quinton Claunch
-  - Dan Penn
-  - Chips Moman
+    - Quinton Claunch
+    - Dan Penn
+    - Chips Moman
   influenced:
-  - Elvis Costello
-  - Aretha Franklin
-  - Linda Ronstadt
+    - Elvis Costello
+    - Aretha Franklin
+    - Linda Ronstadt
   mentors:
-  - O.V. Wright
+    - O.V. Wright
 spotify_data:
   followers: 57321
   id: 59fzcTUsoozikLmRY1SwHS
   popularity: 34
-  url: https://open.spotify.com/artist/59fzcTUsoozikLmRY1SwHS
+  url: 'https://open.spotify.com/artist/59fzcTUsoozikLmRY1SwHS'
 discography_enriched: true
 top_tracks:
-- The Dark End of the Street (You Got My Mind Messed Up)
-- These Ain't Raindrops (You Got My Mind Messed Up)
-- Pouring Water on a Drowning Man (You Got My Mind Messed Up)
-- You've Got My Mind Messed Up (You Got My Mind Messed Up)
-- A Man Needs a Woman (The Complete Goldwax Singles)
-- Forgetting You (You Got My Mind Messed Up)
-- To Love Somebody (The Complete Goldwax Singles)
-- She's Better Than You (You Got My Mind Messed Up)
-- These Arms of Mine (You Got My Mind Messed Up)
-- I'm a Fool for You (A Man Needs a Woman)
+  - The Dark End of the Street (You Got My Mind Messed Up)
+  - These Ain't Raindrops (You Got My Mind Messed Up)
+  - Pouring Water on a Drowning Man (You Got My Mind Messed Up)
+  - You've Got My Mind Messed Up (You Got My Mind Messed Up)
+  - A Man Needs a Woman (The Complete Goldwax Singles)
+  - Forgetting You (You Got My Mind Messed Up)
+  - To Love Somebody (The Complete Goldwax Singles)
+  - She's Better Than You (You Got My Mind Messed Up)
+  - These Arms of Mine (You Got My Mind Messed Up)
+  - I'm a Fool for You (A Man Needs a Woman)
 external_urls:
-  spotify: https://open.spotify.com/artist/59fzcTUsoozikLmRY1SwHS
-  wikipedia: https://en.wikipedia.org/wiki/James_Carr_(musician)
+  spotify: 'https://open.spotify.com/artist/59fzcTUsoozikLmRY1SwHS'
+  wikipedia: 'https://en.wikipedia.org/wiki/James_Carr_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/james_carr.jpg
 biography_enhanced_at: '2025-10-31T08:13:35.693496'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://memphismusichalloffame.com/inductee/jamescarr/
-- https://www.latimes.com/archives/la-xpm-2001-jan-12-me-11448-story.html
-- https://fromthevaults-boppinbob.blogspot.com/2021/06/james-carr-born-13-june-1942.html
-- https://americansongwriter.com/james-carr-dark-night-soul/
-- https://www.jango.com/music/James+Carr/_full_bio
+  - 'https://memphismusichalloffame.com/inductee/jamescarr/'
+  - 'https://www.latimes.com/archives/la-xpm-2001-jan-12-me-11448-story.html'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2021/06/james-carr-born-13-june-1942.html
+  - 'https://americansongwriter.com/james-carr-dark-night-soul/'
+  - 'https://www.jango.com/music/James+Carr/_full_bio'
 network_extracted: true
 entry_created: '2025-10-31T08:13:35.693515'
 last_updated: '2025-12-23T08:16:10.174811'
-
+origin: 'Memphis, Tennessee, United States'
+birth_date: '1942-06-13'
+artist_type: person
 ---
 
 ![](james_carr.jpg)

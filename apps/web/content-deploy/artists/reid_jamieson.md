@@ -1,11 +1,11 @@
 ---
-title: reid jamieson
+title: Reid Jamieson
 wiki_slug: reid-jamieson
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1973-10-20'
-birth_place: Toronto
+birth_place: 'Toronto, Ontario, Canada'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/reid_jamieson.jpg
@@ -28,46 +28,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Cowboy Junkies
-  - Mary Margaret O'Hara
-  - Blue Rodeo members
-  - Be Good Tanyas members
-  - CBC Vinyl Café Orchestra
+    - Cowboy Junkies
+    - Mary Margaret O'Hara
+    - Blue Rodeo members
+    - Be Good Tanyas members
+    - CBC Vinyl Café Orchestra
   influenced: []
   mentors: []
 spotify_data:
   followers: 764
   id: 28blVumpkcCtoeEgK09zGf
   popularity: 12
-  url: https://open.spotify.com/artist/28blVumpkcCtoeEgK09zGf
+  url: 'https://open.spotify.com/artist/28blVumpkcCtoeEgK09zGf'
 discography_enriched: true
 top_tracks:
-- Take On Me (Take On Me)
-- Lullaby for the Lost (Me Daza)
-- My Heart Will Go On (My Heart Will Go On)
-- Oh Yoko (John 20:20)
-- Song for a Winter's Night (Songs for a Winter's Night)
-- Real Love (John 20:20)
-- Evergreen (Me Daza)
-- Enough (Me Daza)
-- Don't Go Down (feat. Fergus O'Farrell) (Me Daza)
-- Dominoes (Me Daza)
+  - Take On Me (Take On Me)
+  - Lullaby for the Lost (Me Daza)
+  - My Heart Will Go On (My Heart Will Go On)
+  - 'Oh Yoko (John 20:20)'
+  - Song for a Winter's Night (Songs for a Winter's Night)
+  - 'Real Love (John 20:20)'
+  - Evergreen (Me Daza)
+  - Enough (Me Daza)
+  - Don't Go Down (feat. Fergus O'Farrell) (Me Daza)
+  - Dominoes (Me Daza)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/afedaeb5-e8d9-4707-9805-3888be9ea32d
-  spotify: https://open.spotify.com/artist/28blVumpkcCtoeEgK09zGf
+  musicbrainz: 'https://musicbrainz.org/artist/afedaeb5-e8d9-4707-9805-3888be9ea32d'
+  spotify: 'https://open.spotify.com/artist/28blVumpkcCtoeEgK09zGf'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/reid_jamieson.jpg
 biography_enhanced_at: '2025-12-12T12:11:28.717593'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Reid+Jamieson/+wiki
-- https://blog.sonicbids.com/interview-with-reid-jamieson
-- https://www.rootsmusicreport.com/bands/view/43035/reid-jamieson
-- https://thefestival.bc.ca/artists/reid-jamieson/
-- https://www.broadjam.com/reidjamieson
-- https://reidjamieson.com/career-highlights/
-- https://reidjamieson.com/about/
+  - 'https://www.last.fm/music/Reid+Jamieson/+wiki'
+  - 'https://blog.sonicbids.com/interview-with-reid-jamieson'
+  - 'https://www.rootsmusicreport.com/bands/view/43035/reid-jamieson'
+  - 'https://thefestival.bc.ca/artists/reid-jamieson/'
+  - 'https://www.broadjam.com/reidjamieson'
+  - 'https://reidjamieson.com/career-highlights/'
+  - 'https://reidjamieson.com/about/'
 network_extracted: true
 entry_created: '2025-12-12T12:11:28.717611'
 last_updated: '2025-12-23T08:16:14.783712'

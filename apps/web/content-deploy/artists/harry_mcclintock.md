@@ -4,17 +4,17 @@ wiki_slug: harry-mcclintock
 schema_version: 2
 status: deceased
 aliases: []
-birth_date: '1882-10-08'
-birth_place: Knoxville
+birth_date: '1884-10-08'
+birth_place: 'Uhrichsville, Ohio, United States'
 death_date: '1957-04-24'
 years_active: 1902-1957
 genres:
-- bluegrass
+  - bluegrass
 instruments:
-- guitar
+  - guitar
 occupation:
-- composer
-- songwriter
+  - composer
+  - songwriter
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Harry_McClintock.jpg
   caption: Harry McClintock
@@ -40,32 +40,34 @@ spotify_data:
   followers: 13341
   id: 5ehQsvqbiNAVZADhzHy5JO
   popularity: 43
-  url: https://open.spotify.com/artist/5ehQsvqbiNAVZADhzHy5JO
+  url: 'https://open.spotify.com/artist/5ehQsvqbiNAVZADhzHy5JO'
   verified: false
 discography_enriched: true
 albums_count: 2
 singles_count: 1
 top_tracks:
-- The Big Rock Candy Mountain (Bona Fide Bluegrass and Mountain Music)
-- Jesse James (When I Was A Cowboy, Vol. 2)
-- Big Rock Candy Mountain (O Brother Is This Americana)
-- Hallelujah, I'm a Bum (Haywire Mac)
-- Sweet Violets (Haywire Mac)
-- Sam Gass (When I Was A Cowboy, Vol. 1)
-- Goodbye Old Paint (When I Was A Cowboy, Vol. 1)
-- Long Haired Preachers (Preacher and the Slave) (Haywire Mac)
-- Poor Boy (Haywire Mac)
-- Utah Carl (Haywire Mac)
+  - The Big Rock Candy Mountain (Bona Fide Bluegrass and Mountain Music)
+  - 'Jesse James (When I Was A Cowboy, Vol. 2)'
+  - Big Rock Candy Mountain (O Brother Is This Americana)
+  - 'Hallelujah, I''m a Bum (Haywire Mac)'
+  - Sweet Violets (Haywire Mac)
+  - 'Sam Gass (When I Was A Cowboy, Vol. 1)'
+  - 'Goodbye Old Paint (When I Was A Cowboy, Vol. 1)'
+  - Long Haired Preachers (Preacher and the Slave) (Haywire Mac)
+  - Poor Boy (Haywire Mac)
+  - Utah Carl (Haywire Mac)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/5ehQsvqbiNAVZADhzHy5JO
-  wikipedia: https://en.wikipedia.org/wiki/Harry_McClintock
+  spotify: 'https://open.spotify.com/artist/5ehQsvqbiNAVZADhzHy5JO'
+  wikipedia: 'https://en.wikipedia.org/wiki/Harry_McClintock'
 image_path: 03_Resources/source_material/ArtistPortraits/Harry_McClintock.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-18T15:46:59.418408'
-entry_created: 2025-09-18 11:48:48.080164
+entry_created: 2025-09-18T11:48:48.080Z
 last_updated: '2025-12-23T08:16:09.521245'
-
+is_active: false
+artist_type: person
+origin: 'Knoxville, Tennessee, United States'
 ---
 
 ![](Harry_McClintock.jpg)

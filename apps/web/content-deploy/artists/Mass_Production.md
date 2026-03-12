@@ -5,7 +5,7 @@ schema_version: 2
 status: active
 aliases: []
 genres:
-- post-disco
+  - post-disco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Mass_Production.jpg
   caption: Mass Production
@@ -25,66 +25,67 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ricardo Williams
-  - Tyrone Williams
-  - LeCoy Bryant
-  - Agnes “Tiny” Kelly
-  - Samuel Williams
-  - James Drumgole
-  - Gregory McCoy
-  - Kevin Douglas
-  - Rodney Phelps
+    - Ricardo Williams
+    - Tyrone Williams
+    - LeCoy Bryant
+    - Agnes “Tiny” Kelly
+    - Samuel Williams
+    - James Drumgole
+    - Gregory McCoy
+    - Kevin Douglas
+    - Rodney Phelps
   influenced:
-  - 2 Live Crew
-  - Megan Thee Stallion
-  - Various hip-hop and R&B artists
+    - 2 Live Crew
+    - Megan Thee Stallion
+    - Various hip-hop and R&B artists
   mentors:
-  - The Delfonics
-  - The O'Jays
-  - Earth, Wind & Fire
-  - Kool & The Gang
-  - Kelly Isley (The Isley Brothers)
+    - The Delfonics
+    - The O'Jays
+    - 'Earth, Wind & Fire'
+    - Kool & The Gang
+    - Kelly Isley (The Isley Brothers)
 related_artists: []
 spotify_data:
   followers: 66971
   id: 4Aj5BsUYgadIeoC759FrhE
   popularity: 27
-  url: https://open.spotify.com/artist/4Aj5BsUYgadIeoC759FrhE
+  url: 'https://open.spotify.com/artist/4Aj5BsUYgadIeoC759FrhE'
   verified: false
 discography_enriched: true
 albums_count: 8
 singles_count: 3
 top_tracks:
-- Firecracker
-- Turn up the Music (Turn Up The Music)
-- Welcome to Our World (Of Merry Music) (Welcome To Our World)
-- Firecracker / Love You (In The Purest Form)
-- Groove Me (Three Miles High)
-- Love You (12" Single Version) (Love You)
-- Our Thought - Let the Music Take You Away (Three Miles High)
-- Shanté (Massterpiece)
-- With Pleasure (In The Purest Form)
-- I Don't Want to Know (Three Miles High)
+  - Firecracker
+  - Turn up the Music (Turn Up The Music)
+  - Welcome to Our World (Of Merry Music) (Welcome To Our World)
+  - Firecracker / Love You (In The Purest Form)
+  - Groove Me (Three Miles High)
+  - Love You (12" Single Version) (Love You)
+  - Our Thought - Let the Music Take You Away (Three Miles High)
+  - Shanté (Massterpiece)
+  - With Pleasure (In The Purest Form)
+  - I Don't Want to Know (Three Miles High)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/4Aj5BsUYgadIeoC759FrhE
-  wikipedia: https://en.wikipedia.org/wiki/Mass_Production_(band)
+  spotify: 'https://open.spotify.com/artist/4Aj5BsUYgadIeoC759FrhE'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mass_Production_(band)'
 image_path: 03_Resources/source_material/ArtistPortraits/Mass_Production.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:55:13.911904'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://www.soulwalking.co.uk/Mass%20Production.html
-- https://www.massproband.com/copy-of-history
-- https://www.blackhistorymonth.org.uk/article/listings/region/camden/mass-production/
-- https://www.massproband.com/team-1
+  - 'http://www.soulwalking.co.uk/Mass%20Production.html'
+  - 'https://www.massproband.com/copy-of-history'
+  - >-
+    https://www.blackhistorymonth.org.uk/article/listings/region/camden/mass-production/
+  - 'https://www.massproband.com/team-1'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 15:25:31.814108
+entry_created: 2025-09-18T15:25:31.814Z
 last_updated: '2025-12-23T08:16:03.233699'
-origin: Norfolk, Virginia, United States
-
+origin: 'Norfolk, Virginia, United States'
+artist_type: band
 ---
 
 ![](Mass_Production.jpg)

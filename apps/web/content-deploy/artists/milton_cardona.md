@@ -3,14 +3,14 @@ title: Milton Cardona
 wiki_slug: milton-cardona
 schema_version: 2
 status: active
-birth_place: Mayagüez, Puerto Rico
+birth_place: 'Mayagüez, Puerto Rico, United States'
 genres:
-- latin jazz
+  - latin jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/milton_cardona.jpg
   caption: Milton Cardona
   background: solo_singer
-  origin: Mayagüez, Puerto Rico
+  origin: 'Mayagüez, Puerto Rico'
 audio_profile:
   tempo_avg: 122.3
   energy_avg: 0.524
@@ -26,47 +26,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Willie Colón
-  - Héctor Lavoe
-  - Kip Hanrahan
-  - Paul Simon
-  - Grupo Folklórico Experimental Neoyorquino
-  - Jerry González’s Fort Apache Band
+    - Willie Colón
+    - Héctor Lavoe
+    - Kip Hanrahan
+    - Paul Simon
+    - Grupo Folklórico Experimental Neoyorquino
+    - Jerry González’s Fort Apache Band
   influenced:
-  - Bobby Sanabria
-  - Don Byron
+    - Bobby Sanabria
+    - Don Byron
   mentors:
-  - Mongo Santamaría
+    - Mongo Santamaría
 spotify_data:
   followers: 1828
   id: 7up05Ew1cHrSSx1bLxyIud
   popularity: 10
-  url: https://open.spotify.com/artist/7up05Ew1cHrSSx1bLxyIud
+  url: 'https://open.spotify.com/artist/7up05Ew1cHrSSx1bLxyIud'
 discography_enriched: true
 top_tracks:
-- Obatala´ (Bembé)
-- Salute TO Elegua (Bembé)
-- Elegua (Bembé)
-- Ogu´n (Bembé)
-- Ochosi (Bembé)
-- Ebioso (Bembé)
-- Babalu Aye´ (Bembé)
-- Elegua (Bembé)
-- Chango´ (Bembé)
-- Yemaya´ (Bembé)
+  - Obatala´ (Bembé)
+  - Salute TO Elegua (Bembé)
+  - Elegua (Bembé)
+  - Ogu´n (Bembé)
+  - Ochosi (Bembé)
+  - Ebioso (Bembé)
+  - Babalu Aye´ (Bembé)
+  - Elegua (Bembé)
+  - Chango´ (Bembé)
+  - Yemaya´ (Bembé)
 external_urls:
-  spotify: https://open.spotify.com/artist/7up05Ew1cHrSSx1bLxyIud
-  wikipedia: https://en.wikipedia.org/wiki/Milton_Cardona
+  spotify: 'https://open.spotify.com/artist/7up05Ew1cHrSSx1bLxyIud'
+  wikipedia: 'https://en.wikipedia.org/wiki/Milton_Cardona'
 image_path: 03_Resources/source_material/ArtistPortraits/milton_cardona.jpg
 biography_enhanced_at: '2025-10-23T07:39:22.156066'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.moderndrummer.com/2014/12/latin-percussion-icon-milton-cardona-remembered/
-- https://www.last.fm/music/Milton+Cardona/+wiki
+  - >-
+    https://www.moderndrummer.com/2014/12/latin-percussion-icon-milton-cardona-remembered/
+  - 'https://www.last.fm/music/Milton+Cardona/+wiki'
 network_extracted: true
 entry_created: '2025-10-23T07:39:22.156082'
 last_updated: '2025-12-23T08:16:13.167882'
+artist_type: person
 ---
 
 ![](milton_cardona.jpg)

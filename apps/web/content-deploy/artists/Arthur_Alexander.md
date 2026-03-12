@@ -5,22 +5,22 @@ schema_version: 2
 status: deceased
 aliases: []
 birth_date: '1940-05-10'
-birth_place: Florence
+birth_place: 'Sheffield, Alabama, United States'
 death_date: '1993-06-09'
 years_active: 1960–1993
 genres: []
 instruments:
-- voice
+  - voice
 occupation:
-- singer-songwriter
-- singer
-- songwriter
-- musician
+  - singer-songwriter
+  - singer
+  - songwriter
+  - musician
 record_labels:
-- Dot Records
-- Judd Records
-- Warner Records Inc.
-- Elektra
+  - Dot Records
+  - Judd Records
+  - Warner Records Inc.
+  - Elektra
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Arthur_Alexander.jpg
   caption: Arthur Alexander
@@ -29,7 +29,7 @@ infobox:
   origin: Florence
   died: '1993-06-09'
 audio_profile:
-  tempo_avg: 118.0
+  tempo_avg: 118
   energy_avg: 0.53
   valence_avg: 0.764
   danceability_avg: 0.572
@@ -46,31 +46,38 @@ spotify_data:
   followers: 12419
   id: 0j4pxInmdtF4bYQj0VVpbz
   popularity: 28
-  url: https://open.spotify.com/artist/0j4pxInmdtF4bYQj0VVpbz
+  url: 'https://open.spotify.com/artist/0j4pxInmdtF4bYQj0VVpbz'
   verified: false
 discography_enriched: true
 albums_count: 6
 singles_count: 7
 top_tracks:
-- Anna (Go to Him) (Let's Spend an Evening with Arthur Alexander)
-- Anna (Go To Him) (Anna (Go To Him))
-- Soldier Of Love (Anna (Go To Him))
-- You Better Listen to Me
-- You Better Move On (You Better Move On with Arthur Alexander)
-- A Shot of Rhythm and Blues (You Better Move On with Arthur Alexander)
-- You Better Move On - Single Version (A Shot of Rhythm and Blues)
-- A Shot of Rhythm and Blues (A Shot of Rhythm and Blues)
-- You Better Move On - Alternate Take (You Better Move On with Arthur Alexander)
-- The Girl That Radiates That Charm (Let's Spend an Evening with Arthur Alexander)
+  - Anna (Go to Him) (Let's Spend an Evening with Arthur Alexander)
+  - Anna (Go To Him) (Anna (Go To Him))
+  - Soldier Of Love (Anna (Go To Him))
+  - You Better Listen to Me
+  - You Better Move On (You Better Move On with Arthur Alexander)
+  - A Shot of Rhythm and Blues (You Better Move On with Arthur Alexander)
+  - You Better Move On - Single Version (A Shot of Rhythm and Blues)
+  - A Shot of Rhythm and Blues (A Shot of Rhythm and Blues)
+  - >-
+    You Better Move On - Alternate Take (You Better Move On with Arthur
+    Alexander)
+  - >-
+    The Girl That Radiates That Charm (Let's Spend an Evening with Arthur
+    Alexander)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/0j4pxInmdtF4bYQj0VVpbz
-  wikipedia: https://en.wikipedia.org/wiki/Arthur_Alexander
+  spotify: 'https://open.spotify.com/artist/0j4pxInmdtF4bYQj0VVpbz'
+  wikipedia: 'https://en.wikipedia.org/wiki/Arthur_Alexander'
 image_path: 03_Resources/source_material/ArtistPortraits/Arthur_Alexander.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-18T16:30:00.167873'
-entry_created: 2025-09-18 13:00:08.247789
+entry_created: 2025-09-18T13:00:08.247Z
 last_updated: '2025-12-23T08:16:01.072042'
+is_active: false
+origin: 'Florence, Alabama, United States'
+artist_type: person
 ---
 
 ![](Arthur_Alexander.jpg)

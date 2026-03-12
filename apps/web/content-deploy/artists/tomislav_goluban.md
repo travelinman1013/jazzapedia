@@ -1,55 +1,63 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2ff7d28e-e5ad-46f2-a678-132a879de3c9
-  name: Tomislav Goluban & Little Pigeon's ForHill Blues
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2ff7d28e-e5ad-46f2-a678-132a879de3c9
+    name: Tomislav Goluban & Little Pigeon's ForHill Blues
 biography_enhanced_at: '2025-12-25T01:13:22.182432'
-birth_place: Grabrovec, Zabok, Hrvatsko Zagorje, Croatia
+birth_place: 'Grabrovec, Zabok, Hrvatsko Zagorje, Croatia'
 disambiguation: Croatian harmonica player
 enhancement_provider: perplexity
 entry_created: '2025-12-25T01:13:22.182451'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/71b0fbb4-cba2-4640-a490-474f0e218a42
-  spotify: https://open.spotify.com/artist/6q3mDdArQz0RwXGYZPRJJN
-  wikipedia: https://en.wikipedia.org/wiki/Tomislav_Goluban
+  musicbrainz: 'https://musicbrainz.org/artist/71b0fbb4-cba2-4640-a490-474f0e218a42'
+  spotify: 'https://open.spotify.com/artist/6q3mDdArQz0RwXGYZPRJJN'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tomislav_Goluban'
 gender: Male
 genres:
-- blues
-- blues rock
+  - blues
+  - blues rock
 image_path: 03_Resources/source_material/ArtistPortraits/tomislav_goluban.jpg
 last_updated: '2025-12-25T01:13:22.182453'
 musical_connections:
   collaborators:
-  - Crooked Eye Tommy (Tommy Marsh)
+    - Crooked Eye Tommy (Tommy Marsh)
   influenced:
-  - Croatian Blues Forces community and younger Croatian blues musicians (collective)
+    - >-
+      Croatian Blues Forces community and younger Croatian blues musicians
+      (collective)
   mentors:
-  - Sonny Terry
-  - Slim Harpo
-  - Paul Butterfield
-  - Chess Records artists (via Chess Records sound)
-  - Velvet Underground / Lou Reed
+    - Sonny Terry
+    - Slim Harpo
+    - Paul Butterfield
+    - Chess Records artists (via Chess Records sound)
+    - Velvet Underground / Lou Reed
 musicbrainz_id: 71b0fbb4-cba2-4640-a490-474f0e218a42
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://blues.gr/profiles/blogs/q-a-with-croatian-harmonica-player-tomislav-goluban-burst-with-en
-- https://justapedia.org/wiki/Tomislav_Goluban
-- https://www.americanbluesscene.com/2020/01/tomislav-goluban-memphis-light/
-- https://www.bluesblastmagazine.com/tomislav-goluban-crazy-hill-live-album-review/
-- https://bluesbeats.com/2025/02/12/tomislav-goluban-and-crooked-eye-tommy-a-transatlantic-blues-journey-on-nashville-road/
-- https://atlantabluessociety.org/2025/03/tomislav-goluban-w-crooked-eye-tommy/
-- https://bluesroadhouse.com/2025/01/19/roadhouse-album-review-tomi-goluban-and-crooked-eye-tommy-take-joyous-blues-ride-on-nashville-road/
+  - >-
+    https://blues.gr/profiles/blogs/q-a-with-croatian-harmonica-player-tomislav-goluban-burst-with-en
+  - 'https://justapedia.org/wiki/Tomislav_Goluban'
+  - 'https://www.americanbluesscene.com/2020/01/tomislav-goluban-memphis-light/'
+  - >-
+    https://www.bluesblastmagazine.com/tomislav-goluban-crazy-hill-live-album-review/
+  - >-
+    https://bluesbeats.com/2025/02/12/tomislav-goluban-and-crooked-eye-tommy-a-transatlantic-blues-journey-on-nashville-road/
+  - >-
+    https://atlantabluessociety.org/2025/03/tomislav-goluban-w-crooked-eye-tommy/
+  - >-
+    https://bluesroadhouse.com/2025/01/19/roadhouse-album-review-tomi-goluban-and-crooked-eye-tommy-take-joyous-blues-ride-on-nashville-road/
 spotify_data:
   followers: 661
   id: 6q3mDdArQz0RwXGYZPRJJN
   popularity: 7
-  url: https://open.spotify.com/artist/6q3mDdArQz0RwXGYZPRJJN
+  url: 'https://open.spotify.com/artist/6q3mDdArQz0RwXGYZPRJJN'
 status: active
 title: Tomislav Goluban
+origin: 'Zabok, Hrvatsko Zagorje, Croatia'
 ---
 
 ![](tomislav_goluban.jpg)

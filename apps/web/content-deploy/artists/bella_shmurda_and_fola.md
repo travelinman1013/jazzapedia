@@ -1,16 +1,16 @@
 ---
-title: bella shmurda & fola
+title: Bella Shmurda & Fola
 wiki_slug: bella-shmurda-fola
 schema_version: 2
 status: active
 genres:
-- afro adura
-- afrobeats
-- afrobeat
-- afropop
-- alté
-- afropiano
-- afro soul
+  - afro adura
+  - afrobeats
+  - afrobeat
+  - afropop
+  - alté
+  - afropiano
+  - afro soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bella_shmurda_and_fola.jpg
   caption: bella shmurda & fola
@@ -30,54 +30,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Olamide
-  - Zlatan
-  - Lincoln
-  - BNXN (Buju)
-  - Bad Boi OML
-  - Majix
-  - Wizkid
-  - DJ Tunez
+    - Olamide
+    - Zlatan
+    - Lincoln
+    - BNXN (Buju)
+    - Bad Boi OML
+    - Majix
+    - Wizkid
+    - DJ Tunez
   influenced:
-  - Fola
+    - Fola
   mentors:
-  - Olamide
-  - Bella Shmurda
+    - Olamide
+    - Bella Shmurda
 spotify_data:
   followers: 2623662
   id: 7kK5badbqOjd8WlT2XWMeM
   popularity: 68
-  url: https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM
+  url: 'https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM'
 discography_enriched: true
 top_tracks:
-- who does that? (feat. Bella Shmurda)
-- 'Al-Jannah (Uncle K: Lemon Chase)'
-- OHEMA (with Crayon & Bella Shmurda)
-- Anytime (feat. Ayo Maff)
-- DOG EAT DOG II (feat. Cruel Santino and Bella Shmurda) (EZIOKWU)
-- HBP Remix (with Bella Shmurda) (Homeless)
-- Verily
-- Louder (feat. Ayo Maff & Bella Shmurda)
-- Triumphant (feat. Bella Shmurda) (Carpe Diem)
-- PARIWO (Blessed)
+  - who does that? (feat. Bella Shmurda)
+  - 'Al-Jannah (Uncle K: Lemon Chase)'
+  - OHEMA (with Crayon & Bella Shmurda)
+  - Anytime (feat. Ayo Maff)
+  - DOG EAT DOG II (feat. Cruel Santino and Bella Shmurda) (EZIOKWU)
+  - HBP Remix (with Bella Shmurda) (Homeless)
+  - Verily
+  - Louder (feat. Ayo Maff & Bella Shmurda)
+  - Triumphant (feat. Bella Shmurda) (Carpe Diem)
+  - PARIWO (Blessed)
 external_urls:
-  spotify: https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM
-  wikipedia: https://en.wikipedia.org/wiki/Bella_Shmurda
+  spotify: 'https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bella_Shmurda'
 image_path: 03_Resources/source_material/ArtistPortraits/bella_shmurda_and_fola.jpg
 biography_enhanced_at: '2025-12-14T01:50:36.620329'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Bella_Shmurda
-- https://steemit.com/music/@dyoungdj/history-music-career-journey-and-biography-of-bella-shmurda
-- https://www.turntablecharts.com/magazine/Industry_Digest_November_December_2024/124
-- https://tricklemedia.net/folas-who-does-that-prophetic-words-ushering-in-success/
-- https://www.youtube.com/watch?v=nPp9j4XLigk
+  - 'https://en.wikipedia.org/wiki/Bella_Shmurda'
+  - >-
+    https://steemit.com/music/@dyoungdj/history-music-career-journey-and-biography-of-bella-shmurda
+  - >-
+    https://www.turntablecharts.com/magazine/Industry_Digest_November_December_2024/124
+  - >-
+    https://tricklemedia.net/folas-who-does-that-prophetic-words-ushering-in-success/
+  - 'https://www.youtube.com/watch?v=nPp9j4XLigk'
 network_extracted: true
 entry_created: '2025-12-14T01:50:36.620340'
 last_updated: '2025-12-23T08:16:05.219748'
-origin: Ikorodu, Lagos State, Nigeria (Bella Shmurda’s origin) / Ibadan, Oyo State, Nigeria (Fola’s origin, later active in Lagos)
-
+origin: >-
+  Ikorodu, Lagos State, Nigeria (Bella Shmurda’s origin) / Ibadan, Oyo State,
+  Nigeria (Fola’s origin, later active in Lagos)
+artist_type: band
 ---
 
 ![](bella_shmurda_and_fola.jpg)

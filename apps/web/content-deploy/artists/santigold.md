@@ -5,11 +5,11 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1976-09-25'
-birth_place: Philadelphia
+birth_place: 'Philadelphia, Pennsylvania, United States'
 genres: []
 instruments:
-- background vocals
-- lead vocals
+  - background vocals
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/santigold.jpg
   caption: Santigold
@@ -23,7 +23,7 @@ audio_profile:
   danceability_avg: 0.673
   acousticness_avg: 0.129
   instrumentalness_avg: 0.135
-  loudness_avg: -5.0
+  loudness_avg: -5
   speechiness_avg: 0.094
   liveness_avg: 0.258
   track_count: 48
@@ -31,55 +31,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John Hill
-  - Diplo
-  - Jay-Z
-  - Kanye West
-  - Beastie Boys
-  - Red Hot Chili Peppers
+    - John Hill
+    - Diplo
+    - Jay-Z
+    - Kanye West
+    - Beastie Boys
+    - Red Hot Chili Peppers
   influenced: []
   mentors:
-  - Darryl Jenifer
-  - Martin Heath
+    - Darryl Jenifer
+    - Martin Heath
 spotify_data:
   followers: 808690
   id: 6Jrxnp0JgqmeUX1veU591p
   popularity: 66
-  url: https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p
+  url: 'https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p'
 discography_enriched: true
 top_tracks:
-- Thought I Was Dead (feat. ScHoolboy Q & Santigold) (CHROMAKOPIA)
-- Disparate Youth (Master of My Make-Believe)
-- Disparate Youth (Master of My Make-Believe)
-- Hell (feat. Santigold) (LONG.LIVE.A$AP (Deluxe Version))
-- L.E.S. Artistes (Santigold)
-- Disparate Youth
-- Run the Road
-- L.E.S Artistes
-- Solidarité (Lamomali)
-- GO! (feat. Karen O) (Master of My Make-Believe)
+  - Thought I Was Dead (feat. ScHoolboy Q & Santigold) (CHROMAKOPIA)
+  - Disparate Youth (Master of My Make-Believe)
+  - Disparate Youth (Master of My Make-Believe)
+  - Hell (feat. Santigold) (LONG.LIVE.A$AP (Deluxe Version))
+  - L.E.S. Artistes (Santigold)
+  - Disparate Youth
+  - Run the Road
+  - L.E.S Artistes
+  - Solidarité (Lamomali)
+  - GO! (feat. Karen O) (Master of My Make-Believe)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/97b20fe3-0924-4a5f-9955-d0b5c5f9587f
-  spotify: https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p
-  wikipedia: https://en.wikipedia.org/wiki/Santigold
+  musicbrainz: 'https://musicbrainz.org/artist/97b20fe3-0924-4a5f-9955-d0b5c5f9587f'
+  spotify: 'https://open.spotify.com/artist/6Jrxnp0JgqmeUX1veU591p'
+  wikipedia: 'https://en.wikipedia.org/wiki/Santigold'
 image_path: 03_Resources/source_material/ArtistPortraits/santigold.jpg
 biography_enhanced_at: '2025-12-04T07:34:58.868592'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://mabumbe.com/people/santigold-age-net-worth-relationships-biography-more/
-- https://www.last.fm/music/Santigold/+wiki
-- https://en.wikipedia.org/wiki/Santigold
-- https://kids.kiddle.co/Santigold
+  - >-
+    https://mabumbe.com/people/santigold-age-net-worth-relationships-biography-more/
+  - 'https://www.last.fm/music/Santigold/+wiki'
+  - 'https://en.wikipedia.org/wiki/Santigold'
+  - 'https://kids.kiddle.co/Santigold'
 network_extracted: true
 entry_created: '2025-12-04T07:34:58.868598'
 last_updated: '2025-12-23T08:16:15.368579'
 gender: Female
 musicbrainz_id: 97b20fe3-0924-4a5f-9955-d0b5c5f9587f
 tags:
-- electronic
-- hip hop
-- indie rock
+  - electronic
+  - hip hop
+  - indie rock
 ---
 
 ![](santigold.jpg)

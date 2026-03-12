@@ -1,53 +1,60 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-12T02:02:44.168213'
-birth_place: San Francisco Bay Area, California, United States
+birth_place: 'Chicago, Illinois, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-12T02:02:44.168218'
 external_urls:
-  spotify: https://open.spotify.com/artist/6YB0tbDGk01Q0P6wcHPjpC
-  wikipedia: https://en.wikipedia.org/wiki/Bob_Weir
+  spotify: 'https://open.spotify.com/artist/6YB0tbDGk01Q0P6wcHPjpC'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bob_Weir'
 genres:
-- jam band
+  - jam band
 image_path: 03_Resources/source_material/ArtistPortraits/bob_weir.jpg
 last_updated: '2026-01-12T02:02:44.168219'
 musical_connections:
   collaborators:
-  - Jerry Garcia
-  - Phil Lesh
-  - John Perry Barlow
-  - Mickey Hart and Bill Kreutzmann
-  - John Mayer
-  - Jeff Chimenti
-  - Members of Kingfish (e.g., Matthew Kelly, Dave Torbert)
-  - Bobby and the Midnites (including Billy Cobham and Alphonso Johnson)
-  - Don Was
-  - Royal Philharmonic Concert Orchestra
+    - Jerry Garcia
+    - Phil Lesh
+    - John Perry Barlow
+    - Mickey Hart and Bill Kreutzmann
+    - John Mayer
+    - Jeff Chimenti
+    - 'Members of Kingfish (e.g., Matthew Kelly, Dave Torbert)'
+    - Bobby and the Midnites (including Billy Cobham and Alphonso Johnson)
+    - Don Was
+    - Royal Philharmonic Concert Orchestra
   influenced:
-  - John Mayer
-  - Contemporary jam‑band and improvisational rock guitarists (e.g., players in bands
-    like Phish and other post‑Dead jam acts)
-  - Successive generations of Grateful Dead–inspired bands and singer‑songwriters
+    - John Mayer
+    - >-
+      Contemporary jam‑band and improvisational rock guitarists (e.g., players
+      in bands like Phish and other post‑Dead jam acts)
+    - >-
+      Successive generations of Grateful Dead–inspired bands and
+      singer‑songwriters
   mentors:
-  - Jerry Garcia
-  - The Beatles
-  - American roots and country & western artists (e.g., Chuck Berry, Willie Dixon,
-    Bob Dylan)
+    - Jerry Garcia
+    - The Beatles
+    - >-
+      American roots and country & western artists (e.g., Chuck Berry, Willie
+      Dixon, Bob Dylan)
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.dead.net/band/bob-weir
-- https://bobweir.net/bio/
-- https://en.wikipedia.org/wiki/Bob_Weir
-- https://xpn.org/wxpn-remembers-bob-weir-grateful-dead-co-founder-who-has-died-at-78/
-- https://www.youtube.com/watch?v=ff61nGmxABA
+  - 'https://www.dead.net/band/bob-weir'
+  - 'https://bobweir.net/bio/'
+  - 'https://en.wikipedia.org/wiki/Bob_Weir'
+  - >-
+    https://xpn.org/wxpn-remembers-bob-weir-grateful-dead-co-founder-who-has-died-at-78/
+  - 'https://www.youtube.com/watch?v=ff61nGmxABA'
 spotify_data:
   followers: 137020
   id: 6YB0tbDGk01Q0P6wcHPjpC
   popularity: 39
-  url: https://open.spotify.com/artist/6YB0tbDGk01Q0P6wcHPjpC
+  url: 'https://open.spotify.com/artist/6YB0tbDGk01Q0P6wcHPjpC'
 status: active
 title: Bob Weir
+origin: 'San Francisco Bay Area, California, United States'
+birth_date: '1947-10-16'
 ---
 
 ![](bob_weir.jpg)

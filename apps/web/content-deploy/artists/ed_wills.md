@@ -3,13 +3,13 @@ title: Ed Wills
 wiki_slug: ed-wills
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, USA'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ed_wills.jpg
   caption: Ed Wills
   background: solo_singer
-  origin: New Orleans, Louisiana, USA
+  origin: 'New Orleans, Louisiana, USA'
 audio_profile:
   tempo_avg: 115.9
   energy_avg: 0.57
@@ -25,46 +25,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Wilson Victorian (Bayou Renegades)
-  - Blues 4 $ale
+    - Wilson Victorian (Bayou Renegades)
+    - Blues 4 $ale
   influenced:
-  - Local New Orleans blues musicians
+    - Local New Orleans blues musicians
   mentors:
-  - Aunt Cora
+    - Aunt Cora
 spotify_data:
   followers: 992
   id: 3ZFAyoWjxiVkKWids2UHdF
   popularity: 35
-  url: https://open.spotify.com/artist/3ZFAyoWjxiVkKWids2UHdF
+  url: 'https://open.spotify.com/artist/3ZFAyoWjxiVkKWids2UHdF'
 discography_enriched: true
 top_tracks:
-- Free This Feeling (Take Whatever)
-- What I Would Do (What I Would Do)
-- Brighter (The Way That You Move)
-- Landfall (Landfall)
-- My Number One (Straight Up)
-- Come Back Again (Come Back Again)
-- More Than Just a Fling (More Than Just a Fling)
-- Pull Me Closer (Pull Me Closer)
-- What in the World (Straight Up)
-- A One Way Ticket (The Way That You Move)
+  - Free This Feeling (Take Whatever)
+  - What I Would Do (What I Would Do)
+  - Brighter (The Way That You Move)
+  - Landfall (Landfall)
+  - My Number One (Straight Up)
+  - Come Back Again (Come Back Again)
+  - More Than Just a Fling (More Than Just a Fling)
+  - Pull Me Closer (Pull Me Closer)
+  - What in the World (Straight Up)
+  - A One Way Ticket (The Way That You Move)
 external_urls:
-  spotify: https://open.spotify.com/artist/3ZFAyoWjxiVkKWids2UHdF
+  spotify: 'https://open.spotify.com/artist/3ZFAyoWjxiVkKWids2UHdF'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/ed_wills.jpg
 biography_enhanced_at: '2025-11-04T10:56:32.078318'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://swampislandrecords.com/ed-wills
-- https://blues4sale.net/home
-- https://www.neworleans.com/listing/ed-wills-blues-4-sale/46379/
-- https://nolajazzmuseum.org/events/2023/3/14/ed-wills-blues-4-sale-live-from-the-jazz-museum-balcony
-- https://www.ebay.com/itm/226069333813
-- https://groundzerobiloxi.com/event-details/ed-wills-blues4-sale
+  - 'https://swampislandrecords.com/ed-wills'
+  - 'https://blues4sale.net/home'
+  - 'https://www.neworleans.com/listing/ed-wills-blues-4-sale/46379/'
+  - >-
+    https://nolajazzmuseum.org/events/2023/3/14/ed-wills-blues-4-sale-live-from-the-jazz-museum-balcony
+  - 'https://www.ebay.com/itm/226069333813'
+  - 'https://groundzerobiloxi.com/event-details/ed-wills-blues4-sale'
 network_extracted: true
 entry_created: '2025-11-04T10:56:32.078327'
 last_updated: '2025-12-23T08:16:08.138021'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](ed_wills.jpg)

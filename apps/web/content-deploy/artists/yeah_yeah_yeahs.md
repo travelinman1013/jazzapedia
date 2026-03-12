@@ -2,18 +2,18 @@
 title: Yeah Yeah Yeahs
 wiki_slug: yeah-yeah-yeahs
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '2000'
 genres:
-- indie rock
+  - indie rock
 instruments:
-- drums (drum set)
-- original
-- lead vocals
-- piano
-- guitar
-- keyboard
+  - drums (drum set)
+  - original
+  - lead vocals
+  - piano
+  - guitar
+  - keyboard
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/yeah_yeah_yeahs.jpg
   caption: Yeah Yeah Yeahs
@@ -34,89 +34,93 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Karen O (Karen Lee Orzolek)
-  - Nick Zinner
-  - Brian Chase
-  - David Pajo
-  - Imaad Wasif
+    - Karen O (Karen Lee Orzolek)
+    - Nick Zinner
+    - Brian Chase
+    - David Pajo
+    - Imaad Wasif
   influenced:
-  - Paramore
-  - Sleigh Bells
-  - St. Vincent (Annie Clark)
+    - Paramore
+    - Sleigh Bells
+    - St. Vincent (Annie Clark)
   mentors:
-  - Oberlin College avant-garde and art-punk scene
-  - New York City punk and art-rock legacy (e.g., Siouxsie and the Banshees, Blondie)
+    - Oberlin College avant-garde and art-punk scene
+    - >-
+      New York City punk and art-rock legacy (e.g., Siouxsie and the Banshees,
+      Blondie)
 spotify_data:
   followers: 1475085
   id: 3TNt4aUIxgfy9aoaft5Jj2
   popularity: 66
-  url: https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2
+  url: 'https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2'
 discography_enriched: true
 top_tracks:
-- Maps (Fever To Tell (Deluxe Remastered))
-- Spitting Off the Edge of the World (Cool It Down)
-- Heads Will Roll (It's Blitz!)
-- Heads Will Roll - A-Trak Remix Radio Edit
-- Heads Will Roll - A-Trak Remix
-- Heads Will Roll (It's Blitz! (Deluxe Edition))
-- Heads Will Roll - A-Trak Remix Radio Edit
-- Heads Will Roll - A-Trak Remix
-- Y Control (Fever To Tell (Deluxe Remastered))
-- Burning (Cool It Down)
+  - Maps (Fever To Tell (Deluxe Remastered))
+  - Spitting Off the Edge of the World (Cool It Down)
+  - Heads Will Roll (It's Blitz!)
+  - Heads Will Roll - A-Trak Remix Radio Edit
+  - Heads Will Roll - A-Trak Remix
+  - Heads Will Roll (It's Blitz! (Deluxe Edition))
+  - Heads Will Roll - A-Trak Remix Radio Edit
+  - Heads Will Roll - A-Trak Remix
+  - Y Control (Fever To Tell (Deluxe Remastered))
+  - Burning (Cool It Down)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/584c04d2-4acc-491b-8a0a-e63133f4bfc4
-  spotify: https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2
-  wikipedia: https://en.wikipedia.org/wiki/Yeah_Yeah_Yeahs
+  musicbrainz: 'https://musicbrainz.org/artist/584c04d2-4acc-491b-8a0a-e63133f4bfc4'
+  spotify: 'https://open.spotify.com/artist/3TNt4aUIxgfy9aoaft5Jj2'
+  wikipedia: 'https://en.wikipedia.org/wiki/Yeah_Yeah_Yeahs'
 image_path: 03_Resources/source_material/ArtistPortraits/yeah_yeah_yeahs.jpg
 biography_enhanced_at: '2025-10-30T12:07:02.145430'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://thebandindex.com/band/yeah-yeah-yeahs
-- https://americansongwriter.com/behind-the-new-york-city-inspired-band-name-yeah-yeah-yeahs/
-- https://www.udiscovermusic.com/artist/yeah-yeah-yeahs/
-- https://www.psaudio.com/blogs/copper/yeah-yeah-yeahs-big-apple-avant-punk
-- https://www.last.fm/music/Yeah+Yeah+Yeahs/+wiki
+  - 'https://thebandindex.com/band/yeah-yeah-yeahs'
+  - >-
+    https://americansongwriter.com/behind-the-new-york-city-inspired-band-name-yeah-yeah-yeahs/
+  - 'https://www.udiscovermusic.com/artist/yeah-yeah-yeahs/'
+  - 'https://www.psaudio.com/blogs/copper/yeah-yeah-yeahs-big-apple-avant-punk'
+  - 'https://www.last.fm/music/Yeah+Yeah+Yeahs/+wiki'
 network_extracted: true
 entry_created: '2025-10-30T12:07:02.145438'
 last_updated: '2025-12-23T08:16:18.329530'
 members:
-- &id001
-  begin: '2000'
-  end: ''
-  instruments:
-  - drums (drum set)
-  - original
-  mbid: a1439b8d-672a-446f-a7ff-6f09d68254b3
-  name: Brian Chase
-- &id002
-  begin: '2000'
-  end: ''
-  instruments:
-  - lead vocals
-  - original
-  - piano
-  mbid: 14d44067-99c2-4f77-b58b-138f0b6911fa
-  name: Karen O
-- &id003
-  begin: '2000'
-  end: ''
-  instruments:
-  - guitar
-  - keyboard
-  - original
-  mbid: 20dc35ec-6cc1-4c66-98a3-4a6116cb3869
-  name: Nick Zinner
+  - &ref_0
+    begin: '2000'
+    end: ''
+    instruments:
+      - drums (drum set)
+      - original
+    mbid: a1439b8d-672a-446f-a7ff-6f09d68254b3
+    name: Brian Chase
+  - &ref_1
+    begin: '2000'
+    end: ''
+    instruments:
+      - lead vocals
+      - original
+      - piano
+    mbid: 14d44067-99c2-4f77-b58b-138f0b6911fa
+    name: Karen O
+  - &ref_2
+    begin: '2000'
+    end: ''
+    instruments:
+      - guitar
+      - keyboard
+      - original
+    mbid: 20dc35ec-6cc1-4c66-98a3-4a6116cb3869
+    name: Nick Zinner
 musicbrainz_id: 584c04d2-4acc-491b-8a0a-e63133f4bfc4
-origin: New York
+origin: 'New York City, New York, United States'
 original_members:
-- *id001
-- *id002
-- *id003
+  - *ref_0
+  - *ref_1
+  - *ref_2
 tags:
-- alternative rock
-- garage rock
-- indie rock
+  - alternative rock
+  - garage rock
+  - indie rock
+birth_place: 'Oberlin, Ohio, United States'
 ---
 
 ![](yeah_yeah_yeahs.jpg)

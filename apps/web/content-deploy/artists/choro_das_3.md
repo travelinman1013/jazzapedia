@@ -1,108 +1,111 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-11T02:19:49.123119'
 birth_date: '2002'
 enhancement_provider: perplexity
 entry_created: '2026-01-11T02:19:49.123129'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/39fa0235-b600-4395-bc4f-8f4bbf0ce0da
-  spotify: https://open.spotify.com/artist/1R9bralfvALodIHiilzrIM
-  wikipedia: https://en.wikipedia.org/wiki/Choro_das_3
+  musicbrainz: 'https://musicbrainz.org/artist/39fa0235-b600-4395-bc4f-8f4bbf0ce0da'
+  spotify: 'https://open.spotify.com/artist/1R9bralfvALodIHiilzrIM'
+  wikipedia: 'https://en.wikipedia.org/wiki/Choro_das_3'
 genres:
-- brazilian jazz
+  - brazilian jazz
 image_path: 03_Resources/source_material/ArtistPortraits/choro_das_3.jpg
 instruments:
-- additional
-- piano
-- clarinet
-- lead vocals
-- accordion
-- banjo
-- mandolin
-last_updated: '2026-01-11T02:19:49.123131'
-members:
-- begin: ''
-  end: ''
-  instruments:
   - additional
   - piano
-  mbid: 7b2d9631-e331-4639-9b70-0bf2cdb0b393
-  name: Elisa Meyer Ferreira
-- begin: ''
-  end: ''
-  instruments:
-  - additional
   - clarinet
-  mbid: 7b2d9631-e331-4639-9b70-0bf2cdb0b393
-  name: Elisa Meyer Ferreira
-- begin: ''
-  end: ''
-  instruments:
-  - additional
   - lead vocals
-  mbid: 7b2d9631-e331-4639-9b70-0bf2cdb0b393
-  name: Elisa Meyer Ferreira
-- begin: ''
-  end: ''
-  instruments:
   - accordion
-  - additional
-  mbid: 7b2d9631-e331-4639-9b70-0bf2cdb0b393
-  name: Elisa Meyer Ferreira
-- begin: ''
-  end: ''
-  instruments:
-  - additional
   - banjo
-  mbid: 7b2d9631-e331-4639-9b70-0bf2cdb0b393
-  name: Elisa Meyer Ferreira
-- begin: ''
-  end: ''
-  instruments:
-  - additional
   - mandolin
-  mbid: 7b2d9631-e331-4639-9b70-0bf2cdb0b393
-  name: Elisa Meyer Ferreira
+last_updated: '2026-01-11T02:19:49.123131'
+members:
+  - begin: ''
+    end: ''
+    instruments:
+      - additional
+      - piano
+    mbid: 7b2d9631-e331-4639-9b70-0bf2cdb0b393
+    name: Elisa Meyer Ferreira
+  - begin: ''
+    end: ''
+    instruments:
+      - additional
+      - clarinet
+    mbid: 7b2d9631-e331-4639-9b70-0bf2cdb0b393
+    name: Elisa Meyer Ferreira
+  - begin: ''
+    end: ''
+    instruments:
+      - additional
+      - lead vocals
+    mbid: 7b2d9631-e331-4639-9b70-0bf2cdb0b393
+    name: Elisa Meyer Ferreira
+  - begin: ''
+    end: ''
+    instruments:
+      - accordion
+      - additional
+    mbid: 7b2d9631-e331-4639-9b70-0bf2cdb0b393
+    name: Elisa Meyer Ferreira
+  - begin: ''
+    end: ''
+    instruments:
+      - additional
+      - banjo
+    mbid: 7b2d9631-e331-4639-9b70-0bf2cdb0b393
+    name: Elisa Meyer Ferreira
+  - begin: ''
+    end: ''
+    instruments:
+      - additional
+      - mandolin
+    mbid: 7b2d9631-e331-4639-9b70-0bf2cdb0b393
+    name: Elisa Meyer Ferreira
 musical_connections:
   collaborators:
-  - Eduardo Roque da Silva Ferreira
-  - Adriano Andrade
-  - Ernesto Nazareth (repertory tribute)
-  - Chiquinha Gonzaga, Tia Amélia, Anacleto de Medeiros, Paulino Sacramento
-  - Paulo Costa (Pacco), Paulo Fasanaro, Pacheco, Gallani, Arnaldinho, Zé Barbeiro,
-    Fernando Brandão
-  - Arnaldinho, José V. de Aragão, Pacheco, Ângelo Mauro, Renato Cardoso, Rosa Garbim,
-    Diego Garbim
-  - Pacheco, Paulo Fasanaro, Fernando Brandão
+    - Eduardo Roque da Silva Ferreira
+    - Adriano Andrade
+    - Ernesto Nazareth (repertory tribute)
+    - 'Chiquinha Gonzaga, Tia Amélia, Anacleto de Medeiros, Paulino Sacramento'
+    - >-
+      Paulo Costa (Pacco), Paulo Fasanaro, Pacheco, Gallani, Arnaldinho, Zé
+      Barbeiro, Fernando Brandão
+    - >-
+      Arnaldinho, José V. de Aragão, Pacheco, Ângelo Mauro, Renato Cardoso, Rosa
+      Garbim, Diego Garbim
+    - 'Pacheco, Paulo Fasanaro, Fernando Brandão'
   influenced:
-  - ''
+    - ''
   mentors:
-  - Altamiro Carrilho
-  - Unnamed volunteer music teacher in Porto Feliz public school
+    - Altamiro Carrilho
+    - Unnamed volunteer music teacher in Porto Feliz public school
 musicbrainz_id: 39fa0235-b600-4395-bc4f-8f4bbf0ce0da
 network_extracted: true
-origin: São Paulo
+origin: 'São Paulo, São Paulo, Brazil'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Choro_das_3
-- https://www.chorodas3.com/bio
-- https://www.chorodas3.com
-- https://montanafolkfestival.com/choro-das-3/
-- https://artsgarage.org/event/choro-das-3/
-- https://migf.fiu.edu/2022/portfolio/choro-das-tres/
-- https://www.passim.org/artist-category/choro/
-- https://www.connectbrazil.com/explaining-choro-and-pixinguinha/
+  - 'https://en.wikipedia.org/wiki/Choro_das_3'
+  - 'https://www.chorodas3.com/bio'
+  - 'https://www.chorodas3.com'
+  - 'https://montanafolkfestival.com/choro-das-3/'
+  - 'https://artsgarage.org/event/choro-das-3/'
+  - 'https://migf.fiu.edu/2022/portfolio/choro-das-tres/'
+  - 'https://www.passim.org/artist-category/choro/'
+  - 'https://www.connectbrazil.com/explaining-choro-and-pixinguinha/'
 spotify_data:
   followers: 11143
   id: 1R9bralfvALodIHiilzrIM
   popularity: 22
-  url: https://open.spotify.com/artist/1R9bralfvALodIHiilzrIM
+  url: 'https://open.spotify.com/artist/1R9bralfvALodIHiilzrIM'
 status: active
 tags:
-- brazilian
-- chorinho
-- choro
+  - brazilian
+  - chorinho
+  - choro
 title: Choro Das 3
+birth_place: 'Porto Feliz, São Paulo, Brazil'
 ---
 
 ![](choro_das_3.jpg)

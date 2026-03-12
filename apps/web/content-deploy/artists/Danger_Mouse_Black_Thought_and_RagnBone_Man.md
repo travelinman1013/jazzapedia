@@ -1,13 +1,14 @@
 ---
-title: Danger Mouse, Black Thought & Rag'n'Bone Man
+title: 'Danger Mouse, Black Thought & Rag''n''Bone Man'
 wiki_slug: danger-mouse-black-thought-ragnbone-man
 schema_version: 2
 status: active
 genres:
-- east coast hip hop
+  - east coast hip hop
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/Danger_Mouse_Black_Thought_and_RagnBone_Man.jpg
-  caption: Danger Mouse, Black Thought & Rag'n'Bone Man
+  image: >-
+    03_Resources/source_material/ArtistPortraits/Danger_Mouse_Black_Thought_and_RagnBone_Man.jpg
+  caption: 'Danger Mouse, Black Thought & Rag''n''Bone Man'
   background: solo_singer
 audio_profile:
   tempo_avg: 109.7
@@ -24,53 +25,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Rag'n'Bone Man
-  - A$AP Rocky
-  - Run The Jewels
-  - Joey Bada$$
-  - Conway the Machine
-  - Kid Sister
-  - MF DOOM
-  - Michael Kiwanuka
-  - Raekwon
+    - Rag'n'Bone Man
+    - A$AP Rocky
+    - Run The Jewels
+    - Joey Bada$$
+    - Conway the Machine
+    - Kid Sister
+    - MF DOOM
+    - Michael Kiwanuka
+    - Raekwon
   influenced:
-  - Younger hip-hop producers and lyricists
+    - Younger hip-hop producers and lyricists
   mentors:
-  - Questlove
-  - MF DOOM
+    - Questlove
+    - MF DOOM
 spotify_data:
   followers: 286469
   id: 6DJEUXZm0e2rAohdoZ5Voo
   popularity: 53
-  url: https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo
+  url: 'https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo'
 discography_enriched: true
 top_tracks:
-- Belize (feat. MF DOOM) (Cheat Codes)
-- Crowns for Kings (Feat. Black Thought)
-- Yah Yah (feat. Royce Da 5'9", Black Thought, Q-Tip & Denaun) (Music To Be Murdered By)
-- Because (feat. Joey Bada$$, Russ, and Dylan Cartlidge) (Cheat Codes)
-- Aquamarine (feat. Michael Kiwanuka) (Cheat Codes)
-- Pimpa's Paradise (Welcome to Jamrock)
-- Strangers (feat. A$AP Rocky and Run The Jewels) (Cheat Codes)
-- The Darkest Part (feat. Raekwon and Kid Sister) (Cheat Codes)
-- Education (feat. Yasiin Bey & Black Thought) (Bandana)
-- Roman Candles (feat. Roc Marciano & Black Thought) (Bread)
+  - Belize (feat. MF DOOM) (Cheat Codes)
+  - Crowns for Kings (Feat. Black Thought)
+  - >-
+    Yah Yah (feat. Royce Da 5'9", Black Thought, Q-Tip & Denaun) (Music To Be
+    Murdered By)
+  - 'Because (feat. Joey Bada$$, Russ, and Dylan Cartlidge) (Cheat Codes)'
+  - Aquamarine (feat. Michael Kiwanuka) (Cheat Codes)
+  - Pimpa's Paradise (Welcome to Jamrock)
+  - Strangers (feat. A$AP Rocky and Run The Jewels) (Cheat Codes)
+  - The Darkest Part (feat. Raekwon and Kid Sister) (Cheat Codes)
+  - Education (feat. Yasiin Bey & Black Thought) (Bandana)
+  - Roman Candles (feat. Roc Marciano & Black Thought) (Bread)
 external_urls:
-  spotify: https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo
-  wikipedia: https://en.wikipedia.org/wiki/Cheat_Codes_(Danger_Mouse_and_Black_Thought_album)
-image_path: 03_Resources/source_material/ArtistPortraits/Danger_Mouse_Black_Thought_and_RagnBone_Man.jpg
+  spotify: 'https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo'
+  wikipedia: >-
+    https://en.wikipedia.org/wiki/Cheat_Codes_(Danger_Mouse_and_Black_Thought_album)
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/Danger_Mouse_Black_Thought_and_RagnBone_Man.jpg
 biography_enhanced_at: '2025-10-20T09:38:09.832032'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.nastylittleman.com/2025/10/08/danger-mouse-black-thought-up-with-ragnbone-man-out-now/
-- https://joyofviolentmovement.com/new-video-danger-mouse-and-black-thought-team-up-with-ragnbone-man-on-cinematic-and-soulful-up/
-- https://floodmagazine.com/208899/listen-danger-mouse-black-thought-ragnbone-man-up/
+  - >-
+    https://www.nastylittleman.com/2025/10/08/danger-mouse-black-thought-up-with-ragnbone-man-out-now/
+  - >-
+    https://joyofviolentmovement.com/new-video-danger-mouse-and-black-thought-team-up-with-ragnbone-man-on-cinematic-and-soulful-up/
+  - >-
+    https://floodmagazine.com/208899/listen-danger-mouse-black-thought-ragnbone-man-up/
 network_extracted: true
 entry_created: '2025-10-20T09:38:09.832046'
 last_updated: '2025-12-23T08:16:01.649330'
-origin: New York City, New York, USA (Black Thought); White Plains, New York, USA (Danger Mouse); Uckfield, East Sussex, England,
-  UK (Rag'n'Bone Man)
+origin: >-
+  New York City, New York, USA (Black Thought); White Plains, New York, USA
+  (Danger Mouse); Uckfield, East Sussex, England, UK (Rag'n'Bone Man)
+birth_place: 'New York City, New York, United States'
+artist_type: person
 ---
 
 ![](Danger_Mouse_Black_Thought_and_RagnBone_Man.jpg)

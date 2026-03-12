@@ -1,23 +1,23 @@
 ---
-title: arathejay
+title: Arathejay
 wiki_slug: arathejay
 schema_version: 2
 status: active
-birth_place: Sekondi, Western Region, Ghana
+birth_place: 'Sekondi, Western Region, Ghana'
 genres:
-- asakaa
-- hiplife
-- alté
-- afrobeats
-- afroswing
-- afro soul
-- afrobeat
-- afropop
+  - asakaa
+  - hiplife
+  - alté
+  - afrobeats
+  - afroswing
+  - afro soul
+  - afrobeat
+  - afropop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/arathejay.jpg
   caption: arathejay
   background: solo_singer
-  origin: Sekondi, Western Region, Ghana
+  origin: 'Sekondi, Western Region, Ghana'
 audio_profile:
   tempo_avg: 109.7
   energy_avg: 0.63
@@ -33,48 +33,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Nimo Constantine
+    - Nimo Constantine
   influenced:
-  - Emerging Ghanaian alté artists
+    - Emerging Ghanaian alté artists
   mentors:
-  - Ghanaian highlife elders
-  - Kenyan spiritual teachers
+    - Ghanaian highlife elders
+    - Kenyan spiritual teachers
 spotify_data:
   followers: 28538
   id: 2d8z61cS6XfaDDv5tbDOWN
   popularity: 50
-  url: https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN
+  url: 'https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN'
 discography_enriched: true
 top_tracks:
-- Jesus Christ 2
-- Mario (Remix) (Shakur (Deluxe))
-- Alhaji Popping
-- Fire
-- CHOSEN
-- MY BABY
-- WINE AND BLUES (NEW ROAD AND GUAVA TREES)
-- Grenade
-- 'C''est La Vie (Finding Nimo Series: The Capsule)'
-- Unruly (ReBourne)
+  - Jesus Christ 2
+  - Mario (Remix) (Shakur (Deluxe))
+  - Alhaji Popping
+  - Fire
+  - CHOSEN
+  - MY BABY
+  - WINE AND BLUES (NEW ROAD AND GUAVA TREES)
+  - Grenade
+  - 'C''est La Vie (Finding Nimo Series: The Capsule)'
+  - Unruly (ReBourne)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d271caaf-3cb3-45f8-9a09-342ca59482d0
-  spotify: https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN
+  musicbrainz: 'https://musicbrainz.org/artist/d271caaf-3cb3-45f8-9a09-342ca59482d0'
+  spotify: 'https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/arathejay.jpg
 biography_enhanced_at: '2025-11-16T20:20:29.205907'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.theechohouse.com/jesus-christ-hitmaker-arathejay-makes-his-self-discovery-through-finding-nemo/
-- https://theupperent.com/2024/07/30/interviewarathejay-a-peek-behind-his-alter-ego-nimo-constantine/
-- https://imullar.com/2024/07/29/finding-nimo-in-arathejays-world/
-- https://thenativemag.com/arathejay-wants-to-find-god/
-- https://imullar.com/2022/03/12/discovery-arathejay/
+  - >-
+    https://www.theechohouse.com/jesus-christ-hitmaker-arathejay-makes-his-self-discovery-through-finding-nemo/
+  - >-
+    https://theupperent.com/2024/07/30/interviewarathejay-a-peek-behind-his-alter-ego-nimo-constantine/
+  - 'https://imullar.com/2024/07/29/finding-nimo-in-arathejays-world/'
+  - 'https://thenativemag.com/arathejay-wants-to-find-god/'
+  - 'https://imullar.com/2022/03/12/discovery-arathejay/'
 network_extracted: true
 entry_created: '2025-11-16T20:20:29.205918'
 last_updated: '2025-12-23T08:16:04.881790'
 musicbrainz_id: d271caaf-3cb3-45f8-9a09-342ca59482d0
-
+artist_type: person
 ---
 
 ![](arathejay.jpg)

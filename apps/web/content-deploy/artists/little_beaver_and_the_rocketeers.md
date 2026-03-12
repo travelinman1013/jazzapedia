@@ -3,14 +3,15 @@ title: Little Beaver & The Rocketeers
 wiki_slug: little-beaver-the-rocketeers
 schema_version: 2
 status: active
-birth_place: Forrest City, Arkansas, United States
+birth_place: 'Forrest City, Arkansas, United States'
 genres:
-- soul
+  - soul
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/little_beaver_and_the_rocketeers.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/little_beaver_and_the_rocketeers.jpg
   caption: Little Beaver & The Rocketeers
   background: solo_singer
-  origin: Forrest City, Arkansas, United States
+  origin: 'Forrest City, Arkansas, United States'
 audio_profile:
   tempo_avg: 114.3
   energy_avg: 0.608
@@ -26,53 +27,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Frank Williams
-  - Betty Wright
-  - Benny Latimore
-  - Timmy Thomas
-  - Jaco Pastorius
-  - Chocolate Perry
+    - Frank Williams
+    - Betty Wright
+    - Benny Latimore
+    - Timmy Thomas
+    - Jaco Pastorius
+    - Chocolate Perry
   influenced:
-  - Joss Stone
-  - Jay-Z
+    - Joss Stone
+    - Jay-Z
   mentors:
-  - Willie Clarke
+    - Willie Clarke
 spotify_data:
   followers: 34531
   id: 6avpsZzjS5Yy9daHLBCYmn
   popularity: 41
-  url: https://open.spotify.com/artist/6avpsZzjS5Yy9daHLBCYmn
+  url: 'https://open.spotify.com/artist/6avpsZzjS5Yy9daHLBCYmn'
 discography_enriched: true
 top_tracks:
-- Momma Forgot To Tell Me (Katie Pearl)
-- I'm Losin' the Feelin (Joey)
-- Get into the Party Life (Party Down)
-- Party Down - Pt. 1 (Party Down)
-- I Love the Way You Love
-- Do Right Man (Katie Pearl)
-- Joey (Joey)
-- I Can Dig It Baby (Party Down)
-- Give Me a Helping Hand (Joey)
-- Let's Stay Together (Black Rhapsody (Instrumental))
+  - Momma Forgot To Tell Me (Katie Pearl)
+  - I'm Losin' the Feelin (Joey)
+  - Get into the Party Life (Party Down)
+  - Party Down - Pt. 1 (Party Down)
+  - I Love the Way You Love
+  - Do Right Man (Katie Pearl)
+  - Joey (Joey)
+  - I Can Dig It Baby (Party Down)
+  - Give Me a Helping Hand (Joey)
+  - Let's Stay Together (Black Rhapsody (Instrumental))
 external_urls:
-  spotify: https://open.spotify.com/artist/6avpsZzjS5Yy9daHLBCYmn
-  wikipedia: https://en.wikipedia.org/wiki/Willie_Hale
-image_path: 03_Resources/source_material/ArtistPortraits/little_beaver_and_the_rocketeers.jpg
+  spotify: 'https://open.spotify.com/artist/6avpsZzjS5Yy9daHLBCYmn'
+  wikipedia: 'https://en.wikipedia.org/wiki/Willie_Hale'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/little_beaver_and_the_rocketeers.jpg
 biography_enhanced_at: '2025-10-31T08:16:37.043085'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://wbssmedia.com/artists/detail/1908
-- https://recentmusic.com/artist/6avpsZzjS5Yy9daHLBCYmn/
-- https://en.wikipedia.org/wiki/Willie_Hale
-- https://substack.com/home/post/p-144893576
-- http://www.soulwalking.co.uk/Little%20Beaver.html
-- https://www.allmusic.com/artist/little-beaver-mn0000837302
-- https://peel.fandom.com/wiki/Little_Beaver
-- https://www.roughtrade.com/artist/little-beaver
+  - 'https://wbssmedia.com/artists/detail/1908'
+  - 'https://recentmusic.com/artist/6avpsZzjS5Yy9daHLBCYmn/'
+  - 'https://en.wikipedia.org/wiki/Willie_Hale'
+  - 'https://substack.com/home/post/p-144893576'
+  - 'http://www.soulwalking.co.uk/Little%20Beaver.html'
+  - 'https://www.allmusic.com/artist/little-beaver-mn0000837302'
+  - 'https://peel.fandom.com/wiki/Little_Beaver'
+  - 'https://www.roughtrade.com/artist/little-beaver'
 network_extracted: true
 entry_created: '2025-10-31T08:16:37.043094'
 last_updated: '2025-12-23T08:16:11.989643'
+birth_date: '1945-08-15'
+artist_type: person
 ---
 
 ![](little_beaver_and_the_rocketeers.jpg)

@@ -4,11 +4,12 @@ wiki_slug: el-gran-combo-de-puerto-rico
 schema_version: 2
 status: active
 genres:
-- salsa
-- salsa romantica
-- merengue
+  - salsa
+  - salsa romantica
+  - merengue
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/el_gran_combo_de_puerto_rico.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/el_gran_combo_de_puerto_rico.jpg
   caption: El Gran Combo de Puerto Rico
   background: solo_singer
 audio_profile:
@@ -26,54 +27,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Joselito Mateo
-  - Andy Montañez
-  - Roberto Roena
-  - Jerry Rivas
-  - Pellín Rodríguez
+    - Joselito Mateo
+    - Andy Montañez
+    - Roberto Roena
+    - Jerry Rivas
+    - Pellín Rodríguez
   influenced:
-  - Roberto Roena
-  - Andy Montañez
+    - Roberto Roena
+    - Andy Montañez
   mentors:
-  - Rafael Cortijo
-  - Rafael Álvarez Guedes
+    - Rafael Cortijo
+    - Rafael Álvarez Guedes
 spotify_data:
   followers: 1944439
   id: 6nnspeopmJAG07xOxHmqTu
   popularity: 66
-  url: https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu
+  url: 'https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu'
 discography_enriched: true
 top_tracks:
-- Brujeria (Aqui No Se Sienta Nadie!)
-- Ojos Chinos (20th Anniversary)
-- Un verano en Nueva York (Numero 7)
-- Me Liberé (Nuevo Milenio - El Mismo Sabor)
-- Y No Hago Mas Na' (La Universidad de La Salsa)
-- Trampolín (Nuestro Aniversario)
-- Aguacero (¡Amame!)
-- Azuquita Pa'l Cafe (25th Anniversary)
-- Amame (¡Amame!)
-- Esos Ojitos Negros (25th Anniversary)
+  - Brujeria (Aqui No Se Sienta Nadie!)
+  - Ojos Chinos (20th Anniversary)
+  - Un verano en Nueva York (Numero 7)
+  - Me Liberé (Nuevo Milenio - El Mismo Sabor)
+  - Y No Hago Mas Na' (La Universidad de La Salsa)
+  - Trampolín (Nuestro Aniversario)
+  - Aguacero (¡Amame!)
+  - Azuquita Pa'l Cafe (25th Anniversary)
+  - Amame (¡Amame!)
+  - Esos Ojitos Negros (25th Anniversary)
 external_urls:
-  spotify: https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu
-  wikipedia: https://en.wikipedia.org/wiki/El_Gran_Combo_de_Puerto_Rico
+  spotify: 'https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu'
+  wikipedia: 'https://en.wikipedia.org/wiki/El_Gran_Combo_de_Puerto_Rico'
 image_path: 03_Resources/source_material/ArtistPortraits/el_gran_combo_de_puerto_rico.jpg
 biography_enhanced_at: '2025-12-14T01:46:02.141425'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://www.salsablvd.com/biographies/el-gran-combo.htm
-- https://en.wikipedia.org/wiki/El_Gran_Combo_de_Puerto_Rico
-- https://www.last.fm/music/El+Gran+Combo/+wiki
-- https://latinastereo.com/en/el-gran-combo-de-puerto-rico-the-boricua-institution-that-connects-puerto-rico-and-colombia/
-- https://latinomusiccafe.com/2017/04/12/history-el-gran-combo-introduction/
-- https://es.wikipedia.org/wiki/El_Gran_Combo_de_Puerto_Rico
-- https://www.grancombodepuertorico.com/biografia
+  - 'http://www.salsablvd.com/biographies/el-gran-combo.htm'
+  - 'https://en.wikipedia.org/wiki/El_Gran_Combo_de_Puerto_Rico'
+  - 'https://www.last.fm/music/El+Gran+Combo/+wiki'
+  - >-
+    https://latinastereo.com/en/el-gran-combo-de-puerto-rico-the-boricua-institution-that-connects-puerto-rico-and-colombia/
+  - 'https://latinomusiccafe.com/2017/04/12/history-el-gran-combo-introduction/'
+  - 'https://es.wikipedia.org/wiki/El_Gran_Combo_de_Puerto_Rico'
+  - 'https://www.grancombodepuertorico.com/biografia'
 network_extracted: true
 entry_created: '2025-12-14T01:46:02.141441'
 last_updated: '2025-12-23T08:16:08.269771'
-origin: San Juan, Puerto Rico
-
+origin: 'San Juan, Puerto Rico, United States'
+artist_type: band
 ---
 
 ![](el_gran_combo_de_puerto_rico.jpg)

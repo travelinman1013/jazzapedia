@@ -1,25 +1,25 @@
 ---
-title: big walter
+title: Big Walter
 wiki_slug: big-walter
 schema_version: 2
 status: active
-birth_place: Horn Lake, Mississippi, USA
+birth_place: 'Horn Lake, Mississippi, USA'
 genres:
-- blues
-- classic blues
+  - blues
+  - classic blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/big_walter.jpg
   caption: big walter
   background: solo_singer
-  origin: Horn Lake, Mississippi, USA
+  origin: 'Horn Lake, Mississippi, USA'
 audio_profile:
-  tempo_avg: 125.0
+  tempo_avg: 125
   energy_avg: 0.456
   valence_avg: 0.693
   danceability_avg: 0.533
   acousticness_avg: 0.714
   instrumentalness_avg: 0.326
-  loudness_avg: -12.0
+  loudness_avg: -12
   speechiness_avg: 0.069
   liveness_avg: 0.216
   track_count: 73
@@ -27,51 +27,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Muddy Waters
-  - Jimmy Rogers
-  - Willie Dixon
-  - Johnny Shines
-  - Fleetwood Mac
+    - Muddy Waters
+    - Jimmy Rogers
+    - Willie Dixon
+    - Johnny Shines
+    - Fleetwood Mac
   influenced:
-  - Little Walter
-  - Sonny Boy Williamson II
-  - Countless modern harmonica players
+    - Little Walter
+    - Sonny Boy Williamson II
+    - Countless modern harmonica players
   mentors:
-  - Jack Kelly
-  - Garfield Akers
+    - Jack Kelly
+    - Garfield Akers
 spotify_data:
   followers: 35538
   id: 7ApWhtmpJkPyd5WjwDdDfX
   popularity: 32
-  url: https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX
+  url: 'https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX'
 discography_enriched: true
 top_tracks:
-- Little Boy Blue (Big Walter Horton With Carey Bell)
-- Have A Good Time (Big Walter Horton With Carey Bell)
-- Lovin' My Baby (Big Walter Horton With Carey Bell)
-- Tell Me Baby (Big Walter Horton With Carey Bell)
-- That Ain't It (Big Walter Horton With Carey Bell)
-- Can't Hold Out Much Longer (Big Walter Horton With Carey Bell)
-- Under The Sun (Big Walter Horton With Carey Bell)
-- Have Mercy (Big Walter Horton With Carey Bell)
-- Christine (Big Walter Horton With Carey Bell)
-- Trouble In Mind (Big Walter Horton With Carey Bell)
+  - Little Boy Blue (Big Walter Horton With Carey Bell)
+  - Have A Good Time (Big Walter Horton With Carey Bell)
+  - Lovin' My Baby (Big Walter Horton With Carey Bell)
+  - Tell Me Baby (Big Walter Horton With Carey Bell)
+  - That Ain't It (Big Walter Horton With Carey Bell)
+  - Can't Hold Out Much Longer (Big Walter Horton With Carey Bell)
+  - Under The Sun (Big Walter Horton With Carey Bell)
+  - Have Mercy (Big Walter Horton With Carey Bell)
+  - Christine (Big Walter Horton With Carey Bell)
+  - Trouble In Mind (Big Walter Horton With Carey Bell)
 external_urls:
-  spotify: https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX
-  wikipedia: https://en.wikipedia.org/wiki/Big_Walter_Horton
+  spotify: 'https://open.spotify.com/artist/7ApWhtmpJkPyd5WjwDdDfX'
+  wikipedia: 'https://en.wikipedia.org/wiki/Big_Walter_Horton'
 image_path: 03_Resources/source_material/ArtistPortraits/big_walter.jpg
 biography_enhanced_at: '2025-10-29T16:54:56.039738'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://mojohand.com/glossary/big-walter-horton/
-- https://earwigmusic.com/earwig-artists/big-walter-horton/
-- https://msbluestrail.org/blues-trail-markers/big-walter-horton
-- https://blues.org/blues_hof_inductee/big-walter-horton/
-- https://www.bluesharp.ca/legends/bwalter.html
+  - 'https://mojohand.com/glossary/big-walter-horton/'
+  - 'https://earwigmusic.com/earwig-artists/big-walter-horton/'
+  - 'https://msbluestrail.org/blues-trail-markers/big-walter-horton'
+  - 'https://blues.org/blues_hof_inductee/big-walter-horton/'
+  - 'https://www.bluesharp.ca/legends/bwalter.html'
 network_extracted: true
 entry_created: '2025-10-29T16:54:56.039749'
 last_updated: '2025-12-23T08:16:05.480776'
+origin: 'Chicago, Illinois, United States'
+artist_type: person
 ---
 
 ![](big_walter.jpg)

@@ -5,10 +5,10 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1992-11-22'
-birth_place: Ozark
+birth_place: 'Ozark, Arkansas, United States'
 genres:
-- folk punk
-- folk
+  - folk punk
+  - folk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jesse_welles.jpg
   caption: Jesse Welles
@@ -21,7 +21,7 @@ audio_profile:
   valence_avg: 0.663
   danceability_avg: 0.629
   acousticness_avg: 0.64
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -10.3
   speechiness_avg: 0.051
   liveness_avg: 0.159
@@ -30,50 +30,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dead Indian
-  - Cosmic Americana
-  - Royal Blood
-  - Highly Suspect
-  - Greta Van Fleet
-  - Dead Sara
+    - Dead Indian
+    - Cosmic Americana
+    - Royal Blood
+    - Highly Suspect
+    - Greta Van Fleet
+    - Dead Sara
   influenced:
-  - Emerging folk and folk punk artists
+    - Emerging folk and folk punk artists
   mentors:
-  - Woody Guthrie
-  - Bob Dylan
-  - Dave Cobb
+    - Woody Guthrie
+    - Bob Dylan
+    - Dave Cobb
 spotify_data:
   followers: 347608
   id: 366xgdzfRGQoiDRGidGlDJ
   popularity: 55
-  url: https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ
+  url: 'https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ'
 discography_enriched: true
 top_tracks:
-- United Health (United Health)
-- War Isn't Murder (Hells Welles)
-- Have You Ever Seen The Rain (feat. Mt. Joy) (Have You Ever Seen The Rain (feat. Mt. Joy))
-- Bugs (Bugs)
-- The Poor (The Poor)
-- Walmart (Patchwork)
-- Horses (Middle)
-- Wheel (Middle)
-- Whistle Boeing (Hells Welles)
-- Philanthropist (feat. Billy Strings) (Pilgrim)
+  - United Health (United Health)
+  - War Isn't Murder (Hells Welles)
+  - >-
+    Have You Ever Seen The Rain (feat. Mt. Joy) (Have You Ever Seen The Rain
+    (feat. Mt. Joy))
+  - Bugs (Bugs)
+  - The Poor (The Poor)
+  - Walmart (Patchwork)
+  - Horses (Middle)
+  - Wheel (Middle)
+  - Whistle Boeing (Hells Welles)
+  - Philanthropist (feat. Billy Strings) (Pilgrim)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7c6eca15-4e98-4016-95cd-a238d840bca1
-  spotify: https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ
+  musicbrainz: 'https://musicbrainz.org/artist/7c6eca15-4e98-4016-95cd-a238d840bca1'
+  spotify: 'https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/jesse_welles.jpg
 biography_enhanced_at: '2025-11-24T08:32:20.030590'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://first-avenue.com/performer/welles/
-- https://savingcountrymusic.com/jesse-welles-the-voice-of-americas-guilty-conscience/
-- https://www.highroadtouring.com/artists/jesse-welles/
-- https://acousticguitar.com/meet-jesse-welles-fiery-folksinger-on-the-rise/
-- https://www.jeffreypepperrodgers.com/blog/jesse-welles-interview
-- https://www.openculture.com/?p=1122206
+  - 'https://first-avenue.com/performer/welles/'
+  - >-
+    https://savingcountrymusic.com/jesse-welles-the-voice-of-americas-guilty-conscience/
+  - 'https://www.highroadtouring.com/artists/jesse-welles/'
+  - 'https://acousticguitar.com/meet-jesse-welles-fiery-folksinger-on-the-rise/'
+  - 'https://www.jeffreypepperrodgers.com/blog/jesse-welles-interview'
+  - 'https://www.openculture.com/?p=1122206'
 network_extracted: true
 entry_created: '2025-11-24T08:32:20.030602'
 last_updated: '2025-12-23T08:16:10.380710'

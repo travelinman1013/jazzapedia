@@ -1,21 +1,22 @@
 ---
 biography_enhanced_at: '2025-12-28T01:57:42.299764'
-birth_place: Sekondi, Ghana
+birth_place: 'Sekondi, Ghana, Ghana'
 enhancement_provider: perplexity
 entry_created: '2025-12-28T01:57:42.299773'
 external_urls:
-  spotify: https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN
+  spotify: 'https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN'
   wikipedia: ''
 genres:
-- asakaa
-- hiplife
-- alté
-- afrobeats
-- afroswing
-- afro soul
-- afrobeat
-- afropop
-image_path: 03_Resources/source_material/ArtistPortraits/ghanaian_stallion_and_arathejay.jpg
+  - asakaa
+  - hiplife
+  - alté
+  - afrobeats
+  - afroswing
+  - afro soul
+  - afrobeat
+  - afropop
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/ghanaian_stallion_and_arathejay.jpg
 last_updated: '2025-12-28T01:57:42.299775'
 musical_connections:
   collaborators: []
@@ -24,17 +25,18 @@ musical_connections:
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://imullar.com/2024/07/29/finding-nimo-in-arathejays-world/[1]
-- https://thenativemag.com/arathejay-wants-to-find-god/[2]
-- https://www.theechohouse.com/jesus-christ-hitmaker-arathejay-makes-his-self-discovery-through-finding-nemo/[3]
+  - 'https://imullar.com/2024/07/29/finding-nimo-in-arathejays-world/[1]'
+  - 'https://thenativemag.com/arathejay-wants-to-find-god/[2]'
+  - >-
+    https://www.theechohouse.com/jesus-christ-hitmaker-arathejay-makes-his-self-discovery-through-finding-nemo/[3]
 spotify_data:
   followers: 31179
   id: 2d8z61cS6XfaDDv5tbDOWN
   popularity: 50
-  url: https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN
+  url: 'https://open.spotify.com/artist/2d8z61cS6XfaDDv5tbDOWN'
 status: active
-title: ghanaian stallion & arathejay
-
+title: Ghanaian Stallion & Arathejay
+artist_type: band
 ---
 
 ![](ghanaian_stallion_and_arathejay.jpg)

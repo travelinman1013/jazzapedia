@@ -1,29 +1,29 @@
 ---
-title: jerry jeff walker
+title: Jerry Jeff Walker
 wiki_slug: jerry-jeff-walker
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1942-03-16'
-birth_place: Oneonta
+birth_place: 'Oneonta, New York, United States'
 death_date: '2020-10-23'
 genres:
-- texas country
-- red dirt
-- country rock
-- americana
+  - texas country
+  - red dirt
+  - country rock
+  - americana
 instruments:
-- original
-- guitar
-- acoustic guitar
-- background vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - original
-  mbid: 0329e9e6-da88-4ce2-880d-7186a9f7181b
-  name: Circus Maximus
+  - guitar
+  - acoustic guitar
+  - background vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 0329e9e6-da88-4ce2-880d-7186a9f7181b
+    name: Circus Maximus
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jerry_jeff_walker.jpg
   caption: jerry jeff walker
@@ -46,62 +46,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - David Bromberg
-  - Bob Bruno
-  - Gary P. Nunn
-  - Ray Wylie Hubbard
-  - Michael Martin Murphey
+    - David Bromberg
+    - Bob Bruno
+    - Gary P. Nunn
+    - Ray Wylie Hubbard
+    - Michael Martin Murphey
   influenced:
-  - Willie Nelson
-  - Waylon Jennings
-  - Guy Clark
-  - Ray Benson (Asleep at the Wheel)
+    - Willie Nelson
+    - Waylon Jennings
+    - Guy Clark
+    - Ray Benson (Asleep at the Wheel)
   mentors:
-  - Woody Guthrie
-  - Ramblin' Jack Elliott
-  - Bob Dylan
+    - Woody Guthrie
+    - Ramblin' Jack Elliott
+    - Bob Dylan
 spotify_data:
   followers: 141885
   id: 763opp15PhfHpEaiVjM6m7
   popularity: 41
-  url: https://open.spotify.com/artist/763opp15PhfHpEaiVjM6m7
+  url: 'https://open.spotify.com/artist/763opp15PhfHpEaiVjM6m7'
 discography_enriched: true
 top_tracks:
-- Mr. Bojangles (Mr. Bojangles)
-- About Her Eyes (Five Years Gone)
-- Pissin' In The Wind (Ridin' High)
-- Sangria Wine (Viva Terlingua)
-- Up Against The Wall, Red Neck (Viva Terlingua)
-- Gettin' By (Viva Terlingua)
-- London Homesick Blues (Viva Terlingua)
-- L.A. Freeway - Live In New York, 1972 (Jerry Jeff Walker (Live))
-- Cosmic Cowboy (Austinology - Alleys of Austin)
-- Northeast Texas Woman (Too Old To Change)
+  - Mr. Bojangles (Mr. Bojangles)
+  - About Her Eyes (Five Years Gone)
+  - Pissin' In The Wind (Ridin' High)
+  - Sangria Wine (Viva Terlingua)
+  - 'Up Against The Wall, Red Neck (Viva Terlingua)'
+  - Gettin' By (Viva Terlingua)
+  - London Homesick Blues (Viva Terlingua)
+  - 'L.A. Freeway - Live In New York, 1972 (Jerry Jeff Walker (Live))'
+  - Cosmic Cowboy (Austinology - Alleys of Austin)
+  - Northeast Texas Woman (Too Old To Change)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3faa019a-ad91-4ddf-87d5-fdcbdfd8327c
-  spotify: https://open.spotify.com/artist/763opp15PhfHpEaiVjM6m7
-  wikipedia: https://en.wikipedia.org/wiki/Jerry_Jeff_Walker
+  musicbrainz: 'https://musicbrainz.org/artist/3faa019a-ad91-4ddf-87d5-fdcbdfd8327c'
+  spotify: 'https://open.spotify.com/artist/763opp15PhfHpEaiVjM6m7'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jerry_Jeff_Walker'
 image_path: 03_Resources/source_material/ArtistPortraits/jerry_jeff_walker.jpg
 biography_enhanced_at: '2025-11-04T11:08:15.331806'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- KUT (kut.org)[1]
-- Last.fm (last.fm)[2]
-- Saving Country Music (savingcountrymusic.com)[3]
-- Lone Star Music Magazine (lonestarmusicmagazine.com)[4]
-- Texas Monthly (texasmonthly.com)[5]
-- iHeart (iheart.com)[6]
+  - 'KUT (kut.org)[1]'
+  - 'Last.fm (last.fm)[2]'
+  - 'Saving Country Music (savingcountrymusic.com)[3]'
+  - 'Lone Star Music Magazine (lonestarmusicmagazine.com)[4]'
+  - 'Texas Monthly (texasmonthly.com)[5]'
+  - 'iHeart (iheart.com)[6]'
 network_extracted: true
 entry_created: '2025-11-04T11:08:15.331817'
 last_updated: '2025-12-23T08:16:10.352599'
 gender: Male
 musicbrainz_id: 3faa019a-ad91-4ddf-87d5-fdcbdfd8327c
 tags:
-- 2008 universal fire victim
-- country
-- folk
-
+  - 2008 universal fire victim
+  - country
+  - folk
+is_active: false
+origin: 'Austin, Texas, United States'
 ---
 
 ![](jerry_jeff_walker.jpg)

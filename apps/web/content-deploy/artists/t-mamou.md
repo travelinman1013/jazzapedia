@@ -4,36 +4,35 @@ biography_enhanced_at: '2026-01-12T01:56:45.024417'
 enhancement_provider: perplexity
 entry_created: '2026-01-12T01:56:45.024423'
 external_urls:
-  spotify: https://open.spotify.com/artist/4f6XwTrkJlI4ud1nc4r5dN
+  spotify: 'https://open.spotify.com/artist/4f6XwTrkJlI4ud1nc4r5dN'
   wikipedia: ''
 genres:
-- children's music
-- hymns
+  - children's music
+  - hymns
 image_path: 03_Resources/source_material/ArtistPortraits/t-mamou.jpg
 is_active: true
 last_updated: '2026-01-12T01:56:45.024424'
 musical_connections:
   collaborators:
-  - Al Berard
-  - Bob Reed
-  - Sam Broussard
+    - Al Berard
+    - Bob Reed
+    - Sam Broussard
   influenced: []
   mentors: []
 network_extracted: true
-origin: Mamou region, Louisiana, United States (Cajun project named for and stylistically
-  rooted in this area)
+origin: 'Mamou, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://flattownmusic.com/artist/t-mamou/
-- https://flattownmusic.com/artist/page/4/
-- https://open.spotify.com/artist/2uZoXUcwvwT9VZpOldv7Bz
-- https://www.mamouplayboys.com/biography/
-- https://www.explorelouisiana.com/cities/mamou
+  - 'https://flattownmusic.com/artist/t-mamou/'
+  - 'https://flattownmusic.com/artist/page/4/'
+  - 'https://open.spotify.com/artist/2uZoXUcwvwT9VZpOldv7Bz'
+  - 'https://www.mamouplayboys.com/biography/'
+  - 'https://www.explorelouisiana.com/cities/mamou'
 spotify_data:
   followers: 13092
   id: 4f6XwTrkJlI4ud1nc4r5dN
   popularity: 35
-  url: https://open.spotify.com/artist/4f6XwTrkJlI4ud1nc4r5dN
+  url: 'https://open.spotify.com/artist/4f6XwTrkJlI4ud1nc4r5dN'
 status: active
 title: T-Mamou
 ---

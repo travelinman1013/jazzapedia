@@ -1,70 +1,72 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a2dfd381-7ec6-4fa9-b5a1-ad732c7477e0
-  name: The Conspirators
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a2dfd381-7ec6-4fa9-b5a1-ad732c7477e0
+    name: The Conspirators
 biography_enhanced_at: '2026-01-05T07:55:48.099715'
 birth_date: '1941-01-09'
-birth_place: Staten Island
+birth_place: 'Staten Island, New York, United States'
 disambiguation: US folk singer
 enhancement_provider: perplexity
 entry_created: '2026-01-05T07:55:48.099723'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/92d37892-6186-4459-9cc1-f0dde57652d0
-  spotify: https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm
-  wikipedia: https://en.wikipedia.org/wiki/Joan_Baez
+  musicbrainz: 'https://musicbrainz.org/artist/92d37892-6186-4459-9cc1-f0dde57652d0'
+  spotify: 'https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm'
+  wikipedia: 'https://en.wikipedia.org/wiki/Joan_Baez'
 gender: Female
 genres:
-- folk
-- folk rock
-- singer-songwriter
+  - folk
+  - folk rock
+  - singer-songwriter
 image_path: 03_Resources/source_material/ArtistPortraits/joan_baez.jpg
 instruments:
-- acoustic guitar
-- guitar
-- piano
-- lead vocals
-- spoken vocals
+  - acoustic guitar
+  - guitar
+  - piano
+  - lead vocals
+  - spoken vocals
 last_updated: '2026-01-05T07:55:48.099724'
 musical_connections:
   collaborators:
-  - Bob Dylan
-  - Bill Wood
-  - Ted Alevizos
+    - Bob Dylan
+    - Bill Wood
+    - Ted Alevizos
   influenced:
-  - The Animals
-  - The Byrds
-  - Led Zeppelin
-  - Grateful Dead
+    - The Animals
+    - The Byrds
+    - Led Zeppelin
+    - Grateful Dead
   mentors:
-  - Pete Seeger
-  - Odetta
-  - Harry Belafonte
-  - Bob Gibson
+    - Pete Seeger
+    - Odetta
+    - Harry Belafonte
+    - Bob Gibson
 musicbrainz_id: 92d37892-6186-4459-9cc1-f0dde57652d0
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.britannica.com/biography/Joan-Baez
-- http://www.joanbaez.com/bio/
-- https://teachrock.org/people/baez-joan/
-- https://en.wikipedia.org/wiki/Joan_Baez
-- https://www.bethelwoodscenter.org/news/detail/joan-baez-50-years-of-peace-music
-- https://www.imdb.com/name/nm0001926/bio/
-- https://www.villagepreservation.org/2023/01/09/joan-baez-the-queen-of-folk-merges-music-and-social-justice/
+  - 'https://www.britannica.com/biography/Joan-Baez'
+  - 'http://www.joanbaez.com/bio/'
+  - 'https://teachrock.org/people/baez-joan/'
+  - 'https://en.wikipedia.org/wiki/Joan_Baez'
+  - >-
+    https://www.bethelwoodscenter.org/news/detail/joan-baez-50-years-of-peace-music
+  - 'https://www.imdb.com/name/nm0001926/bio/'
+  - >-
+    https://www.villagepreservation.org/2023/01/09/joan-baez-the-queen-of-folk-merges-music-and-social-justice/
 spotify_data:
   followers: 846444
   id: 1EevBGfUh3RSQSGpluxgBm
   popularity: 60
-  url: https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm
+  url: 'https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm'
 status: active
 tags:
-- 2008 universal fire victim
-- acoustic
-- american
+  - 2008 universal fire victim
+  - acoustic
+  - american
 title: Joan Baez
 ---
 

@@ -1,54 +1,60 @@
 ---
 biography_enhanced_at: '2026-01-19T01:05:30.856060'
-birth_place: Ford Town, Sullivan County, Tennessee, United States
+birth_place: 'Ford Town, Sullivan County, Tennessee, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-19T01:05:30.856067'
 external_urls:
-  spotify: https://open.spotify.com/artist/53ODrbz9dJiAZ6ikXa8l3F
-  wikipedia: https://en.wikipedia.org/wiki/Doyle_Lawson
+  spotify: 'https://open.spotify.com/artist/53ODrbz9dJiAZ6ikXa8l3F'
+  wikipedia: 'https://en.wikipedia.org/wiki/Doyle_Lawson'
 genres:
-- christian bluegrass
-- bluegrass
-- southern gospel
-- country christian
-- newgrass
-- gospel
+  - christian bluegrass
+  - bluegrass
+  - southern gospel
+  - country christian
+  - newgrass
+  - gospel
 image_path: 03_Resources/source_material/ArtistPortraits/doyle_lawson.jpg
 last_updated: '2026-01-19T01:05:30.856068'
 musical_connections:
   collaborators:
-  - Terry Baucom
-  - Jimmy Haley
-  - Lou Reid
-  - Charlie Waller
-  - Red Allen
-  - Jerry Douglas
-  - Ricky Skaggs
+    - Terry Baucom
+    - Jimmy Haley
+    - Lou Reid
+    - Charlie Waller
+    - Red Allen
+    - Jerry Douglas
+    - Ricky Skaggs
   influenced:
-  - Multiple former Quicksilver members
+    - Multiple former Quicksilver members
   mentors:
-  - Jimmy Martin
-  - J.D. Crowe
-  - Bill Emerson
+    - Jimmy Martin
+    - J.D. Crowe
+    - Bill Emerson
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://tnfolklife.org/programs/awards/national-heritage-fellowship/doyle-lawson/
-- https://www.bluegrasshall.org/inductees/doyle-wayne-lawson/
-- http://www.americanamusicmagazine.com/cover-stories/bluegrass-music-icon-doyle-lawson/
-- https://www.arts.gov/honors/heritage/doyle-lawson
-- https://tnartscommission.org/governors-arts-awards/2021-award-winners/doyle-lawson/
-- https://bluegrassunlimited.com/article/doyle-lawson-quicksilver-3/
-- https://www.doylelawson.com/doyle-lawson
-- https://en.wikipedia.org/wiki/Doyle_Lawson
-- https://adp.library.ucsb.edu/index.php/mastertalent/detail/205700/Lawson_Doyle
+  - >-
+    https://tnfolklife.org/programs/awards/national-heritage-fellowship/doyle-lawson/
+  - 'https://www.bluegrasshall.org/inductees/doyle-wayne-lawson/'
+  - >-
+    http://www.americanamusicmagazine.com/cover-stories/bluegrass-music-icon-doyle-lawson/
+  - 'https://www.arts.gov/honors/heritage/doyle-lawson'
+  - >-
+    https://tnartscommission.org/governors-arts-awards/2021-award-winners/doyle-lawson/
+  - 'https://bluegrassunlimited.com/article/doyle-lawson-quicksilver-3/'
+  - 'https://www.doylelawson.com/doyle-lawson'
+  - 'https://en.wikipedia.org/wiki/Doyle_Lawson'
+  - >-
+    https://adp.library.ucsb.edu/index.php/mastertalent/detail/205700/Lawson_Doyle
 spotify_data:
   followers: 7044
   id: 53ODrbz9dJiAZ6ikXa8l3F
   popularity: 33
-  url: https://open.spotify.com/artist/53ODrbz9dJiAZ6ikXa8l3F
+  url: 'https://open.spotify.com/artist/53ODrbz9dJiAZ6ikXa8l3F'
 status: active
-title: DOYLE LAWSON
+title: Doyle Lawson
+birth_date: '1944-04-20'
+artist_type: person
 ---
 
 ![](doyle_lawson.jpg)

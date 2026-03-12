@@ -1,20 +1,20 @@
 ---
-title: joe turner
+title: Joe Turner
 wiki_slug: joe-turner
 schema_version: 2
 status: active
-birth_place: Kansas City, Missouri, United States
+birth_place: 'Kansas City, Missouri, United States'
 genres:
-- boogie-woogie
-- doo-wop
-- blues
-- classic blues
-- rockabilly
+  - boogie-woogie
+  - doo-wop
+  - blues
+  - classic blues
+  - rockabilly
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/joe_turner.jpg
   caption: joe turner
   background: solo_singer
-  origin: Kansas City, Missouri, United States
+  origin: 'Kansas City, Missouri, United States'
 audio_profile:
   tempo_avg: 134.2
   energy_avg: 0.533
@@ -30,50 +30,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Pete Johnson
-  - Count Basie
-  - Roomful of Blues
+    - Pete Johnson
+    - Count Basie
+    - Roomful of Blues
   influenced:
-  - Elvis Presley
-  - Chuck Berry
-  - Bo Diddley
-  - B.B. King
+    - Elvis Presley
+    - Chuck Berry
+    - Bo Diddley
+    - B.B. King
   mentors:
-  - Pete Johnson
+    - Pete Johnson
 spotify_data:
   followers: 52055
   id: 1DTgcOxytJHD8p17mhSgd7
   popularity: 37
-  url: https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7
+  url: 'https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7'
 discography_enriched: true
 top_tracks:
-- Shake, Rattle and Roll (Shake Rattle & Rock)
-- Shake, Rattle & Roll (Flip, Flop And Fly 1951-1955)
-- 'Honey Hush (Big Joe Turner: The Rhythm & Blues Years)'
-- Boogie Woogie Country Girl (Shake Rattle & Rock)
-- Corrine Corrina (Shake Rattle & Rock)
-- Shake, Rattle and Roll
-- Flip, Flop And Fly (Flip, Flop And Fly 1951-1955)
-- Roll 'Em Pete (Jumpin' With Joe)
-- Lipstick, Powder and Paint (Big Bad & Blue - The Joe Turner Anthology)
-- Flip, Flop and Fly
+  - 'Shake, Rattle and Roll (Shake Rattle & Rock)'
+  - 'Shake, Rattle & Roll (Flip, Flop And Fly 1951-1955)'
+  - 'Honey Hush (Big Joe Turner: The Rhythm & Blues Years)'
+  - Boogie Woogie Country Girl (Shake Rattle & Rock)
+  - Corrine Corrina (Shake Rattle & Rock)
+  - 'Shake, Rattle and Roll'
+  - 'Flip, Flop And Fly (Flip, Flop And Fly 1951-1955)'
+  - Roll 'Em Pete (Jumpin' With Joe)
+  - 'Lipstick, Powder and Paint (Big Bad & Blue - The Joe Turner Anthology)'
+  - 'Flip, Flop and Fly'
 external_urls:
-  spotify: https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7
-  wikipedia: https://en.wikipedia.org/wiki/Big_Joe_Turner
+  spotify: 'https://open.spotify.com/artist/1DTgcOxytJHD8p17mhSgd7'
+  wikipedia: 'https://en.wikipedia.org/wiki/Big_Joe_Turner'
 image_path: 03_Resources/source_material/ArtistPortraits/joe_turner.jpg
 biography_enhanced_at: '2025-11-20T07:26:26.277365'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.ebsco.com/research-starters/history/big-joe-turner
-- https://pendergastkc.org/articles/joe-turner-big-joe
-- https://blues.org/blues_hof_inductee/big-joe-turner/
-- https://www.britannica.com/biography/Big-Joe-Turner
-- https://aaep1600.osu.edu/book/06_Turner.php
+  - 'https://www.ebsco.com/research-starters/history/big-joe-turner'
+  - 'https://pendergastkc.org/articles/joe-turner-big-joe'
+  - 'https://blues.org/blues_hof_inductee/big-joe-turner/'
+  - 'https://www.britannica.com/biography/Big-Joe-Turner'
+  - 'https://aaep1600.osu.edu/book/06_Turner.php'
 network_extracted: true
 entry_created: '2025-11-20T07:26:26.277372'
 last_updated: '2025-12-23T08:16:10.668509'
-
+origin: 'Kansas City, Missouri, United States'
+birth_date: '1911-05-18'
+artist_type: person
 ---
 
 ![](joe_turner.jpg)

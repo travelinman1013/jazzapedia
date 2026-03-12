@@ -4,42 +4,46 @@ biography_enhanced_at: '2026-01-14T01:07:00.098347'
 enhancement_provider: perplexity
 entry_created: '2026-01-14T01:07:00.098360'
 external_urls:
-  spotify: https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp
-  wikipedia: https://en.wikipedia.org/wiki/Toro_y_Moi
+  spotify: 'https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp'
+  wikipedia: 'https://en.wikipedia.org/wiki/Toro_y_Moi'
 genres:
-- chillwave
+  - chillwave
 image_path: 03_Resources/source_material/ArtistPortraits/toro_y_moi_and_the_mattson_2.jpg
 is_active: true
 last_updated: '2026-01-14T01:07:00.098362'
 musical_connections:
   collaborators:
-  - Washed Out (Ernest Greene)
-  - The Mattson 2 (Jared and Jonathan Mattson)
-  - Brijean Murphy
-  - Money Mark
-  - Ray Barbee, Tommy Guerrero, Farmer Dave
+    - Washed Out (Ernest Greene)
+    - The Mattson 2 (Jared and Jonathan Mattson)
+    - Brijean Murphy
+    - Money Mark
+    - 'Ray Barbee, Tommy Guerrero, Farmer Dave'
   influenced: []
   mentors:
-  - Steven Schick
+    - Steven Schick
 network_extracted: true
-origin: Columbia, South Carolina, USA (Bear birthplace); San Diego, California, USA
-  (Mattsons origin)
+origin: 'San Diego, California, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Toro_y_Moi
-- https://first-avenue.com/performer/the-mattson-2/
-- https://www.sfjazz.org/onthecorner/Mattson_2_Plays_Coltrane
-- https://earmilk.com/2020/06/23/toro-y-moi-and-the-mattson-2-combine-on-ordinary-guy/
-- https://www.vice.com/en/article/thump-mix-toyo-y-moi-the-mattson-2/
-- https://companyrecordlabel.com/records/artists/chaz-bundick-meets-the-mattson-2
-- https://consequence.net/2017/02/toro-y-mois-chaz-bundick-meets-the-mattson-2-on-new-psychedelic-jam-jbs-listen/
+  - 'https://en.wikipedia.org/wiki/Toro_y_Moi'
+  - 'https://first-avenue.com/performer/the-mattson-2/'
+  - 'https://www.sfjazz.org/onthecorner/Mattson_2_Plays_Coltrane'
+  - >-
+    https://earmilk.com/2020/06/23/toro-y-moi-and-the-mattson-2-combine-on-ordinary-guy/
+  - 'https://www.vice.com/en/article/thump-mix-toyo-y-moi-the-mattson-2/'
+  - >-
+    https://companyrecordlabel.com/records/artists/chaz-bundick-meets-the-mattson-2
+  - >-
+    https://consequence.net/2017/02/toro-y-mois-chaz-bundick-meets-the-mattson-2-on-new-psychedelic-jam-jbs-listen/
 spotify_data:
   followers: 807394
   id: 6O4EGCCb6DoIiR6B1QCQgp
   popularity: 59
-  url: https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp
+  url: 'https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp'
 status: active
 title: Toro Y Moi & The Mattson 2
+birth_place: 'Columbia, South Carolina, United States'
+birth_date: '1986-11-07'
 ---
 
 ![](toro_y_moi_and_the_mattson_2.jpg)

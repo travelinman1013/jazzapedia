@@ -5,7 +5,8 @@ schema_version: 2
 status: active
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/john_hiatt_and_roddie_romero.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/john_hiatt_and_roddie_romero.jpg
   caption: John Hiatt & Roddie Romero
   background: solo_singer
 audio_profile:
@@ -23,44 +24,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sonny Landreth
-  - Eric Adcock
-  - Lee Allen Zeno
-  - Jermaine Prejean
+    - Sonny Landreth
+    - Eric Adcock
+    - Lee Allen Zeno
+    - Jermaine Prejean
   influenced: []
   mentors:
-  - Clifton Chenier
+    - Clifton Chenier
 spotify_data:
   followers: 12293
   id: 4Iz67ZmbPzHUhzbYL5ogxI
   popularity: 25
-  url: https://open.spotify.com/artist/4Iz67ZmbPzHUhzbYL5ogxI
+  url: 'https://open.spotify.com/artist/4Iz67ZmbPzHUhzbYL5ogxI'
 discography_enriched: true
 top_tracks:
-- My Baby Blue (Beneath This Gruff Exterior)
-- Window on the World (Beneath This Gruff Exterior)
-- My Dog and Me (Beneath This Gruff Exterior)
-- Circle Back (Beneath This Gruff Exterior)
-- The Most Unoriginal Sin (Beneath This Gruff Exterior)
-- How Bad's the Coffee (Beneath This Gruff Exterior)
-- Almost Fed Up with the Blues (Beneath This Gruff Exterior)
-- Missing Pieces (Beneath This Gruff Exterior)
-- The Nagging Dark (Beneath This Gruff Exterior)
-- Fly Back Home (Beneath This Gruff Exterior)
+  - My Baby Blue (Beneath This Gruff Exterior)
+  - Window on the World (Beneath This Gruff Exterior)
+  - My Dog and Me (Beneath This Gruff Exterior)
+  - Circle Back (Beneath This Gruff Exterior)
+  - The Most Unoriginal Sin (Beneath This Gruff Exterior)
+  - How Bad's the Coffee (Beneath This Gruff Exterior)
+  - Almost Fed Up with the Blues (Beneath This Gruff Exterior)
+  - Missing Pieces (Beneath This Gruff Exterior)
+  - The Nagging Dark (Beneath This Gruff Exterior)
+  - Fly Back Home (Beneath This Gruff Exterior)
 external_urls:
-  spotify: https://open.spotify.com/artist/4Iz67ZmbPzHUhzbYL5ogxI
+  spotify: 'https://open.spotify.com/artist/4Iz67ZmbPzHUhzbYL5ogxI'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/john_hiatt_and_roddie_romero.jpg
 biography_enhanced_at: '2025-10-23T07:29:28.735524'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://thecurrentla.com/2025/cliftons-orbit-how-a-constellation-of-local-and-national-stars-came-together-to-celebrate-the-king-of-zydeco/
-- https://www.youtube.com/watch?v=BecHPqdG8gY
+  - >-
+    https://thecurrentla.com/2025/cliftons-orbit-how-a-constellation-of-local-and-national-stars-came-together-to-celebrate-the-king-of-zydeco/
+  - 'https://www.youtube.com/watch?v=BecHPqdG8gY'
 network_extracted: true
 entry_created: '2025-10-23T07:29:28.735536'
 last_updated: '2025-12-23T08:16:10.766583'
-origin: Lafayette, Louisiana, USA (Roddie Romero); Nashville, Tennessee, USA (John Hiatt)
+origin: >-
+  Lafayette, Louisiana, USA (Roddie Romero); Nashville, Tennessee, USA (John
+  Hiatt)
+artist_type: person
 ---
 
 ![](john_hiatt_and_roddie_romero.jpg)

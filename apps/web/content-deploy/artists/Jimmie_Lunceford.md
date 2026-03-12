@@ -5,28 +5,28 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1902-06-06'
-birth_place: Fulton
+birth_place: 'Fulton, Mississippi, United States'
 death_date: '1947-07-12'
 genres:
-- swing music
-- big band
-- ragtime
+  - swing music
+  - big band
+  - ragtime
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1f814c85-9602-4235-946b-ea1b2d1f3920
-  name: Jimmie Lunceford and His Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7299f086-7458-4ca2-b483-db383d8cfd16
-  name: Jimmie Lunceford and His Chickasaw Syncopators
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a8e4eaab-e085-4ca4-8f3a-501258146b3d
-  name: The Chickasaw Syncopators
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1f814c85-9602-4235-946b-ea1b2d1f3920
+    name: Jimmie Lunceford and His Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7299f086-7458-4ca2-b483-db383d8cfd16
+    name: Jimmie Lunceford and His Chickasaw Syncopators
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a8e4eaab-e085-4ca4-8f3a-501258146b3d
+    name: The Chickasaw Syncopators
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jimmie_lunceford.jpg
   caption: Jimmie Lunceford
@@ -35,7 +35,7 @@ infobox:
   origin: Fulton
   died: '1947-07-12'
 audio_profile:
-  tempo_avg: 127.0
+  tempo_avg: 127
   energy_avg: 0.352
   valence_avg: 0.67
   danceability_avg: 0.668
@@ -49,45 +49,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sy Oliver
-  - Moses Allen
-  - Jimmy Crawford
+    - Sy Oliver
+    - Moses Allen
+    - Jimmy Crawford
   influenced:
-  - Count Basie
-  - Dizzy Gillespie
-  - Quincy Jones
+    - Count Basie
+    - Dizzy Gillespie
+    - Quincy Jones
   mentors:
-  - Wilberforce J. Whiteman
-  - George Morrison
+    - Wilberforce J. Whiteman
+    - George Morrison
 spotify_data:
   followers: 20457
   id: 5z49AOW1q5dtslkcj6wGsW
   popularity: 29
-  url: https://open.spotify.com/artist/5z49AOW1q5dtslkcj6wGsW
+  url: 'https://open.spotify.com/artist/5z49AOW1q5dtslkcj6wGsW'
 discography_enriched: true
 top_tracks:
-- Tain't What You Do (It's The Way That You Do It) (Lunceford Special)
-- Organ Grinder's Swing (For Dancers Only)
-- Ain't She Sweet (Lunceford Special)
-- Ain't She Sweet (Big Bands of the Swing Era)
-- Rhythm Is Our Business (Rhythm Is Our Business)
-- Twenty Four Robbers (For Dancers Only)
-- Posin' (Jukebox Hits 1935-1947)
-- T'Aint What You Do (It's The Way That You Do It) (Jukebox Hits 1935-1947)
-- For Dancers Only (Rhythm Is Our Business)
-- Le jazz hot (Rhythm Is Our Business)
+  - Tain't What You Do (It's The Way That You Do It) (Lunceford Special)
+  - Organ Grinder's Swing (For Dancers Only)
+  - Ain't She Sweet (Lunceford Special)
+  - Ain't She Sweet (Big Bands of the Swing Era)
+  - Rhythm Is Our Business (Rhythm Is Our Business)
+  - Twenty Four Robbers (For Dancers Only)
+  - Posin' (Jukebox Hits 1935-1947)
+  - T'Aint What You Do (It's The Way That You Do It) (Jukebox Hits 1935-1947)
+  - For Dancers Only (Rhythm Is Our Business)
+  - Le jazz hot (Rhythm Is Our Business)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/bea5831a-fa7f-4316-9d71-754e390556b8
-  spotify: https://open.spotify.com/artist/5z49AOW1q5dtslkcj6wGsW
-  wikipedia: https://en.wikipedia.org/wiki/Jimmie_Lunceford
+  musicbrainz: 'https://musicbrainz.org/artist/bea5831a-fa7f-4316-9d71-754e390556b8'
+  spotify: 'https://open.spotify.com/artist/5z49AOW1q5dtslkcj6wGsW'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jimmie_Lunceford'
 image_path: 03_Resources/source_material/ArtistPortraits/jimmie_lunceford.jpg
 biography_enhanced_at: '2025-10-22T09:21:53.266890'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jimmie_Lunceford
-- https://syncopatedtimes.com/jimmie-lunceford-profiles-in-jazz/
-- https://memphismusichalloffame.com/inductee/jimmielunceford/
+  - 'https://en.wikipedia.org/wiki/Jimmie_Lunceford'
+  - 'https://syncopatedtimes.com/jimmie-lunceford-profiles-in-jazz/'
+  - 'https://memphismusichalloffame.com/inductee/jimmielunceford/'
 network_extracted: true
 entry_created: '2025-10-22T09:21:53.266903'
 last_updated: '2025-12-23T08:16:02.544680'
@@ -95,7 +95,8 @@ disambiguation: US jazz saxophonist and bandleader
 gender: Male
 musicbrainz_id: bea5831a-fa7f-4316-9d71-754e390556b8
 tags:
-- jazz
+  - jazz
+is_active: false
 ---
 
 ![](jimmie_lunceford.jpg)

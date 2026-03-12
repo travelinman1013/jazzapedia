@@ -2,19 +2,19 @@
 title: Helen Merrill
 wiki_slug: helen-merrill
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1930-07-21'
-birth_place: New York City, New York, United States
+birth_place: 'New York City, New York, United States'
 genres:
-- vocal jazz
-- jazz
+  - vocal jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Helen_Merrill.jpg
   caption: Helen Merrill
   background: solo_singer
   born: '1930-07-21'
-  origin: New York City, New York, United States
+  origin: 'New York City, New York, United States'
 audio_profile:
   tempo_avg: 113.5
   energy_avg: 0.149
@@ -30,46 +30,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Clifford Brown
-  - Quincy Jones
-  - Gil Evans
-  - Dick Katz
-  - Bill Evans
+    - Clifford Brown
+    - Quincy Jones
+    - Gil Evans
+    - Dick Katz
+    - Bill Evans
   influenced:
-  - Japanese jazz vocalists
-  - Contemporary jazz vocalists
+    - Japanese jazz vocalists
+    - Contemporary jazz vocalists
   mentors:
-  - Bud Powell
-  - Earl Hines
+    - Bud Powell
+    - Earl Hines
 spotify_data:
   followers: 37573
   id: 4JHlHSUko0ivu6fXYT8J2q
   popularity: 34
-  url: https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q
+  url: 'https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q'
 discography_enriched: true
 top_tracks:
-- Anything Goes (Helen Merrill With Strings)
-- You'd Be So Nice To Come Home To (Helen Merill)
-- Yesterdays (Helen Merill)
-- When I Fall In Love (Helen Merrill With Strings)
-- Don't Explain (Helen Merill)
-- Solitude (Parole e Musica (Remastered))
-- Falling In Love With Love (Helen Merill)
-- I Remember You (The Nearness Of You)
-- What's New (Helen Merill)
-- Solitude - Live (Parole E Musica)
+  - Anything Goes (Helen Merrill With Strings)
+  - You'd Be So Nice To Come Home To (Helen Merill)
+  - Yesterdays (Helen Merill)
+  - When I Fall In Love (Helen Merrill With Strings)
+  - Don't Explain (Helen Merill)
+  - Solitude (Parole e Musica (Remastered))
+  - Falling In Love With Love (Helen Merill)
+  - I Remember You (The Nearness Of You)
+  - What's New (Helen Merill)
+  - Solitude - Live (Parole E Musica)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/bce6f3f4-8db1-4fbb-9dbe-8a1224b57dfb
-  spotify: https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q
-  wikipedia: https://en.wikipedia.org/wiki/Helen_Merrill
+  musicbrainz: 'https://musicbrainz.org/artist/bce6f3f4-8db1-4fbb-9dbe-8a1224b57dfb'
+  spotify: 'https://open.spotify.com/artist/4JHlHSUko0ivu6fXYT8J2q'
+  wikipedia: 'https://en.wikipedia.org/wiki/Helen_Merrill'
 image_path: 03_Resources/source_material/ArtistPortraits/Helen_Merrill.jpg
 biography_enhanced_at: '2025-10-20T01:42:38.614528'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://jazztimes.com/features/profiles/helen-merrill-jazz-singer/
-- https://www.allaboutjazz.com/musicians/helen-merrill/
-- https://m.sunnysiderecords.com/index.php/artist/id/174
+  - 'https://jazztimes.com/features/profiles/helen-merrill-jazz-singer/'
+  - 'https://www.allaboutjazz.com/musicians/helen-merrill/'
+  - 'https://m.sunnysiderecords.com/index.php/artist/id/174'
 network_extracted: true
 entry_created: '2025-10-20T01:42:38.614537'
 last_updated: '2025-12-23T08:16:02.225887'
@@ -77,9 +77,9 @@ gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:29:00.693834'
 musicbrainz_id: bce6f3f4-8db1-4fbb-9dbe-8a1224b57dfb
 tags:
-- cool jazz
-- jazz
-- vocal jazz
+  - cool jazz
+  - jazz
+  - vocal jazz
 ---
 
 ![](Helen_Merrill.jpg)

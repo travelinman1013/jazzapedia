@@ -3,18 +3,18 @@ title: Keb Mo
 wiki_slug: keb-mo
 schema_version: 2
 status: active
-birth_place: Compton, California, United States
+birth_place: 'Compton, California, United States'
 genres:
-- blues
-- modern blues
-- country blues
-- blues rock
-- classic blues
+  - blues
+  - modern blues
+  - country blues
+  - blues rock
+  - classic blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/keb_mo.jpg
   caption: Keb Mo
   background: solo_singer
-  origin: Compton, California, United States
+  origin: 'Compton, California, United States'
 audio_profile:
   tempo_avg: 111.4
   energy_avg: 0.573
@@ -22,7 +22,7 @@ audio_profile:
   danceability_avg: 0.69
   acousticness_avg: 0.337
   instrumentalness_avg: 0.012
-  loudness_avg: -8.0
+  loudness_avg: -8
   speechiness_avg: 0.059
   liveness_avg: 0.196
   track_count: 65
@@ -30,50 +30,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Taj Mahal
-  - Bonnie Raitt
-  - Jackson Browne
-  - Dr. John
+    - Taj Mahal
+    - Bonnie Raitt
+    - Jackson Browne
+    - Dr. John
   influenced: []
   mentors:
-  - Papa John Creach
-  - Albert Collins
-  - Big Joe Turner
+    - Papa John Creach
+    - Albert Collins
+    - Big Joe Turner
 spotify_data:
   followers: 373981
   id: 6iDaoPZVgxrTkndDCisX8F
   popularity: 51
-  url: https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F
+  url: 'https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F'
 discography_enriched: true
 top_tracks:
-- Better Than Ever [Feat. Wendy Moten] (Room On The Porch)
-- Will The Circle Be Unbroken - Live
-- The Weight - Live
-- 'Am I Wrong (Martin Scorsese Presents The Blues: Keb'' Mo'')'
-- Life Is Beautiful (Suitcase)
-- Room On The Porch [Feat. Ruby Amanfu]
-- Room On The Porch [Feat. Ruby Amanfu] (Room On The Porch)
-- My Darling My Dear (Room On The Porch)
-- Nobody Knows You When You’re Down And Out (Room On The Porch)
-- I Remember You (Oklahoma)
+  - 'Better Than Ever [Feat. Wendy Moten] (Room On The Porch)'
+  - Will The Circle Be Unbroken - Live
+  - The Weight - Live
+  - 'Am I Wrong (Martin Scorsese Presents The Blues: Keb'' Mo'')'
+  - Life Is Beautiful (Suitcase)
+  - 'Room On The Porch [Feat. Ruby Amanfu]'
+  - 'Room On The Porch [Feat. Ruby Amanfu] (Room On The Porch)'
+  - My Darling My Dear (Room On The Porch)
+  - Nobody Knows You When You’re Down And Out (Room On The Porch)
+  - I Remember You (Oklahoma)
 external_urls:
-  spotify: https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F
+  spotify: 'https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/keb_mo.jpg
 biography_enhanced_at: '2025-12-04T07:48:15.399458'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://kids.kiddle.co/Keb'_Mo'
-- https://lajazzscene.buzz/keb-mo-from-compton-to-multi-grammy-winner/
-- https://kebmo.com
-- https://gaillardcenter.org/events/keb-mo/
-- https://www.imdb.com/name/nm1003850/bio/
-- https://www.hollywoodbowl.com/musicdb/artists/2780/kebmo
-- https://concord.com/publishing-roster/keb-mo/
+  - 'https://kids.kiddle.co/Keb''_Mo'''
+  - 'https://lajazzscene.buzz/keb-mo-from-compton-to-multi-grammy-winner/'
+  - 'https://kebmo.com'
+  - 'https://gaillardcenter.org/events/keb-mo/'
+  - 'https://www.imdb.com/name/nm1003850/bio/'
+  - 'https://www.hollywoodbowl.com/musicdb/artists/2780/kebmo'
+  - 'https://concord.com/publishing-roster/keb-mo/'
 network_extracted: true
 entry_created: '2025-12-04T07:48:15.399472'
 last_updated: '2025-12-23T08:16:02.809282'
+birth_date: '1951-10-03'
+artist_type: person
 ---
 
 ![](keb_mo.jpg)

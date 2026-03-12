@@ -1,17 +1,17 @@
 ---
-title: KING FLOYD
+title: King Floyd
 wiki_slug: king-floyd
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- motown
-- soul
+  - motown
+  - soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/KING_FLOYD.jpg
   caption: KING FLOYD
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 111.8
   energy_avg: 0.529
@@ -27,49 +27,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Harold Battiste
-  - Dr. John
-  - Wardell Quezergue
-  - The Mighty Majors
+    - Harold Battiste
+    - Dr. John
+    - Wardell Quezergue
+    - The Mighty Majors
   influenced:
-  - Wu-Tang Clan
-  - Shaggy
+    - Wu-Tang Clan
+    - Shaggy
   mentors:
-  - Mr. Google Eyes
-  - Don Covay
-  - J.J. Jackson
+    - Mr. Google Eyes
+    - Don Covay
+    - J.J. Jackson
 spotify_data:
   followers: 30797
   id: 03PCdNvkF81s7xHmtkNcoz
   popularity: 42
-  url: https://open.spotify.com/artist/03PCdNvkF81s7xHmtkNcoz
+  url: 'https://open.spotify.com/artist/03PCdNvkF81s7xHmtkNcoz'
 discography_enriched: true
 top_tracks:
-- Groove Me (King Floyd)
-- Groove Me (Choice Cuts)
-- I Feel Like Dynamite (Well Done)
-- Baby Let Me Kiss You (King Floyd)
-- Hard to Handle (Choice Cuts)
-- I Really Love You (Well Done)
-- Groove Me (Late Night Etta James)
-- What Our Love Needs (King Floyd)
-- Woman Don't Go Astray (King Floyd)
-- I Feel Like Dynamite (Choice Cuts)
+  - Groove Me (King Floyd)
+  - Groove Me (Choice Cuts)
+  - I Feel Like Dynamite (Well Done)
+  - Baby Let Me Kiss You (King Floyd)
+  - Hard to Handle (Choice Cuts)
+  - I Really Love You (Well Done)
+  - Groove Me (Late Night Etta James)
+  - What Our Love Needs (King Floyd)
+  - Woman Don't Go Astray (King Floyd)
+  - I Feel Like Dynamite (Choice Cuts)
 external_urls:
-  spotify: https://open.spotify.com/artist/03PCdNvkF81s7xHmtkNcoz
-  wikipedia: https://en.wikipedia.org/wiki/King_Floyd
+  spotify: 'https://open.spotify.com/artist/03PCdNvkF81s7xHmtkNcoz'
+  wikipedia: 'https://en.wikipedia.org/wiki/King_Floyd'
 image_path: 03_Resources/source_material/ArtistPortraits/KING_FLOYD.jpg
 biography_enhanced_at: '2025-10-20T09:53:04.216537'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/King+Floyd/+wiki
-- https://veritenews.org/2025/06/27/king-floyd-groove-me-malaco-records/
-- https://music.apple.com/us/artist/king-floyd/97999735
+  - 'https://www.last.fm/music/King+Floyd/+wiki'
+  - 'https://veritenews.org/2025/06/27/king-floyd-groove-me-malaco-records/'
+  - 'https://music.apple.com/us/artist/king-floyd/97999735'
 network_extracted: true
 entry_created: '2025-10-20T09:53:04.216552'
 last_updated: '2025-12-23T08:16:02.779879'
-
+birth_date: '1945-02-13'
+death_date: '2006-03-06'
+artist_type: person
 ---
 
 ![](KING_FLOYD.jpg)

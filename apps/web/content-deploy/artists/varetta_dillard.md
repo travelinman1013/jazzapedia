@@ -1,17 +1,17 @@
 ---
-title: varetta dillard
+title: Varetta Dillard
 wiki_slug: varetta-dillard
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1933-02-03'
-birth_place: Harlem
+birth_place: 'Harlem, New York City, United States'
 death_date: '1993-10-04'
 genres:
-- boogie-woogie
-- rockabilly
-- boogie
-- doo-wop
+  - boogie-woogie
+  - rockabilly
+  - boogie
+  - doo-wop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/varetta_dillard.jpg
   caption: varetta dillard
@@ -25,8 +25,8 @@ audio_profile:
   valence_avg: 0.842
   danceability_avg: 0.581
   acousticness_avg: 0.715
-  instrumentalness_avg: 0.0
-  loudness_avg: -9.0
+  instrumentalness_avg: 0
+  loudness_avg: -9
   speechiness_avg: 0.06
   liveness_avg: 0.202
   track_count: 50
@@ -34,44 +34,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Joe Thomas Combo
-  - Ronald Mack
-  - Arthur Prysock, Joan Shaw, Peppermint Harris, Blues Express Orchestra
+    - Joe Thomas Combo
+    - Ronald Mack
+    - 'Arthur Prysock, Joan Shaw, Peppermint Harris, Blues Express Orchestra'
   influenced:
-  - Female R&B vocalists of the 1950s and 1960s
+    - Female R&B vocalists of the 1950s and 1960s
   mentors:
-  - Ruth Brown
-  - Lee Magid
+    - Ruth Brown
+    - Lee Magid
 spotify_data:
   followers: 4620
   id: 39AMDMPl2TPIIylBZX8P3O
   popularity: 17
-  url: https://open.spotify.com/artist/39AMDMPl2TPIIylBZX8P3O
+  url: 'https://open.spotify.com/artist/39AMDMPl2TPIIylBZX8P3O'
 discography_enriched: true
 top_tracks:
-- Easy, Easy Baby
-- Mama Don't Want What Papa Don't Want (Send Me Some Money)
-- Them There Eyes (Send Me Some Money)
-- Mama Don't Want What Papa Don't Want
-- Mercy Mr Percy (Send Me Some Money)
-- Scorched (Send Me Some Money)
-- Them There Eyes
-- Them There Eyes (Mercy, Mr Percy)
-- Mama Don't Want What Papa Don't Want
-- Mercy Mr Percy (Mercy, Mr Percy)
+  - 'Easy, Easy Baby'
+  - Mama Don't Want What Papa Don't Want (Send Me Some Money)
+  - Them There Eyes (Send Me Some Money)
+  - Mama Don't Want What Papa Don't Want
+  - Mercy Mr Percy (Send Me Some Money)
+  - Scorched (Send Me Some Money)
+  - Them There Eyes
+  - 'Them There Eyes (Mercy, Mr Percy)'
+  - Mama Don't Want What Papa Don't Want
+  - 'Mercy Mr Percy (Mercy, Mr Percy)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/490dfe0e-d0da-4bc6-9e00-76d71c129e00
-  spotify: https://open.spotify.com/artist/39AMDMPl2TPIIylBZX8P3O
-  wikipedia: https://en.wikipedia.org/wiki/Varetta_Dillard
+  musicbrainz: 'https://musicbrainz.org/artist/490dfe0e-d0da-4bc6-9e00-76d71c129e00'
+  spotify: 'https://open.spotify.com/artist/39AMDMPl2TPIIylBZX8P3O'
+  wikipedia: 'https://en.wikipedia.org/wiki/Varetta_Dillard'
 image_path: 03_Resources/source_material/ArtistPortraits/varetta_dillard.jpg
 biography_enhanced_at: '2025-11-20T07:24:27.533819'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Varetta_Dillard
-- https://www.uncamarvy.com/VarettaDillard/varettadillard.html
-- https://fromthevaults-boppinbob.blogspot.com/2023/02/valletta-dillard-born-3-february-1933.html
-- https://www.last.fm/music/Varetta+Dillard/+wiki
+  - 'https://en.wikipedia.org/wiki/Varetta_Dillard'
+  - 'https://www.uncamarvy.com/VarettaDillard/varettadillard.html'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2023/02/valletta-dillard-born-3-february-1933.html
+  - 'https://www.last.fm/music/Varetta+Dillard/+wiki'
 network_extracted: true
 entry_created: '2025-11-20T07:24:27.533826'
 last_updated: '2025-12-23T08:16:17.824433'
@@ -79,8 +80,8 @@ disambiguation: R&B singer
 gender: Female
 musicbrainz_id: 490dfe0e-d0da-4bc6-9e00-76d71c129e00
 tags:
-- r&b
-
+  - r&b
+is_active: false
 ---
 
 ![](varetta_dillard.jpg)

@@ -1,15 +1,15 @@
 ---
 biography_enhanced_at: '2026-01-03T01:48:43.194436'
-birth_place: Rehovat, Georgia, USA
+birth_place: 'Rehovat, Georgia, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-03T01:48:43.194455'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/fb591fe7-d981-4474-a6b2-e79acdad5e71
-  spotify: https://open.spotify.com/artist/2bzauDLzA2wJp0EaB435GO
+  musicbrainz: 'https://musicbrainz.org/artist/fb591fe7-d981-4474-a6b2-e79acdad5e71'
+  spotify: 'https://open.spotify.com/artist/2bzauDLzA2wJp0EaB435GO'
   wikipedia: ''
 genres:
-- country blues
-- classic blues
+  - country blues
+  - classic blues
 image_path: 03_Resources/source_material/ArtistPortraits/daddy_hotcakes.jpg
 last_updated: '2026-01-03T01:48:43.194457'
 musical_connections:
@@ -20,19 +20,25 @@ musicbrainz_id: fb591fe7-d981-4474-a6b2-e79acdad5e71
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://sundayblues.org/?tag=little-milton [2]
-- https://www.last.fm/music/Daddy+Hotcakes/+wiki [3]
-- https://www.allmusic.com/artist/george-daddy-hotcakes-montgomery-mn0001829524 [4]
-- https://open.spotify.com/artist/2bzauDLzA2wJp0EaB435GO [5]
-- https://www.barnesandnoble.com/w/the-blues-in-st-louis-vol-1-george-daddy-hotcakes-montgomery/24606356
-  [6]
+  - 'https://sundayblues.org/?tag=little-milton [2]'
+  - 'https://www.last.fm/music/Daddy+Hotcakes/+wiki [3]'
+  - >-
+    https://www.allmusic.com/artist/george-daddy-hotcakes-montgomery-mn0001829524
+    [4]
+  - 'https://open.spotify.com/artist/2bzauDLzA2wJp0EaB435GO [5]'
+  - >-
+    https://www.barnesandnoble.com/w/the-blues-in-st-louis-vol-1-george-daddy-hotcakes-montgomery/24606356
+    [6]
 spotify_data:
   followers: 149
   id: 2bzauDLzA2wJp0EaB435GO
   popularity: 0
-  url: https://open.spotify.com/artist/2bzauDLzA2wJp0EaB435GO
+  url: 'https://open.spotify.com/artist/2bzauDLzA2wJp0EaB435GO'
 status: active
-title: daddy hotcakes
+title: Daddy Hotcakes
+origin: 'St. Louis, Missouri, United States'
+birth_date: '1894-05-15'
+artist_type: person
 ---
 
 ![](daddy_hotcakes.jpg)

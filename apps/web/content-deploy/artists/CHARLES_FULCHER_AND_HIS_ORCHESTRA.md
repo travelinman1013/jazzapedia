@@ -1,12 +1,13 @@
 ---
-title: CHARLES FULCHER AND HIS ORCHESTRA
+title: Charles Fulcher and His Orchestra
 wiki_slug: charles-fulcher-and-his-orchestra
 schema_version: 2
 status: active
 genres:
-- ragtime
+  - ragtime
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/CHARLES_FULCHER_AND_HIS_ORCHESTRA.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/CHARLES_FULCHER_AND_HIS_ORCHESTRA.jpg
   caption: CHARLES FULCHER AND HIS ORCHESTRA
   background: solo_singer
 audio_profile:
@@ -24,48 +25,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - A.D. Barfield
-  - Frank Crutcher
-  - Otis Haislip
-  - Gwynn Hester
-  - Sandy Jordan
-  - Chuck Jordan
-  - Pop Miller
-  - Bo Norris
-  - Neely Plumb
+    - A.D. Barfield
+    - Frank Crutcher
+    - Otis Haislip
+    - Gwynn Hester
+    - Sandy Jordan
+    - Chuck Jordan
+    - Pop Miller
+    - Bo Norris
+    - Neely Plumb
   influenced: []
   mentors: []
 spotify_data:
   followers: 7
   id: 60XuVDvIMIK5RY3atP1ali
   popularity: 0
-  url: https://open.spotify.com/artist/60XuVDvIMIK5RY3atP1ali
+  url: 'https://open.spotify.com/artist/60XuVDvIMIK5RY3atP1ali'
 discography_enriched: true
 top_tracks:
-- The Georgia Stomp (Early 1920s Jazz)
-- 'My Pretty Girl (Jazz Age Chronicles, Vol. 23: Columbia Recordings of 1925)'
-- My Pretty Girl (Love Songs of the Mid-1920s)
-- My Pretty Girl (Love Songs of the Mid, 1920s (Jazz Age Chronicles, Vol.15))
-- Eskimo Song (Jazz from Atlanta 1923 - 1929)
-- Black Cat Blues (Jazz from Atlanta 1923 - 1929)
-- Georgia Stomp (Jazz from Atlanta 1923 - 1929)
-- Home Sweet Home Blues (Jazz from Atlanta 1923 - 1929)
-- My Pretty Girl (Jazz from Atlanta 1923 - 1929)
-- After That (Jazz from Atlanta 1923 - 1929)
+  - The Georgia Stomp (Early 1920s Jazz)
+  - 'My Pretty Girl (Jazz Age Chronicles, Vol. 23: Columbia Recordings of 1925)'
+  - My Pretty Girl (Love Songs of the Mid-1920s)
+  - 'My Pretty Girl (Love Songs of the Mid, 1920s (Jazz Age Chronicles, Vol.15))'
+  - Eskimo Song (Jazz from Atlanta 1923 - 1929)
+  - Black Cat Blues (Jazz from Atlanta 1923 - 1929)
+  - Georgia Stomp (Jazz from Atlanta 1923 - 1929)
+  - Home Sweet Home Blues (Jazz from Atlanta 1923 - 1929)
+  - My Pretty Girl (Jazz from Atlanta 1923 - 1929)
+  - After That (Jazz from Atlanta 1923 - 1929)
 external_urls:
-  spotify: https://open.spotify.com/artist/60XuVDvIMIK5RY3atP1ali
+  spotify: 'https://open.spotify.com/artist/60XuVDvIMIK5RY3atP1ali'
   wikipedia: ''
-image_path: 03_Resources/source_material/ArtistPortraits/CHARLES_FULCHER_AND_HIS_ORCHESTRA.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/CHARLES_FULCHER_AND_HIS_ORCHESTRA.jpg
 biography_enhanced_at: '2025-10-20T09:15:46.924381'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.nassaustreetsessions.com/people/fulchers-novelty-orchestra/
-- https://syncopatedtimes.com/building-where-first-on-location-recordings-of-jazz-and-country-were-made-faces-demo/
+  - 'https://www.nassaustreetsessions.com/people/fulchers-novelty-orchestra/'
+  - >-
+    https://syncopatedtimes.com/building-where-first-on-location-recordings-of-jazz-and-country-were-made-faces-demo/
 network_extracted: true
 entry_created: '2025-10-20T09:15:46.924391'
 last_updated: '2025-12-23T08:16:01.405150'
-origin: Augusta, Georgia, United States
+origin: 'Augusta, Georgia, United States'
+artist_type: person
 ---
 
 ![](CHARLES_FULCHER_AND_HIS_ORCHESTRA.jpg)

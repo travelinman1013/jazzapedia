@@ -2,12 +2,12 @@
 title: Osiris
 wiki_slug: osiris
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 birth_date: '1980'
 genres:
-- dembow
-- urbano latino
+  - dembow
+  - urbano latino
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/osiris.jpg
   caption: Osiris
@@ -28,48 +28,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Maceo Bond
-  - Tyrone Brunson
-  - Sha-Sha Stapleton
+    - Maceo Bond
+    - Tyrone Brunson
+    - Sha-Sha Stapleton
   influenced: []
   mentors:
-  - George Parker
+    - George Parker
 spotify_data:
   followers: 96
   id: 0uzmw5MdxZc5rInHKuTZp8
   popularity: 22
-  url: https://open.spotify.com/artist/0uzmw5MdxZc5rInHKuTZp8
+  url: 'https://open.spotify.com/artist/0uzmw5MdxZc5rInHKuTZp8'
 discography_enriched: true
 top_tracks:
-- Puta (Puta)
-- Ignorante (Ignorante)
-- Intento (Intento)
-- Tiempo (Tiempo)
-- AMNTQD (AMNTQD)
-- Peine 30 (Peine 30)
-- Haters
-- Ella se deja ve (Ella se deja ve)
-- CAROLINA REAPER (CAROLINA REAPER)
-- Humo y nicotina (Humo y nicotina)
+  - Puta (Puta)
+  - Ignorante (Ignorante)
+  - Intento (Intento)
+  - Tiempo (Tiempo)
+  - AMNTQD (AMNTQD)
+  - Peine 30 (Peine 30)
+  - Haters
+  - Ella se deja ve (Ella se deja ve)
+  - CAROLINA REAPER (CAROLINA REAPER)
+  - Humo y nicotina (Humo y nicotina)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d096fb46-bbb5-4c89-9265-67e51f4fb8f7
-  spotify: https://open.spotify.com/artist/0uzmw5MdxZc5rInHKuTZp8
+  musicbrainz: 'https://musicbrainz.org/artist/d096fb46-bbb5-4c89-9265-67e51f4fb8f7'
+  spotify: 'https://open.spotify.com/artist/0uzmw5MdxZc5rInHKuTZp8'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/osiris.jpg
 biography_enhanced_at: '2025-11-02T07:37:36.709309'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://ftp2.grandis.nu/funkyflyy/osbio.html
+  - 'https://ftp2.grandis.nu/funkyflyy/osbio.html'
 network_extracted: true
 entry_created: '2025-11-02T07:37:36.709319'
 last_updated: '2025-12-23T08:16:13.850134'
 disambiguation: progressive rock band from Bahrain
 musicbrainz_id: d096fb46-bbb5-4c89-9265-67e51f4fb8f7
-origin: Manama
+origin: 'Manama, Bahrain, Asia'
 tags:
-- neo-prog
-- progressive rock
+  - neo-prog
+  - progressive rock
+birth_place: 'Washington, D.C., United States'
 ---
 
 ![](osiris.jpg)

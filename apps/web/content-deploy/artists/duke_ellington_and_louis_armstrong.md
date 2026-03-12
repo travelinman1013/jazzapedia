@@ -3,49 +3,60 @@ biography_enhanced_at: '2026-01-08T01:36:26.458112'
 enhancement_provider: perplexity
 entry_created: '2026-01-08T01:36:26.458118'
 external_urls:
-  spotify: https://open.spotify.com/artist/3W4GTSHxlqXfXjdmSNIbTB
-  wikipedia: https://en.wikipedia.org/wiki/The_Great_Summit_(Duke_Ellington_and_Louis_Armstrong_album)
+  spotify: 'https://open.spotify.com/artist/3W4GTSHxlqXfXjdmSNIbTB'
+  wikipedia: >-
+    https://en.wikipedia.org/wiki/The_Great_Summit_(Duke_Ellington_and_Louis_Armstrong_album)
 genres:
-- big band
-- jazz
-- swing music
-- ragtime
-image_path: 03_Resources/source_material/ArtistPortraits/duke_ellington_and_louis_armstrong.jpg
+  - big band
+  - jazz
+  - swing music
+  - ragtime
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/duke_ellington_and_louis_armstrong.jpg
 last_updated: '2026-01-08T01:36:26.458119'
 musical_connections:
   collaborators:
-  - The Duke Ellington Orchestra
-  - Johnny Hodges, Cootie Williams, Ray Nance, Lawrence Brown
-  - Billy Strayhorn
-  - Louis Armstrong and Duke Ellington (together)
+    - The Duke Ellington Orchestra
+    - 'Johnny Hodges, Cootie Williams, Ray Nance, Lawrence Brown'
+    - Billy Strayhorn
+    - Louis Armstrong and Duke Ellington (together)
   influenced:
-  - Cootie Williams, Freddy Jenkins, Ray Nance
-  - Lawrence Brown
-  - Johnny Hodges
-  - Later generations of jazz bandleaders and soloists
+    - 'Cootie Williams, Freddy Jenkins, Ray Nance'
+    - Lawrence Brown
+    - Johnny Hodges
+    - Later generations of jazz bandleaders and soloists
   mentors:
-  - King Oliver
-  - New Orleans brass band and riverboat tradition
-  - Piano teachers and Washington, D.C. middle‑class culture
+    - King Oliver
+    - New Orleans brass band and riverboat tradition
+    - 'Piano teachers and Washington, D.C. middle‑class culture'
 network_extracted: true
-origin: Washington, District of Columbia, United States (Duke Ellington); New Orleans,
+origin: >-
+  Washington, District of Columbia, United States (Duke Ellington); New Orleans,
   Louisiana, United States (Louis Armstrong)
 primary_source: perplexity
 research_sources:
-- https://www.nepm.org/jazz-world/2017-07-24/louis-armstrong-and-duke-ellington-jazz-at-its-warmest-and-tightest
-- http://www.fainebooks.com/blog/armstrong-and-ellington-two-masters-of-modernism
-- https://www.mahoganybooks.com/9780358380436
-- https://www.youtube.com/watch?v=-XsNHGShcQ8
-- https://catalog.minlib.net/GroupedWork/267d12ea-ef7e-a599-7b6a-41ff3d43b1da-eng/Home
-- https://www.jerryjazzmusician.com/interview-with-larry-tye-author-of-the-jazzmen-how-duke-ellington-louis-armstrong-and-count-basie-transformed-america/
-- https://en.wikipedia.org/wiki/The_Great_Summit_(Duke_Ellington_and_Louis_Armstrong_album)
+  - >-
+    https://www.nepm.org/jazz-world/2017-07-24/louis-armstrong-and-duke-ellington-jazz-at-its-warmest-and-tightest
+  - >-
+    http://www.fainebooks.com/blog/armstrong-and-ellington-two-masters-of-modernism
+  - 'https://www.mahoganybooks.com/9780358380436'
+  - 'https://www.youtube.com/watch?v=-XsNHGShcQ8'
+  - >-
+    https://catalog.minlib.net/GroupedWork/267d12ea-ef7e-a599-7b6a-41ff3d43b1da-eng/Home
+  - >-
+    https://www.jerryjazzmusician.com/interview-with-larry-tye-author-of-the-jazzmen-how-duke-ellington-louis-armstrong-and-count-basie-transformed-america/
+  - >-
+    https://en.wikipedia.org/wiki/The_Great_Summit_(Duke_Ellington_and_Louis_Armstrong_album)
 spotify_data:
   followers: 29817
   id: 3W4GTSHxlqXfXjdmSNIbTB
   popularity: 35
-  url: https://open.spotify.com/artist/3W4GTSHxlqXfXjdmSNIbTB
+  url: 'https://open.spotify.com/artist/3W4GTSHxlqXfXjdmSNIbTB'
 status: active
-title: duke ellington and louis armstrong
+title: Duke Ellington and Louis Armstrong
+birth_place: 'Washington, District of Columbia, United States'
+birth_date: '1899'
+artist_type: band
 ---
 
 ![](duke_ellington_and_louis_armstrong.jpg)

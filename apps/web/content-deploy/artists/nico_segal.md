@@ -1,48 +1,52 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-17T02:01:37.692813'
-birth_place: Chicago, Illinois, USA
+birth_place: 'Chicago, Illinois, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-17T02:01:37.692819'
 external_urls:
-  spotify: https://open.spotify.com/artist/0ojcq9LJQWMawQdFDw3M0L
-  wikipedia: https://en.wikipedia.org/wiki/Nico_Segal
+  spotify: 'https://open.spotify.com/artist/0ojcq9LJQWMawQdFDw3M0L'
+  wikipedia: 'https://en.wikipedia.org/wiki/Nico_Segal'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/nico_segal.jpg
 last_updated: '2026-01-17T02:01:37.692820'
 musical_connections:
   collaborators:
-  - Chance the Rapper
-  - Vic Mensa
-  - Peter Cottontale
-  - Greg Landfair Jr.
-  - Nate Fox
-  - Julian Reid
-  - Frank Ocean
-  - J. Cole
-  - Kanye West
+    - Chance the Rapper
+    - Vic Mensa
+    - Peter Cottontale
+    - Greg Landfair Jr.
+    - Nate Fox
+    - Julian Reid
+    - Frank Ocean
+    - J. Cole
+    - Kanye West
   influenced: []
   mentors:
-  - Tito Carrillo
-  - Victor Garcia
-  - Von Freeman
-  - Marquis Hill
+    - Tito Carrillo
+    - Victor Garcia
+    - Von Freeman
+    - Marquis Hill
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.reservoir-media.com/listing/nico-segal/
-- https://www.nicosegal.com/about
-- https://en.wikipedia.org/wiki/Nico_Segal
-- https://www.nicosegal.com
-- https://www.capitalbop.com/nico-segal-and-julian-reid-on-the-juju-exchange-chicagos-latest-fusion-experiment/
-- https://thesedaysmag.com/features/2025/10/10/the-spirit-is-guiding-nico-segal
+  - 'https://www.reservoir-media.com/listing/nico-segal/'
+  - 'https://www.nicosegal.com/about'
+  - 'https://en.wikipedia.org/wiki/Nico_Segal'
+  - 'https://www.nicosegal.com'
+  - >-
+    https://www.capitalbop.com/nico-segal-and-julian-reid-on-the-juju-exchange-chicagos-latest-fusion-experiment/
+  - >-
+    https://thesedaysmag.com/features/2025/10/10/the-spirit-is-guiding-nico-segal
 spotify_data:
   followers: 194525
   id: 0ojcq9LJQWMawQdFDw3M0L
   popularity: 44
-  url: https://open.spotify.com/artist/0ojcq9LJQWMawQdFDw3M0L
+  url: 'https://open.spotify.com/artist/0ojcq9LJQWMawQdFDw3M0L'
 status: active
 title: Nico Segal
+origin: 'Chicago, Illinois, United States'
+birth_date: '1993-06-25'
 ---
 
 ![](nico_segal.jpg)

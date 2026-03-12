@@ -2,48 +2,50 @@
 artist_type: person
 biography_enhanced_at: '2026-01-14T01:08:20.049459'
 birth_date: '1987-03-08'
-birth_place: Houston
+birth_place: 'Houston, Texas, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-14T01:08:20.049472'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7de9971f-3e29-48b9-9647-f47841eb99db
-  spotify: https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3
+  musicbrainz: 'https://musicbrainz.org/artist/7de9971f-3e29-48b9-9647-f47841eb99db'
+  spotify: 'https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3'
   wikipedia: ''
 gender: Male
 genres:
-- christian hip hop
+  - christian hip hop
 image_path: 03_Resources/source_material/ArtistPortraits/tobe_nwigwe.jpg
 last_updated: '2026-01-14T01:08:20.049474'
 musical_connections:
   collaborators:
-  - Carlas 'CJ' Quinney
-  - FAT (his wife)
-  - Nell
+    - Carlas 'CJ' Quinney
+    - FAT (his wife)
+    - Nell
   influenced: []
   mentors:
-  - Eric Thomas
+    - Eric Thomas
 musicbrainz_id: 7de9971f-3e29-48b9-9647-f47841eb99db
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.xxlmag.com/tobe-nwigwe-interview/
-- https://www.ebony.com/magazine/tobe-nwigwe/
-- http://www.masqueradeatlanta.com/attraction/tobe-nwigwe/
-- https://www.engagingmusic.ca/writing/cincoriginals
-- https://rilwan.substack.com/p/hood-hymns-tobe-nwigwes-afrobeats
-- https://www.blackcatholicmessenger.org/hood-hymns-review/
-- https://musicanddance.uoregon.edu/professor-wows-coachella-performance-rapper-tobe-nwigwe
+  - 'https://www.xxlmag.com/tobe-nwigwe-interview/'
+  - 'https://www.ebony.com/magazine/tobe-nwigwe/'
+  - 'http://www.masqueradeatlanta.com/attraction/tobe-nwigwe/'
+  - 'https://www.engagingmusic.ca/writing/cincoriginals'
+  - 'https://rilwan.substack.com/p/hood-hymns-tobe-nwigwes-afrobeats'
+  - 'https://www.blackcatholicmessenger.org/hood-hymns-review/'
+  - >-
+    https://musicanddance.uoregon.edu/professor-wows-coachella-performance-rapper-tobe-nwigwe
 spotify_data:
   followers: 392288
   id: 3Qh89pgJeZq6d8uM1bTot3
   popularity: 52
-  url: https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3
+  url: 'https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3'
 status: active
 tags:
-- hip hop
-- southern hip hop
-- trap
+  - hip hop
+  - southern hip hop
+  - trap
 title: Tobe Nwigwe
+origin: 'Houston, Texas, United States'
 ---
 
 ![](tobe_nwigwe.jpg)

@@ -3,39 +3,41 @@ biography_enhanced_at: '2025-12-26T01:16:01.589498'
 enhancement_provider: perplexity
 entry_created: '2025-12-26T01:16:01.589504'
 external_urls:
-  spotify: https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq
-  wikipedia: https://en.wikipedia.org/wiki/Metheny/Mehldau
+  spotify: 'https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq'
+  wikipedia: 'https://en.wikipedia.org/wiki/Metheny/Mehldau'
 genres:
-- jazz
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/pat_metheny_and_brad_mehldau.jpg
 last_updated: '2025-12-26T01:16:01.589505'
 musical_connections:
   collaborators:
-  - Larry Grenadier
-  - Jeff Ballard
-  - Lyle Mays
+    - Larry Grenadier
+    - Jeff Ballard
+    - Lyle Mays
   influenced:
-  - Joshua Redman
+    - Joshua Redman
   mentors:
-  - Jim Hall and Bill Evans
-  - Theodor Adorno
+    - Jim Hall and Bill Evans
+    - Theodor Adorno
 network_extracted: true
-origin: Lee's Summit, Missouri, USA (Pat Metheny birthplace)
+origin: 'Lee''s Summit, Missouri, USA (Pat Metheny birthplace)'
 primary_source: perplexity
 research_sources:
-- https://jazztimes.com/features/profiles/pat-metheny-and-brad-mehldau-counterpoint/
-- https://www.allaboutjazz.com/musicians/pat-metheny-brad-mehldau/
-- https://www.patmetheny.com/music/detail.cfm?id=102
-- https://www.bluenote.com/artist/pat-metheny/
-- https://en.wikipedia.org/wiki/Metheny/Mehldau
+  - >-
+    https://jazztimes.com/features/profiles/pat-metheny-and-brad-mehldau-counterpoint/
+  - 'https://www.allaboutjazz.com/musicians/pat-metheny-brad-mehldau/'
+  - 'https://www.patmetheny.com/music/detail.cfm?id=102'
+  - 'https://www.bluenote.com/artist/pat-metheny/'
+  - 'https://en.wikipedia.org/wiki/Metheny/Mehldau'
 spotify_data:
   followers: 254642
   id: 2vI9KFm0fwSfPrpEgOeIbq
   popularity: 49
-  url: https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq
+  url: 'https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq'
 status: active
 title: Pat Metheny & Brad Mehldau
-
+birth_place: 'Lee''s Summit, Missouri, United States'
+artist_type: band
 ---
 
 ![](pat_metheny_and_brad_mehldau.jpg)

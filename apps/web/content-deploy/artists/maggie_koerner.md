@@ -3,15 +3,15 @@ title: Maggie Koerner
 wiki_slug: maggie-koerner
 schema_version: 2
 status: active
-birth_place: Shreveport, Louisiana, USA
+birth_place: 'Shreveport, Louisiana, USA'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/maggie_koerner.jpg
   caption: Maggie Koerner
   background: solo_singer
-  origin: Shreveport, Louisiana, USA
+  origin: 'Shreveport, Louisiana, USA'
 audio_profile:
-  tempo_avg: 128.0
+  tempo_avg: 128
   energy_avg: 0.465
   valence_avg: 0.301
   danceability_avg: 0.496
@@ -25,49 +25,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Galactic
-  - David Shaw
-  - Brady Blade
-  - Andrew Campanelli
+    - Galactic
+    - David Shaw
+    - Brady Blade
+    - Andrew Campanelli
   influenced: []
   mentors:
-  - Fink
+    - Fink
 spotify_data:
   followers: 17562
   id: 0I21YuJNE9DbkOcacgbQoe
   popularity: 35
-  url: https://open.spotify.com/artist/0I21YuJNE9DbkOcacgbQoe
+  url: 'https://open.spotify.com/artist/0I21YuJNE9DbkOcacgbQoe'
 discography_enriched: true
 top_tracks:
-- My Girl (My Girl)
-- If I Die (The Bartholomew Songs)
-- Hey Na Na (Carnivale Electricos)
-- Birds
-- Dolla Diva (Into The Deep (Deluxe Edition))
-- Be Somebody (Who Loves) (The Bartholomew Songs)
-- He Calls Me Mama (Neutral Ground)
-- Wings to Fly (Wings to Fly)
-- What The World Needs Now
-- Wasted (The Bartholomew Songs)
+  - My Girl (My Girl)
+  - If I Die (The Bartholomew Songs)
+  - Hey Na Na (Carnivale Electricos)
+  - Birds
+  - Dolla Diva (Into The Deep (Deluxe Edition))
+  - Be Somebody (Who Loves) (The Bartholomew Songs)
+  - He Calls Me Mama (Neutral Ground)
+  - Wings to Fly (Wings to Fly)
+  - What The World Needs Now
+  - Wasted (The Bartholomew Songs)
 external_urls:
-  spotify: https://open.spotify.com/artist/0I21YuJNE9DbkOcacgbQoe
+  spotify: 'https://open.spotify.com/artist/0I21YuJNE9DbkOcacgbQoe'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/maggie_koerner.jpg
 biography_enhanced_at: '2025-11-20T07:39:11.943942'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://ninjatune.net/artist/maggie-koerner
-- https://musicinsideout.wwno.org/maggie-koerner-2/
-- https://www.musicconnection.com/signing-story-maggie-koerner/
-- https://neworleans.riverbeats.life/tour-diaries-on-the-road-with-maggie-koerner/
-- https://www.mississippifreepress.org/maggie-koerner-making-momentum/
-- https://weaa.org/2020-04-14/life-has-been-unpredictable-for-maggie-koerner
-- https://baltimoremediablog.com/2019/09/qa-maggie-koerner/
-- https://www.neworleans.com/listing/maggie-koerner/46579/
+  - 'https://ninjatune.net/artist/maggie-koerner'
+  - 'https://musicinsideout.wwno.org/maggie-koerner-2/'
+  - 'https://www.musicconnection.com/signing-story-maggie-koerner/'
+  - >-
+    https://neworleans.riverbeats.life/tour-diaries-on-the-road-with-maggie-koerner/
+  - 'https://www.mississippifreepress.org/maggie-koerner-making-momentum/'
+  - 'https://weaa.org/2020-04-14/life-has-been-unpredictable-for-maggie-koerner'
+  - 'https://baltimoremediablog.com/2019/09/qa-maggie-koerner/'
+  - 'https://www.neworleans.com/listing/maggie-koerner/46579/'
 network_extracted: true
 entry_created: '2025-11-20T07:39:11.943946'
 last_updated: '2025-12-23T08:16:12.493132'
+artist_type: person
 ---
 
 ![](maggie_koerner.jpg)

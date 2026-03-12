@@ -1,17 +1,17 @@
 ---
-title: jimmy reed
+title: Jimmy Reed
 wiki_slug: jimmy-reed
 schema_version: 2
 status: active
-birth_place: Dunleith, Mississippi, United States
+birth_place: 'Dunleith, Mississippi, United States'
 genres:
-- blues
-- classic blues
+  - blues
+  - classic blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jimmy_reed.jpg
   caption: jimmy reed
   background: solo_singer
-  origin: Dunleith, Mississippi, United States
+  origin: 'Dunleith, Mississippi, United States'
 audio_profile:
   tempo_avg: 114.5
   energy_avg: 0.43
@@ -27,47 +27,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Eddie Taylor
-  - Albert King
+    - Eddie Taylor
+    - Albert King
   influenced:
-  - Elvis Presley
-  - Bob Dylan
-  - Van Morrison
-  - Neil Young
+    - Elvis Presley
+    - Bob Dylan
+    - Van Morrison
+    - Neil Young
   mentors:
-  - Eddie Taylor
+    - Eddie Taylor
 spotify_data:
   followers: 146783
   id: 41ZMMuFFLPTVPkUsSI5KlV
   popularity: 40
-  url: https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV
+  url: 'https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV'
 discography_enriched: true
 top_tracks:
-- Baby What You Want Me To Do
-- Take Out Some Insurance (Rockin' With Reed)
-- 'Bright Lights, Big City (Mr. Luck: The Complete Vee-Jay Singles)'
-- 'Take Out Some Insurance (Mr. Luck: The Complete Vee-Jay Singles)'
-- Big Boss Man (Found Love)
-- Shame, Shame, Shame
-- Baby, What You Want Me To Do (Found Love)
-- Buy Me A Hound Dog
-- 'High And Lonesome (Mr. Luck: The Complete Vee-Jay Singles)'
-- I Ain't Got You
+  - Baby What You Want Me To Do
+  - Take Out Some Insurance (Rockin' With Reed)
+  - 'Bright Lights, Big City (Mr. Luck: The Complete Vee-Jay Singles)'
+  - 'Take Out Some Insurance (Mr. Luck: The Complete Vee-Jay Singles)'
+  - Big Boss Man (Found Love)
+  - 'Shame, Shame, Shame'
+  - 'Baby, What You Want Me To Do (Found Love)'
+  - Buy Me A Hound Dog
+  - 'High And Lonesome (Mr. Luck: The Complete Vee-Jay Singles)'
+  - I Ain't Got You
 external_urls:
-  spotify: https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV
-  wikipedia: https://en.wikipedia.org/wiki/Jimmy_Reed
+  spotify: 'https://open.spotify.com/artist/41ZMMuFFLPTVPkUsSI5KlV'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jimmy_Reed'
 image_path: 03_Resources/source_material/ArtistPortraits/jimmy_reed.jpg
 biography_enhanced_at: '2025-11-20T06:39:25.227717'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.ebsco.com/research-starters/biography/jimmy-reed
-- https://www.britannica.com/biography/Jimmy-Reed
-- https://msbluestrail.org/blues-trail-markers/jimmy-reed
-- https://www.udiscovermusic.com/stories/jimmy-reed-story-unlikely-blues-hero/
+  - 'https://www.ebsco.com/research-starters/biography/jimmy-reed'
+  - 'https://www.britannica.com/biography/Jimmy-Reed'
+  - 'https://msbluestrail.org/blues-trail-markers/jimmy-reed'
+  - 'https://www.udiscovermusic.com/stories/jimmy-reed-story-unlikely-blues-hero/'
 network_extracted: true
 entry_created: '2025-11-20T06:39:25.227728'
 last_updated: '2025-12-23T08:16:10.484336'
+birth_date: '1925-09-06'
+artist_type: person
 ---
 
 ![](jimmy_reed.jpg)

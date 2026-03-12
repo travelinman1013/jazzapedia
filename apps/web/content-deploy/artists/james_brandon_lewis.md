@@ -1,45 +1,45 @@
 ---
-title: james brandon lewis
+title: James Brandon Lewis
 wiki_slug: james-brandon-lewis
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1983'
-birth_place: Buffalo
+birth_place: 'Buffalo, New York, United States'
 genres:
-- free jazz
-- jazz
+  - free jazz
+  - jazz
 instruments:
-- eponymous
-- original
-- saxophone
-- tenor saxophone
-associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 625e8b05-852c-478b-aca2-559e15ab0790
-  name: James Brandon Lewis Trio
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
   - saxophone
-  mbid: 9993de91-8a6c-48d3-9bce-d80342185636
-  name: James Brandon Lewis Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - original
   - tenor saxophone
-  mbid: fa7628ea-6c62-4c0e-a923-5b40a0941c1c
-  name: Red Lily Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7d1a4c3b-1f94-4dab-b0a0-a7f852720ce6
-  name: Mendoza Hoff Revels
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 625e8b05-852c-478b-aca2-559e15ab0790
+    name: James Brandon Lewis Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - saxophone
+    mbid: 9993de91-8a6c-48d3-9bce-d80342185636
+    name: James Brandon Lewis Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - tenor saxophone
+    mbid: fa7628ea-6c62-4c0e-a923-5b40a0941c1c
+    name: Red Lily Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7d1a4c3b-1f94-4dab-b0a0-a7f852720ce6
+    name: Mendoza Hoff Revels
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/james_brandon_lewis.jpg
   caption: james brandon lewis
@@ -61,58 +61,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - William Parker
-  - Chad Taylor
-  - Heroes Are Gang Leaders
-  - Mark Ribot
-  - Red Lily Quintet
+    - William Parker
+    - Chad Taylor
+    - Heroes Are Gang Leaders
+    - Mark Ribot
+    - Red Lily Quintet
   influenced:
-  - No widely documented direct proteges as of 2024
+    - No widely documented direct proteges as of 2024
   mentors:
-  - Charlie Haden
-  - Wadada Leo Smith
-  - Geri Allen
-  - Benny Golson
+    - Charlie Haden
+    - Wadada Leo Smith
+    - Geri Allen
+    - Benny Golson
 spotify_data:
   followers: 10361
   id: 4vPE7pt5RgtB8cqDqQHhMK
   popularity: 21
-  url: https://open.spotify.com/artist/4vPE7pt5RgtB8cqDqQHhMK
+  url: 'https://open.spotify.com/artist/4vPE7pt5RgtB8cqDqQHhMK'
 discography_enriched: true
 top_tracks:
-- That Thang
-- First Born (Radiant Imprints)
-- Prince Eugene (Apple Cores)
-- 'Apple Cores #1 (Apple Cores)'
-- Five Spots to Caravan (Apple Cores)
-- That Thang (The Messthetics and James Brandon Lewis)
-- Remember Brooklyn & Moki (Apple Cores)
-- Emergence (The Messthetics and James Brandon Lewis)
-- Of Mind and Feeling (Apple Cores)
-- 'Apple Cores #2 (Apple Cores)'
+  - That Thang
+  - First Born (Radiant Imprints)
+  - Prince Eugene (Apple Cores)
+  - 'Apple Cores #1 (Apple Cores)'
+  - Five Spots to Caravan (Apple Cores)
+  - That Thang (The Messthetics and James Brandon Lewis)
+  - Remember Brooklyn & Moki (Apple Cores)
+  - Emergence (The Messthetics and James Brandon Lewis)
+  - Of Mind and Feeling (Apple Cores)
+  - 'Apple Cores #2 (Apple Cores)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/bcdd85f7-cd18-46cf-9b69-2f58f42e00c4
-  spotify: https://open.spotify.com/artist/4vPE7pt5RgtB8cqDqQHhMK
-  wikipedia: https://en.wikipedia.org/wiki/James_Brandon_Lewis
+  musicbrainz: 'https://musicbrainz.org/artist/bcdd85f7-cd18-46cf-9b69-2f58f42e00c4'
+  spotify: 'https://open.spotify.com/artist/4vPE7pt5RgtB8cqDqQHhMK'
+  wikipedia: 'https://en.wikipedia.org/wiki/James_Brandon_Lewis'
 image_path: 03_Resources/source_material/ArtistPortraits/james_brandon_lewis.jpg
 biography_enhanced_at: '2025-10-29T16:58:14.881272'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.pointofdeparture.org/PoD76/PoD76Lewis.html
-- https://montereyjazz.org/artist/james-brandon-lewis-red-lily-quintet/
-- https://kerrytownconcerthouse.com/james-brandon-lewis/
-- https://downbeat.com/news/detail/james-brandon-lewis-the-storyteller
+  - 'https://www.pointofdeparture.org/PoD76/PoD76Lewis.html'
+  - 'https://montereyjazz.org/artist/james-brandon-lewis-red-lily-quintet/'
+  - 'https://kerrytownconcerthouse.com/james-brandon-lewis/'
+  - 'https://downbeat.com/news/detail/james-brandon-lewis-the-storyteller'
 network_extracted: true
 entry_created: '2025-10-29T16:58:14.881288'
 last_updated: '2025-12-23T08:16:10.170486'
 gender: Male
 musicbrainz_id: bcdd85f7-cd18-46cf-9b69-2f58f42e00c4
 tags:
-- avant-garde jazz
-- contemporary jazz
-- jazz
-
+  - avant-garde jazz
+  - contemporary jazz
+  - jazz
 ---
 
 ![](james_brandon_lewis.jpg)

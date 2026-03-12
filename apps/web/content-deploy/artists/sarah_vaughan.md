@@ -5,24 +5,24 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1924-03-27'
-birth_place: Newark
+birth_place: 'Newark, New Jersey, United States'
 death_date: '1990-04-03'
 genres:
-- vocal jazz
-- jazz
+  - vocal jazz
+  - jazz
 instruments:
-- eponymous
-- original
-- lead vocals
-- soprano vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
-  mbid: 23bdf915-67af-4089-b938-60efdaeab13f
-  name: Sarah Vaughan and Her Trio
+  - lead vocals
+  - soprano vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 23bdf915-67af-4089-b938-60efdaeab13f
+    name: Sarah Vaughan and Her Trio
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sarah_vaughan.jpg
   caption: Sarah Vaughan
@@ -45,59 +45,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dizzy Gillespie
-  - Charlie Parker
-  - Count Basie
-  - Quincy Jones
-  - Benny Carter
-  - Frank Foster
+    - Dizzy Gillespie
+    - Charlie Parker
+    - Count Basie
+    - Quincy Jones
+    - Benny Carter
+    - Frank Foster
   influenced:
-  - Anita Baker
-  - Amy Winehouse
-  - Mel Tormé
+    - Anita Baker
+    - Amy Winehouse
+    - Mel Tormé
   mentors:
-  - Earl Hines
-  - Billy Eckstine
-  - Dizzy Gillespie
-  - Charlie Parker
+    - Earl Hines
+    - Billy Eckstine
+    - Dizzy Gillespie
+    - Charlie Parker
 spotify_data:
   followers: 708156
   id: 1bgyxtWjZwA5PQlDsvs9b8
   popularity: 54
-  url: https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8
+  url: 'https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8'
 discography_enriched: true
 top_tracks:
-- Misty
-- Misty (Vaughan And Violins)
-- Lullaby Of Birdland (Sarah Vaughan)
-- Embraceable You (Sarah Vaughan)
-- Black Coffee (After Hours)
-- Words Can't Describe (Swingin' Easy)
-- Broken Hearted Melody (The Magic Of Sarah Vaughan)
-- Tenderly
-- Come Rain or Come Shine (Sarah Vaughan In Hi-Fi)
-- Whatever Lola Wants - Gotan Project Remix
+  - Misty
+  - Misty (Vaughan And Violins)
+  - Lullaby Of Birdland (Sarah Vaughan)
+  - Embraceable You (Sarah Vaughan)
+  - Black Coffee (After Hours)
+  - Words Can't Describe (Swingin' Easy)
+  - Broken Hearted Melody (The Magic Of Sarah Vaughan)
+  - Tenderly
+  - Come Rain or Come Shine (Sarah Vaughan In Hi-Fi)
+  - Whatever Lola Wants - Gotan Project Remix
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/351d8bdf-33a1-45e2-8c04-c85fad20da55
-  spotify: https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8
-  wikipedia: https://en.wikipedia.org/wiki/Sarah_Vaughan
+  musicbrainz: 'https://musicbrainz.org/artist/351d8bdf-33a1-45e2-8c04-c85fad20da55'
+  spotify: 'https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sarah_Vaughan'
 image_path: 03_Resources/source_material/ArtistPortraits/sarah_vaughan.jpg
 biography_enhanced_at: '2025-10-26T12:31:46.680095'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- National Endowment for the Arts
-- Biography.com
-- Encyclopaedia Britannica
+  - National Endowment for the Arts
+  - Biography.com
+  - Encyclopaedia Britannica
 network_extracted: true
 entry_created: '2025-10-26T12:31:46.680104'
 last_updated: '2025-12-23T08:16:15.398649'
 gender: Female
 musicbrainz_id: 351d8bdf-33a1-45e2-8c04-c85fad20da55
 tags:
-- bebop
-- bop
-- bossa nova
+  - bebop
+  - bop
+  - bossa nova
+is_active: false
 ---
 
 ![](sarah_vaughan.jpg)

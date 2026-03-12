@@ -4,15 +4,15 @@ wiki_slug: amerimambo
 schema_version: 2
 status: active
 genres:
-- latin jazz
-- cha cha cha
-- mambo
+  - latin jazz
+  - cha cha cha
+  - mambo
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/amerimambo.jpg
   caption: Amerimambo
   background: solo_singer
 audio_profile:
-  tempo_avg: 115.0
+  tempo_avg: 115
   energy_avg: 0.482
   valence_avg: 0.73
   danceability_avg: 0.726
@@ -26,46 +26,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sugo Music Group
+    - Sugo Music Group
   influenced:
-  - Ballroom dance instructors and social dance communities
+    - Ballroom dance instructors and social dance communities
   mentors:
-  - Dámaso Pérez Prado
+    - Dámaso Pérez Prado
 spotify_data:
   followers: 235
   id: 6l34auv95IzrP7Ns2jZ2jw
   popularity: 7
-  url: https://open.spotify.com/artist/6l34auv95IzrP7Ns2jZ2jw
+  url: 'https://open.spotify.com/artist/6l34auv95IzrP7Ns2jZ2jw'
 discography_enriched: true
 top_tracks:
-- 'La Cumparsita (Worldwide Music: The International Sessions, Vol. 7)'
-- 'Quien Sera (Drinks and Dinner: The Jazz Set, Vol. 15)'
-- 'Tequila (Meritage Dance: Ballroom Latin, Vol. 1)'
-- Hernando's Hideaway (The Ultimate Ballroom Collection - Tango)
-- 'La Cumparsita (Meritage Dance: Ballroom Latin, Vol. 1)'
-- 'Angels We Have Heard On High (Meritage Christmas: Winter Wonderland)'
-- 'Little Drummer Boy (Meritage Christmas: Winter Wonderland)'
-- The First Noel
-- 'O Christmas Tree (Meritage Christmas: Winter Wonderland)'
-- 'Beautiful Maria of My Soul (Bella Maria de Mi Alma) (Perfect Wedding Music Collection: Contemporary Reception - Cocktails
-  and Dance, Volume 5)'
+  - 'La Cumparsita (Worldwide Music: The International Sessions, Vol. 7)'
+  - 'Quien Sera (Drinks and Dinner: The Jazz Set, Vol. 15)'
+  - 'Tequila (Meritage Dance: Ballroom Latin, Vol. 1)'
+  - Hernando's Hideaway (The Ultimate Ballroom Collection - Tango)
+  - 'La Cumparsita (Meritage Dance: Ballroom Latin, Vol. 1)'
+  - 'Angels We Have Heard On High (Meritage Christmas: Winter Wonderland)'
+  - 'Little Drummer Boy (Meritage Christmas: Winter Wonderland)'
+  - The First Noel
+  - 'O Christmas Tree (Meritage Christmas: Winter Wonderland)'
+  - >-
+    Beautiful Maria of My Soul (Bella Maria de Mi Alma) (Perfect Wedding Music
+    Collection: Contemporary Reception - Cocktails and Dance, Volume 5)
 external_urls:
-  spotify: https://open.spotify.com/artist/6l34auv95IzrP7Ns2jZ2jw
+  spotify: 'https://open.spotify.com/artist/6l34auv95IzrP7Ns2jZ2jw'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/amerimambo.jpg
 biography_enhanced_at: '2025-11-23T06:26:35.816678'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Amerimambo/+wiki
-- https://www.imdb.com/title/tt9242528/soundtrack/
-- https://open.spotify.com/artist/6l34auv95IzrP7Ns2jZ2jw
-- https://www.shazam.com/artist/amerimambo/5191829
-- https://music.apple.com/ca/artist/ramon-stagnaro/4773019
+  - 'https://www.last.fm/music/Amerimambo/+wiki'
+  - 'https://www.imdb.com/title/tt9242528/soundtrack/'
+  - 'https://open.spotify.com/artist/6l34auv95IzrP7Ns2jZ2jw'
+  - 'https://www.shazam.com/artist/amerimambo/5191829'
+  - 'https://music.apple.com/ca/artist/ramon-stagnaro/4773019'
 network_extracted: true
 entry_created: '2025-11-23T06:26:35.816692'
 last_updated: '2025-12-23T08:16:04.699888'
-origin: United States (likely studio project origin; no specific city or state publicly listed)
+origin: >-
+  United States (likely studio project origin; no specific city or state
+  publicly listed)
+artist_type: band
 ---
 
 ![](amerimambo.jpg)

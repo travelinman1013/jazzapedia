@@ -1,31 +1,31 @@
 ---
-title: linda ronstadt
+title: Linda Ronstadt
 wiki_slug: linda-ronstadt
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1946-07-15'
-birth_place: Tucson
+birth_place: 'Tucson, Arizona, United States'
 genres:
-- country rock
-- mariachi
+  - country rock
+  - mariachi
 instruments:
-- acoustic guitar
-- background vocals
-- lead vocals
-- soprano vocals
-- other vocals
+  - acoustic guitar
+  - background vocals
+  - lead vocals
+  - soprano vocals
+  - other vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 34b7e795-8970-46c7-97bd-80fb4fa3b354
-  name: The Zozo Sisters
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a226bf5f-1ccd-4ada-b0af-b54857e76ccb
-  name: The Stone Poneys
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 34b7e795-8970-46c7-97bd-80fb4fa3b354
+    name: The Zozo Sisters
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a226bf5f-1ccd-4ada-b0af-b54857e76ccb
+    name: The Stone Poneys
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/linda_ronstadt.jpg
   caption: linda ronstadt
@@ -33,7 +33,7 @@ infobox:
   born: '1946-07-15'
   origin: Tucson
 audio_profile:
-  tempo_avg: 122.0
+  tempo_avg: 122
   energy_avg: 0.335
   valence_avg: 0.474
   danceability_avg: 0.494
@@ -47,58 +47,65 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Stone Poneys
-  - Dolly Parton
-  - Emmylou Harris
+    - The Stone Poneys
+    - Dolly Parton
+    - Emmylou Harris
   influenced:
-  - Sheryl Crow
-  - Bonnie Raitt
+    - Sheryl Crow
+    - Bonnie Raitt
   mentors:
-  - Nelson Riddle
-  - Peter Asher
+    - Nelson Riddle
+    - Peter Asher
 spotify_data:
   followers: 1077404
   id: 1sXbwvCQLGZnaH0Jp2HTVc
   popularity: 60
-  url: https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc
+  url: 'https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc'
 discography_enriched: true
 top_tracks:
-- Blue Bayou (Simple Dreams)
-- Don't Know Much (with Aaron Neville) (Cry Like a Rainstorm Howl Like the Wind)
-- You're No Good (Heart Like A Wheel)
-- When Will I Be Loved (Heart Like A Wheel)
-- Long Long Time (Silk Purse)
-- Different Drum (Evergreen, Vol.2)
-- Wildflowers - 2015 Remaster (Trio (2016 Remaster))
-- Somewhere Out There - From "An American Tail" Soundtrack (An American Tail)
-- All My Life (with Aaron Neville) - 1999 Remaster (Cry Like a Rainstorm Howl Like the Wind)
-- To Know Him Is to Love Him - 2015 Remaster (Trio (2016 Remaster))
+  - Blue Bayou (Simple Dreams)
+  - >-
+    Don't Know Much (with Aaron Neville) (Cry Like a Rainstorm Howl Like the
+    Wind)
+  - You're No Good (Heart Like A Wheel)
+  - When Will I Be Loved (Heart Like A Wheel)
+  - Long Long Time (Silk Purse)
+  - 'Different Drum (Evergreen, Vol.2)'
+  - Wildflowers - 2015 Remaster (Trio (2016 Remaster))
+  - Somewhere Out There - From "An American Tail" Soundtrack (An American Tail)
+  - >-
+    All My Life (with Aaron Neville) - 1999 Remaster (Cry Like a Rainstorm Howl
+    Like the Wind)
+  - To Know Him Is to Love Him - 2015 Remaster (Trio (2016 Remaster))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/498f2581-be21-4eef-8756-fbb89d79b1c0
-  spotify: https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc
-  wikipedia: https://en.wikipedia.org/wiki/Linda_Ronstadt
+  musicbrainz: 'https://musicbrainz.org/artist/498f2581-be21-4eef-8756-fbb89d79b1c0'
+  spotify: 'https://open.spotify.com/artist/1sXbwvCQLGZnaH0Jp2HTVc'
+  wikipedia: 'https://en.wikipedia.org/wiki/Linda_Ronstadt'
 image_path: 03_Resources/source_material/ArtistPortraits/linda_ronstadt.jpg
 biography_enhanced_at: '2025-11-04T11:11:33.263717'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Linda_Ronstadt
-- https://www.biography.com/musicians/linda-ronstadt
-- https://www.britannica.com/biography/Linda-Ronstadt
-- https://www.arts.gov/honors/medals/linda-ronstadt
-- https://lindaronstadt.com/pages/about
-- https://californiamuseum.org/inductee/linda-ronstadt/
-- https://www.countrymusichalloffame.org/learn/teacher-resource-portal/social-studies/discover-linda-ronstadt
-- https://thesongbook.org/hall-of-fame/songbook-hall-of-fame-honorees/linda-ronstadt/
-- https://www.ronstadt-linda.com/gold03.htm
+  - 'https://en.wikipedia.org/wiki/Linda_Ronstadt'
+  - 'https://www.biography.com/musicians/linda-ronstadt'
+  - 'https://www.britannica.com/biography/Linda-Ronstadt'
+  - 'https://www.arts.gov/honors/medals/linda-ronstadt'
+  - 'https://lindaronstadt.com/pages/about'
+  - 'https://californiamuseum.org/inductee/linda-ronstadt/'
+  - >-
+    https://www.countrymusichalloffame.org/learn/teacher-resource-portal/social-studies/discover-linda-ronstadt
+  - >-
+    https://thesongbook.org/hall-of-fame/songbook-hall-of-fame-honorees/linda-ronstadt/
+  - 'https://www.ronstadt-linda.com/gold03.htm'
 network_extracted: true
 entry_created: '2025-11-04T11:11:33.263726'
 last_updated: '2025-12-23T08:16:11.951145'
 gender: Female
 musicbrainz_id: 498f2581-be21-4eef-8756-fbb89d79b1c0
 tags:
-- aln-sh
-- country
+  - aln-sh
+  - country
+origin: 'Los Angeles, California, United States'
 ---
 
 ![](linda_ronstadt.jpg)

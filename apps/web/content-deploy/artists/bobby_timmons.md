@@ -1,101 +1,103 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '1958'
-  end: '1961'
-  instruments: []
-  mbid: 209ddf15-ee0a-41a1-a1f5-6f4c0409d2ee
-  name: Art Blakey & The Jazz Messengers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 866ba678-c9d4-4d29-817d-d4897ee20f97
-  name: The Bobby Timmons Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 906e0ad9-cf42-4c75-a170-5759c27a5bba
-  name: The Young Lions
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7e3ca84e-3f2e-4f20-a33c-bb5eac78de04
-  name: Sonny Stitt Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 19a4c591-7a8d-4792-b465-6955346be1df
-  name: The Cannonball Adderley Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: fa465ae9-93b8-4976-83c1-d02f72314c5a
-  name: Johnny Griffin Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f0415b73-933d-4b1d-9f19-69b835d4b28c
-  name: Chet Baker & Crew
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: fd0e891f-7bcd-4fcd-8d11-29c712d23539
-  name: The Riverside Jazz Stars
+  - begin: '1958'
+    end: '1961'
+    instruments: []
+    mbid: 209ddf15-ee0a-41a1-a1f5-6f4c0409d2ee
+    name: Art Blakey & The Jazz Messengers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 866ba678-c9d4-4d29-817d-d4897ee20f97
+    name: The Bobby Timmons Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 906e0ad9-cf42-4c75-a170-5759c27a5bba
+    name: The Young Lions
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7e3ca84e-3f2e-4f20-a33c-bb5eac78de04
+    name: Sonny Stitt Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 19a4c591-7a8d-4792-b465-6955346be1df
+    name: The Cannonball Adderley Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: fa465ae9-93b8-4976-83c1-d02f72314c5a
+    name: Johnny Griffin Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f0415b73-933d-4b1d-9f19-69b835d4b28c
+    name: Chet Baker & Crew
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: fd0e891f-7bcd-4fcd-8d11-29c712d23539
+    name: The Riverside Jazz Stars
 biography_enhanced_at: '2026-01-06T02:10:07.404844'
 birth_date: '1935-12-19'
-birth_place: Philadelphia
+birth_place: 'Philadelphia, Pennsylvania, United States'
 death_date: '1974-03-01'
 enhancement_provider: perplexity
 entry_created: '2026-01-06T02:10:07.404849'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ef05197e-aacb-4dbf-9cc4-2a9abee82f03
-  spotify: https://open.spotify.com/artist/0xRqtLGIVSzXM9yg2wFMLC
+  musicbrainz: 'https://musicbrainz.org/artist/ef05197e-aacb-4dbf-9cc4-2a9abee82f03'
+  spotify: 'https://open.spotify.com/artist/0xRqtLGIVSzXM9yg2wFMLC'
   wikipedia: ''
 gender: Male
 genres:
-- hard bop
-- jazz
-- bebop
-- cool jazz
+  - hard bop
+  - jazz
+  - bebop
+  - cool jazz
 image_path: 03_Resources/source_material/ArtistPortraits/bobby_timmons.jpg
 instruments:
-- piano
+  - piano
 last_updated: '2026-01-06T02:10:07.404850'
 musical_connections:
   collaborators:
-  - Art Blakey
-  - Cannonball Adderley
-  - Benny Golson
-  - Ron Carter
-  - Wayne Shorter
+    - Art Blakey
+    - Cannonball Adderley
+    - Benny Golson
+    - Ron Carter
+    - Wayne Shorter
   influenced:
-  - Soul jazz genre musicians
+    - Soul jazz genre musicians
   mentors:
-  - Local Philadelphia teachers
-  - Bud Powell
+    - Local Philadelphia teachers
+    - Bud Powell
 musicbrainz_id: ef05197e-aacb-4dbf-9cc4-2a9abee82f03
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.jazzikology.com/artists-bobby-timmons
-- https://jazzleadsheets.com/composers/bobby-timmons.html
-- https://fromthevaults-boppinbob.blogspot.com/2025/12/bobby-timmons-born-19-december-1935.html
-- https://www.allaboutjazz.com/musicians/bobby-timmons/
-- https://concord.com/artist/bobby-timmons/
-- https://wbssmedia.com/artists/detail/3187
-- https://www.bluenote.com/artist/bobby-timmons/
-- https://www.allsolos.com/soloist/85/bobby-timmons
+  - 'https://www.jazzikology.com/artists-bobby-timmons'
+  - 'https://jazzleadsheets.com/composers/bobby-timmons.html'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2025/12/bobby-timmons-born-19-december-1935.html
+  - 'https://www.allaboutjazz.com/musicians/bobby-timmons/'
+  - 'https://concord.com/artist/bobby-timmons/'
+  - 'https://wbssmedia.com/artists/detail/3187'
+  - 'https://www.bluenote.com/artist/bobby-timmons/'
+  - 'https://www.allsolos.com/soloist/85/bobby-timmons'
 spotify_data:
   followers: 33054
   id: 0xRqtLGIVSzXM9yg2wFMLC
   popularity: 43
-  url: https://open.spotify.com/artist/0xRqtLGIVSzXM9yg2wFMLC
+  url: 'https://open.spotify.com/artist/0xRqtLGIVSzXM9yg2wFMLC'
 status: active
 tags:
-- hard bop
-- jazz
-- soul jazz
+  - hard bop
+  - jazz
+  - soul jazz
 title: Bobby Timmons
+is_active: false
 ---
 
 ![](bobby_timmons.jpg)

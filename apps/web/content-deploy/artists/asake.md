@@ -2,54 +2,53 @@
 artist_type: person
 biography_enhanced_at: '2025-12-28T01:56:56.684449'
 birth_date: '1995-01-13'
-birth_place: Lagos
+birth_place: 'Lagos, Nigeria, United States'
 disambiguation: Nigerian singer–songwriter
 enhancement_provider: perplexity
 entry_created: '2025-12-28T01:56:56.684457'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2b37ba5e-2162-46ca-bbad-f076f6a333bd
-  spotify: https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg
-  wikipedia: https://en.wikipedia.org/wiki/Asake
+  musicbrainz: 'https://musicbrainz.org/artist/2b37ba5e-2162-46ca-bbad-f076f6a333bd'
+  spotify: 'https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg'
+  wikipedia: 'https://en.wikipedia.org/wiki/Asake'
 gender: Male
 genres:
-- afrobeats
-- afrobeat
-- afropiano
-- afro adura
-- afropop
-- amapiano
-- afroswing
+  - afrobeats
+  - afrobeat
+  - afropiano
+  - afro adura
+  - afropop
+  - amapiano
+  - afroswing
 image_path: 03_Resources/source_material/ArtistPortraits/asake.jpg
 last_updated: '2025-12-28T01:56:56.684458'
 musical_connections:
   collaborators:
-  - Magicsticks
-  - Zlatan
-  - Peruzzi
-  - Burna Boy
-  - Broda Shaggi
+    - Magicsticks
+    - Zlatan
+    - Peruzzi
+    - Burna Boy
+    - Broda Shaggi
   influenced: []
   mentors:
-  - Olamide
+    - Olamide
 musicbrainz_id: 2b37ba5e-2162-46ca-bbad-f076f6a333bd
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.youtube.com/watch?v=uEIn6bqoyDk
-- https://en.wikipedia.org/wiki/Asake
-- https://www.last.fm/music/Asake/+wiki
-- https://www.boomplay.com/buzz/3649277
+  - 'https://www.youtube.com/watch?v=uEIn6bqoyDk'
+  - 'https://en.wikipedia.org/wiki/Asake'
+  - 'https://www.last.fm/music/Asake/+wiki'
+  - 'https://www.boomplay.com/buzz/3649277'
 spotify_data:
   followers: 7752809
   id: 3a1tBryiczPAZpgoZN9Rzg
   popularity: 78
-  url: https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg
+  url: 'https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg'
 status: active
 tags:
-- afrobeat
-- afrobeats
-title: asake
-
+  - afrobeat
+  - afrobeats
+title: Asake
 ---
 
 ![](asake.jpg)

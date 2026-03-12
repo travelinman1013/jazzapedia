@@ -2,17 +2,17 @@
 title: Sheryl Crow
 wiki_slug: sheryl-crow
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1962-02-11'
-birth_place: Kennett, Missouri, USA
+birth_place: 'Kennett, Missouri, USA'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Sheryl_Crow.jpg
   caption: Sheryl Crow
   background: solo_singer
   born: '1962-02-11'
-  origin: Kennett, Missouri, USA
+  origin: 'Kennett, Missouri, USA'
 audio_profile:
   tempo_avg: 122.3
   energy_avg: 0.658
@@ -20,7 +20,7 @@ audio_profile:
   danceability_avg: 0.555
   acousticness_avg: 0.198
   instrumentalness_avg: 0.009
-  loudness_avg: -7.0
+  loudness_avg: -7
   speechiness_avg: 0.048
   liveness_avg: 0.278
   track_count: 59
@@ -28,48 +28,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Michael Jackson
-  - Sting
-  - Rod Stewart
-  - Stevie Wonder
-  - Eric Clapton
-  - Tuesday Night Music Club
+    - Michael Jackson
+    - Sting
+    - Rod Stewart
+    - Stevie Wonder
+    - Eric Clapton
+    - Tuesday Night Music Club
   influenced:
-  - Taylor Swift
-  - Brandi Carlile
+    - Taylor Swift
+    - Brandi Carlile
   mentors:
-  - Don Henley
+    - Don Henley
 spotify_data:
   followers: 1331792
   id: 4TKTii6gnOnUXQHyuo9JaD
   popularity: 65
-  url: https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD
+  url: 'https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD'
 discography_enriched: true
 top_tracks:
-- All I Wanna Do (Tuesday Night Music Club)
-- Real Gone
-- Picture (feat. Sheryl Crow) (Cocky)
-- If It Makes You Happy (Sheryl Crow)
-- If It Makes You Happy (Sheryl Crow)
-- Soak Up The Sun (C'Mon, C'Mon)
-- Roll Me Up and Smoke Me When I Die - Live
-- Strong Enough (Tuesday Night Music Club)
-- Sweet Child O' Mine
-- Soak Up The Sun
+  - All I Wanna Do (Tuesday Night Music Club)
+  - Real Gone
+  - Picture (feat. Sheryl Crow) (Cocky)
+  - If It Makes You Happy (Sheryl Crow)
+  - If It Makes You Happy (Sheryl Crow)
+  - 'Soak Up The Sun (C''Mon, C''Mon)'
+  - Roll Me Up and Smoke Me When I Die - Live
+  - Strong Enough (Tuesday Night Music Club)
+  - Sweet Child O' Mine
+  - Soak Up The Sun
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/80ccfede-c258-4575-a7ad-c982e9932e0f
-  spotify: https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD
-  wikipedia: https://en.wikipedia.org/wiki/Sheryl_Crow
+  musicbrainz: 'https://musicbrainz.org/artist/80ccfede-c258-4575-a7ad-c982e9932e0f'
+  spotify: 'https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sheryl_Crow'
 image_path: 03_Resources/source_material/ArtistPortraits/Sheryl_Crow.jpg
 biography_enhanced_at: '2025-10-20T01:57:31.122822'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://mabumbe.com/people/sheryl-crow-age-net-worth-biography-career-highlights/
-- https://top40weekly.com/sheryl-crow/
-- https://www.biography.com/musicians/sheryl-crow
-- https://www.britannica.com/biography/Sheryl-Crow
-- https://en.wikipedia.org/wiki/Sheryl_Crow
+  - >-
+    https://mabumbe.com/people/sheryl-crow-age-net-worth-biography-career-highlights/
+  - 'https://top40weekly.com/sheryl-crow/'
+  - 'https://www.biography.com/musicians/sheryl-crow'
+  - 'https://www.britannica.com/biography/Sheryl-Crow'
+  - 'https://en.wikipedia.org/wiki/Sheryl_Crow'
 network_extracted: true
 entry_created: '2025-10-20T01:57:31.122847'
 last_updated: '2025-12-23T08:16:03.872822'
@@ -78,9 +79,9 @@ gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:43:23.003746'
 musicbrainz_id: 80ccfede-c258-4575-a7ad-c982e9932e0f
 tags:
-- 2008 universal fire victim
-- aln-sh
-- alternative rock
+  - 2008 universal fire victim
+  - aln-sh
+  - alternative rock
 ---
 
 ![](Sheryl_Crow.jpg)

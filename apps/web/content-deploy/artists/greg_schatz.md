@@ -3,13 +3,15 @@ title: Greg Schatz
 wiki_slug: greg-schatz
 schema_version: 2
 status: active
-birth_place: upstate New York, USA (early life); New Orleans, Louisiana, USA (career base)
+birth_place: 'upstate New York, USA (early life); New Orleans, Louisiana, USA (career base)'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/greg_schatz.jpg
   caption: Greg Schatz
   background: solo_singer
-  origin: upstate New York, USA (early life); New Orleans, Louisiana, USA (career base)
+  origin: >-
+    upstate New York, USA (early life); New Orleans, Louisiana, USA (career
+    base)
 audio_profile:
   tempo_avg: 126.8
   energy_avg: 0.643
@@ -25,47 +27,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Big Mess Blues Band
-  - Alex McMurray
-  - Dave James
-  - Doug Garrison
-  - Paul Santopadre
-  - Dave Stover
+    - Big Mess Blues Band
+    - Alex McMurray
+    - Dave James
+    - Doug Garrison
+    - Paul Santopadre
+    - Dave Stover
   influenced: []
   mentors: []
 spotify_data:
   followers: 35
   id: 4CgFRhOG201SrXG98yHGau
   popularity: 0
-  url: https://open.spotify.com/artist/4CgFRhOG201SrXG98yHGau
+  url: 'https://open.spotify.com/artist/4CgFRhOG201SrXG98yHGau'
 discography_enriched: true
 top_tracks:
-- Not Even Close (Amoebotics)
-- I'm Building a Robot (Amoebotics)
-- Machines Are Making Machines (Amoebotics)
-- I'm an Animal (Amoebotics)
-- Mechanism (Amoebotics)
-- The Amoeba (Amoebotics)
-- All I Do Is Ooze (Amoebotics)
-- Protoplasm (Amoebotics)
-- The Water (Amoebotics)
-- I'm Building a Robot (Radio Edit) (Amoebotics)
+  - Not Even Close (Amoebotics)
+  - I'm Building a Robot (Amoebotics)
+  - Machines Are Making Machines (Amoebotics)
+  - I'm an Animal (Amoebotics)
+  - Mechanism (Amoebotics)
+  - The Amoeba (Amoebotics)
+  - All I Do Is Ooze (Amoebotics)
+  - Protoplasm (Amoebotics)
+  - The Water (Amoebotics)
+  - I'm Building a Robot (Radio Edit) (Amoebotics)
 external_urls:
-  spotify: https://open.spotify.com/artist/4CgFRhOG201SrXG98yHGau
+  spotify: 'https://open.spotify.com/artist/4CgFRhOG201SrXG98yHGau'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/greg_schatz.jpg
 biography_enhanced_at: '2025-12-23T01:58:57.774414'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://schatzymusic.com/about/
-- https://www.wwoz.org/blog/3780
-- https://www.offbeat.com/articles/music-greg-schatz/
-- https://schatzymusic.com
-- https://www.myspiltmilk.com/articles/greg-schatz-shrugs-at-everything-you-want
+  - 'https://schatzymusic.com/about/'
+  - 'https://www.wwoz.org/blog/3780'
+  - 'https://www.offbeat.com/articles/music-greg-schatz/'
+  - 'https://schatzymusic.com'
+  - >-
+    https://www.myspiltmilk.com/articles/greg-schatz-shrugs-at-everything-you-want
 network_extracted: true
 entry_created: '2025-12-23T01:58:57.774435'
 last_updated: '2025-12-23T08:16:09.341280'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](greg_schatz.jpg)

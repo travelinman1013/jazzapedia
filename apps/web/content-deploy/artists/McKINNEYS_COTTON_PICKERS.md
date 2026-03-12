@@ -4,9 +4,9 @@ wiki_slug: mckinneys-cotton-pickers
 schema_version: 2
 status: active
 genres:
-- swing music
-- ragtime
-- big band
+  - swing music
+  - ragtime
+  - big band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/McKinneys_Cotton_Pickers.jpg
   caption: McKinney`s Cotton Pickers
@@ -18,7 +18,7 @@ audio_profile:
   danceability_avg: 0.712
   acousticness_avg: 0.976
   instrumentalness_avg: 0.435
-  loudness_avg: -13.0
+  loudness_avg: -13
   speechiness_avg: 0.072
   liveness_avg: 0.182
   track_count: 48
@@ -26,49 +26,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Cuba Austin
-  - Benny Carter
-  - Prince Robinson
-  - Fats Waller
-  - Coleman Hawkins
-  - Rex Stewart
+    - Cuba Austin
+    - Benny Carter
+    - Prince Robinson
+    - Fats Waller
+    - Coleman Hawkins
+    - Rex Stewart
   influenced:
-  - Gene Krupa
-  - Midwestern jazz musicians
+    - Gene Krupa
+    - Midwestern jazz musicians
   mentors:
-  - Don Redman
+    - Don Redman
 spotify_data:
   followers: 3171
   id: 5I3S4y3G5KQ6M5DUqxM3wD
   popularity: 10
-  url: https://open.spotify.com/artist/5I3S4y3G5KQ6M5DUqxM3wD
+  url: 'https://open.spotify.com/artist/5I3S4y3G5KQ6M5DUqxM3wD'
 discography_enriched: true
 top_tracks:
-- Never Swat A Fly
-- I Found A New Baby (The Ultimate Jazz Archive 4 (1 Of 4))
-- Blues Sure Have Got Me (Cotton Picker's Scat)
-- I Found A New Baby (McKinney's Cotton Pickers, Vol. 1 & 2)
-- 'If I Could Be with You One Hour Tonight (Shag Nasty, Vol. 3: The Alternate Masters)'
-- Okay Baby (Cotton Picker's Scat)
-- Cotton Picker's Scat (Cotton Picker's Scat)
-- I Want Your Love (Cotton Picker's Scat)
-- Baby Won't You Please Come Home (Mckinney's & Jean Goldkette's, 1924-1930)
-- If I Could Be With You One Hour Tonight (01-31-30) (Complete Jazz Series 1929 - 1930)
+  - Never Swat A Fly
+  - I Found A New Baby (The Ultimate Jazz Archive 4 (1 Of 4))
+  - Blues Sure Have Got Me (Cotton Picker's Scat)
+  - 'I Found A New Baby (McKinney''s Cotton Pickers, Vol. 1 & 2)'
+  - >-
+    If I Could Be with You One Hour Tonight (Shag Nasty, Vol. 3: The Alternate
+    Masters)
+  - Okay Baby (Cotton Picker's Scat)
+  - Cotton Picker's Scat (Cotton Picker's Scat)
+  - I Want Your Love (Cotton Picker's Scat)
+  - 'Baby Won''t You Please Come Home (Mckinney''s & Jean Goldkette''s, 1924-1930)'
+  - >-
+    If I Could Be With You One Hour Tonight (01-31-30) (Complete Jazz Series
+    1929 - 1930)
 external_urls:
-  spotify: https://open.spotify.com/artist/5I3S4y3G5KQ6M5DUqxM3wD
-  wikipedia: https://en.wikipedia.org/wiki/McKinney's_Cotton_Pickers
+  spotify: 'https://open.spotify.com/artist/5I3S4y3G5KQ6M5DUqxM3wD'
+  wikipedia: 'https://en.wikipedia.org/wiki/McKinney''s_Cotton_Pickers'
 image_path: 03_Resources/source_material/ArtistPortraits/McKinneys_Cotton_Pickers.jpg
 biography_enhanced_at: '2025-10-22T07:02:15.361220'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/McKinney's_Cotton_Pickers
-- https://musictales.club/article/great-depression-cut-short-extraordinary-dance-life-mckinney%E2%80%99s-cotton-pickers
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/mckinneys-cotton-pickers
+  - 'https://en.wikipedia.org/wiki/McKinney''s_Cotton_Pickers'
+  - >-
+    https://musictales.club/article/great-depression-cut-short-extraordinary-dance-life-mckinney%E2%80%99s-cotton-pickers
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/mckinneys-cotton-pickers
 network_extracted: true
 entry_created: '2025-10-22T07:02:15.361232'
 last_updated: '2025-12-23T08:16:03.266074'
-origin: Detroit, Michigan, United States
+origin: 'Detroit, Michigan, United States'
+artist_type: band
 ---
 
 ![](McKinneys_Cotton_Pickers.jpg)

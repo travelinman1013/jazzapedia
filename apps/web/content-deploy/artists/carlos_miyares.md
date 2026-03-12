@@ -3,14 +3,14 @@ title: Carlos Miyares
 wiki_slug: carlos-miyares
 schema_version: 2
 status: active
-birth_place: Santiago de Cuba, Santiago de Cuba Province, Cuba
+birth_place: 'Santiago de Cuba, Santiago de Cuba Province, Cuba'
 genres:
-- latin jazz
+  - latin jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/carlos_miyares.jpg
   caption: Carlos Miyares
   background: solo_singer
-  origin: Santiago de Cuba, Santiago de Cuba Province, Cuba
+  origin: 'Santiago de Cuba, Santiago de Cuba Province, Cuba'
 audio_profile:
   tempo_avg: 117.1
   energy_avg: 0.496
@@ -26,48 +26,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Chucho Valdés
-  - Tony Rodriguez, Lázaro 'El Fino' Rivero Alarcón, Oliver Valdés, Yaroldy Abreu
-  - Archie Shepp, Wynton Marsalis, Harold López-Nussa, Roberto Carcassés, Roberto Fonseca, Horacio ‘El Negro’ Hernández, Omara Portuondo, Carlos Varela, Zucchero, Francisco Céspedes, Antonio Sánchez
+    - Chucho Valdés
+    - >-
+      Tony Rodriguez, Lázaro 'El Fino' Rivero Alarcón, Oliver Valdés, Yaroldy
+      Abreu
+    - >-
+      Archie Shepp, Wynton Marsalis, Harold López-Nussa, Roberto Carcassés,
+      Roberto Fonseca, Horacio ‘El Negro’ Hernández, Omara Portuondo, Carlos
+      Varela, Zucchero, Francisco Céspedes, Antonio Sánchez
   influenced:
-  - Emerging Cuban jazz saxophonists
+    - Emerging Cuban jazz saxophonists
   mentors:
-  - Raúl Cordies
-  - Julio Cesar Gonzales
-  - Chucho Valdés
+    - Raúl Cordies
+    - Julio Cesar Gonzales
+    - Chucho Valdés
 spotify_data:
   followers: 532
   id: 1rUkZ17pj7Sb7AgiEHKOi3
   popularity: 1
-  url: https://open.spotify.com/artist/1rUkZ17pj7Sb7AgiEHKOi3
+  url: 'https://open.spotify.com/artist/1rUkZ17pj7Sb7AgiEHKOi3'
 discography_enriched: true
 top_tracks:
-- Bacalao Con Pan (Tributo a Chucho Valdés e IRAKERE)
-- Lo Que Va a Pasar (Tributo a Chucho Valdés e IRAKERE)
-- Ese Atrevimiento (Tributo a Chucho Valdés e IRAKERE)
-- Calzada & D (Chucho Presenta a Miyares)
-- 'Jazz Instrumental Suite: Obligations (Abrazo: The Havana Sessions)'
-- 'Jazz Vocal Suite: Why Do I? (Abrazo: The Havana Sessions)'
-- Juana 1600 (Tributo a Chucho Valdés e IRAKERE)
-- Estela Va a Estallar (Tributo a Chucho Valdés e IRAKERE)
-- Changó (Tributo a Chucho Valdés e IRAKERE)
-- Popurrit de Exitos (Tributo a Chucho Valdés e IRAKERE)
+  - Bacalao Con Pan (Tributo a Chucho Valdés e IRAKERE)
+  - Lo Que Va a Pasar (Tributo a Chucho Valdés e IRAKERE)
+  - Ese Atrevimiento (Tributo a Chucho Valdés e IRAKERE)
+  - Calzada & D (Chucho Presenta a Miyares)
+  - 'Jazz Instrumental Suite: Obligations (Abrazo: The Havana Sessions)'
+  - 'Jazz Vocal Suite: Why Do I? (Abrazo: The Havana Sessions)'
+  - Juana 1600 (Tributo a Chucho Valdés e IRAKERE)
+  - Estela Va a Estallar (Tributo a Chucho Valdés e IRAKERE)
+  - Changó (Tributo a Chucho Valdés e IRAKERE)
+  - Popurrit de Exitos (Tributo a Chucho Valdés e IRAKERE)
 external_urls:
-  spotify: https://open.spotify.com/artist/1rUkZ17pj7Sb7AgiEHKOi3
+  spotify: 'https://open.spotify.com/artist/1rUkZ17pj7Sb7AgiEHKOi3'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/carlos_miyares.jpg
 biography_enhanced_at: '2025-10-24T07:46:57.432269'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.gonzalezreeds.com/artistas/carlos-miyares-2/
-- https://www.selmer.fr/en/blogs/artistes/carlos-miyares
-- https://www.viberate.com/artist/carlos-miyares/
-- https://oncubanews.com/en/culture/music-culture/carlos-miyares%C2%B4-intensity/
+  - 'https://www.gonzalezreeds.com/artistas/carlos-miyares-2/'
+  - 'https://www.selmer.fr/en/blogs/artistes/carlos-miyares'
+  - 'https://www.viberate.com/artist/carlos-miyares/'
+  - >-
+    https://oncubanews.com/en/culture/music-culture/carlos-miyares%C2%B4-intensity/
 network_extracted: true
 entry_created: '2025-10-24T07:46:57.432286'
 last_updated: '2025-12-23T08:16:06.454892'
-
+birth_date: '1980-04-25'
+artist_type: person
 ---
 
 ![](carlos_miyares.jpg)

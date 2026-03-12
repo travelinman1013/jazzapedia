@@ -2,14 +2,14 @@
 title: Axiom Funk
 wiki_slug: axiom-funk
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 aliases: []
 genres: []
 record_labels:
-- Westbound Records
+  - Westbound Records
 associated_acts:
-- Funkadelic's albums in chronological order
+  - Funkadelic's albums in chronological order
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Axiom_Funk.jpg
   caption: Axiom Funk
@@ -21,7 +21,7 @@ audio_profile:
   danceability_avg: 0.547
   acousticness_avg: 0.213
   instrumentalness_avg: 0.37
-  loudness_avg: -15.0
+  loudness_avg: -15
   speechiness_avg: 0.125
   liveness_avg: 0.211
   track_count: 16
@@ -29,63 +29,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Eddie Hazel
-  - Bootsy Collins
-  - Bernie Worrell
-  - Maceo Parker
-  - Sly Dunbar
-  - George Clinton
+    - Eddie Hazel
+    - Bootsy Collins
+    - Bernie Worrell
+    - Maceo Parker
+    - Sly Dunbar
+    - George Clinton
   influenced:
-  - Praxis
-  - Modern funk and electronic producers
+    - Praxis
+    - Modern funk and electronic producers
   mentors:
-  - George Clinton
-  - Ornette Coleman
+    - George Clinton
+    - Ornette Coleman
 related_artists: []
 spotify_data:
   followers: 3336
   id: 7BaZ6eyG6duh3m6sfKIoe7
   popularity: 9
-  url: https://open.spotify.com/artist/7BaZ6eyG6duh3m6sfKIoe7
+  url: 'https://open.spotify.com/artist/7BaZ6eyG6duh3m6sfKIoe7'
   verified: false
 discography_enriched: true
 albums_count: 1
 singles_count: 0
 top_tracks:
-- If 6 Was 9 (Funkcronomicon)
-- Pray My Soul (Funkcronomicon)
-- Under The Influence (Jes Grew) (Funkcronomicon)
-- Cosmic Slop (Funkcronomicon)
-- Order Within The Universe (Funkcronomicon)
-- Orbitron Attack (Funkcronomicon)
-- Hideous Mutant Freaks (Funkcronomicon)
-- Sax Machine (Funkcronomicon)
-- Free-Bass (Godzillartron Cush) (Funkcronomicon)
-- Tell The World (Funkcronomicon)
+  - If 6 Was 9 (Funkcronomicon)
+  - Pray My Soul (Funkcronomicon)
+  - Under The Influence (Jes Grew) (Funkcronomicon)
+  - Cosmic Slop (Funkcronomicon)
+  - Order Within The Universe (Funkcronomicon)
+  - Orbitron Attack (Funkcronomicon)
+  - Hideous Mutant Freaks (Funkcronomicon)
+  - Sax Machine (Funkcronomicon)
+  - Free-Bass (Godzillartron Cush) (Funkcronomicon)
+  - Tell The World (Funkcronomicon)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/975c829a-644d-4fd0-9843-043428f4ee1e
-  spotify: https://open.spotify.com/artist/7BaZ6eyG6duh3m6sfKIoe7
-  wikipedia: https://en.wikipedia.org/wiki/Funkcronomicon
+  musicbrainz: 'https://musicbrainz.org/artist/975c829a-644d-4fd0-9843-043428f4ee1e'
+  spotify: 'https://open.spotify.com/artist/7BaZ6eyG6duh3m6sfKIoe7'
+  wikipedia: 'https://en.wikipedia.org/wiki/Funkcronomicon'
 image_path: 03_Resources/source_material/ArtistPortraits/Axiom_Funk.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:49:21.387986'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Funkcronomicon
-- http://music.hyperreal.org/labels/axiom/axibook1.html
-- http://music.hyperreal.org/labels/axiom/axibook2.html
-- https://daily.bandcamp.com/lists/bill-laswell-axiom-list
+  - 'https://en.wikipedia.org/wiki/Funkcronomicon'
+  - 'http://music.hyperreal.org/labels/axiom/axibook1.html'
+  - 'http://music.hyperreal.org/labels/axiom/axibook2.html'
+  - 'https://daily.bandcamp.com/lists/bill-laswell-axiom-list'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 11:51:20.541867
+entry_created: 2025-09-18T11:51:20.541Z
 last_updated: '2025-12-23T08:16:05.022408'
 musicbrainz_enriched_at: '2025-10-21T09:48:53.827937'
 musicbrainz_id: 975c829a-644d-4fd0-9843-043428f4ee1e
-origin: New York City, New York, USA (project origin)
+origin: 'New York City, New York, USA (project origin)'
 tags:
-- funk
-- soul
+  - funk
+  - soul
 ---
 
 ![](Axiom_Funk.jpg)

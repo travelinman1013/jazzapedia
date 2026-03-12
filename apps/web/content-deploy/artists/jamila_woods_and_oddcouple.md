@@ -3,14 +3,14 @@ title: Jamila Woods & oddCouple
 wiki_slug: jamila-woods-oddcouple
 schema_version: 2
 status: active
-birth_place: Chicago, Illinois, United States
+birth_place: 'Chicago, Illinois, United States'
 genres:
-- alternative r&b
+  - alternative r&b
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jamila_woods_and_oddcouple.jpg
   caption: Jamila Woods & oddCouple
   background: solo_singer
-  origin: Chicago, Illinois, United States
+  origin: 'Chicago, Illinois, United States'
 audio_profile:
   tempo_avg: 116.5
   energy_avg: 0.534
@@ -26,51 +26,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - oddCouple
-  - Chance the Rapper
-  - Noname
-  - Saba
-  - Owen Hill
+    - oddCouple
+    - Chance the Rapper
+    - Noname
+    - Saba
+    - Owen Hill
   influenced:
-  - Young Chicago Authors alumni
+    - Young Chicago Authors alumni
   mentors:
-  - Selly Thiam
-  - Gwendolyn Brooks
-  - Lucille Clifton
+    - Selly Thiam
+    - Gwendolyn Brooks
+    - Lucille Clifton
 spotify_data:
   followers: 237318
   id: 4UodukR17NIQfNu5uaqm9B
   popularity: 49
-  url: https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B
+  url: 'https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B'
 discography_enriched: true
 top_tracks:
-- Waiting For (feat. Jamila Woods)
-- Tides (Fragments)
-- Blessings (feat. Jamila Woods) (Coloring Book)
-- Tides
-- Holy (HEAVN)
-- Red To Violet - Feat. Jamila Woods (Lotus Glow)
-- SULA (Paperback)
-- White Privilege II (feat. Jamila Woods) (This Unruly Mess I've Made)
-- BASQUIAT (LEGACY! LEGACY!)
-- Nothing Much (Trust The Stars)
+  - Waiting For (feat. Jamila Woods)
+  - Tides (Fragments)
+  - Blessings (feat. Jamila Woods) (Coloring Book)
+  - Tides
+  - Holy (HEAVN)
+  - Red To Violet - Feat. Jamila Woods (Lotus Glow)
+  - SULA (Paperback)
+  - White Privilege II (feat. Jamila Woods) (This Unruly Mess I've Made)
+  - BASQUIAT (LEGACY! LEGACY!)
+  - Nothing Much (Trust The Stars)
 external_urls:
-  spotify: https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B
-  wikipedia: https://en.wikipedia.org/wiki/Jamila_Woods
+  spotify: 'https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jamila_Woods'
 image_path: 03_Resources/source_material/ArtistPortraits/jamila_woods_and_oddcouple.jpg
 biography_enhanced_at: '2025-11-20T07:00:47.497062'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jamila_Woods
-- https://people.chicagoreader.com/who/jamila-woods/profile/
-- https://www.africanamericanpoetry.org/jamila-woods
-- https://notofu.com/new/jamila-woods-unveils-teach-me/
-- https://www.vice.com/en/article/how-producer-oddcouple-found-himself-and-tapped-into-a-new-chicago-sound-in-the-process/
-- https://stereogum.com/2275532/jamila-woods-teach-me/music
+  - 'https://en.wikipedia.org/wiki/Jamila_Woods'
+  - 'https://people.chicagoreader.com/who/jamila-woods/profile/'
+  - 'https://www.africanamericanpoetry.org/jamila-woods'
+  - 'https://notofu.com/new/jamila-woods-unveils-teach-me/'
+  - >-
+    https://www.vice.com/en/article/how-producer-oddcouple-found-himself-and-tapped-into-a-new-chicago-sound-in-the-process/
+  - 'https://stereogum.com/2275532/jamila-woods-teach-me/music'
 network_extracted: true
 entry_created: '2025-11-20T07:00:47.497072'
 last_updated: '2025-12-23T08:16:10.197981'
+origin: 'Chicago, Illinois, United States'
+artist_type: person
 ---
 
 ![](jamila_woods_and_oddcouple.jpg)

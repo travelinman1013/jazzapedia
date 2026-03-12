@@ -1,10 +1,10 @@
 ---
-title: junior wells and buddy guy
+title: Junior Wells and Buddy Guy
 wiki_slug: junior-wells-and-buddy-guy
 schema_version: 2
 status: active
 genres:
-- blues
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/junior_wells_and_buddy_guy.jpg
   caption: junior wells and buddy guy
@@ -24,45 +24,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Phil Guy
-  - J.W. Williams
-  - Ray "Killer" Allison
-  - Eric Clapton
-  - The J. Geils Band
+    - Phil Guy
+    - J.W. Williams
+    - Ray "Killer" Allison
+    - Eric Clapton
+    - The J. Geils Band
   influenced:
-  - Eric Clapton
-  - The J. Geils Band
+    - Eric Clapton
+    - The J. Geils Band
   mentors:
-  - Muddy Waters
-  - Little Walter
+    - Muddy Waters
+    - Little Walter
 spotify_data:
   followers: 14
   id: 3KmuNJZMtbr5M5kea5iZUs
   popularity: 0
-  url: https://open.spotify.com/artist/3KmuNJZMtbr5M5kea5iZUs
+  url: 'https://open.spotify.com/artist/3KmuNJZMtbr5M5kea5iZUs'
 discography_enriched: true
 top_tracks:
-- So Tired - Live (Junior Wells & Friends)
-- So Tired - Live (Junior Wells & Friends)
-- 'Junior''s Shuffle (Pioneers & Legends: Journey Into The Blues)'
-- 'Junior''s Shuffle (Pioneers & Legends: Journey Into the Blues)'
+  - So Tired - Live (Junior Wells & Friends)
+  - So Tired - Live (Junior Wells & Friends)
+  - 'Junior''s Shuffle (Pioneers & Legends: Journey Into The Blues)'
+  - 'Junior''s Shuffle (Pioneers & Legends: Journey Into the Blues)'
 external_urls:
-  spotify: https://open.spotify.com/artist/3KmuNJZMtbr5M5kea5iZUs
-  wikipedia: https://en.wikipedia.org/wiki/Junior_Wells
+  spotify: 'https://open.spotify.com/artist/3KmuNJZMtbr5M5kea5iZUs'
+  wikipedia: 'https://en.wikipedia.org/wiki/Junior_Wells'
 image_path: ''
 biography_enhanced_at: '2025-12-09T04:46:56.429533'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Pleading_the_Blues
-- https://bibliolore.org/2014/12/09/junior-wells-and-buddy-guy/
-- https://www.rhino.com/article/deep-dive-buddy-guy-junior-wells-buddy-guy-junior-wells-play-the-blues
-- https://spectrumculture.com/2012/07/16/revisit-buddy-guy-and-junior-wells-play-the-blues
+  - 'https://en.wikipedia.org/wiki/Pleading_the_Blues'
+  - 'https://bibliolore.org/2014/12/09/junior-wells-and-buddy-guy/'
+  - >-
+    https://www.rhino.com/article/deep-dive-buddy-guy-junior-wells-buddy-guy-junior-wells-play-the-blues
+  - >-
+    https://spectrumculture.com/2012/07/16/revisit-buddy-guy-and-junior-wells-play-the-blues
 network_extracted: true
 entry_created: '2025-12-09T04:46:56.429545'
 last_updated: '2025-12-23T08:16:11.102509'
-origin: Chicago, Illinois, United States (primary base of operations for the duo and origin of their signature Chicago blues
-  sound)
+origin: >-
+  Chicago, Illinois, United States (primary base of operations for the duo and
+  origin of their signature Chicago blues sound)
+birth_place: 'Memphis, Tennessee, United States'
+artist_type: person
 ---
 
 ![]()

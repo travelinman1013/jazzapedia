@@ -3,15 +3,15 @@ title: Huey Piano Smith
 wiki_slug: huey-piano-smith
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- boogie-woogie
-- doo-wop
+  - boogie-woogie
+  - doo-wop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/huey_piano_smith.jpg
   caption: Huey Piano Smith
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 125.6
   energy_avg: 0.751
@@ -27,50 +27,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Guitar Slim (Eddie Jones)
-  - Bobby Marchan
-  - Little Richard
-  - Earl King
-  - Gerri Hall, Curley Moore, Billy Brooks
+    - Guitar Slim (Eddie Jones)
+    - Bobby Marchan
+    - Little Richard
+    - Earl King
+    - 'Gerri Hall, Curley Moore, Billy Brooks'
   influenced:
-  - Dr. John (Mac Rebennack)
-  - Johnny Rivers
-  - The Coasters
+    - Dr. John (Mac Rebennack)
+    - Johnny Rivers
+    - The Coasters
   mentors:
-  - Professor Longhair
-  - Pete Johnson, Meade Lux Lewis, Albert Ammons
+    - Professor Longhair
+    - 'Pete Johnson, Meade Lux Lewis, Albert Ammons'
 spotify_data:
   followers: 10787
   id: 06VZekh3wTqjHJbGCNBBLu
   popularity: 30
-  url: https://open.spotify.com/artist/06VZekh3wTqjHJbGCNBBLu
+  url: 'https://open.spotify.com/artist/06VZekh3wTqjHJbGCNBBLu'
 discography_enriched: true
 top_tracks:
-- Don't You Just Know It (This Is... Huey 'Piano' Smith)
-- Don't You Just Know It (Having a Good Time)
-- Rockin Pneumonia and the Boogie Woogie Flu (Having a Good Time)
-- Little Chickie Wah Wah (This Is... Huey 'Piano' Smith)
-- Rockin' Pneumonia and the Boogie Woogie Flu, Pt. 2 (A Hitmaker's Hits)
-- High Blood Pressure (Having a Good Time)
-- Just a Lonely Clown (This Is... Huey 'Piano' Smith)
-- Don´t You Just Know It
-- I Think You're Jiving Me (That'll Get It (Even More of the Best))
-- Little Liza Jane (This Is... Huey 'Piano' Smith)
+  - Don't You Just Know It (This Is... Huey 'Piano' Smith)
+  - Don't You Just Know It (Having a Good Time)
+  - Rockin Pneumonia and the Boogie Woogie Flu (Having a Good Time)
+  - Little Chickie Wah Wah (This Is... Huey 'Piano' Smith)
+  - 'Rockin'' Pneumonia and the Boogie Woogie Flu, Pt. 2 (A Hitmaker''s Hits)'
+  - High Blood Pressure (Having a Good Time)
+  - Just a Lonely Clown (This Is... Huey 'Piano' Smith)
+  - Don´t You Just Know It
+  - I Think You're Jiving Me (That'll Get It (Even More of the Best))
+  - Little Liza Jane (This Is... Huey 'Piano' Smith)
 external_urls:
-  spotify: https://open.spotify.com/artist/06VZekh3wTqjHJbGCNBBLu
-  wikipedia: https://en.wikipedia.org/wiki/Huey_%22Piano%22_Smith
+  spotify: 'https://open.spotify.com/artist/06VZekh3wTqjHJbGCNBBLu'
+  wikipedia: 'https://en.wikipedia.org/wiki/Huey_%22Piano%22_Smith'
 image_path: 03_Resources/source_material/ArtistPortraits/huey_piano_smith.jpg
 biography_enhanced_at: '2025-11-12T14:45:22.928294'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Huey_%22Piano%22_Smith
-- https://robertchristgau.substack.com/p/the-big-lookback-huey-piano-smith
-- https://www.nashvillescene.com/arts_culture/a-biography-at-last-of-huey-piano-smith-the-man-who-diagnosed-the-rockin-pneumonia/article_4074fecf-8e33-5fd7-a7a3-87916aaf56d3.html
-- https://tims.blackcat.nl/messages/huey_piano_smith.htm
+  - 'https://en.wikipedia.org/wiki/Huey_%22Piano%22_Smith'
+  - 'https://robertchristgau.substack.com/p/the-big-lookback-huey-piano-smith'
+  - >-
+    https://www.nashvillescene.com/arts_culture/a-biography-at-last-of-huey-piano-smith-the-man-who-diagnosed-the-rockin-pneumonia/article_4074fecf-8e33-5fd7-a7a3-87916aaf56d3.html
+  - 'https://tims.blackcat.nl/messages/huey_piano_smith.htm'
 network_extracted: true
 entry_created: '2025-11-12T14:45:22.928310'
 last_updated: '2025-12-23T08:16:09.742963'
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1934-01-26'
+death_date: '2023-02-13'
+artist_type: person
 ---
 
 ![](huey_piano_smith.jpg)

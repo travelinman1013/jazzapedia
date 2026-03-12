@@ -3,13 +3,13 @@ title: Tiago Guy
 wiki_slug: tiago-guy
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States (by way of Brazil)
+birth_place: 'New Orleans, Louisiana, United States (by way of Brazil)'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/tiago_guy.jpg
   caption: Tiago Guy
   background: solo_singer
-  origin: New Orleans, Louisiana, United States (by way of Brazil)
+  origin: 'New Orleans, Louisiana, United States (by way of Brazil)'
 audio_profile:
   tempo_avg: 109.7
   energy_avg: 0.388
@@ -17,7 +17,7 @@ audio_profile:
   danceability_avg: 0.685
   acousticness_avg: 0.575
   instrumentalness_avg: 0.083
-  loudness_avg: -11.0
+  loudness_avg: -11
   speechiness_avg: 0.052
   liveness_avg: 0.124
   track_count: 50
@@ -25,43 +25,44 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jon Cleary
-  - The Zion Harmonizers
-  - Nigel Hall
-  - John Fohl
+    - Jon Cleary
+    - The Zion Harmonizers
+    - Nigel Hall
+    - John Fohl
   influenced: []
   mentors:
-  - James Taylor
+    - James Taylor
 spotify_data:
   followers: 1148
   id: 1pw16xYgZ9fUgcJRSGz68q
   popularity: 13
-  url: https://open.spotify.com/artist/1pw16xYgZ9fUgcJRSGz68q
+  url: 'https://open.spotify.com/artist/1pw16xYgZ9fUgcJRSGz68q'
 discography_enriched: true
 top_tracks:
-- Santiago (Paper Thin)
-- Westbank Girl (Paper Thin)
-- In a While (Paper Thin)
-- Sarah's Mandolin (Paper Thin)
-- Who's Counting, Anyway? (Paper Thin)
-- Paper Thin (Paper Thin)
-- Storm's Coming (Paper Thin)
-- Tell Uncle John (Tell Uncle John)
-- A Ways Away (Paper Thin)
-- Beggars Can't Be Choosers (Paper Thin)
+  - Santiago (Paper Thin)
+  - Westbank Girl (Paper Thin)
+  - In a While (Paper Thin)
+  - Sarah's Mandolin (Paper Thin)
+  - 'Who''s Counting, Anyway? (Paper Thin)'
+  - Paper Thin (Paper Thin)
+  - Storm's Coming (Paper Thin)
+  - Tell Uncle John (Tell Uncle John)
+  - A Ways Away (Paper Thin)
+  - Beggars Can't Be Choosers (Paper Thin)
 external_urls:
-  spotify: https://open.spotify.com/artist/1pw16xYgZ9fUgcJRSGz68q
+  spotify: 'https://open.spotify.com/artist/1pw16xYgZ9fUgcJRSGz68q'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/tiago_guy.jpg
 biography_enhanced_at: '2025-11-11T09:19:29.289985'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://tiagoguy.com
-- https://www.deezer.com/pt/artist/250341952
+  - 'https://tiagoguy.com'
+  - 'https://www.deezer.com/pt/artist/250341952'
 network_extracted: true
 entry_created: '2025-11-11T09:19:29.289997'
 last_updated: '2025-12-23T08:16:17.412911'
+artist_type: person
 ---
 
 ![](tiago_guy.jpg)

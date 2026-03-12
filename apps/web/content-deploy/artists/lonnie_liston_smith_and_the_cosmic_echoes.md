@@ -1,18 +1,19 @@
 ---
-title: LONNIE LISTON SMITH & THE COSMIC ECHOES
+title: Lonnie Liston Smith & the Cosmic Echoes
 wiki_slug: lonnie-liston-smith-the-cosmic-echoes
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres: []
 instruments:
-- bass
-- electric piano
-- lead vocals
-- original
-- piano
+  - bass
+  - electric piano
+  - lead vocals
+  - original
+  - piano
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/lonnie_liston_smith_and_the_cosmic_echoes.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/lonnie_liston_smith_and_the_cosmic_echoes.jpg
   caption: LONNIE LISTON SMITH & THE COSMIC ECHOES
   background: group_or_band
 audio_profile:
@@ -30,78 +31,82 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Cecil McBee
-  - James Mtume
-  - George Barron
-  - Joe Beck
-  - Bob Thiele
+    - Cecil McBee
+    - James Mtume
+    - George Barron
+    - Joe Beck
+    - Bob Thiele
   influenced:
-  - Acid Jazz Artists (e.g., Gilles Peterson, Jamiroquai)
-  - Hip-Hop Producers (e.g., A Tribe Called Quest, Pete Rock)
-  - Contemporary Jazz Fusion Artists
+    - 'Acid Jazz Artists (e.g., Gilles Peterson, Jamiroquai)'
+    - 'Hip-Hop Producers (e.g., A Tribe Called Quest, Pete Rock)'
+    - Contemporary Jazz Fusion Artists
   mentors:
-  - Pharoah Sanders
-  - Miles Davis
-  - Rahsaan Roland Kirk
+    - Pharoah Sanders
+    - Miles Davis
+    - Rahsaan Roland Kirk
 spotify_data:
   followers: 34432
   id: 6EMR9xUcwYHrvpiSZKtN2c
   popularity: 0
-  url: https://open.spotify.com/artist/6EMR9xUcwYHrvpiSZKtN2c
+  url: 'https://open.spotify.com/artist/6EMR9xUcwYHrvpiSZKtN2c'
 discography_enriched: true
 top_tracks:
-- Summer Days (Martin Freeman and Eddie Piller Present Jazz On The Corner Two)
-- Expansions
-- Peace & Love - 2001 Remastered
-- Beautiful Woman
-- Rejuvenation - Remastered - 2001
-- Astral Traveling (Astral Traveling)
-- Let Us Go Into The House Of The Lord (Astral Traveling)
-- Rejuvenation (Astral Traveling)
-- I Mani (Faith) (Astral Traveling)
-- In Search Of Truth (Astral Traveling)
+  - Summer Days (Martin Freeman and Eddie Piller Present Jazz On The Corner Two)
+  - Expansions
+  - Peace & Love - 2001 Remastered
+  - Beautiful Woman
+  - Rejuvenation - Remastered - 2001
+  - Astral Traveling (Astral Traveling)
+  - Let Us Go Into The House Of The Lord (Astral Traveling)
+  - Rejuvenation (Astral Traveling)
+  - I Mani (Faith) (Astral Traveling)
+  - In Search Of Truth (Astral Traveling)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9afbdfa9-cc56-40d8-929a-4f40cc196f03
-  spotify: https://open.spotify.com/artist/6EMR9xUcwYHrvpiSZKtN2c
-  wikipedia: https://en.wikipedia.org/wiki/Lonnie_Liston_Smith
+  musicbrainz: 'https://musicbrainz.org/artist/9afbdfa9-cc56-40d8-929a-4f40cc196f03'
+  spotify: 'https://open.spotify.com/artist/6EMR9xUcwYHrvpiSZKtN2c'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lonnie_Liston_Smith'
 image_path: ''
 biography_enhanced_at: '2025-10-28T09:18:11.776713'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Lonnie_Liston_Smith
-- https://www.redbullmusicacademy.com/lectures/lonnie-liston-smith-and-gilles-peterson/
-- https://andresmusictalk.wordpress.com/2016/12/28/lonnie-liston-smith-his-funky-cosmic-echoes/
-- https://en.wikipedia.org/wiki/Expansions_(Lonnie_Liston_Smith_album)
-- https://blog.roughtrade.com/us/in-profile-lonnie-liston-smith/
+  - 'https://en.wikipedia.org/wiki/Lonnie_Liston_Smith'
+  - >-
+    https://www.redbullmusicacademy.com/lectures/lonnie-liston-smith-and-gilles-peterson/
+  - >-
+    https://andresmusictalk.wordpress.com/2016/12/28/lonnie-liston-smith-his-funky-cosmic-echoes/
+  - 'https://en.wikipedia.org/wiki/Expansions_(Lonnie_Liston_Smith_album)'
+  - 'https://blog.roughtrade.com/us/in-profile-lonnie-liston-smith/'
 network_extracted: true
 entry_created: '2025-10-28T09:18:11.776734'
 last_updated: '2025-12-23T08:16:12.093242'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - bass
-  mbid: de541221-7a10-4c7d-931f-bbbcc13a93d4
-  name: Al Anderson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 365b094b-39e7-44d7-89d3-54d780907de1
-  name: Dave Hubbard
-- begin: ''
-  end: ''
-  instruments:
-  - electric piano
-  - lead vocals
-  - original
-  - piano
-  mbid: b7eb7b38-7f51-45e9-b583-64303b24eabe
-  name: Lonnie Liston Smith
+  - begin: ''
+    end: ''
+    instruments:
+      - bass
+    mbid: de541221-7a10-4c7d-931f-bbbcc13a93d4
+    name: Al Anderson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 365b094b-39e7-44d7-89d3-54d780907de1
+    name: Dave Hubbard
+  - begin: ''
+    end: ''
+    instruments:
+      - electric piano
+      - lead vocals
+      - original
+      - piano
+    mbid: b7eb7b38-7f51-45e9-b583-64303b24eabe
+    name: Lonnie Liston Smith
 musicbrainz_id: 9afbdfa9-cc56-40d8-929a-4f40cc196f03
-origin: Richmond, Virginia, United States
+origin: 'Richmond, Virginia, United States'
 tags:
-- jazz
+  - jazz
+birth_place: 'Richmond, Virginia, United States'
+birth_date: '1940-12-28'
 ---
 
 ![]()

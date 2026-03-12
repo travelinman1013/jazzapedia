@@ -2,17 +2,17 @@
 title: GoGo Penguin
 wiki_slug: gogo-penguin
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 birth_date: '2009'
 genres:
-- nu jazz
-- jazz
-- jazz fusion
+  - nu jazz
+  - jazz
+  - jazz fusion
 instruments:
-- bass
-- drums (drum set)
-- piano
+  - bass
+  - drums (drum set)
+  - piano
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/GoGo_Penguin.jpg
   caption: GoGo Penguin
@@ -33,55 +33,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Chris Illingworth
-  - Nick Blacka
-  - Rob Turner
-  - Jon Scott
+    - Chris Illingworth
+    - Nick Blacka
+    - Rob Turner
+    - Jon Scott
   influenced:
-  - Contemporary UK Jazz Artists
+    - Contemporary UK Jazz Artists
   mentors:
-  - Royal Northern College of Music Faculty
+    - Royal Northern College of Music Faculty
 spotify_data:
   followers: 273168
   id: 19f2JXwlRU26376TCKmp6L
   popularity: 46
-  url: https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L
+  url: 'https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L'
 discography_enriched: true
 top_tracks:
-- Hopopono (v2.0 (Deluxe Edition))
-- Forgive the Damages (feat. Daudi Matsiko)
-- Murmuration (v2.0 (Deluxe Edition))
-- What We Are and What We Are Meant to Be
-- Branches Break (Man Made Object (Deluxe))
-- Luminous Giants (feat. Rakhi Singh & Manchester Collective) (Necessary Fictions)
-- Umbra (Necessary Fictions)
-- Saturnine (Everything Is Going to Be OK)
-- Fallowfield Loops (Necessary Fictions)
-- Don’t Go (GoGo Penguin)
+  - Hopopono (v2.0 (Deluxe Edition))
+  - Forgive the Damages (feat. Daudi Matsiko)
+  - Murmuration (v2.0 (Deluxe Edition))
+  - What We Are and What We Are Meant to Be
+  - Branches Break (Man Made Object (Deluxe))
+  - >-
+    Luminous Giants (feat. Rakhi Singh & Manchester Collective) (Necessary
+    Fictions)
+  - Umbra (Necessary Fictions)
+  - Saturnine (Everything Is Going to Be OK)
+  - Fallowfield Loops (Necessary Fictions)
+  - Don’t Go (GoGo Penguin)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b328de0e-ee48-4d74-9d36-7c7ee16ffc69
-  spotify: https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L
-  wikipedia: https://en.wikipedia.org/wiki/GoGo_Penguin
+  musicbrainz: 'https://musicbrainz.org/artist/b328de0e-ee48-4d74-9d36-7c7ee16ffc69'
+  spotify: 'https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L'
+  wikipedia: 'https://en.wikipedia.org/wiki/GoGo_Penguin'
 image_path: 03_Resources/source_material/ArtistPortraits/GoGo_Penguin.jpg
 biography_enhanced_at: '2025-10-20T09:47:14.942547'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/GoGo+Penguin/+wiki
-- https://10magazine.com/10-questions-gogo-penguin-everything-is-going-to-be-ok/
-- https://www.bluenote.com/artist/gogo-penguin/
-- https://concord.com/publishing-roster/gogo-penguin/
+  - 'https://www.last.fm/music/GoGo+Penguin/+wiki'
+  - >-
+    https://10magazine.com/10-questions-gogo-penguin-everything-is-going-to-be-ok/
+  - 'https://www.bluenote.com/artist/gogo-penguin/'
+  - 'https://concord.com/publishing-roster/gogo-penguin/'
 network_extracted: true
 entry_created: '2025-10-20T09:47:14.942560'
 last_updated: '2025-12-23T08:16:02.145823'
 disambiguation: UK jazz trio
 musicbrainz_enriched_at: '2025-10-21T09:28:01.138636'
 musicbrainz_id: b328de0e-ee48-4d74-9d36-7c7ee16ffc69
-origin: Manchester, England, United Kingdom
+origin: 'Manchester, England, United Kingdom'
 tags:
-- electronica
-- fusion
-- jazz
+  - electronica
+  - fusion
+  - jazz
+birth_place: Manchester
 ---
 
 ![](GoGo_Penguin.jpg)

@@ -1,17 +1,17 @@
 ---
-title: brent johnson
+title: Brent Johnson
 wiki_slug: brent-johnson
 schema_version: 2
 status: active
-birth_place: South Texas (birthplace); New Orleans, Louisiana, USA (musical origin)
+birth_place: 'South Texas (birthplace); New Orleans, Louisiana, USA (musical origin)'
 genres:
-- blues rock
-- blues
+  - blues rock
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/brent_johnson.jpg
   caption: brent johnson
   background: solo_singer
-  origin: South Texas (birthplace); New Orleans, Louisiana, USA (musical origin)
+  origin: 'South Texas (birthplace); New Orleans, Louisiana, USA (musical origin)'
 audio_profile:
   tempo_avg: 138.1
   energy_avg: 0.783
@@ -19,7 +19,7 @@ audio_profile:
   danceability_avg: 0.498
   acousticness_avg: 0.195
   instrumentalness_avg: 0.085
-  loudness_avg: -7.0
+  loudness_avg: -7
   speechiness_avg: 0.07
   liveness_avg: 0.187
   track_count: 50
@@ -27,45 +27,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bill Blok
-  - John Perkins
-  - Wayne Lohr
-  - Alvin Youngblood Hart
-  - Sonny Landreth
+    - Bill Blok
+    - John Perkins
+    - Wayne Lohr
+    - Alvin Youngblood Hart
+    - Sonny Landreth
   influenced: []
   mentors:
-  - Bryan Lee
+    - Bryan Lee
 spotify_data:
   followers: 86
   id: 2YmO2PpAHoVh9KbbblG7ZT
   popularity: 0
-  url: https://open.spotify.com/artist/2YmO2PpAHoVh9KbbblG7ZT
+  url: 'https://open.spotify.com/artist/2YmO2PpAHoVh9KbbblG7ZT'
 discography_enriched: true
 top_tracks:
-- As The Years Go Passing By (Set The World On Fire)
-- Don't Make a Sound (Set The World On Fire)
-- So Glad You're Mine (Set The World On Fire)
-- As The Years Go Passing By (Late Night Blues - Soulful Blues Classics)
-- 'Steampunk Suite: IV. Barnum & Tesla''s Tandem Bicycle (Excerpts) (WE Live: The Carson Center)'
-- Meet Me In The Morning (Set The World On Fire)
-- The Ticket (Set The World On Fire)
-- Don't Take it With You (Set The World On Fire)
-- Long Way Back to New Orleans (Set The World On Fire)
-- Glass Ceiling (Set The World On Fire)
+  - As The Years Go Passing By (Set The World On Fire)
+  - Don't Make a Sound (Set The World On Fire)
+  - So Glad You're Mine (Set The World On Fire)
+  - As The Years Go Passing By (Late Night Blues - Soulful Blues Classics)
+  - >-
+    Steampunk Suite: IV. Barnum & Tesla's Tandem Bicycle (Excerpts) (WE Live:
+    The Carson Center)
+  - Meet Me In The Morning (Set The World On Fire)
+  - The Ticket (Set The World On Fire)
+  - Don't Take it With You (Set The World On Fire)
+  - Long Way Back to New Orleans (Set The World On Fire)
+  - Glass Ceiling (Set The World On Fire)
 external_urls:
-  spotify: https://open.spotify.com/artist/2YmO2PpAHoVh9KbbblG7ZT
+  spotify: 'https://open.spotify.com/artist/2YmO2PpAHoVh9KbbblG7ZT'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/brent_johnson.jpg
 biography_enhanced_at: '2025-10-19T10:37:52.636831'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://bluesboulevardjazzgreenville.com/artists/brent-johnson-and-the-call-up/
-- https://bluesfestivalguide.com/brent-johnson-set-the-world-on-fire/
-- https://somethingelsereviews.com/2014/04/06/brent-johnson-set-the-world-on-fire-2014/
+  - >-
+    https://bluesboulevardjazzgreenville.com/artists/brent-johnson-and-the-call-up/
+  - 'https://bluesfestivalguide.com/brent-johnson-set-the-world-on-fire/'
+  - >-
+    https://somethingelsereviews.com/2014/04/06/brent-johnson-set-the-world-on-fire-2014/
 network_extracted: true
 entry_created: '2025-10-19T10:37:52.636844'
 last_updated: '2025-12-23T08:16:06.062584'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](brent_johnson.jpg)

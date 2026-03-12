@@ -2,19 +2,19 @@
 title: Lonnie Plaxico
 wiki_slug: lonnie-plaxico
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1960-09-04'
-birth_place: Chicago, Illinois, United States
+birth_place: 'Chicago, Illinois, United States'
 genres:
-- funk rock
-- jazz fusion
+  - funk rock
+  - jazz fusion
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Lonnie_Plaxico.jpg
   caption: Lonnie Plaxico
   background: solo_singer
   born: '1960-09-04'
-  origin: Chicago, Illinois, United States
+  origin: 'Chicago, Illinois, United States'
 audio_profile:
   tempo_avg: 117.7
   energy_avg: 0.448
@@ -30,48 +30,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Cassandra Wilson
-  - Steve Coleman
-  - Jack DeJohnette
-  - Greg Osby
+    - Cassandra Wilson
+    - Steve Coleman
+    - Jack DeJohnette
+    - Greg Osby
   influenced:
-  - Rachelle Farrell
-  - Dianne Reeves
+    - Rachelle Farrell
+    - Dianne Reeves
   mentors:
-  - Art Blakey
+    - Art Blakey
 spotify_data:
   followers: 562
   id: 0spbTiThbYmwEMscsGzuoh
   popularity: 5
-  url: https://open.spotify.com/artist/0spbTiThbYmwEMscsGzuoh
+  url: 'https://open.spotify.com/artist/0spbTiThbYmwEMscsGzuoh'
 discography_enriched: true
 top_tracks:
-- Dance of the Nile - World / Funk - Jazz Secrets
-- Dance of the Nile - World / Funk - Jazz Secrets
-- Dance of the Nile (Funk / World - Jazz Secrets) - Short Cut - shout chorus into end theme
-- Nostalgia In Times Square (by Charles Mingus) - Short Cut - T.K. Blue sax & Randy Brecker trumpet theme
-- Dance of the Nile - World / Funk - Jazz Secrets
-- Matriarch - Short Cut - T.K. Blue flute to ending with Stefon Harris on vibes
-- Wise One - Short Cut - T.K. Blue sax theme
-- South Side Samba - Short Cut - T.K. Blue sax & Randy Brecker trumpet theme
-- Harold's Theme - Short Cut - T.K. Blue saxophone & Randy Brecker trumpet theme
-- Dance of the Nile (Eyes of the Elders)
+  - Dance of the Nile - World / Funk - Jazz Secrets
+  - Dance of the Nile - World / Funk - Jazz Secrets
+  - >-
+    Dance of the Nile (Funk / World - Jazz Secrets) - Short Cut - shout chorus
+    into end theme
+  - >-
+    Nostalgia In Times Square (by Charles Mingus) - Short Cut - T.K. Blue sax &
+    Randy Brecker trumpet theme
+  - Dance of the Nile - World / Funk - Jazz Secrets
+  - >-
+    Matriarch - Short Cut - T.K. Blue flute to ending with Stefon Harris on
+    vibes
+  - Wise One - Short Cut - T.K. Blue sax theme
+  - South Side Samba - Short Cut - T.K. Blue sax & Randy Brecker trumpet theme
+  - >-
+    Harold's Theme - Short Cut - T.K. Blue saxophone & Randy Brecker trumpet
+    theme
+  - Dance of the Nile (Eyes of the Elders)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a016ee9e-1f49-4906-9b1b-31b3ffb61c7d
-  spotify: https://open.spotify.com/artist/0spbTiThbYmwEMscsGzuoh
-  wikipedia: https://en.wikipedia.org/wiki/Lonnie_Plaxico
+  musicbrainz: 'https://musicbrainz.org/artist/a016ee9e-1f49-4906-9b1b-31b3ffb61c7d'
+  spotify: 'https://open.spotify.com/artist/0spbTiThbYmwEMscsGzuoh'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lonnie_Plaxico'
 image_path: 03_Resources/source_material/ArtistPortraits/Lonnie_Plaxico.jpg
 biography_enhanced_at: '2025-10-19T10:44:25.643436'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Lonnie_Plaxico
-- http://www.lonnieplaxico.com/bio.html
-- https://forbassplayersonly.com/interview-lonnie-plaxico/
-- https://www.allaboutjazz.com/musicians/lonnie-plaxico/
-- https://www.allaboutjazz.com/lonnie-plaxico-striving-for-originality-noteriety-lonnie-plaxico-by-rj-deluke
-- https://nightisalive.com/qa-with-lonnie-plaxico-part-1/
-- https://www.ilikeillinois.com/home/did-you-know/350-did-you-know-jazz-musician-lonnie-plaxico-is-from-illinois
+  - 'https://en.wikipedia.org/wiki/Lonnie_Plaxico'
+  - 'http://www.lonnieplaxico.com/bio.html'
+  - 'https://forbassplayersonly.com/interview-lonnie-plaxico/'
+  - 'https://www.allaboutjazz.com/musicians/lonnie-plaxico/'
+  - >-
+    https://www.allaboutjazz.com/lonnie-plaxico-striving-for-originality-noteriety-lonnie-plaxico-by-rj-deluke
+  - 'https://nightisalive.com/qa-with-lonnie-plaxico-part-1/'
+  - >-
+    https://www.ilikeillinois.com/home/did-you-know/350-did-you-know-jazz-musician-lonnie-plaxico-is-from-illinois
 network_extracted: true
 entry_created: '2025-10-19T10:44:25.643445'
 last_updated: '2025-12-23T08:16:03.068619'
@@ -79,9 +89,9 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:35:50.970489'
 musicbrainz_id: a016ee9e-1f49-4906-9b1b-31b3ffb61c7d
 tags:
-- jazz
-- jazz fusion
-- post-bop
+  - jazz
+  - jazz fusion
+  - post-bop
 ---
 
 ![](Lonnie_Plaxico.jpg)

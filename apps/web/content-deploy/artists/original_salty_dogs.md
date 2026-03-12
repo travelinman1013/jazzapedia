@@ -3,38 +3,39 @@ biography_enhanced_at: '2026-01-18T07:45:17.915182'
 enhancement_provider: perplexity
 entry_created: '2026-01-18T07:45:17.915189'
 external_urls:
-  spotify: https://open.spotify.com/artist/0vdqr7Ey3lNSImRSOPvD5Q
-  wikipedia: https://en.wikipedia.org/wiki/The_Original_Salty_Dogs_Jazz_Band
+  spotify: 'https://open.spotify.com/artist/0vdqr7Ey3lNSImRSOPvD5Q'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Original_Salty_Dogs_Jazz_Band'
 genres:
-- ragtime
+  - ragtime
 image_path: 03_Resources/source_material/ArtistPortraits/original_salty_dogs.jpg
 last_updated: '2026-01-18T07:45:17.915189'
 musical_connections:
   collaborators:
-  - Frank Chace
-  - Eddy Davis
-  - Dick Karner
-  - Carol Leigh
+    - Frank Chace
+    - Eddy Davis
+    - Dick Karner
+    - Carol Leigh
   influenced: []
   mentors:
-  - Lu Watters
-  - Turk Murphy
+    - Lu Watters
+    - Turk Murphy
 network_extracted: true
-origin: West Lafayette, Indiana, United States
+origin: 'West Lafayette, Indiana, United States'
 primary_source: perplexity
 research_sources:
-- https://syncopatedtimes.com/the-story-of-the-salty-dogs/
-- https://en.wikipedia.org/wiki/The_Original_Salty_Dogs_Jazz_Band
-- https://zozoki.com/music/artist/1655767/the-salty-dogs-jazz-band
-- https://www.jazzology.com/jazzbeat.php?id=38
-- https://www.allmusic.com/artist/the-original-salty-dogs-mn0000473025
+  - 'https://syncopatedtimes.com/the-story-of-the-salty-dogs/'
+  - 'https://en.wikipedia.org/wiki/The_Original_Salty_Dogs_Jazz_Band'
+  - 'https://zozoki.com/music/artist/1655767/the-salty-dogs-jazz-band'
+  - 'https://www.jazzology.com/jazzbeat.php?id=38'
+  - 'https://www.allmusic.com/artist/the-original-salty-dogs-mn0000473025'
 spotify_data:
   followers: 137
   id: 0vdqr7Ey3lNSImRSOPvD5Q
   popularity: 2
-  url: https://open.spotify.com/artist/0vdqr7Ey3lNSImRSOPvD5Q
+  url: 'https://open.spotify.com/artist/0vdqr7Ey3lNSImRSOPvD5Q'
 status: active
-title: Original Salty Dogs
+title: The Original Salty Dogs
+artist_type: band
 ---
 
 ![](original_salty_dogs.jpg)

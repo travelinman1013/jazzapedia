@@ -1,5 +1,5 @@
 ---
-title: THE SWISS MOVEMENT
+title: The Swiss Movement
 wiki_slug: the-swiss-movement
 schema_version: 2
 status: active
@@ -14,7 +14,7 @@ audio_profile:
   valence_avg: 0.64
   danceability_avg: 0.467
   acousticness_avg: 0.599
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -10.4
   speechiness_avg: 0.048
   liveness_avg: 0.391
@@ -23,44 +23,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Arthur Booker
-  - Herbert Clifton
-  - Ronald Williams
-  - John Hodges
+    - Arthur Booker
+    - Herbert Clifton
+    - Ronald Williams
+    - John Hodges
   influenced: []
   mentors: []
 spotify_data:
   followers: 102
   id: 7nwv6qSbIlE1xI6P904uCF
   popularity: 0
-  url: https://open.spotify.com/artist/7nwv6qSbIlE1xI6P904uCF
+  url: 'https://open.spotify.com/artist/7nwv6qSbIlE1xI6P904uCF'
 discography_enriched: true
 top_tracks:
-- The Grass Is Greener (It's Time For The Swiss Movement)
-- I Wish Our Love Would Last Forever (Vinyl Gems)
-- I Think I'm Falling in Love (Vinyl Gems)
-- Grown up Fairy Tales (Vinyl Gems)
-- He's on My Mind (Vinyl Gems)
-- New Orleans (Vinyl Gems)
-- My Affection (Vinyl Gems)
-- Now I'm Singing Your Song (Vinyl Gems)
-- Trying to Win Your Love (Vinyl Gems)
-- Take A Chance On A Sure Thing (It's Time For The Swiss Movement)
+  - The Grass Is Greener (It's Time For The Swiss Movement)
+  - I Wish Our Love Would Last Forever (Vinyl Gems)
+  - I Think I'm Falling in Love (Vinyl Gems)
+  - Grown up Fairy Tales (Vinyl Gems)
+  - He's on My Mind (Vinyl Gems)
+  - New Orleans (Vinyl Gems)
+  - My Affection (Vinyl Gems)
+  - Now I'm Singing Your Song (Vinyl Gems)
+  - Trying to Win Your Love (Vinyl Gems)
+  - Take A Chance On A Sure Thing (It's Time For The Swiss Movement)
 external_urls:
-  spotify: https://open.spotify.com/artist/7nwv6qSbIlE1xI6P904uCF
+  spotify: 'https://open.spotify.com/artist/7nwv6qSbIlE1xI6P904uCF'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/the_swiss_movement.jpg
 biography_enhanced_at: '2025-11-20T07:07:17.645388'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://soulstrutter.blogspot.com/2021/04/the-swiss-movement-2021-swiss-movement.html
-- https://www.allmusic.com/artist/swiss-movement-mn0000716511
-- https://music.apple.com/us/artist/the-swiss-movement/1363407590
+  - >-
+    https://soulstrutter.blogspot.com/2021/04/the-swiss-movement-2021-swiss-movement.html
+  - 'https://www.allmusic.com/artist/swiss-movement-mn0000716511'
+  - 'https://music.apple.com/us/artist/the-swiss-movement/1363407590'
 network_extracted: true
 entry_created: '2025-11-20T07:07:17.645398'
 last_updated: '2025-12-23T08:16:17.207139'
-origin: New Orleans, Louisiana, USA (origin)
+origin: 'New Orleans, Louisiana, USA (origin)'
+artist_type: band
 ---
 
 ![](the_swiss_movement.jpg)

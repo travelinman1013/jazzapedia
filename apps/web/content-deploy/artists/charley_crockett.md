@@ -2,47 +2,46 @@
 artist_type: person
 biography_enhanced_at: '2026-01-01T01:09:31.759940'
 birth_date: '1984'
-birth_place: San Benito
+birth_place: 'San Benito, Texas, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-01T01:09:31.759946'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/cf391be8-a609-4fcf-8de1-0eff6b639ae5
-  spotify: https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4
-  wikipedia: https://en.wikipedia.org/wiki/Charley_Crockett
+  musicbrainz: 'https://musicbrainz.org/artist/cf391be8-a609-4fcf-8de1-0eff6b639ae5'
+  spotify: 'https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4'
+  wikipedia: 'https://en.wikipedia.org/wiki/Charley_Crockett'
 gender: Male
 genres:
-- americana
-- alt country
-- red dirt
-- honky tonk
+  - americana
+  - alt country
+  - red dirt
+  - honky tonk
 image_path: 03_Resources/source_material/ArtistPortraits/charley_crockett.jpg
 last_updated: '2026-01-01T01:09:31.759947'
 musical_connections:
   collaborators:
-  - Trainrobbers
+    - Trainrobbers
   influenced: []
   mentors:
-  - Uncle (unnamed)
+    - Uncle (unnamed)
 musicbrainz_id: cf391be8-a609-4fcf-8de1-0eff6b639ae5
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Charley_Crockett
-- https://www.last.fm/music/Charley+Crockett/+wiki
-- https://www.charleycrockett.com/bio/
-- https://www.youtube.com/watch?v=9aKs1J9wzaE
+  - 'https://en.wikipedia.org/wiki/Charley_Crockett'
+  - 'https://www.last.fm/music/Charley+Crockett/+wiki'
+  - 'https://www.charleycrockett.com/bio/'
+  - 'https://www.youtube.com/watch?v=9aKs1J9wzaE'
 spotify_data:
   followers: 443790
   id: 3BJX1nYizKvWpZTY5HOAr4
   popularity: 62
-  url: https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4
+  url: 'https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4'
 status: active
 tags:
-- americana
-- contemporary country
-- country
+  - americana
+  - contemporary country
+  - country
 title: Charley Crockett
-
 ---
 
 ![](charley_crockett.jpg)

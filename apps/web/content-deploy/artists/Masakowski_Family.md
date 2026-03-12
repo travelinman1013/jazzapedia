@@ -8,12 +8,12 @@ birth_date: '1986-01-01'
 years_active: 1990s–present
 genres: []
 instruments:
-- piano
-- voice
+  - piano
+  - voice
 occupation:
-- artist
-- pianist
-- singer
+  - artist
+  - pianist
+  - singer
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Masakowski_Family.jpg
   caption: Masakowski Family
@@ -34,55 +34,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Martin Masakowski
-  - Sasha Masakowski
-  - Astral Project
-  - Dianne Reeves
-  - Allen Toussaint, Mose Allison
+    - Martin Masakowski
+    - Sasha Masakowski
+    - Astral Project
+    - Dianne Reeves
+    - 'Allen Toussaint, Mose Allison'
   influenced:
-  - Students at University of New Orleans (including Harry Connick Jr., Terence Blanchard, Branford Marsalis, Wynton Marsalis)
-  - Sasha Masakowski
-  - Martin Masakowski
+    - >-
+      Students at University of New Orleans (including Harry Connick Jr.,
+      Terence Blanchard, Branford Marsalis, Wynton Marsalis)
+    - Sasha Masakowski
+    - Martin Masakowski
   mentors:
-  - Ellis Marsalis Jr.
-  - Bert Braud
+    - Ellis Marsalis Jr.
+    - Bert Braud
 related_artists: []
 spotify_data:
   followers: 112
   id: 6UbffsXuUOZTh1NjMWGSZm
   popularity: 0
-  url: https://open.spotify.com/artist/6UbffsXuUOZTh1NjMWGSZm
+  url: 'https://open.spotify.com/artist/6UbffsXuUOZTh1NjMWGSZm'
   verified: false
 discography_enriched: true
 albums_count: 1
 singles_count: 0
 top_tracks:
-- Crescent City Jones (N.O. Escape)
-- Too Bad (N.O. Escape)
-- Mancuso (N.O. Escape)
-- House of the Rising Sun (N.O. Escape)
-- Les Oignons (N.O. Escape)
-- Mojo (N.O. Escape)
-- Exactly Like You (N.O. Escape)
-- N.O. Escape (N.O. Escape)
+  - Crescent City Jones (N.O. Escape)
+  - Too Bad (N.O. Escape)
+  - Mancuso (N.O. Escape)
+  - House of the Rising Sun (N.O. Escape)
+  - Les Oignons (N.O. Escape)
+  - Mojo (N.O. Escape)
+  - Exactly Like You (N.O. Escape)
+  - N.O. Escape (N.O. Escape)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/6UbffsXuUOZTh1NjMWGSZm
-  wikipedia: https://en.wikipedia.org/wiki/Sasha_Masakowski
+  spotify: 'https://open.spotify.com/artist/6UbffsXuUOZTh1NjMWGSZm'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sasha_Masakowski'
 image_path: 03_Resources/source_material/ArtistPortraits/Masakowski_Family.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T10:33:35.474895'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://learningenglish.voanews.com/a/jazz-deepens-bond-between-father-and-daughter-musicians/5469342.html
-- https://en.wikipedia.org/wiki/Sasha_Masakowski
-- https://www.wwno.org/show/american-routes/2024-06-14/american-routes-shortcuts-masakowski-family
-- https://en.wikipedia.org/wiki/Steve_Masakowski
+  - >-
+    https://learningenglish.voanews.com/a/jazz-deepens-bond-between-father-and-daughter-musicians/5469342.html
+  - 'https://en.wikipedia.org/wiki/Sasha_Masakowski'
+  - >-
+    https://www.wwno.org/show/american-routes/2024-06-14/american-routes-shortcuts-masakowski-family
+  - 'https://en.wikipedia.org/wiki/Steve_Masakowski'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:40:31.658230
+entry_created: 2025-09-22T21:40:31.658Z
 last_updated: '2025-12-23T08:16:03.229304'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](Masakowski_Family.jpg)

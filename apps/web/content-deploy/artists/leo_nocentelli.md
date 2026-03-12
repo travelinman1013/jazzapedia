@@ -3,13 +3,13 @@ title: Leo Nocentelli
 wiki_slug: leo-nocentelli
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/leo_nocentelli.jpg
   caption: Leo Nocentelli
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 106.4
   energy_avg: 0.575
@@ -25,50 +25,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Art Neville
-  - George Porter Jr.
-  - Zigaboo Modeliste
-  - Dr. John
-  - Jimmy Buffett
-  - Etta James
-  - Robert Palmer
+    - Art Neville
+    - George Porter Jr.
+    - Zigaboo Modeliste
+    - Dr. John
+    - Jimmy Buffett
+    - Etta James
+    - Robert Palmer
   influenced:
-  - Red Hot Chili Peppers
-  - John Mayer
-  - Countless funk, R&B, and jam band musicians
+    - Red Hot Chili Peppers
+    - John Mayer
+    - 'Countless funk, R&B, and jam band musicians'
   mentors:
-  - Allen Toussaint
+    - Allen Toussaint
 spotify_data:
   followers: 8590
   id: 7wpiEcyGHoPCwTLtdgx50e
   popularity: 20
-  url: https://open.spotify.com/artist/7wpiEcyGHoPCwTLtdgx50e
+  url: 'https://open.spotify.com/artist/7wpiEcyGHoPCwTLtdgx50e'
 discography_enriched: true
 top_tracks:
-- Your Song (Another Side)
-- Riverfront (Another Side)
-- Give Me Back My Loving (Another Side)
-- You've Become a Habit (Another Side)
-- Your Song (Another Side)
-- Thinking of the Day (Another Side)
-- Pretty Mittie (Another Side)
-- Getting Nowhere (Another Side)
-- Your Song (Another Side)
-- I Want to Cry (Another Side)
+  - Your Song (Another Side)
+  - Riverfront (Another Side)
+  - Give Me Back My Loving (Another Side)
+  - You've Become a Habit (Another Side)
+  - Your Song (Another Side)
+  - Thinking of the Day (Another Side)
+  - Pretty Mittie (Another Side)
+  - Getting Nowhere (Another Side)
+  - Your Song (Another Side)
+  - I Want to Cry (Another Side)
 external_urls:
-  spotify: https://open.spotify.com/artist/7wpiEcyGHoPCwTLtdgx50e
-  wikipedia: https://en.wikipedia.org/wiki/Leo_Nocentelli
+  spotify: 'https://open.spotify.com/artist/7wpiEcyGHoPCwTLtdgx50e'
+  wikipedia: 'https://en.wikipedia.org/wiki/Leo_Nocentelli'
 image_path: 03_Resources/source_material/ArtistPortraits/leo_nocentelli.jpg
 biography_enhanced_at: '2025-10-22T09:20:43.675951'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Leo_Nocentelli
-- https://kids.kiddle.co/Leo_Nocentelli
-- https://ww1.namm.org/playback/success-stories/oral-history-spotlight-leo-nocentelli
+  - 'https://en.wikipedia.org/wiki/Leo_Nocentelli'
+  - 'https://kids.kiddle.co/Leo_Nocentelli'
+  - >-
+    https://ww1.namm.org/playback/success-stories/oral-history-spotlight-leo-nocentelli
 network_extracted: true
 entry_created: '2025-10-22T09:20:43.675962'
 last_updated: '2025-12-23T08:16:11.797213'
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1946-06-15'
+artist_type: person
 ---
 
 ![](leo_nocentelli.jpg)

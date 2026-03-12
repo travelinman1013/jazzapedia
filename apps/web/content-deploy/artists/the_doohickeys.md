@@ -14,7 +14,7 @@ audio_profile:
   valence_avg: 0.636
   danceability_avg: 0.591
   acousticness_avg: 0.243
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -6.7
   speechiness_avg: 0.046
   liveness_avg: 0.184
@@ -23,46 +23,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Eric Corne
-  - Jack Hackett
-  - Haley Spence Brown
-  - Jordan Bush
-  - Hayley Orrantia
+    - Eric Corne
+    - Jack Hackett
+    - Haley Spence Brown
+    - Jordan Bush
+    - Hayley Orrantia
   influenced: []
   mentors:
-  - Dolly Parton
+    - Dolly Parton
 spotify_data:
   followers: 2443
   id: 7iK8spMmiHLx0Ji84hxxX1
   popularity: 18
-  url: https://open.spotify.com/artist/7iK8spMmiHLx0Ji84hxxX1
+  url: 'https://open.spotify.com/artist/7iK8spMmiHLx0Ji84hxxX1'
 discography_enriched: true
 top_tracks:
-- 9 to 6 (A Modern 9 to 5) (9 to 6 (A Modern 9 to 5))
-- Rein It In Cowboy (All Hat No Cattle)
-- Can't Beat My Ol' Beater (All Hat No Cattle)
-- All Hat No Cattle (All Hat No Cattle)
-- This Town Sucks (All Hat No Cattle)
-- I Don't Give A Damn About Football (All Hat No Cattle)
-- Too Ugly to Hitchhike (All Hat No Cattle)
-- I Wish My Truck Was Bigger (All Hat No Cattle)
-- Please Tell Me You're Sleepin' (All Hat No Cattle)
-- This Town Sucks (This Town Sucks)
+  - 9 to 6 (A Modern 9 to 5) (9 to 6 (A Modern 9 to 5))
+  - Rein It In Cowboy (All Hat No Cattle)
+  - Can't Beat My Ol' Beater (All Hat No Cattle)
+  - All Hat No Cattle (All Hat No Cattle)
+  - This Town Sucks (All Hat No Cattle)
+  - I Don't Give A Damn About Football (All Hat No Cattle)
+  - Too Ugly to Hitchhike (All Hat No Cattle)
+  - I Wish My Truck Was Bigger (All Hat No Cattle)
+  - Please Tell Me You're Sleepin' (All Hat No Cattle)
+  - This Town Sucks (This Town Sucks)
 external_urls:
-  spotify: https://open.spotify.com/artist/7iK8spMmiHLx0Ji84hxxX1
+  spotify: 'https://open.spotify.com/artist/7iK8spMmiHLx0Ji84hxxX1'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/the_doohickeys.jpg
 biography_enhanced_at: '2025-12-15T01:26:16.181367'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.thedoohickeysband.com/bio
-- https://countrypocketwusb.com/2025/02/21/country-comedy-hybrid-band-the-doohickeys-are-a-surprisingly-thoughtful-riot/
-- https://americanahighways.org/2025/01/21/review-the-doohickeys-all-hat-no-cattle/
-- https://www.thedoohickeysband.com
+  - 'https://www.thedoohickeysband.com/bio'
+  - >-
+    https://countrypocketwusb.com/2025/02/21/country-comedy-hybrid-band-the-doohickeys-are-a-surprisingly-thoughtful-riot/
+  - >-
+    https://americanahighways.org/2025/01/21/review-the-doohickeys-all-hat-no-cattle/
+  - 'https://www.thedoohickeysband.com'
 network_extracted: true
 entry_created: '2025-12-15T01:26:16.181392'
 last_updated: '2025-12-23T08:16:16.744876'
+origin: >-
+  Glendale, CA, USA (band origin); Haley from Liberty, Missouri; Jack from
+  Atlanta, Georgia
+artist_type: band
 ---
 
 ![](the_doohickeys.jpg)

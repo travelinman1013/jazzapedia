@@ -3,18 +3,18 @@ title: Clarence Williams
 wiki_slug: clarence-williams
 schema_version: 2
 status: active
-birth_place: Plaquemine, Louisiana, United States
+birth_place: 'Plaquemine, Louisiana, United States'
 genres:
-- ragtime
-- swing music
-- boogie-woogie
-- jazz
-- classic blues
+  - ragtime
+  - swing music
+  - boogie-woogie
+  - jazz
+  - classic blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Clarence_Williams.jpg
   caption: Clarence Williams
   background: solo_singer
-  origin: Plaquemine, Louisiana, United States
+  origin: 'Plaquemine, Louisiana, United States'
 audio_profile:
   tempo_avg: 114.7
   energy_avg: 0.275
@@ -30,50 +30,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Armand J. Piron
-  - Spencer Williams
-  - Louis Armstrong
-  - Sidney Bechet
-  - Eva Taylor
-  - Bessie Smith
+    - Armand J. Piron
+    - Spencer Williams
+    - Louis Armstrong
+    - Sidney Bechet
+    - Eva Taylor
+    - Bessie Smith
   influenced:
-  - Thomas 'Fats' Waller
+    - Thomas 'Fats' Waller
   mentors:
-  - W.C. Handy
+    - W.C. Handy
 spotify_data:
   followers: 5932
   id: 5zjKpiCCiuKiT6uhSt7aFe
   popularity: 16
-  url: https://open.spotify.com/artist/5zjKpiCCiuKiT6uhSt7aFe
+  url: 'https://open.spotify.com/artist/5zjKpiCCiuKiT6uhSt7aFe'
 discography_enriched: true
 top_tracks:
-- Everybody Loves My Baby (Whoop It Up)
-- Crazy Blues (Whoop It Up)
-- 'While I Live: The Dream of Olwen (Arr. G. Robinson for Piano and Orchestra) - Instrumental (Concert Favorites: Liberace)'
-- Everybody Loves My Baby (But My Baby Don’t Love Nobody But Me) (11-06-24) (Complete Jazz Series 1921 - 1924)
-- Wild Cat Blues (Whoop It Up)
-- I'm Wild About That Thing
-- Texas Moaner Blues (Whoop It Up)
-- After Tonight (Whoop It Up)
-- Close Fit Blues (Shake 'Em Up - Clarence Williams 1927-29)
-- Everybody Loves My Baby
+  - Everybody Loves My Baby (Whoop It Up)
+  - Crazy Blues (Whoop It Up)
+  - >-
+    While I Live: The Dream of Olwen (Arr. G. Robinson for Piano and Orchestra)
+    - Instrumental (Concert Favorites: Liberace)
+  - >-
+    Everybody Loves My Baby (But My Baby Don’t Love Nobody But Me) (11-06-24)
+    (Complete Jazz Series 1921 - 1924)
+  - Wild Cat Blues (Whoop It Up)
+  - I'm Wild About That Thing
+  - Texas Moaner Blues (Whoop It Up)
+  - After Tonight (Whoop It Up)
+  - Close Fit Blues (Shake 'Em Up - Clarence Williams 1927-29)
+  - Everybody Loves My Baby
 external_urls:
-  spotify: https://open.spotify.com/artist/5zjKpiCCiuKiT6uhSt7aFe
-  wikipedia: https://en.wikipedia.org/wiki/Clarence_Williams_(musician)
+  spotify: 'https://open.spotify.com/artist/5zjKpiCCiuKiT6uhSt7aFe'
+  wikipedia: 'https://en.wikipedia.org/wiki/Clarence_Williams_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/Clarence_Williams.jpg
 biography_enhanced_at: '2025-10-19T12:26:44.027907'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://jazzhotbigstep.com/24306.html
-- https://www.flametreepro.com/personalities-clarence-williams-early-years-jazz-and-blues.html
-- https://www.songhall.org/profiles/clarence-williams
-- https://aaregistry.org/story/clarence-williams-entrepreneur-and-jazz-and-blues-artist/
-- https://sandiegotroubadour.com/birthday-spotlight-clarence-williams/
-- https://syncopatedtimes.com/clarence-williams-1898-1965/
+  - 'http://jazzhotbigstep.com/24306.html'
+  - >-
+    https://www.flametreepro.com/personalities-clarence-williams-early-years-jazz-and-blues.html
+  - 'https://www.songhall.org/profiles/clarence-williams'
+  - >-
+    https://aaregistry.org/story/clarence-williams-entrepreneur-and-jazz-and-blues-artist/
+  - 'https://sandiegotroubadour.com/birthday-spotlight-clarence-williams/'
+  - 'https://syncopatedtimes.com/clarence-williams-1898-1965/'
 network_extracted: true
 entry_created: '2025-10-19T12:26:44.027925'
 last_updated: '2025-12-23T08:16:01.538544'
+artist_type: person
 ---
 
 ![](Clarence_Williams.jpg)

@@ -3,14 +3,14 @@ title: Tara Lily & King Krule
 wiki_slug: tara-lily-king-krule
 schema_version: 2
 status: active
-birth_place: Peckham, London, England, United Kingdom
+birth_place: 'Peckham, London, England, United Kingdom'
 genres:
-- uk r&b
+  - uk r&b
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/tara_lily_and_king_krule.jpg
   caption: Tara Lily & King Krule
   background: solo_singer
-  origin: Peckham, London, England, United Kingdom
+  origin: 'Peckham, London, England, United Kingdom'
 audio_profile:
   tempo_avg: 124.8
   energy_avg: 0.547
@@ -26,47 +26,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - King Krule
-  - Theo Croker
-  - Surya Sen
-  - Dom Valentino
+    - King Krule
+    - Theo Croker
+    - Surya Sen
+    - Dom Valentino
   influenced:
-  - Emerging British-Asian jazz and R&B artists
+    - Emerging British-Asian jazz and R&B artists
   mentors:
-  - Trinity Laban Conservatoire of Music
+    - Trinity Laban Conservatoire of Music
 spotify_data:
   followers: 15035
   id: 1bt3qLrv0clLAZStcQf4zy
   popularity: 39
-  url: https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy
+  url: 'https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy'
 discography_enriched: true
 top_tracks:
-- 6 Feet Down (Speak In The Dark)
-- 6 Feet Down (Speak In The Dark)
-- Speak In The Dark (Speak In The Dark)
-- Don’t Explain (Last Flight Out)
-- South Bombay (Speak In The Dark)
-- Speak In The Dark (Speak In The Dark)
-- Like The Ocean (Speak In The Dark)
-- No Way Out (Speak In The Dark)
-- 6 Feet Down (6 Feet Down)
-- No Way Out (Speak In The Dark)
+  - 6 Feet Down (Speak In The Dark)
+  - 6 Feet Down (Speak In The Dark)
+  - Speak In The Dark (Speak In The Dark)
+  - Don’t Explain (Last Flight Out)
+  - South Bombay (Speak In The Dark)
+  - Speak In The Dark (Speak In The Dark)
+  - Like The Ocean (Speak In The Dark)
+  - No Way Out (Speak In The Dark)
+  - 6 Feet Down (6 Feet Down)
+  - No Way Out (Speak In The Dark)
 external_urls:
-  spotify: https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy
+  spotify: 'https://open.spotify.com/artist/1bt3qLrv0clLAZStcQf4zy'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/tara_lily_and_king_krule.jpg
 biography_enhanced_at: '2025-11-12T14:43:48.534906'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://www.mxdwn.co.uk/news/tara-lily-collaborates-with-king-krule-on-new-ep-quiet-nights/
-- https://tru-thoughts.co.uk/artists/tara-lily/
-- https://www.stereogum.com/2326250/tara-lily-tropical-storm-feat-king-krule/music/
-- https://taralily.bandcamp.com
-- https://www.thelineofbestfit.com/features/interviews/tara-lily-on-the-rise
+  - >-
+    http://www.mxdwn.co.uk/news/tara-lily-collaborates-with-king-krule-on-new-ep-quiet-nights/
+  - 'https://tru-thoughts.co.uk/artists/tara-lily/'
+  - >-
+    https://www.stereogum.com/2326250/tara-lily-tropical-storm-feat-king-krule/music/
+  - 'https://taralily.bandcamp.com'
+  - 'https://www.thelineofbestfit.com/features/interviews/tara-lily-on-the-rise'
 network_extracted: true
 entry_created: '2025-11-12T14:43:48.534917'
 last_updated: '2025-12-23T08:16:16.396222'
+origin: 'Peckham, London, England, United Kingdom'
+artist_type: person
 ---
 
 ![](tara_lily_and_king_krule.jpg)

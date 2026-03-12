@@ -3,13 +3,13 @@ title: Jorja Smith & Preditah
 wiki_slug: jorja-smith-preditah
 schema_version: 2
 status: active
-birth_place: Walsall, West Midlands, England
+birth_place: 'Walsall, West Midlands, England'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jorja_smith_and_preditah.jpg
   caption: Jorja Smith & Preditah
   background: solo_singer
-  origin: Walsall, West Midlands, England
+  origin: 'Walsall, West Midlands, England'
 audio_profile:
   tempo_avg: 118.1
   energy_avg: 0.603
@@ -25,49 +25,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Preditah
-  - Drake
-  - Kali Uchis
-  - Stormzy
-  - Kendrick Lamar
+    - Preditah
+    - Drake
+    - Kali Uchis
+    - Stormzy
+    - Kendrick Lamar
   influenced: []
   mentors:
-  - Guy Moot
-  - Maverick Sabre
-  - Ed Thomas
+    - Guy Moot
+    - Maverick Sabre
+    - Ed Thomas
 spotify_data:
   followers: 3677802
   id: 1CoZyIx7UvdxT5c8UkMzHd
   popularity: 73
-  url: https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd
+  url: 'https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd'
 discography_enriched: true
 top_tracks:
-- Crush (feat. Jorja Smith)
-- Slow Down (feat. Jorja Smith) - Vintage Culture & Slow Motion Remix
-- Get It Together (More Life)
-- Nobody But You
-- Little Things x Gypsy Woman - L BEATS MASHUP
-- Blue Lights (Lost & Found)
-- Be Honest (feat. Burna Boy)
-- On My Mind (Jorja Smith X Preditah)
-- Little Things x Gypsy Woman - L BEATS MASHUP (falling or flying (Deluxe))
-- Come With Me (feat. Jorja Smith)
+  - Crush (feat. Jorja Smith)
+  - Slow Down (feat. Jorja Smith) - Vintage Culture & Slow Motion Remix
+  - Get It Together (More Life)
+  - Nobody But You
+  - Little Things x Gypsy Woman - L BEATS MASHUP
+  - Blue Lights (Lost & Found)
+  - Be Honest (feat. Burna Boy)
+  - On My Mind (Jorja Smith X Preditah)
+  - Little Things x Gypsy Woman - L BEATS MASHUP (falling or flying (Deluxe))
+  - Come With Me (feat. Jorja Smith)
 external_urls:
-  spotify: https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd
-  wikipedia: https://en.wikipedia.org/wiki/Jorja_Smith
+  spotify: 'https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jorja_Smith'
 image_path: 03_Resources/source_material/ArtistPortraits/jorja_smith_and_preditah.jpg
 biography_enhanced_at: '2025-12-10T04:46:25.423038'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jorja_Smith
-- https://www.imdb.com/name/nm9700609/bio/
-- https://www.vice.com/en/article/jorja-smith-2017-interview/
-- https://www.theculturecrypt.com/posts/a-glance-at-jorja-smiths-artistry
-- https://wbssmedia.com/artists/detail/1243
+  - 'https://en.wikipedia.org/wiki/Jorja_Smith'
+  - 'https://www.imdb.com/name/nm9700609/bio/'
+  - 'https://www.vice.com/en/article/jorja-smith-2017-interview/'
+  - 'https://www.theculturecrypt.com/posts/a-glance-at-jorja-smiths-artistry'
+  - 'https://wbssmedia.com/artists/detail/1243'
 network_extracted: true
 entry_created: '2025-12-10T04:46:25.423042'
 last_updated: '2025-12-23T08:16:10.983696'
+birth_date: '1997-06-11'
+artist_type: person
 ---
 
 ![](jorja_smith_and_preditah.jpg)

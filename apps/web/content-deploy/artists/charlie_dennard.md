@@ -3,14 +3,14 @@ title: Charlie Dennard
 wiki_slug: charlie-dennard
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- latin jazz
+  - latin jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/charlie_dennard.jpg
   caption: Charlie Dennard
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 107.2
   energy_avg: 0.304
@@ -26,51 +26,73 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Cirque du Soleil touring ensembles
-  - New Orleans jazz and Brazilian music artists
+    - Cirque du Soleil touring ensembles
+    - New Orleans jazz and Brazilian music artists
   influenced:
-  - ''
+    - ''
   mentors:
-  - Ellis Marsalis
+    - Ellis Marsalis
 spotify_data:
   followers: 147
   id: 0aoUEhb8Vdp0HBLiYuLjFO
   popularity: 0
-  url: https://open.spotify.com/artist/0aoUEhb8Vdp0HBLiYuLjFO
+  url: 'https://open.spotify.com/artist/0aoUEhb8Vdp0HBLiYuLjFO'
 discography_enriched: true
 top_tracks:
-- Itape (feat. Doug Belote, Tommy Sciple, Josh Geisler & Brian Seeger) (From Brazil to New Orleans)
-- Song For You (All Lit Up)
-- Capoeira Mata Um (feat. Doug Belote, Michael Skinkus, Eric Lucero, Ray Moore, Brent Rose, Rick Trolsen, Rick Musallam &
-  Jason Mingledorf) (From Brazil to New Orleans)
-- Abrindo A Porta (feat. Steve Masakowski, James Mack, Doug Belote, Tommy Sciple & Jack Craft) (From Brazil to New Orleans)
-- Asa Branca (feat. Eric Lucero, Matt Perrine, Josh Geisler, Brent Rose, Ray Moore, Rick Trolsen, Michael Skinkus & Gerald
-  French (Drums)] (From Brazil to New Orleans)
-- Quando O Galo Cantar (feat. Matt Perrine, Brent Rose, Rick Trolsen, Annette Bauer, Michael Skinkus, Gerald French, Eric
-  Lucero & Ray Moore) (From Brazil to New Orleans)
-- Senhorinha (feat. Jack Craft) (From Brazil to New Orleans)
-- Valsa Luisiana (feat. Doug Belote, Tommy Sciple, Scott Myers & Billy Hulting) (From Brazil to New Orleans)
-- Africa Mae (feat. Doug Belote, Billy Hulting & Scott Myers) (From Brazil to New Orleans)
-- Ganga Zumbi (feat. Brent Rose, Steve Masakowski, Tatiana Parra, Doug Belote & Tommy Sciple) (From Brazil to New Orleans)
+  - >-
+    Itape (feat. Doug Belote, Tommy Sciple, Josh Geisler & Brian Seeger) (From
+    Brazil to New Orleans)
+  - Song For You (All Lit Up)
+  - >-
+    Capoeira Mata Um (feat. Doug Belote, Michael Skinkus, Eric Lucero, Ray
+    Moore, Brent Rose, Rick Trolsen, Rick Musallam & Jason Mingledorf) (From
+    Brazil to New Orleans)
+  - >-
+    Abrindo A Porta (feat. Steve Masakowski, James Mack, Doug Belote, Tommy
+    Sciple & Jack Craft) (From Brazil to New Orleans)
+  - >-
+    Asa Branca (feat. Eric Lucero, Matt Perrine, Josh Geisler, Brent Rose, Ray
+    Moore, Rick Trolsen, Michael Skinkus & Gerald French (Drums)] (From Brazil
+    to New Orleans)
+  - >-
+    Quando O Galo Cantar (feat. Matt Perrine, Brent Rose, Rick Trolsen, Annette
+    Bauer, Michael Skinkus, Gerald French, Eric Lucero & Ray Moore) (From Brazil
+    to New Orleans)
+  - Senhorinha (feat. Jack Craft) (From Brazil to New Orleans)
+  - >-
+    Valsa Luisiana (feat. Doug Belote, Tommy Sciple, Scott Myers & Billy
+    Hulting) (From Brazil to New Orleans)
+  - >-
+    Africa Mae (feat. Doug Belote, Billy Hulting & Scott Myers) (From Brazil to
+    New Orleans)
+  - >-
+    Ganga Zumbi (feat. Brent Rose, Steve Masakowski, Tatiana Parra, Doug Belote
+    & Tommy Sciple) (From Brazil to New Orleans)
 external_urls:
-  spotify: https://open.spotify.com/artist/0aoUEhb8Vdp0HBLiYuLjFO
+  spotify: 'https://open.spotify.com/artist/0aoUEhb8Vdp0HBLiYuLjFO'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/charlie_dennard.jpg
 biography_enhanced_at: '2025-12-07T04:49:35.158815'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.jazzmusicarchives.com/artist/charlie-dennard
-- https://www.charliedennard.com/bio/
-- https://www.charliedennard.com/press/
-- https://www.allaboutjazz.com/deep-blue-charlie-dennard-self-produced-review-by-nicholas-f-mondello
-- https://www.audaud.com/charlie-dennard-from-brazil-to-new-orleans-self/
-- https://latinjazznet.com/reviews/albums/charlie-dennard-from-brazil-to-new-orleans/
-- https://www.wrti.org/wrti-spotlight/2019-01-21/jazz-album-of-the-week-keyboardist-charlie-dennards-deep-blue-goes-beyond-dixieland
-- https://www.thealumniassociation.com/home/4831449-charles-dennard/profile
+  - 'https://www.jazzmusicarchives.com/artist/charlie-dennard'
+  - 'https://www.charliedennard.com/bio/'
+  - 'https://www.charliedennard.com/press/'
+  - >-
+    https://www.allaboutjazz.com/deep-blue-charlie-dennard-self-produced-review-by-nicholas-f-mondello
+  - 'https://www.audaud.com/charlie-dennard-from-brazil-to-new-orleans-self/'
+  - >-
+    https://latinjazznet.com/reviews/albums/charlie-dennard-from-brazil-to-new-orleans/
+  - >-
+    https://www.wrti.org/wrti-spotlight/2019-01-21/jazz-album-of-the-week-keyboardist-charlie-dennards-deep-blue-goes-beyond-dixieland
+  - 'https://www.thealumniassociation.com/home/4831449-charles-dennard/profile'
 network_extracted: true
 entry_created: '2025-12-07T04:49:35.158829'
 last_updated: '2025-12-23T08:16:06.721414'
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1969-11-03'
+artist_type: person
 ---
 
 ![](charlie_dennard.jpg)

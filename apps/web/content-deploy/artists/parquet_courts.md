@@ -2,13 +2,13 @@
 title: Parquet Courts
 wiki_slug: parquet-courts
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '2010'
 genres:
-- post-punk
-- indie rock
-- garage rock
+  - post-punk
+  - indie rock
+  - garage rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/parquet_courts.jpg
   caption: Parquet Courts
@@ -29,79 +29,79 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Andrew Savage
-  - Austin Brown
-  - Max Savage
-  - Sean Yeaton
-  - Fergus & Geronimo
+    - Andrew Savage
+    - Austin Brown
+    - Max Savage
+    - Sean Yeaton
+    - Fergus & Geronimo
   influenced:
-  - Ought
-  - Protomartyr
-  - Shame
+    - Ought
+    - Protomartyr
+    - Shame
   mentors:
-  - The Fall
-  - Neil Young
-  - Modern Lovers
+    - The Fall
+    - Neil Young
+    - Modern Lovers
 spotify_data:
   followers: 295959
   id: 23NIwARd4vPbxt3wwNnJ6k
   popularity: 43
-  url: https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k
+  url: 'https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k'
 discography_enriched: true
 top_tracks:
-- Tenderness (Wide Awake!)
-- Total Football (Wide Awake!)
-- Wide Awake (Wide Awake!)
-- Freebird II (Wide Awake!)
-- Stoned and Starving (Light Up Gold)
-- Almost Had to Start a Fight/In and Out of Patience (Wide Awake!)
-- Borrowed Time (Light Up Gold)
-- Berlin Got Blurry (Human Performance)
-- Before the Water Gets Too High (Wide Awake!)
-- Human Performance (Human Performance)
+  - Tenderness (Wide Awake!)
+  - Total Football (Wide Awake!)
+  - Wide Awake (Wide Awake!)
+  - Freebird II (Wide Awake!)
+  - Stoned and Starving (Light Up Gold)
+  - Almost Had to Start a Fight/In and Out of Patience (Wide Awake!)
+  - Borrowed Time (Light Up Gold)
+  - Berlin Got Blurry (Human Performance)
+  - Before the Water Gets Too High (Wide Awake!)
+  - Human Performance (Human Performance)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e01755e3-58ab-4a5b-a9e9-a0a3bd3dff4c
-  spotify: https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k
+  musicbrainz: 'https://musicbrainz.org/artist/e01755e3-58ab-4a5b-a9e9-a0a3bd3dff4c'
+  spotify: 'https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k'
   wikipedia: Not found in search results; no Wikipedia URL provided.
 image_path: 03_Resources/source_material/ArtistPortraits/parquet_courts.jpg
 biography_enhanced_at: '2025-10-30T12:03:31.118532'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- last.fm
-- Grantland
-- Interview Magazine
+  - last.fm
+  - Grantland
+  - Interview Magazine
 network_extracted: true
 entry_created: '2025-10-30T12:03:31.118544'
 last_updated: '2025-12-23T08:16:13.964627'
 disambiguation: US garage rock band
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 50dec28e-63a9-4d97-864d-aa9923ade531
-  name: Austin Brown
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ae1c8911-6d49-4ac1-ba05-707f3f2ec58c
-  name: Andrew Savage
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 42f1f95f-35d2-4d14-90c7-2eb6d64dcb74
-  name: Max Savage
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 46e4ef1a-9c03-41a0-aa75-c84361922013
-  name: Sean Yeaton
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 50dec28e-63a9-4d97-864d-aa9923ade531
+    name: Austin Brown
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ae1c8911-6d49-4ac1-ba05-707f3f2ec58c
+    name: Andrew Savage
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 42f1f95f-35d2-4d14-90c7-2eb6d64dcb74
+    name: Max Savage
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 46e4ef1a-9c03-41a0-aa75-c84361922013
+    name: Sean Yeaton
 musicbrainz_id: e01755e3-58ab-4a5b-a9e9-a0a3bd3dff4c
-origin: Brooklyn
+origin: 'Brooklyn, New York, United States'
 tags:
-- art punk
-- garage rock revival
-- indie rock
+  - art punk
+  - garage rock revival
+  - indie rock
 ---
 
 ![](parquet_courts.jpg)

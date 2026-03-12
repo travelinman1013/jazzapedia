@@ -1,79 +1,81 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b4867750-6411-477a-84e3-4c0270356998
-  name: The Reno Brothers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0e016fc1-2bc7-4b6a-bea1-766581da8b0f
-  name: Ronnie Reno & The Reno Tradition
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b4867750-6411-477a-84e3-4c0270356998
+    name: The Reno Brothers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0e016fc1-2bc7-4b6a-bea1-766581da8b0f
+    name: Ronnie Reno & The Reno Tradition
 biography_enhanced_at: '2025-12-29T01:12:47.561890'
 birth_date: '1947-08-28'
-birth_place: United States (specific city and state not clearly documented in available
+birth_place: >-
+  United States (specific city and state not clearly documented in available
   sources)
 disambiguation: Country music singer-songwriter and musician
 enhancement_provider: perplexity
 entry_created: '2025-12-29T01:12:47.561902'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/78a95013-20e6-40fc-8c68-a9120f496dd4
-  spotify: https://open.spotify.com/artist/5edhQxtxFoWuF4dPuT4upX
+  musicbrainz: 'https://musicbrainz.org/artist/78a95013-20e6-40fc-8c68-a9120f496dd4'
+  spotify: 'https://open.spotify.com/artist/5edhQxtxFoWuF4dPuT4upX'
   wikipedia: ''
 gender: Male
 genres:
-- bluegrass
+  - bluegrass
 image_path: 03_Resources/source_material/ArtistPortraits/ronnie_reno.jpg
 instruments:
-- guitar
-- baritone vocals
-- background vocals
-- lead vocals
+  - guitar
+  - baritone vocals
+  - background vocals
+  - lead vocals
 last_updated: '2025-12-29T01:12:47.561904'
 musical_connections:
   collaborators:
-  - Reno & Smiley
-  - The Louvin Brothers
-  - The Osborne Brothers
-  - Merle Haggard
-  - Bonnie Owens
-  - The Strangers
-  - The Reno Brothers
-  - Vassar Clements
-  - Sammi Smith
-  - Conway Twitty
-  - Merle Haggard (as produced artist)
-  - Various guests on “Reno’s Old Time Music Festival”
+    - Reno & Smiley
+    - The Louvin Brothers
+    - The Osborne Brothers
+    - Merle Haggard
+    - Bonnie Owens
+    - The Strangers
+    - The Reno Brothers
+    - Vassar Clements
+    - Sammi Smith
+    - Conway Twitty
+    - Merle Haggard (as produced artist)
+    - Various guests on “Reno’s Old Time Music Festival”
   influenced:
-  - Contemporary traditional bluegrass artists appearing on “Reno’s Old Time Music
-    Festival/Reno’s Old Time Music”
-  - Younger bluegrass musicians drawing on the Reno family repertoire
+    - >-
+      Contemporary traditional bluegrass artists appearing on “Reno’s Old Time
+      Music Festival/Reno’s Old Time Music”
+    - Younger bluegrass musicians drawing on the Reno family repertoire
   mentors:
-  - Don Reno
-  - Reno & Smiley
-  - The Osborne Brothers
-  - Merle Haggard
+    - Don Reno
+    - Reno & Smiley
+    - The Osborne Brothers
+    - Merle Haggard
 musicbrainz_id: 78a95013-20e6-40fc-8c68-a9120f496dd4
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://ronniereno.com/biography/
-- https://ronniereno.com
-- https://www.allmusic.com/artist/ronnie-reno-mn0000335046
-- https://bluegrassmusictvprime.vhx.tv/reno-s-old-time-music-1
-- https://www.countrystandardtime.com/d/cdreview.asp?xid=2453
-- https://www.last.fm/music/Ronnie+Reno+and+the+Reno+Tradition/+wiki
+  - 'https://ronniereno.com/biography/'
+  - 'https://ronniereno.com'
+  - 'https://www.allmusic.com/artist/ronnie-reno-mn0000335046'
+  - 'https://bluegrassmusictvprime.vhx.tv/reno-s-old-time-music-1'
+  - 'https://www.countrystandardtime.com/d/cdreview.asp?xid=2453'
+  - 'https://www.last.fm/music/Ronnie+Reno+and+the+Reno+Tradition/+wiki'
 spotify_data:
   followers: 131
   id: 5edhQxtxFoWuF4dPuT4upX
   popularity: 14
-  url: https://open.spotify.com/artist/5edhQxtxFoWuF4dPuT4upX
+  url: 'https://open.spotify.com/artist/5edhQxtxFoWuF4dPuT4upX'
 status: active
 tags:
-- bluegrass
-title: RONNIE RENO
+  - bluegrass
+title: Ronnie Reno
 ---
 
 ![](ronnie_reno.jpg)

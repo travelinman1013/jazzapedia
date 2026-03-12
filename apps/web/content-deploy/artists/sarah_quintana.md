@@ -3,13 +3,13 @@ title: Sarah Quintana
 wiki_slug: sarah-quintana
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sarah_quintana.jpg
   caption: Sarah Quintana
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 110.4
   energy_avg: 0.33
@@ -25,48 +25,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Cajun elders
-  - French musicians
+    - Cajun elders
+    - French musicians
   influenced:
-  - Students and vocal coaching clients
+    - Students and vocal coaching clients
   mentors:
-  - Deacon John Moore
+    - Deacon John Moore
 spotify_data:
   followers: 1468
   id: 25zII6idJMEdpAPxFff9TD
   popularity: 22
-  url: https://open.spotify.com/artist/25zII6idJMEdpAPxFff9TD
+  url: 'https://open.spotify.com/artist/25zII6idJMEdpAPxFff9TD'
 discography_enriched: true
 top_tracks:
-- In Green (feat. Sarah Quintana) (Polyvinyl Plays Polyvinyl)
-- tout mon coeur (BABY DON'T)
-- laisse le bon temps rouler (laisse le bon temps rouler)
-- rolling and tumbling (BABY DON'T)
-- With My Baby By My Side (The World Has Changed)
-- bump in the road (BABY DON'T)
-- laisse le bon temps rouler (BABY DON'T)
-- baby, don't (BABY DON'T)
-- miami (BABY DON'T)
-- baby, don't (baby, don't)
+  - In Green (feat. Sarah Quintana) (Polyvinyl Plays Polyvinyl)
+  - tout mon coeur (BABY DON'T)
+  - laisse le bon temps rouler (laisse le bon temps rouler)
+  - rolling and tumbling (BABY DON'T)
+  - With My Baby By My Side (The World Has Changed)
+  - bump in the road (BABY DON'T)
+  - laisse le bon temps rouler (BABY DON'T)
+  - 'baby, don''t (BABY DON''T)'
+  - miami (BABY DON'T)
+  - 'baby, don''t (baby, don''t)'
 external_urls:
-  spotify: https://open.spotify.com/artist/25zII6idJMEdpAPxFff9TD
+  spotify: 'https://open.spotify.com/artist/25zII6idJMEdpAPxFff9TD'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/sarah_quintana.jpg
 biography_enhanced_at: '2025-11-26T07:47:02.187915'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.wwno.org/2025-03-24/on-baby-dont-sarah-quintana-explores-louisiana-sound-on-her-own-terms
-- https://glidemagazine.com/?p=309143
-- https://www.sarahquintana.com
-- https://antigravitymagazine.com/feature/sarah-quintana-keeps-on-rolling/
-- https://ink19.com/2025/03/magazine/music-reviews/pzuksu-sarah-quintana
-- https://www.sarahquintana.com/about
-- https://astudiointhewoods.org/artist/sarah-quintana/
-- https://www.neworleans.com/listing/sarah-quintana/47910/
+  - >-
+    https://www.wwno.org/2025-03-24/on-baby-dont-sarah-quintana-explores-louisiana-sound-on-her-own-terms
+  - 'https://glidemagazine.com/?p=309143'
+  - 'https://www.sarahquintana.com'
+  - 'https://antigravitymagazine.com/feature/sarah-quintana-keeps-on-rolling/'
+  - 'https://ink19.com/2025/03/magazine/music-reviews/pzuksu-sarah-quintana'
+  - 'https://www.sarahquintana.com/about'
+  - 'https://astudiointhewoods.org/artist/sarah-quintana/'
+  - 'https://www.neworleans.com/listing/sarah-quintana/47910/'
 network_extracted: true
 entry_created: '2025-11-26T07:47:02.187926'
 last_updated: '2025-12-23T08:16:15.393066'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](sarah_quintana.jpg)

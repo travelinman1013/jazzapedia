@@ -3,15 +3,15 @@ title: Tav Falco
 wiki_slug: tav-falco
 schema_version: 2
 status: active
-birth_place: Gurdon, Arkansas, United States
+birth_place: 'Gurdon, Arkansas, United States'
 genres:
-- proto-punk
-- art rock
+  - proto-punk
+  - art rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/tav_falco.jpg
   caption: Tav Falco
   background: solo_singer
-  origin: Gurdon, Arkansas, United States
+  origin: 'Gurdon, Arkansas, United States'
 audio_profile:
   tempo_avg: 133.6
   energy_avg: 0.57
@@ -27,51 +27,71 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Alex Chilton
-  - Randall Lyon
-  - Mike Watt
-  - Toby Dammit
+    - Alex Chilton
+    - Randall Lyon
+    - Mike Watt
+    - Toby Dammit
   influenced:
-  - The Gun Club
-  - The Cramps
+    - The Gun Club
+    - The Cramps
   mentors:
-  - William Eggleston
+    - William Eggleston
 spotify_data:
   followers: 100
   id: 2HGj8gjLOKi9j39ffZ5DyR
   popularity: 0
-  url: https://open.spotify.com/artist/2HGj8gjLOKi9j39ffZ5DyR
+  url: 'https://open.spotify.com/artist/2HGj8gjLOKi9j39ffZ5DyR'
 discography_enriched: true
 top_tracks:
-- '(Intro) (Live) (Nashville Sessions: Live at Bridgestone Arena Studios (Live))'
-- 'About Marie Laveau (Live) (Nashville Sessions: Live at Bridgestone Arena Studios (Live))'
-- 'Sway (Live) (Nashville Sessions: Live at Bridgestone Arena Studios (Live))'
-- 'Have I the Right (Live) (Nashville Sessions: Live at Bridgestone Arena Studios (Live))'
-- 'He''ll Have to Go (Live) (Nashville Sessions: Live at Bridgestone Arena Studios (Live))'
-- 'Born Too Late (Live) (Nashville Sessions: Live at Bridgestone Arena Studios (Live))'
-- 'Me and My Chauffeur Blues (Live) (Nashville Sessions: Live at Bridgestone Arena Studios (Live))'
-- '(Band Intro) (Live) (Nashville Sessions: Live at Bridgestone Arena Studios (Live))'
-- 'Strange (Live) (Nashville Sessions: Live at Bridgestone Arena Studios (Live))'
-- 'Treat Me Nice (Live) (Nashville Sessions: Live at Bridgestone Arena Studios (Live))'
+  - >-
+    (Intro) (Live) (Nashville Sessions: Live at Bridgestone Arena Studios
+    (Live))
+  - >-
+    About Marie Laveau (Live) (Nashville Sessions: Live at Bridgestone Arena
+    Studios (Live))
+  - 'Sway (Live) (Nashville Sessions: Live at Bridgestone Arena Studios (Live))'
+  - >-
+    Have I the Right (Live) (Nashville Sessions: Live at Bridgestone Arena
+    Studios (Live))
+  - >-
+    He'll Have to Go (Live) (Nashville Sessions: Live at Bridgestone Arena
+    Studios (Live))
+  - >-
+    Born Too Late (Live) (Nashville Sessions: Live at Bridgestone Arena Studios
+    (Live))
+  - >-
+    Me and My Chauffeur Blues (Live) (Nashville Sessions: Live at Bridgestone
+    Arena Studios (Live))
+  - >-
+    (Band Intro) (Live) (Nashville Sessions: Live at Bridgestone Arena Studios
+    (Live))
+  - >-
+    Strange (Live) (Nashville Sessions: Live at Bridgestone Arena Studios
+    (Live))
+  - >-
+    Treat Me Nice (Live) (Nashville Sessions: Live at Bridgestone Arena Studios
+    (Live))
 external_urls:
-  spotify: https://open.spotify.com/artist/2HGj8gjLOKi9j39ffZ5DyR
-  wikipedia: https://en.wikipedia.org/wiki/Tav_Falco
+  spotify: 'https://open.spotify.com/artist/2HGj8gjLOKi9j39ffZ5DyR'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tav_Falco'
 image_path: 03_Resources/source_material/ArtistPortraits/tav_falco.jpg
 biography_enhanced_at: '2025-11-21T07:15:00.096187'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://encyclopediaofarkansas.net/entries/tav-falco-3635/
-- https://ltmrecordings.com/frenzi_index.html
-- http://www.tavfalco.com/about.html
-- https://thestrangebrew.co.uk/interviews/tav-falco/
-- https://radatl.com/2022/09/23/tav-falco-lultimo-gigolo/
-- https://bombmagazine.org/articles/2008/04/01/tav-falco/
-- https://www.citybeat.com/music/sound-advice-tav-falcos-panther-burns-with-allseeing-eyes-may-8-12172097
+  - 'https://encyclopediaofarkansas.net/entries/tav-falco-3635/'
+  - 'https://ltmrecordings.com/frenzi_index.html'
+  - 'http://www.tavfalco.com/about.html'
+  - 'https://thestrangebrew.co.uk/interviews/tav-falco/'
+  - 'https://radatl.com/2022/09/23/tav-falco-lultimo-gigolo/'
+  - 'https://bombmagazine.org/articles/2008/04/01/tav-falco/'
+  - >-
+    https://www.citybeat.com/music/sound-advice-tav-falcos-panther-burns-with-allseeing-eyes-may-8-12172097
 network_extracted: true
 entry_created: '2025-11-21T07:15:00.096201'
 last_updated: '2025-12-23T08:16:16.399372'
-
+birth_date: '1945'
+artist_type: person
 ---
 
 ![](tav_falco.jpg)

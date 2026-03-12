@@ -2,7 +2,7 @@
 title: CocoRosie
 wiki_slug: cocorosie
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '2003'
 genres: []
@@ -26,67 +26,72 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Anohni (formerly Antony Hegarty of Antony and the Johnsons)
-  - Touch and Go Records
-  - City Slang
-  - Sub Pop
-  - Touring partners (TV on the Radio, Bright Eyes, Battles, Devendra Banhart, Busdriver)
+    - Anohni (formerly Antony Hegarty of Antony and the Johnsons)
+    - Touch and Go Records
+    - City Slang
+    - Sub Pop
+    - >-
+      Touring partners (TV on the Radio, Bright Eyes, Battles, Devendra Banhart,
+      Busdriver)
   influenced:
-  - The xx
+    - The xx
   mentors:
-  - Their father (often described as a Native American–influenced shaman/vision-quest guide)
-  - Classical/operatic voice teachers (for Sierra Casady)
+    - >-
+      Their father (often described as a Native American–influenced
+      shaman/vision-quest guide)
+    - Classical/operatic voice teachers (for Sierra Casady)
 spotify_data:
   followers: 376756
   id: 05fo024EFotg9songSENOZ
   popularity: 41
-  url: https://open.spotify.com/artist/05fo024EFotg9songSENOZ
+  url: 'https://open.spotify.com/artist/05fo024EFotg9songSENOZ'
 discography_enriched: true
 top_tracks:
-- Lemonade (Grey Oceans)
-- Hush Little Bay (La Fin des Contes)
-- Pushing Daisies
-- Girl In Town (Little Death Wishes)
-- Restless (Put The Shine On)
-- Beautiful Boyz (Noah's Ark)
-- Cut Stitch Scar
-- Cut Stitch Scar (Little Death Wishes)
-- Werewolf (The Adventures of Ghosthorse & Stillborn)
-- By Your Side (La Maison de Mon Rêve)
+  - Lemonade (Grey Oceans)
+  - Hush Little Bay (La Fin des Contes)
+  - Pushing Daisies
+  - Girl In Town (Little Death Wishes)
+  - Restless (Put The Shine On)
+  - Beautiful Boyz (Noah's Ark)
+  - Cut Stitch Scar
+  - Cut Stitch Scar (Little Death Wishes)
+  - Werewolf (The Adventures of Ghosthorse & Stillborn)
+  - By Your Side (La Maison de Mon Rêve)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e162b2eb-6a42-4240-8c1b-c94d9a0acb73
-  spotify: https://open.spotify.com/artist/05fo024EFotg9songSENOZ
-  wikipedia: https://en.wikipedia.org/wiki/CocoRosie
+  musicbrainz: 'https://musicbrainz.org/artist/e162b2eb-6a42-4240-8c1b-c94d9a0acb73'
+  spotify: 'https://open.spotify.com/artist/05fo024EFotg9songSENOZ'
+  wikipedia: 'https://en.wikipedia.org/wiki/CocoRosie'
 image_path: 03_Resources/source_material/ArtistPortraits/cocorosie.jpg
 biography_enhanced_at: '2025-12-10T05:22:03.217325'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/CocoRosie
-- https://www.last.fm/music/CocoRosie/+wiki
-- https://touchandgorecords.com/bands/band.php?id=8
-- https://onbeing.org/blog/freaky-folk-duo-cocorosie-on-the-interaction-of-light-and-dark-and-their-own-spirituality/
-- https://kaput-mag.com/catch_en/cocorosie-guided-by-an-inner-force/
+  - 'https://en.wikipedia.org/wiki/CocoRosie'
+  - 'https://www.last.fm/music/CocoRosie/+wiki'
+  - 'https://touchandgorecords.com/bands/band.php?id=8'
+  - >-
+    https://onbeing.org/blog/freaky-folk-duo-cocorosie-on-the-interaction-of-light-and-dark-and-their-own-spirituality/
+  - 'https://kaput-mag.com/catch_en/cocorosie-guided-by-an-inner-force/'
 network_extracted: true
 entry_created: '2025-12-10T05:22:03.217332'
 last_updated: '2025-12-23T08:16:07.124004'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 01a5d370-0d27-40e7-9e98-2cbf866692de
-  name: Bianca Casady
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c08914f7-fbe6-4851-8cbb-977e0e1ed841
-  name: Sierra Casady
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 01a5d370-0d27-40e7-9e98-2cbf866692de
+    name: Bianca Casady
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c08914f7-fbe6-4851-8cbb-977e0e1ed841
+    name: Sierra Casady
 musicbrainz_id: e162b2eb-6a42-4240-8c1b-c94d9a0acb73
-origin: Paris
+origin: 'Paris, France, United States'
 tags:
-- alt pop
-- avant-garde pop
-- chamber pop
+  - alt pop
+  - avant-garde pop
+  - chamber pop
 ---
 
 ![](cocorosie.jpg)

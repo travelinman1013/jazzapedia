@@ -2,11 +2,11 @@
 title: Vitamin String Quartet
 wiki_slug: vitamin-string-quartet
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1999'
 genres:
-- orchestra
+  - orchestra
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/vitamin_string_quartet.jpg
   caption: Vitamin String Quartet
@@ -27,63 +27,67 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tom Tally
-  - Leah Zeger
-  - Jerome Kessler
+    - Tom Tally
+    - Leah Zeger
+    - Jerome Kessler
   influenced:
-  - Nina DiGregorio
+    - Nina DiGregorio
   mentors:
-  - Leo Flynn
+    - Leo Flynn
 spotify_data:
   followers: 774569
   id: 6MERXsiRbur2oJZFgYRDKz
   popularity: 61
-  url: https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz
+  url: 'https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz'
 discography_enriched: true
 top_tracks:
-- Dancing On My Own
-- Cheap Thrills (VSQ Performs the Hits of 2016, Vol. 2)
-- thank u, next
-- Girls Like You
-- 'If I Ain''t Got You (Queen Charlotte: A Bridgerton Story (Covers from the Netflix Series))'
-- Dynamite (VSQ Performs the Hits of 2020, Vol. 2)
-- In My Blood
-- Yellow - Soundtrack Version
-- 'Howl''s Moving Castle - Merry-Go-Round of Life (Geek Wedding, Vol. 2: The Sequel)'
-- bad guy
+  - Dancing On My Own
+  - 'Cheap Thrills (VSQ Performs the Hits of 2016, Vol. 2)'
+  - 'thank u, next'
+  - Girls Like You
+  - >-
+    If I Ain't Got You (Queen Charlotte: A Bridgerton Story (Covers from the
+    Netflix Series))
+  - 'Dynamite (VSQ Performs the Hits of 2020, Vol. 2)'
+  - In My Blood
+  - Yellow - Soundtrack Version
+  - >-
+    Howl's Moving Castle - Merry-Go-Round of Life (Geek Wedding, Vol. 2: The
+    Sequel)
+  - bad guy
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/56cfe6aa-b464-43d2-bec7-8ec52f313e7d
-  spotify: https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz
-  wikipedia: https://simple.wikipedia.org/wiki/Vitamin_String_Quartet
+  musicbrainz: 'https://musicbrainz.org/artist/56cfe6aa-b464-43d2-bec7-8ec52f313e7d'
+  spotify: 'https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz'
+  wikipedia: 'https://simple.wikipedia.org/wiki/Vitamin_String_Quartet'
 image_path: 03_Resources/source_material/ArtistPortraits/vitamin_string_quartet.jpg
 biography_enhanced_at: '2025-10-28T08:58:15.443329'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://violinlounge.com/article/the-bridgerton-effect-how-vitamin-string-quartet-made-classical-music-cool-again/
-- https://www.vitaminstringquartet.com/pages/about-us
-- https://www.last.fm/music/Vitamin+String+Quartet/+wiki
+  - >-
+    https://violinlounge.com/article/the-bridgerton-effect-how-vitamin-string-quartet-made-classical-music-cool-again/
+  - 'https://www.vitaminstringquartet.com/pages/about-us'
+  - 'https://www.last.fm/music/Vitamin+String+Quartet/+wiki'
 network_extracted: true
 entry_created: '2025-10-28T08:58:15.443343'
 last_updated: '2025-12-23T08:16:17.943272'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8b014b00-8031-45f5-beee-08112dfd7b6a
-  name: Amanda Lo
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bccf3189-0b01-44ed-836b-56b2a46b71d0
-  name: Tom Tally
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8b014b00-8031-45f5-beee-08112dfd7b6a
+    name: Amanda Lo
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bccf3189-0b01-44ed-836b-56b2a46b71d0
+    name: Tom Tally
 musicbrainz_id: 56cfe6aa-b464-43d2-bec7-8ec52f313e7d
-origin: Los Angeles, California, USA
+origin: 'Los Angeles, California, USA'
 tags:
-- chamber
-- cover
-- rock and indie
-
+  - chamber
+  - cover
+  - rock and indie
 ---
 
 ![](vitamin_string_quartet.jpg)

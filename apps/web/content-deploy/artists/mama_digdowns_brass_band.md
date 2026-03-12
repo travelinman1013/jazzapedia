@@ -3,39 +3,41 @@ biography_enhanced_at: '2026-01-11T02:16:21.777728'
 enhancement_provider: perplexity
 entry_created: '2026-01-11T02:16:21.777736'
 external_urls:
-  spotify: https://open.spotify.com/artist/2tyjfI1efzg3PyHlS6mW1d
+  spotify: 'https://open.spotify.com/artist/2tyjfI1efzg3PyHlS6mW1d'
   wikipedia: ''
 genres:
-- brass band
+  - brass band
 image_path: 03_Resources/source_material/ArtistPortraits/mama_digdowns_brass_band.jpg
 last_updated: '2026-01-11T02:16:21.777738'
 musical_connections:
   collaborators:
-  - Phat Phunktion
-  - Southside Aces
+    - Phat Phunktion
+    - Southside Aces
   influenced:
-  - Regional Midwestern brass and second line–style groups (various, not individually
-    documented)
+    - >-
+      Regional Midwestern brass and second line–style groups (various, not
+      individually documented)
   mentors:
-  - Rebirth Brass Band
-  - The Soul Rebels
-  - Hot 8 Brass Band
+    - Rebirth Brass Band
+    - The Soul Rebels
+    - Hot 8 Brass Band
 network_extracted: true
-origin: Madison, Wisconsin, United States
+origin: 'Madison, Wisconsin, United States'
 primary_source: perplexity
 research_sources:
-- https://mamadigdown.com
-- https://mamadigdown.com/home
-- https://artlitlab.org/artists/mama-digdown%E2%80%99s-brass-band
-- https://theparkwaytheater.com/all-events/mama-digdowns-southside-aces-2024
-- https://www.pabsttheatergroup.com/events/detail/phat-phunktion-2024
+  - 'https://mamadigdown.com'
+  - 'https://mamadigdown.com/home'
+  - 'https://artlitlab.org/artists/mama-digdown%E2%80%99s-brass-band'
+  - 'https://theparkwaytheater.com/all-events/mama-digdowns-southside-aces-2024'
+  - 'https://www.pabsttheatergroup.com/events/detail/phat-phunktion-2024'
 spotify_data:
   followers: 1264
   id: 2tyjfI1efzg3PyHlS6mW1d
   popularity: 6
-  url: https://open.spotify.com/artist/2tyjfI1efzg3PyHlS6mW1d
+  url: 'https://open.spotify.com/artist/2tyjfI1efzg3PyHlS6mW1d'
 status: active
 title: Mama Digdown`s Brass Band
+artist_type: band
 ---
 
 ![](mama_digdowns_brass_band.jpg)

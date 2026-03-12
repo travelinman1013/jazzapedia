@@ -2,54 +2,55 @@
 artist_type: person
 biography_enhanced_at: '2026-01-09T02:14:33.686928'
 birth_date: '1962-10-01'
-birth_place: Buenos Aires
+birth_place: 'Buenos Aires, Argentina'
 enhancement_provider: perplexity
 entry_created: '2026-01-09T02:14:33.686934'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/eca5dd0e-edc7-4658-85f0-762e263b4acd
-  spotify: https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3
-  wikipedia: https://en.wikipedia.org/wiki/Juana_Molina
+  musicbrainz: 'https://musicbrainz.org/artist/eca5dd0e-edc7-4658-85f0-762e263b4acd'
+  spotify: 'https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3'
+  wikipedia: 'https://en.wikipedia.org/wiki/Juana_Molina'
 gender: Female
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/juana_molina.jpg
 instruments:
-- lead vocals
-- background vocals
+  - lead vocals
+  - background vocals
 last_updated: '2026-01-09T02:14:33.686935'
 musical_connections:
   collaborators:
-  - Domino Records team (producers/engineers roster)
-  - Sonic Ranch Studios (Texas engineers and session collaborators)
-  - Antonio Gasalla and ensemble casts
+    - Domino Records team (producers/engineers roster)
+    - Sonic Ranch Studios (Texas engineers and session collaborators)
+    - Antonio Gasalla and ensemble casts
   influenced:
-  - Contemporary experimental folk and electronic singer‑songwriters (e.g., international
-    indie/electronic/folk scene)
+    - >-
+      Contemporary experimental folk and electronic singer‑songwriters (e.g.,
+      international indie/electronic/folk scene)
   mentors:
-  - Horacio Molina
-  - Chunchuna Villafañe (Elva Villafañe)
+    - Horacio Molina
+    - Chunchuna Villafañe (Elva Villafañe)
 musicbrainz_id: eca5dd0e-edc7-4658-85f0-762e263b4acd
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.highroadtouring.com/artists/juana-molina/
-- https://first-avenue.com/performer/juana-molina/
-- https://www.imdb.com/name/nm0596722/bio/
-- https://www.laphil.com/musicdb/artists/3678/juana-molina
-- https://bombyx.live/artists/juana-molina/
-- https://www.redbullmusicacademy.com/lectures/juana-molina-lecture/
-- https://www.thebeliever.net/an-interview-with-juana-molina/
-- https://tapeop.com/interviews/119/juana-molina
-- https://en.wikipedia.org/wiki/Juana_Molina
+  - 'https://www.highroadtouring.com/artists/juana-molina/'
+  - 'https://first-avenue.com/performer/juana-molina/'
+  - 'https://www.imdb.com/name/nm0596722/bio/'
+  - 'https://www.laphil.com/musicdb/artists/3678/juana-molina'
+  - 'https://bombyx.live/artists/juana-molina/'
+  - 'https://www.redbullmusicacademy.com/lectures/juana-molina-lecture/'
+  - 'https://www.thebeliever.net/an-interview-with-juana-molina/'
+  - 'https://tapeop.com/interviews/119/juana-molina'
+  - 'https://en.wikipedia.org/wiki/Juana_Molina'
 spotify_data:
   followers: 138397
   id: 76hliHkgP5eIbVqLT7NmQ3
   popularity: 43
-  url: https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3
+  url: 'https://open.spotify.com/artist/76hliHkgP5eIbVqLT7NmQ3'
 status: active
 tags:
-- ambient pop
-- experimental folk
-- experimental pop
+  - ambient pop
+  - experimental folk
+  - experimental pop
 title: Juana Molina
 ---
 

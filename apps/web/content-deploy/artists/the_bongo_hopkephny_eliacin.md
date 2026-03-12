@@ -3,37 +3,41 @@ biography_enhanced_at: '2025-12-26T01:27:31.944079'
 enhancement_provider: perplexity
 entry_created: '2025-12-26T01:27:31.944095'
 external_urls:
-  spotify: https://open.spotify.com/artist/0vIM6xovGnCeWUNYR42Zsk
+  spotify: 'https://open.spotify.com/artist/0vIM6xovGnCeWUNYR42Zsk'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/the_bongo_hopkephny_eliacin.jpg
 last_updated: '2025-12-26T01:27:31.944097'
 musical_connections:
   collaborators:
-  - Nidia Gongora
-  - Kephny Eliacin
-  - Cindy Pooch
+    - Nidia Gongora
+    - Kephny Eliacin
+    - Cindy Pooch
   influenced: []
   mentors:
-  - Will Holland (Quantic)
-  - Bruno Hovart (Patchworks)
+    - Will Holland (Quantic)
+    - Bruno Hovart (Patchworks)
 network_extracted: true
-origin: Bordeaux, France
+origin: 'Lyon, France, France'
 primary_source: perplexity
 research_sources:
-- https://www.newmodelradio.sk/en/the-bongo-hop-journey-of-experiences/
-- https://www.afropop.org/articles/etienne-sevet-the-many-adventures-of-the-bongo-hop
-- https://www.popmatters.com/bongo-hop-la-pata-coja
-- https://www.francerocks.com/artist/the-bongo-hop/
-- https://panm360.com/en/interviews-panm360/fina-the-bongo-hop-beyond-frontiers-and-musical-genres/
-- https://www.ludwigsound.com/artist/bongo-hop/
+  - 'https://www.newmodelradio.sk/en/the-bongo-hop-journey-of-experiences/'
+  - >-
+    https://www.afropop.org/articles/etienne-sevet-the-many-adventures-of-the-bongo-hop
+  - 'https://www.popmatters.com/bongo-hop-la-pata-coja'
+  - 'https://www.francerocks.com/artist/the-bongo-hop/'
+  - >-
+    https://panm360.com/en/interviews-panm360/fina-the-bongo-hop-beyond-frontiers-and-musical-genres/
+  - 'https://www.ludwigsound.com/artist/bongo-hop/'
 spotify_data:
   followers: 25616
   id: 0vIM6xovGnCeWUNYR42Zsk
   popularity: 43
-  url: https://open.spotify.com/artist/0vIM6xovGnCeWUNYR42Zsk
+  url: 'https://open.spotify.com/artist/0vIM6xovGnCeWUNYR42Zsk'
 status: active
 title: The Bongo Hop/Kephny Eliacin
+birth_place: 'Bordeaux, France, France'
+artist_type: band
 ---
 
 ![](the_bongo_hopkephny_eliacin.jpg)

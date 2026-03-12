@@ -1,17 +1,17 @@
 ---
-title: eli paperboy reed
+title: Eli Paperboy Reed
 wiki_slug: eli-paperboy-reed
 schema_version: 2
 status: active
-birth_place: Brookline, Massachusetts, USA
+birth_place: 'Brookline, Massachusetts, USA'
 genres:
-- retro soul
-- jazz blues
+  - retro soul
+  - jazz blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/eli_paperboy_reed.jpg
   caption: eli paperboy reed
   background: solo_singer
-  origin: Brookline, Massachusetts, USA
+  origin: 'Brookline, Massachusetts, USA'
 audio_profile:
   tempo_avg: 114.6
   energy_avg: 0.691
@@ -27,47 +27,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ed Valauskas
-  - Matt Ross-Spang
-  - Ken Coomer
-  - The Masqueraders
-  - Wesley Jefferson Southern Soul Band
+    - Ed Valauskas
+    - Matt Ross-Spang
+    - Ken Coomer
+    - The Masqueraders
+    - Wesley Jefferson Southern Soul Band
   influenced: []
   mentors:
-  - Mitty Collier
+    - Mitty Collier
 spotify_data:
   followers: 30774
   id: 37D1QyrEFNkcv0f62xo46x
   popularity: 34
-  url: https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x
+  url: 'https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x'
 discography_enriched: true
 top_tracks:
-- Cut Ya Down (My Way Home)
-- Movin' (My Way Home)
-- Your Sins Will Find You Out (My Way Home)
-- Workin' Man Blues (Down Every Road)
-- Today I Started Loving You Again (Down Every Road)
-- 99 Cent Dreams (feat. Big Daddy Kane)
-- Come And Get It (Come And Get It)
-- If There Ever Comes a Day (Good Will Prevail)
-- IDKWYCTD (I Came To Play)
-- Come And Get It (Come And Get It)
+  - Cut Ya Down (My Way Home)
+  - Movin' (My Way Home)
+  - Your Sins Will Find You Out (My Way Home)
+  - Workin' Man Blues (Down Every Road)
+  - Today I Started Loving You Again (Down Every Road)
+  - 99 Cent Dreams (feat. Big Daddy Kane)
+  - Come And Get It (Come And Get It)
+  - If There Ever Comes a Day (Good Will Prevail)
+  - IDKWYCTD (I Came To Play)
+  - Come And Get It (Come And Get It)
 external_urls:
-  spotify: https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x
+  spotify: 'https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/eli_paperboy_reed.jpg
 biography_enhanced_at: '2025-12-12T12:07:55.880993'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.elipaperboyreed.com/about
-- https://www.opry.com/artists/eli-paperboy-reed
-- https://twangville.com/artist-q-and-a/eli-paperboy-reed-on-delivering-flowers-and-tour-dynamics/
-- https://www.jango.com/music/Eli+Paperboy+Reed/_full_bio
+  - 'https://www.elipaperboyreed.com/about'
+  - 'https://www.opry.com/artists/eli-paperboy-reed'
+  - >-
+    https://twangville.com/artist-q-and-a/eli-paperboy-reed-on-delivering-flowers-and-tour-dynamics/
+  - 'https://www.jango.com/music/Eli+Paperboy+Reed/_full_bio'
 network_extracted: true
 entry_created: '2025-12-12T12:07:55.881002'
 last_updated: '2025-12-23T08:16:08.282177'
-
+artist_type: person
 ---
 
 ![](eli_paperboy_reed.jpg)

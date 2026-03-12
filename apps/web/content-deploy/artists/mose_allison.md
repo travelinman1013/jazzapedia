@@ -5,30 +5,30 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1927-11-11'
-birth_place: Tallahatchie County
+birth_place: 'Tippo, Mississippi, United States'
 death_date: '2016-11-15'
 genres:
-- vocal jazz
-- jazz blues
-- jazz
-- cool jazz
+  - vocal jazz
+  - jazz blues
+  - jazz
+  - cool jazz
 instruments:
-- eponymous
-- piano
-- electric piano
-- lead vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1d7f3fe3-3510-4484-93f2-ff2f3a9a9928
-  name: The Al Cohn & Zoot Sims Quintet
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
-  mbid: 932b4ce8-2ada-4949-842a-4a781af576a8
-  name: The Mose Allison Trio
+  - piano
+  - electric piano
+  - lead vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1d7f3fe3-3510-4484-93f2-ff2f3a9a9928
+    name: The Al Cohn & Zoot Sims Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 932b4ce8-2ada-4949-842a-4a781af576a8
+    name: The Mose Allison Trio
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/mose_allison.jpg
   caption: Mose Allison
@@ -51,74 +51,76 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Stan Getz
-  - Al Cohn
-  - Zoot Sims
-  - Gerry Mulligan
-  - Addison Farmer
-  - Nick Stabulas
-  - Van Morrison
-  - Georgie Fame
-  - Ben Sidran
+    - Stan Getz
+    - Al Cohn
+    - Zoot Sims
+    - Gerry Mulligan
+    - Addison Farmer
+    - Nick Stabulas
+    - Van Morrison
+    - Georgie Fame
+    - Ben Sidran
   influenced:
-  - Pete Townshend/The Who
-  - John Mayall
-  - Georgie Fame
-  - Leon Russell
-  - The Clash
-  - Bonnie Raitt
-  - Jimi Hendrix
-  - J.J. Cale
-  - The Yardbirds
-  - The Rolling Stones
-  - Tom Waits
-  - Pixies
+    - Pete Townshend/The Who
+    - John Mayall
+    - Georgie Fame
+    - Leon Russell
+    - The Clash
+    - Bonnie Raitt
+    - Jimi Hendrix
+    - J.J. Cale
+    - The Yardbirds
+    - The Rolling Stones
+    - Tom Waits
+    - Pixies
   mentors:
-  - Nat Cole
-  - Percy Mayfield
-  - Charles Brown
-  - John Lewis
-  - Thelonious Monk
-  - Al Haig
+    - Nat Cole
+    - Percy Mayfield
+    - Charles Brown
+    - John Lewis
+    - Thelonious Monk
+    - Al Haig
 spotify_data:
   followers: 42198
   id: 0sN4enVJwylJKEXZlSbgsm
   popularity: 37
-  url: https://open.spotify.com/artist/0sN4enVJwylJKEXZlSbgsm
+  url: 'https://open.spotify.com/artist/0sN4enVJwylJKEXZlSbgsm'
 discography_enriched: true
 top_tracks:
-- Your Mind Is on Vacation (I Don't Worry About A Thing)
-- Young Man's Blues (Mose Allison Sings)
-- I Don't Worry About a Thing (I Don't Worry About A Thing)
-- The Seventh Son (Mose Allison Sings)
-- I Hadn't Anyone Till You (Mose Allison Sings)
-- Don't Get Around Much Anymore (Mose Allison Sings)
-- Do Nothin' Till You Hear From Me (Mose Allison Sings)
-- I Got A Right To Cry - Remastered (Mose Allison Sings)
-- That's All Right (Mose Allison Sings)
-- Parchman Farm (Local Color)
+  - Your Mind Is on Vacation (I Don't Worry About A Thing)
+  - Young Man's Blues (Mose Allison Sings)
+  - I Don't Worry About a Thing (I Don't Worry About A Thing)
+  - The Seventh Son (Mose Allison Sings)
+  - I Hadn't Anyone Till You (Mose Allison Sings)
+  - Don't Get Around Much Anymore (Mose Allison Sings)
+  - Do Nothin' Till You Hear From Me (Mose Allison Sings)
+  - I Got A Right To Cry - Remastered (Mose Allison Sings)
+  - That's All Right (Mose Allison Sings)
+  - Parchman Farm (Local Color)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/18b76828-4b12-44c1-b8d9-ae82b22557a0
-  spotify: https://open.spotify.com/artist/0sN4enVJwylJKEXZlSbgsm
-  wikipedia: https://en.wikipedia.org/wiki/Mose_Allison
+  musicbrainz: 'https://musicbrainz.org/artist/18b76828-4b12-44c1-b8d9-ae82b22557a0'
+  spotify: 'https://open.spotify.com/artist/0sN4enVJwylJKEXZlSbgsm'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mose_Allison'
 image_path: 03_Resources/source_material/ArtistPortraits/mose_allison.jpg
 biography_enhanced_at: '2025-10-29T16:40:13.524879'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Mose_Allison
-- http://moseallison.com/?page_id=70
-- https://msbluestrail.org/blues-trail-markers/mose-allison
-- https://concord.com/artist/mose-allison/
+  - 'https://en.wikipedia.org/wiki/Mose_Allison'
+  - 'http://moseallison.com/?page_id=70'
+  - 'https://msbluestrail.org/blues-trail-markers/mose-allison'
+  - 'https://concord.com/artist/mose-allison/'
 network_extracted: true
 entry_created: '2025-10-29T16:40:13.524896'
 last_updated: '2025-12-23T08:16:13.308461'
 gender: Male
 musicbrainz_id: 18b76828-4b12-44c1-b8d9-ae82b22557a0
 tags:
-- blues
-- jazz
-- jazz blues
+  - blues
+  - jazz
+  - jazz blues
+is_active: false
+origin: 'New York City, New York, United States'
 ---
 
 ![](mose_allison.jpg)

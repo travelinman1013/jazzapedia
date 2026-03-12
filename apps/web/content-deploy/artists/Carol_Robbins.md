@@ -3,15 +3,15 @@ title: Carol Robbins
 wiki_slug: carol-robbins
 schema_version: 2
 status: active
-birth_place: Chicago, Illinois, USA (birthplace); Los Angeles, California, USA (grew up)
+birth_place: 'Chicago, Illinois, USA (birthplace); Los Angeles, California, USA (grew up)'
 genres:
-- funk rock
-- indie jazz
+  - funk rock
+  - indie jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Carol_Robbins.jpg
   caption: Carol Robbins
   background: solo_singer
-  origin: Chicago, Illinois, USA (birthplace); Los Angeles, California, USA (grew up)
+  origin: 'Chicago, Illinois, USA (birthplace); Los Angeles, California, USA (grew up)'
 audio_profile:
   tempo_avg: 106.8
   energy_avg: 0.185
@@ -27,51 +27,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Billy Childs
-  - Larry Koonse
-  - Bob Sheppard
-  - Darek Oles
-  - Curtis Taylor
-  - Manhattan Transfer, Brian Wilson, Björk, Dianne Reeves, Linda Ronstadt, Nina Simone, Ella Fitzgerald, Frank Sinatra
+    - Billy Childs
+    - Larry Koonse
+    - Bob Sheppard
+    - Darek Oles
+    - Curtis Taylor
+    - >-
+      Manhattan Transfer, Brian Wilson, Björk, Dianne Reeves, Linda Ronstadt,
+      Nina Simone, Ella Fitzgerald, Frank Sinatra
   influenced:
-  - Jazz harp students and clinicians
+    - Jazz harp students and clinicians
   mentors:
-  - Dorothy Ashby
-  - Bill Evans
+    - Dorothy Ashby
+    - Bill Evans
 spotify_data:
   followers: 506
   id: 3ubBLtq6B8zdmMACO9Bkd2
   popularity: 5
-  url: https://open.spotify.com/artist/3ubBLtq6B8zdmMACO9Bkd2
+  url: 'https://open.spotify.com/artist/3ubBLtq6B8zdmMACO9Bkd2'
 discography_enriched: true
 top_tracks:
-- Still Light (Jazz Play)
-- The Meaning Of The Blues (Jazz Play)
-- Caminhos Cruzados (feat. Larry Koonse) (Moraga)
-- O Grande Amor (Jazz Play)
-- Skating In Central Park (Jazz Play)
-- Sollevare (Jazz Play)
-- Moraga (feat. Billy Childs) (Moraga)
-- Three Rings (feat. Larry Koonse) (Moraga)
-- Every Time We Say Goodbye (feat. Darek Oles) (Moraga)
-- Buddy's Bite (Jazz Play)
+  - Still Light (Jazz Play)
+  - The Meaning Of The Blues (Jazz Play)
+  - Caminhos Cruzados (feat. Larry Koonse) (Moraga)
+  - O Grande Amor (Jazz Play)
+  - Skating In Central Park (Jazz Play)
+  - Sollevare (Jazz Play)
+  - Moraga (feat. Billy Childs) (Moraga)
+  - Three Rings (feat. Larry Koonse) (Moraga)
+  - Every Time We Say Goodbye (feat. Darek Oles) (Moraga)
+  - Buddy's Bite (Jazz Play)
 external_urls:
-  spotify: https://open.spotify.com/artist/3ubBLtq6B8zdmMACO9Bkd2
+  spotify: 'https://open.spotify.com/artist/3ubBLtq6B8zdmMACO9Bkd2'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/Carol_Robbins.jpg
 biography_enhanced_at: '2025-10-20T10:14:27.728937'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://carolrobbins.com/about/
-- https://deeprootsmag.org/2017/02/20/on-the-street-where-she-lived/
-- https://allsaints-pas.org/jazz-vespers-february-25-carol-robbins/
-- https://www.wrti.org/music-features/2006-01-21/carol-robbins-harp
-- http://ginalovesjazz.com/carol-robbins-taylor-street/
-- https://harpcolumn.com/blog/10-things-you-dont-know-about-carol-robbins-2/
+  - 'https://carolrobbins.com/about/'
+  - 'https://deeprootsmag.org/2017/02/20/on-the-street-where-she-lived/'
+  - 'https://allsaints-pas.org/jazz-vespers-february-25-carol-robbins/'
+  - 'https://www.wrti.org/music-features/2006-01-21/carol-robbins-harp'
+  - 'http://ginalovesjazz.com/carol-robbins-taylor-street/'
+  - 'https://harpcolumn.com/blog/10-things-you-dont-know-about-carol-robbins-2/'
 network_extracted: true
 entry_created: '2025-10-20T10:14:27.728968'
 last_updated: '2025-12-23T08:16:01.460102'
+artist_type: person
 ---
 
 ![](Carol_Robbins.jpg)

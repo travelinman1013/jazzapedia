@@ -4,9 +4,10 @@ wiki_slug: blackdaylight-cornel-west-wjames-baldwin
 schema_version: 2
 status: active
 genres:
-- spoken word
+  - spoken word
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/blackdaylight_and_cornel_west_wjames_baldwin.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/blackdaylight_and_cornel_west_wjames_baldwin.jpg
   caption: Blackdaylight & Cornel West w/James Baldwin
   background: solo_singer
 audio_profile:
@@ -24,48 +25,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Cornel West
-  - James Baldwin (archival audio)
+    - Cornel West
+    - James Baldwin (archival audio)
   influenced:
-  - Ta-Nehisi Coates
-  - Raoul Peck
+    - Ta-Nehisi Coates
+    - Raoul Peck
   mentors:
-  - Richard Wright
-  - Amos and Jesus (as archetypes)
+    - Richard Wright
+    - Amos and Jesus (as archetypes)
 spotify_data:
   followers: 6211
   id: 1N3PpYBSQAOix0oQrgrUUb
   popularity: 2
-  url: https://open.spotify.com/artist/1N3PpYBSQAOix0oQrgrUUb
+  url: 'https://open.spotify.com/artist/1N3PpYBSQAOix0oQrgrUUb'
 discography_enriched: true
 top_tracks:
-- The Struggle - Part I (The Struggle)
-- The Struggle - Part II (The Struggle)
-- Giovanni's Room "Giovanni and Guillaume" (James Baldwin Reads James Baldwin)
-- Giovanni's Room "Joey" - Part 1 (James Baldwin Reads James Baldwin)
-- Another Country "Rufus' Suicide" (James Baldwin Reads James Baldwin)
-- Another Country "Rev. Foster's Eulogy" (James Baldwin Reads James Baldwin)
-- Giovanni's Room "Joey" - Part 2 (James Baldwin Reads James Baldwin)
-- 'Exodus - Pin Drop Mix (Yoshitoshi: Best of 2020)'
-- Exodus - Pin Drop Mix (Exodus (Pin Drop Mix))
-- Exodus - Pin Drop Dub Mix (Exodus (Pin Drop Mix))
+  - The Struggle - Part I (The Struggle)
+  - The Struggle - Part II (The Struggle)
+  - Giovanni's Room "Giovanni and Guillaume" (James Baldwin Reads James Baldwin)
+  - Giovanni's Room "Joey" - Part 1 (James Baldwin Reads James Baldwin)
+  - Another Country "Rufus' Suicide" (James Baldwin Reads James Baldwin)
+  - Another Country "Rev. Foster's Eulogy" (James Baldwin Reads James Baldwin)
+  - Giovanni's Room "Joey" - Part 2 (James Baldwin Reads James Baldwin)
+  - 'Exodus - Pin Drop Mix (Yoshitoshi: Best of 2020)'
+  - Exodus - Pin Drop Mix (Exodus (Pin Drop Mix))
+  - Exodus - Pin Drop Dub Mix (Exodus (Pin Drop Mix))
 external_urls:
-  spotify: https://open.spotify.com/artist/1N3PpYBSQAOix0oQrgrUUb
-  wikipedia: https://en.wikipedia.org/wiki/James_Baldwin
-image_path: 03_Resources/source_material/ArtistPortraits/blackdaylight_and_cornel_west_wjames_baldwin.jpg
+  spotify: 'https://open.spotify.com/artist/1N3PpYBSQAOix0oQrgrUUb'
+  wikipedia: 'https://en.wikipedia.org/wiki/James_Baldwin'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/blackdaylight_and_cornel_west_wjames_baldwin.jpg
 biography_enhanced_at: '2025-11-04T10:47:08.225660'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/James_Baldwin
-- https://lithub.com/cornel-west-on-why-james-baldwin-matters-more-than-ever/
-- https://www.youtube.com/watch?v=RdHlORnIqT0
-- https://www.youtube.com/watch?v=X2kH6kSY6ps
-- https://www.foxsoundi.com/artist/3941744/cornel-west
+  - 'https://en.wikipedia.org/wiki/James_Baldwin'
+  - 'https://lithub.com/cornel-west-on-why-james-baldwin-matters-more-than-ever/'
+  - 'https://www.youtube.com/watch?v=RdHlORnIqT0'
+  - 'https://www.youtube.com/watch?v=X2kH6kSY6ps'
+  - 'https://www.foxsoundi.com/artist/3941744/cornel-west'
 network_extracted: true
 entry_created: '2025-11-04T10:47:08.225670'
 last_updated: '2025-12-23T08:16:05.696447'
-origin: Harlem, New York, USA (Baldwin); Tulsa, Oklahoma, USA (West); origin of Blackdaylight not documented
+origin: >-
+  Harlem, New York, USA (Baldwin); Tulsa, Oklahoma, USA (West); origin of
+  Blackdaylight not documented
+birth_place: 'Harlem, New York, United States'
+artist_type: person
 ---
 
 ![](blackdaylight_and_cornel_west_wjames_baldwin.jpg)

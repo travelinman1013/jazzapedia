@@ -5,27 +5,27 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1943-12-14'
-birth_place: Kingston
+birth_place: 'Kingston, Jamaica, United States'
 genres:
-- rocksteady
-- ska
-- reggae
+  - rocksteady
+  - ska
+  - reggae
 instruments:
-- eponymous
-- original
-associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 820c3183-3514-40dc-8385-c6328e052ddb
-  name: Brother Dan All Stars
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
-  mbid: fc1a9762-7853-4de6-a166-d0aef8612146
-  name: Dandy & His Group
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 820c3183-3514-40dc-8385-c6328e052ddb
+    name: Brother Dan All Stars
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: fc1a9762-7853-4de6-a166-d0aef8612146
+    name: Dandy & His Group
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/dandy_livingstone.jpg
   caption: Dandy Livingstone
@@ -47,54 +47,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Roy Smith
-  - Tito 'Sugar' Simone (aka Keith Foster)
-  - Rico Rodriguez
-  - Tony Tribe
+    - Roy Smith
+    - Tito 'Sugar' Simone (aka Keith Foster)
+    - Rico Rodriguez
+    - Tony Tribe
   influenced:
-  - The Specials
-  - UB40
-  - British reggae and ska artists
+    - The Specials
+    - UB40
+    - British reggae and ska artists
   mentors:
-  - Lee Gopthal
+    - Lee Gopthal
 spotify_data:
   followers: 28676
   id: 2kV3Q07NlB0i9taIpo2KyF
   popularity: 40
-  url: https://open.spotify.com/artist/2kV3Q07NlB0i9taIpo2KyF
+  url: 'https://open.spotify.com/artist/2kV3Q07NlB0i9taIpo2KyF'
 discography_enriched: true
 top_tracks:
-- Rudy, a Message to You
-- Suzanne Beware of the Devil
-- Think About That
-- Don't Break Your Promise
-- Big City
-- I'm Your Puppet
-- Message to Rudy (The Vault Is Open)
-- Talking Bout Ska (The Vault Is Open)
-- Take a Message Maria
-- Come Back Liza
+  - 'Rudy, a Message to You'
+  - Suzanne Beware of the Devil
+  - Think About That
+  - Don't Break Your Promise
+  - Big City
+  - I'm Your Puppet
+  - Message to Rudy (The Vault Is Open)
+  - Talking Bout Ska (The Vault Is Open)
+  - Take a Message Maria
+  - Come Back Liza
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/0bf4a9b6-773f-49a5-a31d-76639926699c
-  spotify: https://open.spotify.com/artist/2kV3Q07NlB0i9taIpo2KyF
-  wikipedia: https://en.wikipedia.org/wiki/Dandy_Livingstone
+  musicbrainz: 'https://musicbrainz.org/artist/0bf4a9b6-773f-49a5-a31d-76639926699c'
+  spotify: 'https://open.spotify.com/artist/2kV3Q07NlB0i9taIpo2KyF'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dandy_Livingstone'
 image_path: 03_Resources/source_material/ArtistPortraits/dandy_livingstone.jpg
 biography_enhanced_at: '2025-10-23T07:46:15.994394'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://faroutmagazine.co.uk/dandy-livingstone-rocksteady-uk/
-- https://erichatheway.com/dandy-livingstone-the-original-rude-boy-4/
-- https://last.fm/music/Dandy+Livingstone/+wiki
+  - 'https://faroutmagazine.co.uk/dandy-livingstone-rocksteady-uk/'
+  - 'https://erichatheway.com/dandy-livingstone-the-original-rude-boy-4/'
+  - 'https://last.fm/music/Dandy+Livingstone/+wiki'
 network_extracted: true
 entry_created: '2025-10-23T07:46:15.994411'
 last_updated: '2025-12-23T08:16:07.420902'
 gender: Male
 musicbrainz_id: 0bf4a9b6-773f-49a5-a31d-76639926699c
 tags:
-- jamaican ska
-- reggae
-- rocksteady
+  - jamaican ska
+  - reggae
+  - rocksteady
+origin: 'London, England, United Kingdom'
 ---
 
 ![](dandy_livingstone.jpg)

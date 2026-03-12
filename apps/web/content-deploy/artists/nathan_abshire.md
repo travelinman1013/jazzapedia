@@ -3,15 +3,15 @@ title: Nathan Abshire
 wiki_slug: nathan-abshire
 schema_version: 2
 status: active
-birth_place: Near Gueydan, Vermilion Parish, Louisiana, United States
+birth_place: 'Near Gueydan, Vermilion Parish, Louisiana, United States'
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/nathan_abshire.jpg
   caption: Nathan Abshire
   background: solo_singer
-  origin: Near Gueydan, Vermilion Parish, Louisiana, United States
+  origin: 'Near Gueydan, Vermilion Parish, Louisiana, United States'
 audio_profile:
   tempo_avg: 135.8
   energy_avg: 0.52
@@ -27,53 +27,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dewey Balfa
-  - The Balfa Brothers
-  - Leroy “Happy Fats” LeBlanc and the Rayne‑Bo Ramblers
-  - The Pine Grove Boys
+    - Dewey Balfa
+    - The Balfa Brothers
+    - Leroy “Happy Fats” LeBlanc and the Rayne‑Bo Ramblers
+    - The Pine Grove Boys
   influenced:
-  - Dewey Balfa
-  - Later Cajun accordionists and revivalists (e.g., unnamed younger musicians documented in workshops and field recordings)
+    - Dewey Balfa
+    - >-
+      Later Cajun accordionists and revivalists (e.g., unnamed younger musicians
+      documented in workshops and field recordings)
   mentors:
-  - Amedé Ardoin
-  - Lionel Leleux
-  - Lennis Abshire and family (father, mother, uncle)
+    - Amedé Ardoin
+    - Lionel Leleux
+    - 'Lennis Abshire and family (father, mother, uncle)'
 spotify_data:
   followers: 2088
   id: 1sxDvTbZi7VqX2S7s5kuCx
   popularity: 15
-  url: https://open.spotify.com/artist/1sxDvTbZi7VqX2S7s5kuCx
+  url: 'https://open.spotify.com/artist/1sxDvTbZi7VqX2S7s5kuCx'
 discography_enriched: true
 top_tracks:
-- 'Pine Grove Blues (A Cajun Legend: The Best of Nathan Abshire)'
-- 'Valse de Bayou Teche (A Cajun Legend: The Best of Nathan Abshire)'
-- 'Kaplan Waltz (A Cajun Legend: The Best of Nathan Abshire)'
-- 'Choupique Two-Step (A Cajun Legend: The Best of Nathan Abshire)'
-- 'Fee Fee Poncho - Instrumental (A Cajun Legend: The Best of Nathan Abshire)'
-- 'Games People Play (A Cajun Legend: The Best of Nathan Abshire)'
-- 'Jolie Petite Blonde (J''ai Été Au Bal: I Went to the Dance, Vol. 1)'
-- 'Lemonade Song (A Cajun Legend: The Best of Nathan Abshire)'
-- Kaplan Waltz (21 Cajun Classics)
-- 'Pine Grove Blues (Louisiana Cajun Music Special: Bon temps rouler)'
+  - 'Pine Grove Blues (A Cajun Legend: The Best of Nathan Abshire)'
+  - 'Valse de Bayou Teche (A Cajun Legend: The Best of Nathan Abshire)'
+  - 'Kaplan Waltz (A Cajun Legend: The Best of Nathan Abshire)'
+  - 'Choupique Two-Step (A Cajun Legend: The Best of Nathan Abshire)'
+  - 'Fee Fee Poncho - Instrumental (A Cajun Legend: The Best of Nathan Abshire)'
+  - 'Games People Play (A Cajun Legend: The Best of Nathan Abshire)'
+  - 'Jolie Petite Blonde (J''ai Été Au Bal: I Went to the Dance, Vol. 1)'
+  - 'Lemonade Song (A Cajun Legend: The Best of Nathan Abshire)'
+  - Kaplan Waltz (21 Cajun Classics)
+  - 'Pine Grove Blues (Louisiana Cajun Music Special: Bon temps rouler)'
 external_urls:
-  spotify: https://open.spotify.com/artist/1sxDvTbZi7VqX2S7s5kuCx
-  wikipedia: https://en.wikipedia.org/wiki/Nathan_Abshire
+  spotify: 'https://open.spotify.com/artist/1sxDvTbZi7VqX2S7s5kuCx'
+  wikipedia: 'https://en.wikipedia.org/wiki/Nathan_Abshire'
 image_path: 03_Resources/source_material/ArtistPortraits/nathan_abshire.jpg
 biography_enhanced_at: '2025-12-11T04:22:26.459138'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Nathan_Abshire
-- https://64parishes.org/entry/nathan-abshire
-- https://fieldrecorder.org/the-cajuns-balfa-and-abshire/
-- https://www.rocky-52.net/chanteurs/abshire_n.htm
-- https://folkways-media.si.edu/docs/folkways/artwork/ARH00373.pdf
-- https://flattownmusic.com/artist/nathan-abshire/
-- https://mustang1071.com/spotlight-on-louisiana-legend-nathan-abshire/
-- http://earlycajunmusic.blogspot.com/2019/02/point-de-lou-nathan-abshire.html
+  - 'https://en.wikipedia.org/wiki/Nathan_Abshire'
+  - 'https://64parishes.org/entry/nathan-abshire'
+  - 'https://fieldrecorder.org/the-cajuns-balfa-and-abshire/'
+  - 'https://www.rocky-52.net/chanteurs/abshire_n.htm'
+  - 'https://folkways-media.si.edu/docs/folkways/artwork/ARH00373.pdf'
+  - 'https://flattownmusic.com/artist/nathan-abshire/'
+  - 'https://mustang1071.com/spotlight-on-louisiana-legend-nathan-abshire/'
+  - 'http://earlycajunmusic.blogspot.com/2019/02/point-de-lou-nathan-abshire.html'
 network_extracted: true
 entry_created: '2025-12-11T04:22:26.459145'
 last_updated: '2025-12-23T08:16:13.460060'
+origin: 'Vermilion Parish, Louisiana, United States'
+birth_date: '1913-06-27'
+death_date: '1981-05-13'
+artist_type: person
 ---
 
 ![](nathan_abshire.jpg)

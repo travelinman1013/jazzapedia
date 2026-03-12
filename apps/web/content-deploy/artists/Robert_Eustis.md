@@ -5,19 +5,19 @@ schema_version: 2
 status: deceased
 aliases: []
 birth_date: '1753-06-10'
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'Cambridge, Massachusetts, United States'
 death_date: '1825-02-06'
 years_active: 1773-1825
 genres: []
 occupation:
-- politician
-- diplomat
+  - politician
+  - diplomat
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Robert_Eustis.jpg
   caption: Robert Eustis
   background: solo_singer
   born: '1753-06-10'
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
   died: '1825-02-06'
 audio_profile:
   tempo_avg: 119.7
@@ -34,49 +34,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - DeSoto Street Band
+    - DeSoto Street Band
   influenced:
-  - Emerging New Orleans musicians
+    - Emerging New Orleans musicians
   mentors:
-  - James Booker
-  - Jackson Browne
+    - James Booker
+    - Jackson Browne
 related_artists: []
 spotify_data:
   followers: 7
   id: 3k6Wfuw68GsNQ0tBG3aqPV
   popularity: 0
-  url: https://open.spotify.com/artist/3k6Wfuw68GsNQ0tBG3aqPV
+  url: 'https://open.spotify.com/artist/3k6Wfuw68GsNQ0tBG3aqPV'
   verified: false
 discography_enriched: true
 albums_count: 2
 singles_count: 0
 top_tracks:
-- My Town (DeSoto Street Band)
-- Counting Trains (DeSoto Street Band)
-- Hesitation Blues (DeSoto Street Band)
-- Damin' Gamblin' (DeSoto Street Band)
-- TV News Junkie (DeSoto Street Band)
-- Easy Moments (DeSoto Street Band)
-- Now We Know (aka Katrina) (DeSoto Street Band)
-- Sweeper (DeSoto Street Band)
-- Everywhere I Go (DeSoto Street Band)
-- Sandy Candy (DeSoto Street Band)
+  - My Town (DeSoto Street Band)
+  - Counting Trains (DeSoto Street Band)
+  - Hesitation Blues (DeSoto Street Band)
+  - Damin' Gamblin' (DeSoto Street Band)
+  - TV News Junkie (DeSoto Street Band)
+  - Easy Moments (DeSoto Street Band)
+  - Now We Know (aka Katrina) (DeSoto Street Band)
+  - Sweeper (DeSoto Street Band)
+  - Everywhere I Go (DeSoto Street Band)
+  - Sandy Candy (DeSoto Street Band)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/3k6Wfuw68GsNQ0tBG3aqPV
-  wikipedia: https://en.wikipedia.org/wiki/William_Eustis
+  spotify: 'https://open.spotify.com/artist/3k6Wfuw68GsNQ0tBG3aqPV'
+  wikipedia: 'https://en.wikipedia.org/wiki/William_Eustis'
 image_path: 03_Resources/source_material/ArtistPortraits/Robert_Eustis.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:16:27.430177'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Louisiana Music Factory (robert-eustis-the-tipping-point-cd)
-- Spotify artist context
+  - Louisiana Music Factory (robert-eustis-the-tipping-point-cd)
+  - Spotify artist context
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 12:57:44.242593
+entry_created: 2025-09-18T12:57:44.242Z
 last_updated: '2025-12-23T08:16:03.701463'
+is_active: false
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](Robert_Eustis.jpg)

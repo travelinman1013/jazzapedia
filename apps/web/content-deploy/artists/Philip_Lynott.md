@@ -3,13 +3,13 @@ title: Philip Lynott
 wiki_slug: philip-lynott
 schema_version: 2
 status: active
-birth_place: West Bromwich, West Midlands, England, UK
+birth_place: 'West Bromwich, West Midlands, England, UK'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Philip_Lynott.jpg
   caption: Philip Lynott
   background: solo_singer
-  origin: West Bromwich, West Midlands, England, UK
+  origin: 'West Bromwich, West Midlands, England, UK'
 audio_profile:
   tempo_avg: 137.6
   energy_avg: 0.67
@@ -17,7 +17,7 @@ audio_profile:
   danceability_avg: 0.54
   acousticness_avg: 0.13
   instrumentalness_avg: 0.08
-  loudness_avg: -11.0
+  loudness_avg: -11
   speechiness_avg: 0.057
   liveness_avg: 0.268
   track_count: 50
@@ -25,49 +25,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Brian Downey
-  - Eric Bell
-  - Gary Moore
-  - Scott Gorham & Brian Robertson
-  - Steve Jones & Paul Cook
+    - Brian Downey
+    - Eric Bell
+    - Gary Moore
+    - Scott Gorham & Brian Robertson
+    - Steve Jones & Paul Cook
   influenced:
-  - Bob Geldof
-  - U2
-  - Def Leppard
+    - Bob Geldof
+    - U2
+    - Def Leppard
   mentors:
-  - Brush Shiels
+    - Brush Shiels
 spotify_data:
   followers: 87232
   id: 7yVrX2XZQ8eaRiD1ykz0H7
   popularity: 44
-  url: https://open.spotify.com/artist/7yVrX2XZQ8eaRiD1ykz0H7
+  url: 'https://open.spotify.com/artist/7yVrX2XZQ8eaRiD1ykz0H7'
 discography_enriched: true
 top_tracks:
-- Parisienne Walkways (Back On The Streets (Expanded Edition))
-- Out In The Fields (Run For Cover)
-- Old Town (The Philip Lynott Album)
-- King's Call (Solo In Soho)
-- The Spirit of Man (Jeff Wayne's Musical Version of The War of The Worlds)
-- Out In The Fields - Remastered 2002
-- Dear Miss Lonely Hearts (Solo In Soho)
-- Spanish Guitar - Featuring Phil Lynott of Thin Lizzy (Back On The Streets (Expanded Edition))
-- Yellow Pearl - First 7" Remix (The Philip Lynott Album)
-- Old Town (Philip Lynott Album)
+  - Parisienne Walkways (Back On The Streets (Expanded Edition))
+  - Out In The Fields (Run For Cover)
+  - Old Town (The Philip Lynott Album)
+  - King's Call (Solo In Soho)
+  - The Spirit of Man (Jeff Wayne's Musical Version of The War of The Worlds)
+  - Out In The Fields - Remastered 2002
+  - Dear Miss Lonely Hearts (Solo In Soho)
+  - >-
+    Spanish Guitar - Featuring Phil Lynott of Thin Lizzy (Back On The Streets
+    (Expanded Edition))
+  - Yellow Pearl - First 7" Remix (The Philip Lynott Album)
+  - Old Town (Philip Lynott Album)
 external_urls:
-  spotify: https://open.spotify.com/artist/7yVrX2XZQ8eaRiD1ykz0H7
-  wikipedia: https://en.wikipedia.org/wiki/Phil_Lynott
+  spotify: 'https://open.spotify.com/artist/7yVrX2XZQ8eaRiD1ykz0H7'
+  wikipedia: 'https://en.wikipedia.org/wiki/Phil_Lynott'
 image_path: 03_Resources/source_material/ArtistPortraits/Philip_Lynott.jpg
 biography_enhanced_at: '2025-10-19T12:38:09.505002'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.thinlizzyofficial.com/band-biographies-phil-lynott/
-- https://www.angelfire.com/nj/thinlizzy/bio.html
-- https://www.popmatters.com/cowboy-song-the-authorized-biography-of-thin-lizzys-philip-lynott-by-graeme-2495386767.html
-- https://en.wikipedia.org/wiki/Phil_Lynott
+  - 'https://www.thinlizzyofficial.com/band-biographies-phil-lynott/'
+  - 'https://www.angelfire.com/nj/thinlizzy/bio.html'
+  - >-
+    https://www.popmatters.com/cowboy-song-the-authorized-biography-of-thin-lizzys-philip-lynott-by-graeme-2495386767.html
+  - 'https://en.wikipedia.org/wiki/Phil_Lynott'
 network_extracted: true
 entry_created: '2025-10-19T12:38:09.505021'
 last_updated: '2025-12-23T08:16:03.594521'
+birth_date: '1949-08-20'
+artist_type: person
 ---
 
 ![](Philip_Lynott.jpg)

@@ -1,5 +1,5 @@
 ---
-title: memphis minnie
+title: Memphis Minnie
 wiki_slug: memphis-minnie
 schema_version: 2
 artist_type: person
@@ -8,29 +8,29 @@ birth_date: '1897-06-03'
 birth_place: Algiers
 death_date: '1973-08-06'
 genres:
-- blues
-- classic blues
-- country blues
-- ragtime
+  - blues
+  - classic blues
+  - country blues
+  - ragtime
 instruments:
-- eponymous
-- original
-- guitar
-- lead vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: bcb58e28-7f1f-4bdf-b4c4-2f8145cedbd7
-  name: Memphis Minnie and Her Jug Band
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
-  mbid: 335339c3-471b-4878-87f9-c960497a4ee2
-  name: Memphis Minnie and Her Combo
+  - guitar
+  - lead vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: bcb58e28-7f1f-4bdf-b4c4-2f8145cedbd7
+    name: Memphis Minnie and Her Jug Band
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 335339c3-471b-4878-87f9-c960497a4ee2
+    name: Memphis Minnie and Her Combo
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/memphis_minnie.jpg
   caption: memphis minnie
@@ -53,57 +53,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kansas Joe McCoy
-  - Little Son Joe (Ernest Lawlars)
+    - Kansas Joe McCoy
+    - Little Son Joe (Ernest Lawlars)
   influenced:
-  - Bonnie Raitt
-  - Led Zeppelin
+    - Bonnie Raitt
+    - Led Zeppelin
   mentors:
-  - Beale Street musicians
+    - Beale Street musicians
 spotify_data:
   followers: 47696
   id: 2WGyRLosdDgGJTLijIPpNC
   popularity: 25
-  url: https://open.spotify.com/artist/2WGyRLosdDgGJTLijIPpNC
+  url: 'https://open.spotify.com/artist/2WGyRLosdDgGJTLijIPpNC'
 discography_enriched: true
 top_tracks:
-- When The Levee Breaks (Queen Of The Blues)
-- If You See My Rooster (Please Run Him Home) (Hoodoo Lady (1933-1937))
-- When the Levee Breaks (I'm a Bad Luck Woman)
-- Kissing in the Dark
-- Me And My Chauffeur Blues (Memphis Minnie Vol. 5 (1940-1941))
-- Kissing in the Dark (I'm a Bad Luck Woman)
-- Hoodoo Lady (Hoodoo Lady (1933-1937))
-- When the Levee Breaks - Alternate Take (I'm a Bad Luck Woman)
-- Keep On Eatin' (Hoodoo Lady (1933-1937))
-- When the Levee Breaks
+  - When The Levee Breaks (Queen Of The Blues)
+  - If You See My Rooster (Please Run Him Home) (Hoodoo Lady (1933-1937))
+  - When the Levee Breaks (I'm a Bad Luck Woman)
+  - Kissing in the Dark
+  - Me And My Chauffeur Blues (Memphis Minnie Vol. 5 (1940-1941))
+  - Kissing in the Dark (I'm a Bad Luck Woman)
+  - Hoodoo Lady (Hoodoo Lady (1933-1937))
+  - When the Levee Breaks - Alternate Take (I'm a Bad Luck Woman)
+  - Keep On Eatin' (Hoodoo Lady (1933-1937))
+  - When the Levee Breaks
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ff748426-8873-4725-bdc7-c2b18b510d41
-  spotify: https://open.spotify.com/artist/2WGyRLosdDgGJTLijIPpNC
-  wikipedia: https://en.wikipedia.org/wiki/Memphis_Minnie
+  musicbrainz: 'https://musicbrainz.org/artist/ff748426-8873-4725-bdc7-c2b18b510d41'
+  spotify: 'https://open.spotify.com/artist/2WGyRLosdDgGJTLijIPpNC'
+  wikipedia: 'https://en.wikipedia.org/wiki/Memphis_Minnie'
 image_path: 03_Resources/source_material/ArtistPortraits/memphis_minnie.jpg
 biography_enhanced_at: '2025-11-01T15:27:30.640162'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Memphis_Minnie
-- https://www.elderly.com/pages/memphis-minnie-celebrating-black-history-month
-- https://folkalley.com/black-history-month-spotlight-on-memphis-minnie-2/
-- https://www.thecurrent.org/feature/2024/06/07/classic-americana-memphis-minnie
-- https://www.kunc.org/music/2013-02-09/nine-oclock-blues-memphis-minnie
-- https://memphismusichalloffame.com/inductee/memphisminnie/
-- https://64parishes.org/entry/memphis-minnie
-- https://memphisminnie.com
-- https://www.highgroundnews.com/features/Black_History_Month_Memphis_History_Series_Memphis_Minnie.aspx
+  - 'https://en.wikipedia.org/wiki/Memphis_Minnie'
+  - 'https://www.elderly.com/pages/memphis-minnie-celebrating-black-history-month'
+  - 'https://folkalley.com/black-history-month-spotlight-on-memphis-minnie-2/'
+  - >-
+    https://www.thecurrent.org/feature/2024/06/07/classic-americana-memphis-minnie
+  - 'https://www.kunc.org/music/2013-02-09/nine-oclock-blues-memphis-minnie'
+  - 'https://memphismusichalloffame.com/inductee/memphisminnie/'
+  - 'https://64parishes.org/entry/memphis-minnie'
+  - 'https://memphisminnie.com'
+  - >-
+    https://www.highgroundnews.com/features/Black_History_Month_Memphis_History_Series_Memphis_Minnie.aspx
 network_extracted: true
 entry_created: '2025-11-01T15:27:30.640169'
 last_updated: '2025-12-23T08:16:12.969686'
 gender: Female
 musicbrainz_id: ff748426-8873-4725-bdc7-c2b18b510d41
 tags:
-- acoustic chicago blues
-- blues
-- country blues
+  - acoustic chicago blues
+  - blues
+  - country blues
+is_active: false
+origin: 'Memphis, Tennessee, United States'
 ---
 
 ![](memphis_minnie.jpg)

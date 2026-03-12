@@ -1,73 +1,77 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-08T01:36:00.214194'
 birth_date: '1917'
 enhancement_provider: perplexity
 entry_created: '2026-01-08T01:36:00.214201'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/128a89db-dbf2-412f-9b55-43426ddbfc31
-  spotify: https://open.spotify.com/artist/4XeaAhysnUsZbQyKk2CDWm
-  wikipedia: https://en.wikipedia.org/wiki/Original_Memphis_Five
+  musicbrainz: 'https://musicbrainz.org/artist/128a89db-dbf2-412f-9b55-43426ddbfc31'
+  spotify: 'https://open.spotify.com/artist/4XeaAhysnUsZbQyKk2CDWm'
+  wikipedia: 'https://en.wikipedia.org/wiki/Original_Memphis_Five'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/original_memphis_five.jpg
 instruments:
-- banjo
-- trombone
+  - banjo
+  - trombone
 last_updated: '2026-01-08T01:36:00.214201'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - banjo
-  mbid: 9e2ad6a3-68bf-4be8-a2e1-54ffa043c825
-  name: Ray Kitchingman
-- begin: ''
-  end: ''
-  instruments:
-  - trombone
-  mbid: 84a1f310-ec99-4ec4-b855-d5b4bebeb59f
-  name: Charles Panelli
+  - begin: ''
+    end: ''
+    instruments:
+      - banjo
+    mbid: 9e2ad6a3-68bf-4be8-a2e1-54ffa043c825
+    name: Ray Kitchingman
+  - begin: ''
+    end: ''
+    instruments:
+      - trombone
+    mbid: 84a1f310-ec99-4ec4-b855-d5b4bebeb59f
+    name: Charles Panelli
 musical_connections:
   collaborators:
-  - Phil Napoleon
-  - Frank Signorelli
-  - Miff Mole
-  - Jimmy Lytell
-  - Jack Roth
-  - Red Nichols
-  - Tommy Dorsey
-  - Jimmy Dorsey
+    - Phil Napoleon
+    - Frank Signorelli
+    - Miff Mole
+    - Jimmy Lytell
+    - Jack Roth
+    - Red Nichols
+    - Tommy Dorsey
+    - Jimmy Dorsey
   influenced:
-  - Red Nichols
-  - Tommy and Jimmy Dorsey
-  - Later traditional‑jazz and early‑jazz revival bands
+    - Red Nichols
+    - Tommy and Jimmy Dorsey
+    - Later traditional‑jazz and early‑jazz revival bands
   mentors:
-  - W.C. Handy
-  - Original Dixieland Jazz Band (Nick La Rocca)
+    - W.C. Handy
+    - Original Dixieland Jazz Band (Nick La Rocca)
 musicbrainz_id: 128a89db-dbf2-412f-9b55-43426ddbfc31
 network_extracted: true
-origin: New York City, New York, United States
+origin: 'New York City, New York, United States'
 primary_source: perplexity
 research_sources:
-- https://syncopatedtimes.com/original-memphis-five/
-- https://adp.library.ucsb.edu/index.php/mastertalent/detail/100145/Original_Memphis_Five
-- https://adp.library.ucsb.edu/index.php/mastertalent/detail/334996/Original_Memphis_Five_The
-- https://yestercenturypop.com/tag/original-memphis-five/
-- https://www.thisbevosjazz.com/jazz-archives/my-honeys-loving-arms-the-original-memphis-five
-- https://folkways.si.edu/the-original-memphis-five/jazz-ragtime/music/album/smithsonian
-- https://lostsongs.home.blog/2019/03/16/original-memphis-five-part1/
-- https://www.vjm.biz/5-original-memphis-five.pdf
-- https://en.wikipedia.org/wiki/Original_Memphis_Five
-- https://www.organissimo.org/forum/topic/68796-the-original-memphis-five/
+  - 'https://syncopatedtimes.com/original-memphis-five/'
+  - >-
+    https://adp.library.ucsb.edu/index.php/mastertalent/detail/100145/Original_Memphis_Five
+  - >-
+    https://adp.library.ucsb.edu/index.php/mastertalent/detail/334996/Original_Memphis_Five_The
+  - 'https://yestercenturypop.com/tag/original-memphis-five/'
+  - >-
+    https://www.thisbevosjazz.com/jazz-archives/my-honeys-loving-arms-the-original-memphis-five
+  - >-
+    https://folkways.si.edu/the-original-memphis-five/jazz-ragtime/music/album/smithsonian
+  - 'https://lostsongs.home.blog/2019/03/16/original-memphis-five-part1/'
+  - 'https://www.vjm.biz/5-original-memphis-five.pdf'
+  - 'https://en.wikipedia.org/wiki/Original_Memphis_Five'
+  - 'https://www.organissimo.org/forum/topic/68796-the-original-memphis-five/'
 spotify_data:
   followers: 0
   id: 4XeaAhysnUsZbQyKk2CDWm
   popularity: 0
-  url: https://open.spotify.com/artist/4XeaAhysnUsZbQyKk2CDWm
+  url: 'https://open.spotify.com/artist/4XeaAhysnUsZbQyKk2CDWm'
 status: active
 tags:
-- jazz
-title: ORIGINAL MEMPHIS FIVE
+  - jazz
+title: Original Memphis Five
 ---
 
 ![](original_memphis_five.jpg)

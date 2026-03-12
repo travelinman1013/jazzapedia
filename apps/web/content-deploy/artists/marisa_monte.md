@@ -1,67 +1,68 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a27207ee-a79e-4887-aa65-e644d2702f5e
-  name: Tribalistas
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a27207ee-a79e-4887-aa65-e644d2702f5e
+    name: Tribalistas
 biography_enhanced_at: '2026-01-11T02:20:42.354557'
 birth_date: '1967-07-01'
-birth_place: Rio de Janeiro
+birth_place: 'Rio de Janeiro, Brazil'
 enhancement_provider: perplexity
 entry_created: '2026-01-11T02:20:42.354565'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f81f19b9-c76e-43ac-8656-bb56071785fb
-  spotify: https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH
-  wikipedia: https://en.wikipedia.org/wiki/Marisa_Monte
+  musicbrainz: 'https://musicbrainz.org/artist/f81f19b9-c76e-43ac-8656-bb56071785fb'
+  spotify: 'https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH'
+  wikipedia: 'https://en.wikipedia.org/wiki/Marisa_Monte'
 gender: Female
 genres:
-- mpb
-- new mpb
+  - mpb
+  - new mpb
 image_path: 03_Resources/source_material/ArtistPortraits/marisa_monte.jpg
 instruments:
-- lead vocals
-- classical guitar
-- background vocals
+  - lead vocals
+  - classical guitar
+  - background vocals
 last_updated: '2026-01-11T02:20:42.354567'
 musical_connections:
   collaborators:
-  - Arnaldo Antunes
-  - Carlinhos Brown
-  - Arto Lindsay
-  - Nando Reis
-  - Ryuichi Sakamoto
-  - Seu Jorge
-  - Adriana Calcanhotto
+    - Arnaldo Antunes
+    - Carlinhos Brown
+    - Arto Lindsay
+    - Nando Reis
+    - Ryuichi Sakamoto
+    - Seu Jorge
+    - Adriana Calcanhotto
   influenced:
-  - Younger generation of MPB and "nova MPB" artists (e.g., contemporary Brazilian
-    singer‑songwriters active from the 2000s onward)
+    - >-
+      Younger generation of MPB and "nova MPB" artists (e.g., contemporary
+      Brazilian singer‑songwriters active from the 2000s onward)
   mentors:
-  - Nelson Motta
-  - Portela samba school musicians and community
+    - Nelson Motta
+    - Portela samba school musicians and community
 musicbrainz_id: f81f19b9-c76e-43ac-8656-bb56071785fb
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://brazilbeatblog.wordpress.com/2020/06/26/marisa-monte/
-- https://rioandlearn.com/marisa-monte/
-- https://www.bluenote.com/artist/marisa-monte/
-- https://www.jango.com/music/Marisa+Monte/_full_bio
-- https://worldmusiccentral.org/artist-profiles-marisa-monte/
-- https://elijahwald.com/latar97.html
-- https://www.popmatters.com/interview-marisa-monte-portas-2022
-- https://en.wikipedia.org/wiki/Marisa_Monte
+  - 'https://brazilbeatblog.wordpress.com/2020/06/26/marisa-monte/'
+  - 'https://rioandlearn.com/marisa-monte/'
+  - 'https://www.bluenote.com/artist/marisa-monte/'
+  - 'https://www.jango.com/music/Marisa+Monte/_full_bio'
+  - 'https://worldmusiccentral.org/artist-profiles-marisa-monte/'
+  - 'https://elijahwald.com/latar97.html'
+  - 'https://www.popmatters.com/interview-marisa-monte-portas-2022'
+  - 'https://en.wikipedia.org/wiki/Marisa_Monte'
 spotify_data:
   followers: 2756688
   id: 0rSTXALHu0EKAawPLBdODH
   popularity: 69
-  url: https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH
+  url: 'https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH'
 status: active
 tags:
-- mpb
-- pop
-- singer-songwriter
+  - mpb
+  - pop
+  - singer-songwriter
 title: Marisa Monte
 ---
 

@@ -1,56 +1,58 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-18T07:46:01.052249'
 disambiguation: New Orleans Psychedelic Rock Band
 enhancement_provider: perplexity
 entry_created: '2026-01-18T07:46:01.052259'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/16cca9ca-cc87-4d4f-91c5-968066ac982b
-  spotify: https://open.spotify.com/artist/5QDocPLCQEA3pVE9HVeDfP
+  musicbrainz: 'https://musicbrainz.org/artist/16cca9ca-cc87-4d4f-91c5-968066ac982b'
+  spotify: 'https://open.spotify.com/artist/5QDocPLCQEA3pVE9HVeDfP'
   wikipedia: null
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/bakeys_brew.jpg
 last_updated: '2026-01-18T07:46:01.052260'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1149f93f-dfb9-4823-b7d2-99827d22a42b
-  name: Bryan Evans
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7dd26de6-d17c-4042-a6b5-9ee624b53692
-  name: Dennis Aoun
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e08dd965-cc37-4696-9024-c791ad30f46c
-  name: Jacob Kelston
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ff42bbdf-ffee-4f3a-98d6-9d0085c814e7
-  name: William Brown
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1149f93f-dfb9-4823-b7d2-99827d22a42b
+    name: Bryan Evans
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7dd26de6-d17c-4042-a6b5-9ee624b53692
+    name: Dennis Aoun
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e08dd965-cc37-4696-9024-c791ad30f46c
+    name: Jacob Kelston
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ff42bbdf-ffee-4f3a-98d6-9d0085c814e7
+    name: William Brown
 musical_connections:
   collaborators:
-  - George Porter Jr.
+    - George Porter Jr.
   influenced: []
   mentors: []
 musicbrainz_id: 16cca9ca-cc87-4d4f-91c5-968066ac982b
 network_extracted: true
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://bakeysbrew.bandcamp.com
-- https://www.bandsintown.com/e/107796605-bakey's-brew-at-cafe-istanbul?came_from=253
-- https://www.thcfnola.org/projects/
-- https://creators.spotify.com/pod/profile/third-coast-podcast/episodes/Bakeys-Brew-Interview-e18acph
+  - 'https://bakeysbrew.bandcamp.com'
+  - >-
+    https://www.bandsintown.com/e/107796605-bakey's-brew-at-cafe-istanbul?came_from=253
+  - 'https://www.thcfnola.org/projects/'
+  - >-
+    https://creators.spotify.com/pod/profile/third-coast-podcast/episodes/Bakeys-Brew-Interview-e18acph
 spotify_data:
   followers: 165
   id: 5QDocPLCQEA3pVE9HVeDfP
   popularity: 1
-  url: https://open.spotify.com/artist/5QDocPLCQEA3pVE9HVeDfP
+  url: 'https://open.spotify.com/artist/5QDocPLCQEA3pVE9HVeDfP'
 status: active
 title: Bakey's Brew
 ---

@@ -1,23 +1,27 @@
 ---
-title: JIMMY WOODS
+title: Jimmy Woods
 wiki_slug: jimmy-woods
 schema_version: 2
 status: active
-birth_place: Nashville, Tennessee, United States (origin); Connecticut, United States (birthplace)
+birth_place: >-
+  Nashville, Tennessee, United States (origin); Connecticut, United States
+  (birthplace)
 genres:
-- indie folk
+  - indie folk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jimmy_woods.jpg
   caption: JIMMY WOODS
   background: solo_singer
-  origin: Nashville, Tennessee, United States (origin); Connecticut, United States (birthplace)
+  origin: >-
+    Nashville, Tennessee, United States (origin); Connecticut, United States
+    (birthplace)
 audio_profile:
   tempo_avg: 100.1
   energy_avg: 0.417
   valence_avg: 0.277
   danceability_avg: 0.602
   acousticness_avg: 0.318
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -11.7
   speechiness_avg: 0.047
   liveness_avg: 0.22
@@ -26,46 +30,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Conner Smith
-  - Nashville session musicians
+    - Conner Smith
+    - Nashville session musicians
   influenced: []
   mentors:
-  - Chris Stapleton
-  - Marcus King
-  - Amos Lee
-  - Ray LaMontagne
+    - Chris Stapleton
+    - Marcus King
+    - Amos Lee
+    - Ray LaMontagne
 spotify_data:
   followers: 15
   id: 5mMwFsWyw4xwgnZWJ2Mdg8
   popularity: 5
-  url: https://open.spotify.com/artist/5mMwFsWyw4xwgnZWJ2Mdg8
+  url: 'https://open.spotify.com/artist/5mMwFsWyw4xwgnZWJ2Mdg8'
 discography_enriched: true
 top_tracks:
-- Somebody's Someday (Imposter)
-- Imposter (Imposter)
-- Hold Me Up (Imposter)
-- Fumes (Imposter)
-- Where We Started (Imposter)
-- Too Soon to Know (Easy Love)
-- I Think I Always Did (Easy Love)
-- Everything About Her (Easy Love)
-- You Feel Like Home (Easy Love)
-- Trying To Be Better (Easy Love)
+  - Somebody's Someday (Imposter)
+  - Imposter (Imposter)
+  - Hold Me Up (Imposter)
+  - Fumes (Imposter)
+  - Where We Started (Imposter)
+  - Too Soon to Know (Easy Love)
+  - I Think I Always Did (Easy Love)
+  - Everything About Her (Easy Love)
+  - You Feel Like Home (Easy Love)
+  - Trying To Be Better (Easy Love)
 external_urls:
-  spotify: https://open.spotify.com/artist/5mMwFsWyw4xwgnZWJ2Mdg8
+  spotify: 'https://open.spotify.com/artist/5mMwFsWyw4xwgnZWJ2Mdg8'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/jimmy_woods.jpg
 biography_enhanced_at: '2025-10-28T09:16:13.844286'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://olered.com/musicians/jimmy-woods/
-- https://www.viberate.com/artist/jimmy-woods/
-- https://www.jimmywoodsmusic.com
-- https://visitfranklin.com/events/the-franklin-theatre-songwriters-series-presents-jimmy-woods-jon-stone-and-greylan-james/
+  - 'https://olered.com/musicians/jimmy-woods/'
+  - 'https://www.viberate.com/artist/jimmy-woods/'
+  - 'https://www.jimmywoodsmusic.com'
+  - >-
+    https://visitfranklin.com/events/the-franklin-theatre-songwriters-series-presents-jimmy-woods-jon-stone-and-greylan-james/
 network_extracted: true
 entry_created: '2025-10-28T09:16:13.844296'
 last_updated: '2025-12-23T08:16:10.527912'
+origin: 'Nashville, Tennessee, United States'
+artist_type: person
 ---
 
 ![](jimmy_woods.jpg)

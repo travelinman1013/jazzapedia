@@ -1,5 +1,5 @@
 ---
-title: carlos del junco
+title: Carlos del Junco
 wiki_slug: carlos-del-junco
 schema_version: 2
 artist_type: person
@@ -7,18 +7,18 @@ status: active
 birth_date: '1958-05-17'
 birth_place: La Habana
 genres:
-- blues
+  - blues
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5635b140-6107-4e86-8f4d-38ff7ca31108
-  name: Four80East
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8fdfbdcd-bbe5-4162-bf11-ff4d9cd7c5ce
-  name: The Blues Mongrels
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5635b140-6107-4e86-8f4d-38ff7ca31108
+    name: Four80East
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8fdfbdcd-bbe5-4162-bf11-ff4d9cd7c5ce
+    name: The Blues Mongrels
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/carlos_del_junco.jpg
   caption: carlos del junco
@@ -40,50 +40,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Blues Mongrels
+    - The Blues Mongrels
   influenced: []
   mentors:
-  - Howard Levy
+    - Howard Levy
 spotify_data:
   followers: 3805
   id: 0hYHKAmY13ZNaFjJ4NICf7
   popularity: 19
-  url: https://open.spotify.com/artist/0hYHKAmY13ZNaFjJ4NICf7
+  url: 'https://open.spotify.com/artist/0hYHKAmY13ZNaFjJ4NICf7'
 discography_enriched: true
 top_tracks:
-- Blue Drag (Blue Drag)
-- Diddle It (The Future of the Blues Vol. 3)
-- Heaven's Where You'll Dwell (Big Boy)
-- Little Wing (Hang On)
-- Blues del Junco (Mariano Massolo)
-- Beale St. Toodle-Oo (Blues Etc...)
-- Mess Around (Big Boy)
-- Roll Away the Stone (Blues Etc...)
-- Can't Lose (Blues Etc...)
-- The Blues Don't Like Nobody (Blues Etc...)
+  - Blue Drag (Blue Drag)
+  - Diddle It (The Future of the Blues Vol. 3)
+  - Heaven's Where You'll Dwell (Big Boy)
+  - Little Wing (Hang On)
+  - Blues del Junco (Mariano Massolo)
+  - Beale St. Toodle-Oo (Blues Etc...)
+  - Mess Around (Big Boy)
+  - Roll Away the Stone (Blues Etc...)
+  - Can't Lose (Blues Etc...)
+  - The Blues Don't Like Nobody (Blues Etc...)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8bd62d44-adb0-4db0-abad-f4ef123a180c
-  spotify: https://open.spotify.com/artist/0hYHKAmY13ZNaFjJ4NICf7
+  musicbrainz: 'https://musicbrainz.org/artist/8bd62d44-adb0-4db0-abad-f4ef123a180c'
+  spotify: 'https://open.spotify.com/artist/0hYHKAmY13ZNaFjJ4NICf7'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/carlos_del_junco.jpg
 biography_enhanced_at: '2025-11-29T07:04:53.766459'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- bluesfestivalguide.com
-- roguefolk.bc.ca
-- bluesblastmagazine.com
-- vancouverislandfreedaily.com
-- livevictoria.com
-- mintmusic.ca
-- carlosdeljunco.com
+  - bluesfestivalguide.com
+  - roguefolk.bc.ca
+  - bluesblastmagazine.com
+  - vancouverislandfreedaily.com
+  - livevictoria.com
+  - mintmusic.ca
+  - carlosdeljunco.com
 network_extracted: true
 entry_created: '2025-11-29T07:04:53.766475'
 last_updated: '2025-12-23T08:16:06.446846'
 gender: Male
 musicbrainz_id: 8bd62d44-adb0-4db0-abad-f4ef123a180c
 tags:
-- jazz
+  - jazz
 ---
 
 ![](carlos_del_junco.jpg)

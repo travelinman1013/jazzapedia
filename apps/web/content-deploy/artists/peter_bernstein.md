@@ -3,14 +3,14 @@ title: Peter Bernstein
 wiki_slug: peter-bernstein
 schema_version: 2
 status: active
-birth_place: New York City, New York, United States
+birth_place: 'New York City, New York, United States'
 genres:
-- jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/peter_bernstein.jpg
   caption: Peter Bernstein
   background: solo_singer
-  origin: New York City, New York, United States
+  origin: 'New York City, New York, United States'
 audio_profile:
   tempo_avg: 116.2
   energy_avg: 0.316
@@ -26,52 +26,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lou Donaldson
-  - Larry Goldings & Bill Stewart
-  - Joshua Redman
-  - Diana Krall
-  - Jimmy Cobb
-  - Melvin Rhyne
+    - Lou Donaldson
+    - Larry Goldings & Bill Stewart
+    - Joshua Redman
+    - Diana Krall
+    - Jimmy Cobb
+    - Melvin Rhyne
   influenced:
-  - NYU and New School students
+    - NYU and New School students
   mentors:
-  - Jim Hall
+    - Jim Hall
 spotify_data:
   followers: 17080
   id: 5vCIoZWrnWUkjCKmtaADQc
   popularity: 32
-  url: https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc
+  url: 'https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc'
 discography_enriched: true
 top_tracks:
-- Wild Is Love (Wild Is Love)
-- Reflections in D (Perpetual Pendulum)
-- Newark News (What Comes Next)
-- Solid Jackson (Solid Jackson)
-- The Things That Fall Away (Solid Jackson)
-- Dig This!!
-- Motion (Quietly There)
-- Soft Impression (Solid Jackson)
-- Angola (Solid Jackson)
-- Maury's Grey Wig (Solid Jackson)
+  - Wild Is Love (Wild Is Love)
+  - Reflections in D (Perpetual Pendulum)
+  - Newark News (What Comes Next)
+  - Solid Jackson (Solid Jackson)
+  - The Things That Fall Away (Solid Jackson)
+  - Dig This!!
+  - Motion (Quietly There)
+  - Soft Impression (Solid Jackson)
+  - Angola (Solid Jackson)
+  - Maury's Grey Wig (Solid Jackson)
 external_urls:
-  spotify: https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc
-  wikipedia: https://en.wikipedia.org/wiki/Peter_Bernstein_(guitarist)
+  spotify: 'https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc'
+  wikipedia: 'https://en.wikipedia.org/wiki/Peter_Bernstein_(guitarist)'
 image_path: 03_Resources/source_material/ArtistPortraits/peter_bernstein.jpg
 biography_enhanced_at: '2025-11-14T10:54:41.337692'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.jazzempowers.org/peter-bernstein
-- https://www.mymusicmasterclass.com/artist/artists/peter-bernstein/
-- https://jazzatthejoint.org/peter-bernstein/
-- https://steinhardt.nyu.edu/people/peter-bernstein
-- https://www.allaboutjazz.com/musicians/peter-bernstein/
-- https://www.peterbernsteinmusic.com
-- https://westbeth.org/profiles-in-art/peter-bernstein-jazz-guitarist/
+  - 'https://www.jazzempowers.org/peter-bernstein'
+  - 'https://www.mymusicmasterclass.com/artist/artists/peter-bernstein/'
+  - 'https://jazzatthejoint.org/peter-bernstein/'
+  - 'https://steinhardt.nyu.edu/people/peter-bernstein'
+  - 'https://www.allaboutjazz.com/musicians/peter-bernstein/'
+  - 'https://www.peterbernsteinmusic.com'
+  - 'https://westbeth.org/profiles-in-art/peter-bernstein-jazz-guitarist/'
 network_extracted: true
 entry_created: '2025-11-14T10:54:41.337698'
 last_updated: '2025-12-23T08:16:14.215237'
-
+birth_date: '1967-09-03'
+artist_type: person
 ---
 
 ![](peter_bernstein.jpg)

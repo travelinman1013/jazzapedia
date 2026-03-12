@@ -1,13 +1,13 @@
 ---
-title: GRANT & WILSON
+title: Grant & Wilson
 wiki_slug: grant-wilson
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres: []
 instruments:
-- eponymous
-- original
+  - eponymous
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/grant_and_wilson.jpg
   caption: GRANT & WILSON
@@ -27,64 +27,67 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Fletcher Henderson
-  - Mezz Mezzrow
-  - Sidney Bechet
-  - Louis Armstrong
-  - Blind Blake
+    - Fletcher Henderson
+    - Mezz Mezzrow
+    - Sidney Bechet
+    - Louis Armstrong
+    - Blind Blake
   influenced:
-  - Bessie Smith
+    - Bessie Smith
   mentors:
-  - Mayme Remington
+    - Mayme Remington
 spotify_data:
   followers: 603
   id: 7Dok3Oah6l6PaIiYJLRaQj
   popularity: 5
-  url: https://open.spotify.com/artist/7Dok3Oah6l6PaIiYJLRaQj
+  url: 'https://open.spotify.com/artist/7Dok3Oah6l6PaIiYJLRaQj'
 discography_enriched: true
 top_tracks:
-- Who Wouldn't Go (Who Wouldn't Go)
-- Cured (1.618)
-- When We Were Young (1.618)
-- Last Leaf Of Autumn (1.618)
-- Life Story (1.618)
-- Spring (1.618)
-- Noel (Christmastide)
-- Gravity (Liquid Earth)
-- Breaking Ground (Liquid Earth)
-- Knowing the Stars (Liquid Earth)
+  - Who Wouldn't Go (Who Wouldn't Go)
+  - Cured (1.618)
+  - When We Were Young (1.618)
+  - Last Leaf Of Autumn (1.618)
+  - Life Story (1.618)
+  - Spring (1.618)
+  - Noel (Christmastide)
+  - Gravity (Liquid Earth)
+  - Breaking Ground (Liquid Earth)
+  - Knowing the Stars (Liquid Earth)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/0d76c99b-d99e-4da1-adf5-749cacb77a28
-  spotify: https://open.spotify.com/artist/7Dok3Oah6l6PaIiYJLRaQj
-  wikipedia: https://en.wikipedia.org/wiki/Coot_Grant
+  musicbrainz: 'https://musicbrainz.org/artist/0d76c99b-d99e-4da1-adf5-749cacb77a28'
+  spotify: 'https://open.spotify.com/artist/7Dok3Oah6l6PaIiYJLRaQj'
+  wikipedia: 'https://en.wikipedia.org/wiki/Coot_Grant'
 image_path: 03_Resources/source_material/ArtistPortraits/grant_and_wilson.jpg
 biography_enhanced_at: '2025-10-23T07:22:43.167423'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Coot_Grant
-- https://en.wikipedia.org/wiki/Wesley_Wilson
+  - 'https://en.wikipedia.org/wiki/Coot_Grant'
+  - 'https://en.wikipedia.org/wiki/Wesley_Wilson'
 network_extracted: true
 entry_created: '2025-10-23T07:22:43.167438'
 last_updated: '2025-12-23T08:16:09.304813'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: f7ba4c94-1307-4dd1-9ae7-70fc6de6e113
-  name: Leola B. Wilson
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: d3b486bb-42c3-44e4-a217-f6bfa70abddc
-  name: Wesley Wilson
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: f7ba4c94-1307-4dd1-9ae7-70fc6de6e113
+    name: Leola B. Wilson
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: d3b486bb-42c3-44e4-a217-f6bfa70abddc
+    name: Wesley Wilson
 musicbrainz_id: 0d76c99b-d99e-4da1-adf5-749cacb77a28
-origin: Birmingham, Alabama, United States (Coot Grant); Jacksonville, Florida, United States (Wesley Wilson); New York City
-  and Los Angeles, United States (career origins)
+origin: >-
+  Birmingham, Alabama, United States (Coot Grant); Jacksonville, Florida, United
+  States (Wesley Wilson); New York City and Los Angeles, United States (career
+  origins)
+birth_place: 'Birmingham, Alabama, United States'
 ---
 
 ![](grant_and_wilson.jpg)

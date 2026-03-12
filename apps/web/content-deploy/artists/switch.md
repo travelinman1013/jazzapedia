@@ -2,13 +2,13 @@
 title: Switch
 wiki_slug: switch
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- christian rock
-- christian alternative rock
-- ccm
-- christian
+  - christian rock
+  - christian alternative rock
+  - ccm
+  - christian
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/switch.jpg
   caption: Switch
@@ -28,50 +28,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Cassidy Estevez
-  - Rob Estevez
-  - Ashton Wellman
-  - Luke Guevera
-  - Dillon Chase
+    - Cassidy Estevez
+    - Rob Estevez
+    - Ashton Wellman
+    - Luke Guevera
+    - Dillon Chase
   influenced:
-  - Life.Church Student Ministry
+    - Life.Church Student Ministry
   mentors:
-  - Life.Church Worship Leadership
+    - Life.Church Worship Leadership
 spotify_data:
   followers: 747097
   id: 6S58b0fr8TkWrEHOH4tRVu
   popularity: 58
-  url: https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu
+  url: 'https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu'
 discography_enriched: true
 top_tracks:
-- Meant to Live (The Beautiful Letdown (Deluxe Version))
-- Dare You To Move (Learning To Breathe)
-- Dare You to Move
-- I Won't Let You Go
-- Dare You to Move (The Beautiful Letdown (Deluxe Version))
-- Meant to Live
-- Your Love Is a Song (Hello Hurricane)
-- Only Hope (New Way To Be Human)
-- Twenty-Four (Tyler Joseph from Twenty One Pilots Version) (The Beautiful Letdown (Our Version) [Deluxe Edition])
-- This Is Your Life (The Beautiful Letdown (Deluxe Version))
+  - Meant to Live (The Beautiful Letdown (Deluxe Version))
+  - Dare You To Move (Learning To Breathe)
+  - Dare You to Move
+  - I Won't Let You Go
+  - Dare You to Move (The Beautiful Letdown (Deluxe Version))
+  - Meant to Live
+  - Your Love Is a Song (Hello Hurricane)
+  - Only Hope (New Way To Be Human)
+  - >-
+    Twenty-Four (Tyler Joseph from Twenty One Pilots Version) (The Beautiful
+    Letdown (Our Version) [Deluxe Edition])
+  - This Is Your Life (The Beautiful Letdown (Deluxe Version))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d2c25a4b-25e6-4094-ba2e-7eeb7dbfcf36
-  spotify: https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu
+  musicbrainz: 'https://musicbrainz.org/artist/d2c25a4b-25e6-4094-ba2e-7eeb7dbfcf36'
+  spotify: 'https://open.spotify.com/artist/6S58b0fr8TkWrEHOH4tRVu'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/switch.jpg
 biography_enhanced_at: '2025-10-24T07:42:58.912517'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.ccmmagazine.com/features/getting-to-know-you-switch/
-- https://www.dreamlabelgroup.com/home/switch
-- https://www.oklahoman.com/story/news/religion/2019/12/14/lifechurchs-switch-ends-year-on-high-note/60414264007/
+  - 'https://www.ccmmagazine.com/features/getting-to-know-you-switch/'
+  - 'https://www.dreamlabelgroup.com/home/switch'
+  - >-
+    https://www.oklahoman.com/story/news/religion/2019/12/14/lifechurchs-switch-ends-year-on-high-note/60414264007/
 network_extracted: true
 entry_created: '2025-10-24T07:42:58.912531'
 last_updated: '2025-12-23T08:16:16.303811'
 disambiguation: Christian/Gospel group from Life.Church
 musicbrainz_id: d2c25a4b-25e6-4094-ba2e-7eeb7dbfcf36
-origin: Oklahoma City, Oklahoma, United States
+origin: 'Oklahoma City, Oklahoma, United States'
 ---
 
 ![](switch.jpg)

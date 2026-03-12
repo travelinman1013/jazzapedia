@@ -1,11 +1,11 @@
 ---
-title: ROCKWELL
+title: Rockwell
 wiki_slug: rockwell
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1964-03-15'
-birth_place: Detroit
+birth_place: 'Detroit, Michigan, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/rockwell.jpg
@@ -28,43 +28,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Michael Jackson
-  - Jermaine Jackson
+    - Michael Jackson
+    - Jermaine Jackson
   influenced:
-  - LMFAO (Redfoo and SkyBlu)
+    - LMFAO (Redfoo and SkyBlu)
   mentors:
-  - Berry Gordy
-  - Smokey Robinson
+    - Berry Gordy
+    - Smokey Robinson
 spotify_data:
   followers: 116733
   id: 3xs0LEzcPXtgNfMNcHzLIP
   popularity: 61
-  url: https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP
+  url: 'https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP'
 discography_enriched: true
 top_tracks:
-- Somebody's Watching Me (Somebody's Watching Me)
-- Somebody's Watching Me (12" 80s Classics)
-- Somebody's Watching Me - Single Version (Somebody’s Watching Me (Sped Up))
-- Somebody's Watching Me
-- Somebody Is Watching Me (Somebody Is Watchin' Me)
-- Somebody's Watching Me
-- Somebody's Watching Me - Single Version (Hitsville USA, The Motown Collection 1972-1992)
-- Knife (Somebody’s Watching Me (Deluxe Edition))
-- Knife (Somebody's Watching Me)
-- Somebody's Watching Me
+  - Somebody's Watching Me (Somebody's Watching Me)
+  - Somebody's Watching Me (12" 80s Classics)
+  - Somebody's Watching Me - Single Version (Somebody’s Watching Me (Sped Up))
+  - Somebody's Watching Me
+  - Somebody Is Watching Me (Somebody Is Watchin' Me)
+  - Somebody's Watching Me
+  - >-
+    Somebody's Watching Me - Single Version (Hitsville USA, The Motown
+    Collection 1972-1992)
+  - Knife (Somebody’s Watching Me (Deluxe Edition))
+  - Knife (Somebody's Watching Me)
+  - Somebody's Watching Me
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b7d224b3-a31c-4616-b69f-b6fcabd5cfbd
-  spotify: https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP
-  wikipedia: https://en.wikipedia.org/wiki/Rockwell_(musician)
+  musicbrainz: 'https://musicbrainz.org/artist/b7d224b3-a31c-4616-b69f-b6fcabd5cfbd'
+  spotify: 'https://open.spotify.com/artist/3xs0LEzcPXtgNfMNcHzLIP'
+  wikipedia: 'https://en.wikipedia.org/wiki/Rockwell_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/rockwell.jpg
 biography_enhanced_at: '2025-10-24T07:43:46.118606'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://kids.kiddle.co/Rockwell_(musician)
-- https://wbssmedia.com/artists/detail/950
-- https://www.mjvibe.com/where-are-they-now-rockwell/
-- https://en.wikipedia.org/wiki/Rockwell_(musician)
+  - 'https://kids.kiddle.co/Rockwell_(musician)'
+  - 'https://wbssmedia.com/artists/detail/950'
+  - 'https://www.mjvibe.com/where-are-they-now-rockwell/'
+  - 'https://en.wikipedia.org/wiki/Rockwell_(musician)'
 network_extracted: true
 entry_created: '2025-10-24T07:43:46.118617'
 last_updated: '2025-12-23T08:16:14.965109'
@@ -72,8 +74,8 @@ disambiguation: R & B – “Somebody’s Watching Me”
 gender: Male
 musicbrainz_id: b7d224b3-a31c-4616-b69f-b6fcabd5cfbd
 tags:
-- pop
-- rock and indie
+  - pop
+  - rock and indie
 ---
 
 ![](rockwell.jpg)

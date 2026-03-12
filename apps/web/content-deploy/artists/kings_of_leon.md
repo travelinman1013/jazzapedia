@@ -2,11 +2,11 @@
 title: Kings of Leon
 wiki_slug: kings-of-leon
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1999'
 genres:
-- modern rock
+  - modern rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/kings_of_leon.jpg
   caption: Kings of Leon
@@ -27,72 +27,73 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ethan Johns
-  - Matthew Followill
+    - Ethan Johns
+    - Matthew Followill
   influenced:
-  - Catfish and the Bottlemen
-  - The 1975
+    - Catfish and the Bottlemen
+    - The 1975
   mentors:
-  - Angelo Petraglia
+    - Angelo Petraglia
 spotify_data:
   followers: 5773375
   id: 2qk9voo8llSGYcZ6xrBzKx
   popularity: 77
-  url: https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx
+  url: 'https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx'
 discography_enriched: true
 top_tracks:
-- Sex on Fire (Only By The Night)
-- Use Somebody (Only By The Night)
-- Pyro (Come Around Sundown (Expanded Edition))
-- Sex on Fire (Only By The Night)
-- Waste A Moment (WALLS)
-- Use Somebody (Only By The Night)
-- Closer (Only By The Night)
-- WALLS (WALLS)
-- Wait for Me (Mechanical Bull (Expanded Edition))
-- Revelry (Only By The Night)
+  - Sex on Fire (Only By The Night)
+  - Use Somebody (Only By The Night)
+  - Pyro (Come Around Sundown (Expanded Edition))
+  - Sex on Fire (Only By The Night)
+  - Waste A Moment (WALLS)
+  - Use Somebody (Only By The Night)
+  - Closer (Only By The Night)
+  - WALLS (WALLS)
+  - Wait for Me (Mechanical Bull (Expanded Edition))
+  - Revelry (Only By The Night)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6ffb8ea9-2370-44d8-b678-e9237bbd347b
-  spotify: https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx
-  wikipedia: https://en.wikipedia.org/wiki/Kings_of_Leon
+  musicbrainz: 'https://musicbrainz.org/artist/6ffb8ea9-2370-44d8-b678-e9237bbd347b'
+  spotify: 'https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kings_of_Leon'
 image_path: 03_Resources/source_material/ArtistPortraits/kings_of_leon.jpg
 biography_enhanced_at: '2025-11-17T10:53:17.400070'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://americansongwriter.com/behind-the-meaning-and-history-of-the-band-name-kings-of-leon/
-- https://www.last.fm/music/Kings+of+Leon/+wiki
-- https://www.youtube.com/watch?v=5qcqija9qfo
+  - >-
+    https://americansongwriter.com/behind-the-meaning-and-history-of-the-band-name-kings-of-leon/
+  - 'https://www.last.fm/music/Kings+of+Leon/+wiki'
+  - 'https://www.youtube.com/watch?v=5qcqija9qfo'
 network_extracted: true
 entry_created: '2025-11-17T10:53:17.400079'
 last_updated: '2025-12-23T08:16:11.423431'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2d0b432c-d5fd-43e7-aa7f-4640d835c71b
-  name: Caleb Followill
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ab30e20d-4fed-4bcf-ab64-fe07da53d451
-  name: Jared Followill
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b128c886-643c-4fda-a189-6eb5962ce172
-  name: Matthew Followill
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f207c835-7338-4206-9b80-1b1d282edab9
-  name: Nathan Followill
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2d0b432c-d5fd-43e7-aa7f-4640d835c71b
+    name: Caleb Followill
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ab30e20d-4fed-4bcf-ab64-fe07da53d451
+    name: Jared Followill
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b128c886-643c-4fda-a189-6eb5962ce172
+    name: Matthew Followill
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f207c835-7338-4206-9b80-1b1d282edab9
+    name: Nathan Followill
 musicbrainz_id: 6ffb8ea9-2370-44d8-b678-e9237bbd347b
-origin: Nashville
+origin: 'Nashville, Tennessee, United States'
 tags:
-- alternative rock
-- garage rock
-- garage rock revival
+  - alternative rock
+  - garage rock
+  - garage rock revival
 ---
 
 ![](kings_of_leon.jpg)

@@ -23,54 +23,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Alex Ryan
-  - Lisa Hannigan
-  - The National
-  - Hozier
-  - Keane
+    - Alex Ryan
+    - Lisa Hannigan
+    - The National
+    - Hozier
+    - Keane
   influenced: []
   mentors:
-  - Joni Mitchell
-  - Leonard Cohen
-  - Steve Reich
+    - Joni Mitchell
+    - Leonard Cohen
+    - Steve Reich
 spotify_data:
   followers: 30956
   id: 7ufZdjYTNe1vzA9Z6Fek14
   popularity: 30
-  url: https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14
+  url: 'https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14'
 discography_enriched: true
 top_tracks:
-- Eternal Flame (Eternal Flame)
-- Blood Moon (Madrid)
-- Causing Trouble (Shape of Silence)
-- Corpses (Shape of Silence)
-- Dynamite (Dynamite)
-- Causing Trouble - Kormac Remix (Causing Trouble (Kormac Remix))
-- Karaoke Song (Where I Should End)
-- Dynamite (Where I Should End)
-- You Never Call - James Vincent McMorrow Remix (You Never Call (James Vincent McMorrow Remix))
-- Manchester Air (Where I Should End)
+  - Eternal Flame (Eternal Flame)
+  - Blood Moon (Madrid)
+  - Causing Trouble (Shape of Silence)
+  - Corpses (Shape of Silence)
+  - Dynamite (Dynamite)
+  - Causing Trouble - Kormac Remix (Causing Trouble (Kormac Remix))
+  - Karaoke Song (Where I Should End)
+  - Dynamite (Where I Should End)
+  - >-
+    You Never Call - James Vincent McMorrow Remix (You Never Call (James Vincent
+    McMorrow Remix))
+  - Manchester Air (Where I Should End)
 external_urls:
-  spotify: https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14
-  wikipedia: https://en.wikipedia.org/wiki/Saint_Sister
+  spotify: 'https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14'
+  wikipedia: 'https://en.wikipedia.org/wiki/Saint_Sister'
 image_path: 03_Resources/source_material/ArtistPortraits/saint_sister.jpg
 biography_enhanced_at: '2025-11-10T03:41:05.085106'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://thisisgalway.ie/saint-sister-from-strangers-to-sisters/
-- https://www.thevpme.com/interviews/behind-the-music-with-saint-sister/
-- https://www.totallydublin.ie/music/music-features/saint-sister-at-the-beginning-of-where-i-should-end/
-- https://www.othervoices.ie/artists/saint-sister
-- https://merryn.org/2018/06/25/independent-music-monday-interview-with-saint-sister/
-- https://www.saintsisterband.com/about
-- https://www.songwritingmagazine.co.uk/interviews/introducing-saint-sister
-- https://atwoodmagazine.com/sswe-saint-sister-interview-2021-music-where-i-should-end/
-- https://earmilk.com/2018/09/24/artist-profile-saint-sister-talk-irish-sisterhood-and-shape-of-silence-interview/
+  - 'https://thisisgalway.ie/saint-sister-from-strangers-to-sisters/'
+  - 'https://www.thevpme.com/interviews/behind-the-music-with-saint-sister/'
+  - >-
+    https://www.totallydublin.ie/music/music-features/saint-sister-at-the-beginning-of-where-i-should-end/
+  - 'https://www.othervoices.ie/artists/saint-sister'
+  - >-
+    https://merryn.org/2018/06/25/independent-music-monday-interview-with-saint-sister/
+  - 'https://www.saintsisterband.com/about'
+  - 'https://www.songwritingmagazine.co.uk/interviews/introducing-saint-sister'
+  - >-
+    https://atwoodmagazine.com/sswe-saint-sister-interview-2021-music-where-i-should-end/
+  - >-
+    https://earmilk.com/2018/09/24/artist-profile-saint-sister-talk-irish-sisterhood-and-shape-of-silence-interview/
 network_extracted: true
 entry_created: '2025-11-10T03:41:05.085119'
 last_updated: '2025-12-23T08:16:15.281797'
-origin: Dublin, Leinster, Ireland (origin)
+origin: 'Dublin, Leinster, Ireland (origin)'
+artist_type: band
 ---
 
 ![](saint_sister.jpg)

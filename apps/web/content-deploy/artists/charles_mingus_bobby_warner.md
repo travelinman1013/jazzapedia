@@ -1,20 +1,20 @@
 ---
-title: Charles Mingus, Bobby Warner
+title: 'Charles Mingus, Bobby Warner'
 wiki_slug: charles-mingus-bobby-warner
 schema_version: 2
 status: active
-birth_place: Nogales, Arizona, United States
+birth_place: 'Nogales, Arizona, United States'
 genres:
-- jazz
-- hard bop
-- bebop
-- free jazz
-- cool jazz
+  - jazz
+  - hard bop
+  - bebop
+  - free jazz
+  - cool jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/charles_mingus_bobby_warner.jpg
-  caption: Charles Mingus, Bobby Warner
+  caption: 'Charles Mingus, Bobby Warner'
   background: solo_singer
-  origin: Nogales, Arizona, United States
+  origin: 'Nogales, Arizona, United States'
 audio_profile:
   tempo_avg: 112.1
   energy_avg: 0.376
@@ -30,54 +30,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Louis Armstrong
-  - Charlie Parker
-  - Dizzy Gillespie
-  - Max Roach
-  - Eric Dolphy
-  - Dannie Richmond
-  - Joni Mitchell
+    - Louis Armstrong
+    - Charlie Parker
+    - Dizzy Gillespie
+    - Max Roach
+    - Eric Dolphy
+    - Dannie Richmond
+    - Joni Mitchell
   influenced:
-  - Jaco Pastorius
-  - Mingus Big Band / Mingus Dynasty
-  - Charles Mingus High School Competition participants
+    - Jaco Pastorius
+    - Mingus Big Band / Mingus Dynasty
+    - Charles Mingus High School Competition participants
   mentors:
-  - H. Rheinshagen
-  - Lloyd Reese
-  - Duke Ellington
+    - H. Rheinshagen
+    - Lloyd Reese
+    - Duke Ellington
 spotify_data:
   followers: 510749
   id: 1W8TbFzNS15VwsempfY12H
   popularity: 46
-  url: https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H
+  url: 'https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H'
 discography_enriched: true
 top_tracks:
-- Goodbye Pork Pie Hat (Mingus Ah Um)
-- Mood Indigo (Mingus Mingus Mingus Mingus Mingus)
-- Better Git It in Your Soul (Mingus Ah Um)
-- Moanin' (Blues & Roots)
-- II B.S. - Edit (Mingus Mingus Mingus Mingus Mingus)
-- Track A- Solo Dancer (The Black Saint And The Sinner Lady)
-- Boogie Stop Shuffle (Mingus Ah Um)
-- Self-Portrait in Three Colors (Mingus Ah Um)
-- Fables of Faubus (Mingus Ah Um)
-- Track B- Duete Solo Dancers (The Black Saint And The Sinner Lady)
+  - Goodbye Pork Pie Hat (Mingus Ah Um)
+  - Mood Indigo (Mingus Mingus Mingus Mingus Mingus)
+  - Better Git It in Your Soul (Mingus Ah Um)
+  - Moanin' (Blues & Roots)
+  - II B.S. - Edit (Mingus Mingus Mingus Mingus Mingus)
+  - Track A- Solo Dancer (The Black Saint And The Sinner Lady)
+  - Boogie Stop Shuffle (Mingus Ah Um)
+  - Self-Portrait in Three Colors (Mingus Ah Um)
+  - Fables of Faubus (Mingus Ah Um)
+  - Track B- Duete Solo Dancers (The Black Saint And The Sinner Lady)
 external_urls:
-  spotify: https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H
-  wikipedia: https://en.wikipedia.org/wiki/Charles_Mingus
+  spotify: 'https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H'
+  wikipedia: 'https://en.wikipedia.org/wiki/Charles_Mingus'
 image_path: 03_Resources/source_material/ArtistPortraits/charles_mingus_bobby_warner.jpg
 biography_enhanced_at: '2025-10-23T07:42:22.362543'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Charles_Mingus
-- https://www.charlesmingus.com/mingusbio
-- https://www.masterclass.com/articles/charles-mingus-life-and-music
-- https://www.wisemusicclassical.com/composer/2247/Charles-Mingus/
-- https://www.ebsco.com/research-starters/history/charles-mingus
+  - 'https://en.wikipedia.org/wiki/Charles_Mingus'
+  - 'https://www.charlesmingus.com/mingusbio'
+  - 'https://www.masterclass.com/articles/charles-mingus-life-and-music'
+  - 'https://www.wisemusicclassical.com/composer/2247/Charles-Mingus/'
+  - 'https://www.ebsco.com/research-starters/history/charles-mingus'
 network_extracted: true
 entry_created: '2025-10-23T07:42:22.362558'
 last_updated: '2025-12-23T08:16:06.686579'
+birth_date: '1922-04-22'
+death_date: '1979-01-05'
+artist_type: person
 ---
 
 ![](charles_mingus_bobby_warner.jpg)

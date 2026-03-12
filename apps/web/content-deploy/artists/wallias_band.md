@@ -1,10 +1,10 @@
 ---
-title: wallias band
+title: Walias Band
 wiki_slug: wallias-band
 schema_version: 2
 status: active
 genres:
-- ethiopian jazz
+  - ethiopian jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/wallias_band.jpg
   caption: wallias band
@@ -24,48 +24,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Hailu Mergia
-  - Mahmoud Ahmed
-  - Girma Bèyènè
-  - Mogès Habté
-  - Mèlakè Gèbrè
-  - Yohannes Tèkola
+    - Hailu Mergia
+    - Mahmoud Ahmed
+    - Girma Bèyènè
+    - Mogès Habté
+    - Mèlakè Gèbrè
+    - Yohannes Tèkola
   influenced:
-  - Zula Band
-  - Artists featured on the Éthiopiques reissue series
+    - Zula Band
+    - Artists featured on the Éthiopiques reissue series
   mentors:
-  - Mulatu Astatke
-  - Western soul and funk horn players (e.g., King Curtis, Junior Walker, Maceo Parker)
+    - Mulatu Astatke
+    - >-
+      Western soul and funk horn players (e.g., King Curtis, Junior Walker,
+      Maceo Parker)
 spotify_data:
   followers: 1488
   id: 1B0qJV6XpYaNyj47Bd22ui
   popularity: 15
-  url: https://open.spotify.com/artist/1B0qJV6XpYaNyj47Bd22ui
+  url: 'https://open.spotify.com/artist/1B0qJV6XpYaNyj47Bd22ui'
 discography_enriched: true
 top_tracks:
-- 'Muziqawi silt - instrumental (Ethiopiques, Vol. 13: The Golden Seventies (Ethiopian Groove))'
-- 'Muziqa muziqa (Ethiopiques, Vol. 13: The Golden Seventies (Ethiopian Groove))'
-- 'Metch ene terf feleghu (Ethiopiques, Vol. 13: The Golden Seventies (Ethiopian Groove))'
-- Muziqawi silt - Instrumental (Best of Ethiopiques - Golden Years of Ethiopian Music (L'âge d'or de la musique éthiopienne))
-- Muziqawi Silt - Instrumental (Afrobeat Experience, Vol.1)
-- 'Muziqawi Silt (Instrumental) (Wanted Afrobeat: From Diggers to Music Lovers)'
+  - >-
+    Muziqawi silt - instrumental (Ethiopiques, Vol. 13: The Golden Seventies
+    (Ethiopian Groove))
+  - >-
+    Muziqa muziqa (Ethiopiques, Vol. 13: The Golden Seventies (Ethiopian
+    Groove))
+  - >-
+    Metch ene terf feleghu (Ethiopiques, Vol. 13: The Golden Seventies
+    (Ethiopian Groove))
+  - >-
+    Muziqawi silt - Instrumental (Best of Ethiopiques - Golden Years of
+    Ethiopian Music (L'âge d'or de la musique éthiopienne))
+  - 'Muziqawi Silt - Instrumental (Afrobeat Experience, Vol.1)'
+  - 'Muziqawi Silt (Instrumental) (Wanted Afrobeat: From Diggers to Music Lovers)'
 external_urls:
-  spotify: https://open.spotify.com/artist/1B0qJV6XpYaNyj47Bd22ui
-  wikipedia: https://en.wikipedia.org/wiki/Walias_Band
+  spotify: 'https://open.spotify.com/artist/1B0qJV6XpYaNyj47Bd22ui'
+  wikipedia: 'https://en.wikipedia.org/wiki/Walias_Band'
 image_path: ''
 biography_enhanced_at: '2025-12-07T04:52:26.643428'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Music In Africa – Walias Band profile[3]
-- DownBeat – article on Hailu Mergia and the Walias Band[2]
-- South African History Online – Hailu Mergia biography[4]
-- Impact 89FM – Ethio‑jazz feature mentioning The Walias[1]
-- Shfl – Ethio‑jazz guide referencing Hailu Mergia and Walias Band[6]
+  - 'Music In Africa – Walias Band profile[3]'
+  - 'DownBeat – article on Hailu Mergia and the Walias Band[2]'
+  - 'South African History Online – Hailu Mergia biography[4]'
+  - 'Impact 89FM – Ethio‑jazz feature mentioning The Walias[1]'
+  - 'Shfl – Ethio‑jazz guide referencing Hailu Mergia and Walias Band[6]'
 network_extracted: true
 entry_created: '2025-12-07T04:52:26.643451'
 last_updated: '2025-12-23T08:16:17.966467'
-origin: Addis Ababa, Ethiopia
+origin: 'Addis Ababa, Ethiopia'
+artist_type: band
 ---
 
 ![]()

@@ -3,14 +3,14 @@ title: Peter Bocage
 wiki_slug: peter-bocage
 schema_version: 2
 status: active
-birth_place: Algiers, New Orleans, Louisiana, USA
+birth_place: 'Algiers, New Orleans, Louisiana, USA'
 genres:
-- ragtime
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/peter_bocage.jpg
   caption: Peter Bocage
   background: solo_singer
-  origin: Algiers, New Orleans, Louisiana, USA
+  origin: 'Algiers, New Orleans, Louisiana, USA'
 audio_profile:
   tempo_avg: 128.6
   energy_avg: 0.526
@@ -26,47 +26,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bunk Johnson
-  - Louis Armstrong
-  - A.J. Piron
-  - Joe "King" Oliver
-  - Sidney Bechet
+    - Bunk Johnson
+    - Louis Armstrong
+    - A.J. Piron
+    - Joe "King" Oliver
+    - Sidney Bechet
   influenced:
-  - Louis Armstrong
-  - Bunk Johnson
+    - Louis Armstrong
+    - Bunk Johnson
   mentors:
-  - His father (name not specified)
+    - His father (name not specified)
 spotify_data:
   followers: 125
   id: 2YeTBcpBDoSYXtZX53TleR
   popularity: 0
-  url: https://open.spotify.com/artist/2YeTBcpBDoSYXtZX53TleR
+  url: 'https://open.spotify.com/artist/2YeTBcpBDoSYXtZX53TleR'
 discography_enriched: true
 top_tracks:
-- If Ever I Cease to Love (Take 1) (New Orleans 1946)
-- 'Mama''s Gone, Goodbye (Always on My Mind: 16 Easy-Listening Melodies)'
-- I Got Rhythm / Theme (Jazz Nocturne 5 - Bocage & Bechet in Boston)
-- Sweet Georgia Brown/Theme (Jazz Nocturne 1 - Bunk, Bocage & Bechet in Boston)
-- Sweetheart of Sigma Chi (New Orleans 1961-1964)
-- 'Mama''s Gone, Goodbye (Claude Gordon Orchestra: Claude Gordon and His Orchestra at the Palladium)'
-- 'Red Man Blues (Really the Blues?: A Blues History (1893-1959), Vol. 1 (1893-1929))'
-- Chinatown, My Chinatown (Jazz Nocturne 5 - Bocage & Bechet in Boston)
-- There'll Be Some Changes Made (Jazz Nocturne 5 - Bocage & Bechet in Boston)
-- Panama / Theme (Jazz Nocturne 5 - Bocage & Bechet in Boston)
+  - If Ever I Cease to Love (Take 1) (New Orleans 1946)
+  - 'Mama''s Gone, Goodbye (Always on My Mind: 16 Easy-Listening Melodies)'
+  - I Got Rhythm / Theme (Jazz Nocturne 5 - Bocage & Bechet in Boston)
+  - >-
+    Sweet Georgia Brown/Theme (Jazz Nocturne 1 - Bunk, Bocage & Bechet in
+    Boston)
+  - Sweetheart of Sigma Chi (New Orleans 1961-1964)
+  - >-
+    Mama's Gone, Goodbye (Claude Gordon Orchestra: Claude Gordon and His
+    Orchestra at the Palladium)
+  - >-
+    Red Man Blues (Really the Blues?: A Blues History (1893-1959), Vol. 1
+    (1893-1929))
+  - 'Chinatown, My Chinatown (Jazz Nocturne 5 - Bocage & Bechet in Boston)'
+  - There'll Be Some Changes Made (Jazz Nocturne 5 - Bocage & Bechet in Boston)
+  - Panama / Theme (Jazz Nocturne 5 - Bocage & Bechet in Boston)
 external_urls:
-  spotify: https://open.spotify.com/artist/2YeTBcpBDoSYXtZX53TleR
-  wikipedia: https://en.wikipedia.org/wiki/Peter_Bocage
+  spotify: 'https://open.spotify.com/artist/2YeTBcpBDoSYXtZX53TleR'
+  wikipedia: 'https://en.wikipedia.org/wiki/Peter_Bocage'
 image_path: 03_Resources/source_material/ArtistPortraits/peter_bocage.jpg
 biography_enhanced_at: '2025-11-10T03:32:07.168991'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://syncopatedtimes.com/peter-bocage-1897-1967/
-- https://en.wikipedia.org/wiki/Peter_Bocage
-- https://64parishes.org/entry/peter-bocage
+  - 'https://syncopatedtimes.com/peter-bocage-1897-1967/'
+  - 'https://en.wikipedia.org/wiki/Peter_Bocage'
+  - 'https://64parishes.org/entry/peter-bocage'
 network_extracted: true
 entry_created: '2025-11-10T03:32:07.169003'
 last_updated: '2025-12-23T08:16:14.218991'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](peter_bocage.jpg)

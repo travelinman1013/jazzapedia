@@ -2,25 +2,25 @@
 title: Joe Williams
 wiki_slug: joe-williams
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1918-12-12'
-birth_place: Cordele, Georgia, United States
+birth_place: 'Cordele, Georgia, United States'
 death_date: '1999-03-29'
 genres:
-- vocal jazz
-- big band
-- swing music
-- jazz
+  - vocal jazz
+  - big band
+  - swing music
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Joe_Williams.jpg
   caption: Joe Williams
   background: solo_singer
   born: '1918-12-12'
-  origin: Cordele, Georgia, United States
+  origin: 'Cordele, Georgia, United States'
   died: '1999-03-29'
 audio_profile:
-  tempo_avg: 122.0
+  tempo_avg: 122
   energy_avg: 0.371
   valence_avg: 0.625
   danceability_avg: 0.593
@@ -34,49 +34,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Count Basie
-  - Lionel Hampton
-  - Coleman Hawkins
-  - Harry Edison
-  - George Shearing
-  - Cannonball Adderley
+    - Count Basie
+    - Lionel Hampton
+    - Coleman Hawkins
+    - Harry Edison
+    - George Shearing
+    - Cannonball Adderley
   influenced:
-  - Kevin Mahogany
-  - Gregory Porter
+    - Kevin Mahogany
+    - Gregory Porter
   mentors:
-  - Louis Armstrong
-  - Ethel Waters
+    - Louis Armstrong
+    - Ethel Waters
 spotify_data:
   followers: 53941
   id: 7FMGtucexJvUxVz7scydEL
   popularity: 34
-  url: https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL
+  url: 'https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL'
 discography_enriched: true
 top_tracks:
-- Alright, Okay, You Win
-- Alright, Okay, You Win (The Complete Clef & Verve Fifties Studio Recordings)
-- Lil' Darlin' (The Atomic Mr Basie)
-- Woman's Got Soul (Presenting Joe Williams & Thad Jones / Mel Lewis Orchestra)
-- Have You Met Miss Jones (Can't Resist You - My Summer Love)
-- Every Day I Have the Blues
-- Get Out Of My Life Woman (Presenting Joe Williams & Thad Jones / Mel Lewis Orchestra)
-- Have You Met Miss Jones (You Are Free)
-- Jingle Bells - Bombay Dub Orchestra Remix
-- Teach Me Tonight (The Complete Clef & Verve Fifties Studio Recordings)
+  - 'Alright, Okay, You Win'
+  - 'Alright, Okay, You Win (The Complete Clef & Verve Fifties Studio Recordings)'
+  - Lil' Darlin' (The Atomic Mr Basie)
+  - >-
+    Woman's Got Soul (Presenting Joe Williams & Thad Jones / Mel Lewis
+    Orchestra)
+  - Have You Met Miss Jones (Can't Resist You - My Summer Love)
+  - Every Day I Have the Blues
+  - >-
+    Get Out Of My Life Woman (Presenting Joe Williams & Thad Jones / Mel Lewis
+    Orchestra)
+  - Have You Met Miss Jones (You Are Free)
+  - Jingle Bells - Bombay Dub Orchestra Remix
+  - Teach Me Tonight (The Complete Clef & Verve Fifties Studio Recordings)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/de09faf8-c78b-4c3a-9c0d-76b1de15f40e
-  spotify: https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL
-  wikipedia: https://en.wikipedia.org/wiki/Joe_Williams_(jazz_singer)
+  musicbrainz: 'https://musicbrainz.org/artist/de09faf8-c78b-4c3a-9c0d-76b1de15f40e'
+  spotify: 'https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL'
+  wikipedia: 'https://en.wikipedia.org/wiki/Joe_Williams_(jazz_singer)'
 image_path: 03_Resources/source_material/ArtistPortraits/Joe_Williams.jpg
 biography_enhanced_at: '2025-10-20T01:38:33.816078'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.georgiaencyclopedia.org/articles/arts-culture/joe-williams-1918-1999/
-- https://nationaljazzarchive.org.uk/explore/interviews/1635420-joe-williams
-- https://www.ijc.uidaho.edu/williams_joe/bio.html
-- https://www.britannica.com/biography/Joe-Williams
-- https://walkoffame.com/joe-williams/
+  - >-
+    https://www.georgiaencyclopedia.org/articles/arts-culture/joe-williams-1918-1999/
+  - 'https://nationaljazzarchive.org.uk/explore/interviews/1635420-joe-williams'
+  - 'https://www.ijc.uidaho.edu/williams_joe/bio.html'
+  - 'https://www.britannica.com/biography/Joe-Williams'
+  - 'https://walkoffame.com/joe-williams/'
 network_extracted: true
 entry_created: '2025-10-20T01:38:33.816100'
 last_updated: '2025-12-23T08:16:02.588843'
@@ -85,8 +90,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:31:34.319250'
 musicbrainz_id: de09faf8-c78b-4c3a-9c0d-76b1de15f40e
 tags:
-- jazz
-- vocal jazz
+  - jazz
+  - vocal jazz
+is_active: false
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](Joe_Williams.jpg)

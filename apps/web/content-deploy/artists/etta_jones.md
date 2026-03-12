@@ -1,21 +1,21 @@
 ---
-title: etta jones
+title: Etta Jones
 wiki_slug: etta-jones
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1928-11-25'
-birth_place: Aiken, South Carolina, United States
+birth_place: 'Aiken, South Carolina, United States'
 death_date: '2001-10-16'
 genres:
-- vocal jazz
-- jazz
+  - vocal jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/etta_jones.jpg
   caption: etta jones
   background: solo_singer
   born: '1928-11-25'
-  origin: Aiken, South Carolina, United States
+  origin: 'Aiken, South Carolina, United States'
   died: '2001-10-16'
 audio_profile:
   tempo_avg: 106.6
@@ -32,57 +32,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Houston Person
-  - Earl 'Fatha' Hines
-  - Barney Bigard
-  - Gene Ammons
+    - Houston Person
+    - Earl 'Fatha' Hines
+    - Barney Bigard
+    - Gene Ammons
   influenced:
-  - Houston Person
-  - Contemporary jazz vocalists
+    - Houston Person
+    - Contemporary jazz vocalists
   mentors:
-  - Buddy Johnson
-  - Billie Holiday
+    - Buddy Johnson
+    - Billie Holiday
 spotify_data:
   followers: 251960
   id: 3CEdEF8RsuL3hAFJaujvr0
   popularity: 48
-  url: https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0
+  url: 'https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0'
 discography_enriched: true
 top_tracks:
-- Don't Go To Strangers (Don't Go To Strangers (Rudy Van Gelder Remaster))
-- If I Had You (Don't Go To Strangers)
-- Bye Bye Blackbird (Don't Go To Strangers (Rudy Van Gelder Remaster))
-- Till There Was You (Something Nice)
-- Yes Sir, That's My Baby (Don't Go To Strangers (Rudy Van Gelder Remaster))
-- Something To Remember You By (Don't Go To Strangers (Rudy Van Gelder Remaster))
-- Till There Was You (Something Nice (Remastered Edition))
-- Where Or When (Don't Go To Strangers (Rudy Van Gelder Remaster))
-- Hi-Lili, Hi-Lo (Love Shout)
-- Someday My Prince Will Come (Love Shout)
+  - Don't Go To Strangers (Don't Go To Strangers (Rudy Van Gelder Remaster))
+  - If I Had You (Don't Go To Strangers)
+  - Bye Bye Blackbird (Don't Go To Strangers (Rudy Van Gelder Remaster))
+  - Till There Was You (Something Nice)
+  - 'Yes Sir, That''s My Baby (Don''t Go To Strangers (Rudy Van Gelder Remaster))'
+  - >-
+    Something To Remember You By (Don't Go To Strangers (Rudy Van Gelder
+    Remaster))
+  - Till There Was You (Something Nice (Remastered Edition))
+  - Where Or When (Don't Go To Strangers (Rudy Van Gelder Remaster))
+  - 'Hi-Lili, Hi-Lo (Love Shout)'
+  - Someday My Prince Will Come (Love Shout)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1bb2fd3c-3ed3-49d2-afb5-5266dcdbafa8
-  spotify: https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0
-  wikipedia: https://en.wikipedia.org/wiki/Etta_Jones
+  musicbrainz: 'https://musicbrainz.org/artist/1bb2fd3c-3ed3-49d2-afb5-5266dcdbafa8'
+  spotify: 'https://open.spotify.com/artist/3CEdEF8RsuL3hAFJaujvr0'
+  wikipedia: 'https://en.wikipedia.org/wiki/Etta_Jones'
 image_path: 03_Resources/source_material/ArtistPortraits/etta_jones.jpg
 biography_enhanced_at: '2025-10-20T09:29:31.059022'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Etta_Jones
-- https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/etta-jones
-- https://aaregistry.org/story/singer-etta-jones-had-a-pure-style/
-- https://www.allaboutjazz.com/musicians/etta-jones/
+  - 'https://en.wikipedia.org/wiki/Etta_Jones'
+  - >-
+    https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/etta-jones
+  - 'https://aaregistry.org/story/singer-etta-jones-had-a-pure-style/'
+  - 'https://www.allaboutjazz.com/musicians/etta-jones/'
 network_extracted: true
 entry_created: '2025-10-20T09:29:31.059036'
 last_updated: '2025-12-23T08:16:08.512112'
-disambiguation: vocals, jazz
+disambiguation: 'vocals, jazz'
 gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:52:05.716552'
 musicbrainz_id: 1bb2fd3c-3ed3-49d2-afb5-5266dcdbafa8
 tags:
-- aln-sh
-- jazz
-- vocal jazz
+  - aln-sh
+  - jazz
+  - vocal jazz
+is_active: false
 ---
 
 ![](etta_jones.jpg)

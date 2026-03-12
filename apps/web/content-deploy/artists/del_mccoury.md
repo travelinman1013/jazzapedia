@@ -1,100 +1,100 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 7e5a0c3f-339a-4e5d-aed0-1946112b4a66
-  name: The Del McCoury Band
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 7efa6172-a59c-4485-9189-b20d56cd8214
-  name: The McCoury Brothers
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: f1d8aec3-0e63-48fb-a5d6-04358ff66148
-  name: Del McCoury and The Dixie Pals
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8ae307be-9c25-438b-b4d3-83affce9daf2
-  name: Parmley & McCoury
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: 36c2f168-2ddd-487d-b51a-6e86ee92dfb8
-  name: The GrooveGrass Boyz
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 7e5a0c3f-339a-4e5d-aed0-1946112b4a66
+    name: The Del McCoury Band
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 7efa6172-a59c-4485-9189-b20d56cd8214
+    name: The McCoury Brothers
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: f1d8aec3-0e63-48fb-a5d6-04358ff66148
+    name: Del McCoury and The Dixie Pals
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8ae307be-9c25-438b-b4d3-83affce9daf2
+    name: Parmley & McCoury
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 36c2f168-2ddd-487d-b51a-6e86ee92dfb8
+    name: The GrooveGrass Boyz
 biography_enhanced_at: '2025-12-29T01:11:08.119309'
 birth_date: '1939-02-01'
 birth_place: York
 enhancement_provider: perplexity
 entry_created: '2025-12-29T01:11:08.119321'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e61892d0-4ad2-474a-a5fa-479dc28075ed
-  spotify: https://open.spotify.com/artist/1yGXkI3DrirCcXv3uwJjGv
-  wikipedia: https://en.wikipedia.org/wiki/Del_McCoury
+  musicbrainz: 'https://musicbrainz.org/artist/e61892d0-4ad2-474a-a5fa-479dc28075ed'
+  spotify: 'https://open.spotify.com/artist/1yGXkI3DrirCcXv3uwJjGv'
+  wikipedia: 'https://en.wikipedia.org/wiki/Del_McCoury'
 gender: Male
 genres:
-- bluegrass
-- newgrass
+  - bluegrass
+  - newgrass
 image_path: 03_Resources/source_material/ArtistPortraits/del_mccoury.jpg
 instruments:
-- eponymous
-- original
-- guitar
-- acoustic guitar
-- baritone vocals
-- lead vocals
-- tenor vocals
-- background vocals
-- spoken vocals
+  - eponymous
+  - original
+  - guitar
+  - acoustic guitar
+  - baritone vocals
+  - lead vocals
+  - tenor vocals
+  - background vocals
+  - spoken vocals
 last_updated: '2025-12-29T01:11:08.119322'
 musical_connections:
   collaborators:
-  - Ronnie McCoury
-  - Rob McCoury
-  - Jason Carter
-  - Mike Bub
-  - Steve Earle
-  - Jack Cooke
+    - Ronnie McCoury
+    - Rob McCoury
+    - Jason Carter
+    - Mike Bub
+    - Steve Earle
+    - Jack Cooke
   influenced:
-  - Ronnie McCoury
-  - Rob McCoury
-  - Contemporary bluegrass and Americana artists (various)
+    - Ronnie McCoury
+    - Rob McCoury
+    - Contemporary bluegrass and Americana artists (various)
   mentors:
-  - Bill Monroe
-  - Earl Scruggs
+    - Bill Monroe
+    - Earl Scruggs
 musicbrainz_id: e61892d0-4ad2-474a-a5fa-479dc28075ed
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Del_McCoury
-- https://www.bluegrasshall.org/inductees/delano-floyd-del-mccoury/
-- https://www.opry.com/artists/del-mccoury
-- https://www.delmccouryband.com/about-1
-- https://www.arts.gov/honors/heritage/del-mccoury
-- https://www.bmi.com/news/entry/20010717del_mccoury_band_del_mccoury_band
+  - 'https://en.wikipedia.org/wiki/Del_McCoury'
+  - 'https://www.bluegrasshall.org/inductees/delano-floyd-del-mccoury/'
+  - 'https://www.opry.com/artists/del-mccoury'
+  - 'https://www.delmccouryband.com/about-1'
+  - 'https://www.arts.gov/honors/heritage/del-mccoury'
+  - 'https://www.bmi.com/news/entry/20010717del_mccoury_band_del_mccoury_band'
 spotify_data:
   followers: 30174
   id: 1yGXkI3DrirCcXv3uwJjGv
   popularity: 30
-  url: https://open.spotify.com/artist/1yGXkI3DrirCcXv3uwJjGv
+  url: 'https://open.spotify.com/artist/1yGXkI3DrirCcXv3uwJjGv'
 status: active
 tags:
-- american
-- bluegrass
-- country
-title: DEL MCCOURY
-
+  - american
+  - bluegrass
+  - country
+title: Del McCoury
+origin: 'York County, Pennsylvania, United States'
 ---
 
 ![](del_mccoury.jpg)

@@ -1,74 +1,75 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '1980'
-  end: '1981'
-  instruments:
-  - lead vocals
-  - original
-  mbid: e2a9256a-d96a-4347-b480-aacf5a3495d6
-  name: Emmy & the Emmys
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: df19b09e-a53f-4d7f-b364-5ae4b05e6c4a
-  name: Breakfast Club
+  - begin: '1980'
+    end: '1981'
+    instruments:
+      - lead vocals
+      - original
+    mbid: e2a9256a-d96a-4347-b480-aacf5a3495d6
+    name: Emmy & the Emmys
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: df19b09e-a53f-4d7f-b364-5ae4b05e6c4a
+    name: Breakfast Club
 biography_enhanced_at: '2026-01-20T01:31:32.764824'
 birth_date: '1958-08-16'
-birth_place: Bay City
+birth_place: 'Bay City, Michigan, United States'
 disambiguation: “Queen of Pop”
 enhancement_provider: perplexity
 entry_created: '2026-01-20T01:31:32.764831'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/79239441-bfd5-4981-a70c-55c3f15c1287
-  spotify: https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW
-  wikipedia: https://en.wikipedia.org/wiki/Madonna
+  musicbrainz: 'https://musicbrainz.org/artist/79239441-bfd5-4981-a70c-55c3f15c1287'
+  spotify: 'https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW'
+  wikipedia: 'https://en.wikipedia.org/wiki/Madonna'
 gender: Female
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/madonna.jpg
 instruments:
-- lead vocals
-- original
-- acoustic guitar
-- spoken vocals
-- background vocals
-- choir vocals
+  - lead vocals
+  - original
+  - acoustic guitar
+  - spoken vocals
+  - background vocals
+  - choir vocals
 last_updated: '2026-01-20T01:31:32.764831'
 musical_connections:
   collaborators:
-  - Stephen Bray
-  - Dan Gilroy
-  - Mark Kamins
-  - M.I.A.
-  - Nicki Minaj
-  - Diplo
-  - Kanye West
-  - Chance the Rapper
+    - Stephen Bray
+    - Dan Gilroy
+    - Mark Kamins
+    - M.I.A.
+    - Nicki Minaj
+    - Diplo
+    - Kanye West
+    - Chance the Rapper
   influenced: []
   mentors:
-  - Alvin Ailey American Dance Theater
-  - Pearl Lang
-  - Camille Barbone
-  - William Orbit
+    - Alvin Ailey American Dance Theater
+    - Pearl Lang
+    - Camille Barbone
+    - William Orbit
 musicbrainz_id: 79239441-bfd5-4981-a70c-55c3f15c1287
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Madonna
-- https://www.biography.com/musicians/madonna
-- https://www.hellomagazine.com/profiles/20091008951/madonna/
-- https://www.britannica.com/biography/Madonna-American-singer-and-actress
-- https://www.detroithistorical.org/learn/online-research/encyclopedia-of-detroit/madonna
+  - 'https://en.wikipedia.org/wiki/Madonna'
+  - 'https://www.biography.com/musicians/madonna'
+  - 'https://www.hellomagazine.com/profiles/20091008951/madonna/'
+  - 'https://www.britannica.com/biography/Madonna-American-singer-and-actress'
+  - >-
+    https://www.detroithistorical.org/learn/online-research/encyclopedia-of-detroit/madonna
 spotify_data:
   followers: 8993562
   id: 6tbjWDEIzxoDsBA1FuhfPW
   popularity: 82
-  url: https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW
+  url: 'https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW'
 status: active
 tags:
-- adult contemporary
-- adult contemporary music
-- art pop
+  - adult contemporary
+  - adult contemporary music
+  - art pop
 title: Madonna
 ---
 

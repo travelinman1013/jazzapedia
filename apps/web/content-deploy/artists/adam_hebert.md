@@ -5,27 +5,27 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1923'
-birth_place: Iberia Parish
+birth_place: 'Iberia Parish, Louisiana, United States'
 death_date: '2010-10-11'
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 instruments:
-- eponymous
-- original
-associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1df9f22c-2c32-4fbe-bad7-e7ede83b5ccf
-  name: The Veteran Playboys
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
-  mbid: 91b95dca-38fa-4c9b-b1cb-cd7d3e0ebae5
-  name: Adam Hebert and the Country Playboys
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1df9f22c-2c32-4fbe-bad7-e7ede83b5ccf
+    name: The Veteran Playboys
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 91b95dca-38fa-4c9b-b1cb-cd7d3e0ebae5
+    name: Adam Hebert and the Country Playboys
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/adam_hebert.jpg
   caption: Adam Hebert
@@ -54,33 +54,40 @@ spotify_data:
   followers: 241
   id: 1Pk3xkdegXmNmCiy93Q2af
   popularity: 2
-  url: https://open.spotify.com/artist/1Pk3xkdegXmNmCiy93Q2af
+  url: 'https://open.spotify.com/artist/1Pk3xkdegXmNmCiy93Q2af'
 discography_enriched: true
 top_tracks:
-- 'I Am so Lonely (Louisiana Cajun Music Special: Bon temps rouler)'
-- La Pointe Au Pain (Cajun Saturday Night)
-- Je suis après m'ennuyer (The Essential Adam Hebert Cajun Music Collection)
-- ('Tit galop pour) La pointe aux pins (The Essential Adam Hebert Cajun Music Collection)
-- Le moulin (The Essential Adam Hebert Cajun Music Collection)
-- Mon tour va venir (The Essential Adam Hebert Cajun Music Collection)
-- Jolie Fille Special (The Essential Adam Hebert Cajun Music Collection)
-- Je peux pas dormer le soir (The Essential Adam Hebert Cajun Music Collection)
-- Ouvre cette porte (The Essential Adam Hebert Cajun Music Collection)
-- Rosalie (The Essential Adam Hebert Cajun Music Collection)
+  - 'I Am so Lonely (Louisiana Cajun Music Special: Bon temps rouler)'
+  - La Pointe Au Pain (Cajun Saturday Night)
+  - Je suis après m'ennuyer (The Essential Adam Hebert Cajun Music Collection)
+  - >-
+    ('Tit galop pour) La pointe aux pins (The Essential Adam Hebert Cajun Music
+    Collection)
+  - Le moulin (The Essential Adam Hebert Cajun Music Collection)
+  - Mon tour va venir (The Essential Adam Hebert Cajun Music Collection)
+  - Jolie Fille Special (The Essential Adam Hebert Cajun Music Collection)
+  - >-
+    Je peux pas dormer le soir (The Essential Adam Hebert Cajun Music
+    Collection)
+  - Ouvre cette porte (The Essential Adam Hebert Cajun Music Collection)
+  - Rosalie (The Essential Adam Hebert Cajun Music Collection)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1f9bc960-b450-4e7a-b797-de10aa854aba
-  spotify: https://open.spotify.com/artist/1Pk3xkdegXmNmCiy93Q2af
+  musicbrainz: 'https://musicbrainz.org/artist/1f9bc960-b450-4e7a-b797-de10aa854aba'
+  spotify: 'https://open.spotify.com/artist/1Pk3xkdegXmNmCiy93Q2af'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/adam_hebert.jpg
 biography_enhanced_at: '2025-12-08T04:21:33.711291'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://flattownmusic.com/artist/adam-hebert/
-- https://www.louisianamusicfactory.com/product/adam-hebert-the-essential-cajun-music-collection/
-- https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/ahebert.htm.html
-- https://acadianaprofile.com/decembers-festivals-acadiens-et-creoles-legacy-series-feature-adam-hebert/
-- http://homoerraticradioshow.blogspot.com/2014/05/adam-hebert.html
+  - 'https://flattownmusic.com/artist/adam-hebert/'
+  - >-
+    https://www.louisianamusicfactory.com/product/adam-hebert-the-essential-cajun-music-collection/
+  - >-
+    https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/ahebert.htm.html
+  - >-
+    https://acadianaprofile.com/decembers-festivals-acadiens-et-creoles-legacy-series-feature-adam-hebert/
+  - 'http://homoerraticradioshow.blogspot.com/2014/05/adam-hebert.html'
 network_extracted: true
 entry_created: '2025-12-08T04:21:33.711299'
 last_updated: '2025-12-23T08:16:04.386763'
@@ -88,7 +95,9 @@ disambiguation: Cajun musician
 gender: Male
 musicbrainz_id: 1f9bc960-b450-4e7a-b797-de10aa854aba
 tags:
-- cajun
+  - cajun
+is_active: false
+origin: 'Church Point, Acadia Parish, Louisiana, United States'
 ---
 
 ![](adam_hebert.jpg)

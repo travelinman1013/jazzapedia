@@ -3,20 +3,20 @@ title: Patti Drew
 wiki_slug: patti-drew
 schema_version: 2
 status: active
-birth_place: Charleston, South Carolina, USA
+birth_place: 'Charleston, South Carolina, USA'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/patti_drew.jpg
   caption: Patti Drew
   background: solo_singer
-  origin: Charleston, South Carolina, USA
+  origin: 'Charleston, South Carolina, USA'
 audio_profile:
   tempo_avg: 114.1
   energy_avg: 0.597
   valence_avg: 0.838
   danceability_avg: 0.546
   acousticness_avg: 0.459
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -8.5
   speechiness_avg: 0.046
   liveness_avg: 0.225
@@ -25,48 +25,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lorraine Drew
-  - Erma Drew
-  - Carlton Black
-  - Fontella Bass
+    - Lorraine Drew
+    - Erma Drew
+    - Carlton Black
+    - Fontella Bass
   influenced:
-  - The 5th Dimension
-  - Chicano oldies artists and soul collectors
+    - The 5th Dimension
+    - Chicano oldies artists and soul collectors
   mentors:
-  - Maurice Lathouwers
+    - Maurice Lathouwers
 spotify_data:
   followers: 13633
   id: 6CADfReW3qshQNGQ4yPf6c
   popularity: 36
-  url: https://open.spotify.com/artist/6CADfReW3qshQNGQ4yPf6c
+  url: 'https://open.spotify.com/artist/6CADfReW3qshQNGQ4yPf6c'
 discography_enriched: true
 top_tracks:
-- Tell Him (Workin' On A Groovy Thing....The Best Of)
-- Workin' On A Groovy Thing (Workin' On A Groovy Thing....The Best Of)
-- Hard To Handle (Workin' On A Groovy Thing....The Best Of)
-- Fever (Workin' On A Groovy Thing....The Best Of)
-- 'Turn Away From Me (The Soul Of Capitol Records: Rare & Well-Done)'
-- He's The One (Workin' On A Groovy Thing....The Best Of)
-- Beggar For The Blues (Workin' On A Groovy Thing....The Best Of)
-- Stop And Listen (Workin' On A Groovy Thing....The Best Of)
-- Hard To Handle (Mama's Got A Bag Of Her Own)
-- Tell Him (Maquina Del Tiempo | 60's)
+  - Tell Him (Workin' On A Groovy Thing....The Best Of)
+  - Workin' On A Groovy Thing (Workin' On A Groovy Thing....The Best Of)
+  - Hard To Handle (Workin' On A Groovy Thing....The Best Of)
+  - Fever (Workin' On A Groovy Thing....The Best Of)
+  - 'Turn Away From Me (The Soul Of Capitol Records: Rare & Well-Done)'
+  - He's The One (Workin' On A Groovy Thing....The Best Of)
+  - Beggar For The Blues (Workin' On A Groovy Thing....The Best Of)
+  - Stop And Listen (Workin' On A Groovy Thing....The Best Of)
+  - Hard To Handle (Mama's Got A Bag Of Her Own)
+  - Tell Him (Maquina Del Tiempo | 60's)
 external_urls:
-  spotify: https://open.spotify.com/artist/6CADfReW3qshQNGQ4yPf6c
-  wikipedia: https://en.wikipedia.org/wiki/Patti_Drew
+  spotify: 'https://open.spotify.com/artist/6CADfReW3qshQNGQ4yPf6c'
+  wikipedia: 'https://en.wikipedia.org/wiki/Patti_Drew'
 image_path: 03_Resources/source_material/ArtistPortraits/patti_drew.jpg
 biography_enhanced_at: '2025-11-08T21:57:55.279850'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Patti_Drew
-- https://shorefrontjournal.wordpress.com/2013/08/24/now-everybody-knows-patti-drew-in-the-butler/
-- https://www.soulpublications.co/blog/patti-drew-tell-em-dies-80-2025-rnb-soul
-- https://www.aaemusic.com/artist/patti-drew
-- https://www.openpr.com/news/4074661/remembering-patti-drew-december-29th-1949-june-16th-2025
+  - 'https://en.wikipedia.org/wiki/Patti_Drew'
+  - >-
+    https://shorefrontjournal.wordpress.com/2013/08/24/now-everybody-knows-patti-drew-in-the-butler/
+  - >-
+    https://www.soulpublications.co/blog/patti-drew-tell-em-dies-80-2025-rnb-soul
+  - 'https://www.aaemusic.com/artist/patti-drew'
+  - >-
+    https://www.openpr.com/news/4074661/remembering-patti-drew-december-29th-1949-june-16th-2025
 network_extracted: true
 entry_created: '2025-11-08T21:57:55.279865'
 last_updated: '2025-12-23T08:16:14.019699'
+birth_date: '1944-12-29'
+death_date: '2025-06-16'
+artist_type: person
 ---
 
 ![](patti_drew.jpg)

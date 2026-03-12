@@ -1,71 +1,74 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7abbcddb-6222-4edd-98ff-663d7df8f2db
-  name: FLYamSAM
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 6f6ec17f-eeb2-4a3d-8ced-dcb2421a6ef7
-  name: WOKE
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7abbcddb-6222-4edd-98ff-663d7df8f2db
+    name: FLYamSAM
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 6f6ec17f-eeb2-4a3d-8ced-dcb2421a6ef7
+    name: WOKE
 biography_enhanced_at: '2026-01-07T01:15:23.632803'
 birth_date: '1983-10-07'
-birth_place: Los Angeles
+birth_place: 'Los Angeles, California, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-07T01:15:23.632809'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/fc7376fe-1a6f-4414-b4a7-83f50ed59c92
-  spotify: https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793
+  musicbrainz: 'https://musicbrainz.org/artist/fc7376fe-1a6f-4414-b4a7-83f50ed59c92'
+  spotify: 'https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793'
   wikipedia: ''
 gender: Male
 genres:
-- idm
-- experimental hip hop
-- nu jazz
-- glitch
+  - idm
+  - experimental hip hop
+  - nu jazz
+  - glitch
 image_path: 03_Resources/source_material/ArtistPortraits/flying_lotus.jpg
 instruments:
-- original
-- background vocals
-- lead vocals
+  - original
+  - background vocals
+  - lead vocals
 last_updated: '2026-01-07T01:15:23.632810'
 musical_connections:
   collaborators:
-  - Thundercat
-  - Miguel Atwood-Ferguson
-  - Ravi Coltrane
-  - Kendrick Lamar
-  - Laura Darlington
+    - Thundercat
+    - Miguel Atwood-Ferguson
+    - Ravi Coltrane
+    - Kendrick Lamar
+    - Laura Darlington
   influenced: []
   mentors:
-  - J Dilla
-  - Madlib
-  - Dabrye
+    - J Dilla
+    - Madlib
+    - Dabrye
 musicbrainz_id: fc7376fe-1a6f-4414-b4a7-83f50ed59c92
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.insomniac.com/music/artists/flying-lotus/
-- https://www.lafilm.edu/blog/flying-lotus-is-everywhere-right-now/
-- https://www.imdb.com/name/nm2196468/
-- https://daily.redbullmusicacademy.com/2017/12/flying-lotus-bedroom-beats-to-the-big-screen
-- https://www.carnegiehall.org/Explore/Articles/2022/02/08/Flying-Lotus-An-Apex-of-Electronic-Music-Mastery
-- https://www.fandango.com/people/flying-lotus-217970/biography
+  - 'https://www.insomniac.com/music/artists/flying-lotus/'
+  - 'https://www.lafilm.edu/blog/flying-lotus-is-everywhere-right-now/'
+  - 'https://www.imdb.com/name/nm2196468/'
+  - >-
+    https://daily.redbullmusicacademy.com/2017/12/flying-lotus-bedroom-beats-to-the-big-screen
+  - >-
+    https://www.carnegiehall.org/Explore/Articles/2022/02/08/Flying-Lotus-An-Apex-of-Electronic-Music-Mastery
+  - 'https://www.fandango.com/people/flying-lotus-217970/biography'
 spotify_data:
   followers: 835640
   id: 29XOeO6KIWxGthejQqn793
   popularity: 53
-  url: https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793
+  url: 'https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793'
 status: active
 tags:
-- alternative hip hop
-- beatgen
-- beats
+  - alternative hip hop
+  - beatgen
+  - beats
 title: Flying Lotus
+origin: 'Los Angeles, California, United States'
 ---
 
 ![](flying_lotus.jpg)

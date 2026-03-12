@@ -1,155 +1,155 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-03T01:46:52.054923'
 birth_date: '1969'
 enhancement_provider: perplexity
 entry_created: '2026-01-03T01:46:52.054934'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/696989bc-c9a8-4ba8-a99b-b8015dba577f
-  spotify: https://open.spotify.com/artist/2CxLP749mup3ncPrXgCnvU
+  musicbrainz: 'https://musicbrainz.org/artist/696989bc-c9a8-4ba8-a99b-b8015dba577f'
+  spotify: 'https://open.spotify.com/artist/2CxLP749mup3ncPrXgCnvU'
   wikipedia: ''
 genres:
-- blues rock
+  - blues rock
 image_path: 03_Resources/source_material/ArtistPortraits/humble_pie.jpg
 instruments:
-- lead vocals
-- original
-- background vocals
-- guitar
-- bass guitar
-- drums (drum set)
+  - lead vocals
+  - original
+  - background vocals
+  - guitar
+  - bass guitar
+  - drums (drum set)
 last_updated: '2026-01-03T01:46:52.054936'
 members:
-- begin: '1969'
-  end: '1971'
-  instruments:
-  - lead vocals
-  - original
-  mbid: 638206ee-0e3d-47cf-9769-d73330b15a87
-  name: Peter Frampton
-- begin: '1969'
-  end: '1971'
-  instruments:
-  - background vocals
-  - original
-  mbid: 638206ee-0e3d-47cf-9769-d73330b15a87
-  name: Peter Frampton
-- begin: '1969'
-  end: '1971'
-  instruments:
-  - guitar
-  - original
-  mbid: 638206ee-0e3d-47cf-9769-d73330b15a87
-  name: Peter Frampton
-- begin: '1969'
-  end: '1983'
-  instruments:
-  - lead vocals
-  - original
-  mbid: 380181bc-9bcf-4933-97ac-38aee6940445
-  name: Steve Marriott
-- begin: '1969'
-  end: '1983'
-  instruments:
-  - background vocals
-  - original
-  mbid: 380181bc-9bcf-4933-97ac-38aee6940445
-  name: Steve Marriott
-- begin: '1969'
-  end: '1983'
-  instruments:
-  - guitar
-  - original
-  mbid: 380181bc-9bcf-4933-97ac-38aee6940445
-  name: Steve Marriott
-- begin: '1969'
-  end: '1983'
-  instruments:
-  - lead vocals
-  - original
-  mbid: b1ea08fc-74b2-4c60-8597-ce406a2344fa
-  name: Greg Ridley
-- begin: '1969'
-  end: '1983'
-  instruments:
-  - background vocals
-  - original
-  mbid: b1ea08fc-74b2-4c60-8597-ce406a2344fa
-  name: Greg Ridley
-- begin: '1969'
-  end: '1983'
-  instruments:
-  - bass guitar
-  - original
-  mbid: b1ea08fc-74b2-4c60-8597-ce406a2344fa
-  name: Greg Ridley
-- begin: '1969'
-  end: '1983'
-  instruments:
-  - drums (drum set)
-  - original
-  mbid: e8ee275e-8ce8-4963-95da-56385036e1ec
-  name: Jerry Shirley
-- begin: '1971'
-  end: '1975'
-  instruments: []
-  mbid: e5729b68-b423-4b39-ab37-59921bad10e8
-  name: Clem Clempson
-- begin: '1979'
-  end: '1981'
-  instruments: []
-  mbid: 00e90ad4-9cde-4e86-af92-749e2475ad24
-  name: Bobby Tench
-- begin: '1988'
-  end: '2002'
-  instruments: []
-  mbid: e8ee275e-8ce8-4963-95da-56385036e1ec
-  name: Jerry Shirley
-- begin: '2001'
-  end: '2002'
-  instruments: []
-  mbid: b1ea08fc-74b2-4c60-8597-ce406a2344fa
-  name: Greg Ridley
-- begin: '2001'
-  end: '2002'
-  instruments: []
-  mbid: 00e90ad4-9cde-4e86-af92-749e2475ad24
-  name: Bobby Tench
+  - begin: '1969'
+    end: '1971'
+    instruments:
+      - lead vocals
+      - original
+    mbid: 638206ee-0e3d-47cf-9769-d73330b15a87
+    name: Peter Frampton
+  - begin: '1969'
+    end: '1971'
+    instruments:
+      - background vocals
+      - original
+    mbid: 638206ee-0e3d-47cf-9769-d73330b15a87
+    name: Peter Frampton
+  - begin: '1969'
+    end: '1971'
+    instruments:
+      - guitar
+      - original
+    mbid: 638206ee-0e3d-47cf-9769-d73330b15a87
+    name: Peter Frampton
+  - begin: '1969'
+    end: '1983'
+    instruments:
+      - lead vocals
+      - original
+    mbid: 380181bc-9bcf-4933-97ac-38aee6940445
+    name: Steve Marriott
+  - begin: '1969'
+    end: '1983'
+    instruments:
+      - background vocals
+      - original
+    mbid: 380181bc-9bcf-4933-97ac-38aee6940445
+    name: Steve Marriott
+  - begin: '1969'
+    end: '1983'
+    instruments:
+      - guitar
+      - original
+    mbid: 380181bc-9bcf-4933-97ac-38aee6940445
+    name: Steve Marriott
+  - begin: '1969'
+    end: '1983'
+    instruments:
+      - lead vocals
+      - original
+    mbid: b1ea08fc-74b2-4c60-8597-ce406a2344fa
+    name: Greg Ridley
+  - begin: '1969'
+    end: '1983'
+    instruments:
+      - background vocals
+      - original
+    mbid: b1ea08fc-74b2-4c60-8597-ce406a2344fa
+    name: Greg Ridley
+  - begin: '1969'
+    end: '1983'
+    instruments:
+      - bass guitar
+      - original
+    mbid: b1ea08fc-74b2-4c60-8597-ce406a2344fa
+    name: Greg Ridley
+  - begin: '1969'
+    end: '1983'
+    instruments:
+      - drums (drum set)
+      - original
+    mbid: e8ee275e-8ce8-4963-95da-56385036e1ec
+    name: Jerry Shirley
+  - begin: '1971'
+    end: '1975'
+    instruments: []
+    mbid: e5729b68-b423-4b39-ab37-59921bad10e8
+    name: Clem Clempson
+  - begin: '1979'
+    end: '1981'
+    instruments: []
+    mbid: 00e90ad4-9cde-4e86-af92-749e2475ad24
+    name: Bobby Tench
+  - begin: '1988'
+    end: '2002'
+    instruments: []
+    mbid: e8ee275e-8ce8-4963-95da-56385036e1ec
+    name: Jerry Shirley
+  - begin: '2001'
+    end: '2002'
+    instruments: []
+    mbid: b1ea08fc-74b2-4c60-8597-ce406a2344fa
+    name: Greg Ridley
+  - begin: '2001'
+    end: '2002'
+    instruments: []
+    mbid: 00e90ad4-9cde-4e86-af92-749e2475ad24
+    name: Bobby Tench
 musical_connections:
   collaborators:
-  - Steve Marriott
-  - Peter Frampton
-  - Greg Ridley
-  - Jerry Shirley
-  - Dave Clempson
-  - The Blackberries (incl. Venetta Fields)
-  - Bobby Tench
+    - Steve Marriott
+    - Peter Frampton
+    - Greg Ridley
+    - Jerry Shirley
+    - Dave Clempson
+    - The Blackberries (incl. Venetta Fields)
+    - Bobby Tench
   influenced:
-  - Led Zeppelin
-  - Various rock and metal bands
+    - Led Zeppelin
+    - Various rock and metal bands
   mentors:
-  - Glyn Johns
+    - Glyn Johns
 musicbrainz_id: 696989bc-c9a8-4ba8-a99b-b8015dba577f
 network_extracted: true
-origin: Moreton
+origin: 'Moreton, Essex, England'
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Humble+Pie/+wiki
-- https://shindig-magazine.com/?p=7400
-- https://www.loudersound.com/features/humble-pie-story
-- https://humblepieofficial.com/bio/
-- https://www.allmusic.com/artist/humble-pie-mn0000805661
+  - 'https://www.last.fm/music/Humble+Pie/+wiki'
+  - 'https://shindig-magazine.com/?p=7400'
+  - 'https://www.loudersound.com/features/humble-pie-story'
+  - 'https://humblepieofficial.com/bio/'
+  - 'https://www.allmusic.com/artist/humble-pie-mn0000805661'
 spotify_data:
   followers: 367456
   id: 2CxLP749mup3ncPrXgCnvU
   popularity: 42
-  url: https://open.spotify.com/artist/2CxLP749mup3ncPrXgCnvU
+  url: 'https://open.spotify.com/artist/2CxLP749mup3ncPrXgCnvU'
 status: active
 tags:
-- 2008 universal fire victim
-- blues rock
-- boogie rock
-title: humble pie
+  - 2008 universal fire victim
+  - blues rock
+  - boogie rock
+title: Humble Pie
 ---
 
 ![](humble_pie.jpg)

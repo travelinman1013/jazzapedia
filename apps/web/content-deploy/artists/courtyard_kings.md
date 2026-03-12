@@ -1,5 +1,5 @@
 ---
-title: Courtyard Kings
+title: The Courtyard Kings
 wiki_slug: courtyard-kings
 schema_version: 2
 status: active
@@ -29,32 +29,33 @@ spotify_data:
   followers: 333
   id: 4KWXQXPxfdIpt0Dy5OCVJo
   popularity: 2
-  url: https://open.spotify.com/artist/4KWXQXPxfdIpt0Dy5OCVJo
+  url: 'https://open.spotify.com/artist/4KWXQXPxfdIpt0Dy5OCVJo'
 discography_enriched: true
 top_tracks:
-- Spinning (Courtyard)
-- 19 (Courtyard)
-- Feel (Courtyard)
-- For a Minute (Courtyard)
-- Windows (Courtyard)
-- $2 Bill (Courtyard)
-- 11:30 (Courtyard)
-- $2 Bill ($2 Bill)
-- 11:30 (11:30)
-- Show Me Dog (Interlude) (Courtyard)
+  - Spinning (Courtyard)
+  - 19 (Courtyard)
+  - Feel (Courtyard)
+  - For a Minute (Courtyard)
+  - Windows (Courtyard)
+  - $2 Bill (Courtyard)
+  - '11:30 (Courtyard)'
+  - $2 Bill ($2 Bill)
+  - '11:30 (11:30)'
+  - Show Me Dog (Interlude) (Courtyard)
 external_urls:
-  spotify: https://open.spotify.com/artist/4KWXQXPxfdIpt0Dy5OCVJo
+  spotify: 'https://open.spotify.com/artist/4KWXQXPxfdIpt0Dy5OCVJo'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/courtyard_kings.jpg
 biography_enhanced_at: '2025-11-15T18:11:40.535825'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://open.spotify.com/artist/0lmVWQ1lajB7VoVQtPMOmt
-- https://music.metason.net/artistinfo?name=The+Courtyard+Kings
+  - 'https://open.spotify.com/artist/0lmVWQ1lajB7VoVQtPMOmt'
+  - 'https://music.metason.net/artistinfo?name=The+Courtyard+Kings'
 network_extracted: true
 entry_created: '2025-11-15T18:11:40.535836'
 last_updated: '2025-12-23T08:16:07.245893'
+artist_type: band
 ---
 
 ![](courtyard_kings.jpg)

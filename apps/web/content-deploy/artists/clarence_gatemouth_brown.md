@@ -1,53 +1,58 @@
 ---
 biography_enhanced_at: '2026-01-22T07:11:55.296345'
-birth_place: Vinton, Louisiana, United States (birthplace); Orange, Texas, United
-  States (raised)
+birth_place: >-
+  Vinton, Louisiana, United States (birthplace); Orange, Texas, United States
+  (raised)
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:11:55.296351'
 external_urls:
-  spotify: https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo
+  spotify: 'https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo'
   wikipedia: Not found in search results
 genres:
-- blues
-- classic blues
-- modern blues
-- zydeco
-- blues rock
+  - blues
+  - classic blues
+  - modern blues
+  - zydeco
+  - blues rock
 image_path: 03_Resources/source_material/ArtistPortraits/clarence_gatemouth_brown.jpg
 last_updated: '2026-01-22T07:11:55.296352'
 musical_connections:
   collaborators:
-  - Don Robey
-  - Roy Clark
-  - Jim Halsey
+    - Don Robey
+    - Roy Clark
+    - Jim Halsey
   influenced:
-  - Guitar Slim
-  - Albert Collins
-  - Johnny 'Guitar' Watson
-  - Jimi Hendrix
-  - Buddy Guy
-  - Stevie Ray Vaughan
+    - Guitar Slim
+    - Albert Collins
+    - Johnny 'Guitar' Watson
+    - Jimi Hendrix
+    - Buddy Guy
+    - Stevie Ray Vaughan
   mentors:
-  - T-Bone Walker
-  - Louis Jordan
-  - Brown's Father
+    - T-Bone Walker
+    - Louis Jordan
+    - Brown's Father
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.tshaonline.org/handbook/entries/brown-clarence-gatemouth
-- https://www.allaboutjazz.com/musicians/clarence-gatemouth-brown/
-- https://www.alligator.com/artists/Clarence-Gatemouth-Brown/
-- https://mojohand.com/glossary/clarence-gatemouth-brown/
-- https://earlyblues.org/in-memoriam-clarence-gatemouth-brown/
-- https://wiki.killuglyradio.com/wiki/Clarence_%22Gatemouth%22_Brown
-- https://michaelcorcoran.substack.com/p/on-the-centennial-of-clarence-gatemouth
+  - 'https://www.tshaonline.org/handbook/entries/brown-clarence-gatemouth'
+  - 'https://www.allaboutjazz.com/musicians/clarence-gatemouth-brown/'
+  - 'https://www.alligator.com/artists/Clarence-Gatemouth-Brown/'
+  - 'https://mojohand.com/glossary/clarence-gatemouth-brown/'
+  - 'https://earlyblues.org/in-memoriam-clarence-gatemouth-brown/'
+  - 'https://wiki.killuglyradio.com/wiki/Clarence_%22Gatemouth%22_Brown'
+  - >-
+    https://michaelcorcoran.substack.com/p/on-the-centennial-of-clarence-gatemouth
 spotify_data:
   followers: 74220
   id: 4aoS04mCVj1CMam1LiHngo
   popularity: 35
-  url: https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo
+  url: 'https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo'
 status: active
 title: Clarence Gatemouth Brown
+birth_date: '1924-04-18'
+death_date: '2005-09-10'
+artist_type: person
 ---
 
 ![](clarence_gatemouth_brown.jpg)

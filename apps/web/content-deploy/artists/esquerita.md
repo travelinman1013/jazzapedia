@@ -1,16 +1,16 @@
 ---
-title: esquerita
+title: Esquerita
 wiki_slug: esquerita
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1935-11-20'
-birth_place: Greenville
+birth_place: 'Greenville, South Carolina, United States'
 death_date: '1986-10-23'
 genres:
-- rockabilly
+  - rockabilly
 instruments:
-- piano
+  - piano
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/esquerita.jpg
   caption: esquerita
@@ -33,61 +33,66 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Heavenly Echoes
-  - Paul Peek (of Gene Vincent’s band)
-  - Gene Vincent
-  - Idris Muhammad
-  - Lloyd Price and Fats Domino
-  - Little Richard
-  - Miriam Linna and Billy Miller (*Kicks* magazine)
+    - Heavenly Echoes
+    - Paul Peek (of Gene Vincent’s band)
+    - Gene Vincent
+    - Idris Muhammad
+    - Lloyd Price and Fats Domino
+    - Little Richard
+    - Miriam Linna and Billy Miller (*Kicks* magazine)
   influenced:
-  - Little Richard
-  - Subsequent flamboyant rock and soul performers (e.g., Prince, Elton John – noted by historians)
+    - Little Richard
+    - >-
+      Subsequent flamboyant rock and soul performers (e.g., Prince, Elton John –
+      noted by historians)
   mentors:
-  - Black gospel church tradition (Tabernacle Baptist Church, Greenville)
-  - Little Sister Rosa and Brother Joe May
+    - 'Black gospel church tradition (Tabernacle Baptist Church, Greenville)'
+    - Little Sister Rosa and Brother Joe May
 spotify_data:
   followers: 4031
   id: 4QAZXcBUMXVHvax33uG7XL
   popularity: 12
-  url: https://open.spotify.com/artist/4QAZXcBUMXVHvax33uG7XL
+  url: 'https://open.spotify.com/artist/4QAZXcBUMXVHvax33uG7XL'
 discography_enriched: true
 top_tracks:
-- Rockin the Joint (Crazy Crazy Feelin)
-- Rockin' The Joint (Rockin’ The Joint)
-- Hey Miss Lucy (Esquerita!)
-- Esquerita And The Voola (Rockin’ The Joint)
-- 'Sinner Man (Sinner Man: The Lost Session)'
-- Rockin' The Joint (Vintage Voola)
-- Believe Me When I Say Rock And Roll Is Here To Stay (Esquerita!)
-- Dew Drop Inn (Vintage Voola)
-- Crazy Crazy Feeling (Esquerita!)
-- Hole In My Heart (Esquerita!)
+  - Rockin the Joint (Crazy Crazy Feelin)
+  - Rockin' The Joint (Rockin’ The Joint)
+  - Hey Miss Lucy (Esquerita!)
+  - Esquerita And The Voola (Rockin’ The Joint)
+  - 'Sinner Man (Sinner Man: The Lost Session)'
+  - Rockin' The Joint (Vintage Voola)
+  - Believe Me When I Say Rock And Roll Is Here To Stay (Esquerita!)
+  - Dew Drop Inn (Vintage Voola)
+  - Crazy Crazy Feeling (Esquerita!)
+  - Hole In My Heart (Esquerita!)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4d33a9e0-f7c2-46ea-8666-7fb86a4f9edf
-  spotify: https://open.spotify.com/artist/4QAZXcBUMXVHvax33uG7XL
-  wikipedia: https://en.wikipedia.org/wiki/Esquerita
+  musicbrainz: 'https://musicbrainz.org/artist/4d33a9e0-f7c2-46ea-8666-7fb86a4f9edf'
+  spotify: 'https://open.spotify.com/artist/4QAZXcBUMXVHvax33uG7XL'
+  wikipedia: 'https://en.wikipedia.org/wiki/Esquerita'
 image_path: 03_Resources/source_material/ArtistPortraits/esquerita.jpg
 biography_enhanced_at: '2025-12-19T01:58:49.324315'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://countryqueer.com/stories/article/esquerita-the-flamboyant-lost-rock-n-roll-pioneer/
-- https://greenvillejournal.com/black-history-month/rockin-the-joint-with-esquerita-greenvilles-flamboyant-forgotten-rock-pioneer/
-- https://www.kcrw.com/stories/not-to-be-forgotten-the-outrageous-esquerita
-- https://www.soulcountry.net/post/esquerita-lost-rock-legend
-- https://greenvillemusicpreservation.org/esquirita/
-- https://lame-dog.com/2017/08/24/esquerita-a-back-seat-to-no-one/
-- https://en.wikipedia.org/wiki/Esquerita
+  - >-
+    https://countryqueer.com/stories/article/esquerita-the-flamboyant-lost-rock-n-roll-pioneer/
+  - >-
+    https://greenvillejournal.com/black-history-month/rockin-the-joint-with-esquerita-greenvilles-flamboyant-forgotten-rock-pioneer/
+  - 'https://www.kcrw.com/stories/not-to-be-forgotten-the-outrageous-esquerita'
+  - 'https://www.soulcountry.net/post/esquerita-lost-rock-legend'
+  - 'https://greenvillemusicpreservation.org/esquirita/'
+  - 'https://lame-dog.com/2017/08/24/esquerita-a-back-seat-to-no-one/'
+  - 'https://en.wikipedia.org/wiki/Esquerita'
 network_extracted: true
 entry_created: '2025-12-19T01:58:49.324325'
 last_updated: '2025-12-23T08:16:08.481305'
 gender: Male
 musicbrainz_id: 4d33a9e0-f7c2-46ea-8666-7fb86a4f9edf
 tags:
-- fats & his cats
-- r&b
-- rock and roll
+  - fats & his cats
+  - r&b
+  - rock and roll
+is_active: false
 ---
 
 ![](esquerita.jpg)

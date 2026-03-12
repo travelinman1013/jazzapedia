@@ -1,5 +1,5 @@
 ---
-title: Whip Appeal
+title: Babyface
 wiki_slug: whip-appeal
 schema_version: 2
 status: active
@@ -23,44 +23,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - L.A. Reid (Antonio Reid)
-  - Perri 'Pebbles' Reid
+    - L.A. Reid (Antonio Reid)
+    - Perri 'Pebbles' Reid
   influenced: []
   mentors:
-  - Bootsy Collins
+    - Bootsy Collins
 spotify_data:
   followers: 183
   id: 1CSnqo9fVpk8owUc6oPOes
   popularity: 3
-  url: https://open.spotify.com/artist/1CSnqo9fVpk8owUc6oPOes
+  url: 'https://open.spotify.com/artist/1CSnqo9fVpk8owUc6oPOes'
 discography_enriched: true
 top_tracks:
-- Blackberry (Shimmering Seed)
-- Turn Out To Be (Shimmering Seed)
-- Trying Like a Train (Shimmering Seed)
-- Get It On (Shimmering Seed)
-- State Bird (Shimmering Seed)
-- Cross My Heart (Shimmering Seed)
-- Take One For The Road (Shimmering Seed)
-- No Cowboys in Texas (Shimmering Seed)
-- Daisy Does (Shimmering Seed)
-- A Last Waltz (Shimmering Seed)
+  - Blackberry (Shimmering Seed)
+  - Turn Out To Be (Shimmering Seed)
+  - Trying Like a Train (Shimmering Seed)
+  - Get It On (Shimmering Seed)
+  - State Bird (Shimmering Seed)
+  - Cross My Heart (Shimmering Seed)
+  - Take One For The Road (Shimmering Seed)
+  - No Cowboys in Texas (Shimmering Seed)
+  - Daisy Does (Shimmering Seed)
+  - A Last Waltz (Shimmering Seed)
 external_urls:
-  spotify: https://open.spotify.com/artist/1CSnqo9fVpk8owUc6oPOes
-  wikipedia: https://en.wikipedia.org/wiki/Whip_Appeal
+  spotify: 'https://open.spotify.com/artist/1CSnqo9fVpk8owUc6oPOes'
+  wikipedia: 'https://en.wikipedia.org/wiki/Whip_Appeal'
 image_path: 03_Resources/source_material/ArtistPortraits/whip_appeal.jpg
 biography_enhanced_at: '2025-11-06T13:33:33.919636'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Whip Appeal
-- Wikipedia - Babyface (musician)
-- BlackPast.org - Kenneth Brian Edmonds
-- Encyclopedia.com - Kenneth Babyface Edmonds
-- Songfacts - Whip Appeal by Babyface
+  - Wikipedia - Whip Appeal
+  - Wikipedia - Babyface (musician)
+  - BlackPast.org - Kenneth Brian Edmonds
+  - Encyclopedia.com - Kenneth Babyface Edmonds
+  - Songfacts - Whip Appeal by Babyface
 network_extracted: true
 entry_created: '2025-11-06T13:33:33.919654'
 last_updated: '2025-12-23T08:16:18.099841'
+birth_place: 'Trenton, New Jersey, United States'
+origin: 'Not applicable - ''Whip Appeal'' is a song, not an artist'
+birth_date: '1959-08-14'
+artist_type: person
 ---
 
 ![](whip_appeal.jpg)

@@ -1,27 +1,27 @@
 ---
-title: GERALD WILSON ORCHESTRA
+title: Gerald Wilson Orchestra
 wiki_slug: gerald-wilson-orchestra
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- big band
-- exotica
-- hard bop
-- jazz
+  - big band
+  - exotica
+  - hard bop
+  - jazz
 instruments:
-- piano
-- flute
-- tenor saxophone
-- trombone
-- alto saxophone
-- soprano saxophone
-- trumpet
-- drums (drum set)
-- bass trombone
-- baritone saxophone
-- double bass
-- guitar
+  - piano
+  - flute
+  - tenor saxophone
+  - trombone
+  - alto saxophone
+  - soprano saxophone
+  - trumpet
+  - drums (drum set)
+  - bass trombone
+  - baritone saxophone
+  - double bass
+  - guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/gerald_wilson_orchestra.jpg
   caption: GERALD WILSON ORCHESTRA
@@ -41,243 +41,245 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jimmie Lunceford
-  - Melba Liston
-  - Snooky Young
-  - Joe Williams
-  - Benny Carter
-  - Les Hite
-  - Count Basie
-  - Dizzy Gillespie
-  - Duke Ellington
-  - Ella Fitzgerald, Sarah Vaughan, Nancy Wilson, Ray Charles
+    - Jimmie Lunceford
+    - Melba Liston
+    - Snooky Young
+    - Joe Williams
+    - Benny Carter
+    - Les Hite
+    - Count Basie
+    - Dizzy Gillespie
+    - Duke Ellington
+    - 'Ella Fitzgerald, Sarah Vaughan, Nancy Wilson, Ray Charles'
   influenced:
-  - Eric Dolphy
-  - Anthony Wilson
-  - Eric Otis
+    - Eric Dolphy
+    - Anthony Wilson
+    - Eric Otis
   mentors:
-  - Sy Oliver
-  - His mother
+    - Sy Oliver
+    - His mother
 spotify_data:
   followers: 1056
   id: 3uFJaB8DycK3ZlWTzY3d6A
   popularity: 6
-  url: https://open.spotify.com/artist/3uFJaB8DycK3ZlWTzY3d6A
+  url: 'https://open.spotify.com/artist/3uFJaB8DycK3ZlWTzY3d6A'
 discography_enriched: true
 top_tracks:
-- Restin' in Jail (McCann / Wilson)
-- Maleah (McCann / Wilson)
-- Stragler (McCann / Wilson)
-- Gus Gus (McCann / Wilson)
-- Kathleen's Theme (McCann / Wilson)
-- Could Be (McCann / Wilson)
-- Lot of Living to Do (McCann / Wilson)
-- Bailor the Wailer (McCann / Wilson)
-- California Soul (California Soul)
-- So What (Portraits)
+  - Restin' in Jail (McCann / Wilson)
+  - Maleah (McCann / Wilson)
+  - Stragler (McCann / Wilson)
+  - Gus Gus (McCann / Wilson)
+  - Kathleen's Theme (McCann / Wilson)
+  - Could Be (McCann / Wilson)
+  - Lot of Living to Do (McCann / Wilson)
+  - Bailor the Wailer (McCann / Wilson)
+  - California Soul (California Soul)
+  - So What (Portraits)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/53732191-7511-466e-b47f-872cb373e623
-  spotify: https://open.spotify.com/artist/3uFJaB8DycK3ZlWTzY3d6A
-  wikipedia: https://en.wikipedia.org/wiki/Gerald_Wilson
+  musicbrainz: 'https://musicbrainz.org/artist/53732191-7511-466e-b47f-872cb373e623'
+  spotify: 'https://open.spotify.com/artist/3uFJaB8DycK3ZlWTzY3d6A'
+  wikipedia: 'https://en.wikipedia.org/wiki/Gerald_Wilson'
 image_path: 03_Resources/source_material/ArtistPortraits/gerald_wilson_orchestra.jpg
 biography_enhanced_at: '2025-10-27T02:39:46.469419'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- LA Phil[1]
-- All About Jazz[2]
-- National Endowment for the Arts[3]
-- JazzTimes[4]
-- Summit Records[5]
-- African American Registry[6]
+  - 'LA Phil[1]'
+  - 'All About Jazz[2]'
+  - 'National Endowment for the Arts[3]'
+  - 'JazzTimes[4]'
+  - 'Summit Records[5]'
+  - 'African American Registry[6]'
 network_extracted: true
 entry_created: '2025-10-27T02:39:46.469444'
 last_updated: '2025-12-23T08:16:09.159148'
 members:
-- begin: '1981'
-  end: '1988'
-  instruments:
-  - piano
-  mbid: 7d950f7d-242a-4c34-adaf-4e0d43bb80fa
-  name: Harold Land, Jr.
-- begin: ''
-  end: ''
-  instruments:
-  - flute
-  mbid: eb0e3b85-cd28-4ebc-a3ee-6b0abd5afe51
-  name: Ron Blake
-- begin: ''
-  end: ''
-  instruments:
-  - tenor saxophone
-  mbid: eb0e3b85-cd28-4ebc-a3ee-6b0abd5afe51
-  name: Ron Blake
-- begin: ''
-  end: ''
-  instruments:
-  - trombone
-  mbid: 6898c847-dd8f-4c45-abf1-b6ec6ebbab38
-  name: Luis Bonilla
-- begin: ''
-  end: ''
-  instruments:
-  - alto saxophone
-  mbid: 836c1802-fd9e-4824-8fe0-ec8d69935e6f
-  name: Dustin Cicero
-- begin: ''
-  end: ''
-  instruments:
-  - flute
-  mbid: c84dd2ae-3ed5-4277-a2da-3c0ee8dac3c6
-  name: Jerry Dodgion
-- begin: ''
-  end: ''
-  instruments:
-  - soprano saxophone
-  mbid: c84dd2ae-3ed5-4277-a2da-3c0ee8dac3c6
-  name: Jerry Dodgion
-- begin: ''
-  end: ''
-  instruments:
-  - alto saxophone
-  mbid: c84dd2ae-3ed5-4277-a2da-3c0ee8dac3c6
-  name: Jerry Dodgion
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: 2103a430-9bb8-4dd1-8c6a-40a6b1b17a3f
-  name: Jon Faddis
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5be4e7d4-5d51-4175-9ad5-5962040dcafb
-  name: William Green
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: 4b1aeac8-e554-4a45-9190-0f370f9cc8cf
-  name: Frank Greene
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: e70dc1c2-1159-4345-a538-13a2cb0259cd
-  name: Freddie Hill
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4830984b-264f-4c4d-ac7e-ee2480027bf7
-  name: Bobby Knight
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: cee61c7d-9079-4ee0-aa3f-83cd94098af9
-  name: Larry McGuire
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 6b4804fa-9a98-4557-a327-a97dbad9ae93
-  name: Lewis Nash
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0e86043e-70ab-41ef-8ac5-04652ad1103e
-  name: Jack Nimitz
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: e73a9a6f-4636-4fbf-887d-622741725a24
-  name: Jimmy Owens
-- begin: ''
-  end: ''
-  instruments:
-  - trombone
-  mbid: 5af0d6a3-c4e8-4048-87e3-5afd44c020a2
-  name: Benny Powell
-- begin: ''
-  end: ''
-  instruments:
-  - bass trombone
-  mbid: 6047d77b-f1b9-4265-ab24-c997e972d45c
-  name: Doug Purviance
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: fb07a0ab-2081-483f-a0ce-a2bf1407a51e
-  name: Lester Robertson
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: c5ac0032-e377-40d0-a854-a94b785abab8
-  name: Mike Rodriguez
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: bff6007a-b3d9-451b-897f-5ca8a9979906
-  name: Renee Rosnes
-- begin: ''
-  end: ''
-  instruments:
-  - baritone saxophone
-  mbid: c0ebf40c-4ff0-4206-be7a-b32b0a0b6ac4
-  name: Gary Smulyan
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 202ac1b9-0c13-452e-9030-89f87b849f39
-  name: Ray Triscari
-- begin: ''
-  end: ''
-  instruments:
-  - tenor saxophone
-  mbid: c7a3e868-c6d8-4512-a5ef-f6cbe42899b0
-  name: Kamasi Washington
-- begin: ''
-  end: ''
-  instruments:
-  - double bass
-  mbid: 75a4ab74-0000-44ae-8dc2-295ef3c04bb0
-  name: Peter Washington
-- begin: ''
-  end: ''
-  instruments:
-  - trombone
-  mbid: 0f4fe803-59ed-432f-8daf-bc8438eb5b32
-  name: Dennis Wilson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f3a33bb9-7655-4f6b-ad9e-f15c3f95caf2
-  name: Gerald Wilson
-- begin: ''
-  end: ''
-  instruments:
-  - flute
-  mbid: c0b45427-4d3b-4f81-a7b5-19d65edd64c4
-  name: Steve Wilson
-- begin: ''
-  end: ''
-  instruments:
-  - alto saxophone
-  mbid: c0b45427-4d3b-4f81-a7b5-19d65edd64c4
-  name: Steve Wilson
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: a6efce2e-9c3b-4b50-9c46-5935968edfd0
-  name: Russell Malone
+  - begin: '1981'
+    end: '1988'
+    instruments:
+      - piano
+    mbid: 7d950f7d-242a-4c34-adaf-4e0d43bb80fa
+    name: 'Harold Land, Jr.'
+  - begin: ''
+    end: ''
+    instruments:
+      - flute
+    mbid: eb0e3b85-cd28-4ebc-a3ee-6b0abd5afe51
+    name: Ron Blake
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: eb0e3b85-cd28-4ebc-a3ee-6b0abd5afe51
+    name: Ron Blake
+  - begin: ''
+    end: ''
+    instruments:
+      - trombone
+    mbid: 6898c847-dd8f-4c45-abf1-b6ec6ebbab38
+    name: Luis Bonilla
+  - begin: ''
+    end: ''
+    instruments:
+      - alto saxophone
+    mbid: 836c1802-fd9e-4824-8fe0-ec8d69935e6f
+    name: Dustin Cicero
+  - begin: ''
+    end: ''
+    instruments:
+      - flute
+    mbid: c84dd2ae-3ed5-4277-a2da-3c0ee8dac3c6
+    name: Jerry Dodgion
+  - begin: ''
+    end: ''
+    instruments:
+      - soprano saxophone
+    mbid: c84dd2ae-3ed5-4277-a2da-3c0ee8dac3c6
+    name: Jerry Dodgion
+  - begin: ''
+    end: ''
+    instruments:
+      - alto saxophone
+    mbid: c84dd2ae-3ed5-4277-a2da-3c0ee8dac3c6
+    name: Jerry Dodgion
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: 2103a430-9bb8-4dd1-8c6a-40a6b1b17a3f
+    name: Jon Faddis
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5be4e7d4-5d51-4175-9ad5-5962040dcafb
+    name: William Green
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: 4b1aeac8-e554-4a45-9190-0f370f9cc8cf
+    name: Frank Greene
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: e70dc1c2-1159-4345-a538-13a2cb0259cd
+    name: Freddie Hill
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4830984b-264f-4c4d-ac7e-ee2480027bf7
+    name: Bobby Knight
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: cee61c7d-9079-4ee0-aa3f-83cd94098af9
+    name: Larry McGuire
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 6b4804fa-9a98-4557-a327-a97dbad9ae93
+    name: Lewis Nash
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0e86043e-70ab-41ef-8ac5-04652ad1103e
+    name: Jack Nimitz
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: e73a9a6f-4636-4fbf-887d-622741725a24
+    name: Jimmy Owens
+  - begin: ''
+    end: ''
+    instruments:
+      - trombone
+    mbid: 5af0d6a3-c4e8-4048-87e3-5afd44c020a2
+    name: Benny Powell
+  - begin: ''
+    end: ''
+    instruments:
+      - bass trombone
+    mbid: 6047d77b-f1b9-4265-ab24-c997e972d45c
+    name: Doug Purviance
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: fb07a0ab-2081-483f-a0ce-a2bf1407a51e
+    name: Lester Robertson
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: c5ac0032-e377-40d0-a854-a94b785abab8
+    name: Mike Rodriguez
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: bff6007a-b3d9-451b-897f-5ca8a9979906
+    name: Renee Rosnes
+  - begin: ''
+    end: ''
+    instruments:
+      - baritone saxophone
+    mbid: c0ebf40c-4ff0-4206-be7a-b32b0a0b6ac4
+    name: Gary Smulyan
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 202ac1b9-0c13-452e-9030-89f87b849f39
+    name: Ray Triscari
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: c7a3e868-c6d8-4512-a5ef-f6cbe42899b0
+    name: Kamasi Washington
+  - begin: ''
+    end: ''
+    instruments:
+      - double bass
+    mbid: 75a4ab74-0000-44ae-8dc2-295ef3c04bb0
+    name: Peter Washington
+  - begin: ''
+    end: ''
+    instruments:
+      - trombone
+    mbid: 0f4fe803-59ed-432f-8daf-bc8438eb5b32
+    name: Dennis Wilson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f3a33bb9-7655-4f6b-ad9e-f15c3f95caf2
+    name: Gerald Wilson
+  - begin: ''
+    end: ''
+    instruments:
+      - flute
+    mbid: c0b45427-4d3b-4f81-a7b5-19d65edd64c4
+    name: Steve Wilson
+  - begin: ''
+    end: ''
+    instruments:
+      - alto saxophone
+    mbid: c0b45427-4d3b-4f81-a7b5-19d65edd64c4
+    name: Steve Wilson
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: a6efce2e-9c3b-4b50-9c46-5935968edfd0
+    name: Russell Malone
 musicbrainz_id: 53732191-7511-466e-b47f-872cb373e623
-origin: Shelby, Mississippi, United States
+origin: 'Shelby, Mississippi, United States'
 tags:
-- big band
+  - big band
+birth_place: 'Shelby, Mississippi, United States'
+birth_date: '1918'
 ---
 
 ![](gerald_wilson_orchestra.jpg)

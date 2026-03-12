@@ -1,41 +1,43 @@
 ---
 biography_enhanced_at: '2026-01-19T01:17:49.190610'
-birth_place: Springfield, Ohio, United States
+birth_place: 'Springfield, Ohio, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-19T01:17:49.190616'
 external_urls:
-  spotify: https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t
-  wikipedia: https://en.wikipedia.org/wiki/John_Legend
+  spotify: 'https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t'
+  wikipedia: 'https://en.wikipedia.org/wiki/John_Legend'
 genres:
-- soft pop
-- neo soul
+  - soft pop
+  - neo soul
 image_path: 03_Resources/source_material/ArtistPortraits/common_john_legend.jpg
 last_updated: '2026-01-19T01:17:49.190617'
 musical_connections:
   collaborators:
-  - Kanye West
-  - Common
-  - The Roots
-  - André 3000
+    - Kanye West
+    - Common
+    - The Roots
+    - André 3000
   influenced: []
   mentors:
-  - Grandmother
-  - Kanye West
+    - Grandmother
+    - Kanye West
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.vedantu.com/biography/john-legend
-- https://www.biography.com/musicians/john-legend
-- https://en.wikipedia.org/wiki/John_Legend
-- https://www.britannica.com/biography/John-Legend
-- https://www.masterclass.com/articles/john-legend
+  - 'https://www.vedantu.com/biography/john-legend'
+  - 'https://www.biography.com/musicians/john-legend'
+  - 'https://en.wikipedia.org/wiki/John_Legend'
+  - 'https://www.britannica.com/biography/John-Legend'
+  - 'https://www.masterclass.com/articles/john-legend'
 spotify_data:
   followers: 8223688
   id: 5y2Xq6xcjJb2jVM54GHK3t
   popularity: 78
-  url: https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t
+  url: 'https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t'
 status: active
-title: Common, John Legend
+title: John Legend
+birth_date: '1978-12-28'
+artist_type: person
 ---
 
 ![](common_john_legend.jpg)

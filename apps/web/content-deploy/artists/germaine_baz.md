@@ -3,14 +3,14 @@ title: Germaine Baz
 wiki_slug: germaine-baz
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- vocal jazz
+  - vocal jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/germaine_baz.jpg
   caption: Germaine Baz
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 116.8
   energy_avg: 0.39
@@ -26,42 +26,44 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Various New Orleans jazz musicians
+    - Various New Orleans jazz musicians
   influenced:
-  - Emerging New Orleans jazz vocalists
+    - Emerging New Orleans jazz vocalists
   mentors:
-  - Not specifically documented
+    - Not specifically documented
 spotify_data:
   followers: 410
   id: 5oq0fMldWTCMvWiXZoS7Xh
   popularity: 0
-  url: https://open.spotify.com/artist/5oq0fMldWTCMvWiXZoS7Xh
+  url: 'https://open.spotify.com/artist/5oq0fMldWTCMvWiXZoS7Xh'
 discography_enriched: true
 top_tracks:
-- Route 66 (Standing Ovation)
-- 'Secret Love - Live (Jazz Fest: The New Orleans Jazz & Heritage Festival)'
-- Don't Get Around Much Anymore (Mood Indigo)
-- New Orleans (Mood Indigo)
-- Bye Bye Blackbird (Mood Indigo)
-- Sometimes I'm Happy (Mood Indigo)
-- I'm Just A Lucky So And So (Mood Indigo)
-- Spring Can Really Hang You Up The Most (Mood Indigo)
-- I Love Paris (Mood Indigo)
-- Lost Mind (Mood Indigo)
+  - Route 66 (Standing Ovation)
+  - 'Secret Love - Live (Jazz Fest: The New Orleans Jazz & Heritage Festival)'
+  - Don't Get Around Much Anymore (Mood Indigo)
+  - New Orleans (Mood Indigo)
+  - Bye Bye Blackbird (Mood Indigo)
+  - Sometimes I'm Happy (Mood Indigo)
+  - I'm Just A Lucky So And So (Mood Indigo)
+  - Spring Can Really Hang You Up The Most (Mood Indigo)
+  - I Love Paris (Mood Indigo)
+  - Lost Mind (Mood Indigo)
 external_urls:
-  spotify: https://open.spotify.com/artist/5oq0fMldWTCMvWiXZoS7Xh
-  wikipedia: https://en.wikipedia.org/wiki/Germaine_Bazzle
+  spotify: 'https://open.spotify.com/artist/5oq0fMldWTCMvWiXZoS7Xh'
+  wikipedia: 'https://en.wikipedia.org/wiki/Germaine_Bazzle'
 image_path: 03_Resources/source_material/ArtistPortraits/germaine_baz.jpg
 biography_enhanced_at: '2025-12-10T05:26:38.322541'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Germaine_Bazzle
-- https://www.wwno.org/post/germaine-bazzle-jazz-vocalist-and-educator
-- https://www.wwoz.org/programs/playlists
+  - 'https://en.wikipedia.org/wiki/Germaine_Bazzle'
+  - 'https://www.wwno.org/post/germaine-bazzle-jazz-vocalist-and-educator'
+  - 'https://www.wwoz.org/programs/playlists'
 network_extracted: true
 entry_created: '2025-12-10T05:26:38.322548'
 last_updated: '2025-12-23T08:16:09.169625'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](germaine_baz.jpg)

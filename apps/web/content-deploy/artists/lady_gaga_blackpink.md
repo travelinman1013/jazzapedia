@@ -1,10 +1,10 @@
 ---
-title: Lady gaga/ Blackpink
+title: Lady Gaga/ Blackpink
 wiki_slug: lady-gaga-blackpink
 schema_version: 2
 status: active
 genres:
-- k-pop
+  - k-pop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lady_gaga_blackpink.jpg
   caption: Lady gaga/ Blackpink
@@ -15,7 +15,7 @@ audio_profile:
   valence_avg: 0.549
   danceability_avg: 0.722
   acousticness_avg: 0.061
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -5.1
   speechiness_avg: 0.098
   liveness_avg: 0.183
@@ -24,46 +24,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Blackpink
-  - Dua Lipa
-  - BloodPop
+    - Blackpink
+    - Dua Lipa
+    - BloodPop
   influenced:
-  - NewJeans
-  - Ariana Grande
+    - NewJeans
+    - Ariana Grande
   mentors:
-  - Tony Bennett
-  - YG Entertainment
+    - Tony Bennett
+    - YG Entertainment
 spotify_data:
   followers: 56387963
   id: 41MozSoPIsD1dJM0CLPjZF
   popularity: 82
-  url: https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF
+  url: 'https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF'
 discography_enriched: true
 top_tracks:
-- As If It's Your Last
-- How You Like That (THE ALBUM)
-- BOOMBAYAH
-- Kill This Love
-- DDU-DU DDU-DU
-- Pink Venom (BORN PINK)
-- PLAYING WITH FIRE
-- WHISTLE
-- Pretty Savage (THE ALBUM)
-- Kiss and Make Up (Dua Lipa (Complete Edition))
+  - As If It's Your Last
+  - How You Like That (THE ALBUM)
+  - BOOMBAYAH
+  - Kill This Love
+  - DDU-DU DDU-DU
+  - Pink Venom (BORN PINK)
+  - PLAYING WITH FIRE
+  - WHISTLE
+  - Pretty Savage (THE ALBUM)
+  - Kiss and Make Up (Dua Lipa (Complete Edition))
 external_urls:
-  spotify: https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF
-  wikipedia: https://en.wikipedia.org/wiki/Sour_Candy_(Lady_Gaga_and_Blackpink_song)
+  spotify: 'https://open.spotify.com/artist/41MozSoPIsD1dJM0CLPjZF'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sour_Candy_(Lady_Gaga_and_Blackpink_song)'
 image_path: 03_Resources/source_material/ArtistPortraits/lady_gaga_blackpink.jpg
 biography_enhanced_at: '2025-11-20T07:39:30.599492'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Sour_Candy_(Lady_Gaga_and_Blackpink_song)
-- https://www.scmp.com/magazines/style/celebrity/article/3089809/blackpink-x-lady-gaga-6-biggest-k-pop-collabs-starring
+  - 'https://en.wikipedia.org/wiki/Sour_Candy_(Lady_Gaga_and_Blackpink_song)'
+  - >-
+    https://www.scmp.com/magazines/style/celebrity/article/3089809/blackpink-x-lady-gaga-6-biggest-k-pop-collabs-starring
 network_extracted: true
 entry_created: '2025-11-20T07:39:30.599499'
 last_updated: '2025-12-23T08:16:11.554725'
-origin: New York City, New York, United States; Seoul, South Korea
+origin: 'New York City, New York, United States; Seoul, South Korea'
+birth_place: 'New York City, New York, United States'
+artist_type: band
 ---
 
 ![](lady_gaga_blackpink.jpg)

@@ -1,37 +1,40 @@
 ---
 biography_enhanced_at: '2026-01-09T02:01:16.642840'
-birth_place: Detroit, Michigan, United States (documented recording base and label location; precise birthplace not documented in available sources)
+birth_place: >-
+  Detroit, Michigan, United States (documented recording base and label
+  location; precise birthplace not documented in available sources)
 enhancement_provider: perplexity
 entry_created: '2026-01-09T02:01:16.642855'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8b5fdb53-17f0-4492-bda7-08226b6da376
-  spotify: https://open.spotify.com/artist/2B3AqL0ZUAOWEw1kqyJxZh
+  musicbrainz: 'https://musicbrainz.org/artist/8b5fdb53-17f0-4492-bda7-08226b6da376'
+  spotify: 'https://open.spotify.com/artist/2B3AqL0ZUAOWEw1kqyJxZh'
   wikipedia: ''
 genres:
-- rockabilly
+  - rockabilly
 image_path: ''
 last_updated: '2026-01-09T02:01:16.642859'
 musical_connections:
   collaborators:
-  - The Wanderers
-  - Jimmy Franklin
+    - The Wanderers
+    - Jimmy Franklin
   influenced: []
   mentors: []
 musicbrainz_id: 8b5fdb53-17f0-4492-bda7-08226b6da376
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.rocky-52.net/chanteursd/debree_p.htm
-- https://www.youtube.com/watch?v=v0lkvlk4e48
-- https://michiganrockandrolllegends.com/blog/307-the-michigan-box-pt-1
+  - 'https://www.rocky-52.net/chanteursd/debree_p.htm'
+  - 'https://www.youtube.com/watch?v=v0lkvlk4e48'
+  - 'https://michiganrockandrolllegends.com/blog/307-the-michigan-box-pt-1'
 spotify_data:
   followers: 0
   id: 2B3AqL0ZUAOWEw1kqyJxZh
   popularity: 0
-  url: https://open.spotify.com/artist/2B3AqL0ZUAOWEw1kqyJxZh
+  url: 'https://open.spotify.com/artist/2B3AqL0ZUAOWEw1kqyJxZh'
 status: active
-title: pete de bree
-
+title: Pete De Bree
+origin: 'Detroit, Michigan, United States'
+artist_type: person
 ---
 
 ![]()

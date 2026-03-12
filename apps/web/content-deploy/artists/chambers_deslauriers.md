@@ -1,12 +1,12 @@
 ---
-title: chambers deslauriers
+title: Chambers Deslauriers
 wiki_slug: chambers-deslauriers
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- soul blues
-- blues
+  - soul blues
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/chambers_deslauriers.jpg
   caption: chambers deslauriers
@@ -26,63 +26,69 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Gary Davenport
-  - Sly Coulombe
-  - Sasha Smith
-  - Jesse O’Brien
-  - Mark Pender
-  - David Ralicke
-  - Eric Corne
-  - Nicoya Polar
-  - Chris Peet
-  - Alec McElcheran
+    - Gary Davenport
+    - Sly Coulombe
+    - Sasha Smith
+    - Jesse O’Brien
+    - Mark Pender
+    - David Ralicke
+    - Eric Corne
+    - Nicoya Polar
+    - Chris Peet
+    - Alec McElcheran
   influenced: []
   mentors:
-  - Mahalia Jackson
-  - Aretha Franklin
-  - Yolanda Adams
-  - Mavis Staples
-  - B.B. King
-  - Robert Johnson
-  - Bukka White
-  - Peter Green
+    - Mahalia Jackson
+    - Aretha Franklin
+    - Yolanda Adams
+    - Mavis Staples
+    - B.B. King
+    - Robert Johnson
+    - Bukka White
+    - Peter Green
 spotify_data:
   followers: 452
   id: 1arcq3eCE5lXEA9XwOhj72
   popularity: 23
-  url: https://open.spotify.com/artist/1arcq3eCE5lXEA9XwOhj72
+  url: 'https://open.spotify.com/artist/1arcq3eCE5lXEA9XwOhj72'
 discography_enriched: true
 top_tracks:
-- Written In The Stars (Written In The Stars)
-- Sing (Sing)
-- People Gonna Talk (People Gonna Talk)
-- Love You Just The Same (Love You Just The Same)
-- Mississippi Queen (Good Trouble)
-- You've Got To Believe (Good Trouble)
-- Stand Up (Good Trouble)
-- Heavy Load (Good Trouble)
-- I Need Your Love So Bad (Good Trouble)
-- Isn't It A Pity (Good Trouble)
+  - Written In The Stars (Written In The Stars)
+  - Sing (Sing)
+  - People Gonna Talk (People Gonna Talk)
+  - Love You Just The Same (Love You Just The Same)
+  - Mississippi Queen (Good Trouble)
+  - You've Got To Believe (Good Trouble)
+  - Stand Up (Good Trouble)
+  - Heavy Load (Good Trouble)
+  - I Need Your Love So Bad (Good Trouble)
+  - Isn't It A Pity (Good Trouble)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f0644c34-397c-4278-995a-776b38ea44c0
-  spotify: https://open.spotify.com/artist/1arcq3eCE5lXEA9XwOhj72
+  musicbrainz: 'https://musicbrainz.org/artist/f0644c34-397c-4278-995a-776b38ea44c0'
+  spotify: 'https://open.spotify.com/artist/1arcq3eCE5lXEA9XwOhj72'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/chambers_deslauriers.jpg
 biography_enhanced_at: '2025-12-06T06:02:51.924504'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Chambers DesLauriers bio on annikaandpaul.com[1]
-- Intrepid Artists – Chambers/DesLauriers featuring Annika Chambers & Paul DesLauriers artist page[2]
-- Making A Scene! review of “Our Time To Ride” and background on Chambers and DesLauriers’ careers[3]
-- Swing Wespelaar festival artist profile for Chambers Deslauriers[6]
-- La Hora del Blues review of “Our Time To Ride”[5]
+  - 'Chambers DesLauriers bio on annikaandpaul.com[1]'
+  - >-
+    Intrepid Artists – Chambers/DesLauriers featuring Annika Chambers & Paul
+    DesLauriers artist page[2]
+  - >-
+    Making A Scene! review of “Our Time To Ride” and background on Chambers and
+    DesLauriers’ careers[3]
+  - 'Swing Wespelaar festival artist profile for Chambers Deslauriers[6]'
+  - 'La Hora del Blues review of “Our Time To Ride”[5]'
 network_extracted: true
 entry_created: '2025-12-06T06:02:51.924513'
 last_updated: '2025-12-23T08:16:06.633191'
 musicbrainz_id: f0644c34-397c-4278-995a-776b38ea44c0
-origin: Houston, Texas, United States (Annika Chambers) and Cornwall, Ontario, Canada (Paul DesLauriers); band origin associated with North American blues scenes including Houston, Montreal, and Memphis
-
+origin: >-
+  Houston, Texas, United States (Annika Chambers) and Cornwall, Ontario, Canada
+  (Paul DesLauriers); band origin associated with North American blues scenes
+  including Houston, Montreal, and Memphis
 ---
 
 ![](chambers_deslauriers.jpg)

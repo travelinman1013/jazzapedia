@@ -1,20 +1,20 @@
 ---
-title: LILA DOWNS
+title: Lila Downs
 wiki_slug: lila-downs
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1968-09-19'
-birth_place: Tlaxiaco
+birth_place: 'Tlaxiaco, Oaxaca, Mexico'
 genres:
-- trova
-- latin folk
-- latin alternative
-- mariachi
+  - trova
+  - latin folk
+  - latin alternative
+  - mariachi
 instruments:
-- acoustic guitar
-- lead vocals
-- spoken vocals
+  - acoustic guitar
+  - lead vocals
+  - spoken vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lila_downs.jpg
   caption: LILA DOWNS
@@ -36,62 +36,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Paul Cohen
-  - La Misteriosa
-  - Niña Pastori
-  - Soledad
+    - Paul Cohen
+    - La Misteriosa
+    - Niña Pastori
+    - Soledad
   influenced:
-  - Indigenous musicians and communities
+    - Indigenous musicians and communities
   mentors:
-  - Chavela Vargas
-  - Lucha Villa
-  - Mercedes Sosa
-  - Anastasia Sanchez (Mother)
+    - Chavela Vargas
+    - Lucha Villa
+    - Mercedes Sosa
+    - Anastasia Sanchez (Mother)
 spotify_data:
   followers: 465308
   id: 3mXI2gpwWnNO9qbQG3n3EP
   popularity: 58
-  url: https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP
+  url: 'https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP'
 discography_enriched: true
 top_tracks:
-- Resistiré
-- Llévame en un Beso (Película Muda, Pt. 2)
-- Cariñito (Al Chile)
-- La Cigarra (México de Mi Corazón)
-- Razón de Vivir (with Lila Downs) (Cantora 2)
-- Mezcalito (Pecados Y Milagros)
-- Zapata Se Queda (with Celso Piña & Totó la Momposina) (Pecados Y Milagros)
-- La Cumbia Del Mole
-- Cariñito - Mexican Institute of Sound Mix
-- Baja a la Tierra (feat. Lila Downs) (Bi)
+  - Resistiré
+  - 'Llévame en un Beso (Película Muda, Pt. 2)'
+  - Cariñito (Al Chile)
+  - La Cigarra (México de Mi Corazón)
+  - Razón de Vivir (with Lila Downs) (Cantora 2)
+  - Mezcalito (Pecados Y Milagros)
+  - Zapata Se Queda (with Celso Piña & Totó la Momposina) (Pecados Y Milagros)
+  - La Cumbia Del Mole
+  - Cariñito - Mexican Institute of Sound Mix
+  - Baja a la Tierra (feat. Lila Downs) (Bi)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ad29ae1c-2eda-4071-9dc8-31910e7e546c
-  spotify: https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP
+  musicbrainz: 'https://musicbrainz.org/artist/ad29ae1c-2eda-4071-9dc8-31910e7e546c'
+  spotify: 'https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/lila_downs.jpg
 biography_enhanced_at: '2025-12-04T08:02:08.222747'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Chicago Symphony Orchestra - From Mexico/the United States, Lila Downs
-- Las Azaleas Music - Lila Downs
-- Penn State University - Singer Lila Downs to introduce audience to traditional Mexican fare
-- Cal Performances - Lila Downs
-- CU Presents - Lila Downs
-- University of Minnesota Global Programs - Lila Downs 1993
-- IMDb - Lila Downs Biography
-- Playing For Change - Lila Downs
-- WGBH - Lila Downs
+  - 'Chicago Symphony Orchestra - From Mexico/the United States, Lila Downs'
+  - Las Azaleas Music - Lila Downs
+  - >-
+    Penn State University - Singer Lila Downs to introduce audience to
+    traditional Mexican fare
+  - Cal Performances - Lila Downs
+  - CU Presents - Lila Downs
+  - University of Minnesota Global Programs - Lila Downs 1993
+  - IMDb - Lila Downs Biography
+  - Playing For Change - Lila Downs
+  - WGBH - Lila Downs
 network_extracted: true
 entry_created: '2025-12-04T08:02:08.222759'
 last_updated: '2025-12-23T08:16:11.930158'
 gender: Female
 musicbrainz_id: ad29ae1c-2eda-4071-9dc8-31910e7e546c
 tags:
-- 00s
-- 10s
-- 80s
-
+  - 00s
+  - 10s
+  - 80s
 ---
 
 ![](lila_downs.jpg)

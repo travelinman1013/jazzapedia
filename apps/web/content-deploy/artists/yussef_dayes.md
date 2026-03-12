@@ -5,51 +5,51 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1993'
-birth_place: London
+birth_place: 'London, England, United Kingdom'
 genres:
-- nu jazz
+  - nu jazz
 instruments:
-- eponymous
-- lead vocals
-- original
-- percussion
-- drums (drum set)
-- other vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a48376a0-18a4-4ce4-b3fa-fbacc65ca272
-  name: United Vibrations
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 72fd7688-8394-43b6-8f41-278657648a45
-  name: Yussef Kamaal
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - lead vocals
   - original
-  mbid: 60437f0a-26c5-4478-a1aa-b98f618e739c
-  name: Yussef Dayes Trio
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
   - percussion
-  mbid: 60437f0a-26c5-4478-a1aa-b98f618e739c
-  name: Yussef Dayes Trio
-- begin: ''
-  end: ''
-  instruments:
   - drums (drum set)
-  - eponymous
-  - original
-  mbid: 60437f0a-26c5-4478-a1aa-b98f618e739c
-  name: Yussef Dayes Trio
+  - other vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a48376a0-18a4-4ce4-b3fa-fbacc65ca272
+    name: United Vibrations
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 72fd7688-8394-43b6-8f41-278657648a45
+    name: Yussef Kamaal
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - lead vocals
+      - original
+    mbid: 60437f0a-26c5-4478-a1aa-b98f618e739c
+    name: Yussef Dayes Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - percussion
+    mbid: 60437f0a-26c5-4478-a1aa-b98f618e739c
+    name: Yussef Dayes Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+      - eponymous
+      - original
+    mbid: 60437f0a-26c5-4478-a1aa-b98f618e739c
+    name: Yussef Dayes Trio
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/yussef_dayes.jpg
   caption: Yussef Dayes
@@ -71,55 +71,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kamaal Williams
-  - Tom Misch
-  - Ahmad Dayes
-  - Kareem Dayes
-  - Wayne Francis II
+    - Kamaal Williams
+    - Tom Misch
+    - Ahmad Dayes
+    - Kareem Dayes
+    - Wayne Francis II
   influenced:
-  - Emerging UK jazz and fusion musicians
+    - Emerging UK jazz and fusion musicians
   mentors:
-  - Billy Cobham
+    - Billy Cobham
 spotify_data:
   followers: 363725
   id: 2rspptKP0lPBdlJJAJHqht
   popularity: 60
-  url: https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht
+  url: 'https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht'
 discography_enriched: true
 top_tracks:
-- Tidal Wave (What Kinda Music)
-- Nightrider (What Kinda Music)
-- Sicily' Box (Sicily' Box)
-- What Kinda Music (What Kinda Music)
-- Rust (feat. Tom Misch) (Black Classical Music)
-- Woman's Touch (feat. Jamilah Barry) (Black Classical Music)
-- Raisins Under the Sun (feat. Shabaka Hutchings) (Black Classical Music)
-- Birds of Paradise (Black Classical Music)
-- I Did It For You (What Kinda Music)
-- Last 100 (What Kinda Music)
+  - Tidal Wave (What Kinda Music)
+  - Nightrider (What Kinda Music)
+  - Sicily' Box (Sicily' Box)
+  - What Kinda Music (What Kinda Music)
+  - Rust (feat. Tom Misch) (Black Classical Music)
+  - Woman's Touch (feat. Jamilah Barry) (Black Classical Music)
+  - Raisins Under the Sun (feat. Shabaka Hutchings) (Black Classical Music)
+  - Birds of Paradise (Black Classical Music)
+  - I Did It For You (What Kinda Music)
+  - Last 100 (What Kinda Music)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/fdbffd97-c991-433c-9137-cafee3ded97a
-  spotify: https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht
-  wikipedia: https://en.wikipedia.org/wiki/Yussef_Dayes
+  musicbrainz: 'https://musicbrainz.org/artist/fdbffd97-c991-433c-9137-cafee3ded97a'
+  spotify: 'https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht'
+  wikipedia: 'https://en.wikipedia.org/wiki/Yussef_Dayes'
 image_path: 03_Resources/source_material/ArtistPortraits/yussef_dayes.jpg
 biography_enhanced_at: '2025-12-10T04:47:21.233487'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Yussef_Dayes
-- https://www.last.fm/music/Yussef+Dayes/+wiki
-- https://blog.roughtrade.com/gb/in-profile-yussef-dayes-black-classical-music/
-- https://crackmagazine.net/article/profiles/chasing-the-rhythm-with-yussef-dayes/
-- https://dk.yamaha.com/en/musical-instruments/drums/artists/y/Yussef%20Dayes.html
+  - 'https://en.wikipedia.org/wiki/Yussef_Dayes'
+  - 'https://www.last.fm/music/Yussef+Dayes/+wiki'
+  - >-
+    https://blog.roughtrade.com/gb/in-profile-yussef-dayes-black-classical-music/
+  - >-
+    https://crackmagazine.net/article/profiles/chasing-the-rhythm-with-yussef-dayes/
+  - >-
+    https://dk.yamaha.com/en/musical-instruments/drums/artists/y/Yussef%20Dayes.html
 network_extracted: true
 entry_created: '2025-12-10T04:47:21.233495'
 last_updated: '2025-12-23T08:16:18.379548'
 gender: Male
 musicbrainz_id: fdbffd97-c991-433c-9137-cafee3ded97a
 tags:
-- contemporary jazz
-- jazz
-
+  - contemporary jazz
+  - jazz
 ---
 
 ![](yussef_dayes.jpg)

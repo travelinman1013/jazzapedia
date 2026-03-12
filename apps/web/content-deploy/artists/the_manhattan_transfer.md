@@ -1,15 +1,15 @@
 ---
-title: THE MANHATTAN TRANSFER
+title: The Manhattan Transfer
 wiki_slug: the-manhattan-transfer
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1969'
 genres:
-- vocal jazz
+  - vocal jazz
 instruments:
-- original
-- other vocals
+  - original
+  - other vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_manhattan_transfer.jpg
   caption: THE MANHATTAN TRANSFER
@@ -30,106 +30,108 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tim Hauser
-  - Janis Siegel
-  - Alan Paul
-  - Laurel Massé
-  - Cheryl Bentyne
-  - Trist Curless
-  - Yaron Gershovsky
-  - Tony Bennett
-  - Jon Faddis, Randy Brecker, Zoot Sims
+    - Tim Hauser
+    - Janis Siegel
+    - Alan Paul
+    - Laurel Massé
+    - Cheryl Bentyne
+    - Trist Curless
+    - Yaron Gershovsky
+    - Tony Bennett
+    - 'Jon Faddis, Randy Brecker, Zoot Sims'
   influenced:
-  - New York Voices
-  - m-pact
-  - Take 6
+    - New York Voices
+    - m-pact
+    - Take 6
   mentors:
-  - The Ink Spots
-  - Gene Goldkette Orchestra
+    - The Ink Spots
+    - Gene Goldkette Orchestra
 spotify_data:
   followers: 101207
   id: 2dogRElUKV20C2khRHqjRc
   popularity: 42
-  url: https://open.spotify.com/artist/2dogRElUKV20C2khRHqjRc
+  url: 'https://open.spotify.com/artist/2dogRElUKV20C2khRHqjRc'
 discography_enriched: true
 top_tracks:
-- Chanson d'Amour (Coming Out)
-- Tuxedo Junction (The Manhattan Transfer)
-- Smile Again (Mecca For Moderns)
-- Boy From New York City (Mecca For Moderns)
-- Spice Of Life - Remastered (Bodies And Souls (Remastered Edition))
-- Soul Food To Go (Sina) (Brasil)
-- White Christmas (feat. The Manhattan Transfer) (A Pentatonix Christmas Deluxe)
-- Java Jive (The Manhattan Transfer)
-- The Speak Up Mambo (CUENTAME) (Coming Out)
-- Birdland (Extensions)
+  - Chanson d'Amour (Coming Out)
+  - Tuxedo Junction (The Manhattan Transfer)
+  - Smile Again (Mecca For Moderns)
+  - Boy From New York City (Mecca For Moderns)
+  - Spice Of Life - Remastered (Bodies And Souls (Remastered Edition))
+  - Soul Food To Go (Sina) (Brasil)
+  - >-
+    White Christmas (feat. The Manhattan Transfer) (A Pentatonix Christmas
+    Deluxe)
+  - Java Jive (The Manhattan Transfer)
+  - The Speak Up Mambo (CUENTAME) (Coming Out)
+  - Birdland (Extensions)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/02390d49-c321-479b-b6f4-cd76f32fb887
-  spotify: https://open.spotify.com/artist/2dogRElUKV20C2khRHqjRc
-  wikipedia: https://en.wikipedia.org/wiki/The_Manhattan_Transfer
+  musicbrainz: 'https://musicbrainz.org/artist/02390d49-c321-479b-b6f4-cd76f32fb887'
+  spotify: 'https://open.spotify.com/artist/2dogRElUKV20C2khRHqjRc'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Manhattan_Transfer'
 image_path: 03_Resources/source_material/ArtistPortraits/the_manhattan_transfer.jpg
 biography_enhanced_at: '2025-10-27T02:41:04.344899'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Manhattan_Transfer
-- https://www.allaboutjazz.com/musicians/the-manhattan-transfer/
-- https://concord.com/artist/the-manhattan-transfer/
-- https://www.laphil.com/musicdb/artists/3339/the-manhattan-transfer
-- https://manhattantransfer.net/about/
+  - 'https://en.wikipedia.org/wiki/The_Manhattan_Transfer'
+  - 'https://www.allaboutjazz.com/musicians/the-manhattan-transfer/'
+  - 'https://concord.com/artist/the-manhattan-transfer/'
+  - 'https://www.laphil.com/musicdb/artists/3339/the-manhattan-transfer'
+  - 'https://manhattantransfer.net/about/'
 network_extracted: true
 entry_created: '2025-10-27T02:41:04.344917'
 last_updated: '2025-12-23T08:16:16.927845'
 members:
-- begin: '1972'
-  end: '1978'
-  instruments:
-  - original
-  mbid: b4dc84b5-8835-473e-b3d0-eb8b93d7d5ae
-  name: Laurel Massé
-- begin: '1972'
-  end: '2014-10-16'
-  instruments:
-  - original
-  mbid: 3e0a4b01-05e3-4fb2-83e4-446d8e2c1d15
-  name: Tim Hauser
-- &id001
-  begin: '1972'
-  end: ''
-  instruments:
-  - original
-  mbid: 3d2b5897-f718-4b9b-86c6-1564b183ef68
-  name: Alan Paul
-- &id002
-  begin: '1972'
-  end: ''
-  instruments:
-  - original
-  mbid: 2c7abad7-8b95-4088-a9c4-b514920c8dfb
-  name: Janis Siegel
-- &id003
-  begin: '1979'
-  end: ''
-  instruments: []
-  mbid: aaa4a5cc-77b9-4506-8978-7563a6b28754
-  name: Cheryl Bentyne
-- &id004
-  begin: '2014'
-  end: ''
-  instruments: []
-  mbid: 77b1e787-2af2-43e7-ae52-c2d5f04c6913
-  name: Trist Ethan Curless
+  - begin: '1972'
+    end: '1978'
+    instruments:
+      - original
+    mbid: b4dc84b5-8835-473e-b3d0-eb8b93d7d5ae
+    name: Laurel Massé
+  - begin: '1972'
+    end: '2014-10-16'
+    instruments:
+      - original
+    mbid: 3e0a4b01-05e3-4fb2-83e4-446d8e2c1d15
+    name: Tim Hauser
+  - &ref_0
+    begin: '1972'
+    end: ''
+    instruments:
+      - original
+    mbid: 3d2b5897-f718-4b9b-86c6-1564b183ef68
+    name: Alan Paul
+  - &ref_1
+    begin: '1972'
+    end: ''
+    instruments:
+      - original
+    mbid: 2c7abad7-8b95-4088-a9c4-b514920c8dfb
+    name: Janis Siegel
+  - &ref_2
+    begin: '1979'
+    end: ''
+    instruments: []
+    mbid: aaa4a5cc-77b9-4506-8978-7563a6b28754
+    name: Cheryl Bentyne
+  - &ref_3
+    begin: '2014'
+    end: ''
+    instruments: []
+    mbid: 77b1e787-2af2-43e7-ae52-c2d5f04c6913
+    name: Trist Ethan Curless
 musicbrainz_id: 02390d49-c321-479b-b6f4-cd76f32fb887
-origin: New York City, New York, United States
+origin: 'New York City, New York, United States'
 original_members:
-- *id001
-- *id002
-- *id003
-- *id004
+  - *ref_0
+  - *ref_1
+  - *ref_2
+  - *ref_3
 tags:
-- a cappella
-- jazz fusion
-- pop
+  - a cappella
+  - jazz fusion
+  - pop
 ---
 
 ![](the_manhattan_transfer.jpg)

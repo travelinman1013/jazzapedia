@@ -4,7 +4,7 @@ wiki_slug: la-super-banda
 schema_version: 2
 status: active
 genres:
-- corrido
+  - corrido
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/la_super_banda.jpg
   caption: La Super Banda
@@ -15,7 +15,7 @@ audio_profile:
   valence_avg: 0.931
   danceability_avg: 0.791
   acousticness_avg: 0.467
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -4.8
   speechiness_avg: 0.1
   liveness_avg: 0.164
@@ -30,33 +30,34 @@ spotify_data:
   followers: 9264
   id: 0t0QDedJBGhRhED1vkOmV1
   popularity: 44
-  url: https://open.spotify.com/artist/0t0QDedJBGhRhED1vkOmV1
+  url: 'https://open.spotify.com/artist/0t0QDedJBGhRhED1vkOmV1'
 discography_enriched: true
 top_tracks:
-- Empresa Familiar (Verdaderos Corridos)
-- El comandante (Sigo vivo)
-- De la brecha al pavimento (De la brecha al pavimento)
-- Lobos como ovejas (Me dicen Omega)
-- Escolta Personal (Escolta personal)
-- El Burro (Tú sabes quién)
-- El Tiburoncito (Amanecí con ganas)
-- Me dicen Omega (Me dicen Omega)
-- El doble M (Me dicen Omega)
-- El señor de la cubeta (Sueño humedoo)
+  - Empresa Familiar (Verdaderos Corridos)
+  - El comandante (Sigo vivo)
+  - De la brecha al pavimento (De la brecha al pavimento)
+  - Lobos como ovejas (Me dicen Omega)
+  - Escolta Personal (Escolta personal)
+  - El Burro (Tú sabes quién)
+  - El Tiburoncito (Amanecí con ganas)
+  - Me dicen Omega (Me dicen Omega)
+  - El doble M (Me dicen Omega)
+  - El señor de la cubeta (Sueño humedoo)
 external_urls:
-  spotify: https://open.spotify.com/artist/0t0QDedJBGhRhED1vkOmV1
+  spotify: 'https://open.spotify.com/artist/0t0QDedJBGhRhED1vkOmV1'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/la_super_banda.jpg
 biography_enhanced_at: '2025-12-14T01:46:47.963534'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.weddingwire.com/biz/la-super-banda-san-juan/a74a42c4c0d46e50.html
+  - >-
+    https://www.weddingwire.com/biz/la-super-banda-san-juan/a74a42c4c0d46e50.html
 network_extracted: true
 entry_created: '2025-12-14T01:46:47.963552'
 last_updated: '2025-12-23T08:16:11.536754'
-origin: San Juan, Puerto Rico
-
+origin: 'San Juan, Puerto Rico, United States'
+artist_type: band
 ---
 
 ![](la_super_banda.jpg)

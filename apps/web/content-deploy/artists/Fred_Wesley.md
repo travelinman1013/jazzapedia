@@ -2,24 +2,24 @@
 title: Fred Wesley
 wiki_slug: fred-wesley
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1943-07-04'
-birth_place: Columbus, Georgia, United States
+birth_place: 'Columbus, Georgia, United States'
 genres:
-- acid jazz
-- jazz funk
+  - acid jazz
+  - jazz funk
 instruments:
-- eponymous
-- trombone
+  - eponymous
+  - trombone
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Fred_Wesley.jpg
   caption: Fred Wesley
   background: non_vocal_instrumentalist
   born: '1943-07-04'
-  origin: Columbus, Georgia, United States
+  origin: 'Columbus, Georgia, United States'
 audio_profile:
-  tempo_avg: 107.0
+  tempo_avg: 107
   energy_avg: 0.729
   valence_avg: 0.779
   danceability_avg: 0.748
@@ -33,46 +33,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - James Brown
-  - Maceo Parker
-  - George Clinton
-  - Pee Wee Ellis
+    - James Brown
+    - Maceo Parker
+    - George Clinton
+    - Pee Wee Ellis
   influenced:
-  - Trombone Shorty (Troy Andrews)
-  - Modern funk and jazz trombonists
+    - Trombone Shorty (Troy Andrews)
+    - Modern funk and jazz trombonists
   mentors:
-  - Fred Wesley Sr.
-  - Count Basie
+    - Fred Wesley Sr.
+    - Count Basie
 spotify_data:
   followers: 49359
   id: 2uE66NiUti6Wpz90SD4eam
   popularity: 43
-  url: https://open.spotify.com/artist/2uE66NiUti6Wpz90SD4eam
+  url: 'https://open.spotify.com/artist/2uE66NiUti6Wpz90SD4eam'
 discography_enriched: true
 top_tracks:
-- People Get Up And Drive Your Funky Soul - Remix (Motherlode)
-- The Ghetto (featuring CeCe Rogers and Fred Wesley) (Love in a Black Dimension)
-- Funny Guy - Kognitif Remix
-- House Party (House Party)
-- Run Around - Renegades Of Jazz Remix (Isle Of Magic - Remixed)
-- Soul Dream (West Coast Boogaloo)
-- Patti Dooke (Buhloone Mindstate)
-- I Am I Be (Buhloone Mindstate)
-- Funk For Your Ass
-- Gravee (West Coast Boogaloo)
+  - People Get Up And Drive Your Funky Soul - Remix (Motherlode)
+  - >-
+    The Ghetto (featuring CeCe Rogers and Fred Wesley) (Love in a Black
+    Dimension)
+  - Funny Guy - Kognitif Remix
+  - House Party (House Party)
+  - Run Around - Renegades Of Jazz Remix (Isle Of Magic - Remixed)
+  - Soul Dream (West Coast Boogaloo)
+  - Patti Dooke (Buhloone Mindstate)
+  - I Am I Be (Buhloone Mindstate)
+  - Funk For Your Ass
+  - Gravee (West Coast Boogaloo)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5f7342e9-e1b2-4a8b-a622-c973838789cf
-  spotify: https://open.spotify.com/artist/2uE66NiUti6Wpz90SD4eam
-  wikipedia: https://en.wikipedia.org/wiki/Fred_Wesley
+  musicbrainz: 'https://musicbrainz.org/artist/5f7342e9-e1b2-4a8b-a622-c973838789cf'
+  spotify: 'https://open.spotify.com/artist/2uE66NiUti6Wpz90SD4eam'
+  wikipedia: 'https://en.wikipedia.org/wiki/Fred_Wesley'
 image_path: 03_Resources/source_material/ArtistPortraits/Fred_Wesley.jpg
 biography_enhanced_at: '2025-10-20T10:12:03.961044'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Fred_Wesley
-- https://www.oneworldsmusic.com/fredwesley
-- https://www.last.fm/music/Fred+Wesley/+wiki
-- https://knkx.org/jazz/2022-07-19/a-little-jazz-a-little-funk-at-79-trombonist-fred-wesley-is-ready-to-play-forever
+  - 'https://en.wikipedia.org/wiki/Fred_Wesley'
+  - 'https://www.oneworldsmusic.com/fredwesley'
+  - 'https://www.last.fm/music/Fred+Wesley/+wiki'
+  - >-
+    https://knkx.org/jazz/2022-07-19/a-little-jazz-a-little-funk-at-79-trombonist-fred-wesley-is-ready-to-play-forever
 network_extracted: true
 entry_created: '2025-10-20T10:12:03.961061'
 last_updated: '2025-12-23T08:16:02.050811'
@@ -80,9 +83,9 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:26:54.475649'
 musicbrainz_id: 5f7342e9-e1b2-4a8b-a622-c973838789cf
 tags:
-- funk
-- jazz
-
+  - funk
+  - jazz
+origin: 'Mobile, Alabama, United States'
 ---
 
 ![](Fred_Wesley.jpg)

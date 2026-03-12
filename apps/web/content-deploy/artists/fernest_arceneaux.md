@@ -5,17 +5,17 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1940-08-27'
-birth_place: Carencro
+birth_place: 'Carencro, Louisiana, United States'
 death_date: '2008-09-04'
 genres:
-- zydeco
-- cajun
+  - zydeco
+  - cajun
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d73b7365-04b3-4d28-ae40-d6b9f2e8117f
-  name: Fernest & the Thunders
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d73b7365-04b3-4d28-ae40-d6b9f2e8117f
+    name: Fernest & the Thunders
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/fernest_arceneaux.jpg
   caption: Fernest Arceneaux
@@ -38,52 +38,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Robert Sacre
-  - Rockin' Dopsie, Jr.
+    - Robert Sacre
+    - 'Rockin'' Dopsie, Jr.'
   influenced:
-  - Corey Arceneaux
+    - Corey Arceneaux
   mentors:
-  - Ferdinand Arceneaux
-  - Clifton Chenier
+    - Ferdinand Arceneaux
+    - Clifton Chenier
 spotify_data:
   followers: 953
   id: 7HBcntk6WvaqjA4kLrqA9m
   popularity: 14
-  url: https://open.spotify.com/artist/7HBcntk6WvaqjA4kLrqA9m
+  url: 'https://open.spotify.com/artist/7HBcntk6WvaqjA4kLrqA9m'
 discography_enriched: true
 top_tracks:
-- Don't Mess With My Toot Toot (Zydeco Blues Party)
-- My Negress (Pine Grive Blues) (Zydeco Blues Party)
-- Zydeco Boogaloo (Zydeco Blues Party)
-- I'm on My Way Back Home (Zydeco Blues Party)
-- My Negress (Pine Grove Blues) (Ultimate New Orleans)
-- Going Back To Big Mamou (Ultimate Zydeco)
-- It's Alright (Zydeco Stomp (2012 Remix))
-- I'm on My Way Back Home (Ultimate Zydeco)
-- Last Night (Zydeco Blues Party)
-- Bernadette (Zydeco Blues Party)
+  - Don't Mess With My Toot Toot (Zydeco Blues Party)
+  - My Negress (Pine Grive Blues) (Zydeco Blues Party)
+  - Zydeco Boogaloo (Zydeco Blues Party)
+  - I'm on My Way Back Home (Zydeco Blues Party)
+  - My Negress (Pine Grove Blues) (Ultimate New Orleans)
+  - Going Back To Big Mamou (Ultimate Zydeco)
+  - It's Alright (Zydeco Stomp (2012 Remix))
+  - I'm on My Way Back Home (Ultimate Zydeco)
+  - Last Night (Zydeco Blues Party)
+  - Bernadette (Zydeco Blues Party)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d1178687-d9da-4f26-bdd9-6b1d14c6b9e0
-  spotify: https://open.spotify.com/artist/7HBcntk6WvaqjA4kLrqA9m
-  wikipedia: https://en.wikipedia.org/wiki/Fernest_Arceneaux
+  musicbrainz: 'https://musicbrainz.org/artist/d1178687-d9da-4f26-bdd9-6b1d14c6b9e0'
+  spotify: 'https://open.spotify.com/artist/7HBcntk6WvaqjA4kLrqA9m'
+  wikipedia: 'https://en.wikipedia.org/wiki/Fernest_Arceneaux'
 image_path: 03_Resources/source_material/ArtistPortraits/fernest_arceneaux.jpg
 biography_enhanced_at: '2025-12-04T08:13:04.304293'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Fernest Arceneaux
-- AllMusic - Fernest Arceneaux
-- iHeart - Fernest Arceneaux
-- Zydeco Crossroads - Artist Spotlight
-- Ponderosa Stomp - Fernest Arceneaux
-- Find a Grave Memorial
+  - Wikipedia - Fernest Arceneaux
+  - AllMusic - Fernest Arceneaux
+  - iHeart - Fernest Arceneaux
+  - Zydeco Crossroads - Artist Spotlight
+  - Ponderosa Stomp - Fernest Arceneaux
+  - Find a Grave Memorial
 network_extracted: true
 entry_created: '2025-12-04T08:13:04.304303'
 last_updated: '2025-12-23T08:16:08.622817'
 gender: Male
 musicbrainz_id: d1178687-d9da-4f26-bdd9-6b1d14c6b9e0
 tags:
-- zydeco
+  - zydeco
+is_active: false
+origin: 'Louisiana, United States'
 ---
 
 ![](fernest_arceneaux.jpg)

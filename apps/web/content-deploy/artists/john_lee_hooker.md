@@ -1,21 +1,21 @@
 ---
-title: john lee hooker
+title: John Lee Hooker
 wiki_slug: john-lee-hooker
 schema_version: 2
 status: active
-birth_place: Clarksdale, Mississippi, United States
+birth_place: 'Clarksdale, Mississippi, United States'
 genres:
-- blues
-- classic blues
-- blues rock
-- soul blues
-- country blues
-- jazz blues
+  - blues
+  - classic blues
+  - blues rock
+  - soul blues
+  - country blues
+  - jazz blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/john_lee_hooker.jpg
   caption: john lee hooker
   background: solo_singer
-  origin: Clarksdale, Mississippi, United States
+  origin: 'Clarksdale, Mississippi, United States'
 audio_profile:
   tempo_avg: 136.8
   energy_avg: 0.466
@@ -31,53 +31,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Canned Heat
-  - Bonnie Raitt
-  - Carlos Santana
-  - George Thorogood
-  - Van Morrison
+    - Canned Heat
+    - Bonnie Raitt
+    - Carlos Santana
+    - George Thorogood
+    - Van Morrison
   influenced:
-  - The Rolling Stones
-  - The Animals
-  - Eric Clapton
-  - ZZ Top
-  - Jimi Hendrix
+    - The Rolling Stones
+    - The Animals
+    - Eric Clapton
+    - ZZ Top
+    - Jimi Hendrix
   mentors:
-  - William Moore (stepfather)
-  - Blind Lemon Jefferson
+    - William Moore (stepfather)
+    - Blind Lemon Jefferson
 spotify_data:
   followers: 917953
   id: 1yNOfXGQNGjAynk77wv85x
   popularity: 53
-  url: https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x
+  url: 'https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x'
 discography_enriched: true
 top_tracks:
-- Boom Boom (Burnin')
-- Boom Boom (Urban Blues (Expanded Edition))
-- One Bourbon, One Scotch, One Beer (The Real Folk Blues)
-- Never Roam No More (Bohemia After Dawn)
-- I'm In The Mood (The Real Folk Blues)
-- Boogie Chillen' (The Legendary Modern Recordings)
-- Chill Out (Things Gonna Change) (feat. Carlos Santana) (2007 - Remaster) (Chill Out)
-- The Healer (feat. Carlos Santana & The Santana Band) (The Healer)
-- It Serve You Right To Suffer - The Avener Rework (The Wanderings Of The Avener)
-- Whiskey And Wimmen' (Hooker 'N Heat)
+  - Boom Boom (Burnin')
+  - Boom Boom (Urban Blues (Expanded Edition))
+  - 'One Bourbon, One Scotch, One Beer (The Real Folk Blues)'
+  - Never Roam No More (Bohemia After Dawn)
+  - I'm In The Mood (The Real Folk Blues)
+  - Boogie Chillen' (The Legendary Modern Recordings)
+  - >-
+    Chill Out (Things Gonna Change) (feat. Carlos Santana) (2007 - Remaster)
+    (Chill Out)
+  - The Healer (feat. Carlos Santana & The Santana Band) (The Healer)
+  - >-
+    It Serve You Right To Suffer - The Avener Rework (The Wanderings Of The
+    Avener)
+  - Whiskey And Wimmen' (Hooker 'N Heat)
 external_urls:
-  spotify: https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x
-  wikipedia: https://en.wikipedia.org/wiki/John_Lee_Hooker
+  spotify: 'https://open.spotify.com/artist/1yNOfXGQNGjAynk77wv85x'
+  wikipedia: 'https://en.wikipedia.org/wiki/John_Lee_Hooker'
 image_path: 03_Resources/source_material/ArtistPortraits/john_lee_hooker.jpg
 biography_enhanced_at: '2025-10-22T09:30:51.119522'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.ebsco.com/research-starters/biography/john-lee-hooker
-- https://memphismusichalloffame.com/inductee/johnleehooker/
-- https://johnleehooker.com/about/
-- https://msbluestrail.org/blues-trail-markers/john-lee-hooker
-- https://www.britannica.com/biography/John-Lee-Hooker
+  - 'https://www.ebsco.com/research-starters/biography/john-lee-hooker'
+  - 'https://memphismusichalloffame.com/inductee/johnleehooker/'
+  - 'https://johnleehooker.com/about/'
+  - 'https://msbluestrail.org/blues-trail-markers/john-lee-hooker'
+  - 'https://www.britannica.com/biography/John-Lee-Hooker'
 network_extracted: true
 entry_created: '2025-10-22T09:30:51.119549'
 last_updated: '2025-12-23T08:16:10.771159'
+birth_date: '1917-08-22'
+artist_type: person
 ---
 
 ![](john_lee_hooker.jpg)

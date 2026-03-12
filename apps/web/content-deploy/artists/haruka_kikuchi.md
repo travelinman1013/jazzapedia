@@ -4,19 +4,23 @@ wiki_slug: haruka-kikuchi
 schema_version: 2
 artist_type: person
 status: active
-birth_place: Chiba Prefecture, Japan (birthplace and upbringing); New Orleans, Louisiana, USA (current base)
+birth_place: >-
+  Chiba Prefecture, Japan (birthplace and upbringing); New Orleans, Louisiana,
+  USA (current base)
 genres: []
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a94e75cd-3e60-4cf5-b7c7-fe69335248c3
-  name: Shake 'em Up Jazz Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a94e75cd-3e60-4cf5-b7c7-fe69335248c3
+    name: Shake 'em Up Jazz Band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/haruka_kikuchi.jpg
   caption: Haruka Kikuchi
   background: solo_singer
-  origin: Chiba Prefecture, Japan (birthplace and upbringing); New Orleans, Louisiana, USA (current base)
+  origin: >-
+    Chiba Prefecture, Japan (birthplace and upbringing); New Orleans, Louisiana,
+    USA (current base)
 audio_profile:
   tempo_avg: 119.7
   energy_avg: 0.413
@@ -32,52 +36,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kermit Ruffins
-  - Marla Dixon
-  - Shake ’Em Up Jazz Band
-  - The Swamp Donkeys
-  - Audacity Brass Band
-  - Cha-Wa
+    - Kermit Ruffins
+    - Marla Dixon
+    - Shake ’Em Up Jazz Band
+    - The Swamp Donkeys
+    - Audacity Brass Band
+    - Cha-Wa
   influenced: []
   mentors:
-  - Eddie Edwards
+    - Eddie Edwards
 spotify_data:
   followers: 576
   id: 4ovdRELte0es5s3qKRKHia
   popularity: 3
-  url: https://open.spotify.com/artist/4ovdRELte0es5s3qKRKHia
+  url: 'https://open.spotify.com/artist/4ovdRELte0es5s3qKRKHia'
 discography_enriched: true
 top_tracks:
-- Mama Don't Want No Peas An Rice An Coconut Oil (Jazz'n RazzMaTazz)
-- 'Mama Inez (Japan: New Orleans Collection Series, Vol. 8)'
-- Beauty and the Beast
-- Mama Don't Want No Peas an Rice an Coconut Oil
-- How Does A Moment Last Forever (Music Box)
-- 'Buddy Bolden''s Blues (Japan: New Orleans Collection Series)'
-- 'Mama Inez (Japan: New Orleans Collection Series)'
-- 'Main Title: Prologue Pt. 1'
-- The Mob Song
-- How Does A Moment Last Forever
+  - Mama Don't Want No Peas An Rice An Coconut Oil (Jazz'n RazzMaTazz)
+  - 'Mama Inez (Japan: New Orleans Collection Series, Vol. 8)'
+  - Beauty and the Beast
+  - Mama Don't Want No Peas an Rice an Coconut Oil
+  - How Does A Moment Last Forever (Music Box)
+  - 'Buddy Bolden''s Blues (Japan: New Orleans Collection Series)'
+  - 'Mama Inez (Japan: New Orleans Collection Series)'
+  - 'Main Title: Prologue Pt. 1'
+  - The Mob Song
+  - How Does A Moment Last Forever
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/cd9f678f-2a60-4fb1-a041-4b4fc1d2c5e7
-  spotify: https://open.spotify.com/artist/4ovdRELte0es5s3qKRKHia
+  musicbrainz: 'https://musicbrainz.org/artist/cd9f678f-2a60-4fb1-a041-4b4fc1d2c5e7'
+  spotify: 'https://open.spotify.com/artist/4ovdRELte0es5s3qKRKHia'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/haruka_kikuchi.jpg
 biography_enhanced_at: '2025-11-12T14:53:05.796204'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://syncopatedtimes.com/haruka-kikuchi-queen-of-the-tailgate-trombone/
-- https://www.harombone.com/about
-- https://wwoz.com/acts/haruka-kikuchi
-- https://salon726.com/home/meet-the-collective-haruka-kikuchi
-- https://nolajazzmuseum.org/events/2018/9/14/haruka-kikuchi-the-big-4tune
+  - 'https://syncopatedtimes.com/haruka-kikuchi-queen-of-the-tailgate-trombone/'
+  - 'https://www.harombone.com/about'
+  - 'https://wwoz.com/acts/haruka-kikuchi'
+  - 'https://salon726.com/home/meet-the-collective-haruka-kikuchi'
+  - 'https://nolajazzmuseum.org/events/2018/9/14/haruka-kikuchi-the-big-4tune'
 network_extracted: true
 entry_created: '2025-11-12T14:53:05.796220'
 last_updated: '2025-12-23T08:16:09.529798'
 disambiguation: Japanese trombonist & jazz singer
 gender: Female
 musicbrainz_id: cd9f678f-2a60-4fb1-a041-4b4fc1d2c5e7
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](haruka_kikuchi.jpg)

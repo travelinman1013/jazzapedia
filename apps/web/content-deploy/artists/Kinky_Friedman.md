@@ -2,20 +2,20 @@
 title: Kinky Friedman
 wiki_slug: kinky-friedman
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1944-10-31'
-birth_place: Chicago, Illinois, USA (birthplace); Kerrville, Texas, USA (raised/origin)
+birth_place: 'Chicago, Illinois, USA (birthplace); Kerrville, Texas, USA (raised/origin)'
 death_date: '2024-06-26'
 genres:
-- alt country
-- americana
+  - alt country
+  - americana
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Kinky_Friedman.jpg
   caption: Kinky Friedman
   background: solo_singer
   born: '1944-10-31'
-  origin: Chicago, Illinois, USA (birthplace); Kerrville, Texas, USA (raised/origin)
+  origin: 'Chicago, Illinois, USA (birthplace); Kerrville, Texas, USA (raised/origin)'
   died: '2024-06-26'
 audio_profile:
   tempo_avg: 125.7
@@ -32,46 +32,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Texas Jewboys
-  - Bob Dylan
-  - Chuck Glaser
-  - Kris Kristofferson, Tompall Glaser, Billy Swan, Shel Silverstein, Mickey Newbury, Willie Nelson, Waylon Jennings, Guy Clark, Townes Van Zandt, Jerry Jeff Walker, Billy Joe Shaver
+    - The Texas Jewboys
+    - Bob Dylan
+    - Chuck Glaser
+    - >-
+      Kris Kristofferson, Tompall Glaser, Billy Swan, Shel Silverstein, Mickey
+      Newbury, Willie Nelson, Waylon Jennings, Guy Clark, Townes Van Zandt,
+      Jerry Jeff Walker, Billy Joe Shaver
   influenced:
-  - Jesse Dayton
-  - Americana and alt-country artists
+    - Jesse Dayton
+    - Americana and alt-country artists
   mentors:
-  - Commander Cody
+    - Commander Cody
 spotify_data:
   followers: 18247
   id: 5VAErlnVRxRQk8ZvZt6i7e
   popularity: 21
-  url: https://open.spotify.com/artist/5VAErlnVRxRQk8ZvZt6i7e
+  url: 'https://open.spotify.com/artist/5VAErlnVRxRQk8ZvZt6i7e'
 discography_enriched: true
 top_tracks:
-- My Shits Fucked Up (The Loneliest Man I Ever Met)
-- Sold American (Sold American-30th Anniversary)
-- We Reserve The Right To Refuse Service To You (Sold American-30th Anniversary)
-- Poet of Motel 6 (Poet of Motel 6)
-- Get Your Biscuits In The Oven And Your Buns In Bed (Sold American-30th Anniversary)
-- Hello, Good Morning (Poet of Motel 6)
-- Banjo, Sophie, and Me (Poet of Motel 6)
-- Buddy, You're Living My Dream (Poet of Motel 6)
-- The Life and Death of a Rodeo Clown (Poet of Motel 6)
-- Sometimes (Poet of Motel 6)
+  - My Shits Fucked Up (The Loneliest Man I Ever Met)
+  - Sold American (Sold American-30th Anniversary)
+  - >-
+    We Reserve The Right To Refuse Service To You (Sold American-30th
+    Anniversary)
+  - Poet of Motel 6 (Poet of Motel 6)
+  - >-
+    Get Your Biscuits In The Oven And Your Buns In Bed (Sold American-30th
+    Anniversary)
+  - 'Hello, Good Morning (Poet of Motel 6)'
+  - 'Banjo, Sophie, and Me (Poet of Motel 6)'
+  - 'Buddy, You''re Living My Dream (Poet of Motel 6)'
+  - The Life and Death of a Rodeo Clown (Poet of Motel 6)
+  - Sometimes (Poet of Motel 6)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8d22894d-5105-44d4-923d-0c2f3f515da6
-  spotify: https://open.spotify.com/artist/5VAErlnVRxRQk8ZvZt6i7e
-  wikipedia: https://en.wikipedia.org/wiki/Kinky_Friedman
+  musicbrainz: 'https://musicbrainz.org/artist/8d22894d-5105-44d4-923d-0c2f3f515da6'
+  spotify: 'https://open.spotify.com/artist/5VAErlnVRxRQk8ZvZt6i7e'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kinky_Friedman'
 image_path: 03_Resources/source_material/ArtistPortraits/Kinky_Friedman.jpg
 biography_enhanced_at: '2025-10-20T01:51:52.921529'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Kinky_Friedman
-- https://musicrow.com/2024/06/kinky-friedman-dead-at-79/
-- https://reason.com/2024/06/28/how-kinky-friedman-conquered-texas/
-- https://www.bookbrowse.com/biographies/index.cfm/author_number/489/kinky-friedman
-- https://www.kinkyfriedman.com/bio
+  - 'https://en.wikipedia.org/wiki/Kinky_Friedman'
+  - 'https://musicrow.com/2024/06/kinky-friedman-dead-at-79/'
+  - 'https://reason.com/2024/06/28/how-kinky-friedman-conquered-texas/'
+  - >-
+    https://www.bookbrowse.com/biographies/index.cfm/author_number/489/kinky-friedman
+  - 'https://www.kinkyfriedman.com/bio'
 network_extracted: true
 entry_created: '2025-10-20T01:51:52.921559'
 last_updated: '2025-12-23T08:16:02.898562'
@@ -79,10 +87,11 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:34:03.017322'
 musicbrainz_id: 8d22894d-5105-44d4-923d-0c2f3f515da6
 tags:
-- country
-- has german audiobooks
-- politician
-
+  - country
+  - has german audiobooks
+  - politician
+is_active: false
+origin: 'Kerrville, Texas, United States'
 ---
 
 ![](Kinky_Friedman.jpg)

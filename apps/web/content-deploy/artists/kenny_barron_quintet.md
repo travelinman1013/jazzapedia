@@ -1,94 +1,98 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-22T07:01:36.210490'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:01:36.210498'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/28d91e80-2457-487e-ab3c-4244205d923a
-  spotify: https://open.spotify.com/artist/4fV8RoCy9P8JLEJirqs1MJ
-  wikipedia: https://en.wikipedia.org/wiki/Kenny_Barron
+  musicbrainz: 'https://musicbrainz.org/artist/28d91e80-2457-487e-ab3c-4244205d923a'
+  spotify: 'https://open.spotify.com/artist/4fV8RoCy9P8JLEJirqs1MJ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kenny_Barron'
 genres:
-- jazz
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/kenny_barron_quintet.jpg
 instruments:
-- eponymous
-- original
-- trumpet
-- drums (drum set)
-- flute
-last_updated: '2026-01-22T07:01:36.210498'
-members:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
-  mbid: 6b2e6e7c-4289-447c-a3dc-120e386da267
-  name: Kenny Barron
-- begin: ''
-  end: ''
-  instruments:
   - trumpet
-  mbid: b07d5aa9-936d-4860-bb06-3a4b4e0205ed
-  name: Eddie Henderson
-- begin: ''
-  end: ''
-  instruments:
   - drums (drum set)
-  mbid: 2b731eb2-402d-4235-b629-7ba36f440ad4
-  name: Victor Lewis
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 819112d2-1909-49b1-83ae-7f8c37d4ce7f
-  name: Rufus Reid
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: aca6de3d-016a-4a2c-ade5-ba210fff31b3
-  name: John Stubblefield
-- begin: ''
-  end: ''
-  instruments:
   - flute
-  mbid: b3461063-2b8a-45a6-b3b9-7d5ef0167e5b
-  name: Anne Drummond
+last_updated: '2026-01-22T07:01:36.210498'
+members:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 6b2e6e7c-4289-447c-a3dc-120e386da267
+    name: Kenny Barron
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: b07d5aa9-936d-4860-bb06-3a4b4e0205ed
+    name: Eddie Henderson
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 2b731eb2-402d-4235-b629-7ba36f440ad4
+    name: Victor Lewis
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 819112d2-1909-49b1-83ae-7f8c37d4ce7f
+    name: Rufus Reid
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: aca6de3d-016a-4a2c-ade5-ba210fff31b3
+    name: John Stubblefield
+  - begin: ''
+    end: ''
+    instruments:
+      - flute
+    mbid: b3461063-2b8a-45a6-b3b9-7d5ef0167e5b
+    name: Anne Drummond
 musical_connections:
   collaborators:
-  - Bill Barron
-  - Stan Getz
-  - Charlie Rouse, Buster Williams, Ben Riley
-  - Roy Haynes, Lee Morgan
+    - Bill Barron
+    - Stan Getz
+    - 'Charlie Rouse, Buster Williams, Ben Riley'
+    - 'Roy Haynes, Lee Morgan'
   influenced:
-  - David Sanchez
-  - Terence Blanchard
-  - Regina Bell
+    - David Sanchez
+    - Terence Blanchard
+    - Regina Bell
   mentors:
-  - Philly Joe Jones
-  - Yusef Lateef
-  - James Moody
-  - Dizzy Gillespie
+    - Philly Joe Jones
+    - Yusef Lateef
+    - James Moody
+    - Dizzy Gillespie
 musicbrainz_id: 28d91e80-2457-487e-ab3c-4244205d923a
 network_extracted: true
-origin: Philadelphia, Pennsylvania, United States
+origin: 'Philadelphia, Pennsylvania, United States'
 primary_source: perplexity
 research_sources:
-- https://www.jazzalley.com/www-home/artist.jsp?shownum=7495
-- https://en.wikipedia.org/wiki/Kenny_Barron
-- https://www.bluenote.com/artist/kenny-barron/
-- https://atljazzfest.com/artists/kenny-barron-quartet/
-- http://kennybarron.com/cms/wp-content/uploads/2014/02/biography.pdf
-- https://www.laphil.com/musicdb/artists/6023/kenny-barron
-- https://www.midatlanticarts.org/grants-programs/explore-opportunities/kenny-barron-2008-living-legacy-awardee/
-- https://wexarts.org/performing-arts/kenny-barron-trio
-- https://www.wrti.org/wrti-spotlight/2024-04-25/kenny-barron-reflects-on-mastery-mentorship-and-his-philly-roots
+  - 'https://www.jazzalley.com/www-home/artist.jsp?shownum=7495'
+  - 'https://en.wikipedia.org/wiki/Kenny_Barron'
+  - 'https://www.bluenote.com/artist/kenny-barron/'
+  - 'https://atljazzfest.com/artists/kenny-barron-quartet/'
+  - 'http://kennybarron.com/cms/wp-content/uploads/2014/02/biography.pdf'
+  - 'https://www.laphil.com/musicdb/artists/6023/kenny-barron'
+  - >-
+    https://www.midatlanticarts.org/grants-programs/explore-opportunities/kenny-barron-2008-living-legacy-awardee/
+  - 'https://wexarts.org/performing-arts/kenny-barron-trio'
+  - >-
+    https://www.wrti.org/wrti-spotlight/2024-04-25/kenny-barron-reflects-on-mastery-mentorship-and-his-philly-roots
 spotify_data:
   followers: 1874
   id: 4fV8RoCy9P8JLEJirqs1MJ
   popularity: 11
-  url: https://open.spotify.com/artist/4fV8RoCy9P8JLEJirqs1MJ
+  url: 'https://open.spotify.com/artist/4fV8RoCy9P8JLEJirqs1MJ'
 status: active
 title: Kenny Barron Quintet
+birth_place: 'Philadelphia, Pennsylvania, United States'
+birth_date: '1943-06-09'
 ---
 
 ![](kenny_barron_quintet.jpg)

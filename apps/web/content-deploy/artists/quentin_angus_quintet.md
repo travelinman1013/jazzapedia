@@ -1,66 +1,67 @@
 ---
-artist_type: band
+artist_type: person
 biography_enhanced_at: '2026-01-13T01:08:27.016128'
 enhancement_provider: perplexity
 entry_created: '2026-01-13T01:08:27.016133'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2232573d-0160-41f0-b784-5e95557d4592
-  spotify: https://open.spotify.com/artist/4ghv1B2L77b1Mx3Ml9M3dm
-  wikipedia: https://en.wikipedia.org/wiki/Quentin_Angus
+  musicbrainz: 'https://musicbrainz.org/artist/2232573d-0160-41f0-b784-5e95557d4592'
+  spotify: 'https://open.spotify.com/artist/4ghv1B2L77b1Mx3Ml9M3dm'
+  wikipedia: 'https://en.wikipedia.org/wiki/Quentin_Angus'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/quentin_angus_quintet.jpg
 instruments:
-- eponymous
+  - eponymous
 is_active: true
 last_updated: '2026-01-13T01:08:27.016134'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: c74549bd-78c8-4276-8623-e2f1b671fb44
-  name: Quentin Angus
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: c74549bd-78c8-4276-8623-e2f1b671fb44
+    name: Quentin Angus
 musical_connections:
   collaborators:
-  - Chad Lefkowitz-Brown
-  - Ari Hoenig
-  - Kevin Hays
-  - Jon Gordon
-  - Shai Maestro
-  - Linda Oh
-  - Jo Lawry
-  - Colin Stranahan
+    - Chad Lefkowitz-Brown
+    - Ari Hoenig
+    - Kevin Hays
+    - Jon Gordon
+    - Shai Maestro
+    - Linda Oh
+    - Jo Lawry
+    - Colin Stranahan
   influenced:
-  - Gilad Hekselman
+    - Gilad Hekselman
   mentors:
-  - John Abercrombie
-  - Pat Martino
-  - Tommy Emmanuel
-  - Jason Moran
-  - Hal Galper
-  - Randy Johnston
-  - Carmen Lundy
+    - John Abercrombie
+    - Pat Martino
+    - Tommy Emmanuel
+    - Jason Moran
+    - Hal Galper
+    - Randy Johnston
+    - Carmen Lundy
 musicbrainz_id: 2232573d-0160-41f0-b784-5e95557d4592
 network_extracted: true
-origin: Eden Valley, South Australia, Australia
+origin: Australia
 primary_source: perplexity
 research_sources:
-- https://thestreetcbr.wordpress.com/2022/10/04/getting-to-know-quentin-angus/
-- https://www.outsideinmusic.com/artistsandreleases/quentin-angus
-- https://www.purchase.edu/live/news/2949-meet-quentin-angus
-- https://www.dvmark.it/artist/quentin-angus/
-- https://en.wikipedia.org/wiki/Quentin_Angus
-- https://www.allaboutjazz.com/musicians/quentin-bryan-angus/
-- https://www.bmcc.cuny.edu/faculty/quentin-angus/
-- https://www.thestreet.org.au/shows/quentin-angus-quintet-usaaus
-- https://adelaidemusic.fandom.com/wiki/Quentin_Angus
+  - 'https://thestreetcbr.wordpress.com/2022/10/04/getting-to-know-quentin-angus/'
+  - 'https://www.outsideinmusic.com/artistsandreleases/quentin-angus'
+  - 'https://www.purchase.edu/live/news/2949-meet-quentin-angus'
+  - 'https://www.dvmark.it/artist/quentin-angus/'
+  - 'https://en.wikipedia.org/wiki/Quentin_Angus'
+  - 'https://www.allaboutjazz.com/musicians/quentin-bryan-angus/'
+  - 'https://www.bmcc.cuny.edu/faculty/quentin-angus/'
+  - 'https://www.thestreet.org.au/shows/quentin-angus-quintet-usaaus'
+  - 'https://adelaidemusic.fandom.com/wiki/Quentin_Angus'
 spotify_data:
   followers: 1
   id: 4ghv1B2L77b1Mx3Ml9M3dm
   popularity: 0
-  url: https://open.spotify.com/artist/4ghv1B2L77b1Mx3Ml9M3dm
+  url: 'https://open.spotify.com/artist/4ghv1B2L77b1Mx3Ml9M3dm'
 status: active
 title: Quentin Angus Quintet
+birth_place: 'Eden Valley, South Australia, Australia'
 ---
 
 ![](quentin_angus_quintet.jpg)

@@ -1,16 +1,17 @@
 ---
-title: Carey Bell, Billy Branch, James
+title: 'Carey Bell, Billy Branch, James'
 wiki_slug: carey-bell-billy-branch-james
 schema_version: 2
 status: active
-birth_place: Macon, Mississippi, USA
+birth_place: 'Macon, Mississippi, United States'
 genres:
-- blues
+  - blues
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/carey_bell_billy_branch_james.jpg
-  caption: Carey Bell, Billy Branch, James
+  image: >-
+    03_Resources/source_material/ArtistPortraits/carey_bell_billy_branch_james.jpg
+  caption: 'Carey Bell, Billy Branch, James'
   background: solo_singer
-  origin: Macon, Mississippi, USA
+  origin: 'Macon, Mississippi, USA'
 audio_profile:
   tempo_avg: 125.6
   energy_avg: 0.333
@@ -18,7 +19,7 @@ audio_profile:
   danceability_avg: 0.674
   acousticness_avg: 0.435
   instrumentalness_avg: 0.018
-  loudness_avg: -8.0
+  loudness_avg: -8
   speechiness_avg: 0.103
   liveness_avg: 0.193
   track_count: 50
@@ -26,50 +27,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lurrie Bell
-  - Billy Branch
-  - James Cotton
-  - Junior Wells
-  - Willie Dixon
-  - Muddy Waters
+    - Lurrie Bell
+    - Billy Branch
+    - James Cotton
+    - Junior Wells
+    - Willie Dixon
+    - Muddy Waters
   influenced:
-  - Billy Branch
-  - Lurrie Bell
+    - Billy Branch
+    - Lurrie Bell
   mentors:
-  - Lovie Lee
-  - Big Walter Horton
-  - Little Walter Jacobs
+    - Lovie Lee
+    - Big Walter Horton
+    - Little Walter Jacobs
 spotify_data:
   followers: 800
   id: 78oNCxQfiiPLFqMAL9bLNK
   popularity: 2
-  url: https://open.spotify.com/artist/78oNCxQfiiPLFqMAL9bLNK
+  url: 'https://open.spotify.com/artist/78oNCxQfiiPLFqMAL9bLNK'
 discography_enriched: true
 top_tracks:
-- Wrapped up In Love (The Greatest Acoustic Blues)
-- Five Long Years (The Finest Southern Blues)
-- Short Dress Woman (101 Delta Blues)
-- 'What My Mama Told Me (Gettin'' Up: Live at Buddy Guy''s Legends, Rosa and Lurrie''s Home)'
-- Here I Go Again (Guitar Blues 101)
-- The Road Is So Long
-- 'Gettin'' up (Gettin'' Up: Live at Buddy Guy''s Legends, Rosa and Lurrie''s Home)'
-- 'Baby Please Don''t Go (Gettin'' Up: Live at Buddy Guy''s Legends, Rosa and Lurrie''s Home)'
-- 'Bell''s Back (Gettin'' Up: Live at Buddy Guy''s Legends, Rosa and Lurrie''s Home)'
-- 'Last Night (Gettin'' Up: Live at Buddy Guy''s Legends, Rosa and Lurrie''s Home)'
+  - Wrapped up In Love (The Greatest Acoustic Blues)
+  - Five Long Years (The Finest Southern Blues)
+  - Short Dress Woman (101 Delta Blues)
+  - >-
+    What My Mama Told Me (Gettin' Up: Live at Buddy Guy's Legends, Rosa and
+    Lurrie's Home)
+  - Here I Go Again (Guitar Blues 101)
+  - The Road Is So Long
+  - 'Gettin'' up (Gettin'' Up: Live at Buddy Guy''s Legends, Rosa and Lurrie''s Home)'
+  - >-
+    Baby Please Don't Go (Gettin' Up: Live at Buddy Guy's Legends, Rosa and
+    Lurrie's Home)
+  - >-
+    Bell's Back (Gettin' Up: Live at Buddy Guy's Legends, Rosa and Lurrie's
+    Home)
+  - 'Last Night (Gettin'' Up: Live at Buddy Guy''s Legends, Rosa and Lurrie''s Home)'
 external_urls:
-  spotify: https://open.spotify.com/artist/78oNCxQfiiPLFqMAL9bLNK
-  wikipedia: https://en.wikipedia.org/wiki/Carey_Bell
+  spotify: 'https://open.spotify.com/artist/78oNCxQfiiPLFqMAL9bLNK'
+  wikipedia: 'https://en.wikipedia.org/wiki/Carey_Bell'
 image_path: 03_Resources/source_material/ArtistPortraits/carey_bell_billy_branch_james.jpg
 biography_enhanced_at: '2025-12-13T11:27:11.760635'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Carey_Bell
-- https://blues.org/blues_hof_inductee/carey-bell/
-- https://www.alligator.com/artists/Billy-Branch/
+  - 'https://en.wikipedia.org/wiki/Carey_Bell'
+  - 'https://blues.org/blues_hof_inductee/carey-bell/'
+  - 'https://www.alligator.com/artists/Billy-Branch/'
 network_extracted: true
 entry_created: '2025-12-13T11:27:11.760639'
 last_updated: '2025-12-23T08:16:06.413913'
+origin: 'Chicago, Illinois, United States'
+birth_date: '1936-11-14'
+death_date: '2023'
+artist_type: person
 ---
 
 ![](carey_bell_billy_branch_james.jpg)

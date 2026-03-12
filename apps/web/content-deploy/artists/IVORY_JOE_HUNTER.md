@@ -1,22 +1,22 @@
 ---
-title: IVORY JOE HUNTER
+title: Ivory Joe Hunter
 wiki_slug: ivory-joe-hunter
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1914-10-10'
-birth_place: Kirbyville, Texas, United States
+birth_place: 'Kirbyville, Texas, United States'
 death_date: '1974-11-08'
 genres:
-- doo-wop
-- jazz blues
-- northern soul
+  - doo-wop
+  - jazz blues
+  - northern soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/IVORY_JOE_HUNTER.jpg
   caption: IVORY JOE HUNTER
   background: solo_singer
   born: '1914-10-10'
-  origin: Kirbyville, Texas, United States
+  origin: 'Kirbyville, Texas, United States'
   died: '1974-11-08'
 audio_profile:
   tempo_avg: 106.2
@@ -33,55 +33,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Johnny Moore's Three Blazers
-  - Duke Ellington Band Members
+    - Johnny Moore's Three Blazers
+    - Duke Ellington Band Members
   influenced:
-  - Isaac Hayes
-  - Ray Charles
-  - Rick Stevens
+    - Isaac Hayes
+    - Ray Charles
+    - Rick Stevens
   mentors:
-  - Alan Lomax
+    - Alan Lomax
 spotify_data:
   followers: 6532
   id: 3DpdJvcq90sWYUx35Tcbea
   popularity: 21
-  url: https://open.spotify.com/artist/3DpdJvcq90sWYUx35Tcbea
+  url: 'https://open.spotify.com/artist/3DpdJvcq90sWYUx35Tcbea'
 discography_enriched: true
 top_tracks:
-- Since I Met You Baby (Ivory Joe Hunter)
-- Shooty Booty - Bonus Track (Ivory Joe Hunter)
-- 'Are you hep (Joe Hunter 1945-1950: I Almost Lost My Mind (Blues Collection Historical Recordings))'
-- 'Are You Hep? (I Almost Lost My Mind: 1945-50)'
-- I Got to Learn to Do the Mambo (Ivory Joe Hunter)
-- 'Can''t Explain How It Happened (Stax-Volt: The Complete Singles 1959-1968)'
-- That's Why I Dream (Ivory Joe Hunter)
-- I'm Cuttin' Out (Ivory Joe Hunter)
-- Shooty Booty (The Baron of the Boogie)
-- It's a Doggone Crying Shame (Ivory Joe Hunter)
+  - Since I Met You Baby (Ivory Joe Hunter)
+  - Shooty Booty - Bonus Track (Ivory Joe Hunter)
+  - >-
+    Are you hep (Joe Hunter 1945-1950: I Almost Lost My Mind (Blues Collection
+    Historical Recordings))
+  - 'Are You Hep? (I Almost Lost My Mind: 1945-50)'
+  - I Got to Learn to Do the Mambo (Ivory Joe Hunter)
+  - 'Can''t Explain How It Happened (Stax-Volt: The Complete Singles 1959-1968)'
+  - That's Why I Dream (Ivory Joe Hunter)
+  - I'm Cuttin' Out (Ivory Joe Hunter)
+  - Shooty Booty (The Baron of the Boogie)
+  - It's a Doggone Crying Shame (Ivory Joe Hunter)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ccf7253d-96b7-4cf3-9e11-ad916081a37b
-  spotify: https://open.spotify.com/artist/3DpdJvcq90sWYUx35Tcbea
-  wikipedia: https://en.wikipedia.org/wiki/Ivory_Joe_Hunter
+  musicbrainz: 'https://musicbrainz.org/artist/ccf7253d-96b7-4cf3-9e11-ad916081a37b'
+  spotify: 'https://open.spotify.com/artist/3DpdJvcq90sWYUx35Tcbea'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ivory_Joe_Hunter'
 image_path: 03_Resources/source_material/ArtistPortraits/IVORY_JOE_HUNTER.jpg
 biography_enhanced_at: '2025-10-21T06:57:39.148280'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Ivory_Joe_Hunter
-- https://www.tshaonline.org/handbook/entries/hunter-ivory-joe
-- https://www.allaboutjazz.com/musicians/ivory-joe-hunter/
-- https://aaregistry.org/story/a-bright-star-from-texas-ivory-joe-hunter/
+  - 'https://en.wikipedia.org/wiki/Ivory_Joe_Hunter'
+  - 'https://www.tshaonline.org/handbook/entries/hunter-ivory-joe'
+  - 'https://www.allaboutjazz.com/musicians/ivory-joe-hunter/'
+  - 'https://aaregistry.org/story/a-bright-star-from-texas-ivory-joe-hunter/'
 network_extracted: true
 entry_created: '2025-10-21T06:57:39.148300'
 last_updated: '2025-12-23T08:16:02.274990'
-disambiguation: American rhythm and blues singer, songwriter and pianist
+disambiguation: 'American rhythm and blues singer, songwriter and pianist'
 gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:29:36.922722'
 musicbrainz_id: ccf7253d-96b7-4cf3-9e11-ad916081a37b
 tags:
-- blues
-- boogie-woogie
-- r&b
+  - blues
+  - boogie-woogie
+  - r&b
+is_active: false
 ---
 
 ![](IVORY_JOE_HUNTER.jpg)

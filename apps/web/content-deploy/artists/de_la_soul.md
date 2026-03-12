@@ -1,88 +1,90 @@
 ---
 artist_type: band
 biography_enhanced_at: '2026-01-16T01:39:48.444178'
-birth_date: '1987'
+birth_date: '1988'
 enhancement_provider: perplexity
 entry_created: '2026-01-16T01:39:48.444183'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a8ebde98-7e91-46c7-992c-90039ba42017
-  spotify: https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6
-  wikipedia: https://en.wikipedia.org/wiki/De_La_Soul
+  musicbrainz: 'https://musicbrainz.org/artist/a8ebde98-7e91-46c7-992c-90039ba42017'
+  spotify: 'https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6'
+  wikipedia: 'https://en.wikipedia.org/wiki/De_La_Soul'
 formation_year: 1987
 genres:
-- jazz rap
-- east coast hip hop
+  - jazz rap
+  - east coast hip hop
 image_path: 03_Resources/source_material/ArtistPortraits/de_la_soul.jpg
 instruments:
-- original
-- other vocals
-- lead vocals
+  - original
+  - other vocals
+  - lead vocals
 is_active: true
 last_updated: '2026-01-16T01:39:48.444184'
 members:
-- begin: '1988'
-  end: '2023-02-12'
-  instruments:
-  - original
-  mbid: 85afb93c-62bb-455b-b806-079299d73db8
-  name: Dave Jolicoeur
-- &id001
-  begin: '1988'
-  end: ''
-  instruments:
-  - original
-  mbid: 85698450-df35-4f10-9860-7383a36572bc
-  name: Maseo
-- &id002
-  begin: '1988'
-  end: ''
-  instruments:
-  - original
-  mbid: 57c44102-301c-43d0-91d6-66d71ffd5376
-  name: Posdnuos
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 01c43958-e345-4aff-a6e2-b025423ac326
-  name: Native Tongues
+  - begin: '1988'
+    end: '2023-02-12'
+    instruments:
+      - original
+    mbid: 85afb93c-62bb-455b-b806-079299d73db8
+    name: Dave Jolicoeur
+  - &ref_0
+    begin: '1988'
+    end: ''
+    instruments:
+      - original
+    mbid: 85698450-df35-4f10-9860-7383a36572bc
+    name: Maseo
+  - &ref_1
+    begin: '1988'
+    end: ''
+    instruments:
+      - original
+    mbid: 57c44102-301c-43d0-91d6-66d71ffd5376
+    name: Posdnuos
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 01c43958-e345-4aff-a6e2-b025423ac326
+    name: Native Tongues
 musical_connections:
   collaborators:
-  - A Tribe Called Quest
-  - Jungle Brothers
-  - Queen Latifah
-  - Common
-  - Mos Def
-  - J Dilla
+    - A Tribe Called Quest
+    - Jungle Brothers
+    - Queen Latifah
+    - Common
+    - Mos Def
+    - J Dilla
   influenced:
-  - Gorillaz
+    - Gorillaz
   mentors:
-  - Prince Paul
+    - Prince Paul
 musicbrainz_id: a8ebde98-7e91-46c7-992c-90039ba42017
 network_extracted: true
-origin: Amityville
+origin: 'Amityville, Long Island, New York, United States'
 original_members:
-- *id001
-- *id002
+  - *ref_0
+  - *ref_1
 primary_source: perplexity
 research_sources:
-- https://www.hiphopscriptures.com/de-la-soul
-- https://en.wikipedia.org/wiki/De_La_Soul
-- https://top40weekly.com/de-la-soul/
-- https://app.soulyears.com/rnb-chart_position-artist-De+La+Soul.htm
-- https://www.jcardpress.com/shop/p/de-la-soul
-- https://www.jango.com/music/De+La+Soul/_full_bio
+  - 'https://www.hiphopscriptures.com/de-la-soul'
+  - 'https://en.wikipedia.org/wiki/De_La_Soul'
+  - 'https://top40weekly.com/de-la-soul/'
+  - 'https://app.soulyears.com/rnb-chart_position-artist-De+La+Soul.htm'
+  - 'https://www.jcardpress.com/shop/p/de-la-soul'
+  - 'https://www.jango.com/music/De+La+Soul/_full_bio'
 spotify_data:
   followers: 1223335
   id: 1Z8ODXyhEBi3WynYw0Rya6
   popularity: 75
-  url: https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6
+  url: 'https://open.spotify.com/artist/1Z8ODXyhEBi3WynYw0Rya6'
 status: active
 tags:
-- alternative hip hop
-- boom bap
-- conscious hip hop
-title: de la soul
+  - alternative hip hop
+  - boom bap
+  - conscious hip hop
+title: De La Soul
+death_date: '2023-02-12'
+birth_place: 'Amityville, Long Island, New York, United States'
 ---
 
 ![](de_la_soul.jpg)

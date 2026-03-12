@@ -2,15 +2,15 @@
 title: The Pointer Sisters
 wiki_slug: the-pointer-sisters
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1969'
 genres:
-- disco
+  - disco
 instruments:
-- original
-- choir vocals
-- background vocals
+  - original
+  - choir vocals
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_pointer_sisters.jpg
   caption: The Pointer Sisters
@@ -31,96 +31,96 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Richard Perry
-  - Bonnie Pointer
-  - Ruth Pointer's daughter Issa and granddaughter Sadako
+    - Richard Perry
+    - Bonnie Pointer
+    - Ruth Pointer's daughter Issa and granddaughter Sadako
   influenced:
-  - En Vogue
-  - Beyoncé
+    - En Vogue
+    - Beyoncé
   mentors:
-  - Reverend Elton Pointer
+    - Reverend Elton Pointer
 spotify_data:
   followers: 1141919
   id: 2kreKea2n96dXjcyAU9j5N
   popularity: 59
-  url: https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N
+  url: 'https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N'
 discography_enriched: true
 top_tracks:
-- I'm So Excited (So Excited! (Expanded Edition))
-- Jump (Original Mix) (Break Out (1983 Version - Expanded Edition))
-- I'm So Excited
-- Jump (For My Love) (Break Out)
-- Slow Hand (Black & White (Expanded Edition))
-- Fire (Energy (Expanded Edition))
-- I'm So Excited
-- Automatic (Break Out (1983 Version - Expanded Edition))
-- He's so Shy (Special Things (Bonus Track Version))
-- Jump (For My Love) (Break Out)
+  - I'm So Excited (So Excited! (Expanded Edition))
+  - Jump (Original Mix) (Break Out (1983 Version - Expanded Edition))
+  - I'm So Excited
+  - Jump (For My Love) (Break Out)
+  - Slow Hand (Black & White (Expanded Edition))
+  - Fire (Energy (Expanded Edition))
+  - I'm So Excited
+  - Automatic (Break Out (1983 Version - Expanded Edition))
+  - He's so Shy (Special Things (Bonus Track Version))
+  - Jump (For My Love) (Break Out)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/81bac815-97c5-4723-8f0b-4d8edfad1010
-  spotify: https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N
-  wikipedia: https://en.wikipedia.org/wiki/The_Pointer_Sisters
+  musicbrainz: 'https://musicbrainz.org/artist/81bac815-97c5-4723-8f0b-4d8edfad1010'
+  spotify: 'https://open.spotify.com/artist/2kreKea2n96dXjcyAU9j5N'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Pointer_Sisters'
 image_path: 03_Resources/source_material/ArtistPortraits/the_pointer_sisters.jpg
 biography_enhanced_at: '2025-10-26T12:43:45.944662'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.averyspecialchristmas.org/artists/the-pointer-sisters
-- https://thepointersisters.com/group-bio-short.html
-- https://www.britannica.com/topic/the-Pointer-Sisters
-- https://walkoffame.com/the-pointer-sisters/
+  - 'https://www.averyspecialchristmas.org/artists/the-pointer-sisters'
+  - 'https://thepointersisters.com/group-bio-short.html'
+  - 'https://www.britannica.com/topic/the-Pointer-Sisters'
+  - 'https://walkoffame.com/the-pointer-sisters/'
 network_extracted: true
 entry_created: '2025-10-26T12:43:45.944670'
 last_updated: '2025-12-23T08:16:17.066917'
 members:
-- begin: '1969'
-  end: '1977'
-  instruments:
-  - original
-  mbid: 6b722954-beae-4f0d-8c98-47b37fa9cec5
-  name: Bonnie Pointer
-- begin: '1969'
-  end: '2000'
-  instruments:
-  - original
-  mbid: 24528bd1-9396-4729-9ff8-becbd153a117
-  name: June Pointer
-- begin: '1969'
-  end: '2022'
-  instruments: []
-  mbid: 9af1bcef-d6a6-4e26-a0af-8600c076f72b
-  name: Anita Pointer
-- &id001
-  begin: 1972-12
-  end: ''
-  instruments: []
-  mbid: af88104b-3b68-4e4a-8fde-d99ecd2dc0db
-  name: Ruth Pointer
-- begin: '2002'
-  end: '2009'
-  instruments: []
-  mbid: 87271951-c7be-4e5f-a8fe-db885c4dad17
-  name: Issa Pointer
-- &id002
-  begin: '2009'
-  end: ''
-  instruments: []
-  mbid: 871be5b0-109f-4b6f-a149-bfea4db2183d
-  name: Sadako Pointer
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ec3cc8ab-b594-4825-8a57-57b93c224342
-  name: Jeff Breeh
+  - begin: '1969'
+    end: '1977'
+    instruments:
+      - original
+    mbid: 6b722954-beae-4f0d-8c98-47b37fa9cec5
+    name: Bonnie Pointer
+  - begin: '1969'
+    end: '2000'
+    instruments:
+      - original
+    mbid: 24528bd1-9396-4729-9ff8-becbd153a117
+    name: June Pointer
+  - begin: '1969'
+    end: '2022'
+    instruments: []
+    mbid: 9af1bcef-d6a6-4e26-a0af-8600c076f72b
+    name: Anita Pointer
+  - &ref_0
+    begin: 1972-12
+    end: ''
+    instruments: []
+    mbid: af88104b-3b68-4e4a-8fde-d99ecd2dc0db
+    name: Ruth Pointer
+  - begin: '2002'
+    end: '2009'
+    instruments: []
+    mbid: 87271951-c7be-4e5f-a8fe-db885c4dad17
+    name: Issa Pointer
+  - &ref_1
+    begin: '2009'
+    end: ''
+    instruments: []
+    mbid: 871be5b0-109f-4b6f-a149-bfea4db2183d
+    name: Sadako Pointer
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ec3cc8ab-b594-4825-8a57-57b93c224342
+    name: Jeff Breeh
 musicbrainz_id: 81bac815-97c5-4723-8f0b-4d8edfad1010
-origin: Oakland
+origin: 'Oakland, California, United States'
 original_members:
-- *id001
-- *id002
+  - *ref_0
+  - *ref_1
 tags:
-- 2008 universal fire victim
-- contemporary r&b
-- dance-pop
+  - 2008 universal fire victim
+  - contemporary r&b
+  - dance-pop
 ---
 
 ![](the_pointer_sisters.jpg)

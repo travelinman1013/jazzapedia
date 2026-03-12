@@ -3,26 +3,26 @@ title: Al Campbell
 wiki_slug: al-campbell
 schema_version: 2
 status: active
-birth_place: Kingston, Jamaica
+birth_place: 'Kingston, Jamaica, United States'
 genres:
-- lovers rock
-- roots reggae
-- rocksteady
-- reggae
-- dub
+  - lovers rock
+  - roots reggae
+  - rocksteady
+  - reggae
+  - dub
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/al_campbell.jpg
   caption: Al Campbell
   background: solo_singer
-  origin: Kingston, Jamaica
+  origin: 'Kingston, Jamaica'
 audio_profile:
-  tempo_avg: 112.0
+  tempo_avg: 112
   energy_avg: 0.503
   valence_avg: 0.74
   danceability_avg: 0.788
   acousticness_avg: 0.203
   instrumentalness_avg: 0.019
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.122
   liveness_avg: 0.134
   track_count: 50
@@ -30,49 +30,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Freddie McGregor
-  - Ernest Wilson
-  - Prince Lincoln Thompson
-  - The Heptones
-  - Bunny Lee
-  - Linval Thompson
-  - Cornell Campbell
-  - Jimmy Riley
+    - Freddie McGregor
+    - Ernest Wilson
+    - Prince Lincoln Thompson
+    - The Heptones
+    - Bunny Lee
+    - Linval Thompson
+    - Cornell Campbell
+    - Jimmy Riley
   influenced: []
   mentors:
-  - Bob Marley
-  - Dennis Brown
-  - John Holt
+    - Bob Marley
+    - Dennis Brown
+    - John Holt
 spotify_data:
   followers: 34816
   id: 5FhVnyPs1wSLjkZk4mU69M
   popularity: 34
-  url: https://open.spotify.com/artist/5FhVnyPs1wSLjkZk4mU69M
+  url: 'https://open.spotify.com/artist/5FhVnyPs1wSLjkZk4mU69M'
 discography_enriched: true
 top_tracks:
-- Gee Baby (No More Running + Gee Baby)
-- I Want You Around (Diamonds + Rainy Days)
-- Diamonds (Diamonds + Rainy Days)
-- Never Let You Down (Diamonds + Rainy Days)
-- No More Running (No More Running + Gee Baby)
-- Old Time People Say
-- Take a Ride
-- Respect (Dubs From The Foundation)
-- Cornal Mind (Diamonds + Rainy Days)
-- When the Grass Is Green (No More Running + Gee Baby)
+  - Gee Baby (No More Running + Gee Baby)
+  - I Want You Around (Diamonds + Rainy Days)
+  - Diamonds (Diamonds + Rainy Days)
+  - Never Let You Down (Diamonds + Rainy Days)
+  - No More Running (No More Running + Gee Baby)
+  - Old Time People Say
+  - Take a Ride
+  - Respect (Dubs From The Foundation)
+  - Cornal Mind (Diamonds + Rainy Days)
+  - When the Grass Is Green (No More Running + Gee Baby)
 external_urls:
-  spotify: https://open.spotify.com/artist/5FhVnyPs1wSLjkZk4mU69M
+  spotify: 'https://open.spotify.com/artist/5FhVnyPs1wSLjkZk4mU69M'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/al_campbell.jpg
 biography_enhanced_at: '2025-12-15T01:38:18.792212'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://pauzeradio.com/al-campbell/
-- https://wbssmedia.com/artists/detail/2088
+  - 'https://pauzeradio.com/al-campbell/'
+  - 'https://wbssmedia.com/artists/detail/2088'
 network_extracted: true
 entry_created: '2025-12-15T01:38:18.792218'
 last_updated: '2025-12-23T08:16:04.430991'
+birth_date: '1954-08-31'
+artist_type: person
 ---
 
 ![](al_campbell.jpg)

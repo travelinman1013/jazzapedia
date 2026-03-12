@@ -1,19 +1,19 @@
 ---
-title: eddie hazel
+title: Eddie Hazel
 wiki_slug: eddie-hazel
 schema_version: 2
 status: active
-birth_place: Brooklyn, New York, United States
+birth_place: 'Brooklyn, New York, United States'
 genres:
-- funk rock
-- psychedelic rock
+  - funk rock
+  - psychedelic rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/eddie_hazel.jpg
   caption: eddie hazel
   background: solo_singer
-  origin: Brooklyn, New York, United States
+  origin: 'Brooklyn, New York, United States'
 audio_profile:
-  tempo_avg: 124.0
+  tempo_avg: 124
   energy_avg: 0.685
   valence_avg: 0.575
   danceability_avg: 0.444
@@ -27,47 +27,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Billy 'Bass' Nelson
-  - Tiki Fulwood
-  - Bernie Worrell
-  - George Clinton
+    - Billy 'Bass' Nelson
+    - Tiki Fulwood
+    - Bernie Worrell
+    - George Clinton
   influenced:
-  - John Frusciante
-  - Ween
-  - Nick Cave
+    - John Frusciante
+    - Ween
+    - Nick Cave
   mentors:
-  - George Clinton
+    - George Clinton
 spotify_data:
   followers: 81967
   id: 3JVF9a4IJrL7sTSdjXxIqJ
   popularity: 33
-  url: https://open.spotify.com/artist/3JVF9a4IJrL7sTSdjXxIqJ
+  url: 'https://open.spotify.com/artist/3JVF9a4IJrL7sTSdjXxIqJ'
 discography_enriched: true
 top_tracks:
-- California Dreamin' (Game, Dames And Guitar Thangs)
-- I Want You (She's so Heavy) (Game, Dames And Guitar Thangs)
-- What About It? (Game, Dames And Guitar Thangs)
-- Physical Love (Game, Dames And Guitar Thangs)
-- Frantic Moment (Game, Dames And Guitar Thangs)
-- Smedley Smorganoff (Jams From The Heart)
-- So Goes the Story (Game, Dames And Guitar Thangs)
-- Uncut Funk (Jams From The Heart)
-- California Dreaming (AT HOME)
-- California Dreamin' - Reprise (Game, Dames And Guitar Thangs)
+  - 'California Dreamin'' (Game, Dames And Guitar Thangs)'
+  - 'I Want You (She''s so Heavy) (Game, Dames And Guitar Thangs)'
+  - 'What About It? (Game, Dames And Guitar Thangs)'
+  - 'Physical Love (Game, Dames And Guitar Thangs)'
+  - 'Frantic Moment (Game, Dames And Guitar Thangs)'
+  - Smedley Smorganoff (Jams From The Heart)
+  - 'So Goes the Story (Game, Dames And Guitar Thangs)'
+  - Uncut Funk (Jams From The Heart)
+  - California Dreaming (AT HOME)
+  - 'California Dreamin'' - Reprise (Game, Dames And Guitar Thangs)'
 external_urls:
-  spotify: https://open.spotify.com/artist/3JVF9a4IJrL7sTSdjXxIqJ
-  wikipedia: https://en.wikipedia.org/wiki/Eddie_Hazel
+  spotify: 'https://open.spotify.com/artist/3JVF9a4IJrL7sTSdjXxIqJ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Eddie_Hazel'
 image_path: 03_Resources/source_material/ArtistPortraits/eddie_hazel.jpg
 biography_enhanced_at: '2025-10-19T11:52:02.371734'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Eddie_Hazel
-- https://www.flametreepro.com/personalities-eddie-hazel-the-hero-of-funk-guitar-heroes.html
-- https://liveforlivemusic.com/features/eddie-hazel-birthday-pfunk/
+  - 'https://en.wikipedia.org/wiki/Eddie_Hazel'
+  - >-
+    https://www.flametreepro.com/personalities-eddie-hazel-the-hero-of-funk-guitar-heroes.html
+  - 'https://liveforlivemusic.com/features/eddie-hazel-birthday-pfunk/'
 network_extracted: true
 entry_created: '2025-10-19T11:52:02.371740'
 last_updated: '2025-12-23T08:16:08.167527'
+origin: 'Plainfield, New Jersey, United States'
+artist_type: person
 ---
 
 ![](eddie_hazel.jpg)

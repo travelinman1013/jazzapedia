@@ -2,18 +2,18 @@
 title: Big Freedia
 wiki_slug: big-freedia
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1978-01-28'
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- bounce
+  - bounce
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Big_Freedia.jpg
   caption: Big Freedia
   background: solo_singer
   born: '1978-01-28'
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 114.3
   energy_avg: 0.861
@@ -29,46 +29,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Rusty Lazer
-  - Galactic
-  - Beyoncé
-  - Drake
-  - Lizzo
+    - Rusty Lazer
+    - Galactic
+    - Beyoncé
+    - Drake
+    - Lizzo
   influenced:
-  - Beyoncé
-  - Mainstream pop and hip-hop artists
+    - Beyoncé
+    - Mainstream pop and hip-hop artists
   mentors:
-  - Katey Red
-  - MC T. Tucker & DJ Irv
+    - Katey Red
+    - MC T. Tucker & DJ Irv
 spotify_data:
   followers: 120276
   id: 2gyv1akuIB9fQvXoGSPaJr
   popularity: 44
-  url: https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr
+  url: 'https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr'
 discography_enriched: true
 top_tracks:
-- Shake It (feat. Big Freedia, CupcakKe, Brooke Candy and Pabllo Vittar) (Charli)
-- Raising Hell (feat. Big Freedia) (High Road)
-- Karaoke (feat. Lizzo)
-- Raising Hell (feat. Big Freedia)
-- Stupid Boy (feat. Big Freedia)
-- Church
-- Holy Shuffle (feat. Billy Porter)
-- Rush - Big Freedia Remix
-- Celebration (feat. Dawn Richard) (Pressing Onward)
-- Stupid Boy (feat. Big Freedia)
+  - >-
+    Shake It (feat. Big Freedia, CupcakKe, Brooke Candy and Pabllo Vittar)
+    (Charli)
+  - Raising Hell (feat. Big Freedia) (High Road)
+  - Karaoke (feat. Lizzo)
+  - Raising Hell (feat. Big Freedia)
+  - Stupid Boy (feat. Big Freedia)
+  - Church
+  - Holy Shuffle (feat. Billy Porter)
+  - Rush - Big Freedia Remix
+  - Celebration (feat. Dawn Richard) (Pressing Onward)
+  - Stupid Boy (feat. Big Freedia)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/14637c9a-4156-4990-862d-02113db0bc07
-  spotify: https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr
-  wikipedia: https://en.wikipedia.org/wiki/Big_Freedia
+  musicbrainz: 'https://musicbrainz.org/artist/14637c9a-4156-4990-862d-02113db0bc07'
+  spotify: 'https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr'
+  wikipedia: 'https://en.wikipedia.org/wiki/Big_Freedia'
 image_path: 03_Resources/source_material/ArtistPortraits/Big_Freedia.jpg
 biography_enhanced_at: '2025-10-19T10:34:32.340362'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://64parishes.org/entry/big-freedia
-- https://musicrising.tulane.edu/discover/people/big-freedia/
-- https://www.bigfreedia.com/bio/
+  - 'https://64parishes.org/entry/big-freedia'
+  - 'https://musicrising.tulane.edu/discover/people/big-freedia/'
+  - 'https://www.bigfreedia.com/bio/'
 network_extracted: true
 entry_created: '2025-10-19T10:34:32.340374'
 last_updated: '2025-12-23T08:16:01.201012'
@@ -76,10 +78,10 @@ gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:02:01.809233'
 musicbrainz_id: 14637c9a-4156-4990-862d-02113db0bc07
 tags:
-- alternative hip hop
-- bounce
-- electro
-
+  - alternative hip hop
+  - bounce
+  - electro
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](Big_Freedia.jpg)

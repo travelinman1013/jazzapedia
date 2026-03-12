@@ -5,21 +5,21 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1955-12-08'
-birth_place: Kingston, Jamaica
+birth_place: 'Kingston, Jamaica, United States'
 death_date: '1980-11-22'
 genres:
-- reggae
-- dancehall
-- roots reggae
-- dub
-- ragga
-- rocksteady
+  - reggae
+  - dancehall
+  - roots reggae
+  - dub
+  - ragga
+  - rocksteady
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/general_echo.jpg
   caption: General Echo
   background: solo_singer
   born: '1955-12-08'
-  origin: Kingston, Jamaica
+  origin: 'Kingston, Jamaica'
   died: '1980-11-22'
 audio_profile:
   tempo_avg: 133.7
@@ -36,51 +36,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dudley 'Manzie' Swaby
-  - Winston Riley
-  - Henry 'Junjo' Lawes
-  - Sly Dunbar and Robbie Shakespeare
-  - Leon 'Big John' Johns
-  - Flux
+    - Dudley 'Manzie' Swaby
+    - Winston Riley
+    - Henry 'Junjo' Lawes
+    - Sly Dunbar and Robbie Shakespeare
+    - Leon 'Big John' Johns
+    - Flux
   influenced:
-  - Shabba Ranks
-  - Yellowman
+    - Shabba Ranks
+    - Yellowman
   mentors:
-  - U-Roy
+    - U-Roy
 spotify_data:
   followers: 2755
   id: 6BpcMPRaLWKu3hd1XWTKjh
   popularity: 14
-  url: https://open.spotify.com/artist/6BpcMPRaLWKu3hd1XWTKjh
+  url: 'https://open.spotify.com/artist/6BpcMPRaLWKu3hd1XWTKjh'
 discography_enriched: true
 top_tracks:
-- Arleen (Strictly The Best Vol. 51)
-- 'Arleen (Reggae Anthology: Winston Riley - Quintessential Techniques)'
-- Bathroom Sex (12"" Of Pleasure)
-- Track Shoes (Teacher Fe Di Class 1979-1980)
-- 'Sister Sue (Reggae Anthology: Winston Riley - Quintessential Techniques)'
-- Arleen
-- Arleen (24K Gold Dancehall Megamix)
-- Eventide Fire A Disaster (Robin Hood)
-- Drunken Master (Sly & Robbie present Taxi)
-- Track Shoes
+  - Arleen (Strictly The Best Vol. 51)
+  - 'Arleen (Reggae Anthology: Winston Riley - Quintessential Techniques)'
+  - Bathroom Sex (12"" Of Pleasure)
+  - Track Shoes (Teacher Fe Di Class 1979-1980)
+  - 'Sister Sue (Reggae Anthology: Winston Riley - Quintessential Techniques)'
+  - Arleen
+  - Arleen (24K Gold Dancehall Megamix)
+  - Eventide Fire A Disaster (Robin Hood)
+  - Drunken Master (Sly & Robbie present Taxi)
+  - Track Shoes
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d87d9e3b-6187-4bd8-9936-72c3ab62d2d5
-  spotify: https://open.spotify.com/artist/6BpcMPRaLWKu3hd1XWTKjh
+  musicbrainz: 'https://musicbrainz.org/artist/d87d9e3b-6187-4bd8-9936-72c3ab62d2d5'
+  spotify: 'https://open.spotify.com/artist/6BpcMPRaLWKu3hd1XWTKjh'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/general_echo.jpg
 biography_enhanced_at: '2025-12-22T01:49:16.196919'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://reggaelicious.pbworks.com/w/page/8799789/General%20Echo
-- https://www.youtube.com/watch?v=d5Ouh7fFCgs
-- https://www.dancehallmag.com/2024/08/22/features/general-echo-the-slackest-deejay-in-dancehall.html
+  - 'http://reggaelicious.pbworks.com/w/page/8799789/General%20Echo'
+  - 'https://www.youtube.com/watch?v=d5Ouh7fFCgs'
+  - >-
+    https://www.dancehallmag.com/2024/08/22/features/general-echo-the-slackest-deejay-in-dancehall.html
 network_extracted: true
 entry_created: '2025-12-22T01:49:16.196924'
 last_updated: '2025-12-23T08:16:09.053209'
 gender: Male
 musicbrainz_id: d87d9e3b-6187-4bd8-9936-72c3ab62d2d5
+is_active: false
+origin: 'Kingston, Jamaica, United States'
 ---
 
 ![](general_echo.jpg)

@@ -1,38 +1,43 @@
 ---
 biography_enhanced_at: '2026-01-06T02:03:50.345182'
-birth_place: Atlantic City, New Jersey, USA
+birth_place: 'Atlantic City, New Jersey, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-06T02:03:50.345189'
 external_urls:
-  spotify: https://open.spotify.com/artist/2YdcO2DBhM7j3f0P1XKi9Y
-  wikipedia: https://en.wikipedia.org/wiki/Bob_Merrill
+  spotify: 'https://open.spotify.com/artist/2YdcO2DBhM7j3f0P1XKi9Y'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bob_Merrill'
 genres: []
 image_path: ''
 last_updated: '2026-01-06T02:03:50.345189'
 musical_connections:
   collaborators:
-  - Dorothy Shay
-  - Jule Styne
-  - Jerry Herman
+    - Dorothy Shay
+    - Jule Styne
+    - Jerry Herman
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://fromthevaults-boppinbob.blogspot.com/2025/05/bob-merrill-born-17-may-1921.html
-- https://en.wikipedia.org/wiki/Bob_Merrill
-- https://www.songhall.org/profiles/bob-merrill
-- https://www.broadwayworld.com/people/Bob-Merrill/
-- https://travsd.wordpress.com/2022/05/17/bob-merrill-from-burlesque-to-broadway/
-- https://www.latimes.com/archives/la-xpm-1998-feb-19-me-20746-story.html
-- https://www.imdb.com/name/nm0581265/bio/
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2025/05/bob-merrill-born-17-may-1921.html
+  - 'https://en.wikipedia.org/wiki/Bob_Merrill'
+  - 'https://www.songhall.org/profiles/bob-merrill'
+  - 'https://www.broadwayworld.com/people/Bob-Merrill/'
+  - >-
+    https://travsd.wordpress.com/2022/05/17/bob-merrill-from-burlesque-to-broadway/
+  - 'https://www.latimes.com/archives/la-xpm-1998-feb-19-me-20746-story.html'
+  - 'https://www.imdb.com/name/nm0581265/bio/'
 spotify_data:
   followers: 45
   id: 2YdcO2DBhM7j3f0P1XKi9Y
   popularity: 25
-  url: https://open.spotify.com/artist/2YdcO2DBhM7j3f0P1XKi9Y
+  url: 'https://open.spotify.com/artist/2YdcO2DBhM7j3f0P1XKi9Y'
 status: active
 title: Bob Merrill
+birth_date: '1921-05-17'
+death_date: '1998-02-17'
+artist_type: person
 ---
 
 ![]()

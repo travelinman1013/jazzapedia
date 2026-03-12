@@ -1,16 +1,16 @@
 ---
-title: elder roma wilson
+title: Elder Roma Wilson
 wiki_slug: elder-roma-wilson
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1910-12-22'
-birth_place: Hickory Flat
+birth_place: 'Hickory Flat, Benton County, Mississippi, United States'
 death_date: '2018-10-25'
 genres:
-- country blues
-- modern blues
-- ragtime
+  - country blues
+  - modern blues
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/elder_roma_wilson.jpg
   caption: elder roma wilson
@@ -33,50 +33,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Leon Pinson
+    - Leon Pinson
   influenced:
-  - Gospel and blues harmonica players in the folk and blues revival (various, unnamed)
+    - >-
+      Gospel and blues harmonica players in the folk and blues revival (various,
+      unnamed)
   mentors:
-  - Holiness and Church of God in Christ preachers (unnamed)
+    - Holiness and Church of God in Christ preachers (unnamed)
 spotify_data:
   followers: 248
   id: 3eEUJuH4ZCTlT30sAYPBfY
   popularity: 1
-  url: https://open.spotify.com/artist/3eEUJuH4ZCTlT30sAYPBfY
+  url: 'https://open.spotify.com/artist/3eEUJuH4ZCTlT30sAYPBfY'
 discography_enriched: true
 top_tracks:
-- Give Me My Flowers While I Live (This Train is a Clean Train)
-- Lily of the Valley (Stand by Me) (This Train is a Clean Train)
-- This Train (This Train is a Clean Train)
-- Gonna Wait Till a Change Come (15 Down Home Gospel Classics)
-- Ain't It a Shame (This Train is a Clean Train)
-- This Train Is a Clean Train - Version 1 (This Train is a Clean Train)
-- The Lord Will Make a Way, Yes He Will (This Train is a Clean Train)
-- My Lord's Gonna Move This Wicked Race (This Train is a Clean Train)
-- Gonna Wait Till a Change Come (This Train is a Clean Train)
-- Better Get Ready (This Train is a Clean Train)
+  - Give Me My Flowers While I Live (This Train is a Clean Train)
+  - Lily of the Valley (Stand by Me) (This Train is a Clean Train)
+  - This Train (This Train is a Clean Train)
+  - Gonna Wait Till a Change Come (15 Down Home Gospel Classics)
+  - Ain't It a Shame (This Train is a Clean Train)
+  - This Train Is a Clean Train - Version 1 (This Train is a Clean Train)
+  - 'The Lord Will Make a Way, Yes He Will (This Train is a Clean Train)'
+  - My Lord's Gonna Move This Wicked Race (This Train is a Clean Train)
+  - Gonna Wait Till a Change Come (This Train is a Clean Train)
+  - Better Get Ready (This Train is a Clean Train)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2ce03907-1af7-45cb-8801-f48e7c4b9328
-  spotify: https://open.spotify.com/artist/3eEUJuH4ZCTlT30sAYPBfY
-  wikipedia: https://en.wikipedia.org/wiki/Elder_Roma_Wilson
+  musicbrainz: 'https://musicbrainz.org/artist/2ce03907-1af7-45cb-8801-f48e7c4b9328'
+  spotify: 'https://open.spotify.com/artist/3eEUJuH4ZCTlT30sAYPBfY'
+  wikipedia: 'https://en.wikipedia.org/wiki/Elder_Roma_Wilson'
 image_path: 03_Resources/source_material/ArtistPortraits/elder_roma_wilson.jpg
 biography_enhanced_at: '2025-12-12T12:08:30.713260'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Elder_Roma_Wilson
-- https://www.arts.gov/honors/heritage/elder-roma-wilson
-- https://mississippifolklife.org/exhibits/elder-roma-wilson
-- https://msbluestrail.org/blues-trail-markers/roma-wilson-leon-pinson
-- https://folkways-media.si.edu/docs/folkways/artwork/ARH00429.pdf
-- https://www.allmusic.com/artist/elder-roma-wilson-mn0000162582
+  - 'https://en.wikipedia.org/wiki/Elder_Roma_Wilson'
+  - 'https://www.arts.gov/honors/heritage/elder-roma-wilson'
+  - 'https://mississippifolklife.org/exhibits/elder-roma-wilson'
+  - 'https://msbluestrail.org/blues-trail-markers/roma-wilson-leon-pinson'
+  - 'https://folkways-media.si.edu/docs/folkways/artwork/ARH00429.pdf'
+  - 'https://www.allmusic.com/artist/elder-roma-wilson-mn0000162582'
 network_extracted: true
 entry_created: '2025-12-12T12:08:30.713275'
 last_updated: '2025-12-23T08:16:08.278616'
 gender: Male
 musicbrainz_id: 2ce03907-1af7-45cb-8801-f48e7c4b9328
 tags:
-- gospel
+  - gospel
+is_active: false
 ---
 
 ![](elder_roma_wilson.jpg)

@@ -23,53 +23,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Rob Davis
-  - Ezell Smith Jr.
-  - Smitti Supab
-  - Alexander Mallet
-  - Phil Breen
-  - Michael Darby
-  - Tyler Clements
-  - Gio Blackmon
+    - Rob Davis
+    - Ezell Smith Jr.
+    - Smitti Supab
+    - Alexander Mallet
+    - Phil Breen
+    - Michael Darby
+    - Tyler Clements
+    - Gio Blackmon
   influenced: []
   mentors:
-  - The Meters
-  - Allman Brothers
-  - The Band
-  - Booker T & the MGs
-  - King Curtis
+    - The Meters
+    - Allman Brothers
+    - The Band
+    - Booker T & the MGs
+    - King Curtis
 spotify_data:
   followers: 69
   id: 3q8yPNmKITP14G9YOEnnrV
   popularity: 1
-  url: https://open.spotify.com/artist/3q8yPNmKITP14G9YOEnnrV
+  url: 'https://open.spotify.com/artist/3q8yPNmKITP14G9YOEnnrV'
 discography_enriched: true
 top_tracks:
-- Baby's Gone (Baby's Gone)
-- Bucket of Fish (Bucket of Fish)
-- Hurry Up (Hurry Up)
-- Bus Station Blues (Hurry Up)
-- Itis (Hurry Up)
-- Cringe (Hurry Up)
-- This Time (Hurry Up)
-- Acting Up (Hurry Up)
-- Raindrops on Mardi Gras (Hurry Up)
+  - Baby's Gone (Baby's Gone)
+  - Bucket of Fish (Bucket of Fish)
+  - Hurry Up (Hurry Up)
+  - Bus Station Blues (Hurry Up)
+  - Itis (Hurry Up)
+  - Cringe (Hurry Up)
+  - This Time (Hurry Up)
+  - Acting Up (Hurry Up)
+  - Raindrops on Mardi Gras (Hurry Up)
 external_urls:
-  spotify: https://open.spotify.com/artist/3q8yPNmKITP14G9YOEnnrV
+  spotify: 'https://open.spotify.com/artist/3q8yPNmKITP14G9YOEnnrV'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/captain_buckle.jpg
 biography_enhanced_at: '2025-11-20T07:14:39.553930'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://glidemagazine.com/318690/song-premiere-talented-new-orleans-sidemen-come-together-as-captain-buckles-for-soulful-blues-rock-tune-bus-station-blues/
-- https://www.americanbluesscene.com/2025/11/captain-buckles-exclusive-album-stream-qa-with-bandleader-smitti-supab/
-- https://captainbucklesband.com
-- https://www.gigsalad.com/captain_buckles_new_orleans
+  - >-
+    https://glidemagazine.com/318690/song-premiere-talented-new-orleans-sidemen-come-together-as-captain-buckles-for-soulful-blues-rock-tune-bus-station-blues/
+  - >-
+    https://www.americanbluesscene.com/2025/11/captain-buckles-exclusive-album-stream-qa-with-bandleader-smitti-supab/
+  - 'https://captainbucklesband.com'
+  - 'https://www.gigsalad.com/captain_buckles_new_orleans'
 network_extracted: true
 entry_created: '2025-11-20T07:14:39.553945'
 last_updated: '2025-12-23T08:16:06.397904'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![](captain_buckle.jpg)

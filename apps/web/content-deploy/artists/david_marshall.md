@@ -1,19 +1,19 @@
 ---
-title: DAVID MARSHALL
+title: David Marshall
 wiki_slug: david-marshall
 schema_version: 2
 status: active
-birth_place: West Virginia (birthplace), Ohio (later base), United States
+birth_place: 'West Virginia (birthplace), Ohio (later base), United States'
 genres:
-- christian country
-- southern gospel
-- bluegrass
-- christian folk
+  - christian country
+  - southern gospel
+  - bluegrass
+  - christian folk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/david_marshall.jpg
   caption: DAVID MARSHALL
   background: solo_singer
-  origin: West Virginia (birthplace), Ohio (later base), United States
+  origin: 'West Virginia (birthplace), Ohio (later base), United States'
 audio_profile:
   tempo_avg: 124.5
   energy_avg: 0.438
@@ -21,7 +21,7 @@ audio_profile:
   danceability_avg: 0.603
   acousticness_avg: 0.463
   instrumentalness_avg: 0.158
-  loudness_avg: -11.0
+  loudness_avg: -11
   speechiness_avg: 0.035
   liveness_avg: 0.209
   track_count: 16
@@ -29,45 +29,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Judy Marshall
-  - Ben Marshall
-  - Danny Marshall
+    - Judy Marshall
+    - Ben Marshall
+    - Danny Marshall
   influenced:
-  - Rhonda Vincent
-  - Alison Krauss
-  - The Isaacs
+    - Rhonda Vincent
+    - Alison Krauss
+    - The Isaacs
   mentors:
-  - Ralph Stanley
+    - Ralph Stanley
 spotify_data:
   followers: 257
   id: 7aUh5iCazoB4WGi8DsGCwa
   popularity: 12
-  url: https://open.spotify.com/artist/7aUh5iCazoB4WGi8DsGCwa
+  url: 'https://open.spotify.com/artist/7aUh5iCazoB4WGi8DsGCwa'
 discography_enriched: true
 top_tracks:
-- He Had Me On His Mind (Clearwaters (Remastered))
-- Hammer And Nail (Clearwaters (Remastered))
-- When I Wake Up To Sleep No More (Clinch Mountain Country)
-- Mr. Jesus (Clearwaters (Remastered))
-- Hold Me Tight (Clearwaters (Remastered))
-- The Makings (Clearwaters (Remastered))
-- Restore Thy Brother (Clearwaters (Remastered))
-- Dying Bed (Clearwaters (Remastered))
-- Clearwaters (23rd Psalm) (Clearwaters (Remastered))
-- The Last Time (Clearwaters (Remastered))
+  - He Had Me On His Mind (Clearwaters (Remastered))
+  - Hammer And Nail (Clearwaters (Remastered))
+  - When I Wake Up To Sleep No More (Clinch Mountain Country)
+  - Mr. Jesus (Clearwaters (Remastered))
+  - Hold Me Tight (Clearwaters (Remastered))
+  - The Makings (Clearwaters (Remastered))
+  - Restore Thy Brother (Clearwaters (Remastered))
+  - Dying Bed (Clearwaters (Remastered))
+  - Clearwaters (23rd Psalm) (Clearwaters (Remastered))
+  - The Last Time (Clearwaters (Remastered))
 external_urls:
-  spotify: https://open.spotify.com/artist/7aUh5iCazoB4WGi8DsGCwa
+  spotify: 'https://open.spotify.com/artist/7aUh5iCazoB4WGi8DsGCwa'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/david_marshall.jpg
 biography_enhanced_at: '2025-11-17T10:41:59.637244'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://nodepression.org/marshall-family-the-legendary-marshall-family-volume-one/
-- https://rebelrecords.com/catalog-artists/the-marshall-family/
+  - >-
+    https://nodepression.org/marshall-family-the-legendary-marshall-family-volume-one/
+  - 'https://rebelrecords.com/catalog-artists/the-marshall-family/'
 network_extracted: true
 entry_created: '2025-11-17T10:41:59.637254'
 last_updated: '2025-12-23T08:16:07.565273'
+origin: 'Ohio, Ohio, United States'
+artist_type: person
 ---
 
 ![](david_marshall.jpg)

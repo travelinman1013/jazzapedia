@@ -1,25 +1,25 @@
 ---
-title: commander cody
+title: Commander Cody
 wiki_slug: commander-cody
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1944-07-19'
-birth_place: Ann Arbor, Michigan, United States
+birth_place: 'Ann Arbor, Michigan, United States'
 death_date: '2021-09-26'
 genres:
-- country rock
-- southern rock
-- rockabilly
+  - country rock
+  - southern rock
+  - rockabilly
 instruments:
-- eponymous
-- original
+  - eponymous
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/commander_cody.jpg
   caption: commander cody
   background: non_vocal_instrumentalist
   born: '1944-07-19'
-  origin: Ann Arbor, Michigan, United States
+  origin: 'Ann Arbor, Michigan, United States'
   died: '2021-09-26'
 audio_profile:
   tempo_avg: 126.9
@@ -36,51 +36,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John Tichy
-  - Bill Kirchen
-  - Billy C. Farlow
-  - Andy Stein
+    - John Tichy
+    - Bill Kirchen
+    - Billy C. Farlow
+    - Andy Stein
   influenced:
-  - Asleep at the Wheel
-  - The Eagles
-  - Poco
+    - Asleep at the Wheel
+    - The Eagles
+    - Poco
   mentors:
-  - American roots musicians (general)
+    - American roots musicians (general)
 spotify_data:
   followers: 24138
   id: 4KtaHyqLFlKKb7aghnWBfE
   popularity: 33
-  url: https://open.spotify.com/artist/4KtaHyqLFlKKb7aghnWBfE
+  url: 'https://open.spotify.com/artist/4KtaHyqLFlKKb7aghnWBfE'
 discography_enriched: true
 top_tracks:
-- Hot Rod Lincoln (Lost In The Ozone)
-- Willin' (Commander Cody & His Lost Planet Airmen)
-- Seeds And Stems (Again) (Lost In The Ozone)
-- Lost In The Ozone (Lost In The Ozone)
-- Hot Rod Lincoln (Live In The Ozone - 1973 U.S. Tour)
-- Back To Tennessee (Lost In The Ozone)
-- Wine Do Yer Stuff (Lost In The Ozone)
-- Mama Hated Diesels (Too Much Fun)
-- Smoke! Smoke! Smoke! (That Cigarette) - Live (We've Got A Live One Here!)
-- Beat Me Daddy, Eight To The Bar (Lost In The Ozone)
+  - Hot Rod Lincoln (Lost In The Ozone)
+  - Willin' (Commander Cody & His Lost Planet Airmen)
+  - Seeds And Stems (Again) (Lost In The Ozone)
+  - Lost In The Ozone (Lost In The Ozone)
+  - Hot Rod Lincoln (Live In The Ozone - 1973 U.S. Tour)
+  - Back To Tennessee (Lost In The Ozone)
+  - Wine Do Yer Stuff (Lost In The Ozone)
+  - Mama Hated Diesels (Too Much Fun)
+  - Smoke! Smoke! Smoke! (That Cigarette) - Live (We've Got A Live One Here!)
+  - 'Beat Me Daddy, Eight To The Bar (Lost In The Ozone)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/09351b98-ff1d-47d8-8f29-a7678eabb57b
-  spotify: https://open.spotify.com/artist/4KtaHyqLFlKKb7aghnWBfE
-  wikipedia: https://en.wikipedia.org/wiki/Commander_Cody_and_His_Lost_Planet_Airmen
+  musicbrainz: 'https://musicbrainz.org/artist/09351b98-ff1d-47d8-8f29-a7678eabb57b'
+  spotify: 'https://open.spotify.com/artist/4KtaHyqLFlKKb7aghnWBfE'
+  wikipedia: 'https://en.wikipedia.org/wiki/Commander_Cody_and_His_Lost_Planet_Airmen'
 image_path: 03_Resources/source_material/ArtistPortraits/commander_cody.jpg
 biography_enhanced_at: '2025-10-19T10:54:22.827845'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Encyclopedia.com
-- Saving Country Music
-- Blues.Gr
+  - Encyclopedia.com
+  - Saving Country Music
+  - Blues.Gr
 network_extracted: true
 entry_created: '2025-10-19T10:54:22.827849'
 last_updated: '2025-12-23T08:16:07.153740'
 gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:51:16.934859'
 musicbrainz_id: 09351b98-ff1d-47d8-8f29-a7678eabb57b
+is_active: false
+origin: 'Berkeley, California, United States'
 ---
 
 ![](commander_cody.jpg)

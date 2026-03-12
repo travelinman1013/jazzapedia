@@ -1,18 +1,18 @@
 ---
-title: odetta
+title: Odetta
 wiki_slug: odetta
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1930-12-31'
-birth_place: Birmingham
+birth_place: 'Birmingham, Alabama, United States'
 death_date: '2008-12-02'
 genres:
-- folk
+  - folk
 instruments:
-- guitar
-- lead vocals
-- background vocals
+  - guitar
+  - lead vocals
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/odetta.jpg
   caption: odetta
@@ -35,47 +35,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Harry Belafonte
-  - Pete Seeger
-  - Johnny Cash
+    - Harry Belafonte
+    - Pete Seeger
+    - Johnny Cash
   influenced:
-  - Bob Dylan
-  - Joan Baez
-  - Janis Joplin
-  - Joan Armatrading
+    - Bob Dylan
+    - Joan Baez
+    - Janis Joplin
+    - Joan Armatrading
   mentors:
-  - Marian Anderson
+    - Marian Anderson
 spotify_data:
   followers: 89615
   id: 2wkz8hACugzAvF0voupg3H
   popularity: 37
-  url: https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H
+  url: 'https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H'
 discography_enriched: true
 top_tracks:
-- Hit Or Miss (Odetta Sings)
-- Don't Think Twice, It's All Right (Odetta Sings Dylan)
-- Baby, I'm In The Mood For You (Odetta Sings Dylan)
-- Go Down Sunshine (Odetta And The Blues)
-- Hit Or Miss - Live (It's Impossible)
-- Every Night (Odetta Sings)
-- Tomorrow Is a Long Time (Odetta Sings Dylan)
-- Mama Told Me Not To Come (Odetta Sings)
-- Easy Rider (Sings Ballads & Blues)
-- Movin' It On (Odetta Sings)
+  - Hit Or Miss (Odetta Sings)
+  - 'Don''t Think Twice, It''s All Right (Odetta Sings Dylan)'
+  - 'Baby, I''m In The Mood For You (Odetta Sings Dylan)'
+  - Go Down Sunshine (Odetta And The Blues)
+  - Hit Or Miss - Live (It's Impossible)
+  - Every Night (Odetta Sings)
+  - Tomorrow Is a Long Time (Odetta Sings Dylan)
+  - Mama Told Me Not To Come (Odetta Sings)
+  - Easy Rider (Sings Ballads & Blues)
+  - Movin' It On (Odetta Sings)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e81906c6-cba2-44ec-9e39-29737754d809
-  spotify: https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H
-  wikipedia: https://en.wikipedia.org/wiki/Odetta
+  musicbrainz: 'https://musicbrainz.org/artist/e81906c6-cba2-44ec-9e39-29737754d809'
+  spotify: 'https://open.spotify.com/artist/2wkz8hACugzAvF0voupg3H'
+  wikipedia: 'https://en.wikipedia.org/wiki/Odetta'
 image_path: 03_Resources/source_material/ArtistPortraits/odetta.jpg
 biography_enhanced_at: '2025-10-31T08:23:04.714252'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://folkalley.com/black-history-month-spotlight-on-odetta/
-- https://www.si.edu/object/odetta:npg_NPG.89.188
-- https://en.wikipedia.org/wiki/Odetta
-- https://www.alamhof.org/odetta1
-- https://www.thehistorymakers.org/biography/odetta-gordon-41
+  - 'https://folkalley.com/black-history-month-spotlight-on-odetta/'
+  - 'https://www.si.edu/object/odetta:npg_NPG.89.188'
+  - 'https://en.wikipedia.org/wiki/Odetta'
+  - 'https://www.alamhof.org/odetta1'
+  - 'https://www.thehistorymakers.org/biography/odetta-gordon-41'
 network_extracted: true
 entry_created: '2025-10-31T08:23:04.714261'
 last_updated: '2025-12-23T08:16:13.693240'
@@ -83,8 +83,9 @@ disambiguation: American singer Odetta Holmes
 gender: Female
 musicbrainz_id: e81906c6-cba2-44ec-9e39-29737754d809
 tags:
-- folk
-
+  - folk
+is_active: false
+origin: 'San Francisco, California, United States'
 ---
 
 ![](odetta.jpg)

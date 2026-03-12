@@ -2,7 +2,7 @@
 title: Rhyze
 wiki_slug: rhyze
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres: []
 infobox:
@@ -16,7 +16,7 @@ audio_profile:
   danceability_avg: 0.711
   acousticness_avg: 0.517
   instrumentalness_avg: 0.305
-  loudness_avg: -11.0
+  loudness_avg: -11
   speechiness_avg: 0.047
   liveness_avg: 0.143
   track_count: 50
@@ -24,47 +24,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Leon Stuckey
-  - Band Members
+    - Leon Stuckey
+    - Band Members
   influenced:
-  - UK Soul and Funk DJs/Collectors
+    - UK Soul and Funk DJs/Collectors
   mentors:
-  - Paul Kyser
+    - Paul Kyser
 spotify_data:
   followers: 705559
   id: 2AcUPzkVWo81vumdzeLLRN
   popularity: 61
-  url: https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN
+  url: 'https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN'
 discography_enriched: true
 top_tracks:
-- The Fall (Woman)
-- Feel Your Weight - Poolside Remix (Blood Remixed)
-- Open (Woman)
-- 3 Days Later
-- 3 Days (Woman)
-- Song For You (Blood)
-- Black Rain (Home)
-- Break Apart (Migration)
-- Taste (Blood)
-- Come In Closer (Home)
+  - The Fall (Woman)
+  - Feel Your Weight - Poolside Remix (Blood Remixed)
+  - Open (Woman)
+  - 3 Days Later
+  - 3 Days (Woman)
+  - Song For You (Blood)
+  - Black Rain (Home)
+  - Break Apart (Migration)
+  - Taste (Blood)
+  - Come In Closer (Home)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/242a6de4-eae1-4421-a59f-d53b9bfceeb3
-  spotify: https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN
-  wikipedia: https://en.wikipedia.org/wiki/Rhyze
+  musicbrainz: 'https://musicbrainz.org/artist/242a6de4-eae1-4421-a59f-d53b9bfceeb3'
+  spotify: 'https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN'
+  wikipedia: 'https://en.wikipedia.org/wiki/Rhyze'
 image_path: 03_Resources/source_material/ArtistPortraits/rhyze.jpg
 biography_enhanced_at: '2025-11-02T07:36:48.983191'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Rhyze
-- http://saltyka.blogspot.com/2009/05/rhyze.html
-- https://www.ccmusic.com/rhyze-rhyze-to-top/894231506826
+  - 'https://en.wikipedia.org/wiki/Rhyze'
+  - 'http://saltyka.blogspot.com/2009/05/rhyze.html'
+  - 'https://www.ccmusic.com/rhyze-rhyze-to-top/894231506826'
 network_extracted: true
 entry_created: '2025-11-02T07:36:48.983203'
 last_updated: '2025-12-23T08:16:14.833398'
 disambiguation: disco/soul group
 musicbrainz_id: 242a6de4-eae1-4421-a59f-d53b9bfceeb3
-origin: New York City, New York, United States
+origin: 'New York City, New York, United States'
 ---
 
 ![](rhyze.jpg)

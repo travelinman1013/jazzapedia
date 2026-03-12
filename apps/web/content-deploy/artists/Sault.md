@@ -2,12 +2,12 @@
 title: Sault
 wiki_slug: sault
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 birth_date: '2019'
 genres: []
 instruments:
-- original
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Sault.jpg
   caption: Sault
@@ -20,7 +20,7 @@ audio_profile:
   danceability_avg: 0.689
   acousticness_avg: 0.378
   instrumentalness_avg: 0.28
-  loudness_avg: -8.0
+  loudness_avg: -8
   speechiness_avg: 0.05
   liveness_avg: 0.143
   track_count: 50
@@ -28,55 +28,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Inflo
-  - Cleo Sol
-  - Kid Sister
-  - Chronixx
-  - Jack Peñate
-  - BLK VYNL (Kadeem Clarke)
+    - Inflo
+    - Cleo Sol
+    - Kid Sister
+    - Chronixx
+    - Jack Peñate
+    - BLK VYNL (Kadeem Clarke)
   influenced:
-  - Little Simz
+    - Little Simz
   mentors:
-  - Michael Kiwanuka
+    - Michael Kiwanuka
 spotify_data:
   followers: 577754
   id: 1uRxRKC7d9zwYGSRflTKDR
   popularity: 62
-  url: https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR
+  url: 'https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR'
 discography_enriched: true
 top_tracks:
-- Wildfires (Untitled (Black Is))
-- Why Why Why Why Why (5)
-- Masterpiece (5)
-- Envious (11)
-- Fight for Love (11)
-- Son Shine (Untitled (Rise))
-- Let Me Go (5)
-- Free (Untitled (Rise))
-- I Look for You (Acts of Faith)
-- Up All Night (5)
+  - Wildfires (Untitled (Black Is))
+  - Why Why Why Why Why (5)
+  - Masterpiece (5)
+  - Envious (11)
+  - Fight for Love (11)
+  - Son Shine (Untitled (Rise))
+  - Let Me Go (5)
+  - Free (Untitled (Rise))
+  - I Look for You (Acts of Faith)
+  - Up All Night (5)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/23b19bc5-813e-4456-bbae-ac3ca118f535
-  spotify: https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR
-  wikipedia: https://www.wikiwand.com/en/articles/Sault_(band)
+  musicbrainz: 'https://musicbrainz.org/artist/23b19bc5-813e-4456-bbae-ac3ca118f535'
+  spotify: 'https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR'
+  wikipedia: 'https://www.wikiwand.com/en/articles/Sault_(band)'
 image_path: 03_Resources/source_material/ArtistPortraits/Sault.jpg
 biography_enhanced_at: '2025-10-20T10:26:12.387819'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- numero.com
-- last.fm
-- wikiwand.com
+  - numero.com
+  - last.fm
+  - wikiwand.com
 network_extracted: true
 entry_created: '2025-10-20T10:26:12.387830'
 last_updated: '2025-12-23T08:16:03.832829'
 musicbrainz_enriched_at: '2025-10-21T09:43:00.927262'
 musicbrainz_id: 23b19bc5-813e-4456-bbae-ac3ca118f535
-origin: London, England, United Kingdom
+origin: 'London, England, United Kingdom'
 tags:
-- disco
-- house
-- indie
+  - disco
+  - house
+  - indie
 ---
 
 ![](Sault.jpg)

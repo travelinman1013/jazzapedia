@@ -3,13 +3,13 @@ title: Steve Petrunak
 wiki_slug: steve-petrunak
 schema_version: 2
 status: active
-birth_place: Detroit, Michigan, USA
+birth_place: 'Detroit, Michigan, USA'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/steve_petrunak.jpg
   caption: Steve Petrunak
   background: solo_singer
-  origin: Detroit, Michigan, USA
+  origin: 'Detroit, Michigan, USA'
 audio_profile:
   tempo_avg: 112.9
   energy_avg: 0.386
@@ -25,42 +25,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Catholic Liturgical Ensemble Formation
-  - National Association of Pastoral Musicians
+    - Catholic Liturgical Ensemble Formation
+    - National Association of Pastoral Musicians
   influenced:
-  - 150+ guitar students
+    - 150+ guitar students
   mentors: []
 spotify_data:
   followers: 8162
   id: 1TRZYAlP0bNz0dZCbWAjsI
   popularity: 45
-  url: https://open.spotify.com/artist/1TRZYAlP0bNz0dZCbWAjsI
+  url: 'https://open.spotify.com/artist/1TRZYAlP0bNz0dZCbWAjsI'
 discography_enriched: true
 top_tracks:
-- 'Chandelier (Shake It Off: Instrumental Guitar Covers of Pop Hits)'
-- 'Rude (Shake It Off: Instrumental Guitar Covers of Pop Hits)'
-- 'Cool Kids (Shake It Off: Instrumental Guitar Covers of Pop Hits)'
-- Shallow (Instrumental Version) (Instrumental Guitar Songs (From the Film "A Star Is Born"))
-- 'Try (Instrumental Versions of Current Popular Songs: Cool Kids)'
-- 'Shake It Off (Shake It Off: Instrumental Guitar Covers of Pop Hits)'
-- 'Animals (Shake It Off: Instrumental Guitar Covers of Pop Hits)'
-- 'Maps (Shake It Off: Instrumental Guitar Covers of Pop Hits)'
-- Next Thing You Know (Instrumental Version) (Top Country Hits on Guitar)
-- 'Wild World (Instrumental Cover Versions of 70s Songs: Jet Airliner)'
+  - 'Chandelier (Shake It Off: Instrumental Guitar Covers of Pop Hits)'
+  - 'Rude (Shake It Off: Instrumental Guitar Covers of Pop Hits)'
+  - 'Cool Kids (Shake It Off: Instrumental Guitar Covers of Pop Hits)'
+  - >-
+    Shallow (Instrumental Version) (Instrumental Guitar Songs (From the Film "A
+    Star Is Born"))
+  - 'Try (Instrumental Versions of Current Popular Songs: Cool Kids)'
+  - 'Shake It Off (Shake It Off: Instrumental Guitar Covers of Pop Hits)'
+  - 'Animals (Shake It Off: Instrumental Guitar Covers of Pop Hits)'
+  - 'Maps (Shake It Off: Instrumental Guitar Covers of Pop Hits)'
+  - Next Thing You Know (Instrumental Version) (Top Country Hits on Guitar)
+  - 'Wild World (Instrumental Cover Versions of 70s Songs: Jet Airliner)'
 external_urls:
-  spotify: https://open.spotify.com/artist/1TRZYAlP0bNz0dZCbWAjsI
+  spotify: 'https://open.spotify.com/artist/1TRZYAlP0bNz0dZCbWAjsI'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/steve_petrunak.jpg
 biography_enhanced_at: '2025-11-11T09:16:15.221433'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://stevepetrunak.com/bio
-- https://giamusic.com/artists/stephen-petrunak
-- https://open.spotify.com/artist/1TRZYAlP0bNz0dZCbWAjsI
+  - 'https://stevepetrunak.com/bio'
+  - 'https://giamusic.com/artists/stephen-petrunak'
+  - 'https://open.spotify.com/artist/1TRZYAlP0bNz0dZCbWAjsI'
 network_extracted: true
 entry_created: '2025-11-11T09:16:15.221451'
 last_updated: '2025-12-23T08:16:16.136804'
+artist_type: person
 ---
 
 ![](steve_petrunak.jpg)

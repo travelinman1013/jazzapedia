@@ -3,17 +3,17 @@ title: King Oliver
 wiki_slug: king-oliver
 schema_version: 2
 status: active
-birth_place: Aben, near Donaldsonville, Louisiana, United States
+birth_place: 'Aben, near Donaldsonville, Louisiana, United States'
 genres:
-- ragtime
-- jazz
-- swing music
-- big band
+  - ragtime
+  - jazz
+  - swing music
+  - big band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/King_Oliver.jpg
   caption: King Oliver
   background: solo_singer
-  origin: Aben, near Donaldsonville, Louisiana, United States
+  origin: 'Aben, near Donaldsonville, Louisiana, United States'
 audio_profile:
   tempo_avg: 115.4
   energy_avg: 0.304
@@ -29,52 +29,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Louis Armstrong
-  - Johnny Dodds
-  - Lil Hardin
-  - Kid Ory
+    - Louis Armstrong
+    - Johnny Dodds
+    - Lil Hardin
+    - Kid Ory
   influenced:
-  - Louis Armstrong
-  - Duke Ellington
-  - Johnny Dodds
+    - Louis Armstrong
+    - Duke Ellington
+    - Johnny Dodds
   mentors:
-  - Buddy Bolden
+    - Buddy Bolden
 spotify_data:
   followers: 23548
   id: 24PJRbYtu3Cq5CuF24c1QZ
   popularity: 24
-  url: https://open.spotify.com/artist/24PJRbYtu3Cq5CuF24c1QZ
+  url: 'https://open.spotify.com/artist/24PJRbYtu3Cq5CuF24c1QZ'
 discography_enriched: true
 top_tracks:
-- Speakeasy Blues (Papa Joe)
-- Black Snake Blues (Papa Joe)
-- Mahogany Hall Stomp (King of the Blues)
-- Don't You Think I Love You (Papa Joe)
-- When You're Smiling (Papa Joe)
-- Dipper Mouth Blues, Pt. 1 (The Complete Joseph King Oliver, Vol.1)
-- 'Snake rag (The Quintessence King Oliver 1923-1928: Richmond - Chicago - New York)'
-- Rhythm Club Stomp (King Oliver Plays the Blues)
-- Out of Nowhere (Back O'Town)
-- St James Infirmary (King of the Blues)
+  - Speakeasy Blues (Papa Joe)
+  - Black Snake Blues (Papa Joe)
+  - Mahogany Hall Stomp (King of the Blues)
+  - Don't You Think I Love You (Papa Joe)
+  - When You're Smiling (Papa Joe)
+  - 'Dipper Mouth Blues, Pt. 1 (The Complete Joseph King Oliver, Vol.1)'
+  - >-
+    Snake rag (The Quintessence King Oliver 1923-1928: Richmond - Chicago - New
+    York)
+  - Rhythm Club Stomp (King Oliver Plays the Blues)
+  - Out of Nowhere (Back O'Town)
+  - St James Infirmary (King of the Blues)
 external_urls:
-  spotify: https://open.spotify.com/artist/24PJRbYtu3Cq5CuF24c1QZ
-  wikipedia: https://en.wikipedia.org/wiki/King_Oliver
+  spotify: 'https://open.spotify.com/artist/24PJRbYtu3Cq5CuF24c1QZ'
+  wikipedia: 'https://en.wikipedia.org/wiki/King_Oliver'
 image_path: 03_Resources/source_material/ArtistPortraits/King_Oliver.jpg
 biography_enhanced_at: '2025-10-19T10:30:35.385540'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/King_Oliver
-- https://blackpast.org/african-american-history/oliver-joseph-king-1885-1938/
-- https://syncopatedtimes.com/profiles-in-jazz-joe-king-oliver/
-- https://64parishes.org/entry/king-oliver
-- https://www.ebsco.com/research-starters/history/king-oliver
-- https://musicalgeography.org/king-oliver/
-- https://aaregistry.org/story/king-oliver-a-pioneer-of-jazz/
-- https://www.louisarmstronghouse.org/west-end-blog/joe-oliver-the-king/
+  - 'https://en.wikipedia.org/wiki/King_Oliver'
+  - 'https://blackpast.org/african-american-history/oliver-joseph-king-1885-1938/'
+  - 'https://syncopatedtimes.com/profiles-in-jazz-joe-king-oliver/'
+  - 'https://64parishes.org/entry/king-oliver'
+  - 'https://www.ebsco.com/research-starters/history/king-oliver'
+  - 'https://musicalgeography.org/king-oliver/'
+  - 'https://aaregistry.org/story/king-oliver-a-pioneer-of-jazz/'
+  - 'https://www.louisarmstronghouse.org/west-end-blog/joe-oliver-the-king/'
 network_extracted: true
 entry_created: '2025-10-19T10:30:35.385554'
 last_updated: '2025-12-23T08:16:02.893794'
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1885-12-19'
+artist_type: person
 ---
 
 ![](King_Oliver.jpg)

@@ -4,10 +4,10 @@ wiki_slug: jef-lorber-fusion
 schema_version: 2
 status: active
 genres:
-- jazz fusion
-- smooth jazz
-- jazz funk
-- jazz
+  - jazz fusion
+  - smooth jazz
+  - jazz funk
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jef_lorber_fusion.jpg
   caption: Jef Lorber Fusion
@@ -27,56 +27,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jimmy Haslip
-  - Everette Harp
-  - Paul Jackson Jr.
-  - Eric Marienthal
-  - Rex Rideout
+    - Jimmy Haslip
+    - Everette Harp
+    - Paul Jackson Jr.
+    - Eric Marienthal
+    - Rex Rideout
   influenced:
-  - Gerald Albright
-  - Jessy J
-  - Richard Elliot
+    - Gerald Albright
+    - Jessy J
+    - Richard Elliot
   mentors:
-  - Madame Margaret Chaloff
-  - Herbie Hancock
-  - Chick Corea
+    - Madame Margaret Chaloff
+    - Herbie Hancock
+    - Chick Corea
 spotify_data:
   followers: 25121
   id: 5cpKvYFZXiVsN7FRLoNlm1
   popularity: 34
-  url: https://open.spotify.com/artist/5cpKvYFZXiVsN7FRLoNlm1
+  url: 'https://open.spotify.com/artist/5cpKvYFZXiVsN7FRLoNlm1'
 discography_enriched: true
 top_tracks:
-- Hang Tight (The Drop)
-- Sun Princess (Space-Time)
-- Righteous (Eleven)
-- Night Love (Galaxian)
-- Pixel (Now Is The Time)
-- Back Room (Space-Time)
-- Rain Dance/Wanna Fly (Now Is The Time)
-- Quest (Impact)
-- Sugar Free (Now Is The Time)
-- Black Ice (Now Is The Time)
+  - Hang Tight (The Drop)
+  - Sun Princess (Space-Time)
+  - Righteous (Eleven)
+  - Night Love (Galaxian)
+  - Pixel (Now Is The Time)
+  - Back Room (Space-Time)
+  - Rain Dance/Wanna Fly (Now Is The Time)
+  - Quest (Impact)
+  - Sugar Free (Now Is The Time)
+  - Black Ice (Now Is The Time)
 external_urls:
-  spotify: https://open.spotify.com/artist/5cpKvYFZXiVsN7FRLoNlm1
-  wikipedia: https://en.wikipedia.org/wiki/Jeff_Lorber
+  spotify: 'https://open.spotify.com/artist/5cpKvYFZXiVsN7FRLoNlm1'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jeff_Lorber'
 image_path: 03_Resources/source_material/ArtistPortraits/jef_lorber_fusion.jpg
 biography_enhanced_at: '2025-11-08T21:50:35.710854'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.ijazzmusic.com/pages/jeff-lorber
-- https://concord.com/artist/jeff-lorber-fusion/
-- https://www.allaboutjazz.com/musicians/jeff-lorber/
-- https://en.wikipedia.org/wiki/Jeff_Lorber
-- https://www.lorber.com/bio/
-- https://www.berklee.edu/berklee-today/spring-2016/jeff-lorber-71
-- https://jazztimes.com/archives/jeff-lorber-kickin-back/
-- https://www.smoothjazzeurope.eu/jeff-lorber-fusion/
+  - 'https://www.ijazzmusic.com/pages/jeff-lorber'
+  - 'https://concord.com/artist/jeff-lorber-fusion/'
+  - 'https://www.allaboutjazz.com/musicians/jeff-lorber/'
+  - 'https://en.wikipedia.org/wiki/Jeff_Lorber'
+  - 'https://www.lorber.com/bio/'
+  - 'https://www.berklee.edu/berklee-today/spring-2016/jeff-lorber-71'
+  - 'https://jazztimes.com/archives/jeff-lorber-kickin-back/'
+  - 'https://www.smoothjazzeurope.eu/jeff-lorber-fusion/'
 network_extracted: true
 entry_created: '2025-11-08T21:50:35.710869'
 last_updated: '2025-12-23T08:16:10.280741'
-origin: Philadelphia, Pennsylvania, USA
+origin: 'Philadelphia, Pennsylvania, USA'
+birth_place: 'Philadelphia, Pennsylvania, United States'
+birth_date: '1952'
+artist_type: band
 ---
 
 ![](jef_lorber_fusion.jpg)

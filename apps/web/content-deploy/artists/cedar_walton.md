@@ -1,85 +1,85 @@
 ---
-title: cedar walton
+title: Cedar Walton
 wiki_slug: cedar-walton
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1934-01-17'
-birth_place: Dallas
+birth_place: 'Dallas, Texas, United States'
 death_date: '2013-08-19'
 genres:
-- hard bop
-- jazz
-- bebop
+  - hard bop
+  - jazz
+  - bebop
 instruments:
-- piano
-- eponymous
-- original
-- electric piano
+  - piano
+  - eponymous
+  - original
+  - electric piano
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9a90ad42-8d94-4739-ad9b-71c2f24ab238
-  name: Milt Jackson & His Gold Medal Winners
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2c0f3197-b906-4d44-98d2-99d20db45506
-  name: Kenny Dorham Septet
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: b42e983a-c853-42b6-973a-d881faccccc7
-  name: The Jazztet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 976da80e-4057-4365-9885-f354caf6528c
-  name: Billy Higgins Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 209ddf15-ee0a-41a1-a1f5-6f4c0409d2ee
-  name: Art Blakey & The Jazz Messengers
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  - piano
-  mbid: d945d7c8-1947-4aba-8013-1dfd3bce4ced
-  name: Cedar Walton Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: 5c510750-8981-4241-89e1-8d5ffcf0b6e0
-  name: Clifford Jordan Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8f2ebc08-8ccc-4db7-9dea-91cbfbd93001
-  name: The Pentagon
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  - piano
-  mbid: 2d3acf14-ed00-4051-8eac-9de585929349
-  name: Cedar Walton Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 33938aa1-5f6e-4559-936f-9ca75db6b829
-  name: Dizzy Gillespie-Phil Woods All Stars
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8cc874ee-dce4-48ba-9d64-b0f00f9be63a
-  name: Eastern Rebellion
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9a90ad42-8d94-4739-ad9b-71c2f24ab238
+    name: Milt Jackson & His Gold Medal Winners
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2c0f3197-b906-4d44-98d2-99d20db45506
+    name: Kenny Dorham Septet
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: b42e983a-c853-42b6-973a-d881faccccc7
+    name: The Jazztet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 976da80e-4057-4365-9885-f354caf6528c
+    name: Billy Higgins Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 209ddf15-ee0a-41a1-a1f5-6f4c0409d2ee
+    name: Art Blakey & The Jazz Messengers
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - piano
+    mbid: d945d7c8-1947-4aba-8013-1dfd3bce4ced
+    name: Cedar Walton Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: 5c510750-8981-4241-89e1-8d5ffcf0b6e0
+    name: Clifford Jordan Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8f2ebc08-8ccc-4db7-9dea-91cbfbd93001
+    name: The Pentagon
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - piano
+    mbid: 2d3acf14-ed00-4051-8eac-9de585929349
+    name: Cedar Walton Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 33938aa1-5f6e-4559-936f-9ca75db6b829
+    name: Dizzy Gillespie-Phil Woods All Stars
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8cc874ee-dce4-48ba-9d64-b0f00f9be63a
+    name: Eastern Rebellion
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/cedar_walton.jpg
   caption: cedar walton
@@ -102,57 +102,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Art Blakey
-  - Benny Golson & Art Farmer
-  - Billy Higgins
-  - Clifford Jordan
+    - Art Blakey
+    - Benny Golson & Art Farmer
+    - Billy Higgins
+    - Clifford Jordan
   influenced:
-  - David Hazeltine
-  - Mulgrew Miller
+    - David Hazeltine
+    - Mulgrew Miller
   mentors:
-  - Ruth Walton
-  - Bud Powell
-  - Thelonious Monk
+    - Ruth Walton
+    - Bud Powell
+    - Thelonious Monk
 spotify_data:
   followers: 25719
   id: 7DCTgrI6aDK3nBRZm5RUKT
   popularity: 31
-  url: https://open.spotify.com/artist/7DCTgrI6aDK3nBRZm5RUKT
+  url: 'https://open.spotify.com/artist/7DCTgrI6aDK3nBRZm5RUKT'
 discography_enriched: true
 top_tracks:
-- Blues For Myself (Blues For Myself (Piano Solo))
-- Sophisticated Lady (Blues For Myself (Piano Solo))
-- Wonder Why (Blues For Myself (Piano Solo))
-- Without A Song (Blues For Myself (Piano Solo))
-- Sixth Avenue (Blues For Myself (Piano Solo))
-- Let's Call This (Blues For Myself (Piano Solo))
-- Off Minor (The Trio Vol.2)
-- I Mean You (Duo)
-- Booker's Bossa (Blues For Myself (Piano Solo))
-- Autumn Leaves (The V.I.P. Trio. Standards)
+  - Blues For Myself (Blues For Myself (Piano Solo))
+  - Sophisticated Lady (Blues For Myself (Piano Solo))
+  - Wonder Why (Blues For Myself (Piano Solo))
+  - Without A Song (Blues For Myself (Piano Solo))
+  - Sixth Avenue (Blues For Myself (Piano Solo))
+  - Let's Call This (Blues For Myself (Piano Solo))
+  - Off Minor (The Trio Vol.2)
+  - I Mean You (Duo)
+  - Booker's Bossa (Blues For Myself (Piano Solo))
+  - Autumn Leaves (The V.I.P. Trio. Standards)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/115474d3-9d44-4c96-b5d0-00891187c6e8
-  spotify: https://open.spotify.com/artist/7DCTgrI6aDK3nBRZm5RUKT
-  wikipedia: https://en.wikipedia.org/wiki/Cedar_Walton
+  musicbrainz: 'https://musicbrainz.org/artist/115474d3-9d44-4c96-b5d0-00891187c6e8'
+  spotify: 'https://open.spotify.com/artist/7DCTgrI6aDK3nBRZm5RUKT'
+  wikipedia: 'https://en.wikipedia.org/wiki/Cedar_Walton'
 image_path: 03_Resources/source_material/ArtistPortraits/cedar_walton.jpg
 biography_enhanced_at: '2025-11-06T13:30:43.828525'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Cedar_Walton
-- https://benmarkleymusic.com/cedar-walton-biography
-- https://www.laphil.com/musicdb/artists/5598/cedar-walton
-- https://www.allaboutjazz.com/musicians/cedar-walton/
-- https://www.arts.gov/honors/jazz/cedar-walton
+  - 'https://en.wikipedia.org/wiki/Cedar_Walton'
+  - 'https://benmarkleymusic.com/cedar-walton-biography'
+  - 'https://www.laphil.com/musicdb/artists/5598/cedar-walton'
+  - 'https://www.allaboutjazz.com/musicians/cedar-walton/'
+  - 'https://www.arts.gov/honors/jazz/cedar-walton'
 network_extracted: true
 entry_created: '2025-11-06T13:30:43.828544'
 last_updated: '2025-12-23T08:16:06.588762'
 gender: Male
 musicbrainz_id: 115474d3-9d44-4c96-b5d0-00891187c6e8
 tags:
-- hard bop
-- jazz
-- post-bop
+  - hard bop
+  - jazz
+  - post-bop
+is_active: false
 ---
 
 ![](cedar_walton.jpg)

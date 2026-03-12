@@ -1,5 +1,5 @@
 ---
-title: THE BLAZERS
+title: The Blazers
 wiki_slug: the-blazers
 schema_version: 2
 status: active
@@ -23,51 +23,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Manuel Gonzales
-  - Ruben Guaderrama
-  - Raul Medrano
-  - Jesus Cuevas
-  - Lee Stuart
-  - Gene Aguilera
+    - Manuel Gonzales
+    - Ruben Guaderrama
+    - Raul Medrano
+    - Jesus Cuevas
+    - Lee Stuart
+    - Gene Aguilera
   influenced:
-  - La Terra
-  - Los Fabulocos
+    - La Terra
+    - Los Fabulocos
   mentors:
-  - Cesar Rosas
-  - Los Lobos
+    - Cesar Rosas
+    - Los Lobos
 spotify_data:
   followers: 727791
   id: 1Dt1UKLtrJIW1xxRBejjos
   popularity: 62
-  url: https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos
+  url: 'https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos'
 discography_enriched: true
 top_tracks:
-- TERRITORY (TERRITORY)
-- EYES (JUNGLE)
-- SHE (DANCEHALL)
-- JUVENILE (TERRITORY)
-- EYES
-- HEAVEN (DANCEHALL)
-- VIRILE (TERRITORY)
-- PLACES (DANCEHALL)
-- BREATH (DANCEHALL)
-- QUEENS (DANCEHALL)
+  - TERRITORY (TERRITORY)
+  - EYES (JUNGLE)
+  - SHE (DANCEHALL)
+  - JUVENILE (TERRITORY)
+  - EYES
+  - HEAVEN (DANCEHALL)
+  - VIRILE (TERRITORY)
+  - PLACES (DANCEHALL)
+  - BREATH (DANCEHALL)
+  - QUEENS (DANCEHALL)
 external_urls:
-  spotify: https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos
-  wikipedia: https://en.wikipedia.org/wiki/The_Blazers
+  spotify: 'https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Blazers'
 image_path: 03_Resources/source_material/ArtistPortraits/the_blazers.jpg
 biography_enhanced_at: '2025-12-04T08:01:41.194785'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - The Blazers
-- 'Mark Guerrero - The Blazers: The Other Band from East L.A.'
-- AllMusic - The Blazers
-- MusicBrainz - The Blazers
+  - Wikipedia - The Blazers
+  - 'Mark Guerrero - The Blazers: The Other Band from East L.A.'
+  - AllMusic - The Blazers
+  - MusicBrainz - The Blazers
 network_extracted: true
 entry_created: '2025-12-04T08:01:41.194799'
 last_updated: '2025-12-23T08:16:16.574957'
-origin: East Los Angeles, California, United States
+origin: 'East Los Angeles, California, United States'
+artist_type: band
 ---
 
 ![](the_blazers.jpg)

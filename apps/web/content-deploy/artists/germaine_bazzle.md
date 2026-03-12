@@ -1,15 +1,15 @@
 ---
-title: GERMAINE BAZZLE
+title: Germaine Bazzle
 wiki_slug: germaine-bazzle
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1932-03-28'
-birth_place: New Orleans
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- vocal jazz
+  - vocal jazz
 instruments:
-- background vocals
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/germaine_bazzle.jpg
   caption: GERMAINE BAZZLE
@@ -31,49 +31,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ellis Marsalis
-  - Alvin "Red" Tyler
-  - Victor Goines
-  - David Torkanowsky
-  - George French
+    - Ellis Marsalis
+    - Alvin "Red" Tyler
+    - Victor Goines
+    - David Torkanowsky
+    - George French
   influenced:
-  - Louis Armstrong Jazz Camp students
-  - Xavier University Preparatory School students
+    - Louis Armstrong Jazz Camp students
+    - Xavier University Preparatory School students
   mentors:
-  - Sarah Vaughan
-  - Ella Fitzgerald
-  - Billy Eckstine
+    - Sarah Vaughan
+    - Ella Fitzgerald
+    - Billy Eckstine
 spotify_data:
   followers: 406
   id: 5oq0fMldWTCMvWiXZoS7Xh
   popularity: 0
-  url: https://open.spotify.com/artist/5oq0fMldWTCMvWiXZoS7Xh
+  url: 'https://open.spotify.com/artist/5oq0fMldWTCMvWiXZoS7Xh'
 discography_enriched: true
 top_tracks:
-- Route 66 (Standing Ovation)
-- 'Secret Love - Live (Jazz Fest: The New Orleans Jazz & Heritage Festival)'
-- Don't Get Around Much Anymore (Mood Indigo)
-- New Orleans (Mood Indigo)
-- Bye Bye Blackbird (Mood Indigo)
-- Sometimes I'm Happy (Mood Indigo)
-- I'm Just A Lucky So And So (Mood Indigo)
-- Spring Can Really Hang You Up The Most (Mood Indigo)
-- I Love Paris (Mood Indigo)
-- Lost Mind (Mood Indigo)
+  - Route 66 (Standing Ovation)
+  - 'Secret Love - Live (Jazz Fest: The New Orleans Jazz & Heritage Festival)'
+  - Don't Get Around Much Anymore (Mood Indigo)
+  - New Orleans (Mood Indigo)
+  - Bye Bye Blackbird (Mood Indigo)
+  - Sometimes I'm Happy (Mood Indigo)
+  - I'm Just A Lucky So And So (Mood Indigo)
+  - Spring Can Really Hang You Up The Most (Mood Indigo)
+  - I Love Paris (Mood Indigo)
+  - Lost Mind (Mood Indigo)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a65d4995-79a3-4784-a4f3-aae691d54866
-  spotify: https://open.spotify.com/artist/5oq0fMldWTCMvWiXZoS7Xh
-  wikipedia: https://en.wikipedia.org/wiki/Germaine_Bazzle
+  musicbrainz: 'https://musicbrainz.org/artist/a65d4995-79a3-4784-a4f3-aae691d54866'
+  spotify: 'https://open.spotify.com/artist/5oq0fMldWTCMvWiXZoS7Xh'
+  wikipedia: 'https://en.wikipedia.org/wiki/Germaine_Bazzle'
 image_path: 03_Resources/source_material/ArtistPortraits/germaine_bazzle.jpg
 biography_enhanced_at: '2025-11-20T07:07:48.645598'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Germaine_Bazzle
-- https://64parishes.org/voice-as-instrument
-- https://fromthevaults-boppinbob.blogspot.com/2024/03/germaine-bazzle-born-28-march-1932.html
-- https://veritenews.org/2025/03/28/bitd-germaine-bazzle-jazz-singer/
-- https://scalar.usc.edu/works/jazz-education-apprenticeship/germaine-bazzle-jazz-vocalist
+  - 'https://en.wikipedia.org/wiki/Germaine_Bazzle'
+  - 'https://64parishes.org/voice-as-instrument'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2024/03/germaine-bazzle-born-28-march-1932.html
+  - 'https://veritenews.org/2025/03/28/bitd-germaine-bazzle-jazz-singer/'
+  - >-
+    https://scalar.usc.edu/works/jazz-education-apprenticeship/germaine-bazzle-jazz-vocalist
 network_extracted: true
 entry_created: '2025-11-20T07:07:48.645609'
 last_updated: '2025-12-23T08:16:09.172943'
@@ -81,7 +83,8 @@ disambiguation: US jazz vocalist
 gender: Female
 musicbrainz_id: a65d4995-79a3-4784-a4f3-aae691d54866
 tags:
-- jazz
+  - jazz
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](germaine_bazzle.jpg)

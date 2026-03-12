@@ -1,17 +1,17 @@
 ---
-title: QUINCY JONES/ TEVIN CAMPBELL
+title: Quincy Jones/Tevin Campbell
 wiki_slug: quincy-jones-tevin-campbell
 schema_version: 2
 status: active
-birth_place: Chicago, Illinois, United States
+birth_place: 'Chicago, Illinois, United States'
 genres:
-- new jack swing
-- quiet storm
+  - new jack swing
+  - quiet storm
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/quincy_jones_tevin_campbell.jpg
   caption: QUINCY JONES/ TEVIN CAMPBELL
   background: solo_singer
-  origin: Chicago, Illinois, United States
+  origin: 'Chicago, Illinois, United States'
 audio_profile:
   tempo_avg: 128.8
   energy_avg: 0.601
@@ -19,7 +19,7 @@ audio_profile:
   danceability_avg: 0.652
   acousticness_avg: 0.135
   instrumentalness_avg: 0.001
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.052
   liveness_avg: 0.149
   track_count: 50
@@ -27,48 +27,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Michael Jackson
-  - Frank Sinatra
-  - Count Basie
-  - Lesley Gore
+    - Michael Jackson
+    - Frank Sinatra
+    - Count Basie
+    - Lesley Gore
   influenced: []
   mentors:
-  - Nadia Boulanger
-  - Olivier Messiaen
-  - Dizzy Gillespie
+    - Nadia Boulanger
+    - Olivier Messiaen
+    - Dizzy Gillespie
 spotify_data:
   followers: 1266581
   id: 5VfqJBmXcf6ZqXoGij5qTE
   popularity: 60
-  url: https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE
+  url: 'https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE'
 discography_enriched: true
 top_tracks:
-- Can We Talk (I'm Ready)
-- Can We Talk
-- I2I
-- I'm Ready (I'm Ready)
-- Stand Out
-- Tell Me What You Want Me to Do (T.E.V.I.N.)
-- Dandelion (Tevin Campbell)
-- Always in My Heart (I'm Ready)
-- Alone With You (T.E.V.I.N.)
-- I'm Ready
+  - Can We Talk (I'm Ready)
+  - Can We Talk
+  - I2I
+  - I'm Ready (I'm Ready)
+  - Stand Out
+  - Tell Me What You Want Me to Do (T.E.V.I.N.)
+  - Dandelion (Tevin Campbell)
+  - Always in My Heart (I'm Ready)
+  - Alone With You (T.E.V.I.N.)
+  - I'm Ready
 external_urls:
-  spotify: https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE
-  wikipedia: https://en.wikipedia.org/wiki/Quincy_Jones
+  spotify: 'https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE'
+  wikipedia: 'https://en.wikipedia.org/wiki/Quincy_Jones'
 image_path: 03_Resources/source_material/ArtistPortraits/quincy_jones_tevin_campbell.jpg
 biography_enhanced_at: '2025-12-16T04:02:21.373003'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.thehistorymakers.org/biography/quincy-jones-41
-- https://www.qwest.tv/about-us/quincy-jones
-- https://www.wearefamilyfoundation.org/quincy-jones
-- https://en.wikipedia.org/wiki/Quincy_Jones
-- https://achievement.org/achiever/quincy-jones/
+  - 'https://www.thehistorymakers.org/biography/quincy-jones-41'
+  - 'https://www.qwest.tv/about-us/quincy-jones'
+  - 'https://www.wearefamilyfoundation.org/quincy-jones'
+  - 'https://en.wikipedia.org/wiki/Quincy_Jones'
+  - 'https://achievement.org/achiever/quincy-jones/'
 network_extracted: true
 entry_created: '2025-12-16T04:02:21.373011'
 last_updated: '2025-12-23T08:16:14.521353'
+birth_date: '1933-03-14'
+death_date: '2024-11-03'
+artist_type: person
 ---
 
 ![](quincy_jones_tevin_campbell.jpg)

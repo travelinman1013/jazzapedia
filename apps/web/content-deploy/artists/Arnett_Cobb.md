@@ -2,23 +2,23 @@
 title: Arnett Cobb
 wiki_slug: arnett-cobb
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1918-08-10'
-birth_place: Houston, Texas, United States
+birth_place: 'Houston, Texas, United States'
 death_date: '1989-03-24'
 genres:
-- hard bop
-- jazz blues
-- jazz
-- acid jazz
-- soul jazz
+  - hard bop
+  - jazz blues
+  - jazz
+  - acid jazz
+  - soul jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Arnett_Cobb.jpg
   caption: Arnett Cobb
   background: solo_singer
   born: '1918-08-10'
-  origin: Houston, Texas, United States
+  origin: 'Houston, Texas, United States'
   died: '1989-03-24'
 audio_profile:
   tempo_avg: 124.7
@@ -35,51 +35,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Milton Larkin
-  - Lionel Hampton
-  - Illinois Jacquet
-  - Eddie Vinson
-  - Cedric Haywood
-  - Jewel Brown
+    - Milton Larkin
+    - Lionel Hampton
+    - Illinois Jacquet
+    - Eddie Vinson
+    - Cedric Haywood
+    - Jewel Brown
   influenced:
-  - Illinois Jacquet
-  - Gene Ammons
-  - Johnny Griffin
-  - Houston Person
-  - Stanley Turrentine
-  - King Curtis
+    - Illinois Jacquet
+    - Gene Ammons
+    - Johnny Griffin
+    - Houston Person
+    - Stanley Turrentine
+    - King Curtis
   mentors:
-  - His grandmother
-  - Frank Davis
+    - His grandmother
+    - Frank Davis
 spotify_data:
   followers: 5634
   id: 6ui4w9G4l3CxehFTGTQtPX
   popularity: 21
-  url: https://open.spotify.com/artist/6ui4w9G4l3CxehFTGTQtPX
+  url: 'https://open.spotify.com/artist/6ui4w9G4l3CxehFTGTQtPX'
 discography_enriched: true
 top_tracks:
-- Lester Leaps In - Remastered 2007/Rudy Van Gelder Edition (Very Saxy (Rudy Van Gelder Remasters))
-- Blues Around Dusk (Charmaine)
-- Blues Around Dusk (Smooth Sailing)
-- Very Saxy - Remastered 2007/Rudy Van Gelder Edition (Very Saxy (Rudy Van Gelder Remasters))
-- La Première Fille (Hampton/Salvador/Terry/Moustache Et Leurs Amis Jouent Brassens)
-- Blues in the Closet (Party Time (Plus More Party time))
-- Very Saxy - Remastered 2007/Rudy Van Gelder Edition (On Prestige)
-- Smooth Sailing (Smooth Sailing)
-- Dans L'Eau De La Claire Fontaine (Brassens Et Le Jazz)
-- Dans L'Eau De La Claire Fontaine (Hampton/Salvador/Terry/Moustache Et Leurs Amis Jouent Brassens)
+  - >-
+    Lester Leaps In - Remastered 2007/Rudy Van Gelder Edition (Very Saxy (Rudy
+    Van Gelder Remasters))
+  - Blues Around Dusk (Charmaine)
+  - Blues Around Dusk (Smooth Sailing)
+  - >-
+    Very Saxy - Remastered 2007/Rudy Van Gelder Edition (Very Saxy (Rudy Van
+    Gelder Remasters))
+  - >-
+    La Première Fille (Hampton/Salvador/Terry/Moustache Et Leurs Amis Jouent
+    Brassens)
+  - Blues in the Closet (Party Time (Plus More Party time))
+  - Very Saxy - Remastered 2007/Rudy Van Gelder Edition (On Prestige)
+  - Smooth Sailing (Smooth Sailing)
+  - Dans L'Eau De La Claire Fontaine (Brassens Et Le Jazz)
+  - >-
+    Dans L'Eau De La Claire Fontaine (Hampton/Salvador/Terry/Moustache Et Leurs
+    Amis Jouent Brassens)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/648cb346-c77e-4787-a822-549815b69b75
-  spotify: https://open.spotify.com/artist/6ui4w9G4l3CxehFTGTQtPX
-  wikipedia: https://en.wikipedia.org/wiki/Arnett_Cobb
+  musicbrainz: 'https://musicbrainz.org/artist/648cb346-c77e-4787-a822-549815b69b75'
+  spotify: 'https://open.spotify.com/artist/6ui4w9G4l3CxehFTGTQtPX'
+  wikipedia: 'https://en.wikipedia.org/wiki/Arnett_Cobb'
 image_path: 03_Resources/source_material/ArtistPortraits/Arnett_Cobb.jpg
 biography_enhanced_at: '2025-10-20T01:43:40.924059'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.tshaonline.org/handbook/entries/cobb-arnett-cleophus
-- https://aaregistry.org/story/houstons-own-saxophonist-arnett-cobb/
-- https://www.allaboutjazz.com/musicians/arnett-cobb
+  - 'https://www.tshaonline.org/handbook/entries/cobb-arnett-cleophus'
+  - 'https://aaregistry.org/story/houstons-own-saxophonist-arnett-cobb/'
+  - 'https://www.allaboutjazz.com/musicians/arnett-cobb'
 network_extracted: true
 entry_created: '2025-10-20T01:43:40.924081'
 last_updated: '2025-12-23T08:16:01.045337'
@@ -87,10 +95,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T08:59:45.669206'
 musicbrainz_id: 648cb346-c77e-4787-a822-549815b69b75
 tags:
-- bebop
-- jazz
-- soul jazz
-
+  - bebop
+  - jazz
+  - soul jazz
+is_active: false
 ---
 
 ![](Arnett_Cobb.jpg)

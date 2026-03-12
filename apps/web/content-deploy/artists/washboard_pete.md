@@ -1,5 +1,5 @@
 ---
-title: washboard pete
+title: Washboard Pete
 wiki_slug: washboard-pete
 schema_version: 2
 status: active
@@ -17,7 +17,7 @@ audio_profile:
   danceability_avg: 0.586
   acousticness_avg: 0.958
   instrumentalness_avg: 0.26
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.066
   liveness_avg: 0.132
   track_count: 13
@@ -25,43 +25,44 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ralph Willis
-  - Brownie McGhee
+    - Ralph Willis
+    - Brownie McGhee
   influenced: []
   mentors:
-  - Big Bill Broonzy
-  - Son House
+    - Big Bill Broonzy
+    - Son House
 spotify_data:
   followers: 32
   id: 2fzgcwDs0jDlP7022kTkL8
   popularity: 16
-  url: https://open.spotify.com/artist/2fzgcwDs0jDlP7022kTkL8
+  url: 'https://open.spotify.com/artist/2fzgcwDs0jDlP7022kTkL8'
 discography_enriched: true
 top_tracks:
-- 'Christmas Blues (Christmas Blues: Savoy Jazz Christmas Album)'
-- Christmas Blues (Savoy Christmas Blues)
-- Christmas Blues (Mr. Santa's Boogie (Rhythm & Blues Christmas 1948 - 1957))
-- Christmas Blues (Bluesy Christmas)
-- Christmas Blues (Special Days (Santas Secret))
-- Christmas Blues (Blue Christmas)
-- Christmas Blues (Savoy Christmas Blues)
-- Christmas Blues (Noël Jazz)
-- Christmas Blues (Savoy Jazz Christmas Blues)
-- Christmas Blues - Remastered (Soulful Christmas - Rhythm & Blues & Jazz)
+  - 'Christmas Blues (Christmas Blues: Savoy Jazz Christmas Album)'
+  - Christmas Blues (Savoy Christmas Blues)
+  - Christmas Blues (Mr. Santa's Boogie (Rhythm & Blues Christmas 1948 - 1957))
+  - Christmas Blues (Bluesy Christmas)
+  - Christmas Blues (Special Days (Santas Secret))
+  - Christmas Blues (Blue Christmas)
+  - Christmas Blues (Savoy Christmas Blues)
+  - Christmas Blues (Noël Jazz)
+  - Christmas Blues (Savoy Jazz Christmas Blues)
+  - Christmas Blues - Remastered (Soulful Christmas - Rhythm & Blues & Jazz)
 external_urls:
-  spotify: https://open.spotify.com/artist/2fzgcwDs0jDlP7022kTkL8
+  spotify: 'https://open.spotify.com/artist/2fzgcwDs0jDlP7022kTkL8'
   wikipedia: ''
 image_path: ''
 biography_enhanced_at: '2025-12-19T01:56:03.280606'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.youtube.com/watch?v=L0QGYd4u974
-- https://www.youtube.com/watch?v=V1IbG-ZqOJ4
-- https://washboardslim.com/bio
+  - 'https://www.youtube.com/watch?v=L0QGYd4u974'
+  - 'https://www.youtube.com/watch?v=V1IbG-ZqOJ4'
+  - 'https://washboardslim.com/bio'
 network_extracted: true
 entry_created: '2025-12-19T01:56:03.280633'
 last_updated: '2025-12-23T08:16:18.002045'
+artist_type: person
 ---
 
 ![]()

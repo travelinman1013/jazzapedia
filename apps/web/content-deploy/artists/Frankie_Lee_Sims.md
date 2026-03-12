@@ -2,20 +2,20 @@
 title: Frankie Lee Sims
 wiki_slug: frankie-lee-sims
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1917-04-30'
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, USA'
 death_date: '1970-05-10'
 genres:
-- classic blues
-- blues
+  - classic blues
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Frankie_Lee_Sims.jpg
   caption: Frankie Lee Sims
   background: solo_singer
   born: '1917-04-30'
-  origin: New Orleans, Louisiana, USA
+  origin: 'New Orleans, Louisiana, USA'
   died: '1970-05-10'
 audio_profile:
   tempo_avg: 130.4
@@ -32,49 +32,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Smokey Hogg
-  - T-Bone Walker
-  - Lightnin' Hopkins
-  - Jimmy “Mercy Baby” Mullins
+    - Smokey Hogg
+    - T-Bone Walker
+    - Lightnin' Hopkins
+    - Jimmy “Mercy Baby” Mullins
   influenced:
-  - T-Bone Walker
-  - Lightnin' Hopkins
-  - King Curtis
-  - Albert Collins
-  - Fabulous Thunderbirds
+    - T-Bone Walker
+    - Lightnin' Hopkins
+    - King Curtis
+    - Albert Collins
+    - Fabulous Thunderbirds
   mentors:
-  - Little Hat Jones
+    - Little Hat Jones
 spotify_data:
   followers: 1272
   id: 4ZdhhlvJJwdsD92185M10v
   popularity: 7
-  url: https://open.spotify.com/artist/4ZdhhlvJJwdsD92185M10v
+  url: 'https://open.spotify.com/artist/4ZdhhlvJJwdsD92185M10v'
 discography_enriched: true
 top_tracks:
-- She Likes To Boogie Real Low
-- Walking with Frankie
-- She Likes to Boogie Real Low
-- Lucy Mae Blues, Pt. 1 (Lucy Mae Blues)
-- Frankie's Blues (Lucy Mae Blues)
-- Lucy Mae Blues (Dallas Blues)
-- Lucy Mae Blues (Lucy Mae)
-- Married Woman (Lucy Mae Blues)
-- 'What Will Lucy Do (Masterly Texas Blues- CD A: 1953-1957)'
-- 'Hey Little Girl (Masterly Texas Blues- CD A: 1953-1957)'
+  - She Likes To Boogie Real Low
+  - Walking with Frankie
+  - She Likes to Boogie Real Low
+  - 'Lucy Mae Blues, Pt. 1 (Lucy Mae Blues)'
+  - Frankie's Blues (Lucy Mae Blues)
+  - Lucy Mae Blues (Dallas Blues)
+  - Lucy Mae Blues (Lucy Mae)
+  - Married Woman (Lucy Mae Blues)
+  - 'What Will Lucy Do (Masterly Texas Blues- CD A: 1953-1957)'
+  - 'Hey Little Girl (Masterly Texas Blues- CD A: 1953-1957)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b52b5f02-4a2b-4b47-be57-f71785956326
-  spotify: https://open.spotify.com/artist/4ZdhhlvJJwdsD92185M10v
-  wikipedia: https://en.wikipedia.org/wiki/Frankie_Lee_Sims
+  musicbrainz: 'https://musicbrainz.org/artist/b52b5f02-4a2b-4b47-be57-f71785956326'
+  spotify: 'https://open.spotify.com/artist/4ZdhhlvJJwdsD92185M10v'
+  wikipedia: 'https://en.wikipedia.org/wiki/Frankie_Lee_Sims'
 image_path: 03_Resources/source_material/ArtistPortraits/Frankie_Lee_Sims.jpg
 biography_enhanced_at: '2025-10-19T10:40:58.493266'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://blinddogradio.blogspot.com/2021/02/frankie-lee-sims.html
-- https://wbssmedia.com/artists/detail/794
-- https://fromthevaults-boppinbob.blogspot.com/2021/04/
-- https://michaelcorcoran.substack.com/p/my-pandemic-obsession-frankie-lee
-- https://wiki.killuglyradio.com/wiki/Frankie_Lee_Simms
+  - 'https://blinddogradio.blogspot.com/2021/02/frankie-lee-sims.html'
+  - 'https://wbssmedia.com/artists/detail/794'
+  - 'https://fromthevaults-boppinbob.blogspot.com/2021/04/'
+  - 'https://michaelcorcoran.substack.com/p/my-pandemic-obsession-frankie-lee'
+  - 'https://wiki.killuglyradio.com/wiki/Frankie_Lee_Simms'
 network_extracted: true
 entry_created: '2025-10-19T10:40:58.493282'
 last_updated: '2025-12-23T08:16:02.045850'
@@ -82,9 +82,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:26:48.470536'
 musicbrainz_id: b52b5f02-4a2b-4b47-be57-f71785956326
 tags:
-- blues
-- electric blues
-- electric texas blues
+  - blues
+  - electric blues
+  - electric texas blues
+is_active: false
 ---
 
 ![](Frankie_Lee_Sims.jpg)

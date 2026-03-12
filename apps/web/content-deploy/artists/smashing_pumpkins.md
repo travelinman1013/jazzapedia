@@ -3,41 +3,42 @@ biography_enhanced_at: '2025-12-30T01:26:39.419870'
 enhancement_provider: perplexity
 entry_created: '2025-12-30T01:26:39.419875'
 external_urls:
-  spotify: https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i
+  spotify: 'https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i'
   wikipedia: Not provided in search results
 genres:
-- alternative rock
-- rock
+  - alternative rock
+  - rock
 image_path: 03_Resources/source_material/ArtistPortraits/smashing_pumpkins.jpg
 last_updated: '2025-12-30T01:26:39.419876'
 musical_connections:
   collaborators:
-  - James Iha
-  - D'Arcy Wretzky
-  - Jimmy Chamberlin
-  - Jeff Schroeder
-  - Butch Vig
+    - James Iha
+    - D'Arcy Wretzky
+    - Jimmy Chamberlin
+    - Jeff Schroeder
+    - Butch Vig
   influenced:
-  - A Perfect Circle
+    - A Perfect Circle
   mentors:
-  - The Cure
-  - Siouxsie and the Banshees
-  - Cocteau Twins
+    - The Cure
+    - Siouxsie and the Banshees
+    - Cocteau Twins
 network_extracted: true
-origin: Chicago, Illinois, United States
+origin: 'Chicago, Illinois, United States'
 primary_source: perplexity
 research_sources:
-- https://www.digmeoutpodcast.com/p/the-smashing-pumpkins-history-of
-- https://www.last.fm/music/The+Smashing+Pumpkins/+wiki
-- https://www.britannica.com/topic/Smashing-Pumpkins
-- https://starla.org/articles/history.htm
+  - 'https://www.digmeoutpodcast.com/p/the-smashing-pumpkins-history-of'
+  - 'https://www.last.fm/music/The+Smashing+Pumpkins/+wiki'
+  - 'https://www.britannica.com/topic/Smashing-Pumpkins'
+  - 'https://starla.org/articles/history.htm'
 spotify_data:
   followers: 6202630
   id: 40Yq4vzPs9VNUrIBG5Jr2i
   popularity: 75
-  url: https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i
+  url: 'https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i'
 status: active
-title: Smashing pumpkins
+title: The Smashing Pumpkins
+artist_type: band
 ---
 
 ![](smashing_pumpkins.jpg)

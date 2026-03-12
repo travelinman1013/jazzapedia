@@ -3,36 +3,42 @@ biography_enhanced_at: '2026-01-18T07:47:45.610752'
 enhancement_provider: perplexity
 entry_created: '2026-01-18T07:47:45.610758'
 external_urls:
-  spotify: https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx
-  wikipedia: https://es.wikipedia.org/wiki/Paquito_Guzm%C3%A1n
+  spotify: 'https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx'
+  wikipedia: 'https://es.wikipedia.org/wiki/Paquito_Guzm%C3%A1n'
 genres:
-- salsa
-image_path: 03_Resources/source_material/ArtistPortraits/tommy_olivencia_and_paquito_guzman.jpg
+  - salsa
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/tommy_olivencia_and_paquito_guzman.jpg
 last_updated: '2026-01-18T07:47:45.610759'
 musical_connections:
   collaborators:
-  - Chamaco Ramírez
-  - Sammy El Rolo González
-  - Puerto Rico All-Stars
+    - Chamaco Ramírez
+    - Sammy El Rolo González
+    - Puerto Rico All-Stars
   influenced:
-  - Ray de la Paz
+    - Ray de la Paz
   mentors:
-  - Tommy Olivencia
+    - Tommy Olivencia
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://es.wikipedia.org/wiki/Paquito_Guzm%C3%A1n
-- https://prpop.org/biografias/paquito-guzman/
-- https://es.wikipedia.org/wiki/Tommy_Olivencia
-- http://www.ecured.cu/Tommy_Olivencia
-- http://www.americasalsa.com/biografias/tommy_olivencia.html
+  - 'https://es.wikipedia.org/wiki/Paquito_Guzm%C3%A1n'
+  - 'https://prpop.org/biografias/paquito-guzman/'
+  - 'https://es.wikipedia.org/wiki/Tommy_Olivencia'
+  - 'http://www.ecured.cu/Tommy_Olivencia'
+  - 'http://www.americasalsa.com/biografias/tommy_olivencia.html'
 spotify_data:
   followers: 64633
   id: 60K60Egdxg9rGWcUCI23Qx
   popularity: 42
-  url: https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx
+  url: 'https://open.spotify.com/artist/60K60Egdxg9rGWcUCI23Qx'
 status: active
 title: Tommy Olivencia & Paquito Guzman
+birth_place: 'San Juan, Puerto Rico, United States'
+origin: 'San Juan, Puerto Rico, United States'
+birth_date: '1938-05-15'
+death_date: '2006'
+artist_type: person
 ---
 
 ![](tommy_olivencia_and_paquito_guzman.jpg)

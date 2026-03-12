@@ -1,58 +1,62 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2025-12-29T01:17:55.246040'
 enhancement_provider: perplexity
 entry_created: '2025-12-29T01:17:55.246060'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/55ee8900-b9c9-4c3b-8617-3725826f6750
-  spotify: https://open.spotify.com/artist/103xTJyP2bJmhzpectry6a
-  wikipedia: https://en.wikipedia.org/wiki/Johnny_Lytle
+  musicbrainz: 'https://musicbrainz.org/artist/55ee8900-b9c9-4c3b-8617-3725826f6750'
+  spotify: 'https://open.spotify.com/artist/103xTJyP2bJmhzpectry6a'
+  wikipedia: 'https://en.wikipedia.org/wiki/Johnny_Lytle'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/johnny_lytle_trio.jpg
 last_updated: '2025-12-29T01:17:55.246062'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a429027e-6a7b-4a39-8698-40a8f0cc461f
-  name: Johnny Lytle
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a429027e-6a7b-4a39-8698-40a8f0cc461f
+    name: Johnny Lytle
 musical_connections:
   collaborators:
-  - Milton Harris
-  - William “Peppy” Hinnant
-  - Albert “Tootie” Heath
-  - Ray Barretto
-  - Orrin Keepnews
-  - Wes Montgomery
-  - Nancy Wilson
+    - Milton Harris
+    - William “Peppy” Hinnant
+    - Albert “Tootie” Heath
+    - Ray Barretto
+    - Orrin Keepnews
+    - Wes Montgomery
+    - Nancy Wilson
   influenced:
-  - Roy Ayers
-  - Marcel Lytle
+    - Roy Ayers
+    - Marcel Lytle
   mentors:
-  - Lionel Hampton
-  - Milt Jackson
+    - Lionel Hampton
+    - Milt Jackson
 musicbrainz_id: 55ee8900-b9c9-4c3b-8617-3725826f6750
 network_extracted: true
-origin: Springfield, Ohio, United States
+origin: 'Springfield, Ohio, United States'
 primary_source: perplexity
 research_sources:
-- https://concord.com/artist/johnny-lytle/
-- https://www.jazzempowers.org/johnny-lytle
-- https://en.wikipedia.org/wiki/Johnny_Lytle
-- https://dereksmusicblog.com/2023/07/27/johnny-lytle-the-loop/
-- http://flophousemagazine.com/2018/08/12/johnny-lytle-blue-vibes-jazzland-1960/
-- https://www.ferncliffcemetery.org/famous-folks-at-ferncliff-johnny-dillard-lytle/
-- https://www.liveone.com/artist/johnny-lytle/5378
-- https://www.allmusic.com/artist/johnny-lytle-mn0000243164
+  - 'https://concord.com/artist/johnny-lytle/'
+  - 'https://www.jazzempowers.org/johnny-lytle'
+  - 'https://en.wikipedia.org/wiki/Johnny_Lytle'
+  - 'https://dereksmusicblog.com/2023/07/27/johnny-lytle-the-loop/'
+  - >-
+    http://flophousemagazine.com/2018/08/12/johnny-lytle-blue-vibes-jazzland-1960/
+  - >-
+    https://www.ferncliffcemetery.org/famous-folks-at-ferncliff-johnny-dillard-lytle/
+  - 'https://www.liveone.com/artist/johnny-lytle/5378'
+  - 'https://www.allmusic.com/artist/johnny-lytle-mn0000243164'
 spotify_data:
   followers: 127
   id: 103xTJyP2bJmhzpectry6a
   popularity: 1
-  url: https://open.spotify.com/artist/103xTJyP2bJmhzpectry6a
+  url: 'https://open.spotify.com/artist/103xTJyP2bJmhzpectry6a'
 status: active
 tags:
-- jazz
+  - jazz
 title: JOHNNY LYTLE TRIO
+birth_place: 'Springfield, Ohio, United States'
+birth_date: '1932-10-13'
 ---
 
 ![](johnny_lytle_trio.jpg)

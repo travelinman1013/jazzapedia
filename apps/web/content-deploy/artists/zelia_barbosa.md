@@ -14,12 +14,12 @@ infobox:
   origin: Brazil (specific birthplace not documented in available sources)
   died: '2017'
 audio_profile:
-  tempo_avg: 111.0
+  tempo_avg: 111
   energy_avg: 0.414
   valence_avg: 0.697
   danceability_avg: 0.582
   acousticness_avg: 0.535
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -12.9
   speechiness_avg: 0.079
   liveness_avg: 0.179
@@ -28,45 +28,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Unknown
+    - Unknown
   influenced:
-  - Unknown
+    - Unknown
   mentors:
-  - Unknown
+    - Unknown
 spotify_data:
   followers: 1955
   id: 2gWpib3MPtuy4gGo3M0fER
   popularity: 10
-  url: https://open.spotify.com/artist/2gWpib3MPtuy4gGo3M0fER
+  url: 'https://open.spotify.com/artist/2gWpib3MPtuy4gGo3M0fER'
 discography_enriched: true
 top_tracks:
-- 'Funeral Do Lavrador (Funeral of a Worker) (Brazil: Songs of Protest)'
-- 'Opinião (Opinion) (Brazil: Songs of Protest)'
-- 'Pedro Pedreiro (Peter the Mason) (Brazil: Songs of Protest)'
-- 'Pau De Arara (The Parrot Roost) (Brazil: Songs of Protest)'
-- 'Chegança (Arrival) (Brazil: Songs of Protest)'
-- 'Carcara (The Vulture) (Brazil: Songs of Protest)'
-- 'Sina De Caboclo (Destiny of a Peasant) (Brazil: Songs of Protest)'
-- 'Cancão da Terra (Song of the Earth) (Brazil: Songs of Protest)'
-- 'Zelão (Brazil: Songs of Protest)'
-- 'Feio, Não E Bonito (Ugly) (Brazil: Songs of Protest)'
+  - 'Funeral Do Lavrador (Funeral of a Worker) (Brazil: Songs of Protest)'
+  - 'Opinião (Opinion) (Brazil: Songs of Protest)'
+  - 'Pedro Pedreiro (Peter the Mason) (Brazil: Songs of Protest)'
+  - 'Pau De Arara (The Parrot Roost) (Brazil: Songs of Protest)'
+  - 'Chegança (Arrival) (Brazil: Songs of Protest)'
+  - 'Carcara (The Vulture) (Brazil: Songs of Protest)'
+  - 'Sina De Caboclo (Destiny of a Peasant) (Brazil: Songs of Protest)'
+  - 'Cancão da Terra (Song of the Earth) (Brazil: Songs of Protest)'
+  - 'Zelão (Brazil: Songs of Protest)'
+  - 'Feio, Não E Bonito (Ugly) (Brazil: Songs of Protest)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9f8fe7ca-f43a-4f1f-80f4-97e9c47b215a
-  spotify: https://open.spotify.com/artist/2gWpib3MPtuy4gGo3M0fER
+  musicbrainz: 'https://musicbrainz.org/artist/9f8fe7ca-f43a-4f1f-80f4-97e9c47b215a'
+  spotify: 'https://open.spotify.com/artist/2gWpib3MPtuy4gGo3M0fER'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/zelia_barbosa.jpg
 biography_enhanced_at: '2025-10-26T12:30:20.602997'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://muphoricsounds.com/2010/05/17/in-the-trunk-funeral-do-lavrador-by-zelia-barbosa/
-- https://folkways.si.edu/zelia-barbosa/brazil-songs-of-protest/latin-struggle-world/music/album/smithsonian
-- https://www.last.fm/music/Zelia+Barbosa/+wiki
+  - >-
+    https://muphoricsounds.com/2010/05/17/in-the-trunk-funeral-do-lavrador-by-zelia-barbosa/
+  - >-
+    https://folkways.si.edu/zelia-barbosa/brazil-songs-of-protest/latin-struggle-world/music/album/smithsonian
+  - 'https://www.last.fm/music/Zelia+Barbosa/+wiki'
 network_extracted: true
 entry_created: '2025-10-26T12:30:20.603009'
 last_updated: '2025-12-23T08:16:18.426331'
 gender: Female
 musicbrainz_id: 9f8fe7ca-f43a-4f1f-80f4-97e9c47b215a
+is_active: false
+origin: 'Brazil, Brazil'
 ---
 
 ![](zelia_barbosa.jpg)

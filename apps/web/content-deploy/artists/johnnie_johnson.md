@@ -5,15 +5,15 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1924-07-08'
-birth_place: Fairmont
+birth_place: 'Fairmont, West Virginia, United States'
 death_date: '2005-04-13'
 genres:
-- blues
-- boogie-woogie
+  - blues
+  - boogie-woogie
 instruments:
-- piano
-- electric piano
-- background vocals
+  - piano
+  - electric piano
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/johnnie_johnson.jpg
   caption: Johnnie Johnson
@@ -36,55 +36,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Chuck Berry
-  - Albert King
-  - The Sir John Trio (with Ebby Hardy and Alvin Bennett)
-  - The Sounds of The City (Larry Thurston, Gus Thornton, Tom Maloney)
-  - Eric Clapton
-  - Keith Richards
-  - Styx
-  - Tommy Bankhead and Oliver Sain
+    - Chuck Berry
+    - Albert King
+    - The Sir John Trio (with Ebby Hardy and Alvin Bennett)
+    - 'The Sounds of The City (Larry Thurston, Gus Thornton, Tom Maloney)'
+    - Eric Clapton
+    - Keith Richards
+    - Styx
+    - Tommy Bankhead and Oliver Sain
   influenced:
-  - Chuck Berry
-  - Keith Richards
-  - Generations of rock and blues pianists and guitarists
+    - Chuck Berry
+    - Keith Richards
+    - Generations of rock and blues pianists and guitarists
   mentors:
-  - Muddy Waters
-  - Albert King
+    - Muddy Waters
+    - Albert King
 spotify_data:
   followers: 5568
   id: 3y87PGuBh97sRWZKz3JmiY
   popularity: 28
-  url: https://open.spotify.com/artist/3y87PGuBh97sRWZKz3JmiY
+  url: 'https://open.spotify.com/artist/3y87PGuBh97sRWZKz3JmiY'
 discography_enriched: true
 top_tracks:
-- Tanqueray (Johnnie B. Bad)
-- Stumblin' (Meet Me In Bluesland)
-- The Blues Don't Knock (Johnnie Be Eighty. And Still Bad!)
-- Little Queenie (Meet Me In Bluesland)
-- Party In Heaven (Meet Me In Bluesland)
-- 'Blues #572 (Johnnie B. Bad)'
-- Johnnie B. Bad (Johnnie B. Bad)
-- Key to the Highway (Johnnie B. Bad)
-- Walking With The Wolf (Meet Me In Bluesland)
-- King Rooster (Meet Me In Bluesland)
+  - Tanqueray (Johnnie B. Bad)
+  - Stumblin' (Meet Me In Bluesland)
+  - The Blues Don't Knock (Johnnie Be Eighty. And Still Bad!)
+  - Little Queenie (Meet Me In Bluesland)
+  - Party In Heaven (Meet Me In Bluesland)
+  - 'Blues #572 (Johnnie B. Bad)'
+  - Johnnie B. Bad (Johnnie B. Bad)
+  - Key to the Highway (Johnnie B. Bad)
+  - Walking With The Wolf (Meet Me In Bluesland)
+  - King Rooster (Meet Me In Bluesland)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/cc3a163c-b3dd-4913-bccc-92ad47309088
-  spotify: https://open.spotify.com/artist/3y87PGuBh97sRWZKz3JmiY
-  wikipedia: https://en.wikipedia.org/wiki/Johnnie_Johnson_(musician)
+  musicbrainz: 'https://musicbrainz.org/artist/cc3a163c-b3dd-4913-bccc-92ad47309088'
+  spotify: 'https://open.spotify.com/artist/3y87PGuBh97sRWZKz3JmiY'
+  wikipedia: 'https://en.wikipedia.org/wiki/Johnnie_Johnson_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/johnnie_johnson.jpg
 biography_enhanced_at: '2025-12-20T01:17:28.340381'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Johnnie_Johnson_(musician)
-- https://aaregistry.org/story/johnnie-johnson-one-of-rock-rolls-kings/
-- https://fromthevaults-boppinbob.blogspot.com/2023/07/johnnie-johnson-born-8-july-1924.html
-- https://www.wvmusichalloffame.com/hof_johnson.html
-- https://bornandbredmusic.com/2024/07/23/west-virginias-johnnie-johnson-legendary-rock-n-roll-piano-player-and-member-of-the-rock-n-roll-hall-of-fame/
-- https://www.wgpfoundation.org/historic-markers/johnnie-johnson/
-- https://rockhall.com/inductees/johnnie-johnson/
-- https://en.wikisource.org/wiki/Honoring_Piano_Legend_Johnnie_Johnson
+  - 'https://en.wikipedia.org/wiki/Johnnie_Johnson_(musician)'
+  - 'https://aaregistry.org/story/johnnie-johnson-one-of-rock-rolls-kings/'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2023/07/johnnie-johnson-born-8-july-1924.html
+  - 'https://www.wvmusichalloffame.com/hof_johnson.html'
+  - >-
+    https://bornandbredmusic.com/2024/07/23/west-virginias-johnnie-johnson-legendary-rock-n-roll-piano-player-and-member-of-the-rock-n-roll-hall-of-fame/
+  - 'https://www.wgpfoundation.org/historic-markers/johnnie-johnson/'
+  - 'https://rockhall.com/inductees/johnnie-johnson/'
+  - 'https://en.wikisource.org/wiki/Honoring_Piano_Legend_Johnnie_Johnson'
 network_extracted: true
 entry_created: '2025-12-20T01:17:28.340396'
 last_updated: '2025-12-23T08:16:10.815053'
@@ -92,9 +94,10 @@ disambiguation: US jazz/blues/rock’n’roll pianist
 gender: Male
 musicbrainz_id: cc3a163c-b3dd-4913-bccc-92ad47309088
 tags:
-- blues
-- piano blues
-
+  - blues
+  - piano blues
+is_active: false
+origin: 'St. Louis, Missouri, United States'
 ---
 
 ![](johnnie_johnson.jpg)

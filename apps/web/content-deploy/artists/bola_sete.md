@@ -5,21 +5,21 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1923-07-16'
-birth_place: Rio de Janeiro
+birth_place: 'Rio de Janeiro, Rio de Janeiro State, Brazil'
 death_date: '1987-02-14'
 genres:
-- bossa nova
-- brazilian jazz
-- latin jazz
+  - bossa nova
+  - brazilian jazz
+  - latin jazz
 instruments:
-- guitar
-- classical guitar
+  - guitar
+  - classical guitar
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0bed627e-d3f8-4021-b617-78d3e40c3c58
-  name: The Bola Sete Trios
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0bed627e-d3f8-4021-b617-78d3e40c3c58
+    name: The Bola Sete Trios
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bola_sete.jpg
   caption: Bola Sete
@@ -42,54 +42,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dizzy Gillespie
-  - Vince Guaraldi
-  - John Handy
+    - Dizzy Gillespie
+    - Vince Guaraldi
+    - John Handy
   influenced:
-  - John Fahey
+    - John Fahey
   mentors:
-  - European classical guitar tradition
-  - Nat 'King' Cole and Django Reinhardt
+    - European classical guitar tradition
+    - Nat 'King' Cole and Django Reinhardt
 spotify_data:
   followers: 16515
   id: 3vVLhTD4Etza2AvvWJaNyW
   popularity: 38
-  url: https://open.spotify.com/artist/3vVLhTD4Etza2AvvWJaNyW
+  url: 'https://open.spotify.com/artist/3vVLhTD4Etza2AvvWJaNyW'
 discography_enriched: true
 top_tracks:
-- Bettina (Workin' On A Groovy Thing)
-- Ginza Samba - Remastered 1998 (From All Sides (Remastered 1998))
-- El Matador - Live At El Matador, San Francisco, CA / 1966 (Vince & Bola)
-- Ginza Samba - Remastered 1998
-- Star Song (Vince & Bola)
-- Days Of Wine And Roses (Vince & Bola)
-- Menino Pequeno Da Bateria - Remastered 1998 (From All Sides (Remastered 1998))
-- The Girl From Ipanema - Remastered 1998 (From All Sides (Remastered 1998))
-- Little Fishes - Remastered 1998 (From All Sides (Remastered 1998))
-- More - Live - (Theme From Mondo Cane) (Vince & Bola)
+  - Bettina (Workin' On A Groovy Thing)
+  - Ginza Samba - Remastered 1998 (From All Sides (Remastered 1998))
+  - 'El Matador - Live At El Matador, San Francisco, CA / 1966 (Vince & Bola)'
+  - Ginza Samba - Remastered 1998
+  - Star Song (Vince & Bola)
+  - Days Of Wine And Roses (Vince & Bola)
+  - >-
+    Menino Pequeno Da Bateria - Remastered 1998 (From All Sides (Remastered
+    1998))
+  - The Girl From Ipanema - Remastered 1998 (From All Sides (Remastered 1998))
+  - Little Fishes - Remastered 1998 (From All Sides (Remastered 1998))
+  - More - Live - (Theme From Mondo Cane) (Vince & Bola)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/0e3e9249-8fea-4c25-a01f-a01962432365
-  spotify: https://open.spotify.com/artist/3vVLhTD4Etza2AvvWJaNyW
-  wikipedia: https://en.wikipedia.org/wiki/Bola_Sete
+  musicbrainz: 'https://musicbrainz.org/artist/0e3e9249-8fea-4c25-a01f-a01962432365'
+  spotify: 'https://open.spotify.com/artist/3vVLhTD4Etza2AvvWJaNyW'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bola_Sete'
 image_path: 03_Resources/source_material/ArtistPortraits/bola_sete.jpg
 biography_enhanced_at: '2025-11-16T20:16:56.551899'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.sfcv.org/articles/feature/rediscovering-bola-sete
-- https://www.honest-broker.com/p/the-many-missed-opportunities-of
-- https://www.allaboutjazz.com/musicians/bola-sete/
-- https://ivu.org/people/music/sete.html
-- https://www.johnfahey.com/pages/sete.html
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/sete-bola
-- https://digigui.com/bola-sete-1923-1987-brazilian-fingerstyle-pioneer/
+  - 'https://www.sfcv.org/articles/feature/rediscovering-bola-sete'
+  - 'https://www.honest-broker.com/p/the-many-missed-opportunities-of'
+  - 'https://www.allaboutjazz.com/musicians/bola-sete/'
+  - 'https://ivu.org/people/music/sete.html'
+  - 'https://www.johnfahey.com/pages/sete.html'
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/sete-bola
+  - 'https://digigui.com/bola-sete-1923-1987-brazilian-fingerstyle-pioneer/'
 network_extracted: true
 entry_created: '2025-11-16T20:16:56.551905'
 last_updated: '2025-12-23T08:16:05.902247'
 gender: Male
 musicbrainz_id: 0e3e9249-8fea-4c25-a01f-a01962432365
 tags:
-- jazz
+  - jazz
+is_active: false
+origin: 'Northern California, United States'
 ---
 
 ![](bola_sete.jpg)

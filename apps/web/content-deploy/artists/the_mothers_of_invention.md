@@ -2,33 +2,33 @@
 title: The Mothers Of Invention
 wiki_slug: the-mothers-of-invention
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1964'
 genres:
-- progressive rock
-- psychedelic rock
-- art rock
-- avant-garde
-- acid rock
+  - progressive rock
+  - psychedelic rock
+  - art rock
+  - avant-garde
+  - acid rock
 instruments:
-- drums (drum set)
-- original
-- lead vocals
-- percussion
-- bass
-- other vocals
-- guitar
-- spoken vocals
-- woodwind
-- keyboard
-- saxophone
-- tambourine
-- background vocals
-- synthesizer
-- violin
-- harmonica
-- trombone
+  - drums (drum set)
+  - original
+  - lead vocals
+  - percussion
+  - bass
+  - other vocals
+  - guitar
+  - spoken vocals
+  - woodwind
+  - keyboard
+  - saxophone
+  - tambourine
+  - background vocals
+  - synthesizer
+  - violin
+  - harmonica
+  - trombone
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_mothers_of_invention.jpg
   caption: The Mothers Of Invention
@@ -49,224 +49,225 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ray Collins
-  - Jimmy Carl Black
-  - Roy Estrada
-  - George Duke
-  - Mark Volman and Howard Kaylan
-  - Ian Underwood
-  - Don Preston
+    - Ray Collins
+    - Jimmy Carl Black
+    - Roy Estrada
+    - George Duke
+    - Mark Volman and Howard Kaylan
+    - Ian Underwood
+    - Don Preston
   influenced:
-  - Progressive Rock Movement
+    - Progressive Rock Movement
   mentors:
-  - Edgard Varèse
-  - Igor Stravinsky
+    - Edgard Varèse
+    - Igor Stravinsky
 spotify_data:
   followers: 130649
   id: 3P2gYnypDVi90ZavnaAhfL
   popularity: 42
-  url: https://open.spotify.com/artist/3P2gYnypDVi90ZavnaAhfL
+  url: 'https://open.spotify.com/artist/3P2gYnypDVi90ZavnaAhfL'
 discography_enriched: true
 top_tracks:
-- Inca Roads (One Size Fits All)
-- Trouble Every Day (Freak Out!)
-- Sofa No. 1 (One Size Fits All)
-- Anyway The Wind Blows (Freak Out!)
-- Get A Little (Weasels Ripped My Flesh)
-- My Guitar Wants To Kill Your Mama (Weasels Ripped My Flesh)
-- Po-Jama People (One Size Fits All)
-- Oh No (Weasels Ripped My Flesh)
-- Hungry Freaks, Daddy (Freak Out!)
-- Can't Afford No Shoes - Rough Mix
+  - Inca Roads (One Size Fits All)
+  - Trouble Every Day (Freak Out!)
+  - Sofa No. 1 (One Size Fits All)
+  - Anyway The Wind Blows (Freak Out!)
+  - Get A Little (Weasels Ripped My Flesh)
+  - My Guitar Wants To Kill Your Mama (Weasels Ripped My Flesh)
+  - Po-Jama People (One Size Fits All)
+  - Oh No (Weasels Ripped My Flesh)
+  - 'Hungry Freaks, Daddy (Freak Out!)'
+  - Can't Afford No Shoes - Rough Mix
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/fe98e268-4ddd-441b-95a0-b219375f9ae4
-  spotify: https://open.spotify.com/artist/3P2gYnypDVi90ZavnaAhfL
+  musicbrainz: 'https://musicbrainz.org/artist/fe98e268-4ddd-441b-95a0-b219375f9ae4'
+  spotify: 'https://open.spotify.com/artist/3P2gYnypDVi90ZavnaAhfL'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/the_mothers_of_invention.jpg
 biography_enhanced_at: '2025-10-26T12:36:39.904209'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://top40weekly.com/frank-zappa-the-mothers-of-invention/
-- https://www.last.fm/music/The+Mothers+of+Invention/+wiki
-- https://www.afka.net/Articles/1992-00_Ptolemaic_Terrascope.htm
-- https://www.chaoticrhythm.com/artists/the-experimental-genius-of-frank-zappa:-the-mothers-of-invention-
-- https://www.britannica.com/topic/Mothers-of-Invention
+  - 'https://top40weekly.com/frank-zappa-the-mothers-of-invention/'
+  - 'https://www.last.fm/music/The+Mothers+of+Invention/+wiki'
+  - 'https://www.afka.net/Articles/1992-00_Ptolemaic_Terrascope.htm'
+  - >-
+    https://www.chaoticrhythm.com/artists/the-experimental-genius-of-frank-zappa:-the-mothers-of-invention-
+  - 'https://www.britannica.com/topic/Mothers-of-Invention'
 network_extracted: true
 entry_created: '2025-10-26T12:36:39.904220'
 last_updated: '2025-12-23T08:16:16.998634'
 members:
-- begin: '1964'
-  end: '1969'
-  instruments:
-  - drums (drum set)
-  - original
-  mbid: f6cfb1e8-b823-42aa-8f39-33c764963524
-  name: Jimmy Carl Black
-- begin: '1964'
-  end: 1970-05
-  instruments:
-  - lead vocals
-  - original
-  - percussion
-  mbid: 93b3f410-d457-432b-9ffc-f578ca4e3c5a
-  name: Ray Collins
-- begin: '1964'
-  end: '1975'
-  instruments:
-  - bass
-  - original
-  - other vocals
-  mbid: a56ffd42-eb7f-4400-9e8c-47351d03301b
-  name: Roy Estrada
-- begin: '1964'
-  end: '1975'
-  instruments:
-  - guitar
-  - lead vocals
-  - original
-  - spoken vocals
-  mbid: e20747e7-55a4-452e-8766-7b985585082d
-  name: Frank Zappa
-- begin: 1966-08
-  end: 1970-05
-  instruments:
-  - drums (drum set)
-  mbid: 7c134cc1-a84a-45c7-956a-85938538d1ea
-  name: Billy Mundi
-- begin: 1966-11
-  end: 1969-08
-  instruments:
-  - woodwind
-  mbid: efa656ce-d16d-497d-b47f-dcb0ad03c7d0
-  name: Bunk Gardner
-- begin: 1966-11
-  end: '1974'
-  instruments:
-  - keyboard
-  mbid: ca979604-be80-4234-9222-ebbbeaaf5a39
-  name: Don Preston
-- begin: '1966'
-  end: '1966'
-  instruments:
-  - guitar
-  mbid: 6323c585-8945-40e8-bec1-ac395d663d9b
-  name: Elliot Ingber
-- begin: '1966'
-  end: 1970-05
-  instruments:
-  - saxophone
-  - tambourine
-  mbid: 02966404-7ae8-42d1-8bc8-d4bfdf261e91
-  name: Jim “Motorhead” Sherwood
-- begin: 1967-07
-  end: 1973-09
-  instruments:
-  - guitar
-  - keyboard
-  - woodwind
-  mbid: bd933c91-37d6-4932-9f02-fa8666219af2
-  name: Ian Underwood
-- begin: 1968-03
-  end: '1969'
-  instruments:
-  - drums (drum set)
-  mbid: 3c86ee1b-0913-4cbf-94a1-087b1468f19c
-  name: Art Tripp
-- begin: 1968-11
-  end: 1969-05
-  instruments:
-  - background vocals
-  - guitar
-  mbid: 9cd68445-d218-439b-8127-3de4e7df6cdb
-  name: Lowell George
-- begin: 1970-06
-  end: 1971-12
-  instruments:
-  - lead vocals
-  mbid: 55e5ab16-6fb3-43f3-b5fb-54e27473027c
-  name: Howard Kaylan
-- begin: 1970-06
-  end: 1971-12
-  instruments:
-  - background vocals
-  mbid: 55e5ab16-6fb3-43f3-b5fb-54e27473027c
-  name: Howard Kaylan
-- begin: 1970-06
-  end: 1971-12
-  instruments:
-  - background vocals
-  mbid: b453e663-9573-4890-b82c-9a61e1200ac1
-  name: Mark Volman
-- begin: 1970-06
-  end: 1971-12
-  instruments:
-  - lead vocals
-  mbid: b453e663-9573-4890-b82c-9a61e1200ac1
-  name: Mark Volman
-- begin: 1970-06
-  end: 1975-05
-  instruments:
-  - keyboard
-  - synthesizer
-  mbid: fd180bc2-7b01-4b07-9597-451e7383f1b4
-  name: George Duke
-- begin: '1970'
-  end: '1970'
-  instruments:
-  - violin
-  mbid: 670de23e-5994-4bf2-b357-20763527ca49
-  name: Don “Sugarcane” Harris
-- begin: '1970'
-  end: 1974-07
-  instruments:
-  - background vocals
-  - bass
-  - guitar
-  - harmonica
-  mbid: b4614a70-7123-4240-9376-20660623faf6
-  name: Jeff Simmons
-- begin: '1972'
-  end: '1972'
-  instruments:
-  - percussion
-  mbid: 7b745d8f-0c88-43c9-9a2e-4c2209d6bdc0
-  name: Alan Estes
-- begin: '1972'
-  end: '1975'
-  instruments: []
-  mbid: 737a770e-1312-48a9-b7cf-a1e11a68012d
-  name: Earle Dumler
-- begin: 1973-02
-  end: 1973-08
-  instruments:
-  - violin
-  mbid: 44cd4e2e-0a6a-4cd1-a2a7-e23d9f33df78
-  name: Jean‐Luc Ponty
-- begin: '1973'
-  end: 1974-05
-  instruments:
-  - drums (drum set)
-  mbid: d7da91ac-fd70-4541-9d13-8a3c24c5fb7c
-  name: Ralph Humphrey
-- begin: '1973'
-  end: 1975-05
-  instruments:
-  - trombone
-  mbid: 9704408b-c694-47d1-ad36-7784d425e834
-  name: Bruce Fowler
-- begin: '1973'
-  end: 1975-05
-  instruments:
-  - bass
-  mbid: cf8f8722-631e-458b-a304-b038bab751ba
-  name: Tom Fowler
+  - begin: '1964'
+    end: '1969'
+    instruments:
+      - drums (drum set)
+      - original
+    mbid: f6cfb1e8-b823-42aa-8f39-33c764963524
+    name: Jimmy Carl Black
+  - begin: '1964'
+    end: 1970-05
+    instruments:
+      - lead vocals
+      - original
+      - percussion
+    mbid: 93b3f410-d457-432b-9ffc-f578ca4e3c5a
+    name: Ray Collins
+  - begin: '1964'
+    end: '1975'
+    instruments:
+      - bass
+      - original
+      - other vocals
+    mbid: a56ffd42-eb7f-4400-9e8c-47351d03301b
+    name: Roy Estrada
+  - begin: '1964'
+    end: '1975'
+    instruments:
+      - guitar
+      - lead vocals
+      - original
+      - spoken vocals
+    mbid: e20747e7-55a4-452e-8766-7b985585082d
+    name: Frank Zappa
+  - begin: 1966-08
+    end: 1970-05
+    instruments:
+      - drums (drum set)
+    mbid: 7c134cc1-a84a-45c7-956a-85938538d1ea
+    name: Billy Mundi
+  - begin: 1966-11
+    end: 1969-08
+    instruments:
+      - woodwind
+    mbid: efa656ce-d16d-497d-b47f-dcb0ad03c7d0
+    name: Bunk Gardner
+  - begin: 1966-11
+    end: '1974'
+    instruments:
+      - keyboard
+    mbid: ca979604-be80-4234-9222-ebbbeaaf5a39
+    name: Don Preston
+  - begin: '1966'
+    end: '1966'
+    instruments:
+      - guitar
+    mbid: 6323c585-8945-40e8-bec1-ac395d663d9b
+    name: Elliot Ingber
+  - begin: '1966'
+    end: 1970-05
+    instruments:
+      - saxophone
+      - tambourine
+    mbid: 02966404-7ae8-42d1-8bc8-d4bfdf261e91
+    name: Jim “Motorhead” Sherwood
+  - begin: 1967-07
+    end: 1973-09
+    instruments:
+      - guitar
+      - keyboard
+      - woodwind
+    mbid: bd933c91-37d6-4932-9f02-fa8666219af2
+    name: Ian Underwood
+  - begin: 1968-03
+    end: '1969'
+    instruments:
+      - drums (drum set)
+    mbid: 3c86ee1b-0913-4cbf-94a1-087b1468f19c
+    name: Art Tripp
+  - begin: 1968-11
+    end: 1969-05
+    instruments:
+      - background vocals
+      - guitar
+    mbid: 9cd68445-d218-439b-8127-3de4e7df6cdb
+    name: Lowell George
+  - begin: 1970-06
+    end: 1971-12
+    instruments:
+      - lead vocals
+    mbid: 55e5ab16-6fb3-43f3-b5fb-54e27473027c
+    name: Howard Kaylan
+  - begin: 1970-06
+    end: 1971-12
+    instruments:
+      - background vocals
+    mbid: 55e5ab16-6fb3-43f3-b5fb-54e27473027c
+    name: Howard Kaylan
+  - begin: 1970-06
+    end: 1971-12
+    instruments:
+      - background vocals
+    mbid: b453e663-9573-4890-b82c-9a61e1200ac1
+    name: Mark Volman
+  - begin: 1970-06
+    end: 1971-12
+    instruments:
+      - lead vocals
+    mbid: b453e663-9573-4890-b82c-9a61e1200ac1
+    name: Mark Volman
+  - begin: 1970-06
+    end: 1975-05
+    instruments:
+      - keyboard
+      - synthesizer
+    mbid: fd180bc2-7b01-4b07-9597-451e7383f1b4
+    name: George Duke
+  - begin: '1970'
+    end: '1970'
+    instruments:
+      - violin
+    mbid: 670de23e-5994-4bf2-b357-20763527ca49
+    name: Don “Sugarcane” Harris
+  - begin: '1970'
+    end: 1974-07
+    instruments:
+      - background vocals
+      - bass
+      - guitar
+      - harmonica
+    mbid: b4614a70-7123-4240-9376-20660623faf6
+    name: Jeff Simmons
+  - begin: '1972'
+    end: '1972'
+    instruments:
+      - percussion
+    mbid: 7b745d8f-0c88-43c9-9a2e-4c2209d6bdc0
+    name: Alan Estes
+  - begin: '1972'
+    end: '1975'
+    instruments: []
+    mbid: 737a770e-1312-48a9-b7cf-a1e11a68012d
+    name: Earle Dumler
+  - begin: 1973-02
+    end: 1973-08
+    instruments:
+      - violin
+    mbid: 44cd4e2e-0a6a-4cd1-a2a7-e23d9f33df78
+    name: Jean‐Luc Ponty
+  - begin: '1973'
+    end: 1974-05
+    instruments:
+      - drums (drum set)
+    mbid: d7da91ac-fd70-4541-9d13-8a3c24c5fb7c
+    name: Ralph Humphrey
+  - begin: '1973'
+    end: 1975-05
+    instruments:
+      - trombone
+    mbid: 9704408b-c694-47d1-ad36-7784d425e834
+    name: Bruce Fowler
+  - begin: '1973'
+    end: 1975-05
+    instruments:
+      - bass
+    mbid: cf8f8722-631e-458b-a304-b038bab751ba
+    name: Tom Fowler
 musicbrainz_id: fe98e268-4ddd-441b-95a0-b219375f9ae4
-origin: Los Angeles
+origin: 'Los Angeles, California, United States'
 tags:
-- avant-prog
-- comedy rock
-- experimental rock
+  - avant-prog
+  - comedy rock
+  - experimental rock
 ---
 
 ![](the_mothers_of_invention.jpg)

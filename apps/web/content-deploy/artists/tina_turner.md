@@ -5,41 +5,41 @@ schema_version: 2
 status: deceased
 birth_name: Anna Mae Bullock
 also_known_as:
-- Tina Turner
+  - Tina Turner
 aliases:
-- Tina Turner
+  - Tina Turner
 birth_date: '1939-11-26'
-birth_place: Nutbush, Tennessee, United States
+birth_place: 'Nutbush, Tennessee, United States'
 death_date: '2023-05-24'
 years_active: 1956–2021
 genres: []
 instruments:
-- voice
+  - voice
 occupation:
-- singer
-- dancer
-- autobiographer
-- songwriter
-- recording artist
+  - singer
+  - dancer
+  - autobiographer
+  - songwriter
+  - recording artist
 record_labels:
-- Capitol Records
-- EMI
-- United Artists Records
-- Parlophone
-- Virgin
+  - Capitol Records
+  - EMI
+  - United Artists Records
+  - Parlophone
+  - Virgin
 spouse:
-- Ike Turner
-- Erwin Bach
+  - Ike Turner
+  - Erwin Bach
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Tina_Turner.jpg
   caption: Tina Turner
   background: solo_singer
   birth_name: Anna Mae Bullock
   born: '1939-11-26'
-  origin: Nutbush, Tennessee, United States
+  origin: 'Nutbush, Tennessee, United States'
   died: '2023-05-24'
 audio_profile:
-  tempo_avg: 112.0
+  tempo_avg: 112
   energy_avg: 0.697
   valence_avg: 0.656
   danceability_avg: 0.673
@@ -53,55 +53,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ike Turner
-  - Lionel Richie
-  - Beyoncé
-  - Elisa
-  - Kygo
+    - Ike Turner
+    - Lionel Richie
+    - Beyoncé
+    - Elisa
+    - Kygo
   influenced:
-  - Beyoncé
-  - Janet Jackson
-  - Mary J. Blige
+    - Beyoncé
+    - Janet Jackson
+    - Mary J. Blige
   mentors:
-  - Ike Turner
+    - Ike Turner
 related_artists: []
 spotify_data:
   followers: 4747355
   id: 1zuJe6b1roixEKMOtyrEak
   popularity: 72
-  url: https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak
+  url: 'https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak'
   verified: false
 discography_enriched: true
 albums_count: 20
 singles_count: 27
 top_tracks:
-- The Best (Foreign Affair)
-- What's Love Got to Do with It - 2015 Remaster (Private Dancer (30th Anniversary Issue))
-- What's Love Got to Do with It (What's Love Got to Do with It?)
-- What's Love Got to Do with It
-- We Don't Need Another Hero (Thunderdome) (Private Dancer (30th Anniversary Issue))
-- Proud Mary (What's Love Got to Do with It?)
-- The Best
-- I Don't Wanna Lose You (Foreign Affair)
-- The Best - Edit
-- It's Only Love (Reckless (30th Anniversary / Deluxe Edition))
+  - The Best (Foreign Affair)
+  - >-
+    What's Love Got to Do with It - 2015 Remaster (Private Dancer (30th
+    Anniversary Issue))
+  - What's Love Got to Do with It (What's Love Got to Do with It?)
+  - What's Love Got to Do with It
+  - >-
+    We Don't Need Another Hero (Thunderdome) (Private Dancer (30th Anniversary
+    Issue))
+  - Proud Mary (What's Love Got to Do with It?)
+  - The Best
+  - I Don't Wanna Lose You (Foreign Affair)
+  - The Best - Edit
+  - It's Only Love (Reckless (30th Anniversary / Deluxe Edition))
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak
-  wikipedia: https://en.wikipedia.org/wiki/Tina_Turner
+  spotify: 'https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tina_Turner'
 image_path: 03_Resources/source_material/ArtistPortraits/Tina_Turner.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:27:24.448210'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Office Timeline
-- Wikipedia
-- YouTube biography
+  - Office Timeline
+  - Wikipedia
+  - YouTube biography
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 11:49:20.764937
+entry_created: 2025-09-18T11:49:20.764Z
 last_updated: '2025-12-23T08:16:17.476431'
+is_active: false
+artist_type: person
 ---
 
 ![](Tina_Turner.jpg)

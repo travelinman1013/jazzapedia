@@ -1,46 +1,54 @@
 ---
 biography_enhanced_at: '2026-01-07T01:18:20.084502'
-birth_place: France (birthplace), New Orleans, Louisiana, USA (based since 2011)
+birth_place: 'France (birthplace), New Orleans, Louisiana, USA (based since 2011)'
 enhancement_provider: perplexity
 entry_created: '2026-01-07T01:18:20.084508'
 external_urls:
-  spotify: https://open.spotify.com/artist/1UGLUqEnVM9ho71GyBPNZg
+  spotify: 'https://open.spotify.com/artist/1UGLUqEnVM9ho71GyBPNZg'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/frenchie_moe.jpg
 last_updated: '2026-01-07T01:18:20.084509'
 musical_connections:
   collaborators:
-  - Coco Robicheaux
-  - Walter Wolfman Washington
-  - Bruce Elsensohn
-  - Tiffany Pollack
-  - Scott Perro
-  - Keith Hawkins
+    - Coco Robicheaux
+    - Walter Wolfman Washington
+    - Bruce Elsensohn
+    - Tiffany Pollack
+    - Scott Perro
+    - Keith Hawkins
   influenced: []
   mentors:
-  - Victor Brox
-  - Creighton Holley
-  - Walter Wolfman Washington
-  - Coco Robicheaux
+    - Victor Brox
+    - Creighton Holley
+    - Walter Wolfman Washington
+    - Coco Robicheaux
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://blues.gr/profiles/blogs/q-a-with-french-guitarist-vocalist-frenchie-moe-based-in-louisian
-- https://www.offbeat.com/music/frenchie-moe-way-down-in-hustleville-independent/
-- https://www.gratefulweb.com/articles/frenchie-moe-releases-hi-class-a-modern-new-orleans-blues-statement/
-- https://www.shreddelicious.com/2020/03/frenchie-moe-female-blues-guitarist.html
-- https://www.youtube.com/watch?v=xU8_jBE-MLA
-- https://www.bluesblastmagazine.com/frenchie-moe-way-down-in-hustleville-album-review/
-- https://www.youtube.com/user/FrenchieMoe
-- https://en.wikipedia.org/wiki/Coco_Robicheaux
+  - >-
+    https://blues.gr/profiles/blogs/q-a-with-french-guitarist-vocalist-frenchie-moe-based-in-louisian
+  - >-
+    https://www.offbeat.com/music/frenchie-moe-way-down-in-hustleville-independent/
+  - >-
+    https://www.gratefulweb.com/articles/frenchie-moe-releases-hi-class-a-modern-new-orleans-blues-statement/
+  - >-
+    https://www.shreddelicious.com/2020/03/frenchie-moe-female-blues-guitarist.html
+  - 'https://www.youtube.com/watch?v=xU8_jBE-MLA'
+  - >-
+    https://www.bluesblastmagazine.com/frenchie-moe-way-down-in-hustleville-album-review/
+  - 'https://www.youtube.com/user/FrenchieMoe'
+  - 'https://en.wikipedia.org/wiki/Coco_Robicheaux'
 spotify_data:
   followers: 43
   id: 1UGLUqEnVM9ho71GyBPNZg
   popularity: 0
-  url: https://open.spotify.com/artist/1UGLUqEnVM9ho71GyBPNZg
+  url: 'https://open.spotify.com/artist/1UGLUqEnVM9ho71GyBPNZg'
 status: active
 title: Frenchie Moe
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1986'
+artist_type: person
 ---
 
 ![](frenchie_moe.jpg)

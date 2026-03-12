@@ -4,8 +4,8 @@ wiki_slug: black-milk-fat-ray
 schema_version: 2
 status: active
 genres:
-- alternative hip hop
-- underground hip hop
+  - alternative hip hop
+  - underground hip hop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/black_milk_and_fat_ray.jpg
   caption: Black Milk & Fat Ray
@@ -25,53 +25,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Young RJ
-  - Elzhi
-  - Guilty Simpson
-  - Phat Kat
+    - Young RJ
+    - Elzhi
+    - Guilty Simpson
+    - Phat Kat
   influenced:
-  - Contemporary Detroit Hip-Hop Artists
+    - Contemporary Detroit Hip-Hop Artists
   mentors:
-  - J Dilla
-  - Detroit Hip-Hop Shop Era
+    - J Dilla
+    - Detroit Hip-Hop Shop Era
 spotify_data:
   followers: 123463
   id: 77zgRkcehIGCAtROXkXkb3
   popularity: 36
-  url: https://open.spotify.com/artist/77zgRkcehIGCAtROXkXkb3
+  url: 'https://open.spotify.com/artist/77zgRkcehIGCAtROXkXkb3'
 discography_enriched: true
 top_tracks:
-- SHINE (NAFIDA)
-- Everyday Was (If There's a Hell Below)
-- Sunday's Best (No Poison No Paradise)
-- Just Say No (Food From the Gods)
-- What It's Worth (If There's a Hell Below)
-- Losing Out (feat. Royce Da 5'9) (Tronic)
-- The Recipe
-- ELDERBERRY (Food From the Gods)
-- Talcum (Food From the Gods)
-- 4 Blacks (The Rebellion Sessions)
+  - SHINE (NAFIDA)
+  - Everyday Was (If There's a Hell Below)
+  - Sunday's Best (No Poison No Paradise)
+  - Just Say No (Food From the Gods)
+  - What It's Worth (If There's a Hell Below)
+  - Losing Out (feat. Royce Da 5'9) (Tronic)
+  - The Recipe
+  - ELDERBERRY (Food From the Gods)
+  - Talcum (Food From the Gods)
+  - 4 Blacks (The Rebellion Sessions)
 external_urls:
-  spotify: https://open.spotify.com/artist/77zgRkcehIGCAtROXkXkb3
-  wikipedia: https://en.wikipedia.org/wiki/Black_Milk
+  spotify: 'https://open.spotify.com/artist/77zgRkcehIGCAtROXkXkb3'
+  wikipedia: 'https://en.wikipedia.org/wiki/Black_Milk'
 image_path: 03_Resources/source_material/ArtistPortraits/black_milk_and_fat_ray.jpg
 biography_enhanced_at: '2025-11-28T07:26:39.463603'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- The Rap Music Plug Podcast - Fat Ray Interview (March 12, 2025)
-- Wikipedia - Black Milk
-- Last.fm - Black Milk Biography
-- Hip Hop Wiki - Fandom - Black Milk
-- Red Bull - Meet producer & emcee Black Milk
-- 'RapReviews - Fat Ray and Black Milk: The Set Up'
-- HipHopDX - Fat Ray & Black Milk - The Set Up Review
-- Metro Times - Fat Ray dishes on new album with Black Milk
-- OneTwoOneTwo - Fat Ray & Black Milk - The Set Up
+  - 'The Rap Music Plug Podcast - Fat Ray Interview (March 12, 2025)'
+  - Wikipedia - Black Milk
+  - Last.fm - Black Milk Biography
+  - Hip Hop Wiki - Fandom - Black Milk
+  - Red Bull - Meet producer & emcee Black Milk
+  - 'RapReviews - Fat Ray and Black Milk: The Set Up'
+  - HipHopDX - Fat Ray & Black Milk - The Set Up Review
+  - Metro Times - Fat Ray dishes on new album with Black Milk
+  - OneTwoOneTwo - Fat Ray & Black Milk - The Set Up
 network_extracted: true
 entry_created: '2025-11-28T07:26:39.463616'
 last_updated: '2025-12-23T08:16:05.656225'
-origin: Detroit, Michigan, United States
+origin: 'Detroit, Michigan, United States'
+birth_place: 'Detroit, Michigan, United States'
+birth_date: '1983-08-14'
+artist_type: person
 ---
 
 ![](black_milk_and_fat_ray.jpg)

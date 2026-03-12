@@ -2,14 +2,14 @@
 title: Mint Condition
 wiki_slug: mint-condition
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1985'
 genres:
-- neo soul
-- new jack swing
-- quiet storm
-- smooth r&b
+  - neo soul
+  - new jack swing
+  - quiet storm
+  - smooth r&b
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/mint_condition.jpg
   caption: Mint Condition
@@ -30,95 +30,95 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Stokley Williams
-  - Ricky Kinchen
-  - Homer O’Dell
-  - Larry (Lawrence) Waddell
-  - Jeffrey (Jeff) Allen
-  - Keri Lewis
-  - Perspective Records / A&M (label collaboration via Jam & Lewis)
-  - Elektra Records
+    - Stokley Williams
+    - Ricky Kinchen
+    - Homer O’Dell
+    - Larry (Lawrence) Waddell
+    - Jeffrey (Jeff) Allen
+    - Keri Lewis
+    - Perspective Records / A&M (label collaboration via Jam & Lewis)
+    - Elektra Records
   influenced:
-  - Later R&B bands and live‑instrument acts (general influence)
+    - Later R&B bands and live‑instrument acts (general influence)
   mentors:
-  - Jimmy Jam and Terry Lewis
-  - Prince (scene influence)
+    - Jimmy Jam and Terry Lewis
+    - Prince (scene influence)
 spotify_data:
   followers: 861484
   id: 4MT97VeycuegSicrrphisJ
   popularity: 55
-  url: https://open.spotify.com/artist/4MT97VeycuegSicrrphisJ
+  url: 'https://open.spotify.com/artist/4MT97VeycuegSicrrphisJ'
 discography_enriched: true
 top_tracks:
-- Breakin' My Heart (Pretty Brown Eyes) (Meant To Be Mint)
-- U Send Me Swingin' (From The Mint Factory)
-- So Fine (From The Mint Factory)
-- What Kind Of Man Would I Be (Definition Of A Band)
-- Nothing Left to Say (E-Life)
-- Breakin' My Heart (Pretty Brown Eyes)
-- Someone To Love (From The Mint Factory)
-- If You Love Me (Life's Aquarium)
-- Forever In Your Eyes (Meant To Be Mint)
-- Caught My Eye (7...)
+  - Breakin' My Heart (Pretty Brown Eyes) (Meant To Be Mint)
+  - U Send Me Swingin' (From The Mint Factory)
+  - So Fine (From The Mint Factory)
+  - What Kind Of Man Would I Be (Definition Of A Band)
+  - Nothing Left to Say (E-Life)
+  - Breakin' My Heart (Pretty Brown Eyes)
+  - Someone To Love (From The Mint Factory)
+  - If You Love Me (Life's Aquarium)
+  - Forever In Your Eyes (Meant To Be Mint)
+  - Caught My Eye (7...)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a81f7041-7cd7-4080-ba88-9ce5fe50dc19
-  spotify: https://open.spotify.com/artist/4MT97VeycuegSicrrphisJ
-  wikipedia: https://en.wikipedia.org/wiki/Mint_Condition
+  musicbrainz: 'https://musicbrainz.org/artist/a81f7041-7cd7-4080-ba88-9ce5fe50dc19'
+  spotify: 'https://open.spotify.com/artist/4MT97VeycuegSicrrphisJ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mint_Condition'
 image_path: 03_Resources/source_material/ArtistPortraits/mint_condition.jpg
 biography_enhanced_at: '2025-12-10T04:45:38.633291'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Mint_Condition
-- https://www.last.fm/music/Mint+Condition/+wiki
-- https://first-avenue.com/performer/mint-condition/
-- https://www.bet.com/photo-gallery/nb4g6k/the-evolution-of-mint-condition
-- https://www.1015vibe.com/lsp/artist/bio/mint-condition/
+  - 'https://en.wikipedia.org/wiki/Mint_Condition'
+  - 'https://www.last.fm/music/Mint+Condition/+wiki'
+  - 'https://first-avenue.com/performer/mint-condition/'
+  - 'https://www.bet.com/photo-gallery/nb4g6k/the-evolution-of-mint-condition'
+  - 'https://www.1015vibe.com/lsp/artist/bio/mint-condition/'
 network_extracted: true
 entry_created: '2025-12-10T04:45:38.633299'
 last_updated: '2025-12-23T08:16:13.185647'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: fa25e287-cb27-4c6c-ac87-dfa97f24b978
-  name: Jeffrey Allen
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bb94177e-f27a-49ed-a6e1-e2233f6c7dc5
-  name: Ricky Kinchen
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 95ae22a9-66dd-4c85-8130-8a8924415615
-  name: Black Men United
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 30099c08-4b9e-4d3c-8f5f-5e4e53617c5b
-  name: Homer O’Dell
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6cc9ac33-1573-4c3c-bf2a-294f07eb54a8
-  name: Stokley
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4b39586c-5d6a-4b92-8367-834d20823e49
-  name: Lawrence Waddell
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 35bf9ac4-19e3-4402-8520-7ef4ace4deb9
-  name: Keri Lewis
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: fa25e287-cb27-4c6c-ac87-dfa97f24b978
+    name: Jeffrey Allen
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bb94177e-f27a-49ed-a6e1-e2233f6c7dc5
+    name: Ricky Kinchen
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 95ae22a9-66dd-4c85-8130-8a8924415615
+    name: Black Men United
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 30099c08-4b9e-4d3c-8f5f-5e4e53617c5b
+    name: Homer O’Dell
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6cc9ac33-1573-4c3c-bf2a-294f07eb54a8
+    name: Stokley
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4b39586c-5d6a-4b92-8367-834d20823e49
+    name: Lawrence Waddell
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 35bf9ac4-19e3-4402-8520-7ef4ace4deb9
+    name: Keri Lewis
 musicbrainz_id: a81f7041-7cd7-4080-ba88-9ce5fe50dc19
-origin: Minneapolis
+origin: 'Minneapolis, Minnesota, United States'
 tags:
-- contemporary r&b
-- funk
-- jazz
+  - contemporary r&b
+  - funk
+  - jazz
 ---
 
 ![](mint_condition.jpg)

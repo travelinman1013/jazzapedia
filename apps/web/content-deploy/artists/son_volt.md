@@ -1,17 +1,17 @@
 ---
-title: son volt
+title: Son Volt
 wiki_slug: son-volt
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 birth_date: '1994'
 genres:
-- alt country
-- americana
-- roots rock
+  - alt country
+  - americana
+  - roots rock
 instruments:
-- pedal steel guitar
-- drums (drum set)
+  - pedal steel guitar
+  - drums (drum set)
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/son_volt.jpg
   caption: son volt
@@ -32,131 +32,131 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jeff Tweedy
-  - Mike Heidorn
-  - Jim Boquist
-  - Dave Boquist
-  - Laura Cantrell
-  - Ben Gibbard, Jim James, Will Johnson, Anders Parker
+    - Jeff Tweedy
+    - Mike Heidorn
+    - Jim Boquist
+    - Dave Boquist
+    - Laura Cantrell
+    - 'Ben Gibbard, Jim James, Will Johnson, Anders Parker'
   influenced:
-  - State Champion (Ryan Davis)
-  - Wilco
-  - Numerous Americana and alt-country artists
+    - State Champion (Ryan Davis)
+    - Wilco
+    - Numerous Americana and alt-country artists
   mentors:
-  - Woody Guthrie
-  - Neil Young
+    - Woody Guthrie
+    - Neil Young
 spotify_data:
   followers: 94097
   id: 7AhDVqsNA5q46WKsRPXvoe
   popularity: 39
-  url: https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe
+  url: 'https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe'
 discography_enriched: true
 top_tracks:
-- Windfall - 2015 Remaster (Trace (Remastered))
-- Tear Stained Eye - 2015 Remaster (Trace (Remastered))
-- Drown - 2015 Remaster (Trace (Remastered))
-- Back Against the Wall (Notes of Blue)
-- Looking at the World Through a Windshield
-- Down To The Wire (American Central Dust)
-- Mystifies Me (Trace)
-- Back into Your World (Straightaways)
-- Drown (Trace)
-- Live Free - 2015 Remaster (Trace (Remastered))
+  - Windfall - 2015 Remaster (Trace (Remastered))
+  - Tear Stained Eye - 2015 Remaster (Trace (Remastered))
+  - Drown - 2015 Remaster (Trace (Remastered))
+  - Back Against the Wall (Notes of Blue)
+  - Looking at the World Through a Windshield
+  - Down To The Wire (American Central Dust)
+  - Mystifies Me (Trace)
+  - Back into Your World (Straightaways)
+  - Drown (Trace)
+  - Live Free - 2015 Remaster (Trace (Remastered))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ecbd1331-95b6-4a77-b739-b4bd8ef222a7
-  spotify: https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe
-  wikipedia: https://en.wikipedia.org/wiki/Son_Volt
+  musicbrainz: 'https://musicbrainz.org/artist/ecbd1331-95b6-4a77-b739-b4bd8ef222a7'
+  spotify: 'https://open.spotify.com/artist/7AhDVqsNA5q46WKsRPXvoe'
+  wikipedia: 'https://en.wikipedia.org/wiki/Son_Volt'
 image_path: 03_Resources/source_material/ArtistPortraits/son_volt.jpg
 biography_enhanced_at: '2025-11-08T22:05:31.297521'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.aspentimes.com/news/son-volt-past-and-present/
-- https://www.infoplease.com/biographies/art-entertainment/son-volt
-- https://mokbpresents.com/artist/son-volt/
-- https://shopworldrecords.com/son-volt-october-10/
-- https://coloradosound.org/son-volt-essential-americana/
-- https://stevenhyden.substack.com/p/the-quiet-legacy-of-son-volts-trace
+  - 'https://www.aspentimes.com/news/son-volt-past-and-present/'
+  - 'https://www.infoplease.com/biographies/art-entertainment/son-volt'
+  - 'https://mokbpresents.com/artist/son-volt/'
+  - 'https://shopworldrecords.com/son-volt-october-10/'
+  - 'https://coloradosound.org/son-volt-essential-americana/'
+  - 'https://stevenhyden.substack.com/p/the-quiet-legacy-of-son-volts-trace'
 network_extracted: true
 entry_created: '2025-11-08T22:05:31.297539'
 last_updated: '2025-12-23T08:16:15.876236'
 members:
-- &id001
-  begin: '2005'
-  end: ''
-  instruments: []
-  mbid: 712b4446-ebad-4b76-b792-1953dec79d25
-  name: James Walbourne
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: dfd7fa6b-2453-4b84-afeb-1cc671ea9da2
-  name: Dave Boquist
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f176aa23-da2a-4315-bfc2-baf33bb49e4f
-  name: Jim Boquist
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 32151168-adcd-4245-8aba-d8c69a9456a1
-  name: Dave Bryson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8daba9de-0a10-4a9e-958f-4047d0307d8c
-  name: Derrick DeBorja
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2d50057a-5541-4b1a-990d-92d3698e7ba5
-  name: Jay Farrar
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 654210e5-da41-4018-a6ee-e7e03223d599
-  name: Mike Heidorn
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: af914bf7-eb4d-4b71-a7e2-08a310fc69f3
-  name: Eric Heywood
-- begin: ''
-  end: ''
-  instruments:
-  - pedal steel guitar
-  mbid: b44eb713-b58d-48ab-a037-0df7e5a41d9f
-  name: J. Kardong
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 775b6aa2-04bf-4448-92b1-1a13943b1475
-  name: Mark Patterson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4a83a731-4d5a-43b0-9ba4-326e2d088de4
-  name: Mark Thomas Patterson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6097b88b-1e8e-439b-b812-64778cb00afa
-  name: Brad Rice
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ad3f0181-2eba-426b-9f77-f65ad334b648
-  name: Mark Spencer
+  - &ref_0
+    begin: '2005'
+    end: ''
+    instruments: []
+    mbid: 712b4446-ebad-4b76-b792-1953dec79d25
+    name: James Walbourne
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: dfd7fa6b-2453-4b84-afeb-1cc671ea9da2
+    name: Dave Boquist
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f176aa23-da2a-4315-bfc2-baf33bb49e4f
+    name: Jim Boquist
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 32151168-adcd-4245-8aba-d8c69a9456a1
+    name: Dave Bryson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8daba9de-0a10-4a9e-958f-4047d0307d8c
+    name: Derrick DeBorja
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2d50057a-5541-4b1a-990d-92d3698e7ba5
+    name: Jay Farrar
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 654210e5-da41-4018-a6ee-e7e03223d599
+    name: Mike Heidorn
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: af914bf7-eb4d-4b71-a7e2-08a310fc69f3
+    name: Eric Heywood
+  - begin: ''
+    end: ''
+    instruments:
+      - pedal steel guitar
+    mbid: b44eb713-b58d-48ab-a037-0df7e5a41d9f
+    name: J. Kardong
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 775b6aa2-04bf-4448-92b1-1a13943b1475
+    name: Mark Patterson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4a83a731-4d5a-43b0-9ba4-326e2d088de4
+    name: Mark Thomas Patterson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6097b88b-1e8e-439b-b812-64778cb00afa
+    name: Brad Rice
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ad3f0181-2eba-426b-9f77-f65ad334b648
+    name: Mark Spencer
 musicbrainz_id: ecbd1331-95b6-4a77-b739-b4bd8ef222a7
-origin: St. Louis
+origin: 'St. Louis, Missouri, United States'
 original_members:
-- *id001
+  - *ref_0
 tags:
-- alternative country
-- americana
-- country
+  - alternative country
+  - americana
+  - country
 ---
 
 ![](son_volt.jpg)

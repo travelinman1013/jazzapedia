@@ -1,63 +1,63 @@
 ---
-title: clifford brown
+title: Clifford Brown
 wiki_slug: clifford-brown
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1930-10-30'
-birth_place: Wilmington
+birth_place: 'Wilmington, Delaware, United States'
 death_date: '1956-06-26'
 genres:
-- hard bop
-- bebop
-- jazz
-- cool jazz
+  - hard bop
+  - bebop
+  - jazz
+  - cool jazz
 instruments:
-- eponymous
-- original
-- trumpet
-- additional
-- piano
-- spoken vocals
+  - eponymous
+  - original
+  - trumpet
+  - additional
+  - piano
+  - spoken vocals
 associated_acts:
-- begin: '1954-08-11'
-  end: '1954-08-11'
-  instruments:
-  - eponymous
-  - original
-  mbid: 354582b2-73d8-4fdd-856d-f1fe7e116029
-  name: Clifford Brown All Stars
-- begin: ''
-  end: '1956'
-  instruments:
-  - eponymous
-  - trumpet
-  mbid: bc090b7f-3a8c-432e-aecc-c34b4997bcba
-  name: The Clifford Brown–Max Roach Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  - trumpet
-  mbid: bc090b7f-3a8c-432e-aecc-c34b4997bcba
-  name: The Clifford Brown–Max Roach Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - additional
-  - eponymous
-  - trumpet
-  mbid: e6fba4e1-6e3a-4186-9ef7-37175990184d
-  name: Gigi Gryce – Clifford Brown Sextet
-- begin: ''
-  end: ''
-  instruments:
-  - additional
-  - eponymous
-  - trumpet
-  mbid: bc090b7f-3a8c-432e-aecc-c34b4997bcba
-  name: The Clifford Brown–Max Roach Quintet
+  - begin: '1954-08-11'
+    end: '1954-08-11'
+    instruments:
+      - eponymous
+      - original
+    mbid: 354582b2-73d8-4fdd-856d-f1fe7e116029
+    name: Clifford Brown All Stars
+  - begin: ''
+    end: '1956'
+    instruments:
+      - eponymous
+      - trumpet
+    mbid: bc090b7f-3a8c-432e-aecc-c34b4997bcba
+    name: The Clifford Brown–Max Roach Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - trumpet
+    mbid: bc090b7f-3a8c-432e-aecc-c34b4997bcba
+    name: The Clifford Brown–Max Roach Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - additional
+      - eponymous
+      - trumpet
+    mbid: e6fba4e1-6e3a-4186-9ef7-37175990184d
+    name: Gigi Gryce – Clifford Brown Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - additional
+      - eponymous
+      - trumpet
+    mbid: bc090b7f-3a8c-432e-aecc-c34b4997bcba
+    name: The Clifford Brown–Max Roach Quintet
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/clifford_brown.jpg
   caption: clifford brown
@@ -80,49 +80,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Max Roach
-  - Art Blakey
-  - Lionel Hampton
-  - Richie Powell
-  - Harold Land
-  - Sarah Vaughan
+    - Max Roach
+    - Art Blakey
+    - Lionel Hampton
+    - Richie Powell
+    - Harold Land
+    - Sarah Vaughan
   influenced:
-  - Freddie Hubbard
-  - Lee Morgan
-  - Wynton Marsalis
+    - Freddie Hubbard
+    - Lee Morgan
+    - Wynton Marsalis
   mentors:
-  - Fats Navarro
+    - Fats Navarro
 spotify_data:
   followers: 151154
   id: 1HJHwWck1EY096ea2iPAHO
   popularity: 46
-  url: https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO
+  url: 'https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO'
 discography_enriched: true
 top_tracks:
-- Embraceable You (Sarah Vaughan)
-- Joy Spring (Clifford Brown And Max Roach)
-- It's Crazy (Sarah Vaughan)
-- Sandu (Study In Brown)
-- Joy Spring
-- 'Smoke Gets In Your Eyes (Jazz ''Round Midnight: Clifford Brown)'
-- April In Paris (Sarah Vaughan)
-- Easy Living (Memorial Album (Remastered / Rudy Van Gelder Edition))
-- Cherokee (Study In Brown)
-- He's My Guy (Sarah Vaughan)
+  - Embraceable You (Sarah Vaughan)
+  - Joy Spring (Clifford Brown And Max Roach)
+  - It's Crazy (Sarah Vaughan)
+  - Sandu (Study In Brown)
+  - Joy Spring
+  - 'Smoke Gets In Your Eyes (Jazz ''Round Midnight: Clifford Brown)'
+  - April In Paris (Sarah Vaughan)
+  - Easy Living (Memorial Album (Remastered / Rudy Van Gelder Edition))
+  - Cherokee (Study In Brown)
+  - He's My Guy (Sarah Vaughan)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2a291f34-73cb-40c5-b721-eab1269c7ba8
-  spotify: https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO
-  wikipedia: https://en.wikipedia.org/wiki/Clifford_Brown
+  musicbrainz: 'https://musicbrainz.org/artist/2a291f34-73cb-40c5-b721-eab1269c7ba8'
+  spotify: 'https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO'
+  wikipedia: 'https://en.wikipedia.org/wiki/Clifford_Brown'
 image_path: 03_Resources/source_material/ArtistPortraits/clifford_brown.jpg
 biography_enhanced_at: '2025-11-14T11:07:13.333874'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.britannica.com/biography/Clifford-Brown
-- https://archives.delaware.gov/delaware-historical-markers/clifford-brown-legendary-jazz-musician/
-- https://www.philadelphiamusicalliance.org/walk-of-fame/clifford-brown-2/
-- https://www.allaboutjazz.com/musicians/clifford-brown/
-- https://www.bluenote.com/artist/clifford-brown/
+  - 'https://www.britannica.com/biography/Clifford-Brown'
+  - >-
+    https://archives.delaware.gov/delaware-historical-markers/clifford-brown-legendary-jazz-musician/
+  - 'https://www.philadelphiamusicalliance.org/walk-of-fame/clifford-brown-2/'
+  - 'https://www.allaboutjazz.com/musicians/clifford-brown/'
+  - 'https://www.bluenote.com/artist/clifford-brown/'
 network_extracted: true
 entry_created: '2025-11-14T11:07:13.333885'
 last_updated: '2025-12-23T08:16:07.084685'
@@ -130,9 +131,10 @@ disambiguation: trumpet
 gender: Male
 musicbrainz_id: 2a291f34-73cb-40c5-b721-eab1269c7ba8
 tags:
-- bebop
-- hard bop
-- jazz
+  - bebop
+  - hard bop
+  - jazz
+is_active: false
 ---
 
 ![](clifford_brown.jpg)

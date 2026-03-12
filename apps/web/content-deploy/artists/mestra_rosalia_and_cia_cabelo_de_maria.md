@@ -4,9 +4,10 @@ wiki_slug: mestra-rosalia-cia-cabelo-de-maria
 schema_version: 2
 status: active
 genres:
-- latin
+  - latin
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/mestra_rosalia_and_cia_cabelo_de_maria.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/mestra_rosalia_and_cia_cabelo_de_maria.jpg
   caption: Mestra Rosalia & Cia Cabelo de Maria
   background: solo_singer
 audio_profile:
@@ -24,44 +25,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Renata Mattar
-  - Gustavo Finkler
-  - Cia Cabelo de Maria
+    - Renata Mattar
+    - Gustavo Finkler
+    - Cia Cabelo de Maria
   influenced:
-  - Younger folk musicians in Alagoas and Brazil
+    - Younger folk musicians in Alagoas and Brazil
   mentors:
-  - Local elders and traveling folk groups (Guerreiros, Reisados, Baianás)
+    - 'Local elders and traveling folk groups (Guerreiros, Reisados, Baianás)'
 spotify_data:
   followers: 8752244
   id: 7ltDVBr6mKbRvohxheJ9h1
   popularity: 82
-  url: https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1
+  url: 'https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1'
 discography_enriched: true
 top_tracks:
-- BESO
-- New Woman (feat. ROSALÍA)
-- LA NOCHE DE ANOCHE (EL ÚLTIMO TOUR DEL MUNDO)
-- DESPECHÁ (MOTOMAMI +)
-- New Woman (feat. ROSALÍA) (Alter Ego)
-- LA FAMA (MOTOMAMI)
-- DESPECHÁ
-- Antes de Morirme - feat. ROSALÍA
-- Con Altura
-- Besos Moja2 (La Última Misión)
+  - BESO
+  - New Woman (feat. ROSALÍA)
+  - LA NOCHE DE ANOCHE (EL ÚLTIMO TOUR DEL MUNDO)
+  - DESPECHÁ (MOTOMAMI +)
+  - New Woman (feat. ROSALÍA) (Alter Ego)
+  - LA FAMA (MOTOMAMI)
+  - DESPECHÁ
+  - Antes de Morirme - feat. ROSALÍA
+  - Con Altura
+  - Besos Moja2 (La Última Misión)
 external_urls:
-  spotify: https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1
+  spotify: 'https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1'
   wikipedia: null
-image_path: 03_Resources/source_material/ArtistPortraits/mestra_rosalia_and_cia_cabelo_de_maria.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/mestra_rosalia_and_cia_cabelo_de_maria.jpg
 biography_enhanced_at: '2025-11-10T03:39:21.444719'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://raiz.art.br/2025/06/04/mestra-rosalia-e-cia-cabelo-de-maria-a-luz-que-me-alumeia/
-- https://mundofonias.com/wp/?m=202507
+  - >-
+    https://raiz.art.br/2025/06/04/mestra-rosalia-e-cia-cabelo-de-maria-a-luz-que-me-alumeia/
+  - 'https://mundofonias.com/wp/?m=202507'
 network_extracted: true
 entry_created: '2025-11-10T03:39:21.444734'
 last_updated: '2025-12-23T08:16:13.011843'
-origin: Vila Fernandes, Arapiraca, Alagoas, Brazil
+origin: 'Vila Fernandes, Arapiraca, Alagoas, Brazil'
+birth_place: 'Vila Fernandes, Arapiraca, Alagoas, Brazil'
+artist_type: person
 ---
 
 ![](mestra_rosalia_and_cia_cabelo_de_maria.jpg)

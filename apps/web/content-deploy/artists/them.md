@@ -1,24 +1,24 @@
 ---
-title: them
+title: Them
 wiki_slug: them
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: 1964-04
 genres: []
 instruments:
-- lead vocals
-- original
-- drums (drum set)
-- keyboard
-- electric guitar
+  - lead vocals
+  - original
+  - drums (drum set)
+  - keyboard
+  - electric guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/them.jpg
   caption: them
   background: group_or_band
   born: 1964-04
 audio_profile:
-  tempo_avg: 105.0
+  tempo_avg: 105
   energy_avg: 0.29
   valence_avg: 0.314
   danceability_avg: 0.414
@@ -32,115 +32,117 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Van Morrison
-  - Billy Harrison
-  - Alan Henderson
-  - Eric Wrixon
-  - Ronnie Millings
-  - Jimmy Page
-  - Phil Coulter
-  - Terry Noon and Joe Baldi
-  - Kenny McDowell
-  - Ray Ruff
+    - Van Morrison
+    - Billy Harrison
+    - Alan Henderson
+    - Eric Wrixon
+    - Ronnie Millings
+    - Jimmy Page
+    - Phil Coulter
+    - Terry Noon and Joe Baldi
+    - Kenny McDowell
+    - Ray Ruff
   influenced:
-  - Shadows of Knight
-  - The Doors
-  - Later garage rock and punk bands (various)
+    - Shadows of Knight
+    - The Doors
+    - Later garage rock and punk bands (various)
   mentors:
-  - American blues and R&B artists (e.g., Big Joe Williams, Jimmy Reed, John Lee Hooker)
+    - >-
+      American blues and R&B artists (e.g., Big Joe Williams, Jimmy Reed, John
+      Lee Hooker)
 spotify_data:
   followers: 101954
   id: 7FGAlyRveFmDqEaAwqEzIT
   popularity: 60
-  url: https://open.spotify.com/artist/7FGAlyRveFmDqEaAwqEzIT
+  url: 'https://open.spotify.com/artist/7FGAlyRveFmDqEaAwqEzIT'
 discography_enriched: true
 top_tracks:
-- I'm Not Them (A Kiss Dressed His Cheek)
-- bathed in grey (bathed in grey)
-- lover's grip (lover's grip)
-- a tape for what i couldn't say (a tape for what i couldn't say)
-- light blue linen (light blue linen)
-- Blue Catharsis (Blue Catharsis)
-- worship or love (worship or love)
-- I'm Not Them (A Kiss Dressed His Cheek)
-- Anchor (Anchor)
-- I'm Not Them (A Kiss Dressed His Cheek)
+  - I'm Not Them (A Kiss Dressed His Cheek)
+  - bathed in grey (bathed in grey)
+  - lover's grip (lover's grip)
+  - a tape for what i couldn't say (a tape for what i couldn't say)
+  - light blue linen (light blue linen)
+  - Blue Catharsis (Blue Catharsis)
+  - worship or love (worship or love)
+  - I'm Not Them (A Kiss Dressed His Cheek)
+  - Anchor (Anchor)
+  - I'm Not Them (A Kiss Dressed His Cheek)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/dbd8e1e8-b3d5-4c5f-9343-bbe5e86380a6
-  spotify: https://open.spotify.com/artist/7FGAlyRveFmDqEaAwqEzIT
-  wikipedia: https://en.wikipedia.org/wiki/Them_(band)
+  musicbrainz: 'https://musicbrainz.org/artist/dbd8e1e8-b3d5-4c5f-9343-bbe5e86380a6'
+  spotify: 'https://open.spotify.com/artist/7FGAlyRveFmDqEaAwqEzIT'
+  wikipedia: 'https://en.wikipedia.org/wiki/Them_(band)'
 image_path: 03_Resources/source_material/ArtistPortraits/them.jpg
 biography_enhanced_at: '2025-12-06T06:03:19.585225'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Them/+wiki
-- https://www.thebeat.ie/rock-bio-them.php
-- https://themtheband.tripod.com/bandhistory.htm
-- https://www.toppermost.co.uk/them/
-- https://jazzrocksoul.com/artists/them/
-- https://ultimatepopculture.fandom.com/wiki/Them_(band)
-- https://www.britannica.com/topic/Them-Irish-rock-group
+  - 'https://www.last.fm/music/Them/+wiki'
+  - 'https://www.thebeat.ie/rock-bio-them.php'
+  - 'https://themtheband.tripod.com/bandhistory.htm'
+  - 'https://www.toppermost.co.uk/them/'
+  - 'https://jazzrocksoul.com/artists/them/'
+  - 'https://ultimatepopculture.fandom.com/wiki/Them_(band)'
+  - 'https://www.britannica.com/topic/Them-Irish-rock-group'
 network_extracted: true
 entry_created: '2025-12-06T06:03:19.585231'
 last_updated: '2025-12-23T08:16:17.355931'
 disambiguation: Northern Irish group originally feat. Van Morrison
 members:
-- begin: 1964-04
-  end: '1966'
-  instruments:
-  - lead vocals
-  - original
-  mbid: a41ac10f-0a56-4672-9161-b83f9b223559
-  name: Van Morrison
-- begin: '1964'
-  end: '1964'
-  instruments:
-  - drums (drum set)
-  - original
-  mbid: 7e156032-bd52-415b-a0c7-0b0c2b1ebf84
-  name: Ronnie Millings
-- begin: '1964'
-  end: '1965'
-  instruments:
-  - original
-  mbid: 3974d241-08e2-4450-84e4-397f376794d6
-  name: Billy Harrison
-- begin: '1964'
-  end: '1965'
-  instruments:
-  - keyboard
-  - original
-  mbid: 81c6ff7b-8c7c-42f5-8f02-ac8f49187f3e
-  name: Eric Wrixon
-- begin: ''
-  end: ''
-  instruments:
-  - electric guitar
-  mbid: b60fd688-70b9-4f75-afb5-a6b4ddc2841f
-  name: Jim Armstrong
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e815c4d0-4104-45c7-9054-f7e5ef589adf
-  name: Ray Elliott
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 41e8f843-f157-4b05-80cb-966676fb05b1
-  name: Alan Henderson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2017b056-3026-4ff3-a0ef-b0c29e792da8
-  name: Pat McAuley
+  - begin: 1964-04
+    end: '1966'
+    instruments:
+      - lead vocals
+      - original
+    mbid: a41ac10f-0a56-4672-9161-b83f9b223559
+    name: Van Morrison
+  - begin: '1964'
+    end: '1964'
+    instruments:
+      - drums (drum set)
+      - original
+    mbid: 7e156032-bd52-415b-a0c7-0b0c2b1ebf84
+    name: Ronnie Millings
+  - begin: '1964'
+    end: '1965'
+    instruments:
+      - original
+    mbid: 3974d241-08e2-4450-84e4-397f376794d6
+    name: Billy Harrison
+  - begin: '1964'
+    end: '1965'
+    instruments:
+      - keyboard
+      - original
+    mbid: 81c6ff7b-8c7c-42f5-8f02-ac8f49187f3e
+    name: Eric Wrixon
+  - begin: ''
+    end: ''
+    instruments:
+      - electric guitar
+    mbid: b60fd688-70b9-4f75-afb5-a6b4ddc2841f
+    name: Jim Armstrong
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e815c4d0-4104-45c7-9054-f7e5ef589adf
+    name: Ray Elliott
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 41e8f843-f157-4b05-80cb-966676fb05b1
+    name: Alan Henderson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2017b056-3026-4ff3-a0ef-b0c29e792da8
+    name: Pat McAuley
 musicbrainz_id: dbd8e1e8-b3d5-4c5f-9343-bbe5e86380a6
-origin: Belfast
+origin: 'Belfast, Northern Ireland, United Kingdom'
 tags:
-- blues
-- blues rock
-- british blues
+  - blues
+  - blues rock
+  - british blues
 ---
 
 ![](them.jpg)

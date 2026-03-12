@@ -1,45 +1,49 @@
 ---
 biography_enhanced_at: '2025-12-28T01:55:45.242503'
-birth_place: Rio de Janeiro, Rio de Janeiro, Brazil
+birth_place: 'Rio de Janeiro, Rio de Janeiro, Brazil'
 enhancement_provider: perplexity
 entry_created: '2025-12-28T01:55:45.242515'
 external_urls:
-  spotify: https://open.spotify.com/artist/2bmDvPwz8Fu9LQ8aMTFvMr
-  wikipedia: https://en.wikipedia.org/wiki/Paulinho_da_Viola
+  spotify: 'https://open.spotify.com/artist/2bmDvPwz8Fu9LQ8aMTFvMr'
+  wikipedia: 'https://en.wikipedia.org/wiki/Paulinho_da_Viola'
 genres:
-- samba
-image_path: 03_Resources/source_material/ArtistPortraits/paulinho_da_viola_ze_keti_elton_medeiros_nelson_sargento.jpg
+  - samba
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/paulinho_da_viola_ze_keti_elton_medeiros_nelson_sargento.jpg
 last_updated: '2025-12-28T01:55:45.242517'
 musical_connections:
   collaborators:
-  - Zé Keti
-  - Elton Medeiros
-  - Velha Guarda da Portela
-  - Cartola
-  - Portela Samba School
+    - Zé Keti
+    - Elton Medeiros
+    - Velha Guarda da Portela
+    - Cartola
+    - Portela Samba School
   influenced:
-  - Younger traditional samba and choro revivalists (collective)
+    - Younger traditional samba and choro revivalists (collective)
   mentors:
-  - César Faria
-  - Pixinguinha
-  - Jacob do Bandolim
-  - Hermínio Bello de Carvalho
+    - César Faria
+    - Pixinguinha
+    - Jacob do Bandolim
+    - Hermínio Bello de Carvalho
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Paulinho+da+Viola/+wiki
-- https://www.alphavillejournal.com/Issue19/HTML/AbstractInterviewPaulinho.html
-- https://www.slipcue.com/music/brazil/daviola.html
-- https://www.womex.com/virtual/montenegro_e_raman_e/paulinho_da_viola
-- https://www.matrixonline.net/profile/paulinhodaviola
-- https://www.jazzmusicarchives.com/artist/paulinho-da-viola
+  - 'https://www.last.fm/music/Paulinho+da+Viola/+wiki'
+  - >-
+    https://www.alphavillejournal.com/Issue19/HTML/AbstractInterviewPaulinho.html
+  - 'https://www.slipcue.com/music/brazil/daviola.html'
+  - 'https://www.womex.com/virtual/montenegro_e_raman_e/paulinho_da_viola'
+  - 'https://www.matrixonline.net/profile/paulinhodaviola'
+  - 'https://www.jazzmusicarchives.com/artist/paulinho-da-viola'
 spotify_data:
   followers: 55631
   id: 2bmDvPwz8Fu9LQ8aMTFvMr
   popularity: 35
-  url: https://open.spotify.com/artist/2bmDvPwz8Fu9LQ8aMTFvMr
+  url: 'https://open.spotify.com/artist/2bmDvPwz8Fu9LQ8aMTFvMr'
 status: active
-title: Paulinho da Viola, Ze Keti, Elton Medeiros, Nelson Sargento
+title: 'Paulinho da Viola, Ze Keti, Elton Medeiros, Nelson Sargento'
+birth_date: '1942-11-12'
+artist_type: band
 ---
 
 ![](paulinho_da_viola_ze_keti_elton_medeiros_nelson_sargento.jpg)

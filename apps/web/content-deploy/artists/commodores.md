@@ -1,100 +1,100 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2025-12-28T02:02:28.557943'
 birth_date: '1968'
 disambiguation: US funk/soul band with Lionel Richie
 enhancement_provider: perplexity
 entry_created: '2025-12-28T02:02:28.557951'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/900ab237-327b-44e2-87e4-73250bbe025a
-  spotify: https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm
-  wikipedia: https://en.wikipedia.org/wiki/Commodores
+  musicbrainz: 'https://musicbrainz.org/artist/900ab237-327b-44e2-87e4-73250bbe025a'
+  spotify: 'https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm'
+  wikipedia: 'https://en.wikipedia.org/wiki/Commodores'
 genres:
-- motown
+  - motown
 image_path: 03_Resources/source_material/ArtistPortraits/commodores.jpg
 last_updated: '2025-12-28T02:02:28.557953'
 members:
-- begin: '1968'
-  end: 1982-10
-  instruments: []
-  mbid: 3cb25fb2-5547-4b05-adec-1a5e37830d46
-  name: Lionel Richie
-- begin: '1968'
-  end: '1982'
-  instruments: []
-  mbid: 0d341f39-a9c4-44b6-9373-216674b37f74
-  name: Thomas McClary
-- begin: '1968'
-  end: '1986'
-  instruments: []
-  mbid: 2ee53a9b-97aa-469e-886b-91a2fa2f82fc
-  name: Ronald LaPread
-- begin: '1968'
-  end: '1989'
-  instruments: []
-  mbid: 93f1b0a5-c9e1-4418-9bc4-ce12f341f01a
-  name: Milan Williams
-- &id001
-  begin: '1968'
-  end: ''
-  instruments: []
-  mbid: 4ccb9311-6944-4c29-a157-6c519488292b
-  name: William King
-- &id002
-  begin: '1968'
-  end: ''
-  instruments: []
-  mbid: 2c74067b-1c5a-496d-b3a5-9d914b70a8c7
-  name: Walter Orange
-- begin: '1983'
-  end: '1987'
-  instruments: []
-  mbid: cc20d2e6-20d8-443c-9cb5-f320ce3b0fca
-  name: Sheldon Reynolds
-- &id003
-  begin: '1984'
-  end: ''
-  instruments: []
-  mbid: b5860314-abf6-4455-9c20-aa85df789a70
-  name: J.D. Nicholas
+  - begin: '1968'
+    end: 1982-10
+    instruments: []
+    mbid: 3cb25fb2-5547-4b05-adec-1a5e37830d46
+    name: Lionel Richie
+  - begin: '1968'
+    end: '1982'
+    instruments: []
+    mbid: 0d341f39-a9c4-44b6-9373-216674b37f74
+    name: Thomas McClary
+  - begin: '1968'
+    end: '1986'
+    instruments: []
+    mbid: 2ee53a9b-97aa-469e-886b-91a2fa2f82fc
+    name: Ronald LaPread
+  - begin: '1968'
+    end: '1989'
+    instruments: []
+    mbid: 93f1b0a5-c9e1-4418-9bc4-ce12f341f01a
+    name: Milan Williams
+  - &ref_0
+    begin: '1968'
+    end: ''
+    instruments: []
+    mbid: 4ccb9311-6944-4c29-a157-6c519488292b
+    name: William King
+  - &ref_1
+    begin: '1968'
+    end: ''
+    instruments: []
+    mbid: 2c74067b-1c5a-496d-b3a5-9d914b70a8c7
+    name: Walter Orange
+  - begin: '1983'
+    end: '1987'
+    instruments: []
+    mbid: cc20d2e6-20d8-443c-9cb5-f320ce3b0fca
+    name: Sheldon Reynolds
+  - &ref_2
+    begin: '1984'
+    end: ''
+    instruments: []
+    mbid: b5860314-abf6-4455-9c20-aa85df789a70
+    name: J.D. Nicholas
 musical_connections:
   collaborators:
-  - Lionel Richie
-  - Walter Orange
-  - William King
-  - Thomas McClary
-  - James Dean 'J.D.' Nicholas
-  - Jackson 5
+    - Lionel Richie
+    - Walter Orange
+    - William King
+    - Thomas McClary
+    - James Dean 'J.D.' Nicholas
+    - Jackson 5
   influenced:
-  - Sheldon Reynolds
+    - Sheldon Reynolds
   mentors:
-  - Suzanne dePasse
+    - Suzanne dePasse
 musicbrainz_id: 900ab237-327b-44e2-87e4-73250bbe025a
 network_extracted: true
-origin: Tuskegee
+origin: 'Tuskegee, Alabama, United States'
 original_members:
-- *id001
-- *id002
-- *id003
+  - *ref_0
+  - *ref_1
+  - *ref_2
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Commodores
-- https://encyclopediaofalabama.org/article/the-commodores/
-- https://www.last.fm/music/Commodores/+wiki
-- https://www.alamhof.org/commodore
-- https://www.boothamphitheatre.com/assets/doc/The-Commodores-Bio-71ef900544.pdf
+  - 'https://en.wikipedia.org/wiki/Commodores'
+  - 'https://encyclopediaofalabama.org/article/the-commodores/'
+  - 'https://www.last.fm/music/Commodores/+wiki'
+  - 'https://www.alamhof.org/commodore'
+  - >-
+    https://www.boothamphitheatre.com/assets/doc/The-Commodores-Bio-71ef900544.pdf
 spotify_data:
   followers: 2156281
   id: 6twIAGnYuIT1pncMAsXnEm
   popularity: 66
-  url: https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm
+  url: 'https://open.spotify.com/artist/6twIAGnYuIT1pncMAsXnEm'
 status: active
 tags:
-- adult contemporary
-- disco
-- funk
-title: Commodores
-
+  - adult contemporary
+  - disco
+  - funk
+title: The Commodores
 ---
 
 ![](commodores.jpg)

@@ -3,14 +3,14 @@ title: Method Man/ D'Angelo
 wiki_slug: method-man-dangelo
 schema_version: 2
 status: active
-birth_place: Richmond, Virginia, United States
+birth_place: 'Richmond, Virginia, United States'
 genres:
-- neo soul
+  - neo soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/method_man_dangelo.jpg
   caption: Method Man/ D'Angelo
   background: solo_singer
-  origin: Richmond, Virginia, United States
+  origin: 'Richmond, Virginia, United States'
 audio_profile:
   tempo_avg: 92.4
   energy_avg: 0.476
@@ -26,50 +26,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Angie Stone
-  - Lauryn Hill
-  - Method Man
-  - Redman
-  - Raphael Saadiq
-  - Ali Shaheed Muhammad
+    - Angie Stone
+    - Lauryn Hill
+    - Method Man
+    - Redman
+    - Raphael Saadiq
+    - Ali Shaheed Muhammad
   influenced:
-  - Maxwell
-  - Jill Scott
-  - Erykah Badu
+    - Maxwell
+    - Jill Scott
+    - Erykah Badu
   mentors:
-  - Prince
-  - Ali Shaheed Muhammad
+    - Prince
+    - Ali Shaheed Muhammad
 spotify_data:
   followers: 1431613
   id: 336vr2M3Va0FjyvB55lJEd
   popularity: 68
-  url: https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd
+  url: 'https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd'
 discography_enriched: true
 top_tracks:
-- Nothing Even Matters (feat. D'Angelo) (The Miseducation of Lauryn Hill)
-- Lady (Brown Sugar)
-- Brown Sugar (Brown Sugar)
-- Untitled (How Does It Feel) (Voodoo)
-- Unshaken
-- Send It On (Voodoo)
-- Cruisin' (Brown Sugar)
-- Really Love (Black Messiah)
-- Spanish Joint (Voodoo)
-- Feel Like Makin' Love (Voodoo)
+  - Nothing Even Matters (feat. D'Angelo) (The Miseducation of Lauryn Hill)
+  - Lady (Brown Sugar)
+  - Brown Sugar (Brown Sugar)
+  - Untitled (How Does It Feel) (Voodoo)
+  - Unshaken
+  - Send It On (Voodoo)
+  - Cruisin' (Brown Sugar)
+  - Really Love (Black Messiah)
+  - Spanish Joint (Voodoo)
+  - Feel Like Makin' Love (Voodoo)
 external_urls:
-  spotify: https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd
-  wikipedia: https://en.wikipedia.org/wiki/D'Angelo
+  spotify: 'https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd'
+  wikipedia: 'https://en.wikipedia.org/wiki/D''Angelo'
 image_path: 03_Resources/source_material/ArtistPortraits/method_man_dangelo.jpg
 biography_enhanced_at: '2025-11-04T11:14:20.549665'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/D'Angelo
-- https://theksusentinel.com/2025/10/31/the-life-and-legacy-of-dangelo/
-- https://www.angelfire.com/ky2/DangelosVoudou/D_Biographies.html
+  - 'https://en.wikipedia.org/wiki/D''Angelo'
+  - 'https://theksusentinel.com/2025/10/31/the-life-and-legacy-of-dangelo/'
+  - 'https://www.angelfire.com/ky2/DangelosVoudou/D_Biographies.html'
 network_extracted: true
 entry_created: '2025-11-04T11:14:20.549676'
 last_updated: '2025-12-23T08:16:13.022075'
+birth_date: '1974-02-11'
+artist_type: person
 ---
 
 ![](method_man_dangelo.jpg)

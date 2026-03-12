@@ -4,11 +4,11 @@ wiki_slug: stan-getz-charlie-byrd
 schema_version: 2
 status: active
 genres:
-- bossa nova
-- brazilian jazz
-- latin jazz
-- jazz
-- cool jazz
+  - bossa nova
+  - brazilian jazz
+  - latin jazz
+  - jazz
+  - cool jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/stan_getz_charlie_byrd.jpg
   caption: Stan Getz Charlie Byrd
@@ -28,54 +28,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Stan Getz
-  - Keter Betts
-  - Bill Reichenbach
-  - João Gilberto
-  - Antonio Carlos Jobim
+    - Stan Getz
+    - Keter Betts
+    - Bill Reichenbach
+    - João Gilberto
+    - Antonio Carlos Jobim
   influenced:
-  - Astrud Gilberto
-  - Berklee School of Music students
-  - American jazz guitarists
+    - Astrud Gilberto
+    - Berklee School of Music students
+    - American jazz guitarists
   mentors:
-  - Andrés Segovia
-  - Sophocles Papas
-  - Django Reinhardt
+    - Andrés Segovia
+    - Sophocles Papas
+    - Django Reinhardt
 spotify_data:
   followers: 32842
   id: 0i5yrKtlP4URcRBXQQwnik
   popularity: 45
-  url: https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik
+  url: 'https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik'
 discography_enriched: true
 top_tracks:
-- Desafinado (Jazz Samba)
-- O Pato (Jazz Samba)
-- Samba De Uma Nota So (Jazz Samba)
-- Samba Triste (Jazz Samba)
-- E Luxo So (Jazz Samba)
-- Samba Dees Days (Jazz Samba)
-- Bahia (Jazz Samba)
-- The Girl from Ipanema (Brazilian Byrd)
-- Meditacao (Bossa Nova Pelos Passaros)
-- O Pato (A Nightingale Sang in Berkeley Square)
+  - Desafinado (Jazz Samba)
+  - O Pato (Jazz Samba)
+  - Samba De Uma Nota So (Jazz Samba)
+  - Samba Triste (Jazz Samba)
+  - E Luxo So (Jazz Samba)
+  - Samba Dees Days (Jazz Samba)
+  - Bahia (Jazz Samba)
+  - The Girl from Ipanema (Brazilian Byrd)
+  - Meditacao (Bossa Nova Pelos Passaros)
+  - O Pato (A Nightingale Sang in Berkeley Square)
 external_urls:
-  spotify: https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik
-  wikipedia: https://en.wikipedia.org/wiki/Charlie_Byrd
+  spotify: 'https://open.spotify.com/artist/0i5yrKtlP4URcRBXQQwnik'
+  wikipedia: 'https://en.wikipedia.org/wiki/Charlie_Byrd'
 image_path: 03_Resources/source_material/ArtistPortraits/stan_getz_charlie_byrd.jpg
 biography_enhanced_at: '2025-11-08T22:01:34.573357'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Charlie_Byrd
-- https://www.ebsco.com/research-starters/history/stan-getz
-- https://jazzprofiles.blogspot.com/2023/10/jazz-sambastan-getzcharlie-byrd-some.html
-- https://jazztimes.com/features/profiles/stan-getz-and-charlie-byrd-give-the-drummer-some/
-- https://latinjazznet.com/reviews/albums/essentials/stan-getz-charlie-byrd-jazz-samba/
-- https://www.everythingjazz.com/story/jazz-samba-a-masterpiece-recorded-in-three-hours/
+  - 'https://en.wikipedia.org/wiki/Charlie_Byrd'
+  - 'https://www.ebsco.com/research-starters/history/stan-getz'
+  - >-
+    https://jazzprofiles.blogspot.com/2023/10/jazz-sambastan-getzcharlie-byrd-some.html
+  - >-
+    https://jazztimes.com/features/profiles/stan-getz-and-charlie-byrd-give-the-drummer-some/
+  - >-
+    https://latinjazznet.com/reviews/albums/essentials/stan-getz-charlie-byrd-jazz-samba/
+  - >-
+    https://www.everythingjazz.com/story/jazz-samba-a-masterpiece-recorded-in-three-hours/
 network_extracted: true
 entry_created: '2025-11-08T22:01:34.573373'
 last_updated: '2025-12-23T08:16:16.022992'
-origin: Suffolk, Virginia, United States (Charlie Byrd); Philadelphia, Pennsylvania, United States (Stan Getz)
+origin: >-
+  Suffolk, Virginia, United States (Charlie Byrd); Philadelphia, Pennsylvania,
+  United States (Stan Getz)
+birth_place: 'Philadelphia, Pennsylvania, United States'
+birth_date: '1927'
+artist_type: person
 ---
 
 ![](stan_getz_charlie_byrd.jpg)

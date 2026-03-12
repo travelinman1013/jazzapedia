@@ -1,50 +1,51 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-06T02:13:12.841078'
 birth_date: '2011'
 enhancement_provider: perplexity
 entry_created: '2026-01-06T02:13:12.841083'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8fc9137a-742f-42bd-988f-1794673c28ea
-  spotify: https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7
+  musicbrainz: 'https://musicbrainz.org/artist/8fc9137a-742f-42bd-988f-1794673c28ea'
+  spotify: 'https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7'
   wikipedia: ''
 genres:
-- alternative r&b
+  - alternative r&b
 image_path: 03_Resources/source_material/ArtistPortraits/tank_and_the_bangas.jpg
 last_updated: '2026-01-06T02:13:12.841084'
 musical_connections:
   collaborators:
-  - Joshua Johnson
-  - Norman Spence
-  - Albert Allenback
-  - Iman Omari
-  - Robert Glasper
+    - Joshua Johnson
+    - Norman Spence
+    - Albert Allenback
+    - Iman Omari
+    - Robert Glasper
   influenced: []
   mentors:
-  - Family pastors
-  - Sister and New Orleans slam poetry team
+    - Family pastors
+    - Sister and New Orleans slam poetry team
 musicbrainz_id: 8fc9137a-742f-42bd-988f-1794673c28ea
 network_extracted: true
-origin: New Orleans
+origin: 'New Orleans, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://www.myneworleans.com/tank-and-the-bangas/
-- https://www.berklee.edu/news/berklee-now/scene-berklee-tank-and-bangas
-- https://www.highroadtouring.com/artists/tank-and-the-bangas/
-- https://www.musicconnection.com/tarriona-ball-tank-bangas/
-- https://jazzaspensnowmass.org/get-to-know-tank-the-bangas/
-- https://relix.com/articles/detail/tank-and-the-bangas-there-goes-the-neighborhood/
-- https://www.wbur.org/news/2017/09/11/tank-and-the-bangas
+  - 'https://www.myneworleans.com/tank-and-the-bangas/'
+  - 'https://www.berklee.edu/news/berklee-now/scene-berklee-tank-and-bangas'
+  - 'https://www.highroadtouring.com/artists/tank-and-the-bangas/'
+  - 'https://www.musicconnection.com/tarriona-ball-tank-bangas/'
+  - 'https://jazzaspensnowmass.org/get-to-know-tank-the-bangas/'
+  - >-
+    https://relix.com/articles/detail/tank-and-the-bangas-there-goes-the-neighborhood/
+  - 'https://www.wbur.org/news/2017/09/11/tank-and-the-bangas'
 spotify_data:
   followers: 261842
   id: 5cAtakaadWHJLxmGKrKcX7
   popularity: 39
-  url: https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7
+  url: 'https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7'
 status: active
 tags:
-- contemporary r&b
-- hip hop
-- jazz
+  - contemporary r&b
+  - hip hop
+  - jazz
 title: Tank And The Bangas
 ---
 

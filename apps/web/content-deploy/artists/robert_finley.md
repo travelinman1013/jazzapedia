@@ -1,18 +1,18 @@
 ---
-title: robert finley
+title: Robert Finley
 wiki_slug: robert-finley
 schema_version: 2
 status: active
-birth_place: Bernice, Louisiana, United States
+birth_place: 'Bernice, Louisiana, United States'
 genres:
-- blues
-- soul blues
-- modern blues
+  - blues
+  - soul blues
+  - modern blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/robert_finley.jpg
   caption: robert finley
   background: solo_singer
-  origin: Bernice, Louisiana, United States
+  origin: 'Bernice, Louisiana, United States'
 audio_profile:
   tempo_avg: 122.3
   energy_avg: 0.705
@@ -28,48 +28,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dan Auerbach
-  - The Bo-Keys
-  - Bruce Watson
-  - Jimbo Mathus
+    - Dan Auerbach
+    - The Bo-Keys
+    - Bruce Watson
+    - Jimbo Mathus
   influenced:
-  - Emerging blues and soul artists
+    - Emerging blues and soul artists
   mentors:
-  - Gospel quartet groups
+    - Gospel quartet groups
 spotify_data:
   followers: 99591
   id: 29mRqqZ15WaYjEsKNzcRkv
   popularity: 41
-  url: https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv
+  url: 'https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv'
 discography_enriched: true
 top_tracks:
-- Souled Out On You (Sharecropper's Son)
-- Medicine Woman (Goin' Platinum!)
-- Country Boy (Sharecropper's Son)
-- Sharecropper’s Son (Sharecropper's Son)
-- Make Me Feel Alright (Sharecropper's Son)
-- Country Child (Sharecropper's Son)
-- Waste Of Time (Black Bayou)
-- Nobody Wants To Be Lonely (Black Bayou)
-- Starting To See (Sharecropper's Son)
-- You Got It (And I Need It) (Black Bayou)
+  - Souled Out On You (Sharecropper's Son)
+  - Medicine Woman (Goin' Platinum!)
+  - Country Boy (Sharecropper's Son)
+  - Sharecropper’s Son (Sharecropper's Son)
+  - Make Me Feel Alright (Sharecropper's Son)
+  - Country Child (Sharecropper's Son)
+  - Waste Of Time (Black Bayou)
+  - Nobody Wants To Be Lonely (Black Bayou)
+  - Starting To See (Sharecropper's Son)
+  - You Got It (And I Need It) (Black Bayou)
 external_urls:
-  spotify: https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv
-  wikipedia: https://en.wikipedia.org/wiki/Robert_Finley_(musician)
+  spotify: 'https://open.spotify.com/artist/29mRqqZ15WaYjEsKNzcRkv'
+  wikipedia: 'https://en.wikipedia.org/wiki/Robert_Finley_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/robert_finley.jpg
 biography_enhanced_at: '2025-10-20T10:20:27.514478'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.bighassle.com/robert-finley
-- https://en.wikipedia.org/wiki/Robert_Finley_(musician)
-- https://bandonthewall.org/2018/11/the-fascinating-story-of-louisiana-blues-artist-robert-finley/
-- https://www.musicmaker.org/artist/robert-finley/
-- https://robertfinleyofficial.com
+  - 'https://www.bighassle.com/robert-finley'
+  - 'https://en.wikipedia.org/wiki/Robert_Finley_(musician)'
+  - >-
+    https://bandonthewall.org/2018/11/the-fascinating-story-of-louisiana-blues-artist-robert-finley/
+  - 'https://www.musicmaker.org/artist/robert-finley/'
+  - 'https://robertfinleyofficial.com'
 network_extracted: true
 entry_created: '2025-10-20T10:20:27.514498'
 last_updated: '2025-12-23T08:16:14.888685'
-
+birth_date: '1954-02-13'
+artist_type: person
 ---
 
 ![](robert_finley.jpg)

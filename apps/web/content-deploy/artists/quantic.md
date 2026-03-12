@@ -1,76 +1,75 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9523e9a3-b526-4646-ab2e-096218f8cfcd
-  name: Capstone
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4b2c889c-b4ef-45df-b4f0-59bb1b6e2a41
-  name: The Quantic Soul Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: d609e1fa-6c5a-4c51-8372-20c1341d47e9
-  name: Quantic and his Combo Bárbaro
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9523e9a3-b526-4646-ab2e-096218f8cfcd
+    name: Capstone
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4b2c889c-b4ef-45df-b4f0-59bb1b6e2a41
+    name: The Quantic Soul Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: d609e1fa-6c5a-4c51-8372-20c1341d47e9
+    name: Quantic and his Combo Bárbaro
 biography_enhanced_at: '2025-12-31T01:46:15.400496'
-birth_place: Bewdley
+birth_place: 'Bewdley, Worcestershire, England'
 disambiguation: William Holland
 enhancement_provider: perplexity
 entry_created: '2025-12-31T01:46:15.400501'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f1560407-8826-4ec9-b78f-e0c3fa3ea4f5
-  spotify: https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8
+  musicbrainz: 'https://musicbrainz.org/artist/f1560407-8826-4ec9-b78f-e0c3fa3ea4f5'
+  spotify: 'https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8'
   wikipedia: ''
 gender: Male
 genres:
-- nu jazz
-- trip hop
-- downtempo
-- acid jazz
-- latin alternative
+  - nu jazz
+  - trip hop
+  - downtempo
+  - acid jazz
+  - latin alternative
 image_path: 03_Resources/source_material/ArtistPortraits/quantic.jpg
 instruments:
-- original
-- guitar
+  - original
+  - guitar
 last_updated: '2025-12-31T01:46:15.400502'
 musical_connections:
   collaborators:
-  - Alice Russell
-  - Spanky Wilson
-  - Alfredo Linares
-  - Nidia Gongora
-  - Mario Galeano
-  - Nickodemus
+    - Alice Russell
+    - Spanky Wilson
+    - Alfredo Linares
+    - Nidia Gongora
+    - Mario Galeano
+    - Nickodemus
   influenced: []
   mentors: []
 musicbrainz_id: f1560407-8826-4ec9-b78f-e0c3fa3ea4f5
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Quantic/+wiki
-- https://www.womex.com/virtual/ark_agency/quantic
-- https://www.afropop.org/articles/quantic
-- https://wonderwheelrecordings.com/artist/quantic/
-- https://tru-thoughts.co.uk/artists/quantic/
-- https://color-red.com/collections/quantic
-- https://k7.com/dj-kicks-quantic/
+  - 'https://www.last.fm/music/Quantic/+wiki'
+  - 'https://www.womex.com/virtual/ark_agency/quantic'
+  - 'https://www.afropop.org/articles/quantic'
+  - 'https://wonderwheelrecordings.com/artist/quantic/'
+  - 'https://tru-thoughts.co.uk/artists/quantic/'
+  - 'https://color-red.com/collections/quantic'
+  - 'https://k7.com/dj-kicks-quantic/'
 spotify_data:
   followers: 394630
   id: 5ZMwoAjeDtLJ0XRwRTgaK8
   popularity: 60
-  url: https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8
+  url: 'https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8'
 status: active
 tags:
-- bossa nova
-- contemporary jazz
-- cumbia
+  - bossa nova
+  - contemporary jazz
+  - cumbia
 title: Quantic
-
 ---
 
 ![](quantic.jpg)

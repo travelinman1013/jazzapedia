@@ -5,26 +5,28 @@ schema_version: 2
 status: deceased
 aliases: []
 birth_date: '1962-10-31'
-birth_place: 'Romero Lubambo: Rio de Janeiro, Brazil; Raphael Rabello: Petrópolis, Rio de Janeiro, Brazil'
+birth_place: 'Petrópolis, Rio de Janeiro, Brazil'
 death_date: '1995-04-27'
 years_active: 1974–1995
 genres:
-- brazilian jazz
-- bossa nova
+  - brazilian jazz
+  - bossa nova
 instruments:
-- guitar
+  - guitar
 occupation:
-- composer
-- guitarist
+  - composer
+  - guitarist
 record_labels:
-- PolyGram
-- RCA Records
+  - PolyGram
+  - RCA Records
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Romero_Lubambo.jpg
   caption: Romero Lubambo
   background: non_vocal_instrumentalist
   born: '1962-10-31'
-  origin: 'Romero Lubambo: Rio de Janeiro, Brazil; Raphael Rabello: Petrópolis, Rio de Janeiro, Brazil'
+  origin: >-
+    Romero Lubambo: Rio de Janeiro, Brazil; Raphael Rabello: Petrópolis, Rio de
+    Janeiro, Brazil
   died: '1995-04-27'
 audio_profile:
   tempo_avg: 113.9
@@ -41,62 +43,66 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Duduka da Fonseca
-  - Nilson Matta
-  - Dianne Reeves
-  - Elizeth Cardoso
-  - Tom Jobim
-  - Paco de Lucía
-  - Paulo Moura
-  - Radamés Gnattali
+    - Duduka da Fonseca
+    - Nilson Matta
+    - Dianne Reeves
+    - Elizeth Cardoso
+    - Tom Jobim
+    - Paco de Lucía
+    - Paulo Moura
+    - Radamés Gnattali
   influenced:
-  - Marco Pereira
-  - Paulo Bellinati
-  - Guinga
-  - Romero Lubambo
+    - Marco Pereira
+    - Paulo Bellinati
+    - Guinga
+    - Romero Lubambo
   mentors:
-  - Dino 7 Cordas
-  - Jaime Florence (Meira)
-  - Maria Alice Salles
-  - Herbie Mann
+    - Dino 7 Cordas
+    - Jaime Florence (Meira)
+    - Maria Alice Salles
+    - Herbie Mann
 related_artists: []
 spotify_data:
   followers: 6270
   id: 2tfVfgslNHoisjzLLgnRIV
   popularity: 30
-  url: https://open.spotify.com/artist/2tfVfgslNHoisjzLLgnRIV
+  url: 'https://open.spotify.com/artist/2tfVfgslNHoisjzLLgnRIV'
   verified: false
 discography_enriched: true
 albums_count: 20
 singles_count: 4
 top_tracks:
-- Terra do Nunca (Quase Memória)
-- Folhas Secas (Autonomia)
-- De Conversa em Conversa (Autonomia)
-- Doce de coco (Appassionato)
-- De Frente pro Crime (Autonomia)
-- Influência do Jazz (Lua do Arpoador)
-- My Favorite Things (Songs of Joy & Peace)
-- Daily Rose
-- Brasileirinho
-- Complicity (Encyclopedia of Arto)
+  - Terra do Nunca (Quase Memória)
+  - Folhas Secas (Autonomia)
+  - De Conversa em Conversa (Autonomia)
+  - Doce de coco (Appassionato)
+  - De Frente pro Crime (Autonomia)
+  - Influência do Jazz (Lua do Arpoador)
+  - My Favorite Things (Songs of Joy & Peace)
+  - Daily Rose
+  - Brasileirinho
+  - Complicity (Encyclopedia of Arto)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/2tfVfgslNHoisjzLLgnRIV
-  wikipedia: https://en.wikipedia.org/wiki/Romero_Lubambo, https://en.wikipedia.org/wiki/Raphael_Rabello
+  spotify: 'https://open.spotify.com/artist/2tfVfgslNHoisjzLLgnRIV'
+  wikipedia: >-
+    https://en.wikipedia.org/wiki/Romero_Lubambo,
+    https://en.wikipedia.org/wiki/Raphael_Rabello
 image_path: 03_Resources/source_material/ArtistPortraits/Romero_Lubambo.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:16:02.427739'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://musicabrasileira.org/raphael-rabello-cry-my-guitar/
-- https://en.wikipedia.org/wiki/Romero_Lubambo
-- https://en.wikipedia.org/wiki/Raphael_Rabello
+  - 'https://musicabrasileira.org/raphael-rabello-cry-my-guitar/'
+  - 'https://en.wikipedia.org/wiki/Romero_Lubambo'
+  - 'https://en.wikipedia.org/wiki/Raphael_Rabello'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 15:22:13.446248
+entry_created: 2025-09-18T15:22:13.446Z
 last_updated: '2025-12-23T08:16:03.741231'
+is_active: false
+artist_type: person
 ---
 
 ![](Romero_Lubambo.jpg)

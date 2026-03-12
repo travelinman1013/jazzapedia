@@ -1,13 +1,13 @@
 ---
-title: JOHNNY RAY DANIELS
+title: Johnny Ray Daniels
 wiki_slug: johnny-ray-daniels
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1946'
-birth_place: Greenville
+birth_place: 'Greenville, North Carolina, United States'
 genres:
-- christian country
+  - christian country
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/johnny_ray_daniels.jpg
   caption: JOHNNY RAY DANIELS
@@ -20,7 +20,7 @@ audio_profile:
   valence_avg: 0.612
   danceability_avg: 0.463
   acousticness_avg: 0.594
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -7.9
   speechiness_avg: 0.092
   liveness_avg: 0.316
@@ -29,48 +29,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Soul Twisters
-  - Dorothy Vines (wife)
-  - Glorifying Vines Sisters
-  - Bruce Watson
+    - Soul Twisters
+    - Dorothy Vines (wife)
+    - Glorifying Vines Sisters
+    - Bruce Watson
   influenced: []
   mentors:
-  - His Father
-  - His Brothers
+    - His Father
+    - His Brothers
 spotify_data:
   followers: 98
   id: 0Vvkl96NZnztGH2mwyJ4mi
   popularity: 0
-  url: https://open.spotify.com/artist/0Vvkl96NZnztGH2mwyJ4mi
+  url: 'https://open.spotify.com/artist/0Vvkl96NZnztGH2mwyJ4mi'
 discography_enriched: true
 top_tracks:
-- 'Glory, Glory (Song Keepers: A Music Maker Foundation Anthology)'
-- 'Somewhere to Lay My Head (Song Keepers: A Music Maker Foundation Anthology)'
-- Somewhere to Lay My Head (Hanging Tree Guitars)
-- Somewhere to Lay My Head (Sacred Soul of North Carolina)
-- Glory Glory (Sacred Soul of North Carolina)
-- Whatever You Need (Whatever You Need)
-- Something Within Me (Whatever You Need)
-- God is Able (Whatever You Need)
-- I Shall Not Be Moved (Whatever You Need)
-- Jesus is Waiting (Whatever You Need)
+  - 'Glory, Glory (Song Keepers: A Music Maker Foundation Anthology)'
+  - 'Somewhere to Lay My Head (Song Keepers: A Music Maker Foundation Anthology)'
+  - Somewhere to Lay My Head (Hanging Tree Guitars)
+  - Somewhere to Lay My Head (Sacred Soul of North Carolina)
+  - Glory Glory (Sacred Soul of North Carolina)
+  - Whatever You Need (Whatever You Need)
+  - Something Within Me (Whatever You Need)
+  - God is Able (Whatever You Need)
+  - I Shall Not Be Moved (Whatever You Need)
+  - Jesus is Waiting (Whatever You Need)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ac66ea26-2f1a-4990-ad84-7322810f8d57
-  spotify: https://open.spotify.com/artist/0Vvkl96NZnztGH2mwyJ4mi
+  musicbrainz: 'https://musicbrainz.org/artist/ac66ea26-2f1a-4990-ad84-7322810f8d57'
+  spotify: 'https://open.spotify.com/artist/0Vvkl96NZnztGH2mwyJ4mi'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/johnny_ray_daniels.jpg
 biography_enhanced_at: '2025-12-04T07:51:44.142319'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- wordofsouthfestival.com - Johnny Ray Daniels biography
-- journalofgospelmusic.com - After Seven Decades, it's Johnny Ray Daniels' Season
-- musicmaker.org - Johnny Ray Daniels artist profile
-- nicklosseatonmedia.com - Soul-Stirring Paste review
-- applemusic.com - Johnny Ray Daniels artist profile
-- weekinpop.com - God Is Able premiere
-- goodrecordstogo.com - Whatever You Need album
-- americanbluesscene.com - Sacred Soul's Johnny Ray Daniels Has 'Whatever You Need'
+  - wordofsouthfestival.com - Johnny Ray Daniels biography
+  - >-
+    journalofgospelmusic.com - After Seven Decades, it's Johnny Ray Daniels'
+    Season
+  - musicmaker.org - Johnny Ray Daniels artist profile
+  - nicklosseatonmedia.com - Soul-Stirring Paste review
+  - applemusic.com - Johnny Ray Daniels artist profile
+  - weekinpop.com - God Is Able premiere
+  - goodrecordstogo.com - Whatever You Need album
+  - >-
+    americanbluesscene.com - Sacred Soul's Johnny Ray Daniels Has 'Whatever You
+    Need'
 network_extracted: true
 entry_created: '2025-12-04T07:51:44.142328'
 last_updated: '2025-12-23T08:16:10.892801'

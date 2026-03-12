@@ -4,7 +4,7 @@ wiki_slug: nolasia
 schema_version: 2
 status: active
 genres:
-- uk r&b
+  - uk r&b
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/nolasia.jpg
   caption: Nolasia
@@ -24,40 +24,41 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Idak (twin brother)
+    - Idak (twin brother)
   influenced: []
   mentors: []
 spotify_data:
   followers: 8258
   id: 1oUVVaNAeBZ6w6unHvNUCF
   popularity: 42
-  url: https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF
+  url: 'https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF'
 discography_enriched: true
 top_tracks:
-- i might (i might)
-- self respect (self respect)
-- i know (i know)
-- 'One Night Only (The Lost Tale: Bandoleros)'
-- amnesia (amnesia)
-- move on (Out of Love)
-- skip! (skip!)
-- the occasion
-- insecure
-- do what you want (Out of Love)
+  - i might (i might)
+  - self respect (self respect)
+  - i know (i know)
+  - 'One Night Only (The Lost Tale: Bandoleros)'
+  - amnesia (amnesia)
+  - move on (Out of Love)
+  - skip! (skip!)
+  - the occasion
+  - insecure
+  - do what you want (Out of Love)
 external_urls:
-  spotify: https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF
+  spotify: 'https://open.spotify.com/artist/1oUVVaNAeBZ6w6unHvNUCF'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/nolasia.jpg
 biography_enhanced_at: '2025-11-26T07:45:08.927800'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.nolasiamusic.com/about
-- https://rootsmusicreport.com/bands/view/157123/nolasia
+  - 'https://www.nolasiamusic.com/about'
+  - 'https://rootsmusicreport.com/bands/view/157123/nolasia'
 network_extracted: true
 entry_created: '2025-11-26T07:45:08.927808'
 last_updated: '2025-12-23T08:16:13.630982'
-origin: New Orleans, Louisiana, United States (origin); currently based in Asia
+origin: 'New Orleans, Louisiana, United States (origin); currently based in Asia'
+artist_type: person
 ---
 
 ![](nolasia.jpg)

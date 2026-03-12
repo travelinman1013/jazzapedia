@@ -1,15 +1,15 @@
 ---
-title: SARA MARTIN
+title: Sara Martin
 wiki_slug: sara-martin
 schema_version: 2
 status: active
-birth_place: Louisville, Kentucky, United States
+birth_place: 'Louisville, Kentucky, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sara_martin.jpg
   caption: SARA MARTIN
   background: solo_singer
-  origin: Louisville, Kentucky, United States
+  origin: 'Louisville, Kentucky, United States'
 audio_profile:
   tempo_avg: 128.8
   energy_avg: 0.511
@@ -25,50 +25,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Fats Waller
-  - King Oliver
-  - Sidney Bechet
-  - Sylvester Weaver
-  - Thomas A. Dorsey
+    - Fats Waller
+    - King Oliver
+    - Sidney Bechet
+    - Sylvester Weaver
+    - Thomas A. Dorsey
   influenced:
-  - Female blues singers of the 1920s and 1930s
+    - Female blues singers of the 1920s and 1930s
   mentors:
-  - Clarence Williams
+    - Clarence Williams
 spotify_data:
   followers: 305476
   id: 7eCmccnRwPmRnWPw61x6jM
   popularity: 55
-  url: https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM
+  url: 'https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM'
 discography_enriched: true
 top_tracks:
-- The Ocean (feat. Shy Martin) (The Ocean (feat. Shy Martin))
-- Keep You Mine (Keep You Mine)
-- Are you happy? (Sad Songs)
-- Slow (Slow)
-- Feelings (Feelings)
-- can I call you back? (can I call you back?)
-- Make Us Never Happen (Make Us Never Happen)
-- Lose You Too (Lose You Too)
-- Good Together
-- Forget To Forget
+  - The Ocean (feat. Shy Martin) (The Ocean (feat. Shy Martin))
+  - Keep You Mine (Keep You Mine)
+  - Are you happy? (Sad Songs)
+  - Slow (Slow)
+  - Feelings (Feelings)
+  - can I call you back? (can I call you back?)
+  - Make Us Never Happen (Make Us Never Happen)
+  - Lose You Too (Lose You Too)
+  - Good Together
+  - Forget To Forget
 external_urls:
-  spotify: https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM
-  wikipedia: https://en.wikipedia.org/wiki/Sara_Martin
+  spotify: 'https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sara_Martin'
 image_path: 03_Resources/source_material/ArtistPortraits/sara_martin.jpg
 biography_enhanced_at: '2025-11-14T11:00:02.114198'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.kfw.org/feminist-blog/spotlight-sara-martin-blues-pioneer/
-- https://aaregistry.org/story/sara-martin-blues-singer-born/
-- https://www.allaboutjazz.com/musicians/sara-martin/
-- https://syncopatedtimes.com/sara-martin-1884-1955/
-- https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/martin-sara-1884-1955
-- https://kcaah.org/women-in-history/sara-martin/
-- https://kids.kiddle.co/Sara_Martin
+  - 'https://www.kfw.org/feminist-blog/spotlight-sara-martin-blues-pioneer/'
+  - 'https://aaregistry.org/story/sara-martin-blues-singer-born/'
+  - 'https://www.allaboutjazz.com/musicians/sara-martin/'
+  - 'https://syncopatedtimes.com/sara-martin-1884-1955/'
+  - >-
+    https://www.encyclopedia.com/women/encyclopedias-almanacs-transcripts-and-maps/martin-sara-1884-1955
+  - 'https://kcaah.org/women-in-history/sara-martin/'
+  - 'https://kids.kiddle.co/Sara_Martin'
 network_extracted: true
 entry_created: '2025-11-14T11:00:02.114204'
 last_updated: '2025-12-23T08:16:15.381843'
+birth_date: '1884-06-18'
+artist_type: person
 ---
 
 ![](sara_martin.jpg)

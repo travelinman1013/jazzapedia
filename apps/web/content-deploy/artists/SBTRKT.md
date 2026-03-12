@@ -4,7 +4,7 @@ wiki_slug: sbtrkt
 schema_version: 2
 artist_type: person
 status: active
-birth_place: London
+birth_place: 'London, England, United Kingdom'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/SBTRKT.jpg
@@ -26,54 +26,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sampha
-  - Jessie Ware
-  - Ezra Koenig (Vampire Weekend)
-  - Caroline Polachek (Chairlift)
-  - A$AP Ferg
-  - Shelley FKA DRAM
-  - The-Dream
+    - Sampha
+    - Jessie Ware
+    - Ezra Koenig (Vampire Weekend)
+    - Caroline Polachek (Chairlift)
+    - A$AP Ferg
+    - Shelley FKA DRAM
+    - The-Dream
   influenced:
-  - SHERELLE
+    - SHERELLE
   mentors: []
 spotify_data:
   followers: 638908
   id: 1O10apSOoAPjOu6UhUNmeI
   popularity: 45
-  url: https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI
+  url: 'https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI'
 discography_enriched: true
 top_tracks:
-- Wildfire (SBTRKT (Deluxe Version))
-- Hold On (SBTRKT (Deluxe Version))
-- Pharaohs (SBTRKT (Deluxe Version))
-- NEW DORP. NEW YORK (Wonder Where We Land)
-- Wildfire (SBTRKT)
-- Trials of the Past (SBTRKT (Deluxe Version))
-- BET YOU NEVER
-- Right Thing to Do (SBTRKT (Deluxe Version))
-- FORWARD
-- TURN YOUR HEART AROUND
+  - Wildfire (SBTRKT (Deluxe Version))
+  - Hold On (SBTRKT (Deluxe Version))
+  - Pharaohs (SBTRKT (Deluxe Version))
+  - NEW DORP. NEW YORK (Wonder Where We Land)
+  - Wildfire (SBTRKT)
+  - Trials of the Past (SBTRKT (Deluxe Version))
+  - BET YOU NEVER
+  - Right Thing to Do (SBTRKT (Deluxe Version))
+  - FORWARD
+  - TURN YOUR HEART AROUND
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7f2aa196-cfd4-4a3d-ace3-28b7b6a79af7
-  spotify: https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI
-  wikipedia: Not found in search results; Last.fm provides a user-edited biography[1].
+  musicbrainz: 'https://musicbrainz.org/artist/7f2aa196-cfd4-4a3d-ace3-28b7b6a79af7'
+  spotify: 'https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI'
+  wikipedia: 'Not found in search results; Last.fm provides a user-edited biography[1].'
 image_path: 03_Resources/source_material/ArtistPortraits/SBTRKT.jpg
 biography_enhanced_at: '2025-10-22T06:41:04.858772'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Last.fm
-- Mixmag
-- NBHAP
+  - Last.fm
+  - Mixmag
+  - NBHAP
 network_extracted: true
 entry_created: '2025-10-22T06:41:04.858787'
 last_updated: '2025-12-23T08:16:03.775792'
 gender: Male
 musicbrainz_id: 7f2aa196-cfd4-4a3d-ace3-28b7b6a79af7
 tags:
-- bass
-- dubstep
-- future garage
+  - bass
+  - dubstep
+  - future garage
 ---
 
 ![](SBTRKT.jpg)

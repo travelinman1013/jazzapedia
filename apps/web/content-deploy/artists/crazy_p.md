@@ -1,83 +1,84 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2025-12-31T01:43:22.950637'
 birth_date: '1995'
 disambiguation: formerly Crazy Penis
 enhancement_provider: perplexity
 entry_created: '2025-12-31T01:43:22.950642'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/45644225-982e-4b76-a529-d8f9688e9a7d
-  spotify: https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf
-  wikipedia: https://en.wikipedia.org/wiki/Crazy_P
+  musicbrainz: 'https://musicbrainz.org/artist/45644225-982e-4b76-a529-d8f9688e9a7d'
+  spotify: 'https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf'
+  wikipedia: 'https://en.wikipedia.org/wiki/Crazy_P'
 genres:
-- nu disco
-- disco house
-- funky house
+  - nu disco
+  - disco house
+  - funky house
 image_path: 03_Resources/source_material/ArtistPortraits/crazy_p.jpg
 instruments:
-- original
+  - original
 last_updated: '2025-12-31T01:43:22.950643'
 members:
-- &id001
-  begin: '2002'
-  end: ''
-  instruments: []
-  mbid: 3d5d60a4-831b-44b3-92be-73abe7b0fd54
-  name: Danielle Moore
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: a1a9eb42-e29e-4774-9ce7-8db4c2648c9c
-  name: James Baron
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9aaf657d-01fb-4423-ba0a-d2f991e7c268
-  name: Tim Davies
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 11686d6c-f277-4322-96dc-1f594db3823b
-  name: Matt Klose
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: b0950bf3-e7cb-453c-8308-535b7ea15654
-  name: Chris Todd
+  - &ref_0
+    begin: '2002'
+    end: ''
+    instruments: []
+    mbid: 3d5d60a4-831b-44b3-92be-73abe7b0fd54
+    name: Danielle Moore
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: a1a9eb42-e29e-4774-9ce7-8db4c2648c9c
+    name: James Baron
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9aaf657d-01fb-4423-ba0a-d2f991e7c268
+    name: Tim Davies
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 11686d6c-f277-4322-96dc-1f594db3823b
+    name: Matt Klose
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: b0950bf3-e7cb-453c-8308-535b7ea15654
+    name: Chris Todd
 musical_connections:
   collaborators:
-  - Danielle Moore
-  - Tim Davies
-  - Matt Klose
-  - Jamie Jones, Wolf and Lamb, Reboot, KiNK
-  - VV Brown, Empire of the Sun, Sam Sparro
+    - Danielle Moore
+    - Tim Davies
+    - Matt Klose
+    - 'Jamie Jones, Wolf and Lamb, Reboot, KiNK'
+    - 'VV Brown, Empire of the Sun, Sam Sparro'
   influenced: []
   mentors:
-  - Paper Recordings
-  - 2020 Vision
+    - Paper Recordings
+    - 2020 Vision
 musicbrainz_id: 45644225-982e-4b76-a529-d8f9688e9a7d
 network_extracted: true
-origin: Nottingham
+origin: 'Nottingham, England, United Kingdom'
 original_members:
-- *id001
+  - *ref_0
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Crazy+P/+wiki
-- https://www.insomniac.com/music/artists/crazy-p-soundsystem/
-- https://datatransmission.co/features/journey-through-our-discography-crazy-p/
-- https://en.wikipedia.org/wiki/Crazy_P
+  - 'https://www.last.fm/music/Crazy+P/+wiki'
+  - 'https://www.insomniac.com/music/artists/crazy-p-soundsystem/'
+  - >-
+    https://datatransmission.co/features/journey-through-our-discography-crazy-p/
+  - 'https://en.wikipedia.org/wiki/Crazy_P'
 spotify_data:
   followers: 147287
   id: 6jOz2B9qeID4dLP1o8bFGf
   popularity: 55
-  url: https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf
+  url: 'https://open.spotify.com/artist/6jOz2B9qeID4dLP1o8bFGf'
 status: active
 tags:
-- dance and electronica
-- deep house
-- nu disco
+  - dance and electronica
+  - deep house
+  - nu disco
 title: Crazy P
 ---
 

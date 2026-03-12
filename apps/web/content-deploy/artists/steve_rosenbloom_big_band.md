@@ -4,13 +4,13 @@ wiki_slug: steve-rosenbloom-big-band
 schema_version: 2
 status: active
 genres:
-- big band
+  - big band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/steve_rosenbloom_big_band.jpg
   caption: Steve Rosenbloom Big Band
   background: solo_singer
 audio_profile:
-  tempo_avg: 121.0
+  tempo_avg: 121
   energy_avg: 0.466
   valence_avg: 0.405
   danceability_avg: 0.465
@@ -24,64 +24,65 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Christopher Smith
-  - Michael Johancsik
-  - Alex Francoeur
-  - Jules Payette
-  - Allison Burik
-  - Benjamin Deschamps
-  - Lex French
-  - Andy King
-  - Benjamin Cordeau
-  - Cameron Milligan
-  - Mathieu Van Vilet
-  - Thomas Morelli-Bernard
-  - Taylor Donaldson
-  - Eric Harding
-  - Mike De Masi
-  - Jim Doxas
-  - Dave Turner
-  - Guido Basso
-  - Richard Karmel
-  - Mira Choquette
+    - Christopher Smith
+    - Michael Johancsik
+    - Alex Francoeur
+    - Jules Payette
+    - Allison Burik
+    - Benjamin Deschamps
+    - Lex French
+    - Andy King
+    - Benjamin Cordeau
+    - Cameron Milligan
+    - Mathieu Van Vilet
+    - Thomas Morelli-Bernard
+    - Taylor Donaldson
+    - Eric Harding
+    - Mike De Masi
+    - Jim Doxas
+    - Dave Turner
+    - Guido Basso
+    - Richard Karmel
+    - Mira Choquette
   influenced: []
   mentors:
-  - Gerry Danovitch
+    - Gerry Danovitch
 spotify_data:
   followers: 12
   id: 6v6ueXyNtbfGI6VXM73pET
   popularity: 0
-  url: https://open.spotify.com/artist/6v6ueXyNtbfGI6VXM73pET
+  url: 'https://open.spotify.com/artist/6v6ueXyNtbfGI6VXM73pET'
 discography_enriched: true
 top_tracks:
-- Samba for Esther (San Francisco 1948)
-- In a Boppish Sort of Way (San Francisco 1948)
-- Mosley (San Francisco 1948)
-- Call from the Orient (San Francisco 1948)
-- Light and Easy (San Francisco 1948)
-- Fiesta for Paquito (San Francisco 1948)
-- San Francisco 1948 (San Francisco 1948)
-- Mexican Holiday (San Francisco 1948)
-- Asher's Song (San Francisco 1948)
+  - Samba for Esther (San Francisco 1948)
+  - In a Boppish Sort of Way (San Francisco 1948)
+  - Mosley (San Francisco 1948)
+  - Call from the Orient (San Francisco 1948)
+  - Light and Easy (San Francisco 1948)
+  - Fiesta for Paquito (San Francisco 1948)
+  - San Francisco 1948 (San Francisco 1948)
+  - Mexican Holiday (San Francisco 1948)
+  - Asher's Song (San Francisco 1948)
 external_urls:
-  spotify: https://open.spotify.com/artist/6v6ueXyNtbfGI6VXM73pET
+  spotify: 'https://open.spotify.com/artist/6v6ueXyNtbfGI6VXM73pET'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/steve_rosenbloom_big_band.jpg
 biography_enhanced_at: '2025-11-29T06:58:59.663522'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- recordworldinternational.com
-- makingascene.org
-- canadianbeats.ca
-- tinnitist.com
-- downbeat.com
-- jazzjournal.co.uk
-- rootsmusicreport.com
+  - recordworldinternational.com
+  - makingascene.org
+  - canadianbeats.ca
+  - tinnitist.com
+  - downbeat.com
+  - jazzjournal.co.uk
+  - rootsmusicreport.com
 network_extracted: true
 entry_created: '2025-11-29T06:58:59.663534'
 last_updated: '2025-12-23T08:16:16.148231'
-origin: Montreal, Quebec, Canada
+origin: 'Montreal, Quebec, Canada'
+artist_type: person
 ---
 
 ![](steve_rosenbloom_big_band.jpg)

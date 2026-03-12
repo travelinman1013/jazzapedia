@@ -4,9 +4,10 @@ wiki_slug: southern-university-jazz-ensemble
 schema_version: 2
 status: active
 genres:
-- free jazz
+  - free jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/Southern_University_Jazz_Ensemble.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/Southern_University_Jazz_Ensemble.jpg
   caption: Southern University Jazz Ensemble
   background: solo_singer
 audio_profile:
@@ -24,45 +25,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Henry Butler
-  - Julius Farmer
-  - Herman Jackson
+    - Henry Butler
+    - Julius Farmer
+    - Herman Jackson
   influenced:
-  - Charles Singleton
+    - Charles Singleton
   mentors:
-  - Alvin Batiste
+    - Alvin Batiste
 spotify_data:
   followers: 515
   id: 6UvGbUk8rx2pDXcMGALJms
   popularity: 1
-  url: https://open.spotify.com/artist/6UvGbUk8rx2pDXcMGALJms
+  url: 'https://open.spotify.com/artist/6UvGbUk8rx2pDXcMGALJms'
 discography_enriched: true
 top_tracks:
-- Clean Air (Goes To Africa With Love)
-- Samba Dee (Goes To Africa With Love)
-- Samba Dee (Samba Dee)
-- Ah Ja Ge Da Ba (Goes To Africa With Love)
-- Music Came (Live) (Live At The 1971 American College Jazz Festival)
-- Tunjii (Live) (Live At The 1971 American College Jazz Festival)
-- Straight Life (Live) (Live At The 1971 American College Jazz Festival)
-- Unknown Title (Demo Track For Cannonball Adderley) (Music Came - Live 1971-1976)
-- Music Came (Goes To Africa With Love)
-- Nanigo (Goes To Africa With Love)
+  - Clean Air (Goes To Africa With Love)
+  - Samba Dee (Goes To Africa With Love)
+  - Samba Dee (Samba Dee)
+  - Ah Ja Ge Da Ba (Goes To Africa With Love)
+  - Music Came (Live) (Live At The 1971 American College Jazz Festival)
+  - Tunjii (Live) (Live At The 1971 American College Jazz Festival)
+  - Straight Life (Live) (Live At The 1971 American College Jazz Festival)
+  - >-
+    Unknown Title (Demo Track For Cannonball Adderley) (Music Came - Live
+    1971-1976)
+  - Music Came (Goes To Africa With Love)
+  - Nanigo (Goes To Africa With Love)
 external_urls:
-  spotify: https://open.spotify.com/artist/6UvGbUk8rx2pDXcMGALJms
+  spotify: 'https://open.spotify.com/artist/6UvGbUk8rx2pDXcMGALJms'
   wikipedia: None found
-image_path: 03_Resources/source_material/ArtistPortraits/Southern_University_Jazz_Ensemble.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/Southern_University_Jazz_Ensemble.jpg
 biography_enhanced_at: '2025-10-22T06:50:10.581417'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- '[1]'
-- '[2]'
-- '[4]'
+  - '[1]'
+  - '[2]'
+  - '[4]'
 network_extracted: true
 entry_created: '2025-10-22T06:50:10.581429'
 last_updated: '2025-12-23T08:16:03.939854'
-origin: Baton Rouge, Louisiana, USA
+origin: 'Baton Rouge, Louisiana, USA'
+artist_type: band
 ---
 
 ![](Southern_University_Jazz_Ensemble.jpg)

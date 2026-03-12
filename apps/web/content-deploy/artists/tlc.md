@@ -1,90 +1,92 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2025-12-25T01:19:41.235481'
-birth_date: '1991'
+birth_date: '1990'
 disambiguation: US pop/R&B trio
 enhancement_provider: perplexity
 entry_created: '2025-12-25T01:19:41.235496'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/99790314-885a-4975-8614-9c5bc890364d
-  spotify: https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq
-  wikipedia: https://en.wikipedia.org/wiki/TLC_(group)
+  musicbrainz: 'https://musicbrainz.org/artist/99790314-885a-4975-8614-9c5bc890364d'
+  spotify: 'https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq'
+  wikipedia: 'https://en.wikipedia.org/wiki/TLC_(group)'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/tlc.jpg
 instruments:
-- eponymous
-- original
-- background vocals
-- spoken vocals
-- lead vocals
+  - eponymous
+  - original
+  - background vocals
+  - spoken vocals
+  - lead vocals
 last_updated: '2025-12-25T01:19:41.235498'
 members:
-- begin: '1990'
-  end: '1991'
-  instruments:
-  - eponymous
-  - original
-  mbid: ae192392-6d17-4623-893e-75a16ae9cbef
-  name: Crystal Jones
-- begin: '1990'
-  end: '2002-04-26'
-  instruments:
-  - eponymous
-  - original
-  mbid: 42645d41-cb2b-43d9-8996-8ee4b637e7d1
-  name: Lisa “Left Eye” Lopes
-- &id001
-  begin: '1990'
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: eba7e931-1795-44bf-9edf-1df4740e79ac
-  name: T‐Boz
-- &id002
-  begin: '1991'
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 9f154890-111b-4916-bb7b-0347a6619e08
-  name: Chilli
+  - begin: '1990'
+    end: '1991'
+    instruments:
+      - eponymous
+      - original
+    mbid: ae192392-6d17-4623-893e-75a16ae9cbef
+    name: Crystal Jones
+  - begin: '1990'
+    end: '2002-04-26'
+    instruments:
+      - eponymous
+      - original
+    mbid: 42645d41-cb2b-43d9-8996-8ee4b637e7d1
+    name: Lisa “Left Eye” Lopes
+  - &ref_0
+    begin: '1990'
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: eba7e931-1795-44bf-9edf-1df4740e79ac
+    name: T‐Boz
+  - &ref_1
+    begin: '1991'
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 9f154890-111b-4916-bb7b-0347a6619e08
+    name: Chilli
 musical_connections:
   collaborators:
-  - Dallas Austin
-  - Snoop Dogg
-  - LaFace Records artists and producers (including Babyface and Organized Noize affiliates)
+    - Dallas Austin
+    - Snoop Dogg
+    - >-
+      LaFace Records artists and producers (including Babyface and Organized
+      Noize affiliates)
   influenced:
-  - Destiny's Child
-  - SWV (Sisters With Voices)
-  - Blaque
+    - Destiny's Child
+    - SWV (Sisters With Voices)
+    - Blaque
   mentors:
-  - Perri "Pebbles" Reid
-  - Antonio "L.A." Reid and Kenneth "Babyface" Edmonds
-  - Jermaine Dupri
+    - Perri "Pebbles" Reid
+    - Antonio "L.A." Reid and Kenneth "Babyface" Edmonds
+    - Jermaine Dupri
 musicbrainz_id: 99790314-885a-4975-8614-9c5bc890364d
 network_extracted: true
-origin: Atlanta
+origin: 'Atlanta, Georgia, United States'
 original_members:
-- *id001
-- *id002
+  - *ref_0
+  - *ref_1
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/TLC_(group)
-- https://simple.wikipedia.org/wiki/TLC_(group)
-- https://www.imdb.com/name/nm1352040/bio/
-- http://www.katykrassner.com/tlc-bio.html
-- https://musicaddict.org/tlc-90s-girl-power/
-- https://www.mylifetime.com/specials/tlc-forever/pages/tlc-facts
+  - 'https://en.wikipedia.org/wiki/TLC_(group)'
+  - 'https://simple.wikipedia.org/wiki/TLC_(group)'
+  - 'https://www.imdb.com/name/nm1352040/bio/'
+  - 'http://www.katykrassner.com/tlc-bio.html'
+  - 'https://musicaddict.org/tlc-90s-girl-power/'
+  - 'https://www.mylifetime.com/specials/tlc-forever/pages/tlc-facts'
 spotify_data:
   followers: 4569493
   id: 0TImkz4nPqjegtVSMZnMRq
   popularity: 70
-  url: https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq
+  url: 'https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq'
 status: active
 tags:
-- contemporary r&b
-- crunk
-- new jack swing
+  - contemporary r&b
+  - crunk
+  - new jack swing
 title: TLC
 ---
 

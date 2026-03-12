@@ -5,7 +5,7 @@ schema_version: 2
 status: active
 aliases: []
 genres:
-- comedy
+  - comedy
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Spinal_Tap.jpg
   caption: Spinal Tap
@@ -25,55 +25,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Elton John
-  - Paul McCartney
-  - Russ Kunkel
-  - Loudon Wainwright
+    - Elton John
+    - Paul McCartney
+    - Russ Kunkel
+    - Loudon Wainwright
   influenced:
-  - Tenacious D
-  - Flight of the Conchords
+    - Tenacious D
+    - Flight of the Conchords
   mentors:
-  - Matchstick Men
+    - Matchstick Men
 related_artists: []
 spotify_data:
   followers: 53860
   id: 65X3sG8LVBQN5033RqB6qn
   popularity: 46
-  url: https://open.spotify.com/artist/65X3sG8LVBQN5033RqB6qn
+  url: 'https://open.spotify.com/artist/65X3sG8LVBQN5033RqB6qn'
   verified: false
 discography_enriched: true
 albums_count: 3
 singles_count: 2
 top_tracks:
-- Tonight I'm Gonna Rock You Tonight (This Is Spinal Tap)
-- Stonehenge (This Is Spinal Tap)
-- Big Bottom (This Is Spinal Tap)
-- Gimme Some Money (This Is Spinal Tap)
-- Hell Hole (This Is Spinal Tap)
-- Christmas With The Devil (This Is Spinal Tap)
-- Sex Farm (This Is Spinal Tap)
-- The Majesty Of Rock (Break Like The Wind)
-- (Listen To The) Flower People (This Is Spinal Tap)
-- Break Like The Wind (Break Like The Wind)
+  - Tonight I'm Gonna Rock You Tonight (This Is Spinal Tap)
+  - Stonehenge (This Is Spinal Tap)
+  - Big Bottom (This Is Spinal Tap)
+  - Gimme Some Money (This Is Spinal Tap)
+  - Hell Hole (This Is Spinal Tap)
+  - Christmas With The Devil (This Is Spinal Tap)
+  - Sex Farm (This Is Spinal Tap)
+  - The Majesty Of Rock (Break Like The Wind)
+  - (Listen To The) Flower People (This Is Spinal Tap)
+  - Break Like The Wind (Break Like The Wind)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/65X3sG8LVBQN5033RqB6qn
-  wikipedia: https://en.wikipedia.org/wiki/This_Is_Spinal_Tap
+  spotify: 'https://open.spotify.com/artist/65X3sG8LVBQN5033RqB6qn'
+  wikipedia: 'https://en.wikipedia.org/wiki/This_Is_Spinal_Tap'
 image_path: 03_Resources/source_material/ArtistPortraits/Spinal_Tap.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:57:17.616359'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://spinaltap.com/atozed/TAP00180.HTM
-- https://spinaltapfan.com/articles/taphis.html
-- https://distortedsoundmag.com/heavy-music-history-this-is-spinal-tap/
-- https://en.wikipedia.org/wiki/This_Is_Spinal_Tap
+  - 'https://spinaltap.com/atozed/TAP00180.HTM'
+  - 'https://spinaltapfan.com/articles/taphis.html'
+  - 'https://distortedsoundmag.com/heavy-music-history-this-is-spinal-tap/'
+  - 'https://en.wikipedia.org/wiki/This_Is_Spinal_Tap'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 11:50:59.212206
+entry_created: 2025-09-18T11:50:59.212Z
 last_updated: '2025-12-23T08:16:15.995636'
-origin: London, England, United Kingdom
+origin: 'London, England, United Kingdom'
+artist_type: band
 ---
 
 ![](Spinal_Tap.jpg)

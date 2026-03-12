@@ -2,19 +2,19 @@
 title: Tom Waits
 wiki_slug: tom-waits
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1949-12-07'
-birth_place: Pomona, California, United States
+birth_place: 'Pomona, California, United States'
 genres:
-- dark cabaret
-- singer-songwriter
+  - dark cabaret
+  - singer-songwriter
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Tom_Waits.jpg
   caption: Tom Waits
   background: solo_singer
   born: '1949-12-07'
-  origin: Pomona, California, United States
+  origin: 'Pomona, California, United States'
 audio_profile:
   tempo_avg: 109.8
   energy_avg: 0.364
@@ -30,47 +30,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kathleen Brennan
-  - Marc Ribot
-  - Larry Taylor
+    - Kathleen Brennan
+    - Marc Ribot
+    - Larry Taylor
   influenced:
-  - Nick Cave
-  - Norah Jones
-  - The Black Keys
+    - Nick Cave
+    - Norah Jones
+    - The Black Keys
   mentors:
-  - Jack Kerouac
-  - Bob Dylan
-  - Charles Bukowski
+    - Jack Kerouac
+    - Bob Dylan
+    - Charles Bukowski
 spotify_data:
   followers: 1459314
   id: 7x83XhcMbOTl1UdYsPTuZM
   popularity: 56
-  url: https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM
+  url: 'https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM'
 discography_enriched: true
 top_tracks:
-- I Hope That I Don't Fall In Love With You (Closing Time (Remastered))
-- Ol' 55 (Closing Time (Remastered))
-- Downtown Train - 2023 Remaster (Rain Dogs (2023 Remaster))
-- Martha (Closing Time (Remastered))
-- Clap Hands - 2023 Remaster (Rain Dogs (2023 Remaster))
-- 'Little Drop Of Poison (Orphans: Brawlers, Bawlers & Bastards (Remastered))'
-- Goin' Out West - 2023 Remaster (Bone Machine (2023 Remaster))
-- Jockey Full Of Bourbon - 2023 Remaster (Rain Dogs (2023 Remaster))
-- Hold On (Mule Variations (Remastered))
-- Underground - 2023 Remaster (Swordfishtrombones (2023 Remaster))
+  - I Hope That I Don't Fall In Love With You (Closing Time (Remastered))
+  - Ol' 55 (Closing Time (Remastered))
+  - Downtown Train - 2023 Remaster (Rain Dogs (2023 Remaster))
+  - Martha (Closing Time (Remastered))
+  - Clap Hands - 2023 Remaster (Rain Dogs (2023 Remaster))
+  - 'Little Drop Of Poison (Orphans: Brawlers, Bawlers & Bastards (Remastered))'
+  - Goin' Out West - 2023 Remaster (Bone Machine (2023 Remaster))
+  - Jockey Full Of Bourbon - 2023 Remaster (Rain Dogs (2023 Remaster))
+  - Hold On (Mule Variations (Remastered))
+  - Underground - 2023 Remaster (Swordfishtrombones (2023 Remaster))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c3aeb863-7b26-4388-94e8-5a240f2be21b
-  spotify: https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM
-  wikipedia: https://en.wikipedia.org/wiki/Tom_Waits
+  musicbrainz: 'https://musicbrainz.org/artist/c3aeb863-7b26-4388-94e8-5a240f2be21b'
+  spotify: 'https://open.spotify.com/artist/7x83XhcMbOTl1UdYsPTuZM'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tom_Waits'
 image_path: 03_Resources/source_material/ArtistPortraits/Tom_Waits.jpg
 biography_enhanced_at: '2025-10-20T10:09:14.391555'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Britannica
-- Last.fm
-- Tom Waits official site
-- IMDb
+  - Britannica
+  - Last.fm
+  - Tom Waits official site
+  - IMDb
 network_extracted: true
 entry_created: '2025-10-20T10:09:14.391573'
 last_updated: '2025-12-23T08:16:04.193159'
@@ -78,10 +78,9 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:47:18.882658'
 musicbrainz_id: c3aeb863-7b26-4388-94e8-5a240f2be21b
 tags:
-- americana
-- avant-garde jazz
-- beat poetry
-
+  - americana
+  - avant-garde jazz
+  - beat poetry
 ---
 
 ![](Tom_Waits.jpg)

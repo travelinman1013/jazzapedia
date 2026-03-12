@@ -1,139 +1,142 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-03T01:39:10.567115'
-birth_date: '1951'
+birth_date: '1920-12-06'
 enhancement_provider: perplexity
 entry_created: '2026-01-03T01:39:10.567131'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7bf711e9-4e69-4e08-b6e8-c0cb5805f1e7
-  spotify: https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7
-  wikipedia: https://en.wikipedia.org/wiki/Dave_Brubeck
+  musicbrainz: 'https://musicbrainz.org/artist/7bf711e9-4e69-4e08-b6e8-c0cb5805f1e7'
+  spotify: 'https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dave_Brubeck'
 genres:
-- jazz
-- cool jazz
+  - jazz
+  - cool jazz
 image_path: 03_Resources/source_material/ArtistPortraits/the_dave_brubeck_quartet.jpg
 instruments:
-- eponymous
-- original
-- piano
-- drums (drum set)
-- bass
-- clarinet
-- flute
-- saxophone
-last_updated: '2026-01-03T01:39:10.567134'
-members:
-- begin: '1951'
-  end: '1958'
-  instruments: []
-  mbid: 730cf561-4df3-44da-b3f6-b59c82c9d0d0
-  name: Norman Bates
-- begin: '1951'
-  end: '1967'
-  instruments:
   - eponymous
   - original
   - piano
-  mbid: de0222a6-e1c4-403d-8b01-3f66d505061b
-  name: Dave Brubeck
-- begin: '1951'
-  end: '1967'
-  instruments:
-  - original
-  mbid: d5bf3447-c526-4f7c-9931-4b7c80fe34de
-  name: Paul Desmond
-- begin: '1958'
-  end: '1968'
-  instruments:
   - drums (drum set)
-  mbid: c9a1fe8c-340a-46c4-87c4-22a3e53a555c
-  name: Joe Morello
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: a6753195-9e51-4da5-b8b6-c952e0f6f4f5
-  name: Herb Barman
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1190ce17-2d5e-4b35-b06b-1a92b023378a
-  name: Bob Bates
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d337488e-0c48-4d6c-bc76-4517426ea727
-  name: Ron Crotty
-- begin: ''
-  end: ''
-  instruments:
   - bass
-  mbid: 0af91c09-9ed6-4b70-b780-e81c50499a02
-  name: Alec Dankworth
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: cd3cde70-56bb-45f1-84a4-479f8ef66ddf
-  name: Joe Dodge
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: b72eb5f0-8399-4ef7-9f49-e0d56614cbc5
-  name: Randy Jones
-- begin: ''
-  end: ''
-  instruments:
   - clarinet
   - flute
   - saxophone
-  mbid: e700b41c-ea76-448c-a4b5-78a8d36c6e5e
-  name: Bobby Militello
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 88c5de60-fa1a-4179-8100-ecd74c4edb73
-  name: Jimmy Rushing
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3347890f-630e-43b9-85aa-516d964b7c4f
-  name: Bill Smith
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7d803cbf-5b57-4579-8c5f-1749199a4da5
-  name: Eugene Wright
+last_updated: '2026-01-03T01:39:10.567134'
+members:
+  - begin: '1951'
+    end: '1958'
+    instruments: []
+    mbid: 730cf561-4df3-44da-b3f6-b59c82c9d0d0
+    name: Norman Bates
+  - begin: '1951'
+    end: '1967'
+    instruments:
+      - eponymous
+      - original
+      - piano
+    mbid: de0222a6-e1c4-403d-8b01-3f66d505061b
+    name: Dave Brubeck
+  - begin: '1951'
+    end: '1967'
+    instruments:
+      - original
+    mbid: d5bf3447-c526-4f7c-9931-4b7c80fe34de
+    name: Paul Desmond
+  - begin: '1958'
+    end: '1968'
+    instruments:
+      - drums (drum set)
+    mbid: c9a1fe8c-340a-46c4-87c4-22a3e53a555c
+    name: Joe Morello
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: a6753195-9e51-4da5-b8b6-c952e0f6f4f5
+    name: Herb Barman
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1190ce17-2d5e-4b35-b06b-1a92b023378a
+    name: Bob Bates
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d337488e-0c48-4d6c-bc76-4517426ea727
+    name: Ron Crotty
+  - begin: ''
+    end: ''
+    instruments:
+      - bass
+    mbid: 0af91c09-9ed6-4b70-b780-e81c50499a02
+    name: Alec Dankworth
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: cd3cde70-56bb-45f1-84a4-479f8ef66ddf
+    name: Joe Dodge
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: b72eb5f0-8399-4ef7-9f49-e0d56614cbc5
+    name: Randy Jones
+  - begin: ''
+    end: ''
+    instruments:
+      - clarinet
+      - flute
+      - saxophone
+    mbid: e700b41c-ea76-448c-a4b5-78a8d36c6e5e
+    name: Bobby Militello
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 88c5de60-fa1a-4179-8100-ecd74c4edb73
+    name: Jimmy Rushing
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3347890f-630e-43b9-85aa-516d964b7c4f
+    name: Bill Smith
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7d803cbf-5b57-4579-8c5f-1749199a4da5
+    name: Eugene Wright
 musical_connections:
   collaborators:
-  - Paul Desmond
-  - Eugene Wright
-  - Joe Morello
-  - Cal Tjader
+    - Paul Desmond
+    - Eugene Wright
+    - Joe Morello
+    - Cal Tjader
   influenced:
-  - Chris Brubeck
+    - Chris Brubeck
   mentors:
-  - Darius Milhaud
+    - Darius Milhaud
 musicbrainz_id: 7bf711e9-4e69-4e08-b6e8-c0cb5805f1e7
 network_extracted: true
-origin: San Francisco
+origin: 'San Francisco, California, United States'
 primary_source: perplexity
 research_sources:
-- https://www.davebrubeck.com/timeline
-- http://www.davebrubeckjazz.com/bio-/dave-brubeck-~-the-biography/Bio-1948~1967
-- https://themusicalheritagesociety.com/blogs/news/dave-brubeck-a-master-of-jazz-across-the-ages
-- https://en.wikipedia.org/wiki/Dave_Brubeck
-- https://www.arts.gov/honors/jazz/dave-brubeck
+  - 'https://www.davebrubeck.com/timeline'
+  - >-
+    http://www.davebrubeckjazz.com/bio-/dave-brubeck-~-the-biography/Bio-1948~1967
+  - >-
+    https://themusicalheritagesociety.com/blogs/news/dave-brubeck-a-master-of-jazz-across-the-ages
+  - 'https://en.wikipedia.org/wiki/Dave_Brubeck'
+  - 'https://www.arts.gov/honors/jazz/dave-brubeck'
 spotify_data:
   followers: 365336
   id: 4iRZAbYvBqnxrbs6K25aJ7
   popularity: 59
-  url: https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7
+  url: 'https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7'
 status: active
 tags:
-- cool jazz
-- jazz
+  - cool jazz
+  - jazz
 title: The Dave Brubeck Quartet
+birth_place: 'Concord, California, United States'
 ---
 
 ![](the_dave_brubeck_quartet.jpg)

@@ -3,13 +3,13 @@ title: Park Stickney
 wiki_slug: park-stickney
 schema_version: 2
 status: active
-birth_place: Switzerland, Europe
+birth_place: 'Switzerland, Europe'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/park_stickney.jpg
   caption: Park Stickney
   background: solo_singer
-  origin: Switzerland, Europe
+  origin: 'Switzerland, Europe'
 audio_profile:
   tempo_avg: 108.1
   energy_avg: 0.225
@@ -25,44 +25,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Various Jazz Ensembles
+    - Various Jazz Ensembles
   influenced:
-  - Students at Royal Academy of Music
+    - Students at Royal Academy of Music
   mentors:
-  - Juilliard School Faculty
+    - Juilliard School Faculty
 spotify_data:
   followers: 1056
   id: 73XzR9I0AcJxpHWpjvwISB
   popularity: 7
-  url: https://open.spotify.com/artist/73XzR9I0AcJxpHWpjvwISB
+  url: 'https://open.spotify.com/artist/73XzR9I0AcJxpHWpjvwISB'
 discography_enriched: true
 top_tracks:
-- Breathing with Harp (Harp Summit)
-- Conscious Streaming (Harp Summit)
-- Cool Harmonics (Harp Summit)
-- Butterfly / Metamorphosis (Harp Summit)
-- So What (Harp Summit)
-- In a Sentimental Mood (Harp Summit)
-- Double Tarantella (Harp Summit)
-- Message in a Bottle (Harp Summit)
-- The Pink Panther (Still, Life with Jazz Harp)
-- Toccata of Time (Harpmospheres)
+  - Breathing with Harp (Harp Summit)
+  - Conscious Streaming (Harp Summit)
+  - Cool Harmonics (Harp Summit)
+  - Butterfly / Metamorphosis (Harp Summit)
+  - So What (Harp Summit)
+  - In a Sentimental Mood (Harp Summit)
+  - Double Tarantella (Harp Summit)
+  - Message in a Bottle (Harp Summit)
+  - 'The Pink Panther (Still, Life with Jazz Harp)'
+  - Toccata of Time (Harpmospheres)
 external_urls:
-  spotify: https://open.spotify.com/artist/73XzR9I0AcJxpHWpjvwISB
+  spotify: 'https://open.spotify.com/artist/73XzR9I0AcJxpHWpjvwISB'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/park_stickney.jpg
 biography_enhanced_at: '2025-11-26T07:49:02.036928'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.ram.ac.uk/people/park-stickney
-- https://www.last.fm/music/Park+Stickney/+wiki
-- https://music.illinois.edu/about-us/events/guest-artist-park-stickney-harpworkshop-master-class-performance/
-- http://www.creightonscollection.co.uk/Pages/Artists/S12_Park_Stickney.htm
-- https://harplab.net/park-stickney-biography/
+  - 'https://www.ram.ac.uk/people/park-stickney'
+  - 'https://www.last.fm/music/Park+Stickney/+wiki'
+  - >-
+    https://music.illinois.edu/about-us/events/guest-artist-park-stickney-harpworkshop-master-class-performance/
+  - 'http://www.creightonscollection.co.uk/Pages/Artists/S12_Park_Stickney.htm'
+  - 'https://harplab.net/park-stickney-biography/'
 network_extracted: true
 entry_created: '2025-11-26T07:49:02.036941'
 last_updated: '2025-12-23T08:16:13.947753'
+artist_type: person
 ---
 
 ![](park_stickney.jpg)

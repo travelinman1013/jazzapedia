@@ -5,9 +5,9 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1958-09-06'
-birth_place: Atlanta
+birth_place: 'Hapeville, Georgia, United States'
 genres:
-- comedy
+  - comedy
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jeff_foxworthy.jpg
   caption: Jeff Foxworthy
@@ -20,7 +20,7 @@ audio_profile:
   valence_avg: 0.447
   danceability_avg: 0.551
   acousticness_avg: 0.756
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -12.2
   speechiness_avg: 0.832
   liveness_avg: 0.743
@@ -29,49 +29,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Larry the Cable Guy
-  - Bill Engvall
-  - Ron White
+    - Larry the Cable Guy
+    - Bill Engvall
+    - Ron White
   influenced: []
   mentors: []
 spotify_data:
   followers: 63018
   id: 7zOcRYg1BYXpwr71XTWNr7
   popularity: 39
-  url: https://open.spotify.com/artist/7zOcRYg1BYXpwr71XTWNr7
+  url: 'https://open.spotify.com/artist/7zOcRYg1BYXpwr71XTWNr7'
 discography_enriched: true
 top_tracks:
-- Git R Done (We've Been Thinking)
-- Family Outings (We've Been Thinking)
-- Weather Woes (We've Been Thinking)
-- Common Sense (We've Been Thinking)
-- No Mores (We've Been Thinking)
-- Skeeters, Spiders and Lookalikes (We've Been Thinking)
-- Dieting and Buffets (We've Been Thinking)
-- The Most Valuable Thing on the Planet (We've Been Thinking)
-- Las Vegas (We've Been Thinking)
-- Redneck 12 Days of Christmas
+  - Git R Done (We've Been Thinking)
+  - Family Outings (We've Been Thinking)
+  - Weather Woes (We've Been Thinking)
+  - Common Sense (We've Been Thinking)
+  - No Mores (We've Been Thinking)
+  - 'Skeeters, Spiders and Lookalikes (We''ve Been Thinking)'
+  - Dieting and Buffets (We've Been Thinking)
+  - The Most Valuable Thing on the Planet (We've Been Thinking)
+  - Las Vegas (We've Been Thinking)
+  - Redneck 12 Days of Christmas
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6d3c8710-afdf-4c99-bb7c-c53d924b8254
-  spotify: https://open.spotify.com/artist/7zOcRYg1BYXpwr71XTWNr7
-  wikipedia: https://en.wikipedia.org/wiki/Jeff_Foxworthy
+  musicbrainz: 'https://musicbrainz.org/artist/6d3c8710-afdf-4c99-bb7c-c53d924b8254'
+  spotify: 'https://open.spotify.com/artist/7zOcRYg1BYXpwr71XTWNr7'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jeff_Foxworthy'
 image_path: 03_Resources/source_material/ArtistPortraits/jeff_foxworthy.jpg
 biography_enhanced_at: '2025-12-21T01:19:12.793133'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jeff_Foxworthy
-- https://roadtripnation.com/leader/jeff-foxworthy
-- https://jefffoxworthy.com
-- https://www.biography.com/actors/jeff-foxworthy-redneck-comedy
-- https://www.imdb.com/name/nm0289344/bio/
+  - 'https://en.wikipedia.org/wiki/Jeff_Foxworthy'
+  - 'https://roadtripnation.com/leader/jeff-foxworthy'
+  - 'https://jefffoxworthy.com'
+  - 'https://www.biography.com/actors/jeff-foxworthy-redneck-comedy'
+  - 'https://www.imdb.com/name/nm0289344/bio/'
 network_extracted: true
 entry_created: '2025-12-21T01:19:12.793138'
 last_updated: '2025-12-23T08:16:10.300011'
 gender: Male
 musicbrainz_id: 6d3c8710-afdf-4c99-bb7c-c53d924b8254
 tags:
-- comedy
+  - comedy
 ---
 
 ![](jeff_foxworthy.jpg)

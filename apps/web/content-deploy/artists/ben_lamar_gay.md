@@ -3,15 +3,15 @@ title: Ben LaMar Gay
 wiki_slug: ben-lamar-gay
 schema_version: 2
 status: active
-birth_place: Chicago, Illinois, United States
+birth_place: 'Chicago, Illinois, United States'
 genres:
-- free jazz
-- nu jazz
+  - free jazz
+  - nu jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ben_lamar_gay.jpg
   caption: Ben LaMar Gay
   background: solo_singer
-  origin: Chicago, Illinois, United States
+  origin: 'Chicago, Illinois, United States'
 audio_profile:
   tempo_avg: 113.6
   energy_avg: 0.526
@@ -27,60 +27,66 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tommaso Moretti
-  - Matthew Davis
-  - Rob Frye
-  - Sima Cunningham and Macie Stewart (OHMME)
-  - Ayanna Woods
-  - Dorothée Munyaneza
-  - Tomeka Reid
-  - Angel Bat Dawid
-  - Makaya McCraven
-  - Jaimie Branch
-  - Damon Locks
-  - Mike Reed
-  - Theaster Gates
-  - Bitchin Bajas
-  - Nicole Mitchell
-  - Wet Ink Ensemble
+    - Tommaso Moretti
+    - Matthew Davis
+    - Rob Frye
+    - Sima Cunningham and Macie Stewart (OHMME)
+    - Ayanna Woods
+    - Dorothée Munyaneza
+    - Tomeka Reid
+    - Angel Bat Dawid
+    - Makaya McCraven
+    - Jaimie Branch
+    - Damon Locks
+    - Mike Reed
+    - Theaster Gates
+    - Bitchin Bajas
+    - Nicole Mitchell
+    - Wet Ink Ensemble
   influenced: []
   mentors:
-  - AACM (Association for the Advancement of Creative Musicians)
+    - AACM (Association for the Advancement of Creative Musicians)
 spotify_data:
   followers: 14644
   id: 4ITyby2i26NhM69kXNpIdR
   popularity: 28
-  url: https://open.spotify.com/artist/4ITyby2i26NhM69kXNpIdR
+  url: 'https://open.spotify.com/artist/4ITyby2i26NhM69kXNpIdR'
 discography_enriched: true
 top_tracks:
-- yowzers
-- 'Music for 18 Hairdressers: Braids & Fractals (Downtown Castles Can Never Block the Sun)'
-- there, inside the morning glory
-- Sometimes I Forget How Summer Looks on You. (Open Arms to Open Us)
-- Mestre Candeia's Denim Hat (Open Arms to Open Us)
-- Dress Me in New Love (Open Arms to Open Us)
-- 'Music for 18 Hairdressers: Braids & Fractals (Downtown Castles Can Never Block the Sun)'
-- John, John Henry
-- Technology (feat. Theon Cross & Ben LaMar Gay)
-- for Breezy (Yowzers)
+  - yowzers
+  - >-
+    Music for 18 Hairdressers: Braids & Fractals (Downtown Castles Can Never
+    Block the Sun)
+  - 'there, inside the morning glory'
+  - Sometimes I Forget How Summer Looks on You. (Open Arms to Open Us)
+  - Mestre Candeia's Denim Hat (Open Arms to Open Us)
+  - Dress Me in New Love (Open Arms to Open Us)
+  - >-
+    Music for 18 Hairdressers: Braids & Fractals (Downtown Castles Can Never
+    Block the Sun)
+  - 'John, John Henry'
+  - Technology (feat. Theon Cross & Ben LaMar Gay)
+  - for Breezy (Yowzers)
 external_urls:
-  spotify: https://open.spotify.com/artist/4ITyby2i26NhM69kXNpIdR
+  spotify: 'https://open.spotify.com/artist/4ITyby2i26NhM69kXNpIdR'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/ben_lamar_gay.jpg
 biography_enhanced_at: '2025-10-29T16:41:26.253226'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- International Anthem Records - Ben LaMar Gay artist profile
-- New York Live Arts - Ben LaMar Gay artist profile
-- I Care If You Listen - 5 Questions to Ben LaMar Gay
-- Nonesuch Records - Ben LaMar Gay artist profile
-- Périscope Lyon - Ben LaMar Gay Ensemble concert information
-- 'PostGenre - Folklore: A Conversation with Ben LaMar Gay'
-- Red Bull - Ben LaMar Gay artist profile
+  - International Anthem Records - Ben LaMar Gay artist profile
+  - New York Live Arts - Ben LaMar Gay artist profile
+  - I Care If You Listen - 5 Questions to Ben LaMar Gay
+  - Nonesuch Records - Ben LaMar Gay artist profile
+  - Périscope Lyon - Ben LaMar Gay Ensemble concert information
+  - 'PostGenre - Folklore: A Conversation with Ben LaMar Gay'
+  - Red Bull - Ben LaMar Gay artist profile
 network_extracted: true
 entry_created: '2025-10-29T16:41:26.253246'
 last_updated: '2025-12-23T08:16:05.250876'
+origin: 'Chicago, Illinois, United States'
+artist_type: person
 ---
 
 ![](ben_lamar_gay.jpg)

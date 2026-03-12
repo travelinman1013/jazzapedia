@@ -3,37 +3,40 @@ biography_enhanced_at: '2026-01-01T01:06:30.042281'
 enhancement_provider: perplexity
 entry_created: '2026-01-01T01:06:30.042305'
 external_urls:
-  spotify: https://open.spotify.com/artist/54gzQqqacSSDcHlRijAF24
+  spotify: 'https://open.spotify.com/artist/54gzQqqacSSDcHlRijAF24'
   wikipedia: ''
 genres: []
 image_path: ''
 last_updated: '2026-01-01T01:06:30.042309'
 musical_connections:
   collaborators:
-  - Henry Levine
-  - Red Nichols
-  - Frank Harris (Irving Kaufman)
-  - Bill Reinhardt
+    - Henry Levine
+    - Red Nichols
+    - Frank Harris (Irving Kaufman)
+    - Bill Reinhardt
   influenced: []
   mentors: []
 network_extracted: true
-origin: New York City, New York, United States
+origin: 'New York City, New York, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Bill_Reinhardt
-- http://www.doctorjazz.co.uk/page37.html
-- https://www.youtube.com/watch?v=TvEMuaX1npw
-- https://adp.library.ucsb.edu/index.php/mastertalent/detail/307572/Cass_Hagan_and_his_Hotel_Manger_Orchestra
-- https://syncopatedtimes.com/profiles-in-jazz-red-nichols/
-- https://www.youtube.com/watch?v=7VRNJGKYX1w
-- https://onthisdayinjazzagemusic.substack.com/p/september-30th-19-09-30
+  - 'https://en.wikipedia.org/wiki/Bill_Reinhardt'
+  - 'http://www.doctorjazz.co.uk/page37.html'
+  - 'https://www.youtube.com/watch?v=TvEMuaX1npw'
+  - >-
+    https://adp.library.ucsb.edu/index.php/mastertalent/detail/307572/Cass_Hagan_and_his_Hotel_Manger_Orchestra
+  - 'https://syncopatedtimes.com/profiles-in-jazz-red-nichols/'
+  - 'https://www.youtube.com/watch?v=7VRNJGKYX1w'
+  - 'https://onthisdayinjazzagemusic.substack.com/p/september-30th-19-09-30'
 spotify_data:
   followers: 1
   id: 54gzQqqacSSDcHlRijAF24
   popularity: 0
-  url: https://open.spotify.com/artist/54gzQqqacSSDcHlRijAF24
+  url: 'https://open.spotify.com/artist/54gzQqqacSSDcHlRijAF24'
 status: active
-title: CASS HAGAN AND HIS ORCHESTRA
+title: Cass Hagan and His Orchestra
+birth_date: '1904'
+artist_type: person
 ---
 
 ![]()

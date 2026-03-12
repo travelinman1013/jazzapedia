@@ -3,18 +3,22 @@ title: David Sanborn
 wiki_slug: david-sanborn
 schema_version: 2
 status: active
-birth_place: Tampa, Florida, United States (birthplace); Kirkwood, Missouri, United States (childhood home)
+birth_place: >-
+  Tampa, Florida, United States (birthplace); Kirkwood, Missouri, United States
+  (childhood home)
 genres:
-- smooth jazz
-- jazz fusion
-- jazz
-- cool jazz
-- jazz funk
+  - smooth jazz
+  - jazz fusion
+  - jazz
+  - cool jazz
+  - jazz funk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/david_sanborn.jpg
   caption: David Sanborn
   background: solo_singer
-  origin: Tampa, Florida, United States (birthplace); Kirkwood, Missouri, United States (childhood home)
+  origin: >-
+    Tampa, Florida, United States (birthplace); Kirkwood, Missouri, United
+    States (childhood home)
 audio_profile:
   tempo_avg: 122.9
   energy_avg: 0.499
@@ -30,62 +34,66 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Paul Butterfield Blues Band
-  - David Bowie
-  - Stevie Wonder
-  - The Rolling Stones
-  - Bob James
-  - Luther Vandross
-  - Paul Simon
-  - James Taylor
-  - Jools Holland
-  - Jack DeJohnette
-  - Bill Frisell
-  - Christian McBride
-  - Eric Clapton
+    - Paul Butterfield Blues Band
+    - David Bowie
+    - Stevie Wonder
+    - The Rolling Stones
+    - Bob James
+    - Luther Vandross
+    - Paul Simon
+    - James Taylor
+    - Jools Holland
+    - Jack DeJohnette
+    - Bill Frisell
+    - Christian McBride
+    - Eric Clapton
   influenced:
-  - Contemporary smooth jazz saxophonists
-  - Pop and R&B musicians
+    - Contemporary smooth jazz saxophonists
+    - Pop and R&B musicians
   mentors:
-  - Hank Crawford
-  - Frederick Hemke
-  - J.R. Monterose
-  - Gil Evans
-  - George Coleman
+    - Hank Crawford
+    - Frederick Hemke
+    - J.R. Monterose
+    - Gil Evans
+    - George Coleman
 spotify_data:
   followers: 184025
   id: 7vNcTk9TgKF0qDsS87nWGE
   popularity: 44
-  url: https://open.spotify.com/artist/7vNcTk9TgKF0qDsS87nWGE
+  url: 'https://open.spotify.com/artist/7vNcTk9TgKF0qDsS87nWGE'
 discography_enriched: true
 top_tracks:
-- Maputo (Double Vision)
-- Rikke (Songs From The Night Before)
-- Maputo - 2024 Remastered (Double Vision (2024 Remastered))
-- Ain't No Sunshine (Inside)
-- Isn't She Lovely (Timeagain)
-- Since I Fell For You (feat. Al Jarreau) (Double Vision)
-- The Dream (A Change of Heart)
-- I Put A Spell On You (The Women Who Raised Me)
-- First Love
-- Windmills of Your Mind (feat. Randy Crawford)
+  - Maputo (Double Vision)
+  - Rikke (Songs From The Night Before)
+  - Maputo - 2024 Remastered (Double Vision (2024 Remastered))
+  - Ain't No Sunshine (Inside)
+  - Isn't She Lovely (Timeagain)
+  - Since I Fell For You (feat. Al Jarreau) (Double Vision)
+  - The Dream (A Change of Heart)
+  - I Put A Spell On You (The Women Who Raised Me)
+  - First Love
+  - Windmills of Your Mind (feat. Randy Crawford)
 external_urls:
-  spotify: https://open.spotify.com/artist/7vNcTk9TgKF0qDsS87nWGE
+  spotify: 'https://open.spotify.com/artist/7vNcTk9TgKF0qDsS87nWGE'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/david_sanborn.jpg
 biography_enhanced_at: '2025-11-28T07:33:57.934637'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Northwestern Bienen School of Music - David Sanborn (1945-2024)
-- David Sanborn Official Website - Biography
-- IMDb - David Sanborn Biography
-- St. Louis Public Radio - Saxophonist David Sanborn, 6-time Grammy winner, dies at 78
-- WICN - Artist of The Month - July 2025 David Sanborn
-- 'JazzTimes - David Sanborn: The Blues and the Abstract Truth'
+  - Northwestern Bienen School of Music - David Sanborn (1945-2024)
+  - David Sanborn Official Website - Biography
+  - IMDb - David Sanborn Biography
+  - >-
+    St. Louis Public Radio - Saxophonist David Sanborn, 6-time Grammy winner,
+    dies at 78
+  - WICN - Artist of The Month - July 2025 David Sanborn
+  - 'JazzTimes - David Sanborn: The Blues and the Abstract Truth'
 network_extracted: true
 entry_created: '2025-11-28T07:33:57.934652'
 last_updated: '2025-12-23T08:16:07.590725'
+death_date: '2024-05-12'
+artist_type: person
 ---
 
 ![](david_sanborn.jpg)

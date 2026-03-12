@@ -1,23 +1,23 @@
 ---
-title: TED HAWKINS
+title: Ted Hawkins
 wiki_slug: ted-hawkins
 schema_version: 2
 status: active
-birth_place: Biloxi, Mississippi, United States
+birth_place: 'Biloxi, Mississippi, United States'
 genres:
-- soul blues
+  - soul blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ted_hawkins.jpg
   caption: TED HAWKINS
   background: solo_singer
-  origin: Biloxi, Mississippi, United States
+  origin: 'Biloxi, Mississippi, United States'
 audio_profile:
   tempo_avg: 117.2
   energy_avg: 0.31
   valence_avg: 0.594
   danceability_avg: 0.588
   acousticness_avg: 0.775
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -12.6
   speechiness_avg: 0.054
   liveness_avg: 0.168
@@ -26,47 +26,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bruce Bromberg
-  - Phillip Walker
-  - Elizabeth Hawkins
+    - Bruce Bromberg
+    - Phillip Walker
+    - Elizabeth Hawkins
   influenced:
-  - James Hunter
+    - James Hunter
   mentors:
-  - Professor Longhair
-  - Sam Cooke
+    - Professor Longhair
+    - Sam Cooke
 spotify_data:
   followers: 36402
   id: 1clAnI6PODaoVlbzlUPOfU
   popularity: 34
-  url: https://open.spotify.com/artist/1clAnI6PODaoVlbzlUPOfU
+  url: 'https://open.spotify.com/artist/1clAnI6PODaoVlbzlUPOfU'
 discography_enriched: true
 top_tracks:
-- Sorry You're Sick (Watch Your Step)
-- Long As I Can See The Light (The Next Hundred Years)
-- Bring It Home Daddy (Watch Your Step)
-- Stop Your Crying (Watch Your Step)
-- There Stands The Glass (The Next Hundred Years)
-- Peace & Happiness (Watch Your Step)
-- The Lost Ones (Watch Your Step)
-- Big Things (The Next Hundred Years)
-- Biloxi (The Next Hundred Years)
-- If You Love Me (Watch Your Step)
+  - Sorry You're Sick (Watch Your Step)
+  - Long As I Can See The Light (The Next Hundred Years)
+  - Bring It Home Daddy (Watch Your Step)
+  - Stop Your Crying (Watch Your Step)
+  - There Stands The Glass (The Next Hundred Years)
+  - Peace & Happiness (Watch Your Step)
+  - The Lost Ones (Watch Your Step)
+  - Big Things (The Next Hundred Years)
+  - Biloxi (The Next Hundred Years)
+  - If You Love Me (Watch Your Step)
 external_urls:
-  spotify: https://open.spotify.com/artist/1clAnI6PODaoVlbzlUPOfU
-  wikipedia: https://en.wikipedia.org/wiki/Ted_Hawkins
+  spotify: 'https://open.spotify.com/artist/1clAnI6PODaoVlbzlUPOfU'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ted_Hawkins'
 image_path: 03_Resources/source_material/ArtistPortraits/ted_hawkins.jpg
 biography_enhanced_at: '2025-10-28T09:13:46.521391'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Ted_Hawkins
-- https://www.last.fm/music/Ted+Hawkins/+wiki
-- https://fromthevaults-boppinbob.blogspot.com/2024/10/ted-hawkins-born-28-october-1936.html
-- https://www.latimes.com/archives/la-xpm-1995-01-04-me-16074-story.html
-- https://www.wmky.org/arts-culture/2015-11-05/ted-hawkins
+  - 'https://en.wikipedia.org/wiki/Ted_Hawkins'
+  - 'https://www.last.fm/music/Ted+Hawkins/+wiki'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2024/10/ted-hawkins-born-28-october-1936.html
+  - 'https://www.latimes.com/archives/la-xpm-1995-01-04-me-16074-story.html'
+  - 'https://www.wmky.org/arts-culture/2015-11-05/ted-hawkins'
 network_extracted: true
 entry_created: '2025-10-28T09:13:46.521396'
 last_updated: '2025-12-23T08:16:16.422161'
+birth_date: '1936-10-28'
+death_date: '1995-01-01'
+artist_type: person
 ---
 
 ![](ted_hawkins.jpg)

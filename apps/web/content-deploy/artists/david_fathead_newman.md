@@ -1,21 +1,21 @@
 ---
-title: david fathead newman
+title: David Fathead Newman
 wiki_slug: david-fathead-newman
 schema_version: 2
 status: active
-birth_place: Corsicana, Texas, USA
+birth_place: 'Corsicana, Texas, USA'
 genres:
-- bebop
-- cool jazz
-- hard bop
-- jazz
-- jazz funk
-- soul jazz
+  - bebop
+  - cool jazz
+  - hard bop
+  - jazz
+  - jazz funk
+  - soul jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/david_fathead_newman.jpg
   caption: david fathead newman
   background: solo_singer
-  origin: Corsicana, Texas, USA
+  origin: 'Corsicana, Texas, USA'
 audio_profile:
   tempo_avg: 112.5
   energy_avg: 0.451
@@ -31,45 +31,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Herbie Mann
-  - Dr. John
-  - Aretha Franklin
+    - Herbie Mann
+    - Dr. John
+    - Aretha Franklin
   influenced:
-  - Various contemporary jazz musicians
+    - Various contemporary jazz musicians
   mentors:
-  - Ray Charles
-  - Henry 'Buster' Smith
+    - Ray Charles
+    - Henry 'Buster' Smith
 spotify_data:
   followers: 7659
   id: 5OPNYwuIto3q4ac46rIIZC
   popularity: 15
-  url: https://open.spotify.com/artist/5OPNYwuIto3q4ac46rIIZC
+  url: 'https://open.spotify.com/artist/5OPNYwuIto3q4ac46rIIZC'
 discography_enriched: true
 top_tracks:
-- Hard Times - Remaster (Ray Charles Presents David Newman - Fathead)
-- Everything Must Change
-- 'Hard Times (Ray Charles Essentials: The Greatest Feel Good Jazz and Soul Hits)'
-- Willow Weep for Me - Remaster (Ray Charles Presents David Newman - Fathead)
-- Buster's Tune (Return To The Wide Open Spaces)
-- Things Ain't What They Used To Be (Return To The Wide Open Spaces)
-- Introduction (Return To The Wide Open Spaces)
-- These Foolish Things (Return To The Wide Open Spaces)
-- When Your Lover Has Gone (Bye 'N' Bye)
-- Hard Times (Return To The Wide Open Spaces)
+  - Hard Times - Remaster (Ray Charles Presents David Newman - Fathead)
+  - Everything Must Change
+  - >-
+    Hard Times (Ray Charles Essentials: The Greatest Feel Good Jazz and Soul
+    Hits)
+  - Willow Weep for Me - Remaster (Ray Charles Presents David Newman - Fathead)
+  - Buster's Tune (Return To The Wide Open Spaces)
+  - Things Ain't What They Used To Be (Return To The Wide Open Spaces)
+  - Introduction (Return To The Wide Open Spaces)
+  - These Foolish Things (Return To The Wide Open Spaces)
+  - When Your Lover Has Gone (Bye 'N' Bye)
+  - Hard Times (Return To The Wide Open Spaces)
 external_urls:
-  spotify: https://open.spotify.com/artist/5OPNYwuIto3q4ac46rIIZC
-  wikipedia: https://en.wikipedia.org/wiki/David_Fathead_Newman
+  spotify: 'https://open.spotify.com/artist/5OPNYwuIto3q4ac46rIIZC'
+  wikipedia: 'https://en.wikipedia.org/wiki/David_Fathead_Newman'
 image_path: 03_Resources/source_material/ArtistPortraits/david_fathead_newman.jpg
 biography_enhanced_at: '2025-10-20T09:27:46.490644'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Texas State Historical Association
-- All About Jazz
-- WICN
+  - Texas State Historical Association
+  - All About Jazz
+  - WICN
 network_extracted: true
 entry_created: '2025-10-20T09:27:46.490655'
 last_updated: '2025-12-23T08:16:07.548987'
+birth_date: '1933-02-24'
+death_date: '2009-01-20'
+artist_type: person
 ---
 
 ![](david_fathead_newman.jpg)

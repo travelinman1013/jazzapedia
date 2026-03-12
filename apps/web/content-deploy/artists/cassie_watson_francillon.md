@@ -1,39 +1,40 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-20T01:20:10.794609'
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-20T01:20:10.794616'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/59dfbdbd-6f3e-46ea-85ae-2b7cb97ef1b4
-  spotify: https://open.spotify.com/artist/6LuBYCozHo0lrFf7CnkgMX
+  musicbrainz: 'https://musicbrainz.org/artist/59dfbdbd-6f3e-46ea-85ae-2b7cb97ef1b4'
+  spotify: 'https://open.spotify.com/artist/6LuBYCozHo0lrFf7CnkgMX'
   wikipedia: Not found
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/cassie_watson_francillon.jpg
 last_updated: '2026-01-20T01:20:10.794616'
 musical_connections:
   collaborators:
-  - Sulyiman
-  - Mykia Jovan
+    - Sulyiman
+    - Mykia Jovan
   influenced: []
   mentors:
-  - Brandee Younger
-  - Gabriella Pinto
-  - Mia Theodoratus
+    - Brandee Younger
+    - Gabriella Pinto
+    - Mia Theodoratus
 musicbrainz_id: 59dfbdbd-6f3e-46ea-85ae-2b7cb97ef1b4
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.cassandharp.com
-- https://www.wwoz.org/events/823856
-- https://nolajazzmuseum.org/events/2021/3/26/qtunes
+  - 'https://www.cassandharp.com'
+  - 'https://www.wwoz.org/events/823856'
+  - 'https://nolajazzmuseum.org/events/2021/3/26/qtunes'
 spotify_data:
   followers: 323
   id: 6LuBYCozHo0lrFf7CnkgMX
   popularity: 16
-  url: https://open.spotify.com/artist/6LuBYCozHo0lrFf7CnkgMX
+  url: 'https://open.spotify.com/artist/6LuBYCozHo0lrFf7CnkgMX'
 status: active
 title: Cassie Watson Francillon
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](cassie_watson_francillon.jpg)

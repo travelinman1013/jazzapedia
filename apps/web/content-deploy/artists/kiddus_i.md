@@ -5,21 +5,21 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: 1944-12
-birth_place: Saint Mary
+birth_place: 'Saint Mary Parish, Jamaica, United States'
 genres: []
 instruments:
-- lead vocals
+  - lead vocals
 associated_acts:
-- begin: '1971'
-  end: '1978'
-  instruments: []
-  mbid: eebd211e-a641-4447-9409-411a0faeec56
-  name: Ras Michael & The Sons of Negus
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 99cd4fa2-a6cb-41a3-b6e0-e9f27da0c9d0
-  name: Inna De Yard All Stars
+  - begin: '1971'
+    end: '1978'
+    instruments: []
+    mbid: eebd211e-a641-4447-9409-411a0faeec56
+    name: Ras Michael & The Sons of Negus
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 99cd4fa2-a6cb-41a3-b6e0-e9f27da0c9d0
+    name: Inna De Yard All Stars
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/kiddus_i.jpg
   caption: Kiddus I
@@ -41,44 +41,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Aston Barrett
-  - Lee Perry
-  - Earl 'Chinna' Smith
-  - Leroy 'Horsemouth' Wallace
-  - Ken Boothe
+    - Aston Barrett
+    - Lee Perry
+    - Earl 'Chinna' Smith
+    - Leroy 'Horsemouth' Wallace
+    - Ken Boothe
   influenced: []
   mentors:
-  - Ras Michael
+    - Ras Michael
 spotify_data:
   followers: 499
   id: 631Apk8fsf3K9ZkONgp4og
   popularity: 3
-  url: https://open.spotify.com/artist/631Apk8fsf3K9ZkONgp4og
+  url: 'https://open.spotify.com/artist/631Apk8fsf3K9ZkONgp4og'
 discography_enriched: true
 top_tracks:
-- Old White Miserable & Rich (Old White Miserable & Rich)
-- Ya U (Lover Boy)
-- Talk.2.U (Talk.2.U)
-- Time (1gdhr) 2020 (TIME)
-- i like it/. (i like it/.)
-- PAIR
-- Heart (Heart)
-- Kiddus' Interlude (The Pursuit)
-- Closer (The Pursuit)
-- Here Comes The Pain! (Ooh La La) 2022 (PAIN)
+  - Old White Miserable & Rich (Old White Miserable & Rich)
+  - Ya U (Lover Boy)
+  - Talk.2.U (Talk.2.U)
+  - Time (1gdhr) 2020 (TIME)
+  - i like it/. (i like it/.)
+  - PAIR
+  - Heart (Heart)
+  - Kiddus' Interlude (The Pursuit)
+  - Closer (The Pursuit)
+  - Here Comes The Pain! (Ooh La La) 2022 (PAIN)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/90eb2af2-79af-4e72-ad60-985753ce689d
-  spotify: https://open.spotify.com/artist/631Apk8fsf3K9ZkONgp4og
-  wikipedia: https://en.wikipedia.org/wiki/Kiddus_I
+  musicbrainz: 'https://musicbrainz.org/artist/90eb2af2-79af-4e72-ad60-985753ce689d'
+  spotify: 'https://open.spotify.com/artist/631Apk8fsf3K9ZkONgp4og'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kiddus_I'
 image_path: 03_Resources/source_material/ArtistPortraits/kiddus_i.jpg
 biography_enhanced_at: '2025-12-22T01:50:13.665026'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Kiddus_I
-- https://www.reggaeville.com/artist-details/kiddus-i/about/
-- https://unitedreggae.com/articles/n1355/081913/interview-kiddus-i
-- https://reggaediscography.blogspot.com/2018/05/kiddus-i-profile-reggae-artist.html
+  - 'https://en.wikipedia.org/wiki/Kiddus_I'
+  - 'https://www.reggaeville.com/artist-details/kiddus-i/about/'
+  - 'https://unitedreggae.com/articles/n1355/081913/interview-kiddus-i'
+  - >-
+    https://reggaediscography.blogspot.com/2018/05/kiddus-i-profile-reggae-artist.html
 network_extracted: true
 entry_created: '2025-12-22T01:50:13.665037'
 last_updated: '2025-12-23T08:16:11.362895'

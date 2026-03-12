@@ -1,24 +1,24 @@
 ---
-title: fela kuti
+title: Fela Kuti
 wiki_slug: fela-kuti
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1938-10-15'
-birth_place: Abeokuta, Ogun State, Nigeria
+birth_place: 'Abeokuta, Ogun State, Nigeria'
 death_date: '1997-08-02'
 genres:
-- afrobeat
-- highlife
-- afropop
+  - afrobeat
+  - highlife
+  - afropop
 instruments:
-- eponymous
+  - eponymous
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/fela_kuti.jpg
   caption: fela kuti
   background: non_vocal_instrumentalist
   born: '1938-10-15'
-  origin: Abeokuta, Ogun State, Nigeria
+  origin: 'Abeokuta, Ogun State, Nigeria'
   died: '1997-08-02'
 audio_profile:
   tempo_avg: 112.9
@@ -35,50 +35,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tony Allen
-  - Africa 70
-  - Egypt 80
+    - Tony Allen
+    - Africa 70
+    - Egypt 80
   influenced:
-  - Femi Kuti
-  - Seun Kuti
-  - Antibalas
-  - Burna Boy
+    - Femi Kuti
+    - Seun Kuti
+    - Antibalas
+    - Burna Boy
   mentors:
-  - Reverend Israel Ransome-Kuti
-  - Victor Olaiya
-  - Miles Davis, John Coltrane
+    - Reverend Israel Ransome-Kuti
+    - Victor Olaiya
+    - 'Miles Davis, John Coltrane'
 spotify_data:
   followers: 672899
   id: 5CG9X521RDFWCuAhlo6QoR
   popularity: 46
-  url: https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR
+  url: 'https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR'
 discography_enriched: true
 top_tracks:
-- Water No Get Enemy
-- Zombie (Zombie)
-- Expensive Shit
-- Gentleman (Gentleman)
-- Water No Get Enemy
-- Lady
-- Let's Start (Edit with Intro)
-- Trouble Sleep Yanga Wake Am (Roforofo Fight)
-- Lady (Ezra Collective Version)
-- Water No Get Enemy
+  - Water No Get Enemy
+  - Zombie (Zombie)
+  - Expensive Shit
+  - Gentleman (Gentleman)
+  - Water No Get Enemy
+  - Lady
+  - Let's Start (Edit with Intro)
+  - Trouble Sleep Yanga Wake Am (Roforofo Fight)
+  - Lady (Ezra Collective Version)
+  - Water No Get Enemy
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6514cffa-fbe0-4965-ad88-e998ead8a82a
-  spotify: https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR
-  wikipedia: https://en.wikipedia.org/wiki/Fela_Kuti
+  musicbrainz: 'https://musicbrainz.org/artist/6514cffa-fbe0-4965-ad88-e998ead8a82a'
+  spotify: 'https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR'
+  wikipedia: 'https://en.wikipedia.org/wiki/Fela_Kuti'
 image_path: 03_Resources/source_material/ArtistPortraits/fela_kuti.jpg
 biography_enhanced_at: '2025-10-19T12:35:26.858263'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Fela_Kuti
-- https://www.britannica.com/biography/Fela-Kuti
-- https://felakuti.com/story
-- https://www.biography.com/musicians/fela-kuti
-- https://www.ebsco.com/research-starters/history/fela-kuti
-- https://aaregistry.org/story/fela-kuti-musician-and-nigerian-activist-born/
+  - 'https://en.wikipedia.org/wiki/Fela_Kuti'
+  - 'https://www.britannica.com/biography/Fela-Kuti'
+  - 'https://felakuti.com/story'
+  - 'https://www.biography.com/musicians/fela-kuti'
+  - 'https://www.ebsco.com/research-starters/history/fela-kuti'
+  - 'https://aaregistry.org/story/fela-kuti-musician-and-nigerian-activist-born/'
 network_extracted: true
 entry_created: '2025-10-19T12:35:26.858275'
 last_updated: '2025-12-23T08:16:08.602353'
@@ -86,9 +86,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:52:11.719815'
 musicbrainz_id: 6514cffa-fbe0-4965-ad88-e998ead8a82a
 tags:
-- african
-- afro-beat
-- afrobeat
+  - african
+  - afro-beat
+  - afrobeat
+is_active: false
 ---
 
 ![](fela_kuti.jpg)

@@ -2,15 +2,15 @@
 title: LCD Soundsystem
 wiki_slug: lcd-soundsystem
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '2001'
 genres:
-- alternative dance
-- electronic rock
-- new rave
+  - alternative dance
+  - electronic rock
+  - new rave
 instruments:
-- original
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lcd_soundsystem.jpg
   caption: LCD Soundsystem
@@ -31,68 +31,69 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Pat Mahoney
-  - Tim Goldsworthy
-  - DFA Records artists (e.g., The Rapture)
+    - Pat Mahoney
+    - Tim Goldsworthy
+    - 'DFA Records artists (e.g., The Rapture)'
   influenced:
-  - The broader dance‑punk and indie‑dance scene of the 2000s
-  - Subsequent alternative dance / electronic‑leaning indie artists
+    - The broader dance‑punk and indie‑dance scene of the 2000s
+    - Subsequent alternative dance / electronic‑leaning indie artists
   mentors:
-  - Six Finger Satellite
-  - Liquid Liquid
-  - Rites of Spring
+    - Six Finger Satellite
+    - Liquid Liquid
+    - Rites of Spring
 spotify_data:
   followers: 1254681
   id: 066X20Nz7iquqkkCW6Jxy6
   popularity: 62
-  url: https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6
+  url: 'https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6'
 discography_enriched: true
 top_tracks:
-- Dance Yrself Clean (This Is Happening)
-- All My Friends (Sound of Silver)
-- I Can Change (This Is Happening)
-- Daft Punk Is Playing at My House (LCD Soundsystem)
-- Dancer (TANGK)
-- oh baby (american dream)
-- Someone Great (Sound of Silver)
-- Home - Tom Sharkett Edit
-- Home (This Is Happening)
-- New York, I Love You but You're Bringing Me Down (Sound of Silver)
+  - Dance Yrself Clean (This Is Happening)
+  - All My Friends (Sound of Silver)
+  - I Can Change (This Is Happening)
+  - Daft Punk Is Playing at My House (LCD Soundsystem)
+  - Dancer (TANGK)
+  - oh baby (american dream)
+  - Someone Great (Sound of Silver)
+  - Home - Tom Sharkett Edit
+  - Home (This Is Happening)
+  - 'New York, I Love You but You''re Bringing Me Down (Sound of Silver)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2aaf7396-6ab8-40f3-9776-a41c42c8e26b
-  spotify: https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6
-  wikipedia: https://en.wikipedia.org/wiki/LCD_Soundsystem
+  musicbrainz: 'https://musicbrainz.org/artist/2aaf7396-6ab8-40f3-9776-a41c42c8e26b'
+  spotify: 'https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6'
+  wikipedia: 'https://en.wikipedia.org/wiki/LCD_Soundsystem'
 image_path: 03_Resources/source_material/ArtistPortraits/lcd_soundsystem.jpg
 biography_enhanced_at: '2025-12-11T04:19:37.105014'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.apoplife.nl/lcd-soundsystem-and-the-story-of-the-debut-album/
-- https://firebirdmagazine.com/news/lcd-soundsystem
-- https://classicalbumsundays.com/album-of-the-month-lcd-soundsystem-sound-of-silver/
-- https://www.redbullmusicacademy.com/lectures/james-murphy/
-- https://www.fandango.com/people/lcd-soundsystem-386681/biography
+  - 'https://en.apoplife.nl/lcd-soundsystem-and-the-story-of-the-debut-album/'
+  - 'https://firebirdmagazine.com/news/lcd-soundsystem'
+  - >-
+    https://classicalbumsundays.com/album-of-the-month-lcd-soundsystem-sound-of-silver/
+  - 'https://www.redbullmusicacademy.com/lectures/james-murphy/'
+  - 'https://www.fandango.com/people/lcd-soundsystem-386681/biography'
 network_extracted: true
 entry_created: '2025-12-11T04:19:37.105023'
 last_updated: '2025-12-23T08:16:11.678421'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ef9c1126-9c75-4868-94a8-e880fc6d4a7f
-  name: Tim Goldsworthy
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 6b70c46c-5c83-4cc7-99c1-e76b68919c6a
-  name: James Murphy
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ef9c1126-9c75-4868-94a8-e880fc6d4a7f
+    name: Tim Goldsworthy
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 6b70c46c-5c83-4cc7-99c1-e76b68919c6a
+    name: James Murphy
 musicbrainz_id: 2aaf7396-6ab8-40f3-9776-a41c42c8e26b
-origin: New York
+origin: 'New York City, New York, United States'
 tags:
-- alternative dance
-- dance-punk
-- electronic
+  - alternative dance
+  - dance-punk
+  - electronic
 ---
 
 ![](lcd_soundsystem.jpg)

@@ -1,46 +1,50 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-14T01:10:45.119025'
-birth_place: Rayne, Louisiana, USA
+birth_place: 'Rayne, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-14T01:10:45.119043'
 external_urls:
-  spotify: https://open.spotify.com/artist/6TdaDpGBUyjeHtwQfMNoOF
-  wikipedia: https://en.wikipedia.org/wiki/Jo-El_Sonnier
+  spotify: 'https://open.spotify.com/artist/6TdaDpGBUyjeHtwQfMNoOF'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jo-El_Sonnier'
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 image_path: 03_Resources/source_material/ArtistPortraits/jo_el_sonnier.jpg
 last_updated: '2026-01-14T01:10:45.119046'
 musical_connections:
   collaborators:
-  - Michael Doucet
-  - Eddy Raven
-  - Albert Lee
-  - Garth Hudson
+    - Michael Doucet
+    - Eddy Raven
+    - Albert Lee
+    - Garth Hudson
   influenced:
-  - Younger Cajun audiences and artists
+    - Younger Cajun audiences and artists
   mentors:
-  - Iry LeJeune
-  - Lawrence Walker
+    - Iry LeJeune
+    - Lawrence Walker
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://americana-uk.com/the-song-remains-jo-el-sonnier-1946-2024
-- https://www.offbeat.com/news/jo-el-sonnier-1946-2024/
-- https://www.rocky-52.net/chanteurss/sonnier_jo_el.htm
-- https://www.opry.com/artists/jo-el-sonnier
-- https://www.acadianmuseum.com/living-legend/jo-el-sonnier/
-- https://en.wikipedia.org/wiki/Jo-El_Sonnier
-- https://louisianamusichalloffame.org/jo-el-sonnier/
-- https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/jsonnier.htm.html
+  - 'https://americana-uk.com/the-song-remains-jo-el-sonnier-1946-2024'
+  - 'https://www.offbeat.com/news/jo-el-sonnier-1946-2024/'
+  - 'https://www.rocky-52.net/chanteurss/sonnier_jo_el.htm'
+  - 'https://www.opry.com/artists/jo-el-sonnier'
+  - 'https://www.acadianmuseum.com/living-legend/jo-el-sonnier/'
+  - 'https://en.wikipedia.org/wiki/Jo-El_Sonnier'
+  - 'https://louisianamusichalloffame.org/jo-el-sonnier/'
+  - >-
+    https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/jsonnier.htm.html
 spotify_data:
   followers: 4621
   id: 6TdaDpGBUyjeHtwQfMNoOF
   popularity: 26
-  url: https://open.spotify.com/artist/6TdaDpGBUyjeHtwQfMNoOF
+  url: 'https://open.spotify.com/artist/6TdaDpGBUyjeHtwQfMNoOF'
 status: active
 title: Jo_el Sonnier
+origin: 'Louisiana, United States'
+birth_date: '1946-10-02'
+death_date: '2024-01-13'
 ---
 
 ![](jo_el_sonnier.jpg)

@@ -1,16 +1,16 @@
 ---
-title: Dixie Cups
+title: The Dixie Cups
 wiki_slug: dixie-cups
 schema_version: 2
 status: active
 genres:
-- doo-wop
+  - doo-wop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/dixie_cups.jpg
   caption: Dixie Cups
   background: solo_singer
 audio_profile:
-  tempo_avg: 118.0
+  tempo_avg: 118
   energy_avg: 0.5
   valence_avg: 0.818
   danceability_avg: 0.72
@@ -24,48 +24,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Barbara Ann Hawkins
-  - Rosa Lee Hawkins
-  - Joan Marie Johnson
-  - Dale McMickle
-  - Althelgra Neville
+    - Barbara Ann Hawkins
+    - Rosa Lee Hawkins
+    - Joan Marie Johnson
+    - Dale McMickle
+    - Althelgra Neville
   influenced:
-  - Various girl groups
+    - Various girl groups
   mentors:
-  - Joe Jones
-  - Jerry Leiber and Mike Stoller
+    - Joe Jones
+    - Jerry Leiber and Mike Stoller
 spotify_data:
   followers: 80762
   id: 7ICvZfP4VHAPZ5Wdt03772
   popularity: 46
-  url: https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772
+  url: 'https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772'
 discography_enriched: true
 top_tracks:
-- 'Chapel Of Love (The Very Best of The Dixie Cups: Chapel of Love)'
-- Chapel Of Love (All Grown Up)
-- 'Iko Iko (The Very Best of The Dixie Cups: Chapel of Love)'
-- Chapel Of Love (Full Metal Jacket (Original Motion Picture Soundtrack))
-- Iko Iko (All Grown Up)
-- 'I''m Gonna Get You Yet (The Very Best of The Dixie Cups: Chapel of Love)'
-- Chapel of Love (Chapel of Love)
-- Chapel Of Love - Mono / Remastered 2022 (Chapel of Love (Sun Records 70th / Mono / Remastered 2022))
-- Iko Iko - Original (The Dixie Cups' Another Boy Like Mine)
-- 'People Say (The Very Best of The Dixie Cups: Chapel of Love)'
+  - 'Chapel Of Love (The Very Best of The Dixie Cups: Chapel of Love)'
+  - Chapel Of Love (All Grown Up)
+  - 'Iko Iko (The Very Best of The Dixie Cups: Chapel of Love)'
+  - Chapel Of Love (Full Metal Jacket (Original Motion Picture Soundtrack))
+  - Iko Iko (All Grown Up)
+  - 'I''m Gonna Get You Yet (The Very Best of The Dixie Cups: Chapel of Love)'
+  - Chapel of Love (Chapel of Love)
+  - >-
+    Chapel Of Love - Mono / Remastered 2022 (Chapel of Love (Sun Records 70th /
+    Mono / Remastered 2022))
+  - Iko Iko - Original (The Dixie Cups' Another Boy Like Mine)
+  - 'People Say (The Very Best of The Dixie Cups: Chapel of Love)'
 external_urls:
-  spotify: https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772
-  wikipedia: https://en.wikipedia.org/wiki/The_Dixie_Cups
+  spotify: 'https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Dixie_Cups'
 image_path: 03_Resources/source_material/ArtistPortraits/dixie_cups.jpg
 biography_enhanced_at: '2025-12-05T06:06:17.414870'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Dixie_Cups
-- https://www.imdb.com/name/nm1827481/bio/
-- https://lpintop.tripod.com/thedixiecups/id1.html
+  - 'https://en.wikipedia.org/wiki/The_Dixie_Cups'
+  - 'https://www.imdb.com/name/nm1827481/bio/'
+  - 'https://lpintop.tripod.com/thedixiecups/id1.html'
 network_extracted: true
 entry_created: '2025-12-05T06:06:17.414875'
 last_updated: '2025-12-23T08:16:07.788254'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![](dixie_cups.jpg)

@@ -5,114 +5,114 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1923-10-17'
-birth_place: Muskogee
+birth_place: 'Muskogee, Oklahoma, United States'
 death_date: '2004-05-06'
 genres:
-- cool jazz
-- bebop
-- jazz
-- hard bop
+  - cool jazz
+  - bebop
+  - jazz
+  - hard bop
 instruments:
-- guitar
-- eponymous
-- original
-- principal
-- electric guitar
-- 12 string guitar
-- classical guitar
-- mandoguitar
-associated_acts:
-- begin: '1951'
-  end: '1953'
-  instruments:
   - guitar
-  mbid: b083ec9b-27e0-4fda-801d-cb40861a0578
-  name: The Oscar Peterson Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e467b8f5-c1a5-48f8-9bc4-db632fd3f42b
-  name: The Candoli Brothers Sextet
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: d845e4bd-7555-4179-8522-db616cca103a
-  name: The Oscar Peterson Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: 9771c766-f2f2-460a-9d13-f3a625f80733
-  name: Buddy Bregman Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 60da301a-ad75-45be-9140-b3c4a91e47b2
-  name: Flip Phillips and His Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8ee4f465-4546-4669-a942-f6a56171ef48
-  name: Flip Phillips Sextet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5fa7fe2d-656d-42de-93e0-87c12d1312c8
-  name: Lionel Hampton and His All-Stars
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: a22f4b0e-99f8-4862-88c2-f0186a8dd3eb
-  name: The Poll Winners
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bb44d516-28ed-48d5-8c54-69cb526f6981
-  name: The Great Guitars
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - guitar
-  - original
-  mbid: c7fc2585-9c3b-48f8-a557-b51c3311282c
-  name: Barney Kessel Ensemble
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 1fbac580-2644-429d-9207-9d804b834994
-  name: Barney Kessel’s Allstars
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 9ee683a2-7134-47ba-a675-2574d2f1dd9b
-  name: Barney Kessel Plus Big Band
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 9f1f667e-df58-4860-83f5-5fde065ce7a2
-  name: Barney Kessel Septet
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: dbbd3791-49ce-4d08-b43c-49199918e1a9
-  name: The New Hot Club Quintet
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
   - principal
-  mbid: 06a8a13a-b8a3-4676-b09d-61cebe8c4884
-  name: Barney Kessel Quintet
+  - electric guitar
+  - 12 string guitar
+  - classical guitar
+  - mandoguitar
+associated_acts:
+  - begin: '1951'
+    end: '1953'
+    instruments:
+      - guitar
+    mbid: b083ec9b-27e0-4fda-801d-cb40861a0578
+    name: The Oscar Peterson Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e467b8f5-c1a5-48f8-9bc4-db632fd3f42b
+    name: The Candoli Brothers Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: d845e4bd-7555-4179-8522-db616cca103a
+    name: The Oscar Peterson Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 9771c766-f2f2-460a-9d13-f3a625f80733
+    name: Buddy Bregman Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 60da301a-ad75-45be-9140-b3c4a91e47b2
+    name: Flip Phillips and His Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8ee4f465-4546-4669-a942-f6a56171ef48
+    name: Flip Phillips Sextet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5fa7fe2d-656d-42de-93e0-87c12d1312c8
+    name: Lionel Hampton and His All-Stars
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: a22f4b0e-99f8-4862-88c2-f0186a8dd3eb
+    name: The Poll Winners
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bb44d516-28ed-48d5-8c54-69cb526f6981
+    name: The Great Guitars
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - guitar
+      - original
+    mbid: c7fc2585-9c3b-48f8-a557-b51c3311282c
+    name: Barney Kessel Ensemble
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 1fbac580-2644-429d-9207-9d804b834994
+    name: Barney Kessel’s Allstars
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 9ee683a2-7134-47ba-a675-2574d2f1dd9b
+    name: Barney Kessel Plus Big Band
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 9f1f667e-df58-4860-83f5-5fde065ce7a2
+    name: Barney Kessel Septet
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: dbbd3791-49ce-4d08-b43c-49199918e1a9
+    name: The New Hot Club Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - principal
+    mbid: 06a8a13a-b8a3-4676-b09d-61cebe8c4884
+    name: Barney Kessel Quintet
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/barney_kessel.jpg
   caption: Barney Kessel
@@ -135,55 +135,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Oscar Peterson
-  - Lester Young
-  - Charlie Parker
-  - Herb Ellis and Charlie Byrd
-  - The Beach Boys
+    - Oscar Peterson
+    - Lester Young
+    - Charlie Parker
+    - Herb Ellis and Charlie Byrd
+    - The Beach Boys
   influenced:
-  - Larry Coryell
-  - John Pisano
+    - Larry Coryell
+    - John Pisano
   mentors:
-  - Charlie Christian
+    - Charlie Christian
 spotify_data:
   followers: 38480
   id: 6pVkGhtBvjj1P52yn0tNLG
   popularity: 36
-  url: https://open.spotify.com/artist/6pVkGhtBvjj1P52yn0tNLG
+  url: 'https://open.spotify.com/artist/6pVkGhtBvjj1P52yn0tNLG'
 discography_enriched: true
 top_tracks:
-- Custard Puff (The Poll Winners Ride Again!)
-- A Foggy Day (Kessel Plays Standards)
-- Lison
-- Custard Puff (The Poll Winners Ride Again!)
-- Love Is Here To Stay (Kessel Plays Standards)
-- Moon River Cha Cha (Breakfast At Tiffany's)
-- On Green Dolphin Street (The Poll Winners)
-- The Look Of Love (Blue Guitar)
-- Jordu (The Poll Winners)
-- Satin Doll (The Poll Winners)
+  - Custard Puff (The Poll Winners Ride Again!)
+  - A Foggy Day (Kessel Plays Standards)
+  - Lison
+  - Custard Puff (The Poll Winners Ride Again!)
+  - Love Is Here To Stay (Kessel Plays Standards)
+  - Moon River Cha Cha (Breakfast At Tiffany's)
+  - On Green Dolphin Street (The Poll Winners)
+  - The Look Of Love (Blue Guitar)
+  - Jordu (The Poll Winners)
+  - Satin Doll (The Poll Winners)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/cf347470-d1d1-48b4-bda1-8171418ef5a7
-  spotify: https://open.spotify.com/artist/6pVkGhtBvjj1P52yn0tNLG
-  wikipedia: https://en.wikipedia.org/wiki/Barney_Kessel
+  musicbrainz: 'https://musicbrainz.org/artist/cf347470-d1d1-48b4-bda1-8171418ef5a7'
+  spotify: 'https://open.spotify.com/artist/6pVkGhtBvjj1P52yn0tNLG'
+  wikipedia: 'https://en.wikipedia.org/wiki/Barney_Kessel'
 image_path: 03_Resources/source_material/ArtistPortraits/barney_kessel.jpg
 biography_enhanced_at: '2025-10-26T12:29:09.726263'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.okhistory.org/publications/enc/entry?entry=KE012
-- https://concord.com/artist/barney-kessel/
-- https://exhibits.library.umkc.edu/s/kessel/page/about
-- https://sandiegotroubadour.com/barney-kessel-a-jazz-guitar-legend-in-his-own-right/
+  - 'https://www.okhistory.org/publications/enc/entry?entry=KE012'
+  - 'https://concord.com/artist/barney-kessel/'
+  - 'https://exhibits.library.umkc.edu/s/kessel/page/about'
+  - >-
+    https://sandiegotroubadour.com/barney-kessel-a-jazz-guitar-legend-in-his-own-right/
 network_extracted: true
 entry_created: '2025-10-26T12:29:09.726273'
 last_updated: '2025-12-23T08:16:05.111885'
 gender: Male
 musicbrainz_id: cf347470-d1d1-48b4-bda1-8171418ef5a7
 tags:
-- bebop
-- cool jazz
-- hard bop
+  - bebop
+  - cool jazz
+  - hard bop
+is_active: false
 ---
 
 ![](barney_kessel.jpg)

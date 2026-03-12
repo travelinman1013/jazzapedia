@@ -2,22 +2,22 @@
 artist_type: person
 biography_enhanced_at: '2026-01-03T01:47:56.000941'
 birth_date: '1986-04-24'
-birth_place: Nelson County, Virginia, United States
-disambiguation: blues-rock, hard rock, US
+birth_place: 'Nelson County, Virginia, United States'
+disambiguation: 'blues-rock, hard rock, US'
 enhancement_provider: perplexity
 entry_created: '2026-01-03T01:47:56.000948'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/82862ca5-7512-447c-95f0-cc7dad32cdb7
-  spotify: https://open.spotify.com/artist/20FIMCuMnwThVTtLBua2Rz
-  wikipedia: https://en.wikipedia.org/wiki/Eli_Cook_(musician)
+  musicbrainz: 'https://musicbrainz.org/artist/82862ca5-7512-447c-95f0-cc7dad32cdb7'
+  spotify: 'https://open.spotify.com/artist/20FIMCuMnwThVTtLBua2Rz'
+  wikipedia: 'https://en.wikipedia.org/wiki/Eli_Cook_(musician)'
 gender: Male
 genres:
-- blues rock
-- modern blues
-- blues
+  - blues rock
+  - modern blues
+  - blues
 image_path: 03_Resources/source_material/ArtistPortraits/eli_cook.jpg
 instruments:
-- guitar
+  - guitar
 last_updated: '2026-01-03T01:47:56.000949'
 musical_connections:
   collaborators: []
@@ -27,19 +27,20 @@ musicbrainz_id: 82862ca5-7512-447c-95f0-cc7dad32cdb7
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.mockingbird-cville.com/upcoming-events/elicook1
-- https://en.wikipedia.org/wiki/Eli_Cook_(musician)
-- https://themuck.org/program/2024-04-25
-- https://bluesboulevardjazzgreenville.com/artists/eli-cook/
-- https://www.elicook.com/about/
-- https://www.allaboutjazz.com/musicians/eli-cook/
+  - 'https://www.mockingbird-cville.com/upcoming-events/elicook1'
+  - 'https://en.wikipedia.org/wiki/Eli_Cook_(musician)'
+  - 'https://themuck.org/program/2024-04-25'
+  - 'https://bluesboulevardjazzgreenville.com/artists/eli-cook/'
+  - 'https://www.elicook.com/about/'
+  - 'https://www.allaboutjazz.com/musicians/eli-cook/'
 spotify_data:
   followers: 935
   id: 20FIMCuMnwThVTtLBua2Rz
   popularity: 5
-  url: https://open.spotify.com/artist/20FIMCuMnwThVTtLBua2Rz
+  url: 'https://open.spotify.com/artist/20FIMCuMnwThVTtLBua2Rz'
 status: active
-title: eli cook
+title: Eli Cook
+origin: 'Charlottesville, Virginia, United States'
 ---
 
 ![](eli_cook.jpg)

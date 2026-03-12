@@ -1,13 +1,13 @@
 ---
-title: ALLMAN BROTHERS BAND
+title: The Allman Brothers Band
 wiki_slug: allman-brothers-band
 schema_version: 2
 status: active
 genres:
-- southern rock
-- classic rock
-- blues rock
-- country rock
+  - southern rock
+  - classic rock
+  - blues rock
+  - country rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/allman_brothers_band.jpg
   caption: ALLMAN BROTHERS BAND
@@ -27,57 +27,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Duane Allman
-  - Gregg Allman
-  - Dickey Betts
-  - Berry Oakley
-  - Butch Trucks
-  - Jai Johanny “Jaimoe” Johanson
-  - Chuck Leavell
-  - Lamar Williams
+    - Duane Allman
+    - Gregg Allman
+    - Dickey Betts
+    - Berry Oakley
+    - Butch Trucks
+    - Jai Johanny “Jaimoe” Johanson
+    - Chuck Leavell
+    - Lamar Williams
   influenced:
-  - Lynyrd Skynyrd and the Southern rock movement
-  - Jam bands such as the Grateful Dead’s successors, Phish, and the wider jam‑band scene
-  - Generations of rock and blues guitarists
+    - Lynyrd Skynyrd and the Southern rock movement
+    - >-
+      Jam bands such as the Grateful Dead’s successors, Phish, and the wider
+      jam‑band scene
+    - Generations of rock and blues guitarists
   mentors:
-  - Muddy Waters
-  - Otis Redding, Joe Tex, Percy Sledge (via Jaimoe’s background)
-  - Jack Casady and Phil Lesh
+    - Muddy Waters
+    - 'Otis Redding, Joe Tex, Percy Sledge (via Jaimoe’s background)'
+    - Jack Casady and Phil Lesh
 spotify_data:
   followers: 1828112
   id: 4wQ3PyMz3WwJGI5uEqHUVR
   popularity: 63
-  url: https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR
+  url: 'https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR'
 discography_enriched: true
 top_tracks:
-- Midnight Rider (Idlewild South (Deluxe Edition Remastered))
-- Ramblin' Man (Brothers And Sisters (Super Deluxe))
-- Melissa (Eat A Peach)
-- Blue Sky (Eat A Peach)
-- Whipping Post (The Allman Brothers Band (Deluxe))
-- Ramblin' Man
-- Ain't Wastin' Time No More (Eat A Peach)
-- Jessica (Brothers And Sisters (Deluxe Edition))
-- Soulshine (Where It All Begins)
-- Little Martha (Eat A Peach)
+  - Midnight Rider (Idlewild South (Deluxe Edition Remastered))
+  - Ramblin' Man (Brothers And Sisters (Super Deluxe))
+  - Melissa (Eat A Peach)
+  - Blue Sky (Eat A Peach)
+  - Whipping Post (The Allman Brothers Band (Deluxe))
+  - Ramblin' Man
+  - Ain't Wastin' Time No More (Eat A Peach)
+  - Jessica (Brothers And Sisters (Deluxe Edition))
+  - Soulshine (Where It All Begins)
+  - Little Martha (Eat A Peach)
 external_urls:
-  spotify: https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR
-  wikipedia: https://en.wikipedia.org/wiki/The_Allman_Brothers_Band
+  spotify: 'https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Allman_Brothers_Band'
 image_path: 03_Resources/source_material/ArtistPortraits/allman_brothers_band.jpg
 biography_enhanced_at: '2025-12-09T04:50:36.993241'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Allman_Brothers_Band
-- https://www.georgiaencyclopedia.org/articles/arts-culture/allman-brothers-band/
-- https://thebighousemuseum.com/the-band/
-- https://visitmacon.org/music/allman-brothers/
-- https://liveforlivemusic.com/news/allman-brothers-first-rehearsal-1969/
+  - 'https://en.wikipedia.org/wiki/The_Allman_Brothers_Band'
+  - >-
+    https://www.georgiaencyclopedia.org/articles/arts-culture/allman-brothers-band/
+  - 'https://thebighousemuseum.com/the-band/'
+  - 'https://visitmacon.org/music/allman-brothers/'
+  - 'https://liveforlivemusic.com/news/allman-brothers-first-rehearsal-1969/'
 network_extracted: true
 entry_created: '2025-12-09T04:50:36.993249'
 last_updated: '2025-12-23T08:16:04.619736'
-origin: Jacksonville, Florida, United States
-
+origin: 'Jacksonville, Florida, United States'
+artist_type: person
 ---
 
 ![](allman_brothers_band.jpg)

@@ -1,14 +1,14 @@
 ---
-title: MILLS BLUE RHYTHM BAND
+title: Mills Blue Rhythm Band
 wiki_slug: mills-blue-rhythm-band
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 birth_date: '1930'
 genres:
-- swing music
-- big band
-- ragtime
+  - swing music
+  - big band
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/MILLS_BLUE_RHYTHM_BAND.jpg
   caption: MILLS BLUE RHYTHM BAND
@@ -29,54 +29,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lucky Millinder
-  - Louis Armstrong
-  - Henry 'Red' Allen
-  - J.C. Higginbotham
-  - Charlie Shavers
+    - Lucky Millinder
+    - Louis Armstrong
+    - Henry 'Red' Allen
+    - J.C. Higginbotham
+    - Charlie Shavers
   influenced:
-  - Lucky Millinder Orchestra
-  - Charlie Shavers
+    - Lucky Millinder Orchestra
+    - Charlie Shavers
   mentors:
-  - Irving Mills
+    - Irving Mills
 spotify_data:
   followers: 4314
   id: 140K78ooLk7HfhlWiTc9dM
   popularity: 14
-  url: https://open.spotify.com/artist/140K78ooLk7HfhlWiTc9dM
+  url: 'https://open.spotify.com/artist/140K78ooLk7HfhlWiTc9dM'
 discography_enriched: true
 top_tracks:
-- 'Let''s Have A Jubilee (Mills Blue Rhythm Band: 1933-1936)'
-- 'Spitfire (Mills Blue Rhythm Band: 1933-1936)'
-- 'Tallahassee (Mills Blue Rhythm Band: 1933-1936)'
-- 'Mr. Ghost Goes To Town (Mills Blue Rhythm Band: 1933-1936)'
-- Let's Have a Jubilee (Dancing Dogs)
-- Mr. Ghost Goes to Town (Dancing Dogs)
-- There's Rhythm in Harlem (Dancing Dogs)
-- Callin' Your Bluff (Dancing Dogs)
-- 'There''s Rhythm In Harlem (Mills Blue Rhythm Band: 1933-1936)'
-- Spitfire (Dancing Dogs)
+  - 'Let''s Have A Jubilee (Mills Blue Rhythm Band: 1933-1936)'
+  - 'Spitfire (Mills Blue Rhythm Band: 1933-1936)'
+  - 'Tallahassee (Mills Blue Rhythm Band: 1933-1936)'
+  - 'Mr. Ghost Goes To Town (Mills Blue Rhythm Band: 1933-1936)'
+  - Let's Have a Jubilee (Dancing Dogs)
+  - Mr. Ghost Goes to Town (Dancing Dogs)
+  - There's Rhythm in Harlem (Dancing Dogs)
+  - Callin' Your Bluff (Dancing Dogs)
+  - 'There''s Rhythm In Harlem (Mills Blue Rhythm Band: 1933-1936)'
+  - Spitfire (Dancing Dogs)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4cca8a8b-3831-4ca6-97a3-ee4095c98079
-  spotify: https://open.spotify.com/artist/140K78ooLk7HfhlWiTc9dM
-  wikipedia: https://en.wikipedia.org/wiki/Mills_Blue_Rhythm_Band
+  musicbrainz: 'https://musicbrainz.org/artist/4cca8a8b-3831-4ca6-97a3-ee4095c98079'
+  spotify: 'https://open.spotify.com/artist/140K78ooLk7HfhlWiTc9dM'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mills_Blue_Rhythm_Band'
 image_path: 03_Resources/source_material/ArtistPortraits/MILLS_BLUE_RHYTHM_BAND.jpg
 biography_enhanced_at: '2025-10-20T09:19:02.348154'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://the78rpmrecordspins.wordpress.com/2013/03/20/mills-blue-rhythm-band/
-- https://www.swingstreetradio.org/swings-unsung-heroes-the-story-of-the-mills-blue-rhythm-band/
+  - 'https://the78rpmrecordspins.wordpress.com/2013/03/20/mills-blue-rhythm-band/'
+  - >-
+    https://www.swingstreetradio.org/swings-unsung-heroes-the-story-of-the-mills-blue-rhythm-band/
 network_extracted: true
 entry_created: '2025-10-20T09:19:02.348169'
 last_updated: '2025-12-23T08:16:03.135205'
 musicbrainz_enriched_at: '2025-10-21T09:36:36.479093'
 musicbrainz_id: 4cca8a8b-3831-4ca6-97a3-ee4095c98079
-origin: Harlem, New York City, New York, USA
+origin: 'Harlem, New York City, New York, USA'
 tags:
-- big band
-- jazz
-- swing
+  - big band
+  - jazz
+  - swing
+birth_place: Harlem
 ---
 
 ![](MILLS_BLUE_RHYTHM_BAND.jpg)

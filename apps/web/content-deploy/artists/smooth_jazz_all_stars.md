@@ -3,37 +3,38 @@ biography_enhanced_at: '2026-01-02T01:22:03.241406'
 enhancement_provider: perplexity
 entry_created: '2026-01-02T01:22:03.241412'
 external_urls:
-  spotify: https://open.spotify.com/artist/2ThUOWiiWP3YdZqs4WYNOi
+  spotify: 'https://open.spotify.com/artist/2ThUOWiiWP3YdZqs4WYNOi'
   wikipedia: ''
 genres:
-- smooth jazz
-- jazz
+  - smooth jazz
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/smooth_jazz_all_stars.jpg
 last_updated: '2026-01-02T01:22:03.241413'
 musical_connections:
   collaborators:
-  - Jonathan Butler
-  - Norman Brown
-  - Najee
-  - Gerald Albright
+    - Jonathan Butler
+    - Norman Brown
+    - Najee
+    - Gerald Albright
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.butlerartscenter.org/performances/dj-geno-40-year-anniversary-smooth-jazz-all-stars/[1]
-- http://smoothjazzallstars.com[2]
-- https://www.theaudiodb.com/artist/155507-The-Smooth-Jazz-All-Stars[4]
-- https://musicbrainz.org/artist/0fee7b3a-13c5-46a4-9de8-5715439dcf6a[6]
-- https://secondhandsongs.com/artist/128591/all[7]
+  - >-
+    https://www.butlerartscenter.org/performances/dj-geno-40-year-anniversary-smooth-jazz-all-stars/[1]
+  - 'http://smoothjazzallstars.com[2]'
+  - 'https://www.theaudiodb.com/artist/155507-The-Smooth-Jazz-All-Stars[4]'
+  - 'https://musicbrainz.org/artist/0fee7b3a-13c5-46a4-9de8-5715439dcf6a[6]'
+  - 'https://secondhandsongs.com/artist/128591/all[7]'
 spotify_data:
   followers: 59611
   id: 2ThUOWiiWP3YdZqs4WYNOi
   popularity: 46
-  url: https://open.spotify.com/artist/2ThUOWiiWP3YdZqs4WYNOi
+  url: 'https://open.spotify.com/artist/2ThUOWiiWP3YdZqs4WYNOi'
 status: active
 title: Smooth Jazz All Stars
-
+artist_type: band
 ---
 
 ![](smooth_jazz_all_stars.jpg)

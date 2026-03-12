@@ -1,20 +1,20 @@
 ---
-title: willie willis
+title: Willie Willis
 wiki_slug: willie-willis
 schema_version: 2
 status: active
-birth_place: Fairfield, Texas, USA
+birth_place: 'Fairfield, Texas, USA'
 genres:
-- rocksteady
-- roots reggae
-- reggae
-- dub
-- soul jazz
+  - rocksteady
+  - roots reggae
+  - reggae
+  - dub
+  - soul jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/willie_willis.jpg
   caption: willie willis
   background: solo_singer
-  origin: Fairfield, Texas, USA
+  origin: 'Fairfield, Texas, USA'
 audio_profile:
   tempo_avg: 120.9
   energy_avg: 0.494
@@ -30,41 +30,44 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dallas blues musicians
+    - Dallas blues musicians
   influenced:
-  - Younger Dallas blues artists
+    - Younger Dallas blues artists
   mentors:
-  - Texas blues tradition
+    - Texas blues tradition
 spotify_data:
   followers: 5335
   id: 3T5EG3XsFoTCa8ygq5Bujb
   popularity: 25
-  url: https://open.spotify.com/artist/3T5EG3XsFoTCa8ygq5Bujb
+  url: 'https://open.spotify.com/artist/3T5EG3XsFoTCa8ygq5Bujb'
 discography_enriched: true
 top_tracks:
-- Armageddon Time
-- Armagideon Time - Disco Mix Vocal
-- Armagideon Time
-- Rock On (One Love)
-- Armageddon Time
-- Armagideon Time (Armagideon Time)
-- Away in a Manger (Gospel Music for Kids, Vol. 2)
-- As with Gladness Men of Old (Gospel Music for Kids, Vol. 1)
-- O Come o Come Emmanuel (Gospel Music for Kids, Vol. 1)
-- No One Can Stop Us Now
+  - Armageddon Time
+  - Armagideon Time - Disco Mix Vocal
+  - Armagideon Time
+  - Rock On (One Love)
+  - Armageddon Time
+  - Armagideon Time (Armagideon Time)
+  - 'Away in a Manger (Gospel Music for Kids, Vol. 2)'
+  - 'As with Gladness Men of Old (Gospel Music for Kids, Vol. 1)'
+  - 'O Come o Come Emmanuel (Gospel Music for Kids, Vol. 1)'
+  - No One Can Stop Us Now
 external_urls:
-  spotify: https://open.spotify.com/artist/3T5EG3XsFoTCa8ygq5Bujb
+  spotify: 'https://open.spotify.com/artist/3T5EG3XsFoTCa8ygq5Bujb'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/willie_willis.jpg
 biography_enhanced_at: '2025-10-29T16:50:07.028118'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://bluesdfw.com/sub1/willie.htm
-- https://coblues.org/blogs/don-t-ask-me-i-don-t-know/posts/4167136/willie-willis-blues-food-for-the-soul
+  - 'https://bluesdfw.com/sub1/willie.htm'
+  - >-
+    https://coblues.org/blogs/don-t-ask-me-i-don-t-know/posts/4167136/willie-willis-blues-food-for-the-soul
 network_extracted: true
 entry_created: '2025-10-29T16:50:07.028127'
 last_updated: '2025-12-23T08:16:18.222842'
+birth_date: '1932-12-12'
+artist_type: person
 ---
 
 ![](willie_willis.jpg)

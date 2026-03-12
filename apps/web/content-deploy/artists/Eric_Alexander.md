@@ -1,64 +1,67 @@
 ---
 biography_enhanced_at: '2026-01-22T07:00:48.078530'
-birth_place: Galesburg, Illinois, United States
+birth_place: 'Galesburg, Illinois, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:00:48.078536'
 external_urls:
-  spotify: https://open.spotify.com/artist/4obfH4xleG9EzLN4NTNEfu
-  wikipedia: https://en.wikipedia.org/wiki/Eric_Alexander_(jazz_saxophonist)
+  spotify: 'https://open.spotify.com/artist/4obfH4xleG9EzLN4NTNEfu'
+  wikipedia: 'https://en.wikipedia.org/wiki/Eric_Alexander_(jazz_saxophonist)'
 genres:
-- hard bop
-- jazz
-- jazz ballads
+  - hard bop
+  - jazz
+  - jazz ballads
 image_path: 03_Resources/source_material/ArtistPortraits/eric_alexander.jpg
 last_updated: '2026-01-22T07:00:48.078537'
 musical_connections:
   collaborators:
-  - Charles Earland
-  - Jim Rotondi
-  - Steve Davis
-  - Joe Farnsworth
-  - Peter Washington
-  - Dave Hazeltine
-  - George Mraz
-  - John Hicks
-  - Idris Muhammad
-  - Pat Martino
-  - Mike LeDonne
-  - Vincent Herring
-  - Ron Carter
-  - Peter Bernstein
-  - Jimmy McGriff
-  - Seamus Blake
+    - Charles Earland
+    - Jim Rotondi
+    - Steve Davis
+    - Joe Farnsworth
+    - Peter Washington
+    - Dave Hazeltine
+    - George Mraz
+    - John Hicks
+    - Idris Muhammad
+    - Pat Martino
+    - Mike LeDonne
+    - Vincent Herring
+    - Ron Carter
+    - Peter Bernstein
+    - Jimmy McGriff
+    - Seamus Blake
   influenced:
-  - Next generation jazz musicians
+    - Next generation jazz musicians
   mentors:
-  - Harold Mabern
-  - Joe Lovano
-  - Rufus Reid
-  - Eugene Rousseau
-  - Gary Smulyan
-  - Norman Simmons
-  - Steve Turre
+    - Harold Mabern
+    - Joe Lovano
+    - Rufus Reid
+    - Eugene Rousseau
+    - Gary Smulyan
+    - Norman Simmons
+    - Steve Turre
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.ericalexanderjazz.com/bio
-- https://jazzleadsheets.com/artists/eric-alexander-tenor.html
-- https://en.wikipedia.org/wiki/Eric_Alexander_(jazz_saxophonist)
-- https://www.allsolos.com/soloist/320/eric-alexander
-- https://www.jjbabbitt.com/eric-alexander
-- https://www.montclairjazzfestival.org/post/eric-alexander-quartet
-- https://www.jazzhot.net/PBCPPlayer.asp?ID=1407870
-- https://jazzforasaturdaynight.com/2015/04/04/jazz-for-a-saturday-night-45-eric-alexander/
-- https://www.hoppermanagement.com/web/index.php/eric-alexander.html
+  - 'https://www.ericalexanderjazz.com/bio'
+  - 'https://jazzleadsheets.com/artists/eric-alexander-tenor.html'
+  - 'https://en.wikipedia.org/wiki/Eric_Alexander_(jazz_saxophonist)'
+  - 'https://www.allsolos.com/soloist/320/eric-alexander'
+  - 'https://www.jjbabbitt.com/eric-alexander'
+  - 'https://www.montclairjazzfestival.org/post/eric-alexander-quartet'
+  - 'https://www.jazzhot.net/PBCPPlayer.asp?ID=1407870'
+  - >-
+    https://jazzforasaturdaynight.com/2015/04/04/jazz-for-a-saturday-night-45-eric-alexander/
+  - 'https://www.hoppermanagement.com/web/index.php/eric-alexander.html'
 spotify_data:
   followers: 9251
   id: 4obfH4xleG9EzLN4NTNEfu
   popularity: 25
-  url: https://open.spotify.com/artist/4obfH4xleG9EzLN4NTNEfu
+  url: 'https://open.spotify.com/artist/4obfH4xleG9EzLN4NTNEfu'
 status: active
 title: Eric Alexander
+birth_date: '1968-08-04'
+artist_type: person
 ---
 
 ![](eric_alexander.jpg)

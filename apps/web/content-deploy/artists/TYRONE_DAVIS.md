@@ -1,17 +1,17 @@
 ---
-title: TYRONE DAVIS
+title: Tyrone Davis
 wiki_slug: tyrone-davis
 schema_version: 2
 status: active
-birth_place: Greenville, Mississippi, USA
+birth_place: 'Greenville, Mississippi, USA'
 genres:
-- blues
-- footwork
+  - blues
+  - footwork
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/TYRONE_DAVIS.jpg
   caption: TYRONE DAVIS
   background: solo_singer
-  origin: Greenville, Mississippi, USA
+  origin: 'Greenville, Mississippi, USA'
 audio_profile:
   tempo_avg: 116.4
   energy_avg: 0.5
@@ -27,50 +27,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Carl Davis
-  - Otis Clay
+    - Carl Davis
+    - Otis Clay
   influenced:
-  - Countless blues and soul bands in the Delta and Chicago
-  - Modern soul and R&B artists
+    - Countless blues and soul bands in the Delta and Chicago
+    - Modern soul and R&B artists
   mentors:
-  - Freddie King
-  - Bobby 'Blue' Bland
-  - Little Milton
-  - Harold Burrage
+    - Freddie King
+    - Bobby 'Blue' Bland
+    - Little Milton
+    - Harold Burrage
 spotify_data:
   followers: 194471
   id: 76agLI5oSCFbmZnBqKcBJd
   popularity: 39
-  url: https://open.spotify.com/artist/76agLI5oSCFbmZnBqKcBJd
+  url: 'https://open.spotify.com/artist/76agLI5oSCFbmZnBqKcBJd'
 discography_enriched: true
 top_tracks:
-- In the Mood (In the Mood with Tyrone Davis (Expanded Edition))
-- Turn Back The Hands Of Time (Turn Back The Hands Of Time)
-- Can I Change My Mind (Can I Change My Mind)
-- Sure Wasn't Me (Relaxin' With Tyrone)
-- Ain't Nothing I Can Do (In the Mood with Tyrone Davis (Expanded Edition))
-- Kiss You (Relaxin' With Tyrone)
-- Turning Point (Turning Point)
-- In the Mood
-- Tip Toe Through the Bedroom (Love Line)
-- Sugar Daddy (Relaxin' With Tyrone)
+  - In the Mood (In the Mood with Tyrone Davis (Expanded Edition))
+  - Turn Back The Hands Of Time (Turn Back The Hands Of Time)
+  - Can I Change My Mind (Can I Change My Mind)
+  - Sure Wasn't Me (Relaxin' With Tyrone)
+  - Ain't Nothing I Can Do (In the Mood with Tyrone Davis (Expanded Edition))
+  - Kiss You (Relaxin' With Tyrone)
+  - Turning Point (Turning Point)
+  - In the Mood
+  - Tip Toe Through the Bedroom (Love Line)
+  - Sugar Daddy (Relaxin' With Tyrone)
 external_urls:
-  spotify: https://open.spotify.com/artist/76agLI5oSCFbmZnBqKcBJd
-  wikipedia: https://en.wikipedia.org/wiki/Tyrone_Davis
+  spotify: 'https://open.spotify.com/artist/76agLI5oSCFbmZnBqKcBJd'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tyrone_Davis'
 image_path: 03_Resources/source_material/ArtistPortraits/TYRONE_DAVIS.jpg
 biography_enhanced_at: '2025-10-19T11:39:24.702731'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Tyrone_Davis
-- https://www.blackpast.org/african-american-history/tyrone-davis-1938-2005/
-- https://www.mswritersandmusicians.com/mississippi-musicians/tyrone-davis
-- https://msbluestrail.org/blues-trail-markers/tyrone-davis
-- https://souldisco.de/allgemein/tyrone-davis-the-soulful-voice-behind-timeless-love-songs/
+  - 'https://en.wikipedia.org/wiki/Tyrone_Davis'
+  - 'https://www.blackpast.org/african-american-history/tyrone-davis-1938-2005/'
+  - 'https://www.mswritersandmusicians.com/mississippi-musicians/tyrone-davis'
+  - 'https://msbluestrail.org/blues-trail-markers/tyrone-davis'
+  - >-
+    https://souldisco.de/allgemein/tyrone-davis-the-soulful-voice-behind-timeless-love-songs/
 network_extracted: true
 entry_created: '2025-10-19T11:39:24.702738'
 last_updated: '2025-12-23T08:16:04.028701'
-
+origin: 'Chicago, Illinois, United States'
+birth_date: '1938-05-04'
+artist_type: person
 ---
 
 ![](TYRONE_DAVIS.jpg)

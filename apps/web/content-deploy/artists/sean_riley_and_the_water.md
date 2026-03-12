@@ -23,47 +23,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ray Micarelli
+    - Ray Micarelli
   influenced: []
   mentors: []
 spotify_data:
   followers: 131
   id: 5S9UKoPGlbMCku8pAs749N
   popularity: 0
-  url: https://open.spotify.com/artist/5S9UKoPGlbMCku8pAs749N
+  url: 'https://open.spotify.com/artist/5S9UKoPGlbMCku8pAs749N'
 discography_enriched: true
 top_tracks:
-- Dance Me One More Time (Stone Cold Hands)
-- Stone Cold Hands (Stone Cold Hands)
-- Out All Night (Stone Cold Hands)
-- Go Easy On Me (Stone Cold Hands)
-- Jump The Line (Stone Cold Hands)
-- Truck Route Blues (Stone Cold Hands)
-- High And Lonesome (Stone Cold Hands)
-- A Losing Hand (Stone Cold Hands)
-- Rosie's Rag (Stone Cold Hands)
-- Shine A Little Stronger (Stone Cold Hands)
+  - Dance Me One More Time (Stone Cold Hands)
+  - Stone Cold Hands (Stone Cold Hands)
+  - Out All Night (Stone Cold Hands)
+  - Go Easy On Me (Stone Cold Hands)
+  - Jump The Line (Stone Cold Hands)
+  - Truck Route Blues (Stone Cold Hands)
+  - High And Lonesome (Stone Cold Hands)
+  - A Losing Hand (Stone Cold Hands)
+  - Rosie's Rag (Stone Cold Hands)
+  - Shine A Little Stronger (Stone Cold Hands)
 external_urls:
-  spotify: https://open.spotify.com/artist/5S9UKoPGlbMCku8pAs749N
+  spotify: 'https://open.spotify.com/artist/5S9UKoPGlbMCku8pAs749N'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/sean_riley_and_the_water.jpg
 biography_enhanced_at: '2025-11-20T07:14:54.413107'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://neworleansmusicians.com/blog/sean-riley/
-- https://www.offbeat.com/music/old-riley-water-biting-independent/
-- http://www.humebluesclub.com/articles/interview-with-sean-riley.htm
-- https://blues.gr/profiles/blogs/q-a-with-based-in-new-orleans-musician-sean-riley-a-familiar-face
-- https://americanahighways.org/2024/03/05/review-sean-riley-the-water-stone-cold-hands/
-- https://www.pugnaciousrecords.com/sean-riley
-- https://www.seanrileyandthewater.com/epk
-- https://www.seanrileyandthewater.com
-- https://www.neworleans.com/listing/sean-riley-&-the-water/47752/
+  - 'https://neworleansmusicians.com/blog/sean-riley/'
+  - 'https://www.offbeat.com/music/old-riley-water-biting-independent/'
+  - 'http://www.humebluesclub.com/articles/interview-with-sean-riley.htm'
+  - >-
+    https://blues.gr/profiles/blogs/q-a-with-based-in-new-orleans-musician-sean-riley-a-familiar-face
+  - >-
+    https://americanahighways.org/2024/03/05/review-sean-riley-the-water-stone-cold-hands/
+  - 'https://www.pugnaciousrecords.com/sean-riley'
+  - 'https://www.seanrileyandthewater.com/epk'
+  - 'https://www.seanrileyandthewater.com'
+  - 'https://www.neworleans.com/listing/sean-riley-&-the-water/47752/'
 network_extracted: true
 entry_created: '2025-11-20T07:14:54.413116'
 last_updated: '2025-12-23T08:16:15.454345'
-origin: North Country, New York, USA
+origin: 'North Country, New York, USA'
+artist_type: person
 ---
 
 ![](sean_riley_and_the_water.jpg)

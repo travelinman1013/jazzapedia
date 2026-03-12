@@ -3,17 +3,17 @@ title: Kamaal Williams
 wiki_slug: kamaal-williams
 schema_version: 2
 status: active
-birth_place: Peckham, South London, England, United Kingdom
+birth_place: 'Peckham, South London, England, United Kingdom'
 genres:
-- nu jazz
-- indie jazz
-- jazz funk
-- jazz
+  - nu jazz
+  - indie jazz
+  - jazz funk
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/kamaal_williams.jpg
   caption: Kamaal Williams
   background: solo_singer
-  origin: Peckham, South London, England, United Kingdom
+  origin: 'Peckham, South London, England, United Kingdom'
 audio_profile:
   tempo_avg: 120.3
   energy_avg: 0.429
@@ -29,50 +29,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Yussef Dayes
-  - Pete Martin
-  - Mansur Brown
+    - Yussef Dayes
+    - Pete Martin
+    - Mansur Brown
   influenced:
-  - Moses Boyd
-  - Joe Armon-Jones
+    - Moses Boyd
+    - Joe Armon-Jones
   mentors:
-  - Herbie Hancock
-  - Roy Ayers
+    - Herbie Hancock
+    - Roy Ayers
 spotify_data:
   followers: 105201
   id: 01mXk9IDlVczWwZvVHAiIS
   popularity: 35
-  url: https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS
+  url: 'https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS'
 discography_enriched: true
 top_tracks:
-- Hold On (Wu Hen)
-- New Heights (Visions of Aisha Malik) (New Heights / Snitches Brew)
-- Toulouse (Wu Hen)
-- 1989 (Wu Hen)
-- The Guvna (Stings)
-- Stings (Stings)
-- City Of God (Stings)
-- Salaam (The Return)
-- Big Rick (Wu Hen)
-- High Roller (The Return)
+  - Hold On (Wu Hen)
+  - New Heights (Visions of Aisha Malik) (New Heights / Snitches Brew)
+  - Toulouse (Wu Hen)
+  - 1989 (Wu Hen)
+  - The Guvna (Stings)
+  - Stings (Stings)
+  - City Of God (Stings)
+  - Salaam (The Return)
+  - Big Rick (Wu Hen)
+  - High Roller (The Return)
 external_urls:
-  spotify: https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS
-  wikipedia: https://en.wikipedia.org/wiki/Kamaal_Williams
+  spotify: 'https://open.spotify.com/artist/01mXk9IDlVczWwZvVHAiIS'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kamaal_Williams'
 image_path: 03_Resources/source_material/ArtistPortraits/kamaal_williams.jpg
 biography_enhanced_at: '2025-11-21T07:10:55.355871'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://holican.io/wiki/kamaal-williams
-- https://www.allmusic.com/artist/kamaal-williams-mn0003564425
-- https://sungenre.com/artist/kamaal-williams/
-- https://www.bjd.sk/en/artist/kamaal-williams
-- https://www.mahorasop.com/artist/kamaal-williams
-- https://www.flowstate.fm/p/kamaal-williams
+  - 'https://holican.io/wiki/kamaal-williams'
+  - 'https://www.allmusic.com/artist/kamaal-williams-mn0003564425'
+  - 'https://sungenre.com/artist/kamaal-williams/'
+  - 'https://www.bjd.sk/en/artist/kamaal-williams'
+  - 'https://www.mahorasop.com/artist/kamaal-williams'
+  - 'https://www.flowstate.fm/p/kamaal-williams'
 network_extracted: true
 entry_created: '2025-11-21T07:10:55.355885'
 last_updated: '2025-12-23T08:16:11.164049'
-
+birth_date: '1989-12-14'
+artist_type: person
 ---
 
 ![](kamaal_williams.jpg)

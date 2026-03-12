@@ -4,32 +4,32 @@ wiki_slug: mahalia-jackson
 schema_version: 2
 status: deceased
 also_known_as:
-- Halie Jackson
+  - Halie Jackson
 aliases:
-- Halie Jackson
+  - Halie Jackson
 birth_date: '1911-10-26'
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 death_date: '1972-01-27'
 years_active: 1971-1972
 genres:
-- gospel
-- christmas
+  - gospel
+  - christmas
 instruments:
-- voice
+  - voice
 occupation:
-- gospel singer
-- musician
-- religious leader
+  - gospel singer
+  - musician
+  - religious leader
 record_labels:
-- Decca
-- Apollo Records
-- Columbia Records
+  - Decca
+  - Apollo Records
+  - Columbia Records
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Mahalia_Jackson.jpg
   caption: Mahalia Jackson
   background: solo_singer
   born: '1911-10-26'
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
   died: '1972-01-27'
 audio_profile:
   tempo_avg: 110.6
@@ -46,39 +46,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Duke Ellington
-  - The Johnson Gospel Singers
-  - Dr. Martin Luther King Jr.
+    - Duke Ellington
+    - The Johnson Gospel Singers
+    - Dr. Martin Luther King Jr.
   influenced:
-  - Aretha Franklin
+    - Aretha Franklin
   mentors:
-  - Thomas A. Dorsey
-  - Bessie Smith
-  - Ma Rainey
+    - Thomas A. Dorsey
+    - Bessie Smith
+    - Ma Rainey
 related_artists: []
 spotify_data:
   followers: 115533
   id: 6QBUIuGCAJSAtefEY1EEdB
   popularity: 38
-  url: https://open.spotify.com/artist/6QBUIuGCAJSAtefEY1EEdB
+  url: 'https://open.spotify.com/artist/6QBUIuGCAJSAtefEY1EEdB'
   verified: false
 discography_enriched: true
 albums_count: 27
 singles_count: 3
 top_tracks:
-- Summertime / Sometimes I Feel Like a Motherless Child (Bless This House)
-- Take My Hand Precious Lord (Sings the Best-Loved Hymns of Dr. Martin Luther King, Jr.)
-- How I Got Over - Live (The Essential Mahalia Jackson)
-- Take My Hand, Precious Lord (The Essential Mahalia Jackson)
-- 'Silent Night, Holy Night (Silent Night: Songs For Christmas)'
-- We Shall Overcome (Sings the Best-Loved Hymns of Dr. Martin Luther King, Jr.)
-- Trouble of the World (Gospels, Spirituals, & Hymns)
-- His Eye Is On the Sparrow (Gospels, Spirituals, & Hymns)
-- Joshua Fit the Battle of Jericho (The Essential Mahalia Jackson)
-- Just a Closer Walk with Thee (Sings the Best-Loved Hymns of Dr. Martin Luther King, Jr.)
+  - Summertime / Sometimes I Feel Like a Motherless Child (Bless This House)
+  - >-
+    Take My Hand Precious Lord (Sings the Best-Loved Hymns of Dr. Martin Luther
+    King, Jr.)
+  - How I Got Over - Live (The Essential Mahalia Jackson)
+  - 'Take My Hand, Precious Lord (The Essential Mahalia Jackson)'
+  - 'Silent Night, Holy Night (Silent Night: Songs For Christmas)'
+  - >-
+    We Shall Overcome (Sings the Best-Loved Hymns of Dr. Martin Luther King,
+    Jr.)
+  - 'Trouble of the World (Gospels, Spirituals, & Hymns)'
+  - 'His Eye Is On the Sparrow (Gospels, Spirituals, & Hymns)'
+  - Joshua Fit the Battle of Jericho (The Essential Mahalia Jackson)
+  - >-
+    Just a Closer Walk with Thee (Sings the Best-Loved Hymns of Dr. Martin
+    Luther King, Jr.)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/6QBUIuGCAJSAtefEY1EEdB
+  spotify: 'https://open.spotify.com/artist/6QBUIuGCAJSAtefEY1EEdB'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/Mahalia_Jackson.jpg
 biography_source: wikipedia
@@ -86,14 +92,17 @@ biography_enhanced_at: '2025-09-30T12:25:36.505675'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Gospel Music Hall of Fame
-- Tulane University Music Rising
-- Biography.com
-- 64 Parishes
+  - Gospel Music Hall of Fame
+  - Tulane University Music Rising
+  - Biography.com
+  - 64 Parishes
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:44:26.871273
+entry_created: 2025-09-22T21:44:26.871Z
 last_updated: '2025-12-23T08:16:03.152524'
+is_active: false
+origin: 'Chicago, Illinois, United States'
+artist_type: person
 ---
 
 ![](Mahalia_Jackson.jpg)

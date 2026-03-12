@@ -5,10 +5,10 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1932-11-28'
-birth_place: Baltimore
+birth_place: 'Baltimore, Maryland, United States'
 death_date: '2019-02-17'
 genres:
-- vocal jazz
+  - vocal jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ethel_ennis.jpg
   caption: Ethel Ennis
@@ -22,7 +22,7 @@ audio_profile:
   valence_avg: 0.337
   danceability_avg: 0.482
   acousticness_avg: 0.863
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -12.8
   speechiness_avg: 0.044
   liveness_avg: 0.178
@@ -31,55 +31,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Miles Davis
-  - Benny Goodman
-  - Cab Calloway
-  - Dizzy Gillespie
-  - Earl Arnett
+    - Miles Davis
+    - Benny Goodman
+    - Cab Calloway
+    - Dizzy Gillespie
+    - Earl Arnett
   influenced:
-  - Charenée Wade
-  - Cyrus Chestnut
+    - Charenée Wade
+    - Cyrus Chestnut
   mentors:
-  - Ethel Ennis's mother
+    - Ethel Ennis's mother
 spotify_data:
   followers: 3717
   id: 7yLgG0ocThlvnzWk4uOOUC
   popularity: 26
-  url: https://open.spotify.com/artist/7yLgG0ocThlvnzWk4uOOUC
+  url: 'https://open.spotify.com/artist/7yLgG0ocThlvnzWk4uOOUC'
 discography_enriched: true
 top_tracks:
-- Have You Forgotten? (Have You Forgotten?)
-- My Foolish Heart (Change Of Scenery)
-- I Remember (The Corn Fields Of Home) (Change Of Scenery)
-- Blue Prelude (Lullabies for Losers - Change of Scenery - Have You Forgotten?)
-- Falling Leaves (Once Again...)
-- I've Got You Under My Skin (Lullabies for Losers - Change of Scenery - Have You Forgotten?)
-- Serenade In Blue (Have You Forgotten?)
-- The Moon Was Yellow (And the Night Was Young) (This Is Ethel Ennis)
-- Ev'rytime We Say Goodbye (Change Of Scenery)
-- Dreamer-Dreamer (Lullabies for Losers) - 2025 Digitally Remastered (Four Classic Albums Plus (Lullabies for Losers / Change
-  of Scenery / Have You Forgotten? / The Fascinating Ernestine))
+  - Have You Forgotten? (Have You Forgotten?)
+  - My Foolish Heart (Change Of Scenery)
+  - I Remember (The Corn Fields Of Home) (Change Of Scenery)
+  - >-
+    Blue Prelude (Lullabies for Losers - Change of Scenery - Have You
+    Forgotten?)
+  - Falling Leaves (Once Again...)
+  - >-
+    I've Got You Under My Skin (Lullabies for Losers - Change of Scenery - Have
+    You Forgotten?)
+  - Serenade In Blue (Have You Forgotten?)
+  - The Moon Was Yellow (And the Night Was Young) (This Is Ethel Ennis)
+  - Ev'rytime We Say Goodbye (Change Of Scenery)
+  - >-
+    Dreamer-Dreamer (Lullabies for Losers) - 2025 Digitally Remastered (Four
+    Classic Albums Plus (Lullabies for Losers / Change of Scenery / Have You
+    Forgotten? / The Fascinating Ernestine))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c298edc7-29b0-4bb9-a195-9b2130d7dcf7
-  spotify: https://open.spotify.com/artist/7yLgG0ocThlvnzWk4uOOUC
-  wikipedia: https://en.wikipedia.org/wiki/Ethel_Ennis
+  musicbrainz: 'https://musicbrainz.org/artist/c298edc7-29b0-4bb9-a195-9b2130d7dcf7'
+  spotify: 'https://open.spotify.com/artist/7yLgG0ocThlvnzWk4uOOUC'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ethel_Ennis'
 image_path: 03_Resources/source_material/ArtistPortraits/ethel_ennis.jpg
 biography_enhanced_at: '2025-11-20T07:12:26.917813'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://hub.jhu.edu/2024/02/19/ethel-ennis-collection-johns-hopkins/
-- https://www.greatermondawmin.org/ethel-ennis/
-- https://www.operabaltimore.org/unsung-legends
-- https://en.wikipedia.org/wiki/Ethel_Ennis
+  - 'https://hub.jhu.edu/2024/02/19/ethel-ennis-collection-johns-hopkins/'
+  - 'https://www.greatermondawmin.org/ethel-ennis/'
+  - 'https://www.operabaltimore.org/unsung-legends'
+  - 'https://en.wikipedia.org/wiki/Ethel_Ennis'
 network_extracted: true
 entry_created: '2025-11-20T07:12:26.917822'
 last_updated: '2025-12-23T08:16:08.498497'
 gender: Female
 musicbrainz_id: c298edc7-29b0-4bb9-a195-9b2130d7dcf7
 tags:
-- jazz
-- vocal jazz
+  - jazz
+  - vocal jazz
+is_active: false
+origin: 'Baltimore, Maryland, United States'
 ---
 
 ![](ethel_ennis.jpg)

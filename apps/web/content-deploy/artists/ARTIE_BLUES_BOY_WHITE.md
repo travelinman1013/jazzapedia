@@ -1,20 +1,20 @@
 ---
-title: ARTIE BLUES BOY WHITE
+title: Artie Blues Boy White
 wiki_slug: artie-blues-boy-white
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1937-04-16'
-birth_place: Vicksburg, Mississippi, United States
+birth_place: 'Vicksburg, Mississippi, United States'
 death_date: '2013-04-20'
 genres:
-- blues
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ARTIE_BLUES_BOY_WHITE.jpg
   caption: ARTIE BLUES BOY WHITE
   background: solo_singer
   born: '1937-04-16'
-  origin: Vicksburg, Mississippi, United States
+  origin: 'Vicksburg, Mississippi, United States'
   died: '2013-04-20'
 audio_profile:
   tempo_avg: 115.9
@@ -31,48 +31,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Little Milton
+    - Little Milton
   influenced:
-  - Contemporary Southern Soul and Blues artists
+    - Contemporary Southern Soul and Blues artists
   mentors:
-  - Gospel tradition (Harps of David, Full Gospel Wonders)
+    - 'Gospel tradition (Harps of David, Full Gospel Wonders)'
 spotify_data:
   followers: 503
   id: 1lHDwA5E2dpRxrwXGyE2VD
   popularity: 6
-  url: https://open.spotify.com/artist/1lHDwA5E2dpRxrwXGyE2VD
+  url: 'https://open.spotify.com/artist/1lHDwA5E2dpRxrwXGyE2VD'
 discography_enriched: true
 top_tracks:
-- The More You Lie to Me (Home Tonight)
-- Your Man Is Home Tonight (Home Tonight)
-- How Long (Can We Get Together)
-- Man of the House (Home Tonight)
-- Can We Get Together (Can We Get Together)
-- My Dessert (Can We Get Together)
-- Black Cat Scratchin' (Home Tonight)
-- When You Leave Don't Take Nothin (Can We Get Together)
-- Back At the Hotel (Can We Get Together)
-- I'm Gonna Marry My Mother-In-Law (Different Shades of Blue)
+  - The More You Lie to Me (Home Tonight)
+  - Your Man Is Home Tonight (Home Tonight)
+  - How Long (Can We Get Together)
+  - Man of the House (Home Tonight)
+  - Can We Get Together (Can We Get Together)
+  - My Dessert (Can We Get Together)
+  - Black Cat Scratchin' (Home Tonight)
+  - When You Leave Don't Take Nothin (Can We Get Together)
+  - Back At the Hotel (Can We Get Together)
+  - I'm Gonna Marry My Mother-In-Law (Different Shades of Blue)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4f357d56-16cd-4b6e-9d89-e31c839c30d2
-  spotify: https://open.spotify.com/artist/1lHDwA5E2dpRxrwXGyE2VD
+  musicbrainz: 'https://musicbrainz.org/artist/4f357d56-16cd-4b6e-9d89-e31c839c30d2'
+  spotify: 'https://open.spotify.com/artist/1lHDwA5E2dpRxrwXGyE2VD'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/ARTIE_BLUES_BOY_WHITE.jpg
 biography_enhanced_at: '2025-10-19T11:36:46.265809'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://soulbluesmusic.com/artiebluesboywhitepage.htm
-- https://www.southernsoulrnb.com/artistguide.cfm?aid=40
-- https://www.findagrave.com/memorial/143140980/
-- https://www.tracklib.com/music/artists/artie-white
-- https://www.artiewhite.com/rememberingartie.html
+  - 'https://soulbluesmusic.com/artiebluesboywhitepage.htm'
+  - 'https://www.southernsoulrnb.com/artistguide.cfm?aid=40'
+  - 'https://www.findagrave.com/memorial/143140980/'
+  - 'https://www.tracklib.com/music/artists/artie-white'
+  - 'https://www.artiewhite.com/rememberingartie.html'
 network_extracted: true
 entry_created: '2025-10-19T11:36:46.265969'
 last_updated: '2025-12-23T08:16:00.934230'
 gender: Male
 musicbrainz_enriched_at: '2025-10-21T08:04:55.791102'
 musicbrainz_id: 4f357d56-16cd-4b6e-9d89-e31c839c30d2
+is_active: false
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](ARTIE_BLUES_BOY_WHITE.jpg)

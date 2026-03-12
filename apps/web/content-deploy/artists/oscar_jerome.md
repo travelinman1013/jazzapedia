@@ -3,16 +3,16 @@ title: Oscar Jerome
 wiki_slug: oscar-jerome
 schema_version: 2
 status: active
-birth_place: Norwich, Norfolk, England, United Kingdom
+birth_place: 'Norwich, Norfolk, England, United Kingdom'
 genres:
-- jazz house
-- indie jazz
-- nu jazz
+  - jazz house
+  - indie jazz
+  - nu jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/oscar_jerome.jpg
   caption: Oscar Jerome
   background: solo_singer
-  origin: Norwich, Norfolk, England, United Kingdom
+  origin: 'Norwich, Norfolk, England, United Kingdom'
 audio_profile:
   tempo_avg: 117.1
   energy_avg: 0.563
@@ -28,57 +28,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kokoroko
-  - Moses Boyd
-  - Shabaka Hutchings
-  - Lianne La Havas
-  - Joe Armon-Jones
-  - Ezra Collective
-  - Poppy Ajudha
-  - Jordan Rakei
+    - Kokoroko
+    - Moses Boyd
+    - Shabaka Hutchings
+    - Lianne La Havas
+    - Joe Armon-Jones
+    - Ezra Collective
+    - Poppy Ajudha
+    - Jordan Rakei
   influenced:
-  - No widely documented direct proteges or students
+    - No widely documented direct proteges or students
   mentors:
-  - George Benson
-  - Wes Montgomery
-  - John Coltrane
-  - Rage Against the Machine
+    - George Benson
+    - Wes Montgomery
+    - John Coltrane
+    - Rage Against the Machine
 spotify_data:
   followers: 91708
   id: 39cDMNnxwjrKJE1dyt47jh
   popularity: 43
-  url: https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh
+  url: 'https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh'
 discography_enriched: true
 top_tracks:
-- No Need - Edit
-- Do You Really
-- Idiom (feat. Oscar Jerome)
-- Easier
-- Shedding
-- Sun For Someone (Breathe Deep)
-- Smell The Daisies
-- No Need - Extended Mix
-- Gravitate (Breathe Deep)
-- Far Too Much - Edit
+  - No Need - Edit
+  - Do You Really
+  - Idiom (feat. Oscar Jerome)
+  - Easier
+  - Shedding
+  - Sun For Someone (Breathe Deep)
+  - Smell The Daisies
+  - No Need - Extended Mix
+  - Gravitate (Breathe Deep)
+  - Far Too Much - Edit
 external_urls:
-  spotify: https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh
+  spotify: 'https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/oscar_jerome.jpg
 biography_enhanced_at: '2025-11-21T07:10:32.093544'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.periscope-lyon.com/en/artists/oscar-jerome-2/
-- https://bandonthewall.org/events/oscar-jerome/
-- https://botanique.be/en/admin/structure/component/76979
-- https://www.reybee.com/oscar-jerome/
-- https://goodliveartists.com/artists/oscar-jerome
-- https://www.fredperry.com/us/subculture/articles/oscar-jerome
-- https://www.15questions.net/interview/fifteen-questions-interview-oscar-jerome/
+  - 'https://www.periscope-lyon.com/en/artists/oscar-jerome-2/'
+  - 'https://bandonthewall.org/events/oscar-jerome/'
+  - 'https://botanique.be/en/admin/structure/component/76979'
+  - 'https://www.reybee.com/oscar-jerome/'
+  - 'https://goodliveartists.com/artists/oscar-jerome'
+  - 'https://www.fredperry.com/us/subculture/articles/oscar-jerome'
+  - >-
+    https://www.15questions.net/interview/fifteen-questions-interview-oscar-jerome/
 network_extracted: true
 entry_created: '2025-11-21T07:10:32.093557'
 last_updated: '2025-12-23T08:16:13.829501'
-
+artist_type: person
 ---
 
 ![](oscar_jerome.jpg)

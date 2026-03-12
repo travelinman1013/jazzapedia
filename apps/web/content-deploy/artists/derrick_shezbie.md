@@ -4,27 +4,27 @@ wiki_slug: derrick-shezbie
 schema_version: 2
 artist_type: person
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres: []
 instruments:
-- trumpet
-associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 73701a01-07e2-44f7-8935-e094bdc22892
-  name: Rebirth Brass Band
-- begin: ''
-  end: ''
-  instruments:
   - trumpet
-  mbid: e8c38972-d8b1-4612-9ce8-cc800bb1153d
-  name: New Birth Brass Band
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 73701a01-07e2-44f7-8935-e094bdc22892
+    name: Rebirth Brass Band
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: e8c38972-d8b1-4612-9ce8-cc800bb1153d
+    name: New Birth Brass Band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/derrick_shezbie.jpg
   caption: Derrick Shezbie
   background: non_vocal_instrumentalist
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 118.8
   energy_avg: 0.386
@@ -40,55 +40,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Rebirth Brass Band
-  - Louis Ford
-  - Carl Leblanc
-  - Chris Severin
-  - Revert Andrews
-  - Jerry Anderson
-  - Charles Tolman
+    - Rebirth Brass Band
+    - Louis Ford
+    - Carl Leblanc
+    - Chris Severin
+    - Revert Andrews
+    - Jerry Anderson
+    - Charles Tolman
   influenced:
-  - New Orleans jazz musicians
+    - New Orleans jazz musicians
   mentors:
-  - Buddy Bolden (influence)
+    - Buddy Bolden (influence)
 spotify_data:
   followers: 61
   id: 5gxCOVsmWuS5ouLT7IPxtc
   popularity: 0
-  url: https://open.spotify.com/artist/5gxCOVsmWuS5ouLT7IPxtc
+  url: 'https://open.spotify.com/artist/5gxCOVsmWuS5ouLT7IPxtc'
 discography_enriched: true
 top_tracks:
-- Makin' Runs (The Ghost of Buddy Bolden)
-- Introduction (The Ghost of Buddy Bolden)
-- Didn't He Ramble (The Ghost of Buddy Bolden)
-- Ride on King Jesus (The Ghost of Buddy Bolden)
-- Down by the Riverside (The Ghost of Buddy Bolden)
-- Hot Time in the Old Town Tonight (The Ghost of Buddy Bolden)
-- Interlude (The Ghost of Buddy Bolden)
-- Make Me a Pallet (The Ghost of Buddy Bolden)
-- Careless Love (The Ghost of Buddy Bolden)
-- Bucket's Got a Hole (The Ghost of Buddy Bolden)
+  - Makin' Runs (The Ghost of Buddy Bolden)
+  - Introduction (The Ghost of Buddy Bolden)
+  - Didn't He Ramble (The Ghost of Buddy Bolden)
+  - Ride on King Jesus (The Ghost of Buddy Bolden)
+  - Down by the Riverside (The Ghost of Buddy Bolden)
+  - Hot Time in the Old Town Tonight (The Ghost of Buddy Bolden)
+  - Interlude (The Ghost of Buddy Bolden)
+  - Make Me a Pallet (The Ghost of Buddy Bolden)
+  - Careless Love (The Ghost of Buddy Bolden)
+  - Bucket's Got a Hole (The Ghost of Buddy Bolden)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4a5fa670-e2b2-47d6-86a1-d80fdd36fe3a
-  spotify: https://open.spotify.com/artist/5gxCOVsmWuS5ouLT7IPxtc
+  musicbrainz: 'https://musicbrainz.org/artist/4a5fa670-e2b2-47d6-86a1-d80fdd36fe3a'
+  spotify: 'https://open.spotify.com/artist/5gxCOVsmWuS5ouLT7IPxtc'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/derrick_shezbie.jpg
 biography_enhanced_at: '2025-11-21T07:14:34.187811'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://dlmediamusic.com/press-releases/derrick-shezbie-the-ghost-of-buddy-bolden-available-february-28/
-- https://www.allmusic.com/artist/derrick-shezbie-mn0000250409
-- https://nolajazzmuseum.org/events/2023/10/17/chris-christy-live-from-the-jazz-museum-balcony
-- https://www.offbeat.com/music/derrick-shezbie-the-ghost-of-buddy-bolden-clubhouse-records/
-- https://www.allaboutjazz.com/musicians/derrick-shezbie/
-- http://www.washingtonsquareparknola.com/march-20-2018.html
-- https://www.allaboutjazz.com/the-ghost-of-buddy-bolden-derrick-shezbie-clubhouse-records
+  - >-
+    https://dlmediamusic.com/press-releases/derrick-shezbie-the-ghost-of-buddy-bolden-available-february-28/
+  - 'https://www.allmusic.com/artist/derrick-shezbie-mn0000250409'
+  - >-
+    https://nolajazzmuseum.org/events/2023/10/17/chris-christy-live-from-the-jazz-museum-balcony
+  - >-
+    https://www.offbeat.com/music/derrick-shezbie-the-ghost-of-buddy-bolden-clubhouse-records/
+  - 'https://www.allaboutjazz.com/musicians/derrick-shezbie/'
+  - 'http://www.washingtonsquareparknola.com/march-20-2018.html'
+  - >-
+    https://www.allaboutjazz.com/the-ghost-of-buddy-bolden-derrick-shezbie-clubhouse-records
 network_extracted: true
 entry_created: '2025-11-21T07:14:34.187825'
 last_updated: '2025-12-23T08:16:07.717700'
 disambiguation: Derrick "Kabuky" Shezbie
 musicbrainz_id: 4a5fa670-e2b2-47d6-86a1-d80fdd36fe3a
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](derrick_shezbie.jpg)

@@ -6,19 +6,19 @@ artist_type: person
 status: active
 birth_date: '1924-01-10'
 birth_place: Pasquotank County
-death_date: '2007-08-15'
+death_date: '2007-08-16'
 genres:
-- hard bop
-- bebop
-- jazz
-- free jazz
+  - hard bop
+  - bebop
+  - jazz
+  - free jazz
 instruments:
-- drums (drum set)
-- eponymous
-- additional
-- membranophone
-- original
-- spoken vocals
+  - drums (drum set)
+  - eponymous
+  - additional
+  - membranophone
+  - original
+  - spoken vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Max_Roach.jpg
   caption: Max Roach
@@ -41,44 +41,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Charlie Parker
-  - Dizzy Gillespie
-  - Miles Davis
-  - Clifford Brown
+    - Charlie Parker
+    - Dizzy Gillespie
+    - Miles Davis
+    - Clifford Brown
   influenced:
-  - Numerous modern jazz drummers
+    - Numerous modern jazz drummers
   mentors:
-  - Jo Jones
-  - Kenny Clarke
+    - Jo Jones
+    - Kenny Clarke
 spotify_data:
   followers: 98988
   id: 6jrlNnS5B830kpi40j3S6g
   popularity: 42
-  url: https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g
+  url: 'https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g'
 discography_enriched: true
 top_tracks:
-- St. Thomas (Saxophone Colossus)
-- St. Thomas (Saxophone Colossus)
-- You Don't Know What Love Is - Rudy Van Gelder Rudy Van Gelder Remastered 2006 / Shared ISRC (Saxophone Colossus)
-- You Don't Know What Love Is - Rudy Van Gelder Rudy Van Gelder Remastered 2006 / Shared ISRC (Saxophone Colossus)
-- Embraceable You
-- I Don't Stand A Ghost Of A Chance With You (Brown And Roach Incorporated)
-- Salt Peanuts
-- Lonesome Lover (It's Time)
-- Stompin' At The Savoy (Brown And Roach Incorporated)
-- Equipoise (Members Don't Get Weary)
+  - St. Thomas (Saxophone Colossus)
+  - St. Thomas (Saxophone Colossus)
+  - >-
+    You Don't Know What Love Is - Rudy Van Gelder Rudy Van Gelder Remastered
+    2006 / Shared ISRC (Saxophone Colossus)
+  - >-
+    You Don't Know What Love Is - Rudy Van Gelder Rudy Van Gelder Remastered
+    2006 / Shared ISRC (Saxophone Colossus)
+  - Embraceable You
+  - I Don't Stand A Ghost Of A Chance With You (Brown And Roach Incorporated)
+  - Salt Peanuts
+  - Lonesome Lover (It's Time)
+  - Stompin' At The Savoy (Brown And Roach Incorporated)
+  - Equipoise (Members Don't Get Weary)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/0b6aea55-d855-4a33-ae08-b0280dd28684
-  spotify: https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g
-  wikipedia: https://en.wikipedia.org/wiki/Max_Roach
+  musicbrainz: 'https://musicbrainz.org/artist/0b6aea55-d855-4a33-ae08-b0280dd28684'
+  spotify: 'https://open.spotify.com/artist/6jrlNnS5B830kpi40j3S6g'
+  wikipedia: 'https://en.wikipedia.org/wiki/Max_Roach'
 image_path: 03_Resources/source_material/ArtistPortraits/Max_Roach.jpg
 biography_enhanced_at: '2025-10-22T06:48:54.040844'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.ncmea.net/max-roach-2/
-- https://en.wikipedia.org/wiki/Max_Roach
-- https://www.arts.gov/honors/jazz/max-roach
+  - 'https://www.ncmea.net/max-roach-2/'
+  - 'https://en.wikipedia.org/wiki/Max_Roach'
+  - 'https://www.arts.gov/honors/jazz/max-roach'
 network_extracted: true
 entry_created: '2025-10-22T06:48:54.040860'
 last_updated: '2025-12-23T08:16:03.247855'
@@ -86,9 +90,11 @@ disambiguation: 20th century US jazz drummer & composer
 gender: Male
 musicbrainz_id: 0b6aea55-d855-4a33-ae08-b0280dd28684
 tags:
-- 2008 universal fire victim
-- american
-- composer
+  - 2008 universal fire victim
+  - american
+  - composer
+is_active: false
+origin: 'Brooklyn, New York, United States'
 ---
 
 ![](Max_Roach.jpg)

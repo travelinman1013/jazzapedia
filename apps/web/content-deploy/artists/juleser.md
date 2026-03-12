@@ -3,13 +3,13 @@ title: Juleser
 wiki_slug: juleser
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/juleser.jpg
   caption: Juleser
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 110.4
   energy_avg: 0.491
@@ -25,40 +25,42 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Teddy Tietze
+    - Teddy Tietze
   influenced: []
   mentors: []
 spotify_data:
   followers: 425
   id: 12WRVS9crAuqOENhQWtXWt
   popularity: 3
-  url: https://open.spotify.com/artist/12WRVS9crAuqOENhQWtXWt
+  url: 'https://open.spotify.com/artist/12WRVS9crAuqOENhQWtXWt'
 discography_enriched: true
 top_tracks:
-- Ducky (Ducky)
-- Somehow (Somehow)
-- Adelaide (Juleser Is Shy)
-- Cuts (Cuts)
-- Talk Pretty (Heard Well Collection Vol. 25)
-- Thin Like Paper (Juleser Is Shy)
-- The Roof (Juleser Is Shy)
-- Stuffy Nose (Juleser Is Shy)
-- Oami (Oami)
-- Utica (Cuts)
+  - Ducky (Ducky)
+  - Somehow (Somehow)
+  - Adelaide (Juleser Is Shy)
+  - Cuts (Cuts)
+  - Talk Pretty (Heard Well Collection Vol. 25)
+  - Thin Like Paper (Juleser Is Shy)
+  - The Roof (Juleser Is Shy)
+  - Stuffy Nose (Juleser Is Shy)
+  - Oami (Oami)
+  - Utica (Cuts)
 external_urls:
-  spotify: https://open.spotify.com/artist/12WRVS9crAuqOENhQWtXWt
+  spotify: 'https://open.spotify.com/artist/12WRVS9crAuqOENhQWtXWt'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/juleser.jpg
 biography_enhanced_at: '2025-11-14T11:12:11.827699'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://tulanemagazine.com/juleser-is-shy-an-ep-review/
-- https://voyagehouston.com/interview/daily-inspiration-meet-teddy-tietze/
-- https://www.viberate.com/artist/juleser/
+  - 'https://tulanemagazine.com/juleser-is-shy-an-ep-review/'
+  - 'https://voyagehouston.com/interview/daily-inspiration-meet-teddy-tietze/'
+  - 'https://www.viberate.com/artist/juleser/'
 network_extracted: true
 entry_created: '2025-11-14T11:12:11.827708'
 last_updated: '2025-12-23T08:16:11.035740'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](juleser.jpg)

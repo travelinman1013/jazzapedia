@@ -4,7 +4,7 @@ wiki_slug: tom-misch-laura-misch
 schema_version: 2
 status: active
 genres:
-- indie soul
+  - indie soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/tom_misch_and_laura_misch.jpg
   caption: Tom Misch & Laura Misch
@@ -24,52 +24,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Laura Misch
-  - Loyle Carner
-  - Carmody
-  - Jordan Rakei
-  - William Arcane
+    - Laura Misch
+    - Loyle Carner
+    - Carmody
+    - Jordan Rakei
+    - William Arcane
   influenced:
-  - ''
+    - ''
   mentors:
-  - J Dilla
-  - Flying Lotus
+    - J Dilla
+    - Flying Lotus
 spotify_data:
   followers: 1364047
   id: 1uiEZYehlNivdK3iQyAbye
   popularity: 66
-  url: https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye
+  url: 'https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye'
 discography_enriched: true
 top_tracks:
-- It Runs Through Me (feat. De La Soul) (Geography)
-- Tidal Wave (What Kinda Music)
-- Movie (Geography)
-- Damselfly (Yesterday's Gone)
-- Old Man
-- Nightrider (What Kinda Music)
-- Disco Yes (Geography)
-- Colourblind
-- Better Days
-- Beautiful Escape (Beat Tape 2)
+  - It Runs Through Me (feat. De La Soul) (Geography)
+  - Tidal Wave (What Kinda Music)
+  - Movie (Geography)
+  - Damselfly (Yesterday's Gone)
+  - Old Man
+  - Nightrider (What Kinda Music)
+  - Disco Yes (Geography)
+  - Colourblind
+  - Better Days
+  - Beautiful Escape (Beat Tape 2)
 external_urls:
-  spotify: https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye
-  wikipedia: https://en.wikipedia.org/wiki/Tom_Misch
+  spotify: 'https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tom_Misch'
 image_path: 03_Resources/source_material/ArtistPortraits/tom_misch_and_laura_misch.jpg
 biography_enhanced_at: '2025-12-10T05:23:26.449395'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Tom_Misch
-- https://www.majesticjournal.com/tom-misch
-- https://www.stereofox.com/artists/tom-misch/
-- https://www.goodliveartists.com/artists/laura-misch
-- https://www.wonderlandmagazine.com/2019/06/03/behind-the-scenes-laura-misch/
-- https://laut.de/Laura-Misch
-- https://www.youtube.com/watch?v=VnaRRCzQHaY
+  - 'https://en.wikipedia.org/wiki/Tom_Misch'
+  - 'https://www.majesticjournal.com/tom-misch'
+  - 'https://www.stereofox.com/artists/tom-misch/'
+  - 'https://www.goodliveartists.com/artists/laura-misch'
+  - 'https://www.wonderlandmagazine.com/2019/06/03/behind-the-scenes-laura-misch/'
+  - 'https://laut.de/Laura-Misch'
+  - 'https://www.youtube.com/watch?v=VnaRRCzQHaY'
 network_extracted: true
 entry_created: '2025-12-10T05:23:26.449403'
 last_updated: '2025-12-23T08:16:17.544698'
-origin: South London, England, United Kingdom
+origin: 'South London, England, United Kingdom'
+birth_place: 'South London, England, United Kingdom'
+birth_date: '1995-06-25'
+artist_type: person
 ---
 
 ![](tom_misch_and_laura_misch.jpg)

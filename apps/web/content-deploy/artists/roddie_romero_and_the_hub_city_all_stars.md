@@ -4,10 +4,11 @@ wiki_slug: roddie-romero-the-hub-city-all-stars
 schema_version: 2
 status: active
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/roddie_romero_and_the_hub_city_all_stars.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/roddie_romero_and_the_hub_city_all_stars.jpg
   caption: Roddie Romero & the Hub City All Stars
   background: solo_singer
 audio_profile:
@@ -17,7 +18,7 @@ audio_profile:
   danceability_avg: 0.554
   acousticness_avg: 0.335
   instrumentalness_avg: 0.181
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.099
   liveness_avg: 0.228
   track_count: 48
@@ -25,51 +26,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Eric Adcock
-  - Chad Viator
-  - Chris French
-  - Jermaine Prejean / Gary Usie
-  - John Porter
+    - Eric Adcock
+    - Chad Viator
+    - Chris French
+    - Jermaine Prejean / Gary Usie
+    - John Porter
   influenced:
-  - Emerging Louisiana roots musicians
+    - Emerging Louisiana roots musicians
   mentors:
-  - Roddie Romero's grandfather
-  - Sonny Landreth
-  - Clifton Chenier
+    - Roddie Romero's grandfather
+    - Sonny Landreth
+    - Clifton Chenier
 spotify_data:
   followers: 587
   id: 6J30U7IvWMYykDJMJEpBRH
   popularity: 3
-  url: https://open.spotify.com/artist/6J30U7IvWMYykDJMJEpBRH
+  url: 'https://open.spotify.com/artist/6J30U7IvWMYykDJMJEpBRH'
 discography_enriched: true
 top_tracks:
-- Ma jolie (Gulfstream)
-- By Your Side (Gulfstream)
-- I Hope (Gulfstream)
-- Gulfstream (Gulfstream)
-- Mama's Fried Chicken (The La Louisianne Sessions)
-- My Baby Is the Real Thing (Gulfstream)
-- Rock 'n' Roll & Soul Radio (Gulfstream)
-- One Trick Pony (Gulfstream)
-- Po' Boy Walk (Gulfstream)
-- Party Down (The La Louisianne Sessions)
+  - Ma jolie (Gulfstream)
+  - By Your Side (Gulfstream)
+  - I Hope (Gulfstream)
+  - Gulfstream (Gulfstream)
+  - Mama's Fried Chicken (The La Louisianne Sessions)
+  - My Baby Is the Real Thing (Gulfstream)
+  - Rock 'n' Roll & Soul Radio (Gulfstream)
+  - One Trick Pony (Gulfstream)
+  - Po' Boy Walk (Gulfstream)
+  - Party Down (The La Louisianne Sessions)
 external_urls:
-  spotify: https://open.spotify.com/artist/6J30U7IvWMYykDJMJEpBRH
-  wikipedia: https://en.wikipedia.org/wiki/Roddie_Romero
-image_path: 03_Resources/source_material/ArtistPortraits/roddie_romero_and_the_hub_city_all_stars.jpg
+  spotify: 'https://open.spotify.com/artist/6J30U7IvWMYykDJMJEpBRH'
+  wikipedia: 'https://en.wikipedia.org/wiki/Roddie_Romero'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/roddie_romero_and_the_hub_city_all_stars.jpg
 biography_enhanced_at: '2025-11-17T10:46:23.826590'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.wwoz.org/acts/roddie-romero-hub-city-all-stars
-- https://joesplace.online/roddie-romero-the-hub-city-all-stars/
-- https://www.womex.com/virtual/ritmo_artists/roddie_romero_and_the
-- https://www.lafayettetravel.com/things-to-do/arts-culture/music/music-artists/roddie-romero/
-- https://rhythmandroots.com/artists/roddie-romero-the-hub-city-all-stars/
+  - 'https://www.wwoz.org/acts/roddie-romero-hub-city-all-stars'
+  - 'https://joesplace.online/roddie-romero-the-hub-city-all-stars/'
+  - 'https://www.womex.com/virtual/ritmo_artists/roddie_romero_and_the'
+  - >-
+    https://www.lafayettetravel.com/things-to-do/arts-culture/music/music-artists/roddie-romero/
+  - 'https://rhythmandroots.com/artists/roddie-romero-the-hub-city-all-stars/'
 network_extracted: true
 entry_created: '2025-11-17T10:46:23.826596'
 last_updated: '2025-12-23T08:16:14.968761'
-origin: Lafayette, Louisiana, USA
+origin: 'Lafayette, Louisiana, USA'
+artist_type: band
 ---
 
 ![](roddie_romero_and_the_hub_city_all_stars.jpg)

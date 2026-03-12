@@ -4,10 +4,10 @@ wiki_slug: the-uniques
 schema_version: 2
 status: active
 genres:
-- rocksteady
-- reggae
-- lovers rock
-- ska
+  - rocksteady
+  - reggae
+  - lovers rock
+  - ska
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_uniques.jpg
   caption: The Uniques
@@ -27,48 +27,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Slim Smith
-  - Roy Shirley
-  - Winston 'Niney' Holmes
-  - Cornell Campbell
-  - Jimmy Riley
+    - Slim Smith
+    - Roy Shirley
+    - Winston 'Niney' Holmes
+    - Cornell Campbell
+    - Jimmy Riley
   influenced: []
   mentors:
-  - Jamaican Rocksteady and Early Reggae Scene
+    - Jamaican Rocksteady and Early Reggae Scene
 spotify_data:
   followers: 11179
   id: 1EV3e39He1WLxcD1EjluLb
   popularity: 31
-  url: https://open.spotify.com/artist/1EV3e39He1WLxcD1EjluLb
+  url: 'https://open.spotify.com/artist/1EV3e39He1WLxcD1EjluLb'
 discography_enriched: true
 top_tracks:
-- My Conversation
-- Gypsy Woman
-- Give Me Some More Loving
-- Merry Christmas Darling (And a Happy New Year Too)
-- A Yuh (Hey You)
-- Let Me Go Girl (Absolutely Rock Steady)
-- My Conversation
-- Gypsy Woman
-- People Rock Steady (Absolutely Rock Steady)
-- Crimson and Clover
+  - My Conversation
+  - Gypsy Woman
+  - Give Me Some More Loving
+  - Merry Christmas Darling (And a Happy New Year Too)
+  - A Yuh (Hey You)
+  - Let Me Go Girl (Absolutely Rock Steady)
+  - My Conversation
+  - Gypsy Woman
+  - People Rock Steady (Absolutely Rock Steady)
+  - Crimson and Clover
 external_urls:
-  spotify: https://open.spotify.com/artist/1EV3e39He1WLxcD1EjluLb
-  wikipedia: Not available for Jamaican group (search results show Louisiana band with same name)
+  spotify: 'https://open.spotify.com/artist/1EV3e39He1WLxcD1EjluLb'
+  wikipedia: >-
+    Not available for Jamaican group (search results show Louisiana band with
+    same name)
 image_path: 03_Resources/source_material/ArtistPortraits/the_uniques.jpg
 biography_enhanced_at: '2025-12-22T01:47:40.178361'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Last.fm - The Uniques biography
-- MusicBrainz - The Uniques artist profile
-- AllMusic - The Uniques biography
-- UK Vibe - The Uniques album review
-- United Reggae - The Uniques discography
+  - Last.fm - The Uniques biography
+  - MusicBrainz - The Uniques artist profile
+  - AllMusic - The Uniques biography
+  - UK Vibe - The Uniques album review
+  - United Reggae - The Uniques discography
 network_extracted: true
 entry_created: '2025-12-22T01:47:40.178367'
 last_updated: '2025-12-23T08:16:17.239353'
-origin: Jamaica
+origin: 'Jamaica, Jamaica, Jamaica'
+artist_type: band
 ---
 
 ![](the_uniques.jpg)

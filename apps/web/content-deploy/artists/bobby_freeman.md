@@ -1,17 +1,17 @@
 ---
-title: bobby freeman
+title: Bobby Freeman
 wiki_slug: bobby-freeman
 schema_version: 2
 status: active
-birth_place: San Francisco, California, United States
+birth_place: 'San Francisco, California, United States'
 genres:
-- doo-wop
-- rockabilly
+  - doo-wop
+  - rockabilly
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bobby_freeman.jpg
   caption: bobby freeman
   background: solo_singer
-  origin: San Francisco, California, United States
+  origin: 'San Francisco, California, United States'
 audio_profile:
   tempo_avg: 131.2
   energy_avg: 0.64
@@ -27,48 +27,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sylvester Stewart (Sly Stone)
-  - Tom Donahue
-  - The Romancers
-  - The West Coast Vocaleers
+    - Sylvester Stewart (Sly Stone)
+    - Tom Donahue
+    - The Romancers
+    - The West Coast Vocaleers
   influenced:
-  - The Beach Boys
-  - The Ramones
-  - Bette Midler
-  - John Lennon
+    - The Beach Boys
+    - The Ramones
+    - Bette Midler
+    - John Lennon
   mentors:
-  - Fats Domino
+    - Fats Domino
 spotify_data:
   followers: 17398
   id: 5oMWW19j0AXl7Sy4Xn9rmg
   popularity: 30
-  url: https://open.spotify.com/artist/5oMWW19j0AXl7Sy4Xn9rmg
+  url: 'https://open.spotify.com/artist/5oMWW19j0AXl7Sy4Xn9rmg'
 discography_enriched: true
 top_tracks:
-- Do You Wanna Dance (Do You Wanna Dance)
-- Do You Wanna Dance (Do You Wanna Dance?)
-- Do You Want To Dance
-- Betty Lou Got a New Pair of Shoes
-- C'mon And Swim (Do You Wanna Dance)
-- Do You Wanna Dance
-- C'mon and Swim (Do You Wanna Dance?)
-- Do You Want to Dance? (Starlight)
-- Little Girl Don't You Understand (Do You Wanna Dance?)
-- Betty Lou Got A New Pair Of Shoes (Do You Wanna Dance)
+  - Do You Wanna Dance (Do You Wanna Dance)
+  - Do You Wanna Dance (Do You Wanna Dance?)
+  - Do You Want To Dance
+  - Betty Lou Got a New Pair of Shoes
+  - C'mon And Swim (Do You Wanna Dance)
+  - Do You Wanna Dance
+  - C'mon and Swim (Do You Wanna Dance?)
+  - Do You Want to Dance? (Starlight)
+  - Little Girl Don't You Understand (Do You Wanna Dance?)
+  - Betty Lou Got A New Pair Of Shoes (Do You Wanna Dance)
 external_urls:
-  spotify: https://open.spotify.com/artist/5oMWW19j0AXl7Sy4Xn9rmg
-  wikipedia: https://en.wikipedia.org/wiki/Bobby_Freeman
+  spotify: 'https://open.spotify.com/artist/5oMWW19j0AXl7Sy4Xn9rmg'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bobby_Freeman'
 image_path: 03_Resources/source_material/ArtistPortraits/bobby_freeman.jpg
 biography_enhanced_at: '2025-11-20T07:27:18.580493'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Bobby_Freeman
-- https://www.sfgate.com/music/article/Bobby-Freeman-SF-s-first-rock-n-roll-10932619.php
-- https://top40weekly.com/bobby-freeman/
+  - 'https://en.wikipedia.org/wiki/Bobby_Freeman'
+  - >-
+    https://www.sfgate.com/music/article/Bobby-Freeman-SF-s-first-rock-n-roll-10932619.php
+  - 'https://top40weekly.com/bobby-freeman/'
 network_extracted: true
 entry_created: '2025-11-20T07:27:18.580503'
 last_updated: '2025-12-23T08:16:05.864128'
+origin: 'San Francisco, California, United States'
+birth_date: '1940-06-13'
+death_date: '2017-01-23'
+artist_type: person
 ---
 
 ![](bobby_freeman.jpg)

@@ -3,17 +3,17 @@ title: Janiva Magness
 wiki_slug: janiva-magness
 schema_version: 2
 status: active
-birth_place: Detroit, Michigan, United States
+birth_place: 'Detroit, Michigan, United States'
 genres:
-- blues
-- modern blues
-- blues rock
-- soul blues
+  - blues
+  - modern blues
+  - blues rock
+  - soul blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/janiva_magness.jpg
   caption: Janiva Magness
   background: solo_singer
-  origin: Detroit, Michigan, United States
+  origin: 'Detroit, Michigan, United States'
 audio_profile:
   tempo_avg: 120.8
   energy_avg: 0.592
@@ -21,7 +21,7 @@ audio_profile:
   danceability_avg: 0.569
   acousticness_avg: 0.424
   instrumentalness_avg: 0.021
-  loudness_avg: -7.0
+  loudness_avg: -7
   speechiness_avg: 0.059
   liveness_avg: 0.156
   track_count: 51
@@ -29,53 +29,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Colin Linden
-  - Lauren Bliss
-  - Andrew Lowden
-  - Matt Cartsonis
-  - Kid Ramos
-  - R.L. Burnside
+    - Colin Linden
+    - Lauren Bliss
+    - Andrew Lowden
+    - Matt Cartsonis
+    - Kid Ramos
+    - R.L. Burnside
   influenced:
-  - Kory Montgomery Mack (as referenced "Mack")
+    - Kory Montgomery Mack (as referenced "Mack")
   mentors:
-  - Otis Rush
-  - Etta James
+    - Otis Rush
+    - Etta James
 spotify_data:
   followers: 25023
   id: 3igRFmvurYBLvQ4aYliwXg
   popularity: 36
-  url: https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg
+  url: 'https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg'
 discography_enriched: true
 top_tracks:
-- Let Me Breathe (Original)
-- When You Were My King (Original)
-- I Won't Cry (Stronger For It)
-- Holes
-- You Were Never Mine (Do I Move You)
-- Holes
-- Hittin' On Nothin'
-- Mountain (Original)
-- I'm Feelin' Good (The Devil Is An Angel Too)
-- Hittin' On Nothin'
+  - Let Me Breathe (Original)
+  - When You Were My King (Original)
+  - I Won't Cry (Stronger For It)
+  - Holes
+  - You Were Never Mine (Do I Move You)
+  - Holes
+  - Hittin' On Nothin'
+  - Mountain (Original)
+  - I'm Feelin' Good (The Devil Is An Angel Too)
+  - Hittin' On Nothin'
 external_urls:
-  spotify: https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg
-  wikipedia: https://en.wikipedia.org/wiki/Janiva_Magness
+  spotify: 'https://open.spotify.com/artist/3igRFmvurYBLvQ4aYliwXg'
+  wikipedia: 'https://en.wikipedia.org/wiki/Janiva_Magness'
 image_path: 03_Resources/source_material/ArtistPortraits/janiva_magness.jpg
 biography_enhanced_at: '2025-12-13T11:45:26.452817'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Janiva_Magness
-- https://www.janivamagness.com/bio
-- https://www.bluesblastmagazine.com/featured-interview-janiva-magness/
-- https://stompthebluesoutofhomelessness.com/content/janiva-magness
-- https://theboot.com/who-is-janiva-magness/
-- https://www.jazzalley.com/www-home/artist.jsp?shownum=1426
-- https://thebluegrasssituation.com/read/bgs-55-janiva-magness/
-- https://www.janivamagness.com/fyc
+  - 'https://en.wikipedia.org/wiki/Janiva_Magness'
+  - 'https://www.janivamagness.com/bio'
+  - 'https://www.bluesblastmagazine.com/featured-interview-janiva-magness/'
+  - 'https://stompthebluesoutofhomelessness.com/content/janiva-magness'
+  - 'https://theboot.com/who-is-janiva-magness/'
+  - 'https://www.jazzalley.com/www-home/artist.jsp?shownum=1426'
+  - 'https://thebluegrasssituation.com/read/bgs-55-janiva-magness/'
+  - 'https://www.janivamagness.com/fyc'
 network_extracted: true
 entry_created: '2025-12-13T11:45:26.452824'
 last_updated: '2025-12-23T08:16:10.228824'
+birth_date: '1957-01-30'
+artist_type: person
 ---
 
 ![](janiva_magness.jpg)

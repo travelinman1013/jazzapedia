@@ -3,15 +3,15 @@ title: Luther Tucker
 wiki_slug: luther-tucker
 schema_version: 2
 status: active
-birth_place: Memphis, Tennessee, USA
+birth_place: 'Memphis, Tennessee, USA'
 genres:
-- blues
-- classic blues
+  - blues
+  - classic blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/luther_tucker.jpg
   caption: Luther Tucker
   background: solo_singer
-  origin: Memphis, Tennessee, USA
+  origin: 'Memphis, Tennessee, USA'
 audio_profile:
   tempo_avg: 131.9
   energy_avg: 0.546
@@ -27,47 +27,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Little Walter
-  - James Cotton
-  - Muddy Waters
-  - John Lee Hooker
-  - Sonny Boy Williamson II
+    - Little Walter
+    - James Cotton
+    - Muddy Waters
+    - John Lee Hooker
+    - Sonny Boy Williamson II
   influenced:
-  - Robben Ford
-  - Elvin Bishop
+    - Robben Ford
+    - Elvin Bishop
   mentors:
-  - Robert Jr. Lockwood
+    - Robert Jr. Lockwood
 spotify_data:
   followers: 545
   id: 5YGB27K9zFlprOQoUkVBOi
   popularity: 2
-  url: https://open.spotify.com/artist/5YGB27K9zFlprOQoUkVBOi
+  url: 'https://open.spotify.com/artist/5YGB27K9zFlprOQoUkVBOi'
 discography_enriched: true
 top_tracks:
-- Sweet Home Chicago (Sad Hours)
-- Five Long Years (Sad Hours)
-- Keep on Drinking (Sad Hours)
-- Playboy (Sad Hours)
-- Luther's Tribute to Elmore (Sad Hours)
-- 'High Rise Blues (Bob Corritore & Friends: High Rise Blues)'
-- You Got What You Wanted (Sad Hours)
-- Mean Old World (Sad Hours)
-- Can't Live Without It (Sad Hours)
-- Person to Person (Sad Hours)
+  - Sweet Home Chicago (Sad Hours)
+  - Five Long Years (Sad Hours)
+  - Keep on Drinking (Sad Hours)
+  - Playboy (Sad Hours)
+  - Luther's Tribute to Elmore (Sad Hours)
+  - 'High Rise Blues (Bob Corritore & Friends: High Rise Blues)'
+  - You Got What You Wanted (Sad Hours)
+  - Mean Old World (Sad Hours)
+  - Can't Live Without It (Sad Hours)
+  - Person to Person (Sad Hours)
 external_urls:
-  spotify: https://open.spotify.com/artist/5YGB27K9zFlprOQoUkVBOi
-  wikipedia: https://en.wikipedia.org/wiki/Luther_Tucker
+  spotify: 'https://open.spotify.com/artist/5YGB27K9zFlprOQoUkVBOi'
+  wikipedia: 'https://en.wikipedia.org/wiki/Luther_Tucker'
 image_path: 03_Resources/source_material/ArtistPortraits/luther_tucker.jpg
 biography_enhanced_at: '2025-11-26T07:55:19.390694'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Luther_Tucker
-- http://overdoseoffingalcocoa.blogspot.com/2009/09/luther-tucker.html
-- https://www.allmusic.com/artist/luther-tucker-mn0000204326
+  - 'https://en.wikipedia.org/wiki/Luther_Tucker'
+  - 'http://overdoseoffingalcocoa.blogspot.com/2009/09/luther-tucker.html'
+  - 'https://www.allmusic.com/artist/luther-tucker-mn0000204326'
 network_extracted: true
 entry_created: '2025-11-26T07:55:19.390703'
 last_updated: '2025-12-23T08:16:12.397796'
+origin: 'Chicago, Illinois, United States'
+birth_date: '1936-01-20'
+death_date: '1993'
+artist_type: person
 ---
 
 ![](luther_tucker.jpg)

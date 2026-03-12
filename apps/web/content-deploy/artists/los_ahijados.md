@@ -2,12 +2,12 @@
 title: Los Ahijados
 wiki_slug: los-ahijados
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- son cubano
-- guaracha
-- salsa
+  - son cubano
+  - guaracha
+  - salsa
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/los_ahijados.jpg
   caption: Los Ahijados
@@ -27,64 +27,79 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Cuco Valoy
-  - Martín Valoy
+    - Cuco Valoy
+    - Martín Valoy
   influenced:
-  - Later Dominican salseros and soneros (e.g., subsequent projects of Cuco Valoy and his musical circle)
+    - >-
+      Later Dominican salseros and soneros (e.g., subsequent projects of Cuco
+      Valoy and his musical circle)
   mentors:
-  - Cuban son and guaracha tradition (Arsenio Rodríguez, Septeto Habanero, Trío Matamoros – as a stylistic lineage)
+    - >-
+      Cuban son and guaracha tradition (Arsenio Rodríguez, Septeto Habanero,
+      Trío Matamoros – as a stylistic lineage)
 spotify_data:
   followers: 2243
   id: 2ExlQUfYRcM4rrSmzONHst
   popularity: 16
-  url: https://open.spotify.com/artist/2ExlQUfYRcM4rrSmzONHst
+  url: 'https://open.spotify.com/artist/2ExlQUfYRcM4rrSmzONHst'
 discography_enriched: true
 top_tracks:
-- El Hombre Misterioso (Línea Clásica Salsa Pura, Vol. 1)
-- Timoteo (De Nuevo Los Ahijados)
-- El Paso de la Jaiba (El Paso de la Jaiba)
-- Corazon de Acero (The Cuba's Glories, Vol. 5)
-- Asi Son las Mujeres (El Paso de la Jaiba)
-- Triangulo (El Paso de la Jaiba)
-- Doña Vereda (De Nuevo Los Ahijados)
-- Recordando a Matamoros (Los Grandes del Son)
-- Vaiven (El Paso de la Jaiba)
-- Caminito (De Nuevo Los Ahijados)
+  - 'El Hombre Misterioso (Línea Clásica Salsa Pura, Vol. 1)'
+  - Timoteo (De Nuevo Los Ahijados)
+  - El Paso de la Jaiba (El Paso de la Jaiba)
+  - 'Corazon de Acero (The Cuba''s Glories, Vol. 5)'
+  - Asi Son las Mujeres (El Paso de la Jaiba)
+  - Triangulo (El Paso de la Jaiba)
+  - Doña Vereda (De Nuevo Los Ahijados)
+  - Recordando a Matamoros (Los Grandes del Son)
+  - Vaiven (El Paso de la Jaiba)
+  - Caminito (De Nuevo Los Ahijados)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9eaafb99-a9dd-4490-aa39-1deac8a88eb0
-  spotify: https://open.spotify.com/artist/2ExlQUfYRcM4rrSmzONHst
+  musicbrainz: 'https://musicbrainz.org/artist/9eaafb99-a9dd-4490-aa39-1deac8a88eb0'
+  spotify: 'https://open.spotify.com/artist/2ExlQUfYRcM4rrSmzONHst'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/los_ahijados.jpg
 biography_enhanced_at: '2025-12-07T04:40:59.044686'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- 'YouTube – VintageMusicFm full‑album upload: “Dúo Los Ahijados, Son Guaracha Bolero Colección iLatina #108 (Full Album)”[1]'
-- 'YouTube – Track upload: “Quiero un Vacilón (Guaracha Son) · Dúo Los Ahijados” by The Orchard Enterprises (metadata and
-  genre labeling)[4]'
-- 'YouTube – Playlist: “Dúo Los Ahijados” (track list and repertoire overview)[5]'
-- 'YouTube – Upload: “Duo Los Ahijados – Báilalo y Gózalo (1969)” (dating and context within late‑1960s Latin music)[6]'
-- YouTube – Los Ahijados Topic channel (album titles such as *Herencia Caribe, Los Ahijados*, *El paso de la jaiba*, *Volverás
-  por mí* and categorization under Cuba Es Música series)[7]
-- Secondary web references on Cuco Valoy’s career indicating Los Ahijados as an early duo project with his brother Martín
-  Valoy, and situating them within mid‑20th‑century Dominican son/guaracha traditions.
+  - >-
+    YouTube – VintageMusicFm full‑album upload: “Dúo Los Ahijados, Son Guaracha
+    Bolero Colección iLatina #108 (Full Album)”[1]
+  - >-
+    YouTube – Track upload: “Quiero un Vacilón (Guaracha Son) · Dúo Los
+    Ahijados” by The Orchard Enterprises (metadata and genre labeling)[4]
+  - >-
+    YouTube – Playlist: “Dúo Los Ahijados” (track list and repertoire
+    overview)[5]
+  - >-
+    YouTube – Upload: “Duo Los Ahijados – Báilalo y Gózalo (1969)” (dating and
+    context within late‑1960s Latin music)[6]
+  - >-
+    YouTube – Los Ahijados Topic channel (album titles such as *Herencia Caribe,
+    Los Ahijados*, *El paso de la jaiba*, *Volverás por mí* and categorization
+    under Cuba Es Música series)[7]
+  - >-
+    Secondary web references on Cuco Valoy’s career indicating Los Ahijados as
+    an early duo project with his brother Martín Valoy, and situating them
+    within mid‑20th‑century Dominican son/guaracha traditions.
 network_extracted: true
 entry_created: '2025-12-07T04:40:59.044695'
 last_updated: '2025-12-23T08:16:12.136697'
 disambiguation: Dominican son duo
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 15f94087-22cd-470a-ae53-5647fa59cb56
-  name: Cuco Valoy
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3a26a5dd-9e48-4a7b-bc01-49f1c0bdd547
-  name: Martín Valoy
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 15f94087-22cd-470a-ae53-5647fa59cb56
+    name: Cuco Valoy
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3a26a5dd-9e48-4a7b-bc01-49f1c0bdd547
+    name: Martín Valoy
 musicbrainz_id: 9eaafb99-a9dd-4490-aa39-1deac8a88eb0
-origin: Santo Domingo, Distrito Nacional, Dominican Republic
+origin: 'Santo Domingo, Distrito Nacional, Dominican Republic'
 ---
 
 ![](los_ahijados.jpg)

@@ -1,50 +1,55 @@
 ---
 biography_enhanced_at: '2026-01-21T01:12:21.341566'
-birth_place: East London, England, United Kingdom (birthplace); based in Nottingham,
+birth_place: >-
+  East London, England, United Kingdom (birthplace); based in Nottingham,
   England, United Kingdom
 enhancement_provider: perplexity
 entry_created: '2026-01-21T01:12:21.341572'
 external_urls:
-  spotify: https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg
+  spotify: 'https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg'
   wikipedia: null
 genres:
-- indie soul
-- jazz pop
-- neo soul
-- alternative r&b
+  - indie soul
+  - jazz pop
+  - neo soul
+  - alternative r&b
 image_path: 03_Resources/source_material/ArtistPortraits/yazmin_lacey.jpg
 last_updated: '2026-01-21T01:12:21.341573'
 musical_connections:
   collaborators:
-  - Pete (Producer)
-  - Three Body Trio
-  - Broadstrokes
-  - Warren Xlnce
-  - Congi
+    - Pete (Producer)
+    - Three Body Trio
+    - Broadstrokes
+    - Warren Xlnce
+    - Congi
   influenced: []
   mentors:
-  - Gilles Peterson
-  - Soul II Soul
-  - Sade
+    - Gilles Peterson
+    - Soul II Soul
+    - Sade
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.truthandliesmusic.com/magazine/yazmin-lacey-an-interview
-- https://emerged-agency.com/portfolio/yazmin-lacey
-- https://www.cityrecitalhall.com/whats-on/archive/yazmin-lacey/
-- https://albumism.com/interviews/yazmin-lacey
-- https://www.clashmusic.com/features/meet-the-uk-soul-queens-telling-their-own-story/
-- https://www.thewildhoneypie.com/buzzing-daily/yazmin-lacey-morning-matters/p65
-- https://songlytics.com/en/artists/yazmin-lacey
-- https://www.magunga.com/the-healing-of-yazmin-lacey-safaricom-jazz/
-- https://wepresent.wetransfer.com/stories/gilles-peterson-yazmin-lacey
+  - 'https://www.truthandliesmusic.com/magazine/yazmin-lacey-an-interview'
+  - 'https://emerged-agency.com/portfolio/yazmin-lacey'
+  - 'https://www.cityrecitalhall.com/whats-on/archive/yazmin-lacey/'
+  - 'https://albumism.com/interviews/yazmin-lacey'
+  - >-
+    https://www.clashmusic.com/features/meet-the-uk-soul-queens-telling-their-own-story/
+  - >-
+    https://www.thewildhoneypie.com/buzzing-daily/yazmin-lacey-morning-matters/p65
+  - 'https://songlytics.com/en/artists/yazmin-lacey'
+  - 'https://www.magunga.com/the-healing-of-yazmin-lacey-safaricom-jazz/'
+  - 'https://wepresent.wetransfer.com/stories/gilles-peterson-yazmin-lacey'
 spotify_data:
   followers: 142013
   id: 2datC2OML2YxykP6vnDRmg
   popularity: 55
-  url: https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg
+  url: 'https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg'
 status: active
 title: Yazmin Lacey
+origin: 'Nottingham, England, United Kingdom'
+artist_type: person
 ---
 
 ![](yazmin_lacey.jpg)

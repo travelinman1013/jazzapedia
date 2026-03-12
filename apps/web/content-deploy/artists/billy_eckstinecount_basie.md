@@ -1,20 +1,20 @@
 ---
-title: billy eckstine/count basie
+title: Billy Eckstine/Count Basie
 wiki_slug: billy-eckstinecount-basie
 schema_version: 2
 status: active
-birth_place: Pittsburgh, Pennsylvania, United States
+birth_place: 'Pittsburgh, Pennsylvania, United States'
 genres:
-- vocal jazz
-- big band
-- bebop
+  - vocal jazz
+  - big band
+  - bebop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/billy_eckstinecount_basie.jpg
   caption: billy eckstine/count basie
   background: solo_singer
-  origin: Pittsburgh, Pennsylvania, United States
+  origin: 'Pittsburgh, Pennsylvania, United States'
 audio_profile:
-  tempo_avg: 107.0
+  tempo_avg: 107
   energy_avg: 0.23
   valence_avg: 0.259
   danceability_avg: 0.338
@@ -28,48 +28,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Count Basie
-  - Sarah Vaughan
-  - Charlie Parker, Dizzy Gillespie, Miles Davis, Art Blakey, Dexter Gordon, Fats Navarro
+    - Count Basie
+    - Sarah Vaughan
+    - >-
+      Charlie Parker, Dizzy Gillespie, Miles Davis, Art Blakey, Dexter Gordon,
+      Fats Navarro
   influenced:
-  - Joe Williams
-  - Johnny Hartman
-  - Lou Rawls
+    - Joe Williams
+    - Johnny Hartman
+    - Lou Rawls
   mentors:
-  - Earl Hines
+    - Earl Hines
 spotify_data:
   followers: 48853
   id: 6htazaFMy8zs0f3sMtM2Pt
   popularity: 36
-  url: https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt
+  url: 'https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt'
 discography_enriched: true
 top_tracks:
-- The Good Life (Now Singing in 12 Great Movies)
-- 'My Foolish Heart (Verve Jazz Masters 22: Billy Eckstine)'
-- Passing Strangers (The Complete Sarah Vaughan On Mercury (Vol.2))
-- No One but You (Billy Eckstine Sings)
-- '(She''s Got The) Blues For Sale (Timeless: Billy Eckstine)'
-- 'I Apologize (Verve Jazz Masters 22: Billy Eckstine)'
-- Days of Wine and Roses (Now Singing in 12 Great Movies)
-- Gigi (Billy Eckstine's Imagination)
-- Laura
-- Moon River (Now Singing in 12 Great Movies)
+  - The Good Life (Now Singing in 12 Great Movies)
+  - 'My Foolish Heart (Verve Jazz Masters 22: Billy Eckstine)'
+  - Passing Strangers (The Complete Sarah Vaughan On Mercury (Vol.2))
+  - No One but You (Billy Eckstine Sings)
+  - '(She''s Got The) Blues For Sale (Timeless: Billy Eckstine)'
+  - 'I Apologize (Verve Jazz Masters 22: Billy Eckstine)'
+  - Days of Wine and Roses (Now Singing in 12 Great Movies)
+  - Gigi (Billy Eckstine's Imagination)
+  - Laura
+  - Moon River (Now Singing in 12 Great Movies)
 external_urls:
-  spotify: https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt
-  wikipedia: https://en.wikipedia.org/wiki/Billy_Eckstine
+  spotify: 'https://open.spotify.com/artist/6htazaFMy8zs0f3sMtM2Pt'
+  wikipedia: 'https://en.wikipedia.org/wiki/Billy_Eckstine'
 image_path: 03_Resources/source_material/ArtistPortraits/billy_eckstinecount_basie.jpg
 biography_enhanced_at: '2025-11-20T06:44:07.087963'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Billy_Eckstine
-- https://www.ebsco.com/research-starters/biography/billy-eckstine
-- https://www.jazzstandards.com/biographies/biography_2041.htm
-- https://en.wikipedia.org/wiki/Count_Basie
-- https://www.allaboutjazz.com/musicians/billy-eckstine/
+  - 'https://en.wikipedia.org/wiki/Billy_Eckstine'
+  - 'https://www.ebsco.com/research-starters/biography/billy-eckstine'
+  - 'https://www.jazzstandards.com/biographies/biography_2041.htm'
+  - 'https://en.wikipedia.org/wiki/Count_Basie'
+  - 'https://www.allaboutjazz.com/musicians/billy-eckstine/'
 network_extracted: true
 entry_created: '2025-11-20T06:44:07.087974'
 last_updated: '2025-12-23T08:16:05.564853'
+artist_type: person
 ---
 
 ![](billy_eckstinecount_basie.jpg)

@@ -1,51 +1,52 @@
 ---
-artist_type: band
+artist_type: person
 biography_enhanced_at: '2026-01-12T02:06:30.254843'
 birth_date: '1984'
 enhancement_provider: perplexity
 entry_created: '2026-01-12T02:06:30.254848'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5480ad08-9e62-47c4-b586-5ec2f1a49239
-  spotify: https://open.spotify.com/artist/3cuzKF81ZhPKrg2BN7CTLv
-  wikipedia: https://en.wikipedia.org/wiki/Little_Benny_%26_the_Masters
+  musicbrainz: 'https://musicbrainz.org/artist/5480ad08-9e62-47c4-b586-5ec2f1a49239'
+  spotify: 'https://open.spotify.com/artist/3cuzKF81ZhPKrg2BN7CTLv'
+  wikipedia: 'https://en.wikipedia.org/wiki/Little_Benny_%26_the_Masters'
 formation_year: 1984
 genres:
-- go-go
-- baltimore club
+  - go-go
+  - baltimore club
 image_path: 03_Resources/source_material/ArtistPortraits/little_benny_and_the_masters.jpg
 is_active: true
 last_updated: '2026-01-12T02:06:30.254849'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c6aba351-d087-4d8f-8c95-b2c597e470f9
-  name: Benny Harley
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c6aba351-d087-4d8f-8c95-b2c597e470f9
+    name: Benny Harley
 musical_connections:
   collaborators:
-  - Rare Essence
-  - Proper Utensils
-  - Kato Hammond
+    - Rare Essence
+    - Proper Utensils
+    - Kato Hammond
   influenced:
-  - Washington, D.C. go-go musicians of later generations
+    - 'Washington, D.C. go-go musicians of later generations'
   mentors:
-  - Chuck Brown
+    - Chuck Brown
 musicbrainz_id: 5480ad08-9e62-47c4-b586-5ec2f1a49239
 network_extracted: true
-origin: Washington, D.C.
+origin: 'Washington, D.C., United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Little_Benny_%26_the_Masters
-- https://en.wikipedia.org/wiki/Anthony_Harley
-- https://bandwidth.wamu.org/index.html%3Fp=51965.html
-- https://washingtonian.com/2019/10/30/history-go-go-6-step-guide-the-essentials/
-- https://www.youtube.com/watch?v=H7LkHnCmkk4
-- https://www.youtube.com/watch?v=b7m2dwOEwDw
+  - 'https://en.wikipedia.org/wiki/Little_Benny_%26_the_Masters'
+  - 'https://en.wikipedia.org/wiki/Anthony_Harley'
+  - 'https://bandwidth.wamu.org/index.html%3Fp=51965.html'
+  - >-
+    https://washingtonian.com/2019/10/30/history-go-go-6-step-guide-the-essentials/
+  - 'https://www.youtube.com/watch?v=H7LkHnCmkk4'
+  - 'https://www.youtube.com/watch?v=b7m2dwOEwDw'
 spotify_data:
   followers: 3161
   id: 3cuzKF81ZhPKrg2BN7CTLv
   popularity: 8
-  url: https://open.spotify.com/artist/3cuzKF81ZhPKrg2BN7CTLv
+  url: 'https://open.spotify.com/artist/3cuzKF81ZhPKrg2BN7CTLv'
 status: active
 title: Little Benny & The Masters
 ---

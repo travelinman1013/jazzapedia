@@ -1,15 +1,15 @@
 ---
-title: dave baby cortez
+title: Dave Baby Cortez
 wiki_slug: dave-baby-cortez
 schema_version: 2
 status: active
-birth_place: Detroit, Michigan, USA
+birth_place: 'Detroit, Michigan, USA'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/dave_baby_cortez.jpg
   caption: dave baby cortez
   background: solo_singer
-  origin: Detroit, Michigan, USA
+  origin: 'Detroit, Michigan, USA'
 audio_profile:
   tempo_avg: 120.3
   energy_avg: 0.732
@@ -25,51 +25,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Howard Guyton
-  - Gary Hammond
-  - Wild Jimmy Spruill
-  - James J. Kriegsmann
-  - Kurt Wood
-  - Lonnie Youngblood
-  - Mick Collins
+    - Howard Guyton
+    - Gary Hammond
+    - Wild Jimmy Spruill
+    - James J. Kriegsmann
+    - Kurt Wood
+    - Lonnie Youngblood
+    - Mick Collins
   influenced:
-  - Pop and R&B organists
+    - Pop and R&B organists
   mentors:
-  - David Clowney Sr.
+    - David Clowney Sr.
 spotify_data:
   followers: 3709
   id: 7fGPj0sGEcZACQTUVbz3NY
   popularity: 22
-  url: https://open.spotify.com/artist/7fGPj0sGEcZACQTUVbz3NY
+  url: 'https://open.spotify.com/artist/7fGPj0sGEcZACQTUVbz3NY'
 discography_enriched: true
 top_tracks:
-- The Happy Organ (Happy Organs, Wild Guitars & Piano Shuffles)
-- Rinky Dink (Rinky Dink)
-- Happy Soul With A Hook - DJ Format Remix
-- Happy Soul With A Hook
-- The Happy Organ (The Happy Organ)
-- The Happy Organ (Everybody Dance)
-- The Happy Organ (The Happy Organ (Expanded Edition))
-- The Happy Organ (The Happy Organ and Other Great Recordings 1956 - 1961)
-- Happy Soul With A Hook - DJ Format Remix
-- The Happy Organ (Dave 'Baby' Cortez & His Happy Organ)
+  - 'The Happy Organ (Happy Organs, Wild Guitars & Piano Shuffles)'
+  - Rinky Dink (Rinky Dink)
+  - Happy Soul With A Hook - DJ Format Remix
+  - Happy Soul With A Hook
+  - The Happy Organ (The Happy Organ)
+  - The Happy Organ (Everybody Dance)
+  - The Happy Organ (The Happy Organ (Expanded Edition))
+  - The Happy Organ (The Happy Organ and Other Great Recordings 1956 - 1961)
+  - Happy Soul With A Hook - DJ Format Remix
+  - The Happy Organ (Dave 'Baby' Cortez & His Happy Organ)
 external_urls:
-  spotify: https://open.spotify.com/artist/7fGPj0sGEcZACQTUVbz3NY
-  wikipedia: https://en.wikipedia.org/wiki/Dave_%22Baby%22_Cortez
+  spotify: 'https://open.spotify.com/artist/7fGPj0sGEcZACQTUVbz3NY'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dave_%22Baby%22_Cortez'
 image_path: 03_Resources/source_material/ArtistPortraits/dave_baby_cortez.jpg
 biography_enhanced_at: '2025-11-06T13:26:12.088621'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Dave_%22Baby%22_Cortez
-- https://fromthevaults-boppinbob.blogspot.com/2015/08/dave-baby-cortez-born-13-august-1938.html
-- https://www.namm.org/library/oral-history/dave-cortez
-- https://michiganrockandrolllegends.com/hall-of-fame/artists/535-dave-baby-cortez
-- https://pdxretro.com/2025/04/dave-baby-cortez-then-and-now/
-- https://www.last.fm/music/Dave+%22Baby%22+Cortez/+wiki
+  - 'https://en.wikipedia.org/wiki/Dave_%22Baby%22_Cortez'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2015/08/dave-baby-cortez-born-13-august-1938.html
+  - 'https://www.namm.org/library/oral-history/dave-cortez'
+  - >-
+    https://michiganrockandrolllegends.com/hall-of-fame/artists/535-dave-baby-cortez
+  - 'https://pdxretro.com/2025/04/dave-baby-cortez-then-and-now/'
+  - 'https://www.last.fm/music/Dave+%22Baby%22+Cortez/+wiki'
 network_extracted: true
 entry_created: '2025-11-06T13:26:12.088644'
 last_updated: '2025-12-23T08:16:07.483878'
+birth_date: '1938-08-13'
+death_date: '2022-05-31'
+artist_type: person
 ---
 
 ![](dave_baby_cortez.jpg)

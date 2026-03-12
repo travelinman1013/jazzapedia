@@ -1,121 +1,123 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-20T01:28:18.429329'
 birth_date: '1976'
 disambiguation: Australian rock band
 enhancement_provider: perplexity
 entry_created: '2026-01-20T01:28:18.429335'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/05072650-4b05-4e8b-83d0-dba2576e306a
-  spotify: https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk
-  wikipedia: https://en.wikipedia.org/wiki/Midnight_Oil
+  musicbrainz: 'https://musicbrainz.org/artist/05072650-4b05-4e8b-83d0-dba2576e306a'
+  spotify: 'https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk'
+  wikipedia: 'https://en.wikipedia.org/wiki/Midnight_Oil'
 genres:
-- surf rock
+  - surf rock
 image_path: 03_Resources/source_material/ArtistPortraits/midnight_oil.jpg
 instruments:
-- electric bass guitar
-- original
-- drums (drum set)
-- percussion
-- guitar
-- keyboard
-- lead vocals
-last_updated: '2026-01-20T01:28:18.429336'
-members:
-- begin: '1972'
-  end: '1980'
-  instruments:
   - electric bass guitar
   - original
-  mbid: 77711d0b-5cfb-4e46-a35d-14c24e49b6f8
-  name: Andrew James
-- &id001
-  begin: '1972'
-  end: ''
-  instruments:
   - drums (drum set)
-  - original
   - percussion
-  mbid: be512ae4-7061-42ca-855a-e7d78701d287
-  name: Rob Hirst
-- &id002
-  begin: '1972'
-  end: ''
-  instruments:
   - guitar
   - keyboard
-  - original
-  mbid: 5875ee63-d2de-47d5-b298-f4bdac1f8ead
-  name: Jim Moginie
-- &id003
-  begin: '1973'
-  end: ''
-  instruments:
   - lead vocals
-  mbid: 7c383967-13fb-4c8c-95e2-c3e6da961e8c
-  name: Peter Garrett
-- &id004
-  begin: '1977'
-  end: ''
-  instruments:
-  - guitar
-  mbid: 61797c6a-5510-4f85-9d7a-e89a42421989
-  name: Martin Rotsey
-- begin: '1980'
-  end: 1987-11
-  instruments:
-  - electric bass guitar
-  mbid: 5bb62090-f140-44ae-b555-cb48ddd08536
-  name: Peter Gifford
-- &id005
-  begin: 1987-11
-  end: ''
-  instruments:
-  - electric bass guitar
-  mbid: 943a556c-6866-4912-8af5-95f967fcf50f
-  name: Bones Hillman
+last_updated: '2026-01-20T01:28:18.429336'
+members:
+  - begin: '1972'
+    end: '1980'
+    instruments:
+      - electric bass guitar
+      - original
+    mbid: 77711d0b-5cfb-4e46-a35d-14c24e49b6f8
+    name: Andrew James
+  - &ref_0
+    begin: '1972'
+    end: ''
+    instruments:
+      - drums (drum set)
+      - original
+      - percussion
+    mbid: be512ae4-7061-42ca-855a-e7d78701d287
+    name: Rob Hirst
+  - &ref_1
+    begin: '1972'
+    end: ''
+    instruments:
+      - guitar
+      - keyboard
+      - original
+    mbid: 5875ee63-d2de-47d5-b298-f4bdac1f8ead
+    name: Jim Moginie
+  - &ref_2
+    begin: '1973'
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: 7c383967-13fb-4c8c-95e2-c3e6da961e8c
+    name: Peter Garrett
+  - &ref_3
+    begin: '1977'
+    end: ''
+    instruments:
+      - guitar
+    mbid: 61797c6a-5510-4f85-9d7a-e89a42421989
+    name: Martin Rotsey
+  - begin: '1980'
+    end: 1987-11
+    instruments:
+      - electric bass guitar
+    mbid: 5bb62090-f140-44ae-b555-cb48ddd08536
+    name: Peter Gifford
+  - &ref_4
+    begin: 1987-11
+    end: ''
+    instruments:
+      - electric bass guitar
+    mbid: 943a556c-6866-4912-8af5-95f967fcf50f
+    name: Bones Hillman
 musical_connections:
   collaborators:
-  - Peter Garrett
-  - Jim Moginie
-  - Martin Rotsey
-  - Rob Hirst
-  - Bones Hillman
-  - Warumpi Band
+    - Peter Garrett
+    - Jim Moginie
+    - Martin Rotsey
+    - Rob Hirst
+    - Bones Hillman
+    - Warumpi Band
   influenced: []
   mentors:
-  - Glyn Johns
-  - Keith Walker
-  - Gary Morris
+    - Glyn Johns
+    - Keith Walker
+    - Gary Morris
 musicbrainz_id: 05072650-4b05-4e8b-83d0-dba2576e306a
 network_extracted: true
-origin: Sydney
+origin: 'Sydney, New South Wales, Australia'
 original_members:
-- *id001
-- *id002
-- *id003
-- *id004
-- *id005
+  - *ref_0
+  - *ref_1
+  - *ref_2
+  - *ref_3
+  - *ref_4
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Midnight+Oil/+wiki
-- https://en.wikipedia.org/wiki/Midnight_Oil
-- https://midnight-oil.info/biography/
-- https://www.midnightoil.com/the-band/
-- https://donshewey.com/music-articles/midnight-oil-red-sails-in-the-sunset/
-- https://www.jango.com/music/Midnight+Oil/_full_bio
-- https://signsmag.com/2025/07/review-the-hardest-line-the-story-of-midnight-oil/
+  - 'https://www.last.fm/music/Midnight+Oil/+wiki'
+  - 'https://en.wikipedia.org/wiki/Midnight_Oil'
+  - 'https://midnight-oil.info/biography/'
+  - 'https://www.midnightoil.com/the-band/'
+  - 'https://donshewey.com/music-articles/midnight-oil-red-sails-in-the-sunset/'
+  - 'https://www.jango.com/music/Midnight+Oil/_full_bio'
+  - >-
+    https://signsmag.com/2025/07/review-the-hardest-line-the-story-of-midnight-oil/
 spotify_data:
   followers: 902837
   id: 72KyoXzp0NOQij6OcmZUxk
   popularity: 62
-  url: https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk
+  url: 'https://open.spotify.com/artist/72KyoXzp0NOQij6OcmZUxk'
 status: active
 tags:
-- alternative rock
-- australian
-- big music
+  - alternative rock
+  - australian
+  - big music
 title: Midnight Oil
+death_date: '2020'
 ---
 
 ![](midnight_oil.jpg)

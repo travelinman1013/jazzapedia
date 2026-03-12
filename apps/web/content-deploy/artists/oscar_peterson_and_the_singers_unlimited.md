@@ -4,9 +4,10 @@ wiki_slug: oscar-peterson-the-singers-unlimited
 schema_version: 2
 status: active
 genres:
-- vocal jazz
+  - vocal jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/oscar_peterson_and_the_singers_unlimited.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/oscar_peterson_and_the_singers_unlimited.jpg
   caption: Oscar Peterson & The Singers Unlimited
   background: solo_singer
 audio_profile:
@@ -24,50 +25,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Gene Puerling
-  - Bonnie Herman
-  - Don Shelton
-  - Len Dresslar
-  - George Mraz
-  - Louis Hayes
+    - Gene Puerling
+    - Bonnie Herman
+    - Don Shelton
+    - Len Dresslar
+    - George Mraz
+    - Louis Hayes
   influenced:
-  - Take 6
+    - Take 6
   mentors:
-  - Daniel Peterson
-  - Daisy Peterson Sweeney
+    - Daniel Peterson
+    - Daisy Peterson Sweeney
 spotify_data:
   followers: 18725
   id: 3RsROIs1zuuC3lwIdhJ0if
   popularity: 30
-  url: https://open.spotify.com/artist/3RsROIs1zuuC3lwIdhJ0if
+  url: 'https://open.spotify.com/artist/3RsROIs1zuuC3lwIdhJ0if'
 discography_enriched: true
 top_tracks:
-- Michelle (The Complete a Capella Sessions)
-- Sesame Street - Remastered (In Tune (Remastered Anniversary Edition))
-- Children's Game - Remastered (In Tune (Remastered Anniversary Edition))
-- The Shadow of Your Smile - Remastered (In Tune (Remastered Anniversary Edition))
-- Clair (The Complete a Capella Sessions)
-- Joy to the World (Christmas)
-- Caroling, Caroling (Christmas)
-- We've Only Just Begun (Four of Us)
-- A Child Is Born - Remastered (In Tune (Remastered Anniversary Edition))
-- Nature Boy (The Complete a Capella Sessions)
+  - Michelle (The Complete a Capella Sessions)
+  - Sesame Street - Remastered (In Tune (Remastered Anniversary Edition))
+  - Children's Game - Remastered (In Tune (Remastered Anniversary Edition))
+  - >-
+    The Shadow of Your Smile - Remastered (In Tune (Remastered Anniversary
+    Edition))
+  - Clair (The Complete a Capella Sessions)
+  - Joy to the World (Christmas)
+  - 'Caroling, Caroling (Christmas)'
+  - We've Only Just Begun (Four of Us)
+  - A Child Is Born - Remastered (In Tune (Remastered Anniversary Edition))
+  - Nature Boy (The Complete a Capella Sessions)
 external_urls:
-  spotify: https://open.spotify.com/artist/3RsROIs1zuuC3lwIdhJ0if
-  wikipedia: https://en.wikipedia.org/wiki/The_Singers_Unlimited
-image_path: 03_Resources/source_material/ArtistPortraits/oscar_peterson_and_the_singers_unlimited.jpg
+  spotify: 'https://open.spotify.com/artist/3RsROIs1zuuC3lwIdhJ0if'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Singers_Unlimited'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/oscar_peterson_and_the_singers_unlimited.jpg
 biography_enhanced_at: '2025-10-29T16:39:21.657584'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.mps-music.com/artists/3824/
-- https://swingandbeyond.com/2019/07/25/it-never-entered-my-mind-1971-oscar-peterson-and-the-singers-unlimited/
-- https://en.wikipedia.org/wiki/The_Singers_Unlimited
-- https://en.wikipedia.org/wiki/In_Tune_(album)
+  - 'https://www.mps-music.com/artists/3824/'
+  - >-
+    https://swingandbeyond.com/2019/07/25/it-never-entered-my-mind-1971-oscar-peterson-and-the-singers-unlimited/
+  - 'https://en.wikipedia.org/wiki/The_Singers_Unlimited'
+  - 'https://en.wikipedia.org/wiki/In_Tune_(album)'
 network_extracted: true
 entry_created: '2025-10-29T16:39:21.657598'
 last_updated: '2025-12-23T08:16:13.838289'
-origin: Chicago, Illinois, USA (The Singers Unlimited); Montreal, Quebec, Canada (Oscar Peterson)
+origin: >-
+  Chicago, Illinois, USA (The Singers Unlimited); Montreal, Quebec, Canada
+  (Oscar Peterson)
+birth_place: 'Montreal, Quebec, Canada'
+birth_date: '1925'
+artist_type: band
 ---
 
 ![](oscar_peterson_and_the_singers_unlimited.jpg)

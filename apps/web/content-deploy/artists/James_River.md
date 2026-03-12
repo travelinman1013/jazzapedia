@@ -5,7 +5,7 @@ schema_version: 2
 status: active
 aliases: []
 genres:
-- worship
+  - worship
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/James_River_Worship.jpg
   caption: James River Worship
@@ -25,55 +25,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Eli Brown
-  - Kinley Scott
+    - Eli Brown
+    - Kinley Scott
   influenced:
-  - Local worship leaders and church musicians
+    - Local worship leaders and church musicians
   mentors:
-  - Elevation Worship
-  - Bethel Music
-  - Passion Music
+    - Elevation Worship
+    - Bethel Music
+    - Passion Music
 related_artists: []
 spotify_data:
   followers: 4327
   id: 6Y2LB3Ev9KJPDAqdNiQpZh
   popularity: 33
-  url: https://open.spotify.com/artist/6Y2LB3Ev9KJPDAqdNiQpZh
+  url: 'https://open.spotify.com/artist/6Y2LB3Ev9KJPDAqdNiQpZh'
   verified: false
 discography_enriched: true
 albums_count: 2
 singles_count: 6
 top_tracks:
-- Stronghold Walls - Live (Stronghold Walls (Live))
-- All Things New (All Things New)
-- Holy Holy Spirit (Holy Holy Spirit)
-- Worthy (All Things New)
-- Defender (All Things New)
-- Stronghold Walls (All Things New)
-- Abba Father (Amazing God) (All Things New)
-- Glorious (Glorious)
-- Closer (Glorious)
-- Stronghold Walls (Glorious)
+  - Stronghold Walls - Live (Stronghold Walls (Live))
+  - All Things New (All Things New)
+  - Holy Holy Spirit (Holy Holy Spirit)
+  - Worthy (All Things New)
+  - Defender (All Things New)
+  - Stronghold Walls (All Things New)
+  - Abba Father (Amazing God) (All Things New)
+  - Glorious (Glorious)
+  - Closer (Glorious)
+  - Stronghold Walls (Glorious)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/6Y2LB3Ev9KJPDAqdNiQpZh
-  wikipedia: https://en.wikipedia.org/wiki/James_River
+  spotify: 'https://open.spotify.com/artist/6Y2LB3Ev9KJPDAqdNiQpZh'
+  wikipedia: 'https://en.wikipedia.org/wiki/James_River'
 image_path: 03_Resources/source_material/ArtistPortraits/James_River_Worship.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:10:26.000994'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Louder Than The Music (louderthanthemusic.com)[1]
-- GlobeNewswire (globenewswire.com)[2]
-- MultiTracks.com[3]
-- James River Worship official site (jamesriverworship.com)[5]
-- James River Worship YouTube[6]
+  - 'Louder Than The Music (louderthanthemusic.com)[1]'
+  - 'GlobeNewswire (globenewswire.com)[2]'
+  - 'MultiTracks.com[3]'
+  - 'James River Worship official site (jamesriverworship.com)[5]'
+  - 'James River Worship YouTube[6]'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 15:22:59.141083
+entry_created: 2025-09-18T15:22:59.141Z
 last_updated: '2025-12-23T08:16:02.449667'
-origin: Springfield, Missouri, United States
+origin: 'Springfield, Missouri, United States'
+artist_type: band
 ---
 
 ![](James_River_Worship.jpg)

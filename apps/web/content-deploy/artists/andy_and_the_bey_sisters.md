@@ -1,5 +1,5 @@
 ---
-title: andy and the bey sisters
+title: Andy and the Bey Sisters
 wiki_slug: andy-and-the-bey-sisters
 schema_version: 2
 status: active
@@ -15,7 +15,7 @@ audio_profile:
   danceability_avg: 0.518
   acousticness_avg: 0.506
   instrumentalness_avg: 0.007
-  loudness_avg: -10.0
+  loudness_avg: -10
   speechiness_avg: 0.046
   liveness_avg: 0.138
   track_count: 50
@@ -23,53 +23,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Salome Bey
-  - Geraldine Bey (de Haas)
-  - George Wein
-  - Max Roach
-  - Horace Silver
-  - Ornette Coleman
+    - Salome Bey
+    - Geraldine Bey (de Haas)
+    - George Wein
+    - Max Roach
+    - Horace Silver
+    - Ornette Coleman
   influenced: []
   mentors:
-  - Sarah Vaughan
-  - Billie Holiday
-  - Nat King Cole
-  - Billy Eckstine
+    - Sarah Vaughan
+    - Billie Holiday
+    - Nat King Cole
+    - Billy Eckstine
 spotify_data:
   followers: 95
   id: 0Oy1j63KeCARGa5bWo6r84
   popularity: 1
-  url: https://open.spotify.com/artist/0Oy1j63KeCARGa5bWo6r84
+  url: 'https://open.spotify.com/artist/0Oy1j63KeCARGa5bWo6r84'
 discography_enriched: true
 top_tracks:
-- Scoubidou (Essential Masters)
-- Trees (Milestones of Jazz Legends - Male Jazz Singers, Vol. 5)
-- Revenge (Milestones of Jazz Legends - Male Jazz Singers, Vol. 5)
-- On the Sunny Side of the Street (From "The International Revue") (Milestones of Jazz Legends - Male Jazz Singers, Vol. 5)
-- Zombie Jamboree (Back to Back) (Milestones of Jazz Legends - Male Jazz Singers, Vol. 5)
-- Mood Indigo (Milestones of Jazz Legends - Male Jazz Singers, Vol. 5)
-- It Must Be So (Milestones of Jazz Legends - Male Jazz Singers, Vol. 5)
-- You Can't Be Mine Anymore (Milestones of Jazz Legends - Male Jazz Singers, Vol. 5)
-- Dreamy (Milestones of Jazz Legends - Male Jazz Singers, Vol. 5)
-- Smooth Sailing (Milestones of Jazz Legends - Male Jazz Singers, Vol. 5)
+  - Scoubidou (Essential Masters)
+  - 'Trees (Milestones of Jazz Legends - Male Jazz Singers, Vol. 5)'
+  - 'Revenge (Milestones of Jazz Legends - Male Jazz Singers, Vol. 5)'
+  - >-
+    On the Sunny Side of the Street (From "The International Revue") (Milestones
+    of Jazz Legends - Male Jazz Singers, Vol. 5)
+  - >-
+    Zombie Jamboree (Back to Back) (Milestones of Jazz Legends - Male Jazz
+    Singers, Vol. 5)
+  - 'Mood Indigo (Milestones of Jazz Legends - Male Jazz Singers, Vol. 5)'
+  - 'It Must Be So (Milestones of Jazz Legends - Male Jazz Singers, Vol. 5)'
+  - >-
+    You Can't Be Mine Anymore (Milestones of Jazz Legends - Male Jazz Singers,
+    Vol. 5)
+  - 'Dreamy (Milestones of Jazz Legends - Male Jazz Singers, Vol. 5)'
+  - 'Smooth Sailing (Milestones of Jazz Legends - Male Jazz Singers, Vol. 5)'
 external_urls:
-  spotify: https://open.spotify.com/artist/0Oy1j63KeCARGa5bWo6r84
-  wikipedia: https://en.wikipedia.org/wiki/Andy_Bey
+  spotify: 'https://open.spotify.com/artist/0Oy1j63KeCARGa5bWo6r84'
+  wikipedia: 'https://en.wikipedia.org/wiki/Andy_Bey'
 image_path: 03_Resources/source_material/ArtistPortraits/andy_and_the_bey_sisters.jpg
 biography_enhanced_at: '2025-12-04T07:29:17.810134'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://jazztimes.com/features/tributes-and-obituaries/in-memoriam-andy-bey-1939-2025/
-- https://www.allaboutjazz.com/meet-andy-bey-andy-bey
-- https://en.wikipedia.org/wiki/Andy_Bey
-- https://www.wrti.org/arts-desk/2025-04-29/andy-bey-jazz-singer-of-emotional-and-musical-range-has-died-at-85
-- https://jazz.fm/remembering-andy-bey-1939-2025/
-- https://concord.com/concord-albums/andy-bey-and-the-bey-sisters-2/
+  - >-
+    https://jazztimes.com/features/tributes-and-obituaries/in-memoriam-andy-bey-1939-2025/
+  - 'https://www.allaboutjazz.com/meet-andy-bey-andy-bey'
+  - 'https://en.wikipedia.org/wiki/Andy_Bey'
+  - >-
+    https://www.wrti.org/arts-desk/2025-04-29/andy-bey-jazz-singer-of-emotional-and-musical-range-has-died-at-85
+  - 'https://jazz.fm/remembering-andy-bey-1939-2025/'
+  - 'https://concord.com/concord-albums/andy-bey-and-the-bey-sisters-2/'
 network_extracted: true
 entry_created: '2025-12-04T07:29:17.810146'
 last_updated: '2025-12-23T08:16:04.788161'
-origin: Newark, New Jersey, United States
+origin: 'Newark, New Jersey, United States'
+birth_place: 'Newark, New Jersey, United States'
+birth_date: '1939-10-28'
+artist_type: person
 ---
 
 ![](andy_and_the_bey_sisters.jpg)

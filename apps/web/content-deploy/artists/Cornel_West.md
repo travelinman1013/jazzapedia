@@ -6,22 +6,22 @@ status: active
 birth_name: Cornel Ronald West
 aliases: []
 birth_date: '1953-06-02'
-birth_place: Tulsa, Oklahoma, United States
+birth_place: 'Tulsa, Oklahoma, United States'
 genres:
-- spoken word
+  - spoken word
 occupation:
-- theologian
-- philosopher
-- university teacher
-- actor
-- critic
+  - theologian
+  - philosopher
+  - university teacher
+  - actor
+  - critic
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Cornel_West.jpg
   caption: Cornel West
   background: solo_singer
   birth_name: Cornel Ronald West
   born: '1953-06-02'
-  origin: Tulsa, Oklahoma, United States
+  origin: 'Tulsa, Oklahoma, United States'
 audio_profile:
   tempo_avg: 110.1
   energy_avg: 0.631
@@ -37,59 +37,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Prince
-  - Jill Scott
-  - Andre 3000
-  - Talib Kweli
-  - KRS-One
-  - Michael Eric Dyson
-  - Tavis Smiley
-  - Terence Blanchard
+    - Prince
+    - Jill Scott
+    - Andre 3000
+    - Talib Kweli
+    - KRS-One
+    - Michael Eric Dyson
+    - Tavis Smiley
+    - Terence Blanchard
   influenced:
-  - The Cornel West Theory
-  - Raheem DeVaughn
+    - The Cornel West Theory
+    - Raheem DeVaughn
   mentors:
-  - James Cone
-  - Malcolm X
+    - James Cone
+    - Malcolm X
 related_artists: []
 spotify_data:
   followers: 3368
   id: 3FLOwpW1KWqfCrJFuzpsbY
   popularity: 12
-  url: https://open.spotify.com/artist/3FLOwpW1KWqfCrJFuzpsbY
+  url: 'https://open.spotify.com/artist/3FLOwpW1KWqfCrJFuzpsbY'
   verified: false
 discography_enriched: true
 albums_count: 3
 singles_count: 2
 top_tracks:
-- 'Dear Mr. Man - Feat. Prince (Never Forget: A Journey Of Revelations)'
-- 'Urgency (All About Love: New Visions)'
-- Got That Hope - OVEOUS HyperSoul Mix (Got That Hope OVEOUS HyperSoul Mix)
-- My Tribe (Tribe of Fire)
-- My Tribe - Melody Cut (My Tribe)
-- 'Chronomentrophobia (Never Forget: A Journey of Revelations)'
-- 'Chronomentrophobia - Feat. Andre 3000 Of Outkast (Never Forget: A Journey Of Revelations)'
-- 'Bushonomics (Never Forget: A Journey of Revelations)'
-- 'Mr. Man (Never Forget: A Journey of Revelations)'
-- My Tribe - Soul Clap Remix (My Tribe)
+  - 'Dear Mr. Man - Feat. Prince (Never Forget: A Journey Of Revelations)'
+  - 'Urgency (All About Love: New Visions)'
+  - Got That Hope - OVEOUS HyperSoul Mix (Got That Hope OVEOUS HyperSoul Mix)
+  - My Tribe (Tribe of Fire)
+  - My Tribe - Melody Cut (My Tribe)
+  - 'Chronomentrophobia (Never Forget: A Journey of Revelations)'
+  - >-
+    Chronomentrophobia - Feat. Andre 3000 Of Outkast (Never Forget: A Journey Of
+    Revelations)
+  - 'Bushonomics (Never Forget: A Journey of Revelations)'
+  - 'Mr. Man (Never Forget: A Journey of Revelations)'
+  - My Tribe - Soul Clap Remix (My Tribe)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/3FLOwpW1KWqfCrJFuzpsbY
-  wikipedia: https://en.wikipedia.org/wiki/Cornel_West
+  spotify: 'https://open.spotify.com/artist/3FLOwpW1KWqfCrJFuzpsbY'
+  wikipedia: 'https://en.wikipedia.org/wiki/Cornel_West'
 image_path: 03_Resources/source_material/ArtistPortraits/Cornel_West.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:12:55.503687'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.masterclass.com/articles/cornel-west
-- https://home.nuhw.org/2025/01/16/dr-cornel-west/
-- https://www.speakoutnow.org/speakers/cornel-west
-- https://en.wikipedia.org/wiki/Cornel_West
+  - 'https://www.masterclass.com/articles/cornel-west'
+  - 'https://home.nuhw.org/2025/01/16/dr-cornel-west/'
+  - 'https://www.speakoutnow.org/speakers/cornel-west'
+  - 'https://en.wikipedia.org/wiki/Cornel_West'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:40:14.082875
+entry_created: 2025-09-22T21:40:14.082Z
 last_updated: '2025-12-23T08:16:01.560988'
+artist_type: person
 ---
 
 ![](Cornel_West.jpg)

@@ -1,20 +1,21 @@
 ---
-title: Albert King, Steve Cropper, Pop Staples
+title: 'Albert King, Steve Cropper, Pop Staples'
 wiki_slug: albert-king-steve-cropper-pop-staples
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1947-09-21'
 genres:
-- blues
-- classic blues
-- blues rock
-- soul blues
-- jazz blues
-- modern blues
+  - blues
+  - classic blues
+  - blues rock
+  - soul blues
+  - jazz blues
+  - modern blues
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/Albert_King_Steve_Cropper_Pop_Staples.jpg
-  caption: Albert King, Steve Cropper, Pop Staples
+  image: >-
+    03_Resources/source_material/ArtistPortraits/Albert_King_Steve_Cropper_Pop_Staples.jpg
+  caption: 'Albert King, Steve Cropper, Pop Staples'
   background: solo_singer
   born: '1947-09-21'
 audio_profile:
@@ -32,49 +33,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Booker T. & the M.G.'s
-  - The Staple Singers
-  - Otis Redding
-  - Eddie Floyd
+    - Booker T. & the M.G.'s
+    - The Staple Singers
+    - Otis Redding
+    - Eddie Floyd
   influenced:
-  - Stevie Ray Vaughan
-  - Jimi Hendrix
-  - The Beatles
-  - Rory Gallagher
+    - Stevie Ray Vaughan
+    - Jimi Hendrix
+    - The Beatles
+    - Rory Gallagher
   mentors:
-  - Tal Farlow
-  - Lowman Pauling
-  - Gospel Church Music
+    - Tal Farlow
+    - Lowman Pauling
+    - Gospel Church Music
 spotify_data:
   followers: 480554
   id: 5aygfDCEaX5KTZOxSCpT9o
   popularity: 49
-  url: https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o
+  url: 'https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o'
 discography_enriched: true
 top_tracks:
-- Born Under A Bad Sign - Mono Mix (Born Under A Bad Sign (Mono))
-- Born Under A Bad Sign (Born Under A Bad Sign)
-- I'll Play The Blues For You - Edit (Chronicle)
-- Crosscut Saw - Mono Mix (Born Under A Bad Sign (Mono))
-- As The Years Go Passing By (Born Under A Bad Sign)
-- Oh, Pretty Woman - Mono Mix (Born Under A Bad Sign (Mono))
-- Travelin' Man (I Wanna Get Funky)
-- The Sky Is Crying (Years Gone By)
-- Pride And Joy - Remastered 2024 (In Session (Deluxe Edition / Remastered 2024))
-- Crosscut Saw (The Very Best Of Albert King)
+  - Born Under A Bad Sign - Mono Mix (Born Under A Bad Sign (Mono))
+  - Born Under A Bad Sign (Born Under A Bad Sign)
+  - I'll Play The Blues For You - Edit (Chronicle)
+  - Crosscut Saw - Mono Mix (Born Under A Bad Sign (Mono))
+  - As The Years Go Passing By (Born Under A Bad Sign)
+  - 'Oh, Pretty Woman - Mono Mix (Born Under A Bad Sign (Mono))'
+  - Travelin' Man (I Wanna Get Funky)
+  - The Sky Is Crying (Years Gone By)
+  - >-
+    Pride And Joy - Remastered 2024 (In Session (Deluxe Edition / Remastered
+    2024))
+  - Crosscut Saw (The Very Best Of Albert King)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a4ac255f-9775-4c16-8642-7f51502e45dd
-  spotify: https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o
-  wikipedia: https://en.wikipedia.org/wiki/Jammed_Together
-image_path: 03_Resources/source_material/ArtistPortraits/Albert_King_Steve_Cropper_Pop_Staples.jpg
+  musicbrainz: 'https://musicbrainz.org/artist/a4ac255f-9775-4c16-8642-7f51502e45dd'
+  spotify: 'https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jammed_Together'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/Albert_King_Steve_Cropper_Pop_Staples.jpg
 biography_enhanced_at: '2025-10-20T09:12:41.821879'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jammed_Together
-- https://en.wikipedia.org/wiki/Steve_Cropper
-- https://www.last.fm/music/Pops+Staples/+wiki
-- http://overdoseoffingalcocoa.blogspot.com/2008/04/steve-cropper-pop-staples-albert-king.html
+  - 'https://en.wikipedia.org/wiki/Jammed_Together'
+  - 'https://en.wikipedia.org/wiki/Steve_Cropper'
+  - 'https://www.last.fm/music/Pops+Staples/+wiki'
+  - >-
+    http://overdoseoffingalcocoa.blogspot.com/2008/04/steve-cropper-pop-staples-albert-king.html
 network_extracted: true
 entry_created: '2025-10-20T09:12:41.821890'
 last_updated: '2025-12-23T08:16:00.964717'
@@ -82,12 +87,14 @@ disambiguation: author
 gender: Male
 musicbrainz_enriched_at: '2025-10-21T08:07:18.069898'
 musicbrainz_id: a4ac255f-9775-4c16-8642-7f51502e45dd
-origin: 'Albert King: Indianola, Mississippi, USA; Steve Cropper: Willow Springs, Missouri, USA; Pop Staples: Winona, Mississippi,
-  USA'
+origin: >-
+  Albert King: Indianola, Mississippi, USA; Steve Cropper: Willow Springs,
+  Missouri, USA; Pop Staples: Winona, Mississippi, USA
 tags:
-- audio drama
-- audiobook
-- author
+  - audio drama
+  - audiobook
+  - author
+birth_place: 'Portland, Oregon, United States'
 ---
 
 ![](Albert_King_Steve_Cropper_Pop_Staples.jpg)

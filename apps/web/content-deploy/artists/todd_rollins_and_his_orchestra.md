@@ -5,7 +5,8 @@ schema_version: 2
 status: active
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/todd_rollins_and_his_orchestra.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/todd_rollins_and_his_orchestra.jpg
   caption: Todd Rollins and his Orchestra
   background: solo_singer
 audio_profile:
@@ -23,40 +24,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Chick Bullock
+    - Chick Bullock
   influenced: []
   mentors: []
 spotify_data:
   followers: 420
   id: 7uPxnKSyVSuLEUrSHUqtP0
   popularity: 19
-  url: https://open.spotify.com/artist/7uPxnKSyVSuLEUrSHUqtP0
+  url: 'https://open.spotify.com/artist/7uPxnKSyVSuLEUrSHUqtP0'
 discography_enriched: true
 top_tracks:
-- 'The Boogie Man (with Chick Bullock) (Halloween Classics: Songs That Scared The Bloomers Off Your Great-Grandma)'
-- 'The Boogie Man (with Chick Bullock) (Bioshock 2: The Official Soundtrack - Music From And Inspired By The Game)'
-- 'The Boogie Man (with Chick Bullock) (Bioshock 2: The Official Soundtrack - Music From And Inspired By The Game (Special
-  Edition))'
-- 'The Boogie Man (with Chick Bullock) (Bioshock 2: The Official Soundtrack - Music From And Inspired By The Game (Special
-  Edition))'
-- 'The Boogie Man (with Chick Bullock) (From The Sony Vault: Silly Scary Songs)'
-- You're in My Power (We Call It Jazz!, Vol. 20)
+  - >-
+    The Boogie Man (with Chick Bullock) (Halloween Classics: Songs That Scared
+    The Bloomers Off Your Great-Grandma)
+  - >-
+    The Boogie Man (with Chick Bullock) (Bioshock 2: The Official Soundtrack -
+    Music From And Inspired By The Game)
+  - >-
+    The Boogie Man (with Chick Bullock) (Bioshock 2: The Official Soundtrack -
+    Music From And Inspired By The Game (Special Edition))
+  - >-
+    The Boogie Man (with Chick Bullock) (Bioshock 2: The Official Soundtrack -
+    Music From And Inspired By The Game (Special Edition))
+  - 'The Boogie Man (with Chick Bullock) (From The Sony Vault: Silly Scary Songs)'
+  - 'You''re in My Power (We Call It Jazz!, Vol. 20)'
 external_urls:
-  spotify: https://open.spotify.com/artist/7uPxnKSyVSuLEUrSHUqtP0
+  spotify: 'https://open.spotify.com/artist/7uPxnKSyVSuLEUrSHUqtP0'
   wikipedia: null
 image_path: ''
 biography_enhanced_at: '2025-10-26T12:25:06.164272'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://sandiegotroubadour.com/from-spooktaculars-to-mistletoe-songs-for-the-holiday-season/
-- https://www.angelfire.com/music5/tony2003/html/toddrollins.html
-- https://www.youtube.com/watch?v=xLjpIKvvY1M
-- https://www.youtube.com/watch?v=ZNfWhpvG9JE
+  - >-
+    https://sandiegotroubadour.com/from-spooktaculars-to-mistletoe-songs-for-the-holiday-season/
+  - 'https://www.angelfire.com/music5/tony2003/html/toddrollins.html'
+  - 'https://www.youtube.com/watch?v=xLjpIKvvY1M'
+  - 'https://www.youtube.com/watch?v=ZNfWhpvG9JE'
 network_extracted: true
 entry_created: '2025-10-26T12:25:06.164282'
 last_updated: '2025-12-23T08:16:17.505399'
-origin: New York City, New York, United States
+origin: 'New York City, New York, United States'
+artist_type: person
 ---
 
 ![]()

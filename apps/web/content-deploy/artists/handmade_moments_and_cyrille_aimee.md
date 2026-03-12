@@ -3,16 +3,17 @@ title: Handmade Moments & Cyrille Aimee
 wiki_slug: handmade-moments-cyrille-aimee
 schema_version: 2
 status: active
-birth_place: Samois-sur-Seine, Île-de-France, France
+birth_place: 'Samois-sur-Seine, Île-de-France, France'
 genres:
-- french jazz
-- vocal jazz
-- jazz
+  - french jazz
+  - vocal jazz
+  - jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/handmade_moments_and_cyrille_aimee.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/handmade_moments_and_cyrille_aimee.jpg
   caption: Handmade Moments & Cyrille Aimee
   background: solo_singer
-  origin: Samois-sur-Seine, Île-de-France, France
+  origin: 'Samois-sur-Seine, Île-de-France, France'
 audio_profile:
   tempo_avg: 113.9
   energy_avg: 0.298
@@ -28,60 +29,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Roy Hargrove
-  - Wynton Marsalis
-  - Jake Sherman
-  - Adonis Rose
-  - Joel Frahm
-  - Diego Figueiredo
-  - Steve Davis
-  - Spike Wilner
-  - Anat Cohen
+    - Roy Hargrove
+    - Wynton Marsalis
+    - Jake Sherman
+    - Adonis Rose
+    - Joel Frahm
+    - Diego Figueiredo
+    - Steve Davis
+    - Spike Wilner
+    - Anat Cohen
   influenced: []
   mentors:
-  - Pete Malinverni
-  - Jon Faddis
-  - Jimmy Greene
-  - Ella Fitzgerald
-  - Stephane Grappelli
-  - Manouche Romani people
+    - Pete Malinverni
+    - Jon Faddis
+    - Jimmy Greene
+    - Ella Fitzgerald
+    - Stephane Grappelli
+    - Manouche Romani people
 spotify_data:
   followers: 58996
   id: 7rcjVbooAaV2pPRdyPHCrM
   popularity: 44
-  url: https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM
+  url: 'https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM'
 discography_enriched: true
 top_tracks:
-- Je Suis Seule Ce Soir (Just The Two Of Us)
-- 'Loving You (Move On: A Sondheim Adventure)'
-- Samois A Moi (Just The Two Of Us)
-- Just The Two Of Us (Just The Two Of Us)
-- I'll Be Seeing You (I'll Be Seeing You)
-- Je Suis Seule Ce Soir (Just The Two Of Us)
-- En el Último Trago (feat. Cyrille Aimée)
-- Samois A Moi (Just The Two Of Us)
-- Young at Heart (It's a Good Day)
-- You Make Me Feel So Young (Hooray For Love)
+  - Je Suis Seule Ce Soir (Just The Two Of Us)
+  - 'Loving You (Move On: A Sondheim Adventure)'
+  - Samois A Moi (Just The Two Of Us)
+  - Just The Two Of Us (Just The Two Of Us)
+  - I'll Be Seeing You (I'll Be Seeing You)
+  - Je Suis Seule Ce Soir (Just The Two Of Us)
+  - En el Último Trago (feat. Cyrille Aimée)
+  - Samois A Moi (Just The Two Of Us)
+  - Young at Heart (It's a Good Day)
+  - You Make Me Feel So Young (Hooray For Love)
 external_urls:
-  spotify: https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM
-  wikipedia: https://en.wikipedia.org/wiki/Cyrille_Aim%C3%A9e
-image_path: 03_Resources/source_material/ArtistPortraits/handmade_moments_and_cyrille_aimee.jpg
+  spotify: 'https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM'
+  wikipedia: 'https://en.wikipedia.org/wiki/Cyrille_Aim%C3%A9e'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/handmade_moments_and_cyrille_aimee.jpg
 biography_enhanced_at: '2025-11-29T07:05:44.264741'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.asmm.fr/en/our_team/cyrille-aimee/
-- https://www.allaboutjazz.com/musicians/cyrille-aimee/
-- https://www.jazzempowers.org/cyrille-aimee
-- https://www.jazzdergisi.com/en/ruhu-cingene-bedeni-jazzci-cyrille-aimee-anlatiyor/
-- https://www.purchase.edu/live/news/2777-cyrille-aimee-09
-- https://en.wikipedia.org/wiki/Cyrille_Aim%C3%A9e
-- https://cyrillemusic.com/cyrille-aimee-about
-- https://jazztimes.com/features/profiles/cyrille-aimee-no-sad-songs/
-- https://www.wbgo.org/2022-09-06/third-story-cyrille-aimee
+  - 'https://www.asmm.fr/en/our_team/cyrille-aimee/'
+  - 'https://www.allaboutjazz.com/musicians/cyrille-aimee/'
+  - 'https://www.jazzempowers.org/cyrille-aimee'
+  - >-
+    https://www.jazzdergisi.com/en/ruhu-cingene-bedeni-jazzci-cyrille-aimee-anlatiyor/
+  - 'https://www.purchase.edu/live/news/2777-cyrille-aimee-09'
+  - 'https://en.wikipedia.org/wiki/Cyrille_Aim%C3%A9e'
+  - 'https://cyrillemusic.com/cyrille-aimee-about'
+  - 'https://jazztimes.com/features/profiles/cyrille-aimee-no-sad-songs/'
+  - 'https://www.wbgo.org/2022-09-06/third-story-cyrille-aimee'
 network_extracted: true
 entry_created: '2025-11-29T07:05:44.264756'
 last_updated: '2025-12-23T08:16:09.456729'
+birth_date: '1984-08-10'
+artist_type: person
 ---
 
 ![](handmade_moments_and_cyrille_aimee.jpg)

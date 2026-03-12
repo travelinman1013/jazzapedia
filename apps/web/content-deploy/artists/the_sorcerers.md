@@ -4,8 +4,8 @@ wiki_slug: the-sorcerers
 schema_version: 2
 status: active
 genres:
-- ethiopian jazz
-- jazz funk
+  - ethiopian jazz
+  - jazz funk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_sorcerers.jpg
   caption: The Sorcerers
@@ -25,54 +25,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Neil Innes
-  - Pete Williams
-  - Joost Hendrickx
-  - Johnny Richards
-  - Richard Ormrod
+    - Neil Innes
+    - Pete Williams
+    - Joost Hendrickx
+    - Johnny Richards
+    - Richard Ormrod
   influenced:
-  - ATA Records house bands
+    - ATA Records house bands
   mentors:
-  - Mulatu Astatke
-  - Tilahun Gessesse
-  - Moondog
-  - Hermeto Pascoal
-  - Hailu Mergia
-  - William Onyeabor
+    - Mulatu Astatke
+    - Tilahun Gessesse
+    - Moondog
+    - Hermeto Pascoal
+    - Hailu Mergia
+    - William Onyeabor
 spotify_data:
   followers: 25136
   id: 2eTKPnPlLHpFi8QH5aIVYA
   popularity: 36
-  url: https://open.spotify.com/artist/2eTKPnPlLHpFi8QH5aIVYA
+  url: 'https://open.spotify.com/artist/2eTKPnPlLHpFi8QH5aIVYA'
 discography_enriched: true
 top_tracks:
-- Beneath The Dunes (Beneath The Dunes)
-- Opening Titles (In Search of the Lost City of the Monkey God)
-- The Warrior Code (I Too Am A Stranger)
-- In Pursuit Of Shai Hulud (In Pursuit Of Shai Hulud)
-- Who Is the Hunter, Who Is the Prey? (In Search of the Lost City of the Monkey God)
-- The Great Belt (The Great Belt)
-- Summoning the Monkey God (In Search of the Lost City of the Monkey God)
-- Pinch of the Death Nerve (The Sorcerers)
-- Arid Plain (The Sorcerers)
-- Suur Tõll (The Sorcerers)
+  - Beneath The Dunes (Beneath The Dunes)
+  - Opening Titles (In Search of the Lost City of the Monkey God)
+  - The Warrior Code (I Too Am A Stranger)
+  - In Pursuit Of Shai Hulud (In Pursuit Of Shai Hulud)
+  - >-
+    Who Is the Hunter, Who Is the Prey? (In Search of the Lost City of the
+    Monkey God)
+  - The Great Belt (The Great Belt)
+  - Summoning the Monkey God (In Search of the Lost City of the Monkey God)
+  - Pinch of the Death Nerve (The Sorcerers)
+  - Arid Plain (The Sorcerers)
+  - Suur Tõll (The Sorcerers)
 external_urls:
-  spotify: https://open.spotify.com/artist/2eTKPnPlLHpFi8QH5aIVYA
+  spotify: 'https://open.spotify.com/artist/2eTKPnPlLHpFi8QH5aIVYA'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/the_sorcerers.jpg
 biography_enhanced_at: '2025-11-14T10:35:04.471249'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://rhythmpassport.com/interview-sorcerers-reimagining-ethiojazz-in-a-yorkshire-garage/
-- https://fleamarketfunk.com/2015/07/15/the-sorcerers-the-ethiopiques-of-the-modern-age/
-- https://www.forcedexposure.com/Artists/SORCERERS.THE.html
-- https://sorcerers.bandcamp.com/album/other-worlds-and-habitats
-- https://www.allmusic.com/artist/the-sorcerers-mn0001270045
+  - >-
+    https://rhythmpassport.com/interview-sorcerers-reimagining-ethiojazz-in-a-yorkshire-garage/
+  - >-
+    https://fleamarketfunk.com/2015/07/15/the-sorcerers-the-ethiopiques-of-the-modern-age/
+  - 'https://www.forcedexposure.com/Artists/SORCERERS.THE.html'
+  - 'https://sorcerers.bandcamp.com/album/other-worlds-and-habitats'
+  - 'https://www.allmusic.com/artist/the-sorcerers-mn0001270045'
 network_extracted: true
 entry_created: '2025-11-14T10:35:04.471260'
 last_updated: '2025-12-23T08:16:17.159615'
-origin: Leeds, West Yorkshire, England, UK
+origin: 'Leeds, West Yorkshire, England, UK'
+artist_type: band
 ---
 
 ![](the_sorcerers.jpg)

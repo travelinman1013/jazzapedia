@@ -1,36 +1,38 @@
 ---
 biography_enhanced_at: '2026-01-11T02:23:34.489790'
-birth_place: Detroit, Michigan, United States
+birth_place: 'Detroit, Michigan, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-11T02:23:34.489799'
 external_urls:
-  spotify: https://open.spotify.com/artist/2YhGeHBfFndRzwUvpTwK4D
+  spotify: 'https://open.spotify.com/artist/2YhGeHBfFndRzwUvpTwK4D'
   wikipedia: ''
 genres:
-- nu disco
-- disco house
-- funky house
+  - nu disco
+  - disco house
+  - funky house
 image_path: 03_Resources/source_material/ArtistPortraits/sugar_billy.jpg
 last_updated: '2026-01-11T02:23:34.489801'
 musical_connections:
   collaborators: []
   influenced:
-  - Joss Stone
+    - Joss Stone
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://halfhearteddude.com/tag/sugar-billy/
-- https://sugarbilly.bandcamp.com/track/sugar-pie
-- https://www.last.fm/music/Sugar+Billy/+wiki
-- https://open.spotify.com/artist/2XITck3a7fnTDpvFllfwJE
+  - 'https://halfhearteddude.com/tag/sugar-billy/'
+  - 'https://sugarbilly.bandcamp.com/track/sugar-pie'
+  - 'https://www.last.fm/music/Sugar+Billy/+wiki'
+  - 'https://open.spotify.com/artist/2XITck3a7fnTDpvFllfwJE'
 spotify_data:
   followers: 9975
   id: 2YhGeHBfFndRzwUvpTwK4D
   popularity: 39
-  url: https://open.spotify.com/artist/2YhGeHBfFndRzwUvpTwK4D
+  url: 'https://open.spotify.com/artist/2YhGeHBfFndRzwUvpTwK4D'
 status: active
 title: Sugar Billy
+origin: 'Detroit, Michigan, United States'
+artist_type: person
 ---
 
 ![](sugar_billy.jpg)

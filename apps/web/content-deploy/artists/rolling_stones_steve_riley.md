@@ -1,17 +1,17 @@
 ---
-title: Rolling Stones/ Steve Riley
+title: Steve Riley
 wiki_slug: rolling-stones-steve-riley
 schema_version: 2
 status: active
-birth_place: Mamou, Louisiana, United States
+birth_place: 'Mamou, Louisiana, United States'
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/rolling_stones_steve_riley.jpg
   caption: Rolling Stones/ Steve Riley
   background: solo_singer
-  origin: Mamou, Louisiana, United States
+  origin: 'Mamou, Louisiana, United States'
 audio_profile:
   tempo_avg: 136.9
   energy_avg: 0.732
@@ -19,7 +19,7 @@ audio_profile:
   danceability_avg: 0.539
   acousticness_avg: 0.356
   instrumentalness_avg: 0.147
-  loudness_avg: -7.0
+  loudness_avg: -7
   speechiness_avg: 0.051
   liveness_avg: 0.277
   track_count: 53
@@ -27,47 +27,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Mamou Playboys
-  - The Rolling Stones
-  - Jimmie Vaughan
+    - The Mamou Playboys
+    - The Rolling Stones
+    - Jimmie Vaughan
   influenced:
-  - Kristi Guillory
-  - Corey Ledet
+    - Kristi Guillory
+    - Corey Ledet
   mentors:
-  - Dewey Balfa
-  - Marc Savoy
+    - Dewey Balfa
+    - Marc Savoy
 spotify_data:
   followers: 1739
   id: 59G6ddWaKK4DknXhhCJ1Fr
   popularity: 22
-  url: https://open.spotify.com/artist/59G6ddWaKK4DknXhhCJ1Fr
+  url: 'https://open.spotify.com/artist/59G6ddWaKK4DknXhhCJ1Fr'
 discography_enriched: true
 top_tracks:
-- Zydeco Sont Pas Salés (A Tribute to the King of Zydeco)
-- My Soul (A Tribute to the King of Zydeco)
-- Allons danser (Let's Dance) (Friday at Last)
-- Convict Waltz (The Band Courtbouillon)
-- Bon Soir Moreau (La Chanson Perdue)
-- 'La Danse De Mardi Gras (Treme: Music From The HBO Original Series - Season 2)'
-- Mamou Playboys Special - Instrumental (Friday at Last)
-- Another Place, Another Time - Live (Live from Breaux Bridge, Pt. 1)
-- That's What Makes the Cajuns Dance (Qui fait les Cajuns danser) (That's What Makes the Cajuns Dance)
-- Between Eunice and Opelousas - Live (Live from Breaux Bridge, Pt. 1)
+  - Zydeco Sont Pas Salés (A Tribute to the King of Zydeco)
+  - My Soul (A Tribute to the King of Zydeco)
+  - Allons danser (Let's Dance) (Friday at Last)
+  - Convict Waltz (The Band Courtbouillon)
+  - Bon Soir Moreau (La Chanson Perdue)
+  - >-
+    La Danse De Mardi Gras (Treme: Music From The HBO Original Series - Season
+    2)
+  - Mamou Playboys Special - Instrumental (Friday at Last)
+  - 'Another Place, Another Time - Live (Live from Breaux Bridge, Pt. 1)'
+  - >-
+    That's What Makes the Cajuns Dance (Qui fait les Cajuns danser) (That's What
+    Makes the Cajuns Dance)
+  - 'Between Eunice and Opelousas - Live (Live from Breaux Bridge, Pt. 1)'
 external_urls:
-  spotify: https://open.spotify.com/artist/59G6ddWaKK4DknXhhCJ1Fr
-  wikipedia: https://en.wikipedia.org/wiki/Steve_Riley_(drummer)
+  spotify: 'https://open.spotify.com/artist/59G6ddWaKK4DknXhhCJ1Fr'
+  wikipedia: 'https://en.wikipedia.org/wiki/Steve_Riley_(drummer)'
 image_path: 03_Resources/source_material/ArtistPortraits/rolling_stones_steve_riley.jpg
 biography_enhanced_at: '2025-11-21T07:17:19.615632'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.noise11.com/news/the-rolling-stones-and-steve-riley-mark-clifton-cheniers-100th-with-zydeco-sont-pas-sales-20250626
-- https://iorr.org/talk/read.php?1%2C3088351
-- https://folkways.si.edu/the-rolling-stones-clifton-chenier/zydeco-sont-pas-sales
-- https://www.rootsworld.com/rw/feature/riley.html
+  - >-
+    https://www.noise11.com/news/the-rolling-stones-and-steve-riley-mark-clifton-cheniers-100th-with-zydeco-sont-pas-sales-20250626
+  - 'https://iorr.org/talk/read.php?1%2C3088351'
+  - >-
+    https://folkways.si.edu/the-rolling-stones-clifton-chenier/zydeco-sont-pas-sales
+  - 'https://www.rootsworld.com/rw/feature/riley.html'
 network_extracted: true
 entry_created: '2025-11-21T07:17:19.615644'
 last_updated: '2025-12-23T08:16:14.993526'
+origin: 'Mamou, Louisiana, United States'
+artist_type: person
 ---
 
 ![](rolling_stones_steve_riley.jpg)

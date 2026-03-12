@@ -2,21 +2,21 @@
 title: Pleasure
 wiki_slug: pleasure
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1972'
 genres:
-- r&b
+  - r&b
 instruments:
-- guitar
-- original
-- drums (drum set)
-- lead vocals
-- keyboard
-- electric bass guitar
-- percussion
-- saxophone
-- trombone
+  - guitar
+  - original
+  - drums (drum set)
+  - lead vocals
+  - keyboard
+  - electric bass guitar
+  - percussion
+  - saxophone
+  - trombone
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/pleasure.jpg
   caption: Pleasure
@@ -28,7 +28,7 @@ audio_profile:
   valence_avg: 0.512
   danceability_avg: 0.637
   acousticness_avg: 0.097
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -6.6
   speechiness_avg: 0.102
   liveness_avg: 0.157
@@ -37,118 +37,118 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Marlon McClain
-  - Bruce Carter
-  - Nathaniel Phillips
+    - Marlon McClain
+    - Bruce Carter
+    - Nathaniel Phillips
   influenced:
-  - Numerous hip-hop artists
+    - Numerous hip-hop artists
   mentors:
-  - Wayne Henderson
-  - Grover Washington Jr.
+    - Wayne Henderson
+    - Grover Washington Jr.
 spotify_data:
   followers: 1317396
   id: 6dROiL44pIQZVNZ6Bc0OJO
   popularity: 46
-  url: https://open.spotify.com/artist/6dROiL44pIQZVNZ6Bc0OJO
+  url: 'https://open.spotify.com/artist/6dROiL44pIQZVNZ6Bc0OJO'
 discography_enriched: true
 top_tracks:
-- Did You Wrong (The Introduction of Marcus Cooper)
-- 'Boyfriend #2 (The Introduction of Marcus Cooper)'
-- I Love Girls
-- Under (The Introduction of Marcus Cooper)
-- I Like Girls feat. Tyga
-- She Likes (She Likes)
-- Puddles (feat. Baby Blue, Spectacular, Slickem & Pleasure P)
-- Rock with You
-- Gotta Have You (The Introduction of Marcus Cooper)
-- Fire Lovin (The Introduction of Marcus Cooper)
+  - Did You Wrong (The Introduction of Marcus Cooper)
+  - 'Boyfriend #2 (The Introduction of Marcus Cooper)'
+  - I Love Girls
+  - Under (The Introduction of Marcus Cooper)
+  - I Like Girls feat. Tyga
+  - She Likes (She Likes)
+  - 'Puddles (feat. Baby Blue, Spectacular, Slickem & Pleasure P)'
+  - Rock with You
+  - Gotta Have You (The Introduction of Marcus Cooper)
+  - Fire Lovin (The Introduction of Marcus Cooper)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/fc340078-7883-49bd-ad06-8b03512b25ed
-  spotify: https://open.spotify.com/artist/6dROiL44pIQZVNZ6Bc0OJO
-  wikipedia: https://en.wikipedia.org/wiki/Pleasure_(American_band)
+  musicbrainz: 'https://musicbrainz.org/artist/fc340078-7883-49bd-ad06-8b03512b25ed'
+  spotify: 'https://open.spotify.com/artist/6dROiL44pIQZVNZ6Bc0OJO'
+  wikipedia: 'https://en.wikipedia.org/wiki/Pleasure_(American_band)'
 image_path: 03_Resources/source_material/ArtistPortraits/pleasure.jpg
 biography_enhanced_at: '2025-11-02T07:38:02.451440'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Pleasure_(American_band)
-- https://www.last.fm/music/Pleasure/+wiki
-- https://concord.com/artist/pleasure/
+  - 'https://en.wikipedia.org/wiki/Pleasure_(American_band)'
+  - 'https://www.last.fm/music/Pleasure/+wiki'
+  - 'https://concord.com/artist/pleasure/'
 network_extracted: true
 entry_created: '2025-11-02T07:38:02.451450'
 last_updated: '2025-12-23T08:16:14.365213'
 disambiguation: Portland US funk/soul group
 members:
-- begin: '1972'
-  end: '1980'
-  instruments:
-  - guitar
-  - original
-  mbid: 698d1046-8c0a-4067-9355-fae393a4a5a7
-  name: Marlon McClain
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  - original
-  mbid: 4daf1c2e-7a0f-44c9-8485-3c252c854965
-  name: Bruce Carter
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  - original
-  mbid: 6f1ce8ec-0655-4fc4-8752-4b2851cf0ce7
-  name: Sherman Davis
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b826efd1-b265-4785-a553-f8e7eb2049b2
-  name: Randy Hall
-- begin: ''
-  end: ''
-  instruments:
-  - keyboard
-  - original
-  mbid: fe532417-ead8-422c-8870-6ffee24f533e
-  name: Donald Hepburn
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4a3c5f9c-889d-41bd-9bb0-e2a08330511b
-  name: Michael Hepburn
-- begin: ''
-  end: ''
-  instruments:
-  - electric bass guitar
-  - original
-  mbid: ea0cd605-8e43-4b08-a88b-4eb912c1b2c5
-  name: Nate Phillips
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  - percussion
-  mbid: e7595015-50e6-43f0-910f-e05d091f51a8
-  name: Bruce Smith
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  - saxophone
-  mbid: e495e1f5-3ea3-42d3-8a7b-bd6f0c324946
-  name: Dennis Springer
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  - trombone
-  mbid: 51b26dbd-aa12-4d12-b8d1-252e2d95c07e
-  name: Dan Brewster
+  - begin: '1972'
+    end: '1980'
+    instruments:
+      - guitar
+      - original
+    mbid: 698d1046-8c0a-4067-9355-fae393a4a5a7
+    name: Marlon McClain
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+      - original
+    mbid: 4daf1c2e-7a0f-44c9-8485-3c252c854965
+    name: Bruce Carter
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+      - original
+    mbid: 6f1ce8ec-0655-4fc4-8752-4b2851cf0ce7
+    name: Sherman Davis
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b826efd1-b265-4785-a553-f8e7eb2049b2
+    name: Randy Hall
+  - begin: ''
+    end: ''
+    instruments:
+      - keyboard
+      - original
+    mbid: fe532417-ead8-422c-8870-6ffee24f533e
+    name: Donald Hepburn
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4a3c5f9c-889d-41bd-9bb0-e2a08330511b
+    name: Michael Hepburn
+  - begin: ''
+    end: ''
+    instruments:
+      - electric bass guitar
+      - original
+    mbid: ea0cd605-8e43-4b08-a88b-4eb912c1b2c5
+    name: Nate Phillips
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - percussion
+    mbid: e7595015-50e6-43f0-910f-e05d091f51a8
+    name: Bruce Smith
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - saxophone
+    mbid: e495e1f5-3ea3-42d3-8a7b-bd6f0c324946
+    name: Dennis Springer
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - trombone
+    mbid: 51b26dbd-aa12-4d12-b8d1-252e2d95c07e
+    name: Dan Brewster
 musicbrainz_id: fc340078-7883-49bd-ad06-8b03512b25ed
-origin: Portland
+origin: 'Portland, Oregon, United States'
 tags:
-- funk
+  - funk
 ---
 
 ![](pleasure.jpg)

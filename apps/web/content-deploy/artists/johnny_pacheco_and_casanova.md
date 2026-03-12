@@ -1,50 +1,55 @@
 ---
 biography_enhanced_at: '2026-01-18T07:47:26.301406'
-birth_place: Santiago de los Caballeros, Dominican Republic
+birth_place: 'Santiago de los Caballeros, Dominican Republic, Dominican Republic'
 enhancement_provider: perplexity
 entry_created: '2026-01-18T07:47:26.301412'
 external_urls:
-  spotify: https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o
-  wikipedia: https://en.wikipedia.org/wiki/Johnny_Pacheco
+  spotify: 'https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o'
+  wikipedia: 'https://en.wikipedia.org/wiki/Johnny_Pacheco'
 genres:
-- salsa
-- son cubano
-- latin jazz
-- merengue
+  - salsa
+  - son cubano
+  - latin jazz
+  - merengue
 image_path: 03_Resources/source_material/ArtistPortraits/johnny_pacheco_and_casanova.jpg
 last_updated: '2026-01-18T07:47:26.301413'
 musical_connections:
   collaborators:
-  - Charlie Palmieri
-  - Eddie Palmieri
-  - Jerry Masucci
-  - Celia Cruz
-  - Hector Casanova
-  - Tito Puente
-  - Larry Harlow, Ray Barretto, Joe Bataan, Willie Colón
+    - Charlie Palmieri
+    - Eddie Palmieri
+    - Jerry Masucci
+    - Celia Cruz
+    - Hector Casanova
+    - Tito Puente
+    - 'Larry Harlow, Ray Barretto, Joe Bataan, Willie Colón'
   influenced:
-  - Fania Records artists and Latin music industry
-  - Salsa music genre
+    - Fania Records artists and Latin music industry
+    - Salsa music genre
   mentors:
-  - Rafael Azarias Pacheco (father)
-  - Morris Goldberg
-  - Arcaño y sus Maravillas, Arsenio Rodríguez, Orquesta Aragón
+    - Rafael Azarias Pacheco (father)
+    - Morris Goldberg
+    - 'Arcaño y sus Maravillas, Arsenio Rodríguez, Orquesta Aragón'
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Johnny_Pacheco
-- https://www.bronxwalkoffame.com/inductees/johnny-pacheco
-- https://www.wbgo.org/show/latin-jazz-cruise/2021-02-17/a-toast-to-salsa-pioneer-johnny-pacheco
-- https://fania.com/record/johnny-pacheco-a-man-and-his-music-el-maestro/
-- https://latinomusiccafe.com/2009/11/18/johnny-pacheco-50-years-making-latin-music-history/
-- http://www.salsatalks.com/articles/pacheco.html
+  - 'https://en.wikipedia.org/wiki/Johnny_Pacheco'
+  - 'https://www.bronxwalkoffame.com/inductees/johnny-pacheco'
+  - >-
+    https://www.wbgo.org/show/latin-jazz-cruise/2021-02-17/a-toast-to-salsa-pioneer-johnny-pacheco
+  - 'https://fania.com/record/johnny-pacheco-a-man-and-his-music-el-maestro/'
+  - >-
+    https://latinomusiccafe.com/2009/11/18/johnny-pacheco-50-years-making-latin-music-history/
+  - 'http://www.salsatalks.com/articles/pacheco.html'
 spotify_data:
   followers: 289554
   id: 09947uhj2ZwU9mFXK5v50o
   popularity: 52
-  url: https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o
+  url: 'https://open.spotify.com/artist/09947uhj2ZwU9mFXK5v50o'
 status: active
 title: JOHNNY pacheco & Casanova
+birth_date: '1935-03-25'
+death_date: '2021-02-15'
+artist_type: person
 ---
 
 ![](johnny_pacheco_and_casanova.jpg)

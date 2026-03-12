@@ -3,13 +3,13 @@ title: Melissa Etheridge
 wiki_slug: melissa-etheridge
 schema_version: 2
 status: active
-birth_place: Leavenworth, Kansas, United States
+birth_place: 'Leavenworth, Kansas, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/melissa_etheridge.jpg
   caption: Melissa Etheridge
   background: solo_singer
-  origin: Leavenworth, Kansas, United States
+  origin: 'Leavenworth, Kansas, United States'
 audio_profile:
   tempo_avg: 116.2
   energy_avg: 0.622
@@ -25,46 +25,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bill Leopold
-  - John Shanks
+    - Bill Leopold
+    - John Shanks
   influenced:
-  - Brandi Carlile
-  - KT Tunstall
+    - Brandi Carlile
+    - KT Tunstall
   mentors:
-  - Chris Blackwell
+    - Chris Blackwell
 spotify_data:
   followers: 518456
   id: 01Ppu7N8uYJI8SAONo2YZA
   popularity: 51
-  url: https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA
+  url: 'https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA'
 discography_enriched: true
 top_tracks:
-- I'm The Only One (Yes I Am)
-- Like The Way I Do (Melissa Etheridge)
-- Come To My Window (Yes I Am)
-- Bring Me Some Water (Melissa Etheridge)
-- I Want To Come Over (Your Little Secret)
-- JUST STAND UP!
-- You Can Sleep While I Drive (Brave And Crazy)
-- Similar Features (Melissa Etheridge)
-- If I Wanted To (Yes I Am)
-- Come To My Window - Single Edit
+  - I'm The Only One (Yes I Am)
+  - Like The Way I Do (Melissa Etheridge)
+  - Come To My Window (Yes I Am)
+  - Bring Me Some Water (Melissa Etheridge)
+  - I Want To Come Over (Your Little Secret)
+  - JUST STAND UP!
+  - You Can Sleep While I Drive (Brave And Crazy)
+  - Similar Features (Melissa Etheridge)
+  - If I Wanted To (Yes I Am)
+  - Come To My Window - Single Edit
 external_urls:
-  spotify: https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA
-  wikipedia: https://en.wikipedia.org/wiki/Melissa_Etheridge
+  spotify: 'https://open.spotify.com/artist/01Ppu7N8uYJI8SAONo2YZA'
+  wikipedia: 'https://en.wikipedia.org/wiki/Melissa_Etheridge'
 image_path: 03_Resources/source_material/ArtistPortraits/melissa_etheridge.jpg
 biography_enhanced_at: '2025-11-03T07:43:49.879518'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Melissa_Etheridge
-- https://melissaetheridge.com/about/
-- https://walkoffame.com/melissa-etheridge/
-- https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/melissa-etheridge
-- https://www.britannica.com/biography/Melissa-Etheridge
+  - 'https://en.wikipedia.org/wiki/Melissa_Etheridge'
+  - 'https://melissaetheridge.com/about/'
+  - 'https://walkoffame.com/melissa-etheridge/'
+  - >-
+    https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/melissa-etheridge
+  - 'https://www.britannica.com/biography/Melissa-Etheridge'
 network_extracted: true
 entry_created: '2025-11-03T07:43:49.879532'
 last_updated: '2025-12-23T08:16:12.929483'
+birth_date: '1961-05-29'
+artist_type: person
 ---
 
 ![](melissa_etheridge.jpg)

@@ -2,13 +2,13 @@
 title: Louise Vant
 wiki_slug: louise-vant
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 aliases: []
 birth_place: Unknown
 genres:
-- classic blues
-- ragtime
+  - classic blues
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Louise_Vant.jpg
   caption: Louise Vant
@@ -29,11 +29,11 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Perry Bradford
-  - Jimmy Harrison
-  - Gus Aiken
-  - Roy Banks
-  - Buddie Christian
+    - Perry Bradford
+    - Jimmy Harrison
+    - Gus Aiken
+    - Roy Banks
+    - Buddie Christian
   influenced: []
   mentors: []
 related_artists: []
@@ -41,25 +41,31 @@ spotify_data:
   followers: 20
   id: 5KfoCvSBQhFEcY3nrr5whb
   popularity: 0
-  url: https://open.spotify.com/artist/5KfoCvSBQhFEcY3nrr5whb
+  url: 'https://open.spotify.com/artist/5KfoCvSBQhFEcY3nrr5whb'
   verified: false
 discography_enriched: true
 albums_count: 1
 singles_count: 3
 top_tracks:
-- I'm Tired Of Everything But You (Perry Bradford & The Blues Singers (1923-1927))
-- I Wouldn't Be Where I Am If You Hadn't Gone Away (Perry Bradford & The Blues Singers (1923-1927))
-- Do Right Blues (Perry Bradford & The Blues Singers (1923-1927))
-- Just A Little Bad Bad (Perry Bradford & The Blues Singers (1923-1927))
-- I've Learned To Do Without You Now (Perry Bradford & The Blues Singers (1923-1927))
-- Want A Little Lovin' (Perry Bradford & The Blues Singers (1923-1927))
-- Pensacola Blues (Perry Bradford & The Blues Singers (1923-1927))
-- New Crazy Blues (Perry Bradford & The Blues Singers (1923-1927))
-- Show Me The Way To Go Home (Female Blues - The Remaining Titles (1922-1927))
-- Save Your Sorrow (Female Blues - The Remaining Titles (1922-1927))
+  - >-
+    I'm Tired Of Everything But You (Perry Bradford & The Blues Singers
+    (1923-1927))
+  - >-
+    I Wouldn't Be Where I Am If You Hadn't Gone Away (Perry Bradford & The Blues
+    Singers (1923-1927))
+  - Do Right Blues (Perry Bradford & The Blues Singers (1923-1927))
+  - Just A Little Bad Bad (Perry Bradford & The Blues Singers (1923-1927))
+  - >-
+    I've Learned To Do Without You Now (Perry Bradford & The Blues Singers
+    (1923-1927))
+  - Want A Little Lovin' (Perry Bradford & The Blues Singers (1923-1927))
+  - Pensacola Blues (Perry Bradford & The Blues Singers (1923-1927))
+  - New Crazy Blues (Perry Bradford & The Blues Singers (1923-1927))
+  - Show Me The Way To Go Home (Female Blues - The Remaining Titles (1922-1927))
+  - Save Your Sorrow (Female Blues - The Remaining Titles (1922-1927))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b0c135c7-9a9f-4c8e-b3c8-d656d2819d25
-  spotify: https://open.spotify.com/artist/5KfoCvSBQhFEcY3nrr5whb
+  musicbrainz: 'https://musicbrainz.org/artist/b0c135c7-9a9f-4c8e-b3c8-d656d2819d25'
+  spotify: 'https://open.spotify.com/artist/5KfoCvSBQhFEcY3nrr5whb'
   wikipedia: Not found
 image_path: 03_Resources/source_material/ArtistPortraits/Louise_Vant.jpg
 biography_source: wikipedia
@@ -67,13 +73,13 @@ biography_enhanced_at: '2025-09-30T12:08:18.897521'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- YouTube - Desdemona202 channel
-- Harlem Fuss discography
-- Kendra Steiner Editions blog
-- Sunday Blues website
+  - YouTube - Desdemona202 channel
+  - Harlem Fuss discography
+  - Kendra Steiner Editions blog
+  - Sunday Blues website
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 12:55:12.615937
+entry_created: 2025-09-18T12:55:12.615Z
 last_updated: '2025-12-23T08:16:02.937476'
 disambiguation: 1920s blues singer
 gender: Female

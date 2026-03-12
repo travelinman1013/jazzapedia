@@ -1,86 +1,87 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 875074d3-6458-47b4-b515-f7ecda93bd8d
-  name: LaBelle
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b6634f18-2dff-4cc5-8a53-ca47d9fc890b
-  name: Patti LaBelle & The Bluebelles
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 30be4eb7-e2c7-4022-8072-2924307f385b
-  name: We Are Family Collective
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f5fe0611-3f0a-4204-8e41-a6b4470ecf62
-  name: The Champions
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 72c36290-532b-4deb-9665-dfd12d99f3b8
-  name: The Queens
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 875074d3-6458-47b4-b515-f7ecda93bd8d
+    name: LaBelle
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b6634f18-2dff-4cc5-8a53-ca47d9fc890b
+    name: Patti LaBelle & The Bluebelles
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 30be4eb7-e2c7-4022-8072-2924307f385b
+    name: We Are Family Collective
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f5fe0611-3f0a-4204-8e41-a6b4470ecf62
+    name: The Champions
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 72c36290-532b-4deb-9665-dfd12d99f3b8
+    name: The Queens
 biography_enhanced_at: '2026-01-18T07:53:58.899883'
 birth_date: '1944-05-24'
-birth_place: Harrisburg
+birth_place: 'Harrisburg, Pennsylvania, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-18T07:53:58.899889'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f319ec6a-9290-449b-baef-4244809c487a
-  spotify: https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn
-  wikipedia: https://en.wikipedia.org/wiki/Patti_LaBelle
+  musicbrainz: 'https://musicbrainz.org/artist/f319ec6a-9290-449b-baef-4244809c487a'
+  spotify: 'https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn'
+  wikipedia: 'https://en.wikipedia.org/wiki/Patti_LaBelle'
 gender: Female
 genres:
-- philly soul
-- quiet storm
-- classic soul
+  - philly soul
+  - quiet storm
+  - classic soul
 image_path: 03_Resources/source_material/ArtistPortraits/patti_labelle.jpg
 instruments:
-- lead vocals
-- background vocals
-- spoken vocals
-- choir vocals
+  - lead vocals
+  - background vocals
+  - spoken vocals
+  - choir vocals
 last_updated: '2026-01-18T07:53:58.899890'
 musical_connections:
   collaborators:
-  - Michael McDonald
-  - Grover Washington
-  - Bobby Womack
-  - Gladys Knight and Dionne Warwick
-  - Nona Hendryx and Sarah Dash
+    - Michael McDonald
+    - Grover Washington
+    - Bobby Womack
+    - Gladys Knight and Dionne Warwick
+    - Nona Hendryx and Sarah Dash
   influenced:
-  - Mariah Carey
-  - Christina Aguilera
+    - Mariah Carey
+    - Christina Aguilera
   mentors:
-  - Bobby Martin
+    - Bobby Martin
 musicbrainz_id: f319ec6a-9290-449b-baef-4244809c487a
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.biography.com/musicians/patti-labelle
-- https://en.wikipedia.org/wiki/Patti_LaBelle
-- https://www.broadwayworld.com/people/Patti-LaBelle/
-- https://wers.org/the-vault-of-soul-patti-labelle/
-- https://walkoffame.com/patti-labelle/
-- https://blackpast.org/african-american-history/patti-labelle-1944/
-- https://www.philadelphiamusicalliance.org/walk-of-fame/labelle/
+  - 'https://www.biography.com/musicians/patti-labelle'
+  - 'https://en.wikipedia.org/wiki/Patti_LaBelle'
+  - 'https://www.broadwayworld.com/people/Patti-LaBelle/'
+  - 'https://wers.org/the-vault-of-soul-patti-labelle/'
+  - 'https://walkoffame.com/patti-labelle/'
+  - 'https://blackpast.org/african-american-history/patti-labelle-1944/'
+  - 'https://www.philadelphiamusicalliance.org/walk-of-fame/labelle/'
 spotify_data:
   followers: 1124206
   id: 0ty0xha1dbprYIUAQufkFn
   popularity: 54
-  url: https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn
+  url: 'https://open.spotify.com/artist/0ty0xha1dbprYIUAQufkFn'
 status: active
 tags:
-- 2008 universal fire victim
-- hip hop rnb and dance hall
-- soul
-title: Patti Labelle
+  - 2008 universal fire victim
+  - hip hop rnb and dance hall
+  - soul
+title: Patti LaBelle
+origin: 'Philadelphia, Pennsylvania, United States'
 ---
 
 ![](patti_labelle.jpg)

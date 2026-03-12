@@ -2,16 +2,16 @@
 title: The Cranberries
 wiki_slug: the-cranberries
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1989'
 genres: []
 instruments:
-- guitar
-- lead vocals
-- original
-- bass guitar
-- drums (drum set)
+  - guitar
+  - lead vocals
+  - original
+  - bass guitar
+  - drums (drum set)
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_cranberries.jpg
   caption: The Cranberries
@@ -32,94 +32,94 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dolores O'Riordan
-  - Noel Hogan
-  - Mike Hogan
-  - Fergal Lawler
-  - Stephen Street
+    - Dolores O'Riordan
+    - Noel Hogan
+    - Mike Hogan
+    - Fergal Lawler
+    - Stephen Street
   influenced:
-  - Avril Lavigne
-  - Florence Welch (Florence + The Machine)
-  - Halsey
+    - Avril Lavigne
+    - Florence Welch (Florence + The Machine)
+    - Halsey
   mentors:
-  - The Smiths
-  - The Cure
-  - Sinéad O'Connor
+    - The Smiths
+    - The Cure
+    - Sinéad O'Connor
 spotify_data:
   followers: 5393992
   id: 7t0rwkOPGlDPEhaOcVtOt9
   popularity: 76
-  url: https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9
+  url: 'https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9'
 discography_enriched: true
 top_tracks:
-- Linger (Everybody Else Is Doing It, So Why Can't We?)
-- Zombie (No Need To Argue (The Complete Sessions 1994-1995))
-- Dreams (Everybody Else Is Doing It, So Why Can't We?)
-- Ode To My Family (No Need To Argue (The Complete Sessions 1994-1995))
-- Sunday (Everybody Else Is Doing It, So Why Can't We?)
-- When You're Gone (To The Faithful Departed)
-- Zombie - Acoustic Version (Something Else)
-- Animal Instinct (Bury The Hatchet)
-- Just My Imagination (Bury The Hatchet)
-- When You're Gone
+  - 'Linger (Everybody Else Is Doing It, So Why Can''t We?)'
+  - Zombie (No Need To Argue (The Complete Sessions 1994-1995))
+  - 'Dreams (Everybody Else Is Doing It, So Why Can''t We?)'
+  - Ode To My Family (No Need To Argue (The Complete Sessions 1994-1995))
+  - 'Sunday (Everybody Else Is Doing It, So Why Can''t We?)'
+  - When You're Gone (To The Faithful Departed)
+  - Zombie - Acoustic Version (Something Else)
+  - Animal Instinct (Bury The Hatchet)
+  - Just My Imagination (Bury The Hatchet)
+  - When You're Gone
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c98d40fd-f6cf-4b26-883e-eaa515ee2851
-  spotify: https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9
-  wikipedia: https://en.wikipedia.org/wiki/The_Cranberries
+  musicbrainz: 'https://musicbrainz.org/artist/c98d40fd-f6cf-4b26-883e-eaa515ee2851'
+  spotify: 'https://open.spotify.com/artist/7t0rwkOPGlDPEhaOcVtOt9'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Cranberries'
 image_path: 03_Resources/source_material/ArtistPortraits/the_cranberries.jpg
 biography_enhanced_at: '2025-10-27T02:54:22.524371'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Cranberries
-- https://www.thisdayinmusic.com/artists/the-cranberries/
-- https://cranberriesworld.com/crancyclopedia/biography/
-- https://www.infoplease.com/biographies/art-entertainment/cranberries
+  - 'https://en.wikipedia.org/wiki/The_Cranberries'
+  - 'https://www.thisdayinmusic.com/artists/the-cranberries/'
+  - 'https://cranberriesworld.com/crancyclopedia/biography/'
+  - 'https://www.infoplease.com/biographies/art-entertainment/cranberries'
 network_extracted: true
 entry_created: '2025-10-27T02:54:22.524389'
 last_updated: '2025-12-23T08:16:16.690033'
 members:
-- begin: '1989'
-  end: '1990'
-  instruments:
-  - guitar
-  - lead vocals
-  - original
-  mbid: 9f898ddb-f457-4575-877e-0d32f05f5704
-  name: Niall Quinn
-- begin: '1989'
-  end: '2019'
-  instruments:
-  - bass guitar
-  - original
-  mbid: 72993172-f92a-4607-8eaf-78e5c4abc3ca
-  name: Mike Hogan
-- begin: '1989'
-  end: '2019'
-  instruments:
-  - guitar
-  - original
-  mbid: 071a4b21-53de-4ac0-af14-e71efd7dce3d
-  name: Noel Hogan
-- begin: '1989'
-  end: '2019'
-  instruments:
-  - drums (drum set)
-  - original
-  mbid: e12afb31-36be-480b-9019-71ca93d9fc8f
-  name: Fergal Lawler
-- begin: '1990'
-  end: '2018-01-15'
-  instruments:
-  - lead vocals
-  mbid: 13c10976-99f1-4cb4-8fbe-56067e91d865
-  name: Dolores O’Riordan
+  - begin: '1989'
+    end: '1990'
+    instruments:
+      - guitar
+      - lead vocals
+      - original
+    mbid: 9f898ddb-f457-4575-877e-0d32f05f5704
+    name: Niall Quinn
+  - begin: '1989'
+    end: '2019'
+    instruments:
+      - bass guitar
+      - original
+    mbid: 72993172-f92a-4607-8eaf-78e5c4abc3ca
+    name: Mike Hogan
+  - begin: '1989'
+    end: '2019'
+    instruments:
+      - guitar
+      - original
+    mbid: 071a4b21-53de-4ac0-af14-e71efd7dce3d
+    name: Noel Hogan
+  - begin: '1989'
+    end: '2019'
+    instruments:
+      - drums (drum set)
+      - original
+    mbid: e12afb31-36be-480b-9019-71ca93d9fc8f
+    name: Fergal Lawler
+  - begin: '1990'
+    end: '2018-01-15'
+    instruments:
+      - lead vocals
+    mbid: 13c10976-99f1-4cb4-8fbe-56067e91d865
+    name: Dolores O’Riordan
 musicbrainz_id: c98d40fd-f6cf-4b26-883e-eaa515ee2851
-origin: Limerick
+origin: 'Limerick, Ireland'
 tags:
-- acoustic rock
-- alternative rock
-- celtic rock
+  - acoustic rock
+  - alternative rock
+  - celtic rock
 ---
 
 ![](the_cranberries.jpg)

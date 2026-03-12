@@ -1,111 +1,113 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '1948'
-  end: '1952'
-  instruments:
-  - banjo
-  - tenor vocals
-  mbid: 621b8812-df32-4bf1-80c4-aee05f803137
-  name: The Weavers
-- begin: '1955'
-  end: '1958'
-  instruments:
-  - tenor vocals
-  mbid: 621b8812-df32-4bf1-80c4-aee05f803137
-  name: The Weavers
-- begin: '1955'
-  end: '1958'
-  instruments:
-  - banjo
-  mbid: 621b8812-df32-4bf1-80c4-aee05f803137
-  name: The Weavers
-- begin: '1980'
-  end: '1980'
-  instruments:
-  - tenor vocals
-  mbid: 621b8812-df32-4bf1-80c4-aee05f803137
-  name: The Weavers
-- begin: '1980'
-  end: '1980'
-  instruments:
-  - banjo
-  mbid: 621b8812-df32-4bf1-80c4-aee05f803137
-  name: The Weavers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 38956a38-5f55-46f1-8c26-2e480cbe1453
-  name: The Almanac Singers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 368374c4-e8a1-4cd9-9526-aeb6d1b8b74e
-  name: Union Boys
+  - begin: '1948'
+    end: '1952'
+    instruments:
+      - banjo
+      - tenor vocals
+    mbid: 621b8812-df32-4bf1-80c4-aee05f803137
+    name: The Weavers
+  - begin: '1955'
+    end: '1958'
+    instruments:
+      - tenor vocals
+    mbid: 621b8812-df32-4bf1-80c4-aee05f803137
+    name: The Weavers
+  - begin: '1955'
+    end: '1958'
+    instruments:
+      - banjo
+    mbid: 621b8812-df32-4bf1-80c4-aee05f803137
+    name: The Weavers
+  - begin: '1980'
+    end: '1980'
+    instruments:
+      - tenor vocals
+    mbid: 621b8812-df32-4bf1-80c4-aee05f803137
+    name: The Weavers
+  - begin: '1980'
+    end: '1980'
+    instruments:
+      - banjo
+    mbid: 621b8812-df32-4bf1-80c4-aee05f803137
+    name: The Weavers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 38956a38-5f55-46f1-8c26-2e480cbe1453
+    name: The Almanac Singers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 368374c4-e8a1-4cd9-9526-aeb6d1b8b74e
+    name: Union Boys
 biography_enhanced_at: '2026-01-10T01:06:44.022691'
 birth_date: '1919-05-03'
-birth_place: Manhattan
+birth_place: 'Manhattan, New York, United States'
 death_date: '2014-01-27'
 enhancement_provider: perplexity
 entry_created: '2026-01-10T01:06:44.022697'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/af18a9bc-e4ab-4068-9489-b64e8186fcf1
-  spotify: https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY
-  wikipedia: https://en.wikipedia.org/wiki/Pete_Seeger
+  musicbrainz: 'https://musicbrainz.org/artist/af18a9bc-e4ab-4068-9489-b64e8186fcf1'
+  spotify: 'https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY'
+  wikipedia: 'https://en.wikipedia.org/wiki/Pete_Seeger'
 gender: Male
 genres:
-- folk
-- traditional folk
-- americana
-- folk rock
+  - folk
+  - traditional folk
+  - americana
+  - folk rock
 image_path: 03_Resources/source_material/ArtistPortraits/pete_seeger.jpg
 instruments:
-- banjo
-- tenor vocals
-- 12 string guitar
-- guitar
-- spoken vocals
-- lead vocals
-- background vocals
+  - banjo
+  - tenor vocals
+  - 12 string guitar
+  - guitar
+  - spoken vocals
+  - lead vocals
+  - background vocals
 last_updated: '2026-01-10T01:06:44.022698'
 musical_connections:
   collaborators:
-  - Woody Guthrie
-  - Lee Hays
-  - Ronnie Gilbert
-  - Fred Hellerman
-  - Malvina Reynolds
+    - Woody Guthrie
+    - Lee Hays
+    - Ronnie Gilbert
+    - Fred Hellerman
+    - Malvina Reynolds
   influenced:
-  - Bob Dylan
-  - Joan Baez
-  - Bruce Springsteen
-  - The Chicks (formerly Dixie Chicks)
+    - Bob Dylan
+    - Joan Baez
+    - Bruce Springsteen
+    - The Chicks (formerly Dixie Chicks)
   mentors:
-  - Alan Lomax
-  - Woody Guthrie
-  - Lead Belly (Huddie Ledbetter)
+    - Alan Lomax
+    - Woody Guthrie
+    - Lead Belly (Huddie Ledbetter)
 musicbrainz_id: af18a9bc-e4ab-4068-9489-b64e8186fcf1
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Pete_Seeger
-- https://www.britannica.com/biography/Pete-Seeger
-- https://peteseeger.org
-- https://folkways.si.edu/peteseeger
-- https://www.songhall.org/profiles/pete-seeger
-- https://www.zinnedproject.org/news/tdih/pete-seeger-born/
-- https://blogs.loc.gov/loc/2014/01/remembering-pete-seeger/
+  - 'https://en.wikipedia.org/wiki/Pete_Seeger'
+  - 'https://www.britannica.com/biography/Pete-Seeger'
+  - 'https://peteseeger.org'
+  - 'https://folkways.si.edu/peteseeger'
+  - 'https://www.songhall.org/profiles/pete-seeger'
+  - 'https://www.zinnedproject.org/news/tdih/pete-seeger-born/'
+  - 'https://blogs.loc.gov/loc/2014/01/remembering-pete-seeger/'
 spotify_data:
   followers: 211386
   id: 1P9syEkl41IFowWIJN7ZBY
   popularity: 45
-  url: https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY
+  url: 'https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY'
 status: active
 tags:
-- contemporary folk
-- folk
-- singer-songwriter
+  - contemporary folk
+  - folk
+  - singer-songwriter
 title: Pete Seeger
+is_active: false
+origin: 'New York City, New York, United States'
 ---
 
 ![](pete_seeger.jpg)

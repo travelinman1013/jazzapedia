@@ -1,72 +1,74 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: 9efecd48-7073-4c27-b2b6-c895f68f54fb
-  name: Legendary Rhythm & Blues Revue
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 9efecd48-7073-4c27-b2b6-c895f68f54fb
+    name: Legendary Rhythm & Blues Revue
 biography_enhanced_at: '2026-01-22T07:19:33.535684'
 birth_date: '1967-01-23'
-birth_place: Chicago
+birth_place: 'Chicago, Illinois, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:19:33.535693'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/aced1571-525e-480c-b27a-323f314e03be
-  spotify: https://open.spotify.com/artist/1R61o55489TKal84OYdcnI
-  wikipedia: https://en.wikipedia.org/wiki/Ronnie_Baker_Brooks
+  musicbrainz: 'https://musicbrainz.org/artist/aced1571-525e-480c-b27a-323f314e03be'
+  spotify: 'https://open.spotify.com/artist/1R61o55489TKal84OYdcnI'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ronnie_Baker_Brooks'
 gender: Male
 genres:
-- blues
-- modern blues
-- blues rock
-- soul blues
+  - blues
+  - modern blues
+  - blues rock
+  - soul blues
 image_path: 03_Resources/source_material/ArtistPortraits/ronnie_baker_brooks.jpg
 instruments:
-- guitar
-- bass guitar
-- electric guitar
-- vocal
-- lead vocals
-- background vocals
+  - guitar
+  - bass guitar
+  - electric guitar
+  - vocal
+  - lead vocals
+  - background vocals
 last_updated: '2026-01-22T07:19:33.535694'
 musical_connections:
   collaborators:
-  - Lonnie Brooks
-  - Wayne Baker Brooks
-  - Eddy Clearwater
-  - Jim Gaines
-  - Carlton Armstrong
+    - Lonnie Brooks
+    - Wayne Baker Brooks
+    - Eddy Clearwater
+    - Jim Gaines
+    - Carlton Armstrong
   influenced:
-  - Wayne Baker Brooks
+    - Wayne Baker Brooks
   mentors:
-  - Lonnie Brooks
-  - Koko Taylor
-  - Albert Collins
+    - Lonnie Brooks
+    - Koko Taylor
+    - Albert Collins
 musicbrainz_id: aced1571-525e-480c-b27a-323f314e03be
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Ronnie_Baker_Brooks
-- https://alanpaul.substack.com/p/born-into-the-blues-an-interview?r=fls&triedRedirect=true
-- https://www.jazzalley.com/www-home/artist.jsp?shownum=7618
-- https://www.livermoredowntown.com/do/ronnie-baker-brooks
-- https://blues.gr/profiles/blogs/q-a-with-blues-rock-musician-ronnie-baker-brooks-with-blues-in-hi
-- https://www.chicagobluesguide.com/post/ronnie-baker-brooks-interview
-- https://awesomedjproductions.com/artist/ronnie-baker-brooks/
-- https://ronniebakerbrooks.com
-- https://www.ravinia.org/events/detail/ronnie-baker-brooks
+  - 'https://en.wikipedia.org/wiki/Ronnie_Baker_Brooks'
+  - >-
+    https://alanpaul.substack.com/p/born-into-the-blues-an-interview?r=fls&triedRedirect=true
+  - 'https://www.jazzalley.com/www-home/artist.jsp?shownum=7618'
+  - 'https://www.livermoredowntown.com/do/ronnie-baker-brooks'
+  - >-
+    https://blues.gr/profiles/blogs/q-a-with-blues-rock-musician-ronnie-baker-brooks-with-blues-in-hi
+  - 'https://www.chicagobluesguide.com/post/ronnie-baker-brooks-interview'
+  - 'https://awesomedjproductions.com/artist/ronnie-baker-brooks/'
+  - 'https://ronniebakerbrooks.com'
+  - 'https://www.ravinia.org/events/detail/ronnie-baker-brooks'
 spotify_data:
   followers: 12680
   id: 1R61o55489TKal84OYdcnI
   popularity: 33
-  url: https://open.spotify.com/artist/1R61o55489TKal84OYdcnI
+  url: 'https://open.spotify.com/artist/1R61o55489TKal84OYdcnI'
 status: active
 tags:
-- blues
-- chicago blues
-- electric blues
+  - blues
+  - chicago blues
+  - electric blues
 title: Ronnie Baker Brooks
 ---
 

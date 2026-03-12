@@ -5,22 +5,22 @@ schema_version: 2
 status: active
 aliases: []
 birth_date: '1971-11-23'
-birth_place: Lancaster
+birth_place: 'Lancaster, Pennsylvania, United States'
 years_active: 1998–present
 genres:
-- indie jazz
+  - indie jazz
 instruments:
-- violin
-- voice
+  - violin
+  - voice
 occupation:
-- singer
-- composer
-- songwriter
-- jazz musician
-- violinist
+  - singer
+  - composer
+  - songwriter
+  - jazz musician
+  - violinist
 record_labels:
-- Tzadik Records
-- Intakt Records
+  - Tzadik Records
+  - Intakt Records
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Tin_Hat_Trio.jpg
   caption: Tin Hat Trio
@@ -42,57 +42,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tom Waits
-  - Mike Patton
-  - Willie Nelson
-  - Ben Goldberg
-  - Zeena Parkins
-  - Ara Anderson
+    - Tom Waits
+    - Mike Patton
+    - Willie Nelson
+    - Ben Goldberg
+    - Zeena Parkins
+    - Ara Anderson
   influenced:
-  - 2 Foot Yard
-  - Contemporary chamber-jazz ensembles (e.g., The Bad Plus, Secret Chiefs 3)
+    - 2 Foot Yard
+    - 'Contemporary chamber-jazz ensembles (e.g., The Bad Plus, Secret Chiefs 3)'
   mentors:
-  - Classical Conservatory Teachers (Peabody, Hartt, Juilliard, Oberlin, UMass)
+    - >-
+      Classical Conservatory Teachers (Peabody, Hartt, Juilliard, Oberlin,
+      UMass)
 related_artists: []
 spotify_data:
   followers: 15724
   id: 5qTWHmoWrGvTBCtAfR48j6
   popularity: 25
-  url: https://open.spotify.com/artist/5qTWHmoWrGvTBCtAfR48j6
+  url: 'https://open.spotify.com/artist/5qTWHmoWrGvTBCtAfR48j6'
   verified: false
 discography_enriched: true
 albums_count: 4
 singles_count: 0
 top_tracks:
-- New West (Nebraska (Original Soundtrack))
-- Bill (Nebraska (Original Soundtrack))
-- The Clandestine Adventures of Ms. Merz (Book of Silk)
-- Pablo Looks Back (Book of Silk)
-- The Longest Night (Book of Silk)
-- Same Shirt, Different Day (Book of Silk)
-- Lauren's Lullaby (Book of Silk)
-- Osborne Avenue (Book of Silk)
-- Night of the Skeptic (Nebraska (Original Soundtrack))
-- Helium (Helium)
+  - New West (Nebraska (Original Soundtrack))
+  - Bill (Nebraska (Original Soundtrack))
+  - The Clandestine Adventures of Ms. Merz (Book of Silk)
+  - Pablo Looks Back (Book of Silk)
+  - The Longest Night (Book of Silk)
+  - 'Same Shirt, Different Day (Book of Silk)'
+  - Lauren's Lullaby (Book of Silk)
+  - Osborne Avenue (Book of Silk)
+  - Night of the Skeptic (Nebraska (Original Soundtrack))
+  - Helium (Helium)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/5qTWHmoWrGvTBCtAfR48j6
-  wikipedia: https://en.wikipedia.org/wiki/Tin_Hat
+  spotify: 'https://open.spotify.com/artist/5qTWHmoWrGvTBCtAfR48j6'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tin_Hat'
 image_path: 03_Resources/source_material/ArtistPortraits/Tin_Hat_Trio.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:28:52.273350'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://www.hoppermanagement.com/web/index.php/tin-hat-trio.html
-- https://en.wikipedia.org/wiki/Tin_Hat
-- http://overdoseoffingalcocoa.blogspot.com/2009/04/tin-hat-trio.html
-- https://www.last.fm/music/Tin+Hat+Trio/+wiki
+  - 'http://www.hoppermanagement.com/web/index.php/tin-hat-trio.html'
+  - 'https://en.wikipedia.org/wiki/Tin_Hat'
+  - 'http://overdoseoffingalcocoa.blogspot.com/2009/04/tin-hat-trio.html'
+  - 'https://www.last.fm/music/Tin+Hat+Trio/+wiki'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:44:59.367043
+entry_created: 2025-09-22T21:44:59.367Z
 last_updated: '2025-12-23T08:16:17.465179'
-origin: San Francisco, California, United States
+origin: 'San Francisco, California, United States'
+artist_type: band
 ---
 
 ![](Tin_Hat_Trio.jpg)

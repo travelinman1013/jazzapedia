@@ -5,29 +5,29 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1963-02-02'
-birth_place: Washington, D.C.
+birth_place: 'Washington, D.C., United States'
 death_date: '1996-11-02'
 genres: []
 instruments:
-- acoustic guitar
-- electric guitar
-- guitar
-- pedal steel guitar
-- lead vocals
-- spoken vocals
-- background vocals
+  - acoustic guitar
+  - electric guitar
+  - guitar
+  - pedal steel guitar
+  - lead vocals
+  - spoken vocals
+  - background vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: fd0edf4d-a5f3-457b-8787-3830a7758bd6
-  name: Method Actor
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: fd0edf4d-a5f3-457b-8787-3830a7758bd6
+    name: Method Actor
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/eva_cassidy.jpg
   caption: Eva Cassidy
   background: solo_singer
   born: '1963-02-02'
-  origin: Washington, D.C.
+  origin: 'Washington, D.C.'
   died: '1996-11-02'
 audio_profile:
   tempo_avg: 119.4
@@ -44,56 +44,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Chuck Brown
-  - Keith Grimes
-  - Lenny Williams
-  - Raice McLeod
-  - Pieces of a Dream
+    - Chuck Brown
+    - Keith Grimes
+    - Lenny Williams
+    - Raice McLeod
+    - Pieces of a Dream
   influenced: []
   mentors:
-  - Chris Biondo
-  - Al Dale
+    - Chris Biondo
+    - Al Dale
 spotify_data:
   followers: 565227
   id: 6fNmOWQzfOVyHLQ2UqUQew
   popularity: 58
-  url: https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew
+  url: 'https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew'
 discography_enriched: true
 top_tracks:
-- Songbird (Eva By Heart)
-- Time After Time (Time After Time)
-- Fields Of Gold - 2023 Remaster (Songbird (2023 Remaster))
-- Ain't No Sunshine (Time After Time)
-- What A Wonderful World (Wonderful World)
-- Imagine (Imagine)
-- Autumn Leaves (Live At Blues Alley)
-- What a Wonderful World (with Eva Cassidy) (Ultimate Collection)
-- Over The Rainbow - 2023 Remaster (Songbird (2023 Remaster))
-- Kathy's Song (Time After Time)
+  - Songbird (Eva By Heart)
+  - Time After Time (Time After Time)
+  - Fields Of Gold - 2023 Remaster (Songbird (2023 Remaster))
+  - Ain't No Sunshine (Time After Time)
+  - What A Wonderful World (Wonderful World)
+  - Imagine (Imagine)
+  - Autumn Leaves (Live At Blues Alley)
+  - What a Wonderful World (with Eva Cassidy) (Ultimate Collection)
+  - Over The Rainbow - 2023 Remaster (Songbird (2023 Remaster))
+  - Kathy's Song (Time After Time)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6f2dfabb-f0bb-4801-a392-592489a148e7
-  spotify: https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew
-  wikipedia: https://en.wikipedia.org/wiki/Eva_Cassidy
+  musicbrainz: 'https://musicbrainz.org/artist/6f2dfabb-f0bb-4801-a392-592489a148e7'
+  spotify: 'https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew'
+  wikipedia: 'https://en.wikipedia.org/wiki/Eva_Cassidy'
 image_path: 03_Resources/source_material/ArtistPortraits/eva_cassidy.jpg
 biography_enhanced_at: '2025-11-29T07:07:27.104532'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Eva Cassidy
-- Official Eva Cassidy Fanclub Biography
-- Blix Street Records - Eva Cassidy Biography
-- All About Jazz - Eva Cassidy Musician Profile
-- IMDb - Eva Cassidy Biography
-- Eva Cassidy Official Website - Fact Sheet
+  - Wikipedia - Eva Cassidy
+  - Official Eva Cassidy Fanclub Biography
+  - Blix Street Records - Eva Cassidy Biography
+  - All About Jazz - Eva Cassidy Musician Profile
+  - IMDb - Eva Cassidy Biography
+  - Eva Cassidy Official Website - Fact Sheet
 network_extracted: true
 entry_created: '2025-11-29T07:07:27.104544'
 last_updated: '2025-12-23T08:16:08.535327'
 gender: Female
 musicbrainz_id: 6f2dfabb-f0bb-4801-a392-592489a148e7
 tags:
-- blues
-- classic pop and rock
-- contemporary folk
+  - blues
+  - classic pop and rock
+  - contemporary folk
+is_active: false
+origin: 'Washington, D.C., United States'
 ---
 
 ![](eva_cassidy.jpg)

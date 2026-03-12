@@ -3,16 +3,16 @@ title: Miroslav Vitou
 wiki_slug: miroslav-vitou
 schema_version: 2
 status: active
-birth_place: Prague, Czech Republic
+birth_place: 'Prague, Czech Republic, Czechia'
 genres:
-- jazz fusion
-- jazz
-- free jazz
+  - jazz fusion
+  - jazz
+  - free jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Miroslav_Vitou.jpg
   caption: Miroslav Vitou
   background: solo_singer
-  origin: Prague, Czech Republic
+  origin: 'Prague, Czech Republic'
 audio_profile:
   tempo_avg: 116.7
   energy_avg: 0.345
@@ -28,46 +28,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Joe Zawinul
-  - Wayne Shorter
-  - Chick Corea
-  - Herbie Hancock
+    - Joe Zawinul
+    - Wayne Shorter
+    - Chick Corea
+    - Herbie Hancock
   influenced:
-  - Jaco Pastorius
-  - Avishai Cohen
+    - Jaco Pastorius
+    - Avishai Cohen
   mentors:
-  - František Pošta
+    - František Pošta
 spotify_data:
   followers: 9957
   id: 0ztzt6g8n0NBcnwMGwMlxD
   popularity: 18
-  url: https://open.spotify.com/artist/0ztzt6g8n0NBcnwMGwMlxD
+  url: 'https://open.spotify.com/artist/0ztzt6g8n0NBcnwMGwMlxD'
 discography_enriched: true
 top_tracks:
-- I Hear A Rhapsody - Live (Selected Recordings)
-- Think Of One (Trio Music)
-- Lamenting (Star)
-- Rhythm-A-Ning (Trio Music)
-- Star (Star)
-- Sunrise (Terje Rypdal / Miroslav Vitous / Jack DeJohnette)
-- New York City (Magical Shepherd)
-- Variations On Spanish Themes (Emergence)
-- Freedom Jazz Dance (Infinite Search)
-- Will (Terje Rypdal / Miroslav Vitous / Jack DeJohnette)
+  - I Hear A Rhapsody - Live (Selected Recordings)
+  - Think Of One (Trio Music)
+  - Lamenting (Star)
+  - Rhythm-A-Ning (Trio Music)
+  - Star (Star)
+  - Sunrise (Terje Rypdal / Miroslav Vitous / Jack DeJohnette)
+  - New York City (Magical Shepherd)
+  - Variations On Spanish Themes (Emergence)
+  - Freedom Jazz Dance (Infinite Search)
+  - Will (Terje Rypdal / Miroslav Vitous / Jack DeJohnette)
 external_urls:
-  spotify: https://open.spotify.com/artist/0ztzt6g8n0NBcnwMGwMlxD
-  wikipedia: https://en.wikipedia.org/wiki/Miroslav_Vitouš
+  spotify: 'https://open.spotify.com/artist/0ztzt6g8n0NBcnwMGwMlxD'
+  wikipedia: 'https://en.wikipedia.org/wiki/Miroslav_Vitouš'
 image_path: 03_Resources/source_material/ArtistPortraits/Miroslav_Vitou.jpg
 biography_enhanced_at: '2025-10-20T09:43:11.602081'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://alchetron.com/Miroslav-Vitou%C5%A1
-- https://bigbeatu.blogspot.com/2022/10/miroslav-vitous.html
-- https://www.booktopia.com.au/elegant-people-curt-bianchi/ebook/9781493060009.html
+  - 'https://alchetron.com/Miroslav-Vitou%C5%A1'
+  - 'https://bigbeatu.blogspot.com/2022/10/miroslav-vitous.html'
+  - >-
+    https://www.booktopia.com.au/elegant-people-curt-bianchi/ebook/9781493060009.html
 network_extracted: true
 entry_created: '2025-10-20T09:43:11.602098'
 last_updated: '2025-12-23T08:16:03.338716'
+birth_date: '1947-12-06'
+artist_type: person
 ---
 
 ![](Miroslav_Vitou.jpg)

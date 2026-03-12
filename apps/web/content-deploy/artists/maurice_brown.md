@@ -1,15 +1,15 @@
 ---
-title: MAURICE BROWN
+title: Maurice Brown
 wiki_slug: maurice-brown
 schema_version: 2
 status: active
-birth_place: Harvey, Illinois, United States
+birth_place: 'Harvey, Illinois, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/maurice_brown.jpg
   caption: MAURICE BROWN
   background: solo_singer
-  origin: Harvey, Illinois, United States
+  origin: 'Harvey, Illinois, United States'
 audio_profile:
   tempo_avg: 121.4
   energy_avg: 0.772
@@ -25,43 +25,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tedeschi Trucks Band
-  - Aretha Franklin
-  - De La Soul
-  - Talib Kweli
-  - Jean Grae
-  - Prodigy
-  - Wyclef Jean
-  - The Roots
+    - Tedeschi Trucks Band
+    - Aretha Franklin
+    - De La Soul
+    - Talib Kweli
+    - Jean Grae
+    - Prodigy
+    - Wyclef Jean
+    - The Roots
   influenced:
-  - Emerging jazz and hip-hop trumpeters
+    - Emerging jazz and hip-hop trumpeters
   mentors:
-  - Alvin Batiste
-  - Ramsey Lewis
+    - Alvin Batiste
+    - Ramsey Lewis
 spotify_data:
   followers: 9
   id: 0BFR9CN7Qql6SUC9h46OXz
   popularity: 6
-  url: https://open.spotify.com/artist/0BFR9CN7Qql6SUC9h46OXz
+  url: 'https://open.spotify.com/artist/0BFR9CN7Qql6SUC9h46OXz'
 discography_enriched: true
 top_tracks:
-- Finish Line (Soul In The Horn (Act 1))
+  - Finish Line (Soul In The Horn (Act 1))
 external_urls:
-  spotify: https://open.spotify.com/artist/0BFR9CN7Qql6SUC9h46OXz
-  wikipedia: https://en.wikipedia.org/wiki/Maurice_%22Mobetta%22_Brown
+  spotify: 'https://open.spotify.com/artist/0BFR9CN7Qql6SUC9h46OXz'
+  wikipedia: 'https://en.wikipedia.org/wiki/Maurice_%22Mobetta%22_Brown'
 image_path: ''
 biography_enhanced_at: '2025-10-24T07:48:06.303536'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Maurice_%22Mobetta%22_Brown
-- https://www.allaboutjazz.com/musicians/maurice-brown/
-- https://ndigo.com/2023/05/29/qa-maurice-mobetta-brown-trumpeter-arranger-producer/
-- https://bnatural.nyc/wp-content/uploads/2019/03/MauriceBrown_Bio.pdf
-- https://www.allmusic.com/artist/maurice-brown-mn0000089922
+  - 'https://en.wikipedia.org/wiki/Maurice_%22Mobetta%22_Brown'
+  - 'https://www.allaboutjazz.com/musicians/maurice-brown/'
+  - >-
+    https://ndigo.com/2023/05/29/qa-maurice-mobetta-brown-trumpeter-arranger-producer/
+  - 'https://bnatural.nyc/wp-content/uploads/2019/03/MauriceBrown_Bio.pdf'
+  - 'https://www.allmusic.com/artist/maurice-brown-mn0000089922'
 network_extracted: true
 entry_created: '2025-10-24T07:48:06.303556'
 last_updated: '2025-12-23T08:16:12.850887'
+birth_date: '1981-01-06'
+artist_type: person
 ---
 
 ![]()

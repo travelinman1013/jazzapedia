@@ -1,80 +1,83 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-22T07:11:30.380929'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:11:30.380937'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ad2bf032-af10-4977-8f8c-fb21ae5c04da
-  spotify: https://open.spotify.com/artist/1XpbvmczuA8d6CgMYlJvU6
-  wikipedia: https://en.wikipedia.org/wiki/Ben_Selvin
+  musicbrainz: 'https://musicbrainz.org/artist/ad2bf032-af10-4977-8f8c-fb21ae5c04da'
+  spotify: 'https://open.spotify.com/artist/1XpbvmczuA8d6CgMYlJvU6'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ben_Selvin'
 genres:
-- ragtime
-- big band
+  - ragtime
+  - big band
 image_path: 03_Resources/source_material/ArtistPortraits/ben_selvin_and_his_orchestra.jpg
 instruments:
-- trombone
-- eponymous
+  - trombone
+  - eponymous
 last_updated: '2026-01-22T07:11:30.380937'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - trombone
-  mbid: 9705b2ff-9691-4b91-8c87-710ca344b000
-  name: Charles Butterfield
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6c257e19-51a9-474c-adef-febcd92ad7b6
-  name: Earl Oliver
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0a799063-7b61-451a-868a-b258c417df6e
-  name: William Covington Perry
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f560eccb-fa98-46a8-9290-93ff6f89b16c
-  name: Adrian Rollini
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 84733717-7fa8-43da-a6aa-259fa1f36eb0
-  name: Ben Selvin
+  - begin: ''
+    end: ''
+    instruments:
+      - trombone
+    mbid: 9705b2ff-9691-4b91-8c87-710ca344b000
+    name: Charles Butterfield
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6c257e19-51a9-474c-adef-febcd92ad7b6
+    name: Earl Oliver
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0a799063-7b61-451a-868a-b258c417df6e
+    name: William Covington Perry
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f560eccb-fa98-46a8-9290-93ff6f89b16c
+    name: Adrian Rollini
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 84733717-7fa8-43da-a6aa-259fa1f36eb0
+    name: Ben Selvin
 musical_connections:
   collaborators:
-  - Benny Goodman
-  - Tommy Dorsey
-  - Jimmy Dorsey
-  - Frank Sinatra
-  - Doris Day
-  - Dinah Shore
-  - John Serry, Sr.
+    - Benny Goodman
+    - Tommy Dorsey
+    - Jimmy Dorsey
+    - Frank Sinatra
+    - Doris Day
+    - Dinah Shore
+    - 'John Serry, Sr.'
   influenced:
-  - George Melachrino
-  - Sammy Kaye
-  - Lawrence Welk
+    - George Melachrino
+    - Sammy Kaye
+    - Lawrence Welk
   mentors: []
 musicbrainz_id: ad2bf032-af10-4977-8f8c-fb21ae5c04da
 network_extracted: true
-origin: New York City, New York, United States
+origin: 'New York City, New York, United States'
 primary_source: perplexity
 research_sources:
-- https://syncopatedtimes.com/ben-selvin-1898-1980/
-- https://www.last.fm/music/Ben+Selvin+&+His+Orchestra/+wiki
-- https://en.wikipedia.org/wiki/Ben_Selvin
-- https://syncopatedtimes.com/ben-selvin/
-- https://www.swingcityradio.com/p/ben-selvin.html
-- https://adp.library.ucsb.edu/names/111064
+  - 'https://syncopatedtimes.com/ben-selvin-1898-1980/'
+  - 'https://www.last.fm/music/Ben+Selvin+&+His+Orchestra/+wiki'
+  - 'https://en.wikipedia.org/wiki/Ben_Selvin'
+  - 'https://syncopatedtimes.com/ben-selvin/'
+  - 'https://www.swingcityradio.com/p/ben-selvin.html'
+  - 'https://adp.library.ucsb.edu/names/111064'
 spotify_data:
   followers: 2159
   id: 1XpbvmczuA8d6CgMYlJvU6
   popularity: 24
-  url: https://open.spotify.com/artist/1XpbvmczuA8d6CgMYlJvU6
+  url: 'https://open.spotify.com/artist/1XpbvmczuA8d6CgMYlJvU6'
 status: active
-title: BEN SELVIN AND HIS ORCHESTRA
+title: Ben Selvin and His Orchestra
+birth_place: 'New York City, New York, United States'
+birth_date: '1898-03-05'
+death_date: '1980-07-15'
 ---
 
 ![](ben_selvin_and_his_orchestra.jpg)

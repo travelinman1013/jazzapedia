@@ -1,41 +1,41 @@
 ---
-title: BUCK OWENS
+title: Buck Owens
 wiki_slug: buck-owens
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1929-08-12'
-birth_place: Sherman
+birth_place: 'Sherman, Texas, United States'
 death_date: '2006-03-25'
 genres:
-- honky tonk
-- traditional country
-- country
+  - honky tonk
+  - traditional country
+  - country
 instruments:
-- eponymous
-- guitar
-- electric guitar
-- resonator guitar
-- acoustic guitar
-- background vocals
-- lead vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
-  mbid: 2e468bbe-0f63-436f-b0e0-ab48bdc39832
-  name: Buck Owens and His Buckaroos
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 37f256c7-5b97-44c3-9b75-f6b45eb90230
-  name: The Hee Haw Gospel Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7f06d419-4b14-452b-8334-616a9533e856
-  name: The Buckaroos
+  - guitar
+  - electric guitar
+  - resonator guitar
+  - acoustic guitar
+  - background vocals
+  - lead vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 2e468bbe-0f63-436f-b0e0-ab48bdc39832
+    name: Buck Owens and His Buckaroos
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 37f256c7-5b97-44c3-9b75-f6b45eb90230
+    name: The Hee Haw Gospel Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7f06d419-4b14-452b-8334-616a9533e856
+    name: The Buckaroos
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/buck_owens.jpg
   caption: BUCK OWENS
@@ -58,64 +58,67 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Don Rich
-  - Merle Haggard
-  - JayDee Maness
-  - Jerry Wiggins
-  - Dwight Yoakam
-  - Roy Clark
+    - Don Rich
+    - Merle Haggard
+    - JayDee Maness
+    - Jerry Wiggins
+    - Dwight Yoakam
+    - Roy Clark
   influenced:
-  - Merle Haggard
-  - Dwight Yoakam
-  - Linda Ronstadt
-  - Gram Parsons
-  - The Eagles
-  - Garth Brooks
-  - Brad Paisley
+    - Merle Haggard
+    - Dwight Yoakam
+    - Linda Ronstadt
+    - Gram Parsons
+    - The Eagles
+    - Garth Brooks
+    - Brad Paisley
   mentors:
-  - Bill Woods
+    - Bill Woods
 spotify_data:
   followers: 368276
   id: 2FMZn5P3WATd7Il6FgPJNu
   popularity: 57
-  url: https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu
+  url: 'https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu'
 discography_enriched: true
 top_tracks:
-- Act Naturally (Together Again / My Heart Skips a Beat)
-- Act Naturally
-- I've Got a Tiger By the Tail (I've Got a Tiger By the Tail)
-- My Heart Skips a Beat (Together Again / My Heart Skips a Beat)
-- I've Got a Tiger by the Tail (I've Got a Tiger By the Tail)
-- 'Streets Of Bakersfield (Buck ''Em! Volume 2: The Music Of Buck Owens (1967-1975))'
-- Together Again (Together Again / My Heart Skips a Beat)
-- 'Hello Trouble (Buck ''Em: The Music Of Buck Owens (1955-1967))'
-- Together Again (I've Got a Tiger By the Tail)
-- Made In Japan
+  - Act Naturally (Together Again / My Heart Skips a Beat)
+  - Act Naturally
+  - I've Got a Tiger By the Tail (I've Got a Tiger By the Tail)
+  - My Heart Skips a Beat (Together Again / My Heart Skips a Beat)
+  - I've Got a Tiger by the Tail (I've Got a Tiger By the Tail)
+  - >-
+    Streets Of Bakersfield (Buck 'Em! Volume 2: The Music Of Buck Owens
+    (1967-1975))
+  - Together Again (Together Again / My Heart Skips a Beat)
+  - 'Hello Trouble (Buck ''Em: The Music Of Buck Owens (1955-1967))'
+  - Together Again (I've Got a Tiger By the Tail)
+  - Made In Japan
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/13cb0fb4-7f7f-4116-a282-905c675c39ef
-  spotify: https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu
-  wikipedia: https://en.wikipedia.org/wiki/Buck_Owens
+  musicbrainz: 'https://musicbrainz.org/artist/13cb0fb4-7f7f-4116-a282-905c675c39ef'
+  spotify: 'https://open.spotify.com/artist/2FMZn5P3WATd7Il6FgPJNu'
+  wikipedia: 'https://en.wikipedia.org/wiki/Buck_Owens'
 image_path: 03_Resources/source_material/ArtistPortraits/buck_owens.jpg
 biography_enhanced_at: '2025-11-24T08:28:34.431523'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Buck Owens
-- IMDb - Buck Owens Biography
-- Britannica - Buck Owens
-- Texas State Historical Association - Owens, Alvis Edgar, Jr.
-- 'Country Standard Time - Buck Owens: The Biography'
-- Country Music Hall of Fame - Buck Owens
+  - Wikipedia - Buck Owens
+  - IMDb - Buck Owens Biography
+  - Britannica - Buck Owens
+  - 'Texas State Historical Association - Owens, Alvis Edgar, Jr.'
+  - 'Country Standard Time - Buck Owens: The Biography'
+  - Country Music Hall of Fame - Buck Owens
 network_extracted: true
 entry_created: '2025-11-24T08:28:34.431540'
 last_updated: '2025-12-23T08:16:06.171486'
 gender: Male
 musicbrainz_id: 13cb0fb4-7f7f-4116-a282-905c675c39ef
 tags:
-- bakersfield sound
-- country
-- honky tonk
-
+  - bakersfield sound
+  - country
+  - honky tonk
+is_active: false
+origin: 'Bakersfield, California, United States'
 ---
 
 ![](buck_owens.jpg)

@@ -3,14 +3,14 @@ title: Chip Wilson
 wiki_slug: chip-wilson
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- avant-garde
+  - avant-garde
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/chip_wilson.jpg
   caption: Chip Wilson
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 107.1
   energy_avg: 0.42
@@ -26,42 +26,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Friends from New Orleans music scene
+    - Friends from New Orleans music scene
   influenced:
-  - Participants in ArtistShare NOLA project
+    - Participants in ArtistShare NOLA project
   mentors:
-  - Local New Orleans musicians
+    - Local New Orleans musicians
 spotify_data:
   followers: 143
   id: 0HCaC5foI4Mo1jah1SK44S
   popularity: 0
-  url: https://open.spotify.com/artist/0HCaC5foI4Mo1jah1SK44S
+  url: 'https://open.spotify.com/artist/0HCaC5foI4Mo1jah1SK44S'
 discography_enriched: true
 top_tracks:
-- Slip Away (One Note At A Time (Official Soundtrack))
-- Why Can't I See Tomorrow? - feat. Tanya Boutté & Chip Wilson (Nine Lives - a Musical Story of New Orleans (The Complete
-  Set))
-- Walking on Glass - feat. Tanya Boutté, John Rankin & Chip Wilson (Nine Lives - a Musical Story of New Orleans (The Complete
-  Set))
-- On the Other Side (Stories and Occasional Lies)
-- Quarter to Four (Stories and Occasional Lies)
-- Longtime Lover (Stories and Occasional Lies)
-- Gloryland (Stories and Occasional Lies)
-- Neighborhood of Broken Hearts (Stories and Occasional Lies)
-- Play a Little Blues (Stories and Occasional Lies)
-- Awake for Days (Stories and Occasional Lies)
+  - Slip Away (One Note At A Time (Official Soundtrack))
+  - >-
+    Why Can't I See Tomorrow? - feat. Tanya Boutté & Chip Wilson (Nine Lives - a
+    Musical Story of New Orleans (The Complete Set))
+  - >-
+    Walking on Glass - feat. Tanya Boutté, John Rankin & Chip Wilson (Nine Lives
+    - a Musical Story of New Orleans (The Complete Set))
+  - On the Other Side (Stories and Occasional Lies)
+  - Quarter to Four (Stories and Occasional Lies)
+  - Longtime Lover (Stories and Occasional Lies)
+  - Gloryland (Stories and Occasional Lies)
+  - Neighborhood of Broken Hearts (Stories and Occasional Lies)
+  - Play a Little Blues (Stories and Occasional Lies)
+  - Awake for Days (Stories and Occasional Lies)
 external_urls:
-  spotify: https://open.spotify.com/artist/0HCaC5foI4Mo1jah1SK44S
+  spotify: 'https://open.spotify.com/artist/0HCaC5foI4Mo1jah1SK44S'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/chip_wilson.jpg
 biography_enhanced_at: '2025-10-25T09:53:50.401069'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- ArtistShare NOLA Project[1]
+  - 'ArtistShare NOLA Project[1]'
 network_extracted: true
 entry_created: '2025-10-25T09:53:50.401081'
 last_updated: '2025-12-23T08:16:06.856194'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](chip_wilson.jpg)

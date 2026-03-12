@@ -1,14 +1,14 @@
 ---
-title: elizabeth cook
+title: Elizabeth Cook
 wiki_slug: elizabeth-cook
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1972-07-17'
-birth_place: Wildwood
+birth_place: 'Wildwood, Florida, United States'
 genres:
-- americana
-- alt country
+  - americana
+  - alt country
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/elizabeth_cook.jpg
   caption: elizabeth cook
@@ -16,7 +16,7 @@ infobox:
   born: '1972-07-17'
   origin: Wildwood
 audio_profile:
-  tempo_avg: 127.0
+  tempo_avg: 127
   energy_avg: 0.607
   valence_avg: 0.585
   danceability_avg: 0.56
@@ -30,52 +30,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tim Carroll
-  - Bones Hillman
-  - Rodney Crowell
-  - Don Was
+    - Tim Carroll
+    - Bones Hillman
+    - Rodney Crowell
+    - Don Was
   influenced: []
   mentors:
-  - Joyce Cook
-  - Thomas Cook
+    - Joyce Cook
+    - Thomas Cook
 spotify_data:
   followers: 21084
   id: 0dyEUZv8ftA0dzL5vb2Y9s
   popularity: 29
-  url: https://open.spotify.com/artist/0dyEUZv8ftA0dzL5vb2Y9s
+  url: 'https://open.spotify.com/artist/0dyEUZv8ftA0dzL5vb2Y9s'
 discography_enriched: true
 top_tracks:
-- Pancho & Lefty
-- Tecumseh Valley
-- Methadone Blues (Exodus of Venus)
-- El Camino (Welder)
-- Drink Till I See Double (Co-Starring)
-- The Devil Went Down To Silverlake
-- Walkin' Back to Georgia
-- If Teardrops Were Pennies (Cayamo Sessions At Sea)
-- Sometimes It Takes Balls to Be a Woman (Balls)
-- Too Drunk to Fuck
+  - Pancho & Lefty
+  - Tecumseh Valley
+  - Methadone Blues (Exodus of Venus)
+  - El Camino (Welder)
+  - Drink Till I See Double (Co-Starring)
+  - The Devil Went Down To Silverlake
+  - Walkin' Back to Georgia
+  - If Teardrops Were Pennies (Cayamo Sessions At Sea)
+  - Sometimes It Takes Balls to Be a Woman (Balls)
+  - Too Drunk to Fuck
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5e4459bc-ecdc-40a8-9728-3f86b27bb5df
-  spotify: https://open.spotify.com/artist/0dyEUZv8ftA0dzL5vb2Y9s
-  wikipedia: https://en.wikipedia.org/wiki/Elizabeth_Cook
+  musicbrainz: 'https://musicbrainz.org/artist/5e4459bc-ecdc-40a8-9728-3f86b27bb5df'
+  spotify: 'https://open.spotify.com/artist/0dyEUZv8ftA0dzL5vb2Y9s'
+  wikipedia: 'https://en.wikipedia.org/wiki/Elizabeth_Cook'
 image_path: 03_Resources/source_material/ArtistPortraits/elizabeth_cook.jpg
 biography_enhanced_at: '2025-11-20T07:33:11.857707'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Elizabeth_Cook
-- https://readelysian.com/countrys-wild-wood-child-elizabeth-cook/
-- https://www.allamericanspeakers.com/celebritytalentbios/Elizabeth+Cook/413187
-- https://www.opry.com/artists/elizabeth-cook
-- https://ww2.georgiasouthern.edu/news/magazine/2012/03/12/cooking-up-a-storm/
+  - 'https://en.wikipedia.org/wiki/Elizabeth_Cook'
+  - 'https://readelysian.com/countrys-wild-wood-child-elizabeth-cook/'
+  - >-
+    https://www.allamericanspeakers.com/celebritytalentbios/Elizabeth+Cook/413187
+  - 'https://www.opry.com/artists/elizabeth-cook'
+  - 'https://ww2.georgiasouthern.edu/news/magazine/2012/03/12/cooking-up-a-storm/'
 network_extracted: true
 entry_created: '2025-11-20T07:33:11.857718'
 last_updated: '2025-12-23T08:16:08.305210'
 disambiguation: US country singer
 gender: Female
 musicbrainz_id: 5e4459bc-ecdc-40a8-9728-3f86b27bb5df
-
 ---
 
 ![](elizabeth_cook.jpg)

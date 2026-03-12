@@ -4,13 +4,16 @@ wiki_slug: eric-alexander-vincent-herring
 schema_version: 2
 status: active
 aliases: []
-birth_place: Illinois, United States (Eric Alexander) / Kentucky, United States (Vincent Herring)
+birth_place: 'Illinois, United States'
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/Eric_Alexander_and_Vincent_Herring.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/Eric_Alexander_and_Vincent_Herring.jpg
   caption: Eric Alexander & Vincent Herring
   background: solo_singer
-  origin: Illinois, United States (Eric Alexander) / Kentucky, United States (Vincent Herring)
+  origin: >-
+    Illinois, United States (Eric Alexander) / Kentucky, United States (Vincent
+    Herring)
 audio_profile:
   tempo_avg: 131.5
   energy_avg: 0.44
@@ -18,7 +21,7 @@ audio_profile:
   danceability_avg: 0.451
   acousticness_avg: 0.482
   instrumentalness_avg: 0.033
-  loudness_avg: -12.0
+  loudness_avg: -12
   speechiness_avg: 0.049
   liveness_avg: 0.769
   track_count: 8
@@ -26,57 +29,78 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mike LeDonne
-  - Cedar Walton
-  - Louis Hayes
-  - Carl Allen
-  - Lewis Nash
+    - Mike LeDonne
+    - Cedar Walton
+    - Louis Hayes
+    - Carl Allen
+    - Lewis Nash
   influenced:
-  - Students at William Paterson University
-  - Students at Manhattan School of Music
+    - Students at William Paterson University
+    - Students at Manhattan School of Music
   mentors:
-  - Harold Mabern
-  - Nat Adderley
-  - Julian 'Cannonball' Adderley
-  - Eugene Rousseau
+    - Harold Mabern
+    - Nat Adderley
+    - Julian 'Cannonball' Adderley
+    - Eugene Rousseau
 related_artists: []
 spotify_data:
   followers: 165
   id: 2Kqs83YbAzpoHO3ojJJLOO
   popularity: 2
-  url: https://open.spotify.com/artist/2Kqs83YbAzpoHO3ojJJLOO
+  url: 'https://open.spotify.com/artist/2Kqs83YbAzpoHO3ojJJLOO'
   verified: false
 discography_enriched: true
 albums_count: 1
 singles_count: 0
 top_tracks:
-- Dig Dis - Recorded Live at Smoke Jazz & Supper Club (Friendly Fire (Recorded Live at Smoke Jazz & Supper Club))
-- Sukiyaki - Recorded Live at Smoke Jazz & Supper Club (Friendly Fire (Recorded Live at Smoke Jazz & Supper Club))
-- Pat 'n' Chat - Recorded Live at Smoke Jazz & Supper Club (Friendly Fire (Recorded Live at Smoke Jazz & Supper Club))
-- Inception - Recorded Live at Smoke Jazz & Supper Club (Friendly Fire (Recorded Live at Smoke Jazz & Supper Club))
-- You've Changed - Recorded Live at Smoke Jazz & Supper Club (Friendly Fire (Recorded Live at Smoke Jazz & Supper Club))
-- Here's That Rainy Day - Recorded Live at Smoke Jazz & Supper Club (Friendly Fire (Recorded Live at Smoke Jazz & Supper Club))
-- Timothy - Recorded Live at Smoke Jazz & Supper Club (Friendly Fire (Recorded Live at Smoke Jazz & Supper Club))
-- Mona Lisa - Recorded Live at Smoke Jazz & Supper Club (Friendly Fire (Recorded Live at Smoke Jazz & Supper Club))
+  - >-
+    Dig Dis - Recorded Live at Smoke Jazz & Supper Club (Friendly Fire (Recorded
+    Live at Smoke Jazz & Supper Club))
+  - >-
+    Sukiyaki - Recorded Live at Smoke Jazz & Supper Club (Friendly Fire
+    (Recorded Live at Smoke Jazz & Supper Club))
+  - >-
+    Pat 'n' Chat - Recorded Live at Smoke Jazz & Supper Club (Friendly Fire
+    (Recorded Live at Smoke Jazz & Supper Club))
+  - >-
+    Inception - Recorded Live at Smoke Jazz & Supper Club (Friendly Fire
+    (Recorded Live at Smoke Jazz & Supper Club))
+  - >-
+    You've Changed - Recorded Live at Smoke Jazz & Supper Club (Friendly Fire
+    (Recorded Live at Smoke Jazz & Supper Club))
+  - >-
+    Here's That Rainy Day - Recorded Live at Smoke Jazz & Supper Club (Friendly
+    Fire (Recorded Live at Smoke Jazz & Supper Club))
+  - >-
+    Timothy - Recorded Live at Smoke Jazz & Supper Club (Friendly Fire (Recorded
+    Live at Smoke Jazz & Supper Club))
+  - >-
+    Mona Lisa - Recorded Live at Smoke Jazz & Supper Club (Friendly Fire
+    (Recorded Live at Smoke Jazz & Supper Club))
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/2Kqs83YbAzpoHO3ojJJLOO
-  wikipedia: https://en.wikipedia.org/wiki/Vincent_Herring and https://en.wikipedia.org/wiki/Eric_Alexander_(jazz_saxophonist)
-image_path: 03_Resources/source_material/ArtistPortraits/Eric_Alexander_and_Vincent_Herring.jpg
+  spotify: 'https://open.spotify.com/artist/2Kqs83YbAzpoHO3ojJJLOO'
+  wikipedia: >-
+    https://en.wikipedia.org/wiki/Vincent_Herring and
+    https://en.wikipedia.org/wiki/Eric_Alexander_(jazz_saxophonist)
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/Eric_Alexander_and_Vincent_Herring.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:46:29.470435'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Vincent Herring
-- Wikipedia - Eric Alexander
-- Yamaha Artists profile
-- Vincent Herring official website
-- PostGenre review of Split Decision
+  - Wikipedia - Vincent Herring
+  - Wikipedia - Eric Alexander
+  - Yamaha Artists profile
+  - Vincent Herring official website
+  - PostGenre review of Split Decision
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 11:45:06.170214
+entry_created: 2025-09-18T11:45:06.170Z
 last_updated: '2025-12-23T08:16:01.922908'
+birth_date: '1968-08-04'
+artist_type: band
 ---
 
 ![](Eric_Alexander_and_Vincent_Herring.jpg)

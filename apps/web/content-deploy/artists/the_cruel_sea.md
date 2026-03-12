@@ -6,8 +6,8 @@ disambiguation: Australian indie rock band
 enhancement_provider: perplexity
 entry_created: '2026-01-17T02:05:58.025449'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2e527941-1474-4113-bffb-cbf6df346080
-  spotify: https://open.spotify.com/artist/5m5cTNJ2RxfxKpGULocV9T
+  musicbrainz: 'https://musicbrainz.org/artist/2e527941-1474-4113-bffb-cbf6df346080'
+  spotify: 'https://open.spotify.com/artist/5m5cTNJ2RxfxKpGULocV9T'
   wikipedia: ''
 formation_year: 1988
 genres: []
@@ -15,66 +15,67 @@ image_path: 03_Resources/source_material/ArtistPortraits/the_cruel_sea.jpg
 is_active: true
 last_updated: '2026-01-17T02:05:58.025450'
 members:
-- &id001
-  begin: '1988'
-  end: ''
-  instruments: []
-  mbid: 10b06cef-def5-46a0-bf1a-40984c6e9175
-  name: Tex Perkins
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: fbe3a58a-9b43-49a8-93ed-48b786bfa833
-  name: James Cruickshank
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e7254dca-c91c-47fa-b212-44e86fa4b81b
-  name: Jim Elliott
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f16c10bd-73c9-4a6b-8fa6-61f49b6b2bf1
-  name: Ken Gormly
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 273f5f5a-6545-4b5b-af78-9855468004b8
-  name: Dan Rumour
+  - &ref_0
+    begin: '1988'
+    end: ''
+    instruments: []
+    mbid: 10b06cef-def5-46a0-bf1a-40984c6e9175
+    name: Tex Perkins
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: fbe3a58a-9b43-49a8-93ed-48b786bfa833
+    name: James Cruickshank
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e7254dca-c91c-47fa-b212-44e86fa4b81b
+    name: Jim Elliott
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f16c10bd-73c9-4a6b-8fa6-61f49b6b2bf1
+    name: Ken Gormly
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 273f5f5a-6545-4b5b-af78-9855468004b8
+    name: Dan Rumour
 musical_connections:
   collaborators:
-  - Tex Perkins
-  - Jim Elliott
-  - Ken Gormly
-  - Dan Rumour (Danny Rumour)
-  - James Cruickshank
-  - Matt Walker
+    - Tex Perkins
+    - Jim Elliott
+    - Ken Gormly
+    - Dan Rumour (Danny Rumour)
+    - James Cruickshank
+    - Matt Walker
   influenced: []
   mentors:
-  - The Ventures
-  - The Shadows
-  - The Atlantics
+    - The Ventures
+    - The Shadows
+    - The Atlantics
 musicbrainz_id: 2e527941-1474-4113-bffb-cbf6df346080
 network_extracted: true
-origin: Sydney, New South Wales, Australia
+origin: 'Sydney, New South Wales, Australia'
 original_members:
-- *id001
+  - *ref_0
 primary_source: perplexity
 research_sources:
-- https://themusic.com.au/artist/nCWGjbKzsLE/the-cruel-sea
-- https://www.greatsouthernnights.com.au/the-cruel-sea
-- https://premierartists.com.au/artist/the-cruel-sea/
-- https://amrap.org.au/artist/the-cruel-sea
-- https://music.youtube.com/channel/UCA58sRNRktWtgX61WeQQ4bA
-- https://www.last.fm/music/The+Cruel+Sea/+wiki
-- https://www.youtube.com/watch?v=JQlC7wd683o
+  - 'https://themusic.com.au/artist/nCWGjbKzsLE/the-cruel-sea'
+  - 'https://www.greatsouthernnights.com.au/the-cruel-sea'
+  - 'https://premierartists.com.au/artist/the-cruel-sea/'
+  - 'https://amrap.org.au/artist/the-cruel-sea'
+  - 'https://music.youtube.com/channel/UCA58sRNRktWtgX61WeQQ4bA'
+  - 'https://www.last.fm/music/The+Cruel+Sea/+wiki'
+  - 'https://www.youtube.com/watch?v=JQlC7wd683o'
 spotify_data:
   followers: 68614
   id: 5m5cTNJ2RxfxKpGULocV9T
   popularity: 41
-  url: https://open.spotify.com/artist/5m5cTNJ2RxfxKpGULocV9T
+  url: 'https://open.spotify.com/artist/5m5cTNJ2RxfxKpGULocV9T'
 status: active
-title: the cruel sea
+title: The Cruel Sea
+death_date: '2015'
 ---
 
 ![](the_cruel_sea.jpg)

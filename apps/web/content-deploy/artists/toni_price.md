@@ -3,15 +3,15 @@ title: Toni Price
 wiki_slug: toni-price
 schema_version: 2
 status: active
-birth_place: Philadelphia, Pennsylvania, United States
+birth_place: 'Philadelphia, Pennsylvania, United States'
 genres:
-- bluegrass
-- newgrass
+  - bluegrass
+  - newgrass
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/toni_price.jpg
   caption: Toni Price
   background: solo_singer
-  origin: Philadelphia, Pennsylvania, United States
+  origin: 'Philadelphia, Pennsylvania, United States'
 audio_profile:
   tempo_avg: 121.2
   energy_avg: 0.387
@@ -27,49 +27,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Gwil Owen
-  - Champ Hood
-  - Derek O'Brien
-  - Casper Rawls
-  - Warren Hood
+    - Gwil Owen
+    - Champ Hood
+    - Derek O'Brien
+    - Casper Rawls
+    - Warren Hood
   influenced:
-  - Warren Hood
-  - Austin roots/blues musicians
+    - Warren Hood
+    - Austin roots/blues musicians
   mentors:
-  - Bonnie Raitt
-  - Clifford Antone
+    - Bonnie Raitt
+    - Clifford Antone
 spotify_data:
   followers: 59797
   id: 6N9hyojoLChEhlsS8vYnyr
   popularity: 43
-  url: https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr
+  url: 'https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr'
 discography_enriched: true
 top_tracks:
-- Freeborn Man (Guitar)
-- Church Street Blues (Church Street Blues)
-- Where The Soul Of Man Never Dies (Skaggs And Rice)
-- Bury Me Beneath The Weeping Willow (Skaggs And Rice)
-- Streets Of London (Church Street Blues)
-- Blackberry Blossom (Norman Blake & Tony Rice 2)
-- Cold On The Shoulder (Cold On The Shoulder)
-- 'Big Spike Hammer (The Bluegrass Album, Vol. 3: California Connection)'
-- Wildwood Flower (Tone Poems)
-- Moonlight Midnight (Quartet)
+  - Freeborn Man (Guitar)
+  - Church Street Blues (Church Street Blues)
+  - Where The Soul Of Man Never Dies (Skaggs And Rice)
+  - Bury Me Beneath The Weeping Willow (Skaggs And Rice)
+  - Streets Of London (Church Street Blues)
+  - Blackberry Blossom (Norman Blake & Tony Rice 2)
+  - Cold On The Shoulder (Cold On The Shoulder)
+  - 'Big Spike Hammer (The Bluegrass Album, Vol. 3: California Connection)'
+  - Wildwood Flower (Tone Poems)
+  - Moonlight Midnight (Quartet)
 external_urls:
-  spotify: https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr
-  wikipedia: https://en.wikipedia.org/wiki/Toni_Price
+  spotify: 'https://open.spotify.com/artist/6N9hyojoLChEhlsS8vYnyr'
+  wikipedia: 'https://en.wikipedia.org/wiki/Toni_Price'
 image_path: 03_Resources/source_material/ArtistPortraits/toni_price.jpg
 biography_enhanced_at: '2025-11-21T07:24:27.105718'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Toni_Price
-- https://www.austinchronicle.com/music/singer-toni-price-a-mainstay-on-austin-stages-has-died-13286594/
-- https://michaelcorcoran.substack.com/p/the-continental-cult-of-toni-price
-- https://www.last.fm/music/Toni+Price/+wiki
+  - 'https://en.wikipedia.org/wiki/Toni_Price'
+  - >-
+    https://www.austinchronicle.com/music/singer-toni-price-a-mainstay-on-austin-stages-has-died-13286594/
+  - 'https://michaelcorcoran.substack.com/p/the-continental-cult-of-toni-price'
+  - 'https://www.last.fm/music/Toni+Price/+wiki'
 network_extracted: true
 entry_created: '2025-11-21T07:24:27.105727'
 last_updated: '2025-12-23T08:16:17.582682'
+birth_date: '1961-03-13'
+death_date: '2024-11-22'
+artist_type: person
 ---
 
 ![](toni_price.jpg)

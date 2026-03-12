@@ -1,16 +1,16 @@
 ---
-title: o v wright
+title: O V Wright
 wiki_slug: o-v-wright
 schema_version: 2
 status: active
-birth_place: Lenow, Tennessee, United States
+birth_place: 'Lenow, Tennessee, United States'
 genres:
-- soul
+  - soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/o_v_wright.jpg
   caption: o v wright
   background: solo_singer
-  origin: Lenow, Tennessee, United States
+  origin: 'Lenow, Tennessee, United States'
 audio_profile:
   tempo_avg: 137.7
   energy_avg: 0.444
@@ -26,50 +26,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Willie Mitchell
-  - Johnny Rawls
-  - The Sunset Travelers
+    - Willie Mitchell
+    - Johnny Rawls
+    - The Sunset Travelers
   influenced:
-  - Robert Cray
-  - Otis Clay
-  - Taj Mahal
-  - Reggie Sears
+    - Robert Cray
+    - Otis Clay
+    - Taj Mahal
+    - Reggie Sears
   mentors:
-  - Rev. Hamblin
-  - Roosevelt Jamison
+    - Rev. Hamblin
+    - Roosevelt Jamison
 spotify_data:
   followers: 51522
   id: 2eRG04xbRiI1AzY8uTCySk
   popularity: 43
-  url: https://open.spotify.com/artist/2eRG04xbRiI1AzY8uTCySk
+  url: 'https://open.spotify.com/artist/2eRG04xbRiI1AzY8uTCySk'
 discography_enriched: true
 top_tracks:
-- Let's Straighten It Out (The Bottom Line)
-- Ace Of Spades (A Nickel And A Nail And Ace Of Spades)
-- I Don't Know Why (The Bottom Line)
-- Everybody Knows (The River Song) (The Soul Of O.V. Wright)
-- A Nickel And A Nail (A Nickel And A Nail And Ace Of Spades)
-- Motherless Child (The Soul Of O.V. Wright)
-- That's How Strong My Love Is (The Goldwax Story, Vol. 1)
-- Don't Let My Baby Ride (A Nickel And A Nail And Ace Of Spades)
-- Eight Men And Four Women (A Nickel And A Nail And Ace Of Spades)
-- I've Been Searching (Memphis Unlimited)
+  - Let's Straighten It Out (The Bottom Line)
+  - Ace Of Spades (A Nickel And A Nail And Ace Of Spades)
+  - I Don't Know Why (The Bottom Line)
+  - Everybody Knows (The River Song) (The Soul Of O.V. Wright)
+  - A Nickel And A Nail (A Nickel And A Nail And Ace Of Spades)
+  - Motherless Child (The Soul Of O.V. Wright)
+  - 'That''s How Strong My Love Is (The Goldwax Story, Vol. 1)'
+  - Don't Let My Baby Ride (A Nickel And A Nail And Ace Of Spades)
+  - Eight Men And Four Women (A Nickel And A Nail And Ace Of Spades)
+  - I've Been Searching (Memphis Unlimited)
 external_urls:
-  spotify: https://open.spotify.com/artist/2eRG04xbRiI1AzY8uTCySk
-  wikipedia: https://en.wikipedia.org/wiki/O._V._Wright
+  spotify: 'https://open.spotify.com/artist/2eRG04xbRiI1AzY8uTCySk'
+  wikipedia: 'https://en.wikipedia.org/wiki/O._V._Wright'
 image_path: 03_Resources/source_material/ArtistPortraits/o_v_wright.jpg
 biography_enhanced_at: '2025-11-20T07:29:05.211363'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/O._V._Wright
-- https://soul-sides.com/2006/04/o-v-wright-at-the-nucleus-of-soul.html
-- https://fatpossum.com/collections/o-v-wright
-- https://journalofgospelmusic.com/gospel/on-jesus-program-the-gospel-soul-of-o-v-wright/
+  - 'https://en.wikipedia.org/wiki/O._V._Wright'
+  - 'https://soul-sides.com/2006/04/o-v-wright-at-the-nucleus-of-soul.html'
+  - 'https://fatpossum.com/collections/o-v-wright'
+  - >-
+    https://journalofgospelmusic.com/gospel/on-jesus-program-the-gospel-soul-of-o-v-wright/
 network_extracted: true
 entry_created: '2025-11-20T07:29:05.211372'
 last_updated: '2025-12-23T08:16:13.676581'
-
+birth_date: '1939-10-09'
+artist_type: person
 ---
 
 ![](o_v_wright.jpg)

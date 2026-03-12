@@ -1,88 +1,89 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 98735b08-414c-48f5-b2d5-d169ceedd2e8
-  name: Bud Powell Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c2237ac9-5d0c-4fd2-8bbe-823a43d05b4a
-  name: Red Garland Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bd8e79c2-afb2-458f-b988-d703f7a6cf77
-  name: Frank Socolow's Duke Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: e1e8d361-a350-4253-a078-232c5c3570b5
-  name: Bud Powell's Modernists
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 98735b08-414c-48f5-b2d5-d169ceedd2e8
+    name: Bud Powell Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c2237ac9-5d0c-4fd2-8bbe-823a43d05b4a
+    name: Red Garland Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bd8e79c2-afb2-458f-b988-d703f7a6cf77
+    name: Frank Socolow's Duke Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: e1e8d361-a350-4253-a078-232c5c3570b5
+    name: Bud Powell's Modernists
 biography_enhanced_at: '2026-01-22T07:24:32.787551'
 birth_date: '1924-09-27'
-birth_place: Harlem
+birth_place: 'Harlem, New York City, United States'
 death_date: '1966-07-31'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:24:32.787558'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/dbc5809c-7837-4b6f-961e-340d64fbb41c
-  spotify: https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6
-  wikipedia: https://en.wikipedia.org/wiki/Bud_Powell
+  musicbrainz: 'https://musicbrainz.org/artist/dbc5809c-7837-4b6f-961e-340d64fbb41c'
+  spotify: 'https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bud_Powell'
 gender: Male
 genres:
-- bebop
-- jazz
-- hard bop
-- cool jazz
+  - bebop
+  - jazz
+  - hard bop
+  - cool jazz
 image_path: 03_Resources/source_material/ArtistPortraits/bud_powell.jpg
 instruments:
-- eponymous
-- original
-- piano
+  - eponymous
+  - original
+  - piano
 last_updated: '2026-01-22T07:24:32.787559'
 musical_connections:
   collaborators:
-  - Cootie Williams
-  - Charlie Parker
-  - Dizzy Gillespie
-  - Max Roach
-  - Curly Russell
-  - Kenny Clarke
+    - Cootie Williams
+    - Charlie Parker
+    - Dizzy Gillespie
+    - Max Roach
+    - Curly Russell
+    - Kenny Clarke
   influenced:
-  - Walter Davis Jr.
-  - Toshiko Akiyoshi
-  - Barry Harris
+    - Walter Davis Jr.
+    - Toshiko Akiyoshi
+    - Barry Harris
   mentors:
-  - Thelonious Monk
-  - Charlie Parker
-  - Art Tatum
+    - Thelonious Monk
+    - Charlie Parker
+    - Art Tatum
 musicbrainz_id: dbc5809c-7837-4b6f-961e-340d64fbb41c
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.britannica.com/biography/Bud-Powell
-- https://blackpast.org/african-american-history/powell-bud-1924-1966/
-- https://en.wikipedia.org/wiki/Bud_Powell
-- https://wailthelifeofbudpowell.com/powell-chronology/
-- https://wicn.org/wicn-artist-of-the-month-september-2024-bud-powell/
-- https://www.bluenote.com/artist/bud-powell/
+  - 'https://www.britannica.com/biography/Bud-Powell'
+  - 'https://blackpast.org/african-american-history/powell-bud-1924-1966/'
+  - 'https://en.wikipedia.org/wiki/Bud_Powell'
+  - 'https://wailthelifeofbudpowell.com/powell-chronology/'
+  - 'https://wicn.org/wicn-artist-of-the-month-september-2024-bud-powell/'
+  - 'https://www.bluenote.com/artist/bud-powell/'
 spotify_data:
   followers: 124512
   id: 570vCzcespB48HIQyTbDO6
   popularity: 42
-  url: https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6
+  url: 'https://open.spotify.com/artist/570vCzcespB48HIQyTbDO6'
 status: active
 tags:
-- american
-- bebop
-- hard bop
-title: bud powell
+  - american
+  - bebop
+  - hard bop
+title: Bud Powell
+is_active: false
 ---
 
 ![](bud_powell.jpg)

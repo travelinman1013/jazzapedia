@@ -1,18 +1,18 @@
 ---
-title: JJ BARNES
+title: JJ Barnes
 wiki_slug: jj-barnes
 schema_version: 2
 status: active
-birth_place: Detroit, Michigan, United States
+birth_place: 'Detroit, Michigan, United States'
 genres:
-- northern soul
-- motown
-- soul
+  - northern soul
+  - motown
+  - soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jj_barnes.jpg
   caption: JJ BARNES
   background: solo_singer
-  origin: Detroit, Michigan, United States
+  origin: 'Detroit, Michigan, United States'
 audio_profile:
   tempo_avg: 130.5
   energy_avg: 0.615
@@ -28,52 +28,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Benny Benjamin
-  - Joe Hunter
-  - Don Davis
-  - James Jamerson
-  - Ian Levine
-  - Martha & the Vandellas
-  - The Marvelettes
+    - Benny Benjamin
+    - Joe Hunter
+    - Don Davis
+    - James Jamerson
+    - Ian Levine
+    - Martha & the Vandellas
+    - The Marvelettes
   influenced:
-  - The Dirtbombs
+    - The Dirtbombs
   mentors:
-  - Sister Rosetta Tharpe
-  - Johnny Starks
-  - Edwin Starr
+    - Sister Rosetta Tharpe
+    - Johnny Starks
+    - Edwin Starr
 spotify_data:
   followers: 7880
   id: 2hIOIluaknpeTzdniBzj8A
   popularity: 17
-  url: https://open.spotify.com/artist/2hIOIluaknpeTzdniBzj8A
+  url: 'https://open.spotify.com/artist/2hIOIluaknpeTzdniBzj8A'
 discography_enriched: true
 top_tracks:
-- Every Time I See You, I Go Wild! (A Cellarful Of Motown! (Vol. 2))
-- Talk Of The Grapevine (JJ Barnes is Northern Soul)
-- Chains Of Love (Rare Stamps)
-- You Owe It to Yourself (Best of Perception & Today Records Compiled by DJ Spinna and Bbe Soundsystem)
-- Come On Back (Rare Stamps)
-- (Tell Me) Ain't It The Truth (Express Your Soul)
-- Show Me The Way (Essential Motown - Northern Soul)
-- 'Got To Get Rid Of You (The Complete Stax / Volt Soul Singles, Vol. 2: 1968-1971)'
-- Wishful Thinking (Best of Perception & Today Records Compiled by DJ Spinna and Bbe Soundsystem)
-- (Tell Me) Ain't It The Truth (A Cellarful Of Motown!)
+  - 'Every Time I See You, I Go Wild! (A Cellarful Of Motown! (Vol. 2))'
+  - Talk Of The Grapevine (JJ Barnes is Northern Soul)
+  - Chains Of Love (Rare Stamps)
+  - >-
+    You Owe It to Yourself (Best of Perception & Today Records Compiled by DJ
+    Spinna and Bbe Soundsystem)
+  - Come On Back (Rare Stamps)
+  - (Tell Me) Ain't It The Truth (Express Your Soul)
+  - Show Me The Way (Essential Motown - Northern Soul)
+  - >-
+    Got To Get Rid Of You (The Complete Stax / Volt Soul Singles, Vol. 2:
+    1968-1971)
+  - >-
+    Wishful Thinking (Best of Perception & Today Records Compiled by DJ Spinna
+    and Bbe Soundsystem)
+  - (Tell Me) Ain't It The Truth (A Cellarful Of Motown!)
 external_urls:
-  spotify: https://open.spotify.com/artist/2hIOIluaknpeTzdniBzj8A
-  wikipedia: https://en.wikipedia.org/wiki/J._J._Barnes
+  spotify: 'https://open.spotify.com/artist/2hIOIluaknpeTzdniBzj8A'
+  wikipedia: 'https://en.wikipedia.org/wiki/J._J._Barnes'
 image_path: 03_Resources/source_material/ArtistPortraits/jj_barnes.jpg
 biography_enhanced_at: '2025-12-04T07:54:38.444728'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Northern Soul Train (northernsoultrain.co.uk)
-- Metro Times - Detroit soul man J.J. Barnes looks back on his career
-- From the Vaults - J.J. Barnes born 30 November 1943
-- Last.fm - J.J. Barnes biography
-- Soulful Detroit forum
+  - Northern Soul Train (northernsoultrain.co.uk)
+  - Metro Times - Detroit soul man J.J. Barnes looks back on his career
+  - From the Vaults - J.J. Barnes born 30 November 1943
+  - Last.fm - J.J. Barnes biography
+  - Soulful Detroit forum
 network_extracted: true
 entry_created: '2025-12-04T07:54:38.444734'
 last_updated: '2025-12-23T08:16:10.539020'
+birth_date: '1943-11-30'
+death_date: '2022-12-10'
+artist_type: person
 ---
 
 ![](jj_barnes.jpg)

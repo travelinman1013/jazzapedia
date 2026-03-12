@@ -2,25 +2,25 @@
 title: Jelly Roll Morton
 wiki_slug: jelly-roll-morton
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1885-10-20'
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 death_date: '1941-07-10'
 genres:
-- ragtime
-- jazz
-- swing music
+  - ragtime
+  - jazz
+  - swing music
 instruments:
-- eponymous
-- original
-- piano
+  - eponymous
+  - original
+  - piano
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Jelly_Roll_Morton.jpg
   caption: Jelly Roll Morton
   background: non_vocal_instrumentalist
   born: '1885-10-20'
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
   died: '1941-07-10'
 audio_profile:
   tempo_avg: 116.3
@@ -37,45 +37,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Red Hot Peppers
-  - Omer Simeon
-  - Kid Ory
+    - Red Hot Peppers
+    - Omer Simeon
+    - Kid Ory
   influenced:
-  - Duke Ellington
-  - George Gershwin
-  - Fats Waller
+    - Duke Ellington
+    - George Gershwin
+    - Fats Waller
   mentors:
-  - Tony Jackson
+    - Tony Jackson
 spotify_data:
   followers: 50110
   id: 4XepUkisa56DUeA3gbjDQD
   popularity: 31
-  url: https://open.spotify.com/artist/4XepUkisa56DUeA3gbjDQD
+  url: 'https://open.spotify.com/artist/4XepUkisa56DUeA3gbjDQD'
 discography_enriched: true
 top_tracks:
-- Black Bottom Stomp - 2002 Remastered (Jazz King Of New Orleans)
-- King Porter Stomp (Jelly Roll Morton 1923/24)
-- Wolverine Blues (Doctor Jazz)
-- Georgia Swing
-- Sweet Jazz Music (Number Three)
-- Doctor Jazz (High Society)
-- Doctor Jazz (Doctor Jazz)
-- 'Kansas City Stomp (Fingerbreaker: Classics Of Ragtime And Early Jazz Piano)'
-- 'Fingerbreaker (Fingerbreaker: Classics Of Ragtime And Early Jazz Piano)'
-- I Thought I Heard Buddy Bolden Say (High Society)
+  - Black Bottom Stomp - 2002 Remastered (Jazz King Of New Orleans)
+  - King Porter Stomp (Jelly Roll Morton 1923/24)
+  - Wolverine Blues (Doctor Jazz)
+  - Georgia Swing
+  - Sweet Jazz Music (Number Three)
+  - Doctor Jazz (High Society)
+  - Doctor Jazz (Doctor Jazz)
+  - 'Kansas City Stomp (Fingerbreaker: Classics Of Ragtime And Early Jazz Piano)'
+  - 'Fingerbreaker (Fingerbreaker: Classics Of Ragtime And Early Jazz Piano)'
+  - I Thought I Heard Buddy Bolden Say (High Society)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3d094919-071f-4070-95dc-e1f350e4a5f3
-  spotify: https://open.spotify.com/artist/4XepUkisa56DUeA3gbjDQD
-  wikipedia: https://en.wikipedia.org/wiki/Jelly_Roll_Morton
+  musicbrainz: 'https://musicbrainz.org/artist/3d094919-071f-4070-95dc-e1f350e4a5f3'
+  spotify: 'https://open.spotify.com/artist/4XepUkisa56DUeA3gbjDQD'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jelly_Roll_Morton'
 image_path: 03_Resources/source_material/ArtistPortraits/Jelly_Roll_Morton.jpg
 biography_enhanced_at: '2025-10-19T10:29:43.890427'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jelly_Roll_Morton
-- https://musicrising.tulane.edu/discover/people/ferdinand-jelly-roll-morton/
-- https://www.britannica.com/biography/Jelly-Roll-Morton
-- https://www.ebsco.com/research-starters/biography/jelly-roll-morton
+  - 'https://en.wikipedia.org/wiki/Jelly_Roll_Morton'
+  - 'https://musicrising.tulane.edu/discover/people/ferdinand-jelly-roll-morton/'
+  - 'https://www.britannica.com/biography/Jelly-Roll-Morton'
+  - 'https://www.ebsco.com/research-starters/biography/jelly-roll-morton'
 network_extracted: true
 entry_created: '2025-10-19T10:29:43.890431'
 last_updated: '2025-12-23T08:16:02.507109'
@@ -83,9 +83,11 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:31:01.549700'
 musicbrainz_id: 3d094919-071f-4070-95dc-e1f350e4a5f3
 tags:
-- big band
-- blues
-- dixieland
+  - big band
+  - blues
+  - dixieland
+is_active: false
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](Jelly_Roll_Morton.jpg)

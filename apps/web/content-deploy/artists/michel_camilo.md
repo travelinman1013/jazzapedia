@@ -5,25 +5,25 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1954-04-04'
-birth_place: Santo Domingo
+birth_place: 'Santo Domingo, Dominican Republic'
 genres:
-- latin jazz
-- flamenco
-- jazz
-- jazz fusion
-- big band
+  - latin jazz
+  - flamenco
+  - jazz
+  - jazz fusion
+  - big band
 instruments:
-- eponymous
-- original
-- piano
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
-  mbid: d2f454db-ce7f-4e51-9696-6df1587b6958
-  name: Michel Camilo Trio
+  - piano
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: d2f454db-ce7f-4e51-9696-6df1587b6958
+    name: Michel Camilo Trio
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/michel_camilo.jpg
   caption: Michel Camilo
@@ -31,7 +31,7 @@ infobox:
   born: '1954-04-04'
   origin: Santo Domingo
 audio_profile:
-  tempo_avg: 118.0
+  tempo_avg: 118
   energy_avg: 0.459
   valence_avg: 0.449
   danceability_avg: 0.466
@@ -45,56 +45,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Paquito D'Rivera
-  - Anthony Jackson
-  - Dave Weckl
-  - Tomatito
-  - Giovanni Hidalgo
+    - Paquito D'Rivera
+    - Anthony Jackson
+    - Dave Weckl
+    - Tomatito
+    - Giovanni Hidalgo
   influenced:
-  - Students at Berklee College of Music
-  - Latin Jazz Pianists
+    - Students at Berklee College of Music
+    - Latin Jazz Pianists
   mentors:
-  - National Conservatory Teachers
-  - Harvard University Jazz Band Bandleader
+    - National Conservatory Teachers
+    - Harvard University Jazz Band Bandleader
 spotify_data:
   followers: 81563
   id: 5FSlmspNfoVInmejanELTq
   popularity: 35
-  url: https://open.spotify.com/artist/5FSlmspNfoVInmejanELTq
+  url: 'https://open.spotify.com/artist/5FSlmspNfoVInmejanELTq'
 discography_enriched: true
 top_tracks:
-- 'Satie: Gnossiennes No. 1 (Spain Forever)'
-- Cinema Paradiso (Spain Forever)
-- Caribe (Michel Camilo)
-- Our Spanish Love Song (Spain Forever)
-- Libertango (Spain Again)
-- Oblivion (Spain Forever)
-- Why Not! (One More Once)
-- From Within - Live (Rendezvous)
-- One More Once (One More Once)
-- Caribe (One More Once)
+  - 'Satie: Gnossiennes No. 1 (Spain Forever)'
+  - Cinema Paradiso (Spain Forever)
+  - Caribe (Michel Camilo)
+  - Our Spanish Love Song (Spain Forever)
+  - Libertango (Spain Again)
+  - Oblivion (Spain Forever)
+  - Why Not! (One More Once)
+  - From Within - Live (Rendezvous)
+  - One More Once (One More Once)
+  - Caribe (One More Once)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/57829f93-1815-436e-8e9e-55eb788a6f54
-  spotify: https://open.spotify.com/artist/5FSlmspNfoVInmejanELTq
-  wikipedia: https://en.wikipedia.org/wiki/Michel_Camilo
+  musicbrainz: 'https://musicbrainz.org/artist/57829f93-1815-436e-8e9e-55eb788a6f54'
+  spotify: 'https://open.spotify.com/artist/5FSlmspNfoVInmejanELTq'
+  wikipedia: 'https://en.wikipedia.org/wiki/Michel_Camilo'
 image_path: 03_Resources/source_material/ArtistPortraits/michel_camilo.jpg
 biography_enhanced_at: '2025-11-10T03:32:29.161775'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Michel_Camilo
-- https://www.musictraveler.co/michel-camilo
-- https://www.michelcamilo.com/official-biography
-- https://www.pittsburghsymphony.org/pso_home/biographies/guest-artists/michel-camilo
+  - 'https://en.wikipedia.org/wiki/Michel_Camilo'
+  - 'https://www.musictraveler.co/michel-camilo'
+  - 'https://www.michelcamilo.com/official-biography'
+  - >-
+    https://www.pittsburghsymphony.org/pso_home/biographies/guest-artists/michel-camilo
 network_extracted: true
 entry_created: '2025-11-10T03:32:29.161789'
 last_updated: '2025-12-23T08:16:13.079943'
 gender: Male
 musicbrainz_id: 57829f93-1815-436e-8e9e-55eb788a6f54
 tags:
-- classical
-- jazz
-- latin american
+  - classical
+  - jazz
+  - latin american
 ---
 
 ![](michel_camilo.jpg)

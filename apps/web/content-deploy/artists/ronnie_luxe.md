@@ -3,13 +3,13 @@ title: Ronnie Luxe
 wiki_slug: ronnie-luxe
 schema_version: 2
 status: active
-birth_place: Richmond, Virginia, United States
+birth_place: 'Richmond, Virginia, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ronnie_luxe.jpg
   caption: Ronnie Luxe
   background: solo_singer
-  origin: Richmond, Virginia, United States
+  origin: 'Richmond, Virginia, United States'
 audio_profile:
   tempo_avg: 105.7
   energy_avg: 0.507
@@ -17,7 +17,7 @@ audio_profile:
   danceability_avg: 0.588
   acousticness_avg: 0.429
   instrumentalness_avg: 0.007
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.158
   liveness_avg: 0.168
   track_count: 24
@@ -25,40 +25,42 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Unknown collaborators
+    - Unknown collaborators
   influenced: []
   mentors: []
 spotify_data:
   followers: 168
   id: 4StH6DqMx8bNTrCWBcK5lG
   popularity: 3
-  url: https://open.spotify.com/artist/4StH6DqMx8bNTrCWBcK5lG
+  url: 'https://open.spotify.com/artist/4StH6DqMx8bNTrCWBcK5lG'
 discography_enriched: true
 top_tracks:
-- 10 Past (Invite Only)
-- You're So Vain (The Internet Is Fake)
-- Breathe (HERMIT)
-- Self Talk (HERMIT)
-- :D (Program 4 Players)
-- Hallways (HERMIT)
-- My Ways (HERMIT)
-- Let Me (HERMIT)
-- The Need (HERMIT)
-- Feel (HERMIT)
+  - 10 Past (Invite Only)
+  - You're So Vain (The Internet Is Fake)
+  - Breathe (HERMIT)
+  - Self Talk (HERMIT)
+  - ':D (Program 4 Players)'
+  - Hallways (HERMIT)
+  - My Ways (HERMIT)
+  - Let Me (HERMIT)
+  - The Need (HERMIT)
+  - Feel (HERMIT)
 external_urls:
-  spotify: https://open.spotify.com/artist/4StH6DqMx8bNTrCWBcK5lG
+  spotify: 'https://open.spotify.com/artist/4StH6DqMx8bNTrCWBcK5lG'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/ronnie_luxe.jpg
 biography_enhanced_at: '2025-12-04T08:03:34.424972'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- ronnieluxe.com
-- therichmondseen.com
-- ronnieluxeofficial.bandcamp.com
+  - ronnieluxe.com
+  - therichmondseen.com
+  - ronnieluxeofficial.bandcamp.com
 network_extracted: true
 entry_created: '2025-12-04T08:03:34.424982'
 last_updated: '2025-12-23T08:16:15.033910'
+origin: 'Richmond, Virginia, United States'
+artist_type: person
 ---
 
 ![](ronnie_luxe.jpg)

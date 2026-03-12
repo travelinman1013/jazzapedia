@@ -1,117 +1,120 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-21T01:15:20.325150'
 birth_date: '2009'
 enhancement_provider: perplexity
 entry_created: '2026-01-21T01:15:20.325156'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5cfa6d68-e1f1-493a-a086-20411858a70f
-  spotify: https://open.spotify.com/artist/75vVPF9akWZ5RWAcpxBMU5
-  wikipedia: https://en.wikipedia.org/wiki/Tuba_Skinny
+  musicbrainz: 'https://musicbrainz.org/artist/5cfa6d68-e1f1-493a-a086-20411858a70f'
+  spotify: 'https://open.spotify.com/artist/75vVPF9akWZ5RWAcpxBMU5'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tuba_Skinny'
 genres:
-- ragtime
-- swing music
+  - ragtime
+  - swing music
 image_path: 03_Resources/source_material/ArtistPortraits/tuba_skinny.jpg
 instruments:
-- resonator guitar
-- sousaphone
-- cornet
-- clarinet
-- banjo
-- trombone
-- washboard
-- guitar
+  - resonator guitar
+  - sousaphone
+  - cornet
+  - clarinet
+  - banjo
+  - trombone
+  - washboard
+  - guitar
 last_updated: '2026-01-21T01:15:20.325157'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - resonator guitar
-  mbid: 43f91158-1046-4d6f-b6a6-6afa7c1290b2
-  name: Max Bien-Kahn
-- begin: ''
-  end: ''
-  instruments:
-  - sousaphone
-  mbid: e00e7c95-4a7f-4831-80ea-6688cfaf970a
-  name: Todd Burdick
-- begin: ''
-  end: ''
-  instruments:
-  - cornet
-  mbid: f274240f-0a2d-4146-973e-3226e76af7c8
-  name: Shaye Cohn
-- begin: ''
-  end: ''
-  instruments:
-  - clarinet
-  mbid: e1e52fcd-8057-45c8-82c7-5dfea9a2343c
-  name: Craig Flory
-- begin: ''
-  end: ''
-  instruments:
-  - banjo
-  mbid: e1b5a1a8-c2ca-4175-bc09-14bc23e6a1a4
-  name: Jason Lawrence
-- begin: ''
-  end: ''
-  instruments:
-  - trombone
-  mbid: e89154d9-d4a1-4cd3-8d7c-da8536a0dc12
-  name: Barnabus Jones
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bcf25021-0d82-44f7-92df-0dc243587c34
-  name: Erika Lewis
-- begin: ''
-  end: ''
-  instruments:
-  - washboard
-  mbid: 32eef66b-480b-4dda-974f-238f319002b8
-  name: Robin Rapuzzi
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: b7a261c2-4443-4ed2-aeaf-b78854c39a11
-  name: Greg Sherman
+  - begin: ''
+    end: ''
+    instruments:
+      - resonator guitar
+    mbid: 43f91158-1046-4d6f-b6a6-6afa7c1290b2
+    name: Max Bien-Kahn
+  - begin: ''
+    end: ''
+    instruments:
+      - sousaphone
+    mbid: e00e7c95-4a7f-4831-80ea-6688cfaf970a
+    name: Todd Burdick
+  - begin: ''
+    end: ''
+    instruments:
+      - cornet
+    mbid: f274240f-0a2d-4146-973e-3226e76af7c8
+    name: Shaye Cohn
+  - begin: ''
+    end: ''
+    instruments:
+      - clarinet
+    mbid: e1e52fcd-8057-45c8-82c7-5dfea9a2343c
+    name: Craig Flory
+  - begin: ''
+    end: ''
+    instruments:
+      - banjo
+    mbid: e1b5a1a8-c2ca-4175-bc09-14bc23e6a1a4
+    name: Jason Lawrence
+  - begin: ''
+    end: ''
+    instruments:
+      - trombone
+    mbid: e89154d9-d4a1-4cd3-8d7c-da8536a0dc12
+    name: Barnabus Jones
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bcf25021-0d82-44f7-92df-0dc243587c34
+    name: Erika Lewis
+  - begin: ''
+    end: ''
+    instruments:
+      - washboard
+    mbid: 32eef66b-480b-4dda-974f-238f319002b8
+    name: Robin Rapuzzi
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: b7a261c2-4443-4ed2-aeaf-b78854c39a11
+    name: Greg Sherman
 musical_connections:
   collaborators:
-  - Shaye Cohn
-  - Barnabus Jones
-  - Todd Burdick
-  - Erika Lewis
-  - Maria Muldaur
-  - Craig Flory
-  - Jon Doyle
-  - Ewan Bleach
+    - Shaye Cohn
+    - Barnabus Jones
+    - Todd Burdick
+    - Erika Lewis
+    - Maria Muldaur
+    - Craig Flory
+    - Jon Doyle
+    - Ewan Bleach
   influenced:
-  - Hurray for the Riff Raff
+    - Hurray for the Riff Raff
   mentors:
-  - Tuba Fats (Anthony Lacen)
+    - Tuba Fats (Anthony Lacen)
 musicbrainz_id: 5cfa6d68-e1f1-493a-a086-20411858a70f
 network_extracted: true
-origin: New Orleans
+origin: 'New Orleans, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://syncopatedtimes.com/how-tuba-skinnys-new-orleans-street-jazz-found-fans-worldwide/
-- https://en.wikipedia.org/wiki/Tuba_Skinny
-- https://www.frostburg.edu/cultural-events-series/2025-26-season/tuba-skinny/index.php
-- http://tubaskinny.com/about-us
-- https://waxwingmag.org/items/issue13/67_Fox-Tuba-Skinny-Whats-Old-Is-New-Again.php
-- http://tubaskinny.com
-- https://provincetownmagazine.com/2025/09/10/tuba-skinny/
-- https://www.nstarartists.com/tuba-skinny
+  - >-
+    https://syncopatedtimes.com/how-tuba-skinnys-new-orleans-street-jazz-found-fans-worldwide/
+  - 'https://en.wikipedia.org/wiki/Tuba_Skinny'
+  - >-
+    https://www.frostburg.edu/cultural-events-series/2025-26-season/tuba-skinny/index.php
+  - 'http://tubaskinny.com/about-us'
+  - >-
+    https://waxwingmag.org/items/issue13/67_Fox-Tuba-Skinny-Whats-Old-Is-New-Again.php
+  - 'http://tubaskinny.com'
+  - 'https://provincetownmagazine.com/2025/09/10/tuba-skinny/'
+  - 'https://www.nstarartists.com/tuba-skinny'
 spotify_data:
   followers: 49146
   id: 75vVPF9akWZ5RWAcpxBMU5
   popularity: 37
-  url: https://open.spotify.com/artist/75vVPF9akWZ5RWAcpxBMU5
+  url: 'https://open.spotify.com/artist/75vVPF9akWZ5RWAcpxBMU5'
 status: active
 tags:
-- dixieland
-- jazz
+  - dixieland
+  - jazz
 title: Tuba Skinny
 ---
 

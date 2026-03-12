@@ -23,53 +23,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sting (Gordon Sumner)
-  - Stewart Copeland
-  - Andy Summers
-  - Henry Padovani
-  - Miles and Ian Copeland
+    - Sting (Gordon Sumner)
+    - Stewart Copeland
+    - Andy Summers
+    - Henry Padovani
+    - Miles and Ian Copeland
   influenced:
-  - 1980s and 1990s alternative rock and new wave bands (e.g., U2, R.E.M., and others often cited alongside The Police)
-  - Later reggae‑rock and hybrid pop‑rock artists
+    - >-
+      1980s and 1990s alternative rock and new wave bands (e.g., U2, R.E.M., and
+      others often cited alongside The Police)
+    - Later reggae‑rock and hybrid pop‑rock artists
   mentors:
-  - Reggae and Jamaican popular music
-  - Punk rock and the 1970s London punk scene
-  - Jazz and jazz‑rock fusion
+    - Reggae and Jamaican popular music
+    - Punk rock and the 1970s London punk scene
+    - Jazz and jazz‑rock fusion
 spotify_data:
   followers: 7719532
   id: 5NGO30tJxFlKixkPSgXcFE
   popularity: 79
-  url: https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE
+  url: 'https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE'
 discography_enriched: true
 top_tracks:
-- Every Breath You Take (Synchronicity (Remastered 2003))
-- Roxanne (Outlandos D'Amour (Remastered 2003))
-- Message In A Bottle (Reggatta De Blanc (Remastered 2003))
-- Every Little Thing She Does Is Magic (Ghost In The Machine (Remastered 2003))
-- Don't Stand So Close To Me (Zenyatta Mondatta (Remastered 2003))
-- So Lonely (Outlandos D'Amour (Remastered 2003))
-- Walking On The Moon (Reggatta De Blanc (Remastered 2003))
-- Wrapped Around Your Finger - Remastered 2003 (Synchronicity (Remastered 2003))
-- Can't Stand Losing You (Outlandos D'Amour (Remastered 2003))
-- De Do Do Do, De Da Da Da (Zenyatta Mondatta (Remastered 2003))
+  - Every Breath You Take (Synchronicity (Remastered 2003))
+  - Roxanne (Outlandos D'Amour (Remastered 2003))
+  - Message In A Bottle (Reggatta De Blanc (Remastered 2003))
+  - >-
+    Every Little Thing She Does Is Magic (Ghost In The Machine (Remastered
+    2003))
+  - Don't Stand So Close To Me (Zenyatta Mondatta (Remastered 2003))
+  - So Lonely (Outlandos D'Amour (Remastered 2003))
+  - Walking On The Moon (Reggatta De Blanc (Remastered 2003))
+  - >-
+    Wrapped Around Your Finger - Remastered 2003 (Synchronicity (Remastered
+    2003))
+  - Can't Stand Losing You (Outlandos D'Amour (Remastered 2003))
+  - 'De Do Do Do, De Da Da Da (Zenyatta Mondatta (Remastered 2003))'
 external_urls:
-  spotify: https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE
-  wikipedia: https://en.wikipedia.org/wiki/The_Police
+  spotify: 'https://open.spotify.com/artist/5NGO30tJxFlKixkPSgXcFE'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Police'
 image_path: 03_Resources/source_material/ArtistPortraits/the_police.jpg
 biography_enhanced_at: '2025-12-13T12:45:22.262612'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Police
-- https://www.imdb.com/name/nm1932067/bio/
-- https://www.britannica.com/topic/the-Police
-- https://americansongwriter.com/the-origins-of-the-police/
-- https://simonside.net/the-police/
-- https://teachrock.org/people/police/
+  - 'https://en.wikipedia.org/wiki/The_Police'
+  - 'https://www.imdb.com/name/nm1932067/bio/'
+  - 'https://www.britannica.com/topic/the-Police'
+  - 'https://americansongwriter.com/the-origins-of-the-police/'
+  - 'https://simonside.net/the-police/'
+  - 'https://teachrock.org/people/police/'
 network_extracted: true
 entry_created: '2025-12-13T12:45:22.262625'
 last_updated: '2025-12-23T08:16:17.071435'
-origin: London, England, United Kingdom
+origin: 'London, England, United Kingdom'
+artist_type: person
 ---
 
 ![](the_police.jpg)

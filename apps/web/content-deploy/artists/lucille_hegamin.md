@@ -1,27 +1,27 @@
 ---
-title: lucille hegamin
+title: Lucille Hegamin
 wiki_slug: lucille-hegamin
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1894-11-29'
-birth_place: Macon
+birth_place: 'Macon, Georgia, United States'
 death_date: '1970-03-01'
 genres:
-- classic blues
-- ragtime
-- blues
+  - classic blues
+  - ragtime
+  - blues
 instruments:
-- eponymous
-- original
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
-  mbid: d032bb79-5e13-4896-9974-6a6c5c931222
-  name: Lucille Hegamin and Her Blue Flame Syncopators
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: d032bb79-5e13-4896-9974-6a6c5c931222
+    name: Lucille Hegamin and Her Blue Flame Syncopators
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lucille_hegamin.jpg
   caption: lucille hegamin
@@ -44,50 +44,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - William 'Bill' Hegamin
+    - William 'Bill' Hegamin
   influenced: []
   mentors:
-  - Leonard Harper
+    - Leonard Harper
 spotify_data:
   followers: 822
   id: 1N1SCONSCFKYFv9boD0CEa
   popularity: 6
-  url: https://open.spotify.com/artist/1N1SCONSCFKYFv9boD0CEa
+  url: 'https://open.spotify.com/artist/1N1SCONSCFKYFv9boD0CEa'
 discography_enriched: true
 top_tracks:
-- You'll Want My Love (Songs We Taught Your Mother)
-- Has Anybody Seen My Corine (Songs We Taught Your Mother)
-- St. Louis Blues (Songs We Taught Your Mother)
-- Cold Cold Winter Blues (Lucille Hegamin Vol. 2 (1922-1923))
-- He May Be Your Man (But He Comes To See Me Sometime) (306) (Lucille Hegamin Vol. 2 (1922-1923))
-- The Jazz Me Blues (Lucille Hegamin Vol. 1 (1920-1922))
-- He May Be Your Man (But He Comes to See Me Sometime)
-- Has Anybody Seen My Corine (Bluesville Vol. 3)
-- St. Louis Blues (Bluesville Vol. 3)
-- Arkansas Blues (Bluesville Vol. 3)
+  - You'll Want My Love (Songs We Taught Your Mother)
+  - Has Anybody Seen My Corine (Songs We Taught Your Mother)
+  - St. Louis Blues (Songs We Taught Your Mother)
+  - Cold Cold Winter Blues (Lucille Hegamin Vol. 2 (1922-1923))
+  - >-
+    He May Be Your Man (But He Comes To See Me Sometime) (306) (Lucille Hegamin
+    Vol. 2 (1922-1923))
+  - The Jazz Me Blues (Lucille Hegamin Vol. 1 (1920-1922))
+  - He May Be Your Man (But He Comes to See Me Sometime)
+  - Has Anybody Seen My Corine (Bluesville Vol. 3)
+  - St. Louis Blues (Bluesville Vol. 3)
+  - Arkansas Blues (Bluesville Vol. 3)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/99c531cf-8e1c-454e-b65a-5f48eb1e96f5
-  spotify: https://open.spotify.com/artist/1N1SCONSCFKYFv9boD0CEa
-  wikipedia: https://en.wikipedia.org/wiki/Lucille_Hegamin
+  musicbrainz: 'https://musicbrainz.org/artist/99c531cf-8e1c-454e-b65a-5f48eb1e96f5'
+  spotify: 'https://open.spotify.com/artist/1N1SCONSCFKYFv9boD0CEa'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lucille_Hegamin'
 image_path: 03_Resources/source_material/ArtistPortraits/lucille_hegamin.jpg
 biography_enhanced_at: '2025-12-04T07:56:33.649464'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Lucille Hegamin
-- Last.fm - Lucille Hegamin Biography
-- BlackPast.org - Lucille Hegamin (1894-1970)
-- The Syncopated Times - Lucille Hegamin (1894-1970)
-- 'BET - This Day in Black History: Nov. 29, 1894'
-- Harlem Fuss - Lucille Hegamin Biography
+  - Wikipedia - Lucille Hegamin
+  - Last.fm - Lucille Hegamin Biography
+  - BlackPast.org - Lucille Hegamin (1894-1970)
+  - The Syncopated Times - Lucille Hegamin (1894-1970)
+  - 'BET - This Day in Black History: Nov. 29, 1894'
+  - Harlem Fuss - Lucille Hegamin Biography
 network_extracted: true
 entry_created: '2025-12-04T07:56:33.649476'
 last_updated: '2025-12-23T08:16:12.329443'
 gender: Female
 musicbrainz_id: 99c531cf-8e1c-454e-b65a-5f48eb1e96f5
 tags:
-- blues
-- vaudeville blues
+  - blues
+  - vaudeville blues
+is_active: false
 ---
 
 ![](lucille_hegamin.jpg)

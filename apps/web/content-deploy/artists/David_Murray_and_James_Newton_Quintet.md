@@ -4,24 +4,25 @@ wiki_slug: david-murray-james-newton-quintet
 schema_version: 2
 status: active
 aliases: []
-birth_date: '1953-05-01'
-birth_place: Los Angeles
+birth_date: '1955-02-19'
+birth_place: 'Berkeley, California, United States'
 years_active: 1978–present
 genres:
-- free jazz
-- hard bop
+  - free jazz
+  - hard bop
 instruments:
-- flute
+  - flute
 occupation:
-- composer
-- conductor
-- jazz musician
-- university teacher
+  - composer
+  - conductor
+  - jazz musician
+  - university teacher
 record_labels:
-- Blue Note
-- ECM Records
+  - Blue Note
+  - ECM Records
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/David_Murray_and_James_Newton_Quintet.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/David_Murray_and_James_Newton_Quintet.jpg
   caption: David Murray / James Newton Quintet
   background: non_vocal_instrumentalist
   born: '1953-05-01'
@@ -41,55 +42,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - James Newton
-  - John Hicks
-  - Fred Hopkins
-  - Andrew Cyrille
-  - Billy Hart
-  - Oliver Lake, Hamiet Bluiett, John Purcell
+    - James Newton
+    - John Hicks
+    - Fred Hopkins
+    - Andrew Cyrille
+    - Billy Hart
+    - 'Oliver Lake, Hamiet Bluiett, John Purcell'
   influenced:
-  - Eric Person
-  - Patience Higgins, John Purcell
+    - Eric Person
+    - 'Patience Higgins, John Purcell'
   mentors:
-  - John Coltrane
-  - Bobby Bradford
-  - Arthur Blythe
+    - John Coltrane
+    - Bobby Bradford
+    - Arthur Blythe
 related_artists: []
 spotify_data:
   followers: 34
   id: 13ClFXTkv4THIL7i5ex3H2
   popularity: 0
-  url: https://open.spotify.com/artist/13ClFXTkv4THIL7i5ex3H2
+  url: 'https://open.spotify.com/artist/13ClFXTkv4THIL7i5ex3H2'
   verified: false
 discography_enriched: true
 albums_count: 0
 singles_count: 0
 top_tracks:
-- Valerie (David Murray / James Newton Quintet)
-- Moon Over Sand II (David Murray / James Newton Quintet)
-- Muhammad Ali (David Murray / James Newton Quintet)
-- Inbertwinxt (David Murray / James Newton Quintet)
-- Akhenaten (David Murray / James Newton Quintet)
-- Blues in the Pocket (David Murray / James Newton Quintet)
-- Doni's Song (David Murray / James Newton Quintet)
+  - Valerie (David Murray / James Newton Quintet)
+  - Moon Over Sand II (David Murray / James Newton Quintet)
+  - Muhammad Ali (David Murray / James Newton Quintet)
+  - Inbertwinxt (David Murray / James Newton Quintet)
+  - Akhenaten (David Murray / James Newton Quintet)
+  - Blues in the Pocket (David Murray / James Newton Quintet)
+  - Doni's Song (David Murray / James Newton Quintet)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/13ClFXTkv4THIL7i5ex3H2
-  wikipedia: https://en.wikipedia.org/wiki/David_Murray/James_Newton_Quintet
+  spotify: 'https://open.spotify.com/artist/13ClFXTkv4THIL7i5ex3H2'
+  wikipedia: 'https://en.wikipedia.org/wiki/David_Murray/James_Newton_Quintet'
 image_path: null
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:51:31.052526'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- musicianguide.com
-- Wikipedia
-- JazzTimes
+  - musicianguide.com
+  - Wikipedia
+  - JazzTimes
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:41:39.846827
+entry_created: 2025-09-22T21:41:39.846Z
 last_updated: '2025-12-23T08:16:01.691128'
-origin: Berkeley, California, United States
+origin: 'New York City, New York, United States'
+artist_type: person
 ---
 
 ![]()

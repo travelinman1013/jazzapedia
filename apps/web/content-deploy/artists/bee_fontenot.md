@@ -3,15 +3,15 @@ title: Bee Fontenot
 wiki_slug: bee-fontenot
 schema_version: 2
 status: active
-birth_place: Louisiana, United States
+birth_place: 'Louisiana, United States'
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bee_fontenot.jpg
   caption: Bee Fontenot
   background: solo_singer
-  origin: Louisiana, United States
+  origin: 'Louisiana, United States'
 audio_profile:
   tempo_avg: 119.3
   energy_avg: 0.65
@@ -27,38 +27,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Canray Fontenot
+    - Canray Fontenot
   influenced: []
   mentors: []
 spotify_data:
   followers: 65
   id: 4FB0dqekRguIOn5S4SSx0R
   popularity: 0
-  url: https://open.spotify.com/artist/4FB0dqekRguIOn5S4SSx0R
+  url: 'https://open.spotify.com/artist/4FB0dqekRguIOn5S4SSx0R'
 discography_enriched: true
 top_tracks:
-- Pain de maïs (Les haricots sont pas salés (Legendary Masters of Cajun and Creole Music))
-- Pain de mais (Les haricots sont pas salés)
-- La porte de la prison (Les haricots sont pas salés)
-- Make It to Me (Les haricots sont pas salés)
-- La porte de la prison (Les haricots sont pas salés (Legendary Masters of Cajun and Creole Music))
-- Make It to Me (Les haricots sont pas salés (Legendary Masters of Cajun and Creole Music))
-- Chère toutoute (Les haricots sont pas salés (Legendary Masters of Cajun and Creole Music))
-- Chère Toutoute (Les haricots sont pas salés)
+  - >-
+    Pain de maïs (Les haricots sont pas salés (Legendary Masters of Cajun and
+    Creole Music))
+  - Pain de mais (Les haricots sont pas salés)
+  - La porte de la prison (Les haricots sont pas salés)
+  - Make It to Me (Les haricots sont pas salés)
+  - >-
+    La porte de la prison (Les haricots sont pas salés (Legendary Masters of
+    Cajun and Creole Music))
+  - >-
+    Make It to Me (Les haricots sont pas salés (Legendary Masters of Cajun and
+    Creole Music))
+  - >-
+    Chère toutoute (Les haricots sont pas salés (Legendary Masters of Cajun and
+    Creole Music))
+  - Chère Toutoute (Les haricots sont pas salés)
 external_urls:
-  spotify: https://open.spotify.com/artist/4FB0dqekRguIOn5S4SSx0R
+  spotify: 'https://open.spotify.com/artist/4FB0dqekRguIOn5S4SSx0R'
   wikipedia: Not found in search results
 image_path: ''
 biography_enhanced_at: '2025-12-04T08:11:24.180159'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Last.fm - Bee Fontenot music profile
-- Arhoolie Records - Zydeco, The Early Years documentation
-- Center for Louisiana Studies - Rendez-vous des Cajuns archive
+  - Last.fm - Bee Fontenot music profile
+  - 'Arhoolie Records - Zydeco, The Early Years documentation'
+  - Center for Louisiana Studies - Rendez-vous des Cajuns archive
 network_extracted: true
 entry_created: '2025-12-04T08:11:24.180172'
 last_updated: '2025-12-23T08:16:05.189200'
+artist_type: person
 ---
 
 ![]()

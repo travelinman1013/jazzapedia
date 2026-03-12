@@ -5,28 +5,28 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1946-01-19'
-birth_place: Locust Ridge
+birth_place: 'Locust Ridge, Tennessee, United States'
 genres:
-- country
+  - country
 instruments:
-- guitar
-- acoustic guitar
-- lead vocals
-- background vocals
-- spoken vocals
-- vocal
-- other vocals
+  - guitar
+  - acoustic guitar
+  - lead vocals
+  - background vocals
+  - spoken vocals
+  - vocal
+  - other vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 88d0832d-9e62-4ffd-b195-db7c49f4f401
-  name: '♀♀♀♀: The Collaboration'
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d15bd1fc-0f15-44ea-ac6f-86cd7fa4b94d
-  name: The Mighty Fine Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 88d0832d-9e62-4ffd-b195-db7c49f4f401
+    name: '♀♀♀♀: The Collaboration'
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d15bd1fc-0f15-44ea-ac6f-86cd7fa4b94d
+    name: The Mighty Fine Band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/dolly_parton.jpg
   caption: Dolly Parton
@@ -34,7 +34,7 @@ infobox:
   born: '1946-01-19'
   origin: Locust Ridge
 audio_profile:
-  tempo_avg: 128.0
+  tempo_avg: 128
   energy_avg: 0.533
   valence_avg: 0.576
   danceability_avg: 0.577
@@ -48,59 +48,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Porter Wagoner
-  - Kenny Rogers
-  - Linda Ronstadt and Emmylou Harris
+    - Porter Wagoner
+    - Kenny Rogers
+    - Linda Ronstadt and Emmylou Harris
   influenced:
-  - Miley Cyrus
-  - Shania Twain
-  - Kacey Musgraves
+    - Miley Cyrus
+    - Shania Twain
+    - Kacey Musgraves
   mentors:
-  - Bill Owens
-  - Johnny Cash
-  - Porter Wagoner
+    - Bill Owens
+    - Johnny Cash
+    - Porter Wagoner
 spotify_data:
   followers: 2980203
   id: 32vWCbZh0xZ4o9gkz4PsEU
   popularity: 71
-  url: https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU
+  url: 'https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU'
 discography_enriched: true
 top_tracks:
-- 9 to 5 (9 To 5 And Odd Jobs)
-- Please Please Please (feat. Dolly Parton) (Short n' Sweet (Deluxe))
-- Jolene (Jolene)
-- Jolene (Jolene (Expanded Edition))
-- Islands in the Stream (Dolly)
-- Islands in the Stream
-- TYRANT (COWBOY CARTER)
-- Here You Come Again
-- Islands In the Stream
-- There Was Jesus (Rescue Story)
+  - 9 to 5 (9 To 5 And Odd Jobs)
+  - Please Please Please (feat. Dolly Parton) (Short n' Sweet (Deluxe))
+  - Jolene (Jolene)
+  - Jolene (Jolene (Expanded Edition))
+  - Islands in the Stream (Dolly)
+  - Islands in the Stream
+  - TYRANT (COWBOY CARTER)
+  - Here You Come Again
+  - Islands In the Stream
+  - There Was Jesus (Rescue Story)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1d543e07-d0d2-4834-a8db-d65c50c2a856
-  spotify: https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU
-  wikipedia: https://en.wikipedia.org/wiki/Dolly_Parton
+  musicbrainz: 'https://musicbrainz.org/artist/1d543e07-d0d2-4834-a8db-d65c50c2a856'
+  spotify: 'https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dolly_Parton'
 image_path: 03_Resources/source_material/ArtistPortraits/dolly_parton.jpg
 biography_enhanced_at: '2025-11-14T10:50:52.013905'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Dolly_Parton
-- https://www.businessinsider.com/dolly-parton-career-timeline-photos
-- https://www.biography.com/musicians/dolly-parton
-- https://www.britannica.com/biography/Dolly-Parton
-- https://dollyparton.com/about-dolly-parton
-- https://www.countrymusichalloffame.org/artist/dolly-parton
+  - 'https://en.wikipedia.org/wiki/Dolly_Parton'
+  - 'https://www.businessinsider.com/dolly-parton-career-timeline-photos'
+  - 'https://www.biography.com/musicians/dolly-parton'
+  - 'https://www.britannica.com/biography/Dolly-Parton'
+  - 'https://dollyparton.com/about-dolly-parton'
+  - 'https://www.countrymusichalloffame.org/artist/dolly-parton'
 network_extracted: true
 entry_created: '2025-11-14T10:50:52.013914'
 last_updated: '2025-12-23T08:16:07.843284'
 gender: Female
 musicbrainz_id: 1d543e07-d0d2-4834-a8db-d65c50c2a856
 tags:
-- 2008 universal fire victim
-- bluegrass
-- country
-
+  - 2008 universal fire victim
+  - bluegrass
+  - country
 ---
 
 ![](dolly_parton.jpg)

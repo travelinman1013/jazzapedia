@@ -1,12 +1,12 @@
 ---
-title: Eric Krasno, Stanton Moore
+title: 'Eric Krasno, Stanton Moore'
 wiki_slug: eric-krasno-stanton-moore
 schema_version: 2
 status: active
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/eric_krasno_stanton_moore.jpg
-  caption: Eric Krasno, Stanton Moore
+  caption: 'Eric Krasno, Stanton Moore'
   background: solo_singer
 audio_profile:
   tempo_avg: 116.5
@@ -23,51 +23,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Eric Finland
-  - Lettuce
-  - Soulive
-  - Galactic
-  - Garage-a-Trois
+    - Eric Finland
+    - Lettuce
+    - Soulive
+    - Galactic
+    - Garage-a-Trois
   influenced:
-  - Eric Finland
+    - Eric Finland
   mentors:
-  - New Orleans drumming tradition
+    - New Orleans drumming tradition
 spotify_data:
   followers: 24673
   id: 6tQIsqw6DrDfdoPwOrOD6k
   popularity: 41
-  url: https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k
+  url: 'https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k'
 discography_enriched: true
 top_tracks:
-- U Shake Me
-- Bloodshot
-- If Not Soon
-- These Days
-- Swinging for the Fences
-- Ice & Fire (King Canyon)
-- Jezebel - Acoustic
-- Ultimate Beautiful
-- Ice & Fire
-- Givin It Up (King Canyon)
+  - U Shake Me
+  - Bloodshot
+  - If Not Soon
+  - These Days
+  - Swinging for the Fences
+  - Ice & Fire (King Canyon)
+  - Jezebel - Acoustic
+  - Ultimate Beautiful
+  - Ice & Fire
+  - Givin It Up (King Canyon)
 external_urls:
-  spotify: https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k
-  wikipedia: https://en.wikipedia.org/wiki/Stanton_Moore
+  spotify: 'https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k'
+  wikipedia: 'https://en.wikipedia.org/wiki/Stanton_Moore'
 image_path: 03_Resources/source_material/ArtistPortraits/eric_krasno_stanton_moore.jpg
 biography_enhanced_at: '2025-10-31T08:13:10.315167'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.wbgo.org/music/2023-03-20/krasno-moore-project-on-their-book-of-queens-album
-- https://bigfatsnaredrum.com/blogs/bfsd/stanton-moores-galactic-corrosion-of-conformity-krasno-moore-project-top-5-influential-records
-- https://en.wikipedia.org/wiki/Stanton_Moore
-- https://www.knkx.org/studiosessions/2023-04-07/eric-krasno-and-stanton-moore-pay-tribute-to-female-musicians
-- https://www.jazzalley.com/www-home/artist.jsp?shownum=7412
-- https://www.goldminemag.com/columns/natural-funk-projekt/check-out-the-krasno-moore-project-formed-by-former-lettuce-guitarist-eric-krasno-and-galactic-drummer-stanton-moore/
-- https://concordjazz.com/collections/krasno-moore-project
+  - >-
+    https://www.wbgo.org/music/2023-03-20/krasno-moore-project-on-their-book-of-queens-album
+  - >-
+    https://bigfatsnaredrum.com/blogs/bfsd/stanton-moores-galactic-corrosion-of-conformity-krasno-moore-project-top-5-influential-records
+  - 'https://en.wikipedia.org/wiki/Stanton_Moore'
+  - >-
+    https://www.knkx.org/studiosessions/2023-04-07/eric-krasno-and-stanton-moore-pay-tribute-to-female-musicians
+  - 'https://www.jazzalley.com/www-home/artist.jsp?shownum=7412'
+  - >-
+    https://www.goldminemag.com/columns/natural-funk-projekt/check-out-the-krasno-moore-project-formed-by-former-lettuce-guitarist-eric-krasno-and-galactic-drummer-stanton-moore/
+  - 'https://concordjazz.com/collections/krasno-moore-project'
 network_extracted: true
 entry_created: '2025-10-31T08:13:10.315177'
 last_updated: '2025-12-23T08:16:08.412005'
-origin: 'Eric Krasno: New York, USA (origin); Stanton Moore: Metairie, Louisiana, USA (birthplace)'
+origin: >-
+  Eric Krasno: New York, USA (origin); Stanton Moore: Metairie, Louisiana, USA
+  (birthplace)
+birth_place: 'Metairie, Louisiana, United States'
+birth_date: '1972'
+artist_type: person
 ---
 
 ![](eric_krasno_stanton_moore.jpg)

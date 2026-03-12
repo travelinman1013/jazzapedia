@@ -5,19 +5,19 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1927-02-23'
-birth_place: Recife
+birth_place: 'Recife, Pernambuco, Brazil'
 death_date: '2005-01-17'
 genres:
-- samba
-- pagode
+  - samba
+  - pagode
 instruments:
-- lead vocals
+  - lead vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6006f3ee-3848-4bf6-b78b-93413e1cf659
-  name: Moreira, Bezerra e Dicró
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6006f3ee-3848-4bf6-b78b-93413e1cf659
+    name: 'Moreira, Bezerra e Dicró'
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bezerra_da_silva.jpg
   caption: Bezerra da Silva
@@ -31,8 +31,8 @@ audio_profile:
   valence_avg: 0.911
   danceability_avg: 0.686
   acousticness_avg: 0.393
-  instrumentalness_avg: 0.0
-  loudness_avg: -8.0
+  instrumentalness_avg: 0
+  loudness_avg: -8
   speechiness_avg: 0.139
   liveness_avg: 0.19
   track_count: 53
@@ -40,55 +40,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Orquestra Copacabana Discos
-  - Orquestra da TV Globo
-  - Moreira da Silva
-  - Dicró
-  - Planet Hemp
-  - O Rappa
+    - Orquestra Copacabana Discos
+    - Orquestra da TV Globo
+    - Moreira da Silva
+    - Dicró
+    - Planet Hemp
+    - O Rappa
   influenced:
-  - Marcelo D2
-  - Zeca Pagodinho
-  - Dicró
+    - Marcelo D2
+    - Zeca Pagodinho
+    - Dicró
   mentors:
-  - Jackson do Pandeiro
+    - Jackson do Pandeiro
 spotify_data:
   followers: 519795
   id: 3aqtJPuhfwxQ60jG1OAFQt
   popularity: 54
-  url: https://open.spotify.com/artist/3aqtJPuhfwxQ60jG1OAFQt
+  url: 'https://open.spotify.com/artist/3aqtJPuhfwxQ60jG1OAFQt'
 discography_enriched: true
 top_tracks:
-- Malandragem dá um Tempo (Alô Malandragem Maloca o Flagrante)
-- A Semente (Justiça Social)
-- Sequestraram Minha Sogra (Partideiro da Pesada)
-- Defunto Caguete (É Esse Aí Que é o Homem)
-- Bicho Feroz (Malandro Rife)
-- Malandro É Malandro E Mané É Mané (É Só Sucesso Malandro)
-- A Fumaça Já Subiu Pra Cuca (Meu Samba É Duro da Queda)
-- Malandro Não Vacila (Grandes Sucessos de Bezerra da Silva Vol. 2)
-- Quando o Morcego Doar Sangue (Eu Não Sou Santo)
-- Tem Coca Aí Na Geladeira (É Só Sucesso Malandro)
+  - Malandragem dá um Tempo (Alô Malandragem Maloca o Flagrante)
+  - A Semente (Justiça Social)
+  - Sequestraram Minha Sogra (Partideiro da Pesada)
+  - Defunto Caguete (É Esse Aí Que é o Homem)
+  - Bicho Feroz (Malandro Rife)
+  - Malandro É Malandro E Mané É Mané (É Só Sucesso Malandro)
+  - A Fumaça Já Subiu Pra Cuca (Meu Samba É Duro da Queda)
+  - Malandro Não Vacila (Grandes Sucessos de Bezerra da Silva Vol. 2)
+  - Quando o Morcego Doar Sangue (Eu Não Sou Santo)
+  - Tem Coca Aí Na Geladeira (É Só Sucesso Malandro)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2d5347a5-ba26-4116-a8e2-c67c61923538
-  spotify: https://open.spotify.com/artist/3aqtJPuhfwxQ60jG1OAFQt
-  wikipedia: https://en.wikipedia.org/wiki/Bezerra_da_Silva
+  musicbrainz: 'https://musicbrainz.org/artist/2d5347a5-ba26-4116-a8e2-c67c61923538'
+  spotify: 'https://open.spotify.com/artist/3aqtJPuhfwxQ60jG1OAFQt'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bezerra_da_Silva'
 image_path: 03_Resources/source_material/ArtistPortraits/bezerra_da_silva.jpg
 biography_enhanced_at: '2025-11-23T06:28:23.871713'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Bezerra_da_Silva
-- https://pt.wikipedia.org/wiki/Bezerra_da_Silva
-- https://immub.org/artista/bezerra-da-silva
-- https://almanaque.folha.uol.com.br/bezerra.htm
-- https://slipcue.com/music/brazil/bezerra.html
-- https://tinta.spanport.ucsb.edu/sites/default/files/sitefiles/issues/S/BROADUS.pdf
+  - 'https://en.wikipedia.org/wiki/Bezerra_da_Silva'
+  - 'https://pt.wikipedia.org/wiki/Bezerra_da_Silva'
+  - 'https://immub.org/artista/bezerra-da-silva'
+  - 'https://almanaque.folha.uol.com.br/bezerra.htm'
+  - 'https://slipcue.com/music/brazil/bezerra.html'
+  - >-
+    https://tinta.spanport.ucsb.edu/sites/default/files/sitefiles/issues/S/BROADUS.pdf
 network_extracted: true
 entry_created: '2025-11-23T06:28:23.871720'
 last_updated: '2025-12-23T08:16:05.384529'
 gender: Male
 musicbrainz_id: 2d5347a5-ba26-4116-a8e2-c67c61923538
+is_active: false
+origin: 'Rio de Janeiro, Rio de Janeiro, Brazil'
 ---
 
 ![](bezerra_da_silva.jpg)

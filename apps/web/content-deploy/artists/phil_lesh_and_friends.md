@@ -2,16 +2,16 @@
 title: Phil Lesh & Friends
 wiki_slug: phil-lesh-friends
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 birth_date: '1999'
 genres:
-- jam band
+  - jam band
 instruments:
-- keyboard
-- additional
-- lead vocals
-- guitar
+  - keyboard
+  - additional
+  - lead vocals
+  - guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/phil_lesh_and_friends.jpg
   caption: Phil Lesh & Friends
@@ -24,7 +24,7 @@ audio_profile:
   danceability_avg: 0.474
   acousticness_avg: 0.305
   instrumentalness_avg: 0.121
-  loudness_avg: -11.0
+  loudness_avg: -11
   speechiness_avg: 0.045
   liveness_avg: 0.412
   track_count: 45
@@ -32,152 +32,158 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Warren Haynes
-  - Trey Anastasio
-  - Larry Campbell
-  - Joan Osborne
-  - Rob Barraco
-  - John Molo
-  - Derek Trucks
-  - Bill Payne
-  - Paul Barrere
-  - Jimmy Herring
-  - Steve Kimock
-  - John Scofield
-  - Barry Sless
-  - Teresa Williams
-  - Jackie Greene
-  - Steve Molitz
+    - Warren Haynes
+    - Trey Anastasio
+    - Larry Campbell
+    - Joan Osborne
+    - Rob Barraco
+    - John Molo
+    - Derek Trucks
+    - Bill Payne
+    - Paul Barrere
+    - Jimmy Herring
+    - Steve Kimock
+    - John Scofield
+    - Barry Sless
+    - Teresa Williams
+    - Jackie Greene
+    - Steve Molitz
   influenced:
-  - Members of Phish
-  - Members of The String Cheese Incident
-  - Members of Moe
+    - Members of Phish
+    - Members of The String Cheese Incident
+    - Members of Moe
   mentors:
-  - Jerry Garcia
-  - Charles Ives
+    - Jerry Garcia
+    - Charles Ives
 spotify_data:
   followers: 54677
   id: 0cYoU0s24ehE9gPplU6v7J
   popularity: 17
-  url: https://open.spotify.com/artist/0cYoU0s24ehE9gPplU6v7J
+  url: 'https://open.spotify.com/artist/0cYoU0s24ehE9gPplU6v7J'
 discography_enriched: true
 top_tracks:
-- Liberty (There and Back Again)
-- St Stephen (feat. The Derek Trucks Band) - Live Version (There and Back Again)
-- Night of a Thousand Stars (feat. Warren Haynes) (There and Back Again)
-- No More Do I (There and Back Again)
-- 'Tennessee Jed (Warren Haynes Presents: The Benefit Concert Vol. 3)'
-- Patchwork Quilt (There and Back Again)
-- Midnight Train (There and Back Again)
-- Passenger (There and Back Again)
-- The Real Thing (feat. Warren Haynes) (There and Back Again)
-- Celebration (There and Back Again)
+  - Liberty (There and Back Again)
+  - >-
+    St Stephen (feat. The Derek Trucks Band) - Live Version (There and Back
+    Again)
+  - Night of a Thousand Stars (feat. Warren Haynes) (There and Back Again)
+  - No More Do I (There and Back Again)
+  - 'Tennessee Jed (Warren Haynes Presents: The Benefit Concert Vol. 3)'
+  - Patchwork Quilt (There and Back Again)
+  - Midnight Train (There and Back Again)
+  - Passenger (There and Back Again)
+  - The Real Thing (feat. Warren Haynes) (There and Back Again)
+  - Celebration (There and Back Again)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ffb7c323-5113-4bb0-a5f7-5b657eec4083
-  spotify: https://open.spotify.com/artist/0cYoU0s24ehE9gPplU6v7J
-  wikipedia: https://en.wikipedia.org/wiki/Phil_Lesh_and_Friends
+  musicbrainz: 'https://musicbrainz.org/artist/ffb7c323-5113-4bb0-a5f7-5b657eec4083'
+  spotify: 'https://open.spotify.com/artist/0cYoU0s24ehE9gPplU6v7J'
+  wikipedia: 'https://en.wikipedia.org/wiki/Phil_Lesh_and_Friends'
 image_path: 03_Resources/source_material/ArtistPortraits/phil_lesh_and_friends.jpg
 biography_enhanced_at: '2025-11-21T07:27:31.526049'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Phil_Lesh_and_Friends
-- https://en.wikipedia.org/wiki/Phil_Lesh
-- https://www.trippingdelightfantastic.com/home/how-phil-lesh-became-phil-lesh-1
-- http://www.philzone.com/leshlinks/phil-lesh-bio.html
-- https://www.yourclassical.org/story/2024/10/25/npr-phil-lesh-grateful-dead-dies
-- https://wblm.com/remembereing-phil-lesh-final-maine-concert/
-- https://www.goldminemag.com/music-history/the-importance-of-phil-lesh-to-the-grateful-dead-legacy/
-- https://www.phillesh.net
-- https://www.culturesonar.com/phil-lesh-a-life-full-of-surprises/
+  - 'https://en.wikipedia.org/wiki/Phil_Lesh_and_Friends'
+  - 'https://en.wikipedia.org/wiki/Phil_Lesh'
+  - >-
+    https://www.trippingdelightfantastic.com/home/how-phil-lesh-became-phil-lesh-1
+  - 'http://www.philzone.com/leshlinks/phil-lesh-bio.html'
+  - >-
+    https://www.yourclassical.org/story/2024/10/25/npr-phil-lesh-grateful-dead-dies
+  - 'https://wblm.com/remembereing-phil-lesh-final-maine-concert/'
+  - >-
+    https://www.goldminemag.com/music-history/the-importance-of-phil-lesh-to-the-grateful-dead-legacy/
+  - 'https://www.phillesh.net'
+  - 'https://www.culturesonar.com/phil-lesh-a-life-full-of-surprises/'
 network_extracted: true
 entry_created: '2025-11-21T07:27:31.526062'
 last_updated: '2025-12-23T08:16:14.254032'
 members:
-- begin: '2000'
-  end: '2003'
-  instruments:
-  - keyboard
-  mbid: 0e7d65cf-8dd3-4e67-88cf-c9411ba7c68e
-  name: Rob Barraco
-- begin: ''
-  end: ''
-  instruments:
-  - additional
-  mbid: c80f38a6-9980-485d-997c-5c1a9cbd0d64
-  name: Ryan Adams
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d92a2f4d-adae-424c-aab2-3d089e569da6
-  name: Larry Campbell
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4b3b9c7e-c32e-4e62-bbdb-d2e8aaffe66e
-  name: Warren Haynes
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b1aa7d83-d9b8-4f1c-9de8-07dde1a5fc8a
-  name: Jimmy Herring
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: 24b409b0-451f-4af7-bda3-87ff90dc85e1
-  name: Grahame Lesh
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: 24b409b0-451f-4af7-bda3-87ff90dc85e1
-  name: Grahame Lesh
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ea3d1341-bb3c-4784-bbf6-f71ebfd17e46
-  name: Phil Lesh
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ba044149-5d13-43f5-b2ac-a3840f26f11c
-  name: Page McConnell
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b4606fd5-c316-4306-b511-c3bc5c057d64
-  name: Steve Molitz
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 895ec203-cfd2-49b2-843d-d7ad871a31ed
-  name: John Molo
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 746916c9-fd36-44e6-823d-03185e596f58
-  name: Joan Osborne
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bbef05c0-ec64-46df-b7af-08c85d96da39
-  name: Greg Osby
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c94e70a2-c16f-48fa-90ac-884378540f01
-  name: Chris Robinson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6e758ae4-88ee-44e0-b20c-e267cb60e43b
-  name: Barry Sless
+  - begin: '2000'
+    end: '2003'
+    instruments:
+      - keyboard
+    mbid: 0e7d65cf-8dd3-4e67-88cf-c9411ba7c68e
+    name: Rob Barraco
+  - begin: ''
+    end: ''
+    instruments:
+      - additional
+    mbid: c80f38a6-9980-485d-997c-5c1a9cbd0d64
+    name: Ryan Adams
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d92a2f4d-adae-424c-aab2-3d089e569da6
+    name: Larry Campbell
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4b3b9c7e-c32e-4e62-bbdb-d2e8aaffe66e
+    name: Warren Haynes
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b1aa7d83-d9b8-4f1c-9de8-07dde1a5fc8a
+    name: Jimmy Herring
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: 24b409b0-451f-4af7-bda3-87ff90dc85e1
+    name: Grahame Lesh
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 24b409b0-451f-4af7-bda3-87ff90dc85e1
+    name: Grahame Lesh
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ea3d1341-bb3c-4784-bbf6-f71ebfd17e46
+    name: Phil Lesh
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ba044149-5d13-43f5-b2ac-a3840f26f11c
+    name: Page McConnell
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b4606fd5-c316-4306-b511-c3bc5c057d64
+    name: Steve Molitz
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 895ec203-cfd2-49b2-843d-d7ad871a31ed
+    name: John Molo
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 746916c9-fd36-44e6-823d-03185e596f58
+    name: Joan Osborne
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bbef05c0-ec64-46df-b7af-08c85d96da39
+    name: Greg Osby
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c94e70a2-c16f-48fa-90ac-884378540f01
+    name: Chris Robinson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6e758ae4-88ee-44e0-b20c-e267cb60e43b
+    name: Barry Sless
 musicbrainz_id: ffb7c323-5113-4bb0-a5f7-5b657eec4083
-origin: San Francisco
+origin: 'San Francisco, California, United States'
 tags:
-- jam band
-- proper group
+  - jam band
+  - proper group
+death_date: '2024-10-29'
 ---
 
 ![](phil_lesh_and_friends.jpg)

@@ -1,31 +1,35 @@
 ---
 biography_enhanced_at: '2026-01-06T02:11:11.627657'
-birth_place: Rawls Springs, Forrest County, Mississippi, USA
+birth_place: 'Rawls Springs, Forrest County, Mississippi, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-06T02:11:11.627663'
 external_urls:
-  spotify: https://open.spotify.com/artist/390k5STk9BZ5aakJZOHL23
-  wikipedia: https://en.wikipedia.org/wiki/Mercy_Baby
+  spotify: 'https://open.spotify.com/artist/390k5STk9BZ5aakJZOHL23'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mercy_Baby'
 genres: []
 image_path: ''
 last_updated: '2026-01-06T02:11:11.627664'
 musical_connections:
   collaborators:
-  - Frankie Lee Sims
+    - Frankie Lee Sims
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Mercy_Baby
-- https://www.allmusic.com/artist/mercy-baby-mn0000409379
+  - 'https://en.wikipedia.org/wiki/Mercy_Baby'
+  - 'https://www.allmusic.com/artist/mercy-baby-mn0000409379'
 spotify_data:
   followers: 25
   id: 390k5STk9BZ5aakJZOHL23
   popularity: 0
-  url: https://open.spotify.com/artist/390k5STk9BZ5aakJZOHL23
+  url: 'https://open.spotify.com/artist/390k5STk9BZ5aakJZOHL23'
 status: active
 title: Mercy Baby
+origin: 'Dallas, Texas, United States'
+birth_date: '1930-03-12'
+death_date: '1977-09-10'
+artist_type: person
 ---
 
 ![]()

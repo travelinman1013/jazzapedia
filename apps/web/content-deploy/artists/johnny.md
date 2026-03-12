@@ -29,33 +29,34 @@ spotify_data:
   followers: 319359
   id: 7qX6R9NU7sWD66KLlYKnju
   popularity: 54
-  url: https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju
+  url: 'https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju'
 discography_enriched: true
 top_tracks:
-- HELL ON ME (HELL ON ME)
-- LEFT OF ME (LEFT OF ME)
-- SAVIOR (SAVIOR)
-- MISS YOU TONIGHT (MISS YOU TONIGHT)
-- HELL ON ME (SAVIOR)
-- GOOD AS YOU (GOOD AS YOU)
-- The One That Was Meant for Me (The One That Was Meant for Me)
-- WHEN THE NIGHT ENDS (WHEN THE NIGHT ENDS)
-- Hallelujah (Hallelujah)
-- Cheater (Cheater)
+  - HELL ON ME (HELL ON ME)
+  - LEFT OF ME (LEFT OF ME)
+  - SAVIOR (SAVIOR)
+  - MISS YOU TONIGHT (MISS YOU TONIGHT)
+  - HELL ON ME (SAVIOR)
+  - GOOD AS YOU (GOOD AS YOU)
+  - The One That Was Meant for Me (The One That Was Meant for Me)
+  - WHEN THE NIGHT ENDS (WHEN THE NIGHT ENDS)
+  - Hallelujah (Hallelujah)
+  - Cheater (Cheater)
 external_urls:
-  spotify: https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju
+  spotify: 'https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/johnny.jpg
 biography_enhanced_at: '2025-11-05T12:52:21.040227'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Johnny_Cash
-- https://johnnymathis.com/wp2/index.php/bio/
-- https://en.wikipedia.org/wiki/Johnny_Rebel_(musician)
+  - 'https://en.wikipedia.org/wiki/Johnny_Cash'
+  - 'https://johnnymathis.com/wp2/index.php/bio/'
+  - 'https://en.wikipedia.org/wiki/Johnny_Rebel_(musician)'
 network_extracted: true
 entry_created: '2025-11-05T12:52:21.040249'
 last_updated: '2025-12-23T08:16:10.818805'
+artist_type: person
 ---
 
 ![](johnny.jpg)

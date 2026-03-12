@@ -3,20 +3,20 @@ title: JP Cooper
 wiki_slug: jp-cooper
 schema_version: 2
 status: active
-birth_place: Middleton, Greater Manchester, England
+birth_place: 'Middleton, Greater Manchester, England'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jp_cooper.jpg
   caption: JP Cooper
   background: solo_singer
-  origin: Middleton, Greater Manchester, England
+  origin: 'Middleton, Greater Manchester, England'
 audio_profile:
   tempo_avg: 110.4
   energy_avg: 0.579
   valence_avg: 0.426
   danceability_avg: 0.583
   acousticness_avg: 0.368
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -6.6
   speechiness_avg: 0.07
   liveness_avg: 0.169
@@ -25,49 +25,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jonas Blue
-  - Craig David
-  - Gabrielle Aplin
-  - Stefflon Don
-  - Avelino
-  - Mali-Koa Hood
-  - Don Diablo
+    - Jonas Blue
+    - Craig David
+    - Gabrielle Aplin
+    - Stefflon Don
+    - Avelino
+    - Mali-Koa Hood
+    - Don Diablo
   influenced: []
   mentors:
-  - Wayne
+    - Wayne
 spotify_data:
   followers: 946671
   id: 4kYGAK2zu9EAomwj3hXkXy
   popularity: 65
-  url: https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy
+  url: 'https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy'
 discography_enriched: true
 top_tracks:
-- Perfect Strangers (Blue)
-- September Song (Raised Under Grey Skies (Deluxe))
-- September Song - Guitar Acoustic (Raised Under Grey Skies (Deluxe))
-- Sing It With Me (She)
-- Losing Me (Dear Happy)
-- All This Love (Raised Under Grey Skies (Deluxe))
-- She's On My Mind (Raised Under Grey Skies (Deluxe))
-- Let It Be
-- The Only Reason (Raised Under Grey Skies (Deluxe))
-- Ordinary People (feat. JP Cooper) (B. Inspired)
+  - Perfect Strangers (Blue)
+  - September Song (Raised Under Grey Skies (Deluxe))
+  - September Song - Guitar Acoustic (Raised Under Grey Skies (Deluxe))
+  - Sing It With Me (She)
+  - Losing Me (Dear Happy)
+  - All This Love (Raised Under Grey Skies (Deluxe))
+  - She's On My Mind (Raised Under Grey Skies (Deluxe))
+  - Let It Be
+  - The Only Reason (Raised Under Grey Skies (Deluxe))
+  - Ordinary People (feat. JP Cooper) (B. Inspired)
 external_urls:
-  spotify: https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy
-  wikipedia: https://en.wikipedia.org/wiki/JP_Cooper
+  spotify: 'https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy'
+  wikipedia: 'https://en.wikipedia.org/wiki/JP_Cooper'
 image_path: 03_Resources/source_material/ArtistPortraits/jp_cooper.jpg
 biography_enhanced_at: '2025-12-15T01:40:39.472527'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/JP_Cooper
-- https://www.last.fm/music/JP+Cooper/+wiki
-- https://www.rncm.ac.uk/people/jp-cooper/
-- https://www.vestalmag.com/jp-cooper
-- https://www.mlb.com/tigers/video/artist-profile-jp-cooper-c1390452983
+  - 'https://en.wikipedia.org/wiki/JP_Cooper'
+  - 'https://www.last.fm/music/JP+Cooper/+wiki'
+  - 'https://www.rncm.ac.uk/people/jp-cooper/'
+  - 'https://www.vestalmag.com/jp-cooper'
+  - 'https://www.mlb.com/tigers/video/artist-profile-jp-cooper-c1390452983'
 network_extracted: true
 entry_created: '2025-12-15T01:40:39.472542'
 last_updated: '2025-12-23T08:16:11.016714'
+birth_date: '1983-11-01'
+artist_type: person
 ---
 
 ![](jp_cooper.jpg)

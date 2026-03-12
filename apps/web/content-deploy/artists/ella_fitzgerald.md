@@ -1,25 +1,25 @@
 ---
-title: ella fitzgerald
+title: Ella Fitzgerald
 wiki_slug: ella-fitzgerald
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1917-04-25'
-birth_place: Newport News, Virginia, United States
+birth_place: 'Newport News, Virginia, United States'
 death_date: '1996-06-15'
 genres:
-- vocal jazz
-- jazz
-- swing music
-- jazz blues
-- big band
-- christmas
+  - vocal jazz
+  - jazz
+  - swing music
+  - jazz blues
+  - big band
+  - christmas
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ella_fitzgerald.jpg
   caption: ella fitzgerald
   background: solo_singer
   born: '1917-04-25'
-  origin: Newport News, Virginia, United States
+  origin: 'Newport News, Virginia, United States'
   died: '1996-06-15'
 audio_profile:
   tempo_avg: 105.4
@@ -36,50 +36,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Louis Armstrong
-  - Duke Ellington
-  - The Ink Spots
-  - Norman Granz
+    - Louis Armstrong
+    - Duke Ellington
+    - The Ink Spots
+    - Norman Granz
   influenced:
-  - Aretha Franklin
-  - Diana Krall
-  - Natalie Cole
+    - Aretha Franklin
+    - Diana Krall
+    - Natalie Cole
   mentors:
-  - Chick Webb
-  - Louis Armstrong
+    - Chick Webb
+    - Louis Armstrong
 spotify_data:
   followers: 2721525
   id: 5V0MlUE1Bft0mbLlND7FJz
   popularity: 66
-  url: https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz
+  url: 'https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz'
 discography_enriched: true
 top_tracks:
-- Dream A Little Dream Of Me - Single Version
-- Summertime (Porgy And Bess)
-- Cheek To Cheek (Ella and Louis)
-- Cheek To Cheek
-- They Can't Take That Away From Me (Ella and Louis)
-- I've Got A Crush On You (Ella Sings Gershwin)
-- Into Each Life Some Rain Must Fall - Single Version
-- Autumn In New York (Ella And Louis Again)
-- Blue Skies (Get Happy! (Expanded Edition))
-- It's Only A Paper Moon (The War Years (1941-1947))
+  - Dream A Little Dream Of Me - Single Version
+  - Summertime (Porgy And Bess)
+  - Cheek To Cheek (Ella and Louis)
+  - Cheek To Cheek
+  - They Can't Take That Away From Me (Ella and Louis)
+  - I've Got A Crush On You (Ella Sings Gershwin)
+  - Into Each Life Some Rain Must Fall - Single Version
+  - Autumn In New York (Ella And Louis Again)
+  - Blue Skies (Get Happy! (Expanded Edition))
+  - It's Only A Paper Moon (The War Years (1941-1947))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/54799c0e-eb45-4eea-996d-c4d71a63c499
-  spotify: https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz
-  wikipedia: https://en.wikipedia.org/wiki/Ella_Fitzgerald
+  musicbrainz: 'https://musicbrainz.org/artist/54799c0e-eb45-4eea-996d-c4d71a63c499'
+  spotify: 'https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ella_Fitzgerald'
 image_path: 03_Resources/source_material/ArtistPortraits/ella_fitzgerald.jpg
 biography_enhanced_at: '2025-10-19T11:52:23.579603'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Ella_Fitzgerald
-- https://www.biography.com/musicians/ella-fitzgerald
-- https://www.arts.gov/honors/jazz/ella-fitzgerald
-- https://www.womenshistory.org/education-resources/biographies/ella-fitzgerald
-- https://www.britannica.com/biography/Ella-Fitzgerald
-- https://www.ellafitzgerald.com
-- https://houstonsymphony.org/ella-fitzgerald/
+  - 'https://en.wikipedia.org/wiki/Ella_Fitzgerald'
+  - 'https://www.biography.com/musicians/ella-fitzgerald'
+  - 'https://www.arts.gov/honors/jazz/ella-fitzgerald'
+  - >-
+    https://www.womenshistory.org/education-resources/biographies/ella-fitzgerald
+  - 'https://www.britannica.com/biography/Ella-Fitzgerald'
+  - 'https://www.ellafitzgerald.com'
+  - 'https://houstonsymphony.org/ella-fitzgerald/'
 network_extracted: true
 entry_created: '2025-10-19T11:52:23.579609'
 last_updated: '2025-12-23T08:16:08.312288'
@@ -88,9 +89,10 @@ gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:52:00.399995'
 musicbrainz_id: 54799c0e-eb45-4eea-996d-c4d71a63c499
 tags:
-- 2008 universal fire victim
-- aln-sh
-- big band
+  - 2008 universal fire victim
+  - aln-sh
+  - big band
+is_active: false
 ---
 
 ![](ella_fitzgerald.jpg)

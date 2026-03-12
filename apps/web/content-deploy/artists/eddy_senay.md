@@ -2,40 +2,41 @@
 artist_type: person
 biography_enhanced_at: '2026-01-18T07:54:12.429545'
 birth_date: '1944'
-birth_place: Chambers County
+birth_place: 'Lanett, Alabama, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-18T07:54:12.429551'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/91921030-8ab1-455e-b6b0-59780b26ed78
-  spotify: https://open.spotify.com/artist/0ZXNDyTvsG3rFyDKQVxDBA
+  musicbrainz: 'https://musicbrainz.org/artist/91921030-8ab1-455e-b6b0-59780b26ed78'
+  spotify: 'https://open.spotify.com/artist/0ZXNDyTvsG3rFyDKQVxDBA'
   wikipedia: ''
 gender: Male
 genres:
-- soul jazz
-- jazz funk
+  - soul jazz
+  - jazz funk
 image_path: 03_Resources/source_material/ArtistPortraits/eddy_senay.jpg
 last_updated: '2026-01-18T07:54:12.429552'
 musical_connections:
   collaborators: []
   influenced: []
   mentors:
-  - Otis Redding
-  - Little Richard
-  - Sam Cooke
+    - Otis Redding
+    - Little Richard
+    - Sam Cooke
 musicbrainz_id: 91921030-8ab1-455e-b6b0-59780b26ed78
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.soundsvisualradio.com/podcast/sounds-visual-radio-episode-65-eddy-senay/
-- https://www.kmhd.org/article/2025/02/10/sounds-visual-radio-eddie-senay/
-- https://www.last.fm/music/Eddy+Senay
-- https://www.jazzmusicarchives.com/artist/eddy-senay
-- https://www.bear-family.com/senay-eddy-hot-thang-cd.html
+  - >-
+    https://www.soundsvisualradio.com/podcast/sounds-visual-radio-episode-65-eddy-senay/
+  - 'https://www.kmhd.org/article/2025/02/10/sounds-visual-radio-eddie-senay/'
+  - 'https://www.last.fm/music/Eddy+Senay'
+  - 'https://www.jazzmusicarchives.com/artist/eddy-senay'
+  - 'https://www.bear-family.com/senay-eddy-hot-thang-cd.html'
 spotify_data:
   followers: 1109
   id: 0ZXNDyTvsG3rFyDKQVxDBA
   popularity: 6
-  url: https://open.spotify.com/artist/0ZXNDyTvsG3rFyDKQVxDBA
+  url: 'https://open.spotify.com/artist/0ZXNDyTvsG3rFyDKQVxDBA'
 status: active
 title: Eddy Senay
 ---

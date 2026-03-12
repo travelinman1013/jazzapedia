@@ -1,44 +1,45 @@
 ---
 biography_enhanced_at: '2026-01-02T01:20:39.956885'
-birth_place: Covington, Tennessee, USA
+birth_place: 'Covington, Tennessee, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-02T01:20:39.956890'
 external_urls:
-  spotify: https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E
-  wikipedia: https://en.wikipedia.org/wiki/Isaac_Hayes
+  spotify: 'https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E'
+  wikipedia: 'https://en.wikipedia.org/wiki/Isaac_Hayes'
 genres:
-- soul
+  - soul
 image_path: 03_Resources/source_material/ArtistPortraits/issac_hayes.jpg
 last_updated: '2026-01-02T01:20:39.956891'
 musical_connections:
   collaborators:
-  - David Porter
-  - Sam & Dave (Sam Moore and Dave Prater)
-  - Bar-Kays
-  - Memphis Symphony
+    - David Porter
+    - Sam & Dave (Sam Moore and Dave Prater)
+    - Bar-Kays
+    - Memphis Symphony
   influenced:
-  - Curtis Mayfield
-  - Norman Whitfield
+    - Curtis Mayfield
+    - Norman Whitfield
   mentors:
-  - None explicitly documented
+    - None explicitly documented
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://concord.com/artist/isaac-hayes/
-- https://www.britannica.com/biography/Isaac-Hayes
-- https://staxrecords.com/artist/isaac-hayes/
-- https://www.umusicpub.com/us/Artists/I/Isaac-Hayes.aspx
-- https://www.thehistorymakers.org/biography/isaac-hayes-39
-- https://memphismusichalloffame.com/inductee/isaachayes/
-- https://crimereads.com/isaac-hayes-life-art/
+  - 'https://concord.com/artist/isaac-hayes/'
+  - 'https://www.britannica.com/biography/Isaac-Hayes'
+  - 'https://staxrecords.com/artist/isaac-hayes/'
+  - 'https://www.umusicpub.com/us/Artists/I/Isaac-Hayes.aspx'
+  - 'https://www.thehistorymakers.org/biography/isaac-hayes-39'
+  - 'https://memphismusichalloffame.com/inductee/isaachayes/'
+  - 'https://crimereads.com/isaac-hayes-life-art/'
 spotify_data:
   followers: 757309
   id: 3IKV7o6WPphDB7cCWXaG3E
   popularity: 51
-  url: https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E
+  url: 'https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E'
 status: active
-title: ISSAC HAYES
-
+title: Issac Hayes
+birth_date: '1942-08-20'
+artist_type: person
 ---
 
 ![](issac_hayes.jpg)

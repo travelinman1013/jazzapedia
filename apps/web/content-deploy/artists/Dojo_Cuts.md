@@ -2,17 +2,17 @@
 title: Dojo Cuts
 wiki_slug: dojo-cuts
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 birth_date: '2008'
 genres:
-- retro soul
+  - retro soul
 instruments:
-- guitar
-- tenor saxophone
-- bass guitar
-- lead vocals
-- baritone saxophone
+  - guitar
+  - tenor saxophone
+  - bass guitar
+  - lead vocals
+  - baritone saxophone
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Dojo_Cuts.jpg
   caption: Dojo Cuts
@@ -33,53 +33,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Roxie Ray
-  - Band Members (Andrew Samuel, Matt Lamb, Jimi Polar, Nathan Aust, Ken Allars, Mike Gordon, Andrew Symons)
-  - The Liberators
-  - Milano Jazz-Dance Combo, Lack Of Afro, Ray Lugo's L.E.S Express, The Underbelly
+    - Roxie Ray
+    - >-
+      Band Members (Andrew Samuel, Matt Lamb, Jimi Polar, Nathan Aust, Ken
+      Allars, Mike Gordon, Andrew Symons)
+    - The Liberators
+    - >-
+      Milano Jazz-Dance Combo, Lack Of Afro, Ray Lugo's L.E.S Express, The
+      Underbelly
   influenced:
-  - Australian retro soul and funk acts (general)
+    - Australian retro soul and funk acts (general)
   mentors:
-  - The Bamboos
-  - Cookin’ On 3 Burners
-  - Classic 60s/70s Soul Artists
+    - The Bamboos
+    - Cookin’ On 3 Burners
+    - Classic 60s/70s Soul Artists
 spotify_data:
   followers: 91199
   id: 0Vd8YQz8TYk2vSKEYVvIgL
   popularity: 55
-  url: https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL
+  url: 'https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL'
 discography_enriched: true
 top_tracks:
-- Rome (Tomorrow's Gonna Come)
-- Easy to Come Home (Take from Me)
-- Ain't Got No Reason (Ain't Got No Reason)
-- I Got You (I Got You)
-- Say My Name (Say My Name)
-- Let's Duet (Let's Duet)
-- The Scene (The Scene)
-- Rewind (Rewind)
-- Falling in Love Again (Tomorrow's Gonna Come)
-- Peace of Mind
+  - Rome (Tomorrow's Gonna Come)
+  - Easy to Come Home (Take from Me)
+  - Ain't Got No Reason (Ain't Got No Reason)
+  - I Got You (I Got You)
+  - Say My Name (Say My Name)
+  - Let's Duet (Let's Duet)
+  - The Scene (The Scene)
+  - Rewind (Rewind)
+  - Falling in Love Again (Tomorrow's Gonna Come)
+  - Peace of Mind
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/99e4facd-c7db-4c18-b5ce-c39ad866d709
-  spotify: https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL
+  musicbrainz: 'https://musicbrainz.org/artist/99e4facd-c7db-4c18-b5ce-c39ad866d709'
+  spotify: 'https://open.spotify.com/artist/0Vd8YQz8TYk2vSKEYVvIgL'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/Dojo_Cuts.jpg
 biography_enhanced_at: '2025-10-19T11:58:52.784223'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Dojo+Cuts/+wiki
-- https://www.marmosetmusic.com/artists/dojo-cuts
-- https://recordkicks.com/artist/dojo-cuts/
-- https://musicformodernliving.com/2023/03/04/dojo-cuts-aint-got-no-reason/
-- https://www.tracklib.com/music/artists/dojo-cuts
+  - 'https://www.last.fm/music/Dojo+Cuts/+wiki'
+  - 'https://www.marmosetmusic.com/artists/dojo-cuts'
+  - 'https://recordkicks.com/artist/dojo-cuts/'
+  - 'https://musicformodernliving.com/2023/03/04/dojo-cuts-aint-got-no-reason/'
+  - 'https://www.tracklib.com/music/artists/dojo-cuts'
 network_extracted: true
 entry_created: '2025-10-19T11:58:52.784227'
 last_updated: '2025-12-23T08:16:01.747807'
 musicbrainz_enriched_at: '2025-10-21T09:24:31.470372'
 musicbrainz_id: 99e4facd-c7db-4c18-b5ce-c39ad866d709
-origin: Sydney, New South Wales, Australia
+origin: 'Sydney, New South Wales, Australia'
 ---
 
 ![](Dojo_Cuts.jpg)

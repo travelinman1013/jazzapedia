@@ -5,50 +5,50 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1970-12-03'
-birth_place: Woodstock
+birth_place: 'Woodstock, New York, United States'
 genres:
-- americana
-- modern blues
+  - americana
+  - modern blues
 instruments:
-- lead vocals
-- guitar
-- piano
-- background vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - lead vocals
-  mbid: 7717b3da-9d32-4a12-8725-ae547b1693ec
-  name: The All Star Band
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: 8ef94e35-a6ad-45fe-bd90-c2ea28900928
-  name: The Levon Helm Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c9a85f84-f794-4c6d-b651-d6b079e889dd
-  name: Ollabelle
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e60eadec-fb9a-4c0a-ae7a-77c7096ceb60
-  name: Sisters of the Strawberry Moon
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: 7c0bea76-25c3-4536-b777-830fe8b28693
-  name: Songs Of Our Own
-- begin: ''
-  end: ''
-  instruments:
   - guitar
-  mbid: 7c0bea76-25c3-4536-b777-830fe8b28693
-  name: Songs Of Our Own
+  - piano
+  - background vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: 7717b3da-9d32-4a12-8725-ae547b1693ec
+    name: The All Star Band
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: 8ef94e35-a6ad-45fe-bd90-c2ea28900928
+    name: The Levon Helm Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c9a85f84-f794-4c6d-b651-d6b079e889dd
+    name: Ollabelle
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e60eadec-fb9a-4c0a-ae7a-77c7096ceb60
+    name: Sisters of the Strawberry Moon
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: 7c0bea76-25c3-4536-b777-830fe8b28693
+    name: Songs Of Our Own
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 7c0bea76-25c3-4536-b777-830fe8b28693
+    name: Songs Of Our Own
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/amy_helm.jpg
   caption: Amy Helm
@@ -62,7 +62,7 @@ audio_profile:
   danceability_avg: 0.532
   acousticness_avg: 0.562
   instrumentalness_avg: 0.007
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.048
   liveness_avg: 0.205
   track_count: 50
@@ -70,48 +70,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ollabelle
-  - Midnight Ramble Band
-  - Larry Campbell
-  - Teresa Williams
-  - Joe Henry
+    - Ollabelle
+    - Midnight Ramble Band
+    - Larry Campbell
+    - Teresa Williams
+    - Joe Henry
   influenced:
-  - Members of Ollabelle and Midnight Ramble Band
+    - Members of Ollabelle and Midnight Ramble Band
   mentors:
-  - Levon Helm
-  - Libby Titus
-  - Donald Fagen
+    - Levon Helm
+    - Libby Titus
+    - Donald Fagen
 spotify_data:
   followers: 8956
   id: 4LBsb3buEAjllAzNraGYtU
   popularity: 28
-  url: https://open.spotify.com/artist/4LBsb3buEAjllAzNraGYtU
+  url: 'https://open.spotify.com/artist/4LBsb3buEAjllAzNraGYtU'
 discography_enriched: true
 top_tracks:
-- Like A Songbird That Has Fallen (Solstice)
-- Rescue Me (Didn't It Rain)
-- Something To Lose (Halfway Home By Morning)
-- Something To Lose (Halfway Home By Morning)
-- Breathing (What the Flood Leaves Behind)
-- Something to Lose - feat. Amy Helm (Halfway Home by Morning)
-- This Too Shall Light (This Too Shall Light)
-- Mandolin Wind (This Too Shall Light)
-- Money On 7 (Silver City)
-- Twilight (Twilights)
+  - Like A Songbird That Has Fallen (Solstice)
+  - Rescue Me (Didn't It Rain)
+  - Something To Lose (Halfway Home By Morning)
+  - Something To Lose (Halfway Home By Morning)
+  - Breathing (What the Flood Leaves Behind)
+  - Something to Lose - feat. Amy Helm (Halfway Home by Morning)
+  - This Too Shall Light (This Too Shall Light)
+  - Mandolin Wind (This Too Shall Light)
+  - Money On 7 (Silver City)
+  - Twilight (Twilights)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/34a977be-ef17-4ab9-b34d-959a89e7e534
-  spotify: https://open.spotify.com/artist/4LBsb3buEAjllAzNraGYtU
-  wikipedia: https://en.wikipedia.org/wiki/Amy_Helm
+  musicbrainz: 'https://musicbrainz.org/artist/34a977be-ef17-4ab9-b34d-959a89e7e534'
+  spotify: 'https://open.spotify.com/artist/4LBsb3buEAjllAzNraGYtU'
+  wikipedia: 'https://en.wikipedia.org/wiki/Amy_Helm'
 image_path: 03_Resources/source_material/ArtistPortraits/amy_helm.jpg
 biography_enhanced_at: '2025-10-26T12:40:14.389388'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Relix (relix.com)
-- Amy Helm official site (amyhelm.com)
-- All Eyes Media (alleyesmedia.com)
-- Listen Here Denver (listenheredenver.com)
-- Inside and Out Upstate NY (insideandoutupstateny.com)
+  - Relix (relix.com)
+  - Amy Helm official site (amyhelm.com)
+  - All Eyes Media (alleyesmedia.com)
+  - Listen Here Denver (listenheredenver.com)
+  - Inside and Out Upstate NY (insideandoutupstateny.com)
 network_extracted: true
 entry_created: '2025-10-26T12:40:14.389398'
 last_updated: '2025-12-23T08:16:04.731284'

@@ -4,9 +4,9 @@ wiki_slug: the-heliocentrics
 schema_version: 2
 status: active
 genres:
-- afrobeat
-- ethiopian jazz
-- nu jazz
+  - afrobeat
+  - ethiopian jazz
+  - nu jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_heliocentrics.jpg
   caption: The Heliocentrics
@@ -26,58 +26,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mulatu Astatke
-  - Lloyd Miller
-  - Orlando Julius
-  - Melvin Van Peebles
-  - DJ Shadow
-  - The Gaslamp Killer
-  - Madlib
+    - Mulatu Astatke
+    - Lloyd Miller
+    - Orlando Julius
+    - Melvin Van Peebles
+    - DJ Shadow
+    - The Gaslamp Killer
+    - Madlib
   influenced:
-  - The Gaslamp Killer
-  - Modern UK jazz and beat scene artists
+    - The Gaslamp Killer
+    - Modern UK jazz and beat scene artists
   mentors:
-  - James Brown
-  - Sun Ra
-  - Ennio Morricone
+    - James Brown
+    - Sun Ra
+    - Ennio Morricone
 spotify_data:
   followers: 45575
   id: 6Gujb3D3UJuIBtTCCK2Hnv
   popularity: 38
-  url: https://open.spotify.com/artist/6Gujb3D3UJuIBtTCCK2Hnv
+  url: 'https://open.spotify.com/artist/6Gujb3D3UJuIBtTCCK2Hnv'
 discography_enriched: true
 top_tracks:
-- Cha Cha (Inspiration Information 3)
-- In The Middle (Jaiyede Afro)
-- Blue Nile (Inspiration Information 3)
-- Esketa Dance (Inspiration Information 3)
-- Phantom Of The Panther (Inspiration Information 3)
-- The Uncertainty Principle (A World of Masks)
-- Addis Black Widow (Inspiration Information 3)
-- Fantasia Pt. 1 (Lloyd Miller & The Heliocentrics)
-- Space Time Girl
-- Nimerudi - Malcolm Catto / The Heliocentrics Remix
+  - Cha Cha (Inspiration Information 3)
+  - In The Middle (Jaiyede Afro)
+  - Blue Nile (Inspiration Information 3)
+  - Esketa Dance (Inspiration Information 3)
+  - Phantom Of The Panther (Inspiration Information 3)
+  - The Uncertainty Principle (A World of Masks)
+  - Addis Black Widow (Inspiration Information 3)
+  - Fantasia Pt. 1 (Lloyd Miller & The Heliocentrics)
+  - Space Time Girl
+  - Nimerudi - Malcolm Catto / The Heliocentrics Remix
 external_urls:
-  spotify: https://open.spotify.com/artist/6Gujb3D3UJuIBtTCCK2Hnv
-  wikipedia: https://en.wikipedia.org/wiki/The_Heliocentrics
+  spotify: 'https://open.spotify.com/artist/6Gujb3D3UJuIBtTCCK2Hnv'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Heliocentrics'
 image_path: 03_Resources/source_material/ArtistPortraits/the_heliocentrics.jpg
 biography_enhanced_at: '2025-11-21T07:13:19.719049'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Heliocentrics
-- https://www.nowagainrecords.com/heliocentrics/
-- https://www.prsformusic.com/m-magazine/features/interview-the-heliocentrics
-- https://bleep.com/artist/12124-the-heliocentrics?lang=en_GB
-- https://www.scaruffi.com/vol7/heliocen.html
-- https://www.wunc.org/2017-05-18/review-the-heliocentrics-a-world-of-masks
-- https://www.passionweiss.com/2020/02/28/heliocentrics-interview/
-- https://www.digitalinberlin.de/theheliocentrics/
-- https://www.allmusic.com/artist/the-heliocentrics-mn0000643937
+  - 'https://en.wikipedia.org/wiki/The_Heliocentrics'
+  - 'https://www.nowagainrecords.com/heliocentrics/'
+  - 'https://www.prsformusic.com/m-magazine/features/interview-the-heliocentrics'
+  - 'https://bleep.com/artist/12124-the-heliocentrics?lang=en_GB'
+  - 'https://www.scaruffi.com/vol7/heliocen.html'
+  - 'https://www.wunc.org/2017-05-18/review-the-heliocentrics-a-world-of-masks'
+  - 'https://www.passionweiss.com/2020/02/28/heliocentrics-interview/'
+  - 'https://www.digitalinberlin.de/theheliocentrics/'
+  - 'https://www.allmusic.com/artist/the-heliocentrics-mn0000643937'
 network_extracted: true
 entry_created: '2025-11-21T07:13:19.719064'
 last_updated: '2025-12-23T08:16:16.825895'
-origin: London, England, United Kingdom
+origin: 'London, England, United Kingdom'
+artist_type: band
 ---
 
 ![](the_heliocentrics.jpg)

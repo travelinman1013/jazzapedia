@@ -4,9 +4,10 @@ wiki_slug: brandee-younger-dezron-dougl
 schema_version: 2
 status: active
 genres:
-- jazz
+  - jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/Brandee_Younger_and_Dezron_Dougl.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/Brandee_Younger_and_Dezron_Dougl.jpg
   caption: Brandee Younger & Dezron Dougl
   background: solo_singer
 audio_profile:
@@ -24,51 +25,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ravi Coltrane
-  - Pharoah Sanders
-  - Makaya McCraven
-  - E.J. Strickland
+    - Ravi Coltrane
+    - Pharoah Sanders
+    - Makaya McCraven
+    - E.J. Strickland
   influenced:
-  - Contemporary jazz harpists
-  - Jazz bass students at NYU
+    - Contemporary jazz harpists
+    - Jazz bass students at NYU
   mentors:
-  - Jackie McLean
-  - Dorothy Ashby
-  - Alice Coltrane
+    - Jackie McLean
+    - Dorothy Ashby
+    - Alice Coltrane
 spotify_data:
   followers: 32975
   id: 1DT11FntvMnaU47ZZWlTpB
   popularity: 37
-  url: https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB
+  url: 'https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB'
 discography_enriched: true
 top_tracks:
-- BBL (Gadabout Season)
-- Unswept Corners - Ambient Mix
-- Olivia Benson (Somewhere Different)
-- Taking Flight (feat. Brandee Younger) (Resavoir)
-- Reflection Eternal
-- Dreamful Love Story
-- Taking Flight (Resavoir)
-- You're A Girl For One Man Only (Brand New Life)
-- End Means (feat. Shabaka) (Gadabout Season)
-- Brand New Life (feat. Mumu Fresh) (Brand New Life)
+  - BBL (Gadabout Season)
+  - Unswept Corners - Ambient Mix
+  - Olivia Benson (Somewhere Different)
+  - Taking Flight (feat. Brandee Younger) (Resavoir)
+  - Reflection Eternal
+  - Dreamful Love Story
+  - Taking Flight (Resavoir)
+  - You're A Girl For One Man Only (Brand New Life)
+  - End Means (feat. Shabaka) (Gadabout Season)
+  - Brand New Life (feat. Mumu Fresh) (Brand New Life)
 external_urls:
-  spotify: https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB
-  wikipedia: https://en.wikipedia.org/wiki/Brandee_Younger
-image_path: 03_Resources/source_material/ArtistPortraits/Brandee_Younger_and_Dezron_Dougl.jpg
+  spotify: 'https://open.spotify.com/artist/1DT11FntvMnaU47ZZWlTpB'
+  wikipedia: 'https://en.wikipedia.org/wiki/Brandee_Younger'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/Brandee_Younger_and_Dezron_Dougl.jpg
 biography_enhanced_at: '2025-10-21T06:40:11.552993'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Brandee_Younger
-- https://www.charlesmingus.com/dezron-douglas
-- https://discoverdoublebass.com/interview/dezron-douglas
-- https://lydialiebman.com/index.php/project/brandee-younger/
-- https://www.jazzempowers.org/brandee-younger
+  - 'https://en.wikipedia.org/wiki/Brandee_Younger'
+  - 'https://www.charlesmingus.com/dezron-douglas'
+  - 'https://discoverdoublebass.com/interview/dezron-douglas'
+  - 'https://lydialiebman.com/index.php/project/brandee-younger/'
+  - 'https://www.jazzempowers.org/brandee-younger'
 network_extracted: true
 entry_created: '2025-10-21T06:40:11.553016'
 last_updated: '2025-12-23T08:16:01.336632'
-origin: Hempstead, New York, USA (Brandee Younger); Hartford, Connecticut, USA (Dezron Douglas)
+origin: >-
+  Hempstead, New York, USA (Brandee Younger); Hartford, Connecticut, USA (Dezron
+  Douglas)
+birth_place: 'Hempstead, New York, United States'
+artist_type: person
 ---
 
 ![](Brandee_Younger_and_Dezron_Dougl.jpg)

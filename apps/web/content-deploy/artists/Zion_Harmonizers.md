@@ -4,7 +4,7 @@ wiki_slug: zion-harmonizers
 schema_version: 2
 status: active
 genres:
-- cajun
+  - cajun
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Zion_Harmonizers.jpg
   caption: Zion Harmonizers
@@ -24,47 +24,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sherman Washington
-  - Chuck Carbo and Leonard 'Chick' Carbo
-  - Current members (e.g., Franklin D. Smith Sr., Marion H. Chambers Jr., Benjamin Francois III, Joseph B. Warrick)
+    - Sherman Washington
+    - Chuck Carbo and Leonard 'Chick' Carbo
+    - >-
+      Current members (e.g., Franklin D. Smith Sr., Marion H. Chambers Jr.,
+      Benjamin Francois III, Joseph B. Warrick)
   influenced:
-  - New Orleans gospel artists and groups
+    - New Orleans gospel artists and groups
   mentors:
-  - Alberta French Johnson
+    - Alberta French Johnson
 spotify_data:
   followers: 319
   id: 738ZYp7ZpJSWTbEjdnUHcv
   popularity: 2
-  url: https://open.spotify.com/artist/738ZYp7ZpJSWTbEjdnUHcv
+  url: 'https://open.spotify.com/artist/738ZYp7ZpJSWTbEjdnUHcv'
 discography_enriched: true
 top_tracks:
-- Have a Little Talk With Jesus (Ultimate New Orleans)
-- Since I Laid My Burden Down (Best of New Orleans Gospel Volume 2)
-- I Want to Be At the Meeting (Bringing in the Sheaves)
-- A Ways Away (Paper Thin)
-- Jesus Is on the Mainline (Best of New Orleans Gospel Volume 2)
-- I'll Fly Away (Best of New Orleans Gospel Volume 2)
-- Lift Every Voice and Sing (Best of New Orleans Gospel Volume 2)
-- I Surrender All (Best of New Orleans Gospel)
-- A Ways Away (A Ways Away)
-- Walk That Milky White Way (Best of New Orleans Gospel Volume 2)
+  - Have a Little Talk With Jesus (Ultimate New Orleans)
+  - Since I Laid My Burden Down (Best of New Orleans Gospel Volume 2)
+  - I Want to Be At the Meeting (Bringing in the Sheaves)
+  - A Ways Away (Paper Thin)
+  - Jesus Is on the Mainline (Best of New Orleans Gospel Volume 2)
+  - I'll Fly Away (Best of New Orleans Gospel Volume 2)
+  - Lift Every Voice and Sing (Best of New Orleans Gospel Volume 2)
+  - I Surrender All (Best of New Orleans Gospel)
+  - A Ways Away (A Ways Away)
+  - Walk That Milky White Way (Best of New Orleans Gospel Volume 2)
 external_urls:
-  spotify: https://open.spotify.com/artist/738ZYp7ZpJSWTbEjdnUHcv
-  wikipedia: https://en.wikipedia.org/wiki/The_Zion_Harmonizers
+  spotify: 'https://open.spotify.com/artist/738ZYp7ZpJSWTbEjdnUHcv'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Zion_Harmonizers'
 image_path: 03_Resources/source_material/ArtistPortraits/Zion_Harmonizers.jpg
 biography_enhanced_at: '2025-10-20T10:17:55.757247'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Zion_Harmonizers
-- https://64parishes.org/entry/zion-harmonizers
-- https://www.whereyat.com/the-zion-harmonizers-celebrate-77th-anniversary
-- https://musicinsideout.wwno.org/zion-harmonizers/
-- https://www.allmusic.com/artist/zion-harmonizers-mn0000581267
+  - 'https://en.wikipedia.org/wiki/The_Zion_Harmonizers'
+  - 'https://64parishes.org/entry/zion-harmonizers'
+  - 'https://www.whereyat.com/the-zion-harmonizers-celebrate-77th-anniversary'
+  - 'https://musicinsideout.wwno.org/zion-harmonizers/'
+  - 'https://www.allmusic.com/artist/zion-harmonizers-mn0000581267'
 network_extracted: true
 entry_created: '2025-10-20T10:17:55.757256'
 last_updated: '2025-12-23T08:16:04.332531'
-origin: New Orleans, Louisiana, USA
+origin: 'New Orleans, Louisiana, USA'
+artist_type: band
 ---
 
 ![](Zion_Harmonizers.jpg)

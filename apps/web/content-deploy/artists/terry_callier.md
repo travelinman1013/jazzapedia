@@ -2,58 +2,61 @@
 artist_type: person
 biography_enhanced_at: '2026-01-22T07:22:32.666750'
 birth_date: '1945-05-24'
-birth_place: Chicago
+birth_place: 'Chicago, Illinois, United States'
 death_date: '2012-10-27'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:22:32.666758'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/44fd61e1-119c-479e-8301-8ac5c77148bf
-  spotify: https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs
-  wikipedia: https://en.wikipedia.org/wiki/Terry_Callier
+  musicbrainz: 'https://musicbrainz.org/artist/44fd61e1-119c-479e-8301-8ac5c77148bf'
+  spotify: 'https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs'
+  wikipedia: 'https://en.wikipedia.org/wiki/Terry_Callier'
 gender: Male
 genres:
-- northern soul
+  - northern soul
 image_path: 03_Resources/source_material/ArtistPortraits/terry_callier.jpg
 instruments:
-- guitar
-- acoustic guitar
-- lead vocals
-- other vocals
-- background vocals
+  - guitar
+  - acoustic guitar
+  - lead vocals
+  - other vocals
+  - background vocals
 last_updated: '2026-01-22T07:22:32.666758'
 musical_connections:
   collaborators:
-  - David Crosby
-  - Larry Wade
-  - George Stepney
-  - Jerry Butler
+    - David Crosby
+    - Larry Wade
+    - George Stepney
+    - Jerry Butler
   influenced:
-  - The Dells
-  - Minnie Riperton
+    - The Dells
+    - Minnie Riperton
   mentors:
-  - Samuel Charters
-  - Charles Stepney
-  - John Coltrane
+    - Samuel Charters
+    - Charles Stepney
+    - John Coltrane
 musicbrainz_id: 44fd61e1-119c-479e-8301-8ac5c77148bf
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://paulhillery.co.uk/terrence-orlando-callier/
-- https://insheepsclothinghifi.com/terry-callier/
-- https://en.wikipedia.org/wiki/Terry_Callier
-- https://magazine.waxpoetics.com/rediscovery/terry-callier-what-color-is-love/
-- https://www.soul-source.co.uk/forums/topic/429910-terry-callier/
+  - 'https://paulhillery.co.uk/terrence-orlando-callier/'
+  - 'https://insheepsclothinghifi.com/terry-callier/'
+  - 'https://en.wikipedia.org/wiki/Terry_Callier'
+  - >-
+    https://magazine.waxpoetics.com/rediscovery/terry-callier-what-color-is-love/
+  - 'https://www.soul-source.co.uk/forums/topic/429910-terry-callier/'
 spotify_data:
   followers: 79177
   id: 5cHmjJA9Lo0ga8s8QdxEzs
   popularity: 48
-  url: https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs
+  url: 'https://open.spotify.com/artist/5cHmjJA9Lo0ga8s8QdxEzs'
 status: active
 tags:
-- 2008 universal fire victim
-- chicago soul
-- classic pop and rock
-title: terry callier
+  - 2008 universal fire victim
+  - chicago soul
+  - classic pop and rock
+title: Terry Callier
+is_active: false
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](terry_callier.jpg)

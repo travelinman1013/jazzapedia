@@ -1,15 +1,16 @@
 ---
-title: ROGER WOLFE KAHN AND HIS ORCHESTRA
+title: Roger Wolfe Kahn and His Orchestra
 wiki_slug: roger-wolfe-kahn-and-his-orchestra
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres: []
 instruments:
-- eponymous
-- original
+  - eponymous
+  - original
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/roger_wolfe_kahn_and_his_orchestra.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/roger_wolfe_kahn_and_his_orchestra.jpg
   caption: ROGER WOLFE KAHN AND HIS ORCHESTRA
   background: group_or_band
 audio_profile:
@@ -27,63 +28,78 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Joe Venuti
-  - Hannah Williams
-  - Irving Caesar and Joseph Meyer
+    - Joe Venuti
+    - Hannah Williams
+    - Irving Caesar and Joseph Meyer
   influenced:
-  - Various young jazz musicians
+    - Various young jazz musicians
   mentors:
-  - Otto Kahn
+    - Otto Kahn
 spotify_data:
   followers: 235
   id: 3iVD9GJ4Brn2zmDJLlIgkf
   popularity: 11
-  url: https://open.spotify.com/artist/3iVD9GJ4Brn2zmDJLlIgkf
+  url: 'https://open.spotify.com/artist/3iVD9GJ4Brn2zmDJLlIgkf'
 discography_enriched: true
 top_tracks:
-- 'Into My Heart (The Orchestra Collection: 1925 - 1932)'
-- On the Sunny Side of the Street (Brunswick 4742) [Recorded 1930] (Roger Wolfe Kahn and His Orchestra (1920’s Dance Jazz
-  Band) [Recorded 1929 - 1932] [Encore 4])
-- 'Dark Night (The Orchestra Collection: 1925 - 1932)'
-- Just the Same (Stringing the Blues)
-- Baby (1920's Music Hits, Vol.39)
-- Liza (All The Clouds Will Roll Away) (FLAPPERS!, 1920's Songs Featuring Women's Names)
-- 'Dance Little Lady (Dance! Dance! Dance! (Popular Dances of the 1920s: Vol.5))'
-- That's a Good Girl (Love Songs of the Mid, 1920s (Jazz Age Chronicles, Vol.15))
-- 'Dance Little Lady (Songs That Time Forgot: The most (and least) obscure hits)'
-- 'Into My Heart (Songs That Time Forgot: The most (and least) obscure hits)'
+  - 'Into My Heart (The Orchestra Collection: 1925 - 1932)'
+  - >-
+    On the Sunny Side of the Street (Brunswick 4742) [Recorded 1930] (Roger
+    Wolfe Kahn and His Orchestra (1920’s Dance Jazz Band) [Recorded 1929 - 1932]
+    [Encore 4])
+  - 'Dark Night (The Orchestra Collection: 1925 - 1932)'
+  - Just the Same (Stringing the Blues)
+  - 'Baby (1920''s Music Hits, Vol.39)'
+  - >-
+    Liza (All The Clouds Will Roll Away) (FLAPPERS!, 1920's Songs Featuring
+    Women's Names)
+  - >-
+    Dance Little Lady (Dance! Dance! Dance! (Popular Dances of the 1920s:
+    Vol.5))
+  - >-
+    That's a Good Girl (Love Songs of the Mid, 1920s (Jazz Age Chronicles,
+    Vol.15))
+  - >-
+    Dance Little Lady (Songs That Time Forgot: The most (and least) obscure
+    hits)
+  - 'Into My Heart (Songs That Time Forgot: The most (and least) obscure hits)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c0508a8f-aed5-4253-8992-d970f831e524
-  spotify: https://open.spotify.com/artist/3iVD9GJ4Brn2zmDJLlIgkf
-  wikipedia: https://en.wikipedia.org/wiki/Roger_Wolfe_Kahn
-image_path: 03_Resources/source_material/ArtistPortraits/roger_wolfe_kahn_and_his_orchestra.jpg
+  musicbrainz: 'https://musicbrainz.org/artist/c0508a8f-aed5-4253-8992-d970f831e524'
+  spotify: 'https://open.spotify.com/artist/3iVD9GJ4Brn2zmDJLlIgkf'
+  wikipedia: 'https://en.wikipedia.org/wiki/Roger_Wolfe_Kahn'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/roger_wolfe_kahn_and_his_orchestra.jpg
 biography_enhanced_at: '2025-11-20T06:36:46.034737'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Roger_Wolfe_Kahn
-- https://syncopatedtimes.com/roger-wolfe-kahn-and-his-orchestra/
-- https://syncopatedtimes.com/the-mystery-of-roger-wolfe-kahns-symphony-and-other-compositions/
+  - 'https://en.wikipedia.org/wiki/Roger_Wolfe_Kahn'
+  - 'https://syncopatedtimes.com/roger-wolfe-kahn-and-his-orchestra/'
+  - >-
+    https://syncopatedtimes.com/the-mystery-of-roger-wolfe-kahns-symphony-and-other-compositions/
 network_extracted: true
 entry_created: '2025-11-20T06:36:46.034743'
 last_updated: '2025-12-23T08:16:14.985614'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 1d371d7d-be13-405c-9f56-260147e5c04b
-  name: Roger Wolfe Kahn
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7c6e10c8-7896-4624-a46b-2f3b5784d2d6
-  name: Eddie Lang
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 1d371d7d-be13-405c-9f56-260147e5c04b
+    name: Roger Wolfe Kahn
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7c6e10c8-7896-4624-a46b-2f3b5784d2d6
+    name: Eddie Lang
 musicbrainz_id: c0508a8f-aed5-4253-8992-d970f831e524
-origin: New York
+origin: 'New York, New York, United States'
 tags:
-- jazz
+  - jazz
+birth_place: 'New York City, New York, United States'
+birth_date: '1907-10-19'
+death_date: '1962-07-12'
 ---
 
 ![](roger_wolfe_kahn_and_his_orchestra.jpg)

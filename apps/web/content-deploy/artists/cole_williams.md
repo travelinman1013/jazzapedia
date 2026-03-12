@@ -3,13 +3,17 @@ title: Cole Williams
 wiki_slug: cole-williams
 schema_version: 2
 status: active
-birth_place: Brooklyn, New York, USA (birthplace); New Orleans, Louisiana, USA (current origin)
+birth_place: >-
+  Brooklyn, New York, USA (birthplace); New Orleans, Louisiana, USA (current
+  origin)
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/cole_williams.jpg
   caption: Cole Williams
   background: solo_singer
-  origin: Brooklyn, New York, USA (birthplace); New Orleans, Louisiana, USA (current origin)
+  origin: >-
+    Brooklyn, New York, USA (birthplace); New Orleans, Louisiana, USA (current
+    origin)
 audio_profile:
   tempo_avg: null
   energy_avg: null
@@ -21,42 +25,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Somi
-  - Aloe Blacc
-  - Walter 'Wolfman' Washington
-  - Bill Summers
-  - Al 'Carnival Time' Johnson
-  - Cyril Neville
+    - Somi
+    - Aloe Blacc
+    - Walter 'Wolfman' Washington
+    - Bill Summers
+    - Al 'Carnival Time' Johnson
+    - Cyril Neville
   influenced:
-  - Greater New Orleans music community
+    - Greater New Orleans music community
   mentors:
-  - Curtis Muhammad
-  - Ella Baker
+    - Curtis Muhammad
+    - Ella Baker
 spotify_data:
   followers: 2
   id: 5mRGEWoj5zH8c452LmR5sG
   popularity: 3
-  url: https://open.spotify.com/artist/5mRGEWoj5zH8c452LmR5sG
+  url: 'https://open.spotify.com/artist/5mRGEWoj5zH8c452LmR5sG'
 discography_enriched: true
 external_urls:
-  spotify: https://open.spotify.com/artist/5mRGEWoj5zH8c452LmR5sG
+  spotify: 'https://open.spotify.com/artist/5mRGEWoj5zH8c452LmR5sG'
   wikipedia: ''
 image_path: ''
 biography_enhanced_at: '2025-11-02T07:36:21.613837'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://colewilliamsmusic.com
-- https://www.globalsoulstore.com/colewilliams
-- https://ellanola.org/ellanotes/cole-williams-be-ready-so-you-dont-have-to-get-ready
-- https://bigeasycruise.com/artists/co-host-cole-williams/
-- https://www.neworleans.com/listing/cole-williams/47676/
-- https://news.theurbanmusicscene.com/2024/10/cole-williams-to-release-new-album-how-we-care-for-humanity/
-- https://www.imdb.com/name/nm11210674/bio/
-- https://www.nolamusicon.com/colewilliams2/amp/
+  - 'https://colewilliamsmusic.com'
+  - 'https://www.globalsoulstore.com/colewilliams'
+  - >-
+    https://ellanola.org/ellanotes/cole-williams-be-ready-so-you-dont-have-to-get-ready
+  - 'https://bigeasycruise.com/artists/co-host-cole-williams/'
+  - 'https://www.neworleans.com/listing/cole-williams/47676/'
+  - >-
+    https://news.theurbanmusicscene.com/2024/10/cole-williams-to-release-new-album-how-we-care-for-humanity/
+  - 'https://www.imdb.com/name/nm11210674/bio/'
+  - 'https://www.nolamusicon.com/colewilliams2/amp/'
 network_extracted: true
 entry_created: '2025-11-02T07:36:21.613860'
 last_updated: '2025-12-23T08:16:07.135597'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![]()

@@ -1,15 +1,15 @@
 ---
-title: bruce springsteen
+title: Bruce Springsteen
 wiki_slug: bruce-springsteen
 schema_version: 2
 status: active
-birth_place: Long Branch, New Jersey, United States
+birth_place: 'Long Branch, New Jersey, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bruce_springsteen.jpg
   caption: bruce springsteen
   background: solo_singer
-  origin: Long Branch, New Jersey, United States
+  origin: 'Long Branch, New Jersey, United States'
 audio_profile:
   tempo_avg: 116.8
   energy_avg: 0.642
@@ -25,49 +25,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - E Street Band
-  - Jon Landau
-  - Steven Van Zandt
+    - E Street Band
+    - Jon Landau
+    - Steven Van Zandt
   influenced:
-  - John Mellencamp
-  - Tom Morello
-  - The Killers
+    - John Mellencamp
+    - Tom Morello
+    - The Killers
   mentors:
-  - John Hammond
-  - Bob Dylan
+    - John Hammond
+    - Bob Dylan
 spotify_data:
   followers: 7300416
   id: 3eqjTLE0HfPfh78zjh6TqT
   popularity: 75
-  url: https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT
+  url: 'https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT'
 discography_enriched: true
 top_tracks:
-- Dancing In the Dark (Born In The U.S.A.)
-- I'm On Fire (Born In The U.S.A.)
-- Streets of Philadelphia - Single Edit
-- Born in the U.S.A. (Born In The U.S.A.)
-- Hungry Heart (The River)
-- Born to Run (Born To Run)
-- Glory Days (Born In The U.S.A.)
-- Sandpaper (feat. Bruce Springsteen) (The Great American Bar Scene)
-- The River (The River)
-- Thunder Road (Born To Run)
+  - Dancing In the Dark (Born In The U.S.A.)
+  - I'm On Fire (Born In The U.S.A.)
+  - Streets of Philadelphia - Single Edit
+  - Born in the U.S.A. (Born In The U.S.A.)
+  - Hungry Heart (The River)
+  - Born to Run (Born To Run)
+  - Glory Days (Born In The U.S.A.)
+  - Sandpaper (feat. Bruce Springsteen) (The Great American Bar Scene)
+  - The River (The River)
+  - Thunder Road (Born To Run)
 external_urls:
-  spotify: https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT
-  wikipedia: https://en.wikipedia.org/wiki/Bruce_Springsteen
+  spotify: 'https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bruce_Springsteen'
 image_path: 03_Resources/source_material/ArtistPortraits/bruce_springsteen.jpg
 biography_enhanced_at: '2025-10-25T10:09:07.641910'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Bruce_Springsteen
-- https://www.biography.com/musicians/bruce-springsteen
-- https://faroutmagazine.co.uk/timeline-bruce-springsteen-way-to-success/
-- https://historycooperative.org/bruce-springsteen-bio/
-- https://www.britannica.com/biography/Bruce-Springsteen
+  - 'https://en.wikipedia.org/wiki/Bruce_Springsteen'
+  - 'https://www.biography.com/musicians/bruce-springsteen'
+  - 'https://faroutmagazine.co.uk/timeline-bruce-springsteen-way-to-success/'
+  - 'https://historycooperative.org/bruce-springsteen-bio/'
+  - 'https://www.britannica.com/biography/Bruce-Springsteen'
 network_extracted: true
 entry_created: '2025-10-25T10:09:07.641923'
 last_updated: '2025-12-23T08:16:06.147074'
+birth_date: '1949-09-23'
+artist_type: person
 ---
 
 ![](bruce_springsteen.jpg)

@@ -3,40 +3,40 @@ title: Junior Parker
 wiki_slug: junior-parker
 schema_version: 2
 status: deceased
-birth_name: Herman Parker, Jr.
+birth_name: 'Herman Parker, Jr.'
 also_known_as:
-- Junior Parker
+  - Junior Parker
 aliases:
-- Junior Parker
+  - Junior Parker
 birth_date: '1932-05-27'
-birth_place: Eastover Plantation, near Bobo, Coahoma County, Mississippi, USA
+birth_place: 'Clarksdale, Mississippi, United States'
 death_date: '1971-11-18'
 years_active: 1951–1971
 genres:
-- soul blues
+  - soul blues
 instruments:
-- harmonica
-- voice
+  - harmonica
+  - voice
 occupation:
-- musician
-- singer
-- songwriter
+  - musician
+  - singer
+  - songwriter
 record_labels:
-- Mercury Records
-- Modern Records
-- Capitol Records
-- Sun Records
-- Charly Records
+  - Mercury Records
+  - Modern Records
+  - Capitol Records
+  - Sun Records
+  - Charly Records
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Junior_Parker.jpg
   caption: Junior Parker
   background: solo_singer
-  birth_name: Herman Parker, Jr.
+  birth_name: 'Herman Parker, Jr.'
   born: '1932-05-27'
-  origin: Eastover Plantation, near Bobo, Coahoma County, Mississippi, USA
+  origin: 'Eastover Plantation, near Bobo, Coahoma County, Mississippi, USA'
   died: '1971-11-18'
 audio_profile:
-  tempo_avg: 120.0
+  tempo_avg: 120
   energy_avg: 0.39
   valence_avg: 0.535
   danceability_avg: 0.528
@@ -50,60 +50,76 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ike Turner
-  - Matt 'Guitar' Murphy
-  - Floyd Murphy
-  - Pat Hare
-  - Bobby 'Blue' Bland
-  - Buddy Ace
+    - Ike Turner
+    - Matt 'Guitar' Murphy
+    - Floyd Murphy
+    - Pat Hare
+    - Bobby 'Blue' Bland
+    - Buddy Ace
   influenced:
-  - Elvis Presley
-  - Hayden Thompson
-  - B.B. King
-  - Bobby 'Blue' Bland
+    - Elvis Presley
+    - Hayden Thompson
+    - B.B. King
+    - Bobby 'Blue' Bland
   mentors:
-  - Sonny Boy Williamson II (Rice Miller)
-  - Howlin' Wolf
+    - Sonny Boy Williamson II (Rice Miller)
+    - Howlin' Wolf
 related_artists: []
 spotify_data:
   followers: 11374
   id: 6XYy5PbBFvsABSY2ZS6R8u
   popularity: 37
-  url: https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u
+  url: 'https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u'
   verified: false
 discography_enriched: true
 albums_count: 4
 singles_count: 0
 top_tracks:
-- Taxman - 2024 Remastered Version (Love Ain't Nothin' but a Business Goin' On (2024 Remastered Version))
-- Love Ain't Nothin' but a Business Goin' On - 2024 Remastered Version (Love Ain't Nothin' but a Business Goin' On (2024 Remastered
-  Version))
-- Tomorrow Never Knows - 2024 Remastered Version (Love Ain't Nothin' but a Business Goin' On (2024 Remastered Version))
-- Taxman (Funny How Time Slips Away)
-- Rivers Invitation - 2024 Remastered Version (Love Ain't Nothin' but a Business Goin' On (2024 Remastered Version))
-- I Think I'm Drownin' On Dry Land - 2024 Remastered Version (Good Things Don't Happen Every Day (2024 Remastered Version))
-- Tomorrow Never Knows (Funny How Time Slips Away)
-- Just to Hold My Hand - 2024 Remastered Version (Love Ain't Nothin' but a Business Goin' On (2024 Remastered Version))
-- Darling Depend on Me - 2024 Remastered Version (Love Ain't Nothin' but a Business Goin' On (2024 Remastered Version))
-- Mystery Train
+  - >-
+    Taxman - 2024 Remastered Version (Love Ain't Nothin' but a Business Goin' On
+    (2024 Remastered Version))
+  - >-
+    Love Ain't Nothin' but a Business Goin' On - 2024 Remastered Version (Love
+    Ain't Nothin' but a Business Goin' On (2024 Remastered Version))
+  - >-
+    Tomorrow Never Knows - 2024 Remastered Version (Love Ain't Nothin' but a
+    Business Goin' On (2024 Remastered Version))
+  - Taxman (Funny How Time Slips Away)
+  - >-
+    Rivers Invitation - 2024 Remastered Version (Love Ain't Nothin' but a
+    Business Goin' On (2024 Remastered Version))
+  - >-
+    I Think I'm Drownin' On Dry Land - 2024 Remastered Version (Good Things
+    Don't Happen Every Day (2024 Remastered Version))
+  - Tomorrow Never Knows (Funny How Time Slips Away)
+  - >-
+    Just to Hold My Hand - 2024 Remastered Version (Love Ain't Nothin' but a
+    Business Goin' On (2024 Remastered Version))
+  - >-
+    Darling Depend on Me - 2024 Remastered Version (Love Ain't Nothin' but a
+    Business Goin' On (2024 Remastered Version))
+  - Mystery Train
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u
-  wikipedia: https://en.wikipedia.org/wiki/Junior_Parker
+  spotify: 'https://open.spotify.com/artist/6XYy5PbBFvsABSY2ZS6R8u'
+  wikipedia: 'https://en.wikipedia.org/wiki/Junior_Parker'
 image_path: 03_Resources/source_material/ArtistPortraits/Junior_Parker.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:56:01.998562'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://aaregistry.org/story/junior-parker-mr-blues/
-- https://sunrecords.com/artists/little-junior-parker/
-- https://blues.org/blues_hof_inductee/junior-parker/
-- https://en.wikipedia.org/wiki/Junior_Parker
+  - 'https://aaregistry.org/story/junior-parker-mr-blues/'
+  - 'https://sunrecords.com/artists/little-junior-parker/'
+  - 'https://blues.org/blues_hof_inductee/junior-parker/'
+  - 'https://en.wikipedia.org/wiki/Junior_Parker'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:40:00.558024
+entry_created: 2025-09-22T21:40:00.558Z
 last_updated: '2025-12-23T08:16:02.763481'
+is_active: false
+origin: 'Memphis, Tennessee, United States'
+artist_type: person
 ---
 
 ![](Junior_Parker.jpg)

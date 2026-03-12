@@ -3,43 +3,46 @@ biography_enhanced_at: '2026-01-04T01:52:38.763815'
 enhancement_provider: perplexity
 entry_created: '2026-01-04T01:52:38.763820'
 external_urls:
-  spotify: https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM
-  wikipedia: https://en.wikipedia.org/wiki/The_Andrews_Sisters
+  spotify: 'https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Andrews_Sisters'
 genres:
-- christmas
-- big band
-- swing music
+  - christmas
+  - big band
+  - swing music
 image_path: 03_Resources/source_material/ArtistPortraits/andrews_sisters.jpg
 last_updated: '2026-01-04T01:52:38.763821'
 musical_connections:
   collaborators:
-  - Vic Schoen
-  - Bing Crosby
-  - Danny Kaye
-  - Jack Kapp
-  - David Kapp
+    - Vic Schoen
+    - Bing Crosby
+    - Danny Kaye
+    - Jack Kapp
+    - David Kapp
   influenced:
-  - The Beatles
+    - The Beatles
   mentors:
-  - Larry Rich
-  - Joe Howard
-  - Leon Belasco
+    - Larry Rich
+    - Joe Howard
+    - Leon Belasco
 network_extracted: true
-origin: Minneapolis, Minnesota, USA
+origin: 'Minneapolis, Minnesota, USA'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Andrews_Sisters [3]
-- http://www.cmgww.com/music/andrews/about/biography/ [2]
-- https://alanahandrewssisters.weebly.com/biography.html [1]
-- https://thesongbook.org/about/news-media/the-songbook-blog-items/the-andrews-sisters-queens-of-the-jukebox/
-  [4]
+  - 'https://en.wikipedia.org/wiki/The_Andrews_Sisters [3]'
+  - 'http://www.cmgww.com/music/andrews/about/biography/ [2]'
+  - 'https://alanahandrewssisters.weebly.com/biography.html [1]'
+  - >-
+    https://thesongbook.org/about/news-media/the-songbook-blog-items/the-andrews-sisters-queens-of-the-jukebox/
+    [4]
 spotify_data:
   followers: 227957
   id: 2NCGI6dLTxLdI9XHdv7QfM
   popularity: 76
-  url: https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM
+  url: 'https://open.spotify.com/artist/2NCGI6dLTxLdI9XHdv7QfM'
 status: active
-title: Andrews Sisters
+title: The Andrews Sisters
+birth_place: 'Minneapolis, Minnesota, United States'
+artist_type: band
 ---
 
 ![](andrews_sisters.jpg)

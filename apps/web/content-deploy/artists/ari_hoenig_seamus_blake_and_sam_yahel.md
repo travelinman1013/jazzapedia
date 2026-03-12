@@ -3,41 +3,47 @@ biography_enhanced_at: '2026-01-03T01:38:09.249243'
 enhancement_provider: perplexity
 entry_created: '2026-01-03T01:38:09.249267'
 external_urls:
-  spotify: https://open.spotify.com/artist/61REG4Bt5PiFYIAUExyYfA
-  wikipedia: https://en.wikipedia.org/wiki/Sam_Yahel
+  spotify: 'https://open.spotify.com/artist/61REG4Bt5PiFYIAUExyYfA'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sam_Yahel'
 genres:
-- indie jazz
+  - indie jazz
 image_path: ''
 last_updated: '2026-01-03T01:38:09.249271'
 musical_connections:
   collaborators:
-  - Mike Moreno
-  - Sam Yahel
-  - Ari Hoenig
-  - Seamus Blake
-  - Bill Frisell
-  - Joshua Redman
-  - Norah Jones
+    - Mike Moreno
+    - Sam Yahel
+    - Ari Hoenig
+    - Seamus Blake
+    - Bill Frisell
+    - Joshua Redman
+    - Norah Jones
   influenced: []
   mentors: []
 network_extracted: true
-origin: New York City, New York, USA (primary scene; Yahel moved 1990, album recorded
+origin: >-
+  New York City, New York, USA (primary scene; Yahel moved 1990, album recorded
   there; Hoenig from Philadelphia)
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Sam_Yahel[1]
-- https://www.highresaudio.com/en/artist/view/3d01c0e4-6d10-42fa-baa4-4d66330359e5/sam-yahel-ari-hoenig-mike-moreno-seamus-blake[2]
-- https://www.supersonido.es/p/evolution-music-sam-yahel-mike-moreno-ari-hoenig-seamus-blake-jazz-side-of-the-moon-the-music-evsa-3005s[3]
-- https://www.jazzmusicarchives.com/artist/sam-yahel[4]
-- https://www.iajo.org/iajo04/usa/yahel.htm[5]
-- https://www.coastaljazz.ca/event/from-new-york-ari-hoenig-trio/[6]
+  - 'https://en.wikipedia.org/wiki/Sam_Yahel[1]'
+  - >-
+    https://www.highresaudio.com/en/artist/view/3d01c0e4-6d10-42fa-baa4-4d66330359e5/sam-yahel-ari-hoenig-mike-moreno-seamus-blake[2]
+  - >-
+    https://www.supersonido.es/p/evolution-music-sam-yahel-mike-moreno-ari-hoenig-seamus-blake-jazz-side-of-the-moon-the-music-evsa-3005s[3]
+  - 'https://www.jazzmusicarchives.com/artist/sam-yahel[4]'
+  - 'https://www.iajo.org/iajo04/usa/yahel.htm[5]'
+  - 'https://www.coastaljazz.ca/event/from-new-york-ari-hoenig-trio/[6]'
 spotify_data:
   followers: 371
   id: 61REG4Bt5PiFYIAUExyYfA
   popularity: 2
-  url: https://open.spotify.com/artist/61REG4Bt5PiFYIAUExyYfA
+  url: 'https://open.spotify.com/artist/61REG4Bt5PiFYIAUExyYfA'
 status: active
-title: Ari Hoenig, Seamus Blake & Sam Yahel
+title: 'Ari Hoenig, Seamus Blake & Sam Yahel'
+birth_place: 'Philadelphia, Pennsylvania, United States'
+birth_date: '1971'
+artist_type: band
 ---
 
 ![]()

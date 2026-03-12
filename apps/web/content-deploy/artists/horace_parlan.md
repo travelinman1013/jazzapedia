@@ -1,55 +1,55 @@
 ---
-title: horace parlan
+title: Horace Parlan
 wiki_slug: horace-parlan
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1931-01-19'
-birth_place: Pittsburgh
+birth_place: 'Pittsburgh, Pennsylvania, United States'
 death_date: '2017-02-23'
 genres:
-- hard bop
-- bebop
-- jazz
-- free jazz
-- cool jazz
+  - hard bop
+  - bebop
+  - jazz
+  - free jazz
+  - cool jazz
 instruments:
-- original
-- piano
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - original
-  mbid: cfb32858-78bf-48c5-b97d-2e3edc755bd3
-  name: Horace Parlan Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8ae40b08-6a6a-4c15-a4c2-f193540852ab
-  name: The Dave Bailey Sextet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0a6a3ee0-6228-4521-a8c0-72819e478462
-  name: Thad Jones Eclipse
-- begin: ''
-  end: ''
-  instruments:
   - piano
-  mbid: 0f724c1d-2fa6-4bb7-a3c6-9feaad5c01f4
-  name: Booker Ervin Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: 67ebc9ae-ff66-4a25-bf04-119f6405d399
-  name: Clark Terry’s Big‐B‐A‐D‐Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f5ec3e8a-a4f5-4df6-b51f-b7a0339afd38
-  name: Horace Parlan Trio
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: cfb32858-78bf-48c5-b97d-2e3edc755bd3
+    name: Horace Parlan Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8ae40b08-6a6a-4c15-a4c2-f193540852ab
+    name: The Dave Bailey Sextet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0a6a3ee0-6228-4521-a8c0-72819e478462
+    name: Thad Jones Eclipse
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: 0f724c1d-2fa6-4bb7-a3c6-9feaad5c01f4
+    name: Booker Ervin Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: 67ebc9ae-ff66-4a25-bf04-119f6405d399
+    name: Clark Terry’s Big‐B‐A‐D‐Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f5ec3e8a-a4f5-4df6-b51f-b7a0339afd38
+    name: Horace Parlan Trio
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/horace_parlan.jpg
   caption: horace parlan
@@ -72,51 +72,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Charles Mingus
-  - Booker Ervin
-  - Lou Donaldson
-  - Rahsaan Roland Kirk
-  - Archie Shepp
-  - Dexter Gordon
-  - Stanley Turrentine
+    - Charles Mingus
+    - Booker Ervin
+    - Lou Donaldson
+    - Rahsaan Roland Kirk
+    - Archie Shepp
+    - Dexter Gordon
+    - Stanley Turrentine
   influenced:
-  - Niels Lan Doky
-  - Younger European jazz pianists
+    - Niels Lan Doky
+    - Younger European jazz pianists
   mentors:
-  - James Miller
-  - Ahmad Jamal
-  - Bud Powell
+    - James Miller
+    - Ahmad Jamal
+    - Bud Powell
 spotify_data:
   followers: 12594
   id: 413WfGS7CgAHEJD4DtAo3e
   popularity: 25
-  url: https://open.spotify.com/artist/413WfGS7CgAHEJD4DtAo3e
+  url: 'https://open.spotify.com/artist/413WfGS7CgAHEJD4DtAo3e'
 discography_enriched: true
 top_tracks:
-- Congalegre (Headin' South)
-- My foolish heart (No Blues)
-- Us Three - Remastered (Us Three)
-- Goin' home (Goin' Home)
-- Nobody knows the troubles I've seen (Goin' Home)
-- Headin' South (Headin' South)
-- It Could Happen to You - Remastered (Movin' & Groovin')
-- I Want To Be Loved - Remastered (Us Three)
-- The Other Part Of Town - Rudy Van Gelder Edition/Digitally Remastered 2009 (Up And Down (Remastered))
-- Wadin' - Remastered (Us Three)
+  - Congalegre (Headin' South)
+  - My foolish heart (No Blues)
+  - Us Three - Remastered (Us Three)
+  - Goin' home (Goin' Home)
+  - Nobody knows the troubles I've seen (Goin' Home)
+  - Headin' South (Headin' South)
+  - It Could Happen to You - Remastered (Movin' & Groovin')
+  - I Want To Be Loved - Remastered (Us Three)
+  - >-
+    The Other Part Of Town - Rudy Van Gelder Edition/Digitally Remastered 2009
+    (Up And Down (Remastered))
+  - Wadin' - Remastered (Us Three)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/72ebac7b-e29d-4cd6-8ce4-36465b907ce9
-  spotify: https://open.spotify.com/artist/413WfGS7CgAHEJD4DtAo3e
-  wikipedia: https://en.wikipedia.org/wiki/Horace_Parlan
+  musicbrainz: 'https://musicbrainz.org/artist/72ebac7b-e29d-4cd6-8ce4-36465b907ce9'
+  spotify: 'https://open.spotify.com/artist/413WfGS7CgAHEJD4DtAo3e'
+  wikipedia: 'https://en.wikipedia.org/wiki/Horace_Parlan'
 image_path: 03_Resources/source_material/ArtistPortraits/horace_parlan.jpg
 biography_enhanced_at: '2025-11-06T13:31:11.055916'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Horace_Parlan
-- https://jazztimes.com/features/tributes-and-obituaries/horace-parlan-dies-86/
-- https://www.bluenote.com/artist/horace-parlan/
-- https://www.wbgo.org/music/2017-02-25/horace-parlan-soulful-and-persevering-hard-bop-pianist-dies-at-86
-- https://blog.mulerasfireplace.com/engage/horace-parlan-the-triumph-of-a-genius-of-jazz-piano-20618
+  - 'https://en.wikipedia.org/wiki/Horace_Parlan'
+  - >-
+    https://jazztimes.com/features/tributes-and-obituaries/horace-parlan-dies-86/
+  - 'https://www.bluenote.com/artist/horace-parlan/'
+  - >-
+    https://www.wbgo.org/music/2017-02-25/horace-parlan-soulful-and-persevering-hard-bop-pianist-dies-at-86
+  - >-
+    https://blog.mulerasfireplace.com/engage/horace-parlan-the-triumph-of-a-genius-of-jazz-piano-20618
 network_extracted: true
 entry_created: '2025-11-06T13:31:11.055935'
 last_updated: '2025-12-23T08:16:09.677381'
@@ -124,9 +129,10 @@ disambiguation: American-Danish jazz pianist
 gender: Male
 musicbrainz_id: 72ebac7b-e29d-4cd6-8ce4-36465b907ce9
 tags:
-- hard bop
-- jazz
-- post-bop
+  - hard bop
+  - jazz
+  - post-bop
+is_active: false
 ---
 
 ![](horace_parlan.jpg)

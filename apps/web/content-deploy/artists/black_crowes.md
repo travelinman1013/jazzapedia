@@ -3,45 +3,45 @@ biography_enhanced_at: '2025-12-27T01:29:35.137550'
 enhancement_provider: perplexity
 entry_created: '2025-12-27T01:29:35.137563'
 external_urls:
-  spotify: https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC
-  wikipedia: https://en.wikipedia.org/wiki/The_Black_Crowes
+  spotify: 'https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Black_Crowes'
 genres:
-- southern rock
-- rock
+  - southern rock
+  - rock
 image_path: 03_Resources/source_material/ArtistPortraits/black_crowes.jpg
 last_updated: '2025-12-27T01:29:35.137565'
 musical_connections:
   collaborators:
-  - Sven Pipien
-  - Steve Gorman
-  - Eddie Harsch
-  - Marc Ford
-  - Luther Dickinson
-  - Jimmy Page
+    - Sven Pipien
+    - Steve Gorman
+    - Eddie Harsch
+    - Marc Ford
+    - Luther Dickinson
+    - Jimmy Page
   influenced: []
   mentors:
-  - George Drakoulias
-  - The Faces
-  - Humble Pie
-  - Rolling Stones
+    - George Drakoulias
+    - The Faces
+    - Humble Pie
+    - Rolling Stones
 network_extracted: true
-origin: Marietta, Georgia, USA
+origin: 'Marietta, Georgia, USA'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Black_Crowes
-- https://top40weekly.com/the-black-crowes/
-- https://americansongwriter.com/behind-the-band-name-the-black-crowes/
-- https://k1047.com/listicle/the-black-crowes-are-flying-high-once-again/
-- https://www.redlightmanagement.com/artists/the-black-crowes/
-- https://www.allmusic.com/artist/the-black-crowes-mn0000048566
+  - 'https://en.wikipedia.org/wiki/The_Black_Crowes'
+  - 'https://top40weekly.com/the-black-crowes/'
+  - 'https://americansongwriter.com/behind-the-band-name-the-black-crowes/'
+  - 'https://k1047.com/listicle/the-black-crowes-are-flying-high-once-again/'
+  - 'https://www.redlightmanagement.com/artists/the-black-crowes/'
+  - 'https://www.allmusic.com/artist/the-black-crowes-mn0000048566'
 spotify_data:
   followers: 889771
   id: 5krkohEVJYw0qoB5VWwxaC
   popularity: 61
-  url: https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC
+  url: 'https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC'
 status: active
-title: black crowes
-
+title: The Black Crowes
+artist_type: band
 ---
 
 ![](black_crowes.jpg)

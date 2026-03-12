@@ -1,12 +1,12 @@
 ---
-title: crickets
+title: The Crickets
 wiki_slug: crickets
 schema_version: 2
 status: active
 genres:
-- rockabilly
-- doo-wop
-- rock and roll
+  - rockabilly
+  - doo-wop
+  - rock and roll
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/crickets.jpg
   caption: crickets
@@ -26,55 +26,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Buddy Holly
-  - Jerry Allison
-  - Joe B. Mauldin
-  - Niki Sullivan
-  - Sonny Curtis
-  - Earl Sinks
-  - Everly Brothers
+    - Buddy Holly
+    - Jerry Allison
+    - Joe B. Mauldin
+    - Niki Sullivan
+    - Sonny Curtis
+    - Earl Sinks
+    - Everly Brothers
   influenced:
-  - The Beatles
-  - Waylon Jennings
-  - Everly Brothers
+    - The Beatles
+    - Waylon Jennings
+    - Everly Brothers
   mentors:
-  - Elvis Presley
-  - Norman Petty
+    - Elvis Presley
+    - Norman Petty
 spotify_data:
   followers: 132300
   id: 4r7JUeiYy24L7BuzCq9EjR
   popularity: 50
-  url: https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR
+  url: 'https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR'
 discography_enriched: true
 top_tracks:
-- Everyday (Buddy Holly)
-- Peggy Sue (Buddy Holly)
-- Rave On (Buddy Holly)
-- Oh Boy! (The Definitive Collection)
-- Raining In My Heart (The Definitive Collection)
-- Heartbeat (The Definitive Collection)
-- It Doesn't Matter Anymore (The Definitive Collection)
-- It's So Easy (The Definitive Collection)
-- Oh Boy! (The "Chirping" Crickets)
-- That'll Be The Day (The "Chirping" Crickets)
+  - Everyday (Buddy Holly)
+  - Peggy Sue (Buddy Holly)
+  - Rave On (Buddy Holly)
+  - Oh Boy! (The Definitive Collection)
+  - Raining In My Heart (The Definitive Collection)
+  - Heartbeat (The Definitive Collection)
+  - It Doesn't Matter Anymore (The Definitive Collection)
+  - It's So Easy (The Definitive Collection)
+  - Oh Boy! (The "Chirping" Crickets)
+  - That'll Be The Day (The "Chirping" Crickets)
 external_urls:
-  spotify: https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR
-  wikipedia: https://en.wikipedia.org/wiki/The_Crickets
+  spotify: 'https://open.spotify.com/artist/4r7JUeiYy24L7BuzCq9EjR'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Crickets'
 image_path: 03_Resources/source_material/ArtistPortraits/crickets.jpg
 biography_enhanced_at: '2025-11-04T11:02:48.527925'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/The+Crickets/+wiki
-- https://www.tshaonline.org/handbook/entries/crickets
-- https://www.vintagerockmag.com/2022/07/classic-album-in-style-with-the-crickets/
-- http://www.thecrickets.com/bios.html
-- https://www.lubbockonline.com/story/entertainment/local/2016/05/14/fascinating-music-history-explored-within-iconic-crickets-volume/14916092007/
-- https://www.rhino.com/article/the-crickets
+  - 'https://www.last.fm/music/The+Crickets/+wiki'
+  - 'https://www.tshaonline.org/handbook/entries/crickets'
+  - >-
+    https://www.vintagerockmag.com/2022/07/classic-album-in-style-with-the-crickets/
+  - 'http://www.thecrickets.com/bios.html'
+  - >-
+    https://www.lubbockonline.com/story/entertainment/local/2016/05/14/fascinating-music-history-explored-within-iconic-crickets-volume/14916092007/
+  - 'https://www.rhino.com/article/the-crickets'
 network_extracted: true
 entry_created: '2025-11-04T11:02:48.527936'
 last_updated: '2025-12-23T08:16:07.299671'
-origin: Lubbock, Texas, United States
+origin: 'Lubbock, Texas, United States'
+artist_type: band
 ---
 
 ![](crickets.jpg)

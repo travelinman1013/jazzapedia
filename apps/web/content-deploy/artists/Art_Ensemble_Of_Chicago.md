@@ -2,16 +2,16 @@
 title: Art Ensemble Of Chicago
 wiki_slug: art-ensemble-of-chicago
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 birth_date: '1965'
 genres:
-- free jazz
-- avant-garde
-- jazz
+  - free jazz
+  - avant-garde
+  - jazz
 instruments:
-- original
-- drums (drum set)
+  - original
+  - drums (drum set)
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Art_Ensemble_Of_Chicago.jpg
   caption: Art Ensemble Of Chicago
@@ -32,56 +32,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Roscoe Mitchell
-  - Lester Bowie
-  - Malachi Favors
-  - Joseph Jarman
-  - Don Moye
-  - Brigitte Fontaine
+    - Roscoe Mitchell
+    - Lester Bowie
+    - Malachi Favors
+    - Joseph Jarman
+    - Don Moye
+    - Brigitte Fontaine
   influenced: []
   mentors:
-  - Muhal Richard Abrams
+    - Muhal Richard Abrams
 spotify_data:
   followers: 37129
   id: 0LTIwNcvI31Zf5wwFVRHyu
   popularity: 17
-  url: https://open.spotify.com/artist/0LTIwNcvI31Zf5wwFVRHyu
+  url: 'https://open.spotify.com/artist/0LTIwNcvI31Zf5wwFVRHyu'
 discography_enriched: true
 top_tracks:
-- Thème de Yoyo (american swinging in paris)
-- Thème De Yoyo (Jazz Party)
-- Nice Guys (Nice Guys)
-- Funky AECO (The Third Decade)
-- Charlie M (Full Force)
-- Ja (Nice Guys)
-- Walking In The Moonlight (The Third Decade)
-- 597 - 59 (Nice Guys)
-- Variations sur un thème de Monteverdi (I, II, III) (american swinging in paris)
-- Thème de Céline (american swinging in paris)
+  - Thème de Yoyo (american swinging in paris)
+  - Thème De Yoyo (Jazz Party)
+  - Nice Guys (Nice Guys)
+  - Funky AECO (The Third Decade)
+  - Charlie M (Full Force)
+  - Ja (Nice Guys)
+  - Walking In The Moonlight (The Third Decade)
+  - 597 - 59 (Nice Guys)
+  - >-
+    Variations sur un thème de Monteverdi (I, II, III) (american swinging in
+    paris)
+  - Thème de Céline (american swinging in paris)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ed7156ee-07da-484b-b5a5-be322afa1a34
-  spotify: https://open.spotify.com/artist/0LTIwNcvI31Zf5wwFVRHyu
-  wikipedia: https://en.wikipedia.org/wiki/Art_Ensemble_of_Chicago
+  musicbrainz: 'https://musicbrainz.org/artist/ed7156ee-07da-484b-b5a5-be322afa1a34'
+  spotify: 'https://open.spotify.com/artist/0LTIwNcvI31Zf5wwFVRHyu'
+  wikipedia: 'https://en.wikipedia.org/wiki/Art_Ensemble_of_Chicago'
 image_path: 03_Resources/source_material/ArtistPortraits/Art_Ensemble_Of_Chicago.jpg
 biography_enhanced_at: '2025-10-21T06:41:24.794444'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Art_Ensemble_of_Chicago
-- https://leguesswho.com/news/tracing-the-roots-art-ensemble-of-chicagos-great-black-music-ancient-to-the-future
-- https://www.britannica.com/topic/Art-Ensemble-of-Chicago
-- https://flypaper.soundfly.com/discover/who-is-the-art-ensemble-of-chicago/
-- https://magazine.waxpoetics.com/rediscovery/art-ensemble-of-chicago-nice-guys/
+  - 'https://en.wikipedia.org/wiki/Art_Ensemble_of_Chicago'
+  - >-
+    https://leguesswho.com/news/tracing-the-roots-art-ensemble-of-chicagos-great-black-music-ancient-to-the-future
+  - 'https://www.britannica.com/topic/Art-Ensemble-of-Chicago'
+  - 'https://flypaper.soundfly.com/discover/who-is-the-art-ensemble-of-chicago/'
+  - >-
+    https://magazine.waxpoetics.com/rediscovery/art-ensemble-of-chicago-nice-guys/
 network_extracted: true
 entry_created: '2025-10-21T06:41:24.794459'
 last_updated: '2025-12-23T08:16:01.058616'
 musicbrainz_enriched_at: '2025-10-21T08:59:58.110978'
 musicbrainz_id: ed7156ee-07da-484b-b5a5-be322afa1a34
-origin: Chicago, Illinois, United States
+origin: 'Chicago, Illinois, United States'
 tags:
-- avant-garde
-- avant-garde jazz
-- free jazz
+  - avant-garde
+  - avant-garde jazz
+  - free jazz
 ---
 
 ![](Art_Ensemble_Of_Chicago.jpg)

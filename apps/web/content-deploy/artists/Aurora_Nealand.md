@@ -1,81 +1,87 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 52633417-aa07-4a71-b421-c7e2dbd885bd
-  name: Aurora Nealand & The Royal Roses
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 16353260-3b76-4ec5-bc96-47f8e90f74e3
-  name: Helen Gillet & Aurora Nealand
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 52633417-aa07-4a71-b421-c7e2dbd885bd
+    name: Aurora Nealand & The Royal Roses
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 16353260-3b76-4ec5-bc96-47f8e90f74e3
+    name: Helen Gillet & Aurora Nealand
 biography_enhanced_at: '2026-01-09T02:14:00.620741'
-birth_place: Pacifica, California, United States (birthplace); New Orleans, Louisiana,
+birth_place: >-
+  Pacifica, California, United States (birthplace); New Orleans, Louisiana,
   United States (primary base of activity)
 enhancement_provider: perplexity
 entry_created: '2026-01-09T02:14:00.620746'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/90c8080f-67da-4de8-b093-c87bc394905a
-  spotify: https://open.spotify.com/artist/4LGOQLuOw8fgTxJEB8wngD
+  musicbrainz: 'https://musicbrainz.org/artist/90c8080f-67da-4de8-b093-c87bc394905a'
+  spotify: 'https://open.spotify.com/artist/4LGOQLuOw8fgTxJEB8wngD'
   wikipedia: ''
 gender: Female
 genres:
-- free jazz
-- swing music
-- ragtime
+  - free jazz
+  - swing music
+  - ragtime
 image_path: 03_Resources/source_material/ArtistPortraits/aurora_nealand.jpg
 instruments:
-- eponymous
-- original
+  - eponymous
+  - original
 last_updated: '2026-01-09T02:14:00.620747'
 musical_connections:
   collaborators:
-  - The Royal Roses
-  - Rory Danger and the Danger Dangers
-  - The Monocle Ensemble
-  - John Hollenbeck’s GEORGE
-  - Oceans & Trio (with Tim Berne and Hank Roberts)
-  - Instigation Orchestra
-  - Panorama Jazz Band
-  - Why Are We Building Such A Big Ship?
-  - Found Sound Nation
-  - Pauline Oliveros
-  - Bill Frisell
-  - Preservation Hall All-Stars
+    - The Royal Roses
+    - Rory Danger and the Danger Dangers
+    - The Monocle Ensemble
+    - John Hollenbeck’s GEORGE
+    - Oceans & Trio (with Tim Berne and Hank Roberts)
+    - Instigation Orchestra
+    - Panorama Jazz Band
+    - Why Are We Building Such A Big Ship?
+    - Found Sound Nation
+    - Pauline Oliveros
+    - Bill Frisell
+    - Preservation Hall All-Stars
   influenced:
-  - Students at the Walden School for Young Composers
-  - Participants in Found Sound Nation projects
-  - Younger New Orleans traditional jazz and improvising musicians
+    - Students at the Walden School for Young Composers
+    - Participants in Found Sound Nation projects
+    - Younger New Orleans traditional jazz and improvising musicians
   mentors:
-  - Ben Schenck
-  - Preservation Hall Jazz Band (and the legacy of Sidney Bechet)
-  - Oberlin Conservatory faculty (composition and electronic music)
-  - Jacques Lecoq School of Physical Theatre (faculty and pedagogy)
+    - Ben Schenck
+    - Preservation Hall Jazz Band (and the legacy of Sidney Bechet)
+    - Oberlin Conservatory faculty (composition and electronic music)
+    - Jacques Lecoq School of Physical Theatre (faculty and pedagogy)
 musicbrainz_id: 90c8080f-67da-4de8-b093-c87bc394905a
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.churchofneworleans.com/church-of-new-orleans-blog/2021/5/28/happy-birthday-aurora-nealand
-- https://www.wwno.org/show/american-routes/2025-01-31/american-routes-shortcuts-aurora-nealand
-- https://antigravitymagazine.com/feature/the-gospel-according-to-aurora-nealand/
-- https://www.foundsoundnation.org/collaborators/aurora-nealand
-- http://www.auroranealand.com/details
-- https://www.neworleans.com/listing/aurora-nealand/46301/
-- https://www.jonathanfreilich.com/music-interviews/2011/5/20/interview-with-aurora-nealand.html
-- https://www.macdowell.org/artists/aurora-nealand
-- https://www.southarts.org/grant-fellowship-recipients/aurora-nealand-2021
+  - >-
+    https://www.churchofneworleans.com/church-of-new-orleans-blog/2021/5/28/happy-birthday-aurora-nealand
+  - >-
+    https://www.wwno.org/show/american-routes/2025-01-31/american-routes-shortcuts-aurora-nealand
+  - >-
+    https://antigravitymagazine.com/feature/the-gospel-according-to-aurora-nealand/
+  - 'https://www.foundsoundnation.org/collaborators/aurora-nealand'
+  - 'http://www.auroranealand.com/details'
+  - 'https://www.neworleans.com/listing/aurora-nealand/46301/'
+  - >-
+    https://www.jonathanfreilich.com/music-interviews/2011/5/20/interview-with-aurora-nealand.html
+  - 'https://www.macdowell.org/artists/aurora-nealand'
+  - 'https://www.southarts.org/grant-fellowship-recipients/aurora-nealand-2021'
 spotify_data:
   followers: 759
   id: 4LGOQLuOw8fgTxJEB8wngD
   popularity: 11
-  url: https://open.spotify.com/artist/4LGOQLuOw8fgTxJEB8wngD
+  url: 'https://open.spotify.com/artist/4LGOQLuOw8fgTxJEB8wngD'
 status: active
-title: aurora nealand
+title: Aurora Nealand
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](aurora_nealand.jpg)

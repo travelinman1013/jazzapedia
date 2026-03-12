@@ -1,13 +1,13 @@
 ---
-title: modern jazz quartet
+title: Modern Jazz Quartet
 wiki_slug: modern-jazz-quartet
 schema_version: 2
 status: active
 genres:
-- cool jazz
-- jazz
-- hard bop
-- bebop
+  - cool jazz
+  - jazz
+  - hard bop
+  - bebop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/modern_jazz_quartet.jpg
   caption: modern jazz quartet
@@ -27,54 +27,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John Lewis
-  - Milt Jackson
-  - Percy Heath
-  - Kenny Clarke
-  - Connie Kay
-  - Jimmy Giuffre
+    - John Lewis
+    - Milt Jackson
+    - Percy Heath
+    - Kenny Clarke
+    - Connie Kay
+    - Jimmy Giuffre
   influenced:
-  - Chick Corea
-  - Keith Jarrett
-  - The Heath Brothers
+    - Chick Corea
+    - Keith Jarrett
+    - The Heath Brothers
   mentors:
-  - Dizzy Gillespie
-  - Charlie Parker
+    - Dizzy Gillespie
+    - Charlie Parker
 spotify_data:
   followers: 123498
   id: 7wBFjZMHsC6nfV0HOSd6uI
   popularity: 42
-  url: https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI
+  url: 'https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI'
 discography_enriched: true
 top_tracks:
-- In A Sentimental Mood (Sonny Rollins With The Modern Jazz Quartet)
-- 'Softly As In A Morning Sunrise (Elegance: The Birth Of The Modern Jazz Quartet)'
-- Vendome (Pyramid)
-- Willow Weep for Me (Fontessa)
-- One Bass Hit (Django (Rudy Van Gelder Remaster))
-- Summertime - Live at Lincoln Center (The Complete Last Concert)
-- The Queen's Fancy (Django (Rudy Van Gelder Remaster))
-- Django (Pyramid)
-- Blues in C Minor (Blues On Bach)
-- Autumn In New York (Django (Rudy Van Gelder Remaster))
+  - In A Sentimental Mood (Sonny Rollins With The Modern Jazz Quartet)
+  - >-
+    Softly As In A Morning Sunrise (Elegance: The Birth Of The Modern Jazz
+    Quartet)
+  - Vendome (Pyramid)
+  - Willow Weep for Me (Fontessa)
+  - One Bass Hit (Django (Rudy Van Gelder Remaster))
+  - Summertime - Live at Lincoln Center (The Complete Last Concert)
+  - The Queen's Fancy (Django (Rudy Van Gelder Remaster))
+  - Django (Pyramid)
+  - Blues in C Minor (Blues On Bach)
+  - Autumn In New York (Django (Rudy Van Gelder Remaster))
 external_urls:
-  spotify: https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI
-  wikipedia: https://en.wikipedia.org/wiki/Modern_Jazz_Quartet
+  spotify: 'https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI'
+  wikipedia: 'https://en.wikipedia.org/wiki/Modern_Jazz_Quartet'
 image_path: 03_Resources/source_material/ArtistPortraits/modern_jazz_quartet.jpg
 biography_enhanced_at: '2025-11-20T06:44:23.818588'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia[2]
-- Concord[3]
-- Britannica[4]
-- Moosicus[1]
-- Vialma[6]
-- Routes Magazine[8]
+  - 'Wikipedia[2]'
+  - 'Concord[3]'
+  - 'Britannica[4]'
+  - 'Moosicus[1]'
+  - 'Vialma[6]'
+  - 'Routes Magazine[8]'
 network_extracted: true
 entry_created: '2025-11-20T06:44:23.818597'
 last_updated: '2025-12-23T08:16:13.230083'
-origin: New York City, New York, United States
+origin: 'New York City, New York, United States'
+artist_type: band
 ---
 
 ![](modern_jazz_quartet.jpg)

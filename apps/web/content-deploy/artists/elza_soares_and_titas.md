@@ -3,20 +3,20 @@ title: Elza Soares & Titas
 wiki_slug: elza-soares-titas
 schema_version: 2
 status: active
-birth_place: Rio de Janeiro, Rio de Janeiro, Brazil
+birth_place: 'Rio de Janeiro, Rio de Janeiro, Brazil'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/elza_soares_and_titas.jpg
   caption: Elza Soares & Titas
   background: solo_singer
-  origin: Rio de Janeiro, Rio de Janeiro, Brazil
+  origin: 'Rio de Janeiro, Rio de Janeiro, Brazil'
 audio_profile:
-  tempo_avg: 92.0
+  tempo_avg: 92
   energy_avg: 0.883
   valence_avg: 0.693
   danceability_avg: 0.586
   acousticness_avg: 0.137
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -4.4
   speechiness_avg: 0.045
   liveness_avg: 0.286
@@ -25,40 +25,41 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Titãs
-  - Miltinho
-  - José Miguel Wisnik
+    - Titãs
+    - Miltinho
+    - José Miguel Wisnik
   influenced:
-  - Os Titãs
-  - Lobão
+    - Os Titãs
+    - Lobão
   mentors:
-  - Ary Barroso
-  - Joaquim Naegli
+    - Ary Barroso
+    - Joaquim Naegli
 spotify_data:
   followers: 95
   id: 2zczEyjoIMciSMFgcvEm2A
   popularity: 2
-  url: https://open.spotify.com/artist/2zczEyjoIMciSMFgcvEm2A
+  url: 'https://open.spotify.com/artist/2zczEyjoIMciSMFgcvEm2A'
 discography_enriched: true
 top_tracks:
-- Samba de Preto (Samba de Preto)
+  - Samba de Preto (Samba de Preto)
 external_urls:
-  spotify: https://open.spotify.com/artist/2zczEyjoIMciSMFgcvEm2A
-  wikipedia: https://en.wikipedia.org/wiki/Elza_Soares
+  spotify: 'https://open.spotify.com/artist/2zczEyjoIMciSMFgcvEm2A'
+  wikipedia: 'https://en.wikipedia.org/wiki/Elza_Soares'
 image_path: ''
 biography_enhanced_at: '2025-11-23T06:28:41.273336'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Elza_Soares
-- https://pan-african-music.com/en/elza-soares-god-is-a-woman/
-- https://kids.kiddle.co/Elza_Soares
-- https://www.last.fm/music/Elza+Soares/+wiki
-- https://daily.redbullmusicacademy.com/2017/05/elza-soares/
-- https://www.allmusic.com/artist/soares-mn0000420729
+  - 'https://en.wikipedia.org/wiki/Elza_Soares'
+  - 'https://pan-african-music.com/en/elza-soares-god-is-a-woman/'
+  - 'https://kids.kiddle.co/Elza_Soares'
+  - 'https://www.last.fm/music/Elza+Soares/+wiki'
+  - 'https://daily.redbullmusicacademy.com/2017/05/elza-soares/'
+  - 'https://www.allmusic.com/artist/soares-mn0000420729'
 network_extracted: true
 entry_created: '2025-11-23T06:28:41.273350'
 last_updated: '2025-12-23T08:16:08.367337'
+artist_type: person
 ---
 
 ![]()

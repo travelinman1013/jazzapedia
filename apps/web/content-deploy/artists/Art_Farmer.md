@@ -2,27 +2,27 @@
 title: Art Farmer
 wiki_slug: art-farmer
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1928-08-21'
-birth_place: Council Bluffs, Iowa, United States
+birth_place: 'Council Bluffs, Iowa, United States'
 death_date: '1999-10-04'
 genres:
-- hard bop
-- jazz
-- cool jazz
-- bebop
+  - hard bop
+  - jazz
+  - cool jazz
+  - bebop
 instruments:
-- trumpet
-- eponymous
-- original
-- flugelhorn
+  - trumpet
+  - eponymous
+  - original
+  - flugelhorn
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Art_Farmer.jpg
   caption: Art Farmer
   background: non_vocal_instrumentalist
   born: '1928-08-21'
-  origin: Council Bluffs, Iowa, United States
+  origin: 'Council Bluffs, Iowa, United States'
   died: '1999-10-04'
 audio_profile:
   tempo_avg: 110.3
@@ -31,7 +31,7 @@ audio_profile:
   danceability_avg: 0.533
   acousticness_avg: 0.872
   instrumentalness_avg: 0.583
-  loudness_avg: -16.0
+  loudness_avg: -16
   speechiness_avg: 0.045
   liveness_avg: 0.115
   track_count: 48
@@ -39,49 +39,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Addison Farmer
-  - Benny Golson
-  - Gigi Gryce
-  - Horace Silver
-  - Gerry Mulligan
-  - Jim Hall
+    - Addison Farmer
+    - Benny Golson
+    - Gigi Gryce
+    - Horace Silver
+    - Gerry Mulligan
+    - Jim Hall
   influenced:
-  - Ron Blake
-  - Fred Hersch
-  - Tom Harrell
+    - Ron Blake
+    - Fred Hersch
+    - Tom Harrell
   mentors:
-  - Jimmy Nottingham
-  - Clifford Brown
+    - Jimmy Nottingham
+    - Clifford Brown
 spotify_data:
   followers: 54627
   id: 4L9xEztn5PKQIO5WnI5W3u
   popularity: 37
-  url: https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u
+  url: 'https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u'
 discography_enriched: true
 top_tracks:
-- When Your Lover Has Gone - Instrumental (2 Trumpets)
-- Goodbye, Old Girl (Art)
-- Fair Weather - Remastered (Modern Art)
-- I'm A Fool To Want (Art)
-- The Touch Of Your Lips - Remastered (Modern Art)
-- Darn That Dream - Remastered (Modern Art)
-- Petite Belle (Crawl Space)
-- Social Call
-- Younger Than Springtime (Art)
-- Chanson (Crawl Space)
+  - When Your Lover Has Gone - Instrumental (2 Trumpets)
+  - 'Goodbye, Old Girl (Art)'
+  - Fair Weather - Remastered (Modern Art)
+  - I'm A Fool To Want (Art)
+  - The Touch Of Your Lips - Remastered (Modern Art)
+  - Darn That Dream - Remastered (Modern Art)
+  - Petite Belle (Crawl Space)
+  - Social Call
+  - Younger Than Springtime (Art)
+  - Chanson (Crawl Space)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ee40fc76-9cbf-4862-bd00-e5f45e8d25d7
-  spotify: https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u
-  wikipedia: https://en.wikipedia.org/wiki/Art_Farmer
+  musicbrainz: 'https://musicbrainz.org/artist/ee40fc76-9cbf-4862-bd00-e5f45e8d25d7'
+  spotify: 'https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u'
+  wikipedia: 'https://en.wikipedia.org/wiki/Art_Farmer'
 image_path: 03_Resources/source_material/ArtistPortraits/Art_Farmer.jpg
 biography_enhanced_at: '2025-10-19T11:43:21.450656'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Art_Farmer
-- https://artfarmer.org/art-farmer-biography/
-- https://nationaljazzarchive.org.uk/explore/interviews/1620769-art-farmer-interview-1
-- https://livingjazzarchives.org/archives/art-farmer-archive/
+  - 'https://en.wikipedia.org/wiki/Art_Farmer'
+  - 'https://artfarmer.org/art-farmer-biography/'
+  - >-
+    https://nationaljazzarchive.org.uk/explore/interviews/1620769-art-farmer-interview-1
+  - 'https://livingjazzarchives.org/archives/art-farmer-archive/'
 network_extracted: true
 entry_created: '2025-10-19T11:43:21.450664'
 last_updated: '2025-12-23T08:16:01.063039'
@@ -89,9 +90,11 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:00:04.427387'
 musicbrainz_id: ee40fc76-9cbf-4862-bd00-e5f45e8d25d7
 tags:
-- 2008 universal fire victim
-- bebop
-- hard bop
+  - 2008 universal fire victim
+  - bebop
+  - hard bop
+is_active: false
+origin: 'Phoenix, Arizona, United States'
 ---
 
 ![](Art_Farmer.jpg)

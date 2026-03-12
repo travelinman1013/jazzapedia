@@ -5,58 +5,58 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1901-11-09'
-birth_place: Chicago
+birth_place: 'Chicago, Illinois, United States'
 death_date: '1967-02-12'
 genres:
-- ragtime
-- swing music
-- jazz
-- big band
+  - ragtime
+  - swing music
+  - jazz
+  - big band
 instruments:
-- trumpet
-- spoken vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bf3d9ce7-aa95-43c3-9c45-454a9ebc57f8
-  name: Sidney Bechet, Muggsy Spanier and the All-Stars
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 69b4aa29-254d-42d5-a769-ec0b30436e62
-  name: Muggsy Spanier & His Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7879f7c1-f690-4dc9-b739-8363b33d89d9
-  name: Muggsy Spanier and His Ragtime Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b84154cc-b25f-480f-8a90-057ca0d4d8af
-  name: Muggsy Spanier and His Ragtimers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 09ac62fa-670b-46f1-9899-25fbb4243f46
-  name: Stomp Six
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b29eb704-737f-47b7-86c1-05a2b731014a
-  name: Chicago Rhythm Kings
-- begin: ''
-  end: ''
-  instruments:
   - trumpet
-  mbid: 2eaa8e9b-51e5-4082-8920-8ef5b18532aa
-  name: Muggsy Spanier and His Jazz Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2222a98b-cc62-4ef6-8df1-2e9f3fa64473
-  name: The Bucktown Five
+  - spoken vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bf3d9ce7-aa95-43c3-9c45-454a9ebc57f8
+    name: 'Sidney Bechet, Muggsy Spanier and the All-Stars'
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 69b4aa29-254d-42d5-a769-ec0b30436e62
+    name: Muggsy Spanier & His Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7879f7c1-f690-4dc9-b739-8363b33d89d9
+    name: Muggsy Spanier and His Ragtime Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b84154cc-b25f-480f-8a90-057ca0d4d8af
+    name: Muggsy Spanier and His Ragtimers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 09ac62fa-670b-46f1-9899-25fbb4243f46
+    name: Stomp Six
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b29eb704-737f-47b7-86c1-05a2b731014a
+    name: Chicago Rhythm Kings
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: 2eaa8e9b-51e5-4082-8920-8ef5b18532aa
+    name: Muggsy Spanier and His Jazz Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2222a98b-cc62-4ef6-8df1-2e9f3fa64473
+    name: The Bucktown Five
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/muggsy_spanier.jpg
   caption: Muggsy Spanier
@@ -79,51 +79,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Austin High Gang
-  - Ted Lewis
-  - Muggsy Spanier and His Ragtime Band
+    - Austin High Gang
+    - Ted Lewis
+    - Muggsy Spanier and His Ragtime Band
   influenced:
-  - Dixieland revival musicians
+    - Dixieland revival musicians
   mentors:
-  - King Oliver
+    - King Oliver
 spotify_data:
   followers: 6998
   id: 0u61vtGdkaLTguZ5mVxLjK
   popularity: 29
-  url: https://open.spotify.com/artist/0u61vtGdkaLTguZ5mVxLjK
+  url: 'https://open.spotify.com/artist/0u61vtGdkaLTguZ5mVxLjK'
 discography_enriched: true
 top_tracks:
-- Lazy River (Ragtime Jazz)
-- Lazy River (Up A Lazy River)
-- I Wish I Could Shimmy Like My Sister Kate (1939-1944)
-- Relaxin' At the Touro (Oh! Lady Be Good)
-- I Wish I Could Shimmy Like My Sister Kate (Oh! Lady Be Good)
-- (What I Did to Be So) Black and Blue (Oh! Lady Be Good)
-- Sweet Lorraine (Ragtime Jazz)
-- Squeeze Me (Ragtime Jazz)
-- Tin Roof Blues (Oh! Lady Be Good)
-- Four or Five Times (Ragtime Jazz)
+  - Lazy River (Ragtime Jazz)
+  - Lazy River (Up A Lazy River)
+  - I Wish I Could Shimmy Like My Sister Kate (1939-1944)
+  - Relaxin' At the Touro (Oh! Lady Be Good)
+  - I Wish I Could Shimmy Like My Sister Kate (Oh! Lady Be Good)
+  - (What I Did to Be So) Black and Blue (Oh! Lady Be Good)
+  - Sweet Lorraine (Ragtime Jazz)
+  - Squeeze Me (Ragtime Jazz)
+  - Tin Roof Blues (Oh! Lady Be Good)
+  - Four or Five Times (Ragtime Jazz)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3c4b619e-29ec-4f07-adaf-403a01b15f2d
-  spotify: https://open.spotify.com/artist/0u61vtGdkaLTguZ5mVxLjK
-  wikipedia: https://en.wikipedia.org/wiki/Muggsy_Spanier
+  musicbrainz: 'https://musicbrainz.org/artist/3c4b619e-29ec-4f07-adaf-403a01b15f2d'
+  spotify: 'https://open.spotify.com/artist/0u61vtGdkaLTguZ5mVxLjK'
+  wikipedia: 'https://en.wikipedia.org/wiki/Muggsy_Spanier'
 image_path: 03_Resources/source_material/ArtistPortraits/muggsy_spanier.jpg
 biography_enhanced_at: '2025-11-20T07:06:09.401727'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://fromthevaults-boppinbob.blogspot.com/2013/11/muggsy-spanier-born-9-november-1906.html
-- https://syncopatedtimes.com/joseph-muggsy-spanier-1906-1967/
-- https://kids.kiddle.co/Muggsy_Spanier
-- https://lostsongs.home.blog/2020/05/11/muggsy-spanier-on-v-disc/
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2013/11/muggsy-spanier-born-9-november-1906.html
+  - 'https://syncopatedtimes.com/joseph-muggsy-spanier-1906-1967/'
+  - 'https://kids.kiddle.co/Muggsy_Spanier'
+  - 'https://lostsongs.home.blog/2020/05/11/muggsy-spanier-on-v-disc/'
 network_extracted: true
 entry_created: '2025-11-20T07:06:09.401735'
 last_updated: '2025-12-23T08:16:13.351131'
 gender: Male
 musicbrainz_id: 3c4b619e-29ec-4f07-adaf-403a01b15f2d
 tags:
-- dixieland
-- jazz
+  - dixieland
+  - jazz
+is_active: false
 ---
 
 ![](muggsy_spanier.jpg)

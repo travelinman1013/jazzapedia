@@ -1,43 +1,48 @@
 ---
 biography_enhanced_at: '2026-01-19T01:05:50.611379'
-birth_place: Osceola, Arkansas, United States
+birth_place: 'Osceola, Arkansas, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-19T01:05:50.611385'
 external_urls:
-  spotify: https://open.spotify.com/artist/43c94u7flZbHSdDaUuohqS
+  spotify: 'https://open.spotify.com/artist/43c94u7flZbHSdDaUuohqS'
   wikipedia: null
 genres:
-- country christian
-- country
-- classic country
+  - country christian
+  - country
+  - classic country
 image_path: 03_Resources/source_material/ArtistPortraits/buddy_jewel.jpg
 last_updated: '2026-01-19T01:05:50.611386'
 musical_connections:
   collaborators:
-  - Clint Black
-  - Marty Raybon
-  - The Bellamy Brothers
-  - White Oak
+    - Clint Black
+    - Marty Raybon
+    - The Bellamy Brothers
+    - White Oak
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Buddy+Jewell/+wiki
-- https://billybobstexas.com/artists/buddy-jewell
-- https://encyclopediaofarkansas.net/entries/buddy-jewell-8054/
-- https://www.anthonybonnette.com/post/buddy-jewell-from-nashville-star-to-country-legend
-- https://buddyjewell.com/bio
-- https://www.hmdb.org/m.asp?m=265095
-- https://www.oreateai.com/blog/buddy-jewell-a-glimpse-into-his-journey-and-net-worth/3788be445075458a9eee03166698c40a
-- https://www.iheart.com/artist/buddy-jewell-116146/
+  - 'https://www.last.fm/music/Buddy+Jewell/+wiki'
+  - 'https://billybobstexas.com/artists/buddy-jewell'
+  - 'https://encyclopediaofarkansas.net/entries/buddy-jewell-8054/'
+  - >-
+    https://www.anthonybonnette.com/post/buddy-jewell-from-nashville-star-to-country-legend
+  - 'https://buddyjewell.com/bio'
+  - 'https://www.hmdb.org/m.asp?m=265095'
+  - >-
+    https://www.oreateai.com/blog/buddy-jewell-a-glimpse-into-his-journey-and-net-worth/3788be445075458a9eee03166698c40a
+  - 'https://www.iheart.com/artist/buddy-jewell-116146/'
 spotify_data:
   followers: 70634
   id: 43c94u7flZbHSdDaUuohqS
   popularity: 38
-  url: https://open.spotify.com/artist/43c94u7flZbHSdDaUuohqS
+  url: 'https://open.spotify.com/artist/43c94u7flZbHSdDaUuohqS'
 status: active
-title: BUDDY JEWEL
+title: Buddy Jewell
+origin: 'Osceola, Arkansas, United States'
+birth_date: '1961-04-02'
+artist_type: person
 ---
 
 ![](buddy_jewel.jpg)

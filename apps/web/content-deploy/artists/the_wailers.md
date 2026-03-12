@@ -2,14 +2,14 @@
 title: The Wailers
 wiki_slug: the-wailers
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1963'
 genres:
-- reggae
-- roots reggae
-- ska
-- rocksteady
+  - reggae
+  - roots reggae
+  - ska
+  - rocksteady
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_wailers.jpg
   caption: The Wailers
@@ -30,131 +30,132 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Aston 'Family Man' Barrett
-  - Carlton Barrett
-  - The I-Threes (Rita Marley, Marcia Griffiths, Judy Mowatt)
-  - Chris Blackwell
+    - Aston 'Family Man' Barrett
+    - Carlton Barrett
+    - 'The I-Threes (Rita Marley, Marcia Griffiths, Judy Mowatt)'
+    - Chris Blackwell
   influenced:
-  - Ziggy Marley
-  - The Police
-  - Alpha Blondy
+    - Ziggy Marley
+    - The Police
+    - Alpha Blondy
   mentors:
-  - Clement 'Coxsone' Dodd
-  - Lee 'Scratch' Perry
+    - Clement 'Coxsone' Dodd
+    - Lee 'Scratch' Perry
 spotify_data:
   followers: 611642
   id: 6uSKeCyQEhvPC2NODgiqFE
   popularity: 49
-  url: https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE
+  url: 'https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE'
 discography_enriched: true
 top_tracks:
-- I Shot The Sheriff (Burnin' (Deluxe Edition))
-- I Shot The Sheriff
-- Get Up, Stand Up
-- Cocody Rock - 2010 Remastered Edition (Cocody Rock !!! (2010 Remastered Edition))
-- Jerusalem - 2010 Remastered Edition (Jerusalem (2010 Remastered Edition))
-- Get Up, Stand Up (One Love (Original Motion Picture Soundtrack))
-- Burnin' And Lootin' (Burnin' (Deluxe Edition))
-- Get Up, Stand Up (Burnin' (Deluxe Edition))
-- Vamos fugir (Participação especial de The Wailers) (Raça humana)
-- Put It On (Burnin' (Deluxe Edition))
+  - I Shot The Sheriff (Burnin' (Deluxe Edition))
+  - I Shot The Sheriff
+  - 'Get Up, Stand Up'
+  - >-
+    Cocody Rock - 2010 Remastered Edition (Cocody Rock !!! (2010 Remastered
+    Edition))
+  - Jerusalem - 2010 Remastered Edition (Jerusalem (2010 Remastered Edition))
+  - 'Get Up, Stand Up (One Love (Original Motion Picture Soundtrack))'
+  - Burnin' And Lootin' (Burnin' (Deluxe Edition))
+  - 'Get Up, Stand Up (Burnin'' (Deluxe Edition))'
+  - Vamos fugir (Participação especial de The Wailers) (Raça humana)
+  - Put It On (Burnin' (Deluxe Edition))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c9e99d40-4a2c-4ca7-ac5b-e842264ee271
-  spotify: https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE
-  wikipedia: https://en.wikipedia.org/wiki/Bob_Marley_and_the_Wailers
+  musicbrainz: 'https://musicbrainz.org/artist/c9e99d40-4a2c-4ca7-ac5b-e842264ee271'
+  spotify: 'https://open.spotify.com/artist/6uSKeCyQEhvPC2NODgiqFE'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bob_Marley_and_the_Wailers'
 image_path: 03_Resources/source_material/ArtistPortraits/the_wailers.jpg
 biography_enhanced_at: '2025-11-02T07:36:06.399449'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Bob_Marley_and_the_Wailers
-- https://rizzandthebelieverz.com/the-wailers/
-- https://www.britannica.com/topic/the-Wailers
-- https://reggaegroove.com/the-wailers/
-- https://www.thewailers.com/about/
-- https://www.thewailers.com/the-band/
+  - 'https://en.wikipedia.org/wiki/Bob_Marley_and_the_Wailers'
+  - 'https://rizzandthebelieverz.com/the-wailers/'
+  - 'https://www.britannica.com/topic/the-Wailers'
+  - 'https://reggaegroove.com/the-wailers/'
+  - 'https://www.thewailers.com/about/'
+  - 'https://www.thewailers.com/the-band/'
 network_extracted: true
 entry_created: '2025-11-02T07:36:06.399467'
 last_updated: '2025-12-23T08:16:17.270588'
-disambiguation: ’60s – ’70s Jamaican reggae band of Wailer, Marley & Tosh
+disambiguation: '’60s – ’70s Jamaican reggae band of Wailer, Marley & Tosh'
 members:
-- begin: '1963'
-  end: '1964'
-  instruments: []
-  mbid: 2736c64a-80fe-4bcd-95b7-3199b8d65707
-  name: Junior Braithwaite
-- begin: '1963'
-  end: '1966-02-11'
-  instruments: []
-  mbid: ed2ac1e9-d51d-4eff-a2c2-85e81abd6360
-  name: Bob Marley
-- begin: '1963'
-  end: '1966'
-  instruments: []
-  mbid: 8b43e986-d34e-456f-9195-20275f2c3ddd
-  name: Beverley Kelso
-- begin: '1963'
-  end: '1966'
-  instruments: []
-  mbid: 531b9f8d-2a74-4885-8811-80576a59b985
-  name: Cherry Smith
-- begin: '1963'
-  end: 1970-12
-  instruments: []
-  mbid: 7db6aae5-6644-4513-9bfc-ca2e79d4469c
-  name: Peter Tosh
-- begin: '1963'
-  end: 1970-12
-  instruments: []
-  mbid: d4ab32fd-e45d-44bf-9e70-891521672085
-  name: Bunny Wailer
-- begin: 1966-10
-  end: 1970-12
-  instruments: []
-  mbid: ed2ac1e9-d51d-4eff-a2c2-85e81abd6360
-  name: Bob Marley
-- begin: '1969'
-  end: '1970'
-  instruments: []
-  mbid: d0fd73f3-4268-4c25-a046-3a812b894b85
-  name: Aston “Family Man” Barrett
-- begin: '1969'
-  end: '1970'
-  instruments: []
-  mbid: 1e85ec19-0c22-4a7e-b7ce-784bae954e46
-  name: Carlton “Carly” Barrett
-- begin: '1973'
-  end: '1974'
-  instruments: []
-  mbid: ed2ac1e9-d51d-4eff-a2c2-85e81abd6360
-  name: Bob Marley
-- begin: '1973'
-  end: '1974'
-  instruments: []
-  mbid: 7db6aae5-6644-4513-9bfc-ca2e79d4469c
-  name: Peter Tosh
-- begin: '1973'
-  end: '1974'
-  instruments: []
-  mbid: d4ab32fd-e45d-44bf-9e70-891521672085
-  name: Bunny Wailer
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e856cd62-d905-49f7-8550-9fbb93b26e83
-  name: Carl Dawkins & The Wailers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e9863e7e-59ad-4112-a917-b269f6d251e6
-  name: ジョー山中
+  - begin: '1963'
+    end: '1964'
+    instruments: []
+    mbid: 2736c64a-80fe-4bcd-95b7-3199b8d65707
+    name: Junior Braithwaite
+  - begin: '1963'
+    end: '1966-02-11'
+    instruments: []
+    mbid: ed2ac1e9-d51d-4eff-a2c2-85e81abd6360
+    name: Bob Marley
+  - begin: '1963'
+    end: '1966'
+    instruments: []
+    mbid: 8b43e986-d34e-456f-9195-20275f2c3ddd
+    name: Beverley Kelso
+  - begin: '1963'
+    end: '1966'
+    instruments: []
+    mbid: 531b9f8d-2a74-4885-8811-80576a59b985
+    name: Cherry Smith
+  - begin: '1963'
+    end: 1970-12
+    instruments: []
+    mbid: 7db6aae5-6644-4513-9bfc-ca2e79d4469c
+    name: Peter Tosh
+  - begin: '1963'
+    end: 1970-12
+    instruments: []
+    mbid: d4ab32fd-e45d-44bf-9e70-891521672085
+    name: Bunny Wailer
+  - begin: 1966-10
+    end: 1970-12
+    instruments: []
+    mbid: ed2ac1e9-d51d-4eff-a2c2-85e81abd6360
+    name: Bob Marley
+  - begin: '1969'
+    end: '1970'
+    instruments: []
+    mbid: d0fd73f3-4268-4c25-a046-3a812b894b85
+    name: Aston “Family Man” Barrett
+  - begin: '1969'
+    end: '1970'
+    instruments: []
+    mbid: 1e85ec19-0c22-4a7e-b7ce-784bae954e46
+    name: Carlton “Carly” Barrett
+  - begin: '1973'
+    end: '1974'
+    instruments: []
+    mbid: ed2ac1e9-d51d-4eff-a2c2-85e81abd6360
+    name: Bob Marley
+  - begin: '1973'
+    end: '1974'
+    instruments: []
+    mbid: 7db6aae5-6644-4513-9bfc-ca2e79d4469c
+    name: Peter Tosh
+  - begin: '1973'
+    end: '1974'
+    instruments: []
+    mbid: d4ab32fd-e45d-44bf-9e70-891521672085
+    name: Bunny Wailer
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e856cd62-d905-49f7-8550-9fbb93b26e83
+    name: Carl Dawkins & The Wailers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e9863e7e-59ad-4112-a917-b269f6d251e6
+    name: ジョー山中
 musicbrainz_id: c9e99d40-4a2c-4ca7-ac5b-e842264ee271
-origin: Kingston
+origin: 'Kingston, Jamaica, United States'
 tags:
-- jamaican ska
-- reggae
-- rocksteady
-
+  - jamaican ska
+  - reggae
+  - rocksteady
 ---
 
 ![](the_wailers.jpg)

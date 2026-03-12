@@ -3,14 +3,14 @@ title: Gregory Corso
 wiki_slug: gregory-corso
 schema_version: 2
 status: active
-birth_place: New York City, New York, United States
+birth_place: 'New York City, New York, United States'
 genres:
-- spoken word
+  - spoken word
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/gregory_corso.jpg
   caption: Gregory Corso
   background: solo_singer
-  origin: New York City, New York, United States
+  origin: 'New York City, New York, United States'
 audio_profile:
   tempo_avg: 101.8
   energy_avg: 0.249
@@ -18,7 +18,7 @@ audio_profile:
   danceability_avg: 0.615
   acousticness_avg: 0.696
   instrumentalness_avg: 0.036
-  loudness_avg: -19.0
+  loudness_avg: -19
   speechiness_avg: 0.655
   liveness_avg: 0.357
   track_count: 50
@@ -26,46 +26,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jack Kerouac
-  - Lawrence Ferlinghetti
+    - Jack Kerouac
+    - Lawrence Ferlinghetti
   influenced:
-  - Spoken word artists
+    - Spoken word artists
   mentors:
-  - Allen Ginsberg
-  - Percy Bysshe Shelley
+    - Allen Ginsberg
+    - Percy Bysshe Shelley
 spotify_data:
   followers: 776
   id: 7dsv2rztUSoRBX3zM5c4L0
   popularity: 2
-  url: https://open.spotify.com/artist/7dsv2rztUSoRBX3zM5c4L0
+  url: 'https://open.spotify.com/artist/7dsv2rztUSoRBX3zM5c4L0'
 discography_enriched: true
 top_tracks:
-- 'Intro (The Beat Generation 10th Anniversary Presents: The Three Angels - Original Beat Poetry)'
-- 'Dream (The Beat Generation 10th Anniversary Presents: The Three Angels - Original Beat Poetry)'
-- 'Male Female Part 1 (The Beat Generation 10th Anniversary Presents: The Three Angels - Original Beat Poetry)'
-- 'I''d Love to Shove a Rose (The Beat Generation 10th Anniversary Presents: The Three Angels - Original Beat Poetry)'
-- 'The Whole Mess Almost (The Beat Generation 10th Anniversary Presents: The Three Angels - Original Beat Poetry)'
-- Marriage (Disconnected)
-- Nurse's Song (Innocence) (Holy Soul Jelly Roll)
-- Sun-A Spontaneous Poem (Sounds of the City, Manhattan Fables - Beatnik Poetry and Prose)
-- Üç (Weltschmerz ya da İntihara Kırk Kala)
-- Army (Words & Music, Book One)
+  - >-
+    Intro (The Beat Generation 10th Anniversary Presents: The Three Angels -
+    Original Beat Poetry)
+  - >-
+    Dream (The Beat Generation 10th Anniversary Presents: The Three Angels -
+    Original Beat Poetry)
+  - >-
+    Male Female Part 1 (The Beat Generation 10th Anniversary Presents: The Three
+    Angels - Original Beat Poetry)
+  - >-
+    I'd Love to Shove a Rose (The Beat Generation 10th Anniversary Presents: The
+    Three Angels - Original Beat Poetry)
+  - >-
+    The Whole Mess Almost (The Beat Generation 10th Anniversary Presents: The
+    Three Angels - Original Beat Poetry)
+  - Marriage (Disconnected)
+  - Nurse's Song (Innocence) (Holy Soul Jelly Roll)
+  - >-
+    Sun-A Spontaneous Poem (Sounds of the City, Manhattan Fables - Beatnik
+    Poetry and Prose)
+  - Üç (Weltschmerz ya da İntihara Kırk Kala)
+  - 'Army (Words & Music, Book One)'
 external_urls:
-  spotify: https://open.spotify.com/artist/7dsv2rztUSoRBX3zM5c4L0
-  wikipedia: https://en.wikipedia.org/wiki/Gregory_Corso
+  spotify: 'https://open.spotify.com/artist/7dsv2rztUSoRBX3zM5c4L0'
+  wikipedia: 'https://en.wikipedia.org/wiki/Gregory_Corso'
 image_path: 03_Resources/source_material/ArtistPortraits/gregory_corso.jpg
 biography_enhanced_at: '2025-11-24T08:41:40.560006'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Gregory_Corso
-- https://www.britannica.com/biography/Gregory-Corso
-- https://poets.org/poet/gregory-corso
-- https://www.ebsco.com/research-starters/biography/gregory-corso
-- https://mypoeticside.com/poets/gregory-corso-poems
+  - 'https://en.wikipedia.org/wiki/Gregory_Corso'
+  - 'https://www.britannica.com/biography/Gregory-Corso'
+  - 'https://poets.org/poet/gregory-corso'
+  - 'https://www.ebsco.com/research-starters/biography/gregory-corso'
+  - 'https://mypoeticside.com/poets/gregory-corso-poems'
 network_extracted: true
 entry_created: '2025-11-24T08:41:40.560013'
 last_updated: '2025-12-23T08:16:09.348924'
+artist_type: person
 ---
 
 ![](gregory_corso.jpg)

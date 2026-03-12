@@ -3,16 +3,16 @@ title: Jimmie Noone
 wiki_slug: jimmie-noone
 schema_version: 2
 status: active
-birth_place: Cut Off, Louisiana, United States
+birth_place: 'Cut Off, Louisiana, United States'
 genres:
-- ragtime
-- jazz
-- swing music
+  - ragtime
+  - jazz
+  - swing music
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jimmie_noone.jpg
   caption: Jimmie Noone
   background: solo_singer
-  origin: Cut Off, Louisiana, United States
+  origin: 'Cut Off, Louisiana, United States'
 audio_profile:
   tempo_avg: 120.4
   energy_avg: 0.346
@@ -28,58 +28,68 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Freddie Keppard
-  - Doc Cook (Charles Cooke)
-  - Joe Poston
-  - Earl Hines
-  - King Oliver
-  - Kid Ory
-  - Mutt Carey, Ed Garland, Zutty Singleton, Bud Scott, Buster Wilson
-  - Joe Williams
+    - Freddie Keppard
+    - Doc Cook (Charles Cooke)
+    - Joe Poston
+    - Earl Hines
+    - King Oliver
+    - Kid Ory
+    - 'Mutt Carey, Ed Garland, Zutty Singleton, Bud Scott, Buster Wilson'
+    - Joe Williams
   influenced:
-  - Benny Goodman
-  - Joe Williams
-  - Jimmie Noone Jr.
+    - Benny Goodman
+    - Joe Williams
+    - Jimmie Noone Jr.
   mentors:
-  - Lorenzo Tio Jr.
-  - Sidney Bechet
-  - Franz Schoepp
+    - Lorenzo Tio Jr.
+    - Sidney Bechet
+    - Franz Schoepp
 spotify_data:
   followers: 3633
   id: 2o0ypB7FfdIX9xnjSeAKi6
   popularity: 14
-  url: https://open.spotify.com/artist/2o0ypB7FfdIX9xnjSeAKi6
+  url: 'https://open.spotify.com/artist/2o0ypB7FfdIX9xnjSeAKi6'
 discography_enriched: true
 top_tracks:
-- Blues My Naughty Sweetie Gives to Me (The Complete Jimmie Noone (1923-29), Vol. 1)
-- Four Or Five Times (12-01-37) (Complete Jazz Series 1934 - 1940)
-- Blues My Naughty Sweetie Gives To Me (Essential Jazz Masters)
-- Way Down Yonder In New Orleans (That Amazing Soft World Of Jimmie Noone)
-- 'Let''s Sow a Wild Oat (The Naughty 1920s: Red Hot & Risque Songs of The Jazz Age, Vol. 1)'
-- Four Or Five Times - Original
-- So Sweet (07-01-30) (Complete Jazz Series 1930 - 1934)
-- You Rascal, You (07-29-30) (Complete Jazz Series 1930 - 1934)
-- 'I Know That You Know (Jimmie Noone: Apex Time, 1928-1930 (Jazz Archives No. 4))'
-- Hell In My Heart (12-01-37) (Complete Jazz Series 1934 - 1940)
+  - >-
+    Blues My Naughty Sweetie Gives to Me (The Complete Jimmie Noone (1923-29),
+    Vol. 1)
+  - Four Or Five Times (12-01-37) (Complete Jazz Series 1934 - 1940)
+  - Blues My Naughty Sweetie Gives To Me (Essential Jazz Masters)
+  - Way Down Yonder In New Orleans (That Amazing Soft World Of Jimmie Noone)
+  - >-
+    Let's Sow a Wild Oat (The Naughty 1920s: Red Hot & Risque Songs of The Jazz
+    Age, Vol. 1)
+  - Four Or Five Times - Original
+  - So Sweet (07-01-30) (Complete Jazz Series 1930 - 1934)
+  - 'You Rascal, You (07-29-30) (Complete Jazz Series 1930 - 1934)'
+  - >-
+    I Know That You Know (Jimmie Noone: Apex Time, 1928-1930 (Jazz Archives No.
+    4))
+  - Hell In My Heart (12-01-37) (Complete Jazz Series 1934 - 1940)
 external_urls:
-  spotify: https://open.spotify.com/artist/2o0ypB7FfdIX9xnjSeAKi6
-  wikipedia: https://en.wikipedia.org/wiki/Jimmie_Noone
+  spotify: 'https://open.spotify.com/artist/2o0ypB7FfdIX9xnjSeAKi6'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jimmie_Noone'
 image_path: 03_Resources/source_material/ArtistPortraits/jimmie_noone.jpg
 biography_enhanced_at: '2025-12-06T05:41:10.892461'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jimmie_Noone
-- https://syncopatedtimes.com/jimmie-noone-profiles-in-jazz/
-- https://fromthevaults-boppinbob.blogspot.com/2017/04/jimmie-noone-born-23-april-1895.html
-- https://www.allaboutjazz.com/musicians/jimmie-noone/
-- https://veritenews.org/2025/10/17/jimmie-noone-clarinetist-johnny-dodds-orson-welles/
-- https://aaregistry.org/story/jimmie-noone-a-polished-player-of-jazz/
-- https://kids.kiddle.co/Jimmie_Noone
-- https://jazzlives.wordpress.com/2010/06/22/jimmie-noone-jazz-clarinet-pioneer/
+  - 'https://en.wikipedia.org/wiki/Jimmie_Noone'
+  - 'https://syncopatedtimes.com/jimmie-noone-profiles-in-jazz/'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2017/04/jimmie-noone-born-23-april-1895.html
+  - 'https://www.allaboutjazz.com/musicians/jimmie-noone/'
+  - >-
+    https://veritenews.org/2025/10/17/jimmie-noone-clarinetist-johnny-dodds-orson-welles/
+  - 'https://aaregistry.org/story/jimmie-noone-a-polished-player-of-jazz/'
+  - 'https://kids.kiddle.co/Jimmie_Noone'
+  - >-
+    https://jazzlives.wordpress.com/2010/06/22/jimmie-noone-jazz-clarinet-pioneer/
 network_extracted: true
 entry_created: '2025-12-06T05:41:10.892474'
 last_updated: '2025-12-23T08:16:02.549166'
+artist_type: person
 ---
 
 ![](jimmie_noone.jpg)

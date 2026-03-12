@@ -3,13 +3,17 @@ title: Lena Prima
 wiki_slug: lena-prima
 schema_version: 2
 status: active
-birth_place: Las Vegas, Nevada, United States (birthplace); New Orleans, Louisiana, United States (current residence)
+birth_place: >-
+  Las Vegas, Nevada, United States (birthplace); New Orleans, Louisiana, United
+  States (current residence)
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Lena_Prima.jpg
   caption: Lena Prima
   background: solo_singer
-  origin: Las Vegas, Nevada, United States (birthplace); New Orleans, Louisiana, United States (current residence)
+  origin: >-
+    Las Vegas, Nevada, United States (birthplace); New Orleans, Louisiana,
+    United States (current residence)
 audio_profile:
   tempo_avg: 129.3
   energy_avg: 0.629
@@ -25,45 +29,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Geoff Workman
-  - Frankie Moreno
-  - The New Orleans Hot Six
+    - Geoff Workman
+    - Frankie Moreno
+    - The New Orleans Hot Six
   influenced: []
   mentors:
-  - Louis Prima
-  - Gia Maione
-  - Marcia Neel
+    - Louis Prima
+    - Gia Maione
+    - Marcia Neel
 spotify_data:
   followers: 274
   id: 158CyiVqfaY1oiKBATw0ee
   popularity: 1
-  url: https://open.spotify.com/artist/158CyiVqfaY1oiKBATw0ee
+  url: 'https://open.spotify.com/artist/158CyiVqfaY1oiKBATw0ee'
 discography_enriched: true
 top_tracks:
-- Che La Luna (Pennies from Heaven)
-- Full Moon in New Orleans (Starting Something)
-- Kickin' It Old School Redux (Lena Prima Big Fun Playlist)
-- See That You're Born an Italian (Prima La Famiglia)
-- Buona sera signorina (Intimo)
-- Buona Sera Signorina - Remastered (Intimo (Remastered))
-- New Orleans - Live (Lena Prima Big Fun Playlist)
-- I Wanna Be Like You - Live (Lena Prima Big Fun Playlist)
-- Be My Baby (Lena Prima Big Fun Playlist)
-- Night Train - Live (Lena Prima Big Fun Playlist)
+  - Che La Luna (Pennies from Heaven)
+  - Full Moon in New Orleans (Starting Something)
+  - Kickin' It Old School Redux (Lena Prima Big Fun Playlist)
+  - See That You're Born an Italian (Prima La Famiglia)
+  - Buona sera signorina (Intimo)
+  - Buona Sera Signorina - Remastered (Intimo (Remastered))
+  - New Orleans - Live (Lena Prima Big Fun Playlist)
+  - I Wanna Be Like You - Live (Lena Prima Big Fun Playlist)
+  - Be My Baby (Lena Prima Big Fun Playlist)
+  - Night Train - Live (Lena Prima Big Fun Playlist)
 external_urls:
-  spotify: https://open.spotify.com/artist/158CyiVqfaY1oiKBATw0ee
-  wikipedia: https://en.wikipedia.org/wiki/Lena_Prima
+  spotify: 'https://open.spotify.com/artist/158CyiVqfaY1oiKBATw0ee'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lena_Prima'
 image_path: 03_Resources/source_material/ArtistPortraits/Lena_Prima.jpg
 biography_enhanced_at: '2025-10-20T10:13:38.666691'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.lenaprima.com/about
-- https://en.wikipedia.org/wiki/Lena_Prima
-- https://thesmithcenter.com/explore/smith-center-blog/light-up-vegas-stages/
+  - 'https://www.lenaprima.com/about'
+  - 'https://en.wikipedia.org/wiki/Lena_Prima'
+  - 'https://thesmithcenter.com/explore/smith-center-blog/light-up-vegas-stages/'
 network_extracted: true
 entry_created: '2025-10-20T10:13:38.666701'
 last_updated: '2025-12-23T08:16:02.982128'
+artist_type: person
 ---
 
 ![](Lena_Prima.jpg)

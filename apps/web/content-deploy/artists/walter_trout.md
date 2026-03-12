@@ -1,88 +1,92 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '1981'
-  end: '1985'
-  instruments:
-  - guitar
-  mbid: 815a0279-558c-4522-ac3b-6a1e259e95b5
-  name: Canned Heat
-- begin: '1985'
-  end: '1989'
-  instruments:
-  - electric guitar
-  mbid: 4756395c-57ed-4a63-afb2-01117f14dff6
-  name: John Mayall & the Bluesbreakers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6cccfb53-7b51-48e2-a357-65e8fdb2fce0
-  name: Walter Trout & The Free Radicals
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a5884741-dbcc-4357-8f27-226cb14abd1d
-  name: Walter Trout Band
+  - begin: '1981'
+    end: '1985'
+    instruments:
+      - guitar
+    mbid: 815a0279-558c-4522-ac3b-6a1e259e95b5
+    name: Canned Heat
+  - begin: '1985'
+    end: '1989'
+    instruments:
+      - electric guitar
+    mbid: 4756395c-57ed-4a63-afb2-01117f14dff6
+    name: John Mayall & the Bluesbreakers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6cccfb53-7b51-48e2-a357-65e8fdb2fce0
+    name: Walter Trout & The Free Radicals
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a5884741-dbcc-4357-8f27-226cb14abd1d
+    name: Walter Trout Band
 biography_enhanced_at: '2026-01-22T07:19:10.840048'
 birth_date: '1951-03-06'
-birth_place: Ocean City
+birth_place: 'Ocean City, New Jersey, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:19:10.840054'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/efddcf31-943b-49f0-aef1-cf5539d8048b
-  spotify: https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq
+  musicbrainz: 'https://musicbrainz.org/artist/efddcf31-943b-49f0-aef1-cf5539d8048b'
+  spotify: 'https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq'
   wikipedia: Not found in search results
 gender: Male
 genres:
-- blues
-- blues rock
-- modern blues
-- classic blues
+  - blues
+  - blues rock
+  - modern blues
+  - classic blues
 image_path: 03_Resources/source_material/ArtistPortraits/walter_trout.jpg
 instruments:
-- guitar
-- electric guitar
-- acoustic guitar
-- lead vocals
+  - guitar
+  - electric guitar
+  - acoustic guitar
+  - lead vocals
 last_updated: '2026-01-22T07:19:10.840054'
 musical_connections:
   collaborators:
-  - Deacon Jones
-  - John Lee Hooker
-  - Canned Heat
-  - Coco Montoya
-  - Michael Leasure
-  - John Avila
-  - Teddy 'Zig Zag' Andreadis
+    - Deacon Jones
+    - John Lee Hooker
+    - Canned Heat
+    - Coco Montoya
+    - Michael Leasure
+    - John Avila
+    - Teddy 'Zig Zag' Andreadis
   influenced:
-  - Blues music community
+    - Blues music community
   mentors:
-  - Duke Ellington
-  - Paul Butterfield Blues Band (featuring Mike Bloomfield)
-  - John Mayall
+    - Duke Ellington
+    - Paul Butterfield Blues Band (featuring Mike Bloomfield)
+    - John Mayall
 musicbrainz_id: efddcf31-943b-49f0-aef1-cf5539d8048b
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://wordpress.rufrecords.de/en/walter-trout-e/
-- https://abreathoffreshair.com.au/episodes/walter-trout-from-canned-heat-to-stardom-the-journey/
-- https://www.youtube.com/watch?v=bYU8GQeRN4c
-- https://www.mascotlabelgroup.com/pages/walter-trout-biography
-- https://www.americanbluesscene.com/2017/01/walter-trout-grim-fairy-tale-happy-ending/
-- https://www.vintageguitar.com/2796/walter-trout/
-- https://rockingmagpie.wordpress.com/books-videos-stuff/walter-trout-rescued-from-reality-autobiographybook/
-- https://www.guitarplayer.com/players/walter-trout-broken
+  - 'https://wordpress.rufrecords.de/en/walter-trout-e/'
+  - >-
+    https://abreathoffreshair.com.au/episodes/walter-trout-from-canned-heat-to-stardom-the-journey/
+  - 'https://www.youtube.com/watch?v=bYU8GQeRN4c'
+  - 'https://www.mascotlabelgroup.com/pages/walter-trout-biography'
+  - >-
+    https://www.americanbluesscene.com/2017/01/walter-trout-grim-fairy-tale-happy-ending/
+  - 'https://www.vintageguitar.com/2796/walter-trout/'
+  - >-
+    https://rockingmagpie.wordpress.com/books-videos-stuff/walter-trout-rescued-from-reality-autobiographybook/
+  - 'https://www.guitarplayer.com/players/walter-trout-broken'
 spotify_data:
   followers: 133288
   id: 12LgviUQ9DbfYJJ9niDWRq
   popularity: 41
-  url: https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq
+  url: 'https://open.spotify.com/artist/12LgviUQ9DbfYJJ9niDWRq'
 status: active
 tags:
-- blues
-- blues rock
-- electric blues
+  - blues
+  - blues rock
+  - electric blues
 title: Walter Trout
+origin: 'Los Angeles, California, United States'
 ---
 
 ![](walter_trout.jpg)

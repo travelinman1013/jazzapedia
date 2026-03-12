@@ -3,42 +3,47 @@ biography_enhanced_at: '2026-01-19T01:10:35.553043'
 enhancement_provider: perplexity
 entry_created: '2026-01-19T01:10:35.553049'
 external_urls:
-  spotify: https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW
-  wikipedia: https://en.wikipedia.org/wiki/Songs_of_Our_Native_Daughters
+  spotify: 'https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW'
+  wikipedia: 'https://en.wikipedia.org/wiki/Songs_of_Our_Native_Daughters'
 genres:
-- americana
-- folk
+  - americana
+  - folk
 image_path: 03_Resources/source_material/ArtistPortraits/our_native_daughters.jpg
 last_updated: '2026-01-19T01:10:35.553049'
 musical_connections:
   collaborators:
-  - Rhiannon Giddens
-  - Amythyst Kiah
-  - Leyla McCalla
-  - Allison Russell
-  - Dirk Powell
+    - Rhiannon Giddens
+    - Amythyst Kiah
+    - Leyla McCalla
+    - Allison Russell
+    - Dirk Powell
   influenced: []
   mentors:
-  - Joe Thompson
+    - Joe Thompson
 network_extracted: true
-origin: United States (multi-national group; Rhiannon Giddens from Greensboro, North
+origin: >-
+  United States (multi-national group; Rhiannon Giddens from Greensboro, North
   Carolina; Allison Russell from Montreal, Quebec, Canada)
 primary_source: perplexity
 research_sources:
-- https://portside.org/2019-02-08/black-myself-rhiannon-giddens-forms-supergroup-our-native-daughters-and-reclaims-soul
-- https://rhiannongiddens.com/our-native-daughters
-- https://en.wikipedia.org/wiki/Songs_of_Our_Native_Daughters
-- https://folkways.si.edu/artists/our-native-daughters
-- https://www.wpr.org/music/past-present-songs-our-native-daughters
-- https://afro.com/our-native-daughters-bring-black-womens-voices-to-forefront/
-- https://americanahighways.org/2019/02/21/review-extraordinary-project-songs-of-our-native-daughters-rhiannon-giddens-amythyst-kiah-allison-russell-and-leyla-mccalla/
+  - >-
+    https://portside.org/2019-02-08/black-myself-rhiannon-giddens-forms-supergroup-our-native-daughters-and-reclaims-soul
+  - 'https://rhiannongiddens.com/our-native-daughters'
+  - 'https://en.wikipedia.org/wiki/Songs_of_Our_Native_Daughters'
+  - 'https://folkways.si.edu/artists/our-native-daughters'
+  - 'https://www.wpr.org/music/past-present-songs-our-native-daughters'
+  - >-
+    https://afro.com/our-native-daughters-bring-black-womens-voices-to-forefront/
+  - >-
+    https://americanahighways.org/2019/02/21/review-extraordinary-project-songs-of-our-native-daughters-rhiannon-giddens-amythyst-kiah-allison-russell-and-leyla-mccalla/
 spotify_data:
   followers: 24787
   id: 6RnVRG8PIgQT6vYzbfHZXW
   popularity: 23
-  url: https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW
+  url: 'https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW'
 status: active
-title: our native daughters
+title: Our Native Daughters
+artist_type: person
 ---
 
 ![](our_native_daughters.jpg)

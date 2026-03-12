@@ -1,40 +1,40 @@
 ---
-title: ben sidran
+title: Ben Sidran
 wiki_slug: ben-sidran
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1943-08-14'
-birth_place: Chicago
+birth_place: 'Chicago, Illinois, United States'
 genres:
-- vocal jazz
-- album rock
+  - vocal jazz
+  - album rock
 instruments:
-- piano
-- Wurlitzer electric piano
-- electric piano
-- background vocals
+  - piano
+  - Wurlitzer electric piano
+  - electric piano
+  - background vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e57f0cac-4f56-473c-8d7e-d93f753fd586
-  name: Steve Miller Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 947a11b5-95cc-474a-8f14-3b542ccb9e55
-  name: The Ardells
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e7169759-3aa5-4cd1-b659-a089b19ee911
-  name: The Ben Sidran Hammond Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f3a219e8-6675-47e4-a7c5-045c0a57df45
-  name: The Go Jazz All Stars
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e57f0cac-4f56-473c-8d7e-d93f753fd586
+    name: Steve Miller Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 947a11b5-95cc-474a-8f14-3b542ccb9e55
+    name: The Ardells
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e7169759-3aa5-4cd1-b659-a089b19ee911
+    name: The Ben Sidran Hammond Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f3a219e8-6675-47e4-a7c5-045c0a57df45
+    name: The Go Jazz All Stars
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ben_sidran.jpg
   caption: ben sidran
@@ -56,57 +56,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Steve Miller
-  - Boz Scaggs
-  - Van Morrison
-  - Diana Ross
-  - Rickie Lee Jones
-  - Michael Franks
-  - Clyde Stubblefield
+    - Steve Miller
+    - Boz Scaggs
+    - Van Morrison
+    - Diana Ross
+    - Rickie Lee Jones
+    - Michael Franks
+    - Clyde Stubblefield
   influenced:
-  - Leo Sidran
+    - Leo Sidran
   mentors:
-  - Mose Allison
+    - Mose Allison
 spotify_data:
   followers: 10712
   id: 4FVlx0LkBCw52txBL8QVDl
   popularity: 30
-  url: https://open.spotify.com/artist/4FVlx0LkBCw52txBL8QVDl
+  url: 'https://open.spotify.com/artist/4FVlx0LkBCw52txBL8QVDl'
 discography_enriched: true
 top_tracks:
-- Back Nine (Don't Cry for No Hipster)
-- Solar (Clémentine Sings Ben Sidran)
-- Al otro lado del Río (Motorcycle Diaries with additional Music)
-- Brand New Music (Don't Cry for No Hipster)
-- Sixteen Tons (Don't Cry for No Hipster)
-- Song For A Sucker Like You (The Doctor Is In)
-- Discount Records (Picture Him Happy)
-- Don't Cry for No Hipster (Don't Cry for No Hipster)
-- About Love (Feel Your Groove)
-- Picture Him Happy (Sisyphus Goes to Work) (Picture Him Happy)
+  - Back Nine (Don't Cry for No Hipster)
+  - Solar (Clémentine Sings Ben Sidran)
+  - Al otro lado del Río (Motorcycle Diaries with additional Music)
+  - Brand New Music (Don't Cry for No Hipster)
+  - Sixteen Tons (Don't Cry for No Hipster)
+  - Song For A Sucker Like You (The Doctor Is In)
+  - Discount Records (Picture Him Happy)
+  - Don't Cry for No Hipster (Don't Cry for No Hipster)
+  - About Love (Feel Your Groove)
+  - Picture Him Happy (Sisyphus Goes to Work) (Picture Him Happy)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2f84b66f-06c5-4f45-b19a-b8947ca5b0ba
-  spotify: https://open.spotify.com/artist/4FVlx0LkBCw52txBL8QVDl
-  wikipedia: https://en.wikipedia.org/wiki/Ben_Sidran
+  musicbrainz: 'https://musicbrainz.org/artist/2f84b66f-06c5-4f45-b19a-b8947ca5b0ba'
+  spotify: 'https://open.spotify.com/artist/4FVlx0LkBCw52txBL8QVDl'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ben_Sidran'
 image_path: 03_Resources/source_material/ArtistPortraits/ben_sidran.jpg
 biography_enhanced_at: '2025-11-11T09:36:02.493999'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Ben_Sidran
-- https://bensidran.com/press/biography
-- https://jazztimes.com/features/profiles/ben-sidran-recounts-his-seven-decades-in-jazz/
-- https://bensidran.com/press/biography-sidebar
+  - 'https://en.wikipedia.org/wiki/Ben_Sidran'
+  - 'https://bensidran.com/press/biography'
+  - >-
+    https://jazztimes.com/features/profiles/ben-sidran-recounts-his-seven-decades-in-jazz/
+  - 'https://bensidran.com/press/biography-sidebar'
 network_extracted: true
 entry_created: '2025-11-11T09:36:02.494010'
 last_updated: '2025-12-23T08:16:05.265829'
 gender: Male
 musicbrainz_id: 2f84b66f-06c5-4f45-b19a-b8947ca5b0ba
 tags:
-- 2008 universal fire victim
-- contemporary jazz
-- jazz
-
+  - 2008 universal fire victim
+  - contemporary jazz
+  - jazz
+origin: 'Racine, Wisconsin, United States'
 ---
 
 ![](ben_sidran.jpg)

@@ -1,19 +1,19 @@
 ---
-title: KING SOLOMON HILL
+title: King Solomon Hill
 wiki_slug: king-solomon-hill
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1896-07-18'
-birth_place: McComb
+birth_place: 'McComb, Mississippi, United States'
 death_date: '1940-08-13'
 genres:
-- country blues
-- blues
-- classic blues
+  - country blues
+  - blues
+  - classic blues
 instruments:
-- guitar
-- lead vocals
+  - guitar
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/king_solomon_hill.jpg
   caption: KING SOLOMON HILL
@@ -36,56 +36,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ben Curry (possibly Bogus Ben Covington)
-  - Marshal Owens
-  - Famous Blue Jay Singers of Birmingham
+    - Ben Curry (possibly Bogus Ben Covington)
+    - Marshal Owens
+    - Famous Blue Jay Singers of Birmingham
   influenced:
-  - Big Joe Williams
-  - Later Delta and country blues musicians
+    - Big Joe Williams
+    - Later Delta and country blues musicians
   mentors:
-  - Sam Collins
-  - Ramblin' Thomas
-  - Blind Lemon Jefferson
+    - Sam Collins
+    - Ramblin' Thomas
+    - Blind Lemon Jefferson
 spotify_data:
   followers: 3925
   id: 5fJqKIhjv3fatslXWyKysG
   popularity: 3
-  url: https://open.spotify.com/artist/5fJqKIhjv3fatslXWyKysG
+  url: 'https://open.spotify.com/artist/5fJqKIhjv3fatslXWyKysG'
 discography_enriched: true
 top_tracks:
-- Whoopee Blues (Presenting King Solomon Hill)
-- Gone Dead Train (Presenting King Solomon Hill)
-- 'The Gone Dead Train (The Best There Ever Was: The Legendary Early Blues Performers)'
-- 'Whoopee Blues (Mississippi Masters: Early American Blues Classics 1927 - 35)'
-- Down On My Bended Knee (Take 2) (Backwoods Blues (1926-1935))
-- Tell Me Baby (Backwoods Blues (1926-1935))
-- Down on My Bended Knee (Presenting King Solomon Hill)
-- Times Has Done Got Hard (Presenting King Solomon Hill)
-- My Buddy Blind Papa Lemon (Presenting King Solomon Hill)
-- Whoopie Blues (Country Blues Bottleneck Guitar Classics 1926-1937)
+  - Whoopee Blues (Presenting King Solomon Hill)
+  - Gone Dead Train (Presenting King Solomon Hill)
+  - >-
+    The Gone Dead Train (The Best There Ever Was: The Legendary Early Blues
+    Performers)
+  - 'Whoopee Blues (Mississippi Masters: Early American Blues Classics 1927 - 35)'
+  - Down On My Bended Knee (Take 2) (Backwoods Blues (1926-1935))
+  - Tell Me Baby (Backwoods Blues (1926-1935))
+  - Down on My Bended Knee (Presenting King Solomon Hill)
+  - Times Has Done Got Hard (Presenting King Solomon Hill)
+  - My Buddy Blind Papa Lemon (Presenting King Solomon Hill)
+  - Whoopie Blues (Country Blues Bottleneck Guitar Classics 1926-1937)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ef1f8399-5675-418d-8d96-eda0a1353ef3
-  spotify: https://open.spotify.com/artist/5fJqKIhjv3fatslXWyKysG
-  wikipedia: https://en.wikipedia.org/wiki/King_Solomon_Hill
+  musicbrainz: 'https://musicbrainz.org/artist/ef1f8399-5675-418d-8d96-eda0a1353ef3'
+  spotify: 'https://open.spotify.com/artist/5fJqKIhjv3fatslXWyKysG'
+  wikipedia: 'https://en.wikipedia.org/wiki/King_Solomon_Hill'
 image_path: 03_Resources/source_material/ArtistPortraits/king_solomon_hill.jpg
 biography_enhanced_at: '2025-11-11T09:21:40.544432'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.allaboutjazz.com/musicians/king-solomon-hill/
-- https://en.wikipedia.org/wiki/King_Solomon_Hill
-- https://www.last.fm/music/King+Solomon+Hill/+wiki
-- https://blinddogradio.blogspot.com/2016/08/king-solomon-hill.html
-- https://www.allmusic.com/artist/king-solomon-hill-mn0000093085
+  - 'https://www.allaboutjazz.com/musicians/king-solomon-hill/'
+  - 'https://en.wikipedia.org/wiki/King_Solomon_Hill'
+  - 'https://www.last.fm/music/King+Solomon+Hill/+wiki'
+  - 'https://blinddogradio.blogspot.com/2016/08/king-solomon-hill.html'
+  - 'https://www.allmusic.com/artist/king-solomon-hill-mn0000093085'
 network_extracted: true
 entry_created: '2025-11-11T09:21:40.544444'
 last_updated: '2025-12-23T08:16:11.409814'
 gender: Male
 musicbrainz_id: ef1f8399-5675-418d-8d96-eda0a1353ef3
 tags:
-- blues
-- country blues
-- delta blues
+  - blues
+  - country blues
+  - delta blues
+is_active: false
+origin: 'Yellow Pine, Louisiana, United States'
 ---
 
 ![](king_solomon_hill.jpg)

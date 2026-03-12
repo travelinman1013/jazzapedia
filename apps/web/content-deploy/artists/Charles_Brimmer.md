@@ -3,14 +3,14 @@ title: Charles Brimmer
 wiki_slug: charles-brimmer
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- northern soul
+  - northern soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Charles_Brimmer.jpg
   caption: Charles Brimmer
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 121.1
   energy_avg: 0.489
@@ -26,47 +26,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - David Batiste and the Gladiators
-  - Senator Jones
-  - Dave Bartholomew
+    - David Batiste and the Gladiators
+    - Senator Jones
+    - Dave Bartholomew
   influenced:
-  - Northern Soul DJs and collectors
+    - Northern Soul DJs and collectors
   mentors:
-  - Wardell Quezergue
+    - Wardell Quezergue
 spotify_data:
   followers: 190
   id: 2LWzy9KWPifZrp1h94eSi6
   popularity: 4
-  url: https://open.spotify.com/artist/2LWzy9KWPifZrp1h94eSi6
+  url: 'https://open.spotify.com/artist/2LWzy9KWPifZrp1h94eSi6'
 discography_enriched: true
 top_tracks:
-- The Feeling Is in My Heart (Art Laboe Oldies, Vol. 1)
-- God Bless Our Love (New Orleans Rhythm & Blues - Hep Me Records Vol. 1)
-- That's How Strong My Love Is (New Orleans Rhythm & Blues - Hep Me Records Vol. 2)
-- God Bless Our Love (Pts. 1 & 2) (Expression of Soul)
-- 'Dedicating My Life to You (The R&B Files: Amplified Heart, Vol. 3)'
-- Your Man is Going to be in Trouble (R&B Founders Vol. 2)
-- Dont Break My Heart (R&B Founders Vol. 2)
-- Stairway to Heaven (New Orleans Rhythm & Blues - Hep Me Records Vol. 1)
-- Kung Fu Man, Pt. 1 and Pt. 2 (Senator Jones' Funky Funky New Orleans)
-- 'Your Man''s Gonna Be in Trouble (The R & B Files: Rare Cuts, Vol. 2)'
+  - 'The Feeling Is in My Heart (Art Laboe Oldies, Vol. 1)'
+  - God Bless Our Love (New Orleans Rhythm & Blues - Hep Me Records Vol. 1)
+  - >-
+    That's How Strong My Love Is (New Orleans Rhythm & Blues - Hep Me Records
+    Vol. 2)
+  - God Bless Our Love (Pts. 1 & 2) (Expression of Soul)
+  - 'Dedicating My Life to You (The R&B Files: Amplified Heart, Vol. 3)'
+  - Your Man is Going to be in Trouble (R&B Founders Vol. 2)
+  - Dont Break My Heart (R&B Founders Vol. 2)
+  - Stairway to Heaven (New Orleans Rhythm & Blues - Hep Me Records Vol. 1)
+  - 'Kung Fu Man, Pt. 1 and Pt. 2 (Senator Jones'' Funky Funky New Orleans)'
+  - 'Your Man''s Gonna Be in Trouble (The R & B Files: Rare Cuts, Vol. 2)'
 external_urls:
-  spotify: https://open.spotify.com/artist/2LWzy9KWPifZrp1h94eSi6
-  wikipedia: https://en.wikipedia.org/wiki/Charles_Brimmer
+  spotify: 'https://open.spotify.com/artist/2LWzy9KWPifZrp1h94eSi6'
+  wikipedia: 'https://en.wikipedia.org/wiki/Charles_Brimmer'
 image_path: 03_Resources/source_material/ArtistPortraits/Charles_Brimmer.jpg
 biography_enhanced_at: '2025-10-20T09:25:08.757364'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.offbeat.com/articles/the-life-and-times-of-charles-brimmer/
-- https://homeofthegroove.blogspot.com/2010/08/some-other-sides-of-soulman-charles.html
-- https://dereksmusicblog.com/2018/05/03/new-orleans-soul-1967-record-store-day-edition/
-- https://en.wikipedia.org/wiki/Charles_Brimmer
-- http://www.soulcellar.co.uk/charle/CharlesBrimmer.html
-- https://charlesbrimmer.bandcamp.com
+  - 'https://www.offbeat.com/articles/the-life-and-times-of-charles-brimmer/'
+  - >-
+    https://homeofthegroove.blogspot.com/2010/08/some-other-sides-of-soulman-charles.html
+  - >-
+    https://dereksmusicblog.com/2018/05/03/new-orleans-soul-1967-record-store-day-edition/
+  - 'https://en.wikipedia.org/wiki/Charles_Brimmer'
+  - 'http://www.soulcellar.co.uk/charle/CharlesBrimmer.html'
+  - 'https://charlesbrimmer.bandcamp.com'
 network_extracted: true
 entry_created: '2025-10-20T09:25:08.758042'
 last_updated: '2025-12-23T08:16:01.480538'
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1948-10-10'
+artist_type: band
 ---
 
 ![](Charles_Brimmer.jpg)

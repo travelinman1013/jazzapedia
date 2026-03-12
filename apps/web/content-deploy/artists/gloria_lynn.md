@@ -1,17 +1,17 @@
 ---
-title: gloria lynn
+title: Gloria Lynn
 wiki_slug: gloria-lynn
 schema_version: 2
 status: active
-birth_place: Harlem, New York City, New York, USA
+birth_place: 'Harlem, New York City, New York, USA'
 genres:
-- vocal jazz
-- northern soul
+  - vocal jazz
+  - northern soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/gloria_lynn.jpg
   caption: gloria lynn
   background: solo_singer
-  origin: Harlem, New York City, New York, USA
+  origin: 'Harlem, New York City, New York, USA'
 audio_profile:
   tempo_avg: 107.6
   energy_avg: 0.27
@@ -27,49 +27,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kenny Burrell
-  - Ram Ramirez
-  - Ray Charles
-  - Billy Eckstine
-  - Bucky Pizzarelli
-  - Herbie Hancock
+    - Kenny Burrell
+    - Ram Ramirez
+    - Ray Charles
+    - Billy Eckstine
+    - Bucky Pizzarelli
+    - Herbie Hancock
   influenced:
-  - Contemporary jazz and soul vocalists
+    - Contemporary jazz and soul vocalists
   mentors:
-  - Mary Wilson (mother)
-  - Ella Fitzgerald
-  - Dinah Washington, Sarah Vaughan, Carmen McRae
+    - Mary Wilson (mother)
+    - Ella Fitzgerald
+    - 'Dinah Washington, Sarah Vaughan, Carmen McRae'
 spotify_data:
   followers: 7225
   id: 2XThtYxaIaPS5o9soX7kAu
   popularity: 17
-  url: https://open.spotify.com/artist/2XThtYxaIaPS5o9soX7kAu
+  url: 'https://open.spotify.com/artist/2XThtYxaIaPS5o9soX7kAu'
 discography_enriched: true
 top_tracks:
-- April in Paris (Miss Gloria Lynne)
-- 'Watermelon Man - Remastered (Live! Take: 2 (Remastered))'
-- The Jazz in You (This Little Boy of Mine)
-- I Wish You Love (Gloria, Marty & Strings)
-- I Wish It Would Snow
-- Speaking of Happiness - Rub-a-Dub Edit
-- Tower Of Strength (Vocal & Jazz Collection)
-- I'm Glad There is You (I'm Glad There is You)
-- Try a Little Tenderness (Try a Little Tenderness)
-- I Wish You Love (I Wish You Love)
+  - April in Paris (Miss Gloria Lynne)
+  - 'Watermelon Man - Remastered (Live! Take: 2 (Remastered))'
+  - The Jazz in You (This Little Boy of Mine)
+  - 'I Wish You Love (Gloria, Marty & Strings)'
+  - I Wish It Would Snow
+  - Speaking of Happiness - Rub-a-Dub Edit
+  - Tower Of Strength (Vocal & Jazz Collection)
+  - I'm Glad There is You (I'm Glad There is You)
+  - Try a Little Tenderness (Try a Little Tenderness)
+  - I Wish You Love (I Wish You Love)
 external_urls:
-  spotify: https://open.spotify.com/artist/2XThtYxaIaPS5o9soX7kAu
-  wikipedia: https://en.wikipedia.org/wiki/Gloria_Lynne
+  spotify: 'https://open.spotify.com/artist/2XThtYxaIaPS5o9soX7kAu'
+  wikipedia: 'https://en.wikipedia.org/wiki/Gloria_Lynne'
 image_path: 03_Resources/source_material/ArtistPortraits/gloria_lynn.jpg
 biography_enhanced_at: '2025-10-30T12:01:29.932257'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Gloria_Lynne
-- http://finelytunedmusic.com/artist-biography/gloria-lynne-a-jazz-and-rb-icon/
-- https://www.harlem-is.org/legacy-keepers-music/gloria-lynne-
+  - 'https://en.wikipedia.org/wiki/Gloria_Lynne'
+  - >-
+    http://finelytunedmusic.com/artist-biography/gloria-lynne-a-jazz-and-rb-icon/
+  - 'https://www.harlem-is.org/legacy-keepers-music/gloria-lynne-'
 network_extracted: true
 entry_created: '2025-10-30T12:01:29.932269'
 last_updated: '2025-12-23T08:16:09.250787'
+birth_date: '1929-11-23'
+death_date: '2013-10-15'
+artist_type: person
 ---
 
 ![](gloria_lynn.jpg)

@@ -1,5 +1,5 @@
 ---
-title: CHARLEY PATTON
+title: Charley Patton
 wiki_slug: charley-patton
 schema_version: 2
 artist_type: person
@@ -8,16 +8,16 @@ birth_date: '1891-05-01'
 birth_place: Edwards
 death_date: '1934-04-28'
 genres:
-- country blues
-- blues
-- classic blues
-- ragtime
+  - country blues
+  - blues
+  - classic blues
+  - ragtime
 instruments:
-- guitar
-- slide guitar
-- acoustic guitar
-- lead vocals
-- spoken vocals
+  - guitar
+  - slide guitar
+  - acoustic guitar
+  - lead vocals
+  - spoken vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/charley_patton.jpg
   caption: CHARLEY PATTON
@@ -40,46 +40,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Willie Brown
-  - Tommy Johnson
+    - Willie Brown
+    - Tommy Johnson
   influenced:
-  - Robert Johnson
-  - Howlin' Wolf (Chester Arthur Burnett)
-  - Muddy Waters
-  - Son House
-  - Bukka White
+    - Robert Johnson
+    - Howlin' Wolf (Chester Arthur Burnett)
+    - Muddy Waters
+    - Son House
+    - Bukka White
   mentors:
-  - Henry Sloan
+    - Henry Sloan
 spotify_data:
   followers: 75308
   id: 7aExFIr0IHWO5aFjMrGwKw
   popularity: 26
-  url: https://open.spotify.com/artist/7aExFIr0IHWO5aFjMrGwKw
+  url: 'https://open.spotify.com/artist/7aExFIr0IHWO5aFjMrGwKw'
 discography_enriched: true
 top_tracks:
-- A Spoonful Blues (Circle Round the Moon)
-- Down The Dirt Road Blues (Circle Round the Moon)
-- Down The Dirt Road Blues (Charley Patton Vol. 1 (1929))
-- Devil Sent the Rain Blues (Circle Round the Moon)
-- Shake It And Break It (But Don't Let It Fall Mama) (Circle Round the Moon)
-- Mississippi Boweavil Blues (Circle Round the Moon)
-- High Water Everywhere, Pt 1 (Circle Round the Moon)
-- High Water Everywhere - Part 1 - (Alternate Take) (Circle Round the Moon)
-- Down the Dirt Road Blues
-- Forty Four (∆)
+  - A Spoonful Blues (Circle Round the Moon)
+  - Down The Dirt Road Blues (Circle Round the Moon)
+  - Down The Dirt Road Blues (Charley Patton Vol. 1 (1929))
+  - Devil Sent the Rain Blues (Circle Round the Moon)
+  - Shake It And Break It (But Don't Let It Fall Mama) (Circle Round the Moon)
+  - Mississippi Boweavil Blues (Circle Round the Moon)
+  - 'High Water Everywhere, Pt 1 (Circle Round the Moon)'
+  - High Water Everywhere - Part 1 - (Alternate Take) (Circle Round the Moon)
+  - Down the Dirt Road Blues
+  - Forty Four (∆)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c71b4f57-29da-4bf2-bccb-9dc81cd2d905
-  spotify: https://open.spotify.com/artist/7aExFIr0IHWO5aFjMrGwKw
-  wikipedia: https://en.wikipedia.org/wiki/Charley_Patton
+  musicbrainz: 'https://musicbrainz.org/artist/c71b4f57-29da-4bf2-bccb-9dc81cd2d905'
+  spotify: 'https://open.spotify.com/artist/7aExFIr0IHWO5aFjMrGwKw'
+  wikipedia: 'https://en.wikipedia.org/wiki/Charley_Patton'
 image_path: 03_Resources/source_material/ArtistPortraits/charley_patton.jpg
 biography_enhanced_at: '2025-10-28T09:12:09.973290'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.britannica.com/biography/Charley-Patton
-- https://teachrock.org/people/patton-charley/
-- https://worldmusic.net/products/the-rough-guide-to-charley-patton-father-of-the-delta-blues
-- https://www.mswritersandmusicians.com/mississippi-musicians/charley-patton
+  - 'https://www.britannica.com/biography/Charley-Patton'
+  - 'https://teachrock.org/people/patton-charley/'
+  - >-
+    https://worldmusic.net/products/the-rough-guide-to-charley-patton-father-of-the-delta-blues
+  - 'https://www.mswritersandmusicians.com/mississippi-musicians/charley-patton'
 network_extracted: true
 entry_created: '2025-10-28T09:12:09.973295'
 last_updated: '2025-12-23T08:16:06.707372'
@@ -87,9 +88,11 @@ disambiguation: American Delta blues musician
 gender: Male
 musicbrainz_id: c71b4f57-29da-4bf2-bccb-9dc81cd2d905
 tags:
-- acoustic blues
-- blues
-- country blues
+  - acoustic blues
+  - blues
+  - country blues
+is_active: false
+origin: 'Mississippi Delta, Mississippi, United States'
 ---
 
 ![](charley_patton.jpg)

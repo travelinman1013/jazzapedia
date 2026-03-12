@@ -3,13 +3,13 @@ title: Daniel Lanois
 wiki_slug: daniel-lanois
 schema_version: 2
 status: active
-birth_place: Hull, Quebec, Canada
+birth_place: 'Hull, Quebec, Canada'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/daniel_lanois.jpg
   caption: Daniel Lanois
   background: solo_singer
-  origin: Hull, Quebec, Canada
+  origin: 'Hull, Quebec, Canada'
 audio_profile:
   tempo_avg: 111.2
   energy_avg: 0.269
@@ -25,50 +25,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - U2
-  - Peter Gabriel
-  - Bob Dylan
-  - Emmylou Harris
-  - Willie Nelson
-  - Robbie Robertson
-  - Black Dub
+    - U2
+    - Peter Gabriel
+    - Bob Dylan
+    - Emmylou Harris
+    - Willie Nelson
+    - Robbie Robertson
+    - Black Dub
   influenced:
-  - Flood
-  - Brian Blade
+    - Flood
+    - Brian Blade
   mentors:
-  - Brian Eno
+    - Brian Eno
 spotify_data:
   followers: 79394
   id: 5S0AJvE9NB1kGrXRfYh690
   popularity: 47
-  url: https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690
+  url: 'https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690'
 discography_enriched: true
 top_tracks:
-- That's The Way It Is
-- Red
-- Moonlight
-- Mountain Finale
-- Oh My Lovely
-- Table Top
-- Love Come Back
-- Prophecy Theme (Dune (Original Motion Picture Soundtrack))
-- Table Top
-- Desert Rose (Belladonna)
+  - That's The Way It Is
+  - Red
+  - Moonlight
+  - Mountain Finale
+  - Oh My Lovely
+  - Table Top
+  - Love Come Back
+  - Prophecy Theme (Dune (Original Motion Picture Soundtrack))
+  - Table Top
+  - Desert Rose (Belladonna)
 external_urls:
-  spotify: https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690
-  wikipedia: https://en.wikipedia.org/wiki/Daniel_Lanois
+  spotify: 'https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690'
+  wikipedia: 'https://en.wikipedia.org/wiki/Daniel_Lanois'
 image_path: 03_Resources/source_material/ArtistPortraits/daniel_lanois.jpg
 biography_enhanced_at: '2025-11-03T07:40:30.980294'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.ebsco.com/research-starters/biography/daniel-lanois
-- https://en.wikipedia.org/wiki/Daniel_Lanois
-- https://www.canadaswalkoffame.com/inductees/daniel-lanois/
-- https://illinoisentertainer.com/2015/05/qa-hello-my-name-is-daniel-lanois/
+  - 'https://www.ebsco.com/research-starters/biography/daniel-lanois'
+  - 'https://en.wikipedia.org/wiki/Daniel_Lanois'
+  - 'https://www.canadaswalkoffame.com/inductees/daniel-lanois/'
+  - 'https://illinoisentertainer.com/2015/05/qa-hello-my-name-is-daniel-lanois/'
 network_extracted: true
 entry_created: '2025-11-03T07:40:30.980300'
 last_updated: '2025-12-23T08:16:07.430623'
+origin: 'Hamilton, Ontario, Canada'
+birth_date: '1951-09-19'
+artist_type: person
 ---
 
 ![](daniel_lanois.jpg)

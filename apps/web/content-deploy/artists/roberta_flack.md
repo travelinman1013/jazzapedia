@@ -6,37 +6,37 @@ status: deceased
 birth_name: Roberta Cleopatra Flack
 aliases: []
 birth_date: '1937-02-10'
-birth_place: Washington, D.C., United States
+birth_place: 'Asheville, North Carolina, United States'
 death_date: '2025-02-24'
 years_active: 1968–2022
 genres:
-- adult standards
+  - adult standards
 instruments:
-- piano
-- voice
-- electronic keyboard
+  - piano
+  - voice
+  - electronic keyboard
 occupation:
-- musician
-- singer-songwriter
-- teacher
-- singer
-- pianist
+  - musician
+  - singer-songwriter
+  - teacher
+  - singer
+  - pianist
 record_labels:
-- Atlantic Records
-- Capitol Records
-- Angel
-- RAS Records
-- 429 Records
+  - Atlantic Records
+  - Capitol Records
+  - Angel
+  - RAS Records
+  - 429 Records
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Roberta_Flack.jpg
   caption: Roberta Flack
   background: solo_singer
   birth_name: Roberta Cleopatra Flack
   born: '1937-02-10'
-  origin: Washington, D.C., United States
+  origin: 'Washington, D.C., United States'
   died: '2025-02-24'
 audio_profile:
-  tempo_avg: 112.0
+  tempo_avg: 112
   energy_avg: 0.36
   valence_avg: 0.365
   danceability_avg: 0.513
@@ -50,54 +50,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Donny Hathaway
-  - Joel Dorn
-  - Peabo Bryson
-  - Maxi Priest
+    - Donny Hathaway
+    - Joel Dorn
+    - Peabo Bryson
+    - Maxi Priest
   influenced: []
   mentors:
-  - Frederick 'Wilkie' Wilkerson
-  - Les McCann
+    - Frederick 'Wilkie' Wilkerson
+    - Les McCann
 related_artists: []
 spotify_data:
   followers: 1108474
   id: 0W498bDDNlJIrYMKXdpLHA
   popularity: 65
-  url: https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA
+  url: 'https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA'
   verified: false
 discography_enriched: true
 albums_count: 24
 singles_count: 17
 top_tracks:
-- Killing Me Softly With His Song (Killing Me Softly)
-- Tonight I Celebrate My Love (Born To Love)
-- The First Time Ever I Saw Your Face (First Take)
-- Feel Like Makin' Love (Feel Like Makin' Love)
-- The Closer I Get to You (Blue Lights in the Basement)
-- You Are the Love of My Life (20/20)
-- Feel Like Makin' Love (feat. Roberta Flack) (Happy Music)
-- Where Is the Love (A Donny Hathaway Collection)
-- Where Is the Love (Roberta Flack & Donny Hathaway)
-- Tonight I Celebrate My Love
+  - Killing Me Softly With His Song (Killing Me Softly)
+  - Tonight I Celebrate My Love (Born To Love)
+  - The First Time Ever I Saw Your Face (First Take)
+  - Feel Like Makin' Love (Feel Like Makin' Love)
+  - The Closer I Get to You (Blue Lights in the Basement)
+  - You Are the Love of My Life (20/20)
+  - Feel Like Makin' Love (feat. Roberta Flack) (Happy Music)
+  - Where Is the Love (A Donny Hathaway Collection)
+  - Where Is the Love (Roberta Flack & Donny Hathaway)
+  - Tonight I Celebrate My Love
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA
-  wikipedia: https://en.wikipedia.org/wiki/Roberta_Flack
+  spotify: 'https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA'
+  wikipedia: 'https://en.wikipedia.org/wiki/Roberta_Flack'
 image_path: 03_Resources/source_material/ArtistPortraits/Roberta_Flack.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:23:03.273102'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia
-- WERS 88.9FM
-- Britannica
-- robertaflack.com
-- Howard University
+  - Wikipedia
+  - WERS 88.9FM
+  - Britannica
+  - robertaflack.com
+  - Howard University
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:47:05.814841
+entry_created: 2025-09-22T21:47:05.814Z
 last_updated: '2025-12-23T08:16:14.924259'
+is_active: false
+origin: 'Washington, D.C., District of Columbia, United States'
+artist_type: person
 ---
 
 ![](Roberta_Flack.jpg)

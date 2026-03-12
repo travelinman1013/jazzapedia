@@ -1,15 +1,15 @@
 ---
-title: peppermint harris
+title: Peppermint Harris
 wiki_slug: peppermint-harris
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1925-07-17'
-birth_place: Texarkana
+birth_place: 'Texarkana, Texas, United States'
 death_date: '1999-03-19'
 genres:
-- northern soul
-- blues
+  - northern soul
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/peppermint_harris.jpg
   caption: peppermint harris
@@ -32,53 +32,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Henry Hayes
-  - Bob Shad
+    - Henry Hayes
+    - Bob Shad
   influenced:
-  - Los Lobos
-  - Terry Evans
+    - Los Lobos
+    - Terry Evans
   mentors:
-  - Lightnin' Hopkins
+    - Lightnin' Hopkins
 spotify_data:
   followers: 1032
   id: 30mioA7NpWc5srCRGEfSf0
   popularity: 8
-  url: https://open.spotify.com/artist/30mioA7NpWc5srCRGEfSf0
+  url: 'https://open.spotify.com/artist/30mioA7NpWc5srCRGEfSf0'
 discography_enriched: true
 top_tracks:
-- I Got Loaded (Greatest Blues Licks)
-- 'I Got Loaded (Jump Blue: Rockin'' The Jukes)'
-- Wait Until It Happens to You (The Northern Soul Of Jewel-Paula-Ronn)
-- I Got Loaded - Remastered (Golden Selection (Remastered))
-- Cadillac Funeral
-- I Got Loaded
-- Married Woman
-- Angel Child
-- Wait Until It Happens To You
-- Need Your Lovin' (The Mojo Man Special, Vol. 5 - Party Time)
+  - I Got Loaded (Greatest Blues Licks)
+  - 'I Got Loaded (Jump Blue: Rockin'' The Jukes)'
+  - Wait Until It Happens to You (The Northern Soul Of Jewel-Paula-Ronn)
+  - I Got Loaded - Remastered (Golden Selection (Remastered))
+  - Cadillac Funeral
+  - I Got Loaded
+  - Married Woman
+  - Angel Child
+  - Wait Until It Happens To You
+  - 'Need Your Lovin'' (The Mojo Man Special, Vol. 5 - Party Time)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/07b8d89f-9967-4599-b301-2ecd8446d553
-  spotify: https://open.spotify.com/artist/30mioA7NpWc5srCRGEfSf0
-  wikipedia: https://en.wikipedia.org/wiki/Peppermint_Harris
+  musicbrainz: 'https://musicbrainz.org/artist/07b8d89f-9967-4599-b301-2ecd8446d553'
+  spotify: 'https://open.spotify.com/artist/30mioA7NpWc5srCRGEfSf0'
+  wikipedia: 'https://en.wikipedia.org/wiki/Peppermint_Harris'
 image_path: 03_Resources/source_material/ArtistPortraits/peppermint_harris.jpg
 biography_enhanced_at: '2025-11-04T11:12:02.304965'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Peppermint_Harris
-- https://kids.kiddle.co/Peppermint_Harris
-- https://wbssmedia.com/artists/detail/1607
-- https://www.tshaonline.org/handbook/entries/nelson-harrison-d-jr-peppermint-harris
-- https://fromthevaults-boppinbob.blogspot.com/2021/07/peppermint-harris-born-17-july-1925.html
-- https://waybackattack.com/harrispeppermint.html
+  - 'https://en.wikipedia.org/wiki/Peppermint_Harris'
+  - 'https://kids.kiddle.co/Peppermint_Harris'
+  - 'https://wbssmedia.com/artists/detail/1607'
+  - >-
+    https://www.tshaonline.org/handbook/entries/nelson-harrison-d-jr-peppermint-harris
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2021/07/peppermint-harris-born-17-july-1925.html
+  - 'https://waybackattack.com/harrispeppermint.html'
 network_extracted: true
 entry_created: '2025-11-04T11:12:02.304975'
 last_updated: '2025-12-23T08:16:14.186827'
 gender: Male
 musicbrainz_id: 07b8d89f-9967-4599-b301-2ecd8446d553
 tags:
-- jump blues
-- r&b
+  - jump blues
+  - r&b
+is_active: false
 ---
 
 ![](peppermint_harris.jpg)

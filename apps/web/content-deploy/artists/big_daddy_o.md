@@ -1,34 +1,36 @@
 ---
 biography_enhanced_at: '2026-01-22T07:14:19.961303'
-birth_place: Louisiana/Mississippi border region, United States
+birth_place: 'Louisiana/Mississippi border region, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:14:19.961310'
 external_urls:
-  spotify: https://open.spotify.com/artist/0qTdx8PBbFfnGWf5TX67Ki
+  spotify: 'https://open.spotify.com/artist/0qTdx8PBbFfnGWf5TX67Ki'
   wikipedia: null
 genres:
-- blues
+  - blues
 image_path: 03_Resources/source_material/ArtistPortraits/big_daddy_o.jpg
 last_updated: '2026-01-22T07:14:19.961311'
 musical_connections:
   collaborators:
-  - Rabadash Records
-  - Scott Quiroz
-  - Gretchen Tufts
+    - Rabadash Records
+    - Scott Quiroz
+    - Gretchen Tufts
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.bigdaddyo.net
-- https://www.bigdaddyo.net/Bio
+  - 'https://www.bigdaddyo.net'
+  - 'https://www.bigdaddyo.net/Bio'
 spotify_data:
   followers: 425
   id: 0qTdx8PBbFfnGWf5TX67Ki
   popularity: 4
-  url: https://open.spotify.com/artist/0qTdx8PBbFfnGWf5TX67Ki
+  url: 'https://open.spotify.com/artist/0qTdx8PBbFfnGWf5TX67Ki'
 status: active
 title: Big Daddy O'
+origin: 'Louisiana/Mississippi border region, United States'
+artist_type: person
 ---
 
 ![](big_daddy_o.jpg)

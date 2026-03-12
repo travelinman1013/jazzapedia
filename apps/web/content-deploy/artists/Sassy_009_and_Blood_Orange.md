@@ -4,13 +4,13 @@ wiki_slug: sassy-009-blood-orange
 schema_version: 2
 status: active
 genres:
-- art pop
+  - art pop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Sassy_009_and_Blood_Orange.jpg
   caption: Sassy 009 & Blood Orange
   background: solo_singer
 audio_profile:
-  tempo_avg: 126.0
+  tempo_avg: 126
   energy_avg: 0.549
   valence_avg: 0.497
   danceability_avg: 0.677
@@ -24,50 +24,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Teodora Georgijević
-  - Johanna Scheie Orellana
-  - Blood Orange (Dev Hynes)
-  - Solange Knowles
-  - FKA twigs
+    - Teodora Georgijević
+    - Johanna Scheie Orellana
+    - Blood Orange (Dev Hynes)
+    - Solange Knowles
+    - FKA twigs
   influenced:
-  - Emerging Scandinavian electronic artists
-  - Contemporary R&B and art pop musicians
+    - Emerging Scandinavian electronic artists
+    - Contemporary R&B and art pop musicians
   mentors:
-  - Lindgård's parents
+    - Lindgård's parents
 spotify_data:
   followers: 1331805
   id: 6LEeAFiJF8OuPx747e1wxR
   popularity: 71
-  url: https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR
+  url: 'https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR'
 discography_enriched: true
 top_tracks:
-- Champagne Coast (Coastal Grooves)
-- Champagne Coast (Coastal Grooves)
-- Charcoal Baby (Negro Swan)
-- Champagne Coast
-- The Field (feat. The Durutti Column, Tariq Al-Sabir, Caroline Polachek & Daniel Caesar)
-- You're Not Good Enough (Cupid Deluxe)
-- Champagne Coast
-- Uncle ACE (Cupid Deluxe)
-- Chewing Gum (Negro Swan)
-- Best to You (Freetown Sound)
+  - Champagne Coast (Coastal Grooves)
+  - Champagne Coast (Coastal Grooves)
+  - Charcoal Baby (Negro Swan)
+  - Champagne Coast
+  - >-
+    The Field (feat. The Durutti Column, Tariq Al-Sabir, Caroline Polachek &
+    Daniel Caesar)
+  - You're Not Good Enough (Cupid Deluxe)
+  - Champagne Coast
+  - Uncle ACE (Cupid Deluxe)
+  - Chewing Gum (Negro Swan)
+  - Best to You (Freetown Sound)
 external_urls:
-  spotify: https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR
-  wikipedia: https://en.wikipedia.org/wiki/Sassy_009
+  spotify: 'https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sassy_009'
 image_path: 03_Resources/source_material/ArtistPortraits/Sassy_009_and_Blood_Orange.jpg
 biography_enhanced_at: '2025-10-22T06:43:22.468603'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Sassy_009
-- https://notion.online/sassy-009/
-- https://tisch.nyu.edu/clive-davis-institute/people0/residencies-1/devonte-hynes.html
-- https://www.clashmusic.com/news/sassy-009-and-blood-orange-join-forces-on-new-single-tell-me/
-- https://www.thelineofbestfit.com/news/sassy-009-joins-forces-with-blood-orange-on-new-single-tell-me
-- https://www.youtube.com/watch?v=d1mgtY86bCU
+  - 'https://en.wikipedia.org/wiki/Sassy_009'
+  - 'https://notion.online/sassy-009/'
+  - >-
+    https://tisch.nyu.edu/clive-davis-institute/people0/residencies-1/devonte-hynes.html
+  - >-
+    https://www.clashmusic.com/news/sassy-009-and-blood-orange-join-forces-on-new-single-tell-me/
+  - >-
+    https://www.thelineofbestfit.com/news/sassy-009-joins-forces-with-blood-orange-on-new-single-tell-me
+  - 'https://www.youtube.com/watch?v=d1mgtY86bCU'
 network_extracted: true
 entry_created: '2025-10-22T06:43:22.468616'
 last_updated: '2025-12-23T08:16:03.828912'
+artist_type: person
 ---
 
 ![](Sassy_009_and_Blood_Orange.jpg)

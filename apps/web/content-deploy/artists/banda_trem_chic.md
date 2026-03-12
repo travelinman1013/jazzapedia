@@ -29,32 +29,33 @@ spotify_data:
   followers: 10
   id: 3iOJR9V10STGW3DoL8d7yn
   popularity: 0
-  url: https://open.spotify.com/artist/3iOJR9V10STGW3DoL8d7yn
+  url: 'https://open.spotify.com/artist/3iOJR9V10STGW3DoL8d7yn'
 discography_enriched: true
 top_tracks:
-- O Trem Chic Chegou ! (O Trem Chic Chegou!)
-- Ô Cumpadi Eu Tô Chegando (O Trem Chic Chegou!)
-- Lá Vem o Trem (O Trem Chic Chegou!)
-- Baião do Onça (O Trem Chic Chegou!)
-- Se a Viola Incomoda (O Trem Chic Chegou!)
-- Tindolelê (O Trem Chic Chegou!)
-- Dança do Pezinho (O Trem Chic Chegou!)
-- Maria da Paz (O Trem Chic Chegou!)
-- Piaba (O Trem Chic Chegou!)
-- A Mineirinha (O Trem Chic Chegou!)
+  - O Trem Chic Chegou ! (O Trem Chic Chegou!)
+  - Ô Cumpadi Eu Tô Chegando (O Trem Chic Chegou!)
+  - Lá Vem o Trem (O Trem Chic Chegou!)
+  - Baião do Onça (O Trem Chic Chegou!)
+  - Se a Viola Incomoda (O Trem Chic Chegou!)
+  - Tindolelê (O Trem Chic Chegou!)
+  - Dança do Pezinho (O Trem Chic Chegou!)
+  - Maria da Paz (O Trem Chic Chegou!)
+  - Piaba (O Trem Chic Chegou!)
+  - A Mineirinha (O Trem Chic Chegou!)
 external_urls:
-  spotify: https://open.spotify.com/artist/3iOJR9V10STGW3DoL8d7yn
+  spotify: 'https://open.spotify.com/artist/3iOJR9V10STGW3DoL8d7yn'
   wikipedia: ''
 image_path: ''
 biography_enhanced_at: '2025-11-02T07:31:30.236738'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Spotify artist profile (context provided)
-- No relevant results in Wikipedia, AllMusic, Discogs, or major news outlets
+  - Spotify artist profile (context provided)
+  - 'No relevant results in Wikipedia, AllMusic, Discogs, or major news outlets'
 network_extracted: true
 entry_created: '2025-11-02T07:31:30.236770'
 last_updated: '2025-12-23T08:16:05.074807'
+artist_type: band
 ---
 
 ![]()

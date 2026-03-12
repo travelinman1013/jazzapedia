@@ -4,9 +4,10 @@ wiki_slug: david-oquendo-roswell-rudd
 schema_version: 2
 status: active
 genres:
-- son cubano
+  - son cubano
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/david_oquendo_and_roswell_rudd.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/david_oquendo_and_roswell_rudd.jpg
   caption: David Oquendo & Roswell Rudd
   background: solo_singer
 audio_profile:
@@ -24,60 +25,86 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - David Oquendo
-  - Roswell Rudd
-  - Yomo Toro
-  - Toumani Diabaté
+    - David Oquendo
+    - Roswell Rudd
+    - Yomo Toro
+    - Toumani Diabaté
   influenced:
-  - Students and young improvisers taught by Roswell Rudd
+    - Students and young improvisers taught by Roswell Rudd
   mentors:
-  - Alan Lomax
+    - Alan Lomax
 spotify_data:
   followers: 172
   id: 5bu3qGHSHAk5eR1vZhgWjL
   popularity: 24
-  url: https://open.spotify.com/artist/5bu3qGHSHAk5eR1vZhgWjL
+  url: 'https://open.spotify.com/artist/5bu3qGHSHAk5eR1vZhgWjL'
 discography_enriched: true
 top_tracks:
-- Qué Bueno Baila Usted (Buena Vista Social Club (Original Broadway Cast Recording))
-- Candela (Buena Vista Social Club (Original Broadway Cast Recording))
-- Bruca Maniguá (Buena Vista Social Club (Original Broadway Cast Recording))
-- Chan Chan (Buena Vista Social Club (Original Broadway Cast Recording))
-- El Cuarto de Tula (Buena Vista Social Club (Original Broadway Cast Recording))
-- 'Son Que Quita Las Penas (Boardwalk Empire Volume 3: Music From The HBO Original Series)'
-- 'Son Que Quita Las Penas (Boardwalk Empire Volume 3: Music From The HBO Original Series)'
-- Pa Changó Y Pa Yemayá (Inspiración)
-- Stairway To Heaven (El Encuentro)
-- El Manisero (El Encuentro)
+  - >-
+    Qué Bueno Baila Usted (Buena Vista Social Club (Original Broadway Cast
+    Recording))
+  - Candela (Buena Vista Social Club (Original Broadway Cast Recording))
+  - Bruca Maniguá (Buena Vista Social Club (Original Broadway Cast Recording))
+  - Chan Chan (Buena Vista Social Club (Original Broadway Cast Recording))
+  - >-
+    El Cuarto de Tula (Buena Vista Social Club (Original Broadway Cast
+    Recording))
+  - >-
+    Son Que Quita Las Penas (Boardwalk Empire Volume 3: Music From The HBO
+    Original Series)
+  - >-
+    Son Que Quita Las Penas (Boardwalk Empire Volume 3: Music From The HBO
+    Original Series)
+  - Pa Changó Y Pa Yemayá (Inspiración)
+  - Stairway To Heaven (El Encuentro)
+  - El Manisero (El Encuentro)
 external_urls:
-  spotify: https://open.spotify.com/artist/5bu3qGHSHAk5eR1vZhgWjL
+  spotify: 'https://open.spotify.com/artist/5bu3qGHSHAk5eR1vZhgWjL'
   wikipedia: ''
-image_path: 03_Resources/source_material/ArtistPortraits/david_oquendo_and_roswell_rudd.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/david_oquendo_and_roswell_rudd.jpg
 biography_enhanced_at: '2025-12-07T04:46:55.764333'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Association for Cultural Equity – Roswell Rudd profile (notes his performing with Cuban singer/instrumentalist David Oquendo
-  and comments on Oquendo’s scat and Cuban street percussion background).[1]
-- Roswell Rudd official biography (highlights his world‑music collaborations including work with Cuban guitarist/singer David
-  Oquendo).[4]
-- JazzDeLaPena profile on Roswell Rudd (mentions Rudd’s project with Yomo Toro and his subsequent project with Cuban tres/guitar
-  player David Oquendo).[8]
-- ProQuest/Jazz article on *David Oquendo & Roswell Rudd – El Encuentro* (identifies Oquendo as a Cuban‑born guitarist discovered
-  by "Rudd Central" via the documentary *Dame la Mano* on the Sundance Channel).[9]
-- City Lore teaching‑artist profile of David Oquendo (gives his birth in Havana in 1958 and his self‑taught background in
-  Afro‑Cuban rhythms in poor Havana neighborhoods).[5]
-- JazzWax article on David Oquendo (describes him as a native of Havana and an "astonishing interpreter" of diverse Cuban
-  styles). [6]
-- Wikipedia entry on Roswell Rudd (general biographical and stylistic context on Rudd as an avant‑garde jazz trombonist and
-  composer).[3]
-- Jazz History Database – Roswell Rudd timeline (broader career context, including his teaching and compositional work).[2]
-- Red House Records artist page and related label material on Rudd (confirms late‑career collaborations including David Oquendo).
-  [10]
+  - >-
+    Association for Cultural Equity – Roswell Rudd profile (notes his performing
+    with Cuban singer/instrumentalist David Oquendo and comments on Oquendo’s
+    scat and Cuban street percussion background).[1]
+  - >-
+    Roswell Rudd official biography (highlights his world‑music collaborations
+    including work with Cuban guitarist/singer David Oquendo).[4]
+  - >-
+    JazzDeLaPena profile on Roswell Rudd (mentions Rudd’s project with Yomo Toro
+    and his subsequent project with Cuban tres/guitar player David Oquendo).[8]
+  - >-
+    ProQuest/Jazz article on *David Oquendo & Roswell Rudd – El Encuentro*
+    (identifies Oquendo as a Cuban‑born guitarist discovered by "Rudd Central"
+    via the documentary *Dame la Mano* on the Sundance Channel).[9]
+  - >-
+    City Lore teaching‑artist profile of David Oquendo (gives his birth in
+    Havana in 1958 and his self‑taught background in Afro‑Cuban rhythms in poor
+    Havana neighborhoods).[5]
+  - >-
+    JazzWax article on David Oquendo (describes him as a native of Havana and an
+    "astonishing interpreter" of diverse Cuban styles). [6]
+  - >-
+    Wikipedia entry on Roswell Rudd (general biographical and stylistic context
+    on Rudd as an avant‑garde jazz trombonist and composer).[3]
+  - >-
+    Jazz History Database – Roswell Rudd timeline (broader career context,
+    including his teaching and compositional work).[2]
+  - >-
+    Red House Records artist page and related label material on Rudd (confirms
+    late‑career collaborations including David Oquendo). [10]
 network_extracted: true
 entry_created: '2025-12-07T04:46:55.764355'
 last_updated: '2025-12-23T08:16:07.573037'
-origin: Havana, La Habana Province, Cuba (David Oquendo); Sharon, Connecticut, United States (Roswell Rudd)
+origin: >-
+  Havana, La Habana Province, Cuba (David Oquendo); Sharon, Connecticut, United
+  States (Roswell Rudd)
+birth_place: 'Sharon, Connecticut, United States'
+artist_type: band
 ---
 
 ![](david_oquendo_and_roswell_rudd.jpg)

@@ -1,19 +1,19 @@
 ---
-title: KATHERINE HENDERSON
+title: Katherine Henderson
 wiki_slug: katherine-henderson
 schema_version: 2
 status: active
-birth_place: St. Louis, Missouri, United States
+birth_place: 'St. Louis, Missouri, United States'
 genres:
-- ragtime
-- classic blues
-- jazz blues
-- country blues
+  - ragtime
+  - classic blues
+  - jazz blues
+  - country blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/KATHERINE_HENDERSON.jpg
   caption: KATHERINE HENDERSON
   background: solo_singer
-  origin: St. Louis, Missouri, United States
+  origin: 'St. Louis, Missouri, United States'
 audio_profile:
   tempo_avg: 105.1
   energy_avg: 0.243
@@ -29,44 +29,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Clarence Williams's Blue Five
-  - Clarence Williams & His Orchestra
+    - Clarence Williams's Blue Five
+    - Clarence Williams & His Orchestra
   influenced:
-  - No specific documented proteges
+    - No specific documented proteges
   mentors:
-  - Eva Taylor
-  - Clarence Williams
+    - Eva Taylor
+    - Clarence Williams
 spotify_data:
   followers: 24
   id: 76N6L4ZZZ98lbw78vea5Xb
   popularity: 0
-  url: https://open.spotify.com/artist/76N6L4ZZZ98lbw78vea5Xb
+  url: 'https://open.spotify.com/artist/76N6L4ZZZ98lbw78vea5Xb'
 discography_enriched: true
 top_tracks:
-- Do It, Baby (Early Blues Heroes)
-- If You Like Me (Early Blues Heroes)
-- St. Louis Blues (Early Blues Heroes)
-- West End Blues (Early Blues Heroes)
-- Mushy Love (Early Blues Heroes)
-- Have You Ever Felt That Way? (Early Blues Heroes)
-- Do It Baby (Clarence Williams' Q.R.S. Recordings, Vol. 2)
-- Mushy Love (Clarence Williams' Q.R.S. Recordings, Vol. 2)
-- If You Like Me (Clarence Williams' Q.R.S. Recordings, Vol. 2)
-- If You Like Me - Take 2 (Clarence Williams' Q.R.S. Recordings, Vol. 2)
+  - 'Do It, Baby (Early Blues Heroes)'
+  - If You Like Me (Early Blues Heroes)
+  - St. Louis Blues (Early Blues Heroes)
+  - West End Blues (Early Blues Heroes)
+  - Mushy Love (Early Blues Heroes)
+  - Have You Ever Felt That Way? (Early Blues Heroes)
+  - 'Do It Baby (Clarence Williams'' Q.R.S. Recordings, Vol. 2)'
+  - 'Mushy Love (Clarence Williams'' Q.R.S. Recordings, Vol. 2)'
+  - 'If You Like Me (Clarence Williams'' Q.R.S. Recordings, Vol. 2)'
+  - 'If You Like Me - Take 2 (Clarence Williams'' Q.R.S. Recordings, Vol. 2)'
 external_urls:
-  spotify: https://open.spotify.com/artist/76N6L4ZZZ98lbw78vea5Xb
-  wikipedia: https://en.wikipedia.org/wiki/Katherine_Henderson_(singer)
+  spotify: 'https://open.spotify.com/artist/76N6L4ZZZ98lbw78vea5Xb'
+  wikipedia: 'https://en.wikipedia.org/wiki/Katherine_Henderson_(singer)'
 image_path: 03_Resources/source_material/ArtistPortraits/KATHERINE_HENDERSON.jpg
 biography_enhanced_at: '2025-10-20T09:21:13.978233'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Katherine_Henderson_(singer)
-- https://kids.kiddle.co/Katherine_Henderson
-- https://syncopatedtimes.com/katherine-henderson-1909/
+  - 'https://en.wikipedia.org/wiki/Katherine_Henderson_(singer)'
+  - 'https://kids.kiddle.co/Katherine_Henderson'
+  - 'https://syncopatedtimes.com/katherine-henderson-1909/'
 network_extracted: true
 entry_created: '2025-10-20T09:21:13.978250'
 last_updated: '2025-12-23T08:16:02.772588'
+birth_date: '1909-06-23'
+death_date: '2002-09-01'
+artist_type: person
 ---
 
 ![](KATHERINE_HENDERSON.jpg)

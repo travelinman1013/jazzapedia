@@ -4,9 +4,10 @@ wiki_slug: international-jazz-ragtime-all-stars
 schema_version: 2
 status: active
 genres:
-- ragtime
+  - ragtime
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/International_Jazz_and_Ragtime_All_Stars.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/International_Jazz_and_Ragtime_All_Stars.jpg
   caption: International Jazz & Ragtime All Stars
   background: solo_singer
 audio_profile:
@@ -24,45 +25,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Various Traditional Jazz and Ragtime Musicians
+    - Various Traditional Jazz and Ragtime Musicians
   influenced:
-  - Contemporary Ragtime and Traditional Jazz Musicians
+    - Contemporary Ragtime and Traditional Jazz Musicians
   mentors:
-  - Scott Joplin
-  - James Scott
-  - Joseph Lamb
+    - Scott Joplin
+    - James Scott
+    - Joseph Lamb
 spotify_data:
   followers: 544
   id: 5bw7l9VIDDT6yvnDT7loiX
   popularity: 6
-  url: https://open.spotify.com/artist/5bw7l9VIDDT6yvnDT7loiX
+  url: 'https://open.spotify.com/artist/5bw7l9VIDDT6yvnDT7loiX'
 discography_enriched: true
 top_tracks:
-- 'The Entertainer (Ragtime: The Complete Works Of Scott Joplin)'
-- 'Sugarcane Rag (Ragtime: The Complete Works Of Scott Joplin)'
-- 'Fig Leaf Rag (Ragtime Masters Series: Scott Joplin)'
-- 'Kismet Rag (Ragtime Masters Series: Scott Joplin)'
-- 'Maple Leaf Rag (Ragtime: The Complete Works Of Scott Joplin)'
-- Champagne Rag (Ragtime Hard To Find Classics)
-- 'Magnetic Rag (Ragtime: The Complete Works Of Scott Joplin)'
-- 'Something Doing (Ragtime: The Complete Works Of Scott Joplin)'
-- Ragtime Nightingale (Ragtime Hard To Find Classics)
-- 'Easy Winners (Ragtime: The Complete Works Of Scott Joplin)'
+  - 'The Entertainer (Ragtime: The Complete Works Of Scott Joplin)'
+  - 'Sugarcane Rag (Ragtime: The Complete Works Of Scott Joplin)'
+  - 'Fig Leaf Rag (Ragtime Masters Series: Scott Joplin)'
+  - 'Kismet Rag (Ragtime Masters Series: Scott Joplin)'
+  - 'Maple Leaf Rag (Ragtime: The Complete Works Of Scott Joplin)'
+  - Champagne Rag (Ragtime Hard To Find Classics)
+  - 'Magnetic Rag (Ragtime: The Complete Works Of Scott Joplin)'
+  - 'Something Doing (Ragtime: The Complete Works Of Scott Joplin)'
+  - Ragtime Nightingale (Ragtime Hard To Find Classics)
+  - 'Easy Winners (Ragtime: The Complete Works Of Scott Joplin)'
 external_urls:
-  spotify: https://open.spotify.com/artist/5bw7l9VIDDT6yvnDT7loiX
+  spotify: 'https://open.spotify.com/artist/5bw7l9VIDDT6yvnDT7loiX'
   wikipedia: null
-image_path: 03_Resources/source_material/ArtistPortraits/International_Jazz_and_Ragtime_All_Stars.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/International_Jazz_and_Ragtime_All_Stars.jpg
 biography_enhanced_at: '2025-10-19T12:25:02.036870'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.messynessychic.com/2022/01/20/before-jazz-ragtime-gave-us-americas-first-music-stars/
-- https://syncopatedtimes.com/50th-anniversary-scott-joplin-international-ragtime-festival/
-- https://www.loc.gov/collections/ragtime/articles-and-essays/history-of-ragtime/
+  - >-
+    https://www.messynessychic.com/2022/01/20/before-jazz-ragtime-gave-us-americas-first-music-stars/
+  - >-
+    https://syncopatedtimes.com/50th-anniversary-scott-joplin-international-ragtime-festival/
+  - >-
+    https://www.loc.gov/collections/ragtime/articles-and-essays/history-of-ragtime/
 network_extracted: true
 entry_created: '2025-10-19T12:25:02.036886'
 last_updated: '2025-12-23T08:16:02.297996'
-origin: United States (typical origin for ragtime ensembles; specific city or state not documented)
+origin: >-
+  United States (typical origin for ragtime ensembles; specific city or state
+  not documented)
+artist_type: band
 ---
 
 ![](International_Jazz_and_Ragtime_All_Stars.jpg)

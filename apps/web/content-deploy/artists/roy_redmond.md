@@ -1,10 +1,10 @@
 ---
-title: roy redmond
+title: Roy Redmond
 wiki_slug: roy-redmond
 schema_version: 2
 status: active
 genres:
-- northern soul
+  - northern soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/roy_redmond.jpg
   caption: roy redmond
@@ -15,7 +15,7 @@ audio_profile:
   valence_avg: 0.701
   danceability_avg: 0.623
   acousticness_avg: 0.089
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -8.8
   speechiness_avg: 0.049
   liveness_avg: 0.224
@@ -24,44 +24,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jerry Ragavoy
+    - Jerry Ragavoy
   influenced:
-  - Northern Soul DJs and collectors
+    - Northern Soul DJs and collectors
   mentors:
-  - Jerry Ragavoy
+    - Jerry Ragavoy
 spotify_data:
   followers: 507
   id: 75nH9SHblpaAtYck60wjIY
   popularity: 11
-  url: https://open.spotify.com/artist/75nH9SHblpaAtYck60wjIY
+  url: 'https://open.spotify.com/artist/75nH9SHblpaAtYck60wjIY'
 discography_enriched: true
 top_tracks:
-- 'Ain''t That Terrible (After Hours The Collection: Northern Soul Masters)'
-- Ain't That Terrible (Northern Soul 45's)
-- Good Day Sunshine (Best of Loma Records-Rise and Fall of a 1960's Soul Label)
-- Good Day Sunshine (Desayuno con música)
-- 'Good Day Sunshine (GLASS ONION: SONGS OF THE BEATLES)'
-- Ain't That Terrible (Northern Soul Classics)
-- Ain't That Terrible (Northern Soul Floorfillers)
-- Ain't That Terrible (100 Greatest Northern Soul Classics)
-- Ain't That Terrible (Best of Loma Records-Rise and Fall of a 1960's Soul Label)
-- 'Ain''t That Terrible (Northern Soul: The Collection)'
+  - 'Ain''t That Terrible (After Hours The Collection: Northern Soul Masters)'
+  - Ain't That Terrible (Northern Soul 45's)
+  - >-
+    Good Day Sunshine (Best of Loma Records-Rise and Fall of a 1960's Soul
+    Label)
+  - Good Day Sunshine (Desayuno con música)
+  - 'Good Day Sunshine (GLASS ONION: SONGS OF THE BEATLES)'
+  - Ain't That Terrible (Northern Soul Classics)
+  - Ain't That Terrible (Northern Soul Floorfillers)
+  - Ain't That Terrible (100 Greatest Northern Soul Classics)
+  - >-
+    Ain't That Terrible (Best of Loma Records-Rise and Fall of a 1960's Soul
+    Label)
+  - 'Ain''t That Terrible (Northern Soul: The Collection)'
 external_urls:
-  spotify: https://open.spotify.com/artist/75nH9SHblpaAtYck60wjIY
+  spotify: 'https://open.spotify.com/artist/75nH9SHblpaAtYck60wjIY'
   wikipedia: ''
 image_path: ''
 biography_enhanced_at: '2025-10-19T11:55:28.332579'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://soundsoftheuniverse.com/sjr/product/aint-that-terrible-a-change-is-gonna-come
-- https://www.zeroto180.org/good-day-sunshine-roy-redmond-man-of-mystery/
-- https://beta.forcedexposure.com/Artists/REDMOND.ROY.html
-- https://jazzmanrecords.co.uk/roy-redmond-ain-t-that-terrible
-- https://www.last.fm/music/Roy+Redmond/+albums
+  - >-
+    https://soundsoftheuniverse.com/sjr/product/aint-that-terrible-a-change-is-gonna-come
+  - 'https://www.zeroto180.org/good-day-sunshine-roy-redmond-man-of-mystery/'
+  - 'https://beta.forcedexposure.com/Artists/REDMOND.ROY.html'
+  - 'https://jazzmanrecords.co.uk/roy-redmond-ain-t-that-terrible'
+  - 'https://www.last.fm/music/Roy+Redmond/+albums'
 network_extracted: true
 entry_created: '2025-10-19T11:55:28.332584'
 last_updated: '2025-12-23T08:16:15.140306'
+artist_type: person
 ---
 
 ![]()

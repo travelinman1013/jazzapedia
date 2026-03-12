@@ -1,17 +1,17 @@
 ---
-title: rufus harley
+title: Rufus Harley
 wiki_slug: rufus-harley
 schema_version: 2
 status: active
-birth_place: Near Raleigh, North Carolina, United States
+birth_place: 'Near Raleigh, North Carolina, United States'
 genres:
-- free jazz
-- jazz funk
+  - free jazz
+  - jazz funk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/rufus_harley.jpg
   caption: rufus harley
   background: solo_singer
-  origin: Near Raleigh, North Carolina, United States
+  origin: 'Near Raleigh, North Carolina, United States'
 audio_profile:
   tempo_avg: 117.3
   energy_avg: 0.504
@@ -27,56 +27,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Joel Dorn
-  - Herbie Mann
-  - Sonny Rollins
-  - Sonny Stitt
-  - John Coltrane
-  - Dizzy Gillespie
-  - Dexter Gordon
-  - The Roots
-  - Laurie Anderson
-  - Byard Lancaster
+    - Joel Dorn
+    - Herbie Mann
+    - Sonny Rollins
+    - Sonny Stitt
+    - John Coltrane
+    - Dizzy Gillespie
+    - Dexter Gordon
+    - The Roots
+    - Laurie Anderson
+    - Byard Lancaster
   influenced:
-  - Subsequent jazz and experimental musicians using non‑traditional instruments
+    - >-
+      Subsequent jazz and experimental musicians using non‑traditional
+      instruments
   mentors:
-  - Dennis Sandole
+    - Dennis Sandole
 spotify_data:
   followers: 2418
   id: 66JkEpoXz1IsN9dZAmepQs
   popularity: 5
-  url: https://open.spotify.com/artist/66JkEpoXz1IsN9dZAmepQs
+  url: 'https://open.spotify.com/artist/66JkEpoXz1IsN9dZAmepQs'
 discography_enriched: true
 top_tracks:
-- Crack (Re-Creation of the Gods)
-- 'Bagpipe Blues - 2006 Remaster (Courage: The Atlantic Recordings)'
-- 'Eight Miles High - 2006 Remaster (Courage: The Atlantic Recordings)'
-- Gods and Goddesses (Re-Creation of the Gods)
-- 'Chim Chim Cheree - 2006 Remaster (Courage: The Atlantic Recordings)'
-- 'Feeling Good (Courage: The Atlantic Recordings)'
-- Nobody Knows the Trouble Us People Had Seen (Re-Creation of the Gods)
-- 'Kerry Dancers - 2006 Remaster (Courage: The Atlantic Recordings)'
-- 'Scotch and Soul - 2006 Remaster (Courage: The Atlantic Recordings)'
-- Re-Creation of the Gods (Re-Creation of the Gods)
+  - Crack (Re-Creation of the Gods)
+  - 'Bagpipe Blues - 2006 Remaster (Courage: The Atlantic Recordings)'
+  - 'Eight Miles High - 2006 Remaster (Courage: The Atlantic Recordings)'
+  - Gods and Goddesses (Re-Creation of the Gods)
+  - 'Chim Chim Cheree - 2006 Remaster (Courage: The Atlantic Recordings)'
+  - 'Feeling Good (Courage: The Atlantic Recordings)'
+  - Nobody Knows the Trouble Us People Had Seen (Re-Creation of the Gods)
+  - 'Kerry Dancers - 2006 Remaster (Courage: The Atlantic Recordings)'
+  - 'Scotch and Soul - 2006 Remaster (Courage: The Atlantic Recordings)'
+  - Re-Creation of the Gods (Re-Creation of the Gods)
 external_urls:
-  spotify: https://open.spotify.com/artist/66JkEpoXz1IsN9dZAmepQs
-  wikipedia: https://en.wikipedia.org/wiki/Rufus_Harley
+  spotify: 'https://open.spotify.com/artist/66JkEpoXz1IsN9dZAmepQs'
+  wikipedia: 'https://en.wikipedia.org/wiki/Rufus_Harley'
 image_path: 03_Resources/source_material/ArtistPortraits/rufus_harley.jpg
 biography_enhanced_at: '2025-12-18T02:45:52.817685'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Rufus_Harley
-- https://jazztimes.com/archives/rufus-harley-legendary-jazz-bagpipe-player-dies/
-- https://www.atlasobscura.com/articles/meet-rufus-harley
-- https://fromthevaults-boppinbob.blogspot.com/2022/05/rufus-harley-jr.html
-- https://www.allaboutjazz.com/news/rufus-harley-jazz-bagpiper/
-- https://www.imdb.com/name/nm0363305/bio/
-- https://www.prestomusic.com/jazz/articles/5738--artist-profile-rufus-harley-the-pied-piper-of-jazz
+  - 'https://en.wikipedia.org/wiki/Rufus_Harley'
+  - >-
+    https://jazztimes.com/archives/rufus-harley-legendary-jazz-bagpipe-player-dies/
+  - 'https://www.atlasobscura.com/articles/meet-rufus-harley'
+  - 'https://fromthevaults-boppinbob.blogspot.com/2022/05/rufus-harley-jr.html'
+  - 'https://www.allaboutjazz.com/news/rufus-harley-jazz-bagpiper/'
+  - 'https://www.imdb.com/name/nm0363305/bio/'
+  - >-
+    https://www.prestomusic.com/jazz/articles/5738--artist-profile-rufus-harley-the-pied-piper-of-jazz
 network_extracted: true
 entry_created: '2025-12-18T02:45:52.817694'
 last_updated: '2025-12-23T08:16:15.200537'
-
+birth_date: '1936-05-20'
+death_date: '2006-08-01'
+artist_type: person
 ---
 
 ![](rufus_harley.jpg)

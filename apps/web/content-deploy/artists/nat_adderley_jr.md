@@ -1,41 +1,43 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-17T02:03:02.729950'
-birth_place: Quincy, Florida, United States
+birth_place: 'Quincy, Florida, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-17T02:03:02.729962'
 external_urls:
-  spotify: https://open.spotify.com/artist/72Muyy0FFfx8OuW9IgAkGn
+  spotify: 'https://open.spotify.com/artist/72Muyy0FFfx8OuW9IgAkGn'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/nat_adderley_jr.jpg
 last_updated: '2026-01-17T02:03:02.729964'
 musical_connections:
   collaborators:
-  - Luther Vandross
-  - Aretha Franklin
-  - Chris Berger
-  - Vincent Herring
+    - Luther Vandross
+    - Aretha Franklin
+    - Chris Berger
+    - Vincent Herring
   influenced: []
   mentors:
-  - Nat Adderley Sr.
-  - Cannonball Adderley
+    - Nat Adderley Sr.
+    - Cannonball Adderley
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://dcdoxfest.com/people/nat-adderley-jr/
-- https://amsterdamnews.com/news/2025/10/16/nat-adderley-jr-bric-jazzfest-harlem-writers-guild-spotlight-black-excellence/
-- https://www.thehistorymakers.org/biography/nat-adderley-jr
-- https://njjs.org/nat-adderley-jr-exhilarating-mix-of-jazz-blues-and-rb/
-- http://www.natadderleyjr.com/bio-4
-- https://gregoryburrusproductions.com/nat-adderley-jr-quartet-live/
+  - 'https://dcdoxfest.com/people/nat-adderley-jr/'
+  - >-
+    https://amsterdamnews.com/news/2025/10/16/nat-adderley-jr-bric-jazzfest-harlem-writers-guild-spotlight-black-excellence/
+  - 'https://www.thehistorymakers.org/biography/nat-adderley-jr'
+  - 'https://njjs.org/nat-adderley-jr-exhilarating-mix-of-jazz-blues-and-rb/'
+  - 'http://www.natadderleyjr.com/bio-4'
+  - 'https://gregoryburrusproductions.com/nat-adderley-jr-quartet-live/'
 spotify_data:
   followers: 216
   id: 72Muyy0FFfx8OuW9IgAkGn
   popularity: 11
-  url: https://open.spotify.com/artist/72Muyy0FFfx8OuW9IgAkGn
+  url: 'https://open.spotify.com/artist/72Muyy0FFfx8OuW9IgAkGn'
 status: active
 title: Nat Adderley Jr
+birth_date: '1955-05-23'
 ---
 
 ![](nat_adderley_jr.jpg)

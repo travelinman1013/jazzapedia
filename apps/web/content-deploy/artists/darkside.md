@@ -2,13 +2,13 @@
 title: DARKSIDE
 wiki_slug: darkside
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '2011'
 genres:
-- downtempo
+  - downtempo
 instruments:
-- original
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/darkside.jpg
   caption: DARKSIDE
@@ -29,73 +29,73 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Nicolás Jaar
-  - Dave Harrington
-  - Tlacael Esparza
+    - Nicolás Jaar
+    - Dave Harrington
+    - Tlacael Esparza
   influenced:
-  - Artists in experimental electronic and downtempo scenes
+    - Artists in experimental electronic and downtempo scenes
   mentors:
-  - Will Epstein
+    - Will Epstein
 spotify_data:
   followers: 264244
   id: 2933wDUojoQmvqSdTAE5NB
   popularity: 44
-  url: https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB
+  url: 'https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB'
 discography_enriched: true
 top_tracks:
-- Paper Trails (Psychic)
-- S.N.C (Nothing)
-- SLAU (Nothing)
-- Are You Tired? (Keep on Singing) (Nothing)
-- American References (Nothing)
-- Hell suite, Pt. II (Nothing)
-- A1 (Darkside)
-- Heavy Is Good For This (Nothing)
-- S.N.C (S.N.C)
-- Graucha Max (Nothing)
+  - Paper Trails (Psychic)
+  - S.N.C (Nothing)
+  - SLAU (Nothing)
+  - Are You Tired? (Keep on Singing) (Nothing)
+  - American References (Nothing)
+  - 'Hell suite, Pt. II (Nothing)'
+  - A1 (Darkside)
+  - Heavy Is Good For This (Nothing)
+  - S.N.C (S.N.C)
+  - Graucha Max (Nothing)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/116b79ab-b049-4299-8fd8-17ac8a18b7f3
-  spotify: https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB
-  wikipedia: https://en.wikipedia.org/wiki/Darkside_(band)
+  musicbrainz: 'https://musicbrainz.org/artist/116b79ab-b049-4299-8fd8-17ac8a18b7f3'
+  spotify: 'https://open.spotify.com/artist/2933wDUojoQmvqSdTAE5NB'
+  wikipedia: 'https://en.wikipedia.org/wiki/Darkside_(band)'
 image_path: 03_Resources/source_material/ArtistPortraits/darkside.jpg
 biography_enhanced_at: '2025-11-05T12:47:29.517379'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Darkside_(band)
-- https://www.darksideusa.com
-- https://www.last.fm/music/Darkside/+wiki
+  - 'https://en.wikipedia.org/wiki/Darkside_(band)'
+  - 'https://www.darksideusa.com'
+  - 'https://www.last.fm/music/Darkside/+wiki'
 network_extracted: true
 entry_created: '2025-11-05T12:47:29.517396'
 last_updated: '2025-12-23T08:16:07.448730'
 disambiguation: US electronic band from NYC
 members:
-- &id001
-  begin: '2022'
-  end: ''
-  instruments: []
-  mbid: 9d368680-1418-4ddc-a38d-84cd38fc732c
-  name: Tlacael Esparza
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 4fe8f273-df8c-4fea-b0a2-30022452730c
-  name: Dave Harrington
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 06e99a1b-4020-4380-ab27-1a3e0c5e557c
-  name: Nicolas Jaar
+  - &ref_0
+    begin: '2022'
+    end: ''
+    instruments: []
+    mbid: 9d368680-1418-4ddc-a38d-84cd38fc732c
+    name: Tlacael Esparza
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 4fe8f273-df8c-4fea-b0a2-30022452730c
+    name: Dave Harrington
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 06e99a1b-4020-4380-ab27-1a3e0c5e557c
+    name: Nicolas Jaar
 musicbrainz_id: 116b79ab-b049-4299-8fd8-17ac8a18b7f3
-origin: Providence
+origin: 'Providence, Rhode Island, United States'
 original_members:
-- *id001
+  - *ref_0
 tags:
-- electronic
-- nicolás jaar
-- post-rock
+  - electronic
+  - nicolás jaar
+  - post-rock
 ---
 
 ![](darkside.jpg)

@@ -3,13 +3,13 @@ title: Dayme Arocena
 wiki_slug: dayme-arocena
 schema_version: 2
 status: active
-birth_place: Havana, Cuba
+birth_place: 'Havana, Cuba, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/dayme_arocena.jpg
   caption: Dayme Arocena
   background: solo_singer
-  origin: Havana, Cuba
+  origin: 'Havana, Cuba'
 audio_profile:
   tempo_avg: 120.1
   energy_avg: 0.841
@@ -25,40 +25,44 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jane Bunnett & Maqueque
-  - Eduardo Cabra (Calle 13)
-  - Rafa Pabön
-  - Vicente García
+    - Jane Bunnett & Maqueque
+    - Eduardo Cabra (Calle 13)
+    - Rafa Pabön
+    - Vicente García
   influenced:
-  - Emerging Cuban and Latin female musicians
+    - Emerging Cuban and Latin female musicians
   mentors:
-  - Jane Bunnett
-  - Gilles Peterson
+    - Jane Bunnett
+    - Gilles Peterson
 spotify_data:
   followers: 5
   id: 0EOcz0IrVWh0maEZgIowI3
   popularity: 3
-  url: https://open.spotify.com/artist/0EOcz0IrVWh0maEZgIowI3
+  url: 'https://open.spotify.com/artist/0EOcz0IrVWh0maEZgIowI3'
 discography_enriched: true
 top_tracks:
-- AFRO MAMBO (ABUC)
+  - AFRO MAMBO (ABUC)
 external_urls:
-  spotify: https://open.spotify.com/artist/0EOcz0IrVWh0maEZgIowI3
-  wikipedia: https://en.wikipedia.org/wiki/Daym%C3%A9_Arocena
+  spotify: 'https://open.spotify.com/artist/0EOcz0IrVWh0maEZgIowI3'
+  wikipedia: 'https://en.wikipedia.org/wiki/Daym%C3%A9_Arocena'
 image_path: ''
 biography_enhanced_at: '2025-10-23T07:39:39.581327'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Daym%C3%A9_Arocena
-- https://www.highroadtouring.com/artists/dayme-arocena/
-- https://english.elpais.com/culture/2025-09-20/dayme-arocena-we-black-singers-have-to-do-spectacularly-well-to-be-given-a-space.html
-- https://www.knkx.org/jazz/2024-03-01/how-dayme-arocena-left-cuba-and-found-a-freeing-new-sound-in-afro-caribbean-pop
-- https://www.sfjazz.org/onthecorner/5-things-to-know-about-dayme-arocena/
-- https://www.aspenideas.org/speakers/dayme-arocena
+  - 'https://en.wikipedia.org/wiki/Daym%C3%A9_Arocena'
+  - 'https://www.highroadtouring.com/artists/dayme-arocena/'
+  - >-
+    https://english.elpais.com/culture/2025-09-20/dayme-arocena-we-black-singers-have-to-do-spectacularly-well-to-be-given-a-space.html
+  - >-
+    https://www.knkx.org/jazz/2024-03-01/how-dayme-arocena-left-cuba-and-found-a-freeing-new-sound-in-afro-caribbean-pop
+  - 'https://www.sfjazz.org/onthecorner/5-things-to-know-about-dayme-arocena/'
+  - 'https://www.aspenideas.org/speakers/dayme-arocena'
 network_extracted: true
 entry_created: '2025-10-23T07:39:39.581345'
 last_updated: '2025-12-23T08:16:07.602220'
+birth_date: 1992-01
+artist_type: person
 ---
 
 ![]()

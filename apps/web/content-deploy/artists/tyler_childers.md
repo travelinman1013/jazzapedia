@@ -5,17 +5,17 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1991-06-21'
-birth_place: Lawrence County
+birth_place: 'Lawrence County, Kentucky, United States'
 genres:
-- country
-- red dirt
-- alt country
-- texas country
-- bluegrass
+  - country
+  - red dirt
+  - alt country
+  - texas country
+  - bluegrass
 instruments:
-- acoustic guitar
-- electric guitar
-- choir vocals
+  - acoustic guitar
+  - electric guitar
+  - choir vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/tyler_childers.jpg
   caption: Tyler Childers
@@ -29,7 +29,7 @@ audio_profile:
   danceability_avg: 0.51
   acousticness_avg: 0.644
   instrumentalness_avg: 0.016
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.04
   liveness_avg: 0.29
   track_count: 50
@@ -37,55 +37,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sturgill Simpson
-  - David Ferguson
-  - Senora May
+    - Sturgill Simpson
+    - David Ferguson
+    - Senora May
   influenced: []
   mentors:
-  - Sturgill Simpson
-  - Miles Miller
-  - Grandfather (unnamed)
+    - Sturgill Simpson
+    - Miles Miller
+    - Grandfather (unnamed)
 spotify_data:
   followers: 3209440
   id: 13ZEDW6vyBF12HYcZRr4EV
   popularity: 77
-  url: https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV
+  url: 'https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV'
 discography_enriched: true
 top_tracks:
-- All Your'n (Country Squire)
-- Feathered Indians (Purgatory)
-- Shake the Frost (Live) (Live on Red Barn Radio I & II)
-- Nose On The Grindstone (OurVinyl Sessions)
-- Lady May (Purgatory)
-- Follow You To Virgie (OurVinyl Sessions)
-- Charleston Girl (Live) (Live on Red Barn Radio I & II)
-- Whitehouse Road (Purgatory)
-- Coal (Bottles and Bibles)
-- Tattoos (Purgatory)
+  - All Your'n (Country Squire)
+  - Feathered Indians (Purgatory)
+  - Shake the Frost (Live) (Live on Red Barn Radio I & II)
+  - Nose On The Grindstone (OurVinyl Sessions)
+  - Lady May (Purgatory)
+  - Follow You To Virgie (OurVinyl Sessions)
+  - Charleston Girl (Live) (Live on Red Barn Radio I & II)
+  - Whitehouse Road (Purgatory)
+  - Coal (Bottles and Bibles)
+  - Tattoos (Purgatory)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9947e874-ddd0-4e1a-b0d4-a76f6532fe45
-  spotify: https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV
+  musicbrainz: 'https://musicbrainz.org/artist/9947e874-ddd0-4e1a-b0d4-a76f6532fe45'
+  spotify: 'https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/tyler_childers.jpg
 biography_enhanced_at: '2025-12-15T01:32:11.908383'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://artscouncil.ky.gov/2024-national-award-tyler-childers/
-- https://www.biography.com/musicians/a60256657/tyler-childers
-- https://www.last.fm/music/Tyler+Childers/+wiki
-- https://tylerchildersmusic.com/pages/about
-- https://www.biography.com/musicians/a60256657/tyler-childers
+  - 'https://artscouncil.ky.gov/2024-national-award-tyler-childers/'
+  - 'https://www.biography.com/musicians/a60256657/tyler-childers'
+  - 'https://www.last.fm/music/Tyler+Childers/+wiki'
+  - 'https://tylerchildersmusic.com/pages/about'
+  - 'https://www.biography.com/musicians/a60256657/tyler-childers'
 network_extracted: true
 entry_created: '2025-12-15T01:32:11.908395'
 last_updated: '2025-12-23T08:16:17.752575'
 gender: Male
 musicbrainz_id: 9947e874-ddd0-4e1a-b0d4-a76f6532fe45
 tags:
-- alternative country
-- americana
-- country
-
+  - alternative country
+  - americana
+  - country
 ---
 
 ![](tyler_childers.jpg)

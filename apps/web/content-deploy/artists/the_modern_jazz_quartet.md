@@ -1,17 +1,17 @@
 ---
-title: THE MODERN JAZZ QUARTET
+title: The Modern Jazz Quartet
 wiki_slug: the-modern-jazz-quartet
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 birth_date: '1952'
 genres:
-- cool jazz
-- jazz
-- hard bop
-- bebop
+  - cool jazz
+  - jazz
+  - hard bop
+  - bebop
 instruments:
-- drums (drum set)
+  - drums (drum set)
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_modern_jazz_quartet.jpg
   caption: THE MODERN JAZZ QUARTET
@@ -32,84 +32,86 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Milt Jackson
-  - John Lewis
-  - Kenny Clarke
-  - Percy Heath
-  - Connie Kay
+    - Milt Jackson
+    - John Lewis
+    - Kenny Clarke
+    - Percy Heath
+    - Connie Kay
   influenced:
-  - Chick Corea
-  - The Third Stream movement
-  - Gary Burton
+    - Chick Corea
+    - The Third Stream movement
+    - Gary Burton
   mentors:
-  - Dizzy Gillespie
-  - Charlie Parker
+    - Dizzy Gillespie
+    - Charlie Parker
 spotify_data:
   followers: 123257
   id: 7wBFjZMHsC6nfV0HOSd6uI
   popularity: 41
-  url: https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI
+  url: 'https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI'
 discography_enriched: true
 top_tracks:
-- In A Sentimental Mood (Sonny Rollins With The Modern Jazz Quartet)
-- 'Softly As In A Morning Sunrise (Elegance: The Birth Of The Modern Jazz Quartet)'
-- Vendome (Pyramid)
-- Willow Weep for Me (Fontessa)
-- One Bass Hit (Django (Rudy Van Gelder Remaster))
-- Summertime - Live at Lincoln Center (The Complete Last Concert)
-- The Queen's Fancy (Django (Rudy Van Gelder Remaster))
-- Django (Pyramid)
-- Blues in C Minor (Blues On Bach)
-- Autumn In New York (Django (Rudy Van Gelder Remaster))
+  - In A Sentimental Mood (Sonny Rollins With The Modern Jazz Quartet)
+  - >-
+    Softly As In A Morning Sunrise (Elegance: The Birth Of The Modern Jazz
+    Quartet)
+  - Vendome (Pyramid)
+  - Willow Weep for Me (Fontessa)
+  - One Bass Hit (Django (Rudy Van Gelder Remaster))
+  - Summertime - Live at Lincoln Center (The Complete Last Concert)
+  - The Queen's Fancy (Django (Rudy Van Gelder Remaster))
+  - Django (Pyramid)
+  - Blues in C Minor (Blues On Bach)
+  - Autumn In New York (Django (Rudy Van Gelder Remaster))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/75472b2f-55ca-47bb-a192-5ac8601350ba
-  spotify: https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI
-  wikipedia: https://en.wikipedia.org/wiki/Modern_Jazz_Quartet
+  musicbrainz: 'https://musicbrainz.org/artist/75472b2f-55ca-47bb-a192-5ac8601350ba'
+  spotify: 'https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI'
+  wikipedia: 'https://en.wikipedia.org/wiki/Modern_Jazz_Quartet'
 image_path: 03_Resources/source_material/ArtistPortraits/the_modern_jazz_quartet.jpg
 biography_enhanced_at: '2025-11-03T07:47:41.906133'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- All About Jazz (allaboutjazz.com/musicians/modern-jazz-quartet/)
-- Concord (concord.com/artist/the-modern-jazz-quartet/)
-- AAEP 1600, Ohio State University (aaep1600.osu.edu/book/05_ModernJazz.php)
-- Britannica (britannica.com/topic/Modern-Jazz-Quartet)
+  - All About Jazz (allaboutjazz.com/musicians/modern-jazz-quartet/)
+  - Concord (concord.com/artist/the-modern-jazz-quartet/)
+  - 'AAEP 1600, Ohio State University (aaep1600.osu.edu/book/05_ModernJazz.php)'
+  - Britannica (britannica.com/topic/Modern-Jazz-Quartet)
 network_extracted: true
 entry_created: '2025-11-03T07:47:41.906141'
 last_updated: '2025-12-23T08:16:16.981899'
 members:
-- begin: '1952'
-  end: '1955'
-  instruments:
-  - drums (drum set)
-  mbid: 48eaf8a1-6e44-488c-a91a-736867f1ba50
-  name: Kenny Clarke
-- begin: '1952'
-  end: '1974'
-  instruments: []
-  mbid: 2e38e1de-2890-4620-8467-5b0bb4641cb9
-  name: Milt Jackson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 534362cd-66ed-45a8-9cba-b847dbf75b6f
-  name: Percy Heath
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4f1dc71a-d679-4d5d-b590-a38456b1b48e
-  name: Connie Kay
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: be347fef-e406-4c1b-8698-669d71b68bc5
-  name: John Lewis
+  - begin: '1952'
+    end: '1955'
+    instruments:
+      - drums (drum set)
+    mbid: 48eaf8a1-6e44-488c-a91a-736867f1ba50
+    name: Kenny Clarke
+  - begin: '1952'
+    end: '1974'
+    instruments: []
+    mbid: 2e38e1de-2890-4620-8467-5b0bb4641cb9
+    name: Milt Jackson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 534362cd-66ed-45a8-9cba-b847dbf75b6f
+    name: Percy Heath
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4f1dc71a-d679-4d5d-b590-a38456b1b48e
+    name: Connie Kay
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: be347fef-e406-4c1b-8698-669d71b68bc5
+    name: John Lewis
 musicbrainz_id: 75472b2f-55ca-47bb-a192-5ac8601350ba
-origin: New York
+origin: 'New York, New York, United States'
 tags:
-- bebop
-- cool jazz
-- film soundtrack
+  - bebop
+  - cool jazz
+  - film soundtrack
 ---
 
 ![](the_modern_jazz_quartet.jpg)

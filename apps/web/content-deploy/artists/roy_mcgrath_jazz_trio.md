@@ -3,13 +3,13 @@ title: Roy McGrath Jazz Trio
 wiki_slug: roy-mcgrath-jazz-trio
 schema_version: 2
 status: active
-birth_place: San Juan, Puerto Rico
+birth_place: 'San Juan, Puerto Rico, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/roy_mcgrath_jazz_trio.jpg
   caption: Roy McGrath Jazz Trio
   background: solo_singer
-  origin: San Juan, Puerto Rico
+  origin: 'San Juan, Puerto Rico'
 audio_profile:
   tempo_avg: 117.1
   energy_avg: 0.319
@@ -25,46 +25,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Constantine Alexander
-  - Eduardo Zayaz
-  - Kitt Lyles
-  - Efraín Martínez
+    - Constantine Alexander
+    - Eduardo Zayaz
+    - Kitt Lyles
+    - Efraín Martínez
   influenced: []
   mentors: []
 spotify_data:
   followers: 32
   id: 2PMSQC1JJv7KgJb7kPtm4S
   popularity: 0
-  url: https://open.spotify.com/artist/2PMSQC1JJv7KgJb7kPtm4S
+  url: 'https://open.spotify.com/artist/2PMSQC1JJv7KgJb7kPtm4S'
 discography_enriched: true
 top_tracks:
-- BYOB (Long Shot)
-- Mr Chow (Long Shot)
-- A Child Is Born (Long Shot)
-- Footprints (Long Shot)
-- When I Leave You (Long Shot)
-- Is You Is Or Is You Ain't My Baby (Long Shot)
-- Peaches (Long Shot)
-- When I Leave You (Alternate Take) (Long Shot)
+  - BYOB (Long Shot)
+  - Mr Chow (Long Shot)
+  - A Child Is Born (Long Shot)
+  - Footprints (Long Shot)
+  - When I Leave You (Long Shot)
+  - Is You Is Or Is You Ain't My Baby (Long Shot)
+  - Peaches (Long Shot)
+  - When I Leave You (Alternate Take) (Long Shot)
 external_urls:
-  spotify: https://open.spotify.com/artist/2PMSQC1JJv7KgJb7kPtm4S
+  spotify: 'https://open.spotify.com/artist/2PMSQC1JJv7KgJb7kPtm4S'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/roy_mcgrath_jazz_trio.jpg
 biography_enhanced_at: '2025-12-16T03:12:16.487742'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://latinjazznet.com/reviews/albums/roy-mcgrath-menjunje/
-- https://www.chicagojazz.com/roymcgrath
-- https://www.chicagotakes10.org/artists/roy-mcgrath-trio
-- https://latinjazznet.com/artist-profiles/artist-profile-roy-mc-grath/
-- https://www.jazzinchicago.org/jazzgram/roy-mcgrath
-- https://surreal.live/en-us/entertainer/roy-mcgrath
-- https://www.allaboutjazz.com/musicians/roy-mcgrath/
-- https://www.southbendtribune.com/story/entertainment/2015/04/05/mcgraths-jazz-a-melting-pot-of-traditions/45857569/
+  - 'https://latinjazznet.com/reviews/albums/roy-mcgrath-menjunje/'
+  - 'https://www.chicagojazz.com/roymcgrath'
+  - 'https://www.chicagotakes10.org/artists/roy-mcgrath-trio'
+  - 'https://latinjazznet.com/artist-profiles/artist-profile-roy-mc-grath/'
+  - 'https://www.jazzinchicago.org/jazzgram/roy-mcgrath'
+  - 'https://surreal.live/en-us/entertainer/roy-mcgrath'
+  - 'https://www.allaboutjazz.com/musicians/roy-mcgrath/'
+  - >-
+    https://www.southbendtribune.com/story/entertainment/2015/04/05/mcgraths-jazz-a-melting-pot-of-traditions/45857569/
 network_extracted: true
 entry_created: '2025-12-16T03:12:16.487756'
 last_updated: '2025-12-23T08:16:15.136738'
+origin: 'Chicago, Illinois, United States'
+artist_type: person
 ---
 
 ![](roy_mcgrath_jazz_trio.jpg)

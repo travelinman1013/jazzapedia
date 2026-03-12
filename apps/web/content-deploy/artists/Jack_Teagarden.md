@@ -2,27 +2,27 @@
 title: Jack Teagarden
 wiki_slug: jack-teagarden
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1905-08-20'
-birth_place: Vernon, Texas, United States
+birth_place: 'Vernon, Texas, United States'
 death_date: '1964-01-15'
 genres:
-- big band
-- swing music
-- jazz
-- ragtime
+  - big band
+  - swing music
+  - jazz
+  - ragtime
 instruments:
-- lead vocals
-- trombone
-- eponymous
-- original
+  - lead vocals
+  - trombone
+  - eponymous
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Jack_Teagarden.jpg
   caption: Jack Teagarden
   background: solo_singer
   born: '1905-08-20'
-  origin: Vernon, Texas, United States
+  origin: 'Vernon, Texas, United States'
   died: '1964-01-15'
 audio_profile:
   tempo_avg: 112.8
@@ -39,48 +39,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Louis Armstrong
-  - Paul Whiteman
-  - Ben Pollack
-  - Bix Beiderbecke
-  - Benny Goodman
+    - Louis Armstrong
+    - Paul Whiteman
+    - Ben Pollack
+    - Bix Beiderbecke
+    - Benny Goodman
   influenced:
-  - Bob Brookmeyer
-  - Bill Watrous
-  - Chet Baker
+    - Bob Brookmeyer
+    - Bill Watrous
+    - Chet Baker
   mentors:
-  - Helen Teagarden
+    - Helen Teagarden
 spotify_data:
   followers: 21925
   id: 3okiREk3dV4F8BmK7cpEJf
   popularity: 29
-  url: https://open.spotify.com/artist/3okiREk3dV4F8BmK7cpEJf
+  url: 'https://open.spotify.com/artist/3okiREk3dV4F8BmK7cpEJf'
 discography_enriched: true
 top_tracks:
-- 'Meet Me Where They Play the Blues (Jack Teagarden: Jazz Great)'
-- Jeepers Creepers (Jeepers Creepers)
-- Jeepers Creepers
-- Jeepers Creepers (Hooray For Spinach)
-- Jeepers Creepers (42 Of His Best)
-- Afternoon In August (Mis'ry and the Blues)
-- 'When Your Lover Has Gone (Teagarden, Jack: Texas Tea Party (1933-1950))'
-- Jeepers Creepers (Live)
-- After You Gone
-- Basin Street Blues
+  - 'Meet Me Where They Play the Blues (Jack Teagarden: Jazz Great)'
+  - Jeepers Creepers (Jeepers Creepers)
+  - Jeepers Creepers
+  - Jeepers Creepers (Hooray For Spinach)
+  - Jeepers Creepers (42 Of His Best)
+  - Afternoon In August (Mis'ry and the Blues)
+  - 'When Your Lover Has Gone (Teagarden, Jack: Texas Tea Party (1933-1950))'
+  - Jeepers Creepers (Live)
+  - After You Gone
+  - Basin Street Blues
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/79dcf09e-2290-4740-9edc-907f82420160
-  spotify: https://open.spotify.com/artist/3okiREk3dV4F8BmK7cpEJf
-  wikipedia: https://en.wikipedia.org/wiki/Jack_Teagarden
+  musicbrainz: 'https://musicbrainz.org/artist/79dcf09e-2290-4740-9edc-907f82420160'
+  spotify: 'https://open.spotify.com/artist/3okiREk3dV4F8BmK7cpEJf'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jack_Teagarden'
 image_path: 03_Resources/source_material/ArtistPortraits/Jack_Teagarden.jpg
 biography_enhanced_at: '2025-10-19T11:30:55.886856'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jack_Teagarden
-- https://www.allaboutjazz.com/musicians/jack-teagarden/
-- https://www.tshaonline.org/handbook/entries/teagarden-weldon-leo-jack
-- http://jazzhotbigstep.com/34301.html
-- https://mus-col.com/en/events/37630/
+  - 'https://en.wikipedia.org/wiki/Jack_Teagarden'
+  - 'https://www.allaboutjazz.com/musicians/jack-teagarden/'
+  - 'https://www.tshaonline.org/handbook/entries/teagarden-weldon-leo-jack'
+  - 'http://jazzhotbigstep.com/34301.html'
+  - 'https://mus-col.com/en/events/37630/'
 network_extracted: true
 entry_created: '2025-10-19T11:30:55.886867'
 last_updated: '2025-12-23T08:16:02.408154'
@@ -88,9 +88,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:30:25.190678'
 musicbrainz_id: 79dcf09e-2290-4740-9edc-907f82420160
 tags:
-- dixieland
-- jazz
-- swing
+  - dixieland
+  - jazz
+  - swing
+is_active: false
 ---
 
 ![](Jack_Teagarden.jpg)

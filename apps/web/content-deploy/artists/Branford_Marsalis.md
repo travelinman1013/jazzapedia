@@ -2,23 +2,23 @@
 title: Branford Marsalis
 wiki_slug: branford-marsalis
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1960-08-26'
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- jazz
-- smooth soul
-- vocal jazz
+  - jazz
+  - smooth soul
+  - vocal jazz
 instruments:
-- eponymous
-- tenor saxophone
+  - eponymous
+  - tenor saxophone
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Branford_Marsalis.jpg
   caption: Branford Marsalis
   background: non_vocal_instrumentalist
   born: '1960-08-26'
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 99.9
   energy_avg: 0.369
@@ -26,7 +26,7 @@ audio_profile:
   danceability_avg: 0.473
   acousticness_avg: 0.649
   instrumentalness_avg: 0.425
-  loudness_avg: -14.0
+  loudness_avg: -14
   speechiness_avg: 0.071
   liveness_avg: 0.246
   track_count: 55
@@ -34,48 +34,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Wynton Marsalis
-  - Sting
-  - Branford Marsalis Quartet members (Jeff 'Tain' Watts, Joey Calderazzo, Eric Revis, Justin Faulkner)
-  - Buckshot LeFonque
+    - Wynton Marsalis
+    - Sting
+    - >-
+      Branford Marsalis Quartet members (Jeff 'Tain' Watts, Joey Calderazzo,
+      Eric Revis, Justin Faulkner)
+    - Buckshot LeFonque
   influenced:
-  - Miguel Zenón
-  - Claudia Acuña
-  - Younger jazz saxophonists
+    - Miguel Zenón
+    - Claudia Acuña
+    - Younger jazz saxophonists
   mentors:
-  - Ellis Marsalis
-  - Clark Terry
-  - Alvin Batiste
+    - Ellis Marsalis
+    - Clark Terry
+    - Alvin Batiste
 spotify_data:
   followers: 65345
   id: 1gPY6jETlC02stpXOUmSBH
   popularity: 36
-  url: https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH
+  url: 'https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH'
 discography_enriched: true
 top_tracks:
-- Transit Ride (Jazzmatazz Volume 1)
-- Englishman In New York - Live In Berlin/2010 (Live In Berlin)
-- Desert Rose - Live In Berlin/2010 (Live In Berlin)
-- Whenever I Say Your Name - Live In Berlin/2010 (Live In Berlin)
-- Emmanuel (Romances For Saxophone)
-- Mad About You - Live In Berlin/2010 (Live In Berlin)
-- 'Skit A (Interview) / Watch What You Say (Jazzmatazz Volume II: The New Reality)'
-- Djin Djin (Djin Djin)
-- Ma Rainey's Black Bottom (Ma Rainey's Black Bottom (Music from the Netflix Film))
-- Gloomy Sunday (Eternal)
+  - Transit Ride (Jazzmatazz Volume 1)
+  - Englishman In New York - Live In Berlin/2010 (Live In Berlin)
+  - Desert Rose - Live In Berlin/2010 (Live In Berlin)
+  - Whenever I Say Your Name - Live In Berlin/2010 (Live In Berlin)
+  - Emmanuel (Romances For Saxophone)
+  - Mad About You - Live In Berlin/2010 (Live In Berlin)
+  - >-
+    Skit A (Interview) / Watch What You Say (Jazzmatazz Volume II: The New
+    Reality)
+  - Djin Djin (Djin Djin)
+  - >-
+    Ma Rainey's Black Bottom (Ma Rainey's Black Bottom (Music from the Netflix
+    Film))
+  - Gloomy Sunday (Eternal)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/fd9cdeb8-5436-46a7-8e17-4ee900219246
-  spotify: https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH
-  wikipedia: https://en.wikipedia.org/wiki/Branford_Marsalis
+  musicbrainz: 'https://musicbrainz.org/artist/fd9cdeb8-5436-46a7-8e17-4ee900219246'
+  spotify: 'https://open.spotify.com/artist/1gPY6jETlC02stpXOUmSBH'
+  wikipedia: 'https://en.wikipedia.org/wiki/Branford_Marsalis'
 image_path: 03_Resources/source_material/ArtistPortraits/Branford_Marsalis.jpg
 biography_enhanced_at: '2025-10-19T11:44:42.432446'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.branfordmarsalis.com/bio/jazz
-- https://64parishes.org/entry/branford-marsalis
-- https://en.wikipedia.org/wiki/Branford_Marsalis
-- https://www.allaboutjazz.com/musicians/branford-marsalis/
+  - 'https://www.branfordmarsalis.com/bio/jazz'
+  - 'https://64parishes.org/entry/branford-marsalis'
+  - 'https://en.wikipedia.org/wiki/Branford_Marsalis'
+  - 'https://www.allaboutjazz.com/musicians/branford-marsalis/'
 network_extracted: true
 entry_created: '2025-10-19T11:44:42.432452'
 last_updated: '2025-12-23T08:16:01.340542'
@@ -84,9 +90,9 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:20:16.140668'
 musicbrainz_id: fd9cdeb8-5436-46a7-8e17-4ee900219246
 tags:
-- hard bop
-- jazz
-- jazz and blues
+  - hard bop
+  - jazz
+  - jazz and blues
 ---
 
 ![](Branford_Marsalis.jpg)

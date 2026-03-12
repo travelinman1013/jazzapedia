@@ -5,11 +5,11 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1929-10-14'
-birth_place: Chicago
+birth_place: 'Chicago, Illinois, United States'
 death_date: '2001-05-22'
 genres:
-- vocal jazz
-- jazz
+  - vocal jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lorez_alexandria.jpg
   caption: Lorez Alexandria
@@ -18,7 +18,7 @@ infobox:
   origin: Chicago
   died: '2001-05-22'
 audio_profile:
-  tempo_avg: 110.0
+  tempo_avg: 110
   energy_avg: 0.213
   valence_avg: 0.391
   danceability_avg: 0.558
@@ -32,58 +32,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Walter 'King' Fleming
-  - King Fleming Quartet
-  - Howard McGhee
-  - Gildo Mahones Quartet
-  - Mike Wofford Quartet
-  - Wynton Kelly, Paul Chambers
+    - Walter 'King' Fleming
+    - King Fleming Quartet
+    - Howard McGhee
+    - Gildo Mahones Quartet
+    - Mike Wofford Quartet
+    - 'Wynton Kelly, Paul Chambers'
   influenced:
-  - Contemporary jazz vocalists
+    - Contemporary jazz vocalists
   mentors:
-  - Gospel church choirs
+    - Gospel church choirs
 spotify_data:
   followers: 15628
   id: 5FxVAiCRSETyMMPV8MDaHY
   popularity: 43
-  url: https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY
+  url: 'https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY'
 discography_enriched: true
 top_tracks:
-- Give Me The Simple Life (Alexandria The Great)
-- I've Never Been In Love Before (Alexandria The Great)
-- Satin Doll (Alexandria The Great)
-- Over The Rainbow (Alexandria The Great)
-- I'm Through With Love (Alexandria The Great)
-- But Beautiful (More Of The Great)
-- The Best Is Yet To Come (Alexandria The Great)
-- Softly As In A Morning Sunrise (Deep Roots)
-- Nature Boy (Deep Roots)
-- My One And Only Love (Alexandria The Great)
+  - Give Me The Simple Life (Alexandria The Great)
+  - I've Never Been In Love Before (Alexandria The Great)
+  - Satin Doll (Alexandria The Great)
+  - Over The Rainbow (Alexandria The Great)
+  - I'm Through With Love (Alexandria The Great)
+  - But Beautiful (More Of The Great)
+  - The Best Is Yet To Come (Alexandria The Great)
+  - Softly As In A Morning Sunrise (Deep Roots)
+  - Nature Boy (Deep Roots)
+  - My One And Only Love (Alexandria The Great)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f93137ad-b9d6-492c-8f02-c1d15402c1d0
-  spotify: https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY
-  wikipedia: https://en.wikipedia.org/wiki/Lorez_Alexandria
+  musicbrainz: 'https://musicbrainz.org/artist/f93137ad-b9d6-492c-8f02-c1d15402c1d0'
+  spotify: 'https://open.spotify.com/artist/5FxVAiCRSETyMMPV8MDaHY'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lorez_Alexandria'
 image_path: 03_Resources/source_material/ArtistPortraits/lorez_alexandria.jpg
 biography_enhanced_at: '2025-11-26T07:57:09.620014'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Lorez_Alexandria
-- https://wbssmedia.com/artists/detail/1890
-- https://routes-mag.com/lorez-alexandria/
-- https://jazzjournal.co.uk/2019/08/15/lorez-alexandria-on-king-1957-1959/
-- https://www.ipm.org/show/afterglow/2021-02-22/the-underrated-lorez-alexandria-and-ethel-ennis
-- https://fromthevaults-boppinbob.blogspot.com/2017/08/lorez-alexandria-born-14-august-1929.html
-- https://www.freshsoundrecords.com/lorez-alexandria-albums/46957-on-king-1957-1959-plus-her-1954-1956-blue-lake-chess-recordings-2-cd.html
+  - 'https://en.wikipedia.org/wiki/Lorez_Alexandria'
+  - 'https://wbssmedia.com/artists/detail/1890'
+  - 'https://routes-mag.com/lorez-alexandria/'
+  - 'https://jazzjournal.co.uk/2019/08/15/lorez-alexandria-on-king-1957-1959/'
+  - >-
+    https://www.ipm.org/show/afterglow/2021-02-22/the-underrated-lorez-alexandria-and-ethel-ennis
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2017/08/lorez-alexandria-born-14-august-1929.html
+  - >-
+    https://www.freshsoundrecords.com/lorez-alexandria-albums/46957-on-king-1957-1959-plus-her-1954-1956-blue-lake-chess-recordings-2-cd.html
 network_extracted: true
 entry_created: '2025-11-26T07:57:09.620021'
 last_updated: '2025-12-23T08:16:12.118371'
 gender: Female
 musicbrainz_id: f93137ad-b9d6-492c-8f02-c1d15402c1d0
 tags:
-- 2008 universal fire victim
-- gospel
-- jazz
+  - 2008 universal fire victim
+  - gospel
+  - jazz
+is_active: false
 ---
 
 ![](lorez_alexandria.jpg)

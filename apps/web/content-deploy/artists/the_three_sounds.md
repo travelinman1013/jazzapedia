@@ -1,17 +1,17 @@
 ---
-title: the three sounds
+title: The Three Sounds
 wiki_slug: the-three-sounds
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
-birth_date: '1956'
+birth_date: '1933-09-01'
 genres:
-- hard bop
-- jazz
-- vocal jazz
-- soul jazz
+  - hard bop
+  - jazz
+  - vocal jazz
+  - soul jazz
 instruments:
-- piano
+  - piano
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_three_sounds.jpg
   caption: the three sounds
@@ -32,57 +32,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lester Young
-  - Sonny Stitt
-  - Nat Adderley
-  - Miles Davis
-  - Kenny Burrell
-  - Lou Donaldson
-  - Stanley Turrentine
-  - Ray Brown
+    - Lester Young
+    - Sonny Stitt
+    - Nat Adderley
+    - Miles Davis
+    - Kenny Burrell
+    - Lou Donaldson
+    - Stanley Turrentine
+    - Ray Brown
   influenced:
-  - Beastie Boys
+    - Beastie Boys
   mentors:
-  - Horace Silver
+    - Horace Silver
 spotify_data:
   followers: 10264
   id: 5wVeG4RM2VXsFwyylF8vXi
   popularity: 30
-  url: https://open.spotify.com/artist/5wVeG4RM2VXsFwyylF8vXi
+  url: 'https://open.spotify.com/artist/5wVeG4RM2VXsFwyylF8vXi'
 discography_enriched: true
 top_tracks:
-- Whisper Not (Anita O'Day And The Three Sounds)
-- '(Fly Me To The Moon) In Other Words (Verve Jazz Masters 49: Anita O’Day)'
-- Willow Weep For Me (Ballads)
-- When The World Was Young (Anita O'Day And The Three Sounds)
-- Jump Up (LD+3)
-- Repeat After Me (Soul Symphony (Reissue))
-- Popsicle Pimp (Soul Symphony (Reissue))
-- On Green Dolphin Street (Moods)
-- I'm Beginning To See The Light (Moods)
-- All Too Soon (Anita O'Day And The Three Sounds)
+  - Whisper Not (Anita O'Day And The Three Sounds)
+  - '(Fly Me To The Moon) In Other Words (Verve Jazz Masters 49: Anita O’Day)'
+  - Willow Weep For Me (Ballads)
+  - When The World Was Young (Anita O'Day And The Three Sounds)
+  - Jump Up (LD+3)
+  - Repeat After Me (Soul Symphony (Reissue))
+  - Popsicle Pimp (Soul Symphony (Reissue))
+  - On Green Dolphin Street (Moods)
+  - I'm Beginning To See The Light (Moods)
+  - All Too Soon (Anita O'Day And The Three Sounds)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/cf2115e9-fa60-4561-8b6e-f72d34ad800e
-  spotify: https://open.spotify.com/artist/5wVeG4RM2VXsFwyylF8vXi
+  musicbrainz: 'https://musicbrainz.org/artist/cf2115e9-fa60-4561-8b6e-f72d34ad800e'
+  spotify: 'https://open.spotify.com/artist/5wVeG4RM2VXsFwyylF8vXi'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/the_three_sounds.jpg
 biography_enhanced_at: '2025-10-20T09:32:50.470775'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.bluenote.com/artist/the-three-sounds/
-- https://jazzprofiles.blogspot.com/2014/10/the-three-sounds-from-archives.html
-- https://www.last.fm/music/The+Three+Sounds/+wiki
+  - 'https://www.bluenote.com/artist/the-three-sounds/'
+  - >-
+    https://jazzprofiles.blogspot.com/2014/10/the-three-sounds-from-archives.html
+  - 'https://www.last.fm/music/The+Three+Sounds/+wiki'
 network_extracted: true
 entry_created: '2025-10-20T09:32:50.470784'
 last_updated: '2025-12-23T08:16:17.224675'
 musicbrainz_enriched_at: '2025-10-21T09:56:25.513831'
 musicbrainz_id: cf2115e9-fa60-4561-8b6e-f72d34ad800e
-origin: Benton Harbor, Michigan, United States
+origin: 'Benton Harbor, Michigan, United States'
 tags:
-- hard bop
-- jazz
-- soul jazz
+  - hard bop
+  - jazz
+  - soul jazz
 ---
 
 ![](the_three_sounds.jpg)

@@ -1,5 +1,5 @@
 ---
-title: CAROLINA JOHN REES
+title: Carolina John Rees
 wiki_slug: carolina-john-rees
 schema_version: 2
 status: active
@@ -29,34 +29,37 @@ spotify_data:
   followers: 3
   id: 5Ws9alnsKBVnnqBxwnP1yr
   popularity: 0
-  url: https://open.spotify.com/artist/5Ws9alnsKBVnnqBxwnP1yr
+  url: 'https://open.spotify.com/artist/5Ws9alnsKBVnnqBxwnP1yr'
 discography_enriched: true
 top_tracks:
-- Shall We Gather (Shall We Gather)
-- Little Mountain Christmas Day (Little Mountain Christmas Day)
-- You've Been Drinking Whiskey and You Can't Come In (You've Been Drinking Whiskey and You Can't Come In)
-- When I Go Down Down Down (When I Go Down Down Down)
-- Took My Gal a Walking (Took My Gal a Walking)
-- Misbehavior (Misbehavior)
-- Lord Take Me Deeper In (Lord Take Me Deeper In)
-- Lord Take It All Away (Lord Take It All Away)
-- God Believes in You (God Believes in You)
-- Blue Jamaica Sky (Blue Jamaica Sky)
+  - Shall We Gather (Shall We Gather)
+  - Little Mountain Christmas Day (Little Mountain Christmas Day)
+  - >-
+    You've Been Drinking Whiskey and You Can't Come In (You've Been Drinking
+    Whiskey and You Can't Come In)
+  - When I Go Down Down Down (When I Go Down Down Down)
+  - Took My Gal a Walking (Took My Gal a Walking)
+  - Misbehavior (Misbehavior)
+  - Lord Take Me Deeper In (Lord Take Me Deeper In)
+  - Lord Take It All Away (Lord Take It All Away)
+  - God Believes in You (God Believes in You)
+  - Blue Jamaica Sky (Blue Jamaica Sky)
 external_urls:
-  spotify: https://open.spotify.com/artist/5Ws9alnsKBVnnqBxwnP1yr
+  spotify: 'https://open.spotify.com/artist/5Ws9alnsKBVnnqBxwnP1yr'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/carolina_john_rees.jpg
 biography_enhanced_at: '2025-12-15T01:21:51.796539'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://open.spotify.com/playlist/37i9dQZF1E4vPMmwXggDLt
-- https://en.wikipedia.org/wiki/John_Rees_(musician)
-- https://biography.wales/article/s2-REES-THO-1857
-- https://colinhay-menatwork.fandom.com/wiki/John_Rees
+  - 'https://open.spotify.com/playlist/37i9dQZF1E4vPMmwXggDLt'
+  - 'https://en.wikipedia.org/wiki/John_Rees_(musician)'
+  - 'https://biography.wales/article/s2-REES-THO-1857'
+  - 'https://colinhay-menatwork.fandom.com/wiki/John_Rees'
 network_extracted: true
 entry_created: '2025-12-15T01:21:51.796551'
 last_updated: '2025-12-23T08:16:06.502764'
+artist_type: person
 ---
 
 ![](carolina_john_rees.jpg)

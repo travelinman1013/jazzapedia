@@ -1,40 +1,47 @@
 ---
 biography_enhanced_at: '2026-01-10T01:11:36.716519'
-birth_place: Mobile, Alabama, United States (birthplace); Chicago, Illinois, United
-  States (musical origin)
+birth_place: >-
+  Mobile, Alabama, United States (birthplace); Chicago, Illinois, United States
+  (musical origin)
 enhancement_provider: perplexity
 entry_created: '2026-01-10T01:11:36.716525'
 external_urls:
-  spotify: https://open.spotify.com/artist/3bXENrjc1Lb0VMAdsKoqOs
-  wikipedia: https://en.wikipedia.org/wiki/Jody_Williams_(blues_musician)
+  spotify: 'https://open.spotify.com/artist/3bXENrjc1Lb0VMAdsKoqOs'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jody_Williams_(blues_musician)'
 genres: []
 image_path: ''
 last_updated: '2026-01-10T01:11:36.716525'
 musical_connections:
   collaborators:
-  - Al Benson / Blue Lake Records
-  - Bo Diddley
-  - Big Three Trio / Chicago session circles
+    - Al Benson / Blue Lake Records
+    - Bo Diddley
+    - Big Three Trio / Chicago session circles
   influenced:
-  - Later Chicago and British blues guitarists (e.g., Mike Bloomfield and peers)
+    - >-
+      Later Chicago and British blues guitarists (e.g., Mike Bloomfield and
+      peers)
   mentors:
-  - Bo Diddley
-  - The Chicago electric blues scene (Muddy Waters, Howlin’ Wolf, et al.)
+    - Bo Diddley
+    - 'The Chicago electric blues scene (Muddy Waters, Howlin’ Wolf, et al.)'
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.musicianguide.com/biographies/1608004332/Jody-Williams.html
-- https://kids.kiddle.co/Jody_Williams_(blues_musician)
-- https://en.wikipedia.org/wiki/Jody_Williams_(blues_musician)
-- https://www.allmusic.com/artist/little-papa-joe-mn0001566268
-- https://www.youtube.com/watch?v=xiUmZMancTs
+  - 'https://www.musicianguide.com/biographies/1608004332/Jody-Williams.html'
+  - 'https://kids.kiddle.co/Jody_Williams_(blues_musician)'
+  - 'https://en.wikipedia.org/wiki/Jody_Williams_(blues_musician)'
+  - 'https://www.allmusic.com/artist/little-papa-joe-mn0001566268'
+  - 'https://www.youtube.com/watch?v=xiUmZMancTs'
 spotify_data:
   followers: 19
   id: 3bXENrjc1Lb0VMAdsKoqOs
   popularity: 0
-  url: https://open.spotify.com/artist/3bXENrjc1Lb0VMAdsKoqOs
+  url: 'https://open.spotify.com/artist/3bXENrjc1Lb0VMAdsKoqOs'
 status: active
 title: Little Papa Joe
+origin: 'Chicago, Illinois, United States'
+birth_date: '1935-02-03'
+death_date: '2018-12-01'
+artist_type: person
 ---
 
 ![]()

@@ -2,7 +2,7 @@
 title: FIELDWORK
 wiki_slug: fieldwork
 schema_version: 2
-artist_type: Group
+artist_type: person
 status: active
 genres: []
 infobox:
@@ -20,48 +20,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Vijay Iyer
-  - Steve Lehman
-  - Tyshawn Sorey
-  - Aaron Stewart
-  - Elliot Humberto Kavee
+    - Vijay Iyer
+    - Steve Lehman
+    - Tyshawn Sorey
+    - Aaron Stewart
+    - Elliot Humberto Kavee
   influenced:
-  - Contemporary jazz improvisers and composers
+    - Contemporary jazz improvisers and composers
   mentors:
-  - Muhal Richard Abrams
-  - Anthony Braxton
-  - Henry Threadgill
+    - Muhal Richard Abrams
+    - Anthony Braxton
+    - Henry Threadgill
 spotify_data:
   followers: 8
   id: 5cyUKFyK8oP7DiatRcfN0m
   popularity: 6
-  url: https://open.spotify.com/artist/5cyUKFyK8oP7DiatRcfN0m
+  url: 'https://open.spotify.com/artist/5cyUKFyK8oP7DiatRcfN0m'
 discography_enriched: true
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/bd5f4c12-80eb-4d6d-b5d5-606315c2a229
-  spotify: https://open.spotify.com/artist/5cyUKFyK8oP7DiatRcfN0m
-  wikipedia: https://en.wikipedia.org/wiki/Door_(Fieldwork_album)
+  musicbrainz: 'https://musicbrainz.org/artist/bd5f4c12-80eb-4d6d-b5d5-606315c2a229'
+  spotify: 'https://open.spotify.com/artist/5cyUKFyK8oP7DiatRcfN0m'
+  wikipedia: 'https://en.wikipedia.org/wiki/Door_(Fieldwork_album)'
 image_path: 03_Resources/source_material/ArtistPortraits/FIELDWORK.jpg
 biography_enhanced_at: '2025-10-20T10:03:21.152658'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://vijay-iyer.com/fieldwork/
-- https://en.wikipedia.org/wiki/Door_(Fieldwork_album)
-- https://en.wikipedia.org/wiki/Your_Life_Flashes
-- https://jazztimes.com/archives/fieldwork-your-life-flashes/
-- https://www.popmatters.com/fieldwork-door-2496140320.html
-- https://www.jazzmusicarchives.com/artist/fieldwork-vijay-iyer-steve-lehman-tyshawn-sorey
+  - 'https://vijay-iyer.com/fieldwork/'
+  - 'https://en.wikipedia.org/wiki/Door_(Fieldwork_album)'
+  - 'https://en.wikipedia.org/wiki/Your_Life_Flashes'
+  - 'https://jazztimes.com/archives/fieldwork-your-life-flashes/'
+  - 'https://www.popmatters.com/fieldwork-door-2496140320.html'
+  - >-
+    https://www.jazzmusicarchives.com/artist/fieldwork-vijay-iyer-steve-lehman-tyshawn-sorey
 network_extracted: true
 entry_created: '2025-10-20T10:03:21.152678'
 last_updated: '2025-12-23T08:16:01.967126'
 disambiguation: jazz
 musicbrainz_enriched_at: '2025-10-21T09:26:07.122701'
 musicbrainz_id: bd5f4c12-80eb-4d6d-b5d5-606315c2a229
-origin: New York City, New York, USA
+origin: 'New York City, New York, USA'
 tags:
-- avant-garde jazz
-- jazz and blues
+  - avant-garde jazz
+  - jazz and blues
 ---
 
 ![](FIELDWORK.jpg)

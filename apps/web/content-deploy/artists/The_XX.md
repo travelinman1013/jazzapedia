@@ -23,52 +23,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Romy Madley Croft
-  - Oliver Sim
-  - Jamie Smith (Jamie xx)
-  - Baria Qureshi
-  - Rodaidh McDonald
+    - Romy Madley Croft
+    - Oliver Sim
+    - Jamie Smith (Jamie xx)
+    - Baria Qureshi
+    - Rodaidh McDonald
   influenced:
-  - Banks
-  - London Grammar
-  - James Blake
-  - alt-J
-  - Rihanna & Drake
-  - Lorde
+    - Banks
+    - London Grammar
+    - James Blake
+    - alt-J
+    - Rihanna & Drake
+    - Lorde
   mentors:
-  - Elliott School (Putney, London)
+    - 'Elliott School (Putney, London)'
 spotify_data:
   followers: 3785044
   id: 3iOvXCl6edW5Um0fXEBRXy
   popularity: 63
-  url: https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy
+  url: 'https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy'
 discography_enriched: true
 top_tracks:
-- Intro (xx)
-- Crystalised (xx)
-- Intro (xx)
-- Islands (xx)
-- Angels (Coexist)
-- On Hold (I See You)
-- I Dare You (I See You)
-- Crystalised (xx)
-- Waited All Night (In Waves)
-- You've Got The Love - Jamie xx Rework
+  - Intro (xx)
+  - Crystalised (xx)
+  - Intro (xx)
+  - Islands (xx)
+  - Angels (Coexist)
+  - On Hold (I See You)
+  - I Dare You (I See You)
+  - Crystalised (xx)
+  - Waited All Night (In Waves)
+  - You've Got The Love - Jamie xx Rework
 external_urls:
-  spotify: https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy
-  wikipedia: https://en.wikipedia.org/wiki/The_xx
+  spotify: 'https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_xx'
 image_path: 03_Resources/source_material/ArtistPortraits/The_XX.jpg
 biography_enhanced_at: '2025-10-20T09:45:41.425459'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://studybreaks.com/culture/sounds/what-happened-to-the-xx/
-- https://www.last.fm/music/The+xx/+wiki
-- https://shante.substack.com/p/the-xx
+  - 'https://studybreaks.com/culture/sounds/what-happened-to-the-xx/'
+  - 'https://www.last.fm/music/The+xx/+wiki'
+  - 'https://shante.substack.com/p/the-xx'
 network_extracted: true
 entry_created: '2025-10-20T09:45:41.425476'
 last_updated: '2025-12-23T08:16:04.144983'
-origin: Wandsworth, London, England, United Kingdom
+origin: 'Wandsworth, London, England, United Kingdom'
+artist_type: band
 ---
 
 ![](The_XX.jpg)

@@ -1,61 +1,61 @@
 ---
-title: amina claudine myers
+title: Amina Claudine Myers
 wiki_slug: amina-claudine-myers
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1942-03-21'
-birth_place: Conway County
+birth_place: 'Conway County, Arkansas, United States'
 genres:
-- free jazz
-- jazz
-- vocal jazz
+  - free jazz
+  - jazz
+  - vocal jazz
 instruments:
-- organ
-- lead vocals
-- piano
-- electric piano
-- other vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3ccb62ab-4615-4560-9a5c-f0c9e2cd643a
-  name: Amina Claudine Myers Trio
-- begin: ''
-  end: ''
-  instruments:
   - organ
-  mbid: 10a420a9-a424-455f-b8d8-4e63d4b66bb1
-  name: Lester Bowie’s New York Organ Ensemble
-- begin: ''
-  end: ''
-  instruments:
   - lead vocals
-  mbid: 10a420a9-a424-455f-b8d8-4e63d4b66bb1
-  name: Lester Bowie’s New York Organ Ensemble
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f64a02ff-6ccf-4893-a840-a714cffc612f
-  name: Association for the Advancement of Creative Musicians
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 815d3e7e-e0dc-4647-b345-159d81b74fd7
-  name: Third Rail
-- begin: ''
-  end: ''
-  instruments:
   - piano
-  mbid: 5214982b-0151-484d-b08f-06d52d22cf92
-  name: Charlie Haden’s Liberation Music Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: 55278ea9-2881-4f8d-a662-524131bed817
-  name: Frank Lowe Quintet
+  - electric piano
+  - other vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3ccb62ab-4615-4560-9a5c-f0c9e2cd643a
+    name: Amina Claudine Myers Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - organ
+    mbid: 10a420a9-a424-455f-b8d8-4e63d4b66bb1
+    name: Lester Bowie’s New York Organ Ensemble
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: 10a420a9-a424-455f-b8d8-4e63d4b66bb1
+    name: Lester Bowie’s New York Organ Ensemble
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f64a02ff-6ccf-4893-a840-a714cffc612f
+    name: Association for the Advancement of Creative Musicians
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 815d3e7e-e0dc-4647-b345-159d81b74fd7
+    name: Third Rail
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: 5214982b-0151-484d-b08f-06d52d22cf92
+    name: Charlie Haden’s Liberation Music Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: 55278ea9-2881-4f8d-a662-524131bed817
+    name: Frank Lowe Quintet
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/amina_claudine_myers.jpg
   caption: amina claudine myers
@@ -77,55 +77,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lester Bowie
-  - Ajaramu (Jerold Donovan)
-  - Archie Shepp
-  - Charlie Haden
-  - Cecilia Smith
-  - Sola Liu
+    - Lester Bowie
+    - Ajaramu (Jerold Donovan)
+    - Archie Shepp
+    - Charlie Haden
+    - Cecilia Smith
+    - Sola Liu
   influenced:
-  - Younger AACM and creative music pianists and organists (e.g., later Chicago and New York avant‑garde keyboardists)
+    - >-
+      Younger AACM and creative music pianists and organists (e.g., later
+      Chicago and New York avant‑garde keyboardists)
   mentors:
-  - Muhal Richard Abrams
+    - Muhal Richard Abrams
 spotify_data:
   followers: 3483
   id: 08fqwi7bbVOEQW4L6wbsv3
   popularity: 24
-  url: https://open.spotify.com/artist/08fqwi7bbVOEQW4L6wbsv3
+  url: 'https://open.spotify.com/artist/08fqwi7bbVOEQW4L6wbsv3'
 discography_enriched: true
 top_tracks:
-- Dirty No-Gooder's Blues (Salutes Bessie Smith)
-- African Blues (African Blues)
-- Steal Away (Solace of the Mind)
-- Ode to my Ancestors (Solace of the Mind)
-- Twilight (Solace of the Mind)
-- Voices (Solace of the Mind)
-- Hymn for John Lee Hooker (Solace of the Mind)
-- Conservatory Gardens (Central Park‘s Mosaics of Reservoir, Lake, Paths and Gardens)
-- Central Park at Sunset (Central Park‘s Mosaics of Reservoir, Lake, Paths and Gardens)
-- African Blues (Solace of the Mind)
+  - Dirty No-Gooder's Blues (Salutes Bessie Smith)
+  - African Blues (African Blues)
+  - Steal Away (Solace of the Mind)
+  - Ode to my Ancestors (Solace of the Mind)
+  - Twilight (Solace of the Mind)
+  - Voices (Solace of the Mind)
+  - Hymn for John Lee Hooker (Solace of the Mind)
+  - >-
+    Conservatory Gardens (Central Park‘s Mosaics of Reservoir, Lake, Paths and
+    Gardens)
+  - >-
+    Central Park at Sunset (Central Park‘s Mosaics of Reservoir, Lake, Paths and
+    Gardens)
+  - African Blues (Solace of the Mind)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/545c7067-b939-44f8-b0b7-cc52093d80a4
-  spotify: https://open.spotify.com/artist/08fqwi7bbVOEQW4L6wbsv3
-  wikipedia: https://en.wikipedia.org/wiki/Amina_Claudine_Myers
+  musicbrainz: 'https://musicbrainz.org/artist/545c7067-b939-44f8-b0b7-cc52093d80a4'
+  spotify: 'https://open.spotify.com/artist/08fqwi7bbVOEQW4L6wbsv3'
+  wikipedia: 'https://en.wikipedia.org/wiki/Amina_Claudine_Myers'
 image_path: 03_Resources/source_material/ArtistPortraits/amina_claudine_myers.jpg
 biography_enhanced_at: '2025-12-17T02:28:13.661965'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Arkansas Black Hall of Fame – Amina Claudine Myers profile[1]
-- Mid Atlantic Arts Foundation – 2021 Living Legacy Awardee profile[2]
-- Wikipedia – Amina Claudine Myers[4]
-- Official/archival bios and concert notes (aminaclaudinemyers.com; Roulette, Cafe OTO, Counterflows, Company of Heaven)[3][5][6][8][9]
+  - 'Arkansas Black Hall of Fame – Amina Claudine Myers profile[1]'
+  - 'Mid Atlantic Arts Foundation – 2021 Living Legacy Awardee profile[2]'
+  - 'Wikipedia – Amina Claudine Myers[4]'
+  - >-
+    Official/archival bios and concert notes (aminaclaudinemyers.com; Roulette,
+    Cafe OTO, Counterflows, Company of Heaven)[3][5][6][8][9]
 network_extracted: true
 entry_created: '2025-12-17T02:28:13.661983'
 last_updated: '2025-12-23T08:16:04.706206'
-disambiguation: pianist, organist, vocalist, composer, improviser
+disambiguation: 'pianist, organist, vocalist, composer, improviser'
 gender: Female
 musicbrainz_id: 545c7067-b939-44f8-b0b7-cc52093d80a4
 tags:
-- avant-garde jazz
-- jazz
+  - avant-garde jazz
+  - jazz
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](amina_claudine_myers.jpg)

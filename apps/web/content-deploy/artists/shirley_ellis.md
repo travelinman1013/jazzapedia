@@ -1,38 +1,43 @@
 ---
 biography_enhanced_at: '2026-01-02T01:23:59.439012'
-birth_place: The Bronx, New York, United States
+birth_place: 'The Bronx, New York, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-02T01:23:59.439016'
 external_urls:
-  spotify: https://open.spotify.com/artist/4GO3ufZJ7YsEnQ3PiML2Dg
+  spotify: 'https://open.spotify.com/artist/4GO3ufZJ7YsEnQ3PiML2Dg'
   wikipedia: Not found in search results
 genres:
-- northern soul
+  - northern soul
 image_path: 03_Resources/source_material/ArtistPortraits/shirley_ellis.jpg
 last_updated: '2026-01-02T01:23:59.439017'
 musical_connections:
   collaborators:
-  - Charles Calello
-  - Hutch Davie
-  - The Chords
+    - Charles Calello
+    - Hutch Davie
+    - The Chords
   influenced: []
   mentors:
-  - Lincoln Chase
+    - Lincoln Chase
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://bertoltpress.com/2021/04/07/the-rhythm-of-shirley-ellis-the-name-game/
-- https://fromthevaults-boppinbob.blogspot.com/2021/01/shirley-ellis-born-19-january-1929.html
-- https://thebluemoment.com/2018/05/01/shirley-ellis-and-the-nitty-gritty/
-- https://oidodelmundo.wordpress.com/2014/04/23/shirley-ellis/
-- https://www.toppermost.co.uk/ellis-shirley/
+  - >-
+    https://bertoltpress.com/2021/04/07/the-rhythm-of-shirley-ellis-the-name-game/
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2021/01/shirley-ellis-born-19-january-1929.html
+  - 'https://thebluemoment.com/2018/05/01/shirley-ellis-and-the-nitty-gritty/'
+  - 'https://oidodelmundo.wordpress.com/2014/04/23/shirley-ellis/'
+  - 'https://www.toppermost.co.uk/ellis-shirley/'
 spotify_data:
   followers: 15344
   id: 4GO3ufZJ7YsEnQ3PiML2Dg
   popularity: 35
-  url: https://open.spotify.com/artist/4GO3ufZJ7YsEnQ3PiML2Dg
+  url: 'https://open.spotify.com/artist/4GO3ufZJ7YsEnQ3PiML2Dg'
 status: active
-title: shirley ellis
+title: Shirley Ellis
+birth_date: '1929-01-19'
+death_date: '2005-10-05'
+artist_type: person
 ---
 
 ![](shirley_ellis.jpg)

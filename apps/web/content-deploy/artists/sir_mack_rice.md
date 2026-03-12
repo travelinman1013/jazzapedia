@@ -1,21 +1,21 @@
 ---
-title: SIR MACK RICE
+title: Sir Mack Rice
 wiki_slug: sir-mack-rice
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1933-11-10'
-birth_place: Clarksdale
+birth_place: 'Clarksdale, Mississippi, United States'
 death_date: '2016-06-27'
 genres:
-- classic soul
-- northern soul
+  - classic soul
+  - northern soul
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5ce892a5-e8dd-4042-bdb0-7c61d2593c1b
-  name: The Dixie Nightingales
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5ce892a5-e8dd-4042-bdb0-7c61d2593c1b
+    name: The Dixie Nightingales
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sir_mack_rice.jpg
   caption: SIR MACK RICE
@@ -24,7 +24,7 @@ infobox:
   origin: Clarksdale
   died: '2016-06-27'
 audio_profile:
-  tempo_avg: 115.0
+  tempo_avg: 115
   energy_avg: 0.598
   valence_avg: 0.848
   danceability_avg: 0.787
@@ -38,51 +38,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Wilson Pickett
-  - Eddie Floyd
-  - Luther Ingram
-  - Joe Stubbs
+    - Wilson Pickett
+    - Eddie Floyd
+    - Luther Ingram
+    - Joe Stubbs
   influenced:
-  - The Staple Singers
-  - Wilson Pickett
-  - Countless soul, R&B, and rock artists
+    - The Staple Singers
+    - Wilson Pickett
+    - 'Countless soul, R&B, and rock artists'
   mentors:
-  - Detroit R&B Scene
+    - Detroit R&B Scene
 spotify_data:
   followers: 1648
   id: 5ZAdhQ0HJFv85oFNgrkCpi
   popularity: 7
-  url: https://open.spotify.com/artist/5ZAdhQ0HJFv85oFNgrkCpi
+  url: 'https://open.spotify.com/artist/5ZAdhQ0HJFv85oFNgrkCpi'
 discography_enriched: true
 top_tracks:
-- Mini-Skirt Minnie (Mini-Skirt Minnie)
-- 'Bump Meat (The Complete Stax / Volt Soul Singles, Vol. 3: 1972-1975)'
-- 'Mini-Skirt Minnie (Stax-Volt: The Complete Singles 1959-1968)'
-- Mustang Sally (Mustang Sally)
-- 'Love Sickness (Stax-Volt: The Complete Singles 1959-1968)'
-- Mini-Skirt Minnie (Soul Classics)
-- Mustang Sally (Right Now)
-- 'Mini-Skirt Minnie (Stax-Volt: The Complete Singles 1959-1968)'
-- 'Love Sickness (Stax-Volt: The Complete Singles 1959-1968)'
-- 'Gotta Have My Baby''s Love (Rare Soul: Groove & Grind 1963-1973)'
+  - Mini-Skirt Minnie (Mini-Skirt Minnie)
+  - 'Bump Meat (The Complete Stax / Volt Soul Singles, Vol. 3: 1972-1975)'
+  - 'Mini-Skirt Minnie (Stax-Volt: The Complete Singles 1959-1968)'
+  - Mustang Sally (Mustang Sally)
+  - 'Love Sickness (Stax-Volt: The Complete Singles 1959-1968)'
+  - Mini-Skirt Minnie (Soul Classics)
+  - Mustang Sally (Right Now)
+  - 'Mini-Skirt Minnie (Stax-Volt: The Complete Singles 1959-1968)'
+  - 'Love Sickness (Stax-Volt: The Complete Singles 1959-1968)'
+  - 'Gotta Have My Baby''s Love (Rare Soul: Groove & Grind 1963-1973)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b2ed3e60-bdd8-4e49-9f79-66a36411729d
-  spotify: https://open.spotify.com/artist/5ZAdhQ0HJFv85oFNgrkCpi
-  wikipedia: https://en.wikipedia.org/wiki/Mack_Rice
+  musicbrainz: 'https://musicbrainz.org/artist/b2ed3e60-bdd8-4e49-9f79-66a36411729d'
+  spotify: 'https://open.spotify.com/artist/5ZAdhQ0HJFv85oFNgrkCpi'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mack_Rice'
 image_path: 03_Resources/source_material/ArtistPortraits/sir_mack_rice.jpg
 biography_enhanced_at: '2025-11-11T09:24:10.440117'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Mack_Rice
-- https://www.freep.com/story/entertainment/music/2016/06/28/detroits-sir-mack-rice-mustang-sally-writer-dead-82/86456840/
-- https://www.ponderosastomp.com/music_more/267/Sir+Mack+Rice
-- http://www.soulwalking.co.uk/Mack%20Rice.html
+  - 'https://en.wikipedia.org/wiki/Mack_Rice'
+  - >-
+    https://www.freep.com/story/entertainment/music/2016/06/28/detroits-sir-mack-rice-mustang-sally-writer-dead-82/86456840/
+  - 'https://www.ponderosastomp.com/music_more/267/Sir+Mack+Rice'
+  - 'http://www.soulwalking.co.uk/Mack%20Rice.html'
 network_extracted: true
 entry_created: '2025-11-11T09:24:10.440120'
 last_updated: '2025-12-23T08:16:15.681426'
 gender: Male
 musicbrainz_id: b2ed3e60-bdd8-4e49-9f79-66a36411729d
+is_active: false
+origin: 'Detroit, Michigan, United States'
 ---
 
 ![](sir_mack_rice.jpg)

@@ -1,17 +1,17 @@
 ---
-title: Ozone
+title: O-Zone
 wiki_slug: ozone
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1977'
 genres:
-- europop
-- eurodance
+  - europop
+  - eurodance
 instruments:
-- trumpet
-- saxophone
-- background vocals
+  - trumpet
+  - saxophone
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ozone.jpg
   caption: Ozone
@@ -32,77 +32,81 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Radu Sîrbu
-  - Arsenie Todiraș
-  - Petru Jelihovschi
+    - Radu Sîrbu
+    - Arsenie Todiraș
+    - Petru Jelihovschi
   influenced:
-  - Haiducii
-  - Gary Brolsma
-  - T.I. (feat. Rihanna)
+    - Haiducii
+    - Gary Brolsma
+    - T.I. (feat. Rihanna)
   mentors:
-  - Dan Balan
+    - Dan Balan
 spotify_data:
   followers: 170000
   id: 5M5PjPSiKeXynM6Ohu350r
   popularity: 55
-  url: https://open.spotify.com/artist/5M5PjPSiKeXynM6Ohu350r
+  url: 'https://open.spotify.com/artist/5M5PjPSiKeXynM6Ohu350r'
 discography_enriched: true
 top_tracks:
-- Dragostea din tei (DiscO-Zone)
-- Dragostea Din Tei (W&W Remix) (Dragostea Din Tei (W&W Remix))
-- Dragostea Din Tei - Original Romanian Version (DiscO-Zone)
-- Dragostea Din Tei - Original Romanian Version (Dragostea Din Tei)
-- Despre tine (Number 1 (reedit))
-- Dragostea Din Tei - Original Italian Version (Dragostea Din Tei)
-- Dragostea Din Tei - Dj Aligator Vs CS-Jay Radio Edit (Dragostea din tei (Remixes))
-- Dragostea Din Tei - W&W Remix
-- Dragostea Din Tei - Dj Ross Radio Remix (Dragostea din tei (Remixes))
-- Dragostea Din Tei - Original Italian Version (Ma Ya Hi (Dragostea Din Tei) [English Mixes])
+  - Dragostea din tei (DiscO-Zone)
+  - Dragostea Din Tei (W&W Remix) (Dragostea Din Tei (W&W Remix))
+  - Dragostea Din Tei - Original Romanian Version (DiscO-Zone)
+  - Dragostea Din Tei - Original Romanian Version (Dragostea Din Tei)
+  - Despre tine (Number 1 (reedit))
+  - Dragostea Din Tei - Original Italian Version (Dragostea Din Tei)
+  - >-
+    Dragostea Din Tei - Dj Aligator Vs CS-Jay Radio Edit (Dragostea din tei
+    (Remixes))
+  - Dragostea Din Tei - W&W Remix
+  - Dragostea Din Tei - Dj Ross Radio Remix (Dragostea din tei (Remixes))
+  - >-
+    Dragostea Din Tei - Original Italian Version (Ma Ya Hi (Dragostea Din Tei)
+    [English Mixes])
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9c2f2a02-33b4-4ac0-8c01-c7d6d19d9eef
-  spotify: https://open.spotify.com/artist/5M5PjPSiKeXynM6Ohu350r
-  wikipedia: https://en.wikipedia.org/wiki/O-Zone
+  musicbrainz: 'https://musicbrainz.org/artist/9c2f2a02-33b4-4ac0-8c01-c7d6d19d9eef'
+  spotify: 'https://open.spotify.com/artist/5M5PjPSiKeXynM6Ohu350r'
+  wikipedia: 'https://en.wikipedia.org/wiki/O-Zone'
 image_path: 03_Resources/source_material/ArtistPortraits/ozone.jpg
 biography_enhanced_at: '2025-11-02T07:37:12.069600'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/O-Zone
-- https://www.last.fm/music/O-Zone/+wiki
-- https://en.wikipedia.org/wiki/Radu_S%C3%AErbu
+  - 'https://en.wikipedia.org/wiki/O-Zone'
+  - 'https://www.last.fm/music/O-Zone/+wiki'
+  - 'https://en.wikipedia.org/wiki/Radu_S%C3%AErbu'
 network_extracted: true
 entry_created: '2025-11-02T07:37:12.069617'
 last_updated: '2025-12-23T08:16:13.900736'
 disambiguation: early 80s US funk band
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: e470afc0-f70a-4beb-8ea6-75b1c7e77fef
-  name: Thomas “T″ Bumpass
-- begin: ''
-  end: ''
-  instruments:
-  - saxophone
-  mbid: 66abff3f-5229-45d3-87de-faae1d130ce2
-  name: Ray C. Woodard
-- begin: ''
-  end: ''
-  instruments:
-  - background vocals
-  mbid: 551113cd-3ea8-4c1f-8060-c1e27b974a11
-  name: William Carroll White, Jr.
-- begin: ''
-  end: ''
-  instruments:
-  - saxophone
-  mbid: 551113cd-3ea8-4c1f-8060-c1e27b974a11
-  name: William Carroll White, Jr.
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: e470afc0-f70a-4beb-8ea6-75b1c7e77fef
+    name: Thomas “T″ Bumpass
+  - begin: ''
+    end: ''
+    instruments:
+      - saxophone
+    mbid: 66abff3f-5229-45d3-87de-faae1d130ce2
+    name: Ray C. Woodard
+  - begin: ''
+    end: ''
+    instruments:
+      - background vocals
+    mbid: 551113cd-3ea8-4c1f-8060-c1e27b974a11
+    name: 'William Carroll White, Jr.'
+  - begin: ''
+    end: ''
+    instruments:
+      - saxophone
+    mbid: 551113cd-3ea8-4c1f-8060-c1e27b974a11
+    name: 'William Carroll White, Jr.'
 musicbrainz_id: 9c2f2a02-33b4-4ac0-8c01-c7d6d19d9eef
-origin: Nashville
+origin: 'Nashville, Tennessee, United States'
 tags:
-- funk
+  - funk
 ---
 
 ![](ozone.jpg)

@@ -1,20 +1,20 @@
 ---
-title: bukka white
+title: Bukka White
 wiki_slug: bukka-white
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1909-11-12'
-birth_place: Houston
+birth_place: 'Houston, Mississippi, United States'
 death_date: '1977-02-26'
 genres:
-- blues
-- country blues
-- classic blues
+  - blues
+  - country blues
+  - classic blues
 instruments:
-- guitar
-- lead vocals
-- spoken vocals
+  - guitar
+  - lead vocals
+  - spoken vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bukka_white.jpg
   caption: bukka white
@@ -37,56 +37,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Frank Stokes
-  - Memphis Willie B. (Willie Borum)
-  - Furry Lewis
-  - Peetie Wheatstraw
+    - Frank Stokes
+    - Memphis Willie B. (Willie Borum)
+    - Furry Lewis
+    - Peetie Wheatstraw
   influenced:
-  - B.B. King
-  - Bob Dylan
-  - John Fahey
+    - B.B. King
+    - Bob Dylan
+    - John Fahey
   mentors:
-  - John White
-  - Local Mississippi musicians
+    - John White
+    - Local Mississippi musicians
 spotify_data:
   followers: 46007
   id: 2gSskdDhLQCx3CQd6XKDhp
   popularity: 26
-  url: https://open.spotify.com/artist/2gSskdDhLQCx3CQd6XKDhp
+  url: 'https://open.spotify.com/artist/2gSskdDhLQCx3CQd6XKDhp'
 discography_enriched: true
 top_tracks:
-- Fixin' to Die Blues (Parchman Farm)
-- Parchman Farm Blues (The Vintage Recordings 1930 - 1940 "Aberdeeen Mississippi Blues")
-- Bukka Jitterburg Swing (High Fever)
-- Aberdeen Mississippi Blues (Parchman Farm)
-- Shake 'Em on Down (Version 2) (Bukka White Blues)
-- Poor Boy Long Ways From Home (The Sonet Blues Story)
-- Fixin' to die blues (Missipi blues giant)
-- Parchman Farm Blues (Parchman Farm)
-- High Fever Blues (Parchman Farm)
-- Bukka's Jitterbug Swing (Parchman Farm)
+  - Fixin' to Die Blues (Parchman Farm)
+  - >-
+    Parchman Farm Blues (The Vintage Recordings 1930 - 1940 "Aberdeeen
+    Mississippi Blues")
+  - Bukka Jitterburg Swing (High Fever)
+  - Aberdeen Mississippi Blues (Parchman Farm)
+  - Shake 'Em on Down (Version 2) (Bukka White Blues)
+  - Poor Boy Long Ways From Home (The Sonet Blues Story)
+  - Fixin' to die blues (Missipi blues giant)
+  - Parchman Farm Blues (Parchman Farm)
+  - High Fever Blues (Parchman Farm)
+  - Bukka's Jitterbug Swing (Parchman Farm)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/882af819-887e-4691-a4af-b14613058942
-  spotify: https://open.spotify.com/artist/2gSskdDhLQCx3CQd6XKDhp
-  wikipedia: https://en.wikipedia.org/wiki/Bukka_White
+  musicbrainz: 'https://musicbrainz.org/artist/882af819-887e-4691-a4af-b14613058942'
+  spotify: 'https://open.spotify.com/artist/2gSskdDhLQCx3CQd6XKDhp'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bukka_White'
 image_path: 03_Resources/source_material/ArtistPortraits/bukka_white.jpg
 biography_enhanced_at: '2025-11-14T11:06:42.360635'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://msbluestrail.org/blues-trail-markers/bukka-white
-- https://en.wikipedia.org/wiki/Bukka_White
-- https://academic.oup.com/mississippi-scholarship-online/book/60104
-- https://blackpast.org/african-american-history/bukka-white-1906-1977/
+  - 'https://msbluestrail.org/blues-trail-markers/bukka-white'
+  - 'https://en.wikipedia.org/wiki/Bukka_White'
+  - 'https://academic.oup.com/mississippi-scholarship-online/book/60104'
+  - 'https://blackpast.org/african-american-history/bukka-white-1906-1977/'
 network_extracted: true
 entry_created: '2025-11-14T11:06:42.360643'
 last_updated: '2025-12-23T08:16:06.252066'
 gender: Male
 musicbrainz_id: 882af819-887e-4691-a4af-b14613058942
 tags:
-- acoustic blues
-- blues
-- country blues
+  - acoustic blues
+  - blues
+  - country blues
+is_active: false
 ---
 
 ![](bukka_white.jpg)

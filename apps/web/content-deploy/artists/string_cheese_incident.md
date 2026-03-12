@@ -1,11 +1,11 @@
 ---
-title: string cheese incident
+title: String Cheese Incident
 wiki_slug: string-cheese-incident
 schema_version: 2
 status: active
 genres:
-- newgrass
-- bluegrass
+  - newgrass
+  - bluegrass
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/string_cheese_incident.jpg
   caption: string cheese incident
@@ -25,53 +25,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Béla Fleck
-  - Paul McCandless
-  - Baba Olatunji
-  - Femi Kuti
-  - Jim Lauderdale
+    - Béla Fleck
+    - Paul McCandless
+    - Baba Olatunji
+    - Femi Kuti
+    - Jim Lauderdale
   influenced:
-  - Greensky Bluegrass
-  - Railroad Earth
-  - Younger jamgrass and jam bands
+    - Greensky Bluegrass
+    - Railroad Earth
+    - Younger jamgrass and jam bands
   mentors:
-  - New Grass Revival (Sam Bush, Béla Fleck)
-  - Herbie Hancock
+    - 'New Grass Revival (Sam Bush, Béla Fleck)'
+    - Herbie Hancock
 spotify_data:
   followers: 240134
   id: 7N3JfLDzzjXdPbsyco7X0l
   popularity: 39
-  url: https://open.spotify.com/artist/7N3JfLDzzjXdPbsyco7X0l
+  url: 'https://open.spotify.com/artist/7N3JfLDzzjXdPbsyco7X0l'
 discography_enriched: true
 top_tracks:
-- Sirens (Untying the Not)
-- 'This Must Be the Place (Naive Melody) (Rhythm of the Road: Volume One, Incident in Atlanta -11.17.00)'
-- Get Tight (Believe)
-- Rosie (Song in My Head)
-- Colorado
-- 'Joyful Sound (Rhythm of the Road: Volume One, Incident in Atlanta -11.17.00)'
-- Sometimes a River (One Step Closer)
-- Restless Wind ('Round the Wheel)
-- Best Feeling (Breathe)
-- Good Times Around the Bend ('Round the Wheel)
+  - Sirens (Untying the Not)
+  - >-
+    This Must Be the Place (Naive Melody) (Rhythm of the Road: Volume One,
+    Incident in Atlanta -11.17.00)
+  - Get Tight (Believe)
+  - Rosie (Song in My Head)
+  - Colorado
+  - 'Joyful Sound (Rhythm of the Road: Volume One, Incident in Atlanta -11.17.00)'
+  - Sometimes a River (One Step Closer)
+  - Restless Wind ('Round the Wheel)
+  - Best Feeling (Breathe)
+  - Good Times Around the Bend ('Round the Wheel)
 external_urls:
-  spotify: https://open.spotify.com/artist/7N3JfLDzzjXdPbsyco7X0l
-  wikipedia: https://en.wikipedia.org/wiki/The_String_Cheese_Incident
+  spotify: 'https://open.spotify.com/artist/7N3JfLDzzjXdPbsyco7X0l'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_String_Cheese_Incident'
 image_path: 03_Resources/source_material/ArtistPortraits/string_cheese_incident.jpg
 biography_enhanced_at: '2025-10-20T01:51:23.477143'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.stringcheeseincident.com/about/
-- https://relix.com/articles/detail/round-the-wheel-celebrating-30-years-of-the-string-cheese-incident/
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/string-cheese-incident
-- https://cmhof.org/colorado-artists-spotlight-the-string-cheese-incident/
-- https://colomusic.org/profile/string-cheese-incident/
+  - 'https://www.stringcheeseincident.com/about/'
+  - >-
+    https://relix.com/articles/detail/round-the-wheel-celebrating-30-years-of-the-string-cheese-incident/
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/string-cheese-incident
+  - 'https://cmhof.org/colorado-artists-spotlight-the-string-cheese-incident/'
+  - 'https://colomusic.org/profile/string-cheese-incident/'
 network_extracted: true
 entry_created: '2025-10-20T01:51:23.477158'
 last_updated: '2025-12-23T08:16:16.180735'
-origin: Crested Butte and Telluride, Colorado, United States
-
+origin: 'Crested Butte and Telluride, Colorado, United States'
+artist_type: band
 ---
 
 ![](string_cheese_incident.jpg)

@@ -3,15 +3,15 @@ title: Vivian Reed
 wiki_slug: vivian-reed
 schema_version: 2
 status: active
-birth_place: Pittsburgh, Pennsylvania, USA
+birth_place: 'Pittsburgh, Pennsylvania, USA'
 genres:
-- philly soul
-- disco
+  - philly soul
+  - disco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Vivian_Reed.jpg
   caption: Vivian Reed
   background: solo_singer
-  origin: Pittsburgh, Pennsylvania, USA
+  origin: 'Pittsburgh, Pennsylvania, USA'
 audio_profile:
   tempo_avg: 122.4
   energy_avg: 0.575
@@ -27,43 +27,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Van McCoy
-  - Richard Perry
+    - Van McCoy
+    - Richard Perry
   influenced: []
   mentors:
-  - Honi Coles
-  - Bobby Schiffman
+    - Honi Coles
+    - Bobby Schiffman
 spotify_data:
   followers: 977
   id: 6W67TOlYK1M0cUSQkeuM8V
   popularity: 26
-  url: https://open.spotify.com/artist/6W67TOlYK1M0cUSQkeuM8V
+  url: 'https://open.spotify.com/artist/6W67TOlYK1M0cUSQkeuM8V'
 discography_enriched: true
 top_tracks:
-- Faith and Fire (Faith And Fire)
-- The Biggest Mistake (Faith and Fire)
-- Faith and Fire (Faith and Fire)
-- A Feeling Coming On (Faith and Fire)
-- Faith and Fire (Best of Vivian Reed Collector (Le meilleur des années 80))
-- As Long as I'm Around (Faith and Fire)
-- One More Time (Best of Vivian Reed Collector (Le meilleur des années 80))
-- One More Time (Faith and Fire)
-- Crazy Heartache (Faith And Fire)
-- Save Your Love for Me - Single Version
+  - Faith and Fire (Faith And Fire)
+  - The Biggest Mistake (Faith and Fire)
+  - Faith and Fire (Faith and Fire)
+  - A Feeling Coming On (Faith and Fire)
+  - Faith and Fire (Best of Vivian Reed Collector (Le meilleur des années 80))
+  - As Long as I'm Around (Faith and Fire)
+  - One More Time (Best of Vivian Reed Collector (Le meilleur des années 80))
+  - One More Time (Faith and Fire)
+  - Crazy Heartache (Faith And Fire)
+  - Save Your Love for Me - Single Version
 external_urls:
-  spotify: https://open.spotify.com/artist/6W67TOlYK1M0cUSQkeuM8V
+  spotify: 'https://open.spotify.com/artist/6W67TOlYK1M0cUSQkeuM8V'
   wikipedia: Not available
 image_path: 03_Resources/source_material/ArtistPortraits/Vivian_Reed.jpg
 biography_enhanced_at: '2025-10-20T09:24:20.846068'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://soullibrary.goldenrules.de/vivian-reed/
-- https://www.popmatters.com/vivian-reed-2018-interview-2581218209.html
-- https://theseconddisc.com/2017/01/06/soul-and-inspiration-soulmusic-collects-vivian-reeds-epic-years/
+  - 'https://soullibrary.goldenrules.de/vivian-reed/'
+  - 'https://www.popmatters.com/vivian-reed-2018-interview-2581218209.html'
+  - >-
+    https://theseconddisc.com/2017/01/06/soul-and-inspiration-soulmusic-collects-vivian-reeds-epic-years/
 network_extracted: true
 entry_created: '2025-10-20T09:24:20.846076'
 last_updated: '2025-12-23T08:16:04.256839'
+artist_type: person
 ---
 
 ![](Vivian_Reed.jpg)

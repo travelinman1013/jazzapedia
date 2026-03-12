@@ -1,198 +1,199 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '1963'
-  end: '1968'
-  instruments:
-  - double bass
-  mbid: fe7245e7-d734-4ca1-8e26-691883f58201
-  name: Miles Davis Quintet
-- begin: '1976'
-  end: '1978'
-  instruments:
-  - bass
-  mbid: dd6af85b-f886-43ff-aab0-65a24cff7c14
-  name: The Great Jazz Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c1d497f7-6758-4065-8ff7-e4362c3bbfd9
-  name: New York Jazz Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 272c80be-dea0-4f35-8532-940ff43f346b
-  name: CTI All-Stars
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 123e4002-2ad3-433e-ac2e-5c0cb2796846
-  name: V.S.O.P.
-- begin: ''
-  end: ''
-  instruments:
-  - bass
-  mbid: 86f0ef7e-3c43-459d-a05c-de63bf62ef36
-  name: Joe Henderson Sextet
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 5136640e-6d83-467e-83f0-f6beb9cbaa47
-  name: Ron Carter "Golden Striker" Trio
-- begin: ''
-  end: ''
-  instruments:
-  - bass
-  mbid: 941d6359-7841-4b05-ad1d-750f20093e32
-  name: Classical Jazz Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 671f7a9c-10db-485c-aa94-ed8ecdc27951
-  name: Three's Company
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c020ab6f-2653-474f-98cb-f89488d9d228
-  name: The Great Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 13b32afe-d3b2-461c-b3af-c3a5cc5d139d
-  name: Ron Carter Trio
-- begin: ''
-  end: ''
-  instruments:
-  - bass
-  mbid: fafe7a9e-ec8f-4198-bf28-98e4db8fad29
-  name: McCoy Tyner Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 13747f49-5867-4230-b957-9162eea74319
-  name: Ron Carter Foursight Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - bass
-  - original
-  mbid: df958090-172a-42e5-b9c3-165a3dcd8bdf
-  name: The Master Trio
-- begin: ''
-  end: ''
-  instruments:
-  - bass
-  mbid: 55a11f38-c2d0-4902-9cf1-93c7940ef524
-  name: Geri Allen Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 66ead605-a220-422a-8fba-f7d6f8db03be
-  name: The Super Premium Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: fd0e891f-7bcd-4fcd-8d11-29c712d23539
-  name: The Riverside Jazz Stars
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f8ae5118-19a9-4b8d-b100-3035fdd23980
-  name: The Ron Carter Nonet
-- begin: ''
-  end: ''
-  instruments:
-  - double bass
-  mbid: 5e64a365-f8f6-4957-abe1-6fa22998b9fe
-  name: Frank Morgan Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - bass
-  mbid: 94bf8694-2e38-4e60-bad3-3a8aedfe589b
-  name: Frank Morgan All Stars
+  - begin: '1963'
+    end: '1968'
+    instruments:
+      - double bass
+    mbid: fe7245e7-d734-4ca1-8e26-691883f58201
+    name: Miles Davis Quintet
+  - begin: '1976'
+    end: '1978'
+    instruments:
+      - bass
+    mbid: dd6af85b-f886-43ff-aab0-65a24cff7c14
+    name: The Great Jazz Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c1d497f7-6758-4065-8ff7-e4362c3bbfd9
+    name: New York Jazz Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 272c80be-dea0-4f35-8532-940ff43f346b
+    name: CTI All-Stars
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 123e4002-2ad3-433e-ac2e-5c0cb2796846
+    name: V.S.O.P.
+  - begin: ''
+    end: ''
+    instruments:
+      - bass
+    mbid: 86f0ef7e-3c43-459d-a05c-de63bf62ef36
+    name: Joe Henderson Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 5136640e-6d83-467e-83f0-f6beb9cbaa47
+    name: Ron Carter "Golden Striker" Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - bass
+    mbid: 941d6359-7841-4b05-ad1d-750f20093e32
+    name: Classical Jazz Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 671f7a9c-10db-485c-aa94-ed8ecdc27951
+    name: Three's Company
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c020ab6f-2653-474f-98cb-f89488d9d228
+    name: The Great Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 13b32afe-d3b2-461c-b3af-c3a5cc5d139d
+    name: Ron Carter Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - bass
+    mbid: fafe7a9e-ec8f-4198-bf28-98e4db8fad29
+    name: McCoy Tyner Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 13747f49-5867-4230-b957-9162eea74319
+    name: Ron Carter Foursight Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - bass
+      - original
+    mbid: df958090-172a-42e5-b9c3-165a3dcd8bdf
+    name: The Master Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - bass
+    mbid: 55a11f38-c2d0-4902-9cf1-93c7940ef524
+    name: Geri Allen Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 66ead605-a220-422a-8fba-f7d6f8db03be
+    name: The Super Premium Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: fd0e891f-7bcd-4fcd-8d11-29c712d23539
+    name: The Riverside Jazz Stars
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f8ae5118-19a9-4b8d-b100-3035fdd23980
+    name: The Ron Carter Nonet
+  - begin: ''
+    end: ''
+    instruments:
+      - double bass
+    mbid: 5e64a365-f8f6-4957-abe1-6fa22998b9fe
+    name: Frank Morgan Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - bass
+    mbid: 94bf8694-2e38-4e60-bad3-3a8aedfe589b
+    name: Frank Morgan All Stars
 biography_enhanced_at: '2025-12-25T01:05:38.449576'
 birth_date: '1937-05-04'
-birth_place: Ferndale
+birth_place: 'Ferndale, Michigan, United States'
 disambiguation: US jazz double-bassist
 enhancement_provider: perplexity
 entry_created: '2025-12-25T01:05:38.449587'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/57db3f59-9c58-4f68-a00e-e044666c4828
-  spotify: https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP
-  wikipedia: https://en.wikipedia.org/wiki/Ron_Carter
+  musicbrainz: 'https://musicbrainz.org/artist/57db3f59-9c58-4f68-a00e-e044666c4828'
+  spotify: 'https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ron_Carter'
 gender: Male
 genres:
-- jazz
-- hard bop
-- cool jazz
-- bebop
+  - jazz
+  - hard bop
+  - cool jazz
+  - bebop
 image_path: 03_Resources/source_material/ArtistPortraits/ron_carter.jpg
 instruments:
-- double bass
-- bass
-- original
-- eponymous
-- bass guitar
-- electric bass guitar
-- acoustic bass guitar
-- spoken vocals
+  - double bass
+  - bass
+  - original
+  - eponymous
+  - bass guitar
+  - electric bass guitar
+  - acoustic bass guitar
+  - spoken vocals
 last_updated: '2025-12-25T01:05:38.449589'
 musical_connections:
   collaborators:
-  - Miles Davis
-  - Herbie Hancock
-  - Wayne Shorter
-  - Tony Williams
-  - Eric Dolphy
-  - New York Jazz Quartet
-  - CTI All‑Stars and Milestone Jazzstars
-  - Sonny Rollins
-  - McCoy Tyner
-  - Bill Evans
-  - Wes Montgomery
-  - Lena Horne, B.B. King, Dexter Gordon, Cannonball Adderley, Jaki Byard
-  - Roberta Flack, Billy Joel, Paul Simon, Bette Midler, Aretha Franklin
-  - A Tribe Called Quest
-  - Ron Carter Golden Striker Trio, Foursight Quartet, Nonet, Great Big Band
+    - Miles Davis
+    - Herbie Hancock
+    - Wayne Shorter
+    - Tony Williams
+    - Eric Dolphy
+    - New York Jazz Quartet
+    - CTI All‑Stars and Milestone Jazzstars
+    - Sonny Rollins
+    - McCoy Tyner
+    - Bill Evans
+    - Wes Montgomery
+    - 'Lena Horne, B.B. King, Dexter Gordon, Cannonball Adderley, Jaki Byard'
+    - 'Roberta Flack, Billy Joel, Paul Simon, Bette Midler, Aretha Franklin'
+    - A Tribe Called Quest
+    - 'Ron Carter Golden Striker Trio, Foursight Quartet, Nonet, Great Big Band'
   influenced:
-  - Contemporary jazz bassists (collective)
-  - Jazz cellists and piccolo‑bass players
-  - Students and mentees from his teaching activities
-  - Hip‑hop and crossover artists drawing on acoustic jazz bass
+    - Contemporary jazz bassists (collective)
+    - Jazz cellists and piccolo‑bass players
+    - Students and mentees from his teaching activities
+    - Hip‑hop and crossover artists drawing on acoustic jazz bass
   mentors:
-  - Cass Technical High School and Detroit public school music faculty
-  - Eastman School of Music faculty
-  - Manhattan School of Music faculty
-  - Chico Hamilton
-  - Eric Dolphy
-  - Miles Davis
+    - Cass Technical High School and Detroit public school music faculty
+    - Eastman School of Music faculty
+    - Manhattan School of Music faculty
+    - Chico Hamilton
+    - Eric Dolphy
+    - Miles Davis
 musicbrainz_id: 57db3f59-9c58-4f68-a00e-e044666c4828
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Ron_Carter
-- https://www.bluenote.com/artist/ron-carter/
-- https://www.arts.gov/honors/jazz/ron-carter
-- https://roncarterjazz.com/pages/biography
-- https://www.detroitpbs.org/news-media/one-detroit/jazz-bassist-ron-carter-celebrates-88th-birthday-in-new-york-city/
-- https://www.allaboutjazz.com/musicians/ron-carter/
-- https://strings.tonebase.co/double-bass-artist-biographies/roncarter
+  - 'https://en.wikipedia.org/wiki/Ron_Carter'
+  - 'https://www.bluenote.com/artist/ron-carter/'
+  - 'https://www.arts.gov/honors/jazz/ron-carter'
+  - 'https://roncarterjazz.com/pages/biography'
+  - >-
+    https://www.detroitpbs.org/news-media/one-detroit/jazz-bassist-ron-carter-celebrates-88th-birthday-in-new-york-city/
+  - 'https://www.allaboutjazz.com/musicians/ron-carter/'
+  - 'https://strings.tonebase.co/double-bass-artist-biographies/roncarter'
 spotify_data:
   followers: 78545
   id: 4wnzivx3OQ3vjrySAdTdJP
   popularity: 44
-  url: https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP
+  url: 'https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP'
 status: active
 tags:
-- bebop
-- chamber jazz
-- hard bop
+  - bebop
+  - chamber jazz
+  - hard bop
 title: Ron Carter
-
+origin: 'Detroit, Michigan, United States'
 ---
 
 ![](ron_carter.jpg)

@@ -3,15 +3,15 @@ title: Boyd Rivers
 wiki_slug: boyd-rivers
 schema_version: 2
 status: active
-birth_place: Pickens, Madison County, Mississippi, USA
+birth_place: 'Pickens, Madison County, Mississippi, USA'
 genres:
-- country blues
-- blues
+  - country blues
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/boyd_rivers.jpg
   caption: Boyd Rivers
   background: solo_singer
-  origin: Pickens, Madison County, Mississippi, USA
+  origin: 'Pickens, Madison County, Mississippi, USA'
 audio_profile:
   tempo_avg: 120.5
   energy_avg: 0.266
@@ -27,50 +27,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ruth May Rivers
-  - Alan Lomax, John Bishop, Worth Long
-  - Axel Küstner
+    - Ruth May Rivers
+    - 'Alan Lomax, John Bishop, Worth Long'
+    - Axel Küstner
   influenced:
-  - No specific proteges documented
+    - No specific proteges documented
   mentors:
-  - Clyde Maxwell
-  - Reverend Cleophus Robinson
+    - Clyde Maxwell
+    - Reverend Cleophus Robinson
 spotify_data:
   followers: 1001
   id: 5PyZB3gS8r7H4wKLcAGMGq
   popularity: 4
-  url: https://open.spotify.com/artist/5PyZB3gS8r7H4wKLcAGMGq
+  url: 'https://open.spotify.com/artist/5PyZB3gS8r7H4wKLcAGMGq'
 discography_enriched: true
 top_tracks:
-- You Gonna Take Sick and Die (Living Country Blues USA, Vol. 11 - Country Gospel Rock)
-- When The World Seems Cold (Living Country Blues USA, Vol. 11 - Country Gospel Rock)
-- That Fire Shed in My Bones (You Can't Make Me Doubt)
-- Jesus On The Mainline (Living Country Blues USA, Vol. 11 - Country Gospel Rock)
-- I Done Died One Time (You Can't Make Me Doubt)
-- You Got to Take Sick and Die (You Can't Make Me Doubt)
-- I'm Wrapped Up (Living Country Blues USA, Vol. 11 - Country Gospel Rock)
-- Precious Lord (Living Country Blues USA, Vol. 11 - Country Gospel Rock)
-- Get Away Jordan (You Can't Make Me Doubt)
-- I Want to Be at the Meeting (You Can't Make Me Doubt)
+  - >-
+    You Gonna Take Sick and Die (Living Country Blues USA, Vol. 11 - Country
+    Gospel Rock)
+  - >-
+    When The World Seems Cold (Living Country Blues USA, Vol. 11 - Country
+    Gospel Rock)
+  - That Fire Shed in My Bones (You Can't Make Me Doubt)
+  - >-
+    Jesus On The Mainline (Living Country Blues USA, Vol. 11 - Country Gospel
+    Rock)
+  - I Done Died One Time (You Can't Make Me Doubt)
+  - You Got to Take Sick and Die (You Can't Make Me Doubt)
+  - 'I''m Wrapped Up (Living Country Blues USA, Vol. 11 - Country Gospel Rock)'
+  - 'Precious Lord (Living Country Blues USA, Vol. 11 - Country Gospel Rock)'
+  - Get Away Jordan (You Can't Make Me Doubt)
+  - I Want to Be at the Meeting (You Can't Make Me Doubt)
 external_urls:
-  spotify: https://open.spotify.com/artist/5PyZB3gS8r7H4wKLcAGMGq
+  spotify: 'https://open.spotify.com/artist/5PyZB3gS8r7H4wKLcAGMGq'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/boyd_rivers.jpg
 biography_enhanced_at: '2025-11-01T15:30:44.770273'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://soulfuldelica.blogspot.com/2012/10/boyd-rivers.html
-- https://terminusrecords.com/artists/boyd-rivers
-- https://sundayblues.org/?tag=boyd-rivers
-- https://www.elsewhere.co.nz/fromthevaults/4343/boyd-rivers-fire-shed-in-my-bones-1985/
-- https://www.bmansbluesreport.com/2011/10/youve-got-to-take-sick-and-die-boyd.html
-- https://kexp.fmspins.com/boyd-rivers/history
-- https://www.last.fm/music/Boyd+Rivers?album_order=release_date&top_tracks_date_preset=LAST_30_DAYS
+  - 'http://soulfuldelica.blogspot.com/2012/10/boyd-rivers.html'
+  - 'https://terminusrecords.com/artists/boyd-rivers'
+  - 'https://sundayblues.org/?tag=boyd-rivers'
+  - >-
+    https://www.elsewhere.co.nz/fromthevaults/4343/boyd-rivers-fire-shed-in-my-bones-1985/
+  - >-
+    https://www.bmansbluesreport.com/2011/10/youve-got-to-take-sick-and-die-boyd.html
+  - 'https://kexp.fmspins.com/boyd-rivers/history'
+  - >-
+    https://www.last.fm/music/Boyd+Rivers?album_order=release_date&top_tracks_date_preset=LAST_30_DAYS
 network_extracted: true
 entry_created: '2025-11-01T15:30:44.770283'
 last_updated: '2025-12-23T08:16:05.977427'
-
+birth_date: '1934-12-25'
+artist_type: person
 ---
 
 ![](boyd_rivers.jpg)

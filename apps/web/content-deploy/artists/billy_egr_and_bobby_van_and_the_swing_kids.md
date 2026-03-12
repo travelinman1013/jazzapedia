@@ -5,7 +5,8 @@ schema_version: 2
 status: active
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/billy_egr_and_bobby_van_and_the_swing_kids.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/billy_egr_and_bobby_van_and_the_swing_kids.jpg
   caption: Billy Egr & Bobby Van & The Swing Kids
   background: solo_singer
 audio_profile:
@@ -15,7 +16,7 @@ audio_profile:
   danceability_avg: 0.618
   acousticness_avg: 0.558
   instrumentalness_avg: null
-  loudness_avg: -12.0
+  loudness_avg: -12
   speechiness_avg: 0.03
   liveness_avg: 0.182
   track_count: 1
@@ -23,33 +24,37 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Billy Egr
-  - The Swing Kids
+    - Billy Egr
+    - The Swing Kids
   influenced: []
   mentors: []
 spotify_data:
   followers: 12
   id: 0jxEmyibLQp2gf8Io7eWTo
   popularity: 3
-  url: https://open.spotify.com/artist/0jxEmyibLQp2gf8Io7eWTo
+  url: 'https://open.spotify.com/artist/0jxEmyibLQp2gf8Io7eWTo'
 discography_enriched: true
 top_tracks:
-- 'What Would Santa Claus Think (Christmas Dreamers: Yuletide Country (1960-1972))'
+  - >-
+    What Would Santa Claus Think (Christmas Dreamers: Yuletide Country
+    (1960-1972))
 external_urls:
-  spotify: https://open.spotify.com/artist/0jxEmyibLQp2gf8Io7eWTo
+  spotify: 'https://open.spotify.com/artist/0jxEmyibLQp2gf8Io7eWTo'
   wikipedia: ''
 image_path: ''
 biography_enhanced_at: '2025-12-09T05:18:57.795892'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://open.spotify.com/track/67KOxVIXweLfGwCiY7gSes
-- https://www.youtube.com/watch?v=WN57AA1fWX8
-- https://numerogroup.com/products/christmas-dreamers-yuletide-country-1960-1972
+  - 'https://open.spotify.com/track/67KOxVIXweLfGwCiY7gSes'
+  - 'https://www.youtube.com/watch?v=WN57AA1fWX8'
+  - >-
+    https://numerogroup.com/products/christmas-dreamers-yuletide-country-1960-1972
 network_extracted: true
 entry_created: '2025-12-09T05:18:57.795906'
 last_updated: '2025-12-23T08:16:05.572395'
 origin: United States (exact city/region not specified in available sources)
+artist_type: band
 ---
 
 ![]()

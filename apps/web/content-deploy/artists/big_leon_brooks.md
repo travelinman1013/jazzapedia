@@ -1,20 +1,20 @@
 ---
-title: big leon brooks
+title: Big Leon Brooks
 wiki_slug: big-leon-brooks
 schema_version: 2
 status: active
-birth_place: Sunflower, Mississippi, United States
+birth_place: 'Sunflower, Mississippi, United States'
 genres:
-- blues
-- classic blues
-- modern blues
+  - blues
+  - classic blues
+  - modern blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/big_leon_brooks.jpg
   caption: big leon brooks
   background: solo_singer
-  origin: Sunflower, Mississippi, United States
+  origin: 'Sunflower, Mississippi, United States'
 audio_profile:
-  tempo_avg: 132.0
+  tempo_avg: 132
   energy_avg: 0.547
   valence_avg: 0.668
   danceability_avg: 0.556
@@ -28,50 +28,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tail Dragger
-  - Jimmy Rogers
-  - Eddie Taylor
-  - Louis Myers
-  - Paul Cooper
+    - Tail Dragger
+    - Jimmy Rogers
+    - Eddie Taylor
+    - Louis Myers
+    - Paul Cooper
   influenced:
-  - Dimestore Fred
-  - Pocketwatch Paul
-  - Freddie Dixon
+    - Dimestore Fred
+    - Pocketwatch Paul
+    - Freddie Dixon
   mentors:
-  - Little Walter Jacobs
-  - Sonny Boy Williamson (Rice Miller)
+    - Little Walter Jacobs
+    - Sonny Boy Williamson (Rice Miller)
 spotify_data:
   followers: 1394
   id: 5ri5KmopDkMg2JKrkvtD9z
   popularity: 5
-  url: https://open.spotify.com/artist/5ri5KmopDkMg2JKrkvtD9z
+  url: 'https://open.spotify.com/artist/5ri5KmopDkMg2JKrkvtD9z'
 discography_enriched: true
 top_tracks:
-- Blues For A Real Man (Living Chicago Blues, Vol. 4)
-- Country Boy (Living Chicago Blues, Vol. 4)
-- Thirteen Years In Prison (Living Chicago Blues, Vol. 4)
-- My Life Ain't The Same (Living Chicago Blues, Vol. 4)
-- Blues For a Real Man (Slow Blues Chicago Style)
-- Country Boy (Chill Out Blues)
-- Country Boy (Blues Harmonica)
-- Blues For a Real Man (The Greatest Harmonica Blues Jams)
-- Let's Go To Town (Let's Go To Town)
-- Please Mr. Catfish (Let's Go To Town)
+  - 'Blues For A Real Man (Living Chicago Blues, Vol. 4)'
+  - 'Country Boy (Living Chicago Blues, Vol. 4)'
+  - 'Thirteen Years In Prison (Living Chicago Blues, Vol. 4)'
+  - 'My Life Ain''t The Same (Living Chicago Blues, Vol. 4)'
+  - Blues For a Real Man (Slow Blues Chicago Style)
+  - Country Boy (Chill Out Blues)
+  - Country Boy (Blues Harmonica)
+  - Blues For a Real Man (The Greatest Harmonica Blues Jams)
+  - Let's Go To Town (Let's Go To Town)
+  - Please Mr. Catfish (Let's Go To Town)
 external_urls:
-  spotify: https://open.spotify.com/artist/5ri5KmopDkMg2JKrkvtD9z
+  spotify: 'https://open.spotify.com/artist/5ri5KmopDkMg2JKrkvtD9z'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/big_leon_brooks.jpg
 biography_enhanced_at: '2025-10-29T16:50:40.785416'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://earwigmusic.com/earwig-artists/big-leon-brooks/
-- https://www.alligator.com/artists/Big-Leon-Brooks/
-- https://bobcorritore.com/news/news-articles/abs-magazine-france-feature-article/abs-magazine-english-interview/
-- https://www.allmusic.com/artist/big-leon-brooks-mn0000065866
+  - 'https://earwigmusic.com/earwig-artists/big-leon-brooks/'
+  - 'https://www.alligator.com/artists/Big-Leon-Brooks/'
+  - >-
+    https://bobcorritore.com/news/news-articles/abs-magazine-france-feature-article/abs-magazine-english-interview/
+  - 'https://www.allmusic.com/artist/big-leon-brooks-mn0000065866'
 network_extracted: true
 entry_created: '2025-10-29T16:50:40.785425'
 last_updated: '2025-12-23T08:16:05.458224'
+origin: 'Chicago, Illinois, United States'
+birth_date: '1933-11-19'
+death_date: '1982-01-22'
+artist_type: person
 ---
 
 ![](big_leon_brooks.jpg)

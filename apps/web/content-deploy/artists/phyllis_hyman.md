@@ -1,18 +1,18 @@
 ---
-title: PHYLLIS HYMAN
+title: Phyllis Hyman
 wiki_slug: phyllis-hyman
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1949-07-06'
-birth_place: Philadelphia
+birth_place: 'Philadelphia, Pennsylvania, United States'
 death_date: '1995-06-30'
 genres:
-- philly soul
-- quiet storm
+  - philly soul
+  - quiet storm
 instruments:
-- lead vocals
-- background vocals
+  - lead vocals
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/phyllis_hyman.jpg
   caption: PHYLLIS HYMAN
@@ -35,57 +35,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Michael Henderson
-  - McCoy Tyner
-  - Barry Manilow
-  - The Whispers
-  - The Four Tops
+    - Michael Henderson
+    - McCoy Tyner
+    - Barry Manilow
+    - The Whispers
+    - The Four Tops
   influenced:
-  - Ledisi
-  - Lalah Hathaway
+    - Ledisi
+    - Lalah Hathaway
   mentors:
-  - Norman Connors
+    - Norman Connors
 spotify_data:
   followers: 355541
   id: 3oqSDVaf6RoBGreqOlgUpv
   popularity: 39
-  url: https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv
+  url: 'https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv'
 discography_enriched: true
 top_tracks:
-- You Know How to Love Me - Long Version (You Know How to Love Me (Expanded Edition))
-- You Know How to Love Me (The Legacy Of Phyllis Hyman)
-- You Know How to Love Me - 7" Version (You Know How to Love Me (Expanded Edition))
-- Old Friend (Living All Alone)
-- Living All Alone (The Legacy Of Phyllis Hyman)
-- Old Friend (The Legacy Of Phyllis Hyman)
-- No One Can Love You More (Phyllis Hyman (Expanded Edition))
-- You Know How to Love Me - Edit (The Essential Phyllis Hyman)
-- Living All Alone (Living All Alone)
-- What You Won't Do for Love (Living All Alone)
+  - >-
+    You Know How to Love Me - Long Version (You Know How to Love Me (Expanded
+    Edition))
+  - You Know How to Love Me (The Legacy Of Phyllis Hyman)
+  - >-
+    You Know How to Love Me - 7" Version (You Know How to Love Me (Expanded
+    Edition))
+  - Old Friend (Living All Alone)
+  - Living All Alone (The Legacy Of Phyllis Hyman)
+  - Old Friend (The Legacy Of Phyllis Hyman)
+  - No One Can Love You More (Phyllis Hyman (Expanded Edition))
+  - You Know How to Love Me - Edit (The Essential Phyllis Hyman)
+  - Living All Alone (Living All Alone)
+  - What You Won't Do for Love (Living All Alone)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ac0b9f60-21a4-478f-b43a-d6238861c3fc
-  spotify: https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv
-  wikipedia: https://en.wikipedia.org/wiki/Phyllis_Hyman
+  musicbrainz: 'https://musicbrainz.org/artist/ac0b9f60-21a4-478f-b43a-d6238861c3fc'
+  spotify: 'https://open.spotify.com/artist/3oqSDVaf6RoBGreqOlgUpv'
+  wikipedia: 'https://en.wikipedia.org/wiki/Phyllis_Hyman'
 image_path: 03_Resources/source_material/ArtistPortraits/phyllis_hyman.jpg
 biography_enhanced_at: '2025-11-21T07:18:08.498499'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.imdb.com/name/nm0405198/bio/
-- https://kids.kiddle.co/Phyllis_Hyman
-- https://wbssmedia.com/artists/detail/1484
-- https://blackpast.org/african-american-history/hyman-phyllis-1949-1995/
-- https://www.kut.org/life-arts/2023-07-05/remembering-the-life-and-legacy-of-the-late-phyllis-hyman
+  - 'https://www.imdb.com/name/nm0405198/bio/'
+  - 'https://kids.kiddle.co/Phyllis_Hyman'
+  - 'https://wbssmedia.com/artists/detail/1484'
+  - 'https://blackpast.org/african-american-history/hyman-phyllis-1949-1995/'
+  - >-
+    https://www.kut.org/life-arts/2023-07-05/remembering-the-life-and-legacy-of-the-late-phyllis-hyman
 network_extracted: true
 entry_created: '2025-11-21T07:18:08.498512'
 last_updated: '2025-12-23T08:16:14.290474'
 gender: Female
 musicbrainz_id: ac0b9f60-21a4-478f-b43a-d6238861c3fc
 tags:
-- death by suicide
-- disco
-- quiet storm
-
+  - death by suicide
+  - disco
+  - quiet storm
+is_active: false
+origin: 'Pittsburgh, Pennsylvania, United States'
 ---
 
 ![](phyllis_hyman.jpg)

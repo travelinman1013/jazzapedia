@@ -2,18 +2,18 @@
 title: The Mills Brothers
 wiki_slug: the-mills-brothers
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1928'
 genres:
-- big band
-- adult standards
-- swing music
+  - big band
+  - adult standards
+  - swing music
 instruments:
-- bass vocals
-- additional
-- tenor vocals
-- baritone vocals
+  - bass vocals
+  - additional
+  - tenor vocals
+  - baritone vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_mills_brothers.jpg
   caption: The Mills Brothers
@@ -34,92 +34,94 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Louis Armstrong
-  - Duke Ellington
-  - Ella Fitzgerald
-  - Bing Crosby
-  - Boswell Sisters
+    - Louis Armstrong
+    - Duke Ellington
+    - Ella Fitzgerald
+    - Bing Crosby
+    - Boswell Sisters
   influenced: []
   mentors:
-  - Duke Ellington
-  - Seger Ellis
-  - John H. Mills (Father)
+    - Duke Ellington
+    - Seger Ellis
+    - John H. Mills (Father)
 spotify_data:
   followers: 110548
   id: 5v8bwWRbu7AI3YFhzoM6Ha
   popularity: 48
-  url: https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha
+  url: 'https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha'
 discography_enriched: true
 top_tracks:
-- You Always Hurt The One You Love - 1958 version (Great Hits)
-- Nevertheless (I'm In Love With You) - 1958 version (Great Hits)
-- Paper Doll (Souvenir Album)
-- 'You Always Hurt The One You Love (The Anthology: 1931 - 1968)'
-- Till Then (Souvenir Album)
-- 'Till Then (The Anthology: 1931 - 1968)'
-- Till Then - 1958 version (Great Hits)
-- 'The Glow Worm - Single Version (The Anthology: 1931 - 1968)'
-- I'll Be Around - 1958 version (Great Hits)
-- Paper Doll (Paper Doll)
+  - You Always Hurt The One You Love - 1958 version (Great Hits)
+  - Nevertheless (I'm In Love With You) - 1958 version (Great Hits)
+  - Paper Doll (Souvenir Album)
+  - 'You Always Hurt The One You Love (The Anthology: 1931 - 1968)'
+  - Till Then (Souvenir Album)
+  - 'Till Then (The Anthology: 1931 - 1968)'
+  - Till Then - 1958 version (Great Hits)
+  - 'The Glow Worm - Single Version (The Anthology: 1931 - 1968)'
+  - I'll Be Around - 1958 version (Great Hits)
+  - Paper Doll (Paper Doll)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/fb1080d4-aaf7-430e-b588-6a6ce79e2eb3
-  spotify: https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha
-  wikipedia: https://en.wikipedia.org/wiki/The_Mills_Brothers
+  musicbrainz: 'https://musicbrainz.org/artist/fb1080d4-aaf7-430e-b588-6a6ce79e2eb3'
+  spotify: 'https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Mills_Brothers'
 image_path: 03_Resources/source_material/ArtistPortraits/the_mills_brothers.jpg
 biography_enhanced_at: '2025-12-04T07:44:47.887795'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Mills_Brothers
-- https://teachrock.org/people/mills-brothers/
-- https://www.britannica.com/topic/the-Mills-Brothers
-- https://vocalgroup.org/inductees/the-mills-brothers/
-- https://www.daytondailynews.com/local/the-most-famous-recording-stars-of-their-time-piquas-mills-brothers-music-trailblazers-of-the-1930s/276YY4N5GRD2NMF6V7CSYBN4CE/
-- https://walkoffame.com/mills-brothers/
+  - 'https://en.wikipedia.org/wiki/The_Mills_Brothers'
+  - 'https://teachrock.org/people/mills-brothers/'
+  - 'https://www.britannica.com/topic/the-Mills-Brothers'
+  - 'https://vocalgroup.org/inductees/the-mills-brothers/'
+  - >-
+    https://www.daytondailynews.com/local/the-most-famous-recording-stars-of-their-time-piquas-mills-brothers-music-trailblazers-of-the-1930s/276YY4N5GRD2NMF6V7CSYBN4CE/
+  - 'https://walkoffame.com/mills-brothers/'
 network_extracted: true
 entry_created: '2025-12-04T07:44:47.887811'
 last_updated: '2025-12-23T08:16:16.965047'
 members:
-- begin: '1928'
-  end: '1936'
-  instruments:
-  - bass vocals
-  mbid: f460649b-fb18-41b7-aae3-58636b244699
-  name: John Mills, Jr.
-- begin: '1936'
-  end: '1957'
-  instruments: []
-  mbid: 7035d83b-ba11-4995-9a0c-b9f90c14e9c9
-  name: John Mills, Sr.
-- begin: ''
-  end: ''
-  instruments:
-  - additional
-  mbid: 23680b03-f4a7-45e3-9345-de561c478c8d
-  name: Norman Brown
-- begin: ''
-  end: ''
-  instruments:
-  - tenor vocals
-  mbid: cc70f7fa-4de9-49d3-8167-c646e70264cd
-  name: Donald Mills
-- begin: ''
-  end: ''
-  instruments:
-  - baritone vocals
-  mbid: 26cffd99-7498-4847-9a23-430407839a82
-  name: Harry Mills
-- begin: ''
-  end: ''
-  instruments:
-  - tenor vocals
-  mbid: d3a76981-90be-49d9-b833-fb9345c6e351
-  name: Herbert Mills
+  - begin: '1928'
+    end: '1936'
+    instruments:
+      - bass vocals
+    mbid: f460649b-fb18-41b7-aae3-58636b244699
+    name: 'John Mills, Jr.'
+  - begin: '1936'
+    end: '1957'
+    instruments: []
+    mbid: 7035d83b-ba11-4995-9a0c-b9f90c14e9c9
+    name: 'John Mills, Sr.'
+  - begin: ''
+    end: ''
+    instruments:
+      - additional
+    mbid: 23680b03-f4a7-45e3-9345-de561c478c8d
+    name: Norman Brown
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor vocals
+    mbid: cc70f7fa-4de9-49d3-8167-c646e70264cd
+    name: Donald Mills
+  - begin: ''
+    end: ''
+    instruments:
+      - baritone vocals
+    mbid: 26cffd99-7498-4847-9a23-430407839a82
+    name: Harry Mills
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor vocals
+    mbid: d3a76981-90be-49d9-b833-fb9345c6e351
+    name: Herbert Mills
 musicbrainz_id: fb1080d4-aaf7-430e-b588-6a6ce79e2eb3
-origin: Piqua
+origin: 'Piqua, Ohio, United States'
 tags:
-- 2008 universal fire victim
-- jazz
+  - 2008 universal fire victim
+  - jazz
+birth_place: 'Piqua, Ohio, United States'
 ---
 
 ![](the_mills_brothers.jpg)

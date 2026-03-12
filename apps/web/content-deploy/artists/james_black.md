@@ -1,15 +1,15 @@
 ---
-title: JAMES BLACK
+title: James Black
 wiki_slug: james-black
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/james_black.jpg
   caption: JAMES BLACK
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 115.1
   energy_avg: 0.457
@@ -25,56 +25,65 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ellis Marsalis
-  - Eddie Bo
-  - Cannonball Adderley and Nat Adderley
-  - Horace Silver
-  - Yusef Lateef
-  - Lionel Hampton
-  - Fats Domino
-  - Allen Toussaint
-  - Wynton Marsalis
-  - Cassandra Wilson
-  - Harry Connick Jr.
+    - Ellis Marsalis
+    - Eddie Bo
+    - Cannonball Adderley and Nat Adderley
+    - Horace Silver
+    - Yusef Lateef
+    - Lionel Hampton
+    - Fats Domino
+    - Allen Toussaint
+    - Wynton Marsalis
+    - Cassandra Wilson
+    - Harry Connick Jr.
   influenced:
-  - Herlin Riley
-  - New Orleans funk and jazz drummers
+    - Herlin Riley
+    - New Orleans funk and jazz drummers
   mentors:
-  - Mardi Gras Indians street musicians
+    - Mardi Gras Indians street musicians
 spotify_data:
   followers: 1560692
   id: 53KwLdlmrlCelAZMaLVZqU
   popularity: 70
-  url: https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU
+  url: 'https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU'
 discography_enriched: true
 top_tracks:
-- TIL FURTHER NOTICE (feat. James Blake & 21 Savage) (UTOPIA)
-- King's Dead (with Kendrick Lamar, Future & James Blake)
-- 'Hummingbird (Metro Boomin & James Blake) (METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND
-  INSPIRED BY THE MOTION PICTURE))'
-- Mile High (feat. Travis Scott & Metro Boomin) (Assume Form)
-- Retrograde
-- Both Sides Of A Smile (feat. James Blake) (We're All Alone In This Together)
-- King's Dead (with Kendrick Lamar, Future & James Blake) (Black Panther The Album Music From And Inspired By)
-- 'Nonviolent Communication (Metro Boomin & James Blake, A$AP Rocky, 21 Savage) (METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS
-  THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE))'
-- Coming Back (feat. SZA)
-- I Need A Forest Fire
+  - TIL FURTHER NOTICE (feat. James Blake & 21 Savage) (UTOPIA)
+  - 'King''s Dead (with Kendrick Lamar, Future & James Blake)'
+  - >-
+    Hummingbird (Metro Boomin & James Blake) (METRO BOOMIN PRESENTS SPIDER-MAN:
+    ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION
+    PICTURE))
+  - Mile High (feat. Travis Scott & Metro Boomin) (Assume Form)
+  - Retrograde
+  - Both Sides Of A Smile (feat. James Blake) (We're All Alone In This Together)
+  - >-
+    King's Dead (with Kendrick Lamar, Future & James Blake) (Black Panther The
+    Album Music From And Inspired By)
+  - >-
+    Nonviolent Communication (Metro Boomin & James Blake, A$AP Rocky, 21 Savage)
+    (METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM
+    AND INSPIRED BY THE MOTION PICTURE))
+  - Coming Back (feat. SZA)
+  - I Need A Forest Fire
 external_urls:
-  spotify: https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU
+  spotify: 'https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/james_black.jpg
 biography_enhanced_at: '2025-12-04T07:39:50.210885'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- All About Jazz - James Black Musician
-- Fog City Records - James Black
-- Blue Nile Celebrates Black History - James Black
-- AllMusic - James Black
+  - All About Jazz - James Black Musician
+  - Fog City Records - James Black
+  - Blue Nile Celebrates Black History - James Black
+  - AllMusic - James Black
 network_extracted: true
 entry_created: '2025-12-04T07:39:50.210895'
 last_updated: '2025-12-23T08:16:10.157206'
+birth_date: '1940-02-01'
+death_date: '1988-08-30'
+artist_type: person
 ---
 
 ![](james_black.jpg)

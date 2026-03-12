@@ -4,8 +4,8 @@ wiki_slug: has-beans
 schema_version: 2
 status: active
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Has_Beans.jpg
   caption: Has Beans
@@ -17,7 +17,7 @@ audio_profile:
   danceability_avg: 0.543
   acousticness_avg: 0.502
   instrumentalness_avg: 0.028
-  loudness_avg: -7.0
+  loudness_avg: -7
   speechiness_avg: 0.066
   liveness_avg: 0.187
   track_count: 14
@@ -25,46 +25,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - File’
-  - Basin Brothers
-  - Coteau
+    - File’
+    - Basin Brothers
+    - Coteau
   influenced:
-  - Local Lafayette musicians
+    - Local Lafayette musicians
   mentors:
-  - Red Beans and Rice Revue
-  - Hadley J. Castille
+    - Red Beans and Rice Revue
+    - Hadley J. Castille
 spotify_data:
   followers: 22
   id: 3gWkYzX2ua0DVb03Iv3p6L
   popularity: 0
-  url: https://open.spotify.com/artist/3gWkYzX2ua0DVb03Iv3p6L
+  url: 'https://open.spotify.com/artist/3gWkYzX2ua0DVb03Iv3p6L'
 discography_enriched: true
 top_tracks:
-- Has Beans Cookin (Cookin)
-- Ce Macaque Ma Frappé Un Coup D’brique Sur La Jambe (Cookin)
-- The Traveliers Special Reprise (Cookin)
-- If I Didn’t Know You (Cookin)
-- She’s About a Mover (Cookin)
-- Hello (Cookin)
-- Little Fat Man (Cookin)
-- Les Barres De La Prison (Cookin)
-- Pine Grove Road House Blues (Cookin)
-- Porch Dancing (Cookin)
+  - Has Beans Cookin (Cookin)
+  - Ce Macaque Ma Frappé Un Coup D’brique Sur La Jambe (Cookin)
+  - The Traveliers Special Reprise (Cookin)
+  - If I Didn’t Know You (Cookin)
+  - She’s About a Mover (Cookin)
+  - Hello (Cookin)
+  - Little Fat Man (Cookin)
+  - Les Barres De La Prison (Cookin)
+  - Pine Grove Road House Blues (Cookin)
+  - Porch Dancing (Cookin)
 external_urls:
-  spotify: https://open.spotify.com/artist/3gWkYzX2ua0DVb03Iv3p6L
+  spotify: 'https://open.spotify.com/artist/3gWkYzX2ua0DVb03Iv3p6L'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/Has_Beans.jpg
 biography_enhanced_at: '2025-10-20T01:45:57.984422'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.reverbnation.com/rpk/bio/1747377
-- http://hasbeansmusic.com
-- https://www.indieonthemove.com/users/HasBeans
+  - 'https://www.reverbnation.com/rpk/bio/1747377'
+  - 'http://hasbeansmusic.com'
+  - 'https://www.indieonthemove.com/users/HasBeans'
 network_extracted: true
 entry_created: '2025-10-20T01:45:57.984440'
 last_updated: '2025-12-23T08:16:02.214531'
-origin: Lafayette, Louisiana, United States
+origin: 'Lafayette, Louisiana, United States'
+artist_type: band
 ---
 
 ![](Has_Beans.jpg)

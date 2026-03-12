@@ -1,14 +1,15 @@
 ---
-title: Dean Fraser, Ernie Ranglin, Big Youth
+title: 'Dean Fraser, Ernie Ranglin, Big Youth'
 wiki_slug: dean-fraser-ernie-ranglin-big-youth
 schema_version: 2
 status: active
 genres:
-- northern soul
-- doo-wop
+  - northern soul
+  - doo-wop
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/dean_fraser_ernie_ranglin_big_youth.jpg
-  caption: Dean Fraser, Ernie Ranglin, Big Youth
+  image: >-
+    03_Resources/source_material/ArtistPortraits/dean_fraser_ernie_ranglin_big_youth.jpg
+  caption: 'Dean Fraser, Ernie Ranglin, Big Youth'
   background: solo_singer
 audio_profile:
   tempo_avg: 117.6
@@ -17,7 +18,7 @@ audio_profile:
   danceability_avg: 0.553
   acousticness_avg: 0.781
   instrumentalness_avg: 0.001
-  loudness_avg: -8.0
+  loudness_avg: -8
   speechiness_avg: 0.04
   liveness_avg: 0.311
   track_count: 50
@@ -25,54 +26,67 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bob Marley
-  - Jimmy Cliff
-  - Dennis Brown
-  - Monty Alexander
-  - Sly & Robbie
-  - Tarrus Riley
-  - Luciano
+    - Bob Marley
+    - Jimmy Cliff
+    - Dennis Brown
+    - Monty Alexander
+    - Sly & Robbie
+    - Tarrus Riley
+    - Luciano
   influenced:
-  - Younger Jamaican musicians
+    - Younger Jamaican musicians
   mentors:
-  - Django Reinhardt
+    - Django Reinhardt
 spotify_data:
   followers: 79
   id: 5aPq2F35akIN4Q7JE12nk0
   popularity: 2
-  url: https://open.spotify.com/artist/5aPq2F35akIN4Q7JE12nk0
+  url: 'https://open.spotify.com/artist/5aPq2F35akIN4Q7JE12nk0'
 discography_enriched: true
 top_tracks:
-- Third Window from the Right (Sweet 'N' Salty Popcorn)
-- Come Back (Essential Soul Masters)
-- Don't Let Him Take My Baby (Essential Soul Masters)
-- Third Window from the Right (Northern Soul - The Soundtrack to Your Life)
-- Third Window From The Right (Northern Soul - Greatest Soul Lost & Found)
-- Yesterday's Kisses (Essential Soul Masters)
-- Third Window from the Right (I Love Northern Soul... Hook Line & Sinker)
-- Night Before Last (Doo-Wop Classics Vol. 9 (Beltone Records))
-- It's All In Your Mind ( I'm Not Cheatin' On You ) (The Warwick Records Story, Vol. 1)
-- Angel
+  - Third Window from the Right (Sweet 'N' Salty Popcorn)
+  - Come Back (Essential Soul Masters)
+  - Don't Let Him Take My Baby (Essential Soul Masters)
+  - Third Window from the Right (Northern Soul - The Soundtrack to Your Life)
+  - Third Window From The Right (Northern Soul - Greatest Soul Lost & Found)
+  - Yesterday's Kisses (Essential Soul Masters)
+  - Third Window from the Right (I Love Northern Soul... Hook Line & Sinker)
+  - Night Before Last (Doo-Wop Classics Vol. 9 (Beltone Records))
+  - >-
+    It's All In Your Mind ( I'm Not Cheatin' On You ) (The Warwick Records
+    Story, Vol. 1)
+  - Angel
 external_urls:
-  spotify: https://open.spotify.com/artist/5aPq2F35akIN4Q7JE12nk0
-  wikipedia: https://en.wikipedia.org/wiki/Dean_Fraser
-image_path: 03_Resources/source_material/ArtistPortraits/dean_fraser_ernie_ranglin_big_youth.jpg
+  spotify: 'https://open.spotify.com/artist/5aPq2F35akIN4Q7JE12nk0'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dean_Fraser'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/dean_fraser_ernie_ranglin_big_youth.jpg
 biography_enhanced_at: '2025-10-23T07:41:10.639157'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.riddimstyle.com/post/dean-fraser-ernie-ranglin-big-youth-de-ranglin
-- https://sflcn.com/ernie-ranglin-celebrate-90th-birthday-album-release-two-colors-dean-fraser-ernie-ranglin/
-- https://www.worldareggae.com/releases/new-tracks/de-ranglin-ernie-ranglin-dean-fraser-ft-big-youth/
-- https://wbssmedia.com/artists/detail/3957
-- https://jambands.com/reviews/2022/07/29/dean-fraser-ernie-ranglin-two-colors/
-- https://reggaefestivalguide.com/legendary-jamaican-instrumentalistsdean-fraser-ernie-ranglin/
-- https://reggaefestivalguide.com/new-single-from-dean-fraser-ernie-ranglin/
-- https://www.jamaicaobserver.com/2022/03/02/two-colors-for-ernie-dean/
+  - >-
+    https://www.riddimstyle.com/post/dean-fraser-ernie-ranglin-big-youth-de-ranglin
+  - >-
+    https://sflcn.com/ernie-ranglin-celebrate-90th-birthday-album-release-two-colors-dean-fraser-ernie-ranglin/
+  - >-
+    https://www.worldareggae.com/releases/new-tracks/de-ranglin-ernie-ranglin-dean-fraser-ft-big-youth/
+  - 'https://wbssmedia.com/artists/detail/3957'
+  - >-
+    https://jambands.com/reviews/2022/07/29/dean-fraser-ernie-ranglin-two-colors/
+  - >-
+    https://reggaefestivalguide.com/legendary-jamaican-instrumentalistsdean-fraser-ernie-ranglin/
+  - 'https://reggaefestivalguide.com/new-single-from-dean-fraser-ernie-ranglin/'
+  - 'https://www.jamaicaobserver.com/2022/03/02/two-colors-for-ernie-dean/'
 network_extracted: true
 entry_created: '2025-10-23T07:41:10.639169'
 last_updated: '2025-12-23T08:16:07.639468'
-origin: Kingston, Jamaica (Fraser); Manchester, Jamaica (Ranglin); Kingston, Jamaica (Big Youth)
+origin: >-
+  Kingston, Jamaica (Fraser); Manchester, Jamaica (Ranglin); Kingston, Jamaica
+  (Big Youth)
+birth_place: 'Kingston, Jamaica, United States'
+birth_date: '1957'
+artist_type: person
 ---
 
 ![](dean_fraser_ernie_ranglin_big_youth.jpg)

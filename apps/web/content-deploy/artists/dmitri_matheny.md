@@ -5,7 +5,7 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1965-12-25'
-birth_place: Nashville
+birth_place: 'Nashville, Tennessee, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/dmitri_matheny.jpg
@@ -28,58 +28,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dave Ellis
-  - Darrell Grant
-  - Bill Douglass
-  - John Heller
-  - Kenny Wollesen
-  - Rob Burger
+    - Dave Ellis
+    - Darrell Grant
+    - Bill Douglass
+    - John Heller
+    - Kenny Wollesen
+    - Rob Burger
   influenced: []
   mentors:
-  - Art Farmer
-  - Carmine Caruso
+    - Art Farmer
+    - Carmine Caruso
 spotify_data:
   followers: 614
   id: 5aY9FNNBDYF7VsJIVMtkjn
   popularity: 9
-  url: https://open.spotify.com/artist/5aY9FNNBDYF7VsJIVMtkjn
+  url: 'https://open.spotify.com/artist/5aY9FNNBDYF7VsJIVMtkjn'
 discography_enriched: true
 top_tracks:
-- Audrey's Dance (Jazz Noir)
-- The Long Goodbye (Jazz Noir)
-- Stormy Weather (Jazz Noir)
-- 'Noir Medley: Touch of Evil / Laura / Vertigo / Chinatown / Taxi Driver / Blues in the Night (Jazz Noir)'
-- Myth of the Rainy Night (Nocturne)
-- Here's Looking at You (Jazz Noir)
-- Estate (Jazz Noir)
-- Golden Lady (Jazz Noir)
-- Cascadia (Cascadia)
-- On a Misty Night (Cascadia)
+  - Audrey's Dance (Jazz Noir)
+  - The Long Goodbye (Jazz Noir)
+  - Stormy Weather (Jazz Noir)
+  - >-
+    Noir Medley: Touch of Evil / Laura / Vertigo / Chinatown / Taxi Driver /
+    Blues in the Night (Jazz Noir)
+  - Myth of the Rainy Night (Nocturne)
+  - Here's Looking at You (Jazz Noir)
+  - Estate (Jazz Noir)
+  - Golden Lady (Jazz Noir)
+  - Cascadia (Cascadia)
+  - On a Misty Night (Cascadia)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c5fb52ee-00c1-43bb-83b6-7bc52e379339
-  spotify: https://open.spotify.com/artist/5aY9FNNBDYF7VsJIVMtkjn
-  wikipedia: https://en.wikipedia.org/wiki/Dmitri_Matheny
+  musicbrainz: 'https://musicbrainz.org/artist/c5fb52ee-00c1-43bb-83b6-7bc52e379339'
+  spotify: 'https://open.spotify.com/artist/5aY9FNNBDYF7VsJIVMtkjn'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dmitri_Matheny'
 image_path: 03_Resources/source_material/ArtistPortraits/dmitri_matheny.jpg
 biography_enhanced_at: '2025-11-20T07:13:25.114698'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Dmitri_Matheny
-- https://dmitrimatheny.com
-- https://www.gigtown.com/artists/dmitri-matheny
-- https://dmitrimatheny.com/melodic-mastery
-- https://www.kuvo.org/news/artist-spotlight-dmitri-matheny-and-keith-oxman
-- https://dmitrimatheny.com/bio
-- https://artfarmer.org/dmitri-matheny/
-- https://www.allaboutjazz.com/take-five-with-dmitri-matheny-dmitri-matheny-by-dmitri-matheny
-- https://localnewsmatters.org/2019/03/27/qa-with-former-berkeley-based-jazz-musician-dmitri-matheny-back-for-two-bay-area-performances/
+  - 'https://en.wikipedia.org/wiki/Dmitri_Matheny'
+  - 'https://dmitrimatheny.com'
+  - 'https://www.gigtown.com/artists/dmitri-matheny'
+  - 'https://dmitrimatheny.com/melodic-mastery'
+  - 'https://www.kuvo.org/news/artist-spotlight-dmitri-matheny-and-keith-oxman'
+  - 'https://dmitrimatheny.com/bio'
+  - 'https://artfarmer.org/dmitri-matheny/'
+  - >-
+    https://www.allaboutjazz.com/take-five-with-dmitri-matheny-dmitri-matheny-by-dmitri-matheny
+  - >-
+    https://localnewsmatters.org/2019/03/27/qa-with-former-berkeley-based-jazz-musician-dmitri-matheny-back-for-two-bay-area-performances/
 network_extracted: true
 entry_created: '2025-11-20T07:13:25.114714'
 last_updated: '2025-12-23T08:16:07.824953'
 gender: Male
 musicbrainz_id: c5fb52ee-00c1-43bb-83b6-7bc52e379339
 tags:
-- post-bop
+  - post-bop
 ---
 
 ![](dmitri_matheny.jpg)

@@ -3,10 +3,10 @@ biography_enhanced_at: '2026-01-05T07:53:09.147379'
 enhancement_provider: perplexity
 entry_created: '2026-01-05T07:53:09.147386'
 external_urls:
-  spotify: https://open.spotify.com/artist/74immNKL4Q4mzhP2iKvuj1
+  spotify: 'https://open.spotify.com/artist/74immNKL4Q4mzhP2iKvuj1'
   wikipedia: Not found
 genres:
-- electroclash
+  - electroclash
 image_path: 03_Resources/source_material/ArtistPortraits/velvet_blue.jpg
 last_updated: '2026-01-05T07:53:09.147386'
 musical_connections:
@@ -14,18 +14,18 @@ musical_connections:
   influenced: []
   mentors: []
 network_extracted: true
-origin: Los Angeles, California, United States
+origin: 'Los Angeles, California, United States'
 primary_source: perplexity
 research_sources:
-- https://velvetblue.band/about-velvet-blue
+  - 'https://velvetblue.band/about-velvet-blue'
 spotify_data:
   followers: 2841
   id: 74immNKL4Q4mzhP2iKvuj1
   popularity: 30
-  url: https://open.spotify.com/artist/74immNKL4Q4mzhP2iKvuj1
+  url: 'https://open.spotify.com/artist/74immNKL4Q4mzhP2iKvuj1'
 status: active
-title: VELVET BLUE
-
+title: Velvet Blue
+artist_type: band
 ---
 
 ![](velvet_blue.jpg)

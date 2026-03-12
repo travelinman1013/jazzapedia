@@ -2,22 +2,22 @@
 title: World Saxophone Quartet
 wiki_slug: world-saxophone-quartet
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1977'
 genres:
-- free jazz
-- avant-garde
-- jazz
+  - free jazz
+  - avant-garde
+  - jazz
 instruments:
-- flute
-- original
-- soprano saxophone
-- alto saxophone
-- alto clarinet
-- baritone saxophone
-- bass clarinet
-- tenor saxophone
+  - flute
+  - original
+  - soprano saxophone
+  - alto saxophone
+  - alto clarinet
+  - baritone saxophone
+  - bass clarinet
+  - tenor saxophone
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/world_saxophone_quartet.jpg
   caption: World Saxophone Quartet
@@ -38,135 +38,136 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Julius Hemphill
-  - Oliver Lake
-  - Hamiet Bluiett
-  - David Murray
-  - Arthur Blythe
-  - John Purcell
-  - Anthony Braxton
+    - Julius Hemphill
+    - Oliver Lake
+    - Hamiet Bluiett
+    - David Murray
+    - Arthur Blythe
+    - John Purcell
+    - Anthony Braxton
   influenced:
-  - Post-bop and free jazz musicians
+    - Post-bop and free jazz musicians
   mentors:
-  - Ed Jordan
-  - John Carter
+    - Ed Jordan
+    - John Carter
 spotify_data:
   followers: 4226
   id: 2NI7w3QS6IRP4P5GCP3vPQ
   popularity: 8
-  url: https://open.spotify.com/artist/2NI7w3QS6IRP4P5GCP3vPQ
+  url: 'https://open.spotify.com/artist/2NI7w3QS6IRP4P5GCP3vPQ'
 discography_enriched: true
 top_tracks:
-- Cairo Blues (Breath Of Life)
-- Hal's Blues (Political Blues)
-- Amazin' Disgrace (Political Blues)
-- Political Blues (Political Blues)
-- When the Monarchs Come to Town (Takin' It 2 the Next Level)
-- The Holy Men (Metamorphosis)
-- Suffering with the Blues (Breath Of Life)
-- Steppin' (Steppin' With)
-- Mannish Boy (Political Blues)
-- Let's Have Some Fun (Political Blues)
+  - Cairo Blues (Breath Of Life)
+  - Hal's Blues (Political Blues)
+  - Amazin' Disgrace (Political Blues)
+  - Political Blues (Political Blues)
+  - When the Monarchs Come to Town (Takin' It 2 the Next Level)
+  - The Holy Men (Metamorphosis)
+  - Suffering with the Blues (Breath Of Life)
+  - Steppin' (Steppin' With)
+  - Mannish Boy (Political Blues)
+  - Let's Have Some Fun (Political Blues)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/211787f9-5b93-415a-8213-62e5df03be7b
-  spotify: https://open.spotify.com/artist/2NI7w3QS6IRP4P5GCP3vPQ
-  wikipedia: https://en.wikipedia.org/wiki/World_Saxophone_Quartet
+  musicbrainz: 'https://musicbrainz.org/artist/211787f9-5b93-415a-8213-62e5df03be7b'
+  spotify: 'https://open.spotify.com/artist/2NI7w3QS6IRP4P5GCP3vPQ'
+  wikipedia: 'https://en.wikipedia.org/wiki/World_Saxophone_Quartet'
 image_path: 03_Resources/source_material/ArtistPortraits/world_saxophone_quartet.jpg
 biography_enhanced_at: '2025-12-04T07:58:24.730186'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Summit Records - World Saxophone Quartet Biography
-- Encyclopedia.com - World Saxophone Quartet
-- Wikipedia - World Saxophone Quartet
-- All About Jazz - World Saxophone Quartet
-- MusicBrainz - World Saxophone Quartet
-- Walker Art Center - The World Saxophone Quartet Plays Hendrix
+  - Summit Records - World Saxophone Quartet Biography
+  - Encyclopedia.com - World Saxophone Quartet
+  - Wikipedia - World Saxophone Quartet
+  - All About Jazz - World Saxophone Quartet
+  - MusicBrainz - World Saxophone Quartet
+  - Walker Art Center - The World Saxophone Quartet Plays Hendrix
 network_extracted: true
 entry_created: '2025-12-04T07:58:24.730193'
 last_updated: '2025-12-23T08:16:18.304085'
 members:
-- begin: '1977'
-  end: '1991'
-  instruments:
-  - flute
-  - original
-  mbid: 31fe325f-2553-4863-8a4a-5ddc0013e5a9
-  name: Julius Hemphill
-- begin: '1977'
-  end: '1991'
-  instruments:
-  - original
-  - soprano saxophone
-  mbid: 31fe325f-2553-4863-8a4a-5ddc0013e5a9
-  name: Julius Hemphill
-- begin: '1977'
-  end: '1991'
-  instruments:
-  - alto saxophone
-  - original
-  mbid: 31fe325f-2553-4863-8a4a-5ddc0013e5a9
-  name: Julius Hemphill
-- begin: '1977'
-  end: '2016'
-  instruments:
-  - alto clarinet
-  - original
-  mbid: f2995617-71f9-419a-8460-00e0f17221c9
-  name: Hamiet Bluiett
-- begin: '1977'
-  end: '2016'
-  instruments:
-  - baritone saxophone
-  - original
-  mbid: f2995617-71f9-419a-8460-00e0f17221c9
-  name: Hamiet Bluiett
-- begin: '1977'
-  end: '2016'
-  instruments:
-  - original
-  - soprano saxophone
-  mbid: e58cdacf-c655-4848-a570-7d3f3fb11935
-  name: Oliver Lake
-- begin: '1977'
-  end: '2016'
-  instruments:
-  - alto saxophone
-  - original
-  mbid: e58cdacf-c655-4848-a570-7d3f3fb11935
-  name: Oliver Lake
-- begin: '1977'
-  end: '2016'
-  instruments:
-  - bass clarinet
-  - original
-  mbid: 89380b6c-0961-44ad-a7fe-f9115d840aac
-  name: David Murray
-- begin: '1977'
-  end: '2016'
-  instruments:
-  - original
-  - tenor saxophone
-  mbid: 89380b6c-0961-44ad-a7fe-f9115d840aac
-  name: David Murray
-- &id001
-  begin: '1991'
-  end: ''
-  instruments: []
-  mbid: 91652f18-ce2d-40e1-b6ab-07179a82fb12
-  name: Arthur Blythe
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d7dfd39c-c5fd-4c16-b7ec-6b59db246899
-  name: James Spaulding
+  - begin: '1977'
+    end: '1991'
+    instruments:
+      - flute
+      - original
+    mbid: 31fe325f-2553-4863-8a4a-5ddc0013e5a9
+    name: Julius Hemphill
+  - begin: '1977'
+    end: '1991'
+    instruments:
+      - original
+      - soprano saxophone
+    mbid: 31fe325f-2553-4863-8a4a-5ddc0013e5a9
+    name: Julius Hemphill
+  - begin: '1977'
+    end: '1991'
+    instruments:
+      - alto saxophone
+      - original
+    mbid: 31fe325f-2553-4863-8a4a-5ddc0013e5a9
+    name: Julius Hemphill
+  - begin: '1977'
+    end: '2016'
+    instruments:
+      - alto clarinet
+      - original
+    mbid: f2995617-71f9-419a-8460-00e0f17221c9
+    name: Hamiet Bluiett
+  - begin: '1977'
+    end: '2016'
+    instruments:
+      - baritone saxophone
+      - original
+    mbid: f2995617-71f9-419a-8460-00e0f17221c9
+    name: Hamiet Bluiett
+  - begin: '1977'
+    end: '2016'
+    instruments:
+      - original
+      - soprano saxophone
+    mbid: e58cdacf-c655-4848-a570-7d3f3fb11935
+    name: Oliver Lake
+  - begin: '1977'
+    end: '2016'
+    instruments:
+      - alto saxophone
+      - original
+    mbid: e58cdacf-c655-4848-a570-7d3f3fb11935
+    name: Oliver Lake
+  - begin: '1977'
+    end: '2016'
+    instruments:
+      - bass clarinet
+      - original
+    mbid: 89380b6c-0961-44ad-a7fe-f9115d840aac
+    name: David Murray
+  - begin: '1977'
+    end: '2016'
+    instruments:
+      - original
+      - tenor saxophone
+    mbid: 89380b6c-0961-44ad-a7fe-f9115d840aac
+    name: David Murray
+  - &ref_0
+    begin: '1991'
+    end: ''
+    instruments: []
+    mbid: 91652f18-ce2d-40e1-b6ab-07179a82fb12
+    name: Arthur Blythe
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d7dfd39c-c5fd-4c16-b7ec-6b59db246899
+    name: James Spaulding
 musicbrainz_id: 211787f9-5b93-415a-8213-62e5df03be7b
-origin: New Orleans, Louisiana, United States (formation location); St. Louis, Missouri, United States (origin of three original
-  members)
+origin: >-
+  New Orleans, Louisiana, United States (formation location); St. Louis,
+  Missouri, United States (origin of three original members)
 original_members:
-- *id001
+  - *ref_0
 tags:
-- jazz
+  - jazz
 ---
 
 ![](world_saxophone_quartet.jpg)

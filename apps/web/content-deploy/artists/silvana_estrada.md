@@ -2,47 +2,48 @@
 artist_type: person
 biography_enhanced_at: '2026-01-13T01:17:48.455817'
 birth_date: '1997-04-15'
-birth_place: Xalapa
+birth_place: 'Coatepec, Veracruz, Mexico'
 enhancement_provider: perplexity
 entry_created: '2026-01-13T01:17:48.455824'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d306c4dc-f9c9-4ec6-aa74-2e2a7210537f
-  spotify: https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7
-  wikipedia: https://en.wikipedia.org/wiki/Silvana_Estrada
+  musicbrainz: 'https://musicbrainz.org/artist/d306c4dc-f9c9-4ec6-aa74-2e2a7210537f'
+  spotify: 'https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7'
+  wikipedia: 'https://en.wikipedia.org/wiki/Silvana_Estrada'
 gender: Female
 genres:
-- latin folk
-- mexican indie
-- latin indie
+  - latin folk
+  - mexican indie
+  - latin indie
 image_path: 03_Resources/source_material/ArtistPortraits/silvana_estrada.jpg
 last_updated: '2026-01-13T01:17:48.455825'
 musical_connections:
   collaborators:
-  - Natalia Lafourcade
-  - Mon Laferte
-  - Julieta Venegas
-  - Jorge Drexler
-  - Silvia Pérez Cruz
-  - Carter McLean
-  - Gustavo Guerrero
+    - Natalia Lafourcade
+    - Mon Laferte
+    - Julieta Venegas
+    - Jorge Drexler
+    - Silvia Pérez Cruz
+    - Carter McLean
+    - Gustavo Guerrero
   influenced: []
   mentors:
-  - Charlie Hunter
+    - Charlie Hunter
 musicbrainz_id: d306c4dc-f9c9-4ec6-aa74-2e2a7210537f
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Silvana_Estrada
-- https://arizonaartslive.com/silvana-estrada
-- https://www.laphil.com/musicdb/artists/8358/silvana-estrada
-- https://atwoodmagazine.com/seps-silvana-estrada-interview-2020/
-- https://www.famousbirthdays.com/people/silvana-estrada.html
-- https://magazine.uncg.edu/newsfront/rising-mexican-star-silvana-estrada-wows-uncg-audience/
+  - 'https://en.wikipedia.org/wiki/Silvana_Estrada'
+  - 'https://arizonaartslive.com/silvana-estrada'
+  - 'https://www.laphil.com/musicdb/artists/8358/silvana-estrada'
+  - 'https://atwoodmagazine.com/seps-silvana-estrada-interview-2020/'
+  - 'https://www.famousbirthdays.com/people/silvana-estrada.html'
+  - >-
+    https://magazine.uncg.edu/newsfront/rising-mexican-star-silvana-estrada-wows-uncg-audience/
 spotify_data:
   followers: 502104
   id: 72VywtXEoONiBLNu3ibGI7
   popularity: 64
-  url: https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7
+  url: 'https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7'
 status: active
 title: Silvana Estrada
 ---

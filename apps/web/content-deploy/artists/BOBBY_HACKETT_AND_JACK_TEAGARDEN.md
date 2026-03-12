@@ -1,15 +1,18 @@
 ---
-title: BOBBY HACKETT AND JACK TEAGARDEN
+title: Bobby Hackett and Jack Teagarden
 wiki_slug: bobby-hackett-and-jack-teagarden
 schema_version: 2
 status: active
-birth_place: Providence, Rhode Island, United States (Hackett); Vernon, Texas, United States (Teagarden)
+birth_place: 'Providence, Rhode Island, United States'
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/BOBBY_HACKETT_AND_JACK_TEAGARDEN.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/BOBBY_HACKETT_AND_JACK_TEAGARDEN.jpg
   caption: BOBBY HACKETT AND JACK TEAGARDEN
   background: solo_singer
-  origin: Providence, Rhode Island, United States (Hackett); Vernon, Texas, United States (Teagarden)
+  origin: >-
+    Providence, Rhode Island, United States (Hackett); Vernon, Texas, United
+    States (Teagarden)
 audio_profile:
   tempo_avg: 109.5
   energy_avg: 0.316
@@ -25,43 +28,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jack Teagarden
-  - Benny Goodman
-  - Louis Armstrong
-  - Jackie Gleason
+    - Jack Teagarden
+    - Benny Goodman
+    - Louis Armstrong
+    - Jackie Gleason
   influenced:
-  - Vic Dickenson
-  - Dave McKenna
+    - Vic Dickenson
+    - Dave McKenna
   mentors:
-  - Louis Armstrong
-  - Miff Mole
+    - Louis Armstrong
+    - Miff Mole
 spotify_data:
   followers: 119
   id: 1gPRKzFcZkAtA29lu8VoCH
   popularity: 11
-  url: https://open.spotify.com/artist/1gPRKzFcZkAtA29lu8VoCH
+  url: 'https://open.spotify.com/artist/1gPRKzFcZkAtA29lu8VoCH'
 discography_enriched: true
 top_tracks:
-- Jeepers Creepers (Father Of Jazz Trombone)
-- I'm Comin' Virginia (Father Of Jazz Trombone)
+  - Jeepers Creepers (Father Of Jazz Trombone)
+  - I'm Comin' Virginia (Father Of Jazz Trombone)
 external_urls:
-  spotify: https://open.spotify.com/artist/1gPRKzFcZkAtA29lu8VoCH
-  wikipedia: https://en.wikipedia.org/wiki/Jack_Teagarden
+  spotify: 'https://open.spotify.com/artist/1gPRKzFcZkAtA29lu8VoCH'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jack_Teagarden'
 image_path: ''
 biography_enhanced_at: '2025-10-20T01:55:42.417137'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.jazzhistorydatabase.com/neja/bobby-hackett.php
-- https://en.wikipedia.org/wiki/Jack_Teagarden
-- https://syncopatedtimes.com/bobby-hackett-profiles-in-jazz/
-- https://syncopatedtimes.com/jack-teagarden-profiles-in-jazz/
-- https://jazzlives.wordpress.com/2008/05/02/bobby-hackett-and-jack-teagarden/
-- https://en.wikipedia.org/wiki/Bobby_Hackett
-- https://www.allaboutjazz.com/musicians/bobby-hackett/
+  - 'https://www.jazzhistorydatabase.com/neja/bobby-hackett.php'
+  - 'https://en.wikipedia.org/wiki/Jack_Teagarden'
+  - 'https://syncopatedtimes.com/bobby-hackett-profiles-in-jazz/'
+  - 'https://syncopatedtimes.com/jack-teagarden-profiles-in-jazz/'
+  - 'https://jazzlives.wordpress.com/2008/05/02/bobby-hackett-and-jack-teagarden/'
+  - 'https://en.wikipedia.org/wiki/Bobby_Hackett'
+  - 'https://www.allaboutjazz.com/musicians/bobby-hackett/'
 network_extracted: true
 entry_created: '2025-10-20T01:55:42.417153'
 last_updated: '2025-12-23T08:16:01.120284'
+birth_date: '1915'
+artist_type: person
 ---
 
 ![]()

@@ -1,38 +1,43 @@
 ---
 biography_enhanced_at: '2025-12-26T01:17:22.790843'
-birth_place: Columbus, OH, USA
+birth_place: 'Columbus, Ohio, United States'
 enhancement_provider: perplexity
 entry_created: '2025-12-26T01:17:22.790857'
 external_urls:
-  spotify: https://open.spotify.com/artist/3Yy0SgreOuYqSYba0nCBvg
+  spotify: 'https://open.spotify.com/artist/3Yy0SgreOuYqSYba0nCBvg'
   wikipedia: ''
 genres: []
-image_path: 03_Resources/source_material/ArtistPortraits/john_sheridan_jim_cullum_jazz_band.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/john_sheridan_jim_cullum_jazz_band.jpg
 last_updated: '2025-12-26T01:17:22.790859'
 musical_connections:
   collaborators:
-  - Jim Cullum Jazz Band
-  - Rebecca Kilgore
-  - Banu Gibson
-  - Allan Vaché
+    - Jim Cullum Jazz Band
+    - Rebecca Kilgore
+    - Banu Gibson
+    - Allan Vaché
   influenced: []
   mentors:
-  - Tommy Loy
+    - Tommy Loy
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://syncopatedtimes.com/r-i-p-john-sheridan-master-musician-and-arranger/
-- https://www.tshaonline.org/handbook/entries/jim-cullum-jazz-band
-- https://jazzonthetube.com/video/remembering-john-sheridan/
-- https://music.apple.com/us/artist/john-sheridan/62460634
-- https://www.allmusic.com/artist/john-sheridan-mn0000237575
+  - >-
+    https://syncopatedtimes.com/r-i-p-john-sheridan-master-musician-and-arranger/
+  - 'https://www.tshaonline.org/handbook/entries/jim-cullum-jazz-band'
+  - 'https://jazzonthetube.com/video/remembering-john-sheridan/'
+  - 'https://music.apple.com/us/artist/john-sheridan/62460634'
+  - 'https://www.allmusic.com/artist/john-sheridan-mn0000237575'
 spotify_data:
   followers: 88
   id: 3Yy0SgreOuYqSYba0nCBvg
   popularity: 3
-  url: https://open.spotify.com/artist/3Yy0SgreOuYqSYba0nCBvg
+  url: 'https://open.spotify.com/artist/3Yy0SgreOuYqSYba0nCBvg'
 status: active
-title: John Sheridan, Jim Cullum Jazz Band
+title: 'John Sheridan, Jim Cullum Jazz Band'
+birth_date: '1946'
+death_date: '2021'
+artist_type: person
 ---
 
 ![](john_sheridan_jim_cullum_jazz_band.jpg)

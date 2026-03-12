@@ -3,16 +3,16 @@ title: Robert Glasper/ Norah Jones
 wiki_slug: robert-glasper-norah-jones
 schema_version: 2
 status: active
-birth_place: Houston, Texas, United States; New York City, New York, United States
+birth_place: 'Houston, Texas, United States; New York City, New York, United States'
 genres:
-- jazz rap
-- neo soul
-- nu jazz
+  - jazz rap
+  - neo soul
+  - nu jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/robert_glasper_norah_jones.jpg
   caption: Robert Glasper/ Norah Jones
   background: solo_singer
-  origin: Houston, Texas, United States; New York City, New York, United States
+  origin: 'Houston, Texas, United States; New York City, New York, United States'
 audio_profile:
   tempo_avg: 108.4
   energy_avg: 0.532
@@ -28,50 +28,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Norah Jones
-  - Erykah Badu
-  - Lupe Fiasco
-  - Billie Joe Armstrong
-  - Ryan Adams
-  - Danger Mouse
+    - Norah Jones
+    - Erykah Badu
+    - Lupe Fiasco
+    - Billie Joe Armstrong
+    - Ryan Adams
+    - Danger Mouse
   influenced:
-  - Various neo-soul and jazz artists
-  - Young jazz vocalists
+    - Various neo-soul and jazz artists
+    - Young jazz vocalists
   mentors:
-  - Q-Tip
-  - Herbie Hancock
+    - Q-Tip
+    - Herbie Hancock
 spotify_data:
   followers: 509901
   id: 5cM1PvItlR21WUyBnsdMcn
   popularity: 58
-  url: https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn
+  url: 'https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn'
 discography_enriched: true
 top_tracks:
-- 'From My Heart And My Soul (feat. Tarriona Tank Ball & Phoelix) (Dinner Party: Dessert)'
-- Freeze Tag (feat. Phoelix) (Dinner Party)
-- 'Melt Session #1 [Feat. Robert Glasper] (Melt My Eyez See Your Future)'
-- Afro Blue (Black Radio)
-- Sleepless Nights (feat. Phoelix) (Dinner Party)
-- From My Heart and My Soul (feat. Phoelix) (Dinner Party)
-- Over [Feat. Yebba] (Black Radio III)
-- CALL ME INSTEAD (feat. Youngboy Never Broke Again & Robert Glasper) (THE FIRST TIME)
-- 'Love You Bad (feat. Malaya & Phoelix) (Dinner Party: Dessert)'
-- Still Wonder (Marigold)
+  - >-
+    From My Heart And My Soul (feat. Tarriona Tank Ball & Phoelix) (Dinner
+    Party: Dessert)
+  - Freeze Tag (feat. Phoelix) (Dinner Party)
+  - 'Melt Session #1 [Feat. Robert Glasper] (Melt My Eyez See Your Future)'
+  - Afro Blue (Black Radio)
+  - Sleepless Nights (feat. Phoelix) (Dinner Party)
+  - From My Heart and My Soul (feat. Phoelix) (Dinner Party)
+  - 'Over [Feat. Yebba] (Black Radio III)'
+  - >-
+    CALL ME INSTEAD (feat. Youngboy Never Broke Again & Robert Glasper) (THE
+    FIRST TIME)
+  - 'Love You Bad (feat. Malaya & Phoelix) (Dinner Party: Dessert)'
+  - Still Wonder (Marigold)
 external_urls:
-  spotify: https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn
-  wikipedia: https://en.wikipedia.org/wiki/Robert_Glasper, https://en.wikipedia.org/wiki/Norah_Jones
+  spotify: 'https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn'
+  wikipedia: >-
+    https://en.wikipedia.org/wiki/Robert_Glasper,
+    https://en.wikipedia.org/wiki/Norah_Jones
 image_path: 03_Resources/source_material/ArtistPortraits/robert_glasper_norah_jones.jpg
 biography_enhanced_at: '2025-11-20T07:36:31.476807'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Robert_Glasper
-- https://en.wikipedia.org/wiki/Norah_Jones
-- https://www.bluenote.com/artist/robert-glasper/
-- https://www.norahjonesisplayingalong.com/robert-glasper
+  - 'https://en.wikipedia.org/wiki/Robert_Glasper'
+  - 'https://en.wikipedia.org/wiki/Norah_Jones'
+  - 'https://www.bluenote.com/artist/robert-glasper/'
+  - 'https://www.norahjonesisplayingalong.com/robert-glasper'
 network_extracted: true
 entry_created: '2025-11-20T07:36:31.476816'
 last_updated: '2025-12-23T08:16:14.892980'
+birth_date: '1978-04-05'
+artist_type: person
 ---
 
 ![](robert_glasper_norah_jones.jpg)

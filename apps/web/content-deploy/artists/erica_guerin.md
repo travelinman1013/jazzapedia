@@ -4,11 +4,11 @@ wiki_slug: erica-guerin
 schema_version: 2
 artist_type: person
 status: active
-birth_place: Baton Rouge
+birth_place: 'Baton Rouge, Louisiana, United States'
 death_date: '2007-05-31'
 genres:
-- blues
-- blues rock
+  - blues
+  - blues rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/erica_guerin.jpg
   caption: Erica Guerin
@@ -30,49 +30,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kenny Neal
-  - Bob Greenlee
+    - Kenny Neal
+    - Bob Greenlee
   influenced:
-  - Patti Parks
+    - Patti Parks
   mentors:
-  - Kenny Neal
-  - Bob Greenlee
+    - Kenny Neal
+    - Bob Greenlee
 spotify_data:
   followers: 46
   id: 3hTQhzCntuuHe1cfaOBECz
   popularity: 0
-  url: https://open.spotify.com/artist/3hTQhzCntuuHe1cfaOBECz
+  url: 'https://open.spotify.com/artist/3hTQhzCntuuHe1cfaOBECz'
 discography_enriched: true
 top_tracks:
-- Get Real (Get Real)
-- Sticking To My Guns (Harpbeat of the Swamp)
-- You Can't Drive Me Away (Get Real)
-- That's How It Will Be (Get Real)
-- Uneasy Street (Get Real)
-- Take Away Your Trash (Get Real)
-- Last To Know (Get Real)
-- Mama, He Treats Your Daughter Mean (Get Real)
-- What I'd Do To Get Your Love Back (Get Real)
-- Something You Got (Get Real)
+  - Get Real (Get Real)
+  - Sticking To My Guns (Harpbeat of the Swamp)
+  - You Can't Drive Me Away (Get Real)
+  - That's How It Will Be (Get Real)
+  - Uneasy Street (Get Real)
+  - Take Away Your Trash (Get Real)
+  - Last To Know (Get Real)
+  - 'Mama, He Treats Your Daughter Mean (Get Real)'
+  - What I'd Do To Get Your Love Back (Get Real)
+  - Something You Got (Get Real)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c8bbf966-32c0-4657-93b6-520da33f0fd1
-  spotify: https://open.spotify.com/artist/3hTQhzCntuuHe1cfaOBECz
+  musicbrainz: 'https://musicbrainz.org/artist/c8bbf966-32c0-4657-93b6-520da33f0fd1'
+  spotify: 'https://open.spotify.com/artist/3hTQhzCntuuHe1cfaOBECz'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/erica_guerin.jpg
 biography_enhanced_at: '2025-11-26T07:54:06.868670'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.americanbluesscene.com/2021/06/kenny-neal-brings-patti-parks-into-a-whole-nother-world/
-- https://www.last.fm/music/Erica+Guerin/+wiki
-- https://www.last.fm/music/Erica+Guerin
+  - >-
+    https://www.americanbluesscene.com/2021/06/kenny-neal-brings-patti-parks-into-a-whole-nother-world/
+  - 'https://www.last.fm/music/Erica+Guerin/+wiki'
+  - 'https://www.last.fm/music/Erica+Guerin'
 network_extracted: true
 entry_created: '2025-11-26T07:54:06.868677'
 last_updated: '2025-12-23T08:16:08.425757'
 gender: Female
 musicbrainz_id: c8bbf966-32c0-4657-93b6-520da33f0fd1
 tags:
-- blues
+  - blues
+is_active: false
+origin: 'Baton Rouge, Louisiana, United States'
 ---
 
 ![](erica_guerin.jpg)

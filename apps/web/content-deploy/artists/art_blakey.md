@@ -5,103 +5,103 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1919-10-11'
-birth_place: Pittsburgh
+birth_place: 'Pittsburgh, Pennsylvania, United States'
 death_date: '1990-10-16'
 genres:
-- hard bop
-- jazz
-- bebop
-- cool jazz
+  - hard bop
+  - jazz
+  - bebop
+  - cool jazz
 instruments:
-- drums (drum set)
-- eponymous
-- piano
-- spoken vocals
+  - drums (drum set)
+  - eponymous
+  - piano
+  - spoken vocals
 associated_acts:
-- begin: 1957-12
-  end: 1957-12
-  instruments:
-  - drums (drum set)
-  - eponymous
-  mbid: 93ea2964-cb0b-43f0-a36b-80eccc235dc3
-  name: Art Blakey Big Band
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  - eponymous
-  mbid: 209ddf15-ee0a-41a1-a1f5-6f4c0409d2ee
-  name: Art Blakey & The Jazz Messengers
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  - eponymous
-  mbid: 627024b1-5504-406c-ac2c-dfaebf403cd9
-  name: Art Blakey Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: a71e581b-f2d3-4504-bb96-6b7a2daf8c6e
-  name: The Art Blakey Percussion Ensemble
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  - eponymous
-  mbid: 9294b1df-e64f-466b-aa81-b109ffb5cac0
-  name: The Art Blakey Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 8609c022-37b1-4673-8b93-9421a71bbfe7
-  name: Art Blakey & The Afro-Drum Ensemble
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 51fe321e-5ad0-4dd1-a5c3-3e773688cdf8
-  name: Thelonious Monk Septet
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 813a50c1-a378-42ec-8f52-fc3e3115fa23
-  name: Buddy DeFranco Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 2062dc34-8ca1-4ff7-b30c-d99a068f6466
-  name: Fats Navarro Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: bec3f2e3-da8f-4f2c-9256-56c6f89d173d
-  name: Hank Mobley Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 80523b2a-16a3-49b9-8dcf-2cbcea8837fa
-  name: Gigi Gryce Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 03606dee-b333-48fe-b9af-d671c837d40f
-  name: Miles Davis Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 75927448-84fe-48cf-a99e-6430d2aae453
-  name: The Giants of Jazz
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 55920730-831f-431f-80f7-539a2bf83f98
-  name: Miles Davis and His Band
+  - begin: 1957-12
+    end: 1957-12
+    instruments:
+      - drums (drum set)
+      - eponymous
+    mbid: 93ea2964-cb0b-43f0-a36b-80eccc235dc3
+    name: Art Blakey Big Band
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+      - eponymous
+    mbid: 209ddf15-ee0a-41a1-a1f5-6f4c0409d2ee
+    name: Art Blakey & The Jazz Messengers
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+      - eponymous
+    mbid: 627024b1-5504-406c-ac2c-dfaebf403cd9
+    name: Art Blakey Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: a71e581b-f2d3-4504-bb96-6b7a2daf8c6e
+    name: The Art Blakey Percussion Ensemble
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+      - eponymous
+    mbid: 9294b1df-e64f-466b-aa81-b109ffb5cac0
+    name: The Art Blakey Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 8609c022-37b1-4673-8b93-9421a71bbfe7
+    name: Art Blakey & The Afro-Drum Ensemble
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 51fe321e-5ad0-4dd1-a5c3-3e773688cdf8
+    name: Thelonious Monk Septet
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 813a50c1-a378-42ec-8f52-fc3e3115fa23
+    name: Buddy DeFranco Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 2062dc34-8ca1-4ff7-b30c-d99a068f6466
+    name: Fats Navarro Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: bec3f2e3-da8f-4f2c-9256-56c6f89d173d
+    name: Hank Mobley Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 80523b2a-16a3-49b9-8dcf-2cbcea8837fa
+    name: Gigi Gryce Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 03606dee-b333-48fe-b9af-d671c837d40f
+    name: Miles Davis Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 75927448-84fe-48cf-a99e-6430d2aae453
+    name: The Giants of Jazz
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 55920730-831f-431f-80f7-539a2bf83f98
+    name: Miles Davis and His Band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/art_blakey.jpg
   caption: Art Blakey
@@ -124,61 +124,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Horace Silver
-  - Billy Eckstine
-  - Thelonious Monk
-  - Dizzy Gillespie
-  - Charlie Parker
+    - Horace Silver
+    - Billy Eckstine
+    - Thelonious Monk
+    - Dizzy Gillespie
+    - Charlie Parker
   influenced:
-  - Wayne Shorter
-  - Freddie Hubbard
-  - Lee Morgan
-  - Wynton Marsalis
-  - Keith Jarrett
-  - Terence Blanchard
+    - Wayne Shorter
+    - Freddie Hubbard
+    - Lee Morgan
+    - Wynton Marsalis
+    - Keith Jarrett
+    - Terence Blanchard
   mentors:
-  - Chick Webb
-  - Sid Catlett
+    - Chick Webb
+    - Sid Catlett
 spotify_data:
   followers: 258895
   id: 6ykfXAed2KOLOMI3R0TZdz
   popularity: 46
-  url: https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz
+  url: 'https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz'
 discography_enriched: true
 top_tracks:
-- Moanin' (Moanin' (Expanded Edition))
-- Along Came Betty (Moanin' (Expanded Edition))
-- Moanin'
-- Hipsippy Blues (Just Coolin')
-- Quick Trick (Just Coolin')
-- Dat Dere - Remastered 2005 (The Big Beat (The Rudy Van Gelder Edition))
-- Come Rain Or Come Shine (Moanin' (Expanded Edition))
-- Are You Real (Moanin' (Expanded Edition))
-- Blues March (Moanin' (Expanded Edition))
-- A Night In Tunisia - Remastered 2005 (A Night In Tunisia (Remaster))
+  - Moanin' (Moanin' (Expanded Edition))
+  - Along Came Betty (Moanin' (Expanded Edition))
+  - Moanin'
+  - Hipsippy Blues (Just Coolin')
+  - Quick Trick (Just Coolin')
+  - Dat Dere - Remastered 2005 (The Big Beat (The Rudy Van Gelder Edition))
+  - Come Rain Or Come Shine (Moanin' (Expanded Edition))
+  - Are You Real (Moanin' (Expanded Edition))
+  - Blues March (Moanin' (Expanded Edition))
+  - A Night In Tunisia - Remastered 2005 (A Night In Tunisia (Remaster))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/601e7466-eaf5-4a91-9909-ffd770b7e04a
-  spotify: https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz
-  wikipedia: https://en.wikipedia.org/wiki/Art_Blakey
+  musicbrainz: 'https://musicbrainz.org/artist/601e7466-eaf5-4a91-9909-ffd770b7e04a'
+  spotify: 'https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz'
+  wikipedia: 'https://en.wikipedia.org/wiki/Art_Blakey'
 image_path: 03_Resources/source_material/ArtistPortraits/art_blakey.jpg
 biography_enhanced_at: '2025-10-25T09:50:37.636891'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Britannica
-- Wikipedia
-- Smithsonian National Museum of African American History and Culture
-- uDiscoverMusic
-- Hill History
+  - Britannica
+  - Wikipedia
+  - Smithsonian National Museum of African American History and Culture
+  - uDiscoverMusic
+  - Hill History
 network_extracted: true
 entry_created: '2025-10-25T09:50:37.636903'
 last_updated: '2025-12-23T08:16:04.931152'
 gender: Male
 musicbrainz_id: 601e7466-eaf5-4a91-9909-ffd770b7e04a
 tags:
-- 2008 universal fire victim
-- afro-cuban jazz
-- afro-jazz
+  - 2008 universal fire victim
+  - afro-cuban jazz
+  - afro-jazz
+is_active: false
 ---
 
 ![](art_blakey.jpg)

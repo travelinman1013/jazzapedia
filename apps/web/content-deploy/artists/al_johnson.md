@@ -1,42 +1,46 @@
 ---
 biography_enhanced_at: '2026-01-07T01:17:23.137073'
-birth_place: Sredniki, Russian Empire (now Seredžius, Lithuania)
+birth_place: 'Sredniki, Russian Empire (now Seredžius, Lithuania)'
 enhancement_provider: perplexity
 entry_created: '2026-01-07T01:17:23.137079'
 external_urls:
-  spotify: https://open.spotify.com/artist/4FkXsXGJUTP1J32k3ZYiOA
-  wikipedia: https://en.wikipedia.org/wiki/Al_Jolson
+  spotify: 'https://open.spotify.com/artist/4FkXsXGJUTP1J32k3ZYiOA'
+  wikipedia: 'https://en.wikipedia.org/wiki/Al_Jolson'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/al_johnson.jpg
 last_updated: '2026-01-07T01:17:23.137080'
 musical_connections:
   collaborators:
-  - George Gershwin
-  - Irving Berlin
-  - Oscar Levant
+    - George Gershwin
+    - Irving Berlin
+    - Oscar Levant
   influenced:
-  - Sammy Davis Jr.
-  - Elvis Presley
-  - Mick Jagger
+    - Sammy Davis Jr.
+    - Elvis Presley
+    - Mick Jagger
   mentors:
-  - Lew Dockstader
-  - Harry Akst
+    - Lew Dockstader
+    - Harry Akst
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Al_Jolson
-- https://www.musicals101.com/jolsonbio.htm
-- https://www.imdb.com/name/nm0427231/bio/
-- https://www.visitstaugustine.com/musician/al-johnson
-- https://www.last.fm/music/Al+Johnson/+wiki
-- https://robertgreenbergmusic.com/music-history-monday-al-jolson-and-the-painful-legacy-of-blackface/
+  - 'https://en.wikipedia.org/wiki/Al_Jolson'
+  - 'https://www.musicals101.com/jolsonbio.htm'
+  - 'https://www.imdb.com/name/nm0427231/bio/'
+  - 'https://www.visitstaugustine.com/musician/al-johnson'
+  - 'https://www.last.fm/music/Al+Johnson/+wiki'
+  - >-
+    https://robertgreenbergmusic.com/music-history-monday-al-jolson-and-the-painful-legacy-of-blackface/
 spotify_data:
   followers: 7656
   id: 4FkXsXGJUTP1J32k3ZYiOA
   popularity: 26
-  url: https://open.spotify.com/artist/4FkXsXGJUTP1J32k3ZYiOA
+  url: 'https://open.spotify.com/artist/4FkXsXGJUTP1J32k3ZYiOA'
 status: active
 title: Al Johnson
+birth_date: '1886-05-26'
+death_date: '1950-10-23'
+artist_type: person
 ---
 
 ![](al_johnson.jpg)

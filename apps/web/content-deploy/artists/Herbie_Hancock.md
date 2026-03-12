@@ -2,27 +2,27 @@
 title: Herbie Hancock
 wiki_slug: herbie-hancock
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1940-04-12'
-birth_place: Chicago, Illinois, United States
+birth_place: 'Chicago, Illinois, United States'
 genres:
-- jazz
-- jazz fusion
-- jazz funk
-- hard bop
-- cool jazz
+  - jazz
+  - jazz fusion
+  - jazz funk
+  - hard bop
+  - cool jazz
 instruments:
-- piano
-- eponymous
-- original
-- keyboard
+  - piano
+  - eponymous
+  - original
+  - keyboard
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Herbie_Hancock.jpg
   caption: Herbie Hancock
   background: non_vocal_instrumentalist
   born: '1940-04-12'
-  origin: Chicago, Illinois, United States
+  origin: 'Chicago, Illinois, United States'
 audio_profile:
   tempo_avg: 114.5
   energy_avg: 0.505
@@ -38,61 +38,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Wayne Shorter
-  - Ron Carter
-  - Tony Williams
-  - Bennie Maupin
-  - Bill Laswell
+    - Wayne Shorter
+    - Ron Carter
+    - Tony Williams
+    - Bennie Maupin
+    - Bill Laswell
   influenced:
-  - Chick Corea
-  - Robert Glasper
-  - US3
-  - Numerous hip-hop and electronic artists
+    - Chick Corea
+    - Robert Glasper
+    - US3
+    - Numerous hip-hop and electronic artists
   mentors:
-  - Donald Byrd
-  - Miles Davis
-  - Oscar Peterson and Bill Evans
+    - Donald Byrd
+    - Miles Davis
+    - Oscar Peterson and Bill Evans
 spotify_data:
   followers: 784472
   id: 2ZvrvbQNrHKwjT7qfGFFUW
   popularity: 54
-  url: https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW
+  url: 'https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW'
 discography_enriched: true
 top_tracks:
-- Cantaloupe Island - Remastered 1999/Rudy Van Gelder Edition (Empyrean Isles (Expanded Edition))
-- Watermelon Man (Head Hunters)
-- Watermelon Man - Remastered 2007 (Takin' Off (Expanded Edition))
-- Chameleon (Head Hunters)
-- Rockit (Future Shock)
-- Tell Me a Bedtime Story (Fat Albert Rotunda)
-- Maiden Voyage (Maiden Voyage)
-- Alone And I - Remastered 2007 (Takin' Off (Expanded Edition))
-- Stitched Up (feat. John Mayer) (Possibilities)
-- Doin' It (Secrets)
+  - >-
+    Cantaloupe Island - Remastered 1999/Rudy Van Gelder Edition (Empyrean Isles
+    (Expanded Edition))
+  - Watermelon Man (Head Hunters)
+  - Watermelon Man - Remastered 2007 (Takin' Off (Expanded Edition))
+  - Chameleon (Head Hunters)
+  - Rockit (Future Shock)
+  - Tell Me a Bedtime Story (Fat Albert Rotunda)
+  - Maiden Voyage (Maiden Voyage)
+  - Alone And I - Remastered 2007 (Takin' Off (Expanded Edition))
+  - Stitched Up (feat. John Mayer) (Possibilities)
+  - Doin' It (Secrets)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/27613b78-1b9d-4ec3-9db5-fa0743465fdd
-  spotify: https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW
-  wikipedia: https://en.wikipedia.org/wiki/Herbie_Hancock
+  musicbrainz: 'https://musicbrainz.org/artist/27613b78-1b9d-4ec3-9db5-fa0743465fdd'
+  spotify: 'https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW'
+  wikipedia: 'https://en.wikipedia.org/wiki/Herbie_Hancock'
 image_path: 03_Resources/source_material/ArtistPortraits/Herbie_Hancock.jpg
 biography_enhanced_at: '2025-10-21T06:34:34.806612'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Herbie_Hancock
-- https://www.arts.gov/honors/jazz/herbie-hancock
-- https://www.bluenote.com/artist/herbie-hancock/
-- https://hancockinstitute.org/meet/herbie-hancock/
+  - 'https://en.wikipedia.org/wiki/Herbie_Hancock'
+  - 'https://www.arts.gov/honors/jazz/herbie-hancock'
+  - 'https://www.bluenote.com/artist/herbie-hancock/'
+  - 'https://hancockinstitute.org/meet/herbie-hancock/'
 network_extracted: true
 entry_created: '2025-10-21T06:34:34.806622'
 last_updated: '2025-12-23T08:16:02.246914'
-disambiguation: US jazz pianist, keyboardist, bandleader and composer
+disambiguation: 'US jazz pianist, keyboardist, bandleader and composer'
 gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:29:15.810468'
 musicbrainz_id: 27613b78-1b9d-4ec3-9db5-fa0743465fdd
 tags:
-- american
-- classical
-- electro
+  - american
+  - classical
+  - electro
 ---
 
 ![](Herbie_Hancock.jpg)

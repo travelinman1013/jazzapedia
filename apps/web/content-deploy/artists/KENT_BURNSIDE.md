@@ -1,19 +1,19 @@
 ---
-title: KENT BURNSIDE
+title: Kent Burnside
 wiki_slug: kent-burnside
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1972-06-10'
-birth_place: Memphis, Tennessee (birthplace); Holly Springs, Mississippi, USA (origin)
+birth_place: 'Memphis, Tennessee (birthplace); Holly Springs, Mississippi, USA (origin)'
 genres:
-- modern blues
+  - modern blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/KENT_BURNSIDE.jpg
   caption: KENT BURNSIDE
   background: solo_singer
   born: '1972-06-10'
-  origin: Memphis, Tennessee (birthplace); Holly Springs, Mississippi, USA (origin)
+  origin: 'Memphis, Tennessee (birthplace); Holly Springs, Mississippi, USA (origin)'
 audio_profile:
   tempo_avg: 142.3
   energy_avg: 0.698
@@ -29,57 +29,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jimbo Mathus
-  - Buddy Guy
-  - Garry Burnside
-  - Jake Best
-  - Damian Pearson
-  - Dan Aykroyd
-  - Samuel L. Jackson
+    - Jimbo Mathus
+    - Buddy Guy
+    - Garry Burnside
+    - Jake Best
+    - Damian Pearson
+    - Dan Aykroyd
+    - Samuel L. Jackson
   influenced:
-  - The Flood Brothers
-  - The New Savages
+    - The Flood Brothers
+    - The New Savages
   mentors:
-  - R.L. Burnside
+    - R.L. Burnside
 spotify_data:
   followers: 564
   id: 5g2jjlHTwwUmwdafXNQ3LF
   popularity: 12
-  url: https://open.spotify.com/artist/5g2jjlHTwwUmwdafXNQ3LF
+  url: 'https://open.spotify.com/artist/5g2jjlHTwwUmwdafXNQ3LF'
 discography_enriched: true
 top_tracks:
-- Daddy Told Me (Kent Burnside and the Flood Brothers)
-- Can't Stop Me (Kent Burnside and the Flood Brothers)
-- Daddy Told Me (Daddy Told Me)
-- I Go Crazy (I Go Crazy)
-- I'm in Love (Kent Burnside and the Flood Brothers)
-- Catfish Blues (Kent Burnside and the Flood Brothers)
-- Last Night (Kent Burnside and the Flood Brothers)
-- Liar Cheater (Kent Burnside and the Flood Brothers)
-- Hangin' Around (Kent Burnside and the Flood Brothers)
-- Be Your Man (Kent Burnside and the Flood Brothers)
+  - Daddy Told Me (Kent Burnside and the Flood Brothers)
+  - Can't Stop Me (Kent Burnside and the Flood Brothers)
+  - Daddy Told Me (Daddy Told Me)
+  - I Go Crazy (I Go Crazy)
+  - I'm in Love (Kent Burnside and the Flood Brothers)
+  - Catfish Blues (Kent Burnside and the Flood Brothers)
+  - Last Night (Kent Burnside and the Flood Brothers)
+  - Liar Cheater (Kent Burnside and the Flood Brothers)
+  - Hangin' Around (Kent Burnside and the Flood Brothers)
+  - Be Your Man (Kent Burnside and the Flood Brothers)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/639fd118-a8a0-4e99-b9dd-81f0fab95839
-  spotify: https://open.spotify.com/artist/5g2jjlHTwwUmwdafXNQ3LF
+  musicbrainz: 'https://musicbrainz.org/artist/639fd118-a8a0-4e99-b9dd-81f0fab95839'
+  spotify: 'https://open.spotify.com/artist/5g2jjlHTwwUmwdafXNQ3LF'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/KENT_BURNSIDE.jpg
 biography_enhanced_at: '2025-10-19T10:57:18.339190'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.thebigeasyblues.com/kent-burnside-was-born-into-the-blues-he-grew-up-in-the-north-mississippi-hill-country-and-is-the-eldest-grandson-of-blues-legend-r-l-burnside/
-- https://www.jazzdock.cz/en/koncert/duwayne-burnside-band-blues-alive-tour-2025
-- https://www.road-dawg.com/kent-burnside
-- https://www.makingascene.org/kent-burnside-hill-country-blood/
-- https://tickets.knuckleheadskc.com/eventperformances.asp?evt=1237
-- https://www.kentburnsidemusic.com
+  - >-
+    https://www.thebigeasyblues.com/kent-burnside-was-born-into-the-blues-he-grew-up-in-the-north-mississippi-hill-country-and-is-the-eldest-grandson-of-blues-legend-r-l-burnside/
+  - >-
+    https://www.jazzdock.cz/en/koncert/duwayne-burnside-band-blues-alive-tour-2025
+  - 'https://www.road-dawg.com/kent-burnside'
+  - 'https://www.makingascene.org/kent-burnside-hill-country-blood/'
+  - 'https://tickets.knuckleheadskc.com/eventperformances.asp?evt=1237'
+  - 'https://www.kentburnsidemusic.com'
 network_extracted: true
 entry_created: '2025-10-19T10:57:18.339200'
 last_updated: '2025-12-23T08:16:02.776077'
 gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:33:11.068639'
 musicbrainz_id: 639fd118-a8a0-4e99-b9dd-81f0fab95839
-
+origin: 'Holly Springs, Mississippi, United States'
 ---
 
 ![](KENT_BURNSIDE.jpg)

@@ -1,44 +1,47 @@
 ---
 biography_enhanced_at: '2026-01-06T02:13:26.755511'
-birth_place: Crown Heights, Brooklyn, New York, USA
+birth_place: 'Crown Heights, Brooklyn, New York, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-06T02:13:26.755518'
 external_urls:
-  spotify: https://open.spotify.com/artist/0CpTjiY3prMIFqfgNbOORc
-  wikipedia: https://en.wikipedia.org/wiki/DJ_Spinna
+  spotify: 'https://open.spotify.com/artist/0CpTjiY3prMIFqfgNbOORc'
+  wikipedia: 'https://en.wikipedia.org/wiki/DJ_Spinna'
 genres:
-- acid jazz
-- nu jazz
+  - acid jazz
+  - nu jazz
 image_path: 03_Resources/source_material/ArtistPortraits/soulive_dj_spinna.jpg
 last_updated: '2026-01-06T02:13:26.755519'
 musical_connections:
   collaborators:
-  - The Jigmastas
-  - Eminem
-  - Rich Medina
-  - Bobbito Garcia
+    - The Jigmastas
+    - Eminem
+    - Rich Medina
+    - Bobbito Garcia
   influenced:
-  - Global DJs and producers
+    - Global DJs and producers
   mentors:
-  - Stevie Wonder
+    - Stevie Wonder
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/DJ_Spinna
-- http://trueskool.com/page/dj-spinna-biography
-- https://www.djspinna.com/about
-- https://bbemusic.com/artist/dj-spinna
-- https://www.bkmag.com/2025/09/26/dj-spinna-spinnafest-interview/
-- https://www.amsterdam-dance-event.nl/en/artists-speakers/dj-spinna/4677/
-- https://www.deepershades.net/interviews/interview-with-dj-spinna-wonderwax-bbe-wonder-full.html
-- https://www.passionweiss.com/2016/07/18/my-role-as-a-dj-is-as-a-conduit-an-interview-with-dj-spinna/
+  - 'https://en.wikipedia.org/wiki/DJ_Spinna'
+  - 'http://trueskool.com/page/dj-spinna-biography'
+  - 'https://www.djspinna.com/about'
+  - 'https://bbemusic.com/artist/dj-spinna'
+  - 'https://www.bkmag.com/2025/09/26/dj-spinna-spinnafest-interview/'
+  - 'https://www.amsterdam-dance-event.nl/en/artists-speakers/dj-spinna/4677/'
+  - >-
+    https://www.deepershades.net/interviews/interview-with-dj-spinna-wonderwax-bbe-wonder-full.html
+  - >-
+    https://www.passionweiss.com/2016/07/18/my-role-as-a-dj-is-as-a-conduit-an-interview-with-dj-spinna/
 spotify_data:
   followers: 1623
   id: 0CpTjiY3prMIFqfgNbOORc
   popularity: 23
-  url: https://open.spotify.com/artist/0CpTjiY3prMIFqfgNbOORc
+  url: 'https://open.spotify.com/artist/0CpTjiY3prMIFqfgNbOORc'
 status: active
 title: Soulive/ DJ Spinna
+artist_type: person
 ---
 
 ![](soulive_dj_spinna.jpg)

@@ -1,16 +1,16 @@
 ---
-title: vera hall
+title: Vera Hall
 wiki_slug: vera-hall
 schema_version: 2
 status: active
-birth_place: Payneville (near Livingston), Sumter County, Alabama, USA
+birth_place: 'Payneville (near Livingston), Sumter County, Alabama, USA'
 genres:
-- country blues
+  - country blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/vera_hall.jpg
   caption: vera hall
   background: solo_singer
-  origin: Payneville (near Livingston), Sumter County, Alabama, USA
+  origin: 'Payneville (near Livingston), Sumter County, Alabama, USA'
 audio_profile:
   tempo_avg: 114.4
   energy_avg: 0.097
@@ -26,49 +26,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John Avery Lomax
-  - Alan Lomax
-  - Byron Arnold
-  - Dock Reed
+    - John Avery Lomax
+    - Alan Lomax
+    - Byron Arnold
+    - Dock Reed
   influenced:
-  - Moby (Richard Melville Hall)
-  - Folk and blues revivalists
+    - Moby (Richard Melville Hall)
+    - Folk and blues revivalists
   mentors:
-  - Efron 'Zully' Hall and Agnes Hall
+    - Efron 'Zully' Hall and Agnes Hall
 spotify_data:
   followers: 7090
   id: 49eX3G25C39izly6yWdvoN
   popularity: 8
-  url: https://open.spotify.com/artist/49eX3G25C39izly6yWdvoN
+  url: 'https://open.spotify.com/artist/49eX3G25C39izly6yWdvoN'
 discography_enriched: true
 top_tracks:
-- Trouble So Hard (Sounds Of The South)
-- 'Another Man Done Gone (Deep River Of Song: Alabama, "From Lullabies To Blues" - The Alan Lomax Collection)'
-- Death, Have Mercy (Sounds Of The South)
-- Boll Weevil Holler (Sounds Of The South)
-- 'Mama''s Goin'' To Buy Him a Little Lap Dog (Negro Folk Music of Alabama, Vol. 1: Secular Music)'
-- The Wild Ox Moan (Sounds Of The South)
-- 'Free at Last (Negro Folk Music of Alabama, Vol. 2: Religious Music)'
-- 'Black Woman (Wild Ox Moan) (I''ll Meet You On That Other Shore: Alan Lomax’s "Southern Journey," 1959–1960)'
-- 'I Been Drinking (Deep River Of Song: Alabama, "From Lullabies To Blues" - The Alan Lomax Collection)'
-- 'Riding In A Buggy (Wave the Ocean, Wave the Sea: Alan Lomax''s "Southern Journey," 1959–1960)'
+  - Trouble So Hard (Sounds Of The South)
+  - >-
+    Another Man Done Gone (Deep River Of Song: Alabama, "From Lullabies To
+    Blues" - The Alan Lomax Collection)
+  - 'Death, Have Mercy (Sounds Of The South)'
+  - Boll Weevil Holler (Sounds Of The South)
+  - >-
+    Mama's Goin' To Buy Him a Little Lap Dog (Negro Folk Music of Alabama, Vol.
+    1: Secular Music)
+  - The Wild Ox Moan (Sounds Of The South)
+  - 'Free at Last (Negro Folk Music of Alabama, Vol. 2: Religious Music)'
+  - >-
+    Black Woman (Wild Ox Moan) (I'll Meet You On That Other Shore: Alan Lomax’s
+    "Southern Journey," 1959–1960)
+  - >-
+    I Been Drinking (Deep River Of Song: Alabama, "From Lullabies To Blues" -
+    The Alan Lomax Collection)
+  - >-
+    Riding In A Buggy (Wave the Ocean, Wave the Sea: Alan Lomax's "Southern
+    Journey," 1959–1960)
 external_urls:
-  spotify: https://open.spotify.com/artist/49eX3G25C39izly6yWdvoN
-  wikipedia: https://en.wikipedia.org/wiki/Vera_Hall
+  spotify: 'https://open.spotify.com/artist/49eX3G25C39izly6yWdvoN'
+  wikipedia: 'https://en.wikipedia.org/wiki/Vera_Hall'
 image_path: 03_Resources/source_material/ArtistPortraits/vera_hall.jpg
 biography_enhanced_at: '2025-10-19T10:51:52.695173'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.allaboutjazz.com/musicians/vera-hall/
-- https://archive.culturalequity.org/person/hall-vera-ward?page=1
-- https://aaregistry.org/story/vera-hall-folk-singer-born/
-- https://en.wikipedia.org/wiki/Vera_Hall
-- https://encyclopediaofalabama.org/article/adele-vera-hall/
-- https://www.awhf.org/hall.html
+  - 'https://www.allaboutjazz.com/musicians/vera-hall/'
+  - 'https://archive.culturalequity.org/person/hall-vera-ward?page=1'
+  - 'https://aaregistry.org/story/vera-hall-folk-singer-born/'
+  - 'https://en.wikipedia.org/wiki/Vera_Hall'
+  - 'https://encyclopediaofalabama.org/article/adele-vera-hall/'
+  - 'https://www.awhf.org/hall.html'
 network_extracted: true
 entry_created: '2025-10-19T10:51:52.695178'
 last_updated: '2025-12-23T08:16:17.829027'
+birth_date: '1902-04-06'
+artist_type: person
 ---
 
 ![](vera_hall.jpg)

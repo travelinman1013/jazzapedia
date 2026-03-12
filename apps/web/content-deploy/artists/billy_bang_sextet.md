@@ -5,149 +5,150 @@ disambiguation: Jazz group
 enhancement_provider: perplexity
 entry_created: '2026-01-16T01:39:15.025519'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9d0469ff-5fb7-4dd3-91f9-5d8e3734f981
-  spotify: https://open.spotify.com/artist/6uSeUiUJ2sZcfRTog168qU
-  wikipedia: https://en.wikipedia.org/wiki/Billy_Bang
+  musicbrainz: 'https://musicbrainz.org/artist/9d0469ff-5fb7-4dd3-91f9-5d8e3734f981'
+  spotify: 'https://open.spotify.com/artist/6uSeUiUJ2sZcfRTog168qU'
+  wikipedia: 'https://en.wikipedia.org/wiki/Billy_Bang'
 genres:
-- free jazz
-- hard bop
+  - free jazz
+  - hard bop
 image_path: 03_Resources/source_material/ArtistPortraits/billy_bang_sextet.jpg
 instruments:
-- trumpet
-- eponymous
-- original
-- violin
-- marimba
-- percussion
-- cowbell
-- drums (drum set)
-- piano
-- cornet
-- bass
-- guitar
-- alto saxophone
-is_active: true
-last_updated: '2026-01-16T01:39:15.025520'
-members:
-- begin: ''
-  end: ''
-  instruments:
   - trumpet
-  mbid: fe5c306b-c4e0-4338-9a7c-d74e3b8bf015
-  name: Ahmed Abdullah
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
   - violin
-  mbid: b176b128-3a6f-442c-9e04-b3bdc83e32bf
-  name: Billy Bang
-- begin: ''
-  end: ''
-  instruments:
   - marimba
   - percussion
-  mbid: 5e41a108-ee4b-443d-83db-de0eb09b9e79
-  name: Thurman Barker
-- begin: ''
-  end: ''
-  instruments:
   - cowbell
   - drums (drum set)
-  mbid: fbb2d857-43a3-41fa-b78d-798f1cd66750
-  name: John Betsch
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: f3de3ad1-6851-4eeb-9e2b-d5bf4e1c8b69
-  name: Roy Campbell
-- begin: ''
-  end: ''
-  instruments:
   - piano
-  mbid: 114dacbf-e965-4dcd-9c34-c2e8afc48324
-  name: Curtis Clark
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 8603b59b-6354-412a-9db8-9fa7e142ea88
-  name: Zen Matsuura
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: a478c780-f183-4de5-b654-2051d20f20f6
-  name: Steve McCall
-- begin: ''
-  end: ''
-  instruments:
   - cornet
-  mbid: 4c9542b3-8567-4fb3-97bc-deab79b159c3
-  name: Lawrence D. “Butch” Morris
-- begin: ''
-  end: ''
-  instruments:
   - bass
-  mbid: c6f9002d-d061-4dee-9a35-a3a72a77ae22
-  name: Wilber Morris
-- begin: ''
-  end: ''
-  instruments:
-  - bass
-  mbid: 884c61a3-01f5-467f-a859-ad8417b79909
-  name: William Parker
-- begin: ''
-  end: ''
-  instruments:
   - guitar
-  mbid: bc24e4f0-0091-4852-bb7c-e0e4ccc0dbc9
-  name: Oscar Sanders
-- begin: ''
-  end: ''
-  instruments:
   - alto saxophone
-  mbid: 6c8ad903-f36f-41fb-9578-108143a7bbf5
-  name: Luther Thomas
+is_active: true
+last_updated: '2026-01-16T01:39:15.025520'
+members:
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: fe5c306b-c4e0-4338-9a7c-d74e3b8bf015
+    name: Ahmed Abdullah
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - violin
+    mbid: b176b128-3a6f-442c-9e04-b3bdc83e32bf
+    name: Billy Bang
+  - begin: ''
+    end: ''
+    instruments:
+      - marimba
+      - percussion
+    mbid: 5e41a108-ee4b-443d-83db-de0eb09b9e79
+    name: Thurman Barker
+  - begin: ''
+    end: ''
+    instruments:
+      - cowbell
+      - drums (drum set)
+    mbid: fbb2d857-43a3-41fa-b78d-798f1cd66750
+    name: John Betsch
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: f3de3ad1-6851-4eeb-9e2b-d5bf4e1c8b69
+    name: Roy Campbell
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: 114dacbf-e965-4dcd-9c34-c2e8afc48324
+    name: Curtis Clark
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 8603b59b-6354-412a-9db8-9fa7e142ea88
+    name: Zen Matsuura
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: a478c780-f183-4de5-b654-2051d20f20f6
+    name: Steve McCall
+  - begin: ''
+    end: ''
+    instruments:
+      - cornet
+    mbid: 4c9542b3-8567-4fb3-97bc-deab79b159c3
+    name: Lawrence D. “Butch” Morris
+  - begin: ''
+    end: ''
+    instruments:
+      - bass
+    mbid: c6f9002d-d061-4dee-9a35-a3a72a77ae22
+    name: Wilber Morris
+  - begin: ''
+    end: ''
+    instruments:
+      - bass
+    mbid: 884c61a3-01f5-467f-a859-ad8417b79909
+    name: William Parker
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: bc24e4f0-0091-4852-bb7c-e0e4ccc0dbc9
+    name: Oscar Sanders
+  - begin: ''
+    end: ''
+    instruments:
+      - alto saxophone
+    mbid: 6c8ad903-f36f-41fb-9578-108143a7bbf5
+    name: Luther Thomas
 musical_connections:
   collaborators:
-  - James Emery
-  - John Lindberg
-  - Frank Lowe
-  - David Murray
-  - William Parker
-  - Sun Ra
-  - Joe Fonda
-  - Barry Altschul
+    - James Emery
+    - John Lindberg
+    - Frank Lowe
+    - David Murray
+    - William Parker
+    - Sun Ra
+    - Joe Fonda
+    - Barry Altschul
   influenced:
-  - Bemkey
+    - Bemkey
   mentors:
-  - Leroy Jenkins
-  - James Jacson
-  - Ornette Coleman
+    - Leroy Jenkins
+    - James Jacson
+    - Ornette Coleman
 musicbrainz_id: 9d0469ff-5fb7-4dd3-91f9-5d8e3734f981
 network_extracted: true
-origin: Mobile, Alabama, U.S.
+origin: 'Bronx, New York City, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Billy_Bang
-- https://vva.org/arts-of-war/music/bill-bang-1947-2011/
-- https://www.tumrecords.com/018-musicians
-- https://jazztimes.com/features/profiles/billy-bang-separate-peace/
-- https://daily.bandcamp.com/lists/billy-bang-jazz-violinist-interview
-- https://tomhull.com/ocston/arch/vv/bang-05.php
-- https://lizwarnerprojects.com/billy-bang/
+  - 'https://en.wikipedia.org/wiki/Billy_Bang'
+  - 'https://vva.org/arts-of-war/music/bill-bang-1947-2011/'
+  - 'https://www.tumrecords.com/018-musicians'
+  - 'https://jazztimes.com/features/profiles/billy-bang-separate-peace/'
+  - 'https://daily.bandcamp.com/lists/billy-bang-jazz-violinist-interview'
+  - 'https://tomhull.com/ocston/arch/vv/bang-05.php'
+  - 'https://lizwarnerprojects.com/billy-bang/'
 spotify_data:
   followers: 240
   id: 6uSeUiUJ2sZcfRTog168qU
   popularity: 1
-  url: https://open.spotify.com/artist/6uSeUiUJ2sZcfRTog168qU
+  url: 'https://open.spotify.com/artist/6uSeUiUJ2sZcfRTog168qU'
 status: active
 tags:
-- jazz
+  - jazz
 title: Billy Bang Sextet
+birth_place: 'Mobile, Alabama, United States'
 ---
 
 ![](billy_bang_sextet.jpg)

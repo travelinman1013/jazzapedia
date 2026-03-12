@@ -1,10 +1,10 @@
 ---
-title: chicken dinner road
+title: Chicken Dinner Road
 wiki_slug: chicken-dinner-road
 schema_version: 2
 status: active
 genres:
-- bluegrass
+  - bluegrass
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/chicken_dinner_road.jpg
   caption: chicken dinner road
@@ -24,40 +24,43 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Gary Eller
+    - Gary Eller
   influenced: []
   mentors: []
 spotify_data:
   followers: 121
   id: 21gzR2EopRFungjnsacgSP
   popularity: 0
-  url: https://open.spotify.com/artist/21gzR2EopRFungjnsacgSP
+  url: 'https://open.spotify.com/artist/21gzR2EopRFungjnsacgSP'
 discography_enriched: true
 top_tracks:
-- Mr. Campbell (CDR, Vol. One)
-- Helpless (CDR, Vol. One)
-- Day By Day (CDR, Vol. One)
-- Boise River (CDR, Vol. One)
-- Broken Down (CDR, Vol. One)
-- Kylie's Waltz (CDR, Vol. One)
-- Roadkill Quizine (CDR, Vol. One)
-- Off the Beaten Path (Off the Beaten Path)
-- Fog (Off the Beaten Path)
-- Chicken Fingers (Off the Beaten Path)
+  - 'Mr. Campbell (CDR, Vol. One)'
+  - 'Helpless (CDR, Vol. One)'
+  - 'Day By Day (CDR, Vol. One)'
+  - 'Boise River (CDR, Vol. One)'
+  - 'Broken Down (CDR, Vol. One)'
+  - 'Kylie''s Waltz (CDR, Vol. One)'
+  - 'Roadkill Quizine (CDR, Vol. One)'
+  - Off the Beaten Path (Off the Beaten Path)
+  - Fog (Off the Beaten Path)
+  - Chicken Fingers (Off the Beaten Path)
 external_urls:
-  spotify: https://open.spotify.com/artist/21gzR2EopRFungjnsacgSP
+  spotify: 'https://open.spotify.com/artist/21gzR2EopRFungjnsacgSP'
   wikipedia: Not found
 image_path: 03_Resources/source_material/ArtistPortraits/chicken_dinner_road.jpg
 biography_enhanced_at: '2025-12-04T08:13:15.885019'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Idaho Gazette - Gary Eller, Beyond Chicken Dinner Road
-- Mix 106 Radio - A Street Named Chicken Dinner Road
+  - 'Idaho Gazette - Gary Eller, Beyond Chicken Dinner Road'
+  - Mix 106 Radio - A Street Named Chicken Dinner Road
 network_extracted: true
 entry_created: '2025-12-04T08:13:15.885033'
 last_updated: '2025-12-23T08:16:06.823974'
-origin: Caldwell, Idaho, United States (band origin/name source); West Virginia, United States (key member origin)
+origin: >-
+  Caldwell, Idaho, United States (band origin/name source); West Virginia,
+  United States (key member origin)
+artist_type: band
 ---
 
 ![](chicken_dinner_road.jpg)

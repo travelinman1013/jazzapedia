@@ -3,14 +3,14 @@ title: Brian Briggs
 wiki_slug: brian-briggs
 schema_version: 2
 status: active
-birth_place: Oxford, Oxfordshire, England, UK
+birth_place: 'Oxford, Oxfordshire, England, UK'
 genres:
-- rock urbano
+  - rock urbano
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/brian_briggs.jpg
   caption: Brian Briggs
   background: solo_singer
-  origin: Oxford, Oxfordshire, England, UK
+  origin: 'Oxford, Oxfordshire, England, UK'
 audio_profile:
   tempo_avg: 135.3
   energy_avg: 0.593
@@ -18,7 +18,7 @@ audio_profile:
   danceability_avg: 0.655
   acousticness_avg: 0.127
   instrumentalness_avg: 0.442
-  loudness_avg: -17.0
+  loudness_avg: -17
   speechiness_avg: 0.047
   liveness_avg: 0.146
   track_count: 50
@@ -26,47 +26,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jon Ouin
-  - Oli Steadman
-  - Rob Steadman
-  - Charlotte (multi-instrumentalist)
+    - Jon Ouin
+    - Oli Steadman
+    - Rob Steadman
+    - Charlotte (multi-instrumentalist)
   influenced:
-  - Emerging UK indie-folk artists
+    - Emerging UK indie-folk artists
   mentors:
-  - Derek Briggs
+    - Derek Briggs
 spotify_data:
   followers: 1020
   id: 1JLFJST81DIhMDKS9Cs5sr
   popularity: 16
-  url: https://open.spotify.com/artist/1JLFJST81DIhMDKS9Cs5sr
+  url: 'https://open.spotify.com/artist/1JLFJST81DIhMDKS9Cs5sr'
 discography_enriched: true
 top_tracks:
-- Look Around the Corner (Combat Zone)
-- Aeo 1 (Brian Damage)
-- Aeo 2 (Brian Damage)
-- See You on the Other Side (Brian Damage)
-- Lookin' Out (Brian Damage)
-- Aeo 1 (Concentration Mix)
-- Aeo 2
-- Spy vs. Spy (Brian Damage)
-- Spy Vs. Spy (Eighties)
-- Lookin’ Out (Soft Rock for Relaxing)
+  - Look Around the Corner (Combat Zone)
+  - Aeo 1 (Brian Damage)
+  - Aeo 2 (Brian Damage)
+  - See You on the Other Side (Brian Damage)
+  - Lookin' Out (Brian Damage)
+  - Aeo 1 (Concentration Mix)
+  - Aeo 2
+  - Spy vs. Spy (Brian Damage)
+  - Spy Vs. Spy (Eighties)
+  - Lookin’ Out (Soft Rock for Relaxing)
 external_urls:
-  spotify: https://open.spotify.com/artist/1JLFJST81DIhMDKS9Cs5sr
-  wikipedia: https://en.wikipedia.org/wiki/Stornoway_(band)
+  spotify: 'https://open.spotify.com/artist/1JLFJST81DIhMDKS9Cs5sr'
+  wikipedia: 'https://en.wikipedia.org/wiki/Stornoway_(band)'
 image_path: 03_Resources/source_material/ArtistPortraits/brian_briggs.jpg
 biography_enhanced_at: '2025-10-26T12:38:44.196511'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.alumni.ox.ac.uk/article/alumni-stories-the-excitement-i-get-from-nature-is-why-the-outdoors-finds-its-way-into-every
-- https://www.oxmag.co.uk/articles/ox-meets-dr-brian-briggs/
-- https://en.wikipedia.org/wiki/Stornoway_(band)
-- https://www.the-independent.com/arts-entertainment/music/features/stornoway-s-frontman-brian-briggs-on-the-band-s-new-album-bonxie-and-birds-10217423.html
-- https://www.wwt.org.uk/news-and-stories/blog/from-recording-albums-to-recording-butterfly-numbers-wwts-senior-reserve-warden-brian-briggs-reveals-all
+  - >-
+    https://www.alumni.ox.ac.uk/article/alumni-stories-the-excitement-i-get-from-nature-is-why-the-outdoors-finds-its-way-into-every
+  - 'https://www.oxmag.co.uk/articles/ox-meets-dr-brian-briggs/'
+  - 'https://en.wikipedia.org/wiki/Stornoway_(band)'
+  - >-
+    https://www.the-independent.com/arts-entertainment/music/features/stornoway-s-frontman-brian-briggs-on-the-band-s-new-album-bonxie-and-birds-10217423.html
+  - >-
+    https://www.wwt.org.uk/news-and-stories/blog/from-recording-albums-to-recording-butterfly-numbers-wwts-senior-reserve-warden-brian-briggs-reveals-all
 network_extracted: true
 entry_created: '2025-10-26T12:38:44.196522'
 last_updated: '2025-12-23T08:16:06.080399'
+artist_type: person
 ---
 
 ![](brian_briggs.jpg)

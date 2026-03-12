@@ -1,15 +1,15 @@
 ---
-title: the pine hill haints
+title: The Pine Hill Haints
 wiki_slug: the-pine-hill-haints
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1998'
 genres:
-- gothic country
-- alt country
-- bluegrass
-- americana
+  - gothic country
+  - alt country
+  - bluegrass
+  - americana
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_pine_hill_haints.jpg
   caption: the pine hill haints
@@ -30,82 +30,85 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Matt Bakula
-  - Katie 'Kat' Barrier
-  - Ben Rhyne
-  - Calvin Johnson
+    - Matt Bakula
+    - Katie 'Kat' Barrier
+    - Ben Rhyne
+    - Calvin Johnson
   influenced:
-  - Contemporary Roots/Americana Musicians
+    - Contemporary Roots/Americana Musicians
   mentors:
-  - Jamie's Grandfather
-  - Carter Family
+    - Jamie's Grandfather
+    - Carter Family
 spotify_data:
   followers: 6935
   id: 7mZErmrAcZQTrk9oswrhqA
   popularity: 14
-  url: https://open.spotify.com/artist/7mZErmrAcZQTrk9oswrhqA
+  url: 'https://open.spotify.com/artist/7mZErmrAcZQTrk9oswrhqA'
 discography_enriched: true
 top_tracks:
-- Drinking With the Prince
-- Walkin Talkin Deadman (Ghost Dance)
-- Rattle Them Bones (The Magik Sounds of The Pine Hill Haints)
-- Honky Tonk All Night and Dance With You (Shattered Pieces of the True Cross)
-- Ki Yi Woopi Ti Yay (Shattered Pieces of the True Cross)
-- Svengoolia (Shattered Pieces of the True Cross)
-- Spirit of 1812 (Ghost Dance)
-- Loser
-- Riverside Diner Blues (Shattered Pieces of the True Cross)
-- Poor Me (Shattered Pieces of the True Cross)
+  - Drinking With the Prince
+  - Walkin Talkin Deadman (Ghost Dance)
+  - Rattle Them Bones (The Magik Sounds of The Pine Hill Haints)
+  - Honky Tonk All Night and Dance With You (Shattered Pieces of the True Cross)
+  - Ki Yi Woopi Ti Yay (Shattered Pieces of the True Cross)
+  - Svengoolia (Shattered Pieces of the True Cross)
+  - Spirit of 1812 (Ghost Dance)
+  - Loser
+  - Riverside Diner Blues (Shattered Pieces of the True Cross)
+  - Poor Me (Shattered Pieces of the True Cross)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8da83088-c481-4f12-ad9d-8a698ec459f9
-  spotify: https://open.spotify.com/artist/7mZErmrAcZQTrk9oswrhqA
-  wikipedia: https://en.wikipedia.org/wiki/The_Pine_Hill_Haints
+  musicbrainz: 'https://musicbrainz.org/artist/8da83088-c481-4f12-ad9d-8a698ec459f9'
+  spotify: 'https://open.spotify.com/artist/7mZErmrAcZQTrk9oswrhqA'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Pine_Hill_Haints'
 image_path: 03_Resources/source_material/ArtistPortraits/the_pine_hill_haints.jpg
 biography_enhanced_at: '2025-10-30T11:49:34.386688'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.rocky-52.net/chanteursp/pine_hill_haints.htm
-- https://www.singlelock.com/haints
-- https://charlestoncitypaper.com/2010/02/03/pine-hill-haints-will-rattle-the-rafters/
-- https://americanahighways.org/2021/05/11/interview-jamie-barrier-of-pine-hill-haints/
-- http://madepaper.squarespace.com/music/2014/5/15/the-pine-hill-haints-who-they-are-and-what-they-aint
-- https://en.wikipedia.org/wiki/The_Pine_Hill_Haints
-- https://sedate-bookings.com/news/the-pine-hill-haints-return-to-europe-with-shattered-pieces-of-the-true-cross
-- https://lonesomewhistles.wordpress.com/2013/10/06/the-pine-hill-haints/
-- http://www.indieatl.com/bands/pine-hill-haints
+  - 'https://www.rocky-52.net/chanteursp/pine_hill_haints.htm'
+  - 'https://www.singlelock.com/haints'
+  - >-
+    https://charlestoncitypaper.com/2010/02/03/pine-hill-haints-will-rattle-the-rafters/
+  - >-
+    https://americanahighways.org/2021/05/11/interview-jamie-barrier-of-pine-hill-haints/
+  - >-
+    http://madepaper.squarespace.com/music/2014/5/15/the-pine-hill-haints-who-they-are-and-what-they-aint
+  - 'https://en.wikipedia.org/wiki/The_Pine_Hill_Haints'
+  - >-
+    https://sedate-bookings.com/news/the-pine-hill-haints-return-to-europe-with-shattered-pieces-of-the-true-cross
+  - 'https://lonesomewhistles.wordpress.com/2013/10/06/the-pine-hill-haints/'
+  - 'http://www.indieatl.com/bands/pine-hill-haints'
 network_extracted: true
 entry_created: '2025-10-30T11:49:34.386697'
 last_updated: '2025-12-23T08:16:17.056820'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8d0d8764-382d-4140-b128-5c03ad811780
-  name: Matt Bakula
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8315643f-7ed9-4726-b2e7-5aa0efcb3d89
-  name: Jamie Barrier
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1ce6470d-1114-4788-82bb-ba719e344bf9
-  name: Katie Barrier
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0aad33ce-1331-489a-aaa7-f722dbbb0c44
-  name: Ben Rhyne
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: dd1b8d8e-d2d9-41d0-9fa7-7ee46214ed96
-  name: Mike Posey
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8d0d8764-382d-4140-b128-5c03ad811780
+    name: Matt Bakula
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8315643f-7ed9-4726-b2e7-5aa0efcb3d89
+    name: Jamie Barrier
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1ce6470d-1114-4788-82bb-ba719e344bf9
+    name: Katie Barrier
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0aad33ce-1331-489a-aaa7-f722dbbb0c44
+    name: Ben Rhyne
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: dd1b8d8e-d2d9-41d0-9fa7-7ee46214ed96
+    name: Mike Posey
 musicbrainz_id: 8da83088-c481-4f12-ad9d-8a698ec459f9
-origin: Auburn
-
+origin: 'Auburn, Alabama, United States'
 ---
 
 ![](the_pine_hill_haints.jpg)

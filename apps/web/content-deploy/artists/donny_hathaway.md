@@ -1,20 +1,20 @@
 ---
-title: donny hathaway
+title: Donny Hathaway
 wiki_slug: donny-hathaway
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1945-10-01'
-birth_place: Chicago, Illinois, United States
+birth_place: 'Chicago, Illinois, United States'
 death_date: '1979-01-13'
 genres:
-- soul
+  - soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/donny_hathaway.jpg
   caption: donny hathaway
   background: solo_singer
   born: '1945-10-01'
-  origin: Chicago, Illinois, United States
+  origin: 'Chicago, Illinois, United States'
   died: '1979-01-13'
 audio_profile:
   tempo_avg: 102.8
@@ -31,47 +31,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Roberta Flack
-  - Ric Powell
-  - June Conquest
+    - Roberta Flack
+    - Ric Powell
+    - June Conquest
   influenced:
-  - Amy Winehouse
-  - John Legend
-  - D'Angelo
-  - Alicia Keys
-  - Luther Vandross
+    - Amy Winehouse
+    - John Legend
+    - D'Angelo
+    - Alicia Keys
+    - Luther Vandross
   mentors:
-  - Martha Pitts
-  - Curtis Mayfield
+    - Martha Pitts
+    - Curtis Mayfield
 spotify_data:
   followers: 656975
   id: 0HU0U9kdXEHZVxUNbuQe8S
   popularity: 55
-  url: https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S
+  url: 'https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S'
 discography_enriched: true
 top_tracks:
-- The Closer I Get to You (Blue Lights in the Basement)
-- A Song for You (Donny Hathaway)
-- Jealous Guy (Someday We'll All Be Free)
-- The Ghetto (Everything Is Everything)
-- Where Is the Love (A Donny Hathaway Collection)
-- This Christmas (A Donny Hathaway Collection)
-- Love, Love, Love (Extension of a Man)
-- Where Is the Love (Roberta Flack & Donny Hathaway)
-- Back Together Again (feat. Donny Hathaway) (A Donny Hathaway Collection)
-- I Love You More Than You'll Ever Know (Extension of a Man)
+  - The Closer I Get to You (Blue Lights in the Basement)
+  - A Song for You (Donny Hathaway)
+  - Jealous Guy (Someday We'll All Be Free)
+  - The Ghetto (Everything Is Everything)
+  - Where Is the Love (A Donny Hathaway Collection)
+  - This Christmas (A Donny Hathaway Collection)
+  - 'Love, Love, Love (Extension of a Man)'
+  - Where Is the Love (Roberta Flack & Donny Hathaway)
+  - Back Together Again (feat. Donny Hathaway) (A Donny Hathaway Collection)
+  - I Love You More Than You'll Ever Know (Extension of a Man)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3f6ae36d-ffdb-40cf-98e6-8023cb1c41c9
-  spotify: https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S
-  wikipedia: https://en.wikipedia.org/wiki/Donny_Hathaway
+  musicbrainz: 'https://musicbrainz.org/artist/3f6ae36d-ffdb-40cf-98e6-8023cb1c41c9'
+  spotify: 'https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S'
+  wikipedia: 'https://en.wikipedia.org/wiki/Donny_Hathaway'
 image_path: 03_Resources/source_material/ArtistPortraits/donny_hathaway.jpg
 biography_enhanced_at: '2025-10-19T11:47:27.988485'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Donny_Hathaway
-- https://soulmusicsociety.co/donny-hathaway-remembering-the-brilliant-soul-legend/
-- https://blackpast.org/african-american-history/hathaway-donny-1945-1979/
+  - 'https://en.wikipedia.org/wiki/Donny_Hathaway'
+  - >-
+    https://soulmusicsociety.co/donny-hathaway-remembering-the-brilliant-soul-legend/
+  - 'https://blackpast.org/african-american-history/hathaway-donny-1945-1979/'
 network_extracted: true
 entry_created: '2025-10-19T11:47:27.988502'
 last_updated: '2025-12-23T08:16:07.956853'
@@ -79,9 +80,9 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:51:45.932975'
 musicbrainz_id: 3f6ae36d-ffdb-40cf-98e6-8023cb1c41c9
 tags:
-- soul
-- you've got a friend
-
+  - soul
+  - you've got a friend
+is_active: false
 ---
 
 ![](donny_hathaway.jpg)

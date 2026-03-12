@@ -1,17 +1,17 @@
 ---
 artist_type: person
 biography_enhanced_at: '2025-12-25T01:09:18.500236'
-birth_place: Unknown, United States
+birth_place: 'Unknown, United States'
 enhancement_provider: perplexity
 entry_created: '2025-12-25T01:09:18.500251'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7bfda8de-121f-4e11-a5e1-d54cd551339d
-  spotify: https://open.spotify.com/artist/2MnlzLX99ap6F7fhQ71S9o
+  musicbrainz: 'https://musicbrainz.org/artist/7bfda8de-121f-4e11-a5e1-d54cd551339d'
+  spotify: 'https://open.spotify.com/artist/2MnlzLX99ap6F7fhQ71S9o'
   wikipedia: ''
 gender: Female
 genres:
-- classic blues
-- ragtime
+  - classic blues
+  - ragtime
 image_path: 03_Resources/source_material/ArtistPortraits/bertha_idaho.jpg
 last_updated: '2025-12-25T01:09:18.500254'
 musical_connections:
@@ -22,17 +22,16 @@ musicbrainz_id: 7bfda8de-121f-4e11-a5e1-d54cd551339d
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Bertha+Idaho/+wiki[1]
-- https://musicbrainz.org/artist/7bfda8de-121f-4e11-a5e1-d54cd551339d[3]
-- https://www.allmusic.com/artist/bertha-idaho-mn0001813949[5]
+  - 'https://www.last.fm/music/Bertha+Idaho/+wiki[1]'
+  - 'https://musicbrainz.org/artist/7bfda8de-121f-4e11-a5e1-d54cd551339d[3]'
+  - 'https://www.allmusic.com/artist/bertha-idaho-mn0001813949[5]'
 spotify_data:
   followers: 70
   id: 2MnlzLX99ap6F7fhQ71S9o
   popularity: 0
-  url: https://open.spotify.com/artist/2MnlzLX99ap6F7fhQ71S9o
+  url: 'https://open.spotify.com/artist/2MnlzLX99ap6F7fhQ71S9o'
 status: active
-title: BERTHA IDAHO
-
+title: Bertha Idaho
 ---
 
 ![](bertha_idaho.jpg)

@@ -3,13 +3,13 @@ title: Leigh Harris
 wiki_slug: leigh-harris
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, USA'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/leigh_harris.jpg
   caption: Leigh Harris
   background: solo_singer
-  origin: New Orleans, Louisiana, USA
+  origin: 'New Orleans, Louisiana, USA'
 audio_profile:
   tempo_avg: 108.2
   energy_avg: 0.196
@@ -25,51 +25,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John Magnie
-  - Emily Remler
-  - Dr. John
-  - James Booker
-  - Irma Thomas
-  - The Meters
-  - The Neville Brothers
-  - Allen Toussaint
-  - Peter Holsapple
-  - Jimmy Robinson
+    - John Magnie
+    - Emily Remler
+    - Dr. John
+    - James Booker
+    - Irma Thomas
+    - The Meters
+    - The Neville Brothers
+    - Allen Toussaint
+    - Peter Holsapple
+    - Jimmy Robinson
   influenced:
-  - Numerous younger New Orleans vocalists
+    - Numerous younger New Orleans vocalists
   mentors:
-  - Allan Joseph Harris, Jr.
+    - 'Allan Joseph Harris, Jr.'
 spotify_data:
   followers: 4207
   id: 7aXWrnm0b8kKzTTgzublaZ
   popularity: 34
-  url: https://open.spotify.com/artist/7aXWrnm0b8kKzTTgzublaZ
+  url: 'https://open.spotify.com/artist/7aXWrnm0b8kKzTTgzublaZ'
 discography_enriched: true
 top_tracks:
-- Fantasmic! - From Fantasmic! (Disneyland)
-- Love's First Kiss(Finale)
-- 'Pinocchio: When You Wish Upon A Star (arr. R. Hayman): When You Wish Upon A Star (When You Wish Upon A Star)'
-- The Fantasyland Darkride Suite - From "Fantasyland"
-- Little Wooden Head
-- The Blue Fairy
-- 星に願いを（ピノキオ） - 『ピノキオ』より
-- Magic Mirror
-- There's Trouble a-Brewin'
-- It's a Girl
+  - Fantasmic! - From Fantasmic! (Disneyland)
+  - Love's First Kiss(Finale)
+  - >-
+    Pinocchio: When You Wish Upon A Star (arr. R. Hayman): When You Wish Upon A
+    Star (When You Wish Upon A Star)
+  - The Fantasyland Darkride Suite - From "Fantasyland"
+  - Little Wooden Head
+  - The Blue Fairy
+  - 星に願いを（ピノキオ） - 『ピノキオ』より
+  - Magic Mirror
+  - There's Trouble a-Brewin'
+  - It's a Girl
 external_urls:
-  spotify: https://open.spotify.com/artist/7aXWrnm0b8kKzTTgzublaZ
-  wikipedia: https://en.wikipedia.org/wiki/Leigh_Harris
+  spotify: 'https://open.spotify.com/artist/7aXWrnm0b8kKzTTgzublaZ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Leigh_Harris'
 image_path: 03_Resources/source_material/ArtistPortraits/leigh_harris.jpg
 biography_enhanced_at: '2025-11-10T03:31:18.745352'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://hnoc.org/research-collections/collection-highlights/leigh-harris-collection
-- https://en.wikipedia.org/wiki/Leigh_Harris
-- https://www.wwoz.org/blog/570216
+  - >-
+    https://hnoc.org/research-collections/collection-highlights/leigh-harris-collection
+  - 'https://en.wikipedia.org/wiki/Leigh_Harris'
+  - 'https://www.wwoz.org/blog/570216'
 network_extracted: true
 entry_created: '2025-11-10T03:31:18.745368'
 last_updated: '2025-12-23T08:16:11.750093'
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1954-07-27'
+artist_type: person
 ---
 
 ![](leigh_harris.jpg)

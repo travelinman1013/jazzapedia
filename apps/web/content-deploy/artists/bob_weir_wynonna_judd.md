@@ -1,43 +1,48 @@
 ---
 biography_enhanced_at: '2026-01-20T01:29:10.361107'
-birth_place: San Francisco, California, USA
+birth_place: 'San Francisco, California, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-20T01:29:10.361112'
 external_urls:
-  spotify: https://open.spotify.com/artist/6YB0tbDGk01Q0P6wcHPjpC
-  wikipedia: https://en.wikipedia.org/wiki/Bob_Weir
+  spotify: 'https://open.spotify.com/artist/6YB0tbDGk01Q0P6wcHPjpC'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bob_Weir'
 genres:
-- jam band
+  - jam band
 image_path: 03_Resources/source_material/ArtistPortraits/bob_weir_wynonna_judd.jpg
 last_updated: '2026-01-20T01:29:10.361113'
 musical_connections:
   collaborators:
-  - John Perry Barlow
-  - Phil Lesh
-  - Mickey Hart
-  - Bill Kreutzmann
-  - John Mayer
+    - John Perry Barlow
+    - Phil Lesh
+    - Mickey Hart
+    - Bill Kreutzmann
+    - John Mayer
   influenced:
-  - moe.
-  - Vinnie Amico
+    - moe.
+    - Vinnie Amico
   mentors:
-  - Jerry Garcia
-  - The Beatles
+    - Jerry Garcia
+    - The Beatles
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.dead.net/band/bob-weir
-- https://bobweir.net/bio/
-- https://en.wikipedia.org/wiki/Bob_Weir
-- https://liveforlivemusic.com/features/the-many-faces-of-grateful-dead-bob-weir-tribute/
-- https://www.wamc.org/news/2026-01-12/feelin-good-was-easy-lord-when-bobby-sang-the-blues-celebrating-the-life-and-legacy-of-grateful-dead-original-bob-weir
+  - 'https://www.dead.net/band/bob-weir'
+  - 'https://bobweir.net/bio/'
+  - 'https://en.wikipedia.org/wiki/Bob_Weir'
+  - >-
+    https://liveforlivemusic.com/features/the-many-faces-of-grateful-dead-bob-weir-tribute/
+  - >-
+    https://www.wamc.org/news/2026-01-12/feelin-good-was-easy-lord-when-bobby-sang-the-blues-celebrating-the-life-and-legacy-of-grateful-dead-original-bob-weir
 spotify_data:
   followers: 140972
   id: 6YB0tbDGk01Q0P6wcHPjpC
   popularity: 52
-  url: https://open.spotify.com/artist/6YB0tbDGk01Q0P6wcHPjpC
+  url: 'https://open.spotify.com/artist/6YB0tbDGk01Q0P6wcHPjpC'
 status: active
-title: Bob Weir, Wynonna Judd
+title: Bob Weir
+birth_date: '1947-10-16'
+death_date: '2026-01-10'
+artist_type: person
 ---
 
 ![](bob_weir_wynonna_judd.jpg)

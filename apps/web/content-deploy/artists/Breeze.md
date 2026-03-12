@@ -4,22 +4,22 @@ wiki_slug: breezee
 schema_version: 2
 status: active
 aliases: []
-birth_place: Jackson, Mississippi, United States (birthplace); Philadelphia, Mississippi (raised); Meridian, Mississippi (current
-  residence)
+birth_place: 'Jackson, Mississippi, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Breezee.jpg
   caption: Breezee
   background: solo_singer
-  origin: Jackson, Mississippi, United States (birthplace); Philadelphia, Mississippi (raised); Meridian, Mississippi (current
-    residence)
+  origin: >-
+    Jackson, Mississippi, United States (birthplace); Philadelphia, Mississippi
+    (raised); Meridian, Mississippi (current residence)
 audio_profile:
   tempo_avg: 127.1
   energy_avg: 0.488
   valence_avg: 0.421
   danceability_avg: 0.688
   acousticness_avg: 0.366
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -8.7
   speechiness_avg: 0.103
   liveness_avg: 0.13
@@ -28,50 +28,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jae
-  - Jeter Jones
-  - Flowbeatz
+    - Jae
+    - Jeter Jones
+    - Flowbeatz
   influenced: []
   mentors:
-  - Southern Soul radio tradition
+    - Southern Soul radio tradition
 related_artists: []
 spotify_data:
   followers: 57088
   id: 5Rp3IEFrKbq1sCRWez5XoE
   popularity: 47
-  url: https://open.spotify.com/artist/5Rp3IEFrKbq1sCRWez5XoE
+  url: 'https://open.spotify.com/artist/5Rp3IEFrKbq1sCRWez5XoE'
   verified: false
 discography_enriched: true
 albums_count: 0
 singles_count: 28
 top_tracks:
-- So In Love (So In Love)
-- TIME (TIME)
-- Hold Your Hand (Hold Your Hand)
-- Between Us (Between Us)
-- Last Weekend (Last Weekend)
-- SLEEPWALKING (SLEEPWALKING)
-- So In Love - sped up (So In Love)
-- TIME - sped up (TIME (sped up))
-- Hold Your Hand (Sped Up) (Hold Your Hand)
-- late night and a movie (late night and a movie)
+  - So In Love (So In Love)
+  - TIME (TIME)
+  - Hold Your Hand (Hold Your Hand)
+  - Between Us (Between Us)
+  - Last Weekend (Last Weekend)
+  - SLEEPWALKING (SLEEPWALKING)
+  - So In Love - sped up (So In Love)
+  - TIME - sped up (TIME (sped up))
+  - Hold Your Hand (Sped Up) (Hold Your Hand)
+  - late night and a movie (late night and a movie)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e081b75e-952f-465c-b1b3-614a2e4a41aa
-  spotify: https://open.spotify.com/artist/5Rp3IEFrKbq1sCRWez5XoE
-  wikipedia: https://en.wikipedia.org/wiki/Breeze
+  musicbrainz: 'https://musicbrainz.org/artist/e081b75e-952f-465c-b1b3-614a2e4a41aa'
+  spotify: 'https://open.spotify.com/artist/5Rp3IEFrKbq1sCRWez5XoE'
+  wikipedia: 'https://en.wikipedia.org/wiki/Breeze'
 image_path: 03_Resources/source_material/ArtistPortraits/Breezee.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:22:23.081037'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://breezemrdo2much.com/bio
+  - 'https://breezemrdo2much.com/bio'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 15:24:44.993752
+entry_created: 2025-09-18T15:24:44.993Z
 last_updated: '2025-12-23T08:16:01.349006'
 musicbrainz_enriched_at: '2025-10-21T09:20:21.732139'
 musicbrainz_id: e081b75e-952f-465c-b1b3-614a2e4a41aa
+origin: 'Meridian, Mississippi, United States'
+artist_type: person
 ---
 
 ![](Breezee.jpg)

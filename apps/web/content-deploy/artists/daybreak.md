@@ -2,7 +2,7 @@
 title: Daybreak
 wiki_slug: daybreak
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres: []
 infobox:
@@ -24,68 +24,69 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Heize
-  - Kim Eana
-  - Sang Yoon
-  - LUCY
-  - SK Telecom (SKT)
+    - Heize
+    - Kim Eana
+    - Sang Yoon
+    - LUCY
+    - SK Telecom (SKT)
   influenced: []
   mentors: []
 spotify_data:
   followers: 12640
   id: 0367tx3GB3VLh2jZ2PDVYN
   popularity: 25
-  url: https://open.spotify.com/artist/0367tx3GB3VLh2jZ2PDVYN
+  url: 'https://open.spotify.com/artist/0367tx3GB3VLh2jZ2PDVYN'
 discography_enriched: true
 top_tracks:
-- Suffocate (Tomorrow Awaits)
-- Thirty Six (Tomorrow Awaits)
-- Sanctuary (Tomorrow Awaits)
-- We Rise (We Rise)
-- Retrodrive (Tomorrow Awaits)
-- Tomorrow Awaits (Tomorrow Awaits)
-- No Scars (Mercury)
-- Faded (Faded)
-- Severed (Mercury)
-- The Moment (The Moment)
+  - Suffocate (Tomorrow Awaits)
+  - Thirty Six (Tomorrow Awaits)
+  - Sanctuary (Tomorrow Awaits)
+  - We Rise (We Rise)
+  - Retrodrive (Tomorrow Awaits)
+  - Tomorrow Awaits (Tomorrow Awaits)
+  - No Scars (Mercury)
+  - Faded (Faded)
+  - Severed (Mercury)
+  - The Moment (The Moment)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9df428e4-3eab-49a3-aa69-991fa21b9d7d
-  spotify: https://open.spotify.com/artist/0367tx3GB3VLh2jZ2PDVYN
-  wikipedia: https://en.wikipedia.org/wiki/Daybreak_(band)
+  musicbrainz: 'https://musicbrainz.org/artist/9df428e4-3eab-49a3-aa69-991fa21b9d7d'
+  spotify: 'https://open.spotify.com/artist/0367tx3GB3VLh2jZ2PDVYN'
+  wikipedia: 'https://en.wikipedia.org/wiki/Daybreak_(band)'
 image_path: 03_Resources/source_material/ArtistPortraits/daybreak.jpg
 biography_enhanced_at: '2025-12-07T04:59:54.994931'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Daybreak_(band)
-- https://en.namu.wiki/w/%EB%8D%B0%EC%9D%B4%EB%B8%8C%EB%A0%88%EC%9D%B4%ED%81%AC
+  - 'https://en.wikipedia.org/wiki/Daybreak_(band)'
+  - >-
+    https://en.namu.wiki/w/%EB%8D%B0%EC%9D%B4%EB%B8%8C%EB%A0%88%EC%9D%B4%ED%81%AC
 network_extracted: true
 entry_created: '2025-12-07T04:59:54.994945'
 last_updated: '2025-12-23T08:16:07.598491'
 disambiguation: Korean
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ad8bb6e8-8534-478a-ad5f-aa585cc75079
-  name: 정유종
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 72fc2576-dee7-4502-9b80-683860102ab3
-  name: 김장원
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 38b5e546-995b-43f4-aa08-9eb5e603dc8a
-  name: 김선일
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 04d90c97-8f89-405b-b3d2-22c63dd2f0e6
-  name: 이원석
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ad8bb6e8-8534-478a-ad5f-aa585cc75079
+    name: 정유종
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 72fc2576-dee7-4502-9b80-683860102ab3
+    name: 김장원
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 38b5e546-995b-43f4-aa08-9eb5e603dc8a
+    name: 김선일
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 04d90c97-8f89-405b-b3d2-22c63dd2f0e6
+    name: 이원석
 musicbrainz_id: 9df428e4-3eab-49a3-aa69-991fa21b9d7d
-origin: Seoul, South Korea
+origin: 'Seoul, South Korea'
 ---
 
 ![](daybreak.jpg)

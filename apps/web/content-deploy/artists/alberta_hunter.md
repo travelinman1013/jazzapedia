@@ -1,76 +1,78 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '1924'
-  end: '1925'
-  instruments: []
-  mbid: 8e062d48-0f1c-4226-8503-19a03fe9249a
-  name: Red Onion Jazz Babies
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: d60b3b5d-4fe9-49eb-b000-599ede486fd6
-  name: Alberta Hunter and Elkins‐Payne Jubilee Quartette
+  - begin: '1924'
+    end: '1925'
+    instruments: []
+    mbid: 8e062d48-0f1c-4226-8503-19a03fe9249a
+    name: Red Onion Jazz Babies
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: d60b3b5d-4fe9-49eb-b000-599ede486fd6
+    name: Alberta Hunter and Elkins‐Payne Jubilee Quartette
 biography_enhanced_at: '2026-01-22T07:09:19.125545'
 birth_date: '1895-04-01'
-birth_place: Memphis
+birth_place: 'Memphis, Tennessee, United States'
 death_date: '1984-10-17'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:09:19.125552'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d5a73b4d-62ea-4693-af94-f6ca35a57e58
-  spotify: https://open.spotify.com/artist/4ZdfXQkef0hnTSqmhpGarA
-  wikipedia: https://en.wikipedia.org/wiki/Alberta_Hunter
+  musicbrainz: 'https://musicbrainz.org/artist/d5a73b4d-62ea-4693-af94-f6ca35a57e58'
+  spotify: 'https://open.spotify.com/artist/4ZdfXQkef0hnTSqmhpGarA'
+  wikipedia: 'https://en.wikipedia.org/wiki/Alberta_Hunter'
 gender: Female
 genres:
-- classic blues
-- blues
-- ragtime
-- swing music
+  - classic blues
+  - blues
+  - ragtime
+  - swing music
 image_path: 03_Resources/source_material/ArtistPortraits/alberta_hunter.jpg
 instruments:
-- eponymous
-- original
-- vocal
+  - eponymous
+  - original
+  - vocal
 last_updated: '2026-01-22T07:09:19.125553'
 musical_connections:
   collaborators:
-  - Fletcher Henderson
-  - Louis Armstrong
-  - Sidney Bechet
-  - Original Memphis Five
-  - King Oliver
-  - Fats Waller
-  - Duke Ellington
-  - Eubie Blake
-  - Gerald Cook
-  - Jimmy Lewis
+    - Fletcher Henderson
+    - Louis Armstrong
+    - Sidney Bechet
+    - Original Memphis Five
+    - King Oliver
+    - Fats Waller
+    - Duke Ellington
+    - Eubie Blake
+    - Gerald Cook
+    - Jimmy Lewis
   influenced: []
   mentors:
-  - Tony Jackson
-  - Lil Hardin
+    - Tony Jackson
+    - Lil Hardin
 musicbrainz_id: d5a73b4d-62ea-4693-af94-f6ca35a57e58
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.allaboutjazz.com/musicians/alberta-hunter/
-- https://www.britannica.com/biography/Alberta-Hunter
-- https://memphismusichalloffame.com/inductee/albertahunter/
-- https://en.wikipedia.org/wiki/Alberta_Hunter
-- https://www.jango.com/music/Alberta+Hunter/_full_bio
+  - 'https://www.allaboutjazz.com/musicians/alberta-hunter/'
+  - 'https://www.britannica.com/biography/Alberta-Hunter'
+  - 'https://memphismusichalloffame.com/inductee/albertahunter/'
+  - 'https://en.wikipedia.org/wiki/Alberta_Hunter'
+  - 'https://www.jango.com/music/Alberta+Hunter/_full_bio'
 spotify_data:
   followers: 23790
   id: 4ZdfXQkef0hnTSqmhpGarA
   popularity: 28
-  url: https://open.spotify.com/artist/4ZdfXQkef0hnTSqmhpGarA
+  url: 'https://open.spotify.com/artist/4ZdfXQkef0hnTSqmhpGarA'
 status: active
 tags:
-- acoustic blues
-- blues
-- piano blues
-title: ALBERTA HUNTER
+  - acoustic blues
+  - blues
+  - piano blues
+title: Alberta Hunter
+is_active: false
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](alberta_hunter.jpg)

@@ -3,13 +3,13 @@ title: Timothea
 wiki_slug: timothea
 schema_version: 2
 status: active
-birth_place: Westwego, Louisiana, United States
+birth_place: 'Westwego, Louisiana, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/timothea.jpg
   caption: Timothea
   background: solo_singer
-  origin: Westwego, Louisiana, United States
+  origin: 'Westwego, Louisiana, United States'
 audio_profile:
   tempo_avg: 118.7
   energy_avg: 0.399
@@ -25,51 +25,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dr. John
-  - Walter 'Wolfman' Washington
-  - Neville Brothers / The Meters
+    - Dr. John
+    - Walter 'Wolfman' Washington
+    - Neville Brothers / The Meters
   influenced:
-  - Jesse B
-  - Blue Soul All Stars
+    - Jesse B
+    - Blue Soul All Stars
   mentors:
-  - Earl King
-  - Wardell Quezergue
+    - Earl King
+    - Wardell Quezergue
 spotify_data:
   followers: 149336
   id: 6XowGYJnrtyso0fKDfK7xb
   popularity: 56
-  url: https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb
+  url: 'https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb'
 discography_enriched: true
 top_tracks:
-- It Ain't Me, Babe (A Complete Unknown (Original Motion Picture Soundtrack))
-- Pure Imagination (from "Wonka") (Wonka (Original Motion Picture Soundtrack))
-- Girl From The North Country (A Complete Unknown (Original Motion Picture Soundtrack))
-- Blowin' in the Wind (A Complete Unknown (Original Motion Picture Soundtrack))
-- Like a Rolling Stone (A Complete Unknown (Original Motion Picture Soundtrack))
-- Oompa Loompa (Wonka (Original Motion Picture Soundtrack))
-- A World of Your Own (Wonka (Original Motion Picture Soundtrack))
-- Don't Think Twice, It's All Right (A Complete Unknown (Original Motion Picture Soundtrack))
-- The Times They Are A-Changin' (A Complete Unknown (Original Motion Picture Soundtrack))
-- Mr. Tambourine Man (A Complete Unknown (Original Motion Picture Soundtrack))
+  - 'It Ain''t Me, Babe (A Complete Unknown (Original Motion Picture Soundtrack))'
+  - Pure Imagination (from "Wonka") (Wonka (Original Motion Picture Soundtrack))
+  - >-
+    Girl From The North Country (A Complete Unknown (Original Motion Picture
+    Soundtrack))
+  - >-
+    Blowin' in the Wind (A Complete Unknown (Original Motion Picture
+    Soundtrack))
+  - >-
+    Like a Rolling Stone (A Complete Unknown (Original Motion Picture
+    Soundtrack))
+  - Oompa Loompa (Wonka (Original Motion Picture Soundtrack))
+  - A World of Your Own (Wonka (Original Motion Picture Soundtrack))
+  - >-
+    Don't Think Twice, It's All Right (A Complete Unknown (Original Motion
+    Picture Soundtrack))
+  - >-
+    The Times They Are A-Changin' (A Complete Unknown (Original Motion Picture
+    Soundtrack))
+  - Mr. Tambourine Man (A Complete Unknown (Original Motion Picture Soundtrack))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/523a08fc-a739-40a3-aa14-e5558387bbd6
-  spotify: https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb
+  musicbrainz: 'https://musicbrainz.org/artist/523a08fc-a739-40a3-aa14-e5558387bbd6'
+  spotify: 'https://open.spotify.com/artist/6XowGYJnrtyso0fKDfK7xb'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/timothea.jpg
 biography_enhanced_at: '2025-10-25T09:54:55.534975'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.timothea.com/TIM_pages/TIM_bio.html
-- https://www.timothea.com
-- https://www.allmusic.com/artist/timothea-mn0000930362
-- https://open.spotify.com/artist/0TfYvioFTEziYn4qaTOrDS
-- https://www.imdb.com/name/nm0863788/bio/
+  - 'https://www.timothea.com/TIM_pages/TIM_bio.html'
+  - 'https://www.timothea.com'
+  - 'https://www.allmusic.com/artist/timothea-mn0000930362'
+  - 'https://open.spotify.com/artist/0TfYvioFTEziYn4qaTOrDS'
+  - 'https://www.imdb.com/name/nm0863788/bio/'
 network_extracted: true
 entry_created: '2025-10-25T09:54:55.534984'
 last_updated: '2025-12-23T08:16:17.460368'
 disambiguation: Timothea Margaret Beckerman
 musicbrainz_id: 523a08fc-a739-40a3-aa14-e5558387bbd6
+artist_type: person
 ---
 
 ![](timothea.jpg)

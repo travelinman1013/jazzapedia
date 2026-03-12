@@ -1,164 +1,166 @@
 ---
-artist_type: person
+artist_type: band
 associated_acts:
-- begin: 1982-10
-  end: 1989-05
-  instruments: []
-  mbid: 13876c39-4099-4e53-8717-c9db427a01e1
-  name: The Phil Woods Quintet + One
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c991f281-d62a-4dce-af84-57ec7e6954ee
-  name: The Players Association
-- begin: ''
-  end: ''
-  instruments:
-  - flugelhorn
-  - original
-  mbid: ee0f0b84-f254-44a2-89f9-e78ec9c2ffb1
-  name: TRIP
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  - trumpet
-  mbid: ee0f0b84-f254-44a2-89f9-e78ec9c2ffb1
-  name: TRIP
-- begin: ''
-  end: ''
-  instruments:
-  - flugelhorn
-  mbid: 7d7ee7f6-2903-423b-9818-4fd19e8095ea
-  name: The George Gruntz Concert Jazz Band
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: 7d7ee7f6-2903-423b-9818-4fd19e8095ea
-  name: The George Gruntz Concert Jazz Band
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  - trumpet
-  mbid: 3bec4a8e-f478-4c6a-ab3d-f2dac6820601
-  name: Tom Harrell Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: 70c897ed-1c74-4ad1-a61c-f127d3a6d8df
-  name: The Phil Woods Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: ffcc2a78-c634-43cf-b15d-66814f02be83
-  name: Joe Lovano Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 54619d1e-46b8-4c7d-ac5f-b23e57af3c43
-  name: Tom Harrell Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: cb42aa16-cb1d-40f2-9b27-9d5228625057
-  name: Larry Vuckovich Sextet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9e8bb4cb-02f3-45d7-aba8-20418028940d
-  name: Azteca
-- begin: ''
-  end: ''
-  instruments:
-  - flugelhorn
-  mbid: 5214982b-0151-484d-b08f-06d52d22cf92
-  name: Charlie Haden’s Liberation Music Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: 5214982b-0151-484d-b08f-06d52d22cf92
-  name: Charlie Haden’s Liberation Music Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 21f5d874-6792-4aa3-b265-a76bbdf8d488
-  name: Gerry Mulligan and His Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - flugelhorn
-  mbid: 35a4f55e-b595-44b9-b16e-39450e1228e4
-  name: Michael Cochrane Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: 35a4f55e-b595-44b9-b16e-39450e1228e4
-  name: Michael Cochrane Quintet
+  - begin: 1982-10
+    end: 1989-05
+    instruments: []
+    mbid: 13876c39-4099-4e53-8717-c9db427a01e1
+    name: The Phil Woods Quintet + One
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c991f281-d62a-4dce-af84-57ec7e6954ee
+    name: The Players Association
+  - begin: ''
+    end: ''
+    instruments:
+      - flugelhorn
+      - original
+    mbid: ee0f0b84-f254-44a2-89f9-e78ec9c2ffb1
+    name: TRIP
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - trumpet
+    mbid: ee0f0b84-f254-44a2-89f9-e78ec9c2ffb1
+    name: TRIP
+  - begin: ''
+    end: ''
+    instruments:
+      - flugelhorn
+    mbid: 7d7ee7f6-2903-423b-9818-4fd19e8095ea
+    name: The George Gruntz Concert Jazz Band
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: 7d7ee7f6-2903-423b-9818-4fd19e8095ea
+    name: The George Gruntz Concert Jazz Band
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - trumpet
+    mbid: 3bec4a8e-f478-4c6a-ab3d-f2dac6820601
+    name: Tom Harrell Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: 70c897ed-1c74-4ad1-a61c-f127d3a6d8df
+    name: The Phil Woods Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: ffcc2a78-c634-43cf-b15d-66814f02be83
+    name: Joe Lovano Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 54619d1e-46b8-4c7d-ac5f-b23e57af3c43
+    name: Tom Harrell Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: cb42aa16-cb1d-40f2-9b27-9d5228625057
+    name: Larry Vuckovich Sextet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9e8bb4cb-02f3-45d7-aba8-20418028940d
+    name: Azteca
+  - begin: ''
+    end: ''
+    instruments:
+      - flugelhorn
+    mbid: 5214982b-0151-484d-b08f-06d52d22cf92
+    name: Charlie Haden’s Liberation Music Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: 5214982b-0151-484d-b08f-06d52d22cf92
+    name: Charlie Haden’s Liberation Music Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 21f5d874-6792-4aa3-b265-a76bbdf8d488
+    name: Gerry Mulligan and His Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - flugelhorn
+    mbid: 35a4f55e-b595-44b9-b16e-39450e1228e4
+    name: Michael Cochrane Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: 35a4f55e-b595-44b9-b16e-39450e1228e4
+    name: Michael Cochrane Quintet
 biography_enhanced_at: '2026-01-22T07:00:21.710570'
 birth_date: '1946-06-16'
-birth_place: Urbana
+birth_place: 'Urbana, Illinois, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:00:21.710578'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8943189a-0f1e-486c-b639-8df4a5b5fd62
-  spotify: https://open.spotify.com/artist/3YO63Be7QxrxqBQtgKc4Oc
-  wikipedia: https://en.wikipedia.org/wiki/Tom_Harrell
+  musicbrainz: 'https://musicbrainz.org/artist/8943189a-0f1e-486c-b639-8df4a5b5fd62'
+  spotify: 'https://open.spotify.com/artist/3YO63Be7QxrxqBQtgKc4Oc'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tom_Harrell'
 gender: Male
 genres:
-- jazz
-- hard bop
+  - jazz
+  - hard bop
 image_path: 03_Resources/source_material/ArtistPortraits/tom_harrell.jpg
 instruments:
-- flugelhorn
-- original
-- trumpet
-- piano
+  - flugelhorn
+  - original
+  - trumpet
+  - piano
 last_updated: '2026-01-22T07:00:21.710579'
 musical_connections:
   collaborators:
-  - Horace Silver
-  - Phil Woods
-  - Mark Turner
-  - Bill Evans
-  - Charlie Haden
-  - Woody Herman
-  - Mel Lewis
+    - Horace Silver
+    - Phil Woods
+    - Mark Turner
+    - Bill Evans
+    - Charlie Haden
+    - Woody Herman
+    - Mel Lewis
   influenced:
-  - Jaleel Shaw
+    - Jaleel Shaw
   mentors:
-  - Lee Konitz
-  - Stan Kenton
+    - Lee Konitz
+    - Stan Kenton
 musicbrainz_id: 8943189a-0f1e-486c-b639-8df4a5b5fd62
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Tom_Harrell
-- https://chesky.com/pages/tom-harrell
-- https://www.britannica.com/biography/Tom-Harrell
-- https://www.wmky.org/arts-culture/2021-09-19/tom-harrell
-- https://randygibbonsreflections.com/2021/02/11/tom-harrell-a-quest-part-1-the-early-years/
-- https://stanfordmag.org/contents/making-music-that-catches-the-wind
-- https://jazzhousekids.org/featured/tom-harrell/
-- https://www.jazzalley.com/www-home/artist.jsp?shownum=1402
+  - 'https://en.wikipedia.org/wiki/Tom_Harrell'
+  - 'https://chesky.com/pages/tom-harrell'
+  - 'https://www.britannica.com/biography/Tom-Harrell'
+  - 'https://www.wmky.org/arts-culture/2021-09-19/tom-harrell'
+  - >-
+    https://randygibbonsreflections.com/2021/02/11/tom-harrell-a-quest-part-1-the-early-years/
+  - 'https://stanfordmag.org/contents/making-music-that-catches-the-wind'
+  - 'https://jazzhousekids.org/featured/tom-harrell/'
+  - 'https://www.jazzalley.com/www-home/artist.jsp?shownum=1402'
 spotify_data:
   followers: 18997
   id: 3YO63Be7QxrxqBQtgKc4Oc
   popularity: 29
-  url: https://open.spotify.com/artist/3YO63Be7QxrxqBQtgKc4Oc
+  url: 'https://open.spotify.com/artist/3YO63Be7QxrxqBQtgKc4Oc'
 status: active
 tags:
-- flugelhorn
-- hard bop
-- jazz
+  - flugelhorn
+  - hard bop
+  - jazz
 title: Tom Harrell
+origin: 'San Francisco Bay Area, California, United States'
 ---
 
 ![](tom_harrell.jpg)

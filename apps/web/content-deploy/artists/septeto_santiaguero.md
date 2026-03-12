@@ -2,12 +2,12 @@
 title: Septeto Santiaguero
 wiki_slug: septeto-santiaguero
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- son cubano
-- timba
-- salsa
+  - son cubano
+  - timba
+  - salsa
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/septeto_santiaguero.jpg
   caption: Septeto Santiaguero
@@ -27,55 +27,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Fernando Dewar
-  - Rudens Matos
+    - Fernando Dewar
+    - Rudens Matos
   influenced:
-  - Younger traditional son and salsa ensembles in Santiago de Cuba (general category)
+    - >-
+      Younger traditional son and salsa ensembles in Santiago de Cuba (general
+      category)
   mentors:
-  - Melodías de Ayer
-  - Estudiantina Invasora
-  - Los Compadres
+    - Melodías de Ayer
+    - Estudiantina Invasora
+    - Los Compadres
 spotify_data:
   followers: 14061
   id: 66pTfzDThmocl1BJ3cp7vh
   popularity: 28
-  url: https://open.spotify.com/artist/66pTfzDThmocl1BJ3cp7vh
+  url: 'https://open.spotify.com/artist/66pTfzDThmocl1BJ3cp7vh'
 discography_enriched: true
 top_tracks:
-- Lágrimas Negras
-- Donde Estabas Anoche (A Journey Through Cuban Music)
-- Esa Niña, Qué Cintura (Oye Mi Son Santiaguero (Bonus Version))
-- Amor Silvestre
-- Esa Familia a Mi No Me Conviene
-- De la Cabeza a Los Pies (La Chismosa)
-- Los Ejes de mi Carreta
-- El Culpable (Los Mangos Bajitos)
-- Que Le Den Candela
-- 'Aprovecha, Que Llegó el Sabor (Intro) (A Mí Qué: Tributo a los Clásicos Cubanos)'
+  - Lágrimas Negras
+  - Donde Estabas Anoche (A Journey Through Cuban Music)
+  - 'Esa Niña, Qué Cintura (Oye Mi Son Santiaguero (Bonus Version))'
+  - Amor Silvestre
+  - Esa Familia a Mi No Me Conviene
+  - De la Cabeza a Los Pies (La Chismosa)
+  - Los Ejes de mi Carreta
+  - El Culpable (Los Mangos Bajitos)
+  - Que Le Den Candela
+  - >-
+    Aprovecha, Que Llegó el Sabor (Intro) (A Mí Qué: Tributo a los Clásicos
+    Cubanos)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/763bc3ba-98ad-431b-b37d-93a030d8fcae
-  spotify: https://open.spotify.com/artist/66pTfzDThmocl1BJ3cp7vh
-  wikipedia: https://en.wikipedia.org/wiki/Septeto_Santiaguero
+  musicbrainz: 'https://musicbrainz.org/artist/763bc3ba-98ad-431b-b37d-93a030d8fcae'
+  spotify: 'https://open.spotify.com/artist/66pTfzDThmocl1BJ3cp7vh'
+  wikipedia: 'https://en.wikipedia.org/wiki/Septeto_Santiaguero'
 image_path: 03_Resources/source_material/ArtistPortraits/septeto_santiaguero.jpg
 biography_enhanced_at: '2025-12-07T04:37:03.509631'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- 'World Music Central – Artist Profiles: Septeto Santiaguero[2]'
-- 'Rhythm Passport – Daily Discovery: Septeto Santiaguero – Los ejes de mi carreta[1]'
-- Cubadebate – Septeto Santiaguero, once again nominated for a Latin Grammy[3]
-- Martyrs’ concert listing – El Septeto Santiaguero[4]
-- Best Programs – The Way of Son and the "Septeto Santiaguero"[5]
-- Los Angeles Times – El Septeto Santiaguero, Sintesis bring vibrant sounds of Cuba[6]
-- Last.fm – Septeto Santiaguero biography[7]
-- Wikipedia – Septeto Santiaguero (for cross‑checking discography and awards)
+  - 'World Music Central – Artist Profiles: Septeto Santiaguero[2]'
+  - >-
+    Rhythm Passport – Daily Discovery: Septeto Santiaguero – Los ejes de mi
+    carreta[1]
+  - 'Cubadebate – Septeto Santiaguero, once again nominated for a Latin Grammy[3]'
+  - 'Martyrs’ concert listing – El Septeto Santiaguero[4]'
+  - 'Best Programs – The Way of Son and the "Septeto Santiaguero"[5]'
+  - >-
+    Los Angeles Times – El Septeto Santiaguero, Sintesis bring vibrant sounds of
+    Cuba[6]
+  - 'Last.fm – Septeto Santiaguero biography[7]'
+  - Wikipedia – Septeto Santiaguero (for cross‑checking discography and awards)
 network_extracted: true
 entry_created: '2025-12-07T04:37:03.509643'
 last_updated: '2025-12-23T08:16:15.480614'
 musicbrainz_id: 763bc3ba-98ad-431b-b37d-93a030d8fcae
-origin: Santiago de Cuba, Santiago de Cuba Province, Cuba
+origin: 'Santiago de Cuba, Santiago de Cuba Province, Cuba'
 tags:
-- latin
+  - latin
 ---
 
 ![](septeto_santiaguero.jpg)

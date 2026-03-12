@@ -3,16 +3,16 @@ title: Frank Morgan
 wiki_slug: frank-morgan
 schema_version: 2
 status: active
-birth_place: Minneapolis, Minnesota, United States
+birth_place: 'Minneapolis, Minnesota, United States'
 genres:
-- jazz
-- cool jazz
-- hard bop
+  - jazz
+  - cool jazz
+  - hard bop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/frank_morgan.jpg
   caption: Frank Morgan
   background: solo_singer
-  origin: Minneapolis, Minnesota, United States
+  origin: 'Minneapolis, Minnesota, United States'
 audio_profile:
   tempo_avg: 100.1
   energy_avg: 0.145
@@ -28,52 +28,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dexter Gordon
-  - Wardell Gray
-  - Teddy Charles
-  - Kenny Clarke
-  - Conte Candoli
-  - Cedar Walton
-  - Ronnie Mathews, Walter Booker, Victor Lewis
+    - Dexter Gordon
+    - Wardell Gray
+    - Teddy Charles
+    - Kenny Clarke
+    - Conte Candoli
+    - Cedar Walton
+    - 'Ronnie Mathews, Walter Booker, Victor Lewis'
   influenced:
-  - Grace Kelly
+    - Grace Kelly
   mentors:
-  - Charlie Parker
-  - Samuel Browne
-  - Leonard Gay
+    - Charlie Parker
+    - Samuel Browne
+    - Leonard Gay
 spotify_data:
   followers: 11030
   id: 65HhcbtTjbjB81u37nzaeP
   popularity: 25
-  url: https://open.spotify.com/artist/65HhcbtTjbjB81u37nzaeP
+  url: 'https://open.spotify.com/artist/65HhcbtTjbjB81u37nzaeP'
 discography_enriched: true
 top_tracks:
-- Lullaby (A Lovesome Thing)
-- My Old Flame (Frank Morgan)
-- All Blues - Live at the Jazz Standard (City Nights (Live at the Jazz Standard))
-- In A Sentimental Mood (Mood Indigo)
-- Autumn Leaves (Frank Morgan)
-- Lullaby (Mood Indigo)
-- Mood Indigo (Mood Indigo)
-- When You Wish Upon A Star (A Lovesome Thing)
-- Nearness Of You, The (Frank Morgan)
-- Listen To The Dawn (Listen To The Dawn)
+  - Lullaby (A Lovesome Thing)
+  - My Old Flame (Frank Morgan)
+  - >-
+    All Blues - Live at the Jazz Standard (City Nights (Live at the Jazz
+    Standard))
+  - In A Sentimental Mood (Mood Indigo)
+  - Autumn Leaves (Frank Morgan)
+  - Lullaby (Mood Indigo)
+  - Mood Indigo (Mood Indigo)
+  - When You Wish Upon A Star (A Lovesome Thing)
+  - 'Nearness Of You, The (Frank Morgan)'
+  - Listen To The Dawn (Listen To The Dawn)
 external_urls:
-  spotify: https://open.spotify.com/artist/65HhcbtTjbjB81u37nzaeP
-  wikipedia: https://en.wikipedia.org/wiki/Frank_Morgan_(musician)
+  spotify: 'https://open.spotify.com/artist/65HhcbtTjbjB81u37nzaeP'
+  wikipedia: 'https://en.wikipedia.org/wiki/Frank_Morgan_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/frank_morgan.jpg
 biography_enhanced_at: '2025-11-22T07:38:48.735625'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://fromthevaults-boppinbob.blogspot.com/2024/12/frank-morgan-born-23-december-1933.html
-- https://concord.com/artist/frank-morgan/
-- https://en.wikipedia.org/wiki/Frank_Morgan_(musician)
-- https://www.milwaukeejazzinstitute.org/mke-jazz-history/frank-morgan
-- https://attictoys.com/frank-morgan/
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2024/12/frank-morgan-born-23-december-1933.html
+  - 'https://concord.com/artist/frank-morgan/'
+  - 'https://en.wikipedia.org/wiki/Frank_Morgan_(musician)'
+  - 'https://www.milwaukeejazzinstitute.org/mke-jazz-history/frank-morgan'
+  - 'https://attictoys.com/frank-morgan/'
 network_extracted: true
 entry_created: '2025-11-22T07:38:48.735640'
 last_updated: '2025-12-23T08:16:08.750020'
+birth_date: '1933-12-23'
+death_date: '2007-12-14'
+artist_type: person
 ---
 
 ![](frank_morgan.jpg)

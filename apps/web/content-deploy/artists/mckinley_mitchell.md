@@ -1,44 +1,46 @@
 ---
 biography_enhanced_at: '2025-12-30T01:24:04.676287'
-birth_place: Jackson, Mississippi, United States
+birth_place: 'Jackson, Mississippi, United States'
 enhancement_provider: perplexity
 entry_created: '2025-12-30T01:24:04.676293'
 external_urls:
-  spotify: https://open.spotify.com/artist/24Z0p1WmIFcsp30Kl5Nicw
-  wikipedia: https://en.wikipedia.org/wiki/McKinley_Mitchell
+  spotify: 'https://open.spotify.com/artist/24Z0p1WmIFcsp30Kl5Nicw'
+  wikipedia: 'https://en.wikipedia.org/wiki/McKinley_Mitchell'
 genres:
-- blues
+  - blues
 image_path: 03_Resources/source_material/ArtistPortraits/mckinley_mitchell.jpg
 last_updated: '2025-12-30T01:24:04.676293'
 musical_connections:
   collaborators:
-  - King Kolax
-  - Thomas 'Curley' Palmer
-  - Cash McCall
-  - Freddy Robinson
-  - Milt Bland
+    - King Kolax
+    - Thomas 'Curley' Palmer
+    - Cash McCall
+    - Freddy Robinson
+    - Milt Bland
   influenced: []
   mentors:
-  - Willie Johnson
-  - King Kolax
-  - Tiny Button
+    - Willie Johnson
+    - King Kolax
+    - Tiny Button
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- Last.fm - McKinley Mitchell
-- Marmoset Music - McKinley Mitchell
-- Find a Grave - McKinley Mitchell Memorial
-- Secret Stash Records - McKinley Mitchell
-- Soulful Kinda Music - McKinley Mitchell
-- Wikipedia - McKinley Mitchell
-- iHeart - McKinley Mitchell
+  - Last.fm - McKinley Mitchell
+  - Marmoset Music - McKinley Mitchell
+  - Find a Grave - McKinley Mitchell Memorial
+  - Secret Stash Records - McKinley Mitchell
+  - Soulful Kinda Music - McKinley Mitchell
+  - Wikipedia - McKinley Mitchell
+  - iHeart - McKinley Mitchell
 spotify_data:
   followers: 2079
   id: 24Z0p1WmIFcsp30Kl5Nicw
   popularity: 18
-  url: https://open.spotify.com/artist/24Z0p1WmIFcsp30Kl5Nicw
+  url: 'https://open.spotify.com/artist/24Z0p1WmIFcsp30Kl5Nicw'
 status: active
-title: MCKINLEY MITCHELL
+title: McKinley Mitchell
+origin: 'Chicago, Illinois, United States'
+artist_type: person
 ---
 
 ![](mckinley_mitchell.jpg)

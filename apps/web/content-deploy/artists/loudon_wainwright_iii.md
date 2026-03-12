@@ -5,17 +5,17 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1946-09-05'
-birth_place: Chapel Hill
+birth_place: 'Chapel Hill, North Carolina, United States'
 genres:
-- folk
-- singer-songwriter
+  - folk
+  - singer-songwriter
 instruments:
-- guitar
-- acoustic guitar
-- piano
-- guitar family
-- lead vocals
-- background vocals
+  - guitar
+  - acoustic guitar
+  - piano
+  - guitar family
+  - lead vocals
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/loudon_wainwright_iii.jpg
   caption: Loudon Wainwright III
@@ -37,56 +37,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Joe Henry
-  - Kate & Anna McGarrigle
-  - Rufus Wainwright, Martha Wainwright, Lucy Wainwright Roche
+    - Joe Henry
+    - Kate & Anna McGarrigle
+    - 'Rufus Wainwright, Martha Wainwright, Lucy Wainwright Roche'
   influenced:
-  - Rufus Wainwright
-  - Martha Wainwright
-  - Lucy Wainwright Roche
+    - Rufus Wainwright
+    - Martha Wainwright
+    - Lucy Wainwright Roche
   mentors:
-  - Bob Dylan
-  - Charlie Poole
+    - Bob Dylan
+    - Charlie Poole
 spotify_data:
   followers: 89047
   id: 3loACRmkzdtOMNJEaB6j8L
   popularity: 43
-  url: https://open.spotify.com/artist/3loACRmkzdtOMNJEaB6j8L
+  url: 'https://open.spotify.com/artist/3loACRmkzdtOMNJEaB6j8L'
 discography_enriched: true
 top_tracks:
-- The Swimming Song (Attempted Mustache)
-- 'Daughter (Strange Weirdos: Music From And Inspired By The Film Knocked Up)'
-- Dead Skunk (Album III)
-- Lullaby (Attempted Mustache)
-- Motel Blues (Album II)
-- 'You Can''t Fail Me Now (Strange Weirdos: Music From And Inspired By The Film Knocked Up)'
-- Hollywood Hopeful (Unrequited)
-- 'Grey In L.A. (Strange Weirdos: Music From And Inspired By The Film Knocked Up)'
-- Down Drinking at the Bar (Attempted Mustache)
-- Come A Long Way (Attempted Mustache)
+  - The Swimming Song (Attempted Mustache)
+  - 'Daughter (Strange Weirdos: Music From And Inspired By The Film Knocked Up)'
+  - Dead Skunk (Album III)
+  - Lullaby (Attempted Mustache)
+  - Motel Blues (Album II)
+  - >-
+    You Can't Fail Me Now (Strange Weirdos: Music From And Inspired By The Film
+    Knocked Up)
+  - Hollywood Hopeful (Unrequited)
+  - >-
+    Grey In L.A. (Strange Weirdos: Music From And Inspired By The Film Knocked
+    Up)
+  - Down Drinking at the Bar (Attempted Mustache)
+  - Come A Long Way (Attempted Mustache)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3ddc1fe4-0abb-4af0-9392-e36720386842
-  spotify: https://open.spotify.com/artist/3loACRmkzdtOMNJEaB6j8L
-  wikipedia: https://en.wikipedia.org/wiki/Loudon_Wainwright_III
+  musicbrainz: 'https://musicbrainz.org/artist/3ddc1fe4-0abb-4af0-9392-e36720386842'
+  spotify: 'https://open.spotify.com/artist/3loACRmkzdtOMNJEaB6j8L'
+  wikipedia: 'https://en.wikipedia.org/wiki/Loudon_Wainwright_III'
 image_path: 03_Resources/source_material/ArtistPortraits/loudon_wainwright_iii.jpg
 biography_enhanced_at: '2025-11-21T07:21:50.829824'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Loudon_Wainwright_III
-- https://northcarolinamusichalloffame.org/inductee-item/loudon-wainwright-iii/
-- https://www.newnetherlandinstitute.org/history-and-heritage/dutch_americans/loudon-wainwright-iii
-- https://www.ttbook.org/people/loudon-wainwright-iii
-- https://www.imdb.com/name/nm0906525/bio/
-- https://www.guildhall.org/people/loudon-wainwright-iii/
+  - 'https://en.wikipedia.org/wiki/Loudon_Wainwright_III'
+  - >-
+    https://northcarolinamusichalloffame.org/inductee-item/loudon-wainwright-iii/
+  - >-
+    https://www.newnetherlandinstitute.org/history-and-heritage/dutch_americans/loudon-wainwright-iii
+  - 'https://www.ttbook.org/people/loudon-wainwright-iii'
+  - 'https://www.imdb.com/name/nm0906525/bio/'
+  - 'https://www.guildhall.org/people/loudon-wainwright-iii/'
 network_extracted: true
 entry_created: '2025-11-21T07:21:50.829837'
 last_updated: '2025-12-23T08:16:12.192189'
 gender: Male
 musicbrainz_id: 3ddc1fe4-0abb-4af0-9392-e36720386842
 tags:
-- easy listening soundtracks and musicals
-- folk
+  - easy listening soundtracks and musicals
+  - folk
 ---
 
 ![](loudon_wainwright_iii.jpg)

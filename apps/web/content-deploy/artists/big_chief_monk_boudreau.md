@@ -1,51 +1,58 @@
 ---
 biography_enhanced_at: '2026-01-11T02:22:53.270304'
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-11T02:22:53.270309'
 external_urls:
-  spotify: https://open.spotify.com/artist/6dEA9IhHWUof5HKLeYRGer
+  spotify: 'https://open.spotify.com/artist/6dEA9IhHWUof5HKLeYRGer'
   wikipedia: ''
 genres:
-- cajun
-- zydeco
-- brass band
+  - cajun
+  - zydeco
+  - brass band
 image_path: 03_Resources/source_material/ArtistPortraits/big_chief_monk_boudreau.jpg
 last_updated: '2026-01-11T02:22:53.270310'
 musical_connections:
   collaborators:
-  - Bo Dollis
-  - The Wild Magnolias (band and tribe)
-  - Robbie Robertson
-  - Anders Osborne
-  - The Golden Eagles (Mardi Gras Indian tribe and band)
+    - Bo Dollis
+    - The Wild Magnolias (band and tribe)
+    - Robbie Robertson
+    - Anders Osborne
+    - The Golden Eagles (Mardi Gras Indian tribe and band)
   influenced:
-  - Younger generations of Mardi Gras Indians in New Orleans
-  - Members of the Golden Eagles (including his children and grandchildren)
-  - Musicians and creators inspired by Mardi Gras Indians in media (e.g., characters
-    in HBO’s Treme)
+    - Younger generations of Mardi Gras Indians in New Orleans
+    - Members of the Golden Eagles (including his children and grandchildren)
+    - >-
+      Musicians and creators inspired by Mardi Gras Indians in media (e.g.,
+      characters in HBO’s Treme)
   mentors:
-  - Raymond Boudreaux
-  - Unnamed Mardi Gras Indian elders of New Orleans
+    - Raymond Boudreaux
+    - Unnamed Mardi Gras Indian elders of New Orleans
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.arts.gov/honors/heritage/joseph-pierre-big-chief-monk-boudreaux
-- https://bigchiefmonkboudreaux.com/bio-1
-- https://fboo.com/artists/jboudreaux/jboudreaux.html
-- https://www.neworleans.com/listing/big-chief-monk-boudreaux-&-the-golden-eagles/47815/
-- https://blackbirdpresents.com/lineup/big-chief-monk-boudreaux/
-- https://champions.peopleshealth.com/meet-the-champions/2018-champions/monk-boudreaux/
-- https://www.americanbluesscene.com/2021/05/big-chief-monk-boudreaux-ties-together-new-orleans-and-the-caribbean-on-bloodstains-teardrops/
-- https://www.whereyat.com/big-chief-monk-boudreaux
-- https://lpr.com/lpr_artists/big-chief-monk-boudreaux/
+  - 'https://www.arts.gov/honors/heritage/joseph-pierre-big-chief-monk-boudreaux'
+  - 'https://bigchiefmonkboudreaux.com/bio-1'
+  - 'https://fboo.com/artists/jboudreaux/jboudreaux.html'
+  - >-
+    https://www.neworleans.com/listing/big-chief-monk-boudreaux-&-the-golden-eagles/47815/
+  - 'https://blackbirdpresents.com/lineup/big-chief-monk-boudreaux/'
+  - >-
+    https://champions.peopleshealth.com/meet-the-champions/2018-champions/monk-boudreaux/
+  - >-
+    https://www.americanbluesscene.com/2021/05/big-chief-monk-boudreaux-ties-together-new-orleans-and-the-caribbean-on-bloodstains-teardrops/
+  - 'https://www.whereyat.com/big-chief-monk-boudreaux'
+  - 'https://lpr.com/lpr_artists/big-chief-monk-boudreaux/'
 spotify_data:
   followers: 2345
   id: 6dEA9IhHWUof5HKLeYRGer
   popularity: 14
-  url: https://open.spotify.com/artist/6dEA9IhHWUof5HKLeYRGer
+  url: 'https://open.spotify.com/artist/6dEA9IhHWUof5HKLeYRGer'
 status: active
 title: Big Chief Monk Boudreau
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1941-12-07'
+artist_type: person
 ---
 
 ![](big_chief_monk_boudreau.jpg)

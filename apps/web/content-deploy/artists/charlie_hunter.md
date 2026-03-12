@@ -1,18 +1,18 @@
 ---
-title: charlie hunter
+title: Charlie Hunter
 wiki_slug: charlie-hunter
 schema_version: 2
 status: active
-birth_place: Rhode Island, USA (birthplace); Berkeley, California, USA (raised)
+birth_place: 'Rhode Island, USA (birthplace); Berkeley, California, USA (raised)'
 genres:
-- jazz funk
-- acid jazz
-- jazz
+  - jazz funk
+  - acid jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/charlie_hunter.jpg
   caption: charlie hunter
   background: solo_singer
-  origin: Rhode Island, USA (birthplace); Berkeley, California, USA (raised)
+  origin: 'Rhode Island, USA (birthplace); Berkeley, California, USA (raised)'
 audio_profile:
   tempo_avg: 116.2
   energy_avg: 0.524
@@ -28,53 +28,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Michael Franti
-  - Jay Lane
-  - Dave Ellis
-  - Bobby Previte
-  - Norah Jones
-  - Kurt Elling
-  - Mos Def
+    - Michael Franti
+    - Jay Lane
+    - Dave Ellis
+    - Bobby Previte
+    - Norah Jones
+    - Kurt Elling
+    - Mos Def
   influenced:
-  - Julian Lage
-  - Adam Levy
+    - Julian Lage
+    - Adam Levy
   mentors:
-  - Joe Satriani
-  - Joe Pass
-  - Tuck Andress
+    - Joe Satriani
+    - Joe Pass
+    - Tuck Andress
 spotify_data:
   followers: 67114
   id: 0si9BxvM2C33fAIkr1pgUc
   popularity: 46
-  url: https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc
+  url: 'https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc'
 discography_enriched: true
 top_tracks:
-- More Than This (Songs From The Analog Playground)
-- Fine Corinthian Leather (Baboon Strength)
-- Day Is Done (Songs From The Analog Playground)
-- Detesto En Mí (Lo Sagrado)
-- Creole (Songs From The Analog Playground)
-- Porque Existo (Lo Sagrado)
-- Shirley Chisholm
-- Blues for Ben (All Kooked Out!)
-- Ok Boomer (People Please)
-- Lo Sagrado (Lo Sagrado)
+  - More Than This (Songs From The Analog Playground)
+  - Fine Corinthian Leather (Baboon Strength)
+  - Day Is Done (Songs From The Analog Playground)
+  - Detesto En Mí (Lo Sagrado)
+  - Creole (Songs From The Analog Playground)
+  - Porque Existo (Lo Sagrado)
+  - Shirley Chisholm
+  - Blues for Ben (All Kooked Out!)
+  - Ok Boomer (People Please)
+  - Lo Sagrado (Lo Sagrado)
 external_urls:
-  spotify: https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc
-  wikipedia: https://en.wikipedia.org/wiki/Charlie_Hunter
+  spotify: 'https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc'
+  wikipedia: 'https://en.wikipedia.org/wiki/Charlie_Hunter'
 image_path: 03_Resources/source_material/ArtistPortraits/charlie_hunter.jpg
 biography_enhanced_at: '2025-11-20T07:10:18.291132'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Charlie_Hunter
-- https://bandonthewall.org/2016/10/interview-charlie-hunter/
-- https://groundupmusic.net/artists/charliehunter
-- https://www.bluenote.com/artist/charlie-hunter/
-- https://www.sfcv.org/articles/feature/charlie-hunter-prodigal-guitarist-returns-bay-area
+  - 'https://en.wikipedia.org/wiki/Charlie_Hunter'
+  - 'https://bandonthewall.org/2016/10/interview-charlie-hunter/'
+  - 'https://groundupmusic.net/artists/charliehunter'
+  - 'https://www.bluenote.com/artist/charlie-hunter/'
+  - >-
+    https://www.sfcv.org/articles/feature/charlie-hunter-prodigal-guitarist-returns-bay-area
 network_extracted: true
 entry_created: '2025-11-20T07:10:18.291142'
 last_updated: '2025-12-23T08:16:06.733146'
+origin: 'Berkeley, California, United States'
+birth_date: '1967-05-23'
+artist_type: person
 ---
 
 ![](charlie_hunter.jpg)

@@ -1,16 +1,16 @@
 ---
-title: karen dalton
+title: Karen Dalton
 wiki_slug: karen-dalton
 schema_version: 2
 status: active
-birth_place: Enid, Oklahoma, United States
+birth_place: 'Enid, Oklahoma, United States'
 genres:
-- folk
+  - folk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/karen_dalton.jpg
   caption: karen dalton
   background: solo_singer
-  origin: Enid, Oklahoma, United States
+  origin: 'Enid, Oklahoma, United States'
 audio_profile:
   tempo_avg: 112.3
   energy_avg: 0.299
@@ -26,56 +26,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tim Hardin
-  - Fred Neil
-  - Bob Dylan
-  - Richard Tucker
-  - Peter Stampfel (Holy Modal Rounders)
+    - Tim Hardin
+    - Fred Neil
+    - Bob Dylan
+    - Richard Tucker
+    - Peter Stampfel (Holy Modal Rounders)
   influenced:
-  - Joanna Newsom
-  - Devendra Banhart
-  - Nick Cave
-  - Courtney Barnett
+    - Joanna Newsom
+    - Devendra Banhart
+    - Nick Cave
+    - Courtney Barnett
   mentors:
-  - Bessie Smith
-  - Billie Holiday
-  - Traditional American folk and blues (Oklahoma roots)
+    - Bessie Smith
+    - Billie Holiday
+    - Traditional American folk and blues (Oklahoma roots)
 spotify_data:
   followers: 162134
   id: 5O5V29YvM6AzAQ0rNt59fy
   popularity: 45
-  url: https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy
+  url: 'https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy'
 discography_enriched: true
 top_tracks:
-- Something On Your Mind (In My Own Time)
-- Little Bit Of Rain (It's So Hard To Tell Who's Going To Love You The Best)
-- It Hurts Me Too (It's So Hard To Tell Who's Going To Love You The Best)
-- Reason to Believe (1966)
-- Are You Leaving For The Country (In My Own Time)
-- Something on Your Mind (In My Own Time)
-- Sweet Substitute (It's So Hard To Tell Who's Going To Love You The Best)
-- Take Me (In My Own Time)
-- Something on Your Mind (In My Own Time)
-- I Love You More Than Words Can Say (It's So Hard To Tell Who's Going To Love You The Best)
+  - Something On Your Mind (In My Own Time)
+  - Little Bit Of Rain (It's So Hard To Tell Who's Going To Love You The Best)
+  - It Hurts Me Too (It's So Hard To Tell Who's Going To Love You The Best)
+  - Reason to Believe (1966)
+  - Are You Leaving For The Country (In My Own Time)
+  - Something on Your Mind (In My Own Time)
+  - Sweet Substitute (It's So Hard To Tell Who's Going To Love You The Best)
+  - Take Me (In My Own Time)
+  - Something on Your Mind (In My Own Time)
+  - >-
+    I Love You More Than Words Can Say (It's So Hard To Tell Who's Going To Love
+    You The Best)
 external_urls:
-  spotify: https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy
-  wikipedia: https://en.wikipedia.org/wiki/Karen_Dalton_(singer)
+  spotify: 'https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy'
+  wikipedia: 'https://en.wikipedia.org/wiki/Karen_Dalton_(singer)'
 image_path: 03_Resources/source_material/ArtistPortraits/karen_dalton.jpg
 biography_enhanced_at: '2025-12-19T01:55:36.303042'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://johnnywestmusic.wordpress.com/2014/10/29/karen-dalton-an-oral-history-sort-of/
-- https://www.wkar.org/2021-10-04/new-documentary-remembers-the-tragic-life-of-folk-singer-karen-dalton
-- https://buzzyjackson.substack.com/p/karen-dalton
-- https://theboot.com/remembering-karen-dalton/
-- https://acousticguitar.com/documentary-karen-dalton-in-my-own-time-profiles-the-underappreciated-folk-music-figure/
-- https://hypercritic.org/collection/karen-dalton-in-my-own-time-review
-- https://en.wikipedia.org/wiki/Karen_Dalton_(singer)
+  - >-
+    https://johnnywestmusic.wordpress.com/2014/10/29/karen-dalton-an-oral-history-sort-of/
+  - >-
+    https://www.wkar.org/2021-10-04/new-documentary-remembers-the-tragic-life-of-folk-singer-karen-dalton
+  - 'https://buzzyjackson.substack.com/p/karen-dalton'
+  - 'https://theboot.com/remembering-karen-dalton/'
+  - >-
+    https://acousticguitar.com/documentary-karen-dalton-in-my-own-time-profiles-the-underappreciated-folk-music-figure/
+  - 'https://hypercritic.org/collection/karen-dalton-in-my-own-time-review'
+  - 'https://en.wikipedia.org/wiki/Karen_Dalton_(singer)'
 network_extracted: true
 entry_created: '2025-12-19T01:55:36.303049'
 last_updated: '2025-12-23T08:16:11.174858'
-
+birth_date: '1937-07-19'
+death_date: '1993-03-19'
+artist_type: person
 ---
 
 ![](karen_dalton.jpg)

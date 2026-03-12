@@ -1,17 +1,17 @@
 ---
-title: grupo fantasma
+title: Grupo Fantasma
 wiki_slug: grupo-fantasma
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 birth_date: '2000'
 genres:
-- latin afrobeat
-- cumbia
-- latin alternative
-- chicha
+  - latin afrobeat
+  - cumbia
+  - latin alternative
+  - chicha
 instruments:
-- original
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/grupo_fantasma.jpg
   caption: grupo fantasma
@@ -32,61 +32,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Prince
-  - Ozomatli
-  - Locos Por Juana
-  - Spoon
+    - Prince
+    - Ozomatli
+    - Locos Por Juana
+    - Spoon
   influenced:
-  - Brownout
-  - Money Chicha
+    - Brownout
+    - Money Chicha
   mentors:
-  - Classic Colombian cumbia artists
+    - Classic Colombian cumbia artists
 spotify_data:
   followers: 16857
   id: 1EJ0KSMkpoQJHChu5AyTHE
   popularity: 26
-  url: https://open.spotify.com/artist/1EJ0KSMkpoQJHChu5AyTHE
+  url: 'https://open.spotify.com/artist/1EJ0KSMkpoQJHChu5AyTHE'
 discography_enriched: true
 top_tracks:
-- Cumbia De Los Pajaritos (Sonidos Gold)
-- Cumbia de los Pajaritos (Sonidos Gold)
-- Porque (Problemas)
-- Arroz Con Frijoles (Sonidos Gold)
-- Waitin’ for the Bus
-- Chocolate (Movimiento Popular)
-- 'Cuidado (American Music: Volume 7)'
-- El Sabio Soy Yo (Sonidos Gold)
-- Gimme Some (Sonidos Gold)
-- 'The Wall (American Music: Volume 7)'
+  - Cumbia De Los Pajaritos (Sonidos Gold)
+  - Cumbia de los Pajaritos (Sonidos Gold)
+  - Porque (Problemas)
+  - Arroz Con Frijoles (Sonidos Gold)
+  - Waitin’ for the Bus
+  - Chocolate (Movimiento Popular)
+  - 'Cuidado (American Music: Volume 7)'
+  - El Sabio Soy Yo (Sonidos Gold)
+  - Gimme Some (Sonidos Gold)
+  - 'The Wall (American Music: Volume 7)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d1aed914-6a94-4643-9af4-b80682aa6c14
-  spotify: https://open.spotify.com/artist/1EJ0KSMkpoQJHChu5AyTHE
-  wikipedia: https://en.wikipedia.org/wiki/Grupo_Fantasma
+  musicbrainz: 'https://musicbrainz.org/artist/d1aed914-6a94-4643-9af4-b80682aa6c14'
+  spotify: 'https://open.spotify.com/artist/1EJ0KSMkpoQJHChu5AyTHE'
+  wikipedia: 'https://en.wikipedia.org/wiki/Grupo_Fantasma'
 image_path: 03_Resources/source_material/ArtistPortraits/grupo_fantasma.jpg
 biography_enhanced_at: '2025-10-19T11:54:09.744293'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Grupo+Fantasma/+wiki
-- https://www.latinousa.org/2023/10/17/grupofantasma2/
-- https://www.grupofantasma.com/about
-- https://www.texasmonthly.com/arts-entertainment/grupo-fantasma-on-their-latest-album-and-being-pigeonholed-as-latin-music/
-- https://www.imdb.com/name/nm2904777/bio/
-- https://kutx.org/sessions-interviews/studio1a/groupo-fantasma-3-28-2019/
-- https://www.popmatters.com/grupo-fantasma-2496137408.html
-- https://www.lmtonline.com/local/article/austin-cumbia-mariachi-ranchera-latino-spanish-20398544.php
+  - 'https://www.last.fm/music/Grupo+Fantasma/+wiki'
+  - 'https://www.latinousa.org/2023/10/17/grupofantasma2/'
+  - 'https://www.grupofantasma.com/about'
+  - >-
+    https://www.texasmonthly.com/arts-entertainment/grupo-fantasma-on-their-latest-album-and-being-pigeonholed-as-latin-music/
+  - 'https://www.imdb.com/name/nm2904777/bio/'
+  - 'https://kutx.org/sessions-interviews/studio1a/groupo-fantasma-3-28-2019/'
+  - 'https://www.popmatters.com/grupo-fantasma-2496137408.html'
+  - >-
+    https://www.lmtonline.com/local/article/austin-cumbia-mariachi-ranchera-latino-spanish-20398544.php
 network_extracted: true
 entry_created: '2025-10-19T11:54:09.744297'
 last_updated: '2025-12-23T08:16:09.381869'
-disambiguation: latin funk orchestra from Austin, Texas
+disambiguation: 'latin funk orchestra from Austin, Texas'
 musicbrainz_enriched_at: '2025-10-21T09:52:37.930915'
 musicbrainz_id: d1aed914-6a94-4643-9af4-b80682aa6c14
-origin: Austin, Texas, United States
+origin: 'Austin, Texas, United States'
 tags:
-- cumbia
-- funk
-- latin
-
+  - cumbia
+  - funk
+  - latin
+birth_place: Austin
 ---
 
 ![](grupo_fantasma.jpg)

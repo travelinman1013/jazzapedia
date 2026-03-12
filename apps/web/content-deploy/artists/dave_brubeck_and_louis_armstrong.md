@@ -4,10 +4,11 @@ wiki_slug: dave-brubeck-louis-armstrong
 schema_version: 2
 status: active
 genres:
-- jazz
-- cool jazz
+  - jazz
+  - cool jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/dave_brubeck_and_louis_armstrong.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/dave_brubeck_and_louis_armstrong.jpg
   caption: Dave Brubeck & Louis Armstrong
   background: solo_singer
 audio_profile:
@@ -25,47 +26,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Iola Brubeck
-  - Dave Brubeck Quartet (Gene Wright, Joe Morello)
-  - Louis Armstrong All-Stars (Trummy Young, Joe Darensbourg, Billy Kyle, Danny Barcelona, Irving Manning)
-  - Lambert, Hendricks & Ross
-  - Carmen McRae
+    - Iola Brubeck
+    - 'Dave Brubeck Quartet (Gene Wright, Joe Morello)'
+    - >-
+      Louis Armstrong All-Stars (Trummy Young, Joe Darensbourg, Billy Kyle,
+      Danny Barcelona, Irving Manning)
+    - 'Lambert, Hendricks & Ross'
+    - Carmen McRae
   influenced: []
   mentors: []
 spotify_data:
   followers: 7580
   id: 0dvI5UOAa3FcQ78nmQYWbq
   popularity: 27
-  url: https://open.spotify.com/artist/0dvI5UOAa3FcQ78nmQYWbq
+  url: 'https://open.spotify.com/artist/0dvI5UOAa3FcQ78nmQYWbq'
 discography_enriched: true
 top_tracks:
-- Body And Soul (24 Classic Original Recordings)
-- Singin' In The Rain (24 Classic Original Recordings)
-- Let's Fall In Love (24 Classic Original Recordings)
-- Blue Moon (24 Classic Original Recordings)
-- Perfidia (24 Classic Original Recordings)
-- Heart And Soul (24 Classic Original Recordings)
-- Alice In Wonderland
-- I Didn't Know What Time It Was (24 Classic Original Recordings)
-- You Stepped Out Of A Dream (24 Classic Original Recordings)
-- Laura (24 Classic Original Recordings)
+  - Body And Soul (24 Classic Original Recordings)
+  - Singin' In The Rain (24 Classic Original Recordings)
+  - Let's Fall In Love (24 Classic Original Recordings)
+  - Blue Moon (24 Classic Original Recordings)
+  - Perfidia (24 Classic Original Recordings)
+  - Heart And Soul (24 Classic Original Recordings)
+  - Alice In Wonderland
+  - I Didn't Know What Time It Was (24 Classic Original Recordings)
+  - You Stepped Out Of A Dream (24 Classic Original Recordings)
+  - Laura (24 Classic Original Recordings)
 external_urls:
-  spotify: https://open.spotify.com/artist/0dvI5UOAa3FcQ78nmQYWbq
-  wikipedia: https://en.wikipedia.org/wiki/The_Real_Ambassadors
-image_path: 03_Resources/source_material/ArtistPortraits/dave_brubeck_and_louis_armstrong.jpg
+  spotify: 'https://open.spotify.com/artist/0dvI5UOAa3FcQ78nmQYWbq'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Real_Ambassadors'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/dave_brubeck_and_louis_armstrong.jpg
 biography_enhanced_at: '2025-12-23T02:04:17.365407'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Real_Ambassadors
-- https://www.kqed.org/arts/13916363/dave-and-iola-brubeck-louis-armstrong-and-the-civil-rights-musical-that-never-happened
-- https://jazzimagesrecords.com/jean-pierre-leloir/75728-the-real-ambassadors-w-dave-brubeck-8437016248546.html
-- https://beta.prx.org/stories/384005
-- https://www.wnyc.org/story/the-real-ambassadors--a-jazz-opera-for-louis-armstrong-by-dave--iola-brubeck/
-- https://www.pacific.edu/pacific-newsroom/professor-emeritus-book-sheds-light-brubeck-armstrong-allyship
+  - 'https://en.wikipedia.org/wiki/The_Real_Ambassadors'
+  - >-
+    https://www.kqed.org/arts/13916363/dave-and-iola-brubeck-louis-armstrong-and-the-civil-rights-musical-that-never-happened
+  - >-
+    https://jazzimagesrecords.com/jean-pierre-leloir/75728-the-real-ambassadors-w-dave-brubeck-8437016248546.html
+  - 'https://beta.prx.org/stories/384005'
+  - >-
+    https://www.wnyc.org/story/the-real-ambassadors--a-jazz-opera-for-louis-armstrong-by-dave--iola-brubeck/
+  - >-
+    https://www.pacific.edu/pacific-newsroom/professor-emeritus-book-sheds-light-brubeck-armstrong-allyship
 network_extracted: true
 entry_created: '2025-12-23T02:04:17.365419'
 last_updated: '2025-12-23T08:16:07.497948'
+artist_type: band
 ---
 
 ![](dave_brubeck_and_louis_armstrong.jpg)

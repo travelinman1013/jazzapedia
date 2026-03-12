@@ -23,52 +23,65 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Wessell Anderson
-  - Wycliffe Gordon
-  - Reginald Veal
-  - Herlin Riley
-  - Marcus Roberts / Eric Reed
+    - Wessell Anderson
+    - Wycliffe Gordon
+    - Reginald Veal
+    - Herlin Riley
+    - Marcus Roberts / Eric Reed
   influenced:
-  - Christian McBride
-  - Roy Hargrove
-  - Harry Connick Jr.
-  - Nicholas Payton
+    - Christian McBride
+    - Roy Hargrove
+    - Harry Connick Jr.
+    - Nicholas Payton
   mentors:
-  - Ellis Marsalis Jr.
-  - Art Blakey
+    - Ellis Marsalis Jr.
+    - Art Blakey
 spotify_data:
   followers: 22924
   id: 3cOaUqzZ7TYloRPGcuQnMY
   popularity: 26
-  url: https://open.spotify.com/artist/3cOaUqzZ7TYloRPGcuQnMY
+  url: 'https://open.spotify.com/artist/3cOaUqzZ7TYloRPGcuQnMY'
 discography_enriched: true
 top_tracks:
-- I'm Gonna Find Another You (I'm Gonna Find Another You (feat. John Mayer))
-- 'I''m Gonna Move to the Outskirts of Town (United We Swing: Best of the Jazz at Lincoln Center Galas)'
-- I Wish I Knew How It Would Feel to Be Free - Edit (I Wish I Knew How It Would Feel to Be Free (Edit))
-- 'It Takes a Lot to Laugh, It Takes a Train to Cry (United We Swing: Best of the Jazz at Lincoln Center Galas)'
-- 'Please Baby Don''t (United We Swing: Best of the Jazz at Lincoln Center Galas)'
-- 'I''m Gonna Find Another You (United We Swing: Best of the Jazz at Lincoln Center Galas)'
-- 'The Last Time (United We Swing: Best of the Jazz at Lincoln Center Galas)'
-- 'I''m Not Rough (United We Swing: Best of the Jazz at Lincoln Center Galas)'
-- 'Creole Love Call (United We Swing: Best of the Jazz at Lincoln Center Galas)'
-- 'Milk Cow Blues (United We Swing: Best of the Jazz at Lincoln Center Galas)'
+  - I'm Gonna Find Another You (I'm Gonna Find Another You (feat. John Mayer))
+  - >-
+    I'm Gonna Move to the Outskirts of Town (United We Swing: Best of the Jazz
+    at Lincoln Center Galas)
+  - >-
+    I Wish I Knew How It Would Feel to Be Free - Edit (I Wish I Knew How It
+    Would Feel to Be Free (Edit))
+  - >-
+    It Takes a Lot to Laugh, It Takes a Train to Cry (United We Swing: Best of
+    the Jazz at Lincoln Center Galas)
+  - >-
+    Please Baby Don't (United We Swing: Best of the Jazz at Lincoln Center
+    Galas)
+  - >-
+    I'm Gonna Find Another You (United We Swing: Best of the Jazz at Lincoln
+    Center Galas)
+  - 'The Last Time (United We Swing: Best of the Jazz at Lincoln Center Galas)'
+  - 'I''m Not Rough (United We Swing: Best of the Jazz at Lincoln Center Galas)'
+  - 'Creole Love Call (United We Swing: Best of the Jazz at Lincoln Center Galas)'
+  - 'Milk Cow Blues (United We Swing: Best of the Jazz at Lincoln Center Galas)'
 external_urls:
-  spotify: https://open.spotify.com/artist/3cOaUqzZ7TYloRPGcuQnMY
-  wikipedia: https://en.wikipedia.org/wiki/Wynton_Marsalis
+  spotify: 'https://open.spotify.com/artist/3cOaUqzZ7TYloRPGcuQnMY'
+  wikipedia: 'https://en.wikipedia.org/wiki/Wynton_Marsalis'
 image_path: 03_Resources/source_material/ArtistPortraits/Wynton_Marsalis_Septet.jpg
 biography_enhanced_at: '2025-10-19T11:11:16.567788'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Wynton_Marsalis
-- https://theconrad.org/bio/wynton-marsalis/
-- https://wyntonmarsalis.org/about/bio
-- https://wyntonmarsalis.org/tour/detail/8106
+  - 'https://en.wikipedia.org/wiki/Wynton_Marsalis'
+  - 'https://theconrad.org/bio/wynton-marsalis/'
+  - 'https://wyntonmarsalis.org/about/bio'
+  - 'https://wyntonmarsalis.org/tour/detail/8106'
 network_extracted: true
 entry_created: '2025-10-19T11:11:16.567801'
 last_updated: '2025-12-23T08:16:04.314484'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+birth_place: 'New Orleans, Louisiana, United States'
+birth_date: '1961'
+artist_type: band
 ---
 
 ![](Wynton_Marsalis_Septet.jpg)

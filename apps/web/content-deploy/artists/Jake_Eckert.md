@@ -3,14 +3,18 @@ title: Jake Eckert
 wiki_slug: jake-eckert
 schema_version: 2
 status: active
-birth_place: Atlanta, Georgia, USA (early life); New Orleans, Louisiana, USA (current residence)
+birth_place: >-
+  Atlanta, Georgia, USA (early life); New Orleans, Louisiana, USA (current
+  residence)
 genres:
-- emo
+  - emo
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Jake_Eckert.jpg
   caption: Jake Eckert
   background: solo_singer
-  origin: Atlanta, Georgia, USA (early life); New Orleans, Louisiana, USA (current residence)
+  origin: >-
+    Atlanta, Georgia, USA (early life); New Orleans, Louisiana, USA (current
+    residence)
 audio_profile:
   tempo_avg: 134.3
   energy_avg: 0.786
@@ -26,44 +30,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dirty Dozen Brass Band
-  - New Orleans Suspects
-  - George Porter Jr.
+    - Dirty Dozen Brass Band
+    - New Orleans Suspects
+    - George Porter Jr.
   influenced:
-  - River Eckert
+    - River Eckert
   mentors:
-  - Larry Carlton
-  - Col. Bruce Hampton
+    - Larry Carlton
+    - Col. Bruce Hampton
 spotify_data:
   followers: 377197
   id: 615rzxFYpRYd5gY8eg61NK
   popularity: 45
-  url: https://open.spotify.com/artist/615rzxFYpRYd5gY8eg61NK
+  url: 'https://open.spotify.com/artist/615rzxFYpRYd5gY8eg61NK'
 discography_enriched: true
 top_tracks:
-- Ecstasy (Ecstasy)
-- KMS (KMS)
-- Angel (Angel)
-- I Want Your Feelings (I Want Your Feelings)
-- Animal (Animal)
-- Mental Handcuffs (Mental Handcuffs)
-- dead hair (dead hair)
-- Mess (Mess)
-- Cut Me Clean (Cut Me Clean)
-- I Know Were Dying (MESS)
+  - Ecstasy (Ecstasy)
+  - KMS (KMS)
+  - Angel (Angel)
+  - I Want Your Feelings (I Want Your Feelings)
+  - Animal (Animal)
+  - Mental Handcuffs (Mental Handcuffs)
+  - dead hair (dead hair)
+  - Mess (Mess)
+  - Cut Me Clean (Cut Me Clean)
+  - I Know Were Dying (MESS)
 external_urls:
-  spotify: https://open.spotify.com/artist/615rzxFYpRYd5gY8eg61NK
+  spotify: 'https://open.spotify.com/artist/615rzxFYpRYd5gY8eg61NK'
   wikipedia: Not available
 image_path: 03_Resources/source_material/ArtistPortraits/Jake_Eckert.jpg
 biography_enhanced_at: '2025-10-20T09:55:55.004725'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://thefunkyuncle.live/artist/jake-eckert-friends/
-- https://liveforlivemusic.com/news/piano-prodigy-river-eckert-ivan-neville-pass-the-torch/
+  - 'https://thefunkyuncle.live/artist/jake-eckert-friends/'
+  - >-
+    https://liveforlivemusic.com/news/piano-prodigy-river-eckert-ivan-neville-pass-the-torch/
 network_extracted: true
 entry_created: '2025-10-20T09:55:55.004739'
 last_updated: '2025-12-23T08:16:02.412508'
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1976-04-27'
+artist_type: person
 ---
 
 ![](Jake_Eckert.jpg)

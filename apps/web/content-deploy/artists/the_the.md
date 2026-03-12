@@ -1,16 +1,16 @@
 ---
-title: the the
+title: The The
 wiki_slug: the-the
 schema_version: 2
 status: active
 genres:
-- new wave
+  - new wave
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_the.jpg
   caption: the the
   background: solo_singer
 audio_profile:
-  tempo_avg: 125.0
+  tempo_avg: 125
   energy_avg: 0.664
   valence_avg: 0.523
   danceability_avg: 0.582
@@ -24,51 +24,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Johnny Marr
-  - Sinéad O'Connor
-  - James Eller
-  - David Palmer
-  - Simon Fisher Turner
-  - Colin Lloyd-Tucker
-  - Mike Thorne
+    - Johnny Marr
+    - Sinéad O'Connor
+    - James Eller
+    - David Palmer
+    - Simon Fisher Turner
+    - Colin Lloyd-Tucker
+    - Mike Thorne
   influenced: []
   mentors:
-  - Ivo Watts-Russell
-  - Bruce Gilbert and Graham Lewis (Wire)
+    - Ivo Watts-Russell
+    - Bruce Gilbert and Graham Lewis (Wire)
 spotify_data:
   followers: 395778
   id: 7cKtqv9cYVlOwnuCFH95ce
   popularity: 52
-  url: https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce
+  url: 'https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce'
 discography_enriched: true
 top_tracks:
-- This Is the Day (Soul Mining)
-- This Is the Day (Soul Mining)
-- This Is the Day (London Town 1983-1993)
-- Uncertain Smile (Soul Mining)
-- Uncertain Smile (Soul Mining)
-- Slow Emotion Replayed
-- Slow Emotion Replay (Dusk)
-- TheWhisperers (NakedSelf)
-- This Is The Night (Dusk)
-- Love Is Stronger Than Death (Dusk)
+  - This Is the Day (Soul Mining)
+  - This Is the Day (Soul Mining)
+  - This Is the Day (London Town 1983-1993)
+  - Uncertain Smile (Soul Mining)
+  - Uncertain Smile (Soul Mining)
+  - Slow Emotion Replayed
+  - Slow Emotion Replay (Dusk)
+  - TheWhisperers (NakedSelf)
+  - This Is The Night (Dusk)
+  - Love Is Stronger Than Death (Dusk)
 external_urls:
-  spotify: https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce
-  wikipedia: https://en.wikipedia.org/wiki/The_The
+  spotify: 'https://open.spotify.com/artist/7cKtqv9cYVlOwnuCFH95ce'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_The'
 image_path: 03_Resources/source_material/ArtistPortraits/the_the.jpg
 biography_enhanced_at: '2025-11-29T07:02:34.253985'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.imdb.com/name/nm0425777/bio/
-- https://en.wikipedia.org/wiki/The_The
-- https://bigtakeover.com/interviews/interview-matt-johnson-the-the
-- https://www.thethe.com/about/
-- https://popdose.com/the-popdose-interview-matt-johnson-the-the/
+  - 'https://www.imdb.com/name/nm0425777/bio/'
+  - 'https://en.wikipedia.org/wiki/The_The'
+  - 'https://bigtakeover.com/interviews/interview-matt-johnson-the-the'
+  - 'https://www.thethe.com/about/'
+  - 'https://popdose.com/the-popdose-interview-matt-johnson-the-the/'
 network_extracted: true
 entry_created: '2025-11-29T07:02:34.253998'
 last_updated: '2025-12-23T08:16:17.220537'
-origin: London, England, United Kingdom
+origin: 'London, England, United Kingdom'
+artist_type: person
 ---
 
 ![](the_the.jpg)

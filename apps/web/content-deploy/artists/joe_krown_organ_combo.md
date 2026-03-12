@@ -1,52 +1,53 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2025-12-27T01:27:25.398330'
 enhancement_provider: perplexity
 entry_created: '2025-12-27T01:27:25.398341'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/66797c7d-0aa4-49c7-851d-5dd27f9ed4f1
-  spotify: https://open.spotify.com/artist/2V4l4rf9q1ud9qpi6KKFbZ
-  wikipedia: https://en.wikipedia.org/wiki/Joe_Krown
+  musicbrainz: 'https://musicbrainz.org/artist/66797c7d-0aa4-49c7-851d-5dd27f9ed4f1'
+  spotify: 'https://open.spotify.com/artist/2V4l4rf9q1ud9qpi6KKFbZ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Joe_Krown'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/joe_krown_organ_combo.jpg
 last_updated: '2025-12-27T01:27:25.398343'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7c92deac-bdfe-4074-8cbb-fa270fe5215e
-  name: Joe Krown
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7c92deac-bdfe-4074-8cbb-fa270fe5215e
+    name: Joe Krown
 musical_connections:
   collaborators:
-  - Brint Anderson
-  - Brent Rose
-  - Mike Barras
-  - Cassandra Faulconer
-  - Walter 'Wolfman' Washington
-  - Russell Batiste, Jr.
-  - Johnny Sansone
-  - John Fohl
-  - Kenny Wayne Shepherd
+    - Brint Anderson
+    - Brent Rose
+    - Mike Barras
+    - Cassandra Faulconer
+    - Walter 'Wolfman' Washington
+    - 'Russell Batiste, Jr.'
+    - Johnny Sansone
+    - John Fohl
+    - Kenny Wayne Shepherd
   influenced: []
   mentors:
-  - Clarence 'Gatemouth' Brown
+    - Clarence 'Gatemouth' Brown
 musicbrainz_id: 66797c7d-0aa4-49c7-851d-5dd27f9ed4f1
 network_extracted: true
-origin: New Orleans
+origin: 'New Orleans, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Joe_Krown
-- https://www.allaboutjazz.com/musicians/joe-krown/
-- https://www.joekrown.com/combo.htm
-- https://www.churchofneworleans.com/church-of-new-orleans-blog/2020/6/30/happy-birthday-joe-krown-326
-- https://www.joekrown.com/bio
+  - 'https://en.wikipedia.org/wiki/Joe_Krown'
+  - 'https://www.allaboutjazz.com/musicians/joe-krown/'
+  - 'https://www.joekrown.com/combo.htm'
+  - >-
+    https://www.churchofneworleans.com/church-of-new-orleans-blog/2020/6/30/happy-birthday-joe-krown-326
+  - 'https://www.joekrown.com/bio'
 spotify_data:
   followers: 107
   id: 2V4l4rf9q1ud9qpi6KKFbZ
   popularity: 0
-  url: https://open.spotify.com/artist/2V4l4rf9q1ud9qpi6KKFbZ
+  url: 'https://open.spotify.com/artist/2V4l4rf9q1ud9qpi6KKFbZ'
 status: active
-title: joe krown organ combo
+title: Joe Krown Organ Combo
 ---
 
 ![](joe_krown_organ_combo.jpg)

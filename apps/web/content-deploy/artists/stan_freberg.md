@@ -1,16 +1,16 @@
 ---
-title: stan freberg
+title: Stan Freberg
 wiki_slug: stan-freberg
 schema_version: 2
 status: active
-birth_place: Pasadena, California, United States
+birth_place: 'Pasadena, California, United States'
 genres:
-- comedy
+  - comedy
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/stan_freberg.jpg
   caption: stan freberg
   background: solo_singer
-  origin: Pasadena, California, United States
+  origin: 'Pasadena, California, United States'
 audio_profile:
   tempo_avg: 122.3
   energy_avg: 0.334
@@ -26,51 +26,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Daws Butler
-  - June Foray
-  - Billy May
-  - The Jud Conlon Singers
-  - Peggy Taylor
+    - Daws Butler
+    - June Foray
+    - Billy May
+    - The Jud Conlon Singers
+    - Peggy Taylor
   influenced:
-  - '"Weird Al" Yankovic'
+    - '"Weird Al" Yankovic'
   mentors:
-  - Bob Clampett
-  - Cliffie Stone
+    - Bob Clampett
+    - Cliffie Stone
 spotify_data:
   followers: 5644
   id: 31wLmtRSwO4f50DFG8zv4s
   popularity: 21
-  url: https://open.spotify.com/artist/31wLmtRSwO4f50DFG8zv4s
+  url: 'https://open.spotify.com/artist/31wLmtRSwO4f50DFG8zv4s'
 discography_enriched: true
 top_tracks:
-- Banana Boat (Day-O) (Frebergs Fines)
-- Nuttin' For Christmas
-- Banana Boat (Day-O)
-- St. George & The Dragonet
-- St George And The Dragonet (Frebergs Fines)
-- The Banana Boat Song (The Crazy World Of Stan Freberg)
-- Sh-Boom
-- St. George & The Dragonet
-- The Yellow Rose Of Texas
-- Little Blue Riding Hood
+  - Banana Boat (Day-O) (Frebergs Fines)
+  - Nuttin' For Christmas
+  - Banana Boat (Day-O)
+  - St. George & The Dragonet
+  - St George And The Dragonet (Frebergs Fines)
+  - The Banana Boat Song (The Crazy World Of Stan Freberg)
+  - Sh-Boom
+  - St. George & The Dragonet
+  - The Yellow Rose Of Texas
+  - Little Blue Riding Hood
 external_urls:
-  spotify: https://open.spotify.com/artist/31wLmtRSwO4f50DFG8zv4s
-  wikipedia: https://en.wikipedia.org/wiki/Stan_Freberg
+  spotify: 'https://open.spotify.com/artist/31wLmtRSwO4f50DFG8zv4s'
+  wikipedia: 'https://en.wikipedia.org/wiki/Stan_Freberg'
 image_path: 03_Resources/source_material/ArtistPortraits/stan_freberg.jpg
 biography_enhanced_at: '2025-12-06T05:58:18.264567'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Stan_Freberg
-- https://www.imdb.com/name/nm0292677/bio/
-- https://www.larryprintz.com/history/satirist-stan-freberg-makes-history-again
-- https://laughterlog.com/2023/03/21/stan-freberg/
-- https://www.loc.gov/static/programs/national-recording-preservation-board/documents/Freberg_USA_Vol1.pdf
-- https://leemichaelwithers.tripod.com/sfh_bio.htm
-- https://walkoffame.com/stan-freberg/
+  - 'https://en.wikipedia.org/wiki/Stan_Freberg'
+  - 'https://www.imdb.com/name/nm0292677/bio/'
+  - >-
+    https://www.larryprintz.com/history/satirist-stan-freberg-makes-history-again
+  - 'https://laughterlog.com/2023/03/21/stan-freberg/'
+  - >-
+    https://www.loc.gov/static/programs/national-recording-preservation-board/documents/Freberg_USA_Vol1.pdf
+  - 'https://leemichaelwithers.tripod.com/sfh_bio.htm'
+  - 'https://walkoffame.com/stan-freberg/'
 network_extracted: true
 entry_created: '2025-12-06T05:58:18.264572'
 last_updated: '2025-12-23T08:16:16.017641'
+birth_date: '1926-08-07'
+artist_type: person
 ---
 
 ![](stan_freberg.jpg)

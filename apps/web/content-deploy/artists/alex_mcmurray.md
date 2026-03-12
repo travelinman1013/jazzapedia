@@ -1,25 +1,29 @@
 ---
-title: alex mcmurray
+title: Alex McMurray
 wiki_slug: alex-mcmurray
 schema_version: 2
 artist_type: person
 status: active
-birth_place: Red Bank, New Jersey, United States (born); New Orleans, Louisiana, United States (primary musical base)
+birth_place: >-
+  Red Bank, New Jersey, United States (born); New Orleans, Louisiana, United
+  States (primary musical base)
 genres: []
 instruments:
-- guitar
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - guitar
-  mbid: 51485ff3-c952-4920-bc20-be55a3604266
-  name: Happy Talk Band
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 51485ff3-c952-4920-bc20-be55a3604266
+    name: Happy Talk Band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/alex_mcmurray.jpg
   caption: alex mcmurray
   background: non_vocal_instrumentalist
-  origin: Red Bank, New Jersey, United States (born); New Orleans, Louisiana, United States (primary musical base)
+  origin: >-
+    Red Bank, New Jersey, United States (born); New Orleans, Louisiana, United
+    States (primary musical base)
 audio_profile:
   tempo_avg: 112.5
   energy_avg: 0.413
@@ -35,57 +39,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Matt Perrine
-  - “Washboard” Chaz Leary
-  - Jeffrey Clemens
-  - Joe Cabral
-  - Jonathan Freilich
-  - Rene Coman
-  - David Torkanowsky
-  - Susan Cowsill
-  - Carlo Nuccio
-  - Kevin O’Day and Andrew Wolf
-  - Paul Sanchez
-  - Ingrid Lucia
-  - Happy Talk Band, the Jackals, the Geraniums
+    - Matt Perrine
+    - “Washboard” Chaz Leary
+    - Jeffrey Clemens
+    - Joe Cabral
+    - Jonathan Freilich
+    - Rene Coman
+    - David Torkanowsky
+    - Susan Cowsill
+    - Carlo Nuccio
+    - Kevin O’Day and Andrew Wolf
+    - Paul Sanchez
+    - Ingrid Lucia
+    - 'Happy Talk Band, the Jackals, the Geraniums'
   influenced: []
   mentors: []
 spotify_data:
   followers: 932
   id: 24G71yIWbvtoYNiRFiLoup
   popularity: 9
-  url: https://open.spotify.com/artist/24G71yIWbvtoYNiRFiLoup
+  url: 'https://open.spotify.com/artist/24G71yIWbvtoYNiRFiLoup'
 discography_enriched: true
 top_tracks:
-- Santa, Let Me Call You A Cab - Alex McMurray (A Very Threadhead Holiday)
-- The Day After Mardi Gras Day (Banjaxed)
-- You've Got to Be Crazy to Live in This Town (How to Be a Cannonball)
-- Gluestick Situation (Gluestick Situation)
-- As Long as You Let Me (I Will Never Be Alone in This Land)
-- Don't Let the End Times Get You Down (Don't Let the End Times Get You Down)
-- Land of Dreams (Reclamation of the Pie-Eyed Piper)
-- You've Got to Be Crazy to Live in This Town (Frenchmen Street - Sounds of New Orleans)
-- I Will Never Be Alone (I Will Never Be Alone in This Land)
-- The Man Who Shot the Man Who Shot Liberty Valance (I Will Never Be Alone in This Land)
+  - 'Santa, Let Me Call You A Cab - Alex McMurray (A Very Threadhead Holiday)'
+  - The Day After Mardi Gras Day (Banjaxed)
+  - You've Got to Be Crazy to Live in This Town (How to Be a Cannonball)
+  - Gluestick Situation (Gluestick Situation)
+  - As Long as You Let Me (I Will Never Be Alone in This Land)
+  - Don't Let the End Times Get You Down (Don't Let the End Times Get You Down)
+  - Land of Dreams (Reclamation of the Pie-Eyed Piper)
+  - >-
+    You've Got to Be Crazy to Live in This Town (Frenchmen Street - Sounds of
+    New Orleans)
+  - I Will Never Be Alone (I Will Never Be Alone in This Land)
+  - >-
+    The Man Who Shot the Man Who Shot Liberty Valance (I Will Never Be Alone in
+    This Land)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6bdc4f67-06f7-4c8c-839e-19fd6b084282
-  spotify: https://open.spotify.com/artist/24G71yIWbvtoYNiRFiLoup
+  musicbrainz: 'https://musicbrainz.org/artist/6bdc4f67-06f7-4c8c-839e-19fd6b084282'
+  spotify: 'https://open.spotify.com/artist/24G71yIWbvtoYNiRFiLoup'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/alex_mcmurray.jpg
 biography_enhanced_at: '2025-12-12T12:09:02.531240'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Martyrs’ venue bio for Alex McMurray.[1]
-- Tin Men official bio including Alex McMurray profile and discography details.[2]
-- Alex McMurray site news item on Royal Fingerbowl and band history.[3]
-- Alex McMurray official site – general artist description/about page.[4]
-- NewOrleans.com event bio for Tin Men with background on Alex McMurray.[8]
+  - 'Martyrs’ venue bio for Alex McMurray.[1]'
+  - >-
+    Tin Men official bio including Alex McMurray profile and discography
+    details.[2]
+  - 'Alex McMurray site news item on Royal Fingerbowl and band history.[3]'
+  - 'Alex McMurray official site – general artist description/about page.[4]'
+  - 'NewOrleans.com event bio for Tin Men with background on Alex McMurray.[8]'
 network_extracted: true
 entry_created: '2025-12-12T12:09:02.531255'
 last_updated: '2025-12-23T08:16:04.549449'
 gender: Male
 musicbrainz_id: 6bdc4f67-06f7-4c8c-839e-19fd6b084282
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](alex_mcmurray.jpg)

@@ -4,11 +4,11 @@ wiki_slug: horace-silver-quintet
 schema_version: 2
 status: active
 genres:
-- bebop
-- cool jazz
-- hard bop
-- jazz
-- soul jazz
+  - bebop
+  - cool jazz
+  - hard bop
+  - jazz
+  - soul jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/horace_silver_quintet.jpg
   caption: Horace Silver Quintet
@@ -28,53 +28,69 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Art Blakey
-  - Hank Mobley
-  - Kenny Dorham
-  - Donald Byrd
-  - Doug Watkins
-  - Junior Cook
+    - Art Blakey
+    - Hank Mobley
+    - Kenny Dorham
+    - Donald Byrd
+    - Doug Watkins
+    - Junior Cook
   influenced:
-  - Herbie Hancock
-  - Joe Henderson
-  - Blue Note Records artists
+    - Herbie Hancock
+    - Joe Henderson
+    - Blue Note Records artists
   mentors:
-  - Cape Verdean folk musicians
-  - Bud Powell
+    - Cape Verdean folk musicians
+    - Bud Powell
 spotify_data:
   followers: 22196
   id: 4PNIQCDBeVCSSqKUhvkP8Y
   popularity: 31
-  url: https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y
+  url: 'https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y'
 discography_enriched: true
 top_tracks:
-- The Cape Verdean Blues - Rudy Van Gelder Edition / 2003 Remastered (The Cape Verdean Blues)
-- Senor Blues - Alternate 45 Take/ Remastered 2000/Rudy Van Gelder Edition (Six Pieces Of Silver)
-- Cookin' At The Continental - Rudy Van Gelder Edition / Remastered (Finger Poppin' (The Rudy Van Gelder Edition))
-- Tippin' - Remastered 2000/Rudy Van Gelder Edition (Six Pieces Of Silver)
-- Come On Home - Rudy Van Gelder Edition / Remastered (Finger Poppin' (The Rudy Van Gelder Edition))
-- Nutville
-- For Heaven's Sake - Remastered 1998/Rudy Van Gelder Edition (Six Pieces Of Silver)
-- Finger Poppin' - Rudy Van Gelder Edition / Remastered (Finger Poppin' (The Rudy Van Gelder Edition))
-- Yeah! (Horace-Scope)
-- Camouflage - Remastered 1998/Rudy Van Gelder Edition (Six Pieces Of Silver)
+  - >-
+    The Cape Verdean Blues - Rudy Van Gelder Edition / 2003 Remastered (The Cape
+    Verdean Blues)
+  - >-
+    Senor Blues - Alternate 45 Take/ Remastered 2000/Rudy Van Gelder Edition
+    (Six Pieces Of Silver)
+  - >-
+    Cookin' At The Continental - Rudy Van Gelder Edition / Remastered (Finger
+    Poppin' (The Rudy Van Gelder Edition))
+  - Tippin' - Remastered 2000/Rudy Van Gelder Edition (Six Pieces Of Silver)
+  - >-
+    Come On Home - Rudy Van Gelder Edition / Remastered (Finger Poppin' (The
+    Rudy Van Gelder Edition))
+  - Nutville
+  - >-
+    For Heaven's Sake - Remastered 1998/Rudy Van Gelder Edition (Six Pieces Of
+    Silver)
+  - >-
+    Finger Poppin' - Rudy Van Gelder Edition / Remastered (Finger Poppin' (The
+    Rudy Van Gelder Edition))
+  - Yeah! (Horace-Scope)
+  - Camouflage - Remastered 1998/Rudy Van Gelder Edition (Six Pieces Of Silver)
 external_urls:
-  spotify: https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y
-  wikipedia: https://en.wikipedia.org/wiki/Horace_Silver
+  spotify: 'https://open.spotify.com/artist/4PNIQCDBeVCSSqKUhvkP8Y'
+  wikipedia: 'https://en.wikipedia.org/wiki/Horace_Silver'
 image_path: 03_Resources/source_material/ArtistPortraits/horace_silver_quintet.jpg
 biography_enhanced_at: '2025-10-25T10:01:51.274285'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Horace_Silver
-- https://jazzfuel.com/horace-silver-biography/
-- https://jazzprofiles.blogspot.com/2023/12/in-walked-horace-horace-silver-his-life.html
-- https://www.bluenote.com/artist/horace-silver/
-- https://nationaljazzarchive.org.uk/explore/interviews/1622952-horace-silver
+  - 'https://en.wikipedia.org/wiki/Horace_Silver'
+  - 'https://jazzfuel.com/horace-silver-biography/'
+  - >-
+    https://jazzprofiles.blogspot.com/2023/12/in-walked-horace-horace-silver-his-life.html
+  - 'https://www.bluenote.com/artist/horace-silver/'
+  - 'https://nationaljazzarchive.org.uk/explore/interviews/1622952-horace-silver'
 network_extracted: true
 entry_created: '2025-10-25T10:01:51.274294'
 last_updated: '2025-12-23T08:16:09.692080'
-origin: Norwalk, Connecticut, United States
+origin: 'Norwalk, Connecticut, United States'
+birth_place: 'Norwalk, Connecticut, United States'
+birth_date: '1928'
+artist_type: band
 ---
 
 ![](horace_silver_quintet.jpg)

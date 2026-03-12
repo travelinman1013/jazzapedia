@@ -5,23 +5,23 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1920-05-26'
-birth_place: Jamestown
+birth_place: 'Jamestown, North Dakota, United States'
 death_date: '2002-01-21'
 genres:
-- vocal jazz
-- swing music
-- big band
-- jazz
+  - vocal jazz
+  - swing music
+  - big band
+  - jazz
 instruments:
-- lead vocals
-- vocal
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - lead vocals
-  mbid: 82eb0cc2-84be-44b2-8b5d-543e3a1a4003
-  name: The Benny Goodman Sextet
+  - vocal
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: 82eb0cc2-84be-44b2-8b5d-543e3a1a4003
+    name: The Benny Goodman Sextet
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/peggy_lee.jpg
   caption: Peggy Lee
@@ -44,50 +44,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dave Barbour
-  - Disney Studios
-  - Quincy Jones
-  - Johnny Mercer
+    - Dave Barbour
+    - Disney Studios
+    - Quincy Jones
+    - Johnny Mercer
   influenced:
-  - Diana Krall
-  - Norah Jones
-  - k.d. lang
+    - Diana Krall
+    - Norah Jones
+    - k.d. lang
   mentors:
-  - Benny Goodman
+    - Benny Goodman
 spotify_data:
   followers: 507744
   id: 602DnpaSXJB4b9DZrvxbDc
   popularity: 57
-  url: https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc
+  url: 'https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc'
 discography_enriched: true
 top_tracks:
-- Fever (Things Are Swingin')
-- La La Lu
-- Fever
-- Till There Was You - Remastered 1995 (Latin Ala Lee)
-- Sweet Happy Life (Guitars A La Lee)
-- Hallelujah, I Love Him So (Ultimate Peggy Lee)
-- Fever (Great Ladies Of Song / Spotlight On Peggy Lee)
-- Ain't We Got Fun (Jump For Joy)
-- Johnny Guitar (The Fabulous Peggy Lee)
-- Why Don't You Do Right (Get Me Some Money Too)
+  - Fever (Things Are Swingin')
+  - La La Lu
+  - Fever
+  - Till There Was You - Remastered 1995 (Latin Ala Lee)
+  - Sweet Happy Life (Guitars A La Lee)
+  - 'Hallelujah, I Love Him So (Ultimate Peggy Lee)'
+  - Fever (Great Ladies Of Song / Spotlight On Peggy Lee)
+  - Ain't We Got Fun (Jump For Joy)
+  - Johnny Guitar (The Fabulous Peggy Lee)
+  - Why Don't You Do Right (Get Me Some Money Too)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5a2463af-eef0-4a22-bc8f-5865fbe9c78e
-  spotify: https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc
-  wikipedia: https://en.wikipedia.org/wiki/Peggy_Lee
+  musicbrainz: 'https://musicbrainz.org/artist/5a2463af-eef0-4a22-bc8f-5865fbe9c78e'
+  spotify: 'https://open.spotify.com/artist/602DnpaSXJB4b9DZrvxbDc'
+  wikipedia: 'https://en.wikipedia.org/wiki/Peggy_Lee'
 image_path: 03_Resources/source_material/ArtistPortraits/peggy_lee.jpg
 biography_enhanced_at: '2025-11-04T10:52:28.912042'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.edsullivan.com/artists/peggy-lee/
-- https://www.ebsco.com/research-starters/biography/peggy-lee
-- https://en.wikipedia.org/wiki/Peggy_Lee
-- https://www.imdb.com/name/nm0498007/bio/
-- https://www.peggylee.com/all-about-peggy/biography/
-- https://www.britannica.com/biography/Peggy-Lee
-- https://ndmusichall.com/peggy-lee/
-- https://www.udiscovermusic.com/stories/peggy-lee-jazz-singer-life-legacy/
+  - 'https://www.edsullivan.com/artists/peggy-lee/'
+  - 'https://www.ebsco.com/research-starters/biography/peggy-lee'
+  - 'https://en.wikipedia.org/wiki/Peggy_Lee'
+  - 'https://www.imdb.com/name/nm0498007/bio/'
+  - 'https://www.peggylee.com/all-about-peggy/biography/'
+  - 'https://www.britannica.com/biography/Peggy-Lee'
+  - 'https://ndmusichall.com/peggy-lee/'
+  - 'https://www.udiscovermusic.com/stories/peggy-lee-jazz-singer-life-legacy/'
 network_extracted: true
 entry_created: '2025-11-04T10:52:28.912047'
 last_updated: '2025-12-23T08:16:14.175554'
@@ -95,9 +95,10 @@ disambiguation: jazz vocalist
 gender: Female
 musicbrainz_id: 5a2463af-eef0-4a22-bc8f-5865fbe9c78e
 tags:
-- adult standards
-- big band
-- blues
+  - adult standards
+  - big band
+  - blues
+is_active: false
 ---
 
 ![](peggy_lee.jpg)

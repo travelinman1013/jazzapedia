@@ -5,18 +5,18 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1964-09-21'
-birth_place: Montevideo
+birth_place: 'Montevideo, Uruguay'
 genres:
-- trova
-- singer-songwriter
-- nueva trova
-- latin folk
+  - trova
+  - singer-songwriter
+  - nueva trova
+  - latin folk
 instruments:
-- guitar
-- classical guitar
-- electric guitar
-- acoustic guitar
-- background vocals
+  - guitar
+  - classical guitar
+  - electric guitar
+  - acoustic guitar
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jorge_drexler.jpg
   caption: Jorge Drexler
@@ -38,53 +38,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Shakira
-  - Rosario Flores
-  - Caetano Veloso
-  - Natalia Lafourcade
-  - Mercedes Sosa
+    - Shakira
+    - Rosario Flores
+    - Caetano Veloso
+    - Natalia Lafourcade
+    - Mercedes Sosa
   influenced: []
   mentors:
-  - Joaquín Sabina
+    - Joaquín Sabina
 spotify_data:
   followers: 916999
   id: 4ssUf5gLb1GBLxi1BhPrVt
   popularity: 64
-  url: https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt
+  url: 'https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt'
 discography_enriched: true
 top_tracks:
-- De Nada Sirve (Otras Canciones)
-- Todo se transforma (Eco)
-- Desastres Fabulosos
-- Não sinto nada (Esquinas)
-- 'Para Aute: Pasaba por Aquí (feat. Abel Pintos, Carlos Rivera, Dani Martin, Estopa, Ismael Serrano, Jorge Drexler, Pedro Guerra, Silvio Rodríguez, Vanesa Martin & Xoel López)'
-- Me haces bien (Sea)
-- Tocarte (Tinta y Tiempo)
-- Nominao (El Madrileño)
-- Asilo (feat. Mon Laferte) (Salvavidas de hielo)
-- ME DESPERTÉ (BHAVILONIA)
+  - De Nada Sirve (Otras Canciones)
+  - Todo se transforma (Eco)
+  - Desastres Fabulosos
+  - Não sinto nada (Esquinas)
+  - >-
+    Para Aute: Pasaba por Aquí (feat. Abel Pintos, Carlos Rivera, Dani Martin,
+    Estopa, Ismael Serrano, Jorge Drexler, Pedro Guerra, Silvio Rodríguez,
+    Vanesa Martin & Xoel López)
+  - Me haces bien (Sea)
+  - Tocarte (Tinta y Tiempo)
+  - Nominao (El Madrileño)
+  - Asilo (feat. Mon Laferte) (Salvavidas de hielo)
+  - ME DESPERTÉ (BHAVILONIA)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/abb91078-f7db-41f2-8f07-7f37bb739143
-  spotify: https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt
-  wikipedia: https://en.wikipedia.org/wiki/Jorge_Drexler
+  musicbrainz: 'https://musicbrainz.org/artist/abb91078-f7db-41f2-8f07-7f37bb739143'
+  spotify: 'https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jorge_Drexler'
 image_path: 03_Resources/source_material/ArtistPortraits/jorge_drexler.jpg
 biography_enhanced_at: '2025-12-04T07:46:31.697129'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Last.fm - Jorge Drexler Biography
-- Wikipedia - Jorge Drexler
-- Coffee House Guitars - Jorge Drexler Timeline
-- Kiddle - Jorge Drexler Facts for Kids
-- The Creative Independent - Jorge Drexler Interview
-- Thinking Heads - Jorge Drexler Speaker Profile
-- iHeart Podcast - Latino USA
+  - Last.fm - Jorge Drexler Biography
+  - Wikipedia - Jorge Drexler
+  - Coffee House Guitars - Jorge Drexler Timeline
+  - Kiddle - Jorge Drexler Facts for Kids
+  - The Creative Independent - Jorge Drexler Interview
+  - Thinking Heads - Jorge Drexler Speaker Profile
+  - iHeart Podcast - Latino USA
 network_extracted: true
 entry_created: '2025-12-04T07:46:31.697144'
 last_updated: '2025-12-23T08:16:10.973507'
 gender: Male
 musicbrainz_id: abb91078-f7db-41f2-8f07-7f37bb739143
-
 ---
 
 ![](jorge_drexler.jpg)

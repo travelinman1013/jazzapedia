@@ -1,46 +1,54 @@
 ---
 biography_enhanced_at: '2026-01-07T01:20:05.809069'
-birth_place: Blackwell, Arkansas, USA
+birth_place: 'Blackwell, Arkansas, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-07T01:20:05.809075'
 external_urls:
-  spotify: https://open.spotify.com/artist/08fqwi7bbVOEQW4L6wbsv3
-  wikipedia: https://en.wikipedia.org/wiki/Amina_Claudine_Myers
+  spotify: 'https://open.spotify.com/artist/08fqwi7bbVOEQW4L6wbsv3'
+  wikipedia: 'https://en.wikipedia.org/wiki/Amina_Claudine_Myers'
 genres:
-- free jazz
-- jazz
-- vocal jazz
+  - free jazz
+  - jazz
+  - vocal jazz
 image_path: 03_Resources/source_material/ArtistPortraits/amina_claudine.jpg
 last_updated: '2026-01-07T01:20:05.809076'
 musical_connections:
   collaborators:
-  - Lester Bowie
-  - Archie Shepp
-  - Charlie Haden
-  - Gerald Donovan (Ajaramu)
-  - AACM Founders (Muhal Richard Abrams, Jodie Christian, Steve McCall, Phil Cohran)
-  - Gene Ammons, Sonny Stitt, Von Freeman, Anthony Braxton, Rahsaan Roland Kirk
+    - Lester Bowie
+    - Archie Shepp
+    - Charlie Haden
+    - Gerald Donovan (Ajaramu)
+    - >-
+      AACM Founders (Muhal Richard Abrams, Jodie Christian, Steve McCall, Phil
+      Cohran)
+    - >-
+      Gene Ammons, Sonny Stitt, Von Freeman, Anthony Braxton, Rahsaan Roland
+      Kirk
   influenced: []
   mentors:
-  - Muhal Richard Abrams
-  - Nina Simone
-  - Black piano players from Memphis
+    - Muhal Richard Abrams
+    - Nina Simone
+    - Black piano players from Memphis
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://downbeat.com/news/detail/amina-claudine-myers-revisits-her-formative-years
-- https://arblackhalloffame.org/honorees/2001/myers/
-- https://www.afropop.org/articles/amina-claudine-myers
-- https://www.arts.gov/honors/jazz/amina-claudine-myers
-- https://en.wikipedia.org/wiki/Amina_Claudine_Myers
-- https://www.cafeoto.co.uk/events/amina-claudine-myers/
+  - >-
+    https://downbeat.com/news/detail/amina-claudine-myers-revisits-her-formative-years
+  - 'https://arblackhalloffame.org/honorees/2001/myers/'
+  - 'https://www.afropop.org/articles/amina-claudine-myers'
+  - 'https://www.arts.gov/honors/jazz/amina-claudine-myers'
+  - 'https://en.wikipedia.org/wiki/Amina_Claudine_Myers'
+  - 'https://www.cafeoto.co.uk/events/amina-claudine-myers/'
 spotify_data:
   followers: 3687
   id: 08fqwi7bbVOEQW4L6wbsv3
   popularity: 26
-  url: https://open.spotify.com/artist/08fqwi7bbVOEQW4L6wbsv3
+  url: 'https://open.spotify.com/artist/08fqwi7bbVOEQW4L6wbsv3'
 status: active
 title: Amina Claudine
+origin: 'Chicago, Illinois, United States'
+birth_date: '1942-03-21'
+artist_type: person
 ---
 
 ![](amina_claudine.jpg)

@@ -1,23 +1,23 @@
 ---
-title: chico leverett
+title: Chico Leverett
 wiki_slug: chico-leverett
 schema_version: 2
 artist_type: person
 status: active
-birth_place: Detroit, Michigan, United States
+birth_place: 'Detroit, Michigan, United States'
 genres:
-- motown
+  - motown
 associated_acts:
-- begin: ''
-  end: 1960-04
-  instruments: []
-  mbid: 51b59bab-5bcf-40b9-9ea5-70cbacd739af
-  name: The Satintones
+  - begin: ''
+    end: 1960-04
+    instruments: []
+    mbid: 51b59bab-5bcf-40b9-9ea5-70cbacd739af
+    name: The Satintones
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/chico_leverett.jpg
   caption: chico leverett
   background: solo_singer
-  origin: Detroit, Michigan, United States
+  origin: 'Detroit, Michigan, United States'
 audio_profile:
   tempo_avg: 126.4
   energy_avg: 0.677
@@ -33,40 +33,41 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sonny Sanders
-  - James Ellis
-  - Robert Bateman
+    - Sonny Sanders
+    - James Ellis
+    - Robert Bateman
   influenced:
-  - Brian Holland
+    - Brian Holland
   mentors:
-  - Berry Gordy
+    - Berry Gordy
 spotify_data:
   followers: 0
   id: 2LWEzdiL1ZrskAkAYguHz6
   popularity: 0
-  url: https://open.spotify.com/artist/2LWEzdiL1ZrskAkAYguHz6
+  url: 'https://open.spotify.com/artist/2LWEzdiL1ZrskAkAYguHz6'
 discography_enriched: true
 top_tracks:
-- Look Into The Future (Detroit Soul, The Motorcity Years, Vol. 8)
-- Love Makes The World Go Round (Detroit Soul Back by Demand)
+  - 'Look Into The Future (Detroit Soul, The Motorcity Years, Vol. 8)'
+  - Love Makes The World Go Round (Detroit Soul Back by Demand)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a58ee686-4b58-43da-a479-516cedb412c1
-  spotify: https://open.spotify.com/artist/2LWEzdiL1ZrskAkAYguHz6
-  wikipedia: https://en.wikipedia.org/wiki/The_Satintones
+  musicbrainz: 'https://musicbrainz.org/artist/a58ee686-4b58-43da-a479-516cedb412c1'
+  spotify: 'https://open.spotify.com/artist/2LWEzdiL1ZrskAkAYguHz6'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Satintones'
 image_path: ''
 biography_enhanced_at: '2025-11-04T11:06:27.806728'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Satintones
-- https://motownjunkies.co.uk/artists/s/satintones/
-- https://www.allmusic.com/artist/chico-leverette-mn0001948523
-- https://www.last.fm/music/Chico+Leverett
-- https://www.adampwhite.com/westgrandblog/motown-60
+  - 'https://en.wikipedia.org/wiki/The_Satintones'
+  - 'https://motownjunkies.co.uk/artists/s/satintones/'
+  - 'https://www.allmusic.com/artist/chico-leverette-mn0001948523'
+  - 'https://www.last.fm/music/Chico+Leverett'
+  - 'https://www.adampwhite.com/westgrandblog/motown-60'
 network_extracted: true
 entry_created: '2025-11-04T11:06:27.806739'
 last_updated: '2025-12-23T08:16:06.838121'
 musicbrainz_id: a58ee686-4b58-43da-a479-516cedb412c1
+death_date: '2013-12-05'
 ---
 
 ![]()

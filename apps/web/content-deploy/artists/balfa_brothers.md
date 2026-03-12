@@ -4,8 +4,8 @@ wiki_slug: balfa-brothers
 schema_version: 2
 status: active
 genres:
-- afropop
-- afro soul
+  - afropop
+  - afro soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/balfa_brothers.jpg
   caption: Balfa Brothers
@@ -25,50 +25,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Hadley Fontenot
-  - Nathan Abshire
-  - Nelda Balfa
-  - Tony Balfa
+    - Hadley Fontenot
+    - Nathan Abshire
+    - Nelda Balfa
+    - Tony Balfa
   influenced:
-  - Christine Balfa
-  - Balfa Toujours
-  - Contemporary Cajun and roots musicians
+    - Christine Balfa
+    - Balfa Toujours
+    - Contemporary Cajun and roots musicians
   mentors:
-  - Charles Balfa
-  - Nathan Abshire
-  - Gladius Thibodeaux and Louis "Vinesse" LeJeune
+    - Charles Balfa
+    - Nathan Abshire
+    - Gladius Thibodeaux and Louis "Vinesse" LeJeune
 spotify_data:
   followers: 889
   id: 3QW3tijZxYh173V0GL7fBv
   popularity: 6
-  url: https://open.spotify.com/artist/3QW3tijZxYh173V0GL7fBv
+  url: 'https://open.spotify.com/artist/3QW3tijZxYh173V0GL7fBv'
 discography_enriched: true
 top_tracks:
-- Konsertina Vastrap Keurspel (Vastrap Dans)
-- Masibuyelane (B3)
-- Sylvia (B3)
-- Caro Mio Ben (B3)
-- Khumbula (B3)
-- You Raise Me Up (B3)
-- Beauty & The Beast (feat. Judith Sephuma) (B3)
-- Pata Pata - Live (Live at Emperors Palace)
-- 'Simon: Under African Skies (Live) (Bala Brothers)'
-- 'Bala: Masibuyelane (Live) (Bala Brothers)'
+  - Konsertina Vastrap Keurspel (Vastrap Dans)
+  - Masibuyelane (B3)
+  - Sylvia (B3)
+  - Caro Mio Ben (B3)
+  - Khumbula (B3)
+  - You Raise Me Up (B3)
+  - Beauty & The Beast (feat. Judith Sephuma) (B3)
+  - Pata Pata - Live (Live at Emperors Palace)
+  - 'Simon: Under African Skies (Live) (Bala Brothers)'
+  - 'Bala: Masibuyelane (Live) (Bala Brothers)'
 external_urls:
-  spotify: https://open.spotify.com/artist/3QW3tijZxYh173V0GL7fBv
-  wikipedia: https://en.wikipedia.org/wiki/Balfa_Brothers
+  spotify: 'https://open.spotify.com/artist/3QW3tijZxYh173V0GL7fBv'
+  wikipedia: 'https://en.wikipedia.org/wiki/Balfa_Brothers'
 image_path: 03_Resources/source_material/ArtistPortraits/balfa_brothers.jpg
 biography_enhanced_at: '2025-12-05T06:08:54.015110'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- General biographical overviews of the Balfa Brothers and Dewey Balfa from Cajun music history resources and cultural organizations.
-- Liner‑note style histories and label biographies from Louisiana music labels and regional cultural archives documenting
-  the band’s lineup, recordings, and festival appearances.
+  - >-
+    General biographical overviews of the Balfa Brothers and Dewey Balfa from
+    Cajun music history resources and cultural organizations.
+  - >-
+    Liner‑note style histories and label biographies from Louisiana music labels
+    and regional cultural archives documenting the band’s lineup, recordings,
+    and festival appearances.
 network_extracted: true
 entry_created: '2025-12-05T06:08:54.015117'
 last_updated: '2025-12-23T08:16:05.056744'
-origin: Bayou Grand Louis, near Mamou, Louisiana, United States
+origin: 'Bayou Grand Louis, near Mamou, Louisiana, United States'
+artist_type: band
 ---
 
 ![](balfa_brothers.jpg)

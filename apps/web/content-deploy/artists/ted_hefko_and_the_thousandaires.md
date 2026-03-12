@@ -5,7 +5,8 @@ schema_version: 2
 status: active
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/ted_hefko_and_the_thousandaires.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/ted_hefko_and_the_thousandaires.jpg
   caption: Ted Hefko And The Thousandaires
   background: solo_singer
 audio_profile:
@@ -23,46 +24,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Thousandaires
+    - The Thousandaires
   influenced: []
   mentors:
-  - New Orleans jazz and blues community
+    - New Orleans jazz and blues community
 spotify_data:
   followers: 269
   id: 5fr524eKTCxbcXw1epBnQL
   popularity: 1
-  url: https://open.spotify.com/artist/5fr524eKTCxbcXw1epBnQL
+  url: 'https://open.spotify.com/artist/5fr524eKTCxbcXw1epBnQL'
 discography_enriched: true
 top_tracks:
-- Hesitation Blues (Distillations of the Blues)
-- Sweat Upon My Brow (Distillations of the Blues)
-- This Song Won't Sound The Same (If I Walked On Water)
-- Two Vices (Gas Station Guru)
-- The Roofer (Gas Station Guru)
-- Tell Me the Truth (Gas Station Guru)
-- Ride Me Down Easy (Gas Station Guru)
-- The Next Train (Gas Station Guru)
-- Aint Gonna Give You None O' My Jellyroll (Gas Station Guru)
-- Ten Dollar Hat (Gas Station Guru)
+  - Hesitation Blues (Distillations of the Blues)
+  - Sweat Upon My Brow (Distillations of the Blues)
+  - This Song Won't Sound The Same (If I Walked On Water)
+  - Two Vices (Gas Station Guru)
+  - The Roofer (Gas Station Guru)
+  - Tell Me the Truth (Gas Station Guru)
+  - Ride Me Down Easy (Gas Station Guru)
+  - The Next Train (Gas Station Guru)
+  - Aint Gonna Give You None O' My Jellyroll (Gas Station Guru)
+  - Ten Dollar Hat (Gas Station Guru)
 external_urls:
-  spotify: https://open.spotify.com/artist/5fr524eKTCxbcXw1epBnQL
+  spotify: 'https://open.spotify.com/artist/5fr524eKTCxbcXw1epBnQL'
   wikipedia: null
-image_path: 03_Resources/source_material/ArtistPortraits/ted_hefko_and_the_thousandaires.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/ted_hefko_and_the_thousandaires.jpg
 biography_enhanced_at: '2025-11-04T10:53:25.459535'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.thebash.com/jazz-trio/ted-hefko
-- https://www.neworleans.com/listing/ted-hefko/47922/
-- http://www.ted.hefko.net/bio.htm
-- https://sandiegotroubadour.com/ted-hefko-the-thousandaires-down-below/
-- https://www.americanamusicmagazine.com/americana-music-profiles/ted-hefko/
-- https://crescentcitysounds.org/artists/ted-hefko-and-the-thousandaires
-- https://ink19.com/2018/05/magazine/music-reviews/tsnbuy-ted-hefko-amp-the-thousandaires
+  - 'https://www.thebash.com/jazz-trio/ted-hefko'
+  - 'https://www.neworleans.com/listing/ted-hefko/47922/'
+  - 'http://www.ted.hefko.net/bio.htm'
+  - 'https://sandiegotroubadour.com/ted-hefko-the-thousandaires-down-below/'
+  - 'https://www.americanamusicmagazine.com/americana-music-profiles/ted-hefko/'
+  - 'https://crescentcitysounds.org/artists/ted-hefko-and-the-thousandaires'
+  - >-
+    https://ink19.com/2018/05/magazine/music-reviews/tsnbuy-ted-hefko-amp-the-thousandaires
 network_extracted: true
 entry_created: '2025-11-04T10:53:25.459544'
 last_updated: '2025-12-23T08:16:16.425541'
-origin: New Orleans, Louisiana, USA (band origin); Madison, Wisconsin, USA (Ted Hefko birthplace)
+origin: >-
+  New Orleans, Louisiana, USA (band origin); Madison, Wisconsin, USA (Ted Hefko
+  birthplace)
+birth_place: 'Madison, Wisconsin, United States'
+artist_type: person
 ---
 
 ![](ted_hefko_and_the_thousandaires.jpg)

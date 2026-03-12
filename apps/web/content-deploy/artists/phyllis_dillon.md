@@ -5,22 +5,22 @@ schema_version: 2
 status: deceased
 aliases: []
 birth_date: '1944-12-27'
-birth_place: Saint Catherine Parish
+birth_place: 'Linstead, St. Catherine Parish, Jamaica'
 death_date: '2004-04-15'
-years_active: Early 1960s – 1971, early 1990s – early 2000s
+years_active: 'Early 1960s – 1971, early 1990s – early 2000s'
 genres:
-- rocksteady
-- lovers rock
-- reggae
-- ska
-- roots reggae
-- calypso
+  - rocksteady
+  - lovers rock
+  - reggae
+  - ska
+  - roots reggae
+  - calypso
 instruments:
-- voice
+  - voice
 occupation:
-- singer
+  - singer
 record_labels:
-- Trojan Records
+  - Trojan Records
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Phyllis_Dillon.jpg
   caption: Phyllis Dillon
@@ -46,31 +46,35 @@ spotify_data:
   followers: 44870
   id: 5Gsu4aAUiAALoTVvQduyhh
   popularity: 41
-  url: https://open.spotify.com/artist/5Gsu4aAUiAALoTVvQduyhh
+  url: 'https://open.spotify.com/artist/5Gsu4aAUiAALoTVvQduyhh'
   verified: false
 discography_enriched: true
 albums_count: 4
 singles_count: 3
 top_tracks:
-- Perfidia (One Life to Live (Expanded Version))
-- Don't Stay Away (One Life to Live (Expanded Version))
-- Picture On the Wall (One Life to Live)
-- One Life to Live, One Life to Give (aka Livin' in Love) (One Life to Live)
-- Don't Stay Away
-- Get On the Right Track - with Hopeton Lewis (One Life to Live (Expanded Version))
-- Woman of the Ghetto (Original Mix) (The Treasure Isle Story)
-- Love the One You're With (One Life to Live)
-- Woman of the Ghetto (aka Woman Ghetto) (One Life to Live)
-- Don't Touch Me Tomato (One Life to Live (Expanded Version))
+  - Perfidia (One Life to Live (Expanded Version))
+  - Don't Stay Away (One Life to Live (Expanded Version))
+  - Picture On the Wall (One Life to Live)
+  - 'One Life to Live, One Life to Give (aka Livin'' in Love) (One Life to Live)'
+  - Don't Stay Away
+  - >-
+    Get On the Right Track - with Hopeton Lewis (One Life to Live (Expanded
+    Version))
+  - Woman of the Ghetto (Original Mix) (The Treasure Isle Story)
+  - Love the One You're With (One Life to Live)
+  - Woman of the Ghetto (aka Woman Ghetto) (One Life to Live)
+  - Don't Touch Me Tomato (One Life to Live (Expanded Version))
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/5Gsu4aAUiAALoTVvQduyhh
-  wikipedia: https://en.wikipedia.org/wiki/Phyllis_Dillon
+  spotify: 'https://open.spotify.com/artist/5Gsu4aAUiAALoTVvQduyhh'
+  wikipedia: 'https://en.wikipedia.org/wiki/Phyllis_Dillon'
 image_path: 03_Resources/source_material/ArtistPortraits/Phyllis_Dillon.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-22T21:53:31.556235'
-entry_created: 2025-09-22 21:47:13.707190
+entry_created: 2025-09-22T21:47:13.707Z
 last_updated: '2025-12-23T08:16:14.286472'
+is_active: false
+artist_type: person
 ---
 
 ![](Phyllis_Dillon.jpg)

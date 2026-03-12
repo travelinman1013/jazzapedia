@@ -14,7 +14,7 @@ audio_profile:
   valence_avg: 0.055
   danceability_avg: 0.35
   acousticness_avg: 0.286
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -6.3
   speechiness_avg: 0.029
   liveness_avg: 0.125
@@ -23,38 +23,44 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - José Nogueras
-  - Ismael Miranda
+    - José Nogueras
+    - Ismael Miranda
   influenced: []
   mentors: []
 spotify_data:
   followers: 218
   id: 5iqoX4HN4f0VEeNXyHpQPS
   popularity: 2
-  url: https://open.spotify.com/artist/5iqoX4HN4f0VEeNXyHpQPS
+  url: 'https://open.spotify.com/artist/5iqoX4HN4f0VEeNXyHpQPS'
 discography_enriched: true
 top_tracks:
-- Happiness (Happiness)
-- Often a Bird (Often a Bird)
+  - Happiness (Happiness)
+  - Often a Bird (Often a Bird)
 external_urls:
-  spotify: https://open.spotify.com/artist/5iqoX4HN4f0VEeNXyHpQPS
+  spotify: 'https://open.spotify.com/artist/5iqoX4HN4f0VEeNXyHpQPS'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/nogueras_and_miranda.jpg
 biography_enhanced_at: '2025-12-21T01:23:33.048402'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- SalsaBlvd – Ismael Miranda biography[1]
-- Fania Records – Ismael Miranda profile and discography notes[2]
-- Latino Music Café – Articles on José Nogueras and his Christmas/‘parranda’ work[4][7]
-- SpanishClassesBoston event bio – Short José Nogueras biographical note[5]
-- iHeart artist bio – José Nogueras overview[6]
-- Spotify artist page – José Nogueras overview and birthplace/date[10]
-- DR Jazz Festival – Ismael Miranda artist bio[8]
+  - 'SalsaBlvd – Ismael Miranda biography[1]'
+  - 'Fania Records – Ismael Miranda profile and discography notes[2]'
+  - >-
+    Latino Music Café – Articles on José Nogueras and his Christmas/‘parranda’
+    work[4][7]
+  - 'SpanishClassesBoston event bio – Short José Nogueras biographical note[5]'
+  - 'iHeart artist bio – José Nogueras overview[6]'
+  - 'Spotify artist page – José Nogueras overview and birthplace/date[10]'
+  - 'DR Jazz Festival – Ismael Miranda artist bio[8]'
 network_extracted: true
 entry_created: '2025-12-21T01:23:33.048407'
 last_updated: '2025-12-23T08:16:13.624544'
-origin: 'Puerto Rico (José Nogueras: Mayagüez, Puerto Rico; Ismael Miranda: Aguada, Puerto Rico)'
+origin: >-
+  Puerto Rico (José Nogueras: Mayagüez, Puerto Rico; Ismael Miranda: Aguada,
+  Puerto Rico)
+birth_date: '1951-06-18'
+artist_type: person
 ---
 
 ![](nogueras_and_miranda.jpg)

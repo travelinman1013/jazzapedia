@@ -3,13 +3,17 @@ title: DJ Harrison
 wiki_slug: dj-harrison
 schema_version: 2
 status: active
-birth_place: Petersburg, Virginia, United States (birthplace); Richmond, Virginia, United States (career origin)
+birth_place: >-
+  Petersburg, Virginia, United States (birthplace); Richmond, Virginia, United
+  States (career origin)
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/dj_harrison.jpg
   caption: DJ Harrison
   background: solo_singer
-  origin: Petersburg, Virginia, United States (birthplace); Richmond, Virginia, United States (career origin)
+  origin: >-
+    Petersburg, Virginia, United States (birthplace); Richmond, Virginia, United
+    States (career origin)
 audio_profile:
   tempo_avg: 101.5
   energy_avg: 0.516
@@ -25,55 +29,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Butcher Brown
-  - Nicholas Payton
-  - Kurt Elling & Charlie Hunter
-  - Jack White
-  - Corey Fonville
+    - Butcher Brown
+    - Nicholas Payton
+    - Kurt Elling & Charlie Hunter
+    - Jack White
+    - Corey Fonville
   influenced:
-  - Richmond, VA music scene
-  - Younger jazz/hip-hop producers
+    - 'Richmond, VA music scene'
+    - Younger jazz/hip-hop producers
   mentors:
-  - Parents (Mother and Father)
-  - J Dilla
-  - Pete Rock
+    - Parents (Mother and Father)
+    - J Dilla
+    - Pete Rock
 spotify_data:
   followers: 48687
   id: 6gU7qtF5B31WwdgkNwF1XK
   popularity: 38
-  url: https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK
+  url: 'https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK'
 discography_enriched: true
 top_tracks:
-- Erykah's Gun (Stashboxxx)
-- Dilla's Eclair (Stashboxxx)
-- Carnaval '74 (Stashboxxx)
-- Block Party 4 Yall (Stashboxxx)
-- Young Buck (Homegrown)
-- Gentle Thoughts
-- Let Me Know (Stashboxxx)
-- Have You Ever Been (to Electric Ladyland) (Tales from the Old Dominion)
-- JUKE JOINT
-- I Got It Bad (And That Ain't Good)
+  - Erykah's Gun (Stashboxxx)
+  - Dilla's Eclair (Stashboxxx)
+  - Carnaval '74 (Stashboxxx)
+  - Block Party 4 Yall (Stashboxxx)
+  - Young Buck (Homegrown)
+  - Gentle Thoughts
+  - Let Me Know (Stashboxxx)
+  - Have You Ever Been (to Electric Ladyland) (Tales from the Old Dominion)
+  - JUKE JOINT
+  - I Got It Bad (And That Ain't Good)
 external_urls:
-  spotify: https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK
-  wikipedia: https://en.wikipedia.org/wiki/DJ_Harrison
+  spotify: 'https://open.spotify.com/artist/6gU7qtF5B31WwdgkNwF1XK'
+  wikipedia: 'https://en.wikipedia.org/wiki/DJ_Harrison'
 image_path: 03_Resources/source_material/ArtistPortraits/dj_harrison.jpg
 biography_enhanced_at: '2025-11-12T14:41:08.193161'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://liveforlivemusic.com/features/dj-harrison-butcher-brown-jellowstone-interview-2023/
-- https://www.stonesthrow.com/artist/djharrison/
-- https://microchop.substack.com/p/visualizing-the-process-of-dj-harrison
-- https://rvamag.com/music/from-richmond-to-the-grammys-dj-harrison-is-reppin.html
-- https://summerfest.sanjosejazz.org/artists/dj-harrison
-- https://microchop.substack.com/p/keep-multi-tracking-on-that-level
-- https://www.last.fm/music/DJ+Harrison/+wiki
-- https://daily.bandcamp.com/features/dj-harrison-hazymoods-interview
-- https://www.808sandjazzbreaks.com/features/3ietzgy3ipvqq78889np91g64txl2p
+  - >-
+    https://liveforlivemusic.com/features/dj-harrison-butcher-brown-jellowstone-interview-2023/
+  - 'https://www.stonesthrow.com/artist/djharrison/'
+  - 'https://microchop.substack.com/p/visualizing-the-process-of-dj-harrison'
+  - >-
+    https://rvamag.com/music/from-richmond-to-the-grammys-dj-harrison-is-reppin.html
+  - 'https://summerfest.sanjosejazz.org/artists/dj-harrison'
+  - 'https://microchop.substack.com/p/keep-multi-tracking-on-that-level'
+  - 'https://www.last.fm/music/DJ+Harrison/+wiki'
+  - 'https://daily.bandcamp.com/features/dj-harrison-hazymoods-interview'
+  - 'https://www.808sandjazzbreaks.com/features/3ietzgy3ipvqq78889np91g64txl2p'
 network_extracted: true
 entry_created: '2025-11-12T14:41:08.193173'
 last_updated: '2025-12-23T08:16:07.801664'
+origin: 'Richmond, Virginia, United States'
+birth_date: '1988'
+artist_type: person
 ---
 
 ![](dj_harrison.jpg)

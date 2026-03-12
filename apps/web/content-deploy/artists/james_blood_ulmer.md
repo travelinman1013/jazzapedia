@@ -1,64 +1,64 @@
 ---
-title: james blood ulmer
+title: James Blood Ulmer
 wiki_slug: james-blood-ulmer
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1942-02-02'
-birth_place: St. Matthews
+birth_place: 'St. Matthews, South Carolina, United States'
 genres:
-- free jazz
-- jazz fusion
-- avant-garde
+  - free jazz
+  - jazz fusion
+  - avant-garde
 instruments:
-- original
-- guitar
-- electric guitar
-- lead vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - original
-  mbid: 36c6b1d9-dfaf-4b5d-a490-1e2f353e4d12
-  name: The James Blood Ulmer Blues Experience
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 01ee0164-c272-4ab4-8ccf-a68b523638fa
-  name: Music Revelation Ensemble
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 47c02501-2768-4bd6-9292-b218dff9e920
-  name: The 52nd Street Blues Project
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b6e26d31-592f-44a1-a7ba-ef1796ad1914
-  name: Odyssey the Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 69e846bc-afe9-420c-b531-8c6c45b8700e
-  name: Phalanx
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 815d3e7e-e0dc-4647-b345-159d81b74fd7
-  name: Third Rail
-- begin: ''
-  end: ''
-  instruments:
   - guitar
-  mbid: f30fcc49-9f74-4d7a-b9ad-d5a82b10533c
-  name: Juma Sultan’s Aboriginal Music Society
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: ee770755-9797-4586-ad81-112592b05d1b
-  name: Frank Wright Quartet
+  - electric guitar
+  - lead vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 36c6b1d9-dfaf-4b5d-a490-1e2f353e4d12
+    name: The James Blood Ulmer Blues Experience
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 01ee0164-c272-4ab4-8ccf-a68b523638fa
+    name: Music Revelation Ensemble
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 47c02501-2768-4bd6-9292-b218dff9e920
+    name: The 52nd Street Blues Project
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b6e26d31-592f-44a1-a7ba-ef1796ad1914
+    name: Odyssey the Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 69e846bc-afe9-420c-b531-8c6c45b8700e
+    name: Phalanx
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 815d3e7e-e0dc-4647-b345-159d81b74fd7
+    name: Third Rail
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: f30fcc49-9f74-4d7a-b9ad-d5a82b10533c
+    name: Juma Sultan’s Aboriginal Music Society
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: ee770755-9797-4586-ad81-112592b05d1b
+    name: Frank Wright Quartet
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/james_blood_ulmer.jpg
   caption: james blood ulmer
@@ -80,57 +80,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ornette Coleman
-  - Arthur Blythe
-  - Music Revelation Ensemble
-  - Odyssey the Band
-  - Phalanx
+    - Ornette Coleman
+    - Arthur Blythe
+    - Music Revelation Ensemble
+    - Odyssey the Band
+    - Phalanx
   influenced:
-  - Vernon Reid
-  - Marc Ribot
+    - Vernon Reid
+    - Marc Ribot
   mentors:
-  - Ornette Coleman
-  - Chuck Edwards
-  - George Benson
+    - Ornette Coleman
+    - Chuck Edwards
+    - George Benson
 spotify_data:
   followers: 9230
   id: 1f1FGHLhOigcRYNI5pcHuh
   popularity: 10
-  url: https://open.spotify.com/artist/1f1FGHLhOigcRYNI5pcHuh
+  url: 'https://open.spotify.com/artist/1f1FGHLhOigcRYNI5pcHuh'
 discography_enriched: true
 top_tracks:
-- Are You Glad To Be In America? (Odyssey)
-- House people (Guitar music)
-- Crying - Live (Live at the Bayerischer Hof)
-- Church (Odyssey)
-- Little Red House (Odyssey)
-- Timeless (Free Lancing)
-- Where Did All the Girls Come From? (Free Lancing)
-- Pleasure Control (Free Lancing)
-- Jazz Is The Teacher, Funk Is The Preacher (The Blank Generation - Blank Tapes NYC 1971 - 1985)
-- Cheering (Guitar music)
+  - Are You Glad To Be In America? (Odyssey)
+  - House people (Guitar music)
+  - Crying - Live (Live at the Bayerischer Hof)
+  - Church (Odyssey)
+  - Little Red House (Odyssey)
+  - Timeless (Free Lancing)
+  - Where Did All the Girls Come From? (Free Lancing)
+  - Pleasure Control (Free Lancing)
+  - >-
+    Jazz Is The Teacher, Funk Is The Preacher (The Blank Generation - Blank
+    Tapes NYC 1971 - 1985)
+  - Cheering (Guitar music)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a5209546-b1e8-449f-8b74-04ff88255f84
-  spotify: https://open.spotify.com/artist/1f1FGHLhOigcRYNI5pcHuh
-  wikipedia: https://en.wikipedia.org/wiki/James_Blood_Ulmer
+  musicbrainz: 'https://musicbrainz.org/artist/a5209546-b1e8-449f-8b74-04ff88255f84'
+  spotify: 'https://open.spotify.com/artist/1f1FGHLhOigcRYNI5pcHuh'
+  wikipedia: 'https://en.wikipedia.org/wiki/James_Blood_Ulmer'
 image_path: 03_Resources/source_material/ArtistPortraits/james_blood_ulmer.jpg
 biography_enhanced_at: '2025-10-25T09:57:11.967913'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/James_Blood_Ulmer
-- https://musicianguide.com/biographies/1608003684/James-Blood-Ulmer.html
-- https://www.detroitjazzfest.org/artist/james-blood-ulmer-music-revelation-ensemble/
-- https://www.allaboutjazz.com/news/james-blood-ulmer-one-of-the-greatest-guitarists-of-all-time-in-cambridge-ma-on-november-16-2023/
+  - 'https://en.wikipedia.org/wiki/James_Blood_Ulmer'
+  - 'https://musicianguide.com/biographies/1608003684/James-Blood-Ulmer.html'
+  - >-
+    https://www.detroitjazzfest.org/artist/james-blood-ulmer-music-revelation-ensemble/
+  - >-
+    https://www.allaboutjazz.com/news/james-blood-ulmer-one-of-the-greatest-guitarists-of-all-time-in-cambridge-ma-on-november-16-2023/
 network_extracted: true
 entry_created: '2025-10-25T09:57:11.967924'
 last_updated: '2025-12-23T08:16:10.163131'
 gender: Male
 musicbrainz_id: a5209546-b1e8-449f-8b74-04ff88255f84
 tags:
-- blues
-- electric blues
-- free funk
+  - blues
+  - electric blues
+  - free funk
+origin: 'Pittsburgh, Pennsylvania, United States'
 ---
 
 ![](james_blood_ulmer.jpg)

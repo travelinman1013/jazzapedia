@@ -5,31 +5,31 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1938-07-10'
-birth_place: Philadelphia
+birth_place: 'Philadelphia, Pennsylvania, United States'
 death_date: '1972-02-19'
 genres:
-- hard bop
-- jazz
-- bebop
-- cool jazz
+  - hard bop
+  - jazz
+  - bebop
+  - cool jazz
 instruments:
-- spoken vocals
+  - spoken vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1828646b-445f-4380-9278-9a2b70ecb5c9
-  name: The Lee Morgan Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2b0c23ca-e451-484c-8c89-b490b9c3c565
-  name: The Lee Morgan Sextet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 906e0ad9-cf42-4c75-a170-5759c27a5bba
-  name: The Young Lions
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1828646b-445f-4380-9278-9a2b70ecb5c9
+    name: The Lee Morgan Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2b0c23ca-e451-484c-8c89-b490b9c3c565
+    name: The Lee Morgan Sextet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 906e0ad9-cf42-4c75-a170-5759c27a5bba
+    name: The Young Lions
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lee_morgan.jpg
   caption: Lee Morgan
@@ -52,50 +52,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Art Blakey
-  - Wayne Shorter
-  - Hank Mobley
-  - Benny Golson
-  - John Coltrane
-  - Freddie Hubbard
+    - Art Blakey
+    - Wayne Shorter
+    - Hank Mobley
+    - Benny Golson
+    - John Coltrane
+    - Freddie Hubbard
   influenced:
-  - Wynton Marsalis
-  - Terence Blanchard
-  - Nicholas Payton
+    - Wynton Marsalis
+    - Terence Blanchard
+    - Nicholas Payton
   mentors:
-  - Clifford Brown
-  - Dizzy Gillespie
+    - Clifford Brown
+    - Dizzy Gillespie
 spotify_data:
   followers: 162996
   id: 38C3okxv3fyyOIQUVPCdGX
   popularity: 47
-  url: https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX
+  url: 'https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX'
 discography_enriched: true
 top_tracks:
-- Since I Fell For You - Rudy Van Gelder Edition / 2007 / Digital Remaster (Candy (Remastered))
-- I Remember Clifford - Rudy Van Gelder Edition / Remastered 2007 (Volume 3)
-- The Sidewinder - Remastered 1999/Rudy Van Gelder Edition (The Sidewinder (The Rudy Van Gelder Edition))
-- Ceora (Cornbread)
-- All The Way - Rudy Van Gelder Edition / 2007 / Digital Remaster (Candy (Remastered))
-- Since I Fell For You
-- Ca-Lee-So - Remastered 2007/Rudy Van Gelder Edition (Delightfulee)
-- Melancholee - Remastered 2000/Rudy Van Gelder Edition (Search For The New Land (Rudy Van Gelder Edition/2000 Remastered))
-- The Sidewinder (Blue Break Beats)
-- I Remember Clifford
+  - >-
+    Since I Fell For You - Rudy Van Gelder Edition / 2007 / Digital Remaster
+    (Candy (Remastered))
+  - I Remember Clifford - Rudy Van Gelder Edition / Remastered 2007 (Volume 3)
+  - >-
+    The Sidewinder - Remastered 1999/Rudy Van Gelder Edition (The Sidewinder
+    (The Rudy Van Gelder Edition))
+  - Ceora (Cornbread)
+  - >-
+    All The Way - Rudy Van Gelder Edition / 2007 / Digital Remaster (Candy
+    (Remastered))
+  - Since I Fell For You
+  - Ca-Lee-So - Remastered 2007/Rudy Van Gelder Edition (Delightfulee)
+  - >-
+    Melancholee - Remastered 2000/Rudy Van Gelder Edition (Search For The New
+    Land (Rudy Van Gelder Edition/2000 Remastered))
+  - The Sidewinder (Blue Break Beats)
+  - I Remember Clifford
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a1235272-3650-4ed7-9317-5a55a08701ec
-  spotify: https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX
-  wikipedia: https://en.wikipedia.org/wiki/Lee_Morgan
+  musicbrainz: 'https://musicbrainz.org/artist/a1235272-3650-4ed7-9317-5a55a08701ec'
+  spotify: 'https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lee_Morgan'
 image_path: 03_Resources/source_material/ArtistPortraits/lee_morgan.jpg
 biography_enhanced_at: '2025-11-08T21:59:58.915785'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.britannica.com/biography/Lee-Morgan
-- https://en.wikipedia.org/wiki/Lee_Morgan
-- https://kgumusic.com/blogs/news/the-story-of-lee-morgan-triumphs-tragedy
-- https://www.bluenote.com/artist/lee-morgan/
-- https://www.villagepreservation.org/2018/07/10/lee-morgan-east-village-jazz-trumpet-prodigy/
+  - 'https://www.britannica.com/biography/Lee-Morgan'
+  - 'https://en.wikipedia.org/wiki/Lee_Morgan'
+  - 'https://kgumusic.com/blogs/news/the-story-of-lee-morgan-triumphs-tragedy'
+  - 'https://www.bluenote.com/artist/lee-morgan/'
+  - >-
+    https://www.villagepreservation.org/2018/07/10/lee-morgan-east-village-jazz-trumpet-prodigy/
 network_extracted: true
 entry_created: '2025-11-08T21:59:58.915803'
 last_updated: '2025-12-23T08:16:02.961237'
@@ -103,9 +112,10 @@ disambiguation: jazz trumpeter / composer
 gender: Male
 musicbrainz_id: a1235272-3650-4ed7-9317-5a55a08701ec
 tags:
-- bebop
-- hard bop
-- jazz
+  - bebop
+  - hard bop
+  - jazz
+is_active: false
 ---
 
 ![](lee_morgan.jpg)

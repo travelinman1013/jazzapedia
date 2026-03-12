@@ -1,42 +1,46 @@
 ---
 biography_enhanced_at: '2026-01-21T01:14:53.903654'
-birth_place: Galveston, Texas, United States
+birth_place: 'Galveston, Texas, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-21T01:14:53.903660'
 external_urls:
-  spotify: https://open.spotify.com/artist/0WZ7IgzdjPvwFdjDjjuZm7
-  wikipedia: https://en.wikipedia.org/wiki/Esther_Phillips
+  spotify: 'https://open.spotify.com/artist/0WZ7IgzdjPvwFdjDjjuZm7'
+  wikipedia: 'https://en.wikipedia.org/wiki/Esther_Phillips'
 genres:
-- northern soul
-- motown
+  - northern soul
+  - motown
 image_path: 03_Resources/source_material/ArtistPortraits/ester_phillips.jpg
 last_updated: '2026-01-21T01:14:53.903660'
 musical_connections:
   collaborators:
-  - Johnny Otis Orchestra/Quintette
-  - The Robins
-  - Mel Walker
-  - Pee Wee Ellis
+    - Johnny Otis Orchestra/Quintette
+    - The Robins
+    - Mel Walker
+    - Pee Wee Ellis
   influenced: []
   mentors:
-  - Johnny Otis
+    - Johnny Otis
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://blues.org/blues_hof_inductee/esther-phillips/
-- https://www.tshaonline.org/handbook/entries/phillips-esther-mae-little-esther
-- https://en.wikipedia.org/wiki/Esther_Phillips
-- https://www.toppermost.co.uk/phillips-esther/
-- https://www.iowapublicradio.org/2025-12-23/before-beyonce-there-was-esther-phillips-celebrating-the-r-b-singers-90th-birthday
-- https://www.soulwalking.co.uk/Esther%20Phillips.html
-- https://www.ctproduced.com/born-day-esther-phillips/
+  - 'https://blues.org/blues_hof_inductee/esther-phillips/'
+  - >-
+    https://www.tshaonline.org/handbook/entries/phillips-esther-mae-little-esther
+  - 'https://en.wikipedia.org/wiki/Esther_Phillips'
+  - 'https://www.toppermost.co.uk/phillips-esther/'
+  - >-
+    https://www.iowapublicradio.org/2025-12-23/before-beyonce-there-was-esther-phillips-celebrating-the-r-b-singers-90th-birthday
+  - 'https://www.soulwalking.co.uk/Esther%20Phillips.html'
+  - 'https://www.ctproduced.com/born-day-esther-phillips/'
 spotify_data:
   followers: 70563
   id: 0WZ7IgzdjPvwFdjDjjuZm7
   popularity: 42
-  url: https://open.spotify.com/artist/0WZ7IgzdjPvwFdjDjjuZm7
+  url: 'https://open.spotify.com/artist/0WZ7IgzdjPvwFdjDjjuZm7'
 status: active
 title: Ester Phillips
+birth_date: '1935-12-23'
+artist_type: person
 ---
 
 ![](ester_phillips.jpg)

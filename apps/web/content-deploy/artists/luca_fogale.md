@@ -4,7 +4,7 @@ wiki_slug: luca-fogale
 schema_version: 2
 artist_type: person
 status: active
-birth_place: Burnaby
+birth_place: 'Burnaby, British Columbia, Canada'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/luca_fogale.jpg
@@ -26,52 +26,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mathew V
-  - Half Moon Run
-  - Serena Ryder
-  - Josh Ritter
-  - Various co‑writers in Vancouver/Burnaby scene
+    - Mathew V
+    - Half Moon Run
+    - Serena Ryder
+    - Josh Ritter
+    - Various co‑writers in Vancouver/Burnaby scene
   influenced: []
   mentors:
-  - Jimi Hendrix
+    - Jimi Hendrix
 spotify_data:
   followers: 73073
   id: 3GKdEPHUSBp3iNT4SG2Med
   popularity: 50
-  url: https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med
+  url: 'https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med'
 discography_enriched: true
 top_tracks:
-- Every Colour (Nothing is Lost)
-- I Don't Want to Lose You (I Don't Want to Lose You)
-- Ashes (Ashes)
-- You're the One (Nothing is Lost)
-- Bluebird (Safety)
-- Half-Saved (Nothing is Lost)
-- Unfolding (Nothing is Lost)
-- Feel It (Nothing is Lost)
-- Villains (Safety)
-- Another Way Around (Nothing is Lost)
+  - Every Colour (Nothing is Lost)
+  - I Don't Want to Lose You (I Don't Want to Lose You)
+  - Ashes (Ashes)
+  - You're the One (Nothing is Lost)
+  - Bluebird (Safety)
+  - Half-Saved (Nothing is Lost)
+  - Unfolding (Nothing is Lost)
+  - Feel It (Nothing is Lost)
+  - Villains (Safety)
+  - Another Way Around (Nothing is Lost)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d609e468-341f-4984-a61b-181cbb91e707
-  spotify: https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med
-  wikipedia: https://en.wikipedia.org/wiki/Luca_Fogale
+  musicbrainz: 'https://musicbrainz.org/artist/d609e468-341f-4984-a61b-181cbb91e707'
+  spotify: 'https://open.spotify.com/artist/3GKdEPHUSBp3iNT4SG2Med'
+  wikipedia: 'https://en.wikipedia.org/wiki/Luca_Fogale'
 image_path: 03_Resources/source_material/ArtistPortraits/luca_fogale.jpg
 biography_enhanced_at: '2025-12-15T01:40:26.979103'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Luca_Fogale
-- https://www.socanmagazine.ca/features/luca-fogale-sits-at-the-piano-every-day/
-- https://almabonger.com/2014/05/18/interview-luca-fogale-musician/
-- https://musicisthehomeforyourpain.wordpress.com/2019/06/27/exclusive-interview-luca-fogale/
-- https://www.lucafogale.com/about
-- https://nettwerk.com/artist/luca-fogale/
-- https://www.youtube.com/@lucafogale/about
+  - 'https://en.wikipedia.org/wiki/Luca_Fogale'
+  - >-
+    https://www.socanmagazine.ca/features/luca-fogale-sits-at-the-piano-every-day/
+  - 'https://almabonger.com/2014/05/18/interview-luca-fogale-musician/'
+  - >-
+    https://musicisthehomeforyourpain.wordpress.com/2019/06/27/exclusive-interview-luca-fogale/
+  - 'https://www.lucafogale.com/about'
+  - 'https://nettwerk.com/artist/luca-fogale/'
+  - 'https://www.youtube.com/@lucafogale/about'
 network_extracted: true
 entry_created: '2025-12-15T01:40:26.979118'
 last_updated: '2025-12-23T08:16:12.305426'
 gender: Male
 musicbrainz_id: d609e468-341f-4984-a61b-181cbb91e707
+origin: 'Burnaby, British Columbia, Canada'
 ---
 
 ![](luca_fogale.jpg)

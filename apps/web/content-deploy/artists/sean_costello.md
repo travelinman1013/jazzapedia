@@ -1,20 +1,22 @@
 ---
-title: sean costello
+title: Sean Costello
 wiki_slug: sean-costello
 schema_version: 2
 status: active
-birth_place: Philadelphia, Pennsylvania, United States (birthplace); Atlanta, Georgia, United States (primary residence from
-  age 9)
+birth_place: >-
+  Philadelphia, Pennsylvania, United States (birthplace); Atlanta, Georgia,
+  United States (primary residence from age 9)
 genres:
-- blues
-- blues rock
-- modern blues
+  - blues
+  - blues rock
+  - modern blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sean_costello.jpg
   caption: sean costello
   background: solo_singer
-  origin: Philadelphia, Pennsylvania, United States (birthplace); Atlanta, Georgia, United States (primary residence from
-    age 9)
+  origin: >-
+    Philadelphia, Pennsylvania, United States (birthplace); Atlanta, Georgia,
+    United States (primary residence from age 9)
 audio_profile:
   tempo_avg: 116.4
   energy_avg: 0.647
@@ -30,48 +32,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Susan Tedeschi
-  - Amy Helm
-  - Steve Conn
+    - Susan Tedeschi
+    - Amy Helm
+    - Steve Conn
   influenced: []
   mentors:
-  - Levon Helm
-  - Hubert Sumlin
-  - Otis Rush
+    - Levon Helm
+    - Hubert Sumlin
+    - Otis Rush
 spotify_data:
   followers: 9914
   id: 0cchrfenh0m4UpXP0sf7kU
   popularity: 22
-  url: https://open.spotify.com/artist/0cchrfenh0m4UpXP0sf7kU
+  url: 'https://open.spotify.com/artist/0cchrfenh0m4UpXP0sf7kU'
 discography_enriched: true
 top_tracks:
-- Double Trouble (Cuttin' In)
-- Anytime You Want (We Can Get Together)
-- I'm a Ram (Sean Costello)
-- Don't Pass Me By (Sean Costello)
-- Can't Let Go (We Can Get Together)
-- Have You No Shame (We Can Get Together)
-- Hard Luck Woman (We Can Get Together)
-- Going Home (We Can Get Together)
-- Same Old Game (We Can Get Together)
-- How In The Devil (We Can Get Together)
+  - Double Trouble (Cuttin' In)
+  - Anytime You Want (We Can Get Together)
+  - I'm a Ram (Sean Costello)
+  - Don't Pass Me By (Sean Costello)
+  - Can't Let Go (We Can Get Together)
+  - Have You No Shame (We Can Get Together)
+  - Hard Luck Woman (We Can Get Together)
+  - Going Home (We Can Get Together)
+  - Same Old Game (We Can Get Together)
+  - How In The Devil (We Can Get Together)
 external_urls:
-  spotify: https://open.spotify.com/artist/0cchrfenh0m4UpXP0sf7kU
-  wikipedia: https://en.wikipedia.org/wiki/Sean_Costello
+  spotify: 'https://open.spotify.com/artist/0cchrfenh0m4UpXP0sf7kU'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sean_Costello'
 image_path: 03_Resources/source_material/ArtistPortraits/sean_costello.jpg
 biography_enhanced_at: '2025-11-27T06:35:55.557339'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Sean Costello
-- All About Jazz - Sean Costello Musician
-- Jango Radio - Sean Costello Full Bio
-- American Blues Scene - The Short Life and Infinite Legacy of Sean Costello
-- Sean Costello Memorial Fund - Biography
-- iHeart - Sean Costello Artist Profile
+  - Wikipedia - Sean Costello
+  - All About Jazz - Sean Costello Musician
+  - Jango Radio - Sean Costello Full Bio
+  - American Blues Scene - The Short Life and Infinite Legacy of Sean Costello
+  - Sean Costello Memorial Fund - Biography
+  - iHeart - Sean Costello Artist Profile
 network_extracted: true
 entry_created: '2025-11-27T06:35:55.557354'
 last_updated: '2025-12-23T08:16:15.450770'
+origin: 'Atlanta, Georgia, United States'
+artist_type: person
 ---
 
 ![](sean_costello.jpg)

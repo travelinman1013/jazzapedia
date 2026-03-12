@@ -5,23 +5,23 @@ schema_version: 2
 status: active
 aliases: []
 birth_date: '2000-00-00'
-birth_place: Itasca, Texas, United States
+birth_place: 'Whitney, Texas, United States'
 years_active: 2010–present
 genres:
-- gothic country
-- modern blues
-- blues rock
-- country blues
+  - gothic country
+  - modern blues
+  - blues rock
+  - country blues
 instruments:
-- guitar
+  - guitar
 occupation:
-- songwriter
+  - songwriter
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Lincoln_Durham.jpg
   caption: Lincoln Durham
   background: non_vocal_instrumentalist
   born: '2000-00-00'
-  origin: Itasca, Texas, United States
+  origin: 'Itasca, Texas, United States'
 audio_profile:
   tempo_avg: 115.5
   energy_avg: 0.592
@@ -37,51 +37,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ray Wylie Hubbard
-  - George Reiff
-  - Liz Foster
+    - Ray Wylie Hubbard
+    - George Reiff
+    - Liz Foster
   influenced: []
   mentors:
-  - Ray Wylie Hubbard
+    - Ray Wylie Hubbard
 related_artists: []
 spotify_data:
   followers: 23545
   id: 1Zngx1vu4ARlsOn5MwvOVo
   popularity: 36
-  url: https://open.spotify.com/artist/1Zngx1vu4ARlsOn5MwvOVo
+  url: 'https://open.spotify.com/artist/1Zngx1vu4ARlsOn5MwvOVo'
   verified: false
 discography_enriched: true
 albums_count: 5
 singles_count: 8
 top_tracks:
-- Ballad of a Prodigal Son (Exodus of the Deemed Unrighteous)
-- Last Red Dawn (The Shovel vs. The Howling Bones)
-- Preacher (And Into Heaven Came The Night)
-- Reckoning Lament (The Shovel vs. The Howling Bones)
-- Clementine (The Shovel vs. The Howling Bones)
-- Drifting Wood (The Shovel vs. The Howling Bones)
-- Creeper (Revelations of a Mind Unraveling)
-- Heaven (And Into Heaven Came The Night)
-- Feather (And Into Heaven Came The Night)
-- Living This Hard (The Shovel vs. The Howling Bones)
+  - Ballad of a Prodigal Son (Exodus of the Deemed Unrighteous)
+  - Last Red Dawn (The Shovel vs. The Howling Bones)
+  - Preacher (And Into Heaven Came The Night)
+  - Reckoning Lament (The Shovel vs. The Howling Bones)
+  - Clementine (The Shovel vs. The Howling Bones)
+  - Drifting Wood (The Shovel vs. The Howling Bones)
+  - Creeper (Revelations of a Mind Unraveling)
+  - Heaven (And Into Heaven Came The Night)
+  - Feather (And Into Heaven Came The Night)
+  - Living This Hard (The Shovel vs. The Howling Bones)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/1Zngx1vu4ARlsOn5MwvOVo
-  wikipedia: https://en.wikipedia.org/wiki/Lincoln_Durham
+  spotify: 'https://open.spotify.com/artist/1Zngx1vu4ARlsOn5MwvOVo'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lincoln_Durham'
 image_path: 03_Resources/source_material/ArtistPortraits/Lincoln_Durham.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:26:06.063951'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.lincolndurham.com/about
-- https://first-avenue.com/performer/lincoln-durham/
-- https://lonestarmusicmagazine.com/the-devil-and-mr-durham/
+  - 'https://www.lincolndurham.com/about'
+  - 'https://first-avenue.com/performer/lincoln-durham/'
+  - 'https://lonestarmusicmagazine.com/the-devil-and-mr-durham/'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 11:51:29.627269
+entry_created: 2025-09-18T11:51:29.627Z
 last_updated: '2025-12-23T08:16:11.946129'
-
+origin: 'Itasca, Texas, United States'
+artist_type: band
 ---
 
 ![](Lincoln_Durham.jpg)

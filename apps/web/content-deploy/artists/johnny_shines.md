@@ -1,19 +1,19 @@
 ---
-title: JOHNNY SHINES
+title: Johnny Shines
 wiki_slug: johnny-shines
 schema_version: 2
 status: active
-birth_place: Frayser, Tennessee (now Memphis), United States
+birth_place: 'Frayser, Tennessee (now Memphis), United States'
 genres:
-- classic blues
-- blues
-- country blues
-- modern blues
+  - classic blues
+  - blues
+  - country blues
+  - modern blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/johnny_shines.jpg
   caption: JOHNNY SHINES
   background: solo_singer
-  origin: Frayser, Tennessee (now Memphis), United States
+  origin: 'Frayser, Tennessee (now Memphis), United States'
 audio_profile:
   tempo_avg: 115.4
   energy_avg: 0.248
@@ -29,54 +29,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Robert Johnson
-  - Sunnyland Slim
-  - Robert Lockwood Jr.
-  - Big Walter Horton
-  - Willie Dixon
-  - Snooky Pryor and Johnny Nicholas
-  - Kent DuChaine
-  - Mississippi Fred McDowell
+    - Robert Johnson
+    - Sunnyland Slim
+    - Robert Lockwood Jr.
+    - Big Walter Horton
+    - Willie Dixon
+    - Snooky Pryor and Johnny Nicholas
+    - Kent DuChaine
+    - Mississippi Fred McDowell
   influenced:
-  - Scores of young Alabama musicians
-  - Modern blues musicians
+    - Scores of young Alabama musicians
+    - Modern blues musicians
   mentors:
-  - Robert Johnson
-  - His mother
-  - Howlin’ Wolf
+    - Robert Johnson
+    - His mother
+    - Howlin’ Wolf
 spotify_data:
   followers: 11184
   id: 4FViGgjWpnJJ21reE6pHko
   popularity: 22
-  url: https://open.spotify.com/artist/4FViGgjWpnJJ21reE6pHko
+  url: 'https://open.spotify.com/artist/4FViGgjWpnJJ21reE6pHko'
 discography_enriched: true
 top_tracks:
-- Travelling Back Home (Too Wet to Plow)
-- Ramblin' (Johnny Shines and Robert Lockwood)
-- The Wind Is Blowin' (Too Wet to Plow)
-- Evening Sun (Johnny Shines and Robert Lockwood)
-- Nobody's Fault But Mine (Takin' The Blues Back South)
-- Too Wet to Plow (Too Wet to Plow)
-- My Love Can't Hide (Johnny Shines)
-- Hello Central (Johnny Shines With Big Walter Horton)
-- Sneakin' And Hidin' (Johnny Shines With Big Walter Horton)
-- Lovin' You (Otis Spann's Chicago Blues)
+  - Travelling Back Home (Too Wet to Plow)
+  - Ramblin' (Johnny Shines and Robert Lockwood)
+  - The Wind Is Blowin' (Too Wet to Plow)
+  - Evening Sun (Johnny Shines and Robert Lockwood)
+  - Nobody's Fault But Mine (Takin' The Blues Back South)
+  - Too Wet to Plow (Too Wet to Plow)
+  - My Love Can't Hide (Johnny Shines)
+  - Hello Central (Johnny Shines With Big Walter Horton)
+  - Sneakin' And Hidin' (Johnny Shines With Big Walter Horton)
+  - Lovin' You (Otis Spann's Chicago Blues)
 external_urls:
-  spotify: https://open.spotify.com/artist/4FViGgjWpnJJ21reE6pHko
-  wikipedia: https://en.wikipedia.org/wiki/Johnny_Shines
+  spotify: 'https://open.spotify.com/artist/4FViGgjWpnJJ21reE6pHko'
+  wikipedia: 'https://en.wikipedia.org/wiki/Johnny_Shines'
 image_path: 03_Resources/source_material/ArtistPortraits/johnny_shines.jpg
 biography_enhanced_at: '2025-11-04T10:55:18.312744'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Johnny_Shines
-- https://blues.org/blues_hof_inductee/johnny-shines/
-- https://arts.alabama.gov/Traditional_Culture/heritageaward/Johnny_Shines.aspx
-- https://jasobrecht.substack.com/p/johnny-shines-talks-about-his-life
-- https://aaregistry.org/story/johnny-shines-tennessee-bluesman/
+  - 'https://en.wikipedia.org/wiki/Johnny_Shines'
+  - 'https://blues.org/blues_hof_inductee/johnny-shines/'
+  - >-
+    https://arts.alabama.gov/Traditional_Culture/heritageaward/Johnny_Shines.aspx
+  - 'https://jasobrecht.substack.com/p/johnny-shines-talks-about-his-life'
+  - 'https://aaregistry.org/story/johnny-shines-tennessee-bluesman/'
 network_extracted: true
 entry_created: '2025-11-04T10:55:18.312754'
 last_updated: '2025-12-23T08:16:10.904277'
+origin: 'Chicago, Illinois, United States'
+birth_date: '1915-04-25'
+artist_type: person
 ---
 
 ![](johnny_shines.jpg)

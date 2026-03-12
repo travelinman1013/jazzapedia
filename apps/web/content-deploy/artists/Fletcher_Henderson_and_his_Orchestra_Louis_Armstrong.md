@@ -1,25 +1,26 @@
 ---
-title: Fletcher Henderson and his Orchestra, Louis Armstrong
+title: 'Fletcher Henderson and his Orchestra, Louis Armstrong'
 wiki_slug: fletcher-henderson-and-his-orchestra-louis-armstrong
 schema_version: 2
 status: active
 genres:
-- big band
-- swing music
-- ragtime
-- jazz
+  - big band
+  - swing music
+  - ragtime
+  - jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/Fletcher_Henderson_and_his_Orchestra_Louis_Armstrong.jpg
-  caption: Fletcher Henderson and his Orchestra, Louis Armstrong
+  image: >-
+    03_Resources/source_material/ArtistPortraits/Fletcher_Henderson_and_his_Orchestra_Louis_Armstrong.jpg
+  caption: 'Fletcher Henderson and his Orchestra, Louis Armstrong'
   background: solo_singer
 audio_profile:
-  tempo_avg: 117.0
+  tempo_avg: 117
   energy_avg: 0.387
   valence_avg: 0.805
   danceability_avg: 0.688
   acousticness_avg: 0.958
   instrumentalness_avg: 0.597
-  loudness_avg: -10.0
+  loudness_avg: -10
   speechiness_avg: 0.082
   liveness_avg: 0.172
   track_count: 52
@@ -27,51 +28,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Fletcher Henderson
-  - Don Redman
-  - Coleman Hawkins
-  - Buster Bailey
+    - Fletcher Henderson
+    - Don Redman
+    - Coleman Hawkins
+    - Buster Bailey
   influenced:
-  - Coleman Hawkins
-  - Don Redman
-  - Duke Ellington
+    - Coleman Hawkins
+    - Don Redman
+    - Duke Ellington
   mentors:
-  - Joe 'King' Oliver
+    - Joe 'King' Oliver
 spotify_data:
   followers: 24879
   id: 2ovJLSejirvJybNers2YG6
   popularity: 27
-  url: https://open.spotify.com/artist/2ovJLSejirvJybNers2YG6
+  url: 'https://open.spotify.com/artist/2ovJLSejirvJybNers2YG6'
 discography_enriched: true
 top_tracks:
-- Sing You Sinners (First Impressions)
-- Hot And Anxious (The Definitive)
-- Sugar (Fletcher Henderson & His Orchestra Vol 2)
-- Sugar Foot Stomp (First Impressions)
-- Alabamy bound (Fletcher Henderson 1924-1927 (Jazz Archives No. 33))
-- Fidgety Feet (First Impressions)
-- 'Hot and Anxious - Remastered (Anthology: The Definitive Collection (Remastered))'
-- 'Wrappin It Up (The Quintessence Fletcher Henderson 1924-1936: New York Chicago)'
-- Christopher Columbus (First Impressions)
-- Wrappin' It Up
+  - Sing You Sinners (First Impressions)
+  - Hot And Anxious (The Definitive)
+  - Sugar (Fletcher Henderson & His Orchestra Vol 2)
+  - Sugar Foot Stomp (First Impressions)
+  - Alabamy bound (Fletcher Henderson 1924-1927 (Jazz Archives No. 33))
+  - Fidgety Feet (First Impressions)
+  - >-
+    Hot and Anxious - Remastered (Anthology: The Definitive Collection
+    (Remastered))
+  - >-
+    Wrappin It Up (The Quintessence Fletcher Henderson 1924-1936: New York
+    Chicago)
+  - Christopher Columbus (First Impressions)
+  - Wrappin' It Up
 external_urls:
-  spotify: https://open.spotify.com/artist/2ovJLSejirvJybNers2YG6
-  wikipedia: https://en.wikipedia.org/wiki/Louis_Armstrong
-image_path: 03_Resources/source_material/ArtistPortraits/Fletcher_Henderson_and_his_Orchestra_Louis_Armstrong.jpg
+  spotify: 'https://open.spotify.com/artist/2ovJLSejirvJybNers2YG6'
+  wikipedia: 'https://en.wikipedia.org/wiki/Louis_Armstrong'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/Fletcher_Henderson_and_his_Orchestra_Louis_Armstrong.jpg
 biography_enhanced_at: '2025-10-19T12:26:28.276332'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Louis_Armstrong
-- https://en.wikipedia.org/wiki/Fletcher_Henderson
-- https://syncopatedtimes.com/louis-armstrong-with-fletcher-henderson/
-- https://www.mosaicrecords.com/louis-armstrong-fletcher-henderson/
-- https://amhistory.si.edu/jazz/education/TheMan&HisLife.pdf
+  - 'https://en.wikipedia.org/wiki/Louis_Armstrong'
+  - 'https://en.wikipedia.org/wiki/Fletcher_Henderson'
+  - 'https://syncopatedtimes.com/louis-armstrong-with-fletcher-henderson/'
+  - 'https://www.mosaicrecords.com/louis-armstrong-fletcher-henderson/'
+  - 'https://amhistory.si.edu/jazz/education/TheMan&HisLife.pdf'
 network_extracted: true
 entry_created: '2025-10-19T12:26:28.276347'
 last_updated: '2025-12-23T08:16:02.028307'
-origin: New Orleans, Louisiana, United States (Louis Armstrong); Cuthbert, Georgia, United States (Fletcher Henderson); New
-  York City, New York, United States (Fletcher Henderson Orchestra origin)
+origin: >-
+  New Orleans, Louisiana, United States (Louis Armstrong); Cuthbert, Georgia,
+  United States (Fletcher Henderson); New York City, New York, United States
+  (Fletcher Henderson Orchestra origin)
+birth_place: 'Cuthbert, Georgia, United States'
+artist_type: person
 ---
 
 ![](Fletcher_Henderson_and_his_Orchestra_Louis_Armstrong.jpg)

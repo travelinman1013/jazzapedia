@@ -4,11 +4,12 @@ wiki_slug: orquesta-la-moderna-tradicion
 schema_version: 2
 status: active
 genres:
-- latin jazz
-- cha cha cha
-- son cubano
+  - latin jazz
+  - cha cha cha
+  - son cubano
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/orquesta_la_moderna_tradicion.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/orquesta_la_moderna_tradicion.jpg
   caption: Orquesta La Moderna Tradicion
   background: solo_singer
 audio_profile:
@@ -26,53 +27,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Roberto Borrell
-  - Michael Spiro
-  - Chus Alonso
-  - Carlos Caro
-  - Sandy Poindexter
-  - Potaje
+    - Roberto Borrell
+    - Michael Spiro
+    - Chus Alonso
+    - Carlos Caro
+    - Sandy Poindexter
+    - Potaje
   influenced:
-  - Bay Area Latin dance bands
+    - Bay Area Latin dance bands
   mentors:
-  - Kent Nagano
-  - Juan Carlos Formell
+    - Kent Nagano
+    - Juan Carlos Formell
 spotify_data:
   followers: 366
   id: 0dkvwpwq9Fk51EGw4fdiDe
   popularity: 10
-  url: https://open.spotify.com/artist/0dkvwpwq9Fk51EGw4fdiDe
+  url: 'https://open.spotify.com/artist/0dkvwpwq9Fk51EGw4fdiDe'
 discography_enriched: true
 top_tracks:
-- Juárez (Putumayo Presents Vintage Latino)
-- Mi Chachachá (Putumayo Presents Rumba Mambo Cha Cha Cha)
-- Mi Cha cha cha (Goza Conmigo)
-- Canta la Ceiba, Baila la Palma Real (En Canto)
-- En el Tiempo de la Colonia (En Canto)
-- Soy Matancero (En Canto)
-- Contrólate (En Canto)
-- Popurrí a Francia (Goza Conmigo)
-- Goza Conmigo (Goza Conmigo)
-- Los Tres Bailadores (Goza Conmigo)
+  - Juárez (Putumayo Presents Vintage Latino)
+  - Mi Chachachá (Putumayo Presents Rumba Mambo Cha Cha Cha)
+  - Mi Cha cha cha (Goza Conmigo)
+  - 'Canta la Ceiba, Baila la Palma Real (En Canto)'
+  - En el Tiempo de la Colonia (En Canto)
+  - Soy Matancero (En Canto)
+  - Contrólate (En Canto)
+  - Popurrí a Francia (Goza Conmigo)
+  - Goza Conmigo (Goza Conmigo)
+  - Los Tres Bailadores (Goza Conmigo)
 external_urls:
-  spotify: https://open.spotify.com/artist/0dkvwpwq9Fk51EGw4fdiDe
+  spotify: 'https://open.spotify.com/artist/0dkvwpwq9Fk51EGw4fdiDe'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/orquesta_la_moderna_tradicion.jpg
 biography_enhanced_at: '2025-11-16T20:14:37.236506'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://lasalsaesmivida.com/orquesta-la-moderna-tradicion-en-canto/
-- https://www.solarlatinclub.com/orquesta-la-moderna-tradicion-encantado/
-- https://www.salsavida.com/es/bands/orquesta-la-moderna-tradicion/
-- https://secure.thefreight.org/overview/12811
-- https://potajemusic.com/about/orquesta/
-- https://pacificaperformances.org/orquesta-la-moderna-tradicion-2/
-- https://summerfest.sanjosejazz.org/artists/orquesta-la-moderna-tradicion-2
+  - 'https://lasalsaesmivida.com/orquesta-la-moderna-tradicion-en-canto/'
+  - 'https://www.solarlatinclub.com/orquesta-la-moderna-tradicion-encantado/'
+  - 'https://www.salsavida.com/es/bands/orquesta-la-moderna-tradicion/'
+  - 'https://secure.thefreight.org/overview/12811'
+  - 'https://potajemusic.com/about/orquesta/'
+  - 'https://pacificaperformances.org/orquesta-la-moderna-tradicion-2/'
+  - 'https://summerfest.sanjosejazz.org/artists/orquesta-la-moderna-tradicion-2'
 network_extracted: true
 entry_created: '2025-11-16T20:14:37.236512'
 last_updated: '2025-12-23T08:16:13.807611'
-origin: San Francisco, California, USA
+origin: 'San Francisco, California, USA'
+artist_type: person
 ---
 
 ![](orquesta_la_moderna_tradicion.jpg)

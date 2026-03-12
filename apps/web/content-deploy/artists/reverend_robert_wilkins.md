@@ -1,17 +1,17 @@
 ---
-title: reverend robert wilkins
+title: Reverend Robert Wilkins
 wiki_slug: reverend-robert-wilkins
 schema_version: 2
 status: active
-birth_place: Hernando, Mississippi, United States
+birth_place: 'Hernando, Mississippi, United States'
 genres:
-- country blues
-- blues
+  - country blues
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/reverend_robert_wilkins.jpg
   caption: reverend robert wilkins
   background: solo_singer
-  origin: Hernando, Mississippi, United States
+  origin: 'Hernando, Mississippi, United States'
 audio_profile:
   tempo_avg: 116.5
   energy_avg: 0.266
@@ -27,49 +27,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Unnamed Memphis jug band organized by Wilkins
-  - Unidentified second guitarist and spoons player
-  - Dick and Louisa Spottswood
+    - Unnamed Memphis jug band organized by Wilkins
+    - Unidentified second guitarist and spoons player
+    - Dick and Louisa Spottswood
   influenced:
-  - The Rolling Stones
-  - Reverend John Wilkins
-  - 1960s folk and blues revival musicians and audiences
+    - The Rolling Stones
+    - Reverend John Wilkins
+    - 1960s folk and blues revival musicians and audiences
   mentors:
-  - Memphis Beale Street blues scene (Furry Lewis, Memphis Minnie, Son House and peers)
+    - >-
+      Memphis Beale Street blues scene (Furry Lewis, Memphis Minnie, Son House
+      and peers)
 spotify_data:
   followers: 1051
   id: 7cFTwbARdc7nJvtmgtGw6v
   popularity: 8
-  url: https://open.spotify.com/artist/7cFTwbARdc7nJvtmgtGw6v
+  url: 'https://open.spotify.com/artist/7cFTwbARdc7nJvtmgtGw6v'
 discography_enriched: true
 top_tracks:
-- The Prodigal Son (Prodigal Son)
-- I Wish I Was in Heaven Sitting Down (Prodigal Son)
-- Jesus Will Fix Ii Alright (Prodigal Son)
-- Just a Closer Walk with Thee (Prodigal Son)
-- Old Time Religion (Prodigal Son)
-- Thank You, Jesus (Prodigal Son)
-- It Just Suits Me (Prodigal Son)
-- Jesus Said If You Go (Prodigal Son)
-- Do Lord Remember Me (Prodigal Son)
-- Here Am I, Send Me (Prodigal Son)
+  - The Prodigal Son (Prodigal Son)
+  - I Wish I Was in Heaven Sitting Down (Prodigal Son)
+  - Jesus Will Fix Ii Alright (Prodigal Son)
+  - Just a Closer Walk with Thee (Prodigal Son)
+  - Old Time Religion (Prodigal Son)
+  - 'Thank You, Jesus (Prodigal Son)'
+  - It Just Suits Me (Prodigal Son)
+  - Jesus Said If You Go (Prodigal Son)
+  - Do Lord Remember Me (Prodigal Son)
+  - 'Here Am I, Send Me (Prodigal Son)'
 external_urls:
-  spotify: https://open.spotify.com/artist/7cFTwbARdc7nJvtmgtGw6v
-  wikipedia: https://en.wikipedia.org/wiki/Robert_Wilkins
+  spotify: 'https://open.spotify.com/artist/7cFTwbARdc7nJvtmgtGw6v'
+  wikipedia: 'https://en.wikipedia.org/wiki/Robert_Wilkins'
 image_path: 03_Resources/source_material/ArtistPortraits/reverend_robert_wilkins.jpg
 biography_enhanced_at: '2025-12-19T01:54:46.252670'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- National Park Service – Rev. Robert Timothy Wilkins profile[1]
-- Wikipedia – Robert Wilkins[2]
-- Blind Dog Radio artist profile on Robert Wilkins[3]
-- 'Cross Rhythms feature: Rev Robert Wilkins – The gospel blues legend covered by the Rolling Stones[4]'
-- EarlyBlues interview with Reverend John Wilkins[5]
-- Blues Wiki – Robert Wilkins[6]
+  - 'National Park Service – Rev. Robert Timothy Wilkins profile[1]'
+  - 'Wikipedia – Robert Wilkins[2]'
+  - 'Blind Dog Radio artist profile on Robert Wilkins[3]'
+  - >-
+    Cross Rhythms feature: Rev Robert Wilkins – The gospel blues legend covered
+    by the Rolling Stones[4]
+  - 'EarlyBlues interview with Reverend John Wilkins[5]'
+  - 'Blues Wiki – Robert Wilkins[6]'
 network_extracted: true
 entry_created: '2025-12-19T01:54:46.252678'
 last_updated: '2025-12-23T08:16:14.817854'
+birth_date: '1896-01-16'
+death_date: '1987-05-26'
+artist_type: person
 ---
 
 ![](reverend_robert_wilkins.jpg)

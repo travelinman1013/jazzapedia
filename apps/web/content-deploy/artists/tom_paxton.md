@@ -5,13 +5,13 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1937-10-31'
-birth_place: Chicago
+birth_place: 'Chicago, Illinois, United States'
 genres:
-- folk
-- folk rock
+  - folk
+  - folk rock
 instruments:
-- guitar
-- lead vocals
+  - guitar
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/tom_paxton.jpg
   caption: Tom Paxton
@@ -25,7 +25,7 @@ audio_profile:
   danceability_avg: 0.573
   acousticness_avg: 0.758
   instrumentalness_avg: 0.005
-  loudness_avg: -13.0
+  loudness_avg: -13
   speechiness_avg: 0.04
   liveness_avg: 0.192
   track_count: 50
@@ -33,48 +33,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Milt Okun / Cherry Lane Music
-  - Elektra Records (Jac Holzman and label associates)
-  - Harold Leventhal and ensemble of folk artists at ‘A Tribute to Woody Guthrie’
+    - Milt Okun / Cherry Lane Music
+    - Elektra Records (Jac Holzman and label associates)
+    - >-
+      Harold Leventhal and ensemble of folk artists at ‘A Tribute to Woody
+      Guthrie’
   influenced:
-  - Bob Dylan and the Greenwich Village singer‑songwriter movement (collective influence)
+    - >-
+      Bob Dylan and the Greenwich Village singer‑songwriter movement (collective
+      influence)
   mentors:
-  - The Weavers (including Pete Seeger, Lee Hays, Ronnie Gilbert, Fred Hellerman)
-  - Woody Guthrie
-  - Pete Seeger
+    - >-
+      The Weavers (including Pete Seeger, Lee Hays, Ronnie Gilbert, Fred
+      Hellerman)
+    - Woody Guthrie
+    - Pete Seeger
 spotify_data:
   followers: 49860
   id: 55kipiKplrHBCZN6L1gtrv
   popularity: 39
-  url: https://open.spotify.com/artist/55kipiKplrHBCZN6L1gtrv
+  url: 'https://open.spotify.com/artist/55kipiKplrHBCZN6L1gtrv'
 discography_enriched: true
 top_tracks:
-- The Last Thing on My Mind (Ramblin' Boy)
-- Lyndon Johnson Told the Nation (Ain't That News)
-- I Can't Help but Wonder Where I'm Bound (Ramblin' Boy)
-- The Last Thing on My Mind
-- I Give You the Morning (The Things I Notice Now)
-- Ramblin' Boy (Ramblin' Boy)
-- The Last Thing on My Mind (The Wheels of Life)
-- My Lady's a Wild Flying Dove (Ramblin' Boy)
-- Buy a Gun for You Son (Ain't That News)
-- Outward Bound (Outward Bound)
+  - The Last Thing on My Mind (Ramblin' Boy)
+  - Lyndon Johnson Told the Nation (Ain't That News)
+  - I Can't Help but Wonder Where I'm Bound (Ramblin' Boy)
+  - The Last Thing on My Mind
+  - I Give You the Morning (The Things I Notice Now)
+  - Ramblin' Boy (Ramblin' Boy)
+  - The Last Thing on My Mind (The Wheels of Life)
+  - My Lady's a Wild Flying Dove (Ramblin' Boy)
+  - Buy a Gun for You Son (Ain't That News)
+  - Outward Bound (Outward Bound)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1880815f-5f43-4eba-9038-96ba0380134d
-  spotify: https://open.spotify.com/artist/55kipiKplrHBCZN6L1gtrv
-  wikipedia: https://en.wikipedia.org/wiki/Tom_Paxton
+  musicbrainz: 'https://musicbrainz.org/artist/1880815f-5f43-4eba-9038-96ba0380134d'
+  spotify: 'https://open.spotify.com/artist/55kipiKplrHBCZN6L1gtrv'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tom_Paxton'
 image_path: 03_Resources/source_material/ArtistPortraits/tom_paxton.jpg
 biography_enhanced_at: '2025-12-08T04:27:09.689433'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Tom_Paxton
-- https://kids.kiddle.co/Tom_Paxton
-- https://www.okhistory.org/publications/enc/entry?entry=PA026
-- https://appleseedmusic.com/paxton-tom/
-- http://soonermag.oufoundation.org/stories/tom-paxton
-- https://www.tompaxton.com/about-tom/
-- https://www.passim.org/artists/tom-paxton/
+  - 'https://en.wikipedia.org/wiki/Tom_Paxton'
+  - 'https://kids.kiddle.co/Tom_Paxton'
+  - 'https://www.okhistory.org/publications/enc/entry?entry=PA026'
+  - 'https://appleseedmusic.com/paxton-tom/'
+  - 'http://soonermag.oufoundation.org/stories/tom-paxton'
+  - 'https://www.tompaxton.com/about-tom/'
+  - 'https://www.passim.org/artists/tom-paxton/'
 network_extracted: true
 entry_created: '2025-12-08T04:27:09.689440'
 last_updated: '2025-12-23T08:16:17.550270'
@@ -82,9 +88,9 @@ disambiguation: US folk singer-songwriter
 gender: Male
 musicbrainz_id: 1880815f-5f43-4eba-9038-96ba0380134d
 tags:
-- folk
-- singer-songwriter
-
+  - folk
+  - singer-songwriter
+origin: 'Greenwich Village, New York City, United States'
 ---
 
 ![](tom_paxton.jpg)

@@ -3,36 +3,38 @@ biography_enhanced_at: '2026-01-02T01:21:09.903896'
 enhancement_provider: perplexity
 entry_created: '2026-01-02T01:21:09.903901'
 external_urls:
-  spotify: https://open.spotify.com/artist/0rJcrQfLLtWSJAKbZPk6NV
-  wikipedia: https://en.wikipedia.org/wiki/Yarbrough_and_Peoples
+  spotify: 'https://open.spotify.com/artist/0rJcrQfLLtWSJAKbZPk6NV'
+  wikipedia: 'https://en.wikipedia.org/wiki/Yarbrough_and_Peoples'
 genres:
-- post-disco
+  - post-disco
 image_path: 03_Resources/source_material/ArtistPortraits/yarbrough_and_peoples.jpg
 last_updated: '2026-01-02T01:21:09.903902'
 musical_connections:
   collaborators:
-  - Alisa Peoples (for Cavin Yarbrough)
-  - Grand Theft
+    - Alisa Peoples (for Cavin Yarbrough)
+    - Grand Theft
   influenced: []
   mentors:
-  - Lonnie Simmons
-  - Jonah Ellis
-  - Charlie Wilson (Gap Band)
+    - Lonnie Simmons
+    - Jonah Ellis
+    - Charlie Wilson (Gap Band)
 network_extracted: true
-origin: Dallas, Texas, United States
+origin: 'Dallas, Texas, United States'
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Yarbrough+&+Peoples/+wiki
-- https://www.theindieposts.com/spotlight-covers/yarbrough-peoples-interview
-- https://en.wikipedia.org/wiki/Yarbrough_and_Peoples
+  - 'https://www.last.fm/music/Yarbrough+&+Peoples/+wiki'
+  - 'https://www.theindieposts.com/spotlight-covers/yarbrough-peoples-interview'
+  - 'https://en.wikipedia.org/wiki/Yarbrough_and_Peoples'
 spotify_data:
   followers: 97377
   id: 0rJcrQfLLtWSJAKbZPk6NV
   popularity: 41
-  url: https://open.spotify.com/artist/0rJcrQfLLtWSJAKbZPk6NV
+  url: 'https://open.spotify.com/artist/0rJcrQfLLtWSJAKbZPk6NV'
 status: active
 title: Yarbrough & Peoples
-
+birth_date: '1957-06-29'
+death_date: '2025-06-19'
+artist_type: band
 ---
 
 ![](yarbrough_and_peoples.jpg)

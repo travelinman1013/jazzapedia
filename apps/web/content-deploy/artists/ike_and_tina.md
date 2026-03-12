@@ -1,11 +1,11 @@
 ---
-title: ike and tina
+title: Ike and Tina
 wiki_slug: ike-and-tina
 schema_version: 2
 status: active
 genres:
-- motown
-- northern soul
+  - motown
+  - northern soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ike_and_tina.jpg
   caption: ike and tina
@@ -25,48 +25,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Phil Spector
-  - The Ikettes
-  - The Rolling Stones
+    - Phil Spector
+    - The Ikettes
+    - The Rolling Stones
   influenced:
-  - Beyoncé
-  - Janet Jackson
-  - Mick Jagger
+    - Beyoncé
+    - Janet Jackson
+    - Mick Jagger
   mentors:
-  - B.B. King
+    - B.B. King
 spotify_data:
   followers: 332521
   id: 1ZikppG9dPedbIgMfnfx8k
   popularity: 48
-  url: https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k
+  url: 'https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k'
 discography_enriched: true
 top_tracks:
-- Proud Mary (Workin' Together)
-- River Deep - Mountain High (River Deep-Mountain High)
-- Nutbush City Limits
-- Nutbush City Limits (Nutbush City Limits)
-- River Deep - Mountain High
-- Nutbush City Limits
-- River Deep - Mountain High - Remastered Version 1991
-- Come Together
-- River Deep - Mountain High (Nutbush City Limits)
-- Come Together (Come Together)
+  - Proud Mary (Workin' Together)
+  - River Deep - Mountain High (River Deep-Mountain High)
+  - Nutbush City Limits
+  - Nutbush City Limits (Nutbush City Limits)
+  - River Deep - Mountain High
+  - Nutbush City Limits
+  - River Deep - Mountain High - Remastered Version 1991
+  - Come Together
+  - River Deep - Mountain High (Nutbush City Limits)
+  - Come Together (Come Together)
 external_urls:
-  spotify: https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k
-  wikipedia: https://en.wikipedia.org/wiki/Ike_%26_Tina_Turner
+  spotify: 'https://open.spotify.com/artist/1ZikppG9dPedbIgMfnfx8k'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ike_%26_Tina_Turner'
 image_path: 03_Resources/source_material/ArtistPortraits/ike_and_tina.jpg
 biography_enhanced_at: '2025-11-04T11:11:11.849202'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Ike_%26_Tina_Turner
-- https://www.britannica.com/biography/Ike-Turner
-- https://www.edsullivan.com/artists/ike-and-tina-turner/
-- https://www.classicbands.com/turner.html
+  - 'https://en.wikipedia.org/wiki/Ike_%26_Tina_Turner'
+  - 'https://www.britannica.com/biography/Ike-Turner'
+  - 'https://www.edsullivan.com/artists/ike-and-tina-turner/'
+  - 'https://www.classicbands.com/turner.html'
 network_extracted: true
 entry_created: '2025-11-04T11:11:11.849212'
 last_updated: '2025-12-23T08:16:09.798846'
-origin: St. Louis, Missouri, USA
+origin: 'St. Louis, Missouri, USA'
+artist_type: band
 ---
 
 ![](ike_and_tina.jpg)

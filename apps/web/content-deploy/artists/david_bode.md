@@ -1,16 +1,16 @@
 ---
-title: DAVID BODE
+title: David Bode
 wiki_slug: david-bode
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- big band
+  - big band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/david_bode.jpg
   caption: DAVID BODE
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 104.7
   energy_avg: 0.402
@@ -26,62 +26,67 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - One Love Brass Band
-  - Doombalaya
-  - New Leviathan Oriental Foxtrot Orchestra
-  - Good Hang Big Band
-  - Daniel Meinecke
-  - Lori LaPatka
-  - Ari Kohn
-  - Byron Asher
-  - Thad Scott
+    - One Love Brass Band
+    - Doombalaya
+    - New Leviathan Oriental Foxtrot Orchestra
+    - Good Hang Big Band
+    - Daniel Meinecke
+    - Lori LaPatka
+    - Ari Kohn
+    - Byron Asher
+    - Thad Scott
   influenced: []
   mentors:
-  - Tony Dagradi
-  - Johnny Vidacovich
-  - Dr. Joseph Hebert
-  - Matt Lemmler
-  - John Mahoney
-  - Ed Petersen
-  - Steve Masakowski
-  - Victor Atkins
-  - Brian Seeger
+    - Tony Dagradi
+    - Johnny Vidacovich
+    - Dr. Joseph Hebert
+    - Matt Lemmler
+    - John Mahoney
+    - Ed Petersen
+    - Steve Masakowski
+    - Victor Atkins
+    - Brian Seeger
 spotify_data:
   followers: 54
   id: 2lhXrO5RSuhNV1oCkpBDts
   popularity: 1
-  url: https://open.spotify.com/artist/2lhXrO5RSuhNV1oCkpBDts
+  url: 'https://open.spotify.com/artist/2lhXrO5RSuhNV1oCkpBDts'
 discography_enriched: true
 top_tracks:
-- Syeeda’s Song Flute (Good Hang)
-- Libertango (Good Hang)
-- Happy People (Good Hang)
-- Lover, You Should’ve Come Over (Good Hang)
-- Happy People (Happy People)
-- Spring Can Really Hang You Up the Most (Good Hang)
-- Cold Train Funk (Good Hang)
-- Monkey Puzzle (Good Hang)
-- Dear Prudence / Don’t Let Me Down (Good Hang)
-- Spring Can Really Hang You Up the Most (Spring Can Really Hang You Up the Most)
+  - Syeeda’s Song Flute (Good Hang)
+  - Libertango (Good Hang)
+  - Happy People (Good Hang)
+  - 'Lover, You Should’ve Come Over (Good Hang)'
+  - Happy People (Happy People)
+  - Spring Can Really Hang You Up the Most (Good Hang)
+  - Cold Train Funk (Good Hang)
+  - Monkey Puzzle (Good Hang)
+  - Dear Prudence / Don’t Let Me Down (Good Hang)
+  - >-
+    Spring Can Really Hang You Up the Most (Spring Can Really Hang You Up the
+    Most)
 external_urls:
-  spotify: https://open.spotify.com/artist/2lhXrO5RSuhNV1oCkpBDts
+  spotify: 'https://open.spotify.com/artist/2lhXrO5RSuhNV1oCkpBDts'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/david_bode.jpg
 biography_enhanced_at: '2025-10-27T02:53:57.103407'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://davidbodemusic.com/about
-- https://www.paris-move.com/reviews/david-bode-good-hang/
-- https://jazzchill.blogspot.com/2025/09/david-bode-celebrates-new-orleans-jazz.html
-- https://orangegrovepublicity.com/Clients/david-bode-good-hang/
-- https://somethingelsereviews.com/2025/08/20/david-bode-big-band-happy-people-from-good-hang-2025-video-premiere-aug-20/
-- https://davidbodemusic.com
-- https://www.allaboutjazz.com/musicians/david-bode/
-- https://v13.net/2025/07/david-bode-releasing-good-hang-via-1718-records/
+  - 'https://davidbodemusic.com/about'
+  - 'https://www.paris-move.com/reviews/david-bode-good-hang/'
+  - >-
+    https://jazzchill.blogspot.com/2025/09/david-bode-celebrates-new-orleans-jazz.html
+  - 'https://orangegrovepublicity.com/Clients/david-bode-good-hang/'
+  - >-
+    https://somethingelsereviews.com/2025/08/20/david-bode-big-band-happy-people-from-good-hang-2025-video-premiere-aug-20/
+  - 'https://davidbodemusic.com'
+  - 'https://www.allaboutjazz.com/musicians/david-bode/'
+  - 'https://v13.net/2025/07/david-bode-releasing-good-hang-via-1718-records/'
 network_extracted: true
 entry_created: '2025-10-27T02:53:57.103423'
 last_updated: '2025-12-23T08:16:07.540388'
+artist_type: person
 ---
 
 ![](david_bode.jpg)

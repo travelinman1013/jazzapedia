@@ -1,16 +1,16 @@
 ---
-title: Roberto, Jr.
+title: 'Roberto, Jr.'
 wiki_slug: roberto-jr
 schema_version: 2
 status: active
 genres:
-- corrido
-- banda
-- música mexicana
-- norteño
+  - corrido
+  - banda
+  - música mexicana
+  - norteño
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/roberto_jr.jpg
-  caption: Roberto, Jr.
+  caption: 'Roberto, Jr.'
   background: solo_singer
 audio_profile:
   tempo_avg: 123.6
@@ -18,7 +18,7 @@ audio_profile:
   valence_avg: 0.838
   danceability_avg: 0.679
   acousticness_avg: 0.36
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -5.3
   speechiness_avg: 0.071
   liveness_avg: 0.188
@@ -27,42 +27,44 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Members of Su Bandeño
+    - Members of Su Bandeño
   influenced:
-  - Emerging Regional Mexican Bands
+    - Emerging Regional Mexican Bands
   mentors:
-  - Traditional Banda and Norteño Artists
+    - Traditional Banda and Norteño Artists
 spotify_data:
   followers: 811273
   id: 1TZXFnFYNzRTDrNFoH8YC0
   popularity: 57
-  url: https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0
+  url: 'https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0'
 discography_enriched: true
 top_tracks:
-- El Niño De La Tuna (El Nino De La Tuna)
-- El Rey De La Palma
-- La Barbie
-- El Abarrote
-- Las Edades (Los Amigos Del M)
-- Tú Sigues Siendo La Misma
-- Oye (Lo Mejor De Dos Grandes)
-- Los Amigos Del M (Los Amigos Del M)
-- De Sinaloa
-- Me Duele (La Batalla)
+  - El Niño De La Tuna (El Nino De La Tuna)
+  - El Rey De La Palma
+  - La Barbie
+  - El Abarrote
+  - Las Edades (Los Amigos Del M)
+  - Tú Sigues Siendo La Misma
+  - Oye (Lo Mejor De Dos Grandes)
+  - Los Amigos Del M (Los Amigos Del M)
+  - De Sinaloa
+  - Me Duele (La Batalla)
 external_urls:
-  spotify: https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0
+  spotify: 'https://open.spotify.com/artist/1TZXFnFYNzRTDrNFoH8YC0'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/roberto_jr.jpg
 biography_enhanced_at: '2025-11-23T06:31:23.055994'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://corporate.comcast.com/news-information/news-feed/telemundo-to-pay-tribute-to-the-musical-sounds-of-mexico
-- https://open.spotify.com/artist/6lcyDWmvYnBiGgHO9knEOb
+  - >-
+    https://corporate.comcast.com/news-information/news-feed/telemundo-to-pay-tribute-to-the-musical-sounds-of-mexico
+  - 'https://open.spotify.com/artist/6lcyDWmvYnBiGgHO9knEOb'
 network_extracted: true
 entry_created: '2025-11-23T06:31:23.056000'
 last_updated: '2025-12-23T08:16:14.932791'
 origin: Mexico (specific city not verified)
+artist_type: band
 ---
 
 ![](roberto_jr.jpg)

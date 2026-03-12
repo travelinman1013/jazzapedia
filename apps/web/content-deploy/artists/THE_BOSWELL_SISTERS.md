@@ -1,15 +1,15 @@
 ---
-title: THE BOSWELL SISTERS
+title: The Boswell Sisters
 wiki_slug: the-boswell-sisters
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1925'
 genres:
-- big band
-- swing music
-- vocal jazz
-- ragtime
+  - big band
+  - swing music
+  - vocal jazz
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_boswell_sisters.jpg
   caption: THE BOSWELL SISTERS
@@ -22,7 +22,7 @@ audio_profile:
   danceability_avg: 0.642
   acousticness_avg: 0.904
   instrumentalness_avg: 0.102
-  loudness_avg: -14.0
+  loudness_avg: -14
   speechiness_avg: 0.102
   liveness_avg: 0.152
   track_count: 50
@@ -30,69 +30,72 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dorsey Brothers
-  - Glenn Miller
-  - Benny Goodman
-  - Artie Shaw
+    - Dorsey Brothers
+    - Glenn Miller
+    - Benny Goodman
+    - Artie Shaw
   influenced:
-  - Ella Fitzgerald
-  - The Andrews Sisters
+    - Ella Fitzgerald
+    - The Andrews Sisters
   mentors:
-  - Meldania Boswell (mother)
+    - Meldania Boswell (mother)
 spotify_data:
   followers: 30038
   id: 2mflSlnegn3rBmzsh08OcN
   popularity: 32
-  url: https://open.spotify.com/artist/2mflSlnegn3rBmzsh08OcN
+  url: 'https://open.spotify.com/artist/2mflSlnegn3rBmzsh08OcN'
 discography_enriched: true
 top_tracks:
-- Old Yazoo (The Boswell Sisters at Their Best, Vol.1)
-- Old Yazoo (If It Ain't Love)
-- Old Yazoo (Boswell Sisters Vol.3 1932-33)
-- Old Yazoo (Anthology (1925-1936))
-- Old Yazoo (Shout Sister, Shout)
-- Let Yourself Go
-- Old Yazoo (The Boswell Sisters Volume 1)
-- Everybody Loves My Baby (Concentratin' on You)
-- Concentratin' On You (Nothing Was Sweeter Than The Boswell Sisters)
-- The Object Of My Affection (with Jimmie Grier) - 78 rpm Version (That's How Rhythm Was Born)
+  - 'Old Yazoo (The Boswell Sisters at Their Best, Vol.1)'
+  - Old Yazoo (If It Ain't Love)
+  - Old Yazoo (Boswell Sisters Vol.3 1932-33)
+  - Old Yazoo (Anthology (1925-1936))
+  - 'Old Yazoo (Shout Sister, Shout)'
+  - Let Yourself Go
+  - Old Yazoo (The Boswell Sisters Volume 1)
+  - Everybody Loves My Baby (Concentratin' on You)
+  - Concentratin' On You (Nothing Was Sweeter Than The Boswell Sisters)
+  - >-
+    The Object Of My Affection (with Jimmie Grier) - 78 rpm Version (That's How
+    Rhythm Was Born)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/41e2d679-43a3-4b9b-8469-ce748ad7b1ca
-  spotify: https://open.spotify.com/artist/2mflSlnegn3rBmzsh08OcN
-  wikipedia: https://en.wikipedia.org/wiki/The_Boswell_Sisters
+  musicbrainz: 'https://musicbrainz.org/artist/41e2d679-43a3-4b9b-8469-ce748ad7b1ca'
+  spotify: 'https://open.spotify.com/artist/2mflSlnegn3rBmzsh08OcN'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Boswell_Sisters'
 image_path: 03_Resources/source_material/ArtistPortraits/the_boswell_sisters.jpg
 biography_enhanced_at: '2025-11-06T11:42:19.342891'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Boswell_Sisters
-- https://www.britannica.com/topic/the-Boswell-Sisters
-- https://louisianamusichalloffame.org/boswell-sisters/
-- https://jpcavanaugh.com/2021/12/03/the-boswell-sisters-or-how-three-little-girls-from-new-orleans-changed-popular-jazz-singing/
-- https://hnoc.org/virtual-exhibitions/shout-sister-shout/boswell-legacy
+  - 'https://en.wikipedia.org/wiki/The_Boswell_Sisters'
+  - 'https://www.britannica.com/topic/the-Boswell-Sisters'
+  - 'https://louisianamusichalloffame.org/boswell-sisters/'
+  - >-
+    https://jpcavanaugh.com/2021/12/03/the-boswell-sisters-or-how-three-little-girls-from-new-orleans-changed-popular-jazz-singing/
+  - 'https://hnoc.org/virtual-exhibitions/shout-sister-shout/boswell-legacy'
 network_extracted: true
 entry_created: '2025-11-06T11:42:19.342903'
 last_updated: '2025-12-23T08:16:04.011357'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 981b9396-fca8-4297-8d97-4421467eab6d
-  name: Connee Boswell
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e2939105-0500-4c33-962e-dbee22a50b53
-  name: Martha Boswell
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5c42dea7-552b-4cea-9a4d-fa6e6c2138ae
-  name: Vet Boswell
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 981b9396-fca8-4297-8d97-4421467eab6d
+    name: Connee Boswell
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e2939105-0500-4c33-962e-dbee22a50b53
+    name: Martha Boswell
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5c42dea7-552b-4cea-9a4d-fa6e6c2138ae
+    name: Vet Boswell
 musicbrainz_id: 41e2d679-43a3-4b9b-8469-ce748ad7b1ca
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 tags:
-- jazz
+  - jazz
 ---
 
 ![](the_boswell_sisters.jpg)

@@ -4,10 +4,11 @@ wiki_slug: dick-van-dyke-wthe-ray-charles-singers-enoch-light
 schema_version: 2
 status: active
 genres:
-- soul
-- motown
+  - soul
+  - motown
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/dick_van_dyke_wthe_ray_charles_singers_and_enoch_light.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/dick_van_dyke_wthe_ray_charles_singers_and_enoch_light.jpg
   caption: Dick Van Dyke w/The Ray Charles Singers & Enoch Light
   background: solo_singer
 audio_profile:
@@ -25,50 +26,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Enoch Light
-  - The Ray Charles Singers
-  - Ray Charles (vocal arranger/bandleader)
+    - Enoch Light
+    - The Ray Charles Singers
+    - Ray Charles (vocal arranger/bandleader)
   influenced:
-  - Later collectors and enthusiasts of Command Records and TV‑celebrity vocal albums
+    - >-
+      Later collectors and enthusiasts of Command Records and TV‑celebrity vocal
+      albums
   mentors:
-  - Stan Laurel
+    - Stan Laurel
 spotify_data:
   followers: 368876
   id: 7xGGqA85UIWX1GoTVM4itC
   popularity: 52
-  url: https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC
+  url: 'https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC'
 discography_enriched: true
 top_tracks:
-- I'll Take You There
-- Respect Yourself
-- The Weight (Soul Folk In Action)
-- 'The Last Waltz Suite: The Weight (feat. The Staples) (The Last Waltz (Deluxe Version))'
-- Let's Do It Again (Let's Do It Again Original Sound Track)
-- If You're Ready (Come Go With Me) (Be What You Are (Reissue))
-- 'Let''s Do It Again (Faith And Grace: A Family Journey 1953-1976)'
-- 'I''ll Take You There (Be Altitude: Respect Yourself [Stax Remasters])'
-- I'll Take You There
-- 'Respect Yourself (Be Altitude: Respect Yourself [Stax Remasters])'
+  - I'll Take You There
+  - Respect Yourself
+  - The Weight (Soul Folk In Action)
+  - >-
+    The Last Waltz Suite: The Weight (feat. The Staples) (The Last Waltz (Deluxe
+    Version))
+  - Let's Do It Again (Let's Do It Again Original Sound Track)
+  - If You're Ready (Come Go With Me) (Be What You Are (Reissue))
+  - 'Let''s Do It Again (Faith And Grace: A Family Journey 1953-1976)'
+  - 'I''ll Take You There (Be Altitude: Respect Yourself [Stax Remasters])'
+  - I'll Take You There
+  - 'Respect Yourself (Be Altitude: Respect Yourself [Stax Remasters])'
 external_urls:
-  spotify: https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC
-  wikipedia: https://en.wikipedia.org/wiki/Dick_Van_Dyke_on_screen_and_stage
-image_path: 03_Resources/source_material/ArtistPortraits/dick_van_dyke_wthe_ray_charles_singers_and_enoch_light.jpg
+  spotify: 'https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dick_Van_Dyke_on_screen_and_stage'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/dick_van_dyke_wthe_ray_charles_singers_and_enoch_light.jpg
 biography_enhanced_at: '2025-12-16T03:10:47.698541'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.heavypettingzoo.org/songs-i-like-by-dick-van-dyke/
-- https://musicbrainz.org/artist/33ec3ccd-ae01-42fa-b874-095dfbfd522f
-- https://en.wikipedia.org/wiki/Dick_Van_Dyke_on_screen_and_stage
-- https://thesongbook.org/media/2vldr5w0/2511-nov-perfect-harmony-activity-packet-final.pdf
-- https://danvillepubliclibrary.org/stars-of-danville/dick-van-dyke/
-- https://www.biography.com/actors/dick-van-dyke
-- https://bradkyle.substack.com/p/happy-100th-birthday-dick-van-dyke
+  - 'https://www.heavypettingzoo.org/songs-i-like-by-dick-van-dyke/'
+  - 'https://musicbrainz.org/artist/33ec3ccd-ae01-42fa-b874-095dfbfd522f'
+  - 'https://en.wikipedia.org/wiki/Dick_Van_Dyke_on_screen_and_stage'
+  - >-
+    https://thesongbook.org/media/2vldr5w0/2511-nov-perfect-harmony-activity-packet-final.pdf
+  - 'https://danvillepubliclibrary.org/stars-of-danville/dick-van-dyke/'
+  - 'https://www.biography.com/actors/dick-van-dyke'
+  - 'https://bradkyle.substack.com/p/happy-100th-birthday-dick-van-dyke'
 network_extracted: true
 entry_created: '2025-12-16T03:10:47.698555'
 last_updated: '2025-12-23T08:16:07.763797'
-origin: Danville, Illinois, United States (origin of principal artist Dick Van Dyke; project recorded and produced in the United States)
-
+origin: >-
+  Danville, Illinois, United States (origin of principal artist Dick Van Dyke;
+  project recorded and produced in the United States)
+artist_type: band
 ---
 
 ![](dick_van_dyke_wthe_ray_charles_singers_and_enoch_light.jpg)

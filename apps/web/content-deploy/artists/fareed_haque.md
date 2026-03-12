@@ -1,98 +1,101 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 731f3ac1-3af9-473b-9aa5-72fa6b193f6d
-  name: Garaj Mahal
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: d23a3d0f-569f-4b40-9b70-dd07d1f76bbc
-  name: The Clinton Administration
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: c3fcd036-946b-4dbf-90ec-96495f42aa5d
-  name: Kahil El’Zabar’s Experimental Band
-- begin: ''
-  end: ''
-  instruments:
-  - sitar
-  mbid: 75bdbd31-4d33-4a8f-939f-ccca3b91e76b
-  name: Juba Collective
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: 75bdbd31-4d33-4a8f-939f-ccca3b91e76b
-  name: Juba Collective
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 731f3ac1-3af9-473b-9aa5-72fa6b193f6d
+    name: Garaj Mahal
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: d23a3d0f-569f-4b40-9b70-dd07d1f76bbc
+    name: The Clinton Administration
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: c3fcd036-946b-4dbf-90ec-96495f42aa5d
+    name: Kahil El’Zabar’s Experimental Band
+  - begin: ''
+    end: ''
+    instruments:
+      - sitar
+    mbid: 75bdbd31-4d33-4a8f-939f-ccca3b91e76b
+    name: Juba Collective
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 75bdbd31-4d33-4a8f-939f-ccca3b91e76b
+    name: Juba Collective
 biography_enhanced_at: '2026-01-08T01:32:02.363519'
 birth_date: '1963'
-birth_place: Chicago
+birth_place: 'Chicago, Illinois, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-08T01:32:02.363525'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2f5c1676-7236-4191-9524-856a67794bbe
-  spotify: https://open.spotify.com/artist/0P6TEBXyjHGGl0QxDhbTUv
-  wikipedia: https://en.wikipedia.org/wiki/Fareed_Haque
+  musicbrainz: 'https://musicbrainz.org/artist/2f5c1676-7236-4191-9524-856a67794bbe'
+  spotify: 'https://open.spotify.com/artist/0P6TEBXyjHGGl0QxDhbTUv'
+  wikipedia: 'https://en.wikipedia.org/wiki/Fareed_Haque'
 gender: Male
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/fareed_haque.jpg
 instruments:
-- guitar
-- sitar
-- acoustic guitar
-- guitar family
-- electric guitar
-- steel guitar
+  - guitar
+  - sitar
+  - acoustic guitar
+  - guitar family
+  - electric guitar
+  - steel guitar
 last_updated: '2026-01-08T01:32:02.363526'
 musical_connections:
   collaborators:
-  - Howard Levy
-  - Paquito D’Rivera
-  - Sting
-  - Joe Zawinul
-  - Garaj Mahal (with Kai Eckhardt, Eric Levy, Alan Hertz)
-  - George Brooks, Zakir Hussain, Steve Smith
-  - Chicago Sinfonietta and Ustad Zakir Hussain
-  - Fulcrum Point Ensemble
-  - Billy Cobham (Crosswinds Ensemble) and Ernie Watts
-  - Goran Ivanovic
+    - Howard Levy
+    - Paquito D’Rivera
+    - Sting
+    - Joe Zawinul
+    - 'Garaj Mahal (with Kai Eckhardt, Eric Levy, Alan Hertz)'
+    - 'George Brooks, Zakir Hussain, Steve Smith'
+    - Chicago Sinfonietta and Ustad Zakir Hussain
+    - Fulcrum Point Ensemble
+    - Billy Cobham (Crosswinds Ensemble) and Ernie Watts
+    - Goran Ivanovic
   influenced:
-  - Students at Northern Illinois University
-  - Chicago jazz and fusion guitar community (collective)
+    - Students at Northern Illinois University
+    - Chicago jazz and fusion guitar community (collective)
   mentors:
-  - Jack Peterson
-  - David Buch
-  - John Holmquist
-  - Anne Waller
-  - Von Freeman
-  - Zakir Hussain
+    - Jack Peterson
+    - David Buch
+    - John Holmquist
+    - Anne Waller
+    - Von Freeman
+    - Zakir Hussain
 musicbrainz_id: 2f5c1676-7236-4191-9524-856a67794bbe
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://winstonsob.com/calendar/week/fareed-haque-his-funk-bros-smokey-hoof
-- https://www.northwestern.edu/magazine/northwestern/fall2003/alumninews/haque.htm
-- https://simonsaysbooking.com/artist/fareed-haque/
-- https://artlitlab.org/artists/fareed-haque
-- https://news.wttw.com/2017/08/30/guitar-artistry-local-masters-fareed-haque-and-goran-ivanovic
-- https://www.guitarsalon.com/fr/blog/teacher-spotlight-fareed-haque
-- https://summerofthearts.org/performer/fareed-haque/
-- https://en.wikipedia.org/wiki/Fareed_Haque
+  - 'https://winstonsob.com/calendar/week/fareed-haque-his-funk-bros-smokey-hoof'
+  - >-
+    https://www.northwestern.edu/magazine/northwestern/fall2003/alumninews/haque.htm
+  - 'https://simonsaysbooking.com/artist/fareed-haque/'
+  - 'https://artlitlab.org/artists/fareed-haque'
+  - >-
+    https://news.wttw.com/2017/08/30/guitar-artistry-local-masters-fareed-haque-and-goran-ivanovic
+  - 'https://www.guitarsalon.com/fr/blog/teacher-spotlight-fareed-haque'
+  - 'https://summerofthearts.org/performer/fareed-haque/'
+  - 'https://en.wikipedia.org/wiki/Fareed_Haque'
 spotify_data:
   followers: 2683
   id: 0P6TEBXyjHGGl0QxDhbTUv
   popularity: 16
-  url: https://open.spotify.com/artist/0P6TEBXyjHGGl0QxDhbTUv
+  url: 'https://open.spotify.com/artist/0P6TEBXyjHGGl0QxDhbTUv'
 status: active
 tags:
-- jazz
+  - jazz
 title: Fareed Haque
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](fareed_haque.jpg)

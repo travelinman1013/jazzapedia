@@ -3,19 +3,19 @@ title: Dizzy Gillespie Orch
 wiki_slug: dizzy-gillespie-orch
 schema_version: 2
 status: active
-birth_place: Cheraw, South Carolina, USA
+birth_place: 'Cheraw, South Carolina, USA'
 genres:
-- bebop
-- jazz
-- hard bop
-- latin jazz
-- big band
-- cool jazz
+  - bebop
+  - jazz
+  - hard bop
+  - latin jazz
+  - big band
+  - cool jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/dizzy_gillespie_orch.jpg
   caption: Dizzy Gillespie Orch
   background: solo_singer
-  origin: Cheraw, South Carolina, USA
+  origin: 'Cheraw, South Carolina, USA'
 audio_profile:
   tempo_avg: 124.1
   energy_avg: 0.471
@@ -31,50 +31,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Charlie Parker
-  - Chano Pozo
-  - Cab Calloway
-  - Quincy Jones
+    - Charlie Parker
+    - Chano Pozo
+    - Cab Calloway
+    - Quincy Jones
   influenced:
-  - Miles Davis
-  - John Coltrane
-  - Arturo Sandoval
+    - Miles Davis
+    - John Coltrane
+    - Arturo Sandoval
   mentors:
-  - Roy Eldridge
-  - Norman Powe
+    - Roy Eldridge
+    - Norman Powe
 spotify_data:
   followers: 474107
   id: 5RzjqfPS0Bu4bUMkyNNDpn
   popularity: 49
-  url: https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn
+  url: 'https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn'
 discography_enriched: true
 top_tracks:
-- 'All The Things You Are (Odyssey: 1945-1952)'
-- On The Sunny Side Of The Street (Dizzy 100)
-- 'A Night In Tunisia (Birks Works: The Verve Big-Band Sessions)'
-- Groovin' High (Groovin' High)
-- Salt Peanuts (Groovin' High)
-- Bang Bang (Talkin' Verve)
-- Unicorn (Free Ride)
-- Bang Bang (The Melody Lingers On)
-- Leap Frog - Take 11 / Take 6 / Master Take (Bird And Diz (Expanded Edition))
-- Relaxing With Lee - Take 6 / Take 3 / Master Take (Bird And Diz (Expanded Edition))
+  - 'All The Things You Are (Odyssey: 1945-1952)'
+  - On The Sunny Side Of The Street (Dizzy 100)
+  - 'A Night In Tunisia (Birks Works: The Verve Big-Band Sessions)'
+  - Groovin' High (Groovin' High)
+  - Salt Peanuts (Groovin' High)
+  - Bang Bang (Talkin' Verve)
+  - Unicorn (Free Ride)
+  - Bang Bang (The Melody Lingers On)
+  - Leap Frog - Take 11 / Take 6 / Master Take (Bird And Diz (Expanded Edition))
+  - >-
+    Relaxing With Lee - Take 6 / Take 3 / Master Take (Bird And Diz (Expanded
+    Edition))
 external_urls:
-  spotify: https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn
-  wikipedia: https://en.wikipedia.org/wiki/Dizzy_Gillespie
+  spotify: 'https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dizzy_Gillespie'
 image_path: 03_Resources/source_material/ArtistPortraits/dizzy_gillespie_orch.jpg
 biography_enhanced_at: '2025-12-23T02:03:13.266776'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.philadelphiamusicalliance.org/walk-of-fame/dizzy-gillespie-2/
-- https://www.polarmusicprize.org/laureates/dizzy-gillespie/
-- https://www.biography.com/musicians/dizzy-gillespie
-- https://www.britannica.com/biography/Dizzy-Gillespie
+  - 'https://www.philadelphiamusicalliance.org/walk-of-fame/dizzy-gillespie-2/'
+  - 'https://www.polarmusicprize.org/laureates/dizzy-gillespie/'
+  - 'https://www.biography.com/musicians/dizzy-gillespie'
+  - 'https://www.britannica.com/biography/Dizzy-Gillespie'
 network_extracted: true
 entry_created: '2025-12-23T02:03:13.266788'
 last_updated: '2025-12-23T08:16:07.796835'
-
+birth_date: '1917-10-21'
+artist_type: band
 ---
 
 ![](dizzy_gillespie_orch.jpg)

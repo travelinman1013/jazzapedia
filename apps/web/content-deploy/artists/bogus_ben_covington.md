@@ -1,44 +1,46 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-03T01:46:06.439299'
-birth_place: Arcadia, Alabama, United States (birthplace); worked primarily in Mississippi and Chicago
+birth_place: >-
+  Arcadia, Alabama, United States (birthplace); worked primarily in Mississippi
+  and Chicago
 death_date: '1935'
 enhancement_provider: perplexity
 entry_created: '2026-01-03T01:46:06.439313'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8effbf24-a59d-4487-b400-7fe6c1a3730a
-  spotify: https://open.spotify.com/artist/5tutuB8vH5mKVInBt4QUCM
+  musicbrainz: 'https://musicbrainz.org/artist/8effbf24-a59d-4487-b400-7fe6c1a3730a'
+  spotify: 'https://open.spotify.com/artist/5tutuB8vH5mKVInBt4QUCM'
   wikipedia: Not found in search results
 gender: Male
 genres:
-- country blues
-- classic blues
+  - country blues
+  - classic blues
 image_path: 03_Resources/source_material/ArtistPortraits/bogus_ben_covington.jpg
 last_updated: '2026-01-03T01:46:06.439314'
 musical_connections:
   collaborators:
-  - Birmingham Jug Band
+    - Birmingham Jug Band
   influenced: []
   mentors: []
 musicbrainz_id: 8effbf24-a59d-4487-b400-7fe6c1a3730a
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- Gallery.fm - Bogus Ben Covington artist profile
-- Stefan Wirz - Illustrated Blind Ben Covington/Ben Curry discography
-- Last.fm - Bogus Ben Covington music profile
-- Wikidata - Bogus Ben Covington
-- Public Domain 4U - Bogus Ben Covington recordings
-- Big Road Blues - Bogus Ben tag archive
-- NamuWiki - Bogus Ben Covington
+  - Gallery.fm - Bogus Ben Covington artist profile
+  - Stefan Wirz - Illustrated Blind Ben Covington/Ben Curry discography
+  - Last.fm - Bogus Ben Covington music profile
+  - Wikidata - Bogus Ben Covington
+  - Public Domain 4U - Bogus Ben Covington recordings
+  - Big Road Blues - Bogus Ben tag archive
+  - NamuWiki - Bogus Ben Covington
 spotify_data:
   followers: 218
   id: 5tutuB8vH5mKVInBt4QUCM
   popularity: 0
-  url: https://open.spotify.com/artist/5tutuB8vH5mKVInBt4QUCM
+  url: 'https://open.spotify.com/artist/5tutuB8vH5mKVInBt4QUCM'
 status: active
-title: bogus ben covington
-
+title: Bogus Ben Covington
+is_active: false
 ---
 
 ![](bogus_ben_covington.jpg)

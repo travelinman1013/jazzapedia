@@ -3,15 +3,15 @@ title: Mark Lettieri
 wiki_slug: mark-lettieri
 schema_version: 2
 status: active
-birth_place: San Francisco Bay Area, California, USA
+birth_place: 'San Francisco Bay Area, California, USA'
 genres:
-- jazz fusion
-- jazz funk
+  - jazz fusion
+  - jazz funk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/mark_lettieri.jpg
   caption: Mark Lettieri
   background: solo_singer
-  origin: San Francisco Bay Area, California, USA
+  origin: 'San Francisco Bay Area, California, USA'
 audio_profile:
   tempo_avg: 121.5
   energy_avg: 0.744
@@ -27,47 +27,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Snarky Puppy
-  - The Fearless Flyers (Cory Wong, Joe Dart, Nate Smith)
-  - Mark Lettieri Group (Wes Stephenson, Daniel Porter, Jason 'JT' Thomas)
-  - Erykah Badu, David Crosby, Kirk Franklin, Ledisi
+    - Snarky Puppy
+    - 'The Fearless Flyers (Cory Wong, Joe Dart, Nate Smith)'
+    - 'Mark Lettieri Group (Wes Stephenson, Daniel Porter, Jason ''JT'' Thomas)'
+    - 'Erykah Badu, David Crosby, Kirk Franklin, Ledisi'
   influenced:
-  - Emerging jazz fusion guitarists
+    - Emerging jazz fusion guitarists
   mentors:
-  - Jimi Hendrix
-  - Joe Satriani
+    - Jimi Hendrix
+    - Joe Satriani
 spotify_data:
   followers: 67814
   id: 3USL7r0FYOWUiTPQGz3HpP
   popularity: 35
-  url: https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP
+  url: 'https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP'
 discography_enriched: true
 top_tracks:
-- Medallion
-- High Valley Roundhouse (The Lotus and the Swamp)
-- 'Barreleye (Deep: The Baritone Sessions)'
-- Skrontch (Against the Fall of Night)
-- Blackout (Patterns)
-- Purple Rain
-- Downside of Love
-- 'Magnetar (Deep: The Baritone Sessions, Vol. 2)'
-- 'Gigantactis (Deep: The Baritone Sessions)'
-- Montreal (Spark and Echo)
+  - Medallion
+  - High Valley Roundhouse (The Lotus and the Swamp)
+  - 'Barreleye (Deep: The Baritone Sessions)'
+  - Skrontch (Against the Fall of Night)
+  - Blackout (Patterns)
+  - Purple Rain
+  - Downside of Love
+  - 'Magnetar (Deep: The Baritone Sessions, Vol. 2)'
+  - 'Gigantactis (Deep: The Baritone Sessions)'
+  - Montreal (Spark and Echo)
 external_urls:
-  spotify: https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP
-  wikipedia: https://en.wikipedia.org/wiki/Mark_Lettieri
+  spotify: 'https://open.spotify.com/artist/3USL7r0FYOWUiTPQGz3HpP'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mark_Lettieri'
 image_path: 03_Resources/source_material/ArtistPortraits/mark_lettieri.jpg
 biography_enhanced_at: '2025-10-25T09:47:36.442740'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Mark_Lettieri
-- https://www.marklettieri.com/bio
-- https://www.bennysutton.com/guitarists/427-mark-lettieri
-- https://groundupmusic.net/artists/marklettieri
+  - 'https://en.wikipedia.org/wiki/Mark_Lettieri'
+  - 'https://www.marklettieri.com/bio'
+  - 'https://www.bennysutton.com/guitarists/427-mark-lettieri'
+  - 'https://groundupmusic.net/artists/marklettieri'
 network_extracted: true
 entry_created: '2025-10-25T09:47:36.442753'
 last_updated: '2025-12-23T08:16:12.700502'
+birth_date: '1983'
+artist_type: person
 ---
 
 ![](mark_lettieri.jpg)

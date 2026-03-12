@@ -3,60 +3,60 @@ biography_enhanced_at: '2025-12-25T01:11:45.642016'
 enhancement_provider: perplexity
 entry_created: '2025-12-25T01:11:45.642029'
 external_urls:
-  spotify: https://open.spotify.com/artist/7HjkBpusIrsWcI29XqnIhf
+  spotify: 'https://open.spotify.com/artist/7HjkBpusIrsWcI29XqnIhf'
   wikipedia: ''
 genres:
-- modern blues
-- blues
-- blues rock
+  - modern blues
+  - blues
+  - blues rock
 image_path: 03_Resources/source_material/ArtistPortraits/misty_blues.jpg
 last_updated: '2025-12-25T01:11:45.642031'
 musical_connections:
   collaborators:
-  - Charles Neville
-  - Joe Louis Walker
-  - Eric Gales
-  - Kat Riggins
-  - Shemekia Copeland
-  - Tab Benoit
-  - Roomful Of Blues
-  - John Primer
-  - Albert Cummings
-  - Mike Zito
-  - Albert Castiglia
-  - James Montgomery
-  - Michael Powers
-  - Core Misty Blues band members
+    - Charles Neville
+    - Joe Louis Walker
+    - Eric Gales
+    - Kat Riggins
+    - Shemekia Copeland
+    - Tab Benoit
+    - Roomful Of Blues
+    - John Primer
+    - Albert Cummings
+    - Mike Zito
+    - Albert Castiglia
+    - James Montgomery
+    - Michael Powers
+    - Core Misty Blues band members
   influenced:
-  - Born IV Blues
-  - GrossMongue
+    - Born IV Blues
+    - GrossMongue
   mentors:
-  - Ruben Santiago-Hudson
-  - Mandy Patinkin
-  - Koko Taylor
-  - Bessie Smith
-  - Billie Holiday
-  - Tuck & Patti
+    - Ruben Santiago-Hudson
+    - Mandy Patinkin
+    - Koko Taylor
+    - Bessie Smith
+    - Billie Holiday
+    - Tuck & Patti
 network_extracted: true
-origin: Berkshire County, Massachusetts, United States
+origin: 'Berkshire County, Massachusetts, United States'
 primary_source: perplexity
 research_sources:
-- Roots Music Report artist profile for Misty Blues
-- 'Boston Voyager interview: “Meet Gina Coleman of Misty Blues”'
-- Official Misty Blues website – Gina Coleman bio page
-- Blues.gr Q&A with Gina Coleman (Misty Blues)
-- La Hora del Blues review of Misty Blues – “Silver Lining”
-- American Blues Scene feature on Misty Blues – “Pickled & Aged”
-- Guitar One Records artist page for Misty Blues
-- Hardcoremix interview with Misty Blues
+  - Roots Music Report artist profile for Misty Blues
+  - 'Boston Voyager interview: “Meet Gina Coleman of Misty Blues”'
+  - Official Misty Blues website – Gina Coleman bio page
+  - Blues.gr Q&A with Gina Coleman (Misty Blues)
+  - La Hora del Blues review of Misty Blues – “Silver Lining”
+  - American Blues Scene feature on Misty Blues – “Pickled & Aged”
+  - Guitar One Records artist page for Misty Blues
+  - Hardcoremix interview with Misty Blues
 spotify_data:
   followers: 8672
   id: 7HjkBpusIrsWcI29XqnIhf
   popularity: 14
-  url: https://open.spotify.com/artist/7HjkBpusIrsWcI29XqnIhf
+  url: 'https://open.spotify.com/artist/7HjkBpusIrsWcI29XqnIhf'
 status: active
 title: Misty Blues
-
+artist_type: person
 ---
 
 ![](misty_blues.jpg)

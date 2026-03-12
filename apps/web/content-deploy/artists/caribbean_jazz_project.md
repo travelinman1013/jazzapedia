@@ -2,16 +2,16 @@
 title: Caribbean Jazz Project
 wiki_slug: caribbean-jazz-project
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 aliases: []
 birth_date: '1993'
 years_active: 1993–2008
 genres:
-- latin jazz
-- jazz fusion
+  - latin jazz
+  - jazz fusion
 instruments:
-- original
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Caribbean_Jazz_Project.jpg
   caption: Caribbean Jazz Project
@@ -32,43 +32,43 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Paquito D'Rivera
-  - Andy Narell
-  - Steve Khan
-  - Dave Valentin
-  - Diego Urcola
-  - Dario Eskenazi
-  - Oscar Stagnaro
-  - Mark Walker
-  - Roberto Quintero
+    - Paquito D'Rivera
+    - Andy Narell
+    - Steve Khan
+    - Dave Valentin
+    - Diego Urcola
+    - Dario Eskenazi
+    - Oscar Stagnaro
+    - Mark Walker
+    - Roberto Quintero
   influenced:
-  - None documented
+    - None documented
   mentors:
-  - Gerry Mulligan
+    - Gerry Mulligan
 related_artists: []
 spotify_data:
   followers: 12569
   id: 0H895uoamTDU0A9OH73CMT
   popularity: 22
-  url: https://open.spotify.com/artist/0H895uoamTDU0A9OH73CMT
+  url: 'https://open.spotify.com/artist/0H895uoamTDU0A9OH73CMT'
   verified: false
 discography_enriched: true
 albums_count: 9
 singles_count: 0
 top_tracks:
-- On The Road (Birds Of A Feather)
-- Minor Mood (Birds Of A Feather)
-- Moon And Sand (New Horizons)
-- Jamboree (Paraiso)
-- Arthur's Dance (Danzón para Arturo) (New Horizons)
-- One For Tom (The Caribbean Jazz Project)
-- Three Amigos (The Caribbean Jazz Project)
-- A Night In Tunisia (New Horizons)
-- Don't Let Me Be Lonely Tonight (Schuur Fire)
-- Como Un Bolero (The Caribbean Jazz Project)
+  - On The Road (Birds Of A Feather)
+  - Minor Mood (Birds Of A Feather)
+  - Moon And Sand (New Horizons)
+  - Jamboree (Paraiso)
+  - Arthur's Dance (Danzón para Arturo) (New Horizons)
+  - One For Tom (The Caribbean Jazz Project)
+  - Three Amigos (The Caribbean Jazz Project)
+  - A Night In Tunisia (New Horizons)
+  - Don't Let Me Be Lonely Tonight (Schuur Fire)
+  - Como Un Bolero (The Caribbean Jazz Project)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c553f144-2572-42ac-affa-29638bd348da
-  spotify: https://open.spotify.com/artist/0H895uoamTDU0A9OH73CMT
+  musicbrainz: 'https://musicbrainz.org/artist/c553f144-2572-42ac-affa-29638bd348da'
+  spotify: 'https://open.spotify.com/artist/0H895uoamTDU0A9OH73CMT'
   wikipedia: Not found
 image_path: 03_Resources/source_material/ArtistPortraits/Caribbean_Jazz_Project.jpg
 biography_source: wikipedia
@@ -76,20 +76,20 @@ biography_enhanced_at: '2025-09-30T12:03:15.003693'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- ProJazz.net
-- The Jazz VNU
-- Litchfield Jazz Fest
-- Concord Music Group
+  - ProJazz.net
+  - The Jazz VNU
+  - Litchfield Jazz Fest
+  - Concord Music Group
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:47:16.741652
+entry_created: 2025-09-22T21:47:16.741Z
 last_updated: '2025-12-23T08:16:06.418763'
 disambiguation: Latin jazz band
 musicbrainz_enriched_at: '2025-10-21T09:50:13.181218'
 musicbrainz_id: c553f144-2572-42ac-affa-29638bd348da
-origin: New York, USA
+origin: 'New York, USA'
 tags:
-- jazz
+  - jazz
 ---
 
 ![](Caribbean_Jazz_Project.jpg)

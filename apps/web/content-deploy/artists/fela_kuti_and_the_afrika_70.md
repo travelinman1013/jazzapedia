@@ -1,46 +1,48 @@
 ---
 biography_enhanced_at: '2026-01-18T07:52:06.501182'
-birth_place: Abeokuta, Ogun State, Nigeria
+birth_place: 'Abeokuta, Ogun State, Nigeria'
 enhancement_provider: perplexity
 entry_created: '2026-01-18T07:52:06.501188'
 external_urls:
-  spotify: https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR
-  wikipedia: https://en.wikipedia.org/wiki/Fela_Kuti
+  spotify: 'https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR'
+  wikipedia: 'https://en.wikipedia.org/wiki/Fela_Kuti'
 genres:
-- afrobeat
-- highlife
-- afropop
+  - afrobeat
+  - highlife
+  - afropop
 image_path: 03_Resources/source_material/ArtistPortraits/fela_kuti_and_the_afrika_70.jpg
 last_updated: '2026-01-18T07:52:06.501189'
 musical_connections:
   collaborators:
-  - Tony Allen
-  - Africa '70
-  - Victor Olaiya
+    - Tony Allen
+    - Africa '70
+    - Victor Olaiya
   influenced:
-  - Femi Kuti
-  - Wole Soyinka
+    - Femi Kuti
+    - Wole Soyinka
   mentors:
-  - Funmilayo Ransome-Kuti
-  - Josiah Ransome-Kuti
-  - Jimo Kombi Braimah (JK)
+    - Funmilayo Ransome-Kuti
+    - Josiah Ransome-Kuti
+    - Jimo Kombi Braimah (JK)
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Fela_Kuti
-- https://www.britannica.com/biography/Fela-Kuti
-- https://www.biography.com/musicians/fela-kuti
-- https://felakuti.com/story
-- https://www.afrobeatmusic.net/html/fela_bio.html
-- https://www.ebsco.com/research-starters/history/fela-kuti
-- https://www.olneytheatre.org/about-us/blog/who-fela-anikulapo-kuti
+  - 'https://en.wikipedia.org/wiki/Fela_Kuti'
+  - 'https://www.britannica.com/biography/Fela-Kuti'
+  - 'https://www.biography.com/musicians/fela-kuti'
+  - 'https://felakuti.com/story'
+  - 'https://www.afrobeatmusic.net/html/fela_bio.html'
+  - 'https://www.ebsco.com/research-starters/history/fela-kuti'
+  - 'https://www.olneytheatre.org/about-us/blog/who-fela-anikulapo-kuti'
 spotify_data:
   followers: 698778
   id: 5CG9X521RDFWCuAhlo6QoR
   popularity: 51
-  url: https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR
+  url: 'https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR'
 status: active
-title: fela kuti & the afrika '70
+title: Fela Kuti & the Afrika '70
+birth_date: '1938-10-15'
+artist_type: band
 ---
 
 ![](fela_kuti_and_the_afrika_70.jpg)

@@ -3,13 +3,13 @@ title: Guy Bergeron
 wiki_slug: guy-bergeron
 schema_version: 2
 status: active
-birth_place: Loretteville, Quebec, Canada
+birth_place: 'Loretteville, Quebec, Canada'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/guy_bergeron.jpg
   caption: Guy Bergeron
   background: solo_singer
-  origin: Loretteville, Quebec, Canada
+  origin: 'Loretteville, Quebec, Canada'
 audio_profile:
   tempo_avg: 123.6
   energy_avg: 0.237
@@ -25,44 +25,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Various Quebec region ensembles and bands
+    - Various Quebec region ensembles and bands
   influenced:
-  - Various students and regional musicians
+    - Various students and regional musicians
   mentors:
-  - Pat Metheny
-  - Mike Stern
-  - John Scofield
+    - Pat Metheny
+    - Mike Stern
+    - John Scofield
 spotify_data:
   followers: 212
   id: 3BGqoLvxHrSHn3iXxtsqgm
   popularity: 1
-  url: https://open.spotify.com/artist/3BGqoLvxHrSHn3iXxtsqgm
+  url: 'https://open.spotify.com/artist/3BGqoLvxHrSHn3iXxtsqgm'
 discography_enriched: true
 top_tracks:
-- Hey Folks (Reflets)
-- Slow Snow (Music for Guitar Trio)
-- Tryptuk (Music for Guitar Trio)
-- Fleur d'eau (Reflets)
-- Ad Lib Lovers (Reflets)
-- Le ruisseau de mon enfance (Reflets)
-- Will You Wait Till Then (Guitar & Friends)
-- A Walk in the Park (Guitar & Friends)
-- The Three Sides of a Coin (Guitar & Friends)
-- Reflets (Reflets)
+  - Hey Folks (Reflets)
+  - Slow Snow (Music for Guitar Trio)
+  - Tryptuk (Music for Guitar Trio)
+  - Fleur d'eau (Reflets)
+  - Ad Lib Lovers (Reflets)
+  - Le ruisseau de mon enfance (Reflets)
+  - Will You Wait Till Then (Guitar & Friends)
+  - A Walk in the Park (Guitar & Friends)
+  - The Three Sides of a Coin (Guitar & Friends)
+  - Reflets (Reflets)
 external_urls:
-  spotify: https://open.spotify.com/artist/3BGqoLvxHrSHn3iXxtsqgm
+  spotify: 'https://open.spotify.com/artist/3BGqoLvxHrSHn3iXxtsqgm'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/guy_bergeron.jpg
 biography_enhanced_at: '2025-11-02T07:28:16.878724'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://www.boghei.com/artistesartists/guy-bergeron.html
-- https://www.scribd.com/document/692459126/file-2
-- https://www.scribd.com/document/458812847/bergeron-guy-she-had-to-go
+  - 'http://www.boghei.com/artistesartists/guy-bergeron.html'
+  - 'https://www.scribd.com/document/692459126/file-2'
+  - 'https://www.scribd.com/document/458812847/bergeron-guy-she-had-to-go'
 network_extracted: true
 entry_created: '2025-11-02T07:28:16.878734'
 last_updated: '2025-12-23T08:16:09.418534'
+birth_date: '1964-10-13'
+artist_type: person
 ---
 
 ![](guy_bergeron.jpg)

@@ -1,46 +1,53 @@
 ---
 biography_enhanced_at: '2026-01-19T01:08:01.754735'
-birth_place: Leonville, St. Landry Parish, Louisiana, United States
+birth_place: 'Leonville, St. Landry Parish, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-19T01:08:01.754741'
 external_urls:
-  spotify: https://open.spotify.com/artist/3KEc4ETN9Q34bRgkRLF22R
-  wikipedia: https://en.wikipedia.org/wiki/Hadley_Castille
+  spotify: 'https://open.spotify.com/artist/3KEc4ETN9Q34bRgkRLF22R'
+  wikipedia: 'https://en.wikipedia.org/wiki/Hadley_Castille'
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 image_path: 03_Resources/source_material/ArtistPortraits/hadley_j_castille.jpg
 last_updated: '2026-01-19T01:08:01.754742'
 musical_connections:
   collaborators:
-  - Blake Castille
-  - Sharecroppers Band
-  - Acadian Symphony Orchestra
+    - Blake Castille
+    - Sharecroppers Band
+    - Acadian Symphony Orchestra
   influenced:
-  - Sarah Jayde Williams
-  - Scores of Cajun artists
+    - Sarah Jayde Williams
+    - Scores of Cajun artists
   mentors:
-  - Cyprien Castille
-  - Harry Choates
+    - Cyprien Castille
+    - Harry Choates
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://flattownmusic.com/artist/hadley-castille/
-- https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/castille.htm.html
-- https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/castille2.htm.html
-- https://documentproviderviewer.nsula.edu/?id=7588
-- https://www.offbeat.com/news/hadley-castille-1933-2012/
-- https://en.wikipedia.org/wiki/Hadley_Castille
-- https://www.allmusic.com/artist/hadley-j-castille-mn0000551235
-- https://www.acadianmuseum.com/living-legend/hadley-j-castille/
-- https://www.stlandrynow.com/culture/culture2/photo-from-the-past-hadley-j-castille-1933-2012-in-1980/
+  - 'https://flattownmusic.com/artist/hadley-castille/'
+  - >-
+    https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/castille.htm.html
+  - >-
+    https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/castille2.htm.html
+  - 'https://documentproviderviewer.nsula.edu/?id=7588'
+  - 'https://www.offbeat.com/news/hadley-castille-1933-2012/'
+  - 'https://en.wikipedia.org/wiki/Hadley_Castille'
+  - 'https://www.allmusic.com/artist/hadley-j-castille-mn0000551235'
+  - 'https://www.acadianmuseum.com/living-legend/hadley-j-castille/'
+  - >-
+    https://www.stlandrynow.com/culture/culture2/photo-from-the-past-hadley-j-castille-1933-2012-in-1980/
 spotify_data:
   followers: 244
   id: 3KEc4ETN9Q34bRgkRLF22R
   popularity: 2
-  url: https://open.spotify.com/artist/3KEc4ETN9Q34bRgkRLF22R
+  url: 'https://open.spotify.com/artist/3KEc4ETN9Q34bRgkRLF22R'
 status: active
 title: Hadley J Castille
+origin: 'St. Landry Parish, Louisiana, United States'
+birth_date: '1933-03-03'
+death_date: '2012-10-25'
+artist_type: person
 ---
 
 ![](hadley_j_castille.jpg)

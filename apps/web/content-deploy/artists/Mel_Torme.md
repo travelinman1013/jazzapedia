@@ -1,19 +1,19 @@
 ---
-title: Mel Torme
+title: Mel Tormé
 wiki_slug: mel-torme
 schema_version: 2
 status: active
-birth_place: Chicago, Illinois, United States
+birth_place: 'Chicago, Illinois, United States'
 genres:
-- vocal jazz
-- adult standards
-- christmas
-- big band
+  - vocal jazz
+  - adult standards
+  - christmas
+  - big band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Mel_Torme.jpg
   caption: Mel Torme
   background: solo_singer
-  origin: Chicago, Illinois, United States
+  origin: 'Chicago, Illinois, United States'
 audio_profile:
   tempo_avg: 118.3
   energy_avg: 0.252
@@ -29,49 +29,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Marty Paich
-  - The Mel-Tones
-  - George Shearing
-  - Bob Wells
+    - Marty Paich
+    - The Mel-Tones
+    - George Shearing
+    - Bob Wells
   influenced:
-  - Michael Bublé
-  - Harry Connick Jr.
+    - Michael Bublé
+    - Harry Connick Jr.
   mentors:
-  - Ella Fitzgerald
+    - Ella Fitzgerald
 spotify_data:
   followers: 196114
   id: 4X8QFzZ1HqwPfwDfyjtwXC
   popularity: 46
-  url: https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC
+  url: 'https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC'
 discography_enriched: true
 top_tracks:
-- The Windmills Of Your Mind (A Time For Us)
-- Comin' Home Baby (Comin' Home Baby)
-- Putting on the Ritz (Comin' Home Baby)
-- They Can't Take That Away from Me (2012 - Remaster) (Mel Tormé Sings Fred Astaire (2012 - Remaster))
-- Happy Together (A Time For Us)
-- 'I''ve Got You Under My Skin - Studio Rio Version (Studio Rio Presents: The Brazil Connection)'
-- Have Yourself a Merry Little Christmas - Voice (Home Alone (Original Motion Picture Soundtrack))
-- A Nightingale Sang In Berkeley Square (Tormé Meets The British)
-- Chestnuts Roasting on an Open Fire (Christmas Piano with Alexis)
-- Blue Moon (Swingin' On The Moon)
+  - The Windmills Of Your Mind (A Time For Us)
+  - Comin' Home Baby (Comin' Home Baby)
+  - Putting on the Ritz (Comin' Home Baby)
+  - >-
+    They Can't Take That Away from Me (2012 - Remaster) (Mel Tormé Sings Fred
+    Astaire (2012 - Remaster))
+  - Happy Together (A Time For Us)
+  - >-
+    I've Got You Under My Skin - Studio Rio Version (Studio Rio Presents: The
+    Brazil Connection)
+  - >-
+    Have Yourself a Merry Little Christmas - Voice (Home Alone (Original Motion
+    Picture Soundtrack))
+  - A Nightingale Sang In Berkeley Square (Tormé Meets The British)
+  - Chestnuts Roasting on an Open Fire (Christmas Piano with Alexis)
+  - Blue Moon (Swingin' On The Moon)
 external_urls:
-  spotify: https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC
-  wikipedia: https://en.wikipedia.org/wiki/Mel_Torm%C3%A9
+  spotify: 'https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mel_Torm%C3%A9'
 image_path: 03_Resources/source_material/ArtistPortraits/Mel_Torme.jpg
 biography_enhanced_at: '2025-10-19T12:35:49.031387'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.aso.org/artists/detail/mel-torme
-- https://www.ebsco.com/research-starters/history/mel-torme
-- https://www.britannica.com/biography/Mel-Torme
-- https://concord.com/artist/mel-torme/
-- https://drummercafe.com/featured/drummer-percussionist/mel-torme
-- https://en.wikipedia.org/wiki/Mel_Torm%C3%A9
+  - 'https://www.aso.org/artists/detail/mel-torme'
+  - 'https://www.ebsco.com/research-starters/history/mel-torme'
+  - 'https://www.britannica.com/biography/Mel-Torme'
+  - 'https://concord.com/artist/mel-torme/'
+  - 'https://drummercafe.com/featured/drummer-percussionist/mel-torme'
+  - 'https://en.wikipedia.org/wiki/Mel_Torm%C3%A9'
 network_extracted: true
 entry_created: '2025-10-19T12:35:49.031403'
 last_updated: '2025-12-23T08:16:03.269778'
+birth_date: '1925-09-13'
+death_date: '1999-06-05'
+artist_type: person
 ---
 
 ![](Mel_Torme.jpg)

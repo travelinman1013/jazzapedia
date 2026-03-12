@@ -1,5 +1,5 @@
 ---
-title: Memphis Horns
+title: The Memphis Horns
 wiki_slug: memphis-horns
 schema_version: 2
 status: active
@@ -23,49 +23,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Booker T. & the MGs
-  - Otis Redding
-  - Al Green
-  - Robert Cray Band
-  - U2
+    - Booker T. & the MGs
+    - Otis Redding
+    - Al Green
+    - Robert Cray Band
+    - U2
   influenced:
-  - Countless horn sections and session musicians
-  - Jack Hale, Jr.
+    - Countless horn sections and session musicians
+    - 'Jack Hale, Jr.'
   mentors:
-  - Willie Mitchell
+    - Willie Mitchell
 spotify_data:
   followers: 2679
   id: 6RYb06UBkiv8IWByqRhEDd
   popularity: 24
-  url: https://open.spotify.com/artist/6RYb06UBkiv8IWByqRhEDd
+  url: 'https://open.spotify.com/artist/6RYb06UBkiv8IWByqRhEDd'
 discography_enriched: true
 top_tracks:
-- The Forecast (Calls For Pain) (Midnight Stroll)
-- Consequences (Midnight Stroll)
-- Just for Your Love (Get Up and Dance)
-- Labor Of Love (Midnight Stroll)
-- Walk Around Time (Midnight Stroll)
-- Bouncin' Back (Midnight Stroll)
-- Can't Lose What You Never Had (Blues)
-- The Grosser (Hitstory)
-- These Things (Midnight Stroll)
-- Bouncin' Back
+  - The Forecast (Calls For Pain) (Midnight Stroll)
+  - Consequences (Midnight Stroll)
+  - Just for Your Love (Get Up and Dance)
+  - Labor Of Love (Midnight Stroll)
+  - Walk Around Time (Midnight Stroll)
+  - Bouncin' Back (Midnight Stroll)
+  - Can't Lose What You Never Had (Blues)
+  - The Grosser (Hitstory)
+  - These Things (Midnight Stroll)
+  - Bouncin' Back
 external_urls:
-  spotify: https://open.spotify.com/artist/6RYb06UBkiv8IWByqRhEDd
-  wikipedia: https://en.wikipedia.org/wiki/The_Memphis_Horns
+  spotify: 'https://open.spotify.com/artist/6RYb06UBkiv8IWByqRhEDd'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Memphis_Horns'
 image_path: 03_Resources/source_material/ArtistPortraits/memphis_horns.jpg
 biography_enhanced_at: '2025-11-16T20:26:13.122389'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Memphis_Horns
-- https://memphismusichalloffame.com/inductee/memphishorns/
-- https://www.latimes.com/archives/la-xpm-1989-01-27-ca-1677-story.html
-- https://bestclassicbands.com/wayne-jackson-memphis-horns-6-21-166/
+  - 'https://en.wikipedia.org/wiki/The_Memphis_Horns'
+  - 'https://memphismusichalloffame.com/inductee/memphishorns/'
+  - 'https://www.latimes.com/archives/la-xpm-1989-01-27-ca-1677-story.html'
+  - 'https://bestclassicbands.com/wayne-jackson-memphis-horns-6-21-166/'
 network_extracted: true
 entry_created: '2025-11-16T20:26:13.122400'
 last_updated: '2025-12-23T08:16:12.959742'
-origin: Memphis, Tennessee, USA
+origin: 'Memphis, Tennessee, USA'
+birth_place: 'West Memphis, Arkansas, United States'
+artist_type: band
 ---
 
 ![](memphis_horns.jpg)

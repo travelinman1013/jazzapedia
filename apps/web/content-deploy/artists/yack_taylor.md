@@ -1,15 +1,15 @@
 ---
-title: yack taylor
+title: Yack Taylor
 wiki_slug: yack-taylor
 schema_version: 2
 status: active
-birth_place: Harlem, New York City, New York, USA
+birth_place: 'Harlem, New York City, New York, USA'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/yack_taylor.jpg
   caption: yack taylor
   background: solo_singer
-  origin: Harlem, New York City, New York, USA
+  origin: 'Harlem, New York City, New York, USA'
 audio_profile:
   tempo_avg: 105.5
   energy_avg: 0.679
@@ -25,34 +25,35 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Louis Jordan
-  - Sammy Price
+    - Louis Jordan
+    - Sammy Price
   influenced: []
   mentors:
-  - Louis Jordan
-  - Sammy Price
+    - Louis Jordan
+    - Sammy Price
 spotify_data:
   followers: 182
   id: 7zpjwKtoCBiOmhdifRb41s
   popularity: 0
-  url: https://open.spotify.com/artist/7zpjwKtoCBiOmhdifRb41s
+  url: 'https://open.spotify.com/artist/7zpjwKtoCBiOmhdifRb41s'
 discography_enriched: true
 top_tracks:
-- Passenger Seat (Passenger Seat)
-- Silence Says It All (Silence Says It All)
+  - Passenger Seat (Passenger Seat)
+  - Silence Says It All (Silence Says It All)
 external_urls:
-  spotify: https://open.spotify.com/artist/7zpjwKtoCBiOmhdifRb41s
+  spotify: 'https://open.spotify.com/artist/7zpjwKtoCBiOmhdifRb41s'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/yack_taylor.jpg
 biography_enhanced_at: '2025-11-11T09:27:16.342857'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- SecondHandSongs artist entry
-- Spotify artist page
+  - SecondHandSongs artist entry
+  - Spotify artist page
 network_extracted: true
 entry_created: '2025-11-11T09:27:16.342860'
 last_updated: '2025-12-23T08:16:18.318005'
+artist_type: person
 ---
 
 ![](yack_taylor.jpg)

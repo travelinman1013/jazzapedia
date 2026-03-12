@@ -4,9 +4,10 @@ wiki_slug: big-dee-irwin-little-eva
 schema_version: 2
 status: active
 genres:
-- northern soul
+  - northern soul
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/big_dee_irwin_and_little_eva.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/big_dee_irwin_and_little_eva.jpg
   caption: Big Dee Irwin & Little Eva
   background: solo_singer
 audio_profile:
@@ -24,50 +25,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Pastels
-  - Little Eva
-  - Dimension Records staff writers and producers (Gerry Goffin & Carole King contextually)
+    - The Pastels
+    - Little Eva
+    - >-
+      Dimension Records staff writers and producers (Gerry Goffin & Carole King
+      contextually)
   influenced:
-  - Northern soul collectors and later UK soul DJs
+    - Northern soul collectors and later UK soul DJs
   mentors:
-  - Carole King & Gerry Goffin
-  - Bing Crosby (as stylistic influence)
+    - Carole King & Gerry Goffin
+    - Bing Crosby (as stylistic influence)
 spotify_data:
   followers: 373
   id: 266kUpRv0Ukfh9bKq8HGGa
   popularity: 17
-  url: https://open.spotify.com/artist/266kUpRv0Ukfh9bKq8HGGa
+  url: 'https://open.spotify.com/artist/266kUpRv0Ukfh9bKq8HGGa'
 discography_enriched: true
 top_tracks:
-- 'Swinging on a Star (Another Night With Big Dee Irwin: The Complete Dimension Recordings And More)'
-- Swinging on a Star (Deck The Halls)
-- 'I Wish You a Merry Christmas (Another Night With Big Dee Irwin: The Complete Dimension Recordings And More)'
-- Swinging on a Star (50s and 60s Oldies)
-- Swinging on a Star (Uptown)
-- 'Follow My Heart (Rare Soul: Groove & Grind 1963-1973)'
-- Swinging on a Star (The Locomotion)
-- Swinging on a Star (The Incredible Little Eva)
-- Swinging On a Star (60's UK Hits)
-- 'I Can''t Help It - I''m Falling in Love (Another Night With Big Dee Irwin: The Complete Dimension Recordings And More)'
+  - >-
+    Swinging on a Star (Another Night With Big Dee Irwin: The Complete Dimension
+    Recordings And More)
+  - Swinging on a Star (Deck The Halls)
+  - >-
+    I Wish You a Merry Christmas (Another Night With Big Dee Irwin: The Complete
+    Dimension Recordings And More)
+  - Swinging on a Star (50s and 60s Oldies)
+  - Swinging on a Star (Uptown)
+  - 'Follow My Heart (Rare Soul: Groove & Grind 1963-1973)'
+  - Swinging on a Star (The Locomotion)
+  - Swinging on a Star (The Incredible Little Eva)
+  - Swinging On a Star (60's UK Hits)
+  - >-
+    I Can't Help It - I'm Falling in Love (Another Night With Big Dee Irwin: The
+    Complete Dimension Recordings And More)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/10b4d685-5669-4592-94c4-7400db83eb8f
-  spotify: https://open.spotify.com/artist/266kUpRv0Ukfh9bKq8HGGa
-  wikipedia: https://en.wikipedia.org/wiki/Big_Dee_Irwin
+  musicbrainz: 'https://musicbrainz.org/artist/10b4d685-5669-4592-94c4-7400db83eb8f'
+  spotify: 'https://open.spotify.com/artist/266kUpRv0Ukfh9bKq8HGGa'
+  wikipedia: 'https://en.wikipedia.org/wiki/Big_Dee_Irwin'
 image_path: 03_Resources/source_material/ArtistPortraits/big_dee_irwin_and_little_eva.jpg
 biography_enhanced_at: '2025-12-09T04:54:38.167370'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Big_Dee_Irwin
-- http://www.soulwalking.co.uk/Big%20Dee%20Irwin.html
-- https://www.ctproduced.com/born-day-little-eva-the-loco-motion/
-- https://en.wikipedia.org/wiki/Little_Eva
-- https://music.apple.com/us/artist/big-dee-irwin/85249117
+  - 'https://en.wikipedia.org/wiki/Big_Dee_Irwin'
+  - 'http://www.soulwalking.co.uk/Big%20Dee%20Irwin.html'
+  - 'https://www.ctproduced.com/born-day-little-eva-the-loco-motion/'
+  - 'https://en.wikipedia.org/wiki/Little_Eva'
+  - 'https://music.apple.com/us/artist/big-dee-irwin/85249117'
 network_extracted: true
 entry_created: '2025-12-09T04:54:38.167378'
 last_updated: '2025-12-23T08:16:05.434615'
 musicbrainz_id: 10b4d685-5669-4592-94c4-7400db83eb8f
-origin: Harlem, New York, United States (Big Dee Irwin birthplace) / Belhaven, North Carolina, United States (Little Eva birthplace)
+origin: >-
+  Harlem, New York, United States (Big Dee Irwin birthplace) / Belhaven, North
+  Carolina, United States (Little Eva birthplace)
+birth_place: 'Harlem, New York, United States'
+birth_date: '1932-07-06'
+artist_type: band
 ---
 
 ![](big_dee_irwin_and_little_eva.jpg)

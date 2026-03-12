@@ -3,15 +3,15 @@ title: John Pizzarelli
 wiki_slug: john-pizzarelli
 schema_version: 2
 status: active
-birth_place: Paterson, New Jersey, United States
+birth_place: 'Paterson, New Jersey, United States'
 genres:
-- vocal jazz
-- jazz
+  - vocal jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/john_pizzarelli.jpg
   caption: John Pizzarelli
   background: solo_singer
-  origin: Paterson, New Jersey, United States
+  origin: 'Paterson, New Jersey, United States'
 audio_profile:
   tempo_avg: 115.2
   energy_avg: 0.306
@@ -27,50 +27,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Martin Pizzarelli
-  - Bucky Pizzarelli
-  - Jessica Molaskey
-  - Paul McCartney
-  - Zoot Sims
+    - Martin Pizzarelli
+    - Bucky Pizzarelli
+    - Jessica Molaskey
+    - Paul McCartney
+    - Zoot Sims
   influenced:
-  - Contemporary jazz musicians
+    - Contemporary jazz musicians
   mentors:
-  - John "Bucky" Pizzarelli
-  - Pete and Bobby Domenick
-  - Tony Monte
+    - John "Bucky" Pizzarelli
+    - Pete and Bobby Domenick
+    - Tony Monte
 spotify_data:
   followers: 29698
   id: 5Yc3oYPNlABAj17eZiNJqf
   popularity: 37
-  url: https://open.spotify.com/artist/5Yc3oYPNlABAj17eZiNJqf
+  url: 'https://open.spotify.com/artist/5Yc3oYPNlABAj17eZiNJqf'
 discography_enriched: true
 top_tracks:
-- 'Red Sails in the Sunset (For Centennial Reasons: 100 Year Salute to Nat King Cole)'
-- Thank You for Being You
-- The Glory of Love
-- Harvest Moon (Double Exposure)
-- I Feel Fine / Sidewinder (Double Exposure)
-- Silly Love Songs (Midnight McCartney)
-- Baubles, Bangles And Beads (Sinatra And Jobim @ 50)
-- When I'm 64 (John Pizzarelli Meets The Beatles)
-- James (Better Days Ahead (Solo Guitar Takes on Pat Metheny))
-- Heart Of The Country (Midnight McCartney)
+  - >-
+    Red Sails in the Sunset (For Centennial Reasons: 100 Year Salute to Nat King
+    Cole)
+  - Thank You for Being You
+  - The Glory of Love
+  - Harvest Moon (Double Exposure)
+  - I Feel Fine / Sidewinder (Double Exposure)
+  - Silly Love Songs (Midnight McCartney)
+  - 'Baubles, Bangles And Beads (Sinatra And Jobim @ 50)'
+  - When I'm 64 (John Pizzarelli Meets The Beatles)
+  - James (Better Days Ahead (Solo Guitar Takes on Pat Metheny))
+  - Heart Of The Country (Midnight McCartney)
 external_urls:
-  spotify: https://open.spotify.com/artist/5Yc3oYPNlABAj17eZiNJqf
+  spotify: 'https://open.spotify.com/artist/5Yc3oYPNlABAj17eZiNJqf'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/john_pizzarelli.jpg
 biography_enhanced_at: '2025-12-04T08:08:47.003120'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://njhalloffame.org/hall-of-famers/2011-inductees/john-bucky-pizzarelli/
-- https://www.johnpizzarelli.com/bio
-- http://pizzarellifanpage.com/biography/biography.html
-- https://www.labella.com/artists/john-pizzarelli-2/
-- https://summerfest.sanjosejazz.org/artists/john-pizzarelli-trio
+  - >-
+    https://njhalloffame.org/hall-of-famers/2011-inductees/john-bucky-pizzarelli/
+  - 'https://www.johnpizzarelli.com/bio'
+  - 'http://pizzarellifanpage.com/biography/biography.html'
+  - 'https://www.labella.com/artists/john-pizzarelli-2/'
+  - 'https://summerfest.sanjosejazz.org/artists/john-pizzarelli-trio'
 network_extracted: true
 entry_created: '2025-12-04T08:08:47.003125'
 last_updated: '2025-12-23T08:16:10.785546'
+birth_date: '1960-04-06'
+artist_type: person
 ---
 
 ![](john_pizzarelli.jpg)

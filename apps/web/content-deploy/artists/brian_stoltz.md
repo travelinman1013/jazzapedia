@@ -1,16 +1,16 @@
 ---
-title: brian stoltz
+title: Brian Stoltz
 wiki_slug: brian-stoltz
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- modern blues
+  - modern blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/brian_stoltz.jpg
   caption: brian stoltz
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 112.4
   energy_avg: 0.651
@@ -26,52 +26,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Neville Brothers Band
-  - Funky Meters
-  - Dr. John
-  - Linda Ronstadt
-  - Aaron Neville
-  - Zachary Richard
-  - Bob Dylan
+    - Neville Brothers Band
+    - Funky Meters
+    - Dr. John
+    - Linda Ronstadt
+    - Aaron Neville
+    - Zachary Richard
+    - Bob Dylan
   influenced:
-  - Coco Montoya
-  - Zydeco artists
+    - Coco Montoya
+    - Zydeco artists
   mentors:
-  - Jimi Hendrix
-  - Muddy Waters
+    - Jimi Hendrix
+    - Muddy Waters
 spotify_data:
   followers: 252
   id: 2ifyiiFYH9KXlXQsTujhPR
   popularity: 3
-  url: https://open.spotify.com/artist/2ifyiiFYH9KXlXQsTujhPR
+  url: 'https://open.spotify.com/artist/2ifyiiFYH9KXlXQsTujhPR'
 discography_enriched: true
 top_tracks:
-- Baby Blue (The Sea Saint Sessions)
-- Hustlin' Down In New Orleans (The Sea Saint Sessions)
-- I Want You (Blues On Blonde On Blonde)
-- Absolutely Sweet Marie (Blues On Blonde On Blonde)
-- Obviously 5 Believers (Blues On Blonde On Blonde)
-- 'Rainy Day Women #12 & 35 (Blues On Blonde On Blonde)'
-- Visions Of Johanna (Blues On Blonde On Blonde)
-- Temporary Like Achilles (Blues On Blonde On Blonde)
-- Leopard-Skin Pillbox Hat (Blues On Blonde On Blonde)
-- Stuck Inside Of Mobile With The Memphis Blues Again (Blues On Blonde On Blonde)
+  - Baby Blue (The Sea Saint Sessions)
+  - Hustlin' Down In New Orleans (The Sea Saint Sessions)
+  - I Want You (Blues On Blonde On Blonde)
+  - Absolutely Sweet Marie (Blues On Blonde On Blonde)
+  - Obviously 5 Believers (Blues On Blonde On Blonde)
+  - 'Rainy Day Women #12 & 35 (Blues On Blonde On Blonde)'
+  - Visions Of Johanna (Blues On Blonde On Blonde)
+  - Temporary Like Achilles (Blues On Blonde On Blonde)
+  - Leopard-Skin Pillbox Hat (Blues On Blonde On Blonde)
+  - >-
+    Stuck Inside Of Mobile With The Memphis Blues Again (Blues On Blonde On
+    Blonde)
 external_urls:
-  spotify: https://open.spotify.com/artist/2ifyiiFYH9KXlXQsTujhPR
+  spotify: 'https://open.spotify.com/artist/2ifyiiFYH9KXlXQsTujhPR'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/brian_stoltz.jpg
 biography_enhanced_at: '2025-11-15T18:37:15.153289'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://brucebase.wikidot.com/relation:brian-stoltz
-- https://blues.gr/profiles/blogs/brian-stoltz-interview-neville-new-orleans-funky-meters
-- https://jambands.com/features/2005/05/09/brian-stoltz-god-guns-music/
-- https://www.offbeat.com/articles/brian-stoltz-2/
-- https://www.miaminewtimes.com/music/brian-stoltz-6340263/
+  - 'http://brucebase.wikidot.com/relation:brian-stoltz'
+  - >-
+    https://blues.gr/profiles/blogs/brian-stoltz-interview-neville-new-orleans-funky-meters
+  - 'https://jambands.com/features/2005/05/09/brian-stoltz-god-guns-music/'
+  - 'https://www.offbeat.com/articles/brian-stoltz-2/'
+  - 'https://www.miaminewtimes.com/music/brian-stoltz-6340263/'
 network_extracted: true
 entry_created: '2025-11-15T18:37:15.153297'
 last_updated: '2025-12-23T08:16:06.088087'
+artist_type: person
 ---
 
 ![](brian_stoltz.jpg)

@@ -1,17 +1,17 @@
 ---
-title: MAHLIA JACKSON
+title: Mahalia Jackson
 wiki_slug: mahlia-jackson
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- gospel
-- christmas
+  - gospel
+  - christmas
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/mahlia_jackson.jpg
   caption: MAHLIA JACKSON
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 110.6
   energy_avg: 0.219
@@ -27,48 +27,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Thomas A. Dorsey
-  - Duke Ellington
-  - Johnson Gospel Singers
+    - Thomas A. Dorsey
+    - Duke Ellington
+    - Johnson Gospel Singers
   influenced:
-  - Aretha Franklin
-  - Mavis Staples
-  - Whitney Houston
+    - Aretha Franklin
+    - Mavis Staples
+    - Whitney Houston
   mentors:
-  - Professor Kendricks
-  - Bessie Smith & Ma Rainey
+    - Professor Kendricks
+    - Bessie Smith & Ma Rainey
 spotify_data:
   followers: 116472
   id: 6QBUIuGCAJSAtefEY1EEdB
   popularity: 35
-  url: https://open.spotify.com/artist/6QBUIuGCAJSAtefEY1EEdB
+  url: 'https://open.spotify.com/artist/6QBUIuGCAJSAtefEY1EEdB'
 discography_enriched: true
 top_tracks:
-- Summertime / Sometimes I Feel Like a Motherless Child (Bless This House)
-- Take My Hand Precious Lord (Sings the Best-Loved Hymns of Dr. Martin Luther King, Jr.)
-- How I Got Over - Live (The Essential Mahalia Jackson)
-- Take My Hand, Precious Lord (The Essential Mahalia Jackson)
-- 'Silent Night, Holy Night (Silent Night: Songs For Christmas)'
-- We Shall Overcome (Sings the Best-Loved Hymns of Dr. Martin Luther King, Jr.)
-- Trouble of the World (Gospels, Spirituals, & Hymns)
-- His Eye Is On the Sparrow (Gospels, Spirituals, & Hymns)
-- Joshua Fit the Battle of Jericho (The Essential Mahalia Jackson)
-- Just a Closer Walk with Thee (Sings the Best-Loved Hymns of Dr. Martin Luther King, Jr.)
+  - Summertime / Sometimes I Feel Like a Motherless Child (Bless This House)
+  - >-
+    Take My Hand Precious Lord (Sings the Best-Loved Hymns of Dr. Martin Luther
+    King, Jr.)
+  - How I Got Over - Live (The Essential Mahalia Jackson)
+  - 'Take My Hand, Precious Lord (The Essential Mahalia Jackson)'
+  - 'Silent Night, Holy Night (Silent Night: Songs For Christmas)'
+  - >-
+    We Shall Overcome (Sings the Best-Loved Hymns of Dr. Martin Luther King,
+    Jr.)
+  - 'Trouble of the World (Gospels, Spirituals, & Hymns)'
+  - 'His Eye Is On the Sparrow (Gospels, Spirituals, & Hymns)'
+  - Joshua Fit the Battle of Jericho (The Essential Mahalia Jackson)
+  - >-
+    Just a Closer Walk with Thee (Sings the Best-Loved Hymns of Dr. Martin
+    Luther King, Jr.)
 external_urls:
-  spotify: https://open.spotify.com/artist/6QBUIuGCAJSAtefEY1EEdB
-  wikipedia: https://en.wikipedia.org/wiki/Mahalia_Jackson
+  spotify: 'https://open.spotify.com/artist/6QBUIuGCAJSAtefEY1EEdB'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mahalia_Jackson'
 image_path: 03_Resources/source_material/ArtistPortraits/mahlia_jackson.jpg
 biography_enhanced_at: '2025-11-05T12:57:07.219953'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://gospelmusichalloffame.org/hall-of-fame-inductees-and-honorees/mahalia-jackson
-- https://www.ebsco.com/research-starters/history/mahalia-jackson
-- https://www.biography.com/musicians/mahalia-jackson
-- https://musicrising.tulane.edu/discover/people/mahalia-jackson/
+  - >-
+    https://gospelmusichalloffame.org/hall-of-fame-inductees-and-honorees/mahalia-jackson
+  - 'https://www.ebsco.com/research-starters/history/mahalia-jackson'
+  - 'https://www.biography.com/musicians/mahalia-jackson'
+  - 'https://musicrising.tulane.edu/discover/people/mahalia-jackson/'
 network_extracted: true
 entry_created: '2025-11-05T12:57:07.219968'
 last_updated: '2025-12-23T08:16:12.525318'
+birth_date: '1911-10-26'
+artist_type: person
 ---
 
 ![](mahlia_jackson.jpg)

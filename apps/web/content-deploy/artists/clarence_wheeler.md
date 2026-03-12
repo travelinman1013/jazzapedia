@@ -1,17 +1,17 @@
 ---
-title: clarence wheeler
+title: Clarence Wheeler
 wiki_slug: clarence-wheeler
 schema_version: 2
 status: active
-birth_place: Chicago, Illinois, USA
+birth_place: 'Chicago, Illinois, USA'
 genres:
-- jazz funk
-- soul jazz
+  - jazz funk
+  - soul jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/clarence_wheeler.jpg
   caption: clarence wheeler
   background: solo_singer
-  origin: Chicago, Illinois, USA
+  origin: 'Chicago, Illinois, USA'
 audio_profile:
   tempo_avg: 125.2
   energy_avg: 0.5
@@ -27,51 +27,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sonny Covington
-  - Sonny Burke
-  - George Hughes
-  - Cissy Houston
-  - Judy Clay
-  - Jackie Verdell
+    - Sonny Covington
+    - Sonny Burke
+    - George Hughes
+    - Cissy Houston
+    - Judy Clay
+    - Jackie Verdell
   influenced:
-  - Modern jazz-funk and soul jazz musicians
+    - Modern jazz-funk and soul jazz musicians
   mentors:
-  - Jack McDuff
-  - Don Patterson
+    - Jack McDuff
+    - Don Patterson
 spotify_data:
   followers: 1040
   id: 4gbGKYPiT6JsXOkjrCdzOV
   popularity: 7
-  url: https://open.spotify.com/artist/4gbGKYPiT6JsXOkjrCdzOV
+  url: 'https://open.spotify.com/artist/4gbGKYPiT6JsXOkjrCdzOV'
 discography_enriched: true
 top_tracks:
-- Right On (Doin' What We Wanna)
-- Hey Jude (Doin' What We Wanna)
-- Sham Time (Doin' What We Wanna)
-- Right On (Deep in the World of Breaks & Beats)
-- Doin' What I Wanna (Doin' What We Wanna)
-- Theme from Electric Surfboard (Doin' What We Wanna)
-- Dream Bossa Nova (Doin' What We Wanna)
-- Broasted or Fried (The Love I've Been Looking For)
-- 'Hey Jude (GLASS ONION: SONGS OF THE BEATLES)'
-- Don't Go to Strangers (The New Chicago Blues)
+  - Right On (Doin' What We Wanna)
+  - Hey Jude (Doin' What We Wanna)
+  - Sham Time (Doin' What We Wanna)
+  - Right On (Deep in the World of Breaks & Beats)
+  - Doin' What I Wanna (Doin' What We Wanna)
+  - Theme from Electric Surfboard (Doin' What We Wanna)
+  - Dream Bossa Nova (Doin' What We Wanna)
+  - Broasted or Fried (The Love I've Been Looking For)
+  - 'Hey Jude (GLASS ONION: SONGS OF THE BEATLES)'
+  - Don't Go to Strangers (The New Chicago Blues)
 external_urls:
-  spotify: https://open.spotify.com/artist/4gbGKYPiT6JsXOkjrCdzOV
+  spotify: 'https://open.spotify.com/artist/4gbGKYPiT6JsXOkjrCdzOV'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/clarence_wheeler.jpg
 biography_enhanced_at: '2025-10-19T11:52:58.622692'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://flophousemagazine.com/2019/04/04/clarence-wheeler-the-enforcers-doin-what-we-wanna-atlantic-1970/
-- http://flophousemagazine.com/tag/atlantic/
-- https://hornchic.wordpress.com/tag/clarence-wheeler-and-the-enforcers/
-- https://www.last.fm/music/Clarence+Wheeler+&+The+Enforcers/+wiki
-- https://rec.music.rock-pop-r-b.1960s.narkive.com/b9gbcRnv/clarence-wheeler-of-the-enforcers-dead-at-72
+  - >-
+    http://flophousemagazine.com/2019/04/04/clarence-wheeler-the-enforcers-doin-what-we-wanna-atlantic-1970/
+  - 'http://flophousemagazine.com/tag/atlantic/'
+  - 'https://hornchic.wordpress.com/tag/clarence-wheeler-and-the-enforcers/'
+  - 'https://www.last.fm/music/Clarence+Wheeler+&+The+Enforcers/+wiki'
+  - >-
+    https://rec.music.rock-pop-r-b.1960s.narkive.com/b9gbcRnv/clarence-wheeler-of-the-enforcers-dead-at-72
 network_extracted: true
 entry_created: '2025-10-19T11:52:58.622698'
 last_updated: '2025-12-23T08:16:07.034887'
-
+origin: 'Chicago, Illinois, United States'
+artist_type: person
 ---
 
 ![](clarence_wheeler.jpg)

@@ -1,37 +1,40 @@
 ---
 biography_enhanced_at: '2025-12-30T01:22:58.796296'
-birth_place: Dublin, Ireland
+birth_place: 'Dublin, Ireland, United Kingdom'
 enhancement_provider: perplexity
 entry_created: '2025-12-30T01:22:58.796301'
 external_urls:
-  spotify: https://open.spotify.com/artist/4mjVQFIgNetwBWatbQROKq
-  wikipedia: https://en.wikipedia.org/wiki/Marc_Carroll
+  spotify: 'https://open.spotify.com/artist/4mjVQFIgNetwBWatbQROKq'
+  wikipedia: 'https://en.wikipedia.org/wiki/Marc_Carroll'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/mark_carroll.jpg
 last_updated: '2025-12-30T01:22:58.796302'
 musical_connections:
   collaborators:
-  - Martin Carr
-  - Craig Gannon
-  - Adi Winman
-  - Larry Campbell
-  - Bo Koster
+    - Martin Carr
+    - Craig Gannon
+    - Adi Winman
+    - Larry Campbell
+    - Bo Koster
   influenced: []
   mentors:
-  - Brian Wilson
+    - Brian Wilson
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Marc_Carroll
-- https://www.allmusic.com/artist/marc-carroll-mn0000283490
-- https://americansongwriter.com/songwriter-u-marc-carroll-a-sense-of-discovery/
+  - 'https://en.wikipedia.org/wiki/Marc_Carroll'
+  - 'https://www.allmusic.com/artist/marc-carroll-mn0000283490'
+  - >-
+    https://americansongwriter.com/songwriter-u-marc-carroll-a-sense-of-discovery/
 spotify_data:
   followers: 7878
   id: 4mjVQFIgNetwBWatbQROKq
   popularity: 29
-  url: https://open.spotify.com/artist/4mjVQFIgNetwBWatbQROKq
+  url: 'https://open.spotify.com/artist/4mjVQFIgNetwBWatbQROKq'
 status: active
 title: Mark Carroll
+birth_date: '1972-01-25'
+artist_type: person
 ---
 
 ![](mark_carroll.jpg)

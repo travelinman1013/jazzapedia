@@ -4,12 +4,13 @@ wiki_slug: frank-sinatra-dean-martin
 schema_version: 2
 status: active
 genres:
-- christmas
-- adult standards
-- big band
-- swing music
+  - christmas
+  - adult standards
+  - big band
+  - swing music
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/frank_sinatra_and_dean_martin.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/frank_sinatra_and_dean_martin.jpg
   caption: Frank Sinatra & Dean Martin
   background: solo_singer
 audio_profile:
@@ -27,46 +28,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jerry Lewis
-  - Sammy Davis Jr.
-  - Joey Bishop
+    - Jerry Lewis
+    - Sammy Davis Jr.
+    - Joey Bishop
   influenced:
-  - Michael Bublé
-  - Harry Connick Jr.
+    - Michael Bublé
+    - Harry Connick Jr.
   mentors:
-  - Harry James
-  - Sammy Watkins
+    - Harry James
+    - Sammy Watkins
 spotify_data:
   followers: 1950454
   id: 49e4v89VmlDcFCMyDv9wQ9
   popularity: 67
-  url: https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9
+  url: 'https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9'
 discography_enriched: true
 top_tracks:
-- Everybody Loves Somebody (Everybody Loves Somebody)
-- Volare (Nel Blu Di Pinto Di Blu) - Remastered 1998 (This Is Dean Martin)
-- Let It Snow! Let It Snow! Let It Snow! (A Winter Romance)
-- You're Nobody 'Til Somebody Loves You - Remastered/1997 (This Time I'm Swingin')
-- 'That''s Amore (Dean Martin: The Capitol Recordings, Vol. 4 (1952-1954))'
-- 'Ain''t That A Kick In The Head (Dean Martin: The Capitol Recordings, Vol. 11 (1960-1961))'
-- Sway (Quien Sera) (Hey, Brother Pour The Wine)
-- That's Amore (Dean Martin Sings)
-- 'Sway (Quien Sera) (Dean Martin: The Capitol Recordings, Vol. 5 (1954))'
-- On The Street Where You Live - Remastered 1998 (This Time I'm Swingin')
+  - Everybody Loves Somebody (Everybody Loves Somebody)
+  - Volare (Nel Blu Di Pinto Di Blu) - Remastered 1998 (This Is Dean Martin)
+  - Let It Snow! Let It Snow! Let It Snow! (A Winter Romance)
+  - >-
+    You're Nobody 'Til Somebody Loves You - Remastered/1997 (This Time I'm
+    Swingin')
+  - 'That''s Amore (Dean Martin: The Capitol Recordings, Vol. 4 (1952-1954))'
+  - >-
+    Ain't That A Kick In The Head (Dean Martin: The Capitol Recordings, Vol. 11
+    (1960-1961))
+  - 'Sway (Quien Sera) (Hey, Brother Pour The Wine)'
+  - That's Amore (Dean Martin Sings)
+  - 'Sway (Quien Sera) (Dean Martin: The Capitol Recordings, Vol. 5 (1954))'
+  - On The Street Where You Live - Remastered 1998 (This Time I'm Swingin')
 external_urls:
-  spotify: https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9
-  wikipedia: https://en.wikipedia.org/wiki/Frank_Sinatra, https://en.wikipedia.org/wiki/Dean_Martin
+  spotify: 'https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9'
+  wikipedia: >-
+    https://en.wikipedia.org/wiki/Frank_Sinatra,
+    https://en.wikipedia.org/wiki/Dean_Martin
 image_path: 03_Resources/source_material/ArtistPortraits/frank_sinatra_and_dean_martin.jpg
 biography_enhanced_at: '2025-10-28T08:59:44.473768'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Frank_Sinatra
-- https://en.wikipedia.org/wiki/Dean_Martin
-- https://www.britannica.com/biography/Dean-Martin
+  - 'https://en.wikipedia.org/wiki/Frank_Sinatra'
+  - 'https://en.wikipedia.org/wiki/Dean_Martin'
+  - 'https://www.britannica.com/biography/Dean-Martin'
 network_extracted: true
 entry_created: '2025-10-28T08:59:44.473781'
 last_updated: '2025-12-23T08:16:08.768508'
+birth_place: 'Hoboken, New Jersey, United States'
+origin: 'Hoboken, New Jersey, USA (Sinatra); Steubenville, Ohio, USA (Martin)'
+birth_date: '1915-12-12'
+death_date: '1995-12-25'
+artist_type: person
 ---
 
 ![](frank_sinatra_and_dean_martin.jpg)

@@ -5,65 +5,69 @@ birth_date: '1994'
 enhancement_provider: perplexity
 entry_created: '2026-01-17T02:06:47.485069'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/245288ae-0234-434c-9eef-168a794d1ce5
-  spotify: https://open.spotify.com/artist/2Igrvz9gWyvkAhnXNvS9Y9
+  musicbrainz: 'https://musicbrainz.org/artist/245288ae-0234-434c-9eef-168a794d1ce5'
+  spotify: 'https://open.spotify.com/artist/2Igrvz9gWyvkAhnXNvS9Y9'
   wikipedia: ''
 formation_year: 1994
 genres:
-- southern gothic
+  - southern gothic
 image_path: 03_Resources/source_material/ArtistPortraits/tarbox_ramblers.jpg
 is_active: true
 last_updated: '2026-01-17T02:06:47.485070'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b1e07aa1-4a35-4011-8ba9-76bdfab89868
-  name: Jon Cohan
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: fad7b67e-b536-4d89-858b-c55a8a6fd7bb
-  name: Daniel Kellar
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 997b7ca6-cb9c-4d19-b21b-aa38559ff07b
-  name: Johnny Sciascia
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 77a57323-d6de-442f-97da-941608ba2758
-  name: Michael Tarbox
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b1e07aa1-4a35-4011-8ba9-76bdfab89868
+    name: Jon Cohan
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: fad7b67e-b536-4d89-858b-c55a8a6fd7bb
+    name: Daniel Kellar
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 997b7ca6-cb9c-4d19-b21b-aa38559ff07b
+    name: Johnny Sciascia
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 77a57323-d6de-442f-97da-941608ba2758
+    name: Michael Tarbox
 musical_connections:
   collaborators:
-  - Michael Tarbox
-  - Daniel Kellar
-  - Jim Dickinson
+    - Michael Tarbox
+    - Daniel Kellar
+    - Jim Dickinson
   influenced: []
   mentors:
-  - Dock Boggs
-  - John Lee Hooker
-  - Carter Family
+    - Dock Boggs
+    - John Lee Hooker
+    - Carter Family
 musicbrainz_id: 245288ae-0234-434c-9eef-168a794d1ce5
 network_extracted: true
-origin: Cambridge
+origin: 'Boston, Massachusetts, United States'
 primary_source: perplexity
 research_sources:
-- https://www.concertarchives.org/bands/tarbox-ramblers-10aa0cde-c504-4383-9b2b-75b2745b35ba
-- https://exclaim.ca/music/article/tarbox_ramblers-fix_back_east
-- https://www.nashvillescene.com/arts_culture/nashville-river-stages/article_d447e2f5-6a66-5804-b091-90c0173b5c41.html
-- https://www.passim.org/artists/tarbox-ramblers/
-- https://www.straight.com/article/tarbox-ramblers-take-a-toke-of-hynoptic-roots
-- https://www.illinoistimes.com/music/tarbox-ramblers-fired-up-blues-turn-despair-in-joy-11436494/
-- https://www.slipcue.com/music/country/countrystyles/alt/T_01.html
+  - >-
+    https://www.concertarchives.org/bands/tarbox-ramblers-10aa0cde-c504-4383-9b2b-75b2745b35ba
+  - 'https://exclaim.ca/music/article/tarbox_ramblers-fix_back_east'
+  - >-
+    https://www.nashvillescene.com/arts_culture/nashville-river-stages/article_d447e2f5-6a66-5804-b091-90c0173b5c41.html
+  - 'https://www.passim.org/artists/tarbox-ramblers/'
+  - >-
+    https://www.straight.com/article/tarbox-ramblers-take-a-toke-of-hynoptic-roots
+  - >-
+    https://www.illinoistimes.com/music/tarbox-ramblers-fired-up-blues-turn-despair-in-joy-11436494/
+  - 'https://www.slipcue.com/music/country/countrystyles/alt/T_01.html'
 spotify_data:
   followers: 1637
   id: 2Igrvz9gWyvkAhnXNvS9Y9
   popularity: 11
-  url: https://open.spotify.com/artist/2Igrvz9gWyvkAhnXNvS9Y9
+  url: 'https://open.spotify.com/artist/2Igrvz9gWyvkAhnXNvS9Y9'
 status: active
-title: tarbox ramblers
+title: Tarbox Ramblers
 ---
 
 ![](tarbox_ramblers.jpg)

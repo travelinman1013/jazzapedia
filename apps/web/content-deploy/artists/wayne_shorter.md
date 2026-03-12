@@ -1,134 +1,136 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '1959'
-  end: '1963'
-  instruments: []
-  mbid: 209ddf15-ee0a-41a1-a1f5-6f4c0409d2ee
-  name: Art Blakey & The Jazz Messengers
-- begin: '1964'
-  end: '1970'
-  instruments:
-  - tenor saxophone
-  mbid: fe7245e7-d734-4ca1-8e26-691883f58201
-  name: Miles Davis Quintet
-- begin: '1971'
-  end: '1986'
-  instruments:
-  - original
-  mbid: 0f9997bd-e079-429e-8ccd-9378c9b0c746
-  name: Weather Report
-- begin: '2000'
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  - saxophone
-  mbid: b1a2acf2-f076-4bb1-bb85-fda238ae2e85
-  name: Wayne Shorter Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 123e4002-2ad3-433e-ac2e-5c0cb2796846
-  name: V.S.O.P.
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 906e0ad9-cf42-4c75-a170-5759c27a5bba
-  name: The Young Lions
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2bcad36b-fd68-49b1-826e-d16e404c7e1b
-  name: The Gil Evans Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 79d12653-3918-4868-8da8-a0bf5febe38b
-  name: Bahia Black
-- begin: ''
-  end: ''
-  instruments:
-  - saxophone
-  mbid: a3b6a8bb-dc63-4f52-8825-2d92dbdb0641
-  name: The All Star Jazz Reunion
+  - begin: '1959'
+    end: '1963'
+    instruments: []
+    mbid: 209ddf15-ee0a-41a1-a1f5-6f4c0409d2ee
+    name: Art Blakey & The Jazz Messengers
+  - begin: '1964'
+    end: '1970'
+    instruments:
+      - tenor saxophone
+    mbid: fe7245e7-d734-4ca1-8e26-691883f58201
+    name: Miles Davis Quintet
+  - begin: '1971'
+    end: '1986'
+    instruments:
+      - original
+    mbid: 0f9997bd-e079-429e-8ccd-9378c9b0c746
+    name: Weather Report
+  - begin: '2000'
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - saxophone
+    mbid: b1a2acf2-f076-4bb1-bb85-fda238ae2e85
+    name: Wayne Shorter Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 123e4002-2ad3-433e-ac2e-5c0cb2796846
+    name: V.S.O.P.
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 906e0ad9-cf42-4c75-a170-5759c27a5bba
+    name: The Young Lions
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2bcad36b-fd68-49b1-826e-d16e404c7e1b
+    name: The Gil Evans Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 79d12653-3918-4868-8da8-a0bf5febe38b
+    name: Bahia Black
+  - begin: ''
+    end: ''
+    instruments:
+      - saxophone
+    mbid: a3b6a8bb-dc63-4f52-8825-2d92dbdb0641
+    name: The All Star Jazz Reunion
 biography_enhanced_at: '2026-01-22T07:21:14.567747'
 birth_date: '1933-08-25'
-birth_place: Newark
+birth_place: 'Newark, New Jersey, United States'
 death_date: '2023-03-02'
 disambiguation: US jazz saxophonist and composer
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:21:14.567753'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2379937f-6e0d-46a2-b8ff-633fafd72002
-  spotify: https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO
-  wikipedia: https://en.wikipedia.org/wiki/Wayne_Shorter
+  musicbrainz: 'https://musicbrainz.org/artist/2379937f-6e0d-46a2-b8ff-633fafd72002'
+  spotify: 'https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO'
+  wikipedia: 'https://en.wikipedia.org/wiki/Wayne_Shorter'
 gender: Male
 genres:
-- hard bop
-- jazz
-- jazz ballads
-- bebop
-- cool jazz
-- free jazz
-- jazz fusion
+  - hard bop
+  - jazz
+  - jazz ballads
+  - bebop
+  - cool jazz
+  - free jazz
+  - jazz fusion
 image_path: 03_Resources/source_material/ArtistPortraits/wayne_shorter.jpg
 instruments:
-- tenor saxophone
-- original
-- eponymous
-- saxophone
-- piano
-- electric piano
+  - tenor saxophone
+  - original
+  - eponymous
+  - saxophone
+  - piano
+  - electric piano
 last_updated: '2026-01-22T07:21:14.567754'
 musical_connections:
   collaborators:
-  - Art Blakey
-  - Miles Davis
-  - Herbie Hancock
-  - Tony Williams
-  - Ron Carter
-  - Joe Zawinul
-  - Miroslav Vitous
-  - Milton Nascimento
-  - Marcus Miller
-  - Danilo Perez
-  - John Patitucci
-  - Brian Blade
-  - Carlos Santana
-  - Don Henley
-  - Joni Mitchell
-  - Steely Dan
+    - Art Blakey
+    - Miles Davis
+    - Herbie Hancock
+    - Tony Williams
+    - Ron Carter
+    - Joe Zawinul
+    - Miroslav Vitous
+    - Milton Nascimento
+    - Marcus Miller
+    - Danilo Perez
+    - John Patitucci
+    - Brian Blade
+    - Carlos Santana
+    - Don Henley
+    - Joni Mitchell
+    - Steely Dan
   influenced:
-  - Jazz fusion musicians
-  - Contemporary jazz composers
+    - Jazz fusion musicians
+    - Contemporary jazz composers
   mentors:
-  - Sonny Rollins
-  - John Coltrane
-  - Coleman Hawkins
+    - Sonny Rollins
+    - John Coltrane
+    - Coleman Hawkins
 musicbrainz_id: 2379937f-6e0d-46a2-b8ff-633fafd72002
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Wayne_Shorter
-- https://hancockinstitute.org/2023/03/wayne-shorter-1933-2023/
-- https://www.britannica.com/biography/Wayne-Shorter
-- https://downbeat.com/news/detail/in-memoriam-wayne-shorter-1933-2023
-- https://www.polarmusicprize.org/laureates/wayne-shorter/
-- https://www.eamdc.com/psny/composers/wayne-shorter/biography/
-- https://www.bluenote.com/artist/wayne-shorter/
-- https://www.kmhd.org/article/2023/03/07/the-lessons-of-wayne-shorter-engine-of-imagination/
+  - 'https://en.wikipedia.org/wiki/Wayne_Shorter'
+  - 'https://hancockinstitute.org/2023/03/wayne-shorter-1933-2023/'
+  - 'https://www.britannica.com/biography/Wayne-Shorter'
+  - 'https://downbeat.com/news/detail/in-memoriam-wayne-shorter-1933-2023'
+  - 'https://www.polarmusicprize.org/laureates/wayne-shorter/'
+  - 'https://www.eamdc.com/psny/composers/wayne-shorter/biography/'
+  - 'https://www.bluenote.com/artist/wayne-shorter/'
+  - >-
+    https://www.kmhd.org/article/2023/03/07/the-lessons-of-wayne-shorter-engine-of-imagination/
 spotify_data:
   followers: 253530
   id: 0ZqhrTXYPA9DZR527ZnFdO
   popularity: 51
-  url: https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO
+  url: 'https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO'
 status: active
 tags:
-- american
-- avant-garde jazz
-- crossover jazz
-title: wayne shorter
+  - american
+  - avant-garde jazz
+  - crossover jazz
+title: Wayne Shorter
+is_active: false
 ---
 
 ![](wayne_shorter.jpg)

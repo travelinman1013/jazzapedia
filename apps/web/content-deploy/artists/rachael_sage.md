@@ -1,19 +1,19 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 010cc2d2-a41d-404a-bfa2-699ef94d83a1
-  name: Poetica
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 010cc2d2-a41d-404a-bfa2-699ef94d83a1
+    name: Poetica
 biography_enhanced_at: '2026-01-13T01:09:08.913743'
 birth_date: '1971'
 birth_place: Port Chester
 enhancement_provider: perplexity
 entry_created: '2026-01-13T01:09:08.913750'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/eb5decb4-954a-4a96-a3df-00cdde7ec5ea
-  spotify: https://open.spotify.com/artist/7EedWEoxpzbiPNkqkDp3Vw
+  musicbrainz: 'https://musicbrainz.org/artist/eb5decb4-954a-4a96-a3df-00cdde7ec5ea'
+  spotify: 'https://open.spotify.com/artist/7EedWEoxpzbiPNkqkDp3Vw'
   wikipedia: ''
 gender: Female
 genres: []
@@ -21,34 +21,36 @@ image_path: 03_Resources/source_material/ArtistPortraits/rachael_sage.jpg
 last_updated: '2026-01-13T01:09:08.913751'
 musical_connections:
   collaborators:
-  - Ani DiFranco
-  - Walter Parks
-  - Ritchie Havens
+    - Ani DiFranco
+    - Walter Parks
+    - Ritchie Havens
   influenced: []
   mentors:
-  - Tony Visconti
+    - Tony Visconti
 musicbrainz_id: eb5decb4-954a-4a96-a3df-00cdde7ec5ea
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://soundgirls.org/rachael-sage-singer-songwriter-producer-label-owner/
-- https://www.thevinyldistrict.com/storefront/rachael-sage-the-tvd-interview/
-- https://americansongwriter.com/rachael-sage/
-- https://everythingsundry.com/2013/07/21/getting-to-know-rachael-sage/
-- https://rachaelsage.com/press_kit
-- https://www.curvemag.com/blog/interviews/hot-licks-rachael-sage/
-- https://blog.sonicbids.com/rachael-sage-the-best-piece-of-music-career-advice-ive-ever-gotten
+  - 'https://soundgirls.org/rachael-sage-singer-songwriter-producer-label-owner/'
+  - 'https://www.thevinyldistrict.com/storefront/rachael-sage-the-tvd-interview/'
+  - 'https://americansongwriter.com/rachael-sage/'
+  - 'https://everythingsundry.com/2013/07/21/getting-to-know-rachael-sage/'
+  - 'https://rachaelsage.com/press_kit'
+  - 'https://www.curvemag.com/blog/interviews/hot-licks-rachael-sage/'
+  - >-
+    https://blog.sonicbids.com/rachael-sage-the-best-piece-of-music-career-advice-ive-ever-gotten
 spotify_data:
   followers: 7458
   id: 7EedWEoxpzbiPNkqkDp3Vw
   popularity: 22
-  url: https://open.spotify.com/artist/7EedWEoxpzbiPNkqkDp3Vw
+  url: 'https://open.spotify.com/artist/7EedWEoxpzbiPNkqkDp3Vw'
 status: active
 tags:
-- american
-- folk
-- pop
+  - american
+  - folk
+  - pop
 title: Rachael Sage
+origin: 'New York City, New York, United States'
 ---
 
 ![](rachael_sage.jpg)

@@ -3,16 +3,16 @@ title: Sandra Bele
 wiki_slug: sandra-bele
 schema_version: 2
 status: active
-birth_place: Zabelê, Paraíba, Brazil
+birth_place: 'Zabelê, Paraíba, Brazil'
 genres:
-- forró
+  - forró
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Sandra_Bele.jpg
   caption: Sandra Bele
   background: solo_singer
-  origin: Zabelê, Paraíba, Brazil
+  origin: 'Zabelê, Paraíba, Brazil'
 audio_profile:
-  tempo_avg: 119.0
+  tempo_avg: 119
   energy_avg: 0.592
   valence_avg: 0.735
   danceability_avg: 0.618
@@ -26,43 +26,44 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Various regional forró musicians
+    - Various regional forró musicians
   influenced:
-  - Emerging forró artists from Paraíba
+    - Emerging forró artists from Paraíba
   mentors:
-  - Luiz Gonzaga
+    - Luiz Gonzaga
 spotify_data:
   followers: 718
   id: 2WWE7iaKgdyiUKd0qkvHYG
   popularity: 3
-  url: https://open.spotify.com/artist/2WWE7iaKgdyiUKd0qkvHYG
+  url: 'https://open.spotify.com/artist/2WWE7iaKgdyiUKd0qkvHYG'
 discography_enriched: true
 top_tracks:
-- Besta-Fera (Luminosa)
-- SUSSUARANA (SUSSUARANA)
-- Onça Caetana (Cantos de Cá)
-- ONÇA CAETANA (ONÇA CAETANA)
-- DE LONGE (SUSSUARANA)
-- Lado de Cá da Janela (Cantos de Cá)
-- Tempos de Criança (Nordeste Valente)
-- COCO MARIA (SUSSUARANA)
-- Para Agradecer - Acústica (Cantos de Cá)
-- À Deriva (Cantos de Cá)
+  - Besta-Fera (Luminosa)
+  - SUSSUARANA (SUSSUARANA)
+  - Onça Caetana (Cantos de Cá)
+  - ONÇA CAETANA (ONÇA CAETANA)
+  - DE LONGE (SUSSUARANA)
+  - Lado de Cá da Janela (Cantos de Cá)
+  - Tempos de Criança (Nordeste Valente)
+  - COCO MARIA (SUSSUARANA)
+  - Para Agradecer - Acústica (Cantos de Cá)
+  - À Deriva (Cantos de Cá)
 external_urls:
-  spotify: https://open.spotify.com/artist/2WWE7iaKgdyiUKd0qkvHYG
+  spotify: 'https://open.spotify.com/artist/2WWE7iaKgdyiUKd0qkvHYG'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/Sandra_Bele.jpg
 biography_enhanced_at: '2025-10-19T12:29:51.906432'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://cantodaema.com.br/agenda/sandra-bele/
-- https://www12.senado.leg.br/radio/1/som-brasilis-1/2022/12/30/sandra-bele-paraiba
-- https://open.spotify.com/intl-pt/artist/2WWE7iaKgdyiUKd0qkvHYG
+  - 'https://cantodaema.com.br/agenda/sandra-bele/'
+  - >-
+    https://www12.senado.leg.br/radio/1/som-brasilis-1/2022/12/30/sandra-bele-paraiba
+  - 'https://open.spotify.com/intl-pt/artist/2WWE7iaKgdyiUKd0qkvHYG'
 network_extracted: true
 entry_created: '2025-10-19T12:29:51.906449'
 last_updated: '2025-12-23T08:16:03.817441'
-
+artist_type: person
 ---
 
 ![](Sandra_Bele.jpg)

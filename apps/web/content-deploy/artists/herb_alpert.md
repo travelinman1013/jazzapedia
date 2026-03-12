@@ -1,80 +1,81 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 012ef4f9-2d35-4000-86e5-bc761f87dab9
-  name: Herb Alpert & the Tijuana Brass
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c5c6f164-8446-4fdb-a7ad-5fcf290014f9
-  name: Dore Alpert
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ce8e50a4-9713-4339-a803-6d731b8aa818
-  name: Sixth Army Band
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: ba609393-0fd7-4228-b214-6f6bfac99be8
-  name: USC Trojan Marching Band
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 012ef4f9-2d35-4000-86e5-bc761f87dab9
+    name: Herb Alpert & the Tijuana Brass
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c5c6f164-8446-4fdb-a7ad-5fcf290014f9
+    name: Dore Alpert
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ce8e50a4-9713-4339-a803-6d731b8aa818
+    name: Sixth Army Band
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: ba609393-0fd7-4228-b214-6f6bfac99be8
+    name: USC Trojan Marching Band
 biography_enhanced_at: '2026-01-18T07:45:42.464876'
 birth_date: '1935-03-31'
-birth_place: Los Angeles
+birth_place: 'Los Angeles, California, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-18T07:45:42.464883'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/db76f244-049f-440e-be53-cc5f3c0cdfb6
-  spotify: https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I
-  wikipedia: https://en.wikipedia.org/wiki/Herb_Alpert
+  musicbrainz: 'https://musicbrainz.org/artist/db76f244-049f-440e-be53-cc5f3c0cdfb6'
+  spotify: 'https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I'
+  wikipedia: 'https://en.wikipedia.org/wiki/Herb_Alpert'
 gender: Male
 genres:
-- adult standards
-- exotica
+  - adult standards
+  - exotica
 image_path: 03_Resources/source_material/ArtistPortraits/herb_alpert.jpg
 instruments:
-- eponymous
-- trumpet
-- piano
-- vocal
-- lead vocals
+  - eponymous
+  - trumpet
+  - piano
+  - vocal
+  - lead vocals
 last_updated: '2026-01-18T07:45:42.464884'
 musical_connections:
   collaborators:
-  - Jerry Moss
-  - Hugh Masekela
-  - Herb Alpert & the Tijuana Brass
+    - Jerry Moss
+    - Hugh Masekela
+    - Herb Alpert & the Tijuana Brass
   influenced:
-  - A&M Records Artists (Collective)
+    - A&M Records Artists (Collective)
   mentors:
-  - Burt Bacharach
+    - Burt Bacharach
 musicbrainz_id: db76f244-049f-440e-be53-cc5f3c0cdfb6
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.britannica.com/biography/Herb-Alpert
-- https://www.youtube.com/watch?v=GkJpP3RlN_s
-- https://walkoffame.com/herb-alpert/
-- https://herbalpert.com/about/
-- https://www.edsullivan.com/artists/herb-alpert-the-tijuana-brass/
-- https://en.wikipedia.org/wiki/Herb_Alpert
-- https://www.onamrecords.com/artists/herb-alpert/146460/biography
-- https://www.americanbluesscene.com/2024/08/herb-alperts-secret-to-success-in-the-music-business/
+  - 'https://www.britannica.com/biography/Herb-Alpert'
+  - 'https://www.youtube.com/watch?v=GkJpP3RlN_s'
+  - 'https://walkoffame.com/herb-alpert/'
+  - 'https://herbalpert.com/about/'
+  - 'https://www.edsullivan.com/artists/herb-alpert-the-tijuana-brass/'
+  - 'https://en.wikipedia.org/wiki/Herb_Alpert'
+  - 'https://www.onamrecords.com/artists/herb-alpert/146460/biography'
+  - >-
+    https://www.americanbluesscene.com/2024/08/herb-alperts-secret-to-success-in-the-music-business/
 spotify_data:
   followers: 233912
   id: 09L3cUdx0hq6qn5bKuJJ4I
   popularity: 57
-  url: https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I
+  url: 'https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I'
 status: active
 tags:
-- classic pop and rock
-- disco
-- easy listening
+  - classic pop and rock
+  - disco
+  - easy listening
 title: Herb Alpert
 ---
 

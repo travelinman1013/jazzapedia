@@ -1,12 +1,12 @@
 ---
-title: evil chicken
+title: Evil Chicken
 wiki_slug: evil-chicken
 schema_version: 2
 status: active
 genres:
-- stoner rock
-- space rock
-- stoner metal
+  - stoner rock
+  - space rock
+  - stoner metal
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/evil_chicken.jpg
   caption: evil chicken
@@ -32,34 +32,37 @@ spotify_data:
   followers: 1305
   id: 59754ycalGELpdpY1VPoZP
   popularity: 22
-  url: https://open.spotify.com/artist/59754ycalGELpdpY1VPoZP
+  url: 'https://open.spotify.com/artist/59754ycalGELpdpY1VPoZP'
 discography_enriched: true
 top_tracks:
-- Bill a Bong (Bill a Bong)
-- Lighters Gnomes (Lighters Gnomes)
-- Born To Be High (Born To Be High)
-- Northern Lights (Northern Lights)
-- White Rhino (White Rhino)
-- Smoke Signals (Scrambled)
-- Gas Station Prophet (Scrambled)
-- Southern Stoner Spell (Scrambled)
-- The Cat Left Again, So I Got a Dog (Scrambled)
-- The Meanest Monkey (Мunkii) (Scrambled)
+  - Bill a Bong (Bill a Bong)
+  - Lighters Gnomes (Lighters Gnomes)
+  - Born To Be High (Born To Be High)
+  - Northern Lights (Northern Lights)
+  - White Rhino (White Rhino)
+  - Smoke Signals (Scrambled)
+  - Gas Station Prophet (Scrambled)
+  - Southern Stoner Spell (Scrambled)
+  - 'The Cat Left Again, So I Got a Dog (Scrambled)'
+  - The Meanest Monkey (Мunkii) (Scrambled)
 external_urls:
-  spotify: https://open.spotify.com/artist/59754ycalGELpdpY1VPoZP
+  spotify: 'https://open.spotify.com/artist/59754ycalGELpdpY1VPoZP'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/evil_chicken.jpg
 biography_enhanced_at: '2025-12-20T01:20:46.840811'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- YouTube – Evil Chicken official channel About page[1]
-- YouTube – Evil Chicken channel main page[3]
-- YouTube – “Born to Be High (Official Lyric Video)”[4]
-- YouTube Shorts – “Born to Be High | Stoner Rock Vibes for the 4th of July”[2]
+  - 'YouTube – Evil Chicken official channel About page[1]'
+  - 'YouTube – Evil Chicken channel main page[3]'
+  - 'YouTube – “Born to Be High (Official Lyric Video)”[4]'
+  - >-
+    YouTube Shorts – “Born to Be High | Stoner Rock Vibes for the 4th of
+    July”[2]
 network_extracted: true
 entry_created: '2025-12-20T01:20:46.840823'
 last_updated: '2025-12-23T08:16:08.547100'
+artist_type: person
 ---
 
 ![](evil_chicken.jpg)

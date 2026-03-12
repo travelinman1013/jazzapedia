@@ -5,19 +5,19 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1958-10-02'
-birth_place: Crowley
+birth_place: 'Lafayette, Louisiana, United States'
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 instruments:
-- background vocals
-- lead vocals
+  - background vocals
+  - lead vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5b3aa6d4-e814-4314-9c56-240e70fc0c99
-  name: The Band Courtbouillon
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5b3aa6d4-e814-4314-9c56-240e70fc0c99
+    name: The Band Courtbouillon
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/wayne_toups.jpg
   caption: Wayne Toups
@@ -31,7 +31,7 @@ audio_profile:
   danceability_avg: 0.609
   acousticness_avg: 0.25
   instrumentalness_avg: 0.032
-  loudness_avg: -8.0
+  loudness_avg: -8
   speechiness_avg: 0.036
   liveness_avg: 0.197
   track_count: 59
@@ -39,64 +39,65 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mark Chesnutt
-  - Alan Jackson
-  - Clay Walker
-  - Garth Brooks
-  - Sammy Kershaw
-  - Steve Riley
-  - Wilson Savoy
-  - George Jones
-  - Thomas Dolby
+    - Mark Chesnutt
+    - Alan Jackson
+    - Clay Walker
+    - Garth Brooks
+    - Sammy Kershaw
+    - Steve Riley
+    - Wilson Savoy
+    - George Jones
+    - Thomas Dolby
   influenced:
-  - Otis Redding
-  - Aretha Franklin
-  - The Allman Brothers Band
-  - The Doobie Brothers
+    - Otis Redding
+    - Aretha Franklin
+    - The Allman Brothers Band
+    - The Doobie Brothers
   mentors:
-  - J.D. Miller
-  - Mark Miller
+    - J.D. Miller
+    - Mark Miller
 spotify_data:
   followers: 19359
   id: 7G8P56tQgw4QNhGxeic5oS
   popularity: 35
-  url: https://open.spotify.com/artist/7G8P56tQgw4QNhGxeic5oS
+  url: 'https://open.spotify.com/artist/7G8P56tQgw4QNhGxeic5oS'
 discography_enriched: true
 top_tracks:
-- 'Take My Hand (Toups: The New Blues Sessions)'
-- Tupelo Honey (Blast From The Bayou)
-- Two-Step Mamou (Blast From The Bayou)
-- 'That''s What I Love About My Baby (Toups: The New Blues Sessions)'
-- Johnnie Can't Dance (Blast From The Bayou)
-- Oh Louisiana (Little Wooden Box)
-- Let's Fall In Love (All Over Again) (Blast From The Bayou)
-- Ooh La La (Fish Out Of Water)
-- Sugar Bee (Blast From The Bayou)
-- Going Back To Big Mamou (Blast From The Bayou)
+  - 'Take My Hand (Toups: The New Blues Sessions)'
+  - Tupelo Honey (Blast From The Bayou)
+  - Two-Step Mamou (Blast From The Bayou)
+  - 'That''s What I Love About My Baby (Toups: The New Blues Sessions)'
+  - Johnnie Can't Dance (Blast From The Bayou)
+  - Oh Louisiana (Little Wooden Box)
+  - Let's Fall In Love (All Over Again) (Blast From The Bayou)
+  - Ooh La La (Fish Out Of Water)
+  - Sugar Bee (Blast From The Bayou)
+  - Going Back To Big Mamou (Blast From The Bayou)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a0583569-f3e4-4c28-87b0-742b18db555b
-  spotify: https://open.spotify.com/artist/7G8P56tQgw4QNhGxeic5oS
-  wikipedia: https://en.wikipedia.org/wiki/Wayne_Toups
+  musicbrainz: 'https://musicbrainz.org/artist/a0583569-f3e4-4c28-87b0-742b18db555b'
+  spotify: 'https://open.spotify.com/artist/7G8P56tQgw4QNhGxeic5oS'
+  wikipedia: 'https://en.wikipedia.org/wiki/Wayne_Toups'
 image_path: 03_Resources/source_material/ArtistPortraits/wayne_toups.jpg
 biography_enhanced_at: '2025-12-22T01:40:02.447787'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://louisianamusichalloffame.org/wayne-toups/
-- https://bigeasycruise.com/artists/wayne-toups/
-- https://www.museumofthegulfcoast.org/wayne-toups
-- https://www.roadwayevents.com/artists/wayne-toups/
-- https://en.wikipedia.org/wiki/Wayne_Toups
-- https://www.acadianmuseum.com/living-legend/wayne-toups/
-- https://flattownmusic.com/artist/wayne-toups/
-- https://www.neworleans.com/listing/wayne-toups/52856/
+  - 'https://louisianamusichalloffame.org/wayne-toups/'
+  - 'https://bigeasycruise.com/artists/wayne-toups/'
+  - 'https://www.museumofthegulfcoast.org/wayne-toups'
+  - 'https://www.roadwayevents.com/artists/wayne-toups/'
+  - 'https://en.wikipedia.org/wiki/Wayne_Toups'
+  - 'https://www.acadianmuseum.com/living-legend/wayne-toups/'
+  - 'https://flattownmusic.com/artist/wayne-toups/'
+  - 'https://www.neworleans.com/listing/wayne-toups/52856/'
 network_extracted: true
 entry_created: '2025-12-22T01:40:02.447793'
 last_updated: '2025-12-23T08:16:18.059146'
 gender: Male
 musicbrainz_id: a0583569-f3e4-4c28-87b0-742b18db555b
 tags:
-- cajun
+  - cajun
+origin: 'Crowley, Louisiana, United States'
 ---
 
 ![](wayne_toups.jpg)

@@ -1,26 +1,26 @@
 ---
-title: AMOS MILBURN
+title: Amos Milburn
 wiki_slug: amos-milburn
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1927-04-01'
-birth_place: Houston
+birth_place: 'Houston, Texas, United States'
 death_date: '1980-01-03'
 genres:
-- boogie-woogie
-- swing music
-- blues
-- classic blues
-- boogie
+  - boogie-woogie
+  - swing music
+  - blues
+  - classic blues
+  - boogie
 instruments:
-- piano
+  - piano
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4b4b9bd1-7d29-4692-b37d-6f328317fe88
-  name: Amos Milburn and His Aladdin Chickenshackers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4b4b9bd1-7d29-4692-b37d-6f328317fe88
+    name: Amos Milburn and His Aladdin Chickenshackers
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/amos_milburn.jpg
   caption: AMOS MILBURN
@@ -43,55 +43,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Maxwell Davis
-  - Rudy Toombs
-  - Johnny Otis
+    - Maxwell Davis
+    - Rudy Toombs
+    - Johnny Otis
   influenced:
-  - Fats Domino
-  - Little Willie Littlefield
-  - Floyd Dixon
-  - Little Richard
+    - Fats Domino
+    - Little Willie Littlefield
+    - Floyd Dixon
+    - Little Richard
   mentors:
-  - Lola Cullum
+    - Lola Cullum
 spotify_data:
   followers: 15361
   id: 3uZRvkqeNHKLMFQrJBaUCX
   popularity: 34
-  url: https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX
+  url: 'https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX'
 discography_enriched: true
 top_tracks:
-- One Scotch, One Bourbon, One Beer
-- Milk And Water
-- One Scotch, One Bourbon, One Beer (Bad, Bad Whiskey)
-- One Scotch, One Bourbon, One Beer (Let's Have A Party)
-- Chicken Shack Boogie (Rockin The Boogie)
-- Bad Bad Whiskey (Million Sellers)
-- Atomic Baby
-- Down The Road Apiece (Rockin The Boogie)
-- Down The Road Apiece
-- Thinking And Drinking (Jukebox Hits)
+  - 'One Scotch, One Bourbon, One Beer'
+  - Milk And Water
+  - 'One Scotch, One Bourbon, One Beer (Bad, Bad Whiskey)'
+  - 'One Scotch, One Bourbon, One Beer (Let''s Have A Party)'
+  - Chicken Shack Boogie (Rockin The Boogie)
+  - Bad Bad Whiskey (Million Sellers)
+  - Atomic Baby
+  - Down The Road Apiece (Rockin The Boogie)
+  - Down The Road Apiece
+  - Thinking And Drinking (Jukebox Hits)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/dfa41f72-2f98-4f16-95ea-440cad19db77
-  spotify: https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX
-  wikipedia: https://en.wikipedia.org/wiki/Amos_Milburn
+  musicbrainz: 'https://musicbrainz.org/artist/dfa41f72-2f98-4f16-95ea-440cad19db77'
+  spotify: 'https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX'
+  wikipedia: 'https://en.wikipedia.org/wiki/Amos_Milburn'
 image_path: 03_Resources/source_material/ArtistPortraits/amos_milburn.jpg
 biography_enhanced_at: '2025-12-23T02:01:56.341344'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Amos_Milburn
-- https://top40weekly.com/amos-milburn/
-- https://www.tshaonline.org/handbook/entries/milburn-amos
-- https://www.amosmilburn.com/amos-milburn-bio.html
+  - 'https://en.wikipedia.org/wiki/Amos_Milburn'
+  - 'https://top40weekly.com/amos-milburn/'
+  - 'https://www.tshaonline.org/handbook/entries/milburn-amos'
+  - 'https://www.amosmilburn.com/amos-milburn-bio.html'
 network_extracted: true
 entry_created: '2025-12-23T02:01:56.341356'
 last_updated: '2025-12-23T08:16:04.718672'
 gender: Male
 musicbrainz_id: dfa41f72-2f98-4f16-95ea-440cad19db77
 tags:
-- boogie-woogie
-- jump blues
-- piano blues
+  - boogie-woogie
+  - jump blues
+  - piano blues
+is_active: false
+origin: 'Los Angeles, California, United States'
 ---
 
 ![](amos_milburn.jpg)

@@ -3,17 +3,17 @@ title: Walter Bishop Jr
 wiki_slug: walter-bishop-jr
 schema_version: 2
 status: active
-birth_place: New York, New York, United States
+birth_place: 'New York, New York, United States'
 genres:
-- hard bop
-- bebop
+  - hard bop
+  - bebop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/walter_bishop_jr.jpg
   caption: Walter Bishop Jr
   background: solo_singer
-  origin: New York, New York, United States
+  origin: 'New York, New York, United States'
 audio_profile:
-  tempo_avg: 118.0
+  tempo_avg: 118
   energy_avg: 0.459
   valence_avg: 0.616
   danceability_avg: 0.519
@@ -27,65 +27,68 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Charlie Parker
-  - Miles Davis
-  - Art Blakey
-  - Sonny Rollins
-  - Oscar Pettiford
-  - Kai Winding
-  - Milt Jackson
-  - Stan Getz
-  - Jackie McLean
-  - Curtis Fuller
-  - Terry Gibbs
-  - Clark Terry
-  - Blue Mitchell
-  - Supersax
-  - Jimmy Garrison
-  - G.T. Hogan
+    - Charlie Parker
+    - Miles Davis
+    - Art Blakey
+    - Sonny Rollins
+    - Oscar Pettiford
+    - Kai Winding
+    - Milt Jackson
+    - Stan Getz
+    - Jackie McLean
+    - Curtis Fuller
+    - Terry Gibbs
+    - Clark Terry
+    - Blue Mitchell
+    - Supersax
+    - Jimmy Garrison
+    - G.T. Hogan
   influenced:
-  - Students at University of Hartford
-  - Jazz improvisation practitioners
+    - Students at University of Hartford
+    - Jazz improvisation practitioners
   mentors:
-  - Bud Powell
-  - Hall Overton
-  - Lyle Spud Murphy
+    - Bud Powell
+    - Hall Overton
+    - Lyle Spud Murphy
 spotify_data:
   followers: 1031
   id: 5VaSA1wwTisDXvhIUee52j
   popularity: 7
-  url: https://open.spotify.com/artist/5VaSA1wwTisDXvhIUee52j
+  url: 'https://open.spotify.com/artist/5VaSA1wwTisDXvhIUee52j'
 discography_enriched: true
 top_tracks:
-- Compulsion (The Greatest Jazz Albums of 1956, Vol. 1)
-- The Serpent's Tooth (Take 2) (The Greatest Jazz Albums of 1956, Vol. 1)
-- '''Round Midnight (The Greatest Jazz Albums of 1956, Vol. 1)'
-- The Serpent's Tooth (Take 2) (The Greatest Jazz Albums of 1956, Vol. 1)
-- Speak Low (Take 6) (Milestones)
-- Speak Low (Blues in the Closet)
-- Sometimes I'm Happy (Blues in the Closet)
-- Blues in the Closet (Blues in the Closet)
-- On Green Dolphin Street (Blues in the Closet)
-- Alone Together (Blues in the Closet)
+  - 'Compulsion (The Greatest Jazz Albums of 1956, Vol. 1)'
+  - 'The Serpent''s Tooth (Take 2) (The Greatest Jazz Albums of 1956, Vol. 1)'
+  - '''Round Midnight (The Greatest Jazz Albums of 1956, Vol. 1)'
+  - 'The Serpent''s Tooth (Take 2) (The Greatest Jazz Albums of 1956, Vol. 1)'
+  - Speak Low (Take 6) (Milestones)
+  - Speak Low (Blues in the Closet)
+  - Sometimes I'm Happy (Blues in the Closet)
+  - Blues in the Closet (Blues in the Closet)
+  - On Green Dolphin Street (Blues in the Closet)
+  - Alone Together (Blues in the Closet)
 external_urls:
-  spotify: https://open.spotify.com/artist/5VaSA1wwTisDXvhIUee52j
+  spotify: 'https://open.spotify.com/artist/5VaSA1wwTisDXvhIUee52j'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/walter_bishop_jr.jpg
 biography_enhanced_at: '2025-11-26T07:49:37.061847'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- kids.kiddle.co - Walter Bishop Jr. Facts for Kids
-- fromthevaults-boppinbob.blogspot.com - Walter Bishop Jr. born 10 April 1927
-- bluenote.com - Walter Bishop Jr.
-- allaboutjazz.com - Walter Bishop, Jr. Musician
-- youtube.com - Bish Bash - The Walter Bishop, Jr. Story
-- 'nameexplorer.urbanarchive.org - Curated Collection: Prevailers of the Arts'
-- latimes.com - Walter Bishop Jr.; Jazz Pianist Recorded With Parker, Davis
-- allmusic.com - Walter Bishop, Jr. Songs, Albums, Reviews, Bio
+  - kids.kiddle.co - Walter Bishop Jr. Facts for Kids
+  - fromthevaults-boppinbob.blogspot.com - Walter Bishop Jr. born 10 April 1927
+  - bluenote.com - Walter Bishop Jr.
+  - 'allaboutjazz.com - Walter Bishop, Jr. Musician'
+  - 'youtube.com - Bish Bash - The Walter Bishop, Jr. Story'
+  - 'nameexplorer.urbanarchive.org - Curated Collection: Prevailers of the Arts'
+  - 'latimes.com - Walter Bishop Jr.; Jazz Pianist Recorded With Parker, Davis'
+  - 'allmusic.com - Walter Bishop, Jr. Songs, Albums, Reviews, Bio'
 network_extracted: true
 entry_created: '2025-11-26T07:49:37.061858'
 last_updated: '2025-12-23T08:16:17.972507'
+birth_date: '1927-04-10'
+death_date: '1998-01-24'
+artist_type: person
 ---
 
 ![](walter_bishop_jr.jpg)

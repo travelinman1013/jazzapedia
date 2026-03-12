@@ -1,10 +1,10 @@
 ---
 biography_enhanced_at: '2026-01-09T01:50:07.144633'
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-09T01:50:07.144642'
 external_urls:
-  spotify: https://open.spotify.com/artist/1naPJD6nVkJHmDWnZ47kN2
+  spotify: 'https://open.spotify.com/artist/1naPJD6nVkJHmDWnZ47kN2'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/odd_the_artist.jpg
@@ -16,16 +16,18 @@ musical_connections:
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.oddtheartist.com/about
-- https://www.oddtheartist.com
-- https://www.offbeat.com/articles/a-conversation-with-odd-the-artist/
+  - 'https://www.oddtheartist.com/about'
+  - 'https://www.oddtheartist.com'
+  - 'https://www.offbeat.com/articles/a-conversation-with-odd-the-artist/'
 spotify_data:
   followers: 362
   id: 1naPJD6nVkJHmDWnZ47kN2
   popularity: 2
-  url: https://open.spotify.com/artist/1naPJD6nVkJHmDWnZ47kN2
+  url: 'https://open.spotify.com/artist/1naPJD6nVkJHmDWnZ47kN2'
 status: active
 title: Odd The Artist
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](odd_the_artist.jpg)

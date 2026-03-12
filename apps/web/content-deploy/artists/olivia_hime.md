@@ -3,13 +3,13 @@ title: Olivia Hime
 wiki_slug: olivia-hime
 schema_version: 2
 status: active
-birth_place: Rio de Janeiro, Rio de Janeiro, Brazil
+birth_place: 'Rio de Janeiro, Rio de Janeiro, Brazil'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/olivia_hime.jpg
   caption: Olivia Hime
   background: solo_singer
-  origin: Rio de Janeiro, Rio de Janeiro, Brazil
+  origin: 'Rio de Janeiro, Rio de Janeiro, Brazil'
 audio_profile:
   tempo_avg: 91.4
   energy_avg: 0.031
@@ -25,49 +25,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Francis Hime
-  - Various Biscoito Fino artists (e.g., Maria Bethânia, João Bosco, Chico Buarque, Paulinho da Viola, Djavan, Gilberto Gil,
-    Milton Nascimento, Caetano Veloso)
-  - Poets and lyricists associated with her 1980s projects
+    - Francis Hime
+    - >-
+      Various Biscoito Fino artists (e.g., Maria Bethânia, João Bosco, Chico
+      Buarque, Paulinho da Viola, Djavan, Gilberto Gil, Milton Nascimento,
+      Caetano Veloso)
+    - Poets and lyricists associated with her 1980s projects
   influenced:
-  - Younger MPB and choro artists on the Biscoito Fino roster
+    - Younger MPB and choro artists on the Biscoito Fino roster
   mentors:
-  - Miúcha
-  - Francis Hime
+    - Miúcha
+    - Francis Hime
 spotify_data:
   followers: 193
   id: 0n4VpRA6e5Cd3snLrusqeA
   popularity: 30
-  url: https://open.spotify.com/artist/0n4VpRA6e5Cd3snLrusqeA
+  url: 'https://open.spotify.com/artist/0n4VpRA6e5Cd3snLrusqeA'
 discography_enriched: true
 top_tracks:
-- Translucent night (Translucent night)
-- Boy Blowing Bubbles (Boy Blowing Bubbles)
-- Interbeing (Interbeing)
-- Jouska (Jouska)
-- Seek out the seed (Seek out the seed)
-- The silence is ours (The silence is ours)
-- Wandering around (Wandering around)
-- Petal skin (Blooming desert)
-- Aerial roots (Blooming desert)
-- Forgotten dreams in a cave (Forgotten dreams in a cave)
+  - Translucent night (Translucent night)
+  - Boy Blowing Bubbles (Boy Blowing Bubbles)
+  - Interbeing (Interbeing)
+  - Jouska (Jouska)
+  - Seek out the seed (Seek out the seed)
+  - The silence is ours (The silence is ours)
+  - Wandering around (Wandering around)
+  - Petal skin (Blooming desert)
+  - Aerial roots (Blooming desert)
+  - Forgotten dreams in a cave (Forgotten dreams in a cave)
 external_urls:
-  spotify: https://open.spotify.com/artist/0n4VpRA6e5Cd3snLrusqeA
-  wikipedia: https://en.wikipedia.org/wiki/Olivia_Hime
+  spotify: 'https://open.spotify.com/artist/0n4VpRA6e5Cd3snLrusqeA'
+  wikipedia: 'https://en.wikipedia.org/wiki/Olivia_Hime'
 image_path: 03_Resources/source_material/ArtistPortraits/olivia_hime.jpg
 biography_enhanced_at: '2025-12-07T04:45:02.691179'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Olivia_Hime
-- https://www.allmusic.com/artist/olivia-hime-mn0000374002
-- https://www.iheart.com/artist/olivia-hime-139916/
-- https://tootoot.fm/sk/5477122a90165009088e9003
-- https://www.slipcue.com/music/brazil/hime_francis_01.html
-- https://prostopleer.com/artist/6955719/olivia-hime?tab=about
+  - 'https://en.wikipedia.org/wiki/Olivia_Hime'
+  - 'https://www.allmusic.com/artist/olivia-hime-mn0000374002'
+  - 'https://www.iheart.com/artist/olivia-hime-139916/'
+  - 'https://tootoot.fm/sk/5477122a90165009088e9003'
+  - 'https://www.slipcue.com/music/brazil/hime_francis_01.html'
+  - 'https://prostopleer.com/artist/6955719/olivia-hime?tab=about'
 network_extracted: true
 entry_created: '2025-12-07T04:45:02.691190'
 last_updated: '2025-12-23T08:16:13.735583'
+birth_date: '1943-06-25'
+artist_type: person
 ---
 
 ![](olivia_hime.jpg)

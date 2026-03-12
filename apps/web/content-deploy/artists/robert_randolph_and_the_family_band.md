@@ -1,96 +1,99 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2025-12-29T01:15:37.049273'
-birth_date: '2001-08-08'
+birth_date: '1977-08-08'
 enhancement_provider: perplexity
 entry_created: '2025-12-29T01:15:37.049285'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ff27816c-b641-4087-8ac2-89a923f4af42
-  spotify: https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR
-  wikipedia: https://en.wikipedia.org/wiki/Robert_Randolph_and_the_Family_Band
+  musicbrainz: 'https://musicbrainz.org/artist/ff27816c-b641-4087-8ac2-89a923f4af42'
+  spotify: 'https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR'
+  wikipedia: 'https://en.wikipedia.org/wiki/Robert_Randolph_and_the_Family_Band'
 genres:
-- modern blues
-- roots rock
-- blues
-- blues rock
-image_path: 03_Resources/source_material/ArtistPortraits/robert_randolph_and_the_family_band.jpg
+  - modern blues
+  - roots rock
+  - blues
+  - blues rock
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/robert_randolph_and_the_family_band.jpg
 instruments:
-- original
+  - original
 last_updated: '2025-12-29T01:15:37.049286'
 members:
-- &id001
-  begin: '2004'
-  end: ''
-  instruments: []
-  mbid: d1f1c5dc-fc4e-440c-b71e-000dadcf7a24
-  name: Jason Crosby
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 89eccbc6-767f-435e-8815-5eba11dd54e8
-  name: John Ginty
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d77a3dff-0cd4-4fc5-8dc5-527648b8940c
-  name: Brett Haas
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3f61a1a3-027a-4e91-bcca-92846e58b1ad
-  name: Danyel Morgan
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 16c3bfcd-285f-4270-9638-8691bbd32c85
-  name: Lenesha Randolph
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 95f10d61-2adc-4a11-a8e8-0a2091c583f8
-  name: Marcus Randolph
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 1bfae567-61d5-4dbc-b368-198e547fe729
-  name: Robert Randolph
+  - &ref_0
+    begin: '2004'
+    end: ''
+    instruments: []
+    mbid: d1f1c5dc-fc4e-440c-b71e-000dadcf7a24
+    name: Jason Crosby
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 89eccbc6-767f-435e-8815-5eba11dd54e8
+    name: John Ginty
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d77a3dff-0cd4-4fc5-8dc5-527648b8940c
+    name: Brett Haas
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3f61a1a3-027a-4e91-bcca-92846e58b1ad
+    name: Danyel Morgan
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 16c3bfcd-285f-4270-9638-8691bbd32c85
+    name: Lenesha Randolph
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 95f10d61-2adc-4a11-a8e8-0a2091c583f8
+    name: Marcus Randolph
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 1bfae567-61d5-4dbc-b368-198e547fe729
+    name: Robert Randolph
 musical_connections:
   collaborators:
-  - John Medeski
-  - Eric Clapton
-  - Danyel Morgan
-  - Marcus Randolph
-  - Lenesha Randolph
-  - T-Bone Burnett
+    - John Medeski
+    - Eric Clapton
+    - Danyel Morgan
+    - Marcus Randolph
+    - Lenesha Randolph
+    - T-Bone Burnett
   influenced: []
   mentors:
-  - House of God Church musicians
+    - House of God Church musicians
 musicbrainz_id: ff27816c-b641-4087-8ac2-89a923f4af42
 network_extracted: true
-origin: Orange
+origin: 'Orange, New Jersey, United States'
 original_members:
-- *id001
+  - *ref_0
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Robert_Randolph_and_the_Family_Band
-- https://playingforchange.com/artists/robert-randolph
-- https://www.bluenote.com/artist/robert-randolph-the-family-band/
-- https://www.hollywoodbowl.com/musicdb/artists/4500/robert-randolph-the-family-band
-- https://www.mascotlabelgroup.com/pages/robert-randolph-the-family-band-biography
+  - 'https://en.wikipedia.org/wiki/Robert_Randolph_and_the_Family_Band'
+  - 'https://playingforchange.com/artists/robert-randolph'
+  - 'https://www.bluenote.com/artist/robert-randolph-the-family-band/'
+  - >-
+    https://www.hollywoodbowl.com/musicdb/artists/4500/robert-randolph-the-family-band
+  - >-
+    https://www.mascotlabelgroup.com/pages/robert-randolph-the-family-band-biography
 spotify_data:
   followers: 81144
   id: 4xac3zhHlBm5QDxbZeqgeR
   popularity: 39
-  url: https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR
+  url: 'https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR'
 status: active
 tags:
-- funk
-- gospel
-- jam band
+  - funk
+  - gospel
+  - jam band
 title: Robert Randolph & The Family Band
-
+birth_place: 'Irvington, New Jersey, United States'
 ---
 
 ![](robert_randolph_and_the_family_band.jpg)

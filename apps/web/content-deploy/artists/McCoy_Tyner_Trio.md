@@ -2,18 +2,18 @@
 title: McCoy Tyner Trio
 wiki_slug: mccoy-tyner-trio
 schema_version: 2
-artist_type: Group
+artist_type: person
 status: active
 genres:
-- hard bop
-- jazz
-- bebop
+  - hard bop
+  - jazz
+  - bebop
 instruments:
-- drums (drum set)
-- double bass
-- eponymous
-- original
-- piano
+  - drums (drum set)
+  - double bass
+  - eponymous
+  - original
+  - piano
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/McCoy_Tyner_Trio.jpg
   caption: McCoy Tyner Trio
@@ -33,56 +33,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John Coltrane
-  - Elvin Jones
-  - Jimmy Garrison
-  - Avery Sharpe
-  - Louis Hayes
+    - John Coltrane
+    - Elvin Jones
+    - Jimmy Garrison
+    - Avery Sharpe
+    - Louis Hayes
   influenced:
-  - Chick Corea
-  - Herbie Hancock
-  - Brad Mehldau
+    - Chick Corea
+    - Herbie Hancock
+    - Brad Mehldau
   mentors:
-  - Bud Powell
-  - Thelonious Monk
+    - Bud Powell
+    - Thelonious Monk
 spotify_data:
   followers: 25368
   id: 1EpLpC0tbCla8knfhET78p
   popularity: 32
-  url: https://open.spotify.com/artist/1EpLpC0tbCla8knfhET78p
+  url: 'https://open.spotify.com/artist/1EpLpC0tbCla8knfhET78p'
 discography_enriched: true
 top_tracks:
-- Have You Met Miss Jones (Reaching Fourth)
-- Blues Stride (Infinity)
-- Goodbye (Reaching Fourth)
-- Sunset (Inception)
-- Reaching Fourth (Reaching Fourth)
-- Speak Low (Inception)
-- Sunset - 2018 Digitally Remastered (Inception)
-- Speak Low - 2018 Digitally Remastered (Inception)
-- There Is No Greater Love (Inception)
-- Blues Back (Reaching Fourth)
+  - Have You Met Miss Jones (Reaching Fourth)
+  - Blues Stride (Infinity)
+  - Goodbye (Reaching Fourth)
+  - Sunset (Inception)
+  - Reaching Fourth (Reaching Fourth)
+  - Speak Low (Inception)
+  - Sunset - 2018 Digitally Remastered (Inception)
+  - Speak Low - 2018 Digitally Remastered (Inception)
+  - There Is No Greater Love (Inception)
+  - Blues Back (Reaching Fourth)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/de60490f-8f0a-4011-8a84-0c26ccccb6c0
-  spotify: https://open.spotify.com/artist/1EpLpC0tbCla8knfhET78p
-  wikipedia: https://en.wikipedia.org/wiki/McCoy_Tyner
+  musicbrainz: 'https://musicbrainz.org/artist/de60490f-8f0a-4011-8a84-0c26ccccb6c0'
+  spotify: 'https://open.spotify.com/artist/1EpLpC0tbCla8knfhET78p'
+  wikipedia: 'https://en.wikipedia.org/wiki/McCoy_Tyner'
 image_path: 03_Resources/source_material/ArtistPortraits/McCoy_Tyner_Trio.jpg
 biography_enhanced_at: '2025-10-20T09:45:02.801254'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/McCoy_Tyner
-- https://www.ebsco.com/research-starters/music/mccoy-tyner
-- https://jazzfuel.com/pianist-mccoy-tyner/
-- https://www.arts.gov/honors/jazz/mccoy-tyner
+  - 'https://en.wikipedia.org/wiki/McCoy_Tyner'
+  - 'https://www.ebsco.com/research-starters/music/mccoy-tyner'
+  - 'https://jazzfuel.com/pianist-mccoy-tyner/'
+  - 'https://www.arts.gov/honors/jazz/mccoy-tyner'
 network_extracted: true
 entry_created: '2025-10-20T09:45:02.801269'
 last_updated: '2025-12-23T08:16:03.262533'
 musicbrainz_enriched_at: '2025-10-21T09:37:32.948878'
 musicbrainz_id: de60490f-8f0a-4011-8a84-0c26ccccb6c0
-origin: Philadelphia, Pennsylvania, United States
+origin: 'Philadelphia, Pennsylvania, United States'
 tags:
-- jazz
+  - jazz
+birth_place: 'Philadelphia, Pennsylvania, United States'
 ---
 
 ![](McCoy_Tyner_Trio.jpg)

@@ -1,114 +1,117 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  - vibraphone
-  - xylophone
-  mbid: 6c211486-5576-4467-87cc-ed7eee7c59cb
-  name: Red Norvo and His Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 209b7689-51fc-45f6-b811-1753083848db
-  name: Red Norvo's Blackhawk Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 636c40f9-864f-46eb-9b91-7e643a8e0a61
-  name: Red Norvo & His Selected Sextet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: bb3e0bd8-a426-4718-9651-3fbc7c7d4453
-  name: The Red Norvo Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f5ae54fd-a332-4e3a-86a7-cf54254f11be
-  name: Julia Lee & Her Boy Friends
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: a9f8f6e7-ec22-46b9-b324-7a09a90539a8
-  name: Red Norvo Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: a0d650b7-3836-4232-9900-62e21de47451
-  name: Red Norvo All-Stars
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - vibraphone
+      - xylophone
+    mbid: 6c211486-5576-4467-87cc-ed7eee7c59cb
+    name: Red Norvo and His Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 209b7689-51fc-45f6-b811-1753083848db
+    name: Red Norvo's Blackhawk Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 636c40f9-864f-46eb-9b91-7e643a8e0a61
+    name: Red Norvo & His Selected Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: bb3e0bd8-a426-4718-9651-3fbc7c7d4453
+    name: The Red Norvo Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f5ae54fd-a332-4e3a-86a7-cf54254f11be
+    name: Julia Lee & Her Boy Friends
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: a9f8f6e7-ec22-46b9-b324-7a09a90539a8
+    name: Red Norvo Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: a0d650b7-3836-4232-9900-62e21de47451
+    name: Red Norvo All-Stars
 biography_enhanced_at: '2025-12-28T01:45:36.526894'
 birth_date: '1908-03-31'
-birth_place: Beardstown
+birth_place: 'Beardstown, Illinois, United States'
 death_date: '1999-04-06'
 enhancement_provider: perplexity
 entry_created: '2025-12-28T01:45:36.526910'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/54badd18-ff72-4409-bd06-acf6b0011529
-  spotify: https://open.spotify.com/artist/6TDBjaKrCj3BvbxhiUSbog
-  wikipedia: https://en.wikipedia.org/wiki/Red_Norvo
+  musicbrainz: 'https://musicbrainz.org/artist/54badd18-ff72-4409-bd06-acf6b0011529'
+  spotify: 'https://open.spotify.com/artist/6TDBjaKrCj3BvbxhiUSbog'
+  wikipedia: 'https://en.wikipedia.org/wiki/Red_Norvo'
 gender: Male
 genres:
-- swing music
-- big band
-- cool jazz
-- bebop
-- jazz
+  - swing music
+  - big band
+  - cool jazz
+  - bebop
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/red_norvo.jpg
 instruments:
-- eponymous
-- original
-- vibraphone
-- xylophone
-- piano
+  - eponymous
+  - original
+  - vibraphone
+  - xylophone
+  - piano
 last_updated: '2025-12-28T01:45:36.526912'
 musical_connections:
   collaborators:
-  - Mildred Bailey
-  - Benny Goodman
-  - Charlie Parker
-  - Dizzy Gillespie
-  - Tal Farlow
-  - Charles Mingus
-  - Woody Herman
-  - Frank Sinatra
+    - Mildred Bailey
+    - Benny Goodman
+    - Charlie Parker
+    - Dizzy Gillespie
+    - Tal Farlow
+    - Charles Mingus
+    - Woody Herman
+    - Frank Sinatra
   influenced:
-  - Charles Mingus
-  - Later vibraphonists and mallet players (e.g., post‑war modern jazz vibraphonists)
+    - Charles Mingus
+    - >-
+      Later vibraphonists and mallet players (e.g., post‑war modern jazz
+      vibraphonists)
   mentors:
-  - Paul Whiteman
-  - Vaudeville marimba and xylophone tradition
+    - Paul Whiteman
+    - Vaudeville marimba and xylophone tradition
 musicbrainz_id: 54badd18-ff72-4409-bd06-acf6b0011529
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- All About Jazz – Red Norvo musician profile[1]
-- National Jazz Archive – Red Norvo biography and interview[2]
-- The Corn Latitudes – Red Norvo profile[3]
-- 'The Syncopated Times – “Red Norvo and Mildred Bailey: Mr and Mrs. Swing”[4]'
-- Blue Note Records – Red Norvo artist bio[5]
-- NAMM Oral History – Red Norvo[6]
-- Discography of American Historical Recordings – Red Norvo entry[7]
+  - 'All About Jazz – Red Norvo musician profile[1]'
+  - 'National Jazz Archive – Red Norvo biography and interview[2]'
+  - 'The Corn Latitudes – Red Norvo profile[3]'
+  - 'The Syncopated Times – “Red Norvo and Mildred Bailey: Mr and Mrs. Swing”[4]'
+  - 'Blue Note Records – Red Norvo artist bio[5]'
+  - 'NAMM Oral History – Red Norvo[6]'
+  - 'Discography of American Historical Recordings – Red Norvo entry[7]'
 spotify_data:
   followers: 3464
   id: 6TDBjaKrCj3BvbxhiUSbog
   popularity: 20
-  url: https://open.spotify.com/artist/6TDBjaKrCj3BvbxhiUSbog
+  url: 'https://open.spotify.com/artist/6TDBjaKrCj3BvbxhiUSbog'
 status: active
 tags:
-- 2008 universal fire victim
-- bebop
-- cool jazz
+  - 2008 universal fire victim
+  - bebop
+  - cool jazz
 title: Red Norvo
+is_active: false
 ---
 
 ![](red_norvo.jpg)

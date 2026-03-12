@@ -2,16 +2,16 @@
 title: Vijay Iyer Trio
 wiki_slug: vijay-iyer-trio
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 genres:
-- jazz
+  - jazz
 instruments:
-- double bass
-- original
-- drums (drum set)
-- eponymous
-- piano
+  - double bass
+  - original
+  - drums (drum set)
+  - eponymous
+  - piano
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/vijay_iyer_trio.jpg
   caption: Vijay Iyer Trio
@@ -31,81 +31,82 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Marcus Gilmore
-  - Stephan Crump
-  - Rudresh Mahanthappa
+    - Marcus Gilmore
+    - Stephan Crump
+    - Rudresh Mahanthappa
   influenced:
-  - Tyshawn Sorey
-  - Linda May Han Oh
+    - Tyshawn Sorey
+    - Linda May Han Oh
   mentors:
-  - Steve Coleman
+    - Steve Coleman
 spotify_data:
   followers: 19891
   id: 52rI38ygJY9W8u2aB4B4sM
   popularity: 14
-  url: https://open.spotify.com/artist/52rI38ygJY9W8u2aB4B4sM
+  url: 'https://open.spotify.com/artist/52rI38ygJY9W8u2aB4B4sM'
 discography_enriched: true
 top_tracks:
-- Human Nature (Trio Extension) (Accelerando (Bonus Track Version))
-- Starlings (Break Stuff)
-- Work (Break Stuff)
-- The Star of a Story (Accelerando (Bonus Track Version))
-- Hood (Break Stuff)
-- Chorale (Break Stuff)
-- Break Stuff (Break Stuff)
-- Diptych (Break Stuff)
-- Optimism (Accelerando (Bonus Track Version))
-- Taking Flight (Break Stuff)
+  - Human Nature (Trio Extension) (Accelerando (Bonus Track Version))
+  - Starlings (Break Stuff)
+  - Work (Break Stuff)
+  - The Star of a Story (Accelerando (Bonus Track Version))
+  - Hood (Break Stuff)
+  - Chorale (Break Stuff)
+  - Break Stuff (Break Stuff)
+  - Diptych (Break Stuff)
+  - Optimism (Accelerando (Bonus Track Version))
+  - Taking Flight (Break Stuff)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d922fda2-1d1c-4c26-b3f8-4eaff1eda85d
-  spotify: https://open.spotify.com/artist/52rI38ygJY9W8u2aB4B4sM
-  wikipedia: https://en.wikipedia.org/wiki/Vijay_Iyer
+  musicbrainz: 'https://musicbrainz.org/artist/d922fda2-1d1c-4c26-b3f8-4eaff1eda85d'
+  spotify: 'https://open.spotify.com/artist/52rI38ygJY9W8u2aB4B4sM'
+  wikipedia: 'https://en.wikipedia.org/wiki/Vijay_Iyer'
 image_path: 03_Resources/source_material/ArtistPortraits/vijay_iyer_trio.jpg
 biography_enhanced_at: '2025-11-20T06:31:04.209390'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://jazztimes.com/features/profiles/artist-spotlight-vijay-iyer/
-- https://www.sfcv.org/articles/feature/essential-vijay-iyer
-- https://www.macfound.org/fellows/class-of-2013/vijay-iyer
-- https://en.wikipedia.org/wiki/Vijay_Iyer
-- https://vijay-iyer.com/wp-content/uploads/2025/08/Vijay-Iyer-Bio-Summer2025.pdf
+  - 'https://jazztimes.com/features/profiles/artist-spotlight-vijay-iyer/'
+  - 'https://www.sfcv.org/articles/feature/essential-vijay-iyer'
+  - 'https://www.macfound.org/fellows/class-of-2013/vijay-iyer'
+  - 'https://en.wikipedia.org/wiki/Vijay_Iyer'
+  - >-
+    https://vijay-iyer.com/wp-content/uploads/2025/08/Vijay-Iyer-Bio-Summer2025.pdf
 network_extracted: true
 entry_created: '2025-11-20T06:31:04.209401'
 last_updated: '2025-12-23T08:16:17.892059'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - double bass
-  - original
-  mbid: 5cbef1be-ed92-4395-ac63-c6b000096de6
-  name: Stephan Crump
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  - original
-  mbid: d3694b9d-a6e0-4b2a-ac39-c38a3a774412
-  name: Marcus Gilmore
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 0f8a7f78-5f90-425a-b72d-d9672c632f23
-  name: Brad Hargreaves
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  - piano
-  mbid: ba2ff5ad-b5a4-499b-aac1-b31fd093112b
-  name: Vijay Iyer
+  - begin: ''
+    end: ''
+    instruments:
+      - double bass
+      - original
+    mbid: 5cbef1be-ed92-4395-ac63-c6b000096de6
+    name: Stephan Crump
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+      - original
+    mbid: d3694b9d-a6e0-4b2a-ac39-c38a3a774412
+    name: Marcus Gilmore
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 0f8a7f78-5f90-425a-b72d-d9672c632f23
+    name: Brad Hargreaves
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - piano
+    mbid: ba2ff5ad-b5a4-499b-aac1-b31fd093112b
+    name: Vijay Iyer
 musicbrainz_id: d922fda2-1d1c-4c26-b3f8-4eaff1eda85d
-origin: Albany, New York, United States
+origin: 'Albany, New York, United States'
 tags:
-- jazz
+  - jazz
 ---
 
 ![](vijay_iyer_trio.jpg)

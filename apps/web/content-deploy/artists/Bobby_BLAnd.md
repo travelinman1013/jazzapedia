@@ -5,22 +5,22 @@ schema_version: 2
 status: deceased
 aliases: []
 birth_date: '1930-01-27'
-birth_place: Rosemark
+birth_place: 'Rosemark, Tennessee, United States'
 death_date: '2013-06-23'
 years_active: 1950-2013
 genres:
-- blues
-- soul blues
-- classic blues
-- soul
+  - blues
+  - soul blues
+  - classic blues
+  - soul
 instruments:
-- harmonica
-- voice
+  - harmonica
+  - voice
 occupation:
-- singer
+  - singer
 record_labels:
-- Duke
-- Dunhill
+  - Duke
+  - Dunhill
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Bobby_Blue_Bland.jpg
   caption: Bobby "Blue" Bland
@@ -46,32 +46,38 @@ spotify_data:
   followers: 176647
   id: 48nwxUvPJZkm8uPa7xMzmj
   popularity: 53
-  url: https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj
+  url: 'https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj'
   verified: false
 discography_enriched: true
 albums_count: 33
 singles_count: 3
 top_tracks:
-- Ain't No Love In The Heart Of The City - Single Version (Dreamer)
-- Ain't No Love In The Heart Of The City - Single Version (Music For Groovin')
-- 'I''ll Take Care Of You (I Pity The Fool: The Duke Recordings, Vol. One)'
-- I Wouldn't Treat A Dog (The Way You Treated Me) - Single Version (Dreamer)
-- Ain't No Sunshine When She's Gone (Midnight Run)
-- 'Stormy Monday Blues - Single Version (Turn On Your Love Light: The Duke Recordings Volume 2)'
-- Driftin' Blues - Single Version (That's It! / Duke Recordings Vol. III)
-- Members Only (Members Only)
-- 'Turn On Your Love Light (Turn On Your Love Light: The Duke Recordings Volume 2)'
-- 'Farther Up The Road (I Pity The Fool: The Duke Recordings, Vol. One)'
+  - Ain't No Love In The Heart Of The City - Single Version (Dreamer)
+  - Ain't No Love In The Heart Of The City - Single Version (Music For Groovin')
+  - 'I''ll Take Care Of You (I Pity The Fool: The Duke Recordings, Vol. One)'
+  - I Wouldn't Treat A Dog (The Way You Treated Me) - Single Version (Dreamer)
+  - Ain't No Sunshine When She's Gone (Midnight Run)
+  - >-
+    Stormy Monday Blues - Single Version (Turn On Your Love Light: The Duke
+    Recordings Volume 2)
+  - Driftin' Blues - Single Version (That's It! / Duke Recordings Vol. III)
+  - Members Only (Members Only)
+  - >-
+    Turn On Your Love Light (Turn On Your Love Light: The Duke Recordings Volume
+    2)
+  - 'Farther Up The Road (I Pity The Fool: The Duke Recordings, Vol. One)'
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj
-  wikipedia: https://en.wikipedia.org/wiki/Bobby_Bland
+  spotify: 'https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bobby_Bland'
 image_path: 03_Resources/source_material/ArtistPortraits/Bobby_Blue_Bland.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-18T16:21:56.005418'
-entry_created: 2025-09-18 11:43:41.742947
+entry_created: 2025-09-18T11:43:41.742Z
 last_updated: '2025-12-23T08:16:01.266110'
-
+is_active: false
+artist_type: person
+origin: 'Memphis, Tennessee, United States'
 ---
 
 ![](Bobby_Blue_Bland.jpg)

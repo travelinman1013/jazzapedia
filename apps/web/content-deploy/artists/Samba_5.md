@@ -4,9 +4,9 @@ wiki_slug: samba-5
 schema_version: 2
 status: active
 genres:
-- bossa nova
-- brazilian jazz
-- latin jazz
+  - bossa nova
+  - brazilian jazz
+  - latin jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Samba_5.jpg
   caption: Samba 5
@@ -32,33 +32,34 @@ spotify_data:
   followers: 8566
   id: 4KtH5Ery1JspML3ECanPmZ
   popularity: 36
-  url: https://open.spotify.com/artist/4KtH5Ery1JspML3ECanPmZ
+  url: 'https://open.spotify.com/artist/4KtH5Ery1JspML3ECanPmZ'
 discography_enriched: true
 top_tracks:
-- San Salvador (Samba Blim)
-- Samba Blim (Samba Blim)
-- We And The Sea (Nos e ou Mar) (We And The Sea)
-- Moca Flor (Flower Girl) (We And The Sea)
-- Chant Of Ossanha (Canto de Ossanha) (We And The Sea)
-- Weekend (Samba Blim)
-- Watch What Happens (Samba Blim)
-- Know It All (Samba Blim)
-- Reza (Samba Blim)
-- The Dolphin (We And The Sea)
+  - San Salvador (Samba Blim)
+  - Samba Blim (Samba Blim)
+  - We And The Sea (Nos e ou Mar) (We And The Sea)
+  - Moca Flor (Flower Girl) (We And The Sea)
+  - Chant Of Ossanha (Canto de Ossanha) (We And The Sea)
+  - Weekend (Samba Blim)
+  - Watch What Happens (Samba Blim)
+  - Know It All (Samba Blim)
+  - Reza (Samba Blim)
+  - The Dolphin (We And The Sea)
 external_urls:
-  spotify: https://open.spotify.com/artist/4KtH5Ery1JspML3ECanPmZ
+  spotify: 'https://open.spotify.com/artist/4KtH5Ery1JspML3ECanPmZ'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/Samba_5.jpg
 biography_enhanced_at: '2025-10-19T12:31:21.686758'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Spotify artist context (user-provided)
-- Wikipedia (no entry found for 'Samba 5')
-- Last.fm (no entry found for 'Samba 5')
+  - Spotify artist context (user-provided)
+  - Wikipedia (no entry found for 'Samba 5')
+  - Last.fm (no entry found for 'Samba 5')
 network_extracted: true
 entry_created: '2025-10-19T12:31:21.686781'
 last_updated: '2025-12-23T08:16:03.809111'
+artist_type: band
 ---
 
 ![](Samba_5.jpg)

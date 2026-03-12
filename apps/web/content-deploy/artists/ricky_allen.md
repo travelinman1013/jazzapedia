@@ -1,44 +1,49 @@
 ---
 biography_enhanced_at: '2026-01-06T02:08:23.634667'
-birth_place: Nashville, Tennessee, USA
+birth_place: 'Nashville, Tennessee, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-06T02:08:23.634672'
 external_urls:
-  spotify: https://open.spotify.com/artist/1EGGhNXF3kEjiw6Z1fL7P6
-  wikipedia: https://en.wikipedia.org/wiki/Ricky_Allen
+  spotify: 'https://open.spotify.com/artist/1EGGhNXF3kEjiw6Z1fL7P6'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ricky_Allen'
 genres:
-- musicals
+  - musicals
 image_path: 03_Resources/source_material/ArtistPortraits/ricky_allen.jpg
 last_updated: '2026-01-06T02:08:23.634673'
 musical_connections:
   collaborators:
-  - Frank Swan
-  - A.C. Reed
-  - Earnest Johnson
-  - Ivory Parkes
-  - Sonny Lantz
-  - Bobby Little
+    - Frank Swan
+    - A.C. Reed
+    - Earnest Johnson
+    - Ivory Parkes
+    - Sonny Lantz
+    - Bobby Little
   influenced: []
   mentors:
-  - Mel London
-  - Earl Hooker
-  - James Brown
+    - Mel London
+    - Earl Hooker
+    - James Brown
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Ricky_Allen
-- https://fromthevaults-boppinbob.blogspot.com/2024/01/ricky-allen-born-6-january-1935.html
-- https://www.bear-family.com/allen-ricky/
-- https://home.nestor.minsk.by/jazz/news/2005/06/0204.html
-- https://foxsoundi.com/artist/6785960/ricky-allen
-- https://www.allmusic.com/artist/ricky-allen-mn0000360496
+  - 'https://en.wikipedia.org/wiki/Ricky_Allen'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2024/01/ricky-allen-born-6-january-1935.html
+  - 'https://www.bear-family.com/allen-ricky/'
+  - 'https://home.nestor.minsk.by/jazz/news/2005/06/0204.html'
+  - 'https://foxsoundi.com/artist/6785960/ricky-allen'
+  - 'https://www.allmusic.com/artist/ricky-allen-mn0000360496'
 spotify_data:
   followers: 361
   id: 1EGGhNXF3kEjiw6Z1fL7P6
   popularity: 16
-  url: https://open.spotify.com/artist/1EGGhNXF3kEjiw6Z1fL7P6
+  url: 'https://open.spotify.com/artist/1EGGhNXF3kEjiw6Z1fL7P6'
 status: active
-title: RICKY ALLEN
+title: Ricky Allen
+origin: 'Chicago, Illinois, United States'
+birth_date: '1935-01-06'
+death_date: '2005-05-29'
+artist_type: person
 ---
 
 ![](ricky_allen.jpg)

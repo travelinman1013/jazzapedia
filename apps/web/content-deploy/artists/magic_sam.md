@@ -5,25 +5,25 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1937-02-14'
-birth_place: Grenada
+birth_place: 'Grenada County, Mississippi, United States'
 death_date: '1969-12-01'
 genres:
-- classic blues
-- blues
-- soul blues
+  - classic blues
+  - blues
+  - soul blues
 instruments:
-- electric guitar
-- eponymous
-- guitar
-- lead vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - electric guitar
   - eponymous
-  mbid: a117014e-5927-464b-b553-bcfc773d716a
-  name: Magic Sam Blues Band
+  - guitar
+  - lead vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - electric guitar
+      - eponymous
+    mbid: a117014e-5927-464b-b553-bcfc773d716a
+    name: Magic Sam Blues Band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/magic_sam.jpg
   caption: MAgic Sam
@@ -46,62 +46,66 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Charlie Musselwhite
-  - Buffalo Bruce Barlow
-  - Sam Lay
-  - Billy Stepney
-  - Homesick James Williamson
-  - Shakey Jake Harris
-  - Bob Koester
+    - Charlie Musselwhite
+    - Buffalo Bruce Barlow
+    - Sam Lay
+    - Billy Stepney
+    - Homesick James Williamson
+    - Shakey Jake Harris
+    - Bob Koester
   influenced:
-  - Magic Slim
-  - Generations of blues, R&B, and rock musicians
+    - Magic Slim
+    - 'Generations of blues, R&B, and rock musicians'
   mentors:
-  - Muddy Waters
-  - Little Walter
-  - Syl Johnson
-  - Roy Moses
-  - Willie Dixon
+    - Muddy Waters
+    - Little Walter
+    - Syl Johnson
+    - Roy Moses
+    - Willie Dixon
 spotify_data:
   followers: 75636
   id: 0XErJwG6aCEj7NpKsEZrrO
   popularity: 31
-  url: https://open.spotify.com/artist/0XErJwG6aCEj7NpKsEZrrO
+  url: 'https://open.spotify.com/artist/0XErJwG6aCEj7NpKsEZrrO'
 discography_enriched: true
 top_tracks:
-- 'All Your Love (The Essential Magic Sam: The Cobra and Chief Recordings 1957-1961)'
-- That's All I Need (West Side Soul (Deluxe Edition))
-- Sweet Home Chicago (West Side Soul (Deluxe Edition))
-- Lookin' Good (West Side Soul (Deluxe Edition))
-- I Have The Same Old Blues (Black Magic)
-- I Need You So Bad (West Side Soul (Deluxe Edition))
-- She Belongs to Me (Crash Records Complete)
-- Stop! You're Hurting Me (Black Magic)
-- All Of Your Love (West Side Soul (Deluxe Edition))
-- I Feel So Good (I Wanna Boogie) (West Side Soul (Deluxe Edition))
+  - >-
+    All Your Love (The Essential Magic Sam: The Cobra and Chief Recordings
+    1957-1961)
+  - That's All I Need (West Side Soul (Deluxe Edition))
+  - Sweet Home Chicago (West Side Soul (Deluxe Edition))
+  - Lookin' Good (West Side Soul (Deluxe Edition))
+  - I Have The Same Old Blues (Black Magic)
+  - I Need You So Bad (West Side Soul (Deluxe Edition))
+  - She Belongs to Me (Crash Records Complete)
+  - Stop! You're Hurting Me (Black Magic)
+  - All Of Your Love (West Side Soul (Deluxe Edition))
+  - I Feel So Good (I Wanna Boogie) (West Side Soul (Deluxe Edition))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d1834301-1ca3-4576-a0af-a81479d5c6b6
-  spotify: https://open.spotify.com/artist/0XErJwG6aCEj7NpKsEZrrO
-  wikipedia: https://en.wikipedia.org/wiki/Magic_Sam
+  musicbrainz: 'https://musicbrainz.org/artist/d1834301-1ca3-4576-a0af-a81479d5c6b6'
+  spotify: 'https://open.spotify.com/artist/0XErJwG6aCEj7NpKsEZrrO'
+  wikipedia: 'https://en.wikipedia.org/wiki/Magic_Sam'
 image_path: 03_Resources/source_material/ArtistPortraits/magic_sam.jpg
 biography_enhanced_at: '2025-11-15T18:40:25.911368'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Magic Sam
-- Mississippi Blues Trail - Magic Sam
-- American Blues Scene - 10 Things You Didn't Know About Magic Sam
-- 'The Blues Blogger - Magic Sam: Remembering Blues Hall of Famer'
-- Blues Foundation - Magic Sam
+  - Wikipedia - Magic Sam
+  - Mississippi Blues Trail - Magic Sam
+  - American Blues Scene - 10 Things You Didn't Know About Magic Sam
+  - 'The Blues Blogger - Magic Sam: Remembering Blues Hall of Famer'
+  - Blues Foundation - Magic Sam
 network_extracted: true
 entry_created: '2025-11-15T18:40:25.911379'
 last_updated: '2025-12-23T08:16:12.497894'
 gender: Male
 musicbrainz_id: d1834301-1ca3-4576-a0af-a81479d5c6b6
 tags:
-- blues
-- chicago blues
-- electric blues
+  - blues
+  - chicago blues
+  - electric blues
+is_active: false
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](magic_sam.jpg)

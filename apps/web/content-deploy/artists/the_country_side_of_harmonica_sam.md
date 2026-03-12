@@ -4,16 +4,17 @@ wiki_slug: the-country-side-of-harmonica-sam
 schema_version: 2
 status: active
 genres:
-- honky tonk
-- rockabilly
+  - honky tonk
+  - rockabilly
 instruments:
-- drums (drum set)
+  - drums (drum set)
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/the_country_side_of_harmonica_sam.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/the_country_side_of_harmonica_sam.jpg
   caption: The Country Side Of Harmonica Sam
   background: non_vocal_instrumentalist
 audio_profile:
-  tempo_avg: 128.0
+  tempo_avg: 128
   energy_avg: 0.459
   valence_avg: 0.84
   danceability_avg: 0.606
@@ -27,59 +28,66 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Peter Andersson
-  - Ulrik Jansson
-  - Patrik Malmros
-  - Johan Bandling Melin
-  - Boppin’ Steve and The Domestic Bumblebees
+    - Peter Andersson
+    - Ulrik Jansson
+    - Patrik Malmros
+    - Johan Bandling Melin
+    - Boppin’ Steve and The Domestic Bumblebees
   influenced: []
   mentors:
-  - Boppin’ Steve & The Playtones
+    - Boppin’ Steve & The Playtones
 spotify_data:
   followers: 13077
   id: 2h1yu5lZfADFN2OG7UvzEq
   popularity: 28
-  url: https://open.spotify.com/artist/2h1yu5lZfADFN2OG7UvzEq
+  url: 'https://open.spotify.com/artist/2h1yu5lZfADFN2OG7UvzEq'
 discography_enriched: true
 top_tracks:
-- Lookout Heart (A Drink After Midnight)
-- If That's the Way It's Gotta Be (Broken Bottle, Broken Heart)
-- A Drink After Midnight (A Drink After Midnight)
-- Broken Bottle, Broken Heart (Broken Bottle, Broken Heart)
-- I've Been Draggin' Since You've Gone (Broken Bottle, Broken Heart)
-- Tell Her (Back to the Blue Side)
-- Cry Me a River (A Drink After Midnight)
-- My First Broken Heart (Since My Last Broken Heart) (Broken Bottle, Broken Heart)
-- This Train (Tell Her)
-- Blues Are Settin' In (A Drink After Midnight)
+  - Lookout Heart (A Drink After Midnight)
+  - 'If That''s the Way It''s Gotta Be (Broken Bottle, Broken Heart)'
+  - A Drink After Midnight (A Drink After Midnight)
+  - 'Broken Bottle, Broken Heart (Broken Bottle, Broken Heart)'
+  - 'I''ve Been Draggin'' Since You''ve Gone (Broken Bottle, Broken Heart)'
+  - Tell Her (Back to the Blue Side)
+  - Cry Me a River (A Drink After Midnight)
+  - >-
+    My First Broken Heart (Since My Last Broken Heart) (Broken Bottle, Broken
+    Heart)
+  - This Train (Tell Her)
+  - Blues Are Settin' In (A Drink After Midnight)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/38e6bee3-59d2-48cc-97e6-a18d2e0045b8
-  spotify: https://open.spotify.com/artist/2h1yu5lZfADFN2OG7UvzEq
+  musicbrainz: 'https://musicbrainz.org/artist/38e6bee3-59d2-48cc-97e6-a18d2e0045b8'
+  spotify: 'https://open.spotify.com/artist/2h1yu5lZfADFN2OG7UvzEq'
   wikipedia: ''
-image_path: 03_Resources/source_material/ArtistPortraits/the_country_side_of_harmonica_sam.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/the_country_side_of_harmonica_sam.jpg
 biography_enhanced_at: '2025-12-22T01:41:11.054144'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://rockabillynerd.wordpress.com/2016/09/06/the-countryside-of-harmonica-sam-qa-swedish-will-boogie-in-nashville/
-- https://www.thecountrysideofharmonicasam.com
-- https://savingcountrymusic.com/the-country-side-of-harmonica-sams-broken-bottle-broken-heart/
-- https://rattlesnake-saloon.com/wp-content/uploads/2022/02/Bio-The-Country-Side-of-Harmonica-Sam.pdf
+  - >-
+    https://rockabillynerd.wordpress.com/2016/09/06/the-countryside-of-harmonica-sam-qa-swedish-will-boogie-in-nashville/
+  - 'https://www.thecountrysideofharmonicasam.com'
+  - >-
+    https://savingcountrymusic.com/the-country-side-of-harmonica-sams-broken-bottle-broken-heart/
+  - >-
+    https://rattlesnake-saloon.com/wp-content/uploads/2022/02/Bio-The-Country-Side-of-Harmonica-Sam.pdf
 network_extracted: true
 entry_created: '2025-12-22T01:41:11.054149'
 last_updated: '2025-12-23T08:16:16.668864'
 members:
-- &id001
-  begin: 2023-08
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 97fca9fe-c875-4a14-88eb-e3405a63db67
-  name: Robert Skoglund
+  - &ref_0
+    begin: 2023-08
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 97fca9fe-c875-4a14-88eb-e3405a63db67
+    name: Robert Skoglund
 musicbrainz_id: 38e6bee3-59d2-48cc-97e6-a18d2e0045b8
-origin: Malmö area, Southern Sweden
+origin: 'Malmö area, Southern Sweden'
 original_members:
-- *id001
+  - *ref_0
+artist_type: band
 ---
 
 ![](the_country_side_of_harmonica_sam.jpg)

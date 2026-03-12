@@ -1,19 +1,19 @@
 ---
-title: cecil taylor
+title: Cecil Taylor
 wiki_slug: cecil-taylor
 schema_version: 2
 status: active
-birth_place: Long Island City, Queens, New York, United States
+birth_place: 'Long Island City, Queens, New York, United States'
 genres:
-- free jazz
-- avant-garde
-- jazz
-- hard bop
+  - free jazz
+  - avant-garde
+  - jazz
+  - hard bop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/cecil_taylor.jpg
   caption: cecil taylor
   background: solo_singer
-  origin: Long Island City, Queens, New York, United States
+  origin: 'Long Island City, Queens, New York, United States'
 audio_profile:
   tempo_avg: 108.2
   energy_avg: 0.425
@@ -29,56 +29,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Steve Lacy
-  - Buell Neidlinger
-  - Dennis Charles
-  - Jimmy Lyons
-  - Sunny Murray
-  - Bill Dixon
-  - Tony Oxley
-  - William Parker
+    - Steve Lacy
+    - Buell Neidlinger
+    - Dennis Charles
+    - Jimmy Lyons
+    - Sunny Murray
+    - Bill Dixon
+    - Tony Oxley
+    - William Parker
   influenced:
-  - Ornette Coleman
+    - Ornette Coleman
   mentors:
-  - Duke Ellington
-  - Thelonious Monk
-  - Horace Silver
-  - Lennie Tristano
+    - Duke Ellington
+    - Thelonious Monk
+    - Horace Silver
+    - Lennie Tristano
 spotify_data:
   followers: 36683
   id: 5jtGuhEEDh07yaFfm8qHg7
   popularity: 19
-  url: https://open.spotify.com/artist/5jtGuhEEDh07yaFfm8qHg7
+  url: 'https://open.spotify.com/artist/5jtGuhEEDh07yaFfm8qHg7'
 discography_enriched: true
 top_tracks:
-- Port Of Call - Remastered (The World Of Cecil Taylor (Remastered))
-- Azure (Jazz Advice)
-- Steps (Unit Structures)
-- Air - Remastered (The World Of Cecil Taylor (Remastered))
-- Bemsha Swing (Jazz Advance)
-- Enter, Evening (Soft Line Structure) (Unit Structures)
-- This Nearly Was Mine - Remastered (The World Of Cecil Taylor (Remastered))
-- Conquistador - 2003 Remastered (Conquistador!)
-- Enter, Evening (Unit Structures)
-- Unit Structure/As Of A Now/Section (Unit Structures)
+  - Port Of Call - Remastered (The World Of Cecil Taylor (Remastered))
+  - Azure (Jazz Advice)
+  - Steps (Unit Structures)
+  - Air - Remastered (The World Of Cecil Taylor (Remastered))
+  - Bemsha Swing (Jazz Advance)
+  - 'Enter, Evening (Soft Line Structure) (Unit Structures)'
+  - This Nearly Was Mine - Remastered (The World Of Cecil Taylor (Remastered))
+  - Conquistador - 2003 Remastered (Conquistador!)
+  - 'Enter, Evening (Unit Structures)'
+  - Unit Structure/As Of A Now/Section (Unit Structures)
 external_urls:
-  spotify: https://open.spotify.com/artist/5jtGuhEEDh07yaFfm8qHg7
-  wikipedia: https://en.wikipedia.org/wiki/Cecil_Taylor
+  spotify: 'https://open.spotify.com/artist/5jtGuhEEDh07yaFfm8qHg7'
+  wikipedia: 'https://en.wikipedia.org/wiki/Cecil_Taylor'
 image_path: 03_Resources/source_material/ArtistPortraits/cecil_taylor.jpg
 biography_enhanced_at: '2025-12-04T07:40:13.861432'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- EBSCO Research Starters - Cecil Taylor
-- Wikipedia - Cecil Taylor
-- Blank Forms - Cecil Taylor
-- Britannica - Cecil Taylor
-- Seacoast Jazz Society - Cecil Taylor
-- National Endowment for the Arts - Cecil Taylor
-- Kyoto Prize - Cecil Taylor
+  - EBSCO Research Starters - Cecil Taylor
+  - Wikipedia - Cecil Taylor
+  - Blank Forms - Cecil Taylor
+  - Britannica - Cecil Taylor
+  - Seacoast Jazz Society - Cecil Taylor
+  - National Endowment for the Arts - Cecil Taylor
+  - Kyoto Prize - Cecil Taylor
 network_extracted: true
 entry_created: '2025-12-04T07:40:13.861444'
 last_updated: '2025-12-23T08:16:06.582609'
+birth_date: '1929-03-25'
+artist_type: person
 ---
 
 ![](cecil_taylor.jpg)

@@ -3,13 +3,13 @@ title: Laura Izibor
 wiki_slug: laura-izibor
 schema_version: 2
 status: active
-birth_place: Dublin, Ireland
+birth_place: 'Dublin, Ireland, United Kingdom'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/laura_izibor.jpg
   caption: Laura Izibor
   background: solo_singer
-  origin: Dublin, Ireland
+  origin: 'Dublin, Ireland'
 audio_profile:
   tempo_avg: 103.9
   energy_avg: 0.567
@@ -17,7 +17,7 @@ audio_profile:
   danceability_avg: 0.61
   acousticness_avg: 0.377
   instrumentalness_avg: 0.001
-  loudness_avg: -6.0
+  loudness_avg: -6
   speechiness_avg: 0.08
   liveness_avg: 0.154
   track_count: 46
@@ -25,47 +25,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Aretha Franklin
-  - India.Arie
-  - Estelle
-  - Maxwell
-  - John Legend
+    - Aretha Franklin
+    - India.Arie
+    - Estelle
+    - Maxwell
+    - John Legend
   influenced: []
   mentors:
-  - Steve Lunt
-  - Edison Waters
+    - Steve Lunt
+    - Edison Waters
 spotify_data:
   followers: 27594
   id: 1WKj0LfG2ZQXTszvdQ5yPK
   popularity: 29
-  url: https://open.spotify.com/artist/1WKj0LfG2ZQXTszvdQ5yPK
+  url: 'https://open.spotify.com/artist/1WKj0LfG2ZQXTszvdQ5yPK'
 discography_enriched: true
 top_tracks:
-- Mmm... (Let The Truth Be Told)
-- Shine (Let The Truth Be Told)
-- If Tonight Is My Last (Let The Truth Be Told)
-- Can't Be Love - Single Version (Can't Be Love)
-- Don't Stay (Let The Truth Be Told)
-- From My Heart to Yours (Let The Truth Be Told)
-- If Tonight Is My Last
-- Can't Be Love
-- What Would You Do (Let The Truth Be Told)
-- Shine (Shine)
+  - Mmm... (Let The Truth Be Told)
+  - Shine (Let The Truth Be Told)
+  - If Tonight Is My Last (Let The Truth Be Told)
+  - Can't Be Love - Single Version (Can't Be Love)
+  - Don't Stay (Let The Truth Be Told)
+  - From My Heart to Yours (Let The Truth Be Told)
+  - If Tonight Is My Last
+  - Can't Be Love
+  - What Would You Do (Let The Truth Be Told)
+  - Shine (Shine)
 external_urls:
-  spotify: https://open.spotify.com/artist/1WKj0LfG2ZQXTszvdQ5yPK
+  spotify: 'https://open.spotify.com/artist/1WKj0LfG2ZQXTszvdQ5yPK'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/laura_izibor.jpg
 biography_enhanced_at: '2025-12-17T02:14:32.195558'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://kids.kiddle.co/Laura_Izibor
-- https://wbssmedia.com/artists/detail/930
-- https://www.iheart.com/artist/laura-izibor-58757/
-- https://www.imdb.com/name/nm3639474/
+  - 'https://kids.kiddle.co/Laura_Izibor'
+  - 'https://wbssmedia.com/artists/detail/930'
+  - 'https://www.iheart.com/artist/laura-izibor-58757/'
+  - 'https://www.imdb.com/name/nm3639474/'
 network_extracted: true
 entry_created: '2025-12-17T02:14:32.195583'
 last_updated: '2025-12-23T08:16:11.624088'
+birth_date: '1987-05-13'
+artist_type: person
 ---
 
 ![](laura_izibor.jpg)

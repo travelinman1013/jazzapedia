@@ -3,15 +3,15 @@ title: Cris Jacobs
 wiki_slug: cris-jacobs
 schema_version: 2
 status: active
-birth_place: Baltimore, Maryland, USA
+birth_place: 'Baltimore, Maryland, USA'
 genres:
-- newgrass
-- bluegrass
+  - newgrass
+  - bluegrass
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/cris_jacobs.jpg
   caption: Cris Jacobs
   background: solo_singer
-  origin: Baltimore, Maryland, USA
+  origin: 'Baltimore, Maryland, USA'
 audio_profile:
   tempo_avg: 115.9
   energy_avg: 0.542
@@ -27,53 +27,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Bridge
-  - Ivan Neville
-  - Infamous Stringdusters
-  - Anders Osborne
-  - Los Lobos
-  - Darrell Scott
+    - The Bridge
+    - Ivan Neville
+    - Infamous Stringdusters
+    - Anders Osborne
+    - Los Lobos
+    - Darrell Scott
   influenced:
-  - Baltimore roots/Americana musicians
+    - Baltimore roots/Americana musicians
   mentors:
-  - Jerry Douglas
-  - Townes Van Zandt
-  - Willis Alan Ramsey
+    - Jerry Douglas
+    - Townes Van Zandt
+    - Willis Alan Ramsey
 spotify_data:
   followers: 12813
   id: 1WAu5oR3vtpCZCbGvhrevc
   popularity: 30
-  url: https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc
+  url: 'https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc'
 discography_enriched: true
 top_tracks:
-- Jack The Whistle And The Hammer (Dust To Gold)
-- Under The Big Top (Color Where You Are)
-- Shine Your Weary Light (Dust To Gold)
-- Poor Davey (One of These Days)
-- Daughter, Daughter (Daughter, Daughter)
-- The Devil Or Jesse James (Dust To Gold)
-- Kind Woman (Dust To Gold)
-- Hallelujah Hustler (Dust To Gold)
-- Bone Digger (Dust To Gold)
-- Poor Davey (Poor Davey)
+  - Jack The Whistle And The Hammer (Dust To Gold)
+  - Under The Big Top (Color Where You Are)
+  - Shine Your Weary Light (Dust To Gold)
+  - Poor Davey (One of These Days)
+  - 'Daughter, Daughter (Daughter, Daughter)'
+  - The Devil Or Jesse James (Dust To Gold)
+  - Kind Woman (Dust To Gold)
+  - Hallelujah Hustler (Dust To Gold)
+  - Bone Digger (Dust To Gold)
+  - Poor Davey (Poor Davey)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f2f4f21b-b79b-4ad9-be87-04b92a53c4da
-  spotify: https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc
+  musicbrainz: 'https://musicbrainz.org/artist/f2f4f21b-b79b-4ad9-be87-04b92a53c4da'
+  spotify: 'https://open.spotify.com/artist/1WAu5oR3vtpCZCbGvhrevc'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/cris_jacobs.jpg
 biography_enhanced_at: '2025-11-03T07:44:15.860643'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://thecreekfm.com/2019/02/26/cris-jacobs-the-interview/
-- https://www.baltimoremagazine.com/section/artsentertainment/cris-jacobs-forges-his-own-path/
-- https://www.galleywinter.com/post/cris-jacobs-a-rare-q-a
-- https://purplefiddle.com/bands/cris-jacobs/
-- https://www.crisjacobs.com/about
+  - 'https://thecreekfm.com/2019/02/26/cris-jacobs-the-interview/'
+  - >-
+    https://www.baltimoremagazine.com/section/artsentertainment/cris-jacobs-forges-his-own-path/
+  - 'https://www.galleywinter.com/post/cris-jacobs-a-rare-q-a'
+  - 'https://purplefiddle.com/bands/cris-jacobs/'
+  - 'https://www.crisjacobs.com/about'
 network_extracted: true
 entry_created: '2025-11-03T07:44:15.860654'
 last_updated: '2025-12-23T08:16:07.303335'
 musicbrainz_id: f2f4f21b-b79b-4ad9-be87-04b92a53c4da
+artist_type: person
 ---
 
 ![](cris_jacobs.jpg)

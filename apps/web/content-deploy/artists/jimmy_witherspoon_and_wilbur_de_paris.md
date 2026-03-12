@@ -1,13 +1,14 @@
 ---
-title: JIMMY WITHERSPOON AND WILBUR DE PARIS
+title: Jimmy Witherspoon and Wilbur DE Paris
 wiki_slug: jimmy-witherspoon-and-wilbur-de-paris
 schema_version: 2
 status: active
 genres:
-- blues
-- blues rock
+  - blues
+  - blues rock
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/jimmy_witherspoon_and_wilbur_de_paris.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/jimmy_witherspoon_and_wilbur_de_paris.jpg
   caption: JIMMY WITHERSPOON AND WILBUR DE PARIS
   background: solo_singer
 audio_profile:
@@ -25,43 +26,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Wilbur De Paris
-  - Sidney Bechet
+    - Wilbur De Paris
+    - Sidney Bechet
   influenced: []
   mentors:
-  - Jay McShann
-  - Teddy Weatherford
+    - Jay McShann
+    - Teddy Weatherford
 spotify_data:
   followers: 60
   id: 6vjSZamHTXWxyUNx0ywsnX
   popularity: 2
-  url: https://open.spotify.com/artist/6vjSZamHTXWxyUNx0ywsnX
+  url: 'https://open.spotify.com/artist/6vjSZamHTXWxyUNx0ywsnX'
 discography_enriched: true
 top_tracks:
-- Cold Cold Feeling (Spoon's Life (Blues Power))
-- Help Me (Spoon's Life (Blues Power))
-- Night Life (Spoon's Life (Blues Power))
-- Big Boss Man (Spoon's Life (Blues Power))
-- Worried Life Blues (Spoon's Life (Blues Power))
-- Did You Ever (Spoon's Life (Blues Power))
-- Blues With a Feeling (Spoon's Life (Blues Power))
-- Big Leg Woman (Spoon's Life (Blues Power))
+  - Cold Cold Feeling (Spoon's Life (Blues Power))
+  - Help Me (Spoon's Life (Blues Power))
+  - Night Life (Spoon's Life (Blues Power))
+  - Big Boss Man (Spoon's Life (Blues Power))
+  - Worried Life Blues (Spoon's Life (Blues Power))
+  - Did You Ever (Spoon's Life (Blues Power))
+  - Blues With a Feeling (Spoon's Life (Blues Power))
+  - Big Leg Woman (Spoon's Life (Blues Power))
 external_urls:
-  spotify: https://open.spotify.com/artist/6vjSZamHTXWxyUNx0ywsnX
-  wikipedia: https://en.wikipedia.org/wiki/Jimmy_Witherspoon
-image_path: 03_Resources/source_material/ArtistPortraits/jimmy_witherspoon_and_wilbur_de_paris.jpg
+  spotify: 'https://open.spotify.com/artist/6vjSZamHTXWxyUNx0ywsnX'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jimmy_Witherspoon'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/jimmy_witherspoon_and_wilbur_de_paris.jpg
 biography_enhanced_at: '2025-12-16T03:57:25.607822'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jimmy_Witherspoon [2]
-- https://syncopatedtimes.com/wilbur-deparis-profiles-in-jazz/ [1]
-- https://www.last.fm/music/Jimmy+Witherspoon/+wiki [3]
-- https://www.dustygroove.com/item/541179/Wilbur-De-Paris-Jimmy-Witherspoon:New-Orleans-Blues [8]
+  - 'https://en.wikipedia.org/wiki/Jimmy_Witherspoon [2]'
+  - 'https://syncopatedtimes.com/wilbur-deparis-profiles-in-jazz/ [1]'
+  - 'https://www.last.fm/music/Jimmy+Witherspoon/+wiki [3]'
+  - >-
+    https://www.dustygroove.com/item/541179/Wilbur-De-Paris-Jimmy-Witherspoon:New-Orleans-Blues
+    [8]
 network_extracted: true
 entry_created: '2025-12-16T03:57:25.607831'
 last_updated: '2025-12-23T08:16:10.519265'
-origin: Gurdon, Clark County, Arkansas, USA (Witherspoon birthplace); Philadelphia, USA (De Paris start)
+origin: >-
+  Gurdon, Clark County, Arkansas, USA (Witherspoon birthplace); Philadelphia,
+  USA (De Paris start)
+birth_place: 'Gurdon, Clark County, Arkansas, United States'
+birth_date: '1920-08-08'
+death_date: '1997-09-18'
+artist_type: person
 ---
 
 ![](jimmy_witherspoon_and_wilbur_de_paris.jpg)

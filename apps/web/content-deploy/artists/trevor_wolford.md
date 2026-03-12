@@ -3,14 +3,14 @@ title: Trevor Wolford
 wiki_slug: trevor-wolford
 schema_version: 2
 status: active
-birth_place: Atlanta, Georgia, United States
+birth_place: 'Atlanta, Georgia, United States'
 genres:
-- djent
+  - djent
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/trevor_wolford.jpg
   caption: Trevor Wolford
   background: solo_singer
-  origin: Atlanta, Georgia, United States
+  origin: 'Atlanta, Georgia, United States'
 audio_profile:
   tempo_avg: 115.4
   energy_avg: 0.546
@@ -26,40 +26,41 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kenny Banks Jr
-  - Brenda Nicole Moorer
+    - Kenny Banks Jr
+    - Brenda Nicole Moorer
   influenced: []
   mentors: []
 spotify_data:
   followers: 50
   id: 2dT2H9umQ2VKnv1b3htYY3
   popularity: 0
-  url: https://open.spotify.com/artist/2dT2H9umQ2VKnv1b3htYY3
+  url: 'https://open.spotify.com/artist/2dT2H9umQ2VKnv1b3htYY3'
 discography_enriched: true
 top_tracks:
-- Toro Tuna (The Culinary Guitarist)
-- Biryani (The Culinary Guitarist)
-- Mojito Cubano (The Culinary Guitarist)
-- Sourdough (The Culinary Guitarist)
-- Caffeination Station (The Culinary Guitarist)
-- Churrasco (The Culinary Guitarist)
-- Oolong (The Culinary Guitarist)
-- Apple Butter (The Culinary Guitarist)
-- Pet Nat (The Culinary Guitarist)
-- Chicken Mole (The Culinary Guitarist)
+  - Toro Tuna (The Culinary Guitarist)
+  - Biryani (The Culinary Guitarist)
+  - Mojito Cubano (The Culinary Guitarist)
+  - Sourdough (The Culinary Guitarist)
+  - Caffeination Station (The Culinary Guitarist)
+  - Churrasco (The Culinary Guitarist)
+  - Oolong (The Culinary Guitarist)
+  - Apple Butter (The Culinary Guitarist)
+  - Pet Nat (The Culinary Guitarist)
+  - Chicken Mole (The Culinary Guitarist)
 external_urls:
-  spotify: https://open.spotify.com/artist/2dT2H9umQ2VKnv1b3htYY3
+  spotify: 'https://open.spotify.com/artist/2dT2H9umQ2VKnv1b3htYY3'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/trevor_wolford.jpg
 biography_enhanced_at: '2025-11-23T06:29:49.877263'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://thevelvetnote.com/trevor-wolford/
-- https://www.brendanicolemoorer.com/epk
+  - 'https://thevelvetnote.com/trevor-wolford/'
+  - 'https://www.brendanicolemoorer.com/epk'
 network_extracted: true
 entry_created: '2025-11-23T06:29:49.877273'
 last_updated: '2025-12-23T08:16:17.691135'
+artist_type: person
 ---
 
 ![](trevor_wolford.jpg)

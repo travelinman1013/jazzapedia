@@ -1,12 +1,12 @@
 ---
-title: THE KNICKERBOCKERS
+title: The Knickerbockers
 wiki_slug: the-knickerbockers
 schema_version: 2
 status: active
 genres:
-- garage rock
-- proto-punk
-- power pop
+  - garage rock
+  - proto-punk
+  - power pop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_knickerbockers.jpg
   caption: THE KNICKERBOCKERS
@@ -18,7 +18,7 @@ audio_profile:
   danceability_avg: 0.575
   acousticness_avg: 0.481
   instrumentalness_avg: 0.121
-  loudness_avg: -10.0
+  loudness_avg: -10
   speechiness_avg: 0.047
   liveness_avg: 0.22
   track_count: 50
@@ -26,52 +26,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Beau Charles (Robert Cecchino)
-  - John Charles (John Carlos Cecchino)
-  - Buddy Randell (William Crandall)
-  - Jimmy Walker
-  - Barry McCoy
-  - Jerry Fuller
+    - Beau Charles (Robert Cecchino)
+    - John Charles (John Carlos Cecchino)
+    - Buddy Randell (William Crandall)
+    - Jimmy Walker
+    - Barry McCoy
+    - Jerry Fuller
   influenced:
-  - Later garage rock and power pop revivalists (various artists)
+    - Later garage rock and power pop revivalists (various artists)
   mentors:
-  - The Beatles
-  - The Four Seasons
-  - Jerry Fuller
+    - The Beatles
+    - The Four Seasons
+    - Jerry Fuller
 spotify_data:
   followers: 11125
   id: 3L13VZ9rCpmR1p7p6A2WGu
   popularity: 22
-  url: https://open.spotify.com/artist/3L13VZ9rCpmR1p7p6A2WGu
+  url: 'https://open.spotify.com/artist/3L13VZ9rCpmR1p7p6A2WGu'
 discography_enriched: true
 top_tracks:
-- Lies (Rockin'! with the Knickerbockers)
-- Lies (are breaking my heart)
-- One Track Mind (Rockin'! with the Knickerbockers)
-- All Day and All of the Night (Jerk & Twine)
-- She's Not There (Jerk & Twine)
-- One Track Mind (The Hits -Volume 1 & Volume 2)
-- High on Love (Rockin'! with the Knickerbockers)
-- Lies - Re-Recorded In Stereo
-- Just One Girl (Rockin'! with the Knickerbockers)
-- All I Need Is You (The Knickerbockers)
+  - Lies (Rockin'! with the Knickerbockers)
+  - Lies (are breaking my heart)
+  - One Track Mind (Rockin'! with the Knickerbockers)
+  - All Day and All of the Night (Jerk & Twine)
+  - She's Not There (Jerk & Twine)
+  - One Track Mind (The Hits -Volume 1 & Volume 2)
+  - High on Love (Rockin'! with the Knickerbockers)
+  - Lies - Re-Recorded In Stereo
+  - Just One Girl (Rockin'! with the Knickerbockers)
+  - All I Need Is You (The Knickerbockers)
 external_urls:
-  spotify: https://open.spotify.com/artist/3L13VZ9rCpmR1p7p6A2WGu
-  wikipedia: https://en.wikipedia.org/wiki/The_Knickerbockers
+  spotify: 'https://open.spotify.com/artist/3L13VZ9rCpmR1p7p6A2WGu'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Knickerbockers'
 image_path: 03_Resources/source_material/ArtistPortraits/the_knickerbockers.jpg
 biography_enhanced_at: '2025-12-11T03:47:29.737480'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Knickerbockers
-- https://nostalgiacentral.com/music/artists-a-to-k/artists-k/knickerbockers/
-- https://www.last.fm/music/The+Knickerbockers/+wiki
-- http://www.classicbands.com/KnickerbockersInterview.html
-- https://www.njarts.net/lies-the-knickerbockers/
+  - 'https://en.wikipedia.org/wiki/The_Knickerbockers'
+  - 'https://nostalgiacentral.com/music/artists-a-to-k/artists-k/knickerbockers/'
+  - 'https://www.last.fm/music/The+Knickerbockers/+wiki'
+  - 'http://www.classicbands.com/KnickerbockersInterview.html'
+  - 'https://www.njarts.net/lies-the-knickerbockers/'
 network_extracted: true
 entry_created: '2025-12-11T03:47:29.737492'
 last_updated: '2025-12-23T08:16:16.902469'
-origin: Bergenfield, New Jersey, United States
+origin: 'Bergenfield, New Jersey, United States'
+artist_type: band
 ---
 
 ![](the_knickerbockers.jpg)

@@ -4,10 +4,11 @@ wiki_slug: rockin-dopsie-the-zydeco-twisters
 schema_version: 2
 status: active
 genres:
-- zydeco
-- cajun
+  - zydeco
+  - cajun
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/rockin_dopsie_and_the_zydeco_twisters.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/rockin_dopsie_and_the_zydeco_twisters.jpg
   caption: Rockin Dopsie & the Zydeco Twisters
   background: solo_singer
 audio_profile:
@@ -25,54 +26,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Paul Simon
-  - The Zydeco Twisters
-  - Rockin' Dopsie Jr. (David Rubin)
-  - Tiger Dopsie (Alton Rubin Jr.)
-  - Anthony Dopsie (Anthony Rubin)
-  - Dwayne Dopsie
+    - Paul Simon
+    - The Zydeco Twisters
+    - Rockin' Dopsie Jr. (David Rubin)
+    - Tiger Dopsie (Alton Rubin Jr.)
+    - Anthony Dopsie (Anthony Rubin)
+    - Dwayne Dopsie
   influenced:
-  - Rockin' Dopsie Jr. & The Zydeco Twisters
+    - Rockin' Dopsie Jr. & The Zydeco Twisters
   mentors:
-  - Clifton Chenier
+    - Clifton Chenier
 spotify_data:
   followers: 1889
   id: 5s9clFV7Rb6zoLYA0SLnYv
   popularity: 10
-  url: https://open.spotify.com/artist/5s9clFV7Rb6zoLYA0SLnYv
+  url: 'https://open.spotify.com/artist/5s9clFV7Rb6zoLYA0SLnYv'
 discography_enriched: true
 top_tracks:
-- I Got Loaded (Zydeco Gone Wild)
-- Keep On Smilin (Zydeco Gone Wild)
-- Going Back to LSU (Zydeco Gone Wild)
-- Zydeco Who Dat (Zydeco Gone Wild)
-- Louise Ana (Straight from the Heart)
-- Brown Eyed Girl (Zydeco Gone Wild)
-- Bon Temps Rouler (Straight from the Heart)
-- In the Summertime (Rockin Zydeco)
-- You'll Lose A Good Thing (More Fun With Rockin' Dopsie, Jr. & The Zydeco Twisters)
-- I'm Coming Home (More Fun With Rockin' Dopsie, Jr. & The Zydeco Twisters)
+  - I Got Loaded (Zydeco Gone Wild)
+  - Keep On Smilin (Zydeco Gone Wild)
+  - Going Back to LSU (Zydeco Gone Wild)
+  - Zydeco Who Dat (Zydeco Gone Wild)
+  - Louise Ana (Straight from the Heart)
+  - Brown Eyed Girl (Zydeco Gone Wild)
+  - Bon Temps Rouler (Straight from the Heart)
+  - In the Summertime (Rockin Zydeco)
+  - >-
+    You'll Lose A Good Thing (More Fun With Rockin' Dopsie, Jr. & The Zydeco
+    Twisters)
+  - 'I''m Coming Home (More Fun With Rockin'' Dopsie, Jr. & The Zydeco Twisters)'
 external_urls:
-  spotify: https://open.spotify.com/artist/5s9clFV7Rb6zoLYA0SLnYv
-  wikipedia: https://en.wikipedia.org/wiki/Rockin'_Dopsie
-image_path: 03_Resources/source_material/ArtistPortraits/rockin_dopsie_and_the_zydeco_twisters.jpg
+  spotify: 'https://open.spotify.com/artist/5s9clFV7Rb6zoLYA0SLnYv'
+  wikipedia: 'https://en.wikipedia.org/wiki/Rockin''_Dopsie'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/rockin_dopsie_and_the_zydeco_twisters.jpg
 biography_enhanced_at: '2025-12-04T08:12:22.360078'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://rockindopsiejr.com/biography
-- https://en.wikipedia.org/wiki/Rockin'_Dopsie
-- https://www.imdb.com/name/nm2544154/bio/
-- https://musicrising.tulane.edu/discover/people/rockin-dopsie-sr/
-- https://rockindopsiejr.com/epk
-- https://www.neworleans.com/listing/rockin-dopsie-jr/48135/
-- https://afropop.org/articles/more-fun-with-rockin-dopsie-jr
-- https://worldfootprints.com/guest/rockin-dopsie-jr/
-- https://americanahighways.org/2024/08/30/review-more-fun-with-rockin-dopsie-and-the-zydeco-twisters/
+  - 'https://rockindopsiejr.com/biography'
+  - 'https://en.wikipedia.org/wiki/Rockin''_Dopsie'
+  - 'https://www.imdb.com/name/nm2544154/bio/'
+  - 'https://musicrising.tulane.edu/discover/people/rockin-dopsie-sr/'
+  - 'https://rockindopsiejr.com/epk'
+  - 'https://www.neworleans.com/listing/rockin-dopsie-jr/48135/'
+  - 'https://afropop.org/articles/more-fun-with-rockin-dopsie-jr'
+  - 'https://worldfootprints.com/guest/rockin-dopsie-jr/'
+  - >-
+    https://americanahighways.org/2024/08/30/review-more-fun-with-rockin-dopsie-and-the-zydeco-twisters/
 network_extracted: true
 entry_created: '2025-12-04T08:12:22.360084'
 last_updated: '2025-12-23T08:16:14.956889'
-origin: 'Lafayette, Louisiana, United States (primary base; birthplace: Carencro, Louisiana)'
+origin: >-
+  Lafayette, Louisiana, United States (primary base; birthplace: Carencro,
+  Louisiana)
+birth_place: 'Carencro, Louisiana, United States'
+birth_date: '1932-02-10'
+death_date: '1993-08-26'
+artist_type: band
 ---
 
 ![](rockin_dopsie_and_the_zydeco_twisters.jpg)

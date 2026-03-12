@@ -2,15 +2,15 @@
 title: Juaneco Y Su Combo
 wiki_slug: juaneco-y-su-combo
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 birth_date: '1960'
 genres:
-- chicha
-- cumbia
+  - chicha
+  - cumbia
 instruments:
-- original
-- lead vocals
+  - original
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/juaneco_y_su_combo.jpg
   caption: Juaneco Y Su Combo
@@ -31,114 +31,116 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Juan Wong Paredes
-  - Wilindoro Cacique
-  - Noé Fachin
-  - Bareto
+    - Juan Wong Paredes
+    - Wilindoro Cacique
+    - Noé Fachin
+    - Bareto
   influenced:
-  - Bareto
-  - Chicha and electrocumbia artists
+    - Bareto
+    - Chicha and electrocumbia artists
   mentors:
-  - Traditional Amazonian and Colombian cumbia musicians
+    - Traditional Amazonian and Colombian cumbia musicians
 spotify_data:
   followers: 60932
   id: 4sTcgUXJRSvSQHei3ZQUBR
   popularity: 35
-  url: https://open.spotify.com/artist/4sTcgUXJRSvSQHei3ZQUBR
+  url: 'https://open.spotify.com/artist/4sTcgUXJRSvSQHei3ZQUBR'
 discography_enriched: true
 top_tracks:
-- Ya Se Ha Muerto Mi Abuelo (Leyenda Amazónica)
-- Me Robaron Mi Runa Mula (Leyenda Amazónica)
-- Linda Nena (Leyenda Amazónica)
-- Mujer Hilandera (Leyenda Amazónica)
-- Vacilando Con Ayahuasca (Leyenda Amazónica)
-- Ya Se Ha Muerto Mi Abuelo
-- Un Shipibo en España (Leyenda Amazónica)
-- Caballito Nocturno (Leyenda Amazónica)
-- Volando (Leyenda Amazónica)
-- A la Fiesta de San Juan (Leyenda Amazónica)
+  - Ya Se Ha Muerto Mi Abuelo (Leyenda Amazónica)
+  - Me Robaron Mi Runa Mula (Leyenda Amazónica)
+  - Linda Nena (Leyenda Amazónica)
+  - Mujer Hilandera (Leyenda Amazónica)
+  - Vacilando Con Ayahuasca (Leyenda Amazónica)
+  - Ya Se Ha Muerto Mi Abuelo
+  - Un Shipibo en España (Leyenda Amazónica)
+  - Caballito Nocturno (Leyenda Amazónica)
+  - Volando (Leyenda Amazónica)
+  - A la Fiesta de San Juan (Leyenda Amazónica)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9106e92a-aad0-4996-ac95-37b21fd70737
-  spotify: https://open.spotify.com/artist/4sTcgUXJRSvSQHei3ZQUBR
-  wikipedia: https://en.wikipedia.org/wiki/Juaneco_y_Su_Combo
+  musicbrainz: 'https://musicbrainz.org/artist/9106e92a-aad0-4996-ac95-37b21fd70737'
+  spotify: 'https://open.spotify.com/artist/4sTcgUXJRSvSQHei3ZQUBR'
+  wikipedia: 'https://en.wikipedia.org/wiki/Juaneco_y_Su_Combo'
 image_path: 03_Resources/source_material/ArtistPortraits/juaneco_y_su_combo.jpg
 biography_enhanced_at: '2025-11-12T14:51:03.261567'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://listenrecovery.wordpress.com/2010/12/05/juaneco-y-su-combo-bio-spanish-eng-story-by-barbes-records-photos-by-carlos-diaz-peru/
-- https://es.wikipedia.org/wiki/Juaneco_y_su_Combo
-- https://en.wikipedia.org/wiki/Juaneco_y_Su_Combo
-- https://www.600discoslatam.com/discos/peru/el-gran-cacique-juaneco-y-su-combo/
-- https://newyorkmusicdaily.wordpress.com/2014/01/17/juaneco/
+  - >-
+    https://listenrecovery.wordpress.com/2010/12/05/juaneco-y-su-combo-bio-spanish-eng-story-by-barbes-records-photos-by-carlos-diaz-peru/
+  - 'https://es.wikipedia.org/wiki/Juaneco_y_su_Combo'
+  - 'https://en.wikipedia.org/wiki/Juaneco_y_Su_Combo'
+  - >-
+    https://www.600discoslatam.com/discos/peru/el-gran-cacique-juaneco-y-su-combo/
+  - 'https://newyorkmusicdaily.wordpress.com/2014/01/17/juaneco/'
 network_extracted: true
 entry_created: '2025-11-12T14:51:03.261581'
 last_updated: '2025-12-23T08:16:11.026444'
 members:
-- begin: ''
-  end: '1976-05-02'
-  instruments: []
-  mbid: 89ad7e80-aabc-4038-a6b3-646bc92bc366
-  name: Jairo Aguilar
-- begin: ''
-  end: '1976-05-02'
-  instruments: []
-  mbid: e22c1cf9-1e81-4623-9674-ae4d65b1b75b
-  name: Walter Domínguez
-- begin: ''
-  end: '1976-05-02'
-  instruments:
-  - original
-  mbid: ceddc5f3-da80-4d02-a4c8-94081bab2541
-  name: Noé Fachin
-- begin: ''
-  end: '1976-05-02'
-  instruments: []
-  mbid: 6d0a34f7-d9eb-461f-b5d3-a0331d5888c0
-  name: Wilfredo Murrieta
-- begin: ''
-  end: '1976-05-02'
-  instruments: []
-  mbid: dc6e34d3-8cce-48b7-a984-5a76521a0014
-  name: Ediberto Vasquez
-- begin: ''
-  end: '2004'
-  instruments:
-  - original
-  mbid: 88dbfc23-7b44-49f3-95e6-c059d032e5b7
-  name: Juan Wong Paredes
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  - original
-  mbid: 177d0464-0531-4d8e-aa62-a1d967932311
-  name: Wilindoro Cacique
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7bc9d0b7-9ded-4f2f-8903-2c87d812f0fd
-  name: Rosendo Hidalgo
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ca59e339-a090-4255-bb06-6a3610397fca
-  name: Juvencio Pinchi
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 009e6056-2d75-4912-87eb-cb4f43105aa5
-  name: Juan Wong Popolizio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f2b6c404-c7ad-41d7-8988-935b98052898
-  name: Mao Wong López
+  - begin: ''
+    end: '1976-05-02'
+    instruments: []
+    mbid: 89ad7e80-aabc-4038-a6b3-646bc92bc366
+    name: Jairo Aguilar
+  - begin: ''
+    end: '1976-05-02'
+    instruments: []
+    mbid: e22c1cf9-1e81-4623-9674-ae4d65b1b75b
+    name: Walter Domínguez
+  - begin: ''
+    end: '1976-05-02'
+    instruments:
+      - original
+    mbid: ceddc5f3-da80-4d02-a4c8-94081bab2541
+    name: Noé Fachin
+  - begin: ''
+    end: '1976-05-02'
+    instruments: []
+    mbid: 6d0a34f7-d9eb-461f-b5d3-a0331d5888c0
+    name: Wilfredo Murrieta
+  - begin: ''
+    end: '1976-05-02'
+    instruments: []
+    mbid: dc6e34d3-8cce-48b7-a984-5a76521a0014
+    name: Ediberto Vasquez
+  - begin: ''
+    end: '2004'
+    instruments:
+      - original
+    mbid: 88dbfc23-7b44-49f3-95e6-c059d032e5b7
+    name: Juan Wong Paredes
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+      - original
+    mbid: 177d0464-0531-4d8e-aa62-a1d967932311
+    name: Wilindoro Cacique
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7bc9d0b7-9ded-4f2f-8903-2c87d812f0fd
+    name: Rosendo Hidalgo
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ca59e339-a090-4255-bb06-6a3610397fca
+    name: Juvencio Pinchi
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 009e6056-2d75-4912-87eb-cb4f43105aa5
+    name: Juan Wong Popolizio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f2b6c404-c7ad-41d7-8988-935b98052898
+    name: Mao Wong López
 musicbrainz_id: 9106e92a-aad0-4996-ac95-37b21fd70737
-origin: Pucallpa, Ucayali, Peru
+origin: 'Pucallpa, Ucayali, Peru'
 tags:
-- cumbia peruana
-
+  - cumbia peruana
+birth_place: 'Pucallpa, Ucayali, Peru'
 ---
 
 ![](juaneco_y_su_combo.jpg)

@@ -5,24 +5,24 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1939-11-10'
-birth_place: Houston
+birth_place: 'Houston, Texas, United States'
 genres:
-- jazz funk
-- jazz fusion
-- soul jazz
+  - jazz funk
+  - jazz fusion
+  - soul jazz
 instruments:
-- background vocals
+  - background vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 272c80be-dea0-4f35-8532-940ff43f346b
-  name: CTI All-Stars
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c1d497f7-6758-4065-8ff7-e4362c3bbfd9
-  name: New York Jazz Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 272c80be-dea0-4f35-8532-940ff43f346b
+    name: CTI All-Stars
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c1d497f7-6758-4065-8ff7-e4362c3bbfd9
+    name: New York Jazz Quartet
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/hubert_laws.jpg
   caption: Hubert Laws
@@ -44,60 +44,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mongo Santamaria
-  - John Lewis
-  - Airto Moreira
-  - Jack DeJohnette
-  - Bob James
-  - Ron Carter
-  - The Jazz Crusaders
+    - Mongo Santamaria
+    - John Lewis
+    - Airto Moreira
+    - Jack DeJohnette
+    - Bob James
+    - Ron Carter
+    - The Jazz Crusaders
   influenced: []
   mentors:
-  - Julius Baker
-  - Clement Barone
+    - Julius Baker
+    - Clement Barone
 spotify_data:
   followers: 41720
   id: 2Mb147hrrMIoAy425UZkhv
   popularity: 36
-  url: https://open.spotify.com/artist/2Mb147hrrMIoAy425UZkhv
+  url: 'https://open.spotify.com/artist/2Mb147hrrMIoAy425UZkhv'
 discography_enriched: true
 top_tracks:
-- Encontros E Despedidas (Encontros E Despedidas)
-- Land of Passion (Land of Passion (Bonus Track Version))
-- I'm In Love Again (Love Lives Forever)
-- Family - Stereo Version (Family)
-- Dear Fall (Selah)
-- Feel Like Makin' Love - Live (The San Francisco Concert (Live))
-- Chick (Dedicated To Chick Corea) (Space-Time)
-- California Suite - 1978 (Bolling Story (Anthologie des bandes originales 1960-1998))
-- All Soul (The Laws Of Jazz / Flute By-Laws)
-- Desert Flower
+  - Encontros E Despedidas (Encontros E Despedidas)
+  - Land of Passion (Land of Passion (Bonus Track Version))
+  - I'm In Love Again (Love Lives Forever)
+  - Family - Stereo Version (Family)
+  - Dear Fall (Selah)
+  - Feel Like Makin' Love - Live (The San Francisco Concert (Live))
+  - Chick (Dedicated To Chick Corea) (Space-Time)
+  - >-
+    California Suite - 1978 (Bolling Story (Anthologie des bandes originales
+    1960-1998))
+  - All Soul (The Laws Of Jazz / Flute By-Laws)
+  - Desert Flower
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/82208529-b45a-4b3e-92dd-02f6b14c6f18
-  spotify: https://open.spotify.com/artist/2Mb147hrrMIoAy425UZkhv
-  wikipedia: https://en.wikipedia.org/wiki/Hubert_Laws
+  musicbrainz: 'https://musicbrainz.org/artist/82208529-b45a-4b3e-92dd-02f6b14c6f18'
+  spotify: 'https://open.spotify.com/artist/2Mb147hrrMIoAy425UZkhv'
+  wikipedia: 'https://en.wikipedia.org/wiki/Hubert_Laws'
 image_path: 03_Resources/source_material/ArtistPortraits/hubert_laws.jpg
 biography_enhanced_at: '2025-12-23T02:03:40.583971'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Hubert_Laws
-- https://www.imdb.com/name/nm0493122/bio/
-- https://www.knkx.org/jazz/2024-04-11/hubert-laws-brings-passion-and-prowess-to-the-flute-across-genres
-- https://www.arts.gov/honors/jazz/hubert-laws
-- https://www.allaboutjazz.com/musicians/hubert-laws/
-- https://www.laphil.com/musicdb/artists/3035/hubert-laws
-- http://www.soulwalking.co.uk/Hubert%20Laws.html
+  - 'https://en.wikipedia.org/wiki/Hubert_Laws'
+  - 'https://www.imdb.com/name/nm0493122/bio/'
+  - >-
+    https://www.knkx.org/jazz/2024-04-11/hubert-laws-brings-passion-and-prowess-to-the-flute-across-genres
+  - 'https://www.arts.gov/honors/jazz/hubert-laws'
+  - 'https://www.allaboutjazz.com/musicians/hubert-laws/'
+  - 'https://www.laphil.com/musicdb/artists/3035/hubert-laws'
+  - 'http://www.soulwalking.co.uk/Hubert%20Laws.html'
 network_extracted: true
 entry_created: '2025-12-23T02:03:40.583980'
 last_updated: '2025-12-23T08:16:09.731179'
 gender: Male
 musicbrainz_id: 82208529-b45a-4b3e-92dd-02f6b14c6f18
 tags:
-- hard bop
-- jazz
-- post-bop
-
+  - hard bop
+  - jazz
+  - post-bop
 ---
 
 ![](hubert_laws.jpg)

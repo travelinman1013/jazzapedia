@@ -1,11 +1,11 @@
 ---
-title: staple singers
+title: The Staple Singers
 wiki_slug: staple-singers
 schema_version: 2
 status: active
 genres:
-- soul
-- motown
+  - soul
+  - motown
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/staple_singers.jpg
   caption: staple singers
@@ -25,57 +25,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mavis Staples
-  - Cleotha Staples
-  - Yvonne Staples
-  - Pervis Staples
-  - Steve Cropper
-  - Al Bell
-  - Curtis Mayfield
+    - Mavis Staples
+    - Cleotha Staples
+    - Yvonne Staples
+    - Pervis Staples
+    - Steve Cropper
+    - Al Bell
+    - Curtis Mayfield
   influenced:
-  - Mavis Staples
-  - Various gospel and soul artists
+    - Mavis Staples
+    - Various gospel and soul artists
   mentors:
-  - Charley Patton
-  - Crooms Brothers
+    - Charley Patton
+    - Crooms Brothers
 spotify_data:
   followers: 367015
   id: 7xGGqA85UIWX1GoTVM4itC
   popularity: 50
-  url: https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC
+  url: 'https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC'
 discography_enriched: true
 top_tracks:
-- I'll Take You There
-- Respect Yourself
-- The Weight (Soul Folk In Action)
-- 'The Last Waltz Suite: The Weight (feat. The Staples) (The Last Waltz (Deluxe Version))'
-- Let's Do It Again (Let's Do It Again Original Sound Track)
-- If You're Ready (Come Go With Me) (Be What You Are (Reissue))
-- 'Let''s Do It Again (Faith And Grace: A Family Journey 1953-1976)'
-- 'I''ll Take You There (Be Altitude: Respect Yourself [Stax Remasters])'
-- I'll Take You There
-- 'Respect Yourself (Be Altitude: Respect Yourself [Stax Remasters])'
+  - I'll Take You There
+  - Respect Yourself
+  - The Weight (Soul Folk In Action)
+  - >-
+    The Last Waltz Suite: The Weight (feat. The Staples) (The Last Waltz (Deluxe
+    Version))
+  - Let's Do It Again (Let's Do It Again Original Sound Track)
+  - If You're Ready (Come Go With Me) (Be What You Are (Reissue))
+  - 'Let''s Do It Again (Faith And Grace: A Family Journey 1953-1976)'
+  - 'I''ll Take You There (Be Altitude: Respect Yourself [Stax Remasters])'
+  - I'll Take You There
+  - 'Respect Yourself (Be Altitude: Respect Yourself [Stax Remasters])'
 external_urls:
-  spotify: https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC
-  wikipedia: https://en.wikipedia.org/wiki/The_Staple_Singers
+  spotify: 'https://open.spotify.com/artist/7xGGqA85UIWX1GoTVM4itC'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Staple_Singers'
 image_path: 03_Resources/source_material/ArtistPortraits/staple_singers.jpg
 biography_enhanced_at: '2025-11-21T07:21:15.551429'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.britannica.com/topic/the-Staple-Singers
-- https://memphismusichalloffame.com/inductee/staplesingers/
-- https://staxrecords.com/artist/the-staple-singers/
-- https://www.arts.gov/honors/heritage/roebuck-pops-staples
-- https://www.wfmt.com/2023/02/01/tracing-the-life-and-career-of-chicago-icon-mavis-staples/
-- https://top40weekly.com/the-staple-singers/
-- https://blackpast.org/african-american-history/the-staple-singers-1954-2018/
-- https://teachrock.org/people/staple-singers/
+  - 'https://www.britannica.com/topic/the-Staple-Singers'
+  - 'https://memphismusichalloffame.com/inductee/staplesingers/'
+  - 'https://staxrecords.com/artist/the-staple-singers/'
+  - 'https://www.arts.gov/honors/heritage/roebuck-pops-staples'
+  - >-
+    https://www.wfmt.com/2023/02/01/tracing-the-life-and-career-of-chicago-icon-mavis-staples/
+  - 'https://top40weekly.com/the-staple-singers/'
+  - 'https://blackpast.org/african-american-history/the-staple-singers-1954-2018/'
+  - 'https://teachrock.org/people/staple-singers/'
 network_extracted: true
 entry_created: '2025-11-21T07:21:15.551445'
 last_updated: '2025-12-23T08:16:16.034923'
-origin: Chicago, Illinois, United States
-
+origin: 'Chicago, Illinois, United States'
+artist_type: band
 ---
 
 ![](staple_singers.jpg)

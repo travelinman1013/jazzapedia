@@ -5,24 +5,24 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1951-10-30'
-birth_place: Laredo
+birth_place: 'Laredo, Texas, United States'
 genres:
-- latin jazz
-- cha cha cha
-- son cubano
-- salsa
-- mambo
+  - latin jazz
+  - cha cha cha
+  - son cubano
+  - salsa
+  - mambo
 instruments:
-- eponymous
-- original
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
-  mbid: 8969043e-0d4a-4550-844e-f6b4c108390e
-  name: Poncho Sanchez Latin Jazz Band
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 8969043e-0d4a-4550-844e-f6b4c108390e
+    name: Poncho Sanchez Latin Jazz Band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/poncho_sanchez.jpg
   caption: Poncho Sanchez
@@ -44,61 +44,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mongo Santamaria
-  - Hugh Masekela
-  - Tower of Power
-  - Terence Blanchard
-  - Ramon Banda
-  - Sal Cracchiolo
-  - Dick Mitchell
+    - Mongo Santamaria
+    - Hugh Masekela
+    - Tower of Power
+    - Terence Blanchard
+    - Ramon Banda
+    - Sal Cracchiolo
+    - Dick Mitchell
   influenced:
-  - Contemporary Latin Jazz Musicians
+    - Contemporary Latin Jazz Musicians
   mentors:
-  - Cal Tjader
-  - Clare Fischer
+    - Cal Tjader
+    - Clare Fischer
 spotify_data:
   followers: 67936
   id: 7wIvJyLDNfkgdKFVxJl5tL
   popularity: 41
-  url: https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL
+  url: 'https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL'
 discography_enriched: true
 top_tracks:
-- Bésame Mama (Conga Blue)
-- Watermelon Man (Conga Blue)
-- El Sabroson (Cambios)
-- Fania Fungue (Co Co) (Soul Of The Conga)
-- El Shing-A-Ling (Poncho At Montreux)
-- Dulce Amor (Conga Blue)
-- Mi Negra (El Conguero)
-- The Feeling Of Jazz (Trane's Delight)
-- Guaripumpe (Poncho At Montreux)
-- Nengon (Soul Of The Conga)
+  - Bésame Mama (Conga Blue)
+  - Watermelon Man (Conga Blue)
+  - El Sabroson (Cambios)
+  - Fania Fungue (Co Co) (Soul Of The Conga)
+  - El Shing-A-Ling (Poncho At Montreux)
+  - Dulce Amor (Conga Blue)
+  - Mi Negra (El Conguero)
+  - The Feeling Of Jazz (Trane's Delight)
+  - Guaripumpe (Poncho At Montreux)
+  - Nengon (Soul Of The Conga)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/62da2ead-f055-4ad0-b939-3274bb2c54b2
-  spotify: https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL
-  wikipedia: https://en.wikipedia.org/wiki/Poncho_Sanchez
+  musicbrainz: 'https://musicbrainz.org/artist/62da2ead-f055-4ad0-b939-3274bb2c54b2'
+  spotify: 'https://open.spotify.com/artist/7wIvJyLDNfkgdKFVxJl5tL'
+  wikipedia: 'https://en.wikipedia.org/wiki/Poncho_Sanchez'
 image_path: 03_Resources/source_material/ArtistPortraits/poncho_sanchez.jpg
 biography_enhanced_at: '2025-11-23T06:27:03.226085'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Poncho Sanchez
-- Poncho Sanchez Official Biography (ponchosanchez.com)
-- La Jolla Music Society - The Conrad
-- Latin Jazz Network - Artist Profile
-- 'JazzTimes - Poncho Sanchez: Straight Up'
-- Long Beach Symphony
-- NAMM.org Oral History
-- Whopperjaw
+  - Wikipedia - Poncho Sanchez
+  - Poncho Sanchez Official Biography (ponchosanchez.com)
+  - La Jolla Music Society - The Conrad
+  - Latin Jazz Network - Artist Profile
+  - 'JazzTimes - Poncho Sanchez: Straight Up'
+  - Long Beach Symphony
+  - NAMM.org Oral History
+  - Whopperjaw
 network_extracted: true
 entry_created: '2025-11-23T06:27:03.226092'
 last_updated: '2025-12-23T08:16:14.395900'
 gender: Male
 musicbrainz_id: 62da2ead-f055-4ad0-b939-3274bb2c54b2
 tags:
-- afro-cuban jazz
-- jazz
-- latin jazz
+  - afro-cuban jazz
+  - jazz
+  - latin jazz
 ---
 
 ![](poncho_sanchez.jpg)

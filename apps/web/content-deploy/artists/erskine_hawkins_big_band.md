@@ -3,46 +3,50 @@ biography_enhanced_at: '2025-12-29T01:09:06.470970'
 enhancement_provider: perplexity
 entry_created: '2025-12-29T01:09:06.470983'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/29844e23-4f6b-408e-b83b-e910dea114da
-  spotify: https://open.spotify.com/artist/3FwczlV7wkmHCYgGL86Ppi
-  wikipedia: https://en.wikipedia.org/wiki/Erskine_Hawkins
+  musicbrainz: 'https://musicbrainz.org/artist/29844e23-4f6b-408e-b83b-e910dea114da'
+  spotify: 'https://open.spotify.com/artist/3FwczlV7wkmHCYgGL86Ppi'
+  wikipedia: 'https://en.wikipedia.org/wiki/Erskine_Hawkins'
 genres:
-- swing music
-- big band
+  - swing music
+  - big band
 image_path: 03_Resources/source_material/ArtistPortraits/erskine_hawkins_big_band.jpg
 last_updated: '2025-12-29T01:09:06.470985'
 musical_connections:
   collaborators:
-  - Dud Bascomb
-  - Paul Bascomb
-  - Julian Dash
-  - Haywood Henry
-  - Avery Parrish
-  - Ida James
-  - Delores Brown
-  - Della Reese
+    - Dud Bascomb
+    - Paul Bascomb
+    - Julian Dash
+    - Haywood Henry
+    - Avery Parrish
+    - Ida James
+    - Delores Brown
+    - Della Reese
   influenced:
-  - Ray Charles
+    - Ray Charles
   mentors:
-  - Fess Whatley
+    - Fess Whatley
 musicbrainz_id: 29844e23-4f6b-408e-b83b-e910dea114da
 network_extracted: true
-origin: Birmingham, Alabama, United States
+origin: 'Birmingham, Alabama, United States'
 primary_source: perplexity
 research_sources:
-- https://encyclopediaofalabama.org/article/erskine-hawkins/
-- https://www.alamhof.org/erskinehawkins
-- https://www.jazzattackswings.com/post/jazz-greats-erskine-hawkins
-- https://www.allaboutjazz.com/musicians/erskine-hawkins
-- https://syncopatedtimes.com/erskine-hawkins-profiles-in-jazz/
-- https://adp.library.ucsb.edu/names/103922
+  - 'https://encyclopediaofalabama.org/article/erskine-hawkins/'
+  - 'https://www.alamhof.org/erskinehawkins'
+  - 'https://www.jazzattackswings.com/post/jazz-greats-erskine-hawkins'
+  - 'https://www.allaboutjazz.com/musicians/erskine-hawkins'
+  - 'https://syncopatedtimes.com/erskine-hawkins-profiles-in-jazz/'
+  - 'https://adp.library.ucsb.edu/names/103922'
 spotify_data:
   followers: 2591
   id: 3FwczlV7wkmHCYgGL86Ppi
   popularity: 20
-  url: https://open.spotify.com/artist/3FwczlV7wkmHCYgGL86Ppi
+  url: 'https://open.spotify.com/artist/3FwczlV7wkmHCYgGL86Ppi'
 status: active
 title: Erskine Hawkins Big Band
+birth_place: 'Birmingham, Alabama, United States'
+birth_date: '1914-07-26'
+death_date: '1993-11-11'
+artist_type: person
 ---
 
 ![](erskine_hawkins_big_band.jpg)

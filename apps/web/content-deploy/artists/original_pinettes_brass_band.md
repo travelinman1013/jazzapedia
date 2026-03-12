@@ -5,7 +5,8 @@ schema_version: 2
 status: active
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/original_pinettes_brass_band.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/original_pinettes_brass_band.jpg
   caption: Original Pinettes Brass Band
   background: solo_singer
 audio_profile:
@@ -23,48 +24,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Christie Jourdain
-  - Mia X
-  - Arcade Fire
+    - Christie Jourdain
+    - Mia X
+    - Arcade Fire
   influenced:
-  - Female brass musicians in New Orleans
+    - Female brass musicians in New Orleans
   mentors:
-  - Jeffery C. Herbert
+    - Jeffery C. Herbert
 spotify_data:
   followers: 1415
   id: 1tfkx5YqgKHID4yIYCq33z
   popularity: 3
-  url: https://open.spotify.com/artist/1tfkx5YqgKHID4yIYCq33z
+  url: 'https://open.spotify.com/artist/1tfkx5YqgKHID4yIYCq33z'
 discography_enriched: true
 top_tracks:
-- Lord Lord Lord (Finally)
-- Get a Life (Finally)
-- Mardi Gras in New Orleans (Finally)
-- Grazin in the Grass (Finally)
-- Baby (Finally)
-- We Got the Music (Finally)
-- Put Your Right Foot Forward (Finally)
-- When the Saints Go Marching In (Finally)
-- Who You Gonna Call (Finally)
-- Outro (Finally)
+  - Lord Lord Lord (Finally)
+  - Get a Life (Finally)
+  - Mardi Gras in New Orleans (Finally)
+  - Grazin in the Grass (Finally)
+  - Baby (Finally)
+  - We Got the Music (Finally)
+  - Put Your Right Foot Forward (Finally)
+  - When the Saints Go Marching In (Finally)
+  - Who You Gonna Call (Finally)
+  - Outro (Finally)
 external_urls:
-  spotify: https://open.spotify.com/artist/1tfkx5YqgKHID4yIYCq33z
-  wikipedia: https://en.wikipedia.org/wiki/The_Original_Pinettes_Brass_Band
+  spotify: 'https://open.spotify.com/artist/1tfkx5YqgKHID4yIYCq33z'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Original_Pinettes_Brass_Band'
 image_path: 03_Resources/source_material/ArtistPortraits/original_pinettes_brass_band.jpg
 biography_enhanced_at: '2025-11-12T14:53:48.697480'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Original_Pinettes_Brass_Band
-- https://artlitlab.org/artists/the-original-pinettes-brass-band
-- https://salon726.com/home/community-spotlight-original-pinettes-brass-band
-- https://www.wbur.org/news/2016/10/04/original-pinettes-honk-fest
-- https://honkfest.org/bands/pinettes-brass-band/
-- https://jazzajuan.com/en/programme/original-pinettes-brass-band/
+  - 'https://en.wikipedia.org/wiki/The_Original_Pinettes_Brass_Band'
+  - 'https://artlitlab.org/artists/the-original-pinettes-brass-band'
+  - 'https://salon726.com/home/community-spotlight-original-pinettes-brass-band'
+  - 'https://www.wbur.org/news/2016/10/04/original-pinettes-honk-fest'
+  - 'https://honkfest.org/bands/pinettes-brass-band/'
+  - 'https://jazzajuan.com/en/programme/original-pinettes-brass-band/'
 network_extracted: true
 entry_created: '2025-11-12T14:53:48.697491'
 last_updated: '2025-12-23T08:16:13.790346'
-origin: New Orleans, Louisiana, USA
+origin: 'New Orleans, Louisiana, USA'
+artist_type: band
 ---
 
 ![](original_pinettes_brass_band.jpg)

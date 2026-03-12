@@ -1,17 +1,17 @@
 ---
-title: DENNIS BINDER
+title: Dennis Binder
 wiki_slug: dennis-binder
 schema_version: 2
 status: active
-birth_place: Rosedale, Mississippi, USA
+birth_place: 'Rosedale, Mississippi, USA'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/dennis_binder.jpg
   caption: DENNIS BINDER
   background: solo_singer
-  origin: Rosedale, Mississippi, USA
+  origin: 'Rosedale, Mississippi, USA'
 audio_profile:
-  tempo_avg: 167.0
+  tempo_avg: 167
   energy_avg: 0.729
   valence_avg: 0.583
   danceability_avg: 0.56
@@ -25,37 +25,40 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ike Turner
-  - Buddy Holly
-  - Junior Wells
-  - Earl Hooker
-  - A.C. Reed
+    - Ike Turner
+    - Buddy Holly
+    - Junior Wells
+    - Earl Hooker
+    - A.C. Reed
   influenced: []
   mentors:
-  - Toots
+    - Toots
 spotify_data:
   followers: 1
   id: 0L8gbKwwtWyiBkNY5ooVP9
   popularity: 0
-  url: https://open.spotify.com/artist/0L8gbKwwtWyiBkNY5ooVP9
+  url: 'https://open.spotify.com/artist/0L8gbKwwtWyiBkNY5ooVP9'
 discography_enriched: true
 top_tracks:
-- 'Love You, Love You Baby (Sun Records Originals: 52 Buried Blues Treasures)'
+  - 'Love You, Love You Baby (Sun Records Originals: 52 Buried Blues Treasures)'
 external_urls:
-  spotify: https://open.spotify.com/artist/0L8gbKwwtWyiBkNY5ooVP9
+  spotify: 'https://open.spotify.com/artist/0L8gbKwwtWyiBkNY5ooVP9'
   wikipedia: ''
 image_path: ''
 biography_enhanced_at: '2025-11-20T07:21:12.271344'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://earwigmusic.com/earwig-artists/dennis-binder/
-- https://www.last.fm/music/Dennis+Binder/+wiki
-- https://www.musicbed.com/artists/dennis-binder/43483
-- https://www.ponderosastomp.com/music_more/98/Dennis+Binder
+  - 'https://earwigmusic.com/earwig-artists/dennis-binder/'
+  - 'https://www.last.fm/music/Dennis+Binder/+wiki'
+  - 'https://www.musicbed.com/artists/dennis-binder/43483'
+  - 'https://www.ponderosastomp.com/music_more/98/Dennis+Binder'
 network_extracted: true
 entry_created: '2025-11-20T07:21:12.271353'
 last_updated: '2025-12-23T08:16:07.698706'
+origin: 'Chicago, Illinois, United States'
+birth_date: '1928-11-18'
+artist_type: person
 ---
 
 ![]()

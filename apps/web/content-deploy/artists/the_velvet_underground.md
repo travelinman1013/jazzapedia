@@ -1,32 +1,32 @@
 ---
-title: THE VELVET UNDERGROUND
+title: The Velvet Underground
 wiki_slug: the-velvet-underground
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1964'
 genres:
-- proto-punk
-- art rock
+  - proto-punk
+  - art rock
 instruments:
-- drums (drum set)
-- original
-- percussion
-- background vocals
-- bass
-- organ
-- viola
-- guitar
-- lead vocals
-- piano
-- keyboard
+  - drums (drum set)
+  - original
+  - percussion
+  - background vocals
+  - bass
+  - organ
+  - viola
+  - guitar
+  - lead vocals
+  - piano
+  - keyboard
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_velvet_underground.jpg
   caption: THE VELVET UNDERGROUND
   background: group_or_band
   born: '1964'
 audio_profile:
-  tempo_avg: 115.0
+  tempo_avg: 115
   energy_avg: 0.491
   valence_avg: 0.57
   danceability_avg: 0.486
@@ -40,177 +40,182 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lou Reed
-  - John Cale
-  - Sterling Morrison
-  - Moe Tucker
-  - Nico
-  - Doug Yule
+    - Lou Reed
+    - John Cale
+    - Sterling Morrison
+    - Moe Tucker
+    - Nico
+    - Doug Yule
   influenced:
-  - David Bowie
-  - Sonic Youth
-  - The Strokes
-  - R.E.M.
+    - David Bowie
+    - Sonic Youth
+    - The Strokes
+    - R.E.M.
   mentors:
-  - La Monte Young
-  - Andy Warhol
+    - La Monte Young
+    - Andy Warhol
 spotify_data:
   followers: 2130615
   id: 1nJvji2KIlWSseXRSlNYsC
   popularity: 61
-  url: https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC
+  url: 'https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC'
 discography_enriched: true
 top_tracks:
-- Sunday Morning (The Velvet Underground & Nico 45th Anniversary)
-- Pale Blue Eyes (The Velvet Underground (45th Anniversary))
-- Femme Fatale (The Velvet Underground & Nico 45th Anniversary)
-- I'll Be Your Mirror (The Velvet Underground & Nico 45th Anniversary)
-- After Hours (The Velvet Underground (45th Anniversary))
-- 'Oh! Sweet Nuthin'' - 2015 Remaster (Loaded: Re-Loaded 45th Anniversary Edition)'
-- 'Rock & Roll - Full Length Version; 2015 Remaster (Loaded: Re-Loaded 45th Anniversary Edition)'
-- I'm Waiting For The Man (The Velvet Underground & Nico 45th Anniversary)
-- Heroin (The Velvet Underground & Nico 45th Anniversary)
-- Venus In Furs (The Velvet Underground & Nico 45th Anniversary)
+  - Sunday Morning (The Velvet Underground & Nico 45th Anniversary)
+  - Pale Blue Eyes (The Velvet Underground (45th Anniversary))
+  - Femme Fatale (The Velvet Underground & Nico 45th Anniversary)
+  - I'll Be Your Mirror (The Velvet Underground & Nico 45th Anniversary)
+  - After Hours (The Velvet Underground (45th Anniversary))
+  - >-
+    Oh! Sweet Nuthin' - 2015 Remaster (Loaded: Re-Loaded 45th Anniversary
+    Edition)
+  - >-
+    Rock & Roll - Full Length Version; 2015 Remaster (Loaded: Re-Loaded 45th
+    Anniversary Edition)
+  - I'm Waiting For The Man (The Velvet Underground & Nico 45th Anniversary)
+  - Heroin (The Velvet Underground & Nico 45th Anniversary)
+  - Venus In Furs (The Velvet Underground & Nico 45th Anniversary)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/94b0fb9d-a066-4823-b2ec-af1d324bcfcf
-  spotify: https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC
-  wikipedia: https://en.wikipedia.org/wiki/The_Velvet_Underground
+  musicbrainz: 'https://musicbrainz.org/artist/94b0fb9d-a066-4823-b2ec-af1d324bcfcf'
+  spotify: 'https://open.spotify.com/artist/1nJvji2KIlWSseXRSlNYsC'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Velvet_Underground'
 image_path: 03_Resources/source_material/ArtistPortraits/the_velvet_underground.jpg
 biography_enhanced_at: '2025-11-11T09:40:25.689414'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.britannica.com/topic/the-Velvet-Underground
-- https://en.wikipedia.org/wiki/The_Velvet_Underground
-- https://classicalbumsundays.com/album-of-the-month-the-velvet-underground-nico/
-- https://last.fm/music/The+Velvet+Underground/+wiki
+  - 'https://www.britannica.com/topic/the-Velvet-Underground'
+  - 'https://en.wikipedia.org/wiki/The_Velvet_Underground'
+  - >-
+    https://classicalbumsundays.com/album-of-the-month-the-velvet-underground-nico/
+  - 'https://last.fm/music/The+Velvet+Underground/+wiki'
 network_extracted: true
 entry_created: '2025-11-11T09:40:25.689427'
 last_updated: '2025-12-23T08:16:17.261613'
 disambiguation: Lou Reed’s seminal rock band
 members:
-- begin: '1965'
-  end: '1965'
-  instruments:
-  - drums (drum set)
-  - original
-  - percussion
-  mbid: 2b2dfe0d-b53a-432a-ae52-fb4b3eac12a3
-  name: Angus MacLise
-- begin: '1965'
-  end: '1968'
-  instruments:
-  - background vocals
-  - bass
-  - organ
-  - original
-  - viola
-  mbid: 72c090b6-a68e-4cb9-b330-85278681a714
-  name: John Cale
-- begin: '1965'
-  end: '1970'
-  instruments:
-  - guitar
-  - lead vocals
-  - original
-  - piano
-  mbid: 9d1ebcfe-4c15-4d18-95d3-d919898638a1
-  name: Lou Reed
-- begin: '1965'
-  end: '1971'
-  instruments:
-  - background vocals
-  - bass
-  - guitar
-  - original
-  mbid: af1b9cbb-bba5-4601-b4e3-9b06617ace21
-  name: Sterling Morrison
-- begin: '1965'
-  end: '1971'
-  instruments:
-  - background vocals
-  - drums (drum set)
-  - percussion
-  mbid: 66742cdb-d1c2-4546-8204-3ff36db12da9
-  name: Moe Tucker
-- begin: '1967'
-  end: '1967'
-  instruments:
-  - lead vocals
-  mbid: 37c61bf2-5fb1-47ae-9605-80025d956958
-  name: Nico
-- begin: '1968'
-  end: '1973'
-  instruments:
-  - bass
-  - guitar
-  - lead vocals
-  - organ
-  - piano
-  mbid: 308f54f6-f8f6-4192-85e0-8dccc8bc8b1c
-  name: Doug Yule
-- begin: '1970'
-  end: '1970'
-  instruments:
-  - drums (drum set)
-  mbid: 963eda1c-4889-4f27-bd6c-c63ed2a4c22e
-  name: Billy Yule
-- begin: '1970'
-  end: '1971'
-  instruments:
-  - background vocals
-  - bass
-  mbid: 50739156-880c-42d2-84d4-37c41cdf61b7
-  name: Walter Powers
-- begin: '1971'
-  end: '1972'
-  instruments:
-  - background vocals
-  - keyboard
-  mbid: fda7bc40-851a-4dd9-959e-edf4e9775683
-  name: Willie Alexander
-- begin: '1992'
-  end: '1995'
-  instruments:
-  - background vocals
-  - bass
-  - guitar
-  - original
-  mbid: af1b9cbb-bba5-4601-b4e3-9b06617ace21
-  name: Sterling Morrison
-- begin: '1992'
-  end: '1996'
-  instruments:
-  - background vocals
-  - bass
-  - organ
-  - original
-  - viola
-  mbid: 72c090b6-a68e-4cb9-b330-85278681a714
-  name: John Cale
-- begin: '1992'
-  end: '1996'
-  instruments:
-  - guitar
-  - lead vocals
-  - original
-  - piano
-  mbid: 9d1ebcfe-4c15-4d18-95d3-d919898638a1
-  name: Lou Reed
-- begin: '1992'
-  end: '1996'
-  instruments:
-  - background vocals
-  - drums (drum set)
-  - percussion
-  mbid: 66742cdb-d1c2-4546-8204-3ff36db12da9
-  name: Moe Tucker
+  - begin: '1965'
+    end: '1965'
+    instruments:
+      - drums (drum set)
+      - original
+      - percussion
+    mbid: 2b2dfe0d-b53a-432a-ae52-fb4b3eac12a3
+    name: Angus MacLise
+  - begin: '1965'
+    end: '1968'
+    instruments:
+      - background vocals
+      - bass
+      - organ
+      - original
+      - viola
+    mbid: 72c090b6-a68e-4cb9-b330-85278681a714
+    name: John Cale
+  - begin: '1965'
+    end: '1970'
+    instruments:
+      - guitar
+      - lead vocals
+      - original
+      - piano
+    mbid: 9d1ebcfe-4c15-4d18-95d3-d919898638a1
+    name: Lou Reed
+  - begin: '1965'
+    end: '1971'
+    instruments:
+      - background vocals
+      - bass
+      - guitar
+      - original
+    mbid: af1b9cbb-bba5-4601-b4e3-9b06617ace21
+    name: Sterling Morrison
+  - begin: '1965'
+    end: '1971'
+    instruments:
+      - background vocals
+      - drums (drum set)
+      - percussion
+    mbid: 66742cdb-d1c2-4546-8204-3ff36db12da9
+    name: Moe Tucker
+  - begin: '1967'
+    end: '1967'
+    instruments:
+      - lead vocals
+    mbid: 37c61bf2-5fb1-47ae-9605-80025d956958
+    name: Nico
+  - begin: '1968'
+    end: '1973'
+    instruments:
+      - bass
+      - guitar
+      - lead vocals
+      - organ
+      - piano
+    mbid: 308f54f6-f8f6-4192-85e0-8dccc8bc8b1c
+    name: Doug Yule
+  - begin: '1970'
+    end: '1970'
+    instruments:
+      - drums (drum set)
+    mbid: 963eda1c-4889-4f27-bd6c-c63ed2a4c22e
+    name: Billy Yule
+  - begin: '1970'
+    end: '1971'
+    instruments:
+      - background vocals
+      - bass
+    mbid: 50739156-880c-42d2-84d4-37c41cdf61b7
+    name: Walter Powers
+  - begin: '1971'
+    end: '1972'
+    instruments:
+      - background vocals
+      - keyboard
+    mbid: fda7bc40-851a-4dd9-959e-edf4e9775683
+    name: Willie Alexander
+  - begin: '1992'
+    end: '1995'
+    instruments:
+      - background vocals
+      - bass
+      - guitar
+      - original
+    mbid: af1b9cbb-bba5-4601-b4e3-9b06617ace21
+    name: Sterling Morrison
+  - begin: '1992'
+    end: '1996'
+    instruments:
+      - background vocals
+      - bass
+      - organ
+      - original
+      - viola
+    mbid: 72c090b6-a68e-4cb9-b330-85278681a714
+    name: John Cale
+  - begin: '1992'
+    end: '1996'
+    instruments:
+      - guitar
+      - lead vocals
+      - original
+      - piano
+    mbid: 9d1ebcfe-4c15-4d18-95d3-d919898638a1
+    name: Lou Reed
+  - begin: '1992'
+    end: '1996'
+    instruments:
+      - background vocals
+      - drums (drum set)
+      - percussion
+    mbid: 66742cdb-d1c2-4546-8204-3ff36db12da9
+    name: Moe Tucker
 musicbrainz_id: 94b0fb9d-a066-4823-b2ec-af1d324bcfcf
-origin: New York
+origin: 'New York City, New York, United States'
 tags:
-- art rock
-- experimental rock
-- garage rock
+  - art rock
+  - experimental rock
+  - garage rock
 ---
 
 ![](the_velvet_underground.jpg)

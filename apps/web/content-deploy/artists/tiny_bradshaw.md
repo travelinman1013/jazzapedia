@@ -1,27 +1,27 @@
 ---
-title: tiny bradshaw
+title: Tiny Bradshaw
 wiki_slug: tiny-bradshaw
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1905-09-23'
-birth_place: Youngstown, Ohio, United States
+birth_place: 'Youngstown, Ohio, United States'
 death_date: '1958-11-26'
 genres:
-- boogie-woogie
-- swing music
-- boogie
+  - boogie-woogie
+  - swing music
+  - boogie
 instruments:
-- original
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/tiny_bradshaw.jpg
   caption: tiny bradshaw
   background: non_vocal_instrumentalist
   born: '1905-09-23'
-  origin: Youngstown, Ohio, United States
+  origin: 'Youngstown, Ohio, United States'
   died: '1958-11-26'
 audio_profile:
-  tempo_avg: 136.0
+  tempo_avg: 136
   energy_avg: 0.578
   valence_avg: 0.787
   danceability_avg: 0.638
@@ -35,48 +35,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Luis Russell
-  - Marion Hardy
-  - Mills Blue Rhythm Band
+    - Luis Russell
+    - Marion Hardy
+    - Mills Blue Rhythm Band
   influenced:
-  - Johnny Burnette & The Rock and Roll Trio
-  - The Yardbirds
-  - Aerosmith
-  - Buddy Holly
-  - Led Zeppelin
+    - Johnny Burnette & The Rock and Roll Trio
+    - The Yardbirds
+    - Aerosmith
+    - Buddy Holly
+    - Led Zeppelin
   mentors:
-  - Horace Henderson
+    - Horace Henderson
 spotify_data:
   followers: 5214
   id: 70sHURBVOq2rwWkmBpDxYa
   popularity: 17
-  url: https://open.spotify.com/artist/70sHURBVOq2rwWkmBpDxYa
+  url: 'https://open.spotify.com/artist/70sHURBVOq2rwWkmBpDxYa'
 discography_enriched: true
 top_tracks:
-- Soft (The EP Collection)
-- The Train Kept-a-Rollin'
-- Bradshaw Boogie (The EP Collection)
-- Soft (The EP Collection... Plus)
-- I'm Going To Have Myself A Ball (Walk That Mess!)
-- 'I''m Going to Have Myself a Ball (02-08-50) (Classics: 1949: 1951)'
-- 'The Train Kept a Rollin'' (07-25-51) (Classics: 1949: 1951)'
-- Breaking Up The House (Breakin' Up The House)
-- Bradshaw Boogie (The EP Collection... Plus)
-- The Train Kept A-Rollin' (The EP Collection)
+  - Soft (The EP Collection)
+  - The Train Kept-a-Rollin'
+  - Bradshaw Boogie (The EP Collection)
+  - Soft (The EP Collection... Plus)
+  - I'm Going To Have Myself A Ball (Walk That Mess!)
+  - 'I''m Going to Have Myself a Ball (02-08-50) (Classics: 1949: 1951)'
+  - 'The Train Kept a Rollin'' (07-25-51) (Classics: 1949: 1951)'
+  - Breaking Up The House (Breakin' Up The House)
+  - Bradshaw Boogie (The EP Collection... Plus)
+  - The Train Kept A-Rollin' (The EP Collection)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/eab6f070-310f-4c8b-98a6-a9fdcedb514e
-  spotify: https://open.spotify.com/artist/70sHURBVOq2rwWkmBpDxYa
-  wikipedia: https://en.wikipedia.org/wiki/Tiny_Bradshaw
+  musicbrainz: 'https://musicbrainz.org/artist/eab6f070-310f-4c8b-98a6-a9fdcedb514e'
+  spotify: 'https://open.spotify.com/artist/70sHURBVOq2rwWkmBpDxYa'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tiny_Bradshaw'
 image_path: 03_Resources/source_material/ArtistPortraits/tiny_bradshaw.jpg
 biography_enhanced_at: '2025-10-19T10:49:33.450972'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Tiny_Bradshaw
-- https://wbssmedia.com/artists/detail/2307
-- https://fromthevaults-boppinbob.blogspot.com/2019/09/tiny-bradshaw-born-23-september-1907.html
-- https://www.bear-family.com/bradshaw-tiny/
-- https://www.imdb.com/name/nm1561040/bio/
+  - 'https://en.wikipedia.org/wiki/Tiny_Bradshaw'
+  - 'https://wbssmedia.com/artists/detail/2307'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2019/09/tiny-bradshaw-born-23-september-1907.html
+  - 'https://www.bear-family.com/bradshaw-tiny/'
+  - 'https://www.imdb.com/name/nm1561040/bio/'
 network_extracted: true
 entry_created: '2025-10-19T10:49:33.450976'
 last_updated: '2025-12-23T08:16:17.487799'
@@ -84,10 +85,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:56:30.460830'
 musicbrainz_id: eab6f070-310f-4c8b-98a6-a9fdcedb514e
 tags:
-- jazz
-- jump blues
-- jump-blues
-
+  - jazz
+  - jump blues
+  - jump-blues
+is_active: false
 ---
 
 ![](tiny_bradshaw.jpg)

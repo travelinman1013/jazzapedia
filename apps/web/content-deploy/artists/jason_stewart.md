@@ -9,13 +9,13 @@ infobox:
   caption: Jason Stewart
   background: solo_singer
 audio_profile:
-  tempo_avg: 123.0
+  tempo_avg: 123
   energy_avg: 0.472
   valence_avg: 0.498
   danceability_avg: 0.529
   acousticness_avg: 0.607
   instrumentalness_avg: 0.523
-  loudness_avg: -14.0
+  loudness_avg: -14
   speechiness_avg: 0.046
   liveness_avg: 0.163
   track_count: 50
@@ -29,39 +29,50 @@ spotify_data:
   followers: 49
   id: 0IUkaUJffwpTDXR3RUqagw
   popularity: 1
-  url: https://open.spotify.com/artist/0IUkaUJffwpTDXR3RUqagw
+  url: 'https://open.spotify.com/artist/0IUkaUJffwpTDXR3RUqagw'
 discography_enriched: true
 top_tracks:
-- Crepuscule with Nellie (An Open Letter To Thelonious (Deluxe Edition))
-- Teo (An Open Letter To Thelonious (Deluxe Edition))
-- Ruby, My Dear (An Open Letter To Thelonious (Deluxe Edition))
-- Evidence (An Open Letter To Thelonious (Deluxe Edition))
-- Around the Bend (feat. Jason Stewart) (Three Red Feathers)
-- Same Mistakes (feat. Jason Stewart) (Three Red Feathers)
-- Jackie-ing (An Open Letter To Thelonious (Deluxe Edition))
-- Epistrophy (An Open Letter To Thelonious (Deluxe Edition))
-- Monk's Mood (An Open Letter To Thelonious (Deluxe Edition))
-- Straight, No Chaser (An Open Letter To Thelonious (Deluxe Edition))
+  - Crepuscule with Nellie (An Open Letter To Thelonious (Deluxe Edition))
+  - Teo (An Open Letter To Thelonious (Deluxe Edition))
+  - 'Ruby, My Dear (An Open Letter To Thelonious (Deluxe Edition))'
+  - Evidence (An Open Letter To Thelonious (Deluxe Edition))
+  - Around the Bend (feat. Jason Stewart) (Three Red Feathers)
+  - Same Mistakes (feat. Jason Stewart) (Three Red Feathers)
+  - Jackie-ing (An Open Letter To Thelonious (Deluxe Edition))
+  - Epistrophy (An Open Letter To Thelonious (Deluxe Edition))
+  - Monk's Mood (An Open Letter To Thelonious (Deluxe Edition))
+  - 'Straight, No Chaser (An Open Letter To Thelonious (Deluxe Edition))'
 external_urls:
-  spotify: https://open.spotify.com/artist/0IUkaUJffwpTDXR3RUqagw
+  spotify: 'https://open.spotify.com/artist/0IUkaUJffwpTDXR3RUqagw'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/jason_stewart.jpg
 biography_enhanced_at: '2025-12-06T05:51:36.955529'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- I‑95 FM host profile describing Jason Stewart as a professional drummer and radio personality in Maine[1]
-- Perfectly Imperfect profile of Jason Stewart (aka themjeans), a former professional DJ and co‑host of the How Long Gone
-  podcast[2]
-- Jess & Jason Stewart music studio biography describing Jason’s early development on acoustic and electric guitar and singing,
-  in an acoustic duo context[3]
-- All About Jazz landing page for a musician named Jason Stewart (minimal public detail, no clear match to Spotify artist)[4]
-- SeattleBluegrass.com profile of Jason Stewart as a banjo player and vocalist for the bluegrass group Dysfunction Junction,
-  from East Tennessee[5]
-- Gossamer interview/profile of Jason Stewart discussing his background as a professional DJ and his move into podcasting[6]
+  - >-
+    I‑95 FM host profile describing Jason Stewart as a professional drummer and
+    radio personality in Maine[1]
+  - >-
+    Perfectly Imperfect profile of Jason Stewart (aka themjeans), a former
+    professional DJ and co‑host of the How Long Gone podcast[2]
+  - >-
+    Jess & Jason Stewart music studio biography describing Jason’s early
+    development on acoustic and electric guitar and singing, in an acoustic duo
+    context[3]
+  - >-
+    All About Jazz landing page for a musician named Jason Stewart (minimal
+    public detail, no clear match to Spotify artist)[4]
+  - >-
+    SeattleBluegrass.com profile of Jason Stewart as a banjo player and vocalist
+    for the bluegrass group Dysfunction Junction, from East Tennessee[5]
+  - >-
+    Gossamer interview/profile of Jason Stewart discussing his background as a
+    professional DJ and his move into podcasting[6]
 network_extracted: true
 entry_created: '2025-12-06T05:51:36.955536'
 last_updated: '2025-12-23T08:16:10.251820'
+artist_type: person
 ---
 
 ![](jason_stewart.jpg)

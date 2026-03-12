@@ -3,13 +3,13 @@ title: Corey Christiansen
 wiki_slug: corey-christiansen
 schema_version: 2
 status: active
-birth_place: Cache Valley, Utah, United States
+birth_place: 'Cache Valley, Utah, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/corey_christiansen.jpg
   caption: Corey Christiansen
   background: solo_singer
-  origin: Cache Valley, Utah, United States
+  origin: 'Cache Valley, Utah, United States'
 audio_profile:
   tempo_avg: 121.8
   energy_avg: 0.402
@@ -25,52 +25,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Origin Records artists and ensembles
-  - Faculty and students at Utah State University
-  - Indiana University Jazz Studies faculty
+    - Origin Records artists and ensembles
+    - Faculty and students at Utah State University
+    - Indiana University Jazz Studies faculty
   influenced:
-  - Students of the Utah State University guitar and jazz programs
-  - Indiana University jazz guitar students
-  - Participants in Mel Bay clinics and Corey Christiansen Modern Guitar Community
+    - Students of the Utah State University guitar and jazz programs
+    - Indiana University jazz guitar students
+    - >-
+      Participants in Mel Bay clinics and Corey Christiansen Modern Guitar
+      Community
   mentors:
-  - Mike Christiansen
-  - David Baker
-  - Bill Bay
+    - Mike Christiansen
+    - David Baker
+    - Bill Bay
 spotify_data:
   followers: 1448
   id: 1LqRFvnVgPnwY5pLgZrEfR
   popularity: 7
-  url: https://open.spotify.com/artist/1LqRFvnVgPnwY5pLgZrEfR
+  url: 'https://open.spotify.com/artist/1LqRFvnVgPnwY5pLgZrEfR'
 discography_enriched: true
 top_tracks:
-- Sittin' on Top of the World (Lone Prairie)
-- Summertime (Vignola Plays Gershwin)
-- Greasy Coat (Days Over)
-- All Hat, No Saddle (Whispers on the Wind)
-- I Got Rhythm (Vignola Plays Gershwin)
-- Streets of Laredo (Days Over)
-- Wichita Lineman (Days Over)
-- They Can't Take That Away From Me (Vignola Plays Gershwin)
-- Days Over (Days Over)
-- Rockin' Chair (Days Over)
+  - Sittin' on Top of the World (Lone Prairie)
+  - Summertime (Vignola Plays Gershwin)
+  - Greasy Coat (Days Over)
+  - 'All Hat, No Saddle (Whispers on the Wind)'
+  - I Got Rhythm (Vignola Plays Gershwin)
+  - Streets of Laredo (Days Over)
+  - Wichita Lineman (Days Over)
+  - They Can't Take That Away From Me (Vignola Plays Gershwin)
+  - Days Over (Days Over)
+  - Rockin' Chair (Days Over)
 external_urls:
-  spotify: https://open.spotify.com/artist/1LqRFvnVgPnwY5pLgZrEfR
+  spotify: 'https://open.spotify.com/artist/1LqRFvnVgPnwY5pLgZrEfR'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/corey_christiansen.jpg
 biography_enhanced_at: '2025-12-11T03:45:14.888373'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Jazz Guitar Today feature and interview on Corey Christiansen.[1]
-- Utah Arts & Museums juror statement on Corey Christiansen.[2]
-- DGL Artists roster biography for Corey Christiansen.[3]
-- Utah State University faculty biography for Corey Christiansen.[4]
-- All About Jazz artist profile for Corey Christiansen.[5]
-- Origin Records artist page for Corey Christiansen.[7]
-- Utah State University news article on Corey’s chart-topping recording.[8]
+  - 'Jazz Guitar Today feature and interview on Corey Christiansen.[1]'
+  - 'Utah Arts & Museums juror statement on Corey Christiansen.[2]'
+  - 'DGL Artists roster biography for Corey Christiansen.[3]'
+  - 'Utah State University faculty biography for Corey Christiansen.[4]'
+  - 'All About Jazz artist profile for Corey Christiansen.[5]'
+  - 'Origin Records artist page for Corey Christiansen.[7]'
+  - 'Utah State University news article on Corey’s chart-topping recording.[8]'
 network_extracted: true
 entry_created: '2025-12-11T03:45:14.888383'
 last_updated: '2025-12-23T08:16:07.196150'
+origin: 'Utah, United States'
+artist_type: person
 ---
 
 ![](corey_christiansen.jpg)

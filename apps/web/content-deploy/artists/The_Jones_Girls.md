@@ -2,16 +2,16 @@
 title: The Jones Girls
 wiki_slug: the-jones-girls
 schema_version: 2
-artist_type: Group
+artist_type: person
 status: active
 birth_date: '1968'
 genres:
-- philly soul
-- post-disco
-- quiet storm
+  - philly soul
+  - post-disco
+  - quiet storm
 instruments:
-- original
-- lead vocals
+  - original
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/The_Jones_Girls.jpg
   caption: The Jones Girls
@@ -32,52 +32,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Diana Ross
-  - Gamble & Huff
+    - Diana Ross
+    - Gamble & Huff
   influenced:
-  - Various soul and R&B artists
+    - Various soul and R&B artists
   mentors:
-  - Kenny Gamble
-  - Dexter Wansel
+    - Kenny Gamble
+    - Dexter Wansel
 spotify_data:
   followers: 133049
   id: 7aHa6IZwZ13FoC5AXFkCSh
   popularity: 39
-  url: https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh
+  url: 'https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh'
 discography_enriched: true
 top_tracks:
-- Nights Over Egypt (Get as Much Love as You Can)
-- Who Can I Run To (The Jones Girls)
-- You Gonna Make Me Love Somebody Else (The Jones Girls)
-- This Feeling's Killing Me (The Jones Girls)
-- I Need Some (I Need Some)
-- I'll Never Forget (My Favorite Disco) (Time Is Slipping Away)
-- When I'm Gone (At Peace with Woman)
-- Keep It Comin' (Keep It Comin')
-- Children of the Night (At Peace with Woman)
-- Dance Turned Into a Romance (At Peace with Woman)
+  - Nights Over Egypt (Get as Much Love as You Can)
+  - Who Can I Run To (The Jones Girls)
+  - You Gonna Make Me Love Somebody Else (The Jones Girls)
+  - This Feeling's Killing Me (The Jones Girls)
+  - I Need Some (I Need Some)
+  - I'll Never Forget (My Favorite Disco) (Time Is Slipping Away)
+  - When I'm Gone (At Peace with Woman)
+  - Keep It Comin' (Keep It Comin')
+  - Children of the Night (At Peace with Woman)
+  - Dance Turned Into a Romance (At Peace with Woman)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2abe50ac-74df-4baf-8928-b90cb9f19f68
-  spotify: https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh
-  wikipedia: https://en.wikipedia.org/wiki/The_Jones_Girls
+  musicbrainz: 'https://musicbrainz.org/artist/2abe50ac-74df-4baf-8928-b90cb9f19f68'
+  spotify: 'https://open.spotify.com/artist/7aHa6IZwZ13FoC5AXFkCSh'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Jones_Girls'
 image_path: 03_Resources/source_material/ArtistPortraits/The_Jones_Girls.jpg
 biography_enhanced_at: '2025-10-20T09:24:11.569140'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Jones_Girls
-- https://www.allaboutjazz.com/musicians/the-jones-girls/
-- https://www.gamble-huffmusic.com/artist/jones-girls/
+  - 'https://en.wikipedia.org/wiki/The_Jones_Girls'
+  - 'https://www.allaboutjazz.com/musicians/the-jones-girls/'
+  - 'https://www.gamble-huffmusic.com/artist/jones-girls/'
 network_extracted: true
 entry_created: '2025-10-20T09:24:11.569151'
 last_updated: '2025-12-23T08:16:04.090326'
 musicbrainz_enriched_at: '2025-10-21T09:46:12.461603'
 musicbrainz_id: 2abe50ac-74df-4baf-8928-b90cb9f19f68
-origin: Detroit, Michigan, USA
+origin: 'Detroit, Michigan, USA'
 tags:
-- r&b
-- soul
-
+  - r&b
+  - soul
+birth_place: Detroit
 ---
 
 ![](The_Jones_Girls.jpg)

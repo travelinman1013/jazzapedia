@@ -1,12 +1,12 @@
 ---
-title: meters
+title: The Meters
 wiki_slug: meters
 schema_version: 2
 status: active
 genres:
-- funk
-- soul
-- jazz funk
+  - funk
+  - soul
+  - jazz funk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/meters.jpg
   caption: meters
@@ -26,55 +26,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Art Neville
-  - George Porter Jr.
-  - Leo Nocentelli
-  - Joseph 'Zigaboo' Modeliste
-  - Cyril Neville
-  - Allen Toussaint
-  - Dr. John
-  - Paul McCartney
-  - The Rolling Stones
+    - Art Neville
+    - George Porter Jr.
+    - Leo Nocentelli
+    - Joseph 'Zigaboo' Modeliste
+    - Cyril Neville
+    - Allen Toussaint
+    - Dr. John
+    - Paul McCartney
+    - The Rolling Stones
   influenced:
-  - Red Hot Chili Peppers
-  - Beastie Boys
-  - Jamiroquai
-  - Neville Brothers
+    - Red Hot Chili Peppers
+    - Beastie Boys
+    - Jamiroquai
+    - Neville Brothers
   mentors:
-  - Allen Toussaint
+    - Allen Toussaint
 spotify_data:
   followers: 298309
   id: 2JRvXPGWiINrnJljNJhG5s
   popularity: 48
-  url: https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s
+  url: 'https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s'
 discography_enriched: true
 top_tracks:
-- Cissy Strut (The Meters)
-- Just Kissed My Baby (Rejuvenation)
-- 'Cissy Strut (Funkify Your Life: The Meters Anthology)'
-- Hey Pocky A-Way - 2002 Remaster (Rejuvenation)
-- Fire on the Bayou (Fire on the Bayou)
-- Hand Clapping Song (Struttin')
-- Stormy (The Meters)
-- People Say (Rejuvenation)
-- It Ain't No Use (Rejuvenation)
-- They All Ask'd for You (Fire on the Bayou)
+  - Cissy Strut (The Meters)
+  - Just Kissed My Baby (Rejuvenation)
+  - 'Cissy Strut (Funkify Your Life: The Meters Anthology)'
+  - Hey Pocky A-Way - 2002 Remaster (Rejuvenation)
+  - Fire on the Bayou (Fire on the Bayou)
+  - Hand Clapping Song (Struttin')
+  - Stormy (The Meters)
+  - People Say (Rejuvenation)
+  - It Ain't No Use (Rejuvenation)
+  - They All Ask'd for You (Fire on the Bayou)
 external_urls:
-  spotify: https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s
-  wikipedia: https://en.wikipedia.org/wiki/The_Meters
+  spotify: 'https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Meters'
 image_path: 03_Resources/source_material/ArtistPortraits/meters.jpg
 biography_enhanced_at: '2025-10-19T10:57:33.517499'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Meters
-- https://www.last.fm/music/The+Meters/+wiki
-- https://wbssmedia.com/artists/detail/4260
-- https://musicrising.tulane.edu/discover/people/the-meters/
+  - 'https://en.wikipedia.org/wiki/The_Meters'
+  - 'https://www.last.fm/music/The+Meters/+wiki'
+  - 'https://wbssmedia.com/artists/detail/4260'
+  - 'https://musicrising.tulane.edu/discover/people/the-meters/'
 network_extracted: true
 entry_created: '2025-10-19T10:57:33.517506'
 last_updated: '2025-12-23T08:16:13.018737'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![](meters.jpg)

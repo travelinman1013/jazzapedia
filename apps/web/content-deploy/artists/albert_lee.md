@@ -1,15 +1,15 @@
 ---
-title: albert lee
+title: Albert Lee
 wiki_slug: albert-lee
 schema_version: 2
 status: active
-birth_place: Lingen, Herefordshire, England, United Kingdom
+birth_place: 'Lingen, Herefordshire, England, United Kingdom'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/albert_lee.jpg
   caption: albert lee
   background: solo_singer
-  origin: Lingen, Herefordshire, England, United Kingdom
+  origin: 'Lingen, Herefordshire, England, United Kingdom'
 audio_profile:
   tempo_avg: 128.5
   energy_avg: 0.675
@@ -25,53 +25,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Eric Clapton
-  - The Everly Brothers
-  - Emmylou Harris
-  - Heads, Hands & Feet
-  - Bill Wyman's Rhythm Kings
-  - Hogan's Heroes
+    - Eric Clapton
+    - The Everly Brothers
+    - Emmylou Harris
+    - 'Heads, Hands & Feet'
+    - Bill Wyman's Rhythm Kings
+    - Hogan's Heroes
   influenced:
-  - Brad Paisley
-  - Tommy Emmanuel
-  - Vince Gill
+    - Brad Paisley
+    - Tommy Emmanuel
+    - Vince Gill
   mentors:
-  - Buddy Holly
-  - James Burton
-  - Jerry Reed
+    - Buddy Holly
+    - James Burton
+    - Jerry Reed
 spotify_data:
   followers: 17184
   id: 3YMlcBYj21DcMALlALTO7m
   popularity: 24
-  url: https://open.spotify.com/artist/3YMlcBYj21DcMALlALTO7m
+  url: 'https://open.spotify.com/artist/3YMlcBYj21DcMALlALTO7m'
 discography_enriched: true
 top_tracks:
-- Foggy Mountain Breakdown (Earl Scruggs And Friends)
-- Fun Ranch Boogie (Gagged But Not Bound)
-- Lay Down Sally
-- Born to Run
-- Cluster Pluck (feat. James Burton, Vince Gill, Albert Lee, John Jorgenson, Brent Mason, Redd Volkaert & Steve Wariner) (Play)
-- Country Gentleman (Gagged But Not Bound)
-- Promised Land
-- Country Boy (Tearing It Up)
-- Flowers Of Edinburgh (Gagged But Not Bound)
-- Tiger Rag (Gagged But Not Bound)
+  - Foggy Mountain Breakdown (Earl Scruggs And Friends)
+  - Fun Ranch Boogie (Gagged But Not Bound)
+  - Lay Down Sally
+  - Born to Run
+  - >-
+    Cluster Pluck (feat. James Burton, Vince Gill, Albert Lee, John Jorgenson,
+    Brent Mason, Redd Volkaert & Steve Wariner) (Play)
+  - Country Gentleman (Gagged But Not Bound)
+  - Promised Land
+  - Country Boy (Tearing It Up)
+  - Flowers Of Edinburgh (Gagged But Not Bound)
+  - Tiger Rag (Gagged But Not Bound)
 external_urls:
-  spotify: https://open.spotify.com/artist/3YMlcBYj21DcMALlALTO7m
-  wikipedia: https://en.wikipedia.org/wiki/Albert_Lee
+  spotify: 'https://open.spotify.com/artist/3YMlcBYj21DcMALlALTO7m'
+  wikipedia: 'https://en.wikipedia.org/wiki/Albert_Lee'
 image_path: 03_Resources/source_material/ArtistPortraits/albert_lee.jpg
 biography_enhanced_at: '2025-10-19T10:53:44.891163'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Albert_Lee
-- https://www.popcultureclassics.com/albert_lee.html
-- https://hardlystrictlybluegrass.com/artist/albert-lee/
-- https://guitarplayer.com/players/albert-lee-live-in-rome-2010
-- https://albertleeofficial.com
+  - 'https://en.wikipedia.org/wiki/Albert_Lee'
+  - 'https://www.popcultureclassics.com/albert_lee.html'
+  - 'https://hardlystrictlybluegrass.com/artist/albert-lee/'
+  - 'https://guitarplayer.com/players/albert-lee-live-in-rome-2010'
+  - 'https://albertleeofficial.com'
 network_extracted: true
 entry_created: '2025-10-19T10:53:44.891168'
 last_updated: '2025-12-23T08:16:04.502856'
+birth_date: '1943-12-21'
+artist_type: person
 ---
 
 ![](albert_lee.jpg)

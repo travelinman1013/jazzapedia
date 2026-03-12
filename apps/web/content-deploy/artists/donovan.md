@@ -5,17 +5,17 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1946-05-10'
-birth_place: Maryhill
+birth_place: 'Maryhill, Scotland, United Kingdom'
 genres: []
 instruments:
-- acoustic guitar
-- electric guitar
-- guitar
-- 12 string guitar
-- background vocals
-- lead vocals
-- spoken vocals
-- choir vocals
+  - acoustic guitar
+  - electric guitar
+  - guitar
+  - 12 string guitar
+  - background vocals
+  - lead vocals
+  - spoken vocals
+  - choir vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/donovan.jpg
   caption: Donovan
@@ -23,7 +23,7 @@ infobox:
   born: '1946-05-10'
   origin: Maryhill
 audio_profile:
-  tempo_avg: 118.0
+  tempo_avg: 118
   energy_avg: 0.398
   valence_avg: 0.433
   danceability_avg: 0.523
@@ -37,58 +37,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mickie Most
-  - Shawn Phillips
-  - John Paul Jones, Jimmy Page, John Bonham
-  - The Beatles (notably John Lennon and Paul McCartney)
+    - Mickie Most
+    - Shawn Phillips
+    - 'John Paul Jones, Jimmy Page, John Bonham'
+    - The Beatles (notably John Lennon and Paul McCartney)
   influenced:
-  - The Beatles
-  - Led Zeppelin
-  - Nick Drake
+    - The Beatles
+    - Led Zeppelin
+    - Nick Drake
   mentors:
-  - Woody Guthrie
-  - Joan Baez
+    - Woody Guthrie
+    - Joan Baez
 spotify_data:
   followers: 96116
   id: 4SOtk3HtPYKqxnVuxNBMti
   popularity: 49
-  url: https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti
+  url: 'https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti'
 discography_enriched: true
 top_tracks:
-- Portland, Maine (Hard Settle, Ain't Troubled)
-- Grew Apart (Still That Kid)
-- I Ain't Ever Loved No One - Acoustic (The Other Way)
-- It'll Work Itself Out
-- IOWA (The Apathy Sessions)
-- Another Way (Both Ways)
-- THE SUN & THE SEA (DANCING IN THE DARK)
-- When This Is Over (Between Broken)
-- Lean on Me - ArtistsCAN
-- Seeing Other People (Without People)
+  - 'Portland, Maine (Hard Settle, Ain''t Troubled)'
+  - Grew Apart (Still That Kid)
+  - I Ain't Ever Loved No One - Acoustic (The Other Way)
+  - It'll Work Itself Out
+  - IOWA (The Apathy Sessions)
+  - Another Way (Both Ways)
+  - THE SUN & THE SEA (DANCING IN THE DARK)
+  - When This Is Over (Between Broken)
+  - Lean on Me - ArtistsCAN
+  - Seeing Other People (Without People)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/72d7d717-0837-4f2a-9641-d0f9fdd3acf7
-  spotify: https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti
-  wikipedia: https://en.wikipedia.org/wiki/Donovan
+  musicbrainz: 'https://musicbrainz.org/artist/72d7d717-0837-4f2a-9641-d0f9fdd3acf7'
+  spotify: 'https://open.spotify.com/artist/4SOtk3HtPYKqxnVuxNBMti'
+  wikipedia: 'https://en.wikipedia.org/wiki/Donovan'
 image_path: 03_Resources/source_material/ArtistPortraits/donovan.jpg
 biography_enhanced_at: '2025-11-01T15:18:49.972887'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Britannica
-- Kids Kiddle
-- Mabumbe
-- Last.fm
-- Encyclopedia.com
+  - Britannica
+  - Kids Kiddle
+  - Mabumbe
+  - Last.fm
+  - Encyclopedia.com
 network_extracted: true
 entry_created: '2025-11-01T15:18:49.972892'
 last_updated: '2025-12-23T08:16:07.961627'
-disambiguation: Scottish singer, songwriter and guitarist
+disambiguation: 'Scottish singer, songwriter and guitarist'
 gender: Male
 musicbrainz_id: 72d7d717-0837-4f2a-9641-d0f9fdd3acf7
 tags:
-- classic pop and rock
-- contemporary folk
-- folk
+  - classic pop and rock
+  - contemporary folk
+  - folk
+origin: 'Hatfield, England, United Kingdom'
 ---
 
 ![](donovan.jpg)

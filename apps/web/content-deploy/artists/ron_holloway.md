@@ -1,45 +1,49 @@
 ---
 biography_enhanced_at: '2026-01-02T01:23:39.767404'
-birth_place: Washington, D.C., USA
+birth_place: 'Washington, D.C., USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-02T01:23:39.767410'
 external_urls:
-  spotify: https://open.spotify.com/artist/0UA9WMPxEJ1PfpEdCBbqIE
+  spotify: 'https://open.spotify.com/artist/0UA9WMPxEJ1PfpEdCBbqIE'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/ron_holloway.jpg
 last_updated: '2026-01-02T01:23:39.767410'
 musical_connections:
   collaborators:
-  - Gil Scott-Heron
-  - Root Boy Slim (Foster McKenzie III)
-  - Warren Haynes
-  - Susan Tedeschi
-  - Dizzy Gillespie
-  - Gov’t Mule
-  - Allman Brothers Band
+    - Gil Scott-Heron
+    - Root Boy Slim (Foster McKenzie III)
+    - Warren Haynes
+    - Susan Tedeschi
+    - Dizzy Gillespie
+    - Gov’t Mule
+    - Allman Brothers Band
   influenced: []
   mentors:
-  - John Coltrane
-  - Sonny Rollins
-  - Dizzy Gillespie
+    - John Coltrane
+    - Sonny Rollins
+    - Dizzy Gillespie
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://concord.com/artist/ron-holloway/
-- https://lancasterrootsandblues.com/artist/ron-holloway-band/
-- https://www.bookece.com/artists/ron-holloway-band/
-- https://patch.com/virginia/fredericksburg/talkin-with-ron-holloway-a-legendary-tenor-saxophonist
-- https://www.ronhollowayband.com/ron
-- https://kids.kiddle.co/Ron_Holloway
-- https://parklifedc.com/2023/11/21/interview-ron-holloway-the-hamilton-live-11-24-23/
+  - 'https://concord.com/artist/ron-holloway/'
+  - 'https://lancasterrootsandblues.com/artist/ron-holloway-band/'
+  - 'https://www.bookece.com/artists/ron-holloway-band/'
+  - >-
+    https://patch.com/virginia/fredericksburg/talkin-with-ron-holloway-a-legendary-tenor-saxophonist
+  - 'https://www.ronhollowayband.com/ron'
+  - 'https://kids.kiddle.co/Ron_Holloway'
+  - >-
+    https://parklifedc.com/2023/11/21/interview-ron-holloway-the-hamilton-live-11-24-23/
 spotify_data:
   followers: 665
   id: 0UA9WMPxEJ1PfpEdCBbqIE
   popularity: 7
-  url: https://open.spotify.com/artist/0UA9WMPxEJ1PfpEdCBbqIE
+  url: 'https://open.spotify.com/artist/0UA9WMPxEJ1PfpEdCBbqIE'
 status: active
 title: Ron Holloway
+birth_date: '1953-08-24'
+artist_type: person
 ---
 
 ![](ron_holloway.jpg)

@@ -4,16 +4,16 @@ wiki_slug: bill-evans-jim-hall
 schema_version: 2
 status: active
 genres:
-- jazz
-- cool jazz
-- bebop
-- hard bop
+  - jazz
+  - cool jazz
+  - bebop
+  - hard bop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bill_evans_and_jim_hall.jpg
   caption: Bill Evans & Jim Hall
   background: solo_singer
 audio_profile:
-  tempo_avg: 107.0
+  tempo_avg: 107
   energy_avg: 0.189
   valence_avg: 0.321
   danceability_avg: 0.475
@@ -27,52 +27,71 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jim Hall
-  - Scott LaFaro
-  - Paul Motian
-  - Miles Davis
+    - Jim Hall
+    - Scott LaFaro
+    - Paul Motian
+    - Miles Davis
   influenced:
-  - Herbie Hancock
-  - Chick Corea
-  - Keith Jarrett
+    - Herbie Hancock
+    - Chick Corea
+    - Keith Jarrett
   mentors:
-  - George Russell
-  - Miles Davis
+    - George Russell
+    - Miles Davis
 spotify_data:
   followers: 783019
   id: 4jXfFzeP66Zy67HM2mvIIF
   popularity: 64
-  url: https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF
+  url: 'https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF'
 discography_enriched: true
 top_tracks:
-- Blue in Green (feat. John Coltrane & Bill Evans) (Kind Of Blue (Legacy Edition))
-- So What (feat. John Coltrane, Cannonball Adderley & Bill Evans) (Kind Of Blue (Legacy Edition))
-- Gary's Theme - Remastered 2003 (You Must Believe In Spring (Remastered Version))
-- But Beautiful (Stan Getz & Bill Evans)
-- B Minor Waltz - Remastered 2003 (You Must Believe In Spring (Remastered Version))
-- Blue In Green (Take 3) (Portrait In Jazz [Keepnews Collection])
-- Stella By Starlight (feat. John Coltrane & Bill Evans) (Kind Of Blue (Legacy Edition))
-- So What (feat. John Coltrane, Cannonball Adderley & Bill Evans) (Kind Of Blue)
-- Peace Piece (Everybody Digs Bill Evans)
-- All Blues (feat. John Coltrane, Cannonball Adderley & Bill Evans) (Kind Of Blue (Legacy Edition))
+  - >-
+    Blue in Green (feat. John Coltrane & Bill Evans) (Kind Of Blue (Legacy
+    Edition))
+  - >-
+    So What (feat. John Coltrane, Cannonball Adderley & Bill Evans) (Kind Of
+    Blue (Legacy Edition))
+  - >-
+    Gary's Theme - Remastered 2003 (You Must Believe In Spring (Remastered
+    Version))
+  - But Beautiful (Stan Getz & Bill Evans)
+  - >-
+    B Minor Waltz - Remastered 2003 (You Must Believe In Spring (Remastered
+    Version))
+  - 'Blue In Green (Take 3) (Portrait In Jazz [Keepnews Collection])'
+  - >-
+    Stella By Starlight (feat. John Coltrane & Bill Evans) (Kind Of Blue (Legacy
+    Edition))
+  - >-
+    So What (feat. John Coltrane, Cannonball Adderley & Bill Evans) (Kind Of
+    Blue)
+  - Peace Piece (Everybody Digs Bill Evans)
+  - >-
+    All Blues (feat. John Coltrane, Cannonball Adderley & Bill Evans) (Kind Of
+    Blue (Legacy Edition))
 external_urls:
-  spotify: https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF
-  wikipedia: https://en.wikipedia.org/wiki/Bill_Evans
+  spotify: 'https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bill_Evans'
 image_path: 03_Resources/source_material/ArtistPortraits/bill_evans_and_jim_hall.jpg
 biography_enhanced_at: '2025-12-04T07:18:58.272027'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Britannica - Bill Evans
-- EBSCO Research Starters - Bill Evans
-- Wikipedia - Bill Evans
-- All About Jazz - Bill Evans
-- Steinway & Sons - Bill Evans
-- Bill Evans Official Site
-- JazzTimes - Jim Hall Profile
+  - Britannica - Bill Evans
+  - EBSCO Research Starters - Bill Evans
+  - Wikipedia - Bill Evans
+  - All About Jazz - Bill Evans
+  - Steinway & Sons - Bill Evans
+  - Bill Evans Official Site
+  - JazzTimes - Jim Hall Profile
 network_extracted: true
 entry_created: '2025-12-04T07:18:58.272035'
 last_updated: '2025-12-23T08:16:05.505410'
+birth_place: 'Plainfield, New Jersey, United States'
+origin: 'Plainfield, New Jersey, United States (Bill Evans birthplace)'
+birth_date: '1929-08-16'
+death_date: '1980-09-15'
+artist_type: person
 ---
 
 ![](bill_evans_and_jim_hall.jpg)

@@ -2,14 +2,14 @@
 title: Sheer Mag
 wiki_slug: sheer-mag
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 birth_date: '2014'
 genres:
-- power pop
+  - power pop
 instruments:
-- lead vocals
-- original
+  - lead vocals
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sheer_mag.jpg
   caption: Sheer Mag
@@ -30,74 +30,78 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Christina (Tina) Halladay
-  - Kyle Seely
-  - Hart Seely
-  - Matt Palmer
+    - Christina (Tina) Halladay
+    - Kyle Seely
+    - Hart Seely
+    - Matt Palmer
   influenced:
-  - Downtown Boys (Victoria Ruiz)
+    - Downtown Boys (Victoria Ruiz)
   mentors:
-  - 1970s Arena Rock and Power Pop Artists (e.g., Thin Lizzy, Motown, proto-metal acts)
+    - >-
+      1970s Arena Rock and Power Pop Artists (e.g., Thin Lizzy, Motown,
+      proto-metal acts)
 spotify_data:
   followers: 55826
   id: 58ehndX799ZV9Jcv6IefJ1
   popularity: 29
-  url: https://open.spotify.com/artist/58ehndX799ZV9Jcv6IefJ1
+  url: 'https://open.spotify.com/artist/58ehndX799ZV9Jcv6IefJ1'
 discography_enriched: true
 top_tracks:
-- Silver Line (A Distant Call)
-- FAN THE FLAMES (COMPILATION (I, II, & III))
-- Expect The Bayonet (Need to Feel Your Love)
-- Moonstruck (Playing Favorites)
-- Need to Feel Your Love (Need to Feel Your Love)
-- WHAT YOU WANT (COMPILATION (I, II, & III))
-- WORTH THE TEARS (COMPILATION (I, II, & III))
-- Just Can't Get Enough (Need to Feel Your Love)
-- Suffer Me (Need to Feel Your Love)
-- Playing Favorites (Playing Favorites)
+  - Silver Line (A Distant Call)
+  - 'FAN THE FLAMES (COMPILATION (I, II, & III))'
+  - Expect The Bayonet (Need to Feel Your Love)
+  - Moonstruck (Playing Favorites)
+  - Need to Feel Your Love (Need to Feel Your Love)
+  - 'WHAT YOU WANT (COMPILATION (I, II, & III))'
+  - 'WORTH THE TEARS (COMPILATION (I, II, & III))'
+  - Just Can't Get Enough (Need to Feel Your Love)
+  - Suffer Me (Need to Feel Your Love)
+  - Playing Favorites (Playing Favorites)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/cdf4785a-e2da-47b0-b98c-4bfac0665850
-  spotify: https://open.spotify.com/artist/58ehndX799ZV9Jcv6IefJ1
-  wikipedia: https://en.wikipedia.org/wiki/Sheer_Mag
+  musicbrainz: 'https://musicbrainz.org/artist/cdf4785a-e2da-47b0-b98c-4bfac0665850'
+  spotify: 'https://open.spotify.com/artist/58ehndX799ZV9Jcv6IefJ1'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sheer_Mag'
 image_path: 03_Resources/source_material/ArtistPortraits/sheer_mag.jpg
 biography_enhanced_at: '2025-11-06T13:35:19.894671'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.loudersound.com/features/sheer-mag-playing-favorites
-- https://www.thefader.com/2017/07/27/sheer-mag-need-to-feel-your-love-interview-philadelphia
-- https://swampbooking.com/sheer-mag/
-- https://www.cactusclubmilwaukee.com/artists/sheer-mag/
-- https://uproxx.com/music/sheer-mag-need-to-feel-your-love-review/
-- https://www.phillymag.com/news/2020/01/04/sheer-mag-tina-halladay/
+  - 'https://www.loudersound.com/features/sheer-mag-playing-favorites'
+  - >-
+    https://www.thefader.com/2017/07/27/sheer-mag-need-to-feel-your-love-interview-philadelphia
+  - 'https://swampbooking.com/sheer-mag/'
+  - 'https://www.cactusclubmilwaukee.com/artists/sheer-mag/'
+  - 'https://uproxx.com/music/sheer-mag-need-to-feel-your-love-review/'
+  - 'https://www.phillymag.com/news/2020/01/04/sheer-mag-tina-halladay/'
 network_extracted: true
 entry_created: '2025-11-06T13:35:19.894689'
 last_updated: '2025-12-23T08:16:15.550725'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: 0b857468-790f-4344-a54e-2f4116bcf4e3
-  name: Christina Halladay
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: d41d0d41-fc2f-4554-a2ab-7b6c0949aafb
-  name: Hart Seely
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: ce3e95db-e9dc-44d0-a64b-80cc596feb03
-  name: Kyle Seely
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: 0b857468-790f-4344-a54e-2f4116bcf4e3
+    name: Christina Halladay
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: d41d0d41-fc2f-4554-a2ab-7b6c0949aafb
+    name: Hart Seely
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: ce3e95db-e9dc-44d0-a64b-80cc596feb03
+    name: Kyle Seely
 musicbrainz_id: cdf4785a-e2da-47b0-b98c-4bfac0665850
-origin: Philadelphia
+origin: 'Philadelphia, Pennsylvania, United States'
 tags:
-- hard rock
-- heavy metal
-- punk
+  - hard rock
+  - heavy metal
+  - punk
+birth_place: 'Purchase, New York, United States'
 ---
 
 ![](sheer_mag.jpg)

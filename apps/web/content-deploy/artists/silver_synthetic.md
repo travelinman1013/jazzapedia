@@ -2,10 +2,10 @@
 title: Silver Synthetic
 wiki_slug: silver-synthetic
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- neo-psychedelic
+  - neo-psychedelic
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/silver_synthetic.jpg
   caption: Silver Synthetic
@@ -17,7 +17,7 @@ audio_profile:
   danceability_avg: 0.587
   acousticness_avg: 0.125
   instrumentalness_avg: 0.069
-  loudness_avg: -6.0
+  loudness_avg: -6
   speechiness_avg: 0.039
   liveness_avg: 0.165
   track_count: 38
@@ -25,61 +25,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bottomfeeders
-  - JEFF the Brotherhood
+    - Bottomfeeders
+    - JEFF the Brotherhood
   influenced:
-  - ''
+    - ''
   mentors:
-  - The Kinks
-  - 1970s pop and country‑rock artists (various)
+    - The Kinks
+    - 1970s pop and country‑rock artists (various)
 spotify_data:
   followers: 5259
   id: 3IAqbfoY2vJbB6r1acXmle
   popularity: 15
-  url: https://open.spotify.com/artist/3IAqbfoY2vJbB6r1acXmle
+  url: 'https://open.spotify.com/artist/3IAqbfoY2vJbB6r1acXmle'
 discography_enriched: true
 top_tracks:
-- Cool Blue Night (Cool Blue Night)
-- Yr Gonna Be Happy (Yr Gonna Be Happy)
-- Only Time (Rosalie)
-- Age Of Infamy (Rosalie)
-- Yr Gonna Be Happy (Rosalie)
-- In the Beginning (Silver Synthetic)
-- Choose A Life (Rosalie)
-- Rosalie (Rosalie)
-- Red Light (Rosalie)
-- Cool Blue Night (Rosalie)
+  - Cool Blue Night (Cool Blue Night)
+  - Yr Gonna Be Happy (Yr Gonna Be Happy)
+  - Only Time (Rosalie)
+  - Age Of Infamy (Rosalie)
+  - Yr Gonna Be Happy (Rosalie)
+  - In the Beginning (Silver Synthetic)
+  - Choose A Life (Rosalie)
+  - Rosalie (Rosalie)
+  - Red Light (Rosalie)
+  - Cool Blue Night (Rosalie)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/565276c8-d128-4684-9202-b723e64a1017
-  spotify: https://open.spotify.com/artist/3IAqbfoY2vJbB6r1acXmle
+  musicbrainz: 'https://musicbrainz.org/artist/565276c8-d128-4684-9202-b723e64a1017'
+  spotify: 'https://open.spotify.com/artist/3IAqbfoY2vJbB6r1acXmle'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/silver_synthetic.jpg
 biography_enhanced_at: '2025-12-09T04:22:28.946466'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.neworleans.com/listing/silver-synthetic/48421/
-- https://www.uturntouring.com/project/6565/
-- https://www.allmusic.com/artist/silver-synthetic-mn0004026591
-- https://www.song-bar.com/album-releases/silver-synthetic-silver-synthetic-album-review
-- http://silversynthetic.com
-- https://www.uncut.co.uk/features/were-new-here-silver-synthetic-149229/
+  - 'https://www.neworleans.com/listing/silver-synthetic/48421/'
+  - 'https://www.uturntouring.com/project/6565/'
+  - 'https://www.allmusic.com/artist/silver-synthetic-mn0004026591'
+  - >-
+    https://www.song-bar.com/album-releases/silver-synthetic-silver-synthetic-album-review
+  - 'http://silversynthetic.com'
+  - 'https://www.uncut.co.uk/features/were-new-here-silver-synthetic-149229/'
 network_extracted: true
 entry_created: '2025-12-09T04:22:28.946475'
 last_updated: '2025-12-23T08:16:15.650477'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 273c08f0-9fe6-4c0f-9693-d2183c8ea586
-  name: Chris Lyons
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 62c3f575-d590-4488-993d-4802c84b3c06
-  name: Kunal Prakash
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 273c08f0-9fe6-4c0f-9693-d2183c8ea586
+    name: Chris Lyons
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 62c3f575-d590-4488-993d-4802c84b3c06
+    name: Kunal Prakash
 musicbrainz_id: 565276c8-d128-4684-9202-b723e64a1017
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](silver_synthetic.jpg)

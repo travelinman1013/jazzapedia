@@ -2,56 +2,57 @@
 artist_type: person
 biography_enhanced_at: '2026-01-01T01:07:54.192650'
 birth_date: '1897-09-08'
-birth_place: Mississippi
+birth_place: 'Meridian, Mississippi, United States'
 death_date: '1933-05-26'
-disambiguation: country music pioneer, died in 1933
+disambiguation: 'country music pioneer, died in 1933'
 enhancement_provider: perplexity
 entry_created: '2026-01-01T01:07:54.192663'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/394492c0-cecf-40a8-b676-0e5706317fab
-  spotify: https://open.spotify.com/artist/7bKOOOKEkE918wKOQEhYnp
-  wikipedia: https://en.wikipedia.org/wiki/Jimmie_Rodgers
+  musicbrainz: 'https://musicbrainz.org/artist/394492c0-cecf-40a8-b676-0e5706317fab'
+  spotify: 'https://open.spotify.com/artist/7bKOOOKEkE918wKOQEhYnp'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jimmie_Rodgers'
 gender: Male
 genres:
-- doo-wop
+  - doo-wop
 image_path: 03_Resources/source_material/ArtistPortraits/jimmie_rodgers.jpg
 instruments:
-- guitar
-- tenor vocals
-- spoken vocals
+  - guitar
+  - tenor vocals
+  - spoken vocals
 last_updated: '2026-01-01T01:07:54.192665'
 musical_connections:
   collaborators:
-  - The Tenneva Ramblers
-  - Claude Grant
-  - Jack Grant
-  - Jack Pierce
-  - Louis Armstrong
-  - Ralph Peer
+    - The Tenneva Ramblers
+    - Claude Grant
+    - Jack Grant
+    - Jack Pierce
+    - Louis Armstrong
+    - Ralph Peer
   influenced:
-  - Multiple artists across all genres
+    - Multiple artists across all genres
   mentors:
-  - Gandy dancers and railroad workers
+    - Gandy dancers and railroad workers
 musicbrainz_id: 394492c0-cecf-40a8-b676-0e5706317fab
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- Wikipedia - Jimmie Rodgers
-- Alabama Music Hall of Fame - Jimmie Rodgers Biography
-- Songwriters Hall of Fame - Jimmie Rodgers
-- Jimmie Rodgers Festival & Museum - Biography
-- TeachRock - Jimmie Rodgers
+  - Wikipedia - Jimmie Rodgers
+  - Alabama Music Hall of Fame - Jimmie Rodgers Biography
+  - Songwriters Hall of Fame - Jimmie Rodgers
+  - Jimmie Rodgers Festival & Museum - Biography
+  - TeachRock - Jimmie Rodgers
 spotify_data:
   followers: 12837
   id: 7bKOOOKEkE918wKOQEhYnp
   popularity: 39
-  url: https://open.spotify.com/artist/7bKOOOKEkE918wKOQEhYnp
+  url: 'https://open.spotify.com/artist/7bKOOOKEkE918wKOQEhYnp'
 status: active
 tags:
-- acoustic blues
-- country
-- country yodeling
+  - acoustic blues
+  - country
+  - country yodeling
 title: Jimmie Rodgers
+is_active: false
 ---
 
 ![](jimmie_rodgers.jpg)

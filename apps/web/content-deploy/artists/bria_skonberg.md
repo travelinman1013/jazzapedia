@@ -3,15 +3,15 @@ title: Bria Skonberg
 wiki_slug: bria-skonberg
 schema_version: 2
 status: active
-birth_place: Chilliwack, British Columbia, Canada
+birth_place: 'Chilliwack, British Columbia, Canada'
 genres:
-- vocal jazz
-- jazz
+  - vocal jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bria_skonberg.jpg
   caption: Bria Skonberg
   background: solo_singer
-  origin: Chilliwack, British Columbia, Canada
+  origin: 'Chilliwack, British Columbia, Canada'
 audio_profile:
   tempo_avg: 121.7
   energy_avg: 0.324
@@ -27,60 +27,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jon Batiste
-  - Wycliffe Gordon
-  - Stephane Wrembel
-  - Steven Bernstein
-  - Herlin Riley
-  - Don Vappie
-  - Ben Jaffe
-  - Bucky Pizzarelli
-  - Howard Alden
-  - U2
-  - Sun Ra Arkestra
+    - Jon Batiste
+    - Wycliffe Gordon
+    - Stephane Wrembel
+    - Steven Bernstein
+    - Herlin Riley
+    - Don Vappie
+    - Ben Jaffe
+    - Bucky Pizzarelli
+    - Howard Alden
+    - U2
+    - Sun Ra Arkestra
   influenced:
-  - Jazz students and educators
+    - Jazz students and educators
   mentors:
-  - Warren Vaché
-  - Louis Armstrong
-  - Anita O'Day
-  - Sidney Bechet
+    - Warren Vaché
+    - Louis Armstrong
+    - Anita O'Day
+    - Sidney Bechet
 spotify_data:
   followers: 16788
   id: 0ahtSggrsy1v2oJuKfmzGm
   popularity: 36
-  url: https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm
+  url: 'https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm'
 discography_enriched: true
 top_tracks:
-- Dance Me to the End of Love (With a Twist)
-- Que Sera Sera (Whatever Will Be Will Be) (Bria)
-- Do You Know What It Means to Miss New Orleans (Do You Know What It Means to Miss New Orleans)
-- You're Getting to Be a Habit with Me (Bria)
-- Sway (With a Twist)
-- From This Moment On (Bria)
-- Don't Be That Way (Bria)
-- Cocktails for Two (With a Twist)
-- L.O.V.E. (Fresh)
-- Do You Know What It Means to Miss New Orleans (What It Means)
+  - Dance Me to the End of Love (With a Twist)
+  - Que Sera Sera (Whatever Will Be Will Be) (Bria)
+  - >-
+    Do You Know What It Means to Miss New Orleans (Do You Know What It Means to
+    Miss New Orleans)
+  - You're Getting to Be a Habit with Me (Bria)
+  - Sway (With a Twist)
+  - From This Moment On (Bria)
+  - Don't Be That Way (Bria)
+  - Cocktails for Two (With a Twist)
+  - L.O.V.E. (Fresh)
+  - Do You Know What It Means to Miss New Orleans (What It Means)
 external_urls:
-  spotify: https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm
+  spotify: 'https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/bria_skonberg.jpg
 biography_enhanced_at: '2025-12-04T08:07:51.320722'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Texas Tech University Office of the President Lecture Series
-- Bria Skonberg Official Website Biography
-- SFJAZZ 2025-26 Season
-- ArtsMAnia Interview (2015)
-- Winspear Centre Artist Profile
-- Vancouver Symphony Orchestra Artist Profile
-- TO Live Artist Profile
-- Chilliwack Cultural Centre Event Page
+  - Texas Tech University Office of the President Lecture Series
+  - Bria Skonberg Official Website Biography
+  - SFJAZZ 2025-26 Season
+  - ArtsMAnia Interview (2015)
+  - Winspear Centre Artist Profile
+  - Vancouver Symphony Orchestra Artist Profile
+  - TO Live Artist Profile
+  - Chilliwack Cultural Centre Event Page
 network_extracted: true
 entry_created: '2025-12-04T08:07:51.320729'
 last_updated: '2025-12-23T08:16:06.066839'
+artist_type: person
 ---
 
 ![](bria_skonberg.jpg)

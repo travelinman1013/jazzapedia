@@ -3,15 +3,15 @@ title: Pot Folse
 wiki_slug: pot-folse
 schema_version: 2
 status: active
-birth_place: Raceland, Louisiana, United States
+birth_place: 'Raceland, Louisiana, United States'
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/pot_folse.jpg
   caption: Pot Folse
   background: solo_singer
-  origin: Raceland, Louisiana, United States
+  origin: 'Raceland, Louisiana, United States'
 audio_profile:
   tempo_avg: 132.2
   energy_avg: 0.572
@@ -27,46 +27,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Debbie Folse
-  - Wendy Folse
+    - Debbie Folse
+    - Wendy Folse
   influenced:
-  - Bayou Lafourche Cajuns
+    - Bayou Lafourche Cajuns
   mentors:
-  - Professor Wilson
+    - Professor Wilson
 spotify_data:
   followers: 115
   id: 16dv7BXSU1VzavodgDpk04
   popularity: 1
-  url: https://open.spotify.com/artist/16dv7BXSU1VzavodgDpk04
+  url: 'https://open.spotify.com/artist/16dv7BXSU1VzavodgDpk04'
 discography_enriched: true
 top_tracks:
-- It Ain't Gonna Rain No More (Mixing It Up)
-- Help Me Make It Through the Yard (Everything's Going to Pott)
-- Hey la bas (Bayou Cajun Music)
-- Little Cajun Woman (Mixing It Up)
-- Dance with Me Henry (Mixing It Up)
-- Sunny Side of the Street (Mixing It Up)
-- Mockingbird Hill (Mixing It Up)
-- Ce chère tite fille (Mixing It Up)
-- When My Dreamboat Comes Home (Mixing It Up)
-- Write Myself a Letter (Mixing It Up)
+  - It Ain't Gonna Rain No More (Mixing It Up)
+  - Help Me Make It Through the Yard (Everything's Going to Pott)
+  - Hey la bas (Bayou Cajun Music)
+  - Little Cajun Woman (Mixing It Up)
+  - Dance with Me Henry (Mixing It Up)
+  - Sunny Side of the Street (Mixing It Up)
+  - Mockingbird Hill (Mixing It Up)
+  - Ce chère tite fille (Mixing It Up)
+  - When My Dreamboat Comes Home (Mixing It Up)
+  - Write Myself a Letter (Mixing It Up)
 external_urls:
-  spotify: https://open.spotify.com/artist/16dv7BXSU1VzavodgDpk04
+  spotify: 'https://open.spotify.com/artist/16dv7BXSU1VzavodgDpk04'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/pot_folse.jpg
 biography_enhanced_at: '2025-11-24T08:29:51.204947'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://worldmusiccentral.org/the-exciting-diversity-of-cajun-music/
-- https://www.last.fm/music/Pott+Folse/+wiki
-- https://www.houmatoday.com/story/news/2021/07/06/cajun-musician-pott-folse-remembered-service-family-community-and-country/7874711002/
-- https://www.houmatoday.com/story/news/2014/10/12/at-89-racelands-pott-folse-has-still-got-the-music-in-him/27121219007/
-- https://flattownmusic.com/artist/pott-folse/
-- https://www.houmatoday.com/story/lifestyle/2020/06/28/local-vets-celebrate-pott-folsersquos-95th-birthday/41968397/
+  - 'https://worldmusiccentral.org/the-exciting-diversity-of-cajun-music/'
+  - 'https://www.last.fm/music/Pott+Folse/+wiki'
+  - >-
+    https://www.houmatoday.com/story/news/2021/07/06/cajun-musician-pott-folse-remembered-service-family-community-and-country/7874711002/
+  - >-
+    https://www.houmatoday.com/story/news/2014/10/12/at-89-racelands-pott-folse-has-still-got-the-music-in-him/27121219007/
+  - 'https://flattownmusic.com/artist/pott-folse/'
+  - >-
+    https://www.houmatoday.com/story/lifestyle/2020/06/28/local-vets-celebrate-pott-folsersquos-95th-birthday/41968397/
 network_extracted: true
 entry_created: '2025-11-24T08:29:51.204954'
 last_updated: '2025-12-23T08:16:14.423119'
+birth_date: '1925-06-12'
+artist_type: person
 ---
 
 ![](pot_folse.jpg)

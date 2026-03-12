@@ -5,77 +5,77 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1909-03-27'
-birth_place: Kansas City
+birth_place: 'Kansas City, Missouri, United States'
 death_date: '1973-09-20'
 genres:
-- jazz
-- cool jazz
+  - jazz
+  - cool jazz
 instruments:
-- eponymous
-- original
-- tenor saxophone
-- piano
-- spoken vocals
+  - eponymous
+  - original
+  - tenor saxophone
+  - piano
+  - spoken vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c01557ad-d41e-4316-a285-605769e2ab3b
-  name: Duke Ellington and His Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 95efc7b4-a48c-4afa-a6d8-5ac0d758fb74
-  name: Ben Webster Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: c78a2f03-808e-4edc-9a55-c57f9c4bb3ea
-  name: The Ben Webster Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 26dde2e4-dba7-44db-b492-becd1e5ef8aa
-  name: Ben Webster Sextet
-- begin: ''
-  end: ''
-  instruments:
-  - tenor saxophone
-  mbid: 3cd95572-1af4-466f-a7f2-a65f15c934b3
-  name: Teddy Wilson and His Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: f34d18a4-f581-4bd0-9d60-93fa269d3546
-  name: Ben Webster With Strings
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 7970f0cb-0a03-4933-845a-6fb4ee14fbd7
-  name: Ben Webster and His Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 3d36c3dc-1594-477c-b821-4a4289768fab
-  name: Ben Webster and All Stars
-- begin: ''
-  end: ''
-  instruments:
-  - tenor saxophone
-  mbid: 4a6bad4f-f26c-442f-bd1e-5234dee82ddf
-  name: Rex Stewart and the Ellington Alumni All Stars
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c01557ad-d41e-4316-a285-605769e2ab3b
+    name: Duke Ellington and His Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 95efc7b4-a48c-4afa-a6d8-5ac0d758fb74
+    name: Ben Webster Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: c78a2f03-808e-4edc-9a55-c57f9c4bb3ea
+    name: The Ben Webster Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 26dde2e4-dba7-44db-b492-becd1e5ef8aa
+    name: Ben Webster Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: 3cd95572-1af4-466f-a7f2-a65f15c934b3
+    name: Teddy Wilson and His Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: f34d18a4-f581-4bd0-9d60-93fa269d3546
+    name: Ben Webster With Strings
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 7970f0cb-0a03-4933-845a-6fb4ee14fbd7
+    name: Ben Webster and His Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 3d36c3dc-1594-477c-b821-4a4289768fab
+    name: Ben Webster and All Stars
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: 4a6bad4f-f26c-442f-bd1e-5234dee82ddf
+    name: Rex Stewart and the Ellington Alumni All Stars
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ben_webster.jpg
   caption: Ben Webster
@@ -98,63 +98,70 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Duke Ellington
-  - Coleman Hawkins
-  - Art Tatum
-  - Oscar Peterson
-  - Billie Holiday, Ella Fitzgerald, Carmen McRae, Frank Sinatra, Joe Williams, Jimmy Witherspoon
-  - Ray Brown, Roy Eldridge, Budd Johnson, Les Spann, Jimmy Jones, Jo Jones
+    - Duke Ellington
+    - Coleman Hawkins
+    - Art Tatum
+    - Oscar Peterson
+    - >-
+      Billie Holiday, Ella Fitzgerald, Carmen McRae, Frank Sinatra, Joe
+      Williams, Jimmy Witherspoon
+    - 'Ray Brown, Roy Eldridge, Budd Johnson, Les Spann, Jimmy Jones, Jo Jones'
   influenced:
-  - Paul Gonsalves
-  - Harold Ashby
-  - Archie Shepp
-  - Eddie 'Lockjaw' Davis
-  - Frank Foster, Sonny Rollins, Lew Tabackin, Scott Hamilton, Bennie Wallace
+    - Paul Gonsalves
+    - Harold Ashby
+    - Archie Shepp
+    - Eddie 'Lockjaw' Davis
+    - 'Frank Foster, Sonny Rollins, Lew Tabackin, Scott Hamilton, Bennie Wallace'
   mentors:
-  - Coleman Hawkins
-  - Budd Johnson
-  - Benny Carter
-  - Johnny Hodges
+    - Coleman Hawkins
+    - Budd Johnson
+    - Benny Carter
+    - Johnny Hodges
 spotify_data:
   followers: 110986
   id: 34W7ZCX0LZeJd8q6boKGOk
   popularity: 53
-  url: https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk
+  url: 'https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk'
 discography_enriched: true
 top_tracks:
-- It Never Entered My Mind (Coleman Hawkins Encounters Ben Webster (Expanded Edition))
-- Tenderly (King Of The Tenors)
-- Stardust (See You At The Fair)
-- 'Cocktails For Two (Verve Jazz Masters 34: Coleman Hawkins)'
-- You'd Be So Nice To Come Home To (Coleman Hawkins Encounters Ben Webster (Expanded Edition))
-- Tangerine (Coleman Hawkins Encounters Ben Webster (Expanded Edition))
-- That's All (King Of The Tenors)
-- In The Wee Small Hours Of The Morning (Jazz 'Round Midnight)
-- Sunday (Ben Webster's Finest Hour)
-- How Long Has This Been Going On (Ben And "Sweets")
+  - >-
+    It Never Entered My Mind (Coleman Hawkins Encounters Ben Webster (Expanded
+    Edition))
+  - Tenderly (King Of The Tenors)
+  - Stardust (See You At The Fair)
+  - 'Cocktails For Two (Verve Jazz Masters 34: Coleman Hawkins)'
+  - >-
+    You'd Be So Nice To Come Home To (Coleman Hawkins Encounters Ben Webster
+    (Expanded Edition))
+  - Tangerine (Coleman Hawkins Encounters Ben Webster (Expanded Edition))
+  - That's All (King Of The Tenors)
+  - In The Wee Small Hours Of The Morning (Jazz 'Round Midnight)
+  - Sunday (Ben Webster's Finest Hour)
+  - How Long Has This Been Going On (Ben And "Sweets")
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e28c0b26-3bdb-45dc-b4f5-f309c7c35ec4
-  spotify: https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk
-  wikipedia: https://en.wikipedia.org/wiki/Ben_Webster
+  musicbrainz: 'https://musicbrainz.org/artist/e28c0b26-3bdb-45dc-b4f5-f309c7c35ec4'
+  spotify: 'https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ben_Webster'
 image_path: 03_Resources/source_material/ArtistPortraits/ben_webster.jpg
 biography_enhanced_at: '2025-11-11T09:39:07.455111'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://wallacebass.com/ben-webster-the-heart-of-the-matter/
-- https://www.udiscovermusic.com/stories/ben-webster-associates-feature/
-- https://nationaljazzarchive.org.uk/explore/interviews/1635310-ben-webster
-- https://www.bluenote.com/artist/ben-webster/
-- https://benwebsterfoundation.com/bw-history/ben-webster-biography
+  - 'https://wallacebass.com/ben-webster-the-heart-of-the-matter/'
+  - 'https://www.udiscovermusic.com/stories/ben-webster-associates-feature/'
+  - 'https://nationaljazzarchive.org.uk/explore/interviews/1635310-ben-webster'
+  - 'https://www.bluenote.com/artist/ben-webster/'
+  - 'https://benwebsterfoundation.com/bw-history/ben-webster-biography'
 network_extracted: true
 entry_created: '2025-11-11T09:39:07.455122'
 last_updated: '2025-12-23T08:16:05.273261'
 gender: Male
 musicbrainz_id: e28c0b26-3bdb-45dc-b4f5-f309c7c35ec4
 tags:
-- 2008 universal fire victim
-- easy listening
-- jazz
+  - 2008 universal fire victim
+  - easy listening
+  - jazz
+is_active: false
 ---
 
 ![](ben_webster.jpg)

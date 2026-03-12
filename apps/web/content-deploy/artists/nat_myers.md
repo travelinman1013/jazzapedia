@@ -3,15 +3,17 @@ title: Nat Myers
 wiki_slug: nat-myers
 schema_version: 2
 status: active
-birth_place: Kenton County, Kentucky, United States (raised); Kansas, United States (born)
+birth_place: 'Kenton County, Kentucky, United States (raised); Kansas, United States (born)'
 genres:
-- gothic country
-- blues
+  - gothic country
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/nat_myers.jpg
   caption: Nat Myers
   background: solo_singer
-  origin: Kenton County, Kentucky, United States (raised); Kansas, United States (born)
+  origin: >-
+    Kenton County, Kentucky, United States (raised); Kansas, United States
+    (born)
 audio_profile:
   tempo_avg: 121.2
   energy_avg: 0.461
@@ -27,53 +29,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dan Auerbach
-  - Pat McLaughlin
-  - Alvin Youngblood Hart
-  - Jay Skaggs
+    - Dan Auerbach
+    - Pat McLaughlin
+    - Alvin Youngblood Hart
+    - Jay Skaggs
   influenced:
-  - No widely documented proteges or students as of 2025
+    - No widely documented proteges or students as of 2025
   mentors:
-  - Dan Auerbach
-  - Alvin Youngblood Hart
-  - Charley Patton (influence)
-  - Sylvester Weaver (influence)
+    - Dan Auerbach
+    - Alvin Youngblood Hart
+    - Charley Patton (influence)
+    - Sylvester Weaver (influence)
 spotify_data:
   followers: 12053
   id: 2QMlNryks9wyxBCsBGciTS
   popularity: 23
-  url: https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS
+  url: 'https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS'
 discography_enriched: true
 top_tracks:
-- Duck N’ Dodge (Yellow Peril)
-- Is What It Is (the tonk take) (Is What It Is (the tonk take))
-- Willow Witchin' (Hot Take) (Willow Witchin' (Hot Take))
-- Yellow Peril (Yellow Peril)
-- Yellow Peril (Yellow Peril)
-- 75-71 (Yellow Peril)
-- Ramble No More (Yellow Peril)
-- Pray For Rain (Yellow Peril)
-- Willow Witchin’ (Tell Everybody! (21st Century Juke Joint Blues From Easy Eye Sound))
-- No Pistol Sigh (Hot Take) (No Pistol Sigh (Hot Take))
+  - Duck N’ Dodge (Yellow Peril)
+  - Is What It Is (the tonk take) (Is What It Is (the tonk take))
+  - Willow Witchin' (Hot Take) (Willow Witchin' (Hot Take))
+  - Yellow Peril (Yellow Peril)
+  - Yellow Peril (Yellow Peril)
+  - 75-71 (Yellow Peril)
+  - Ramble No More (Yellow Peril)
+  - Pray For Rain (Yellow Peril)
+  - >-
+    Willow Witchin’ (Tell Everybody! (21st Century Juke Joint Blues From Easy
+    Eye Sound))
+  - No Pistol Sigh (Hot Take) (No Pistol Sigh (Hot Take))
 external_urls:
-  spotify: https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS
-  wikipedia: https://en.wikipedia.org/wiki/Nat_Myers
+  spotify: 'https://open.spotify.com/artist/2QMlNryks9wyxBCsBGciTS'
+  wikipedia: 'https://en.wikipedia.org/wiki/Nat_Myers'
 image_path: 03_Resources/source_material/ArtistPortraits/nat_myers.jpg
 biography_enhanced_at: '2025-11-08T21:55:55.385007'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://floydfest.com/artist/nat-myers/
-- https://www.leoweekly.com/music/the-stripped-down-style-of-kentuckian-and-korean-american-blues-artist-nat-myers-16719277/
-- https://winthropbluesfestival.com/natmyers/
-- https://www.gnatmyers.com/bio
-- https://www.salvationsouth.com/bluegrass-state-blues-nat-myers/
-- https://en.wikipedia.org/wiki/Nat_Myers
-- https://www.kcrw.com/shows/press-play-with-madeleine-brand/stories/yellow-peril-music
+  - 'https://floydfest.com/artist/nat-myers/'
+  - >-
+    https://www.leoweekly.com/music/the-stripped-down-style-of-kentuckian-and-korean-american-blues-artist-nat-myers-16719277/
+  - 'https://winthropbluesfestival.com/natmyers/'
+  - 'https://www.gnatmyers.com/bio'
+  - 'https://www.salvationsouth.com/bluegrass-state-blues-nat-myers/'
+  - 'https://en.wikipedia.org/wiki/Nat_Myers'
+  - >-
+    https://www.kcrw.com/shows/press-play-with-madeleine-brand/stories/yellow-peril-music
 network_extracted: true
 entry_created: '2025-11-08T21:55:55.385023'
 last_updated: '2025-12-23T08:16:13.456043'
-
+artist_type: person
 ---
 
 ![](nat_myers.jpg)

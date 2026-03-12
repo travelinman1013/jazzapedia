@@ -23,34 +23,35 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Band Members
+    - Band Members
   influenced: []
   mentors:
-  - New Orleans Brass Bands
+    - New Orleans Brass Bands
 spotify_data:
   followers: 4
   id: 6EiPzIJInrwcELpI3PxAbt
   popularity: 0
-  url: https://open.spotify.com/artist/6EiPzIJInrwcELpI3PxAbt
+  url: 'https://open.spotify.com/artist/6EiPzIJInrwcELpI3PxAbt'
 discography_enriched: true
 top_tracks:
-- Getaway (Getaway)
+  - Getaway (Getaway)
 external_urls:
-  spotify: https://open.spotify.com/artist/6EiPzIJInrwcELpI3PxAbt
+  spotify: 'https://open.spotify.com/artist/6EiPzIJInrwcELpI3PxAbt'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/demolition_brass_band.jpg
 biography_enhanced_at: '2025-11-24T08:43:16.434327'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.thebash.com/brass-band/demolition-brass-band
-- https://www.makermusicfestival.com/projectstandalone/demolition-brass-band/
-- https://greenwichfirst.com/events/demo-brass-2025/
-- https://lacotebordelaise.fr/demolition-band/
+  - 'https://www.thebash.com/brass-band/demolition-brass-band'
+  - 'https://www.makermusicfestival.com/projectstandalone/demolition-brass-band/'
+  - 'https://greenwichfirst.com/events/demo-brass-2025/'
+  - 'https://lacotebordelaise.fr/demolition-band/'
 network_extracted: true
 entry_created: '2025-11-24T08:43:16.434343'
 last_updated: '2025-12-23T08:16:07.686105'
-origin: New York City, New York, United States
+origin: 'New York City, New York, United States'
+artist_type: band
 ---
 
 ![](demolition_brass_band.jpg)

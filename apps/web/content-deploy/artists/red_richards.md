@@ -3,13 +3,13 @@ title: Red Richards
 wiki_slug: red-richards
 schema_version: 2
 status: active
-birth_place: New York City, New York, United States
+birth_place: 'New York City, New York, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/red_richards.jpg
   caption: Red Richards
   background: solo_singer
-  origin: New York City, New York, United States
+  origin: 'New York City, New York, United States'
 audio_profile:
   tempo_avg: 112.1
   energy_avg: 0.462
@@ -25,48 +25,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Skeets Tolbert
-  - Sidney Bechet
-  - Vic Dickenson
-  - Muggsy Spanier
-  - Eddie Condon
+    - Skeets Tolbert
+    - Sidney Bechet
+    - Vic Dickenson
+    - Muggsy Spanier
+    - Eddie Condon
   influenced:
-  - Contemporary stride pianists and traditional jazz musicians
+    - Contemporary stride pianists and traditional jazz musicians
   mentors:
-  - Fats Waller
+    - Fats Waller
 spotify_data:
   followers: 70
   id: 4xDQWV6TuWArk1XSoUGymV
   popularity: 1
-  url: https://open.spotify.com/artist/4xDQWV6TuWArk1XSoUGymV
+  url: 'https://open.spotify.com/artist/4xDQWV6TuWArk1XSoUGymV'
 discography_enriched: true
 top_tracks:
-- Five O'Clock Whistle (Ding Dong)
-- Blue And Brokenhearted (Ding Dong)
-- Isle Of Golden Dreams (Ding Dong)
-- Judy (Dixie Flyer - Muggsy! 1950-54)
-- Abi (Sleepless Nights)
-- Before Midnight (Deep House Chart Series, Vol. 9)
-- I Want to Believe, Pt. 2 - Hurukan Remix
-- I Want to Believe, Pt. 2 - Hurukan Remix (Neural Techno, Vol. 3)
-- Haters - Red Richards Remix
-- I Want to Believe, Pt. 2 - Hurukan Remix (Electronic Pure Techno Tunes, Vol. 5)
+  - Five O'Clock Whistle (Ding Dong)
+  - Blue And Brokenhearted (Ding Dong)
+  - Isle Of Golden Dreams (Ding Dong)
+  - Judy (Dixie Flyer - Muggsy! 1950-54)
+  - Abi (Sleepless Nights)
+  - 'Before Midnight (Deep House Chart Series, Vol. 9)'
+  - 'I Want to Believe, Pt. 2 - Hurukan Remix'
+  - 'I Want to Believe, Pt. 2 - Hurukan Remix (Neural Techno, Vol. 3)'
+  - Haters - Red Richards Remix
+  - >-
+    I Want to Believe, Pt. 2 - Hurukan Remix (Electronic Pure Techno Tunes, Vol.
+    5)
 external_urls:
-  spotify: https://open.spotify.com/artist/4xDQWV6TuWArk1XSoUGymV
-  wikipedia: https://en.wikipedia.org/wiki/Red_Richards
+  spotify: 'https://open.spotify.com/artist/4xDQWV6TuWArk1XSoUGymV'
+  wikipedia: 'https://en.wikipedia.org/wiki/Red_Richards'
 image_path: 03_Resources/source_material/ArtistPortraits/red_richards.jpg
 biography_enhanced_at: '2025-11-17T10:40:53.672179'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.allmusic.com/artist/charles-red-richards-mn0001850419
-- https://www.the-independent.com/news/obituaries/obituary-red-richards-1151109.html
-- https://jazzlives.wordpress.com/tag/red-richards/
-- https://www.allaboutjazz.com/musicians/red-richards/
-- https://www.iheart.com/artist/red-richards-96190/
+  - 'https://www.allmusic.com/artist/charles-red-richards-mn0001850419'
+  - >-
+    https://www.the-independent.com/news/obituaries/obituary-red-richards-1151109.html
+  - 'https://jazzlives.wordpress.com/tag/red-richards/'
+  - 'https://www.allaboutjazz.com/musicians/red-richards/'
+  - 'https://www.iheart.com/artist/red-richards-96190/'
 network_extracted: true
 entry_created: '2025-11-17T10:40:53.672190'
 last_updated: '2025-12-23T08:16:14.750754'
+birth_date: '1912-10-19'
+death_date: '1983-03-12'
+artist_type: person
 ---
 
 ![](red_richards.jpg)

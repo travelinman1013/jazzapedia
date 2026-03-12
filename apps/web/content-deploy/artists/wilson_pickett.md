@@ -1,38 +1,38 @@
 ---
-title: wilson pickett
+title: Wilson Pickett
 wiki_slug: wilson-pickett
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1941-03-18'
-birth_place: Prattville
+birth_place: 'Prattville, Alabama, United States'
 death_date: '2006-01-19'
 genres:
-- motown
-- soul
-- northern soul
+  - motown
+  - soul
+  - northern soul
 instruments:
-- eponymous
-- original
-- lead vocals
-associated_acts:
-- begin: '1960'
-  end: '1963'
-  instruments: []
-  mbid: 0e51f31a-0bee-4724-81c0-41aa2728e2f3
-  name: The Falcons
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
-  mbid: b5ac43ab-48dc-4072-b830-269a5648e93e
-  name: Wilson Pickett & His Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 06d9ae7a-1112-4b2a-8d63-5f2c16d5147b
-  name: The Soul Clan
+  - lead vocals
+associated_acts:
+  - begin: '1960'
+    end: '1963'
+    instruments: []
+    mbid: 0e51f31a-0bee-4724-81c0-41aa2728e2f3
+    name: The Falcons
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: b5ac43ab-48dc-4072-b830-269a5648e93e
+    name: Wilson Pickett & His Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 06d9ae7a-1112-4b2a-8d63-5f2c16d5147b
+    name: The Soul Clan
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/wilson_pickett.jpg
   caption: wilson pickett
@@ -55,55 +55,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Steve Cropper
-  - Jerry Wexler
-  - Kenny Gamble and Leon Huff
-  - The Falcons
+    - Steve Cropper
+    - Jerry Wexler
+    - Kenny Gamble and Leon Huff
+    - The Falcons
   influenced:
-  - Jonny Lang
-  - Johnny Gill
-  - Countless soul and rock bands
+    - Jonny Lang
+    - Johnny Gill
+    - Countless soul and rock bands
   mentors:
-  - Julius Cheeks
+    - Julius Cheeks
 spotify_data:
   followers: 660625
   id: 0N5PyKJzS3M1XNlaCL7bbE
   popularity: 52
-  url: https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE
+  url: 'https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE'
 discography_enriched: true
 top_tracks:
-- Land of 1000 Dances (The Exciting Wilson Pickett)
-- Mustang Sally (The Wicked Pickett)
-- In the Midnight Hour (In the Midnight Hour)
-- Mustang Sally
-- Hey Jude (Hey Jude)
-- Don't Let the Green Grass Fool You (In Philadelphia)
-- Something You Got (The Exciting Wilson Pickett)
-- 634-5789 (The Exciting Wilson Pickett)
-- Hey Joe (Right On)
-- Funky Broadway (The Sound of Wilson Pickett)
+  - Land of 1000 Dances (The Exciting Wilson Pickett)
+  - Mustang Sally (The Wicked Pickett)
+  - In the Midnight Hour (In the Midnight Hour)
+  - Mustang Sally
+  - Hey Jude (Hey Jude)
+  - Don't Let the Green Grass Fool You (In Philadelphia)
+  - Something You Got (The Exciting Wilson Pickett)
+  - 634-5789 (The Exciting Wilson Pickett)
+  - Hey Joe (Right On)
+  - Funky Broadway (The Sound of Wilson Pickett)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/fc6214b3-6d82-4803-be74-01ece1723e42
-  spotify: https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE
-  wikipedia: https://en.wikipedia.org/wiki/Wilson_Pickett
+  musicbrainz: 'https://musicbrainz.org/artist/fc6214b3-6d82-4803-be74-01ece1723e42'
+  spotify: 'https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE'
+  wikipedia: 'https://en.wikipedia.org/wiki/Wilson_Pickett'
 image_path: 03_Resources/source_material/ArtistPortraits/wilson_pickett.jpg
 biography_enhanced_at: '2025-11-11T09:33:15.283016'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.ebsco.com/research-starters/biography/wilson-pickett
-- https://en.wikipedia.org/wiki/Wilson_Pickett
-- https://www.britannica.com/biography/Wilson-Pickett
-- https://www.alamhof.org/wilsonpicket
+  - 'https://www.ebsco.com/research-starters/biography/wilson-pickett'
+  - 'https://en.wikipedia.org/wiki/Wilson_Pickett'
+  - 'https://www.britannica.com/biography/Wilson-Pickett'
+  - 'https://www.alamhof.org/wilsonpicket'
 network_extracted: true
 entry_created: '2025-11-11T09:33:15.283023'
 last_updated: '2025-12-23T08:16:18.234424'
 gender: Male
 musicbrainz_id: fc6214b3-6d82-4803-be74-01ece1723e42
 tags:
-- hey joe
-- soul
-
+  - hey joe
+  - soul
+is_active: false
+origin: 'Louisville, Kentucky, United States'
 ---
 
 ![](wilson_pickett.jpg)

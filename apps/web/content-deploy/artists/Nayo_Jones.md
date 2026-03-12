@@ -2,25 +2,25 @@
 title: Donell Jones
 wiki_slug: donell-jones
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 aliases: []
 birth_date: '1973-05-22'
-birth_place: Chicago, Illinois, United States
-years_active: 1999–2019, 2021–
+birth_place: 'Chicago, Illinois, United States'
+years_active: '1999–2019, 2021–'
 genres:
-- neo soul
-- quiet storm
-- r&b
-- smooth r&b
+  - neo soul
+  - quiet storm
+  - r&b
+  - smooth r&b
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Donell_Jones.jpg
   caption: Donell Jones
   background: solo_singer
   born: '1973-05-22'
-  origin: Chicago, Illinois, United States
+  origin: 'Chicago, Illinois, United States'
 audio_profile:
-  tempo_avg: 109.0
+  tempo_avg: 109
   energy_avg: 0.521
   valence_avg: 0.606
   danceability_avg: 0.694
@@ -34,57 +34,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kermit Ruffins
+    - Kermit Ruffins
   influenced: []
   mentors:
-  - Father (unnamed jazz musician/educator)
-  - Kermit Ruffins
+    - Father (unnamed jazz musician/educator)
+    - Kermit Ruffins
 related_artists: []
 spotify_data:
   followers: 1310613
   id: 5KNqYrivNgVCHBssEUSu5B
   popularity: 58
-  url: https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B
+  url: 'https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B'
   verified: false
 discography_enriched: true
 albums_count: 8
 singles_count: 5
 top_tracks:
-- U Know What's Up (feat. Lisa "Left Eye" Lopes) (Where I Wanna Be)
-- Where I Wanna Be (Where I Wanna Be)
-- This Luv (Where I Wanna Be)
-- Knocks Me Off My Feet (My Heart)
-- Shorty (Got Her Eyes on Me) (Where I Wanna Be)
-- You Know That I Love You (Life Goes On)
-- Have You Seen Her (Where I Wanna Be)
-- U Know What's Up (Where I Wanna Be)
-- I Hope It's You (Life Goes On)
-- Do U Wanna (Life Goes On)
+  - U Know What's Up (feat. Lisa "Left Eye" Lopes) (Where I Wanna Be)
+  - Where I Wanna Be (Where I Wanna Be)
+  - This Luv (Where I Wanna Be)
+  - Knocks Me Off My Feet (My Heart)
+  - Shorty (Got Her Eyes on Me) (Where I Wanna Be)
+  - You Know That I Love You (Life Goes On)
+  - Have You Seen Her (Where I Wanna Be)
+  - U Know What's Up (Where I Wanna Be)
+  - I Hope It's You (Life Goes On)
+  - Do U Wanna (Life Goes On)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ff1d04f2-2bbd-47d8-b722-6ac8c53b71b3
-  spotify: https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B
-  wikipedia: https://en.wikipedia.org/wiki/Twin_Cities_Jazz_Fest
+  musicbrainz: 'https://musicbrainz.org/artist/ff1d04f2-2bbd-47d8-b722-6ac8c53b71b3'
+  spotify: 'https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B'
+  wikipedia: 'https://en.wikipedia.org/wiki/Twin_Cities_Jazz_Fest'
 image_path: 03_Resources/source_material/ArtistPortraits/Donell_Jones.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:23:23.134630'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- viberate.com
-- thesexismproject.com
-- chartmetric.com
-- westerncolorado.beaconseniornews.com
-- shoutoutatlanta.com
+  - viberate.com
+  - thesexismproject.com
+  - chartmetric.com
+  - westerncolorado.beaconseniornews.com
+  - shoutoutatlanta.com
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 11:48:02.564781
+entry_created: 2025-09-18T11:48:02.564Z
 last_updated: '2025-12-23T08:16:03.413784'
 gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:38:58.622864'
 musicbrainz_id: ff1d04f2-2bbd-47d8-b722-6ac8c53b71b3
 tags:
-- contemporary r&b
-- neo-soul
+  - contemporary r&b
+  - neo-soul
 ---
 
 ![](Donell_Jones.jpg)

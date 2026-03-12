@@ -1,22 +1,22 @@
 ---
-title: merv griffin
+title: Merv Griffin
 wiki_slug: merv-griffin
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1925-07-06'
-birth_place: San Mateo
+birth_place: 'San Mateo, California, United States'
 death_date: '2007-08-12'
 genres: []
 instruments:
-- eponymous
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
-  mbid: edeb3f74-ddfd-4e1d-b492-32e172c922f6
-  name: Merv Griffin and The Martin Men
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: edeb3f74-ddfd-4e1d-b492-32e172c922f6
+    name: Merv Griffin and The Martin Men
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/merv_griffin.jpg
   caption: merv griffin
@@ -39,51 +39,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kathryn Grayson
-  - Doris Day
+    - Kathryn Grayson
+    - Doris Day
   influenced:
-  - Alex Trebek
-  - Pat Sajak & Vanna White
+    - Alex Trebek
+    - Pat Sajak & Vanna White
   mentors:
-  - Freddy Martin
+    - Freddy Martin
 spotify_data:
   followers: 630
   id: 3Gul9YJiH5cPauKRIMYo3p
   popularity: 7
-  url: https://open.spotify.com/artist/3Gul9YJiH5cPauKRIMYo3p
+  url: 'https://open.spotify.com/artist/3Gul9YJiH5cPauKRIMYo3p'
 discography_enriched: true
 top_tracks:
-- I'll Remember April (Bewitched)
-- I've Got a Lovely Bunch of Coconuts (1950's Hits!, Vol. 4)
-- I'll Remember April (To Each His Own)
-- Manhattan (Bewitched)
-- Marching To Pretoria (My Favorite Songs)
-- Manhattan (To Each His Own)
-- House of Horrors (Teenage Monster (Spooky Monster Music))
-- 'House Of Horrors (Halloween Rock & Roll Party: Monster Oldies, Vol. 1)'
-- Sail! Sail! Sail! (feat. Merv Griffin) (The Essential Merv Griffin - The Columbia Years)
-- 'Jeopardy: Think Music (in the style of Handel) (Mozart Tv - Favorite Tv Tunes in the Style of Great Classical Composers)'
+  - I'll Remember April (Bewitched)
+  - 'I''ve Got a Lovely Bunch of Coconuts (1950''s Hits!, Vol. 4)'
+  - I'll Remember April (To Each His Own)
+  - Manhattan (Bewitched)
+  - Marching To Pretoria (My Favorite Songs)
+  - Manhattan (To Each His Own)
+  - House of Horrors (Teenage Monster (Spooky Monster Music))
+  - 'House Of Horrors (Halloween Rock & Roll Party: Monster Oldies, Vol. 1)'
+  - >-
+    Sail! Sail! Sail! (feat. Merv Griffin) (The Essential Merv Griffin - The
+    Columbia Years)
+  - >-
+    Jeopardy: Think Music (in the style of Handel) (Mozart Tv - Favorite Tv
+    Tunes in the Style of Great Classical Composers)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/234a106a-b458-4f9c-ad21-8fa2762cb0b3
-  spotify: https://open.spotify.com/artist/3Gul9YJiH5cPauKRIMYo3p
-  wikipedia: https://en.wikipedia.org/wiki/Merv_Griffin
+  musicbrainz: 'https://musicbrainz.org/artist/234a106a-b458-4f9c-ad21-8fa2762cb0b3'
+  spotify: 'https://open.spotify.com/artist/3Gul9YJiH5cPauKRIMYo3p'
+  wikipedia: 'https://en.wikipedia.org/wiki/Merv_Griffin'
 image_path: 03_Resources/source_material/ArtistPortraits/merv_griffin.jpg
 biography_enhanced_at: '2025-11-01T15:37:35.819910'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://walkoffame.com/merv-griffin/
-- https://www.imdb.com/name/nm0341311/bio/
-- https://www.last.fm/music/Merv+Griffin/+wiki
-- http://www.glbtqarchive.com/arts/griffin_merv_A.pdf
-- https://wheeloffortunehistory.fandom.com/wiki/Merv_Griffin
-- https://www.tvguide.com/celebrities/merv-griffin/bio/3030173168/
+  - 'https://walkoffame.com/merv-griffin/'
+  - 'https://www.imdb.com/name/nm0341311/bio/'
+  - 'https://www.last.fm/music/Merv+Griffin/+wiki'
+  - 'http://www.glbtqarchive.com/arts/griffin_merv_A.pdf'
+  - 'https://wheeloffortunehistory.fandom.com/wiki/Merv_Griffin'
+  - 'https://www.tvguide.com/celebrities/merv-griffin/bio/3030173168/'
 network_extracted: true
 entry_created: '2025-11-01T15:37:35.819916'
 last_updated: '2025-12-23T08:16:12.993510'
-disambiguation: American singer, TV host, and songwriter
+disambiguation: 'American singer, TV host, and songwriter'
 gender: Male
 musicbrainz_id: 234a106a-b458-4f9c-ad21-8fa2762cb0b3
+is_active: false
+origin: 'Los Angeles, California, United States'
 ---
 
 ![](merv_griffin.jpg)

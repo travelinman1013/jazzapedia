@@ -3,14 +3,14 @@ title: Tony Costa
 wiki_slug: tony-costa
 schema_version: 2
 status: active
-birth_place: Sabadell, Catalonia, Spain
+birth_place: 'Sabadell, Catalonia, Spain'
 genres:
-- salsa choke
+  - salsa choke
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/tony_costa.jpg
   caption: Tony Costa
   background: solo_singer
-  origin: Sabadell, Catalonia, Spain
+  origin: 'Sabadell, Catalonia, Spain'
 audio_profile:
   tempo_avg: 117.5
   energy_avg: 0.625
@@ -26,41 +26,43 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Various European DJs and Producers
+    - Various European DJs and Producers
   influenced:
-  - Younger Spanish DJs
+    - Younger Spanish DJs
   mentors:
-  - Italo-Disco Pioneers
+    - Italo-Disco Pioneers
 spotify_data:
   followers: 39808
   id: 1WF0qzllFgT2xJlk0Nrwqo
   popularity: 55
-  url: https://open.spotify.com/artist/1WF0qzllFgT2xJlk0Nrwqo
+  url: 'https://open.spotify.com/artist/1WF0qzllFgT2xJlk0Nrwqo'
 discography_enriched: true
 top_tracks:
-- DRIPPIN (DRIPPIN)
-- 2 Mujeres 2 Pistolas (2 Mujeres 2 Pistolas)
-- Un Dia en Mi Barrio (Un Dia en Mi Barrio)
-- LUNA (LUNA)
-- Jordan Nuevo (Jordan Nuevo)
-- FORCE ROJOS (FORCE ROJOS)
-- DRIPPIN (DRIPPIN)
-- PPL (PPL)
-- POR ESO LO HAGO HOY (POR ESO LO HAGO HOY)
-- TODOS CONTRA MI (TODOS CONTRA MI)
+  - DRIPPIN (DRIPPIN)
+  - 2 Mujeres 2 Pistolas (2 Mujeres 2 Pistolas)
+  - Un Dia en Mi Barrio (Un Dia en Mi Barrio)
+  - LUNA (LUNA)
+  - Jordan Nuevo (Jordan Nuevo)
+  - FORCE ROJOS (FORCE ROJOS)
+  - DRIPPIN (DRIPPIN)
+  - PPL (PPL)
+  - POR ESO LO HAGO HOY (POR ESO LO HAGO HOY)
+  - TODOS CONTRA MI (TODOS CONTRA MI)
 external_urls:
-  spotify: https://open.spotify.com/artist/1WF0qzllFgT2xJlk0Nrwqo
+  spotify: 'https://open.spotify.com/artist/1WF0qzllFgT2xJlk0Nrwqo'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/tony_costa.jpg
 biography_enhanced_at: '2025-11-23T06:28:03.930554'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://songstats.com/artist/l4d596hc/tony-costa
-- https://www.allmusic.com/artist/tony-costa-mn0001589463
+  - 'https://songstats.com/artist/l4d596hc/tony-costa'
+  - 'https://www.allmusic.com/artist/tony-costa-mn0001589463'
 network_extracted: true
 entry_created: '2025-11-23T06:28:03.930567'
 last_updated: '2025-12-23T08:16:17.611146'
+birth_date: '1971-09-17'
+artist_type: person
 ---
 
 ![](tony_costa.jpg)

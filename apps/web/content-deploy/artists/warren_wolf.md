@@ -3,13 +3,13 @@ title: Warren Wolf
 wiki_slug: warren-wolf
 schema_version: 2
 status: active
-birth_place: Baltimore, Maryland, United States
+birth_place: 'Baltimore, Maryland, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/warren_wolf.jpg
   caption: Warren Wolf
   background: solo_singer
-  origin: Baltimore, Maryland, United States
+  origin: 'Baltimore, Maryland, United States'
 audio_profile:
   tempo_avg: 114.9
   energy_avg: 0.389
@@ -25,51 +25,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Christian McBride
-  - SFJAZZ Collective
-  - Jeremy Pelt
-  - Tia Fuller
-  - Bobby Watson
-  - Jason Palmer
+    - Christian McBride
+    - SFJAZZ Collective
+    - Jeremy Pelt
+    - Tia Fuller
+    - Bobby Watson
+    - Jason Palmer
   influenced: []
   mentors:
-  - Leo LePage
-  - John Locke
-  - Dave Samuels
+    - Leo LePage
+    - John Locke
+    - Dave Samuels
 spotify_data:
   followers: 4958
   id: 3ib2oPht9T5y9kjQm3h1Lu
   popularity: 28
-  url: https://open.spotify.com/artist/3ib2oPht9T5y9kjQm3h1Lu
+  url: 'https://open.spotify.com/artist/3ib2oPht9T5y9kjQm3h1Lu'
 discography_enriched: true
 top_tracks:
-- Mazuk Mwen (Island to Island)
-- Come and Dance with Me (Reincarnation)
-- Softly, as in a Morning Sunrise
-- Montara (Convergence)
-- Breakin' my Heart (Art of Love)
-- Bopstacle Course (History Of The Vibraphone)
-- Soul Sister (Convergence)
-- Life (Life)
-- Gang Gang (Life)
-- I See You Baby, Looking At Me (History Of The Vibraphone)
+  - Mazuk Mwen (Island to Island)
+  - Come and Dance with Me (Reincarnation)
+  - 'Softly, as in a Morning Sunrise'
+  - Montara (Convergence)
+  - Breakin' my Heart (Art of Love)
+  - Bopstacle Course (History Of The Vibraphone)
+  - Soul Sister (Convergence)
+  - Life (Life)
+  - Gang Gang (Life)
+  - 'I See You Baby, Looking At Me (History Of The Vibraphone)'
 external_urls:
-  spotify: https://open.spotify.com/artist/3ib2oPht9T5y9kjQm3h1Lu
+  spotify: 'https://open.spotify.com/artist/3ib2oPht9T5y9kjQm3h1Lu'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/warren_wolf.jpg
 biography_enhanced_at: '2025-12-20T01:09:11.264061'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://www.theamiagency.com/index/warrenwolf-95z3r
-- https://chicagopresents.uchicago.edu/people/warren-wolf-vibraphone
-- https://www.jazzartsgroup.org/warrenwolf/
-- https://peabody.jhu.edu/faculty/warren-wolf/
-- https://atljazzfest.com/artists/warren-wolf/
-- https://www.sfcm.edu/study/faculty/warren-wolf
+  - 'http://www.theamiagency.com/index/warrenwolf-95z3r'
+  - 'https://chicagopresents.uchicago.edu/people/warren-wolf-vibraphone'
+  - 'https://www.jazzartsgroup.org/warrenwolf/'
+  - 'https://peabody.jhu.edu/faculty/warren-wolf/'
+  - 'https://atljazzfest.com/artists/warren-wolf/'
+  - 'https://www.sfcm.edu/study/faculty/warren-wolf'
 network_extracted: true
 entry_created: '2025-12-20T01:09:11.264074'
 last_updated: '2025-12-23T08:16:17.993317'
+artist_type: person
 ---
 
 ![](warren_wolf.jpg)

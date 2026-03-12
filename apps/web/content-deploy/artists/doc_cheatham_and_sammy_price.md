@@ -3,48 +3,52 @@ biography_enhanced_at: '2026-01-09T01:54:11.301873'
 enhancement_provider: perplexity
 entry_created: '2026-01-09T01:54:11.301879'
 external_urls:
-  spotify: https://open.spotify.com/artist/04l6R2IF3CtWQNonOuCVyp
-  wikipedia: https://en.wikipedia.org/wiki/Doc_Cheatham
+  spotify: 'https://open.spotify.com/artist/04l6R2IF3CtWQNonOuCVyp'
+  wikipedia: 'https://en.wikipedia.org/wiki/Doc_Cheatham'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/doc_cheatham_and_sammy_price.jpg
 last_updated: '2026-01-09T01:54:11.301880'
 musical_connections:
   collaborators:
-  - Cab Calloway
-  - Decca Records artists (Trixie Smith, Sister Rosetta Tharpe, Ella Fitzgerald, Big
-    Joe Turner, Helen Humes, Jimmy Rushing)
-  - Texas Blusicians (including Lester Young and Ike Quebec)
-  - Sidney Bechet and Mezz Mezzrow
-  - Sammy Price
-  - Benny Goodman
+    - Cab Calloway
+    - >-
+      Decca Records artists (Trixie Smith, Sister Rosetta Tharpe, Ella
+      Fitzgerald, Big Joe Turner, Helen Humes, Jimmy Rushing)
+    - Texas Blusicians (including Lester Young and Ike Quebec)
+    - Sidney Bechet and Mezz Mezzrow
+    - Sammy Price
+    - Benny Goodman
   influenced:
-  - Nicholas Payton
-  - Ornette Coleman
-  - Theo Croker
+    - Nicholas Payton
+    - Ornette Coleman
+    - Theo Croker
   mentors:
-  - Louis Armstrong
-  - Kansas City blues and boogie‑woogie pianists (notably Pete Johnson)
-  - Cab Calloway and Sam Wooding
+    - Louis Armstrong
+    - Kansas City blues and boogie‑woogie pianists (notably Pete Johnson)
+    - Cab Calloway and Sam Wooding
 network_extracted: true
-origin: 'Doc Cheatham: Nashville, Tennessee, United States; Sammy Price: Honey Grove,
-  Texas, United States'
+origin: >-
+  Doc Cheatham: Nashville, Tennessee, United States; Sammy Price: Honey Grove,
+  Texas, United States
 primary_source: perplexity
 research_sources:
-- https://www.britannica.com/biography/Sammy-Price
-- https://aaregistry.org/story/a-trumpeter-of-excellence-doc-cheatham/
-- http://jazzhotbigstep.com/4204.html
-- https://syncopatedtimes.com/remembering-doc-cheatham/
-- https://www.lib.uidaho.edu/digital/cheatham/about.html
-- https://en.wikipedia.org/wiki/Doc_Cheatham
-- https://sova.si.edu/record/nmah.ac.0814
-- https://www.canadianjazzarchive.net/musicians/sammy-price.html
+  - 'https://www.britannica.com/biography/Sammy-Price'
+  - 'https://aaregistry.org/story/a-trumpeter-of-excellence-doc-cheatham/'
+  - 'http://jazzhotbigstep.com/4204.html'
+  - 'https://syncopatedtimes.com/remembering-doc-cheatham/'
+  - 'https://www.lib.uidaho.edu/digital/cheatham/about.html'
+  - 'https://en.wikipedia.org/wiki/Doc_Cheatham'
+  - 'https://sova.si.edu/record/nmah.ac.0814'
+  - 'https://www.canadianjazzarchive.net/musicians/sammy-price.html'
 spotify_data:
   followers: 45
   id: 04l6R2IF3CtWQNonOuCVyp
   popularity: 0
-  url: https://open.spotify.com/artist/04l6R2IF3CtWQNonOuCVyp
+  url: 'https://open.spotify.com/artist/04l6R2IF3CtWQNonOuCVyp'
 status: active
 title: Doc Cheatham & Sammy Price
+birth_place: 'Nashville, Tennessee, United States'
+artist_type: band
 ---
 
 ![](doc_cheatham_and_sammy_price.jpg)

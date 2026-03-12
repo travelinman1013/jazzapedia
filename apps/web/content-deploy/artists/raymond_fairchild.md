@@ -1,67 +1,74 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: dcb8a77d-80b0-433f-a902-a2a79157e7ad
-  name: Raymond Fairchild and The Frosty Mountain Boys
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: dcb8a77d-80b0-433f-a902-a2a79157e7ad
+    name: Raymond Fairchild and The Frosty Mountain Boys
 biography_enhanced_at: '2025-12-29T01:10:22.023452'
 birth_date: '1939-03-15'
-birth_place: Cherokee
+birth_place: 'Cherokee, North Carolina, United States'
 death_date: '2019-10-13'
 enhancement_provider: perplexity
 entry_created: '2025-12-29T01:10:22.023463'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/cc8c74d1-f15b-4116-b875-d8d2894dac53
-  spotify: https://open.spotify.com/artist/7gdraSzlgJOIGNUVm0Nthb
+  musicbrainz: 'https://musicbrainz.org/artist/cc8c74d1-f15b-4116-b875-d8d2894dac53'
+  spotify: 'https://open.spotify.com/artist/7gdraSzlgJOIGNUVm0Nthb'
   wikipedia: ''
 gender: Male
 genres:
-- bluegrass
+  - bluegrass
 image_path: 03_Resources/source_material/ArtistPortraits/raymond_fairchild.jpg
 instruments:
-- eponymous
-- original
+  - eponymous
+  - original
 last_updated: '2025-12-29T01:10:22.023465'
 musical_connections:
   collaborators:
-  - Shirley Fairchild
-  - The Maggie Valley Boys (including John Locust, Steve Swilling, Merle Johnson, Quentin Crowe, Danny Blythe)
-  - Roy Mull
-  - Frank Buchanan
-  - Wilford Messer
-  - Buck Duncan
-  - Uncle Jim O’Neal / Rural Rhythm Records
-  - Crowe Brothers
-  - Jimmy Cox
+    - Shirley Fairchild
+    - >-
+      The Maggie Valley Boys (including John Locust, Steve Swilling, Merle
+      Johnson, Quentin Crowe, Danny Blythe)
+    - Roy Mull
+    - Frank Buchanan
+    - Wilford Messer
+    - Buck Duncan
+    - Uncle Jim O’Neal / Rural Rhythm Records
+    - Crowe Brothers
+    - Jimmy Cox
   influenced:
-  - Regional Appalachian and bluegrass banjo players (collective)
+    - Regional Appalachian and bluegrass banjo players (collective)
   mentors:
-  - Earl Scruggs
-  - Don Reno
-  - Snuffy Jenkins
+    - Earl Scruggs
+    - Don Reno
+    - Snuffy Jenkins
 musicbrainz_id: cc8c74d1-f15b-4116-b875-d8d2894dac53
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- 'Blue Ridge National Heritage Area: Artist profile of Raymond Fairchild'
-- 'Bluegrass Unlimited: “Raymond Fairchild—Making His Own Way”'
-- 'Visit Haywood (Haywood County Tourism): “Remembering Raymond Fairchild: The Fastest Banjo Player in the World”'
-- 'Smoky Mountain News / Blue Ridge Music NC: “Ode to Raymond Fairchild, Ode to Mountain Music”'
-- 'Long House Funeral Home: Obituary for Raymond Fairchild'
-- 'Art Menius: “Raymond Fairchild Talking Bluegrass 1994”'
-- 'Bluegrass Today: “Raymond Fairchild biography is forthcoming”'
+  - 'Blue Ridge National Heritage Area: Artist profile of Raymond Fairchild'
+  - 'Bluegrass Unlimited: “Raymond Fairchild—Making His Own Way”'
+  - >-
+    Visit Haywood (Haywood County Tourism): “Remembering Raymond Fairchild: The
+    Fastest Banjo Player in the World”
+  - >-
+    Smoky Mountain News / Blue Ridge Music NC: “Ode to Raymond Fairchild, Ode to
+    Mountain Music”
+  - 'Long House Funeral Home: Obituary for Raymond Fairchild'
+  - 'Art Menius: “Raymond Fairchild Talking Bluegrass 1994”'
+  - 'Bluegrass Today: “Raymond Fairchild biography is forthcoming”'
 spotify_data:
   followers: 1796
   id: 7gdraSzlgJOIGNUVm0Nthb
   popularity: 21
-  url: https://open.spotify.com/artist/7gdraSzlgJOIGNUVm0Nthb
+  url: 'https://open.spotify.com/artist/7gdraSzlgJOIGNUVm0Nthb'
 status: active
-title: RAYMOND FAIRCHILD
-
+title: Raymond Fairchild
+is_active: false
+origin: 'Maggie Valley, North Carolina, United States'
 ---
 
 ![](raymond_fairchild.jpg)

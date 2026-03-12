@@ -1,46 +1,49 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-17T02:04:26.479051'
-birth_place: Neosho, Missouri, USA
+birth_place: 'Neosho, Missouri, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-17T02:04:26.479056'
 external_urls:
-  spotify: https://open.spotify.com/artist/4Dzdlxs6xusMPwxmED3CCJ
-  wikipedia: https://en.wikipedia.org/wiki/James_Scott_(composer)
+  spotify: 'https://open.spotify.com/artist/4Dzdlxs6xusMPwxmED3CCJ'
+  wikipedia: 'https://en.wikipedia.org/wiki/James_Scott_(composer)'
 genres:
-- ragtime
-- brass band
+  - ragtime
+  - brass band
 image_path: 03_Resources/source_material/ArtistPortraits/james_scott.jpg
 last_updated: '2026-01-17T02:04:26.479057'
 musical_connections:
   collaborators:
-  - John Stillwell Stark
-  - Charles L. Dumars
-  - Ada Brown
+    - John Stillwell Stark
+    - Charles L. Dumars
+    - Ada Brown
   influenced:
-  - Joseph Lamb
+    - Joseph Lamb
   mentors:
-  - Scott Joplin
-  - John Coleman
-  - Emma Johns DeArmond
+    - Scott Joplin
+    - John Coleman
+    - Emma Johns DeArmond
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://aaregistry.org/story/james-scott-ragtime-composer-born/
-- https://en.wikipedia.org/wiki/James_Scott_(composer)
-- https://syncopatedtimes.com/rudiments-of-ragtime-6-james-scott/
-- https://www.carthagehistoricpreservation.org/james-scott
-- https://www.perfessorbill.com/comps/jscott.shtml
-- https://pianoinspires.com/this-week-in-piano-history-february-12/
-- https://pendergastkc.org/articles/james-scott
-- https://www.classiccat.net/scott_j/biography.php
+  - 'https://aaregistry.org/story/james-scott-ragtime-composer-born/'
+  - 'https://en.wikipedia.org/wiki/James_Scott_(composer)'
+  - 'https://syncopatedtimes.com/rudiments-of-ragtime-6-james-scott/'
+  - 'https://www.carthagehistoricpreservation.org/james-scott'
+  - 'https://www.perfessorbill.com/comps/jscott.shtml'
+  - 'https://pianoinspires.com/this-week-in-piano-history-february-12/'
+  - 'https://pendergastkc.org/articles/james-scott'
+  - 'https://www.classiccat.net/scott_j/biography.php'
 spotify_data:
   followers: 1033
   id: 4Dzdlxs6xusMPwxmED3CCJ
   popularity: 9
-  url: https://open.spotify.com/artist/4Dzdlxs6xusMPwxmED3CCJ
+  url: 'https://open.spotify.com/artist/4Dzdlxs6xusMPwxmED3CCJ'
 status: active
-title: james scott
+title: James Scott
+origin: 'Kansas City, Missouri, United States'
+birth_date: '1885-02-12'
+death_date: '1938-08-30'
 ---
 
 ![](james_scott.jpg)

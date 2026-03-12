@@ -2,21 +2,21 @@
 title: Tears For Fears
 wiki_slug: tears-for-fears
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1981'
 genres:
-- new wave
-- synthpop
+  - new wave
+  - synthpop
 instruments:
-- drums (drum set)
-- percussion
-- background vocals
-- keyboard
-- original
-- additional
-- piano
-- lead vocals
+  - drums (drum set)
+  - percussion
+  - background vocals
+  - keyboard
+  - original
+  - additional
+  - piano
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/tears_for_fears.jpg
   caption: Tears For Fears
@@ -37,128 +37,130 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ian Stanley
-  - Manny Elias
-  - Chris Hughes
-  - Manu Katché
-  - Nicky Holland
-  - Alan Griffiths
-  - Gail Ann Dorsey
-  - Nick D'Virgilio
+    - Ian Stanley
+    - Manny Elias
+    - Chris Hughes
+    - Manu Katché
+    - Nicky Holland
+    - Alan Griffiths
+    - Gail Ann Dorsey
+    - Nick D'Virgilio
   influenced:
-  - M83
-  - The Killers
-  - Chvrches
+    - M83
+    - The Killers
+    - Chvrches
   mentors:
-  - Arthur Janov
-  - Talking Heads
-  - Peter Gabriel
-  - Brian Eno
+    - Arthur Janov
+    - Talking Heads
+    - Peter Gabriel
+    - Brian Eno
 spotify_data:
   followers: 4131894
   id: 4bthk9UfsYUYdcFyqxmSUU
   popularity: 74
-  url: https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU
+  url: 'https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU'
 discography_enriched: true
 top_tracks:
-- Everybody Wants To Rule The World (Songs From The Big Chair (Super Deluxe Edition))
-- Shout (Songs From The Big Chair)
-- Head Over Heels - Dave Bascombe 7" N.Mix (Songs From The Big Chair (Deluxe))
-- Mad World (The Hurting)
-- Woman In Chains (The Seeds Of Love)
-- Sowing The Seeds Of Love (The Seeds Of Love)
-- Head Over Heels
-- Rule The World (Everybody)
-- Head Over Heels (Songs From The Big Chair)
-- Advice For The Young At Heart (The Seeds Of Love)
+  - >-
+    Everybody Wants To Rule The World (Songs From The Big Chair (Super Deluxe
+    Edition))
+  - Shout (Songs From The Big Chair)
+  - Head Over Heels - Dave Bascombe 7" N.Mix (Songs From The Big Chair (Deluxe))
+  - Mad World (The Hurting)
+  - Woman In Chains (The Seeds Of Love)
+  - Sowing The Seeds Of Love (The Seeds Of Love)
+  - Head Over Heels
+  - Rule The World (Everybody)
+  - Head Over Heels (Songs From The Big Chair)
+  - Advice For The Young At Heart (The Seeds Of Love)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7c7f9c94-dee8-4903-892b-6cf44652e2de
-  spotify: https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU
-  wikipedia: https://en.wikipedia.org/wiki/Tears_for_Fears
+  musicbrainz: 'https://musicbrainz.org/artist/7c7f9c94-dee8-4903-892b-6cf44652e2de'
+  spotify: 'https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tears_for_Fears'
 image_path: 03_Resources/source_material/ArtistPortraits/tears_for_fears.jpg
 biography_enhanced_at: '2025-11-20T06:48:06.354517'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Tears_for_Fears
-- https://www.imdb.com/name/nm3028825/bio/
-- https://top40weekly.com/tears-for-fears/
-- https://www.songsommelier.com/art-of-longevity-tears-for-fears
-- https://concord.com/artist/tears-for-fears/
-- https://www.allmusic.com/artist/tears-for-fears-mn0000019892
+  - 'https://en.wikipedia.org/wiki/Tears_for_Fears'
+  - 'https://www.imdb.com/name/nm3028825/bio/'
+  - 'https://top40weekly.com/tears-for-fears/'
+  - 'https://www.songsommelier.com/art-of-longevity-tears-for-fears'
+  - 'https://concord.com/artist/tears-for-fears/'
+  - 'https://www.allmusic.com/artist/tears-for-fears-mn0000019892'
 network_extracted: true
 entry_created: '2025-11-20T06:48:06.354529'
 last_updated: '2025-12-23T08:16:16.412637'
 members:
-- begin: '1981'
-  end: '1986'
-  instruments:
-  - drums (drum set)
-  - percussion
-  mbid: 336c04a8-5f76-4a5b-9f41-cc9009b4933a
-  name: Manny Elias
-- begin: '1981'
-  end: '1987'
-  instruments:
-  - background vocals
-  mbid: 94b72cd2-c09c-4d9e-9673-275f89b78687
-  name: Ian Stanley
-- begin: '1981'
-  end: '1987'
-  instruments:
-  - keyboard
-  mbid: 94b72cd2-c09c-4d9e-9673-275f89b78687
-  name: Ian Stanley
-- begin: '1981'
-  end: '1991'
-  instruments:
-  - original
-  mbid: 98c0eed5-5a33-4cc8-b785-9fa26db868ab
-  name: Curt Smith
-- &id001
-  begin: '1981'
-  end: ''
-  instruments:
-  - original
-  mbid: 7c5b8865-d23c-4abf-884d-c68be0020991
-  name: Roland Orzabal
-- begin: '1987'
-  end: '1990'
-  instruments:
-  - additional
-  - background vocals
-  mbid: d3ffeb64-9d7b-4911-98e5-91ee26005ee9
-  name: Oleta Adams
-- begin: '1987'
-  end: '1990'
-  instruments:
-  - additional
-  - piano
-  mbid: d3ffeb64-9d7b-4911-98e5-91ee26005ee9
-  name: Oleta Adams
-- begin: '1987'
-  end: '1990'
-  instruments:
-  - additional
-  - lead vocals
-  mbid: d3ffeb64-9d7b-4911-98e5-91ee26005ee9
-  name: Oleta Adams
-- &id002
-  begin: '2000'
-  end: ''
-  instruments:
-  - original
-  mbid: 98c0eed5-5a33-4cc8-b785-9fa26db868ab
-  name: Curt Smith
+  - begin: '1981'
+    end: '1986'
+    instruments:
+      - drums (drum set)
+      - percussion
+    mbid: 336c04a8-5f76-4a5b-9f41-cc9009b4933a
+    name: Manny Elias
+  - begin: '1981'
+    end: '1987'
+    instruments:
+      - background vocals
+    mbid: 94b72cd2-c09c-4d9e-9673-275f89b78687
+    name: Ian Stanley
+  - begin: '1981'
+    end: '1987'
+    instruments:
+      - keyboard
+    mbid: 94b72cd2-c09c-4d9e-9673-275f89b78687
+    name: Ian Stanley
+  - begin: '1981'
+    end: '1991'
+    instruments:
+      - original
+    mbid: 98c0eed5-5a33-4cc8-b785-9fa26db868ab
+    name: Curt Smith
+  - &ref_0
+    begin: '1981'
+    end: ''
+    instruments:
+      - original
+    mbid: 7c5b8865-d23c-4abf-884d-c68be0020991
+    name: Roland Orzabal
+  - begin: '1987'
+    end: '1990'
+    instruments:
+      - additional
+      - background vocals
+    mbid: d3ffeb64-9d7b-4911-98e5-91ee26005ee9
+    name: Oleta Adams
+  - begin: '1987'
+    end: '1990'
+    instruments:
+      - additional
+      - piano
+    mbid: d3ffeb64-9d7b-4911-98e5-91ee26005ee9
+    name: Oleta Adams
+  - begin: '1987'
+    end: '1990'
+    instruments:
+      - additional
+      - lead vocals
+    mbid: d3ffeb64-9d7b-4911-98e5-91ee26005ee9
+    name: Oleta Adams
+  - &ref_1
+    begin: '2000'
+    end: ''
+    instruments:
+      - original
+    mbid: 98c0eed5-5a33-4cc8-b785-9fa26db868ab
+    name: Curt Smith
 musicbrainz_id: 7c7f9c94-dee8-4903-892b-6cf44652e2de
-origin: Bath
+origin: 'Bath, Somerset, England'
 original_members:
-- *id001
-- *id002
+  - *ref_0
+  - *ref_1
 tags:
-- art pop
-- big music
-- new wave
+  - art pop
+  - big music
+  - new wave
 ---
 
 ![](tears_for_fears.jpg)

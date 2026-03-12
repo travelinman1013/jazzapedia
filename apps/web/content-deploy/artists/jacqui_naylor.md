@@ -3,14 +3,14 @@ title: Jacqui Naylor
 wiki_slug: jacqui-naylor
 schema_version: 2
 status: active
-birth_place: Saratoga, California, United States
+birth_place: 'Saratoga, California, United States'
 genres:
-- vocal jazz
+  - vocal jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jacqui_naylor.jpg
   caption: Jacqui Naylor
   background: solo_singer
-  origin: Saratoga, California, United States
+  origin: 'Saratoga, California, United States'
 audio_profile:
   tempo_avg: 117.3
   energy_avg: 0.408
@@ -26,46 +26,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Art Khu
-  - Richie Goods
-  - Josh Jones
+    - Art Khu
+    - Richie Goods
+    - Josh Jones
   influenced: []
   mentors:
-  - Faith Winthrop
-  - Shirley Calloway
+    - Faith Winthrop
+    - Shirley Calloway
 spotify_data:
   followers: 10233
   id: 3nlIdbDxxURaEHNdSrkEG5
   popularity: 25
-  url: https://open.spotify.com/artist/3nlIdbDxxURaEHNdSrkEG5
+  url: 'https://open.spotify.com/artist/3nlIdbDxxURaEHNdSrkEG5'
 discography_enriched: true
 top_tracks:
-- Losing My Religion (You Don't Know Jacq)
-- Ain't No Sunshine (You Don't Know Jacq)
-- Back to Black (Dead Divas Society)
-- How Deep Is Your Love (You Don't Know Jacq)
-- My Funny Valentine (You Don't Know Jacq)
-- Me & Mr. Jones - 1 (Live East West)
-- Summertime (You Don't Know Jacq)
-- Miss You (You Don't Know Jacq)
-- Hot Legs (The Color Five)
-- Surrey with the Fringe on Top (Lucky Girl)
+  - Losing My Religion (You Don't Know Jacq)
+  - Ain't No Sunshine (You Don't Know Jacq)
+  - Back to Black (Dead Divas Society)
+  - How Deep Is Your Love (You Don't Know Jacq)
+  - My Funny Valentine (You Don't Know Jacq)
+  - Me & Mr. Jones - 1 (Live East West)
+  - Summertime (You Don't Know Jacq)
+  - Miss You (You Don't Know Jacq)
+  - Hot Legs (The Color Five)
+  - Surrey with the Fringe on Top (Lucky Girl)
 external_urls:
-  spotify: https://open.spotify.com/artist/3nlIdbDxxURaEHNdSrkEG5
-  wikipedia: https://en.wikipedia.org/wiki/Jacqui_Naylor
+  spotify: 'https://open.spotify.com/artist/3nlIdbDxxURaEHNdSrkEG5'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jacqui_Naylor'
 image_path: 03_Resources/source_material/ArtistPortraits/jacqui_naylor.jpg
 biography_enhanced_at: '2025-11-04T10:49:58.128407'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://www.jacquinaylor.com/video/bio.html
-- https://www.allaboutjazz.com/musicians/jacqui-naylor/
-- https://www.sfjazz.org/tickets/productions/23-24/jacqui-naylor/
-- https://www.wrti.org/arts-desk/2016-03-14/what-is-acoustic-smashing-ask-jazz-singer-jacqui-naylor
-- https://www.jazzalley.com/www-home/artist.jsp?shownum=1442
+  - 'http://www.jacquinaylor.com/video/bio.html'
+  - 'https://www.allaboutjazz.com/musicians/jacqui-naylor/'
+  - 'https://www.sfjazz.org/tickets/productions/23-24/jacqui-naylor/'
+  - >-
+    https://www.wrti.org/arts-desk/2016-03-14/what-is-acoustic-smashing-ask-jazz-singer-jacqui-naylor
+  - 'https://www.jazzalley.com/www-home/artist.jsp?shownum=1442'
 network_extracted: true
 entry_created: '2025-11-04T10:49:58.128423'
 last_updated: '2025-12-23T08:16:10.104436'
+artist_type: person
 ---
 
 ![](jacqui_naylor.jpg)

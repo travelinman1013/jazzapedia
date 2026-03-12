@@ -28,52 +28,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - George Porter Jr.
-  - Band Members (unnamed)
-  - B.B. King, Corinne Bailey Rae, Lee Fields
+    - George Porter Jr.
+    - Band Members (unnamed)
+    - 'B.B. King, Corinne Bailey Rae, Lee Fields'
   influenced:
-  - Emerging New Orleans artists (LGBTQ+, BIPOC, women)
+    - 'Emerging New Orleans artists (LGBTQ+, BIPOC, women)'
   mentors:
-  - Bill Withers
-  - Etta James
-  - Irma Thomas
-  - The Meters
+    - Bill Withers
+    - Etta James
+    - Irma Thomas
+    - The Meters
 spotify_data:
   followers: 2435
   id: 4H6QeFQavHaFfkoYwWWA16
   popularity: 6
-  url: https://open.spotify.com/artist/4H6QeFQavHaFfkoYwWWA16
+  url: 'https://open.spotify.com/artist/4H6QeFQavHaFfkoYwWWA16'
 discography_enriched: true
 top_tracks:
-- Magnolia Blue (Magnolia Blue)
-- Mississippi Rising (Wherever There Is)
-- Sugar in My Soul (Fever Dreams)
-- Cool Breeze (Fever Dreams)
-- Shooter (Quarter-Life Crisis)
-- Say a Prayer (Quarter-Life Crisis)
-- Use Me (Wherever There Is)
-- Fever Dreams (Fever Dreams)
-- Tomorrow (Quarter-Life Crisis)
-- Firewalker (Firewalker)
+  - Magnolia Blue (Magnolia Blue)
+  - Mississippi Rising (Wherever There Is)
+  - Sugar in My Soul (Fever Dreams)
+  - Cool Breeze (Fever Dreams)
+  - Shooter (Quarter-Life Crisis)
+  - Say a Prayer (Quarter-Life Crisis)
+  - Use Me (Wherever There Is)
+  - Fever Dreams (Fever Dreams)
+  - Tomorrow (Quarter-Life Crisis)
+  - Firewalker (Firewalker)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3c4fa954-746f-4a42-8642-a57b746cfe96
-  spotify: https://open.spotify.com/artist/4H6QeFQavHaFfkoYwWWA16
-  wikipedia: https://en.wikipedia.org/wiki/Mia_Borders
+  musicbrainz: 'https://musicbrainz.org/artist/3c4fa954-746f-4a42-8642-a57b746cfe96'
+  spotify: 'https://open.spotify.com/artist/4H6QeFQavHaFfkoYwWWA16'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mia_Borders'
 image_path: 03_Resources/source_material/ArtistPortraits/mia_borders.jpg
 biography_enhanced_at: '2025-11-11T09:14:23.819564'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.miaborders.com/bio
-- https://en.wikipedia.org/wiki/Mia_Borders
-- https://www.allaboutjazz.com/musicians/mia-borders/
-- https://crescentcitysounds.org/artists/mia-borders
-- https://www.outalldaynola.com/mia-borders-new-orleans-interview.html
+  - 'https://www.miaborders.com/bio'
+  - 'https://en.wikipedia.org/wiki/Mia_Borders'
+  - 'https://www.allaboutjazz.com/musicians/mia-borders/'
+  - 'https://crescentcitysounds.org/artists/mia-borders'
+  - 'https://www.outalldaynola.com/mia-borders-new-orleans-interview.html'
 network_extracted: true
 entry_created: '2025-11-11T09:14:23.819576'
 last_updated: '2025-12-23T08:16:13.025978'
 gender: Female
 musicbrainz_id: 3c4fa954-746f-4a42-8642-a57b746cfe96
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](mia_borders.jpg)

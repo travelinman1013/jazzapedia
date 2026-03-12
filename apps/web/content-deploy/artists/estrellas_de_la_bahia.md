@@ -4,7 +4,7 @@ wiki_slug: estrellas-de-la-bahia
 schema_version: 2
 status: active
 genres:
-- latin jazz
+  - latin jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/estrellas_de_la_bahia.jpg
   caption: Estrellas de La Bahia
@@ -24,47 +24,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John Santos
-  - Jesús Díaz
-  - Louie Romero
-  - Karl Perazzo
-  - David Belove
-  - Murray Low
-  - Roger Glenn
-  - Mike Olmos
+    - John Santos
+    - Jesús Díaz
+    - Louie Romero
+    - Karl Perazzo
+    - David Belove
+    - Murray Low
+    - Roger Glenn
+    - Mike Olmos
   influenced: []
   mentors:
-  - Wayne Wallace
+    - Wayne Wallace
 spotify_data:
   followers: 13
   id: 7fJWFFIosSR4IjpfkukWq2
   popularity: 0
-  url: https://open.spotify.com/artist/7fJWFFIosSR4IjpfkukWq2
+  url: 'https://open.spotify.com/artist/7fJWFFIosSR4IjpfkukWq2'
 discography_enriched: true
 top_tracks:
-- Canto, Clave Y Candela (Salsa De La Bahia)
-- 'El Martillo de Armando (Salsa de la Bahia, Vol. 2: Hoy y Ayer)'
-- 'Makayla''s Mambo (Salsa de la Bahia, Vol. 2: Hoy y Ayer)'
-- El Espiritu Del Mambo (Salsa De La Bahia)
-- Rumba Para Paul (Salsa De La Bahia)
+  - 'Canto, Clave Y Candela (Salsa De La Bahia)'
+  - 'El Martillo de Armando (Salsa de la Bahia, Vol. 2: Hoy y Ayer)'
+  - 'Makayla''s Mambo (Salsa de la Bahia, Vol. 2: Hoy y Ayer)'
+  - El Espiritu Del Mambo (Salsa De La Bahia)
+  - Rumba Para Paul (Salsa De La Bahia)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/be9a542e-0ed9-43bc-aec5-9e826715fb84
-  spotify: https://open.spotify.com/artist/7fJWFFIosSR4IjpfkukWq2
+  musicbrainz: 'https://musicbrainz.org/artist/be9a542e-0ed9-43bc-aec5-9e826715fb84'
+  spotify: 'https://open.spotify.com/artist/7fJWFFIosSR4IjpfkukWq2'
   wikipedia: ''
 image_path: ''
 biography_enhanced_at: '2025-11-16T20:14:11.747273'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://latinjazznet.com/reviews/albums/salsa-de-la-bahia-patois-records/
-- https://jazztimes.com/reviews/albums/various-artists-salsa-de-la-bahia-vol-2-hoy-y-ayer-a-collection-of-sf-bay-area-salsa-and-latin-jazz/
-- https://latinomusiccafe.com/2013/10/24/latin-music-album-salsa-de-la-bahia-cd-review/
-- https://www.katesmithpromotions.com/archive/artists/salsadelabahia.html
+  - 'https://latinjazznet.com/reviews/albums/salsa-de-la-bahia-patois-records/'
+  - >-
+    https://jazztimes.com/reviews/albums/various-artists-salsa-de-la-bahia-vol-2-hoy-y-ayer-a-collection-of-sf-bay-area-salsa-and-latin-jazz/
+  - >-
+    https://latinomusiccafe.com/2013/10/24/latin-music-album-salsa-de-la-bahia-cd-review/
+  - 'https://www.katesmithpromotions.com/archive/artists/salsadelabahia.html'
 network_extracted: true
 entry_created: '2025-11-16T20:14:11.747284'
 last_updated: '2025-12-23T08:16:08.490157'
 musicbrainz_id: be9a542e-0ed9-43bc-aec5-9e826715fb84
-origin: San Francisco Bay Area, California, United States
+origin: 'San Francisco Bay Area, California, United States'
+artist_type: band
 ---
 
 ![]()

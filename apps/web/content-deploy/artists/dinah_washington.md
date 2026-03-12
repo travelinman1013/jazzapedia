@@ -1,25 +1,25 @@
 ---
-title: dinah washington
+title: Dinah Washington
 wiki_slug: dinah-washington
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1924-08-29'
-birth_place: Tuscaloosa
+birth_place: 'Tuscaloosa, Alabama, United States'
 death_date: '1963-12-14'
 genres:
-- vocal jazz
-- jazz
-- jazz blues
+  - vocal jazz
+  - jazz
+  - jazz blues
 instruments:
-- lead vocals
-- vocal
+  - lead vocals
+  - vocal
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f6f5ad9b-0406-4db5-a9c0-cfce717208a9
-  name: The Sallie Martin Singers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f6f5ad9b-0406-4db5-a9c0-cfce717208a9
+    name: The Sallie Martin Singers
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/dinah_washington.jpg
   caption: dinah washington
@@ -42,61 +42,76 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Quincy Jones
-  - Brook Benton
-  - Kenny Burrell
-  - Joe Zawinul
-  - Panama Francis
-  - Count Basie
-  - Duke Ellington
+    - Quincy Jones
+    - Brook Benton
+    - Kenny Burrell
+    - Joe Zawinul
+    - Panama Francis
+    - Count Basie
+    - Duke Ellington
   influenced:
-  - Nancy Wilson
-  - Esther Phillips
-  - Diane Schurr
+    - Nancy Wilson
+    - Esther Phillips
+    - Diane Schurr
   mentors:
-  - Lionel Hampton
-  - Joe Sherman
+    - Lionel Hampton
+    - Joe Sherman
 spotify_data:
   followers: 516736
   id: 32LHRiof0sa4taYew9i3Fa
   popularity: 58
-  url: https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa
+  url: 'https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa'
 discography_enriched: true
 top_tracks:
-- What A Diff'rence A Day Made (What A Diff'rence A Day Makes! (Expanded Edition))
-- Teach Me Tonight (The Complete Dinah Washington On Mercury, Vol.4 (1954-1956))
-- September In The Rain (September In The Rain)
-- Mad About The Boy (The Complete Dinah Washington On Mercury Vol. 2 (1950-1952))
-- Cry Me A River (What A Diff'rence A Day Makes! (Expanded Edition))
-- I Could Write A Book (The Complete Dinah Washington On Mercury, Vol.4 (1954-1956))
-- This Bitter Earth / On The Nature Of Daylight (The Blue Notebooks (15 Years))
-- Baby, You’ve Got What It Takes (The Complete Dinah Washington On Mercury Vol. 6 (1958-1960))
-- Smoke Gets In Your Eyes (Dinah! (Expanded Edition))
-- Mad About The Boy (The Complete Dinah Washington On Mercury Vol. 7 (1961))
+  - >-
+    What A Diff'rence A Day Made (What A Diff'rence A Day Makes! (Expanded
+    Edition))
+  - >-
+    Teach Me Tonight (The Complete Dinah Washington On Mercury, Vol.4
+    (1954-1956))
+  - September In The Rain (September In The Rain)
+  - >-
+    Mad About The Boy (The Complete Dinah Washington On Mercury Vol. 2
+    (1950-1952))
+  - Cry Me A River (What A Diff'rence A Day Makes! (Expanded Edition))
+  - >-
+    I Could Write A Book (The Complete Dinah Washington On Mercury, Vol.4
+    (1954-1956))
+  - >-
+    This Bitter Earth / On The Nature Of Daylight (The Blue Notebooks (15
+    Years))
+  - >-
+    Baby, You’ve Got What It Takes (The Complete Dinah Washington On Mercury
+    Vol. 6 (1958-1960))
+  - Smoke Gets In Your Eyes (Dinah! (Expanded Edition))
+  - Mad About The Boy (The Complete Dinah Washington On Mercury Vol. 7 (1961))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d385947d-c00d-4311-9cf1-a032a1d4040b
-  spotify: https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa
-  wikipedia: https://en.wikipedia.org/wiki/Dinah_Washington
+  musicbrainz: 'https://musicbrainz.org/artist/d385947d-c00d-4311-9cf1-a032a1d4040b'
+  spotify: 'https://open.spotify.com/artist/32LHRiof0sa4taYew9i3Fa'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dinah_Washington'
 image_path: 03_Resources/source_material/ArtistPortraits/dinah_washington.jpg
 biography_enhanced_at: '2025-11-28T07:36:58.465330'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Dinah Washington
-- Britannica - Dinah Washington
-- Alabama Music Hall of Fame - Dinah Washington
-- Everything Jazz - The life, loves and artistry of 'Queen of the Blues' Dinah Washington
-- 'The Songbook - Collections Highlight: Dinah Washington'
-- Rock & Roll Hall of Fame - Dinah Washington
+  - Wikipedia - Dinah Washington
+  - Britannica - Dinah Washington
+  - Alabama Music Hall of Fame - Dinah Washington
+  - >-
+    Everything Jazz - The life, loves and artistry of 'Queen of the Blues' Dinah
+    Washington
+  - 'The Songbook - Collections Highlight: Dinah Washington'
+  - Rock & Roll Hall of Fame - Dinah Washington
 network_extracted: true
 entry_created: '2025-11-28T07:36:58.465345'
 last_updated: '2025-12-23T08:16:07.779418'
 gender: Female
 musicbrainz_id: d385947d-c00d-4311-9cf1-a032a1d4040b
 tags:
-- blues
-- jazz
-- r&b
+  - blues
+  - jazz
+  - r&b
+is_active: false
 ---
 
 ![](dinah_washington.jpg)

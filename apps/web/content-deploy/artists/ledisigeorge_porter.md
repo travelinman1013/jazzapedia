@@ -1,18 +1,20 @@
 ---
-title: Ledisi,George Porter
+title: 'Ledisi,George Porter'
 wiki_slug: ledisigeorge-porter
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States (born); Oakland, California, United States (raised)
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- jazz funk
+  - jazz funk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ledisigeorge_porter.jpg
-  caption: Ledisi,George Porter
+  caption: 'Ledisi,George Porter'
   background: solo_singer
-  origin: New Orleans, Louisiana, United States (born); Oakland, California, United States (raised)
+  origin: >-
+    New Orleans, Louisiana, United States (born); Oakland, California, United
+    States (raised)
 audio_profile:
-  tempo_avg: 123.0
+  tempo_avg: 123
   energy_avg: 0.699
   valence_avg: 0.685
   danceability_avg: 0.604
@@ -26,49 +28,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sundra Manning
-  - Jules Buckley
-  - Adonis Rose
-  - Lizz Wright
-  - Lisa Fischer
-  - Alice Smith
-  - Billy Porter
+    - Sundra Manning
+    - Jules Buckley
+    - Adonis Rose
+    - Lizz Wright
+    - Lisa Fischer
+    - Alice Smith
+    - Billy Porter
   influenced: []
   mentors:
-  - Nina Simone
+    - Nina Simone
 spotify_data:
   followers: 4763
   id: 2KDZHHE0Ca7LVqpzUH7y8a
   popularity: 17
-  url: https://open.spotify.com/artist/2KDZHHE0Ca7LVqpzUH7y8a
+  url: 'https://open.spotify.com/artist/2KDZHHE0Ca7LVqpzUH7y8a'
 discography_enriched: true
 top_tracks:
-- Boots In Place (Boots In Place)
-- Buttermilk (Porter's Pocket)
-- Don Julio Rides Again (Porter's Pocket)
-- Gangs in Alamosa (Porter's Pocket)
-- Good As It Gets Anymore (Good As It Gets Anymore)
-- African Gumbo (Church of New Orleans)
-- Fall Right In (Boots In Place)
-- Tito's Dumpling Machine (Porter's Pocket)
-- Proteins & Carbohydrates (Porter's Pocket)
-- Porter 13A (Crying For Hope)
+  - Boots In Place (Boots In Place)
+  - Buttermilk (Porter's Pocket)
+  - Don Julio Rides Again (Porter's Pocket)
+  - Gangs in Alamosa (Porter's Pocket)
+  - Good As It Gets Anymore (Good As It Gets Anymore)
+  - African Gumbo (Church of New Orleans)
+  - Fall Right In (Boots In Place)
+  - Tito's Dumpling Machine (Porter's Pocket)
+  - Proteins & Carbohydrates (Porter's Pocket)
+  - Porter 13A (Crying For Hope)
 external_urls:
-  spotify: https://open.spotify.com/artist/2KDZHHE0Ca7LVqpzUH7y8a
-  wikipedia: https://en.wikipedia.org/wiki/Ledisi
+  spotify: 'https://open.spotify.com/artist/2KDZHHE0Ca7LVqpzUH7y8a'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ledisi'
 image_path: 03_Resources/source_material/ArtistPortraits/ledisigeorge_porter.jpg
 biography_enhanced_at: '2025-12-23T01:59:42.177026'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Ledisi
-- https://www.ledisi.com/bio
-- https://www.berklee.edu/berklee-now/news/berklee-institute-of-jazz-and-gender-justice-announces-ledisi-as-artist-in-residence
-- https://www.bellaconcerts.com/artists/ledisi
+  - 'https://en.wikipedia.org/wiki/Ledisi'
+  - 'https://www.ledisi.com/bio'
+  - >-
+    https://www.berklee.edu/berklee-now/news/berklee-institute-of-jazz-and-gender-justice-announces-ledisi-as-artist-in-residence
+  - 'https://www.bellaconcerts.com/artists/ledisi'
 network_extracted: true
 entry_created: '2025-12-23T01:59:42.177037'
 last_updated: '2025-12-23T08:16:11.704123'
-
+artist_type: person
 ---
 
 ![](ledisigeorge_porter.jpg)

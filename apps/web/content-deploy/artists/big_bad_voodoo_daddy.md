@@ -2,30 +2,30 @@
 title: Big Bad Voodoo Daddy
 wiki_slug: big-bad-voodoo-daddy
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1989'
 genres:
-- big band
-- dark cabaret
-- electro swing
-- rockabilly
-- swing music
+  - big band
+  - dark cabaret
+  - electro swing
+  - rockabilly
+  - swing music
 instruments:
-- original
-- guitar
-- lead vocals
-- drums (drum set)
-- percussion
-- trumpet
-- background vocals
-- baritone saxophone
-- double bass
-- clarinet
-- saxophone
-- piano
-- additional
-- trombone
+  - original
+  - guitar
+  - lead vocals
+  - drums (drum set)
+  - percussion
+  - trumpet
+  - background vocals
+  - baritone saxophone
+  - double bass
+  - clarinet
+  - saxophone
+  - piano
+  - additional
+  - trombone
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/big_bad_voodoo_daddy.jpg
   caption: Big Bad Voodoo Daddy
@@ -46,151 +46,152 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Scotty Morris
-  - Kurt Sodergren
-  - Dirk Shumaker
-  - Andy Rowley
-  - Glen Marhevka
-  - Karl Hunter
-  - Joshua Levy
+    - Scotty Morris
+    - Kurt Sodergren
+    - Dirk Shumaker
+    - Andy Rowley
+    - Glen Marhevka
+    - Karl Hunter
+    - Joshua Levy
   influenced: []
   mentors:
-  - Albert Collins
+    - Albert Collins
 spotify_data:
   followers: 175201
   id: 6ROyXB8NDG0fA78S46JdTB
   popularity: 48
-  url: https://open.spotify.com/artist/6ROyXB8NDG0fA78S46JdTB
+  url: 'https://open.spotify.com/artist/6ROyXB8NDG0fA78S46JdTB'
 discography_enriched: true
 top_tracks:
-- Mr. Pinstripe Suit (Big Bad Voodoo Daddy)
-- Why Me? (Rattle Them Bones (Deluxe Edition))
-- King Of Swing (Big Bad Voodoo Daddy)
-- Save My Soul (Save My Soul)
-- I Wanna Be Like You (This Beautiful Life)
-- You & Me & The Bottle Makes 3 Tonight (Baby) (Big Bad Voodoo Daddy)
-- 'Minnie The Moocher (How Big Can You Get?: The Music Of Cab Calloway)'
-- Jumpin' Jack (Big Bad Voodoo Daddy)
-- Diga Diga Doo (Rattle Them Bones (Deluxe Edition))
-- Mambo Swing (Big Bad Voodoo Daddy)
+  - Mr. Pinstripe Suit (Big Bad Voodoo Daddy)
+  - Why Me? (Rattle Them Bones (Deluxe Edition))
+  - King Of Swing (Big Bad Voodoo Daddy)
+  - Save My Soul (Save My Soul)
+  - I Wanna Be Like You (This Beautiful Life)
+  - You & Me & The Bottle Makes 3 Tonight (Baby) (Big Bad Voodoo Daddy)
+  - 'Minnie The Moocher (How Big Can You Get?: The Music Of Cab Calloway)'
+  - Jumpin' Jack (Big Bad Voodoo Daddy)
+  - Diga Diga Doo (Rattle Them Bones (Deluxe Edition))
+  - Mambo Swing (Big Bad Voodoo Daddy)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d3118da8-ff3f-4396-9ddd-06168c875d56
-  spotify: https://open.spotify.com/artist/6ROyXB8NDG0fA78S46JdTB
+  musicbrainz: 'https://musicbrainz.org/artist/d3118da8-ff3f-4396-9ddd-06168c875d56'
+  spotify: 'https://open.spotify.com/artist/6ROyXB8NDG0fA78S46JdTB'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/big_bad_voodoo_daddy.jpg
 biography_enhanced_at: '2025-12-23T02:05:16.555511'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Big+Bad+Voodoo+Daddy/+wiki[1]
-- https://www.harriscenter.net/bbvd[2]
-- https://buffalostatepac.org/calendar/great-performers-series/event:big-bad-voodoo-daddy/[3]
-- https://www.bbvd.com[5]
-- https://www.bbvd.com/band[6]
+  - 'https://www.last.fm/music/Big+Bad+Voodoo+Daddy/+wiki[1]'
+  - 'https://www.harriscenter.net/bbvd[2]'
+  - >-
+    https://buffalostatepac.org/calendar/great-performers-series/event:big-bad-voodoo-daddy/[3]
+  - 'https://www.bbvd.com[5]'
+  - 'https://www.bbvd.com/band[6]'
 network_extracted: true
 entry_created: '2025-12-23T02:05:16.555519'
 last_updated: '2025-12-23T08:16:05.406160'
 members:
-- begin: '1991'
-  end: '1993'
-  instruments:
-  - original
-  mbid: f451603d-1dc6-4300-b204-8ef76cb8a0a0
-  name: Russ Davis
-- &id001
-  begin: '1991'
-  end: ''
-  instruments:
-  - guitar
-  - lead vocals
-  - original
-  mbid: af841bbd-99d6-499e-96e0-df0e62b1799e
-  name: Scotty Morris
-- &id002
-  begin: '1991'
-  end: ''
-  instruments:
-  - drums (drum set)
-  - original
-  - percussion
-  mbid: aa537a45-e8b1-4f4f-a7d3-3ebf16449196
-  name: Kurt Sodergren
-- begin: '1993'
-  end: '1995'
-  instruments:
-  - trumpet
-  mbid: 06450328-69b1-42a7-9918-cebee801b4c3
-  name: Ralph Votrian
-- &id003
-  begin: '1993'
-  end: ''
-  instruments:
-  - background vocals
-  - baritone saxophone
-  mbid: 2a55bb51-7c2f-473c-87e0-ef613123b35d
-  name: Andy Rowley
-- &id004
-  begin: '1993'
-  end: ''
-  instruments:
-  - double bass
-  mbid: 83cba08a-bfc3-4ce9-bc9d-4e98279e7372
-  name: Dirk Shumaker
-- &id005
-  begin: '1995'
-  end: ''
-  instruments:
-  - trumpet
-  mbid: 431c0ddb-63a5-47a8-a5f4-c8eef93e4d54
-  name: Glen Marhevka
-- &id006
-  begin: '1996'
-  end: ''
-  instruments:
-  - clarinet
-  - saxophone
-  mbid: 9bfc0543-f3be-4f71-bcd6-9f93dd115eb3
-  name: Karl Hunter
-- &id007
-  begin: '1996'
-  end: ''
-  instruments:
-  - piano
-  mbid: 99831a9e-f4a4-4ec2-9aa4-77aec3d2ff30
-  name: Joshua Levy
-- begin: ''
-  end: ''
-  instruments:
-  - additional
-  mbid: be63c55f-a7e1-4710-8471-89d4852edf83
-  name: Anthony Bonsera
-- begin: ''
-  end: ''
-  instruments:
-  - additional
-  - trombone
-  mbid: 5e089bc9-4c83-4f14-b927-f979eb81fad2
-  name: Alex Henderson
-- begin: ''
-  end: ''
-  instruments:
-  - trombone
-  mbid: 7277d85a-ce03-4db3-a0d3-cb0207e0b5c5
-  name: Jeff Harris
+  - begin: '1991'
+    end: '1993'
+    instruments:
+      - original
+    mbid: f451603d-1dc6-4300-b204-8ef76cb8a0a0
+    name: Russ Davis
+  - &ref_0
+    begin: '1991'
+    end: ''
+    instruments:
+      - guitar
+      - lead vocals
+      - original
+    mbid: af841bbd-99d6-499e-96e0-df0e62b1799e
+    name: Scotty Morris
+  - &ref_1
+    begin: '1991'
+    end: ''
+    instruments:
+      - drums (drum set)
+      - original
+      - percussion
+    mbid: aa537a45-e8b1-4f4f-a7d3-3ebf16449196
+    name: Kurt Sodergren
+  - begin: '1993'
+    end: '1995'
+    instruments:
+      - trumpet
+    mbid: 06450328-69b1-42a7-9918-cebee801b4c3
+    name: Ralph Votrian
+  - &ref_2
+    begin: '1993'
+    end: ''
+    instruments:
+      - background vocals
+      - baritone saxophone
+    mbid: 2a55bb51-7c2f-473c-87e0-ef613123b35d
+    name: Andy Rowley
+  - &ref_3
+    begin: '1993'
+    end: ''
+    instruments:
+      - double bass
+    mbid: 83cba08a-bfc3-4ce9-bc9d-4e98279e7372
+    name: Dirk Shumaker
+  - &ref_4
+    begin: '1995'
+    end: ''
+    instruments:
+      - trumpet
+    mbid: 431c0ddb-63a5-47a8-a5f4-c8eef93e4d54
+    name: Glen Marhevka
+  - &ref_5
+    begin: '1996'
+    end: ''
+    instruments:
+      - clarinet
+      - saxophone
+    mbid: 9bfc0543-f3be-4f71-bcd6-9f93dd115eb3
+    name: Karl Hunter
+  - &ref_6
+    begin: '1996'
+    end: ''
+    instruments:
+      - piano
+    mbid: 99831a9e-f4a4-4ec2-9aa4-77aec3d2ff30
+    name: Joshua Levy
+  - begin: ''
+    end: ''
+    instruments:
+      - additional
+    mbid: be63c55f-a7e1-4710-8471-89d4852edf83
+    name: Anthony Bonsera
+  - begin: ''
+    end: ''
+    instruments:
+      - additional
+      - trombone
+    mbid: 5e089bc9-4c83-4f14-b927-f979eb81fad2
+    name: Alex Henderson
+  - begin: ''
+    end: ''
+    instruments:
+      - trombone
+    mbid: 7277d85a-ce03-4db3-a0d3-cb0207e0b5c5
+    name: Jeff Harris
 musicbrainz_id: d3118da8-ff3f-4396-9ddd-06168c875d56
-origin: Ventura
+origin: 'Ventura, California, United States'
 original_members:
-- *id001
-- *id002
-- *id003
-- *id004
-- *id005
-- *id006
-- *id007
+  - *ref_0
+  - *ref_1
+  - *ref_2
+  - *ref_3
+  - *ref_4
+  - *ref_5
+  - *ref_6
 tags:
-- big band
-- dixieland
-- jazz
+  - big band
+  - dixieland
+  - jazz
 ---
 
 ![](big_bad_voodoo_daddy.jpg)

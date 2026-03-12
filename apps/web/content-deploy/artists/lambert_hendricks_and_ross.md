@@ -1,14 +1,14 @@
 ---
-title: LAMBERT, HENDRICKS AND ROSS
+title: 'Lambert, Hendricks and Ross'
 wiki_slug: lambert-hendricks-and-ross
 schema_version: 2
 status: active
 genres:
-- vocal jazz
-- jazz
+  - vocal jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lambert_hendricks_and_ross.jpg
-  caption: LAMBERT, HENDRICKS AND ROSS
+  caption: 'LAMBERT, HENDRICKS AND ROSS'
   background: solo_singer
 audio_profile:
   tempo_avg: 106.3
@@ -25,47 +25,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Count Basie Orchestra
-  - Yolande Bavan
-  - Anne Marie Moss
+    - Count Basie Orchestra
+    - Yolande Bavan
+    - Anne Marie Moss
   influenced:
-  - The Manhattan Transfer
-  - New York Voices
+    - The Manhattan Transfer
+    - New York Voices
   mentors:
-  - Count Basie
+    - Count Basie
 spotify_data:
   followers: 18396
   id: 5XILwCCPqHHh1JRnMfzblg
   popularity: 27
-  url: https://open.spotify.com/artist/5XILwCCPqHHh1JRnMfzblg
+  url: 'https://open.spotify.com/artist/5XILwCCPqHHh1JRnMfzblg'
 discography_enriched: true
 top_tracks:
-- Lil' Darlin' (The Atomic Mr Basie)
-- Moanin' (The Hottest New Group in Jazz)
-- Centerpiece (The Hottest New Group in Jazz)
-- Twisted (The Hottest New Group In Jazz)
-- Twisted (The Hottest New Group in Jazz)
-- Gimme That Wine (The Hottest New Group in Jazz)
-- Moanin' (Everybody's Boppin')
-- In A Mellow Tone - Vocal Version (The Hottest New Group In Jazz)
-- Cloudburst (Everybody's Boppin')
-- Moanin' (The Hottest New Group In Jazz)
+  - Lil' Darlin' (The Atomic Mr Basie)
+  - Moanin' (The Hottest New Group in Jazz)
+  - Centerpiece (The Hottest New Group in Jazz)
+  - Twisted (The Hottest New Group In Jazz)
+  - Twisted (The Hottest New Group in Jazz)
+  - Gimme That Wine (The Hottest New Group in Jazz)
+  - Moanin' (Everybody's Boppin')
+  - In A Mellow Tone - Vocal Version (The Hottest New Group In Jazz)
+  - Cloudburst (Everybody's Boppin')
+  - Moanin' (The Hottest New Group In Jazz)
 external_urls:
-  spotify: https://open.spotify.com/artist/5XILwCCPqHHh1JRnMfzblg
-  wikipedia: https://en.wikipedia.org/wiki/Lambert,_Hendricks_%26_Ross
+  spotify: 'https://open.spotify.com/artist/5XILwCCPqHHh1JRnMfzblg'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lambert,_Hendricks_%26_Ross'
 image_path: 03_Resources/source_material/ArtistPortraits/lambert_hendricks_and_ross.jpg
 biography_enhanced_at: '2025-10-27T02:42:44.059175'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Lambert,_Hendricks_%26_Ross
-- https://www.allaboutjazz.com/musicians/lambert-hendricks-ross/
-- https://d-scholarship.pitt.edu/27291/
-- https://cc-seas.columbia.edu/wkcr/story/lambert-hendricks-ross-sunday-profile
+  - 'https://en.wikipedia.org/wiki/Lambert,_Hendricks_%26_Ross'
+  - 'https://www.allaboutjazz.com/musicians/lambert-hendricks-ross/'
+  - 'https://d-scholarship.pitt.edu/27291/'
+  - >-
+    https://cc-seas.columbia.edu/wkcr/story/lambert-hendricks-ross-sunday-profile
 network_extracted: true
 entry_created: '2025-10-27T02:42:44.059191'
 last_updated: '2025-12-23T08:16:11.579614'
-origin: New York City, New York, United States
+origin: 'New York City, New York, United States'
+artist_type: band
 ---
 
 ![](lambert_hendricks_and_ross.jpg)

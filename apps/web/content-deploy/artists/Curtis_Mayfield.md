@@ -2,25 +2,25 @@
 title: Curtis Mayfield
 wiki_slug: curtis-mayfield
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1942-06-03'
-birth_place: Chicago, Illinois, United States
+birth_place: 'Chicago, Illinois, United States'
 death_date: '1999-12-26'
 genres:
-- soul
-- motown
+  - soul
+  - motown
 instruments:
-- original
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Curtis_Mayfield.jpg
   caption: Curtis Mayfield
   background: non_vocal_instrumentalist
   born: '1942-06-03'
-  origin: Chicago, Illinois, United States
+  origin: 'Chicago, Illinois, United States'
   died: '1999-12-26'
 audio_profile:
-  tempo_avg: 116.0
+  tempo_avg: 116
   energy_avg: 0.664
   valence_avg: 0.738
   danceability_avg: 0.637
@@ -34,51 +34,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jerry Butler
-  - Sam Gooden
-  - Fred Cash
-  - Aretha Franklin
-  - The Staple Singers
-  - Gladys Knight and the Pips
+    - Jerry Butler
+    - Sam Gooden
+    - Fred Cash
+    - Aretha Franklin
+    - The Staple Singers
+    - Gladys Knight and the Pips
   influenced:
-  - Stevie Wonder
-  - Bob Marley
-  - Lauryn Hill
-  - Prince
+    - Stevie Wonder
+    - Bob Marley
+    - Lauryn Hill
+    - Prince
   mentors:
-  - Muddy Waters
-  - Family gospel influences
+    - Muddy Waters
+    - Family gospel influences
 spotify_data:
   followers: 1179366
   id: 2AV6XDIs32ofIJhkkDevjm
   popularity: 56
-  url: https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm
+  url: 'https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm'
 discography_enriched: true
 top_tracks:
-- Move on Up - Single Edit
-- Superfly (Superfly (Original Soundtrack))
-- Move On Up (People Never Give Up)
-- 'Pusherman (Superfly: Deluxe 25th Anniversary Edition)'
-- Move on Up - Extended Version (Curtis (Expanded Edition))
-- Move On Up (People Never Give Up)
-- So in Love (There's No Place Like America Today)
-- Pusherman (Superfly (Original Soundtrack))
-- Move On Up (Mark Knight Remix)
-- 'Freddie''s Dead (Superfly: Deluxe 25th Anniversary Edition)'
+  - Move on Up - Single Edit
+  - Superfly (Superfly (Original Soundtrack))
+  - Move On Up (People Never Give Up)
+  - 'Pusherman (Superfly: Deluxe 25th Anniversary Edition)'
+  - Move on Up - Extended Version (Curtis (Expanded Edition))
+  - Move On Up (People Never Give Up)
+  - So in Love (There's No Place Like America Today)
+  - Pusherman (Superfly (Original Soundtrack))
+  - Move On Up (Mark Knight Remix)
+  - 'Freddie''s Dead (Superfly: Deluxe 25th Anniversary Edition)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4dca4bb2-23ba-4103-97e6-5810311db33a
-  spotify: https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm
-  wikipedia: https://en.wikipedia.org/wiki/Curtis_Mayfield
+  musicbrainz: 'https://musicbrainz.org/artist/4dca4bb2-23ba-4103-97e6-5810311db33a'
+  spotify: 'https://open.spotify.com/artist/2AV6XDIs32ofIJhkkDevjm'
+  wikipedia: 'https://en.wikipedia.org/wiki/Curtis_Mayfield'
 image_path: 03_Resources/source_material/ArtistPortraits/Curtis_Mayfield.jpg
 biography_enhanced_at: '2025-10-20T09:09:12.949066'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Curtis_Mayfield
-- https://www.curtismayfield.com/biography.html
-- https://www.songhall.org/profiles/curtis-mayfield
-- https://www.georgiaencyclopedia.org/articles/arts-culture/curtis-mayfield-1942-1999/
-- https://www.ebsco.com/research-starters/biography/curtis-mayfield
+  - 'https://en.wikipedia.org/wiki/Curtis_Mayfield'
+  - 'https://www.curtismayfield.com/biography.html'
+  - 'https://www.songhall.org/profiles/curtis-mayfield'
+  - >-
+    https://www.georgiaencyclopedia.org/articles/arts-culture/curtis-mayfield-1942-1999/
+  - 'https://www.ebsco.com/research-starters/biography/curtis-mayfield'
 network_extracted: true
 entry_created: '2025-10-20T09:09:12.949081'
 last_updated: '2025-12-23T08:16:01.581964'
@@ -86,10 +87,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:23:04.074712'
 musicbrainz_id: 4dca4bb2-23ba-4103-97e6-5810311db33a
 tags:
-- american
-- chicago soul
-- crooners
-
+  - american
+  - chicago soul
+  - crooners
+is_active: false
 ---
 
 ![](Curtis_Mayfield.jpg)

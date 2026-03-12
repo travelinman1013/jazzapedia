@@ -1,34 +1,37 @@
 ---
 biography_enhanced_at: '2026-01-06T02:11:38.325725'
-birth_place: Winnsboro, Texas, USA
+birth_place: 'Winnsboro, Texas, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-06T02:11:38.325731'
 external_urls:
-  spotify: https://open.spotify.com/artist/7g12LEYIUs224ADJN9kQfF
+  spotify: 'https://open.spotify.com/artist/7g12LEYIUs224ADJN9kQfF'
   wikipedia: ''
 genres:
-- northern soul
+  - northern soul
 image_path: 03_Resources/source_material/ArtistPortraits/johnny_sayles.jpg
 last_updated: '2026-01-06T02:11:38.325732'
 musical_connections:
   collaborators:
-  - Eugene Neal's Rocking Kings
+    - Eugene Neal's Rocking Kings
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.marmosetmusic.com/artists/johnny-sayles
-- http://www.soulwalking.co.uk/Johnny%20Sayles.html
-- https://www.soulfulkindamusic.net/jsayles.htm
-- https://www.last.fm/music/Johnny+Sayles/+wiki
+  - 'https://www.marmosetmusic.com/artists/johnny-sayles'
+  - 'http://www.soulwalking.co.uk/Johnny%20Sayles.html'
+  - 'https://www.soulfulkindamusic.net/jsayles.htm'
+  - 'https://www.last.fm/music/Johnny+Sayles/+wiki'
 spotify_data:
   followers: 272
   id: 7g12LEYIUs224ADJN9kQfF
   popularity: 3
-  url: https://open.spotify.com/artist/7g12LEYIUs224ADJN9kQfF
+  url: 'https://open.spotify.com/artist/7g12LEYIUs224ADJN9kQfF'
 status: active
 title: Johnny Sayles
+birth_date: '1937-02-09'
+death_date: '1993-08-17'
+artist_type: person
 ---
 
 ![](johnny_sayles.jpg)

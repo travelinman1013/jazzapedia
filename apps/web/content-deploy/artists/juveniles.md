@@ -3,23 +3,23 @@ title: Juveniles
 wiki_slug: juveniles
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- southern hip hop
-- crunk
-- bounce
+  - southern hip hop
+  - crunk
+  - bounce
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/juveniles.jpg
   caption: Juveniles
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 126.4
   energy_avg: 0.75
   valence_avg: 0.626
   danceability_avg: 0.734
   acousticness_avg: 0.106
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -6.2
   speechiness_avg: 0.219
   liveness_avg: 0.171
@@ -28,50 +28,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lil Wayne
-  - Mannie Fresh
-  - B.G., Turk, Young Turk
-  - Skip, Wacko
+    - Lil Wayne
+    - Mannie Fresh
+    - 'B.G., Turk, Young Turk'
+    - 'Skip, Wacko'
   influenced:
-  - Lil Wayne
-  - Two generations of Southern rap stars
+    - Lil Wayne
+    - Two generations of Southern rap stars
   mentors:
-  - Melle Mel
-  - DJ Jimi
+    - Melle Mel
+    - DJ Jimi
 spotify_data:
   followers: 1143259
   id: 0rG0AZBscc8S8q1ahIsasI
   popularity: 61
-  url: https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI
+  url: 'https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI'
 discography_enriched: true
 top_tracks:
-- Back That Azz Up (400 Degreez)
-- Slow Motion (Juve The Great)
-- Back That Azz Up
-- Rodeo (Reality Check)
-- Back That Thang Up
-- 400 Degreez (400 Degreez)
-- Project Bitch
-- '#1 Stunna (I Got That Work)'
-- Set It Off
-- Ha (400 Degreez)
+  - Back That Azz Up (400 Degreez)
+  - Slow Motion (Juve The Great)
+  - Back That Azz Up
+  - Rodeo (Reality Check)
+  - Back That Thang Up
+  - 400 Degreez (400 Degreez)
+  - Project Bitch
+  - '#1 Stunna (I Got That Work)'
+  - Set It Off
+  - Ha (400 Degreez)
 external_urls:
-  spotify: https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI
+  spotify: 'https://open.spotify.com/artist/0rG0AZBscc8S8q1ahIsasI'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/juveniles.jpg
 biography_enhanced_at: '2025-12-17T02:14:46.007701'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.hiphopscriptures.com/juvenile
-- https://www.imdb.com/name/nm1175788/bio/
-- https://www.juvenileofficial.com/about/
-- https://musicrising.tulane.edu/discover/people/juvenile/
-- https://www.thefactorystl.com/artist/juvenile/
+  - 'https://www.hiphopscriptures.com/juvenile'
+  - 'https://www.imdb.com/name/nm1175788/bio/'
+  - 'https://www.juvenileofficial.com/about/'
+  - 'https://musicrising.tulane.edu/discover/people/juvenile/'
+  - 'https://www.thefactorystl.com/artist/juvenile/'
 network_extracted: true
 entry_created: '2025-12-17T02:14:46.007708'
 last_updated: '2025-12-23T08:16:11.137764'
-
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1975-03-25'
+artist_type: person
 ---
 
 ![](juveniles.jpg)

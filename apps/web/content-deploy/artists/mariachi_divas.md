@@ -1,17 +1,17 @@
 ---
-title: mariachi divas
+title: Mariachi Divas
 wiki_slug: mariachi-divas
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- mariachi
+  - mariachi
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/mariachi_divas.jpg
   caption: mariachi divas
   background: group_or_band
 audio_profile:
-  tempo_avg: 128.0
+  tempo_avg: 128
   energy_avg: 0.462
   valence_avg: 0.51
   danceability_avg: 0.468
@@ -25,62 +25,70 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Alejandro Fernández
-  - Christina Aguilera
-  - Ozomatli
-  - Natalia Jiménez
-  - Disney / Walt Disney Parks and Resorts
-  - Disney–Pixar (Coco-related productions)
-  - New and rotating ensemble members (e.g., Yasmine, Giselle, Andrea, Diana, Azul)
+    - Alejandro Fernández
+    - Christina Aguilera
+    - Ozomatli
+    - Natalia Jiménez
+    - Disney / Walt Disney Parks and Resorts
+    - Disney–Pixar (Coco-related productions)
+    - >-
+      New and rotating ensemble members (e.g., Yasmine, Giselle, Andrea, Diana,
+      Azul)
   influenced:
-  - Emerging all-female and mixed-gender mariachi ensembles in the United States
+    - >-
+      Emerging all-female and mixed-gender mariachi ensembles in the United
+      States
   mentors:
-  - Traditional mariachi and ranchera artists (collective influence)
+    - Traditional mariachi and ranchera artists (collective influence)
 spotify_data:
   followers: 5991
   id: 3D5AzlMCW0gCYlNvFANoEd
   popularity: 31
-  url: https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd
+  url: 'https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd'
 discography_enriched: true
 top_tracks:
-- Bluetooth
-- Bluetooth (25 Aniversario)
-- A Mi Manera (My Way) (A Mi Manera)
-- PALOMA BLANCA
-- Cien Años (Cancíones De Amor)
-- PALOMA BLANCA (CHIQUIS - BEE SIDE)
-- Que Me Vas a Dar Si Vuelvo (A Mi Manera)
-- Amor de los Dos (¡Así Somos!)
-- A Puro Dolor (A Mi Manera)
-- 'Cumbia Medley: Mariachi Loco / La Pollera Colora / La Bala / No Te Metas Con Mi Cucu / Rosa María / La Cucaracha / Yo No Fui (Dulce Daño)'
+  - Bluetooth
+  - Bluetooth (25 Aniversario)
+  - A Mi Manera (My Way) (A Mi Manera)
+  - PALOMA BLANCA
+  - Cien Años (Cancíones De Amor)
+  - PALOMA BLANCA (CHIQUIS - BEE SIDE)
+  - Que Me Vas a Dar Si Vuelvo (A Mi Manera)
+  - Amor de los Dos (¡Así Somos!)
+  - A Puro Dolor (A Mi Manera)
+  - >-
+    Cumbia Medley: Mariachi Loco / La Pollera Colora / La Bala / No Te Metas Con
+    Mi Cucu / Rosa María / La Cucaracha / Yo No Fui (Dulce Daño)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9601b153-3dc4-4f26-b092-99e9e8f88b84
-  spotify: https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd
-  wikipedia: https://en.wikipedia.org/wiki/Mariachi_Divas_de_Cindy_Shea
+  musicbrainz: 'https://musicbrainz.org/artist/9601b153-3dc4-4f26-b092-99e9e8f88b84'
+  spotify: 'https://open.spotify.com/artist/3D5AzlMCW0gCYlNvFANoEd'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mariachi_Divas_de_Cindy_Shea'
 image_path: 03_Resources/source_material/ArtistPortraits/mariachi_divas.jpg
 biography_enhanced_at: '2025-12-12T12:13:21.801184'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.lasazaleasmusic.com/monthlyspotlight/mariachidivas
-- https://www.musiccenter.org/experience-learn/experience-learn/for-all-ages/l-a-county-holiday-celebration/mariachi-divas-de-cindy-shea/
-- https://www.harmonyartists.com/artist/mariachi-divas
-- https://newwestsymphony.org/mariachi-divas/
-- https://www.uvu.edu/thenoorda/programs/2024-25/mariachi.html
-- https://wichitafallsarts.org/mariachi-divas-feature-story/
-- https://en.wikipedia.org/wiki/Mariachi_Divas_de_Cindy_Shea
+  - 'https://www.lasazaleasmusic.com/monthlyspotlight/mariachidivas'
+  - >-
+    https://www.musiccenter.org/experience-learn/experience-learn/for-all-ages/l-a-county-holiday-celebration/mariachi-divas-de-cindy-shea/
+  - 'https://www.harmonyartists.com/artist/mariachi-divas'
+  - 'https://newwestsymphony.org/mariachi-divas/'
+  - 'https://www.uvu.edu/thenoorda/programs/2024-25/mariachi.html'
+  - 'https://wichitafallsarts.org/mariachi-divas-feature-story/'
+  - 'https://en.wikipedia.org/wiki/Mariachi_Divas_de_Cindy_Shea'
 network_extracted: true
 entry_created: '2025-12-12T12:13:21.801191'
 last_updated: '2025-12-23T08:16:12.661127'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d69cd7ff-2b6b-4ebe-880a-64c138c5e29c
-  name: Rebecca Schlappich
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d69cd7ff-2b6b-4ebe-880a-64c138c5e29c
+    name: Rebecca Schlappich
 musicbrainz_id: 9601b153-3dc4-4f26-b092-99e9e8f88b84
-origin: Los Angeles, California, United States (group origin; founder Cindy Shea was born and raised in Los Angeles).[2][7]
-
+origin: >-
+  Los Angeles, California, United States (group origin; founder Cindy Shea was
+  born and raised in Los Angeles).
 ---
 
 ![](mariachi_divas.jpg)

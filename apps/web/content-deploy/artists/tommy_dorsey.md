@@ -5,94 +5,94 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1905-11-19'
-birth_place: Shenandoah
+birth_place: 'Shenandoah, Pennsylvania, United States'
 death_date: '1956-11-26'
 genres:
-- adult standards
-- big band
-- swing music
+  - adult standards
+  - big band
+  - swing music
 instruments:
-- eponymous
-- trombone
-- original
-- spoken vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - trombone
-  mbid: 1e8f0ed0-a67f-4203-97a6-add12b4b1ab3
-  name: Tommy Dorsey and His Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - trombone
-  mbid: 6527c201-08a6-4b99-a050-64221d6b0363
-  name: Hoagy Carmichael and His Pals
-- begin: ''
-  end: ''
-  instruments:
-  - trombone
-  mbid: 74955830-1c43-4d57-b85e-b0fd52ae876e
-  name: Benny Goodman and His Boys
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - trombone
-  mbid: 1dd72858-48f5-46f3-a192-d2fe99368cdb
-  name: Tommy Dorsey and His Clambake Seven
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - trombone
-  mbid: e8eb2ef6-475c-4fb2-b2f7-45ee707f12e0
-  name: The Dorsey Brothers Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - trombone
-  mbid: ac2ae864-33c3-4dd8-872d-6c516cfc9db2
-  name: California Ramblers
-- begin: ''
-  end: ''
-  instruments:
-  - trombone
-  mbid: 7831fe28-27ea-414a-a5de-c28c1625f28c
-  name: Lee Morse and Her Blue Grass Boys
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
   - original
-  - trombone
-  mbid: e8eb2ef6-475c-4fb2-b2f7-45ee707f12e0
-  name: The Dorsey Brothers Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - trombone
-  mbid: 99759298-1e5a-4c7a-8532-fabe8f2955ac
-  name: Art Tatum’s All Stars
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: c9b9b67a-d0f7-4989-91f3-ccd4d24ef361
-  name: Tommy Dorsey and His Sentimentalists
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 39af5431-9317-43f9-b3e1-7bf2cd9a3c94
-  name: Tommy Dorsey and His Novelty Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 05fd5a2d-f488-4049-b35b-d7a9fc94dde8
-  name: Jam Session At Victor
+  - spoken vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - trombone
+    mbid: 1e8f0ed0-a67f-4203-97a6-add12b4b1ab3
+    name: Tommy Dorsey and His Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - trombone
+    mbid: 6527c201-08a6-4b99-a050-64221d6b0363
+    name: Hoagy Carmichael and His Pals
+  - begin: ''
+    end: ''
+    instruments:
+      - trombone
+    mbid: 74955830-1c43-4d57-b85e-b0fd52ae876e
+    name: Benny Goodman and His Boys
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - trombone
+    mbid: 1dd72858-48f5-46f3-a192-d2fe99368cdb
+    name: Tommy Dorsey and His Clambake Seven
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - trombone
+    mbid: e8eb2ef6-475c-4fb2-b2f7-45ee707f12e0
+    name: The Dorsey Brothers Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - trombone
+    mbid: ac2ae864-33c3-4dd8-872d-6c516cfc9db2
+    name: California Ramblers
+  - begin: ''
+    end: ''
+    instruments:
+      - trombone
+    mbid: 7831fe28-27ea-414a-a5de-c28c1625f28c
+    name: Lee Morse and Her Blue Grass Boys
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - trombone
+    mbid: e8eb2ef6-475c-4fb2-b2f7-45ee707f12e0
+    name: The Dorsey Brothers Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - trombone
+    mbid: 99759298-1e5a-4c7a-8532-fabe8f2955ac
+    name: Art Tatum’s All Stars
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: c9b9b67a-d0f7-4989-91f3-ccd4d24ef361
+    name: Tommy Dorsey and His Sentimentalists
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 39af5431-9317-43f9-b3e1-7bf2cd9a3c94
+    name: Tommy Dorsey and His Novelty Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 05fd5a2d-f488-4049-b35b-d7a9fc94dde8
+    name: Jam Session At Victor
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/tommy_dorsey.jpg
   caption: Tommy Dorsey
@@ -115,50 +115,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jimmy Dorsey
-  - Frank Sinatra
-  - Sy Oliver
-  - Bunny Berigan
-  - Buddy Rich
+    - Jimmy Dorsey
+    - Frank Sinatra
+    - Sy Oliver
+    - Bunny Berigan
+    - Buddy Rich
   influenced:
-  - Frank Sinatra
-  - Glenn Miller
-  - Nelson Riddle
+    - Frank Sinatra
+    - Glenn Miller
+    - Nelson Riddle
   mentors:
-  - Thomas Dorsey Sr.
-  - Miff Mole
-  - Louis Armstrong
+    - Thomas Dorsey Sr.
+    - Miff Mole
+    - Louis Armstrong
 spotify_data:
   followers: 151025
   id: 4WoGga7UeRcmjD4ufif4nG
   popularity: 49
-  url: https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG
+  url: 'https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG'
 discography_enriched: true
 top_tracks:
-- I'll Never Smile Again (The Seventeen Number Ones)
-- Polka Dots and Moonbeams (The Essential Frank Sinatra with the Tommy Dorsey Orchestra (with Frank Sinatra))
-- I'll Be Seeing You (with Frank Sinatra) (The Essential Frank Sinatra with the Tommy Dorsey Orchestra (with Frank Sinatra))
-- Stardust - Remastered (I'm Getting Sentimental over You (Remastered))
-- I'm Gettin' Sentimental Over You (The Sentimental Gentleman Of Swing - The Tommy Dorsey Centennial Collection)
-- Fools Rush In (Where Angels Fear To Tread) (The Essential Frank Sinatra with the Tommy Dorsey Orchestra (with Frank Sinatra))
-- I'm Getting Sentimental Over You
-- Say It (The Essential Frank Sinatra with the Tommy Dorsey Orchestra (with Frank Sinatra))
-- Manhattan Serenade (The Incomparable Tommy Dorsey)
-- Sleepy Lagoon (The Incomparable Tommy Dorsey)
+  - I'll Never Smile Again (The Seventeen Number Ones)
+  - >-
+    Polka Dots and Moonbeams (The Essential Frank Sinatra with the Tommy Dorsey
+    Orchestra (with Frank Sinatra))
+  - >-
+    I'll Be Seeing You (with Frank Sinatra) (The Essential Frank Sinatra with
+    the Tommy Dorsey Orchestra (with Frank Sinatra))
+  - Stardust - Remastered (I'm Getting Sentimental over You (Remastered))
+  - >-
+    I'm Gettin' Sentimental Over You (The Sentimental Gentleman Of Swing - The
+    Tommy Dorsey Centennial Collection)
+  - >-
+    Fools Rush In (Where Angels Fear To Tread) (The Essential Frank Sinatra with
+    the Tommy Dorsey Orchestra (with Frank Sinatra))
+  - I'm Getting Sentimental Over You
+  - >-
+    Say It (The Essential Frank Sinatra with the Tommy Dorsey Orchestra (with
+    Frank Sinatra))
+  - Manhattan Serenade (The Incomparable Tommy Dorsey)
+  - Sleepy Lagoon (The Incomparable Tommy Dorsey)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b1cfd018-b393-4632-babc-8a343edb4baa
-  spotify: https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG
-  wikipedia: https://en.wikipedia.org/wiki/Tommy_Dorsey
+  musicbrainz: 'https://musicbrainz.org/artist/b1cfd018-b393-4632-babc-8a343edb4baa'
+  spotify: 'https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tommy_Dorsey'
 image_path: 03_Resources/source_material/ArtistPortraits/tommy_dorsey.jpg
 biography_enhanced_at: '2025-11-16T20:11:40.276180'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.allaboutjazz.com/musicians/tommy-dorsey/
-- https://www.britannica.com/biography/Tommy-Dorsey
-- https://walkoffame.com/tommy-dorsey/
-- https://syncopatedtimes.com/tommy-dorsey-profiles-in-jazz/
-- https://www.jazzstandards.com/biographies/biography_6677.htm
+  - 'https://www.allaboutjazz.com/musicians/tommy-dorsey/'
+  - 'https://www.britannica.com/biography/Tommy-Dorsey'
+  - 'https://walkoffame.com/tommy-dorsey/'
+  - 'https://syncopatedtimes.com/tommy-dorsey-profiles-in-jazz/'
+  - 'https://www.jazzstandards.com/biographies/biography_6677.htm'
 network_extracted: true
 entry_created: '2025-11-16T20:11:40.276186'
 last_updated: '2025-12-23T08:16:17.557142'
@@ -166,9 +176,10 @@ disambiguation: Swing trombone player & band leader
 gender: Male
 musicbrainz_id: b1cfd018-b393-4632-babc-8a343edb4baa
 tags:
-- 2008 universal fire victim
-- big band
-- jazz
+  - 2008 universal fire victim
+  - big band
+  - jazz
+is_active: false
 ---
 
 ![](tommy_dorsey.jpg)

@@ -1,16 +1,16 @@
 ---
-title: jesse crump
+title: Jesse Crump
 wiki_slug: jesse-crump
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1897-01-15'
-birth_place: Paris
+birth_place: 'Paris, France'
 death_date: '1974-04-21'
 genres:
-- ragtime
+  - ragtime
 instruments:
-- piano
+  - piano
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jesse_crump.jpg
   caption: jesse crump
@@ -33,48 +33,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ida Cox
-  - Nina Reeves
-  - Lulu Jackson
-  - Billie McKenzie
+    - Ida Cox
+    - Nina Reeves
+    - Lulu Jackson
+    - Billie McKenzie
   influenced: []
   mentors: []
 spotify_data:
   followers: 6
   id: 1IcxAW9CPT78tvPsA6XEGF
   popularity: 0
-  url: https://open.spotify.com/artist/1IcxAW9CPT78tvPsA6XEGF
+  url: 'https://open.spotify.com/artist/1IcxAW9CPT78tvPsA6XEGF'
 discography_enriched: true
 top_tracks:
-- Coffin Blues (15 Essentials of Ida Cox (Mono Version))
-- Rambling Blues (15 Essentials of Ida Cox (Mono Version))
-- Coffin Blues (Ida Cox Sings the Blues (Mono Version))
-- Rambling Blues (Ida Cox Sings the Blues (Mono Version))
-- Mr Crump Rag (Male Blues Of The Twenties Vol. 2 (1923-1928))
-- Golden West Blues (Male Blues Of The Twenties Vol. 2 (1923-1928))
-- Golden West Blues (Golden West Blues)
-- Mr Crump Rag (Golden West Blues)
-- 'Mr. Crump''s Rag (That Devilin'' Tune: A Jazz History (1895-1950), Vol. 1 (1895-1927))'
-- Coffin Blues (Ida Cox Sings The Blues)
+  - Coffin Blues (15 Essentials of Ida Cox (Mono Version))
+  - Rambling Blues (15 Essentials of Ida Cox (Mono Version))
+  - Coffin Blues (Ida Cox Sings the Blues (Mono Version))
+  - Rambling Blues (Ida Cox Sings the Blues (Mono Version))
+  - Mr Crump Rag (Male Blues Of The Twenties Vol. 2 (1923-1928))
+  - Golden West Blues (Male Blues Of The Twenties Vol. 2 (1923-1928))
+  - Golden West Blues (Golden West Blues)
+  - Mr Crump Rag (Golden West Blues)
+  - >-
+    Mr. Crump's Rag (That Devilin' Tune: A Jazz History (1895-1950), Vol. 1
+    (1895-1927))
+  - Coffin Blues (Ida Cox Sings The Blues)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/14e07406-a0d9-4089-bcdd-531fcbd2e95c
-  spotify: https://open.spotify.com/artist/1IcxAW9CPT78tvPsA6XEGF
+  musicbrainz: 'https://musicbrainz.org/artist/14e07406-a0d9-4089-bcdd-531fcbd2e95c'
+  spotify: 'https://open.spotify.com/artist/1IcxAW9CPT78tvPsA6XEGF'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/jesse_crump.jpg
 biography_enhanced_at: '2025-11-29T07:00:50.070088'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Encyclopedia of Indianapolis - Ragtime
-- 'Art Rosenbaum - Nobody Knows Old Naptown Like I Do: Blues From Indianapolis'
-- Indiana Music Makers - Jesse Crump
-- WFYI - Echoes Indiana Avenue
-- Piano Blues Review - Jesse Crump
+  - Encyclopedia of Indianapolis - Ragtime
+  - 'Art Rosenbaum - Nobody Knows Old Naptown Like I Do: Blues From Indianapolis'
+  - Indiana Music Makers - Jesse Crump
+  - WFYI - Echoes Indiana Avenue
+  - Piano Blues Review - Jesse Crump
 network_extracted: true
 entry_created: '2025-11-29T07:00:50.070099'
 last_updated: '2025-12-23T08:16:10.365419'
 gender: Male
 musicbrainz_id: 14e07406-a0d9-4089-bcdd-531fcbd2e95c
+is_active: false
+origin: 'Dallas, Texas, United States'
 ---
 
 ![](jesse_crump.jpg)

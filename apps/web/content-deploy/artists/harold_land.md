@@ -1,131 +1,133 @@
 ---
-artist_type: person
+artist_type: band
 associated_acts:
-- begin: '1954'
-  end: '1956'
-  instruments: []
-  mbid: bc090b7f-3a8c-432e-aecc-c34b4997bcba
-  name: The Clifford Brown–Max Roach Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  - tenor saxophone
-  mbid: cadf5219-3457-48f7-93a0-89eb5147881c
-  name: Harold Land Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - tenor saxophone
-  mbid: 7a9531b2-9e52-4fee-953a-841090da928d
-  name: Jimmy Woods Sextet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 3223ac9a-048f-4011-80d3-c81fbce72950
-  name: Harold Land Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 2975691d-e859-456c-b9f0-4c2f7c7b1d7c
-  name: Bobby Hutcherson-Harold Land Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - tenor saxophone
-  mbid: 96c12c43-42fc-4cf9-876b-577f9371576a
-  name: The Blue Mitchell Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - additional
-  - tenor saxophone
-  mbid: bc090b7f-3a8c-432e-aecc-c34b4997bcba
-  name: The Clifford Brown–Max Roach Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 32385c7d-1bcc-4efc-b676-6ab1e94b3b86
-  name: The Victor Feldman All Stars
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 976da80e-4057-4365-9885-f354caf6528c
-  name: Billy Higgins Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3e6e4e8c-c882-4351-a790-177a5ceac34e
-  name: The Red Mitchell - Harold Land Quintet
+  - begin: '1954'
+    end: '1956'
+    instruments: []
+    mbid: bc090b7f-3a8c-432e-aecc-c34b4997bcba
+    name: The Clifford Brown–Max Roach Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - tenor saxophone
+    mbid: cadf5219-3457-48f7-93a0-89eb5147881c
+    name: Harold Land Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: 7a9531b2-9e52-4fee-953a-841090da928d
+    name: Jimmy Woods Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 3223ac9a-048f-4011-80d3-c81fbce72950
+    name: Harold Land Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 2975691d-e859-456c-b9f0-4c2f7c7b1d7c
+    name: Bobby Hutcherson-Harold Land Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: 96c12c43-42fc-4cf9-876b-577f9371576a
+    name: The Blue Mitchell Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - additional
+      - tenor saxophone
+    mbid: bc090b7f-3a8c-432e-aecc-c34b4997bcba
+    name: The Clifford Brown–Max Roach Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 32385c7d-1bcc-4efc-b676-6ab1e94b3b86
+    name: The Victor Feldman All Stars
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 976da80e-4057-4365-9885-f354caf6528c
+    name: Billy Higgins Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3e6e4e8c-c882-4351-a790-177a5ceac34e
+    name: The Red Mitchell - Harold Land Quintet
 biography_enhanced_at: '2026-01-05T07:57:36.194414'
 birth_date: '1928-12-18'
-birth_place: Houston
+birth_place: 'Houston, Texas, United States'
 death_date: '2001-07-27'
 disambiguation: US jazz tenor saxophonist
 enhancement_provider: perplexity
 entry_created: '2026-01-05T07:57:36.194420'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8f5c28d7-9fb4-4e0c-a361-53a3a257beab
-  spotify: https://open.spotify.com/artist/1jcPgyzUoFrMSI5jloL3LD
+  musicbrainz: 'https://musicbrainz.org/artist/8f5c28d7-9fb4-4e0c-a361-53a3a257beab'
+  spotify: 'https://open.spotify.com/artist/1jcPgyzUoFrMSI5jloL3LD'
   wikipedia: Not found in search results
 gender: Male
 genres:
-- hard bop
-- bebop
-- cool jazz
-- jazz
+  - hard bop
+  - bebop
+  - cool jazz
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/harold_land.jpg
 instruments:
-- eponymous
-- original
-- tenor saxophone
-- additional
-- piano
+  - eponymous
+  - original
+  - tenor saxophone
+  - additional
+  - piano
 last_updated: '2026-01-05T07:57:36.194421'
 musical_connections:
   collaborators:
-  - Max Roach
-  - Curtis Counce
-  - Bobby Hutcherson
-  - Blue Mitchell
-  - Red Mitchell
-  - Gerald Wilson
-  - Kenny Burrell
-  - Thelonious Monk
-  - Elmo Hope
-  - Don Sickler
-  - Harold Land Jr.
+    - Max Roach
+    - Curtis Counce
+    - Bobby Hutcherson
+    - Blue Mitchell
+    - Red Mitchell
+    - Gerald Wilson
+    - Kenny Burrell
+    - Thelonious Monk
+    - Elmo Hope
+    - Don Sickler
+    - Harold Land Jr.
   influenced:
-  - 'Yes'
-  - Harold Land Jr.
+    - 'Yes'
+    - Harold Land Jr.
   mentors:
-  - Clifford Brown
+    - Clifford Brown
 musicbrainz_id: 8f5c28d7-9fb4-4e0c-a361-53a3a257beab
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://aaregistry.org/story/harold-land-born/
-- https://jazztimes.com/archives/harold-land/
-- https://www.bluenote.com/artist/harold-land/
-- https://sandiegotroubadour.com/harold-in-the-land-of-jazz/
-- https://jazzprofiles.blogspot.com/2018/06/harold-land-hard-bop-legacy-1928-2001.html
+  - 'https://aaregistry.org/story/harold-land-born/'
+  - 'https://jazztimes.com/archives/harold-land/'
+  - 'https://www.bluenote.com/artist/harold-land/'
+  - 'https://sandiegotroubadour.com/harold-in-the-land-of-jazz/'
+  - >-
+    https://jazzprofiles.blogspot.com/2018/06/harold-land-hard-bop-legacy-1928-2001.html
 spotify_data:
   followers: 9076
   id: 1jcPgyzUoFrMSI5jloL3LD
   popularity: 28
-  url: https://open.spotify.com/artist/1jcPgyzUoFrMSI5jloL3LD
+  url: 'https://open.spotify.com/artist/1jcPgyzUoFrMSI5jloL3LD'
 status: active
 tags:
-- hard bop
-- jazz
-- post-bop
-title: HAROLD LAND
-
+  - hard bop
+  - jazz
+  - post-bop
+title: Harold Land
+is_active: false
+origin: 'San Diego, California, United States'
 ---
 
 ![](harold_land.jpg)

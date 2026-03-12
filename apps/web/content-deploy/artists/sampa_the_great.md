@@ -1,11 +1,11 @@
 ---
-title: Sampa the Great
+title: Sampa The Great
 wiki_slug: sampa-the-great
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1993-08-09'
-birth_place: Zambia
+birth_place: 'Ndola, Copperbelt Province, Zambia'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sampa_the_great.jpg
@@ -20,7 +20,7 @@ audio_profile:
   danceability_avg: 0.692
   acousticness_avg: 0.202
   instrumentalness_avg: 0.044
-  loudness_avg: -7.0
+  loudness_avg: -7
   speechiness_avg: 0.162
   liveness_avg: 0.18
   track_count: 50
@@ -28,50 +28,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Magnus Mando (Mag44)
+    - Magnus Mando (Mag44)
   influenced: []
   mentors:
-  - Magnus Mando (Mag44)
+    - Magnus Mando (Mag44)
 spotify_data:
   followers: 298839
   id: 7fw0E8WHdG3r9SuPBcGmWk
   popularity: 46
-  url: https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk
+  url: 'https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk'
 discography_enriched: true
 top_tracks:
-- Energy
-- Final Form (The Return)
-- Healer (Birds And The BEE9)
-- Healing (Birds And The BEE9)
-- F E M A L E
-- Let Me Be Great [Feat. Angélique Kidjo] (As Above, So Below)
-- Life Goes On (feat. Sampa the Great) (Where I'm Meant To Be)
-- Take Care In Your Dreaming (We Will Always Love You)
-- JOY (Life Goes On) (Where I'm Meant To Be (Deluxe Edition))
-- Approach With Caution (Stalag Riddim Remix)
+  - Energy
+  - Final Form (The Return)
+  - Healer (Birds And The BEE9)
+  - Healing (Birds And The BEE9)
+  - F E M A L E
+  - 'Let Me Be Great [Feat. Angélique Kidjo] (As Above, So Below)'
+  - Life Goes On (feat. Sampa the Great) (Where I'm Meant To Be)
+  - Take Care In Your Dreaming (We Will Always Love You)
+  - JOY (Life Goes On) (Where I'm Meant To Be (Deluxe Edition))
+  - Approach With Caution (Stalag Riddim Remix)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9d79c790-9897-464e-aef0-db5bd3290f00
-  spotify: https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk
+  musicbrainz: 'https://musicbrainz.org/artist/9d79c790-9897-464e-aef0-db5bd3290f00'
+  spotify: 'https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/sampa_the_great.jpg
 biography_enhanced_at: '2025-11-20T06:55:20.202342'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://thegentlewoman.co.uk/library/sampa-the-great
-- https://sampathegreat.com/about
-- https://coolhunting.com/culture/sampa-the-great-interview/
-- https://first-avenue.com/performer/sampa-the-great/
-- https://www.refinery29.com/en-gb/2022/09/11110422/sampa-the-great-interview
+  - 'https://thegentlewoman.co.uk/library/sampa-the-great'
+  - 'https://sampathegreat.com/about'
+  - 'https://coolhunting.com/culture/sampa-the-great-interview/'
+  - 'https://first-avenue.com/performer/sampa-the-great/'
+  - 'https://www.refinery29.com/en-gb/2022/09/11110422/sampa-the-great-interview'
 network_extracted: true
 entry_created: '2025-11-20T06:55:20.202346'
 last_updated: '2025-12-23T08:16:15.354220'
 gender: Female
 musicbrainz_id: 9d79c790-9897-464e-aef0-db5bd3290f00
 tags:
-- hip hop
-- hip-hop
-- hip-hop/rap
+  - hip hop
+  - hip-hop
+  - hip-hop/rap
+origin: 'Melbourne, Victoria, Australia'
 ---
 
 ![](sampa_the_great.jpg)

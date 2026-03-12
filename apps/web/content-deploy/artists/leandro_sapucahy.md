@@ -4,15 +4,15 @@ wiki_slug: leandro-sapucahy
 schema_version: 2
 artist_type: person
 status: active
-birth_place: Jacarepaguá, Rio de Janeiro, Brazil
+birth_place: 'Jacarepaguá, Rio de Janeiro, Brazil'
 genres:
-- samba
-- pagode
+  - samba
+  - pagode
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/leandro_sapucahy.jpg
   caption: Leandro Sapucahy
   background: solo_singer
-  origin: Jacarepaguá, Rio de Janeiro, Brazil
+  origin: 'Jacarepaguá, Rio de Janeiro, Brazil'
 audio_profile:
   tempo_avg: 111.1
   energy_avg: 0.811
@@ -28,55 +28,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Marcelo D2
-  - Arlindo Cruz
-  - Maria Rita
-  - Serginho Meriti
-  - Mano Brown
-  - MC Marcinho
-  - Fernandinho Beatbox
-  - Naldo
-  - Preta Gil
-  - Emicida
-  - Fernanda Abreu
-  - Xande de Pilares
-  - Regina Casé
+    - Marcelo D2
+    - Arlindo Cruz
+    - Maria Rita
+    - Serginho Meriti
+    - Mano Brown
+    - MC Marcinho
+    - Fernandinho Beatbox
+    - Naldo
+    - Preta Gil
+    - Emicida
+    - Fernanda Abreu
+    - Xande de Pilares
+    - Regina Casé
   influenced: []
   mentors:
-  - Bira Havai
+    - Bira Havai
 spotify_data:
   followers: 80970
   id: 0CrxzqTZLiR68vlIQHwTFK
   popularity: 51
-  url: https://open.spotify.com/artist/0CrxzqTZLiR68vlIQHwTFK
+  url: 'https://open.spotify.com/artist/0CrxzqTZLiR68vlIQHwTFK'
 discography_enriched: true
 top_tracks:
-- Naquela Mesa (Que Nem Antigamente)
-- Retrato Cantado (Que Nem Antigamente)
-- Vacilão/Seu Balance/Alma Boemia/ Perdeu Pra Cerveja (Que Nem Antigamente)
-- Meiguice Descarada (Que Nem Antigamente)
-- Volta De Vez Pra Mim (Que Nem Antigamente)
-- Problema Emocional (Que Nem Antigamente)
-- Coisa De Pele (Que Nem Antigamente)
-- E A Vida Mudou (Que Nem Antigamente)
-- Alvará (Que Nem Antigamente)
-- Já É (Que Nem Antigamente)
+  - Naquela Mesa (Que Nem Antigamente)
+  - Retrato Cantado (Que Nem Antigamente)
+  - Vacilão/Seu Balance/Alma Boemia/ Perdeu Pra Cerveja (Que Nem Antigamente)
+  - Meiguice Descarada (Que Nem Antigamente)
+  - Volta De Vez Pra Mim (Que Nem Antigamente)
+  - Problema Emocional (Que Nem Antigamente)
+  - Coisa De Pele (Que Nem Antigamente)
+  - E A Vida Mudou (Que Nem Antigamente)
+  - Alvará (Que Nem Antigamente)
+  - Já É (Que Nem Antigamente)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/bbd04a81-71f3-4c46-a21a-be5eeef8330c
-  spotify: https://open.spotify.com/artist/0CrxzqTZLiR68vlIQHwTFK
+  musicbrainz: 'https://musicbrainz.org/artist/bbd04a81-71f3-4c46-a21a-be5eeef8330c'
+  spotify: 'https://open.spotify.com/artist/0CrxzqTZLiR68vlIQHwTFK'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/leandro_sapucahy.jpg
 biography_enhanced_at: '2025-12-07T04:47:45.103664'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Dicionário Cravo Albin da Música Popular Brasileira – Leandro Sapucahy biography[1]
-- Blog Notas Musicais (Mauro Ferreira) – review of “Favela Brasil,” describing Sapucahy’s favela‑focused samba style[2]
-- Wikipedia – “Samba Meu” album page, crediting Leandro Sapucahy as co‑producer and noting the Latin Grammy and platinum certification[3]
+  - >-
+    Dicionário Cravo Albin da Música Popular Brasileira – Leandro Sapucahy
+    biography[1]
+  - >-
+    Blog Notas Musicais (Mauro Ferreira) – review of “Favela Brasil,” describing
+    Sapucahy’s favela‑focused samba style[2]
+  - >-
+    Wikipedia – “Samba Meu” album page, crediting Leandro Sapucahy as
+    co‑producer and noting the Latin Grammy and platinum certification[3]
 network_extracted: true
 entry_created: '2025-12-07T04:47:45.103689'
 last_updated: '2025-12-23T08:16:11.695986'
 musicbrainz_id: bbd04a81-71f3-4c46-a21a-be5eeef8330c
+origin: 'Rio de Janeiro, State/Region, Brazil'
 ---
 
 ![](leandro_sapucahy.jpg)

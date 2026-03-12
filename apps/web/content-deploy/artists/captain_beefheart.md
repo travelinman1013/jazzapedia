@@ -1,26 +1,26 @@
 ---
-title: captain beefheart
+title: Captain Beefheart
 wiki_slug: captain-beefheart
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1941-01-15'
-birth_place: Glendale, California, United States
+birth_place: 'Glendale, California, United States'
 death_date: '2010-12-17'
 genres:
-- proto-punk
-- psychedelic rock
-- art rock
-- acid rock
-- avant-garde
+  - proto-punk
+  - psychedelic rock
+  - art rock
+  - acid rock
+  - avant-garde
 instruments:
-- eponymous
+  - eponymous
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/captain_beefheart.jpg
   caption: captain beefheart
   background: non_vocal_instrumentalist
   born: '1941-01-15'
-  origin: Glendale, California, United States
+  origin: 'Glendale, California, United States'
   died: '2010-12-17'
 audio_profile:
   tempo_avg: 115.7
@@ -37,47 +37,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Frank Zappa
-  - Magic Band members (John French, Bill Harkleroad, Mark Boston, Art Tripp)
-  - Art Tripp
+    - Frank Zappa
+    - 'Magic Band members (John French, Bill Harkleroad, Mark Boston, Art Tripp)'
+    - Art Tripp
   influenced:
-  - Brian Eno
-  - David Bowie
-  - John Lydon (Johnny Rotten)
-  - Devo
+    - Brian Eno
+    - David Bowie
+    - John Lydon (Johnny Rotten)
+    - Devo
   mentors:
-  - Howlin' Wolf
-  - Frank Zappa
-  - John Coltrane
+    - Howlin' Wolf
+    - Frank Zappa
+    - John Coltrane
 spotify_data:
   followers: 218363
   id: 2k8kY9zHUWxuTtwV4UutHw
   popularity: 40
-  url: https://open.spotify.com/artist/2k8kY9zHUWxuTtwV4UutHw
+  url: 'https://open.spotify.com/artist/2k8kY9zHUWxuTtwV4UutHw'
 discography_enriched: true
 top_tracks:
-- I'm Glad (Safe As Milk)
-- Her Eyes Are a Blue Million Miles (Clear Spot)
-- My Head Is My Only House Unless It Rains (Clear Spot)
-- Sure 'Nuff 'n' Yes, I Do (Safe As Milk)
-- Zig Zag Wanderer (Safe As Milk)
-- Too Much Time (Clear Spot)
-- Observatory Crest (Blue Jeans And Moonbeams)
-- Electricity (Safe As Milk)
-- Diddy Wah Diddy
-- Abba Zaba (Safe As Milk)
+  - I'm Glad (Safe As Milk)
+  - Her Eyes Are a Blue Million Miles (Clear Spot)
+  - My Head Is My Only House Unless It Rains (Clear Spot)
+  - 'Sure ''Nuff ''n'' Yes, I Do (Safe As Milk)'
+  - Zig Zag Wanderer (Safe As Milk)
+  - Too Much Time (Clear Spot)
+  - Observatory Crest (Blue Jeans And Moonbeams)
+  - Electricity (Safe As Milk)
+  - Diddy Wah Diddy
+  - Abba Zaba (Safe As Milk)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a1594afa-2f6b-4596-a156-a35853dca691
-  spotify: https://open.spotify.com/artist/2k8kY9zHUWxuTtwV4UutHw
-  wikipedia: https://en.wikipedia.org/wiki/Captain_Beefheart
+  musicbrainz: 'https://musicbrainz.org/artist/a1594afa-2f6b-4596-a156-a35853dca691'
+  spotify: 'https://open.spotify.com/artist/2k8kY9zHUWxuTtwV4UutHw'
+  wikipedia: 'https://en.wikipedia.org/wiki/Captain_Beefheart'
 image_path: 03_Resources/source_material/ArtistPortraits/captain_beefheart.jpg
 biography_enhanced_at: '2025-10-19T10:50:55.479414'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://faroutmagazine.co.uk/how-captain-beefheart-changed-rock-music-forever/
-- https://beefheart.com/the-roots-of-captain-beefheart/
-- https://jambands.com/features/2011/01/09/45-minutes-towards-a-better-understanding-of-captain-beefheart/
+  - >-
+    https://faroutmagazine.co.uk/how-captain-beefheart-changed-rock-music-forever/
+  - 'https://beefheart.com/the-roots-of-captain-beefheart/'
+  - >-
+    https://jambands.com/features/2011/01/09/45-minutes-towards-a-better-understanding-of-captain-beefheart/
 network_extracted: true
 entry_created: '2025-10-19T10:50:55.479419'
 last_updated: '2025-12-23T08:16:06.387242'
@@ -85,9 +87,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:50:08.392758'
 musicbrainz_id: a1594afa-2f6b-4596-a156-a35853dca691
 tags:
-- art rock
-- avant-blues
-- avant-garde
+  - art rock
+  - avant-blues
+  - avant-garde
+is_active: false
 ---
 
 ![](captain_beefheart.jpg)

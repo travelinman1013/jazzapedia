@@ -1,16 +1,16 @@
 ---
-title: AZIZA
+title: Aziza
 wiki_slug: aziza
 schema_version: 2
-artist_type: Group
+artist_type: person
 status: active
-birth_place: Baku, Azerbaijan
+birth_place: 'Baku, Azerbaijan, N/A'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/AZIZA.jpg
   caption: AZIZA
   background: solo_singer
-  origin: Baku, Azerbaijan
+  origin: 'Baku, Azerbaijan'
 audio_profile:
   tempo_avg: 104.5
   energy_avg: 0.58
@@ -18,7 +18,7 @@ audio_profile:
   danceability_avg: 0.734
   acousticness_avg: 0.298
   instrumentalness_avg: 0.107
-  loudness_avg: -10.0
+  loudness_avg: -10
   speechiness_avg: 0.064
   liveness_avg: 0.146
   track_count: 50
@@ -26,42 +26,42 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Various jazz and traditional musicians
+    - Various jazz and traditional musicians
   influenced: []
   mentors:
-  - Vagif Mustafa Zadeh
-  - Elza Mustafa Zadeh
+    - Vagif Mustafa Zadeh
+    - Elza Mustafa Zadeh
 spotify_data:
   followers: 19321
   id: 52kitoyLb7JojPLLvX6qTP
   popularity: 44
-  url: https://open.spotify.com/artist/52kitoyLb7JojPLLvX6qTP
+  url: 'https://open.spotify.com/artist/52kitoyLb7JojPLLvX6qTP'
 discography_enriched: true
 top_tracks:
-- Desert Rose (Desert Rose)
-- Ride It (Ride It)
-- Nasini (Nasini)
-- Desert Rose (Desert Rose)
-- Broken Angel (Broken Angel)
-- Hiya Hiya (Hiya Hiya)
-- Lost You (Lost You)
-- Ya La La (Ya La La)
-- Dooset Daaram (Dooset Daaram)
-- Nasini El Donya (Nasini El Donya)
+  - Desert Rose (Desert Rose)
+  - Ride It (Ride It)
+  - Nasini (Nasini)
+  - Desert Rose (Desert Rose)
+  - Broken Angel (Broken Angel)
+  - Hiya Hiya (Hiya Hiya)
+  - Lost You (Lost You)
+  - Ya La La (Ya La La)
+  - Dooset Daaram (Dooset Daaram)
+  - Nasini El Donya (Nasini El Donya)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/16d4ff00-464e-499f-b13a-05e2c8aa2b81
-  spotify: https://open.spotify.com/artist/52kitoyLb7JojPLLvX6qTP
-  wikipedia: https://en.wikipedia.org/wiki/Aziza_Mustafa_Zadeh
+  musicbrainz: 'https://musicbrainz.org/artist/16d4ff00-464e-499f-b13a-05e2c8aa2b81'
+  spotify: 'https://open.spotify.com/artist/52kitoyLb7JojPLLvX6qTP'
+  wikipedia: 'https://en.wikipedia.org/wiki/Aziza_Mustafa_Zadeh'
 image_path: 03_Resources/source_material/ArtistPortraits/AZIZA.jpg
 biography_enhanced_at: '2025-10-20T10:01:19.345763'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Aziza_Mustafa_Zadeh
+  - 'https://en.wikipedia.org/wiki/Aziza_Mustafa_Zadeh'
 network_extracted: true
 entry_created: '2025-10-20T10:01:19.345776'
 last_updated: '2025-12-23T08:16:00.938602'
-disambiguation: Jazz group (Holland, Potter, Loueke, Harland)
+disambiguation: 'Jazz group (Holland, Potter, Loueke, Harland)'
 musicbrainz_enriched_at: '2025-10-21T09:10:12.963539'
 musicbrainz_id: 16d4ff00-464e-499f-b13a-05e2c8aa2b81
 ---

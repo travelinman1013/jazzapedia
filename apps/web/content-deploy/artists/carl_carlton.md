@@ -5,12 +5,12 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1952-05-21'
-birth_place: Detroit
+birth_place: 'Detroit, Michigan, United States'
 genres:
-- funk
+  - funk
 instruments:
-- resonator guitar
-- acoustic guitar
+  - resonator guitar
+  - acoustic guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/carl_carlton.jpg
   caption: Carl Carlton
@@ -32,52 +32,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Leon Haywood
+    - Leon Haywood
   influenced:
-  - Contemporary funk and R&B artists
+    - Contemporary funk and R&B artists
   mentors:
-  - Marvin Gaye
-  - Stevie Wonder
+    - Marvin Gaye
+    - Stevie Wonder
 spotify_data:
   followers: 44429
   id: 6gYjIUFuKIBVJfxXnmrd5P
   popularity: 53
-  url: https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P
+  url: 'https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P'
 discography_enriched: true
 top_tracks:
-- She's A Bad Mama Jama (She's Built, She's Stacked) - Single Version (Carl Carlton (Expanded Edition))
-- She's A Bad Mama Jama (She's Built, She's Stacked) - Single Version
-- Everlasting Love
-- She's A Bad Mama Jama (She's Built, She's Stacked) (Carl Carlton (Expanded Edition))
-- She's A Bad Mama Jama (She's Built, She's Stacked)
-- This Feeling’s Rated X-tra (Carl Carlton (Expanded Edition))
-- She's A Bad Mama Jama (She's Built, She's Stacked) - Single Version
-- This Feeling’s Rated X-tra - 12" Version (Carl Carlton (Expanded Edition))
-- Sexy Lady (Carl Carlton (Expanded Edition))
-- Let Me Love You 'Til Morning Comes (Carl Carlton (Expanded Edition))
+  - >-
+    She's A Bad Mama Jama (She's Built, She's Stacked) - Single Version (Carl
+    Carlton (Expanded Edition))
+  - 'She''s A Bad Mama Jama (She''s Built, She''s Stacked) - Single Version'
+  - Everlasting Love
+  - >-
+    She's A Bad Mama Jama (She's Built, She's Stacked) (Carl Carlton (Expanded
+    Edition))
+  - 'She''s A Bad Mama Jama (She''s Built, She''s Stacked)'
+  - This Feeling’s Rated X-tra (Carl Carlton (Expanded Edition))
+  - 'She''s A Bad Mama Jama (She''s Built, She''s Stacked) - Single Version'
+  - This Feeling’s Rated X-tra - 12" Version (Carl Carlton (Expanded Edition))
+  - Sexy Lady (Carl Carlton (Expanded Edition))
+  - Let Me Love You 'Til Morning Comes (Carl Carlton (Expanded Edition))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/48b66d59-647d-42a9-b7a5-55abd5fca7ae
-  spotify: https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P
-  wikipedia: https://en.wikipedia.org/wiki/Carl_Carlton
+  musicbrainz: 'https://musicbrainz.org/artist/48b66d59-647d-42a9-b7a5-55abd5fca7ae'
+  spotify: 'https://open.spotify.com/artist/6gYjIUFuKIBVJfxXnmrd5P'
+  wikipedia: 'https://en.wikipedia.org/wiki/Carl_Carlton'
 image_path: 03_Resources/source_material/ArtistPortraits/carl_carlton.jpg
 biography_enhanced_at: '2025-11-16T20:25:34.680032'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://mabumbe.com/people/carl-carlton-age-net-worth-family-and-career-timeline/
-- https://blackpast.org/african-american-history/carl-carlton-1953/
-- https://www.aaemusic.com/artist/carl-carlton
-- https://en.wikipedia.org/wiki/Carl_Carlton
+  - >-
+    https://mabumbe.com/people/carl-carlton-age-net-worth-family-and-career-timeline/
+  - 'https://blackpast.org/african-american-history/carl-carlton-1953/'
+  - 'https://www.aaemusic.com/artist/carl-carlton'
+  - 'https://en.wikipedia.org/wiki/Carl_Carlton'
 network_extracted: true
 entry_created: '2025-11-16T20:25:34.680043'
 last_updated: '2025-12-23T08:16:06.432009'
-disambiguation: American R&B, funk and soul singer
+disambiguation: 'American R&B, funk and soul singer'
 gender: Male
 musicbrainz_id: 48b66d59-647d-42a9-b7a5-55abd5fca7ae
 tags:
-- 2008 universal fire victim
-- funk
-- pop
+  - 2008 universal fire victim
+  - funk
+  - pop
+origin: 'Detroit, Michigan, United States'
 ---
 
 ![](carl_carlton.jpg)

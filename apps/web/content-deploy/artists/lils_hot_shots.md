@@ -1,10 +1,10 @@
 ---
-title: LIL'S HOT SHOTS
+title: Lil's Hot Shots
 wiki_slug: lils-hot-shots
 schema_version: 2
 status: active
 genres:
-- jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lils_hot_shots.jpg
   caption: LIL'S HOT SHOTS
@@ -24,50 +24,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Louis Armstrong
-  - Joe 'King' Oliver
-  - Alberta Hunter
+    - Louis Armstrong
+    - Joe 'King' Oliver
+    - Alberta Hunter
   influenced:
-  - Louis Armstrong
-  - Ray Charles
-  - Jive Bombers
+    - Louis Armstrong
+    - Ray Charles
+    - Jive Bombers
   mentors:
-  - Mrs. Julia Hook
+    - Mrs. Julia Hook
 spotify_data:
   followers: 92
   id: 31hEUNh9af2GC4OhN1jGMP
   popularity: 1
-  url: https://open.spotify.com/artist/31hEUNh9af2GC4OhN1jGMP
+  url: 'https://open.spotify.com/artist/31hEUNh9af2GC4OhN1jGMP'
 discography_enriched: true
 top_tracks:
-- Drop That Sack (Louis Armstrong Of New Orleans)
-- Georgia Bo Bo (Louis Armstrong Of New Orleans)
-- Georgia Bo-Bo - Single Version (Highlights From His Decca Years)
-- Drop That Sack (New Orleans 101)
-- Drop That Sack (Trombone Jazz)
-- Drop That Sack (Jazz Cats - Clarinet)
-- Drop That Sack (Trad Jazz)
-- Drop That Sack (New Orleans Jazz)
-- 'Drop That Sack (The Ultimate Collection: Louis Armstrong)'
-- Drop That Sack (The History Of Jazz Vol. 1 (Jazz Club))
+  - Drop That Sack (Louis Armstrong Of New Orleans)
+  - Georgia Bo Bo (Louis Armstrong Of New Orleans)
+  - Georgia Bo-Bo - Single Version (Highlights From His Decca Years)
+  - Drop That Sack (New Orleans 101)
+  - Drop That Sack (Trombone Jazz)
+  - Drop That Sack (Jazz Cats - Clarinet)
+  - Drop That Sack (Trad Jazz)
+  - Drop That Sack (New Orleans Jazz)
+  - 'Drop That Sack (The Ultimate Collection: Louis Armstrong)'
+  - Drop That Sack (The History Of Jazz Vol. 1 (Jazz Club))
 external_urls:
-  spotify: https://open.spotify.com/artist/31hEUNh9af2GC4OhN1jGMP
-  wikipedia: https://en.wikipedia.org/wiki/Lil_Hardin_Armstrong
+  spotify: 'https://open.spotify.com/artist/31hEUNh9af2GC4OhN1jGMP'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lil_Hardin_Armstrong'
 image_path: ''
 biography_enhanced_at: '2025-10-23T07:22:03.308493'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://syncopatedtimes.com/lils-hot-shots/
-- https://en.wikipedia.org/wiki/Lil_Hardin_Armstrong
-- http://shemadehistory.com/her-story-lil-hardin-armstrong/
-- https://www.allaboutjazz.com/musicians/lil-hardin-armstrong/
-- https://syncopatedtimes.com/lil-hardin-armstrong-profiles-in-jazz/
+  - 'https://syncopatedtimes.com/lils-hot-shots/'
+  - 'https://en.wikipedia.org/wiki/Lil_Hardin_Armstrong'
+  - 'http://shemadehistory.com/her-story-lil-hardin-armstrong/'
+  - 'https://www.allaboutjazz.com/musicians/lil-hardin-armstrong/'
+  - 'https://syncopatedtimes.com/lil-hardin-armstrong-profiles-in-jazz/'
 network_extracted: true
 entry_created: '2025-10-23T07:22:03.308513'
 last_updated: '2025-12-23T08:16:11.938241'
-origin: Memphis, Tennessee, United States
-
+origin: 'Memphis, Tennessee, United States'
+birth_place: 'Memphis, Tennessee, United States'
+artist_type: person
 ---
 
 ![]()

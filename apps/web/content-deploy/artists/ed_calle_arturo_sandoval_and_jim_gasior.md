@@ -1,14 +1,15 @@
 ---
-title: Ed Calle, Arturo Sandoval & Jim Gasior
+title: 'Ed Calle, Arturo Sandoval & Jim Gasior'
 wiki_slug: ed-calle-arturo-sandoval-jim-gasior
 schema_version: 2
 status: active
 genres:
-- latin jazz
-- big band
+  - latin jazz
+  - big band
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/ed_calle_arturo_sandoval_and_jim_gasior.jpg
-  caption: Ed Calle, Arturo Sandoval & Jim Gasior
+  image: >-
+    03_Resources/source_material/ArtistPortraits/ed_calle_arturo_sandoval_and_jim_gasior.jpg
+  caption: 'Ed Calle, Arturo Sandoval & Jim Gasior'
   background: solo_singer
 audio_profile:
   tempo_avg: 116.5
@@ -25,47 +26,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Arturo Sandoval
-  - Justo Almario
-  - Wayne Gutshall
-  - Miami Saxophone Quartet
+    - Arturo Sandoval
+    - Justo Almario
+    - Wayne Gutshall
+    - Miami Saxophone Quartet
   influenced: []
   mentors: []
 spotify_data:
   followers: 330
   id: 7jQq5XsifD4PpuwKQT8Gko
   popularity: 2
-  url: https://open.spotify.com/artist/7jQq5XsifD4PpuwKQT8Gko
+  url: 'https://open.spotify.com/artist/7jQq5XsifD4PpuwKQT8Gko'
 discography_enriched: true
 top_tracks:
-- Calming Blue (Dr. Ed Calle Presents Mamblue)
-- Mamblue (Dr. Ed Calle Presents Mamblue)
-- Arepa Bop (Dr. Ed Calle Presents Mamblue)
-- Rice & Beans (Dr. Ed Calle Presents Mamblue)
-- Biscayne Bay (Dr. Ed Calle Presents Mamblue)
-- Ño! (Dr. Ed Calle Presents Mamblue)
-- Moonlight (Dr. Ed Calle Presents Mamblue)
-- Thinking of You (Dr. Ed Calle Presents Mamblue)
-- San Sebastian (Dr. Ed Calle Presents Mamblue)
-- Mambo Wambo (Dr. Ed Calle Presents Mamblue)
+  - Calming Blue (Dr. Ed Calle Presents Mamblue)
+  - Mamblue (Dr. Ed Calle Presents Mamblue)
+  - Arepa Bop (Dr. Ed Calle Presents Mamblue)
+  - Rice & Beans (Dr. Ed Calle Presents Mamblue)
+  - Biscayne Bay (Dr. Ed Calle Presents Mamblue)
+  - Ño! (Dr. Ed Calle Presents Mamblue)
+  - Moonlight (Dr. Ed Calle Presents Mamblue)
+  - Thinking of You (Dr. Ed Calle Presents Mamblue)
+  - San Sebastian (Dr. Ed Calle Presents Mamblue)
+  - Mambo Wambo (Dr. Ed Calle Presents Mamblue)
 external_urls:
-  spotify: https://open.spotify.com/artist/7jQq5XsifD4PpuwKQT8Gko
+  spotify: 'https://open.spotify.com/artist/7jQq5XsifD4PpuwKQT8Gko'
   wikipedia: ''
-image_path: 03_Resources/source_material/ArtistPortraits/ed_calle_arturo_sandoval_and_jim_gasior.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/ed_calle_arturo_sandoval_and_jim_gasior.jpg
 biography_enhanced_at: '2025-12-23T01:57:02.956459'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://news.miami.edu/frost/_assets/pdf/the-score/2011SCORE.pdf [1]
-- https://www.waynegutshall.com/bio/ [2]
-- https://www.organissimo.org/forum/topic/87090-christmas-music/page/3/ [3]
-- https://www.last.fm/music/Ed+Calle,+Arturo+Sandoval+a%C2%A0Jim+Gasior [4]
-- https://www.last.fm/music/Miami+Saxophone+Quartet/+wiki [5]
-- https://rockhechovenezuela.com/e/ed-calle/ [9]
+  - 'https://news.miami.edu/frost/_assets/pdf/the-score/2011SCORE.pdf [1]'
+  - 'https://www.waynegutshall.com/bio/ [2]'
+  - 'https://www.organissimo.org/forum/topic/87090-christmas-music/page/3/ [3]'
+  - 'https://www.last.fm/music/Ed+Calle,+Arturo+Sandoval+a%C2%A0Jim+Gasior [4]'
+  - 'https://www.last.fm/music/Miami+Saxophone+Quartet/+wiki [5]'
+  - 'https://rockhechovenezuela.com/e/ed-calle/ [9]'
 network_extracted: true
 entry_created: '2025-12-23T01:57:02.956467'
 last_updated: '2025-12-23T08:16:08.131486'
-origin: Miami, Florida, USA (primary base); Venezuela/Cuba origins for Calle/Sandoval
+origin: 'Miami, Florida, USA (primary base); Venezuela/Cuba origins for Calle/Sandoval'
+artist_type: person
 ---
 
 ![](ed_calle_arturo_sandoval_and_jim_gasior.jpg)

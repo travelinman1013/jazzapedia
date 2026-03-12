@@ -1,119 +1,123 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: db8f1a38-5238-4e6b-9cec-b84e785c4d09
-  name: Art Pepper Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - saxophone
-  mbid: eecab3c9-bd0c-4252-b265-4d050e2d252c
-  name: The Marty Paich Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 19e19253-777a-47f8-975a-e5c42aa5da64
-  name: The Big Band of Shorty Rogers
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: da35c976-59c2-4452-b869-083a39139ed2
-  name: The Chet Baker & Art Pepper Sextet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e802a43f-018c-4b85-a346-6c2f822b631a
-  name: Bill Watrous Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 307af8c2-0984-4c34-8ea2-7e29189663df
-  name: Art Pepper Sextet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0d7c6303-f957-46dc-a14f-99db3c121f0a
-  name: Art Pepper Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5ba30f3e-569f-4a73-86c5-6b73a1983e8a
-  name: Art Pepper + Eleven
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 91720f2b-270b-406b-8ba6-fe2d6ee517aa
-  name: Shelly Manne & His Men
-- begin: ''
-  end: ''
-  instruments:
-  - alto saxophone
-  mbid: 099889af-6556-44ee-bf7e-2ece3384c393
-  name: André Previn Ensemble
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: db8f1a38-5238-4e6b-9cec-b84e785c4d09
+    name: Art Pepper Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - saxophone
+    mbid: eecab3c9-bd0c-4252-b265-4d050e2d252c
+    name: The Marty Paich Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 19e19253-777a-47f8-975a-e5c42aa5da64
+    name: The Big Band of Shorty Rogers
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: da35c976-59c2-4452-b869-083a39139ed2
+    name: The Chet Baker & Art Pepper Sextet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e802a43f-018c-4b85-a346-6c2f822b631a
+    name: Bill Watrous Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 307af8c2-0984-4c34-8ea2-7e29189663df
+    name: Art Pepper Sextet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0d7c6303-f957-46dc-a14f-99db3c121f0a
+    name: Art Pepper Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5ba30f3e-569f-4a73-86c5-6b73a1983e8a
+    name: Art Pepper + Eleven
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 91720f2b-270b-406b-8ba6-fe2d6ee517aa
+    name: Shelly Manne & His Men
+  - begin: ''
+    end: ''
+    instruments:
+      - alto saxophone
+    mbid: 099889af-6556-44ee-bf7e-2ece3384c393
+    name: André Previn Ensemble
 biography_enhanced_at: '2026-01-16T01:42:33.900402'
 birth_date: '1925-09-01'
-birth_place: Gardena
+birth_place: 'Gardena, California, United States'
 death_date: '1982-06-15'
 enhancement_provider: perplexity
 entry_created: '2026-01-16T01:42:33.900407'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/266b9126-4a40-4b9b-b21e-422d72e64254
-  spotify: https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA
+  musicbrainz: 'https://musicbrainz.org/artist/266b9126-4a40-4b9b-b21e-422d72e64254'
+  spotify: 'https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA'
   wikipedia: ''
 gender: Male
 genres:
-- cool jazz
-- jazz
-- bebop
-- hard bop
-- jazz ballads
+  - cool jazz
+  - jazz
+  - bebop
+  - hard bop
+  - jazz ballads
 image_path: 03_Resources/source_material/ArtistPortraits/art_pepper.jpg
 instruments:
-- original
-- saxophone
-- eponymous
-- alto saxophone
-- spoken vocals
+  - original
+  - saxophone
+  - eponymous
+  - alto saxophone
+  - spoken vocals
 last_updated: '2026-01-16T01:42:33.900407'
 musical_connections:
   collaborators:
-  - Stan Kenton
-  - George Cables
-  - Marty Paich
+    - Stan Kenton
+    - George Cables
+    - Marty Paich
   influenced: []
   mentors:
-  - Benny Carter
-  - Charlie Parker
-  - Lee Konitz
-  - John Coltrane
+    - Benny Carter
+    - Charlie Parker
+    - Lee Konitz
+    - John Coltrane
 musicbrainz_id: 266b9126-4a40-4b9b-b21e-422d72e64254
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.britannica.com/biography/Art-Pepper
-- https://www.ohjeanrecords.com/blogs/news/art-pepper-biography
-- https://www.youtube.com/watch?v=z-BS4lPBqoQ
-- https://concord.com/artist/art-pepper/
-- https://www.allaboutjazz.com/musicians/art-pepper/
-- https://jazztimes.com/reviews/books/why-art-peppers-straight-life-is-still-the-most-harrowing-jazz-memoir-ever/
-- https://www.ksmu.org/2025-09-04/marking-the-centennial-of-art-pepper-a-jazz-saxophonist-who-played-with-heart
+  - 'https://www.britannica.com/biography/Art-Pepper'
+  - 'https://www.ohjeanrecords.com/blogs/news/art-pepper-biography'
+  - 'https://www.youtube.com/watch?v=z-BS4lPBqoQ'
+  - 'https://concord.com/artist/art-pepper/'
+  - 'https://www.allaboutjazz.com/musicians/art-pepper/'
+  - >-
+    https://jazztimes.com/reviews/books/why-art-peppers-straight-life-is-still-the-most-harrowing-jazz-memoir-ever/
+  - >-
+    https://www.ksmu.org/2025-09-04/marking-the-centennial-of-art-pepper-a-jazz-saxophonist-who-played-with-heart
 spotify_data:
   followers: 88550
   id: 3GpMtIOC5ZLvMBMI7IxPvA
   popularity: 46
-  url: https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA
+  url: 'https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA'
 status: active
 tags:
-- american
-- bebop
-- bop
+  - american
+  - bebop
+  - bop
 title: Art Pepper
+is_active: false
+origin: 'Los Angeles, California, United States'
 ---
 
 ![](art_pepper.jpg)

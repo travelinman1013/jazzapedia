@@ -1,49 +1,53 @@
 ---
 biography_enhanced_at: '2025-12-28T01:45:09.551499'
-birth_place: Pitcairn, Pennsylvania, United States
+birth_place: 'Pitcairn, Pennsylvania, United States'
 enhancement_provider: perplexity
 entry_created: '2025-12-28T01:45:09.551520'
 external_urls:
-  spotify: https://open.spotify.com/artist/0n4QgzHQANi25NTKG3jOo3
-  wikipedia: https://en.wikipedia.org/wiki/Ted_Weems
+  spotify: 'https://open.spotify.com/artist/0n4QgzHQANi25NTKG3jOo3'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ted_Weems'
 genres:
-- ragtime
-- big band
+  - ragtime
+  - big band
 image_path: 03_Resources/source_material/ArtistPortraits/ted_weems.jpg
 last_updated: '2025-12-28T01:45:09.551523'
 musical_connections:
   collaborators:
-  - Art Weems
-  - Perry Como
-  - Elmo Tanner
-  - Red Ingle
-  - Joe Haymes
-  - Marilyn Maxwell
-  - “Country” Washburn
-  - Paul Winchell
+    - Art Weems
+    - Perry Como
+    - Elmo Tanner
+    - Red Ingle
+    - Joe Haymes
+    - Marilyn Maxwell
+    - “Country” Washburn
+    - Paul Winchell
   influenced:
-  - Perry Como
-  - Marilyn Maxwell
-  - Elmo Tanner
-  - Red Ingle
+    - Perry Como
+    - Marilyn Maxwell
+    - Elmo Tanner
+    - Red Ingle
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Ted_Weems
-- https://www.swingcityradio.com/p/ted-weems.html
-- https://fromthevaults-boppinbob.blogspot.com/2023/09/ted-weems-born-26-september-1901.html
-- https://syncopatedtimes.com/ted-weems/
-- https://walkoffame.com/ted-weems/
-- https://the78rpmrecordspins.wordpress.com/2013/03/08/ted-weems/
-- https://www.jazzmusicarchives.com/artist/ted-weems
+  - 'https://en.wikipedia.org/wiki/Ted_Weems'
+  - 'https://www.swingcityradio.com/p/ted-weems.html'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2023/09/ted-weems-born-26-september-1901.html
+  - 'https://syncopatedtimes.com/ted-weems/'
+  - 'https://walkoffame.com/ted-weems/'
+  - 'https://the78rpmrecordspins.wordpress.com/2013/03/08/ted-weems/'
+  - 'https://www.jazzmusicarchives.com/artist/ted-weems'
 spotify_data:
   followers: 1653
   id: 0n4QgzHQANi25NTKG3jOo3
   popularity: 15
-  url: https://open.spotify.com/artist/0n4QgzHQANi25NTKG3jOo3
+  url: 'https://open.spotify.com/artist/0n4QgzHQANi25NTKG3jOo3'
 status: active
 title: Ted Weems
+origin: 'Chicago, Illinois, United States'
+birth_date: '1901-09-26'
+artist_type: person
 ---
 
 ![](ted_weems.jpg)

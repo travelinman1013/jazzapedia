@@ -1,12 +1,12 @@
 ---
-title: RED ROCKERS
+title: Red Rockers
 wiki_slug: red-rockers
 schema_version: 2
 status: active
 genres:
-- new wave
-- jangle pop
-- power pop
+  - new wave
+  - jangle pop
+  - power pop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/RED_ROCKERS.jpg
   caption: RED ROCKERS
@@ -26,50 +26,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John Thomas Griffith
-  - James Singletary
-  - Darren Hill
-  - Patrick (Butler) Jones
-  - Jello Biafra
-  - David Kahne
+    - John Thomas Griffith
+    - James Singletary
+    - Darren Hill
+    - Patrick (Butler) Jones
+    - Jello Biafra
+    - David Kahne
   influenced:
-  - Cowboy Mouth
+    - Cowboy Mouth
   mentors:
-  - The Dils
-  - The Clash
+    - The Dils
+    - The Clash
 spotify_data:
   followers: 4786
   id: 7DYKtStEy5mAmAZvEobbgo
   popularity: 18
-  url: https://open.spotify.com/artist/7DYKtStEy5mAmAZvEobbgo
+  url: 'https://open.spotify.com/artist/7DYKtStEy5mAmAZvEobbgo'
 discography_enriched: true
 top_tracks:
-- China (Good As Gold)
-- Eve of Destruction (Schizophrenic Circus (Expanded Edition))
-- Shades of '45 (Schizophrenic Circus (Expanded Edition))
-- Good As Gold (Good As Gold)
-- Just Like You (Schizophrenic Circus (Expanded Edition))
-- Change The World Around (Good As Gold)
-- Guns Of Revolution (Condition Red)
-- Dreams Fade Away (Good As Gold)
-- '''Til It All Falls Down (Good As Gold)'
-- Running Away From You (Good As Gold)
+  - China (Good As Gold)
+  - Eve of Destruction (Schizophrenic Circus (Expanded Edition))
+  - Shades of '45 (Schizophrenic Circus (Expanded Edition))
+  - Good As Gold (Good As Gold)
+  - Just Like You (Schizophrenic Circus (Expanded Edition))
+  - Change The World Around (Good As Gold)
+  - Guns Of Revolution (Condition Red)
+  - Dreams Fade Away (Good As Gold)
+  - '''Til It All Falls Down (Good As Gold)'
+  - Running Away From You (Good As Gold)
 external_urls:
-  spotify: https://open.spotify.com/artist/7DYKtStEy5mAmAZvEobbgo
-  wikipedia: https://en.wikipedia.org/wiki/Red_Rockers
+  spotify: 'https://open.spotify.com/artist/7DYKtStEy5mAmAZvEobbgo'
+  wikipedia: 'https://en.wikipedia.org/wiki/Red_Rockers'
 image_path: 03_Resources/source_material/ArtistPortraits/RED_ROCKERS.jpg
 biography_enhanced_at: '2025-10-19T11:35:59.267467'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://blog.musoscribe.com/index.php/2024/05/20/teenage-underground-the-beginnings-of-the-red-rockers-part-1-of-3/
-- https://www.offbeat.com/music/rewind-red-rockers-condition-red-415/
-- https://theshfl.com/artist/Red-Rockers-1
-- https://www.allmusic.com/artist/red-rockers-mn0000382880
+  - >-
+    https://blog.musoscribe.com/index.php/2024/05/20/teenage-underground-the-beginnings-of-the-red-rockers-part-1-of-3/
+  - 'https://www.offbeat.com/music/rewind-red-rockers-condition-red-415/'
+  - 'https://theshfl.com/artist/Red-Rockers-1'
+  - 'https://www.allmusic.com/artist/red-rockers-mn0000382880'
 network_extracted: true
 entry_created: '2025-10-19T11:35:59.267473'
 last_updated: '2025-12-23T08:16:03.640902'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![](RED_ROCKERS.jpg)

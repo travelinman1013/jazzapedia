@@ -1,214 +1,216 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '1946'
-  end: '1946'
-  instruments:
-  - alto saxophone
-  mbid: c5e20057-447c-41ae-90a2-ce119dcb5e8b
-  name: Dexter Culbertson's U.S. Navy Band
-- begin: '1949'
-  end: '1950'
-  instruments:
-  - alto saxophone
-  mbid: e1f3d4a1-e009-4911-a7a9-6e50a02a73d9
-  name: Dizzy Gillespie and His Orchestra
-- begin: '1950'
-  end: '1951'
-  instruments:
-  - alto saxophone
-  mbid: 17df697d-197e-4a20-85a1-e09438305f5c
-  name: Dizzy Gillespie Sextet
-- begin: '1950'
-  end: '1951'
-  instruments:
-  - tenor saxophone
-  mbid: 17df697d-197e-4a20-85a1-e09438305f5c
-  name: Dizzy Gillespie Sextet
-- begin: '1952'
-  end: '1952'
-  instruments:
-  - alto saxophone
-  mbid: 929d17e0-6589-400a-9d4c-1f0557db9cc3
-  name: Gay Crosse & The Good Humor Six
-- begin: '1952'
-  end: '1952'
-  instruments:
-  - tenor saxophone
-  mbid: 929d17e0-6589-400a-9d4c-1f0557db9cc3
-  name: Gay Crosse & The Good Humor Six
-- begin: '1954'
-  end: '1954'
-  instruments:
-  - tenor saxophone
-  mbid: 2529b6d1-2bd5-4a57-b119-db4402ebd0c4
-  name: Johnny Hodges and His Orchestra
-- begin: '1955'
-  end: '1961'
-  instruments:
-  - tenor saxophone
-  mbid: fe7245e7-d734-4ca1-8e26-691883f58201
-  name: Miles Davis Quintet
-- begin: '1956'
-  end: '1956'
-  instruments:
-  - tenor saxophone
-  mbid: 9fb7dbc9-76cf-412d-91cf-79ae97d8ace2
-  name: Elmo Hope Sextet
-- begin: '1956'
-  end: '1957'
-  instruments:
-  - tenor saxophone
-  mbid: 93a7ed83-4497-4e38-bedf-d4d57b4eba1d
-  name: The Prestige All Stars
-- begin: 1957-12
-  end: 1957-12
-  instruments:
-  - tenor saxophone
-  mbid: 93ea2964-cb0b-43f0-a36b-80eccc235dc3
-  name: Art Blakey Big Band
-- begin: '1957'
-  end: '1957'
-  instruments:
-  - tenor saxophone
-  mbid: a5944490-231e-485a-9baf-6d056a9733a3
-  name: The Red Garland Quintet
-- begin: '1957'
-  end: '1957'
-  instruments:
-  - tenor saxophone
-  mbid: 51fe321e-5ad0-4dd1-a5c3-3e773688cdf8
-  name: Thelonious Monk Septet
-- begin: '1957'
-  end: '1957'
-  instruments:
-  - tenor saxophone
-  mbid: 1cbe3eea-4671-452a-9265-7ef1ef9d8d2e
-  name: Thelonious Monk Quartet
-- begin: 1958-01
-  end: 1960-04
-  instruments:
-  - tenor saxophone
-  mbid: f137837b-fa55-48d1-8c85-f13961b3ac77
-  name: Miles Davis Sextet
-- begin: 1958-09
-  end: 1958-09
-  instruments:
-  - tenor saxophone
-  mbid: f3b0ddec-da41-442f-8b89-4f150e834d4c
-  name: George Russell Orchestra
-- begin: '1958'
-  end: '1958'
-  instruments:
-  - tenor saxophone
-  mbid: c718232d-5c58-474f-b770-a581977fb5c8
-  name: Cecil Taylor Quintet
-- begin: '1959'
-  end: '1965'
-  instruments:
-  - eponymous
-  - soprano saxophone
-  - tenor saxophone
-  mbid: a43270af-bc4a-4552-847e-617b11f38d7b
-  name: John Coltrane Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - saxophone
-  mbid: 616d142c-5e6e-4851-a81b-32d65412c295
-  name: John Coltrane Trio
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - soprano saxophone
-  mbid: 2a784762-f782-4b7c-b2a5-a5941ac9d5dc
-  name: John Coltrane Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - tenor saxophone
-  mbid: 2a784762-f782-4b7c-b2a5-a5941ac9d5dc
-  name: John Coltrane Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - soprano saxophone
-  mbid: 29ac7528-400f-4773-a461-0d38f73451e5
-  name: John Coltrane Sextet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - tenor saxophone
-  mbid: 29ac7528-400f-4773-a461-0d38f73451e5
-  name: John Coltrane Sextet
+  - begin: '1946'
+    end: '1946'
+    instruments:
+      - alto saxophone
+    mbid: c5e20057-447c-41ae-90a2-ce119dcb5e8b
+    name: Dexter Culbertson's U.S. Navy Band
+  - begin: '1949'
+    end: '1950'
+    instruments:
+      - alto saxophone
+    mbid: e1f3d4a1-e009-4911-a7a9-6e50a02a73d9
+    name: Dizzy Gillespie and His Orchestra
+  - begin: '1950'
+    end: '1951'
+    instruments:
+      - alto saxophone
+    mbid: 17df697d-197e-4a20-85a1-e09438305f5c
+    name: Dizzy Gillespie Sextet
+  - begin: '1950'
+    end: '1951'
+    instruments:
+      - tenor saxophone
+    mbid: 17df697d-197e-4a20-85a1-e09438305f5c
+    name: Dizzy Gillespie Sextet
+  - begin: '1952'
+    end: '1952'
+    instruments:
+      - alto saxophone
+    mbid: 929d17e0-6589-400a-9d4c-1f0557db9cc3
+    name: Gay Crosse & The Good Humor Six
+  - begin: '1952'
+    end: '1952'
+    instruments:
+      - tenor saxophone
+    mbid: 929d17e0-6589-400a-9d4c-1f0557db9cc3
+    name: Gay Crosse & The Good Humor Six
+  - begin: '1954'
+    end: '1954'
+    instruments:
+      - tenor saxophone
+    mbid: 2529b6d1-2bd5-4a57-b119-db4402ebd0c4
+    name: Johnny Hodges and His Orchestra
+  - begin: '1955'
+    end: '1961'
+    instruments:
+      - tenor saxophone
+    mbid: fe7245e7-d734-4ca1-8e26-691883f58201
+    name: Miles Davis Quintet
+  - begin: '1956'
+    end: '1956'
+    instruments:
+      - tenor saxophone
+    mbid: 9fb7dbc9-76cf-412d-91cf-79ae97d8ace2
+    name: Elmo Hope Sextet
+  - begin: '1956'
+    end: '1957'
+    instruments:
+      - tenor saxophone
+    mbid: 93a7ed83-4497-4e38-bedf-d4d57b4eba1d
+    name: The Prestige All Stars
+  - begin: 1957-12
+    end: 1957-12
+    instruments:
+      - tenor saxophone
+    mbid: 93ea2964-cb0b-43f0-a36b-80eccc235dc3
+    name: Art Blakey Big Band
+  - begin: '1957'
+    end: '1957'
+    instruments:
+      - tenor saxophone
+    mbid: a5944490-231e-485a-9baf-6d056a9733a3
+    name: The Red Garland Quintet
+  - begin: '1957'
+    end: '1957'
+    instruments:
+      - tenor saxophone
+    mbid: 51fe321e-5ad0-4dd1-a5c3-3e773688cdf8
+    name: Thelonious Monk Septet
+  - begin: '1957'
+    end: '1957'
+    instruments:
+      - tenor saxophone
+    mbid: 1cbe3eea-4671-452a-9265-7ef1ef9d8d2e
+    name: Thelonious Monk Quartet
+  - begin: 1958-01
+    end: 1960-04
+    instruments:
+      - tenor saxophone
+    mbid: f137837b-fa55-48d1-8c85-f13961b3ac77
+    name: Miles Davis Sextet
+  - begin: 1958-09
+    end: 1958-09
+    instruments:
+      - tenor saxophone
+    mbid: f3b0ddec-da41-442f-8b89-4f150e834d4c
+    name: George Russell Orchestra
+  - begin: '1958'
+    end: '1958'
+    instruments:
+      - tenor saxophone
+    mbid: c718232d-5c58-474f-b770-a581977fb5c8
+    name: Cecil Taylor Quintet
+  - begin: '1959'
+    end: '1965'
+    instruments:
+      - eponymous
+      - soprano saxophone
+      - tenor saxophone
+    mbid: a43270af-bc4a-4552-847e-617b11f38d7b
+    name: John Coltrane Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - saxophone
+    mbid: 616d142c-5e6e-4851-a81b-32d65412c295
+    name: John Coltrane Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - soprano saxophone
+    mbid: 2a784762-f782-4b7c-b2a5-a5941ac9d5dc
+    name: John Coltrane Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - tenor saxophone
+    mbid: 2a784762-f782-4b7c-b2a5-a5941ac9d5dc
+    name: John Coltrane Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - soprano saxophone
+    mbid: 29ac7528-400f-4773-a461-0d38f73451e5
+    name: John Coltrane Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - tenor saxophone
+    mbid: 29ac7528-400f-4773-a461-0d38f73451e5
+    name: John Coltrane Sextet
 biography_enhanced_at: '2026-01-22T06:57:53.240550'
 birth_date: '1926-09-23'
-birth_place: Hamlet
+birth_place: 'Hamlet, North Carolina, United States'
 death_date: '1967-07-17'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T06:57:53.240556'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b625448e-bf4a-41c3-a421-72ad46cdb831
-  spotify: https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf
+  musicbrainz: 'https://musicbrainz.org/artist/b625448e-bf4a-41c3-a421-72ad46cdb831'
+  spotify: 'https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf'
   wikipedia: ''
 gender: Male
 genres:
-- jazz
-- hard bop
-- free jazz
-- bebop
-- jazz ballads
-- cool jazz
+  - jazz
+  - hard bop
+  - free jazz
+  - bebop
+  - jazz ballads
+  - cool jazz
 image_path: 03_Resources/source_material/ArtistPortraits/john_coltrane.jpg
 instruments:
-- alto saxophone
-- tenor saxophone
-- eponymous
-- soprano saxophone
-- saxophone
-- piano
-- spoken vocals
+  - alto saxophone
+  - tenor saxophone
+  - eponymous
+  - soprano saxophone
+  - saxophone
+  - piano
+  - spoken vocals
 last_updated: '2026-01-22T06:57:53.240557'
 musical_connections:
   collaborators:
-  - Miles Davis
-  - McCoy Tyner
-  - Elvin Jones
-  - Jimmy Garrison
-  - Eric Dolphy
+    - Miles Davis
+    - McCoy Tyner
+    - Elvin Jones
+    - Jimmy Garrison
+    - Eric Dolphy
   influenced:
-  - Ornette Coleman
-  - Jimi Hendrix
-  - Carlos Santana
+    - Ornette Coleman
+    - Jimi Hendrix
+    - Carlos Santana
   mentors:
-  - Dizzy Gillespie
-  - Miles Davis
-  - Thelonious Monk
+    - Dizzy Gillespie
+    - Miles Davis
+    - Thelonious Monk
 musicbrainz_id: b625448e-bf4a-41c3-a421-72ad46cdb831
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.bluenote.com/artist/john-coltrane/
-- https://www.johncoltrane.com/biography
-- https://www.britannica.com/biography/John-Coltrane
-- https://northcarolinamusichalloffame.org/inductee-item/john-coltrane/
-- https://www.bso.org/stories/the-everlasting-sound-of-john-coltrane
+  - 'https://www.bluenote.com/artist/john-coltrane/'
+  - 'https://www.johncoltrane.com/biography'
+  - 'https://www.britannica.com/biography/John-Coltrane'
+  - 'https://northcarolinamusichalloffame.org/inductee-item/john-coltrane/'
+  - 'https://www.bso.org/stories/the-everlasting-sound-of-john-coltrane'
 spotify_data:
   followers: 1863700
   id: 2hGh5VOeeqimQFxqXvfCUf
   popularity: 68
-  url: https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf
+  url: 'https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf'
 status: active
 tags:
-- american
-- avant-garde jazz
-- free jazz
+  - american
+  - avant-garde jazz
+  - free jazz
 title: John Coltrane
+is_active: false
+origin: 'Philadelphia, Pennsylvania, United States'
 ---
 
 ![](john_coltrane.jpg)

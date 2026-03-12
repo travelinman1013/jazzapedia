@@ -1,42 +1,46 @@
 ---
 biography_enhanced_at: '2026-01-21T01:17:29.661246'
-birth_place: Los Angeles, California, United States
+birth_place: 'Los Angeles, California, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-21T01:17:29.661252'
 external_urls:
-  spotify: https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz
-  wikipedia: https://en.wikipedia.org/wiki/Terrace_Martin
+  spotify: 'https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz'
+  wikipedia: 'https://en.wikipedia.org/wiki/Terrace_Martin'
 genres:
-- neo soul
+  - neo soul
 image_path: 03_Resources/source_material/ArtistPortraits/terrace_martin.jpg
 last_updated: '2026-01-21T01:17:29.661252'
 musical_connections:
   collaborators:
-  - Kendrick Lamar
-  - Kamasi Washington
-  - Thundercat
-  - Lalah Hathaway
+    - Kendrick Lamar
+    - Kamasi Washington
+    - Thundercat
+    - Lalah Hathaway
   influenced:
-  - Kendrick Lamar
+    - Kendrick Lamar
   mentors:
-  - Billy Higgins
-  - Snoop Dogg
+    - Billy Higgins
+    - Snoop Dogg
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Terrace_Martin
-- https://www.latimes.com/lifestyle/image/story/2023-12-01/terrace-martin-profile
-- https://roseandblog.com/2016/04/21/terrace-martin-velvet-portraits/
-- https://dean-magazine.ghost.io/archive/from-the-bass-to-the-brass-a-guide-to-terrace-martin/
-- https://www.allaboutjazz.com/musicians/terrace-martin/
-- https://bandonthewall.org/2016/08/five-track-introduction-terrace-martin/
+  - 'https://en.wikipedia.org/wiki/Terrace_Martin'
+  - >-
+    https://www.latimes.com/lifestyle/image/story/2023-12-01/terrace-martin-profile
+  - 'https://roseandblog.com/2016/04/21/terrace-martin-velvet-portraits/'
+  - >-
+    https://dean-magazine.ghost.io/archive/from-the-bass-to-the-brass-a-guide-to-terrace-martin/
+  - 'https://www.allaboutjazz.com/musicians/terrace-martin/'
+  - 'https://bandonthewall.org/2016/08/five-track-introduction-terrace-martin/'
 spotify_data:
   followers: 215051
   id: 7MNEVabc4cs19CbzAFZmXz
   popularity: 56
-  url: https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz
+  url: 'https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz'
 status: active
-title: terrace martin
+title: Terrace Martin
+birth_date: '1978-12-28'
+artist_type: person
 ---
 
 ![](terrace_martin.jpg)

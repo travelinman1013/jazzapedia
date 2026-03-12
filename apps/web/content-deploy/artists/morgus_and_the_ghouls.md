@@ -4,7 +4,7 @@ wiki_slug: morgus-the-ghouls
 schema_version: 2
 status: active
 genres:
-- psychobilly
+  - psychobilly
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/morgus_and_the_ghouls.jpg
   caption: Morgus & the Ghouls
@@ -24,45 +24,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Frankie Ford
-  - Jerry Byrne
-  - Ronnie Barron
-  - Mac Rebennack (Dr. John)
+    - Frankie Ford
+    - Jerry Byrne
+    - Ronnie Barron
+    - Mac Rebennack (Dr. John)
   influenced:
-  - Dr. John (Mac Rebennack)
+    - Dr. John (Mac Rebennack)
   mentors:
-  - Cosimo Matassa
+    - Cosimo Matassa
 spotify_data:
   followers: 13
   id: 2ZBrd5v8lm5R4VLEK2oB88
   popularity: 3
-  url: https://open.spotify.com/artist/2ZBrd5v8lm5R4VLEK2oB88
+  url: 'https://open.spotify.com/artist/2ZBrd5v8lm5R4VLEK2oB88'
 discography_enriched: true
 top_tracks:
-- 'Morgus the Magnificent (Frankenstein''s House Party: Scary Scary Hits)'
-- Morgus the Magnificent (Wild, Wacky World of Weird Songs)
-- Morgus the Magnificent (Fright Night Scare)
-- Morgus the Magnificent (Haunted Halloween Party)
-- Morgus the Magnificent (Wild, Wacky World of Weird Songs)
-- Morgus the Magnificent (Wild, Wacky World of Weird Songs)
-- Morgus the Magnificent (Fright Night Scare)
-- Morgus the Magnificent (Timeless R&B Collection, Vol. 2)
+  - 'Morgus the Magnificent (Frankenstein''s House Party: Scary Scary Hits)'
+  - 'Morgus the Magnificent (Wild, Wacky World of Weird Songs)'
+  - Morgus the Magnificent (Fright Night Scare)
+  - Morgus the Magnificent (Haunted Halloween Party)
+  - 'Morgus the Magnificent (Wild, Wacky World of Weird Songs)'
+  - 'Morgus the Magnificent (Wild, Wacky World of Weird Songs)'
+  - Morgus the Magnificent (Fright Night Scare)
+  - 'Morgus the Magnificent (Timeless R&B Collection, Vol. 2)'
 external_urls:
-  spotify: https://open.spotify.com/artist/2ZBrd5v8lm5R4VLEK2oB88
+  spotify: 'https://open.spotify.com/artist/2ZBrd5v8lm5R4VLEK2oB88'
   wikipedia: ''
 image_path: ''
 biography_enhanced_at: '2025-10-25T09:55:40.000889'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://sweeneygumbo.com/2014/10/24/morgus-inspires-musical-as-well-as-science-friends/
-- https://64parishes.org/morgus-the-magnificent
-- https://www.stormsurgeofreverb.com/content/mystery-morgus-daringers-morgus-creep
+  - >-
+    https://sweeneygumbo.com/2014/10/24/morgus-inspires-musical-as-well-as-science-friends/
+  - 'https://64parishes.org/morgus-the-magnificent'
+  - >-
+    https://www.stormsurgeofreverb.com/content/mystery-morgus-daringers-morgus-creep
 network_extracted: true
 entry_created: '2025-10-25T09:55:40.000912'
 last_updated: '2025-12-23T08:16:13.286170'
-origin: New Orleans, Louisiana, USA
-
+origin: 'New Orleans, Louisiana, USA'
+artist_type: band
 ---
 
 ![]()

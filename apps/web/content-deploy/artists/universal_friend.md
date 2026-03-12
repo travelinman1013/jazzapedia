@@ -3,7 +3,7 @@ biography_enhanced_at: '2026-01-08T01:46:29.086955'
 enhancement_provider: perplexity
 entry_created: '2026-01-08T01:46:29.086960'
 external_urls:
-  spotify: https://open.spotify.com/artist/5c8bd2qttaQ4MH3IxzVAxN
+  spotify: 'https://open.spotify.com/artist/5c8bd2qttaQ4MH3IxzVAxN'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/universal_friend.jpg
@@ -15,20 +15,27 @@ musical_connections:
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Public_Universal_Friend
-- https://wams.nyhistory.org/colonies-and-revolution/english-colonies/public-universal-friend/
-- https://www.amrevmuseum.org/read-the-revolution/the-public-universal-friend
-- https://publicuniversalfriend.band
-- https://mokbpresents.com/artist/public-universal-friend/
-- https://musicotfuture.com/2021/02/04/90s-inspired-indie-rock-four-piece-public-universal-friend-are-ready-to-showcase-what-they-have-to-offer-and-we-got-a-chance-to-chat-with-band-mom-jody/
-- https://girlattherockshows.com/2021/01/15/interview-with-jody-of-public-universal-friend/
+  - 'https://en.wikipedia.org/wiki/Public_Universal_Friend'
+  - >-
+    https://wams.nyhistory.org/colonies-and-revolution/english-colonies/public-universal-friend/
+  - 'https://www.amrevmuseum.org/read-the-revolution/the-public-universal-friend'
+  - 'https://publicuniversalfriend.band'
+  - 'https://mokbpresents.com/artist/public-universal-friend/'
+  - >-
+    https://musicotfuture.com/2021/02/04/90s-inspired-indie-rock-four-piece-public-universal-friend-are-ready-to-showcase-what-they-have-to-offer-and-we-got-a-chance-to-chat-with-band-mom-jody/
+  - >-
+    https://girlattherockshows.com/2021/01/15/interview-with-jody-of-public-universal-friend/
 spotify_data:
   followers: 12
   id: 5c8bd2qttaQ4MH3IxzVAxN
   popularity: 0
-  url: https://open.spotify.com/artist/5c8bd2qttaQ4MH3IxzVAxN
+  url: 'https://open.spotify.com/artist/5c8bd2qttaQ4MH3IxzVAxN'
 status: active
-title: Universal Friend
+title: The Public Universal Friend
+birth_place: 'Cumberland, Rhode Island, United States'
+birth_date: '1752'
+death_date: '1819'
+artist_type: person
 ---
 
 ![](universal_friend.jpg)

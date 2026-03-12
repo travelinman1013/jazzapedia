@@ -3,15 +3,15 @@ title: Chuck Brodsky
 wiki_slug: chuck-brodsky
 schema_version: 2
 status: active
-birth_place: Philadelphia, Pennsylvania, United States
+birth_place: 'Philadelphia, Pennsylvania, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/chuck_brodsky.jpg
   caption: Chuck Brodsky
   background: solo_singer
-  origin: Philadelphia, Pennsylvania, United States
+  origin: 'Philadelphia, Pennsylvania, United States'
 audio_profile:
-  tempo_avg: 122.0
+  tempo_avg: 122
   energy_avg: 0.409
   valence_avg: 0.541
   danceability_avg: 0.499
@@ -25,55 +25,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kristian Bush
-  - J.P. Cormier
-  - Kathy Mattea
-  - Sara Hickman
-  - David Wilcox
-  - Christine Lavin
+    - Kristian Bush
+    - J.P. Cormier
+    - Kathy Mattea
+    - Sara Hickman
+    - David Wilcox
+    - Christine Lavin
   influenced:
-  - Various artists
+    - Various artists
   mentors:
-  - Bob Dylan
-  - Woody Guthrie
-  - Jackson Browne
-  - Lowell George
-  - John Hartford
-  - Greg Brown
-  - Nic Jones
-  - Mark Twain
+    - Bob Dylan
+    - Woody Guthrie
+    - Jackson Browne
+    - Lowell George
+    - John Hartford
+    - Greg Brown
+    - Nic Jones
+    - Mark Twain
 spotify_data:
   followers: 2534
   id: 2I1XI3eYHcCcfVM4rXCrvK
   popularity: 12
-  url: https://open.spotify.com/artist/2I1XI3eYHcCcfVM4rXCrvK
+  url: 'https://open.spotify.com/artist/2I1XI3eYHcCcfVM4rXCrvK'
 discography_enriched: true
 top_tracks:
-- Bill & Annie (Letters in the Dirt)
-- Liar Liar, Pants on Fire (Tulips For Lunch)
-- We Are Each Other's Angels (A Fingerpainter's Murals)
-- Take it Out Back (Last of the Old Time)
-- Hockey Fight Song (Radio)
-- Bill and Annie (Fast Folk Musical Magazine (Vol. 8, No. 8) 1996 Fast Folk Revue-Live at the Bottom Line)
-- Dock Ellis' No-No (The Baseball Ballads)
-- Talk to My Lawyer (Letters in the Dirt)
-- Them and Us (Them and Us)
-- Boys in the Back Room (Last of the Old Time)
+  - Bill & Annie (Letters in the Dirt)
+  - 'Liar Liar, Pants on Fire (Tulips For Lunch)'
+  - We Are Each Other's Angels (A Fingerpainter's Murals)
+  - Take it Out Back (Last of the Old Time)
+  - Hockey Fight Song (Radio)
+  - >-
+    Bill and Annie (Fast Folk Musical Magazine (Vol. 8, No. 8) 1996 Fast Folk
+    Revue-Live at the Bottom Line)
+  - Dock Ellis' No-No (The Baseball Ballads)
+  - Talk to My Lawyer (Letters in the Dirt)
+  - Them and Us (Them and Us)
+  - Boys in the Back Room (Last of the Old Time)
 external_urls:
-  spotify: https://open.spotify.com/artist/2I1XI3eYHcCcfVM4rXCrvK
-  wikipedia: https://en.wikipedia.org/wiki/Chuck_Brodsky
+  spotify: 'https://open.spotify.com/artist/2I1XI3eYHcCcfVM4rXCrvK'
+  wikipedia: 'https://en.wikipedia.org/wiki/Chuck_Brodsky'
 image_path: 03_Resources/source_material/ArtistPortraits/chuck_brodsky.jpg
 biography_enhanced_at: '2025-12-22T01:43:35.252530'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Chuck_Brodsky
-- https://www.chuckbrodsky.com/bio
-- https://www.redhouserecords.com/artists/chuck-brodsky/
-- https://www.inishfreetours.com/tour_leaders/chuck-brodsky/
+  - 'https://en.wikipedia.org/wiki/Chuck_Brodsky'
+  - 'https://www.chuckbrodsky.com/bio'
+  - 'https://www.redhouserecords.com/artists/chuck-brodsky/'
+  - 'https://www.inishfreetours.com/tour_leaders/chuck-brodsky/'
 network_extracted: true
 entry_created: '2025-12-22T01:43:35.252536'
 last_updated: '2025-12-23T08:16:06.974798'
+birth_date: '1960-05-20'
+artist_type: person
 ---
 
 ![](chuck_brodsky.jpg)

@@ -1,42 +1,46 @@
 ---
 biography_enhanced_at: '2025-12-29T01:07:19.552109'
-birth_place: Cincinnati, Ohio, United States
+birth_place: 'Cincinnati, Ohio, United States'
 enhancement_provider: perplexity
 entry_created: '2025-12-29T01:07:19.552124'
 external_urls:
-  spotify: https://open.spotify.com/artist/1BPc082mre55HNO62f461Z
+  spotify: 'https://open.spotify.com/artist/1BPc082mre55HNO62f461Z'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/betty_blake.jpg
 last_updated: '2025-12-29T01:07:19.552126'
 musical_connections:
   collaborators:
-  - Ernie Rudy
-  - Buddy Morrow
-  - John Plonsky
-  - Jack Zimmerman
-  - Teddy Charles
-  - Mal Waldron
-  - Zoot Sims
-  - Kenny Burrell
-  - Roland Alexander
-  - Marcus Belgrave
+    - Ernie Rudy
+    - Buddy Morrow
+    - John Plonsky
+    - Jack Zimmerman
+    - Teddy Charles
+    - Mal Waldron
+    - Zoot Sims
+    - Kenny Burrell
+    - Roland Alexander
+    - Marcus Belgrave
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.freshsoundrecords.com/betty-blake-albums/6099-betty-blake-sings-in-a-tender-mood-complete-recordings-1957-1961.html
-- https://www.freshsoundrecords.com/13078-betty-blake-albums
-- https://www.allmusic.com/artist/betty-blake-mn0000559603
-- https://fromthevaults-boppinbob.blogspot.com/2016/04/betty-blake-born-9-april-1937.html
+  - >-
+    https://www.freshsoundrecords.com/betty-blake-albums/6099-betty-blake-sings-in-a-tender-mood-complete-recordings-1957-1961.html
+  - 'https://www.freshsoundrecords.com/13078-betty-blake-albums'
+  - 'https://www.allmusic.com/artist/betty-blake-mn0000559603'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2016/04/betty-blake-born-9-april-1937.html
 spotify_data:
   followers: 605
   id: 1BPc082mre55HNO62f461Z
   popularity: 20
-  url: https://open.spotify.com/artist/1BPc082mre55HNO62f461Z
+  url: 'https://open.spotify.com/artist/1BPc082mre55HNO62f461Z'
 status: active
 title: Betty Blake
+birth_date: '1937-04-09'
+artist_type: person
 ---
 
 ![](betty_blake.jpg)

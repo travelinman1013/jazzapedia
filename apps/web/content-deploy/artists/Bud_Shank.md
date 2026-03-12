@@ -3,36 +3,36 @@ title: Bud Shank
 wiki_slug: bud-shank
 schema_version: 2
 status: deceased
-birth_name: Clifford Everett Shank, Jr.
+birth_name: 'Clifford Everett Shank, Jr.'
 aliases: []
 birth_date: '1926-05-27'
-birth_place: Dayton, Ohio, United States
+birth_place: 'Dayton, Ohio, United States'
 death_date: '2009-04-02'
 years_active: 1946–2009
 genres:
-- cool jazz
-- jazz
-- brazilian jazz
-- bossa nova
+  - cool jazz
+  - jazz
+  - brazilian jazz
+  - bossa nova
 instruments:
-- saxophone
-- flute
-- alto saxophone
+  - saxophone
+  - flute
+  - alto saxophone
 occupation:
-- saxophonist
-- jazz musician
-- flautist
-- music arranger
-- composer
+  - saxophonist
+  - jazz musician
+  - flautist
+  - music arranger
+  - composer
 record_labels:
-- Concord Records
+  - Concord Records
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Bud_Shank.jpg
   caption: Bud Shank
   background: non_vocal_instrumentalist
-  birth_name: Clifford Everett Shank, Jr.
+  birth_name: 'Clifford Everett Shank, Jr.'
   born: '1926-05-27'
-  origin: Dayton, Ohio, United States
+  origin: 'Dayton, Ohio, United States'
   died: '2009-04-02'
 audio_profile:
   tempo_avg: 103.2
@@ -49,61 +49,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Laurindo Almeida
-  - Ray Brown
-  - Shelly Manne / Jeff Hamilton
-  - Shorty Rogers
-  - Howard Rumsey
-  - Gerry Mulligan
-  - Chet Baker
-  - June Christy
-  - Bob Cooper
+    - Laurindo Almeida
+    - Ray Brown
+    - Shelly Manne / Jeff Hamilton
+    - Shorty Rogers
+    - Howard Rumsey
+    - Gerry Mulligan
+    - Chet Baker
+    - June Christy
+    - Bob Cooper
   influenced:
-  - Gary Peacock
-  - Carmell Jones
-  - West Coast jazz musicians
+    - Gary Peacock
+    - Carmell Jones
+    - West Coast jazz musicians
   mentors:
-  - Stan Kenton
+    - Stan Kenton
 related_artists: []
 spotify_data:
   followers: 8703
   id: 2UuKUaomk3bZ0nHM3Y3FdW
   popularity: 33
-  url: https://open.spotify.com/artist/2UuKUaomk3bZ0nHM3Y3FdW
+  url: 'https://open.spotify.com/artist/2UuKUaomk3bZ0nHM3Y3FdW'
   verified: false
 discography_enriched: true
 albums_count: 39
 singles_count: 1
 top_tracks:
-- Just In Time (Blowin' Country)
-- A Sinner Kissed an Angel (Bud Shank - Shorty Rogers - Bill Perkins)
-- Steve Allen Theme (Blowin' Country)
-- Cool Fool (Bud Shank and Three Trombones)
-- A Sinner Kissed an Angel (Bud Shank and Bill Perkins)
-- I've Grown Accustomed To Her Face (Blowin' Country)
-- A Sinner Kissed an Angel (Noctambulism)
-- Let Me Be Loved - Remastered 2000 / Vocal Version (City Nights)
-- Cool Fool (California Suite)
-- Jasmine (California Suite)
+  - Just In Time (Blowin' Country)
+  - A Sinner Kissed an Angel (Bud Shank - Shorty Rogers - Bill Perkins)
+  - Steve Allen Theme (Blowin' Country)
+  - Cool Fool (Bud Shank and Three Trombones)
+  - A Sinner Kissed an Angel (Bud Shank and Bill Perkins)
+  - I've Grown Accustomed To Her Face (Blowin' Country)
+  - A Sinner Kissed an Angel (Noctambulism)
+  - Let Me Be Loved - Remastered 2000 / Vocal Version (City Nights)
+  - Cool Fool (California Suite)
+  - Jasmine (California Suite)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/2UuKUaomk3bZ0nHM3Y3FdW
-  wikipedia: https://en.wikipedia.org/wiki/Bud_Shank
+  spotify: 'https://open.spotify.com/artist/2UuKUaomk3bZ0nHM3Y3FdW'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bud_Shank'
 image_path: 03_Resources/source_material/ArtistPortraits/Bud_Shank.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:54:13.952283'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Bud_Shank
-- https://www.allaboutjazz.com/musicians/bud-shank/
-- https://www.the-independent.com/news/obituaries/bud-shank-saxophonist-and-flautist-who-pioneered-west-coast-jazz-1749707.html
-- https://fromthevaults-boppinbob.blogspot.com/2022/05/bud-shank-born-27-may-1926.html
+  - 'https://en.wikipedia.org/wiki/Bud_Shank'
+  - 'https://www.allaboutjazz.com/musicians/bud-shank/'
+  - >-
+    https://www.the-independent.com/news/obituaries/bud-shank-saxophonist-and-flautist-who-pioneered-west-coast-jazz-1749707.html
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2022/05/bud-shank-born-27-may-1926.html
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:43:13.522142
+entry_created: 2025-09-22T21:43:13.522Z
 last_updated: '2025-12-23T08:16:01.384810'
-
+is_active: false
+artist_type: person
 ---
 
 ![](Bud_Shank.jpg)

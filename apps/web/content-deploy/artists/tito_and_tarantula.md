@@ -3,34 +3,36 @@ biography_enhanced_at: '2025-12-27T01:32:52.347872'
 enhancement_provider: perplexity
 entry_created: '2025-12-27T01:32:52.347885'
 external_urls:
-  spotify: https://open.spotify.com/artist/3rI1MlEg2izkoKoKGA3898
-  wikipedia: https://en.wikipedia.org/wiki/Tito_&_Tarantula
+  spotify: 'https://open.spotify.com/artist/3rI1MlEg2izkoKoKGA3898'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tito_&_Tarantula'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/tito_and_tarantula.jpg
 last_updated: '2025-12-27T01:32:52.347886'
 musical_connections:
   collaborators:
-  - Peter Atanasoff
-  - Jennifer Condos
-  - Johnny 'Vatos' Hernandez
-  - Robert Rodriguez
-  - Steven Hufsteter
-  - Dominique Davalos
+    - Peter Atanasoff
+    - Jennifer Condos
+    - Johnny 'Vatos' Hernandez
+    - Robert Rodriguez
+    - Steven Hufsteter
+    - Dominique Davalos
   influenced: []
   mentors: []
 network_extracted: true
-origin: Hollywood, California, United States
+origin: 'Hollywood, California, United States'
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Tito+&+Tarantula/+wiki[1]
-- https://en.wikipedia.org/wiki/Tito_&_Tarantula[2]
+  - 'https://www.last.fm/music/Tito+&+Tarantula/+wiki[1]'
+  - 'https://en.wikipedia.org/wiki/Tito_&_Tarantula[2]'
 spotify_data:
   followers: 70915
   id: 3rI1MlEg2izkoKoKGA3898
   popularity: 44
-  url: https://open.spotify.com/artist/3rI1MlEg2izkoKoKGA3898
+  url: 'https://open.spotify.com/artist/3rI1MlEg2izkoKoKGA3898'
 status: active
-title: tito & tarantula
+title: Tito & Tarantula
+birth_place: 'Ciudad Juárez, Mexico'
+artist_type: person
 ---
 
 ![](tito_and_tarantula.jpg)

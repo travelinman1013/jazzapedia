@@ -1,15 +1,16 @@
 ---
-title: elmo williams and hezekiah early
+title: Elmo Williams and Hezekiah Early
 wiki_slug: elmo-williams-and-hezekiah-early
 schema_version: 2
 status: active
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/elmo_williams_and_hezekiah_early.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/elmo_williams_and_hezekiah_early.jpg
   caption: elmo williams and hezekiah early
   background: solo_singer
 audio_profile:
-  tempo_avg: 99.0
+  tempo_avg: 99
   energy_avg: 0.582
   valence_avg: 0.657
   danceability_avg: 0.839
@@ -23,40 +24,43 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John Fitzgerald
-  - Jesse Ware
-  - Leon “Pee Wee” Whittaker
-  - Fat Possum Records
+    - John Fitzgerald
+    - Jesse Ware
+    - Leon “Pee Wee” Whittaker
+    - Fat Possum Records
   influenced:
-  - Robert “Little Poochie” Jackson
+    - Robert “Little Poochie” Jackson
   mentors:
-  - Wilson Early
-  - Alexander “Papa George” Lightfoot
+    - Wilson Early
+    - Alexander “Papa George” Lightfoot
 spotify_data:
   followers: 63
   id: 6u09gTyB80uruTtXAyNJyU
   popularity: 19
-  url: https://open.spotify.com/artist/6u09gTyB80uruTtXAyNJyU
+  url: 'https://open.spotify.com/artist/6u09gTyB80uruTtXAyNJyU'
 discography_enriched: true
 top_tracks:
-- I Am Somebody (Giant) (I Am Somebody (Giant))
+  - I Am Somebody (Giant) (I Am Somebody (Giant))
 external_urls:
-  spotify: https://open.spotify.com/artist/6u09gTyB80uruTtXAyNJyU
+  spotify: 'https://open.spotify.com/artist/6u09gTyB80uruTtXAyNJyU'
   wikipedia: ''
 image_path: ''
 biography_enhanced_at: '2025-10-29T16:52:30.921737'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://msfolkdirectory.org/hezekiah-early/
-- https://msfolkdirectory.org/elmore-williams/
-- https://fatpossum.com/collections/elmo-williams-hezekiah-early
-- https://livingblues.com
-- https://first-avenue.com/performer/elmo-williams-hezekiah-early/
+  - 'https://msfolkdirectory.org/hezekiah-early/'
+  - 'https://msfolkdirectory.org/elmore-williams/'
+  - 'https://fatpossum.com/collections/elmo-williams-hezekiah-early'
+  - 'https://livingblues.com'
+  - 'https://first-avenue.com/performer/elmo-williams-hezekiah-early/'
 network_extracted: true
 entry_created: '2025-10-29T16:52:30.921763'
 last_updated: '2025-12-23T08:16:08.342424'
-origin: Natchez, Mississippi, USA
+origin: 'Natchez, Mississippi, USA'
+birth_place: 'Fenwick, Mississippi, United States'
+birth_date: '1933-02-06'
+artist_type: band
 ---
 
 ![]()

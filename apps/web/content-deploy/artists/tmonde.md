@@ -23,52 +23,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Pine Leaf Boys
-  - Savoy Family Band
-  - Steve Riley and the Mamou Playboys
-  - Magnolia Sisters
-  - Jesse Lege and the Lake Charles Ramblers
+    - Pine Leaf Boys
+    - Savoy Family Band
+    - Steve Riley and the Mamou Playboys
+    - Magnolia Sisters
+    - Jesse Lege and the Lake Charles Ramblers
   influenced:
-  - Emerging Cajun musicians in Louisiana
+    - Emerging Cajun musicians in Louisiana
   mentors:
-  - Walter Mouton
-  - Aldus Roger
-  - Jesse Lege
-  - Belton Richard
-  - Lawrence Walker
+    - Walter Mouton
+    - Aldus Roger
+    - Jesse Lege
+    - Belton Richard
+    - Lawrence Walker
 spotify_data:
   followers: 52825
   id: 4MgxKih2gf4BgMkPVOfvrn
   popularity: 56
-  url: https://open.spotify.com/artist/4MgxKih2gf4BgMkPVOfvrn
+  url: 'https://open.spotify.com/artist/4MgxKih2gf4BgMkPVOfvrn'
 discography_enriched: true
 top_tracks:
-- Sunny Day (SUN)
-- My Lover (My Lover)
-- If The Moon Could Talk (If The Moon Could Talk)
-- Never Known (HER)
-- Never Known (Never Known)
-- Nobody Cares (Nobody Cares)
-- Sunny Day (Sunny Day)
-- In The Shadow (YOU)
-- Without You (YOU)
-- Treasure (Treasure)
+  - Sunny Day (SUN)
+  - My Lover (My Lover)
+  - If The Moon Could Talk (If The Moon Could Talk)
+  - Never Known (HER)
+  - Never Known (Never Known)
+  - Nobody Cares (Nobody Cares)
+  - Sunny Day (Sunny Day)
+  - In The Shadow (YOU)
+  - Without You (YOU)
+  - Treasure (Treasure)
 external_urls:
-  spotify: https://open.spotify.com/artist/4MgxKih2gf4BgMkPVOfvrn
+  spotify: 'https://open.spotify.com/artist/4MgxKih2gf4BgMkPVOfvrn'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/tmonde.jpg
 biography_enhanced_at: '2025-11-08T21:47:21.366690'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://www.tmonde.com/bio
-- https://flattownmusic.com/artist/tmonde/
-- https://acadianaprofile.com/big-sounds-from-tmonde/
-- https://www.gigsalad.com/t_monde_cajun_band_lafayette
+  - 'http://www.tmonde.com/bio'
+  - 'https://flattownmusic.com/artist/tmonde/'
+  - 'https://acadianaprofile.com/big-sounds-from-tmonde/'
+  - 'https://www.gigsalad.com/t_monde_cajun_band_lafayette'
 network_extracted: true
 entry_created: '2025-11-08T21:47:21.366706'
 last_updated: '2025-12-23T08:16:17.502244'
-origin: Lafayette, Louisiana, United States
+origin: 'Lafayette, Louisiana, United States'
+artist_type: person
 ---
 
 ![](tmonde.jpg)

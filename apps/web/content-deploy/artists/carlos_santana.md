@@ -1,17 +1,17 @@
 ---
-title: carlos santana
+title: Carlos Santana
 wiki_slug: carlos-santana
 schema_version: 2
 status: active
-birth_place: Autlán de Navarro, Jalisco, Mexico
+birth_place: 'Autlán de Navarro, Jalisco, Mexico'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/carlos_santana.jpg
   caption: carlos santana
   background: solo_singer
-  origin: Autlán de Navarro, Jalisco, Mexico
+  origin: 'Autlán de Navarro, Jalisco, Mexico'
 audio_profile:
-  tempo_avg: 120.0
+  tempo_avg: 120
   energy_avg: 0.603
   valence_avg: 0.588
   danceability_avg: 0.562
@@ -25,53 +25,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - David Brown
-  - Gregg Rolie
-  - Mike Shrieve
-  - José 'Chepito' Areas
-  - Michael Carabello
+    - David Brown
+    - Gregg Rolie
+    - Mike Shrieve
+    - José 'Chepito' Areas
+    - Michael Carabello
   influenced:
-  - Jorge Santana
-  - Fusion genre musicians
+    - Jorge Santana
+    - Fusion genre musicians
   mentors:
-  - José Santana
-  - Javier Bátiz
-  - T-Bone Walker
-  - B.B. King
+    - José Santana
+    - Javier Bátiz
+    - T-Bone Walker
+    - B.B. King
 spotify_data:
   followers: 30027
   id: 0MsXN56oNCyqorqEPViWgQ
   popularity: 63
-  url: https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ
+  url: 'https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ'
 discography_enriched: true
 top_tracks:
-- Necio (feat. Carlos Santana) (Fórmula, Vol. 2 (Deluxe Edition))
-- To Zion (feat. Carlos Santana) (The Miseducation of Lauryn Hill)
-- Chill Out (Things Gonna Change) (feat. Carlos Santana) (2007 - Remaster) (Chill Out)
-- Son's Gonna Rise (feat. Carlos Santana) (The Clarence Greenwood Recordings)
-- MAMACITA
-- The Healer (feat. Carlos Santana & The Santana Band) (The Healer)
-- Greener (V I N C E N T)
-- Necio (feat. Carlos Santana) (Fórmula, Vol. 2 (Deluxe Edition) [Clean Version])
-- Illegal (feat. Carlos Santana) (Oral Fixation, Vol. 2 (Expanded Edition))
-- Heartstrings (feat. Santana)
+  - 'Necio (feat. Carlos Santana) (Fórmula, Vol. 2 (Deluxe Edition))'
+  - To Zion (feat. Carlos Santana) (The Miseducation of Lauryn Hill)
+  - >-
+    Chill Out (Things Gonna Change) (feat. Carlos Santana) (2007 - Remaster)
+    (Chill Out)
+  - Son's Gonna Rise (feat. Carlos Santana) (The Clarence Greenwood Recordings)
+  - MAMACITA
+  - The Healer (feat. Carlos Santana & The Santana Band) (The Healer)
+  - Greener (V I N C E N T)
+  - >-
+    Necio (feat. Carlos Santana) (Fórmula, Vol. 2 (Deluxe Edition) [Clean
+    Version])
+  - 'Illegal (feat. Carlos Santana) (Oral Fixation, Vol. 2 (Expanded Edition))'
+  - Heartstrings (feat. Santana)
 external_urls:
-  spotify: https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ
-  wikipedia: https://en.wikipedia.org/wiki/Carlos_Santana
+  spotify: 'https://open.spotify.com/artist/0MsXN56oNCyqorqEPViWgQ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Carlos_Santana'
 image_path: 03_Resources/source_material/ArtistPortraits/carlos_santana.jpg
 biography_enhanced_at: '2025-12-16T03:20:47.042042'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Carlos_Santana
-- https://walkoffame.com/carlos-santana/
-- https://www.biography.com/musicians/carlos-santana
-- https://www.ultimatesantana.com/resources/carlos-santana/a-history/
-- https://www.imdb.com/name/nm0005396/bio/
-- https://santana.com/carlos-santana-biography/
+  - 'https://en.wikipedia.org/wiki/Carlos_Santana'
+  - 'https://walkoffame.com/carlos-santana/'
+  - 'https://www.biography.com/musicians/carlos-santana'
+  - 'https://www.ultimatesantana.com/resources/carlos-santana/a-history/'
+  - 'https://www.imdb.com/name/nm0005396/bio/'
+  - 'https://santana.com/carlos-santana-biography/'
 network_extracted: true
 entry_created: '2025-12-16T03:20:47.042056'
 last_updated: '2025-12-23T08:16:06.464004'
+birth_date: '1947-07-20'
+artist_type: person
 ---
 
 ![](carlos_santana.jpg)

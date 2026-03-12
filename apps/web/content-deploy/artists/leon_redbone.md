@@ -5,14 +5,14 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1949-08-26'
-birth_place: Nicosia
+birth_place: 'Nicosia, Cyprus'
 death_date: '2019-05-30'
 genres:
-- christmas
-- ragtime
+  - christmas
+  - ragtime
 instruments:
-- guitar
-- lead vocals
+  - guitar
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/leon_redbone.jpg
   caption: Leon Redbone
@@ -35,54 +35,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Joe Venuti
-  - Don McLean
-  - David Wilcox
+    - Joe Venuti
+    - Don McLean
+    - David Wilcox
   influenced: []
   mentors:
-  - Bob Dylan
+    - Bob Dylan
 spotify_data:
   followers: 34572
   id: 7hYKC5uBED0V5rpKQkqgQ5
   popularity: 55
-  url: https://open.spotify.com/artist/7hYKC5uBED0V5rpKQkqgQ5
+  url: 'https://open.spotify.com/artist/7hYKC5uBED0V5rpKQkqgQ5'
 discography_enriched: true
 top_tracks:
-- Baby, It's Cold Outside
-- Lazybones (On The Track)
-- Ain't Misbehavin' - I'm Savin' My Love for You (On The Track)
-- Shine on Harvest Moon (Double Time)
-- Seduced (Branch To Branch)
-- Walking My Troubles Away
-- My Walking Stick (On The Track)
-- Mississippi Delta Blues (Double Time)
-- Polly Wolly Doodle (On The Track)
-- Diddy Wa Diddie (Double Time)
+  - 'Baby, It''s Cold Outside'
+  - Lazybones (On The Track)
+  - Ain't Misbehavin' - I'm Savin' My Love for You (On The Track)
+  - Shine on Harvest Moon (Double Time)
+  - Seduced (Branch To Branch)
+  - Walking My Troubles Away
+  - My Walking Stick (On The Track)
+  - Mississippi Delta Blues (Double Time)
+  - Polly Wolly Doodle (On The Track)
+  - Diddy Wa Diddie (Double Time)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/954dd6e2-ee1a-4004-a8f5-fc3ac0505a5d
-  spotify: https://open.spotify.com/artist/7hYKC5uBED0V5rpKQkqgQ5
+  musicbrainz: 'https://musicbrainz.org/artist/954dd6e2-ee1a-4004-a8f5-fc3ac0505a5d'
+  spotify: 'https://open.spotify.com/artist/7hYKC5uBED0V5rpKQkqgQ5'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/leon_redbone.jpg
 biography_enhanced_at: '2025-12-23T02:04:03.778206'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- 'thesoundcafe.com - Leon Redbone: Who Was This Mysterious Man?'
-- leonredbone.com - Official Biography
-- last.fm - Leon Redbone Biography
-- philadelphiamusicalliance.org - Leon Redbone Walk of Fame
-- socialsciencespace.com - Leon Redbone, Fact Checking, and Ethnography
-- jeffspevak.com - Walkin' with Leon Redbone
-- thewalkingsticksociety.com - Leon Redbone Bio
+  - 'thesoundcafe.com - Leon Redbone: Who Was This Mysterious Man?'
+  - leonredbone.com - Official Biography
+  - last.fm - Leon Redbone Biography
+  - philadelphiamusicalliance.org - Leon Redbone Walk of Fame
+  - 'socialsciencespace.com - Leon Redbone, Fact Checking, and Ethnography'
+  - jeffspevak.com - Walkin' with Leon Redbone
+  - thewalkingsticksociety.com - Leon Redbone Bio
 network_extracted: true
 entry_created: '2025-12-23T02:04:03.778213'
 last_updated: '2025-12-23T08:16:11.811690'
 gender: Male
 musicbrainz_id: 954dd6e2-ee1a-4004-a8f5-fc3ac0505a5d
 tags:
-- dixieland
-- folk
-- new orleans r&b
+  - dixieland
+  - folk
+  - new orleans r&b
+is_active: false
+origin: 'Toronto, Canada'
 ---
 
 ![](leon_redbone.jpg)

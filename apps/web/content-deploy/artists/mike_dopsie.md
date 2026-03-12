@@ -1,17 +1,17 @@
 ---
-title: MIKE DOPSIE
+title: Mike Dopsie
 wiki_slug: mike-dopsie
 schema_version: 2
 status: active
-birth_place: Louisiana, United States
+birth_place: 'Louisiana, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/mike_dopsie.jpg
   caption: MIKE DOPSIE
   background: solo_singer
-  origin: Louisiana, United States
+  origin: 'Louisiana, United States'
 audio_profile:
-  tempo_avg: 92.0
+  tempo_avg: 92
   energy_avg: 0.67
   valence_avg: 0.541
   danceability_avg: 0.768
@@ -25,36 +25,38 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Zydeco Entourage
-  - David Dopsie
+    - Zydeco Entourage
+    - David Dopsie
   influenced:
-  - Young Zydeco Musicians
+    - Young Zydeco Musicians
   mentors:
-  - Rockin' Dopsie Sr.
-  - Rockin' Dopsie Jr.
+    - Rockin' Dopsie Sr.
+    - Rockin' Dopsie Jr.
 spotify_data:
   followers: 7
   id: 36RcwufMneNYb1QPMk4gQi
   popularity: 0
-  url: https://open.spotify.com/artist/36RcwufMneNYb1QPMk4gQi
+  url: 'https://open.spotify.com/artist/36RcwufMneNYb1QPMk4gQi'
 discography_enriched: true
 top_tracks:
-- Creole Reggae (Creole Reggae)
+  - Creole Reggae (Creole Reggae)
 external_urls:
-  spotify: https://open.spotify.com/artist/36RcwufMneNYb1QPMk4gQi
+  spotify: 'https://open.spotify.com/artist/36RcwufMneNYb1QPMk4gQi'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/mike_dopsie.jpg
 biography_enhanced_at: '2025-11-05T12:58:53.703667'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://app.chartmetric.com/artist/4168053
-- https://www.latimes.com/archives/la-xpm-1993-08-28-mn-28654-story.html
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/rockin-dopsie
-- https://frenchquarterly.com/music/zydeco%E2%80%99s-royal-family
+  - 'https://app.chartmetric.com/artist/4168053'
+  - 'https://www.latimes.com/archives/la-xpm-1993-08-28-mn-28654-story.html'
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/rockin-dopsie
+  - 'https://frenchquarterly.com/music/zydeco%E2%80%99s-royal-family'
 network_extracted: true
 entry_created: '2025-11-05T12:58:53.703683'
 last_updated: '2025-12-23T08:16:13.120780'
+artist_type: person
 ---
 
 ![](mike_dopsie.jpg)

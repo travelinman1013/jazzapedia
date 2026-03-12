@@ -23,43 +23,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Library Of The Occult
+    - Library Of The Occult
   influenced: []
   mentors: []
 spotify_data:
   followers: 428
   id: 1qX50W0tatUhTLQuB9sXmc
   popularity: 9
-  url: https://open.spotify.com/artist/1qX50W0tatUhTLQuB9sXmc
+  url: 'https://open.spotify.com/artist/1qX50W0tatUhTLQuB9sXmc'
 discography_enriched: true
 top_tracks:
-- Graveyard Gourd (Pumpkin Seeds)
-- Pumpkin Carving (Pumpkin Seeds)
-- Harvest Moon (Pumpkin Seeds)
-- Cats and Bats and Witches - remix (Cats and Bats and Witches {remix})
-- Pumpkin Pie (Pumpkin Seeds)
-- Cinnamon and Scarecrows (Pumpkin Seeds)
-- Orange All Over (Pumpkin Seeds)
-- Cats and Bats and Witches (Cats and Bats and Witches {remix})
-- in the night (Late Night Sampler)
-- Dig Me Up (Dig Me Up)
+  - Graveyard Gourd (Pumpkin Seeds)
+  - Pumpkin Carving (Pumpkin Seeds)
+  - Harvest Moon (Pumpkin Seeds)
+  - 'Cats and Bats and Witches - remix (Cats and Bats and Witches {remix})'
+  - Pumpkin Pie (Pumpkin Seeds)
+  - Cinnamon and Scarecrows (Pumpkin Seeds)
+  - Orange All Over (Pumpkin Seeds)
+  - 'Cats and Bats and Witches (Cats and Bats and Witches {remix})'
+  - in the night (Late Night Sampler)
+  - Dig Me Up (Dig Me Up)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/da81c343-863a-4eac-941a-1988587f029f
-  spotify: https://open.spotify.com/artist/1qX50W0tatUhTLQuB9sXmc
+  musicbrainz: 'https://musicbrainz.org/artist/da81c343-863a-4eac-941a-1988587f029f'
+  spotify: 'https://open.spotify.com/artist/1qX50W0tatUhTLQuB9sXmc'
   wikipedia: Not found
 image_path: 03_Resources/source_material/ArtistPortraits/haunted_house_party.jpg
 biography_enhanced_at: '2025-11-27T06:42:18.357249'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Library Of The Occult Bandcamp
-- Sound Ohm product listing
-- 'Hollywood Progressive (note: this source appears to reference a different ''Haunted House Party'' theatrical production)'
+  - Library Of The Occult Bandcamp
+  - Sound Ohm product listing
+  - >-
+    Hollywood Progressive (note: this source appears to reference a different
+    'Haunted House Party' theatrical production)
 network_extracted: true
 entry_created: '2025-11-27T06:42:18.357266'
 last_updated: '2025-12-23T08:16:09.540178'
 disambiguation: halloween hip hop
 musicbrainz_id: da81c343-863a-4eac-941a-1988587f029f
+origin: Unknown
+artist_type: band
 ---
 
 ![](haunted_house_party.jpg)

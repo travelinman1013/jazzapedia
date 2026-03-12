@@ -1,41 +1,43 @@
 ---
 biography_enhanced_at: '2026-01-19T01:07:23.266848'
-birth_place: New Paltz/Gardiner, Hudson Valley, New York, USA
+birth_place: 'New Paltz/Gardiner, Hudson Valley, New York, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-19T01:07:23.266853'
 external_urls:
-  spotify: https://open.spotify.com/artist/5IYapbnvPjesLzg5uzr53m
+  spotify: 'https://open.spotify.com/artist/5IYapbnvPjesLzg5uzr53m'
   wikipedia: ''
 genres:
-- americana
-- southern gothic
-- alt country
+  - americana
+  - southern gothic
+  - alt country
 image_path: 03_Resources/source_material/ArtistPortraits/amy_laber.jpg
 last_updated: '2026-01-19T01:07:23.266854'
 musical_connections:
   collaborators:
-  - Janie Christensen
-  - David Kraai
-  - Squindo
-  - Light
-  - Shober
+    - Janie Christensen
+    - David Kraai
+    - Squindo
+    - Light
+    - Shober
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.centuryhouse.org/squindo-22/
-- https://womensworkmusic.com/amy-laber/
-- https://www.timeshudsonvalley.com/stories/music-with-miss-amy,41761
-- https://hudsonvalleyone.com/2013/03/12/personally-speaking-amy-laber/
-- http://www.rollmagazine.com/archive/jul11/articles/cdreview.php
+  - 'https://www.centuryhouse.org/squindo-22/'
+  - 'https://womensworkmusic.com/amy-laber/'
+  - 'https://www.timeshudsonvalley.com/stories/music-with-miss-amy,41761'
+  - 'https://hudsonvalleyone.com/2013/03/12/personally-speaking-amy-laber/'
+  - 'http://www.rollmagazine.com/archive/jul11/articles/cdreview.php'
 spotify_data:
   followers: 7985
   id: 5IYapbnvPjesLzg5uzr53m
   popularity: 26
-  url: https://open.spotify.com/artist/5IYapbnvPjesLzg5uzr53m
+  url: 'https://open.spotify.com/artist/5IYapbnvPjesLzg5uzr53m'
 status: active
-title: AMY LABER
+title: Amy Laber
+origin: 'Hudson Valley, New York, United States'
+artist_type: person
 ---
 
 ![](amy_laber.jpg)

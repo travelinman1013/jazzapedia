@@ -3,37 +3,41 @@ biography_enhanced_at: '2025-12-27T01:30:23.347226'
 enhancement_provider: perplexity
 entry_created: '2025-12-27T01:30:23.347238'
 external_urls:
-  spotify: https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz
-  wikipedia: https://en.wikipedia.org/wiki/The_War_and_Treaty
+  spotify: 'https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_War_and_Treaty'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/war_and_treaty.jpg
 last_updated: '2025-12-27T01:30:23.347239'
 musical_connections:
   collaborators:
-  - Emmylou Harris
-  - Buddy Miller
-  - Jason Isbell
-  - Zach Bryan
+    - Emmylou Harris
+    - Buddy Miller
+    - Jason Isbell
+    - Zach Bryan
   influenced: []
   mentors:
-  - Captain Robert Scheetz
+    - Captain Robert Scheetz
 network_extracted: true
-origin: Nashville, Tennessee, United States (current base; Michael from Houston, Texas;
-  Tanya near Washington, D.C.)
+origin: >-
+  Nashville, Tennessee, United States (current base; Michael from Houston,
+  Texas; Tanya near Washington, D.C.)
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_War_and_Treaty
-- https://www.knkx.org/blues/2025-05-13/the-war-and-treaty-husband-wife-duo-blues-americana-country-music
-- https://theheightstheater.com/bands/the-war-and-treaty/
-- https://theconrad.org/https-www-sandiegouniontribune-com-entertainment-music-story-2022-10-26-music-a-matter-of-life-and-death-for-the-war-and-treatys-tanya-trotter-and-michael-trotter-jr/
-- https://www.etown.org/broadcasts/etown-war-treaty-dom-flemons/
+  - 'https://en.wikipedia.org/wiki/The_War_and_Treaty'
+  - >-
+    https://www.knkx.org/blues/2025-05-13/the-war-and-treaty-husband-wife-duo-blues-americana-country-music
+  - 'https://theheightstheater.com/bands/the-war-and-treaty/'
+  - >-
+    https://theconrad.org/https-www-sandiegouniontribune-com-entertainment-music-story-2022-10-26-music-a-matter-of-life-and-death-for-the-war-and-treatys-tanya-trotter-and-michael-trotter-jr/
+  - 'https://www.etown.org/broadcasts/etown-war-treaty-dom-flemons/'
 spotify_data:
   followers: 183765
   id: 6HhV0jtMMK5HYnYgG0xgtz
   popularity: 59
-  url: https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz
+  url: 'https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz'
 status: active
-title: war & treaty
+title: War & Treaty
+artist_type: person
 ---
 
 ![](war_and_treaty.jpg)

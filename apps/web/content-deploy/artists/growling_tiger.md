@@ -1,28 +1,28 @@
 ---
-title: growling tiger
+title: Growling Tiger
 wiki_slug: growling-tiger
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1916-03-05'
-birth_place: Siparia, Trinidad, Trinidad and Tobago
+birth_place: 'Siparia, Trinidad, Trinidad and Tobago'
 death_date: '1993-05-13'
 genres:
-- calypso
+  - calypso
 instruments:
-- lead vocals
+  - lead vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e4caec23-8488-461d-82f3-59e5724eeab4
-  name: Keskidee Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e4caec23-8488-461d-82f3-59e5724eeab4
+    name: Keskidee Trio
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/growling_tiger.jpg
   caption: growling tiger
   background: solo_singer
   born: '1916-03-05'
-  origin: Siparia, Trinidad, Trinidad and Tobago
+  origin: 'Siparia, Trinidad, Trinidad and Tobago'
   died: '1993-05-13'
 audio_profile:
   tempo_avg: 122.7
@@ -30,7 +30,7 @@ audio_profile:
   valence_avg: 0.863
   danceability_avg: 0.589
   acousticness_avg: 0.755
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -13.1
   speechiness_avg: 0.209
   liveness_avg: 0.129
@@ -39,52 +39,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lord Beginner
-  - Alan Lomax
+    - Lord Beginner
+    - Alan Lomax
   influenced:
-  - Mighty Sparrow
-  - Calypso Rose
+    - Mighty Sparrow
+    - Calypso Rose
   mentors:
-  - Attila the Hun
+    - Attila the Hun
 spotify_data:
   followers: 243
   id: 3fALujHIOyJittpUTggDAZ
   popularity: 2
-  url: https://open.spotify.com/artist/3fALujHIOyJittpUTggDAZ
+  url: 'https://open.spotify.com/artist/3fALujHIOyJittpUTggDAZ'
 discography_enriched: true
 top_tracks:
-- Money Is King (The Magic of Trinidad Sounds 1930-39)
-- 'Money Is King (High Priest Of Mi Minor: Knockdown Calypsos)'
-- 'When I Dead Bury Me Clothes / Five Five Five In the Morning / Going Home To Africa Tonight - Medley (High Priest Of Mi
-  Minor: Knockdown Calypsos)'
-- 'Yoruba Shango (High Priest Of Mi Minor: Knockdown Calypsos)'
-- 'Motor Car Horn (High Priest Of Mi Minor: Knockdown Calypsos)'
-- 'War (High Priest Of Mi Minor: Knockdown Calypsos)'
-- Gold in Africa (The Magic of Trinidad Sounds 1930-39)
-- War (Trinidad Carnival, Vol. 1)
-- War (Classic Songs Of Trinidad, Vol. 2)
-- War (The Sunny Sounds of Trinidad, Vol. 2)
+  - Money Is King (The Magic of Trinidad Sounds 1930-39)
+  - 'Money Is King (High Priest Of Mi Minor: Knockdown Calypsos)'
+  - >-
+    When I Dead Bury Me Clothes / Five Five Five In the Morning / Going Home To
+    Africa Tonight - Medley (High Priest Of Mi Minor: Knockdown Calypsos)
+  - 'Yoruba Shango (High Priest Of Mi Minor: Knockdown Calypsos)'
+  - 'Motor Car Horn (High Priest Of Mi Minor: Knockdown Calypsos)'
+  - 'War (High Priest Of Mi Minor: Knockdown Calypsos)'
+  - Gold in Africa (The Magic of Trinidad Sounds 1930-39)
+  - 'War (Trinidad Carnival, Vol. 1)'
+  - 'War (Classic Songs Of Trinidad, Vol. 2)'
+  - 'War (The Sunny Sounds of Trinidad, Vol. 2)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9a2cca5b-1cd9-45c8-89ee-c612c227e826
-  spotify: https://open.spotify.com/artist/3fALujHIOyJittpUTggDAZ
-  wikipedia: https://en.wikipedia.org/wiki/Neville_Marcano
+  musicbrainz: 'https://musicbrainz.org/artist/9a2cca5b-1cd9-45c8-89ee-c612c227e826'
+  spotify: 'https://open.spotify.com/artist/3fALujHIOyJittpUTggDAZ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Neville_Marcano'
 image_path: 03_Resources/source_material/ArtistPortraits/growling_tiger.jpg
 biography_enhanced_at: '2025-11-21T07:20:54.954748'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Neville_Marcano
-- https://paswonky.wordpress.com/2013/03/11/he-came-he-sang-he-conquered-growling-tiger/
-- https://www.last.fm/music/Growling+Tiger/+wiki
-- http://www.donaldclarkemusicbox.com/encyclopedia/detail.php?s=3543
-- https://theblueedition.com/product/no-surrender-a-biography-of-the-growling-tiger/
-- https://www.allmusic.com/artist/growling-tiger-mn0000650889
-- https://books.google.com/books/about/No_Surrender.html?id=rFhaAAAAMAAJ
+  - 'https://en.wikipedia.org/wiki/Neville_Marcano'
+  - >-
+    https://paswonky.wordpress.com/2013/03/11/he-came-he-sang-he-conquered-growling-tiger/
+  - 'https://www.last.fm/music/Growling+Tiger/+wiki'
+  - 'http://www.donaldclarkemusicbox.com/encyclopedia/detail.php?s=3543'
+  - >-
+    https://theblueedition.com/product/no-surrender-a-biography-of-the-growling-tiger/
+  - 'https://www.allmusic.com/artist/growling-tiger-mn0000650889'
+  - 'https://books.google.com/books/about/No_Surrender.html?id=rFhaAAAAMAAJ'
 network_extracted: true
 entry_created: '2025-11-21T07:20:54.954762'
 last_updated: '2025-12-23T08:16:09.371302'
 gender: Male
 musicbrainz_id: 9a2cca5b-1cd9-45c8-89ee-c612c227e826
+is_active: false
+origin: 'Trinidad, Trinidad and Tobago, Trinidad and Tobago'
 ---
 
 ![](growling_tiger.jpg)

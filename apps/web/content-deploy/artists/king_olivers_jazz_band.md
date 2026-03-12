@@ -1,10 +1,10 @@
 ---
-title: KING OLIVER'S JAZZ BAND
+title: King Oliver's Jazz Band
 wiki_slug: king-olivers-jazz-band
 schema_version: 2
 status: active
 genres:
-- ragtime
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/king_olivers_jazz_band.jpg
   caption: KING OLIVER'S JAZZ BAND
@@ -24,53 +24,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Louis Armstrong
-  - Johnny Dodds
-  - Honore Dutrey
-  - Lillian Hardin
-  - Warren 'Baby' Dodds
-  - Bill Johnson
-  - Jelly Roll Morton
+    - Louis Armstrong
+    - Johnny Dodds
+    - Honore Dutrey
+    - Lillian Hardin
+    - Warren 'Baby' Dodds
+    - Bill Johnson
+    - Jelly Roll Morton
   influenced:
-  - Swing Music
-  - Modern Jazz
+    - Swing Music
+    - Modern Jazz
   mentors:
-  - Buddy Bolden
+    - Buddy Bolden
 spotify_data:
   followers: 38
   id: 4ydiVDDMjcTOCmaoaGR7ts
   popularity: 2
-  url: https://open.spotify.com/artist/4ydiVDDMjcTOCmaoaGR7ts
+  url: 'https://open.spotify.com/artist/4ydiVDDMjcTOCmaoaGR7ts'
 discography_enriched: true
 top_tracks:
-- Mabel's Dream - Take 1 (The Paramount Recordings 1923-1925)
-- Mabel's Dream - Take 2 (The Paramount Recordings 1923-1925)
-- The Southern Stomps - Take 1 (The Paramount Recordings 1923-1925)
-- Riverside Blues - Take 2 (The Paramount Recordings 1923-1925)
-- Chattanooga Stomp (Essence of Armstrong)
-- The Southern Stomps - Take 2 (The Paramount Recordings 1923-1925)
-- Snake Rag (The Complete 1923 OKehs In Chronological Order)
-- Sweet Lovin' Man (The Complete 1923 OKehs In Chronological Order)
-- High Society Rag (The Complete 1923 OKehs In Chronological Order)
-- Sobbiin' Blues (The Complete 1923 OKehs In Chronological Order)
+  - Mabel's Dream - Take 1 (The Paramount Recordings 1923-1925)
+  - Mabel's Dream - Take 2 (The Paramount Recordings 1923-1925)
+  - The Southern Stomps - Take 1 (The Paramount Recordings 1923-1925)
+  - Riverside Blues - Take 2 (The Paramount Recordings 1923-1925)
+  - Chattanooga Stomp (Essence of Armstrong)
+  - The Southern Stomps - Take 2 (The Paramount Recordings 1923-1925)
+  - Snake Rag (The Complete 1923 OKehs In Chronological Order)
+  - Sweet Lovin' Man (The Complete 1923 OKehs In Chronological Order)
+  - High Society Rag (The Complete 1923 OKehs In Chronological Order)
+  - Sobbiin' Blues (The Complete 1923 OKehs In Chronological Order)
 external_urls:
-  spotify: https://open.spotify.com/artist/4ydiVDDMjcTOCmaoaGR7ts
-  wikipedia: https://en.wikipedia.org/wiki/King_Oliver
+  spotify: 'https://open.spotify.com/artist/4ydiVDDMjcTOCmaoaGR7ts'
+  wikipedia: 'https://en.wikipedia.org/wiki/King_Oliver'
 image_path: 03_Resources/source_material/ArtistPortraits/king_olivers_jazz_band.jpg
 biography_enhanced_at: '2025-12-04T07:21:59.112318'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://musicalgeography.org/king-oliver/
-- https://www.ebsco.com/research-starters/history/king-oliver
-- https://trackingangle.com/music/centennial-king-olivers-creole-jazz-band
-- https://syncopatedtimes.com/profiles-in-jazz-joe-king-oliver/
-- https://www.louisarmstronghouse.org/west-end-blog/joe-oliver-the-king/
-- https://en.wikipedia.org/wiki/King_Oliver
+  - 'https://musicalgeography.org/king-oliver/'
+  - 'https://www.ebsco.com/research-starters/history/king-oliver'
+  - 'https://trackingangle.com/music/centennial-king-olivers-creole-jazz-band'
+  - 'https://syncopatedtimes.com/profiles-in-jazz-joe-king-oliver/'
+  - 'https://www.louisarmstronghouse.org/west-end-blog/joe-oliver-the-king/'
+  - 'https://en.wikipedia.org/wiki/King_Oliver'
 network_extracted: true
 entry_created: '2025-12-04T07:21:59.112328'
 last_updated: '2025-12-23T08:16:11.397546'
-origin: Chicago, Illinois, United States (formation location); New Orleans, Louisiana, United States (origin of members)
+origin: >-
+  Chicago, Illinois, United States (formation location); New Orleans, Louisiana,
+  United States (origin of members)
+artist_type: band
 ---
 
 ![](king_olivers_jazz_band.jpg)

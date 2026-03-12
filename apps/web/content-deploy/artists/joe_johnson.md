@@ -1,43 +1,45 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-13T01:12:21.592058'
-birth_place: Morgantown, Mississippi, USA
+birth_place: 'Morgantown, Mississippi, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-13T01:12:21.592065'
 external_urls:
-  spotify: https://open.spotify.com/artist/7GSCOZhJiMwN1PJ83oSr2E
+  spotify: 'https://open.spotify.com/artist/7GSCOZhJiMwN1PJ83oSr2E'
   wikipedia: ''
 genres:
-- americana
-- blues rock
+  - americana
+  - blues rock
 image_path: 03_Resources/source_material/ArtistPortraits/joe_johnson.jpg
 last_updated: '2026-01-13T01:12:21.592065'
 musical_connections:
   collaborators:
-  - Creating a Newsense (band members unnamed)
-  - The Wildfire
-  - Kenny Brown
-  - Grant Sabin
-  - Bryant Jones
-  - Jason Miller
-  - Ray Wylie Hubbard
-  - Todd Snider
+    - Creating a Newsense (band members unnamed)
+    - The Wildfire
+    - Kenny Brown
+    - Grant Sabin
+    - Bryant Jones
+    - Jason Miller
+    - Ray Wylie Hubbard
+    - Todd Snider
   influenced: []
   mentors:
-  - Mother (unnamed)
+    - Mother (unnamed)
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.joejohnsonsings.com/bio
-- https://joejohnson.bandcamp.com
-- https://localspins.com/joe-johnson-bluebacks-win-grs-blues-challenge-plus-the-return-of-kalamashoegazer-local-spins/
+  - 'https://www.joejohnsonsings.com/bio'
+  - 'https://joejohnson.bandcamp.com'
+  - >-
+    https://localspins.com/joe-johnson-bluebacks-win-grs-blues-challenge-plus-the-return-of-kalamashoegazer-local-spins/
 spotify_data:
   followers: 518
   id: 7GSCOZhJiMwN1PJ83oSr2E
   popularity: 9
-  url: https://open.spotify.com/artist/7GSCOZhJiMwN1PJ83oSr2E
+  url: 'https://open.spotify.com/artist/7GSCOZhJiMwN1PJ83oSr2E'
 status: active
-title: JOE JOHNSON
+title: Joe Johnson
+origin: 'Manitou Springs, Colorado, United States'
 ---
 
 ![](joe_johnson.jpg)

@@ -4,11 +4,11 @@ wiki_slug: cannonball-adderley-quintet
 schema_version: 2
 status: active
 genres:
-- hard bop
-- jazz
-- bebop
-- soul jazz
-- cool jazz
+  - hard bop
+  - jazz
+  - bebop
+  - soul jazz
+  - cool jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Cannonball_Adderley_Quintet.jpg
   caption: Cannonball Adderley Quintet
@@ -28,54 +28,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Nat Adderley
-  - Joe Zawinul
-  - Yusef Lateef
-  - Louis Hayes
-  - Sam Jones
-  - Miles Davis
-  - John Coltrane
+    - Nat Adderley
+    - Joe Zawinul
+    - Yusef Lateef
+    - Louis Hayes
+    - Sam Jones
+    - Miles Davis
+    - John Coltrane
   influenced:
-  - Wes Montgomery
-  - Chuck Mangione
-  - Nancy Wilson
-  - Joe Zawinul
+    - Wes Montgomery
+    - Chuck Mangione
+    - Nancy Wilson
+    - Joe Zawinul
   mentors:
-  - Benny Carter
-  - Charlie Parker
+    - Benny Carter
+    - Charlie Parker
 spotify_data:
   followers: 43509
   id: 2o346NHhUAlVxl5uXBVxK7
   popularity: 32
-  url: https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7
+  url: 'https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7'
 discography_enriched: true
 top_tracks:
-- Work Song - Remastered (Them Dirty Blues)
-- You're A Weaver Of Dreams (Cannonball Adderley Quintet In Chicago)
-- Limehouse Blues (Cannonball Adderley Quintet In Chicago)
-- Stars Fell On Alabama (Cannonball Adderley Quintet In Chicago)
-- Mercy, Mercy, Mercy - Live (Mercy, Mercy, Mercy (Live))
-- Dat Dere - Remastered (Them Dirty Blues)
-- Jeannine - Remastered (Them Dirty Blues)
-- Hummin' - Live In Chicago/1969 / Remastered 2008
-- Grand Central (Cannonball Adderley Quintet In Chicago)
-- Sticks - Live (Mercy, Mercy, Mercy (Live))
+  - Work Song - Remastered (Them Dirty Blues)
+  - You're A Weaver Of Dreams (Cannonball Adderley Quintet In Chicago)
+  - Limehouse Blues (Cannonball Adderley Quintet In Chicago)
+  - Stars Fell On Alabama (Cannonball Adderley Quintet In Chicago)
+  - 'Mercy, Mercy, Mercy - Live (Mercy, Mercy, Mercy (Live))'
+  - Dat Dere - Remastered (Them Dirty Blues)
+  - Jeannine - Remastered (Them Dirty Blues)
+  - Hummin' - Live In Chicago/1969 / Remastered 2008
+  - Grand Central (Cannonball Adderley Quintet In Chicago)
+  - 'Sticks - Live (Mercy, Mercy, Mercy (Live))'
 external_urls:
-  spotify: https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7
-  wikipedia: https://en.wikipedia.org/wiki/Cannonball_Adderley
+  spotify: 'https://open.spotify.com/artist/2o346NHhUAlVxl5uXBVxK7'
+  wikipedia: 'https://en.wikipedia.org/wiki/Cannonball_Adderley'
 image_path: 03_Resources/source_material/ArtistPortraits/Cannonball_Adderley_Quintet.jpg
 biography_enhanced_at: '2025-10-20T10:23:58.707802'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Cannonball_Adderley
-- https://cannonball-adderley.com/bio2.htm
-- https://jazz.fm/cannonball-adderley-quintet-popularized-a-combination-of-soul-and-jazz/
-- https://bluenote.com/artist/cannonball-adderley/
+  - 'https://en.wikipedia.org/wiki/Cannonball_Adderley'
+  - 'https://cannonball-adderley.com/bio2.htm'
+  - >-
+    https://jazz.fm/cannonball-adderley-quintet-popularized-a-combination-of-soul-and-jazz/
+  - 'https://bluenote.com/artist/cannonball-adderley/'
 network_extracted: true
 entry_created: '2025-10-20T10:23:58.707814'
 last_updated: '2025-12-23T08:16:01.451136'
-origin: Tampa, Florida, United States
+origin: 'Tampa, Florida, United States'
+artist_type: band
 ---
 
 ![](Cannonball_Adderley_Quintet.jpg)

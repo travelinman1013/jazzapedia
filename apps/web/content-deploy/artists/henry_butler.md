@@ -1,18 +1,18 @@
 ---
-title: henry butler
+title: Henry Butler
 wiki_slug: henry-butler
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- cajun
-- zydeco
-- blues
+  - cajun
+  - zydeco
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/henry_butler.jpg
   caption: henry butler
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 118.5
   energy_avg: 0.504
@@ -28,50 +28,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Charlie Haden
-  - Billy Higgins
-  - Jack DeJohnette
-  - Ron Carter
-  - James Booker
+    - Charlie Haden
+    - Billy Higgins
+    - Jack DeJohnette
+    - Ron Carter
+    - James Booker
   influenced:
-  - Jon Cleary
-  - Students at New Orleans Center for the Creative Arts
+    - Jon Cleary
+    - Students at New Orleans Center for the Creative Arts
   mentors:
-  - Alvin Batiste
-  - Professor Longhair
-  - Harold Mabern
-  - Roland Hanna
+    - Alvin Batiste
+    - Professor Longhair
+    - Harold Mabern
+    - Roland Hanna
 spotify_data:
   followers: 3679
   id: 5qpgJEqRgEJ2kRwtxNrkCZ
   popularity: 10
-  url: https://open.spotify.com/artist/5qpgJEqRgEJ2kRwtxNrkCZ
+  url: 'https://open.spotify.com/artist/5qpgJEqRgEJ2kRwtxNrkCZ'
 discography_enriched: true
 top_tracks:
-- Basin St. Blues (PiaNOLA Live)
-- 'Mama Roux (Treme: Music From The HBO Original Series - Season 2)'
-- Why Don't You Live So God Can Use You? (Vu-Du Menz)
-- Jump to the Music (Homeland)
-- Au Bord de l'eau
-- L'espirit De James
-- Let 'Em Roll (Vu-Du Menz)
-- Some Iko (Homeland)
-- Running Around
-- Henry's Boogie (Homeland)
+  - Basin St. Blues (PiaNOLA Live)
+  - 'Mama Roux (Treme: Music From The HBO Original Series - Season 2)'
+  - Why Don't You Live So God Can Use You? (Vu-Du Menz)
+  - Jump to the Music (Homeland)
+  - Au Bord de l'eau
+  - L'espirit De James
+  - Let 'Em Roll (Vu-Du Menz)
+  - Some Iko (Homeland)
+  - Running Around
+  - Henry's Boogie (Homeland)
 external_urls:
-  spotify: https://open.spotify.com/artist/5qpgJEqRgEJ2kRwtxNrkCZ
-  wikipedia: https://en.wikipedia.org/wiki/Henry_Butler
+  spotify: 'https://open.spotify.com/artist/5qpgJEqRgEJ2kRwtxNrkCZ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Henry_Butler'
 image_path: 03_Resources/source_material/ArtistPortraits/henry_butler.jpg
 biography_enhanced_at: '2025-11-01T15:27:48.478781'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.alligator.com/artists/Henry-Butler/
-- https://64parishes.org/entry/henry-butler
-- https://www.wwoz.org/blog/405916
+  - 'https://www.alligator.com/artists/Henry-Butler/'
+  - 'https://64parishes.org/entry/henry-butler'
+  - 'https://www.wwoz.org/blog/405916'
 network_extracted: true
 entry_created: '2025-11-01T15:27:48.478790'
 last_updated: '2025-12-23T08:16:09.564248'
+birth_date: '1948'
+artist_type: person
 ---
 
 ![](henry_butler.jpg)

@@ -1,96 +1,98 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - lead vocals
-  - principal
-  mbid: 744ff2df-d323-42a4-a859-d4fc5e8b37c6
-  name: Merl Saunders And Aunt Monk
-- begin: ''
-  end: ''
-  instruments:
-  - electric piano
-  - eponymous
-  - principal
-  mbid: 744ff2df-d323-42a4-a859-d4fc5e8b37c6
-  name: Merl Saunders And Aunt Monk
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 454b237c-f4dd-47dc-a12a-a914af51b5ba
-  name: Reconstruction
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: cf5fa30a-fbf2-4a9b-a32d-86282752c58e
-  name: Legion of Mary
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: d118d958-ffd0-4f5e-b6a0-ddd4333259f8
-  name: Merl Saunders & The Rainforest Band
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - lead vocals
+      - principal
+    mbid: 744ff2df-d323-42a4-a859-d4fc5e8b37c6
+    name: Merl Saunders And Aunt Monk
+  - begin: ''
+    end: ''
+    instruments:
+      - electric piano
+      - eponymous
+      - principal
+    mbid: 744ff2df-d323-42a4-a859-d4fc5e8b37c6
+    name: Merl Saunders And Aunt Monk
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 454b237c-f4dd-47dc-a12a-a914af51b5ba
+    name: Reconstruction
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: cf5fa30a-fbf2-4a9b-a32d-86282752c58e
+    name: Legion of Mary
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: d118d958-ffd0-4f5e-b6a0-ddd4333259f8
+    name: Merl Saunders & The Rainforest Band
 biography_enhanced_at: '2026-01-13T01:16:25.428117'
 birth_date: '1934-02-14'
-birth_place: San Mateo
+birth_place: 'San Mateo, California, United States'
 death_date: '2008-10-24'
 enhancement_provider: perplexity
 entry_created: '2026-01-13T01:16:25.428123'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7ae1ae9e-66f5-461f-8a16-1a394b400c14
-  spotify: https://open.spotify.com/artist/0mOvsKSG9z0W7C5InpxjMw
-  wikipedia: https://en.wikipedia.org/wiki/Merl_Saunders
+  musicbrainz: 'https://musicbrainz.org/artist/7ae1ae9e-66f5-461f-8a16-1a394b400c14'
+  spotify: 'https://open.spotify.com/artist/0mOvsKSG9z0W7C5InpxjMw'
+  wikipedia: 'https://en.wikipedia.org/wiki/Merl_Saunders'
 gender: Male
 genres:
-- jam band
+  - jam band
 image_path: 03_Resources/source_material/ArtistPortraits/merl_saunders.jpg
 instruments:
-- eponymous
-- lead vocals
-- principal
-- electric piano
-- piano
-- background vocals
+  - eponymous
+  - lead vocals
+  - principal
+  - electric piano
+  - piano
+  - background vocals
 last_updated: '2026-01-13T01:16:25.428123'
 musical_connections:
   collaborators:
-  - Jerry Garcia
-  - John Kahn
-  - Tom Fogerty
-  - Mickey Hart
-  - Martin Fierro
-  - Tony Saunders
+    - Jerry Garcia
+    - John Kahn
+    - Tom Fogerty
+    - Mickey Hart
+    - Martin Fierro
+    - Tony Saunders
   influenced:
-  - Phish
-  - Blues Traveler
-  - Widespread Panic
+    - Phish
+    - Blues Traveler
+    - Widespread Panic
   mentors:
-  - Jimmy Smith
-  - Oscar Brown Jr.
+    - Jimmy Smith
+    - Oscar Brown Jr.
 musicbrainz_id: 7ae1ae9e-66f5-461f-8a16-1a394b400c14
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Merl_Saunders
-- https://www.tonysaunders.com/merl-saunders
-- https://iorr.org/talk/read.php?1,982435
-- https://www.dead.net/features/news/thinkin-about-merl-saunders
-- https://jazztimes.com/archives/bay-area-organist-merl-saunders-dead-at-74/
-- https://www.allaboutjazz.com/musicians/merl-saunders/
+  - 'https://en.wikipedia.org/wiki/Merl_Saunders'
+  - 'https://www.tonysaunders.com/merl-saunders'
+  - 'https://iorr.org/talk/read.php?1,982435'
+  - 'https://www.dead.net/features/news/thinkin-about-merl-saunders'
+  - 'https://jazztimes.com/archives/bay-area-organist-merl-saunders-dead-at-74/'
+  - 'https://www.allaboutjazz.com/musicians/merl-saunders/'
 spotify_data:
   followers: 29605
   id: 0mOvsKSG9z0W7C5InpxjMw
   popularity: 30
-  url: https://open.spotify.com/artist/0mOvsKSG9z0W7C5InpxjMw
+  url: 'https://open.spotify.com/artist/0mOvsKSG9z0W7C5InpxjMw'
 status: active
 tags:
-- blues
-- jazz rock
-- jazz-funk
+  - blues
+  - jazz rock
+  - jazz-funk
 title: Merl Saunders
+is_active: false
+origin: 'San Francisco, California, United States'
 ---
 
 ![](merl_saunders.jpg)

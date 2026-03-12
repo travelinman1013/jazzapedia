@@ -5,23 +5,23 @@ schema_version: 2
 status: active
 aliases: []
 birth_date: '1976-09-16'
-birth_place: Kiln, Mississippi, United States
+birth_place: 'Kiln, Mississippi, United States'
 years_active: 2002–present
 genres: []
 instruments:
-- guitar
-- piano
+  - guitar
+  - piano
 occupation:
-- singer-songwriter
-- pianist
+  - singer-songwriter
+  - pianist
 record_labels:
-- EMI
+  - EMI
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Serebii.jpg
   caption: Serebii
   background: non_vocal_instrumentalist
   born: '1976-09-16'
-  origin: Kiln, Mississippi, United States
+  origin: 'Kiln, Mississippi, United States'
 audio_profile:
   tempo_avg: 116.9
   energy_avg: 0.441
@@ -37,58 +37,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Michael Bolton
-  - Craig Wiseman
-  - Ben Margulies
-  - Usher
-  - Matt Serletic
-  - Hugh Padgham
-  - Stephanie Bentley
-  - John Autin
+    - Michael Bolton
+    - Craig Wiseman
+    - Ben Margulies
+    - Usher
+    - Matt Serletic
+    - Hugh Padgham
+    - Stephanie Bentley
+    - John Autin
   influenced:
-  - Charlotte Church
+    - Charlotte Church
   mentors:
-  - Lenny Waronker
-  - Gary Katz
+    - Lenny Waronker
+    - Gary Katz
 related_artists: []
 spotify_data:
   followers: 7253
   id: 7JKAIlZcxCK8hSIHiSp4ms
   popularity: 46
-  url: https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms
+  url: 'https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms'
   verified: false
 discography_enriched: true
 albums_count: 3
 singles_count: 10
 top_tracks:
-- Verrans Corner (Verrans Corner)
-- Reset (First Nights)
-- Goji (Goji)
-- Might As Well Be Watching (Might As Well Be Watching)
-- Flavour (Final Days)
-- Even When You're Gone (Even When You're Gone)
-- Dime (Dime)
-- Telling Lies (Dime)
-- Satellites (Satellites)
-- Really You (Inside)
+  - Verrans Corner (Verrans Corner)
+  - Reset (First Nights)
+  - Goji (Goji)
+  - Might As Well Be Watching (Might As Well Be Watching)
+  - Flavour (Final Days)
+  - Even When You're Gone (Even When You're Gone)
+  - Dime (Dime)
+  - Telling Lies (Dime)
+  - Satellites (Satellites)
+  - Really You (Inside)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms
-  wikipedia: https://en.wikipedia.org/wiki/Serabee
+  spotify: 'https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms'
+  wikipedia: 'https://en.wikipedia.org/wiki/Serabee'
 image_path: 03_Resources/source_material/ArtistPortraits/Serebii.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:26:30.407953'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.serabeemusic.com
-- https://www.americanbluesscene.com/2022/09/serabee-is-proof-that-reality-shows-are-an-oxymoron/
-- https://www.msafestival.org/artist-bios/serabee
-- https://www.youtube.com/channel/UCEs2NtIU4hq15VHK8eDaoJw/about
+  - 'https://www.serabeemusic.com'
+  - >-
+    https://www.americanbluesscene.com/2022/09/serabee-is-proof-that-reality-shows-are-an-oxymoron/
+  - 'https://www.msafestival.org/artist-bios/serabee'
+  - 'https://www.youtube.com/channel/UCEs2NtIU4hq15VHK8eDaoJw/about'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 11:40:43.654521
+entry_created: 2025-09-18T11:40:43.654Z
 last_updated: '2025-12-23T08:16:03.841699'
+artist_type: person
 ---
 
 ![](Serebii.jpg)

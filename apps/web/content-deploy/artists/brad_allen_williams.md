@@ -3,13 +3,13 @@ title: Brad Allen Williams
 wiki_slug: brad-allen-williams
 schema_version: 2
 status: active
-birth_place: Memphis, Tennessee, United States
+birth_place: 'Memphis, Tennessee, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/brad_allen_williams.jpg
   caption: Brad Allen Williams
   background: solo_singer
-  origin: Memphis, Tennessee, United States
+  origin: 'Memphis, Tennessee, United States'
 audio_profile:
   tempo_avg: 114.9
   energy_avg: 0.408
@@ -25,49 +25,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Cory Henry
-  - Bilal
-  - Kris Bowers
-  - José James
+    - Cory Henry
+    - Bilal
+    - Kris Bowers
+    - José James
   influenced: []
   mentors:
-  - Memphis musical community
+    - Memphis musical community
 spotify_data:
   followers: 693
   id: 4HBi6ycIZDI7zvTjPzR7y7
   popularity: 11
-  url: https://open.spotify.com/artist/4HBi6ycIZDI7zvTjPzR7y7
+  url: 'https://open.spotify.com/artist/4HBi6ycIZDI7zvTjPzR7y7'
 discography_enriched: true
 top_tracks:
-- Internal Geographies (GRIEF)
-- 'Nuthin'' But a G Thang (The Invisible Man: An Orchestral Tribute to Dr. Dre)'
-- 'Nuthin'' but a "G" Thang (The Invisible Man: An Orchestral Tribute to Dr. Dre)'
-- the fruit (the fruit)
-- laika (laika)
-- tecnologia (œconomy)
-- an artifice (œconomy)
-- Steppin' Out (Lamar)
-- Betcha by Golly Wow (Lamar)
-- inner life (œconomy)
+  - Internal Geographies (GRIEF)
+  - 'Nuthin'' But a G Thang (The Invisible Man: An Orchestral Tribute to Dr. Dre)'
+  - >-
+    Nuthin' but a "G" Thang (The Invisible Man: An Orchestral Tribute to Dr.
+    Dre)
+  - the fruit (the fruit)
+  - laika (laika)
+  - tecnologia (œconomy)
+  - an artifice (œconomy)
+  - Steppin' Out (Lamar)
+  - Betcha by Golly Wow (Lamar)
+  - inner life (œconomy)
 external_urls:
-  spotify: https://open.spotify.com/artist/4HBi6ycIZDI7zvTjPzR7y7
+  spotify: 'https://open.spotify.com/artist/4HBi6ycIZDI7zvTjPzR7y7'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/brad_allen_williams.jpg
 biography_enhanced_at: '2025-11-15T18:13:46.039100'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.thecarrcenter.org/brad-allen-williams/
-- http://bradallenwilliams.com/production-1
-- https://flypaper.soundfly.com/author/bradallenwilliams/
-- https://www.foxsoundi.com/artist/3943996/brad-allen-williams
-- https://musicbrainz.org/artist/1c178129-31e0-4756-9dc9-0bc0a0b8dc6c
-- https://www.colorfieldrecords.com/brad-allen-williams
-- https://www.premierguitar.com/u/bradallenwilliams
-- http://www.third-story.com/listen/bradallenwilliams
+  - 'https://www.thecarrcenter.org/brad-allen-williams/'
+  - 'http://bradallenwilliams.com/production-1'
+  - 'https://flypaper.soundfly.com/author/bradallenwilliams/'
+  - 'https://www.foxsoundi.com/artist/3943996/brad-allen-williams'
+  - 'https://musicbrainz.org/artist/1c178129-31e0-4756-9dc9-0bc0a0b8dc6c'
+  - 'https://www.colorfieldrecords.com/brad-allen-williams'
+  - 'https://www.premierguitar.com/u/bradallenwilliams'
+  - 'http://www.third-story.com/listen/bradallenwilliams'
 network_extracted: true
 entry_created: '2025-11-15T18:13:46.039109'
 last_updated: '2025-12-23T08:16:05.999353'
+birth_date: '1980-09-10'
+artist_type: person
 ---
 
 ![](brad_allen_williams.jpg)

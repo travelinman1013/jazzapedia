@@ -1,41 +1,42 @@
 ---
 biography_enhanced_at: '2026-01-20T01:19:23.542486'
-birth_place: Dartmouth, Massachusetts, USA
+birth_place: 'Dartmouth, Massachusetts, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-20T01:19:23.542491'
 external_urls:
-  spotify: https://open.spotify.com/artist/2OLo5QLuyeAvIyWUvj0ZWn
+  spotify: 'https://open.spotify.com/artist/2OLo5QLuyeAvIyWUvj0ZWn'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/jim_robitaille_group.jpg
 last_updated: '2026-01-20T01:19:23.542492'
 musical_connections:
   collaborators:
-  - Dave Liebman
-  - Bob Moses
-  - Chris Poudrier
-  - Matt Richard
-  - Dave Zinno
+    - Dave Liebman
+    - Bob Moses
+    - Chris Poudrier
+    - Matt Richard
+    - Dave Zinno
   influenced: []
   mentors:
-  - Jon Damian
-  - Charlie Banacos
+    - Jon Damian
+    - Charlie Banacos
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.allaboutjazz.com/musicians/jim-robitaille/
-- https://czonemusic.com/profile/jim-robitaille/
-- https://jimrobitaille.com/epk
-- https://jimrobitaille.com/about
-- https://jazztimes.com/archives/jim-robitaille-group-to-music
-- https://www.coveringnewengland.com/talent/jim-robitaille
+  - 'https://www.allaboutjazz.com/musicians/jim-robitaille/'
+  - 'https://czonemusic.com/profile/jim-robitaille/'
+  - 'https://jimrobitaille.com/epk'
+  - 'https://jimrobitaille.com/about'
+  - 'https://jazztimes.com/archives/jim-robitaille-group-to-music'
+  - 'https://www.coveringnewengland.com/talent/jim-robitaille'
 spotify_data:
   followers: 56
   id: 2OLo5QLuyeAvIyWUvj0ZWn
   popularity: 0
-  url: https://open.spotify.com/artist/2OLo5QLuyeAvIyWUvj0ZWn
+  url: 'https://open.spotify.com/artist/2OLo5QLuyeAvIyWUvj0ZWn'
 status: active
 title: Jim Robitaille Group
+artist_type: person
 ---
 
 ![](jim_robitaille_group.jpg)

@@ -1,10 +1,10 @@
 ---
-title: CIRCA BLUE
+title: Circa Blue
 wiki_slug: circa-blue
 schema_version: 2
 status: active
 genres:
-- bluegrass
+  - bluegrass
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/circa_blue.jpg
   caption: CIRCA BLUE
@@ -24,48 +24,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mike Auldridge
-  - Chris Sexton
-  - Gaven Largent
-  - Marshall Willborn
-  - Valerie Smith
+    - Mike Auldridge
+    - Chris Sexton
+    - Gaven Largent
+    - Marshall Willborn
+    - Valerie Smith
   influenced:
-  - Regional Bluegrass Musicians in West Virginia and the Shenandoah Valley
+    - Regional Bluegrass Musicians in West Virginia and the Shenandoah Valley
   mentors:
-  - Traditional Bluegrass and Country Musicians
+    - Traditional Bluegrass and Country Musicians
 spotify_data:
   followers: 182
   id: 1wazKC7mYtY1zWA0IOyQ8S
   popularity: 2
-  url: https://open.spotify.com/artist/1wazKC7mYtY1zWA0IOyQ8S
+  url: 'https://open.spotify.com/artist/1wazKC7mYtY1zWA0IOyQ8S'
 discography_enriched: true
 top_tracks:
-- God Rest Ye Merry, Gentlemen (God Rest Ye Merry, Gentlemen)
-- I Sing Your Song (I Sing Your Song)
-- Mississippi Queen (Footprints in a Song)
-- I Don't Know You (Footprints in a Song)
-- Footprints in a Song (Footprints in a Song)
-- Paradise (Footprints in a Song)
-- Cold Dark Ground (Footprints in a Song)
-- It's a Beautiful Day (Footprints in a Song)
-- Working on a Building (Footprints in a Song)
-- Rollin' Fog (Footprints in a Song)
+  - 'God Rest Ye Merry, Gentlemen (God Rest Ye Merry, Gentlemen)'
+  - I Sing Your Song (I Sing Your Song)
+  - Mississippi Queen (Footprints in a Song)
+  - I Don't Know You (Footprints in a Song)
+  - Footprints in a Song (Footprints in a Song)
+  - Paradise (Footprints in a Song)
+  - Cold Dark Ground (Footprints in a Song)
+  - It's a Beautiful Day (Footprints in a Song)
+  - Working on a Building (Footprints in a Song)
+  - Rollin' Fog (Footprints in a Song)
 external_urls:
-  spotify: https://open.spotify.com/artist/1wazKC7mYtY1zWA0IOyQ8S
+  spotify: 'https://open.spotify.com/artist/1wazKC7mYtY1zWA0IOyQ8S'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/circa_blue.jpg
 biography_enhanced_at: '2025-11-03T07:39:05.811772'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://www.circa-blue.com/meet-the-band
-- http://www.americanamusicmagazine.com/current-news/circa-blue-christmas/
-- http://www.circa-blue.com
-- https://operahouselive.com/nov-1-circa-blue/
+  - 'http://www.circa-blue.com/meet-the-band'
+  - 'http://www.americanamusicmagazine.com/current-news/circa-blue-christmas/'
+  - 'http://www.circa-blue.com'
+  - 'https://operahouselive.com/nov-1-circa-blue/'
 network_extracted: true
 entry_created: '2025-11-03T07:39:05.811796'
 last_updated: '2025-12-23T08:16:06.993776'
-origin: Martinsburg, West Virginia, USA
+origin: 'Martinsburg, West Virginia, USA'
+artist_type: band
 ---
 
 ![](circa_blue.jpg)

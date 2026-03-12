@@ -1,45 +1,48 @@
 ---
 biography_enhanced_at: '2025-12-29T01:16:57.875160'
-birth_place: Delavan, Illinois, United States
+birth_place: 'Delavan, Illinois, United States'
 enhancement_provider: perplexity
 entry_created: '2025-12-29T01:16:57.875170'
 external_urls:
-  spotify: https://open.spotify.com/artist/69MACpHHQg9ovd1retYWPq
+  spotify: 'https://open.spotify.com/artist/69MACpHHQg9ovd1retYWPq'
   wikipedia: ''
 genres:
-- bluegrass
-- newgrass
-- alt country
-- americana
+  - bluegrass
+  - newgrass
+  - alt country
+  - americana
 image_path: 03_Resources/source_material/ArtistPortraits/chicago_farmer.jpg
 last_updated: '2025-12-29T01:16:57.875172'
 musical_connections:
   collaborators:
-  - The Fieldnotes
-  - Chad Staehly
+    - The Fieldnotes
+    - Chad Staehly
   influenced:
-  - ''
+    - ''
   mentors:
-  - John Prine
-  - Woody Guthrie
-  - Hank Williams
+    - John Prine
+    - Woody Guthrie
+    - Hank Williams
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://chicagofarmer.com
-- https://www.thesheldon.org/events/chicago-farmer/
-- https://www.acornlive.org/events/chicago-farmer-the-fieldnotes/
-- https://www.iowapbs.org/shows/studio-3-live/episode/13214/chicago-farmer
-- https://www.illinoistimes.com/music/chicago-farmer-11437341/
-- https://www.smilepolitely.com/music/from-high-school-poems-to-heartland-ballads-chicago-farmer-evolves/
-- https://www.imdb.com/title/tt2300823/
+  - 'https://chicagofarmer.com'
+  - 'https://www.thesheldon.org/events/chicago-farmer/'
+  - 'https://www.acornlive.org/events/chicago-farmer-the-fieldnotes/'
+  - 'https://www.iowapbs.org/shows/studio-3-live/episode/13214/chicago-farmer'
+  - 'https://www.illinoistimes.com/music/chicago-farmer-11437341/'
+  - >-
+    https://www.smilepolitely.com/music/from-high-school-poems-to-heartland-ballads-chicago-farmer-evolves/
+  - 'https://www.imdb.com/title/tt2300823/'
 spotify_data:
   followers: 6881
   id: 69MACpHHQg9ovd1retYWPq
   popularity: 26
-  url: https://open.spotify.com/artist/69MACpHHQg9ovd1retYWPq
+  url: 'https://open.spotify.com/artist/69MACpHHQg9ovd1retYWPq'
 status: active
 title: Chicago Farmer
+origin: 'Chicago, Illinois, United States'
+artist_type: person
 ---
 
 ![](chicago_farmer.jpg)

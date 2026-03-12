@@ -3,14 +3,14 @@ title: Turk Murphy
 wiki_slug: turk-murphy
 schema_version: 2
 status: active
-birth_place: Palermo, California, United States
+birth_place: 'Palermo, California, United States'
 genres:
-- ragtime
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/turk_murphy.jpg
   caption: Turk Murphy
   background: solo_singer
-  origin: Palermo, California, United States
+  origin: 'Palermo, California, United States'
 audio_profile:
   tempo_avg: 134.4
   energy_avg: 0.397
@@ -26,50 +26,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bunk Johnson
-  - Wally Rose
-  - Bob Helm
-  - Pete Clute
-  - Bud Luckey
+    - Bunk Johnson
+    - Wally Rose
+    - Bob Helm
+    - Pete Clute
+    - Bud Luckey
   influenced:
-  - Robert Schulz
-  - Leon Oakley
-  - Pat Yankee
+    - Robert Schulz
+    - Leon Oakley
+    - Pat Yankee
   mentors:
-  - Lu Watters
+    - Lu Watters
 spotify_data:
   followers: 2416
   id: 4h2o94HOvvR0FMjxpfvsDM
   popularity: 14
-  url: https://open.spotify.com/artist/4h2o94HOvvR0FMjxpfvsDM
+  url: 'https://open.spotify.com/artist/4h2o94HOvvR0FMjxpfvsDM'
 discography_enriched: true
 top_tracks:
-- By and By (Favorites)
-- When My Sugar Walks Down The Street (Favorites)
-- 'The Maple Leaf Rag (Atlantic Jazz: New Orleans)'
-- This Train (Oz Turk Plus!)
-- Shake That Thing (Turk Murphy's Jazz Band Favorites (Vol. 2))
-- St. James Infirmary - Live At The Newport Jazz Festival, 1957
-- Kansas City Man Blues
-- Kansas City Man Blues (New Orleans Stomp)
-- 'Moritat vom Mackie Messer from Die Dreigroschenoper (Lotte Lenya: American Theater Songs)'
-- Temptation Blues (Oz Turk Plus!)
+  - By and By (Favorites)
+  - When My Sugar Walks Down The Street (Favorites)
+  - 'The Maple Leaf Rag (Atlantic Jazz: New Orleans)'
+  - This Train (Oz Turk Plus!)
+  - Shake That Thing (Turk Murphy's Jazz Band Favorites (Vol. 2))
+  - 'St. James Infirmary - Live At The Newport Jazz Festival, 1957'
+  - Kansas City Man Blues
+  - Kansas City Man Blues (New Orleans Stomp)
+  - >-
+    Moritat vom Mackie Messer from Die Dreigroschenoper (Lotte Lenya: American
+    Theater Songs)
+  - Temptation Blues (Oz Turk Plus!)
 external_urls:
-  spotify: https://open.spotify.com/artist/4h2o94HOvvR0FMjxpfvsDM
-  wikipedia: https://en.wikipedia.org/wiki/Turk_Murphy
+  spotify: 'https://open.spotify.com/artist/4h2o94HOvvR0FMjxpfvsDM'
+  wikipedia: 'https://en.wikipedia.org/wiki/Turk_Murphy'
 image_path: 03_Resources/source_material/ArtistPortraits/turk_murphy.jpg
 biography_enhanced_at: '2025-11-02T07:24:18.044335'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Turk_Murphy
-- https://cypresslawnheritagefoundation.org/melvin-turk-murphy/
-- https://www.encyclopedia.com/arts/dictionaries-thesauruses-pictures-and-press-releases/murphy-turk-melvin-edward-alton
-- https://syncopatedtimes.com/turk-murphy-wild-man-blues-euphonic-sounds/
-- https://www.jazzology.com/jazzbeat.php?id=40
+  - 'https://en.wikipedia.org/wiki/Turk_Murphy'
+  - 'https://cypresslawnheritagefoundation.org/melvin-turk-murphy/'
+  - >-
+    https://www.encyclopedia.com/arts/dictionaries-thesauruses-pictures-and-press-releases/murphy-turk-melvin-edward-alton
+  - 'https://syncopatedtimes.com/turk-murphy-wild-man-blues-euphonic-sounds/'
+  - 'https://www.jazzology.com/jazzbeat.php?id=40'
 network_extracted: true
 entry_created: '2025-11-02T07:24:18.044346'
 last_updated: '2025-12-23T08:16:17.740403'
+artist_type: person
 ---
 
 ![](turk_murphy.jpg)

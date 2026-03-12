@@ -3,35 +3,38 @@ biography_enhanced_at: '2026-01-06T02:10:52.401144'
 enhancement_provider: perplexity
 entry_created: '2026-01-06T02:10:52.401149'
 external_urls:
-  spotify: https://open.spotify.com/artist/4zpVJY5AEUCYBh8K9aIWJn
+  spotify: 'https://open.spotify.com/artist/4zpVJY5AEUCYBh8K9aIWJn'
   wikipedia: ''
 genres:
-- funk gospel
+  - funk gospel
 image_path: 03_Resources/source_material/ArtistPortraits/el_fields_gospel_wonders.jpg
 last_updated: '2026-01-06T02:10:52.401149'
 musical_connections:
   collaborators:
-  - Sharon Jones
+    - Sharon Jones
   influenced: []
   mentors: []
 network_extracted: true
-origin: New York City, New York, USA
+origin: 'New York City, New York, USA'
 primary_source: perplexity
 research_sources:
-- https://shopdaptonerecords.com/products/heaven-bound-key-to-the-kingdom
-- https://thelisteningpostblog.wordpress.com/2019/11/22/song-of-the-day-sharon-jones-with-e-l-fields-gospel-wonders-heaven-bound/
-- https://en.wikipedia.org/wiki/Sharon_Jones
-- https://en.wikipedia.org/wiki/Soul_of_a_Woman_(Sharon_Jones_&_the_Dap-Kings_album)
-- https://www.spreaker.com/podcast/gospel-blues--5898641
-- https://www.youtube.com/watch?v=yu-Cvfh946E
-- https://open.spotify.com/track/2XHiSIytJ4hKscCeRuwLhH
+  - 'https://shopdaptonerecords.com/products/heaven-bound-key-to-the-kingdom'
+  - >-
+    https://thelisteningpostblog.wordpress.com/2019/11/22/song-of-the-day-sharon-jones-with-e-l-fields-gospel-wonders-heaven-bound/
+  - 'https://en.wikipedia.org/wiki/Sharon_Jones'
+  - >-
+    https://en.wikipedia.org/wiki/Soul_of_a_Woman_(Sharon_Jones_&_the_Dap-Kings_album)
+  - 'https://www.spreaker.com/podcast/gospel-blues--5898641'
+  - 'https://www.youtube.com/watch?v=yu-Cvfh946E'
+  - 'https://open.spotify.com/track/2XHiSIytJ4hKscCeRuwLhH'
 spotify_data:
   followers: 264
   id: 4zpVJY5AEUCYBh8K9aIWJn
   popularity: 12
-  url: https://open.spotify.com/artist/4zpVJY5AEUCYBh8K9aIWJn
+  url: 'https://open.spotify.com/artist/4zpVJY5AEUCYBh8K9aIWJn'
 status: active
 title: El Fields Gospel Wonders
+artist_type: band
 ---
 
 ![](el_fields_gospel_wonders.jpg)

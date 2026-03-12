@@ -4,7 +4,7 @@ wiki_slug: brubeck-brothers-quartet
 schema_version: 2
 status: active
 genres:
-- jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/brubeck_brothers_quartet.jpg
   caption: Brubeck Brothers Quartet
@@ -24,46 +24,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mike DeMicco
-  - Chuck Lamb
-  - Darius Brubeck
-  - Andy LaVerne
+    - Mike DeMicco
+    - Chuck Lamb
+    - Darius Brubeck
+    - Andy LaVerne
   influenced: []
   mentors:
-  - Dave Brubeck
+    - Dave Brubeck
 spotify_data:
   followers: 822
   id: 6kE9CtIGD8SKTmO32P7WF5
   popularity: 7
-  url: https://open.spotify.com/artist/6kE9CtIGD8SKTmO32P7WF5
+  url: 'https://open.spotify.com/artist/6kE9CtIGD8SKTmO32P7WF5'
 discography_enriched: true
 top_tracks:
-- 'Forty Days (The Voice of Brubeck, Vol. 1: Song of Hope and Peace)'
-- 'It’s a Raggy Waltz (The Voice of Brubeck, Vol. 1: Song of Hope and Peace)'
-- 'Take Five (The Voice of Brubeck, Vol. 1: Song of Hope and Peace)'
-- 'Weep No More (The Voice of Brubeck, Vol. 1: Song of Hope and Peace)'
-- 'Blue Rondo à la Turk (The Voice of Brubeck, Vol. 1: Song of Hope and Peace)'
-- 'Autumn In Our Town (The Voice of Brubeck, Vol. 1: Song of Hope and Peace)'
-- Take Five (Lifetimes)
-- Dance of the Shadows (Classified)
-- Blue Rondo a La Turk (Timeline)
-- The Duke (Lifetimes)
+  - 'Forty Days (The Voice of Brubeck, Vol. 1: Song of Hope and Peace)'
+  - 'It’s a Raggy Waltz (The Voice of Brubeck, Vol. 1: Song of Hope and Peace)'
+  - 'Take Five (The Voice of Brubeck, Vol. 1: Song of Hope and Peace)'
+  - 'Weep No More (The Voice of Brubeck, Vol. 1: Song of Hope and Peace)'
+  - 'Blue Rondo à la Turk (The Voice of Brubeck, Vol. 1: Song of Hope and Peace)'
+  - 'Autumn In Our Town (The Voice of Brubeck, Vol. 1: Song of Hope and Peace)'
+  - Take Five (Lifetimes)
+  - Dance of the Shadows (Classified)
+  - Blue Rondo a La Turk (Timeline)
+  - The Duke (Lifetimes)
 external_urls:
-  spotify: https://open.spotify.com/artist/6kE9CtIGD8SKTmO32P7WF5
-  wikipedia: https://en.wikipedia.org/wiki/Chris_Brubeck
+  spotify: 'https://open.spotify.com/artist/6kE9CtIGD8SKTmO32P7WF5'
+  wikipedia: 'https://en.wikipedia.org/wiki/Chris_Brubeck'
 image_path: 03_Resources/source_material/ArtistPortraits/brubeck_brothers_quartet.jpg
 biography_enhanced_at: '2025-12-20T01:11:28.841709'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.brubeckbrothers.com/
-- https://www.arshtcenter.org/press-room/current-press-releases/press-releases/jazz-roots-brubeck-brothers-quartet/
-- https://www.allaboutjazz.com/musicians/brubeck-brothers-quartet/
-- https://en.wikipedia.org/wiki/Chris_Brubeck
+  - 'https://www.brubeckbrothers.com/'
+  - >-
+    https://www.arshtcenter.org/press-room/current-press-releases/press-releases/jazz-roots-brubeck-brothers-quartet/
+  - 'https://www.allaboutjazz.com/musicians/brubeck-brothers-quartet/'
+  - 'https://en.wikipedia.org/wiki/Chris_Brubeck'
 network_extracted: true
 entry_created: '2025-12-20T01:11:28.841714'
 last_updated: '2025-12-23T08:16:06.129956'
-origin: California, USA (family origin)
+origin: 'California, USA (family origin)'
+artist_type: band
 ---
 
 ![](brubeck_brothers_quartet.jpg)

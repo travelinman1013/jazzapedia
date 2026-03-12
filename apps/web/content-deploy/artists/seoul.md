@@ -2,7 +2,7 @@
 title: Seoul
 wiki_slug: seoul
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres: []
 infobox:
@@ -15,7 +15,7 @@ audio_profile:
   valence_avg: 0.638
   danceability_avg: 0.653
   acousticness_avg: 0.245
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -6.6
   speechiness_avg: 0.091
   liveness_avg: 0.226
@@ -30,40 +30,40 @@ spotify_data:
   followers: 1625
   id: 75kbR28nPfcTtxzbzuFpf0
   popularity: 43
-  url: https://open.spotify.com/artist/75kbR28nPfcTtxzbzuFpf0
+  url: 'https://open.spotify.com/artist/75kbR28nPfcTtxzbzuFpf0'
 discography_enriched: true
 top_tracks:
-- Give me your time (Seoulmate)
-- Give me your time (Seoulmate)
-- Spin me (Seoulmate)
-- Get it (Seoulmate)
-- Spin me (Seoulmate)
-- Don't go (Seoulmate)
-- Get it (Seoulmate)
-- Pack it up (Seoulmate)
-- Don't do it (Don't do it (another versions))
-- Pack it up (Seoulmate)
+  - Give me your time (Seoulmate)
+  - Give me your time (Seoulmate)
+  - Spin me (Seoulmate)
+  - Get it (Seoulmate)
+  - Spin me (Seoulmate)
+  - Don't go (Seoulmate)
+  - Get it (Seoulmate)
+  - Pack it up (Seoulmate)
+  - Don't do it (Don't do it (another versions))
+  - Pack it up (Seoulmate)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/beff9192-30e5-4ae3-9e0e-71e44108372d
-  spotify: https://open.spotify.com/artist/75kbR28nPfcTtxzbzuFpf0
+  musicbrainz: 'https://musicbrainz.org/artist/beff9192-30e5-4ae3-9e0e-71e44108372d'
+  spotify: 'https://open.spotify.com/artist/75kbR28nPfcTtxzbzuFpf0'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/seoul.jpg
 biography_enhanced_at: '2025-12-10T05:17:37.083372'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jung_Kook
-- https://www.britannica.com/biography/PSY
-- https://college.berklee.edu/berklees-korean-legacy
+  - 'https://en.wikipedia.org/wiki/Jung_Kook'
+  - 'https://www.britannica.com/biography/PSY'
+  - 'https://college.berklee.edu/berklees-korean-legacy'
 network_extracted: true
 entry_created: '2025-12-10T05:17:37.083381'
 last_updated: '2025-12-23T08:16:15.476916'
 musicbrainz_id: beff9192-30e5-4ae3-9e0e-71e44108372d
-origin: Seoul, South Korea
+origin: 'Seoul, South Korea'
 tags:
-- alternative
-- electronic
-- seoul
+  - alternative
+  - electronic
+  - seoul
 ---
 
 ![](seoul.jpg)

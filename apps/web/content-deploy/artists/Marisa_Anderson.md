@@ -2,16 +2,16 @@
 title: Marisa Anderson
 wiki_slug: marisa-anderson
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
-birth_place: Portland, Oregon, United States
+birth_place: 'Portland, Oregon, United States'
 genres:
-- ambient folk
+  - ambient folk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Marisa_Anderson.jpg
   caption: Marisa Anderson
   background: solo_singer
-  origin: Portland, Oregon, United States
+  origin: 'Portland, Oregon, United States'
 audio_profile:
   tempo_avg: 114.2
   energy_avg: 0.245
@@ -27,47 +27,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jim White
-  - William Tyler
-  - Charlie Parr
-  - Myriam Gendron
-  - Big|Brave
-  - Matmos, Tara Jane O’Neil, Beth Ditto, Sharon Van Etten, Circuit Des Yeux
-  - Dolly Ranchers, Evolutionary Jass Band
+    - Jim White
+    - William Tyler
+    - Charlie Parr
+    - Myriam Gendron
+    - Big|Brave
+    - 'Matmos, Tara Jane O’Neil, Beth Ditto, Sharon Van Etten, Circuit Des Yeux'
+    - 'Dolly Ranchers, Evolutionary Jass Band'
   influenced:
-  - Mdou Moctar
+    - Mdou Moctar
   mentors:
-  - Elizabeth Cotten
+    - Elizabeth Cotten
 spotify_data:
   followers: 28678
   id: 5j2d5CS0sh2LTpFsrKAFcW
   popularity: 34
-  url: https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW
+  url: 'https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW'
 discography_enriched: true
 top_tracks:
-- Into the Light (Into the Light)
-- Hesitation Theme and Variation Blues (Mercury)
-- Cloud Corner (Cloud Corner)
-- He is Without His Guns (Into the Light)
-- Deep Gap (Mercury)
-- News About Heaven (Lost Futures)
-- In Waves (Into the Light)
-- Lost Futures (Lost Futures)
-- Mesquite Shade (Mercury)
-- You'd Be So Nice to Come Home To
+  - Into the Light (Into the Light)
+  - Hesitation Theme and Variation Blues (Mercury)
+  - Cloud Corner (Cloud Corner)
+  - He is Without His Guns (Into the Light)
+  - Deep Gap (Mercury)
+  - News About Heaven (Lost Futures)
+  - In Waves (Into the Light)
+  - Lost Futures (Lost Futures)
+  - Mesquite Shade (Mercury)
+  - You'd Be So Nice to Come Home To
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/88ad4c96-34e9-4fab-9e36-62739ad42048
-  spotify: https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW
-  wikipedia: https://en.wikipedia.org/wiki/Marisa_Anderson
+  musicbrainz: 'https://musicbrainz.org/artist/88ad4c96-34e9-4fab-9e36-62739ad42048'
+  spotify: 'https://open.spotify.com/artist/5j2d5CS0sh2LTpFsrKAFcW'
+  wikipedia: 'https://en.wikipedia.org/wiki/Marisa_Anderson'
 image_path: 03_Resources/source_material/ArtistPortraits/Marisa_Anderson.jpg
 biography_enhanced_at: '2025-10-19T12:02:19.881389'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.marisaandersonmusic.com/home
-- https://first-avenue.com/performer/marisa-anderson/
-- https://www.ballroommarfa.org/program/marisa-anderson/
-- https://nelsonvillefest.org/artist/marisa-anderson/
+  - 'https://www.marisaandersonmusic.com/home'
+  - 'https://first-avenue.com/performer/marisa-anderson/'
+  - 'https://www.ballroommarfa.org/program/marisa-anderson/'
+  - 'https://nelsonvillefest.org/artist/marisa-anderson/'
 network_extracted: true
 entry_created: '2025-10-19T12:02:19.881398'
 last_updated: '2025-12-23T08:16:03.186947'
@@ -76,9 +76,10 @@ gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:36:58.551272'
 musicbrainz_id: 88ad4c96-34e9-4fab-9e36-62739ad42048
 tags:
-- americana lofi modern
-- cinematic
-- experimental
+  - americana lofi modern
+  - cinematic
+  - experimental
+origin: 'Portland, Oregon, United States'
 ---
 
 ![](Marisa_Anderson.jpg)

@@ -4,10 +4,11 @@ wiki_slug: javier-reds-imagery-converter
 schema_version: 2
 status: active
 genres:
-- free jazz
-- avant-garde
+  - free jazz
+  - avant-garde
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/Javier_Reds_Imagery_Converter.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/Javier_Reds_Imagery_Converter.jpg
   caption: Javier Red's Imagery Converter
   background: solo_singer
 audio_profile:
@@ -25,53 +26,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Gustavo Cortiñas
-  - Jake Wark
-  - Ben Dillinger
+    - Gustavo Cortiñas
+    - Jake Wark
+    - Ben Dillinger
   influenced: []
   mentors:
-  - John Taylor
-  - Bill Carrothers
-  - Steve Coleman
+    - John Taylor
+    - Bill Carrothers
+    - Steve Coleman
 spotify_data:
   followers: 99
   id: 0WMVN2RSNFk8QVDo9l2MMv
   popularity: 0
-  url: https://open.spotify.com/artist/0WMVN2RSNFk8QVDo9l2MMv
+  url: 'https://open.spotify.com/artist/0WMVN2RSNFk8QVDo9l2MMv'
 discography_enriched: true
 top_tracks:
-- Thoughts Unable to be contained (Life & Umbrella)
-- The Happiness of Hope (Life & Umbrella)
-- Imaginary Friend (Life & Umbrella)
-- Brain Checking (Life & Umbrella)
-- Umbrella (Life & Umbrella)
-- Resilience Cycle (Life & Umbrella)
-- This Is What They Found (Life & Umbrella)
-- Life (Life & Umbrella)
-- Interior world (Life & Umbrella)
-- Different Tempos (Life & Umbrella)
+  - Thoughts Unable to be contained (Life & Umbrella)
+  - The Happiness of Hope (Life & Umbrella)
+  - Imaginary Friend (Life & Umbrella)
+  - Brain Checking (Life & Umbrella)
+  - Umbrella (Life & Umbrella)
+  - Resilience Cycle (Life & Umbrella)
+  - This Is What They Found (Life & Umbrella)
+  - Life (Life & Umbrella)
+  - Interior world (Life & Umbrella)
+  - Different Tempos (Life & Umbrella)
 external_urls:
-  spotify: https://open.spotify.com/artist/0WMVN2RSNFk8QVDo9l2MMv
+  spotify: 'https://open.spotify.com/artist/0WMVN2RSNFk8QVDo9l2MMv'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/Javier_Reds_Imagery_Converter.jpg
 biography_enhanced_at: '2025-10-19T11:24:53.816630'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://johnchacona.com/javier-reds-imagery-converted-illustrates-life-under-the-umbrella/
-- https://allaboutjazz.com/life-and-umbrella-self-produced
-- https://delmark.com/events/javier-reds-imagery-converter-constellation-chicago-804/
-- https://ilpresenters.org/javier-reds-imagery-converter/
-- https://bluestemjazz.org/2022/11/30/javier-reds-imagery-converter/
-- https://javierredmusic.com
-- https://allaboutjazz.com/musicians/javier-red/
-- https://lydialiebman.com/index.php/project/javier-reds-imagery-converter/
-- https://takeeffectreviews.com/november-2023-4/2023/11/21/javier-reds-imagery-converter
-- http://arlettehovinga.com/portfolios/javier-reds-imagery-converter-eu-release-pr/
+  - >-
+    https://johnchacona.com/javier-reds-imagery-converted-illustrates-life-under-the-umbrella/
+  - 'https://allaboutjazz.com/life-and-umbrella-self-produced'
+  - >-
+    https://delmark.com/events/javier-reds-imagery-converter-constellation-chicago-804/
+  - 'https://ilpresenters.org/javier-reds-imagery-converter/'
+  - 'https://bluestemjazz.org/2022/11/30/javier-reds-imagery-converter/'
+  - 'https://javierredmusic.com'
+  - 'https://allaboutjazz.com/musicians/javier-red/'
+  - 'https://lydialiebman.com/index.php/project/javier-reds-imagery-converter/'
+  - >-
+    https://takeeffectreviews.com/november-2023-4/2023/11/21/javier-reds-imagery-converter
+  - >-
+    http://arlettehovinga.com/portfolios/javier-reds-imagery-converter-eu-release-pr/
 network_extracted: true
 entry_created: '2025-10-19T11:24:53.816640'
 last_updated: '2025-12-23T08:16:02.483784'
-origin: Mexico City, Mexico
+origin: 'Mexico City, Mexico'
+artist_type: person
 ---
 
 ![](Javier_Reds_Imagery_Converter.jpg)

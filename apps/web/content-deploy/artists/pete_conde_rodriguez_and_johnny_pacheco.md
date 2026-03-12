@@ -3,38 +3,48 @@ biography_enhanced_at: '2026-01-18T07:46:36.686406'
 enhancement_provider: perplexity
 entry_created: '2026-01-18T07:46:36.686413'
 external_urls:
-  spotify: https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa
-  wikipedia: https://en.wikipedia.org/wiki/Pete_%22El_Conde%22_Rodríguez
+  spotify: 'https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa'
+  wikipedia: 'https://en.wikipedia.org/wiki/Pete_%22El_Conde%22_Rodríguez'
 genres:
-- salsa
-- son cubano
-- bolero
-- latin jazz
-image_path: 03_Resources/source_material/ArtistPortraits/pete_conde_rodriguez_and_johnny_pacheco.jpg
+  - salsa
+  - son cubano
+  - bolero
+  - latin jazz
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/pete_conde_rodriguez_and_johnny_pacheco.jpg
 last_updated: '2026-01-18T07:46:36.686413'
 musical_connections:
   collaborators:
-  - Johnny Pacheco
-  - Fania All-Stars
-  - Celia Cruz
+    - Johnny Pacheco
+    - Fania All-Stars
+    - Celia Cruz
   influenced: []
   mentors:
-  - Johnny Pacheco
+    - Johnny Pacheco
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Pete_%22El_Conde%22_Rodríguez
-- https://fania.com/artist/pete-el-conde-rodriguez/
-- https://en.wikipedia.org/wiki/Johnny_Pacheco
-- https://www.latinolife.co.uk/articles/essence-salsa-aristocracy-why-we-love-pete-el-conde-rodriguez
-- https://latinomusiccafe.com/2009/11/18/johnny-pacheco-50-years-making-latin-music-history/
+  - 'https://en.wikipedia.org/wiki/Pete_%22El_Conde%22_Rodríguez'
+  - 'https://fania.com/artist/pete-el-conde-rodriguez/'
+  - 'https://en.wikipedia.org/wiki/Johnny_Pacheco'
+  - >-
+    https://www.latinolife.co.uk/articles/essence-salsa-aristocracy-why-we-love-pete-el-conde-rodriguez
+  - >-
+    https://latinomusiccafe.com/2009/11/18/johnny-pacheco-50-years-making-latin-music-history/
 spotify_data:
   followers: 129738
   id: 1Nl2RRbigQuX1TqV1tSPHa
   popularity: 43
-  url: https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa
+  url: 'https://open.spotify.com/artist/1Nl2RRbigQuX1TqV1tSPHa'
 status: active
 title: Pete Conde Rodriguez & Johnny Pacheco
+birth_place: 'Barrio Cantera, Ponce, Puerto Rico'
+origin: >-
+  Ponce, Puerto Rico (Pete "El Conde" Rodríguez birthplace); New York, USA
+  (primary career base); Dominican Republic (Johnny Pacheco origin)
+birth_date: '1933-01-31'
+death_date: '2000-12-01'
+artist_type: person
 ---
 
 ![](pete_conde_rodriguez_and_johnny_pacheco.jpg)

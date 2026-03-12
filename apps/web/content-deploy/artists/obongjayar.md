@@ -5,11 +5,11 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1989-10-16'
-birth_place: Calabar
+birth_place: 'Calabar, Cross River State, Nigeria'
 genres:
-- alté
+  - alté
 instruments:
-- lead vocals
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/obongjayar.jpg
   caption: Obongjayar
@@ -31,55 +31,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Little Simz
-  - Sarz
-  - Fred Again
-  - Danny Brown
-  - Barney Lister
+    - Little Simz
+    - Sarz
+    - Fred Again
+    - Danny Brown
+    - Barney Lister
   influenced:
-  - Alté Movement Artists
+    - Alté Movement Artists
   mentors:
-  - Richard Russell
+    - Richard Russell
 spotify_data:
   followers: 144249
   id: 6l7R1jntPahGxwJt7Tky8h
   popularity: 59
-  url: https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h
+  url: 'https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h'
 discography_enriched: true
 top_tracks:
-- adore u
-- adore u (ten days)
-- Flood
-- Point and Kill (Sometimes I Might Be Introvert)
-- Holy Mountain (Paradise Now)
-- Just My Luck
-- Not In Surrender
-- Talk Olympics (Paradise Now)
-- Protein (Universal Credit)
-- I Wish It Was Me (Some Nights I Dream of Doors)
+  - adore u
+  - adore u (ten days)
+  - Flood
+  - Point and Kill (Sometimes I Might Be Introvert)
+  - Holy Mountain (Paradise Now)
+  - Just My Luck
+  - Not In Surrender
+  - Talk Olympics (Paradise Now)
+  - Protein (Universal Credit)
+  - I Wish It Was Me (Some Nights I Dream of Doors)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9fef8897-8e04-455c-9ac4-cb4c0f855dc5
-  spotify: https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h
-  wikipedia: https://en.wikipedia.org/wiki/Obongjayar
+  musicbrainz: 'https://musicbrainz.org/artist/9fef8897-8e04-455c-9ac4-cb4c0f855dc5'
+  spotify: 'https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h'
+  wikipedia: 'https://en.wikipedia.org/wiki/Obongjayar'
 image_path: 03_Resources/source_material/ArtistPortraits/obongjayar.jpg
 biography_enhanced_at: '2025-11-05T12:47:48.349966'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Obongjayar
-- https://wfuv.org/content/obongjayar-juneteenth
-- https://www.anothermag.com/design-living/16409/50-questions-with-obongjayar-musician-interview
-- https://mejimeji.co/blogs/post/meet-obongjayar-the-nigerian-artiste-who-dreams-of-doors
-- https://notion.online/obongjayar/
+  - 'https://en.wikipedia.org/wiki/Obongjayar'
+  - 'https://wfuv.org/content/obongjayar-juneteenth'
+  - >-
+    https://www.anothermag.com/design-living/16409/50-questions-with-obongjayar-musician-interview
+  - >-
+    https://mejimeji.co/blogs/post/meet-obongjayar-the-nigerian-artiste-who-dreams-of-doors
+  - 'https://notion.online/obongjayar/'
 network_extracted: true
 entry_created: '2025-11-05T12:47:48.349981'
 last_updated: '2025-12-23T08:16:13.680632'
 gender: Male
 musicbrainz_id: 9fef8897-8e04-455c-9ac4-cb4c0f855dc5
 tags:
-- afrobeat
-- afrobeats
-- alternative
+  - afrobeat
+  - afrobeats
+  - alternative
+origin: 'London, England, United Kingdom'
 ---
 
 ![](obongjayar.jpg)

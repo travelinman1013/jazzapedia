@@ -1,155 +1,155 @@
 ---
-title: HANK JONES
+title: Hank Jones
 wiki_slug: hank-jones
 schema_version: 2
-artist_type: person
+artist_type: band
 status: active
 birth_date: '1918-07-31'
-birth_place: Vicksburg
+birth_place: 'Vicksburg, Mississippi, United States'
 death_date: '2010-05-16'
 genres:
-- jazz
-- bebop
-- cool jazz
-- hard bop
+  - jazz
+  - bebop
+  - cool jazz
+  - hard bop
 instruments:
-- original
-- piano
-- eponymous
-- celesta
-- organ
-- piano accordion
-- electric piano
-- grand piano
-associated_acts:
-- begin: '1976'
-  end: '2010'
-  instruments:
   - original
   - piano
-  mbid: dd6af85b-f886-43ff-aab0-65a24cff7c14
-  name: The Great Jazz Trio
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  - piano
-  mbid: 12b89948-0f57-434a-b74b-b2932c718ca8
-  name: Hank Jones Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d97076f9-eb37-425b-aae1-752d975fe0df
-  name: Gene Krupa Trio
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
-  - original
-  - piano
-  mbid: 022b6ea0-7405-43a6-8ad3-3b07b1660025
-  name: Hank Jones Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e4bf9581-c082-4cc6-b9bd-dd2efc3f6169
-  name: Clark Terry-Bob Brookmeyer Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: 3e21f337-93ff-4b73-87d2-7aff4aa1e6d6
-  name: Kenny Dorham Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: 5cf52b06-ac66-4750-9ed5-36da3b818065
-  name: Joe Newman Septet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bbc5c737-d52b-403c-b301-adce42f3c9d8
-  name: Johnny Richards and His Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7c82ebd7-87ce-4b19-bace-abf95aa1749a
-  name: The Trio
-- begin: ''
-  end: ''
-  instruments:
   - celesta
-  mbid: e4aaec37-a291-410d-93e4-2c11d01f89cd
-  name: Ray Nance Sextet
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: e4aaec37-a291-410d-93e4-2c11d01f89cd
-  name: Ray Nance Sextet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 60da301a-ad75-45be-9140-b3c4a91e47b2
-  name: Flip Phillips and His Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - piano
-  mbid: 79978b32-a9db-403d-9f98-4afec91e992e
-  name: Hank Jones Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: a54fe88c-574b-4b15-af99-a2efa380b2a3
-  name: Meredith d'Ambrosio, Hank Jones Duo
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 430dfeae-b5d7-4d36-a8a2-e9f0a8f025be
-  name: Charlie Parker Quartet
-- begin: ''
-  end: ''
-  instruments:
   - organ
-  mbid: c8752321-1a22-4616-9334-25aa3bf6a86f
-  name: The Jones Brothers
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: c8752321-1a22-4616-9334-25aa3bf6a86f
-  name: The Jones Brothers
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: 68cd28a9-e2ed-4acf-9270-e90da984e604
-  name: Thad Jones Septet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 74f67fe2-83de-46d2-bdf8-6176acbacc13
-  name: Roland Kirk Sextet
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: e188b940-749a-47da-b863-d008e7130487
-  name: The Gigi Gryce-Donald Byrd Jazz Laboratory
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3cadd26d-2a6d-4cd2-b745-0653b1455925
-  name: The Buddy Rich Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c0a4a623-724a-4b1a-8e96-0eff607968d2
-  name: Billy Byers & His Orchestra
+  - piano accordion
+  - electric piano
+  - grand piano
+associated_acts:
+  - begin: '1976'
+    end: '2010'
+    instruments:
+      - original
+      - piano
+    mbid: dd6af85b-f886-43ff-aab0-65a24cff7c14
+    name: The Great Jazz Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - piano
+    mbid: 12b89948-0f57-434a-b74b-b2932c718ca8
+    name: Hank Jones Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d97076f9-eb37-425b-aae1-752d975fe0df
+    name: Gene Krupa Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - piano
+    mbid: 022b6ea0-7405-43a6-8ad3-3b07b1660025
+    name: Hank Jones Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e4bf9581-c082-4cc6-b9bd-dd2efc3f6169
+    name: Clark Terry-Bob Brookmeyer Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: 3e21f337-93ff-4b73-87d2-7aff4aa1e6d6
+    name: Kenny Dorham Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: 5cf52b06-ac66-4750-9ed5-36da3b818065
+    name: Joe Newman Septet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bbc5c737-d52b-403c-b301-adce42f3c9d8
+    name: Johnny Richards and His Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7c82ebd7-87ce-4b19-bace-abf95aa1749a
+    name: The Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - celesta
+    mbid: e4aaec37-a291-410d-93e4-2c11d01f89cd
+    name: Ray Nance Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: e4aaec37-a291-410d-93e4-2c11d01f89cd
+    name: Ray Nance Sextet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 60da301a-ad75-45be-9140-b3c4a91e47b2
+    name: Flip Phillips and His Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - piano
+    mbid: 79978b32-a9db-403d-9f98-4afec91e992e
+    name: Hank Jones Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: a54fe88c-574b-4b15-af99-a2efa380b2a3
+    name: 'Meredith d''Ambrosio, Hank Jones Duo'
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 430dfeae-b5d7-4d36-a8a2-e9f0a8f025be
+    name: Charlie Parker Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - organ
+    mbid: c8752321-1a22-4616-9334-25aa3bf6a86f
+    name: The Jones Brothers
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: c8752321-1a22-4616-9334-25aa3bf6a86f
+    name: The Jones Brothers
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: 68cd28a9-e2ed-4acf-9270-e90da984e604
+    name: Thad Jones Septet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 74f67fe2-83de-46d2-bdf8-6176acbacc13
+    name: Roland Kirk Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: e188b940-749a-47da-b863-d008e7130487
+    name: The Gigi Gryce-Donald Byrd Jazz Laboratory
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3cadd26d-2a6d-4cd2-b745-0653b1455925
+    name: The Buddy Rich Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c0a4a623-724a-4b1a-8e96-0eff607968d2
+    name: Billy Byers & His Orchestra
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/hank_jones.jpg
   caption: HANK JONES
@@ -172,48 +172,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ella Fitzgerald
-  - Charlie Parker
-  - Miles Davis
-  - The Great Jazz Trio (Ron Carter, Tony Williams, later Buster Williams, Ben Riley)
-  - Thad Jones & Mel Lewis Orchestra
+    - Ella Fitzgerald
+    - Charlie Parker
+    - Miles Davis
+    - >-
+      The Great Jazz Trio (Ron Carter, Tony Williams, later Buster Williams, Ben
+      Riley)
+    - Thad Jones & Mel Lewis Orchestra
   influenced:
-  - Tommy Flanagan
-  - Brad Mehldau
-  - Generations of jazz pianists
+    - Tommy Flanagan
+    - Brad Mehldau
+    - Generations of jazz pianists
   mentors:
-  - Art Tatum
-  - Earl Hines
-  - Fats Waller
+    - Art Tatum
+    - Earl Hines
+    - Fats Waller
 spotify_data:
   followers: 36392
   id: 0BhFfJmScFj7OzqVaDqnSv
   popularity: 39
-  url: https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv
+  url: 'https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv'
 discography_enriched: true
 top_tracks:
-- Eleanor (West of 5th)
-- My Wish (Here's Love)
-- Come Sunday (Come Sunday)
-- You Are There (You Are There)
-- Going Home (Come Sunday)
-- Summer Knows (Standard Collections Vol. 1)
-- Repetition (So Much Guitar!)
-- On the Street Where You Live (Jonah Jones Masterworks. Muted Jazz / Hit Me Again!)
-- Something Like Bags (So Much Guitar!)
-- The Christmas Song (Christmas Around the Fire)
+  - Eleanor (West of 5th)
+  - My Wish (Here's Love)
+  - Come Sunday (Come Sunday)
+  - You Are There (You Are There)
+  - Going Home (Come Sunday)
+  - Summer Knows (Standard Collections Vol. 1)
+  - Repetition (So Much Guitar!)
+  - >-
+    On the Street Where You Live (Jonah Jones Masterworks. Muted Jazz / Hit Me
+    Again!)
+  - Something Like Bags (So Much Guitar!)
+  - The Christmas Song (Christmas Around the Fire)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/80d610fe-7771-4226-aa9b-950944791698
-  spotify: https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv
-  wikipedia: https://en.wikipedia.org/wiki/Hank_Jones
+  musicbrainz: 'https://musicbrainz.org/artist/80d610fe-7771-4226-aa9b-950944791698'
+  spotify: 'https://open.spotify.com/artist/0BhFfJmScFj7OzqVaDqnSv'
+  wikipedia: 'https://en.wikipedia.org/wiki/Hank_Jones'
 image_path: 03_Resources/source_material/ArtistPortraits/hank_jones.jpg
 biography_enhanced_at: '2025-10-27T02:41:38.212273'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Hank_Jones
-- https://www.arts.gov/honors/jazz/hank-jones
-- https://www.ebsco.com/research-starters/biography/hank-jones
+  - 'https://en.wikipedia.org/wiki/Hank_Jones'
+  - 'https://www.arts.gov/honors/jazz/hank-jones'
+  - 'https://www.ebsco.com/research-starters/biography/hank-jones'
 network_extracted: true
 entry_created: '2025-10-27T02:41:38.212291'
 last_updated: '2025-12-23T08:16:09.470414'
@@ -221,9 +225,11 @@ disambiguation: piano
 gender: Male
 musicbrainz_id: 80d610fe-7771-4226-aa9b-950944791698
 tags:
-- 2008 universal fire victim
-- bebop
-- hard bop
+  - 2008 universal fire victim
+  - bebop
+  - hard bop
+is_active: false
+origin: 'Pontiac, Michigan, United States'
 ---
 
 ![](hank_jones.jpg)

@@ -1,14 +1,14 @@
 ---
-title: Holmes Brothers
+title: The Holmes Brothers
 wiki_slug: holmes-brothers
 schema_version: 2
 status: active
 genres:
-- blues
-- soul blues
-- modern blues
-- retro soul
-- blues rock
+  - blues
+  - soul blues
+  - modern blues
+  - retro soul
+  - blues rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/holmes_brothers.jpg
   caption: Holmes Brothers
@@ -20,7 +20,7 @@ audio_profile:
   danceability_avg: 0.598
   acousticness_avg: 0.502
   instrumentalness_avg: 0.021
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.046
   liveness_avg: 0.164
   track_count: 51
@@ -28,53 +28,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Willie “Popsy” Dixon
-  - Peter Gabriel
-  - Van Morrison
-  - Odetta
-  - Willie Nelson, Rosanne Cash, Levon Helm
-  - Joan Osborne
+    - Willie “Popsy” Dixon
+    - Peter Gabriel
+    - Van Morrison
+    - Odetta
+    - 'Willie Nelson, Rosanne Cash, Levon Helm'
+    - Joan Osborne
   influenced:
-  - Joan Osborne
-  - Members of Blues Traveler
-  - Younger New York blues and roots musicians at Dan Lynch’s
+    - Joan Osborne
+    - Members of Blues Traveler
+    - Younger New York blues and roots musicians at Dan Lynch’s
   mentors:
-  - Church gospel tradition and Baptist hymnody
-  - Blues, country, and R&B recordings they heard growing up
+    - Church gospel tradition and Baptist hymnody
+    - 'Blues, country, and R&B recordings they heard growing up'
 spotify_data:
   followers: 6785
   id: 7Ks9lt2zomYkmOeLv0PbHW
   popularity: 21
-  url: https://open.spotify.com/artist/7Ks9lt2zomYkmOeLv0PbHW
+  url: 'https://open.spotify.com/artist/7Ks9lt2zomYkmOeLv0PbHW'
 discography_enriched: true
 top_tracks:
-- We Meet, We Part, We Remember (Simple Truths)
-- I'm So Lonely (Simple Truths)
-- Beast of Burden
-- (What's So Funny 'Bout) Peace, Love And Understanding (State of Grace)
-- Hey Baby (Simple Truths)
-- Stayed At The Party (Brotherhood)
-- Gasoline Drawers (State of Grace)
-- Everything Is Free (Simple Truths)
-- My Word Is My Bond (Brotherhood)
-- Close The Door (State of Grace)
+  - 'We Meet, We Part, We Remember (Simple Truths)'
+  - I'm So Lonely (Simple Truths)
+  - Beast of Burden
+  - '(What''s So Funny ''Bout) Peace, Love And Understanding (State of Grace)'
+  - Hey Baby (Simple Truths)
+  - Stayed At The Party (Brotherhood)
+  - Gasoline Drawers (State of Grace)
+  - Everything Is Free (Simple Truths)
+  - My Word Is My Bond (Brotherhood)
+  - Close The Door (State of Grace)
 external_urls:
-  spotify: https://open.spotify.com/artist/7Ks9lt2zomYkmOeLv0PbHW
-  wikipedia: https://en.wikipedia.org/wiki/The_Holmes_Brothers
+  spotify: 'https://open.spotify.com/artist/7Ks9lt2zomYkmOeLv0PbHW'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Holmes_Brothers'
 image_path: 03_Resources/source_material/ArtistPortraits/holmes_brothers.jpg
 biography_enhanced_at: '2025-12-06T05:36:22.573321'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- National Endowment for the Arts – The Holmes Brothers (arts.gov)[1]
-- Masters of Traditional Arts – The Holmes Brothers biography[2]
-- Alligator Records – The Holmes Brothers artist biography[4]
-- Real World Records – The Holmes Brothers artist page[5]
-- Blues Access – The Holmes Brothers feature/interview[8]
+  - 'National Endowment for the Arts – The Holmes Brothers (arts.gov)[1]'
+  - 'Masters of Traditional Arts – The Holmes Brothers biography[2]'
+  - 'Alligator Records – The Holmes Brothers artist biography[4]'
+  - 'Real World Records – The Holmes Brothers artist page[5]'
+  - 'Blues Access – The Holmes Brothers feature/interview[8]'
 network_extracted: true
 entry_created: '2025-12-06T05:36:22.573327'
 last_updated: '2025-12-23T08:16:09.648365'
-origin: Christchurch, Virginia, United States
+origin: 'Christchurch, Virginia, United States'
+artist_type: band
 ---
 
 ![](holmes_brothers.jpg)

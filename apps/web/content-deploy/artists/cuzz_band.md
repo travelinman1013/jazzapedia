@@ -3,7 +3,7 @@ biography_enhanced_at: '2025-12-28T02:02:09.605915'
 enhancement_provider: perplexity
 entry_created: '2025-12-28T02:02:09.605930'
 external_urls:
-  spotify: https://open.spotify.com/artist/274PbzhUp1u9epwKoQKfB0
+  spotify: 'https://open.spotify.com/artist/274PbzhUp1u9epwKoQKfB0'
   wikipedia: ''
 genres: []
 image_path: ''
@@ -15,15 +15,16 @@ musical_connections:
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/CUZ_(band)
-- https://en.wikipedia.org/wiki/Dazz_Band
+  - 'https://en.wikipedia.org/wiki/CUZ_(band)'
+  - 'https://en.wikipedia.org/wiki/Dazz_Band'
 spotify_data:
   followers: 29
   id: 274PbzhUp1u9epwKoQKfB0
   popularity: 0
-  url: https://open.spotify.com/artist/274PbzhUp1u9epwKoQKfB0
+  url: 'https://open.spotify.com/artist/274PbzhUp1u9epwKoQKfB0'
 status: active
 title: Cuzz Band
+artist_type: band
 ---
 
 ![]()

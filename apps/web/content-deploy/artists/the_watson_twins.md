@@ -2,13 +2,13 @@
 title: The Watson Twins
 wiki_slug: the-watson-twins
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- alt country
+  - alt country
 instruments:
-- original
-- background vocals
+  - original
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_watson_twins.jpg
   caption: The Watson Twins
@@ -28,65 +28,67 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jenny Lewis
-  - Butch Walker
-  - Russ Pollard
-  - Brian Elmquist
+    - Jenny Lewis
+    - Butch Walker
+    - Russ Pollard
+    - Brian Elmquist
   influenced:
-  - Modern Americana and Indie Folk Artists
+    - Modern Americana and Indie Folk Artists
   mentors:
-  - Gospel and Country Artists
+    - Gospel and Country Artists
 spotify_data:
   followers: 9818
   id: 0XJaZaoMBv3i7FoAr7Slg4
   popularity: 31
-  url: https://open.spotify.com/artist/0XJaZaoMBv3i7FoAr7Slg4
+  url: 'https://open.spotify.com/artist/0XJaZaoMBv3i7FoAr7Slg4'
 discography_enriched: true
 top_tracks:
-- Rise up With Fists!! (Rabbit Fur Coat)
-- You Are What You Love (Rabbit Fur Coat)
-- Handle With Care (Rabbit Fur Coat)
-- Melt Your Heart (Rabbit Fur Coat)
-- The Charging Sky (Rabbit Fur Coat)
-- Just Like Heaven (Fire Songs)
-- The Big Guns (Rabbit Fur Coat)
-- Happy (Rabbit Fur Coat)
-- Rabbit Fur Coat (Rabbit Fur Coat)
-- It Wasn't Me (Rabbit Fur Coat)
+  - Rise up With Fists!! (Rabbit Fur Coat)
+  - You Are What You Love (Rabbit Fur Coat)
+  - Handle With Care (Rabbit Fur Coat)
+  - Melt Your Heart (Rabbit Fur Coat)
+  - The Charging Sky (Rabbit Fur Coat)
+  - Just Like Heaven (Fire Songs)
+  - The Big Guns (Rabbit Fur Coat)
+  - Happy (Rabbit Fur Coat)
+  - Rabbit Fur Coat (Rabbit Fur Coat)
+  - It Wasn't Me (Rabbit Fur Coat)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7f4b5546-a3c3-4e55-ba8d-53bf937fed30
-  spotify: https://open.spotify.com/artist/0XJaZaoMBv3i7FoAr7Slg4
-  wikipedia: https://en.wikipedia.org/wiki/The_Watson_Twins
+  musicbrainz: 'https://musicbrainz.org/artist/7f4b5546-a3c3-4e55-ba8d-53bf937fed30'
+  spotify: 'https://open.spotify.com/artist/0XJaZaoMBv3i7FoAr7Slg4'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Watson_Twins'
 image_path: 03_Resources/source_material/ArtistPortraits/the_watson_twins.jpg
 biography_enhanced_at: '2025-10-24T07:55:23.773061'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Watson_Twins
-- https://www.visitstaugustine.com/musician/watson-twins
-- https://alleyesmedia.com/clients/the-watson-twins/
-- https://www.thewatsontwins.com/about
+  - 'https://en.wikipedia.org/wiki/The_Watson_Twins'
+  - 'https://www.visitstaugustine.com/musician/watson-twins'
+  - 'https://alleyesmedia.com/clients/the-watson-twins/'
+  - 'https://www.thewatsontwins.com/about'
 network_extracted: true
 entry_created: '2025-10-24T07:55:23.773070'
 last_updated: '2025-12-23T08:16:17.276304'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 4f4f3140-8ad5-465b-b0cb-8f44c58f4e4e
-  name: Chandra Watson
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: e83dd4b5-cc31-4844-8cc5-127df2f3c877
-  name: Leigh Watson
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 4f4f3140-8ad5-465b-b0cb-8f44c58f4e4e
+    name: Chandra Watson
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: e83dd4b5-cc31-4844-8cc5-127df2f3c877
+    name: Leigh Watson
 musicbrainz_id: 7f4b5546-a3c3-4e55-ba8d-53bf937fed30
-origin: Louisville
+origin: 'Louisville, Kentucky, United States'
 tags:
-- alternative country
-- indie folk
+  - alternative country
+  - indie folk
+birth_place: 'Tulsa, Oklahoma, United States'
+birth_date: '1975-03-17'
 ---
 
 ![](the_watson_twins.jpg)

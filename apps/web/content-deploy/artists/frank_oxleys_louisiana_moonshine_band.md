@@ -3,36 +3,41 @@ biography_enhanced_at: '2026-01-09T01:52:48.273483'
 enhancement_provider: perplexity
 entry_created: '2026-01-09T01:52:48.273493'
 external_urls:
-  spotify: https://open.spotify.com/artist/1IwXEHhKxdsyKO6yfaLing
+  spotify: 'https://open.spotify.com/artist/1IwXEHhKxdsyKO6yfaLing'
   wikipedia: ''
 genres: []
-image_path: 03_Resources/source_material/ArtistPortraits/frank_oxleys_louisiana_moonshine_band.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/frank_oxleys_louisiana_moonshine_band.jpg
 last_updated: '2026-01-09T01:52:48.273494'
 musical_connections:
   collaborators:
-  - Brian Carrick
-  - Derek Winters
+    - Brian Carrick
+    - Derek Winters
   influenced:
-  - ''
+    - ''
   mentors:
-  - Frank Oxley’s father (name not specified in sources)
+    - Frank Oxley’s father (name not specified in sources)
 network_extracted: true
-origin: New Orleans, Louisiana, United States (musical and stylistic origin as reflected
-  by band name, repertoire focus, label, and New Orleans radio airplay)
+origin: >-
+  New Orleans, Louisiana, United States (musical and stylistic origin as
+  reflected by band name, repertoire focus, label, and New Orleans radio
+  airplay)
 primary_source: perplexity
 research_sources:
-- https://www.winamop.com/mureview5.htm
-- https://www.heritagehallstompers.com/product.php/1804467/
-- https://open.spotify.com/track/0IuO6fd4RRprEl0N2XlxiH
-- https://www.louisianamusicfactory.com/product/frank-oxleys-louisiana-moonshine-band-jazz-in-new-orleans-the-nineties/
-- https://wwoz.org/programs/playlists
+  - 'https://www.winamop.com/mureview5.htm'
+  - 'https://www.heritagehallstompers.com/product.php/1804467/'
+  - 'https://open.spotify.com/track/0IuO6fd4RRprEl0N2XlxiH'
+  - >-
+    https://www.louisianamusicfactory.com/product/frank-oxleys-louisiana-moonshine-band-jazz-in-new-orleans-the-nineties/
+  - 'https://wwoz.org/programs/playlists'
 spotify_data:
   followers: 2
   id: 1IwXEHhKxdsyKO6yfaLing
   popularity: 0
-  url: https://open.spotify.com/artist/1IwXEHhKxdsyKO6yfaLing
+  url: 'https://open.spotify.com/artist/1IwXEHhKxdsyKO6yfaLing'
 status: active
 title: Frank Oxley's Louisiana Moonshine Band
+artist_type: person
 ---
 
 ![](frank_oxleys_louisiana_moonshine_band.jpg)

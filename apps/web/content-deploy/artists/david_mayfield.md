@@ -1,17 +1,17 @@
 ---
-title: DAVID MAYFIELD
+title: David Mayfield
 wiki_slug: david-mayfield
 schema_version: 2
 status: active
-birth_place: Kent, Ohio, United States
+birth_place: 'Kent, Ohio, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/david_mayfield.jpg
   caption: DAVID MAYFIELD
   background: solo_singer
-  origin: Kent, Ohio, United States
+  origin: 'Kent, Ohio, United States'
 audio_profile:
-  tempo_avg: 79.0
+  tempo_avg: 79
   energy_avg: 0.242
   valence_avg: 0.21
   danceability_avg: 0.341
@@ -25,44 +25,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jessica Lea Mayfield
-  - Cadillac Sky
-  - The Avett Brothers
-  - Mumford & Sons
-  - The Black Keys
-  - Alison Brown
+    - Jessica Lea Mayfield
+    - Cadillac Sky
+    - The Avett Brothers
+    - Mumford & Sons
+    - The Black Keys
+    - Alison Brown
   influenced:
-  - Jessica Lea Mayfield
+    - Jessica Lea Mayfield
   mentors:
-  - David & Valerie Mayfield
-  - Bill Monroe (indirect influence)
-  - Randy Newman, Simon & Garfunkel
+    - David & Valerie Mayfield
+    - Bill Monroe (indirect influence)
+    - 'Randy Newman, Simon & Garfunkel'
 spotify_data:
   followers: 0
   id: 1VVtSduviTy0NzQMvZBPWC
   popularity: 0
-  url: https://open.spotify.com/artist/1VVtSduviTy0NzQMvZBPWC
+  url: 'https://open.spotify.com/artist/1VVtSduviTy0NzQMvZBPWC'
 discography_enriched: true
 top_tracks:
-- Firefly's (Transformnations)
+  - Firefly's (Transformnations)
 external_urls:
-  spotify: https://open.spotify.com/artist/1VVtSduviTy0NzQMvZBPWC
+  spotify: 'https://open.spotify.com/artist/1VVtSduviTy0NzQMvZBPWC'
   wikipedia: null
 image_path: ''
 biography_enhanced_at: '2025-11-03T07:38:21.889387'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://bluegrasstoday.com/david-mayfield/
-- https://americansongwriter.com/david-mayfield-parade-full-album-stream-qa/
-- https://www.famousbirthdays.com/people/david-mayfield.html
-- https://purplefiddle.com/bands/david-mayfield-parade/
-- https://www.davidmayfieldparade.com/about
-- https://last.fm/music/The+David+Mayfield+Parade/+wiki
-- https://coolcleveland.com/2024/05/david-mayfield-bluegrass-parade-returns-to-riverdog-barn-2/
+  - 'https://bluegrasstoday.com/david-mayfield/'
+  - 'https://americansongwriter.com/david-mayfield-parade-full-album-stream-qa/'
+  - 'https://www.famousbirthdays.com/people/david-mayfield.html'
+  - 'https://purplefiddle.com/bands/david-mayfield-parade/'
+  - 'https://www.davidmayfieldparade.com/about'
+  - 'https://last.fm/music/The+David+Mayfield+Parade/+wiki'
+  - >-
+    https://coolcleveland.com/2024/05/david-mayfield-bluegrass-parade-returns-to-riverdog-barn-2/
 network_extracted: true
 entry_created: '2025-11-03T07:38:21.889426'
 last_updated: '2025-12-23T08:16:07.568830'
+birth_date: '1983-01-20'
+artist_type: person
 ---
 
 ![]()

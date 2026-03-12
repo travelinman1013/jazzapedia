@@ -1,54 +1,57 @@
 ---
 biography_enhanced_at: '2026-01-19T01:06:24.087974'
-birth_place: Brooklyn, New York, United States
+birth_place: 'Brooklyn, New York, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-19T01:06:24.087980'
 external_urls:
-  spotify: https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W
-  wikipedia: https://en.wikipedia.org/wiki/Big_Daddy_Kane
+  spotify: 'https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W'
+  wikipedia: 'https://en.wikipedia.org/wiki/Big_Daddy_Kane'
 genres:
-- old school hip hop
-- east coast hip hop
-- hardcore hip hop
+  - old school hip hop
+  - east coast hip hop
+  - hardcore hip hop
 image_path: 03_Resources/source_material/ArtistPortraits/big_daddy.jpg
 last_updated: '2026-01-19T01:06:24.087981'
 musical_connections:
   collaborators:
-  - Kool G Rap
-  - Masta Ace
-  - Craig G
-  - Quincy Jones
-  - Public Enemy
-  - Ice Cube
-  - Heavy D
-  - Patti LaBelle
-  - Frankie Cutlass
-  - The Alchemist
-  - DJ Premier
-  - The Game
-  - Busta Rhymes
+    - Kool G Rap
+    - Masta Ace
+    - Craig G
+    - Quincy Jones
+    - Public Enemy
+    - Ice Cube
+    - Heavy D
+    - Patti LaBelle
+    - Frankie Cutlass
+    - The Alchemist
+    - DJ Premier
+    - The Game
+    - Busta Rhymes
   influenced:
-  - Multiple generations of MCs
+    - Multiple generations of MCs
   mentors:
-  - Mister Cee
-  - Marley Marl
-  - Biz Markie
+    - Mister Cee
+    - Marley Marl
+    - Biz Markie
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Big_Daddy_Kane
-- https://www.hiphopscriptures.com/big-daddy-kane
-- http://hiphopgoldenage.com/artists/big-daddy-kane/
-- https://www.jango.com/music/Big+Daddy+Kane
-- https://blackpast.org/african-american-history/big-daddy-kane-antonio-hardy-1968/
-- https://www.officialbigdaddykane.com/biography/
+  - 'https://en.wikipedia.org/wiki/Big_Daddy_Kane'
+  - 'https://www.hiphopscriptures.com/big-daddy-kane'
+  - 'http://hiphopgoldenage.com/artists/big-daddy-kane/'
+  - 'https://www.jango.com/music/Big+Daddy+Kane'
+  - >-
+    https://blackpast.org/african-american-history/big-daddy-kane-antonio-hardy-1968/
+  - 'https://www.officialbigdaddykane.com/biography/'
 spotify_data:
   followers: 587024
   id: 6futYSDVulYR2PktBjTB5W
   popularity: 50
-  url: https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W
+  url: 'https://open.spotify.com/artist/6futYSDVulYR2PktBjTB5W'
 status: active
-title: BIG DADDY
+title: Big Daddy
+birth_date: '1968-09-10'
+artist_type: person
 ---
 
 ![](big_daddy.jpg)

@@ -1,17 +1,17 @@
 ---
-title: harry belafonte
+title: Harry Belafonte
 wiki_slug: harry-belafonte
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1927-03-01'
-birth_place: Harlem
+birth_place: 'Harlem, New York City, United States'
 death_date: '2023-04-25'
 genres:
-- calypso
+  - calypso
 instruments:
-- lead vocals
-- choir vocals
+  - lead vocals
+  - choir vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/harry_belafonte.jpg
   caption: harry belafonte
@@ -34,61 +34,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bob Dylan
-  - Odetta
-  - Miriam Makeba
-  - Nana Mouskouri
+    - Bob Dylan
+    - Odetta
+    - Miriam Makeba
+    - Nana Mouskouri
   influenced:
-  - Miriam Makeba
-  - Artists of 'We Are the World'
-  - Countless folk and calypso musicians
+    - Miriam Makeba
+    - Artists of 'We Are the World'
+    - Countless folk and calypso musicians
   mentors:
-  - Charlie Parker
-  - Library of Congress Folk Song Archives
+    - Charlie Parker
+    - Library of Congress Folk Song Archives
 spotify_data:
   followers: 280604
   id: 6Tw1ktF4xMmzaLLbe98I2z
   popularity: 59
-  url: https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z
+  url: 'https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z'
 discography_enriched: true
 top_tracks:
-- Jump in the Line (Jump Up Calypso)
-- Banana Boat (Day-O) (Calypso)
-- Jamaica Farewell - Remastered (Calypso)
-- Day-O (The Banana Boat Song)
-- Jump in the Line
-- Banana Boat Song
-- Island In The Sun
-- Day-O (The Banana Boat Song)
-- Coconut Woman (Belafonte Sings of The Caribbean)
-- Matilda (Belafonte)
+  - Jump in the Line (Jump Up Calypso)
+  - Banana Boat (Day-O) (Calypso)
+  - Jamaica Farewell - Remastered (Calypso)
+  - Day-O (The Banana Boat Song)
+  - Jump in the Line
+  - Banana Boat Song
+  - Island In The Sun
+  - Day-O (The Banana Boat Song)
+  - Coconut Woman (Belafonte Sings of The Caribbean)
+  - Matilda (Belafonte)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/49c48b7f-1ff1-4f02-a1aa-ca1254b46ef2
-  spotify: https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z
-  wikipedia: https://en.wikipedia.org/wiki/Harry_Belafonte
+  musicbrainz: 'https://musicbrainz.org/artist/49c48b7f-1ff1-4f02-a1aa-ca1254b46ef2'
+  spotify: 'https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z'
+  wikipedia: 'https://en.wikipedia.org/wiki/Harry_Belafonte'
 image_path: 03_Resources/source_material/ArtistPortraits/harry_belafonte.jpg
 biography_enhanced_at: '2025-11-21T07:19:26.314269'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Harry_Belafonte
-- https://www.britannica.com/biography/Harry-Belafonte
-- https://www.biography.com/musicians/harry-belafonte
-- https://nmaahc.si.edu/explore/stories/harry-belafonte-actor-and-activist
-- https://www.edsullivan.com/artists/harry-belafonte
-- https://www.ebsco.com/research-starters/biography/harry-belafonte
-- https://www.loc.gov/static/programs/national-recording-preservation-board/documents/calypso.pdf
-- https://www.thehistorymakers.org/biography/harry-belafonte-39
-- https://www.war.gov/News/Feature-Stories/story/Article/2913091/king-of-calypso-harry-belafonte-was-wwii-sailor/
+  - 'https://en.wikipedia.org/wiki/Harry_Belafonte'
+  - 'https://www.britannica.com/biography/Harry-Belafonte'
+  - 'https://www.biography.com/musicians/harry-belafonte'
+  - 'https://nmaahc.si.edu/explore/stories/harry-belafonte-actor-and-activist'
+  - 'https://www.edsullivan.com/artists/harry-belafonte'
+  - 'https://www.ebsco.com/research-starters/biography/harry-belafonte'
+  - >-
+    https://www.loc.gov/static/programs/national-recording-preservation-board/documents/calypso.pdf
+  - 'https://www.thehistorymakers.org/biography/harry-belafonte-39'
+  - >-
+    https://www.war.gov/News/Feature-Stories/story/Article/2913091/king-of-calypso-harry-belafonte-was-wwii-sailor/
 network_extracted: true
 entry_created: '2025-11-21T07:19:26.314282'
 last_updated: '2025-12-23T08:16:09.512339'
 gender: Male
 musicbrainz_id: 49c48b7f-1ff1-4f02-a1aa-ca1254b46ef2
 tags:
-- calypso
-- contemporary folk
-- folk
+  - calypso
+  - contemporary folk
+  - folk
+is_active: false
 ---
 
 ![](harry_belafonte.jpg)

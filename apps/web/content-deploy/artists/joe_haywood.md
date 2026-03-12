@@ -1,37 +1,40 @@
 ---
 biography_enhanced_at: '2026-01-10T01:05:00.908744'
-birth_place: Spartanburg, South Carolina, United States
+birth_place: 'Spartanburg, South Carolina, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-10T01:05:00.908751'
 external_urls:
-  spotify: https://open.spotify.com/artist/1bZ5cMghT4Qod0EFnJpgYQ
+  spotify: 'https://open.spotify.com/artist/1bZ5cMghT4Qod0EFnJpgYQ'
   wikipedia: ''
 genres:
-- northern soul
+  - northern soul
 image_path: 03_Resources/source_material/ArtistPortraits/joe_haywood.jpg
 last_updated: '2026-01-10T01:05:00.908751'
 musical_connections:
   collaborators:
-  - Percy Sledge
+    - Percy Sledge
   influenced:
-  - Percy Sledge
+    - Percy Sledge
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Joe+Haywood/+wiki
-- https://www.last.fm/music/Joe+Haywood
-- https://www.classic45s.com/collections/joe-haywood
-- https://suerecordsuk.wordpress.com/2011/10/30/joe-haywood-warm-and-tender-love/
-- http://souldetective.blogspot.com/2006/04/case-one-joe-haywood.html
-- http://souldetective.blogspot.com/2012/06/update-project-case-one-joe-haywood.html
+  - 'https://www.last.fm/music/Joe+Haywood/+wiki'
+  - 'https://www.last.fm/music/Joe+Haywood'
+  - 'https://www.classic45s.com/collections/joe-haywood'
+  - >-
+    https://suerecordsuk.wordpress.com/2011/10/30/joe-haywood-warm-and-tender-love/
+  - 'http://souldetective.blogspot.com/2006/04/case-one-joe-haywood.html'
+  - >-
+    http://souldetective.blogspot.com/2012/06/update-project-case-one-joe-haywood.html
 spotify_data:
   followers: 197
   id: 1bZ5cMghT4Qod0EFnJpgYQ
   popularity: 2
-  url: https://open.spotify.com/artist/1bZ5cMghT4Qod0EFnJpgYQ
+  url: 'https://open.spotify.com/artist/1bZ5cMghT4Qod0EFnJpgYQ'
 status: active
-title: JOE HAYWOOD
+title: Joe Haywood
+artist_type: person
 ---
 
 ![](joe_haywood.jpg)

@@ -1,66 +1,70 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4439ad93-4e10-41ea-a7a0-d1390c9bdf30
-  name: The Sunset Blues Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4439ad93-4e10-41ea-a7a0-d1390c9bdf30
+    name: The Sunset Blues Band
 biography_enhanced_at: '2026-01-02T01:26:24.666921'
 birth_date: '1914-12-18'
-birth_place: Rockdale
+birth_place: 'Rockdale, Texas, United States'
 death_date: '1985-06-25'
 enhancement_provider: perplexity
 entry_created: '2026-01-02T01:26:24.666927'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7614119e-f081-436a-b47c-da0f3855ecfc
-  spotify: https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA
-  wikipedia: https://en.wikipedia.org/wiki/Pee_Wee_Crayton
+  musicbrainz: 'https://musicbrainz.org/artist/7614119e-f081-436a-b47c-da0f3855ecfc'
+  spotify: 'https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA'
+  wikipedia: 'https://en.wikipedia.org/wiki/Pee_Wee_Crayton'
 gender: Male
 genres:
-- classic blues
-- blues
+  - classic blues
+  - blues
 image_path: 03_Resources/source_material/ArtistPortraits/pee_wee_crayton.jpg
 instruments:
-- guitar
+  - guitar
 last_updated: '2026-01-02T01:26:24.666928'
 musical_connections:
   collaborators:
-  - Ivory Joe Hunter
-  - Count Otis Mathews’ House Rockers
-  - Joe Turner, Red Callender, Gatemouth Brown
+    - Ivory Joe Hunter
+    - Count Otis Mathews’ House Rockers
+    - 'Joe Turner, Red Callender, Gatemouth Brown'
   influenced:
-  - Lowell Fulson
-  - Johnny Heartsman
-  - Mickey Baker
-  - Doug MacLeod
-  - Billy “The Kid” Emerson
-  - John Lennon / The Beatles
+    - Lowell Fulson
+    - Johnny Heartsman
+    - Mickey Baker
+    - Doug MacLeod
+    - Billy “The Kid” Emerson
+    - John Lennon / The Beatles
   mentors:
-  - T-Bone Walker
-  - John Collins
+    - T-Bone Walker
+    - John Collins
 musicbrainz_id: 7614119e-f081-436a-b47c-da0f3855ecfc
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.visionhistoricpreservationfoundation.org/rockdale-history/peewee-crayton-rockdale-blues-hall-of-famer
-- https://blues.org/blues_hof_inductee/pee-wee-crayton/
-- https://mojohand.com/glossary/pee-wee-crayton/
-- https://thehoundnyc.com/2010/07/10/pee-wee-crayton/
-- https://en.wikipedia.org/wiki/Pee_Wee_Crayton
-- https://www.texasmusicmuseum.org/current-exhibits/the-contributions-of-east-austin-african-american-musicians-to-texas-music/blues-music-from-austins-east-side/connie-curtis-pee-wee-crayton/
-- https://www.vintageguitar.com/47720/fretprints-pee-wee-crayton/
+  - >-
+    https://www.visionhistoricpreservationfoundation.org/rockdale-history/peewee-crayton-rockdale-blues-hall-of-famer
+  - 'https://blues.org/blues_hof_inductee/pee-wee-crayton/'
+  - 'https://mojohand.com/glossary/pee-wee-crayton/'
+  - 'https://thehoundnyc.com/2010/07/10/pee-wee-crayton/'
+  - 'https://en.wikipedia.org/wiki/Pee_Wee_Crayton'
+  - >-
+    https://www.texasmusicmuseum.org/current-exhibits/the-contributions-of-east-austin-african-american-musicians-to-texas-music/blues-music-from-austins-east-side/connie-curtis-pee-wee-crayton/
+  - 'https://www.vintageguitar.com/47720/fretprints-pee-wee-crayton/'
 spotify_data:
   followers: 11223
   id: 3OPJZtUlpoL3kZloBGY1lA
   popularity: 24
-  url: https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA
+  url: 'https://open.spotify.com/artist/3OPJZtUlpoL3kZloBGY1lA'
 status: active
 tags:
-- blues
-- electric texas blues
-- r&b
+  - blues
+  - electric texas blues
+  - r&b
 title: Pee Wee Crayton
+is_active: false
+origin: 'Oakland, California, United States'
 ---
 
 ![](pee_wee_crayton.jpg)

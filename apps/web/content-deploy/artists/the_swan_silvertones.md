@@ -1,15 +1,15 @@
 ---
-title: the swan silvertones
+title: The Swan Silvertones
 wiki_slug: the-swan-silvertones
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1938'
 genres:
-- gospel
+  - gospel
 instruments:
-- tenor vocals
-- original
+  - tenor vocals
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_swan_silvertones.jpg
   caption: the swan silvertones
@@ -22,7 +22,7 @@ audio_profile:
   danceability_avg: 0.473
   acousticness_avg: 0.721
   instrumentalness_avg: 0.046
-  loudness_avg: -10.0
+  loudness_avg: -10
   speechiness_avg: 0.099
   liveness_avg: 0.222
   track_count: 49
@@ -30,78 +30,85 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Solomon Womack
-  - Paul Owens
-  - Percell Perkins
-  - John Myles
-  - Robert Crenshaw
+    - Solomon Womack
+    - Paul Owens
+    - Percell Perkins
+    - John Myles
+    - Robert Crenshaw
   influenced:
-  - Paul Simon
-  - Bobby Womack
-  - Numerous gospel quartets
+    - Paul Simon
+    - Bobby Womack
+    - Numerous gospel quartets
   mentors:
-  - Dixie Hummingbirds
+    - Dixie Hummingbirds
 spotify_data:
   followers: 8534
   id: 7kAG08GdBKiimEnBdgVQ1c
   popularity: 20
-  url: https://open.spotify.com/artist/7kAG08GdBKiimEnBdgVQ1c
+  url: 'https://open.spotify.com/artist/7kAG08GdBKiimEnBdgVQ1c'
 discography_enriched: true
 top_tracks:
-- Oh Mary, Don't You Weep
-- Where Shall I Go
-- If You Believe Your God Is Dead, Try Mine (Come What May)
-- Trouble In My Way (My Rock / Love Lifted Me)
-- Oh Mary Don't You Weep (...With The Swan Silvertones)
-- My Rock (My Rock / Love Lifted Me)
-- Saviour Pass Me Not (Saviour Pass Me Not)
-- 'If You Believe Your God Is Dead, Try Mine (Harvest Gospel: The Swan Silvertones)'
-- Come What May (Come What May)
-- If You Believe Your God Is Dead, Try Mine
+  - 'Oh Mary, Don''t You Weep'
+  - Where Shall I Go
+  - 'If You Believe Your God Is Dead, Try Mine (Come What May)'
+  - Trouble In My Way (My Rock / Love Lifted Me)
+  - Oh Mary Don't You Weep (...With The Swan Silvertones)
+  - My Rock (My Rock / Love Lifted Me)
+  - Saviour Pass Me Not (Saviour Pass Me Not)
+  - >-
+    If You Believe Your God Is Dead, Try Mine (Harvest Gospel: The Swan
+    Silvertones)
+  - Come What May (Come What May)
+  - 'If You Believe Your God Is Dead, Try Mine'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/29dfe11e-4019-49f0-b4a2-9251e527c1e6
-  spotify: https://open.spotify.com/artist/7kAG08GdBKiimEnBdgVQ1c
-  wikipedia: https://en.wikipedia.org/wiki/The_Swan_Silvertones
+  musicbrainz: 'https://musicbrainz.org/artist/29dfe11e-4019-49f0-b4a2-9251e527c1e6'
+  spotify: 'https://open.spotify.com/artist/7kAG08GdBKiimEnBdgVQ1c'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Swan_Silvertones'
 image_path: 03_Resources/source_material/ArtistPortraits/the_swan_silvertones.jpg
 biography_enhanced_at: '2025-11-14T10:43:10.072221'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.crossrhythms.co.uk/articles/music/The_Swan_Silvertones_Gospel_Roots__Remembering_the_seminal_gospel_quartet/7172/p1/
-- https://www.wvmusichalloffame.com/hof_silvertones.html
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/swan-silvertones
-- http://www.soulwalking.co.uk/Swan%20Silvertones.html
-- https://knoxvillehistoryproject.org/2023/02/24/the-ever-evolving-legend-of-claude-jeter-and-swan-silvertones/
-- https://www.nepm.org/jazz-world/2017-04-09/the-swan-silvertones-gospel-at-newport
+  - >-
+    https://www.crossrhythms.co.uk/articles/music/The_Swan_Silvertones_Gospel_Roots__Remembering_the_seminal_gospel_quartet/7172/p1/
+  - 'https://www.wvmusichalloffame.com/hof_silvertones.html'
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/swan-silvertones
+  - 'http://www.soulwalking.co.uk/Swan%20Silvertones.html'
+  - >-
+    https://knoxvillehistoryproject.org/2023/02/24/the-ever-evolving-legend-of-claude-jeter-and-swan-silvertones/
+  - >-
+    https://www.nepm.org/jazz-world/2017-04-09/the-swan-silvertones-gospel-at-newport
 network_extracted: true
 entry_created: '2025-11-14T10:43:10.072229'
 last_updated: '2025-12-23T08:16:17.199425'
 members:
-- begin: ''
-  end: '1953'
-  instruments:
-  - tenor vocals
-  mbid: bd950f54-f4f4-4dd7-90b3-dfc152f2ce2d
-  name: Robert Crenshaw
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: fa9c3210-f531-4112-b052-4aba6c59605a
-  name: Claude Jeter
-- begin: ''
-  end: ''
-  instruments:
-  - tenor vocals
-  mbid: 327773ea-f87b-4320-bace-2f6006af47f1
-  name: Louis Johnson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9a2c35cd-72f0-455e-bba8-32a79a70d8bc
-  name: Paul Owens
+  - begin: ''
+    end: '1953'
+    instruments:
+      - tenor vocals
+    mbid: bd950f54-f4f4-4dd7-90b3-dfc152f2ce2d
+    name: Robert Crenshaw
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: fa9c3210-f531-4112-b052-4aba6c59605a
+    name: Claude Jeter
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor vocals
+    mbid: 327773ea-f87b-4320-bace-2f6006af47f1
+    name: Louis Johnson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9a2c35cd-72f0-455e-bba8-32a79a70d8bc
+    name: Paul Owens
 musicbrainz_id: 29dfe11e-4019-49f0-b4a2-9251e527c1e6
-origin: Coalwood, West Virginia, United States
+origin: 'Coalwood, West Virginia, United States'
+birth_place: 'Alabama, United States'
 ---
 
 ![](the_swan_silvertones.jpg)

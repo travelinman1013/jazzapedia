@@ -4,10 +4,11 @@ wiki_slug: nathan-the-zydeco-chas-chas
 schema_version: 2
 status: active
 genres:
-- zydeco
-- cajun
+  - zydeco
+  - cajun
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/nathan_and_the_zydeco_chas_chas.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/nathan_and_the_zydeco_chas_chas.jpg
   caption: Nathan & the Zydeco Chas chas
   background: solo_singer
 audio_profile:
@@ -25,51 +26,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sid 'El Sid O' Williams
-  - Dennis Paul Williams
-  - Mark Anthony 'Chukka' Williams
-  - Nathan Williams Jr.
-  - Buddy Guy
-  - Dirty Dozen Brass Band
+    - Sid 'El Sid O' Williams
+    - Dennis Paul Williams
+    - Mark Anthony 'Chukka' Williams
+    - Nathan Williams Jr.
+    - Buddy Guy
+    - Dirty Dozen Brass Band
   influenced:
-  - Nathan Williams Jr. (Lil' Nathan)
+    - Nathan Williams Jr. (Lil' Nathan)
   mentors:
-  - Clifton Chenier
-  - Buckwheat Zydeco
+    - Clifton Chenier
+    - Buckwheat Zydeco
 spotify_data:
   followers: 4762
   id: 1nUKovXGYtGFLO7Wd0XXwo
   popularity: 13
-  url: https://open.spotify.com/artist/1nUKovXGYtGFLO7Wd0XXwo
+  url: 'https://open.spotify.com/artist/1nUKovXGYtGFLO7Wd0XXwo'
 discography_enriched: true
 top_tracks:
-- Your Mama Don't Know (Your Mama Don't Know)
-- Follow Me Chicken (Follow Me Chicken)
-- I'm In Love (Follow Me Chicken)
-- Zydeco Girl (A New Road)
-- Don't Worry 'Bout The Mule (Hang It High, Hang It Low)
-- Hard Times (Let's Go!)
-- Everything On The Hog (Steady Rock)
-- Let's Go (Live at Rock 'N' Bowl de Lafayette) (Like Father, Like Son (Live at Rock 'N' Bowl de Lafayette))
-- Zydeco Girl (Live at Rock 'N' Bowl de Lafayette) (Like Father, Like Son (Live at Rock 'N' Bowl de Lafayette))
-- Slow Horses And Fast Women (Your Mama Don't Know)
+  - Your Mama Don't Know (Your Mama Don't Know)
+  - Follow Me Chicken (Follow Me Chicken)
+  - I'm In Love (Follow Me Chicken)
+  - Zydeco Girl (A New Road)
+  - 'Don''t Worry ''Bout The Mule (Hang It High, Hang It Low)'
+  - Hard Times (Let's Go!)
+  - Everything On The Hog (Steady Rock)
+  - >-
+    Let's Go (Live at Rock 'N' Bowl de Lafayette) (Like Father, Like Son (Live
+    at Rock 'N' Bowl de Lafayette))
+  - >-
+    Zydeco Girl (Live at Rock 'N' Bowl de Lafayette) (Like Father, Like Son
+    (Live at Rock 'N' Bowl de Lafayette))
+  - Slow Horses And Fast Women (Your Mama Don't Know)
 external_urls:
-  spotify: https://open.spotify.com/artist/1nUKovXGYtGFLO7Wd0XXwo
-  wikipedia: https://en.wikipedia.org/wiki/Nathan_Williams_(Zydeco)
-image_path: 03_Resources/source_material/ArtistPortraits/nathan_and_the_zydeco_chas_chas.jpg
+  spotify: 'https://open.spotify.com/artist/1nUKovXGYtGFLO7Wd0XXwo'
+  wikipedia: 'https://en.wikipedia.org/wiki/Nathan_Williams_(Zydeco)'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/nathan_and_the_zydeco_chas_chas.jpg
 biography_enhanced_at: '2025-11-24T08:30:59.078964'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://zydecochachas.com/bio
-- https://en.wikipedia.org/wiki/Nathan_Williams_(Zydeco)
-- https://www.americanbluesscene.com/2025/02/nathan-and-the-zydeco-cha-chas-louisianas-treasure/
-- https://montanafolkfestival.com/nathan-and-the-zydeco-cha-chas/
-- https://page-hayes.squarespace.com/2023-performers/2023/8/8/nathan-amp-the-zydeco-cha-chas
+  - 'https://zydecochachas.com/bio'
+  - 'https://en.wikipedia.org/wiki/Nathan_Williams_(Zydeco)'
+  - >-
+    https://www.americanbluesscene.com/2025/02/nathan-and-the-zydeco-cha-chas-louisianas-treasure/
+  - 'https://montanafolkfestival.com/nathan-and-the-zydeco-cha-chas/'
+  - >-
+    https://page-hayes.squarespace.com/2023-performers/2023/8/8/nathan-amp-the-zydeco-cha-chas
 network_extracted: true
 entry_created: '2025-11-24T08:30:59.078973'
 last_updated: '2025-12-23T08:16:13.464330'
-origin: St. Martinville, Louisiana, USA
+origin: 'St. Martinville, Louisiana, USA'
+birth_place: 'St. Martinville, Louisiana, United States'
+birth_date: '1963-03-24'
+artist_type: band
 ---
 
 ![](nathan_and_the_zydeco_chas_chas.jpg)

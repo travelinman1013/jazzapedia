@@ -3,23 +3,25 @@ title: Anita Baker
 wiki_slug: anita-baker
 schema_version: 2
 status: active
-birth_place: Toledo, Ohio, United States (born); raised in Detroit, Michigan, United States
+birth_place: 'Toledo, Ohio, United States (born); raised in Detroit, Michigan, United States'
 genres:
-- quiet storm
-- smooth jazz
-- smooth soul
+  - quiet storm
+  - smooth jazz
+  - smooth soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/anita_baker.jpg
   caption: Anita Baker
   background: solo_singer
-  origin: Toledo, Ohio, United States (born); raised in Detroit, Michigan, United States
+  origin: >-
+    Toledo, Ohio, United States (born); raised in Detroit, Michigan, United
+    States
 audio_profile:
   tempo_avg: 107.8
   energy_avg: 0.525
   valence_avg: 0.424
   danceability_avg: 0.562
   acousticness_avg: 0.505
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -9.5
   speechiness_avg: 0.037
   liveness_avg: 0.123
@@ -28,50 +30,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Chapter 8
-  - Gerald Lyles
-  - Elektra Records production teams
+    - Chapter 8
+    - Gerald Lyles
+    - Elektra Records production teams
   influenced:
-  - Contemporary R&B and quiet storm vocalists (e.g., later urban contemporary singers)
+    - >-
+      Contemporary R&B and quiet storm vocalists (e.g., later urban contemporary
+      singers)
   mentors:
-  - Gospel church musicians and choir leaders (Detroit Baptist church)
-  - David Washington
-  - Otis Smith
+    - Gospel church musicians and choir leaders (Detroit Baptist church)
+    - David Washington
+    - Otis Smith
 spotify_data:
   followers: 1559623
   id: 46CH1Gp8l8QVly8bpG9JFG
   popularity: 57
-  url: https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG
+  url: 'https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG'
 discography_enriched: true
 top_tracks:
-- Sweet Love (Rapture)
-- Sweet Love
-- Caught Up in the Rapture (Rapture)
-- Caught Up In the Rapture
-- Giving You the Best That I Got (Single Version)
-- Angel
-- Same Ole Love (365 Days a Week) (Turntable Hits)
-- You Bring Me Joy
-- Lately
-- When You Love Someone
+  - Sweet Love (Rapture)
+  - Sweet Love
+  - Caught Up in the Rapture (Rapture)
+  - Caught Up In the Rapture
+  - Giving You the Best That I Got (Single Version)
+  - Angel
+  - Same Ole Love (365 Days a Week) (Turntable Hits)
+  - You Bring Me Joy
+  - Lately
+  - When You Love Someone
 external_urls:
-  spotify: https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG
-  wikipedia: https://en.wikipedia.org/wiki/Anita_Baker
+  spotify: 'https://open.spotify.com/artist/46CH1Gp8l8QVly8bpG9JFG'
+  wikipedia: 'https://en.wikipedia.org/wiki/Anita_Baker'
 image_path: 03_Resources/source_material/ArtistPortraits/anita_baker.jpg
 biography_enhanced_at: '2025-12-10T04:44:24.854316'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Anita_Baker
-- https://www.britannica.com/biography/Anita-Baker
-- https://michiganrockandrolllegends.com/hall-of-fame/artists/296-anita-baker
-- https://www.detroithistorical.org/learn/online-research/encyclopedia-of-detroit/baker-anita
-- https://wers.org/vault-of-soul-anita-baker/
-- https://www.imdb.com/name/nm1179722/bio/
+  - 'https://en.wikipedia.org/wiki/Anita_Baker'
+  - 'https://www.britannica.com/biography/Anita-Baker'
+  - 'https://michiganrockandrolllegends.com/hall-of-fame/artists/296-anita-baker'
+  - >-
+    https://www.detroithistorical.org/learn/online-research/encyclopedia-of-detroit/baker-anita
+  - 'https://wers.org/vault-of-soul-anita-baker/'
+  - 'https://www.imdb.com/name/nm1179722/bio/'
 network_extracted: true
 entry_created: '2025-12-10T04:44:24.854321'
 last_updated: '2025-12-23T08:16:04.819425'
-
+origin: 'Detroit, Michigan, United States'
+birth_date: '1958-01-26'
+artist_type: person
 ---
 
 ![](anita_baker.jpg)

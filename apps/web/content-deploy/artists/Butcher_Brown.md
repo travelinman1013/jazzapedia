@@ -4,9 +4,9 @@ wiki_slug: butcher-brown
 schema_version: 2
 status: active
 genres:
-- nu jazz
-- indie jazz
-- jazz funk
+  - nu jazz
+  - indie jazz
+  - jazz funk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Butcher_Brown.jpg
   caption: Butcher Brown
@@ -26,52 +26,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Marcus 'Tennishu' Tenney
-  - DJ Harrison (Devonne Harris)
-  - Corey Fonville
-  - Andrew Randazzo
-  - Morgan Burrs
-  - Alex Isley
+    - Marcus 'Tennishu' Tenney
+    - DJ Harrison (Devonne Harris)
+    - Corey Fonville
+    - Andrew Randazzo
+    - Morgan Burrs
+    - Alex Isley
   influenced:
-  - Richmond jazz and hip-hop scene
+    - Richmond jazz and hip-hop scene
   mentors:
-  - Ohbliv
-  - Joe Henderson
-  - D’Angelo
+    - Ohbliv
+    - Joe Henderson
+    - D’Angelo
 spotify_data:
   followers: 85739
   id: 2jQ6wRQ7yP1UrctodeuYQP
   popularity: 40
-  url: https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP
+  url: 'https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP'
 discography_enriched: true
 top_tracks:
-- Unwind [Feat. Melanie Charles]
-- Tidal Wave (#KingButch)
-- Dinorah Dinorah
-- For Roy 2.0 (For Roy 2.0)
-- Ibiza
-- Remind Me
-- Montrose Forest featuring Nicholas Payton
-- No Way Around It (Solar Music)
-- Triple Trey - Intro / How Much A Dollar Cost / Instrumental (Butcher Brown Presents Triple Trey (Instrumentals))
-- Fohbliv (All Purpose Music)
+  - 'Unwind [Feat. Melanie Charles]'
+  - Tidal Wave (#KingButch)
+  - Dinorah Dinorah
+  - For Roy 2.0 (For Roy 2.0)
+  - Ibiza
+  - Remind Me
+  - Montrose Forest featuring Nicholas Payton
+  - No Way Around It (Solar Music)
+  - >-
+    Triple Trey - Intro / How Much A Dollar Cost / Instrumental (Butcher Brown
+    Presents Triple Trey (Instrumentals))
+  - Fohbliv (All Purpose Music)
 external_urls:
-  spotify: https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP
-  wikipedia: https://en.wikipedia.org/wiki/Butcher_Brown
+  spotify: 'https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP'
+  wikipedia: 'https://en.wikipedia.org/wiki/Butcher_Brown'
 image_path: 03_Resources/source_material/ArtistPortraits/Butcher_Brown.jpg
 biography_enhanced_at: '2025-10-20T10:33:54.544971'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://concord.com/artist/butcher-brown/
-- https://www.sennheiser.com/en-no/artists/butcher-brown
-- https://butcherbrown.com
-- https://www.kcsb.org/an-interview-with-butcher-browns-andrew-randazzo/
+  - 'https://concord.com/artist/butcher-brown/'
+  - 'https://www.sennheiser.com/en-no/artists/butcher-brown'
+  - 'https://butcherbrown.com'
+  - 'https://www.kcsb.org/an-interview-with-butcher-browns-andrew-randazzo/'
 network_extracted: true
 entry_created: '2025-10-20T10:33:54.544980'
 last_updated: '2025-12-23T08:16:01.394639'
-origin: Richmond, Virginia, United States
-
+origin: 'Richmond, Virginia, United States'
+artist_type: band
 ---
 
 ![](Butcher_Brown.jpg)

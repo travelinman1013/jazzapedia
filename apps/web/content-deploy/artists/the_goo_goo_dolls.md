@@ -3,34 +3,35 @@ biography_enhanced_at: '2025-12-29T01:25:01.034532'
 enhancement_provider: perplexity
 entry_created: '2025-12-29T01:25:01.034546'
 external_urls:
-  spotify: https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA
-  wikipedia: https://en.wikipedia.org/wiki/Goo_Goo_Dolls
+  spotify: 'https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA'
+  wikipedia: 'https://en.wikipedia.org/wiki/Goo_Goo_Dolls'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/the_goo_goo_dolls.jpg
 last_updated: '2025-12-29T01:25:01.034547'
 musical_connections:
   collaborators:
-  - George Tutuska
-  - Mike Malinin
-  - Robby Takac
+    - George Tutuska
+    - Mike Malinin
+    - Robby Takac
   influenced: []
   mentors:
-  - The Replacements
-  - Hüsker Dü
+    - The Replacements
+    - Hüsker Dü
 network_extracted: true
-origin: Buffalo, New York, United States
+origin: 'Buffalo, New York, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Goo_Goo_Dolls
-- https://top40-charts.com/artist.php?aid=1156
-- https://www.last.fm/music/Goo+Goo+Dolls/+wiki
+  - 'https://en.wikipedia.org/wiki/Goo_Goo_Dolls'
+  - 'https://top40-charts.com/artist.php?aid=1156'
+  - 'https://www.last.fm/music/Goo+Goo+Dolls/+wiki'
 spotify_data:
   followers: 3660362
   id: 2sil8z5kiy4r76CRTXxBCA
   popularity: 78
-  url: https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA
+  url: 'https://open.spotify.com/artist/2sil8z5kiy4r76CRTXxBCA'
 status: active
 title: The Goo Goo Dolls
+artist_type: band
 ---
 
 ![](the_goo_goo_dolls.jpg)

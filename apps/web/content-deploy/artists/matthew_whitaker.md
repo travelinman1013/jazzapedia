@@ -1,70 +1,70 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 427c6f19-f10e-40f7-9adc-626f0457525b
-  name: Matthew Whitaker Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 427c6f19-f10e-40f7-9adc-626f0457525b
+    name: Matthew Whitaker Quartet
 biography_enhanced_at: '2026-01-10T01:14:12.372284'
 birth_date: '2001-04-03'
-birth_place: Hackensack
+birth_place: 'Hackensack, New Jersey, United States'
 disambiguation: US jazz pianist
 enhancement_provider: perplexity
 entry_created: '2026-01-10T01:14:12.372290'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/73b8122b-2b0c-45bc-87d6-2e9bbbce8e18
-  spotify: https://open.spotify.com/artist/4TCiA0yvZXv8Kf4AZhr0rG
-  wikipedia: https://en.wikipedia.org/wiki/Matthew_Whitaker_(pianist)
+  musicbrainz: 'https://musicbrainz.org/artist/73b8122b-2b0c-45bc-87d6-2e9bbbce8e18'
+  spotify: 'https://open.spotify.com/artist/4TCiA0yvZXv8Kf4AZhr0rG'
+  wikipedia: 'https://en.wikipedia.org/wiki/Matthew_Whitaker_(pianist)'
 gender: Male
 genres:
-- big band
-- jazz
+  - big band
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/matthew_whitaker.jpg
 instruments:
-- eponymous
+  - eponymous
 last_updated: '2026-01-10T01:14:12.372291'
 musical_connections:
   collaborators:
-  - Christian McBride
-  - Dave Stryker
-  - Will Calhoun
-  - Sammy Figueroa
-  - James Carter
-  - Melissa Walker
-  - Stevie Wonder
-  - Jon Batiste
-  - Dr. Lonnie Smith
-  - Ray Chew
-  - 8-Bit Big Band
+    - Christian McBride
+    - Dave Stryker
+    - Will Calhoun
+    - Sammy Figueroa
+    - James Carter
+    - Melissa Walker
+    - Stevie Wonder
+    - Jon Batiste
+    - Dr. Lonnie Smith
+    - Ray Chew
+    - 8-Bit Big Band
   influenced:
-  - Emerging blind and visually impaired music students (general cohort)
+    - Emerging blind and visually impaired music students (general cohort)
   mentors:
-  - Jimmy Smith
-  - Joey DeFrancesco
-  - Art Tatum
-  - Thelonious Monk
-  - Oscar Peterson
-  - Barry Harris
-  - Erroll Garner
+    - Jimmy Smith
+    - Joey DeFrancesco
+    - Art Tatum
+    - Thelonious Monk
+    - Oscar Peterson
+    - Barry Harris
+    - Erroll Garner
 musicbrainz_id: 73b8122b-2b0c-45bc-87d6-2e9bbbce8e18
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Matthew_Whitaker_(pianist)
-- https://www.yamaha.com/artists/artistdetailb.html?CNTID=7017574&CNTYP=ARTIST
-- https://theconrad.org/events/matthew-whitaker/
-- https://www.laphil.com/musicdb/artists/6135/the-matthew-whitaker-trio
-- https://afb.org/afb100/ambassadors/ambassador/matthew-whitaker
-- https://www.telluridejazz.org/matthew-whitaker
-- https://cap.ucla.edu/event/matthew-whitaker
-- https://www.matthewwhitaker.net
+  - 'https://en.wikipedia.org/wiki/Matthew_Whitaker_(pianist)'
+  - 'https://www.yamaha.com/artists/artistdetailb.html?CNTID=7017574&CNTYP=ARTIST'
+  - 'https://theconrad.org/events/matthew-whitaker/'
+  - 'https://www.laphil.com/musicdb/artists/6135/the-matthew-whitaker-trio'
+  - 'https://afb.org/afb100/ambassadors/ambassador/matthew-whitaker'
+  - 'https://www.telluridejazz.org/matthew-whitaker'
+  - 'https://cap.ucla.edu/event/matthew-whitaker'
+  - 'https://www.matthewwhitaker.net'
 spotify_data:
   followers: 12050
   id: 4TCiA0yvZXv8Kf4AZhr0rG
   popularity: 20
-  url: https://open.spotify.com/artist/4TCiA0yvZXv8Kf4AZhr0rG
+  url: 'https://open.spotify.com/artist/4TCiA0yvZXv8Kf4AZhr0rG'
 status: active
 title: Matthew Whitaker
 ---

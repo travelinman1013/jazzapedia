@@ -5,54 +5,54 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1923-03-06'
-birth_place: Indianapolis
+birth_place: 'Indianapolis, Indiana, United States'
 death_date: '1968-06-15'
 genres:
-- jazz
-- hard bop
-- cool jazz
-- jazz blues
-- bebop
+  - jazz
+  - hard bop
+  - cool jazz
+  - jazz blues
+  - bebop
 instruments:
-- original
-- eponymous
-- guitar
-- electric guitar
-- bass guitar
-- guitar family
-- archtop guitar
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - original
-  mbid: 739d421f-1f7a-4dd8-b56e-fb4fb7634aee
-  name: Wes Montgomery Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 90459508-a7b3-459e-b7ef-d5c0ae74fd17
-  name: The Montgomery Brothers
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - guitar
-  - original
-  mbid: b366d594-dc8f-481a-9994-ecf7f4207e9d
-  name: Wes Montgomery Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: 4bbbf6eb-a979-4b24-8b63-5d452c89115b
-  name: Wes Montgomery Quintet
-- begin: ''
-  end: ''
-  instruments:
   - electric guitar
-  mbid: 3b572f79-2eac-476a-b41e-cf85d6bddbd0
-  name: The Mastersounds
+  - bass guitar
+  - guitar family
+  - archtop guitar
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 739d421f-1f7a-4dd8-b56e-fb4fb7634aee
+    name: Wes Montgomery Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 90459508-a7b3-459e-b7ef-d5c0ae74fd17
+    name: The Montgomery Brothers
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - guitar
+      - original
+    mbid: b366d594-dc8f-481a-9994-ecf7f4207e9d
+    name: Wes Montgomery Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 4bbbf6eb-a979-4b24-8b63-5d452c89115b
+    name: Wes Montgomery Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - electric guitar
+    mbid: 3b572f79-2eac-476a-b41e-cf85d6bddbd0
+    name: The Mastersounds
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/wes_montgomery.jpg
   caption: Wes Montgomery
@@ -67,7 +67,7 @@ audio_profile:
   danceability_avg: 0.559
   acousticness_avg: 0.859
   instrumentalness_avg: 0.572
-  loudness_avg: -19.0
+  loudness_avg: -19
   speechiness_avg: 0.044
   liveness_avg: 0.141
   track_count: 62
@@ -75,59 +75,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Buddy Montgomery
-  - Monk Montgomery
-  - Cannonball Adderley
-  - Milt Jackson
-  - Jimmy Smith
-  - Johnny Griffin
+    - Buddy Montgomery
+    - Monk Montgomery
+    - Cannonball Adderley
+    - Milt Jackson
+    - Jimmy Smith
+    - Johnny Griffin
   influenced:
-  - George Benson
-  - Pat Metheny
-  - Lee Ritenour
-  - Emily Remler
+    - George Benson
+    - Pat Metheny
+    - Lee Ritenour
+    - Emily Remler
   mentors:
-  - Charlie Christian
+    - Charlie Christian
 spotify_data:
   followers: 313523
   id: 03YhcM6fxypfwckPCQV8pQ
   popularity: 52
-  url: https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ
+  url: 'https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ'
 discography_enriched: true
 top_tracks:
-- Days Of Wine And Roses (Boss Guitar)
-- While We're Young (So Much Guitar!)
-- A Day In The Life (A Day In The Life)
-- Polka Dots And Moonbeams (Incredible Jazz Guitar)
-- In Your Own Sweet Way (Incredible Jazz Guitar)
-- Bumpin' On Sunset (Tequila (Expanded Edition))
-- In Your Own Sweet Way - Remastered 2025 (The Incredible Jazz Guitar Of Wes Montgomery (Remastered 2025))
-- How Insensitive (Tequila (Expanded Edition))
-- In Your Own Sweet Way (Incredible Jazz Guitar)
-- I Wish I Knew (So Much Guitar!)
+  - Days Of Wine And Roses (Boss Guitar)
+  - While We're Young (So Much Guitar!)
+  - A Day In The Life (A Day In The Life)
+  - Polka Dots And Moonbeams (Incredible Jazz Guitar)
+  - In Your Own Sweet Way (Incredible Jazz Guitar)
+  - Bumpin' On Sunset (Tequila (Expanded Edition))
+  - >-
+    In Your Own Sweet Way - Remastered 2025 (The Incredible Jazz Guitar Of Wes
+    Montgomery (Remastered 2025))
+  - How Insensitive (Tequila (Expanded Edition))
+  - In Your Own Sweet Way (Incredible Jazz Guitar)
+  - I Wish I Knew (So Much Guitar!)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/663f8232-8c46-4851-803f-a91d31593b14
-  spotify: https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ
-  wikipedia: https://en.wikipedia.org/wiki/Wes_Montgomery
+  musicbrainz: 'https://musicbrainz.org/artist/663f8232-8c46-4851-803f-a91d31593b14'
+  spotify: 'https://open.spotify.com/artist/03YhcM6fxypfwckPCQV8pQ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Wes_Montgomery'
 image_path: 03_Resources/source_material/ArtistPortraits/wes_montgomery.jpg
 biography_enhanced_at: '2025-11-17T10:39:13.339520'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://newyorkjazzworkshop.com/wes-montgomery-1925-1968/
-- https://www.britannica.com/biography/Wes-Montgomery
-- https://jbonamassa.com/wes-montgomery-the-great-jazz-improviser/
-- https://jazztimes.com/features/profiles/wes-montgomery-the-softer-side-of-genius/
-- https://blackpast.org/african-american-history/montgomery-john-leslie-wes-1925-1968/
+  - 'https://newyorkjazzworkshop.com/wes-montgomery-1925-1968/'
+  - 'https://www.britannica.com/biography/Wes-Montgomery'
+  - 'https://jbonamassa.com/wes-montgomery-the-great-jazz-improviser/'
+  - >-
+    https://jazztimes.com/features/profiles/wes-montgomery-the-softer-side-of-genius/
+  - >-
+    https://blackpast.org/african-american-history/montgomery-john-leslie-wes-1925-1968/
 network_extracted: true
 entry_created: '2025-11-17T10:39:13.339526'
 last_updated: '2025-12-23T08:16:18.077790'
 gender: Male
 musicbrainz_id: 663f8232-8c46-4851-803f-a91d31593b14
 tags:
-- 2008 universal fire victim
-- big band
-- hard bop
+  - 2008 universal fire victim
+  - big band
+  - hard bop
+is_active: false
 ---
 
 ![](wes_montgomery.jpg)

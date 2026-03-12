@@ -1,24 +1,24 @@
 ---
-title: dee dee warwick
+title: Dee Dee Warwick
 wiki_slug: dee-dee-warwick
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1942-09-25'
-birth_place: Newark, New Jersey, United States
+birth_place: 'Newark, New Jersey, United States'
 death_date: '2008-10-18'
 genres:
-- northern soul
-- philly soul
-- soul
+  - northern soul
+  - philly soul
+  - soul
 instruments:
-- original
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/dee_dee_warwick.jpg
   caption: dee dee warwick
   background: non_vocal_instrumentalist
   born: '1942-09-25'
-  origin: Newark, New Jersey, United States
+  origin: 'Newark, New Jersey, United States'
   died: '2008-10-18'
 audio_profile:
   tempo_avg: 122.7
@@ -26,7 +26,7 @@ audio_profile:
   valence_avg: 0.617
   danceability_avg: 0.475
   acousticness_avg: 0.557
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -9.5
   speechiness_avg: 0.051
   liveness_avg: 0.262
@@ -35,45 +35,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dionne Warwick
-  - Doris Troy
-  - Ashford & Simpson
-  - Jerry Leiber & Mike Stoller
+    - Dionne Warwick
+    - Doris Troy
+    - Ashford & Simpson
+    - Jerry Leiber & Mike Stoller
   influenced:
-  - Linda Ronstadt
-  - The Supremes & The Temptations
+    - Linda Ronstadt
+    - The Supremes & The Temptations
   mentors:
-  - Lee Drinkard-Warrick
-  - Cissy Houston
+    - Lee Drinkard-Warrick
+    - Cissy Houston
 spotify_data:
   followers: 12533
   id: 3KeTziLAcJFEnbhfIMRh5w
   popularity: 16
-  url: https://open.spotify.com/artist/3KeTziLAcJFEnbhfIMRh5w
+  url: 'https://open.spotify.com/artist/3KeTziLAcJFEnbhfIMRh5w'
 discography_enriched: true
 top_tracks:
-- 'Suspicious Minds (VINYL: Music From The HBO® Original Series - Vol. 1)'
-- She Didn't Know (She Kept on Talking) (feat. The Dixie Flyers) - Single Version (Turning Around)
-- You're No Good (Mama's Got A Bag Of Her Own)
-- Suspicious Minds (feat. The Dixie Flyers) (The Complete Atco Recordings)
-- 'You''re No Good - Remastered Single Version (One Kiss Can Lead To Another: Girl Group Sounds, Lost & Found)'
-- Foolish Fool (Roots Of Sublime)
-- Foolish Fool (I Want To Be With You)
-- I'm Gonna Make You Love Me (I Want To Be With You)
-- When Love Slips Away (I Want To Be With You)
-- I'm Gonna Make You Love Me (The Collection)
+  - 'Suspicious Minds (VINYL: Music From The HBO® Original Series - Vol. 1)'
+  - >-
+    She Didn't Know (She Kept on Talking) (feat. The Dixie Flyers) - Single
+    Version (Turning Around)
+  - You're No Good (Mama's Got A Bag Of Her Own)
+  - Suspicious Minds (feat. The Dixie Flyers) (The Complete Atco Recordings)
+  - >-
+    You're No Good - Remastered Single Version (One Kiss Can Lead To Another:
+    Girl Group Sounds, Lost & Found)
+  - Foolish Fool (Roots Of Sublime)
+  - Foolish Fool (I Want To Be With You)
+  - I'm Gonna Make You Love Me (I Want To Be With You)
+  - When Love Slips Away (I Want To Be With You)
+  - I'm Gonna Make You Love Me (The Collection)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/968a2a59-a569-4ffe-8e63-d9acf79278bc
-  spotify: https://open.spotify.com/artist/3KeTziLAcJFEnbhfIMRh5w
+  musicbrainz: 'https://musicbrainz.org/artist/968a2a59-a569-4ffe-8e63-d9acf79278bc'
+  spotify: 'https://open.spotify.com/artist/3KeTziLAcJFEnbhfIMRh5w'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/dee_dee_warwick.jpg
 biography_enhanced_at: '2025-10-20T09:05:42.241113'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- deedeewarwick.com
-- thehistorymakers.org
-- jointzoftheday.substack.com
+  - deedeewarwick.com
+  - thehistorymakers.org
+  - jointzoftheday.substack.com
 network_extracted: true
 entry_created: '2025-10-20T09:05:42.241128'
 last_updated: '2025-12-23T08:16:07.673124'
@@ -81,10 +85,10 @@ gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:51:33.883456'
 musicbrainz_id: 968a2a59-a569-4ffe-8e63-d9acf79278bc
 tags:
-- american
-- gospel
-- soul
-
+  - american
+  - gospel
+  - soul
+is_active: false
 ---
 
 ![](dee_dee_warwick.jpg)

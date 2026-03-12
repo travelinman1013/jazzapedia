@@ -2,11 +2,11 @@
 title: Los Lobos
 wiki_slug: los-lobos
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1973'
 genres:
-- roots rock
+  - roots rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/los_lobos.jpg
   caption: Los Lobos
@@ -27,81 +27,81 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Steve Berlin
-  - The Blasters
+    - Steve Berlin
+    - The Blasters
   influenced:
-  - Ozomatli
-  - Quetzal
+    - Ozomatli
+    - Quetzal
   mentors:
-  - Ritchie Valens
-  - Lalo Guerrero
+    - Ritchie Valens
+    - Lalo Guerrero
 spotify_data:
   followers: 197591
   id: 6OWapcJm9xd55ci9CYbAuT
   popularity: 57
-  url: https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT
+  url: 'https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT'
 discography_enriched: true
 top_tracks:
-- La Bamba
-- La Bamba
-- We Belong Together
-- Come On, Let's Go
-- La Bamba
-- We Belong Together
-- Come On, Let's Go
-- Donna
-- Ripple - Live
-- La Pistola Y El Corazón (La Pistola Y El Corazon)
+  - La Bamba
+  - La Bamba
+  - We Belong Together
+  - 'Come On, Let''s Go'
+  - La Bamba
+  - We Belong Together
+  - 'Come On, Let''s Go'
+  - Donna
+  - Ripple - Live
+  - La Pistola Y El Corazón (La Pistola Y El Corazon)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2b9967c7-3246-4658-a561-ded5408dd9af
-  spotify: https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT
-  wikipedia: https://en.wikipedia.org/wiki/Los_Lobos
+  musicbrainz: 'https://musicbrainz.org/artist/2b9967c7-3246-4658-a561-ded5408dd9af'
+  spotify: 'https://open.spotify.com/artist/6OWapcJm9xd55ci9CYbAuT'
+  wikipedia: 'https://en.wikipedia.org/wiki/Los_Lobos'
 image_path: 03_Resources/source_material/ArtistPortraits/los_lobos.jpg
 biography_enhanced_at: '2025-11-01T15:22:39.234298'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Los_Lobos
-- https://wearemitu.com/wearemitu/entertainment/los-lobos-50-years/
-- https://californiamuseum.org/inductee/los-lobos/
-- https://www.arts.gov/honors/heritage/los-lobos
-- https://www.laphil.com/musicdb/artists/3224/los-lobos
+  - 'https://en.wikipedia.org/wiki/Los_Lobos'
+  - 'https://wearemitu.com/wearemitu/entertainment/los-lobos-50-years/'
+  - 'https://californiamuseum.org/inductee/los-lobos/'
+  - 'https://www.arts.gov/honors/heritage/los-lobos'
+  - 'https://www.laphil.com/musicdb/artists/3224/los-lobos'
 network_extracted: true
 entry_created: '2025-11-01T15:22:39.234313'
 last_updated: '2025-12-23T08:16:12.157780'
 disambiguation: Chicano rock band
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5fb6eb5f-e142-4c91-a5ae-b18d7cd8cea6
-  name: Steve Berlin
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 642dc9b3-36a6-4992-9ceb-fbe266bcbf9a
-  name: David Hidalgo
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: dc0e1e60-2e4a-4f42-b978-80995a25bcd1
-  name: Conrad Lozano
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 808cb943-f930-45be-a3e8-b71d716e6dc8
-  name: Louie Pérez
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 78ebca3d-278d-4f8c-9e74-1d2565c6935a
-  name: Cesar Rosas
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5fb6eb5f-e142-4c91-a5ae-b18d7cd8cea6
+    name: Steve Berlin
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 642dc9b3-36a6-4992-9ceb-fbe266bcbf9a
+    name: David Hidalgo
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: dc0e1e60-2e4a-4f42-b978-80995a25bcd1
+    name: Conrad Lozano
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 808cb943-f930-45be-a3e8-b71d716e6dc8
+    name: Louie Pérez
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 78ebca3d-278d-4f8c-9e74-1d2565c6935a
+    name: Cesar Rosas
 musicbrainz_id: 2b9967c7-3246-4658-a561-ded5408dd9af
-origin: Los Angeles
+origin: 'Los Angeles, California, United States'
 tags:
-- blues
-- bolero
-- classic pop and rock
+  - blues
+  - bolero
+  - classic pop and rock
 ---
 
 ![](los_lobos.jpg)

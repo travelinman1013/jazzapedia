@@ -1,79 +1,81 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '1966'
-  end: '1968'
-  instruments:
-  - lead vocals
-  mbid: 3cf5a3be-25ef-4408-98fe-e66fee536be1
-  name: Big Brother & the Holding Company
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: da22392b-7060-4ec0-b736-d1347e14a72f
-  name: Full Tilt Boogie Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 667972a5-a87e-44b7-bc0e-fd65ed66111f
-  name: Kozmic Blues Band
+  - begin: '1966'
+    end: '1968'
+    instruments:
+      - lead vocals
+    mbid: 3cf5a3be-25ef-4408-98fe-e66fee536be1
+    name: Big Brother & the Holding Company
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: da22392b-7060-4ec0-b736-d1347e14a72f
+    name: Full Tilt Boogie Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 667972a5-a87e-44b7-bc0e-fd65ed66111f
+    name: Kozmic Blues Band
 biography_enhanced_at: '2026-01-17T02:05:02.239943'
 birth_date: '1943-01-19'
-birth_place: Port Arthur
+birth_place: 'Port Arthur, Texas, United States'
 death_date: '1970-10-04'
 enhancement_provider: perplexity
 entry_created: '2026-01-17T02:05:02.239949'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/76c9a186-75bd-436a-85c0-823e3efddb7f
-  spotify: https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC
-  wikipedia: https://en.wikipedia.org/wiki/Janis_Joplin
+  musicbrainz: 'https://musicbrainz.org/artist/76c9a186-75bd-436a-85c0-823e3efddb7f'
+  spotify: 'https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC'
+  wikipedia: 'https://en.wikipedia.org/wiki/Janis_Joplin'
 gender: Female
 genres:
-- classic rock
-- acid rock
-- psychedelic rock
+  - classic rock
+  - acid rock
+  - psychedelic rock
 image_path: 03_Resources/source_material/ArtistPortraits/janis_joplin.jpg
 instruments:
-- lead vocals
-- acoustic guitar
-- spoken vocals
-- background vocals
+  - lead vocals
+  - acoustic guitar
+  - spoken vocals
+  - background vocals
 last_updated: '2026-01-17T02:05:02.239950'
 musical_connections:
   collaborators:
-  - Big Brother and the Holding Company
-  - Jorma Kaukonen
-  - Chet Helms
+    - Big Brother and the Holding Company
+    - Jorma Kaukonen
+    - Chet Helms
   influenced:
-  - Jimmy Johnson
+    - Jimmy Johnson
   mentors:
-  - Lead Belly
-  - Bessie Smith
-  - Big Mama Thornton
-  - Odetta
+    - Lead Belly
+    - Bessie Smith
+    - Big Mama Thornton
+    - Odetta
 musicbrainz_id: 76c9a186-75bd-436a-85c0-823e3efddb7f
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.ebsco.com/research-starters/history/janis-joplin
-- https://janisjoplin.com/biography/
-- https://www.biography.com/musicians/janis-joplin
-- https://www.janisjoplin.net/life/
-- https://en.wikipedia.org/wiki/Janis_Joplin
-- https://www.britannica.com/biography/Janis-Joplin
-- https://www.loudersound.com/features/janis-joplin-story
-- https://www.tshaonline.org/handbook/entries/joplin-janis-lyn
+  - 'https://www.ebsco.com/research-starters/history/janis-joplin'
+  - 'https://janisjoplin.com/biography/'
+  - 'https://www.biography.com/musicians/janis-joplin'
+  - 'https://www.janisjoplin.net/life/'
+  - 'https://en.wikipedia.org/wiki/Janis_Joplin'
+  - 'https://www.britannica.com/biography/Janis-Joplin'
+  - 'https://www.loudersound.com/features/janis-joplin-story'
+  - 'https://www.tshaonline.org/handbook/entries/joplin-janis-lyn'
 spotify_data:
   followers: 3615114
   id: 4NgfOZCL9Ml67xzM0xzIvC
   popularity: 62
-  url: https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC
+  url: 'https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC'
 status: active
 tags:
-- 27 club
-- a cappella
-- acid rock
-title: janis joplin
+  - 27 club
+  - a cappella
+  - acid rock
+title: Janis Joplin
+is_active: false
+origin: 'San Francisco, California, United States'
 ---
 
 ![](janis_joplin.jpg)

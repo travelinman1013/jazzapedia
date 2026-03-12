@@ -2,18 +2,18 @@
 title: Yellowjackets
 wiki_slug: yellowjackets
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
-birth_date: '1981'
+birth_date: '1977'
 genres:
-- jazz fusion
-- smooth jazz
-- jazz
-- jazz funk
+  - jazz fusion
+  - smooth jazz
+  - jazz
+  - jazz funk
 instruments:
-- original
-- electric bass guitar
-- drums (drum set)
+  - original
+  - electric bass guitar
+  - drums (drum set)
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/yellowjackets.jpg
   caption: Yellowjackets
@@ -34,109 +34,110 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Russell Ferrante
-  - Jimmy Haslip
-  - Ricky Lawson
-  - Marc Russo
-  - Bob Mintzer
-  - Will Kennedy
-  - Felix Pastorius
-  - Paulinho Da Costa
+    - Russell Ferrante
+    - Jimmy Haslip
+    - Ricky Lawson
+    - Marc Russo
+    - Bob Mintzer
+    - Will Kennedy
+    - Felix Pastorius
+    - Paulinho Da Costa
   influenced:
-  - Contemporary jazz fusion bands
+    - Contemporary jazz fusion bands
   mentors:
-  - Robben Ford
-  - Weather Report
+    - Robben Ford
+    - Weather Report
 spotify_data:
   followers: 103092
   id: 1zHPRenzLeI2vhT7nlR6Mq
   popularity: 36
-  url: https://open.spotify.com/artist/1zHPRenzLeI2vhT7nlR6Mq
+  url: 'https://open.spotify.com/artist/1zHPRenzLeI2vhT7nlR6Mq'
 discography_enriched: true
 top_tracks:
-- Matinee Idol (Yellowjackets)
-- Summer Song (Dreamland)
-- Spirit of the West (Club Nocturne)
-- Fasten Up (Fasten Up)
-- Imperial Strut (Yellowjackets)
-- Will Power (Fasten Up)
-- Sittin' in It (Yellowjackets)
-- The Dream - Live At The Roxy, 1991 (Live Wires)
-- Comin' Home Baby (Fasten Up)
-- The Truth of You (Fasten Up)
+  - Matinee Idol (Yellowjackets)
+  - Summer Song (Dreamland)
+  - Spirit of the West (Club Nocturne)
+  - Fasten Up (Fasten Up)
+  - Imperial Strut (Yellowjackets)
+  - Will Power (Fasten Up)
+  - Sittin' in It (Yellowjackets)
+  - 'The Dream - Live At The Roxy, 1991 (Live Wires)'
+  - Comin' Home Baby (Fasten Up)
+  - The Truth of You (Fasten Up)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1243d99e-8f5a-4f7e-810c-5a1d20f41065
-  spotify: https://open.spotify.com/artist/1zHPRenzLeI2vhT7nlR6Mq
-  wikipedia: https://en.wikipedia.org/wiki/Yellowjackets_(band)
+  musicbrainz: 'https://musicbrainz.org/artist/1243d99e-8f5a-4f7e-810c-5a1d20f41065'
+  spotify: 'https://open.spotify.com/artist/1zHPRenzLeI2vhT7nlR6Mq'
+  wikipedia: 'https://en.wikipedia.org/wiki/Yellowjackets_(band)'
 image_path: 03_Resources/source_material/ArtistPortraits/yellowjackets.jpg
 biography_enhanced_at: '2025-11-08T21:51:08.998131'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Yellowjackets_(band)
-- https://coltranejazzfest.com/yellowjackets/
-- https://jazztimes.com/features/profiles/yellowjackets-looking-back-and-moving-forward/
-- https://allaboutjazz.com/musicians/yellowjackets/
+  - 'https://en.wikipedia.org/wiki/Yellowjackets_(band)'
+  - 'https://coltranejazzfest.com/yellowjackets/'
+  - >-
+    https://jazztimes.com/features/profiles/yellowjackets-looking-back-and-moving-forward/
+  - 'https://allaboutjazz.com/musicians/yellowjackets/'
 network_extracted: true
 entry_created: '2025-11-08T21:51:08.998149'
 last_updated: '2025-12-23T08:16:18.335439'
 members:
-- begin: '1986'
-  end: '1999'
-  instruments: []
-  mbid: b91e37ad-6dff-4f9c-b5db-6a0fadc696fa
-  name: Will Kennedy
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e9bf37db-2ae3-4b3a-a0db-48ef5b57adae
-  name: Dane Alderson
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: fe1450b9-d320-4313-902c-2d8ff6238d80
-  name: Russell Ferrante
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 11cf80b6-1561-4aae-937f-8bfaf8d86fd9
-  name: Jimmy Haslip
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 1f6fad69-12ba-4645-a6d6-458212d487cb
-  name: Ricky Lawson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1e9b47ce-21eb-480a-9c7a-ac2dd8b0502a
-  name: Bob Mintzer
-- begin: ''
-  end: ''
-  instruments:
-  - electric bass guitar
-  mbid: bb0019ea-610f-47d7-86bc-437b6bc65bb8
-  name: Felix Pastorius
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2733f73d-7af7-46b2-b519-8e7e39f406d6
-  name: Marc Russo
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 27a25eb0-e20f-4704-9645-7a0fce40ae35
-  name: Marcus Baylor
+  - begin: '1986'
+    end: '1999'
+    instruments: []
+    mbid: b91e37ad-6dff-4f9c-b5db-6a0fadc696fa
+    name: Will Kennedy
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e9bf37db-2ae3-4b3a-a0db-48ef5b57adae
+    name: Dane Alderson
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: fe1450b9-d320-4313-902c-2d8ff6238d80
+    name: Russell Ferrante
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 11cf80b6-1561-4aae-937f-8bfaf8d86fd9
+    name: Jimmy Haslip
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 1f6fad69-12ba-4645-a6d6-458212d487cb
+    name: Ricky Lawson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1e9b47ce-21eb-480a-9c7a-ac2dd8b0502a
+    name: Bob Mintzer
+  - begin: ''
+    end: ''
+    instruments:
+      - electric bass guitar
+    mbid: bb0019ea-610f-47d7-86bc-437b6bc65bb8
+    name: Felix Pastorius
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2733f73d-7af7-46b2-b519-8e7e39f406d6
+    name: Marc Russo
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 27a25eb0-e20f-4704-9645-7a0fce40ae35
+    name: Marcus Baylor
 musicbrainz_id: 1243d99e-8f5a-4f7e-810c-5a1d20f41065
-origin: Los Angeles
+origin: 'Los Angeles, California, United States'
 tags:
-- contemporary jazz
-- fusion
-- jazz
+  - contemporary jazz
+  - fusion
+  - jazz
 ---
 
 ![](yellowjackets.jpg)

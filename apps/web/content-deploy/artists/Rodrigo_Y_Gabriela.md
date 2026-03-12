@@ -2,14 +2,14 @@
 title: Rodrigo Y Gabriela
 wiki_slug: rodrigo-y-gabriela
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 birth_date: '2000'
 genres:
-- acoustic rock
+  - acoustic rock
 instruments:
-- eponymous
-- original
+  - eponymous
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Rodrigo_Y_Gabriela.jpg
   caption: Rodrigo Y Gabriela
@@ -30,54 +30,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Damien Rice
-  - Cuban Orchestra (for Area 52 album)
-  - Lisa Hannigan, Zoe Conway
+    - Damien Rice
+    - Cuban Orchestra (for Area 52 album)
+    - 'Lisa Hannigan, Zoe Conway'
   influenced:
-  - Contemporary Acoustic Guitarists
+    - Contemporary Acoustic Guitarists
   mentors:
-  - Classic Rock and Heavy Metal Artists
+    - Classic Rock and Heavy Metal Artists
 spotify_data:
   followers: 462510
   id: 7vX3cMVyW8gtDA4y855ynF
   popularity: 46
-  url: https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF
+  url: 'https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF'
 discography_enriched: true
 top_tracks:
-- Tamacun (Rodrigo y Gabriela)
-- 'Angelica - From "Pirates of the Caribbean: On Stranger Tides"/Score'
-- 'Palm Tree Escape - From "Pirates of the Caribbean: On Stranger Tides"/Score'
-- Tamacún (Rodrigo y Gabriela)
-- Tamacun (Remastered) (Rodrigo y Gabriela (Deluxe Edition))
-- La Cumbia del Infinito (De Plaza en Plaza)
-- Diablo Rojo (Rodrigo y Gabriela)
-- 'Angry and Dead Again - From "Pirates of the Caribbean: On Stranger Tides"/Soundtrack Version'
-- Diablo Rojo (Rodrigo y Gabriela)
-- 'The Pirate That Should Not Be - From "Pirates of the Caribbean: On Stranger Tides"/Soundtrack Version'
+  - Tamacun (Rodrigo y Gabriela)
+  - 'Angelica - From "Pirates of the Caribbean: On Stranger Tides"/Score'
+  - 'Palm Tree Escape - From "Pirates of the Caribbean: On Stranger Tides"/Score'
+  - Tamacún (Rodrigo y Gabriela)
+  - Tamacun (Remastered) (Rodrigo y Gabriela (Deluxe Edition))
+  - La Cumbia del Infinito (De Plaza en Plaza)
+  - Diablo Rojo (Rodrigo y Gabriela)
+  - >-
+    Angry and Dead Again - From "Pirates of the Caribbean: On Stranger
+    Tides"/Soundtrack Version
+  - Diablo Rojo (Rodrigo y Gabriela)
+  - >-
+    The Pirate That Should Not Be - From "Pirates of the Caribbean: On Stranger
+    Tides"/Soundtrack Version
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a8ed28e3-5c08-4448-b889-867483e251f5
-  spotify: https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF
-  wikipedia: https://en.wikipedia.org/wiki/Rodrigo_y_Gabriela
+  musicbrainz: 'https://musicbrainz.org/artist/a8ed28e3-5c08-4448-b889-867483e251f5'
+  spotify: 'https://open.spotify.com/artist/7vX3cMVyW8gtDA4y855ynF'
+  wikipedia: 'https://en.wikipedia.org/wiki/Rodrigo_y_Gabriela'
 image_path: 03_Resources/source_material/ArtistPortraits/Rodrigo_Y_Gabriela.jpg
 biography_enhanced_at: '2025-10-19T11:11:51.829644'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://uk.yamaha.com/en/musical-instruments/guitars-basses-amps/artists/r/rodrigo-y-gabriela-yq.html
-- https://www.bighassle.com/rodrigo-y-gabriela-bio
-- https://www.last.fm/music/Rodrigo+y+Gabriela/+wiki
-- https://submergemag.com/music/rodrigo-y-gabriela/
-- https://www.alive.com/lifestyle/rodrigo-y-gabriela-an-evolution/
+  - >-
+    https://uk.yamaha.com/en/musical-instruments/guitars-basses-amps/artists/r/rodrigo-y-gabriela-yq.html
+  - 'https://www.bighassle.com/rodrigo-y-gabriela-bio'
+  - 'https://www.last.fm/music/Rodrigo+y+Gabriela/+wiki'
+  - 'https://submergemag.com/music/rodrigo-y-gabriela/'
+  - 'https://www.alive.com/lifestyle/rodrigo-y-gabriela-an-evolution/'
 network_extracted: true
 entry_created: '2025-10-19T11:11:51.829655'
 last_updated: '2025-12-23T08:16:03.723511'
 musicbrainz_enriched_at: '2025-10-21T09:42:19.916712'
 musicbrainz_id: a8ed28e3-5c08-4448-b889-867483e251f5
-origin: Mexico City, Mexico
+origin: 'Mexico City, Mexico'
 tags:
-- acoustic rock
-- flamenco
-- flamenco nuevo
+  - acoustic rock
+  - flamenco
+  - flamenco nuevo
+birth_place: Ciudad de México
 ---
 
 ![](Rodrigo_Y_Gabriela.jpg)

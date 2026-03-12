@@ -5,24 +5,24 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1911-05-13'
-birth_place: Pennsylvania
+birth_place: 'Homestead, Pennsylvania, United States'
 death_date: '1987-04-07'
 genres:
-- vocal jazz
-- swing music
+  - vocal jazz
+  - swing music
 instruments:
-- spoken vocals
+  - spoken vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5cd08f40-adab-412f-b77b-60e5ce843955
-  name: Maxine Sullivan and Her Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f08735df-14e8-4a65-8764-664632db0972
-  name: The World’s Greatest Jazzband
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5cd08f40-adab-412f-b77b-60e5ce843955
+    name: Maxine Sullivan and Her Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f08735df-14e8-4a65-8764-664632db0972
+    name: The World’s Greatest Jazzband
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/maxine_sullivan.jpg
   caption: Maxine Sullivan
@@ -45,46 +45,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John Kirby
-  - Louis Armstrong
-  - Teddy Wilson
-  - Benny Carter
-  - Cliff Jackson
-  - Bob Haggart
+    - John Kirby
+    - Louis Armstrong
+    - Teddy Wilson
+    - Benny Carter
+    - Cliff Jackson
+    - Bob Haggart
   influenced:
-  - Peggy Lee
+    - Peggy Lee
   mentors:
-  - Claude Thornhill
+    - Claude Thornhill
 spotify_data:
   followers: 11214
   id: 0tEpMx1r2UhJNf6yMvVBLG
   popularity: 26
-  url: https://open.spotify.com/artist/0tEpMx1r2UhJNf6yMvVBLG
+  url: 'https://open.spotify.com/artist/0tEpMx1r2UhJNf6yMvVBLG'
 discography_enriched: true
 top_tracks:
-- Enjoy Yourself (It's Later Than You Think) (Enjoy Yourself!)
-- 'Betsy: Blue Skies (Swing Street : Original 1931-1939 Recordings)'
-- Blue Skies
-- It Was a Lover and His Lass
-- Kinda Lonesome
-- S'posin' (Maxine Sullivan, Vol. 2)
-- Kinda Lonesome - Remastered (Maxine's Star, Vol. 1)
-- Someday Sweetheart (We Just Couldn't Say Goodbye)
-- Massachusetts (Maxine Sullivan, Vol. 2)
-- Ain't Misbehavin' (Maxine Sullivan, Vol. 2)
+  - Enjoy Yourself (It's Later Than You Think) (Enjoy Yourself!)
+  - 'Betsy: Blue Skies (Swing Street : Original 1931-1939 Recordings)'
+  - Blue Skies
+  - It Was a Lover and His Lass
+  - Kinda Lonesome
+  - 'S''posin'' (Maxine Sullivan, Vol. 2)'
+  - 'Kinda Lonesome - Remastered (Maxine''s Star, Vol. 1)'
+  - Someday Sweetheart (We Just Couldn't Say Goodbye)
+  - 'Massachusetts (Maxine Sullivan, Vol. 2)'
+  - 'Ain''t Misbehavin'' (Maxine Sullivan, Vol. 2)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/813de8c0-1cec-485b-989c-7ed17e998e65
-  spotify: https://open.spotify.com/artist/0tEpMx1r2UhJNf6yMvVBLG
-  wikipedia: https://en.wikipedia.org/wiki/Maxine_Sullivan
+  musicbrainz: 'https://musicbrainz.org/artist/813de8c0-1cec-485b-989c-7ed17e998e65'
+  spotify: 'https://open.spotify.com/artist/0tEpMx1r2UhJNf6yMvVBLG'
+  wikipedia: 'https://en.wikipedia.org/wiki/Maxine_Sullivan'
 image_path: 03_Resources/source_material/ArtistPortraits/maxine_sullivan.jpg
 biography_enhanced_at: '2025-12-19T01:44:33.084825'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Maxine_Sullivan
-- https://nmaahc.si.edu/explore/stories/life-well-sung
-- https://www.jazzstandards.com/biographies/biography_201.htm
-- https://syncopatedtimes.com/maxine-sullivan/
+  - 'https://en.wikipedia.org/wiki/Maxine_Sullivan'
+  - 'https://nmaahc.si.edu/explore/stories/life-well-sung'
+  - 'https://www.jazzstandards.com/biographies/biography_201.htm'
+  - 'https://syncopatedtimes.com/maxine-sullivan/'
 network_extracted: true
 entry_created: '2025-12-19T01:44:33.084838'
 last_updated: '2025-12-23T08:16:12.867172'
@@ -92,9 +92,10 @@ disambiguation: jazz singer
 gender: Female
 musicbrainz_id: 813de8c0-1cec-485b-989c-7ed17e998e65
 tags:
-- jazz
-- swing
-- vocal jazz
+  - jazz
+  - swing
+  - vocal jazz
+is_active: false
 ---
 
 ![](maxine_sullivan.jpg)

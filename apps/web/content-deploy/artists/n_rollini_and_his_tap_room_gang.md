@@ -1,11 +1,12 @@
 ---
-title: N ROLLINI AND HIS TAP ROOM GANG
+title: N Rollini and His Tap Room Gang
 wiki_slug: n-rollini-and-his-tap-room-gang
 schema_version: 2
 status: active
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/n_rollini_and_his_tap_room_gang.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/n_rollini_and_his_tap_room_gang.jpg
   caption: N ROLLINI AND HIS TAP ROOM GANG
   background: solo_singer
 audio_profile:
@@ -23,50 +24,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Red Nichols
-  - Jimmy Dorsey
-  - Tommy Dorsey
-  - Bix Beiderbecke
-  - Eddie Lang
-  - Joe Venuti
-  - Frank Trumbauer
-  - Bunny Berigan
-  - Benny Goodman
-  - Jack Teagarden
-  - Chelsea Quealey
-  - Bill Moore
+    - Red Nichols
+    - Jimmy Dorsey
+    - Tommy Dorsey
+    - Bix Beiderbecke
+    - Eddie Lang
+    - Joe Venuti
+    - Frank Trumbauer
+    - Bunny Berigan
+    - Benny Goodman
+    - Jack Teagarden
+    - Chelsea Quealey
+    - Bill Moore
   influenced: []
   mentors:
-  - Arthur Hand
-  - Ed Kirkeby
+    - Arthur Hand
+    - Ed Kirkeby
 spotify_data:
   followers: 2
   id: 3IQAoHMnYUXpajyRyQzVRY
   popularity: 0
-  url: https://open.spotify.com/artist/3IQAoHMnYUXpajyRyQzVRY
+  url: 'https://open.spotify.com/artist/3IQAoHMnYUXpajyRyQzVRY'
 discography_enriched: true
 top_tracks:
-- Bouncin&apos; In Rhythm (Honeysuckel Rose- American Hot Bands of the Thirties)
+  - >-
+    Bouncin&apos; In Rhythm (Honeysuckel Rose- American Hot Bands of the
+    Thirties)
 external_urls:
-  spotify: https://open.spotify.com/artist/3IQAoHMnYUXpajyRyQzVRY
-  wikipedia: https://en.wikipedia.org/wiki/Adrian_Rollini
+  spotify: 'https://open.spotify.com/artist/3IQAoHMnYUXpajyRyQzVRY'
+  wikipedia: 'https://en.wikipedia.org/wiki/Adrian_Rollini'
 image_path: ''
 biography_enhanced_at: '2025-11-27T06:30:42.682555'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Adrian Rollini
-- Denton Jazz Chronicles
-- The 78 RPM Record Spins
-- Sandy Brown Jazz
-- Last.fm - Adrian Rollini
-- Syncopated Times
-- Jazz Lives
-- Jazz Journal
+  - Wikipedia - Adrian Rollini
+  - Denton Jazz Chronicles
+  - The 78 RPM Record Spins
+  - Sandy Brown Jazz
+  - Last.fm - Adrian Rollini
+  - Syncopated Times
+  - Jazz Lives
+  - Jazz Journal
 network_extracted: true
 entry_created: '2025-11-27T06:30:42.682575'
 last_updated: '2025-12-23T08:16:13.385145'
-origin: New York, New York, United States (Hotel President, 234 West 48th Street)
+origin: 'New York, New York, United States (Hotel President, 234 West 48th Street)'
+birth_place: 'New York, New York, United States'
+birth_date: '1903-06-28'
+artist_type: person
 ---
 
 ![]()

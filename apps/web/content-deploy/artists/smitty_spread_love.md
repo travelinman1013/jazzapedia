@@ -3,21 +3,21 @@ title: Smitty Spread Love
 wiki_slug: smitty-spread-love
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, USA'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/smitty_spread_love.jpg
   caption: Smitty Spread Love
   background: solo_singer
-  origin: New Orleans, Louisiana, USA
+  origin: 'New Orleans, Louisiana, USA'
 audio_profile:
-  tempo_avg: 102.0
+  tempo_avg: 102
   energy_avg: 0.484
   valence_avg: 0.691
   danceability_avg: 0.691
   acousticness_avg: 0.621
-  instrumentalness_avg: 0.0
-  loudness_avg: -9.0
+  instrumentalness_avg: 0
+  loudness_avg: -9
   speechiness_avg: 0.21
   liveness_avg: 0.126
   track_count: 1
@@ -25,32 +25,35 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John Fuggin Dough
+    - John Fuggin Dough
   influenced: []
   mentors: []
 spotify_data:
   followers: 1
   id: 09RHJ7MVyrhgHUYN4WFDwv
   popularity: 2
-  url: https://open.spotify.com/artist/09RHJ7MVyrhgHUYN4WFDwv
+  url: 'https://open.spotify.com/artist/09RHJ7MVyrhgHUYN4WFDwv'
 discography_enriched: true
 top_tracks:
-- Utopia (The Odyssey)
+  - Utopia (The Odyssey)
 external_urls:
-  spotify: https://open.spotify.com/artist/09RHJ7MVyrhgHUYN4WFDwv
+  spotify: 'https://open.spotify.com/artist/09RHJ7MVyrhgHUYN4WFDwv'
   wikipedia: ''
 image_path: ''
 biography_enhanced_at: '2025-12-15T01:39:05.216783'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.click2houston.com/houston-life/2019/09/06/meet-houston-rideshare-rapper-smitty-spread-luv/[2]
-- https://www.youtube.com/watch?v=oBG1Lp6k8xE[3]
-- https://www.youtube.com/watch?v=S8SAWu0tiUc[6]
-- https://mabumbe.com/music/artist/16551239/smitty-spread-love[7]
+  - >-
+    https://www.click2houston.com/houston-life/2019/09/06/meet-houston-rideshare-rapper-smitty-spread-luv/[2]
+  - 'https://www.youtube.com/watch?v=oBG1Lp6k8xE[3]'
+  - 'https://www.youtube.com/watch?v=S8SAWu0tiUc[6]'
+  - 'https://mabumbe.com/music/artist/16551239/smitty-spread-love[7]'
 network_extracted: true
 entry_created: '2025-12-15T01:39:05.216810'
 last_updated: '2025-12-23T08:16:15.786843'
+origin: 'Houston, Texas, United States'
+artist_type: person
 ---
 
 ![]()

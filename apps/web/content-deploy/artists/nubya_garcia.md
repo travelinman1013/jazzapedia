@@ -5,22 +5,22 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1991'
-birth_place: London
+birth_place: 'Camden Town, London, England'
 genres:
-- nu jazz
-- jazz
-- jazz funk
+  - nu jazz
+  - jazz
+  - jazz funk
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 056bca2e-a5ce-4126-b74a-be6652b6aebf
-  name: Neue Grafik Ensemble
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 09eb1ddf-a67d-4b8d-8e47-1741fc9e31a8
-  name: Maisha
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 056bca2e-a5ce-4126-b74a-be6652b6aebf
+    name: Neue Grafik Ensemble
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 09eb1ddf-a67d-4b8d-8e47-1741fc9e31a8
+    name: Maisha
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/nubya_garcia.jpg
   caption: Nubya Garcia
@@ -28,13 +28,13 @@ infobox:
   born: '1991'
   origin: London
 audio_profile:
-  tempo_avg: 105.0
+  tempo_avg: 105
   energy_avg: 0.57
   valence_avg: 0.317
   danceability_avg: 0.48
   acousticness_avg: 0.333
   instrumentalness_avg: 0.651
-  loudness_avg: -10.0
+  loudness_avg: -10
   speechiness_avg: 0.069
   liveness_avg: 0.146
   track_count: 55
@@ -42,47 +42,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Joe Armon-Jones
-  - Moses Boyd
-  - Makaya McCraven
-  - Shabaka Hutchings
+    - Joe Armon-Jones
+    - Moses Boyd
+    - Makaya McCraven
+    - Shabaka Hutchings
   influenced:
-  - London jazz scene emerging artists
+    - London jazz scene emerging artists
   mentors:
-  - Nikki Yeoh
-  - Jean Toussaint
-  - Gary Crosby
+    - Nikki Yeoh
+    - Jean Toussaint
+    - Gary Crosby
 spotify_data:
   followers: 126349
   id: 6O5k8LLRfDK8v9jj1GazAQ
   popularity: 39
-  url: https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ
+  url: 'https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ'
 discography_enriched: true
 top_tracks:
-- Dentro Ali (Um Mar Pra Cada Um,)
-- Dawn [ft. esperanza spalding] (Odyssey)
-- Together Is A Beautiful Place To Be - Nala Sinephro Remix (SOURCE ⧺ WE MOVE)
-- Set It Free (Odyssey)
-- La cumbia me está llamando [Feat. La Perla] - Kaidi Tatham Remix (SOURCE ⧺ WE MOVE)
-- The Message Continues (SOURCE)
-- Lost Kingdoms (Nubya's 5ive)
-- Triumphance (Odyssey)
-- Set It Free [Feat. Richie]
-- Odyssey (Odyssey)
+  - 'Dentro Ali (Um Mar Pra Cada Um,)'
+  - 'Dawn [ft. esperanza spalding] (Odyssey)'
+  - Together Is A Beautiful Place To Be - Nala Sinephro Remix (SOURCE ⧺ WE MOVE)
+  - Set It Free (Odyssey)
+  - >-
+    La cumbia me está llamando [Feat. La Perla] - Kaidi Tatham Remix (SOURCE ⧺
+    WE MOVE)
+  - The Message Continues (SOURCE)
+  - Lost Kingdoms (Nubya's 5ive)
+  - Triumphance (Odyssey)
+  - 'Set It Free [Feat. Richie]'
+  - Odyssey (Odyssey)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/42dd1862-7255-47ed-8584-651abce3bf53
-  spotify: https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ
-  wikipedia: https://en.wikipedia.org/wiki/Nubya_Garcia
+  musicbrainz: 'https://musicbrainz.org/artist/42dd1862-7255-47ed-8584-651abce3bf53'
+  spotify: 'https://open.spotify.com/artist/6O5k8LLRfDK8v9jj1GazAQ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Nubya_Garcia'
 image_path: 03_Resources/source_material/ArtistPortraits/nubya_garcia.jpg
 biography_enhanced_at: '2025-11-21T07:12:15.972398'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Nubya_Garcia
-- https://www.jazzempowers.org/nubya-garcia
-- https://www.classical-music.com/features/artists/who-is-nubya-garcia
-- https://jazztimes.com/features/profiles/nubya-garcia-stands-out-on-londons-jazz-scene/
-- https://concord.com/artist/nubya-garcia/
+  - 'https://en.wikipedia.org/wiki/Nubya_Garcia'
+  - 'https://www.jazzempowers.org/nubya-garcia'
+  - 'https://www.classical-music.com/features/artists/who-is-nubya-garcia'
+  - >-
+    https://jazztimes.com/features/profiles/nubya-garcia-stands-out-on-londons-jazz-scene/
+  - 'https://concord.com/artist/nubya-garcia/'
 network_extracted: true
 entry_created: '2025-11-21T07:12:15.972405'
 last_updated: '2025-12-23T08:16:13.672176'
@@ -90,9 +93,9 @@ disambiguation: English jazz musician
 gender: Female
 musicbrainz_id: 42dd1862-7255-47ed-8584-651abce3bf53
 tags:
-- contemporary jazz
-- jazz
-- jazz fusion
+  - contemporary jazz
+  - jazz
+  - jazz fusion
 ---
 
 ![](nubya_garcia.jpg)

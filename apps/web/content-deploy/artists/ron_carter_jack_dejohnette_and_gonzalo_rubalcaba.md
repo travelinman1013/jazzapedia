@@ -1,14 +1,15 @@
 ---
-title: Ron Carter, Jack DeJohnette & Gonzalo Rubalcaba
+title: 'Ron Carter, Jack DeJohnette & Gonzalo Rubalcaba'
 wiki_slug: ron-carter-jack-dejohnette-gonzalo-rubalcaba
 schema_version: 2
 status: active
 genres:
-- latin jazz
-- jazz
+  - latin jazz
+  - jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/ron_carter_jack_dejohnette_and_gonzalo_rubalcaba.jpg
-  caption: Ron Carter, Jack DeJohnette & Gonzalo Rubalcaba
+  image: >-
+    03_Resources/source_material/ArtistPortraits/ron_carter_jack_dejohnette_and_gonzalo_rubalcaba.jpg
+  caption: 'Ron Carter, Jack DeJohnette & Gonzalo Rubalcaba'
   background: solo_singer
 audio_profile:
   tempo_avg: 111.8
@@ -25,49 +26,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Chick Corea
-  - Aymee Nuviola
+    - Chick Corea
+    - Aymee Nuviola
   influenced:
-  - Younger Cuban jazz pianists
-  - Modern jazz trios
+    - Younger Cuban jazz pianists
+    - Modern jazz trios
   mentors:
-  - Ron Carter
-  - Jack DeJohnette
+    - Ron Carter
+    - Jack DeJohnette
 spotify_data:
   followers: 33032
   id: 0qEGZBnqUgcVlTE7EEjR2F
   popularity: 31
-  url: https://open.spotify.com/artist/0qEGZBnqUgcVlTE7EEjR2F
+  url: 'https://open.spotify.com/artist/0qEGZBnqUgcVlTE7EEjR2F'
 discography_enriched: true
 top_tracks:
-- De Miami a La Habana (From Miami a La Habana)
-- Turning I (Turning Point / Trio D'ete)
-- Quizás, Quizás, Quizás
-- Unforgettable (Fascination)
-- El Manisero (A Journey Through Cuban Music)
-- Rumba Callejera - En Vivo (Viento y Tiempo (Live at Blue Note Tokyo))
-- 'Cabanga (Cachao Vive: El Alma del Contrabajo)'
-- Cómo Fue (with Gonzalo Rubalcaba) (Indestructible)
-- 'Canta Contrabajo (Cachao Vive: El Alma del Contrabajo)'
-- En La Orilla Del Mundo (Tokyo Adagio)
+  - De Miami a La Habana (From Miami a La Habana)
+  - Turning I (Turning Point / Trio D'ete)
+  - 'Quizás, Quizás, Quizás'
+  - Unforgettable (Fascination)
+  - El Manisero (A Journey Through Cuban Music)
+  - Rumba Callejera - En Vivo (Viento y Tiempo (Live at Blue Note Tokyo))
+  - 'Cabanga (Cachao Vive: El Alma del Contrabajo)'
+  - Cómo Fue (with Gonzalo Rubalcaba) (Indestructible)
+  - 'Canta Contrabajo (Cachao Vive: El Alma del Contrabajo)'
+  - En La Orilla Del Mundo (Tokyo Adagio)
 external_urls:
-  spotify: https://open.spotify.com/artist/0qEGZBnqUgcVlTE7EEjR2F
+  spotify: 'https://open.spotify.com/artist/0qEGZBnqUgcVlTE7EEjR2F'
   wikipedia: ''
-image_path: 03_Resources/source_material/ArtistPortraits/ron_carter_jack_dejohnette_and_gonzalo_rubalcaba.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/ron_carter_jack_dejohnette_and_gonzalo_rubalcaba.jpg
 biography_enhanced_at: '2025-11-01T15:25:12.249728'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://jazz.fm/gonzalo-rubalcaba-skyline-ron-carter-jack-dejohnette/
-- https://www.allaboutjazz.com/skyline-gonzalo-rubalcaba-5passion
-- https://jazztrail.net/blog/rubalcaba-carter-dejohnette-skyline-album-review
-- https://takeeffectreviews.com/april-2022/2022/4/2/ron-carter-gonzalo-jack-dejohnette-rubalcaba
-- https://www.boesendorfer.com/en/news/Gonzalo-Rubalcaba-1
-- https://www.sfjazz.org/onthecorner/5-things-to-know-about-gonzalo-rubalcaba/
+  - 'https://jazz.fm/gonzalo-rubalcaba-skyline-ron-carter-jack-dejohnette/'
+  - 'https://www.allaboutjazz.com/skyline-gonzalo-rubalcaba-5passion'
+  - 'https://jazztrail.net/blog/rubalcaba-carter-dejohnette-skyline-album-review'
+  - >-
+    https://takeeffectreviews.com/april-2022/2022/4/2/ron-carter-gonzalo-jack-dejohnette-rubalcaba
+  - 'https://www.boesendorfer.com/en/news/Gonzalo-Rubalcaba-1'
+  - 'https://www.sfjazz.org/onthecorner/5-things-to-know-about-gonzalo-rubalcaba/'
 network_extracted: true
 entry_created: '2025-11-01T15:25:12.249737'
 last_updated: '2025-12-23T08:16:15.011442'
-origin: Havana, Cuba (Rubalcaba); Ferndale, Michigan, USA (Carter); Chicago, Illinois, USA (DeJohnette)
+origin: >-
+  Havana, Cuba (Rubalcaba); Ferndale, Michigan, USA (Carter); Chicago, Illinois,
+  USA (DeJohnette)
+birth_place: 'Havana, Cuba'
+artist_type: band
 ---
 
 ![](ron_carter_jack_dejohnette_and_gonzalo_rubalcaba.jpg)

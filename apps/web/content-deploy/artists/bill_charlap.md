@@ -1,38 +1,38 @@
 ---
-title: bill charlap
+title: Bill Charlap
 wiki_slug: bill-charlap
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1966-10-15'
-birth_place: New York
+birth_place: 'New York City, New York, United States'
 genres:
-- jazz
-- cool jazz
-- vocal jazz
+  - jazz
+  - cool jazz
+  - vocal jazz
 instruments:
-- eponymous
-- original
-- piano
-- Rhodes piano
-associated_acts:
-- begin: '1995'
-  end: ''
-  instruments: []
-  mbid: 13876c39-4099-4e53-8717-c9db427a01e1
-  name: The Phil Woods Quintet + One
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: aedbc2b2-0fc5-4021-bf59-2be753f1ccd6
-  name: New York Trio
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
-  mbid: 8586b4ce-49e8-42a5-80b6-0d4429f99850
-  name: Bill Charlap Trio
+  - piano
+  - Rhodes piano
+associated_acts:
+  - begin: '1995'
+    end: ''
+    instruments: []
+    mbid: 13876c39-4099-4e53-8717-c9db427a01e1
+    name: The Phil Woods Quintet + One
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: aedbc2b2-0fc5-4021-bf59-2be753f1ccd6
+    name: New York Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 8586b4ce-49e8-42a5-80b6-0d4429f99850
+    name: Bill Charlap Trio
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bill_charlap.jpg
   caption: bill charlap
@@ -54,57 +54,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Peter Washington
-  - Kenny Washington
-  - Tony Bennett
-  - Sandy Stewart
-  - Renee Rosnes
-  - Gerry Mulligan
-  - Phil Woods
+    - Peter Washington
+    - Kenny Washington
+    - Tony Bennett
+    - Sandy Stewart
+    - Renee Rosnes
+    - Gerry Mulligan
+    - Phil Woods
   influenced:
-  - Students at William Paterson University
+    - Students at William Paterson University
   mentors:
-  - Bill Mays
+    - Bill Mays
 spotify_data:
   followers: 22176
   id: 2QX8yUROOnWTSLFg4sZ9Gg
   popularity: 40
-  url: https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg
+  url: 'https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg'
 discography_enriched: true
 top_tracks:
-- 'The Nearness Of You (Stardust: The Music Of Hoagy Carmichael)'
-- 'I Was So Young, And You Were So Beautiful (Plays George Gershwin: The American Soul)'
-- 'Georgia On My Mind (Stardust: The Music Of Hoagy Carmichael)'
-- The Way You Look Tonight (The Silver Lining - The Songs of Jerome Kern)
-- It's So Peaceful In The Country (All Through The Night)
-- All The Things You Are (The Silver Lining - The Songs of Jerome Kern)
-- Pure Imagination (All Through The Night)
-- Honeysuckle Rose
-- 'I Walk With Music (Stardust: The Music Of Hoagy Carmichael)'
-- Look For the Silver Lining (The Silver Lining - The Songs of Jerome Kern)
+  - 'The Nearness Of You (Stardust: The Music Of Hoagy Carmichael)'
+  - >-
+    I Was So Young, And You Were So Beautiful (Plays George Gershwin: The
+    American Soul)
+  - 'Georgia On My Mind (Stardust: The Music Of Hoagy Carmichael)'
+  - The Way You Look Tonight (The Silver Lining - The Songs of Jerome Kern)
+  - It's So Peaceful In The Country (All Through The Night)
+  - All The Things You Are (The Silver Lining - The Songs of Jerome Kern)
+  - Pure Imagination (All Through The Night)
+  - Honeysuckle Rose
+  - 'I Walk With Music (Stardust: The Music Of Hoagy Carmichael)'
+  - Look For the Silver Lining (The Silver Lining - The Songs of Jerome Kern)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/85cc88c3-f595-463a-8674-a54a6891eaa9
-  spotify: https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg
-  wikipedia: https://en.wikipedia.org/wiki/Bill_Charlap
+  musicbrainz: 'https://musicbrainz.org/artist/85cc88c3-f595-463a-8674-a54a6891eaa9'
+  spotify: 'https://open.spotify.com/artist/2QX8yUROOnWTSLFg4sZ9Gg'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bill_Charlap'
 image_path: 03_Resources/source_material/ArtistPortraits/bill_charlap.jpg
 biography_enhanced_at: '2025-10-22T09:33:25.935495'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Bill_Charlap
-- https://billcharlap.com/bio
-- https://www.bluenote.com/artist/bill-charlap/
-- https://theconrad.org/bio/bill-charlap/
-- https://www.laphil.com/musicdb/artists/1056/bill-charlap
+  - 'https://en.wikipedia.org/wiki/Bill_Charlap'
+  - 'https://billcharlap.com/bio'
+  - 'https://www.bluenote.com/artist/bill-charlap/'
+  - 'https://theconrad.org/bio/bill-charlap/'
+  - 'https://www.laphil.com/musicdb/artists/1056/bill-charlap'
 network_extracted: true
 entry_created: '2025-10-22T09:33:25.935505'
 last_updated: '2025-12-23T08:16:05.495126'
 gender: Male
 musicbrainz_id: 85cc88c3-f595-463a-8674-a54a6891eaa9
 tags:
-- jazz
-- jazz and blues
-- post-bop
+  - jazz
+  - jazz and blues
+  - post-bop
 ---
 
 ![](bill_charlap.jpg)

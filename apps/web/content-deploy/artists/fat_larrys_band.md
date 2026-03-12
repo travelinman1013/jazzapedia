@@ -3,57 +3,60 @@ biography_enhanced_at: '2026-01-11T02:25:05.852586'
 enhancement_provider: perplexity
 entry_created: '2026-01-11T02:25:05.852595'
 external_urls:
-  spotify: https://open.spotify.com/artist/0DapOnrmvQGwToOmgk6Fz8
-  wikipedia: https://en.wikipedia.org/wiki/Fat_Larry's_Band
+  spotify: 'https://open.spotify.com/artist/0DapOnrmvQGwToOmgk6Fz8'
+  wikipedia: 'https://en.wikipedia.org/wiki/Fat_Larry''s_Band'
 genres:
-- philly soul
-- funk
-- post-disco
+  - philly soul
+  - funk
+  - post-disco
 image_path: 03_Resources/source_material/ArtistPortraits/fat_larrys_band.jpg
 last_updated: '2026-01-11T02:25:05.852597'
 musical_connections:
   collaborators:
-  - “Fat” Larry James
-  - Larry La Bes
-  - Erskine Williams
-  - Ted Cohen
-  - Tony (Anthony) Middleton
-  - Art Capehart
-  - Doug (Khalif) Jones
-  - Jimmy Lee
-  - Freddie Campbell
-  - Darryl Grant
-  - Doris James
-  - Vincent Montana Jr.
-  - Len Barry
-  - Bobby Eli
+    - “Fat” Larry James
+    - Larry La Bes
+    - Erskine Williams
+    - Ted Cohen
+    - Tony (Anthony) Middleton
+    - Art Capehart
+    - Doug (Khalif) Jones
+    - Jimmy Lee
+    - Freddie Campbell
+    - Darryl Grant
+    - Doris James
+    - Vincent Montana Jr.
+    - Len Barry
+    - Bobby Eli
   influenced:
-  - N.W.A
-  - Ice‑T
-  - Jungle Brothers
-  - Run‑D.M.C.
-  - Later funk/boogie revival and nu‑disco DJs and producers
+    - N.W.A
+    - Ice‑T
+    - Jungle Brothers
+    - Run‑D.M.C.
+    - Later funk/boogie revival and nu‑disco DJs and producers
   mentors:
-  - Vincent Montana Jr.
-  - MFSB / Philadelphia soul studio tradition
+    - Vincent Montana Jr.
+    - MFSB / Philadelphia soul studio tradition
 network_extracted: true
-origin: Philadelphia, Pennsylvania, United States
+origin: 'Philadelphia, Pennsylvania, United States'
 primary_source: perplexity
 research_sources:
-- https://concord.com/artist/fat-larrys-band/
-- https://wbssmedia.com/artists/detail/1757
-- https://jointzoftheday.substack.com/p/larry-james-august-2-1949-december
-- https://www.last.fm/music/Fat+Larry%27s+Band/+wiki
-- https://www.jango.com/music/Fat+Larry+s+Band
-- https://en.wikipedia.org/wiki/Fat_Larry%27s_Band
-- https://andresmusictalk.wordpress.com/2017/08/02/anatomy-of-the-groove-act-like-you-know-by-fat-larrys-band/
+  - 'https://concord.com/artist/fat-larrys-band/'
+  - 'https://wbssmedia.com/artists/detail/1757'
+  - 'https://jointzoftheday.substack.com/p/larry-james-august-2-1949-december'
+  - 'https://www.last.fm/music/Fat+Larry%27s+Band/+wiki'
+  - 'https://www.jango.com/music/Fat+Larry+s+Band'
+  - 'https://en.wikipedia.org/wiki/Fat_Larry%27s_Band'
+  - >-
+    https://andresmusictalk.wordpress.com/2017/08/02/anatomy-of-the-groove-act-like-you-know-by-fat-larrys-band/
 spotify_data:
   followers: 45181
   id: 0DapOnrmvQGwToOmgk6Fz8
   popularity: 43
-  url: https://open.spotify.com/artist/0DapOnrmvQGwToOmgk6Fz8
+  url: 'https://open.spotify.com/artist/0DapOnrmvQGwToOmgk6Fz8'
 status: active
 title: Fat Larry's Band
+birth_date: '1949-08-02'
+artist_type: band
 ---
 
 ![](fat_larrys_band.jpg)

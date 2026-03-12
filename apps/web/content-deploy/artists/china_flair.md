@@ -1,5 +1,5 @@
 ---
-title: china flair
+title: China Flair
 wiki_slug: china-flair
 schema_version: 2
 artist_type: person
@@ -30,22 +30,22 @@ spotify_data:
   followers: 2
   id: 4qvBBnhOdtgvJ3nbPo1S4I
   popularity: 0
-  url: https://open.spotify.com/artist/4qvBBnhOdtgvJ3nbPo1S4I
+  url: 'https://open.spotify.com/artist/4qvBBnhOdtgvJ3nbPo1S4I'
 discography_enriched: true
 top_tracks:
-- Rockin' Way (The Instant & Minit Story)
-- Baby I Love You (White Cliffs 60's R&B/Funk/Blues Vol. 1)
-- He's My Man (White Cliffs 60's R&B/Funk/Blues Vol. 1)
+  - Rockin' Way (The Instant & Minit Story)
+  - Baby I Love You (White Cliffs 60's R&B/Funk/Blues Vol. 1)
+  - He's My Man (White Cliffs 60's R&B/Funk/Blues Vol. 1)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/76e2fb32-9a33-446a-be61-fa0932abe627
-  spotify: https://open.spotify.com/artist/4qvBBnhOdtgvJ3nbPo1S4I
+  musicbrainz: 'https://musicbrainz.org/artist/76e2fb32-9a33-446a-be61-fa0932abe627'
+  spotify: 'https://open.spotify.com/artist/4qvBBnhOdtgvJ3nbPo1S4I'
   wikipedia: ''
 image_path: ''
 biography_enhanced_at: '2025-11-06T13:29:18.559870'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://music.cliggo.com/artist/3431491-China_Flair/bio
+  - 'https://music.cliggo.com/artist/3431491-China_Flair/bio'
 network_extracted: true
 entry_created: '2025-11-06T13:29:18.559899'
 last_updated: '2025-12-23T08:16:06.848108'

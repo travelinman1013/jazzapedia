@@ -5,11 +5,11 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1946-01-04'
-birth_place: Berkeley
+birth_place: 'Berkeley, California, United States'
 death_date: '2001-05-19'
 genres:
-- vocal jazz
-- jazz
+  - vocal jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/susannah_mccorkle.jpg
   caption: Susannah McCorkle
@@ -32,56 +32,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Keith Ingham
-  - Scott Hamilton
-  - Ken Peplowski
-  - Bobby Hackett
-  - Ben Webster
-  - Frank Wess
-  - Dick Oates
-  - Rayburn Wright
+    - Keith Ingham
+    - Scott Hamilton
+    - Ken Peplowski
+    - Bobby Hackett
+    - Ben Webster
+    - Frank Wess
+    - Dick Oates
+    - Rayburn Wright
   influenced: []
   mentors:
-  - Billie Holiday
+    - Billie Holiday
 spotify_data:
   followers: 25845
   id: 0YmFjtGsr6KUo2XJOR9RSu
   popularity: 36
-  url: https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu
+  url: 'https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu'
 discography_enriched: true
 top_tracks:
-- The Waters Of March (From Bessie To Brazil)
-- Manhã de Carnaval (Sunrise) (Sabia)
-- I Don't Want To Set The World On Fire (Hearts and Minds)
-- Quality Time (From Bessie To Brazil)
-- A Beautiful Friendship (I'll Take Romance)
-- You Go To My Head (From Bessie To Brazil)
-- How Little We Know (The Songs Of Johnny Mercer)
-- How Deep Is The Ocean? (From Bessie To Brazil)
-- The Lady Is A Tramp (From Bessie To Brazil)
-- 'If I Only Had A Heart (Over The Rainbow: The Songs Of E.Y. "Yip" Harburg)'
+  - The Waters Of March (From Bessie To Brazil)
+  - Manhã de Carnaval (Sunrise) (Sabia)
+  - I Don't Want To Set The World On Fire (Hearts and Minds)
+  - Quality Time (From Bessie To Brazil)
+  - A Beautiful Friendship (I'll Take Romance)
+  - You Go To My Head (From Bessie To Brazil)
+  - How Little We Know (The Songs Of Johnny Mercer)
+  - How Deep Is The Ocean? (From Bessie To Brazil)
+  - The Lady Is A Tramp (From Bessie To Brazil)
+  - 'If I Only Had A Heart (Over The Rainbow: The Songs Of E.Y. "Yip" Harburg)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d5bd3f89-f148-4c97-ad41-a9f319ede1b3
-  spotify: https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu
+  musicbrainz: 'https://musicbrainz.org/artist/d5bd3f89-f148-4c97-ad41-a9f319ede1b3'
+  spotify: 'https://open.spotify.com/artist/0YmFjtGsr6KUo2XJOR9RSu'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/susannah_mccorkle.jpg
 biography_enhanced_at: '2025-12-09T04:18:14.869684'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://jazzfuel.com/susannah-mccorkle/
-- https://www.jango.com/music/Susannah+McCorkle/_full_bio
-- https://archives.nypl.org/mus/20354
-- https://www.timesunion.com/news/article/Requiem-for-a-blue-lady-13759228.php
+  - 'https://jazzfuel.com/susannah-mccorkle/'
+  - 'https://www.jango.com/music/Susannah+McCorkle/_full_bio'
+  - 'https://archives.nypl.org/mus/20354'
+  - 'https://www.timesunion.com/news/article/Requiem-for-a-blue-lady-13759228.php'
 network_extracted: true
 entry_created: '2025-12-09T04:18:14.869689'
 last_updated: '2025-12-23T08:16:16.269338'
 gender: Female
 musicbrainz_id: d5bd3f89-f148-4c97-ad41-a9f319ede1b3
 tags:
-- jazz
-- vocal jazz
-
+  - jazz
+  - vocal jazz
+is_active: false
 ---
 
 ![](susannah_mccorkle.jpg)

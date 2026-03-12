@@ -5,20 +5,20 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1951-10-02'
-birth_place: Santa Monica
+birth_place: 'Santa Monica, California, United States'
 genres:
-- blues
-- blues rock
-- modern blues
+  - blues
+  - blues rock
+  - modern blues
 instruments:
-- guitar
-- background vocals
+  - guitar
+  - background vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4756395c-57ed-4a63-afb2-01117f14dff6
-  name: John Mayall & the Bluesbreakers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4756395c-57ed-4a63-afb2-01117f14dff6
+    name: John Mayall & the Bluesbreakers
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/coco_montoya.jpg
   caption: Coco Montoya
@@ -40,55 +40,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Walter Trout
-  - Cate Brothers
+    - Walter Trout
+    - Cate Brothers
   influenced:
-  - Contemporary blues guitarists
+    - Contemporary blues guitarists
   mentors:
-  - Albert Collins
-  - John Mayall
+    - Albert Collins
+    - John Mayall
 spotify_data:
   followers: 53363
   id: 5nU57S2m2i7gWujCtGKmAb
   popularity: 32
-  url: https://open.spotify.com/artist/5nU57S2m2i7gWujCtGKmAb
+  url: 'https://open.spotify.com/artist/5nU57S2m2i7gWujCtGKmAb'
 discography_enriched: true
 top_tracks:
-- Before The Bullets Fly (Hard Truth)
-- Back In A Cadillac (Can't Look Back)
-- Good Days, Bad Days (Suspicion)
-- It's My Own Tears (Dirty Deal)
-- Am I Losing You (The Essential Coco Montoya)
-- Save It For The Next Fool (Writing On The Wall)
-- Good Man Gone (Coming In Hot)
-- Old Habits Are Hard To Break (Hard Truth)
-- I Was Wrong (Writing On The Wall)
-- Last Dirty Deal (Dirty Deal)
+  - Before The Bullets Fly (Hard Truth)
+  - Back In A Cadillac (Can't Look Back)
+  - 'Good Days, Bad Days (Suspicion)'
+  - It's My Own Tears (Dirty Deal)
+  - Am I Losing You (The Essential Coco Montoya)
+  - Save It For The Next Fool (Writing On The Wall)
+  - Good Man Gone (Coming In Hot)
+  - Old Habits Are Hard To Break (Hard Truth)
+  - I Was Wrong (Writing On The Wall)
+  - Last Dirty Deal (Dirty Deal)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3a517503-eb9a-4d08-8235-43e6482db116
-  spotify: https://open.spotify.com/artist/5nU57S2m2i7gWujCtGKmAb
-  wikipedia: https://en.wikipedia.org/wiki/Coco_Montoya
+  musicbrainz: 'https://musicbrainz.org/artist/3a517503-eb9a-4d08-8235-43e6482db116'
+  spotify: 'https://open.spotify.com/artist/5nU57S2m2i7gWujCtGKmAb'
+  wikipedia: 'https://en.wikipedia.org/wiki/Coco_Montoya'
 image_path: 03_Resources/source_material/ArtistPortraits/coco_montoya.jpg
 biography_enhanced_at: '2025-11-22T07:38:03.087984'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://abreathoffreshair.com.au/episodes/coco-montoyas-solo-journey-blazing-the-modern-blues-trail/
-- https://thekessler.org/bands/coco-montoya/
-- https://en.wikipedia.org/wiki/Coco_Montoya
-- https://wordpress.rufrecords.de/en/coco-montoya-e/
-- https://theduckclub.com/artist/coco-montoya/
-- https://www.cocomontoyaband.com/biography
-- https://bluesblastmagazine.com/featured-interview-coco-montoya-2/
-- https://oakbaynews.com/2025/07/28/coco-montoya-has-seen-it-all-and-is-still-going-strong/
+  - >-
+    https://abreathoffreshair.com.au/episodes/coco-montoyas-solo-journey-blazing-the-modern-blues-trail/
+  - 'https://thekessler.org/bands/coco-montoya/'
+  - 'https://en.wikipedia.org/wiki/Coco_Montoya'
+  - 'https://wordpress.rufrecords.de/en/coco-montoya-e/'
+  - 'https://theduckclub.com/artist/coco-montoya/'
+  - 'https://www.cocomontoyaband.com/biography'
+  - 'https://bluesblastmagazine.com/featured-interview-coco-montoya-2/'
+  - >-
+    https://oakbaynews.com/2025/07/28/coco-montoya-has-seen-it-all-and-is-still-going-strong/
 network_extracted: true
 entry_created: '2025-11-22T07:38:03.087996'
 last_updated: '2025-12-23T08:16:07.119606'
 gender: Male
 musicbrainz_id: 3a517503-eb9a-4d08-8235-43e6482db116
 tags:
-- blue-eyed soul
-- blues
+  - blue-eyed soul
+  - blues
 ---
 
 ![](coco_montoya.jpg)

@@ -1,86 +1,91 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-06T02:02:15.288993'
 birth_date: '2010'
 enhancement_provider: perplexity
 entry_created: '2026-01-06T02:02:15.288999'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/52633417-aa07-4a71-b421-c7e2dbd885bd
-  spotify: https://open.spotify.com/artist/3OhRf0ckgNh7hFznKBYG2a
+  musicbrainz: 'https://musicbrainz.org/artist/52633417-aa07-4a71-b421-c7e2dbd885bd'
+  spotify: 'https://open.spotify.com/artist/3OhRf0ckgNh7hFznKBYG2a'
   wikipedia: ''
 genres: []
-image_path: 03_Resources/source_material/ArtistPortraits/aurora_nealand_and_the_royal_roses.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/aurora_nealand_and_the_royal_roses.jpg
 instruments:
-- eponymous
-- original
-last_updated: '2026-01-06T02:02:15.288999'
-members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: df6f4469-1c10-4e24-8b16-fd374af476ff
-  name: Matt Bell
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5daefbb4-6cd2-46c3-9f5c-fcd09fe69189
-  name: Jon Ramm
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3f29c59a-8170-459f-a9dc-1f5024da0836
-  name: Joshua Gouzy
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 094dcfe1-13c0-42e2-ad1f-fff49c2b8d75
-  name: Nathan Lambertson
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
-  mbid: 90c8080f-67da-4de8-b093-c87bc394905a
-  name: Aurora Nealand
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3f48b1f1-4a5f-4379-9483-ef2da2336a4b
-  name: Paul Thibodeaux
+last_updated: '2026-01-06T02:02:15.288999'
+members:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: df6f4469-1c10-4e24-8b16-fd374af476ff
+    name: Matt Bell
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5daefbb4-6cd2-46c3-9f5c-fcd09fe69189
+    name: Jon Ramm
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3f29c59a-8170-459f-a9dc-1f5024da0836
+    name: Joshua Gouzy
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 094dcfe1-13c0-42e2-ad1f-fff49c2b8d75
+    name: Nathan Lambertson
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 90c8080f-67da-4de8-b093-c87bc394905a
+    name: Aurora Nealand
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3f48b1f1-4a5f-4379-9483-ef2da2336a4b
+    name: Paul Thibodeaux
 musical_connections:
   collaborators:
-  - The Royal Roses
-  - Panorama Jazz Band
-  - Rory Danger and the Danger Dangers
-  - redrawblak Trio
+    - The Royal Roses
+    - Panorama Jazz Band
+    - Rory Danger and the Danger Dangers
+    - redrawblak Trio
   influenced:
-  - Younger New Orleans traditional jazz musicians
-  - Walden School students
+    - Younger New Orleans traditional jazz musicians
+    - Walden School students
   mentors:
-  - Sidney Bechet
-  - Ben Schenck
-  - Jazz Vipers
+    - Sidney Bechet
+    - Ben Schenck
+    - Jazz Vipers
 musicbrainz_id: 52633417-aa07-4a71-b421-c7e2dbd885bd
 network_extracted: true
-origin: Pacifica, California, USA
+origin: 'Pacifica, California, USA'
 primary_source: perplexity
 research_sources:
-- https://www.churchofneworleans.com/church-of-new-orleans-blog/2021/5/28/happy-birthday-aurora-nealand
-- http://www.auroranealand.com/details
-- https://waldenschool.org/class/aurora-nealand-the-royal-roses/
-- https://musicinsideout.wwno.org/aurora-nealand/
-- https://antigravitymagazine.com/feature/the-gospel-according-to-aurora-nealand/
-- https://www.macdowell.org/artists/aurora-nealand
-- https://www.jonathanfreilich.com/music-interviews/2011/5/20/interview-with-aurora-nealand.html
-- https://www.neworleans.com/listing/aurora-nealand/46301/
-- https://www.myneworleans.com/aurora-nealand/
+  - >-
+    https://www.churchofneworleans.com/church-of-new-orleans-blog/2021/5/28/happy-birthday-aurora-nealand
+  - 'http://www.auroranealand.com/details'
+  - 'https://waldenschool.org/class/aurora-nealand-the-royal-roses/'
+  - 'https://musicinsideout.wwno.org/aurora-nealand/'
+  - >-
+    https://antigravitymagazine.com/feature/the-gospel-according-to-aurora-nealand/
+  - 'https://www.macdowell.org/artists/aurora-nealand'
+  - >-
+    https://www.jonathanfreilich.com/music-interviews/2011/5/20/interview-with-aurora-nealand.html
+  - 'https://www.neworleans.com/listing/aurora-nealand/46301/'
+  - 'https://www.myneworleans.com/aurora-nealand/'
 spotify_data:
   followers: 2598
   id: 3OhRf0ckgNh7hFznKBYG2a
   popularity: 4
-  url: https://open.spotify.com/artist/3OhRf0ckgNh7hFznKBYG2a
+  url: 'https://open.spotify.com/artist/3OhRf0ckgNh7hFznKBYG2a'
 status: active
 title: Aurora Nealand & The Royal Roses
+birth_place: 'Pacifica, California, United States'
 ---
 
 ![](aurora_nealand_and_the_royal_roses.jpg)

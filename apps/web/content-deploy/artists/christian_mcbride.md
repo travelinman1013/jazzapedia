@@ -3,14 +3,14 @@ title: Christian McBride
 wiki_slug: christian-mcbride
 schema_version: 2
 status: active
-birth_place: Philadelphia, Pennsylvania, United States
+birth_place: 'Philadelphia, Pennsylvania, United States'
 genres:
-- jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/christian_mcbride.jpg
   caption: Christian McBride
   background: solo_singer
-  origin: Philadelphia, Pennsylvania, United States
+  origin: 'Philadelphia, Pennsylvania, United States'
 audio_profile:
   tempo_avg: 112.8
   energy_avg: 0.323
@@ -18,7 +18,7 @@ audio_profile:
   danceability_avg: 0.516
   acousticness_avg: 0.747
   instrumentalness_avg: 0.597
-  loudness_avg: -17.0
+  loudness_avg: -17
   speechiness_avg: 0.054
   liveness_avg: 0.291
   track_count: 61
@@ -26,58 +26,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Freddie Hubbard
-  - Wynton Marsalis
-  - Christian Sands
-  - Ulysses Owens Jr.
-  - Ron Blake
-  - James Brown
+    - Freddie Hubbard
+    - Wynton Marsalis
+    - Christian Sands
+    - Ulysses Owens Jr.
+    - Ron Blake
+    - James Brown
   influenced:
-  - Nicole Glover
-  - Warren Wolf
-  - Jazz House Kids students
+    - Nicole Glover
+    - Warren Wolf
+    - Jazz House Kids students
   mentors:
-  - Ray Brown
-  - Bobby Watson
-  - Lee Smith
-  - Howard Cooper
+    - Ray Brown
+    - Bobby Watson
+    - Lee Smith
+    - Howard Cooper
 spotify_data:
   followers: 68632
   id: 5ACxPOI9gR3l0cyy2dvkHv
   popularity: 40
-  url: https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv
+  url: 'https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv'
 discography_enriched: true
 top_tracks:
-- Eleanor (West of 5th)
-- Murder by Numbers
-- September in the Rain (Public Eye)
-- More Is
-- Right Back Round Again (feat. Brad Mehldau, Christian McBride & Brian Blade) (RoundAgain (feat. Brad Mehldau, Christian
-  McBride, Brian Blade))
-- But Beautiful - Live (Trilogy 2 (Live))
-- Humpty Dumpty - Live (Trilogy 3 (Live))
-- Windows - Live (Trilogy 3 (Live))
-- Why Am I Treated So Bad (with Questlove, Christian McBride) [From “Norah Jones is Playing Along” Podcast]
-- Devil May Care (The Women Who Raised Me)
+  - Eleanor (West of 5th)
+  - Murder by Numbers
+  - September in the Rain (Public Eye)
+  - More Is
+  - >-
+    Right Back Round Again (feat. Brad Mehldau, Christian McBride & Brian Blade)
+    (RoundAgain (feat. Brad Mehldau, Christian McBride, Brian Blade))
+  - But Beautiful - Live (Trilogy 2 (Live))
+  - Humpty Dumpty - Live (Trilogy 3 (Live))
+  - Windows - Live (Trilogy 3 (Live))
+  - >-
+    Why Am I Treated So Bad (with Questlove, Christian McBride) [From “Norah
+    Jones is Playing Along” Podcast]
+  - Devil May Care (The Women Who Raised Me)
 external_urls:
-  spotify: https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv
+  spotify: 'https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/christian_mcbride.jpg
 biography_enhanced_at: '2025-12-13T11:43:28.891710'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.wrti.org/people/christian-mcbride
-- https://www.hollywoodbowl.com/musicdb/artists/1111/christian-mcbride-big-band
-- https://www.christianmcbride.com/bio
-- https://www.wbgo.org/people/christian-mcbride
-- https://cso.org/about/performers/visiting-artists/strings/christian-mcbride/
-- https://www.scmcgr.org/concerts/christian-mcbride-ursa-major
-- https://jazzhousekids.org/people/christian-mcbride/
-- https://www.sfjazz.org/onthecorner/christian-mcbride-classical-connections/
+  - 'https://www.wrti.org/people/christian-mcbride'
+  - >-
+    https://www.hollywoodbowl.com/musicdb/artists/1111/christian-mcbride-big-band
+  - 'https://www.christianmcbride.com/bio'
+  - 'https://www.wbgo.org/people/christian-mcbride'
+  - 'https://cso.org/about/performers/visiting-artists/strings/christian-mcbride/'
+  - 'https://www.scmcgr.org/concerts/christian-mcbride-ursa-major'
+  - 'https://jazzhousekids.org/people/christian-mcbride/'
+  - 'https://www.sfjazz.org/onthecorner/christian-mcbride-classical-connections/'
 network_extracted: true
 entry_created: '2025-12-13T11:43:28.891718'
 last_updated: '2025-12-23T08:16:06.920401'
+artist_type: person
 ---
 
 ![](christian_mcbride.jpg)

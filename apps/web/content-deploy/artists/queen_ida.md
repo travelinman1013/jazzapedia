@@ -3,21 +3,21 @@ title: Queen Ida
 wiki_slug: queen-ida
 schema_version: 2
 status: active
-birth_place: Lake Charles, Louisiana, United States
+birth_place: 'Lake Charles, Louisiana, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/queen_ida.jpg
   caption: Queen Ida
   background: solo_singer
-  origin: Lake Charles, Louisiana, United States
+  origin: 'Lake Charles, Louisiana, United States'
 audio_profile:
   tempo_avg: 125.6
   energy_avg: 0.59
   valence_avg: 0.464
   danceability_avg: 0.603
   acousticness_avg: 0.337
-  instrumentalness_avg: 0.0
-  loudness_avg: -6.0
+  instrumentalness_avg: 0
+  loudness_avg: -6
   speechiness_avg: 0.152
   liveness_avg: 0.169
   track_count: 50
@@ -25,52 +25,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Myrick 'Freeze' Guillory
-  - Wilbert Lewis
-  - Ledra Guillory and Ron 'The Rock' Guillory
-  - Terry Buddingh, James Santiago, Bernard Anderson, Erik Nielsen
+    - Myrick 'Freeze' Guillory
+    - Wilbert Lewis
+    - Ledra Guillory and Ron 'The Rock' Guillory
+    - 'Terry Buddingh, James Santiago, Bernard Anderson, Erik Nielsen'
   influenced:
-  - Subsequent generations of zydeco musicians
+    - Subsequent generations of zydeco musicians
   mentors:
-  - Ida's Mother (Elvina Lewis)
-  - Al Lewis (Al Rapone)
-  - Clifton Chenier
+    - Ida's Mother (Elvina Lewis)
+    - Al Lewis (Al Rapone)
+    - Clifton Chenier
 spotify_data:
   followers: 3319801
   id: 3nViOFa3kZW8OMSNOzwr98
   popularity: 58
-  url: https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98
+  url: 'https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98'
 discography_enriched: true
 top_tracks:
-- Medicine
-- Butterflies
-- Come Closer (feat. Queen Naija) (Hoodie SZN)
-- Karma
-- Butterflies Pt. 2 (missunderstood)
-- What’s My Name (with Queen Naija & Coi Leray) (B.I.B.L.E.)
-- Hate Our Love (with Big Sean)
-- Mama's Hand
-- Missing You
-- Pack Lite (missunderstood)
+  - Medicine
+  - Butterflies
+  - Come Closer (feat. Queen Naija) (Hoodie SZN)
+  - Karma
+  - Butterflies Pt. 2 (missunderstood)
+  - What’s My Name (with Queen Naija & Coi Leray) (B.I.B.L.E.)
+  - Hate Our Love (with Big Sean)
+  - Mama's Hand
+  - Missing You
+  - Pack Lite (missunderstood)
 external_urls:
-  spotify: https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98
+  spotify: 'https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/queen_ida.jpg
 biography_enhanced_at: '2025-11-27T06:32:38.686044'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Los Angeles Times Archives - 'How a Housewife Became Queen Ida, Evangelist of Zydeco'
-- 64 Parishes - Ida Guillory
-- Kiddle Kids - Queen Ida Facts for Kids
-- Last.fm - Queen Ida & Her Zydeco Band Biography
-- Terrance Simien - Queen Ida Guillory Honored in Louisiana
-- Masters of Traditional Arts - Queen Ida Guillory
-- National Endowment for the Arts - Queen Ida Guillory
-- Burntable - The Queen of Zydeco
+  - >-
+    Los Angeles Times Archives - 'How a Housewife Became Queen Ida, Evangelist
+    of Zydeco'
+  - 64 Parishes - Ida Guillory
+  - Kiddle Kids - Queen Ida Facts for Kids
+  - Last.fm - Queen Ida & Her Zydeco Band Biography
+  - Terrance Simien - Queen Ida Guillory Honored in Louisiana
+  - Masters of Traditional Arts - Queen Ida Guillory
+  - National Endowment for the Arts - Queen Ida Guillory
+  - Burntable - The Queen of Zydeco
 network_extracted: true
 entry_created: '2025-11-27T06:32:38.686058'
 last_updated: '2025-12-23T08:16:14.497739'
+birth_date: '1929-01-15'
+artist_type: person
 ---
 
 ![](queen_ida.jpg)

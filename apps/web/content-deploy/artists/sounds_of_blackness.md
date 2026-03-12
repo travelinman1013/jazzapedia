@@ -1,17 +1,17 @@
 ---
-title: SOUNDS OF BLACKNESS
+title: Sounds OF Blackness
 wiki_slug: sounds-of-blackness
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1969'
 genres:
-- gospel
-- new jack swing
+  - gospel
+  - new jack swing
 instruments:
-- lead vocals
-- background vocals
-- choir vocals
+  - lead vocals
+  - background vocals
+  - choir vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sounds_of_blackness.jpg
   caption: SOUNDS OF BLACKNESS
@@ -32,134 +32,136 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Gary Hines
-  - LaSalle Gabriel
+    - Gary Hines
+    - LaSalle Gabriel
   influenced: []
   mentors:
-  - Duke Ellington
-  - Russell Knighton
+    - Duke Ellington
+    - Russell Knighton
 spotify_data:
   followers: 54266
   id: 0a0l3QVhfMwQNAO4wPAmP9
   popularity: 44
-  url: https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9
+  url: 'https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9'
 discography_enriched: true
 top_tracks:
-- Optimistic (Evolution Of Gospel)
-- Hold On (Change Is Comin') (Time For Healing)
-- Optimistic
-- 'I Believe (Africa To America: The Journey Of The Drum)'
-- Hold On (Change Is Comin')
-- 'I''m Going All The Way (Africa To America: The Journey Of The Drum)'
-- 'I''m Going All The Way (Africa To America: The Journey Of The Drum)'
-- Optimistic - U.K. 7" Edit (The Collection)
-- The Pressure - Frankie Knuckles Classic Mix (With Intro) (The Collection)
-- 'I Believe (Africa To America: The Journey Of The Drum)'
+  - Optimistic (Evolution Of Gospel)
+  - Hold On (Change Is Comin') (Time For Healing)
+  - Optimistic
+  - 'I Believe (Africa To America: The Journey Of The Drum)'
+  - Hold On (Change Is Comin')
+  - 'I''m Going All The Way (Africa To America: The Journey Of The Drum)'
+  - 'I''m Going All The Way (Africa To America: The Journey Of The Drum)'
+  - Optimistic - U.K. 7" Edit (The Collection)
+  - The Pressure - Frankie Knuckles Classic Mix (With Intro) (The Collection)
+  - 'I Believe (Africa To America: The Journey Of The Drum)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4f9d560b-f378-4bdb-9676-8b7aa7744821
-  spotify: https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9
-  wikipedia: https://en.wikipedia.org/wiki/Sounds_of_Blackness
+  musicbrainz: 'https://musicbrainz.org/artist/4f9d560b-f378-4bdb-9676-8b7aa7744821'
+  spotify: 'https://open.spotify.com/artist/0a0l3QVhfMwQNAO4wPAmP9'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sounds_of_Blackness'
 image_path: 03_Resources/source_material/ArtistPortraits/sounds_of_blackness.jpg
 biography_enhanced_at: '2025-12-16T04:00:28.035827'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.gospelflava.com/articles/soundsofb.html
-- http://www.christianmusic.com/sounds_of_blackness/sounds_of_blackness.htm
-- https://spokesman-recorder.com/2024/06/14/sounds-blackness-music-impact/
-- https://en.wikipedia.org/wiki/Sounds_of_Blackness
-- https://first-avenue.com/performer/sounds-of-blackness/
-- https://www.soundsofblackness.org/about
-- https://www.mprnews.org/story/2022/07/21/gary-hines-and-sounds-of-blackness-stay-on-mission-for-more-than-50-years
+  - 'https://www.gospelflava.com/articles/soundsofb.html'
+  - 'http://www.christianmusic.com/sounds_of_blackness/sounds_of_blackness.htm'
+  - 'https://spokesman-recorder.com/2024/06/14/sounds-blackness-music-impact/'
+  - 'https://en.wikipedia.org/wiki/Sounds_of_Blackness'
+  - 'https://first-avenue.com/performer/sounds-of-blackness/'
+  - 'https://www.soundsofblackness.org/about'
+  - >-
+    https://www.mprnews.org/story/2022/07/21/gary-hines-and-sounds-of-blackness-stay-on-mission-for-more-than-50-years
 network_extracted: true
 entry_created: '2025-12-16T04:00:28.035834'
 last_updated: '2025-12-23T08:16:15.954594'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d42b19d1-7c2a-4939-90b3-49396b720b51
-  name: Jamecia Bennett
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c522ec53-3c5a-4699-85ef-a8ade601201d
-  name: Paris Bennett
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7a22678c-08a1-41ff-96d4-c6a730e5b209
-  name: Core Cotton
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 39f84a00-f52e-4012-b46d-2d01c66ca83e
-  name: Terrence “T‐Bone” Frierson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7d1efda0-714c-409e-be46-1d4cf0210edd
-  name: Lasalle Gabriel
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4cfe9a91-8eb9-4a5d-b75f-fb5c8fd0bbef
-  name: Carrie Harrington
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a1fb6f08-c483-45b3-a23a-753079c23f5c
-  name: Gary Hines
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: 99af4e6a-dc2f-4bb2-a6be-b4ac58f50b27
-  name: Quan Howell
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f8acc561-47ab-4598-8fba-a2289cbdbe76
-  name: Cynthia Johnson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ed706ba6-ee18-471f-8b0a-1c21476543af
-  name: Patricia Lacy
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 22c93fd3-9217-40e6-81f9-3bb74e2960b0
-  name: Yulanda Lunn
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3efd41cb-ac64-45a4-9483-9fe9039f2de3
-  name: Ann Nesby
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4547a5e9-400d-4598-a2a1-aec5aed999ea
-  name: Billy Steele
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d31d0640-c1c7-4ad7-90b5-939f157fe9bd
-  name: Libby Turner
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f2897a1e-8cad-4020-97b9-8772bf023796
-  name: Latrice Verrett
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f5c740d2-c737-4626-9cd9-8e0798c5839c
-  name: James Wright
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d42b19d1-7c2a-4939-90b3-49396b720b51
+    name: Jamecia Bennett
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c522ec53-3c5a-4699-85ef-a8ade601201d
+    name: Paris Bennett
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7a22678c-08a1-41ff-96d4-c6a730e5b209
+    name: Core Cotton
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 39f84a00-f52e-4012-b46d-2d01c66ca83e
+    name: Terrence “T‐Bone” Frierson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7d1efda0-714c-409e-be46-1d4cf0210edd
+    name: Lasalle Gabriel
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4cfe9a91-8eb9-4a5d-b75f-fb5c8fd0bbef
+    name: Carrie Harrington
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a1fb6f08-c483-45b3-a23a-753079c23f5c
+    name: Gary Hines
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: 99af4e6a-dc2f-4bb2-a6be-b4ac58f50b27
+    name: Quan Howell
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f8acc561-47ab-4598-8fba-a2289cbdbe76
+    name: Cynthia Johnson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ed706ba6-ee18-471f-8b0a-1c21476543af
+    name: Patricia Lacy
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 22c93fd3-9217-40e6-81f9-3bb74e2960b0
+    name: Yulanda Lunn
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3efd41cb-ac64-45a4-9483-9fe9039f2de3
+    name: Ann Nesby
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4547a5e9-400d-4598-a2a1-aec5aed999ea
+    name: Billy Steele
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d31d0640-c1c7-4ad7-90b5-939f157fe9bd
+    name: Libby Turner
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f2897a1e-8cad-4020-97b9-8772bf023796
+    name: Latrice Verrett
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f5c740d2-c737-4626-9cd9-8e0798c5839c
+    name: James Wright
 musicbrainz_id: 4f9d560b-f378-4bdb-9676-8b7aa7744821
-origin: Minneapolis–Saint Paul
+origin: 'Minneapolis–Saint Paul, Minnesota, United States'
 tags:
-- gospel
+  - gospel
+birth_place: 'Yonkers, New York, United States'
 ---
 
 ![](sounds_of_blackness.jpg)

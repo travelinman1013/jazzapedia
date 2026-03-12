@@ -3,44 +3,47 @@ biography_enhanced_at: '2026-01-22T07:13:02.889266'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:13:02.889278'
 external_urls:
-  spotify: https://open.spotify.com/artist/4T6JNArsi6h8yUgcmLpJJ1
-  wikipedia: https://en.wikipedia.org/wiki/The_Subdudes
+  spotify: 'https://open.spotify.com/artist/4T6JNArsi6h8yUgcmLpJJ1'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Subdudes'
 genres:
-- cajun
-- zydeco
-- roots rock
-- americana
+  - cajun
+  - zydeco
+  - roots rock
+  - americana
 image_path: 03_Resources/source_material/ArtistPortraits/subdudes.jpg
 last_updated: '2026-01-22T07:13:02.889278'
 musical_connections:
   collaborators:
-  - Johnny Ray Allen
-  - Steve Amedée
-  - John Magnie
-  - Tim Cook
-  - Jimmy Messa
-  - Freddy Koella
-  - Keb’ Mo’
+    - Johnny Ray Allen
+    - Steve Amedée
+    - John Magnie
+    - Tim Cook
+    - Jimmy Messa
+    - Freddy Koella
+    - Keb’ Mo’
   influenced: []
   mentors:
-  - Dave Malone
-  - Professor Longhair
+    - Dave Malone
+    - Professor Longhair
 network_extracted: true
-origin: New Orleans, Louisiana, USA
+origin: 'New Orleans, Louisiana, USA'
 primary_source: perplexity
 research_sources:
-- https://annarborobserver.com/the-subdudes/
-- https://colomusic.org/profile/the-subdudes/
-- https://sandiegotroubadour.com/the-subdudes-where-the-streets-meet-the-choir/
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/subdudes
-- https://en.wikipedia.org/wiki/The_Subdudes
+  - 'https://annarborobserver.com/the-subdudes/'
+  - 'https://colomusic.org/profile/the-subdudes/'
+  - >-
+    https://sandiegotroubadour.com/the-subdudes-where-the-streets-meet-the-choir/
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/subdudes
+  - 'https://en.wikipedia.org/wiki/The_Subdudes'
 spotify_data:
   followers: 19346
   id: 4T6JNArsi6h8yUgcmLpJJ1
   popularity: 31
-  url: https://open.spotify.com/artist/4T6JNArsi6h8yUgcmLpJJ1
+  url: 'https://open.spotify.com/artist/4T6JNArsi6h8yUgcmLpJJ1'
 status: active
 title: Subdudes
+artist_type: band
 ---
 
 ![](subdudes.jpg)

@@ -2,11 +2,11 @@
 title: Amadou & Mariam
 wiki_slug: amadou-mariam
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1980'
 genres:
-- afropop
+  - afropop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/amadou_and_mariam.jpg
   caption: Amadou & Mariam
@@ -27,72 +27,74 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Manu Chao
-  - Damon Albarn
-  - K’Naan
-  - David Gilmour
+    - Manu Chao
+    - Damon Albarn
+    - K’Naan
+    - David Gilmour
   influenced:
-  - Fatoumata Diawara
-  - Songhoy Blues
+    - Fatoumata Diawara
+    - Songhoy Blues
   mentors:
-  - Idrissa Soumaouro
-  - Salif Keita
+    - Idrissa Soumaouro
+    - Salif Keita
 spotify_data:
   followers: 253912
   id: 3KH7WsR2JZQ94Ik8SyabU6
   popularity: 55
-  url: https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6
+  url: 'https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6'
 discography_enriched: true
 top_tracks:
-- Grand Soleil
-- Sete
-- Sabali (Welcome To Mali)
-- Sete - Nitefreak Remix
-- Senegal Fast Food (Dimanche à Bamako)
-- Je pense à toi (Sou Ni Tile)
-- M' Bife (Dimanche à Bamako)
-- L'amour (C'est drôle la vie)
-- Bamako
-- Mon Cheri
+  - Grand Soleil
+  - Sete
+  - Sabali (Welcome To Mali)
+  - Sete - Nitefreak Remix
+  - Senegal Fast Food (Dimanche à Bamako)
+  - Je pense à toi (Sou Ni Tile)
+  - M' Bife (Dimanche à Bamako)
+  - L'amour (C'est drôle la vie)
+  - Bamako
+  - Mon Cheri
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1fb60b6c-0f4d-42b4-8a5e-de705ec76660
-  spotify: https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6
-  wikipedia: https://en.wikipedia.org/wiki/Amadou_&_Mariam
+  musicbrainz: 'https://musicbrainz.org/artist/1fb60b6c-0f4d-42b4-8a5e-de705ec76660'
+  spotify: 'https://open.spotify.com/artist/3KH7WsR2JZQ94Ik8SyabU6'
+  wikipedia: 'https://en.wikipedia.org/wiki/Amadou_&_Mariam'
 image_path: 03_Resources/source_material/ArtistPortraits/amadou_and_mariam.jpg
 biography_enhanced_at: '2025-11-05T12:48:13.156142'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Amadou_&_Mariam
-- https://www.britannica.com/topic/Amadou-and-Mariam
-- https://theatlantavoice.com/amadou-bagayoko-malian-guitarist-passes/
-- https://www.redbullmusicacademy.com/lectures/amadou-mariam/
-- https://www.songlines.co.uk/features/a-beginner-s-guide/amadou-mariam-a-beginner-s-guide
+  - 'https://en.wikipedia.org/wiki/Amadou_&_Mariam'
+  - 'https://www.britannica.com/topic/Amadou-and-Mariam'
+  - 'https://theatlantavoice.com/amadou-bagayoko-malian-guitarist-passes/'
+  - 'https://www.redbullmusicacademy.com/lectures/amadou-mariam/'
+  - >-
+    https://www.songlines.co.uk/features/a-beginner-s-guide/amadou-mariam-a-beginner-s-guide
 network_extracted: true
 entry_created: '2025-11-05T12:48:13.156157'
 last_updated: '2025-12-23T08:16:04.667650'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: de149788-e068-4d32-8bb4-96a915d91b1f
-  name: Les Paris Bamako
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a8d94c18-ecee-4a7c-8969-7ea925683bff
-  name: Amadou Bagayoko
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ce6bc459-27f6-4188-b13e-ccd72dc6bfb7
-  name: Mariam Doumbia
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: de149788-e068-4d32-8bb4-96a915d91b1f
+    name: Les Paris Bamako
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a8d94c18-ecee-4a7c-8969-7ea925683bff
+    name: Amadou Bagayoko
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ce6bc459-27f6-4188-b13e-ccd72dc6bfb7
+    name: Mariam Doumbia
 musicbrainz_id: 1fb60b6c-0f4d-42b4-8a5e-de705ec76660
-origin: Bamako
+origin: 'Bamako, Mali, Bamako'
 tags:
-- african blues
-- desert blues
-- francophone
+  - african blues
+  - desert blues
+  - francophone
+death_date: '2025-01-01'
 ---
 
 ![](amadou_and_mariam.jpg)

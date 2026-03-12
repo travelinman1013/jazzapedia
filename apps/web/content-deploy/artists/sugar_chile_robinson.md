@@ -5,9 +5,9 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1938-12-28'
-birth_place: Detroit
+birth_place: 'Detroit, Michigan, United States'
 genres:
-- boogie-woogie
+  - boogie-woogie
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sugar_chile_robinson.jpg
   caption: Sugar Chile Robinson
@@ -21,7 +21,7 @@ audio_profile:
   danceability_avg: 0.734
   acousticness_avg: 0.675
   instrumentalness_avg: 0.025
-  loudness_avg: -12.0
+  loudness_avg: -12
   speechiness_avg: 0.195
   liveness_avg: 0.13
   track_count: 50
@@ -29,56 +29,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lionel Hampton
-  - Count Basie
-  - Billie Holiday
-  - Harry the Hipster Gibson
-  - Gerry Mulligan
-  - Jimmy Richardson
-  - Red Saunders
+    - Lionel Hampton
+    - Count Basie
+    - Billie Holiday
+    - Harry the Hipster Gibson
+    - Gerry Mulligan
+    - Jimmy Richardson
+    - Red Saunders
   influenced: []
   mentors:
-  - Frankie Carle
+    - Frankie Carle
 spotify_data:
   followers: 2864
   id: 26FPFUS4BWVuP8VaF4QNLu
   popularity: 22
-  url: https://open.spotify.com/artist/26FPFUS4BWVuP8VaF4QNLu
+  url: 'https://open.spotify.com/artist/26FPFUS4BWVuP8VaF4QNLu'
 discography_enriched: true
 top_tracks:
-- Number's Boogie (Boogie Woogie!)
-- Rudolph The Red-Nosed Reindeer (Vooey Vooey Vay!)
-- Christmas Boogie (Vooey Vooey Vay!)
-- Go, Boy, Go (Boogie Woogie!)
-- Caledonia (What Makes Your Big Head So Hard) (Boogie Woogie!)
-- I'll Eat My Spinach (Vooey Vooey Vay!)
-- Christmas Boogie - Remastered 1990 (Christmas Kisses)
-- The Donkey Song (Vooey Vooey Vay!)
-- 'Caldonia (07-28-49) (Classics: 1949-1952)'
-- After School Blues (Vooey Vooey Vay!)
+  - Number's Boogie (Boogie Woogie!)
+  - Rudolph The Red-Nosed Reindeer (Vooey Vooey Vay!)
+  - Christmas Boogie (Vooey Vooey Vay!)
+  - 'Go, Boy, Go (Boogie Woogie!)'
+  - Caledonia (What Makes Your Big Head So Hard) (Boogie Woogie!)
+  - I'll Eat My Spinach (Vooey Vooey Vay!)
+  - Christmas Boogie - Remastered 1990 (Christmas Kisses)
+  - The Donkey Song (Vooey Vooey Vay!)
+  - 'Caldonia (07-28-49) (Classics: 1949-1952)'
+  - After School Blues (Vooey Vooey Vay!)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/853f4da3-af1e-4c04-b2eb-e32f4ab738fb
-  spotify: https://open.spotify.com/artist/26FPFUS4BWVuP8VaF4QNLu
-  wikipedia: https://en.wikipedia.org/wiki/Sugar_Chile_Robinson
+  musicbrainz: 'https://musicbrainz.org/artist/853f4da3-af1e-4c04-b2eb-e32f4ab738fb'
+  spotify: 'https://open.spotify.com/artist/26FPFUS4BWVuP8VaF4QNLu'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sugar_Chile_Robinson'
 image_path: 03_Resources/source_material/ArtistPortraits/sugar_chile_robinson.jpg
 biography_enhanced_at: '2025-12-09T05:13:35.879447'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Sugar_Chile_Robinson
-- https://www.imdb.com/name/nm0732630/bio/
-- https://www.musicmaker.org/artist/frank-sugar-chile-robinson/
-- https://syncopatedtimes.com/sugar-chile-robinson-back-in-limelight-thanks-to-go-boy-go-ad/
-- https://enjoyer.com/sugar-chile-robinson-child-star-detroit/
+  - 'https://en.wikipedia.org/wiki/Sugar_Chile_Robinson'
+  - 'https://www.imdb.com/name/nm0732630/bio/'
+  - 'https://www.musicmaker.org/artist/frank-sugar-chile-robinson/'
+  - >-
+    https://syncopatedtimes.com/sugar-chile-robinson-back-in-limelight-thanks-to-go-boy-go-ad/
+  - 'https://enjoyer.com/sugar-chile-robinson-child-star-detroit/'
 network_extracted: true
 entry_created: '2025-12-09T05:13:35.879455'
 last_updated: '2025-12-23T08:16:16.202216'
 gender: Male
 musicbrainz_id: 853f4da3-af1e-4c04-b2eb-e32f4ab738fb
 tags:
-- boogie-woogie
-- jump blues
-- piano blues
+  - boogie-woogie
+  - jump blues
+  - piano blues
 ---
 
 ![](sugar_chile_robinson.jpg)

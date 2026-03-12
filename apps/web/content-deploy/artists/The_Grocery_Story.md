@@ -5,7 +5,7 @@ schema_version: 2
 status: active
 aliases: []
 genres:
-- americana
+  - americana
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/The_Grocery_Story.jpg
   caption: The Grocery Story
@@ -16,7 +16,7 @@ audio_profile:
   valence_avg: 0.597
   danceability_avg: 0.437
   acousticness_avg: 0.187
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -8.2
   speechiness_avg: 0.047
   liveness_avg: 0.19
@@ -25,56 +25,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Steve Amedee
-  - Jess Amedee
-  - Peaches Embry
-  - Rhonda Merrick
-  - Erik Lunde
-  - Mike Finders
-  - Marty Rein
+    - Steve Amedee
+    - Jess Amedee
+    - Peaches Embry
+    - Rhonda Merrick
+    - Erik Lunde
+    - Mike Finders
+    - Marty Rein
   influenced: []
   mentors:
-  - The Subdudes
-  - New Orleans musical tradition
+    - The Subdudes
+    - New Orleans musical tradition
 related_artists: []
 spotify_data:
   followers: 10
   id: 29wlMc6o4Gn1zRAVePCO8L
   popularity: 0
-  url: https://open.spotify.com/artist/29wlMc6o4Gn1zRAVePCO8L
+  url: 'https://open.spotify.com/artist/29wlMc6o4Gn1zRAVePCO8L'
   verified: false
 discography_enriched: true
 albums_count: 1
 singles_count: 0
 top_tracks:
-- 'Situation on Aisle #3 (Situation on Aisle #3)'
-- 'Plaquemines Parish (Situation on Aisle #3)'
-- 'You Don''t Knock (Situation on Aisle #3)'
-- 'Call Me Up (Situation on Aisle #3)'
-- 'Big River (Situation on Aisle #3)'
-- 'Stick with Love (Situation on Aisle #3)'
-- 'Far Country (Situation on Aisle #3)'
-- 'Always Come Back Home (Situation on Aisle #3)'
-- 'Too Hurt To Cry (Situation on Aisle #3)'
+  - 'Situation on Aisle #3 (Situation on Aisle #3)'
+  - 'Plaquemines Parish (Situation on Aisle #3)'
+  - 'You Don''t Knock (Situation on Aisle #3)'
+  - 'Call Me Up (Situation on Aisle #3)'
+  - 'Big River (Situation on Aisle #3)'
+  - 'Stick with Love (Situation on Aisle #3)'
+  - 'Far Country (Situation on Aisle #3)'
+  - 'Always Come Back Home (Situation on Aisle #3)'
+  - 'Too Hurt To Cry (Situation on Aisle #3)'
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/29wlMc6o4Gn1zRAVePCO8L
-  wikipedia: https://en.wikipedia.org/wiki/Public_grocery_store
+  spotify: 'https://open.spotify.com/artist/29wlMc6o4Gn1zRAVePCO8L'
+  wikipedia: 'https://en.wikipedia.org/wiki/Public_grocery_store'
 image_path: 03_Resources/source_material/ArtistPortraits/The_Grocery_Story.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:27:35.525387'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://bohemianlivemusic.org/event/john-magnies-grocery-story/
-- https://thegrocerystory.com
-- https://thegrocerystory.bandcamp.com
-- https://www.coloradoan.com/things-to-do/events?_evDiscoveryPath=%2Fevent%2F2914562-john-magnie-s-grocery-story-band-opening-for-the-rebirth-brass-band
+  - 'https://bohemianlivemusic.org/event/john-magnies-grocery-story/'
+  - 'https://thegrocerystory.com'
+  - 'https://thegrocerystory.bandcamp.com'
+  - >-
+    https://www.coloradoan.com/things-to-do/events?_evDiscoveryPath=%2Fevent%2F2914562-john-magnie-s-grocery-story-band-opening-for-the-rebirth-brass-band
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 12:58:34.870507
+entry_created: 2025-09-18T12:58:34.870Z
 last_updated: '2025-12-23T08:16:04.079233'
-origin: Fort Collins, Colorado, USA
+origin: 'Fort Collins, Colorado, United States'
+artist_type: person
 ---
 
 ![](The_Grocery_Story.jpg)

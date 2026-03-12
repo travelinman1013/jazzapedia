@@ -3,15 +3,15 @@ title: Gregory Tardy
 wiki_slug: gregory-tardy
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- hard bop
-- bebop
+  - hard bop
+  - bebop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/gregory_tardy.jpg
   caption: Gregory Tardy
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 118.7
   energy_avg: 0.391
@@ -27,60 +27,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Elvin Jones
-  - Wynton Marsalis
-  - Tom Harrell
-  - Dave Douglas
-  - Andrew Hill
-  - Bill Frisell
-  - Brian Lynch
-  - Chris Potter
-  - Aaron Goldberg
-  - Brad Mehldau
-  - Joshua Redman
-  - Avishai Cohen
+    - Elvin Jones
+    - Wynton Marsalis
+    - Tom Harrell
+    - Dave Douglas
+    - Andrew Hill
+    - Bill Frisell
+    - Brian Lynch
+    - Chris Potter
+    - Aaron Goldberg
+    - Brad Mehldau
+    - Joshua Redman
+    - Avishai Cohen
   influenced:
-  - University of Tennessee–Knoxville jazz students
+    - University of Tennessee–Knoxville jazz students
   mentors:
-  - Ellis Marsalis
-  - Russell Dagon
-  - Jack Snavely
+    - Ellis Marsalis
+    - Russell Dagon
+    - Jack Snavely
 spotify_data:
   followers: 586
   id: 7cuX6MSHNJUjZ7kWMkdBN2
   popularity: 4
-  url: https://open.spotify.com/artist/7cuX6MSHNJUjZ7kWMkdBN2
+  url: 'https://open.spotify.com/artist/7cuX6MSHNJUjZ7kWMkdBN2'
 discography_enriched: true
 top_tracks:
-- Nothing Ill-Fitting (Longing for the Garden)
-- Bird In A Cage - Live (Bird In A Cage (Live))
-- Even In Your Silence (Longing for the Garden)
-- Floating (Freedom)
-- Along Came Betty (Jam Session Vol. 14)
-- The Hidden Light (The Hidden Light)
-- Nothing Ill-Fitting
-- Even In Your Silence
-- Everything Happens To Me (Jam Session Vol. 14)
-- Learning Curve (Jam Session Vol. 14)
+  - Nothing Ill-Fitting (Longing for the Garden)
+  - Bird In A Cage - Live (Bird In A Cage (Live))
+  - Even In Your Silence (Longing for the Garden)
+  - Floating (Freedom)
+  - Along Came Betty (Jam Session Vol. 14)
+  - The Hidden Light (The Hidden Light)
+  - Nothing Ill-Fitting
+  - Even In Your Silence
+  - Everything Happens To Me (Jam Session Vol. 14)
+  - Learning Curve (Jam Session Vol. 14)
 external_urls:
-  spotify: https://open.spotify.com/artist/7cuX6MSHNJUjZ7kWMkdBN2
-  wikipedia: https://en.wikipedia.org/wiki/Gregory_Tardy
+  spotify: 'https://open.spotify.com/artist/7cuX6MSHNJUjZ7kWMkdBN2'
+  wikipedia: 'https://en.wikipedia.org/wiki/Gregory_Tardy'
 image_path: 03_Resources/source_material/ArtistPortraits/gregory_tardy.jpg
 biography_enhanced_at: '2025-11-29T07:00:14.111706'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Gregory_Tardy
-- https://www.hoppermanagement.com/web/index.php/gregory-tardy.html
-- https://worship.calvin.edu/people/greg-tardy
-- https://www.gregorytardy.com
-- https://gregorytardy.com/biography.html
-- https://www.newvelle-records.com/pages/gregory-tardy
-- https://www.southarts.org/grant-fellowship-recipients/gregory-tardy-2021
-- https://www.superial.com/scrolls/greg%20tardy.html
+  - 'https://en.wikipedia.org/wiki/Gregory_Tardy'
+  - 'https://www.hoppermanagement.com/web/index.php/gregory-tardy.html'
+  - 'https://worship.calvin.edu/people/greg-tardy'
+  - 'https://www.gregorytardy.com'
+  - 'https://gregorytardy.com/biography.html'
+  - 'https://www.newvelle-records.com/pages/gregory-tardy'
+  - 'https://www.southarts.org/grant-fellowship-recipients/gregory-tardy-2021'
+  - 'https://www.superial.com/scrolls/greg%20tardy.html'
 network_extracted: true
 entry_created: '2025-11-29T07:00:14.111717'
 last_updated: '2025-12-23T08:16:09.358950'
+birth_date: '1966-02-03'
+artist_type: person
 ---
 
 ![](gregory_tardy.jpg)

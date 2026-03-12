@@ -1,16 +1,16 @@
 ---
-title: chubby checker
+title: Chubby Checker
 wiki_slug: chubby-checker
 schema_version: 2
 status: active
-birth_place: Spring Gully, South Carolina, United States
+birth_place: 'Spring Gully, South Carolina, United States'
 genres:
-- rock and roll
+  - rock and roll
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/chubby_checker.jpg
   caption: chubby checker
   background: solo_singer
-  origin: Spring Gully, South Carolina, United States
+  origin: 'Spring Gully, South Carolina, United States'
 audio_profile:
   tempo_avg: 132.3
   energy_avg: 0.741
@@ -18,7 +18,7 @@ audio_profile:
   danceability_avg: 0.618
   acousticness_avg: 0.263
   instrumentalness_avg: 0.001
-  loudness_avg: -6.0
+  loudness_avg: -6
   speechiness_avg: 0.057
   liveness_avg: 0.193
   track_count: 53
@@ -26,55 +26,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Cameo-Parkway Records
+    - Cameo-Parkway Records
   influenced:
-  - Fat Boys
-  - MC Hammer
-  - KC & the Sunshine Band
-  - Madonna
-  - Bruno Mars
-  - The Bee Gees
-  - Fabian
-  - Little Eva
+    - Fat Boys
+    - MC Hammer
+    - KC & the Sunshine Band
+    - Madonna
+    - Bruno Mars
+    - The Bee Gees
+    - Fabian
+    - Little Eva
   mentors:
-  - Fats Domino
-  - Hank Ballard
-  - Elvis Presley
+    - Fats Domino
+    - Hank Ballard
+    - Elvis Presley
 spotify_data:
   followers: 394981
   id: 7qQJQ3YtcGlqaLg5tcypN2
   popularity: 54
-  url: https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2
+  url: 'https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2'
 discography_enriched: true
 top_tracks:
-- Let's Twist Again (It's Pony Time/Let's Twist Again)
-- 'The Twist (Dancin'' Party: The Chubby Checker Collection (1960-1966))'
-- The Twist
-- The Twist
-- Limbo Rock
-- Let's Twist Again
-- 'Dancin'' Party (Dancin'' Party: The Chubby Checker Collection (1960-1966))'
-- Let's Twist Again - Radio Version
-- 'Slow Twistin'' (Dancin'' Party: The Chubby Checker Collection (1960-1966))'
-- Lets Twist Again
+  - Let's Twist Again (It's Pony Time/Let's Twist Again)
+  - 'The Twist (Dancin'' Party: The Chubby Checker Collection (1960-1966))'
+  - The Twist
+  - The Twist
+  - Limbo Rock
+  - Let's Twist Again
+  - 'Dancin'' Party (Dancin'' Party: The Chubby Checker Collection (1960-1966))'
+  - Let's Twist Again - Radio Version
+  - 'Slow Twistin'' (Dancin'' Party: The Chubby Checker Collection (1960-1966))'
+  - Lets Twist Again
 external_urls:
-  spotify: https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2
-  wikipedia: https://en.wikipedia.org/wiki/Chubby_Checker
+  spotify: 'https://open.spotify.com/artist/7qQJQ3YtcGlqaLg5tcypN2'
+  wikipedia: 'https://en.wikipedia.org/wiki/Chubby_Checker'
 image_path: 03_Resources/source_material/ArtistPortraits/chubby_checker.jpg
 biography_enhanced_at: '2025-11-11T09:29:25.439897'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://top40weekly.com/chubby-checker/
-- https://en.wikipedia.org/wiki/Chubby_Checker
-- https://rockhall.com/inductees/chubby-checker/
-- https://chubbychecker.com/king-of-the-twist/
-- https://www.classicbands.com/checker.html
-- https://www.biography.com/musicians/chubby-checker
-- https://www.britannica.com/biography/Chubby-Checker
+  - 'https://top40weekly.com/chubby-checker/'
+  - 'https://en.wikipedia.org/wiki/Chubby_Checker'
+  - 'https://rockhall.com/inductees/chubby-checker/'
+  - 'https://chubbychecker.com/king-of-the-twist/'
+  - 'https://www.classicbands.com/checker.html'
+  - 'https://www.biography.com/musicians/chubby-checker'
+  - 'https://www.britannica.com/biography/Chubby-Checker'
 network_extracted: true
 entry_created: '2025-11-11T09:29:25.439906'
 last_updated: '2025-12-23T08:16:06.970974'
+origin: 'South Philadelphia, Pennsylvania, United States'
+artist_type: person
 ---
 
 ![](chubby_checker.jpg)

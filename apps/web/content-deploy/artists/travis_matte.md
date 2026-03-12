@@ -3,15 +3,15 @@ title: Travis Matte
 wiki_slug: travis-matte
 schema_version: 2
 status: active
-birth_place: Church Point, Louisiana, United States
+birth_place: 'Church Point, Louisiana, United States'
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/travis_matte.jpg
   caption: Travis Matte
   background: solo_singer
-  origin: Church Point, Louisiana, United States
+  origin: 'Church Point, Louisiana, United States'
 audio_profile:
   tempo_avg: 132.7
   energy_avg: 0.709
@@ -27,46 +27,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Zydeco Kingpins
-  - Lagniappe
+    - The Zydeco Kingpins
+    - Lagniappe
   influenced: []
   mentors:
-  - Musical family and Cajun French heritage
+    - Musical family and Cajun French heritage
 spotify_data:
   followers: 1597
   id: 4aUJc6oHyFlp40LvYJS4U1
   popularity: 10
-  url: https://open.spotify.com/artist/4aUJc6oHyFlp40LvYJS4U1
+  url: 'https://open.spotify.com/artist/4aUJc6oHyFlp40LvYJS4U1'
 discography_enriched: true
 top_tracks:
-- Mardi Gras Parade (10)
-- Bring Your Drunk A*s Home (Hip Hop Zyderock)
-- La Danse Des Mardi Gras (Old Time Cajun Songs)
-- Miss You (Hip Hop Zyderock)
-- Too Fat To Wear That (Hip Hop Zyderock)
-- Camel Toe (Hip Hop Zyderock)
-- Booty Call 2008 (Hip Hop Zyderock)
-- Let's Get Nasty (Hip Hop Zyderock)
-- Not Lonesome Anymore (Sounds of the 1960's Cajun Dance Halls)
-- Musicians Waltz (Old Time Cajun Songs)
+  - Mardi Gras Parade (10)
+  - Bring Your Drunk A*s Home (Hip Hop Zyderock)
+  - La Danse Des Mardi Gras (Old Time Cajun Songs)
+  - Miss You (Hip Hop Zyderock)
+  - Too Fat To Wear That (Hip Hop Zyderock)
+  - Camel Toe (Hip Hop Zyderock)
+  - Booty Call 2008 (Hip Hop Zyderock)
+  - Let's Get Nasty (Hip Hop Zyderock)
+  - Not Lonesome Anymore (Sounds of the 1960's Cajun Dance Halls)
+  - Musicians Waltz (Old Time Cajun Songs)
 external_urls:
-  spotify: https://open.spotify.com/artist/4aUJc6oHyFlp40LvYJS4U1
+  spotify: 'https://open.spotify.com/artist/4aUJc6oHyFlp40LvYJS4U1'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/travis_matte.jpg
 biography_enhanced_at: '2025-12-09T05:20:14.168212'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- downtowncajunband.nl
-- 973thedawg.com
-- last.fm
-- en.wikipedia.org/wiki/Cajun_French_Music_Association
-- theadvertiser.com
-- offbeat.com
-- gator995.com
+  - downtowncajunband.nl
+  - 973thedawg.com
+  - last.fm
+  - en.wikipedia.org/wiki/Cajun_French_Music_Association
+  - theadvertiser.com
+  - offbeat.com
+  - gator995.com
 network_extracted: true
 entry_created: '2025-12-09T05:20:14.168220'
 last_updated: '2025-12-23T08:16:17.675447'
+artist_type: person
 ---
 
 ![](travis_matte.jpg)

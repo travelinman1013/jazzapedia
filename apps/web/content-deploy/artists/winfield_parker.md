@@ -1,19 +1,19 @@
 ---
-title: winfield parker
+title: Winfield Parker
 wiki_slug: winfield-parker
 schema_version: 2
 status: active
-birth_place: Cooksville, Maryland, United States
+birth_place: 'Cooksville, Maryland, United States'
 genres:
-- northern soul
-- philly soul
+  - northern soul
+  - philly soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/winfield_parker.jpg
   caption: winfield parker
   background: solo_singer
-  origin: Cooksville, Maryland, United States
+  origin: 'Cooksville, Maryland, United States'
 audio_profile:
-  tempo_avg: 119.0
+  tempo_avg: 119
   energy_avg: 0.594
   valence_avg: 0.693
   danceability_avg: 0.585
@@ -27,44 +27,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sammy Fitzhugh & the Moroccans
-  - Richard Dunbar (Knight Brothers)
-  - Milt Matthews
+    - Sammy Fitzhugh & the Moroccans
+    - Richard Dunbar (Knight Brothers)
+    - Milt Matthews
   influenced: []
   mentors:
-  - Little Richard
+    - Little Richard
 spotify_data:
   followers: 855
   id: 2j4FgbTuV5mE47Mn5gkhRb
   popularity: 10
-  url: https://open.spotify.com/artist/2j4FgbTuV5mE47Mn5gkhRb
+  url: 'https://open.spotify.com/artist/2j4FgbTuV5mE47Mn5gkhRb'
 discography_enriched: true
 top_tracks:
-- 'Shake That Thing (Cooler Than Ice: Arctic Records and the Rise of Philly Soul)'
-- 'When I''m Alone (Mr. Clean: Winfield Parker At Ru-Jac)'
-- 'Wondering (Mr. Clean: Winfield Parker At Ru-Jac)'
-- I Wanna Be With You (Best of Winfield Parker)
-- I Wanna Be with You (I Wanna Be with You / My Love for You)
-- S.O.S. (Best of Winfield Parker)
-- 28 Ways (Best of Winfield Parker)
-- Sending Up My Timber (Sending Up My Timber)
-- 'Mr Clean (Rare Soul: Groove & Grind 1963-1973)'
-- 'Oh My Love (Mr. Clean: Winfield Parker At Ru-Jac)'
+  - >-
+    Shake That Thing (Cooler Than Ice: Arctic Records and the Rise of Philly
+    Soul)
+  - 'When I''m Alone (Mr. Clean: Winfield Parker At Ru-Jac)'
+  - 'Wondering (Mr. Clean: Winfield Parker At Ru-Jac)'
+  - I Wanna Be With You (Best of Winfield Parker)
+  - I Wanna Be with You (I Wanna Be with You / My Love for You)
+  - S.O.S. (Best of Winfield Parker)
+  - 28 Ways (Best of Winfield Parker)
+  - Sending Up My Timber (Sending Up My Timber)
+  - 'Mr Clean (Rare Soul: Groove & Grind 1963-1973)'
+  - 'Oh My Love (Mr. Clean: Winfield Parker At Ru-Jac)'
 external_urls:
-  spotify: https://open.spotify.com/artist/2j4FgbTuV5mE47Mn5gkhRb
-  wikipedia: https://en.wikipedia.org/wiki/Winfield_Parker
+  spotify: 'https://open.spotify.com/artist/2j4FgbTuV5mE47Mn5gkhRb'
+  wikipedia: 'https://en.wikipedia.org/wiki/Winfield_Parker'
 image_path: 03_Resources/source_material/ArtistPortraits/winfield_parker.jpg
 biography_enhanced_at: '2025-11-04T11:01:30.428821'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://winfieldparker.wordpress.com/about/
-- https://en.wikipedia.org/wiki/Winfield_Parker
-- http://jamguy.com/Winfield_Parker/main.php
-- https://www.popmatters.com/winfield-parker-mr-clean-winfield-parker-at-ru-jac-2495432865.html
+  - 'https://winfieldparker.wordpress.com/about/'
+  - 'https://en.wikipedia.org/wiki/Winfield_Parker'
+  - 'http://jamguy.com/Winfield_Parker/main.php'
+  - >-
+    https://www.popmatters.com/winfield-parker-mr-clean-winfield-parker-at-ru-jac-2495432865.html
 network_extracted: true
 entry_created: '2025-11-04T11:01:30.428832'
 last_updated: '2025-12-23T08:16:18.243321'
+birth_date: '1942-06-21'
+death_date: '2021-01-18'
+artist_type: person
 ---
 
 ![](winfield_parker.jpg)

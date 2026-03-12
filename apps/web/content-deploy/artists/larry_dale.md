@@ -1,39 +1,41 @@
 ---
 biography_enhanced_at: '2026-01-06T02:07:26.256478'
-birth_place: Wharton, Texas, United States
+birth_place: 'Wharton, Texas, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-06T02:07:26.256483'
 external_urls:
-  spotify: https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw
-  wikipedia: https://en.wikipedia.org/wiki/Larry_Dale
+  spotify: 'https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw'
+  wikipedia: 'https://en.wikipedia.org/wiki/Larry_Dale'
 genres:
-- christian country
-- country
+  - christian country
+  - country
 image_path: 03_Resources/source_material/ArtistPortraits/larry_dale.jpg
 last_updated: '2026-01-06T02:07:26.256484'
 musical_connections:
   collaborators:
-  - Champion Jack Dupree
+    - Champion Jack Dupree
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Larry+Dale
-- https://en.wikipedia.org/wiki/Larry_Dale
-- https://tims.blackcat.nl/messages/larry_dale.htm
-- https://www.classic45s.com/collections/larry-dale
-- https://guitardiscography.com/larry-dale/
-- https://www.allmusic.com/artist/larry-dale-mn0000781688
-- https://sundayblues.org/wp-content/uploads/2020/01/larydale-1.pdf
+  - 'https://www.last.fm/music/Larry+Dale'
+  - 'https://en.wikipedia.org/wiki/Larry_Dale'
+  - 'https://tims.blackcat.nl/messages/larry_dale.htm'
+  - 'https://www.classic45s.com/collections/larry-dale'
+  - 'https://guitardiscography.com/larry-dale/'
+  - 'https://www.allmusic.com/artist/larry-dale-mn0000781688'
+  - 'https://sundayblues.org/wp-content/uploads/2020/01/larydale-1.pdf'
 spotify_data:
   followers: 184532
   id: 6MWr1SmTaCU5BJzOZxwJEw
   popularity: 60
-  url: https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw
+  url: 'https://open.spotify.com/artist/6MWr1SmTaCU5BJzOZxwJEw'
 status: active
-title: LARRY DALE
-
+title: Larry Dale
+birth_date: '1923-01-07'
+death_date: '2010-05-19'
+artist_type: person
 ---
 
 ![](larry_dale.jpg)

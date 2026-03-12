@@ -3,14 +3,14 @@ title: Tess Henley
 wiki_slug: tess-henley
 schema_version: 2
 status: active
-birth_place: Kent, Washington, United States
+birth_place: 'Kent, Washington, United States'
 genres:
-- christmas
+  - christmas
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/tess_henley.jpg
   caption: Tess Henley
   background: solo_singer
-  origin: Kent, Washington, United States
+  origin: 'Kent, Washington, United States'
 audio_profile:
   tempo_avg: 110.7
   energy_avg: 0.64
@@ -26,46 +26,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - James Gadson
-  - James Hutchinson
-  - Mark Goldenberg
-  - Mike Finnigan
-  - Michito Sanchez
-  - Davide Rossi
+    - James Gadson
+    - James Hutchinson
+    - Mark Goldenberg
+    - Mike Finnigan
+    - Michito Sanchez
+    - Davide Rossi
   influenced: []
   mentors:
-  - Tess Henley's mother
-  - Don Was
+    - Tess Henley's mother
+    - Don Was
 spotify_data:
   followers: 12071
   id: 6LWofoi18999gZK0EgVSjv
   popularity: 26
-  url: https://open.spotify.com/artist/6LWofoi18999gZK0EgVSjv
+  url: 'https://open.spotify.com/artist/6LWofoi18999gZK0EgVSjv'
 discography_enriched: true
 top_tracks:
-- Dean Martin (Better)
-- Same Girl (Same Girl)
-- White Christmas (Joy, A Holiday Pack)
-- Better (Better)
-- Love It or Leave It (Better)
-- Wonderland (Wonderland)
-- Win Or Lose (At Home) (At Home)
-- Love You More (At Home) (Love You More (At Home))
-- Not In The Mood (At Home) (Not In The Mood (At Home))
-- Better (At Home) (At Home)
+  - Dean Martin (Better)
+  - Same Girl (Same Girl)
+  - 'White Christmas (Joy, A Holiday Pack)'
+  - Better (Better)
+  - Love It or Leave It (Better)
+  - Wonderland (Wonderland)
+  - Win Or Lose (At Home) (At Home)
+  - Love You More (At Home) (Love You More (At Home))
+  - Not In The Mood (At Home) (Not In The Mood (At Home))
+  - Better (At Home) (At Home)
 external_urls:
-  spotify: https://open.spotify.com/artist/6LWofoi18999gZK0EgVSjv
+  spotify: 'https://open.spotify.com/artist/6LWofoi18999gZK0EgVSjv'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/tess_henley.jpg
 biography_enhanced_at: '2025-11-11T09:15:54.758804'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://essentiallypop.com/epop/2015/11/tess-henley-wonderland/
-- http://weechats.com/brilliant-people/tess-henley-singer-songwriter/
+  - 'https://essentiallypop.com/epop/2015/11/tess-henley-wonderland/'
+  - 'http://weechats.com/brilliant-people/tess-henley-singer-songwriter/'
 network_extracted: true
 entry_created: '2025-11-11T09:15:54.758816'
 last_updated: '2025-12-23T08:16:16.497705'
+artist_type: person
 ---
 
 ![](tess_henley.jpg)

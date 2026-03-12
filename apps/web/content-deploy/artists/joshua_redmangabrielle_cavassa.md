@@ -1,16 +1,17 @@
 ---
-title: joshua redman/gabrielle cavassa
+title: Joshua Redman/Gabrielle Cavassa
 wiki_slug: joshua-redmangabrielle-cavassa
 schema_version: 2
 status: active
-birth_place: Berkeley, California, United States
+birth_place: 'Berkeley, California, United States'
 genres:
-- jazz
+  - jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/joshua_redmangabrielle_cavassa.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/joshua_redmangabrielle_cavassa.jpg
   caption: joshua redman/gabrielle cavassa
   background: solo_singer
-  origin: Berkeley, California, United States
+  origin: 'Berkeley, California, United States'
 audio_profile:
   tempo_avg: 114.7
   energy_avg: 0.369
@@ -26,55 +27,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Brad Mehldau
-  - Christian McBride
-  - Brian Blade
-  - Pat Metheny
-  - Aaron Goldberg, Reuben Rogers, Gregory Hutchinson
-  - Sam Yahel
-  - SFJAZZ Collective members
+    - Brad Mehldau
+    - Christian McBride
+    - Brian Blade
+    - Pat Metheny
+    - 'Aaron Goldberg, Reuben Rogers, Gregory Hutchinson'
+    - Sam Yahel
+    - SFJAZZ Collective members
   influenced:
-  - Younger contemporary jazz saxophonists (e.g., peers and successors in post‑1990s jazz)
+    - >-
+      Younger contemporary jazz saxophonists (e.g., peers and successors in
+      post‑1990s jazz)
   mentors:
-  - Dewey Redman
-  - Ed Kelly
-  - John Coltrane
-  - Ornette Coleman
+    - Dewey Redman
+    - Ed Kelly
+    - John Coltrane
+    - Ornette Coleman
 spotify_data:
   followers: 120155
   id: 3uaHfXYx9Fh4HjqMbrWn5S
   popularity: 43
-  url: https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S
+  url: 'https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S'
 discography_enriched: true
 top_tracks:
-- Body & Soul (Joshua Redman)
-- Where Are You? (where are we)
-- Baltimore (where are we)
-- Borrowed Eyes
-- As This Moment Slips Away (The Bad Plus Joshua Redman)
-- The Folks Who Live on the Hill (Walking Shadows)
-- Chicago Blues (where are we)
-- You've Got A Friend In Me
-- The Nearness of You (Nearness)
-- I Got You - I Feel Good (Joshua Redman)
+  - Body & Soul (Joshua Redman)
+  - Where Are You? (where are we)
+  - Baltimore (where are we)
+  - Borrowed Eyes
+  - As This Moment Slips Away (The Bad Plus Joshua Redman)
+  - The Folks Who Live on the Hill (Walking Shadows)
+  - Chicago Blues (where are we)
+  - You've Got A Friend In Me
+  - The Nearness of You (Nearness)
+  - I Got You - I Feel Good (Joshua Redman)
 external_urls:
-  spotify: https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S
-  wikipedia: https://en.wikipedia.org/wiki/Joshua_Redman
-image_path: 03_Resources/source_material/ArtistPortraits/joshua_redmangabrielle_cavassa.jpg
+  spotify: 'https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S'
+  wikipedia: 'https://en.wikipedia.org/wiki/Joshua_Redman'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/joshua_redmangabrielle_cavassa.jpg
 biography_enhanced_at: '2025-12-18T02:46:46.190308'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://music.stanford.edu/people/joshua-redman
-- https://www.joshuaredman.com/bio-1
-- https://www.joshuaredman.com/full-bio
-- https://en.wikipedia.org/wiki/Joshua_Redman
-- https://originarts.com/artists/artist.php?Artist_ID=113
-- https://jazztimes.com/features/profiles/joshua-redman-playing-through-the-changes/
-- https://www.selmer.fr/en/blogs/artistes/joshua-redman
+  - 'https://music.stanford.edu/people/joshua-redman'
+  - 'https://www.joshuaredman.com/bio-1'
+  - 'https://www.joshuaredman.com/full-bio'
+  - 'https://en.wikipedia.org/wiki/Joshua_Redman'
+  - 'https://originarts.com/artists/artist.php?Artist_ID=113'
+  - >-
+    https://jazztimes.com/features/profiles/joshua-redman-playing-through-the-changes/
+  - 'https://www.selmer.fr/en/blogs/artistes/joshua-redman'
 network_extracted: true
 entry_created: '2025-12-18T02:46:46.190317'
 last_updated: '2025-12-23T08:16:11.001735'
+birth_date: '1969-02-01'
+artist_type: person
 ---
 
 ![](joshua_redmangabrielle_cavassa.jpg)

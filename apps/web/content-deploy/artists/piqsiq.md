@@ -1,51 +1,53 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-18T07:52:23.172971'
 enhancement_provider: perplexity
 entry_created: '2026-01-18T07:52:23.172978'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3bc0fa72-e51c-4b9a-8841-2ff1decc059f
-  spotify: https://open.spotify.com/artist/22sYXaxfo8wisgHn4pvCTZ
+  musicbrainz: 'https://musicbrainz.org/artist/3bc0fa72-e51c-4b9a-8841-2ff1decc059f'
+  spotify: 'https://open.spotify.com/artist/22sYXaxfo8wisgHn4pvCTZ'
   wikipedia: ''
 genres:
-- native american music
+  - native american music
 image_path: 03_Resources/source_material/ArtistPortraits/piqsiq.jpg
 last_updated: '2026-01-18T07:52:23.172979'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 32759ae4-6beb-4e70-a07c-5b86c7093f67
-  name: Tiffany Ayalik
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 23bef1f3-660e-4de7-895f-2c0b7d7253a9
-  name: Inuksuk Mackay
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 32759ae4-6beb-4e70-a07c-5b86c7093f67
+    name: Tiffany Ayalik
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 23bef1f3-660e-4de7-895f-2c0b7d7253a9
+    name: Inuksuk Mackay
 musical_connections:
   collaborators:
-  - Ruby Singh
+    - Ruby Singh
   influenced: []
   mentors: []
 musicbrainz_id: 3bc0fa72-e51c-4b9a-8841-2ff1decc059f
 network_extracted: true
-origin: Yellowknife, Northwest Territories, Canada (raised; roots in Nunavut)
+origin: 'Yellowknife, Northwest Territories, Canada (raised; roots in Nunavut)'
 primary_source: perplexity
 research_sources:
-- https://www.youtube.com/watch?v=o4DxxrFFbpI
-- https://blogs.loc.gov/folklife/2021/11/homegrown-plus-piqsiq/
-- https://rootsandblues.ca/event/piqsiq/
-- https://www.inuitartfoundation.org/inuit-art-quarterly/iaq-online/act-resistance-interview-piqsiq
-- https://www.piqsiqmusic.com/about
-- https://thecanalesproject.org/piqsiq
-- https://journeys.dartmouth.edu/coldregionsmusic24/2024/01/29/piqsiq-throat-singing-inuit-sister-duo/
+  - 'https://www.youtube.com/watch?v=o4DxxrFFbpI'
+  - 'https://blogs.loc.gov/folklife/2021/11/homegrown-plus-piqsiq/'
+  - 'https://rootsandblues.ca/event/piqsiq/'
+  - >-
+    https://www.inuitartfoundation.org/inuit-art-quarterly/iaq-online/act-resistance-interview-piqsiq
+  - 'https://www.piqsiqmusic.com/about'
+  - 'https://thecanalesproject.org/piqsiq'
+  - >-
+    https://journeys.dartmouth.edu/coldregionsmusic24/2024/01/29/piqsiq-throat-singing-inuit-sister-duo/
 spotify_data:
   followers: 6781
   id: 22sYXaxfo8wisgHn4pvCTZ
   popularity: 18
-  url: https://open.spotify.com/artist/22sYXaxfo8wisgHn4pvCTZ
+  url: 'https://open.spotify.com/artist/22sYXaxfo8wisgHn4pvCTZ'
 status: active
-title: piqsiq
+title: Piqsiq
 ---
 
 ![](piqsiq.jpg)

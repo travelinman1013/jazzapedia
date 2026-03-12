@@ -1,10 +1,10 @@
 ---
-title: the bo keys
+title: The Bo Keys
 wiki_slug: the-bo-keys
 schema_version: 2
 status: active
 genres:
-- latin afrobeat
+  - latin afrobeat
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_bo_keys.jpg
   caption: the bo keys
@@ -24,56 +24,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Scott Bomar
-  - Charles “Skip” Pitts
-  - Howard Grimes
-  - Archie “Hubbie” Turner
-  - Ben Cauley
-  - Percy Wiggins
-  - Mark Franklin
-  - Willie Hall
-  - Sir Mack Rice
+    - Scott Bomar
+    - Charles “Skip” Pitts
+    - Howard Grimes
+    - Archie “Hubbie” Turner
+    - Ben Cauley
+    - Percy Wiggins
+    - Mark Franklin
+    - Willie Hall
+    - Sir Mack Rice
   influenced:
-  - Younger Memphis soul and roots musicians (collective)
+    - Younger Memphis soul and roots musicians (collective)
   mentors:
-  - Willie Mitchell
-  - Stax and Hi Records session tradition (Booker T. & the M.G.’s, Hi Rhythm Section, etc.)
+    - Willie Mitchell
+    - >-
+      Stax and Hi Records session tradition (Booker T. & the M.G.’s, Hi Rhythm
+      Section, etc.)
 spotify_data:
   followers: 1043
   id: 5vI7pX3ECgqc7JBwYWwyki
   popularity: 7
-  url: https://open.spotify.com/artist/5vI7pX3ECgqc7JBwYWwyki
+  url: 'https://open.spotify.com/artist/5vI7pX3ECgqc7JBwYWwyki'
 discography_enriched: true
 top_tracks:
-- Kick It
-- Hi Roller (Got To Get Back!)
-- Coming Home Baby (The Royal Sessions)
-- Writing on the Wall (Writing on the Wall (feat. Percy Wiggins) - EP)
-- Deuce and a Quarter (The Royal Sessions)
-- I'm Still In Need (Writing on the Wall (feat. Percy Wiggins) - EP)
-- Hi Roller (Dolemite Is My Name (Music from the Netflix Film))
-- Heartaches By The Number (feat. Don Bryant) (Heartaches By The Number)
-- I Threw It All Away (Heartaches By The Number)
-- Spanish Delight (The Royal Sessions)
+  - Kick It
+  - Hi Roller (Got To Get Back!)
+  - Coming Home Baby (The Royal Sessions)
+  - Writing on the Wall (Writing on the Wall (feat. Percy Wiggins) - EP)
+  - Deuce and a Quarter (The Royal Sessions)
+  - I'm Still In Need (Writing on the Wall (feat. Percy Wiggins) - EP)
+  - Hi Roller (Dolemite Is My Name (Music from the Netflix Film))
+  - Heartaches By The Number (feat. Don Bryant) (Heartaches By The Number)
+  - I Threw It All Away (Heartaches By The Number)
+  - Spanish Delight (The Royal Sessions)
 external_urls:
-  spotify: https://open.spotify.com/artist/5vI7pX3ECgqc7JBwYWwyki
-  wikipedia: https://en.wikipedia.org/wiki/The_Bo-Keys
+  spotify: 'https://open.spotify.com/artist/5vI7pX3ECgqc7JBwYWwyki'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Bo-Keys'
 image_path: 03_Resources/source_material/ArtistPortraits/the_bo_keys.jpg
 biography_enhanced_at: '2025-12-19T01:53:20.273167'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Bo-Keys
-- https://www.offbeat.com/news/the-bo-keys-rnb-is-classic-not-retro-interview-with-scott-bomar/
-- https://bluesonbroadbeach.com/marcus-scott-the-bo-keys-what-blues-means-to-them/
-- https://www.thebokeys.com/bio/
-- https://www.ponderosastomp.com/music_more/160/The+Bo+Keys
-- https://kutx.org/sessions-interviews/studio1a/the-bo-keys-4-29-16/
-- https://www.allmusic.com/artist/the-bo-keys-mn0000756381
+  - 'https://en.wikipedia.org/wiki/The_Bo-Keys'
+  - >-
+    https://www.offbeat.com/news/the-bo-keys-rnb-is-classic-not-retro-interview-with-scott-bomar/
+  - >-
+    https://bluesonbroadbeach.com/marcus-scott-the-bo-keys-what-blues-means-to-them/
+  - 'https://www.thebokeys.com/bio/'
+  - 'https://www.ponderosastomp.com/music_more/160/The+Bo+Keys'
+  - 'https://kutx.org/sessions-interviews/studio1a/the-bo-keys-4-29-16/'
+  - 'https://www.allmusic.com/artist/the-bo-keys-mn0000756381'
 network_extracted: true
 entry_created: '2025-12-19T01:53:20.273185'
 last_updated: '2025-12-23T08:16:16.588374'
-origin: Memphis, Tennessee, United States
+origin: 'Memphis, Tennessee, United States'
+artist_type: band
 ---
 
 ![](the_bo_keys.jpg)

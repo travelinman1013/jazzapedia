@@ -2,16 +2,16 @@
 title: Sir Douglas Quintet
 wiki_slug: sir-douglas-quintet
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1964'
 genres:
-- tejano
-- country rock
+  - tejano
+  - country rock
 instruments:
-- saxophone
-- eponymous
-- original
+  - saxophone
+  - eponymous
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sir_douglas_quintet.jpg
   caption: Sir Douglas Quintet
@@ -32,103 +32,105 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Doug Sahm
-  - Augie Meyers
-  - Johnny Perez
-  - Frank Morin
-  - Harvey Kagan
-  - Jack Barber
+    - Doug Sahm
+    - Augie Meyers
+    - Johnny Perez
+    - Frank Morin
+    - Harvey Kagan
+    - Jack Barber
   influenced:
-  - Texas Tornados
-  - Los Lobos
-  - Calexico
+    - Texas Tornados
+    - Los Lobos
+    - Calexico
   mentors:
-  - Huey P. Meaux
+    - Huey P. Meaux
 spotify_data:
   followers: 18194
   id: 3A2UXqQgMDJ3YNvLPyX5NW
   popularity: 33
-  url: https://open.spotify.com/artist/3A2UXqQgMDJ3YNvLPyX5NW
+  url: 'https://open.spotify.com/artist/3A2UXqQgMDJ3YNvLPyX5NW'
 discography_enriched: true
 top_tracks:
-- She's About a Mover
-- She's About a Mover
-- Meet Me In Stockholm (Midnight Sun)
-- Mendocino (Mendocino)
-- Mendocino (The Complete Mercury Masters)
-- At The Crossroads - Alternate Mix (The Complete Mercury Masters)
-- Sunday Sunny Mill Valley Groove Day (The Complete Mercury Masters)
-- 'She''s About a Mover (Good Singin'' Good Playin'': An Introduction to Doug Sahm)'
-- Carol Jane (Midnight Sun)
-- Nuevo Laredo (Together After Five)
+  - She's About a Mover
+  - She's About a Mover
+  - Meet Me In Stockholm (Midnight Sun)
+  - Mendocino (Mendocino)
+  - Mendocino (The Complete Mercury Masters)
+  - At The Crossroads - Alternate Mix (The Complete Mercury Masters)
+  - Sunday Sunny Mill Valley Groove Day (The Complete Mercury Masters)
+  - >-
+    She's About a Mover (Good Singin' Good Playin': An Introduction to Doug
+    Sahm)
+  - Carol Jane (Midnight Sun)
+  - Nuevo Laredo (Together After Five)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b2b3eed6-d9b2-4d1a-bf9b-0160e401720e
-  spotify: https://open.spotify.com/artist/3A2UXqQgMDJ3YNvLPyX5NW
-  wikipedia: https://en.wikipedia.org/wiki/Sir_Douglas_Quintet
+  musicbrainz: 'https://musicbrainz.org/artist/b2b3eed6-d9b2-4d1a-bf9b-0160e401720e'
+  spotify: 'https://open.spotify.com/artist/3A2UXqQgMDJ3YNvLPyX5NW'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sir_Douglas_Quintet'
 image_path: 03_Resources/source_material/ArtistPortraits/sir_douglas_quintet.jpg
 biography_enhanced_at: '2025-11-27T06:39:28.109955'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.tshaonline.org/handbook/entries/sir-douglas-quintet
-- https://www.last.fm/music/The+Sir+Douglas+Quintet/+wiki
-- http://www.laventure.net/tourist/sdq_hist.htm
-- https://www.vinylmeplease.com/blogs/artists/sir-douglas-quintet-vinyl
-- https://beyondyourradio.com/sir-douglas-quintet-on-unknown-sundays-2025/
+  - 'https://www.tshaonline.org/handbook/entries/sir-douglas-quintet'
+  - 'https://www.last.fm/music/The+Sir+Douglas+Quintet/+wiki'
+  - 'http://www.laventure.net/tourist/sdq_hist.htm'
+  - 'https://www.vinylmeplease.com/blogs/artists/sir-douglas-quintet-vinyl'
+  - 'https://beyondyourradio.com/sir-douglas-quintet-on-unknown-sundays-2025/'
 network_extracted: true
 entry_created: '2025-11-27T06:39:28.109976'
 last_updated: '2025-12-23T08:16:15.676624'
 disambiguation: American rock band
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f109d240-5b10-4b5a-b3ad-f2da16abbf5e
-  name: Jack Barber
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c9be044c-90f4-42c3-bce0-b85e126d58ab
-  name: Ernie Durawa
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f9e7b43c-759a-48aa-bc48-2b111c74404c
-  name: Harvey Kagan
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7a777bdd-74e7-4bfb-8aa1-494061ee7dbd
-  name: Augie Meyers
-- begin: ''
-  end: ''
-  instruments:
-  - saxophone
-  mbid: 91be18d2-3258-4a6b-bf40-0b2611fce0f2
-  name: Frank Morin
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b9bb69cf-eb6f-4b26-a105-fa8e9c193261
-  name: Johnny Perez
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e6a6c01f-ce42-4bf9-8224-af82aad9c662
-  name: George Rains
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: b4745bd1-5db8-4523-8986-e09e3c1f3127
-  name: Doug Sahm
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f109d240-5b10-4b5a-b3ad-f2da16abbf5e
+    name: Jack Barber
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c9be044c-90f4-42c3-bce0-b85e126d58ab
+    name: Ernie Durawa
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f9e7b43c-759a-48aa-bc48-2b111c74404c
+    name: Harvey Kagan
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7a777bdd-74e7-4bfb-8aa1-494061ee7dbd
+    name: Augie Meyers
+  - begin: ''
+    end: ''
+    instruments:
+      - saxophone
+    mbid: 91be18d2-3258-4a6b-bf40-0b2611fce0f2
+    name: Frank Morin
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b9bb69cf-eb6f-4b26-a105-fa8e9c193261
+    name: Johnny Perez
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e6a6c01f-ce42-4bf9-8224-af82aad9c662
+    name: George Rains
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: b4745bd1-5db8-4523-8986-e09e3c1f3127
+    name: Doug Sahm
 musicbrainz_id: b2b3eed6-d9b2-4d1a-bf9b-0160e401720e
-origin: San Antonio
+origin: 'San Antonio, Texas, United States'
 tags:
-- classic pop and rock
-- country rock
-- garage rock
+  - classic pop and rock
+  - country rock
+  - garage rock
 ---
 
 ![](sir_douglas_quintet.jpg)

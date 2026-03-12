@@ -1,11 +1,11 @@
 ---
-title: iguanas
+title: The Iguanas
 wiki_slug: iguanas
 schema_version: 2
 status: active
 genres:
-- proto-punk
-- garage rock
+  - proto-punk
+  - garage rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/iguanas.jpg
   caption: iguanas
@@ -25,51 +25,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Rod Hodges
-  - Joe Cabral
-  - Rene Coman
-  - Doug Garrison
-  - Alex McMurray
-  - Will Sexton
+    - Rod Hodges
+    - Joe Cabral
+    - Rene Coman
+    - Doug Garrison
+    - Alex McMurray
+    - Will Sexton
   influenced: []
   mentors: []
 spotify_data:
   followers: 6677
   id: 53iKlKMxyGKZsb9UhBH571
   popularity: 13
-  url: https://open.spotify.com/artist/53iKlKMxyGKZsb9UhBH571
+  url: 'https://open.spotify.com/artist/53iKlKMxyGKZsb9UhBH571'
 discography_enriched: true
 top_tracks:
-- 'Oye, Isabel (Treme: Music From The HBO Original Series - Season 2)'
-- Flame On (Plastic Silver 9 Volt Heart)
-- 9 Volt Heart (Plastic Silver 9 Volt Heart)
-- Pelican Bay (If You Should Ever Fall on Hard Times)
-- Mexican Candy (Plastic Silver 9 Volt Heart)
-- Again and Again (The Iguanas)
-- The First Kiss Is Free (Plastic Silver 9 Volt Heart)
-- Mona (The Iguanas)
-- Para Donde Vas
-- 'Para Donde Vas (Live Iguanas: Live at Wolf Trap)'
+  - 'Oye, Isabel (Treme: Music From The HBO Original Series - Season 2)'
+  - Flame On (Plastic Silver 9 Volt Heart)
+  - 9 Volt Heart (Plastic Silver 9 Volt Heart)
+  - Pelican Bay (If You Should Ever Fall on Hard Times)
+  - Mexican Candy (Plastic Silver 9 Volt Heart)
+  - Again and Again (The Iguanas)
+  - The First Kiss Is Free (Plastic Silver 9 Volt Heart)
+  - Mona (The Iguanas)
+  - Para Donde Vas
+  - 'Para Donde Vas (Live Iguanas: Live at Wolf Trap)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1b6b0af1-9ec2-465f-b246-5f2e9788b32e
-  spotify: https://open.spotify.com/artist/53iKlKMxyGKZsb9UhBH571
-  wikipedia: https://en.wikipedia.org/wiki/The_Iguanas_(Louisiana_band)
+  musicbrainz: 'https://musicbrainz.org/artist/1b6b0af1-9ec2-465f-b246-5f2e9788b32e'
+  spotify: 'https://open.spotify.com/artist/53iKlKMxyGKZsb9UhBH571'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Iguanas_(Louisiana_band)'
 image_path: 03_Resources/source_material/ArtistPortraits/iguanas.jpg
 biography_enhanced_at: '2025-11-15T18:37:32.425444'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Iguanas_(Louisiana_band)
-- https://www.iguanas.com/about.htm
-- https://www.neworleans.com/listing/the-iguanas/46611/
-- https://www.thefamuanonline.com/2019/04/15/the-iguanas-not-your-average-rock-band/
+  - 'https://en.wikipedia.org/wiki/The_Iguanas_(Louisiana_band)'
+  - 'https://www.iguanas.com/about.htm'
+  - 'https://www.neworleans.com/listing/the-iguanas/46611/'
+  - >-
+    https://www.thefamuanonline.com/2019/04/15/the-iguanas-not-your-average-rock-band/
 network_extracted: true
 entry_created: '2025-11-15T18:37:32.425455'
 last_updated: '2025-12-23T08:16:09.794915'
 disambiguation: Rock covers
 musicbrainz_id: 1b6b0af1-9ec2-465f-b246-5f2e9788b32e
-origin: New Orleans, Louisiana, United States
-
+origin: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![](iguanas.jpg)

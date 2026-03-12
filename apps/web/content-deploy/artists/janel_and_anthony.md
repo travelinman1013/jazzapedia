@@ -9,13 +9,13 @@ infobox:
   caption: Janel & Anthony
   background: solo_singer
 audio_profile:
-  tempo_avg: 121.0
+  tempo_avg: 121
   energy_avg: 0.29
   valence_avg: 0.065
   danceability_avg: 0.262
   acousticness_avg: 0.71
   instrumentalness_avg: 0.847
-  loudness_avg: -12.0
+  loudness_avg: -12
   speechiness_avg: 0.03
   liveness_avg: 0.126
   track_count: 2
@@ -23,47 +23,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Devin Hoff
-  - Dr. Ali Analouei
-  - Ensemble Volcanic Ash members (Brian Settles, Sarah Hughes, Luke Stewart, Larry Ferguson)
-  - Eyvind Kang
-  - Marissa Nadler
+    - Devin Hoff
+    - Dr. Ali Analouei
+    - >-
+      Ensemble Volcanic Ash members (Brian Settles, Sarah Hughes, Luke Stewart,
+      Larry Ferguson)
+    - Eyvind Kang
+    - Marissa Nadler
   influenced: []
   mentors:
-  - Abdul Wadud
-  - David Baker
-  - Julius Hemphill
-  - Anthony Pirog
+    - Abdul Wadud
+    - David Baker
+    - Julius Hemphill
+    - Anthony Pirog
 spotify_data:
   followers: 69
   id: 0F1uJc3WBDcwGVftVLr6EP
   popularity: 0
-  url: https://open.spotify.com/artist/0F1uJc3WBDcwGVftVLr6EP
+  url: 'https://open.spotify.com/artist/0F1uJc3WBDcwGVftVLr6EP'
 discography_enriched: true
 top_tracks:
-- Pacific Grove Monarch (Pacific Grove Monarch)
-- Flyover Iceland (Flyover Iceland)
+  - Pacific Grove Monarch (Pacific Grove Monarch)
+  - Flyover Iceland (Flyover Iceland)
 external_urls:
-  spotify: https://open.spotify.com/artist/0F1uJc3WBDcwGVftVLr6EP
-  wikipedia: https://en.wikipedia.org/wiki/Janel_Leppin
+  spotify: 'https://open.spotify.com/artist/0F1uJc3WBDcwGVftVLr6EP'
+  wikipedia: 'https://en.wikipedia.org/wiki/Janel_Leppin'
 image_path: 03_Resources/source_material/ArtistPortraits/janel_and_anthony.jpg
 biography_enhanced_at: '2025-12-19T01:38:18.683346'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://postgenre.org/weaving-janel-leppin/
-- https://www.pointofdeparture.org/PoD49/PoD49Pirog.html
-- https://www.allaboutjazz.com/the-continuing-adventures-of-janel-and-anthony
-- https://en.wikipedia.org/wiki/Janel_Leppin
-- https://www.allmusic.com/artist/janel-anthony-mn0002911369
-- https://burningambulance.com/2024/07/31/janel-anthony/
-- http://www.cuneiformrecords.com/press/JanelandAnthony-WIH-PR.pdf
-- https://fullyaltered.com/clients/janel-anthony/
-- https://folkworks.org/blog/roots-forward-janel-leppin/
+  - 'https://postgenre.org/weaving-janel-leppin/'
+  - 'https://www.pointofdeparture.org/PoD49/PoD49Pirog.html'
+  - 'https://www.allaboutjazz.com/the-continuing-adventures-of-janel-and-anthony'
+  - 'https://en.wikipedia.org/wiki/Janel_Leppin'
+  - 'https://www.allmusic.com/artist/janel-anthony-mn0002911369'
+  - 'https://burningambulance.com/2024/07/31/janel-anthony/'
+  - 'http://www.cuneiformrecords.com/press/JanelandAnthony-WIH-PR.pdf'
+  - 'https://fullyaltered.com/clients/janel-anthony/'
+  - 'https://folkworks.org/blog/roots-forward-janel-leppin/'
 network_extracted: true
 entry_created: '2025-12-19T01:38:18.683366'
 last_updated: '2025-12-23T08:16:10.215263'
-origin: Washington, D.C., USA
+origin: 'Washington, D.C., USA'
+birth_place: 'Lewisburg, Pennsylvania, United States'
+artist_type: band
 ---
 
 ![](janel_and_anthony.jpg)

@@ -3,42 +3,43 @@ biography_enhanced_at: '2026-01-07T01:19:48.704470'
 enhancement_provider: perplexity
 entry_created: '2026-01-07T01:19:48.704474'
 external_urls:
-  spotify: https://open.spotify.com/artist/4Ayh1SXnVpYPCVR4190RXw
-  wikipedia: https://en.wikipedia.org/wiki/Hollis_Brown_(band)
+  spotify: 'https://open.spotify.com/artist/4Ayh1SXnVpYPCVR4190RXw'
+  wikipedia: 'https://en.wikipedia.org/wiki/Hollis_Brown_(band)'
 genres:
-- roots rock
+  - roots rock
 image_path: 03_Resources/source_material/ArtistPortraits/hollis_brown.jpg
 last_updated: '2026-01-07T01:19:48.704475'
 musical_connections:
   collaborators:
-  - Mike Montali
-  - Jonathan Bonilla
-  - Andrew Zehnal
-  - Adam Bock
-  - Adam Landry
+    - Mike Montali
+    - Jonathan Bonilla
+    - Andrew Zehnal
+    - Adam Bock
+    - Adam Landry
   influenced: []
   mentors:
-  - Bob Dylan
-  - Bo Diddley
-  - The Rolling Stones
-  - The Velvet Underground
+    - Bob Dylan
+    - Bo Diddley
+    - The Rolling Stones
+    - The Velvet Underground
 network_extracted: true
-origin: Queens, New York, USA
+origin: 'Queens, New York, USA'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Hollis_Brown_(band)
-- https://jullianrecords.com/art_hollis_brown
-- https://www.mascotlabelgroup.com/pages/hollis-brown-biography
-- https://www.mayoarts.org/shows/hollis-brown/
-- https://q1043.iheart.com/featured/out-of-the-box/content/2019-11-18-hollis-brown-explains-dual-meaning-of-bob-dylan-inspired-band-name/
+  - 'https://en.wikipedia.org/wiki/Hollis_Brown_(band)'
+  - 'https://jullianrecords.com/art_hollis_brown'
+  - 'https://www.mascotlabelgroup.com/pages/hollis-brown-biography'
+  - 'https://www.mayoarts.org/shows/hollis-brown/'
+  - >-
+    https://q1043.iheart.com/featured/out-of-the-box/content/2019-11-18-hollis-brown-explains-dual-meaning-of-bob-dylan-inspired-band-name/
 spotify_data:
   followers: 12500
   id: 4Ayh1SXnVpYPCVR4190RXw
   popularity: 28
-  url: https://open.spotify.com/artist/4Ayh1SXnVpYPCVR4190RXw
+  url: 'https://open.spotify.com/artist/4Ayh1SXnVpYPCVR4190RXw'
 status: active
 title: Hollis Brown
-
+artist_type: band
 ---
 
 ![](hollis_brown.jpg)

@@ -1,18 +1,18 @@
 ---
-title: Barbra Streisand/ Sam Smith
+title: Barbra Streisand
 wiki_slug: barbra-streisand-sam-smith
 schema_version: 2
 status: active
-birth_place: Brooklyn, New York, United States
+birth_place: 'Brooklyn, New York, United States'
 genres:
-- adult standards
+  - adult standards
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/barbra_streisand_sam_smith.jpg
   caption: Barbra Streisand/ Sam Smith
   background: solo_singer
-  origin: Brooklyn, New York, United States
+  origin: 'Brooklyn, New York, United States'
 audio_profile:
-  tempo_avg: 107.0
+  tempo_avg: 107
   energy_avg: 0.34
   valence_avg: 0.241
   danceability_avg: 0.364
@@ -26,46 +26,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Barry Gibb
-  - Neil Diamond
-  - Donna Summer
+    - Barry Gibb
+    - Neil Diamond
+    - Donna Summer
   influenced:
-  - Celine Dion
-  - Adele
-  - Lady Gaga
+    - Celine Dion
+    - Adele
+    - Lady Gaga
   mentors:
-  - Harold Rome
+    - Harold Rome
 spotify_data:
   followers: 1683089
   id: 7jmTilWYlKOuavFfmQAcu6
   popularity: 62
-  url: https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6
+  url: 'https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6'
 discography_enriched: true
 top_tracks:
-- Woman in Love (Guilty)
-- Guilty (feat. Barry Gibb) (Guilty)
-- The Way We Were (The Way We Were)
-- I Finally Found Someone (feat. Bryan Adams) (The Mirror Has Two Faces - Music From The Motion Picture)
-- 'One Heart, One Voice (with Mariah Carey & Ariana Grande) (The Secret Of Life: Partners, Volume 2)'
-- Tell Him (Duet with Barbra Streisand) (Let's Talk About Love)
-- Evergreen (Love Theme from "A Star Is Born") (A Star Is Born)
-- 'To Lose You Again (with Sam Smith) (The Secret Of Life: Partners, Volume 2)'
-- What Kind of Fool (feat. Barry Gibb) (Guilty)
-- Memory (Memories)
+  - Woman in Love (Guilty)
+  - Guilty (feat. Barry Gibb) (Guilty)
+  - The Way We Were (The Way We Were)
+  - >-
+    I Finally Found Someone (feat. Bryan Adams) (The Mirror Has Two Faces -
+    Music From The Motion Picture)
+  - >-
+    One Heart, One Voice (with Mariah Carey & Ariana Grande) (The Secret Of
+    Life: Partners, Volume 2)
+  - Tell Him (Duet with Barbra Streisand) (Let's Talk About Love)
+  - Evergreen (Love Theme from "A Star Is Born") (A Star Is Born)
+  - 'To Lose You Again (with Sam Smith) (The Secret Of Life: Partners, Volume 2)'
+  - What Kind of Fool (feat. Barry Gibb) (Guilty)
+  - Memory (Memories)
 external_urls:
-  spotify: https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6
-  wikipedia: https://en.wikipedia.org/wiki/Barbra_Streisand
+  spotify: 'https://open.spotify.com/artist/7jmTilWYlKOuavFfmQAcu6'
+  wikipedia: 'https://en.wikipedia.org/wiki/Barbra_Streisand'
 image_path: 03_Resources/source_material/ArtistPortraits/barbra_streisand_sam_smith.jpg
 biography_enhanced_at: '2025-11-20T07:39:51.233804'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Barbra_Streisand
-- https://www.imdb.com/name/nm0000659/bio/
-- https://www.biography.com/musicians/barbra-streisand
+  - 'https://en.wikipedia.org/wiki/Barbra_Streisand'
+  - 'https://www.imdb.com/name/nm0000659/bio/'
+  - 'https://www.biography.com/musicians/barbra-streisand'
 network_extracted: true
 entry_created: '2025-11-20T07:39:51.233846'
 last_updated: '2025-12-23T08:16:05.104727'
+birth_date: '1942-04-24'
+artist_type: person
 ---
 
 ![](barbra_streisand_sam_smith.jpg)

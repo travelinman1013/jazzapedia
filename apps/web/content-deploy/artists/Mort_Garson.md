@@ -5,11 +5,11 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1924-07-20'
-birth_place: Saint John
+birth_place: 'Saint John, New Brunswick, Canada'
 death_date: '2008-01-04'
 genres: []
 instruments:
-- eponymous
+  - eponymous
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Mort_Garson.jpg
   caption: Mort Garson
@@ -32,57 +32,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Robert Moog
-  - Bob Hilliard
-  - Earl Shuman
-  - Doris Day, Patti Page, Arthur Prysock
+    - Robert Moog
+    - Bob Hilliard
+    - Earl Shuman
+    - 'Doris Day, Patti Page, Arthur Prysock'
   influenced:
-  - Brian Eno
-  - Aphex Twin
-  - Hiroshi Yoshimura
+    - Brian Eno
+    - Aphex Twin
+    - Hiroshi Yoshimura
   mentors:
-  - Juilliard School of Music Faculty
+    - Juilliard School of Music Faculty
 spotify_data:
   followers: 152197
   id: 0WmzT6tMLhdST5BfYagbha
   popularity: 42
-  url: https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha
+  url: 'https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha'
 discography_enriched: true
 top_tracks:
-- Plantasia (Mother Earth's Plantasia)
-- Swingin' Spathiphyllums (Mother Earth's Plantasia)
-- Rhapsody in Green (Mother Earth's Plantasia)
-- Symphony for a Spider Plant (Mother Earth's Plantasia)
-- Ode to an African Violet (Mother Earth's Plantasia)
-- Baby's Tears Blues (Mother Earth's Plantasia)
-- Music to Soothe the Savage Snake Plant (Mother Earth's Plantasia)
-- Concerto for Philodendron & Pothos (Mother Earth's Plantasia)
-- You Don't Have to Walk a Begonia (Mother Earth's Plantasia)
-- A Mellow Mood for Maidenhair (Mother Earth's Plantasia)
+  - Plantasia (Mother Earth's Plantasia)
+  - Swingin' Spathiphyllums (Mother Earth's Plantasia)
+  - Rhapsody in Green (Mother Earth's Plantasia)
+  - Symphony for a Spider Plant (Mother Earth's Plantasia)
+  - Ode to an African Violet (Mother Earth's Plantasia)
+  - Baby's Tears Blues (Mother Earth's Plantasia)
+  - Music to Soothe the Savage Snake Plant (Mother Earth's Plantasia)
+  - Concerto for Philodendron & Pothos (Mother Earth's Plantasia)
+  - You Don't Have to Walk a Begonia (Mother Earth's Plantasia)
+  - A Mellow Mood for Maidenhair (Mother Earth's Plantasia)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c47028fa-0086-426d-a7b8-ed20eba3ed61
-  spotify: https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha
-  wikipedia: https://en.wikipedia.org/wiki/Mort_Garson
+  musicbrainz: 'https://musicbrainz.org/artist/c47028fa-0086-426d-a7b8-ed20eba3ed61'
+  spotify: 'https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mort_Garson'
 image_path: 03_Resources/source_material/ArtistPortraits/Mort_Garson.jpg
 biography_enhanced_at: '2025-10-22T06:50:00.100218'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://mort-garson.com/pages/about-mort
-- https://en.wikipedia.org/wiki/Mort_Garson
-- https://www.imdb.com/name/nm0308600/bio/
-- https://daily.redbullmusicacademy.com/2016/09/mort-garson-feature/
-- https://www.last.fm/music/Mort+Garson/+wiki
+  - 'https://mort-garson.com/pages/about-mort'
+  - 'https://en.wikipedia.org/wiki/Mort_Garson'
+  - 'https://www.imdb.com/name/nm0308600/bio/'
+  - 'https://daily.redbullmusicacademy.com/2016/09/mort-garson-feature/'
+  - 'https://www.last.fm/music/Mort+Garson/+wiki'
 network_extracted: true
 entry_created: '2025-10-22T06:50:00.100227'
 last_updated: '2025-12-23T08:16:03.362585'
-disambiguation: Canadian-born composer, arranger, songwriter, and pioneer of electronic music
+disambiguation: 'Canadian-born composer, arranger, songwriter, and pioneer of electronic music'
 gender: Male
 musicbrainz_id: c47028fa-0086-426d-a7b8-ed20eba3ed61
 tags:
-- electronic
-- moogsploitation
-- progressive electronic
+  - electronic
+  - moogsploitation
+  - progressive electronic
+is_active: false
+origin: 'New York City, New York, United States'
 ---
 
 ![](Mort_Garson.jpg)

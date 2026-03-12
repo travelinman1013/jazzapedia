@@ -3,15 +3,15 @@ title: Josh Lawrence
 wiki_slug: josh-lawrence
 schema_version: 2
 status: active
-birth_place: Orlando, Florida, United States
+birth_place: 'Orlando, Florida, United States'
 genres:
-- melodic techno
-- melodic house
+  - melodic techno
+  - melodic house
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Josh_Lawrence.jpg
   caption: Josh Lawrence
   background: solo_singer
-  origin: Orlando, Florida, United States
+  origin: 'Orlando, Florida, United States'
 audio_profile:
   tempo_avg: 127.8
   energy_avg: 0.825
@@ -27,40 +27,42 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Coulson
+    - Coulson
   influenced: []
   mentors:
-  - Nora En Pure
+    - Nora En Pure
 spotify_data:
   followers: 1830
   id: 2VJDVx81rk8GN2O6YQ9YLT
   popularity: 15
-  url: https://open.spotify.com/artist/2VJDVx81rk8GN2O6YQ9YLT
+  url: 'https://open.spotify.com/artist/2VJDVx81rk8GN2O6YQ9YLT'
 discography_enriched: true
 top_tracks:
-- Atraxia (Purified Fragments Vi)
-- Mahaba (Mahaba)
-- The Connection (The Connection)
-- Journey (Journey)
-- Find Me (Find Me)
-- Can't Get Enough - Radio Edit (Can't Get Enough (Radio Edit))
-- Orlando Skyline - Radio Edit (Orlando Skyline (Radio Edit))
-- Atraxia - Extended Mix (Purified Fragments Vi)
-- Nzuri (Nzuri)
-- Rely on You (Rely on You)
+  - Atraxia (Purified Fragments Vi)
+  - Mahaba (Mahaba)
+  - The Connection (The Connection)
+  - Journey (Journey)
+  - Find Me (Find Me)
+  - Can't Get Enough - Radio Edit (Can't Get Enough (Radio Edit))
+  - Orlando Skyline - Radio Edit (Orlando Skyline (Radio Edit))
+  - Atraxia - Extended Mix (Purified Fragments Vi)
+  - Nzuri (Nzuri)
+  - Rely on You (Rely on You)
 external_urls:
-  spotify: https://open.spotify.com/artist/2VJDVx81rk8GN2O6YQ9YLT
+  spotify: 'https://open.spotify.com/artist/2VJDVx81rk8GN2O6YQ9YLT'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/Josh_Lawrence.jpg
 biography_enhanced_at: '2025-10-19T10:27:51.368814'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://joshlawrencemusic.com/about/
-- https://soundcloud.com/joshlawrenceofficial
+  - 'https://joshlawrencemusic.com/about/'
+  - 'https://soundcloud.com/joshlawrenceofficial'
 network_extracted: true
 entry_created: '2025-10-19T10:27:51.368826'
 last_updated: '2025-12-23T08:16:02.739264'
+origin: 'Orlando, Florida, United States'
+artist_type: person
 ---
 
 ![](Josh_Lawrence.jpg)

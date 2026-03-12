@@ -1,10 +1,10 @@
 ---
-title: THE HALFWAY HOUSE ORCHESTRA
+title: The Halfway House Orchestra
 wiki_slug: the-halfway-house-orchestra
 schema_version: 2
 status: active
 genres:
-- jazz house
+  - jazz house
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_halfway_house_orchestra.jpg
   caption: THE HALFWAY HOUSE ORCHESTRA
@@ -24,49 +24,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Leon Roppolo
-  - Charlie Cordella
-  - Sidney Arodin
-  - Mickie Marcour
-  - Bill Whitmore
-  - '"Red" Long'
-  - Chink Martin
-  - Leo Adde
+    - Leon Roppolo
+    - Charlie Cordella
+    - Sidney Arodin
+    - Mickie Marcour
+    - Bill Whitmore
+    - '"Red" Long'
+    - Chink Martin
+    - Leo Adde
   influenced: []
   mentors:
-  - King Oliver
+    - King Oliver
 spotify_data:
   followers: 84
   id: 4pdKvgieOinPlGqIAlYCxA
   popularity: 2
-  url: https://open.spotify.com/artist/4pdKvgieOinPlGqIAlYCxA
+  url: 'https://open.spotify.com/artist/4pdKvgieOinPlGqIAlYCxA'
 discography_enriched: true
 top_tracks:
-- Let Me Call You Sweetheart (The Halfway House Orchestra 1925-1928)
-- Maple Leaf Rag (The Halfway House Orchestra 1925-1928)
-- Pussy Cat Rag (The Halfway House Orchestra 1925-1928)
-- I Want Somebody to Love (The Halfway House Orchestra 1925-1928)
-- Barataria - Original (New Orleans - The Cradle Of Jazz CD1)
-- Pussy Cat Rag (New Orleans in the '20s 1924-1925)
-- Barataria (New Orleans in the '20s 1924-1925)
-- Pussy Cat Rag (New Orleans Jazz 1924-25)
-- Barataria (New Orleans Jazz 1924-25)
-- Barataria (The Halfway House Orchestra 1925-1928)
+  - Let Me Call You Sweetheart (The Halfway House Orchestra 1925-1928)
+  - Maple Leaf Rag (The Halfway House Orchestra 1925-1928)
+  - Pussy Cat Rag (The Halfway House Orchestra 1925-1928)
+  - I Want Somebody to Love (The Halfway House Orchestra 1925-1928)
+  - Barataria - Original (New Orleans - The Cradle Of Jazz CD1)
+  - Pussy Cat Rag (New Orleans in the '20s 1924-1925)
+  - Barataria (New Orleans in the '20s 1924-1925)
+  - Pussy Cat Rag (New Orleans Jazz 1924-25)
+  - Barataria (New Orleans Jazz 1924-25)
+  - Barataria (The Halfway House Orchestra 1925-1928)
 external_urls:
-  spotify: https://open.spotify.com/artist/4pdKvgieOinPlGqIAlYCxA
+  spotify: 'https://open.spotify.com/artist/4pdKvgieOinPlGqIAlYCxA'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/the_halfway_house_orchestra.jpg
 biography_enhanced_at: '2025-12-18T02:37:43.338650'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://syncopatedtimes.com/the-halfway-house-orchestra/
-- http://thejazzclarinet.blogspot.com/2017/01/the-halfway-house-orchestra-1925-1928.html
-- https://syncopatedtimes.com/halfway-house-orchestra/
+  - 'https://syncopatedtimes.com/the-halfway-house-orchestra/'
+  - >-
+    http://thejazzclarinet.blogspot.com/2017/01/the-halfway-house-orchestra-1925-1928.html
+  - 'https://syncopatedtimes.com/halfway-house-orchestra/'
 network_extracted: true
 entry_created: '2025-12-18T02:37:43.338657'
 last_updated: '2025-12-23T08:16:16.822346'
-origin: New Orleans area (Halfway House between New Orleans and Lake Pontchartrain), Louisiana, USA
+origin: >-
+  New Orleans area (Halfway House between New Orleans and Lake Pontchartrain),
+  Louisiana, USA
+artist_type: band
 ---
 
 ![](the_halfway_house_orchestra.jpg)

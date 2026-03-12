@@ -1,15 +1,15 @@
 ---
-title: ALVIN RED TYLER
+title: Alvin Red Tyler
 wiki_slug: alvin-red-tyler
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, USA'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/alvin_red_tyler.jpg
   caption: ALVIN RED TYLER
   background: solo_singer
-  origin: New Orleans, Louisiana, USA
+  origin: 'New Orleans, Louisiana, USA'
 audio_profile:
   tempo_avg: 173.7
   energy_avg: 0.901
@@ -25,42 +25,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dave Bartholomew
-  - Fats Domino
-  - Little Richard
-  - Harold Battiste
-  - Germaine Bazzle
-  - Dr. John (Mac Rebennack)
+    - Dave Bartholomew
+    - Fats Domino
+    - Little Richard
+    - Harold Battiste
+    - Germaine Bazzle
+    - Dr. John (Mac Rebennack)
   influenced:
-  - James Singleton
-  - Clyde Kerr Jr.
+    - James Singleton
+    - Clyde Kerr Jr.
   mentors:
-  - Clyde Kerr Sr.
+    - Clyde Kerr Sr.
 spotify_data:
   followers: 3
   id: 57C1TUazIsLz5HUcAgtBMS
   popularity: 0
-  url: https://open.spotify.com/artist/57C1TUazIsLz5HUcAgtBMS
+  url: 'https://open.spotify.com/artist/57C1TUazIsLz5HUcAgtBMS'
 discography_enriched: true
 top_tracks:
-- Happy Sax (The Ace Records Rock N 'Roll Story)
-- Snake Eyes (Ace Story (Vol. 3))
+  - Happy Sax (The Ace Records Rock N 'Roll Story)
+  - Snake Eyes (Ace Story (Vol. 3))
 external_urls:
-  spotify: https://open.spotify.com/artist/57C1TUazIsLz5HUcAgtBMS
-  wikipedia: https://en.wikipedia.org/wiki/Alvin_Tyler
+  spotify: 'https://open.spotify.com/artist/57C1TUazIsLz5HUcAgtBMS'
+  wikipedia: 'https://en.wikipedia.org/wiki/Alvin_Tyler'
 image_path: ''
 biography_enhanced_at: '2025-10-22T09:25:25.293922'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://musicrising.tulane.edu/discover/people/alvin-red-tyler/
-- https://homeofthegroove.blogspot.com/2009/05/respecting-red-tyler.html
-- https://jazzforasaturdaynight.com/2012/02/18/jazz-for-a-saturday-night-alvin-red-tyler/
-- https://veritenews.org/2024/09/18/alvin-red-tyler-helped-define-the-sounds-of-rock-n-roll/
-- https://www.allmusic.com/artist/alvin-red-tyler-mn0000744720
+  - 'https://musicrising.tulane.edu/discover/people/alvin-red-tyler/'
+  - 'https://homeofthegroove.blogspot.com/2009/05/respecting-red-tyler.html'
+  - >-
+    https://jazzforasaturdaynight.com/2012/02/18/jazz-for-a-saturday-night-alvin-red-tyler/
+  - >-
+    https://veritenews.org/2024/09/18/alvin-red-tyler-helped-define-the-sounds-of-rock-n-roll/
+  - 'https://www.allmusic.com/artist/alvin-red-tyler-mn0000744720'
 network_extracted: true
 entry_created: '2025-10-22T09:25:25.293936'
 last_updated: '2025-12-23T08:16:04.643505'
+birth_date: '1925-12-05'
+death_date: '1998-04-03'
+artist_type: person
 ---
 
 ![]()

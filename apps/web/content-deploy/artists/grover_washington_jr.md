@@ -3,15 +3,15 @@ title: Grover Washington Jr.
 wiki_slug: grover-washington-jr
 schema_version: 2
 status: active
-birth_place: Buffalo, New York, United States
+birth_place: 'Buffalo, New York, United States'
 genres:
-- soul jazz
-- smooth jazz
+  - soul jazz
+  - smooth jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/grover_washington_jr.jpg
   caption: Grover Washington Jr.
   background: solo_singer
-  origin: Buffalo, New York, United States
+  origin: 'Buffalo, New York, United States'
 audio_profile:
   tempo_avg: 113.9
   energy_avg: 0.461
@@ -27,58 +27,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bill Withers
-  - Charles Earland
-  - Johnny Hammond (Johnny Hammond Smith)
-  - Creed Taylor
-  - Bob James
-  - Dave Grusin
-  - B.B. King
-  - Jean Carne
-  - Tommy Flanagan, Herbie Hancock, Ron Carter, Marvin "Smitty" Smith
-  - President Bill Clinton, Herbie Hancock, Wynton Marsalis (jam setting)
+    - Bill Withers
+    - Charles Earland
+    - Johnny Hammond (Johnny Hammond Smith)
+    - Creed Taylor
+    - Bob James
+    - Dave Grusin
+    - B.B. King
+    - Jean Carne
+    - 'Tommy Flanagan, Herbie Hancock, Ron Carter, Marvin "Smitty" Smith'
+    - 'President Bill Clinton, Herbie Hancock, Wynton Marsalis (jam setting)'
   influenced:
-  - Smooth jazz saxophonists of the 1980s–2000s (e.g., Kenny G, Najee, Gerald Albright)
-  - Contemporary jazz and R&B instrumentalists
+    - >-
+      Smooth jazz saxophonists of the 1980s–2000s (e.g., Kenny G, Najee, Gerald
+      Albright)
+    - Contemporary jazz and R&B instrumentalists
   mentors:
-  - Grover Washington Sr.
-  - Jack McDuff
-  - Harold Vick
-  - Charles Lloyd
-  - Billy Cobham
+    - Grover Washington Sr.
+    - Jack McDuff
+    - Harold Vick
+    - Charles Lloyd
+    - Billy Cobham
 spotify_data:
   followers: 454840
   id: 05YVYeV4HxYp5rrWalvuE1
   popularity: 63
-  url: https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1
+  url: 'https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1'
 discography_enriched: true
 top_tracks:
-- Just the Two of Us (feat. Bill Withers) (Anthology)
-- Just the Two of Us (Winelight)
-- Just the Two of Us (feat. Bill Withers) - Edit
-- 'Just the Two of Us (In the Name of Love: The Elektra Recordings 1979-1984)'
-- Just the Two of Us (feat. Bill Withers)
-- Mister Magic (Mister Magic)
-- Let It Flow (For "DR. J") (Winelight)
-- Winelight (Winelight)
-- Just the Two of Us (feat. Bill Withers) - Edit
-- Make Me a Memory (Winelight)
+  - Just the Two of Us (feat. Bill Withers) (Anthology)
+  - Just the Two of Us (Winelight)
+  - Just the Two of Us (feat. Bill Withers) - Edit
+  - 'Just the Two of Us (In the Name of Love: The Elektra Recordings 1979-1984)'
+  - Just the Two of Us (feat. Bill Withers)
+  - Mister Magic (Mister Magic)
+  - Let It Flow (For "DR. J") (Winelight)
+  - Winelight (Winelight)
+  - Just the Two of Us (feat. Bill Withers) - Edit
+  - Make Me a Memory (Winelight)
 external_urls:
-  spotify: https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1
-  wikipedia: https://en.wikipedia.org/wiki/Grover_Washington_Jr.
+  spotify: 'https://open.spotify.com/artist/05YVYeV4HxYp5rrWalvuE1'
+  wikipedia: 'https://en.wikipedia.org/wiki/Grover_Washington_Jr.'
 image_path: 03_Resources/source_material/ArtistPortraits/grover_washington_jr.jpg
 biography_enhanced_at: '2025-12-07T05:00:44.877384'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- All About Jazz – Grover Washington, Jr. profile[1]
-- Leonard Shea Music – Grover Washington Jr. Biography (YouTube transcript)[2]
-- Blue Note Records – Grover Washington Jr. artist bio[3]
-- IMDb – Grover Washington Jr. Biography[4]
-- BlackPast.org – Grover Washington (1943–1999)[5]
+  - 'All About Jazz – Grover Washington, Jr. profile[1]'
+  - 'Leonard Shea Music – Grover Washington Jr. Biography (YouTube transcript)[2]'
+  - 'Blue Note Records – Grover Washington Jr. artist bio[3]'
+  - 'IMDb – Grover Washington Jr. Biography[4]'
+  - 'BlackPast.org – Grover Washington (1943–1999)[5]'
 network_extracted: true
 entry_created: '2025-12-07T05:00:44.877395'
 last_updated: '2025-12-23T08:16:09.366677'
+artist_type: person
 ---
 
 ![](grover_washington_jr.jpg)

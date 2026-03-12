@@ -3,13 +3,13 @@ title: Steph Strings
 wiki_slug: steph-strings
 schema_version: 2
 status: active
-birth_place: Melbourne / San Remo, Victoria, Australia
+birth_place: 'Melbourne / San Remo, Victoria, Australia'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/steph_strings.jpg
   caption: Steph Strings
   background: solo_singer
-  origin: Melbourne / San Remo, Victoria, Australia
+  origin: 'Melbourne / San Remo, Victoria, Australia'
 audio_profile:
   tempo_avg: 114.2
   energy_avg: 0.501
@@ -25,56 +25,68 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Pierce Brothers
-  - Kim Churchill
-  - Ash Grunwald
-  - Joe Miles
+    - The Pierce Brothers
+    - Kim Churchill
+    - Ash Grunwald
+    - Joe Miles
   influenced:
-  - ''
+    - ''
   mentors:
-  - John Butler Trio
-  - Tash Sultana
-  - Kim Churchill
-  - Ziggy Alberts
-  - Steph Strings’ father and cousins
+    - John Butler Trio
+    - Tash Sultana
+    - Kim Churchill
+    - Ziggy Alberts
+    - Steph Strings’ father and cousins
 spotify_data:
   followers: 67978
   id: 39qxIdIb1R6se4J3X6nRPB
   popularity: 40
-  url: https://open.spotify.com/artist/39qxIdIb1R6se4J3X6nRPB
+  url: 'https://open.spotify.com/artist/39qxIdIb1R6se4J3X6nRPB'
 discography_enriched: true
 top_tracks:
-- Dusty Road (Dusty Road)
-- Cradle Mountain (Cradle Mountain)
-- Wholesome Days (Wholesome Days)
-- Antigone (Wildfire)
-- LION (LION)
-- Please Come Home (Dawn Sounds)
-- Follow the Sun (Follow the Sun)
-- This Love (This Love)
-- San Remo (feat. Luke Fethers) (Allegoric Oceans)
-- Keep Trying (Cradle Mountain)
+  - Dusty Road (Dusty Road)
+  - Cradle Mountain (Cradle Mountain)
+  - Wholesome Days (Wholesome Days)
+  - Antigone (Wildfire)
+  - LION (LION)
+  - Please Come Home (Dawn Sounds)
+  - Follow the Sun (Follow the Sun)
+  - This Love (This Love)
+  - San Remo (feat. Luke Fethers) (Allegoric Oceans)
+  - Keep Trying (Cradle Mountain)
 external_urls:
-  spotify: https://open.spotify.com/artist/39qxIdIb1R6se4J3X6nRPB
+  spotify: 'https://open.spotify.com/artist/39qxIdIb1R6se4J3X6nRPB'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/steph_strings.jpg
 biography_enhanced_at: '2025-12-15T01:41:48.801005'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Famous Birthdays artist profile for Steph Strings, detailing key songs such as “Dusty Road,” EP information and origin.[1]
-- All About Jazz / artist bio pages describing her as a San Remo‑Melbourne based singer‑songwriter and outlining her stylistic
-  influences.[2]
-- Leanne Ortiz’s “Busker What’s Your Story? StephStrings” profile, providing early‑life background, busking history, and influences.[3]
-- 'Official mini‑documentary “Steph Strings: An Introduction” on YouTube, covering her childhood, fear of singing, first gig
-  experiences, and career turning points.[4]'
-- Visit Phillip Island feature on Steph Strings, discussing “San Remo,” her local roots, festival appearances, tours, and
-  the announcement of her EP *Wildfire*.[5]
-- Event and venue bios (e.g., Fairmont Chateau Whistler) summarizing her style as percussive, Celtic, blues and coastal fingerstyle
-  indie‑rock.[6]
+  - >-
+    Famous Birthdays artist profile for Steph Strings, detailing key songs such
+    as “Dusty Road,” EP information and origin.[1]
+  - >-
+    All About Jazz / artist bio pages describing her as a San Remo‑Melbourne
+    based singer‑songwriter and outlining her stylistic influences.[2]
+  - >-
+    Leanne Ortiz’s “Busker What’s Your Story? StephStrings” profile, providing
+    early‑life background, busking history, and influences.[3]
+  - >-
+    Official mini‑documentary “Steph Strings: An Introduction” on YouTube,
+    covering her childhood, fear of singing, first gig experiences, and career
+    turning points.[4]
+  - >-
+    Visit Phillip Island feature on Steph Strings, discussing “San Remo,” her
+    local roots, festival appearances, tours, and the announcement of her EP
+    *Wildfire*.[5]
+  - >-
+    Event and venue bios (e.g., Fairmont Chateau Whistler) summarizing her style
+    as percussive, Celtic, blues and coastal fingerstyle indie‑rock.[6]
 network_extracted: true
 entry_created: '2025-12-15T01:41:48.801009'
 last_updated: '2025-12-23T08:16:16.063986'
+origin: 'San Remo, Victoria, Australia'
+artist_type: person
 ---
 
 ![](steph_strings.jpg)

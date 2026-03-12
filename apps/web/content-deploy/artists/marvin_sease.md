@@ -3,23 +3,23 @@ title: Marvin Sease
 wiki_slug: marvin-sease
 schema_version: 2
 status: active
-birth_place: Blackville, Barnwell County, South Carolina, United States
+birth_place: 'Blackville, Barnwell County, South Carolina, United States'
 genres:
-- blues
-- footwork
-- soul blues
+  - blues
+  - footwork
+  - soul blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/marvin_sease.jpg
   caption: Marvin Sease
   background: solo_singer
-  origin: Blackville, Barnwell County, South Carolina, United States
+  origin: 'Blackville, Barnwell County, South Carolina, United States'
 audio_profile:
   tempo_avg: 127.1
   energy_avg: 0.475
   valence_avg: 0.626
   danceability_avg: 0.703
   acousticness_avg: 0.285
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -10.2
   speechiness_avg: 0.054
   liveness_avg: 0.128
@@ -28,51 +28,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sease’s brothers (backing band often referred to as Sease or Naglfar/separate backing group)
-  - London/Mercury Records production and studio teams
-  - Jive Records production staff
-  - Malaco Records musicians and producers
+    - >-
+      Sease’s brothers (backing band often referred to as Sease or
+      Naglfar/separate backing group)
+    - London/Mercury Records production and studio teams
+    - Jive Records production staff
+    - Malaco Records musicians and producers
   influenced:
-  - Contemporary Southern soul and ‘blues with a groove’ performers (various)
+    - Contemporary Southern soul and ‘blues with a groove’ performers (various)
   mentors:
-  - Gospel tradition / church quartets (e.g., Five Gospel Crowns)
-  - Johnnie Taylor
-  - Tyrone Davis
+    - 'Gospel tradition / church quartets (e.g., Five Gospel Crowns)'
+    - Johnnie Taylor
+    - Tyrone Davis
 spotify_data:
   followers: 117169
   id: 0hGzB35FiKuH87AIIHwrVb
   popularity: 34
-  url: https://open.spotify.com/artist/0hGzB35FiKuH87AIIHwrVb
+  url: 'https://open.spotify.com/artist/0hGzB35FiKuH87AIIHwrVb'
 discography_enriched: true
 top_tracks:
-- Candy Licker (Marvin Sease)
-- Ghetto Man (Marvin Sease)
-- 'I''m Mr. Jody (Candy Licker: The Sex & Soul Of Marvin Sease)'
-- Motel Lover (The Real Deal)
-- 'I Gotta Clean Up (Candy Licker: The Sex & Soul Of Marvin Sease)'
-- 'Do You Qualify (Candy Licker: The Sex & Soul Of Marvin Sease)'
-- Please Take Me (Please Take Me!)
-- I'm Coming Home (Who's Got the Power)
-- Gone On (Who's Got the Power)
-- Stuck In The Middle (The Real Deal)
+  - Candy Licker (Marvin Sease)
+  - Ghetto Man (Marvin Sease)
+  - 'I''m Mr. Jody (Candy Licker: The Sex & Soul Of Marvin Sease)'
+  - Motel Lover (The Real Deal)
+  - 'I Gotta Clean Up (Candy Licker: The Sex & Soul Of Marvin Sease)'
+  - 'Do You Qualify (Candy Licker: The Sex & Soul Of Marvin Sease)'
+  - Please Take Me (Please Take Me!)
+  - I'm Coming Home (Who's Got the Power)
+  - Gone On (Who's Got the Power)
+  - Stuck In The Middle (The Real Deal)
 external_urls:
-  spotify: https://open.spotify.com/artist/0hGzB35FiKuH87AIIHwrVb
-  wikipedia: https://en.wikipedia.org/wiki/Marvin_Sease
+  spotify: 'https://open.spotify.com/artist/0hGzB35FiKuH87AIIHwrVb'
+  wikipedia: 'https://en.wikipedia.org/wiki/Marvin_Sease'
 image_path: 03_Resources/source_material/ArtistPortraits/marvin_sease.jpg
 biography_enhanced_at: '2025-12-12T12:05:08.860882'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Marvin_Sease
-- https://www.last.fm/music/Marvin+Sease/+wiki
-- https://www.youtube.com/watch?v=CjPNlAnE6_A
-- https://www.soulexpress.net/marvinsease_interview.htm
-- https://www.iheart.com/artist/marvin-sease-40698/
-- https://soulbluesmusic.com/marvinseasepage.htm
+  - 'https://en.wikipedia.org/wiki/Marvin_Sease'
+  - 'https://www.last.fm/music/Marvin+Sease/+wiki'
+  - 'https://www.youtube.com/watch?v=CjPNlAnE6_A'
+  - 'https://www.soulexpress.net/marvinsease_interview.htm'
+  - 'https://www.iheart.com/artist/marvin-sease-40698/'
+  - 'https://soulbluesmusic.com/marvinseasepage.htm'
 network_extracted: true
 entry_created: '2025-12-12T12:05:08.860895'
 last_updated: '2025-12-23T08:16:12.767226'
-
+birth_date: '1946-02-16'
+death_date: '2011-02-08'
+artist_type: person
 ---
 
 ![](marvin_sease.jpg)

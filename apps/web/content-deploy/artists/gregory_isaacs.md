@@ -1,79 +1,82 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bf0269a7-59dc-4bca-982c-aba10b1b129b
-  name: Old Boys Inc.
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f8a59891-929e-4fb5-842e-c717808a1be5
-  name: The Concords
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bf0269a7-59dc-4bca-982c-aba10b1b129b
+    name: Old Boys Inc.
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f8a59891-929e-4fb5-842e-c717808a1be5
+    name: The Concords
 biography_enhanced_at: '2026-01-09T02:11:30.833777'
 birth_date: '1951-07-15'
-birth_place: Kingston
+birth_place: 'Kingston, Jamaica, United States'
 death_date: '2010-10-25'
 enhancement_provider: perplexity
 entry_created: '2026-01-09T02:11:30.833787'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9abff216-e204-4dbc-9849-d1dbe1fbbda8
-  spotify: https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc
-  wikipedia: https://en.wikipedia.org/wiki/Gregory_Isaacs
+  musicbrainz: 'https://musicbrainz.org/artist/9abff216-e204-4dbc-9849-d1dbe1fbbda8'
+  spotify: 'https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc'
+  wikipedia: 'https://en.wikipedia.org/wiki/Gregory_Isaacs'
 gender: Male
 genres:
-- reggae
-- roots reggae
-- lovers rock
-- rocksteady
-- ragga
-- dub
+  - reggae
+  - roots reggae
+  - lovers rock
+  - rocksteady
+  - ragga
+  - dub
 image_path: 03_Resources/source_material/ArtistPortraits/gregory_isaacs.jpg
 instruments:
-- lead vocals
-- background vocals
+  - lead vocals
+  - background vocals
 last_updated: '2026-01-09T02:11:30.833789'
 musical_connections:
   collaborators:
-  - Errol Dunkley
-  - Alvin Ranglin (GG’s Records)
-  - Lee “Scratch” Perry
-  - Sly & Robbie (Taxi Records)
-  - Gussie Clarke (Music Works)
-  - King Isaac
-  - Virgin Records / Front Line
-  - Charisma Records (Pre imprint)
-  - Island Records
+    - Errol Dunkley
+    - Alvin Ranglin (GG’s Records)
+    - Lee “Scratch” Perry
+    - Sly & Robbie (Taxi Records)
+    - Gussie Clarke (Music Works)
+    - King Isaac
+    - Virgin Records / Front Line
+    - Charisma Records (Pre imprint)
+    - Island Records
   influenced:
-  - Lovers rock and romantic reggae artists (e.g., later UK lovers rock singers)
-  - Contemporary reggae and dancehall singers
+    - >-
+      Lovers rock and romantic reggae artists (e.g., later UK lovers rock
+      singers)
+    - Contemporary reggae and dancehall singers
   mentors:
-  - Sam Cooke
-  - Percy Sledge
-  - Delroy Wilson
-  - Alton Ellis
-  - Ken Boothe
-  - Byron Lee
+    - Sam Cooke
+    - Percy Sledge
+    - Delroy Wilson
+    - Alton Ellis
+    - Ken Boothe
+    - Byron Lee
 musicbrainz_id: 9abff216-e204-4dbc-9849-d1dbe1fbbda8
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Gregory_Isaacs
-- https://www.last.fm/music/Gregory+Isaacs/+wiki
-- https://reggaeeurope.com/upcoming-reggae-artists/gregory-isaacs/
-- https://www.roughtrade.com/artist/gregory-isaacs
+  - 'https://en.wikipedia.org/wiki/Gregory_Isaacs'
+  - 'https://www.last.fm/music/Gregory+Isaacs/+wiki'
+  - 'https://reggaeeurope.com/upcoming-reggae-artists/gregory-isaacs/'
+  - 'https://www.roughtrade.com/artist/gregory-isaacs'
 spotify_data:
   followers: 799711
   id: 6QHu71f8LLeT8n0GzfbYFc
   popularity: 59
-  url: https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc
+  url: 'https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc'
 status: active
 tags:
-- classic pop and rock
-- dub
-- lovers rock
+  - classic pop and rock
+  - dub
+  - lovers rock
 title: Gregory Isaacs
+is_active: false
 ---
 
 ![](gregory_isaacs.jpg)

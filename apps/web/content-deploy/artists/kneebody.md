@@ -4,9 +4,9 @@ wiki_slug: kneebody
 schema_version: 2
 status: active
 genres:
-- jazz fusion
-- nu jazz
-- jazz
+  - jazz fusion
+  - nu jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/kneebody.jpg
   caption: Kneebody
@@ -26,56 +26,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Theo Bleckmann
-  - Daedelus
-  - Becca Stevens
-  - Gretchen Parlato
-  - Michael Mayo
-  - Gerald Clayton
-  - Josh Dion
-  - Dave Douglas / Greenleaf Music
-  - Temple Bar and The Vic (Santa Monica scene)
+    - Theo Bleckmann
+    - Daedelus
+    - Becca Stevens
+    - Gretchen Parlato
+    - Michael Mayo
+    - Gerald Clayton
+    - Josh Dion
+    - Dave Douglas / Greenleaf Music
+    - Temple Bar and The Vic (Santa Monica scene)
   influenced:
-  - Contemporary jazz‑fusion and nu‑jazz ensembles (e.g., later genre‑bending small groups on labels like Brainfeeder, Edition, and similar scenes)
+    - >-
+      Contemporary jazz‑fusion and nu‑jazz ensembles (e.g., later genre‑bending
+      small groups on labels like Brainfeeder, Edition, and similar scenes)
   mentors:
-  - Charles Ives
+    - Charles Ives
 spotify_data:
   followers: 26545
   id: 0rS1Y2DkDJhLiaR0MyJyCg
   popularity: 19
-  url: https://open.spotify.com/artist/0rS1Y2DkDJhLiaR0MyJyCg
+  url: 'https://open.spotify.com/artist/0rS1Y2DkDJhLiaR0MyJyCg'
 discography_enriched: true
 top_tracks:
-- Repeat After Me
-- Reach (Reach)
-- Dr. Beauchef, Penguin Dentist (Low Electrical Worker)
-- What's My Name (Chapters)
-- Repeat After Me
-- Natural Bridge (Reach)
-- Lowell (The Line)
-- Glimmer (Reach)
-- Another One (Reach)
-- Top Hat (Reach)
+  - Repeat After Me
+  - Reach (Reach)
+  - 'Dr. Beauchef, Penguin Dentist (Low Electrical Worker)'
+  - What's My Name (Chapters)
+  - Repeat After Me
+  - Natural Bridge (Reach)
+  - Lowell (The Line)
+  - Glimmer (Reach)
+  - Another One (Reach)
+  - Top Hat (Reach)
 external_urls:
-  spotify: https://open.spotify.com/artist/0rS1Y2DkDJhLiaR0MyJyCg
-  wikipedia: https://en.wikipedia.org/wiki/Kneebody
+  spotify: 'https://open.spotify.com/artist/0rS1Y2DkDJhLiaR0MyJyCg'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kneebody'
 image_path: 03_Resources/source_material/ArtistPortraits/kneebody.jpg
 biography_enhanced_at: '2025-12-19T01:40:48.770886'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Kneebody
-- http://www.bigfishbookingco.com/kneebody
-- https://www.sfjazz.org/onthecorner/five-things-know-about-kneebody
-- https://www.innerviews.org/inner/kneebody
-- https://www.dedoelen.nl/en/agenda/kneebody-tqgx
-- https://jazztimes.com/reviews/albums/kneebody-kneebody
-- https://15questions.net/interview/kneebody-about-directions-jazz/
+  - 'https://en.wikipedia.org/wiki/Kneebody'
+  - 'http://www.bigfishbookingco.com/kneebody'
+  - 'https://www.sfjazz.org/onthecorner/five-things-know-about-kneebody'
+  - 'https://www.innerviews.org/inner/kneebody'
+  - 'https://www.dedoelen.nl/en/agenda/kneebody-tqgx'
+  - 'https://jazztimes.com/reviews/albums/kneebody-kneebody'
+  - 'https://15questions.net/interview/kneebody-about-directions-jazz/'
 network_extracted: true
 entry_created: '2025-12-19T01:40:48.770901'
 last_updated: '2025-12-23T08:16:11.456929'
-origin: Los Angeles, California, United States (origin; with roots also in New York City through Eastman School of Music connections)[1][2][5]
-
+origin: >-
+  Los Angeles, California, United States (origin; with roots also in New York
+  City through Eastman School of Music connections)
+artist_type: band
 ---
 
 ![](kneebody.jpg)

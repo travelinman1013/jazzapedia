@@ -3,23 +3,23 @@ title: Wallace Cheese Read
 wiki_slug: wallace-cheese-read
 schema_version: 2
 status: active
-birth_place: Eunice, Louisiana, United States
+birth_place: 'Eunice, Louisiana, United States'
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Wallace_Cheese_Read.jpg
   caption: Wallace Cheese Read
   background: solo_singer
-  origin: Eunice, Louisiana, United States
+  origin: 'Eunice, Louisiana, United States'
 audio_profile:
-  tempo_avg: 128.0
+  tempo_avg: 128
   energy_avg: 0.411
   valence_avg: 0.797
   danceability_avg: 0.551
   acousticness_avg: 0.697
   instrumentalness_avg: 0.036
-  loudness_avg: -12.0
+  loudness_avg: -12
   speechiness_avg: 0.055
   liveness_avg: 0.153
   track_count: 50
@@ -27,47 +27,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Local Cajun musicians
+    - Local Cajun musicians
   influenced:
-  - Younger Cajun fiddlers in Eunice and Prairie Rhonde
+    - Younger Cajun fiddlers in Eunice and Prairie Rhonde
   mentors:
-  - Dennis McGee
+    - Dennis McGee
 spotify_data:
   followers: 93
   id: 0zv3SwdSnSftrJvoy8Iu5F
   popularity: 0
-  url: https://open.spotify.com/artist/0zv3SwdSnSftrJvoy8Iu5F
+  url: 'https://open.spotify.com/artist/0zv3SwdSnSftrJvoy8Iu5F'
 discography_enriched: true
 top_tracks:
-- Fiddle Stomp (15 Louisiana Cajun Classics)
-- Bayou Pom Pom (Cajun House Party)
-- One Step A Chaumont (Cajun House Party)
-- Le Pays De L'acadien (Cajun House Party)
-- Battle Of New Orleans (Cajun House Party)
-- T'es Petite, Mais T'es Mignone (Cajun Champs)
-- One Step A Chaumont (Cajun Champs)
-- Les Veuves De La Coulee (Cajun House Party)
-- Read's Two-Step (Cajun House Party)
-- Tolan Waltz (Cajun House Party)
+  - Fiddle Stomp (15 Louisiana Cajun Classics)
+  - Bayou Pom Pom (Cajun House Party)
+  - One Step A Chaumont (Cajun House Party)
+  - Le Pays De L'acadien (Cajun House Party)
+  - Battle Of New Orleans (Cajun House Party)
+  - 'T''es Petite, Mais T''es Mignone (Cajun Champs)'
+  - One Step A Chaumont (Cajun Champs)
+  - Les Veuves De La Coulee (Cajun House Party)
+  - Read's Two-Step (Cajun House Party)
+  - Tolan Waltz (Cajun House Party)
 external_urls:
-  spotify: https://open.spotify.com/artist/0zv3SwdSnSftrJvoy8Iu5F
+  spotify: 'https://open.spotify.com/artist/0zv3SwdSnSftrJvoy8Iu5F'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/Wallace_Cheese_Read.jpg
 biography_enhanced_at: '2025-10-20T01:45:17.781682'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://folkways-media.si.edu/docs/folkways/artwork/ARH00415.pdf
-- https://arhoolie.org/wallace-cheese-read-interview/
-- https://music.apple.com/ca/artist/wallace-cheese-read/270934434
-- https://www.jstor.org/stable/j.ctt2tvjjz
-- https://subjectguides.library.american.edu/c.php?g=175139&p=1153662
-- https://www.allmusic.com/artist/wallace-cheese-read-mn0000813626
-- https://arhoolie.org/category/chris-strachwitz-collection/chris-strachwitz-interviews/page/4/
-- https://folkways.si.edu/wallace-cheese-read/cajun-house-party/cd-edition
+  - 'https://folkways-media.si.edu/docs/folkways/artwork/ARH00415.pdf'
+  - 'https://arhoolie.org/wallace-cheese-read-interview/'
+  - 'https://music.apple.com/ca/artist/wallace-cheese-read/270934434'
+  - 'https://www.jstor.org/stable/j.ctt2tvjjz'
+  - 'https://subjectguides.library.american.edu/c.php?g=175139&p=1153662'
+  - 'https://www.allmusic.com/artist/wallace-cheese-read-mn0000813626'
+  - >-
+    https://arhoolie.org/category/chris-strachwitz-collection/chris-strachwitz-interviews/page/4/
+  - 'https://folkways.si.edu/wallace-cheese-read/cajun-house-party/cd-edition'
 network_extracted: true
 entry_created: '2025-10-20T01:45:17.781708'
 last_updated: '2025-12-23T08:16:04.264749'
+birth_date: '1924-08-12'
+artist_type: person
 ---
 
 ![](Wallace_Cheese_Read.jpg)

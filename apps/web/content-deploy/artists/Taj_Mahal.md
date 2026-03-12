@@ -2,26 +2,26 @@
 title: Taj Mahal
 wiki_slug: taj-mahal
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1942-05-17'
-birth_place: New York City, New York, United States
+birth_place: 'New York City, New York, United States'
 genres:
-- blues
-- classic blues
-- country blues
-- jazz blues
-- blues rock
-- modern blues
+  - blues
+  - classic blues
+  - country blues
+  - jazz blues
+  - blues rock
+  - modern blues
 instruments:
-- eponymous
-- original
+  - eponymous
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Taj_Mahal.jpg
   caption: Taj Mahal
   background: non_vocal_instrumentalist
   born: '1942-05-17'
-  origin: New York City, New York, United States
+  origin: 'New York City, New York, United States'
 audio_profile:
   tempo_avg: 117.3
   energy_avg: 0.56
@@ -37,49 +37,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ry Cooder
-  - Jesse Ed Davis
-  - Keb’ Mo’
-  - Toumani Diabaté
+    - Ry Cooder
+    - Jesse Ed Davis
+    - Keb’ Mo’
+    - Toumani Diabaté
   influenced:
-  - Eric Clapton
-  - The Rolling Stones
-  - Younger Black blues artists
+    - Eric Clapton
+    - The Rolling Stones
+    - Younger Black blues artists
   mentors:
-  - Henry Saint Clair Fredericks Sr.
-  - Lynnwood Perry
-  - Mississippi John Hurt
-  - Howlin’ Wolf and Muddy Waters
+    - Henry Saint Clair Fredericks Sr.
+    - Lynnwood Perry
+    - Mississippi John Hurt
+    - Howlin’ Wolf and Muddy Waters
 spotify_data:
   followers: 242000
   id: 1aTDTChWWyiJH3SEnYrdVp
   popularity: 48
-  url: https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp
+  url: 'https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp'
 discography_enriched: true
 top_tracks:
-- Leaving Trunk (Taj Mahal)
-- Better Than Ever [Feat. Wendy Moten] (Room On The Porch)
-- Statesboro Blues (Taj Mahal)
-- Will The Circle Be Unbroken - Live
-- Queen Bee (Señor Blues)
-- Lovin' in My Baby's Eyes (Phantom Blues)
-- Corinna - From "The Natch'l Blues" (The Natch'l Blues)
-- Room On The Porch [Feat. Ruby Amanfu]
-- Room On The Porch [Feat. Ruby Amanfu] (Room On The Porch)
-- My Darling My Dear (Room On The Porch)
+  - Leaving Trunk (Taj Mahal)
+  - 'Better Than Ever [Feat. Wendy Moten] (Room On The Porch)'
+  - Statesboro Blues (Taj Mahal)
+  - Will The Circle Be Unbroken - Live
+  - Queen Bee (Señor Blues)
+  - Lovin' in My Baby's Eyes (Phantom Blues)
+  - Corinna - From "The Natch'l Blues" (The Natch'l Blues)
+  - 'Room On The Porch [Feat. Ruby Amanfu]'
+  - 'Room On The Porch [Feat. Ruby Amanfu] (Room On The Porch)'
+  - My Darling My Dear (Room On The Porch)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4f48167c-29b8-4bde-a749-6803ce0a3922
-  spotify: https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp
-  wikipedia: https://en.wikipedia.org/wiki/Taj_Mahal_(musician)
+  musicbrainz: 'https://musicbrainz.org/artist/4f48167c-29b8-4bde-a749-6803ce0a3922'
+  spotify: 'https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp'
+  wikipedia: 'https://en.wikipedia.org/wiki/Taj_Mahal_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/Taj_Mahal.jpg
 biography_enhanced_at: '2025-10-20T09:10:47.120386'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.britannica.com/biography/Taj-Mahal-American-musician
-- https://www.sfjazz.org/taj-mahal-bio/
-- https://www.musicmaker.org/artist/taj-mahal/
-- https://www.americanbluesscene.com/2024/08/the-folk-americana-roots-hall-of-fame-inductees-solo-living-artist-taj-mahal/
+  - 'https://www.britannica.com/biography/Taj-Mahal-American-musician'
+  - 'https://www.sfjazz.org/taj-mahal-bio/'
+  - 'https://www.musicmaker.org/artist/taj-mahal/'
+  - >-
+    https://www.americanbluesscene.com/2024/08/the-folk-americana-roots-hall-of-fame-inductees-solo-living-artist-taj-mahal/
 network_extracted: true
 entry_created: '2025-10-20T09:10:47.120396'
 last_updated: '2025-12-23T08:16:04.036591'
@@ -88,9 +89,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:45:19.345079'
 musicbrainz_id: 4f48167c-29b8-4bde-a749-6803ce0a3922
 tags:
-- acoustic blues
-- blues
-- blues rock
+  - acoustic blues
+  - blues
+  - blues rock
+origin: 'Springfield, Massachusetts, United States'
 ---
 
 ![](Taj_Mahal.jpg)

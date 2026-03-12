@@ -2,13 +2,13 @@
 artist_type: person
 biography_enhanced_at: '2026-01-20T01:23:44.881653'
 birth_date: '1928-12-21'
-birth_place: Columbus
+birth_place: 'Columbus, Ohio, United States'
 death_date: '1983-07-03'
 enhancement_provider: perplexity
 entry_created: '2026-01-20T01:23:44.881660'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ab7d2f16-1b56-485b-84f1-89cbd5ba65aa
-  spotify: https://open.spotify.com/artist/1UedlcCVqk3Zjq2UQocScS
+  musicbrainz: 'https://musicbrainz.org/artist/ab7d2f16-1b56-485b-84f1-89cbd5ba65aa'
+  spotify: 'https://open.spotify.com/artist/1UedlcCVqk3Zjq2UQocScS'
   wikipedia: ''
 gender: Male
 genres: []
@@ -16,31 +16,34 @@ image_path: 03_Resources/source_material/ArtistPortraits/larry_darnell.jpg
 last_updated: '2026-01-20T01:23:44.881661'
 musical_connections:
   collaborators:
-  - Edgar Blanchard
-  - Fred Mendelsohn
-  - Howard Biggs
-  - Leroy Kirkland
+    - Edgar Blanchard
+    - Fred Mendelsohn
+    - Howard Biggs
+    - Leroy Kirkland
   influenced: []
   mentors:
-  - Andy Kirk
+    - Andy Kirk
 musicbrainz_id: ab7d2f16-1b56-485b-84f1-89cbd5ba65aa
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Larry+Darnell/+wiki
-- https://fromthevaults-boppinbob.blogspot.com/2020/12/larry-darnell-born-17-december-1928.html
-- https://www.allmusic.com/artist/larry-darnell-mn0000781226
-- https://www.iheart.com/artist/larry-darnell-212313/
-- https://kids.kiddle.co/Larry_Darnell
-- https://www.bear-family.com/darnell-larry/
-- https://jazzweekly.com/2025/03/larry-darnell-for-you-my-love-the-singles-collection-1949-1960/
+  - 'https://www.last.fm/music/Larry+Darnell/+wiki'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2020/12/larry-darnell-born-17-december-1928.html
+  - 'https://www.allmusic.com/artist/larry-darnell-mn0000781226'
+  - 'https://www.iheart.com/artist/larry-darnell-212313/'
+  - 'https://kids.kiddle.co/Larry_Darnell'
+  - 'https://www.bear-family.com/darnell-larry/'
+  - >-
+    https://jazzweekly.com/2025/03/larry-darnell-for-you-my-love-the-singles-collection-1949-1960/
 spotify_data:
   followers: 289
   id: 1UedlcCVqk3Zjq2UQocScS
   popularity: 7
-  url: https://open.spotify.com/artist/1UedlcCVqk3Zjq2UQocScS
+  url: 'https://open.spotify.com/artist/1UedlcCVqk3Zjq2UQocScS'
 status: active
-title: LARRY DARNELL
+title: Larry Darnell
+is_active: false
 ---
 
 ![](larry_darnell.jpg)

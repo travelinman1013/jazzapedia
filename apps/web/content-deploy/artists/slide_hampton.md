@@ -1,48 +1,53 @@
 ---
 biography_enhanced_at: '2026-01-22T07:22:54.322693'
-birth_place: Jeannette, Pennsylvania, USA
+birth_place: 'Jeannette, Pennsylvania, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:22:54.322700'
 external_urls:
-  spotify: https://open.spotify.com/artist/1JrZuQYlOzhNj1nvlB0Yys
+  spotify: 'https://open.spotify.com/artist/1JrZuQYlOzhNj1nvlB0Yys'
   wikipedia: ''
 genres:
-- jazz
-- jazz ballads
-- hard bop
+  - jazz
+  - jazz ballads
+  - hard bop
 image_path: 03_Resources/source_material/ArtistPortraits/slide_hampton.jpg
 last_updated: '2026-01-22T07:22:54.322700'
 musical_connections:
   collaborators:
-  - Lionel Hampton
-  - Maynard Ferguson
-  - Freddie Hubbard
-  - Booker Little
-  - George Coleman
-  - Dizzy Gillespie
-  - Dee Dee Bridgewater
-  - Dexter Gordon
+    - Lionel Hampton
+    - Maynard Ferguson
+    - Freddie Hubbard
+    - Booker Little
+    - George Coleman
+    - Dizzy Gillespie
+    - Dee Dee Bridgewater
+    - Dexter Gordon
   influenced:
-  - Peter Lin
-  - David Baker
+    - Peter Lin
+    - David Baker
   mentors:
-  - J.J. Johnson
-  - Wes Montgomery
-  - Art Blakey's Jazz Messengers
+    - J.J. Johnson
+    - Wes Montgomery
+    - Art Blakey's Jazz Messengers
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://downbeat.com/news/detail/in-memoriam-slide-hampton-1932-2021
-- https://www.knkx.org/jazz/2021-11-22/nea-jazz-master-trombonist-slide-hampton-has-died
-- https://www.arts.gov/honors/jazz/slide-hampton
-- https://www.wbgo.org/2021-11-22/slide-hampton-trombonist-who-also-made-a-lasting-impression-as-a-master-arranger-is-dead-at-89
+  - 'https://downbeat.com/news/detail/in-memoriam-slide-hampton-1932-2021'
+  - >-
+    https://www.knkx.org/jazz/2021-11-22/nea-jazz-master-trombonist-slide-hampton-has-died
+  - 'https://www.arts.gov/honors/jazz/slide-hampton'
+  - >-
+    https://www.wbgo.org/2021-11-22/slide-hampton-trombonist-who-also-made-a-lasting-impression-as-a-master-arranger-is-dead-at-89
 spotify_data:
   followers: 5482
   id: 1JrZuQYlOzhNj1nvlB0Yys
   popularity: 30
-  url: https://open.spotify.com/artist/1JrZuQYlOzhNj1nvlB0Yys
+  url: 'https://open.spotify.com/artist/1JrZuQYlOzhNj1nvlB0Yys'
 status: active
-title: slide hampton
+title: Slide Hampton
+birth_date: '1932-04-21'
+death_date: '2021-11-18'
+artist_type: person
 ---
 
 ![](slide_hampton.jpg)

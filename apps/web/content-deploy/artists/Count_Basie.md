@@ -2,26 +2,26 @@
 title: Count Basie
 wiki_slug: count-basie
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1904-08-21'
-birth_place: Red Bank, New Jersey, United States
+birth_place: 'Red Bank, New Jersey, United States'
 death_date: '1984-04-26'
 genres:
-- big band
-- swing music
-- jazz
+  - big band
+  - swing music
+  - jazz
 instruments:
-- piano
-- eponymous
-- original
-- organ
+  - piano
+  - eponymous
+  - original
+  - organ
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Count_Basie.jpg
   caption: Count Basie
   background: non_vocal_instrumentalist
   born: '1904-08-21'
-  origin: Red Bank, New Jersey, United States
+  origin: 'Red Bank, New Jersey, United States'
   died: '1984-04-26'
 audio_profile:
   tempo_avg: 117.8
@@ -38,48 +38,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lester Young
-  - Freddie Green
-  - Joe Williams
-  - Ella Fitzgerald
-  - Frank Sinatra
+    - Lester Young
+    - Freddie Green
+    - Joe Williams
+    - Ella Fitzgerald
+    - Frank Sinatra
   influenced:
-  - Quincy Jones
-  - Neal Hefti
-  - Thad Jones
+    - Quincy Jones
+    - Neal Hefti
+    - Thad Jones
   mentors:
-  - Fats Waller
-  - James P. Johnson
+    - Fats Waller
+    - James P. Johnson
 spotify_data:
   followers: 404856
   id: 2jFZlvIea42ZvcCw4OeEdA
   popularity: 59
-  url: https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA
+  url: 'https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA'
 discography_enriched: true
 top_tracks:
-- 'Fly Me To The Moon (In Other Words) (Sinatra/Basie: The Complete Reprise Studio Recordings)'
-- Fly Me To The Moon - 2008 Remastered
-- Fly Me To The Moon
-- Fly Me To The Moon (In Other Words) (It Might As Well Be Swing)
-- Splanky (The Atomic Mr Basie)
-- On The Sunny Side Of The Street
-- 'The Best Is Yet To Come (Sinatra/Basie: The Complete Reprise Studio Recordings)'
-- The Best Is Yet To Come - 2008 Remastered
-- Hay Burner (Straight Ahead)
-- Alright, Okay, You Win
+  - >-
+    Fly Me To The Moon (In Other Words) (Sinatra/Basie: The Complete Reprise
+    Studio Recordings)
+  - Fly Me To The Moon - 2008 Remastered
+  - Fly Me To The Moon
+  - Fly Me To The Moon (In Other Words) (It Might As Well Be Swing)
+  - Splanky (The Atomic Mr Basie)
+  - On The Sunny Side Of The Street
+  - >-
+    The Best Is Yet To Come (Sinatra/Basie: The Complete Reprise Studio
+    Recordings)
+  - The Best Is Yet To Come - 2008 Remastered
+  - Hay Burner (Straight Ahead)
+  - 'Alright, Okay, You Win'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/0dbd6300-efdc-420b-857e-895e18fad317
-  spotify: https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA
-  wikipedia: https://en.wikipedia.org/wiki/Count_Basie
+  musicbrainz: 'https://musicbrainz.org/artist/0dbd6300-efdc-420b-857e-895e18fad317'
+  spotify: 'https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA'
+  wikipedia: 'https://en.wikipedia.org/wiki/Count_Basie'
 image_path: 03_Resources/source_material/ArtistPortraits/Count_Basie.jpg
 biography_enhanced_at: '2025-10-20T01:38:50.338012'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Count_Basie
-- https://thebasie.org/countbasiebio/
-- https://www.britannica.com/biography/Count-Basie
-- https://www.biography.com/musicians/count-basie
+  - 'https://en.wikipedia.org/wiki/Count_Basie'
+  - 'https://thebasie.org/countbasiebio/'
+  - 'https://www.britannica.com/biography/Count-Basie'
+  - 'https://www.biography.com/musicians/count-basie'
 network_extracted: true
 entry_created: '2025-10-20T01:38:50.338026'
 last_updated: '2025-12-23T08:16:01.566243'
@@ -88,10 +92,11 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:22:49.080107'
 musicbrainz_id: 0dbd6300-efdc-420b-857e-895e18fad317
 tags:
-- american
-- big band
-- classic pop and rock
-
+  - american
+  - big band
+  - classic pop and rock
+is_active: false
+origin: 'Kansas City, Missouri, United States'
 ---
 
 ![](Count_Basie.jpg)

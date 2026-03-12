@@ -1,48 +1,51 @@
 ---
 biography_enhanced_at: '2025-12-30T01:27:09.622121'
-birth_place: Washington, D.C., United States (birthplace); New Orleans, Louisiana,
-  United States (current residence since 2011)
+birth_place: >-
+  Washington, D.C., United States (birthplace); New Orleans, Louisiana, United
+  States (current residence since 2011)
 enhancement_provider: perplexity
 entry_created: '2025-12-30T01:27:09.622126'
 external_urls:
-  spotify: https://open.spotify.com/artist/04HwdlOSZ8Rnmp4D3vyjI2
-  wikipedia: https://en.wikipedia.org/wiki/Nigel_Hall_(musician)
+  spotify: 'https://open.spotify.com/artist/04HwdlOSZ8Rnmp4D3vyjI2'
+  wikipedia: 'https://en.wikipedia.org/wiki/Nigel_Hall_(musician)'
 genres:
-- retro soul
+  - retro soul
 image_path: 03_Resources/source_material/ArtistPortraits/carrtoons_nigel_hall.jpg
 last_updated: '2025-12-30T01:27:09.622127'
 musical_connections:
   collaborators:
-  - Lettuce
-  - Warren Haynes Band
-  - The Nth Power
-  - Snarky Puppy
-  - Eric Krasno
-  - Adam Deitch
-  - Robert Randolph and the Family Band
-  - John Scofield
+    - Lettuce
+    - Warren Haynes Band
+    - The Nth Power
+    - Snarky Puppy
+    - Eric Krasno
+    - Adam Deitch
+    - Robert Randolph and the Family Band
+    - John Scofield
   influenced:
-  - Not specified in available sources
+    - Not specified in available sources
   mentors:
-  - Ryan Zoidis
-  - Jon Cleary
-  - Questlove (Ahmir Thompson)
+    - Ryan Zoidis
+    - Jon Cleary
+    - Questlove (Ahmir Thompson)
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- 'Wikipedia: Nigel Hall (musician)'
-- 'The Kurland Agency: Nigel Hall Bio (PDF)'
-- 'Concord Music Publishing: Nigel Hall'
-- 'AllMusic: Nigel Hall'
-- 'New Orleans.com: Nigel Hall'
-- Nigel Hall Official Website
+  - 'Wikipedia: Nigel Hall (musician)'
+  - 'The Kurland Agency: Nigel Hall Bio (PDF)'
+  - 'Concord Music Publishing: Nigel Hall'
+  - 'AllMusic: Nigel Hall'
+  - 'New Orleans.com: Nigel Hall'
+  - Nigel Hall Official Website
 spotify_data:
   followers: 16461
   id: 04HwdlOSZ8Rnmp4D3vyjI2
   popularity: 42
-  url: https://open.spotify.com/artist/04HwdlOSZ8Rnmp4D3vyjI2
+  url: 'https://open.spotify.com/artist/04HwdlOSZ8Rnmp4D3vyjI2'
 status: active
-title: CARRTOONS/ Nigel hall
+title: CARRTOONS / Nigel Hall
+birth_date: '1981-09-15'
+artist_type: person
 ---
 
 ![](carrtoons_nigel_hall.jpg)

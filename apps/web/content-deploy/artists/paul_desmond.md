@@ -1,53 +1,53 @@
 ---
-title: PAUL DESMOND
+title: Paul Desmond
 wiki_slug: paul-desmond
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1924-11-25'
-birth_place: San Francisco
+birth_place: 'San Francisco, California, United States'
 death_date: '1977-05-30'
 genres:
-- cool jazz
-- jazz
-- bossa nova
-- brazilian jazz
+  - cool jazz
+  - jazz
+  - bossa nova
+  - brazilian jazz
 instruments:
-- original
-- eponymous
-- alto saxophone
-associated_acts:
-- begin: '1951'
-  end: '1967'
-  instruments:
   - original
-  mbid: 7bf711e9-4e69-4e08-b6e8-c0cb5805f1e7
-  name: The Dave Brubeck Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: aa24efb7-e092-4817-a4be-685157f7468a
-  name: The Dave Brubeck Octet
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
-  mbid: ab9147b7-964f-4a10-b27a-c8a8f5afd167
-  name: The Paul Desmond Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 6410e782-38e7-4247-8102-e59773641ef7
-  name: Paul Desmond and Jim Hall Quartet
-- begin: ''
-  end: ''
-  instruments:
   - alto saxophone
-  - eponymous
-  mbid: b15c6ff1-64c3-4c9d-89d1-cf8c010b17d7
-  name: Gerry Mulligan – Paul Desmond Quartet
+associated_acts:
+  - begin: '1951'
+    end: '1967'
+    instruments:
+      - original
+    mbid: 7bf711e9-4e69-4e08-b6e8-c0cb5805f1e7
+    name: The Dave Brubeck Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: aa24efb7-e092-4817-a4be-685157f7468a
+    name: The Dave Brubeck Octet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: ab9147b7-964f-4a10-b27a-c8a8f5afd167
+    name: The Paul Desmond Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 6410e782-38e7-4247-8102-e59773641ef7
+    name: Paul Desmond and Jim Hall Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - alto saxophone
+      - eponymous
+    mbid: b15c6ff1-64c3-4c9d-89d1-cf8c010b17d7
+    name: Gerry Mulligan – Paul Desmond Quartet
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/paul_desmond.jpg
   caption: PAUL DESMOND
@@ -70,51 +70,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dave Brubeck
-  - Gerry Mulligan
-  - Jim Hall
-  - Chet Baker
+    - Dave Brubeck
+    - Gerry Mulligan
+    - Jim Hall
+    - Chet Baker
   influenced:
-  - Various Jazz Musicians
+    - Various Jazz Musicians
   mentors:
-  - His Father
+    - His Father
 spotify_data:
   followers: 178846
   id: 68l2i6GeNtwQlhKS59u5bu
   popularity: 51
-  url: https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu
+  url: 'https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu'
 discography_enriched: true
 top_tracks:
-- Bossa Antigua (The Complete RCA Victor Recordings)
-- A Taste of Honey - Live
-- I've Got You Under My Skin - 2011 Remaster (Desmond Blue)
-- Samba Cantina (The Complete RCA Victor Recordings)
-- Bossa Antigua (Bossa Antigua)
-- Emily (Summertime)
-- The Theme from "Black Orpheus" (The Complete RCA Victor Recordings)
-- For All We Know (First Place Again)
-- A Taste of Honey (The Complete RCA Victor Recordings)
-- Wave
+  - Bossa Antigua (The Complete RCA Victor Recordings)
+  - A Taste of Honey - Live
+  - I've Got You Under My Skin - 2011 Remaster (Desmond Blue)
+  - Samba Cantina (The Complete RCA Victor Recordings)
+  - Bossa Antigua (Bossa Antigua)
+  - Emily (Summertime)
+  - The Theme from "Black Orpheus" (The Complete RCA Victor Recordings)
+  - For All We Know (First Place Again)
+  - A Taste of Honey (The Complete RCA Victor Recordings)
+  - Wave
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d5bf3447-c526-4f7c-9931-4b7c80fe34de
-  spotify: https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu
-  wikipedia: https://en.wikipedia.org/wiki/Paul_Desmond
+  musicbrainz: 'https://musicbrainz.org/artist/d5bf3447-c526-4f7c-9931-4b7c80fe34de'
+  spotify: 'https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu'
+  wikipedia: 'https://en.wikipedia.org/wiki/Paul_Desmond'
 image_path: 03_Resources/source_material/ArtistPortraits/paul_desmond.jpg
 biography_enhanced_at: '2025-10-28T09:14:40.616164'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.selmer.fr/en/blogs/artistes/paul-desmond
-- https://mgleatherwork.com/blogs/news/10-interesting-facts-about-paul-desmond-life-insights
-- https://www.jazzstandards.com/biographies/biography_291.htm
+  - 'https://www.selmer.fr/en/blogs/artistes/paul-desmond'
+  - >-
+    https://mgleatherwork.com/blogs/news/10-interesting-facts-about-paul-desmond-life-insights
+  - 'https://www.jazzstandards.com/biographies/biography_291.htm'
 network_extracted: true
 entry_created: '2025-10-28T09:14:40.616174'
 last_updated: '2025-12-23T08:16:14.067235'
 gender: Male
 musicbrainz_id: d5bf3447-c526-4f7c-9931-4b7c80fe34de
 tags:
-- cool jazz
-- jazz
+  - cool jazz
+  - jazz
+is_active: false
 ---
 
 ![](paul_desmond.jpg)

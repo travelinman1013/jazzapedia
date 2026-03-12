@@ -2,13 +2,13 @@
 title: Mamou
 wiki_slug: mamou
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 birth_date: '1985'
 genres:
-- folk
-- indie folk
-- folk rock
+  - folk
+  - indie folk
+  - folk rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/mamou.jpg
   caption: Mamou
@@ -29,57 +29,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jazz Poets Society
-  - Gil Scott Heron
-  - Ursula Rucker
+    - Jazz Poets Society
+    - Gil Scott Heron
+    - Ursula Rucker
   influenced:
-  - Emerging spoken word and indie folk artists in Richmond, VA
+    - 'Emerging spoken word and indie folk artists in Richmond, VA'
   mentors:
-  - The Last Poets
-  - Digable Planets
+    - The Last Poets
+    - Digable Planets
 spotify_data:
   followers: 6625264
   id: 3gd8FJtBJtkRxdfbTu19U2
   popularity: 75
-  url: https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2
+  url: 'https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2'
 discography_enriched: true
 top_tracks:
-- I Will Wait (Babel (Deluxe Version))
-- Little Lion Man (Sigh No More)
-- I Will Wait (Babel (Deluxe Version))
-- The Cave (Sigh No More)
-- Little Lion Man (Sigh No More)
-- Little Lion Man (Sigh No More)
-- Rushmere
-- Malibu
-- The Cave (Sigh No More)
-- The Cave (Sigh No More)
+  - I Will Wait (Babel (Deluxe Version))
+  - Little Lion Man (Sigh No More)
+  - I Will Wait (Babel (Deluxe Version))
+  - The Cave (Sigh No More)
+  - Little Lion Man (Sigh No More)
+  - Little Lion Man (Sigh No More)
+  - Rushmere
+  - Malibu
+  - The Cave (Sigh No More)
+  - The Cave (Sigh No More)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/237e4363-0330-4375-afbb-040f474fe1fd
-  spotify: https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2
+  musicbrainz: 'https://musicbrainz.org/artist/237e4363-0330-4375-afbb-040f474fe1fd'
+  spotify: 'https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/mamou.jpg
 biography_enhanced_at: '2025-11-17T10:45:24.423514'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.themamougroup.com/talent/mamou
+  - 'https://www.themamougroup.com/talent/mamou'
 network_extracted: true
 entry_created: '2025-11-17T10:45:24.423520'
 last_updated: '2025-12-23T08:16:12.580300'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 63544cea-16b6-4491-b288-0d58939d2720
-  name: Jonno Frishberg
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 54c693cf-5426-4f67-aba3-dedd8c8101b0
-  name: Steve LaFleur
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 63544cea-16b6-4491-b288-0d58939d2720
+    name: Jonno Frishberg
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 54c693cf-5426-4f67-aba3-dedd8c8101b0
+    name: Steve LaFleur
 musicbrainz_id: 237e4363-0330-4375-afbb-040f474fe1fd
-origin: Richmond, Virginia, United States
+origin: 'Richmond, Virginia, United States'
 ---
 
 ![](mamou.jpg)

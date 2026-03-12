@@ -1,16 +1,16 @@
 ---
-title: BENNY SPELLMAN
+title: Benny Spellman
 wiki_slug: benny-spellman
 schema_version: 2
 status: active
-birth_place: Pensacola, Florida, United States
+birth_place: 'Pensacola, Florida, United States'
 genres:
-- northern soul
+  - northern soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/benny_spellman.jpg
   caption: BENNY SPELLMAN
   background: solo_singer
-  origin: Pensacola, Florida, United States
+  origin: 'Pensacola, Florida, United States'
 audio_profile:
   tempo_avg: 125.3
   energy_avg: 0.569
@@ -26,57 +26,70 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Allen Toussaint
-  - Ernie K‑Doe
-  - Huey "Piano" Smith and the Clowns
-  - Mac Rebennack (Dr. John)
-  - Earl King
-  - The Neville Brothers
-  - Wilson Pickett
-  - The O'Jays
+    - Allen Toussaint
+    - Ernie K‑Doe
+    - Huey "Piano" Smith and the Clowns
+    - Mac Rebennack (Dr. John)
+    - Earl King
+    - The Neville Brothers
+    - Wilson Pickett
+    - The O'Jays
   influenced:
-  - The Rolling Stones
-  - The Who
-  - Northern soul and New Orleans R&B collectors and revivalists
+    - The Rolling Stones
+    - The Who
+    - Northern soul and New Orleans R&B collectors and revivalists
   mentors:
-  - Alvin Batiste (Battiste)
-  - Huey "Piano" Smith
-  - Allen Toussaint
+    - Alvin Batiste (Battiste)
+    - Huey "Piano" Smith
+    - Allen Toussaint
 spotify_data:
   followers: 3260
   id: 16w2zedVfGOHZpRnXhJCjW
   popularity: 15
-  url: https://open.spotify.com/artist/16w2zedVfGOHZpRnXhJCjW
+  url: 'https://open.spotify.com/artist/16w2zedVfGOHZpRnXhJCjW'
 discography_enriched: true
 top_tracks:
-- Lipstick Traces (On a Cigarette) (Lipstick Traces (On a Cigarette))
-- Fortune Teller - Remastered (Golden Selection (Remastered))
-- 'Lipstick Traces (On A Cigarette) - 2002 Remaster (Finger Poppin'' And Stompin'' Feet: 20 Classic Allen Toussaint Productions
-  For Minit Records 1960-1962 (2002 Remaster))'
-- Sinner Girl (If You Love Her)
-- 'Fortune Teller - 2002 Remaster (Finger Poppin'' And Stompin'' Feet: 20 Classic Allen Toussaint Productions For Minit Records
-  1960-1962 (2002 Remaster))'
-- If You Love Her - Remastered (Artist • Producer • Songwriter (Deluxe Edition))
-- Lipstick Traces (Everything I Do Gonh Be Funky (The Hit Songs & Productions 1957-1978))
-- Lipstick Traces (On a Cigarette) - Remastered (Golden Selection (Remastered))
-- 'Fortune Teller (For Northern Soul Collectors: Volume 1)'
-- Fortune Teller
+  - Lipstick Traces (On a Cigarette) (Lipstick Traces (On a Cigarette))
+  - Fortune Teller - Remastered (Golden Selection (Remastered))
+  - >-
+    Lipstick Traces (On A Cigarette) - 2002 Remaster (Finger Poppin' And
+    Stompin' Feet: 20 Classic Allen Toussaint Productions For Minit Records
+    1960-1962 (2002 Remaster))
+  - Sinner Girl (If You Love Her)
+  - >-
+    Fortune Teller - 2002 Remaster (Finger Poppin' And Stompin' Feet: 20 Classic
+    Allen Toussaint Productions For Minit Records 1960-1962 (2002 Remaster))
+  - >-
+    If You Love Her - Remastered (Artist • Producer • Songwriter (Deluxe
+    Edition))
+  - >-
+    Lipstick Traces (Everything I Do Gonh Be Funky (The Hit Songs & Productions
+    1957-1978))
+  - >-
+    Lipstick Traces (On a Cigarette) - Remastered (Golden Selection
+    (Remastered))
+  - 'Fortune Teller (For Northern Soul Collectors: Volume 1)'
+  - Fortune Teller
 external_urls:
-  spotify: https://open.spotify.com/artist/16w2zedVfGOHZpRnXhJCjW
-  wikipedia: https://en.wikipedia.org/wiki/Benny_Spellman
+  spotify: 'https://open.spotify.com/artist/16w2zedVfGOHZpRnXhJCjW'
+  wikipedia: 'https://en.wikipedia.org/wiki/Benny_Spellman'
 image_path: 03_Resources/source_material/ArtistPortraits/benny_spellman.jpg
 biography_enhanced_at: '2025-12-09T04:45:55.469700'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Benny_Spellman
-- https://homeofthegroove.blogspot.com/2011/07/tracing-benny-spellmans-fortunes.html
-- https://louisianamusichalloffame.org/benny-spellman/
-- https://www.last.fm/music/Benny+Spellman
-- https://www.allmusic.com/artist/benny-spellman-mn0000042768
+  - 'https://en.wikipedia.org/wiki/Benny_Spellman'
+  - >-
+    https://homeofthegroove.blogspot.com/2011/07/tracing-benny-spellmans-fortunes.html
+  - 'https://louisianamusichalloffame.org/benny-spellman/'
+  - 'https://www.last.fm/music/Benny+Spellman'
+  - 'https://www.allmusic.com/artist/benny-spellman-mn0000042768'
 network_extracted: true
 entry_created: '2025-12-09T04:45:55.469710'
 last_updated: '2025-12-23T08:16:01.168044'
+birth_date: '1931-12-11'
+death_date: '2011-06-03'
+artist_type: person
 ---
 
 ![](benny_spellman.jpg)

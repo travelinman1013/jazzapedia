@@ -5,12 +5,12 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1919-08-31'
-birth_place: Paraíba
+birth_place: 'Alagoa Grande, Paraíba, Brazil'
 death_date: '1982-07-10'
 genres:
-- forró
-- forro tradicional
-- samba
+  - forró
+  - forro tradicional
+  - samba
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jackson_do_pandeiro.jpg
   caption: Jackson do Pandeiro
@@ -24,7 +24,7 @@ audio_profile:
   valence_avg: 0.945
   danceability_avg: 0.674
   acousticness_avg: 0.529
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -7.8
   speechiness_avg: 0.048
   liveness_avg: 0.224
@@ -33,62 +33,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Zé Lacerda
-  - Rosil Cavalcanti
-  - Edgar Ferreira
-  - Gordurinha
-  - Almira Castilho
-  - Bezerra da Silva
-  - Zé Dantas; Alventino Cavalcanti, Aires Viana & João do Vale; Paquito & Romeu Gentil
+    - Zé Lacerda
+    - Rosil Cavalcanti
+    - Edgar Ferreira
+    - Gordurinha
+    - Almira Castilho
+    - Bezerra da Silva
+    - >-
+      Zé Dantas; Alventino Cavalcanti, Aires Viana & João do Vale; Paquito &
+      Romeu Gentil
   influenced:
-  - João Gilberto
-  - Gilberto Gil
-  - Tom Zé
-  - Alceu Valença and later Northeastern MPB/forró artists
+    - João Gilberto
+    - Gilberto Gil
+    - Tom Zé
+    - Alceu Valença and later Northeastern MPB/forró artists
   mentors:
-  - Flora Maria da Conceição (Flora Mourão)
-  - Maestro Nozinho
-  - Popular artists at Cassino Eldorado, Campina Grande
+    - Flora Maria da Conceição (Flora Mourão)
+    - Maestro Nozinho
+    - 'Popular artists at Cassino Eldorado, Campina Grande'
 spotify_data:
   followers: 122312
   id: 2b9ikX6H2LQRvSRks5E8vo
   popularity: 35
-  url: https://open.spotify.com/artist/2b9ikX6H2LQRvSRks5E8vo
+  url: 'https://open.spotify.com/artist/2b9ikX6H2LQRvSRks5E8vo'
 discography_enriched: true
 top_tracks:
-- Capoeira mata um (O Cabra da Peste)
-- Chiclete Com Banana (Aqui Tô Eu)
-- A ordem é samba (O Cabra da Peste)
-- O Canto Da Ema (Aqui Tô Eu)
-- Procurando Tú (Balança, Moçada)
-- Cantiga do Sapo (Jackson do Pandeiro)
-- Dr. Boticário (Nos Anos 60)
-- 17 Na Corrente (A Música de Jackson do Pandeiro)
-- Sebastiana (Jackson Do Pandeiro Com Conjunto E Côro)
-- O Canto da Êma (feat. Jackson Do Pandeiro) (João do Vale)
+  - Capoeira mata um (O Cabra da Peste)
+  - Chiclete Com Banana (Aqui Tô Eu)
+  - A ordem é samba (O Cabra da Peste)
+  - O Canto Da Ema (Aqui Tô Eu)
+  - 'Procurando Tú (Balança, Moçada)'
+  - Cantiga do Sapo (Jackson do Pandeiro)
+  - Dr. Boticário (Nos Anos 60)
+  - 17 Na Corrente (A Música de Jackson do Pandeiro)
+  - Sebastiana (Jackson Do Pandeiro Com Conjunto E Côro)
+  - O Canto da Êma (feat. Jackson Do Pandeiro) (João do Vale)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/64cb1159-2bda-458b-9127-a86fe5269339
-  spotify: https://open.spotify.com/artist/2b9ikX6H2LQRvSRks5E8vo
-  wikipedia: https://en.wikipedia.org/wiki/Jackson_do_Pandeiro
+  musicbrainz: 'https://musicbrainz.org/artist/64cb1159-2bda-458b-9127-a86fe5269339'
+  spotify: 'https://open.spotify.com/artist/2b9ikX6H2LQRvSRks5E8vo'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jackson_do_Pandeiro'
 image_path: 03_Resources/source_material/ArtistPortraits/jackson_do_pandeiro.jpg
 biography_enhanced_at: '2025-12-07T04:44:37.882847'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://pt.wikipedia.org/wiki/Jackson_do_Pandeiro
-- https://en.wikipedia.org/wiki/Jackson_do_Pandeiro
-- https://dicionariompb.com.br/artista/jackson-do-pandeiro/
-- https://bahia.ws/en/jackson-do-pandeiro-e-o-rei-do-ritmo/
-- https://sintectmg.org.br/789/100-anos-de-jackson-do-pandeiro
-- https://www.omenelick2ato.com/musicalidades/jackson-do-pandeiro
+  - 'https://pt.wikipedia.org/wiki/Jackson_do_Pandeiro'
+  - 'https://en.wikipedia.org/wiki/Jackson_do_Pandeiro'
+  - 'https://dicionariompb.com.br/artista/jackson-do-pandeiro/'
+  - 'https://bahia.ws/en/jackson-do-pandeiro-e-o-rei-do-ritmo/'
+  - 'https://sintectmg.org.br/789/100-anos-de-jackson-do-pandeiro'
+  - 'https://www.omenelick2ato.com/musicalidades/jackson-do-pandeiro'
 network_extracted: true
 entry_created: '2025-12-07T04:44:37.882861'
 last_updated: '2025-12-23T08:16:10.083950'
 gender: Male
 musicbrainz_id: 64cb1159-2bda-458b-9127-a86fe5269339
 tags:
-- coco
-
+  - coco
+is_active: false
 ---
 
 ![](jackson_do_pandeiro.jpg)

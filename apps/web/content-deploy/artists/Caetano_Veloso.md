@@ -2,20 +2,20 @@
 title: Caetano Veloso
 wiki_slug: caetano-veloso
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1942-08-07'
-birth_place: Santo Amaro da Purificação, Bahia, Brazil
+birth_place: 'Santo Amaro da Purificação, Bahia, Brazil'
 genres:
-- mpb
-- bossa nova
-- samba
+  - mpb
+  - bossa nova
+  - samba
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Caetano_Veloso.jpg
   caption: Caetano Veloso
   background: solo_singer
   born: '1942-08-07'
-  origin: Santo Amaro da Purificação, Bahia, Brazil
+  origin: 'Santo Amaro da Purificação, Bahia, Brazil'
 audio_profile:
   tempo_avg: 112.2
   energy_avg: 0.469
@@ -31,49 +31,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Gilberto Gil
-  - Maria Bethânia
-  - Gal Costa
-  - Tom Zé
-  - Os Mutantes
+    - Gilberto Gil
+    - Maria Bethânia
+    - Gal Costa
+    - Tom Zé
+    - Os Mutantes
   influenced:
-  - Marisa Monte
-  - Lenine
-  - Seu Jorge
+    - Marisa Monte
+    - Lenine
+    - Seu Jorge
   mentors:
-  - João Gilberto
-  - Dorival Caymmi
+    - João Gilberto
+    - Dorival Caymmi
 spotify_data:
   followers: 2591271
   id: 7HGNYPmbDrMkylWqeFCOIQ
   popularity: 66
-  url: https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ
+  url: 'https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ'
 discography_enriched: true
 top_tracks:
-- Sozinho - Ao Vivo (Prenda Minha)
-- Samba De Verão (A Bossa De Caetano)
-- Sonho Meu
-- Voce E Linda - Remixed Original Album (Uns)
-- Trilha do Amor - Ao Vivo (Batuques do Meu Lugar (Ao Vivo))
-- Não Enche
-- Fé - Ao Vivo
-- Baby (Gal Costa)
-- Você Não Me Ensinou a Te Esquecer
-- Aquarela do Brasil (Participação especial de Gilberto Gil e Caetano Veloso)
+  - Sozinho - Ao Vivo (Prenda Minha)
+  - Samba De Verão (A Bossa De Caetano)
+  - Sonho Meu
+  - Voce E Linda - Remixed Original Album (Uns)
+  - Trilha do Amor - Ao Vivo (Batuques do Meu Lugar (Ao Vivo))
+  - Não Enche
+  - Fé - Ao Vivo
+  - Baby (Gal Costa)
+  - Você Não Me Ensinou a Te Esquecer
+  - Aquarela do Brasil (Participação especial de Gilberto Gil e Caetano Veloso)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f07dbc2f-317b-470f-bad4-5f1b0eb6faf1
-  spotify: https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ
-  wikipedia: https://en.wikipedia.org/wiki/Caetano_Veloso
+  musicbrainz: 'https://musicbrainz.org/artist/f07dbc2f-317b-470f-bad4-5f1b0eb6faf1'
+  spotify: 'https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Caetano_Veloso'
 image_path: 03_Resources/source_material/ArtistPortraits/Caetano_Veloso.jpg
 biography_enhanced_at: '2025-10-19T12:30:14.823322'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Caetano_Veloso
-- https://www.britannica.com/biography/Caetano-Veloso
-- https://www.elbphilharmonie.de/en/mediatheque/caetano-veloso-brazils-voice-of-the-century/598
-- https://www.allaboutjazz.com/musicians/caetano-veloso
-- https://www.laphil.com/musicdb/artists/8259/caetano-veloso
+  - 'https://en.wikipedia.org/wiki/Caetano_Veloso'
+  - 'https://www.britannica.com/biography/Caetano-Veloso'
+  - >-
+    https://www.elbphilharmonie.de/en/mediatheque/caetano-veloso-brazils-voice-of-the-century/598
+  - 'https://www.allaboutjazz.com/musicians/caetano-veloso'
+  - 'https://www.laphil.com/musicdb/artists/8259/caetano-veloso'
 network_extracted: true
 entry_created: '2025-10-19T12:30:14.823333'
 last_updated: '2025-12-23T08:16:01.426857'
@@ -81,9 +82,9 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:21:15.188275'
 musicbrainz_id: f07dbc2f-317b-470f-bad4-5f1b0eb6faf1
 tags:
-- alternative rock
-- art pop
-- brazil
+  - alternative rock
+  - art pop
+  - brazil
 ---
 
 ![](Caetano_Veloso.jpg)

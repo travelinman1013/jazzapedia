@@ -2,18 +2,18 @@
 title: SWV
 wiki_slug: swv
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1990'
 genres:
-- new jack swing
-- r&b
+  - new jack swing
+  - r&b
 instruments:
-- original
-- soprano vocals
-- mezzo-soprano vocals
-- alto vocals
-- lead vocals
+  - original
+  - soprano vocals
+  - mezzo-soprano vocals
+  - alto vocals
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/swv.jpg
   caption: SWV
@@ -34,80 +34,80 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Cheryl 'Coko' Gamble
-  - Tamara 'Taj' Johnson-George
-  - Leanne 'Lelee' Lyons
-  - Sean 'Puffy' Combs
-  - Redman
-  - Missy Elliott
+    - Cheryl 'Coko' Gamble
+    - Tamara 'Taj' Johnson-George
+    - Leanne 'Lelee' Lyons
+    - Sean 'Puffy' Combs
+    - Redman
+    - Missy Elliott
   influenced:
-  - Xscape
-  - '702'
-  - Kut Klose
+    - Xscape
+    - '702'
+    - Kut Klose
   mentors:
-  - Teddy Riley
+    - Teddy Riley
 spotify_data:
   followers: 2209507
   id: 2NmK5FyrQ18HOPXq1UBzqa
   popularity: 60
-  url: https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa
+  url: 'https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa'
 discography_enriched: true
 top_tracks:
-- Weak (It's About Time)
-- Use Your Heart - Interlude (New Beginning)
-- Rain (Release Some Tension)
-- Right Here - Human Nature Radio Mix (It's About Time)
-- I'm So Into You (It's About Time)
-- Use Your Heart (New Beginning)
-- You're the One (New Beginning)
-- Right Here - Human Nature Radio Mix
-- Can We (feat. Missy "Misdemeanor" Elliott) (Release Some Tension)
-- Anything (It's About Time)
+  - Weak (It's About Time)
+  - Use Your Heart - Interlude (New Beginning)
+  - Rain (Release Some Tension)
+  - Right Here - Human Nature Radio Mix (It's About Time)
+  - I'm So Into You (It's About Time)
+  - Use Your Heart (New Beginning)
+  - You're the One (New Beginning)
+  - Right Here - Human Nature Radio Mix
+  - Can We (feat. Missy "Misdemeanor" Elliott) (Release Some Tension)
+  - Anything (It's About Time)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/fffc6a35-ae65-48be-bcc0-9d604e05665e
-  spotify: https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa
-  wikipedia: https://en.wikipedia.org/wiki/SWV
+  musicbrainz: 'https://musicbrainz.org/artist/fffc6a35-ae65-48be-bcc0-9d604e05665e'
+  spotify: 'https://open.spotify.com/artist/2NmK5FyrQ18HOPXq1UBzqa'
+  wikipedia: 'https://en.wikipedia.org/wiki/SWV'
 image_path: 03_Resources/source_material/ArtistPortraits/swv.jpg
 biography_enhanced_at: '2025-11-05T12:43:11.345471'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/SWV
-- https://www.swvmusic.com/bio/
-- https://kids.kiddle.co/SWV
-- https://www.last.fm/music/SWV/+wiki
+  - 'https://en.wikipedia.org/wiki/SWV'
+  - 'https://www.swvmusic.com/bio/'
+  - 'https://kids.kiddle.co/SWV'
+  - 'https://www.last.fm/music/SWV/+wiki'
 network_extracted: true
 entry_created: '2025-11-05T12:43:11.345490'
 last_updated: '2025-12-23T08:16:16.308776'
 disambiguation: Sisters with Voices
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  - soprano vocals
-  mbid: 0e340cd1-7d5d-494f-847a-9397367d2ba2
-  name: Coko
-- begin: ''
-  end: ''
-  instruments:
-  - mezzo-soprano vocals
-  - original
-  mbid: 7de01893-1b06-4b95-b6fb-76c58cb78814
-  name: Tamara “Taj” Johnson‐George
-- begin: ''
-  end: ''
-  instruments:
-  - alto vocals
-  - original
-  mbid: 31198ba0-127a-4232-9e9b-466a7a545805
-  name: Leanne Lyons
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - soprano vocals
+    mbid: 0e340cd1-7d5d-494f-847a-9397367d2ba2
+    name: Coko
+  - begin: ''
+    end: ''
+    instruments:
+      - mezzo-soprano vocals
+      - original
+    mbid: 7de01893-1b06-4b95-b6fb-76c58cb78814
+    name: Tamara “Taj” Johnson‐George
+  - begin: ''
+    end: ''
+    instruments:
+      - alto vocals
+      - original
+    mbid: 31198ba0-127a-4232-9e9b-466a7a545805
+    name: Leanne Lyons
 musicbrainz_id: fffc6a35-ae65-48be-bcc0-9d604e05665e
-origin: New York
+origin: 'New York City, New York, United States'
 tags:
-- contemporary r&b
-- hip hop soul
-- new jack swing
+  - contemporary r&b
+  - hip hop soul
+  - new jack swing
 ---
 
 ![](swv.jpg)

@@ -1,30 +1,30 @@
 ---
-title: MAYNARD FERGUSON
+title: Maynard Ferguson
 wiki_slug: maynard-ferguson
 schema_version: 2
-artist_type: Person
+artist_type: band
 status: active
 birth_date: '1928-05-04'
-birth_place: Verdun, Quebec, Canada
+birth_place: 'Verdun, Quebec, Canada'
 death_date: '2006-08-24'
 genres:
-- big band
-- jazz
+  - big band
+  - jazz
 instruments:
-- valve trombone
-- French horn
-- trumpet
-- original
-- eponymous
+  - valve trombone
+  - French horn
+  - trumpet
+  - original
+  - eponymous
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/MAYNARD_FERGUSON.jpg
   caption: MAYNARD FERGUSON
   background: non_vocal_instrumentalist
   born: '1928-05-04'
-  origin: Verdun, Quebec, Canada
+  origin: 'Verdun, Quebec, Canada'
   died: '2006-08-24'
 audio_profile:
-  tempo_avg: 124.0
+  tempo_avg: 124
   energy_avg: 0.615
   valence_avg: 0.62
   danceability_avg: 0.499
@@ -38,47 +38,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Stan Kenton
-  - Quincy Jones
-  - Johnny Mandel
-  - Willie Maiden
+    - Stan Kenton
+    - Quincy Jones
+    - Johnny Mandel
+    - Willie Maiden
   influenced:
-  - Chuck Mangione
-  - Wayne Shorter
-  - Chick Corea
-  - Peter Erskine
+    - Chuck Mangione
+    - Wayne Shorter
+    - Chick Corea
+    - Peter Erskine
   mentors:
-  - Bernard Baker
+    - Bernard Baker
 spotify_data:
   followers: 63826
   id: 6T4kUHIlszpj944ZXR3yNw
   popularity: 35
-  url: https://open.spotify.com/artist/6T4kUHIlszpj944ZXR3yNw
+  url: 'https://open.spotify.com/artist/6T4kUHIlszpj944ZXR3yNw'
 discography_enriched: true
 top_tracks:
-- Birdland (Carnival)
-- Give It One
-- Chameleon (Chameleon)
-- Coconut Champagne (Live From San Francisco)
-- It Might As Well Be Spring
-- Gonna Fly Now (Conquistador)
-- Cruisin? For A Bluessin? (Big Bop Nouveau)
-- Fireshaker (Live From San Francisco)
-- Spinning Wheel (M.F. Horn Two)
-- Macarthur Park (M.F. Horn, Volume 1)
+  - Birdland (Carnival)
+  - Give It One
+  - Chameleon (Chameleon)
+  - Coconut Champagne (Live From San Francisco)
+  - It Might As Well Be Spring
+  - Gonna Fly Now (Conquistador)
+  - Cruisin? For A Bluessin? (Big Bop Nouveau)
+  - Fireshaker (Live From San Francisco)
+  - Spinning Wheel (M.F. Horn Two)
+  - 'Macarthur Park (M.F. Horn, Volume 1)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/625f1d57-8bac-4a3a-97af-f407f2967755
-  spotify: https://open.spotify.com/artist/6T4kUHIlszpj944ZXR3yNw
-  wikipedia: https://en.wikipedia.org/wiki/Maynard_Ferguson
+  musicbrainz: 'https://musicbrainz.org/artist/625f1d57-8bac-4a3a-97af-f407f2967755'
+  spotify: 'https://open.spotify.com/artist/6T4kUHIlszpj944ZXR3yNw'
+  wikipedia: 'https://en.wikipedia.org/wiki/Maynard_Ferguson'
 image_path: 03_Resources/source_material/ArtistPortraits/MAYNARD_FERGUSON.jpg
 biography_enhanced_at: '2025-10-20T01:54:49.754516'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Maynard_Ferguson
-- https://www.rowan.edu/arts/ferguson/biography.html
-- https://maynardferguson.com/biography/
-- https://shermanjazzmuseum.com/exhibit-page/maynard-ferguson-2/
+  - 'https://en.wikipedia.org/wiki/Maynard_Ferguson'
+  - 'https://www.rowan.edu/arts/ferguson/biography.html'
+  - 'https://maynardferguson.com/biography/'
+  - 'https://shermanjazzmuseum.com/exhibit-page/maynard-ferguson-2/'
 network_extracted: true
 entry_created: '2025-10-20T01:54:49.754525'
 last_updated: '2025-12-23T08:16:03.116236'
@@ -86,9 +86,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:36:16.073660'
 musicbrainz_id: 625f1d57-8bac-4a3a-97af-f407f2967755
 tags:
-- bebop
-- hard bop
-- jazz
+  - bebop
+  - hard bop
+  - jazz
+is_active: false
 ---
 
 ![](MAYNARD_FERGUSON.jpg)

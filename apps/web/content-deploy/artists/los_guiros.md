@@ -4,7 +4,7 @@ wiki_slug: los-guiros
 schema_version: 2
 status: active
 genres:
-- electrocumbia
+  - electrocumbia
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/los_guiros.jpg
   caption: Los Guiros
@@ -16,7 +16,7 @@ audio_profile:
   danceability_avg: 0.641
   acousticness_avg: 0.103
   instrumentalness_avg: 0.001
-  loudness_avg: -10.0
+  loudness_avg: -10
   speechiness_avg: 0.082
   liveness_avg: 0.186
   track_count: 7
@@ -24,47 +24,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Corina Hernandez
-  - Shaye Cohn
-  - Greg Northwood
-  - Todd Burdick
-  - Miguel Cruz
-  - Gabriel Cruz
-  - Howe Pearson
+    - Corina Hernandez
+    - Shaye Cohn
+    - Greg Northwood
+    - Todd Burdick
+    - Miguel Cruz
+    - Gabriel Cruz
+    - Howe Pearson
   influenced: []
   mentors:
-  - Totó la Momposina
-  - Los Mirlos, Los Destellos, Los Hijos del Sol
-  - Celso Piña
+    - Totó la Momposina
+    - 'Los Mirlos, Los Destellos, Los Hijos del Sol'
+    - Celso Piña
 spotify_data:
   followers: 485
   id: 6WyXqr5WaaigmfrUrHwJQy
   popularity: 7
-  url: https://open.spotify.com/artist/6WyXqr5WaaigmfrUrHwJQy
+  url: 'https://open.spotify.com/artist/6WyXqr5WaaigmfrUrHwJQy'
 discography_enriched: true
 top_tracks:
-- Cumbia Mezcal (Cumbia Mezcal)
-- Serpiente (Alma de Cumbia)
-- Cumbia Mezcal (Alma de Cumbia)
-- No hay Güiro (Alma de Cumbia)
-- Corazón Pesado (Alma de Cumbia)
-- Dunas (Alma de Cumbia)
-- Juntos Creamos Magia (Alma de Cumbia)
+  - Cumbia Mezcal (Cumbia Mezcal)
+  - Serpiente (Alma de Cumbia)
+  - Cumbia Mezcal (Alma de Cumbia)
+  - No hay Güiro (Alma de Cumbia)
+  - Corazón Pesado (Alma de Cumbia)
+  - Dunas (Alma de Cumbia)
+  - Juntos Creamos Magia (Alma de Cumbia)
 external_urls:
-  spotify: https://open.spotify.com/artist/6WyXqr5WaaigmfrUrHwJQy
+  spotify: 'https://open.spotify.com/artist/6WyXqr5WaaigmfrUrHwJQy'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/los_guiros.jpg
 biography_enhanced_at: '2025-11-01T15:18:25.753965'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://losguiros.com/bio
-- https://antigravitymagazine.com/feature/los-guiros/
-- https://www.youtube.com/watch?v=p2HCjOCVpuc
+  - 'https://losguiros.com/bio'
+  - 'https://antigravitymagazine.com/feature/los-guiros/'
+  - 'https://www.youtube.com/watch?v=p2HCjOCVpuc'
 network_extracted: true
 entry_created: '2025-11-01T15:18:25.753981'
 last_updated: '2025-12-23T08:16:12.144039'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![](los_guiros.jpg)

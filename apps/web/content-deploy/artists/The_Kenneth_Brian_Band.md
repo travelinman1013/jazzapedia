@@ -5,32 +5,32 @@ schema_version: 2
 status: active
 birth_name: Kenneth Brian Edmonds
 also_known_as:
-- Babyface
+  - Babyface
 aliases:
-- Babyface
+  - Babyface
 birth_date: '1959-04-10'
-birth_place: Indianapolis
+birth_place: 'Indianapolis, Indiana, United States'
 years_active: 1974–present
 genres:
-- southern rock
-- alt country
-- americana
-- roots rock
+  - southern rock
+  - alt country
+  - americana
+  - roots rock
 instruments:
-- guitar
-- voice
+  - guitar
+  - voice
 occupation:
-- record producer
-- singer-songwriter
-- actor
-- singer
-- film producer
+  - record producer
+  - singer-songwriter
+  - actor
+  - singer
+  - film producer
 record_labels:
-- Epic Records
-- Island Records
-- Chi Sound Records
+  - Epic Records
+  - Island Records
+  - Chi Sound Records
 spouse:
-- Tracey Edmonds
+  - Tracey Edmonds
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/The_Kenneth_Brian_Band.jpg
   caption: The Kenneth Brian Band
@@ -53,40 +53,40 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Steve Ferrone
-  - Mike Campbell
-  - David Bianco
-  - Chris Cano
-  - Brandon Owens
+    - Steve Ferrone
+    - Mike Campbell
+    - David Bianco
+    - Chris Cano
+    - Brandon Owens
   influenced: []
   mentors:
-  - Billy Gibbons
-  - Lucinda Williams
-  - Johnny Sandlin
+    - Billy Gibbons
+    - Lucinda Williams
+    - Johnny Sandlin
 related_artists: []
 spotify_data:
   followers: 1098
   id: 2VHxthT8KHf5rw1Ywq7cXF
   popularity: 6
-  url: https://open.spotify.com/artist/2VHxthT8KHf5rw1Ywq7cXF
+  url: 'https://open.spotify.com/artist/2VHxthT8KHf5rw1Ywq7cXF'
   verified: false
 discography_enriched: true
 albums_count: 3
 singles_count: 1
 top_tracks:
-- Prayer For Love (Welcome To Alabama)
-- Welcome To Alabama (Welcome To Alabama)
-- Falling Again (Keys to the Kingdom)
-- Crazy (Keys to the Kingdom)
-- She Is the Night (Keys to the Kingdom)
-- Love (Keys to the Kingdom)
-- Something Better (Welcome To Alabama)
-- Tonight We Ride (Welcome To Alabama)
-- Keys to the Kingdom (Keys to the Kingdom)
-- You're Not Mine (With Lions)
+  - Prayer For Love (Welcome To Alabama)
+  - Welcome To Alabama (Welcome To Alabama)
+  - Falling Again (Keys to the Kingdom)
+  - Crazy (Keys to the Kingdom)
+  - She Is the Night (Keys to the Kingdom)
+  - Love (Keys to the Kingdom)
+  - Something Better (Welcome To Alabama)
+  - Tonight We Ride (Welcome To Alabama)
+  - Keys to the Kingdom (Keys to the Kingdom)
+  - You're Not Mine (With Lions)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/2VHxthT8KHf5rw1Ywq7cXF
+  spotify: 'https://open.spotify.com/artist/2VHxthT8KHf5rw1Ywq7cXF'
   wikipedia: Not available
 image_path: 03_Resources/source_material/ArtistPortraits/The_Kenneth_Brian_Band.jpg
 biography_source: wikipedia
@@ -94,14 +94,15 @@ biography_enhanced_at: '2025-09-30T12:16:30.554287'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- '[1]'
-- '[2]'
-- '[3]'
+  - '[1]'
+  - '[2]'
+  - '[3]'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 13:01:10.210690
+entry_created: 2025-09-18T13:01:10.210Z
 last_updated: '2025-12-23T08:16:04.099345'
-origin: Gainesville, Florida, USA (raised)
+origin: 'Gainesville, Florida, United States'
+artist_type: band
 ---
 
 ![](The_Kenneth_Brian_Band.jpg)

@@ -2,55 +2,58 @@
 artist_type: person
 biography_enhanced_at: '2026-01-14T01:10:12.170584'
 birth_date: '1946-03-31'
-birth_place: Oakland
+birth_place: 'Oakland, California, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-14T01:10:12.170602'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b7c6d74e-603a-4f60-a3fc-8648304e7873
-  spotify: https://open.spotify.com/artist/7GtbrsY4LuBDQQO518vwtR
-  wikipedia: https://en.wikipedia.org/wiki/Harmonica_Shah
+  musicbrainz: 'https://musicbrainz.org/artist/b7c6d74e-603a-4f60-a3fc-8648304e7873'
+  spotify: 'https://open.spotify.com/artist/7GtbrsY4LuBDQQO518vwtR'
+  wikipedia: 'https://en.wikipedia.org/wiki/Harmonica_Shah'
 gender: Male
 genres:
-- blues
-- modern blues
-- classic blues
+  - blues
+  - modern blues
+  - classic blues
 image_path: 03_Resources/source_material/ArtistPortraits/harmonica_shah.jpg
 last_updated: '2026-01-14T01:10:12.170605'
 musical_connections:
   collaborators:
-  - Howard Glazer
-  - Mel Brown
-  - Willie 'Big Eyes' Smith
-  - Julian Fauth
-  - Bobo Jenkins
-  - Eddie Kirkland
-  - The Butler Twins
-  - Willie D. Warren
+    - Howard Glazer
+    - Mel Brown
+    - Willie 'Big Eyes' Smith
+    - Julian Fauth
+    - Bobo Jenkins
+    - Eddie Kirkland
+    - The Butler Twins
+    - Willie D. Warren
   influenced: []
   mentors:
-  - Sam Dawson
-  - Junior Wells
-  - Jimmy Reed
-  - Little Walter
-  - Lazy Lester
-  - Little Sonny
+    - Sam Dawson
+    - Junior Wells
+    - Jimmy Reed
+    - Little Walter
+    - Lazy Lester
+    - Little Sonny
 musicbrainz_id: b7c6d74e-603a-4f60-a3fc-8648304e7873
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Harmonica_Shah
-- https://www.bluesarchive.com/itunes/harmonica-shah-deep-detroit
-- http://www.modernbluesharmonica.com/board/board_topic/5560960/3015814.htm
-- https://www.viberate.com/artist/harmonica-shah/
-- https://www.lansingcitypulse.com/article-17019-Turn-it-Down-Harmonica-Shah-brings-real-blues-to-Allen-Market-Place.html
-- https://www.bluesblastmagazine.com/harmonica-shah-if-you-live-to-get-old-you-will-understand-album-review/
+  - 'https://en.wikipedia.org/wiki/Harmonica_Shah'
+  - 'https://www.bluesarchive.com/itunes/harmonica-shah-deep-detroit'
+  - 'http://www.modernbluesharmonica.com/board/board_topic/5560960/3015814.htm'
+  - 'https://www.viberate.com/artist/harmonica-shah/'
+  - >-
+    https://www.lansingcitypulse.com/article-17019-Turn-it-Down-Harmonica-Shah-brings-real-blues-to-Allen-Market-Place.html
+  - >-
+    https://www.bluesblastmagazine.com/harmonica-shah-if-you-live-to-get-old-you-will-understand-album-review/
 spotify_data:
   followers: 4669
   id: 7GtbrsY4LuBDQQO518vwtR
   popularity: 10
-  url: https://open.spotify.com/artist/7GtbrsY4LuBDQQO518vwtR
+  url: 'https://open.spotify.com/artist/7GtbrsY4LuBDQQO518vwtR'
 status: active
-title: harmonica shah
+title: Harmonica Shah
+origin: 'Detroit, Michigan, United States'
 ---
 
 ![](harmonica_shah.jpg)

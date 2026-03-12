@@ -1,38 +1,40 @@
 ---
 biography_enhanced_at: '2025-12-30T01:24:59.711014'
-birth_place: Campti, Louisiana, United States
+birth_place: 'Campti, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2025-12-30T01:24:59.711020'
 external_urls:
-  spotify: https://open.spotify.com/artist/6DQ6mdEhxCgHPqfX1niZZK
+  spotify: 'https://open.spotify.com/artist/6DQ6mdEhxCgHPqfX1niZZK'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/floyd_cramer.jpg
 last_updated: '2025-12-30T01:24:59.711021'
 musical_connections:
   collaborators:
-  - Chet Atkins
-  - Boots Randolph
-  - Elvis Presley
-  - Patsy Cline
-  - Brenda Lee
+    - Chet Atkins
+    - Boots Randolph
+    - Elvis Presley
+    - Patsy Cline
+    - Brenda Lee
   influenced: []
   mentors:
-  - Chet Atkins
+    - Chet Atkins
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://encyclopediaofarkansas.net/entries/floyd-cramer-2757/
-- https://www.last.fm/music/Floyd+Cramer/+wiki
-- https://louisianamusichalloffame.org/floyd-cramer/
-- https://www.countrymusichalloffame.org/artist/floyd-cramer
+  - 'https://encyclopediaofarkansas.net/entries/floyd-cramer-2757/'
+  - 'https://www.last.fm/music/Floyd+Cramer/+wiki'
+  - 'https://louisianamusichalloffame.org/floyd-cramer/'
+  - 'https://www.countrymusichalloffame.org/artist/floyd-cramer'
 spotify_data:
   followers: 22609
   id: 6DQ6mdEhxCgHPqfX1niZZK
   popularity: 41
-  url: https://open.spotify.com/artist/6DQ6mdEhxCgHPqfX1niZZK
+  url: 'https://open.spotify.com/artist/6DQ6mdEhxCgHPqfX1niZZK'
 status: active
-title: FLOYD CRAMER
+title: Floyd Cramer
+birth_date: '1933-10-27'
+artist_type: person
 ---
 
 ![](floyd_cramer.jpg)

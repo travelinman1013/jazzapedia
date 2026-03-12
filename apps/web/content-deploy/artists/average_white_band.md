@@ -1,151 +1,151 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-01-09T01:57:12.308980'
-birth_date: '1971'
+birth_date: '1972'
 enhancement_provider: perplexity
 entry_created: '2026-01-09T01:57:12.308990'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/fb776bca-6139-4ff5-8d5e-5decd029cb96
-  spotify: https://open.spotify.com/artist/3tx8fyu3c4OBP5nejYtUOb
-  wikipedia: https://en.wikipedia.org/wiki/Average_White_Band
+  musicbrainz: 'https://musicbrainz.org/artist/fb776bca-6139-4ff5-8d5e-5decd029cb96'
+  spotify: 'https://open.spotify.com/artist/3tx8fyu3c4OBP5nejYtUOb'
+  wikipedia: 'https://en.wikipedia.org/wiki/Average_White_Band'
 genres:
-- funk
+  - funk
 image_path: 03_Resources/source_material/ArtistPortraits/average_white_band.jpg
 instruments:
-- electric guitar
-- lead vocals
-- drums (drum set)
-- keyboard
-- saxophone
-- bass guitar
-- original
-- tenor saxophone
-- electric bass guitar
-- guitar
-last_updated: '2026-01-09T01:57:12.308992'
-members:
-- begin: '1972'
-  end: '1982'
-  instruments:
   - electric guitar
   - lead vocals
-  mbid: 3b106f97-02df-460c-9d5d-a7b41e933f70
-  name: Hamish Stuart
-- begin: '1974'
-  end: '1982'
-  instruments:
   - drums (drum set)
-  mbid: a550d8b5-fca6-480a-acba-2ea18aec7981
-  name: Steve Ferrone
-- begin: '1989'
-  end: '1996'
-  instruments:
-  - lead vocals
-  mbid: cde05af9-065c-455f-beb3-a7bde78c646b
-  name: Alex Ligertwood
-- &id001
-  begin: '1989'
-  end: ''
-  instruments:
   - keyboard
   - saxophone
-  mbid: e2c820a8-d68a-4796-a7ef-f1317543bb87
-  name: Fred Vigdor
-- begin: '1998'
-  end: '2001'
-  instruments:
-  - drums (drum set)
-  mbid: ce0d8f43-f928-4bff-9a64-d0f1cc88ae2c
-  name: Adam Deitch
-- begin: '2002'
-  end: '2011'
-  instruments:
   - bass guitar
-  - electric guitar
-  - keyboard
-  mbid: 7526f32e-0711-4a4c-a5f1-96ca45a5d811
-  name: Klyde Jones
-- begin: ''
-  end: '1974-09-23'
-  instruments:
-  - drums (drum set)
-  - original
-  mbid: 4388f36d-76b9-407c-9f9f-a60a1ddf8851
-  name: Robbie McIntosh
-- begin: ''
-  end: '1982'
-  instruments:
-  - keyboard
-  - original
-  - saxophone
-  mbid: 27f7a97b-3c08-4121-83fd-ca876db0dbd3
-  name: Roger Ball
-- begin: ''
-  end: '1982'
-  instruments:
   - original
   - tenor saxophone
-  mbid: 7abffe0d-c0d6-4316-a78b-7d2403e8f722
-  name: Molly Duncan
-- begin: ''
-  end: ''
-  instruments:
   - electric bass guitar
-  - original
-  mbid: ba42218e-c081-4b97-9f53-63f25efea3f0
-  name: Alan Gorrie
-- begin: ''
-  end: ''
-  instruments:
   - guitar
-  - original
-  mbid: 4b19a25c-c717-40a1-8dd0-c3595b978dc8
-  name: Owen McIntyre
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b6224d62-8276-46f9-ab8f-34bbe9b1baad
-  name: John Wilson
+last_updated: '2026-01-09T01:57:12.308992'
+members:
+  - begin: '1972'
+    end: '1982'
+    instruments:
+      - electric guitar
+      - lead vocals
+    mbid: 3b106f97-02df-460c-9d5d-a7b41e933f70
+    name: Hamish Stuart
+  - begin: '1974'
+    end: '1982'
+    instruments:
+      - drums (drum set)
+    mbid: a550d8b5-fca6-480a-acba-2ea18aec7981
+    name: Steve Ferrone
+  - begin: '1989'
+    end: '1996'
+    instruments:
+      - lead vocals
+    mbid: cde05af9-065c-455f-beb3-a7bde78c646b
+    name: Alex Ligertwood
+  - &ref_0
+    begin: '1989'
+    end: ''
+    instruments:
+      - keyboard
+      - saxophone
+    mbid: e2c820a8-d68a-4796-a7ef-f1317543bb87
+    name: Fred Vigdor
+  - begin: '1998'
+    end: '2001'
+    instruments:
+      - drums (drum set)
+    mbid: ce0d8f43-f928-4bff-9a64-d0f1cc88ae2c
+    name: Adam Deitch
+  - begin: '2002'
+    end: '2011'
+    instruments:
+      - bass guitar
+      - electric guitar
+      - keyboard
+    mbid: 7526f32e-0711-4a4c-a5f1-96ca45a5d811
+    name: Klyde Jones
+  - begin: ''
+    end: '1974-09-23'
+    instruments:
+      - drums (drum set)
+      - original
+    mbid: 4388f36d-76b9-407c-9f9f-a60a1ddf8851
+    name: Robbie McIntosh
+  - begin: ''
+    end: '1982'
+    instruments:
+      - keyboard
+      - original
+      - saxophone
+    mbid: 27f7a97b-3c08-4121-83fd-ca876db0dbd3
+    name: Roger Ball
+  - begin: ''
+    end: '1982'
+    instruments:
+      - original
+      - tenor saxophone
+    mbid: 7abffe0d-c0d6-4316-a78b-7d2403e8f722
+    name: Molly Duncan
+  - begin: ''
+    end: ''
+    instruments:
+      - electric bass guitar
+      - original
+    mbid: ba42218e-c081-4b97-9f53-63f25efea3f0
+    name: Alan Gorrie
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+      - original
+    mbid: 4b19a25c-c717-40a1-8dd0-c3595b978dc8
+    name: Owen McIntyre
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b6224d62-8276-46f9-ab8f-34bbe9b1baad
+    name: John Wilson
 musical_connections:
   collaborators:
-  - Ben E. King
-  - Eric Clapton / Bruce McCaskill
-  - David Foster
-  - Alex Ligertwood
-  - Eliot Lewis
+    - Ben E. King
+    - Eric Clapton / Bruce McCaskill
+    - David Foster
+    - Alex Ligertwood
+    - Eliot Lewis
   influenced:
-  - Hip‑hop and R&B producers and artists (various)
-  - Acid jazz and neo‑soul bands
-  - Pop artists covering AWB songs (e.g., Louise)
+    - Hip‑hop and R&B producers and artists (various)
+    - Acid jazz and neo‑soul bands
+    - 'Pop artists covering AWB songs (e.g., Louise)'
   mentors:
-  - American soul and R&B artists (e.g., Ben E. King, Garnet Mimms)
-  - Brian Auger & the Oblivion Express
-  - Arif Mardin
+    - 'American soul and R&B artists (e.g., Ben E. King, Garnet Mimms)'
+    - Brian Auger & the Oblivion Express
+    - Arif Mardin
 musicbrainz_id: fb776bca-6139-4ff5-8d5e-5decd029cb96
 network_extracted: true
-origin: Dundee
+origin: 'Dundee, Scotland, United Kingdom'
 original_members:
-- *id001
+  - *ref_0
 primary_source: perplexity
 research_sources:
-- https://www.averagewhiteband.com/bio
-- https://en.wikipedia.org/wiki/Average_White_Band
-- https://americansongwriter.com/behind-the-band-name-average-white-band/
-- https://www.last.fm/music/Average+White+Band/+wiki
-- https://magazine.waxpoetics.com/article/average-white-band-blue-collar-soul/
-- https://www.jazzalley.com/www-home/artist.jsp?shownum=1596
-- https://es.wikipedia.org/wiki/Average_White_Band
+  - 'https://www.averagewhiteband.com/bio'
+  - 'https://en.wikipedia.org/wiki/Average_White_Band'
+  - 'https://americansongwriter.com/behind-the-band-name-average-white-band/'
+  - 'https://www.last.fm/music/Average+White+Band/+wiki'
+  - 'https://magazine.waxpoetics.com/article/average-white-band-blue-collar-soul/'
+  - 'https://www.jazzalley.com/www-home/artist.jsp?shownum=1596'
+  - 'https://es.wikipedia.org/wiki/Average_White_Band'
 spotify_data:
   followers: 459325
   id: 3tx8fyu3c4OBP5nejYtUOb
   popularity: 50
-  url: https://open.spotify.com/artist/3tx8fyu3c4OBP5nejYtUOb
+  url: 'https://open.spotify.com/artist/3tx8fyu3c4OBP5nejYtUOb'
 status: active
 tags:
-- 2008 universal fire victim
-- british
-- classic pop and rock
-title: AVERAGE WHITE BAND
+  - 2008 universal fire victim
+  - british
+  - classic pop and rock
+title: Average White Band
 ---
 
 ![](average_white_band.jpg)

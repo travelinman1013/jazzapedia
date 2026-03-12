@@ -1,13 +1,13 @@
 ---
-title: the sha la das
+title: The Sha La Das
 wiki_slug: the-sha-la-das
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- retro soul
+  - retro soul
 instruments:
-- background vocals
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_sha_la_das.jpg
   caption: the sha la das
@@ -27,61 +27,66 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Thomas Brenneck
-  - Charles Bradley & His Extraordinaires
-  - Daptone/Dunham studio band (Homer Steinweiss, Dave Guy, Leon Michels, Nick Movshon, Victor Axelrod)
-  - Paul & The Tall Trees
+    - Thomas Brenneck
+    - Charles Bradley & His Extraordinaires
+    - >-
+      Daptone/Dunham studio band (Homer Steinweiss, Dave Guy, Leon Michels, Nick
+      Movshon, Victor Axelrod)
+    - Paul & The Tall Trees
   influenced:
-  - Contemporary retro‑soul and doo‑wop revival artists on labels and scenes adjacent to Daptone (e.g., groups pairing vintage
-    harmony with modern soul arrangements)
+    - >-
+      Contemporary retro‑soul and doo‑wop revival artists on labels and scenes
+      adjacent to Daptone (e.g., groups pairing vintage harmony with modern soul
+      arrangements)
   mentors:
-  - Bill Schalda
-  - The Moonglows and The Flamingos
+    - Bill Schalda
+    - The Moonglows and The Flamingos
 spotify_data:
   followers: 23167
   id: 374oLUCju3HTjpggU9W31Y
   popularity: 49
-  url: https://open.spotify.com/artist/374oLUCju3HTjpggU9W31Y
+  url: 'https://open.spotify.com/artist/374oLUCju3HTjpggU9W31Y'
 discography_enriched: true
 top_tracks:
-- Those Years Are Over (Love in the Wind)
-- Things We Do for Love (Changes)
-- Okay My Love (Love in the Wind)
-- You Think I Don't Know (But I Know) (Changes)
-- Open My Eyes (Love in the Wind)
-- Just for a Minute (Love in the Wind)
-- Silver Linings (Silver Linings)
-- Crazy for Your Love (Changes)
-- Summer Breeze (Love in the Wind)
-- You Never Know Whether (Love in the Wind)
+  - Those Years Are Over (Love in the Wind)
+  - Things We Do for Love (Changes)
+  - Okay My Love (Love in the Wind)
+  - You Think I Don't Know (But I Know) (Changes)
+  - Open My Eyes (Love in the Wind)
+  - Just for a Minute (Love in the Wind)
+  - Silver Linings (Silver Linings)
+  - Crazy for Your Love (Changes)
+  - Summer Breeze (Love in the Wind)
+  - You Never Know Whether (Love in the Wind)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/cbb86751-55f1-49dc-a955-89ce43b6dfcd
-  spotify: https://open.spotify.com/artist/374oLUCju3HTjpggU9W31Y
+  musicbrainz: 'https://musicbrainz.org/artist/cbb86751-55f1-49dc-a955-89ce43b6dfcd'
+  spotify: 'https://open.spotify.com/artist/374oLUCju3HTjpggU9W31Y'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/the_sha_la_das.jpg
 biography_enhanced_at: '2025-12-12T12:12:01.110515'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/The+Sha+La+Das/+wiki
-- https://daptonerecords.com/artists/shaladas/
-- https://theshaladas.bandcamp.com/music
-- https://www.allmusic.com/artist/the-sha-la-das-mn0003346889
-- https://www.musicgateway.com/creative-professionals/songwriter/the-sha-la-das
-- https://www.roughtrade.com/en-us/artist/the-sha-la-das
-- http://www.soultrainonline.de/the-sha-la-das-love-in-the-wind/
-- https://kexp.fmspins.com/the-sha-la-das/history
+  - 'https://www.last.fm/music/The+Sha+La+Das/+wiki'
+  - 'https://daptonerecords.com/artists/shaladas/'
+  - 'https://theshaladas.bandcamp.com/music'
+  - 'https://www.allmusic.com/artist/the-sha-la-das-mn0003346889'
+  - >-
+    https://www.musicgateway.com/creative-professionals/songwriter/the-sha-la-das
+  - 'https://www.roughtrade.com/en-us/artist/the-sha-la-das'
+  - 'http://www.soultrainonline.de/the-sha-la-das-love-in-the-wind/'
+  - 'https://kexp.fmspins.com/the-sha-la-das/history'
 network_extracted: true
 entry_created: '2025-12-12T12:12:01.110521'
 last_updated: '2025-12-23T08:16:17.136648'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e31a6032-49a5-4178-b0a4-e27863478cd8
-  name: Billy Swivs
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e31a6032-49a5-4178-b0a4-e27863478cd8
+    name: Billy Swivs
 musicbrainz_id: cbb86751-55f1-49dc-a955-89ce43b6dfcd
-origin: New York
+origin: 'Brooklyn, New York, United States'
 ---
 
 ![](the_sha_la_das.jpg)

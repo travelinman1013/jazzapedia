@@ -4,43 +4,44 @@ biography_enhanced_at: '2026-01-14T01:09:19.792445'
 enhancement_provider: perplexity
 entry_created: '2026-01-14T01:09:19.792459'
 external_urls:
-  spotify: https://open.spotify.com/artist/79pQVInsNRplh3HICEMExB
-  wikipedia: https://en.wikipedia.org/wiki/Batiste_family
+  spotify: 'https://open.spotify.com/artist/79pQVInsNRplh3HICEMExB'
+  wikipedia: 'https://en.wikipedia.org/wiki/Batiste_family'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/batiste_brothers_band.jpg
 is_active: true
 last_updated: '2026-01-14T01:09:19.792461'
 musical_connections:
   collaborators:
-  - David Batiste
-  - Paul Batiste
-  - Michael Batiste
-  - Russell Batiste Jr.
-  - Damon Batiste
-  - Jon Batiste
-  - Chief Shaka Zulu
+    - David Batiste
+    - Paul Batiste
+    - Michael Batiste
+    - Russell Batiste Jr.
+    - Damon Batiste
+    - Jon Batiste
+    - Chief Shaka Zulu
   influenced:
-  - Jon Batiste
+    - Jon Batiste
   mentors:
-  - Estella Batiste
-  - Alvin Batiste
+    - Estella Batiste
+    - Alvin Batiste
 network_extracted: true
-origin: New Orleans, Louisiana, USA
+origin: 'New Orleans, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://www.wwoz.org/acts/batiste-brothers
-- https://chambermusicamerica.org/articles/tuning-in/
-- https://en.wikipedia.org/wiki/Batiste_family
-- https://myemail.constantcontact.com/Musical-Family-of-Damon-Batiste---History-of-Anthropology-of-New-Orleans.html?soid=1011087220895&aid=gUuGwcZI6Bo
-- https://veritenews.org/2025/12/17/bitd-david-russell-batiste/
-- https://www.neworleans.com/listing/russell-batiste/46533/
+  - 'https://www.wwoz.org/acts/batiste-brothers'
+  - 'https://chambermusicamerica.org/articles/tuning-in/'
+  - 'https://en.wikipedia.org/wiki/Batiste_family'
+  - >-
+    https://myemail.constantcontact.com/Musical-Family-of-Damon-Batiste---History-of-Anthropology-of-New-Orleans.html?soid=1011087220895&aid=gUuGwcZI6Bo
+  - 'https://veritenews.org/2025/12/17/bitd-david-russell-batiste/'
+  - 'https://www.neworleans.com/listing/russell-batiste/46533/'
 spotify_data:
   followers: 51
   id: 79pQVInsNRplh3HICEMExB
   popularity: 0
-  url: https://open.spotify.com/artist/79pQVInsNRplh3HICEMExB
+  url: 'https://open.spotify.com/artist/79pQVInsNRplh3HICEMExB'
 status: active
-title: BATISTE BROTHERS BAND
+title: Batiste Brothers Band
 ---
 
 ![](batiste_brothers_band.jpg)

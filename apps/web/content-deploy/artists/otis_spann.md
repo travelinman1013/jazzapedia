@@ -1,39 +1,39 @@
 ---
-title: otis spann
+title: Otis Spann
 wiki_slug: otis-spann
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1930-03-21'
-birth_place: Jackson
+birth_place: 'Jackson, Mississippi, United States'
 death_date: '1970-04-24'
 genres:
-- blues
-- classic blues
-- boogie-woogie
-- jazz blues
+  - blues
+  - classic blues
+  - boogie-woogie
+  - jazz blues
 instruments:
-- piano
-- lead vocals
-- background vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - piano
-  mbid: b283109c-ea3f-4a92-9569-9832a1caf4bc
-  name: Otis Spann’s South Side Piano
-- begin: ''
-  end: ''
-  instruments:
   - lead vocals
-  mbid: b283109c-ea3f-4a92-9569-9832a1caf4bc
-  name: Otis Spann’s South Side Piano
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a2e23010-5d0e-4106-acc2-c58ebe06af1c
-  name: The Muddy Waters Band
+  - background vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: b283109c-ea3f-4a92-9569-9832a1caf4bc
+    name: Otis Spann’s South Side Piano
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: b283109c-ea3f-4a92-9569-9832a1caf4bc
+    name: Otis Spann’s South Side Piano
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a2e23010-5d0e-4106-acc2-c58ebe06af1c
+    name: The Muddy Waters Band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/otis_spann.jpg
   caption: otis spann
@@ -56,63 +56,74 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Muddy Waters
-  - Howlin' Wolf
-  - Bo Diddley
-  - Little Walter
-  - Peter Green
-  - Fleetwood Mac
-  - Eric Clapton
-  - B.B. King
+    - Muddy Waters
+    - Howlin' Wolf
+    - Bo Diddley
+    - Little Walter
+    - Peter Green
+    - Fleetwood Mac
+    - Eric Clapton
+    - B.B. King
   influenced:
-  - All subsequent blues piano players
+    - All subsequent blues piano players
   mentors:
-  - Little Brother Montgomery
-  - Big Maceo Merriweather
+    - Little Brother Montgomery
+    - Big Maceo Merriweather
 spotify_data:
   followers: 59279
   id: 0xeI9Z0Uhs8bYGBRpqq88X
   popularity: 30
-  url: https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X
+  url: 'https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X'
 discography_enriched: true
 top_tracks:
-- Someday (Electric) (Someday)
-- Ain't Nobody's Business (The Biggest Thing Since Colossus)
-- Bird in a Cage (Sweet Giant of the Blues)
-- Moon Blues (Sweet Giant of the Blues)
-- Take A Little Walk With Me - Remastered (Otis Spann Is The Blues (Remastered))
-- Otis In The Dark - Remastered (Otis Spann Is The Blues (Remastered))
-- Ain't Nobody's Business (The Biggest Thing Since Colossus)
-- Train Fare Home - Paris, 4 Novembre 1968 (Restauración 2023) (Muddy Waters Blues Band Live Paris 1968 (Restauración 2023))
-- Ring Up - Paris, 4 Novembre 1968 (Restauración 2023) (Muddy Waters Blues Band Live Paris 1968 (Restauración 2023))
-- Blow Wind Blow - Paris, 4 Novembre 1968 (Restauración 2023) (Muddy Waters Blues Band Live Paris 1968 (Restauración 2023))
+  - Someday (Electric) (Someday)
+  - Ain't Nobody's Business (The Biggest Thing Since Colossus)
+  - Bird in a Cage (Sweet Giant of the Blues)
+  - Moon Blues (Sweet Giant of the Blues)
+  - >-
+    Take A Little Walk With Me - Remastered (Otis Spann Is The Blues
+    (Remastered))
+  - Otis In The Dark - Remastered (Otis Spann Is The Blues (Remastered))
+  - Ain't Nobody's Business (The Biggest Thing Since Colossus)
+  - >-
+    Train Fare Home - Paris, 4 Novembre 1968 (Restauración 2023) (Muddy Waters
+    Blues Band Live Paris 1968 (Restauración 2023))
+  - >-
+    Ring Up - Paris, 4 Novembre 1968 (Restauración 2023) (Muddy Waters Blues
+    Band Live Paris 1968 (Restauración 2023))
+  - >-
+    Blow Wind Blow - Paris, 4 Novembre 1968 (Restauración 2023) (Muddy Waters
+    Blues Band Live Paris 1968 (Restauración 2023))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ff609eb0-5425-4963-9e55-85d729f4648e
-  spotify: https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X
-  wikipedia: https://en.wikipedia.org/wiki/Otis_Spann
+  musicbrainz: 'https://musicbrainz.org/artist/ff609eb0-5425-4963-9e55-85d729f4648e'
+  spotify: 'https://open.spotify.com/artist/0xeI9Z0Uhs8bYGBRpqq88X'
+  wikipedia: 'https://en.wikipedia.org/wiki/Otis_Spann'
 image_path: 03_Resources/source_material/ArtistPortraits/otis_spann.jpg
 biography_enhanced_at: '2025-11-06T13:29:05.055171'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.bgbluesnews.com/post/gone-but-not-forgotten-otis-spann
-- https://blues.org/blues_hof_inductee/otis-spann/
-- https://msbluestrail.org/blues-trail-markers/otis-spann
-- https://kids.kiddle.co/Otis_Spann
-- https://en.wikipedia.org/wiki/Otis_Spann
-- https://earlyblues.org/blues-artists-biographies-otis-spann/
-- https://mojohand.com/glossary/otis-spann/
-- https://www.thecurrent.org/feature/2018/04/19/today-in-music-history-remembering-otis-spann
-- https://www.allmusic.com/artist/the-otis-spann-combo-mn0000486775
+  - 'https://www.bgbluesnews.com/post/gone-but-not-forgotten-otis-spann'
+  - 'https://blues.org/blues_hof_inductee/otis-spann/'
+  - 'https://msbluestrail.org/blues-trail-markers/otis-spann'
+  - 'https://kids.kiddle.co/Otis_Spann'
+  - 'https://en.wikipedia.org/wiki/Otis_Spann'
+  - 'https://earlyblues.org/blues-artists-biographies-otis-spann/'
+  - 'https://mojohand.com/glossary/otis-spann/'
+  - >-
+    https://www.thecurrent.org/feature/2018/04/19/today-in-music-history-remembering-otis-spann
+  - 'https://www.allmusic.com/artist/the-otis-spann-combo-mn0000486775'
 network_extracted: true
 entry_created: '2025-11-06T13:29:05.055190'
 last_updated: '2025-12-23T08:16:13.875163'
 gender: Male
 musicbrainz_id: ff609eb0-5425-4963-9e55-85d729f4648e
 tags:
-- blues
-- chicago blues
-- piano blues
+  - blues
+  - chicago blues
+  - piano blues
+is_active: false
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](otis_spann.jpg)

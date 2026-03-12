@@ -1,18 +1,18 @@
 ---
-title: GEORGE FREEMAN
+title: George Freeman
 wiki_slug: george-freeman
 schema_version: 2
 status: active
-birth_place: Chicago, Illinois, United States
+birth_place: 'Chicago, Illinois, United States'
 genres:
-- soul jazz
-- jazz funk
-- hard bop
+  - soul jazz
+  - jazz funk
+  - hard bop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/george_freeman.jpg
   caption: GEORGE FREEMAN
   background: solo_singer
-  origin: Chicago, Illinois, United States
+  origin: 'Chicago, Illinois, United States'
 audio_profile:
   tempo_avg: 115.4
   energy_avg: 0.375
@@ -28,59 +28,65 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Johnny Griffin
-  - Joe Morris
-  - Charlie Parker
-  - Jackie Wilson
-  - Gene Ammons
-  - Wild Bill Davis
-  - Richard 'Groove' Holmes
-  - Von Freeman
-  - Sil Austin
-  - Charlie Earland
-  - Mike Allemana
+    - Johnny Griffin
+    - Joe Morris
+    - Charlie Parker
+    - Jackie Wilson
+    - Gene Ammons
+    - Wild Bill Davis
+    - Richard 'Groove' Holmes
+    - Von Freeman
+    - Sil Austin
+    - Charlie Earland
+    - Mike Allemana
   influenced:
-  - Chicago jazz community
+    - Chicago jazz community
   mentors:
-  - T-Bone Walker
-  - Walter Dyett
-  - Charlie Parker
-  - Eugene Wright
+    - T-Bone Walker
+    - Walter Dyett
+    - Charlie Parker
+    - Eugene Wright
 spotify_data:
   followers: 1559
   id: 7Ach9sbrT4ymDKQBsqGDvG
   popularity: 7
-  url: https://open.spotify.com/artist/7Ach9sbrT4ymDKQBsqGDvG
+  url: 'https://open.spotify.com/artist/7Ach9sbrT4ymDKQBsqGDvG'
 discography_enriched: true
 top_tracks:
-- The Bump (Franticdiagnosis)
-- Latina Bonita (All in the Family)
-- If I Had You (The Good Life)
-- Dark Blue (All in the Family)
-- New Improved Funk - 2024 Remastered Version (New Improved Funk (2024 Remastered Version))
-- The Good Life (The Good Life)
-- Confirmed Truth - 2024 Remastered Version (New Improved Funk (2024 Remastered Version))
-- Lowe Groovin' (The Good Life)
-- 1,2,3,4 (The Good Life)
-- Sister Tankersley (The Good Life)
+  - The Bump (Franticdiagnosis)
+  - Latina Bonita (All in the Family)
+  - If I Had You (The Good Life)
+  - Dark Blue (All in the Family)
+  - >-
+    New Improved Funk - 2024 Remastered Version (New Improved Funk (2024
+    Remastered Version))
+  - The Good Life (The Good Life)
+  - >-
+    Confirmed Truth - 2024 Remastered Version (New Improved Funk (2024
+    Remastered Version))
+  - Lowe Groovin' (The Good Life)
+  - '1,2,3,4 (The Good Life)'
+  - Sister Tankersley (The Good Life)
 external_urls:
-  spotify: https://open.spotify.com/artist/7Ach9sbrT4ymDKQBsqGDvG
-  wikipedia: https://en.wikipedia.org/wiki/George_Freeman_(guitarist)
+  spotify: 'https://open.spotify.com/artist/7Ach9sbrT4ymDKQBsqGDvG'
+  wikipedia: 'https://en.wikipedia.org/wiki/George_Freeman_(guitarist)'
 image_path: 03_Resources/source_material/ArtistPortraits/george_freeman.jpg
 biography_enhanced_at: '2025-11-20T07:22:36.773459'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - George Freeman (guitarist)
-- Delmark Records - Rest in peace to Mr. George Freeman
-- 'JazzTimes - George Freeman: It''s Happening Now'
-- DownBeat - Guitarist George Freeman Dies at 97
-- Guitar Player - Former Charlie Parker guitarist George Freeman has died
-- The HistoryMakers - George Freeman's Biography
+  - Wikipedia - George Freeman (guitarist)
+  - Delmark Records - Rest in peace to Mr. George Freeman
+  - 'JazzTimes - George Freeman: It''s Happening Now'
+  - DownBeat - Guitarist George Freeman Dies at 97
+  - Guitar Player - Former Charlie Parker guitarist George Freeman has died
+  - The HistoryMakers - George Freeman's Biography
 network_extracted: true
 entry_created: '2025-11-20T07:22:36.773465'
 last_updated: '2025-12-23T08:16:09.082910'
-
+birth_date: '1927-04-10'
+death_date: '2025-04-01'
+artist_type: person
 ---
 
 ![](george_freeman.jpg)

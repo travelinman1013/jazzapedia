@@ -1,17 +1,17 @@
 ---
-title: gabor szabo
+title: Gabor Szabo
 wiki_slug: gabor-szabo
 schema_version: 2
 status: active
-birth_place: Budapest, Hungary
+birth_place: 'Budapest, Hungary, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/gabor_szabo.jpg
   caption: gabor szabo
   background: solo_singer
-  origin: Budapest, Hungary
+  origin: 'Budapest, Hungary'
 audio_profile:
-  tempo_avg: 110.0
+  tempo_avg: 110
   energy_avg: 0.429
   valence_avg: 0.442
   danceability_avg: 0.516
@@ -25,52 +25,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Charles Lloyd
-  - Lena Horne
-  - Bobby Womack
-  - Gary McFarland
-  - Cal Tjader
-  - Ron Carter
+    - Charles Lloyd
+    - Lena Horne
+    - Bobby Womack
+    - Gary McFarland
+    - Cal Tjader
+    - Ron Carter
   influenced:
-  - Carlos Santana
-  - Pat Metheny
-  - Bill Frisell
+    - Carlos Santana
+    - Pat Metheny
+    - Bill Frisell
   mentors:
-  - Chico Hamilton
-  - American jazz guitarists (general, e.g., Django Reinhardt, Barney Kessel)
-  - Ravi Shankar
+    - Chico Hamilton
+    - 'American jazz guitarists (general, e.g., Django Reinhardt, Barney Kessel)'
+    - Ravi Shankar
 spotify_data:
   followers: 112196
   id: 38CPjAAqYV8lTYi6clzbjG
   popularity: 41
-  url: https://open.spotify.com/artist/38CPjAAqYV8lTYi6clzbjG
+  url: 'https://open.spotify.com/artist/38CPjAAqYV8lTYi6clzbjG'
 discography_enriched: true
 top_tracks:
-- Stormy (1969)
-- San Franciscan Nights (Wind, Sky And Diamonds)
-- Breezin' (High Contrast)
-- Three King Fishers (Bacchanal)
-- Somewhere I Belong (1969)
-- Gypsy Queen (Spellbinder)
-- Galatea's Guitar - 2022 Remastered Version (Dreams (2022 Remastered Version))
-- Spellbinder (Spellbinder)
-- Sealed with a Kiss (1969)
-- Magical Connection - Remastered (The Complete Gabor Szabo in Budapest)
+  - Stormy (1969)
+  - 'San Franciscan Nights (Wind, Sky And Diamonds)'
+  - Breezin' (High Contrast)
+  - Three King Fishers (Bacchanal)
+  - Somewhere I Belong (1969)
+  - Gypsy Queen (Spellbinder)
+  - >-
+    Galatea's Guitar - 2022 Remastered Version (Dreams (2022 Remastered
+    Version))
+  - Spellbinder (Spellbinder)
+  - Sealed with a Kiss (1969)
+  - Magical Connection - Remastered (The Complete Gabor Szabo in Budapest)
 external_urls:
-  spotify: https://open.spotify.com/artist/38CPjAAqYV8lTYi6clzbjG
-  wikipedia: https://en.wikipedia.org/wiki/Gábor_Szabó
+  spotify: 'https://open.spotify.com/artist/38CPjAAqYV8lTYi6clzbjG'
+  wikipedia: 'https://en.wikipedia.org/wiki/Gábor_Szabó'
 image_path: 03_Resources/source_material/ArtistPortraits/gabor_szabo.jpg
 biography_enhanced_at: '2025-10-19T11:50:59.290199'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://lesterthenightfly.com/2025/02/15/gabor-szabo-influential-hungarian-guitarist-s5-e223/
-- https://www.allaboutjazz.com/musicians/gabor-szabo/
-- https://www.last.fm/music/Gabor+Szabo/+wiki
-- https://dougpayne.com/bio.htm
+  - >-
+    https://lesterthenightfly.com/2025/02/15/gabor-szabo-influential-hungarian-guitarist-s5-e223/
+  - 'https://www.allaboutjazz.com/musicians/gabor-szabo/'
+  - 'https://www.last.fm/music/Gabor+Szabo/+wiki'
+  - 'https://dougpayne.com/bio.htm'
 network_extracted: true
 entry_created: '2025-10-19T11:50:59.290206'
 last_updated: '2025-12-23T08:16:08.924450'
+artist_type: person
 ---
 
 ![](gabor_szabo.jpg)

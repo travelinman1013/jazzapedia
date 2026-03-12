@@ -1,20 +1,20 @@
 ---
-title: red hot chili peppers
+title: The Red Hot Chili Peppers
 wiki_slug: red-hot-chili-peppers
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
-birth_date: '1983'
+birth_date: '1982'
 genres:
-- funk rock
-- alternative rock
-- rock
+  - funk rock
+  - alternative rock
+  - rock
 instruments:
-- drums (drum set)
-- original
-- guitar
-- bass guitar
-- lead vocals
+  - drums (drum set)
+  - original
+  - guitar
+  - bass guitar
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/red_hot_chili_peppers.jpg
   caption: red hot chili peppers
@@ -35,182 +35,182 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John Frusciante
-  - Chad Smith
-  - Rick Rubin
+    - John Frusciante
+    - Chad Smith
+    - Rick Rubin
   influenced:
-  - Incubus
-  - '311'
-  - The Smashing Pumpkins
+    - Incubus
+    - '311'
+    - The Smashing Pumpkins
   mentors:
-  - George Clinton
-  - Los Angeles punk scene
+    - George Clinton
+    - Los Angeles punk scene
 spotify_data:
   followers: 23262497
   id: 0L8ExT028jH3ddEcZwqJJ5
   popularity: 83
-  url: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
+  url: 'https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5'
 discography_enriched: true
 top_tracks:
-- Can't Stop (By the Way (Deluxe Edition))
-- Californication (Californication (Deluxe Edition))
-- Under the Bridge (Blood Sugar Sex Magik (Deluxe Edition))
-- Scar Tissue (Californication (Deluxe Edition))
-- Otherside (Californication (Deluxe Edition))
-- Snow (Hey Oh) (Stadium Arcadium)
-- Dani California (Stadium Arcadium)
-- Dark Necessities (The Getaway)
-- The Zephyr Song (By the Way (Deluxe Edition))
-- By the Way (By the Way (Deluxe Edition))
+  - Can't Stop (By the Way (Deluxe Edition))
+  - Californication (Californication (Deluxe Edition))
+  - Under the Bridge (Blood Sugar Sex Magik (Deluxe Edition))
+  - Scar Tissue (Californication (Deluxe Edition))
+  - Otherside (Californication (Deluxe Edition))
+  - Snow (Hey Oh) (Stadium Arcadium)
+  - Dani California (Stadium Arcadium)
+  - Dark Necessities (The Getaway)
+  - The Zephyr Song (By the Way (Deluxe Edition))
+  - By the Way (By the Way (Deluxe Edition))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8bfac288-ccc5-448d-9573-c33ea2aa5c30
-  spotify: https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5
-  wikipedia: https://en.wikipedia.org/wiki/Red_Hot_Chili_Peppers
+  musicbrainz: 'https://musicbrainz.org/artist/8bfac288-ccc5-448d-9573-c33ea2aa5c30'
+  spotify: 'https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5'
+  wikipedia: 'https://en.wikipedia.org/wiki/Red_Hot_Chili_Peppers'
 image_path: 03_Resources/source_material/ArtistPortraits/red_hot_chili_peppers.jpg
 biography_enhanced_at: '2025-11-08T22:02:18.879309'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Red_Hot_Chili_Peppers
-- https://www.britannica.com/topic/Red-Hot-Chili-Peppers
-- https://rockhall.com/inductees/red-hot-chili-peppers/
+  - 'https://en.wikipedia.org/wiki/Red_Hot_Chili_Peppers'
+  - 'https://www.britannica.com/topic/Red-Hot-Chili-Peppers'
+  - 'https://rockhall.com/inductees/red-hot-chili-peppers/'
 network_extracted: true
 entry_created: '2025-11-08T22:02:18.879322'
 last_updated: '2025-12-23T08:16:14.725644'
 members:
-- begin: '1983'
-  end: '1983'
-  instruments:
-  - drums (drum set)
-  - original
-  mbid: 6305aa7b-97c7-46ae-b9b9-5d0c73f18e54
-  name: Jack Irons
-- begin: '1983'
-  end: '1983'
-  instruments:
-  - guitar
-  - original
-  mbid: e9abbfc9-6140-4fdc-ba65-eb6592533134
-  name: Hillel Slovak
-- begin: '1983'
-  end: '1984'
-  instruments:
-  - guitar
-  mbid: f26fee81-3c08-4782-9d05-daeed4a7f4c7
-  name: Jack Sherman
-- begin: '1983'
-  end: '1986'
-  instruments:
-  - drums (drum set)
-  mbid: c7e7036d-236a-4b4c-83a8-64bca8b14d7e
-  name: Cliff Martinez
-- &id001
-  begin: '1983'
-  end: ''
-  instruments:
-  - bass guitar
-  - original
-  mbid: 2dc7a305-7a8c-4fcc-add4-5e9def0a9a0d
-  name: Flea
-- &id002
-  begin: '1983'
-  end: ''
-  instruments:
-  - lead vocals
-  - original
-  mbid: 8df62446-21d3-4449-8901-9e2914362639
-  name: Anthony Kiedis
-- begin: '1985'
-  end: '1988-06-25'
-  instruments:
-  - guitar
-  mbid: e9abbfc9-6140-4fdc-ba65-eb6592533134
-  name: Hillel Slovak
-- begin: '1986'
-  end: '1988'
-  instruments:
-  - drums (drum set)
-  mbid: 6305aa7b-97c7-46ae-b9b9-5d0c73f18e54
-  name: Jack Irons
-- begin: '1988'
-  end: '1988'
-  instruments:
-  - guitar
-  mbid: f48e4420-d2bd-47c6-a322-e2577d06453a
-  name: DeWayne "Blackbyrd" McKnight
-- begin: '1988'
-  end: '1988'
-  instruments:
-  - drums (drum set)
-  mbid: af1735a0-8e58-41f7-a091-03d2578e9a51
-  name: D.H. Peligro
-- begin: '1988'
-  end: '1992'
-  instruments:
-  - guitar
-  mbid: f1571db1-c672-4a54-a2cf-aaa329f26f0b
-  name: John Frusciante
-- &id003
-  begin: '1988'
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: da8f13f1-2a7f-44f7-93a8-3f5f9d7fa52d
-  name: Chad Smith
-- begin: '1992'
-  end: '1993'
-  instruments:
-  - guitar
-  mbid: 81049199-25ba-44a1-bab5-a1415da4075d
-  name: Arik Marshall
-- begin: '1992'
-  end: '1998'
-  instruments:
-  - guitar
-  mbid: 8df62446-21d3-4449-8901-9e2914362639
-  name: Anthony Kiedis
-- begin: 1993-09
-  end: '1998-03-06'
-  instruments:
-  - guitar
-  mbid: ae21a40c-e6de-4419-9295-d4fddcc0d215
-  name: Dave Navarro
-- begin: '1993'
-  end: '1993'
-  instruments:
-  - guitar
-  mbid: 0d4adbb4-62e3-4733-84a5-5ad929786823
-  name: Jesse Tobias
-- begin: '1998'
-  end: 2009-12
-  instruments:
-  - guitar
-  mbid: f1571db1-c672-4a54-a2cf-aaa329f26f0b
-  name: John Frusciante
-- begin: '2009'
-  end: '2019-12-15'
-  instruments:
-  - guitar
-  mbid: 3f6e1477-03dc-4117-ac15-ec53b776e9a0
-  name: Josh Klinghoffer
-- &id004
-  begin: '2019-12-15'
-  end: ''
-  instruments:
-  - guitar
-  mbid: f1571db1-c672-4a54-a2cf-aaa329f26f0b
-  name: John Frusciante
+  - begin: '1983'
+    end: '1983'
+    instruments:
+      - drums (drum set)
+      - original
+    mbid: 6305aa7b-97c7-46ae-b9b9-5d0c73f18e54
+    name: Jack Irons
+  - begin: '1983'
+    end: '1983'
+    instruments:
+      - guitar
+      - original
+    mbid: e9abbfc9-6140-4fdc-ba65-eb6592533134
+    name: Hillel Slovak
+  - begin: '1983'
+    end: '1984'
+    instruments:
+      - guitar
+    mbid: f26fee81-3c08-4782-9d05-daeed4a7f4c7
+    name: Jack Sherman
+  - begin: '1983'
+    end: '1986'
+    instruments:
+      - drums (drum set)
+    mbid: c7e7036d-236a-4b4c-83a8-64bca8b14d7e
+    name: Cliff Martinez
+  - &ref_0
+    begin: '1983'
+    end: ''
+    instruments:
+      - bass guitar
+      - original
+    mbid: 2dc7a305-7a8c-4fcc-add4-5e9def0a9a0d
+    name: Flea
+  - &ref_1
+    begin: '1983'
+    end: ''
+    instruments:
+      - lead vocals
+      - original
+    mbid: 8df62446-21d3-4449-8901-9e2914362639
+    name: Anthony Kiedis
+  - begin: '1985'
+    end: '1988-06-25'
+    instruments:
+      - guitar
+    mbid: e9abbfc9-6140-4fdc-ba65-eb6592533134
+    name: Hillel Slovak
+  - begin: '1986'
+    end: '1988'
+    instruments:
+      - drums (drum set)
+    mbid: 6305aa7b-97c7-46ae-b9b9-5d0c73f18e54
+    name: Jack Irons
+  - begin: '1988'
+    end: '1988'
+    instruments:
+      - guitar
+    mbid: f48e4420-d2bd-47c6-a322-e2577d06453a
+    name: DeWayne "Blackbyrd" McKnight
+  - begin: '1988'
+    end: '1988'
+    instruments:
+      - drums (drum set)
+    mbid: af1735a0-8e58-41f7-a091-03d2578e9a51
+    name: D.H. Peligro
+  - begin: '1988'
+    end: '1992'
+    instruments:
+      - guitar
+    mbid: f1571db1-c672-4a54-a2cf-aaa329f26f0b
+    name: John Frusciante
+  - &ref_2
+    begin: '1988'
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: da8f13f1-2a7f-44f7-93a8-3f5f9d7fa52d
+    name: Chad Smith
+  - begin: '1992'
+    end: '1993'
+    instruments:
+      - guitar
+    mbid: 81049199-25ba-44a1-bab5-a1415da4075d
+    name: Arik Marshall
+  - begin: '1992'
+    end: '1998'
+    instruments:
+      - guitar
+    mbid: 8df62446-21d3-4449-8901-9e2914362639
+    name: Anthony Kiedis
+  - begin: 1993-09
+    end: '1998-03-06'
+    instruments:
+      - guitar
+    mbid: ae21a40c-e6de-4419-9295-d4fddcc0d215
+    name: Dave Navarro
+  - begin: '1993'
+    end: '1993'
+    instruments:
+      - guitar
+    mbid: 0d4adbb4-62e3-4733-84a5-5ad929786823
+    name: Jesse Tobias
+  - begin: '1998'
+    end: 2009-12
+    instruments:
+      - guitar
+    mbid: f1571db1-c672-4a54-a2cf-aaa329f26f0b
+    name: John Frusciante
+  - begin: '2009'
+    end: '2019-12-15'
+    instruments:
+      - guitar
+    mbid: 3f6e1477-03dc-4117-ac15-ec53b776e9a0
+    name: Josh Klinghoffer
+  - &ref_3
+    begin: '2019-12-15'
+    end: ''
+    instruments:
+      - guitar
+    mbid: f1571db1-c672-4a54-a2cf-aaa329f26f0b
+    name: John Frusciante
 musicbrainz_id: 8bfac288-ccc5-448d-9573-c33ea2aa5c30
-origin: Los Angeles
+origin: 'Los Angeles, California, United States'
 original_members:
-- *id001
-- *id002
-- *id003
-- *id004
+  - *ref_0
+  - *ref_1
+  - *ref_2
+  - *ref_3
 tags:
-- 80s
-- 90s
-- alternative rock
+  - 80s
+  - 90s
+  - alternative rock
 ---
 
 ![](red_hot_chili_peppers.jpg)

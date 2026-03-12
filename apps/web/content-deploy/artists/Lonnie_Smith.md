@@ -3,17 +3,17 @@ title: Lonnie Smith
 wiki_slug: lonnie-smith
 schema_version: 2
 status: active
-birth_place: Lackawanna, New York, United States
+birth_place: 'Lackawanna, New York, United States'
 genres:
-- jazz funk
-- jazz fusion
-- acid jazz
-- soul jazz
+  - jazz funk
+  - jazz fusion
+  - acid jazz
+  - soul jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Lonnie_Smith.jpg
   caption: Lonnie Smith
   background: solo_singer
-  origin: Lackawanna, New York, United States
+  origin: 'Lackawanna, New York, United States'
 audio_profile:
   tempo_avg: 114.8
   energy_avg: 0.509
@@ -29,52 +29,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - George Benson
-  - Lou Donaldson
-  - Jack McDuff
-  - Joey DeFrancesco
+    - George Benson
+    - Lou Donaldson
+    - Jack McDuff
+    - Joey DeFrancesco
   influenced:
-  - Joey DeFrancesco
-  - Ronnie Foster
-  - Wil Blades
-  - Akiko Tsuruga
+    - Joey DeFrancesco
+    - Ronnie Foster
+    - Wil Blades
+    - Akiko Tsuruga
   mentors:
-  - Art Kubera
-  - Jimmy Smith
+    - Art Kubera
+    - Jimmy Smith
 spotify_data:
   followers: 93116
   id: 2hdpXvaQJHBCZIVUd6cLvK
   popularity: 39
-  url: https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK
+  url: 'https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK'
 discography_enriched: true
 top_tracks:
-- Expansions (Expansions)
-- Down The Backstreets (Jazzmatazz Volume 1)
-- Summer Nights (Visions of a New World)
-- Bridge Through Time (Love Is The Answer (Expanded))
-- A Garden Of Peace (Dreams Of Tomorrow)
-- A Chance for Peace (Visions of a New World)
-- Quiet Moments (Exotic Mysteries)
-- Sunset (Visions of a New World)
-- Devika (Goddess) (Visions of a New World)
-- Colors of the Rainbow (Visions of a New World)
+  - Expansions (Expansions)
+  - Down The Backstreets (Jazzmatazz Volume 1)
+  - Summer Nights (Visions of a New World)
+  - Bridge Through Time (Love Is The Answer (Expanded))
+  - A Garden Of Peace (Dreams Of Tomorrow)
+  - A Chance for Peace (Visions of a New World)
+  - Quiet Moments (Exotic Mysteries)
+  - Sunset (Visions of a New World)
+  - Devika (Goddess) (Visions of a New World)
+  - Colors of the Rainbow (Visions of a New World)
 external_urls:
-  spotify: https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK
-  wikipedia: https://en.wikipedia.org/wiki/Dr._Lonnie_Smith
+  spotify: 'https://open.spotify.com/artist/2hdpXvaQJHBCZIVUd6cLvK'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dr._Lonnie_Smith'
 image_path: 03_Resources/source_material/ArtistPortraits/Lonnie_Smith.jpg
 biography_enhanced_at: '2025-10-22T06:48:34.427156'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Dr._Lonnie_Smith
-- http://www.drlonniesmith.com/bio
-- https://www.bluenote.com/artist/dr-lonnie-smith/
-- https://www.namm.org/library/oral-history/dr-lonnie-smith
-- https://summerfest.sanjosejazz.org/artists/jazz-organ-fellowship-celebrates-dr-lonnie-smith
-- https://www.brooklynbowl.com/blog/detail/eight-reasons-why-you-should-know-about-dr-lonnie-smith
+  - 'https://en.wikipedia.org/wiki/Dr._Lonnie_Smith'
+  - 'http://www.drlonniesmith.com/bio'
+  - 'https://www.bluenote.com/artist/dr-lonnie-smith/'
+  - 'https://www.namm.org/library/oral-history/dr-lonnie-smith'
+  - >-
+    https://summerfest.sanjosejazz.org/artists/jazz-organ-fellowship-celebrates-dr-lonnie-smith
+  - >-
+    https://www.brooklynbowl.com/blog/detail/eight-reasons-why-you-should-know-about-dr-lonnie-smith
 network_extracted: true
 entry_created: '2025-10-22T06:48:34.427175'
 last_updated: '2025-12-23T08:16:03.073320'
+birth_date: '1942-07-03'
+death_date: '2021-09-28'
+artist_type: person
 ---
 
 ![](Lonnie_Smith.jpg)

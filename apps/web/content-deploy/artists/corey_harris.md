@@ -1,31 +1,31 @@
 ---
-title: corey harris
+title: Corey Harris
 wiki_slug: corey-harris
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1969-02-21'
-birth_place: Denver
+birth_place: 'Denver, Colorado, United States'
 genres:
-- blues
-- modern blues
-- country blues
-- classic blues
+  - blues
+  - modern blues
+  - country blues
+  - classic blues
 instruments:
-- guitar
-- acoustic guitar
-- lap steel guitar
-- electric guitar
-- steel guitar
-- slide guitar
-- lead vocals
-- background vocals
+  - guitar
+  - acoustic guitar
+  - lap steel guitar
+  - electric guitar
+  - steel guitar
+  - slide guitar
+  - lead vocals
+  - background vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 71269d59-7bcf-438c-b5b9-0a4d2ec855a0
-  name: Corey Harris & The 5X5
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 71269d59-7bcf-438c-b5b9-0a4d2ec855a0
+    name: Corey Harris & The 5X5
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/corey_harris.jpg
   caption: corey harris
@@ -47,55 +47,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ali Farka Touré
-  - Billy Bragg & Wilco
-  - Natalie Merchant
+    - Ali Farka Touré
+    - Billy Bragg & Wilco
+    - Natalie Merchant
   influenced:
-  - Keb' Mo'
-  - Alvin 'Youngblood' Hart
+    - Keb' Mo'
+    - Alvin 'Youngblood' Hart
   mentors:
-  - Lightnin' Hopkins
-  - African musicians in Cameroon
+    - Lightnin' Hopkins
+    - African musicians in Cameroon
 spotify_data:
   followers: 14559
   id: 1TQtbRQbaXw5CeN3mC0DJH
   popularity: 25
-  url: https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH
+  url: 'https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH'
 discography_enriched: true
 top_tracks:
-- Keep Your Lamp Trimmed And Burning (Between Midnight And Day)
-- Fish Ain't Bitin' (Fish Ain't Bitin')
-- Roots Woman (Between Midnight And Day)
-- High Fever Blues (Fish Ain't Bitin')
-- Mama Got Worried (Fish Ain't Bitin')
-- You've Got To Move (Fish Ain't Bitin')
-- Early In The Morning (Between Midnight And Day)
-- Catfish Blues (Between Midnight And Day)
-- Take Me Back (Fish Ain't Bitin')
-- God Don't Ever Change (Fish Ain't Bitin')
+  - Keep Your Lamp Trimmed And Burning (Between Midnight And Day)
+  - Fish Ain't Bitin' (Fish Ain't Bitin')
+  - Roots Woman (Between Midnight And Day)
+  - High Fever Blues (Fish Ain't Bitin')
+  - Mama Got Worried (Fish Ain't Bitin')
+  - You've Got To Move (Fish Ain't Bitin')
+  - Early In The Morning (Between Midnight And Day)
+  - Catfish Blues (Between Midnight And Day)
+  - Take Me Back (Fish Ain't Bitin')
+  - God Don't Ever Change (Fish Ain't Bitin')
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/aabd53ee-308b-4e94-8e9b-4c3d46a0c471
-  spotify: https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH
-  wikipedia: https://en.wikipedia.org/wiki/Corey_Harris
+  musicbrainz: 'https://musicbrainz.org/artist/aabd53ee-308b-4e94-8e9b-4c3d46a0c471'
+  spotify: 'https://open.spotify.com/artist/1TQtbRQbaXw5CeN3mC0DJH'
+  wikipedia: 'https://en.wikipedia.org/wiki/Corey_Harris'
 image_path: 03_Resources/source_material/ArtistPortraits/corey_harris.jpg
 biography_enhanced_at: '2025-10-25T09:57:27.980427'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Corey_Harris
-- https://music.virginia.edu/people/corey-harris
-- https://concord.com/artist/corey-harris/
-- https://ketchagency.com/artists/corey-harris/
-- https://macfound.org/fellows/class-of-2007/corey-harris
+  - 'https://en.wikipedia.org/wiki/Corey_Harris'
+  - 'https://music.virginia.edu/people/corey-harris'
+  - 'https://concord.com/artist/corey-harris/'
+  - 'https://ketchagency.com/artists/corey-harris/'
+  - 'https://macfound.org/fellows/class-of-2007/corey-harris'
 network_extracted: true
 entry_created: '2025-10-25T09:57:27.980437'
 last_updated: '2025-12-23T08:16:07.200774'
 gender: Male
 musicbrainz_id: aabd53ee-308b-4e94-8e9b-4c3d46a0c471
 tags:
-- blues
-- delta blues
-- reggae
+  - blues
+  - delta blues
+  - reggae
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](corey_harris.jpg)

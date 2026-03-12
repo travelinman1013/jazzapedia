@@ -1,16 +1,16 @@
 ---
-title: LEE MURDOCK
+title: Lee Murdock
 wiki_slug: lee-murdock
 schema_version: 2
 status: active
-birth_place: Kane County, Illinois, United States
+birth_place: 'Kane County, Illinois, United States'
 genres:
-- sea shanties
+  - sea shanties
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lee_murdock.jpg
   caption: LEE MURDOCK
   background: solo_singer
-  origin: Kane County, Illinois, United States
+  origin: 'Kane County, Illinois, United States'
 audio_profile:
   tempo_avg: 117.4
   energy_avg: 0.252
@@ -18,7 +18,7 @@ audio_profile:
   danceability_avg: 0.513
   acousticness_avg: 0.798
   instrumentalness_avg: 0.065
-  loudness_avg: -15.0
+  loudness_avg: -15
   speechiness_avg: 0.068
   liveness_avg: 0.211
   track_count: 50
@@ -26,42 +26,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Various Great Lakes museums and historical organizations
+    - Various Great Lakes museums and historical organizations
   influenced: []
   mentors: []
 spotify_data:
   followers: 677
   id: 2h7gQAAHekHPeyMA8DuAgW
   popularity: 15
-  url: https://open.spotify.com/artist/2h7gQAAHekHPeyMA8DuAgW
+  url: 'https://open.spotify.com/artist/2h7gQAAHekHPeyMA8DuAgW'
 discography_enriched: true
 top_tracks:
-- The Great Lakes Song (Freshwater Highway)
-- Wreck of the Carl D Bradley (Cold Winds)
-- Cold Winds (Cold Winds)
-- Low Bridge, Everybody Down / The Erie Canal Song (Cold Winds)
-- The Great Lakes Song (Great Lakes Chronicle)
-- The Illinois And Michigan Canal (Freshwater Highway)
-- The Ash Grove (Wordless)
-- The Scottish Hero (The Lost Lake Sailors)
-- The Cold Freshwater Trade (Freshwater Highway)
-- Downbound on Superior (Cold Winds)
+  - The Great Lakes Song (Freshwater Highway)
+  - Wreck of the Carl D Bradley (Cold Winds)
+  - Cold Winds (Cold Winds)
+  - 'Low Bridge, Everybody Down / The Erie Canal Song (Cold Winds)'
+  - The Great Lakes Song (Great Lakes Chronicle)
+  - The Illinois And Michigan Canal (Freshwater Highway)
+  - The Ash Grove (Wordless)
+  - The Scottish Hero (The Lost Lake Sailors)
+  - The Cold Freshwater Trade (Freshwater Highway)
+  - Downbound on Superior (Cold Winds)
 external_urls:
-  spotify: https://open.spotify.com/artist/2h7gQAAHekHPeyMA8DuAgW
+  spotify: 'https://open.spotify.com/artist/2h7gQAAHekHPeyMA8DuAgW'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/lee_murdock.jpg
 biography_enhanced_at: '2025-12-15T01:21:40.433491'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://leemurdock.com
-- https://ilpresenters.org/lee-murdock/
-- https://nmgl.org/history-happy-hour-with-singer-songwriter-and-yatch-club/
-- https://www.greatlakesgazette.com/2013/06/01/lee-murdock-a-great-lakes-balladeer/
-- https://continuouswave.com/misc/leeMurdock.html
+  - 'https://leemurdock.com'
+  - 'https://ilpresenters.org/lee-murdock/'
+  - 'https://nmgl.org/history-happy-hour-with-singer-songwriter-and-yatch-club/'
+  - >-
+    https://www.greatlakesgazette.com/2013/06/01/lee-murdock-a-great-lakes-balladeer/
+  - 'https://continuouswave.com/misc/leeMurdock.html'
 network_extracted: true
 entry_created: '2025-12-15T01:21:40.433502'
 last_updated: '2025-12-23T08:16:11.718380'
+origin: 'Kane County, Illinois, United States'
+artist_type: person
 ---
 
 ![](lee_murdock.jpg)

@@ -5,44 +5,44 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1984-10-19'
-birth_place: Los Angeles
+birth_place: 'Los Angeles, California, United States'
 genres: []
 instruments:
-- electric bass guitar
-- original
-- bass guitar
-- electric guitar
-- Rhodes piano
-- lead vocals
-- background vocals
-associated_acts:
-- begin: '2002'
-  end: '2011'
-  instruments:
   - electric bass guitar
-  mbid: e9e2a634-984f-4c10-bf7b-7970179e1ef1
-  name: Suicidal Tendencies
-- begin: ''
-  end: ''
-  instruments:
   - original
-  mbid: 6f6ec17f-eeb2-4a3d-8ced-dcb2421a6ef7
-  name: WOKE
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 569c896e-e642-4ea2-b713-991802f0aa89
-  name: No Curfew
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1716a82c-b0c3-4b80-ae7a-25230ad06a7c
-  name: West Coast Get Down
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 246ea01b-fc0d-4369-9cf9-9eb3935a6e1d
-  name: Young Jazz Giants
+  - bass guitar
+  - electric guitar
+  - Rhodes piano
+  - lead vocals
+  - background vocals
+associated_acts:
+  - begin: '2002'
+    end: '2011'
+    instruments:
+      - electric bass guitar
+    mbid: e9e2a634-984f-4c10-bf7b-7970179e1ef1
+    name: Suicidal Tendencies
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 6f6ec17f-eeb2-4a3d-8ced-dcb2421a6ef7
+    name: WOKE
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 569c896e-e642-4ea2-b713-991802f0aa89
+    name: No Curfew
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1716a82c-b0c3-4b80-ae7a-25230ad06a7c
+    name: West Coast Get Down
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 246ea01b-fc0d-4369-9cf9-9eb3935a6e1d
+    name: Young Jazz Giants
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/thundercat.jpg
   caption: Thundercat
@@ -64,51 +64,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Flying Lotus
-  - Kendrick Lamar
-  - Mac Miller
-  - Kamasi Washington
-  - Suicidal Tendencies
-  - Wiz Khalifa
-  - Earl Sweatshirt
+    - Flying Lotus
+    - Kendrick Lamar
+    - Mac Miller
+    - Kamasi Washington
+    - Suicidal Tendencies
+    - Wiz Khalifa
+    - Earl Sweatshirt
   influenced:
-  - Ronald Bruner Jr.
-  - Jameel Bruner
+    - Ronald Bruner Jr.
+    - Jameel Bruner
   mentors:
-  - Stanley Clarke
-  - Flying Lotus
-  - Erykah Badu
+    - Stanley Clarke
+    - Flying Lotus
+    - Erykah Badu
 spotify_data:
   followers: 1541646
   id: 4frXpPxQQZwbCu3eTGnZEw
   popularity: 69
-  url: https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw
+  url: 'https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw'
 discography_enriched: true
 top_tracks:
-- Wesley's Theory (To Pimp A Butterfly)
-- Funny Thing (It Is What It Is)
-- Them Changes (Drunk)
-- After Last Night (with Thundercat & Bootsy Collins) (An Evening With Silk Sonic)
-- These Walls (To Pimp A Butterfly)
-- After Last Night (with Thundercat & Bootsy Collins) (An Evening With Silk Sonic)
-- Walk On By (Drunk)
-- No More Lies
-- Cracker Island (feat. Thundercat) (Cracker Island)
-- Dragonball Durag (It Is What It Is)
+  - Wesley's Theory (To Pimp A Butterfly)
+  - Funny Thing (It Is What It Is)
+  - Them Changes (Drunk)
+  - >-
+    After Last Night (with Thundercat & Bootsy Collins) (An Evening With Silk
+    Sonic)
+  - These Walls (To Pimp A Butterfly)
+  - >-
+    After Last Night (with Thundercat & Bootsy Collins) (An Evening With Silk
+    Sonic)
+  - Walk On By (Drunk)
+  - No More Lies
+  - Cracker Island (feat. Thundercat) (Cracker Island)
+  - Dragonball Durag (It Is What It Is)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/044fd265-79dd-43eb-afc4-8b20becf7e17
-  spotify: https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw
+  musicbrainz: 'https://musicbrainz.org/artist/044fd265-79dd-43eb-afc4-8b20becf7e17'
+  spotify: 'https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw'
   wikipedia: Not provided in search results
 image_path: 03_Resources/source_material/ArtistPortraits/thundercat.jpg
 biography_enhanced_at: '2025-12-04T07:35:52.354743'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- La Bella Strings (labella.com)
-- Ninja Tune (ninjatune.net)
-- TeachRock (teachrock.org)
-- Kiddle Encyclopedia (kids.kiddle.co)
-- KCUR (kcur.org)
+  - La Bella Strings (labella.com)
+  - Ninja Tune (ninjatune.net)
+  - TeachRock (teachrock.org)
+  - Kiddle Encyclopedia (kids.kiddle.co)
+  - KCUR (kcur.org)
 network_extracted: true
 entry_created: '2025-12-04T07:35:52.354755'
 last_updated: '2025-12-23T08:16:17.393859'
@@ -116,9 +120,10 @@ disambiguation: US singer-songwriter & bassist
 gender: Male
 musicbrainz_id: 044fd265-79dd-43eb-afc4-8b20becf7e17
 tags:
-- acid jazz
-- afrofuturism
-- alternative r&b
+  - acid jazz
+  - afrofuturism
+  - alternative r&b
+origin: 'Compton, California, United States'
 ---
 
 ![](thundercat.jpg)

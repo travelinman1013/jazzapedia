@@ -3,39 +3,44 @@ biography_enhanced_at: '2025-12-26T01:19:36.811546'
 enhancement_provider: perplexity
 entry_created: '2025-12-26T01:19:36.811557'
 external_urls:
-  spotify: https://open.spotify.com/artist/6z40yL5DM6MM4LU5f9CpfX
+  spotify: 'https://open.spotify.com/artist/6z40yL5DM6MM4LU5f9CpfX'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/matt_perrine_debbie_davis.jpg
 last_updated: '2025-12-26T01:19:36.811559'
 musical_connections:
   collaborators:
-  - New Orleans Nightcrawlers
-  - Sunflower City Band
-  - Tin Men
-  - Debbie Davis
-  - Ellis Marsalis, Branford Marsalis, Nicholas Payton, Kermit Ruffins
+    - New Orleans Nightcrawlers
+    - Sunflower City Band
+    - Tin Men
+    - Debbie Davis
+    - 'Ellis Marsalis, Branford Marsalis, Nicholas Payton, Kermit Ruffins'
   influenced: []
   mentors:
-  - Artie Shaw Orchestra
+    - Artie Shaw Orchestra
 network_extracted: true
-origin: Queens, New York, USA (Debbie Davis birthplace); California, USA (Matt Perrine
+origin: >-
+  Queens, New York, USA (Debbie Davis birthplace); California, USA (Matt Perrine
   origin); New Orleans, Louisiana, USA (primary base)
 primary_source: perplexity
 research_sources:
-- https://www.imdb.com/name/nm3615772/
-- https://thefunkyuncle.live/artist/debbie-davis-matt-perrine/
-- https://www.uno.edu/profile/faculty/matt_perrine
-- https://www.offbeat.com/articles/matt-perrine-and-debbie-davis-the-couple-that-plays-together/
-- https://www.youtube.com/watch?v=Aq1DKFDJ7TY
-- https://www.tradjazzcamp.com/faculty/instruments/bass/2/
+  - 'https://www.imdb.com/name/nm3615772/'
+  - 'https://thefunkyuncle.live/artist/debbie-davis-matt-perrine/'
+  - 'https://www.uno.edu/profile/faculty/matt_perrine'
+  - >-
+    https://www.offbeat.com/articles/matt-perrine-and-debbie-davis-the-couple-that-plays-together/
+  - 'https://www.youtube.com/watch?v=Aq1DKFDJ7TY'
+  - 'https://www.tradjazzcamp.com/faculty/instruments/bass/2/'
 spotify_data:
   followers: 2692
   id: 6z40yL5DM6MM4LU5f9CpfX
   popularity: 46
-  url: https://open.spotify.com/artist/6z40yL5DM6MM4LU5f9CpfX
+  url: 'https://open.spotify.com/artist/6z40yL5DM6MM4LU5f9CpfX'
 status: active
-title: Matt Perrine, Debbie Davis
+title: 'Matt Perrine, Debbie Davis'
+birth_place: 'Queens, New York, United States'
+birth_date: '1974-01-05'
+artist_type: person
 ---
 
 ![](matt_perrine_debbie_davis.jpg)

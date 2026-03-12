@@ -4,7 +4,7 @@ wiki_slug: khruangbin-leon-bridges
 schema_version: 2
 status: active
 genres:
-- neo-psychedelic
+  - neo-psychedelic
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/khruangbin_and_leon_bridges.jpg
   caption: Khruangbin & Leon Bridges
@@ -24,46 +24,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Leon Bridges
-  - Paul McCartney
-  - Vieux Farka Touré
-  - Wu-Tang Clan
-  - Childish Gambino
+    - Leon Bridges
+    - Paul McCartney
+    - Vieux Farka Touré
+    - Wu-Tang Clan
+    - Childish Gambino
   influenced: []
   mentors:
-  - Mark Speer
+    - Mark Speer
 spotify_data:
   followers: 2214818
   id: 2mVVjNmdjXZZDvhgQWiakk
   popularity: 72
-  url: https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk
+  url: 'https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk'
 discography_enriched: true
 top_tracks:
-- Texas Sun
-- Mariella
-- May Ninth (A LA SALA)
-- People Everywhere (Still Alive) (The Universe Smiles Upon You)
-- White Gloves (The Universe Smiles Upon You)
-- B-Side
-- So We Won't Forget (Mordechai)
-- Time (You and I) (Mordechai)
-- Midnight
-- Pon Pón (A LA SALA)
+  - Texas Sun
+  - Mariella
+  - May Ninth (A LA SALA)
+  - People Everywhere (Still Alive) (The Universe Smiles Upon You)
+  - White Gloves (The Universe Smiles Upon You)
+  - B-Side
+  - So We Won't Forget (Mordechai)
+  - Time (You and I) (Mordechai)
+  - Midnight
+  - Pon Pón (A LA SALA)
 external_urls:
-  spotify: https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk
+  spotify: 'https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/khruangbin_and_leon_bridges.jpg
 biography_enhanced_at: '2025-12-17T02:18:15.623443'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.harpersbazaar.com/culture/art-books-music/a39265549/khruangbin-laura-lee-leon-bridges-texas-moon-interview/
-- https://www.chron.com/culture/article/khruangbin-band-collaborations-19821479.php
-- https://atwoodmagazine.com/tmklb-khruangbin-leon-bridges-texas-moon-review-2022/
+  - >-
+    https://www.harpersbazaar.com/culture/art-books-music/a39265549/khruangbin-laura-lee-leon-bridges-texas-moon-interview/
+  - >-
+    https://www.chron.com/culture/article/khruangbin-band-collaborations-19821479.php
+  - >-
+    https://atwoodmagazine.com/tmklb-khruangbin-leon-bridges-texas-moon-review-2022/
 network_extracted: true
 entry_created: '2025-12-17T02:18:15.623458'
 last_updated: '2025-12-23T08:16:11.345857'
-origin: Houston and Fort Worth, Texas, USA
+origin: 'Houston and Fort Worth, Texas, USA'
+birth_place: 'Fort Worth, Texas, United States'
+artist_type: band
 ---
 
 ![](khruangbin_and_leon_bridges.jpg)

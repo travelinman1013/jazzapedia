@@ -1,69 +1,70 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-02T01:27:10.798733'
 birth_date: '2004'
 enhancement_provider: perplexity
 entry_created: '2026-01-02T01:27:10.798738'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1a4c8b49-4a55-4299-b1c8-82e33e319f33
-  spotify: https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K
-  wikipedia: https://en.wikipedia.org/wiki/Lee_Fields
+  musicbrainz: 'https://musicbrainz.org/artist/1a4c8b49-4a55-4299-b1c8-82e33e319f33'
+  spotify: 'https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lee_Fields'
 genres:
-- retro soul
-- soul
-image_path: 03_Resources/source_material/ArtistPortraits/lee_fields_and_the_expressions.jpg
+  - retro soul
+  - soul
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/lee_fields_and_the_expressions.jpg
 instruments:
-- eponymous
-- lead vocals
-- original
-last_updated: '2026-01-02T01:27:10.798739'
-members:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - lead vocals
   - original
-  mbid: 21a6802c-9700-4ab1-be86-ce9d225ace43
-  name: Lee Fields
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9a3b83a9-b245-4e85-9c0f-3fff2219bd9e
-  name: Homer Steinweiss
+last_updated: '2026-01-02T01:27:10.798739'
+members:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - lead vocals
+      - original
+    mbid: 21a6802c-9700-4ab1-be86-ce9d225ace43
+    name: Lee Fields
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9a3b83a9-b245-4e85-9c0f-3fff2219bd9e
+    name: Homer Steinweiss
 musical_connections:
   collaborators:
-  - Sammy Gordon and the Hip Huggers
-  - Gabriel Roth
-  - Leon Michels
-  - The Expressions
-  - Martin Solveig
-  - Kool & the Gang
+    - Sammy Gordon and the Hip Huggers
+    - Gabriel Roth
+    - Leon Michels
+    - The Expressions
+    - Martin Solveig
+    - Kool & the Gang
   influenced:
-  - Sharon Jones, Charles Bradley
-  - J. Cole, A$AP Rocky
+    - 'Sharon Jones, Charles Bradley'
+    - 'J. Cole, A$AP Rocky'
   mentors:
-  - James Brown
-  - Kip Anderson
-  - Harry Redd
+    - James Brown
+    - Kip Anderson
+    - Harry Redd
 musicbrainz_id: 1a4c8b49-4a55-4299-b1c8-82e33e319f33
 network_extracted: true
-origin: Wilson, North Carolina, USA
+origin: 'Wilson, North Carolina, USA'
 primary_source: perplexity
 research_sources:
-- https://www.leefieldsandtheexpressions.com/info/
-- https://en.wikipedia.org/wiki/Lee_Fields
-- http://leefieldsandtheexpressions.com/biography/
-- https://thestatetheatre.org/events/lee-fields/
-- https://www.wunc.org/wunc-music/2025-08-05/in-conversation-lee-fields
+  - 'https://www.leefieldsandtheexpressions.com/info/'
+  - 'https://en.wikipedia.org/wiki/Lee_Fields'
+  - 'http://leefieldsandtheexpressions.com/biography/'
+  - 'https://thestatetheatre.org/events/lee-fields/'
+  - 'https://www.wunc.org/wunc-music/2025-08-05/in-conversation-lee-fields'
 spotify_data:
   followers: 160158
   id: 2bToe6WyGvADJftreuXh2K
   popularity: 44
-  url: https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K
+  url: 'https://open.spotify.com/artist/2bToe6WyGvADJftreuXh2K'
 status: active
 title: Lee Fields & the Expressions
-
+birth_place: 'Wilson, North Carolina, United States'
 ---
 
 ![](lee_fields_and_the_expressions.jpg)

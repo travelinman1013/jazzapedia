@@ -1,5 +1,5 @@
 ---
-title: el deorazio
+title: El Deorazio
 wiki_slug: el-deorazio
 schema_version: 2
 status: active
@@ -25,20 +25,22 @@ spotify_data:
   followers: 1
   id: 1hbtef29pjh3B1kuv1uEMO
   popularity: 0
-  url: https://open.spotify.com/artist/1hbtef29pjh3B1kuv1uEMO
+  url: 'https://open.spotify.com/artist/1hbtef29pjh3B1kuv1uEMO'
 discography_enriched: false
 external_urls:
-  spotify: https://open.spotify.com/artist/1hbtef29pjh3B1kuv1uEMO
+  spotify: 'https://open.spotify.com/artist/1hbtef29pjh3B1kuv1uEMO'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/el_deorazio.jpg
 biography_enhanced_at: '2025-11-29T06:56:09.949199'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Spotify (artist profile with 0 popularity)
+  - Spotify (artist profile with 0 popularity)
 network_extracted: true
 entry_created: '2025-11-29T06:56:09.949210'
 last_updated: '2025-12-23T08:07:25.719478'
+origin: Unknown
+artist_type: person
 ---
 
 ![](el_deorazio.jpg)

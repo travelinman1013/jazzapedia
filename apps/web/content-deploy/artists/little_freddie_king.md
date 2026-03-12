@@ -6,24 +6,24 @@ status: active
 birth_name: Fread Eugene Martin
 aliases: []
 birth_date: '1940-07-19'
-birth_place: McComb, Mississippi, USA
+birth_place: 'McComb, Mississippi, United States'
 years_active: Mid 1950s–present
 genres:
-- blues
+  - blues
 instruments:
-- guitar
-- voice
+  - guitar
+  - voice
 occupation:
-- singer
+  - singer
 record_labels:
-- Fat Possum Records
+  - Fat Possum Records
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Little_Freddie_King.jpg
   caption: Little Freddie King
   background: solo_singer
   birth_name: Fread Eugene Martin
   born: '1940-07-19'
-  origin: McComb, Mississippi, USA
+  origin: 'McComb, Mississippi, USA'
 audio_profile:
   tempo_avg: 124.6
   energy_avg: 0.427
@@ -39,54 +39,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Wacko Wade Wright
-  - Anthony 'Sheets' Anderson
-  - Bobby 'ClamBake' Louis
+    - Wacko Wade Wright
+    - Anthony 'Sheets' Anderson
+    - Bobby 'ClamBake' Louis
   influenced:
-  - Jon Batiste
+    - Jon Batiste
   mentors:
-  - Jessie James Martin
-  - Lightnin’ Hopkins
+    - Jessie James Martin
+    - Lightnin’ Hopkins
 related_artists: []
 spotify_data:
   followers: 4703
   id: 5G8lbAyPWi9qligrwWMmY5
   popularity: 15
-  url: https://open.spotify.com/artist/5G8lbAyPWi9qligrwWMmY5
+  url: 'https://open.spotify.com/artist/5G8lbAyPWi9qligrwWMmY5'
   verified: false
 discography_enriched: true
 albums_count: 13
 singles_count: 1
 top_tracks:
-- I Used To Be Down (I Use To Be Down)
-- The Things I Used To Do (Messin' Around Tha House)
-- Pocket Full of Money (Chasing tha Blues)
-- Crack Head Joe (You Don't Know What I Know)
-- Fowl Play (feat. Little Freddie King) (Song For The Sinners)
-- Three O'Clock Blues (Things I Used to Do)
-- Going Up The Mountain (I Use To Be Down)
-- Standing At Your Door (I Use To Be Down)
-- I Got the Blues (The Mighty Flood)
-- Standin At Yo' Door (Chasing tha Blues)
+  - I Used To Be Down (I Use To Be Down)
+  - The Things I Used To Do (Messin' Around Tha House)
+  - Pocket Full of Money (Chasing tha Blues)
+  - Crack Head Joe (You Don't Know What I Know)
+  - Fowl Play (feat. Little Freddie King) (Song For The Sinners)
+  - Three O'Clock Blues (Things I Used to Do)
+  - Going Up The Mountain (I Use To Be Down)
+  - Standing At Your Door (I Use To Be Down)
+  - I Got the Blues (The Mighty Flood)
+  - Standin At Yo' Door (Chasing tha Blues)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/5G8lbAyPWi9qligrwWMmY5
-  wikipedia: https://en.wikipedia.org/wiki/Little_Freddie_King
+  spotify: 'https://open.spotify.com/artist/5G8lbAyPWi9qligrwWMmY5'
+  wikipedia: 'https://en.wikipedia.org/wiki/Little_Freddie_King'
 image_path: 03_Resources/source_material/ArtistPortraits/Little_Freddie_King.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:29:48.076954'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.musicmaker.org/artist/little-freddie-king/
-- https://www.namm.org/library/oral-history/little-freddie-king
-- https://www.musicmaker.org/stories/a-dose-of-blues-medicine-from-dr-bones/
-- https://www.stlblues.net/kim_freddieking.htm
-- https://downbeat.com/news/detail/the-many-lives-of-little-freddie-king-new-orleans-blues-royalty
+  - 'https://www.musicmaker.org/artist/little-freddie-king/'
+  - 'https://www.namm.org/library/oral-history/little-freddie-king'
+  - 'https://www.musicmaker.org/stories/a-dose-of-blues-medicine-from-dr-bones/'
+  - 'https://www.stlblues.net/kim_freddieking.htm'
+  - >-
+    https://downbeat.com/news/detail/the-many-lives-of-little-freddie-king-new-orleans-blues-royalty
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 11:49:41.943890
+entry_created: 2025-09-18T11:49:41.943Z
 last_updated: '2025-12-23T08:16:12.011048'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](Little_Freddie_King.jpg)

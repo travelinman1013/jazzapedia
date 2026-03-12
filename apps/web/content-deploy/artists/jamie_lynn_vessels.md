@@ -1,41 +1,42 @@
 ---
 artist_type: person
 biography_enhanced_at: '2025-12-27T01:27:55.473566'
-birth_place: New Orleans
+birth_place: 'New Orleans, Louisiana, United States'
 disambiguation: New Orleans roots rock
 enhancement_provider: perplexity
 entry_created: '2025-12-27T01:27:55.473576'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b781fb05-8b98-4742-a57f-8d6e7fe8ee93
-  spotify: https://open.spotify.com/artist/5NuuEmgABHWNUTy5vEQeFv
+  musicbrainz: 'https://musicbrainz.org/artist/b781fb05-8b98-4742-a57f-8d6e7fe8ee93'
+  spotify: 'https://open.spotify.com/artist/5NuuEmgABHWNUTy5vEQeFv'
   wikipedia: ''
 genres:
-- blues rock
+  - blues rock
 image_path: 03_Resources/source_material/ArtistPortraits/jamie_lynn_vessels.jpg
 last_updated: '2025-12-27T01:27:55.473578'
 musical_connections:
   collaborators:
-  - Core band (three players)
-  - Maid of Orleans
-  - N.O.B.A.B.E.
+    - Core band (three players)
+    - Maid of Orleans
+    - N.O.B.A.B.E.
   influenced: []
   mentors:
-  - Unnamed guitar teacher
+    - Unnamed guitar teacher
 musicbrainz_id: b781fb05-8b98-4742-a57f-8d6e7fe8ee93
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://jamielynnvessels.com/about
-- https://www.wwoz.org/blog/600691
-- https://tunetrax.com/jamie-lynn-vessels
-- https://www.reverbnation.com/jamielynnvessels
+  - 'https://jamielynnvessels.com/about'
+  - 'https://www.wwoz.org/blog/600691'
+  - 'https://tunetrax.com/jamie-lynn-vessels'
+  - 'https://www.reverbnation.com/jamielynnvessels'
 spotify_data:
   followers: 561
   id: 5NuuEmgABHWNUTy5vEQeFv
   popularity: 1
-  url: https://open.spotify.com/artist/5NuuEmgABHWNUTy5vEQeFv
+  url: 'https://open.spotify.com/artist/5NuuEmgABHWNUTy5vEQeFv'
 status: active
-title: jamie lynn vessels
+title: Jamie Lynn Vessels
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](jamie_lynn_vessels.jpg)

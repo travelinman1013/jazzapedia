@@ -4,33 +4,34 @@ wiki_slug: jason-marsalis-vibes-quartet
 schema_version: 2
 status: deceased
 also_known_as:
-- Hemp
-- Esztelen Lionel
+  - Hemp
+  - Esztelen Lionel
 aliases:
-- Hemp
-- Esztelen Lionel
-birth_date: '1908-04-20'
-birth_place: Louisville
+  - Hemp
+  - Esztelen Lionel
+birth_date: '1977-04-20'
+birth_place: 'New Orleans, Louisiana, United States'
 death_date: '2002-08-31'
 years_active: 1927–2002
 genres: []
 instruments:
-- vibraphone
-- percussion instrument
-- voice
-- drum kit
-- piano
+  - vibraphone
+  - percussion instrument
+  - voice
+  - drum kit
+  - piano
 occupation:
-- bandleader
-- saxophonist
-- composer
-- jazz musician
-- actor
+  - bandleader
+  - saxophonist
+  - composer
+  - jazz musician
+  - actor
 record_labels:
-- Decca
-- Audio Fidelity
+  - Decca
+  - Audio Fidelity
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/Jason_Marsalis_Vibes_Quartet.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/Jason_Marsalis_Vibes_Quartet.jpg
   caption: Jason Marsalis Vibes Quartet
   background: solo_singer
   born: '1908-04-20'
@@ -51,58 +52,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Austin Johnson
-  - Will Goble
-  - Dave Potter
-  - Shannon Powell
-  - Herlin Riley
-  - Snarky Puppy
+    - Austin Johnson
+    - Will Goble
+    - Dave Potter
+    - Shannon Powell
+    - Herlin Riley
+    - Snarky Puppy
   influenced:
-  - Students at New Orleans Center for Creative Arts (NOCCA)
+    - Students at New Orleans Center for Creative Arts (NOCCA)
   mentors:
-  - Ellis Marsalis Jr.
-  - Marcus Roberts
-  - Lionel Hampton
+    - Ellis Marsalis Jr.
+    - Marcus Roberts
+    - Lionel Hampton
 related_artists: []
 spotify_data:
   followers: 363
   id: 5VrPHzOIeluaWDdnlMs8hG
   popularity: 8
-  url: https://open.spotify.com/artist/5VrPHzOIeluaWDdnlMs8hG
+  url: 'https://open.spotify.com/artist/5VrPHzOIeluaWDdnlMs8hG'
   verified: false
 discography_enriched: true
 albums_count: 2
 singles_count: 0
 top_tracks:
-- Love Always Comes as a Surprise - Bonus Track (The 21st Century Trad Band)
-- Blues for Now (The 21st Century Trad Band)
-- Blues for the 29%ers (In A World of Mallets)
-- 'Whistle for Willie (Basin Street Records Presents: A Musical Celebration of New Orleans)'
-- Discipline Meets the Offbeat One (The 21st Century Trad Band)
-- Offbeat Personality (The 21st Century Trad Band)
-- The Man with Two Left Feet (The 21st Century Trad Band)
-- Nights in Brooklyn (The 21st Century Trad Band)
-- 18th Letter of Silence (The 21st Century Trad Band)
-- Interzone (The 21st Century Trad Band)
+  - Love Always Comes as a Surprise - Bonus Track (The 21st Century Trad Band)
+  - Blues for Now (The 21st Century Trad Band)
+  - Blues for the 29%ers (In A World of Mallets)
+  - >-
+    Whistle for Willie (Basin Street Records Presents: A Musical Celebration of
+    New Orleans)
+  - Discipline Meets the Offbeat One (The 21st Century Trad Band)
+  - Offbeat Personality (The 21st Century Trad Band)
+  - The Man with Two Left Feet (The 21st Century Trad Band)
+  - Nights in Brooklyn (The 21st Century Trad Band)
+  - 18th Letter of Silence (The 21st Century Trad Band)
+  - Interzone (The 21st Century Trad Band)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/5VrPHzOIeluaWDdnlMs8hG
-  wikipedia: https://en.wikipedia.org/wiki/Jason_Marsalis
+  spotify: 'https://open.spotify.com/artist/5VrPHzOIeluaWDdnlMs8hG'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jason_Marsalis'
 image_path: 03_Resources/source_material/ArtistPortraits/Jason_Marsalis_Vibes_Quartet.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:18:09.167573'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://jasonmarsalis.com/about/biography/
-- https://en.wikipedia.org/wiki/Jason_Marsalis
-- https://my.jazzstl.org/1942
-- https://artsmania.ca/2014/04/30/interview-with-jason-marsalis/
+  - 'http://jasonmarsalis.com/about/biography/'
+  - 'https://en.wikipedia.org/wiki/Jason_Marsalis'
+  - 'https://my.jazzstl.org/1942'
+  - 'https://artsmania.ca/2014/04/30/interview-with-jason-marsalis/'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:53:46.964297
+entry_created: 2025-09-22T21:53:46.964Z
 last_updated: '2025-12-23T08:16:02.331780'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+is_active: false
+artist_type: person
 ---
 
 ![](Jason_Marsalis_Vibes_Quartet.jpg)

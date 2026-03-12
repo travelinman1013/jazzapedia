@@ -4,42 +4,47 @@ biography_enhanced_at: '2026-01-15T01:18:55.202692'
 enhancement_provider: perplexity
 entry_created: '2026-01-15T01:18:55.202713'
 external_urls:
-  spotify: https://open.spotify.com/artist/4xQ8GuCVta7VBOQelWUyDU
-  wikipedia: https://en.wikipedia.org/wiki/Jimmy_Blythe
+  spotify: 'https://open.spotify.com/artist/4xQ8GuCVta7VBOQelWUyDU'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jimmy_Blythe'
 genres:
-- ragtime
+  - ragtime
 image_path: ''
 is_active: true
 last_updated: '2026-01-15T01:18:55.202714'
 musical_connections:
   collaborators:
-  - Johnny Dodds
-  - Jasper Taylor
-  - Trixie Smith
-  - Alex J. Robinson
-  - Aletha Dickerson
+    - Johnny Dodds
+    - Jasper Taylor
+    - Trixie Smith
+    - Alex J. Robinson
+    - Aletha Dickerson
   influenced:
-  - Clarence 'Pine Top' Smith
-  - Albert Ammons
+    - Clarence 'Pine Top' Smith
+    - Albert Ammons
   mentors:
-  - Clarence M. Jones
+    - Clarence M. Jones
 network_extracted: true
-origin: Lexington, Kentucky, USA
+origin: 'Chicago, Illinois, United States'
 primary_source: perplexity
 research_sources:
-- http://ragpiano.com/comps/jblythe.shtml
-- https://fromthevaults-boppinbob.blogspot.com/2018/05/jimmy-blythe-born-20-may-1901.html
-- https://en.wikipedia.org/wiki/Jimmy_Blythe
-- https://syncopatedtimes.com/blythes-washboard-ragamuffins/
-- http://puppydogmusic.blogspot.com/2011/04/james-jimmy-blythe-where-have-you-been.html
-- https://syncopatedtimes.com/jimmy-blythe-1901-1931/
+  - 'http://ragpiano.com/comps/jblythe.shtml'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2018/05/jimmy-blythe-born-20-may-1901.html
+  - 'https://en.wikipedia.org/wiki/Jimmy_Blythe'
+  - 'https://syncopatedtimes.com/blythes-washboard-ragamuffins/'
+  - >-
+    http://puppydogmusic.blogspot.com/2011/04/james-jimmy-blythe-where-have-you-been.html
+  - 'https://syncopatedtimes.com/jimmy-blythe-1901-1931/'
 spotify_data:
   followers: 16
   id: 4xQ8GuCVta7VBOQelWUyDU
   popularity: 0
-  url: https://open.spotify.com/artist/4xQ8GuCVta7VBOQelWUyDU
+  url: 'https://open.spotify.com/artist/4xQ8GuCVta7VBOQelWUyDU'
 status: active
-title: BLYTHE'S WASHBOARD BAND
+title: Blythe's Washboard Band
+birth_place: 'Lexington, Kentucky, United States'
+birth_date: '1901-05-20'
+death_date: '1931-06-14'
 ---
 
 ![]()

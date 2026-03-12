@@ -4,13 +4,14 @@ wiki_slug: captain-beefheart-the-magic-band
 schema_version: 2
 status: active
 genres:
-- proto-punk
-- psychedelic rock
-- art rock
-- acid rock
-- avant-garde
+  - proto-punk
+  - psychedelic rock
+  - art rock
+  - acid rock
+  - avant-garde
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/captain_beefheart_and_the_magic_band.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/captain_beefheart_and_the_magic_band.jpg
   caption: Captain Beefheart & The Magic Band
   background: solo_singer
 audio_profile:
@@ -28,49 +29,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Frank Zappa
-  - Ry Cooder
-  - John French (Drumbo)
-  - Bill Harkleroad (Zoot Horn Rollo)
+    - Frank Zappa
+    - Ry Cooder
+    - John French (Drumbo)
+    - Bill Harkleroad (Zoot Horn Rollo)
   influenced:
-  - The Clash
-  - Devo
-  - Tom Waits
+    - The Clash
+    - Devo
+    - Tom Waits
   mentors:
-  - Howlin' Wolf
-  - Frank Zappa
+    - Howlin' Wolf
+    - Frank Zappa
 spotify_data:
   followers: 218550
   id: 2k8kY9zHUWxuTtwV4UutHw
   popularity: 40
-  url: https://open.spotify.com/artist/2k8kY9zHUWxuTtwV4UutHw
+  url: 'https://open.spotify.com/artist/2k8kY9zHUWxuTtwV4UutHw'
 discography_enriched: true
 top_tracks:
-- I'm Glad (Safe As Milk)
-- Her Eyes Are a Blue Million Miles (Clear Spot)
-- My Head Is My Only House Unless It Rains (Clear Spot)
-- Sure 'Nuff 'n' Yes, I Do (Safe As Milk)
-- Zig Zag Wanderer (Safe As Milk)
-- Too Much Time (Clear Spot)
-- Observatory Crest (Blue Jeans And Moonbeams)
-- Electricity (Safe As Milk)
-- Diddy Wah Diddy
-- Abba Zaba (Safe As Milk)
+  - I'm Glad (Safe As Milk)
+  - Her Eyes Are a Blue Million Miles (Clear Spot)
+  - My Head Is My Only House Unless It Rains (Clear Spot)
+  - 'Sure ''Nuff ''n'' Yes, I Do (Safe As Milk)'
+  - Zig Zag Wanderer (Safe As Milk)
+  - Too Much Time (Clear Spot)
+  - Observatory Crest (Blue Jeans And Moonbeams)
+  - Electricity (Safe As Milk)
+  - Diddy Wah Diddy
+  - Abba Zaba (Safe As Milk)
 external_urls:
-  spotify: https://open.spotify.com/artist/2k8kY9zHUWxuTtwV4UutHw
-  wikipedia: https://en.wikipedia.org/wiki/Captain_Beefheart
-image_path: 03_Resources/source_material/ArtistPortraits/captain_beefheart_and_the_magic_band.jpg
+  spotify: 'https://open.spotify.com/artist/2k8kY9zHUWxuTtwV4UutHw'
+  wikipedia: 'https://en.wikipedia.org/wiki/Captain_Beefheart'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/captain_beefheart_and_the_magic_band.jpg
 biography_enhanced_at: '2025-10-26T12:35:05.686517'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Captain_Beefheart
-- https://www.britannica.com/biography/Captain-Beefheart
-- https://www.newnetherlandinstitute.org/history-and-heritage/dutch_americans/captain-beefheart-don-glen-van-vliet
+  - 'https://en.wikipedia.org/wiki/Captain_Beefheart'
+  - 'https://www.britannica.com/biography/Captain-Beefheart'
+  - >-
+    https://www.newnetherlandinstitute.org/history-and-heritage/dutch_americans/captain-beefheart-don-glen-van-vliet
 network_extracted: true
 entry_created: '2025-10-26T12:35:05.686526'
 last_updated: '2025-12-23T08:16:06.394606'
-origin: Glendale, California, United States
+origin: 'Glendale, California, United States'
+birth_place: 'Glendale, California, United States'
+birth_date: '1941-01-15'
+artist_type: person
 ---
 
 ![](captain_beefheart_and_the_magic_band.jpg)

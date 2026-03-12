@@ -3,17 +3,17 @@ title: Thelonius Monk
 wiki_slug: thelonius-monk
 schema_version: 2
 status: active
-birth_place: Rocky Mount, North Carolina, United States
+birth_place: 'Rocky Mount, North Carolina, United States'
 genres:
-- jazz
-- bebop
-- hard bop
-- cool jazz
+  - jazz
+  - bebop
+  - hard bop
+  - cool jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Thelonius_Monk.jpg
   caption: Thelonius Monk
   background: solo_singer
-  origin: Rocky Mount, North Carolina, United States
+  origin: 'Rocky Mount, North Carolina, United States'
 audio_profile:
   tempo_avg: 108.7
   energy_avg: 0.33
@@ -29,51 +29,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Coleman Hawkins
-  - Charlie Parker
-  - Dizzy Gillespie
-  - Miles Davis
-  - John Coltrane
+    - Coleman Hawkins
+    - Charlie Parker
+    - Dizzy Gillespie
+    - Miles Davis
+    - John Coltrane
   influenced:
-  - John Coltrane
-  - Herbie Hancock
-  - Cecil Taylor
+    - John Coltrane
+    - Herbie Hancock
+    - Cecil Taylor
   mentors:
-  - James P. Johnson
-  - Mary Lou Williams
+    - James P. Johnson
+    - Mary Lou Williams
 spotify_data:
   followers: 725351
   id: 4PDpGtF16XpqvXxsrFwQnN
   popularity: 50
-  url: https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN
+  url: 'https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN'
 discography_enriched: true
 top_tracks:
-- '''Round Midnight (Genius Of Modern Music (Vol.1, Expanded Edition))'
-- I'm Confessin' (That I Love You) (Solo Monk (Expanded Edition))
-- Straight, No Chaser (Straight, No Chaser)
-- Ruby, My Dear (Thelonious Monk with John Coltrane (OJC Remaster))
-- Monk's Dream - Take 8 (Monk's Dream)
-- Blue Monk - Rudy Van Gelder Remaster (Thelonious Monk)
-- Ruby, My Dear (Genius Of Modern Music (Vol.1, Expanded Edition))
-- Body and Soul (Monk's Dream)
-- Caravan (Plays Duke Ellington (Keepnews Collection))
-- Leap Frog - Take 11 / Take 6 / Master Take (Bird And Diz (Expanded Edition))
+  - '''Round Midnight (Genius Of Modern Music (Vol.1, Expanded Edition))'
+  - I'm Confessin' (That I Love You) (Solo Monk (Expanded Edition))
+  - 'Straight, No Chaser (Straight, No Chaser)'
+  - 'Ruby, My Dear (Thelonious Monk with John Coltrane (OJC Remaster))'
+  - Monk's Dream - Take 8 (Monk's Dream)
+  - Blue Monk - Rudy Van Gelder Remaster (Thelonious Monk)
+  - 'Ruby, My Dear (Genius Of Modern Music (Vol.1, Expanded Edition))'
+  - Body and Soul (Monk's Dream)
+  - Caravan (Plays Duke Ellington (Keepnews Collection))
+  - Leap Frog - Take 11 / Take 6 / Master Take (Bird And Diz (Expanded Edition))
 external_urls:
-  spotify: https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN
-  wikipedia: https://en.wikipedia.org/wiki/Thelonious_Monk
+  spotify: 'https://open.spotify.com/artist/4PDpGtF16XpqvXxsrFwQnN'
+  wikipedia: 'https://en.wikipedia.org/wiki/Thelonious_Monk'
 image_path: 03_Resources/source_material/ArtistPortraits/Thelonius_Monk.jpg
 biography_enhanced_at: '2025-10-19T11:27:44.789578'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- National Jazz Archive[1]
-- Biography.com[2]
-- Wise Music Classical[3]
-- Wikipedia[4]
+  - 'National Jazz Archive[1]'
+  - 'Biography.com[2]'
+  - 'Wise Music Classical[3]'
+  - 'Wikipedia[4]'
 network_extracted: true
 entry_created: '2025-10-19T11:27:44.789587'
 last_updated: '2025-12-23T08:16:04.152797'
-
+artist_type: person
 ---
 
 ![](Thelonius_Monk.jpg)

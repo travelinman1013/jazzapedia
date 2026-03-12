@@ -1,14 +1,14 @@
 ---
-title: bright light quartet
+title: Bright Light Quartet
 wiki_slug: bright-light-quartet
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- country blues
-- classic blues
+  - country blues
+  - classic blues
 instruments:
-- guitar
+  - guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bright_light_quartet.jpg
   caption: bright light quartet
@@ -28,39 +28,42 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lawrence Hodge
-  - Arnold Fisher
+    - Lawrence Hodge
+    - Arnold Fisher
   influenced:
-  - Ethnomusicologists and folk revivalists
+    - Ethnomusicologists and folk revivalists
   mentors:
-  - Alan Lomax
+    - Alan Lomax
 spotify_data:
   followers: 69
   id: 2x829jerWDZlOEWBMpRvZD
   popularity: 0
-  url: https://open.spotify.com/artist/2x829jerWDZlOEWBMpRvZD
+  url: 'https://open.spotify.com/artist/2x829jerWDZlOEWBMpRvZD'
 discography_enriched: true
 top_tracks:
-- 'I''m Tired - Remastered (Worried Now, Won''t Be Worried Long: Alan Lomax’s "Southern Journey," 1959–1960)'
-- 'Chantey medley (I''m Gonna Live Anyhow Until I Die: Alan Lomax’s "Southern Journey," 1959–1960)'
-- 'I''m Tired (Sacred Songs Vol. 2: Soon One Morning)'
-- 'The Christian Automobile (Sacred Songs Vol. 2: Soon One Morning)'
+  - >-
+    I'm Tired - Remastered (Worried Now, Won't Be Worried Long: Alan Lomax’s
+    "Southern Journey," 1959–1960)
+  - >-
+    Chantey medley (I'm Gonna Live Anyhow Until I Die: Alan Lomax’s "Southern
+    Journey," 1959–1960)
+  - 'I''m Tired (Sacred Songs Vol. 2: Soon One Morning)'
+  - 'The Christian Automobile (Sacred Songs Vol. 2: Soon One Morning)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/88c794d3-eca7-46ec-830e-307abb416d1a
-  spotify: https://open.spotify.com/artist/2x829jerWDZlOEWBMpRvZD
+  musicbrainz: 'https://musicbrainz.org/artist/88c794d3-eca7-46ec-830e-307abb416d1a'
+  spotify: 'https://open.spotify.com/artist/2x829jerWDZlOEWBMpRvZD'
   wikipedia: null
 image_path: ''
 biography_enhanced_at: '2025-10-24T07:49:08.768576'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://archive.culturalequity.org/group/bright-light-quartet
+  - 'https://archive.culturalequity.org/group/bright-light-quartet'
 network_extracted: true
 entry_created: '2025-10-24T07:49:08.768586'
 last_updated: '2025-12-23T08:16:06.098070'
 musicbrainz_id: 88c794d3-eca7-46ec-830e-307abb416d1a
 origin: Southern United States (exact location unspecified in available sources)
-
 ---
 
 ![]()

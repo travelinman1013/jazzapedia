@@ -4,8 +4,8 @@ wiki_slug: lil-bob-and-the-lollipops
 schema_version: 2
 status: active
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lil_bob_and_the_lollipops.jpg
   caption: Lil' Bob and the Lollipops
@@ -17,7 +17,7 @@ audio_profile:
   danceability_avg: 0.595
   acousticness_avg: 0.562
   instrumentalness_avg: 0.14
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.078
   liveness_avg: 0.191
   track_count: 20
@@ -25,46 +25,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Lollipops
+    - The Lollipops
   influenced:
-  - Southwest Louisiana R&B and swamp pop musicians
+    - Southwest Louisiana R&B and swamp pop musicians
   mentors:
-  - B.B. King
+    - B.B. King
 spotify_data:
   followers: 2239
   id: 5SMyC60yLXSiiGSbN3Xad0
   popularity: 21
-  url: https://open.spotify.com/artist/5SMyC60yLXSiiGSbN3Xad0
+  url: 'https://open.spotify.com/artist/5SMyC60yLXSiiGSbN3Xad0'
 discography_enriched: true
 top_tracks:
-- Nobody but You (Swamp Gold, Vol. 4)
-- I Got Loaded (Swamp Gold, Vol. 1)
-- You Know It Ain't Right (Sweet Soul Swinger & The Jin Singles)
-- You're Pouring Water (Sweet Soul Swinger & The Jin Singles)
-- Who Needs You So Bad (Sweet Soul Swinger & The Jin Singles)
-- Sweet Soul Music (Sweet Soul Swinger & The Jin Singles)
-- You Know It Ain't Right (Swamp Gold, Vol. 5)
-- I Found Someone (Sweet Soul Swinger & The Jin Singles)
-- Everybody Needs Love (Love Makes The World Go 'Round) (Sweet Soul Swinger & The Jin Singles)
-- Keep On Trying (Sweet Soul Swinger & The Jin Singles)
+  - 'Nobody but You (Swamp Gold, Vol. 4)'
+  - 'I Got Loaded (Swamp Gold, Vol. 1)'
+  - You Know It Ain't Right (Sweet Soul Swinger & The Jin Singles)
+  - You're Pouring Water (Sweet Soul Swinger & The Jin Singles)
+  - Who Needs You So Bad (Sweet Soul Swinger & The Jin Singles)
+  - Sweet Soul Music (Sweet Soul Swinger & The Jin Singles)
+  - 'You Know It Ain''t Right (Swamp Gold, Vol. 5)'
+  - I Found Someone (Sweet Soul Swinger & The Jin Singles)
+  - >-
+    Everybody Needs Love (Love Makes The World Go 'Round) (Sweet Soul Swinger &
+    The Jin Singles)
+  - Keep On Trying (Sweet Soul Swinger & The Jin Singles)
 external_urls:
-  spotify: https://open.spotify.com/artist/5SMyC60yLXSiiGSbN3Xad0
-  wikipedia: https://en.wikipedia.org/wiki/Camille_Bob
+  spotify: 'https://open.spotify.com/artist/5SMyC60yLXSiiGSbN3Xad0'
+  wikipedia: 'https://en.wikipedia.org/wiki/Camille_Bob'
 image_path: 03_Resources/source_material/ArtistPortraits/lil_bob_and_the_lollipops.jpg
 biography_enhanced_at: '2025-11-12T14:46:49.429239'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Camille_Bob
-- https://www.legacy.com/us/obituaries/dailyworld/name/camille-bob-obituary?id=18590524
-- https://www.theadvertiser.com/story/entertainment/2015/07/07/friends-fans-recall-rb-legend-lil-bob/29836783/
-- https://wbssmedia.com/artists/detail/2762
-- https://southerngaragebands.com/littlebob.html
-- https://internetfm.com/song-of-the-day-i-got-loaded-by-little-bob-and-the-lollipops/
+  - 'https://en.wikipedia.org/wiki/Camille_Bob'
+  - >-
+    https://www.legacy.com/us/obituaries/dailyworld/name/camille-bob-obituary?id=18590524
+  - >-
+    https://www.theadvertiser.com/story/entertainment/2015/07/07/friends-fans-recall-rb-legend-lil-bob/29836783/
+  - 'https://wbssmedia.com/artists/detail/2762'
+  - 'https://southerngaragebands.com/littlebob.html'
+  - >-
+    https://internetfm.com/song-of-the-day-i-got-loaded-by-little-bob-and-the-lollipops/
 network_extracted: true
 entry_created: '2025-11-12T14:46:49.429249'
 last_updated: '2025-12-23T08:16:11.917590'
-origin: Arnaudville, Louisiana, USA
+origin: 'Arnaudville, Louisiana, USA'
+birth_place: 'Arnaudville, Louisiana, United States'
+birth_date: '1937-11-07'
+artist_type: band
 ---
 
 ![](lil_bob_and_the_lollipops.jpg)

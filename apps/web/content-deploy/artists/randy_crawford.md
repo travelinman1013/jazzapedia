@@ -2,53 +2,55 @@
 artist_type: person
 biography_enhanced_at: '2026-01-20T01:18:43.481879'
 birth_date: '1952-02-18'
-birth_place: Macon
+birth_place: 'Macon, Georgia, United States'
 disambiguation: US jazz/R&B singer Veronica Crawford
 enhancement_provider: perplexity
 entry_created: '2026-01-20T01:18:43.481886'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/614e392a-0d63-48a2-bbd5-03265c407bd1
-  spotify: https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz
-  wikipedia: https://en.wikipedia.org/wiki/Randy_Crawford
+  musicbrainz: 'https://musicbrainz.org/artist/614e392a-0d63-48a2-bbd5-03265c407bd1'
+  spotify: 'https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz'
+  wikipedia: 'https://en.wikipedia.org/wiki/Randy_Crawford'
 gender: Female
 genres:
-- classic soul
+  - classic soul
 image_path: 03_Resources/source_material/ArtistPortraits/randy_crawford.jpg
 instruments:
-- lead vocals
-- background vocals
+  - lead vocals
+  - background vocals
 last_updated: '2026-01-20T01:18:43.481886'
 musical_connections:
   collaborators:
-  - The Crusaders (Joe Sample, Wilton Felder, Stix Hooper)
-  - Joe Sample
-  - Bootsy Collins
-  - Rick Springfield
+    - 'The Crusaders (Joe Sample, Wilton Felder, Stix Hooper)'
+    - Joe Sample
+    - Bootsy Collins
+    - Rick Springfield
   influenced: []
   mentors:
-  - Cannonball Adderley
-  - Quincy Jones
-  - George Benson
+    - Cannonball Adderley
+    - Quincy Jones
+    - George Benson
 musicbrainz_id: 614e392a-0d63-48a2-bbd5-03265c407bd1
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://jointzoftheday.substack.com/p/randy-crawford-born-february-18-1952-singer
-- https://music.apple.com/ma/artist/randy-crawford/74188
-- https://en.wikipedia.org/wiki/Randy_Crawford
-- https://www.allaboutjazz.com/musicians/randy-crawford/
-- https://www.allmusic.com/artist/randy-crawford-mn0000333573
+  - >-
+    https://jointzoftheday.substack.com/p/randy-crawford-born-february-18-1952-singer
+  - 'https://music.apple.com/ma/artist/randy-crawford/74188'
+  - 'https://en.wikipedia.org/wiki/Randy_Crawford'
+  - 'https://www.allaboutjazz.com/musicians/randy-crawford/'
+  - 'https://www.allmusic.com/artist/randy-crawford-mn0000333573'
 spotify_data:
   followers: 390328
   id: 1twC2fwPG5FkvYcMpVBQRz
   popularity: 55
-  url: https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz
+  url: 'https://open.spotify.com/artist/1twC2fwPG5FkvYcMpVBQRz'
 status: active
 tags:
-- pop soul
-- quiet storm
-- smooth soul
+  - pop soul
+  - quiet storm
+  - smooth soul
 title: Randy Crawford
+origin: 'Cincinnati, Ohio, United States'
 ---
 
 ![](randy_crawford.jpg)

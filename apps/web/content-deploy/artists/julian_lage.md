@@ -1,51 +1,51 @@
 ---
-title: julian lage
+title: Julian Lage
 wiki_slug: julian-lage
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1987-12-25'
-birth_place: Santa Rosa
+birth_place: 'Santa Rosa, California, United States'
 genres:
-- jazz
+  - jazz
 instruments:
-- guitar
-- electric guitar
-- original
-- acoustic guitar
-- guitar family
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - guitar
-  mbid: abed1578-07f1-4d78-a359-310488677fae
-  name: The Nels Cline 4
-- begin: ''
-  end: ''
-  instruments:
   - electric guitar
-  mbid: abed1578-07f1-4d78-a359-310488677fae
-  name: The Nels Cline 4
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: 549b76cd-405e-4b0e-9676-eaac56812b8f
-  name: New Masada Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
   - original
-  mbid: 8f730bb1-8580-436c-a95e-b1a37cf4ea4a
-  name: Incerto
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: 30702212-351e-48e9-82a9-414d2437a6bd
-  name: New Electric Masada
+  - acoustic guitar
+  - guitar family
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: abed1578-07f1-4d78-a359-310488677fae
+    name: The Nels Cline 4
+  - begin: ''
+    end: ''
+    instruments:
+      - electric guitar
+    mbid: abed1578-07f1-4d78-a359-310488677fae
+    name: The Nels Cline 4
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 549b76cd-405e-4b0e-9676-eaac56812b8f
+    name: New Masada Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+      - original
+    mbid: 8f730bb1-8580-436c-a95e-b1a37cf4ea4a
+    name: Incerto
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 30702212-351e-48e9-82a9-414d2437a6bd
+    name: New Electric Masada
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/julian_lage.jpg
   caption: julian lage
@@ -67,61 +67,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Nels Cline
-  - Fred Hersch
-  - Jorge Roeder
-  - Dave King
-  - Chris Eldridge
-  - Gary Burton
-  - Bela Fleck
-  - Chris Thile
+    - Nels Cline
+    - Fred Hersch
+    - Jorge Roeder
+    - Dave King
+    - Chris Eldridge
+    - Gary Burton
+    - Bela Fleck
+    - Chris Thile
   influenced:
-  - Not specifically documented
+    - Not specifically documented
   mentors:
-  - Randy Vincent
-  - David Grisman
-  - Gary Burton
-  - Nels Cline
+    - Randy Vincent
+    - David Grisman
+    - Gary Burton
+    - Nels Cline
 spotify_data:
   followers: 146226
   id: 2TSuAchdgVzsAa9wDK1IeT
   popularity: 45
-  url: https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT
+  url: 'https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT'
 discography_enriched: true
 top_tracks:
-- Etude (Squint)
-- Day and Age (World's Fair)
-- People Tell Me / Les gens me disent (feat. Julian Lage) (Gabi Hartmann)
-- Nocturne (Arclight)
-- Another Half (KARPEH)
-- Nothing Happens Here
-- This World
-- Serenade (Speak To Me)
-- Omission (Speak To Me)
-- Ryland (World's Fair)
+  - Etude (Squint)
+  - Day and Age (World's Fair)
+  - People Tell Me / Les gens me disent (feat. Julian Lage) (Gabi Hartmann)
+  - Nocturne (Arclight)
+  - Another Half (KARPEH)
+  - Nothing Happens Here
+  - This World
+  - Serenade (Speak To Me)
+  - Omission (Speak To Me)
+  - Ryland (World's Fair)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c116b504-ce24-4264-96dc-d10a7458236f
-  spotify: https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT
+  musicbrainz: 'https://musicbrainz.org/artist/c116b504-ce24-4264-96dc-d10a7458236f'
+  spotify: 'https://open.spotify.com/artist/2TSuAchdgVzsAa9wDK1IeT'
   wikipedia: Not found in provided search results
 image_path: 03_Resources/source_material/ArtistPortraits/julian_lage.jpg
 biography_enhanced_at: '2025-10-29T16:56:24.602355'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- bluenote.com - Julian Lage Biography
-- newschool.edu - Julian Lage Faculty Profile
-- 'jazztimes.com - Julian Lage: The Guitar Natural'
-- detroitjazzfest.org - Julian Lage Artist Profile
-- julianlage.com - About
+  - bluenote.com - Julian Lage Biography
+  - newschool.edu - Julian Lage Faculty Profile
+  - 'jazztimes.com - Julian Lage: The Guitar Natural'
+  - detroitjazzfest.org - Julian Lage Artist Profile
+  - julianlage.com - About
 network_extracted: true
 entry_created: '2025-10-29T16:56:24.602369'
 last_updated: '2025-12-23T08:16:11.040815'
 gender: Male
 musicbrainz_id: c116b504-ce24-4264-96dc-d10a7458236f
 tags:
-- contemporary jazz
-- jazz
-- jazz fusion
+  - contemporary jazz
+  - jazz
+  - jazz fusion
+origin: 'New York, New York, United States'
 ---
 
 ![](julian_lage.jpg)

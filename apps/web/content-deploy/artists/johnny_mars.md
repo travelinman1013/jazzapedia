@@ -1,15 +1,15 @@
 ---
-title: JOHNNY MARS
+title: Johnny Mars
 wiki_slug: johnny-mars
 schema_version: 2
 status: active
-birth_place: Laurens, South Carolina, United States
+birth_place: 'Laurens, South Carolina, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/johnny_mars.jpg
   caption: JOHNNY MARS
   background: solo_singer
-  origin: Laurens, South Carolina, United States
+  origin: 'Laurens, South Carolina, United States'
 audio_profile:
   tempo_avg: 115.2
   energy_avg: 0.511
@@ -25,44 +25,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dan Kennedy
-  - Bill Martin
+    - Dan Kennedy
+    - Bill Martin
   influenced:
-  - Harmonica students and workshop participants (various, not individually documented)
+    - >-
+      Harmonica students and workshop participants (various, not individually
+      documented)
   mentors:
-  - Traditional electric blues and Chicago blues pioneers (e.g., Little Walter, Sonny Boy Williamson II, James Cotton) – inferred
+    - >-
+      Traditional electric blues and Chicago blues pioneers (e.g., Little
+      Walter, Sonny Boy Williamson II, James Cotton) – inferred
 spotify_data:
   followers: 154453
   id: 2bA2YuQk2ID3PWNXUhQrWS
   popularity: 51
-  url: https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS
+  url: 'https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS'
 discography_enriched: true
 top_tracks:
-- The Divine Chord (We Will Always Love You)
-- Build It Up
-- The Rest of My Life
-- Easy Money (Playland)
-- I'm Spider-Man
-- The Electro Suite
-- I'm Moving to England
-- New Town Velocity (The Messenger)
-- I Chose You
-- Interstellar Medley - Live (Live In Prague)
+  - The Divine Chord (We Will Always Love You)
+  - Build It Up
+  - The Rest of My Life
+  - Easy Money (Playland)
+  - I'm Spider-Man
+  - The Electro Suite
+  - I'm Moving to England
+  - New Town Velocity (The Messenger)
+  - I Chose You
+  - Interstellar Medley - Live (Live In Prague)
 external_urls:
-  spotify: https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS
+  spotify: 'https://open.spotify.com/artist/2bA2YuQk2ID3PWNXUhQrWS'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/johnny_mars.jpg
 biography_enhanced_at: '2025-12-09T04:46:24.141287'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Johnny Mars official site – biography page[3]
-- Johnny Mars official site – main site information about talks, gigs, and lessons[2]
-- Blues.gr Q&A interview with Johnny Mars[4]
-- AllMusic artist biography for Johnny Mars[6]
+  - 'Johnny Mars official site – biography page[3]'
+  - >-
+    Johnny Mars official site – main site information about talks, gigs, and
+    lessons[2]
+  - 'Blues.gr Q&A interview with Johnny Mars[4]'
+  - 'AllMusic artist biography for Johnny Mars[6]'
 network_extracted: true
 entry_created: '2025-12-09T04:46:24.141292'
 last_updated: '2025-12-23T08:16:10.867812'
+artist_type: person
 ---
 
 ![](johnny_mars.jpg)

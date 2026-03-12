@@ -2,18 +2,18 @@
 title: Helen Sung
 wiki_slug: helen-sung
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
-birth_place: Houston, Texas, United States
+birth_place: 'Houston, Texas, United States'
 genres:
-- electroclash
+  - electroclash
 instruments:
-- piano
+  - piano
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Helen_Sung.jpg
   caption: Helen Sung
   background: non_vocal_instrumentalist
-  origin: Houston, Texas, United States
+  origin: 'Houston, Texas, United States'
 audio_profile:
   tempo_avg: 140.5
   energy_avg: 0.73
@@ -29,41 +29,41 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ron Carter
-  - Regina Carter
-  - Terri Lyne Carrington
-  - Slide Hampton
-  - Jon Faddis
-  - T.S. Monk
+    - Ron Carter
+    - Regina Carter
+    - Terri Lyne Carrington
+    - Slide Hampton
+    - Jon Faddis
+    - T.S. Monk
   influenced:
-  - Students at Berklee College of Music
-  - Students at The Juilliard School
+    - Students at Berklee College of Music
+    - Students at The Juilliard School
   mentors:
-  - Herbie Hancock
-  - Wayne Shorter
-  - Clark Terry
+    - Herbie Hancock
+    - Wayne Shorter
+    - Clark Terry
 spotify_data:
   followers: 377
   id: 0lkAqBgn0EkeZSeeLiskIq
   popularity: 16
-  url: https://open.spotify.com/artist/0lkAqBgn0EkeZSeeLiskIq
+  url: 'https://open.spotify.com/artist/0lkAqBgn0EkeZSeeLiskIq'
 discography_enriched: true
 top_tracks:
-- Be Like You (This Sunrise Is Brutal)
-- The Break Up Song (This Sunrise Is Brutal)
-- big proverb (big proverb)
+  - Be Like You (This Sunrise Is Brutal)
+  - The Break Up Song (This Sunrise Is Brutal)
+  - big proverb (big proverb)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/90304b95-9153-4306-bfcf-7ce04a9dd10d
-  spotify: https://open.spotify.com/artist/0lkAqBgn0EkeZSeeLiskIq
-  wikipedia: https://en.wikipedia.org/wiki/Helen_Sung
+  musicbrainz: 'https://musicbrainz.org/artist/90304b95-9153-4306-bfcf-7ce04a9dd10d'
+  spotify: 'https://open.spotify.com/artist/0lkAqBgn0EkeZSeeLiskIq'
+  wikipedia: 'https://en.wikipedia.org/wiki/Helen_Sung'
 image_path: 03_Resources/source_material/ArtistPortraits/Helen_Sung.jpg
 biography_enhanced_at: '2025-10-20T10:17:28.865445'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia
-- Official Biography PDF
-- Juilliard Faculty Portrait
+  - Wikipedia
+  - Official Biography PDF
+  - Juilliard Faculty Portrait
 network_extracted: true
 entry_created: '2025-10-20T10:17:28.865456'
 last_updated: '2025-12-23T08:16:02.238809'
@@ -72,7 +72,7 @@ gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:29:05.713359'
 musicbrainz_id: 90304b95-9153-4306-bfcf-7ce04a9dd10d
 tags:
-- jazz
+  - jazz
 ---
 
 ![](Helen_Sung.jpg)

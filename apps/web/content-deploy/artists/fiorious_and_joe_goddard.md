@@ -4,9 +4,9 @@ wiki_slug: fiorious-joe-goddard
 schema_version: 2
 status: active
 genres:
-- disco house
-- nu disco
-- funky house
+  - disco house
+  - nu disco
+  - funky house
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/fiorious_and_joe_goddard.jpg
   caption: Fiorious & Joe Goddard
@@ -26,47 +26,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Hot Chip
-  - Greco-Roman
-  - Amy Douglas
+    - Hot Chip
+    - Greco-Roman
+    - Amy Douglas
   influenced:
-  - Emerging Disco House Producers
+    - Emerging Disco House Producers
   mentors:
-  - Classic House and Disco Artists
+    - Classic House and Disco Artists
 spotify_data:
   followers: 4482
   id: 3pKgTa7RsVMksNX7ikwmor
   popularity: 31
-  url: https://open.spotify.com/artist/3pKgTa7RsVMksNX7ikwmor
+  url: 'https://open.spotify.com/artist/3pKgTa7RsVMksNX7ikwmor'
 discography_enriched: true
 top_tracks:
-- Future Romanze
-- Music Saved My Life - Marshall Jefferson Remix
-- New World (Flow) (Harmonics)
-- Music Saved My Life
-- Slippery People (Let Loose)
-- Look What You've Done
-- Show Me How to Love Me
-- Future Romanze - Balearic Club Mix
-- King Of Lies - Edit
-- Loverboy - Benjamin Fröhlich Remix - Edit
+  - Future Romanze
+  - Music Saved My Life - Marshall Jefferson Remix
+  - New World (Flow) (Harmonics)
+  - Music Saved My Life
+  - Slippery People (Let Loose)
+  - Look What You've Done
+  - Show Me How to Love Me
+  - Future Romanze - Balearic Club Mix
+  - King Of Lies - Edit
+  - Loverboy - Benjamin Fröhlich Remix - Edit
 external_urls:
-  spotify: https://open.spotify.com/artist/3pKgTa7RsVMksNX7ikwmor
-  wikipedia: https://en.wikipedia.org/wiki/Joe_Goddard_(musician)
+  spotify: 'https://open.spotify.com/artist/3pKgTa7RsVMksNX7ikwmor'
+  wikipedia: 'https://en.wikipedia.org/wiki/Joe_Goddard_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/fiorious_and_joe_goddard.jpg
 biography_enhanced_at: '2025-11-12T14:41:47.496998'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Joe_Goddard_(musician)
-- https://www.wonderlandmagazine.com/2023/04/25/fiorious-joe-goddard/
-- https://www.stereogum.com/2253360/joe-goddard-new-world-flow-feat-fiorious/music/
-- https://circuitsweet.co.uk/2024/02/joe-goddard-shares-brand-new-single-new-world-flow-featuring-fiorious/
-- https://notion.online/do-it-all-again-release-fiorious/
+  - 'https://en.wikipedia.org/wiki/Joe_Goddard_(musician)'
+  - 'https://www.wonderlandmagazine.com/2023/04/25/fiorious-joe-goddard/'
+  - >-
+    https://www.stereogum.com/2253360/joe-goddard-new-world-flow-feat-fiorious/music/
+  - >-
+    https://circuitsweet.co.uk/2024/02/joe-goddard-shares-brand-new-single-new-world-flow-featuring-fiorious/
+  - 'https://notion.online/do-it-all-again-release-fiorious/'
 network_extracted: true
 entry_created: '2025-11-12T14:41:47.497016'
 last_updated: '2025-12-23T08:16:08.652251'
-origin: Bronx, New York, USA (Fiorious); London, England, UK (Joe Goddard)
+origin: 'Bronx, New York, USA (Fiorious); London, England, UK (Joe Goddard)'
+artist_type: person
 ---
 
 ![](fiorious_and_joe_goddard.jpg)

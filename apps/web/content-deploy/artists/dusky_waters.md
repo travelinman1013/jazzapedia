@@ -3,13 +3,13 @@ title: Dusky Waters
 wiki_slug: dusky-waters
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/dusky_waters.jpg
   caption: Dusky Waters
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 120.7
   energy_avg: 0.467
@@ -25,48 +25,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Analiese Desaw
-  - Conner McCready
-  - Hannah Kreiger-Benson
-  - Dylan James
-  - Tommy Henson
+    - Analiese Desaw
+    - Conner McCready
+    - Hannah Kreiger-Benson
+    - Dylan James
+    - Tommy Henson
   influenced: []
   mentors: []
 spotify_data:
   followers: 465
   id: 13JoiBn96qXGYydccgZox1
   popularity: 0
-  url: https://open.spotify.com/artist/13JoiBn96qXGYydccgZox1
+  url: 'https://open.spotify.com/artist/13JoiBn96qXGYydccgZox1'
 discography_enriched: true
 top_tracks:
-- How Will We Know? (Pass It On)
-- A House on King Street (A House on King Street)
-- Pass It On (Pass It On)
-- Jaula De Algodón (Pass It On)
-- Southeasterly Wind (Pass It On)
-- Dusk (Pass It On)
-- Footnote (Pass It On)
-- Southeasterly Wind (Southeasterly Wind)
-- Mae (Pass It On)
-- Mae (Mae)
+  - How Will We Know? (Pass It On)
+  - A House on King Street (A House on King Street)
+  - Pass It On (Pass It On)
+  - Jaula De Algodón (Pass It On)
+  - Southeasterly Wind (Pass It On)
+  - Dusk (Pass It On)
+  - Footnote (Pass It On)
+  - Southeasterly Wind (Southeasterly Wind)
+  - Mae (Pass It On)
+  - Mae (Mae)
 external_urls:
-  spotify: https://open.spotify.com/artist/13JoiBn96qXGYydccgZox1
+  spotify: 'https://open.spotify.com/artist/13JoiBn96qXGYydccgZox1'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/dusky_waters.jpg
 biography_enhanced_at: '2025-12-18T02:44:26.264518'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Dusky Waters official site – About page[1]
-- Dusky Waters Electronic Press Kit (EPK)[5]
-- OffBeat Magazine – “Dusky Waters Unveils ‘A House on King Street’”[4]
-- The Bluegrass Situation – feature on “How Will We Know?” and *Pass It On*[3]
-- 'KLOF Magazine – “Track-by-Track: Dusky Waters – Pass It On”[7]'
-- CanvasRebel – “Check Out Dusky Waters’s Story” profile[6]
-- Out All Day – “Dusky Waters and the Black Americana Festival 2025” interview[2]
+  - 'Dusky Waters official site – About page[1]'
+  - 'Dusky Waters Electronic Press Kit (EPK)[5]'
+  - 'OffBeat Magazine – “Dusky Waters Unveils ‘A House on King Street’”[4]'
+  - 'The Bluegrass Situation – feature on “How Will We Know?” and *Pass It On*[3]'
+  - 'KLOF Magazine – “Track-by-Track: Dusky Waters – Pass It On”[7]'
+  - 'CanvasRebel – “Check Out Dusky Waters’s Story” profile[6]'
+  - >-
+    Out All Day – “Dusky Waters and the Black Americana Festival 2025”
+    interview[2]
 network_extracted: true
 entry_created: '2025-12-18T02:44:26.264528'
 last_updated: '2025-12-23T08:16:08.087907'
+origin: 'Little Rock, Arkansas, United States'
+artist_type: person
 ---
 
 ![](dusky_waters.jpg)

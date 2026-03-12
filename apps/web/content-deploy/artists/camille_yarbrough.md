@@ -1,17 +1,17 @@
 ---
-title: camille yarbrough
+title: Camille Yarbrough
 wiki_slug: camille-yarbrough
 schema_version: 2
 status: active
-birth_place: Chicago, Illinois, United States
+birth_place: 'Chicago, Illinois, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/camille_yarbrough.jpg
   caption: camille yarbrough
   background: solo_singer
-  origin: Chicago, Illinois, United States
+  origin: 'Chicago, Illinois, United States'
 audio_profile:
-  tempo_avg: 109.0
+  tempo_avg: 109
   energy_avg: 0.527
   valence_avg: 0.528
   danceability_avg: 0.689
@@ -25,49 +25,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Vanguard Records production team
-  - Joe’s Pub (live band and production team)
+    - Vanguard Records production team
+    - Joe’s Pub (live band and production team)
   influenced:
-  - Fatboy Slim (Norman Cook)
-  - Early hip‑hop and spoken‑word artists (collective influence)
-  - Black children’s and YA authors/educators (collective influence)
+    - Fatboy Slim (Norman Cook)
+    - Early hip‑hop and spoken‑word artists (collective influence)
+    - Black children’s and YA authors/educators (collective influence)
   mentors:
-  - Katherine Dunham
+    - Katherine Dunham
 spotify_data:
   followers: 28307
   id: 1bSCGVnnijnSf8R9maUeJ9
   popularity: 42
-  url: https://open.spotify.com/artist/1bSCGVnnijnSf8R9maUeJ9
+  url: 'https://open.spotify.com/artist/1bSCGVnnijnSf8R9maUeJ9'
 discography_enriched: true
 top_tracks:
-- Take Yo' Praise (The Iron Pot Cooker)
-- Ain't It A Lonely Feeling (The Iron Pot Cooker)
-- Take Yo' Praise (Mixed) (All Back To (DJ Mix))
-- But It Comes Out Mad (The Iron Pot Cooker)
-- Can I Get A Witness (The Iron Pot Cooker)
-- Dream - Panic - Sonny Boy The Rip-Off Man - Little Sally The Super Sex Star (Taking Care Of Business) (The Iron Pot Cooker)
-- All Hid (The Iron Pot Cooker)
-- Take Yo' Praise (Loose & Juicy)
-- Tell It (Ancestor House)
-- Elders (Ancestor House)
+  - Take Yo' Praise (The Iron Pot Cooker)
+  - Ain't It A Lonely Feeling (The Iron Pot Cooker)
+  - Take Yo' Praise (Mixed) (All Back To (DJ Mix))
+  - But It Comes Out Mad (The Iron Pot Cooker)
+  - Can I Get A Witness (The Iron Pot Cooker)
+  - >-
+    Dream - Panic - Sonny Boy The Rip-Off Man - Little Sally The Super Sex Star
+    (Taking Care Of Business) (The Iron Pot Cooker)
+  - All Hid (The Iron Pot Cooker)
+  - Take Yo' Praise (Loose & Juicy)
+  - Tell It (Ancestor House)
+  - Elders (Ancestor House)
 external_urls:
-  spotify: https://open.spotify.com/artist/1bSCGVnnijnSf8R9maUeJ9
-  wikipedia: https://en.wikipedia.org/wiki/Camille_Yarbrough
+  spotify: 'https://open.spotify.com/artist/1bSCGVnnijnSf8R9maUeJ9'
+  wikipedia: 'https://en.wikipedia.org/wiki/Camille_Yarbrough'
 image_path: 03_Resources/source_material/ArtistPortraits/camille_yarbrough.jpg
 biography_enhanced_at: '2025-12-19T01:57:57.015079'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Camille_Yarbrough
-- https://wbssmedia.com/artists/detail/4127
-- https://nationalactionnetwork.net/nan-celebrates-black-history-honoring-camille-yarbrough/
-- https://ourtimepress.com/sisters-in-creating-black-cultural-legacies/
-- https://www.imdb.com/name/nm0946381/
-- https://wiggles.fandom.com/wiki/Camille_Yarborough
-- https://aalbc.com/authors/article.php?id=1918
+  - 'https://en.wikipedia.org/wiki/Camille_Yarbrough'
+  - 'https://wbssmedia.com/artists/detail/4127'
+  - >-
+    https://nationalactionnetwork.net/nan-celebrates-black-history-honoring-camille-yarbrough/
+  - 'https://ourtimepress.com/sisters-in-creating-black-cultural-legacies/'
+  - 'https://www.imdb.com/name/nm0946381/'
+  - 'https://wiggles.fandom.com/wiki/Camille_Yarborough'
+  - 'https://aalbc.com/authors/article.php?id=1918'
 network_extracted: true
 entry_created: '2025-12-19T01:57:57.015093'
 last_updated: '2025-12-23T08:16:06.333119'
+birth_date: '1938-01-08'
+artist_type: person
 ---
 
 ![](camille_yarbrough.jpg)

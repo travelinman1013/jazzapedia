@@ -1,5 +1,5 @@
 ---
-title: rob espino
+title: Rob Espino
 wiki_slug: rob-espino
 schema_version: 2
 status: active
@@ -25,41 +25,43 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Enablers
-  - Preservation Hall Foundation
+    - The Enablers
+    - Preservation Hall Foundation
   influenced: []
   mentors: []
 spotify_data:
   followers: 62
   id: 587WfYaZv33ITt9saYNzld
   popularity: 0
-  url: https://open.spotify.com/artist/587WfYaZv33ITt9saYNzld
+  url: 'https://open.spotify.com/artist/587WfYaZv33ITt9saYNzld'
 discography_enriched: true
 top_tracks:
-- New Orleans Memoriam (With Monologue) (Y Sus Amigos De Nueva Orleans)
-- Yo No Se' (Y Sus Amigos De Nueva Orleans)
-- Whoopin' Blues (Y Sus Amigos De Nueva Orleans)
-- Caution (Y Sus Amigos De Nueva Orleans)
-- Iko Iko (Y Sus Amigos De Nueva Orleans)
-- Quit Messin' Around (Y Sus Amigos De Nueva Orleans)
-- Cada Vez (Y Sus Amigos De Nueva Orleans)
-- Big Chief (Y Sus Amigos De Nueva Orleans)
-- I'll Fly Away (Y Sus Amigos De Nueva Orleans)
-- Watch Out For Them Potholes (Y Sus Amigos De Nueva Orleans)
+  - New Orleans Memoriam (With Monologue) (Y Sus Amigos De Nueva Orleans)
+  - Yo No Se' (Y Sus Amigos De Nueva Orleans)
+  - Whoopin' Blues (Y Sus Amigos De Nueva Orleans)
+  - Caution (Y Sus Amigos De Nueva Orleans)
+  - Iko Iko (Y Sus Amigos De Nueva Orleans)
+  - Quit Messin' Around (Y Sus Amigos De Nueva Orleans)
+  - Cada Vez (Y Sus Amigos De Nueva Orleans)
+  - Big Chief (Y Sus Amigos De Nueva Orleans)
+  - I'll Fly Away (Y Sus Amigos De Nueva Orleans)
+  - Watch Out For Them Potholes (Y Sus Amigos De Nueva Orleans)
 external_urls:
-  spotify: https://open.spotify.com/artist/587WfYaZv33ITt9saYNzld
+  spotify: 'https://open.spotify.com/artist/587WfYaZv33ITt9saYNzld'
   wikipedia: Not found
 image_path: 03_Resources/source_material/ArtistPortraits/rob_espino.jpg
 biography_enhanced_at: '2025-11-29T06:54:53.888622'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Apple Music - Rob Espino Artist Profile
-- Preservation Hall Foundation - Musical Collective
-- Miami New Times
+  - Apple Music - Rob Espino Artist Profile
+  - Preservation Hall Foundation - Musical Collective
+  - Miami New Times
 network_extracted: true
 entry_created: '2025-11-29T06:54:53.888636'
 last_updated: '2025-12-23T08:16:14.872132'
+birth_date: '1975-01-21'
+artist_type: person
 ---
 
 ![](rob_espino.jpg)

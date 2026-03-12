@@ -1,15 +1,15 @@
 ---
-title: guitar lightnin lee
+title: Guitar Lightnin Lee
 wiki_slug: guitar-lightnin-lee
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, USA'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/guitar_lightnin_lee.jpg
   caption: guitar lightnin lee
   background: solo_singer
-  origin: New Orleans, Louisiana, USA
+  origin: 'New Orleans, Louisiana, USA'
 audio_profile:
   tempo_avg: 129.1
   energy_avg: 0.771
@@ -25,40 +25,42 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - His Thunder Band
+    - His Thunder Band
   influenced: []
   mentors:
-  - Boogie Bill Webb
+    - Boogie Bill Webb
 spotify_data:
   followers: 18
   id: 0wxZFLJzuO6ORVyQpgMmw2
   popularity: 0
-  url: https://open.spotify.com/artist/0wxZFLJzuO6ORVyQpgMmw2
+  url: 'https://open.spotify.com/artist/0wxZFLJzuO6ORVyQpgMmw2'
 discography_enriched: true
 top_tracks:
-- Amsterdam (N.O.L.A Rhythum and Booze)
-- She Means Trouble (N.O.L.A Rhythum and Booze)
-- Missing Mama (N.O.L.A Rhythum and Booze)
-- Miss Ala Bound (N.O.L.A Rhythum and Booze)
-- Mean Little Woman (N.O.L.A Rhythum and Booze)
-- Write a Letter (N.O.L.A Rhythum and Booze)
-- If You Don't Love Me (N.O.L.A Rhythum and Booze)
-- I Love La (N.O.L.A Rhythum and Booze)
-- It's a Sin (N.O.L.A Rhythum and Booze)
+  - Amsterdam (N.O.L.A Rhythum and Booze)
+  - She Means Trouble (N.O.L.A Rhythum and Booze)
+  - Missing Mama (N.O.L.A Rhythum and Booze)
+  - Miss Ala Bound (N.O.L.A Rhythum and Booze)
+  - Mean Little Woman (N.O.L.A Rhythum and Booze)
+  - Write a Letter (N.O.L.A Rhythum and Booze)
+  - If You Don't Love Me (N.O.L.A Rhythum and Booze)
+  - I Love La (N.O.L.A Rhythum and Booze)
+  - It's a Sin (N.O.L.A Rhythum and Booze)
 external_urls:
-  spotify: https://open.spotify.com/artist/0wxZFLJzuO6ORVyQpgMmw2
+  spotify: 'https://open.spotify.com/artist/0wxZFLJzuO6ORVyQpgMmw2'
   wikipedia: Not found
 image_path: 03_Resources/source_material/ArtistPortraits/guitar_lightnin_lee.jpg
 biography_enhanced_at: '2025-10-20T10:19:21.019089'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Free Music Archive
-- Music Maker Relief Foundation
-- Boss Radio 66
+  - Free Music Archive
+  - Music Maker Relief Foundation
+  - Boss Radio 66
 network_extracted: true
 entry_created: '2025-10-20T10:19:21.019098'
 last_updated: '2025-12-23T08:16:09.404562'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](guitar_lightnin_lee.jpg)

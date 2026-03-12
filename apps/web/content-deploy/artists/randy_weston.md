@@ -5,50 +5,50 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1926-04-06'
-birth_place: Brooklyn
+birth_place: 'Brooklyn, New York, United States'
 death_date: '2018-09-01'
 genres:
-- hard bop
-- gnawa
-- free jazz
-- jazz
-- bebop
+  - hard bop
+  - gnawa
+  - free jazz
+  - jazz
+  - bebop
 instruments:
-- eponymous
-- original
-- piano
-- electric piano
-- grand piano
-- spoken vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: aa46c8b1-da42-4aa1-ab06-686109476434
-  name: Randy Weston Trio
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 991b24fd-08c0-41dc-a8bb-eec7a4404225
-  name: Randy Weston and His African Rhythms Trio
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
   - piano
-  mbid: 1d0975ae-341d-4c55-9acf-56544ff1dfd7
-  name: Randy Weston African Rhythms Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 8465272c-3cff-4bf3-8748-a5e43bf94e31
-  name: Randy Weston Sextet
+  - electric piano
+  - grand piano
+  - spoken vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: aa46c8b1-da42-4aa1-ab06-686109476434
+    name: Randy Weston Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 991b24fd-08c0-41dc-a8bb-eec7a4404225
+    name: Randy Weston and His African Rhythms Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - piano
+    mbid: 1d0975ae-341d-4c55-9acf-56544ff1dfd7
+    name: Randy Weston African Rhythms Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 8465272c-3cff-4bf3-8748-a5e43bf94e31
+    name: Randy Weston Sextet
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/randy_weston.jpg
   caption: Randy Weston
@@ -71,56 +71,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Melba Liston
-  - Langston Hughes
-  - Cecil Payne
-  - Babatunde Olatunji
+    - Melba Liston
+    - Langston Hughes
+    - Cecil Payne
+    - Babatunde Olatunji
   influenced:
-  - Fela Kuti
-  - African Rhythms Sextet members
+    - Fela Kuti
+    - African Rhythms Sextet members
   mentors:
-  - Thelonious Monk
-  - Duke Ellington
-  - Marshall Stearns
+    - Thelonious Monk
+    - Duke Ellington
+    - Marshall Stearns
 spotify_data:
   followers: 11711
   id: 6Cx6WhEWHJWPeiFspDCwDR
   popularity: 21
-  url: https://open.spotify.com/artist/6Cx6WhEWHJWPeiFspDCwDR
+  url: 'https://open.spotify.com/artist/6Cx6WhEWHJWPeiFspDCwDR'
 discography_enriched: true
 top_tracks:
-- Waltz For Sweet Cakes (African Rhythms)
-- In Memory Of
-- Hi-Fly (African Rhythms)
-- Marrakech Blues (African Rhythms)
-- A Night In Medina (African Rhythms)
-- Con Alma (African Rhythms)
-- In Memory Of - Eng 21-22 Mai 1973 New York (Tanjah)
-- Jajouka (African Rhythms)
-- Berkshire Blues (African Cookbook)
-- Afro Black (African Rhythms)
+  - Waltz For Sweet Cakes (African Rhythms)
+  - In Memory Of
+  - Hi-Fly (African Rhythms)
+  - Marrakech Blues (African Rhythms)
+  - A Night In Medina (African Rhythms)
+  - Con Alma (African Rhythms)
+  - In Memory Of - Eng 21-22 Mai 1973 New York (Tanjah)
+  - Jajouka (African Rhythms)
+  - Berkshire Blues (African Cookbook)
+  - Afro Black (African Rhythms)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7e198258-7093-46ac-a71e-91075fd0f5af
-  spotify: https://open.spotify.com/artist/6Cx6WhEWHJWPeiFspDCwDR
-  wikipedia: https://en.wikipedia.org/wiki/Randy_Weston
+  musicbrainz: 'https://musicbrainz.org/artist/7e198258-7093-46ac-a71e-91075fd0f5af'
+  spotify: 'https://open.spotify.com/artist/6Cx6WhEWHJWPeiFspDCwDR'
+  wikipedia: 'https://en.wikipedia.org/wiki/Randy_Weston'
 image_path: 03_Resources/source_material/ArtistPortraits/randy_weston.jpg
 biography_enhanced_at: '2025-10-23T07:42:49.779621'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.britannica.com/biography/Randy-Weston
-- https://en.wikipedia.org/wiki/Randy_Weston
-- https://www.democracynow.org/2012/2/20/black_history_special_jazz_legend_randy
-- https://www.arts.gov/honors/jazz/randy-weston
+  - 'https://www.britannica.com/biography/Randy-Weston'
+  - 'https://en.wikipedia.org/wiki/Randy_Weston'
+  - >-
+    https://www.democracynow.org/2012/2/20/black_history_special_jazz_legend_randy
+  - 'https://www.arts.gov/honors/jazz/randy-weston'
 network_extracted: true
 entry_created: '2025-10-23T07:42:49.779638'
 last_updated: '2025-12-23T08:16:14.644588'
 gender: Male
 musicbrainz_id: 7e198258-7093-46ac-a71e-91075fd0f5af
 tags:
-- afro-jazz
-- gnawa
-- hard bop
+  - afro-jazz
+  - gnawa
+  - hard bop
+is_active: false
+origin: 'Brooklyn, New York, United States'
 ---
 
 ![](randy_weston.jpg)

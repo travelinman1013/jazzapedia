@@ -3,42 +3,49 @@ biography_enhanced_at: '2026-01-04T01:57:52.989456'
 enhancement_provider: perplexity
 entry_created: '2026-01-04T01:57:52.989461'
 external_urls:
-  spotify: https://open.spotify.com/artist/1rrYX4LEdujuVhl43MTpZF
-  wikipedia: https://en.wikipedia.org/wiki/Patrice_Bart-Williams
+  spotify: 'https://open.spotify.com/artist/1rrYX4LEdujuVhl43MTpZF'
+  wikipedia: 'https://en.wikipedia.org/wiki/Patrice_Bart-Williams'
 genres:
-- asakaa
-- german hip hop
+  - asakaa
+  - german hip hop
 image_path: 03_Resources/source_material/ArtistPortraits/ghanaian_stallion_and_patrice.jpg
 last_updated: '2026-01-04T01:57:52.989462'
 musical_connections:
   collaborators:
-  - Megaloh
-  - Black Sherif
-  - Patrice
-  - Peter Fox
-  - G-West, Kweku Flick, Asakaa Boys
+    - Megaloh
+    - Black Sherif
+    - Patrice
+    - Peter Fox
+    - 'G-West, Kweku Flick, Asakaa Boys'
   influenced:
-  - Black Sherif
-  - Ghanaian and West African artists
+    - Black Sherif
+    - Ghanaian and West African artists
   mentors:
-  - Gaston Bart-Williams (Patrice's father)
-  - Parents' record collection and African musicians
+    - Gaston Bart-Williams (Patrice's father)
+    - Parents' record collection and African musicians
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://refugeworldwide.com/artists/ghanaian-stallion
-- https://imullar.com/2025/05/15/ghanaian-stallion-is-connecting-both-of-his-worlds-with-his-debut-album-bridges/
-- https://www.ghanaweb.com/blogs/nanayarquah/Ghanaian-Stallion-Just-Changed-the-Game-with-Bridges-10260
-- https://en.wikipedia.org/wiki/Patrice_Bart-Williams
-- https://oroko.live/artists/ghanaianstallion
-- https://blog.native-instruments.com/behind-the-beats-ghanaian-stallion/
+  - 'https://refugeworldwide.com/artists/ghanaian-stallion'
+  - >-
+    https://imullar.com/2025/05/15/ghanaian-stallion-is-connecting-both-of-his-worlds-with-his-debut-album-bridges/
+  - >-
+    https://www.ghanaweb.com/blogs/nanayarquah/Ghanaian-Stallion-Just-Changed-the-Game-with-Bridges-10260
+  - 'https://en.wikipedia.org/wiki/Patrice_Bart-Williams'
+  - 'https://oroko.live/artists/ghanaianstallion'
+  - 'https://blog.native-instruments.com/behind-the-beats-ghanaian-stallion/'
 spotify_data:
   followers: 4251
   id: 1rrYX4LEdujuVhl43MTpZF
   popularity: 25
-  url: https://open.spotify.com/artist/1rrYX4LEdujuVhl43MTpZF
+  url: 'https://open.spotify.com/artist/1rrYX4LEdujuVhl43MTpZF'
 status: active
-title: ghanaian stallion & patrice
+title: Ghanaian Stallion & Patrice
+origin: >-
+  Berlin, Germany (Ghanaian Stallion); Winneba, Ghana (childhood education);
+  Germany (Patrice)
+birth_date: '1979-07-09'
+artist_type: person
 ---
 
 ![](ghanaian_stallion_and_patrice.jpg)

@@ -4,11 +4,12 @@ wiki_slug: joe-liggins-his-honeydrippers
 schema_version: 2
 status: active
 genres:
-- boogie-woogie
-- jazz blues
-- swing music
+  - boogie-woogie
+  - jazz blues
+  - swing music
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/Joe_Liggins_and_His_Honeydrippers.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/Joe_Liggins_and_His_Honeydrippers.jpg
   caption: Joe Liggins & His Honeydrippers
   background: solo_singer
 audio_profile:
@@ -26,49 +27,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Little Willie Jackson
-  - Sammy Franklin
-  - Jimmy Liggins
+    - Little Willie Jackson
+    - Sammy Franklin
+    - Jimmy Liggins
   influenced:
-  - Louis Jordan
-  - Robert Plant (The Honeydrippers)
+    - Louis Jordan
+    - Robert Plant (The Honeydrippers)
   mentors:
-  - Duke Ellington
+    - Duke Ellington
 spotify_data:
   followers: 5943
   id: 5csKyypxXUXTNBUGuCrsoV
   popularity: 20
-  url: https://open.spotify.com/artist/5csKyypxXUXTNBUGuCrsoV
+  url: 'https://open.spotify.com/artist/5csKyypxXUXTNBUGuCrsoV'
 discography_enriched: true
 top_tracks:
-- Going Back To New Orleans (Joe Liggins & The Honeydrippers)
-- Pink Champagne (Lonesome Guitar)
-- Whiskey, Women & Loaded Dice (Joe Liggins & The Honeydrippers)
-- Rhythm In The Barnyard (Joe Liggins & The Honeydrippers)
-- Daddy On My Mind (Dripper's Boogie)
-- The Honeydripper (Lonesome Guitar)
-- Going Back To New Orleans (Meet Me At Mardi Gras)
-- Pink Champagne
-- Going Back To New Orleans
-- Frankie Lee
+  - Going Back To New Orleans (Joe Liggins & The Honeydrippers)
+  - Pink Champagne (Lonesome Guitar)
+  - 'Whiskey, Women & Loaded Dice (Joe Liggins & The Honeydrippers)'
+  - Rhythm In The Barnyard (Joe Liggins & The Honeydrippers)
+  - Daddy On My Mind (Dripper's Boogie)
+  - The Honeydripper (Lonesome Guitar)
+  - Going Back To New Orleans (Meet Me At Mardi Gras)
+  - Pink Champagne
+  - Going Back To New Orleans
+  - Frankie Lee
 external_urls:
-  spotify: https://open.spotify.com/artist/5csKyypxXUXTNBUGuCrsoV
-  wikipedia: https://en.wikipedia.org/wiki/Joe_Liggins
-image_path: 03_Resources/source_material/ArtistPortraits/Joe_Liggins_and_His_Honeydrippers.jpg
+  spotify: 'https://open.spotify.com/artist/5csKyypxXUXTNBUGuCrsoV'
+  wikipedia: 'https://en.wikipedia.org/wiki/Joe_Liggins'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/Joe_Liggins_and_His_Honeydrippers.jpg
 biography_enhanced_at: '2025-10-19T12:36:54.155736'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Joe_Liggins
-- https://www.allaboutjazz.com/musicians/joe-liggins/
-- https://wbssmedia.com/artists/detail/1525
-- https://fromthevaults-boppinbob.blogspot.com/2017/07/joe-liggins-born-9-july-1916.html
-- https://www.latimes.com/archives/la-xpm-1987-08-09-ca-41-story.html
+  - 'https://en.wikipedia.org/wiki/Joe_Liggins'
+  - 'https://www.allaboutjazz.com/musicians/joe-liggins/'
+  - 'https://wbssmedia.com/artists/detail/1525'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2017/07/joe-liggins-born-9-july-1916.html
+  - 'https://www.latimes.com/archives/la-xpm-1987-08-09-ca-41-story.html'
 network_extracted: true
 entry_created: '2025-10-19T12:36:54.155749'
 last_updated: '2025-12-23T08:16:02.584270'
-origin: Seminole, Oklahoma, United States
-
+origin: 'Seminole, Oklahoma, United States'
+birth_place: 'Seminole, Oklahoma, United States'
+birth_date: '1916-07-09'
+artist_type: person
 ---
 
 ![](Joe_Liggins_and_His_Honeydrippers.jpg)

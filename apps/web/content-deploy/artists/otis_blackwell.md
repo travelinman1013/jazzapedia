@@ -1,17 +1,17 @@
 ---
-title: otis blackwell
+title: Otis Blackwell
 wiki_slug: otis-blackwell
 schema_version: 2
 status: active
-birth_place: Brooklyn, New York, United States
+birth_place: 'Brooklyn, New York, United States'
 genres:
-- northern soul
-- rockabilly
+  - northern soul
+  - rockabilly
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/otis_blackwell.jpg
   caption: otis blackwell
   background: solo_singer
-  origin: Brooklyn, New York, United States
+  origin: 'Brooklyn, New York, United States'
 audio_profile:
   tempo_avg: 126.9
   energy_avg: 0.578
@@ -27,48 +27,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Winfield Scott
-  - Little Willie John
+    - Winfield Scott
+    - Little Willie John
   influenced:
-  - Elvis Presley
-  - Jerry Lee Lewis
-  - Jimmy Jones
+    - Elvis Presley
+    - Jerry Lee Lewis
+    - Jimmy Jones
   mentors:
-  - Aaron 'Goldie' Goldmark
+    - Aaron 'Goldie' Goldmark
 spotify_data:
   followers: 5203
   id: 5Ikti72e24GFKzTNdtpnoX
   popularity: 13
-  url: https://open.spotify.com/artist/5Ikti72e24GFKzTNdtpnoX
+  url: 'https://open.spotify.com/artist/5Ikti72e24GFKzTNdtpnoX'
 discography_enriched: true
 top_tracks:
-- All Shook Up - from 'Honeymoon in Vegas' OST
-- Let The Daddy Hold You (Jukebox Jam)
-- One Broken Heart For Sale (All Shook Up)
-- It's All Over Me
-- Back Trail (These Are My Songs!)
-- Don't Be Cruel (These Are My Songs!)
-- All Shook Up (All Shook Up)
-- It's All Over Me
-- Return to Sender (These Are My Songs!)
-- Great Balls of Fire (These Are My Songs!)
+  - All Shook Up - from 'Honeymoon in Vegas' OST
+  - Let The Daddy Hold You (Jukebox Jam)
+  - One Broken Heart For Sale (All Shook Up)
+  - It's All Over Me
+  - Back Trail (These Are My Songs!)
+  - Don't Be Cruel (These Are My Songs!)
+  - All Shook Up (All Shook Up)
+  - It's All Over Me
+  - Return to Sender (These Are My Songs!)
+  - Great Balls of Fire (These Are My Songs!)
 external_urls:
-  spotify: https://open.spotify.com/artist/5Ikti72e24GFKzTNdtpnoX
-  wikipedia: https://en.wikipedia.org/wiki/Otis_Blackwell
+  spotify: 'https://open.spotify.com/artist/5Ikti72e24GFKzTNdtpnoX'
+  wikipedia: 'https://en.wikipedia.org/wiki/Otis_Blackwell'
 image_path: 03_Resources/source_material/ArtistPortraits/otis_blackwell.jpg
 biography_enhanced_at: '2025-11-20T07:35:44.885558'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Otis_Blackwell
-- http://www.elvis-history-blog.com/otis-blackwell.html
-- https://blues.org/blues_hof_inductee/otis-blackwell/
-- https://www.songhall.org/profiles/otis-blackwell
-- https://nashvillesongwritersfoundation.com/Site/inductee?entry_id=1780
+  - 'https://en.wikipedia.org/wiki/Otis_Blackwell'
+  - 'http://www.elvis-history-blog.com/otis-blackwell.html'
+  - 'https://blues.org/blues_hof_inductee/otis-blackwell/'
+  - 'https://www.songhall.org/profiles/otis-blackwell'
+  - 'https://nashvillesongwritersfoundation.com/Site/inductee?entry_id=1780'
 network_extracted: true
 entry_created: '2025-11-20T07:35:44.885571'
 last_updated: '2025-12-23T08:16:13.857984'
-
+birth_date: '1931-02-16'
+death_date: '2002-05-06'
+artist_type: person
 ---
 
 ![](otis_blackwell.jpg)

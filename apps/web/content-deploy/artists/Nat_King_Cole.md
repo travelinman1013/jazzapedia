@@ -2,25 +2,25 @@
 title: Nat King Cole
 wiki_slug: nat-king-cole
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1919-03-17'
-birth_place: Montgomery, Alabama, United States
+birth_place: 'Montgomery, Alabama, United States'
 death_date: '1965-02-15'
 genres:
-- christmas
-- adult standards
-- vocal jazz
+  - christmas
+  - adult standards
+  - vocal jazz
 instruments:
-- eponymous
-- original
-- piano
+  - eponymous
+  - original
+  - piano
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Nat_King_Cole.jpg
   caption: Nat King Cole
   background: non_vocal_instrumentalist
   born: '1919-03-17'
-  origin: Montgomery, Alabama, United States
+  origin: 'Montgomery, Alabama, United States'
   died: '1965-02-15'
 audio_profile:
   tempo_avg: 101.1
@@ -37,46 +37,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Oscar Moore
-  - Wesley Prince
-  - Johnny Mercer
+    - Oscar Moore
+    - Wesley Prince
+    - Johnny Mercer
   influenced:
-  - Ray Charles
-  - Natalie Cole
-  - Harry Connick Jr.
+    - Ray Charles
+    - Natalie Cole
+    - Harry Connick Jr.
   mentors:
-  - Earl Hines
+    - Earl Hines
 spotify_data:
   followers: 2532931
   id: 7v4imS0moSyGdXyLgVTIV7
   popularity: 67
-  url: https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7
+  url: 'https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7'
 discography_enriched: true
 top_tracks:
-- L-O-V-E (L-O-V-E)
-- Unforgettable (Unforgettable)
-- When I Fall In Love (Love Is The Thing)
-- (I Love You) For Sentimental Reasons (The Nat King Cole Story)
-- 'Unforgettable (Unforgettable: With Love)'
-- Orange Colored Sky (The Nat King Cole Story)
-- The Christmas Song (Merry Christmas To You) (The Christmas Song (Expanded Edition))
-- Smile - Mono / 1954 Version / Remastered 1992 (Ballads Of The Day)
-- Smile (The Nat King Cole Story)
-- Deck The Hall (The Christmas Song (Expanded Edition))
+  - L-O-V-E (L-O-V-E)
+  - Unforgettable (Unforgettable)
+  - When I Fall In Love (Love Is The Thing)
+  - (I Love You) For Sentimental Reasons (The Nat King Cole Story)
+  - 'Unforgettable (Unforgettable: With Love)'
+  - Orange Colored Sky (The Nat King Cole Story)
+  - >-
+    The Christmas Song (Merry Christmas To You) (The Christmas Song (Expanded
+    Edition))
+  - Smile - Mono / 1954 Version / Remastered 1992 (Ballads Of The Day)
+  - Smile (The Nat King Cole Story)
+  - Deck The Hall (The Christmas Song (Expanded Edition))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/fbe054ec-a143-4101-9e9e-64abc5ff5ac9
-  spotify: https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7
-  wikipedia: https://en.wikipedia.org/wiki/Nat_King_Cole
+  musicbrainz: 'https://musicbrainz.org/artist/fbe054ec-a143-4101-9e9e-64abc5ff5ac9'
+  spotify: 'https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7'
+  wikipedia: 'https://en.wikipedia.org/wiki/Nat_King_Cole'
 image_path: 03_Resources/source_material/ArtistPortraits/Nat_King_Cole.jpg
 biography_enhanced_at: '2025-10-19T10:47:34.672201'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.ebsco.com/research-starters/history/nat-king-cole
-- https://thesongbook.org/hall-of-fame/songbook-hall-of-fame-honorees/nat-king-cole/
-- https://natkingcole.com/pages/about
-- https://grammymuseum.org/exhibit/this-is-nat-king-cole-2/
-- https://www.biography.com/musicians/nat-king-cole
+  - 'https://www.ebsco.com/research-starters/history/nat-king-cole'
+  - >-
+    https://thesongbook.org/hall-of-fame/songbook-hall-of-fame-honorees/nat-king-cole/
+  - 'https://natkingcole.com/pages/about'
+  - 'https://grammymuseum.org/exhibit/this-is-nat-king-cole-2/'
+  - 'https://www.biography.com/musicians/nat-king-cole'
 network_extracted: true
 entry_created: '2025-10-19T10:47:34.672210'
 last_updated: '2025-12-23T08:16:03.401927'
@@ -84,9 +87,11 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:38:51.574122'
 musicbrainz_id: fbe054ec-a143-4101-9e9e-64abc5ff5ac9
 tags:
-- anthology
-- easy listening
-- jazz
+  - anthology
+  - easy listening
+  - jazz
+is_active: false
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](Nat_King_Cole.jpg)

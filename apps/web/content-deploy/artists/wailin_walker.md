@@ -1,51 +1,54 @@
 ---
 biography_enhanced_at: '2026-01-08T01:38:12.123380'
-birth_place: Vancouver, British Columbia, Canada
+birth_place: 'Vancouver, British Columbia, Canada'
 enhancement_provider: perplexity
 entry_created: '2026-01-08T01:38:12.123386'
 external_urls:
-  spotify: https://open.spotify.com/artist/0DP0mhPuuuGuk9UUhf3drJ
+  spotify: 'https://open.spotify.com/artist/0DP0mhPuuuGuk9UUhf3drJ'
   wikipedia: ''
 genres:
-- blues rock
-- modern blues
+  - blues rock
+  - modern blues
 image_path: 03_Resources/source_material/ArtistPortraits/wailin_walker.jpg
 last_updated: '2026-01-08T01:38:12.123386'
 musical_connections:
   collaborators:
-  - Wailin’ Walker Band
-  - The Houserockers
-  - Jerry Doucette Band
-  - Long John Baldry
-  - Powder Blues
-  - Jr. Watson
-  - Commodore Ballroom house band
+    - Wailin’ Walker Band
+    - The Houserockers
+    - Jerry Doucette Band
+    - Long John Baldry
+    - Powder Blues
+    - Jr. Watson
+    - Commodore Ballroom house band
   influenced:
-  - ''
+    - ''
   mentors:
-  - Buddy Guy
-  - John Lee Hooker
-  - Pee Wee Crayton
-  - Otis Rush
+    - Buddy Guy
+    - John Lee Hooker
+    - Pee Wee Crayton
+    - Otis Rush
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://wailinwalker.com/bio
-- https://www.last.fm/music/Wailin%27+Walker/+wiki
-- https://vintage.grcmc.org/wyce/Reviews/cart/genre/J/article/3456/no-regrets-volume-1-wailin-walker
-- https://www.bluesblastmagazine.com/wailin-walker-all-fired-up-album-review/
-- https://hopestandard.com/2025/02/05/bcs-wailin-al-walker-still-rockin-the-blues-after-50-years/
-- https://www.youtube.com/watch?v=liRjfBYo6ns
-- https://www.youtube.com/watch?v=327caR1wPl8
-- https://www.allmusic.com/artist/wailin-walker-mn0000187799
+  - 'https://wailinwalker.com/bio'
+  - 'https://www.last.fm/music/Wailin%27+Walker/+wiki'
+  - >-
+    https://vintage.grcmc.org/wyce/Reviews/cart/genre/J/article/3456/no-regrets-volume-1-wailin-walker
+  - 'https://www.bluesblastmagazine.com/wailin-walker-all-fired-up-album-review/'
+  - >-
+    https://hopestandard.com/2025/02/05/bcs-wailin-al-walker-still-rockin-the-blues-after-50-years/
+  - 'https://www.youtube.com/watch?v=liRjfBYo6ns'
+  - 'https://www.youtube.com/watch?v=327caR1wPl8'
+  - 'https://www.allmusic.com/artist/wailin-walker-mn0000187799'
 spotify_data:
   followers: 149
   id: 0DP0mhPuuuGuk9UUhf3drJ
   popularity: 4
-  url: https://open.spotify.com/artist/0DP0mhPuuuGuk9UUhf3drJ
+  url: 'https://open.spotify.com/artist/0DP0mhPuuuGuk9UUhf3drJ'
 status: active
 title: Wailin' Walker
-
+origin: 'East Vancouver, British Columbia, Canada'
+artist_type: person
 ---
 
 ![](wailin_walker.jpg)

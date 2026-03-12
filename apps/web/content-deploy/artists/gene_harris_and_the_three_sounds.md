@@ -3,16 +3,21 @@ title: Gene Harris and The Three Sounds
 wiki_slug: gene-harris-and-the-three-sounds
 schema_version: 2
 status: active
-birth_place: Benton Harbor, Michigan, United States (birthplace); Boise, Idaho, United States (later residence)
+birth_place: >-
+  Benton Harbor, Michigan, United States (birthplace); Boise, Idaho, United
+  States (later residence)
 genres:
-- soul jazz
-- jazz funk
-- jazz
+  - soul jazz
+  - jazz funk
+  - jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/gene_harris_and_the_three_sounds.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/gene_harris_and_the_three_sounds.jpg
   caption: Gene Harris and The Three Sounds
   background: solo_singer
-  origin: Benton Harbor, Michigan, United States (birthplace); Boise, Idaho, United States (later residence)
+  origin: >-
+    Benton Harbor, Michigan, United States (birthplace); Boise, Idaho, United
+    States (later residence)
 audio_profile:
   tempo_avg: 117.1
   energy_avg: 0.431
@@ -28,57 +33,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Andy Simpkins
-  - Bill Dowdy
-  - Lester Young
-  - Stanley Turrentine
-  - Lou Donaldson
-  - Sonny Stitt
-  - Johnny Griffin
-  - Anita O'Day
-  - Nat Adderley
-  - Milt Jackson
-  - Ray Brown
+    - Andy Simpkins
+    - Bill Dowdy
+    - Lester Young
+    - Stanley Turrentine
+    - Lou Donaldson
+    - Sonny Stitt
+    - Johnny Griffin
+    - Anita O'Day
+    - Nat Adderley
+    - Milt Jackson
+    - Ray Brown
   influenced: []
   mentors:
-  - Oscar Peterson
-  - Art Tatum
-  - Count Basie
+    - Oscar Peterson
+    - Art Tatum
+    - Count Basie
 spotify_data:
   followers: 14671
   id: 7wpE9ePlaLVOdFrSs9BX8B
   popularity: 32
-  url: https://open.spotify.com/artist/7wpE9ePlaLVOdFrSs9BX8B
+  url: 'https://open.spotify.com/artist/7wpE9ePlaLVOdFrSs9BX8B'
 discography_enriched: true
 top_tracks:
-- Book Of Slim (Elegant Soul (Reissue))
-- Sittin' Duck (Elegant Soul (Reissue))
-- Sittin' Duck - Live At The It Club, Los Angeles/1970 (Blue Break Beats Vol. 4)
-- Elegant Soul (Elegant Soul (Reissue))
-- African Sweets (Elegant Soul (Reissue))
-- Put On Train (Blue Break Beats Vol. 3)
-- Walls Of Respect (Elegant Soul (Reissue))
-- Your Love Is Just Too Much (Blue Break Beats Vol. 1)
-- Do It Right Now (Elegant Soul (Reissue))
-- Black Gold (Elegant Soul (Reissue))
+  - Book Of Slim (Elegant Soul (Reissue))
+  - Sittin' Duck (Elegant Soul (Reissue))
+  - >-
+    Sittin' Duck - Live At The It Club, Los Angeles/1970 (Blue Break Beats Vol.
+    4)
+  - Elegant Soul (Elegant Soul (Reissue))
+  - African Sweets (Elegant Soul (Reissue))
+  - Put On Train (Blue Break Beats Vol. 3)
+  - Walls Of Respect (Elegant Soul (Reissue))
+  - Your Love Is Just Too Much (Blue Break Beats Vol. 1)
+  - Do It Right Now (Elegant Soul (Reissue))
+  - Black Gold (Elegant Soul (Reissue))
 external_urls:
-  spotify: https://open.spotify.com/artist/7wpE9ePlaLVOdFrSs9BX8B
-  wikipedia: https://en.wikipedia.org/wiki/Gene_Harris
-image_path: 03_Resources/source_material/ArtistPortraits/gene_harris_and_the_three_sounds.jpg
+  spotify: 'https://open.spotify.com/artist/7wpE9ePlaLVOdFrSs9BX8B'
+  wikipedia: 'https://en.wikipedia.org/wiki/Gene_Harris'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/gene_harris_and_the_three_sounds.jpg
 biography_enhanced_at: '2025-11-28T07:28:56.543332'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Gene_Harris
-- https://en.wikipedia.org/wiki/The_3_Sounds
-- https://boise.citycast.fm/boise-history/history-gene-harris-boise-soul-jazz-pianist
-- https://www.allaboutjazz.com/musicians/gene-harris/
-- https://www.nativedsd.com/artist/gene-harris/
-- https://www.bluenote.com/artist/gene-harris/
-- https://jazzizdiscovery.com/three-sounds-featuring-gene-harris/
+  - 'https://en.wikipedia.org/wiki/Gene_Harris'
+  - 'https://en.wikipedia.org/wiki/The_3_Sounds'
+  - >-
+    https://boise.citycast.fm/boise-history/history-gene-harris-boise-soul-jazz-pianist
+  - 'https://www.allaboutjazz.com/musicians/gene-harris/'
+  - 'https://www.nativedsd.com/artist/gene-harris/'
+  - 'https://www.bluenote.com/artist/gene-harris/'
+  - 'https://jazzizdiscovery.com/three-sounds-featuring-gene-harris/'
 network_extracted: true
 entry_created: '2025-11-28T07:28:56.543343'
 last_updated: '2025-12-23T08:16:09.045516'
+death_date: '2000-01-16'
+artist_type: person
 ---
 
 ![](gene_harris_and_the_three_sounds.jpg)

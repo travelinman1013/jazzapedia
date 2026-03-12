@@ -2,26 +2,26 @@
 title: Omar Sosa
 wiki_slug: omar-sosa
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1965-04-10'
-birth_place: Camagüey, Cuba
+birth_place: 'Camagüey, Cuba, United States'
 genres:
-- latin jazz
+  - latin jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Omar_Sosa.jpg
   caption: Omar Sosa
   background: solo_singer
   born: '1965-04-10'
-  origin: Camagüey, Cuba
+  origin: 'Camagüey, Cuba'
 audio_profile:
-  tempo_avg: 108.0
+  tempo_avg: 108
   energy_avg: 0.257
   valence_avg: 0.344
   danceability_avg: 0.539
   acousticness_avg: 0.85
   instrumentalness_avg: 0.552
-  loudness_avg: -16.0
+  loudness_avg: -16
   speechiness_avg: 0.052
   liveness_avg: 0.135
   track_count: 50
@@ -29,53 +29,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Xiomara Laugart
-  - Paolo Fresu
-  - Seckou Keita
-  - Adam Rudolph
-  - Paquito D'Rivera
-  - Tim Eriksen
-  - NDR Bigband
-  - John Santos
+    - Xiomara Laugart
+    - Paolo Fresu
+    - Seckou Keita
+    - Adam Rudolph
+    - Paquito D'Rivera
+    - Tim Eriksen
+    - NDR Bigband
+    - John Santos
   influenced: []
   mentors:
-  - Thelonious Monk
-  - Chick Corea
-  - Herbie Hancock
-  - Chucho Valdés
-  - Irakere
-  - Oscar Peterson
-  - Keith Jarrett
+    - Thelonious Monk
+    - Chick Corea
+    - Herbie Hancock
+    - Chucho Valdés
+    - Irakere
+    - Oscar Peterson
+    - Keith Jarrett
 spotify_data:
   followers: 32942
   id: 2zyVwasA2QkaVopBFZ2RfX
   popularity: 34
-  url: https://open.spotify.com/artist/2zyVwasA2QkaVopBFZ2RfX
+  url: 'https://open.spotify.com/artist/2zyVwasA2QkaVopBFZ2RfX'
 discography_enriched: true
 top_tracks:
-- Who Wu (Eros)
-- Dary (Transparent Water)
-- Sensuousness (Eros)
-- Mis Tres Notas (Free Roots)
-- Rei's Ray (Suba)
-- What Lies Ahead (Eros)
-- Alma (ALMA)
-- Azadeh (Trio Chemirani invite)
-- My Soul, My Spirit (Eros)
-- Tama-Tama (Transparent Water)
+  - Who Wu (Eros)
+  - Dary (Transparent Water)
+  - Sensuousness (Eros)
+  - Mis Tres Notas (Free Roots)
+  - Rei's Ray (Suba)
+  - What Lies Ahead (Eros)
+  - Alma (ALMA)
+  - Azadeh (Trio Chemirani invite)
+  - 'My Soul, My Spirit (Eros)'
+  - Tama-Tama (Transparent Water)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/235abd9b-3d2f-4613-9d67-a7a1bb59ec3d
-  spotify: https://open.spotify.com/artist/2zyVwasA2QkaVopBFZ2RfX
-  wikipedia: https://en.wikipedia.org/wiki/Omar_Sosa
+  musicbrainz: 'https://musicbrainz.org/artist/235abd9b-3d2f-4613-9d67-a7a1bb59ec3d'
+  spotify: 'https://open.spotify.com/artist/2zyVwasA2QkaVopBFZ2RfX'
+  wikipedia: 'https://en.wikipedia.org/wiki/Omar_Sosa'
 image_path: 03_Resources/source_material/ArtistPortraits/Omar_Sosa.jpg
 biography_enhanced_at: '2025-10-20T10:15:32.697466'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Omar_Sosa
-- https://omarsosa.com/biography/
-- https://www.yamaha.com/artists/artistdetailb.html?CNTID=7087419&CTID=5070010
-- https://www.jazzshowcase.com/nowplaying/omar-sosa
+  - 'https://en.wikipedia.org/wiki/Omar_Sosa'
+  - 'https://omarsosa.com/biography/'
+  - 'https://www.yamaha.com/artists/artistdetailb.html?CNTID=7087419&CTID=5070010'
+  - 'https://www.jazzshowcase.com/nowplaying/omar-sosa'
 network_extracted: true
 entry_created: '2025-10-20T10:15:32.697483'
 last_updated: '2025-12-23T08:16:03.491108'
@@ -83,8 +83,8 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:40:12.254238'
 musicbrainz_id: 235abd9b-3d2f-4613-9d67-a7a1bb59ec3d
 tags:
-- jazz
-- world
+  - jazz
+  - world
 ---
 
 ![](Omar_Sosa.jpg)

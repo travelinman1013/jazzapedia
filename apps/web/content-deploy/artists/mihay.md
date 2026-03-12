@@ -4,18 +4,18 @@ wiki_slug: mihay
 schema_version: 2
 status: active
 genres:
-- latin pop
+  - latin pop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/mihay.jpg
   caption: Mihay
   background: solo_singer
 audio_profile:
-  tempo_avg: 131.0
+  tempo_avg: 131
   energy_avg: 0.593
   valence_avg: 0.365
   danceability_avg: 0.521
   acousticness_avg: 0.541
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -8.1
   speechiness_avg: 0.043
   liveness_avg: 0.245
@@ -30,33 +30,33 @@ spotify_data:
   followers: 2506041
   id: 3zhijRRIZX2B6G2T7vJl9p
   popularity: 64
-  url: https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p
+  url: 'https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p'
 discography_enriched: true
 top_tracks:
-- Para Amarnos Más (21 Black Jack)
-- El Privilegio De Amar (El Privilegio De Amar)
-- Si Me Tenías (Canto Por Ti)
-- Bella (Exitos De Mijares)
-- No Hace Falta (Que Nada Nos Separe)
-- El Privilegio De Amar (Imprescindibles)
-- El Méndigo Día Del Padre
-- Soldado Del Amor (El Rey De La Noche)
-- Bella
-- No Se Murió El Amor
+  - Para Amarnos Más (21 Black Jack)
+  - El Privilegio De Amar (El Privilegio De Amar)
+  - Si Me Tenías (Canto Por Ti)
+  - Bella (Exitos De Mijares)
+  - No Hace Falta (Que Nada Nos Separe)
+  - El Privilegio De Amar (Imprescindibles)
+  - El Méndigo Día Del Padre
+  - Soldado Del Amor (El Rey De La Noche)
+  - Bella
+  - No Se Murió El Amor
 external_urls:
-  spotify: https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p
+  spotify: 'https://open.spotify.com/artist/3zhijRRIZX2B6G2T7vJl9p'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/mihay.jpg
 biography_enhanced_at: '2025-10-26T12:29:48.231657'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Spotify artist context provided by user
-- Wikipedia article on Villancico [1]
+  - Spotify artist context provided by user
+  - 'Wikipedia article on Villancico [1]'
 network_extracted: true
 entry_created: '2025-10-26T12:29:48.231667'
 last_updated: '2025-12-23T08:16:13.107791'
-
+artist_type: person
 ---
 
 ![](mihay.jpg)

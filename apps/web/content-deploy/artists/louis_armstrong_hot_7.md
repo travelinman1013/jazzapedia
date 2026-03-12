@@ -1,11 +1,11 @@
 ---
-title: Louis armstrong hot 7
+title: Louis Armstrong Hot 7
 wiki_slug: louis-armstrong-hot-7
 schema_version: 2
 status: active
 genres:
-- jazz
-- ragtime
+  - jazz
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/louis_armstrong_hot_7.jpg
   caption: Louis armstrong hot 7
@@ -25,54 +25,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lil (Lillian) Hardin Armstrong
-  - Johnny Dodds
-  - Kid Ory
-  - Pete Briggs
-  - Baby Dodds
+    - Lil (Lillian) Hardin Armstrong
+    - Johnny Dodds
+    - Kid Ory
+    - Pete Briggs
+    - Baby Dodds
   influenced:
-  - Later jazz soloists and bandleaders (swing and bebop generations)
+    - Later jazz soloists and bandleaders (swing and bebop generations)
   mentors:
-  - King Oliver
-  - Fletcher Henderson
-  - Lil (Lillian) Hardin Armstrong
+    - King Oliver
+    - Fletcher Henderson
+    - Lil (Lillian) Hardin Armstrong
 spotify_data:
   followers: 37965
   id: 267SHEPfqnF16IEmwbLhLQ
   popularity: 19
-  url: https://open.spotify.com/artist/267SHEPfqnF16IEmwbLhLQ
+  url: 'https://open.spotify.com/artist/267SHEPfqnF16IEmwbLhLQ'
 discography_enriched: true
 top_tracks:
-- Potato Head Blues (The Complete Hot Five And Hot Seven Recordings Volume 2)
-- Potato Head Blues - 78rpm Version (The Essential Louis Armstrong)
-- Willie the Weeper (The Essential Louis Armstrong)
-- Muggles (The Complete Hot Five And Hot Seven Recordings Volume 3)
-- 'Melancholy Blues (Louis Armstrong: Hot Fives & Sevens - Vol. 2)'
-- Wild Man Blues (The Complete Hot Five And Hot Seven Recordings Volume 2)
-- Twelfth Street Rag (The Complete Hot Five And Hot Seven Recordings Volume 2)
-- Knee Drops (The Complete Hot Five And Hot Seven Recordings Volume 3)
-- 'Hotter Than That (Louis Armstrong: Portrait Of The Artist As A Young Man 1923-1934)'
-- Squeeze Me (The Complete Hot Five And Hot Seven Recordings Volume 3)
+  - Potato Head Blues (The Complete Hot Five And Hot Seven Recordings Volume 2)
+  - Potato Head Blues - 78rpm Version (The Essential Louis Armstrong)
+  - Willie the Weeper (The Essential Louis Armstrong)
+  - Muggles (The Complete Hot Five And Hot Seven Recordings Volume 3)
+  - 'Melancholy Blues (Louis Armstrong: Hot Fives & Sevens - Vol. 2)'
+  - Wild Man Blues (The Complete Hot Five And Hot Seven Recordings Volume 2)
+  - Twelfth Street Rag (The Complete Hot Five And Hot Seven Recordings Volume 2)
+  - Knee Drops (The Complete Hot Five And Hot Seven Recordings Volume 3)
+  - >-
+    Hotter Than That (Louis Armstrong: Portrait Of The Artist As A Young Man
+    1923-1934)
+  - Squeeze Me (The Complete Hot Five And Hot Seven Recordings Volume 3)
 external_urls:
-  spotify: https://open.spotify.com/artist/267SHEPfqnF16IEmwbLhLQ
-  wikipedia: https://en.wikipedia.org/wiki/Louis_Armstrong_Hot_Five_and_Hot_Seven_Sessions
+  spotify: 'https://open.spotify.com/artist/267SHEPfqnF16IEmwbLhLQ'
+  wikipedia: >-
+    https://en.wikipedia.org/wiki/Louis_Armstrong_Hot_Five_and_Hot_Seven_Sessions
 image_path: 03_Resources/source_material/ArtistPortraits/louis_armstrong_hot_7.jpg
 biography_enhanced_at: '2025-12-07T04:36:15.930773'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://prologue.blogs.archives.gov/2024/02/14/louis-armstrong-harlem-renaissance-pioneer/
-- https://symposium.music.org/43/item/2193-the-origin-of-armstrongs-hot-fives-and-hot-sevens.html
-- https://amhistory.si.edu/jazz/education/TheMan&HisLife.pdf
-- https://www.loc.gov/static/programs/national-recording-preservation-board/documents/HotFiveHotSevenRecordings.pdf
-- https://www.louisarmstronghouse.org/biography/
-- https://dgmono.com/2020/06/03/shellac-spotlight-louis-armstrong-his-hot-seven-willie-the-weeper-alligator-crawl-okeh-8482/
-- https://en.wikipedia.org/wiki/Louis_Armstrong_Hot_Five_and_Hot_Seven_Sessions
-- https://richwatson.substack.com/p/popculture27-louis-armstrong-turns
+  - >-
+    https://prologue.blogs.archives.gov/2024/02/14/louis-armstrong-harlem-renaissance-pioneer/
+  - >-
+    https://symposium.music.org/43/item/2193-the-origin-of-armstrongs-hot-fives-and-hot-sevens.html
+  - 'https://amhistory.si.edu/jazz/education/TheMan&HisLife.pdf'
+  - >-
+    https://www.loc.gov/static/programs/national-recording-preservation-board/documents/HotFiveHotSevenRecordings.pdf
+  - 'https://www.louisarmstronghouse.org/biography/'
+  - >-
+    https://dgmono.com/2020/06/03/shellac-spotlight-louis-armstrong-his-hot-seven-willie-the-weeper-alligator-crawl-okeh-8482/
+  - >-
+    https://en.wikipedia.org/wiki/Louis_Armstrong_Hot_Five_and_Hot_Seven_Sessions
+  - 'https://richwatson.substack.com/p/popculture27-louis-armstrong-turns'
 network_extracted: true
 entry_created: '2025-12-07T04:36:15.930784'
 last_updated: '2025-12-23T08:16:12.246947'
-origin: Chicago, Illinois, United States
+origin: 'Chicago, Illinois, United States'
+artist_type: band
 ---
 
 ![](louis_armstrong_hot_7.jpg)

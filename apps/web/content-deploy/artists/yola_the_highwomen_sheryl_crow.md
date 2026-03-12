@@ -1,15 +1,16 @@
 ---
-title: Yola, The Highwomen, Sheryl Crow
+title: 'Yola, The Highwomen, Sheryl Crow'
 wiki_slug: yola-the-highwomen-sheryl-crow
 schema_version: 2
 status: active
 genres:
-- retro soul
-- americana
-- folk
+  - retro soul
+  - americana
+  - folk
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/yola_the_highwomen_sheryl_crow.jpg
-  caption: Yola, The Highwomen, Sheryl Crow
+  image: >-
+    03_Resources/source_material/ArtistPortraits/yola_the_highwomen_sheryl_crow.jpg
+  caption: 'Yola, The Highwomen, Sheryl Crow'
   background: solo_singer
 audio_profile:
   tempo_avg: 117.8
@@ -26,51 +27,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Brandi Carlile
-  - Natalie Hemby
-  - Amanda Shires
-  - Maren Morris
-  - Jason Isbell
+    - Brandi Carlile
+    - Natalie Hemby
+    - Amanda Shires
+    - Maren Morris
+    - Jason Isbell
   influenced:
-  - Emerging Americana and country artists
+    - Emerging Americana and country artists
   mentors:
-  - Sister Rosetta Tharpe
-  - Michael Jackson
+    - Sister Rosetta Tharpe
+    - Michael Jackson
 spotify_data:
   followers: 148002
   id: 2gqMBdyddvN82dzZt4ZF14
   popularity: 44
-  url: https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14
+  url: 'https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14'
 discography_enriched: true
 top_tracks:
-- Highwomen (The Highwomen)
-- Goodbye Yellow Brick Road (Walk Through Fire (Deluxe Edition))
-- Starlight (Stand For Myself)
-- Amazing (Amazing)
-- Hold On (Hold On)
-- Dancing Away In Tears (Stand For Myself)
-- Stand For Myself (Stand For Myself)
-- Love All Night (Work All Day) (Walk Through Fire (Deluxe Edition))
-- I Don't Wanna Lie (Walk Through Fire (Deluxe Edition))
-- Diamond Studded Shoes (Stand For Myself)
+  - Highwomen (The Highwomen)
+  - Goodbye Yellow Brick Road (Walk Through Fire (Deluxe Edition))
+  - Starlight (Stand For Myself)
+  - Amazing (Amazing)
+  - Hold On (Hold On)
+  - Dancing Away In Tears (Stand For Myself)
+  - Stand For Myself (Stand For Myself)
+  - Love All Night (Work All Day) (Walk Through Fire (Deluxe Edition))
+  - I Don't Wanna Lie (Walk Through Fire (Deluxe Edition))
+  - Diamond Studded Shoes (Stand For Myself)
 external_urls:
-  spotify: https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14
-  wikipedia: https://en.wikipedia.org/wiki/Yola_(singer)
-image_path: 03_Resources/source_material/ArtistPortraits/yola_the_highwomen_sheryl_crow.jpg
+  spotify: 'https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14'
+  wikipedia: 'https://en.wikipedia.org/wiki/Yola_(singer)'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/yola_the_highwomen_sheryl_crow.jpg
 biography_enhanced_at: '2025-11-14T10:52:31.816184'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Yola_(singer)
-- https://en.wikipedia.org/wiki/Sheryl_Crow
-- https://www.lpm.org/music/2019-08-14/the-highwomen-ft-yola-amp-sheryl-crow-highwomen
-- https://www.biography.com/musicians/sheryl-crow
-- https://www.allamericanspeakers.com/celebritytalentbios/Yola/441264
+  - 'https://en.wikipedia.org/wiki/Yola_(singer)'
+  - 'https://en.wikipedia.org/wiki/Sheryl_Crow'
+  - >-
+    https://www.lpm.org/music/2019-08-14/the-highwomen-ft-yola-amp-sheryl-crow-highwomen
+  - 'https://www.biography.com/musicians/sheryl-crow'
+  - 'https://www.allamericanspeakers.com/celebritytalentbios/Yola/441264'
 network_extracted: true
 entry_created: '2025-11-14T10:52:31.816190'
 last_updated: '2025-12-23T08:16:18.347827'
-origin: Bristol, England, United Kingdom (Yola); Kennett, Missouri, United States (Sheryl Crow); Nashville, Tennessee, United
-  States (The Highwomen)
+origin: >-
+  Bristol, England, United Kingdom (Yola); Kennett, Missouri, United States
+  (Sheryl Crow); Nashville, Tennessee, United States (The Highwomen)
+birth_place: 'Bristol, England, United Kingdom'
+birth_date: '1983'
+artist_type: band
 ---
 
 ![](yola_the_highwomen_sheryl_crow.jpg)

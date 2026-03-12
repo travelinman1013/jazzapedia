@@ -1,17 +1,18 @@
 ---
-title: duke ellington/mahalia jackson
+title: Duke Ellington/Mahalia Jackson
 wiki_slug: duke-ellingtonmahalia-jackson
 schema_version: 2
 status: active
-birth_place: Washington, D.C., USA (Ellington); New Orleans, Louisiana, USA (Jackson)
+birth_place: 'Washington, D.C., USA (Ellington); New Orleans, Louisiana, USA (Jackson)'
 genres:
-- big band
-- jazz
+  - big band
+  - jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/duke_ellingtonmahalia_jackson.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/duke_ellingtonmahalia_jackson.jpg
   caption: duke ellington/mahalia jackson
   background: solo_singer
-  origin: Washington, D.C., USA (Ellington); New Orleans, Louisiana, USA (Jackson)
+  origin: 'Washington, D.C., USA (Ellington); New Orleans, Louisiana, USA (Jackson)'
 audio_profile:
   tempo_avg: 95.9
   energy_avg: 0.289
@@ -19,7 +20,7 @@ audio_profile:
   danceability_avg: 0.615
   acousticness_avg: 0.983
   instrumentalness_avg: 0.589
-  loudness_avg: -13.0
+  loudness_avg: -13
   speechiness_avg: 0.073
   liveness_avg: 0.173
   track_count: 32
@@ -27,50 +28,66 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Billy Strayhorn
-  - Ray Nance
-  - Irving Townsend
+    - Billy Strayhorn
+    - Ray Nance
+    - Irving Townsend
   influenced:
-  - Quincy Jones
-  - Aretha Franklin
-  - Wynton Marsalis
+    - Quincy Jones
+    - Aretha Franklin
+    - Wynton Marsalis
   mentors:
-  - James P. Johnson
-  - Bessie Smith
+    - James P. Johnson
+    - Bessie Smith
 spotify_data:
   followers: 945
   id: 3W2HiY9Z3zYbqyqj4wQMPv
   popularity: 17
-  url: https://open.spotify.com/artist/3W2HiY9Z3zYbqyqj4wQMPv
+  url: 'https://open.spotify.com/artist/3W2HiY9Z3zYbqyqj4wQMPv'
 discography_enriched: true
 top_tracks:
-- 'Black and Tan Fantasy - Okeh session (The Duke: The Columbia Years (1927-1962))'
-- 'East St. Louis Toodle-Oo - Columbia session (The Duke: The Columbia Years (1927-1962))'
-- East St. Louis Toodle-Oo - Columbia session (In a Sentimental Mood)
-- East St. Louis Toodle-Oo - Columbia session (The Original Recordings That Inspired the Broadway Hit "AFTER MIDNIGHT")
-- Black and Tan Fantasy - Okeh session (The Original Recordings That Inspired the Broadway Hit "AFTER MIDNIGHT")
-- East St. Louis Toodle-Oo (Ken Burns Jazz-Duke Ellington)
-- Black and Tan Fantasy (Ken Burns Jazz-Duke Ellington)
-- Hop Head (Ellington In Order, Volume 1 (1927-28))
-- East St. Louis Toodle-Oo - Columbia session (Ellington In Order, Volume 1 (1927-28))
-- Down In Our Alley Blues (Ellington In Order, Volume 1 (1927-28))
+  - >-
+    Black and Tan Fantasy - Okeh session (The Duke: The Columbia Years
+    (1927-1962))
+  - >-
+    East St. Louis Toodle-Oo - Columbia session (The Duke: The Columbia Years
+    (1927-1962))
+  - East St. Louis Toodle-Oo - Columbia session (In a Sentimental Mood)
+  - >-
+    East St. Louis Toodle-Oo - Columbia session (The Original Recordings That
+    Inspired the Broadway Hit "AFTER MIDNIGHT")
+  - >-
+    Black and Tan Fantasy - Okeh session (The Original Recordings That Inspired
+    the Broadway Hit "AFTER MIDNIGHT")
+  - East St. Louis Toodle-Oo (Ken Burns Jazz-Duke Ellington)
+  - Black and Tan Fantasy (Ken Burns Jazz-Duke Ellington)
+  - 'Hop Head (Ellington In Order, Volume 1 (1927-28))'
+  - >-
+    East St. Louis Toodle-Oo - Columbia session (Ellington In Order, Volume 1
+    (1927-28))
+  - 'Down In Our Alley Blues (Ellington In Order, Volume 1 (1927-28))'
 external_urls:
-  spotify: https://open.spotify.com/artist/3W2HiY9Z3zYbqyqj4wQMPv
-  wikipedia: https://en.wikipedia.org/wiki/Black,_Brown_and_Beige_(1958_album)
+  spotify: 'https://open.spotify.com/artist/3W2HiY9Z3zYbqyqj4wQMPv'
+  wikipedia: 'https://en.wikipedia.org/wiki/Black,_Brown_and_Beige_(1958_album)'
 image_path: ''
 biography_enhanced_at: '2025-11-20T06:41:35.005701'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Black,_Brown_and_Beige_(1958_album)
-- https://jarretthousenorth.com/2022/11/05/duke-ellington-black-brown-and-beige/
-- https://www.musicinst.org/news/music-meditation-ellington-and-mahalia-jackson
-- https://www.laphil.com/musicdb/pieces/4812/come-sunday-from-black-brown-and-beige
-- https://www.wyso.org/show/middaymusic/2023-11-03/the-springfield-jazz-symphony-orchestra-celebrates-the-music-of-mahalia-jackson-and-duke-ellington
-- https://www.nepm.org/jazz-world/2019-01-21/mlk-mahalia-jackson-duke-ellington-and-the-freedom-movement
+  - 'https://en.wikipedia.org/wiki/Black,_Brown_and_Beige_(1958_album)'
+  - >-
+    https://jarretthousenorth.com/2022/11/05/duke-ellington-black-brown-and-beige/
+  - >-
+    https://www.musicinst.org/news/music-meditation-ellington-and-mahalia-jackson
+  - >-
+    https://www.laphil.com/musicdb/pieces/4812/come-sunday-from-black-brown-and-beige
+  - >-
+    https://www.wyso.org/show/middaymusic/2023-11-03/the-springfield-jazz-symphony-orchestra-celebrates-the-music-of-mahalia-jackson-and-duke-ellington
+  - >-
+    https://www.nepm.org/jazz-world/2019-01-21/mlk-mahalia-jackson-duke-ellington-and-the-freedom-movement
 network_extracted: true
 entry_created: '2025-11-20T06:41:35.005708'
 last_updated: '2025-12-23T08:16:08.072056'
+artist_type: person
 ---
 
 ![]()

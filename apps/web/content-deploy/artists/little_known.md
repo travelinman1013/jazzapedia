@@ -29,32 +29,33 @@ spotify_data:
   followers: 935
   id: 53qrCwDyjd7yth9zh1PNig
   popularity: 9
-  url: https://open.spotify.com/artist/53qrCwDyjd7yth9zh1PNig
+  url: 'https://open.spotify.com/artist/53qrCwDyjd7yth9zh1PNig'
 discography_enriched: true
 top_tracks:
-- The Richest Man (The Richest Man)
-- It Should Be Easy (It Should Be Easy)
-- Listen (As It Is)
-- Don't Worry (As It Is)
-- Pretty Song (Pretty Song)
-- Fill The Page (As It Is)
-- Quiet (As It Is)
-- Slow Daze (As It Is)
-- Change (As It Is)
-- I Don't Care About You (As It Is)
+  - The Richest Man (The Richest Man)
+  - It Should Be Easy (It Should Be Easy)
+  - Listen (As It Is)
+  - Don't Worry (As It Is)
+  - Pretty Song (Pretty Song)
+  - Fill The Page (As It Is)
+  - Quiet (As It Is)
+  - Slow Daze (As It Is)
+  - Change (As It Is)
+  - I Don't Care About You (As It Is)
 external_urls:
-  spotify: https://open.spotify.com/artist/53qrCwDyjd7yth9zh1PNig
+  spotify: 'https://open.spotify.com/artist/53qrCwDyjd7yth9zh1PNig'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/little_known.jpg
 biography_enhanced_at: '2025-11-10T03:41:14.653722'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Spotify artist profile (context provided)
-- Searches of music biography lists and databases [1][2][3][4]
+  - Spotify artist profile (context provided)
+  - 'Searches of music biography lists and databases [1][2][3][4]'
 network_extracted: true
 entry_created: '2025-11-10T03:41:14.653737'
 last_updated: '2025-12-23T08:16:12.019569'
+artist_type: band
 ---
 
 ![](little_known.jpg)

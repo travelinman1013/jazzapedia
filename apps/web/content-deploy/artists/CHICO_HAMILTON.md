@@ -1,27 +1,27 @@
 ---
-title: CHICO HAMILTON
+title: Chico Hamilton
 wiki_slug: chico-hamilton
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1921-09-21'
-birth_place: Los Angeles, California, United States
+birth_place: 'Los Angeles, California, United States'
 death_date: '2013-11-25'
 genres:
-- cool jazz
-- jazz
-- jazz funk
-- hard bop
+  - cool jazz
+  - jazz
+  - jazz funk
+  - hard bop
 instruments:
-- drums (drum set)
-- eponymous
-- original
+  - drums (drum set)
+  - eponymous
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/CHICO_HAMILTON.jpg
   caption: CHICO HAMILTON
   background: non_vocal_instrumentalist
   born: '1921-09-21'
-  origin: Los Angeles, California, United States
+  origin: 'Los Angeles, California, United States'
   died: '2013-11-25'
 audio_profile:
   tempo_avg: 112.9
@@ -38,53 +38,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Buddy Collette
-  - Jim Hall
-  - Fred Katz
-  - Eric Dolphy
-  - Charles Lloyd
-  - Gábor Szabó
+    - Buddy Collette
+    - Jim Hall
+    - Fred Katz
+    - Eric Dolphy
+    - Charles Lloyd
+    - Gábor Szabó
   influenced:
-  - Ron Carter
-  - Larry Coryell
-  - Eric Dolphy
-  - Charles Lloyd
+    - Ron Carter
+    - Larry Coryell
+    - Eric Dolphy
+    - Charles Lloyd
   mentors:
-  - Lionel Hampton
-  - Count Basie
-  - Lena Horne
-  - Gerry Mulligan
+    - Lionel Hampton
+    - Count Basie
+    - Lena Horne
+    - Gerry Mulligan
 spotify_data:
   followers: 18945
   id: 31NF3yc9DoAdh2bgR6mY04
   popularity: 32
-  url: https://open.spotify.com/artist/31NF3yc9DoAdh2bgR6mY04
+  url: 'https://open.spotify.com/artist/31NF3yc9DoAdh2bgR6mY04'
 discography_enriched: true
 top_tracks:
-- Conquistadores (El Chico)
-- Gengis (The Master)
-- Abdullah And Abraham (Peregrinations)
-- The Morning Side Of Love (Peregrinations)
-- For Mods Only (The Dealer)
-- Big Noise From Winnetka (The Dealer)
-- Conquistadores '74 (The Master)
-- Evil Eye (The Further Adventures Of El Chico)
-- Helena (El Chico)
-- El Chico (El Chico)
+  - Conquistadores (El Chico)
+  - Gengis (The Master)
+  - Abdullah And Abraham (Peregrinations)
+  - The Morning Side Of Love (Peregrinations)
+  - For Mods Only (The Dealer)
+  - Big Noise From Winnetka (The Dealer)
+  - Conquistadores '74 (The Master)
+  - Evil Eye (The Further Adventures Of El Chico)
+  - Helena (El Chico)
+  - El Chico (El Chico)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/699067a0-ae8c-45fc-82c1-6227d91f9bb4
-  spotify: https://open.spotify.com/artist/31NF3yc9DoAdh2bgR6mY04
-  wikipedia: https://en.wikipedia.org/wiki/Chico_Hamilton
+  musicbrainz: 'https://musicbrainz.org/artist/699067a0-ae8c-45fc-82c1-6227d91f9bb4'
+  spotify: 'https://open.spotify.com/artist/31NF3yc9DoAdh2bgR6mY04'
+  wikipedia: 'https://en.wikipedia.org/wiki/Chico_Hamilton'
 image_path: 03_Resources/source_material/ArtistPortraits/CHICO_HAMILTON.jpg
 biography_enhanced_at: '2025-10-20T01:54:00.910528'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Chico_Hamilton
-- https://www.bluenote.com/artist/chico-hamilton/
-- https://www.allaboutjazz.com/musicians/chico-hamilton/
-- https://pas.org/chico-hamilton/
-- http://www.joyousshout.com/chencyclo.html
+  - 'https://en.wikipedia.org/wiki/Chico_Hamilton'
+  - 'https://www.bluenote.com/artist/chico-hamilton/'
+  - 'https://www.allaboutjazz.com/musicians/chico-hamilton/'
+  - 'https://pas.org/chico-hamilton/'
+  - 'http://www.joyousshout.com/chencyclo.html'
 network_extracted: true
 entry_created: '2025-10-20T01:54:00.910546'
 last_updated: '2025-12-23T08:16:01.417760'
@@ -92,10 +92,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:21:04.944257'
 musicbrainz_id: 699067a0-ae8c-45fc-82c1-6227d91f9bb4
 tags:
-- 2008 universal fire victim
-- drum
-- hard bop
-
+  - 2008 universal fire victim
+  - drum
+  - hard bop
+is_active: false
 ---
 
 ![](CHICO_HAMILTON.jpg)

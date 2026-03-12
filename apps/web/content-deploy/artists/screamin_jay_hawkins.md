@@ -3,15 +3,15 @@ title: Screamin Jay Hawkins
 wiki_slug: screamin-jay-hawkins
 schema_version: 2
 status: active
-birth_place: Cleveland, Ohio, United States
+birth_place: 'Cleveland, Ohio, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/screamin_jay_hawkins.jpg
   caption: Screamin Jay Hawkins
   background: solo_singer
-  origin: Cleveland, Ohio, United States
+  origin: 'Cleveland, Ohio, United States'
 audio_profile:
-  tempo_avg: 126.0
+  tempo_avg: 126
   energy_avg: 0.536
   valence_avg: 0.707
   danceability_avg: 0.597
@@ -25,48 +25,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tiny Grimes
-  - Fats Domino
+    - Tiny Grimes
+    - Fats Domino
   influenced:
-  - Alice Cooper
-  - Marilyn Manson
-  - Nina Simone
-  - Creedence Clearwater Revival
+    - Alice Cooper
+    - Marilyn Manson
+    - Nina Simone
+    - Creedence Clearwater Revival
   mentors:
-  - Paul Robeson
-  - Mario Lanza
+    - Paul Robeson
+    - Mario Lanza
 spotify_data:
   followers: 123965
   id: 3VBpsrUi2vV7Uj87ONHu7Z
   popularity: 45
-  url: https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z
+  url: 'https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z'
 discography_enriched: true
 top_tracks:
-- I Put a Spell On You (At Home with Screamin' Jay Hawkins)
-- I Put a Spell on You
-- Portrait of a Man (A Portrait of a Man and His Woman)
-- Monkberry Moon Delight
-- I Put a Spell On You (Cow Fingers And Mosquito Pie)
-- Heart Attack and Vine - Remastered (Are You One of Jay's Kids?)
-- I Put a Spell on You (At Home with Screamin' Jay Hawkins)
-- Little Demon (Cow Fingers And Mosquito Pie)
-- I Am the Cool - Remastered (Are You One of Jay's Kids?)
-- Frenzy (Cow Fingers And Mosquito Pie)
+  - I Put a Spell On You (At Home with Screamin' Jay Hawkins)
+  - I Put a Spell on You
+  - Portrait of a Man (A Portrait of a Man and His Woman)
+  - Monkberry Moon Delight
+  - I Put a Spell On You (Cow Fingers And Mosquito Pie)
+  - Heart Attack and Vine - Remastered (Are You One of Jay's Kids?)
+  - I Put a Spell on You (At Home with Screamin' Jay Hawkins)
+  - Little Demon (Cow Fingers And Mosquito Pie)
+  - I Am the Cool - Remastered (Are You One of Jay's Kids?)
+  - Frenzy (Cow Fingers And Mosquito Pie)
 external_urls:
-  spotify: https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z
-  wikipedia: https://en.wikipedia.org/wiki/Screamin%27_Jay_Hawkins
+  spotify: 'https://open.spotify.com/artist/3VBpsrUi2vV7Uj87ONHu7Z'
+  wikipedia: 'https://en.wikipedia.org/wiki/Screamin%27_Jay_Hawkins'
 image_path: 03_Resources/source_material/ArtistPortraits/screamin_jay_hawkins.jpg
 biography_enhanced_at: '2025-10-26T12:33:51.718639'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- All About Jazz[1]
-- WBSS Media[2]
-- Encyclopedia of Cleveland History[3]
-- Wix.com Biography[4]
+  - 'All About Jazz[1]'
+  - 'WBSS Media[2]'
+  - 'Encyclopedia of Cleveland History[3]'
+  - 'Wix.com Biography[4]'
 network_extracted: true
 entry_created: '2025-10-26T12:33:51.718647'
 last_updated: '2025-12-23T08:16:15.440397'
+birth_date: '1929-07-18'
+death_date: '2000-02-12'
+artist_type: person
 ---
 
 ![](screamin_jay_hawkins.jpg)

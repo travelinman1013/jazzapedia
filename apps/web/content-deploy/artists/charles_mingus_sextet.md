@@ -2,21 +2,21 @@
 title: Charles Mingus Sextet
 wiki_slug: charles-mingus-sextet
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- jazz
-- hard bop
-- bebop
-- free jazz
-- cool jazz
+  - jazz
+  - hard bop
+  - bebop
+  - free jazz
+  - cool jazz
 instruments:
-- drums (drum set)
-- trumpet
-- piano
-- saxophone
-- eponymous
-- original
+  - drums (drum set)
+  - trumpet
+  - piano
+  - saxophone
+  - eponymous
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/charles_mingus_sextet.jpg
   caption: Charles Mingus Sextet
@@ -36,89 +36,92 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dannie Richmond
-  - Jaki Byard
-  - Eric Dolphy
-  - Max Roach
+    - Dannie Richmond
+    - Jaki Byard
+    - Eric Dolphy
+    - Max Roach
   influenced:
-  - Many musicians through Jazz Workshop
+    - Many musicians through Jazz Workshop
   mentors:
-  - H. Rheinhardt
-  - Duke Ellington
+    - H. Rheinhardt
+    - Duke Ellington
 spotify_data:
   followers: 515635
   id: 1W8TbFzNS15VwsempfY12H
   popularity: 49
-  url: https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H
+  url: 'https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H'
 discography_enriched: true
 top_tracks:
-- Goodbye Pork Pie Hat (Mingus Ah Um)
-- Mood Indigo (Mingus Mingus Mingus Mingus Mingus)
-- Better Git It in Your Soul (Mingus Ah Um)
-- Moanin' (Blues & Roots)
-- II B.S. - Edit (Mingus Mingus Mingus Mingus Mingus)
-- Track A- Solo Dancer (The Black Saint And The Sinner Lady)
-- Boogie Stop Shuffle (Mingus Ah Um)
-- Self-Portrait in Three Colors (Mingus Ah Um)
-- Fables of Faubus (Mingus Ah Um)
-- Track B- Duete Solo Dancers (The Black Saint And The Sinner Lady)
+  - Goodbye Pork Pie Hat (Mingus Ah Um)
+  - Mood Indigo (Mingus Mingus Mingus Mingus Mingus)
+  - Better Git It in Your Soul (Mingus Ah Um)
+  - Moanin' (Blues & Roots)
+  - II B.S. - Edit (Mingus Mingus Mingus Mingus Mingus)
+  - Track A- Solo Dancer (The Black Saint And The Sinner Lady)
+  - Boogie Stop Shuffle (Mingus Ah Um)
+  - Self-Portrait in Three Colors (Mingus Ah Um)
+  - Fables of Faubus (Mingus Ah Um)
+  - Track B- Duete Solo Dancers (The Black Saint And The Sinner Lady)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/dee1e7a9-f31a-444c-9c98-3bf23c32009b
-  spotify: https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H
-  wikipedia: https://en.wikipedia.org/wiki/Charles_Mingus
+  musicbrainz: 'https://musicbrainz.org/artist/dee1e7a9-f31a-444c-9c98-3bf23c32009b'
+  spotify: 'https://open.spotify.com/artist/1W8TbFzNS15VwsempfY12H'
+  wikipedia: 'https://en.wikipedia.org/wiki/Charles_Mingus'
 image_path: 03_Resources/source_material/ArtistPortraits/charles_mingus_sextet.jpg
 biography_enhanced_at: '2025-12-12T11:59:11.734011'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.charlesmingus.com/mingusbio
-- https://en.wikipedia.org/wiki/Charles_Mingus
-- https://www.ebsco.com/research-starters/history/charles-mingus
-- https://jazztimes.com/features/profiles/charles-mingus-at-100-the-legacy-continues/
-- https://www.britannica.com/biography/Charles-Mingus
+  - 'https://www.charlesmingus.com/mingusbio'
+  - 'https://en.wikipedia.org/wiki/Charles_Mingus'
+  - 'https://www.ebsco.com/research-starters/history/charles-mingus'
+  - >-
+    https://jazztimes.com/features/profiles/charles-mingus-at-100-the-legacy-continues/
+  - 'https://www.britannica.com/biography/Charles-Mingus'
 network_extracted: true
 entry_created: '2025-12-12T11:59:11.734018'
 last_updated: '2025-12-23T08:16:06.691702'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: d9d8118f-5153-4ca8-ab16-900f1f337848
-  name: Roy Brooks
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: 2103a430-9bb8-4dd1-8c6a-40a6b1b17a3f
-  name: Jon Faddis
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: 7e27e07f-b9f6-4a33-8970-cc0131b47a02
-  name: John Foster
-- begin: ''
-  end: ''
-  instruments:
-  - saxophone
-  mbid: 7ea86aaa-b6b1-4e16-8c80-9a99871c9631
-  name: Bobby Jones
-- begin: ''
-  end: ''
-  instruments:
-  - saxophone
-  mbid: 3956fb7d-0af6-4022-b16e-8db5c61cb654
-  name: Charles McPherson
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: f3b8e107-abe8-4743-b6a3-4a4ee995e71f
-  name: Charles Mingus
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: d9d8118f-5153-4ca8-ab16-900f1f337848
+    name: Roy Brooks
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: 2103a430-9bb8-4dd1-8c6a-40a6b1b17a3f
+    name: Jon Faddis
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: 7e27e07f-b9f6-4a33-8970-cc0131b47a02
+    name: John Foster
+  - begin: ''
+    end: ''
+    instruments:
+      - saxophone
+    mbid: 7ea86aaa-b6b1-4e16-8c80-9a99871c9631
+    name: Bobby Jones
+  - begin: ''
+    end: ''
+    instruments:
+      - saxophone
+    mbid: 3956fb7d-0af6-4022-b16e-8db5c61cb654
+    name: Charles McPherson
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: f3b8e107-abe8-4743-b6a3-4a4ee995e71f
+    name: Charles Mingus
 musicbrainz_id: dee1e7a9-f31a-444c-9c98-3bf23c32009b
-origin: Nogales, Arizona, United States
+origin: 'Nogales, Arizona, United States'
+birth_place: 'Nogales, Arizona, United States'
+birth_date: '1922-04-22'
 ---
 
 ![](charles_mingus_sextet.jpg)

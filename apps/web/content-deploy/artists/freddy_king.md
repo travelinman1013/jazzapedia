@@ -1,18 +1,18 @@
 ---
-title: FREDDY KING
+title: Freddy King
 wiki_slug: freddy-king
 schema_version: 2
 status: active
-birth_place: Gilmer, Texas, United States
+birth_place: 'Gilmer, Texas, United States'
 genres:
-- blues
-- classic blues
-- blues rock
+  - blues
+  - classic blues
+  - blues rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/freddy_king.jpg
   caption: FREDDY KING
   background: solo_singer
-  origin: Gilmer, Texas, United States
+  origin: 'Gilmer, Texas, United States'
 audio_profile:
   tempo_avg: 127.2
   energy_avg: 0.521
@@ -28,59 +28,69 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sonny Thompson
-  - The Every Hour Blues Boys (including Eddie Taylor, Jimmy Rogers, Jimmy Lee Robinson, Sonny Scott)
-  - Sonny Cooper Band and Earlee (Earle) Payton’s Blues Cats
-  - Eric Clapton
-  - RSO Records / Robert Stigwood Organisation studio and touring musicians
-  - Clarence "Gatemouth" Brown and The !!!! Beat TV show band
+    - Sonny Thompson
+    - >-
+      The Every Hour Blues Boys (including Eddie Taylor, Jimmy Rogers, Jimmy Lee
+      Robinson, Sonny Scott)
+    - Sonny Cooper Band and Earlee (Earle) Payton’s Blues Cats
+    - Eric Clapton
+    - RSO Records / Robert Stigwood Organisation studio and touring musicians
+    - Clarence "Gatemouth" Brown and The !!!! Beat TV show band
   influenced:
-  - Eric Clapton
-  - Jeff Beck
-  - Peter Green
-  - Mick Taylor
-  - Stevie Ray Vaughan
-  - Magic Sam, Dave Edmunds, Peter Green (as interpreter of King’s instrumentals)
+    - Eric Clapton
+    - Jeff Beck
+    - Peter Green
+    - Mick Taylor
+    - Stevie Ray Vaughan
+    - >-
+      Magic Sam, Dave Edmunds, Peter Green (as interpreter of King’s
+      instrumentals)
   mentors:
-  - Ella Mae King and Leon King
-  - Lightnin’ Hopkins
-  - T-Bone Walker
-  - Louis Jordan
-  - Muddy Waters, Jimmy Rogers, Robert Jr. Lockwood, Little Walter, Eddie Taylor, Howlin’ Wolf
+    - Ella Mae King and Leon King
+    - Lightnin’ Hopkins
+    - T-Bone Walker
+    - Louis Jordan
+    - >-
+      Muddy Waters, Jimmy Rogers, Robert Jr. Lockwood, Little Walter, Eddie
+      Taylor, Howlin’ Wolf
 spotify_data:
   followers: 421167
   id: 5dCuFngSPyOOnTAvrC7v2s
   popularity: 51
-  url: https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s
+  url: 'https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s'
 discography_enriched: true
 top_tracks:
-- Going Down (Getting Ready... (World))
-- Stumble (My Feeling For the Blues)
-- Ain't No Sunshine (Texas Cannonball)
-- I'm Tore Down (Getting Ready... (World))
-- Same Old Blues (Getting Ready... (World))
-- Stormy Monday (My Feeling For the Blues)
-- Help Me Through The Day (Woman Across The River)
-- Big Legged Woman (Texas Cannonball)
-- Me And My Guitar (Texas Cannonball)
-- Five Long Years (Getting Ready... (World))
+  - Going Down (Getting Ready... (World))
+  - Stumble (My Feeling For the Blues)
+  - Ain't No Sunshine (Texas Cannonball)
+  - I'm Tore Down (Getting Ready... (World))
+  - Same Old Blues (Getting Ready... (World))
+  - Stormy Monday (My Feeling For the Blues)
+  - Help Me Through The Day (Woman Across The River)
+  - Big Legged Woman (Texas Cannonball)
+  - Me And My Guitar (Texas Cannonball)
+  - Five Long Years (Getting Ready... (World))
 external_urls:
-  spotify: https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s
-  wikipedia: https://en.wikipedia.org/wiki/Freddie_King
+  spotify: 'https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s'
+  wikipedia: 'https://en.wikipedia.org/wiki/Freddie_King'
 image_path: 03_Resources/source_material/ArtistPortraits/freddy_king.jpg
 biography_enhanced_at: '2025-12-09T04:47:34.718643'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Texas State Historical Association – Handbook of Texas Online entry on Freddie King (King, Freddie)[1]
-- Fundamental Changes – "Freddie King" artist profile[2]
-- 'TrueFire – "Freddie King: One of the Three Kings of Blues Guitar"[3]'
-- 'TheBluesBlogger – "Freddie King: Is a Blues Master" feature[4]'
-- Rock & Roll Hall of Fame – Freddie King inductee biography[5]
+  - >-
+    Texas State Historical Association – Handbook of Texas Online entry on
+    Freddie King (King, Freddie)[1]
+  - 'Fundamental Changes – "Freddie King" artist profile[2]'
+  - 'TrueFire – "Freddie King: One of the Three Kings of Blues Guitar"[3]'
+  - 'TheBluesBlogger – "Freddie King: Is a Blues Master" feature[4]'
+  - 'Rock & Roll Hall of Fame – Freddie King inductee biography[5]'
 network_extracted: true
 entry_created: '2025-12-09T04:47:34.718651'
 last_updated: '2025-12-23T08:16:08.865069'
-
+origin: 'Chicago, Illinois, United States'
+birth_date: '1934-09-03'
+artist_type: person
 ---
 
 ![](freddy_king.jpg)

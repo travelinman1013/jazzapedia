@@ -5,22 +5,22 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1937-01-06'
-birth_place: Santo Domingo
+birth_place: 'Manoguayabo, Dominican Republic, Dominican Republic'
 genres:
-- salsa
-- son cubano
-- merengue
+  - salsa
+  - son cubano
+  - merengue
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5591e7a9-0541-4884-9931-96e04244b8b2
-  name: Los Virtuosos
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9eaafb99-a9dd-4490-aa39-1deac8a88eb0
-  name: Los Ahijados
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5591e7a9-0541-4884-9931-96e04244b8b2
+    name: Los Virtuosos
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9eaafb99-a9dd-4490-aa39-1deac8a88eb0
+    name: Los Ahijados
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/cuco_valoy.jpg
   caption: Cuco Valoy
@@ -42,59 +42,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Martín Valoy
-  - La Tribu (formerly Los Virtuosos)
-  - Radio Guarachita (via his DJ work)
+    - Martín Valoy
+    - La Tribu (formerly Los Virtuosos)
+    - Radio Guarachita (via his DJ work)
   influenced:
-  - Ramón Cordero
-  - Edilio Paredes
-  - Bernardo Ortiz, Augusto Santos, Víctor Estévez, Melida Rodríguez
-  - Later Dominican salsa and merengue artists (various)
+    - Ramón Cordero
+    - Edilio Paredes
+    - 'Bernardo Ortiz, Augusto Santos, Víctor Estévez, Melida Rodríguez'
+    - Later Dominican salsa and merengue artists (various)
   mentors:
-  - Ramón Valoy
-  - Los Compadres (Cuban duo)
-  - Afro‑Cuban and Afro‑Caribbean traditions
+    - Ramón Valoy
+    - Los Compadres (Cuban duo)
+    - Afro‑Cuban and Afro‑Caribbean traditions
 spotify_data:
   followers: 212409
   id: 0RdKPjwSwfx6jqqdgkyGmE
   popularity: 38
-  url: https://open.spotify.com/artist/0RdKPjwSwfx6jqqdgkyGmE
+  url: 'https://open.spotify.com/artist/0RdKPjwSwfx6jqqdgkyGmE'
 discography_enriched: true
 top_tracks:
-- Caballo Viejo (Grandes Soneros de la Epoca)
-- Mil Maneras (En Dos Tiempos)
-- Juliana (Grandes Soneros de la Epoca)
-- Amor Para Mí (Sonero y Valor)
-- Vuelve (Grandes Soneros de la Epoca)
-- Nació Varón (Grandes Soneros de la Epoca)
-- Mendigo De Amor (Sonero y Valor)
-- Juliana (Sonero y Valor)
-- Si Supieras (Y Su Nueva Tribu)
-- Corazón de Acero (Grandes Soneros de la Epoca)
+  - Caballo Viejo (Grandes Soneros de la Epoca)
+  - Mil Maneras (En Dos Tiempos)
+  - Juliana (Grandes Soneros de la Epoca)
+  - Amor Para Mí (Sonero y Valor)
+  - Vuelve (Grandes Soneros de la Epoca)
+  - Nació Varón (Grandes Soneros de la Epoca)
+  - Mendigo De Amor (Sonero y Valor)
+  - Juliana (Sonero y Valor)
+  - Si Supieras (Y Su Nueva Tribu)
+  - Corazón de Acero (Grandes Soneros de la Epoca)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/15f94087-22cd-470a-ae53-5647fa59cb56
-  spotify: https://open.spotify.com/artist/0RdKPjwSwfx6jqqdgkyGmE
-  wikipedia: https://en.wikipedia.org/wiki/Cuco_Valoy
+  musicbrainz: 'https://musicbrainz.org/artist/15f94087-22cd-470a-ae53-5647fa59cb56'
+  spotify: 'https://open.spotify.com/artist/0RdKPjwSwfx6jqqdgkyGmE'
+  wikipedia: 'https://en.wikipedia.org/wiki/Cuco_Valoy'
 image_path: 03_Resources/source_material/ArtistPortraits/cuco_valoy.jpg
 biography_enhanced_at: '2025-12-07T04:39:58.060728'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- iASO Records artist biography on Cuco Valoy[2]
-- Vinyl-Records.nl profile of Cuco Valoy y Su Tribu[3]
-- 'Bailes Dominicano: Salsa – Cuco Valoy profile[1]'
-- Last.fm Cuco Valoy biography[4]
-- Grokipe­dia Cuco Valoy entry[5]
-- Donald’s Encyclopedia of Popular Music – Cuco Valoy[6]
+  - 'iASO Records artist biography on Cuco Valoy[2]'
+  - 'Vinyl-Records.nl profile of Cuco Valoy y Su Tribu[3]'
+  - 'Bailes Dominicano: Salsa – Cuco Valoy profile[1]'
+  - 'Last.fm Cuco Valoy biography[4]'
+  - 'Grokipe­dia Cuco Valoy entry[5]'
+  - 'Donald’s Encyclopedia of Popular Music – Cuco Valoy[6]'
 network_extracted: true
 entry_created: '2025-12-07T04:39:58.060736'
 last_updated: '2025-12-23T08:16:07.315656'
 gender: Male
 musicbrainz_id: 15f94087-22cd-470a-ae53-5647fa59cb56
 tags:
-- latin
-- merengue
-- salsa
+  - latin
+  - merengue
+  - salsa
 ---
 
 ![](cuco_valoy.jpg)

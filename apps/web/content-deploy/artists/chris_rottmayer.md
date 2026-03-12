@@ -3,13 +3,15 @@ title: Chris Rottmayer
 wiki_slug: chris-rottmayer
 schema_version: 2
 status: active
-birth_place: Columbus, Ohio, USA (birthplace); Madison, Wisconsin, USA (current residence)
+birth_place: 'Columbus, Ohio, USA (birthplace); Madison, Wisconsin, USA (current residence)'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/chris_rottmayer.jpg
   caption: Chris Rottmayer
   background: solo_singer
-  origin: Columbus, Ohio, USA (birthplace); Madison, Wisconsin, USA (current residence)
+  origin: >-
+    Columbus, Ohio, USA (birthplace); Madison, Wisconsin, USA (current
+    residence)
 audio_profile:
   tempo_avg: 116.8
   energy_avg: 0.213
@@ -25,49 +27,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Russ Johnson
-  - Rufus Reid
-  - Matt Endres
-  - Clark Sommers
-  - Kelsey Wallner
+    - Russ Johnson
+    - Rufus Reid
+    - Matt Endres
+    - Clark Sommers
+    - Kelsey Wallner
   influenced:
-  - Students at University of South Florida
+    - Students at University of South Florida
   mentors:
-  - Mulgrew Miller
-  - Woody Shaw
+    - Mulgrew Miller
+    - Woody Shaw
 spotify_data:
   followers: 90
   id: 50j9FNs6rI5i8NTrC2XxRf
   popularity: 1
-  url: https://open.spotify.com/artist/50j9FNs6rI5i8NTrC2XxRf
+  url: 'https://open.spotify.com/artist/50j9FNs6rI5i8NTrC2XxRf'
 discography_enriched: true
 top_tracks:
-- La Vie En Rose (So in Love)
-- Pigalle (Being)
-- Nostalgia in Times Square (Sunday at Pilars)
-- Tranquil Storm (Tranquil Storm)
-- Color Shift (Color Shift)
-- Color Shift (Color Shift (feat. Dominic Walker, Chris Rottmayer, Alex DeLeon & Richard Jimenez))
-- Everything Happens to Me (Playing Favorites)
-- On the Street Where Woody Lives (Being)
-- Re-United (Being)
-- Châtelet (Being)
+  - La Vie En Rose (So in Love)
+  - Pigalle (Being)
+  - Nostalgia in Times Square (Sunday at Pilars)
+  - Tranquil Storm (Tranquil Storm)
+  - Color Shift (Color Shift)
+  - >-
+    Color Shift (Color Shift (feat. Dominic Walker, Chris Rottmayer, Alex DeLeon
+    & Richard Jimenez))
+  - Everything Happens to Me (Playing Favorites)
+  - On the Street Where Woody Lives (Being)
+  - Re-United (Being)
+  - Châtelet (Being)
 external_urls:
-  spotify: https://open.spotify.com/artist/50j9FNs6rI5i8NTrC2XxRf
+  spotify: 'https://open.spotify.com/artist/50j9FNs6rI5i8NTrC2XxRf'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/chris_rottmayer.jpg
 biography_enhanced_at: '2025-11-11T09:18:50.113689'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.allaboutjazz.com/musicians/chris-rottmayer/
-- https://chrisrottmayer.bandcamp.com
-- https://thejazzword.com/2025/10/chris-rottmayer-playing-favorites-review/
-- https://chrisrottmayer.com
-- https://www.makingascene.org/chris-rottmayer-being/
+  - 'https://www.allaboutjazz.com/musicians/chris-rottmayer/'
+  - 'https://chrisrottmayer.bandcamp.com'
+  - 'https://thejazzword.com/2025/10/chris-rottmayer-playing-favorites-review/'
+  - 'https://chrisrottmayer.com'
+  - 'https://www.makingascene.org/chris-rottmayer-being/'
 network_extracted: true
 entry_created: '2025-11-11T09:18:50.113701'
 last_updated: '2025-12-23T08:16:06.897329'
+artist_type: person
 ---
 
 ![](chris_rottmayer.jpg)

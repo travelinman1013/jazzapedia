@@ -1,16 +1,17 @@
 ---
-title: mulatu astatke & black jesus experience
+title: Mulatu Astatke & Black Jesus Experience
 wiki_slug: mulatu-astatke-black-jesus-experience
 schema_version: 2
 status: active
 genres:
-- ethiopian jazz
+  - ethiopian jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/mulatu_astatke_and_black_jesus_experience.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/mulatu_astatke_and_black_jesus_experience.jpg
   caption: mulatu astatke & black jesus experience
   background: solo_singer
 audio_profile:
-  tempo_avg: 119.0
+  tempo_avg: 119
   energy_avg: 0.532
   valence_avg: 0.627
   danceability_avg: 0.562
@@ -24,61 +25,70 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Black Jesus Experience
-  - Enushu Taye (Enushu)
-  - Mr Monk
-  - Peter Harper
-  - Ian Dixon
-  - Negat Abate
-  - Liam Monkhouse
-  - Chris Frangou
-  - James Davies
-  - Zac Lister
-  - Bobby Sedergreen
-  - Nui Moon
+    - Black Jesus Experience
+    - Enushu Taye (Enushu)
+    - Mr Monk
+    - Peter Harper
+    - Ian Dixon
+    - Negat Abate
+    - Liam Monkhouse
+    - Chris Frangou
+    - James Davies
+    - Zac Lister
+    - Bobby Sedergreen
+    - Nui Moon
   influenced:
-  - Black Jesus Experience (collective)
-  - Kahan Harper
+    - Black Jesus Experience (collective)
+    - Kahan Harper
   mentors:
-  - Mulatu Astatke
+    - Mulatu Astatke
 spotify_data:
   followers: 302297
   id: 7HGFXtBhRq3g1Ma3nH4Rgv
   popularity: 53
-  url: https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv
+  url: 'https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv'
 discography_enriched: true
 top_tracks:
-- 'Tezeta (New York - Addis - London: The Story of Ethio Jazz 1965-1975)'
-- 'Yègellé Tezeta (New York - Addis - London: The Story of Ethio Jazz 1965-1975)'
-- Tezeta (Nostalgia)
-- 'Yèkèrmo Sèw (New York - Addis - London: The Story of Ethio Jazz 1965-1975)'
-- Mascaram Setaba - Stereo Master (Mulatu Of Ethiopia)
-- 'Ené Alantchie Alnorem (New York - Addis - London: The Story of Ethio Jazz 1965-1975)'
-- Kasalefkut-hulu - Stereo Master (Mulatu Of Ethiopia)
-- Cha Cha (Inspiration Information 3)
-- Munayé (My Muna)
-- 'Emnete (New York - Addis - London: The Story of Ethio Jazz 1965-1975)'
+  - 'Tezeta (New York - Addis - London: The Story of Ethio Jazz 1965-1975)'
+  - >-
+    Yègellé Tezeta (New York - Addis - London: The Story of Ethio Jazz
+    1965-1975)
+  - Tezeta (Nostalgia)
+  - 'Yèkèrmo Sèw (New York - Addis - London: The Story of Ethio Jazz 1965-1975)'
+  - Mascaram Setaba - Stereo Master (Mulatu Of Ethiopia)
+  - >-
+    Ené Alantchie Alnorem (New York - Addis - London: The Story of Ethio Jazz
+    1965-1975)
+  - Kasalefkut-hulu - Stereo Master (Mulatu Of Ethiopia)
+  - Cha Cha (Inspiration Information 3)
+  - Munayé (My Muna)
+  - 'Emnete (New York - Addis - London: The Story of Ethio Jazz 1965-1975)'
 external_urls:
-  spotify: https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv
-  wikipedia: https://en.wikipedia.org/wiki/Black_Jesus_Experience
-image_path: 03_Resources/source_material/ArtistPortraits/mulatu_astatke_and_black_jesus_experience.jpg
+  spotify: 'https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv'
+  wikipedia: 'https://en.wikipedia.org/wiki/Black_Jesus_Experience'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/mulatu_astatke_and_black_jesus_experience.jpg
 biography_enhanced_at: '2025-12-21T01:29:14.840280'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.thestreet.org.au/shows/mulatu-astatke-black-jesus-experience
-- https://www.agogo-records.com/artist/mulatu-astatke-black-jesus-experience-2/
-- https://en.wikipedia.org/wiki/Black_Jesus_Experience
-- https://www.topshelf.com.au/mulatu-astatke-the-black-jesus-experience
-- https://www.blackjesusexperience.com/biography/
-- https://en.wikipedia.org/wiki/Mulatu_Astatke
-- https://www.lyrebirdartscouncil.com.au/mulatu-astatke-the-black-jesus-experience
-- https://www.womex.com/virtual/sona_productions/black_jesus
+  - 'https://www.thestreet.org.au/shows/mulatu-astatke-black-jesus-experience'
+  - >-
+    https://www.agogo-records.com/artist/mulatu-astatke-black-jesus-experience-2/
+  - 'https://en.wikipedia.org/wiki/Black_Jesus_Experience'
+  - 'https://www.topshelf.com.au/mulatu-astatke-the-black-jesus-experience'
+  - 'https://www.blackjesusexperience.com/biography/'
+  - 'https://en.wikipedia.org/wiki/Mulatu_Astatke'
+  - >-
+    https://www.lyrebirdartscouncil.com.au/mulatu-astatke-the-black-jesus-experience
+  - 'https://www.womex.com/virtual/sona_productions/black_jesus'
 network_extracted: true
 entry_created: '2025-12-21T01:29:14.840284'
 last_updated: '2025-12-23T08:16:13.361795'
-origin: Melbourne, Victoria, Australia (Black Jesus Experience origin) / Addis Ababa, Ethiopia (Mulatu Astatke base and primary
-  creative hub)
+origin: >-
+  Melbourne, Victoria, Australia (Black Jesus Experience origin) / Addis Ababa,
+  Ethiopia (Mulatu Astatke base and primary creative hub)
+artist_type: band
 ---
 
 ![](mulatu_astatke_and_black_jesus_experience.jpg)

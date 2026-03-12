@@ -4,20 +4,20 @@ wiki_slug: kid-orys-creole-jazz-band
 schema_version: 2
 status: deceased
 aliases: []
-birth_date: '1895-04-23'
-birth_place: New Orleans
-death_date: '1944-04-19'
+birth_date: '1886-12-25'
+birth_place: 'LaPlace, Louisiana, United States'
+death_date: '1973'
 years_active: 1912–1944
 genres:
-- ragtime
-- swing music
+  - ragtime
+  - swing music
 instruments:
-- clarinet
+  - clarinet
 occupation:
-- clarinetist
-- jazz musician
+  - clarinetist
+  - jazz musician
 record_labels:
-- Vocalion Records
+  - Vocalion Records
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Kid_Orys_Creole_Jazz_Band.jpg
   caption: Kid Ory's Creole Jazz Band
@@ -40,61 +40,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Louis Armstrong
-  - King Oliver
-  - Jelly Roll Morton
-  - Sidney Bechet
-  - Johnny Dodds
-  - Jimmie Noone
-  - Mutt Carey
-  - Ed Garland
+    - Louis Armstrong
+    - King Oliver
+    - Jelly Roll Morton
+    - Sidney Bechet
+    - Johnny Dodds
+    - Jimmie Noone
+    - Mutt Carey
+    - Ed Garland
   influenced:
-  - Louis Armstrong
-  - George Lewis
-  - Countless traditional jazz trombonists
+    - Louis Armstrong
+    - George Lewis
+    - Countless traditional jazz trombonists
   mentors:
-  - Buddy Bolden
+    - Buddy Bolden
 related_artists: []
 spotify_data:
   followers: 2496
   id: 2BHUVGNVyL4P9boK9roEZZ
   popularity: 22
-  url: https://open.spotify.com/artist/2BHUVGNVyL4P9boK9roEZZ
+  url: 'https://open.spotify.com/artist/2BHUVGNVyL4P9boK9roEZZ'
   verified: false
 discography_enriched: true
 albums_count: 8
 singles_count: 0
 top_tracks:
-- Savoy Blues (Kid Ory New Orleans Jazz Man)
-- Creole Song (Kid Ory New Orleans Jazz Man)
-- Ballin' The Jack (This Kid's The Greatest)
-- Careless Love (Kid Ory New Orleans Jazz Man)
-- Blues for Jimmy Noone (Kid Ory New Orleans Jazz Man)
-- By And By (The Legendary Kid)
-- Birth of the Blues (Kid Ory New Orleans Jazz Man)
-- Mahogany Hall Stomp (Kid Ory New Orleans Jazz Man)
-- Go Back Where You Stayed Last Night (Kid Ory New Orleans Jazz Man)
-- Yacka Hula Hickey Dula (Kid Ory New Orleans Jazz Man)
+  - Savoy Blues (Kid Ory New Orleans Jazz Man)
+  - Creole Song (Kid Ory New Orleans Jazz Man)
+  - Ballin' The Jack (This Kid's The Greatest)
+  - Careless Love (Kid Ory New Orleans Jazz Man)
+  - Blues for Jimmy Noone (Kid Ory New Orleans Jazz Man)
+  - By And By (The Legendary Kid)
+  - Birth of the Blues (Kid Ory New Orleans Jazz Man)
+  - Mahogany Hall Stomp (Kid Ory New Orleans Jazz Man)
+  - Go Back Where You Stayed Last Night (Kid Ory New Orleans Jazz Man)
+  - Yacka Hula Hickey Dula (Kid Ory New Orleans Jazz Man)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/2BHUVGNVyL4P9boK9roEZZ
-  wikipedia: https://en.wikipedia.org/wiki/Kid_Ory
+  spotify: 'https://open.spotify.com/artist/2BHUVGNVyL4P9boK9roEZZ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kid_Ory'
 image_path: 03_Resources/source_material/ArtistPortraits/Kid_Orys_Creole_Jazz_Band.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:53:57.536677'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://veritenews.org/2024/05/08/bitd-edward-kid-ory-jazz/
-- https://www.explorelouisiana.com/music/kid-ory
-- https://exhibits.stanford.edu/sftjf/feature/kid-ory
-- https://syncopatedtimes.com/profiles-in-jazz-kid-ory/
-- https://hnoc.org/research-collections/collection-highlights/edward-kid-ory-papers
+  - 'https://veritenews.org/2024/05/08/bitd-edward-kid-ory-jazz/'
+  - 'https://www.explorelouisiana.com/music/kid-ory'
+  - 'https://exhibits.stanford.edu/sftjf/feature/kid-ory'
+  - 'https://syncopatedtimes.com/profiles-in-jazz-kid-ory/'
+  - >-
+    https://hnoc.org/research-collections/collection-highlights/edward-kid-ory-papers
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 15:18:36.190719
+entry_created: 2025-09-18T15:18:36.190Z
 last_updated: '2025-12-23T08:16:02.864050'
-origin: LaPlace, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+is_active: false
+artist_type: band
 ---
 
 ![](Kid_Orys_Creole_Jazz_Band.jpg)

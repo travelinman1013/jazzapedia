@@ -1,11 +1,11 @@
 ---
-title: CHRIS KENNER
+title: Chris Kenner
 wiki_slug: chris-kenner
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1929-12-25'
-birth_place: Kenner
+birth_place: 'Kenner, Louisiana, United States'
 death_date: '1976-01-25'
 genres: []
 infobox:
@@ -30,49 +30,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Allen Toussaint
+    - Allen Toussaint
   influenced:
-  - Wilson Pickett
-  - Fats Domino
-  - The Dave Clark Five
+    - Wilson Pickett
+    - Fats Domino
+    - The Dave Clark Five
   mentors:
-  - Dave Bartholomew
+    - Dave Bartholomew
 spotify_data:
   followers: 3803
   id: 3mCIMoeTyKjHlgNv7wFZYI
   popularity: 22
-  url: https://open.spotify.com/artist/3mCIMoeTyKjHlgNv7wFZYI
+  url: 'https://open.spotify.com/artist/3mCIMoeTyKjHlgNv7wFZYI'
 discography_enriched: true
 top_tracks:
-- I Like It Like That (Full Metal Jacket (Original Motion Picture Soundtrack))
-- 'Land of 1000 Dances (University Bands: To the Summit)'
-- I Like It Like That - Pt. 1 (Land Of 1,000 Dances (US Internet Release))
-- 'Sick And Tired - Remastered (The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949-1960)'
-- I Like It Like That
-- Land of 1000 Dances - Remastered (Performing All His Hits! (Remastered))
-- Land of 1000 Dances (The Spirit & the Pride of Pennsylvania! 2013)
-- 'I Like It Like That (VINYL: Music From The HBO® Original Series - Vol. 1)'
-- Land of a 1,000 Dances (Land Of 1,000 Dances (US Internet Release))
-- Something You Got (Land Of 1,000 Dances (US Internet Release))
+  - I Like It Like That (Full Metal Jacket (Original Motion Picture Soundtrack))
+  - 'Land of 1000 Dances (University Bands: To the Summit)'
+  - 'I Like It Like That - Pt. 1 (Land Of 1,000 Dances (US Internet Release))'
+  - >-
+    Sick And Tired - Remastered (The Big Beat Of Dave Bartholomew: 20 Milestone
+    Dave Bartholomew Productions 1949-1960)
+  - I Like It Like That
+  - Land of 1000 Dances - Remastered (Performing All His Hits! (Remastered))
+  - Land of 1000 Dances (The Spirit & the Pride of Pennsylvania! 2013)
+  - 'I Like It Like That (VINYL: Music From The HBO® Original Series - Vol. 1)'
+  - 'Land of a 1,000 Dances (Land Of 1,000 Dances (US Internet Release))'
+  - 'Something You Got (Land Of 1,000 Dances (US Internet Release))'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3548a0ec-9093-4bb5-81cc-8a4190bba793
-  spotify: https://open.spotify.com/artist/3mCIMoeTyKjHlgNv7wFZYI
-  wikipedia: https://en.wikipedia.org/wiki/Chris_Kenner
+  musicbrainz: 'https://musicbrainz.org/artist/3548a0ec-9093-4bb5-81cc-8a4190bba793'
+  spotify: 'https://open.spotify.com/artist/3mCIMoeTyKjHlgNv7wFZYI'
+  wikipedia: 'https://en.wikipedia.org/wiki/Chris_Kenner'
 image_path: 03_Resources/source_material/ArtistPortraits/chris_kenner.jpg
 biography_enhanced_at: '2025-10-22T09:25:56.997701'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://wbssmedia.com/artists/detail/3235
-- https://musicrising.tulane.edu/discover/people/chris-kenner/
-- https://fromthevaults-boppinbob.blogspot.com/2020/12/chris-kenner-born-25-december1929.html
-- https://www.imdb.com/name/nm1235929/bio/
-- https://www.bear-family.com/kenner-chris/
+  - 'https://wbssmedia.com/artists/detail/3235'
+  - 'https://musicrising.tulane.edu/discover/people/chris-kenner/'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2020/12/chris-kenner-born-25-december1929.html
+  - 'https://www.imdb.com/name/nm1235929/bio/'
+  - 'https://www.bear-family.com/kenner-chris/'
 network_extracted: true
 entry_created: '2025-10-22T09:25:56.997716'
 last_updated: '2025-12-23T08:16:06.888958'
 gender: Male
 musicbrainz_id: 3548a0ec-9093-4bb5-81cc-8a4190bba793
+is_active: false
 ---
 
 ![](chris_kenner.jpg)

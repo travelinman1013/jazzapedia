@@ -3,44 +3,49 @@ biography_enhanced_at: '2025-12-29T01:10:37.544365'
 enhancement_provider: perplexity
 entry_created: '2025-12-29T01:10:37.544377'
 external_urls:
-  spotify: https://open.spotify.com/artist/2quHEq7N5G0lU7keIHPJUd
+  spotify: 'https://open.spotify.com/artist/2quHEq7N5G0lU7keIHPJUd'
   wikipedia: ''
 genres:
-- country
+  - country
 image_path: 03_Resources/source_material/ArtistPortraits/country_gentlemen.jpg
 last_updated: '2025-12-29T01:10:37.544378'
 musical_connections:
   collaborators:
-  - Charlie Waller
-  - John Duffey
-  - Eddie Adcock
-  - Jimmy Gaudreau
-  - Doyle Lawson
-  - Bill Emerson
-  - Bill Yates
-  - Ricky Skaggs
+    - Charlie Waller
+    - John Duffey
+    - Eddie Adcock
+    - Jimmy Gaudreau
+    - Doyle Lawson
+    - Bill Emerson
+    - Bill Yates
+    - Ricky Skaggs
   influenced:
-  - Jimmy Gaudreau
-  - Doyle Lawson
-  - Ricky Skaggs
+    - Jimmy Gaudreau
+    - Doyle Lawson
+    - Ricky Skaggs
   mentors:
-  - Buzz Busby
+    - Buzz Busby
 network_extracted: true
-origin: Washington, DC, United States
+origin: 'Washington, DC, United States'
 primary_source: perplexity
 research_sources:
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/country-gentlemen
-- https://rebelrecords.com/catalog-artists/featured-catalog-artists/the-country-gentlemen/
-- https://bluegrassunlimited.com/article/the-country-gentleman-in-the-truest-sense/
-- https://bluegrasstoday.com/country-gentlemen-50-years-old-today/
-- https://bluegrassunlimited.com/article/good-music-good-friends-the-country-gentlemen/
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/country-gentlemen
+  - >-
+    https://rebelrecords.com/catalog-artists/featured-catalog-artists/the-country-gentlemen/
+  - >-
+    https://bluegrassunlimited.com/article/the-country-gentleman-in-the-truest-sense/
+  - 'https://bluegrasstoday.com/country-gentlemen-50-years-old-today/'
+  - >-
+    https://bluegrassunlimited.com/article/good-music-good-friends-the-country-gentlemen/
 spotify_data:
   followers: 8509
   id: 2quHEq7N5G0lU7keIHPJUd
   popularity: 32
-  url: https://open.spotify.com/artist/2quHEq7N5G0lU7keIHPJUd
+  url: 'https://open.spotify.com/artist/2quHEq7N5G0lU7keIHPJUd'
 status: active
-title: COUNTRY GENTLEMEN
+title: The Country Gentlemen
+artist_type: band
 ---
 
 ![](country_gentlemen.jpg)

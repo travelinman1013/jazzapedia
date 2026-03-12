@@ -1,36 +1,39 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-04T01:53:07.703156'
 enhancement_provider: perplexity
 entry_created: '2026-01-04T01:53:07.703161'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/aee28de1-7793-4d9f-a171-d98c8d9a5949
-  spotify: https://open.spotify.com/artist/0YEPLajRmXpzLzHCoJOB6v
+  musicbrainz: 'https://musicbrainz.org/artist/aee28de1-7793-4d9f-a171-d98c8d9a5949'
+  spotify: 'https://open.spotify.com/artist/0YEPLajRmXpzLzHCoJOB6v'
   wikipedia: ''
 genres:
-- ragtime
-- big band
-image_path: 03_Resources/source_material/ArtistPortraits/san_francisco_starlight_orchestra.jpg
+  - ragtime
+  - big band
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/san_francisco_starlight_orchestra.jpg
 last_updated: '2026-01-04T01:53:07.703162'
 musical_connections:
   collaborators:
-  - John Howard
-  - Bob Schulz
+    - John Howard
+    - Bob Schulz
   influenced: []
   mentors: []
 musicbrainz_id: aee28de1-7793-4d9f-a171-d98c8d9a5949
 network_extracted: true
-origin: San Francisco, California, United States
+origin: 'San Francisco, California, United States'
 primary_source: perplexity
 research_sources:
-- 'AllMusic: https://www.allmusic.com/artist/san-francisco-starlight-orchestra-mn0000288848[6]'
-- 'SecondHandSongs: http://www.secondhandsongs.com/artist/184811/all[7]'
-- 'Bob Schulz Jazz: http://www.bobschulzjazz.com/history.html[5]'
+  - >-
+    AllMusic:
+    https://www.allmusic.com/artist/san-francisco-starlight-orchestra-mn0000288848[6]
+  - 'SecondHandSongs: http://www.secondhandsongs.com/artist/184811/all[7]'
+  - 'Bob Schulz Jazz: http://www.bobschulzjazz.com/history.html[5]'
 spotify_data:
   followers: 81
   id: 0YEPLajRmXpzLzHCoJOB6v
   popularity: 1
-  url: https://open.spotify.com/artist/0YEPLajRmXpzLzHCoJOB6v
+  url: 'https://open.spotify.com/artist/0YEPLajRmXpzLzHCoJOB6v'
 status: active
 title: San Francisco Starlight Orchestra
 ---

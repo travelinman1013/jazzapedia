@@ -3,35 +3,38 @@ biography_enhanced_at: '2025-12-31T01:42:11.595040'
 enhancement_provider: perplexity
 entry_created: '2025-12-31T01:42:11.595045'
 external_urls:
-  spotify: https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI
-  wikipedia: https://en.wikipedia.org/wiki/Jessie_Ware
+  spotify: 'https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jessie_Ware'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/sbtrkt_and_jesse_ware.jpg
 last_updated: '2025-12-31T01:42:11.595045'
 musical_connections:
   collaborators:
-  - SBTRKT
-  - Sampha
-  - Jack Peñate
-  - Man Like Me
+    - SBTRKT
+    - Sampha
+    - Jack Peñate
+    - Man Like Me
   influenced: []
   mentors:
-  - Jack Peñate
+    - Jack Peñate
 network_extracted: true
-origin: South London, England
+origin: 'South London, England'
 primary_source: perplexity
 research_sources:
-- https://brits.co.uk/news/2013/artist-spotlight-jessie-ware/
-- https://wbssmedia.com/artists/detail/2579
-- https://en.wikipedia.org/wiki/Jessie_Ware
-- https://www.allamericanspeakers.com/speakers/391883/Jessie-Ware
+  - 'https://brits.co.uk/news/2013/artist-spotlight-jessie-ware/'
+  - 'https://wbssmedia.com/artists/detail/2579'
+  - 'https://en.wikipedia.org/wiki/Jessie_Ware'
+  - 'https://www.allamericanspeakers.com/speakers/391883/Jessie-Ware'
 spotify_data:
   followers: 639942
   id: 1O10apSOoAPjOu6UhUNmeI
   popularity: 47
-  url: https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI
+  url: 'https://open.spotify.com/artist/1O10apSOoAPjOu6UhUNmeI'
 status: active
 title: SBTRKT & Jesse Ware
+birth_place: 'South London, England'
+birth_date: '1984-10-15'
+artist_type: band
 ---
 
 ![](sbtrkt_and_jesse_ware.jpg)

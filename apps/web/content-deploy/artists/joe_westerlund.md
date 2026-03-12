@@ -3,13 +3,13 @@ title: Joe Westerlund
 wiki_slug: joe-westerlund
 schema_version: 2
 status: active
-birth_place: Eau Claire, Wisconsin, United States
+birth_place: 'Eau Claire, Wisconsin, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/joe_westerlund.jpg
   caption: Joe Westerlund
   background: solo_singer
-  origin: Eau Claire, Wisconsin, United States
+  origin: 'Eau Claire, Wisconsin, United States'
 audio_profile:
   tempo_avg: 112.6
   energy_avg: 0.517
@@ -25,55 +25,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Justin Vernon
-  - Brad Cook and Phil Cook
-  - Tim Rutili
-  - Jaime Fennelly and Nathan Bowles
-  - Trever Hagen
-  - Matthew E. White
-  - Sam Gendel
+    - Justin Vernon
+    - Brad Cook and Phil Cook
+    - Tim Rutili
+    - Jaime Fennelly and Nathan Bowles
+    - Trever Hagen
+    - Matthew E. White
+    - Sam Gendel
   influenced:
-  - Ai (OLAibi)
+    - Ai (OLAibi)
   mentors:
-  - Milford Graves
-  - Anthony Coleman
-  - Kitty Brazelton
-  - Brevan Hampden
+    - Milford Graves
+    - Anthony Coleman
+    - Kitty Brazelton
+    - Brevan Hampden
 spotify_data:
   followers: 1128
   id: 4GMTDgzWcWkPyF66d6lfVy
   popularity: 25
-  url: https://open.spotify.com/artist/4GMTDgzWcWkPyF66d6lfVy
+  url: 'https://open.spotify.com/artist/4GMTDgzWcWkPyF66d6lfVy'
 discography_enriched: true
 top_tracks:
-- “Heroes” (A Merge Group Plays "Heroes")
-- Tem (Tem)
-- Abdulmajid (A Merge Group Plays "Heroes")
-- Can Tangle (Can Tangle)
-- Tem (Can Tangle)
-- Wall of the Night - Intro (Vaggimal Sessions)
-- Beauty and the Beast (A Merge Group Plays "Heroes")
-- V-2 Schneider - Live (A Merge Group Plays "Heroes")
-- Slow Down Time (Vaggimal Sessions)
-- Shuffle (Vaggimal Sessions)
+  - “Heroes” (A Merge Group Plays "Heroes")
+  - Tem (Tem)
+  - Abdulmajid (A Merge Group Plays "Heroes")
+  - Can Tangle (Can Tangle)
+  - Tem (Can Tangle)
+  - Wall of the Night - Intro (Vaggimal Sessions)
+  - Beauty and the Beast (A Merge Group Plays "Heroes")
+  - V-2 Schneider - Live (A Merge Group Plays "Heroes")
+  - Slow Down Time (Vaggimal Sessions)
+  - Shuffle (Vaggimal Sessions)
 external_urls:
-  spotify: https://open.spotify.com/artist/4GMTDgzWcWkPyF66d6lfVy
+  spotify: 'https://open.spotify.com/artist/4GMTDgzWcWkPyF66d6lfVy'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/joe_westerlund.jpg
 biography_enhanced_at: '2025-11-14T10:32:57.858916'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://www.joewesterlund.com
-- https://spacebombgroup.com/joe-westerlund-at-balliceaux-on-wednesday
-- http://www.joewesterlund.com/audiovisual/
-- https://www.wunc.org/wunc-music/2025-10-22/joe-westerlund-curiosities-from-shift
-- https://indyweek.com/music/joe-westerlund-elegies-for-the-drift/
-- https://radiostats.com/artist/6vzcj3kq/joe-westerlund
-- http://servingup-tunes.com/joe-westerlund-curiosities-from-the-shift-album-review/
+  - 'http://www.joewesterlund.com'
+  - 'https://spacebombgroup.com/joe-westerlund-at-balliceaux-on-wednesday'
+  - 'http://www.joewesterlund.com/audiovisual/'
+  - >-
+    https://www.wunc.org/wunc-music/2025-10-22/joe-westerlund-curiosities-from-shift
+  - 'https://indyweek.com/music/joe-westerlund-elegies-for-the-drift/'
+  - 'https://radiostats.com/artist/6vzcj3kq/joe-westerlund'
+  - >-
+    http://servingup-tunes.com/joe-westerlund-curiosities-from-the-shift-album-review/
 network_extracted: true
 entry_created: '2025-11-14T10:32:57.858923'
 last_updated: '2025-12-23T08:16:10.674623'
+origin: 'Durham, North Carolina, United States'
+artist_type: person
 ---
 
 ![](joe_westerlund.jpg)

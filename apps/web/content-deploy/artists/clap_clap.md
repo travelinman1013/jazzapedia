@@ -1,52 +1,54 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-09T02:15:19.341897'
-birth_place: Florence, Tuscany, Italy
+birth_place: 'Florence, Tuscany, Italy'
 disambiguation: project by Italian producer Cristiano Crisci
 enhancement_provider: perplexity
 entry_created: '2026-01-09T02:15:19.341904'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/0a4c5258-9a67-493f-9430-9be6e6ad208f
-  spotify: https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF
-  wikipedia: https://en.wikipedia.org/wiki/Clap!_Clap!
+  musicbrainz: 'https://musicbrainz.org/artist/0a4c5258-9a67-493f-9430-9be6e6ad208f'
+  spotify: 'https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF'
+  wikipedia: 'https://en.wikipedia.org/wiki/Clap!_Clap!'
 gender: Male
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/clap_clap.jpg
 last_updated: '2026-01-09T02:15:19.341905'
 musical_connections:
   collaborators:
-  - Trio Cane
-  - A Smile For Timbuctu
-  - Bongeziwe Mabandla
-  - John Wizards
-  - OY
-  - HDADD
-  - Black Acre (label and roster)
+    - Trio Cane
+    - A Smile For Timbuctu
+    - Bongeziwe Mabandla
+    - John Wizards
+    - OY
+    - HDADD
+    - Black Acre (label and roster)
   influenced:
-  - Producers in global bass and experimental club music (various)
+    - Producers in global bass and experimental club music (various)
   mentors:
-  - Traditional jazz repertoire and club bandleaders in Tuscany
-  - Punk and hardcore underground scenes
-  - Central and West African tribal music
+    - Traditional jazz repertoire and club bandleaders in Tuscany
+    - Punk and hardcore underground scenes
+    - Central and West African tribal music
 musicbrainz_id: 0a4c5258-9a67-493f-9430-9be6e6ad208f
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.forcedexposure.com/Artists/CLAP.CLAP.html
-- https://www.glamcult.com/articles/in-conversation-with-clap-clap/
-- https://griotmag.com/en/jazzrefound-clap-clap-sound-research-from-sardinia-to-africa-to-siberia/
-- https://www.thewildcity.com/artists/5094-clap-clap
-- https://clapclap.bandcamp.com/music
-- https://www.wikiwand.com/en/articles/Clap!_Clap!
-- https://musicmap.global/clap-clap-florence-italy-tropenmuseum/
-- https://www.allmusic.com/artist/clap!-clap!-mn0000322847
+  - 'https://www.forcedexposure.com/Artists/CLAP.CLAP.html'
+  - 'https://www.glamcult.com/articles/in-conversation-with-clap-clap/'
+  - >-
+    https://griotmag.com/en/jazzrefound-clap-clap-sound-research-from-sardinia-to-africa-to-siberia/
+  - 'https://www.thewildcity.com/artists/5094-clap-clap'
+  - 'https://clapclap.bandcamp.com/music'
+  - 'https://www.wikiwand.com/en/articles/Clap!_Clap!'
+  - 'https://musicmap.global/clap-clap-florence-italy-tropenmuseum/'
+  - 'https://www.allmusic.com/artist/clap!-clap!-mn0000322847'
 spotify_data:
   followers: 46497
   id: 4o6gglPeg2GgT0FYDtzFeF
   popularity: 32
-  url: https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF
+  url: 'https://open.spotify.com/artist/4o6gglPeg2GgT0FYDtzFeF'
 status: active
 title: Clap! Clap!
+origin: 'Florence, Tuscany, Italy'
 ---
 
 ![](clap_clap.jpg)

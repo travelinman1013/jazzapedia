@@ -3,15 +3,15 @@ title: Gerald Wilson
 wiki_slug: gerald-wilson
 schema_version: 2
 status: active
-birth_place: Shelby, Mississippi, United States
+birth_place: 'Shelby, Mississippi, United States'
 genres:
-- big band
-- jazz
+  - big band
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/gerald_wilson.jpg
   caption: Gerald Wilson
   background: solo_singer
-  origin: Shelby, Mississippi, United States
+  origin: 'Shelby, Mississippi, United States'
 audio_profile:
   tempo_avg: 118.9
   energy_avg: 0.36
@@ -27,53 +27,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jimmie Lunceford
-  - Dizzy Gillespie
-  - Count Basie
-  - Melba Liston
-  - Ella Fitzgerald, Sarah Vaughan, Ray Charles, Nancy Wilson
+    - Jimmie Lunceford
+    - Dizzy Gillespie
+    - Count Basie
+    - Melba Liston
+    - 'Ella Fitzgerald, Sarah Vaughan, Ray Charles, Nancy Wilson'
   influenced:
-  - Eric Dolphy
-  - Joe Williams
-  - Generations of jazz students
+    - Eric Dolphy
+    - Joe Williams
+    - Generations of jazz students
   mentors:
-  - His mother
-  - Sy Oliver
+    - His mother
+    - Sy Oliver
 spotify_data:
   followers: 2533
   id: 2gSkBqzo1VXaWnAyjhoYk7
   popularity: 12
-  url: https://open.spotify.com/artist/2gSkBqzo1VXaWnAyjhoYk7
+  url: 'https://open.spotify.com/artist/2gSkBqzo1VXaWnAyjhoYk7'
 discography_enriched: true
 top_tracks:
-- Moody Blue - Remastered 2000 (The Artist Selects)
-- Sax Chase (In My Time)
-- You Better Change Your Way Of Lovin' (1945-1946)
-- Ray's Vision At The U (In My Time)
-- Blues For Yna Yna (You Better Believe It!)
-- Viva Tirado
-- I'm Beginning to See the Light (Jimmy Witherspoon. Spoon / Hey, Mrs. Jones!)
-- You Better Change Your Way Of Lovin' (1945) (Complete Jazz Series 1945 - 1946)
-- All That's Good (Midnight Blues)
-- Moody Blue (You Better Believe It!)
+  - Moody Blue - Remastered 2000 (The Artist Selects)
+  - Sax Chase (In My Time)
+  - You Better Change Your Way Of Lovin' (1945-1946)
+  - Ray's Vision At The U (In My Time)
+  - Blues For Yna Yna (You Better Believe It!)
+  - Viva Tirado
+  - 'I''m Beginning to See the Light (Jimmy Witherspoon. Spoon / Hey, Mrs. Jones!)'
+  - >-
+    You Better Change Your Way Of Lovin' (1945) (Complete Jazz Series 1945 -
+    1946)
+  - All That's Good (Midnight Blues)
+  - Moody Blue (You Better Believe It!)
 external_urls:
-  spotify: https://open.spotify.com/artist/2gSkBqzo1VXaWnAyjhoYk7
-  wikipedia: https://en.wikipedia.org/wiki/Gerald_Wilson
+  spotify: 'https://open.spotify.com/artist/2gSkBqzo1VXaWnAyjhoYk7'
+  wikipedia: 'https://en.wikipedia.org/wiki/Gerald_Wilson'
 image_path: 03_Resources/source_material/ArtistPortraits/gerald_wilson.jpg
 biography_enhanced_at: '2025-11-21T07:18:35.832582'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://aaregistry.org/story/one-of-californias-finest-gerald-wilson/
-- https://www.arts.gov/honors/jazz/gerald-wilson
-- https://summitrecords.com/artist/gerald-wilson-2/
-- https://www.laphil.com/musicdb/artists/1978/gerald-wilson-orchestra
-- https://www.allaboutjazz.com/musicians/gerald-wilson/
-- https://wncu.org/music-news/gerald-wilson-dies-at-96-multifaceted-jazz-musician/
-- https://www.namm.org/library/oral-history/gerald-wilson
+  - 'https://aaregistry.org/story/one-of-californias-finest-gerald-wilson/'
+  - 'https://www.arts.gov/honors/jazz/gerald-wilson'
+  - 'https://summitrecords.com/artist/gerald-wilson-2/'
+  - 'https://www.laphil.com/musicdb/artists/1978/gerald-wilson-orchestra'
+  - 'https://www.allaboutjazz.com/musicians/gerald-wilson/'
+  - >-
+    https://wncu.org/music-news/gerald-wilson-dies-at-96-multifaceted-jazz-musician/
+  - 'https://www.namm.org/library/oral-history/gerald-wilson'
 network_extracted: true
 entry_created: '2025-11-21T07:18:35.832598'
 last_updated: '2025-12-23T08:16:09.150134'
+artist_type: person
 ---
 
 ![](gerald_wilson.jpg)

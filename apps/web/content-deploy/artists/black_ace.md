@@ -1,22 +1,22 @@
 ---
-title: BLACK ACE
+title: Black Ace
 wiki_slug: black-ace
 schema_version: 2
 status: active
-birth_place: Hughes Springs, Texas, USA
+birth_place: 'Hughes Springs, Texas, USA'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/black_ace.jpg
   caption: BLACK ACE
   background: solo_singer
-  origin: Hughes Springs, Texas, USA
+  origin: 'Hughes Springs, Texas, USA'
 audio_profile:
   tempo_avg: 114.5
   energy_avg: 0.667
   valence_avg: 0.564
   danceability_avg: 0.683
   acousticness_avg: 0.151
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -5.7
   speechiness_avg: 0.08
   liveness_avg: 0.233
@@ -25,45 +25,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Smokey Hogg
-  - Whistling Alex Moore
-  - Chris Strachwitz
+    - Smokey Hogg
+    - Whistling Alex Moore
+    - Chris Strachwitz
   influenced: []
   mentors:
-  - Oscar 'Buddy' Woods
-  - Kokomo Arnold
+    - Oscar 'Buddy' Woods
+    - Kokomo Arnold
 spotify_data:
   followers: 5106256
   id: 2cFrymmkijnjDg9SS92EPM
   popularity: 75
-  url: https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM
+  url: 'https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM'
 discography_enriched: true
 top_tracks:
-- idfc (deadroses)
-- hot girl bummer (everything means nothing)
-- my ex's best friend (with blackbear) (Tickets To My Downfall)
-- idfc
-- IDGAF (with blackbear) (Serotonin Dreams)
-- do re mi (digital druglord)
-- Monsters (feat. blackbear) (Wake Up, Sunshine)
-- Ocean Eyes - Blackbear Remix
-- Memory
-- Monsters (feat. Demi Lovato and blackbear)
+  - idfc (deadroses)
+  - hot girl bummer (everything means nothing)
+  - my ex's best friend (with blackbear) (Tickets To My Downfall)
+  - idfc
+  - IDGAF (with blackbear) (Serotonin Dreams)
+  - do re mi (digital druglord)
+  - 'Monsters (feat. blackbear) (Wake Up, Sunshine)'
+  - Ocean Eyes - Blackbear Remix
+  - Memory
+  - Monsters (feat. Demi Lovato and blackbear)
 external_urls:
-  spotify: https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM
+  spotify: 'https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/black_ace.jpg
 biography_enhanced_at: '2025-12-23T02:00:10.754978'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://lawlessluke.com/2019/05/heres-6-things-you-need-to-know-about-the-black-ace/
-- https://www.tshaonline.org/handbook/entries/turner-babe-kyro-lemon-black-ace
-- https://wbssmedia.com/artists/detail/3202
-- http://oldtimeblues.net/2019/02/15/decca-7340-black-ace-b-k-turner-1937/
+  - >-
+    https://lawlessluke.com/2019/05/heres-6-things-you-need-to-know-about-the-black-ace/
+  - 'https://www.tshaonline.org/handbook/entries/turner-babe-kyro-lemon-black-ace'
+  - 'https://wbssmedia.com/artists/detail/3202'
+  - 'http://oldtimeblues.net/2019/02/15/decca-7340-black-ace-b-k-turner-1937/'
 network_extracted: true
 entry_created: '2025-12-23T02:00:10.755023'
 last_updated: '2025-12-23T08:16:05.644788'
+birth_date: '1905-12-21'
+artist_type: person
 ---
 
 ![](black_ace.jpg)

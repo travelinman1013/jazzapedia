@@ -1,15 +1,15 @@
 ---
-title: jelly roll kings
+title: The Jelly Roll Kings
 wiki_slug: jelly-roll-kings
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1979'
 genres:
-- blues
-- footwork
-- soul blues
-- modern blues
+  - blues
+  - footwork
+  - soul blues
+  - modern blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jelly_roll_kings.jpg
   caption: jelly roll kings
@@ -30,67 +30,67 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Frank Frost
-  - Big Jack Johnson
-  - Sam Carr
-  - Robert Palmer
+    - Frank Frost
+    - Big Jack Johnson
+    - Sam Carr
+    - Robert Palmer
   influenced:
-  - Fat Possum Records artists
-  - Modern Delta blues musicians
+    - Fat Possum Records artists
+    - Modern Delta blues musicians
   mentors:
-  - Sonny Boy Williamson (Rice Miller)
-  - Sun Records artists
+    - Sonny Boy Williamson (Rice Miller)
+    - Sun Records artists
 spotify_data:
   followers: 1625
   id: 1w1ciiwfKNbVMwLuE1dlX8
   popularity: 3
-  url: https://open.spotify.com/artist/1w1ciiwfKNbVMwLuE1dlX8
+  url: 'https://open.spotify.com/artist/1w1ciiwfKNbVMwLuE1dlX8'
 discography_enriched: true
 top_tracks:
-- I Didn't Know (Rockin' The Juke Joint Down)
-- I'm a Big Boy Now (Off Yonder Wall)
-- That's Alright Mama (Off Yonder Wall)
-- Have Mercy Baby (Off Yonder Wall)
-- Road Of Love (Rockin' The Juke Joint Down)
-- Mighty Long Time (Rockin' The Juke Joint Down)
-- Catfish Blues (Rockin' The Juke Joint Down)
-- Have Mercy Baby (Not the Same Old Blues Crap)
-- Frank Frost Blues (Off Yonder Wall)
-- Look over Yonder Wall (Off Yonder Wall)
+  - I Didn't Know (Rockin' The Juke Joint Down)
+  - I'm a Big Boy Now (Off Yonder Wall)
+  - That's Alright Mama (Off Yonder Wall)
+  - Have Mercy Baby (Off Yonder Wall)
+  - Road Of Love (Rockin' The Juke Joint Down)
+  - Mighty Long Time (Rockin' The Juke Joint Down)
+  - Catfish Blues (Rockin' The Juke Joint Down)
+  - Have Mercy Baby (Not the Same Old Blues Crap)
+  - Frank Frost Blues (Off Yonder Wall)
+  - Look over Yonder Wall (Off Yonder Wall)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d86c3c8b-84d5-44ce-80fa-7cfc537fe5c1
-  spotify: https://open.spotify.com/artist/1w1ciiwfKNbVMwLuE1dlX8
-  wikipedia: https://en.wikipedia.org/wiki/The_Jelly_Roll_Kings
+  musicbrainz: 'https://musicbrainz.org/artist/d86c3c8b-84d5-44ce-80fa-7cfc537fe5c1'
+  spotify: 'https://open.spotify.com/artist/1w1ciiwfKNbVMwLuE1dlX8'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Jelly_Roll_Kings'
 image_path: 03_Resources/source_material/ArtistPortraits/jelly_roll_kings.jpg
 biography_enhanced_at: '2025-11-27T06:35:31.895739'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Jelly_Roll_Kings
-- https://fatpossum.com/collections/jelly-roll-kings
-- https://www.deltabluesmuseum.org/news-sam-carr-dies.aspx
-- https://www.allmusic.com/artist/the-jelly-roll-kings-mn0000319476
+  - 'https://en.wikipedia.org/wiki/The_Jelly_Roll_Kings'
+  - 'https://fatpossum.com/collections/jelly-roll-kings'
+  - 'https://www.deltabluesmuseum.org/news-sam-carr-dies.aspx'
+  - 'https://www.allmusic.com/artist/the-jelly-roll-kings-mn0000319476'
 network_extracted: true
 entry_created: '2025-11-27T06:35:31.895756'
 last_updated: '2025-12-23T08:16:10.320317'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ac4cca27-cd9b-48d4-8dfc-bc9913f4a6b2
-  name: Sam Carr
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5a6300d2-40f6-4297-89a4-761679e76c9b
-  name: Frank Frost
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 38ba117d-3df3-482a-8484-f7d65e2fe47f
-  name: Big Jack Johnson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ac4cca27-cd9b-48d4-8dfc-bc9913f4a6b2
+    name: Sam Carr
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5a6300d2-40f6-4297-89a4-761679e76c9b
+    name: Frank Frost
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 38ba117d-3df3-482a-8484-f7d65e2fe47f
+    name: Big Jack Johnson
 musicbrainz_id: d86c3c8b-84d5-44ce-80fa-7cfc537fe5c1
-origin: Mississippi, United States
+origin: 'Mississippi, United States'
 ---
 
 ![](jelly_roll_kings.jpg)

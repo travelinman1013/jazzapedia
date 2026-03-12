@@ -3,15 +3,15 @@ title: Wade Fruge
 wiki_slug: wade-fruge
 schema_version: 2
 status: active
-birth_place: Tasso (near Eunice), Louisiana, United States
+birth_place: 'Tasso (near Eunice), Louisiana, United States'
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/wade_fruge.jpg
   caption: Wade Fruge
   background: solo_singer
-  origin: Tasso (near Eunice), Louisiana, United States
+  origin: 'Tasso (near Eunice), Louisiana, United States'
 audio_profile:
   tempo_avg: 137.3
   energy_avg: 0.37
@@ -19,7 +19,7 @@ audio_profile:
   danceability_avg: 0.523
   acousticness_avg: 0.72
   instrumentalness_avg: 0.09
-  loudness_avg: -12.0
+  loudness_avg: -12
   speechiness_avg: 0.054
   liveness_avg: 0.26
   track_count: 50
@@ -27,45 +27,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ann Savoy
-  - Vorance Barzas
-  - Marc Savoy
+    - Ann Savoy
+    - Vorance Barzas
+    - Marc Savoy
   influenced:
-  - Younger Cajun fiddlers (e.g., members of the Savoy family and regional musicians)
+    - >-
+      Younger Cajun fiddlers (e.g., members of the Savoy family and regional
+      musicians)
   mentors:
-  - Local contemporaries and elders
+    - Local contemporaries and elders
 spotify_data:
   followers: 457
   id: 1w7GFTKbsGvB3yvXuGw8Ze
   popularity: 5
-  url: https://open.spotify.com/artist/1w7GFTKbsGvB3yvXuGw8Ze
+  url: 'https://open.spotify.com/artist/1w7GFTKbsGvB3yvXuGw8Ze'
 discography_enriched: true
 top_tracks:
-- Port Arthur Blues (Old Style Cajun Music)
-- '''Tit Mamou (Old Style Cajun Music)'
-- La Vieille Chanson De Mardi Gras (The Mardi Gras Song) (Old Style Cajun Music)
-- La Valse De Bayou Teche (Old Style Cajun Music)
-- La Valse De Choupique (Old Style Cajun Music)
-- You Used to Have Some (Old Style Cajun Music)
-- La Valse Criminel (Old Style Cajun Music)
-- Evangeline Playboy Special (Old Style Cajun Music)
-- The Crowley Waltz (Old Style Cajun Music)
-- Gumbo Waltz (Old Style Cajun Music)
+  - Port Arthur Blues (Old Style Cajun Music)
+  - '''Tit Mamou (Old Style Cajun Music)'
+  - >-
+    La Vieille Chanson De Mardi Gras (The Mardi Gras Song) (Old Style Cajun
+    Music)
+  - La Valse De Bayou Teche (Old Style Cajun Music)
+  - La Valse De Choupique (Old Style Cajun Music)
+  - You Used to Have Some (Old Style Cajun Music)
+  - La Valse Criminel (Old Style Cajun Music)
+  - Evangeline Playboy Special (Old Style Cajun Music)
+  - The Crowley Waltz (Old Style Cajun Music)
+  - Gumbo Waltz (Old Style Cajun Music)
 external_urls:
-  spotify: https://open.spotify.com/artist/1w7GFTKbsGvB3yvXuGw8Ze
-  wikipedia: https://en.wikipedia.org/wiki/Wade_Frug%C3%A9
+  spotify: 'https://open.spotify.com/artist/1w7GFTKbsGvB3yvXuGw8Ze'
+  wikipedia: 'https://en.wikipedia.org/wiki/Wade_Frug%C3%A9'
 image_path: 03_Resources/source_material/ArtistPortraits/wade_fruge.jpg
 biography_enhanced_at: '2025-11-17T10:44:35.375300'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Wade_Frug%C3%A9
-- https://www.allmusic.com/artist/wade-frug%C3%A9-mn0000189451
-- https://folkways.si.edu/wade-fruge/old-style-cajun-music/music/album/smithsonian
-- https://folkways-media.si.edu/docs/folkways/artwork/ARH00476.pdf
+  - 'https://en.wikipedia.org/wiki/Wade_Frug%C3%A9'
+  - 'https://www.allmusic.com/artist/wade-frug%C3%A9-mn0000189451'
+  - >-
+    https://folkways.si.edu/wade-fruge/old-style-cajun-music/music/album/smithsonian
+  - 'https://folkways-media.si.edu/docs/folkways/artwork/ARH00476.pdf'
 network_extracted: true
 entry_created: '2025-11-17T10:44:35.375308'
 last_updated: '2025-12-23T08:16:17.946909'
+origin: 'Eunice, Louisiana, United States'
+birth_date: '1916-08-27'
+death_date: '1992-06-23'
+artist_type: person
 ---
 
 ![](wade_fruge.jpg)

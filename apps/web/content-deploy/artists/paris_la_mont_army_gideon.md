@@ -1,12 +1,12 @@
 ---
-title: Paris La Mont, Army Gideon
+title: Army Gideon
 wiki_slug: paris-la-mont-army-gideon
 schema_version: 2
 status: active
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/paris_la_mont_army_gideon.jpg
-  caption: Paris La Mont, Army Gideon
+  caption: 'Paris La Mont, Army Gideon'
   background: solo_singer
 audio_profile:
   tempo_avg: 119.7
@@ -23,42 +23,43 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Paris La Mont
+    - Paris La Mont
   influenced: []
   mentors: []
 spotify_data:
   followers: 276
   id: 6DeQjZEnrY2IgC86FYIoKb
   popularity: 15
-  url: https://open.spotify.com/artist/6DeQjZEnrY2IgC86FYIoKb
+  url: 'https://open.spotify.com/artist/6DeQjZEnrY2IgC86FYIoKb'
 discography_enriched: true
 top_tracks:
-- Holy, Holy, Holy! (He Is Lord)
-- Rock of Ages (He Is Lord)
-- O God, Our Help in Ages Past (He Is Lord)
-- Immortal, Invisible (He Is Lord)
-- He Is Lord (He Is Lord)
-- Great is Thy Faithfulness (He Is Lord)
-- A Mighty Fortress (He Is Lord)
-- How Great Thou Art (He Is Lord)
-- Amazing Grace (He Is Lord)
-- Fairest Lord Jesus (He Is Lord)
+  - 'Holy, Holy, Holy! (He Is Lord)'
+  - Rock of Ages (He Is Lord)
+  - 'O God, Our Help in Ages Past (He Is Lord)'
+  - 'Immortal, Invisible (He Is Lord)'
+  - He Is Lord (He Is Lord)
+  - Great is Thy Faithfulness (He Is Lord)
+  - A Mighty Fortress (He Is Lord)
+  - How Great Thou Art (He Is Lord)
+  - Amazing Grace (He Is Lord)
+  - Fairest Lord Jesus (He Is Lord)
 external_urls:
-  spotify: https://open.spotify.com/artist/6DeQjZEnrY2IgC86FYIoKb
+  spotify: 'https://open.spotify.com/artist/6DeQjZEnrY2IgC86FYIoKb'
   wikipedia: Not found
 image_path: 03_Resources/source_material/ArtistPortraits/paris_la_mont_army_gideon.jpg
 biography_enhanced_at: '2025-12-04T08:20:32.461465'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- armygideon.com
-- reggaeville.com
-- shazam.com
-- Bibliothèque Nationale de France
+  - armygideon.com
+  - reggaeville.com
+  - shazam.com
+  - Bibliothèque Nationale de France
 network_extracted: true
 entry_created: '2025-12-04T08:20:32.461476'
 last_updated: '2025-12-23T08:16:13.944118'
 origin: Unknown (insufficient data)
+artist_type: band
 ---
 
 ![](paris_la_mont_army_gideon.jpg)

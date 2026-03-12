@@ -1,38 +1,40 @@
 ---
 biography_enhanced_at: '2026-01-02T01:25:22.419425'
-birth_place: London, England
+birth_place: 'London, England, United Kingdom'
 enhancement_provider: perplexity
 entry_created: '2026-01-02T01:25:22.419430'
 external_urls:
-  spotify: https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8
-  wikipedia: https://en.wikipedia.org/wiki/Cat_Stevens
+  spotify: 'https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8'
+  wikipedia: 'https://en.wikipedia.org/wiki/Cat_Stevens'
 genres:
-- folk rock
-- folk
-- singer-songwriter
+  - folk rock
+  - folk
+  - singer-songwriter
 image_path: 03_Resources/source_material/ArtistPortraits/cat_stevensyusuf.jpg
 last_updated: '2026-01-02T01:25:22.419431'
 musical_connections:
   collaborators:
-  - Dawud Wharnsby
-  - Raihan
+    - Dawud Wharnsby
+    - Raihan
   influenced: []
   mentors:
-  - The Beatles
+    - The Beatles
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.britannica.com/biography/Cat-Stevens
-- https://catstevens.com/life/
-- https://en.wikipedia.org/wiki/Cat_Stevens
-- https://playingforchange.com/artists/yusuf-cat-stevens
+  - 'https://www.britannica.com/biography/Cat-Stevens'
+  - 'https://catstevens.com/life/'
+  - 'https://en.wikipedia.org/wiki/Cat_Stevens'
+  - 'https://playingforchange.com/artists/yusuf-cat-stevens'
 spotify_data:
   followers: 2208847
   id: 08F3Y3SctIlsOEmKd6dnH8
   popularity: 70
-  url: https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8
+  url: 'https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8'
 status: active
-title: cat stevens/yusuf
+title: Cat Stevens/Yusuf
+birth_date: '1948-07-21'
+artist_type: person
 ---
 
 ![](cat_stevensyusuf.jpg)

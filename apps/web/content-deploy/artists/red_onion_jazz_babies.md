@@ -1,11 +1,11 @@
 ---
-title: RED ONION JAZZ BABIES
+title: Red Onion Jazz Babies
 wiki_slug: red-onion-jazz-babies
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- ragtime
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/red_onion_jazz_babies.jpg
   caption: RED ONION JAZZ BABIES
@@ -25,79 +25,82 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Louis Armstrong
-  - Sidney Bechet
-  - Lil Hardin-Armstrong
-  - Charlie Irvis
-  - Buddy Christian
-  - Alberta Hunter
+    - Louis Armstrong
+    - Sidney Bechet
+    - Lil Hardin-Armstrong
+    - Charlie Irvis
+    - Buddy Christian
+    - Alberta Hunter
   influenced:
-  - Early Jazz Ensembles
+    - Early Jazz Ensembles
   mentors:
-  - Clarence Williams
+    - Clarence Williams
 spotify_data:
   followers: 1172
   id: 1KM7twlIXb6zx1pUpxi8r8
   popularity: 5
-  url: https://open.spotify.com/artist/1KM7twlIXb6zx1pUpxi8r8
+  url: 'https://open.spotify.com/artist/1KM7twlIXb6zx1pUpxi8r8'
 discography_enriched: true
 top_tracks:
-- Cake Walking Babies From Home (Louis Armstrong And King Oliver)
-- Terrible Blues (Louis Armstrong And King Oliver)
-- Of All the Wrongs You've Done To Me (Louis Armstrong And King Oliver)
-- Santa Claus Blues (Louis Armstrong And King Oliver)
-- Nobody Knows The Way I Feel This Morning (Louis Armstrong And King Oliver)
-- Texas Moaner Blues (Louis Armstrong And King Oliver)
-- Early Every Mornin' (Louis Armstrong And King Oliver)
-- The Santa Claus Blues - New Orleans Version (The Santa Claus Blues (New Orleans Version))
-- Santa Claus Blues (Blues Christmas Songs)
-- Santa Claus Blues (BD Music Presents Christmas Jazz)
+  - Cake Walking Babies From Home (Louis Armstrong And King Oliver)
+  - Terrible Blues (Louis Armstrong And King Oliver)
+  - Of All the Wrongs You've Done To Me (Louis Armstrong And King Oliver)
+  - Santa Claus Blues (Louis Armstrong And King Oliver)
+  - Nobody Knows The Way I Feel This Morning (Louis Armstrong And King Oliver)
+  - Texas Moaner Blues (Louis Armstrong And King Oliver)
+  - Early Every Mornin' (Louis Armstrong And King Oliver)
+  - >-
+    The Santa Claus Blues - New Orleans Version (The Santa Claus Blues (New
+    Orleans Version))
+  - Santa Claus Blues (Blues Christmas Songs)
+  - Santa Claus Blues (BD Music Presents Christmas Jazz)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8e062d48-0f1c-4226-8503-19a03fe9249a
-  spotify: https://open.spotify.com/artist/1KM7twlIXb6zx1pUpxi8r8
-  wikipedia: https://en.wikipedia.org/wiki/Red_Onion_Jazz_Babies
+  musicbrainz: 'https://musicbrainz.org/artist/8e062d48-0f1c-4226-8503-19a03fe9249a'
+  spotify: 'https://open.spotify.com/artist/1KM7twlIXb6zx1pUpxi8r8'
+  wikipedia: 'https://en.wikipedia.org/wiki/Red_Onion_Jazz_Babies'
 image_path: 03_Resources/source_material/ArtistPortraits/red_onion_jazz_babies.jpg
 biography_enhanced_at: '2025-12-04T07:21:36.799567'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Red_Onion_Jazz_Babies
-- https://amhistory.si.edu/jazz/education/Act3.pdf
-- https://www.wtju.net/jazz-at-100-hour-3-new-orleans-diaspora-jelly-roll-morton-sidney-bechet/
-- https://syncopatedtimes.com/red-onion-jazz-babies/
+  - 'https://en.wikipedia.org/wiki/Red_Onion_Jazz_Babies'
+  - 'https://amhistory.si.edu/jazz/education/Act3.pdf'
+  - >-
+    https://www.wtju.net/jazz-at-100-hour-3-new-orleans-diaspora-jelly-roll-morton-sidney-bechet/
+  - 'https://syncopatedtimes.com/red-onion-jazz-babies/'
 network_extracted: true
 entry_created: '2025-12-04T07:21:36.799578'
 last_updated: '2025-12-23T08:16:14.732402'
 members:
-- begin: '1924'
-  end: '1925'
-  instruments: []
-  mbid: eea8a864-fcda-4602-9569-38ab446decd6
-  name: Louis Armstrong
-- begin: '1924'
-  end: '1925'
-  instruments: []
-  mbid: 20a72e06-2568-4637-a283-1f99f81e82bb
-  name: Buster Bailey
-- begin: '1924'
-  end: '1925'
-  instruments: []
-  mbid: bf1b23ea-9b76-42cf-a5f6-4a691e81af5e
-  name: Sidney Bechet
-- begin: '1924'
-  end: '1925'
-  instruments: []
-  mbid: 2a6f6ee8-a9cd-4826-9749-d0fe48fb49f7
-  name: Lil Hardin Armstrong
-- begin: '1924'
-  end: '1925'
-  instruments: []
-  mbid: d5a73b4d-62ea-4693-af94-f6ca35a57e58
-  name: Alberta Hunter
+  - begin: '1924'
+    end: '1925'
+    instruments: []
+    mbid: eea8a864-fcda-4602-9569-38ab446decd6
+    name: Louis Armstrong
+  - begin: '1924'
+    end: '1925'
+    instruments: []
+    mbid: 20a72e06-2568-4637-a283-1f99f81e82bb
+    name: Buster Bailey
+  - begin: '1924'
+    end: '1925'
+    instruments: []
+    mbid: bf1b23ea-9b76-42cf-a5f6-4a691e81af5e
+    name: Sidney Bechet
+  - begin: '1924'
+    end: '1925'
+    instruments: []
+    mbid: 2a6f6ee8-a9cd-4826-9749-d0fe48fb49f7
+    name: Lil Hardin Armstrong
+  - begin: '1924'
+    end: '1925'
+    instruments: []
+    mbid: d5a73b4d-62ea-4693-af94-f6ca35a57e58
+    name: Alberta Hunter
 musicbrainz_id: 8e062d48-0f1c-4226-8503-19a03fe9249a
-origin: New York, New York, United States
+origin: 'New York, New York, United States'
 tags:
-- dixieland
+  - dixieland
 ---
 
 ![](red_onion_jazz_babies.jpg)

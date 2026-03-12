@@ -1,41 +1,42 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-14T01:10:27.438674'
-birth_place: Alexandria, Louisiana, USA
+birth_place: 'Alexandria, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-14T01:10:27.438684'
 external_urls:
-  spotify: https://open.spotify.com/artist/25XSZ0xFRu0lFRL3eqBPkc
+  spotify: 'https://open.spotify.com/artist/25XSZ0xFRu0lFRL3eqBPkc'
   wikipedia: ''
 genres:
-- comedy
+  - comedy
 image_path: 03_Resources/source_material/ArtistPortraits/josh_johnson.jpg
 last_updated: '2026-01-14T01:10:27.438686'
 musical_connections:
   collaborators:
-  - Trevor Noah
-  - Logan Nielsen
-  - Dulcé Sloan
-  - Luke Mones
+    - Trevor Noah
+    - Logan Nielsen
+    - Dulcé Sloan
+    - Luke Mones
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.allamericanspeakers.com/speakers/397217/Josh-Johnson
-- https://www.joshjohnsoncomedy.com/about
-- https://funny-business.com/entertainer/josh-johnson/
-- https://thecurvemagazine.com/2021/06/15/humble-and-hilarious-an-interview-with-josh-johnson/
-- https://improv.com/irvine/comic/josh+johnson/
-- https://levitylive.com/nyack/comic/josh+johnson/
-- https://710keel.com/josh-johnson-daily-show-debut/
+  - 'https://www.allamericanspeakers.com/speakers/397217/Josh-Johnson'
+  - 'https://www.joshjohnsoncomedy.com/about'
+  - 'https://funny-business.com/entertainer/josh-johnson/'
+  - >-
+    https://thecurvemagazine.com/2021/06/15/humble-and-hilarious-an-interview-with-josh-johnson/
+  - 'https://improv.com/irvine/comic/josh+johnson/'
+  - 'https://levitylive.com/nyack/comic/josh+johnson/'
+  - 'https://710keel.com/josh-johnson-daily-show-debut/'
 spotify_data:
   followers: 20877
   id: 25XSZ0xFRu0lFRL3eqBPkc
   popularity: 34
-  url: https://open.spotify.com/artist/25XSZ0xFRu0lFRL3eqBPkc
+  url: 'https://open.spotify.com/artist/25XSZ0xFRu0lFRL3eqBPkc'
 status: active
-title: josh johnson
+title: Josh Johnson
 ---
 
 ![](josh_johnson.jpg)

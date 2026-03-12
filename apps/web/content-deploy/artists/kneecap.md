@@ -1,63 +1,63 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2025-12-25T01:18:38.674289'
 birth_date: '2017'
 disambiguation: Irish hip-hop trio
 enhancement_provider: perplexity
 entry_created: '2025-12-25T01:18:38.674304'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6ac275dd-eb37-42cf-9a60-6b147320c7be
-  spotify: https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU
-  wikipedia: https://en.wikipedia.org/wiki/Kneecap_(band)
+  musicbrainz: 'https://musicbrainz.org/artist/6ac275dd-eb37-42cf-9a60-6b147320c7be'
+  spotify: 'https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kneecap_(band)'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/kneecap.jpg
 last_updated: '2025-12-25T01:18:38.674306'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a03f336e-d596-4e7d-9474-496efd12093d
-  name: DJ Próvaí
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3c65db26-82c5-420d-bcce-5b9a79fcf27b
-  name: Mo Chara
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9e1147dd-3e44-4297-81ed-1696c1fa36df
-  name: Moglaí Bap
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a03f336e-d596-4e7d-9474-496efd12093d
+    name: DJ Próvaí
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3c65db26-82c5-420d-bcce-5b9a79fcf27b
+    name: Mo Chara
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9e1147dd-3e44-4297-81ed-1696c1fa36df
+    name: Moglaí Bap
 musical_connections:
   collaborators:
-  - Mo Chara (Liam Óg Ó hAnnaidh)
-  - Móglaí Bap (Naoise Ó Cairealláin)
-  - DJ Próvaí (J. J. Ó Dochartaigh)
+    - Mo Chara (Liam Óg Ó hAnnaidh)
+    - Móglaí Bap (Naoise Ó Cairealláin)
+    - DJ Próvaí (J. J. Ó Dochartaigh)
   influenced:
-  - Emerging Irish-language and Irish-based rap artists (collective category)
+    - Emerging Irish-language and Irish-based rap artists (collective category)
   mentors:
-  - Gearóid Ó Cairealláin
-  - Irish-language teachers and community activists in Belfast and Derry
-  - Global hip hop tradition
+    - Gearóid Ó Cairealláin
+    - Irish-language teachers and community activists in Belfast and Derry
+    - Global hip hop tradition
 musicbrainz_id: 6ac275dd-eb37-42cf-9a60-6b147320c7be
 network_extracted: true
-origin: Belfast
+origin: 'Belfast, Northern Ireland, United Kingdom'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Kneecap_(band)
-- https://notion.online/kneecap/
-- https://daily.bandcamp.com/features/kneecap-fine-art-interview
-- https://floodmagazine.com/166125/kneecap-fine-art-feature/
+  - 'https://en.wikipedia.org/wiki/Kneecap_(band)'
+  - 'https://notion.online/kneecap/'
+  - 'https://daily.bandcamp.com/features/kneecap-fine-art-interview'
+  - 'https://floodmagazine.com/166125/kneecap-fine-art-feature/'
 spotify_data:
   followers: 476426
   id: 1ZVACPeq7ccGCoUXwtafUU
   popularity: 64
-  url: https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU
+  url: 'https://open.spotify.com/artist/1ZVACPeq7ccGCoUXwtafUU'
 status: active
 tags:
-- gangsta rap
-- hip hop
-- irish
+  - gangsta rap
+  - hip hop
+  - irish
 title: Kneecap
 ---
 

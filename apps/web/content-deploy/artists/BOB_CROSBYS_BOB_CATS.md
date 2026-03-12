@@ -1,10 +1,10 @@
 ---
-title: BOB CROSBY'S BOB CATS
+title: Bob Crosby's Bob Cats
 wiki_slug: bob-crosbys-bob-cats
 schema_version: 2
 status: active
 genres:
-- swing music
+  - swing music
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/BOB_CROSBYS_BOB_CATS.jpg
   caption: BOB CROSBY'S BOB CATS
@@ -24,47 +24,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ray Bauduc
-  - Bob Haggart
-  - Jess Stacy
-  - Muggsy Spanier
-  - Yank Lawson
+    - Ray Bauduc
+    - Bob Haggart
+    - Jess Stacy
+    - Muggsy Spanier
+    - Yank Lawson
   influenced:
-  - World's Greatest Jazz Band
-  - Lawson-Haggart Jazz Band
-  - Doris Day
+    - World's Greatest Jazz Band
+    - Lawson-Haggart Jazz Band
+    - Doris Day
   mentors:
-  - Ben Pollack
+    - Ben Pollack
 spotify_data:
   followers: 12
   id: 0G59y87Yrlt5Wtne5NukTO
   popularity: 0
-  url: https://open.spotify.com/artist/0G59y87Yrlt5Wtne5NukTO
+  url: 'https://open.spotify.com/artist/0G59y87Yrlt5Wtne5NukTO'
 discography_enriched: true
 top_tracks:
-- Fidgety Feet (The Flat Foot Floogie)
-- It Was a Lover and His Lass - From the Musical "As You Like It", Act 5, Scene 3 (Shakespeare in Swing)
-- Oh Mistress Mine - From the musical"Twelfth Night", Act 2, Scene 3 (Shakespeare in Swing)
-- Blow Blow Thou Winter Winds - From the Musical "As You Like It", Act 2, Scene 7 (Shakespeare in Swing)
-- Sigh no More Ladies - From the Musical "Much Ado About Nothing", Act 2, Scene 3 (Shakespeare in Swing)
+  - Fidgety Feet (The Flat Foot Floogie)
+  - >-
+    It Was a Lover and His Lass - From the Musical "As You Like It", Act 5,
+    Scene 3 (Shakespeare in Swing)
+  - >-
+    Oh Mistress Mine - From the musical"Twelfth Night", Act 2, Scene 3
+    (Shakespeare in Swing)
+  - >-
+    Blow Blow Thou Winter Winds - From the Musical "As You Like It", Act 2,
+    Scene 7 (Shakespeare in Swing)
+  - >-
+    Sigh no More Ladies - From the Musical "Much Ado About Nothing", Act 2,
+    Scene 3 (Shakespeare in Swing)
 external_urls:
-  spotify: https://open.spotify.com/artist/0G59y87Yrlt5Wtne5NukTO
-  wikipedia: https://en.wikipedia.org/wiki/Bob_Crosby
+  spotify: 'https://open.spotify.com/artist/0G59y87Yrlt5Wtne5NukTO'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bob_Crosby'
 image_path: 03_Resources/source_material/ArtistPortraits/BOB_CROSBYS_BOB_CATS.jpg
 biography_enhanced_at: '2025-10-20T09:18:05.237393'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Bob_Crosby
-- https://www.swingstreetradio.org/performer/bob-crosby/
-- https://kids.britannica.com/students/article/Bob-Crosby/320674
-- https://jazzstandards.com/biographies/biography_145.htm
-- https://jazzlives.wordpress.com/tag/bob-crosby-and-the-bob-cats/
-- https://syncopatedtimes.com/bob-crosbys-bob-cats-small-band-perfection/
+  - 'https://en.wikipedia.org/wiki/Bob_Crosby'
+  - 'https://www.swingstreetradio.org/performer/bob-crosby/'
+  - 'https://kids.britannica.com/students/article/Bob-Crosby/320674'
+  - 'https://jazzstandards.com/biographies/biography_145.htm'
+  - 'https://jazzlives.wordpress.com/tag/bob-crosby-and-the-bob-cats/'
+  - 'https://syncopatedtimes.com/bob-crosbys-bob-cats-small-band-perfection/'
 network_extracted: true
 entry_created: '2025-10-20T09:18:05.237404'
 last_updated: '2025-12-23T08:16:01.128721'
-origin: Spokane, Washington, United States
+origin: 'Spokane, Washington, United States'
+birth_place: 'Spokane, Washington, United States'
+birth_date: '1913'
+artist_type: band
 ---
 
 ![](BOB_CROSBYS_BOB_CATS.jpg)

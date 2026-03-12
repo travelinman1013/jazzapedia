@@ -2,23 +2,23 @@
 title: Smiley Lewis
 wiki_slug: smiley-lewis
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1913-07-05'
-birth_place: DeQuincy, Louisiana, USA
+birth_place: 'DeQuincy, Louisiana, USA'
 death_date: '1966-10-07'
 genres:
-- boogie-woogie
-- doo-wop
-- blues
+  - boogie-woogie
+  - doo-wop
+  - blues
 instruments:
-- original
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Smiley_Lewis.jpg
   caption: Smiley Lewis
   background: non_vocal_instrumentalist
   born: '1913-07-05'
-  origin: DeQuincy, Louisiana, USA
+  origin: 'DeQuincy, Louisiana, USA'
   died: '1966-10-07'
 audio_profile:
   tempo_avg: 121.8
@@ -35,47 +35,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Isidore 'Tuts' Washington
-  - Herman Seals
+    - Isidore 'Tuts' Washington
+    - Herman Seals
   influenced:
-  - Fats Domino
+    - Fats Domino
   mentors:
-  - Isidore 'Tuts' Washington
+    - Isidore 'Tuts' Washington
 spotify_data:
   followers: 9252
   id: 01PkggcasHgNtRfgRw51Kk
   popularity: 22
-  url: https://open.spotify.com/artist/01PkggcasHgNtRfgRw51Kk
+  url: 'https://open.spotify.com/artist/01PkggcasHgNtRfgRw51Kk'
 discography_enriched: true
 top_tracks:
-- I Hear You Knocking (Gumbo Blues)
-- I Hear You Knocking
-- Blue Monday (Mama Don't Like It! 1950-1956)
-- 'One Night - Remastered (The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949-1960)'
-- I Hear You Knocking (I Hear You Knocking)
-- One Night (Gumbo Blues)
-- I Hear You Knocking (Mama Don't Like It! 1950-1956)
-- Shame, Shame, Shame! (Gumbo Blues)
-- One Night (Mama Don't Like It! 1950-1956)
-- Big Mamou (Mama Don't Like It! 1950-1956)
+  - I Hear You Knocking (Gumbo Blues)
+  - I Hear You Knocking
+  - Blue Monday (Mama Don't Like It! 1950-1956)
+  - >-
+    One Night - Remastered (The Big Beat Of Dave Bartholomew: 20 Milestone Dave
+    Bartholomew Productions 1949-1960)
+  - I Hear You Knocking (I Hear You Knocking)
+  - One Night (Gumbo Blues)
+  - I Hear You Knocking (Mama Don't Like It! 1950-1956)
+  - 'Shame, Shame, Shame! (Gumbo Blues)'
+  - One Night (Mama Don't Like It! 1950-1956)
+  - Big Mamou (Mama Don't Like It! 1950-1956)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/635ea8d8-6c2d-42ef-b685-667768bf80e5
-  spotify: https://open.spotify.com/artist/01PkggcasHgNtRfgRw51Kk
-  wikipedia: https://en.wikipedia.org/wiki/Smiley_Lewis
+  musicbrainz: 'https://musicbrainz.org/artist/635ea8d8-6c2d-42ef-b685-667768bf80e5'
+  spotify: 'https://open.spotify.com/artist/01PkggcasHgNtRfgRw51Kk'
+  wikipedia: 'https://en.wikipedia.org/wiki/Smiley_Lewis'
 image_path: 03_Resources/source_material/ArtistPortraits/Smiley_Lewis.jpg
 biography_enhanced_at: '2025-10-21T06:51:26.626682'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://aaregistry.org/story/smiley-lewis-an-rb-music-pioneer/
-- https://en.wikipedia.org/wiki/Smiley_Lewis
-- https://ukvibe.org/album_reviews/smiley-lewis/
+  - 'https://aaregistry.org/story/smiley-lewis-an-rb-music-pioneer/'
+  - 'https://en.wikipedia.org/wiki/Smiley_Lewis'
+  - 'https://ukvibe.org/album_reviews/smiley-lewis/'
 network_extracted: true
 entry_created: '2025-10-21T06:51:26.626699'
 last_updated: '2025-12-23T08:16:03.904811'
 gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:43:38.502525'
 musicbrainz_id: 635ea8d8-6c2d-42ef-b685-667768bf80e5
+is_active: false
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](Smiley_Lewis.jpg)

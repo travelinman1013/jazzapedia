@@ -1,17 +1,17 @@
 ---
-title: gregory porter
+title: Gregory Porter
 wiki_slug: gregory-porter
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1971-11-04'
-birth_place: Sacramento
+birth_place: 'Sacramento, California, United States'
 genres:
-- vocal jazz
-- jazz
+  - vocal jazz
+  - jazz
 instruments:
-- lead vocals
-- background vocals
+  - lead vocals
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/gregory_porter.jpg
   caption: gregory porter
@@ -33,55 +33,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kamal Kenyatta
-  - Chip Crawford
-  - Hubert Laws
+    - Kamal Kenyatta
+    - Chip Crawford
+    - Hubert Laws
   influenced:
-  - Samara Joy
+    - Samara Joy
   mentors:
-  - Ruth Porter
-  - Daniel Jackson
-  - Kamal Kenyatta
+    - Ruth Porter
+    - Daniel Jackson
+    - Kamal Kenyatta
 spotify_data:
   followers: 702682
   id: 06nevPmNVfWUXyZkccahL8
   popularity: 58
-  url: https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8
+  url: 'https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8'
 discography_enriched: true
 top_tracks:
-- Hey Laura (Liquid Spirit (Deluxe Version))
-- Liquid Spirit - Claptone Remix
-- L-O-V-E (Nat "King" Cole & Me (Deluxe))
-- Smile (Nat "King" Cole & Me (Deluxe))
-- Holding On (Caracal (Deluxe))
-- Consequence Of Love (Take Me To The Alley)
-- Liquid Spirit - Claptone Remix / Full Vocal Version
-- Stand By Me
-- We Have All The Time In The World - Cam Blackwood & Swindle Version
-- Holding On
+  - Hey Laura (Liquid Spirit (Deluxe Version))
+  - Liquid Spirit - Claptone Remix
+  - L-O-V-E (Nat "King" Cole & Me (Deluxe))
+  - Smile (Nat "King" Cole & Me (Deluxe))
+  - Holding On (Caracal (Deluxe))
+  - Consequence Of Love (Take Me To The Alley)
+  - Liquid Spirit - Claptone Remix / Full Vocal Version
+  - Stand By Me
+  - We Have All The Time In The World - Cam Blackwood & Swindle Version
+  - Holding On
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7ac1e33f-0cdf-4e81-b914-41830700d746
-  spotify: https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8
-  wikipedia: https://en.wikipedia.org/wiki/Gregory_Porter
+  musicbrainz: 'https://musicbrainz.org/artist/7ac1e33f-0cdf-4e81-b914-41830700d746'
+  spotify: 'https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8'
+  wikipedia: 'https://en.wikipedia.org/wiki/Gregory_Porter'
 image_path: 03_Resources/source_material/ArtistPortraits/gregory_porter.jpg
 biography_enhanced_at: '2025-11-14T11:07:39.017392'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.gregoryporter.com/about/
-- https://jazztimes.com/features/profiles/gregory-porter-jazzs-next-great-male-vocalist/
-- https://www.bluenote.com/artist/gregory-porter/
-- https://blackpast.org/african-american-history/gregory-porter-1971/
-- https://www.youtube.com/watch?v=z2hZyT44zH4
+  - 'https://www.gregoryporter.com/about/'
+  - >-
+    https://jazztimes.com/features/profiles/gregory-porter-jazzs-next-great-male-vocalist/
+  - 'https://www.bluenote.com/artist/gregory-porter/'
+  - 'https://blackpast.org/african-american-history/gregory-porter-1971/'
+  - 'https://www.youtube.com/watch?v=z2hZyT44zH4'
 network_extracted: true
 entry_created: '2025-11-14T11:07:39.017400'
 last_updated: '2025-12-23T08:16:09.353688'
 gender: Male
 musicbrainz_id: 7ac1e33f-0cdf-4e81-b914-41830700d746
 tags:
-- blues
-- contemporary jazz
-- easy listening
+  - blues
+  - contemporary jazz
+  - easy listening
+origin: 'Bakersfield, California, United States'
 ---
 
 ![](gregory_porter.jpg)

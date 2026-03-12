@@ -1,44 +1,47 @@
 ---
 artist_type: person
 biography_enhanced_at: '2025-12-29T01:08:44.074268'
-birth_place: Seattle, Washington, US
+birth_place: 'Seattle, Washington, US'
 enhancement_provider: perplexity
 entry_created: '2025-12-29T01:08:44.074282'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/dcd92494-2146-4632-b334-78042c1a550b
-  spotify: https://open.spotify.com/artist/0AHEokM2pn7Z97MKxUf9up
+  musicbrainz: 'https://musicbrainz.org/artist/dcd92494-2146-4632-b334-78042c1a550b'
+  spotify: 'https://open.spotify.com/artist/0AHEokM2pn7Z97MKxUf9up'
   wikipedia: ''
 gender: Female
 genres:
-- vocal jazz
+  - vocal jazz
 image_path: 03_Resources/source_material/ArtistPortraits/carrie_wicks.jpg
 last_updated: '2025-12-29T01:08:44.074283'
 musical_connections:
   collaborators:
-  - Bill Anschell
-  - Jeff Johnson
-  - D’Vonne Lewis
-  - Brent Jensen
-  - Ken Nottingham
-  - Nick Allison
+    - Bill Anschell
+    - Jeff Johnson
+    - D’Vonne Lewis
+    - Brent Jensen
+    - Ken Nottingham
+    - Nick Allison
   influenced: []
   mentors: []
 musicbrainz_id: dcd92494-2146-4632-b334-78042c1a550b
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://jazzjournal.co.uk/2019/12/15/carrie-wicks-reverie/
-- https://www.allaboutjazz.com/musicians/carrie-wicks/
-- https://originarts.com/oa2/recordings/recording.php?TitleID=22125
-- https://seattlejazzscene.com/2010/05/review-carrie-wicks-ill-get-around-to-it/
-- https://www.allaboutjazz.com/ill-get-around-to-it-carrie-wicks-oa2-records-review-by-dan-mcclenaghan
+  - 'https://jazzjournal.co.uk/2019/12/15/carrie-wicks-reverie/'
+  - 'https://www.allaboutjazz.com/musicians/carrie-wicks/'
+  - 'https://originarts.com/oa2/recordings/recording.php?TitleID=22125'
+  - >-
+    https://seattlejazzscene.com/2010/05/review-carrie-wicks-ill-get-around-to-it/
+  - >-
+    https://www.allaboutjazz.com/ill-get-around-to-it-carrie-wicks-oa2-records-review-by-dan-mcclenaghan
 spotify_data:
   followers: 217
   id: 0AHEokM2pn7Z97MKxUf9up
   popularity: 2
-  url: https://open.spotify.com/artist/0AHEokM2pn7Z97MKxUf9up
+  url: 'https://open.spotify.com/artist/0AHEokM2pn7Z97MKxUf9up'
 status: active
 title: Carrie Wicks
+origin: 'Seattle, Washington, United States'
 ---
 
 ![](carrie_wicks.jpg)

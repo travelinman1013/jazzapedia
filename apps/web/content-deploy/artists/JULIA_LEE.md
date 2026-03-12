@@ -1,22 +1,22 @@
 ---
-title: JULIA LEE
+title: Julia Lee
 wiki_slug: julia-lee
 schema_version: 2
 status: active
-birth_place: Kansas City, Missouri, USA
+birth_place: 'Kansas City, Missouri, USA'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/JULIA_LEE.jpg
   caption: JULIA LEE
   background: solo_singer
-  origin: Kansas City, Missouri, USA
+  origin: 'Kansas City, Missouri, USA'
 audio_profile:
   tempo_avg: 139.5
   energy_avg: 0.799
   valence_avg: 0.566
   danceability_avg: 0.632
   acousticness_avg: 0.075
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -5.9
   speechiness_avg: 0.134
   liveness_avg: 0.19
@@ -25,48 +25,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Samuel 'Baby' Lovett
-  - Jay McShann
-  - Benny Carter
+    - Samuel 'Baby' Lovett
+    - Jay McShann
+    - Benny Carter
   influenced:
-  - None specifically documented
+    - None specifically documented
   mentors:
-  - George E. Lee
+    - George E. Lee
 spotify_data:
   followers: 17412
   id: 1RAKgWfp7uC98qy4mSvNu3
   popularity: 61
-  url: https://open.spotify.com/artist/1RAKgWfp7uC98qy4mSvNu3
+  url: 'https://open.spotify.com/artist/1RAKgWfp7uC98qy4mSvNu3'
 discography_enriched: true
 top_tracks:
-- 'Don''t Mess With Us - From "ZOMBIES 4: Dawn of the Vampires" (Don''t Mess With Us (From "ZOMBIES 4: Dawn of the Vampires"))'
-- favorite cafe (From the Desk of Eli Golden)
-- 'The Place To Be - From "ZOMBIES 4: Dawn of the Vampires"/Soundtrack Version (Descendants/Zombies: Worlds Collide Tour Official
-  Playlist)'
-- 'The Place To Be - From "ZOMBIES 4: Dawn of the Vampires"/Soundtrack Version (Descendants/Zombies: Worlds Collide Tour Official
-  Playlist)'
-- 'Don''t Mess With Us - From "ZOMBIES 4: Dawn of the Vampires"/Soundtrack Version (Descendants/Zombies: Worlds Collide Tour
-  Official Playlist)'
-- 'The Place To Be - From "ZOMBIES 4: Dawn of the Vampires"/Soundtrack Version (Zombies: Nova''s Greatest Hits)'
-- Dead End (Dead End)
-- 'Don''t Mess With Us - From "ZOMBIES 4: Dawn of the Vampires"/Soundtrack Version (Descendants/Zombies: Worlds Collide Tour
-  Official Playlist)'
-- 'Don''t Mess With Us - From "ZOMBIES 4: Dawn of the Vampires"/Soundtrack Version (Zombies: Nova''s Greatest Hits)'
-- 'Kerosene - From "ZOMBIES 4: Dawn of the Vampires"/Soundtrack Version (Zombies: Nova''s Greatest Hits)'
+  - >-
+    Don't Mess With Us - From "ZOMBIES 4: Dawn of the Vampires" (Don't Mess With
+    Us (From "ZOMBIES 4: Dawn of the Vampires"))
+  - favorite cafe (From the Desk of Eli Golden)
+  - >-
+    The Place To Be - From "ZOMBIES 4: Dawn of the Vampires"/Soundtrack Version
+    (Descendants/Zombies: Worlds Collide Tour Official Playlist)
+  - >-
+    The Place To Be - From "ZOMBIES 4: Dawn of the Vampires"/Soundtrack Version
+    (Descendants/Zombies: Worlds Collide Tour Official Playlist)
+  - >-
+    Don't Mess With Us - From "ZOMBIES 4: Dawn of the Vampires"/Soundtrack
+    Version (Descendants/Zombies: Worlds Collide Tour Official Playlist)
+  - >-
+    The Place To Be - From "ZOMBIES 4: Dawn of the Vampires"/Soundtrack Version
+    (Zombies: Nova's Greatest Hits)
+  - Dead End (Dead End)
+  - >-
+    Don't Mess With Us - From "ZOMBIES 4: Dawn of the Vampires"/Soundtrack
+    Version (Descendants/Zombies: Worlds Collide Tour Official Playlist)
+  - >-
+    Don't Mess With Us - From "ZOMBIES 4: Dawn of the Vampires"/Soundtrack
+    Version (Zombies: Nova's Greatest Hits)
+  - >-
+    Kerosene - From "ZOMBIES 4: Dawn of the Vampires"/Soundtrack Version
+    (Zombies: Nova's Greatest Hits)
 external_urls:
-  spotify: https://open.spotify.com/artist/1RAKgWfp7uC98qy4mSvNu3
+  spotify: 'https://open.spotify.com/artist/1RAKgWfp7uC98qy4mSvNu3'
   wikipedia: Not available
 image_path: 03_Resources/source_material/ArtistPortraits/JULIA_LEE.jpg
 biography_enhanced_at: '2025-10-21T06:57:10.361068'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://pendergastkc.org/articles/julia-lee
-- https://wbssmedia.com/artists/detail/2708
-- https://www.allaboutjazz.com/musicians/julia-lee/
+  - 'https://pendergastkc.org/articles/julia-lee'
+  - 'https://wbssmedia.com/artists/detail/2708'
+  - 'https://www.allaboutjazz.com/musicians/julia-lee/'
 network_extracted: true
 entry_created: '2025-10-21T06:57:10.361080'
 last_updated: '2025-12-23T08:16:02.388561'
+origin: 'Kansas City, Missouri, United States'
+birth_date: '1902-10-31'
+death_date: '1958-12-08'
+artist_type: band
 ---
 
 ![](JULIA_LEE.jpg)

@@ -1,29 +1,29 @@
 ---
-title: pat travers
+title: Pat Travers
 wiki_slug: pat-travers
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1954-04-12'
-birth_place: Toronto
+birth_place: 'Toronto, Ontario, Canada'
 genres:
-- blues
-- blues rock
-- classic blues
-- modern blues
-- southern rock
+  - blues
+  - blues rock
+  - classic blues
+  - modern blues
+  - southern rock
 instruments:
-- eponymous
-- guitar
-- slide guitar
-- vocal
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
-  mbid: 79107217-3858-4af2-827b-a6fb7c535837
-  name: Pat Travers Band
+  - guitar
+  - slide guitar
+  - vocal
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 79107217-3858-4af2-827b-a6fb7c535837
+    name: Pat Travers Band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/pat_travers.jpg
   caption: pat travers
@@ -45,61 +45,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Peter "Mars" Cowling
-  - Tommy Aldridge
-  - Pat Thrall
-  - Sandy Gennaro
-  - Jerry Riggs
-  - Carmine Appice
+    - Peter "Mars" Cowling
+    - Tommy Aldridge
+    - Pat Thrall
+    - Sandy Gennaro
+    - Jerry Riggs
+    - Carmine Appice
   influenced:
-  - General later generations of blues‑rock and hard‑rock guitarists
+    - General later generations of blues‑rock and hard‑rock guitarists
   mentors:
-  - Jimi Hendrix
-  - Eric Clapton
-  - Jeff Beck
-  - Jimmy Page
-  - Ronnie Hawkins
+    - Jimi Hendrix
+    - Eric Clapton
+    - Jeff Beck
+    - Jimmy Page
+    - Ronnie Hawkins
 spotify_data:
   followers: 97390
   id: 0YEyuuhfdNXnTJh1uFhl3p
   popularity: 28
-  url: https://open.spotify.com/artist/0YEyuuhfdNXnTJh1uFhl3p
+  url: 'https://open.spotify.com/artist/0YEyuuhfdNXnTJh1uFhl3p'
 discography_enriched: true
 top_tracks:
-- Snortin’ Whiskey
-- Born Under A Bad Sign (Crash And Burn)
-- Boom, Boom (Out Go The Lights) (Boom, Boom (Out Go The Lights))
-- Life In London (Putting It Straight)
-- Rock 'N' Roll Susie (Makin' Magic)
-- I La La La Love You
-- I La La La Love You (Black Pearl)
-- Statesboro Blues (Makin' Magic)
-- Snortin’ Whiskey
-- Ain't My Time to Go
+  - Snortin’ Whiskey
+  - Born Under A Bad Sign (Crash And Burn)
+  - 'Boom, Boom (Out Go The Lights) (Boom, Boom (Out Go The Lights))'
+  - Life In London (Putting It Straight)
+  - Rock 'N' Roll Susie (Makin' Magic)
+  - I La La La Love You
+  - I La La La Love You (Black Pearl)
+  - Statesboro Blues (Makin' Magic)
+  - Snortin’ Whiskey
+  - Ain't My Time to Go
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/71fd1b0d-4f63-4060-95d9-afbc80ddffc2
-  spotify: https://open.spotify.com/artist/0YEyuuhfdNXnTJh1uFhl3p
-  wikipedia: https://en.wikipedia.org/wiki/Pat_Travers
+  musicbrainz: 'https://musicbrainz.org/artist/71fd1b0d-4f63-4060-95d9-afbc80ddffc2'
+  spotify: 'https://open.spotify.com/artist/0YEyuuhfdNXnTJh1uFhl3p'
+  wikipedia: 'https://en.wikipedia.org/wiki/Pat_Travers'
 image_path: 03_Resources/source_material/ArtistPortraits/pat_travers.jpg
 biography_enhanced_at: '2025-12-06T05:56:06.496792'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Pat_Travers
-- https://abreathoffreshair.com.au/episodes/pat-travers-guitar-maverick-redefining-rock-and-blues/
-- https://www.commonchordqc.org/event/pattravers25/
-- https://www.frontiers.it/artist/1834
-- https://www.vintageguitar.com/23253/pat-travers/
-- https://www.guitartricks.com/forum/t/38412
+  - 'https://en.wikipedia.org/wiki/Pat_Travers'
+  - >-
+    https://abreathoffreshair.com.au/episodes/pat-travers-guitar-maverick-redefining-rock-and-blues/
+  - 'https://www.commonchordqc.org/event/pattravers25/'
+  - 'https://www.frontiers.it/artist/1834'
+  - 'https://www.vintageguitar.com/23253/pat-travers/'
+  - 'https://www.guitartricks.com/forum/t/38412'
 network_extracted: true
 entry_created: '2025-12-06T05:56:06.496800'
 last_updated: '2025-12-23T08:16:13.997915'
 gender: Male
 musicbrainz_id: 71fd1b0d-4f63-4060-95d9-afbc80ddffc2
 tags:
-- blues
-- blues rock
-- canadian
+  - blues
+  - blues rock
+  - canadian
 ---
 
 ![](pat_travers.jpg)

@@ -1,23 +1,23 @@
 ---
-title: kenny brown
+title: Kenny Brown
 wiki_slug: kenny-brown
 schema_version: 2
 status: active
-birth_place: Auckland, New Zealand
+birth_place: 'Auckland, New Zealand'
 genres:
-- nz reggae
+  - nz reggae
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/kenny_brown.jpg
   caption: kenny brown
   background: solo_singer
-  origin: Auckland, New Zealand
+  origin: 'Auckland, New Zealand'
 audio_profile:
   tempo_avg: 111.8
   energy_avg: 0.58
   valence_avg: 0.678
   danceability_avg: 0.75
   acousticness_avg: 0.189
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -7.2
   speechiness_avg: 0.098
   liveness_avg: 0.171
@@ -26,43 +26,44 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - DJ Noiz
+    - DJ Noiz
   influenced:
-  - Pacific Islander and Polynesian R&B Artists
+    - Pacific Islander and Polynesian R&B Artists
   mentors:
-  - Family and Samoan Community
+    - Family and Samoan Community
 spotify_data:
   followers: 60497
   id: 3igAFhxWKhbkKOsPtJVzn5
   popularity: 47
-  url: https://open.spotify.com/artist/3igAFhxWKhbkKOsPtJVzn5
+  url: 'https://open.spotify.com/artist/3igAFhxWKhbkKOsPtJVzn5'
 discography_enriched: true
 top_tracks:
-- Lady Love - Remix
-- Senorita
-- Lady Love
-- Amelia
-- Island Girl
-- Morning Ride
-- Hula Hoop (with Bina Butta)
-- Beretta (Kenny Hendrix)
-- Island King - Remix
-- She Mad She Angry - Remix
+  - Lady Love - Remix
+  - Senorita
+  - Lady Love
+  - Amelia
+  - Island Girl
+  - Morning Ride
+  - Hula Hoop (with Bina Butta)
+  - Beretta (Kenny Hendrix)
+  - Island King - Remix
+  - She Mad She Angry - Remix
 external_urls:
-  spotify: https://open.spotify.com/artist/3igAFhxWKhbkKOsPtJVzn5
+  spotify: 'https://open.spotify.com/artist/3igAFhxWKhbkKOsPtJVzn5'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/kenny_brown.jpg
 biography_enhanced_at: '2025-10-19T10:54:40.652469'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://app.chartmetric.com/artist/278405
-- https://www.holoholofestival.com/dj-noiz-x-kennyon-brown/
-- https://onepagelink.com/kennyonbrown/
-- https://www.youtube.com/watch?v=AXDBfxoSMjU
+  - 'https://app.chartmetric.com/artist/278405'
+  - 'https://www.holoholofestival.com/dj-noiz-x-kennyon-brown/'
+  - 'https://onepagelink.com/kennyonbrown/'
+  - 'https://www.youtube.com/watch?v=AXDBfxoSMjU'
 network_extracted: true
 entry_created: '2025-10-19T10:54:40.652480'
 last_updated: '2025-12-23T08:16:11.295420'
+artist_type: person
 ---
 
 ![](kenny_brown.jpg)

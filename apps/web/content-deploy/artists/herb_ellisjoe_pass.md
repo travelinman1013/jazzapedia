@@ -1,19 +1,19 @@
 ---
-title: HERB ELLIS/JOE PASS
+title: Herb Ellis/Joe Pass
 wiki_slug: herb-ellisjoe-pass
 schema_version: 2
 status: active
 genres:
-- jazz
-- bebop
-- vocal jazz
-- hard bop
+  - jazz
+  - bebop
+  - vocal jazz
+  - hard bop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/herb_ellisjoe_pass.jpg
   caption: HERB ELLIS/JOE PASS
   background: solo_singer
 audio_profile:
-  tempo_avg: 107.0
+  tempo_avg: 107
   energy_avg: 0.226
   valence_avg: 0.463
   danceability_avg: 0.519
@@ -27,49 +27,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Oscar Peterson
-  - Ella Fitzgerald
-  - Barney Kessel
-  - Charlie Byrd
+    - Oscar Peterson
+    - Ella Fitzgerald
+    - Barney Kessel
+    - Charlie Byrd
   influenced:
-  - Emily Remler
-  - Rick Beato
+    - Emily Remler
+    - Rick Beato
   mentors:
-  - Charlie Christian
+    - Charlie Christian
 spotify_data:
   followers: 148708
   id: 4DuZTASH5eSyd0K73W6fuZ
   popularity: 45
-  url: https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ
+  url: 'https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ'
 discography_enriched: true
 top_tracks:
-- Chloe (Intercontinental)
-- 'A Time for Us (Late Night Tales: Belle and Sebastian, Vol. 2)'
-- Nature Boy (Fitzgerald & Pass...Again)
-- Lil' Darlin' (Intercontinental)
-- Autumn Leaves (Unforgettable)
-- Django (For Django)
-- The Days Of Wine And Roses (The Capitol Vaults Jazz Series)
-- Night And Day (Virtuoso)
-- I Cover the Waterfront (Intercontinental)
-- El Gento (Intercontinental)
+  - Chloe (Intercontinental)
+  - 'A Time for Us (Late Night Tales: Belle and Sebastian, Vol. 2)'
+  - Nature Boy (Fitzgerald & Pass...Again)
+  - Lil' Darlin' (Intercontinental)
+  - Autumn Leaves (Unforgettable)
+  - Django (For Django)
+  - The Days Of Wine And Roses (The Capitol Vaults Jazz Series)
+  - Night And Day (Virtuoso)
+  - I Cover the Waterfront (Intercontinental)
+  - El Gento (Intercontinental)
 external_urls:
-  spotify: https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ
-  wikipedia: https://en.wikipedia.org/wiki/Herb_Ellis
+  spotify: 'https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Herb_Ellis'
 image_path: 03_Resources/source_material/ArtistPortraits/herb_ellisjoe_pass.jpg
 biography_enhanced_at: '2025-11-17T10:49:51.744234'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Herb_Ellis
-- https://en.wikipedia.org/wiki/Joe_Pass
-- https://concord.com/artist/joe-pass/
-- https://www.allaboutjazz.com/musicians/herb-ellis/
-- https://jeffsplace.positive-feedback.com/the-jazz-guitar-chronicles-herb-ellis-and-joe-pass-two-for-the-road/
+  - 'https://en.wikipedia.org/wiki/Herb_Ellis'
+  - 'https://en.wikipedia.org/wiki/Joe_Pass'
+  - 'https://concord.com/artist/joe-pass/'
+  - 'https://www.allaboutjazz.com/musicians/herb-ellis/'
+  - >-
+    https://jeffsplace.positive-feedback.com/the-jazz-guitar-chronicles-herb-ellis-and-joe-pass-two-for-the-road/
 network_extracted: true
 entry_created: '2025-11-17T10:49:51.744245'
 last_updated: '2025-12-23T08:16:09.581800'
-origin: Farmersville, Texas, United States (Herb Ellis); New Brunswick, New Jersey, United States (Joe Pass)
+origin: >-
+  Farmersville, Texas, United States (Herb Ellis); New Brunswick, New Jersey,
+  United States (Joe Pass)
+birth_place: 'Farmersville, Texas, United States'
+birth_date: '1921'
+artist_type: band
 ---
 
 ![](herb_ellisjoe_pass.jpg)

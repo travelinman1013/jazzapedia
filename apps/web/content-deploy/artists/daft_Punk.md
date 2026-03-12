@@ -2,20 +2,20 @@
 title: daft Punk
 wiki_slug: daft-punk
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 birth_date: '1993'
 genres:
-- french house
-- electronic
-- electro
+  - french house
+  - electronic
+  - electro
 instruments:
-- bass
-- keyboard
-- original
-- synthesizer
-- drums (drum set)
-- guitar
+  - bass
+  - keyboard
+  - original
+  - synthesizer
+  - drums (drum set)
+  - guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/daft_Punk.jpg
   caption: daft Punk
@@ -28,7 +28,7 @@ audio_profile:
   danceability_avg: 0.67
   acousticness_avg: 0.197
   instrumentalness_avg: 0.453
-  loudness_avg: -10.0
+  loudness_avg: -10
   speechiness_avg: 0.088
   liveness_avg: 0.177
   track_count: 51
@@ -36,57 +36,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Pharrell Williams
-  - Nile Rodgers
-  - Leiji Matsumoto
-  - Pedro Winter
+    - Pharrell Williams
+    - Nile Rodgers
+    - Leiji Matsumoto
+    - Pedro Winter
   influenced:
-  - Justice
-  - Deadmau5
-  - The Weeknd
+    - Justice
+    - Deadmau5
+    - The Weeknd
   mentors:
-  - Stuart Macmillan
+    - Stuart Macmillan
 spotify_data:
   followers: 10844419
   id: 4tZwfgrHOc3mvqYlEYSvVi
   popularity: 81
-  url: https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi
+  url: 'https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi'
 discography_enriched: true
 top_tracks:
-- Starboy (Starboy)
-- One More Time (Discovery)
-- Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]
-- Instant Crush (feat. Julian Casablancas) (Random Access Memories)
-- I Feel It Coming (Starboy)
-- I Feel It Coming (Starboy)
-- Get Lucky (feat. Pharrell Williams and Nile Rodgers) (Random Access Memories)
-- Veridis Quo (Discovery)
-- Around the World (Homework)
-- Harder, Better, Faster, Stronger (Discovery)
+  - Starboy (Starboy)
+  - One More Time (Discovery)
+  - 'Get Lucky (Radio Edit) [feat. Pharrell Williams and Nile Rodgers]'
+  - Instant Crush (feat. Julian Casablancas) (Random Access Memories)
+  - I Feel It Coming (Starboy)
+  - I Feel It Coming (Starboy)
+  - >-
+    Get Lucky (feat. Pharrell Williams and Nile Rodgers) (Random Access
+    Memories)
+  - Veridis Quo (Discovery)
+  - Around the World (Homework)
+  - 'Harder, Better, Faster, Stronger (Discovery)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/056e4f3e-d505-4dad-8ec1-d04f521cbb56
-  spotify: https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi
-  wikipedia: https://en.wikipedia.org/wiki/Daft_Punk
+  musicbrainz: 'https://musicbrainz.org/artist/056e4f3e-d505-4dad-8ec1-d04f521cbb56'
+  spotify: 'https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi'
+  wikipedia: 'https://en.wikipedia.org/wiki/Daft_Punk'
 image_path: 03_Resources/source_material/ArtistPortraits/daft_Punk.jpg
 biography_enhanced_at: '2025-10-20T10:28:32.005742'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.ebsco.com/research-starters/music/daft-punk
-- https://kids.kiddle.co/Daft_Punk
-- https://www.insomniac.com/music/artists/daft-punk/
-- https://www.britannica.com/topic/Daft-Punk
+  - 'https://www.ebsco.com/research-starters/music/daft-punk'
+  - 'https://kids.kiddle.co/Daft_Punk'
+  - 'https://www.insomniac.com/music/artists/daft-punk/'
+  - 'https://www.britannica.com/topic/Daft-Punk'
 network_extracted: true
 entry_created: '2025-10-20T10:28:32.005761'
 last_updated: '2025-12-23T08:16:07.385832'
 disambiguation: French electronic duo
 musicbrainz_enriched_at: '2025-10-21T09:51:27.095071'
 musicbrainz_id: 056e4f3e-d505-4dad-8ec1-d04f521cbb56
-origin: Paris, Île-de-France, France
+origin: 'Paris, Île-de-France, France'
 tags:
-- dance
-- disco
-- electro house
+  - dance
+  - disco
+  - electro house
+birth_place: Paris
 ---
 
 ![](daft_Punk.jpg)

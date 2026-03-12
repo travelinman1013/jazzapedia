@@ -1,23 +1,23 @@
 ---
-title: CLAYTON LOVE
+title: Clayton Love
 wiki_slug: clayton-love
 schema_version: 2
 status: active
-birth_place: Mattson, Mississippi, USA
+birth_place: 'Mattson, Mississippi, USA'
 genres:
-- electro house
+  - electro house
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/clayton_love.jpg
   caption: CLAYTON LOVE
   background: solo_singer
-  origin: Mattson, Mississippi, USA
+  origin: 'Mattson, Mississippi, USA'
 audio_profile:
   tempo_avg: 122.3
   energy_avg: 0.62
   valence_avg: 0.496
   danceability_avg: 0.601
   acousticness_avg: 0.322
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -7.1
   speechiness_avg: 0.078
   liveness_avg: 0.141
@@ -26,45 +26,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ike Turner's Kings of Rhythm
-  - The Shufflers
+    - Ike Turner's Kings of Rhythm
+    - The Shufflers
   influenced:
-  - St. Louis blues musicians
+    - St. Louis blues musicians
   mentors:
-  - Ike Turner
+    - Ike Turner
 spotify_data:
   followers: 2323
   id: 3lZ4X8KKj301sS1T85Ay84
   popularity: 35
-  url: https://open.spotify.com/artist/3lZ4X8KKj301sS1T85Ay84
+  url: 'https://open.spotify.com/artist/3lZ4X8KKj301sS1T85Ay84'
 discography_enriched: true
 top_tracks:
-- Hall Of Fame (Hall Of Fame)
-- Hall Of Fame (Hall Of Fame)
-- Makin' Waves (Sunrise to Sunrise) (Makin' Waves (Sunrise to Sunrise))
-- Blue (Da Ba Dee) (Blue (Da Ba Dee))
-- Odd Man Out (Beyond the Fences)
-- Ringleader (Beyond the Fences)
-- Livin' Life Now (Livin' Life Now)
-- Be Brave, Be Bold (Be Brave, Be Bold)
-- The Call (From "The Call" Official Documentary) (The Call (From "The Call" Official Documentary))
-- Say It (Beyond the Fences)
+  - Hall Of Fame (Hall Of Fame)
+  - Hall Of Fame (Hall Of Fame)
+  - Makin' Waves (Sunrise to Sunrise) (Makin' Waves (Sunrise to Sunrise))
+  - Blue (Da Ba Dee) (Blue (Da Ba Dee))
+  - Odd Man Out (Beyond the Fences)
+  - Ringleader (Beyond the Fences)
+  - Livin' Life Now (Livin' Life Now)
+  - 'Be Brave, Be Bold (Be Brave, Be Bold)'
+  - >-
+    The Call (From "The Call" Official Documentary) (The Call (From "The Call"
+    Official Documentary))
+  - Say It (Beyond the Fences)
 external_urls:
-  spotify: https://open.spotify.com/artist/3lZ4X8KKj301sS1T85Ay84
-  wikipedia: https://en.wikipedia.org/wiki/Clayton_Love
+  spotify: 'https://open.spotify.com/artist/3lZ4X8KKj301sS1T85Ay84'
+  wikipedia: 'https://en.wikipedia.org/wiki/Clayton_Love'
 image_path: 03_Resources/source_material/ArtistPortraits/clayton_love.jpg
 biography_enhanced_at: '2025-11-20T07:18:17.812814'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Clayton_Love
-- https://www.allmusic.com/artist/clayton-love-mn0000142201
-- https://bluesman2001.blogspot.com/2010/03/clayton-love-rip.html
-- https://lovedagainmedia.com/cd_artist_discogs/clayton-love
-- https://coblues.org/blogs/don-t-ask-me-i-don-t-know/posts/3828909/clayton-love-come-on-home-blues
+  - 'https://en.wikipedia.org/wiki/Clayton_Love'
+  - 'https://www.allmusic.com/artist/clayton-love-mn0000142201'
+  - 'https://bluesman2001.blogspot.com/2010/03/clayton-love-rip.html'
+  - 'https://lovedagainmedia.com/cd_artist_discogs/clayton-love'
+  - >-
+    https://coblues.org/blogs/don-t-ask-me-i-don-t-know/posts/3828909/clayton-love-come-on-home-blues
 network_extracted: true
 entry_created: '2025-11-20T07:18:17.812830'
 last_updated: '2025-12-23T08:16:07.071437'
+birth_date: '1927-11-16'
+death_date: '2010-02-28'
+artist_type: person
 ---
 
 ![](clayton_love.jpg)

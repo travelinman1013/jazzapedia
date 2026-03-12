@@ -2,28 +2,28 @@
 title: Eric Dolphy
 wiki_slug: eric-dolphy
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1928-06-20'
-birth_place: Los Angeles, California, United States
+birth_place: 'Los Angeles, California, United States'
 death_date: '1964-06-29'
 genres:
-- avant-garde
-- bebop
-- free jazz
-- hard bop
-- jazz
-- latin jazz
+  - avant-garde
+  - bebop
+  - free jazz
+  - hard bop
+  - jazz
+  - latin jazz
 instruments:
-- bass clarinet
-- flute
-- alto saxophone
+  - bass clarinet
+  - flute
+  - alto saxophone
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Eric_Dolphy.jpg
   caption: Eric Dolphy
   background: non_vocal_instrumentalist
   born: '1928-06-20'
-  origin: Los Angeles, California, United States
+  origin: 'Los Angeles, California, United States'
   died: '1964-06-29'
 audio_profile:
   tempo_avg: 109.9
@@ -40,46 +40,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Charles Mingus
-  - Booker Little
-  - John Coltrane
-  - Ornette Coleman
-  - Gunther Schuller
+    - Charles Mingus
+    - Booker Little
+    - John Coltrane
+    - Ornette Coleman
+    - Gunther Schuller
   influenced:
-  - James Newton
-  - Anthony Braxton
-  - Nicole Mitchell
+    - James Newton
+    - Anthony Braxton
+    - Nicole Mitchell
   mentors:
-  - Roy Porter
+    - Roy Porter
 spotify_data:
   followers: 96722
   id: 6rxxu32JCGDpKKMPHxnSJp
   popularity: 28
-  url: https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp
+  url: 'https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp'
 discography_enriched: true
 top_tracks:
-- Impressions (feat. Eric Dolphy) - Live
-- Hat And Beard (Out To Lunch (The Rudy Van Gelder Edition))
-- Warm Canto (The Quest)
-- Something Sweet, Something Tender - Remastered 1998/Rudy Van Gelder Edition (Out To Lunch (The Rudy Van Gelder Edition))
-- Out To Lunch - Remastered 1998/Rudy Van Gelder Edition (Out To Lunch (The Rudy Van Gelder Edition))
-- Gazzelloni - Remastered 1998/Rudy Van Gelder Edition (Out To Lunch (The Rudy Van Gelder Edition))
-- 'My Favorite Things (feat. Eric Dolphy) - Live (Evenings At The Village Gate: John Coltrane with Eric Dolphy (Live))'
-- Out There (Out There (Rudy Van Gelder Remaster))
-- Straight Up And Down - Remastered 1998/Rudy Van Gelder Edition (Out To Lunch (The Rudy Van Gelder Edition))
-- Take The A Train (Cornell 1964)
+  - Impressions (feat. Eric Dolphy) - Live
+  - Hat And Beard (Out To Lunch (The Rudy Van Gelder Edition))
+  - Warm Canto (The Quest)
+  - >-
+    Something Sweet, Something Tender - Remastered 1998/Rudy Van Gelder Edition
+    (Out To Lunch (The Rudy Van Gelder Edition))
+  - >-
+    Out To Lunch - Remastered 1998/Rudy Van Gelder Edition (Out To Lunch (The
+    Rudy Van Gelder Edition))
+  - >-
+    Gazzelloni - Remastered 1998/Rudy Van Gelder Edition (Out To Lunch (The Rudy
+    Van Gelder Edition))
+  - >-
+    My Favorite Things (feat. Eric Dolphy) - Live (Evenings At The Village Gate:
+    John Coltrane with Eric Dolphy (Live))
+  - Out There (Out There (Rudy Van Gelder Remaster))
+  - >-
+    Straight Up And Down - Remastered 1998/Rudy Van Gelder Edition (Out To Lunch
+    (The Rudy Van Gelder Edition))
+  - Take The A Train (Cornell 1964)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/badda5cf-f2c5-4dc2-b3d3-07467bdf0f71
-  spotify: https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp
-  wikipedia: https://en.wikipedia.org/wiki/Eric_Dolphy
+  musicbrainz: 'https://musicbrainz.org/artist/badda5cf-f2c5-4dc2-b3d3-07467bdf0f71'
+  spotify: 'https://open.spotify.com/artist/6rxxu32JCGDpKKMPHxnSJp'
+  wikipedia: 'https://en.wikipedia.org/wiki/Eric_Dolphy'
 image_path: 03_Resources/source_material/ArtistPortraits/Eric_Dolphy.jpg
 biography_enhanced_at: '2025-10-20T10:24:30.616884'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Britannica
-- Wikipedia
-- Blue Note Records
+  - Britannica
+  - Wikipedia
+  - Blue Note Records
 network_extracted: true
 entry_created: '2025-10-20T10:24:30.616896'
 last_updated: '2025-12-23T08:16:01.927738'
@@ -87,9 +97,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:25:50.543196'
 musicbrainz_id: badda5cf-f2c5-4dc2-b3d3-07467bdf0f71
 tags:
-- avant-garde jazz
-- free jazz
-- hard bop
+  - avant-garde jazz
+  - free jazz
+  - hard bop
+is_active: false
 ---
 
 ![](Eric_Dolphy.jpg)

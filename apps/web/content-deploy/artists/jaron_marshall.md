@@ -3,13 +3,13 @@ title: JaRon Marshall
 wiki_slug: jaron-marshall
 schema_version: 2
 status: active
-birth_place: Loreauville, Louisiana, United States
+birth_place: 'Loreauville, Louisiana, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jaron_marshall.jpg
   caption: JaRon Marshall
   background: solo_singer
-  origin: Loreauville, Louisiana, United States
+  origin: 'Loreauville, Louisiana, United States'
 audio_profile:
   tempo_avg: 109.4
   energy_avg: 0.607
@@ -25,44 +25,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Black Pumas
-  - Vieux Farka Touré
-  - Tigran Hamasyan
+    - Black Pumas
+    - Vieux Farka Touré
+    - Tigran Hamasyan
   influenced: []
   mentors: []
 spotify_data:
   followers: 4288
   id: 6JwWBoX8tpTGJQ5X8HzSL8
   popularity: 27
-  url: https://open.spotify.com/artist/6JwWBoX8tpTGJQ5X8HzSL8
+  url: 'https://open.spotify.com/artist/6JwWBoX8tpTGJQ5X8HzSL8'
 discography_enriched: true
 top_tracks:
-- Sunseekers (Discotheques 001)
-- Keep On Shining (Keep On Shining)
-- Act I - Last June (The Black Power Tape)
-- the jam (earth sounds)
-- Nostalgia (Nostalgia)
-- Ya No Me Quieres (Boleros Psicodélicos)
-- the jam (earth sounds)
-- water flows (earth sounds)
-- The Heist And The Getaway (The Gold Tapes, Vol. 1-3)
-- Gemini Child (Discotheques 001)
+  - Sunseekers (Discotheques 001)
+  - Keep On Shining (Keep On Shining)
+  - Act I - Last June (The Black Power Tape)
+  - the jam (earth sounds)
+  - Nostalgia (Nostalgia)
+  - Ya No Me Quieres (Boleros Psicodélicos)
+  - the jam (earth sounds)
+  - water flows (earth sounds)
+  - 'The Heist And The Getaway (The Gold Tapes, Vol. 1-3)'
+  - Gemini Child (Discotheques 001)
 external_urls:
-  spotify: https://open.spotify.com/artist/6JwWBoX8tpTGJQ5X8HzSL8
+  spotify: 'https://open.spotify.com/artist/6JwWBoX8tpTGJQ5X8HzSL8'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/jaron_marshall.jpg
 biography_enhanced_at: '2025-11-20T07:05:42.544746'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.airgigs.com/user/fortemaestro
-- https://dontstoprockin.com/project/jaron-marshall/
-- https://www.jspevents.com/talent/jaron-marshall
-- https://cascaderecords.fr/artist/jaron-marshall/
-- https://www.bet.com/article/g6cngs/unboxed-vol-43-jaron-marshal-is-bringing-futuristic-vibes-to-soul-music
+  - 'https://www.airgigs.com/user/fortemaestro'
+  - 'https://dontstoprockin.com/project/jaron-marshall/'
+  - 'https://www.jspevents.com/talent/jaron-marshall'
+  - 'https://cascaderecords.fr/artist/jaron-marshall/'
+  - >-
+    https://www.bet.com/article/g6cngs/unboxed-vol-43-jaron-marshal-is-bringing-futuristic-vibes-to-soul-music
 network_extracted: true
 entry_created: '2025-11-20T07:05:42.544753'
 last_updated: '2025-12-23T08:16:10.232590'
+origin: 'Austin, Texas, United States'
+artist_type: person
 ---
 
 ![](jaron_marshall.jpg)

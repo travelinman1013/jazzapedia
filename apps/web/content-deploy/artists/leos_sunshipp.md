@@ -4,7 +4,7 @@ wiki_slug: leos-sunshipp
 schema_version: 2
 status: active
 genres:
-- jazz funk
+  - jazz funk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/leos_sunshipp.jpg
   caption: Leo's Sunshipp
@@ -24,49 +24,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kenny Stover
-  - Johnny Simone (Johnny Simon)
-  - Alvin (Allen) Few
+    - Kenny Stover
+    - Johnny Simone (Johnny Simon)
+    - Alvin (Allen) Few
   influenced:
-  - Modern soul and rare groove DJs/collectors (various artists and scenes)
+    - Modern soul and rare groove DJs/collectors (various artists and scenes)
   mentors:
-  - Marvin Gaye
+    - Marvin Gaye
 spotify_data:
   followers: 4457
   id: 4EekqrO6EowqVZsapOHOPF
   popularity: 24
-  url: https://open.spotify.com/artist/4EekqrO6EowqVZsapOHOPF
+  url: 'https://open.spotify.com/artist/4EekqrO6EowqVZsapOHOPF'
 discography_enriched: true
 top_tracks:
-- Give Me The Sunshine (We Need Each Other)
-- I'm Back For More (We Need Each Other)
-- Madame Butterfly (We Need Each Other)
-- Get Down People (We Need Each Other)
-- Give Me The Sunshine (Babylon Beach Beats Ibiza)
-- I'm Back For More - Mini-Tro (We Need Each Other)
-- Give Me The Sunshine - Mini-Tro (We Need Each Other)
-- Madame Butterfly - Mini-Tro (We Need Each Other)
-- Get Down People - Mini-Tro (We Need Each Other)
-- Served Chilled Mix (Bar suSU 'On The Rocks')
+  - Give Me The Sunshine (We Need Each Other)
+  - I'm Back For More (We Need Each Other)
+  - Madame Butterfly (We Need Each Other)
+  - Get Down People (We Need Each Other)
+  - Give Me The Sunshine (Babylon Beach Beats Ibiza)
+  - I'm Back For More - Mini-Tro (We Need Each Other)
+  - Give Me The Sunshine - Mini-Tro (We Need Each Other)
+  - Madame Butterfly - Mini-Tro (We Need Each Other)
+  - Get Down People - Mini-Tro (We Need Each Other)
+  - Served Chilled Mix (Bar suSU 'On The Rocks')
 external_urls:
-  spotify: https://open.spotify.com/artist/4EekqrO6EowqVZsapOHOPF
+  spotify: 'https://open.spotify.com/artist/4EekqrO6EowqVZsapOHOPF'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/leos_sunshipp.jpg
 biography_enhanced_at: '2025-12-07T04:58:05.952942'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Rough Trade artist page for Leo's Sunshipp[1]
-- AllMusic artist entry for Leo's Sunshipp[2]
-- Soul Strut feature on Leo's Sunshipp – *We Need Each Other*[3]
-- Last.fm Leo's Sunshipp biography/wiki[4]
-- 'Music Is My Sanctuary article “Forgotten Treasure: Leo''s Sunshipp ''We Need Each Other'' (1978)”[5]'
-- ROVR artist description for Leo's Sunshipp[6]
-- Soul Brother Records feature on *We Need Each Other*[7]
+  - 'Rough Trade artist page for Leo''s Sunshipp[1]'
+  - 'AllMusic artist entry for Leo''s Sunshipp[2]'
+  - 'Soul Strut feature on Leo''s Sunshipp – *We Need Each Other*[3]'
+  - 'Last.fm Leo''s Sunshipp biography/wiki[4]'
+  - >-
+    Music Is My Sanctuary article “Forgotten Treasure: Leo's Sunshipp 'We Need
+    Each Other' (1978)”[5]
+  - 'ROVR artist description for Leo''s Sunshipp[6]'
+  - 'Soul Brother Records feature on *We Need Each Other*[7]'
 network_extracted: true
 entry_created: '2025-12-07T04:58:05.952952'
 last_updated: '2025-12-23T08:16:11.821052'
-origin: United States (funk/soul studio group origin; specific city and state are not reliably documented in the cited sources)
+origin: >-
+  United States (funk/soul studio group origin; specific city and state are not
+  reliably documented in the cited sources)
+artist_type: band
 ---
 
 ![](leos_sunshipp.jpg)

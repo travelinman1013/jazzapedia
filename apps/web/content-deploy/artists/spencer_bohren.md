@@ -5,20 +5,20 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1950-04-05'
-birth_place: Casper
+birth_place: 'Casper, Wyoming, United States'
 death_date: '2019-06-08'
 genres:
-- blues
+  - blues
 instruments:
-- eponymous
-- guitar
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
-  mbid: 1c1a2c92-cb11-403f-b30e-645701346d4b
-  name: Spencer Bohren & The Whippersnappers
+  - guitar
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 1c1a2c92-cb11-403f-b30e-645701346d4b
+    name: Spencer Bohren & The Whippersnappers
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/spencer_bohren.jpg
   caption: Spencer Bohren
@@ -41,56 +41,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dr. John
-  - Ralph Stanley
-  - Dale Bohren
-  - Cory McDaniel
-  - Aaron Neville
-  - Earl King
+    - Dr. John
+    - Ralph Stanley
+    - Dale Bohren
+    - Cory McDaniel
+    - Aaron Neville
+    - Earl King
   influenced:
-  - Andre Bohren
-  - The Tremors
+    - Andre Bohren
+    - The Tremors
   mentors:
-  - Rev. Gary Davis
-  - Hank Williams
-  - Bob Dylan
+    - Rev. Gary Davis
+    - Hank Williams
+    - Bob Dylan
 spotify_data:
   followers: 730
   id: 4fUwQ3GVGilqJ29K3GcQXQ
   popularity: 2
-  url: https://open.spotify.com/artist/4fUwQ3GVGilqJ29K3GcQXQ
+  url: 'https://open.spotify.com/artist/4fUwQ3GVGilqJ29K3GcQXQ'
 discography_enriched: true
 top_tracks:
-- Thief in the Night (Makin' It Home to You)
-- People Get Ready (Southern Cross)
-- Lost Forever in Your Kiss (Makin' It Home to You)
-- Blues Stay Away From Me (Southern Cross)
-- Travelin' (Makin' It Home to You)
-- Makin' It Home to You (Makin' It Home to You)
-- The River's Risin' (Makin' It Home to You)
-- Goin' Down the Bayou (Southern Cross)
-- I'm So Lonesome I Could Cry (Southern Cross)
-- I'll Be Around (Southern Cross)
+  - Thief in the Night (Makin' It Home to You)
+  - People Get Ready (Southern Cross)
+  - Lost Forever in Your Kiss (Makin' It Home to You)
+  - Blues Stay Away From Me (Southern Cross)
+  - Travelin' (Makin' It Home to You)
+  - Makin' It Home to You (Makin' It Home to You)
+  - The River's Risin' (Makin' It Home to You)
+  - Goin' Down the Bayou (Southern Cross)
+  - I'm So Lonesome I Could Cry (Southern Cross)
+  - I'll Be Around (Southern Cross)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f3e46123-bb4b-48fd-a1d0-2be0d0740fe7
-  spotify: https://open.spotify.com/artist/4fUwQ3GVGilqJ29K3GcQXQ
-  wikipedia: https://en.wikipedia.org/wiki/Spencer_Bohren
+  musicbrainz: 'https://musicbrainz.org/artist/f3e46123-bb4b-48fd-a1d0-2be0d0740fe7'
+  spotify: 'https://open.spotify.com/artist/4fUwQ3GVGilqJ29K3GcQXQ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Spencer_Bohren'
 image_path: 03_Resources/source_material/ArtistPortraits/spencer_bohren.jpg
 biography_enhanced_at: '2025-10-27T02:37:47.411526'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.spencerbohren.com/bio
-- https://www.wmky.org/arts-culture/2019-12-26/spencer-bohren
-- https://cowboystatedaily.com/2024/12/29/wyoming-people-caspers-spencer-bohren-master-of-american-roots-and-the-blues/
+  - 'https://www.spencerbohren.com/bio'
+  - 'https://www.wmky.org/arts-culture/2019-12-26/spencer-bohren'
+  - >-
+    https://cowboystatedaily.com/2024/12/29/wyoming-people-caspers-spencer-bohren-master-of-american-roots-and-the-blues/
 network_extracted: true
 entry_created: '2025-10-27T02:37:47.411538'
 last_updated: '2025-12-23T08:16:15.979540'
 gender: Male
 musicbrainz_id: f3e46123-bb4b-48fd-a1d0-2be0d0740fe7
 tags:
-- blues
-- singer-songwriter
+  - blues
+  - singer-songwriter
+is_active: false
+origin: 'Denver, Colorado, United States'
 ---
 
 ![](spencer_bohren.jpg)

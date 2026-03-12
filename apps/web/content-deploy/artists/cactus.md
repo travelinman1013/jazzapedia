@@ -1,89 +1,91 @@
 ---
-artist_type: band
+artist_type: person
 biography_enhanced_at: '2026-01-17T02:06:16.982814'
 birth_date: '1970'
 disambiguation: US hard rock supergroup
 enhancement_provider: perplexity
 entry_created: '2026-01-17T02:06:16.982825'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/09eeeefd-96ad-489b-a5d9-4fbfc40de5ef
-  spotify: https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S
-  wikipedia: https://en.wikipedia.org/wiki/Cactus_(American_band)
+  musicbrainz: 'https://musicbrainz.org/artist/09eeeefd-96ad-489b-a5d9-4fbfc40de5ef'
+  spotify: 'https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S'
+  wikipedia: 'https://en.wikipedia.org/wiki/Cactus_(American_band)'
 formation_year: 1970
 genres:
-- americana
-- alt country
+  - americana
+  - alt country
 image_path: 03_Resources/source_material/ArtistPortraits/cactus.jpg
 is_active: true
 last_updated: '2026-01-17T02:06:16.982826'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ba2a6b88-f467-48d0-a503-5f098aefd54e
-  name: Carmine Appice
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8cbc1c01-c727-40e8-8ef8-0351a18387bc
-  name: Tim Bogert
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 57dd4fe5-eca5-47c6-8f9b-0ba2721815fd
-  name: Jimmy Caputo
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 24d45990-0a62-47be-889f-688c2d87f7d0
-  name: Peter French
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9a813c09-81d1-4b47-b12d-a91d56e31764
-  name: Jimmy Kunes
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9e3097da-e3da-4e82-aadf-2bea9090badc
-  name: Jim McCarty
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 423da2a4-c351-4bae-acfa-ba4ed671e561
-  name: Randy Pratt
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ba2a6b88-f467-48d0-a503-5f098aefd54e
+    name: Carmine Appice
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8cbc1c01-c727-40e8-8ef8-0351a18387bc
+    name: Tim Bogert
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 57dd4fe5-eca5-47c6-8f9b-0ba2721815fd
+    name: Jimmy Caputo
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 24d45990-0a62-47be-889f-688c2d87f7d0
+    name: Peter French
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9a813c09-81d1-4b47-b12d-a91d56e31764
+    name: Jimmy Kunes
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9e3097da-e3da-4e82-aadf-2bea9090badc
+    name: Jim McCarty
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 423da2a4-c351-4bae-acfa-ba4ed671e561
+    name: Randy Pratt
 musical_connections:
   collaborators:
-  - Tim Bogert
-  - Jim McCarty
-  - Rusty Day
-  - Jimmy Kunes
-  - Randy Pratt
+    - Tim Bogert
+    - Jim McCarty
+    - Rusty Day
+    - Jimmy Kunes
+    - Randy Pratt
   influenced: []
   mentors:
-  - Jeff Beck
+    - Jeff Beck
 musicbrainz_id: 09eeeefd-96ad-489b-a5d9-4fbfc40de5ef
 network_extracted: true
-origin: Long Island City
+origin: 'New York, New York, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Cactus_(American_band)
-- https://www.loudersound.com/features/cactus-interview
-- https://www.cactusrocks.com
-- https://www.spirit-of-metal.com/en/biography/Cactus/6255
-- https://rock.fandom.com/wiki/Cactus_(band)
-- https://www.goldminemag.com/news/drummer-carmine-appice-rebuilds-rock-band-cactus-with-all-star-lineup/
+  - 'https://en.wikipedia.org/wiki/Cactus_(American_band)'
+  - 'https://www.loudersound.com/features/cactus-interview'
+  - 'https://www.cactusrocks.com'
+  - 'https://www.spirit-of-metal.com/en/biography/Cactus/6255'
+  - 'https://rock.fandom.com/wiki/Cactus_(band)'
+  - >-
+    https://www.goldminemag.com/news/drummer-carmine-appice-rebuilds-rock-band-cactus-with-all-star-lineup/
 spotify_data:
   followers: 69424
   id: 7kWwQAe9JnYNMk4kuEe73S
   popularity: 41
-  url: https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S
+  url: 'https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S'
 status: active
 tags:
-- blues rock
-- boogie rock
-- hard rock
-title: cactus
+  - blues rock
+  - boogie rock
+  - hard rock
+title: Cactus
+death_date: 2021-MM-DD
 ---
 
 ![](cactus.jpg)

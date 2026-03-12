@@ -1,26 +1,26 @@
 ---
-title: rory gallagher
+title: Rory Gallagher
 wiki_slug: rory-gallagher
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1948-03-02'
-birth_place: Ballyshannon, County Donegal, Ireland
+birth_place: 'Ballyshannon, County Donegal, Ireland'
 death_date: '1995-06-14'
 genres:
-- blues rock
-- blues
-- modern blues
-- classic blues
+  - blues rock
+  - blues
+  - modern blues
+  - classic blues
 instruments:
-- original
-- eponymous
+  - original
+  - eponymous
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/rory_gallagher.jpg
   caption: rory gallagher
   background: non_vocal_instrumentalist
   born: '1948-03-02'
-  origin: Ballyshannon, County Donegal, Ireland
+  origin: 'Ballyshannon, County Donegal, Ireland'
   died: '1995-06-14'
 audio_profile:
   tempo_avg: 127.4
@@ -37,46 +37,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John Wilson
-  - Richard McCracken
-  - Gerry McAvoy
-  - Donal Gallagher
+    - John Wilson
+    - Richard McCracken
+    - Gerry McAvoy
+    - Donal Gallagher
   influenced:
-  - The Edge (U2)
-  - Johnny Marr
-  - Stiff Little Fingers
-  - Energy Orchard
+    - The Edge (U2)
+    - Johnny Marr
+    - Stiff Little Fingers
+    - Energy Orchard
   mentors:
-  - Muddy Waters
-  - Chuck Berry
+    - Muddy Waters
+    - Chuck Berry
 spotify_data:
   followers: 492673
   id: 1kcWyDvrlPUbyxkIoM6pAV
   popularity: 50
-  url: https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV
+  url: 'https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV'
 discography_enriched: true
 top_tracks:
-- Bad Penny (Top Priority (Remastered 2017))
-- I Fall Apart (Rory Gallagher (Remastered 2017))
-- A Million Miles Away (Tattoo (Remastered 2017))
-- Philby (Top Priority (Remastered 2017))
-- Shadow Play (Photo Finish (Remastered 2017))
-- Moonchild (Calling Card (Remastered 2017))
-- Tattoo'd Lady (Tattoo (Remastered 2017))
-- For The Last Time (Rory Gallagher (Remastered 2017))
-- Just The Smile (Rory Gallagher (Remastered 2017))
-- Easy Come, Easy Go (Jinx (Remastered 2017))
+  - Bad Penny (Top Priority (Remastered 2017))
+  - I Fall Apart (Rory Gallagher (Remastered 2017))
+  - A Million Miles Away (Tattoo (Remastered 2017))
+  - Philby (Top Priority (Remastered 2017))
+  - Shadow Play (Photo Finish (Remastered 2017))
+  - Moonchild (Calling Card (Remastered 2017))
+  - Tattoo'd Lady (Tattoo (Remastered 2017))
+  - For The Last Time (Rory Gallagher (Remastered 2017))
+  - Just The Smile (Rory Gallagher (Remastered 2017))
+  - 'Easy Come, Easy Go (Jinx (Remastered 2017))'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/933fdeae-ec68-48e9-a752-8bcfd44bc429
-  spotify: https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV
-  wikipedia: https://en.wikipedia.org/wiki/Rory_Gallagher
+  musicbrainz: 'https://musicbrainz.org/artist/933fdeae-ec68-48e9-a752-8bcfd44bc429'
+  spotify: 'https://open.spotify.com/artist/1kcWyDvrlPUbyxkIoM6pAV'
+  wikipedia: 'https://en.wikipedia.org/wiki/Rory_Gallagher'
 image_path: 03_Resources/source_material/ArtistPortraits/rory_gallagher.jpg
 biography_enhanced_at: '2025-10-19T10:48:29.842689'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://rorygallagher.com/story/
-- https://www.udiscovermusic.com/artist/rory-gallagher/
+  - 'https://rorygallagher.com/story/'
+  - 'https://www.udiscovermusic.com/artist/rory-gallagher/'
 network_extracted: true
 entry_created: '2025-10-19T10:48:29.842705'
 last_updated: '2025-12-23T08:16:15.064399'
@@ -85,9 +85,11 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:55:27.850422'
 musicbrainz_id: 933fdeae-ec68-48e9-a752-8bcfd44bc429
 tags:
-- blues
-- blues rock
-- blues/rock
+  - blues
+  - blues rock
+  - blues/rock
+is_active: false
+origin: 'Cork, County Cork, Ireland'
 ---
 
 ![](rory_gallagher.jpg)

@@ -1,18 +1,18 @@
 ---
-title: willie bobo
+title: Willie Bobo
 wiki_slug: willie-bobo
 schema_version: 2
 status: active
-birth_place: Spanish Harlem, New York City, New York, United States
+birth_place: 'Spanish Harlem, New York City, New York, United States'
 genres:
-- latin jazz
-- jazz funk
-- cha cha cha
+  - latin jazz
+  - jazz funk
+  - cha cha cha
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/willie_bobo.jpg
   caption: willie bobo
   background: solo_singer
-  origin: Spanish Harlem, New York City, New York, United States
+  origin: 'Spanish Harlem, New York City, New York, United States'
 audio_profile:
   tempo_avg: 116.1
   energy_avg: 0.552
@@ -28,51 +28,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tito Puente
-  - Cal Tjader
-  - Herbie Mann
-  - Miles Davis
-  - Carlos Santana
+    - Tito Puente
+    - Cal Tjader
+    - Herbie Mann
+    - Miles Davis
+    - Carlos Santana
   influenced:
-  - Eric Bobo
-  - Breakbeat and hip-hop artists
+    - Eric Bobo
+    - Breakbeat and hip-hop artists
   mentors:
-  - Mongo Santamaria
-  - Armando Peraza
+    - Mongo Santamaria
+    - Armando Peraza
 spotify_data:
   followers: 55517
   id: 74Dnr5flGLfLeyV85l0NUr
   popularity: 40
-  url: https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr
+  url: 'https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr'
 discography_enriched: true
 top_tracks:
-- Fried Neck Bones And Some Home Fries (Uno Dos Tres 1-2-3)
-- Evil Ways (Willie Bobo's Finest Hour)
-- Spanish Grease (Spanish Grease)
-- Evil Ways (Talkin' Verve)
-- Fried Neck Bones And Some Home Fries - Dan The Automator Remix
-- Spanish Grease - Dorfmeister vs. Mdla Muga Reserva Mix (Grand Slam)
-- Spanish Grease - Dorfmeister Con Madrid De Los Austrias Muga Reserve Mix
-- Broasted or Fried (Dig My Feeling)
-- Mercy, Mercy, Mercy (Juicy)
-- Sunny (Willie Bobo's Finest Hour)
+  - Fried Neck Bones And Some Home Fries (Uno Dos Tres 1-2-3)
+  - Evil Ways (Willie Bobo's Finest Hour)
+  - Spanish Grease (Spanish Grease)
+  - Evil Ways (Talkin' Verve)
+  - Fried Neck Bones And Some Home Fries - Dan The Automator Remix
+  - Spanish Grease - Dorfmeister vs. Mdla Muga Reserva Mix (Grand Slam)
+  - Spanish Grease - Dorfmeister Con Madrid De Los Austrias Muga Reserve Mix
+  - Broasted or Fried (Dig My Feeling)
+  - 'Mercy, Mercy, Mercy (Juicy)'
+  - Sunny (Willie Bobo's Finest Hour)
 external_urls:
-  spotify: https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr
-  wikipedia: https://en.wikipedia.org/wiki/Willie_Bobo
+  spotify: 'https://open.spotify.com/artist/74Dnr5flGLfLeyV85l0NUr'
+  wikipedia: 'https://en.wikipedia.org/wiki/Willie_Bobo'
 image_path: 03_Resources/source_material/ArtistPortraits/willie_bobo.jpg
 biography_enhanced_at: '2025-10-24T07:51:24.209514'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Willie_Bobo
-- https://www.bluenote.com/artist/willie-bobo/
-- https://fromthevaults-boppinbob.blogspot.com/2020/02/willie-bobo-born-28-february-1934.html
-- https://www.spaceagepop.com/bobo.htm
-- https://wbssmedia.com/artists/detail/198
-- https://www.allaboutjazz.com/musicians/willie-bobo/
+  - 'https://en.wikipedia.org/wiki/Willie_Bobo'
+  - 'https://www.bluenote.com/artist/willie-bobo/'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2020/02/willie-bobo-born-28-february-1934.html
+  - 'https://www.spaceagepop.com/bobo.htm'
+  - 'https://wbssmedia.com/artists/detail/198'
+  - 'https://www.allaboutjazz.com/musicians/willie-bobo/'
 network_extracted: true
 entry_created: '2025-10-24T07:51:24.209533'
 last_updated: '2025-12-23T08:16:18.161574'
+origin: 'New York City, New York, United States'
+birth_date: '1934-02-28'
+artist_type: person
 ---
 
 ![](willie_bobo.jpg)

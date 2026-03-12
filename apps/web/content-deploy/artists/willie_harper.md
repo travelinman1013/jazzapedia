@@ -1,35 +1,37 @@
 ---
 biography_enhanced_at: '2026-01-21T01:15:36.985742'
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-21T01:15:36.985748'
 external_urls:
-  spotify: https://open.spotify.com/artist/4WKt2L8FJU2mdPgCWdX6YB
+  spotify: 'https://open.spotify.com/artist/4WKt2L8FJU2mdPgCWdX6YB'
   wikipedia: Not found
 genres:
-- northern soul
+  - northern soul
 image_path: 03_Resources/source_material/ArtistPortraits/willie_harper.jpg
 last_updated: '2026-01-21T01:15:36.985749'
 musical_connections:
   collaborators:
-  - Allen Toussaint
-  - The Man
+    - Allen Toussaint
+    - The Man
   influenced: []
   mentors:
-  - Allen Toussaint
+    - Allen Toussaint
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://homeofthegroove.blogspot.com/2007/06/willie-harpers-double-debut.html
-- https://recentmusic.com/artist/4WKt2L8FJU2mdPgCWdX6YB/
-- https://secondhandsongs.com/artist/75375/all
+  - >-
+    https://homeofthegroove.blogspot.com/2007/06/willie-harpers-double-debut.html
+  - 'https://recentmusic.com/artist/4WKt2L8FJU2mdPgCWdX6YB/'
+  - 'https://secondhandsongs.com/artist/75375/all'
 spotify_data:
   followers: 247
   id: 4WKt2L8FJU2mdPgCWdX6YB
   popularity: 2
-  url: https://open.spotify.com/artist/4WKt2L8FJU2mdPgCWdX6YB
+  url: 'https://open.spotify.com/artist/4WKt2L8FJU2mdPgCWdX6YB'
 status: active
 title: Willie Harper
+artist_type: person
 ---
 
 ![](willie_harper.jpg)

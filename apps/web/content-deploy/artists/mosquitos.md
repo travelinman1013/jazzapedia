@@ -2,10 +2,10 @@
 title: Mosquitos
 wiki_slug: mosquitos
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 genres:
-- christian rock
+  - christian rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/mosquitos.jpg
   caption: Mosquitos
@@ -16,7 +16,7 @@ audio_profile:
   valence_avg: 0.486
   danceability_avg: 0.457
   acousticness_avg: 0.12
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -5.4
   speechiness_avg: 0.051
   liveness_avg: 0.2
@@ -25,47 +25,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mikey Onufrak
-  - Mark Robohm
+    - Mikey Onufrak
+    - Mark Robohm
   influenced: []
   mentors:
-  - Brazilian Music Tradition
+    - Brazilian Music Tradition
 spotify_data:
   followers: 1332
   id: 47QEjn6q2SAyW4GtFI3mcO
   popularity: 8
-  url: https://open.spotify.com/artist/47QEjn6q2SAyW4GtFI3mcO
+  url: 'https://open.spotify.com/artist/47QEjn6q2SAyW4GtFI3mcO'
 discography_enriched: true
 top_tracks:
-- Tu Eres Dios (Vol. 1)
-- Recuperando El Tiempo Perdido (Recuperando El Tiempo Perdido)
-- Asi Eres Tu (Dios) (Vol. 1)
-- Respirando en Tu honor (Respirando en Tu honor)
-- Amor Sin Condiciones (Amor Sin Condiciones)
-- Éres Lo Unico (Éres Lo Unico)
-- Te Amo (Vol. 1)
-- Perdoname (Vol. 1)
-- Cuando Todo Apesta (Vol. 1)
-- Cuentesillo (Vol. 1)
+  - Tu Eres Dios (Vol. 1)
+  - Recuperando El Tiempo Perdido (Recuperando El Tiempo Perdido)
+  - Asi Eres Tu (Dios) (Vol. 1)
+  - Respirando en Tu honor (Respirando en Tu honor)
+  - Amor Sin Condiciones (Amor Sin Condiciones)
+  - Éres Lo Unico (Éres Lo Unico)
+  - Te Amo (Vol. 1)
+  - Perdoname (Vol. 1)
+  - Cuando Todo Apesta (Vol. 1)
+  - Cuentesillo (Vol. 1)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/97fcfcdb-4943-4c4b-9e51-e90d671c5ac8
-  spotify: https://open.spotify.com/artist/47QEjn6q2SAyW4GtFI3mcO
-  wikipedia: https://en.wikipedia.org/wiki/Mosquitos_(band)
+  musicbrainz: 'https://musicbrainz.org/artist/97fcfcdb-4943-4c4b-9e51-e90d671c5ac8'
+  spotify: 'https://open.spotify.com/artist/47QEjn6q2SAyW4GtFI3mcO'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mosquitos_(band)'
 image_path: 03_Resources/source_material/ArtistPortraits/mosquitos.jpg
 biography_enhanced_at: '2025-11-16T20:17:59.999444'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Mosquitos (band)
-- Six Degrees Records - Mosquitos
-- Bar/None Records - Mosquitos
-- AllMusic - The Mosquitos
+  - Wikipedia - Mosquitos (band)
+  - Six Degrees Records - Mosquitos
+  - Bar/None Records - Mosquitos
+  - AllMusic - The Mosquitos
 network_extracted: true
 entry_created: '2025-11-16T20:17:59.999449'
 last_updated: '2025-12-23T08:16:13.321501'
 disambiguation: Belgian 1990s rock band
 musicbrainz_id: 97fcfcdb-4943-4c4b-9e51-e90d671c5ac8
-origin: New York City, New York, United States
+origin: 'New York City, New York, United States'
 ---
 
 ![](mosquitos.jpg)

@@ -1,19 +1,19 @@
 ---
-title: TIM O'BRIEN
+title: Tim O'Brien
 wiki_slug: tim-obrien
 schema_version: 2
 status: active
-birth_place: Wheeling, West Virginia, United States
+birth_place: 'Wheeling, West Virginia, United States'
 genres:
-- bluegrass
-- newgrass
-- americana
-- folk
+  - bluegrass
+  - newgrass
+  - americana
+  - folk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/tim_obrien.jpg
   caption: TIM O'BRIEN
   background: solo_singer
-  origin: Wheeling, West Virginia, United States
+  origin: 'Wheeling, West Virginia, United States'
 audio_profile:
   tempo_avg: 118.4
   energy_avg: 0.427
@@ -29,54 +29,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Hot Rize (Charles Sawtelle, Pete Wernick, Nick Forster)
-  - Kathy Mattea
-  - Mollie O'Brien
-  - Darrell Scott
-  - Dirk Powell
-  - The Earls of Leicester
-  - Jan Fabricius
+    - 'Hot Rize (Charles Sawtelle, Pete Wernick, Nick Forster)'
+    - Kathy Mattea
+    - Mollie O'Brien
+    - Darrell Scott
+    - Dirk Powell
+    - The Earls of Leicester
+    - Jan Fabricius
   influenced:
-  - Garth Brooks
-  - The Chicks (formerly Dixie Chicks)
-  - Nickel Creek
+    - Garth Brooks
+    - The Chicks (formerly Dixie Chicks)
+    - Nickel Creek
   mentors:
-  - Doc Watson
-  - Chet Atkins
+    - Doc Watson
+    - Chet Atkins
 spotify_data:
   followers: 31714
   id: 2nJQCVut36kUzDfy3eUZCM
   popularity: 37
-  url: https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM
+  url: 'https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM'
 discography_enriched: true
 top_tracks:
-- Working Man
-- 5 Days Out, 2 Days Back
-- Long Time Gone (Real Time)
-- Come Out Of My Blues (feat. Tim O'Brien) (A Tip Toe High Wire)
-- Come Out Of My Blues (feat. Tim O'Brien)
-- Senor (Tales Of Yankee Power) (Red On Blonde)
-- I Wish My Baby Was Born
-- Our Home (The Purple Bird)
-- 'Ho''okani Misionari (Nā Mele Hawai''i: A Rediscovery of Hawaiian Vocal Music)'
-- Farewell Angelina (Red On Blonde)
+  - Working Man
+  - '5 Days Out, 2 Days Back'
+  - Long Time Gone (Real Time)
+  - Come Out Of My Blues (feat. Tim O'Brien) (A Tip Toe High Wire)
+  - Come Out Of My Blues (feat. Tim O'Brien)
+  - Senor (Tales Of Yankee Power) (Red On Blonde)
+  - I Wish My Baby Was Born
+  - Our Home (The Purple Bird)
+  - 'Ho''okani Misionari (Nā Mele Hawai''i: A Rediscovery of Hawaiian Vocal Music)'
+  - Farewell Angelina (Red On Blonde)
 external_urls:
-  spotify: https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM
-  wikipedia: https://en.wikipedia.org/wiki/Tim_O'Brien_(musician)
+  spotify: 'https://open.spotify.com/artist/2nJQCVut36kUzDfy3eUZCM'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tim_O''Brien_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/tim_obrien.jpg
 biography_enhanced_at: '2025-12-04T08:09:34.355722'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Tim_O'Brien_(musician)
-- https://timobrien.net/bio
-- https://www.ohiocountylibrary.org/history/biography-tim-obrien/7478
-- https://bornandbredmusic.com/2024/03/14/heritage-legacy-tim-obrien/
-- https://thebluegrasssituation.com/read/after-nearly-50-years-in-music-tim-obrien-is-more-comfortable-with-himself/
-- https://hotrize.com/tim-obrien/
+  - 'https://en.wikipedia.org/wiki/Tim_O''Brien_(musician)'
+  - 'https://timobrien.net/bio'
+  - 'https://www.ohiocountylibrary.org/history/biography-tim-obrien/7478'
+  - 'https://bornandbredmusic.com/2024/03/14/heritage-legacy-tim-obrien/'
+  - >-
+    https://thebluegrasssituation.com/read/after-nearly-50-years-in-music-tim-obrien-is-more-comfortable-with-himself/
+  - 'https://hotrize.com/tim-obrien/'
 network_extracted: true
 entry_created: '2025-12-04T08:09:34.355732'
 last_updated: '2025-12-23T08:16:17.438534'
+birth_date: '1954-03-16'
+artist_type: person
 ---
 
 ![](tim_obrien.jpg)

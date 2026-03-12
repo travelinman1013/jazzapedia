@@ -1,15 +1,15 @@
 ---
-title: Mary Jane Girls
+title: The Mary Jane Girls
 wiki_slug: mary-jane-girls
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1979'
 genres:
-- post-disco
+  - post-disco
 instruments:
-- background vocals
-- lead vocals
+  - background vocals
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/mary_jane_girls.jpg
   caption: Mary Jane Girls
@@ -22,7 +22,7 @@ audio_profile:
   danceability_avg: 0.755
   acousticness_avg: 0.144
   instrumentalness_avg: 0.1
-  loudness_avg: -11.0
+  loudness_avg: -11
   speechiness_avg: 0.067
   liveness_avg: 0.134
   track_count: 50
@@ -30,65 +30,66 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Joanne 'JoJo' McDuffie
-  - Kimberly 'Maxi' Wuletich
-  - Candice 'Candi' Ghant
-  - Yvette 'Corvette' Marine
-  - The Water Sisters
+    - Joanne 'JoJo' McDuffie
+    - Kimberly 'Maxi' Wuletich
+    - Candice 'Candi' Ghant
+    - Yvette 'Corvette' Marine
+    - The Water Sisters
   influenced: []
   mentors:
-  - Rick James
+    - Rick James
 spotify_data:
   followers: 310018
   id: 7vRMMs8yrKf4PKUpUllMkr
   popularity: 47
-  url: https://open.spotify.com/artist/7vRMMs8yrKf4PKUpUllMkr
+  url: 'https://open.spotify.com/artist/7vRMMs8yrKf4PKUpUllMkr'
 discography_enriched: true
 top_tracks:
-- All Night Long (In My House)
-- Candy Man (Mary Jane Girls)
-- In My House (Only Four You)
-- In My House - Single Version (Hitsville USA, The Motown Collection 1972-1992)
-- All Night Long (Mary Jane Girls)
-- All Night Long
-- All Night Long (Motown Greatest Hits)
-- All Night Long
-- All Night Long
-- All Night Long
+  - All Night Long (In My House)
+  - Candy Man (Mary Jane Girls)
+  - In My House (Only Four You)
+  - >-
+    In My House - Single Version (Hitsville USA, The Motown Collection
+    1972-1992)
+  - All Night Long (Mary Jane Girls)
+  - All Night Long
+  - All Night Long (Motown Greatest Hits)
+  - All Night Long
+  - All Night Long
+  - All Night Long
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/28038c9c-5385-4c65-98a8-7c2bed83c133
-  spotify: https://open.spotify.com/artist/7vRMMs8yrKf4PKUpUllMkr
+  musicbrainz: 'https://musicbrainz.org/artist/28038c9c-5385-4c65-98a8-7c2bed83c133'
+  spotify: 'https://open.spotify.com/artist/7vRMMs8yrKf4PKUpUllMkr'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/mary_jane_girls.jpg
 biography_enhanced_at: '2025-12-04T08:04:24.961558'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Last.fm - Mary Jane Girls
-- 'Los Angeles Times - ''Mary Jane Girls: James'' Other Half'' (1985)'
-- Jango Radio - Mary Jane Girls Full Bio
-- TheAudioDB.com - Mary Jane Girls
-- YouTube Music - Mary Jane Girls
+  - Last.fm - Mary Jane Girls
+  - 'Los Angeles Times - ''Mary Jane Girls: James'' Other Half'' (1985)'
+  - Jango Radio - Mary Jane Girls Full Bio
+  - TheAudioDB.com - Mary Jane Girls
+  - YouTube Music - Mary Jane Girls
 network_extracted: true
 entry_created: '2025-12-04T08:04:24.961569'
 last_updated: '2025-12-23T08:16:12.779592'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5a5bcc10-8aab-47c6-a2d8-af6f5ee8ac80
-  name: Joanne "JoJo" McDuffie
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 724d3dbf-d75d-4528-870f-332641c3e1ac
-  name: Val Young
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5a5bcc10-8aab-47c6-a2d8-af6f5ee8ac80
+    name: Joanne "JoJo" McDuffie
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 724d3dbf-d75d-4528-870f-332641c3e1ac
+    name: Val Young
 musicbrainz_id: 28038c9c-5385-4c65-98a8-7c2bed83c133
-origin: Los Angeles
+origin: 'Los Angeles, California, United States'
 tags:
-- classic pop and rock
-- synth funk
-
+  - classic pop and rock
+  - synth funk
 ---
 
 ![](mary_jane_girls.jpg)

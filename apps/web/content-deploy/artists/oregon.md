@@ -4,8 +4,8 @@ wiki_slug: oregon
 schema_version: 2
 status: active
 genres:
-- jazz fusion
-- jazz
+  - jazz fusion
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/oregon.jpg
   caption: Oregon
@@ -25,53 +25,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Paul McCandless
-  - Glen Moore
-  - Collin Walcott
-  - Trilok Gurtu
-  - Mark Walker
+    - Paul McCandless
+    - Glen Moore
+    - Collin Walcott
+    - Trilok Gurtu
+    - Mark Walker
   influenced:
-  - Various contemporary jazz fusion artists
-  - Ethno-jazz ensembles
+    - Various contemporary jazz fusion artists
+    - Ethno-jazz ensembles
   mentors:
-  - Bill Evans
-  - Scott LaFaro
-  - Ravi Shankar
-  - George Gaber
+    - Bill Evans
+    - Scott LaFaro
+    - Ravi Shankar
+    - George Gaber
 spotify_data:
   followers: 28812
   id: 0CyVUjy6HZzEXgGA0ydd3t
   popularity: 25
-  url: https://open.spotify.com/artist/0CyVUjy6HZzEXgGA0ydd3t
+  url: 'https://open.spotify.com/artist/0CyVUjy6HZzEXgGA0ydd3t'
 discography_enriched: true
 top_tracks:
-- From A Dream (1000 Kilometers)
-- The Silence Of A Candle (Music Of Another Present Era)
-- Yellow Bell (Out Of The Woods)
-- CANTINERO - REMIX (NNY TRAYECTORIA)
-- Reprise (Out Of The Woods)
-- Dolomiti Dance (Lantern)
-- Witchi-Tai-To (Out Of The Woods)
-- Vision of a Dancer (Out Of The Woods)
-- Fall 77 (Out Of The Woods)
-- Cane Fields (Out Of The Woods)
+  - From A Dream (1000 Kilometers)
+  - The Silence Of A Candle (Music Of Another Present Era)
+  - Yellow Bell (Out Of The Woods)
+  - CANTINERO - REMIX (NNY TRAYECTORIA)
+  - Reprise (Out Of The Woods)
+  - Dolomiti Dance (Lantern)
+  - Witchi-Tai-To (Out Of The Woods)
+  - Vision of a Dancer (Out Of The Woods)
+  - Fall 77 (Out Of The Woods)
+  - Cane Fields (Out Of The Woods)
 external_urls:
-  spotify: https://open.spotify.com/artist/0CyVUjy6HZzEXgGA0ydd3t
-  wikipedia: https://en.wikipedia.org/wiki/Oregon_(band)
+  spotify: 'https://open.spotify.com/artist/0CyVUjy6HZzEXgGA0ydd3t'
+  wikipedia: 'https://en.wikipedia.org/wiki/Oregon_(band)'
 image_path: 03_Resources/source_material/ArtistPortraits/oregon.jpg
 biography_enhanced_at: '2025-11-20T06:32:20.084115'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://oregonband.com/bio/
-- https://en.wikipedia.org/wiki/Oregon_(band)
-- http://oregonband.com
-- https://jazzrocksoul.com/artists/oregon/
-- https://www.allmusic.com/artist/oregon-mn0000481870
+  - 'http://oregonband.com/bio/'
+  - 'https://en.wikipedia.org/wiki/Oregon_(band)'
+  - 'http://oregonband.com'
+  - 'https://jazzrocksoul.com/artists/oregon/'
+  - 'https://www.allmusic.com/artist/oregon-mn0000481870'
 network_extracted: true
 entry_created: '2025-11-20T06:32:20.084125'
 last_updated: '2025-12-23T08:16:13.764850'
-origin: Eugene, Oregon, United States
+origin: 'Eugene, Oregon, United States'
+artist_type: band
 ---
 
 ![](oregon.jpg)

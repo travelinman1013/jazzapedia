@@ -1,12 +1,13 @@
 ---
-title: Kam Franklin, AJ Haynes, Roddie Romero
+title: 'Kam Franklin, AJ Haynes, Roddie Romero'
 wiki_slug: kam-franklin-aj-haynes-roddie-romero
 schema_version: 2
 status: active
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/kam_franklin_aj_haynes_roddie_romero.jpg
-  caption: Kam Franklin, AJ Haynes, Roddie Romero
+  image: >-
+    03_Resources/source_material/ArtistPortraits/kam_franklin_aj_haynes_roddie_romero.jpg
+  caption: 'Kam Franklin, AJ Haynes, Roddie Romero'
   background: solo_singer
 audio_profile:
   tempo_avg: 94.8
@@ -15,7 +16,7 @@ audio_profile:
   danceability_avg: 0.631
   acousticness_avg: 0.076
   instrumentalness_avg: 0.007
-  loudness_avg: -7.0
+  loudness_avg: -7
   speechiness_avg: 0.027
   liveness_avg: 0.231
   track_count: 1
@@ -23,37 +24,42 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kam Franklin
-  - AJ Haynes
-  - Roddie Romero
+    - Kam Franklin
+    - AJ Haynes
+    - Roddie Romero
   influenced:
-  - Emerging Southern soul and roots musicians
+    - Emerging Southern soul and roots musicians
   mentors:
-  - Clifton Chenier
+    - Clifton Chenier
 spotify_data:
   followers: 20
   id: 1zOgAtvzfuaL6JUuhjKLfF
   popularity: 7
-  url: https://open.spotify.com/artist/1zOgAtvzfuaL6JUuhjKLfF
+  url: 'https://open.spotify.com/artist/1zOgAtvzfuaL6JUuhjKLfF'
 discography_enriched: true
 top_tracks:
-- 'Look at My Soul (Look at My Soul: The Latin Shade of Texas Soul)'
+  - 'Look at My Soul (Look at My Soul: The Latin Shade of Texas Soul)'
 external_urls:
-  spotify: https://open.spotify.com/artist/1zOgAtvzfuaL6JUuhjKLfF
+  spotify: 'https://open.spotify.com/artist/1zOgAtvzfuaL6JUuhjKLfF'
   wikipedia: ''
 image_path: ''
 biography_enhanced_at: '2025-11-17T10:48:44.684003'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.gratefulweb.com/articles/blues-legend-taj-mahal-pays-tribute-to-the-king-of-zydeco-clifton-chenier-for-his-100th-birthday/
-- https://louisiana.edu/news/clifton-chenier-tribute-album-featuring-rolling-stones-supports-ul-lafayette-scholarship
-- https://americana-uk.com/cajun-corner-the-stones-go-cajun
-- https://americanahighways.org/2025/06/30/bentleys-bandstand-june-2025/
+  - >-
+    https://www.gratefulweb.com/articles/blues-legend-taj-mahal-pays-tribute-to-the-king-of-zydeco-clifton-chenier-for-his-100th-birthday/
+  - >-
+    https://louisiana.edu/news/clifton-chenier-tribute-album-featuring-rolling-stones-supports-ul-lafayette-scholarship
+  - 'https://americana-uk.com/cajun-corner-the-stones-go-cajun'
+  - 'https://americanahighways.org/2025/06/30/bentleys-bandstand-june-2025/'
 network_extracted: true
 entry_created: '2025-11-17T10:48:44.684010'
 last_updated: '2025-12-23T08:16:11.160041'
-origin: 'Kam Franklin: Houston, Texas, USA; AJ Haynes: Shreveport, Louisiana, USA; Roddie Romero: Lafayette, Louisiana, USA'
+origin: >-
+  Kam Franklin: Houston, Texas, USA; AJ Haynes: Shreveport, Louisiana, USA;
+  Roddie Romero: Lafayette, Louisiana, USA
+artist_type: person
 ---
 
 ![]()

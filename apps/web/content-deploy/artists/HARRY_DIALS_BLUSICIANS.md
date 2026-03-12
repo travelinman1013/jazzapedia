@@ -1,15 +1,15 @@
 ---
-title: HARRY DIAL'S BLUSICIANS
+title: Harry Dial's Blusicians
 wiki_slug: harry-dials-blusicians
 schema_version: 2
 status: active
-birth_place: Birmingham, Alabama, USA
+birth_place: 'Birmingham, Alabama, USA'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/HARRY_DIALS_BLUSICIANS.jpg
   caption: HARRY DIAL'S BLUSICIANS
   background: solo_singer
-  origin: Birmingham, Alabama, USA
+  origin: 'Birmingham, Alabama, USA'
 audio_profile:
   tempo_avg: 148.3
   energy_avg: 0.288
@@ -17,7 +17,7 @@ audio_profile:
   danceability_avg: 0.669
   acousticness_avg: 0.981
   instrumentalness_avg: 0.556
-  loudness_avg: -15.0
+  loudness_avg: -15
   speechiness_avg: 0.097
   liveness_avg: 0.113
   track_count: 10
@@ -25,49 +25,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Fats Waller
-  - Louis Armstrong
-  - Louis Jordan's Tympany Five
-  - Omer Simeon
-  - Eursten Woodfork
-  - Shirley Clay
-  - Lester Boone
+    - Fats Waller
+    - Louis Armstrong
+    - Louis Jordan's Tympany Five
+    - Omer Simeon
+    - Eursten Woodfork
+    - Shirley Clay
+    - Lester Boone
   influenced:
-  - Numerous jazz drummers
+    - Numerous jazz drummers
   mentors:
-  - Dewey Jackson
-  - Lawrence Marable
+    - Dewey Jackson
+    - Lawrence Marable
 spotify_data:
   followers: 12
   id: 6oqpu1r6Pb163jiiK0WH3j
   popularity: 0
-  url: https://open.spotify.com/artist/6oqpu1r6Pb163jiiK0WH3j
+  url: 'https://open.spotify.com/artist/6oqpu1r6Pb163jiiK0WH3j'
 discography_enriched: true
 top_tracks:
-- Funny Fumble (That's My Stuff - Chicago 1929-1930)
-- When My Baby Starts to Shake That Thing (That's My Stuff - Chicago 1929-1930)
-- Poison (Chicago South Side 1923-1930)
-- Don't Give It Away (That's My Stuff - Chicago 1929-1930)
-- I Like What I Like Like I Like It (That's My Stuff - Chicago 1929-1930)
-- It Must Be Love (That's My Stuff - Chicago 1929-1930)
-- Poison (That's My Stuff - Chicago 1929-1930)
-- It Must Be Love (Chicago South Side)
-- I Like What I Like Like I Like It (Chicago South Side)
-- Funny Fumble (Chicago Black Small Bands)
+  - Funny Fumble (That's My Stuff - Chicago 1929-1930)
+  - >-
+    When My Baby Starts to Shake That Thing (That's My Stuff - Chicago
+    1929-1930)
+  - Poison (Chicago South Side 1923-1930)
+  - Don't Give It Away (That's My Stuff - Chicago 1929-1930)
+  - I Like What I Like Like I Like It (That's My Stuff - Chicago 1929-1930)
+  - It Must Be Love (That's My Stuff - Chicago 1929-1930)
+  - Poison (That's My Stuff - Chicago 1929-1930)
+  - It Must Be Love (Chicago South Side)
+  - I Like What I Like Like I Like It (Chicago South Side)
+  - Funny Fumble (Chicago Black Small Bands)
 external_urls:
-  spotify: https://open.spotify.com/artist/6oqpu1r6Pb163jiiK0WH3j
+  spotify: 'https://open.spotify.com/artist/6oqpu1r6Pb163jiiK0WH3j'
   wikipedia: ''
 image_path: ''
 biography_enhanced_at: '2025-10-20T09:20:13.184584'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.youtube.com/watch?v=nzUhUkiaEmc
-- https://www.allmusic.com/artist/harry-dial-mn0001531740
-- https://books.google.com/books/about/All_this_Jazz_about_Jazz.html?id=RlA5AQAAIAAJ
+  - 'https://www.youtube.com/watch?v=nzUhUkiaEmc'
+  - 'https://www.allmusic.com/artist/harry-dial-mn0001531740'
+  - >-
+    https://books.google.com/books/about/All_this_Jazz_about_Jazz.html?id=RlA5AQAAIAAJ
 network_extracted: true
 entry_created: '2025-10-20T09:20:13.184597'
 last_updated: '2025-12-23T08:16:02.182124'
+artist_type: person
 ---
 
 ![]()

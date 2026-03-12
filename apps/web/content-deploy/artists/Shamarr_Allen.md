@@ -2,24 +2,24 @@
 title: Shamarr Allen
 wiki_slug: shamarr-allen
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 aliases: []
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, United States'
 years_active: 1994&ndash;present
 genres:
-- new orleans bounce
-- cajun
+  - new orleans bounce
+  - cajun
 record_labels:
-- Sanctuary Records
-- Capricorn Records
+  - Sanctuary Records
+  - Capricorn Records
 associated_acts:
-- Theryl DeClouet
+  - Theryl DeClouet
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Shamarr_Allen.jpg
   caption: Shamarr Allen
   background: solo_singer
-  origin: New Orleans, Louisiana, USA
+  origin: 'New Orleans, Louisiana, USA'
 audio_profile:
   tempo_avg: 130.1
   energy_avg: 0.691
@@ -35,73 +35,79 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Willie Nelson
-  - Patti LaBelle
-  - Harry Connick Jr.
-  - Lenny Kravitz
-  - Galactic
-  - Hot 8 Brass Band
-  - Rebirth Brass Band
-  - Lil’ Rascals Brass Band
-  - Treme Brass Band
-  - The Underdawgs
-  - DJ DNA504
-  - Kermit Ruffins
+    - Willie Nelson
+    - Patti LaBelle
+    - Harry Connick Jr.
+    - Lenny Kravitz
+    - Galactic
+    - Hot 8 Brass Band
+    - Rebirth Brass Band
+    - Lil’ Rascals Brass Band
+    - Treme Brass Band
+    - The Underdawgs
+    - DJ DNA504
+    - Kermit Ruffins
   influenced:
-  - Various New Orleans youth musicians
+    - Various New Orleans youth musicians
   mentors:
-  - Edward 'Kidd' Jordan
-  - Clyde Kerr Jr.
-  - Herlin Riley
-  - Alvin Batiste
-  - Leroy Jones
-  - Joe Torregano
-  - Bob French
-  - Tim Green
-  - Yvette Best
+    - Edward 'Kidd' Jordan
+    - Clyde Kerr Jr.
+    - Herlin Riley
+    - Alvin Batiste
+    - Leroy Jones
+    - Joe Torregano
+    - Bob French
+    - Tim Green
+    - Yvette Best
 related_artists: []
 spotify_data:
   followers: 3278
   id: 5GwHhbhknSra7tfUr3ZjYr
   popularity: 14
-  url: https://open.spotify.com/artist/5GwHhbhknSra7tfUr3ZjYr
+  url: 'https://open.spotify.com/artist/5GwHhbhknSra7tfUr3ZjYr'
   verified: false
 discography_enriched: true
 albums_count: 3
 singles_count: 10
 top_tracks:
-- I'm On It (Timeless, Vol. 2)
-- Meet Me On Frenchmen Street - Feat. Kermit Ruffins (Meet Me On Frenchmen Street)
-- Hit the Sean Payton (feat. DJ Dna504) (Hit the Sean Payton (feat. DJ DNA504))
-- Weekend Dance (True Orleans)
-- Ruin My Day (True Orleans)
-- Dance With Me (Dance With Me)
-- Saints Medley (Meet Me On Frenchmen Street)
-- Greatest Place in the World (True Orleans)
-- Throw Me Something (Throw Me Something)
-- 'Weekend Dance #2 (Sugar)'
+  - 'I''m On It (Timeless, Vol. 2)'
+  - >-
+    Meet Me On Frenchmen Street - Feat. Kermit Ruffins (Meet Me On Frenchmen
+    Street)
+  - >-
+    Hit the Sean Payton (feat. DJ Dna504) (Hit the Sean Payton (feat. DJ
+    DNA504))
+  - Weekend Dance (True Orleans)
+  - Ruin My Day (True Orleans)
+  - Dance With Me (Dance With Me)
+  - Saints Medley (Meet Me On Frenchmen Street)
+  - Greatest Place in the World (True Orleans)
+  - Throw Me Something (Throw Me Something)
+  - 'Weekend Dance #2 (Sugar)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/239dc939-8389-4205-8acf-193c5da539b3
-  spotify: https://open.spotify.com/artist/5GwHhbhknSra7tfUr3ZjYr
-  wikipedia: https://en.wikipedia.org/wiki/Galactic
+  musicbrainz: 'https://musicbrainz.org/artist/239dc939-8389-4205-8acf-193c5da539b3'
+  spotify: 'https://open.spotify.com/artist/5GwHhbhknSra7tfUr3ZjYr'
+  wikipedia: 'https://en.wikipedia.org/wiki/Galactic'
 image_path: 03_Resources/source_material/ArtistPortraits/Shamarr_Allen.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:30:06.614402'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.shamarrallen.com/bio/
-- https://www.allaboutjazz.com/musicians/shamarr-allen/
-- https://www.telluridejazz.org/shamarr-allen
-- https://antigravitymagazine.com/feature/down-the-block-and-around-the-world-with-shamarr-allen/
-- https://www.lincolncenter.org/series/summer-for-the-city/shamarr-allen-346
+  - 'https://www.shamarrallen.com/bio/'
+  - 'https://www.allaboutjazz.com/musicians/shamarr-allen/'
+  - 'https://www.telluridejazz.org/shamarr-allen'
+  - >-
+    https://antigravitymagazine.com/feature/down-the-block-and-around-the-world-with-shamarr-allen/
+  - 'https://www.lincolncenter.org/series/summer-for-the-city/shamarr-allen-346'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:50:24.692111
+entry_created: 2025-09-22T21:50:24.692Z
 last_updated: '2025-12-23T08:16:03.856421'
 gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:43:11.560474'
 musicbrainz_id: 239dc939-8389-4205-8acf-193c5da539b3
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](Shamarr_Allen.jpg)

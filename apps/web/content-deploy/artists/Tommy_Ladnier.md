@@ -2,23 +2,23 @@
 title: Tommy Ladnier
 wiki_slug: tommy-ladnier
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1900-05-28'
-birth_place: Mandeville, Louisiana, United States
+birth_place: 'Mandeville, Louisiana, United States'
 death_date: '1939-06-04'
 genres:
-- jazz
+  - jazz
 instruments:
-- eponymous
-- original
-- trumpet
+  - eponymous
+  - original
+  - trumpet
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Tommy_Ladnier.jpg
   caption: Tommy Ladnier
   background: non_vocal_instrumentalist
   born: '1900-05-28'
-  origin: Mandeville, Louisiana, United States
+  origin: 'Mandeville, Louisiana, United States'
   died: '1939-06-04'
 audio_profile:
   tempo_avg: 113.3
@@ -35,48 +35,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sidney Bechet
-  - Fletcher Henderson
-  - Mezz Mezzrow
-  - Sam Wooding
-  - Noble Sissle
+    - Sidney Bechet
+    - Fletcher Henderson
+    - Mezz Mezzrow
+    - Sam Wooding
+    - Noble Sissle
   influenced:
-  - Louis Armstrong
-  - Edmond Hall
+    - Louis Armstrong
+    - Edmond Hall
   mentors:
-  - Bunk Johnson
-  - King Oliver
+    - Bunk Johnson
+    - King Oliver
 spotify_data:
   followers: 350
   id: 5maX0rFqQkChPhaaC6UTyW
   popularity: 2
-  url: https://open.spotify.com/artist/5maX0rFqQkChPhaaC6UTyW
+  url: 'https://open.spotify.com/artist/5maX0rFqQkChPhaaC6UTyW'
 discography_enriched: true
 top_tracks:
-- 'Steppin'' on the Blues (Really the Blues?: A Blues History (1893-1959), Vol. 1 (1893-1929))'
-- Weary Blues (Shag)
-- I've Found A New Baby (The Warm And Tender Soul Of Tommy Ladnier)
-- 'Foolish Man Blues (Smith, Bessie: Empty Bed Blues (1927-1928))'
-- Really the Blues
-- Revolutionary Man - Remastered 2022 (Great Jazz - Great Trumpets 1936-1952 (Remaster))
-- Jada - Remastered 2022 (Great Jazz - Great Trumpets 1936-1952 (Remaster))
-- Brown Skin Man (Tommy Ladnier Plays The Blues)
-- Travelling Blues (Tommy Ladnier Plays The Blues)
-- Worried 'Bout Him Blues (Tommy Ladnier Plays The Blues)
+  - >-
+    Steppin' on the Blues (Really the Blues?: A Blues History (1893-1959), Vol.
+    1 (1893-1929))
+  - Weary Blues (Shag)
+  - I've Found A New Baby (The Warm And Tender Soul Of Tommy Ladnier)
+  - 'Foolish Man Blues (Smith, Bessie: Empty Bed Blues (1927-1928))'
+  - Really the Blues
+  - >-
+    Revolutionary Man - Remastered 2022 (Great Jazz - Great Trumpets 1936-1952
+    (Remaster))
+  - Jada - Remastered 2022 (Great Jazz - Great Trumpets 1936-1952 (Remaster))
+  - Brown Skin Man (Tommy Ladnier Plays The Blues)
+  - Travelling Blues (Tommy Ladnier Plays The Blues)
+  - Worried 'Bout Him Blues (Tommy Ladnier Plays The Blues)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/04ce08d7-1f21-4ada-90b3-3089554b9b3d
-  spotify: https://open.spotify.com/artist/5maX0rFqQkChPhaaC6UTyW
-  wikipedia: https://en.wikipedia.org/wiki/Tommy_Ladnier
+  musicbrainz: 'https://musicbrainz.org/artist/04ce08d7-1f21-4ada-90b3-3089554b9b3d'
+  spotify: 'https://open.spotify.com/artist/5maX0rFqQkChPhaaC6UTyW'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tommy_Ladnier'
 image_path: 03_Resources/source_material/ArtistPortraits/Tommy_Ladnier.jpg
 biography_enhanced_at: '2025-10-19T11:29:18.313378'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Tommy_Ladnier
-- https://www.jazzresearch.se/tommy-ladnier
-- https://encyclopedia.com/arts/dictionaries-thesauruses-pictures-and-press-releases/ladnier-tommy-originally-ladner-thomas
-- https://kids.kiddle.co/Tommy_Ladnier
-- https://the78rpmrecordspins.wordpress.com/2013/03/21/tommy-ladnier/
+  - 'https://en.wikipedia.org/wiki/Tommy_Ladnier'
+  - 'https://www.jazzresearch.se/tommy-ladnier'
+  - >-
+    https://encyclopedia.com/arts/dictionaries-thesauruses-pictures-and-press-releases/ladnier-tommy-originally-ladner-thomas
+  - 'https://kids.kiddle.co/Tommy_Ladnier'
+  - 'https://the78rpmrecordspins.wordpress.com/2013/03/21/tommy-ladnier/'
 network_extracted: true
 entry_created: '2025-10-19T11:29:18.313389'
 last_updated: '2025-12-23T08:16:04.197903'
@@ -85,9 +90,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:47:24.213452'
 musicbrainz_id: 04ce08d7-1f21-4ada-90b3-3089554b9b3d
 tags:
-- dixieland
-- jazz
-
+  - dixieland
+  - jazz
+is_active: false
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](Tommy_Ladnier.jpg)

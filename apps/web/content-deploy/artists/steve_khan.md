@@ -3,13 +3,13 @@ title: Steve Khan
 wiki_slug: steve-khan
 schema_version: 2
 status: active
-birth_place: Los Angeles, California, United States
+birth_place: 'Los Angeles, California, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/steve_khan.jpg
   caption: Steve Khan
   background: solo_singer
-  origin: Los Angeles, California, United States
+  origin: 'Los Angeles, California, United States'
 audio_profile:
   tempo_avg: 117.9
   energy_avg: 0.516
@@ -25,43 +25,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Larry Coryell
-  - Brecker Brothers (Michael and Randy Brecker)
-  - Anthony Jackson, Manolo Badrena, Steve Jordan
-  - Steely Dan
-  - Dave Samuels and Dave Valentin
+    - Larry Coryell
+    - Brecker Brothers (Michael and Randy Brecker)
+    - 'Anthony Jackson, Manolo Badrena, Steve Jordan'
+    - Steely Dan
+    - Dave Samuels and Dave Valentin
   influenced:
-  - Contemporary jazz guitarists
+    - Contemporary jazz guitarists
   mentors:
-  - Ron Anthony
-  - Wes Montgomery, Kenny Burrell, Grant Green, Jim Hall
+    - Ron Anthony
+    - 'Wes Montgomery, Kenny Burrell, Grant Green, Jim Hall'
 spotify_data:
   followers: 9
   id: 2gsvL3kpv0YoyY0xUvffuH
   popularity: 0
-  url: https://open.spotify.com/artist/2gsvL3kpv0YoyY0xUvffuH
+  url: 'https://open.spotify.com/artist/2gsvL3kpv0YoyY0xUvffuH'
 discography_enriched: true
 top_tracks:
-- Cobb (So Nobody Else Can Hear)
-- Pistachio (So Nobody Else Can Hear)
-- Cute (So Nobody Else Can Hear)
-- Four More Blues (So Nobody Else Can Hear)
+  - Cobb (So Nobody Else Can Hear)
+  - Pistachio (So Nobody Else Can Hear)
+  - Cute (So Nobody Else Can Hear)
+  - Four More Blues (So Nobody Else Can Hear)
 external_urls:
-  spotify: https://open.spotify.com/artist/2gsvL3kpv0YoyY0xUvffuH
-  wikipedia: https://en.wikipedia.org/wiki/Steve_Khan
+  spotify: 'https://open.spotify.com/artist/2gsvL3kpv0YoyY0xUvffuH'
+  wikipedia: 'https://en.wikipedia.org/wiki/Steve_Khan'
 image_path: ''
 biography_enhanced_at: '2025-11-20T06:31:21.565850'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Steve_Khan
-- https://jazztimes.com/features/profiles/overdue-ovation-steve-khan/
-- https://www.vintageguitar.com/61520/fretprints-steve-khan/
-- http://www.stevekhan.com/khanbio.htm
-- https://www.allaboutjazz.com/musicians/steve-khan/
+  - 'https://en.wikipedia.org/wiki/Steve_Khan'
+  - 'https://jazztimes.com/features/profiles/overdue-ovation-steve-khan/'
+  - 'https://www.vintageguitar.com/61520/fretprints-steve-khan/'
+  - 'http://www.stevekhan.com/khanbio.htm'
+  - 'https://www.allaboutjazz.com/musicians/steve-khan/'
 network_extracted: true
 entry_created: '2025-11-20T06:31:21.565864'
 last_updated: '2025-12-23T08:16:16.111955'
+birth_date: '1947-04-28'
+artist_type: person
 ---
 
 ![]()

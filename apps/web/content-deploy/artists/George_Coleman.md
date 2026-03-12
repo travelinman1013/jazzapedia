@@ -3,18 +3,18 @@ title: George Coleman
 wiki_slug: george-coleman
 schema_version: 2
 status: active
-birth_place: Memphis, Tennessee, United States
+birth_place: 'Memphis, Tennessee, United States'
 genres:
-- hard bop
-- bebop
-- jazz
+  - hard bop
+  - bebop
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/George_Coleman.jpg
   caption: George Coleman
   background: solo_singer
-  origin: Memphis, Tennessee, United States
+  origin: 'Memphis, Tennessee, United States'
 audio_profile:
-  tempo_avg: 116.0
+  tempo_avg: 116
   energy_avg: 0.362
   valence_avg: 0.455
   danceability_avg: 0.515
@@ -28,49 +28,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - B.B. King
-  - Miles Davis
-  - Herbie Hancock
-  - Max Roach
-  - Slide Hampton
-  - Charles Mingus
+    - B.B. King
+    - Miles Davis
+    - Herbie Hancock
+    - Max Roach
+    - Slide Hampton
+    - Charles Mingus
   influenced:
-  - Harold Mabern
-  - Countless saxophonists
+    - Harold Mabern
+    - Countless saxophonists
   mentors:
-  - Charlie Parker
+    - Charlie Parker
 spotify_data:
   followers: 6106
   id: 2bznm4QNyfgutcxCbRAfwH
   popularity: 17
-  url: https://open.spotify.com/artist/2bznm4QNyfgutcxCbRAfwH
+  url: 'https://open.spotify.com/artist/2bznm4QNyfgutcxCbRAfwH'
 discography_enriched: true
 top_tracks:
-- Tenor Madness
-- Dedicated to You
-- Amsterdam After Dark (Amsterdam After Dark)
-- Prelude to a Kiss (The Quartet)
-- Autumn in New York (Amsterdam After Dark)
-- Every Breath You Take (Basie Rocks!)
-- New Arrival (Amsterdam After Dark)
-- Transistor Radio (Bongo Joe)
-- Lo-Joe (Amsterdam After Dark)
-- I Wish I Could Sing (Bongo Joe)
+  - Tenor Madness
+  - Dedicated to You
+  - Amsterdam After Dark (Amsterdam After Dark)
+  - Prelude to a Kiss (The Quartet)
+  - Autumn in New York (Amsterdam After Dark)
+  - Every Breath You Take (Basie Rocks!)
+  - New Arrival (Amsterdam After Dark)
+  - Transistor Radio (Bongo Joe)
+  - Lo-Joe (Amsterdam After Dark)
+  - I Wish I Could Sing (Bongo Joe)
 external_urls:
-  spotify: https://open.spotify.com/artist/2bznm4QNyfgutcxCbRAfwH
-  wikipedia: https://en.wikipedia.org/wiki/George_Coleman
+  spotify: 'https://open.spotify.com/artist/2bznm4QNyfgutcxCbRAfwH'
+  wikipedia: 'https://en.wikipedia.org/wiki/George_Coleman'
 image_path: 03_Resources/source_material/ArtistPortraits/George_Coleman.jpg
 biography_enhanced_at: '2025-10-19T10:45:15.709769'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/George_Coleman
-- https://memphismusichalloffame.com/inductee/georgecoleman/
-- https://www.arts.gov/honors/jazz/george-coleman
-- https://www.selmer.fr/en/blogs/artistes/george-coleman
+  - 'https://en.wikipedia.org/wiki/George_Coleman'
+  - 'https://memphismusichalloffame.com/inductee/georgecoleman/'
+  - 'https://www.arts.gov/honors/jazz/george-coleman'
+  - 'https://www.selmer.fr/en/blogs/artistes/george-coleman'
 network_extracted: true
 entry_created: '2025-10-19T10:45:15.709773'
 last_updated: '2025-12-23T08:16:02.108089'
+birth_date: '1935-03-08'
+artist_type: person
 ---
 
 ![](George_Coleman.jpg)

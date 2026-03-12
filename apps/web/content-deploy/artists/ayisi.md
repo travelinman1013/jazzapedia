@@ -1,51 +1,53 @@
 ---
 biography_enhanced_at: '2026-01-04T01:58:19.364019'
-birth_place: Accra, Ghana
+birth_place: 'Accra, Ghana, Ghana'
 enhancement_provider: perplexity
 entry_created: '2026-01-04T01:58:19.364031'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e2b75fba-3bec-4f8d-a67b-321b6c31540e
-  spotify: https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU
+  musicbrainz: 'https://musicbrainz.org/artist/e2b75fba-3bec-4f8d-a67b-321b6c31540e'
+  spotify: 'https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU'
   wikipedia: ''
 gender: Male
 genres:
-- hiplife
-- asakaa
-- highlife
-- afrobeats
-- alté
-- azonto
-- afropop
-- afrobeat
+  - hiplife
+  - asakaa
+  - highlife
+  - afrobeats
+  - alté
+  - azonto
+  - afropop
+  - afrobeat
 image_path: 03_Resources/source_material/ArtistPortraits/ayisi.jpg
 last_updated: '2026-01-04T01:58:19.364031'
 musical_connections:
   collaborators:
-  - E.L.
-  - Pure Akan
-  - Efya
-  - Obrafour
-  - Prince Bright
+    - E.L.
+    - Pure Akan
+    - Efya
+    - Obrafour
+    - Prince Bright
   influenced: []
   mentors: []
 musicbrainz_id: e2b75fba-3bec-4f8d-a67b-321b6c31540e
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.musicinafrica.net/magazine/ghana-ayisis-debut-album-unbroken-out
-- https://www.myjoyonline.com/some-people-are-not-made-for-fame-they-are-made-for-purpose-ayisi/
-- https://profileability.com/ayisi/
-- https://gallery.fm/artist/28942/ayisi
-- https://cdn.modernghana.com/images/content/report_content/a.i__bio.pdf
-- https://wikipedia.nucleos.com/viewer/wikipedia_en_all_maxi_2024-01/A/Ayisi
+  - 'https://www.musicinafrica.net/magazine/ghana-ayisis-debut-album-unbroken-out'
+  - >-
+    https://www.myjoyonline.com/some-people-are-not-made-for-fame-they-are-made-for-purpose-ayisi/
+  - 'https://profileability.com/ayisi/'
+  - 'https://gallery.fm/artist/28942/ayisi'
+  - 'https://cdn.modernghana.com/images/content/report_content/a.i__bio.pdf'
+  - 'https://wikipedia.nucleos.com/viewer/wikipedia_en_all_maxi_2024-01/A/Ayisi'
 spotify_data:
   followers: 16786
   id: 1MGX3ZU8JMwM05waT6BBvU
   popularity: 41
-  url: https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU
+  url: 'https://open.spotify.com/artist/1MGX3ZU8JMwM05waT6BBvU'
 status: active
-title: ayisi
-
+title: Ayisi
+birth_date: '1986-07-21'
+artist_type: person
 ---
 
 ![](ayisi.jpg)

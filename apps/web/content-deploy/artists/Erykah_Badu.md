@@ -5,15 +5,15 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1971-02-26'
-birth_place: Dallas
+birth_place: 'Dallas, Texas, United States'
 genres:
-- neo soul
-- r&b
+  - neo soul
+  - r&b
 instruments:
-- acoustic guitar
-- background vocals
-- lead vocals
-- spoken vocals
+  - acoustic guitar
+  - background vocals
+  - lead vocals
+  - spoken vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/erykah_badu.jpg
   caption: Erykah Badu
@@ -27,7 +27,7 @@ audio_profile:
   danceability_avg: 0.694
   acousticness_avg: 0.218
   instrumentalness_avg: 0.056
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.146
   liveness_avg: 0.214
   track_count: 58
@@ -35,56 +35,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - D'Angelo
-  - Robert 'Free' Bradford
-  - The Soulquarians
+    - D'Angelo
+    - Robert 'Free' Bradford
+    - The Soulquarians
   influenced:
-  - Janelle Monáe
-  - Jill Scott
-  - Anderson .Paak
+    - Janelle Monáe
+    - Jill Scott
+    - Anderson .Paak
   mentors:
-  - Gwen Hargrove
-  - Curtis King
-  - Chaka Khan
+    - Gwen Hargrove
+    - Curtis King
+    - Chaka Khan
 spotify_data:
   followers: 3232699
   id: 7IfculRW2WXyzNQ8djX8WX
   popularity: 67
-  url: https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX
+  url: 'https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX'
 discography_enriched: true
 top_tracks:
-- Didn't Cha Know (Mama's Gun)
-- On & On (Baduizm)
-- You Got Me (Things Fall Apart)
-- Appletree (Baduizm)
-- Next Lifetime (Baduizm)
-- I'll Call U Back (But You Caint Use My Phone (Mixtape))
-- Treehome95 (feat. Coco O. & Erykah Badu) (Wolf)
-- Window Seat
-- F.U. (In Waves (Deluxe))
-- Other Side Of The Game (Baduizm)
+  - Didn't Cha Know (Mama's Gun)
+  - On & On (Baduizm)
+  - You Got Me (Things Fall Apart)
+  - Appletree (Baduizm)
+  - Next Lifetime (Baduizm)
+  - I'll Call U Back (But You Caint Use My Phone (Mixtape))
+  - Treehome95 (feat. Coco O. & Erykah Badu) (Wolf)
+  - Window Seat
+  - F.U. (In Waves (Deluxe))
+  - Other Side Of The Game (Baduizm)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/321531fc-db73-4ffa-a959-61a61a2908c1
-  spotify: https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX
-  wikipedia: https://en.wikipedia.org/wiki/Erykah_Badu
+  musicbrainz: 'https://musicbrainz.org/artist/321531fc-db73-4ffa-a959-61a61a2908c1'
+  spotify: 'https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX'
+  wikipedia: 'https://en.wikipedia.org/wiki/Erykah_Badu'
 image_path: 03_Resources/source_material/ArtistPortraits/erykah_badu.jpg
 biography_enhanced_at: '2025-10-22T08:46:28.859475'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.biography.com/musicians/erykah-badu
-- https://aaregistry.org/story/erykah-badu-singer-born/
-- https://gasparillamusic.com/2016-lineup/erykah-badu/
-- https://www.britannica.com/biography/Erykah-Badu
+  - 'https://www.biography.com/musicians/erykah-badu'
+  - 'https://aaregistry.org/story/erykah-badu-singer-born/'
+  - 'https://gasparillamusic.com/2016-lineup/erykah-badu/'
+  - 'https://www.britannica.com/biography/Erykah-Badu'
 network_extracted: true
 entry_created: '2025-10-22T08:46:28.859486'
 last_updated: '2025-12-23T08:16:01.953999'
 gender: Female
 musicbrainz_id: 321531fc-db73-4ffa-a959-61a61a2908c1
 tags:
-- acid jazz
-- contemporary r&b
-- funk
+  - acid jazz
+  - contemporary r&b
+  - funk
 ---
 
 ![](erykah_badu.jpg)

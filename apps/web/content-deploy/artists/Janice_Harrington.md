@@ -2,17 +2,17 @@
 title: Janice Harrington
 wiki_slug: janice-harrington
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1942-03-16'
-birth_place: Cleveland, Ohio, United States
+birth_place: 'Cleveland, Ohio, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Janice_Harrington.jpg
   caption: Janice Harrington
   background: solo_singer
   born: '1942-03-16'
-  origin: Cleveland, Ohio, United States
+  origin: 'Cleveland, Ohio, United States'
 audio_profile:
   tempo_avg: 114.5
   energy_avg: 0.54
@@ -28,51 +28,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Charles May
-  - Rick Cotton
-  - Werner Gürtler
+    - Charles May
+    - Rick Cotton
+    - Werner Gürtler
   influenced:
-  - Workshop Choirs in Germany
+    - Workshop Choirs in Germany
   mentors:
-  - Her mother
+    - Her mother
 spotify_data:
   followers: 242
   id: 3DvknNj89PnvgjnXayxrFY
   popularity: 1
-  url: https://open.spotify.com/artist/3DvknNj89PnvgjnXayxrFY
+  url: 'https://open.spotify.com/artist/3DvknNj89PnvgjnXayxrFY'
 discography_enriched: true
 top_tracks:
-- Work Your Magic (Magic)
-- You Got Me Running (Magic)
-- He's Got the Whole World in His Hands / Amen - Live (I Feel the Spirit (Live))
-- Double Dynamite (Magic)
-- The Huh Huh (Magic)
-- Telephone Blues (Magic)
-- C.C. Rider (Magic)
-- I Ain't Doin' Too Bad (Magic)
-- Seven Days a Week Man Blues (Magic)
-- Seven Day a Week Man Blues (Janice Harrington 80 Years of International Friendship)
+  - Work Your Magic (Magic)
+  - You Got Me Running (Magic)
+  - >-
+    He's Got the Whole World in His Hands / Amen - Live (I Feel the Spirit
+    (Live))
+  - Double Dynamite (Magic)
+  - The Huh Huh (Magic)
+  - Telephone Blues (Magic)
+  - C.C. Rider (Magic)
+  - I Ain't Doin' Too Bad (Magic)
+  - Seven Days a Week Man Blues (Magic)
+  - >-
+    Seven Day a Week Man Blues (Janice Harrington 80 Years of International
+    Friendship)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/45ff5170-d78d-4fb1-bafe-e5af26dc82ab
-  spotify: https://open.spotify.com/artist/3DvknNj89PnvgjnXayxrFY
+  musicbrainz: 'https://musicbrainz.org/artist/45ff5170-d78d-4fb1-bafe-e5af26dc82ab'
+  spotify: 'https://open.spotify.com/artist/3DvknNj89PnvgjnXayxrFY'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/Janice_Harrington.jpg
 biography_enhanced_at: '2025-10-19T11:10:46.118821'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://www.jazzeddie.f2s.com/PromoJaniceHarington.htm
-- https://lahoradelblues.com/en/janice-harrington-80-years-of-international-friendship/
-- https://www.makingascene.org/janice-harrington-is-making-a-scene/
-- https://blues.gr/profiles/blogs/q-a-with-multi-talented-artist-janice-harrington-renowned-singer-
-- http://www.thespoonful.co.uk/bands/janice-harrington/
-- https://www.janice-harrington.com/wp-content/uploads/2022/10/Bluesnews_Janice_Harrington.pdf
-- https://www.allaboutjazz.com/musicians/janice-harrington/
-- https://www.bluesblastmagazine.com/janice-harrington-80-years-of-international-friendship-album-review/
+  - 'http://www.jazzeddie.f2s.com/PromoJaniceHarington.htm'
+  - >-
+    https://lahoradelblues.com/en/janice-harrington-80-years-of-international-friendship/
+  - 'https://www.makingascene.org/janice-harrington-is-making-a-scene/'
+  - >-
+    https://blues.gr/profiles/blogs/q-a-with-multi-talented-artist-janice-harrington-renowned-singer-
+  - 'http://www.thespoonful.co.uk/bands/janice-harrington/'
+  - >-
+    https://www.janice-harrington.com/wp-content/uploads/2022/10/Bluesnews_Janice_Harrington.pdf
+  - 'https://www.allaboutjazz.com/musicians/janice-harrington/'
+  - >-
+    https://www.bluesblastmagazine.com/janice-harrington-80-years-of-international-friendship-album-review/
 network_extracted: true
 entry_created: '2025-10-19T11:10:46.118837'
 last_updated: '2025-12-23T08:16:02.475061'
-disambiguation: jazz, blues & gospel singer
+disambiguation: 'jazz, blues & gospel singer'
 gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:30:52.596570'
 musicbrainz_id: 45ff5170-d78d-4fb1-bafe-e5af26dc82ab

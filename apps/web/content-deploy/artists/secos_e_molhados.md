@@ -4,8 +4,8 @@ wiki_slug: secos-e-molhados
 schema_version: 2
 status: active
 genres:
-- mpb
-- brazilian rock
+  - mpb
+  - brazilian rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/secos_e_molhados.jpg
   caption: Secos e Molhados
@@ -25,55 +25,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ney Matogrosso
-  - João Ricardo
-  - Gerson Conrad
-  - Paulinho Mendonça
-  - Emilio Carrera
-  - Willy Verdaguer
-  - Moracy do Val
+    - Ney Matogrosso
+    - João Ricardo
+    - Gerson Conrad
+    - Paulinho Mendonça
+    - Emilio Carrera
+    - Willy Verdaguer
+    - Moracy do Val
   influenced:
-  - Nando Reis
-  - Ira!
-  - Capital Inicial
-  - Arnaldo Antunes
+    - Nando Reis
+    - Ira!
+    - Capital Inicial
+    - Arnaldo Antunes
   mentors:
-  - Manuel Bandeira
-  - Vinicius de Moraes
-  - Oswald de Andrade
+    - Manuel Bandeira
+    - Vinicius de Moraes
+    - Oswald de Andrade
 spotify_data:
   followers: 505395
   id: 4EKJxXaAZapG14Q5FTZoxm
   popularity: 56
-  url: https://open.spotify.com/artist/4EKJxXaAZapG14Q5FTZoxm
+  url: 'https://open.spotify.com/artist/4EKJxXaAZapG14Q5FTZoxm'
 discography_enriched: true
 top_tracks:
-- Sangue latino (A volta de Secos & Molhados)
-- Rosa de Hiroshima (A volta de Secos & Molhados)
-- Sangue latino
-- Fala (A volta de Secos & Molhados)
-- O vira (A volta de Secos & Molhados)
-- Amor (A volta de Secos & Molhados)
-- Primavera nos dentes (A volta de Secos & Molhados)
-- Assim assado (A volta de Secos & Molhados)
-- Rosa de Hiroshima
-- Flores Astrais (Dois momentos)
+  - Sangue latino (A volta de Secos & Molhados)
+  - Rosa de Hiroshima (A volta de Secos & Molhados)
+  - Sangue latino
+  - Fala (A volta de Secos & Molhados)
+  - O vira (A volta de Secos & Molhados)
+  - Amor (A volta de Secos & Molhados)
+  - Primavera nos dentes (A volta de Secos & Molhados)
+  - Assim assado (A volta de Secos & Molhados)
+  - Rosa de Hiroshima
+  - Flores Astrais (Dois momentos)
 external_urls:
-  spotify: https://open.spotify.com/artist/4EKJxXaAZapG14Q5FTZoxm
-  wikipedia: https://pt.wikipedia.org/wiki/Secos_%26_Molhados
+  spotify: 'https://open.spotify.com/artist/4EKJxXaAZapG14Q5FTZoxm'
+  wikipedia: 'https://pt.wikipedia.org/wiki/Secos_%26_Molhados'
 image_path: 03_Resources/source_material/ArtistPortraits/secos_e_molhados.jpg
 biography_enhanced_at: '2025-12-14T01:48:09.182828'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://dicionariompb.com.br/grupo/secos-e-molhados/
-- https://g1.globo.com/pop-arte/noticia/2023/08/08/secos-molhados-50-anos-a-historia-da-banda-que-desafiou-a-ditadura.ghtml
-- https://istoedinheiro.com.br/secos-molhados-a-historia-da-banda-que-em-plena-ditadura-revolucionou-a-mpb
-- https://rascunho.com.br/noticias/biografia-ampliada-marca-50-anos-do-grupo-secos-molhados/
+  - 'https://dicionariompb.com.br/grupo/secos-e-molhados/'
+  - >-
+    https://g1.globo.com/pop-arte/noticia/2023/08/08/secos-molhados-50-anos-a-historia-da-banda-que-desafiou-a-ditadura.ghtml
+  - >-
+    https://istoedinheiro.com.br/secos-molhados-a-historia-da-banda-que-em-plena-ditadura-revolucionou-a-mpb
+  - >-
+    https://rascunho.com.br/noticias/biografia-ampliada-marca-50-anos-do-grupo-secos-molhados/
 network_extracted: true
 entry_created: '2025-12-14T01:48:09.182840'
 last_updated: '2025-12-23T08:16:15.458380'
-origin: São Paulo, São Paulo, Brazil
+origin: 'São Paulo, São Paulo, Brazil'
+artist_type: band
 ---
 
 ![](secos_e_molhados.jpg)

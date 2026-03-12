@@ -4,8 +4,8 @@ wiki_slug: the-cookers
 schema_version: 2
 status: active
 genres:
-- hard bop
-- jazz
+  - hard bop
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_cookers.jpg
   caption: The Cookers
@@ -17,7 +17,7 @@ audio_profile:
   danceability_avg: 0.449
   acousticness_avg: 0.478
   instrumentalness_avg: 0.549
-  loudness_avg: -10.0
+  loudness_avg: -10
   speechiness_avg: 0.051
   liveness_avg: 0.157
   track_count: 50
@@ -25,59 +25,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Billy Harper
-  - George Cables
-  - Eddie Henderson
-  - Cecil McBee
-  - Billy Hart
-  - Donald Harrison
-  - Craig Handy
-  - Charles Tolliver
+    - Billy Harper
+    - George Cables
+    - Eddie Henderson
+    - Cecil McBee
+    - Billy Hart
+    - Donald Harrison
+    - Craig Handy
+    - Charles Tolliver
   influenced:
-  - Younger hard‑bop and post‑bop jazz musicians (general cohort)
+    - Younger hard‑bop and post‑bop jazz musicians (general cohort)
   mentors:
-  - Art Blakey
-  - Herbie Hancock (Mwandishi band)
-  - Charles Lloyd
-  - John Coltrane
+    - Art Blakey
+    - Herbie Hancock (Mwandishi band)
+    - Charles Lloyd
+    - John Coltrane
 spotify_data:
   followers: 2723
   id: 1Bm874bqWpHgjCor0mqsaw
   popularity: 5
-  url: https://open.spotify.com/artist/1Bm874bqWpHgjCor0mqsaw
+  url: 'https://open.spotify.com/artist/1Bm874bqWpHgjCor0mqsaw'
 discography_enriched: true
 top_tracks:
-- Farewell Mulgrew (Time and Time Again)
-- Traveling Lady (Look out!)
-- The Mystery of Monifa Brown (Look out!)
-- Destiny Is Yours (Look out!)
-- Farewell Mulgrew (Time and Time Again)
-- Cat's out the Bag (Look out!)
-- Somalia (Look out!)
-- Aka Reggie (Look out!)
-- The Core (Warriors)
-- Spookarella (Warriors)
+  - Farewell Mulgrew (Time and Time Again)
+  - Traveling Lady (Look out!)
+  - The Mystery of Monifa Brown (Look out!)
+  - Destiny Is Yours (Look out!)
+  - Farewell Mulgrew (Time and Time Again)
+  - Cat's out the Bag (Look out!)
+  - Somalia (Look out!)
+  - Aka Reggie (Look out!)
+  - The Core (Warriors)
+  - Spookarella (Warriors)
 external_urls:
-  spotify: https://open.spotify.com/artist/1Bm874bqWpHgjCor0mqsaw
-  wikipedia: https://en.wikipedia.org/wiki/The_Cookers
+  spotify: 'https://open.spotify.com/artist/1Bm874bqWpHgjCor0mqsaw'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Cookers'
 image_path: 03_Resources/source_material/ArtistPortraits/the_cookers.jpg
 biography_enhanced_at: '2025-12-20T01:17:58.388439'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- 'Band on the Wall – The Cookers: The remarkable history of a veritable jazz supergroup[1]'
-- 'SFJAZZ – Seven Leaders, One Flame: Inside The Cookers[2]'
-- AustralianJazz.net – David Weiss interview on the backstory of The Cookers[3]
-- 'DownBeat – The Cookers: Inflamed Soul[4]'
-- KNKX – The Cookers keep it entertaining with music, remarkable stories[5]
-- The Cookers official site – Bio[6]
-- All About Jazz – The Cookers at Jazz Alley[7]
-- Jazz Alley artist page – The Cookers[8]
-- The Front Row Center – The Cookers review[9]
+  - >-
+    Band on the Wall – The Cookers: The remarkable history of a veritable jazz
+    supergroup[1]
+  - 'SFJAZZ – Seven Leaders, One Flame: Inside The Cookers[2]'
+  - >-
+    AustralianJazz.net – David Weiss interview on the backstory of The
+    Cookers[3]
+  - 'DownBeat – The Cookers: Inflamed Soul[4]'
+  - 'KNKX – The Cookers keep it entertaining with music, remarkable stories[5]'
+  - 'The Cookers official site – Bio[6]'
+  - 'All About Jazz – The Cookers at Jazz Alley[7]'
+  - 'Jazz Alley artist page – The Cookers[8]'
+  - 'The Front Row Center – The Cookers review[9]'
 network_extracted: true
 entry_created: '2025-12-20T01:17:58.388451'
 last_updated: '2025-12-23T08:16:16.664285'
-origin: New York City, New York, United States
+origin: 'New York City, New York, United States'
+artist_type: band
 ---
 
 ![](the_cookers.jpg)

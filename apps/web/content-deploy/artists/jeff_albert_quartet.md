@@ -3,20 +3,24 @@ title: Jeff Albert Quartet
 wiki_slug: jeff-albert-quartet
 schema_version: 2
 status: active
-birth_place: Lafayette, Louisiana, United States (birthplace); New Orleans, Louisiana, United States (primary career base)
+birth_place: >-
+  Lafayette, Louisiana, United States (birthplace); New Orleans, Louisiana,
+  United States (primary career base)
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jeff_albert_quartet.jpg
   caption: Jeff Albert Quartet
   background: solo_singer
-  origin: Lafayette, Louisiana, United States (birthplace); New Orleans, Louisiana, United States (primary career base)
+  origin: >-
+    Lafayette, Louisiana, United States (birthplace); New Orleans, Louisiana,
+    United States (primary career base)
 audio_profile:
   tempo_avg: 94.5
   energy_avg: 0.295
   valence_avg: 0.276
   danceability_avg: 0.534
   acousticness_avg: 0.336
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -12.2
   speechiness_avg: 0.192
   liveness_avg: 0.133
@@ -25,50 +29,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Hamid Drake
-  - Kidd Jordan
-  - Joshua Abrams
-  - Jeb Bishop
-  - George Porter, Jr.
+    - Hamid Drake
+    - Kidd Jordan
+    - Joshua Abrams
+    - Jeb Bishop
+    - 'George Porter, Jr.'
   influenced:
-  - Students at Loyola University New Orleans and Georgia Tech
+    - Students at Loyola University New Orleans and Georgia Tech
   mentors:
-  - Ellis Marsalis
-  - Harold Battiste
-  - Stephen David Beck
-  - Jesse Allison
+    - Ellis Marsalis
+    - Harold Battiste
+    - Stephen David Beck
+    - Jesse Allison
 spotify_data:
   followers: 44
   id: 13aWJ9lVCtcPQIVZiKiekG
   popularity: 0
-  url: https://open.spotify.com/artist/13aWJ9lVCtcPQIVZiKiekG
+  url: 'https://open.spotify.com/artist/13aWJ9lVCtcPQIVZiKiekG'
 discography_enriched: true
 top_tracks:
-- Similar In The Opposite Way (Similar In The Opposite Way)
-- I Was Just Looking For My Pants (Similar In The Opposite Way)
-- 9th Ward Trotsky (Similar In The Opposite Way)
-- Subtle Flower (Similar In The Opposite Way)
-- Chalk & Chocolate (Similar In The Opposite Way)
-- Bag Full Of Poboys (Similar In The Opposite Way)
-- (Could Have Been A) Napkin (Similar In The Opposite Way)
-- Folk Song (Similar In The Opposite Way)
-- Morph My Cheese (Similar In The Opposite Way)
-- Rooskie Cyclist (Similar In The Opposite Way)
+  - Similar In The Opposite Way (Similar In The Opposite Way)
+  - I Was Just Looking For My Pants (Similar In The Opposite Way)
+  - 9th Ward Trotsky (Similar In The Opposite Way)
+  - Subtle Flower (Similar In The Opposite Way)
+  - Chalk & Chocolate (Similar In The Opposite Way)
+  - Bag Full Of Poboys (Similar In The Opposite Way)
+  - (Could Have Been A) Napkin (Similar In The Opposite Way)
+  - Folk Song (Similar In The Opposite Way)
+  - Morph My Cheese (Similar In The Opposite Way)
+  - Rooskie Cyclist (Similar In The Opposite Way)
 external_urls:
-  spotify: https://open.spotify.com/artist/13aWJ9lVCtcPQIVZiKiekG
+  spotify: 'https://open.spotify.com/artist/13aWJ9lVCtcPQIVZiKiekG'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/jeff_albert_quartet.jpg
 biography_enhanced_at: '2025-10-28T09:00:58.751300'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://jeffalbert.com
-- https://www.allaboutjazz.com/musicians/jeff-albert/
-- https://jeffreyalbert.net/index.php
-- http://www.squidco.com/r.cgi?p=17355
+  - 'https://jeffalbert.com'
+  - 'https://www.allaboutjazz.com/musicians/jeff-albert/'
+  - 'https://jeffreyalbert.net/index.php'
+  - 'http://www.squidco.com/r.cgi?p=17355'
 network_extracted: true
 entry_created: '2025-10-28T09:00:58.751311'
 last_updated: '2025-12-23T08:16:10.285397'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![](jeff_albert_quartet.jpg)

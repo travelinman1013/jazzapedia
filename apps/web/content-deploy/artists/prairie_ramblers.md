@@ -1,5 +1,5 @@
 ---
-title: prairie ramblers
+title: The Prairie Ramblers
 wiki_slug: prairie-ramblers
 schema_version: 2
 status: active
@@ -23,47 +23,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Patsy Montana
-  - Gene Autry
-  - Will Thawl, Bob Miller, George Barnes, John Brown
+    - Patsy Montana
+    - Gene Autry
+    - 'Will Thawl, Bob Miller, George Barnes, John Brown'
   influenced:
-  - Bill Monroe
+    - Bill Monroe
   mentors:
-  - WLS National Barn Dance
+    - WLS National Barn Dance
 spotify_data:
   followers: 807
   id: 6BULiiddM6bpoauWBhCW2W
   popularity: 21
-  url: https://open.spotify.com/artist/6BULiiddM6bpoauWBhCW2W
+  url: 'https://open.spotify.com/artist/6BULiiddM6bpoauWBhCW2W'
 discography_enriched: true
 top_tracks:
-- I Want to Be a Cowboy's Sweetheart (Presenting Patsy Montana)
-- 'Ghost In The Graveyard (Halloween Classics: Songs That Scared The Bloomers Off Your Great-Grandma)'
-- I Want to Be a Cowboy's Sweetheart (Country Music - A Film by Ken Burns (The Soundtrack) [Deluxe])
-- 'I Want To Be A Cowboy''s Sweetheart (Columbia Country Classics Volume 1: The Golden Age)'
-- I Want to Be a Cowboy's Sweetheart - 78rpm Version (Boots, Buckles & Spurs - 50 Songs Celebrate 50 Years of Cowboy Tradition)
-- Shady Grove
-- 'Ghost In The Graveyard (From The Sony Vault: Silly Scary Songs)'
-- Ridin' Old Paint (Presenting Patsy Montana)
-- Chuck Wagon Blues (Presenting Patsy Montana)
-- Deep Elem Blues (Snowflakes)
+  - I Want to Be a Cowboy's Sweetheart (Presenting Patsy Montana)
+  - >-
+    Ghost In The Graveyard (Halloween Classics: Songs That Scared The Bloomers
+    Off Your Great-Grandma)
+  - >-
+    I Want to Be a Cowboy's Sweetheart (Country Music - A Film by Ken Burns (The
+    Soundtrack) [Deluxe])
+  - >-
+    I Want To Be A Cowboy's Sweetheart (Columbia Country Classics Volume 1: The
+    Golden Age)
+  - >-
+    I Want to Be a Cowboy's Sweetheart - 78rpm Version (Boots, Buckles & Spurs -
+    50 Songs Celebrate 50 Years of Cowboy Tradition)
+  - Shady Grove
+  - 'Ghost In The Graveyard (From The Sony Vault: Silly Scary Songs)'
+  - Ridin' Old Paint (Presenting Patsy Montana)
+  - Chuck Wagon Blues (Presenting Patsy Montana)
+  - Deep Elem Blues (Snowflakes)
 external_urls:
-  spotify: https://open.spotify.com/artist/6BULiiddM6bpoauWBhCW2W
-  wikipedia: https://en.wikipedia.org/wiki/Salty_Holmes
+  spotify: 'https://open.spotify.com/artist/6BULiiddM6bpoauWBhCW2W'
+  wikipedia: 'https://en.wikipedia.org/wiki/Salty_Holmes'
 image_path: 03_Resources/source_material/ArtistPortraits/prairie_ramblers.jpg
 biography_enhanced_at: '2025-11-01T15:39:35.782599'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://scratchyattic.blogspot.com/2015/04/patst-montana-and-prairie-ramblers.html
-- https://en.wikipedia.org/wiki/Salty_Holmes
-- https://www.last.fm/music/The+Prairie+Ramblers/+wiki
-- https://www.allmusic.com/artist/the-prairie-ramblers-mn0000353892
-- https://encyclopediaofarkansas.net/media/prairie-ramblers-21920/
+  - >-
+    http://scratchyattic.blogspot.com/2015/04/patst-montana-and-prairie-ramblers.html
+  - 'https://en.wikipedia.org/wiki/Salty_Holmes'
+  - 'https://www.last.fm/music/The+Prairie+Ramblers/+wiki'
+  - 'https://www.allmusic.com/artist/the-prairie-ramblers-mn0000353892'
+  - 'https://encyclopediaofarkansas.net/media/prairie-ramblers-21920/'
 network_extracted: true
 entry_created: '2025-11-01T15:39:35.782611'
 last_updated: '2025-12-23T08:16:14.427128'
-origin: Kewanee, Illinois, USA
+origin: 'Kewanee, Illinois, USA'
+artist_type: band
 ---
 
 ![](prairie_ramblers.jpg)

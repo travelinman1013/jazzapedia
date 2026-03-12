@@ -4,9 +4,9 @@ wiki_slug: continental-drifters
 schema_version: 2
 status: active
 genres:
-- alt country
-- power pop
-- americana
+  - alt country
+  - power pop
+  - americana
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/continental_drifters.jpg
   caption: Continental Drifters
@@ -26,59 +26,68 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Carlo Nuccio
-  - Ray Ganucheau
-  - Mark Walton
-  - Gary Eaton
-  - Danny McGough
-  - Peter Holsapple
-  - Susan Cowsill
-  - Vicki Peterson
-  - Robert Maché
-  - Russ Broussard
-  - Jackson Browne
-  - Adam Duritz
-  - Iain Matthews
+    - Carlo Nuccio
+    - Ray Ganucheau
+    - Mark Walton
+    - Gary Eaton
+    - Danny McGough
+    - Peter Holsapple
+    - Susan Cowsill
+    - Vicki Peterson
+    - Robert Maché
+    - Russ Broussard
+    - Jackson Browne
+    - Adam Duritz
+    - Iain Matthews
   influenced:
-  - Later Americana and roots‑pop bands (general)
+    - Later Americana and roots‑pop bands (general)
   mentors:
-  - Classic American roots and pop traditions
+    - Classic American roots and pop traditions
 spotify_data:
   followers: 1126
   id: 75bihOWtMsDp8NCw2SpCLG
   popularity: 5
-  url: https://open.spotify.com/artist/75bihOWtMsDp8NCw2SpCLG
+  url: 'https://open.spotify.com/artist/75bihOWtMsDp8NCw2SpCLG'
 discography_enriched: true
 top_tracks:
-- The Rain Song (Vermillion)
-- 'When You Dance I Can Really Love (Drifted: In The Beginning & Beyond)'
-- Some Of Shelly's Blues (Continental Drifters)
-- Get Over It (Continental Drifters)
-- Drifters (Vermillion)
-- When you Dance I Can Really Love (This Note's for you Too! A Tribute to Neil Young)
-- 'Who We Are, Where We Live - Early Version (Drifted: In The Beginning & Beyond)'
-- Na Na (Better Day)
-- (Down By The) Great Mistake (Better Day)
-- Invisible Boyfriend (Continental Drifters)
+  - The Rain Song (Vermillion)
+  - 'When You Dance I Can Really Love (Drifted: In The Beginning & Beyond)'
+  - Some Of Shelly's Blues (Continental Drifters)
+  - Get Over It (Continental Drifters)
+  - Drifters (Vermillion)
+  - >-
+    When you Dance I Can Really Love (This Note's for you Too! A Tribute to Neil
+    Young)
+  - >-
+    Who We Are, Where We Live - Early Version (Drifted: In The Beginning &
+    Beyond)
+  - Na Na (Better Day)
+  - (Down By The) Great Mistake (Better Day)
+  - Invisible Boyfriend (Continental Drifters)
 external_urls:
-  spotify: https://open.spotify.com/artist/75bihOWtMsDp8NCw2SpCLG
-  wikipedia: https://en.wikipedia.org/wiki/Continental_Drifters
+  spotify: 'https://open.spotify.com/artist/75bihOWtMsDp8NCw2SpCLG'
+  wikipedia: 'https://en.wikipedia.org/wiki/Continental_Drifters'
 image_path: ''
 biography_enhanced_at: '2025-12-09T04:43:05.991010'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://continentaldrifters.com/history
-- https://omnivorerecordings.com/continental-drifters-liner-notes/
-- https://buzzbands.la/2015/09/12/the-continental-drifters-an-oral-history/
-- https://www.latimes.com/entertainment/music/posts/la-et-ms-continental-drifters-retrospective-the-mississippi-20150528-htmlstory
-- https://mfhpr.com/blog/post/2307682/storied-career-of-supergroup-the-continental-drifters
-- https://www.thealternateroot.com/all-reviews/continental-drifters-from-the-album-white-noise-lightning-the-best-of-continental-drifters
+  - 'https://continentaldrifters.com/history'
+  - 'https://omnivorerecordings.com/continental-drifters-liner-notes/'
+  - 'https://buzzbands.la/2015/09/12/the-continental-drifters-an-oral-history/'
+  - >-
+    https://www.latimes.com/entertainment/music/posts/la-et-ms-continental-drifters-retrospective-the-mississippi-20150528-htmlstory
+  - >-
+    https://mfhpr.com/blog/post/2307682/storied-career-of-supergroup-the-continental-drifters
+  - >-
+    https://www.thealternateroot.com/all-reviews/continental-drifters-from-the-album-white-noise-lightning-the-best-of-continental-drifters
 network_extracted: true
 entry_created: '2025-12-09T04:43:05.991021'
 last_updated: '2025-12-23T08:16:07.183819'
-origin: Los Angeles, California, United States (formed by New Orleans musicians in L.A.; later based in New Orleans, Louisiana,
-  United States)
+origin: >-
+  Los Angeles, California, United States (formed by New Orleans musicians in
+  L.A.; later based in New Orleans, Louisiana, United States)
+artist_type: band
 ---
 
 ![]()

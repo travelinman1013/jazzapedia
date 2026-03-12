@@ -3,13 +3,13 @@ title: Frenchie Mo
 wiki_slug: frenchie-mo
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States (originally from France)
+birth_place: 'New Orleans, Louisiana, United States (originally from France)'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/frenchie_mo.jpg
   caption: Frenchie Mo
   background: solo_singer
-  origin: New Orleans, Louisiana, United States (originally from France)
+  origin: 'New Orleans, Louisiana, United States (originally from France)'
 audio_profile:
   tempo_avg: 126.1
   energy_avg: 0.696
@@ -17,7 +17,7 @@ audio_profile:
   danceability_avg: 0.707
   acousticness_avg: 0.132
   instrumentalness_avg: 0.001
-  loudness_avg: -5.0
+  loudness_avg: -5
   speechiness_avg: 0.169
   liveness_avg: 0.208
   track_count: 51
@@ -25,57 +25,66 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Coco Robicheaux
-  - Walter “Wolfman” Washington
-  - Bruce Elsensohn
-  - Ward Smith
-  - Tiffany Pollack
-  - Sunpie Barnes
-  - Andres Villafarra
-  - Adam Crochet
-  - Keith Hawkins
-  - Ian Petillo
-  - Lewis D’Aubin
-  - Scott Perro
+    - Coco Robicheaux
+    - Walter “Wolfman” Washington
+    - Bruce Elsensohn
+    - Ward Smith
+    - Tiffany Pollack
+    - Sunpie Barnes
+    - Andres Villafarra
+    - Adam Crochet
+    - Keith Hawkins
+    - Ian Petillo
+    - Lewis D’Aubin
+    - Scott Perro
   influenced:
-  - ''
+    - ''
   mentors:
-  - Victor Brox
-  - Creighton Holley
+    - Victor Brox
+    - Creighton Holley
 spotify_data:
   followers: 5892426
   id: 6vXTefBL93Dj5IqAWq6OTv
   popularity: 76
-  url: https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv
+  url: 'https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv'
 discography_enriched: true
 top_tracks:
-- Unforgettable (Jungle Rules)
-- Mo Chicken (feat. French Montana) (Dlow Curry)
-- Stay Schemin
-- Vibe (Feat. Shanaya Kapoor)
-- Work REMIX (feat. A$AP Rocky, French Montana, Trinidad James & ScHoolboy Q)
-- A.W.A
-- Welcome to the Party (with French Montana & Lil Pump, feat. Zhavia Ward) - from Deadpool 2
-- '#icanteven (feat. French Montana)'
-- Hurtin' Me
-- GPS (feat. French Montana)
+  - Unforgettable (Jungle Rules)
+  - Mo Chicken (feat. French Montana) (Dlow Curry)
+  - Stay Schemin
+  - Vibe (Feat. Shanaya Kapoor)
+  - 'Work REMIX (feat. A$AP Rocky, French Montana, Trinidad James & ScHoolboy Q)'
+  - A.W.A
+  - >-
+    Welcome to the Party (with French Montana & Lil Pump, feat. Zhavia Ward) -
+    from Deadpool 2
+  - '#icanteven (feat. French Montana)'
+  - Hurtin' Me
+  - GPS (feat. French Montana)
 external_urls:
-  spotify: https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv
+  spotify: 'https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/frenchie_mo.jpg
 biography_enhanced_at: '2025-12-11T03:53:32.221543'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Q&A with French guitarist/vocalist Frenchie Moe - Blues.Gr[1]
-- Frenchie Moe Releases Hi Class — A Modern New Orleans Blues Statement - Grateful Web[2]
-- Frenchie Moe - YouTube channel description[3]
-- 'Frenchie Moe: Female Blues guitarist - Shreddelicious[4]'
-- Sullivan's Unheard Voices podcast episode description (Frenchie Moe)[5]
-- 'Bluestown Music single feature: Frenchie Moe - The Hunter (feat. Tiffany Pollack)[6]'
+  - 'Q&A with French guitarist/vocalist Frenchie Moe - Blues.Gr[1]'
+  - >-
+    Frenchie Moe Releases Hi Class — A Modern New Orleans Blues Statement -
+    Grateful Web[2]
+  - 'Frenchie Moe - YouTube channel description[3]'
+  - 'Frenchie Moe: Female Blues guitarist - Shreddelicious[4]'
+  - 'Sullivan''s Unheard Voices podcast episode description (Frenchie Moe)[5]'
+  - >-
+    Bluestown Music single feature: Frenchie Moe - The Hunter (feat. Tiffany
+    Pollack)[6]
 network_extracted: true
 entry_created: '2025-12-11T03:53:32.221551'
 last_updated: '2025-12-23T08:16:08.874802'
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1986'
+artist_type: person
 ---
 
 ![](frenchie_mo.jpg)

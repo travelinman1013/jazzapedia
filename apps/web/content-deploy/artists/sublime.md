@@ -1,101 +1,103 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-20T01:27:30.162119'
 birth_date: '1986'
 disambiguation: ska punk
 enhancement_provider: perplexity
 entry_created: '2026-01-20T01:27:30.162125'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0
-  spotify: https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J
+  musicbrainz: 'https://musicbrainz.org/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0'
+  spotify: 'https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J'
   wikipedia: ''
 genres:
-- reggae rock
-- ska punk
-- ska
+  - reggae rock
+  - ska punk
+  - ska
 image_path: 03_Resources/source_material/ArtistPortraits/sublime.jpg
 instruments:
-- guitar
-- lead vocals
-- original
-- membranophone
-- bass guitar
+  - guitar
+  - lead vocals
+  - original
+  - membranophone
+  - bass guitar
 last_updated: '2026-01-20T01:27:30.162126'
 members:
-- begin: '1988'
-  end: '1996-05-25'
-  instruments:
-  - guitar
-  - lead vocals
-  - original
-  mbid: 354c7145-01f0-4bf6-b35f-6db936f6a17e
-  name: Bradley Nowell
-- begin: '1988'
-  end: '1997'
-  instruments:
-  - membranophone
-  - original
-  mbid: 0fa337f2-9f5e-44eb-b6eb-3286e6945c8f
-  name: Bud Gaugh
-- begin: '1988'
-  end: '1997'
-  instruments:
-  - bass guitar
-  - original
-  mbid: 07d91070-1fc7-4ff6-9b23-1bfb20d9724a
-  name: Eric Wilson
-- &id001
-  begin: 2023-12
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: b0b941d5-b10a-4cae-a749-675c5c98f9e3
-  name: Jakob Nowell
-- &id002
-  begin: 2023-12
-  end: ''
-  instruments:
-  - guitar
-  mbid: b0b941d5-b10a-4cae-a749-675c5c98f9e3
-  name: Jakob Nowell
+  - begin: '1988'
+    end: '1996-05-25'
+    instruments:
+      - guitar
+      - lead vocals
+      - original
+    mbid: 354c7145-01f0-4bf6-b35f-6db936f6a17e
+    name: Bradley Nowell
+  - begin: '1988'
+    end: '1997'
+    instruments:
+      - membranophone
+      - original
+    mbid: 0fa337f2-9f5e-44eb-b6eb-3286e6945c8f
+    name: Bud Gaugh
+  - begin: '1988'
+    end: '1997'
+    instruments:
+      - bass guitar
+      - original
+    mbid: 07d91070-1fc7-4ff6-9b23-1bfb20d9724a
+    name: Eric Wilson
+  - &ref_0
+    begin: 2023-12
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: b0b941d5-b10a-4cae-a749-675c5c98f9e3
+    name: Jakob Nowell
+  - &ref_1
+    begin: 2023-12
+    end: ''
+    instruments:
+      - guitar
+    mbid: b0b941d5-b10a-4cae-a749-675c5c98f9e3
+    name: Jakob Nowell
 musical_connections:
   collaborators:
-  - Eric Wilson
-  - Bud Gaugh
-  - Rome Ramirez
-  - Michael “Miguel” Happoldt
-  - Jakob Nowell
+    - Eric Wilson
+    - Bud Gaugh
+    - Rome Ramirez
+    - Michael “Miguel” Happoldt
+    - Jakob Nowell
   influenced:
-  - No Doubt
-  - The Ziggens
+    - No Doubt
+    - The Ziggens
   mentors:
-  - Wilson’s father
-  - Minutemen
+    - Wilson’s father
+    - Minutemen
 musicbrainz_id: 95f5b748-d370-47fe-85bd-0af2dc450bc0
 network_extracted: true
-origin: Long Beach
+origin: 'Long Beach, California, United States'
 original_members:
-- *id001
-- *id002
+  - *ref_0
+  - *ref_1
 primary_source: perplexity
 research_sources:
-- https://delcomusicco.squarespace.com/musicarticles/sublimebandhistory
-- https://primarywave.com/writer/sublime/
-- https://www.last.fm/music/Sublime/+wiki
-- https://americansongwriter.com/behind-the-meaning-and-history-of-the-band-name-sublime/
-- https://www.youtube.com/watch?v=ioWF3NlfrKY
-- https://sublimespot.com/sublime/about/
+  - 'https://delcomusicco.squarespace.com/musicarticles/sublimebandhistory'
+  - 'https://primarywave.com/writer/sublime/'
+  - 'https://www.last.fm/music/Sublime/+wiki'
+  - >-
+    https://americansongwriter.com/behind-the-meaning-and-history-of-the-band-name-sublime/
+  - 'https://www.youtube.com/watch?v=ioWF3NlfrKY'
+  - 'https://sublimespot.com/sublime/about/'
 spotify_data:
   followers: 3485986
   id: 0EdvGhlC1FkGItLOWQzG4J
   popularity: 74
-  url: https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J
+  url: 'https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J'
 status: active
 tags:
-- 2008 universal fire victim
-- alternative rock
-- american
+  - 2008 universal fire victim
+  - alternative rock
+  - american
 title: Sublime
+death_date: '1996-05-25'
 ---
 
 ![](sublime.jpg)

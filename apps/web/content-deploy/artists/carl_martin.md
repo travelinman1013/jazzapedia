@@ -1,16 +1,16 @@
 ---
-title: CARL MARTIN
+title: Carl Martin
 wiki_slug: carl-martin
 schema_version: 2
 status: active
-birth_place: Big Stone Gap, Virginia, United States
+birth_place: 'Big Stone Gap, Virginia, United States'
 genres:
-- lullaby
+  - lullaby
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/carl_martin.jpg
   caption: CARL MARTIN
   background: solo_singer
-  origin: Big Stone Gap, Virginia, United States
+  origin: 'Big Stone Gap, Virginia, United States'
 audio_profile:
   tempo_avg: 92.1
   energy_avg: 0.038
@@ -26,50 +26,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Howard Armstrong
-  - Ted Bogan
-  - Bumble Bee Slim
-  - Tampa Red
-  - Freddie Spruell
-  - Yank Rachell
-  - Charlie McCoy
+    - Howard Armstrong
+    - Ted Bogan
+    - Bumble Bee Slim
+    - Tampa Red
+    - Freddie Spruell
+    - Yank Rachell
+    - Charlie McCoy
   influenced:
-  - Steve Goodman
+    - Steve Goodman
   mentors:
-  - Fiddlin’ Martin
-  - Older brother (unnamed)
+    - Fiddlin’ Martin
+    - Older brother (unnamed)
 spotify_data:
   followers: 38
   id: 6Y1dXG8aEWh4fXVAmFkjhF
   popularity: 44
-  url: https://open.spotify.com/artist/6Y1dXG8aEWh4fXVAmFkjhF
+  url: 'https://open.spotify.com/artist/6Y1dXG8aEWh4fXVAmFkjhF'
 discography_enriched: true
 top_tracks:
-- Shoo Fly Don't Bother Me (Shoo Fly Don't Bother Me)
-- Ears Hang Low (Ears Hang Low)
-- Midnight Hush (Midnight Hush)
-- Pop Goes the Weasel (Pop Goes the Weasel)
-- Humpty Dumpty (Humpty Dumpty)
-- Shoo Fly Don't Bother Me (Shoo Fly Don't Bother Me)
-- Cradled by Harmonics (Cradled by Harmonics)
-- Hazy-Eyed Lullaby (Hazy-Eyed Lullaby)
-- Silent Keys, Dreaming Seas (Silent Keys, Dreaming Seas)
-- Sleeping Serenade (Sleeping Serenade)
+  - Shoo Fly Don't Bother Me (Shoo Fly Don't Bother Me)
+  - Ears Hang Low (Ears Hang Low)
+  - Midnight Hush (Midnight Hush)
+  - Pop Goes the Weasel (Pop Goes the Weasel)
+  - Humpty Dumpty (Humpty Dumpty)
+  - Shoo Fly Don't Bother Me (Shoo Fly Don't Bother Me)
+  - Cradled by Harmonics (Cradled by Harmonics)
+  - Hazy-Eyed Lullaby (Hazy-Eyed Lullaby)
+  - 'Silent Keys, Dreaming Seas (Silent Keys, Dreaming Seas)'
+  - Sleeping Serenade (Sleeping Serenade)
 external_urls:
-  spotify: https://open.spotify.com/artist/6Y1dXG8aEWh4fXVAmFkjhF
-  wikipedia: https://en.wikipedia.org/wiki/Carl_Martin_(musician)
+  spotify: 'https://open.spotify.com/artist/6Y1dXG8aEWh4fXVAmFkjhF'
+  wikipedia: 'https://en.wikipedia.org/wiki/Carl_Martin_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/carl_martin.jpg
 biography_enhanced_at: '2025-11-11T09:23:08.657005'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Carl_Martin_(musician)
-- https://soozebluesjazz.weebly.com/carl-martin.html
-- https://blinddogradio.blogspot.com/2019/06/carl-martin.html
-- http://www.geocities.ws/bluesmandolinman/carlmartin.html
+  - 'https://en.wikipedia.org/wiki/Carl_Martin_(musician)'
+  - 'https://soozebluesjazz.weebly.com/carl-martin.html'
+  - 'https://blinddogradio.blogspot.com/2019/06/carl-martin.html'
+  - 'http://www.geocities.ws/bluesmandolinman/carlmartin.html'
 network_extracted: true
 entry_created: '2025-11-11T09:23:08.657008'
 last_updated: '2025-12-23T08:16:06.435486'
+origin: 'Chicago, Illinois, United States'
+birth_date: '1906-04-01'
+death_date: '1979-05-10'
+artist_type: person
 ---
 
 ![](carl_martin.jpg)

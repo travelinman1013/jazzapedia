@@ -3,13 +3,13 @@ title: Matt Perronne
 wiki_slug: matt-perronne
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/matt_perronne.jpg
   caption: Matt Perronne
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 115.5
   energy_avg: 0.441
@@ -25,42 +25,43 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - DUKES of Dixieland
-  - Various New Orleans brass bands
+    - DUKES of Dixieland
+    - Various New Orleans brass bands
   influenced: []
   mentors:
-  - John Coltrane
+    - John Coltrane
 spotify_data:
   followers: 15
   id: 2ZvgvPtMa0e4LHR8XswHIz
   popularity: 0
-  url: https://open.spotify.com/artist/2ZvgvPtMa0e4LHR8XswHIz
+  url: 'https://open.spotify.com/artist/2ZvgvPtMa0e4LHR8XswHIz'
 discography_enriched: true
 top_tracks:
-- Uncertainty's Peace (Making Space)
-- Kolby Joe (Bonus Track) (Making Space (Deluxe Version))
-- Gravity's Conflict (Making Space)
-- Temporary Blindness (Good Hang)
-- Same Page (Making Space)
-- Camellia (Making Space)
-- City Soundscapes (Making Space)
-- Precious Existence (Making Space)
-- In Real Time (Making Space)
-- Same Page (Making Space (Deluxe Version))
+  - Uncertainty's Peace (Making Space)
+  - Kolby Joe (Bonus Track) (Making Space (Deluxe Version))
+  - Gravity's Conflict (Making Space)
+  - Temporary Blindness (Good Hang)
+  - Same Page (Making Space)
+  - Camellia (Making Space)
+  - City Soundscapes (Making Space)
+  - Precious Existence (Making Space)
+  - In Real Time (Making Space)
+  - Same Page (Making Space (Deluxe Version))
 external_urls:
-  spotify: https://open.spotify.com/artist/2ZvgvPtMa0e4LHR8XswHIz
+  spotify: 'https://open.spotify.com/artist/2ZvgvPtMa0e4LHR8XswHIz'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/matt_perronne.jpg
 biography_enhanced_at: '2025-10-25T10:03:58.173259'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://bartek-music.com/2025/03/02/matt-perrone-gravitys-conflict/
-- https://www.allaboutjazz.com/musicians/matt-perronne/
-- https://dukesofdixieland.com/meet-the-band
+  - 'https://bartek-music.com/2025/03/02/matt-perrone-gravitys-conflict/'
+  - 'https://www.allaboutjazz.com/musicians/matt-perronne/'
+  - 'https://dukesofdixieland.com/meet-the-band'
 network_extracted: true
 entry_created: '2025-10-25T10:03:58.173270'
 last_updated: '2025-12-23T08:16:12.842059'
+artist_type: person
 ---
 
 ![](matt_perronne.jpg)

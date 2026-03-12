@@ -3,19 +3,19 @@ title: Slim Smith
 wiki_slug: slim-smith
 schema_version: 2
 status: active
-birth_place: Kingston, Jamaica
+birth_place: 'Kingston, Jamaica, United States'
 genres:
-- rocksteady
-- lovers rock
-- reggae
-- ska
-- roots reggae
-- dub
+  - rocksteady
+  - lovers rock
+  - reggae
+  - ska
+  - roots reggae
+  - dub
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/slim_smith.jpg
   caption: Slim Smith
   background: solo_singer
-  origin: Kingston, Jamaica
+  origin: 'Kingston, Jamaica'
 audio_profile:
   tempo_avg: 95.8
   energy_avg: 0.453
@@ -31,51 +31,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Techniques
-  - The Uniques
-  - Roy Shirley
-  - Byron Lee
-  - Delroy Wilson
+    - The Techniques
+    - The Uniques
+    - Roy Shirley
+    - Byron Lee
+    - Delroy Wilson
   influenced:
-  - General later Jamaican vocalists (rocksteady/roots era)
+    - General later Jamaican vocalists (rocksteady/roots era)
   mentors:
-  - Duke Reid
-  - Coxsone Dodd
-  - Bunny “Striker” Lee
+    - Duke Reid
+    - Coxsone Dodd
+    - Bunny “Striker” Lee
 spotify_data:
   followers: 16920
   id: 2PuBpv31beJyhHfvXoku41
   popularity: 31
-  url: https://open.spotify.com/artist/2PuBpv31beJyhHfvXoku41
+  url: 'https://open.spotify.com/artist/2PuBpv31beJyhHfvXoku41'
 discography_enriched: true
 top_tracks:
-- My Conversation (Sound Box Essentials Platinum Edition)
-- Everybody Needs Love
-- Burning Horns - Instrumental (Resurrection)
-- People Get Ready
-- Rougher Yet
-- People Get Ready (Legend)
-- Give Me Some More Loving
-- Watch This Sound (Black Arrow Present Slim Smith Platinum Hits)
-- 'Build My World Around You (The Pama Years: Slim Smith, The Golden Voice)'
-- My Conversation (Conversation Stylee)
+  - My Conversation (Sound Box Essentials Platinum Edition)
+  - Everybody Needs Love
+  - Burning Horns - Instrumental (Resurrection)
+  - People Get Ready
+  - Rougher Yet
+  - People Get Ready (Legend)
+  - Give Me Some More Loving
+  - Watch This Sound (Black Arrow Present Slim Smith Platinum Hits)
+  - 'Build My World Around You (The Pama Years: Slim Smith, The Golden Voice)'
+  - My Conversation (Conversation Stylee)
 external_urls:
-  spotify: https://open.spotify.com/artist/2PuBpv31beJyhHfvXoku41
-  wikipedia: https://en.wikipedia.org/wiki/Slim_Smith
+  spotify: 'https://open.spotify.com/artist/2PuBpv31beJyhHfvXoku41'
+  wikipedia: 'https://en.wikipedia.org/wiki/Slim_Smith'
 image_path: 03_Resources/source_material/ArtistPortraits/slim_smith.jpg
 biography_enhanced_at: '2025-12-15T01:35:03.664549'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Slim_Smith
-- https://wbssmedia.com/artists/detail/2374
-- https://www.yaawdmedia.com/post/slim-smith-the-loss-of-this-vocal-talent-was-a-jamaican-tragedy
-- https://www.youtube.com/watch?v=eqo6SjneUIk
-- https://www.allmusic.com/artist/slim-smith-mn0000028316
-- https://peel.fandom.com/wiki/Slim_Smith
+  - 'https://en.wikipedia.org/wiki/Slim_Smith'
+  - 'https://wbssmedia.com/artists/detail/2374'
+  - >-
+    https://www.yaawdmedia.com/post/slim-smith-the-loss-of-this-vocal-talent-was-a-jamaican-tragedy
+  - 'https://www.youtube.com/watch?v=eqo6SjneUIk'
+  - 'https://www.allmusic.com/artist/slim-smith-mn0000028316'
+  - 'https://peel.fandom.com/wiki/Slim_Smith'
 network_extracted: true
 entry_created: '2025-12-15T01:35:03.664563'
 last_updated: '2025-12-23T08:16:15.759743'
+birth_date: '1948-10-05'
+artist_type: person
 ---
 
 ![](slim_smith.jpg)

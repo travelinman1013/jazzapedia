@@ -1,42 +1,42 @@
 ---
 biography_enhanced_at: '2026-01-06T02:07:15.781135'
-birth_place: St. Louis, Missouri, United States
+birth_place: 'St. Louis, Missouri, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-06T02:07:15.781141'
 external_urls:
-  spotify: https://open.spotify.com/artist/1SUHWGGIsGQq6WDWV03ETc
-  wikipedia: https://en.wikipedia.org/wiki/Edith_North_Johnson
+  spotify: 'https://open.spotify.com/artist/1SUHWGGIsGQq6WDWV03ETc'
+  wikipedia: 'https://en.wikipedia.org/wiki/Edith_North_Johnson'
 genres:
-- classic blues
-- country blues
+  - classic blues
+  - country blues
 image_path: ''
 last_updated: '2026-01-06T02:07:15.781149'
 musical_connections:
   collaborators:
-  - Henry Brown
-  - Count Basie
-  - Jesse Johnson
+    - Henry Brown
+    - Count Basie
+    - Jesse Johnson
   influenced:
-  - Roosevelt Sykes
+    - Roosevelt Sykes
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Edith_North_Johnson
-- https://www.last.fm/music/Edith+Johnson/+wiki
-- https://adp.library.ucsb.edu/index.php/talent/refer/130598
-- https://sundayblues.org/?tag=edith-johnson
-- https://www.jango.com/music/Edith+North+Johnson+Henry+Brown
-- https://sentirelblues.blogspot.com/2014/10/edith-north-johnson.html
-- https://www.allmusic.com/artist/edith-north-johnson-mn0001759166
+  - 'https://en.wikipedia.org/wiki/Edith_North_Johnson'
+  - 'https://www.last.fm/music/Edith+Johnson/+wiki'
+  - 'https://adp.library.ucsb.edu/index.php/talent/refer/130598'
+  - 'https://sundayblues.org/?tag=edith-johnson'
+  - 'https://www.jango.com/music/Edith+North+Johnson+Henry+Brown'
+  - 'https://sentirelblues.blogspot.com/2014/10/edith-north-johnson.html'
+  - 'https://www.allmusic.com/artist/edith-north-johnson-mn0001759166'
 spotify_data:
   followers: 54
   id: 1SUHWGGIsGQq6WDWV03ETc
   popularity: 0
-  url: https://open.spotify.com/artist/1SUHWGGIsGQq6WDWV03ETc
+  url: 'https://open.spotify.com/artist/1SUHWGGIsGQq6WDWV03ETc'
 status: active
-title: EDITH NORTH JOHNSON
-
+title: Edith North Johnson
+artist_type: person
 ---
 
 ![]()

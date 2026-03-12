@@ -1,42 +1,44 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-17T02:00:17.337837'
-birth_place: Great Lakes Naval Training Center, Illinois, United States
+birth_place: 'Great Lakes Naval Training Center, Illinois, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-17T02:00:17.337843'
 external_urls:
-  spotify: https://open.spotify.com/artist/1YLsqPcFg1rj7VvhfwnDWm
-  wikipedia: https://en.wikipedia.org/wiki/Chaka_Khan
+  spotify: 'https://open.spotify.com/artist/1YLsqPcFg1rj7VvhfwnDWm'
+  wikipedia: 'https://en.wikipedia.org/wiki/Chaka_Khan'
 genres:
-- funk
+  - funk
 image_path: 03_Resources/source_material/ArtistPortraits/rufus_chaka_khan.jpg
 last_updated: '2026-01-17T02:00:17.337844'
 musical_connections:
   collaborators:
-  - Tony Maiden
-  - Quincy Jones
-  - Dave Wolinski
-  - Andre Fischer
+    - Tony Maiden
+    - Quincy Jones
+    - Dave Wolinski
+    - Andre Fischer
   influenced: []
   mentors:
-  - Stevie Wonder
-  - Ike Turner
+    - Stevie Wonder
+    - Ike Turner
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://top40weekly.com/rufus/
-- https://en.wikipedia.org/wiki/Rufus_(band)
-- https://en.wikipedia.org/wiki/Chaka_Khan
-- https://chakakhan.com/about/
-- https://www.mm-group.org/talent/rufus/
-- https://www.britannica.com/topic/Rufus
+  - 'https://top40weekly.com/rufus/'
+  - 'https://en.wikipedia.org/wiki/Rufus_(band)'
+  - 'https://en.wikipedia.org/wiki/Chaka_Khan'
+  - 'https://chakakhan.com/about/'
+  - 'https://www.mm-group.org/talent/rufus/'
+  - 'https://www.britannica.com/topic/Rufus'
 spotify_data:
   followers: 81309
   id: 1YLsqPcFg1rj7VvhfwnDWm
   popularity: 45
-  url: https://open.spotify.com/artist/1YLsqPcFg1rj7VvhfwnDWm
+  url: 'https://open.spotify.com/artist/1YLsqPcFg1rj7VvhfwnDWm'
 status: active
-title: Rufus, Chaka Khan
+title: 'Rufus, Chaka Khan'
+origin: 'Chicago, Illinois, United States'
+birth_date: '1953-03-23'
 ---
 
 ![](rufus_chaka_khan.jpg)

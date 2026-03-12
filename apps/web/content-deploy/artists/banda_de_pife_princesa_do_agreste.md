@@ -3,7 +3,7 @@ biography_enhanced_at: '2026-01-18T07:49:02.416054'
 enhancement_provider: perplexity
 entry_created: '2026-01-18T07:49:02.416062'
 external_urls:
-  spotify: https://open.spotify.com/artist/0Y0pnRfi8VDy0Di6hP0c6z
+  spotify: 'https://open.spotify.com/artist/0Y0pnRfi8VDy0Di6hP0c6z'
   wikipedia: ''
 genres: []
 image_path: ''
@@ -12,21 +12,23 @@ musical_connections:
   collaborators: []
   influenced: []
   mentors:
-  - Jackson do Pandeiro
+    - Jackson do Pandeiro
 network_extracted: true
-origin: Caruaru, Pernambuco, Brazil
+origin: 'Caruaru, Pernambuco, Brazil'
 primary_source: perplexity
 research_sources:
-- https://www.youtube.com/watch?v=24ROOmLt8xg
-- https://www.womex.com/virtual/selo_mundo_melhor/banda_de_pife_do_de/banda_de_pife_do_1
-- https://www.youtube.com/watch?v=TnxaDQNLnR8
+  - 'https://www.youtube.com/watch?v=24ROOmLt8xg'
+  - >-
+    https://www.womex.com/virtual/selo_mundo_melhor/banda_de_pife_do_de/banda_de_pife_do_1
+  - 'https://www.youtube.com/watch?v=TnxaDQNLnR8'
 spotify_data:
   followers: 4
   id: 0Y0pnRfi8VDy0Di6hP0c6z
   popularity: 0
-  url: https://open.spotify.com/artist/0Y0pnRfi8VDy0Di6hP0c6z
+  url: 'https://open.spotify.com/artist/0Y0pnRfi8VDy0Di6hP0c6z'
 status: active
 title: Banda de Pife Princesa do Agreste
+artist_type: band
 ---
 
 ![]()

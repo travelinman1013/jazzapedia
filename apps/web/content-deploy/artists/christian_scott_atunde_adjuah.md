@@ -3,16 +3,17 @@ title: Christian Scott aTunde Adjuah
 wiki_slug: christian-scott-atunde-adjuah
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- jazz
-- nu jazz
-- indie jazz
+  - jazz
+  - nu jazz
+  - indie jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/christian_scott_atunde_adjuah.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/christian_scott_atunde_adjuah.jpg
   caption: Christian Scott aTunde Adjuah
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 107.9
   energy_avg: 0.563
@@ -28,52 +29,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Matthew Stevens
-  - Corey Fonville
-  - David Sánchez
-  - Nnenna Freelon
+    - Matthew Stevens
+    - Corey Fonville
+    - David Sánchez
+    - Nnenna Freelon
   influenced:
-  - Braxton Cook
-  - Elena Pinderhughes
+    - Braxton Cook
+    - Elena Pinderhughes
   mentors:
-  - Donald Harrison, Jr.
-  - Gary Burton
+    - 'Donald Harrison, Jr.'
+    - Gary Burton
 spotify_data:
   followers: 145465
   id: 2q37Nw8NND2z1T1KU5XVfn
   popularity: 37
-  url: https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn
+  url: 'https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn'
 discography_enriched: true
 top_tracks:
-- No Love (Diaspora)
-- Isadora (Yesterday You Said Tomorrow)
-- Fluff
-- So What (Rewind That)
-- Phases (Ruler Rebel)
-- Whose Fault (feat. Christian Scott aTunde Adjuah) (Everythings For Sale)
-- The Reckoning (Ruler Rebel)
-- Ruler Rebel [X. aTunde Adjuah Remix] (The Emancipation Procrastination)
-- The Eraser (Yesterday You Said Tomorrow)
-- I Need Your Love (No Beginning No End 2)
+  - No Love (Diaspora)
+  - Isadora (Yesterday You Said Tomorrow)
+  - Fluff
+  - So What (Rewind That)
+  - Phases (Ruler Rebel)
+  - Whose Fault (feat. Christian Scott aTunde Adjuah) (Everythings For Sale)
+  - The Reckoning (Ruler Rebel)
+  - 'Ruler Rebel [X. aTunde Adjuah Remix] (The Emancipation Procrastination)'
+  - The Eraser (Yesterday You Said Tomorrow)
+  - I Need Your Love (No Beginning No End 2)
 external_urls:
-  spotify: https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn
-  wikipedia: https://en.wikipedia.org/wiki/Chief_Xian_aTunde_Adjuah
+  spotify: 'https://open.spotify.com/artist/2q37Nw8NND2z1T1KU5XVfn'
+  wikipedia: 'https://en.wikipedia.org/wiki/Chief_Xian_aTunde_Adjuah'
 image_path: 03_Resources/source_material/ArtistPortraits/christian_scott_atunde_adjuah.jpg
 biography_enhanced_at: '2025-11-20T07:03:29.946747'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Chief_Xian_aTunde_Adjuah
-- https://www.laphil.com/musicdb/artists/7504/chief-adjuah-formerly-christian-scott
-- https://www.chiefadjuah.com/stretchmusicbio
-- https://www.jazzempowers.org/christian-scott-atunde-ajuah
-- https://union.wisc.edu/visit/wisconsin-union-theater/the-green-room/chief-xian-atunde-adjuah-revolutionizing-jazz-with-stretch-music
-- https://aas.princeton.edu/news/how-christian-scott-atunde-adjuah-revolutionizing-genre-jazz
-- https://www.detroitjazzfest.org/artist/chief-adjuah-formerly-christian-scott/
+  - 'https://en.wikipedia.org/wiki/Chief_Xian_aTunde_Adjuah'
+  - >-
+    https://www.laphil.com/musicdb/artists/7504/chief-adjuah-formerly-christian-scott
+  - 'https://www.chiefadjuah.com/stretchmusicbio'
+  - 'https://www.jazzempowers.org/christian-scott-atunde-ajuah'
+  - >-
+    https://union.wisc.edu/visit/wisconsin-union-theater/the-green-room/chief-xian-atunde-adjuah-revolutionizing-jazz-with-stretch-music
+  - >-
+    https://aas.princeton.edu/news/how-christian-scott-atunde-adjuah-revolutionizing-genre-jazz
+  - >-
+    https://www.detroitjazzfest.org/artist/chief-adjuah-formerly-christian-scott/
 network_extracted: true
 entry_created: '2025-11-20T07:03:29.946759'
 last_updated: '2025-12-23T08:16:06.925092'
-
+birth_date: '1983-03-31'
+artist_type: person
 ---
 
 ![](christian_scott_atunde_adjuah.jpg)

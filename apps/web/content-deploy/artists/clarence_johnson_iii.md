@@ -3,15 +3,15 @@ title: Clarence Johnson III
 wiki_slug: clarence-johnson-iii
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, USA'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/clarence_johnson_iii.jpg
   caption: Clarence Johnson III
   background: solo_singer
-  origin: New Orleans, Louisiana, USA
+  origin: 'New Orleans, Louisiana, USA'
 audio_profile:
-  tempo_avg: 119.0
+  tempo_avg: 119
   energy_avg: 0.352
   valence_avg: 0.379
   danceability_avg: 0.546
@@ -25,49 +25,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tori Amos
-  - Bruce Hornsby
-  - Davell Crawford
-  - Dr. John, Neville Brothers, Allen Toussaint, Jimmy Smith, David “Fathead” Newman, John Scofield, members of the Meters
-  - Aretha Franklin, The Temptations, Kirk Franklin, Gladys Knight, the O’Jays, Billy Preston, Wynton Marsalis
-  - Steve Masakowski, Mike Esneault, Dwight Fitch Jr., Donald Ramsey, Ricky Sebastian
+    - Tori Amos
+    - Bruce Hornsby
+    - Davell Crawford
+    - >-
+      Dr. John, Neville Brothers, Allen Toussaint, Jimmy Smith, David “Fathead”
+      Newman, John Scofield, members of the Meters
+    - >-
+      Aretha Franklin, The Temptations, Kirk Franklin, Gladys Knight, the
+      O’Jays, Billy Preston, Wynton Marsalis
+    - >-
+      Steve Masakowski, Mike Esneault, Dwight Fitch Jr., Donald Ramsey, Ricky
+      Sebastian
   influenced:
-  - Students at Loyola University, Delgado Community College, Morehouse College, Spelman College
+    - >-
+      Students at Loyola University, Delgado Community College, Morehouse
+      College, Spelman College
   mentors:
-  - Stanley Clarke, George Duke, Brecker Brothers, Yellowjackets
+    - 'Stanley Clarke, George Duke, Brecker Brothers, Yellowjackets'
 spotify_data:
   followers: 64
   id: 4YYp2PYRD8WbuBEYABchGQ
   popularity: 0
-  url: https://open.spotify.com/artist/4YYp2PYRD8WbuBEYABchGQ
+  url: 'https://open.spotify.com/artist/4YYp2PYRD8WbuBEYABchGQ'
 discography_enriched: true
 top_tracks:
-- Dukeish (Interlude) (Safe Space, Vol. 1)
-- They Still Coming (Interlude) (Safe Space, Vol. 1)
-- Ooh Wee Sugar (The B-3 And Me)
-- Struttin' (The B-3 And Me)
-- The Cat (The B-3 And Me)
-- Stormy Weather (The B-3 And Me)
-- House That Jack Built (The B-3 And Me)
-- Please Don't Talk About Me When I'm Gone (The B-3 And Me)
-- Uptown (The B-3 And Me)
-- I Can't Stop Loving You (The B-3 And Me)
+  - 'Dukeish (Interlude) (Safe Space, Vol. 1)'
+  - 'They Still Coming (Interlude) (Safe Space, Vol. 1)'
+  - Ooh Wee Sugar (The B-3 And Me)
+  - Struttin' (The B-3 And Me)
+  - The Cat (The B-3 And Me)
+  - Stormy Weather (The B-3 And Me)
+  - House That Jack Built (The B-3 And Me)
+  - Please Don't Talk About Me When I'm Gone (The B-3 And Me)
+  - Uptown (The B-3 And Me)
+  - I Can't Stop Loving You (The B-3 And Me)
 external_urls:
-  spotify: https://open.spotify.com/artist/4YYp2PYRD8WbuBEYABchGQ
+  spotify: 'https://open.spotify.com/artist/4YYp2PYRD8WbuBEYABchGQ'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/clarence_johnson_iii.jpg
 biography_enhanced_at: '2025-10-24T07:46:31.937735'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://thevelvetnote.com/clarence-johnson/
-- https://www.positivevibrations.org/single-post/clarence-johnson-iii-bio
-- https://www.brothermartin.com/saxophonist-clarence-johnson-iii-92-releases-new-cd/
-- https://www.offbeat.com/music/clarence-johnson-iii-watch-him-work-like-father-like-son-records/
-- https://www.imdb.com/name/nm2237932/
+  - 'https://thevelvetnote.com/clarence-johnson/'
+  - 'https://www.positivevibrations.org/single-post/clarence-johnson-iii-bio'
+  - >-
+    https://www.brothermartin.com/saxophonist-clarence-johnson-iii-92-releases-new-cd/
+  - >-
+    https://www.offbeat.com/music/clarence-johnson-iii-watch-him-work-like-father-like-son-records/
+  - 'https://www.imdb.com/name/nm2237932/'
 network_extracted: true
 entry_created: '2025-10-24T07:46:31.937752'
 last_updated: '2025-12-23T08:16:07.030710'
+artist_type: person
 ---
 
 ![](clarence_johnson_iii.jpg)

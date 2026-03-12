@@ -4,9 +4,10 @@ wiki_slug: trombone-shorty-james-andrews
 schema_version: 2
 status: active
 genres:
-- jazz funk
+  - jazz funk
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/trombone_shorty_and_james_andrews.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/trombone_shorty_and_james_andrews.jpg
   caption: Trombone Shorty & James Andrews
   background: solo_singer
 audio_profile:
@@ -16,7 +17,7 @@ audio_profile:
   danceability_avg: 0.628
   acousticness_avg: 0.252
   instrumentalness_avg: 0.258
-  loudness_avg: -7.0
+  loudness_avg: -7
   speechiness_avg: 0.095
   liveness_avg: 0.208
   track_count: 72
@@ -24,46 +25,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Orleans Avenue
-  - Crescent City Allstars
-  - Dirty Dozen Brass Band
+    - Orleans Avenue
+    - Crescent City Allstars
+    - Dirty Dozen Brass Band
   influenced:
-  - New Orleans Jazz Scene
+    - New Orleans Jazz Scene
   mentors:
-  - James Andrews
-  - Jesse Hill
-  - Danny Barker
+    - James Andrews
+    - Jesse Hill
+    - Danny Barker
 spotify_data:
   followers: 207797
   id: 37ZvFp654tY74Z1D2TLOGR
   popularity: 43
-  url: https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR
+  url: 'https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR'
 discography_enriched: true
 top_tracks:
-- Something Beautiful (Backatown)
-- Hurricane Season (Backatown)
-- Tripped Out Slim (Parking Lot Symphony)
-- Hold Up, Wait a Minute
-- Backatown (Backatown)
-- Cineramascope (Ya-Ka-May (Deluxe Edition))
-- 7-T's (Laid Black)
-- Vieux Carre (Say That To Say This)
-- Shortyville (Say That To Say This)
-- Overnight (feat. Trombone Shorty) (Uncaged)
+  - Something Beautiful (Backatown)
+  - Hurricane Season (Backatown)
+  - Tripped Out Slim (Parking Lot Symphony)
+  - 'Hold Up, Wait a Minute'
+  - Backatown (Backatown)
+  - Cineramascope (Ya-Ka-May (Deluxe Edition))
+  - 7-T's (Laid Black)
+  - Vieux Carre (Say That To Say This)
+  - Shortyville (Say That To Say This)
+  - Overnight (feat. Trombone Shorty) (Uncaged)
 external_urls:
-  spotify: https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR
-  wikipedia: https://en.wikipedia.org/wiki/Trombone_Shorty
-image_path: 03_Resources/source_material/ArtistPortraits/trombone_shorty_and_james_andrews.jpg
+  spotify: 'https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR'
+  wikipedia: 'https://en.wikipedia.org/wiki/Trombone_Shorty'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/trombone_shorty_and_james_andrews.jpg
 biography_enhanced_at: '2025-10-28T09:01:54.291096'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://musicrising.tulane.edu/discover/people/troy-trombone-shorty-andrews/
-- https://64parishes.org/entry/trombone-shorty/
-- https://en.wikipedia.org/wiki/James_Andrews_(musician)
+  - 'https://musicrising.tulane.edu/discover/people/troy-trombone-shorty-andrews/'
+  - 'https://64parishes.org/entry/trombone-shorty/'
+  - 'https://en.wikipedia.org/wiki/James_Andrews_(musician)'
 network_extracted: true
 entry_created: '2025-10-28T09:01:54.291106'
 last_updated: '2025-12-23T08:16:17.713897'
+origin: 'New Orleans, Louisiana, USA'
+birth_date: '1986-01-02'
+artist_type: person
 ---
 
 ![](trombone_shorty_and_james_andrews.jpg)

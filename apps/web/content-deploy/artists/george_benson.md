@@ -5,43 +5,43 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1943-03-22'
-birth_place: Pittsburgh
+birth_place: 'Pittsburgh, Pennsylvania, United States'
 genres:
-- smooth jazz
-- jazz funk
-- soul jazz
+  - smooth jazz
+  - jazz funk
+  - soul jazz
 instruments:
-- eponymous
-- original
-- guitar
-- electric guitar
-- guitar family
-- background vocals
-- lead vocals
-- other vocals
-associated_acts:
-- begin: '1965'
-  end: '1967'
-  instruments:
   - eponymous
   - original
-  mbid: a2fadf89-103d-4d3b-8dc9-c6185af38bd9
-  name: The George Benson Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1b687f1a-52d2-4cb4-b88e-d84f0e0e6d35
-  name: Harlem Underground Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 272c80be-dea0-4f35-8532-940ff43f346b
-  name: CTI All-Stars
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c8552c37-33c6-467a-8ee9-42a0cf3f993a
-  name: Fuse One
+  - guitar
+  - electric guitar
+  - guitar family
+  - background vocals
+  - lead vocals
+  - other vocals
+associated_acts:
+  - begin: '1965'
+    end: '1967'
+    instruments:
+      - eponymous
+      - original
+    mbid: a2fadf89-103d-4d3b-8dc9-c6185af38bd9
+    name: The George Benson Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1b687f1a-52d2-4cb4-b88e-d84f0e0e6d35
+    name: Harlem Underground Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 272c80be-dea0-4f35-8532-940ff43f346b
+    name: CTI All-Stars
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c8552c37-33c6-467a-8ee9-42a0cf3f993a
+    name: Fuse One
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/george_benson.jpg
   caption: George Benson
@@ -63,46 +63,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Miles Davis
-  - Freddie Hubbard
-  - Stanley Turrentine
-  - Quincy Jones
+    - Miles Davis
+    - Freddie Hubbard
+    - Stanley Turrentine
+    - Quincy Jones
   influenced:
-  - Norman Brown
-  - Lee Ritenour
+    - Norman Brown
+    - Lee Ritenour
   mentors:
-  - Jack McDuff
-  - Wes Montgomery
+    - Jack McDuff
+    - Wes Montgomery
 spotify_data:
   followers: 955502
   id: 4N8BwYTEC6XqykGvXXlmfv
   popularity: 65
-  url: https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv
+  url: 'https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv'
 discography_enriched: true
 top_tracks:
-- Nothing's Gonna Change My Love for You (20/20)
-- Give Me the Night
-- Give Me the Night (Give Me the Night)
-- In Your Eyes (In Your Eyes)
-- Humility (feat. George Benson) (The Now Now)
-- Breezin' (Breezin')
-- Turn Your Love Around
-- You Are the Love of My Life (20/20)
-- Give Me the Night - Edit
-- Love X Love (Give Me the Night)
+  - Nothing's Gonna Change My Love for You (20/20)
+  - Give Me the Night
+  - Give Me the Night (Give Me the Night)
+  - In Your Eyes (In Your Eyes)
+  - Humility (feat. George Benson) (The Now Now)
+  - Breezin' (Breezin')
+  - Turn Your Love Around
+  - You Are the Love of My Life (20/20)
+  - Give Me the Night - Edit
+  - Love X Love (Give Me the Night)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/467f69b6-8d6d-4d2c-bfad-e89adf2806ff
-  spotify: https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv
-  wikipedia: https://en.wikipedia.org/wiki/George_Benson
+  musicbrainz: 'https://musicbrainz.org/artist/467f69b6-8d6d-4d2c-bfad-e89adf2806ff'
+  spotify: 'https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv'
+  wikipedia: 'https://en.wikipedia.org/wiki/George_Benson'
 image_path: 03_Resources/source_material/ArtistPortraits/george_benson.jpg
 biography_enhanced_at: '2025-10-29T16:38:12.672875'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/George_Benson
-- https://walkoffame.com/george-benson/
-- https://hillhistory.org/items/show/60
-- https://www.arts.gov/honors/jazz/george-benson
+  - 'https://en.wikipedia.org/wiki/George_Benson'
+  - 'https://walkoffame.com/george-benson/'
+  - 'https://hillhistory.org/items/show/60'
+  - 'https://www.arts.gov/honors/jazz/george-benson'
 network_extracted: true
 entry_created: '2025-10-29T16:38:12.672884'
 last_updated: '2025-12-23T08:16:09.066705'
@@ -110,10 +110,9 @@ disambiguation: jazz guitarist/singer
 gender: Male
 musicbrainz_id: 467f69b6-8d6d-4d2c-bfad-e89adf2806ff
 tags:
-- 2008 universal fire victim
-- american
-- contemporary jazz
-
+  - 2008 universal fire victim
+  - american
+  - contemporary jazz
 ---
 
 ![](george_benson.jpg)

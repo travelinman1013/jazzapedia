@@ -3,22 +3,22 @@ title: Jovelina Perola Negra
 wiki_slug: jovelina-perola-negra
 schema_version: 2
 status: active
-birth_place: Rio de Janeiro, Rio de Janeiro, Brazil
+birth_place: 'Rio de Janeiro, Rio de Janeiro, Brazil'
 genres:
-- samba
-- pagode
+  - samba
+  - pagode
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jovelina_perola_negra.jpg
   caption: Jovelina Perola Negra
   background: solo_singer
-  origin: Rio de Janeiro, Rio de Janeiro, Brazil
+  origin: 'Rio de Janeiro, Rio de Janeiro, Brazil'
 audio_profile:
   tempo_avg: 109.5
   energy_avg: 0.811
   valence_avg: 0.864
   danceability_avg: 0.674
   acousticness_avg: 0.342
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -6.1
   speechiness_avg: 0.088
   liveness_avg: 0.232
@@ -27,42 +27,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Zeca Pagodinho
+    - Zeca Pagodinho
   influenced:
-  - Seu Jorge
+    - Seu Jorge
   mentors:
-  - Clementina de Jesus
+    - Clementina de Jesus
 spotify_data:
   followers: 96498
   id: 7AicXtLi5qHsZLArE6V9EP
   popularity: 40
-  url: https://open.spotify.com/artist/7AicXtLi5qHsZLArE6V9EP
+  url: 'https://open.spotify.com/artist/7AicXtLi5qHsZLArE6V9EP'
 discography_enriched: true
 top_tracks:
-- Bagaço Da Laranja - Ao Vivo (A Arte De Zeca Pagodinho)
-- Sorriso Aberto (Sorriso Aberto)
-- Luz do Repente (Luz do Repente)
-- No Mesmo Manto (Sangue Bom)
-- Menina Você Bebeu (Jovelina Pérola Negra)
-- Feirinha da Pavuna (Confusão de Legumes) (Raça Brasileira)
-- Santo Forte (Amigos Chegados)
-- Catatau (Sangue Bom)
-- Sonho Juvenil (Garoto Zona Sul) (Luz do Repente)
-- Sorriso de Banjo (Vou Na Fé)
+  - Bagaço Da Laranja - Ao Vivo (A Arte De Zeca Pagodinho)
+  - Sorriso Aberto (Sorriso Aberto)
+  - Luz do Repente (Luz do Repente)
+  - No Mesmo Manto (Sangue Bom)
+  - Menina Você Bebeu (Jovelina Pérola Negra)
+  - Feirinha da Pavuna (Confusão de Legumes) (Raça Brasileira)
+  - Santo Forte (Amigos Chegados)
+  - Catatau (Sangue Bom)
+  - Sonho Juvenil (Garoto Zona Sul) (Luz do Repente)
+  - Sorriso de Banjo (Vou Na Fé)
 external_urls:
-  spotify: https://open.spotify.com/artist/7AicXtLi5qHsZLArE6V9EP
-  wikipedia: https://en.wikipedia.org/wiki/Jovelina_P%C3%A9rola_Negra
+  spotify: 'https://open.spotify.com/artist/7AicXtLi5qHsZLArE6V9EP'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jovelina_P%C3%A9rola_Negra'
 image_path: 03_Resources/source_material/ArtistPortraits/jovelina_perola_negra.jpg
 biography_enhanced_at: '2025-10-26T12:29:58.099183'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jovelina_P%C3%A9rola_Negra
-- https://pt.wikipedia.org/wiki/Jovelina_P%C3%A9rola_Negra
-- https://pancocojams.blogspot.com/2015/06/brazilian-vocalist-jovelina-perola.html
+  - 'https://en.wikipedia.org/wiki/Jovelina_P%C3%A9rola_Negra'
+  - 'https://pt.wikipedia.org/wiki/Jovelina_P%C3%A9rola_Negra'
+  - >-
+    https://pancocojams.blogspot.com/2015/06/brazilian-vocalist-jovelina-perola.html
 network_extracted: true
 entry_created: '2025-10-26T12:29:58.099192'
 last_updated: '2025-12-23T08:16:11.005728'
+birth_date: '1944-07-21'
+death_date: '1998-11-02'
+artist_type: person
 ---
 
 ![](jovelina_perola_negra.jpg)

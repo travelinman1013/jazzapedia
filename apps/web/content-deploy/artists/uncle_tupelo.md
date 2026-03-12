@@ -1,15 +1,15 @@
 ---
-title: UNCLE TUPELO
+title: Uncle Tupelo
 wiki_slug: uncle-tupelo
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1987'
 genres:
-- alt country
-- americana
-- roots rock
-- country rock
+  - alt country
+  - americana
+  - roots rock
+  - country rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/uncle_tupelo.jpg
   caption: UNCLE TUPELO
@@ -30,89 +30,90 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jay Farrar
-  - Jeff Tweedy
-  - Mike Heidorn
-  - Brian Henneman
+    - Jay Farrar
+    - Jeff Tweedy
+    - Mike Heidorn
+    - Brian Henneman
   influenced:
-  - Wilco
-  - Son Volt
-  - Drive-By Truckers
-  - Old 97's
+    - Wilco
+    - Son Volt
+    - Drive-By Truckers
+    - Old 97's
   mentors:
-  - Gram Parsons
-  - The Carter Family
-  - Black Flag
+    - Gram Parsons
+    - The Carter Family
+    - Black Flag
 spotify_data:
   followers: 114395
   id: 2Plkkomsc4DKawkCioLKjc
   popularity: 40
-  url: https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc
+  url: 'https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc'
 discography_enriched: true
 top_tracks:
-- Sandusky (March 16-20, 1992)
-- New Madrid (Anodyne)
-- Moonshiner (March 16-20, 1992)
-- No Depression (No Depression)
-- The Long Cut (Anodyne)
-- Give Back the Key to My Heart (Anodyne)
-- Still Be Around (Still Feel Gone)
-- 'Moonshiner (Uncle Tupelo 89/93: An Anthology)'
-- Chickamauga (Anodyne)
-- Slate (Anodyne)
+  - 'Sandusky (March 16-20, 1992)'
+  - New Madrid (Anodyne)
+  - 'Moonshiner (March 16-20, 1992)'
+  - No Depression (No Depression)
+  - The Long Cut (Anodyne)
+  - Give Back the Key to My Heart (Anodyne)
+  - Still Be Around (Still Feel Gone)
+  - 'Moonshiner (Uncle Tupelo 89/93: An Anthology)'
+  - Chickamauga (Anodyne)
+  - Slate (Anodyne)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/95c043f1-0bdd-403a-b714-663908d7e4fc
-  spotify: https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc
-  wikipedia: https://en.wikipedia.org/wiki/Uncle_Tupelo
+  musicbrainz: 'https://musicbrainz.org/artist/95c043f1-0bdd-403a-b714-663908d7e4fc'
+  spotify: 'https://open.spotify.com/artist/2Plkkomsc4DKawkCioLKjc'
+  wikipedia: 'https://en.wikipedia.org/wiki/Uncle_Tupelo'
 image_path: 03_Resources/source_material/ArtistPortraits/uncle_tupelo.jpg
 biography_enhanced_at: '2025-11-04T10:55:51.284328'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://americana-uk.com/americana-to-z-uncle-tupelo
-- https://factorybelt.net/history.htm
-- https://nodepression.org/cant-look-away-musicians-writers-and-more-reflect-on-30-years-of-uncle-tupelos-no-depression/
-- https://trouserpress.com/reviews/uncle-tupelo/
-- https://coloradosound.org/uncle-tupelos-family-tree/
-- https://en.wikipedia.org/wiki/Uncle_Tupelo
+  - 'https://americana-uk.com/americana-to-z-uncle-tupelo'
+  - 'https://factorybelt.net/history.htm'
+  - >-
+    https://nodepression.org/cant-look-away-musicians-writers-and-more-reflect-on-30-years-of-uncle-tupelos-no-depression/
+  - 'https://trouserpress.com/reviews/uncle-tupelo/'
+  - 'https://coloradosound.org/uncle-tupelos-family-tree/'
+  - 'https://en.wikipedia.org/wiki/Uncle_Tupelo'
 network_extracted: true
 entry_created: '2025-11-04T10:55:51.284338'
 last_updated: '2025-12-23T08:16:17.781629'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 381a815f-8015-4c84-ae02-c36a8615242f
-  name: Ken Coomer
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2d50057a-5541-4b1a-990d-92d3698e7ba5
-  name: Jay Farrar
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 654210e5-da41-4018-a6ee-e7e03223d599
-  name: Mike Heidorn
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 339973c0-fc0d-4570-bf95-07082a9c7e88
-  name: Max Johnston
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b0e4e9b4-57d5-4d9a-98e0-27870e9fda8f
-  name: John Stirratt
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 63287966-6021-474a-ba76-edc37a5f1b7c
-  name: Jeff Tweedy
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 381a815f-8015-4c84-ae02-c36a8615242f
+    name: Ken Coomer
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2d50057a-5541-4b1a-990d-92d3698e7ba5
+    name: Jay Farrar
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 654210e5-da41-4018-a6ee-e7e03223d599
+    name: Mike Heidorn
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 339973c0-fc0d-4570-bf95-07082a9c7e88
+    name: Max Johnston
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b0e4e9b4-57d5-4d9a-98e0-27870e9fda8f
+    name: John Stirratt
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 63287966-6021-474a-ba76-edc37a5f1b7c
+    name: Jeff Tweedy
 musicbrainz_id: 95c043f1-0bdd-403a-b714-663908d7e4fc
-origin: Belleville
+origin: 'Belleville, Illinois, United States'
 tags:
-- folk
+  - folk
 ---
 
 ![](uncle_tupelo.jpg)

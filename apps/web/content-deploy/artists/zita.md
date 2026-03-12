@@ -1,5 +1,5 @@
 ---
-title: zita
+title: Zita
 wiki_slug: zita
 schema_version: 2
 status: active
@@ -14,7 +14,7 @@ audio_profile:
   valence_avg: 0.349
   danceability_avg: 0.54
   acousticness_avg: 0.55
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -6.5
   speechiness_avg: 0.039
   liveness_avg: 0.133
@@ -23,47 +23,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Nigel Hall
-  - Mike Lemmler
-  - Steve Lands
-  - Mark Mullins
+    - Nigel Hall
+    - Mike Lemmler
+    - Steve Lands
+    - Mark Mullins
   influenced: []
   mentors:
-  - Various New Orleans legends (unnamed collectively)
+    - Various New Orleans legends (unnamed collectively)
 spotify_data:
   followers: 9268
   id: 05QNFSNYfQhYxUJUoFtEEk
   popularity: 31
-  url: https://open.spotify.com/artist/05QNFSNYfQhYxUJUoFtEEk
+  url: 'https://open.spotify.com/artist/05QNFSNYfQhYxUJUoFtEEk'
 discography_enriched: true
 top_tracks:
-- Dancing in the sky (Dancing in the sky)
-- Control (Control)
-- Don't Wait Till Monday (Don't Wait Till Monday)
-- Arcade (Arcade)
-- I Have Nothing (I Have Nothing)
-- All Out Of Fight (All Out Of Fight)
-- Love Is Blind (Love Is Blind)
-- Better Without (Better Without)
-- Falling (Falling)
-- Leaving My Love Behind (Leaving My Love Behind)
+  - Dancing in the sky (Dancing in the sky)
+  - Control (Control)
+  - Don't Wait Till Monday (Don't Wait Till Monday)
+  - Arcade (Arcade)
+  - I Have Nothing (I Have Nothing)
+  - All Out Of Fight (All Out Of Fight)
+  - Love Is Blind (Love Is Blind)
+  - Better Without (Better Without)
+  - Falling (Falling)
+  - Leaving My Love Behind (Leaving My Love Behind)
 external_urls:
-  spotify: https://open.spotify.com/artist/05QNFSNYfQhYxUJUoFtEEk
+  spotify: 'https://open.spotify.com/artist/05QNFSNYfQhYxUJUoFtEEk'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/zita.jpg
 biography_enhanced_at: '2025-12-13T11:10:08.728267'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.zitaband.com/about
-- https://www.zitaband.com
-- https://www.indieonthemove.com/users/nola_michael
-- https://www.youtube.com/watch?v=7WW76Y8ebXo
-- https://www.viberate.com/artist/zita-519/
+  - 'https://www.zitaband.com/about'
+  - 'https://www.zitaband.com'
+  - 'https://www.indieonthemove.com/users/nola_michael'
+  - 'https://www.youtube.com/watch?v=7WW76Y8ebXo'
+  - 'https://www.viberate.com/artist/zita-519/'
 network_extracted: true
 entry_created: '2025-12-13T11:10:08.728275'
 last_updated: '2025-12-23T08:16:18.466309'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![](zita.jpg)

@@ -1,87 +1,90 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d98293a9-c5b1-4aea-851e-8b479fd4de45
-  name: The Uniques
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2346c12e-da0b-4dcf-8136-9854f60e6771
-  name: The Charmers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4a536cb4-2891-4006-975c-396a8f2a6086
-  name: The Hippy Boys
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f7f249c2-431f-4ceb-86f5-7feec891b67f
-  name: The Messengers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6892b9f9-e97a-4634-91ee-fca09798c2bc
-  name: The Charmers Dub Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d98293a9-c5b1-4aea-851e-8b479fd4de45
+    name: The Uniques
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2346c12e-da0b-4dcf-8136-9854f60e6771
+    name: The Charmers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4a536cb4-2891-4006-975c-396a8f2a6086
+    name: The Hippy Boys
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f7f249c2-431f-4ceb-86f5-7feec891b67f
+    name: The Messengers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6892b9f9-e97a-4634-91ee-fca09798c2bc
+    name: The Charmers Dub Band
 biography_enhanced_at: '2026-01-19T01:13:45.984552'
 birth_date: '1938'
-birth_place: Trenchtown
+birth_place: 'Trenchtown, Kingston, Jamaica'
 death_date: '2012-12-27'
 enhancement_provider: perplexity
 entry_created: '2026-01-19T01:13:45.984557'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/33f8a76e-057a-4d37-b49a-12b46fb71c7a
-  spotify: https://open.spotify.com/artist/3mSM2ALYf2unI6Hk6NGBmD
-  wikipedia: https://en.wikipedia.org/wiki/Lloyd_Charmers
+  musicbrainz: 'https://musicbrainz.org/artist/33f8a76e-057a-4d37-b49a-12b46fb71c7a'
+  spotify: 'https://open.spotify.com/artist/3mSM2ALYf2unI6Hk6NGBmD'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lloyd_Charmers'
 gender: Male
 genres:
-- rocksteady
-- ska
-- reggae
-- lovers rock
-- roots reggae
+  - rocksteady
+  - ska
+  - reggae
+  - lovers rock
+  - roots reggae
 image_path: 03_Resources/source_material/ArtistPortraits/lloyd_charmers.jpg
 instruments:
-- piano
-- bass vocals
-- background vocals
+  - piano
+  - bass vocals
+  - background vocals
 last_updated: '2026-01-19T01:13:45.984558'
 musical_connections:
   collaborators:
-  - Roy Willis
-  - Slim Smith
-  - Jimmy Riley
-  - Aston 'Family Man' Barrett
-  - Carlton Barrett
-  - Ken Boothe
+    - Roy Willis
+    - Slim Smith
+    - Jimmy Riley
+    - Aston 'Family Man' Barrett
+    - Carlton Barrett
+    - Ken Boothe
   influenced:
-  - The Specials
-  - Lee 'Scratch' Perry
-  - Bob Marley and the Wailers
+    - The Specials
+    - Lee 'Scratch' Perry
+    - Bob Marley and the Wailers
   mentors:
-  - Alton Ellis
-  - Coxsone Dodd
-  - Prince Buster
+    - Alton Ellis
+    - Coxsone Dodd
+    - Prince Buster
 musicbrainz_id: 33f8a76e-057a-4d37-b49a-12b46fb71c7a
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.largeup.com/2012/12/28/r-i-p-lloyd-charmers-1938-2012/
-- https://www.the-independent.com/news/obituaries/lloyd-charmers-obituary-acclaimed-singer-and-producer-8554709.html
-- https://en.wikipedia.org/wiki/Lloyd_Charmers
-- https://unitedreggae.com/articles/n1800/031815/united-reggae-mixtape-killers-without-fillers-2-lloyd-charmers-special
+  - 'https://www.largeup.com/2012/12/28/r-i-p-lloyd-charmers-1938-2012/'
+  - >-
+    https://www.the-independent.com/news/obituaries/lloyd-charmers-obituary-acclaimed-singer-and-producer-8554709.html
+  - 'https://en.wikipedia.org/wiki/Lloyd_Charmers'
+  - >-
+    https://unitedreggae.com/articles/n1800/031815/united-reggae-mixtape-killers-without-fillers-2-lloyd-charmers-special
 spotify_data:
   followers: 6883
   id: 3mSM2ALYf2unI6Hk6NGBmD
   popularity: 21
-  url: https://open.spotify.com/artist/3mSM2ALYf2unI6Hk6NGBmD
+  url: 'https://open.spotify.com/artist/3mSM2ALYf2unI6Hk6NGBmD'
 status: active
 tags:
-- died from myocardial infarction
+  - died from myocardial infarction
 title: Lloyd Charmers
+is_active: false
 ---
 
 ![](lloyd_charmers.jpg)

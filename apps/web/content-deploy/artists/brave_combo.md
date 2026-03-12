@@ -1,20 +1,20 @@
 ---
-title: brave combo
+title: Brave Combo
 wiki_slug: brave-combo
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 birth_date: '1979'
 genres:
-- polka
+  - polka
 instruments:
-- trumpet
-- harmonica
-- woodwind
-- percussion
-- accordion
-- guitar
-- keyboard
+  - trumpet
+  - harmonica
+  - woodwind
+  - percussion
+  - accordion
+  - guitar
+  - keyboard
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/brave_combo.jpg
   caption: brave combo
@@ -35,119 +35,120 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lyle Atkinson
-  - Tim Walsh
-  - Lisa Cameron
-  - Jeffrey Barnes
-  - David Byrne
+    - Lyle Atkinson
+    - Tim Walsh
+    - Lisa Cameron
+    - Jeffrey Barnes
+    - David Byrne
   influenced:
-  - J. Paul Slavens
+    - J. Paul Slavens
   mentors:
-  - Larry Chesky
-  - Andrew Walter
-  - Eddie Blazonczyk
+    - Larry Chesky
+    - Andrew Walter
+    - Eddie Blazonczyk
 spotify_data:
   followers: 3697
   id: 6dNJdxcfApzuUCZgMgMdck
   popularity: 28
-  url: https://open.spotify.com/artist/6dNJdxcfApzuUCZgMgMdck
+  url: 'https://open.spotify.com/artist/6dNJdxcfApzuUCZgMgMdck'
 discography_enriched: true
 top_tracks:
-- Sly Cigarette (Girl)
-- O Holy Night Cha Cha Cha (Musical Varieties)
-- Over The Rainbow (Girl)
-- In Heaven, There Is No Beer (Polkas For A Gloomy World)
-- Girl (Girl)
-- Dance of the Hours, Parts 1 & 2 (Box Of Ghosts)
-- Do Something Different (A Night On Earth)
-- Stairway To Heaven (Girl)
-- Laura (A Night On Earth)
-- Linda Guerita (A Night On Earth)
+  - Sly Cigarette (Girl)
+  - O Holy Night Cha Cha Cha (Musical Varieties)
+  - Over The Rainbow (Girl)
+  - 'In Heaven, There Is No Beer (Polkas For A Gloomy World)'
+  - Girl (Girl)
+  - 'Dance of the Hours, Parts 1 & 2 (Box Of Ghosts)'
+  - Do Something Different (A Night On Earth)
+  - Stairway To Heaven (Girl)
+  - Laura (A Night On Earth)
+  - Linda Guerita (A Night On Earth)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/fdefbd57-abcd-435a-8b6c-d03cc4990efd
-  spotify: https://open.spotify.com/artist/6dNJdxcfApzuUCZgMgMdck
-  wikipedia: https://en.wikipedia.org/wiki/Brave_Combo
+  musicbrainz: 'https://musicbrainz.org/artist/fdefbd57-abcd-435a-8b6c-d03cc4990efd'
+  spotify: 'https://open.spotify.com/artist/6dNJdxcfApzuUCZgMgMdck'
+  wikipedia: 'https://en.wikipedia.org/wiki/Brave_Combo'
 image_path: 03_Resources/source_material/ArtistPortraits/brave_combo.jpg
 biography_enhanced_at: '2025-12-20T01:19:09.917292'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.dallasobserver.com/uncategorized/dentons-favorite-band-brave-combo-marks-40-years-of-nuclear-polka-11742818/
-- https://en.wikipedia.org/wiki/Brave_Combo
-- https://bravecombo.com/press-kit/biography/
+  - >-
+    https://www.dallasobserver.com/uncategorized/dentons-favorite-band-brave-combo-marks-40-years-of-nuclear-polka-11742818/
+  - 'https://en.wikipedia.org/wiki/Brave_Combo'
+  - 'https://bravecombo.com/press-kit/biography/'
 network_extracted: true
 entry_created: '2025-12-20T01:19:09.917304'
 last_updated: '2025-12-23T08:16:06.049222'
 members:
-- &id001
-  begin: '1992'
-  end: ''
-  instruments:
-  - trumpet
-  mbid: 3a7d6040-e5e9-452c-8f1d-263e2e9e761a
-  name: Danny O’Brien
-- begin: '2008'
-  end: '2010'
-  instruments: []
-  mbid: a016a6a3-e62c-4912-8cfb-cf32cefeee93
-  name: Arjuna "RJ" Contreras
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3d3a17e6-b2a5-494c-81db-b6bd32c4e09c
-  name: Rob Avsharian
-- begin: ''
-  end: ''
-  instruments:
-  - harmonica
-  - woodwind
-  mbid: e2fcc0d2-1510-40bb-9705-e4efff0762da
-  name: Jeff Barnes
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: eca0cd7c-9c7b-47ac-ac12-92361ed1f76c
-  name: Dave Cameron
-- begin: ''
-  end: ''
-  instruments:
-  - percussion
-  mbid: 9c73f524-2b82-4db5-8cdb-6fb1a0634647
-  name: Joe Cripps
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bd39bc89-6c6c-4674-8e1b-11e5c017c2d1
-  name: Mike Dillon
-- begin: ''
-  end: ''
-  instruments:
-  - accordion
-  - guitar
-  - keyboard
-  mbid: 03ba7d48-c24d-4178-8e52-82bb161a8fac
-  name: Carl Finch
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 559c0678-845a-4ab6-b33c-8cdfcc1bf726
-  name: Bubba Hernandez
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 694556ad-ca3b-4fa6-9fbb-7ed6d129c236
-  name: Mitch Marine
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f0f9a605-1a4a-42c1-979b-19c4ab5dacf3
-  name: Greg Beck
+  - &ref_0
+    begin: '1992'
+    end: ''
+    instruments:
+      - trumpet
+    mbid: 3a7d6040-e5e9-452c-8f1d-263e2e9e761a
+    name: Danny O’Brien
+  - begin: '2008'
+    end: '2010'
+    instruments: []
+    mbid: a016a6a3-e62c-4912-8cfb-cf32cefeee93
+    name: Arjuna "RJ" Contreras
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3d3a17e6-b2a5-494c-81db-b6bd32c4e09c
+    name: Rob Avsharian
+  - begin: ''
+    end: ''
+    instruments:
+      - harmonica
+      - woodwind
+    mbid: e2fcc0d2-1510-40bb-9705-e4efff0762da
+    name: Jeff Barnes
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: eca0cd7c-9c7b-47ac-ac12-92361ed1f76c
+    name: Dave Cameron
+  - begin: ''
+    end: ''
+    instruments:
+      - percussion
+    mbid: 9c73f524-2b82-4db5-8cdb-6fb1a0634647
+    name: Joe Cripps
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bd39bc89-6c6c-4674-8e1b-11e5c017c2d1
+    name: Mike Dillon
+  - begin: ''
+    end: ''
+    instruments:
+      - accordion
+      - guitar
+      - keyboard
+    mbid: 03ba7d48-c24d-4178-8e52-82bb161a8fac
+    name: Carl Finch
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 559c0678-845a-4ab6-b33c-8cdfcc1bf726
+    name: Bubba Hernandez
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 694556ad-ca3b-4fa6-9fbb-7ed6d129c236
+    name: Mitch Marine
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f0f9a605-1a4a-42c1-979b-19c4ab5dacf3
+    name: Greg Beck
 musicbrainz_id: fdefbd57-abcd-435a-8b6c-d03cc4990efd
-origin: Denton
+origin: 'Denton, Texas, United States'
 original_members:
-- *id001
+  - *ref_0
 tags:
-- folk
+  - folk
 ---
 
 ![](brave_combo.jpg)

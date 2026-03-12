@@ -5,21 +5,21 @@ schema_version: 2
 status: active
 aliases: []
 birth_date: '1963-02-20'
-birth_place: Los Angeles, California, United States
+birth_place: 'Wrocław, Poland'
 years_active: 1980s–present
 genres:
-- jazz
+  - jazz
 instruments:
-- double bass
+  - double bass
 occupation:
-- double-bassist
-- university teacher
+  - double-bassist
+  - university teacher
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Kait_Dunton.jpg
   caption: Kait Dunton
   background: non_vocal_instrumentalist
   born: '1963-02-20'
-  origin: Los Angeles, California, United States
+  origin: 'Los Angeles, California, United States'
 audio_profile:
   tempo_avg: 112.3
   energy_avg: 0.392
@@ -35,54 +35,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jake Reed
-  - Cooper Appelt
-  - Dane Alderson
-  - Snarky Puppy
+    - Jake Reed
+    - Cooper Appelt
+    - Dane Alderson
+    - Snarky Puppy
   influenced:
-  - Students at Los Angeles College of Music
+    - Students at Los Angeles College of Music
   mentors:
-  - John D’earth
-  - Bob Mintzer
+    - John D’earth
+    - Bob Mintzer
 related_artists: []
 spotify_data:
   followers: 13285
   id: 2uKlChPlTr6ONNvdtjZdRs
   popularity: 27
-  url: https://open.spotify.com/artist/2uKlChPlTr6ONNvdtjZdRs
+  url: 'https://open.spotify.com/artist/2uKlChPlTr6ONNvdtjZdRs'
   verified: false
 discography_enriched: true
 albums_count: 12
 singles_count: 10
 top_tracks:
-- this one's for you (Keyboards)
-- Real & Imagined (Real & Imagined)
-- Wil's Theme (trioKAIT)
-- The Lighthouse (Keyboards)
-- this one's for you (this one's for you)
-- Prelude (trioKAIT)
-- We Wish You a Merry Christmas
-- 50 Freeways (trioKAIT)
-- Epilogue (Real & Imagined)
-- Be Thankful for What You Got (Be Thankful for What You Got)
+  - this one's for you (Keyboards)
+  - Real & Imagined (Real & Imagined)
+  - Wil's Theme (trioKAIT)
+  - The Lighthouse (Keyboards)
+  - this one's for you (this one's for you)
+  - Prelude (trioKAIT)
+  - We Wish You a Merry Christmas
+  - 50 Freeways (trioKAIT)
+  - Epilogue (Real & Imagined)
+  - Be Thankful for What You Got (Be Thankful for What You Got)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/2uKlChPlTr6ONNvdtjZdRs
-  wikipedia: https://en.wikipedia.org/wiki/Darek_Oleszkiewicz
+  spotify: 'https://open.spotify.com/artist/2uKlChPlTr6ONNvdtjZdRs'
+  wikipedia: 'https://en.wikipedia.org/wiki/Darek_Oleszkiewicz'
 image_path: 03_Resources/source_material/ArtistPortraits/Kait_Dunton.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:38:45.402189'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://music.usc.edu/spotlights/becoming-what-she-never-had/
-- https://www.kaitdunton.com/about
-- https://www.allaboutjazz.com/musicians/kait-dunton/
-- https://www.popmatters.com/kait-dunton-triokait-2-2575274676.html
+  - 'https://music.usc.edu/spotlights/becoming-what-she-never-had/'
+  - 'https://www.kaitdunton.com/about'
+  - 'https://www.allaboutjazz.com/musicians/kait-dunton/'
+  - 'https://www.popmatters.com/kait-dunton-triokait-2-2575274676.html'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 12:53:02.970223
+entry_created: 2025-09-18T12:53:02.970Z
 last_updated: '2025-12-23T08:16:02.792755'
+artist_type: person
 ---
 
 ![](Kait_Dunton.jpg)

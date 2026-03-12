@@ -1,22 +1,22 @@
 ---
 wiki_slug: leon-pinson
 schema_version: 2
-birth_place: Union County, Mississippi, USA
+birth_place: 'Union County, Mississippi, USA'
 genres:
-- country blues
-- ragtime
+  - country blues
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/leon_pinson.jpg
   caption: leon pinson
   background: solo_singer
-  origin: Union County, Mississippi, USA
+  origin: 'Union County, Mississippi, USA'
 audio_profile:
   tempo_avg: 114.2
   energy_avg: 0.157
   valence_avg: 0.44
   danceability_avg: 0.544
   acousticness_avg: 0.91
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -11.5
   speechiness_avg: 0.045
   liveness_avg: 0.155
@@ -25,34 +25,39 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Elder Roma Wilson
+    - Elder Roma Wilson
   influenced: []
   mentors: []
 discography_enriched: true
 top_tracks:
-- What God Can Do (The George Mitchell Collection)
-- Motherless Child (The George Mitchell Collection Vol. 1)
-- Hush, Somebody Is Calling My Name (The George Mitchell Collection Vol. 1)
-- What God Can Do (The George Mitchell Collection Vol. 1)
-- He'll Understand and Say Well Done (The George Mitchell Collection Vol. 1)
-- Only Believe (The George Mitchell Collection)
-- Blessed Questions (The George Mitchell Collection)
-- I Have a Saviour I Can Depend On (The George Mitchell Collection)
-- Motherless Child (The George Mitchell Collection)
-- Hush (Somebody Is Calling Me) (The George Mitchell Collection)
+  - What God Can Do (The George Mitchell Collection)
+  - Motherless Child (The George Mitchell Collection Vol. 1)
+  - 'Hush, Somebody Is Calling My Name (The George Mitchell Collection Vol. 1)'
+  - What God Can Do (The George Mitchell Collection Vol. 1)
+  - He'll Understand and Say Well Done (The George Mitchell Collection Vol. 1)
+  - Only Believe (The George Mitchell Collection)
+  - Blessed Questions (The George Mitchell Collection)
+  - I Have a Saviour I Can Depend On (The George Mitchell Collection)
+  - Motherless Child (The George Mitchell Collection)
+  - Hush (Somebody Is Calling Me) (The George Mitchell Collection)
 external_urls:
-  spotify: https://open.spotify.com/artist/03rmjZ5WbES5vTpfjziOtB
+  spotify: 'https://open.spotify.com/artist/03rmjZ5WbES5vTpfjziOtB'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/leon_pinson.jpg
 biography_enhanced_at: '2025-12-12T12:10:13.913535'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://studylib.net/doc/8127314/for-the-visually-impaired
+  - 'https://studylib.net/doc/8127314/for-the-visually-impaired'
 network_extracted: true
 entry_created: '2025-12-12T12:10:13.913547'
 last_updated: '2025-12-23T08:16:11.808351'
----the-mississippi-blues-trail
+title: Leon Pinson
+birth_date: '1919-01-11'
+death_date: '1998-10-10'
+artist_type: person
+---
+the-mississippi-blues-trail
 - https://www.loc.gov/static/programs/national-recording-preservation-board/documents/CrescentCityLivingLegends.pdf
 - https://sundayblues.org/?tag=leon-pinson
 - https://store.greennoiserecords.com/products/pinson-rev-leon-hush-somebody-is-calling-me-new-7

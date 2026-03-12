@@ -5,9 +5,9 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1991-05-26'
-birth_place: Compton
+birth_place: 'Compton, California, United States'
 genres:
-- hip house
+  - hip house
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/channel_tres.jpg
   caption: Channel Tres
@@ -29,58 +29,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tyler, The Creator
-  - Tinashe
-  - Kehlani
-  - JPEGMAFIA
-  - Duckwrth
+    - 'Tyler, The Creator'
+    - Tinashe
+    - Kehlani
+    - JPEGMAFIA
+    - Duckwrth
   influenced: []
   mentors:
-  - Grandparents
+    - Grandparents
 spotify_data:
   followers: 349602
   id: 4cUkGQyhLFqKHBtL58HYVp
   popularity: 59
-  url: https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp
+  url: 'https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp'
 discography_enriched: true
 top_tracks:
-- I've Been In Love (Volcano)
-- Topdown
-- Tunnel (Cyclorama)
-- 24h In A Disco
-- Drip Sweat (feat. Channel Tres) (TIMELESS)
-- All that Glitters is not Gold
-- Cafuné (butter version) (butter)
-- Cafuné (BREAD)
-- Sexy Black Timberlake
-- Attention Whore (feat. Channel Tres) (Dirt Femme)
+  - I've Been In Love (Volcano)
+  - Topdown
+  - Tunnel (Cyclorama)
+  - 24h In A Disco
+  - Drip Sweat (feat. Channel Tres) (TIMELESS)
+  - All that Glitters is not Gold
+  - Cafuné (butter version) (butter)
+  - Cafuné (BREAD)
+  - Sexy Black Timberlake
+  - Attention Whore (feat. Channel Tres) (Dirt Femme)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a9d53ca9-6c28-4be9-ab10-6c936a11d70b
-  spotify: https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp
-  wikipedia: https://en.wikipedia.org/wiki/Channel_Tres
+  musicbrainz: 'https://musicbrainz.org/artist/a9d53ca9-6c28-4be9-ab10-6c936a11d70b'
+  spotify: 'https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp'
+  wikipedia: 'https://en.wikipedia.org/wiki/Channel_Tres'
 image_path: 03_Resources/source_material/ArtistPortraits/channel_tres.jpg
 biography_enhanced_at: '2025-12-04T07:33:47.472768'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- FLOOD Magazine
-- Insomniac
-- PAPER Magazine
-- One Stop Watch
-- Flaunt
-- ROSTR
-- KCRW
-- Wikipedia
-- Sniffers
+  - FLOOD Magazine
+  - Insomniac
+  - PAPER Magazine
+  - One Stop Watch
+  - Flaunt
+  - ROSTR
+  - KCRW
+  - Wikipedia
+  - Sniffers
 network_extracted: true
 entry_created: '2025-12-04T07:33:47.472778'
 last_updated: '2025-12-23T08:16:06.637223'
 gender: Male
 musicbrainz_id: a9d53ca9-6c28-4be9-ab10-6c936a11d70b
 tags:
-- club
-- dance
-- hip house
+  - club
+  - dance
+  - hip house
+origin: 'Compton, California, United States'
 ---
 
 ![](channel_tres.jpg)

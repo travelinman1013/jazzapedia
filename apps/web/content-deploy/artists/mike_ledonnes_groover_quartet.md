@@ -3,41 +3,46 @@ biography_enhanced_at: '2026-01-05T07:59:32.100466'
 enhancement_provider: perplexity
 entry_created: '2026-01-05T07:59:32.100471'
 external_urls:
-  spotify: https://open.spotify.com/artist/5HOZypv3IkaUfwr6UwhOX7
-  wikipedia: https://en.wikipedia.org/wiki/Mike_LeDonne
+  spotify: 'https://open.spotify.com/artist/5HOZypv3IkaUfwr6UwhOX7'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mike_LeDonne'
 genres:
-- hard bop
-- jazz
+  - hard bop
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/mike_ledonnes_groover_quartet.jpg
 last_updated: '2026-01-05T07:59:32.100472'
 musical_connections:
   collaborators:
-  - Eric Alexander
-  - Peter Bernstein
-  - Joe Farnsworth
-  - Benny Golson
+    - Eric Alexander
+    - Peter Bernstein
+    - Joe Farnsworth
+    - Benny Golson
   influenced: []
   mentors:
-  - John Mehegan
-  - Jaki Byard
-  - Milt Jackson
+    - John Mehegan
+    - Jaki Byard
+    - Milt Jackson
 network_extracted: true
-origin: Bridgeport, Connecticut, USA
+origin: 'Bridgeport, Connecticut, USA'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Mike_LeDonne
-- https://northamptonjazzfest.org/mike-ledonnes-groover-trio
-- https://jazzprofiles.blogspot.com/2021/02/a-conversation-about-jazz-with-mike.html
-- http://mikeledonne.org/about/
-- https://jazzjournal.co.uk/2020/04/06/mike-ledonne-working-the-magic-of-the-black-aesthetic-of-jazz/
-- https://lydialiebman.com/index.php/project/mike-ledonne/
+  - 'https://en.wikipedia.org/wiki/Mike_LeDonne'
+  - 'https://northamptonjazzfest.org/mike-ledonnes-groover-trio'
+  - >-
+    https://jazzprofiles.blogspot.com/2021/02/a-conversation-about-jazz-with-mike.html
+  - 'http://mikeledonne.org/about/'
+  - >-
+    https://jazzjournal.co.uk/2020/04/06/mike-ledonne-working-the-magic-of-the-black-aesthetic-of-jazz/
+  - 'https://lydialiebman.com/index.php/project/mike-ledonne/'
 spotify_data:
   followers: 3000
   id: 5HOZypv3IkaUfwr6UwhOX7
   popularity: 15
-  url: https://open.spotify.com/artist/5HOZypv3IkaUfwr6UwhOX7
+  url: 'https://open.spotify.com/artist/5HOZypv3IkaUfwr6UwhOX7'
 status: active
-title: MIKE LEDONNE'S GROOVER QUARTET
+title: Mike Ledonne's Groover Quartet
+birth_place: 'Bridgeport, Connecticut, United States'
+birth_date: '1956-10-26'
+artist_type: band
 ---
 
 ![](mike_ledonnes_groover_quartet.jpg)

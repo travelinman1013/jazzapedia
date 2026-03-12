@@ -2,23 +2,23 @@
 title: The Ink Spots
 wiki_slug: the-ink-spots
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 birth_date: '1932'
 genres:
-- adult standards
+  - adult standards
 instruments:
-- original
-- tenor vocals
-- bass
-- bass vocals
+  - original
+  - tenor vocals
+  - bass
+  - bass vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/The_Ink_Spots.jpg
   caption: The Ink Spots
   background: solo_singer
   born: '1932'
 audio_profile:
-  tempo_avg: 96.0
+  tempo_avg: 96
   energy_avg: 0.12
   valence_avg: 0.352
   danceability_avg: 0.535
@@ -32,56 +32,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ella Fitzgerald
-  - Bill Kenny
-  - Ivory 'Deek' Watson, Orville 'Hoppy' Jones, Jerry Daniels, Charlie Fuqua
+    - Ella Fitzgerald
+    - Bill Kenny
+    - 'Ivory ''Deek'' Watson, Orville ''Hoppy'' Jones, Jerry Daniels, Charlie Fuqua'
   influenced:
-  - The Ravens
-  - The Orioles
-  - The Temptations (Motown)
+    - The Ravens
+    - The Orioles
+    - The Temptations (Motown)
   mentors:
-  - Mills Brothers
+    - Mills Brothers
 spotify_data:
   followers: 379167
   id: 5bOsFzuJ6QZMr86ezC4oXY
   popularity: 54
-  url: https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY
+  url: 'https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY'
 discography_enriched: true
 top_tracks:
-- I Don't Want To Set The World On Fire (The Anthology)
-- Maybe (The Anthology)
-- We'll Meet Again (The Anthology)
-- Into Each Life Some Rain Must Fall - Single Version
-- We Three (My Echo, My Shadow, And Me) (The Anthology)
-- If I Didn't Care (The Anthology)
-- I'm Beginning To See The Light (The Anthology)
-- Address Unknown (The Anthology)
-- I'm Making Believe (The Anthology)
-- 'It''s A Sin To Tell A Lie (If I Didn''t Care: An Anthology)'
+  - I Don't Want To Set The World On Fire (The Anthology)
+  - Maybe (The Anthology)
+  - We'll Meet Again (The Anthology)
+  - Into Each Life Some Rain Must Fall - Single Version
+  - 'We Three (My Echo, My Shadow, And Me) (The Anthology)'
+  - If I Didn't Care (The Anthology)
+  - I'm Beginning To See The Light (The Anthology)
+  - Address Unknown (The Anthology)
+  - I'm Making Believe (The Anthology)
+  - 'It''s A Sin To Tell A Lie (If I Didn''t Care: An Anthology)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/75f47650-8a52-494a-8334-c5279bc6db09
-  spotify: https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY
-  wikipedia: https://en.wikipedia.org/wiki/The_Ink_Spots
+  musicbrainz: 'https://musicbrainz.org/artist/75f47650-8a52-494a-8334-c5279bc6db09'
+  spotify: 'https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Ink_Spots'
 image_path: 03_Resources/source_material/ArtistPortraits/The_Ink_Spots.jpg
 biography_enhanced_at: '2025-10-19T12:25:26.140885'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://vocalgroup.org/inductees/the-ink-spots/
-- https://indyencyclopedia.org/the-ink-spots/
-- https://www.britannica.com/topic/the-Ink-Spots
-- https://en.wikipedia.org/wiki/The_Ink_Spots
-- https://www.edsullivan.com/celebrating-black-music-month-the-legacy-of-the-ink-spots/
+  - 'https://vocalgroup.org/inductees/the-ink-spots/'
+  - 'https://indyencyclopedia.org/the-ink-spots/'
+  - 'https://www.britannica.com/topic/the-Ink-Spots'
+  - 'https://en.wikipedia.org/wiki/The_Ink_Spots'
+  - >-
+    https://www.edsullivan.com/celebrating-black-music-month-the-legacy-of-the-ink-spots/
 network_extracted: true
 entry_created: '2025-10-19T12:25:26.140899'
 last_updated: '2025-12-23T08:16:04.086132'
 musicbrainz_enriched_at: '2025-10-21T09:46:07.361663'
 musicbrainz_id: 75f47650-8a52-494a-8334-c5279bc6db09
-origin: Indianapolis, Indiana, United States
+origin: 'Indianapolis, Indiana, United States'
 tags:
-- 2008 universal fire victim
-- blues
-- doo-wop
+  - 2008 universal fire victim
+  - blues
+  - doo-wop
+birth_place: Indianapolis
 ---
 
 ![](The_Ink_Spots.jpg)

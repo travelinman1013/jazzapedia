@@ -5,17 +5,17 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1971-10-20'
-birth_place: Chicago
+birth_place: 'Chicago, Illinois, United States'
 genres: []
 instruments:
-- trumpet
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - trumpet
-  mbid: 564ce54b-bed1-4e75-aa2b-803934b43c85
-  name: The Soultronics
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: 564ce54b-bed1-4e75-aa2b-803934b43c85
+    name: The Soultronics
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/russell_gunn.jpg
   caption: Russell Gunn
@@ -37,55 +37,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Oliver Lake
-  - Wynton Marsalis
-  - Branford Marsalis
-  - Dionne Farris
-  - Marcus Miller
+    - Oliver Lake
+    - Wynton Marsalis
+    - Branford Marsalis
+    - Dionne Farris
+    - Marcus Miller
   influenced:
-  - Contemporary Jazz Musicians (unnamed)
+    - Contemporary Jazz Musicians (unnamed)
   mentors:
-  - Ron Carter (band director)
-  - LL Cool J
+    - Ron Carter (band director)
+    - LL Cool J
 spotify_data:
   followers: 2484
   id: 17XYgRhCyRrZF0HF19pStk
   popularity: 10
-  url: https://open.spotify.com/artist/17XYgRhCyRrZF0HF19pStk
+  url: 'https://open.spotify.com/artist/17XYgRhCyRrZF0HF19pStk'
 discography_enriched: true
 top_tracks:
-- I'm in Love with a Stripper (Love Stories)
-- February Wind
-- It Don't Mean A Thing (If It Ain't Got That Go-Go Swing) (Ethnomusicology, Vol. 2)
-- Caravan (Ethnomusicology, Vol. 2)
-- East St. Louis (Ethnomusicology, Vol. 3)
-- Epistrophy (Ethnomusicology, Vol. 2)
-- You Don't Know What Love Is (Young Gunn Plus)
-- Variations (On a Conspiracy Theory) (Ethnomusicology, Vol. 3)
-- Sybil's Blues (Ethnomusicology)
-- On Green Dolphin Street (The Head Shakers)
+  - I'm in Love with a Stripper (Love Stories)
+  - February Wind
+  - >-
+    It Don't Mean A Thing (If It Ain't Got That Go-Go Swing) (Ethnomusicology,
+    Vol. 2)
+  - 'Caravan (Ethnomusicology, Vol. 2)'
+  - 'East St. Louis (Ethnomusicology, Vol. 3)'
+  - 'Epistrophy (Ethnomusicology, Vol. 2)'
+  - You Don't Know What Love Is (Young Gunn Plus)
+  - 'Variations (On a Conspiracy Theory) (Ethnomusicology, Vol. 3)'
+  - Sybil's Blues (Ethnomusicology)
+  - On Green Dolphin Street (The Head Shakers)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/fb2dc470-04ef-4fc1-8420-648f91798c17
-  spotify: https://open.spotify.com/artist/17XYgRhCyRrZF0HF19pStk
-  wikipedia: https://en.wikipedia.org/wiki/Russell_Gunn
+  musicbrainz: 'https://musicbrainz.org/artist/fb2dc470-04ef-4fc1-8420-648f91798c17'
+  spotify: 'https://open.spotify.com/artist/17XYgRhCyRrZF0HF19pStk'
+  wikipedia: 'https://en.wikipedia.org/wiki/Russell_Gunn'
 image_path: 03_Resources/source_material/ArtistPortraits/russell_gunn.jpg
 biography_enhanced_at: '2025-11-14T10:36:47.518587'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.artsatl.org/jazz-trumpeter-russell-gunn-took-the-long-road-from-east-st-louis-to-atlanta/
-- https://atljazzfest.com/artists/russell-gunn/
-- https://www.allaboutjazz.com/musicians/russell-gunn/
-- https://jazztimes.com/archives/russell-gunn
-- https://justin-time.com/collections/russell-gunn
-- https://www.colum.edu/news-and-events/articles/2020/russell-gunn-on-the-trumpet-and-building-a-life-in-music
+  - >-
+    https://www.artsatl.org/jazz-trumpeter-russell-gunn-took-the-long-road-from-east-st-louis-to-atlanta/
+  - 'https://atljazzfest.com/artists/russell-gunn/'
+  - 'https://www.allaboutjazz.com/musicians/russell-gunn/'
+  - 'https://jazztimes.com/archives/russell-gunn'
+  - 'https://justin-time.com/collections/russell-gunn'
+  - >-
+    https://www.colum.edu/news-and-events/articles/2020/russell-gunn-on-the-trumpet-and-building-a-life-in-music
 network_extracted: true
 entry_created: '2025-11-14T10:36:47.518596'
 last_updated: '2025-12-23T08:16:15.217489'
 gender: Male
 musicbrainz_id: fb2dc470-04ef-4fc1-8420-648f91798c17
 tags:
-- jazz
+  - jazz
+origin: 'East St. Louis, Illinois, United States'
 ---
 
 ![](russell_gunn.jpg)

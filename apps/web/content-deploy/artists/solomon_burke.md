@@ -1,22 +1,22 @@
 ---
-title: solomon burke
+title: Solomon Burke
 wiki_slug: solomon-burke
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1940-03-21'
-birth_place: Philadelphia, Pennsylvania, United States
+birth_place: 'Philadelphia, Pennsylvania, United States'
 death_date: '2010-10-10'
 genres:
-- soul
-- soul blues
-- motown
+  - soul
+  - soul blues
+  - motown
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/solomon_burke.jpg
   caption: solomon burke
   background: solo_singer
   born: '1940-03-21'
-  origin: Philadelphia, Pennsylvania, United States
+  origin: 'Philadelphia, Pennsylvania, United States'
   died: '2010-10-10'
 audio_profile:
   tempo_avg: 116.5
@@ -33,44 +33,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kae 'Loudmouth' Williams
-  - Atlantic Records team (Jerry Wexler, Bert Berns)
+    - Kae 'Loudmouth' Williams
+    - 'Atlantic Records team (Jerry Wexler, Bert Berns)'
   influenced:
-  - The Rolling Stones
-  - Wilson Pickett
-  - Van Morrison
+    - The Rolling Stones
+    - Wilson Pickett
+    - Van Morrison
   mentors:
-  - Gospel tradition
+    - Gospel tradition
 spotify_data:
   followers: 292348
   id: 4nts0oxMT67lVUoi5Kjxrb
   popularity: 53
-  url: https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb
+  url: 'https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb'
 discography_enriched: true
 top_tracks:
-- Cry to Me (Rock 'N Soul)
-- Cry to Me
-- Cry to Me
-- Everybody Needs Somebody to Love
-- Don't Give Up On Me (Don't Give Up On Me)
-- None Of Us Are Free (Don't Give Up On Me)
-- Can't Nobody Love You (Rock 'N Soul)
-- Everybody Needs Somebody to Love (Keep the Magic Working)
-- Don't You Feel Like Crying (Live) (Soul Power Music (Live))
-- Fast Train (Don't Give Up On Me)
+  - Cry to Me (Rock 'N Soul)
+  - Cry to Me
+  - Cry to Me
+  - Everybody Needs Somebody to Love
+  - Don't Give Up On Me (Don't Give Up On Me)
+  - None Of Us Are Free (Don't Give Up On Me)
+  - Can't Nobody Love You (Rock 'N Soul)
+  - Everybody Needs Somebody to Love (Keep the Magic Working)
+  - Don't You Feel Like Crying (Live) (Soul Power Music (Live))
+  - Fast Train (Don't Give Up On Me)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d5c79890-36c5-4f1b-bed3-4468eee093f3
-  spotify: https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb
-  wikipedia: https://en.wikipedia.org/wiki/Solomon_Burke
+  musicbrainz: 'https://musicbrainz.org/artist/d5c79890-36c5-4f1b-bed3-4468eee093f3'
+  spotify: 'https://open.spotify.com/artist/4nts0oxMT67lVUoi5Kjxrb'
+  wikipedia: 'https://en.wikipedia.org/wiki/Solomon_Burke'
 image_path: 03_Resources/source_material/ArtistPortraits/solomon_burke.jpg
 biography_enhanced_at: '2025-10-19T10:56:06.874697'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Solomon_Burke
-- https://rockhall.com/inductees/solomon-burke/
-- https://top40weekly.com/solomon-burke/
-- https://bluesroadhouse.com/2022/01/26/sweet-soul-music-solomon-burke-was-a-defining-force-in-its-creation/
+  - 'https://en.wikipedia.org/wiki/Solomon_Burke'
+  - 'https://rockhall.com/inductees/solomon-burke/'
+  - 'https://top40weekly.com/solomon-burke/'
+  - >-
+    https://bluesroadhouse.com/2022/01/26/sweet-soul-music-solomon-burke-was-a-defining-force-in-its-creation/
 network_extracted: true
 entry_created: '2025-10-19T10:56:06.874708'
 last_updated: '2025-12-23T08:16:15.842667'
@@ -78,10 +79,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:55:53.695505'
 musicbrainz_id: d5c79890-36c5-4f1b-bed3-4468eee093f3
 tags:
-- ballad
-- r&b
-- soul
-
+  - ballad
+  - r&b
+  - soul
+is_active: false
 ---
 
 ![](solomon_burke.jpg)

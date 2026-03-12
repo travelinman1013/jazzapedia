@@ -5,43 +5,43 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1957-12-20'
-birth_place: Barking
+birth_place: 'Barking, Essex, England'
 genres:
-- alt country
-- folk punk
-- singer-songwriter
-- americana
+  - alt country
+  - folk punk
+  - singer-songwriter
+  - americana
 instruments:
-- eponymous
-- guitar
-- lead vocals
-- acoustic guitar
-- electric guitar
-- resonator guitar
-- electric bass guitar
-- slide guitar
-- spoken vocals
-- background vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - guitar
   - lead vocals
-  mbid: 9d0e6cb6-e0a0-475b-a6aa-35b009459d3c
-  name: Billy Bragg and the Blokes
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 04b28bef-0dc7-46f0-8a98-a091375a16a1
-  name: Billy Bragg & The Red Stars
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: df64cd25-0d23-4f4c-b6b0-6a49bc69a6df
-  name: Riff Raff
+  - acoustic guitar
+  - electric guitar
+  - resonator guitar
+  - electric bass guitar
+  - slide guitar
+  - spoken vocals
+  - background vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - guitar
+      - lead vocals
+    mbid: 9d0e6cb6-e0a0-475b-a6aa-35b009459d3c
+    name: Billy Bragg and the Blokes
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 04b28bef-0dc7-46f0-8a98-a091375a16a1
+    name: Billy Bragg & The Red Stars
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: df64cd25-0d23-4f4c-b6b0-6a49bc69a6df
+    name: Riff Raff
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/billy_bragg.jpg
   caption: Billy Bragg
@@ -63,55 +63,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Wiggy (Nigel Wilkinson)
-  - Wilco
-  - Joe Henry
-  - Nora Guthrie
+    - Wiggy (Nigel Wilkinson)
+    - Wilco
+    - Joe Henry
+    - Nora Guthrie
   influenced:
-  - Kirsty MacColl
-  - Paul Young
+    - Kirsty MacColl
+    - Paul Young
   mentors:
-  - Woody Guthrie
+    - Woody Guthrie
 spotify_data:
   followers: 190281
   id: 5yXAFDZNUNyO92l5WTImkO
   popularity: 53
-  url: https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO
+  url: 'https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO'
 discography_enriched: true
 top_tracks:
-- California Stars (Mermaid Avenue)
-- 'When The Roses Bloom Again (Mermaid Avenue: The Complete Sessions)'
-- Way Over Yonder In The Minor Key (Mermaid Avenue)
-- A New England (Life's a Riot with Spy vs. Spy)
-- 'Gentle on My Mind (Shine a Light: Field Recordings from the Great American Railroad)'
-- Levi Stubbs' Tears (Talking with the Taxman About Poetry)
-- Walt Whitman's Niece (Mermaid Avenue)
-- Birds And Ships (Mermaid Avenue)
-- Waiting for the Great Leap Forwards (Workers Playtime)
-- One By One (Mermaid Avenue)
+  - California Stars (Mermaid Avenue)
+  - 'When The Roses Bloom Again (Mermaid Avenue: The Complete Sessions)'
+  - Way Over Yonder In The Minor Key (Mermaid Avenue)
+  - A New England (Life's a Riot with Spy vs. Spy)
+  - >-
+    Gentle on My Mind (Shine a Light: Field Recordings from the Great American
+    Railroad)
+  - Levi Stubbs' Tears (Talking with the Taxman About Poetry)
+  - Walt Whitman's Niece (Mermaid Avenue)
+  - Birds And Ships (Mermaid Avenue)
+  - Waiting for the Great Leap Forwards (Workers Playtime)
+  - One By One (Mermaid Avenue)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7cec4a03-0a83-4308-856a-afb8aa5db0fc
-  spotify: https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO
-  wikipedia: https://en.wikipedia.org/wiki/Billy_Bragg
+  musicbrainz: 'https://musicbrainz.org/artist/7cec4a03-0a83-4308-856a-afb8aa5db0fc'
+  spotify: 'https://open.spotify.com/artist/5yXAFDZNUNyO92l5WTImkO'
+  wikipedia: 'https://en.wikipedia.org/wiki/Billy_Bragg'
 image_path: 03_Resources/source_material/ArtistPortraits/billy_bragg.jpg
 biography_enhanced_at: '2025-12-12T12:14:24.871988'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Billy_Bragg
-- https://highprofiles.info/interview/billy-bragg/
-- https://www.britannica.com/biography/Billy-Bragg
-- https://btlonline.org/singer-songwriter-billy-bragg-reflects-on-his-40-years-of-political-activism-and-the-power-of-music/
+  - 'https://en.wikipedia.org/wiki/Billy_Bragg'
+  - 'https://highprofiles.info/interview/billy-bragg/'
+  - 'https://www.britannica.com/biography/Billy-Bragg'
+  - >-
+    https://btlonline.org/singer-songwriter-billy-bragg-reflects-on-his-40-years-of-political-activism-and-the-power-of-music/
 network_extracted: true
 entry_created: '2025-12-12T12:14:24.872005'
 last_updated: '2025-12-23T08:16:05.551815'
 gender: Male
 musicbrainz_id: 7cec4a03-0a83-4308-856a-afb8aa5db0fc
 tags:
-- alternative rock
-- anderson .paak
-- anti-folk
-
+  - alternative rock
+  - anderson .paak
+  - anti-folk
 ---
 
 ![](billy_bragg.jpg)

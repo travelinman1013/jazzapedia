@@ -1,42 +1,44 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-16T01:40:48.186748'
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-16T01:40:48.186754'
 external_urls:
-  spotify: https://open.spotify.com/artist/5Dmtzb4ceBV7fiHo3ZX2N2
+  spotify: 'https://open.spotify.com/artist/5Dmtzb4ceBV7fiHo3ZX2N2'
   wikipedia: ''
 genres:
-- vocal jazz
+  - vocal jazz
 image_path: 03_Resources/source_material/ArtistPortraits/phillip_manuel.jpg
 last_updated: '2026-01-16T01:40:48.186755'
 musical_connections:
   collaborators:
-  - Terence Blanchard
-  - Nicholas Payton
-  - Ellis Marsalis
-  - Peter Martin
+    - Terence Blanchard
+    - Nicholas Payton
+    - Ellis Marsalis
+    - Peter Martin
   influenced: []
   mentors:
-  - Father (name not specified)
-  - Aaron Neville
+    - Father (name not specified)
+    - Aaron Neville
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.allaboutjazz.com/love-happened-to-me-phillip-manuel-maxjazz-review-by-c-michael-bailey
-- https://www.youtube.com/watch?v=i402o3hjBQE
-- https://www.youtube.com/watch?v=twHSnYkcClM
-- https://www.athomerealtygrp.com/phillip-manuel
-- https://mackavenue.com/pages/phillip-manuel
-- https://www.allmusic.com/artist/phillip-manuel-mn0000277603
+  - >-
+    https://www.allaboutjazz.com/love-happened-to-me-phillip-manuel-maxjazz-review-by-c-michael-bailey
+  - 'https://www.youtube.com/watch?v=i402o3hjBQE'
+  - 'https://www.youtube.com/watch?v=twHSnYkcClM'
+  - 'https://www.athomerealtygrp.com/phillip-manuel'
+  - 'https://mackavenue.com/pages/phillip-manuel'
+  - 'https://www.allmusic.com/artist/phillip-manuel-mn0000277603'
 spotify_data:
   followers: 199
   id: 5Dmtzb4ceBV7fiHo3ZX2N2
   popularity: 4
-  url: https://open.spotify.com/artist/5Dmtzb4ceBV7fiHo3ZX2N2
+  url: 'https://open.spotify.com/artist/5Dmtzb4ceBV7fiHo3ZX2N2'
 status: active
-title: PHILLIP MANUEL
+title: Phillip Manuel
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](phillip_manuel.jpg)

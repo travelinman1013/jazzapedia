@@ -4,11 +4,12 @@ wiki_slug: gal-costa-caetano-veloso
 schema_version: 2
 status: active
 genres:
-- mpb
-- bossa nova
-- brazilian jazz
+  - mpb
+  - bossa nova
+  - brazilian jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/gal_costa_and_caetano_veloso.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/gal_costa_and_caetano_veloso.jpg
   caption: Gal Costa & Caetano Veloso
   background: solo_singer
 audio_profile:
@@ -26,49 +27,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Gilberto Gil
-  - Maria Bethânia
-  - Tom Zé
-  - Tim Maia
-  - Chico Buarque
+    - Gilberto Gil
+    - Maria Bethânia
+    - Tom Zé
+    - Tim Maia
+    - Chico Buarque
   influenced:
-  - David Byrne
+    - David Byrne
   mentors:
-  - João Gilberto
+    - João Gilberto
 spotify_data:
   followers: 1224327
   id: 1b8kpp4DUwt1hWaxTiWQhD
   popularity: 64
-  url: https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD
+  url: 'https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD'
 discography_enriched: true
 top_tracks:
-- Lágrimas (QVVJFA?)
-- Azul (Minha Voz)
-- Força Estranha (Gal Tropical)
-- Eternamente (Baby Gal)
-- Palavras No Corpo (A Pele do Futuro)
-- Palavras No Corpo
-- Baby (Gal Costa)
-- Que Pena (Ele Já Não Gosta Mais De Mim) (Gal Costa)
-- Você Não Entende Nada (Divino Maravilhoso - Gal Costa Interpreta Caetano Veloso (CD 1))
-- Folhetim (Agua Viva)
+  - Lágrimas (QVVJFA?)
+  - Azul (Minha Voz)
+  - Força Estranha (Gal Tropical)
+  - Eternamente (Baby Gal)
+  - Palavras No Corpo (A Pele do Futuro)
+  - Palavras No Corpo
+  - Baby (Gal Costa)
+  - Que Pena (Ele Já Não Gosta Mais De Mim) (Gal Costa)
+  - >-
+    Você Não Entende Nada (Divino Maravilhoso - Gal Costa Interpreta Caetano
+    Veloso (CD 1))
+  - Folhetim (Agua Viva)
 external_urls:
-  spotify: https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD
-  wikipedia: https://en.wikipedia.org/wiki/Gal_Costa
+  spotify: 'https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD'
+  wikipedia: 'https://en.wikipedia.org/wiki/Gal_Costa'
 image_path: 03_Resources/source_material/ArtistPortraits/gal_costa_and_caetano_veloso.jpg
 biography_enhanced_at: '2025-12-23T02:05:39.256052'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://bahia.ws/en/biografia-da-cantora-gal-costa/
-- https://www.britannica.com/biography/Caetano-Veloso
-- https://www.laphil.com/musicdb/artists/8259/caetano-veloso
-- https://en.wikipedia.org/wiki/Gal_Costa
-- https://www.allaboutjazz.com/musicians/gal-costa/
-- https://sofiarwillcox.wixsite.com/cinefilosof/post/her-name-is-gal-the-muse-and-intersectional-resistance-symbol
+  - 'https://bahia.ws/en/biografia-da-cantora-gal-costa/'
+  - 'https://www.britannica.com/biography/Caetano-Veloso'
+  - 'https://www.laphil.com/musicdb/artists/8259/caetano-veloso'
+  - 'https://en.wikipedia.org/wiki/Gal_Costa'
+  - 'https://www.allaboutjazz.com/musicians/gal-costa/'
+  - >-
+    https://sofiarwillcox.wixsite.com/cinefilosof/post/her-name-is-gal-the-muse-and-intersectional-resistance-symbol
 network_extracted: true
 entry_created: '2025-12-23T02:05:39.256065'
 last_updated: '2025-12-23T08:16:08.942457'
+origin: 'Salvador, Bahia, Brazil'
+artist_type: band
 ---
 
 ![](gal_costa_and_caetano_veloso.jpg)

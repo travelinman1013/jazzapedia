@@ -2,14 +2,14 @@
 title: Talking Heads
 wiki_slug: talking-heads
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1974'
 genres:
-- new wave
-- post-punk
+  - new wave
+  - post-punk
 instruments:
-- original
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/talking_heads.jpg
   caption: Talking Heads
@@ -30,80 +30,85 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jerry Harrison
-  - Tina Weymouth
-  - Chris Frantz
-  - Jonathan Demme
+    - Jerry Harrison
+    - Tina Weymouth
+    - Chris Frantz
+    - Jonathan Demme
   influenced:
-  - Post-punk and new wave artists
+    - Post-punk and new wave artists
   mentors:
-  - Brian Eno
+    - Brian Eno
 spotify_data:
   followers: 2879698
   id: 2x9SpqnPi8rlE9pjHBwmSC
   popularity: 70
-  url: https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC
+  url: 'https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC'
 discography_enriched: true
 top_tracks:
-- Psycho Killer - 2005 Remaster (Talking Heads '77 (Deluxe Version))
-- This Must Be the Place (Naive Melody) - 2005 Remaster (Speaking in Tongues (Deluxe Version))
-- Once in a Lifetime - 2005 Remaster (Remain in Light (Deluxe Version))
-- Burning Down the House
-- And She Was (Little Creatures)
-- Road to Nowhere - 2005 Remaster (Little Creatures)
-- Psycho Killer (Talking Heads '77)
-- And She Was - 2005 Remaster (Little Creatures)
-- Take Me to the River - 2005 Remaster (More Songs About Buildings and Food (Deluxe Version))
-- Once in a Lifetime (Remain in Light)
+  - Psycho Killer - 2005 Remaster (Talking Heads '77 (Deluxe Version))
+  - >-
+    This Must Be the Place (Naive Melody) - 2005 Remaster (Speaking in Tongues
+    (Deluxe Version))
+  - Once in a Lifetime - 2005 Remaster (Remain in Light (Deluxe Version))
+  - Burning Down the House
+  - And She Was (Little Creatures)
+  - Road to Nowhere - 2005 Remaster (Little Creatures)
+  - Psycho Killer (Talking Heads '77)
+  - And She Was - 2005 Remaster (Little Creatures)
+  - >-
+    Take Me to the River - 2005 Remaster (More Songs About Buildings and Food
+    (Deluxe Version))
+  - Once in a Lifetime (Remain in Light)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a94a7155-c79d-4409-9fcf-220cb0e4dc3a
-  spotify: https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC
-  wikipedia: https://en.wikipedia.org/wiki/Talking_Heads
+  musicbrainz: 'https://musicbrainz.org/artist/a94a7155-c79d-4409-9fcf-220cb0e4dc3a'
+  spotify: 'https://open.spotify.com/artist/2x9SpqnPi8rlE9pjHBwmSC'
+  wikipedia: 'https://en.wikipedia.org/wiki/Talking_Heads'
 image_path: 03_Resources/source_material/ArtistPortraits/talking_heads.jpg
 biography_enhanced_at: '2025-12-04T07:42:43.650292'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Last.fm - Talking Heads Biography
-- Britannica - Talking Heads
-- Wikipedia - Talking Heads
-- Open Culture - A Brief History of Talking Heads
-- TeachRock.org - Talking Heads
-- The Nation - The Life and Times of Talking Heads
+  - Last.fm - Talking Heads Biography
+  - Britannica - Talking Heads
+  - Wikipedia - Talking Heads
+  - Open Culture - A Brief History of Talking Heads
+  - TeachRock.org - Talking Heads
+  - The Nation - The Life and Times of Talking Heads
 network_extracted: true
 entry_created: '2025-12-04T07:42:43.650303'
 last_updated: '2025-12-23T08:16:16.370211'
 members:
-- begin: '1975'
-  end: '1991'
-  instruments:
-  - original
-  mbid: d4659efb-b8eb-4f03-95e9-f69ce35967a9
-  name: David Byrne
-- begin: '1975'
-  end: '1991'
-  instruments:
-  - original
-  mbid: 7ff991d9-87d6-40f4-b534-a65426bf5ac4
-  name: Chris Frantz
-- begin: '1975'
-  end: '1991'
-  instruments:
-  - original
-  mbid: 2fc6a88a-ed26-479a-9cd8-355830653062
-  name: Tina Weymouth
-- begin: '1977'
-  end: '1991'
-  instruments:
-  - original
-  mbid: 675f9fe6-7e2c-4ce7-b3dc-147169c64d31
-  name: Jerry Harrison
+  - begin: '1975'
+    end: '1991'
+    instruments:
+      - original
+    mbid: d4659efb-b8eb-4f03-95e9-f69ce35967a9
+    name: David Byrne
+  - begin: '1975'
+    end: '1991'
+    instruments:
+      - original
+    mbid: 7ff991d9-87d6-40f4-b534-a65426bf5ac4
+    name: Chris Frantz
+  - begin: '1975'
+    end: '1991'
+    instruments:
+      - original
+    mbid: 2fc6a88a-ed26-479a-9cd8-355830653062
+    name: Tina Weymouth
+  - begin: '1977'
+    end: '1991'
+    instruments:
+      - original
+    mbid: 675f9fe6-7e2c-4ce7-b3dc-147169c64d31
+    name: Jerry Harrison
 musicbrainz_id: a94a7155-c79d-4409-9fcf-220cb0e4dc3a
-origin: New York
+origin: 'New York City, New York, United States'
 tags:
-- 80s
-- american
-- art pop
+  - 80s
+  - american
+  - art pop
+birth_place: 'Providence, Rhode Island, United States'
 ---
 
 ![](talking_heads.jpg)

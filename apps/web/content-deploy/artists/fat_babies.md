@@ -1,11 +1,11 @@
 ---
-title: Fat Babies
+title: The Fat Babies
 wiki_slug: fat-babies
 schema_version: 2
 status: active
 genres:
-- ragtime
-- swing music
+  - ragtime
+  - swing music
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/fat_babies.jpg
   caption: Fat Babies
@@ -25,48 +25,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Andy Schumm
-  - Paul Asaro
-  - Jonathan Doyle
-  - Cellar Boys
+    - Andy Schumm
+    - Paul Asaro
+    - Jonathan Doyle
+    - Cellar Boys
   influenced:
-  - Chicago Bar Jazz Scene
+    - Chicago Bar Jazz Scene
   mentors:
-  - Early Jazz Masters (e.g., Louis Armstrong, Jelly Roll Morton)
+    - 'Early Jazz Masters (e.g., Louis Armstrong, Jelly Roll Morton)'
 spotify_data:
   followers: 1035
   id: 284j5cWFQzVCfLtZHkl1Me
   popularity: 4
-  url: https://open.spotify.com/artist/284j5cWFQzVCfLtZHkl1Me
+  url: 'https://open.spotify.com/artist/284j5cWFQzVCfLtZHkl1Me'
 discography_enriched: true
 top_tracks:
-- Egyptian Ella (Solid Gassuh)
-- A Jazz Holiday (Diga Diga Doo)
-- Why Couldn't It Be Poor Little Me? (Diga Diga Doo)
-- My Daddy Rocks Me (Diga Diga Doo)
-- A Good Man Is Hard to Find (Diga Diga Doo)
-- Parkaway Stomp (Solid Gassuh)
-- The Stampede (18th & Racine)
-- I Can't Dance (I Got Ants in My Pants) (18th & Racine)
-- Blue (And Broken Hearted) (Diga Diga Doo)
-- Sweet Sue (Just You) (Diga Diga Doo)
+  - Egyptian Ella (Solid Gassuh)
+  - A Jazz Holiday (Diga Diga Doo)
+  - Why Couldn't It Be Poor Little Me? (Diga Diga Doo)
+  - My Daddy Rocks Me (Diga Diga Doo)
+  - A Good Man Is Hard to Find (Diga Diga Doo)
+  - Parkaway Stomp (Solid Gassuh)
+  - The Stampede (18th & Racine)
+  - I Can't Dance (I Got Ants in My Pants) (18th & Racine)
+  - Blue (And Broken Hearted) (Diga Diga Doo)
+  - Sweet Sue (Just You) (Diga Diga Doo)
 external_urls:
-  spotify: https://open.spotify.com/artist/284j5cWFQzVCfLtZHkl1Me
+  spotify: 'https://open.spotify.com/artist/284j5cWFQzVCfLtZHkl1Me'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/fat_babies.jpg
 biography_enhanced_at: '2025-11-12T14:52:36.050166'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://thefatbabies.com
-- https://syncopatedtimes.com/the-fat-babies-uptown/
-- https://jazztimes.com/reviews/albums/fat-babies-solid-gassuh-delmark/
-- https://www.wmky.org/arts-culture/2017-06-25/the-fat-babies
-- https://thefatbabies.com/fat-babies-jazz-band/
+  - 'https://thefatbabies.com'
+  - 'https://syncopatedtimes.com/the-fat-babies-uptown/'
+  - 'https://jazztimes.com/reviews/albums/fat-babies-solid-gassuh-delmark/'
+  - 'https://www.wmky.org/arts-culture/2017-06-25/the-fat-babies'
+  - 'https://thefatbabies.com/fat-babies-jazz-band/'
 network_extracted: true
 entry_created: '2025-11-12T14:52:36.050184'
 last_updated: '2025-12-23T08:16:08.576993'
-origin: Chicago, Illinois, United States
+origin: 'Chicago, Illinois, United States'
+artist_type: band
 ---
 
 ![](fat_babies.jpg)

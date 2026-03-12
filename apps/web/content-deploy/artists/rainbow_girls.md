@@ -23,47 +23,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Erin Chapin
-  - Caitlin Gowdey
-  - Vanessa May (Wilbourn)
+    - Erin Chapin
+    - Caitlin Gowdey
+    - Vanessa May (Wilbourn)
   influenced:
-  - Bay Area women musicians
+    - Bay Area women musicians
   mentors:
-  - Old Crow Medicine Show
+    - Old Crow Medicine Show
 spotify_data:
   followers: 35714
   id: 5qV8qZrppecEsKTWwCCtA7
   popularity: 34
-  url: https://open.spotify.com/artist/5qV8qZrppecEsKTWwCCtA7
+  url: 'https://open.spotify.com/artist/5qV8qZrppecEsKTWwCCtA7'
 discography_enriched: true
 top_tracks:
-- Dreams
-- Seaside Town (City of Glass)
-- Down Home Girl (Give the People What They Want)
-- Free Wine (Rolling Dumpster Fire)
-- American Dream (American Dream)
-- A Hard Rain's Gonna Fall (feat. John Craigie & Ben Morrison) (Give the People What They Want)
-- Helplessly Hoping (Give the People What They Want)
-- you must not feel the way i do (HAUNTING)
-- I Can't Believe We Were Ever Strangers
-- Honky Tonk Women (Ear Snacks)
+  - Dreams
+  - Seaside Town (City of Glass)
+  - Down Home Girl (Give the People What They Want)
+  - Free Wine (Rolling Dumpster Fire)
+  - American Dream (American Dream)
+  - >-
+    A Hard Rain's Gonna Fall (feat. John Craigie & Ben Morrison) (Give the
+    People What They Want)
+  - Helplessly Hoping (Give the People What They Want)
+  - you must not feel the way i do (HAUNTING)
+  - I Can't Believe We Were Ever Strangers
+  - Honky Tonk Women (Ear Snacks)
 external_urls:
-  spotify: https://open.spotify.com/artist/5qV8qZrppecEsKTWwCCtA7
+  spotify: 'https://open.spotify.com/artist/5qV8qZrppecEsKTWwCCtA7'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/rainbow_girls.jpg
 biography_enhanced_at: '2025-11-03T07:42:19.240583'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Rainbow+Girls/+wiki
-- https://bandonthewall.org/events/rainbow-girls/
-- https://nodepression.org/spotlight-community-and-creativity-fuel-rainbow-girls-welcome-to-whatever/
-- https://www.greennote.co.uk/production/rainbow-girls-2/
-- https://www.rainbowgirlsmusic.com/about
+  - 'https://www.last.fm/music/Rainbow+Girls/+wiki'
+  - 'https://bandonthewall.org/events/rainbow-girls/'
+  - >-
+    https://nodepression.org/spotlight-community-and-creativity-fuel-rainbow-girls-welcome-to-whatever/
+  - 'https://www.greennote.co.uk/production/rainbow-girls-2/'
+  - 'https://www.rainbowgirlsmusic.com/about'
 network_extracted: true
 entry_created: '2025-11-03T07:42:19.240590'
 last_updated: '2025-12-23T08:16:14.595857'
-origin: North Bay Area, California, United States
+origin: 'North Bay Area, California, United States'
+artist_type: band
 ---
 
 ![](rainbow_girls.jpg)

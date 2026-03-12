@@ -23,49 +23,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Marc Gilfry
-  - Jordan Feller
-  - PawPaw Rod
-  - dreamcastmoe, St. Panther, DRAMA
-  - Greg Cham, Rhythm Luna
+    - Marc Gilfry
+    - Jordan Feller
+    - PawPaw Rod
+    - 'dreamcastmoe, St. Panther, DRAMA'
+    - 'Greg Cham, Rhythm Luna'
   influenced: []
   mentors:
-  - Maxwell, Prince, The Gap Band, Bill Withers
+    - 'Maxwell, Prince, The Gap Band, Bill Withers'
 spotify_data:
   followers: 20
   id: 09gyAxvjTMKMTacxKYrHSt
   popularity: 4
-  url: https://open.spotify.com/artist/09gyAxvjTMKMTacxKYrHSt
+  url: 'https://open.spotify.com/artist/09gyAxvjTMKMTacxKYrHSt'
 discography_enriched: true
 top_tracks:
-- Palmari (Palmari)
-- Lucid Overdrive (Lucid Overdrive)
-- My Future Self (My Future Self)
-- I'm Feeling Alright (I'm Feeling Alright)
-- Time Machine (Time Machine)
-- I Am Free (I Am Free)
-- Horizon (Horizon)
-- Ragnarök (Ragnarök)
-- Need You (Need You)
-- Eavesdrop (Eavesdrop)
+  - Palmari (Palmari)
+  - Lucid Overdrive (Lucid Overdrive)
+  - My Future Self (My Future Self)
+  - I'm Feeling Alright (I'm Feeling Alright)
+  - Time Machine (Time Machine)
+  - I Am Free (I Am Free)
+  - Horizon (Horizon)
+  - Ragnarök (Ragnarök)
+  - Need You (Need You)
+  - Eavesdrop (Eavesdrop)
 external_urls:
-  spotify: https://open.spotify.com/artist/09gyAxvjTMKMTacxKYrHSt
+  spotify: 'https://open.spotify.com/artist/09gyAxvjTMKMTacxKYrHSt'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/NEIL_FRANCES_and_PawPaw_Rod.jpg
 biography_enhanced_at: '2025-10-22T06:41:42.488968'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.stereofox.com/neil-frances-high-ft-pawpaw-rod/
-- https://www.teamwass.com/music/neil-frances/
-- https://nettwerk.com/la-indie-dance-duo-neil-frances-collaborate-with-pawpaw-rod-on-high-notes/
-- http://www.masqueradeatlanta.com/attraction/pawpaw-rod/
-- https://www.allmusic.com/artist/pawpaw-rod-mn0004312862
-- https://www.stereofox.com/artists/neil-frances/
+  - 'https://www.stereofox.com/neil-frances-high-ft-pawpaw-rod/'
+  - 'https://www.teamwass.com/music/neil-frances/'
+  - >-
+    https://nettwerk.com/la-indie-dance-duo-neil-frances-collaborate-with-pawpaw-rod-on-high-notes/
+  - 'http://www.masqueradeatlanta.com/attraction/pawpaw-rod/'
+  - 'https://www.allmusic.com/artist/pawpaw-rod-mn0004312862'
+  - 'https://www.stereofox.com/artists/neil-frances/'
 network_extracted: true
 entry_created: '2025-10-22T06:41:42.488979'
 last_updated: '2025-12-23T08:16:03.386623'
-origin: Los Angeles, California, USA (NEIL FRANCES); Hawaii (birthplace) and Norman, Oklahoma, USA (upbringing) (PawPaw Rod)
+origin: >-
+  Los Angeles, California, USA (NEIL FRANCES); Hawaii (birthplace) and Norman,
+  Oklahoma, USA (upbringing) (PawPaw Rod)
+artist_type: person
 ---
 
 ![](NEIL_FRANCES_and_PawPaw_Rod.jpg)

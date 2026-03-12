@@ -1,13 +1,14 @@
 ---
-title: tony allen & hugh masakela
+title: Tony Allen & Hugh Masakela
 wiki_slug: tony-allen-hugh-masakela
 schema_version: 2
 status: active
 genres:
-- afrobeat
-- highlife
+  - afrobeat
+  - highlife
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/tony_allen_and_hugh_masakela.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/tony_allen_and_hugh_masakela.jpg
   caption: tony allen & hugh masakela
   background: solo_singer
 audio_profile:
@@ -25,48 +26,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Nick Gold
-  - Joe Armon-Jones
-  - Tom Herbert
-  - Mutale Chashi
-  - Steve Williamson
-  - Lewis Wright
+    - Nick Gold
+    - Joe Armon-Jones
+    - Tom Herbert
+    - Mutale Chashi
+    - Steve Williamson
+    - Lewis Wright
   influenced: []
   mentors:
-  - Fela Anikulapo Kuti
-  - Art Blakey
-  - Max Roach
+    - Fela Anikulapo Kuti
+    - Art Blakey
+    - Max Roach
 spotify_data:
   followers: 1346
   id: 1cZ7GjkiXns4XmU5XKJ5kp
   popularity: 7
-  url: https://open.spotify.com/artist/1cZ7GjkiXns4XmU5XKJ5kp
+  url: 'https://open.spotify.com/artist/1cZ7GjkiXns4XmU5XKJ5kp'
 discography_enriched: true
 top_tracks:
-- No Discrimination (Nigeria 70 - Funky Lagos)
-- No Discrimination (Nigeria 70 - Funky Lagos)
-- No Discrimination (Nigeria 70 - Funky Lagos)
-- No Discrimination (Nigeria 70 - Funky Lagos)
-- No Discrimination (Nigeria 70 Vol. 1)
-- No Discrimination (Nigeria 70 - Funky Lagos)
-- No Discrimination (Nigeria 70 Vol. 1)
-- No Discrimination (Nigeria 70 - Funky Lagos)
+  - No Discrimination (Nigeria 70 - Funky Lagos)
+  - No Discrimination (Nigeria 70 - Funky Lagos)
+  - No Discrimination (Nigeria 70 - Funky Lagos)
+  - No Discrimination (Nigeria 70 - Funky Lagos)
+  - No Discrimination (Nigeria 70 Vol. 1)
+  - No Discrimination (Nigeria 70 - Funky Lagos)
+  - No Discrimination (Nigeria 70 Vol. 1)
+  - No Discrimination (Nigeria 70 - Funky Lagos)
 external_urls:
-  spotify: https://open.spotify.com/artist/1cZ7GjkiXns4XmU5XKJ5kp
-  wikipedia: https://en.wikipedia.org/wiki/Rejoice_(Tony_Allen_and_Hugh_Masekela_album)
+  spotify: 'https://open.spotify.com/artist/1cZ7GjkiXns4XmU5XKJ5kp'
+  wikipedia: 'https://en.wikipedia.org/wiki/Rejoice_(Tony_Allen_and_Hugh_Masekela_album)'
 image_path: ''
 biography_enhanced_at: '2025-11-16T20:22:26.358632'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://intro.africa/story/tony-allen-hugh-masekela-the-story-of-rejoice/
-- https://www.popmatters.com/tony-allen-hugh-masekela-rejoice-2645824912.html
-- https://relix.com/articles/detail/a-final-conversation-with-fela-kuti-drumming-pioneer-tony-allen/
-- https://www.wbgo.org/music/2020-01-27/hear-the-late-hugh-masekela-and-living-legend-tony-allen-among-other-alliances-in-take-five
-- https://en.wikipedia.org/wiki/Rejoice_(Tony_Allen_and_Hugh_Masekela_album)
+  - 'https://intro.africa/story/tony-allen-hugh-masekela-the-story-of-rejoice/'
+  - 'https://www.popmatters.com/tony-allen-hugh-masekela-rejoice-2645824912.html'
+  - >-
+    https://relix.com/articles/detail/a-final-conversation-with-fela-kuti-drumming-pioneer-tony-allen/
+  - >-
+    https://www.wbgo.org/music/2020-01-27/hear-the-late-hugh-masekela-and-living-legend-tony-allen-among-other-alliances-in-take-five
+  - 'https://en.wikipedia.org/wiki/Rejoice_(Tony_Allen_and_Hugh_Masekela_album)'
 network_extracted: true
 entry_created: '2025-11-16T20:22:26.358640'
 last_updated: '2025-12-23T08:16:17.599740'
+birth_place: 'Lagos, Lagos State, Nigeria'
+origin: 'Lagos, Lagos State, Nigeria / Johannesburg, Gauteng, South Africa'
+birth_date: '1940'
+artist_type: band
 ---
 
 ![]()

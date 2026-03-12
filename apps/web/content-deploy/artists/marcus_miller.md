@@ -5,50 +5,50 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1959-06-14'
-birth_place: Brooklyn
+birth_place: 'Brooklyn, New York, United States'
 genres:
-- jazz fusion
-- jazz funk
-- jazz
+  - jazz fusion
+  - jazz funk
+  - jazz
 instruments:
-- bass guitar
-- choir vocals
-- electric bass guitar
-- Rhodes piano
-- guitar
-- electric guitar
-- Wurlitzer electric piano
-- electric piano
-- piano
-- acoustic guitar
-- acoustic bass guitar
-- background vocals
-- lead vocals
-- other vocals
+  - bass guitar
+  - choir vocals
+  - electric bass guitar
+  - Rhodes piano
+  - guitar
+  - electric guitar
+  - Wurlitzer electric piano
+  - electric piano
+  - piano
+  - acoustic guitar
+  - acoustic bass guitar
+  - background vocals
+  - lead vocals
+  - other vocals
 associated_acts:
-- begin: '1988'
-  end: '1988'
-  instruments:
-  - bass guitar
-  mbid: 54f2aebb-6b6e-438f-95d9-48f9628499a2
-  name: The Sunday Night Band
-- begin: '1989'
-  end: '1989'
-  instruments:
-  - bass guitar
-  mbid: 54f2aebb-6b6e-438f-95d9-48f9628499a2
-  name: The Sunday Night Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b51264b7-ffc5-4b0a-9e74-6e92bf156e7d
-  name: S. M. V.
-- begin: ''
-  end: ''
-  instruments:
-  - bass guitar
-  mbid: 970a5ec1-4460-4c8a-bbdf-0b763ccd1f3d
-  name: Legends
+  - begin: '1988'
+    end: '1988'
+    instruments:
+      - bass guitar
+    mbid: 54f2aebb-6b6e-438f-95d9-48f9628499a2
+    name: The Sunday Night Band
+  - begin: '1989'
+    end: '1989'
+    instruments:
+      - bass guitar
+    mbid: 54f2aebb-6b6e-438f-95d9-48f9628499a2
+    name: The Sunday Night Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b51264b7-ffc5-4b0a-9e74-6e92bf156e7d
+    name: S. M. V.
+  - begin: ''
+    end: ''
+    instruments:
+      - bass guitar
+    mbid: 970a5ec1-4460-4c8a-bbdf-0b763ccd1f3d
+    name: Legends
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/marcus_miller.jpg
   caption: Marcus Miller
@@ -56,7 +56,7 @@ infobox:
   born: '1959-06-14'
   origin: Brooklyn
 audio_profile:
-  tempo_avg: 111.0
+  tempo_avg: 111
   energy_avg: 0.523
   valence_avg: 0.617
   danceability_avg: 0.659
@@ -70,51 +70,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Miles Davis
-  - Luther Vandross
-  - Herbie Hancock
-  - David Sanborn
-  - Eric Clapton
-  - Stanley Clarke
-  - Victor Wooten
-  - Wayne Shorter
+    - Miles Davis
+    - Luther Vandross
+    - Herbie Hancock
+    - David Sanborn
+    - Eric Clapton
+    - Stanley Clarke
+    - Victor Wooten
+    - Wayne Shorter
   influenced:
-  - Fledgling bass musicians
+    - Fledgling bass musicians
   mentors:
-  - James Jamerson
-  - Larry Graham
-  - Wynton Kelly
+    - James Jamerson
+    - Larry Graham
+    - Wynton Kelly
 spotify_data:
   followers: 287515
   id: 6fmq5mv6HnduZdlTOEYBC9
   popularity: 44
-  url: https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9
+  url: 'https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9'
 discography_enriched: true
 top_tracks:
-- Que Sera Sera (Laid Black)
-- Detroit (Renaissance)
-- On the Road
-- Free (feat. Corinne Bailey Rae) (Free)
-- Power (M²)
-- Via Dolorosa
-- 7-T's (Laid Black)
-- Candy Cane Lane (Candy Cane Lane (Original Motion Picture Soundtrack))
-- Haunting Me (Night-Lines)
-- For the Love of Freedom (Marshall (Original Motion Picture Soundtrack))
+  - Que Sera Sera (Laid Black)
+  - Detroit (Renaissance)
+  - On the Road
+  - Free (feat. Corinne Bailey Rae) (Free)
+  - Power (M²)
+  - Via Dolorosa
+  - 7-T's (Laid Black)
+  - Candy Cane Lane (Candy Cane Lane (Original Motion Picture Soundtrack))
+  - Haunting Me (Night-Lines)
+  - For the Love of Freedom (Marshall (Original Motion Picture Soundtrack))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8fbabd07-4b2b-4f4c-add5-680429a8c44a
-  spotify: https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9
-  wikipedia: https://en.wikipedia.org/wiki/Marcus_Miller
+  musicbrainz: 'https://musicbrainz.org/artist/8fbabd07-4b2b-4f4c-add5-680429a8c44a'
+  spotify: 'https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9'
+  wikipedia: 'https://en.wikipedia.org/wiki/Marcus_Miller'
 image_path: 03_Resources/source_material/ArtistPortraits/marcus_miller.jpg
 biography_enhanced_at: '2025-12-04T07:59:55.488478'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Marcus_Miller
-- https://jazzatelier.com/2012/02/18/marcus-miller-biography/
-- https://www.bluenote.com/artist/marcus-miller/
-- https://www.sfjazz.org/onthecorner/articles/5-things-you-should-know-about-marcus-miller/
-- https://www.marcusmiller.com/about
+  - 'https://en.wikipedia.org/wiki/Marcus_Miller'
+  - 'https://jazzatelier.com/2012/02/18/marcus-miller-biography/'
+  - 'https://www.bluenote.com/artist/marcus-miller/'
+  - >-
+    https://www.sfjazz.org/onthecorner/articles/5-things-you-should-know-about-marcus-miller/
+  - 'https://www.marcusmiller.com/about'
 network_extracted: true
 entry_created: '2025-12-04T07:59:55.488487'
 last_updated: '2025-12-23T08:16:12.633492'
@@ -122,10 +123,9 @@ disambiguation: jazz musician
 gender: Male
 musicbrainz_id: 8fbabd07-4b2b-4f4c-add5-680429a8c44a
 tags:
-- contemporary jazz
-- jazz
-- jazz fusion
-
+  - contemporary jazz
+  - jazz
+  - jazz fusion
 ---
 
 ![](marcus_miller.jpg)

@@ -3,7 +3,7 @@ title: Francine King
 wiki_slug: francine-king
 schema_version: 2
 status: active
-birth_place: Trinidad and Tobago
+birth_place: 'Trinidad and Tobago, Trinidad and Tobago, N/A'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/francine_king.jpg
@@ -25,38 +25,40 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Crazy
-  - Winsford Devine
-  - Pauline Caraballo
+    - Crazy
+    - Winsford Devine
+    - Pauline Caraballo
   influenced:
-  - Calypso Rose
+    - Calypso Rose
   mentors: []
 spotify_data:
   followers: 4
   id: 29GFv66kiIwAI7nOIhkvE7
   popularity: 0
-  url: https://open.spotify.com/artist/29GFv66kiIwAI7nOIhkvE7
+  url: 'https://open.spotify.com/artist/29GFv66kiIwAI7nOIhkvE7'
 discography_enriched: true
 top_tracks:
-- Two Fools (Fumigate Funky Broadway)
-- The Grapevine Can't Tell You (Fumigate Funky Broadway)
-- The Grapevine Can't Tell You (Fumigate Funky Broadway)
-- Two Fools (Fumigate Funky Broadway)
-- Two Fools (Deep Fried Funk)
-- Two Fools (Funk For Connoisseurs)
+  - Two Fools (Fumigate Funky Broadway)
+  - The Grapevine Can't Tell You (Fumigate Funky Broadway)
+  - The Grapevine Can't Tell You (Fumigate Funky Broadway)
+  - Two Fools (Fumigate Funky Broadway)
+  - Two Fools (Deep Fried Funk)
+  - Two Fools (Funk For Connoisseurs)
 external_urls:
-  spotify: https://open.spotify.com/artist/29GFv66kiIwAI7nOIhkvE7
+  spotify: 'https://open.spotify.com/artist/29GFv66kiIwAI7nOIhkvE7'
   wikipedia: ''
 image_path: ''
 biography_enhanced_at: '2025-11-26T07:52:28.692437'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://catholictt.org/2023/01/10/singing-francine-the-original-parang-soca-queen/
-- https://www.allmusic.com/artist/francine-king-mn0000850103
+  - >-
+    https://catholictt.org/2023/01/10/singing-francine-the-original-parang-soca-queen/
+  - 'https://www.allmusic.com/artist/francine-king-mn0000850103'
 network_extracted: true
 entry_created: '2025-11-26T07:52:28.692448'
 last_updated: '2025-12-23T08:16:08.739141'
+artist_type: person
 ---
 
 ![]()

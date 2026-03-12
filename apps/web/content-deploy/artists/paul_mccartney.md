@@ -5,107 +5,107 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1942-06-18'
-birth_place: Walton
+birth_place: 'Walton, England, United Kingdom'
 genres: []
 instruments:
-- guitar
-- lead vocals
-- bass guitar
-- original
-- electric guitar
-- electric bass guitar
-- upright piano
-- piano
-- electric piano
-- grand piano
-- acoustic guitar
-- slide guitar
-- prepared piano
-- Wurlitzer electric piano
-- 12 string guitar
-- acoustic bass guitar
-- classical guitar
-- lap steel guitar
-- Rhodes piano
-- electric lap steel guitar
-- background vocals
-- other vocals
-- spoken vocals
-- bass vocals
-associated_acts:
-- begin: '1957'
-  end: '1960'
-  instruments:
   - guitar
-  mbid: 9fcc463b-7cfc-4ea4-a65e-bab77fc78e9a
-  name: The Quarrymen
-- begin: 1960-01
-  end: 1960-08
-  instruments:
   - lead vocals
-  mbid: b06f5860-ce8f-4d8f-92ee-6c6f165ef8ef
-  name: The Silver Beatles
-- begin: 1960-01
-  end: 1960-08
-  instruments:
-  - guitar
-  mbid: b06f5860-ce8f-4d8f-92ee-6c6f165ef8ef
-  name: The Silver Beatles
-- begin: '1960'
-  end: '1970-04-10'
-  instruments:
   - bass guitar
-  - lead vocals
   - original
-  mbid: b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d
-  name: The Beatles
-- begin: '1961'
-  end: '1962'
-  instruments: []
-  mbid: bb85b2d0-7c62-4389-8564-5eeadacd09bb
-  name: The Beat Brothers
-- begin: '1971'
-  end: '1981'
-  instruments:
-  - original
-  mbid: d922d727-240a-4432-9a88-05a7cf9bc403
-  name: Wings
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: e517e974-533e-43da-a75e-433ac8319c23
-  name: Twin Freaks
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 23466b9d-f57a-4e73-906f-c11dca8b3723
-  name: The Fireman
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b9a9487b-abf6-4a95-a8fd-238cc093e99b
-  name: Sound City Players
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 74c2a2c5-5337-4e98-ab16-1f6463b77478
-  name: Rockestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: dce02d78-ec77-416a-ac25-50dfc045fc7c
-  name: The Justice Collective
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1400bb71-35c3-4610-9818-eeba54665cd7
-  name: R.A.D.D. (Recording Artists Against Drunk Driving)
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0663c2de-16ec-4637-a759-2c31c553c554
-  name: George's Band
+  - electric guitar
+  - electric bass guitar
+  - upright piano
+  - piano
+  - electric piano
+  - grand piano
+  - acoustic guitar
+  - slide guitar
+  - prepared piano
+  - Wurlitzer electric piano
+  - 12 string guitar
+  - acoustic bass guitar
+  - classical guitar
+  - lap steel guitar
+  - Rhodes piano
+  - electric lap steel guitar
+  - background vocals
+  - other vocals
+  - spoken vocals
+  - bass vocals
+associated_acts:
+  - begin: '1957'
+    end: '1960'
+    instruments:
+      - guitar
+    mbid: 9fcc463b-7cfc-4ea4-a65e-bab77fc78e9a
+    name: The Quarrymen
+  - begin: 1960-01
+    end: 1960-08
+    instruments:
+      - lead vocals
+    mbid: b06f5860-ce8f-4d8f-92ee-6c6f165ef8ef
+    name: The Silver Beatles
+  - begin: 1960-01
+    end: 1960-08
+    instruments:
+      - guitar
+    mbid: b06f5860-ce8f-4d8f-92ee-6c6f165ef8ef
+    name: The Silver Beatles
+  - begin: '1960'
+    end: '1970-04-10'
+    instruments:
+      - bass guitar
+      - lead vocals
+      - original
+    mbid: b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d
+    name: The Beatles
+  - begin: '1961'
+    end: '1962'
+    instruments: []
+    mbid: bb85b2d0-7c62-4389-8564-5eeadacd09bb
+    name: The Beat Brothers
+  - begin: '1971'
+    end: '1981'
+    instruments:
+      - original
+    mbid: d922d727-240a-4432-9a88-05a7cf9bc403
+    name: Wings
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: e517e974-533e-43da-a75e-433ac8319c23
+    name: Twin Freaks
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 23466b9d-f57a-4e73-906f-c11dca8b3723
+    name: The Fireman
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b9a9487b-abf6-4a95-a8fd-238cc093e99b
+    name: Sound City Players
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 74c2a2c5-5337-4e98-ab16-1f6463b77478
+    name: Rockestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: dce02d78-ec77-416a-ac25-50dfc045fc7c
+    name: The Justice Collective
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1400bb71-35c3-4610-9818-eeba54665cd7
+    name: R.A.D.D. (Recording Artists Against Drunk Driving)
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0663c2de-16ec-4637-a759-2c31c553c554
+    name: George's Band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/paul_mccartney.jpg
   caption: Paul McCartney
@@ -127,48 +127,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John Lennon
-  - George Harrison
-  - Ringo Starr
-  - Linda McCartney
-  - Brian Epstein
+    - John Lennon
+    - George Harrison
+    - Ringo Starr
+    - Linda McCartney
+    - Brian Epstein
   influenced:
-  - Multiple generations of musicians
+    - Multiple generations of musicians
   mentors:
-  - His Father (James McCartney)
-  - Little Richard
-  - Buddy Holly
+    - His Father (James McCartney)
+    - Little Richard
+    - Buddy Holly
 spotify_data:
   followers: 5245212
   id: 4STHEaNw4mPZ2tzheohgXB
   popularity: 70
-  url: https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB
+  url: 'https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB'
 discography_enriched: true
 top_tracks:
-- FourFiveSeconds
-- Band On The Run - 2010 Remaster (Band On The Run (Standard))
-- The Girl Is Mine (with Paul McCartney) (Thriller)
-- Say Say Say - Remastered 2015 (Pipes Of Peace)
-- Maybe I’m Amazed - Remastered 2011 (McCartney (Archive Collection))
-- Wonderful Christmastime - Edited Version / Remastered 2011 (McCartney II (Special Edition))
-- Uncle Albert / Admiral Halsey - Medley / 2012 Remaster (Ram (Archive Collection))
-- All Day
-- The Kiss Of Venus (Dominic Fike) (McCartney III Imagined)
-- Jet - 2010 Remaster (Band On The Run (Standard))
+  - FourFiveSeconds
+  - Band On The Run - 2010 Remaster (Band On The Run (Standard))
+  - The Girl Is Mine (with Paul McCartney) (Thriller)
+  - Say Say Say - Remastered 2015 (Pipes Of Peace)
+  - Maybe I’m Amazed - Remastered 2011 (McCartney (Archive Collection))
+  - >-
+    Wonderful Christmastime - Edited Version / Remastered 2011 (McCartney II
+    (Special Edition))
+  - >-
+    Uncle Albert / Admiral Halsey - Medley / 2012 Remaster (Ram (Archive
+    Collection))
+  - All Day
+  - The Kiss Of Venus (Dominic Fike) (McCartney III Imagined)
+  - Jet - 2010 Remaster (Band On The Run (Standard))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ba550d0e-adac-4864-b88b-407cab5e76af
-  spotify: https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB
-  wikipedia: https://en.wikipedia.org/wiki/Paul_McCartney
+  musicbrainz: 'https://musicbrainz.org/artist/ba550d0e-adac-4864-b88b-407cab5e76af'
+  spotify: 'https://open.spotify.com/artist/4STHEaNw4mPZ2tzheohgXB'
+  wikipedia: 'https://en.wikipedia.org/wiki/Paul_McCartney'
 image_path: 03_Resources/source_material/ArtistPortraits/paul_mccartney.jpg
 biography_enhanced_at: '2025-11-02T07:35:11.064653'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Paul McCartney
-- The Beatles Bible - Paul McCartney Biography
-- History Cooperative - Paul McCartney Bio
-- IMDb - Paul McCartney Biography
-- Biography.com - Paul McCartney
+  - Wikipedia - Paul McCartney
+  - The Beatles Bible - Paul McCartney Biography
+  - History Cooperative - Paul McCartney Bio
+  - IMDb - Paul McCartney Biography
+  - Biography.com - Paul McCartney
 network_extracted: true
 entry_created: '2025-11-02T07:35:11.064664'
 last_updated: '2025-12-23T08:16:14.088548'
@@ -176,9 +180,10 @@ disambiguation: The Beatles
 gender: Male
 musicbrainz_id: ba550d0e-adac-4864-b88b-407cab5e76af
 tags:
-- 70s
-- 80s
-- 90s
+  - 70s
+  - 80s
+  - 90s
+origin: 'Liverpool, England, United Kingdom'
 ---
 
 ![](paul_mccartney.jpg)

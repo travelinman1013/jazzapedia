@@ -1,16 +1,17 @@
 ---
-title: CHARLIE DAVIS AND HIS ORCHESTRA
+title: Charlie Davis and His Orchestra
 wiki_slug: charlie-davis-and-his-orchestra
 schema_version: 2
-artist_type: orchestra
+artist_type: band
 status: active
 genres: []
 instruments:
-- trombone
-- piano
-- lead vocals
+  - trombone
+  - piano
+  - lead vocals
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/charlie_davis_and_his_orchestra.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/charlie_davis_and_his_orchestra.jpg
   caption: CHARLIE DAVIS AND HIS ORCHESTRA
   background: solo_singer
 audio_profile:
@@ -28,86 +29,87 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dick Powell
-  - Earle Moss
-  - Phil Davis
-  - Hoagy Carmichael & Bix Beiderbecke’s Wolverines
+    - Dick Powell
+    - Earle Moss
+    - Phil Davis
+    - Hoagy Carmichael & Bix Beiderbecke’s Wolverines
   influenced:
-  - Dick Powell
-  - Earle Moss
+    - Dick Powell
+    - Earle Moss
   mentors:
-  - Abijah Davis
+    - Abijah Davis
 spotify_data:
   followers: 30
   id: 7ISbWNU1KBQvPUR2qhEkuZ
   popularity: 0
-  url: https://open.spotify.com/artist/7ISbWNU1KBQvPUR2qhEkuZ
+  url: 'https://open.spotify.com/artist/7ISbWNU1KBQvPUR2qhEkuZ'
 discography_enriched: true
 top_tracks:
-- The Drag (Jazz Is Where You Find It 1924-1930)
-- The Drag (Brunswick Recordings of 1928 (Original Recordings))
-- Mean to Me (Gennett Hot Dance, Volume 1 (1927-1930))
-- When (Jazz Is Where You Find It 1924-1930)
-- When (Jazz Is Where You Find It 1924-1930)
-- The Drag (Jazz Is Where You Find It 1924-1930)
+  - The Drag (Jazz Is Where You Find It 1924-1930)
+  - The Drag (Brunswick Recordings of 1928 (Original Recordings))
+  - 'Mean to Me (Gennett Hot Dance, Volume 1 (1927-1930))'
+  - When (Jazz Is Where You Find It 1924-1930)
+  - When (Jazz Is Where You Find It 1924-1930)
+  - The Drag (Jazz Is Where You Find It 1924-1930)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/91e65a28-3d48-4753-971c-a2701090a912
-  spotify: https://open.spotify.com/artist/7ISbWNU1KBQvPUR2qhEkuZ
+  musicbrainz: 'https://musicbrainz.org/artist/91e65a28-3d48-4753-971c-a2701090a912'
+  spotify: 'https://open.spotify.com/artist/7ISbWNU1KBQvPUR2qhEkuZ'
   wikipedia: ''
 image_path: ''
 biography_enhanced_at: '2025-10-30T11:47:27.917780'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://sites.google.com/nhj.k12.in.us/indianamusicmakers/jazz/charlie-davis
-- https://jaz.fandom.com/wiki/The_Charlie_Davis_Orchestra
+  - 'https://sites.google.com/nhj.k12.in.us/indianamusicmakers/jazz/charlie-davis'
+  - 'https://jaz.fandom.com/wiki/The_Charlie_Davis_Orchestra'
 network_extracted: true
 entry_created: '2025-10-30T11:47:27.917803'
 last_updated: '2025-12-23T08:16:06.717426'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5212fa3a-4d90-4b92-b981-d02cd1f1bb27
-  name: Charlie Davis
-- begin: ''
-  end: ''
-  instruments:
-  - trombone
-  mbid: 4060d744-19a4-4bd5-a3e1-311081b9d3d0
-  name: Phil Davis
-- begin: ''
-  end: ''
-  instruments:
-  - trombone
-  mbid: d4fc00fe-cb5b-4f3a-bbc5-0457a957e1d3
-  name: Charles Fach
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: 8a01031b-829f-44cb-a7a3-850b81367032
-  name: Kenny Knot
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: 35f5ef92-0b43-452d-9ccc-98d76f8743c2
-  name: Lewis Lowe
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: 48590214-da26-46c9-ab27-b4b84256667e
-  name: Dick Powell
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: c5d83bca-5892-4170-a41f-82b1aaaea98b
-  name: Ruby Wright Rapp
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5212fa3a-4d90-4b92-b981-d02cd1f1bb27
+    name: Charlie Davis
+  - begin: ''
+    end: ''
+    instruments:
+      - trombone
+    mbid: 4060d744-19a4-4bd5-a3e1-311081b9d3d0
+    name: Phil Davis
+  - begin: ''
+    end: ''
+    instruments:
+      - trombone
+    mbid: d4fc00fe-cb5b-4f3a-bbc5-0457a957e1d3
+    name: Charles Fach
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: 8a01031b-829f-44cb-a7a3-850b81367032
+    name: Kenny Knot
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: 35f5ef92-0b43-452d-9ccc-98d76f8743c2
+    name: Lewis Lowe
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: 48590214-da26-46c9-ab27-b4b84256667e
+    name: Dick Powell
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: c5d83bca-5892-4170-a41f-82b1aaaea98b
+    name: Ruby Wright Rapp
 musicbrainz_id: 91e65a28-3d48-4753-971c-a2701090a912
 origin: Indianapolis
+birth_place: 'Indianapolis, Indiana, United States'
 ---
 
 ![]()

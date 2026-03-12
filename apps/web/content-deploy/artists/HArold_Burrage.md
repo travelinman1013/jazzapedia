@@ -2,21 +2,21 @@
 title: HArold Burrage
 wiki_slug: harold-burrage
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1931-03-30'
-birth_place: Chicago, Illinois, United States
+birth_place: 'Chicago, Illinois, United States'
 death_date: '1966-11-25'
 genres:
-- northern soul
-- classic blues
-- rockabilly
+  - northern soul
+  - classic blues
+  - rockabilly
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/HArold_Burrage.jpg
   caption: HArold Burrage
   background: solo_singer
   born: '1931-03-30'
-  origin: Chicago, Illinois, United States
+  origin: 'Chicago, Illinois, United States'
   died: '1966-11-25'
 audio_profile:
   tempo_avg: 126.7
@@ -33,47 +33,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Otis Rush
-  - Wayne Bennett
-  - Willie Dixon
-  - Jody Williams
-  - Magic Sam
-  - Charles Clark
+    - Otis Rush
+    - Wayne Bennett
+    - Willie Dixon
+    - Jody Williams
+    - Magic Sam
+    - Charles Clark
   influenced:
-  - Otis Clay
-  - Tyrone Davis
+    - Otis Clay
+    - Tyrone Davis
   mentors:
-  - Willie Dixon
+    - Willie Dixon
 spotify_data:
   followers: 933
   id: 21XSS3GkVX88nFHdTIpuGa
   popularity: 9
-  url: https://open.spotify.com/artist/21XSS3GkVX88nFHdTIpuGa
+  url: 'https://open.spotify.com/artist/21XSS3GkVX88nFHdTIpuGa'
 discography_enriched: true
 top_tracks:
-- She Knocks Me Out (Master) (Messed Up! The Cobra Recordings 1956-1958)
-- Messed Up (Messed Up! The Cobra Recordings 1956-1958)
-- Stop for the Red Light (Overdubbed Master) (Messed Up! The Cobra Recordings 1956-1958)
-- Crying For My Baby (The Unavailable 16 & The Original Nitty Gritty)
-- You Eat Too Much (Messed Up! The Cobra Recordings 1956-1958)
-- I Don't Care Who Knows (Master) (Messed Up! The Cobra Recordings 1956-1958)
-- Betty Jean (Messed Up! The Cobra Recordings 1956-1958)
-- She Knocks Me Out (Betty Jean)
-- 'Things Ain''t What They Used to Be (The One-Derful! Collection: The M-Pac Label)'
-- Master Key (One More Dance)
+  - She Knocks Me Out (Master) (Messed Up! The Cobra Recordings 1956-1958)
+  - Messed Up (Messed Up! The Cobra Recordings 1956-1958)
+  - >-
+    Stop for the Red Light (Overdubbed Master) (Messed Up! The Cobra Recordings
+    1956-1958)
+  - Crying For My Baby (The Unavailable 16 & The Original Nitty Gritty)
+  - You Eat Too Much (Messed Up! The Cobra Recordings 1956-1958)
+  - I Don't Care Who Knows (Master) (Messed Up! The Cobra Recordings 1956-1958)
+  - Betty Jean (Messed Up! The Cobra Recordings 1956-1958)
+  - She Knocks Me Out (Betty Jean)
+  - >-
+    Things Ain't What They Used to Be (The One-Derful! Collection: The M-Pac
+    Label)
+  - Master Key (One More Dance)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/35136fd8-6f52-4063-8755-f920b2316e31
-  spotify: https://open.spotify.com/artist/21XSS3GkVX88nFHdTIpuGa
-  wikipedia: https://en.wikipedia.org/wiki/Harold_Burrage
+  musicbrainz: 'https://musicbrainz.org/artist/35136fd8-6f52-4063-8755-f920b2316e31'
+  spotify: 'https://open.spotify.com/artist/21XSS3GkVX88nFHdTIpuGa'
+  wikipedia: 'https://en.wikipedia.org/wiki/Harold_Burrage'
 image_path: 03_Resources/source_material/ArtistPortraits/HArold_Burrage.jpg
 biography_enhanced_at: '2025-10-19T10:40:09.850577'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://fromthevaults-boppinbob.blogspot.com/2023/03/harold-burrage-born-30-march-1931.html
-- https://kids.kiddle.co/Harold_Burrage
-- https://tims.blackcat.nl/messages/harold_burrage.htm
-- https://www.allaboutjazz.com/musicians/harold-burrage/
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2023/03/harold-burrage-born-30-march-1931.html
+  - 'https://kids.kiddle.co/Harold_Burrage'
+  - 'https://tims.blackcat.nl/messages/harold_burrage.htm'
+  - 'https://www.allaboutjazz.com/musicians/harold-burrage/'
 network_extracted: true
 entry_created: '2025-10-19T10:40:09.850593'
 last_updated: '2025-12-23T08:16:02.189973'
@@ -81,10 +86,11 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:28:33.823484'
 musicbrainz_id: 35136fd8-6f52-4063-8755-f920b2316e31
 tags:
-- blues
-- r&b
-- soul
-
+  - blues
+  - r&b
+  - soul
+is_active: false
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](HArold_Burrage.jpg)

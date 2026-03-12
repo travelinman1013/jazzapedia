@@ -1,18 +1,18 @@
 ---
-title: kevin gordon
+title: Kevin Gordon
 wiki_slug: kevin-gordon
 schema_version: 2
 status: active
-birth_place: Monroe, Louisiana, United States
+birth_place: 'Monroe, Louisiana, United States'
 genres:
-- americana
-- alt country
-- roots rock
+  - americana
+  - alt country
+  - roots rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/kevin_gordon.jpg
   caption: kevin gordon
   background: solo_singer
-  origin: Monroe, Louisiana, United States
+  origin: 'Monroe, Louisiana, United States'
 audio_profile:
   tempo_avg: 131.2
   energy_avg: 0.623
@@ -28,50 +28,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lucinda Williams
-  - Joe V. McMahan
-  - Garry Tallent
-  - Bo Ramsey
-  - Steph Graham
+    - Lucinda Williams
+    - Joe V. McMahan
+    - Garry Tallent
+    - Bo Ramsey
+    - Steph Graham
   influenced:
-  - Hard Working Americans
+    - Hard Working Americans
   mentors:
-  - Bo Ramsey
+    - Bo Ramsey
 spotify_data:
   followers: 1952
   id: 54NTXs0gBQ20QnSPdWSQ6C
   popularity: 11
-  url: https://open.spotify.com/artist/54NTXs0gBQ20QnSPdWSQ6C
+  url: 'https://open.spotify.com/artist/54NTXs0gBQ20QnSPdWSQ6C'
 discography_enriched: true
 top_tracks:
-- Buddy Montgomery (Buddy Montgomery)
-- Keeping My Brother Down (The In Between)
-- Love Right (The In Between)
-- Catch a Ride (The In Between)
-- Down to the Well (Down to the Well)
-- Destiny (The In Between)
-- Simple Things (The In Between)
-- Deuce and a Quarter (Down to the Well)
-- Saint on a Chain (Tilt and Shine)
-- Burning the Church House Down (Down to the Well)
+  - Buddy Montgomery (Buddy Montgomery)
+  - Keeping My Brother Down (The In Between)
+  - Love Right (The In Between)
+  - Catch a Ride (The In Between)
+  - Down to the Well (Down to the Well)
+  - Destiny (The In Between)
+  - Simple Things (The In Between)
+  - Deuce and a Quarter (Down to the Well)
+  - Saint on a Chain (Tilt and Shine)
+  - Burning the Church House Down (Down to the Well)
 external_urls:
-  spotify: https://open.spotify.com/artist/54NTXs0gBQ20QnSPdWSQ6C
-  wikipedia: https://en.wikipedia.org/wiki/Kevin_Gordon_(musician)
+  spotify: 'https://open.spotify.com/artist/54NTXs0gBQ20QnSPdWSQ6C'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kevin_Gordon_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/kevin_gordon.jpg
 biography_enhanced_at: '2025-11-08T22:03:01.716041'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://folkalley.com/kevin-gordon-2015-folk-alley-session/
-- http://kg.kevingordon.net/about/
-- http://kg.kevingordon.net/media1/kevingordonbio.pdf
-- https://www.missingpiecegroup.com/kevin-gordon
-- https://www.allmusic.com/artist/kevin-gordon-mn0000082915
-- https://www.wbur.org/hereandnow/2012/01/25/south-kevin-gordon
-- https://www.nashvillescene.com/music/nashvillecream/kevin-gordon-and-the-iguanas-a-match-made-in-rock-n-roll-heaven/article_f60be0f2-ac7b-11ec-ad1c-9b497cfdceac.html
+  - 'https://folkalley.com/kevin-gordon-2015-folk-alley-session/'
+  - 'http://kg.kevingordon.net/about/'
+  - 'http://kg.kevingordon.net/media1/kevingordonbio.pdf'
+  - 'https://www.missingpiecegroup.com/kevin-gordon'
+  - 'https://www.allmusic.com/artist/kevin-gordon-mn0000082915'
+  - 'https://www.wbur.org/hereandnow/2012/01/25/south-kevin-gordon'
+  - >-
+    https://www.nashvillescene.com/music/nashvillecream/kevin-gordon-and-the-iguanas-a-match-made-in-rock-n-roll-heaven/article_f60be0f2-ac7b-11ec-ad1c-9b497cfdceac.html
 network_extracted: true
 entry_created: '2025-11-08T22:03:01.716058'
 last_updated: '2025-12-23T08:16:11.337413'
+artist_type: person
 ---
 
 ![](kevin_gordon.jpg)

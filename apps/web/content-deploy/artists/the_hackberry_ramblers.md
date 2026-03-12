@@ -4,8 +4,8 @@ wiki_slug: the-hackberry-ramblers
 schema_version: 2
 status: active
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_hackberry_ramblers.jpg
   caption: The Hackberry Ramblers
@@ -17,7 +17,7 @@ audio_profile:
   danceability_avg: 0.476
   acousticness_avg: 0.814
   instrumentalness_avg: 0.341
-  loudness_avg: -10.0
+  loudness_avg: -10
   speechiness_avg: 0.044
   liveness_avg: 0.133
   track_count: 50
@@ -25,52 +25,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Luderin Darbone
-  - Edwin Duhon
-  - Lennis Sonnier
-  - Johnny Farque (also spelled Faulk)
-  - Ben Sandmel
-  - Chris Strachwitz / Arhoolie Records
+    - Luderin Darbone
+    - Edwin Duhon
+    - Lennis Sonnier
+    - Johnny Farque (also spelled Faulk)
+    - Ben Sandmel
+    - Chris Strachwitz / Arhoolie Records
   influenced:
-  - Later Cajun and roots musicians (e.g., contemporary Cajun bands and revivalists)
+    - >-
+      Later Cajun and roots musicians (e.g., contemporary Cajun bands and
+      revivalists)
   mentors:
-  - Local Black New Orleans-style dance-hall orchestra (uncredited ensemble)
+    - Local Black New Orleans-style dance-hall orchestra (uncredited ensemble)
 spotify_data:
   followers: 926
   id: 0oPTSMKzCzBNXPVqTOhfE1
   popularity: 4
-  url: https://open.spotify.com/artist/0oPTSMKzCzBNXPVqTOhfE1
+  url: 'https://open.spotify.com/artist/0oPTSMKzCzBNXPVqTOhfE1'
 discography_enriched: true
 top_tracks:
-- Jolie Blonde - Version 1 (Jolie Blonde)
-- Marmentan Stomp (Cajun Classics)
-- Ma Chere Belle
-- Cajun Rag (Jolie Blonde)
-- The Only Thing Missing (Christmas Gumbo)
-- 'Une Piastre Ici (J''ai Été Au Bal: I Went to the Dance, Vol. 1)'
-- Jolie Blonde (15 Louisiana Cajun Classics)
-- Marmentan Stomp (It's Cajun Time!)
-- Fais pas ca (The Best Of Cajun And Zydeco)
-- Rice City Stomp (The Best Of Cajun And Zydeco)
+  - Jolie Blonde - Version 1 (Jolie Blonde)
+  - Marmentan Stomp (Cajun Classics)
+  - Ma Chere Belle
+  - Cajun Rag (Jolie Blonde)
+  - The Only Thing Missing (Christmas Gumbo)
+  - 'Une Piastre Ici (J''ai Été Au Bal: I Went to the Dance, Vol. 1)'
+  - Jolie Blonde (15 Louisiana Cajun Classics)
+  - Marmentan Stomp (It's Cajun Time!)
+  - Fais pas ca (The Best Of Cajun And Zydeco)
+  - Rice City Stomp (The Best Of Cajun And Zydeco)
 external_urls:
-  spotify: https://open.spotify.com/artist/0oPTSMKzCzBNXPVqTOhfE1
-  wikipedia: https://en.wikipedia.org/wiki/Hackberry_Ramblers
+  spotify: 'https://open.spotify.com/artist/0oPTSMKzCzBNXPVqTOhfE1'
+  wikipedia: 'https://en.wikipedia.org/wiki/Hackberry_Ramblers'
 image_path: 03_Resources/source_material/ArtistPortraits/the_hackberry_ramblers.jpg
 biography_enhanced_at: '2025-12-08T04:22:09.772774'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Hackberry_Ramblers
-- https://64parishes.org/entry/hackberry-ramblers
-- https://www.folkstreams.net/contexts/makem-dance-the-hackberry-ramblers-story-transcript
-- https://www.michaeltisserand.com/article-the-hackberry-ramblers
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/hackberry-ramblers
-- https://oldtimeblues.net/2020/01/14/bluebird-b-6926-riverside-ramblers-1937/
-- https://www.acadianmuseum.com/living-legend/the-hackberry-ramblers/
+  - 'https://en.wikipedia.org/wiki/Hackberry_Ramblers'
+  - 'https://64parishes.org/entry/hackberry-ramblers'
+  - >-
+    https://www.folkstreams.net/contexts/makem-dance-the-hackberry-ramblers-story-transcript
+  - 'https://www.michaeltisserand.com/article-the-hackberry-ramblers'
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/hackberry-ramblers
+  - 'https://oldtimeblues.net/2020/01/14/bluebird-b-6926-riverside-ramblers-1937/'
+  - 'https://www.acadianmuseum.com/living-legend/the-hackberry-ramblers/'
 network_extracted: true
 entry_created: '2025-12-08T04:22:09.772782'
 last_updated: '2025-12-23T08:16:16.818746'
-origin: Hackberry, Louisiana, United States
+origin: 'Hackberry, Louisiana, United States'
+artist_type: band
 ---
 
 ![](the_hackberry_ramblers.jpg)

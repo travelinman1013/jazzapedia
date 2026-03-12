@@ -5,19 +5,20 @@ schema_version: 2
 status: active
 aliases: []
 birth_date: '1981-09-19'
-birth_place: Long Island
+birth_place: 'Long Island, New York, United States'
 genres:
-- swing music
-- electro swing
+  - swing music
+  - electro swing
 instruments:
-- piano
+  - piano
 occupation:
-- pianist
-- composer
+  - pianist
+  - composer
 associated_acts:
-- Postmodern Jukebox
+  - Postmodern Jukebox
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/Scott_Bradlees_Postmodern_Jukebox.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/Scott_Bradlees_Postmodern_Jukebox.jpg
   caption: Scott Bradlee's Postmodern Jukebox
   background: non_vocal_instrumentalist
   born: '1981-09-19'
@@ -28,7 +29,7 @@ audio_profile:
   valence_avg: 0.503
   danceability_avg: 0.494
   acousticness_avg: 0.651
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -7.8
   speechiness_avg: 0.065
   liveness_avg: 0.181
@@ -37,56 +38,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Haley Reinhart
-  - Robyn Anderson
-  - Adam Kubota
-  - Ben Golder-Novick
-  - Chloe Feoranzo
+    - Haley Reinhart
+    - Robyn Anderson
+    - Adam Kubota
+    - Ben Golder-Novick
+    - Chloe Feoranzo
   influenced:
-  - Morgan James
-  - Aubrey Logan
-  - Hannah Gill
+    - Morgan James
+    - Aubrey Logan
+    - Hannah Gill
   mentors:
-  - George Gershwin
+    - George Gershwin
 related_artists: []
 spotify_data:
   followers: 1198653
   id: 5HYNPEO2NNBONQkp3Mvwvc
   popularity: 61
-  url: https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc
+  url: 'https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc'
   verified: false
 discography_enriched: true
 albums_count: 38
 singles_count: 68
 top_tracks:
-- Habits (Selfies on Kodachrome)
-- Creep (Emoji Antique)
-- Lovefool (Swipe Right For Vintage)
-- Seven Nation Army (Swipe Right For Vintage)
-- Careless Whisper (Clubbin' With Grandpa)
-- Oops!... I Did It Again (Swipe Right For Vintage)
-- Mad World (Top Hat On Fleek)
-- All About That Bass (Historical Misappropriation)
-- All The Small Things (Fake Blues)
-- I Swear
+  - Habits (Selfies on Kodachrome)
+  - Creep (Emoji Antique)
+  - Lovefool (Swipe Right For Vintage)
+  - Seven Nation Army (Swipe Right For Vintage)
+  - Careless Whisper (Clubbin' With Grandpa)
+  - Oops!... I Did It Again (Swipe Right For Vintage)
+  - Mad World (Top Hat On Fleek)
+  - All About That Bass (Historical Misappropriation)
+  - All The Small Things (Fake Blues)
+  - I Swear
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc
-  wikipedia: https://en.wikipedia.org/wiki/Postmodern_Jukebox
-image_path: 03_Resources/source_material/ArtistPortraits/Scott_Bradlees_Postmodern_Jukebox.jpg
+  spotify: 'https://open.spotify.com/artist/5HYNPEO2NNBONQkp3Mvwvc'
+  wikipedia: 'https://en.wikipedia.org/wiki/Postmodern_Jukebox'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/Scott_Bradlees_Postmodern_Jukebox.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:22:22.491551'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Postmodern_Jukebox
-- https://nyunews.com/arts/2023/02/13/postmodern-jukebox/
-- https://syncopatedtimes.com/outside-the-jukebox-by-scott-bradlee-of-pmj/
+  - 'https://en.wikipedia.org/wiki/Postmodern_Jukebox'
+  - 'https://nyunews.com/arts/2023/02/13/postmodern-jukebox/'
+  - 'https://syncopatedtimes.com/outside-the-jukebox-by-scott-bradlee-of-pmj/'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:43:24.918793
+entry_created: 2025-09-22T21:43:24.918Z
 last_updated: '2025-12-23T08:16:03.836978'
-origin: Queens, New York City, New York, United States
+origin: 'Astoria, Queens, New York, United States'
+artist_type: person
 ---
 
 ![](Scott_Bradlees_Postmodern_Jukebox.jpg)

@@ -4,32 +4,32 @@ wiki_slug: amy-lavere
 schema_version: 2
 artist_type: person
 status: active
-birth_place: Shreveport
+birth_place: 'Shreveport, Louisiana, United States'
 genres:
-- americana
-- alt country
+  - americana
+  - alt country
 instruments:
-- lead vocals
-- double bass
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - lead vocals
-  mbid: 35d0aa25-410e-4eba-93ca-bbe60d475868
-  name: Motel Mirrors
-- begin: ''
-  end: ''
-  instruments:
   - double bass
-  mbid: 35d0aa25-410e-4eba-93ca-bbe60d475868
-  name: Motel Mirrors
-- begin: ''
-  end: ''
-  instruments:
-  - double bass
-  mbid: e60eadec-fb9a-4c0a-ae7a-77c7096ceb60
-  name: Sisters of the Strawberry Moon
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: 35d0aa25-410e-4eba-93ca-bbe60d475868
+    name: Motel Mirrors
+  - begin: ''
+    end: ''
+    instruments:
+      - double bass
+    mbid: 35d0aa25-410e-4eba-93ca-bbe60d475868
+    name: Motel Mirrors
+  - begin: ''
+    end: ''
+    instruments:
+      - double bass
+    mbid: e60eadec-fb9a-4c0a-ae7a-77c7096ceb60
+    name: Sisters of the Strawberry Moon
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/amy_lavere.jpg
   caption: Amy LaVere
@@ -50,58 +50,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jimbo Mathus
-  - Will Sexton
-  - Luther Dickinson
-  - Valerie June
-  - Shannon McNally
-  - Sharde Thomas
-  - John Paul Keith
-  - Shawn Zorn
-  - Lucero
-  - Seasick Steve
+    - Jimbo Mathus
+    - Will Sexton
+    - Luther Dickinson
+    - Valerie June
+    - Shannon McNally
+    - Sharde Thomas
+    - John Paul Keith
+    - Shawn Zorn
+    - Lucero
+    - Seasick Steve
   influenced: []
   mentors:
-  - Jim Dickinson
-  - Luther Dickinson
+    - Jim Dickinson
+    - Luther Dickinson
 spotify_data:
   followers: 7903
   id: 5IYapbnvPjesLzg5uzr53m
   popularity: 25
-  url: https://open.spotify.com/artist/5IYapbnvPjesLzg5uzr53m
+  url: 'https://open.spotify.com/artist/5IYapbnvPjesLzg5uzr53m'
 discography_enriched: true
 top_tracks:
-- The Night Is Still Young (Solstice)
-- Hallelujah (I’m a Dreamer) (Solstice)
-- Cricket (At Night I Can Fly) (Solstice)
-- We Could Be Magic
-- Dreamer (Hallelujah I'm a Dreamer)
-- Killing Him (Anchors and Anvils)
-- Take 'Em or Leave 'Em (This World Is Not My Home)
-- Things I Learned (In the Meantime)
-- Your bad choices (Camden Paris Parsons 2)
-- Dark Moon (Runaway's Diary)
+  - The Night Is Still Young (Solstice)
+  - Hallelujah (I’m a Dreamer) (Solstice)
+  - Cricket (At Night I Can Fly) (Solstice)
+  - We Could Be Magic
+  - Dreamer (Hallelujah I'm a Dreamer)
+  - Killing Him (Anchors and Anvils)
+  - Take 'Em or Leave 'Em (This World Is Not My Home)
+  - Things I Learned (In the Meantime)
+  - Your bad choices (Camden Paris Parsons 2)
+  - Dark Moon (Runaway's Diary)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7a474f16-37fb-40ff-8f57-e824710bf071
-  spotify: https://open.spotify.com/artist/5IYapbnvPjesLzg5uzr53m
-  wikipedia: https://en.wikipedia.org/wiki/Amy_LaVere
+  musicbrainz: 'https://musicbrainz.org/artist/7a474f16-37fb-40ff-8f57-e824710bf071'
+  spotify: 'https://open.spotify.com/artist/5IYapbnvPjesLzg5uzr53m'
+  wikipedia: 'https://en.wikipedia.org/wiki/Amy_LaVere'
 image_path: 03_Resources/source_material/ArtistPortraits/amy_lavere.jpg
 biography_enhanced_at: '2025-11-28T07:39:13.411340'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Amy_LaVere
-- https://amylavere.com/bio
-- https://wearememphis.com/play/music/amy-lavere/
-- https://www.ijpr.org/podcast/jpr-live-sessions/2014-06-20/amy-lavere-live-session
+  - 'https://en.wikipedia.org/wiki/Amy_LaVere'
+  - 'https://amylavere.com/bio'
+  - 'https://wearememphis.com/play/music/amy-lavere/'
+  - >-
+    https://www.ijpr.org/podcast/jpr-live-sessions/2014-06-20/amy-lavere-live-session
 network_extracted: true
 entry_created: '2025-11-28T07:39:13.411355'
 last_updated: '2025-12-23T08:16:04.736869'
 gender: Female
 musicbrainz_id: 7a474f16-37fb-40ff-8f57-e824710bf071
 tags:
-- classic pop and rock
-
+  - classic pop and rock
+origin: 'Memphis, Tennessee, United States'
 ---
 
 ![](amy_lavere.jpg)

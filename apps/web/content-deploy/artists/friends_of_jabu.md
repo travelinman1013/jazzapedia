@@ -9,7 +9,7 @@ infobox:
   caption: Friends of Jabu
   background: solo_singer
 audio_profile:
-  tempo_avg: 112.0
+  tempo_avg: 112
   energy_avg: 0.582
   valence_avg: 0.754
   danceability_avg: 0.655
@@ -29,33 +29,34 @@ spotify_data:
   followers: 13
   id: 5d1TF9q7k75Q08TjwVVDlr
   popularity: 0
-  url: https://open.spotify.com/artist/5d1TF9q7k75Q08TjwVVDlr
+  url: 'https://open.spotify.com/artist/5d1TF9q7k75Q08TjwVVDlr'
 discography_enriched: true
 top_tracks:
-- From Ash, To Seed, To Flower (First Offering)
-- Mattie And Jack (First Offering)
-- Like The Stars (First Offering)
-- Charlie (First Offering)
-- I'll Never Get By (First Offering)
-- Gonna Give It Back (First Offering)
-- By Your Side (First Offering)
-- Walkin' Through The City (First Offering)
-- Flambeaux (First Offering)
-- Can You Simplify (First Offering)
+  - 'From Ash, To Seed, To Flower (First Offering)'
+  - Mattie And Jack (First Offering)
+  - Like The Stars (First Offering)
+  - Charlie (First Offering)
+  - I'll Never Get By (First Offering)
+  - Gonna Give It Back (First Offering)
+  - By Your Side (First Offering)
+  - Walkin' Through The City (First Offering)
+  - Flambeaux (First Offering)
+  - Can You Simplify (First Offering)
 external_urls:
-  spotify: https://open.spotify.com/artist/5d1TF9q7k75Q08TjwVVDlr
+  spotify: 'https://open.spotify.com/artist/5d1TF9q7k75Q08TjwVVDlr'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/friends_of_jabu.jpg
 biography_enhanced_at: '2025-11-20T07:12:41.211283'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jabu_Khanyile
-- https://www.gatewayofafrica.com/artists/biography/207.html
-- http://www.music.org.za/artist.asp?id=88
+  - 'https://en.wikipedia.org/wiki/Jabu_Khanyile'
+  - 'https://www.gatewayofafrica.com/artists/biography/207.html'
+  - 'http://www.music.org.za/artist.asp?id=88'
 network_extracted: true
 entry_created: '2025-11-20T07:12:41.211302'
 last_updated: '2025-12-23T08:16:08.892105'
+artist_type: band
 ---
 
 ![](friends_of_jabu.jpg)

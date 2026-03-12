@@ -1,44 +1,47 @@
 ---
 biography_enhanced_at: '2026-01-21T01:13:01.821575'
-birth_place: Washington, D.C., United States (birthplace)
+birth_place: 'Washington, D.C., United States (birthplace)'
 enhancement_provider: perplexity
 entry_created: '2026-01-21T01:13:01.821581'
 external_urls:
-  spotify: https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo
+  spotify: 'https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo'
   wikipedia: Not found in search results
 genres:
-- alternative r&b
+  - alternative r&b
 image_path: 03_Resources/source_material/ArtistPortraits/baby_rose.jpg
 last_updated: '2026-01-21T01:13:01.821582'
 musical_connections:
   collaborators:
-  - BADBADNOTGOOD
-  - J. Cole
-  - Robert Glasper
-  - Chester Hansen
+    - BADBADNOTGOOD
+    - J. Cole
+    - Robert Glasper
+    - Chester Hansen
   influenced:
-  - SZA
-  - Kehlani
+    - SZA
+    - Kehlani
   mentors:
-  - Nina Simone
-  - Billie Holiday
-  - Janis Joplin
+    - Nina Simone
+    - Billie Holiday
+    - Janis Joplin
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://lyve.one/artist/baby-rose/
-- https://www.theford.com/musicdb/artists/9320/baby-rose
-- https://secretlycanadian.com/artist/baby-rose/
-- https://www.ajc.com/life/arts-culture/atlanta-singer-baby-rose-tours-behind-new-album/NS3PVIIOB5ER5PVMSBOWJQGQFY/
-- https://officemagazine.net/bloom-baby-rose
-- https://www.hitsdailydouble.com/news/baby-rose-lessigreatergood-energyisland-human-re-sourceslessigreater
+  - 'https://lyve.one/artist/baby-rose/'
+  - 'https://www.theford.com/musicdb/artists/9320/baby-rose'
+  - 'https://secretlycanadian.com/artist/baby-rose/'
+  - >-
+    https://www.ajc.com/life/arts-culture/atlanta-singer-baby-rose-tours-behind-new-album/NS3PVIIOB5ER5PVMSBOWJQGQFY/
+  - 'https://officemagazine.net/bloom-baby-rose'
+  - >-
+    https://www.hitsdailydouble.com/news/baby-rose-lessigreatergood-energyisland-human-re-sourceslessigreater
 spotify_data:
   followers: 105724
   id: 6Z4JcgqrqgysyHIPRtDIHo
   popularity: 50
-  url: https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo
+  url: 'https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo'
 status: active
 title: Baby Rose
+artist_type: person
 ---
 
 ![](baby_rose.jpg)

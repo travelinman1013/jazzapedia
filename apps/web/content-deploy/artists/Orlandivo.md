@@ -5,34 +5,34 @@ schema_version: 2
 status: active
 birth_name: Eumir Deodato de Almeida
 also_known_as:
-- Deodato
-- Deodato
+  - Deodato
+  - Deodato
 aliases:
-- Deodato
-- Deodato
-birth_date: '1943-06-22'
-birth_place: Itajaí, Santa Catarina, Brazil
+  - Deodato
+  - Deodato
+birth_date: '1937-08-05'
+birth_place: 'Itajaí, Santa Catarina, Brazil'
 years_active: 1959–present
 genres:
-- brazilian jazz
-- bossa nova
+  - brazilian jazz
+  - bossa nova
 instruments:
-- piano
+  - piano
 occupation:
-- composer
-- pianist
-- songwriter
-- jazz musician
-- record producer
+  - composer
+  - pianist
+  - songwriter
+  - jazz musician
+  - record producer
 record_labels:
-- CTI Records
+  - CTI Records
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Orlandivo.jpg
   caption: Orlandivo
   background: non_vocal_instrumentalist
   birth_name: Eumir Deodato de Almeida
   born: '1943-06-22'
-  origin: Itajaí, Santa Catarina, Brazil
+  origin: 'Itajaí, Santa Catarina, Brazil'
 audio_profile:
   tempo_avg: 119.2
   energy_avg: 0.572
@@ -48,37 +48,37 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Durval Ferreira
-  - João Donato
-  - Helton Menezes
+    - Durval Ferreira
+    - João Donato
+    - Helton Menezes
   influenced:
-  - Various artists
+    - Various artists
   mentors:
-  - Ed Lincoln
+    - Ed Lincoln
 related_artists: []
 spotify_data:
   followers: 7710
   id: 2vFK2xckKvQQfitvHxRvk0
   popularity: 34
-  url: https://open.spotify.com/artist/2vFK2xckKvQQfitvHxRvk0
+  url: 'https://open.spotify.com/artist/2vFK2xckKvQQfitvHxRvk0'
   verified: false
 discography_enriched: true
 albums_count: 5
 singles_count: 0
 top_tracks:
-- Onde Anda o Meu Amor (A Chave do Sucesso)
-- Ondo Anda a Meu Amor (Brazilian Beats 1 (Mr Bongo presents))
-- 'Onde Anda O Meu Amor (Wanted Bossa Nova: From Diggers to Music Lovers)'
-- Onde Anda O Meu Amor (Orlandivo)
-- Disse Me Disse (Orlandivo)
-- Tudo Jóia (Orlandivo)
-- Tamanco No Samba (Orlandivo)
-- Um Abraço No Bengil (Orlandivo)
-- Bolinha De Sabão (Orlandivo)
-- Jura (A Chave do Sucesso)
+  - Onde Anda o Meu Amor (A Chave do Sucesso)
+  - Ondo Anda a Meu Amor (Brazilian Beats 1 (Mr Bongo presents))
+  - 'Onde Anda O Meu Amor (Wanted Bossa Nova: From Diggers to Music Lovers)'
+  - Onde Anda O Meu Amor (Orlandivo)
+  - Disse Me Disse (Orlandivo)
+  - Tudo Jóia (Orlandivo)
+  - Tamanco No Samba (Orlandivo)
+  - Um Abraço No Bengil (Orlandivo)
+  - Bolinha De Sabão (Orlandivo)
+  - Jura (A Chave do Sucesso)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/2vFK2xckKvQQfitvHxRvk0
+  spotify: 'https://open.spotify.com/artist/2vFK2xckKvQQfitvHxRvk0'
   wikipedia: Not available
 image_path: 03_Resources/source_material/ArtistPortraits/Orlandivo.jpg
 biography_source: wikipedia
@@ -86,14 +86,17 @@ biography_enhanced_at: '2025-09-30T12:09:38.476432'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://jazzstation-oblogdearnaldodesouteiros.blogspot.com/2017/02/rip-orlandivo-1937-2017.html
-- https://music.metason.net/artistinfo?name=Orlann+Divo
-- https://www.last.fm/music/Orlandivo/+wiki
+  - >-
+    http://jazzstation-oblogdearnaldodesouteiros.blogspot.com/2017/02/rip-orlandivo-1937-2017.html
+  - 'https://music.metason.net/artistinfo?name=Orlann+Divo'
+  - 'https://www.last.fm/music/Orlandivo/+wiki'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 15:21:31.539471
+entry_created: 2025-09-18T15:21:31.539Z
 last_updated: '2025-12-23T08:16:03.500018'
-
+origin: 'Rio de Janeiro, Rio de Janeiro, Brazil'
+death_date: '2017-02-08'
+artist_type: person
 ---
 
 ![](Orlandivo.jpg)

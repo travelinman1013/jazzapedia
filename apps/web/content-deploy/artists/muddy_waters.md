@@ -5,32 +5,32 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1913-04-04'
-birth_place: Issaquena County
+birth_place: 'Issaquena County, Mississippi, United States'
 death_date: '1983-04-30'
 genres:
-- blues
-- classic blues
-- blues rock
-- soul blues
-- jazz blues
+  - blues
+  - classic blues
+  - blues rock
+  - soul blues
+  - jazz blues
 instruments:
-- guitar
-- electric guitar
-- slide guitar
-- lead vocals
-- spoken vocals
-- vocal
+  - guitar
+  - electric guitar
+  - slide guitar
+  - lead vocals
+  - spoken vocals
+  - vocal
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a2e23010-5d0e-4106-acc2-c58ebe06af1c
-  name: The Muddy Waters Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 010eaa56-d526-4f6d-afce-8d4152d895fe
-  name: Son Simms Four
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a2e23010-5d0e-4106-acc2-c58ebe06af1c
+    name: The Muddy Waters Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 010eaa56-d526-4f6d-afce-8d4152d895fe
+    name: Son Simms Four
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/muddy_waters.jpg
   caption: Muddy Waters
@@ -53,51 +53,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Little Walter Jacobs
-  - Jimmy Rogers
-  - Otis Spann
-  - Willie Dixon
-  - Leonard and Phil Chess
+    - Little Walter Jacobs
+    - Jimmy Rogers
+    - Otis Spann
+    - Willie Dixon
+    - Leonard and Phil Chess
   influenced:
-  - The Rolling Stones
-  - Eric Clapton
-  - Led Zeppelin
-  - Buddy Guy
+    - The Rolling Stones
+    - Eric Clapton
+    - Led Zeppelin
+    - Buddy Guy
   mentors:
-  - Son House
-  - Robert Johnson
-  - Charley Patton
+    - Son House
+    - Robert Johnson
+    - Charley Patton
 spotify_data:
   followers: 1351954
   id: 4y6J8jwRAwO4dssiSmN91R
   popularity: 53
-  url: https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R
+  url: 'https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R'
 discography_enriched: true
 top_tracks:
-- Mannish Boy (King Of The Electric Blues)
-- I'm Your Hoochie Coochie Man (King Of The Electric Blues)
-- Got My Mojo Working (The Chess Box)
-- Soul Fever Blues (The Burning Spider)
-- Rollin' Stone (The Chess Box)
-- (I'm Your) Hoochie Coochie Man (The Chess Box)
-- My Home Is In The Delta (Folk Singer (Expanded Edition))
-- Good Morning Little School Girl (Folk Singer (Expanded Edition))
-- I Love The Life I Live (I Live The Life I Love) (The Chess Box)
-- I Can't Be Satisfied (The Chess Box)
+  - Mannish Boy (King Of The Electric Blues)
+  - I'm Your Hoochie Coochie Man (King Of The Electric Blues)
+  - Got My Mojo Working (The Chess Box)
+  - Soul Fever Blues (The Burning Spider)
+  - Rollin' Stone (The Chess Box)
+  - (I'm Your) Hoochie Coochie Man (The Chess Box)
+  - My Home Is In The Delta (Folk Singer (Expanded Edition))
+  - Good Morning Little School Girl (Folk Singer (Expanded Edition))
+  - I Love The Life I Live (I Live The Life I Love) (The Chess Box)
+  - I Can't Be Satisfied (The Chess Box)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f86f1f07-d182-45ce-ae93-ef610880ca72
-  spotify: https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R
-  wikipedia: https://en.wikipedia.org/wiki/Muddy_Waters
+  musicbrainz: 'https://musicbrainz.org/artist/f86f1f07-d182-45ce-ae93-ef610880ca72'
+  spotify: 'https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R'
+  wikipedia: 'https://en.wikipedia.org/wiki/Muddy_Waters'
 image_path: 03_Resources/source_material/ArtistPortraits/muddy_waters.jpg
 biography_enhanced_at: '2025-11-01T15:31:15.121366'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Muddy_Waters
-- https://www.biography.com/musicians/muddy-waters
-- https://www.mswritersandmusicians.com/mississippi-musicians/muddy-waters-mckinley-morganfield
-- https://bigtrainblues.com/muddy-waters/
-- https://teachrock.org/people/waters-muddy/
+  - 'https://en.wikipedia.org/wiki/Muddy_Waters'
+  - 'https://www.biography.com/musicians/muddy-waters'
+  - >-
+    https://www.mswritersandmusicians.com/mississippi-musicians/muddy-waters-mckinley-morganfield
+  - 'https://bigtrainblues.com/muddy-waters/'
+  - 'https://teachrock.org/people/waters-muddy/'
 network_extracted: true
 entry_created: '2025-11-01T15:31:15.121375'
 last_updated: '2025-12-23T08:16:13.344926'
@@ -105,10 +106,11 @@ disambiguation: blues musician
 gender: Male
 musicbrainz_id: f86f1f07-d182-45ce-ae93-ef610880ca72
 tags:
-- blues
-- blues rock
-- chicago blues
-
+  - blues
+  - blues rock
+  - chicago blues
+is_active: false
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](muddy_waters.jpg)

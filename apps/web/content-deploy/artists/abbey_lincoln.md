@@ -1,25 +1,25 @@
 ---
-title: abbey lincoln
+title: Abbey Lincoln
 wiki_slug: abbey-lincoln
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1930-08-06'
-birth_place: Chicago, Illinois, United States
+birth_place: 'Chicago, Illinois, United States'
 death_date: '2010-08-14'
 genres:
-- vocal jazz
-- jazz
+  - vocal jazz
+  - jazz
 instruments:
-- eponymous
-- lead vocals
-- original
+  - eponymous
+  - lead vocals
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/abbey_lincoln.jpg
   caption: abbey lincoln
   background: solo_singer
   born: '1930-08-06'
-  origin: Chicago, Illinois, United States
+  origin: 'Chicago, Illinois, United States'
   died: '2010-08-14'
 audio_profile:
   tempo_avg: 118.5
@@ -36,44 +36,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Max Roach
-  - Benny Carter
-  - Sonny Rollins
+    - Max Roach
+    - Benny Carter
+    - Sonny Rollins
   influenced:
-  - Christian McBride
-  - Nicholas Payton
+    - Christian McBride
+    - Nicholas Payton
   mentors:
-  - Billie Holiday
-  - Louis Armstrong
+    - Billie Holiday
+    - Louis Armstrong
 spotify_data:
   followers: 42422
   id: 0A9p7WNA1VwxVyrjx92Z9F
   popularity: 30
-  url: https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F
+  url: 'https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F'
 discography_enriched: true
 top_tracks:
-- Lucky To Be Me (Over The Years)
-- Do Nothing 'Til You Hear From Me (Abbey Lincoln's Affair... A Story Of A Girl In Love (Expanded Edition))
-- The Masquerade Is Over (Abbey Lincoln's Affair... A Story Of A Girl In Love (Expanded Edition))
-- This Can't Be Love (Abbey Lincoln's Affair... A Story Of A Girl In Love (Expanded Edition))
-- Throw It Away - 2007 Abbey sings Abbey Version (Abbey Sings Abbey)
-- Mr. Tambourine Man (Who Used To Dance)
-- Afro Blue - Remastered 1959 (Abbey Is Blue)
-- Softly, As In A Morning Sunrise - Remastered 1959 (Abbey Is Blue)
-- The Music Is The Magic - 2007 Abbey sings Abbey Version (Abbey Sings Abbey)
-- Brother? Can You Spare A Dime? (You Gotta Pay The Band)
+  - Lucky To Be Me (Over The Years)
+  - >-
+    Do Nothing 'Til You Hear From Me (Abbey Lincoln's Affair... A Story Of A
+    Girl In Love (Expanded Edition))
+  - >-
+    The Masquerade Is Over (Abbey Lincoln's Affair... A Story Of A Girl In Love
+    (Expanded Edition))
+  - >-
+    This Can't Be Love (Abbey Lincoln's Affair... A Story Of A Girl In Love
+    (Expanded Edition))
+  - Throw It Away - 2007 Abbey sings Abbey Version (Abbey Sings Abbey)
+  - Mr. Tambourine Man (Who Used To Dance)
+  - Afro Blue - Remastered 1959 (Abbey Is Blue)
+  - 'Softly, As In A Morning Sunrise - Remastered 1959 (Abbey Is Blue)'
+  - The Music Is The Magic - 2007 Abbey sings Abbey Version (Abbey Sings Abbey)
+  - Brother? Can You Spare A Dime? (You Gotta Pay The Band)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ce8cbced-8719-47b9-b728-6024e8b19b15
-  spotify: https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F
-  wikipedia: https://en.wikipedia.org/wiki/Abbey_Lincoln
+  musicbrainz: 'https://musicbrainz.org/artist/ce8cbced-8719-47b9-b728-6024e8b19b15'
+  spotify: 'https://open.spotify.com/artist/0A9p7WNA1VwxVyrjx92Z9F'
+  wikipedia: 'https://en.wikipedia.org/wiki/Abbey_Lincoln'
 image_path: 03_Resources/source_material/ArtistPortraits/abbey_lincoln.jpg
 biography_enhanced_at: '2025-10-20T09:33:00.200874'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Abbey_Lincoln
-- https://www.arts.gov/honors/jazz/abbey-lincoln
-- https://library.berklee.edu/indexed-people/lincoln-abbey
+  - 'https://en.wikipedia.org/wiki/Abbey_Lincoln'
+  - 'https://www.arts.gov/honors/jazz/abbey-lincoln'
+  - 'https://library.berklee.edu/indexed-people/lincoln-abbey'
 network_extracted: true
 entry_created: '2025-10-20T09:33:00.200886'
 last_updated: '2025-12-23T08:16:04.362239'
@@ -81,8 +87,10 @@ gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:48:19.895569'
 musicbrainz_id: ce8cbced-8719-47b9-b728-6024e8b19b15
 tags:
-- jazz
-- vocal jazz
+  - jazz
+  - vocal jazz
+is_active: false
+origin: 'New York City, New York, United States'
 ---
 
 ![](abbey_lincoln.jpg)

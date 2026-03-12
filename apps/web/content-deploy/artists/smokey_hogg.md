@@ -5,15 +5,15 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1914-01-27'
-birth_place: Texas
+birth_place: 'Westconnie, Rusk County, Texas, United States'
 death_date: '1960-05-01'
 genres:
-- classic blues
-- blues
-- country blues
+  - classic blues
+  - blues
+  - country blues
 instruments:
-- guitar
-- lead vocals
+  - guitar
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/smokey_hogg.jpg
   caption: Smokey Hogg
@@ -36,46 +36,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - B. K. Turner (Black Ace)
-  - Herbert T. Rippa Sr.
-  - Modern Records Studio Musicians
+    - B. K. Turner (Black Ace)
+    - Herbert T. Rippa Sr.
+    - Modern Records Studio Musicians
   influenced: []
   mentors:
-  - Frank Hogg
-  - B. K. Turner (Black Ace)
+    - Frank Hogg
+    - B. K. Turner (Black Ace)
 spotify_data:
   followers: 853
   id: 4ztakVdT3nUD6FxF3Omm21
   popularity: 5
-  url: https://open.spotify.com/artist/4ztakVdT3nUD6FxF3Omm21
+  url: 'https://open.spotify.com/artist/4ztakVdT3nUD6FxF3Omm21'
 discography_enriched: true
 top_tracks:
-- When I've Been Drinkin (Shake a Leg)
-- Hogg Oo-Oo-Wee
-- You Gotta Go (Penitentiary Blues)
-- What More Can A Woman Do
-- I Don't Want No Bloodstains
-- Prison Bound
-- I Want A Roller (The Specialty Story)
-- 'Train Whistle - Remastered (Anthology: The Deluxe Collection (Remastered))'
-- Look In Your Eyes Pretty Mama
-- Great big mama
+  - When I've Been Drinkin (Shake a Leg)
+  - Hogg Oo-Oo-Wee
+  - You Gotta Go (Penitentiary Blues)
+  - What More Can A Woman Do
+  - I Don't Want No Bloodstains
+  - Prison Bound
+  - I Want A Roller (The Specialty Story)
+  - 'Train Whistle - Remastered (Anthology: The Deluxe Collection (Remastered))'
+  - Look In Your Eyes Pretty Mama
+  - Great big mama
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/67fc12ac-60dd-4b03-bc2a-bd04ecea1e03
-  spotify: https://open.spotify.com/artist/4ztakVdT3nUD6FxF3Omm21
-  wikipedia: https://en.wikipedia.org/wiki/Smokey_Hogg
+  musicbrainz: 'https://musicbrainz.org/artist/67fc12ac-60dd-4b03-bc2a-bd04ecea1e03'
+  spotify: 'https://open.spotify.com/artist/4ztakVdT3nUD6FxF3Omm21'
+  wikipedia: 'https://en.wikipedia.org/wiki/Smokey_Hogg'
 image_path: 03_Resources/source_material/ArtistPortraits/smokey_hogg.jpg
 biography_enhanced_at: '2025-11-12T14:55:07.099448'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Smokey Hogg
-- From the Vaults - Boppin' Bob Blog
-- Texas State Historical Association Online Handbook
-- Blues Way Greece
-- Last.fm Music Database
-- AGRAM Blues
-- Blues Matters
+  - Wikipedia - Smokey Hogg
+  - From the Vaults - Boppin' Bob Blog
+  - Texas State Historical Association Online Handbook
+  - Blues Way Greece
+  - Last.fm Music Database
+  - AGRAM Blues
+  - Blues Matters
 network_extracted: true
 entry_created: '2025-11-12T14:55:07.099464'
 last_updated: '2025-12-23T08:16:15.793834'
@@ -83,9 +83,11 @@ disambiguation: US blues singer and guitarist
 gender: Male
 musicbrainz_id: 67fc12ac-60dd-4b03-bc2a-bd04ecea1e03
 tags:
-- blues
-- country blues
-- electric texas blues
+  - blues
+  - country blues
+  - electric texas blues
+is_active: false
+origin: 'Dallas, Texas, United States'
 ---
 
 ![](smokey_hogg.jpg)

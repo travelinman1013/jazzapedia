@@ -1,22 +1,22 @@
 ---
-title: fern jones
+title: Fern Jones
 wiki_slug: fern-jones
 schema_version: 2
 status: active
-birth_place: El Dorado, Arkansas, United States
+birth_place: 'El Dorado, Arkansas, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/fern_jones.jpg
   caption: fern jones
   background: solo_singer
-  origin: El Dorado, Arkansas, United States
+  origin: 'El Dorado, Arkansas, United States'
 audio_profile:
-  tempo_avg: 131.0
+  tempo_avg: 131
   energy_avg: 0.306
   valence_avg: 0.652
   danceability_avg: 0.599
   acousticness_avg: 0.912
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -10.4
   speechiness_avg: 0.041
   liveness_avg: 0.144
@@ -25,45 +25,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Nashville A Team (Hank Garland, Floyd Cramer, Joe Zinkan, Buddy Harman)
-  - The Sunshine Boys
+    - 'Nashville A Team (Hank Garland, Floyd Cramer, Joe Zinkan, Buddy Harman)'
+    - The Sunshine Boys
   influenced:
-  - Johnny Cash
-  - Jimmie Davis
+    - Johnny Cash
+    - Jimmie Davis
   mentors:
-  - Raymond Jones
+    - Raymond Jones
 spotify_data:
   followers: 1806
   id: 4lCa0KPb4ZCqrVtrfSGAdu
   popularity: 14
-  url: https://open.spotify.com/artist/4lCa0KPb4ZCqrVtrfSGAdu
+  url: 'https://open.spotify.com/artist/4lCa0KPb4ZCqrVtrfSGAdu'
 discography_enriched: true
 top_tracks:
-- Be Thankful You're You (The Glory Road)
-- Strange Things Happening Every Day (The Glory Road)
-- This World Is Not My Home (The Glory Road)
-- I Am A Pilgrim (The Glory Road)
-- Let Tomorrow Be (The Glory Road)
-- Strange Things Are Happening (Weeds (Music from the Original TV Series), Vol. 2)
-- Didn't It Rain (The Glory Road)
-- I Do Believe (The Glory Road)
-- I Ain't Got Time (The Glory Road)
-- We'll Understand It By And By (The Glory Road)
+  - Be Thankful You're You (The Glory Road)
+  - Strange Things Happening Every Day (The Glory Road)
+  - This World Is Not My Home (The Glory Road)
+  - I Am A Pilgrim (The Glory Road)
+  - Let Tomorrow Be (The Glory Road)
+  - >-
+    Strange Things Are Happening (Weeds (Music from the Original TV Series),
+    Vol. 2)
+  - Didn't It Rain (The Glory Road)
+  - I Do Believe (The Glory Road)
+  - I Ain't Got Time (The Glory Road)
+  - We'll Understand It By And By (The Glory Road)
 external_urls:
-  spotify: https://open.spotify.com/artist/4lCa0KPb4ZCqrVtrfSGAdu
-  wikipedia: https://encyclopediaofarkansas.net/entries/celesta-fern-jones-14968/
+  spotify: 'https://open.spotify.com/artist/4lCa0KPb4ZCqrVtrfSGAdu'
+  wikipedia: 'https://encyclopediaofarkansas.net/entries/celesta-fern-jones-14968/'
 image_path: 03_Resources/source_material/ArtistPortraits/fern_jones.jpg
 biography_enhanced_at: '2025-10-31T08:20:32.750862'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://encyclopediaofarkansas.net/entries/celesta-fern-jones-14968/
-- https://www.crossrhythms.co.uk/articles/music/Fern_Jones_The_1950s_gospel_pioneer_/21549/p1/
-- https://thegloryroad.com/CD/oxford_american.htm
-- https://aeso.wordpress.com/2008/05/21/fern-jones-the-glory-road/
+  - 'https://encyclopediaofarkansas.net/entries/celesta-fern-jones-14968/'
+  - >-
+    https://www.crossrhythms.co.uk/articles/music/Fern_Jones_The_1950s_gospel_pioneer_/21549/p1/
+  - 'https://thegloryroad.com/CD/oxford_american.htm'
+  - 'https://aeso.wordpress.com/2008/05/21/fern-jones-the-glory-road/'
 network_extracted: true
 entry_created: '2025-10-31T08:20:32.750874'
 last_updated: '2025-12-23T08:16:08.614661'
+birth_date: '1923'
+artist_type: person
 ---
 
 ![](fern_jones.jpg)

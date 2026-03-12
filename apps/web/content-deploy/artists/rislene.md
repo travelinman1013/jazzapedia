@@ -1,13 +1,13 @@
 ---
 biography_enhanced_at: '2025-12-28T01:57:53.135902'
-birth_place: Paris, France (base; Franco-Caboverdian origin)
+birth_place: 'Paris, France, null'
 enhancement_provider: perplexity
 entry_created: '2025-12-28T01:57:53.135915'
 external_urls:
-  spotify: https://open.spotify.com/artist/2323qzOfGL0pQYXoLdz8PR
+  spotify: 'https://open.spotify.com/artist/2323qzOfGL0pQYXoLdz8PR'
   wikipedia: ''
 genres:
-- portuguese hip hop
+  - portuguese hip hop
 image_path: 03_Resources/source_material/ArtistPortraits/rislene.jpg
 last_updated: '2025-12-28T01:57:53.135917'
 musical_connections:
@@ -17,16 +17,17 @@ musical_connections:
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://sonymusic.pt/artist/rislene/
-- https://www.millisboa.com/en/news/line-up-reveal
+  - 'https://sonymusic.pt/artist/rislene/'
+  - 'https://www.millisboa.com/en/news/line-up-reveal'
 spotify_data:
   followers: 4169
   id: 2323qzOfGL0pQYXoLdz8PR
   popularity: 30
-  url: https://open.spotify.com/artist/2323qzOfGL0pQYXoLdz8PR
+  url: 'https://open.spotify.com/artist/2323qzOfGL0pQYXoLdz8PR'
 status: active
-title: rislene
-
+title: Rislene
+origin: 'Paris, France, null'
+artist_type: person
 ---
 
 ![](rislene.jpg)

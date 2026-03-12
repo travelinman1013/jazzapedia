@@ -1,183 +1,184 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2025-12-31T01:47:57.467218'
 birth_date: '1961'
 disambiguation: American rock band
 enhancement_provider: perplexity
 entry_created: '2025-12-31T01:47:57.467223'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ebfc1398-8d96-47e3-82c3-f782abcdb13d
-  spotify: https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV
-  wikipedia: https://en.wikipedia.org/wiki/The_Beach_Boys
+  musicbrainz: 'https://musicbrainz.org/artist/ebfc1398-8d96-47e3-82c3-f782abcdb13d'
+  spotify: 'https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Beach_Boys'
 genres:
-- baroque pop
+  - baroque pop
 image_path: 03_Resources/source_material/ArtistPortraits/the_beach_boys.jpg
 instruments:
-- bass guitar
-- guitar
-- lead vocals
-- original
-- percussion
-- drums (drum set)
-- keyboard
-- saxophone
+  - bass guitar
+  - guitar
+  - lead vocals
+  - original
+  - percussion
+  - drums (drum set)
+  - keyboard
+  - saxophone
 last_updated: '2025-12-31T01:47:57.467223'
 members:
-- begin: '1961'
-  end: 1962-01
-  instruments:
-  - bass guitar
-  - guitar
-  - lead vocals
-  - original
-  mbid: b9bb7959-bdcf-45c2-a73a-0ac2e4333c2f
-  name: Al Jardine
-- begin: '1961'
-  end: '1980'
-  instruments:
-  - bass guitar
-  - guitar
-  - lead vocals
-  - original
-  - percussion
-  mbid: aecfaa2c-d042-40b5-b4c4-05534acafd3a
-  name: Carl Wilson
-- begin: '1961'
-  end: '1983'
-  instruments:
-  - drums (drum set)
-  - keyboard
-  - lead vocals
-  - original
-  mbid: 4051f6bf-6a59-4d23-bd8b-2fddb1389dc0
-  name: Dennis Wilson
-- begin: '1961'
-  end: '1996'
-  instruments:
-  - bass guitar
-  - keyboard
-  - lead vocals
-  - original
-  - percussion
-  mbid: 634fe78e-fc6b-4b2a-ba83-c8c66e13a8aa
-  name: Brian Wilson
-- &id001
-  begin: '1961'
-  end: ''
-  instruments:
-  - lead vocals
-  - original
-  - saxophone
-  mbid: f032428d-9454-4044-a83c-9a34cbfa6244
-  name: Mike Love
-- begin: 1962-02
-  end: 1963-10
-  instruments:
-  - guitar
-  - lead vocals
-  mbid: 8995f845-c5ed-4c24-a240-3af232ef6eac
-  name: David Marks
-- begin: '1963'
-  end: '1998'
-  instruments:
-  - bass guitar
-  - guitar
-  - lead vocals
-  mbid: b9bb7959-bdcf-45c2-a73a-0ac2e4333c2f
-  name: Al Jardine
-- begin: 1964-12
-  end: 1965-03
-  instruments:
-  - bass guitar
-  - guitar
-  - keyboard
-  - lead vocals
-  mbid: 57976431-1a5c-4968-a422-b92c5e9b0d4f
-  name: Glen Campbell
-- begin: 1965-03
-  end: 1972-04
-  instruments:
-  - bass guitar
-  - keyboard
-  - lead vocals
-  mbid: 38bcc90c-2a59-4e62-ac5a-8034cd49ae44
-  name: Bruce Johnston
-- begin: 1972-03
-  end: '1973'
-  instruments:
-  - bass guitar
-  - guitar
-  - lead vocals
-  mbid: 756335e3-00c1-4094-b878-b28d70477fd2
-  name: Blondie Chaplin
-- begin: 1972-03
-  end: '1974'
-  instruments:
-  - drums (drum set)
-  - keyboard
-  - lead vocals
-  mbid: 1e9177d5-7804-4b2d-b270-9127a2c47259
-  name: Ricky Fataar
-- &id002
-  begin: '1978'
-  end: ''
-  instruments:
-  - bass guitar
-  - keyboard
-  - lead vocals
-  mbid: 38bcc90c-2a59-4e62-ac5a-8034cd49ae44
-  name: Bruce Johnston
-- begin: 1982-05
-  end: '1997'
-  instruments:
-  - guitar
-  - lead vocals
-  mbid: aecfaa2c-d042-40b5-b4c4-05534acafd3a
-  name: Carl Wilson
-- begin: '1997'
-  end: '1999'
-  instruments:
-  - guitar
-  - lead vocals
-  mbid: 8995f845-c5ed-4c24-a240-3af232ef6eac
-  name: David Marks
+  - begin: '1961'
+    end: 1962-01
+    instruments:
+      - bass guitar
+      - guitar
+      - lead vocals
+      - original
+    mbid: b9bb7959-bdcf-45c2-a73a-0ac2e4333c2f
+    name: Al Jardine
+  - begin: '1961'
+    end: '1980'
+    instruments:
+      - bass guitar
+      - guitar
+      - lead vocals
+      - original
+      - percussion
+    mbid: aecfaa2c-d042-40b5-b4c4-05534acafd3a
+    name: Carl Wilson
+  - begin: '1961'
+    end: '1983'
+    instruments:
+      - drums (drum set)
+      - keyboard
+      - lead vocals
+      - original
+    mbid: 4051f6bf-6a59-4d23-bd8b-2fddb1389dc0
+    name: Dennis Wilson
+  - begin: '1961'
+    end: '1996'
+    instruments:
+      - bass guitar
+      - keyboard
+      - lead vocals
+      - original
+      - percussion
+    mbid: 634fe78e-fc6b-4b2a-ba83-c8c66e13a8aa
+    name: Brian Wilson
+  - &ref_0
+    begin: '1961'
+    end: ''
+    instruments:
+      - lead vocals
+      - original
+      - saxophone
+    mbid: f032428d-9454-4044-a83c-9a34cbfa6244
+    name: Mike Love
+  - begin: 1962-02
+    end: 1963-10
+    instruments:
+      - guitar
+      - lead vocals
+    mbid: 8995f845-c5ed-4c24-a240-3af232ef6eac
+    name: David Marks
+  - begin: '1963'
+    end: '1998'
+    instruments:
+      - bass guitar
+      - guitar
+      - lead vocals
+    mbid: b9bb7959-bdcf-45c2-a73a-0ac2e4333c2f
+    name: Al Jardine
+  - begin: 1964-12
+    end: 1965-03
+    instruments:
+      - bass guitar
+      - guitar
+      - keyboard
+      - lead vocals
+    mbid: 57976431-1a5c-4968-a422-b92c5e9b0d4f
+    name: Glen Campbell
+  - begin: 1965-03
+    end: 1972-04
+    instruments:
+      - bass guitar
+      - keyboard
+      - lead vocals
+    mbid: 38bcc90c-2a59-4e62-ac5a-8034cd49ae44
+    name: Bruce Johnston
+  - begin: 1972-03
+    end: '1973'
+    instruments:
+      - bass guitar
+      - guitar
+      - lead vocals
+    mbid: 756335e3-00c1-4094-b878-b28d70477fd2
+    name: Blondie Chaplin
+  - begin: 1972-03
+    end: '1974'
+    instruments:
+      - drums (drum set)
+      - keyboard
+      - lead vocals
+    mbid: 1e9177d5-7804-4b2d-b270-9127a2c47259
+    name: Ricky Fataar
+  - &ref_1
+    begin: '1978'
+    end: ''
+    instruments:
+      - bass guitar
+      - keyboard
+      - lead vocals
+    mbid: 38bcc90c-2a59-4e62-ac5a-8034cd49ae44
+    name: Bruce Johnston
+  - begin: 1982-05
+    end: '1997'
+    instruments:
+      - guitar
+      - lead vocals
+    mbid: aecfaa2c-d042-40b5-b4c4-05534acafd3a
+    name: Carl Wilson
+  - begin: '1997'
+    end: '1999'
+    instruments:
+      - guitar
+      - lead vocals
+    mbid: 8995f845-c5ed-4c24-a240-3af232ef6eac
+    name: David Marks
 musical_connections:
   collaborators:
-  - Brian Wilson
-  - Mike Love
-  - Dennis Wilson
-  - Carl Wilson
-  - Al Jardine
-  - David Marks
-  - Bruce Johnston
+    - Brian Wilson
+    - Mike Love
+    - Dennis Wilson
+    - Carl Wilson
+    - Al Jardine
+    - David Marks
+    - Bruce Johnston
   influenced:
-  - Psychedelic rock movement
-  - 1960s youth and counterculture
+    - Psychedelic rock movement
+    - 1960s youth and counterculture
   mentors:
-  - Murry Wilson
+    - Murry Wilson
 musicbrainz_id: ebfc1398-8d96-47e3-82c3-f782abcdb13d
 network_extracted: true
-origin: Hawthorne
+origin: 'Hawthorne, California, United States'
 original_members:
-- *id001
-- *id002
+  - *ref_0
+  - *ref_1
 primary_source: perplexity
 research_sources:
-- https://thehistoryofrockandroll.net/the-beach-boys/
-- https://www.biography.com/musicians/a65036824/beach-boys-history-brian-wilson
-- https://study.com/academy/lesson/the-beach-boys-members-albums-songs.html
-- https://en.wikipedia.org/wiki/The_Beach_Boys
-- https://www.britannica.com/topic/the-Beach-Boys
+  - 'https://thehistoryofrockandroll.net/the-beach-boys/'
+  - >-
+    https://www.biography.com/musicians/a65036824/beach-boys-history-brian-wilson
+  - 'https://study.com/academy/lesson/the-beach-boys-members-albums-songs.html'
+  - 'https://en.wikipedia.org/wiki/The_Beach_Boys'
+  - 'https://www.britannica.com/topic/the-Beach-Boys'
 spotify_data:
   followers: 5154210
   id: 3oDbviiivRWhXwIE8hxkVV
   popularity: 78
-  url: https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV
+  url: 'https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV'
 status: active
 tags:
-- american
-- baroque pop
-- classic rock
+  - american
+  - baroque pop
+  - classic rock
 title: The Beach Boys
 ---
 

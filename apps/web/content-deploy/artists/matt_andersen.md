@@ -4,16 +4,16 @@ wiki_slug: matt-andersen
 schema_version: 2
 artist_type: person
 status: active
-birth_place: Perth-Andover
+birth_place: 'Perth-Andover, New Brunswick, Canada'
 genres:
-- blues
-- modern blues
-- roots rock
+  - blues
+  - modern blues
+  - roots rock
 instruments:
-- guitar
-- electric guitar
-- acoustic guitar
-- lead vocals
+  - guitar
+  - electric guitar
+  - acoustic guitar
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/matt_andersen.jpg
   caption: Matt Andersen
@@ -34,52 +34,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mike Stevens
-  - Colin Linden
-  - Steve Berlin
-  - Commissioner Gordon (Gordon Williams)
-  - The Big Bottle of Joy (touring/recording band)
+    - Mike Stevens
+    - Colin Linden
+    - Steve Berlin
+    - Commissioner Gordon (Gordon Williams)
+    - The Big Bottle of Joy (touring/recording band)
   influenced:
-  - ''
+    - ''
   mentors:
-  - Bo Diddley
-  - Buddy Guy
-  - Gregg Allman
+    - Bo Diddley
+    - Buddy Guy
+    - Gregg Allman
 spotify_data:
   followers: 50761
   id: 2dOaom01dm1MhNLnyHpWD5
   popularity: 39
-  url: https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5
+  url: 'https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5'
 discography_enriched: true
 top_tracks:
-- Magnolia
-- The Hammer & The Rose
-- Ain't No Sunshine (Second Time Around)
-- Honest Man
-- Quarter on the Ground (A Song for Uncle Joe) (Halfway Home By Morning)
-- Quarter on the Ground (A Song for Uncle Joe) (Halfway Home By Morning)
-- Other Side of Goodbye
-- Ain't No Sunshine
-- Other Side of Goodbye (House to House)
-- Let It Slide (The Big Bottle of Joy)
+  - Magnolia
+  - The Hammer & The Rose
+  - Ain't No Sunshine (Second Time Around)
+  - Honest Man
+  - Quarter on the Ground (A Song for Uncle Joe) (Halfway Home By Morning)
+  - Quarter on the Ground (A Song for Uncle Joe) (Halfway Home By Morning)
+  - Other Side of Goodbye
+  - Ain't No Sunshine
+  - Other Side of Goodbye (House to House)
+  - Let It Slide (The Big Bottle of Joy)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/351f742b-35b8-4ebc-9646-78790503fcda
-  spotify: https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5
-  wikipedia: https://en.wikipedia.org/wiki/Matt_Andersen
+  musicbrainz: 'https://musicbrainz.org/artist/351f742b-35b8-4ebc-9646-78790503fcda'
+  spotify: 'https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5'
+  wikipedia: 'https://en.wikipedia.org/wiki/Matt_Andersen'
 image_path: 03_Resources/source_material/ArtistPortraits/matt_andersen.jpg
 biography_enhanced_at: '2025-12-11T03:52:39.301597'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Matt_Andersen
-- https://admitone.com/artist/Matt-Andersen/5fe26eef96267700178ebf60
-- https://www.stubbyfingers.ca/info/
-- http://www.sonicentertainmentgroup.com/mediatools/mattandersen/MattAndersen_Biography.pdf
-- https://justusfolk.com/matt-andersen-and-the-big-bottle-of-joy
-- https://thebluegrasssituation.com/read/bgs-55-matt-andersen/
-- https://www.saltscapes.com/roots-folks/1548-diary-of-a-dream.html
-- https://alleyesmedia.com/clients/matt-andersen-2/
-- https://www.loudersound.com/features/matt-andersen-i-like-to-let-the-music-come-to-life-organically
+  - 'https://en.wikipedia.org/wiki/Matt_Andersen'
+  - 'https://admitone.com/artist/Matt-Andersen/5fe26eef96267700178ebf60'
+  - 'https://www.stubbyfingers.ca/info/'
+  - >-
+    http://www.sonicentertainmentgroup.com/mediatools/mattandersen/MattAndersen_Biography.pdf
+  - 'https://justusfolk.com/matt-andersen-and-the-big-bottle-of-joy'
+  - 'https://thebluegrasssituation.com/read/bgs-55-matt-andersen/'
+  - 'https://www.saltscapes.com/roots-folks/1548-diary-of-a-dream.html'
+  - 'https://alleyesmedia.com/clients/matt-andersen-2/'
+  - >-
+    https://www.loudersound.com/features/matt-andersen-i-like-to-let-the-music-come-to-life-organically
 network_extracted: true
 entry_created: '2025-12-11T03:52:39.301605'
 last_updated: '2025-12-23T08:16:12.822979'
@@ -87,7 +89,8 @@ disambiguation: Canadian blues
 gender: Male
 musicbrainz_id: 351f742b-35b8-4ebc-9646-78790503fcda
 tags:
-- blues
+  - blues
+origin: 'Perth-Andover, New Brunswick, Canada'
 ---
 
 ![](matt_andersen.jpg)

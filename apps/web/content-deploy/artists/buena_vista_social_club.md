@@ -2,21 +2,21 @@
 title: Buena Vista Social Club
 wiki_slug: buena-vista-social-club
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1996'
 genres:
-- son cubano
-- latin jazz
-- latin
-- bolero
+  - son cubano
+  - latin jazz
+  - latin
+  - bolero
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/buena_vista_social_club.jpg
   caption: Buena Vista Social Club
   background: group_or_band
   born: '1996'
 audio_profile:
-  tempo_avg: 117.0
+  tempo_avg: 117
   energy_avg: 0.506
   valence_avg: 0.662
   danceability_avg: 0.541
@@ -30,126 +30,126 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ry Cooder
-  - Nick Gold
-  - Juan de Marcos González
-  - Wim Wenders
-  - Afro‑Cuban All Stars
+    - Ry Cooder
+    - Nick Gold
+    - Juan de Marcos González
+    - Wim Wenders
+    - Afro‑Cuban All Stars
   influenced:
-  - Contemporary Cuban and Latin jazz ensembles
-  - World music and Latin fusion artists
+    - Contemporary Cuban and Latin jazz ensembles
+    - World music and Latin fusion artists
   mentors:
-  - Arsenio Rodríguez
+    - Arsenio Rodríguez
 spotify_data:
   followers: 1447053
   id: 11kBu957KTYoAltZHDm8gW
   popularity: 64
-  url: https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW
+  url: 'https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW'
 discography_enriched: true
 top_tracks:
-- Chan Chan (Buena Vista Social Club)
-- Dos Gardenias (Buena Vista Social Club)
-- El Cuarto de Tula (Buena Vista Social Club)
-- Candela (Buena Vista Social Club)
-- De Camino a la Vereda (Buena Vista Social Club)
-- Tiene Sabor (feat. Omara Portuondo) (Lost and Found)
-- El Carretero (Buena Vista Social Club)
-- Veinte Años (Buena Vista Social Club)
-- Lágrimas Negras (feat. Omara Portuondo) (Lost and Found)
-- Amor de Loca Juventud (Buena Vista Social Club)
+  - Chan Chan (Buena Vista Social Club)
+  - Dos Gardenias (Buena Vista Social Club)
+  - El Cuarto de Tula (Buena Vista Social Club)
+  - Candela (Buena Vista Social Club)
+  - De Camino a la Vereda (Buena Vista Social Club)
+  - Tiene Sabor (feat. Omara Portuondo) (Lost and Found)
+  - El Carretero (Buena Vista Social Club)
+  - Veinte Años (Buena Vista Social Club)
+  - Lágrimas Negras (feat. Omara Portuondo) (Lost and Found)
+  - Amor de Loca Juventud (Buena Vista Social Club)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2a85ecff-41e9-4be1-aca6-c87054a4c334
-  spotify: https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW
-  wikipedia: https://en.wikipedia.org/wiki/Buena_Vista_Social_Club
+  musicbrainz: 'https://musicbrainz.org/artist/2a85ecff-41e9-4be1-aca6-c87054a4c334'
+  spotify: 'https://open.spotify.com/artist/11kBu957KTYoAltZHDm8gW'
+  wikipedia: 'https://en.wikipedia.org/wiki/Buena_Vista_Social_Club'
 image_path: 03_Resources/source_material/ArtistPortraits/buena_vista_social_club.jpg
 biography_enhanced_at: '2025-12-05T06:19:58.434642'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Official Buena Vista Social Club site and project story
-- Historical overviews of the group and its recording sessions
-- Biographical material on key members and collaborators
-- General reference entry for Buena Vista Social Club
+  - Official Buena Vista Social Club site and project story
+  - Historical overviews of the group and its recording sessions
+  - Biographical material on key members and collaborators
+  - General reference entry for Buena Vista Social Club
 network_extracted: true
 entry_created: '2025-12-05T06:19:58.434650'
 last_updated: '2025-12-23T08:16:06.236397'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2eeccea9-efda-4b12-b939-0edf34de8922
-  name: Barbarito Torres
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4b062412-8c5a-43cd-9769-11d0019b05a1
-  name: Luis Barzaga
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8481b31d-6d23-476f-bec3-c22c5d11761b
-  name: Joachim Cooder
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a4e2650b-938b-4b72-95bc-6e229cd34601
-  name: Ry Cooder
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a61930ae-dfe3-4574-bc5b-b0fa8d8efb62
-  name: Ibrahim Ferrer
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 07b3a182-5799-4dee-859a-791d2ca766cd
-  name: Luis Frank
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 861dbed8-5662-4778-9eca-3abb2245710e
-  name: Rubén González
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0094b33e-b865-40fd-8913-ba6d66752fa6
-  name: Orlando “Cachaíto” López
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1de8629a-9dd3-444c-86a0-9f9bd8c02218
-  name: Eliades Ochoa
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d2e06763-1035-4b1a-82c7-b7c08e06ba48
-  name: Omara Portuondo
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6299f8bd-6bb9-4020-a1df-3a30a93fce9b
-  name: Salvador Repilado
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8b8ab7a4-add8-4353-a586-e1086e521af8
-  name: Compay Segundo
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d4861831-debc-4287-862d-658668aa1876
-  name: Benito Suárez
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 595e2514-9ebb-4bd0-9b87-68809a45c861
-  name: Lázaro Villa
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2eeccea9-efda-4b12-b939-0edf34de8922
+    name: Barbarito Torres
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4b062412-8c5a-43cd-9769-11d0019b05a1
+    name: Luis Barzaga
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8481b31d-6d23-476f-bec3-c22c5d11761b
+    name: Joachim Cooder
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a4e2650b-938b-4b72-95bc-6e229cd34601
+    name: Ry Cooder
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a61930ae-dfe3-4574-bc5b-b0fa8d8efb62
+    name: Ibrahim Ferrer
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 07b3a182-5799-4dee-859a-791d2ca766cd
+    name: Luis Frank
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 861dbed8-5662-4778-9eca-3abb2245710e
+    name: Rubén González
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0094b33e-b865-40fd-8913-ba6d66752fa6
+    name: Orlando “Cachaíto” López
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1de8629a-9dd3-444c-86a0-9f9bd8c02218
+    name: Eliades Ochoa
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d2e06763-1035-4b1a-82c7-b7c08e06ba48
+    name: Omara Portuondo
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6299f8bd-6bb9-4020-a1df-3a30a93fce9b
+    name: Salvador Repilado
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8b8ab7a4-add8-4353-a586-e1086e521af8
+    name: Compay Segundo
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d4861831-debc-4287-862d-658668aa1876
+    name: Benito Suárez
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 595e2514-9ebb-4bd0-9b87-68809a45c861
+    name: Lázaro Villa
 musicbrainz_id: 2a85ecff-41e9-4be1-aca6-c87054a4c334
-origin: La Habana
+origin: 'La Habana, Cuba'
 tags:
-- afro-cuban jazz
-- bolero son
-- folk
+  - afro-cuban jazz
+  - bolero son
+  - folk
 ---
 
 ![](buena_vista_social_club.jpg)

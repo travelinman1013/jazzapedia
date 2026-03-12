@@ -1,37 +1,40 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-14T01:09:51.660509'
-birth_place: Marietta, Arkansas, United States
+birth_place: 'Marietta, Arkansas, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-14T01:09:51.660525'
 external_urls:
-  spotify: https://open.spotify.com/artist/4zaUiALGzCjfr0s9WKXCXL
+  spotify: 'https://open.spotify.com/artist/4zaUiALGzCjfr0s9WKXCXL'
   wikipedia: ''
 genres:
-- shoegaze
-- slowcore
+  - shoegaze
+  - slowcore
 image_path: 03_Resources/source_material/ArtistPortraits/blue_smitty.jpg
 last_updated: '2026-01-14T01:09:51.660526'
 musical_connections:
   collaborators: []
   influenced: []
   mentors:
-  - Muddy Waters
+    - Muddy Waters
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.allaboutbluesmusic.com/blue-smitty/
-- https://www.last.fm/music/Blue+Smitty
-- https://wbssmedia.com/artists/detail/2754
-- https://secondhandsongs.com/artist/35921/all
-- https://www.wirz.de/music/blsmitty.htm
+  - 'https://www.allaboutbluesmusic.com/blue-smitty/'
+  - 'https://www.last.fm/music/Blue+Smitty'
+  - 'https://wbssmedia.com/artists/detail/2754'
+  - 'https://secondhandsongs.com/artist/35921/all'
+  - 'https://www.wirz.de/music/blsmitty.htm'
 spotify_data:
   followers: 71253
   id: 4zaUiALGzCjfr0s9WKXCXL
   popularity: 39
-  url: https://open.spotify.com/artist/4zaUiALGzCjfr0s9WKXCXL
+  url: 'https://open.spotify.com/artist/4zaUiALGzCjfr0s9WKXCXL'
 status: active
-title: BLUE SMITTY
+title: Blue Smitty
+origin: 'Chicago, Illinois, United States'
+birth_date: '1924-11-06'
+death_date: '2007-12-05'
 ---
 
 ![](blue_smitty.jpg)

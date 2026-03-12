@@ -1,44 +1,48 @@
 ---
-artist_type: band
+artist_type: person
 biography_enhanced_at: '2026-01-12T02:08:35.986732'
 enhancement_provider: perplexity
 entry_created: '2026-01-12T02:08:35.986738'
 external_urls:
-  spotify: https://open.spotify.com/artist/7e4sU9TwUkot4QO03Suoqm
-  wikipedia: https://en.wikipedia.org/wiki/Junk_Yard_Band
+  spotify: 'https://open.spotify.com/artist/7e4sU9TwUkot4QO03Suoqm'
+  wikipedia: 'https://en.wikipedia.org/wiki/Junk_Yard_Band'
 genres:
-- go-go
-- baltimore club
+  - go-go
+  - baltimore club
 image_path: 03_Resources/source_material/ArtistPortraits/junkyard_band.jpg
 is_active: true
 last_updated: '2026-01-12T02:08:35.986739'
 musical_connections:
   collaborators:
-  - Run-D.M.C. (Run and Russell Simmons)
-  - Def Jam Recordings artists (Guy, Salt-N-Pepa, Tupac Shakur, Beastie Boys, Slayer)
-  - Heavy One (Willie Irving) and core Junk Yard Band members
+    - Run-D.M.C. (Run and Russell Simmons)
+    - >-
+      Def Jam Recordings artists (Guy, Salt-N-Pepa, Tupac Shakur, Beastie Boys,
+      Slayer)
+    - Heavy One (Willie Irving) and core Junk Yard Band members
   influenced:
-  - Later-generation D.C. go-go bands
-  - D.C. hip-hop artists (e.g., Wale and contemporaries drawing from go-go)
+    - Later-generation D.C. go-go bands
+    - 'D.C. hip-hop artists (e.g., Wale and contemporaries drawing from go-go)'
   mentors:
-  - Chuck Brown
-  - Rare Essence
+    - Chuck Brown
+    - Rare Essence
 network_extracted: true
-origin: Barry Farm, Washington, D.C., United States
+origin: 'Washington, D.C., United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Junk_Yard_Band
-- https://www.last.fm/music/Junkyard+Band/+wiki
-- https://spintimerecords.com/collections/junkyard-band
-- https://www.youtube.com/watch?v=NCvEZj8scOM
-- https://themsuspokesman.com/5010/sections/what-happened-to-go-go/
-- https://washingtonian.com/2019/10/30/history-go-go-6-step-guide-the-essentials/
-- https://www.eastcityart.com/profiles/anacostia-mural-many-voices-many-beats-one-city-memorializes-titans-go-go/
+  - 'https://en.wikipedia.org/wiki/Junk_Yard_Band'
+  - 'https://www.last.fm/music/Junkyard+Band/+wiki'
+  - 'https://spintimerecords.com/collections/junkyard-band'
+  - 'https://www.youtube.com/watch?v=NCvEZj8scOM'
+  - 'https://themsuspokesman.com/5010/sections/what-happened-to-go-go/'
+  - >-
+    https://washingtonian.com/2019/10/30/history-go-go-6-step-guide-the-essentials/
+  - >-
+    https://www.eastcityart.com/profiles/anacostia-mural-many-voices-many-beats-one-city-memorializes-titans-go-go/
 spotify_data:
   followers: 13125
   id: 7e4sU9TwUkot4QO03Suoqm
   popularity: 23
-  url: https://open.spotify.com/artist/7e4sU9TwUkot4QO03Suoqm
+  url: 'https://open.spotify.com/artist/7e4sU9TwUkot4QO03Suoqm'
 status: active
 title: Junkyard Band
 ---

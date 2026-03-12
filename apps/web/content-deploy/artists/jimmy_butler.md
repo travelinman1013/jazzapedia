@@ -1,15 +1,19 @@
 ---
-title: jimmy butler
+title: Jimmy Butler
 wiki_slug: jimmy-butler
 schema_version: 2
 status: active
-birth_place: Sunflower, Mississippi, United States (born); Chicago, Illinois, United States (raised)
+birth_place: >-
+  Sunflower, Mississippi, United States (born); Chicago, Illinois, United States
+  (raised)
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jimmy_butler.jpg
   caption: jimmy butler
   background: solo_singer
-  origin: Sunflower, Mississippi, United States (born); Chicago, Illinois, United States (raised)
+  origin: >-
+    Sunflower, Mississippi, United States (born); Chicago, Illinois, United
+    States (raised)
 audio_profile:
   tempo_avg: 128.1
   energy_avg: 0.425
@@ -25,47 +29,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Curtis Mayfield
-  - Gamble and Huff
-  - Otis Redding
-  - Billy Butler
+    - Curtis Mayfield
+    - Gamble and Huff
+    - Otis Redding
+    - Billy Butler
   influenced: []
   mentors:
-  - Curtis Mayfield
-  - Sam Cooke
+    - Curtis Mayfield
+    - Sam Cooke
 spotify_data:
   followers: 317
   id: 1mz5nrwiePDQczBr5OmLHp
   popularity: 16
-  url: https://open.spotify.com/artist/1mz5nrwiePDQczBr5OmLHp
+  url: 'https://open.spotify.com/artist/1mz5nrwiePDQczBr5OmLHp'
 discography_enriched: true
 top_tracks:
-- Trim Your Tree (Savoy Christmas Blues)
-- 'Trim Your Tree (Christmas Blues: Savoy Jazz Christmas Album)'
-- Brog Left the Bog (Brog Left the Bog)
-- Trim Your Tree (Mr. Santa's Boogie (Rhythm & Blues Christmas 1948 - 1957))
-- Trim Your Tree (Christmas in Heaven Blues (Episode 2))
-- Trim Your Tree (Doo Wop Christmas)
-- Trim Your Tree (Bluesy Christmas)
-- Trim Your Tree (Special Days (Santas Secret))
-- Trim Your Tree (Silver Bells)
-- Trim Your Tree (Blue Christmas)
+  - Trim Your Tree (Savoy Christmas Blues)
+  - 'Trim Your Tree (Christmas Blues: Savoy Jazz Christmas Album)'
+  - Brog Left the Bog (Brog Left the Bog)
+  - Trim Your Tree (Mr. Santa's Boogie (Rhythm & Blues Christmas 1948 - 1957))
+  - Trim Your Tree (Christmas in Heaven Blues (Episode 2))
+  - Trim Your Tree (Doo Wop Christmas)
+  - Trim Your Tree (Bluesy Christmas)
+  - Trim Your Tree (Special Days (Santas Secret))
+  - Trim Your Tree (Silver Bells)
+  - Trim Your Tree (Blue Christmas)
 external_urls:
-  spotify: https://open.spotify.com/artist/1mz5nrwiePDQczBr5OmLHp
-  wikipedia: https://en.wikipedia.org/wiki/Jerry_Butler
+  spotify: 'https://open.spotify.com/artist/1mz5nrwiePDQczBr5OmLHp'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jerry_Butler'
 image_path: 03_Resources/source_material/ArtistPortraits/jimmy_butler.jpg
 biography_enhanced_at: '2025-12-12T12:07:37.591604'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jerry_Butler
-- https://www.si.com/fannation/rodeo/western-lifestyle/miami-heat-superstar-jimmy-butler-forging-way-to-country-music-album-laura9
-- https://thegarnettereport.com/entertainment/slug-jimmy-butler-country-music-love/
-- http://jb.jamesbutlermusic.com
-- https://tasteofcountry.com/nba-jimmy-butler-country-album/
+  - 'https://en.wikipedia.org/wiki/Jerry_Butler'
+  - >-
+    https://www.si.com/fannation/rodeo/western-lifestyle/miami-heat-superstar-jimmy-butler-forging-way-to-country-music-album-laura9
+  - >-
+    https://thegarnettereport.com/entertainment/slug-jimmy-butler-country-music-love/
+  - 'http://jb.jamesbutlermusic.com'
+  - 'https://tasteofcountry.com/nba-jimmy-butler-country-album/'
 network_extracted: true
 entry_created: '2025-12-12T12:07:37.591610'
 last_updated: '2025-12-23T08:16:10.418213'
+origin: 'Chicago, Illinois, United States'
+birth_date: '1939-12-08'
+death_date: '2025-02-20'
+artist_type: person
 ---
 
 ![](jimmy_butler.jpg)

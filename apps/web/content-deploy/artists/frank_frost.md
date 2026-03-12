@@ -1,17 +1,17 @@
 ---
-title: frank frost
+title: Frank Frost
 wiki_slug: frank-frost
 schema_version: 2
 status: active
-birth_place: Auvergne, Arkansas, United States
+birth_place: 'Auvergne, Arkansas, United States'
 genres:
-- red dirt
-- country
+  - red dirt
+  - country
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/frank_frost.jpg
   caption: frank frost
   background: solo_singer
-  origin: Auvergne, Arkansas, United States
+  origin: 'Auvergne, Arkansas, United States'
 audio_profile:
   tempo_avg: 128.7
   energy_avg: 0.645
@@ -27,45 +27,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sam Carr
-  - Big Jack Johnson
+    - Sam Carr
+    - Big Jack Johnson
   influenced:
-  - Big Jack Johnson
+    - Big Jack Johnson
   mentors:
-  - Sonny Boy Williamson II
+    - Sonny Boy Williamson II
 spotify_data:
   followers: 55519
   id: 77GSkIzDaduRlIbNjlvefc
   popularity: 42
-  url: https://open.spotify.com/artist/77GSkIzDaduRlIbNjlvefc
+  url: 'https://open.spotify.com/artist/77GSkIzDaduRlIbNjlvefc'
 discography_enriched: true
 top_tracks:
-- Poets & Old Souls (Poets & Old Souls)
-- Blue Collar Boys (Red Wings and Six Strings)
-- Good Ol' Girl (Rhythm and Whiskey)
-- Rowdy Reputation (Rowdy Reputation)
-- Gettin' Right (Southern Soul)
-- Some of Us Still Do
-- Who I Am (Southern Soul)
-- Old Man in Me (Southern Soul)
-- Dance in the Rain (Ridin' for the Brand)
-- A Few More Miles (The Way It Was)
+  - Poets & Old Souls (Poets & Old Souls)
+  - Blue Collar Boys (Red Wings and Six Strings)
+  - Good Ol' Girl (Rhythm and Whiskey)
+  - Rowdy Reputation (Rowdy Reputation)
+  - Gettin' Right (Southern Soul)
+  - Some of Us Still Do
+  - Who I Am (Southern Soul)
+  - Old Man in Me (Southern Soul)
+  - Dance in the Rain (Ridin' for the Brand)
+  - A Few More Miles (The Way It Was)
 external_urls:
-  spotify: https://open.spotify.com/artist/77GSkIzDaduRlIbNjlvefc
-  wikipedia: https://en.wikipedia.org/wiki/Frank_Frost
+  spotify: 'https://open.spotify.com/artist/77GSkIzDaduRlIbNjlvefc'
+  wikipedia: 'https://en.wikipedia.org/wiki/Frank_Frost'
 image_path: 03_Resources/source_material/ArtistPortraits/frank_frost.jpg
 biography_enhanced_at: '2025-10-22T09:28:42.861776'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.allmusic.com/artist/frank-frost-mn0000160499
-- https://en.wikipedia.org/wiki/Frank_Frost_(disambiguation)
-- https://www.shazam.com/en-us/artist/frank-frost/65171677
-- http://www.bluesaccess.com/No_30/reviews/Jelly.html
+  - 'https://www.allmusic.com/artist/frank-frost-mn0000160499'
+  - 'https://en.wikipedia.org/wiki/Frank_Frost_(disambiguation)'
+  - 'https://www.shazam.com/en-us/artist/frank-frost/65171677'
+  - 'http://www.bluesaccess.com/No_30/reviews/Jelly.html'
 network_extracted: true
 entry_created: '2025-10-22T09:28:42.861793'
 last_updated: '2025-12-23T08:16:08.746549'
-
+birth_date: '1936-04-15'
+artist_type: person
 ---
 
 ![](frank_frost.jpg)

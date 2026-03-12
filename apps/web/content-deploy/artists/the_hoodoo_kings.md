@@ -1,10 +1,10 @@
 ---
-title: THE HOODOO KINGS
+title: The Hoodoo Kings
 wiki_slug: the-hoodoo-kings
 schema_version: 2
 status: active
 genres:
-- blues
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_hoodoo_kings.jpg
   caption: THE HOODOO KINGS
@@ -24,53 +24,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Eddie Bo
-  - Raful Neal
-  - Rockin’ Tabby Thomas
-  - Greg Hoover
-  - Denny Breau
-  - Dan Corbett
-  - Darren Thiboutot
-  - Kelly Jones
+    - Eddie Bo
+    - Raful Neal
+    - Rockin’ Tabby Thomas
+    - Greg Hoover
+    - Denny Breau
+    - Dan Corbett
+    - Darren Thiboutot
+    - Kelly Jones
   influenced:
-  - Kenny Neal
+    - Kenny Neal
   mentors:
-  - Ike Brown
-  - Little Walter
+    - Ike Brown
+    - Little Walter
 spotify_data:
   followers: 388
   id: 3mFAzD0HSWZP9WE59ftBQR
   popularity: 13
-  url: https://open.spotify.com/artist/3mFAzD0HSWZP9WE59ftBQR
+  url: 'https://open.spotify.com/artist/3mFAzD0HSWZP9WE59ftBQR'
 discography_enriched: true
 top_tracks:
-- Hard Times (The Hoodoo Kings)
-- I Fought The Law (The Hoodoo Kings)
-- Monkey Business (The Hoodoo Kings)
-- Big Chief (The Hoodoo Kings)
-- Mean And Evil Woman (The Hoodoo Kings)
-- If I Don't Be There By Morning (The Hoodoo Kings)
-- I've Been Mistreated (The Hoodoo Kings)
-- Luberta (The Hoodoo Kings)
-- Stumble And Fall (The Hoodoo Kings)
-- I Am The Hoodoo King (The Hoodoo Kings)
+  - Hard Times (The Hoodoo Kings)
+  - I Fought The Law (The Hoodoo Kings)
+  - Monkey Business (The Hoodoo Kings)
+  - Big Chief (The Hoodoo Kings)
+  - Mean And Evil Woman (The Hoodoo Kings)
+  - If I Don't Be There By Morning (The Hoodoo Kings)
+  - I've Been Mistreated (The Hoodoo Kings)
+  - Luberta (The Hoodoo Kings)
+  - Stumble And Fall (The Hoodoo Kings)
+  - I Am The Hoodoo King (The Hoodoo Kings)
 external_urls:
-  spotify: https://open.spotify.com/artist/3mFAzD0HSWZP9WE59ftBQR
+  spotify: 'https://open.spotify.com/artist/3mFAzD0HSWZP9WE59ftBQR'
   wikipedia: null
 image_path: ''
 biography_enhanced_at: '2025-11-14T10:38:39.167360'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://concord.com/concord-albums/the-hoodoo-kings/
-- https://www.allmusic.com/artist/the-hoodoo-kings-mn0001848123
-- http://www.soundstagenetwork.com/music/reviews/rev334.htm
-- https://www.rambles.net/hoodookings_self.html
+  - 'https://concord.com/concord-albums/the-hoodoo-kings/'
+  - 'https://www.allmusic.com/artist/the-hoodoo-kings-mn0001848123'
+  - 'http://www.soundstagenetwork.com/music/reviews/rev334.htm'
+  - 'https://www.rambles.net/hoodookings_self.html'
 network_extracted: true
 entry_created: '2025-11-14T10:38:39.167368'
 last_updated: '2025-12-23T08:16:16.842814'
-origin: Louisiana, United States
-
+origin: 'Louisiana, United States'
+birth_date: '1930'
+artist_type: band
 ---
 
 ![]()

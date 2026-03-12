@@ -3,21 +3,21 @@ title: Ms Lauryn Hill
 wiki_slug: ms-lauryn-hill
 schema_version: 2
 status: active
-birth_place: East Orange, New Jersey, United States
+birth_place: 'East Orange, New Jersey, United States'
 genres:
-- neo soul
+  - neo soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ms_lauryn_hill.jpg
   caption: Ms Lauryn Hill
   background: solo_singer
-  origin: East Orange, New Jersey, United States
+  origin: 'East Orange, New Jersey, United States'
 audio_profile:
   tempo_avg: 101.3
   energy_avg: 0.559
   valence_avg: 0.596
   danceability_avg: 0.646
   acousticness_avg: 0.209
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -9.7
   speechiness_avg: 0.229
   liveness_avg: 0.284
@@ -26,49 +26,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Wyclef Jean
-  - Pras Michel
-  - John Forte
+    - Wyclef Jean
+    - Pras Michel
+    - John Forte
   influenced:
-  - Beyoncé
-  - Alicia Keys
-  - J. Cole
+    - Beyoncé
+    - Alicia Keys
+    - J. Cole
   mentors:
-  - Motown and classic soul artists
-  - Bob Marley
+    - Motown and classic soul artists
+    - Bob Marley
 spotify_data:
   followers: 3492092
   id: 2Mu5NfyYm8n5iTomuKAEHl
   popularity: 72
-  url: https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl
+  url: 'https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl'
 discography_enriched: true
 top_tracks:
-- Killing Me Softly With His Song (The Score (Expanded Edition))
-- Doo Wop (That Thing) (The Miseducation of Lauryn Hill)
-- Ex-Factor (The Miseducation of Lauryn Hill)
-- Ready or Not (The Score (Expanded Edition))
-- Can't Take My Eyes Off of You - (I Love You Baby) (The Miseducation of Lauryn Hill)
-- If I Ruled the World (Imagine That) (feat. Lauryn Hill) (It Was Written)
-- Fu-Gee-La (The Score (Expanded Edition))
-- Tell Him (The Miseducation of Lauryn Hill)
-- To Zion (feat. Carlos Santana) (The Miseducation of Lauryn Hill)
-- Nothing Even Matters (feat. D'Angelo) (The Miseducation of Lauryn Hill)
+  - Killing Me Softly With His Song (The Score (Expanded Edition))
+  - Doo Wop (That Thing) (The Miseducation of Lauryn Hill)
+  - Ex-Factor (The Miseducation of Lauryn Hill)
+  - Ready or Not (The Score (Expanded Edition))
+  - >-
+    Can't Take My Eyes Off of You - (I Love You Baby) (The Miseducation of
+    Lauryn Hill)
+  - If I Ruled the World (Imagine That) (feat. Lauryn Hill) (It Was Written)
+  - Fu-Gee-La (The Score (Expanded Edition))
+  - Tell Him (The Miseducation of Lauryn Hill)
+  - To Zion (feat. Carlos Santana) (The Miseducation of Lauryn Hill)
+  - Nothing Even Matters (feat. D'Angelo) (The Miseducation of Lauryn Hill)
 external_urls:
-  spotify: https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl
-  wikipedia: https://en.wikipedia.org/wiki/Lauryn_Hill
+  spotify: 'https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lauryn_Hill'
 image_path: 03_Resources/source_material/ArtistPortraits/ms_lauryn_hill.jpg
 biography_enhanced_at: '2025-11-14T10:51:37.456820'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.hiphopscriptures.com/lauryn-hill
-- https://en.wikipedia.org/wiki/Lauryn_Hill
-- https://achievement.org/achiever/lauryn-hill/
-- https://wers.org/leading-ladies-of-hip-hop-ms-lauryn-hill/
-- https://www.britannica.com/biography/Lauryn-Hill
+  - 'https://www.hiphopscriptures.com/lauryn-hill'
+  - 'https://en.wikipedia.org/wiki/Lauryn_Hill'
+  - 'https://achievement.org/achiever/lauryn-hill/'
+  - 'https://wers.org/leading-ladies-of-hip-hop-ms-lauryn-hill/'
+  - 'https://www.britannica.com/biography/Lauryn-Hill'
 network_extracted: true
 entry_created: '2025-11-14T10:51:37.456827'
 last_updated: '2025-12-23T08:16:13.339699'
+birth_date: '1975-05-26'
+artist_type: person
 ---
 
 ![](ms_lauryn_hill.jpg)

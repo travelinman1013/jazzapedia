@@ -2,21 +2,21 @@
 title: The Delmore Brothers
 wiki_slug: the-delmore-brothers
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 aliases: []
 birth_date: '1926'
 years_active: 1926–1952
 genres:
-- traditional country
-- bluegrass
+  - traditional country
+  - bluegrass
 occupation:
-- writer
+  - writer
 record_labels:
-- Columbia Records
+  - Columbia Records
 associated_acts:
-- Rabon Delmore
-- Alton Delmore
+  - Rabon Delmore
+  - Alton Delmore
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/The_Delmore_Brothers.jpg
   caption: The Delmore Brothers
@@ -40,34 +40,34 @@ spotify_data:
   followers: 11218
   id: 10XMe12TQkDF6o4QPJlZFJ
   popularity: 32
-  url: https://open.spotify.com/artist/10XMe12TQkDF6o4QPJlZFJ
+  url: 'https://open.spotify.com/artist/10XMe12TQkDF6o4QPJlZFJ'
   verified: false
 discography_enriched: true
 albums_count: 6
 singles_count: 0
 top_tracks:
-- The Fugitive's Lament (Alton & Rabon)
-- Blues, Stay Away From Me (16 All Time Favorite Songs)
-- Old Mountain Dew (Alton & Rabon)
-- Blues Stay Away from Me (Blues You Never Lose)
-- Lonesome Yodel Blues (Alton & Rabon)
-- Don’t You See That Train (Alton & Rabon)
-- Hillbilly Boogie (16 All Time Favorite Songs)
-- I Long to See My Mother (Alton & Rabon)
-- Sweet Sweet Thing (16 All Time Favorite Songs)
-- Hillbilly Boogie (Blues You Never Lose)
+  - The Fugitive's Lament (Alton & Rabon)
+  - 'Blues, Stay Away From Me (16 All Time Favorite Songs)'
+  - Old Mountain Dew (Alton & Rabon)
+  - Blues Stay Away from Me (Blues You Never Lose)
+  - Lonesome Yodel Blues (Alton & Rabon)
+  - Don’t You See That Train (Alton & Rabon)
+  - Hillbilly Boogie (16 All Time Favorite Songs)
+  - I Long to See My Mother (Alton & Rabon)
+  - Sweet Sweet Thing (16 All Time Favorite Songs)
+  - Hillbilly Boogie (Blues You Never Lose)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7767365b-ab8a-4173-9410-33705722b118
-  spotify: https://open.spotify.com/artist/10XMe12TQkDF6o4QPJlZFJ
-  wikipedia: https://en.wikipedia.org/wiki/The_Delmore_Brothers
+  musicbrainz: 'https://musicbrainz.org/artist/7767365b-ab8a-4173-9410-33705722b118'
+  spotify: 'https://open.spotify.com/artist/10XMe12TQkDF6o4QPJlZFJ'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Delmore_Brothers'
 image_path: 03_Resources/source_material/ArtistPortraits/The_Delmore_Brothers.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-18T16:12:20.203294'
-entry_created: 2025-09-18 13:00:53.526463
+entry_created: 2025-09-18T13:00:53.526Z
 last_updated: '2025-12-23T08:16:04.068442'
 musicbrainz_enriched_at: '2025-10-21T09:45:50.416028'
 musicbrainz_id: 7767365b-ab8a-4173-9410-33705722b118
-
+origin: 'Elkmont, Alabama, United States'
 ---
 
 ![](The_Delmore_Brothers.jpg)

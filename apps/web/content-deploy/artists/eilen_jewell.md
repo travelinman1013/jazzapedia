@@ -1,22 +1,22 @@
 ---
-title: eilen jewell
+title: Eilen Jewell
 wiki_slug: eilen-jewell
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1979-04-06'
-birth_place: Boise
+birth_place: 'Boise, Idaho, United States'
 genres:
-- alt country
-- americana
-- blues
-- gothic country
+  - alt country
+  - americana
+  - blues
+  - gothic country
 instruments:
-- acoustic guitar
-- electric guitar
-- guitar
-- electric piano
-- lead vocals
+  - acoustic guitar
+  - electric guitar
+  - guitar
+  - electric piano
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/eilen_jewell.jpg
   caption: eilen jewell
@@ -38,52 +38,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jason Beek
-  - Will Kimbrough
-  - Daniel Kellar, Jerry Glenn Miller, Johnny Sciascia
-  - The Sacred Shakers
+    - Jason Beek
+    - Will Kimbrough
+    - 'Daniel Kellar, Jerry Glenn Miller, Johnny Sciascia'
+    - The Sacred Shakers
   influenced:
-  - No widely documented direct proteges
+    - No widely documented direct proteges
   mentors:
-  - Loretta Lynn
+    - Loretta Lynn
 spotify_data:
   followers: 75073
   id: 7caMdiwqwg1WefL7Jjm23M
   popularity: 43
-  url: https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M
+  url: 'https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M'
 discography_enriched: true
 top_tracks:
-- Green River
-- Witness (Gypsy)
-- Worried Mind (Sundown Over Ghost Town)
-- Miles to Go (Gypsy)
-- Summertime
-- Another Night to Cry (Down Hearted Blues)
-- Here With Me (Sundown Over Ghost Town)
-- Half-Broke Horse (Sundown Over Ghost Town)
-- I Remember You (Queen of the Minor Key)
-- Crawl (Gypsy)
+  - Green River
+  - Witness (Gypsy)
+  - Worried Mind (Sundown Over Ghost Town)
+  - Miles to Go (Gypsy)
+  - Summertime
+  - Another Night to Cry (Down Hearted Blues)
+  - Here With Me (Sundown Over Ghost Town)
+  - Half-Broke Horse (Sundown Over Ghost Town)
+  - I Remember You (Queen of the Minor Key)
+  - Crawl (Gypsy)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d14ea67b-3558-4db1-a69b-ca8e8dad3055
-  spotify: https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M
-  wikipedia: https://en.wikipedia.org/wiki/Eilen_Jewell
+  musicbrainz: 'https://musicbrainz.org/artist/d14ea67b-3558-4db1-a69b-ca8e8dad3055'
+  spotify: 'https://open.spotify.com/artist/7caMdiwqwg1WefL7Jjm23M'
+  wikipedia: 'https://en.wikipedia.org/wiki/Eilen_Jewell'
 image_path: 03_Resources/source_material/ArtistPortraits/eilen_jewell.jpg
 biography_enhanced_at: '2025-11-11T09:34:21.330730'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Eilen_Jewell
-- https://www.eilenjewell.com/bio
-- https://www.tellyouwhatpodcast.com/home/eilen-jewell
+  - 'https://en.wikipedia.org/wiki/Eilen_Jewell'
+  - 'https://www.eilenjewell.com/bio'
+  - 'https://www.tellyouwhatpodcast.com/home/eilen-jewell'
 network_extracted: true
 entry_created: '2025-11-11T09:34:21.330742'
 last_updated: '2025-12-23T08:16:08.260199'
 gender: Female
 musicbrainz_id: d14ea67b-3558-4db1-a69b-ca8e8dad3055
 tags:
-- alt-country
-- americana
-- country
+  - alt-country
+  - americana
+  - country
+origin: 'Boise, Idaho, United States'
 ---
 
 ![](eilen_jewell.jpg)

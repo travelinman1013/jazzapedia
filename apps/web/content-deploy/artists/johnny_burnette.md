@@ -1,111 +1,115 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '1951'
-  end: '1957'
-  instruments:
-  - guitar
-  - original
-  mbid: 44c52ac8-db0b-48ff-99b0-e4b5c7d791f8
-  name: Johnny Burnette and the Rock ’n’ Roll Trio
-- begin: '1951'
-  end: '1957'
-  instruments:
-  - lead vocals
-  - original
-  mbid: 44c52ac8-db0b-48ff-99b0-e4b5c7d791f8
-  name: Johnny Burnette and the Rock ’n’ Roll Trio
-- begin: '1955'
-  end: '1955'
-  instruments:
-  - original
-  mbid: 610c9f48-839c-457d-b89a-e3d90db9ea5b
-  name: The Burnett Rhythm Rangers
-- begin: '1957'
-  end: '1957'
-  instruments: []
-  mbid: 63779fda-6de9-425b-ada7-83ed3c006729
-  name: The Kids From Texas
-- begin: '1959'
-  end: '1961'
-  instruments: []
-  mbid: 79891efb-023c-4229-8a8f-4922e6fa7b77
-  name: The Texans
-- begin: '1962'
-  end: '1962'
-  instruments: []
-  mbid: e7a0f72a-105a-445a-8f85-44416ebea107
-  name: The Shamrocks
-- begin: '1963'
-  end: '1964'
-  instruments: []
-  mbid: f92d6cb3-b79e-429c-8f1e-49e63665508c
-  name: The Ring-A-Dings
-- begin: '1964'
-  end: '1964'
-  instruments: []
-  mbid: c3a5b7af-56b2-45cd-96f3-b4b2100bf6b0
-  name: The Travelers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4d297212-51cc-4524-a8b7-2c1d28573a1c
-  name: The Burnette Brothers
+  - begin: '1951'
+    end: '1957'
+    instruments:
+      - guitar
+      - original
+    mbid: 44c52ac8-db0b-48ff-99b0-e4b5c7d791f8
+    name: Johnny Burnette and the Rock ’n’ Roll Trio
+  - begin: '1951'
+    end: '1957'
+    instruments:
+      - lead vocals
+      - original
+    mbid: 44c52ac8-db0b-48ff-99b0-e4b5c7d791f8
+    name: Johnny Burnette and the Rock ’n’ Roll Trio
+  - begin: '1955'
+    end: '1955'
+    instruments:
+      - original
+    mbid: 610c9f48-839c-457d-b89a-e3d90db9ea5b
+    name: The Burnett Rhythm Rangers
+  - begin: '1957'
+    end: '1957'
+    instruments: []
+    mbid: 63779fda-6de9-425b-ada7-83ed3c006729
+    name: The Kids From Texas
+  - begin: '1959'
+    end: '1961'
+    instruments: []
+    mbid: 79891efb-023c-4229-8a8f-4922e6fa7b77
+    name: The Texans
+  - begin: '1962'
+    end: '1962'
+    instruments: []
+    mbid: e7a0f72a-105a-445a-8f85-44416ebea107
+    name: The Shamrocks
+  - begin: '1963'
+    end: '1964'
+    instruments: []
+    mbid: f92d6cb3-b79e-429c-8f1e-49e63665508c
+    name: The Ring-A-Dings
+  - begin: '1964'
+    end: '1964'
+    instruments: []
+    mbid: c3a5b7af-56b2-45cd-96f3-b4b2100bf6b0
+    name: The Travelers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4d297212-51cc-4524-a8b7-2c1d28573a1c
+    name: The Burnette Brothers
 biography_enhanced_at: '2026-01-17T02:05:38.097831'
 birth_date: '1934-03-25'
-birth_place: Memphis
+birth_place: 'Memphis, Tennessee, United States'
 death_date: '1964-08-14'
 enhancement_provider: perplexity
 entry_created: '2026-01-17T02:05:38.097836'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e92e6d99-d4b3-4942-a6e6-b59427dae61e
-  spotify: https://open.spotify.com/artist/3PrFCybHMqrcPls31JxoIl
+  musicbrainz: 'https://musicbrainz.org/artist/e92e6d99-d4b3-4942-a6e6-b59427dae61e'
+  spotify: 'https://open.spotify.com/artist/3PrFCybHMqrcPls31JxoIl'
   wikipedia: ''
 gender: Male
 genres:
-- rockabilly
-- doo-wop
-- rock and roll
+  - rockabilly
+  - doo-wop
+  - rock and roll
 image_path: 03_Resources/source_material/ArtistPortraits/johnny_burnette.jpg
 instruments:
-- guitar
-- original
-- lead vocals
-- spoken vocals
+  - guitar
+  - original
+  - lead vocals
+  - spoken vocals
 last_updated: '2026-01-17T02:05:38.097837'
 musical_connections:
   collaborators:
-  - Dorsey Burnette
-  - Paul Burlison
-  - Doyle Holly
-  - Ricky Nelson
+    - Dorsey Burnette
+    - Paul Burlison
+    - Doyle Holly
+    - Ricky Nelson
   influenced:
-  - The Yardbirds
-  - Aerosmith
-  - Ringo Starr
+    - The Yardbirds
+    - Aerosmith
+    - Ringo Starr
   mentors:
-  - Howlin’ Wolf
+    - Howlin’ Wolf
 musicbrainz_id: e92e6d99-d4b3-4942-a6e6-b59427dae61e
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Johnny+Burnette/+wiki
-- https://rockabillylegends.com/burnette-brothers/
-- https://www.vintagerockmag.com/2022/08/johnny-burnette-rockabillys-big-daddy/
-- https://profiles.shsu.edu/lis_fwh/book/classic_rock_n_roll/support/Burnette2.htm
-- https://memphismusichalloffame.com/inductee/the-rock-roll-trio/
-- https://adp.library.ucsb.edu/names/201303
+  - 'https://www.last.fm/music/Johnny+Burnette/+wiki'
+  - 'https://rockabillylegends.com/burnette-brothers/'
+  - >-
+    https://www.vintagerockmag.com/2022/08/johnny-burnette-rockabillys-big-daddy/
+  - >-
+    https://profiles.shsu.edu/lis_fwh/book/classic_rock_n_roll/support/Burnette2.htm
+  - 'https://memphismusichalloffame.com/inductee/the-rock-roll-trio/'
+  - 'https://adp.library.ucsb.edu/names/201303'
 spotify_data:
   followers: 63218
   id: 3PrFCybHMqrcPls31JxoIl
   popularity: 39
-  url: https://open.spotify.com/artist/3PrFCybHMqrcPls31JxoIl
+  url: 'https://open.spotify.com/artist/3PrFCybHMqrcPls31JxoIl'
 status: active
 tags:
-- 2008 universal fire victim
-- rock and roll
-- rockabilly
-title: johnny burnette
+  - 2008 universal fire victim
+  - rock and roll
+  - rockabilly
+title: Johnny Burnette
+is_active: false
+origin: 'New York, New York, United States'
 ---
 
 ![](johnny_burnette.jpg)

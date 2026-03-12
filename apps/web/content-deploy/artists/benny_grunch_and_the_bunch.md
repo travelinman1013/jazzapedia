@@ -2,16 +2,16 @@
 title: Benny Grunch & the Bunch
 wiki_slug: benny-grunch-the-bunch
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 genres:
-- christmas
+  - christmas
 instruments:
-- lead vocals
-- principal
-- electric bass guitar
-- electric guitar
-- background vocals
+  - lead vocals
+  - principal
+  - electric bass guitar
+  - electric guitar
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/benny_grunch_and_the_bunch.jpg
   caption: Benny Grunch & the Bunch
@@ -31,82 +31,81 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Bunch (backing band)
-  - WWL‑TV (New Orleans television station)
+    - The Bunch (backing band)
+    - WWL‑TV (New Orleans television station)
   influenced:
-  - Not specifically documented
+    - Not specifically documented
   mentors:
-  - Not specifically documented
+    - Not specifically documented
 spotify_data:
   followers: 686
   id: 52aapjfbNPXEg0j3U7IO8V
   popularity: 22
-  url: https://open.spotify.com/artist/52aapjfbNPXEg0j3U7IO8V
+  url: 'https://open.spotify.com/artist/52aapjfbNPXEg0j3U7IO8V'
 discography_enriched: true
 top_tracks:
-- Ain't No Place to Pee on Mardi Gras Day (Grunch Road)
-- The 12 Yats of Christmas (The 12 Yats of Christmas)
-- Santa and His Reindeer Used to Live Rite Here (The 12 Yats of Christmas)
-- Ain't Dere No More (The 12 Yats of Christmas)
-- Still Dere Some More (The 12 Yats of Christmas)
-- O Little Town of Destrehan (The 12 Yats of Christmas)
-- Christmas in Chalmette (The 12 Yats of Christmas)
-- Norris the Nocturnal Nutria (The 12 Yats of Christmas)
-- Metairie O Metairie (The 12 Yats of Christmas)
-- Ain't Dere No More, Pt. 2 (The 12 Yats of Christmas)
+  - Ain't No Place to Pee on Mardi Gras Day (Grunch Road)
+  - The 12 Yats of Christmas (The 12 Yats of Christmas)
+  - Santa and His Reindeer Used to Live Rite Here (The 12 Yats of Christmas)
+  - Ain't Dere No More (The 12 Yats of Christmas)
+  - Still Dere Some More (The 12 Yats of Christmas)
+  - O Little Town of Destrehan (The 12 Yats of Christmas)
+  - Christmas in Chalmette (The 12 Yats of Christmas)
+  - Norris the Nocturnal Nutria (The 12 Yats of Christmas)
+  - Metairie O Metairie (The 12 Yats of Christmas)
+  - 'Ain''t Dere No More, Pt. 2 (The 12 Yats of Christmas)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d3ba6cc6-9e57-4c97-a874-eeb75f26b8a3
-  spotify: https://open.spotify.com/artist/52aapjfbNPXEg0j3U7IO8V
+  musicbrainz: 'https://musicbrainz.org/artist/d3ba6cc6-9e57-4c97-a874-eeb75f26b8a3'
+  spotify: 'https://open.spotify.com/artist/52aapjfbNPXEg0j3U7IO8V'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/benny_grunch_and_the_bunch.jpg
 biography_enhanced_at: '2025-12-20T01:14:02.646468'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- 'WWNO – “Birth of the Bunch: The Life and Times of Benny Grunch”[1]'
-- Audacy/WWL – “What’s the story behind ‘The 12 Yats of Christmas’?”[2]
-- New Orleans Magazine – “Catching Up With Benny Grunch”[3]
-- Last.fm – Benny Grunch & The Bunch biography page[4]
-- NewOrleans.com – Benny Grunch & The Bunch listing[5]
-- Official site – BennyGrunch.com[6]
+  - 'WWNO – “Birth of the Bunch: The Life and Times of Benny Grunch”[1]'
+  - 'Audacy/WWL – “What’s the story behind ‘The 12 Yats of Christmas’?”[2]'
+  - 'New Orleans Magazine – “Catching Up With Benny Grunch”[3]'
+  - 'Last.fm – Benny Grunch & The Bunch biography page[4]'
+  - 'NewOrleans.com – Benny Grunch & The Bunch listing[5]'
+  - 'Official site – BennyGrunch.com[6]'
 network_extracted: true
 entry_created: '2025-12-20T01:14:02.646474'
 last_updated: '2025-12-23T08:16:05.323941'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  - principal
-  mbid: 386c9a70-ca0b-4f79-907a-e95fad1e0e91
-  name: Benjamin Antin
-- begin: ''
-  end: ''
-  instruments:
-  - electric bass guitar
-  - principal
-  mbid: 386c9a70-ca0b-4f79-907a-e95fad1e0e91
-  name: Benjamin Antin
-- begin: ''
-  end: ''
-  instruments:
-  - electric guitar
-  - principal
-  mbid: 386c9a70-ca0b-4f79-907a-e95fad1e0e91
-  name: Benjamin Antin
-- begin: ''
-  end: ''
-  instruments:
-  - background vocals
-  mbid: c4a149e2-8c91-4b85-8a9a-15f6723eca54
-  name: Kathy Savoy
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+      - principal
+    mbid: 386c9a70-ca0b-4f79-907a-e95fad1e0e91
+    name: Benjamin Antin
+  - begin: ''
+    end: ''
+    instruments:
+      - electric bass guitar
+      - principal
+    mbid: 386c9a70-ca0b-4f79-907a-e95fad1e0e91
+    name: Benjamin Antin
+  - begin: ''
+    end: ''
+    instruments:
+      - electric guitar
+      - principal
+    mbid: 386c9a70-ca0b-4f79-907a-e95fad1e0e91
+    name: Benjamin Antin
+  - begin: ''
+    end: ''
+    instruments:
+      - background vocals
+    mbid: c4a149e2-8c91-4b85-8a9a-15f6723eca54
+    name: Kathy Savoy
 musicbrainz_id: d3ba6cc6-9e57-4c97-a874-eeb75f26b8a3
-origin: New Orleans
+origin: 'New Orleans, Louisiana, United States'
 tags:
-- christmas music
-- comedy
-- comedy rock
-
+  - christmas music
+  - comedy
+  - comedy rock
 ---
 
 ![](benny_grunch_and_the_bunch.jpg)

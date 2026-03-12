@@ -1,65 +1,66 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a4506310-0364-467a-8312-d05aa526e4b3
-  name: Ryan Bingham & The Dead Horses
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: fbeb622c-6885-4fbc-8b11-f4c582a3f1b7
-  name: Life Is a Carnival
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a4506310-0364-467a-8312-d05aa526e4b3
+    name: Ryan Bingham & The Dead Horses
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: fbeb622c-6885-4fbc-8b11-f4c582a3f1b7
+    name: Life Is a Carnival
 biography_enhanced_at: '2026-01-16T01:43:07.556763'
 birth_date: '1981-03-31'
-birth_place: Hobbs
+birth_place: 'Hobbs, New Mexico, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-16T01:43:07.556767'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/61a04f15-0929-4bb6-bd4e-dabdf8e19f68
-  spotify: https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i
+  musicbrainz: 'https://musicbrainz.org/artist/61a04f15-0929-4bb6-bd4e-dabdf8e19f68'
+  spotify: 'https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i'
   wikipedia: null
 gender: Male
 genres:
-- red dirt
-- texas country
-- outlaw country
-- alt country
-- americana
-- country
+  - red dirt
+  - texas country
+  - outlaw country
+  - alt country
+  - americana
+  - country
 image_path: 03_Resources/source_material/ArtistPortraits/ryan_bingham.jpg
 instruments:
-- piano
-- acoustic guitar
-- guitar
-- lead vocals
+  - piano
+  - acoustic guitar
+  - guitar
+  - lead vocals
 last_updated: '2026-01-16T01:43:07.556768'
 musical_connections:
   collaborators:
-  - Jeff Bridges
+    - Jeff Bridges
   influenced: []
   mentors:
-  - Laredo Family Friend
+    - Laredo Family Friend
 musicbrainz_id: 61a04f15-0929-4bb6-bd4e-dabdf8e19f68
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.latimes.com/entertainment-arts/music/story/2022-02-02/ryan-bingham-walker-yellowstone
-- https://thegreatdiscontent.com/interview/ryan-bingham/
-- https://www.fandango.com/people/ryan-bingham-59783/biography
-- https://www.jacksonhole.com/ryan-bingham
-- https://www.tvinsider.com/people/ryan-bingham/
+  - >-
+    https://www.latimes.com/entertainment-arts/music/story/2022-02-02/ryan-bingham-walker-yellowstone
+  - 'https://thegreatdiscontent.com/interview/ryan-bingham/'
+  - 'https://www.fandango.com/people/ryan-bingham-59783/biography'
+  - 'https://www.jacksonhole.com/ryan-bingham'
+  - 'https://www.tvinsider.com/people/ryan-bingham/'
 spotify_data:
   followers: 608413
   id: 31z9f9AyPawiq0qlBO1M3i
   popularity: 59
-  url: https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i
+  url: 'https://open.spotify.com/artist/31z9f9AyPawiq0qlBO1M3i'
 status: active
 tags:
-- americana
-- roots rock
-title: ryan bingham
+  - americana
+  - roots rock
+title: Ryan Bingham
 ---
 
 ![](ryan_bingham.jpg)

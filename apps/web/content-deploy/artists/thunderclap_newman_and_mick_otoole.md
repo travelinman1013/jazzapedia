@@ -5,7 +5,8 @@ schema_version: 2
 status: active
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/thunderclap_newman_and_mick_otoole.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/thunderclap_newman_and_mick_otoole.jpg
   caption: Thunderclap Newman & Mick O'Toole
   background: solo_singer
 audio_profile:
@@ -23,47 +24,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John 'Speedy' Keen
-  - Jimmy McCulloch
-  - Mick O'Toole
+    - John 'Speedy' Keen
+    - Jimmy McCulloch
+    - Mick O'Toole
   influenced:
-  - Jimmy McCulloch
+    - Jimmy McCulloch
   mentors:
-  - Pete Townshend
+    - Pete Townshend
 spotify_data:
   followers: 49
   id: 6wpIbjFHqxl1kTFz1V9xne
   popularity: 0
-  url: https://open.spotify.com/artist/6wpIbjFHqxl1kTFz1V9xne
+  url: 'https://open.spotify.com/artist/6wpIbjFHqxl1kTFz1V9xne'
 discography_enriched: true
 top_tracks:
-- I Like 'um Fat Like That (Thunderclap Newman Live At The Queens Head)
-- Ain't Nobody Here But Us Chickens (Thunderclap Newman Live At The Queens Head)
-- My Babe (Thunderclap Newman Live At The Queens Head)
-- Need Your Love So Bad (Thunderclap Newman Live At The Queens Head)
-- Caldonia (Thunderclap Newman Live At The Queens Head)
-- Reet Petite And Gone (Thunderclap Newman Live At The Queens Head)
-- Route 66 (Thunderclap Newman Live At The Queens Head)
-- Help Me (Thunderclap Newman Live At The Queens Head)
-- Something In The Air (Thunderclap Newman Live At The Queens Head)
-- Closer To The Bone (Thunderclap Newman Live At The Queens Head)
+  - I Like 'um Fat Like That (Thunderclap Newman Live At The Queens Head)
+  - >-
+    Ain't Nobody Here But Us Chickens (Thunderclap Newman Live At The Queens
+    Head)
+  - My Babe (Thunderclap Newman Live At The Queens Head)
+  - Need Your Love So Bad (Thunderclap Newman Live At The Queens Head)
+  - Caldonia (Thunderclap Newman Live At The Queens Head)
+  - Reet Petite And Gone (Thunderclap Newman Live At The Queens Head)
+  - Route 66 (Thunderclap Newman Live At The Queens Head)
+  - Help Me (Thunderclap Newman Live At The Queens Head)
+  - Something In The Air (Thunderclap Newman Live At The Queens Head)
+  - Closer To The Bone (Thunderclap Newman Live At The Queens Head)
 external_urls:
-  spotify: https://open.spotify.com/artist/6wpIbjFHqxl1kTFz1V9xne
-  wikipedia: https://en.wikipedia.org/wiki/Thunderclap_Newman
-image_path: 03_Resources/source_material/ArtistPortraits/thunderclap_newman_and_mick_otoole.jpg
+  spotify: 'https://open.spotify.com/artist/6wpIbjFHqxl1kTFz1V9xne'
+  wikipedia: 'https://en.wikipedia.org/wiki/Thunderclap_Newman'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/thunderclap_newman_and_mick_otoole.jpg
 biography_enhanced_at: '2025-11-04T10:48:02.954576'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Thunderclap_Newman
-- https://thirdmanrecords.com/products/hollywood-dream-the-thunderclap-newman-story-1
-- https://thestrangebrew.co.uk/behind-the-thunderclap-newman-story/
-- https://www.youtube.com/watch?v=OpCInVbGzbc
-- https://music.apple.com/us/album/15-memorable-songs-feat-mick-otoole/343002841
+  - 'https://en.wikipedia.org/wiki/Thunderclap_Newman'
+  - >-
+    https://thirdmanrecords.com/products/hollywood-dream-the-thunderclap-newman-story-1
+  - 'https://thestrangebrew.co.uk/behind-the-thunderclap-newman-story/'
+  - 'https://www.youtube.com/watch?v=OpCInVbGzbc'
+  - >-
+    https://music.apple.com/us/album/15-memorable-songs-feat-mick-otoole/343002841
 network_extracted: true
 entry_created: '2025-11-04T10:48:02.954586'
 last_updated: '2025-12-23T08:16:17.405438'
-origin: Hounslow, Middlesex, England (origin)
+origin: 'Hounslow, Middlesex, England (origin)'
+artist_type: band
 ---
 
 ![](thunderclap_newman_and_mick_otoole.jpg)

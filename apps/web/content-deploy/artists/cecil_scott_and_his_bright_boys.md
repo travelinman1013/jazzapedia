@@ -1,16 +1,17 @@
 ---
-title: CECIL SCOTT AND HIS BRIGHT BOYS
+title: Cecil Scott and His Bright Boys
 wiki_slug: cecil-scott-and-his-bright-boys
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- big band
+  - big band
 instruments:
-- eponymous
-- original
+  - eponymous
+  - original
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/cecil_scott_and_his_bright_boys.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/cecil_scott_and_his_bright_boys.jpg
   caption: CECIL SCOTT AND HIS BRIGHT BOYS
   background: group_or_band
 audio_profile:
@@ -28,61 +29,65 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lloyd Scott
-  - Dicky Wells
-  - Frankie Newton
-  - Bill Coleman
-  - Roy Eldridge
-  - Johnny Hodges
-  - Chu Berry
+    - Lloyd Scott
+    - Dicky Wells
+    - Frankie Newton
+    - Bill Coleman
+    - Roy Eldridge
+    - Johnny Hodges
+    - Chu Berry
   influenced:
-  - Chu Berry
-  - Numerous young musicians in Harlem
+    - Chu Berry
+    - Numerous young musicians in Harlem
   mentors:
-  - Clarence Hall
+    - Clarence Hall
 spotify_data:
   followers: 16
   id: 5nE9w22R0IZAZRtdgfa6Mv
   popularity: 0
-  url: https://open.spotify.com/artist/5nE9w22R0IZAZRtdgfa6Mv
+  url: 'https://open.spotify.com/artist/5nE9w22R0IZAZRtdgfa6Mv'
 discography_enriched: true
 top_tracks:
-- Springfield Stomp (Tiger Rag (Original Recordings 1929 - 1930))
-- 'Springfield Stomp - Remastered 1998 (Swingin'' Uptown: The Big Band (1923 - 1952))'
-- Lawd, Lawd (Tiger Rag (Original Recordings 1929 - 1930))
-- In a Corner (Tiger Rag (Original Recordings 1929 - 1930))
-- Bright Boy Blues (Tiger Rag (Original Recordings 1929 - 1930))
-- Lawd, Lawd (The First Days of Jazz)
-- Bright Boy Blues (Rare and Obscure Blues 1923 - 1931)
-- Springfield Stomp (Rare and Obscure Blues 1923 - 1931)
-- Lawd, Lawd (The First Days of Jazz)
-- Lawd, Lawd (100 Classics Of The 1920s)
+  - Springfield Stomp (Tiger Rag (Original Recordings 1929 - 1930))
+  - >-
+    Springfield Stomp - Remastered 1998 (Swingin' Uptown: The Big Band (1923 -
+    1952))
+  - 'Lawd, Lawd (Tiger Rag (Original Recordings 1929 - 1930))'
+  - In a Corner (Tiger Rag (Original Recordings 1929 - 1930))
+  - Bright Boy Blues (Tiger Rag (Original Recordings 1929 - 1930))
+  - 'Lawd, Lawd (The First Days of Jazz)'
+  - Bright Boy Blues (Rare and Obscure Blues 1923 - 1931)
+  - Springfield Stomp (Rare and Obscure Blues 1923 - 1931)
+  - 'Lawd, Lawd (The First Days of Jazz)'
+  - 'Lawd, Lawd (100 Classics Of The 1920s)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b6b04721-330b-4933-9c16-07cbeb2c9589
-  spotify: https://open.spotify.com/artist/5nE9w22R0IZAZRtdgfa6Mv
-  wikipedia: https://en.wikipedia.org/wiki/Cecil_Scott
+  musicbrainz: 'https://musicbrainz.org/artist/b6b04721-330b-4933-9c16-07cbeb2c9589'
+  spotify: 'https://open.spotify.com/artist/5nE9w22R0IZAZRtdgfa6Mv'
+  wikipedia: 'https://en.wikipedia.org/wiki/Cecil_Scott'
 image_path: ''
 biography_enhanced_at: '2025-11-14T11:01:32.540373'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://syncopatedtimes.com/cecil-scott-1905-1964/
-- https://en.wikipedia.org/wiki/Cecil_Scott
-- https://jazzlives.wordpress.com/2013/07/26/everybody-loves-cecil-scott/
-- http://www.jazzarcheology.com/artists/cecil_scott.pdf
+  - 'https://syncopatedtimes.com/cecil-scott-1905-1964/'
+  - 'https://en.wikipedia.org/wiki/Cecil_Scott'
+  - 'https://jazzlives.wordpress.com/2013/07/26/everybody-loves-cecil-scott/'
+  - 'http://www.jazzarcheology.com/artists/cecil_scott.pdf'
 network_extracted: true
 entry_created: '2025-11-14T11:01:32.540382'
 last_updated: '2025-12-23T08:16:06.578018'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 6e22f323-f137-45de-a905-8ed98ea7c95e
-  name: Cecil Scott
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 6e22f323-f137-45de-a905-8ed98ea7c95e
+    name: Cecil Scott
 musicbrainz_id: b6b04721-330b-4933-9c16-07cbeb2c9589
-origin: Springfield, Ohio, United States
+origin: 'Springfield, Ohio, United States'
+birth_place: 'Springfield, Ohio, United States'
+birth_date: '1905-11-22'
 ---
 
 ![]()

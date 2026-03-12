@@ -2,28 +2,28 @@
 title: Snarky Puppy
 wiki_slug: snarky-puppy
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 birth_date: '2004'
 genres:
-- jazz fusion
-- jazz funk
-- jazz
-- funk rock
-- nu jazz
+  - jazz fusion
+  - jazz funk
+  - jazz
+  - funk rock
+  - nu jazz
 instruments:
-- violin
-- clarinet
-- flute
-- tenor saxophone
-- keyboard
-- trumpet
-- guitar
-- bass guitar
-- original
-- drums (drum set)
-- percussion
-- saxophone
+  - violin
+  - clarinet
+  - flute
+  - tenor saxophone
+  - keyboard
+  - trumpet
+  - guitar
+  - bass guitar
+  - original
+  - drums (drum set)
+  - percussion
+  - saxophone
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/snarky_puppy.jpg
   caption: Snarky Puppy
@@ -44,214 +44,214 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Robert "Sput" Searight
-  - Shaun Martin
-  - Bobby Sparks
-  - Mike 'Maz' Maher
-  - Zach Feinberg
+    - Robert "Sput" Searight
+    - Shaun Martin
+    - Bobby Sparks
+    - Mike 'Maz' Maher
+    - Zach Feinberg
   influenced:
-  - Bokanté
-  - GroundUP Music Label Artists
+    - Bokanté
+    - GroundUP Music Label Artists
   mentors:
-  - Bernard Wright
-  - University of North Texas Jazz Studies Program
+    - Bernard Wright
+    - University of North Texas Jazz Studies Program
 spotify_data:
   followers: 765132
   id: 7ENzCHnmJUr20nUjoZ0zZ1
   popularity: 49
-  url: https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1
+  url: 'https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1'
 discography_enriched: true
 top_tracks:
-- Lingus (We Like It Here)
-- Shofukan (We Like It Here)
-- What About Me? (We Like It Here)
-- Tarova (Culcha Vulcha)
-- Mean Green (Empire Central)
-- Sleeper (We Like It Here)
-- Outlier (We Like It Here)
-- Amour T'es La (Family Dinner - Vol. 1)
-- Bad Kids To The Back (Immigrance)
-- Sing to the Moon (Family Dinner - Vol. 2 (Deluxe))
+  - Lingus (We Like It Here)
+  - Shofukan (We Like It Here)
+  - What About Me? (We Like It Here)
+  - Tarova (Culcha Vulcha)
+  - Mean Green (Empire Central)
+  - Sleeper (We Like It Here)
+  - Outlier (We Like It Here)
+  - Amour T'es La (Family Dinner - Vol. 1)
+  - Bad Kids To The Back (Immigrance)
+  - Sing to the Moon (Family Dinner - Vol. 2 (Deluxe))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/fe85367e-4036-43c1-874b-b91af81cb4f3
-  spotify: https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1
-  wikipedia: https://en.wikipedia.org/wiki/Snarky_Puppy
+  musicbrainz: 'https://musicbrainz.org/artist/fe85367e-4036-43c1-874b-b91af81cb4f3'
+  spotify: 'https://open.spotify.com/artist/7ENzCHnmJUr20nUjoZ0zZ1'
+  wikipedia: 'https://en.wikipedia.org/wiki/Snarky_Puppy'
 image_path: 03_Resources/source_material/ArtistPortraits/snarky_puppy.jpg
 biography_enhanced_at: '2025-12-04T07:58:53.927254'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Snarky Puppy
-- Snarky Puppy Official Website (snarkypuppy.com)
-- GroundUP Music Official Website
-- WBGO Jazz Interview - Michael League
-- Leonard Shea Music Biography Video
+  - Wikipedia - Snarky Puppy
+  - Snarky Puppy Official Website (snarkypuppy.com)
+  - GroundUP Music Official Website
+  - WBGO Jazz Interview - Michael League
+  - Leonard Shea Music Biography Video
 network_extracted: true
 entry_created: '2025-12-04T07:58:53.927266'
 last_updated: '2025-12-23T08:16:15.817560'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - violin
-  mbid: bf1d8fad-1a0f-432f-8979-2552cf7f4471
-  name: Zach Brock
-- begin: ''
-  end: ''
-  instruments:
-  - clarinet
-  mbid: 01565a09-e70b-476f-9fde-0aa586ace353
-  name: Chris Bullock
-- begin: ''
-  end: ''
-  instruments:
-  - flute
-  mbid: 01565a09-e70b-476f-9fde-0aa586ace353
-  name: Chris Bullock
-- begin: ''
-  end: ''
-  instruments:
-  - tenor saxophone
-  mbid: 01565a09-e70b-476f-9fde-0aa586ace353
-  name: Chris Bullock
-- begin: ''
-  end: ''
-  instruments:
-  - keyboard
-  mbid: aa2d1cb9-5906-485c-bf3a-f83c94646add
-  name: Bobby Sparks II
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: 0d045243-6685-4a3c-9f80-82c0e54c16b1
-  name: Jay Jennings
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: 68c645ce-d235-40ce-b69d-9634e5788238
-  name: Bob Lanzetti
-- begin: ''
-  end: ''
-  instruments:
-  - keyboard
-  mbid: f30eb720-5cb6-4b44-a289-07ced7971041
-  name: Bill Laurance
-- begin: ''
-  end: ''
-  instruments:
-  - bass guitar
-  - original
-  mbid: 49e1540c-3f84-4899-a35c-63b39d775df9
-  name: Michael League
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: 660082a0-335c-4fee-9749-9ce3650ba507
-  name: Mark Lettieri
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: b389a2a8-b126-4392-954d-d5d363cccd39
-  name: Larnell Lewis
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: 04e5b8b4-0d6f-4bbf-8b95-ae92cbbc54d9
-  name: Mike Maher
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: be1a75dd-931d-4a8e-a49b-3ec64c29e14c
-  name: Chris McQueen
-- begin: ''
-  end: ''
-  instruments:
-  - percussion
-  mbid: 18a8af1d-ad91-42d4-8d7a-6448e930b84d
-  name: 小川慶太
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 18a8af1d-ad91-42d4-8d7a-6448e930b84d
-  name: 小川慶太
-- begin: ''
-  end: ''
-  instruments:
-  - saxophone
-  mbid: 0b531831-9493-4712-8d1e-fbece895402c
-  name: Bob Reynolds
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 80489831-50ce-4eaa-91e5-e5b7a059f827
-  name: Jamison Ross
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 128e1f6d-2f68-4bc8-8540-fedcb3fc4f00
-  name: Robert Searight
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: 910d4853-651e-4bfc-8e9f-dcb16adf8a28
-  name: Justin Stanton
-- begin: ''
-  end: ''
-  instruments:
-  - keyboard
-  mbid: 910d4853-651e-4bfc-8e9f-dcb16adf8a28
-  name: Justin Stanton
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 01d3102e-7594-477c-b94c-c05544bc8051
-  name: Jason “JT” Thomas
-- begin: ''
-  end: ''
-  instruments:
-  - percussion
-  mbid: d4a5714b-f025-45b4-b29c-7c47c8a71517
-  name: Nate Werth
-- begin: ''
-  end: ''
-  instruments:
-  - percussion
-  mbid: 8bd09a1e-3548-4f93-8b25-4289c3efc800
-  name: Marcelo Woloski
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 8bd09a1e-3548-4f93-8b25-4289c3efc800
-  name: Marcelo Woloski
-- begin: ''
-  end: ''
-  instruments:
-  - keyboard
-  mbid: 3d475031-f309-4d57-b88d-22cfa40f4e78
-  name: Cory Henry
-- begin: ''
-  end: ''
-  instruments:
-  - keyboard
-  mbid: d1b070cc-9dab-4b76-8f90-575d34eaed0d
-  name: Shaun Martin
+  - begin: ''
+    end: ''
+    instruments:
+      - violin
+    mbid: bf1d8fad-1a0f-432f-8979-2552cf7f4471
+    name: Zach Brock
+  - begin: ''
+    end: ''
+    instruments:
+      - clarinet
+    mbid: 01565a09-e70b-476f-9fde-0aa586ace353
+    name: Chris Bullock
+  - begin: ''
+    end: ''
+    instruments:
+      - flute
+    mbid: 01565a09-e70b-476f-9fde-0aa586ace353
+    name: Chris Bullock
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: 01565a09-e70b-476f-9fde-0aa586ace353
+    name: Chris Bullock
+  - begin: ''
+    end: ''
+    instruments:
+      - keyboard
+    mbid: aa2d1cb9-5906-485c-bf3a-f83c94646add
+    name: Bobby Sparks II
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: 0d045243-6685-4a3c-9f80-82c0e54c16b1
+    name: Jay Jennings
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 68c645ce-d235-40ce-b69d-9634e5788238
+    name: Bob Lanzetti
+  - begin: ''
+    end: ''
+    instruments:
+      - keyboard
+    mbid: f30eb720-5cb6-4b44-a289-07ced7971041
+    name: Bill Laurance
+  - begin: ''
+    end: ''
+    instruments:
+      - bass guitar
+      - original
+    mbid: 49e1540c-3f84-4899-a35c-63b39d775df9
+    name: Michael League
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 660082a0-335c-4fee-9749-9ce3650ba507
+    name: Mark Lettieri
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: b389a2a8-b126-4392-954d-d5d363cccd39
+    name: Larnell Lewis
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: 04e5b8b4-0d6f-4bbf-8b95-ae92cbbc54d9
+    name: Mike Maher
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: be1a75dd-931d-4a8e-a49b-3ec64c29e14c
+    name: Chris McQueen
+  - begin: ''
+    end: ''
+    instruments:
+      - percussion
+    mbid: 18a8af1d-ad91-42d4-8d7a-6448e930b84d
+    name: 小川慶太
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 18a8af1d-ad91-42d4-8d7a-6448e930b84d
+    name: 小川慶太
+  - begin: ''
+    end: ''
+    instruments:
+      - saxophone
+    mbid: 0b531831-9493-4712-8d1e-fbece895402c
+    name: Bob Reynolds
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 80489831-50ce-4eaa-91e5-e5b7a059f827
+    name: Jamison Ross
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 128e1f6d-2f68-4bc8-8540-fedcb3fc4f00
+    name: Robert Searight
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: 910d4853-651e-4bfc-8e9f-dcb16adf8a28
+    name: Justin Stanton
+  - begin: ''
+    end: ''
+    instruments:
+      - keyboard
+    mbid: 910d4853-651e-4bfc-8e9f-dcb16adf8a28
+    name: Justin Stanton
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 01d3102e-7594-477c-b94c-c05544bc8051
+    name: Jason “JT” Thomas
+  - begin: ''
+    end: ''
+    instruments:
+      - percussion
+    mbid: d4a5714b-f025-45b4-b29c-7c47c8a71517
+    name: Nate Werth
+  - begin: ''
+    end: ''
+    instruments:
+      - percussion
+    mbid: 8bd09a1e-3548-4f93-8b25-4289c3efc800
+    name: Marcelo Woloski
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 8bd09a1e-3548-4f93-8b25-4289c3efc800
+    name: Marcelo Woloski
+  - begin: ''
+    end: ''
+    instruments:
+      - keyboard
+    mbid: 3d475031-f309-4d57-b88d-22cfa40f4e78
+    name: Cory Henry
+  - begin: ''
+    end: ''
+    instruments:
+      - keyboard
+    mbid: d1b070cc-9dab-4b76-8f90-575d34eaed0d
+    name: Shaun Martin
 musicbrainz_id: fe85367e-4036-43c1-874b-b91af81cb4f3
-origin: New York
+origin: 'New York, New York, United States'
 tags:
-- contemporary jazz
-- funk
-- fusion
+  - contemporary jazz
+  - funk
+  - fusion
 ---
 
 ![](snarky_puppy.jpg)

@@ -1,53 +1,58 @@
 ---
 biography_enhanced_at: '2026-01-04T01:57:07.976654'
-birth_place: Niterói, Rio de Janeiro, Brazil
+birth_place: 'Niterói, Rio de Janeiro, Brazil'
 enhancement_provider: perplexity
 entry_created: '2026-01-04T01:57:07.976659'
 external_urls:
-  spotify: https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL
+  spotify: 'https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL'
   wikipedia: ''
 genres:
-- bossa nova
-- brazilian jazz
-- latin jazz
+  - bossa nova
+  - brazilian jazz
+  - latin jazz
 image_path: 03_Resources/source_material/ArtistPortraits/sergio_mendes_and_brasil.jpg
 last_updated: '2026-01-04T01:57:07.976660'
 musical_connections:
   collaborators:
-  - Herb Alpert
-  - Jerry Moss
-  - Lani Hall
-  - Janis Hansen
-  - João Palma
-  - Antonio Carlos Jobim
-  - Moacyr Santos
-  - Stevie Wonder
+    - Herb Alpert
+    - Jerry Moss
+    - Lani Hall
+    - Janis Hansen
+    - João Palma
+    - Antonio Carlos Jobim
+    - Moacyr Santos
+    - Stevie Wonder
   influenced:
-  - Gilberto Gil
-  - Sarah Vaughan
-  - Johnny Mathis
+    - Gilberto Gil
+    - Sarah Vaughan
+    - Johnny Mathis
   mentors:
-  - Dave Brubeck
-  - Horace Silver
-  - Art Tatum
-  - Stan Getz
-  - Dizzy Gillespie
-  - Charlie Byrd
+    - Dave Brubeck
+    - Horace Silver
+    - Art Tatum
+    - Stan Getz
+    - Dizzy Gillespie
+    - Charlie Byrd
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.sergiomendesmusic.com/timeline
-- https://jazzizdiscovery.com/sergio-mendes-the-brazilian-maestro-who-transformed-global-music-1941-2024/
-- https://www.imdb.com/name/nm0005223/bio/
-- https://abreathoffreshair.com.au/episodes/sergio-mendes-a-60-year-journey-of-serendipity-and-unbelievable-success/
-- https://www.last.fm/music/S%C3%A9rgio+Mendes+&+Brasil+'66/+wiki
+  - 'https://www.sergiomendesmusic.com/timeline'
+  - >-
+    https://jazzizdiscovery.com/sergio-mendes-the-brazilian-maestro-who-transformed-global-music-1941-2024/
+  - 'https://www.imdb.com/name/nm0005223/bio/'
+  - >-
+    https://abreathoffreshair.com.au/episodes/sergio-mendes-a-60-year-journey-of-serendipity-and-unbelievable-success/
+  - 'https://www.last.fm/music/S%C3%A9rgio+Mendes+&+Brasil+''66/+wiki'
 spotify_data:
   followers: 110379
   id: 6hCsqVHnBo1BVQWuIjRMkL
   popularity: 54
-  url: https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL
+  url: 'https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL'
 status: active
 title: Sergio Mendes & Brasil
+birth_date: '1941-02-11'
+death_date: '2024-09-05'
+artist_type: band
 ---
 
 ![](sergio_mendes_and_brasil.jpg)

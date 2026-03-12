@@ -1,16 +1,16 @@
 ---
-title: tom jones
+title: Tom Jones
 wiki_slug: tom-jones
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1940-06-07'
-birth_place: Pontypridd
+birth_place: 'Pontypridd, Wales, United Kingdom'
 genres: []
 instruments:
-- lead vocals
-- background vocals
-- spoken vocals
+  - lead vocals
+  - background vocals
+  - spoken vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/tom_jones.jpg
   caption: tom jones
@@ -23,7 +23,7 @@ audio_profile:
   valence_avg: 0.574
   danceability_avg: 0.468
   acousticness_avg: 0.406
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -9.5
   speechiness_avg: 0.061
   liveness_avg: 0.223
@@ -32,45 +32,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Art of Noise
-  - Robbie Williams
-  - The Cardigans
-  - Stereophonics
+    - Art of Noise
+    - Robbie Williams
+    - The Cardigans
+    - Stereophonics
   influenced:
-  - Multiple contemporary artists
+    - Multiple contemporary artists
   mentors:
-  - Gordon Mills
+    - Gordon Mills
 spotify_data:
   followers: 1223070
   id: 1T0wRBO0CK0vK8ouUMqEl5
   popularity: 65
-  url: https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5
+  url: 'https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5'
 discography_enriched: true
 top_tracks:
-- It's Not Unusual (Along Came Jones)
-- Sexbomb (Reload)
-- She's A Lady (Tom Jones Sings She's A Lady)
-- Delilah (Delilah)
-- Green Green Grass Of Home (Green, Green Grass Of Home)
-- (It Looks Like) I'll Never Fall In Love Again (13 Smash Hits)
-- Help Yourself (The Love Collection)
-- You're My World (Tom Jones Sings She's A Lady)
-- I (Who Have Nothing) (I Who Have Nothing)
-- What's New Pussycat?
+  - It's Not Unusual (Along Came Jones)
+  - Sexbomb (Reload)
+  - She's A Lady (Tom Jones Sings She's A Lady)
+  - Delilah (Delilah)
+  - 'Green Green Grass Of Home (Green, Green Grass Of Home)'
+  - (It Looks Like) I'll Never Fall In Love Again (13 Smash Hits)
+  - Help Yourself (The Love Collection)
+  - You're My World (Tom Jones Sings She's A Lady)
+  - I (Who Have Nothing) (I Who Have Nothing)
+  - What's New Pussycat?
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/57c6f649-6cde-48a7-8114-2a200247601a
-  spotify: https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5
+  musicbrainz: 'https://musicbrainz.org/artist/57c6f649-6cde-48a7-8114-2a200247601a'
+  spotify: 'https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5'
   wikipedia: Not provided in search results
 image_path: 03_Resources/source_material/ArtistPortraits/tom_jones.jpg
 biography_enhanced_at: '2025-11-28T07:38:16.024378'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.britannica.com/biography/Tom-Jones
-- https://www.imdb.com/name/nm0429367/bio/
-- https://www.youtube.com/watch?v=5bZfK5XZmn0
-- https://www.tomjones.com/bio
-- https://www.youtube.com/watch?v=BPjEVRJtycw
+  - 'https://www.britannica.com/biography/Tom-Jones'
+  - 'https://www.imdb.com/name/nm0429367/bio/'
+  - 'https://www.youtube.com/watch?v=5bZfK5XZmn0'
+  - 'https://www.tomjones.com/bio'
+  - 'https://www.youtube.com/watch?v=BPjEVRJtycw'
 network_extracted: true
 entry_created: '2025-11-28T07:38:16.024394'
 last_updated: '2025-12-23T08:16:17.520959'
@@ -78,9 +78,9 @@ disambiguation: Welsh pop singer
 gender: Male
 musicbrainz_id: 57c6f649-6cde-48a7-8114-2a200247601a
 tags:
-- 2008 universal fire victim
-- ballad
-- blue-eyed soul
+  - 2008 universal fire victim
+  - ballad
+  - blue-eyed soul
 ---
 
 ![](tom_jones.jpg)

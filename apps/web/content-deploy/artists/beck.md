@@ -1,38 +1,40 @@
 ---
 biography_enhanced_at: '2026-01-06T02:12:56.730832'
-birth_place: Los Angeles, California, United States
+birth_place: 'Los Angeles, California, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-06T02:12:56.730837'
 external_urls:
-  spotify: https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS
-  wikipedia: https://en.wikipedia.org/wiki/Beck
+  spotify: 'https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS'
+  wikipedia: 'https://en.wikipedia.org/wiki/Beck'
 genres:
-- anti-folk
+  - anti-folk
 image_path: 03_Resources/source_material/ArtistPortraits/beck.jpg
 last_updated: '2026-01-06T02:12:56.730838'
 musical_connections:
   collaborators:
-  - Nigel Godrich
-  - Danger Mouse
-  - Cat Power
+    - Nigel Godrich
+    - Danger Mouse
+    - Cat Power
   influenced:
-  - Various indie-rock bands
+    - Various indie-rock bands
   mentors:
-  - Mississippi John Hurt
+    - Mississippi John Hurt
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://top40-charts.com/artist.php?aid=2819
-- https://diffuser.fm/beck-timeline/
-- https://en.wikipedia.org/wiki/Beck
-- https://www.britannica.com/biography/Beck
+  - 'https://top40-charts.com/artist.php?aid=2819'
+  - 'https://diffuser.fm/beck-timeline/'
+  - 'https://en.wikipedia.org/wiki/Beck'
+  - 'https://www.britannica.com/biography/Beck'
 spotify_data:
   followers: 1741345
   id: 3vbKDsSS70ZX9D2OcvbZmS
   popularity: 66
-  url: https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS
+  url: 'https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS'
 status: active
 title: Beck
+birth_date: '1970-07-08'
+artist_type: person
 ---
 
 ![](beck.jpg)

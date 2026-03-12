@@ -2,11 +2,11 @@
 title: Cymande
 wiki_slug: cymande
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1971'
 genres:
-- afrobeat
+  - afrobeat
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/cymande.jpg
   caption: Cymande
@@ -27,90 +27,91 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Patrick Patterson
-  - Steve Scipio
-  - Ray King
-  - Mike Rose
-  - Pablo Gonsales
-  - Joey Dee
-  - Sam Kelly
-  - Derek Gibbs
-  - Jimmy Lindsay
+    - Patrick Patterson
+    - Steve Scipio
+    - Ray King
+    - Mike Rose
+    - Pablo Gonsales
+    - Joey Dee
+    - Sam Kelly
+    - Derek Gibbs
+    - Jimmy Lindsay
   influenced:
-  - De La Soul
-  - Fugees
-  - Wu-Tang Clan
-  - MC Solaar
-  - Jazzie B (Soul II Soul)
-  - Mark Ronson
-  - Loyle Carner
+    - De La Soul
+    - Fugees
+    - Wu-Tang Clan
+    - MC Solaar
+    - Jazzie B (Soul II Soul)
+    - Mark Ronson
+    - Loyle Carner
   mentors:
-  - Caribbean musical traditions
+    - Caribbean musical traditions
 spotify_data:
   followers: 233901
   id: 4hfcSstwnyuBoek1dQwLkG
   popularity: 48
-  url: https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG
+  url: 'https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG'
 discography_enriched: true
 top_tracks:
-- Brothers On The Slide (Promised Heights)
-- Dove (Cymande)
-- Bra (Cymande)
-- One More (Cymande)
-- The Message (Cymande)
-- Brothers On The Slide (Promised Heights)
-- Coltrane (Renascence)
-- Coltrane - Crooked Man Remix
-- Getting It Back (Cymande)
-- Dove (Cymande)
+  - Brothers On The Slide (Promised Heights)
+  - Dove (Cymande)
+  - Bra (Cymande)
+  - One More (Cymande)
+  - The Message (Cymande)
+  - Brothers On The Slide (Promised Heights)
+  - Coltrane (Renascence)
+  - Coltrane - Crooked Man Remix
+  - Getting It Back (Cymande)
+  - Dove (Cymande)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/21c5fb53-6fbc-4080-989a-b26d4540f4fd
-  spotify: https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG
-  wikipedia: https://en.wikipedia.org/wiki/Cymande
+  musicbrainz: 'https://musicbrainz.org/artist/21c5fb53-6fbc-4080-989a-b26d4540f4fd'
+  spotify: 'https://open.spotify.com/artist/4hfcSstwnyuBoek1dQwLkG'
+  wikipedia: 'https://en.wikipedia.org/wiki/Cymande'
 image_path: 03_Resources/source_material/ArtistPortraits/cymande.jpg
 biography_enhanced_at: '2025-11-03T07:51:07.659307'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.highroadtouring.com/artists/cymande/
-- https://partisanrecords.com/artists/cymande
-- https://xpn.org/2025/08/27/british-funk-band-cymande-are-finally-getting-their-flowers/
-- https://www.last.fm/music/Cymande/+wiki
-- https://www.bfi.org.uk/interviews/how-britain-got-its-groove-back-return-cymande
-- https://www.spin.com/2025/02/cymande/
-- https://cymandeofficial.com/history/
+  - 'https://www.highroadtouring.com/artists/cymande/'
+  - 'https://partisanrecords.com/artists/cymande'
+  - >-
+    https://xpn.org/2025/08/27/british-funk-band-cymande-are-finally-getting-their-flowers/
+  - 'https://www.last.fm/music/Cymande/+wiki'
+  - >-
+    https://www.bfi.org.uk/interviews/how-britain-got-its-groove-back-return-cymande
+  - 'https://www.spin.com/2025/02/cymande/'
+  - 'https://cymandeofficial.com/history/'
 network_extracted: true
 entry_created: '2025-11-03T07:51:07.659317'
 last_updated: '2025-12-23T08:16:07.342333'
 disambiguation: British funk group
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ed8fd92c-c724-4468-b868-40590ce9a5c7
-  name: Jimmy Lindsay
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e5edc191-9bd7-4b90-b95c-5e961096756a
-  name: Patrick Patterson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 75266bd1-1a2c-4fb7-ace8-971d22c30dbb
-  name: Michael Rose
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2f104b0c-0b3b-481f-a1fa-63f310670764
-  name: Steve Scipio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ed8fd92c-c724-4468-b868-40590ce9a5c7
+    name: Jimmy Lindsay
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e5edc191-9bd7-4b90-b95c-5e961096756a
+    name: Patrick Patterson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 75266bd1-1a2c-4fb7-ace8-971d22c30dbb
+    name: Michael Rose
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2f104b0c-0b3b-481f-a1fa-63f310670764
+    name: Steve Scipio
 musicbrainz_id: 21c5fb53-6fbc-4080-989a-b26d4540f4fd
-origin: London
+origin: 'London, England, United Kingdom'
 tags:
-- british
-- funk
-- nyahbinghi
-
+  - british
+  - funk
+  - nyahbinghi
 ---
 
 ![](cymande.jpg)

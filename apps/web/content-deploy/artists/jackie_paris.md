@@ -1,15 +1,15 @@
 ---
-title: JACKIE PARIS
+title: Jackie Paris
 wiki_slug: jackie-paris
 schema_version: 2
 status: active
-birth_place: Nutley, New Jersey, United States
+birth_place: 'Nutley, New Jersey, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jackie_paris.jpg
   caption: JACKIE PARIS
   background: solo_singer
-  origin: Nutley, New Jersey, United States
+  origin: 'Nutley, New Jersey, United States'
 audio_profile:
   tempo_avg: null
   energy_avg: null
@@ -21,40 +21,44 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Charlie Parker
-  - Charles Mingus
-  - Lionel Hampton
-  - Dizzy Gillespie
-  - Donald Byrd and Gigi Gryce
-  - Anne-Marie Moss
+    - Charlie Parker
+    - Charles Mingus
+    - Lionel Hampton
+    - Dizzy Gillespie
+    - Donald Byrd and Gigi Gryce
+    - Anne-Marie Moss
   influenced:
-  - Ella Fitzgerald
-  - Students and young jazz vocalists
+    - Ella Fitzgerald
+    - Students and young jazz vocalists
   mentors:
-  - Uncle Chick (Paris's uncle)
-  - Nat King Cole
+    - Uncle Chick (Paris's uncle)
+    - Nat King Cole
 spotify_data:
   followers: 1
   id: 3ikJKs8Zu7kbzBFQ1eUzOV
   popularity: 0
-  url: https://open.spotify.com/artist/3ikJKs8Zu7kbzBFQ1eUzOV
+  url: 'https://open.spotify.com/artist/3ikJKs8Zu7kbzBFQ1eUzOV'
 discography_enriched: true
 external_urls:
-  spotify: https://open.spotify.com/artist/3ikJKs8Zu7kbzBFQ1eUzOV
-  wikipedia: https://en.wikipedia.org/wiki/Jackie_Paris
+  spotify: 'https://open.spotify.com/artist/3ikJKs8Zu7kbzBFQ1eUzOV'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jackie_Paris'
 image_path: ''
 biography_enhanced_at: '2025-11-11T09:41:35.995922'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jackie_Paris
-- https://www.canadianjazzarchive.net/musicians/jackie-paris.html
-- https://www.allaboutjazz.com/news/jackie-paris-singer-with-mingus-bird-hampton/
-- http://www.jackieparis.com/about.htm
-- https://www.latimes.com/archives/la-xpm-2004-jun-20-me-passings20.1-story.html
+  - 'https://en.wikipedia.org/wiki/Jackie_Paris'
+  - 'https://www.canadianjazzarchive.net/musicians/jackie-paris.html'
+  - >-
+    https://www.allaboutjazz.com/news/jackie-paris-singer-with-mingus-bird-hampton/
+  - 'http://www.jackieparis.com/about.htm'
+  - >-
+    https://www.latimes.com/archives/la-xpm-2004-jun-20-me-passings20.1-story.html
 network_extracted: true
 entry_created: '2025-11-11T09:41:35.995934'
 last_updated: '2025-12-23T08:16:10.055934'
+birth_date: '1924-09-20'
+artist_type: person
 ---
 
 ![]()

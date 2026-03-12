@@ -1,21 +1,23 @@
 ---
-title: Taj Mahal, Keb Mo
+title: 'Taj Mahal, Keb Mo'
 wiki_slug: taj-mahal-keb-mo
 schema_version: 2
 status: active
-birth_place: New York, New York, United States (Taj Mahal); Compton, California, United States (Keb' Mo')
+birth_place: 'New York, New York, United States'
 genres:
-- blues
-- classic blues
-- country blues
-- jazz blues
-- blues rock
-- modern blues
+  - blues
+  - classic blues
+  - country blues
+  - jazz blues
+  - blues rock
+  - modern blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/taj_mahal_keb_mo.jpg
-  caption: Taj Mahal, Keb Mo
+  caption: 'Taj Mahal, Keb Mo'
   background: solo_singer
-  origin: New York, New York, United States (Taj Mahal); Compton, California, United States (Keb' Mo')
+  origin: >-
+    New York, New York, United States (Taj Mahal); Compton, California, United
+    States (Keb' Mo')
 audio_profile:
   tempo_avg: 117.3
   energy_avg: 0.56
@@ -31,50 +33,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ry Cooder
-  - Jesse Ed Davis
-  - Papa John Creach
-  - Bonnie Raitt, Joe Walsh, Sheila E., Lizz Wright
+    - Ry Cooder
+    - Jesse Ed Davis
+    - Papa John Creach
+    - 'Bonnie Raitt, Joe Walsh, Sheila E., Lizz Wright'
   influenced:
-  - Ben Harper
-  - Phantom Blues Band
+    - Ben Harper
+    - Phantom Blues Band
   mentors:
-  - Taj Mahal's father
-  - Blind Willie McTell
-  - Robert Johnson
+    - Taj Mahal's father
+    - Blind Willie McTell
+    - Robert Johnson
 spotify_data:
   followers: 242776
   id: 1aTDTChWWyiJH3SEnYrdVp
   popularity: 49
-  url: https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp
+  url: 'https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp'
 discography_enriched: true
 top_tracks:
-- Leaving Trunk (Taj Mahal)
-- Better Than Ever [Feat. Wendy Moten] (Room On The Porch)
-- Statesboro Blues (Taj Mahal)
-- Will The Circle Be Unbroken - Live
-- Queen Bee (Señor Blues)
-- Lovin' in My Baby's Eyes (Phantom Blues)
-- Corinna - From "The Natch'l Blues" (The Natch'l Blues)
-- Room On The Porch [Feat. Ruby Amanfu]
-- Room On The Porch [Feat. Ruby Amanfu] (Room On The Porch)
-- My Darling My Dear (Room On The Porch)
+  - Leaving Trunk (Taj Mahal)
+  - 'Better Than Ever [Feat. Wendy Moten] (Room On The Porch)'
+  - Statesboro Blues (Taj Mahal)
+  - Will The Circle Be Unbroken - Live
+  - Queen Bee (Señor Blues)
+  - Lovin' in My Baby's Eyes (Phantom Blues)
+  - Corinna - From "The Natch'l Blues" (The Natch'l Blues)
+  - 'Room On The Porch [Feat. Ruby Amanfu]'
+  - 'Room On The Porch [Feat. Ruby Amanfu] (Room On The Porch)'
+  - My Darling My Dear (Room On The Porch)
 external_urls:
-  spotify: https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp
-  wikipedia: https://en.wikipedia.org/wiki/Taj_Mahal_(musician)
+  spotify: 'https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp'
+  wikipedia: 'https://en.wikipedia.org/wiki/Taj_Mahal_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/taj_mahal_keb_mo.jpg
 biography_enhanced_at: '2025-11-14T10:51:55.405861'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Taj_Mahal_(musician)
-- https://en.wikipedia.org/wiki/Keb'_Mo'
-- https://www.sfjazz.org/taj-mahal-bio/
-- https://www.britannica.com/biography/Taj-Mahal-American-musician
-- https://acousticguitar.com/taj-mahal-and-keb-mo-reunite-to-channel-tradition-tone-and-spirit-into-a-sound-all-their-own/
+  - 'https://en.wikipedia.org/wiki/Taj_Mahal_(musician)'
+  - 'https://en.wikipedia.org/wiki/Keb''_Mo'''
+  - 'https://www.sfjazz.org/taj-mahal-bio/'
+  - 'https://www.britannica.com/biography/Taj-Mahal-American-musician'
+  - >-
+    https://acousticguitar.com/taj-mahal-and-keb-mo-reunite-to-channel-tradition-tone-and-spirit-into-a-sound-all-their-own/
 network_extracted: true
 entry_created: '2025-11-14T10:51:55.405871'
 last_updated: '2025-12-23T08:16:16.360955'
+birth_date: '1942-05-17'
+artist_type: person
 ---
 
 ![](taj_mahal_keb_mo.jpg)

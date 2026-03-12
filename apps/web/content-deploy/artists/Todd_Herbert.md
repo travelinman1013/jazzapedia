@@ -3,14 +3,14 @@ title: Todd Herbert
 wiki_slug: todd-herbert
 schema_version: 2
 status: active
-birth_place: Evanston, Illinois, USA
+birth_place: 'Evanston, Illinois, USA'
 genres:
-- hard bop
+  - hard bop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Todd_Herbert.jpg
   caption: Todd Herbert
   background: solo_singer
-  origin: Evanston, Illinois, USA
+  origin: 'Evanston, Illinois, USA'
 audio_profile:
   tempo_avg: 118.9
   energy_avg: 0.497
@@ -26,53 +26,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Freddie Hubbard
-  - Charles Earland
-  - Jimmy Cobb
-  - David Hazeltine
-  - John Webber
-  - Louis Hayes
-  - George Colligan
-  - Dwayne Burno
-  - Darrin Becket
+    - Freddie Hubbard
+    - Charles Earland
+    - Jimmy Cobb
+    - David Hazeltine
+    - John Webber
+    - Louis Hayes
+    - George Colligan
+    - Dwayne Burno
+    - Darrin Becket
   influenced: []
   mentors:
-  - John Coltrane
-  - Gary Campbell
+    - John Coltrane
+    - Gary Campbell
 spotify_data:
   followers: 92
   id: 3DEZmFF25qoWEU26Afd6fw
   popularity: 0
-  url: https://open.spotify.com/artist/3DEZmFF25qoWEU26Afd6fw
+  url: 'https://open.spotify.com/artist/3DEZmFF25qoWEU26Afd6fw'
 discography_enriched: true
 top_tracks:
-- Universal Freedom (Love Vibrations for Planet Earth)
-- Look into the Abyss (Running with Jazz)
-- Captain Hubs (Running with Jazz)
-- Do This (Running with Jazz)
-- Herbs of Healing (Running with Jazz)
-- Years of Dreaming (Ballads in Jazz)
-- Bright Moments - Alternate Mix (Ballads in Jazz)
-- You Just Never Know (Along the Path)
-- Place Picasso (Along the Path)
-- Universal Freedom (Along the Path)
+  - Universal Freedom (Love Vibrations for Planet Earth)
+  - Look into the Abyss (Running with Jazz)
+  - Captain Hubs (Running with Jazz)
+  - Do This (Running with Jazz)
+  - Herbs of Healing (Running with Jazz)
+  - Years of Dreaming (Ballads in Jazz)
+  - Bright Moments - Alternate Mix (Ballads in Jazz)
+  - You Just Never Know (Along the Path)
+  - Place Picasso (Along the Path)
+  - Universal Freedom (Along the Path)
 external_urls:
-  spotify: https://open.spotify.com/artist/3DEZmFF25qoWEU26Afd6fw
+  spotify: 'https://open.spotify.com/artist/3DEZmFF25qoWEU26Afd6fw'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/Todd_Herbert.jpg
 biography_enhanced_at: '2025-10-19T10:47:00.260349'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://www.toddherbert.com/about.html
-- https://www.paris-move.com/reviews/todd-herbert-captain-hubs/
-- https://jazztimes.com/archives/todd-herbert-the-tree-of-life/
-- https://www.allaboutjazz.com/the-path-to-infinity-todd-herbert-metropolitan-records-review-by-jerry-dsouza
-- http://metropolitanrecordsnyc.com/catalog/tree-of-life/
-- https://papatamusredux.com/2025/10/01/todd-herbert-captain-hubs/
+  - 'http://www.toddherbert.com/about.html'
+  - 'https://www.paris-move.com/reviews/todd-herbert-captain-hubs/'
+  - 'https://jazztimes.com/archives/todd-herbert-the-tree-of-life/'
+  - >-
+    https://www.allaboutjazz.com/the-path-to-infinity-todd-herbert-metropolitan-records-review-by-jerry-dsouza
+  - 'http://metropolitanrecordsnyc.com/catalog/tree-of-life/'
+  - 'https://papatamusredux.com/2025/10/01/todd-herbert-captain-hubs/'
 network_extracted: true
 entry_created: '2025-10-19T10:47:00.260362'
 last_updated: '2025-12-23T08:16:04.171855'
+artist_type: person
 ---
 
 ![](Todd_Herbert.jpg)

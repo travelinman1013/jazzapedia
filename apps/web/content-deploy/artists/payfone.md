@@ -1,11 +1,11 @@
 ---
-artist_type: band
+artist_type: person
 biography_enhanced_at: '2026-01-14T01:08:02.462741'
 enhancement_provider: perplexity
 entry_created: '2026-01-14T01:08:02.462752'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e353ea13-085b-48ab-bbb7-0b8f95b0f9a5
-  spotify: https://open.spotify.com/artist/5kTeQ588I2gMuODQFHRQUu
+  musicbrainz: 'https://musicbrainz.org/artist/e353ea13-085b-48ab-bbb7-0b8f95b0f9a5'
+  spotify: 'https://open.spotify.com/artist/5kTeQ588I2gMuODQFHRQUu'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/payfone.jpg
@@ -13,33 +13,36 @@ is_active: true
 last_updated: '2026-01-14T01:08:02.462753'
 musical_connections:
   collaborators:
-  - Jimmy Day
-  - April Pittmann
-  - Joseph Gabriel Harris
-  - Louis Howard Jones
+    - Jimmy Day
+    - April Pittmann
+    - Joseph Gabriel Harris
+    - Louis Howard Jones
   influenced: []
   mentors:
-  - Older brother
+    - Older brother
 musicbrainz_id: e353ea13-085b-48ab-bbb7-0b8f95b0f9a5
 network_extracted: true
-origin: London, England, United Kingdom
+origin: 'East London, England, United Kingdom'
 primary_source: perplexity
 research_sources:
-- https://jaegeroslo.no/the-politics-of-dancing-an-interview-with-phil-passera-of-payfone/
-- https://www.last.fm/music/Payfone/+wiki
-- https://www.prsformusic.com/m-magazine/features/playlist-payfone
-- https://banbantonton.com/2022/02/25/interview-phil-passera-payfone/
-- https://www.theransomnote.com/music/mixes/payfone-junk-shop-mix-the-thing/
-- https://glidemagazine.com/251925/listen-payfone-makes-it-funky-weird-and-classy-on-sofian/
-- https://rhythmpassport.com/interview-phil-passera-payfone-november-2016/
-- https://www.testpressing.org/magazine/an-interview-with-payfones-phil-passera
-- https://www.piccadillyrecords.com/161631/Payfone-Lunch-Otis
-- http://www.betinos.com/auteur/payfone
+  - >-
+    https://jaegeroslo.no/the-politics-of-dancing-an-interview-with-phil-passera-of-payfone/
+  - 'https://www.last.fm/music/Payfone/+wiki'
+  - 'https://www.prsformusic.com/m-magazine/features/playlist-payfone'
+  - 'https://banbantonton.com/2022/02/25/interview-phil-passera-payfone/'
+  - 'https://www.theransomnote.com/music/mixes/payfone-junk-shop-mix-the-thing/'
+  - >-
+    https://glidemagazine.com/251925/listen-payfone-makes-it-funky-weird-and-classy-on-sofian/
+  - 'https://rhythmpassport.com/interview-phil-passera-payfone-november-2016/'
+  - >-
+    https://www.testpressing.org/magazine/an-interview-with-payfones-phil-passera
+  - 'https://www.piccadillyrecords.com/161631/Payfone-Lunch-Otis'
+  - 'http://www.betinos.com/auteur/payfone'
 spotify_data:
   followers: 20551
   id: 5kTeQ588I2gMuODQFHRQUu
   popularity: 39
-  url: https://open.spotify.com/artist/5kTeQ588I2gMuODQFHRQUu
+  url: 'https://open.spotify.com/artist/5kTeQ588I2gMuODQFHRQUu'
 status: active
 title: Payfone
 ---

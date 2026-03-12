@@ -23,53 +23,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Zach Carothers
-  - Zoe Manville
-  - Eric Howk
-  - Kyle O'Quin
-  - Jason Sechrist
-  - Paul Williams
-  - Chris Funk
-  - Jeff Bhasker
-  - Black Thought
-  - Ruban Nielson
-  - Edgar Winter
+    - Zach Carothers
+    - Zoe Manville
+    - Eric Howk
+    - Kyle O'Quin
+    - Jason Sechrist
+    - Paul Williams
+    - Chris Funk
+    - Jeff Bhasker
+    - Black Thought
+    - Ruban Nielson
+    - Edgar Winter
   influenced: []
   mentors: []
 spotify_data:
   followers: 1522018
   id: 4kI8Ie27vjvonwaB2ePh8T
   popularity: 68
-  url: https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T
+  url: 'https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T'
 discography_enriched: true
 top_tracks:
-- Feel It Still (Woodstock)
-- Live in the Moment (Woodstock)
-- So Young (Woodstock)
-- Modern Jesus (Evil Friends)
-- Dummy (Chris Black Changed My Life)
-- Feel It Still
-- Tidal Wave (Woodstock)
-- Purple Yellow Red and Blue (Evil Friends)
-- What, Me Worry?
-- Glide
+  - Feel It Still (Woodstock)
+  - Live in the Moment (Woodstock)
+  - So Young (Woodstock)
+  - Modern Jesus (Evil Friends)
+  - Dummy (Chris Black Changed My Life)
+  - Feel It Still
+  - Tidal Wave (Woodstock)
+  - Purple Yellow Red and Blue (Evil Friends)
+  - 'What, Me Worry?'
+  - Glide
 external_urls:
-  spotify: https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T
+  spotify: 'https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/Portugal_The_Man.jpg
 biography_enhanced_at: '2025-10-20T10:29:35.396655'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://eclecticmusiclover.com/tag/portugal-the-man/
-- https://www.last.fm/music/Portugal.+The+Man/+wiki
-- https://fearlessrecords.com/artists/portugal-the-man/
-- https://relix.com/articles/detail/portugal-the-man-end-of-the-world-party/
-- https://floodmagazine.com/136681/portugal-the-man-cover-story/
+  - 'https://eclecticmusiclover.com/tag/portugal-the-man/'
+  - 'https://www.last.fm/music/Portugal.+The+Man/+wiki'
+  - 'https://fearlessrecords.com/artists/portugal-the-man/'
+  - 'https://relix.com/articles/detail/portugal-the-man-end-of-the-world-party/'
+  - 'https://floodmagazine.com/136681/portugal-the-man-cover-story/'
 network_extracted: true
 entry_created: '2025-10-20T10:29:35.397002'
 last_updated: '2025-12-23T08:16:03.598441'
-origin: Wasilla, Alaska, United States
+origin: 'Wasilla, Alaska, United States'
+artist_type: band
 ---
 
 ![](Portugal_The_Man.jpg)

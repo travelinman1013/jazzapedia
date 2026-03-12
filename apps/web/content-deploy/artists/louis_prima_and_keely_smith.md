@@ -4,7 +4,7 @@ wiki_slug: louis-prima-and-keely-smith
 schema_version: 2
 status: active
 genres:
-- swing music
+  - swing music
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/louis_prima_and_keely_smith.jpg
   caption: Louis Prima and Keely Smith
@@ -24,48 +24,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sam Butera
-  - The Witnesses
+    - Sam Butera
+    - The Witnesses
   influenced:
-  - Big Bad Voodoo Daddy
+    - Big Bad Voodoo Daddy
   mentors:
-  - Louis Jordan
+    - Louis Jordan
 spotify_data:
   followers: 4514
   id: 1VNfHD8QBVfKnAeHUh42jv
   popularity: 28
-  url: https://open.spotify.com/artist/1VNfHD8QBVfKnAeHUh42jv
+  url: 'https://open.spotify.com/artist/1VNfHD8QBVfKnAeHUh42jv'
 discography_enriched: true
 top_tracks:
-- Buona Sera - Remastered 1999 (Wild, Cool & Swingin')
-- Angelina / Zooma Zooma - Medley / Live At Lake Tahoe / 1957 / Remastered 1999 (Wild, Cool & Swingin')
-- Pennies From Heaven - Remastered 1999 (Wild, Cool & Swingin')
-- Pennies From Heaven - Remastered 1999 (Louis Prima Plays The Standards)
-- The Closer To The Bone (The Sweeter Is The Meat) - Remastered 1999 (Wild, Cool & Swingin')
-- Hey, Boy! Hey, Girl! - Remastered 1999 (Wild, Cool & Swingin')
-- Moonglow - Remastered 1999 (Wild, Cool & Swingin')
-- Love Of My Life (O Sole Mio) - Live From The Casbar Theatre At The Sahara, Las Vegas 1958 / Remastered 1999 (Wild, Cool
-  & Swingin')
-- That Old Black Magic - Live In Las Vegas/1958 / Remastered 1996 (Wild, Cool & Swingin')
-- Should I / I Can't Believe That You're In Love With Me - Medley / Live In Las Vegas /1958 / Remastered 1999 (Wild, Cool
-  & Swingin')
+  - 'Buona Sera - Remastered 1999 (Wild, Cool & Swingin'')'
+  - >-
+    Angelina / Zooma Zooma - Medley / Live At Lake Tahoe / 1957 / Remastered
+    1999 (Wild, Cool & Swingin')
+  - 'Pennies From Heaven - Remastered 1999 (Wild, Cool & Swingin'')'
+  - Pennies From Heaven - Remastered 1999 (Louis Prima Plays The Standards)
+  - >-
+    The Closer To The Bone (The Sweeter Is The Meat) - Remastered 1999 (Wild,
+    Cool & Swingin')
+  - 'Hey, Boy! Hey, Girl! - Remastered 1999 (Wild, Cool & Swingin'')'
+  - 'Moonglow - Remastered 1999 (Wild, Cool & Swingin'')'
+  - >-
+    Love Of My Life (O Sole Mio) - Live From The Casbar Theatre At The Sahara,
+    Las Vegas 1958 / Remastered 1999 (Wild, Cool & Swingin')
+  - >-
+    That Old Black Magic - Live In Las Vegas/1958 / Remastered 1996 (Wild, Cool
+    & Swingin')
+  - >-
+    Should I / I Can't Believe That You're In Love With Me - Medley / Live In
+    Las Vegas /1958 / Remastered 1999 (Wild, Cool & Swingin')
 external_urls:
-  spotify: https://open.spotify.com/artist/1VNfHD8QBVfKnAeHUh42jv
-  wikipedia: https://en.wikipedia.org/wiki/Louis_Prima
+  spotify: 'https://open.spotify.com/artist/1VNfHD8QBVfKnAeHUh42jv'
+  wikipedia: 'https://en.wikipedia.org/wiki/Louis_Prima'
 image_path: 03_Resources/source_material/ArtistPortraits/louis_prima_and_keely_smith.jpg
 biography_enhanced_at: '2025-11-26T07:47:35.287698'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Louis_Prima
-- https://www.explorelouisiana.com/music/louis-prima
-- https://www.swingstreetradio.org/louis-prima-vocalist-spouse-keely-smith-passes/
-- https://www.britannica.com/biography/Louis-Prima
-- https://en.wikipedia.org/wiki/Keely_Smith
+  - 'https://en.wikipedia.org/wiki/Louis_Prima'
+  - 'https://www.explorelouisiana.com/music/louis-prima'
+  - >-
+    https://www.swingstreetradio.org/louis-prima-vocalist-spouse-keely-smith-passes/
+  - 'https://www.britannica.com/biography/Louis-Prima'
+  - 'https://en.wikipedia.org/wiki/Keely_Smith'
 network_extracted: true
 entry_created: '2025-11-26T07:47:35.287707'
 last_updated: '2025-12-23T08:16:12.264404'
-origin: New Orleans, Louisiana, United States (Louis Prima); Norfolk, Virginia, United States (Keely Smith)
+origin: >-
+  New Orleans, Louisiana, United States (Louis Prima); Norfolk, Virginia, United
+  States (Keely Smith)
+birth_place: 'New Orleans, Louisiana, United States'
+birth_date: '1910'
+artist_type: person
 ---
 
 ![](louis_prima_and_keely_smith.jpg)

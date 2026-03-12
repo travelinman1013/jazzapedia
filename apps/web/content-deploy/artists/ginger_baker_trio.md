@@ -1,64 +1,68 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-22T07:04:01.017584'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:04:01.017590'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7f120576-3bde-448f-9410-23ba37b1f820
-  spotify: https://open.spotify.com/artist/0fhBalTo4sNs73GilPvfaZ
-  wikipedia: https://en.wikipedia.org/wiki/Ginger_Baker
+  musicbrainz: 'https://musicbrainz.org/artist/7f120576-3bde-448f-9410-23ba37b1f820'
+  spotify: 'https://open.spotify.com/artist/0fhBalTo4sNs73GilPvfaZ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ginger_Baker'
 genres:
-- jazz fusion
+  - jazz fusion
 image_path: 03_Resources/source_material/ArtistPortraits/ginger_baker_trio.jpg
 instruments:
-- eponymous
-- original
-last_updated: '2026-01-22T07:04:01.017591'
-members:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
-  mbid: e01d1aff-9cc2-4606-83d7-56445515c6e6
-  name: Ginger Baker
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a21318db-f228-4a4d-8bce-6947a62985a5
-  name: Bill Frisell
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1f0cdc02-c8d5-4228-8227-37ec0c289b48
-  name: Charlie Haden
+last_updated: '2026-01-22T07:04:01.017591'
+members:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: e01d1aff-9cc2-4606-83d7-56445515c6e6
+    name: Ginger Baker
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a21318db-f228-4a4d-8bce-6947a62985a5
+    name: Bill Frisell
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1f0cdc02-c8d5-4228-8227-37ec0c289b48
+    name: Charlie Haden
 musical_connections:
   collaborators:
-  - Charlie Haden
-  - Bill Frisell
-  - Eric Clapton
-  - Jack Bruce
+    - Charlie Haden
+    - Bill Frisell
+    - Eric Clapton
+    - Jack Bruce
   influenced: []
   mentors:
-  - Phil Seamen
+    - Phil Seamen
 musicbrainz_id: 7f120576-3bde-448f-9410-23ba37b1f820
 network_extracted: true
-origin: Lewisham, South London, England (Ginger Baker's birthplace)
+origin: 'Lewisham, South London, England (Ginger Baker''s birthplace)'
 primary_source: perplexity
 research_sources:
-- https://jazzchill.blogspot.com/2025/02/ginger-bakers-trio-rediscovering-magic.html
-- https://whereseric.com/faq/baker-ginger/
-- https://en.wikipedia.org/wiki/Ginger_Baker
-- https://www.loudersound.com/features/ginger-baker
-- https://www.allaboutjazz.com/musicians/ginger-baker/
-- https://www.jazzalley.com/www-home/artist.jsp?shownum=1319
+  - >-
+    https://jazzchill.blogspot.com/2025/02/ginger-bakers-trio-rediscovering-magic.html
+  - 'https://whereseric.com/faq/baker-ginger/'
+  - 'https://en.wikipedia.org/wiki/Ginger_Baker'
+  - 'https://www.loudersound.com/features/ginger-baker'
+  - 'https://www.allaboutjazz.com/musicians/ginger-baker/'
+  - 'https://www.jazzalley.com/www-home/artist.jsp?shownum=1319'
 spotify_data:
   followers: 6268
   id: 0fhBalTo4sNs73GilPvfaZ
   popularity: 16
-  url: https://open.spotify.com/artist/0fhBalTo4sNs73GilPvfaZ
+  url: 'https://open.spotify.com/artist/0fhBalTo4sNs73GilPvfaZ'
 status: active
 title: Ginger Baker Trio
+birth_place: 'Lewisham, South London, England'
+birth_date: '1939-08-19'
+death_date: '2019-10-06'
 ---
 
 ![](ginger_baker_trio.jpg)

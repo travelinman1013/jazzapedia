@@ -1,58 +1,58 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2025-12-30T01:26:16.156373'
 birth_date: '1981'
 enhancement_provider: perplexity
 entry_created: '2025-12-30T01:26:16.156378'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/959cf5bf-ee29-4af6-a85a-0b480181d988
-  spotify: https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy
-  wikipedia: https://en.wikipedia.org/wiki/Everything_but_the_Girl
+  musicbrainz: 'https://musicbrainz.org/artist/959cf5bf-ee29-4af6-a85a-0b480181d988'
+  spotify: 'https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy'
+  wikipedia: 'https://en.wikipedia.org/wiki/Everything_but_the_Girl'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/everything_but_the_girl.jpg
 last_updated: '2025-12-30T01:26:16.156378'
 members:
-- &id001
-  begin: '1981'
-  end: ''
-  instruments: []
-  mbid: 6dbd7f8b-20ac-4287-8dd3-b4cae5c5f82f
-  name: Tracey Thorn
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9030ae90-4db2-4a9c-aa08-01cf17a86b58
-  name: Ben Watt
+  - &ref_0
+    begin: '1981'
+    end: ''
+    instruments: []
+    mbid: 6dbd7f8b-20ac-4287-8dd3-b4cae5c5f82f
+    name: Tracey Thorn
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9030ae90-4db2-4a9c-aa08-01cf17a86b58
+    name: Ben Watt
 musical_connections:
   collaborators:
-  - Paul Weller
-  - Phil Moxham
-  - June Miles-Kingston
-  - Todd Terry
+    - Paul Weller
+    - Phil Moxham
+    - June Miles-Kingston
+    - Todd Terry
   influenced: []
   mentors:
-  - Mike Alway
+    - Mike Alway
 musicbrainz_id: 959cf5bf-ee29-4af6-a85a-0b480181d988
 network_extracted: true
-origin: Kingston upon Hull
+origin: 'Kingston upon Hull, England, United Kingdom'
 original_members:
-- *id001
+  - *ref_0
 primary_source: perplexity
 research_sources:
-- https://ebtg.com/about/
-- https://en.wikipedia.org/wiki/Everything_but_the_Girl
-- https://www.last.fm/music/Everything+But+the+Girl/+wiki
-- https://benwatt.com/everything-but-the-girl
+  - 'https://ebtg.com/about/'
+  - 'https://en.wikipedia.org/wiki/Everything_but_the_Girl'
+  - 'https://www.last.fm/music/Everything+But+the+Girl/+wiki'
+  - 'https://benwatt.com/everything-but-the-girl'
 spotify_data:
   followers: 443448
   id: 13ccXrK7AmXb4TddMkE7jy
   popularity: 63
-  url: https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy
+  url: 'https://open.spotify.com/artist/13ccXrK7AmXb4TddMkE7jy'
 status: active
 tags:
-- alternative dance
-- british
-- club
+  - alternative dance
+  - british
+  - club
 title: Everything but the Girl
 ---
 

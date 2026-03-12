@@ -1,21 +1,21 @@
 ---
-title: CHUCK BERRY
+title: Chuck Berry
 wiki_slug: chuck-berry
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1926-10-18'
-birth_place: St. Louis, Missouri, United States
+birth_place: 'St. Louis, Missouri, United States'
 death_date: '2017-03-18'
 genres:
-- rockabilly
-- rock and roll
+  - rockabilly
+  - rock and roll
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/CHUCK_BERRY.jpg
   caption: CHUCK BERRY
   background: solo_singer
   born: '1926-10-18'
-  origin: St. Louis, Missouri, United States
+  origin: 'St. Louis, Missouri, United States'
   died: '2017-03-18'
 audio_profile:
   tempo_avg: 137.2
@@ -32,46 +32,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Johnnie Johnson
-  - Leonard and Phil Chess
-  - Joe Alexander & the Cubans
+    - Johnnie Johnson
+    - Leonard and Phil Chess
+    - Joe Alexander & the Cubans
   influenced:
-  - Almost every rock and roll band
+    - Almost every rock and roll band
   mentors:
-  - Nat King Cole
-  - T-Bone Walker
-  - Muddy Waters
-  - Ira Harris
+    - Nat King Cole
+    - T-Bone Walker
+    - Muddy Waters
+    - Ira Harris
 spotify_data:
   followers: 2207056
   id: 293zczrfYafIItmnmM3coR
   popularity: 62
-  url: https://open.spotify.com/artist/293zczrfYafIItmnmM3coR
+  url: 'https://open.spotify.com/artist/293zczrfYafIItmnmM3coR'
 discography_enriched: true
 top_tracks:
-- Johnny B. Goode (Berry Is On Top)
-- You Never Can Tell (St. Louis To Liverpool)
-- No Particular Place To Go (St. Louis To Liverpool)
-- Run Rudolph Run (Rock 'N' Roll Rarities)
-- Roll Over Beethoven (Berry Is On Top)
-- Sweet Little Sixteen (One Dozen Berry's)
-- Route 66 (New Juke Box Hits)
-- Maybellene (Berry Is On Top)
-- School Day (Ring Ring Goes The Bell) (After School Session)
-- Rock And Roll Music (One Dozen Berry's)
+  - Johnny B. Goode (Berry Is On Top)
+  - You Never Can Tell (St. Louis To Liverpool)
+  - No Particular Place To Go (St. Louis To Liverpool)
+  - Run Rudolph Run (Rock 'N' Roll Rarities)
+  - Roll Over Beethoven (Berry Is On Top)
+  - Sweet Little Sixteen (One Dozen Berry's)
+  - Route 66 (New Juke Box Hits)
+  - Maybellene (Berry Is On Top)
+  - School Day (Ring Ring Goes The Bell) (After School Session)
+  - Rock And Roll Music (One Dozen Berry's)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/592a3b6d-c42b-4567-99c9-ecf63bd66499
-  spotify: https://open.spotify.com/artist/293zczrfYafIItmnmM3coR
-  wikipedia: https://en.wikipedia.org/wiki/Chuck_Berry
+  musicbrainz: 'https://musicbrainz.org/artist/592a3b6d-c42b-4567-99c9-ecf63bd66499'
+  spotify: 'https://open.spotify.com/artist/293zczrfYafIItmnmM3coR'
+  wikipedia: 'https://en.wikipedia.org/wiki/Chuck_Berry'
 image_path: 03_Resources/source_material/ArtistPortraits/CHUCK_BERRY.jpg
 biography_enhanced_at: '2025-10-21T06:54:07.306422'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Chuck_Berry
-- https://www.britannica.com/biography/Chuck-Berry
-- https://www.polarmusicprize.org/laureates/chuck-berry/
-- https://aaep1600.osu.edu/book/06_Berry.php
+  - 'https://en.wikipedia.org/wiki/Chuck_Berry'
+  - 'https://www.britannica.com/biography/Chuck-Berry'
+  - 'https://www.polarmusicprize.org/laureates/chuck-berry/'
+  - 'https://aaep1600.osu.edu/book/06_Berry.php'
 network_extracted: true
 entry_created: '2025-10-21T06:54:07.306428'
 last_updated: '2025-12-23T08:16:01.515182'
@@ -79,9 +79,11 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:22:18.413239'
 musicbrainz_id: 592a3b6d-c42b-4567-99c9-ecf63bd66499
 tags:
-- blues
-- blues rock
-- classic rock
+  - blues
+  - blues rock
+  - classic rock
+is_active: false
+origin: 'St. Louis, Missouri, United States'
 ---
 
 ![](CHUCK_BERRY.jpg)

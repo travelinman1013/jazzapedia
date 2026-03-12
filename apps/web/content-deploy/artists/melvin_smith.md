@@ -1,15 +1,15 @@
 ---
-title: melvin smith
+title: Melvin Smith
 wiki_slug: melvin-smith
 schema_version: 2
 status: active
-birth_place: Jacksonville, Florida, USA
+birth_place: 'Jacksonville, Florida, USA'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/melvin_smith.jpg
   caption: melvin smith
   background: solo_singer
-  origin: Jacksonville, Florida, USA
+  origin: 'Jacksonville, Florida, USA'
 audio_profile:
   tempo_avg: 119.2
   energy_avg: 0.561
@@ -25,55 +25,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ce Ce Winans
-  - Donnie McClurkin
-  - Norman Connors
-  - Michael Henderson
-  - Charlie Persip
-  - Ben Vereen
-  - Stix Bones
-  - New Hope Ensemble
-  - The Back Alley Players
+    - Ce Ce Winans
+    - Donnie McClurkin
+    - Norman Connors
+    - Michael Henderson
+    - Charlie Persip
+    - Ben Vereen
+    - Stix Bones
+    - New Hope Ensemble
+    - The Back Alley Players
   influenced: []
   mentors:
-  - Andy McGhee
-  - Billy Pierce
-  - George Garzone
-  - Walter Beasley
-  - Jimmy Heath
-  - Sir Roland Hanna
+    - Andy McGhee
+    - Billy Pierce
+    - George Garzone
+    - Walter Beasley
+    - Jimmy Heath
+    - Sir Roland Hanna
 spotify_data:
   followers: 49
   id: 405WTIcVu5YzQdCivGs1W6
   popularity: 0
-  url: https://open.spotify.com/artist/405WTIcVu5YzQdCivGs1W6
+  url: 'https://open.spotify.com/artist/405WTIcVu5YzQdCivGs1W6'
 discography_enriched: true
 top_tracks:
-- Ain't Nobody's Fault (The Smash Records Story Vol 2)
-- It Went Down Easy (Night Life)
-- It Went Down Easy (Rock 'N' Roll Party Vol 1)
-- Looped (Rock 'N' Roll Party Vol 1)
-- Everybody´s Got The Blues (Everybody´s Got The Blues (Blues People 1953 - 1954))
-- Lift Every Voice and Sing (feat. Andrae Murchison, Jeb Patton, Corcoran Holt & Alvin Atkinson Jr.) (Evidence)
-- James (For April) [feat. Corcoran Holt & Alvin Atkinson Jr.] (Evidence)
-- Evidence (feat. Sharp Radway, Corcoran Holt & Sam Knight) (Evidence)
-- Trylenera, Pt. 3 (feat. Alvin Atkinson Jr. & Corcoran Holt) (Evidence)
-- Golden (feat. Sharp Radway, Corcoran Holt & Sam Knight) (Evidence)
+  - Ain't Nobody's Fault (The Smash Records Story Vol 2)
+  - It Went Down Easy (Night Life)
+  - It Went Down Easy (Rock 'N' Roll Party Vol 1)
+  - Looped (Rock 'N' Roll Party Vol 1)
+  - >-
+    Everybody´s Got The Blues (Everybody´s Got The Blues (Blues People 1953 -
+    1954))
+  - >-
+    Lift Every Voice and Sing (feat. Andrae Murchison, Jeb Patton, Corcoran Holt
+    & Alvin Atkinson Jr.) (Evidence)
+  - 'James (For April) [feat. Corcoran Holt & Alvin Atkinson Jr.] (Evidence)'
+  - 'Evidence (feat. Sharp Radway, Corcoran Holt & Sam Knight) (Evidence)'
+  - 'Trylenera, Pt. 3 (feat. Alvin Atkinson Jr. & Corcoran Holt) (Evidence)'
+  - 'Golden (feat. Sharp Radway, Corcoran Holt & Sam Knight) (Evidence)'
 external_urls:
-  spotify: https://open.spotify.com/artist/405WTIcVu5YzQdCivGs1W6
+  spotify: 'https://open.spotify.com/artist/405WTIcVu5YzQdCivGs1W6'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/melvin_smith.jpg
 biography_enhanced_at: '2025-11-11T09:36:47.924023'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.gospelengine.com/melvin-smith
-- https://melvinsmithsax.com/bio
-- https://www.allaboutjazz.com/musicians/melvin-smith/
-- https://jazztimes.com/archives/melvin-smith-i-surrender-all
+  - 'https://www.gospelengine.com/melvin-smith'
+  - 'https://melvinsmithsax.com/bio'
+  - 'https://www.allaboutjazz.com/musicians/melvin-smith/'
+  - 'https://jazztimes.com/archives/melvin-smith-i-surrender-all'
 network_extracted: true
 entry_created: '2025-11-11T09:36:47.924030'
 last_updated: '2025-12-23T08:16:12.937848'
+artist_type: person
 ---
 
 ![](melvin_smith.jpg)

@@ -1,5 +1,5 @@
 ---
-title: neville jacobs
+title: Neville Jacobs
 wiki_slug: neville-jacobs
 schema_version: 2
 status: active
@@ -23,51 +23,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Cris Jacobs
-  - Ivan Neville
-  - The Bridge
+    - Cris Jacobs
+    - Ivan Neville
+    - The Bridge
   influenced:
-  - Contemporary New Orleans funk and soul artists
+    - Contemporary New Orleans funk and soul artists
   mentors:
-  - Art Neville
-  - Aaron Neville
+    - Art Neville
+    - Aaron Neville
 spotify_data:
   followers: 537
   id: 52c3jmKU2YPALq1MLqUOex
   popularity: 5
-  url: https://open.spotify.com/artist/52c3jmKU2YPALq1MLqUOex
+  url: 'https://open.spotify.com/artist/52c3jmKU2YPALq1MLqUOex'
 discography_enriched: true
 top_tracks:
-- Makeup of a Fool (feat. Aaron Neville) (Neville Jacobs)
-- Wasted (Neville Jacobs)
-- The Stakes (Neville Jacobs)
-- City Rain (Neville Jacobs)
-- I Wanna Know (Neville Jacobs)
-- Dance For Me Mama (Neville Jacobs)
-- River Behind Me (Neville Jacobs)
-- Money Talks (Neville Jacobs)
-- Good to You (Neville Jacobs)
-- Makeup of a Fool (feat. Aaron Neville) (Makeup of a Fool (feat. Aaron Neville))
+  - Makeup of a Fool (feat. Aaron Neville) (Neville Jacobs)
+  - Wasted (Neville Jacobs)
+  - The Stakes (Neville Jacobs)
+  - City Rain (Neville Jacobs)
+  - I Wanna Know (Neville Jacobs)
+  - Dance For Me Mama (Neville Jacobs)
+  - River Behind Me (Neville Jacobs)
+  - Money Talks (Neville Jacobs)
+  - Good to You (Neville Jacobs)
+  - >-
+    Makeup of a Fool (feat. Aaron Neville) (Makeup of a Fool (feat. Aaron
+    Neville))
 external_urls:
-  spotify: https://open.spotify.com/artist/52c3jmKU2YPALq1MLqUOex
+  spotify: 'https://open.spotify.com/artist/52c3jmKU2YPALq1MLqUOex'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/neville_jacobs.jpg
 biography_enhanced_at: '2025-11-15T18:35:59.035865'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.mascotlabelgroup.com/pages/ivan-neville-biography
-- https://glidemagazine.com/213979/funky-ivan-neville-and-roots-rocker-cris-jacobs-form-new-soulful-outfit-neville-jacobs/
-- https://holican.io/wiki/neville-jacobs
-- https://relix.com/reviews/detail/neville-jacobs-neville-jacobs/
-- https://www.baltimorestyle.com/the-beat-neville-jacobs-album-worth-the-wait/
-- https://www.gratefulweb.com/articles/neville-jacobs-debut-out-september-28th
-- https://harmonizedrecords.com/catalog/neville-jacobs
-- https://liveforlivemusic.com/features/neville-jacobs-wasted/
+  - 'https://www.mascotlabelgroup.com/pages/ivan-neville-biography'
+  - >-
+    https://glidemagazine.com/213979/funky-ivan-neville-and-roots-rocker-cris-jacobs-form-new-soulful-outfit-neville-jacobs/
+  - 'https://holican.io/wiki/neville-jacobs'
+  - 'https://relix.com/reviews/detail/neville-jacobs-neville-jacobs/'
+  - 'https://www.baltimorestyle.com/the-beat-neville-jacobs-album-worth-the-wait/'
+  - 'https://www.gratefulweb.com/articles/neville-jacobs-debut-out-september-28th'
+  - 'https://harmonizedrecords.com/catalog/neville-jacobs'
+  - 'https://liveforlivemusic.com/features/neville-jacobs-wasted/'
 network_extracted: true
 entry_created: '2025-11-15T18:35:59.035876'
 last_updated: '2025-12-23T08:16:13.497821'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](neville_jacobs.jpg)

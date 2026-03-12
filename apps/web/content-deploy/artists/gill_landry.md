@@ -1,39 +1,39 @@
 ---
-title: gill landry
+title: Gill Landry
 wiki_slug: gill-landry
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1975-12-10'
-birth_place: Lake Charles
+birth_place: 'Lake Charles, Louisiana, United States'
 genres:
-- americana
-- gothic country
-- alt country
+  - americana
+  - gothic country
+  - alt country
 instruments:
-- electric guitar
-- resonator guitar
-- slide guitar
-- pedal steel guitar
-- steel guitar
-- spoken vocals
-associated_acts:
-- begin: '2007'
-  end: '2015'
-  instruments: []
-  mbid: 0202af38-ac32-48d0-a546-87caaef2dee2
-  name: Old Crow Medicine Show
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9725f5a1-3d65-488a-8a82-54c1483beb7c
-  name: The Anal Beatles
-- begin: ''
-  end: ''
-  instruments:
   - electric guitar
-  mbid: cf3d0785-0139-4c30-8eca-bf93a435b83c
-  name: Salvador Dali Parton
+  - resonator guitar
+  - slide guitar
+  - pedal steel guitar
+  - steel guitar
+  - spoken vocals
+associated_acts:
+  - begin: '2007'
+    end: '2015'
+    instruments: []
+    mbid: 0202af38-ac32-48d0-a546-87caaef2dee2
+    name: Old Crow Medicine Show
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9725f5a1-3d65-488a-8a82-54c1483beb7c
+    name: The Anal Beatles
+  - begin: ''
+    end: ''
+    instruments:
+      - electric guitar
+    mbid: cf3d0785-0139-4c30-8eca-bf93a435b83c
+    name: Salvador Dali Parton
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/gill_landry.jpg
   caption: gill landry
@@ -55,58 +55,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Woody Pines
-  - Old Crow Medicine Show
-  - Ketch Secor
-  - Felice Brothers
-  - Brandi Carlile
-  - Jolie Holland
-  - Samantha Parton
-  - Ross Holmes
-  - Dianna Agron
+    - Woody Pines
+    - Old Crow Medicine Show
+    - Ketch Secor
+    - Felice Brothers
+    - Brandi Carlile
+    - Jolie Holland
+    - Samantha Parton
+    - Ross Holmes
+    - Dianna Agron
   influenced: []
   mentors:
-  - Baby Gramps
+    - Baby Gramps
 spotify_data:
   followers: 13128
   id: 3HQmd0s1eohI3OA4VPd8rh
   popularity: 31
-  url: https://open.spotify.com/artist/3HQmd0s1eohI3OA4VPd8rh
+  url: 'https://open.spotify.com/artist/3HQmd0s1eohI3OA4VPd8rh'
 discography_enriched: true
 top_tracks:
-- Mexico (The Ballad of Lawless Soirez)
-- Lawless Soirez (The Ballad of Lawless Soirez)
-- I Love You Too (Skeleton at the Banquet)
-- Denver Girls (Love Rides A Dark Horse)
-- Always Here Tonight (Cinnamon Canyon Blues)
-- I Love You Too (Skeleton at the Banquet)
-- Dead Language (Cinnamon Canyon Blues)
-- When I Get There (Cinnamon Canyon Blues)
-- I Love You Too (Skeleton at the Banquet)
-- Denver Girls (Love Rides a Dark Horse)
+  - Mexico (The Ballad of Lawless Soirez)
+  - Lawless Soirez (The Ballad of Lawless Soirez)
+  - I Love You Too (Skeleton at the Banquet)
+  - Denver Girls (Love Rides A Dark Horse)
+  - Always Here Tonight (Cinnamon Canyon Blues)
+  - I Love You Too (Skeleton at the Banquet)
+  - Dead Language (Cinnamon Canyon Blues)
+  - When I Get There (Cinnamon Canyon Blues)
+  - I Love You Too (Skeleton at the Banquet)
+  - Denver Girls (Love Rides a Dark Horse)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/03193ddf-3308-48e4-994f-424c9ba2decf
-  spotify: https://open.spotify.com/artist/3HQmd0s1eohI3OA4VPd8rh
-  wikipedia: https://en.wikipedia.org/wiki/Gill_Landry
+  musicbrainz: 'https://musicbrainz.org/artist/03193ddf-3308-48e4-994f-424c9ba2decf'
+  spotify: 'https://open.spotify.com/artist/3HQmd0s1eohI3OA4VPd8rh'
+  wikipedia: 'https://en.wikipedia.org/wiki/Gill_Landry'
 image_path: 03_Resources/source_material/ArtistPortraits/gill_landry.jpg
 biography_enhanced_at: '2025-12-12T12:10:00.875362'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://prbpresents.com/gill-landry/
-- https://en.wikipedia.org/wiki/Gill_Landry
-- https://www.cosmicamerican.com/gigs/willy-tea-taylor-nottingham-september-2024-5ab7f-msadc-6rrek-4yxjm-36alc
-- https://atorecords.com/artists/gill-landry/
-- http://www.thebishopbar.com/events/gill-landry
+  - 'http://prbpresents.com/gill-landry/'
+  - 'https://en.wikipedia.org/wiki/Gill_Landry'
+  - >-
+    https://www.cosmicamerican.com/gigs/willy-tea-taylor-nottingham-september-2024-5ab7f-msadc-6rrek-4yxjm-36alc
+  - 'https://atorecords.com/artists/gill-landry/'
+  - 'http://www.thebishopbar.com/events/gill-landry'
 network_extracted: true
 entry_created: '2025-12-12T12:10:00.875380'
 last_updated: '2025-12-23T08:16:09.202926'
 gender: Male
 musicbrainz_id: 03193ddf-3308-48e4-994f-424c9ba2decf
 tags:
-- bluegrass
-- progressive bluegrass
-
+  - bluegrass
+  - progressive bluegrass
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](gill_landry.jpg)

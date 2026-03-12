@@ -1,21 +1,21 @@
 ---
-title: count basie/joe williams
+title: Count Basie/Joe Williams
 wiki_slug: count-basiejoe-williams
 schema_version: 2
 status: active
-birth_place: Cordele, Georgia, United States
+birth_place: 'Cordele, Georgia, United States'
 genres:
-- vocal jazz
-- big band
-- swing music
-- jazz
+  - vocal jazz
+  - big band
+  - swing music
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/count_basiejoe_williams.jpg
   caption: count basie/joe williams
   background: solo_singer
-  origin: Cordele, Georgia, United States
+  origin: 'Cordele, Georgia, United States'
 audio_profile:
-  tempo_avg: 122.0
+  tempo_avg: 122
   energy_avg: 0.371
   valence_avg: 0.625
   danceability_avg: 0.593
@@ -29,52 +29,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Count Basie
-  - Harry Edison
-  - George Shearing
-  - Cannonball Adderley
-  - Thad Jones–Mel Lewis Orchestra
+    - Count Basie
+    - Harry Edison
+    - George Shearing
+    - Cannonball Adderley
+    - Thad Jones–Mel Lewis Orchestra
   influenced:
-  - Kurt Elling
-  - Mark Murphy
-  - Al Jarreau
+    - Kurt Elling
+    - Mark Murphy
+    - Al Jarreau
   mentors:
-  - Jimmie Noone
-  - Coleman Hawkins
-  - Lionel Hampton
+    - Jimmie Noone
+    - Coleman Hawkins
+    - Lionel Hampton
 spotify_data:
   followers: 54074
   id: 7FMGtucexJvUxVz7scydEL
   popularity: 37
-  url: https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL
+  url: 'https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL'
 discography_enriched: true
 top_tracks:
-- Alright, Okay, You Win
-- Alright, Okay, You Win (The Complete Clef & Verve Fifties Studio Recordings)
-- Lil' Darlin' (The Atomic Mr Basie)
-- Woman's Got Soul (Presenting Joe Williams & Thad Jones / Mel Lewis Orchestra)
-- Have You Met Miss Jones (Can't Resist You - My Summer Love)
-- Every Day I Have the Blues
-- Get Out Of My Life Woman (Presenting Joe Williams & Thad Jones / Mel Lewis Orchestra)
-- Have You Met Miss Jones (You Are Free)
-- Jingle Bells - Bombay Dub Orchestra Remix
-- Teach Me Tonight (The Complete Clef & Verve Fifties Studio Recordings)
+  - 'Alright, Okay, You Win'
+  - 'Alright, Okay, You Win (The Complete Clef & Verve Fifties Studio Recordings)'
+  - Lil' Darlin' (The Atomic Mr Basie)
+  - >-
+    Woman's Got Soul (Presenting Joe Williams & Thad Jones / Mel Lewis
+    Orchestra)
+  - Have You Met Miss Jones (Can't Resist You - My Summer Love)
+  - Every Day I Have the Blues
+  - >-
+    Get Out Of My Life Woman (Presenting Joe Williams & Thad Jones / Mel Lewis
+    Orchestra)
+  - Have You Met Miss Jones (You Are Free)
+  - Jingle Bells - Bombay Dub Orchestra Remix
+  - Teach Me Tonight (The Complete Clef & Verve Fifties Studio Recordings)
 external_urls:
-  spotify: https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL
-  wikipedia: https://en.wikipedia.org/wiki/Joe_Williams_(jazz_singer)
+  spotify: 'https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL'
+  wikipedia: 'https://en.wikipedia.org/wiki/Joe_Williams_(jazz_singer)'
 image_path: 03_Resources/source_material/ArtistPortraits/count_basiejoe_williams.jpg
 biography_enhanced_at: '2025-11-27T06:38:10.138232'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.britannica.com/biography/Joe-Williams
-- https://nationaljazzarchive.org.uk/explore/interviews/1635420-joe-williams
-- https://www.ijc.uidaho.edu/williams_joe/bio.html
-- https://www.arts.gov/honors/jazz/joe-williams
-- https://www.bluenote.com/artist/joe-williams/
+  - 'https://www.britannica.com/biography/Joe-Williams'
+  - 'https://nationaljazzarchive.org.uk/explore/interviews/1635420-joe-williams'
+  - 'https://www.ijc.uidaho.edu/williams_joe/bio.html'
+  - 'https://www.arts.gov/honors/jazz/joe-williams'
+  - 'https://www.bluenote.com/artist/joe-williams/'
 network_extracted: true
 entry_created: '2025-11-27T06:38:10.138244'
 last_updated: '2025-12-23T08:16:07.224789'
+origin: 'Chicago, Illinois, United States'
+birth_date: '1918-12-12'
+death_date: '1999-03-29'
+artist_type: band
 ---
 
 ![](count_basiejoe_williams.jpg)

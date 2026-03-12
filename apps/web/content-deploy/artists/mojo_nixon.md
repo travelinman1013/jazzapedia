@@ -5,39 +5,39 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1957-08-02'
-birth_place: Chapel Hill
+birth_place: 'Chapel Hill, North Carolina, United States'
 death_date: '2024-02-07'
 genres:
-- psychobilly
-- rockabilly
+  - psychobilly
+  - rockabilly
 instruments:
-- eponymous
-- original
-- guitar
-- lead vocals
-- spoken vocals
-- background vocals
+  - eponymous
+  - original
+  - guitar
+  - lead vocals
+  - spoken vocals
+  - background vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: a36776d2-21c5-4615-9852-97df22d9a00a
-  name: Mojo Nixon & the Toadliquors
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 74a82eea-6e7d-41ff-b63e-00d937a63fec
-  name: The Crawdaddys
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: c3e38ab6-406c-4daf-8a69-5a86256fbc15
-  name: Mojo Nixon & the Second Edition
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: a36776d2-21c5-4615-9852-97df22d9a00a
+    name: Mojo Nixon & the Toadliquors
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 74a82eea-6e7d-41ff-b63e-00d937a63fec
+    name: The Crawdaddys
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: c3e38ab6-406c-4daf-8a69-5a86256fbc15
+    name: Mojo Nixon & the Second Edition
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/mojo_nixon.jpg
   caption: Mojo Nixon
@@ -60,56 +60,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Skid Roper
-  - Jello Biafra
-  - Dave Alvin
-  - Beat Farmers members (including Buddy 'Blue' Seigal and Country Dick Montana)
-  - Sylvia Massy
-  - The Toadliquors
+    - Skid Roper
+    - Jello Biafra
+    - Dave Alvin
+    - >-
+      Beat Farmers members (including Buddy 'Blue' Seigal and Country Dick
+      Montana)
+    - Sylvia Massy
+    - The Toadliquors
   influenced: []
   mentors:
-  - Elvis Presley
+    - Elvis Presley
 spotify_data:
   followers: 24952
   id: 3FT2gnR0oxBirr2rD3OmwQ
   popularity: 28
-  url: https://open.spotify.com/artist/3FT2gnR0oxBirr2rD3OmwQ
+  url: 'https://open.spotify.com/artist/3FT2gnR0oxBirr2rD3OmwQ'
 discography_enriched: true
 top_tracks:
-- Are You Drinkin' With Me Jesus (Prairie Home Invasion)
-- Tie My Pecker to My Leg (Whereabouts Unknown)
-- Elvis is Everywhere (Bo-Day-Shus!!!)
-- Love Me, I'm a Liberal (Prairie Home Invasion)
-- Plastic Jesus (Prairie Home Invasion)
-- Debbie Gibson Is Pregnant with My Two Headed Love Child (Root Hog or Die)
-- Will the Fetus be Aborted (Prairie Home Invasion)
-- You Can't Kill Me (Whereabouts Unknown)
-- Ufo's Big Rigs & Bbq (Gadzooks!!! The Homemade Bootleg)
-- Convoy in the Sky (Prairie Home Invasion)
+  - Are You Drinkin' With Me Jesus (Prairie Home Invasion)
+  - Tie My Pecker to My Leg (Whereabouts Unknown)
+  - Elvis is Everywhere (Bo-Day-Shus!!!)
+  - 'Love Me, I''m a Liberal (Prairie Home Invasion)'
+  - Plastic Jesus (Prairie Home Invasion)
+  - Debbie Gibson Is Pregnant with My Two Headed Love Child (Root Hog or Die)
+  - Will the Fetus be Aborted (Prairie Home Invasion)
+  - You Can't Kill Me (Whereabouts Unknown)
+  - Ufo's Big Rigs & Bbq (Gadzooks!!! The Homemade Bootleg)
+  - Convoy in the Sky (Prairie Home Invasion)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/51c97459-9a39-413b-9aef-9dc36e97e615
-  spotify: https://open.spotify.com/artist/3FT2gnR0oxBirr2rD3OmwQ
-  wikipedia: https://en.wikipedia.org/wiki/Mojo_Nixon
+  musicbrainz: 'https://musicbrainz.org/artist/51c97459-9a39-413b-9aef-9dc36e97e615'
+  spotify: 'https://open.spotify.com/artist/3FT2gnR0oxBirr2rD3OmwQ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mojo_Nixon'
 image_path: 03_Resources/source_material/ArtistPortraits/mojo_nixon.jpg
 biography_enhanced_at: '2025-11-24T08:34:45.197605'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Mojo Nixon
-- The Dude Abides - The Unbridled Spirit of Mojo Nixon
-- Rock & Roll Hall of Fame Catalog
-- The Mixtape - Mojo Nixon 1957-2024
-- Americana Highways - Documentary Review
-- The Ath - The Life and Legacy of Mojo Nixon
+  - Wikipedia - Mojo Nixon
+  - The Dude Abides - The Unbridled Spirit of Mojo Nixon
+  - Rock & Roll Hall of Fame Catalog
+  - The Mixtape - Mojo Nixon 1957-2024
+  - Americana Highways - Documentary Review
+  - The Ath - The Life and Legacy of Mojo Nixon
 network_extracted: true
 entry_created: '2025-11-24T08:34:45.197620'
 last_updated: '2025-12-23T08:16:13.239680'
 gender: Male
 musicbrainz_id: 51c97459-9a39-413b-9aef-9dc36e97e615
 tags:
-- cowpunk
-- psychobilly
-
+  - cowpunk
+  - psychobilly
+is_active: false
+origin: 'San Diego, California, United States'
 ---
 
 ![](mojo_nixon.jpg)

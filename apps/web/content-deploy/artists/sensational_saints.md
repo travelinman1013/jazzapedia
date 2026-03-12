@@ -1,8 +1,8 @@
 ---
-title: sensational saints
+title: The Sensational Saints
 wiki_slug: sensational-saints
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres: []
 infobox:
@@ -24,44 +24,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - James Bullard
+    - James Bullard
   influenced: []
   mentors:
-  - Charles Chambliss
-  - Reverend Melvin Kenniebrew
+    - Charles Chambliss
+    - Reverend Melvin Kenniebrew
 spotify_data:
   followers: 2398
   id: 5OYSHHotjwf4mRVjtoDL6Q
   popularity: 15
-  url: https://open.spotify.com/artist/5OYSHHotjwf4mRVjtoDL6Q
+  url: 'https://open.spotify.com/artist/5OYSHHotjwf4mRVjtoDL6Q'
 discography_enriched: true
 top_tracks:
-- 'How Great Thou Art (Forge Your Own Chains: Heavy Psychedelic Ballads and Dirges 1968-1974)'
-- How Great Thou Art (You Won't Believe it)
-- 'The War Is Over (King Bullard Version: Songs of the BOS Label)'
-- That's All I Need (You Won't Believe it)
-- I Feel the Spirit (You Won't Believe it)
-- 'How Great Thou Art (Great Lakes Gospel: Cleveland)'
-- That's All I Need (Good God! Apocryphal Hymns)
-- Don't Take My Sunshine (You Won't Believe it)
-- 'Walk Through The Valley (King Bullard Version: Songs of the BOS Label)'
-- I'm Glad He Knows My Heart (You Won't Believe it)
+  - >-
+    How Great Thou Art (Forge Your Own Chains: Heavy Psychedelic Ballads and
+    Dirges 1968-1974)
+  - How Great Thou Art (You Won't Believe it)
+  - 'The War Is Over (King Bullard Version: Songs of the BOS Label)'
+  - That's All I Need (You Won't Believe it)
+  - I Feel the Spirit (You Won't Believe it)
+  - 'How Great Thou Art (Great Lakes Gospel: Cleveland)'
+  - That's All I Need (Good God! Apocryphal Hymns)
+  - Don't Take My Sunshine (You Won't Believe it)
+  - 'Walk Through The Valley (King Bullard Version: Songs of the BOS Label)'
+  - I'm Glad He Knows My Heart (You Won't Believe it)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/903b91ce-f527-4cf7-b10c-613b688716ee
-  spotify: https://open.spotify.com/artist/5OYSHHotjwf4mRVjtoDL6Q
+  musicbrainz: 'https://musicbrainz.org/artist/903b91ce-f527-4cf7-b10c-613b688716ee'
+  spotify: 'https://open.spotify.com/artist/5OYSHHotjwf4mRVjtoDL6Q'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/sensational_saints.jpg
 biography_enhanced_at: '2025-12-12T12:10:50.962729'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://numerogroup.com/products/sensational-saints-you-wont-believe-it[1]
-- https://www.reverbnation.com/thesensationalsaints[4]
+  - 'https://numerogroup.com/products/sensational-saints-you-wont-believe-it[1]'
+  - 'https://www.reverbnation.com/thesensationalsaints[4]'
 network_extracted: true
 entry_created: '2025-12-12T12:10:50.962741'
 last_updated: '2025-12-23T08:16:15.473538'
 musicbrainz_id: 903b91ce-f527-4cf7-b10c-613b688716ee
-origin: Cleveland, Ohio, USA
+origin: 'Cleveland, Ohio, USA'
 ---
 
 ![](sensational_saints.jpg)

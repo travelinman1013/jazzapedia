@@ -4,9 +4,10 @@ wiki_slug: new-century-ragtime-orchestra
 schema_version: 2
 status: active
 genres:
-- ragtime
+  - ragtime
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/new_century_ragtime_orchestra.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/new_century_ragtime_orchestra.jpg
   caption: New Century Ragtime Orchestra
   background: solo_singer
 audio_profile:
@@ -24,43 +25,44 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dave Kerr
-  - Caroline Irwin
-  - Steve Andrews
+    - Dave Kerr
+    - Caroline Irwin
+    - Steve Andrews
   influenced: []
   mentors:
-  - Scott Joplin
-  - Annette Hanshaw
+    - Scott Joplin
+    - Annette Hanshaw
 spotify_data:
   followers: 184
   id: 0NHEAgQrbHeHEanOcgD26C
   popularity: 12
-  url: https://open.spotify.com/artist/0NHEAgQrbHeHEanOcgD26C
+  url: 'https://open.spotify.com/artist/0NHEAgQrbHeHEanOcgD26C'
 discography_enriched: true
 top_tracks:
-- Sun Flower Slow Drag (Hello Ma Baby)
-- A Rag-Time Skedaddle (Hello Ma Baby)
-- Hello! Ma Baby (Hello Ma Baby)
-- Belle of the Philippines (Singin' in the Bathtub)
-- Singin' in the Bathtub (Singin' in the Bathtub)
-- I'm Through with Love (Singin' in the Bathtub)
-- Whispering (Hello Ma Baby)
-- Elitle Syncopations (Hello Ma Baby)
-- Hiawatha (A Summer Idyl) (Hello Ma Baby)
-- Hot Aire (Hello Ma Baby)
+  - Sun Flower Slow Drag (Hello Ma Baby)
+  - A Rag-Time Skedaddle (Hello Ma Baby)
+  - Hello! Ma Baby (Hello Ma Baby)
+  - Belle of the Philippines (Singin' in the Bathtub)
+  - Singin' in the Bathtub (Singin' in the Bathtub)
+  - I'm Through with Love (Singin' in the Bathtub)
+  - Whispering (Hello Ma Baby)
+  - Elitle Syncopations (Hello Ma Baby)
+  - Hiawatha (A Summer Idyl) (Hello Ma Baby)
+  - Hot Aire (Hello Ma Baby)
 external_urls:
-  spotify: https://open.spotify.com/artist/0NHEAgQrbHeHEanOcgD26C
+  spotify: 'https://open.spotify.com/artist/0NHEAgQrbHeHEanOcgD26C'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/new_century_ragtime_orchestra.jpg
 biography_enhanced_at: '2025-11-10T03:30:07.844796'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.youtube.com/watch?v=82gAL59pd9U
+  - 'https://www.youtube.com/watch?v=82gAL59pd9U'
 network_extracted: true
 entry_created: '2025-11-10T03:30:07.844808'
 last_updated: '2025-12-23T08:16:13.515042'
 origin: United Kingdom
+artist_type: band
 ---
 
 ![](new_century_ragtime_orchestra.jpg)

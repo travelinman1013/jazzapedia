@@ -1,40 +1,45 @@
 ---
 biography_enhanced_at: '2026-01-06T02:05:43.305664'
-birth_place: Woodville, Rappahannock County, Virginia, USA
+birth_place: 'Woodville, Rappahannock County, Virginia, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-06T02:05:43.305669'
 external_urls:
-  spotify: https://open.spotify.com/artist/2RmoX9xrSH20eaQEgCpBRX
-  wikipedia: https://en.wikipedia.org/wiki/John_Jackson_(musician)
+  spotify: 'https://open.spotify.com/artist/2RmoX9xrSH20eaQEgCpBRX'
+  wikipedia: 'https://en.wikipedia.org/wiki/John_Jackson_(musician)'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/john_jackson.jpg
 last_updated: '2026-01-06T02:05:43.305670'
 musical_connections:
   collaborators:
-  - Buddy Moss
+    - Buddy Moss
   influenced:
-  - Ricky Skaggs
+    - Ricky Skaggs
   mentors:
-  - Unnamed convict
-  - Chuck Perdue
+    - Unnamed convict
+    - Chuck Perdue
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://blinddogradio.blogspot.com/2018/02/john-jackson.html
-- https://www.alligator.com/artists/John-Jackson/
-- https://folkways.si.edu/john-jackson-piedmont-bluesman/music/article/smithsonian
-- https://en.wikipedia.org/wiki/John_Jackson_(musician)
-- https://burkehistoricalsociety.org/burkes-bluesman/
-- https://www.arts.gov/honors/heritage/john-jackson
-- https://folkways.si.edu/magazine-summer-2010-rappahannock-blues-john-jackson/african-american-music/article/smithsonian
-- https://blogs.loc.gov/folklife/2022/10/john-jackson-tells-a-ghost-story-for-halloween/
+  - 'https://blinddogradio.blogspot.com/2018/02/john-jackson.html'
+  - 'https://www.alligator.com/artists/John-Jackson/'
+  - >-
+    https://folkways.si.edu/john-jackson-piedmont-bluesman/music/article/smithsonian
+  - 'https://en.wikipedia.org/wiki/John_Jackson_(musician)'
+  - 'https://burkehistoricalsociety.org/burkes-bluesman/'
+  - 'https://www.arts.gov/honors/heritage/john-jackson'
+  - >-
+    https://folkways.si.edu/magazine-summer-2010-rappahannock-blues-john-jackson/african-american-music/article/smithsonian
+  - >-
+    https://blogs.loc.gov/folklife/2022/10/john-jackson-tells-a-ghost-story-for-halloween/
 spotify_data:
   followers: 6201
   id: 2RmoX9xrSH20eaQEgCpBRX
   popularity: 35
-  url: https://open.spotify.com/artist/2RmoX9xrSH20eaQEgCpBRX
+  url: 'https://open.spotify.com/artist/2RmoX9xrSH20eaQEgCpBRX'
 status: active
-title: JOHN JACKSON
+title: John Jackson
+birth_date: '1924-02-25'
+artist_type: person
 ---
 
 ![](john_jackson.jpg)

@@ -5,18 +5,18 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1954-07-28'
-birth_place: Cambridge
+birth_place: 'Cambridge, Massachusetts, United States'
 genres:
-- vocal jazz
-- jazz
+  - vocal jazz
+  - jazz
 instruments:
-- lead vocals
+  - lead vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: fa418742-d8e2-4de7-9b32-d4b9d58adbe2
-  name: Monterey Jazz Festival 50th Anniversary All-Stars
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: fa418742-d8e2-4de7-9b32-d4b9d58adbe2
+    name: Monterey Jazz Festival 50th Anniversary All-Stars
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/nnenna_freelon.jpg
   caption: Nnenna Freelon
@@ -29,7 +29,7 @@ audio_profile:
   valence_avg: 0.389
   danceability_avg: 0.591
   acousticness_avg: 0.594
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -10.7
   speechiness_avg: 0.084
   liveness_avg: 0.155
@@ -38,56 +38,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ray Charles
-  - Herbie Hancock
-  - Terence Blanchard
-  - Pierce Freelon
+    - Ray Charles
+    - Herbie Hancock
+    - Terence Blanchard
+    - Pierce Freelon
   influenced:
-  - Pierce Freelon
-  - Young jazz vocalists
+    - Pierce Freelon
+    - Young jazz vocalists
   mentors:
-  - Ellis Marsalis
+    - Ellis Marsalis
 spotify_data:
   followers: 23519
   id: 4WkgNR9kn136k50T4pc7RS
   popularity: 30
-  url: https://open.spotify.com/artist/4WkgNR9kn136k50T4pc7RS
+  url: 'https://open.spotify.com/artist/4WkgNR9kn136k50T4pc7RS'
 discography_enriched: true
 top_tracks:
-- The Very Thought of You (Homefree)
-- Overjoyed (Tales Of Wonder)
-- Dark and Lovely
-- My Cherie Amour (Tales Of Wonder)
-- ABC You A G (AnceStars)
-- Lately (Tales Of Wonder)
-- Button Up Your Overcoat (Soulcall)
-- Widow Song (Beneath the Skin)
-- Help You Do The Work (AnceStars)
-- Dark and Lovely (Beneath the Skin)
+  - The Very Thought of You (Homefree)
+  - Overjoyed (Tales Of Wonder)
+  - Dark and Lovely
+  - My Cherie Amour (Tales Of Wonder)
+  - ABC You A G (AnceStars)
+  - Lately (Tales Of Wonder)
+  - Button Up Your Overcoat (Soulcall)
+  - Widow Song (Beneath the Skin)
+  - Help You Do The Work (AnceStars)
+  - Dark and Lovely (Beneath the Skin)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/389048c5-6cc4-4aa9-a7e3-df48ccb28c78
-  spotify: https://open.spotify.com/artist/4WkgNR9kn136k50T4pc7RS
-  wikipedia: https://en.wikipedia.org/wiki/Nnenna_Freelon
+  musicbrainz: 'https://musicbrainz.org/artist/389048c5-6cc4-4aa9-a7e3-df48ccb28c78'
+  spotify: 'https://open.spotify.com/artist/4WkgNR9kn136k50T4pc7RS'
+  wikipedia: 'https://en.wikipedia.org/wiki/Nnenna_Freelon'
 image_path: 03_Resources/source_material/ArtistPortraits/nnenna_freelon.jpg
 biography_enhanced_at: '2025-11-15T18:12:56.422855'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Nnenna_Freelon
-- https://www.simmons.edu/alumni/nnenna-freelon
-- https://celebrityseries.org/live-performances/artists/details/nnenna-freelon/
-- https://montereyjazz.org/artist/nnenna-freelon/
-- https://nnenna.com
-- https://northcarolinamusichalloffame.org/inductee-item/nnenna-freelon/
-- https://jazztimes.com/features/lists/nnenna-freelon-before-after/
+  - 'https://en.wikipedia.org/wiki/Nnenna_Freelon'
+  - 'https://www.simmons.edu/alumni/nnenna-freelon'
+  - >-
+    https://celebrityseries.org/live-performances/artists/details/nnenna-freelon/
+  - 'https://montereyjazz.org/artist/nnenna-freelon/'
+  - 'https://nnenna.com'
+  - 'https://northcarolinamusichalloffame.org/inductee-item/nnenna-freelon/'
+  - 'https://jazztimes.com/features/lists/nnenna-freelon-before-after/'
 network_extracted: true
 entry_created: '2025-11-15T18:12:56.422860'
 last_updated: '2025-12-23T08:16:13.610032'
 gender: Female
 musicbrainz_id: 389048c5-6cc4-4aa9-a7e3-df48ccb28c78
 tags:
-- jazz
-- vocal jazz
+  - jazz
+  - vocal jazz
 ---
 
 ![](nnenna_freelon.jpg)

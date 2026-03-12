@@ -3,13 +3,13 @@ title: Jenny Davis
 wiki_slug: jenny-davis
 schema_version: 2
 status: active
-birth_place: Seattle, Washington, United States
+birth_place: 'Seattle, Washington, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Jenny_Davis.jpg
   caption: Jenny Davis
   background: solo_singer
-  origin: Seattle, Washington, United States
+  origin: 'Seattle, Washington, United States'
 audio_profile:
   tempo_avg: 124.6
   energy_avg: 0.608
@@ -25,52 +25,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jovino Santos Neto
-  - Dmitri Matheny
-  - Chuck Easton
-  - George Radebaugh
-  - Ted Enderle
-  - Tim Sheffel
-  - Willy Ingersoll
-  - Danny Hull
+    - Jovino Santos Neto
+    - Dmitri Matheny
+    - Chuck Easton
+    - George Radebaugh
+    - Ted Enderle
+    - Tim Sheffel
+    - Willy Ingersoll
+    - Danny Hull
   influenced:
-  - Numerous jazz vocal students
+    - Numerous jazz vocal students
   mentors:
-  - Beth Winter
-  - David Kyle
-  - Jay Clayton
-  - Sheila Jordan
+    - Beth Winter
+    - David Kyle
+    - Jay Clayton
+    - Sheila Jordan
 spotify_data:
   followers: 368662
   id: 6oXQgzqvbeAem9kPX0pXnD
   popularity: 43
-  url: https://open.spotify.com/artist/6oXQgzqvbeAem9kPX0pXnD
+  url: 'https://open.spotify.com/artist/6oXQgzqvbeAem9kPX0pXnD'
 discography_enriched: true
 top_tracks:
-- 6FT Nothing (6FT Nothing)
-- DiCaprio (DiCaprio)
-- San Diego (San Diego)
-- 16 (16)
-- FBI (FBI)
-- SIKE (SIKE)
-- Under The Surface (Under The Surface)
-- Luckier (Luckier)
-- Maybe Maybe (Maybe Maybe)
-- Look Who's Back (Look Who's Back)
+  - 6FT Nothing (6FT Nothing)
+  - DiCaprio (DiCaprio)
+  - San Diego (San Diego)
+  - 16 (16)
+  - FBI (FBI)
+  - SIKE (SIKE)
+  - Under The Surface (Under The Surface)
+  - Luckier (Luckier)
+  - Maybe Maybe (Maybe Maybe)
+  - Look Who's Back (Look Who's Back)
 external_urls:
-  spotify: https://open.spotify.com/artist/6oXQgzqvbeAem9kPX0pXnD
+  spotify: 'https://open.spotify.com/artist/6oXQgzqvbeAem9kPX0pXnD'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/Jenny_Davis.jpg
 biography_enhanced_at: '2025-10-21T06:36:14.678998'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://jennydavisjazz.com/jenny-davis-biography/
-- https://www.allaboutjazz.com/musicians/jenny-davis/
-- https://islandmusic.org/music-composition-teachers/
+  - 'https://jennydavisjazz.com/jenny-davis-biography/'
+  - 'https://www.allaboutjazz.com/musicians/jenny-davis/'
+  - 'https://islandmusic.org/music-composition-teachers/'
 network_extracted: true
 entry_created: '2025-10-21T06:36:14.679017'
 last_updated: '2025-12-23T08:16:02.517362'
+artist_type: person
 ---
 
 ![](Jenny_Davis.jpg)

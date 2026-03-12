@@ -3,31 +3,32 @@ biography_enhanced_at: '2025-12-25T01:20:11.863510'
 enhancement_provider: perplexity
 entry_created: '2025-12-25T01:20:11.863529'
 external_urls:
-  spotify: https://open.spotify.com/artist/6HFvVMXZfyRKjVdd60IlIL
+  spotify: 'https://open.spotify.com/artist/6HFvVMXZfyRKjVdd60IlIL'
   wikipedia: null
 genres:
-- cajun
+  - cajun
 image_path: 03_Resources/source_material/ArtistPortraits/kid_charleroi.jpg
 last_updated: '2025-12-25T01:20:11.863532'
 musical_connections:
   collaborators:
-  - Strange Daisy Records
-  - KRVS Medicine Ball Caravan
+    - Strange Daisy Records
+    - KRVS Medicine Ball Caravan
   influenced: []
   mentors: []
 network_extracted: true
-origin: Lafayette, Louisiana, United States
+origin: 'Lafayette, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- Antigravity Magazine – “Embracing Imperfection with Kid Charleroi”[4]
-- KRVS / YouTube – “Kid Charleroi - Medicine Ball Caravan Live Sessions”[5]
+  - 'Antigravity Magazine – “Embracing Imperfection with Kid Charleroi”[4]'
+  - 'KRVS / YouTube – “Kid Charleroi - Medicine Ball Caravan Live Sessions”[5]'
 spotify_data:
   followers: 287
   id: 6HFvVMXZfyRKjVdd60IlIL
   popularity: 2
-  url: https://open.spotify.com/artist/6HFvVMXZfyRKjVdd60IlIL
+  url: 'https://open.spotify.com/artist/6HFvVMXZfyRKjVdd60IlIL'
 status: active
 title: Kid Charleroi
+artist_type: band
 ---
 
 ![](kid_charleroi.jpg)

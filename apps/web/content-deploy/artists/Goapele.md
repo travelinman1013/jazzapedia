@@ -5,11 +5,11 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1977-07-11'
-birth_place: Oakland
+birth_place: 'Oakland, California, United States'
 genres:
-- neo soul
+  - neo soul
 instruments:
-- background vocals
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Goapele.jpg
   caption: Goapele
@@ -17,7 +17,7 @@ infobox:
   born: '1977-07-11'
   origin: Oakland
 audio_profile:
-  tempo_avg: 109.0
+  tempo_avg: 109
   energy_avg: 0.55
   valence_avg: 0.402
   danceability_avg: 0.598
@@ -31,58 +31,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Zion I
-  - Hieroglyphics
-  - Martin Luther
-  - Spearhead (Michael Franti & Spearhead)
+    - Zion I
+    - Hieroglyphics
+    - Martin Luther
+    - Spearhead (Michael Franti & Spearhead)
   influenced:
-  - Bay Area Neo-Soul Artists
+    - Bay Area Neo-Soul Artists
   mentors:
-  - Douglas Mohlabane
-  - Berklee College of Music Faculty
+    - Douglas Mohlabane
+    - Berklee College of Music Faculty
 spotify_data:
   followers: 330076
   id: 5cgtn5YWC3Fr06wTps1dBq
   popularity: 45
-  url: https://open.spotify.com/artist/5cgtn5YWC3Fr06wTps1dBq
+  url: 'https://open.spotify.com/artist/5cgtn5YWC3Fr06wTps1dBq'
 discography_enriched: true
 top_tracks:
-- Closer (Even Closer)
-- Destiny (Thuto)
-- Romantic (feat. Soulive) (Even Closer)
-- Suede (For The Soil)
-- Freedom Love (feat. Goapele)
-- Too Much the Same (Even Closer)
-- More of the Same (The Co-Star)
-- Got It (Even Closer)
-- Back to You (Even Closer)
-- Play (Break of Dawn)
+  - Closer (Even Closer)
+  - Destiny (Thuto)
+  - Romantic (feat. Soulive) (Even Closer)
+  - Suede (For The Soil)
+  - Freedom Love (feat. Goapele)
+  - Too Much the Same (Even Closer)
+  - More of the Same (The Co-Star)
+  - Got It (Even Closer)
+  - Back to You (Even Closer)
+  - Play (Break of Dawn)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/fc272874-7f58-40ab-979c-1a1250f365f1
-  spotify: https://open.spotify.com/artist/5cgtn5YWC3Fr06wTps1dBq
-  wikipedia: https://en.wikipedia.org/wiki/Goapele
+  musicbrainz: 'https://musicbrainz.org/artist/fc272874-7f58-40ab-979c-1a1250f365f1'
+  spotify: 'https://open.spotify.com/artist/5cgtn5YWC3Fr06wTps1dBq'
+  wikipedia: 'https://en.wikipedia.org/wiki/Goapele'
 image_path: 03_Resources/source_material/ArtistPortraits/Goapele.jpg
 biography_enhanced_at: '2025-10-22T06:43:42.163469'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.goapele.com/pages/about-us
-- https://celebritytalentagency.com/artist/goapele/
-- https://en.wikipedia.org/wiki/Goapele
-- https://www.youtube.com/watch?v=-iMTzUNLAp0
-- https://cbussoulfest.com/artists/goapele/
-- https://kids.kiddle.co/Goapele
-- https://www.kqed.org/arts/13932465/goapele-closer-to-hip-hop
-- https://chicagodefender.com/goapele-from-closer-to-colours-the-journey-of-a-neo-soul-visionary/
+  - 'https://www.goapele.com/pages/about-us'
+  - 'https://celebritytalentagency.com/artist/goapele/'
+  - 'https://en.wikipedia.org/wiki/Goapele'
+  - 'https://www.youtube.com/watch?v=-iMTzUNLAp0'
+  - 'https://cbussoulfest.com/artists/goapele/'
+  - 'https://kids.kiddle.co/Goapele'
+  - 'https://www.kqed.org/arts/13932465/goapele-closer-to-hip-hop'
+  - >-
+    https://chicagodefender.com/goapele-from-closer-to-colours-the-journey-of-a-neo-soul-visionary/
 network_extracted: true
 entry_created: '2025-10-22T06:43:42.163485'
 last_updated: '2025-12-23T08:16:02.150546'
 gender: Female
 musicbrainz_id: fc272874-7f58-40ab-979c-1a1250f365f1
 tags:
-- contemporary r&b
-- dance and electronica
-- neo soul
+  - contemporary r&b
+  - dance and electronica
+  - neo soul
 ---
 
 ![](Goapele.jpg)

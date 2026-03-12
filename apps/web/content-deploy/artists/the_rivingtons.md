@@ -1,11 +1,11 @@
 ---
-title: the rivingtons
+title: The Rivingtons
 wiki_slug: the-rivingtons
 schema_version: 2
 status: active
 genres:
-- doo-wop
-- northern soul
+  - doo-wop
+  - northern soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_rivingtons.jpg
   caption: the rivingtons
@@ -25,52 +25,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Thurston Harris
-  - Duane Eddy
-  - The Trashmen
-  - Clay Hammond
-  - Andrew Butler
+    - Thurston Harris
+    - Duane Eddy
+    - The Trashmen
+    - Clay Hammond
+    - Andrew Butler
   influenced:
-  - The Trashmen
-  - Ramones
-  - The Cramps
+    - The Trashmen
+    - Ramones
+    - The Cramps
   mentors:
-  - Thurston Harris
-  - Duane Eddy
+    - Thurston Harris
+    - Duane Eddy
 spotify_data:
   followers: 3632
   id: 75SE13FyXyBw4pcIr4w7tR
   popularity: 24
-  url: https://open.spotify.com/artist/75SE13FyXyBw4pcIr4w7tR
+  url: 'https://open.spotify.com/artist/75SE13FyXyBw4pcIr4w7tR'
 discography_enriched: true
 top_tracks:
-- Papa-Oom-Mow-Mow (The Libery Years)
-- The Bird's The Word (The Libery Years)
-- Mama-Oom-Mow-Mow (The Libery Years)
-- Deep Water (The Libery Years)
-- Papa-Oom-Mow-Mow (Rerecorded) (Papa-Oom-Mow-Mow / The Bird's The Word)
-- Papa-Oom-Mow-Mow
-- I Love You Always (California Doo-Wop)
-- Papa oom mow wow (Doo Wop)
-- Kickapoo Joy Juice (The Libery Years)
-- Papa-Oom-Mow-Mow (Rerecorded)
+  - Papa-Oom-Mow-Mow (The Libery Years)
+  - The Bird's The Word (The Libery Years)
+  - Mama-Oom-Mow-Mow (The Libery Years)
+  - Deep Water (The Libery Years)
+  - Papa-Oom-Mow-Mow (Rerecorded) (Papa-Oom-Mow-Mow / The Bird's The Word)
+  - Papa-Oom-Mow-Mow
+  - I Love You Always (California Doo-Wop)
+  - Papa oom mow wow (Doo Wop)
+  - Kickapoo Joy Juice (The Libery Years)
+  - Papa-Oom-Mow-Mow (Rerecorded)
 external_urls:
-  spotify: https://open.spotify.com/artist/75SE13FyXyBw4pcIr4w7tR
-  wikipedia: https://en.wikipedia.org/wiki/The_Rivingtons
+  spotify: 'https://open.spotify.com/artist/75SE13FyXyBw4pcIr4w7tR'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Rivingtons'
 image_path: 03_Resources/source_material/ArtistPortraits/the_rivingtons.jpg
 biography_enhanced_at: '2025-12-06T05:59:08.352712'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Rivingtons
-- https://www.allmusic.com/artist/the-rivingtons-mn0000502806
-- https://www.history-of-rock.com/doo_eight.htm
-- https://doo-wop.blogg.org/the-rivingtons-aka-the-four-after-fives-aka-the-crenshaws-aka-a116515584
-- https://www.bear-family.com/rivingtons-the/
+  - 'https://en.wikipedia.org/wiki/The_Rivingtons'
+  - 'https://www.allmusic.com/artist/the-rivingtons-mn0000502806'
+  - 'https://www.history-of-rock.com/doo_eight.htm'
+  - >-
+    https://doo-wop.blogg.org/the-rivingtons-aka-the-four-after-fives-aka-the-crenshaws-aka-a116515584
+  - 'https://www.bear-family.com/rivingtons-the/'
 network_extracted: true
 entry_created: '2025-12-06T05:59:08.352719'
 last_updated: '2025-12-23T08:16:17.111243'
-origin: Los Angeles, California, United States
+origin: 'Los Angeles, California, United States'
+artist_type: band
 ---
 
 ![](the_rivingtons.jpg)

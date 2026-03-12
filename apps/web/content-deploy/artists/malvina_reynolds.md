@@ -2,52 +2,54 @@
 artist_type: person
 biography_enhanced_at: '2026-01-05T07:54:32.077903'
 birth_date: '1900-08-23'
-birth_place: San Francisco
+birth_place: 'San Francisco, California, United States'
 death_date: '1978-03-17'
 enhancement_provider: perplexity
 entry_created: '2026-01-05T07:54:32.077910'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/33253c93-a45a-4f56-96fc-0897fd95d8db
-  spotify: https://open.spotify.com/artist/5fhMeS3lpUqUpTNuAxU2rN
+  musicbrainz: 'https://musicbrainz.org/artist/33253c93-a45a-4f56-96fc-0897fd95d8db'
+  spotify: 'https://open.spotify.com/artist/5fhMeS3lpUqUpTNuAxU2rN'
   wikipedia: ''
 gender: Female
 genres:
-- folk
+  - folk
 image_path: 03_Resources/source_material/ArtistPortraits/malvina_reynolds.jpg
 instruments:
-- guitar
+  - guitar
 last_updated: '2026-01-05T07:54:32.077910'
 musical_connections:
   collaborators:
-  - Pete Seeger
-  - Earl Robinson
+    - Pete Seeger
+    - Earl Robinson
   influenced:
-  - Joan Baez
-  - The Seekers
-  - Harry Belafonte
-  - Judy Collins
+    - Joan Baez
+    - The Seekers
+    - Harry Belafonte
+    - Judy Collins
   mentors:
-  - Earl Robinson
-  - Pete Seeger
+    - Earl Robinson
+    - Pete Seeger
 musicbrainz_id: 33253c93-a45a-4f56-96fc-0897fd95d8db
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.riseupsinging.org/artistcomposer/malvina-reynolds
-- https://www.ocweekly.com/the-life-and-times-of-malvina-reynolds-long-beachs-most-legendary-and-hated-folk-singer-7474438/
-- https://www.harvardsquarelibrary.org/biographies/malvina-reynolds/
+  - 'https://www.riseupsinging.org/artistcomposer/malvina-reynolds'
+  - >-
+    https://www.ocweekly.com/the-life-and-times-of-malvina-reynolds-long-beachs-most-legendary-and-hated-folk-singer-7474438/
+  - 'https://www.harvardsquarelibrary.org/biographies/malvina-reynolds/'
 spotify_data:
   followers: 13157
   id: 5fhMeS3lpUqUpTNuAxU2rN
   popularity: 28
-  url: https://open.spotify.com/artist/5fhMeS3lpUqUpTNuAxU2rN
+  url: 'https://open.spotify.com/artist/5fhMeS3lpUqUpTNuAxU2rN'
 status: active
 tags:
-- blues
-- folk
-- singer-songwriter
+  - blues
+  - folk
+  - singer-songwriter
 title: Malvina Reynolds
-
+is_active: false
+origin: 'Long Beach, California, United States'
 ---
 
 ![](malvina_reynolds.jpg)

@@ -5,19 +5,19 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1922-11-07'
-birth_place: New Orleans
+birth_place: 'New Orleans, Louisiana, United States'
 death_date: '1999-04-27'
 genres:
-- big band
+  - big band
 instruments:
-- original
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - original
-  mbid: b0768fcc-c0d0-4b86-96ad-870b4367939f
-  name: Al Hirt and His Band
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: b0768fcc-c0d0-4b86-96ad-870b4367939f
+    name: Al Hirt and His Band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/al_hirt.jpg
   caption: Al Hirt
@@ -40,54 +40,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Benny Goodman
-  - Tommy Dorsey
-  - Jimmy Dorsey
-  - Ina Ray Hutton
-  - Ellis Marsalis
+    - Benny Goodman
+    - Tommy Dorsey
+    - Jimmy Dorsey
+    - Ina Ray Hutton
+    - Ellis Marsalis
   influenced:
-  - Ellis Marsalis
+    - Ellis Marsalis
   mentors:
-  - Dr. Frank Simon
+    - Dr. Frank Simon
 spotify_data:
   followers: 28762
   id: 0TGsWvnbtExsbGUSWtXENE
   popularity: 36
-  url: https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE
+  url: 'https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE'
 discography_enriched: true
 top_tracks:
-- Green Hornet
-- Music to Watch Girls By (Music To Watch Girls By)
-- Java
-- Java (Honey In The Horn)
-- Java (King Of Bourbon Street)
-- Harlem Hendoo (Soul In the Horn)
-- The World We Knew (Over and Over) (Plays Bert Kaempfert)
-- Green Hornet Theme - From the Greenway-20th Century-Fox TV Series "The Green Hornet" (The Horn Meets "The Hornet")
-- Al Di Là (Honey In The Horn)
-- Java
+  - Green Hornet
+  - Music to Watch Girls By (Music To Watch Girls By)
+  - Java
+  - Java (Honey In The Horn)
+  - Java (King Of Bourbon Street)
+  - Harlem Hendoo (Soul In the Horn)
+  - The World We Knew (Over and Over) (Plays Bert Kaempfert)
+  - >-
+    Green Hornet Theme - From the Greenway-20th Century-Fox TV Series "The Green
+    Hornet" (The Horn Meets "The Hornet")
+  - Al Di Là (Honey In The Horn)
+  - Java
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d14ab1ae-0400-4345-9f5b-6083110a5c7a
-  spotify: https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE
-  wikipedia: https://en.wikipedia.org/wiki/Al_Hirt
+  musicbrainz: 'https://musicbrainz.org/artist/d14ab1ae-0400-4345-9f5b-6083110a5c7a'
+  spotify: 'https://open.spotify.com/artist/0TGsWvnbtExsbGUSWtXENE'
+  wikipedia: 'https://en.wikipedia.org/wiki/Al_Hirt'
 image_path: 03_Resources/source_material/ArtistPortraits/al_hirt.jpg
 biography_enhanced_at: '2025-11-08T21:53:56.704720'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://64parishes.org/entry/al-hirt
-- https://louisianamusichalloffame.org/al-hirt/
-- https://www.nationalww2museum.org/war/articles/al-hirt-new-orleans-jazz
-- https://trumpetherald.com/forum/viewtopic.php?t=21481
+  - 'https://64parishes.org/entry/al-hirt'
+  - 'https://louisianamusichalloffame.org/al-hirt/'
+  - 'https://www.nationalww2museum.org/war/articles/al-hirt-new-orleans-jazz'
+  - 'https://trumpetherald.com/forum/viewtopic.php?t=21481'
 network_extracted: true
 entry_created: '2025-11-08T21:53:56.704736'
 last_updated: '2025-12-23T08:16:04.451318'
 gender: Male
 musicbrainz_id: d14ab1ae-0400-4345-9f5b-6083110a5c7a
 tags:
-- dixieland
-- jazz
-- new orleans jazz revival
+  - dixieland
+  - jazz
+  - new orleans jazz revival
+is_active: false
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](al_hirt.jpg)

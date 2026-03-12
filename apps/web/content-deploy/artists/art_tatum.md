@@ -5,45 +5,45 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1909-10-13'
-birth_place: Toledo
+birth_place: 'Toledo, Ohio, United States'
 death_date: '1956-11-05'
 genres:
-- jazz
-- ragtime
-- bebop
+  - jazz
+  - ragtime
+  - bebop
 instruments:
-- original
-- piano
-- spoken vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - original
-  mbid: 4956fd03-7139-4609-91cb-802b1086c3ce
-  name: Art Tatum Trio
-- begin: ''
-  end: ''
-  instruments:
   - piano
-  mbid: 4faea927-3ee0-4b96-a8e3-981e94e0a089
-  name: The Art Tatum/Buddy DeFranco Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c9ec3a3f-7f42-4660-93a2-aeab887ce2b1
-  name: Barney Bigard Sextet
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: 99759298-1e5a-4c7a-8532-fabe8f2955ac
-  name: Art Tatum’s All Stars
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3bbf4409-34cf-46d0-a581-5363e80a1866
-  name: Art Tatum and His Band
+  - spoken vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 4956fd03-7139-4609-91cb-802b1086c3ce
+    name: Art Tatum Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: 4faea927-3ee0-4b96-a8e3-981e94e0a089
+    name: The Art Tatum/Buddy DeFranco Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c9ec3a3f-7f42-4660-93a2-aeab887ce2b1
+    name: Barney Bigard Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: 99759298-1e5a-4c7a-8532-fabe8f2955ac
+    name: Art Tatum’s All Stars
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3bbf4409-34cf-46d0-a581-5363e80a1866
+    name: Art Tatum and His Band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/art_tatum.jpg
   caption: Art Tatum
@@ -58,7 +58,7 @@ audio_profile:
   danceability_avg: 0.452
   acousticness_avg: 0.979
   instrumentalness_avg: 0.796
-  loudness_avg: -18.0
+  loudness_avg: -18
   speechiness_avg: 0.042
   liveness_avg: 0.171
   track_count: 52
@@ -66,45 +66,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tiny Grimes
-  - Slam Stewart
-  - Norman Granz
+    - Tiny Grimes
+    - Slam Stewart
+    - Norman Granz
   influenced:
-  - Bud Powell
-  - Oscar Peterson
-  - Lennie Tristano
+    - Bud Powell
+    - Oscar Peterson
+    - Lennie Tristano
   mentors:
-  - Fats Waller
-  - Toledo School of Music (teacher unnamed)
+    - Fats Waller
+    - Toledo School of Music (teacher unnamed)
 spotify_data:
   followers: 171431
   id: 3DtSOCXYU6o4EV0K1NgIKq
   popularity: 41
-  url: https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq
+  url: 'https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq'
 discography_enriched: true
 top_tracks:
-- Tea for Two (Piano Starts Here)
-- Blue Skies
-- Blue Skies (The Definitive Art Tatum)
-- I Cover The Waterfront
-- Night And Day
-- Smoke Gets In Your Eyes (The Art Tatum Solo Masterpieces, Vol. 7)
-- Stormy Weather (Classic Early Solos (1934-1937))
-- My One and Only Love - Remastered (When I Fall in Love (Remastered))
-- Tiger Rag (Piano Starts Here)
-- Sophisticated Lady (Piano Starts Here)
+  - Tea for Two (Piano Starts Here)
+  - Blue Skies
+  - Blue Skies (The Definitive Art Tatum)
+  - I Cover The Waterfront
+  - Night And Day
+  - 'Smoke Gets In Your Eyes (The Art Tatum Solo Masterpieces, Vol. 7)'
+  - Stormy Weather (Classic Early Solos (1934-1937))
+  - My One and Only Love - Remastered (When I Fall in Love (Remastered))
+  - Tiger Rag (Piano Starts Here)
+  - Sophisticated Lady (Piano Starts Here)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e073f6af-d696-4340-b847-e81fabc4d55b
-  spotify: https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq
-  wikipedia: https://en.wikipedia.org/wiki/Art_Tatum
+  musicbrainz: 'https://musicbrainz.org/artist/e073f6af-d696-4340-b847-e81fabc4d55b'
+  spotify: 'https://open.spotify.com/artist/3DtSOCXYU6o4EV0K1NgIKq'
+  wikipedia: 'https://en.wikipedia.org/wiki/Art_Tatum'
 image_path: 03_Resources/source_material/ArtistPortraits/art_tatum.jpg
 biography_enhanced_at: '2025-11-03T07:31:39.168809'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.britannica.com/biography/Art-Tatum
-- https://concord.com/artist/art-tatum/
-- https://www.allaboutjazz.com/musicians/art-tatum/
+  - 'https://www.britannica.com/biography/Art-Tatum'
+  - 'https://concord.com/artist/art-tatum/'
+  - 'https://www.allaboutjazz.com/musicians/art-tatum/'
 network_extracted: true
 entry_created: '2025-11-03T07:31:39.168825'
 last_updated: '2025-12-23T08:16:04.941819'
@@ -112,9 +112,10 @@ disambiguation: US jazz pianist
 gender: Male
 musicbrainz_id: e073f6af-d696-4340-b847-e81fabc4d55b
 tags:
-- american
-- jazz
-- pianist
+  - american
+  - jazz
+  - pianist
+is_active: false
 ---
 
 ![](art_tatum.jpg)

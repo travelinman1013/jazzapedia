@@ -3,16 +3,16 @@ title: Pee Wee Hunt
 wiki_slug: pee-wee-hunt
 schema_version: 2
 status: active
-birth_place: Mount Healthy, Ohio, USA
+birth_place: 'Mount Healthy, Ohio, USA'
 genres:
-- ragtime
-- big band
-- swing music
+  - ragtime
+  - big band
+  - swing music
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Pee_Wee_Hunt.jpg
   caption: Pee Wee Hunt
   background: solo_singer
-  origin: Mount Healthy, Ohio, USA
+  origin: 'Mount Healthy, Ohio, USA'
 audio_profile:
   tempo_avg: 128.9
   energy_avg: 0.363
@@ -28,44 +28,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Casa Loma Orchestra
-  - Glen Gray
+    - Casa Loma Orchestra
+    - Glen Gray
   influenced:
-  - Dixieland revival musicians
+    - Dixieland revival musicians
   mentors:
-  - Jean Goldkette
+    - Jean Goldkette
 spotify_data:
   followers: 2262
   id: 4YosItRGDjwvJjzMPzbwwQ
   popularity: 18
-  url: https://open.spotify.com/artist/4YosItRGDjwvJjzMPzbwwQ
+  url: 'https://open.spotify.com/artist/4YosItRGDjwvJjzMPzbwwQ'
 discography_enriched: true
 top_tracks:
-- Rigoletto Rock (The Classics Ala Dixie)
-- Hunt's Goulash (The Classics Ala Dixie)
-- Twelfth Street Rag (The Dixieland Revivalist)
-- Twelfth Street Rag (Swingin' Around)
-- I Love Paris (Dixie Hits Con...)
-- Somebody Stole My Gal (Jazz Collection)
-- Creepin' Can-Can (The Classics Ala Dixie)
-- Begin the Beguine (Dixie Hits Con...)
-- Twelfth Street Rag (Dixie Hits Con...)
-- Twelfth Street Toreador (Dixie Hits Con...)
+  - Rigoletto Rock (The Classics Ala Dixie)
+  - Hunt's Goulash (The Classics Ala Dixie)
+  - Twelfth Street Rag (The Dixieland Revivalist)
+  - Twelfth Street Rag (Swingin' Around)
+  - I Love Paris (Dixie Hits Con...)
+  - Somebody Stole My Gal (Jazz Collection)
+  - Creepin' Can-Can (The Classics Ala Dixie)
+  - Begin the Beguine (Dixie Hits Con...)
+  - Twelfth Street Rag (Dixie Hits Con...)
+  - Twelfth Street Toreador (Dixie Hits Con...)
 external_urls:
-  spotify: https://open.spotify.com/artist/4YosItRGDjwvJjzMPzbwwQ
-  wikipedia: https://en.wikipedia.org/wiki/Pee_Wee_Hunt
+  spotify: 'https://open.spotify.com/artist/4YosItRGDjwvJjzMPzbwwQ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Pee_Wee_Hunt'
 image_path: 03_Resources/source_material/ArtistPortraits/Pee_Wee_Hunt.jpg
 biography_enhanced_at: '2025-10-19T12:27:35.300781'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://walkoffame.com/pee-wee-hunt/
-- https://www.imdb.com/name/nm0402593/bio/
-- https://www.allmusic.com/artist/pee-wee-hunt-mn0000252630
-- https://www.swingstreetradio.org/performer/pee-wee-hunt/
+  - 'https://walkoffame.com/pee-wee-hunt/'
+  - 'https://www.imdb.com/name/nm0402593/bio/'
+  - 'https://www.allmusic.com/artist/pee-wee-hunt-mn0000252630'
+  - 'https://www.swingstreetradio.org/performer/pee-wee-hunt/'
 network_extracted: true
 entry_created: '2025-10-19T12:27:35.300825'
 last_updated: '2025-12-23T08:16:03.551846'
+birth_date: '1907-05-10'
+death_date: '1979-06-22'
+artist_type: person
 ---
 
 ![](Pee_Wee_Hunt.jpg)

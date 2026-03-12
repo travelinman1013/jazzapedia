@@ -5,12 +5,12 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1936-01-14'
-birth_place: Montgomery
+birth_place: 'Montgomery, Alabama, United States'
 genres:
-- soul
-- motown
+  - soul
+  - motown
 instruments:
-- guitar
+  - guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/clarence_carter.jpg
   caption: Clarence Carter
@@ -32,60 +32,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Calvin Scott
-  - FAME Studios / Muscle Shoals rhythm section
-  - Spooner Oldham
-  - Duane Allman
-  - Candi Staton
+    - Calvin Scott
+    - FAME Studios / Muscle Shoals rhythm section
+    - Spooner Oldham
+    - Duane Allman
+    - Candi Staton
   influenced:
-  - Etta James
-  - Run‑DMC
-  - Later Southern soul and contemporary blues singers
+    - Etta James
+    - Run‑DMC
+    - Later Southern soul and contemporary blues singers
   mentors:
-  - Rick Hall
+    - Rick Hall
 spotify_data:
   followers: 201976
   id: 7lffJlv0nRl0sIsHDmo0SB
   popularity: 46
-  url: https://open.spotify.com/artist/7lffJlv0nRl0sIsHDmo0SB
+  url: 'https://open.spotify.com/artist/7lffJlv0nRl0sIsHDmo0SB'
 discography_enriched: true
 top_tracks:
-- Slip Away (This Is Clarence Carter)
-- Patches (Patches)
-- Part Time Love (This Is Clarence Carter)
-- Strokin (I Got Rhythm)
-- Snatching It Back (Testifyin')
-- Back Door Santa (Testifyin')
-- Strokin' (Dr. C.C.)
-- Looking for a Fox (This Is Clarence Carter)
-- 'Snatching It Back (Atlantic Top 60: Sweat-Soaked Soul Classics)'
-- I Can't Do Without You (Testifyin')
+  - Slip Away (This Is Clarence Carter)
+  - Patches (Patches)
+  - Part Time Love (This Is Clarence Carter)
+  - Strokin (I Got Rhythm)
+  - Snatching It Back (Testifyin')
+  - Back Door Santa (Testifyin')
+  - Strokin' (Dr. C.C.)
+  - Looking for a Fox (This Is Clarence Carter)
+  - 'Snatching It Back (Atlantic Top 60: Sweat-Soaked Soul Classics)'
+  - I Can't Do Without You (Testifyin')
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d24bd0d5-0bfe-43ca-9ddd-d731abda89d7
-  spotify: https://open.spotify.com/artist/7lffJlv0nRl0sIsHDmo0SB
-  wikipedia: https://en.wikipedia.org/wiki/Clarence_Carter
+  musicbrainz: 'https://musicbrainz.org/artist/d24bd0d5-0bfe-43ca-9ddd-d731abda89d7'
+  spotify: 'https://open.spotify.com/artist/7lffJlv0nRl0sIsHDmo0SB'
+  wikipedia: 'https://en.wikipedia.org/wiki/Clarence_Carter'
 image_path: 03_Resources/source_material/ArtistPortraits/clarence_carter.jpg
 biography_enhanced_at: '2025-12-09T04:20:15.676729'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://encyclopediaofalabama.org/article/clarence-carter/
-- https://en.wikipedia.org/wiki/Clarence_Carter
-- https://famestudios.com/clarence-carter/
-- https://www.alamhof.org/clarencecarter
-- https://blackpast.org/african-american-history/clarence-carter-1936/
-- https://www.imdb.com/name/nm0141536/bio/
-- https://app.soulyears.com/rnb-chart_position-artist-Clarence+Carter.htm
+  - 'https://encyclopediaofalabama.org/article/clarence-carter/'
+  - 'https://en.wikipedia.org/wiki/Clarence_Carter'
+  - 'https://famestudios.com/clarence-carter/'
+  - 'https://www.alamhof.org/clarencecarter'
+  - 'https://blackpast.org/african-american-history/clarence-carter-1936/'
+  - 'https://www.imdb.com/name/nm0141536/bio/'
+  - 'https://app.soulyears.com/rnb-chart_position-artist-Clarence+Carter.htm'
 network_extracted: true
 entry_created: '2025-12-09T04:20:15.676737'
 last_updated: '2025-12-23T08:16:07.015250'
 gender: Male
 musicbrainz_id: d24bd0d5-0bfe-43ca-9ddd-d731abda89d7
 tags:
-- r&b
-- singer-songwriter
-- soul
-
+  - r&b
+  - singer-songwriter
+  - soul
 ---
 
 ![](clarence_carter.jpg)

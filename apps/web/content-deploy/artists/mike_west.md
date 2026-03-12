@@ -3,15 +3,15 @@ title: Mike West
 wiki_slug: mike-west
 schema_version: 2
 status: active
-birth_place: Ghana (birthplace), United Kingdom (current base/origin)
+birth_place: 'Ghana (birthplace), United Kingdom (current base/origin)'
 genres:
-- reggae
-- roots reggae
+  - reggae
+  - roots reggae
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/mike_west.jpg
   caption: Mike West
   background: solo_singer
-  origin: Ghana (birthplace), United Kingdom (current base/origin)
+  origin: 'Ghana (birthplace), United Kingdom (current base/origin)'
 audio_profile:
   tempo_avg: 119.3
   energy_avg: 0.579
@@ -27,42 +27,43 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - European reggae and world music DJs
+    - European reggae and world music DJs
   influenced:
-  - Emerging UK-based African reggae artists
+    - Emerging UK-based African reggae artists
   mentors:
-  - Traditional Ghanaian musicians
+    - Traditional Ghanaian musicians
 spotify_data:
   followers: 197712
   id: 2sgVQmhRbgSEe47A1bJRrC
   popularity: 44
-  url: https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC
+  url: 'https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC'
 discography_enriched: true
 top_tracks:
-- Permanent Holiday (The Change I'm Seeking)
-- These Are My Roots
-- Life by the Drop
-- Barbershop (The Change I'm Seeking)
-- I Love You (Love Will Find a Way)
-- Movin' on (The Change I'm Seeking)
-- Heavy Load (7)
-- Jah Is Real
-- Good News (Love Will Find a Way)
-- Human Race (The Change I'm Seeking)
+  - Permanent Holiday (The Change I'm Seeking)
+  - These Are My Roots
+  - Life by the Drop
+  - Barbershop (The Change I'm Seeking)
+  - I Love You (Love Will Find a Way)
+  - Movin' on (The Change I'm Seeking)
+  - Heavy Load (7)
+  - Jah Is Real
+  - Good News (Love Will Find a Way)
+  - Human Race (The Change I'm Seeking)
 external_urls:
-  spotify: https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC
+  spotify: 'https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/mike_west.jpg
 biography_enhanced_at: '2025-11-08T21:56:19.362933'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.ghanaweb.com/person/Mik-West-1137
-- https://www.ghanastar.com/profiles/complete-biography-profile-of-mik-west/
-- https://ghanaregions.com/mik-west/
+  - 'https://www.ghanaweb.com/person/Mik-West-1137'
+  - 'https://www.ghanastar.com/profiles/complete-biography-profile-of-mik-west/'
+  - 'https://ghanaregions.com/mik-west/'
 network_extracted: true
 entry_created: '2025-11-08T21:56:19.362946'
 last_updated: '2025-12-23T08:16:13.153552'
+artist_type: person
 ---
 
 ![](mike_west.jpg)

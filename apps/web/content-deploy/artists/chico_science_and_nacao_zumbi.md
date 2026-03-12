@@ -3,45 +3,49 @@ biography_enhanced_at: '2026-01-18T07:50:26.909306'
 enhancement_provider: perplexity
 entry_created: '2026-01-18T07:50:26.909313'
 external_urls:
-  spotify: https://open.spotify.com/artist/47WBe7FcJT2OPlAQDtXjM7
-  wikipedia: https://en.wikipedia.org/wiki/Chico_Science
+  spotify: 'https://open.spotify.com/artist/47WBe7FcJT2OPlAQDtXjM7'
+  wikipedia: 'https://en.wikipedia.org/wiki/Chico_Science'
 genres:
-- brazilian rock
+  - brazilian rock
 image_path: 03_Resources/source_material/ArtistPortraits/chico_science_and_nacao_zumbi.jpg
 last_updated: '2026-01-18T07:50:26.909313'
 musical_connections:
   collaborators:
-  - Fred 04 (Mundo Livre S/A)
-  - Lúcio Maia
-  - Alexandre Dengue
-  - Jorge du Peixe
-  - Gilberto Gil
-  - Red Hot Organization
+    - Fred 04 (Mundo Livre S/A)
+    - Lúcio Maia
+    - Alexandre Dengue
+    - Jorge du Peixe
+    - Gilberto Gil
+    - Red Hot Organization
   influenced:
-  - Nação Zumbi (post-Chico Science era)
-  - Brazilian music scene (1990s-2000s)
+    - Nação Zumbi (post-Chico Science era)
+    - Brazilian music scene (1990s-2000s)
   mentors:
-  - James Brown
-  - Grandmaster Flash
-  - Kurtis Blow
+    - James Brown
+    - Grandmaster Flash
+    - Kurtis Blow
 network_extracted: true
-origin: Recife, Pernambuco, Brazil
+origin: 'Recife, Pernambuco, Brazil'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Chico_Science
-- https://www.peaceandrhythm.com/blogs/news/chico-science-march-13-1966-feb-2-1997/
-- https://www.loustal.nl/chico_science.htm
-- https://fastnbulbous.com/nacao-zumbi-brainy-crabs-cannibals/
-- https://www.latinolife.co.uk/event/nacao-zumbi
-- https://www.jango.com/music/Chico+Science/_full_bio
-- https://www.metal-archives.com/artists/Chico_Science/456503
+  - 'https://en.wikipedia.org/wiki/Chico_Science'
+  - >-
+    https://www.peaceandrhythm.com/blogs/news/chico-science-march-13-1966-feb-2-1997/
+  - 'https://www.loustal.nl/chico_science.htm'
+  - 'https://fastnbulbous.com/nacao-zumbi-brainy-crabs-cannibals/'
+  - 'https://www.latinolife.co.uk/event/nacao-zumbi'
+  - 'https://www.jango.com/music/Chico+Science/_full_bio'
+  - 'https://www.metal-archives.com/artists/Chico_Science/456503'
 spotify_data:
   followers: 1763
   id: 47WBe7FcJT2OPlAQDtXjM7
   popularity: 15
-  url: https://open.spotify.com/artist/47WBe7FcJT2OPlAQDtXjM7
+  url: 'https://open.spotify.com/artist/47WBe7FcJT2OPlAQDtXjM7'
 status: active
 title: Chico Science & Nacao Zumbi
+birth_date: '1966-03-13'
+death_date: '1997-02-02'
+artist_type: band
 ---
 
 ![](chico_science_and_nacao_zumbi.jpg)

@@ -1,114 +1,118 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  - original
-  mbid: c7e3fef4-d35f-4f6c-b045-a44e0baf598f
-  name: Allan Botschinsky Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - guitar
-  - original
-  mbid: bd699e69-ac57-4842-9a00-b5a99e8a3c86
-  name: Dave Stryker Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - electric guitar
-  - eponymous
-  - original
-  mbid: a6b71b40-ed90-4f88-a9d8-e098468f6aff
-  name: Dave Stryker Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - guitar
-  - original
-  mbid: 6c6bec59-160f-4cc4-a847-910bec2d4863
-  name: Dave Stryker Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: faa5ed70-5584-4739-ae0b-f43af5a1e5d6
-  name: Dave Stryker Organ Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d7080761-dc4c-46c2-9f92-51c5c14869af
-  name: Dave Stryker Organ Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5ed88a49-af93-458a-8b65-58644c8758db
-  name: The Stryker / Slagle Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 81c0236e-4b58-4724-a45e-cd8af0ffd18a
-  name: Rich Willey's Boptism Funk Band
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+      - original
+    mbid: c7e3fef4-d35f-4f6c-b045-a44e0baf598f
+    name: Allan Botschinsky Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - guitar
+      - original
+    mbid: bd699e69-ac57-4842-9a00-b5a99e8a3c86
+    name: Dave Stryker Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - electric guitar
+      - eponymous
+      - original
+    mbid: a6b71b40-ed90-4f88-a9d8-e098468f6aff
+    name: Dave Stryker Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - guitar
+      - original
+    mbid: 6c6bec59-160f-4cc4-a847-910bec2d4863
+    name: Dave Stryker Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: faa5ed70-5584-4739-ae0b-f43af5a1e5d6
+    name: Dave Stryker Organ Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d7080761-dc4c-46c2-9f92-51c5c14869af
+    name: Dave Stryker Organ Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5ed88a49-af93-458a-8b65-58644c8758db
+    name: The Stryker / Slagle Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 81c0236e-4b58-4724-a45e-cd8af0ffd18a
+    name: Rich Willey's Boptism Funk Band
 biography_enhanced_at: '2026-01-03T01:44:38.202556'
 birth_date: '1957-03-30'
-birth_place: Omaha
+birth_place: 'Omaha, Nebraska, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-03T01:44:38.202579'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ffb124d1-2657-48b4-b82c-4f7bacf0f245
-  spotify: https://open.spotify.com/artist/41erh9nyEL8GCFcnZ1msZ6
+  musicbrainz: 'https://musicbrainz.org/artist/ffb124d1-2657-48b4-b82c-4f7bacf0f245'
+  spotify: 'https://open.spotify.com/artist/41erh9nyEL8GCFcnZ1msZ6'
   wikipedia: Not found in search results
 gender: Male
 genres:
-- jazz funk
-- jazz
+  - jazz funk
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/dave_stryker.jpg
 instruments:
-- guitar
-- original
-- eponymous
-- electric guitar
-- acoustic guitar
+  - guitar
+  - original
+  - eponymous
+  - electric guitar
+  - acoustic guitar
 last_updated: '2026-01-03T01:44:38.202581'
 musical_connections:
   collaborators:
-  - Jared Gold
-  - McClenty Hunter
-  - Stefon Harris
-  - Steve Nelson
-  - Mayra Casales
-  - Bob Mintzer
-  - Freddie Hubbard, James Moody, Dizzy Gillespie, Jimmy Smith, Dr. Lonnie Smith,
-    Jimmy Heath, Kevin Mahogany, Eliane Elias, Joe Lovano, Steve Slagle
+    - Jared Gold
+    - McClenty Hunter
+    - Stefon Harris
+    - Steve Nelson
+    - Mayra Casales
+    - Bob Mintzer
+    - >-
+      Freddie Hubbard, James Moody, Dizzy Gillespie, Jimmy Smith, Dr. Lonnie
+      Smith, Jimmy Heath, Kevin Mahogany, Eliane Elias, Joe Lovano, Steve Slagle
   influenced:
-  - Jazz guitar students at Rutgers University, William Paterson University, and Montclair
-    State University
-  - Online students through ArtistWorks
+    - >-
+      Jazz guitar students at Rutgers University, William Paterson University,
+      and Montclair State University
+    - Online students through ArtistWorks
   mentors:
-  - Jack McDuff
-  - Stanley Turrentine
+    - Jack McDuff
+    - Stanley Turrentine
 musicbrainz_id: ffb124d1-2657-48b4-b82c-4f7bacf0f245
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://modernjazztoday.com/features/dave-stryker-a-guitarist-on-a-mission/
-- https://www.davestryker.com/bios/dave-stryker-short-bio.pdf
-- https://www.jango.com/music/Dave+Stryker/_full_bio
-- https://www.benedettoguitars.com/player/dave-stryker/
-- https://www.sdpb.org/music/2016-09-09/jazz-guitarist-dave-stryker-plays-eight-track-hits/
+  - 'https://modernjazztoday.com/features/dave-stryker-a-guitarist-on-a-mission/'
+  - 'https://www.davestryker.com/bios/dave-stryker-short-bio.pdf'
+  - 'https://www.jango.com/music/Dave+Stryker/_full_bio'
+  - 'https://www.benedettoguitars.com/player/dave-stryker/'
+  - >-
+    https://www.sdpb.org/music/2016-09-09/jazz-guitarist-dave-stryker-plays-eight-track-hits/
 spotify_data:
   followers: 4666
   id: 41erh9nyEL8GCFcnZ1msZ6
   popularity: 24
-  url: https://open.spotify.com/artist/41erh9nyEL8GCFcnZ1msZ6
+  url: 'https://open.spotify.com/artist/41erh9nyEL8GCFcnZ1msZ6'
 status: active
 tags:
-- jazz
-- post-bop
+  - jazz
+  - post-bop
 title: Dave Stryker
+origin: 'New York City, New York, United States'
 ---
 
 ![](dave_stryker.jpg)

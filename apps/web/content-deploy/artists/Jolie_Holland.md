@@ -2,17 +2,17 @@
 title: Jolie Holland
 wiki_slug: jolie-holland
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1975-09-11'
-birth_place: Houston, Texas, United States
+birth_place: 'Houston, Texas, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Jolie_Holland.jpg
   caption: Jolie Holland
   background: solo_singer
   born: '1975-09-11'
-  origin: Houston, Texas, United States
+  origin: 'Houston, Texas, United States'
 audio_profile:
   tempo_avg: 109.5
   energy_avg: 0.273
@@ -28,46 +28,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Samantha Parton
-  - Buck Meek
-  - Adam Brisbin
-  - Justin Veloso
-  - Sage Francis, Booker T, Bad Religion, David Gray
+    - Samantha Parton
+    - Buck Meek
+    - Adam Brisbin
+    - Justin Veloso
+    - 'Sage Francis, Booker T, Bad Religion, David Gray'
   influenced:
-  - Buck Meek
+    - Buck Meek
   mentors:
-  - Tom Waits
+    - Tom Waits
 spotify_data:
   followers: 38720
   id: 2I75E6zjDObK1RcXUzpmSQ
   popularity: 27
-  url: https://open.spotify.com/artist/2I75E6zjDObK1RcXUzpmSQ
+  url: 'https://open.spotify.com/artist/2I75E6zjDObK1RcXUzpmSQ'
 discography_enriched: true
 top_tracks:
-- Old Fashioned Morphine (Escondida)
-- Sascha (Escondida)
-- Damn Shame (Escondida)
-- My Sister's Hands In Mine (feat. Jolie Holland)
-- Highway 72 (Haunted Mountain)
-- My Murder, My Love (Sorry To Bother You)
-- Mad Tom Of Bedlam (Escondida)
-- Wandering Angus (Catalpa)
-- Mexico City (The Living and The Dead)
-- Rex's Blues (Pint Of Blood)
+  - Old Fashioned Morphine (Escondida)
+  - Sascha (Escondida)
+  - Damn Shame (Escondida)
+  - My Sister's Hands In Mine (feat. Jolie Holland)
+  - Highway 72 (Haunted Mountain)
+  - 'My Murder, My Love (Sorry To Bother You)'
+  - Mad Tom Of Bedlam (Escondida)
+  - Wandering Angus (Catalpa)
+  - Mexico City (The Living and The Dead)
+  - Rex's Blues (Pint Of Blood)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/66932740-f510-4bc6-b4d0-160bb1f4c723
-  spotify: https://open.spotify.com/artist/2I75E6zjDObK1RcXUzpmSQ
-  wikipedia: https://en.wikipedia.org/wiki/Jolie_Holland
+  musicbrainz: 'https://musicbrainz.org/artist/66932740-f510-4bc6-b4d0-160bb1f4c723'
+  spotify: 'https://open.spotify.com/artist/2I75E6zjDObK1RcXUzpmSQ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jolie_Holland'
 image_path: 03_Resources/source_material/ArtistPortraits/Jolie_Holland.jpg
 biography_enhanced_at: '2025-10-21T06:35:22.297722'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://feversofthemind.com/2023/09/22/a-fevers-of-the-mind-interview-with-jolie-holland-and-info-on-her-upcoming-album-haunted-mountain/
-- https://thebluegrasssituation.com/read/bgs-55-jolie-holland/
-- https://dianecoetzer.substack.com/p/heard-seen-and-felt-on-the-road-with
-- https://americana-uk.com/whatever-happened-to-jolie-holland
-- https://joliehollandmusic.com/about/
+  - >-
+    https://feversofthemind.com/2023/09/22/a-fevers-of-the-mind-interview-with-jolie-holland-and-info-on-her-upcoming-album-haunted-mountain/
+  - 'https://thebluegrasssituation.com/read/bgs-55-jolie-holland/'
+  - 'https://dianecoetzer.substack.com/p/heard-seen-and-felt-on-the-road-with'
+  - 'https://americana-uk.com/whatever-happened-to-jolie-holland'
+  - 'https://joliehollandmusic.com/about/'
 network_extracted: true
 entry_created: '2025-10-21T06:35:22.297731'
 last_updated: '2025-12-23T08:16:02.702836'
@@ -75,7 +76,7 @@ gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:32:37.528918'
 musicbrainz_id: 66932740-f510-4bc6-b4d0-160bb1f4c723
 tags:
-- folk
+  - folk
 ---
 
 ![](Jolie_Holland.jpg)

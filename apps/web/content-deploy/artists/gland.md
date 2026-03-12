@@ -2,11 +2,11 @@
 title: Gland
 wiki_slug: gland
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- glam metal
-- hard rock
+  - glam metal
+  - hard rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/gland.jpg
   caption: Gland
@@ -26,46 +26,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Original Gland Band Members
-  - Keyboardist (added in 2013)
+    - Original Gland Band Members
+    - Keyboardist (added in 2013)
   influenced:
-  - Local Midwest Cover Bands
+    - Local Midwest Cover Bands
   mentors:
-  - Aerosmith
-  - Kiss
+    - Aerosmith
+    - Kiss
 spotify_data:
   followers: 706321
   id: 0KyCXNSa7ZMb5LydfKbLG3
   popularity: 48
-  url: https://open.spotify.com/artist/0KyCXNSa7ZMb5LydfKbLG3
+  url: 'https://open.spotify.com/artist/0KyCXNSa7ZMb5LydfKbLG3'
 discography_enriched: true
 top_tracks:
-- Yankee Rose (Eat 'Em and Smile)
-- Just Like Paradise (Skyscraper)
-- Just a Gigolo / I Ain't Got Nobody - 45 Version
-- A Lil' Ain't Enough (A Little Ain't Enough)
-- California Girls (Crazy from the Heat)
-- Goin' Crazy (Loco del Calor) (Eat 'Em and Smile)
-- Ladies' Nite in Buffalo? (Noche de Ronda en la Ciudad) (Eat 'Em and Smile)
-- Tobacco Road (La Calle del Tabaco) (Eat 'Em and Smile)
-- Yankee Rose
-- Shyboy (Timido) (Eat 'Em and Smile)
+  - Yankee Rose (Eat 'Em and Smile)
+  - Just Like Paradise (Skyscraper)
+  - Just a Gigolo / I Ain't Got Nobody - 45 Version
+  - A Lil' Ain't Enough (A Little Ain't Enough)
+  - California Girls (Crazy from the Heat)
+  - Goin' Crazy (Loco del Calor) (Eat 'Em and Smile)
+  - Ladies' Nite in Buffalo? (Noche de Ronda en la Ciudad) (Eat 'Em and Smile)
+  - Tobacco Road (La Calle del Tabaco) (Eat 'Em and Smile)
+  - Yankee Rose
+  - Shyboy (Timido) (Eat 'Em and Smile)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/aafdf704-453f-4859-ab4a-70a788d8ce96
-  spotify: https://open.spotify.com/artist/0KyCXNSa7ZMb5LydfKbLG3
+  musicbrainz: 'https://musicbrainz.org/artist/aafdf704-453f-4859-ab4a-70a788d8ce96'
+  spotify: 'https://open.spotify.com/artist/0KyCXNSa7ZMb5LydfKbLG3'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/gland.jpg
 biography_enhanced_at: '2025-11-14T11:12:34.600745'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://theglamband.com/about/
+  - 'https://theglamband.com/about/'
 network_extracted: true
 entry_created: '2025-11-14T11:12:34.600753'
 last_updated: '2025-12-23T08:16:09.243460'
 disambiguation: US punk band
 musicbrainz_id: aafdf704-453f-4859-ab4a-70a788d8ce96
-origin: Green Bay, Wisconsin, United States
+origin: 'Green Bay, Wisconsin, United States'
 ---
 
 ![](gland.jpg)

@@ -1,37 +1,41 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-13T01:14:13.965748'
-birth_place: Unknown, United States
+birth_place: 'Unknown, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-13T01:14:13.965754'
 external_urls:
-  spotify: https://open.spotify.com/artist/1lXf4qTTDUgMqPw6FrSg3a
+  spotify: 'https://open.spotify.com/artist/1lXf4qTTDUgMqPw6FrSg3a'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/zilla_mayes.jpg
 last_updated: '2026-01-13T01:14:13.965755'
 musical_connections:
   collaborators:
-  - Roy Mays All Stars
-  - The Blues Caravan
+    - Roy Mays All Stars
+    - The Blues Caravan
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://thelisteningpostblog.wordpress.com/2025/08/04/song-of-the-day-zilla-mayes-all-i-want-is-you/
-- https://www.rocknroll-schallplatten-forum.de/topic.php?t=5024
-- https://www.vocalgroupharmony.com/5ROWNEW/WhyDoYouCry.htm
-- https://musicbrainz.org/artist/293864da-478a-4b63-a514-f168720c47d5
-- http://rcs-discography.com/sfs/s_artist.php?key=maye8000
-- https://www.uncamarvy.com/ZillaMays/zillamays.html
+  - >-
+    https://thelisteningpostblog.wordpress.com/2025/08/04/song-of-the-day-zilla-mayes-all-i-want-is-you/
+  - 'https://www.rocknroll-schallplatten-forum.de/topic.php?t=5024'
+  - 'https://www.vocalgroupharmony.com/5ROWNEW/WhyDoYouCry.htm'
+  - 'https://musicbrainz.org/artist/293864da-478a-4b63-a514-f168720c47d5'
+  - 'http://rcs-discography.com/sfs/s_artist.php?key=maye8000'
+  - 'https://www.uncamarvy.com/ZillaMays/zillamays.html'
 spotify_data:
   followers: 324
   id: 1lXf4qTTDUgMqPw6FrSg3a
   popularity: 7
-  url: https://open.spotify.com/artist/1lXf4qTTDUgMqPw6FrSg3a
+  url: 'https://open.spotify.com/artist/1lXf4qTTDUgMqPw6FrSg3a'
 status: active
 title: Zilla MAyes
+origin: 'Atlanta, Georgia, United States'
+birth_date: '1931-09-01'
+death_date: '1995-09-19'
 ---
 
 ![](zilla_mayes.jpg)

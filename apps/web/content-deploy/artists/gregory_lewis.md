@@ -1,49 +1,51 @@
 ---
 biography_enhanced_at: '2026-01-10T01:14:47.182695'
-birth_place: New York, New York, United States
+birth_place: 'New York, New York, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-10T01:14:47.182702'
 external_urls:
-  spotify: https://open.spotify.com/artist/2EIzB0AvjBCDwO9Neqy5ae
+  spotify: 'https://open.spotify.com/artist/2EIzB0AvjBCDwO9Neqy5ae'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/gregory_lewis.jpg
 last_updated: '2026-01-10T01:14:47.182703'
 musical_connections:
   collaborators:
-  - Ron Jackson
-  - Cindy Blackman (Cindy Blackman Santana)
-  - Sweet Georgia Brown
-  - Lezlie Harrison
-  - Stephanie McKay
-  - Sam Newsome
-  - Kevin McNeal
-  - Nasheet Waits
-  - Brianna Thomas
+    - Ron Jackson
+    - Cindy Blackman (Cindy Blackman Santana)
+    - Sweet Georgia Brown
+    - Lezlie Harrison
+    - Stephanie McKay
+    - Sam Newsome
+    - Kevin McNeal
+    - Nasheet Waits
+    - Brianna Thomas
   influenced:
-  - ''
+    - ''
   mentors:
-  - David Lewis
-  - Gil Coggins
-  - Thelonious Monk
-  - Larry Young
-  - Jimmy Smith
-  - Sly Stone
+    - David Lewis
+    - Gil Coggins
+    - Thelonious Monk
+    - Larry Young
+    - Jimmy Smith
+    - Sly Stone
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.groupmuse.com/@organmonk
-- https://www.allaboutjazz.com/musicians/greg-lewis
-- https://artists.hammondorganco.com/gregory-lewis
-- https://greglewismusic.com
-- https://newmusicusa.org/nmbx/greg-lewis-music-is-a-weapon/
+  - 'https://www.groupmuse.com/@organmonk'
+  - 'https://www.allaboutjazz.com/musicians/greg-lewis'
+  - 'https://artists.hammondorganco.com/gregory-lewis'
+  - 'https://greglewismusic.com'
+  - 'https://newmusicusa.org/nmbx/greg-lewis-music-is-a-weapon/'
 spotify_data:
   followers: 116
   id: 2EIzB0AvjBCDwO9Neqy5ae
   popularity: 0
-  url: https://open.spotify.com/artist/2EIzB0AvjBCDwO9Neqy5ae
+  url: 'https://open.spotify.com/artist/2EIzB0AvjBCDwO9Neqy5ae'
 status: active
 title: Gregory Lewis
+origin: 'New York, New York, United States'
+artist_type: person
 ---
 
 ![](gregory_lewis.jpg)

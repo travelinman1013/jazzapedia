@@ -2,14 +2,14 @@
 title: Jack DeJohnette's Directions
 wiki_slug: jack-dejohnettes-directions
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 genres:
-- jazz fusion
+  - jazz fusion
 instruments:
-- electric guitar
-- eponymous
-- original
+  - electric guitar
+  - eponymous
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jack_dejohnettes_directions.jpg
   caption: Jack DeJohnette's Directions
@@ -29,67 +29,69 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John Abercrombie
-  - Mike Richmond
-  - Alex Foster
-  - Eddie Gomez
-  - Lester Bowie
+    - John Abercrombie
+    - Mike Richmond
+    - Alex Foster
+    - Eddie Gomez
+    - Lester Bowie
   influenced:
-  - Brian Blade
-  - Antonio Sanchez
+    - Brian Blade
+    - Antonio Sanchez
   mentors:
-  - Ahmad Jamal
+    - Ahmad Jamal
 spotify_data:
   followers: 580
   id: 3y8u3HKj17TRJAub9lfnas
   popularity: 4
-  url: https://open.spotify.com/artist/3y8u3HKj17TRJAub9lfnas
+  url: 'https://open.spotify.com/artist/3y8u3HKj17TRJAub9lfnas'
 discography_enriched: true
 top_tracks:
-- Minya's The Mooch (New Rags)
-- Flys (New Rags)
-- Flying Spirits (Untitled)
-- Fantastic (Untitled)
-- Morning Star (Untitled)
-- Lydia (New Rags)
-- Steppin' Thru (New Rags)
-- Pansori Visions (Untitled)
-- The Vikings Are Coming (Untitled)
-- Struttin (Untitled)
+  - Minya's The Mooch (New Rags)
+  - Flys (New Rags)
+  - Flying Spirits (Untitled)
+  - Fantastic (Untitled)
+  - Morning Star (Untitled)
+  - Lydia (New Rags)
+  - Steppin' Thru (New Rags)
+  - Pansori Visions (Untitled)
+  - The Vikings Are Coming (Untitled)
+  - Struttin (Untitled)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5025b18d-f457-46cb-992d-13c342586dba
-  spotify: https://open.spotify.com/artist/3y8u3HKj17TRJAub9lfnas
-  wikipedia: https://en.wikipedia.org/wiki/Jack_DeJohnette
+  musicbrainz: 'https://musicbrainz.org/artist/5025b18d-f457-46cb-992d-13c342586dba'
+  spotify: 'https://open.spotify.com/artist/3y8u3HKj17TRJAub9lfnas'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jack_DeJohnette'
 image_path: 03_Resources/source_material/ArtistPortraits/jack_dejohnettes_directions.jpg
 biography_enhanced_at: '2025-10-31T08:02:07.123499'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.bluenote.com/artist/jack-dejohnette/
-- https://pas.org/jack-dejohnette/
-- https://www.arts.gov/honors/jazz/jack-dejohnette
-- https://en.wikipedia.org/wiki/Jack_DeJohnette
+  - 'https://www.bluenote.com/artist/jack-dejohnette/'
+  - 'https://pas.org/jack-dejohnette/'
+  - 'https://www.arts.gov/honors/jazz/jack-dejohnette'
+  - 'https://en.wikipedia.org/wiki/Jack_DeJohnette'
 network_extracted: true
 entry_created: '2025-10-31T08:02:07.123518'
 last_updated: '2025-12-23T08:16:09.999387'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - electric guitar
-  mbid: 80c75300-9cf2-4daf-bb23-5fe15964e671
-  name: John Abercrombie
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: f2d13d28-6f74-4dd5-b596-8bd0b6f67615
-  name: Jack DeJohnette
+  - begin: ''
+    end: ''
+    instruments:
+      - electric guitar
+    mbid: 80c75300-9cf2-4daf-bb23-5fe15964e671
+    name: John Abercrombie
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: f2d13d28-6f74-4dd5-b596-8bd0b6f67615
+    name: Jack DeJohnette
 musicbrainz_id: 5025b18d-f457-46cb-992d-13c342586dba
-origin: Chicago, Illinois, United States
+origin: 'Chicago, Illinois, United States'
 tags:
-- jazz
+  - jazz
+birth_place: 'Chicago, Illinois, United States'
+birth_date: '1942'
 ---
 
 ![](jack_dejohnettes_directions.jpg)

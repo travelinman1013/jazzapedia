@@ -1,38 +1,39 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-17T02:04:39.974696'
-birth_place: Memphis, Tennessee, USA
+birth_place: 'Memphis, Tennessee, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-17T02:04:39.974711'
 external_urls:
-  spotify: https://open.spotify.com/artist/5R3BFXSHdX91rLfTBQqpKU
+  spotify: 'https://open.spotify.com/artist/5R3BFXSHdX91rLfTBQqpKU'
   wikipedia: ''
 genres:
-- country blues
-- ragtime
-- blues
+  - country blues
+  - ragtime
+  - blues
 image_path: 03_Resources/source_material/ArtistPortraits/hattie_hart.jpg
 last_updated: '2026-01-17T02:04:39.974715'
 musical_connections:
   collaborators:
-  - Memphis Jug Band
+    - Memphis Jug Band
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.namu.wiki/w/%ED%95%B4%ED%8B%B0%20%ED%95%98%ED%8A%B8
-- https://kids.kiddle.co/Hattie_Hart
-- https://www.last.fm/music/Hattie+Hart/+wiki
-- https://www.wirz.de/music/hart.htm
-- https://www.allmusic.com/artist/hattie-hart-mn0000952900
+  - 'https://en.namu.wiki/w/%ED%95%B4%ED%8B%B0%20%ED%95%98%ED%8A%B8'
+  - 'https://kids.kiddle.co/Hattie_Hart'
+  - 'https://www.last.fm/music/Hattie+Hart/+wiki'
+  - 'https://www.wirz.de/music/hart.htm'
+  - 'https://www.allmusic.com/artist/hattie-hart-mn0000952900'
 spotify_data:
   followers: 191
   id: 5R3BFXSHdX91rLfTBQqpKU
   popularity: 1
-  url: https://open.spotify.com/artist/5R3BFXSHdX91rLfTBQqpKU
+  url: 'https://open.spotify.com/artist/5R3BFXSHdX91rLfTBQqpKU'
 status: active
-title: hattie hart
+title: Hattie Hart
+origin: 'Memphis, Tennessee, United States'
 ---
 
 ![](hattie_hart.jpg)

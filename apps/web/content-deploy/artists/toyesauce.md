@@ -4,7 +4,7 @@ wiki_slug: toyesauce
 schema_version: 2
 status: active
 genres:
-- acid jazz
+  - acid jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/toyesauce.jpg
   caption: Toyesauce
@@ -24,57 +24,76 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - George Porter Jr.
-  - Stanton Moore
-  - Kevin McKinney
-  - Jeff Coffin
-  - Anjelika 'Jelly' Joseph
-  - Big Sam Williams
-  - Craig Glaiberman
-  - Emmanuel Echem
-  - Ivan Neville
-  - Tony Hall
+    - George Porter Jr.
+    - Stanton Moore
+    - Kevin McKinney
+    - Jeff Coffin
+    - Anjelika 'Jelly' Joseph
+    - Big Sam Williams
+    - Craig Glaiberman
+    - Emmanuel Echem
+    - Ivan Neville
+    - Tony Hall
   influenced: []
   mentors: []
 spotify_data:
   followers: 849
   id: 6s60H6j3ZBYdTJA4Kixkxw
   popularity: 15
-  url: https://open.spotify.com/artist/6s60H6j3ZBYdTJA4Kixkxw
+  url: 'https://open.spotify.com/artist/6s60H6j3ZBYdTJA4Kixkxw'
 discography_enriched: true
 top_tracks:
-- Give It What You Can (Give It What You Can)
-- Good As It Gets Anymore (Good As It Gets Anymore)
-- The Burglar (The Burglar)
-- Yip Man - Live at Tipitina’s 6-5-25 (Live at Tipitina's 6-5-25 (Live at Tipitina’s 6-5-25))
-- Introduction - Live at Tipitina’s 6-5-25 (Live at Tipitina's 6-5-25 (Live at Tipitina’s 6-5-25))
-- Flea Market - Live at Tipitina’s 6-5-25 (Live at Tipitina's 6-5-25 (Live at Tipitina’s 6-5-25))
-- From The Barrel - Live at Tipitina’s 6-5-25 (Live at Tipitina's 6-5-25 (Live at Tipitina’s 6-5-25))
-- The Burglar - Live at Tipitina’s 6-5-25 (Live at Tipitina's 6-5-25 (Live at Tipitina’s 6-5-25))
-- I’ll Give It A Try - Live at Tipitina’s 6-5-25 (Live at Tipitina's 6-5-25 (Live at Tipitina’s 6-5-25))
-- Chicken - Live at Tipitina’s 6-5-25 (Live at Tipitina's 6-5-25 (Live at Tipitina’s 6-5-25))
+  - Give It What You Can (Give It What You Can)
+  - Good As It Gets Anymore (Good As It Gets Anymore)
+  - The Burglar (The Burglar)
+  - >-
+    Yip Man - Live at Tipitina’s 6-5-25 (Live at Tipitina's 6-5-25 (Live at
+    Tipitina’s 6-5-25))
+  - >-
+    Introduction - Live at Tipitina’s 6-5-25 (Live at Tipitina's 6-5-25 (Live at
+    Tipitina’s 6-5-25))
+  - >-
+    Flea Market - Live at Tipitina’s 6-5-25 (Live at Tipitina's 6-5-25 (Live at
+    Tipitina’s 6-5-25))
+  - >-
+    From The Barrel - Live at Tipitina’s 6-5-25 (Live at Tipitina's 6-5-25 (Live
+    at Tipitina’s 6-5-25))
+  - >-
+    The Burglar - Live at Tipitina’s 6-5-25 (Live at Tipitina's 6-5-25 (Live at
+    Tipitina’s 6-5-25))
+  - >-
+    I’ll Give It A Try - Live at Tipitina’s 6-5-25 (Live at Tipitina's 6-5-25
+    (Live at Tipitina’s 6-5-25))
+  - >-
+    Chicken - Live at Tipitina’s 6-5-25 (Live at Tipitina's 6-5-25 (Live at
+    Tipitina’s 6-5-25))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e4b0c29f-b269-493a-ae14-5117615bf674
-  spotify: https://open.spotify.com/artist/6s60H6j3ZBYdTJA4Kixkxw
+  musicbrainz: 'https://musicbrainz.org/artist/e4b0c29f-b269-493a-ae14-5117615bf674'
+  spotify: 'https://open.spotify.com/artist/6s60H6j3ZBYdTJA4Kixkxw'
   wikipedia: Not found
 image_path: 03_Resources/source_material/ArtistPortraits/toyesauce.jpg
 biography_enhanced_at: '2025-12-04T07:48:40.831447'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.toyesauce.com/about
-- https://www.toyesauce.com
-- https://liveforlivemusic.com/news/toyesauce-george-porter-jr-love-is-gonna-get-ya/
-- https://crescentcitysounds.org/artists/toyesauce
-- https://www.toyesauce.com/nashville
-- https://www.toyesauce.com/austin
-- https://liveforlivemusic.com/news/toyesauce-the-burglar/
-- https://relix.com/blogs/video_premieres/detail/video-premiere-toyesauce-debuts-take-on-meters-give-it-what-you-can-with-all-star-cast-of-new-orleans-contributors/
+  - 'https://www.toyesauce.com/about'
+  - 'https://www.toyesauce.com'
+  - >-
+    https://liveforlivemusic.com/news/toyesauce-george-porter-jr-love-is-gonna-get-ya/
+  - 'https://crescentcitysounds.org/artists/toyesauce'
+  - 'https://www.toyesauce.com/nashville'
+  - 'https://www.toyesauce.com/austin'
+  - 'https://liveforlivemusic.com/news/toyesauce-the-burglar/'
+  - >-
+    https://relix.com/blogs/video_premieres/detail/video-premiere-toyesauce-debuts-take-on-meters-give-it-what-you-can-with-all-star-cast-of-new-orleans-contributors/
 network_extracted: true
 entry_created: '2025-12-04T07:48:40.831458'
 last_updated: '2025-12-23T08:16:17.671991'
 musicbrainz_id: e4b0c29f-b269-493a-ae14-5117615bf674
-origin: Nashville, Tennessee, USA (based); New Orleans, Louisiana, USA; Austin, Texas, USA (collaborative cities)
+origin: >-
+  Nashville, Tennessee, USA (based); New Orleans, Louisiana, USA; Austin, Texas,
+  USA (collaborative cities)
+artist_type: person
 ---
 
 ![](toyesauce.jpg)

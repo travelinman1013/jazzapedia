@@ -5,52 +5,52 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1940-12-21'
-birth_place: Baltimore
+birth_place: 'Baltimore, Maryland, United States'
 death_date: '1993-12-04'
 genres:
-- art rock
-- avant-garde
-- experimental
-- jazz fusion
-- progressive rock
-- psychedelic rock
-- symphonic rock
+  - art rock
+  - avant-garde
+  - experimental
+  - jazz fusion
+  - progressive rock
+  - psychedelic rock
+  - symphonic rock
 instruments:
-- guitar
-- lead vocals
-- original
-- spoken vocals
-- electric guitar
-- electric bass guitar
-- acoustic guitar
-- guitar family
-- piano
-- background vocals
-associated_acts:
-- begin: '1964'
-  end: '1975'
-  instruments:
   - guitar
   - lead vocals
   - original
   - spoken vocals
-  mbid: fe98e268-4ddd-441b-95a0-b219375f9ae4
-  name: The Mothers of Invention
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c14dc975-1b71-45dd-88dd-401442944048
-  name: Ned and Nelda
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 32fbbfeb-7cc5-4310-8326-19238ca78a13
-  name: Ruben and the Jets
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b54b7869-cf3a-4d98-8921-6963c611e8dc
-  name: The Midnighters
+  - electric guitar
+  - electric bass guitar
+  - acoustic guitar
+  - guitar family
+  - piano
+  - background vocals
+associated_acts:
+  - begin: '1964'
+    end: '1975'
+    instruments:
+      - guitar
+      - lead vocals
+      - original
+      - spoken vocals
+    mbid: fe98e268-4ddd-441b-95a0-b219375f9ae4
+    name: The Mothers of Invention
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c14dc975-1b71-45dd-88dd-401442944048
+    name: Ned and Nelda
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 32fbbfeb-7cc5-4310-8326-19238ca78a13
+    name: Ruben and the Jets
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b54b7869-cf3a-4d98-8921-6963c611e8dc
+    name: The Midnighters
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/frank_zappa.jpg
   caption: Frank Zappa
@@ -73,58 +73,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ray Collins
-  - Herb Cohen
-  - Terry Bozzio
-  - Moon Unit Zappa
-  - Ensemble Modern
+    - Ray Collins
+    - Herb Cohen
+    - Terry Bozzio
+    - Moon Unit Zappa
+    - Ensemble Modern
   influenced:
-  - Steve Vai
-  - Alice Cooper
-  - Primus
+    - Steve Vai
+    - Alice Cooper
+    - Primus
   mentors:
-  - Edgard Varèse
-  - Don Van Vliet (Captain Beefheart)
+    - Edgard Varèse
+    - Don Van Vliet (Captain Beefheart)
 spotify_data:
   followers: 1032483
   id: 6ra4GIOgCZQZMOaUECftGN
   popularity: 56
-  url: https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN
+  url: 'https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN'
 discography_enriched: true
 top_tracks:
-- Uncle Remus (Apostrophe('))
-- Watermelon In Easter Hay (Joe's Garage Acts I, II & III)
-- Bobby Brown Goes Down (Sheik Yerbouti)
-- Peaches En Regalia (Hot Rats)
-- Camarillo Brillo (Over-Nite Sensation)
-- Joe's Garage (Joe's Garage Acts I, II & III)
-- Willie The Pimp (Hot Rats)
-- Don't Eat The Yellow Snow (Apostrophe('))
-- Cosmik Debris (Apostrophe('))
-- Black Napkins (Zoot Allures)
+  - Uncle Remus (Apostrophe('))
+  - 'Watermelon In Easter Hay (Joe''s Garage Acts I, II & III)'
+  - Bobby Brown Goes Down (Sheik Yerbouti)
+  - Peaches En Regalia (Hot Rats)
+  - Camarillo Brillo (Over-Nite Sensation)
+  - 'Joe''s Garage (Joe''s Garage Acts I, II & III)'
+  - Willie The Pimp (Hot Rats)
+  - Don't Eat The Yellow Snow (Apostrophe('))
+  - Cosmik Debris (Apostrophe('))
+  - Black Napkins (Zoot Allures)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e20747e7-55a4-452e-8766-7b985585082d
-  spotify: https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN
-  wikipedia: https://en.wikipedia.org/wiki/Frank_Zappa
+  musicbrainz: 'https://musicbrainz.org/artist/e20747e7-55a4-452e-8766-7b985585082d'
+  spotify: 'https://open.spotify.com/artist/6ra4GIOgCZQZMOaUECftGN'
+  wikipedia: 'https://en.wikipedia.org/wiki/Frank_Zappa'
 image_path: 03_Resources/source_material/ArtistPortraits/frank_zappa.jpg
 biography_enhanced_at: '2025-11-26T07:57:32.278073'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Frank_Zappa
-- https://www.biography.com/musicians/frank-zappa
-- https://www.last.fm/music/Frank+Zappa/+wiki
-- https://www.britannica.com/biography/Frank-Zappa
+  - 'https://en.wikipedia.org/wiki/Frank_Zappa'
+  - 'https://www.biography.com/musicians/frank-zappa'
+  - 'https://www.last.fm/music/Frank+Zappa/+wiki'
+  - 'https://www.britannica.com/biography/Frank-Zappa'
 network_extracted: true
 entry_created: '2025-11-26T07:57:32.278083'
 last_updated: '2025-12-23T08:16:08.773593'
-disambiguation: US musician, composer, activist & filmmaker
+disambiguation: 'US musician, composer, activist & filmmaker'
 gender: Male
 musicbrainz_id: e20747e7-55a4-452e-8766-7b985585082d
 tags:
-- art rock
-- avant-garde
-- avant-prog
+  - art rock
+  - avant-garde
+  - avant-prog
+is_active: false
+origin: 'Los Angeles, California, United States'
 ---
 
 ![](frank_zappa.jpg)

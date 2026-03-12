@@ -5,27 +5,27 @@ schema_version: 2
 status: deceased
 birth_name: Terence Alexander Parkins
 also_known_as:
-- Count Lasher
+  - Count Lasher
 aliases:
-- Count Lasher
+  - Count Lasher
 birth_date: '1926-00-00'
-birth_place: Saint Thomas, Jamaica
+birth_place: 'Saint Thomas, Jamaica, United States'
 death_date: '1977-01-01'
 years_active: c. 1950 – c. 1970
 genres: []
 instruments:
-- guitar
-- voice
+  - guitar
+  - voice
 occupation:
-- singer
-- songwriter
+  - singer
+  - songwriter
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/count_lashers_seven.jpg
   caption: Count Lasher's Seven
   background: solo_singer
   birth_name: Terence Alexander Parkins
   born: '1926-00-00'
-  origin: Saint Thomas, Jamaica
+  origin: 'Saint Thomas, Jamaica'
   died: '1977-01-01'
 audio_profile:
   tempo_avg: 117.5
@@ -34,7 +34,7 @@ audio_profile:
   danceability_avg: 0.694
   acousticness_avg: 0.272
   instrumentalness_avg: 0.001
-  loudness_avg: -10.0
+  loudness_avg: -10
   speechiness_avg: 0.183
   liveness_avg: 0.138
   track_count: 23
@@ -42,53 +42,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Count Lasher's Seven
-  - Royal Calypsonians
-  - Lord Messam
+    - Count Lasher's Seven
+    - Royal Calypsonians
+    - Lord Messam
   influenced:
-  - Louise Bennett-Coverley
-  - The Skatalites
+    - Louise Bennett-Coverley
+    - The Skatalites
   mentors:
-  - Stanley Motta
+    - Stanley Motta
 related_artists: []
 spotify_data:
   followers: 61
   id: 2VrhnD0KrUcoKhA4ANPoRG
   popularity: 3
-  url: https://open.spotify.com/artist/2VrhnD0KrUcoKhA4ANPoRG
+  url: 'https://open.spotify.com/artist/2VrhnD0KrUcoKhA4ANPoRG'
   verified: false
 discography_enriched: true
 albums_count: 0
 singles_count: 0
 top_tracks:
-- Mango Time (Early Jamaican Music - The Best Of Mento & Calypso)
-- Breadfruit Season (Jamaican Mento Music Hits (1952 - 1958))
-- Mango Time (Jamaican Mento Music Hits (1952 - 1958))
-- Breadfruit Season (Early Jamaican Music - The Best Of Mento & Calypso)
-- Breadfruit Season (Birth of Ska Vol. 2 / Jamaica Farewell)
-- Island Gal Sally (Jamaican Summer - Classic Artist Series, Vol. 9)
-- Mango Time (Soca Roots Summer - Mento, Claypso, Ska and More, Vol. 6)
-- Breadfruit Season (Soca Roots Summer - Mento, Claypso, Ska and More, Vol. 5)
-- Mango Time (Jamaica-Mento, Vol. 1)
-- Island Gal Sally (Jamaica-Mento, Vol. 1)
+  - Mango Time (Early Jamaican Music - The Best Of Mento & Calypso)
+  - Breadfruit Season (Jamaican Mento Music Hits (1952 - 1958))
+  - Mango Time (Jamaican Mento Music Hits (1952 - 1958))
+  - Breadfruit Season (Early Jamaican Music - The Best Of Mento & Calypso)
+  - Breadfruit Season (Birth of Ska Vol. 2 / Jamaica Farewell)
+  - 'Island Gal Sally (Jamaican Summer - Classic Artist Series, Vol. 9)'
+  - 'Mango Time (Soca Roots Summer - Mento, Claypso, Ska and More, Vol. 6)'
+  - 'Breadfruit Season (Soca Roots Summer - Mento, Claypso, Ska and More, Vol. 5)'
+  - 'Mango Time (Jamaica-Mento, Vol. 1)'
+  - 'Island Gal Sally (Jamaica-Mento, Vol. 1)'
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/2VrhnD0KrUcoKhA4ANPoRG
-  wikipedia: https://en.wikipedia.org/wiki/Count_Lasher
+  spotify: 'https://open.spotify.com/artist/2VrhnD0KrUcoKhA4ANPoRG'
+  wikipedia: 'https://en.wikipedia.org/wiki/Count_Lasher'
 image_path: null
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:30:18.908081'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Count_Lasher
-- https://www.last.fm/music/Count+Lasher/+wiki
-- https://excavatedshellac.com/2012/09/22/count-lashers-calypso-quintet-trek-to-england/
-- https://our.today/celebrating-pioneers-of-early-jamaican-music/
+  - 'https://en.wikipedia.org/wiki/Count_Lasher'
+  - 'https://www.last.fm/music/Count+Lasher/+wiki'
+  - >-
+    https://excavatedshellac.com/2012/09/22/count-lashers-calypso-quintet-trek-to-england/
+  - 'https://our.today/celebrating-pioneers-of-early-jamaican-music/'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:46:09.882625
+entry_created: 2025-09-22T21:46:09.882Z
 last_updated: '2025-12-23T08:16:07.229025'
+is_active: false
+origin: 'Kingston, Jamaica, United States'
+artist_type: band
 ---
 
 ![]()

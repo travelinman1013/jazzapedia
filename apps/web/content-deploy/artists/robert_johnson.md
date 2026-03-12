@@ -1,18 +1,18 @@
 ---
-title: robert johnson
+title: Robert Johnson
 wiki_slug: robert-johnson
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1911-05-08'
-birth_place: Hazlehurst
+birth_place: 'Hazlehurst, Mississippi, United States'
 death_date: '1938-08-16'
 genres:
-- blues
-- classic blues
-- country blues
+  - blues
+  - classic blues
+  - country blues
 instruments:
-- guitar
+  - guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/robert_johnson.jpg
   caption: robert johnson
@@ -27,7 +27,7 @@ audio_profile:
   danceability_avg: 0.692
   acousticness_avg: 0.914
   instrumentalness_avg: 0.013
-  loudness_avg: -14.0
+  loudness_avg: -14
   speechiness_avg: 0.098
   liveness_avg: 0.14
   track_count: 50
@@ -35,47 +35,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Don Law
+    - Don Law
   influenced:
-  - Eric Clapton
-  - The Rolling Stones
-  - Bob Dylan
-  - Elmore James
+    - Eric Clapton
+    - The Rolling Stones
+    - Bob Dylan
+    - Elmore James
   mentors:
-  - Son House
-  - Willie Brown
+    - Son House
+    - Willie Brown
 spotify_data:
   followers: 625868
   id: 0f8MDDzIc6M4uH1xH0o0gy
   popularity: 44
-  url: https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy
+  url: 'https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy'
 discography_enriched: true
 top_tracks:
-- Cross Road Blues (King Of The Delta Blues Singers)
-- Me and the Devil Blues (King Of The Delta Blues Singers)
-- Stop Breakin' Down Blues
-- Sweet Home Chicago (King Of The Delta Blues Singers (Volume 2))
-- Cross Road Blues - Take 2
-- Come On In My Kitchen (King Of The Delta Blues Singers)
-- Hell Hound On My Trail (King Of The Delta Blues Singers)
-- Sweet Home Chicago (King Of The Delta Blues)
-- Walkin' Blues (King Of The Delta Blues Singers)
-- Traveling Riverside Blues (King Of The Delta Blues Singers)
+  - Cross Road Blues (King Of The Delta Blues Singers)
+  - Me and the Devil Blues (King Of The Delta Blues Singers)
+  - Stop Breakin' Down Blues
+  - Sweet Home Chicago (King Of The Delta Blues Singers (Volume 2))
+  - Cross Road Blues - Take 2
+  - Come On In My Kitchen (King Of The Delta Blues Singers)
+  - Hell Hound On My Trail (King Of The Delta Blues Singers)
+  - Sweet Home Chicago (King Of The Delta Blues)
+  - Walkin' Blues (King Of The Delta Blues Singers)
+  - Traveling Riverside Blues (King Of The Delta Blues Singers)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8a8bbba6-72f7-4900-a306-c40b94f2631b
-  spotify: https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy
-  wikipedia: https://en.wikipedia.org/wiki/Robert_Johnson
+  musicbrainz: 'https://musicbrainz.org/artist/8a8bbba6-72f7-4900-a306-c40b94f2631b'
+  spotify: 'https://open.spotify.com/artist/0f8MDDzIc6M4uH1xH0o0gy'
+  wikipedia: 'https://en.wikipedia.org/wiki/Robert_Johnson'
 image_path: 03_Resources/source_material/ArtistPortraits/robert_johnson.jpg
 biography_enhanced_at: '2025-11-08T22:02:45.742439'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Robert_Johnson
-- https://www.robertjohnsonbluesfoundation.org/biography/
-- https://www.visitgreenwood.com/news/robert-johnson-a-story-shrouded-in-mystery/
-- https://magnoliatribune.com/2023/07/13/robert-johnson-the-man-myth-legend-and-legacy/
-- https://www.udiscovermusic.com/stories/devils-music-myth-robert-johnson/
-- https://forums.synner.com/threads/story-time-robert-johnson-and-the-deal-at-the-crossroad.5745/
+  - 'https://en.wikipedia.org/wiki/Robert_Johnson'
+  - 'https://www.robertjohnsonbluesfoundation.org/biography/'
+  - >-
+    https://www.visitgreenwood.com/news/robert-johnson-a-story-shrouded-in-mystery/
+  - >-
+    https://magnoliatribune.com/2023/07/13/robert-johnson-the-man-myth-legend-and-legacy/
+  - 'https://www.udiscovermusic.com/stories/devils-music-myth-robert-johnson/'
+  - >-
+    https://forums.synner.com/threads/story-time-robert-johnson-and-the-deal-at-the-crossroad.5745/
 network_extracted: true
 entry_created: '2025-11-08T22:02:45.742453'
 last_updated: '2025-12-23T08:16:14.902521'
@@ -83,10 +86,11 @@ disambiguation: 1930s blues legend
 gender: Male
 musicbrainz_id: 8a8bbba6-72f7-4900-a306-c40b94f2631b
 tags:
-- 27 club
-- acoustic blues
-- american
-
+  - 27 club
+  - acoustic blues
+  - american
+is_active: false
+origin: 'Mississippi Delta, Mississippi, United States'
 ---
 
 ![](robert_johnson.jpg)

@@ -5,35 +5,35 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1968-10-17'
-birth_place: Kingston
+birth_place: 'Kingston, Jamaica'
 genres:
-- reggae
-- roots reggae
+  - reggae
+  - roots reggae
 instruments:
-- eponymous
-- original
-- guitar
-- piano
-- lead vocals
-- background vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
-  mbid: 7b5239b1-07ff-41ce-834b-29fe98de9970
-  name: Ziggy Marley and the Melody Makers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1b167181-db35-4e13-8b86-4bd7893b235e
-  name: The Marley Brothers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a35e4c3e-90fc-42e3-a1d5-e5f235513a1b
-  name: Marley Family Band
+  - guitar
+  - piano
+  - lead vocals
+  - background vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 7b5239b1-07ff-41ce-834b-29fe98de9970
+    name: Ziggy Marley and the Melody Makers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1b167181-db35-4e13-8b86-4bd7893b235e
+    name: The Marley Brothers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a35e4c3e-90fc-42e3-a1d5-e5f235513a1b
+    name: Marley Family Band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ziggy_marley.jpg
   caption: Ziggy Marley
@@ -55,55 +55,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sharon Marley
-  - Cedella Marley
-  - Stephen Marley
-  - Chris Frantz & Tina Weymouth
-  - Flea & John Frusciante
+    - Sharon Marley
+    - Cedella Marley
+    - Stephen Marley
+    - Chris Frantz & Tina Weymouth
+    - Flea & John Frusciante
   influenced:
-  - Stephen Marley
-  - Protoje
+    - Stephen Marley
+    - Protoje
   mentors:
-  - Bob Marley
-  - Rita Marley
+    - Bob Marley
+    - Rita Marley
 spotify_data:
   followers: 1289805
   id: 0o0rlxlC3ApLWsxFkUjMXc
   popularity: 56
-  url: https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc
+  url: 'https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc'
 discography_enriched: true
 top_tracks:
-- True To Myself (Dragonfly)
-- Beach In Hawaii (Love Is My Religion)
-- True To Myself
-- Beach in Hawaii (Love Is My Religion)
-- Beach in Hawaii (Love Is My Religion)
-- Life Is A Honeymoon (Dig Your Roots)
-- Love Is My Religion (Love Is My Religion)
-- The Heathen - Exodus 40 Mix (Exodus 40)
-- Dragonfly (Dragonfly)
-- Exodus - Exodus 40 Mix (Exodus 40)
+  - True To Myself (Dragonfly)
+  - Beach In Hawaii (Love Is My Religion)
+  - True To Myself
+  - Beach in Hawaii (Love Is My Religion)
+  - Beach in Hawaii (Love Is My Religion)
+  - Life Is A Honeymoon (Dig Your Roots)
+  - Love Is My Religion (Love Is My Religion)
+  - The Heathen - Exodus 40 Mix (Exodus 40)
+  - Dragonfly (Dragonfly)
+  - Exodus - Exodus 40 Mix (Exodus 40)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7c09d8af-895a-4337-bb46-b4b6dcabff10
-  spotify: https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc
-  wikipedia: https://en.wikipedia.org/wiki/Ziggy_Marley
+  musicbrainz: 'https://musicbrainz.org/artist/7c09d8af-895a-4337-bb46-b4b6dcabff10'
+  spotify: 'https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ziggy_Marley'
 image_path: 03_Resources/source_material/ArtistPortraits/ziggy_marley.jpg
 biography_enhanced_at: '2025-11-21T07:27:04.065163'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Ziggy_Marley
-- https://www.reggaeville.com/artist-details/ziggy-marley/about/
-- https://www.biography.com/musicians/ziggy-marley
-- https://caribbeanheritagemag.com/ziggy-marley-on-music-life-more/
+  - 'https://en.wikipedia.org/wiki/Ziggy_Marley'
+  - 'https://www.reggaeville.com/artist-details/ziggy-marley/about/'
+  - 'https://www.biography.com/musicians/ziggy-marley'
+  - 'https://caribbeanheritagemag.com/ziggy-marley-on-music-life-more/'
 network_extracted: true
 entry_created: '2025-11-21T07:27:04.065175'
 last_updated: '2025-12-23T08:16:18.452951'
 gender: Male
 musicbrainz_id: 7c09d8af-895a-4337-bb46-b4b6dcabff10
 tags:
-- nepo baby
-- reggae
+  - nepo baby
+  - reggae
+origin: 'Trenchtown, Jamaica'
 ---
 
 ![](ziggy_marley.jpg)

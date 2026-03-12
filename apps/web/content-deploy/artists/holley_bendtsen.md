@@ -1,33 +1,33 @@
 ---
-title: HOLLEY BENDTSEN
+title: Holley Bendtsen
 wiki_slug: holley-bendtsen
 schema_version: 2
 artist_type: person
 status: active
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, USA'
 genres: []
 instruments:
-- original
-- background vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - original
-  mbid: ae9473eb-1aba-4d40-8c58-566d9d5fcfd2
-  name: The Pfister Sisters
+  - background vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: ae9473eb-1aba-4d40-8c58-566d9d5fcfd2
+    name: The Pfister Sisters
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/holley_bendtsen.jpg
   caption: HOLLEY BENDTSEN
   background: solo_singer
-  origin: New Orleans, Louisiana, USA
+  origin: 'New Orleans, Louisiana, USA'
 audio_profile:
   tempo_avg: 113.9
   energy_avg: 0.617
   valence_avg: 0.764
   danceability_avg: 0.649
   acousticness_avg: 0.81
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -5.4
   speechiness_avg: 0.057
   liveness_avg: 0.138
@@ -36,38 +36,41 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Yvette Voelker
-  - Suzi Malone
-  - Debbie Davis
-  - Amasa Miller
-  - Neville Brothers, Dr. John, Linda Ronstadt, Jimmy Buffett, Marcia Ball, Charmaine Neville
+    - Yvette Voelker
+    - Suzi Malone
+    - Debbie Davis
+    - Amasa Miller
+    - >-
+      Neville Brothers, Dr. John, Linda Ronstadt, Jimmy Buffett, Marcia Ball,
+      Charmaine Neville
   influenced:
-  - Karen Stoehr
+    - Karen Stoehr
   mentors:
-  - The Boswell Sisters
+    - The Boswell Sisters
 spotify_data:
   followers: 6
   id: 6PHWagloXeEBL8V6VbXGgT
   popularity: 0
-  url: https://open.spotify.com/artist/6PHWagloXeEBL8V6VbXGgT
+  url: 'https://open.spotify.com/artist/6PHWagloXeEBL8V6VbXGgT'
 discography_enriched: true
 top_tracks:
-- Creole Moon (Vieux Carré (The French Quarter) - Sounds of New Orleans)
-- Down at the Jazzfest (Frenchmen Street - Sounds of New Orleans)
+  - Creole Moon (Vieux Carré (The French Quarter) - Sounds of New Orleans)
+  - Down at the Jazzfest (Frenchmen Street - Sounds of New Orleans)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6ad51c85-e036-4d44-ad0f-243c663f39ed
-  spotify: https://open.spotify.com/artist/6PHWagloXeEBL8V6VbXGgT
+  musicbrainz: 'https://musicbrainz.org/artist/6ad51c85-e036-4d44-ad0f-243c663f39ed'
+  spotify: 'https://open.spotify.com/artist/6PHWagloXeEBL8V6VbXGgT'
   wikipedia: null
 image_path: ''
 biography_enhanced_at: '2025-11-14T11:02:40.404050'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://pfistersisters.com/about-us
-- https://www.last.fm/music/The+Pfister+Sisters/+wiki
-- https://www.offbeat.com/music/holley-bendtsen-and-amasa-miller-our-songs-threadhead-records/
-- https://www.myneworleans.com/read-and-spin-26/
-- https://www.neworleans.com/listing/pfister-sisters/46520/
+  - 'https://pfistersisters.com/about-us'
+  - 'https://www.last.fm/music/The+Pfister+Sisters/+wiki'
+  - >-
+    https://www.offbeat.com/music/holley-bendtsen-and-amasa-miller-our-songs-threadhead-records/
+  - 'https://www.myneworleans.com/read-and-spin-26/'
+  - 'https://www.neworleans.com/listing/pfister-sisters/46520/'
 network_extracted: true
 entry_created: '2025-11-14T11:02:40.404058'
 last_updated: '2025-12-23T08:16:09.644522'

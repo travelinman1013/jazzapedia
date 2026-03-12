@@ -1,11 +1,11 @@
 ---
-title: Nat King Cole Trio
+title: The Nat King Cole Trio
 wiki_slug: nat-king-cole-trio
 schema_version: 2
 status: active
 genres:
-- vocal jazz
-- christmas
+  - vocal jazz
+  - christmas
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/nat_king_cole_trio.jpg
   caption: Nat King Cole Trio
@@ -25,52 +25,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Oscar Moore
-  - Wesley Prince
-  - Irving Ashby
-  - Johnny Miller
+    - Oscar Moore
+    - Wesley Prince
+    - Irving Ashby
+    - Johnny Miller
   influenced:
-  - Oscar Peterson
-  - Ella Fitzgerald
-  - Frank Sinatra
+    - Oscar Peterson
+    - Ella Fitzgerald
+    - Frank Sinatra
   mentors:
-  - Johnny Mercer
-  - Louis Armstrong
+    - Johnny Mercer
+    - Louis Armstrong
 spotify_data:
   followers: 198028
   id: 3OpnoUqoRIHWbsFs4Nw0NQ
   popularity: 55
-  url: https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ
+  url: 'https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ'
 discography_enriched: true
 top_tracks:
-- '''Tis Autumn'
-- I Miss You So
-- Too Marvelous For Words
-- Monday Again
-- All I Want For Christmas (Is My Two Front Teeth)
-- '''Deed I Do - Remastered 1993 (The Nat King Cole Trio - The Complete Capitol Transcription Sessions)'
-- Blue And Sentimental - 1947 Version
-- Orange Colored Sky - Remastered 2005 (The World Of Nat King Cole (Expanded Edition))
-- You're Nobody 'Til Somebody Loves You
-- All I Want For Christmas (Is My Two Front Teeth)
+  - '''Tis Autumn'
+  - I Miss You So
+  - Too Marvelous For Words
+  - Monday Again
+  - All I Want For Christmas (Is My Two Front Teeth)
+  - >-
+    'Deed I Do - Remastered 1993 (The Nat King Cole Trio - The Complete Capitol
+    Transcription Sessions)
+  - Blue And Sentimental - 1947 Version
+  - >-
+    Orange Colored Sky - Remastered 2005 (The World Of Nat King Cole (Expanded
+    Edition))
+  - You're Nobody 'Til Somebody Loves You
+  - All I Want For Christmas (Is My Two Front Teeth)
 external_urls:
-  spotify: https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ
-  wikipedia: https://en.wikipedia.org/wiki/Nat_King_Cole_Trio
+  spotify: 'https://open.spotify.com/artist/3OpnoUqoRIHWbsFs4Nw0NQ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Nat_King_Cole_Trio'
 image_path: 03_Resources/source_material/ArtistPortraits/nat_king_cole_trio.jpg
 biography_enhanced_at: '2025-11-26T08:00:03.225211'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.biography.com/musicians/nat-king-cole
-- https://www.britannica.com/biography/Nat-King-Cole
-- https://www.alamhof.org/nat-king-cole
-- https://www.nps.gov/people/nkcole.htm
-- https://thesongbook.org/hall-of-fame/songbook-hall-of-fame-honorees/nat-king-cole/
-- https://grammymuseum.org/exhibit/this-is-nat-king-cole-2/
+  - 'https://www.biography.com/musicians/nat-king-cole'
+  - 'https://www.britannica.com/biography/Nat-King-Cole'
+  - 'https://www.alamhof.org/nat-king-cole'
+  - 'https://www.nps.gov/people/nkcole.htm'
+  - >-
+    https://thesongbook.org/hall-of-fame/songbook-hall-of-fame-honorees/nat-king-cole/
+  - 'https://grammymuseum.org/exhibit/this-is-nat-king-cole-2/'
 network_extracted: true
 entry_created: '2025-11-26T08:00:03.225218'
 last_updated: '2025-12-23T08:16:13.452332'
-origin: Los Angeles, California, United States
+origin: 'Los Angeles, California, United States'
+artist_type: band
 ---
 
 ![](nat_king_cole_trio.jpg)

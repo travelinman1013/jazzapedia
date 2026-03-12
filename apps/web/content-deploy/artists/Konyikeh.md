@@ -4,22 +4,26 @@ wiki_slug: konyikeh
 schema_version: 2
 artist_type: person
 status: active
-birth_place: London, England, United Kingdom (birthplace); Essex, England, United Kingdom (raised)
+birth_place: >-
+  London, England, United Kingdom (birthplace); Essex, England, United Kingdom
+  (raised)
 genres:
-- moombahton
+  - moombahton
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Konyikeh.jpg
   caption: Konyikeh
   background: solo_singer
-  origin: London, England, United Kingdom (birthplace); Essex, England, United Kingdom (raised)
+  origin: >-
+    London, England, United Kingdom (birthplace); Essex, England, United Kingdom
+    (raised)
 audio_profile:
-  tempo_avg: 145.0
+  tempo_avg: 145
   energy_avg: 0.615
   valence_avg: 0.455
   danceability_avg: 0.675
   acousticness_avg: 0.151
   instrumentalness_avg: 0.037
-  loudness_avg: -6.0
+  loudness_avg: -6
   speechiness_avg: 0.1
   liveness_avg: 0.226
   track_count: 14
@@ -27,50 +31,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Charlie J Perry
-  - Dave
+    - Charlie J Perry
+    - Dave
   influenced: []
   mentors:
-  - Guildhall School of Music and Drama faculty
+    - Guildhall School of Music and Drama faculty
 spotify_data:
   followers: 218
   id: 2obXT8THsTW7HGrs9grKri
   popularity: 8
-  url: https://open.spotify.com/artist/2obXT8THsTW7HGrs9grKri
+  url: 'https://open.spotify.com/artist/2obXT8THsTW7HGrs9grKri'
 discography_enriched: true
 top_tracks:
-- Perfect Illusion (1010 ~ fragmentos ~)
-- 今 (feat. Kotone) (今 (feat. Kotone))
-- Un Trago Más (Un Trago Más)
-- Mejor Asi (Mejor Asi)
-- 罠 (罠)
-- 飴 (Amor) (飴 (Amor))
-- Hisa Bisa (Hisa Bisa)
-- Perfect Illusion (1010 ~ fragmentos ~)
-- 1010 (1010 ~ fragmentos ~)
-- Despídete (1010 ~ fragmentos ~)
+  - Perfect Illusion (1010 ~ fragmentos ~)
+  - 今 (feat. Kotone) (今 (feat. Kotone))
+  - Un Trago Más (Un Trago Más)
+  - Mejor Asi (Mejor Asi)
+  - 罠 (罠)
+  - 飴 (Amor) (飴 (Amor))
+  - Hisa Bisa (Hisa Bisa)
+  - Perfect Illusion (1010 ~ fragmentos ~)
+  - 1010 (1010 ~ fragmentos ~)
+  - Despídete (1010 ~ fragmentos ~)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/25f840f8-4f7c-4356-a561-4349d1782dcc
-  spotify: https://open.spotify.com/artist/2obXT8THsTW7HGrs9grKri
+  musicbrainz: 'https://musicbrainz.org/artist/25f840f8-4f7c-4356-a561-4349d1782dcc'
+  spotify: 'https://open.spotify.com/artist/2obXT8THsTW7HGrs9grKri'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/Konyikeh.jpg
 biography_enhanced_at: '2025-10-22T06:42:59.710025'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.wonderlandmagazine.com/2023/06/19/new-noise-konyikeh/
-- https://www.newwavemagazine.com/single-post/konyikeh-get-to-know
-- https://www.thefader.com/2023/04/19/konyikeh-sorrow-premiere
-- https://1883magazine.com/konyikeh/
-- https://thenativemag.com/essentials-konyikeh-litany/
-- https://colorsxstudios.com/artists/konyikeh
-- https://occhimagazine.com/out-now-sit-down-by-konyikeh/
-- https://completemusicupdate.com/approved-konyikeh/
+  - 'https://www.wonderlandmagazine.com/2023/06/19/new-noise-konyikeh/'
+  - 'https://www.newwavemagazine.com/single-post/konyikeh-get-to-know'
+  - 'https://www.thefader.com/2023/04/19/konyikeh-sorrow-premiere'
+  - 'https://1883magazine.com/konyikeh/'
+  - 'https://thenativemag.com/essentials-konyikeh-litany/'
+  - 'https://colorsxstudios.com/artists/konyikeh'
+  - 'https://occhimagazine.com/out-now-sit-down-by-konyikeh/'
+  - 'https://completemusicupdate.com/approved-konyikeh/'
 network_extracted: true
 entry_created: '2025-10-22T06:42:59.710040'
 last_updated: '2025-12-23T08:16:02.906430'
 gender: Female
 musicbrainz_id: 25f840f8-4f7c-4356-a561-4349d1782dcc
+origin: 'Essex, England, United Kingdom'
 ---
 
 ![](Konyikeh.jpg)

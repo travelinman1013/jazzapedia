@@ -3,14 +3,14 @@ title: Chuck Carbo
 wiki_slug: chuck-carbo
 schema_version: 2
 status: active
-birth_place: Houma, Louisiana, United States
+birth_place: 'Houma, Louisiana, United States'
 genres:
-- doo-wop
+  - doo-wop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Chuck_Carbo.jpg
   caption: Chuck Carbo
   background: solo_singer
-  origin: Houma, Louisiana, United States
+  origin: 'Houma, Louisiana, United States'
 audio_profile:
   tempo_avg: 118.6
   energy_avg: 0.506
@@ -26,47 +26,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Leonard 'Chick' Carbo
-  - Dave Bartholomew
-  - Dr. John (Mac Rebennack)
-  - Edward Frank
-  - Alvin Robinson
+    - Leonard 'Chick' Carbo
+    - Dave Bartholomew
+    - Dr. John (Mac Rebennack)
+    - Edward Frank
+    - Alvin Robinson
   influenced:
-  - Buddy Holly and the Crickets
+    - Buddy Holly and the Crickets
   mentors:
-  - Golden Gate Quartet
-  - King Cole Trio
+    - Golden Gate Quartet
+    - King Cole Trio
 spotify_data:
   followers: 771
   id: 4pbFsZJ317vxLwtAvmilGJ
   popularity: 5
-  url: https://open.spotify.com/artist/4pbFsZJ317vxLwtAvmilGJ
+  url: 'https://open.spotify.com/artist/4pbFsZJ317vxLwtAvmilGJ'
 discography_enriched: true
 top_tracks:
-- Can I Be Your Squeeze (Can I Be Your Squeeze / Take Care of Your Homework, Friend (Digital 45))
-- Second Line On Monday (Chuck Carbo with Ed Frank's New Orleans R&B Band)
-- Take Care of Your Homework, Friend (Can I Be Your Squeeze / Take Care of Your Homework, Friend (Digital 45))
-- Can I Be Your Main Squeeze (Eddie Bo's Funky Funky New Orleans)
-- Can I Be Your Squeeze (West Coast Funk from the Vaults of Canyon / Roker Records)
-- Meet Me With Your Black Drawers On (Meet Me At Mardi Gras)
-- Second Line on Monday (Putumayo Presents New Orleans Party)
-- Hey, Mardi Gras! (Here I Am) (The Barber's Blues)
-- Take Care of Your Homework (Eddie Bo's Funky Funky New Orleans)
-- Goodbye (Doo Wop Across America, Good News - R&B Vocal Groups in New Orleans)
+  - >-
+    Can I Be Your Squeeze (Can I Be Your Squeeze / Take Care of Your Homework,
+    Friend (Digital 45))
+  - Second Line On Monday (Chuck Carbo with Ed Frank's New Orleans R&B Band)
+  - >-
+    Take Care of Your Homework, Friend (Can I Be Your Squeeze / Take Care of
+    Your Homework, Friend (Digital 45))
+  - Can I Be Your Main Squeeze (Eddie Bo's Funky Funky New Orleans)
+  - >-
+    Can I Be Your Squeeze (West Coast Funk from the Vaults of Canyon / Roker
+    Records)
+  - Meet Me With Your Black Drawers On (Meet Me At Mardi Gras)
+  - Second Line on Monday (Putumayo Presents New Orleans Party)
+  - 'Hey, Mardi Gras! (Here I Am) (The Barber''s Blues)'
+  - Take Care of Your Homework (Eddie Bo's Funky Funky New Orleans)
+  - >-
+    Goodbye (Doo Wop Across America, Good News - R&B Vocal Groups in New
+    Orleans)
 external_urls:
-  spotify: https://open.spotify.com/artist/4pbFsZJ317vxLwtAvmilGJ
-  wikipedia: https://en.wikipedia.org/wiki/The_Spiders_(American_band)
+  spotify: 'https://open.spotify.com/artist/4pbFsZJ317vxLwtAvmilGJ'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Spiders_(American_band)'
 image_path: 03_Resources/source_material/ArtistPortraits/Chuck_Carbo.jpg
 biography_enhanced_at: '2025-10-19T10:26:36.142309'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://fromthevaults-boppinbob.blogspot.com/2023/01/chuck-carbo-born-11-january-1926.html
-- https://homeofthegroove.blogspot.com/2008/11/chuck-carbo-good-things-come-to-those.html
-- https://en.wikipedia.org/wiki/The_Spiders_(American_band)
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2023/01/chuck-carbo-born-11-january-1926.html
+  - >-
+    https://homeofthegroove.blogspot.com/2008/11/chuck-carbo-good-things-come-to-those.html
+  - 'https://en.wikipedia.org/wiki/The_Spiders_(American_band)'
 network_extracted: true
 entry_created: '2025-10-19T10:26:36.142321'
 last_updated: '2025-12-23T08:16:01.526440'
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1926-01-11'
+death_date: '2008-07-11'
+artist_type: person
 ---
 
 ![](Chuck_Carbo.jpg)

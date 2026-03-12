@@ -1,11 +1,11 @@
 ---
-title: THE WINANS
+title: The Winans
 wiki_slug: the-winans
 schema_version: 2
 status: active
 genres:
-- gospel
-- gospel r&b
+  - gospel
+  - gospel r&b
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_winans.jpg
   caption: THE WINANS
@@ -16,7 +16,7 @@ audio_profile:
   valence_avg: 0.514
   danceability_avg: 0.621
   acousticness_avg: 0.357
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -10.4
   speechiness_avg: 0.045
   liveness_avg: 0.176
@@ -25,55 +25,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Quincy Jones
-  - Vanessa Bell Armstrong
-  - Anita Baker
-  - Teddy Riley
-  - Michael McDonald
+    - Quincy Jones
+    - Vanessa Bell Armstrong
+    - Anita Baker
+    - Teddy Riley
+    - Michael McDonald
   influenced:
-  - BeBe & CeCe Winans
-  - Angie & Debbie Winans and Winans Phase 2
-  - Contemporary and urban gospel vocal groups generally
+    - BeBe & CeCe Winans
+    - Angie & Debbie Winans and Winans Phase 2
+    - Contemporary and urban gospel vocal groups generally
   mentors:
-  - Andraé Crouch
-  - David “Pop” Winans and Delores “Mom” Winans
-  - Traditional gospel quartets (Dixie Hummingbirds, Mighty Clouds of Joy, Soul Stirrers)
+    - Andraé Crouch
+    - David “Pop” Winans and Delores “Mom” Winans
+    - >-
+      Traditional gospel quartets (Dixie Hummingbirds, Mighty Clouds of Joy,
+      Soul Stirrers)
 spotify_data:
   followers: 200135
   id: 7EQrc1Kz56jCHgJ895CZJ8
   popularity: 38
-  url: https://open.spotify.com/artist/7EQrc1Kz56jCHgJ895CZJ8
+  url: 'https://open.spotify.com/artist/7EQrc1Kz56jCHgJ895CZJ8'
 discography_enriched: true
 top_tracks:
-- Ain't No Need to Worry (Decisions)
-- Tomorrow (Tomorrow)
-- Count It All Joy (Heart and Soul)
-- The Question Is (Heart and Soul)
-- A Friend (Return)
-- Millions (Decisions)
-- The Question Is (Great Family Of Gospel)
-- Gonna Be Alright (Return)
-- Ain't No Need to Worry (feat. Anita Baker) - Single Version
-- Everything You Touch Is A Song (Tomorrow)
+  - Ain't No Need to Worry (Decisions)
+  - Tomorrow (Tomorrow)
+  - Count It All Joy (Heart and Soul)
+  - The Question Is (Heart and Soul)
+  - A Friend (Return)
+  - Millions (Decisions)
+  - The Question Is (Great Family Of Gospel)
+  - Gonna Be Alright (Return)
+  - Ain't No Need to Worry (feat. Anita Baker) - Single Version
+  - Everything You Touch Is A Song (Tomorrow)
 external_urls:
-  spotify: https://open.spotify.com/artist/7EQrc1Kz56jCHgJ895CZJ8
-  wikipedia: https://en.wikipedia.org/wiki/The_Winans
+  spotify: 'https://open.spotify.com/artist/7EQrc1Kz56jCHgJ895CZJ8'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Winans'
 image_path: 03_Resources/source_material/ArtistPortraits/the_winans.jpg
 biography_enhanced_at: '2025-12-16T03:59:32.190938'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/winans
-- https://www.last.fm/music/The+Winans/+wiki
-- https://gospelmusichalloffame.org/hall-of-fame-inductees-and-honorees/the-winans
-- https://en.wikipedia.org/wiki/The_Winans
-- https://www.crossrhythms.co.uk/articles/music/The_Winans_The_RB_gospel_pioneers/40677/p1/
-- https://en.wikipedia.org/wiki/Winans_family
-- https://www.the-independent.com/news/obituaries/david-pop-winans-patriarch-of-the-winans-family-gospel-group-1710768.html
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/winans
+  - 'https://www.last.fm/music/The+Winans/+wiki'
+  - >-
+    https://gospelmusichalloffame.org/hall-of-fame-inductees-and-honorees/the-winans
+  - 'https://en.wikipedia.org/wiki/The_Winans'
+  - >-
+    https://www.crossrhythms.co.uk/articles/music/The_Winans_The_RB_gospel_pioneers/40677/p1/
+  - 'https://en.wikipedia.org/wiki/Winans_family'
+  - >-
+    https://www.the-independent.com/news/obituaries/david-pop-winans-patriarch-of-the-winans-family-gospel-group-1710768.html
 network_extracted: true
 entry_created: '2025-12-16T03:59:32.190947'
 last_updated: '2025-12-23T08:16:17.318368'
-origin: Detroit, Michigan, United States
+origin: 'Detroit, Michigan, United States'
+artist_type: band
 ---
 
 ![](the_winans.jpg)

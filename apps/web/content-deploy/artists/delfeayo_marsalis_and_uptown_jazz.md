@@ -3,51 +3,56 @@ biography_enhanced_at: '2026-01-09T01:55:10.324383'
 enhancement_provider: perplexity
 entry_created: '2026-01-09T01:55:10.324396'
 external_urls:
-  spotify: https://open.spotify.com/artist/7387cq9vzbbTmhaoezH79f
-  wikipedia: https://en.wikipedia.org/wiki/Delfeayo_Marsalis
+  spotify: 'https://open.spotify.com/artist/7387cq9vzbbTmhaoezH79f'
+  wikipedia: 'https://en.wikipedia.org/wiki/Delfeayo_Marsalis'
 genres:
-- big band
-image_path: 03_Resources/source_material/ArtistPortraits/delfeayo_marsalis_and_uptown_jazz.jpg
+  - big band
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/delfeayo_marsalis_and_uptown_jazz.jpg
 last_updated: '2026-01-09T01:55:10.324400'
 musical_connections:
   collaborators:
-  - Branford Marsalis
-  - Wynton Marsalis
-  - Ellis Marsalis Jr.
-  - Uptown Jazz Orchestra (multi‑generational New Orleans ensemble)
-  - Harry Connick Jr.
-  - Terence Blanchard
-  - Preservation Hall Jazz Band
+    - Branford Marsalis
+    - Wynton Marsalis
+    - Ellis Marsalis Jr.
+    - Uptown Jazz Orchestra (multi‑generational New Orleans ensemble)
+    - Harry Connick Jr.
+    - Terence Blanchard
+    - Preservation Hall Jazz Band
   influenced:
-  - Students of Uptown Music Theatre (UMT)
-  - Participants in “Swinging with the Cool School”
-  - Young New Orleans jazz musicians performing with the Uptown Jazz Orchestra
+    - Students of Uptown Music Theatre (UMT)
+    - Participants in “Swinging with the Cool School”
+    - Young New Orleans jazz musicians performing with the Uptown Jazz Orchestra
   mentors:
-  - Ellis Marsalis Jr.
-  - Art Blakey
-  - Abdullah Ibrahim
-  - Slide Hampton
-  - Max Roach
-  - Elvin Jones
+    - Ellis Marsalis Jr.
+    - Art Blakey
+    - Abdullah Ibrahim
+    - Slide Hampton
+    - Max Roach
+    - Elvin Jones
 network_extracted: true
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://summerfest.sanjosejazz.org/artists/delfeayo-marsalis-the-uptown-jazz-orchestra
-- https://www.jazzalley.com/www-home/artist.jsp?shownum=5019
-- https://www.efperformances.com/delfeayo-marsalis
-- https://downbeat.com/news/detail/delfeayo-marsalis-soooo-new-orleans
-- https://cacno.org/artists/delfeayomarsalis
-- https://en.wikipedia.org/wiki/Delfeayo_Marsalis
-- https://thesoraya.org/soraya-stories/en/ds-delfeayo-kirk-silsbee/
-- https://theujo.org
+  - >-
+    https://summerfest.sanjosejazz.org/artists/delfeayo-marsalis-the-uptown-jazz-orchestra
+  - 'https://www.jazzalley.com/www-home/artist.jsp?shownum=5019'
+  - 'https://www.efperformances.com/delfeayo-marsalis'
+  - 'https://downbeat.com/news/detail/delfeayo-marsalis-soooo-new-orleans'
+  - 'https://cacno.org/artists/delfeayomarsalis'
+  - 'https://en.wikipedia.org/wiki/Delfeayo_Marsalis'
+  - 'https://thesoraya.org/soraya-stories/en/ds-delfeayo-kirk-silsbee/'
+  - 'https://theujo.org'
 spotify_data:
   followers: 912
   id: 7387cq9vzbbTmhaoezH79f
   popularity: 5
-  url: https://open.spotify.com/artist/7387cq9vzbbTmhaoezH79f
+  url: 'https://open.spotify.com/artist/7387cq9vzbbTmhaoezH79f'
 status: active
 title: Delfeayo Marsalis & Uptown Jazz
+birth_place: 'New Orleans, Louisiana, United States'
+birth_date: '1965-07-28'
+artist_type: person
 ---
 
 ![](delfeayo_marsalis_and_uptown_jazz.jpg)

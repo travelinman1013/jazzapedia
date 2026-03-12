@@ -4,14 +4,15 @@ wiki_slug: massive-attack-young-fathers
 schema_version: 2
 status: active
 genres:
-- trip hop
-- downtempo
+  - trip hop
+  - downtempo
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/massive_attack_and_young_fathers.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/massive_attack_and_young_fathers.jpg
   caption: Massive Attack & Young Fathers
   background: solo_singer
 audio_profile:
-  tempo_avg: 121.0
+  tempo_avg: 121
   energy_avg: 0.533
   valence_avg: 0.363
   danceability_avg: 0.646
@@ -25,50 +26,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tricky
-  - Young Fathers
-  - Fontaines D.C.
+    - Tricky
+    - Young Fathers
+    - Fontaines D.C.
   influenced:
-  - Portishead
-  - Tricky (solo career)
-  - Various contemporary electronic and hip hop artists
+    - Portishead
+    - Tricky (solo career)
+    - Various contemporary electronic and hip hop artists
   mentors:
-  - Neneh Cherry
+    - Neneh Cherry
 spotify_data:
   followers: 2674785
   id: 6FXMGgJwohJLUSr5nVlf9X
   popularity: 69
-  url: https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X
+  url: 'https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X'
 discography_enriched: true
 top_tracks:
-- Angel (Mezzanine)
-- Teardrop (Mezzanine)
-- Unfinished Sympathy - 2012 Mix/Master (Blue Lines (2012 Mix/Master))
-- Paradise Circus (Heligoland)
-- Black Milk (Mezzanine)
-- Dissolved Girl (Mezzanine)
-- Protection (Protection)
-- Angel - Radio Edit
-- Safe From Harm - 2012 Mix/Master (Blue Lines (2012 Mix/Master))
-- Risingson (Mezzanine)
+  - Angel (Mezzanine)
+  - Teardrop (Mezzanine)
+  - Unfinished Sympathy - 2012 Mix/Master (Blue Lines (2012 Mix/Master))
+  - Paradise Circus (Heligoland)
+  - Black Milk (Mezzanine)
+  - Dissolved Girl (Mezzanine)
+  - Protection (Protection)
+  - Angel - Radio Edit
+  - Safe From Harm - 2012 Mix/Master (Blue Lines (2012 Mix/Master))
+  - Risingson (Mezzanine)
 external_urls:
-  spotify: https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X
-  wikipedia: https://en.wikipedia.org/wiki/Massive_Attack
-image_path: 03_Resources/source_material/ArtistPortraits/massive_attack_and_young_fathers.jpg
+  spotify: 'https://open.spotify.com/artist/6FXMGgJwohJLUSr5nVlf9X'
+  wikipedia: 'https://en.wikipedia.org/wiki/Massive_Attack'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/massive_attack_and_young_fathers.jpg
 biography_enhanced_at: '2025-11-12T14:43:28.122963'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Massive_Attack
-- https://www.myp-magazine.com/interview/young-fathers-a-constant-tug-of-war/
-- https://www.insomniac.com/music/artists/massive-attack/
-- https://news.artnet.com/art-world/massive-attack-robert-del-naja-art-music-activism-2596014
-- https://banbantonton.com/2024/08/24/fontaines-dc-massive-attack-young-fathers-ceasefire-battle-box/
-- https://www.releaseathens.gr/en/artist/massive-attack/
+  - 'https://en.wikipedia.org/wiki/Massive_Attack'
+  - 'https://www.myp-magazine.com/interview/young-fathers-a-constant-tug-of-war/'
+  - 'https://www.insomniac.com/music/artists/massive-attack/'
+  - >-
+    https://news.artnet.com/art-world/massive-attack-robert-del-naja-art-music-activism-2596014
+  - >-
+    https://banbantonton.com/2024/08/24/fontaines-dc-massive-attack-young-fathers-ceasefire-battle-box/
+  - 'https://www.releaseathens.gr/en/artist/massive-attack/'
 network_extracted: true
 entry_created: '2025-11-12T14:43:28.122972'
 last_updated: '2025-12-23T08:16:12.817444'
-origin: Bristol, England, UK (Massive Attack); Edinburgh, Scotland, UK (Young Fathers)
+origin: 'Bristol, England, UK (Massive Attack); Edinburgh, Scotland, UK (Young Fathers)'
+artist_type: band
 ---
 
 ![](massive_attack_and_young_fathers.jpg)

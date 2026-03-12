@@ -1,10 +1,10 @@
 ---
-title: JACK OWENS & BUD SPIRES
+title: Jack Owens & Bud Spires
 wiki_slug: jack-owens-bud-spires
 schema_version: 2
 status: active
 genres:
-- footwork
+  - footwork
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jack_owens_and_bud_spires.jpg
   caption: JACK OWENS & BUD SPIRES
@@ -24,41 +24,43 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Benjamin 'Bud' Spires
+    - Benjamin 'Bud' Spires
   influenced:
-  - Contemporary blues musicians
+    - Contemporary blues musicians
   mentors:
-  - Nehemiah 'Skip' James
-  - David Evans
+    - Nehemiah 'Skip' James
+    - David Evans
 spotify_data:
   followers: 49
   id: 0PhLuNXcI1rDyeOsvJ2Pww
   popularity: 0
-  url: https://open.spotify.com/artist/0PhLuNXcI1rDyeOsvJ2Pww
+  url: 'https://open.spotify.com/artist/0PhLuNXcI1rDyeOsvJ2Pww'
 discography_enriched: true
 top_tracks:
-- Hard Times (feat. Bud Spires) (The Last Giants Of Mississippi Blues)
-- My Baby's Gone (The Last Giants Of Mississippi Blues)
-- Keep On Rumblin (The Last Giants Of Mississippi Blues)
-- Cool Water (The Last Giants Of Mississippi Blues)
-- Devil (feat. Bud Spires) (The Last Giants Of Mississippi Blues)
+  - Hard Times (feat. Bud Spires) (The Last Giants Of Mississippi Blues)
+  - My Baby's Gone (The Last Giants Of Mississippi Blues)
+  - Keep On Rumblin (The Last Giants Of Mississippi Blues)
+  - Cool Water (The Last Giants Of Mississippi Blues)
+  - Devil (feat. Bud Spires) (The Last Giants Of Mississippi Blues)
 external_urls:
-  spotify: https://open.spotify.com/artist/0PhLuNXcI1rDyeOsvJ2Pww
-  wikipedia: https://en.wikipedia.org/wiki/Jack_Owens_(blues_singer)
+  spotify: 'https://open.spotify.com/artist/0PhLuNXcI1rDyeOsvJ2Pww'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jack_Owens_(blues_singer)'
 image_path: ''
 biography_enhanced_at: '2025-11-20T07:17:24.284414'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://mississippifolklife.org/exhibits/jack-owens
-- https://visityazoo.org/jack-owens/
-- https://www.arts.gov/honors/heritage/jack-owens
-- https://en.wikipedia.org/wiki/Jack_Owens_(blues_singer)
-- https://msbluestrail.org/blues-trail-markers/jack-owens
+  - 'https://mississippifolklife.org/exhibits/jack-owens'
+  - 'https://visityazoo.org/jack-owens/'
+  - 'https://www.arts.gov/honors/heritage/jack-owens'
+  - 'https://en.wikipedia.org/wiki/Jack_Owens_(blues_singer)'
+  - 'https://msbluestrail.org/blues-trail-markers/jack-owens'
 network_extracted: true
 entry_created: '2025-11-20T07:17:24.284426'
 last_updated: '2025-12-23T08:16:10.018282'
-origin: Bentonia, Yazoo County, Mississippi, United States
+origin: 'Bentonia, Yazoo County, Mississippi, United States'
+birth_place: 'Bentonia, Mississippi, United States'
+artist_type: band
 ---
 
 ![]()

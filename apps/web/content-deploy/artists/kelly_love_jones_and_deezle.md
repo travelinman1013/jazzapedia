@@ -3,13 +3,13 @@ title: Kelly Love Jones & Deezle
 wiki_slug: kelly-love-jones-deezle
 schema_version: 2
 status: active
-birth_place: New Orleans East, Louisiana, USA
+birth_place: 'New Orleans East, Louisiana, USA'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/kelly_love_jones_and_deezle.jpg
   caption: Kelly Love Jones & Deezle
   background: solo_singer
-  origin: New Orleans East, Louisiana, USA
+  origin: 'New Orleans East, Louisiana, USA'
 audio_profile:
   tempo_avg: 125.5
   energy_avg: 0.539
@@ -25,50 +25,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Deezle (Darius Harrison)
-  - James Alsanders
-  - The Original Pinettes Brass Band
-  - Lilli Lewis
-  - Joy Clark
-  - Yusa
+    - Deezle (Darius Harrison)
+    - James Alsanders
+    - The Original Pinettes Brass Band
+    - Lilli Lewis
+    - Joy Clark
+    - Yusa
   influenced: []
   mentors:
-  - Sade
-  - Chaka Khan
-  - George Porter Jr.
+    - Sade
+    - Chaka Khan
+    - George Porter Jr.
 spotify_data:
   followers: 1103
   id: 24E9v284AGlG4hZcnOEnS9
   popularity: 3
-  url: https://open.spotify.com/artist/24E9v284AGlG4hZcnOEnS9
+  url: 'https://open.spotify.com/artist/24E9v284AGlG4hZcnOEnS9'
 discography_enriched: true
 top_tracks:
-- String Theory (Back From a Break)
-- Eton Rifles - Live At The Royal Albert Hall (Find The Torch, Burn The Plans (Paul Weller Live 2010))
-- Have a Nice Day (Arr. for Guitar)
-- Have a Nice Day (Arr. for Piano) (Piano Covers 6)
-- 'Dakota (Arr. for Piano) (Piano Covers: 14 Beautiful Piano Arrangements of Pop Hits)'
-- Foreign Shore (Back From a Break)
-- LA Today (LA Today)
-- Invincible (Invincible)
-- The Clichés Are True - Radio Mix (The Clichés Are True)
-- Have a Nice Day (Arr. for Guitar)
+  - String Theory (Back From a Break)
+  - >-
+    Eton Rifles - Live At The Royal Albert Hall (Find The Torch, Burn The Plans
+    (Paul Weller Live 2010))
+  - Have a Nice Day (Arr. for Guitar)
+  - Have a Nice Day (Arr. for Piano) (Piano Covers 6)
+  - >-
+    Dakota (Arr. for Piano) (Piano Covers: 14 Beautiful Piano Arrangements of
+    Pop Hits)
+  - Foreign Shore (Back From a Break)
+  - LA Today (LA Today)
+  - Invincible (Invincible)
+  - The Clichés Are True - Radio Mix (The Clichés Are True)
+  - Have a Nice Day (Arr. for Guitar)
 external_urls:
-  spotify: https://open.spotify.com/artist/24E9v284AGlG4hZcnOEnS9
+  spotify: 'https://open.spotify.com/artist/24E9v284AGlG4hZcnOEnS9'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/kelly_love_jones_and_deezle.jpg
 biography_enhanced_at: '2025-12-15T01:25:03.649752'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.offbeat.com/articles/alchemist-of-people-kelly-love-jones-music-that-touches-people-janedit/
-- https://www.neworleans.com/listing/kelly-love-jones/48378/
-- https://www.kellylovejonesmusic.com/about-klj
-- https://astudiointhewoods.org/artist/kelly-jones/
-- https://boldjourney.com/meet-kelly-love-jones/
+  - >-
+    https://www.offbeat.com/articles/alchemist-of-people-kelly-love-jones-music-that-touches-people-janedit/
+  - 'https://www.neworleans.com/listing/kelly-love-jones/48378/'
+  - 'https://www.kellylovejonesmusic.com/about-klj'
+  - 'https://astudiointhewoods.org/artist/kelly-jones/'
+  - 'https://boldjourney.com/meet-kelly-love-jones/'
 network_extracted: true
 entry_created: '2025-12-15T01:25:03.649780'
 last_updated: '2025-12-23T08:16:11.271725'
+artist_type: band
 ---
 
 ![](kelly_love_jones_and_deezle.jpg)

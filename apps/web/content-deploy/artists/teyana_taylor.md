@@ -4,35 +4,37 @@ birth_place: United States
 enhancement_provider: perplexity
 entry_created: '2026-01-21T01:12:39.669338'
 external_urls:
-  spotify: https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a
-  wikipedia: https://en.wikipedia.org/wiki/Teyana_Taylor
+  spotify: 'https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a'
+  wikipedia: 'https://en.wikipedia.org/wiki/Teyana_Taylor'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/teyana_taylor.jpg
 last_updated: '2026-01-21T01:12:39.669339'
 musical_connections:
   collaborators:
-  - Missy Elliott
-  - Lauryn Hill
-  - Erykah Badu
-  - Kehlani
+    - Missy Elliott
+    - Lauryn Hill
+    - Erykah Badu
+    - Kehlani
   influenced: []
   mentors:
-  - Pharrell Williams
-  - Kanye West
+    - Pharrell Williams
+    - Kanye West
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Teyana_Taylor
-- https://wbssmedia.com/artists/detail/3101
-- https://www.revolt.tv/article/fun-facts-about-teyana-taylor
-- https://www.fandango.com/people/teyana-taylor-663581/biography
+  - 'https://en.wikipedia.org/wiki/Teyana_Taylor'
+  - 'https://wbssmedia.com/artists/detail/3101'
+  - 'https://www.revolt.tv/article/fun-facts-about-teyana-taylor'
+  - 'https://www.fandango.com/people/teyana-taylor-663581/biography'
 spotify_data:
   followers: 2156768
   id: 4ULO7IGI3M2bo0Ap7B9h8a
   popularity: 62
-  url: https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a
+  url: 'https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a'
 status: active
 title: Teyana Taylor
+birth_date: '1990-12-10'
+artist_type: person
 ---
 
 ![](teyana_taylor.jpg)

@@ -2,48 +2,48 @@
 artist_type: person
 biography_enhanced_at: '2026-01-07T01:20:21.107438'
 birth_date: '1979-06-03'
-birth_place: Khyber Pakhtunkhwa
+birth_place: 'Islamabad, Pakistan, Country'
 enhancement_provider: perplexity
 entry_created: '2026-01-07T01:20:21.107442'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a30e3a7b-cd14-4e63-ba22-04d02ee6fe26
-  spotify: https://open.spotify.com/artist/29kKbjcszEVA7C19ehLvqD
+  musicbrainz: 'https://musicbrainz.org/artist/a30e3a7b-cd14-4e63-ba22-04d02ee6fe26'
+  spotify: 'https://open.spotify.com/artist/29kKbjcszEVA7C19ehLvqD'
   wikipedia: ''
 gender: Female
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/rumer.jpg
 instruments:
-- background vocals
-- lead vocals
+  - background vocals
+  - lead vocals
 last_updated: '2026-01-07T01:20:21.107443'
 musical_connections:
   collaborators:
-  - Jools Holland
-  - Rob Shirakbari
+    - Jools Holland
+    - Rob Shirakbari
   influenced: []
   mentors:
-  - Burt Bacharach
-  - Jools Holland
+    - Burt Bacharach
+    - Jools Holland
 musicbrainz_id: a30e3a7b-cd14-4e63-ba22-04d02ee6fe26
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.aaemusic.com/artist/rumer
-- https://www.theaudiodb.com/artist/112634-Rumer
-- https://www.imdb.com/name/nm4208186/bio/
-- https://www.jango.com/music/Rumer/_full_bio
-- https://www.popentertainmentarchives.com/post/rumer-a-change-of-seasons
+  - 'https://www.aaemusic.com/artist/rumer'
+  - 'https://www.theaudiodb.com/artist/112634-Rumer'
+  - 'https://www.imdb.com/name/nm4208186/bio/'
+  - 'https://www.jango.com/music/Rumer/_full_bio'
+  - 'https://www.popentertainmentarchives.com/post/rumer-a-change-of-seasons'
 spotify_data:
   followers: 3780
   id: 29kKbjcszEVA7C19ehLvqD
   popularity: 30
-  url: https://open.spotify.com/artist/29kKbjcszEVA7C19ehLvqD
+  url: 'https://open.spotify.com/artist/29kKbjcszEVA7C19ehLvqD'
 status: active
 tags:
-- country
-- easy listening
-- english
-title: rumer
+  - country
+  - easy listening
+  - english
+title: Rumer
 ---
 
 ![](rumer.jpg)

@@ -2,20 +2,20 @@
 title: Melody Gardot
 wiki_slug: melody-gardot
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1985-02-02'
-birth_place: New Jersey, United States
+birth_place: 'New Jersey, United States'
 genres:
-- vocal jazz
-- french jazz
-- jazz
+  - vocal jazz
+  - french jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Melody_Gardot.jpg
   caption: Melody Gardot
   background: solo_singer
   born: '1985-02-02'
-  origin: New Jersey, United States
+  origin: 'New Jersey, United States'
 audio_profile:
   tempo_avg: 105.5
   energy_avg: 0.311
@@ -31,47 +31,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Glenn Barratt
-  - Larry Klein
-  - Jesse Harris
-  - Vince Mendoza
+    - Glenn Barratt
+    - Larry Klein
+    - Jesse Harris
+    - Vince Mendoza
   influenced:
-  - No widely documented direct proteges or students
+    - No widely documented direct proteges or students
   mentors:
-  - Her classical piano teacher
-  - Ella Fitzgerald, Billie Holiday, Nina Simone
+    - Her classical piano teacher
+    - 'Ella Fitzgerald, Billie Holiday, Nina Simone'
 spotify_data:
   followers: 752715
   id: 2P1puQXmG48EVLBrHbum1J
   popularity: 59
-  url: https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J
+  url: 'https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J'
 discography_enriched: true
 top_tracks:
-- Morning Sun (Currency Of Man)
-- If You Love Me (Sunset In The Blue)
-- Worrisome Heart (Worrisome Heart)
-- Baby I'm A Fool (My One And Only Thrill)
-- Preacherman (Currency Of Man)
-- Baby I'm A Fool (My One And Only Thrill)
-- From Paris With Love - Single Version (Sunset In The Blue)
-- Les Etoiles (My One And Only Thrill)
-- Les Etoiles (My One And Only Thrill)
-- Your Heart Is As Black As Night (My One And Only Thrill)
+  - Morning Sun (Currency Of Man)
+  - If You Love Me (Sunset In The Blue)
+  - Worrisome Heart (Worrisome Heart)
+  - Baby I'm A Fool (My One And Only Thrill)
+  - Preacherman (Currency Of Man)
+  - Baby I'm A Fool (My One And Only Thrill)
+  - From Paris With Love - Single Version (Sunset In The Blue)
+  - Les Etoiles (My One And Only Thrill)
+  - Les Etoiles (My One And Only Thrill)
+  - Your Heart Is As Black As Night (My One And Only Thrill)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c47267ed-7482-40bb-a4ea-e1399cc8ce04
-  spotify: https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J
-  wikipedia: https://en.wikipedia.org/wiki/Melody_Gardot
+  musicbrainz: 'https://musicbrainz.org/artist/c47267ed-7482-40bb-a4ea-e1399cc8ce04'
+  spotify: 'https://open.spotify.com/artist/2P1puQXmG48EVLBrHbum1J'
+  wikipedia: 'https://en.wikipedia.org/wiki/Melody_Gardot'
 image_path: 03_Resources/source_material/ArtistPortraits/Melody_Gardot.jpg
 biography_enhanced_at: '2025-10-20T01:42:18.419290'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.allaboutjazz.com/musicians/melody-gardot/
-- https://www.everythingjazz.com/story/melody-gardot-dont-be-afraid-of-jazz/
-- https://www.interviewmagazine.com/music/melody-gardot
-- https://www.udiscovermusic.com/artist/melody-gardot/
-- https://www.last.fm/music/Melody+Gardot/+wiki
-- https://longwoodgardens.org/events-performances/events/melody-gardot
+  - 'https://www.allaboutjazz.com/musicians/melody-gardot/'
+  - 'https://www.everythingjazz.com/story/melody-gardot-dont-be-afraid-of-jazz/'
+  - 'https://www.interviewmagazine.com/music/melody-gardot'
+  - 'https://www.udiscovermusic.com/artist/melody-gardot/'
+  - 'https://www.last.fm/music/Melody+Gardot/+wiki'
+  - 'https://longwoodgardens.org/events-performances/events/melody-gardot'
 network_extracted: true
 entry_created: '2025-10-20T01:42:18.419308'
 last_updated: '2025-12-23T08:16:03.279505'
@@ -79,9 +79,9 @@ gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:37:41.136800'
 musicbrainz_id: c47267ed-7482-40bb-a4ea-e1399cc8ce04
 tags:
-- french jazz
-- jazz
-- pop
+  - french jazz
+  - jazz
+  - pop
 ---
 
 ![](Melody_Gardot.jpg)

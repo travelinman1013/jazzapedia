@@ -3,14 +3,14 @@ title: Thomas Marriott
 wiki_slug: thomas-marriott
 schema_version: 2
 status: active
-birth_place: Seattle, Washington, United States
+birth_place: 'Seattle, Washington, United States'
 genres:
-- hard bop
+  - hard bop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Thomas_Marriott.jpg
   caption: Thomas Marriott
   background: solo_singer
-  origin: Seattle, Washington, United States
+  origin: 'Seattle, Washington, United States'
 audio_profile:
   tempo_avg: 112.9
   energy_avg: 0.4
@@ -26,48 +26,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ray Vega
-  - Joe Locke
-  - Orrin Evans
-  - Spanish Harlem Orchestra
-  - Kurt Elling
+    - Ray Vega
+    - Joe Locke
+    - Orrin Evans
+    - Spanish Harlem Orchestra
+    - Kurt Elling
   influenced:
-  - Seattle Jazz Community
+    - Seattle Jazz Community
   mentors:
-  - Maynard Ferguson
-  - Don Lanphere
-  - Family (Grandfather and Father)
+    - Maynard Ferguson
+    - Don Lanphere
+    - Family (Grandfather and Father)
 spotify_data:
   followers: 996
   id: 3mHb5fCjP4jCzs8ZF5ja5u
   popularity: 6
-  url: https://open.spotify.com/artist/3mHb5fCjP4jCzs8ZF5ja5u
+  url: 'https://open.spotify.com/artist/3mHb5fCjP4jCzs8ZF5ja5u'
 discography_enriched: true
 top_tracks:
-- Dexter's Tune (Screen Time)
-- It's Such A Good Feeling (Screen Time)
-- You Only Live Twice (Screen Time)
-- Reading Rainbow (Screen Time)
-- Piggyback (Romance Language)
-- Screen Time (Screen Time)
-- Dexter's Tune
-- Summer Nights (Screen Time)
-- Skip Intro (Screen Time)
-- Pájaro Lindo (Vacilón Santiaguero)
+  - Dexter's Tune (Screen Time)
+  - It's Such A Good Feeling (Screen Time)
+  - You Only Live Twice (Screen Time)
+  - Reading Rainbow (Screen Time)
+  - Piggyback (Romance Language)
+  - Screen Time (Screen Time)
+  - Dexter's Tune
+  - Summer Nights (Screen Time)
+  - Skip Intro (Screen Time)
+  - Pájaro Lindo (Vacilón Santiaguero)
 external_urls:
-  spotify: https://open.spotify.com/artist/3mHb5fCjP4jCzs8ZF5ja5u
+  spotify: 'https://open.spotify.com/artist/3mHb5fCjP4jCzs8ZF5ja5u'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/Thomas_Marriott.jpg
 biography_enhanced_at: '2025-10-20T09:14:14.447631'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- All About Jazz
-- Thomas Marriott official website
-- Yamaha Artists
+  - All About Jazz
+  - Thomas Marriott official website
+  - Yamaha Artists
 network_extracted: true
 entry_created: '2025-10-20T09:14:14.447647'
 last_updated: '2025-12-23T08:16:04.163679'
+artist_type: person
 ---
 
 ![](Thomas_Marriott.jpg)

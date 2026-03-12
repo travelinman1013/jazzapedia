@@ -4,7 +4,7 @@ wiki_slug: the-wild-west
 schema_version: 2
 status: active
 genres:
-- southern rock
+  - southern rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_wild_west.jpg
   caption: The Wild West
@@ -16,7 +16,7 @@ audio_profile:
   danceability_avg: 0.597
   acousticness_avg: 0.665
   instrumentalness_avg: 0.044
-  loudness_avg: -13.0
+  loudness_avg: -13
   speechiness_avg: 0.053
   liveness_avg: 0.203
   track_count: 35
@@ -24,43 +24,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bob Clearmountain
-  - Scarlet Rivera
+    - Bob Clearmountain
+    - Scarlet Rivera
   influenced: []
   mentors:
-  - Neil Young
-  - Scarlet Rivera
+    - Neil Young
+    - Scarlet Rivera
 spotify_data:
   followers: 100
   id: 0DpbC7eK20rT1fGZekrNG4
   popularity: 0
-  url: https://open.spotify.com/artist/0DpbC7eK20rT1fGZekrNG4
+  url: 'https://open.spotify.com/artist/0DpbC7eK20rT1fGZekrNG4'
 discography_enriched: true
 top_tracks:
-- Comes A Time (Comes A Time)
-- Better Way (Better Way)
-- Hooves of the Horses (A Western Jubilee, Songs and Stories of the American West)
-- Hooves of the Horses (Elko)
-- Hooves of the Horses (Hooves of the Horses)
-- I Grab My Saddle Horn and Blow (Hooves of the Horses)
-- Everyday (Hooves of the Horses)
-- Equus Caballus (Hooves of the Horses)
-- Leather Lover (Hooves of the Horses)
-- Out Here (Hooves of the Horses)
+  - Comes A Time (Comes A Time)
+  - Better Way (Better Way)
+  - >-
+    Hooves of the Horses (A Western Jubilee, Songs and Stories of the American
+    West)
+  - Hooves of the Horses (Elko)
+  - Hooves of the Horses (Hooves of the Horses)
+  - I Grab My Saddle Horn and Blow (Hooves of the Horses)
+  - Everyday (Hooves of the Horses)
+  - Equus Caballus (Hooves of the Horses)
+  - Leather Lover (Hooves of the Horses)
+  - Out Here (Hooves of the Horses)
 external_urls:
-  spotify: https://open.spotify.com/artist/0DpbC7eK20rT1fGZekrNG4
+  spotify: 'https://open.spotify.com/artist/0DpbC7eK20rT1fGZekrNG4'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/the_wild_west.jpg
 biography_enhanced_at: '2025-10-27T02:35:30.562923'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.thewildwestmusic.com
-- https://www.rockandbluesmuse.com/2021/08/11/15-southern-rock-roots-rock-bands-you-need-to-know-about-2021/
+  - 'https://www.thewildwestmusic.com'
+  - >-
+    https://www.rockandbluesmuse.com/2021/08/11/15-southern-rock-roots-rock-bands-you-need-to-know-about-2021/
 network_extracted: true
 entry_created: '2025-10-27T02:35:30.562944'
 last_updated: '2025-12-23T08:16:17.314377'
-origin: Los Angeles, California, United States
+origin: 'Los Angeles, California, United States'
+artist_type: person
 ---
 
 ![](the_wild_west.jpg)

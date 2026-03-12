@@ -5,13 +5,13 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1958-12-28'
-birth_place: Tulsa
+birth_place: 'Tulsa, Oklahoma, United States'
 death_date: '2020-03-29'
 genres:
-- country
+  - country
 instruments:
-- lead vocals
-- background vocals
+  - lead vocals
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/joe_diffie.jpg
   caption: Joe Diffie
@@ -34,56 +34,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mary Chapin Carpenter
-  - George Jones
-  - Marty Stuart
-  - Lonestar, Charlie Daniels, Craig Morgan
+    - Mary Chapin Carpenter
+    - George Jones
+    - Marty Stuart
+    - 'Lonestar, Charlie Daniels, Craig Morgan'
   influenced:
-  - Holly Dunn
-  - Tim McGraw
-  - Jo Dee Messina
-  - Gary Barlow
+    - Holly Dunn
+    - Tim McGraw
+    - Jo Dee Messina
+    - Gary Barlow
   mentors:
-  - Bob Montgomery
+    - Bob Montgomery
 spotify_data:
   followers: 923443
   id: 3THMgU4KdL7LlO5TEREs2g
   popularity: 59
-  url: https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g
+  url: 'https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g'
 discography_enriched: true
 top_tracks:
-- Pickup Man (Third Rock From The Sun)
-- I Don't Need Your Rockin' Chair - Version w/special guests
-- Pickup Man
-- John Deere Green (Honky Tonk Attitude)
-- Pickup Man
-- John Deere Green
-- Prop Me Up Beside the Jukebox (If I Die) (Honky Tonk Attitude)
-- John Deere Green
-- Same Old Train
-- 'Pickup Man (HIXTAPE: Vol. 3: DIFFTAPE)'
+  - Pickup Man (Third Rock From The Sun)
+  - I Don't Need Your Rockin' Chair - Version w/special guests
+  - Pickup Man
+  - John Deere Green (Honky Tonk Attitude)
+  - Pickup Man
+  - John Deere Green
+  - Prop Me Up Beside the Jukebox (If I Die) (Honky Tonk Attitude)
+  - John Deere Green
+  - Same Old Train
+  - 'Pickup Man (HIXTAPE: Vol. 3: DIFFTAPE)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/98b31574-fa4c-4cf1-bf32-681f7df45fe3
-  spotify: https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g
-  wikipedia: https://en.wikipedia.org/wiki/Joe_Diffie
+  musicbrainz: 'https://musicbrainz.org/artist/98b31574-fa4c-4cf1-bf32-681f7df45fe3'
+  spotify: 'https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g'
+  wikipedia: 'https://en.wikipedia.org/wiki/Joe_Diffie'
 image_path: 03_Resources/source_material/ArtistPortraits/joe_diffie.jpg
 biography_enhanced_at: '2025-12-22T01:41:59.212129'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Joe Diffie
-- Last.fm - Joe Diffie
-- Alan Cackett - Joe Diffie Obituary
-- IMDb - Joe Diffie Biography
+  - Wikipedia - Joe Diffie
+  - Last.fm - Joe Diffie
+  - Alan Cackett - Joe Diffie Obituary
+  - IMDb - Joe Diffie Biography
 network_extracted: true
 entry_created: '2025-12-22T01:41:59.212135'
 last_updated: '2025-12-23T08:16:10.590306'
 gender: Male
 musicbrainz_id: 98b31574-fa4c-4cf1-bf32-681f7df45fe3
 tags:
-- country
-- death by covid-19
-
+  - country
+  - death by covid-19
+is_active: false
 ---
 
 ![](joe_diffie.jpg)

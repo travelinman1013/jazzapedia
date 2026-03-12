@@ -3,39 +3,46 @@ biography_enhanced_at: '2025-12-29T01:20:42.770753'
 enhancement_provider: perplexity
 entry_created: '2025-12-29T01:20:42.770767'
 external_urls:
-  spotify: https://open.spotify.com/artist/732jug7w8C7nwV7ympCH0G
-  wikipedia: https://fr.wikipedia.org/wiki/Brain_Damage_(groupe_de_dub)
+  spotify: 'https://open.spotify.com/artist/732jug7w8C7nwV7ympCH0G'
+  wikipedia: 'https://fr.wikipedia.org/wiki/Brain_Damage_(groupe_de_dub)'
 genres:
-- gnawa
-- dub
-- lovers rock
-image_path: 03_Resources/source_material/ArtistPortraits/brain_damage_emiko_ota_mad_professor.jpg
+  - gnawa
+  - dub
+  - lovers rock
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/brain_damage_emiko_ota_mad_professor.jpg
 last_updated: '2025-12-29T01:20:42.770768'
 musical_connections:
   collaborators:
-  - Emiko Ota
-  - Mad Professor
-  - Raphaël Talis
+    - Emiko Ota
+    - Mad Professor
+    - Raphaël Talis
   influenced: []
   mentors:
-  - Mad Professor
+    - Mad Professor
 network_extracted: true
-origin: Saint-Étienne, France (Brain Damage); Osaka, Japan (Emiko Ota birthplace);
-  UK (Mad Professor)
+origin: >-
+  Saint-Étienne, France (Brain Damage); Osaka, Japan (Emiko Ota birthplace); UK
+  (Mad Professor)
 primary_source: perplexity
 research_sources:
-- http://www.truthandliesmusic.com/magazine/brain-damage-x-emiko-ota-x-mad-professor-oide-oide-jarring-effects-a-review
-- https://www.reviewsphere.org/brain-damage-x-emiko-ota-x-mad-professor-release-new-album-oide-oide/
-- https://brain-damage.fr/music/oide-oide/
-- https://fr.wikipedia.org/wiki/Brain_Damage_(groupe_de_dub)
-- https://www.thetonearm.com/the-yokai-in-the-yard-brain-damage-post-dub-pivot/
+  - >-
+    http://www.truthandliesmusic.com/magazine/brain-damage-x-emiko-ota-x-mad-professor-oide-oide-jarring-effects-a-review
+  - >-
+    https://www.reviewsphere.org/brain-damage-x-emiko-ota-x-mad-professor-release-new-album-oide-oide/
+  - 'https://brain-damage.fr/music/oide-oide/'
+  - 'https://fr.wikipedia.org/wiki/Brain_Damage_(groupe_de_dub)'
+  - >-
+    https://www.thetonearm.com/the-yokai-in-the-yard-brain-damage-post-dub-pivot/
 spotify_data:
   followers: 36
   id: 732jug7w8C7nwV7ympCH0G
   popularity: 3
-  url: https://open.spotify.com/artist/732jug7w8C7nwV7ympCH0G
+  url: 'https://open.spotify.com/artist/732jug7w8C7nwV7ympCH0G'
 status: active
-title: Brain Damage, Emiko Ota, Mad Professor
+title: 'Brain Damage, Emiko Ota, Mad Professor'
+birth_place: 'Osaka, Japan'
+artist_type: person
 ---
 
 ![](brain_damage_emiko_ota_mad_professor.jpg)

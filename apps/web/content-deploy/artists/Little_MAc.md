@@ -3,20 +3,20 @@ title: Little MAc
 wiki_slug: little-mac
 schema_version: 2
 status: active
-birth_place: Twist, Arkansas, United States
+birth_place: 'Twist, Arkansas, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Little_MAc.jpg
   caption: Little MAc
   background: solo_singer
-  origin: Twist, Arkansas, United States
+  origin: 'Twist, Arkansas, United States'
 audio_profile:
   tempo_avg: 116.2
   energy_avg: 0.749
   valence_avg: 0.542
   danceability_avg: 0.642
   acousticness_avg: 0.146
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -4.6
   speechiness_avg: 0.093
   liveness_avg: 0.206
@@ -25,46 +25,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Studebaker John
-  - John Primer
-  - Willie Kent
-  - Jake Dawson
+    - Studebaker John
+    - John Primer
+    - Willie Kent
+    - Jake Dawson
   influenced:
-  - Chicago blues musicians (various)
+    - Chicago blues musicians (various)
   mentors:
-  - James Cotton
-  - Robert Nighthawk
+    - James Cotton
+    - Robert Nighthawk
 spotify_data:
   followers: 12326211
   id: 3e7awlrlDSwF3iM0WBjGMp
   popularity: 71
-  url: https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp
+  url: 'https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp'
 discography_enriched: true
 top_tracks:
-- Black Magic (Get Weird (Expanded Edition))
-- Love Me Like You (Get Weird (Expanded Edition))
-- Secret Love Song (feat. Jason Derulo) (Get Weird (Expanded Edition))
-- Power (Glory Days (Expanded Edition))
-- Shout Out to My Ex (Glory Days (Expanded Edition))
-- Heartbreak Anthem (with David Guetta & Little Mix)
-- Touch (Glory Days (Expanded Edition))
-- Woman Like Me (feat. Nicki Minaj) (LM5 (Deluxe))
-- Love Me or Leave Me (Get Weird (Expanded Edition))
-- Wings (DNA (Expanded Edition))
+  - Black Magic (Get Weird (Expanded Edition))
+  - Love Me Like You (Get Weird (Expanded Edition))
+  - Secret Love Song (feat. Jason Derulo) (Get Weird (Expanded Edition))
+  - Power (Glory Days (Expanded Edition))
+  - Shout Out to My Ex (Glory Days (Expanded Edition))
+  - Heartbreak Anthem (with David Guetta & Little Mix)
+  - Touch (Glory Days (Expanded Edition))
+  - Woman Like Me (feat. Nicki Minaj) (LM5 (Deluxe))
+  - Love Me or Leave Me (Get Weird (Expanded Edition))
+  - Wings (DNA (Expanded Edition))
 external_urls:
-  spotify: https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp
-  wikipedia: https://en.wikipedia.org/wiki/Little_Mack_Simmons
+  spotify: 'https://open.spotify.com/artist/3e7awlrlDSwF3iM0WBjGMp'
+  wikipedia: 'https://en.wikipedia.org/wiki/Little_Mack_Simmons'
 image_path: 03_Resources/source_material/ArtistPortraits/Little_MAc.jpg
 biography_enhanced_at: '2025-10-19T10:42:12.998937'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Little_Mack_Simmons
-- https://kids.kiddle.co/Little_Mack_Simmons
-- https://wbssmedia.com/artists/detail/3576
+  - 'https://en.wikipedia.org/wiki/Little_Mack_Simmons'
+  - 'https://kids.kiddle.co/Little_Mack_Simmons'
+  - 'https://wbssmedia.com/artists/detail/3576'
 network_extracted: true
 entry_created: '2025-10-19T10:42:12.998949'
 last_updated: '2025-12-23T08:16:03.036214'
+origin: 'Chicago, Illinois, United States'
+birth_date: '1933-01-25'
+death_date: '2000-10-24'
+artist_type: person
 ---
 
 ![](Little_MAc.jpg)

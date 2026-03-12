@@ -3,13 +3,13 @@ title: Gerald Beckett
 wiki_slug: gerald-beckett
 schema_version: 2
 status: active
-birth_place: Beaumont, Texas, United States
+birth_place: 'Beaumont, Texas, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/gerald_beckett.jpg
   caption: Gerald Beckett
   background: solo_singer
-  origin: Beaumont, Texas, United States
+  origin: 'Beaumont, Texas, United States'
 audio_profile:
   tempo_avg: 110.8
   energy_avg: 0.38
@@ -25,46 +25,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Gerald Beckett Quintet
+    - Gerald Beckett Quintet
   influenced: []
   mentors:
-  - San Francisco Conservatory of Music
-  - University of North Texas
+    - San Francisco Conservatory of Music
+    - University of North Texas
 spotify_data:
   followers: 319
   id: 6hsbEvqIkCplFt0Zaox7XA
   popularity: 1
-  url: https://open.spotify.com/artist/6hsbEvqIkCplFt0Zaox7XA
+  url: 'https://open.spotify.com/artist/6hsbEvqIkCplFt0Zaox7XA'
 discography_enriched: true
 top_tracks:
-- So What (Oblivion)
-- Davito (Oblivion)
-- Swinging at the Haven (Oblivion)
-- Sularin's Dogma (The Messenger)
-- Why Wait (Standard Flute)
-- Fami-Lee (FluteVibes)
-- Down Low (Mood)
-- Spirit Song (Mood)
-- Doom (Mood)
-- John Neely-Beautiful People (Mood)
+  - So What (Oblivion)
+  - Davito (Oblivion)
+  - Swinging at the Haven (Oblivion)
+  - Sularin's Dogma (The Messenger)
+  - Why Wait (Standard Flute)
+  - Fami-Lee (FluteVibes)
+  - Down Low (Mood)
+  - Spirit Song (Mood)
+  - Doom (Mood)
+  - John Neely-Beautiful People (Mood)
 external_urls:
-  spotify: https://open.spotify.com/artist/6hsbEvqIkCplFt0Zaox7XA
+  spotify: 'https://open.spotify.com/artist/6hsbEvqIkCplFt0Zaox7XA'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/gerald_beckett.jpg
 biography_enhanced_at: '2025-12-04T07:46:46.304480'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- RecentMusic - Gerald Beckett New Releases
-- Red Poppy Art House - The Gerald Beckett Quintet
-- Bird Beckett Jazz Club - Gerald Beckett Quintet Event
-- Summit Records - FluteVibes Album
-- All About Jazz - Mood Album Review
-- Jazz Music Archives - Gerald Beckett Discography
-- The Rehearsal Studio - Gerald Beckett's Latest Jazz Flute Album
+  - RecentMusic - Gerald Beckett New Releases
+  - Red Poppy Art House - The Gerald Beckett Quintet
+  - Bird Beckett Jazz Club - Gerald Beckett Quintet Event
+  - Summit Records - FluteVibes Album
+  - All About Jazz - Mood Album Review
+  - Jazz Music Archives - Gerald Beckett Discography
+  - The Rehearsal Studio - Gerald Beckett's Latest Jazz Flute Album
 network_extracted: true
 entry_created: '2025-12-04T07:46:46.304487'
 last_updated: '2025-12-23T08:16:09.142197'
+artist_type: person
 ---
 
 ![](gerald_beckett.jpg)

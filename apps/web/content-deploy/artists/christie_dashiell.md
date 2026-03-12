@@ -1,46 +1,49 @@
 ---
 biography_enhanced_at: '2026-01-20T01:25:35.513729'
-birth_place: Washington, D.C., United States (birthplace); Greenville, North Carolina,
+birth_place: >-
+  Washington, D.C., United States (birthplace); Greenville, North Carolina,
   United States (raised)
 enhancement_provider: perplexity
 entry_created: '2026-01-20T01:25:35.513735'
 external_urls:
-  spotify: https://open.spotify.com/artist/0pCSsBZJDATr8NUe9Agcth
-  wikipedia: https://en.wikipedia.org/wiki/Christie_Dashiell
+  spotify: 'https://open.spotify.com/artist/0pCSsBZJDATr8NUe9Agcth'
+  wikipedia: 'https://en.wikipedia.org/wiki/Christie_Dashiell'
 genres:
-- vocal jazz
+  - vocal jazz
 image_path: 03_Resources/source_material/ArtistPortraits/christie_dashiell.jpg
 last_updated: '2026-01-20T01:25:35.513736'
 musical_connections:
   collaborators:
-  - Carroll Dashiell Jr.
-  - Marquis Hill
-  - Shedrick Mitchell
-  - Allyn Johnson
-  - Romeir Mendez
-  - Carroll Dashiell III
-  - Wynton Marsalis
-  - Sweet Honey in the Rock
+    - Carroll Dashiell Jr.
+    - Marquis Hill
+    - Shedrick Mitchell
+    - Allyn Johnson
+    - Romeir Mendez
+    - Carroll Dashiell III
+    - Wynton Marsalis
+    - Sweet Honey in the Rock
   influenced: []
   mentors:
-  - Dianne Reeves
+    - Dianne Reeves
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Christie_Dashiell
-- https://www.strathmore.org/events-tickets/whats-on-in-the-mansion/christie-dashiell/
-- https://kerrytownconcerthouse.com/christie-dashiell/
-- https://hancockinstitute.org/meet/christie-dashiell/
-- https://newmusicusa.org/projects/christie-dashiell/
-- https://www.jammincolors.com/artists/christie-dashiell
-- https://www.christiedashiell.com
+  - 'https://en.wikipedia.org/wiki/Christie_Dashiell'
+  - >-
+    https://www.strathmore.org/events-tickets/whats-on-in-the-mansion/christie-dashiell/
+  - 'https://kerrytownconcerthouse.com/christie-dashiell/'
+  - 'https://hancockinstitute.org/meet/christie-dashiell/'
+  - 'https://newmusicusa.org/projects/christie-dashiell/'
+  - 'https://www.jammincolors.com/artists/christie-dashiell'
+  - 'https://www.christiedashiell.com'
 spotify_data:
   followers: 3821
   id: 0pCSsBZJDATr8NUe9Agcth
   popularity: 39
-  url: https://open.spotify.com/artist/0pCSsBZJDATr8NUe9Agcth
+  url: 'https://open.spotify.com/artist/0pCSsBZJDATr8NUe9Agcth'
 status: active
-title: CHRISTIE DASHIELL
+title: Christie Dashiell
+artist_type: person
 ---
 
 ![](christie_dashiell.jpg)

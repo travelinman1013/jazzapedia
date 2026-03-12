@@ -2,17 +2,17 @@
 title: Alabama Shakes
 wiki_slug: alabama-shakes
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '2009'
 genres: []
 instruments:
-- bass
-- background vocals
-- guitar
-- lead vocals
-- membranophone
-- percussion
+  - bass
+  - background vocals
+  - guitar
+  - lead vocals
+  - membranophone
+  - percussion
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/alabama_shakes.jpg
   caption: Alabama Shakes
@@ -33,91 +33,94 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Brittany Howard
-  - Zac Cockrell
-  - Steve Johnson
-  - Heath Fogg
-  - Andrija Tokic
-  - Drive‑By Truckers (Patterson Hood)
-  - Jack White / Third Man Records
+    - Brittany Howard
+    - Zac Cockrell
+    - Steve Johnson
+    - Heath Fogg
+    - Andrija Tokic
+    - Drive‑By Truckers (Patterson Hood)
+    - Jack White / Third Man Records
   influenced:
-  - Younger Southern roots‑rock and soul‑influenced indie artists (general category)
+    - >-
+      Younger Southern roots‑rock and soul‑influenced indie artists (general
+      category)
   mentors:
-  - Otis Redding
-  - Led Zeppelin
-  - David Bowie
-  - Elvis Presley and Motown artists
+    - Otis Redding
+    - Led Zeppelin
+    - David Bowie
+    - Elvis Presley and Motown artists
 spotify_data:
   followers: 1739918
   id: 16GcWuvvybAoaHr0NqT8Eh
   popularity: 60
-  url: https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh
+  url: 'https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh'
 discography_enriched: true
 top_tracks:
-- Hold On (Boys & Girls)
-- Always Alright
-- Sound & Color (Sound & Color (Deluxe Edition))
-- Don't Wanna Fight (Sound & Color)
-- Hold On (Boys & Girls)
-- This Feeling (Sound & Color (Deluxe Edition))
-- Always Alright
-- Don't Wanna Fight (Sound & Color (Deluxe Edition))
-- This Feeling (Sound & Color (Deluxe Edition))
-- Future People (Sound & Color (Deluxe Edition))
+  - Hold On (Boys & Girls)
+  - Always Alright
+  - Sound & Color (Sound & Color (Deluxe Edition))
+  - Don't Wanna Fight (Sound & Color)
+  - Hold On (Boys & Girls)
+  - This Feeling (Sound & Color (Deluxe Edition))
+  - Always Alright
+  - Don't Wanna Fight (Sound & Color (Deluxe Edition))
+  - This Feeling (Sound & Color (Deluxe Edition))
+  - Future People (Sound & Color (Deluxe Edition))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/40419b33-18e9-4d5a-a674-30b4bb14bac2
-  spotify: https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh
-  wikipedia: https://en.wikipedia.org/wiki/Alabama_Shakes
+  musicbrainz: 'https://musicbrainz.org/artist/40419b33-18e9-4d5a-a674-30b4bb14bac2'
+  spotify: 'https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh'
+  wikipedia: 'https://en.wikipedia.org/wiki/Alabama_Shakes'
 image_path: 03_Resources/source_material/ArtistPortraits/alabama_shakes.jpg
 biography_enhanced_at: '2025-12-20T01:15:36.294343'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- EBSCO Research Starters – Alabama Shakes[1]
-- Alabama Shakes – Wikipedia[2]
-- Encyclopaedia Britannica – Alabama Shakes[3]
-- 'Garden & Gun – “Soul Shakers: Alabama Shakes”[4]'
-- 'Autostraddle – “Artist Spotlight: Alabama Shakes”[5]'
-- 'The Grind Memphis – “The Alabama Shakes: A Story of Soul and Success”[6]'
-- Red Light Management – Alabama Shakes Artist Bio[7]
+  - 'EBSCO Research Starters – Alabama Shakes[1]'
+  - 'Alabama Shakes – Wikipedia[2]'
+  - 'Encyclopaedia Britannica – Alabama Shakes[3]'
+  - 'Garden & Gun – “Soul Shakers: Alabama Shakes”[4]'
+  - 'Autostraddle – “Artist Spotlight: Alabama Shakes”[5]'
+  - 'The Grind Memphis – “The Alabama Shakes: A Story of Soul and Success”[6]'
+  - 'Red Light Management – Alabama Shakes Artist Bio[7]'
 network_extracted: true
 entry_created: '2025-12-20T01:15:36.294351'
 last_updated: '2025-12-23T08:16:04.469511'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - bass
-  mbid: 20204baf-d0df-4453-94e8-729ed237766a
-  name: Zac Cockrell
-- begin: ''
-  end: ''
-  instruments:
-  - background vocals
-  - guitar
-  mbid: 713072ef-2abe-4c3f-b021-f37d75303066
-  name: Heath Fogg
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  - lead vocals
-  mbid: 03eda2c4-a2b3-4a4e-9527-6791b0ed9d2d
-  name: Brittany Howard
-- begin: ''
-  end: ''
-  instruments:
-  - background vocals
-  - membranophone
-  - percussion
-  mbid: e9609a40-ae5b-4747-8ce7-ee670573767f
-  name: Steve Johnson
+  - begin: ''
+    end: ''
+    instruments:
+      - bass
+    mbid: 20204baf-d0df-4453-94e8-729ed237766a
+    name: Zac Cockrell
+  - begin: ''
+    end: ''
+    instruments:
+      - background vocals
+      - guitar
+    mbid: 713072ef-2abe-4c3f-b021-f37d75303066
+    name: Heath Fogg
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+      - lead vocals
+    mbid: 03eda2c4-a2b3-4a4e-9527-6791b0ed9d2d
+    name: Brittany Howard
+  - begin: ''
+    end: ''
+    instruments:
+      - background vocals
+      - membranophone
+      - percussion
+    mbid: e9609a40-ae5b-4747-8ce7-ee670573767f
+    name: Steve Johnson
 musicbrainz_id: 40419b33-18e9-4d5a-a674-30b4bb14bac2
-origin: Athens
+origin: 'Athens, Alabama, United States'
 tags:
-- blues rock
-- rock
-- soul
+  - blues rock
+  - rock
+  - soul
+birth_place: 'Athens, Alabama, United States'
 ---
 
 ![](alabama_shakes.jpg)

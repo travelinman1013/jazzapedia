@@ -4,7 +4,7 @@ wiki_slug: morgan-luna
 schema_version: 2
 status: active
 genres:
-- rockabilly
+  - rockabilly
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/morgan_luna.jpg
   caption: Morgan Luna
@@ -30,35 +30,37 @@ spotify_data:
   followers: 6148
   id: 5PTFI1cRjCIlXBH9SDSbYd
   popularity: 49
-  url: https://open.spotify.com/artist/5PTFI1cRjCIlXBH9SDSbYd
+  url: 'https://open.spotify.com/artist/5PTFI1cRjCIlXBH9SDSbYd'
 discography_enriched: true
 top_tracks:
-- Two Lane Divide (Two Lane Divide)
-- Lowdown in Memphis (Lowdown in Memphis)
-- Row by Row (Row by Row)
-- The Last Light on Beale (The Last Light on Beale)
-- The Devil’s Blues in Memphis (The Devil’s Blues in Memphis)
-- The River Remembers Her Name (The River Remembers Her Name)
-- Playin’ for the River (Playin’ for the River)
-- Mercy in Your Eyes (Mercy in Your Eyes)
-- Ashes into Hallelujah (Ashes into Hallelujah)
-- Heavy Is the Crown (Heavy Is the Crown)
+  - Two Lane Divide (Two Lane Divide)
+  - Lowdown in Memphis (Lowdown in Memphis)
+  - Row by Row (Row by Row)
+  - The Last Light on Beale (The Last Light on Beale)
+  - The Devil’s Blues in Memphis (The Devil’s Blues in Memphis)
+  - The River Remembers Her Name (The River Remembers Her Name)
+  - Playin’ for the River (Playin’ for the River)
+  - Mercy in Your Eyes (Mercy in Your Eyes)
+  - Ashes into Hallelujah (Ashes into Hallelujah)
+  - Heavy Is the Crown (Heavy Is the Crown)
 external_urls:
-  spotify: https://open.spotify.com/artist/5PTFI1cRjCIlXBH9SDSbYd
+  spotify: 'https://open.spotify.com/artist/5PTFI1cRjCIlXBH9SDSbYd'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/morgan_luna.jpg
 biography_enhanced_at: '2025-12-11T03:54:43.079701'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Morgan Luna – official website[4]
-- Morgan Luna – YouTube channel and track descriptions (“Run My Own Way”, “The Devil’s Blues in Memphis”)[2][3]
-- Morgan Luna – Songstats artist page[5]
-- Morgan Luna – Shazam artist page[6]
+  - 'Morgan Luna – official website[4]'
+  - >-
+    Morgan Luna – YouTube channel and track descriptions (“Run My Own Way”, “The
+    Devil’s Blues in Memphis”)[2][3]
+  - 'Morgan Luna – Songstats artist page[5]'
+  - 'Morgan Luna – Shazam artist page[6]'
 network_extracted: true
 entry_created: '2025-12-11T03:54:43.079717'
 last_updated: '2025-12-23T08:16:13.273723'
-
+artist_type: person
 ---
 
 ![](morgan_luna.jpg)

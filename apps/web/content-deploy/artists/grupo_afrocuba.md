@@ -1,10 +1,10 @@
 ---
-title: grupo afrocuba
+title: Grupo Afrocuba
 wiki_slug: grupo-afrocuba
 schema_version: 2
 status: active
 genres:
-- latin jazz
+  - latin jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/grupo_afrocuba.jpg
   caption: grupo afrocuba
@@ -24,49 +24,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Silvio Rodríguez
-  - Oriente López
-  - Ernán López-Nussa
-  - Carlos and Fernando Acosta
+    - Silvio Rodríguez
+    - Oriente López
+    - Ernán López-Nussa
+    - Carlos and Fernando Acosta
   influenced:
-  - Younger Cuban jazz musicians
-  - Ernán López-Nussa Quartet
+    - Younger Cuban jazz musicians
+    - Ernán López-Nussa Quartet
   mentors:
-  - Cuban jazz and traditional music elders
+    - Cuban jazz and traditional music elders
 spotify_data:
   followers: 3489
   id: 3z9LLTTUmDnmUnvSPdsLoU
   popularity: 9
-  url: https://open.spotify.com/artist/3z9LLTTUmDnmUnvSPdsLoU
+  url: 'https://open.spotify.com/artist/3z9LLTTUmDnmUnvSPdsLoU'
 discography_enriched: true
 top_tracks:
-- Pa' Los Mayores (Yambu Matancero) (Raices Africanas)
-- Caridad (BataRumba) (Raices Africanas)
-- Elegua (Bembe) (Raices Africanas)
-- Palo (Bantu) (Raices Africanas)
-- Oshun (Guiro) (Raices Africanas)
-- Enigue Nigue (Guaguanco) (Raices Africanas)
-- Chango (Bata) (Raices Africanas)
-- Aguado Koloya (Rumba Columbia) (Raices Africanas)
-- Abakua (Raices Africanas)
-- Ogun (Iyesa) (Raices Africanas)
+  - Pa' Los Mayores (Yambu Matancero) (Raices Africanas)
+  - Caridad (BataRumba) (Raices Africanas)
+  - Elegua (Bembe) (Raices Africanas)
+  - Palo (Bantu) (Raices Africanas)
+  - Oshun (Guiro) (Raices Africanas)
+  - Enigue Nigue (Guaguanco) (Raices Africanas)
+  - Chango (Bata) (Raices Africanas)
+  - Aguado Koloya (Rumba Columbia) (Raices Africanas)
+  - Abakua (Raices Africanas)
+  - Ogun (Iyesa) (Raices Africanas)
 external_urls:
-  spotify: https://open.spotify.com/artist/3z9LLTTUmDnmUnvSPdsLoU
-  wikipedia: https://es.wikipedia.org/wiki/Afrocuba
+  spotify: 'https://open.spotify.com/artist/3z9LLTTUmDnmUnvSPdsLoU'
+  wikipedia: 'https://es.wikipedia.org/wiki/Afrocuba'
 image_path: 03_Resources/source_material/ArtistPortraits/grupo_afrocuba.jpg
 biography_enhanced_at: '2025-11-02T07:33:28.214880'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://es.wikipedia.org/wiki/Afrocuba
-- https://www.cubamusic.com/it-IT/Store/Artist/1009/afrocuba
-- http://cubarte.cult.cu/blog-cubarte/afrocuba-relato-y-ecos-de-una-generacion-anorada/
-- https://www.cibercuba.com/noticias/2023-03-03-u199854-e199854-s27061-exhibiran-festival-miami-documental-banda-original-jazz
-- https://www.lajiribilla.cu/afrocuba-sus-causas-y-azares/
+  - 'https://es.wikipedia.org/wiki/Afrocuba'
+  - 'https://www.cubamusic.com/it-IT/Store/Artist/1009/afrocuba'
+  - >-
+    http://cubarte.cult.cu/blog-cubarte/afrocuba-relato-y-ecos-de-una-generacion-anorada/
+  - >-
+    https://www.cibercuba.com/noticias/2023-03-03-u199854-e199854-s27061-exhibiran-festival-miami-documental-banda-original-jazz
+  - 'https://www.lajiribilla.cu/afrocuba-sus-causas-y-azares/'
 network_extracted: true
 entry_created: '2025-11-02T07:33:28.214896'
 last_updated: '2025-12-23T08:16:09.377552'
-origin: Havana, Cuba
+origin: 'Havana, Cuba'
+artist_type: person
 ---
 
 ![](grupo_afrocuba.jpg)

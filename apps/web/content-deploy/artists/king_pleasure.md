@@ -1,16 +1,20 @@
 ---
-title: king pleasure
+title: King Pleasure
 wiki_slug: king-pleasure
 schema_version: 2
 status: active
-birth_place: Oakdale, Tennessee, United States (birthplace); New York City, New York, United States (origin/career base)
+birth_place: >-
+  Oakdale, Tennessee, United States (birthplace); New York City, New York,
+  United States (origin/career base)
 genres:
-- vocal jazz
+  - vocal jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/king_pleasure.jpg
   caption: king pleasure
   background: solo_singer
-  origin: Oakdale, Tennessee, United States (birthplace); New York City, New York, United States (origin/career base)
+  origin: >-
+    Oakdale, Tennessee, United States (birthplace); New York City, New York,
+    United States (origin/career base)
 audio_profile:
   tempo_avg: 114.7
   energy_avg: 0.255
@@ -26,51 +30,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Blossom Dearie
-  - Betty Carter
-  - John Lewis
-  - Quincy Jones
-  - Percy Heath
-  - Kenny Clarke
+    - Blossom Dearie
+    - Betty Carter
+    - John Lewis
+    - Quincy Jones
+    - Percy Heath
+    - Kenny Clarke
   influenced:
-  - Genya Ravan
+    - Genya Ravan
   mentors:
-  - Eddie Jefferson
-  - James Moody
+    - Eddie Jefferson
+    - James Moody
 spotify_data:
   followers: 8045
   id: 1zmrmtMHh44pQ9WrBVEe80
   popularity: 20
-  url: https://open.spotify.com/artist/1zmrmtMHh44pQ9WrBVEe80
+  url: 'https://open.spotify.com/artist/1zmrmtMHh44pQ9WrBVEe80'
 discography_enriched: true
 top_tracks:
-- Moody's Mood for Love (Golden Days)
-- Farmer's Market (King Pleasure Sings / Annie Ross Sings)
-- I'm In The Mood For Love - 1962 Version / Stereo (Moody's Mood For Love)
-- Red Top (Original Moody's Mood)
-- Parker's Mood (Original Moody's Mood)
-- Parker's Mood - Remastered 2015 (King Pleasure Sings / Annie Ross Sings)
-- Parker's Mood (Golden Days)
-- Twisted (King Pleasure Sings / Annie Ross Sings)
-- Jumpin' With Symphony Sid (King Pleasure Sings / Annie Ross Sings)
-- Don't Worry About Me (Golden Days)
+  - Moody's Mood for Love (Golden Days)
+  - Farmer's Market (King Pleasure Sings / Annie Ross Sings)
+  - I'm In The Mood For Love - 1962 Version / Stereo (Moody's Mood For Love)
+  - Red Top (Original Moody's Mood)
+  - Parker's Mood (Original Moody's Mood)
+  - Parker's Mood - Remastered 2015 (King Pleasure Sings / Annie Ross Sings)
+  - Parker's Mood (Golden Days)
+  - Twisted (King Pleasure Sings / Annie Ross Sings)
+  - Jumpin' With Symphony Sid (King Pleasure Sings / Annie Ross Sings)
+  - Don't Worry About Me (Golden Days)
 external_urls:
-  spotify: https://open.spotify.com/artist/1zmrmtMHh44pQ9WrBVEe80
-  wikipedia: https://en.wikipedia.org/wiki/King_Pleasure
+  spotify: 'https://open.spotify.com/artist/1zmrmtMHh44pQ9WrBVEe80'
+  wikipedia: 'https://en.wikipedia.org/wiki/King_Pleasure'
 image_path: 03_Resources/source_material/ArtistPortraits/king_pleasure.jpg
 biography_enhanced_at: '2025-12-04T07:27:59.007436'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - King Pleasure
-- All About Jazz - King Pleasure Musician
-- Last.fm - King Pleasure
-- Grokipedia - King Pleasure
-- The Shedd - Jazz Party 2008
-- 'Bman''s Blues Report - Swan Blues: King Pleasure'
+  - Wikipedia - King Pleasure
+  - All About Jazz - King Pleasure Musician
+  - Last.fm - King Pleasure
+  - Grokipedia - King Pleasure
+  - The Shedd - Jazz Party 2008
+  - 'Bman''s Blues Report - Swan Blues: King Pleasure'
 network_extracted: true
 entry_created: '2025-12-04T07:27:59.007450'
 last_updated: '2025-12-23T08:16:11.405877'
+origin: 'New York City, New York, United States'
+death_date: '1982-03-21'
+artist_type: person
 ---
 
 ![](king_pleasure.jpg)

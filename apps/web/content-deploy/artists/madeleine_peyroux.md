@@ -1,21 +1,21 @@
 ---
-title: madeleine peyroux
+title: Madeleine Peyroux
 wiki_slug: madeleine-peyroux
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1974-04-18'
-birth_place: Athens, Georgia, United States
+birth_place: 'Athens, Georgia, United States'
 genres:
-- french jazz
-- vocal jazz
-- jazz
+  - french jazz
+  - vocal jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/madeleine_peyroux.jpg
   caption: madeleine peyroux
   background: solo_singer
   born: '1974-04-18'
-  origin: Athens, Georgia, United States
+  origin: 'Athens, Georgia, United States'
 audio_profile:
   tempo_avg: 106.4
   energy_avg: 0.283
@@ -31,46 +31,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Larry Klein
-  - Lost Wandering Blues & Jazz Band
-  - Marc Ribot, Vernon Reid, Regina Carter, Cyrus Chestnut, Charlie Giordano, Greg Cohen, Kenny Wollesen, Leon Parker, James
-    Carter
+    - Larry Klein
+    - Lost Wandering Blues & Jazz Band
+    - >-
+      Marc Ribot, Vernon Reid, Regina Carter, Cyrus Chestnut, Charlie Giordano,
+      Greg Cohen, Kenny Wollesen, Leon Parker, James Carter
   influenced:
-  - Emerging vocal jazz artists
+    - Emerging vocal jazz artists
   mentors:
-  - Edith Piaf
-  - Billie Holiday
+    - Edith Piaf
+    - Billie Holiday
 spotify_data:
   followers: 471483
   id: 7nXyULtoL8k7wP9l6kg8Ef
   popularity: 58
-  url: https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef
+  url: 'https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef'
 discography_enriched: true
 top_tracks:
-- Dance Me To The End Of Love (Careless Love)
-- (Getting Some) Fun out of Life (Dreamland)
-- La Vie En Rose (Dreamland)
-- Don't Wait Too Long (Careless Love)
-- J'ai Deux Amours (Careless Love)
-- The Summer Wind (Half The Perfect World)
-- Back in Your Own Back Yard (Got You on My Mind)
-- To Love You All Over Again (Bare Bones)
-- Smile (Half The Perfect World)
-- The Summer Wind (Half The Perfect World)
+  - Dance Me To The End Of Love (Careless Love)
+  - (Getting Some) Fun out of Life (Dreamland)
+  - La Vie En Rose (Dreamland)
+  - Don't Wait Too Long (Careless Love)
+  - J'ai Deux Amours (Careless Love)
+  - The Summer Wind (Half The Perfect World)
+  - Back in Your Own Back Yard (Got You on My Mind)
+  - To Love You All Over Again (Bare Bones)
+  - Smile (Half The Perfect World)
+  - The Summer Wind (Half The Perfect World)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7f260b9c-bea7-469b-9ba8-0daec7d2c85c
-  spotify: https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef
-  wikipedia: https://en.wikipedia.org/wiki/Madeleine_Peyroux
+  musicbrainz: 'https://musicbrainz.org/artist/7f260b9c-bea7-469b-9ba8-0daec7d2c85c'
+  spotify: 'https://open.spotify.com/artist/7nXyULtoL8k7wP9l6kg8Ef'
+  wikipedia: 'https://en.wikipedia.org/wiki/Madeleine_Peyroux'
 image_path: 03_Resources/source_material/ArtistPortraits/madeleine_peyroux.jpg
 biography_enhanced_at: '2025-10-20T09:06:23.404776'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://madeleinepeyroux.com/my-story-biography-of-soulful-music/
-- https://www.scmcgr.org/concerts/madeleine-peyroux
-- https://www.allaboutjazz.com/musicians/madeleine-peyroux/
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/peyroux-madeleine
-- https://stuartsoperahouse.org/events/madeleine-peyroux/
+  - 'https://madeleinepeyroux.com/my-story-biography-of-soulful-music/'
+  - 'https://www.scmcgr.org/concerts/madeleine-peyroux'
+  - 'https://www.allaboutjazz.com/musicians/madeleine-peyroux/'
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/peyroux-madeleine
+  - 'https://stuartsoperahouse.org/events/madeleine-peyroux/'
 network_extracted: true
 entry_created: '2025-10-20T09:06:23.404785'
 last_updated: '2025-12-23T08:16:12.469071'
@@ -79,9 +81,9 @@ gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:54:23.317262'
 musicbrainz_id: 7f260b9c-bea7-469b-9ba8-0daec7d2c85c
 tags:
-- contemporary jazz
-- easy listening
-- folk
+  - contemporary jazz
+  - easy listening
+  - folk
 ---
 
 ![](madeleine_peyroux.jpg)

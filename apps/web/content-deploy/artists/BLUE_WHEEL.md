@@ -1,10 +1,10 @@
 ---
-title: BLUE WHEEL
+title: Blue Wheel
 wiki_slug: blue-wheel
 schema_version: 2
 status: active
 genres:
-- children's music
+  - children's music
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/BLUE_WHEEL.jpg
   caption: BLUE WHEEL
@@ -30,32 +30,41 @@ spotify_data:
   followers: 9547
   id: 06770mFdB96dg7321wL4ew
   popularity: 44
-  url: https://open.spotify.com/artist/06770mFdB96dg7321wL4ew
+  url: 'https://open.spotify.com/artist/06770mFdB96dg7321wL4ew'
 discography_enriched: true
 top_tracks:
-- 'Batwheels Theme (Batwheels: Season 1 (Original Television Soundtrack))'
-- 'Bam! (Batwheels: Season 1 (Original Television Soundtrack))'
-- 'Faster (Bibi) (Batwheels: Season 1 (Original Television Soundtrack))'
-- 'Calling All Batwheels (feat. Jacob Bertrand & Madigan Kacmar) (Batwheels: Season 1 (Original Television Soundtrack))'
-- 'Buff Tuff (Batwheels: Season 1 (Original Television Soundtrack))'
-- 'Fly (Batwing) (Batwheels: Season 1 (Original Television Soundtrack))'
-- 'Tema de Batwheels (Batwheels: Temporada 1 (Banda Sonora Original de La Serie de TV))'
-- 'Robin''s Ride (Redbird) (Batwheels: Season 1 (Original Television Soundtrack))'
-- 'Roll with the Changes (Batwheels: Season 1 (Original Television Soundtrack))'
-- 'Bad to the Chrome (feat. Alexandra Novelle, Griffin Burns & Xolo Maridueña) (Batwheels: Season 1 (Original Television Soundtrack))'
+  - 'Batwheels Theme (Batwheels: Season 1 (Original Television Soundtrack))'
+  - 'Bam! (Batwheels: Season 1 (Original Television Soundtrack))'
+  - 'Faster (Bibi) (Batwheels: Season 1 (Original Television Soundtrack))'
+  - >-
+    Calling All Batwheels (feat. Jacob Bertrand & Madigan Kacmar) (Batwheels:
+    Season 1 (Original Television Soundtrack))
+  - 'Buff Tuff (Batwheels: Season 1 (Original Television Soundtrack))'
+  - 'Fly (Batwing) (Batwheels: Season 1 (Original Television Soundtrack))'
+  - >-
+    Tema de Batwheels (Batwheels: Temporada 1 (Banda Sonora Original de La Serie
+    de TV))
+  - >-
+    Robin's Ride (Redbird) (Batwheels: Season 1 (Original Television
+    Soundtrack))
+  - 'Roll with the Changes (Batwheels: Season 1 (Original Television Soundtrack))'
+  - >-
+    Bad to the Chrome (feat. Alexandra Novelle, Griffin Burns & Xolo Maridueña)
+    (Batwheels: Season 1 (Original Television Soundtrack))
 external_urls:
-  spotify: https://open.spotify.com/artist/06770mFdB96dg7321wL4ew
+  spotify: 'https://open.spotify.com/artist/06770mFdB96dg7321wL4ew'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/BLUE_WHEEL.jpg
 biography_enhanced_at: '2025-10-20T01:44:17.987494'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Spotify artist profile (context provided)
-- No relevant results found in Wikipedia or major music databases
+  - Spotify artist profile (context provided)
+  - No relevant results found in Wikipedia or major music databases
 network_extracted: true
 entry_created: '2025-10-20T01:44:17.987509'
 last_updated: '2025-12-23T08:16:01.116647'
+artist_type: person
 ---
 
 ![](BLUE_WHEEL.jpg)

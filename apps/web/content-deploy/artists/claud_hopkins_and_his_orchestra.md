@@ -1,16 +1,17 @@
 ---
-title: CLAUD HOPKINS AND HIS ORCHESTRA
+title: Claud Hopkins and His Orchestra
 wiki_slug: claud-hopkins-and-his-orchestra
 schema_version: 2
 status: active
-birth_place: Alexandria, Virginia, United States
+birth_place: 'Alexandria, Virginia, United States'
 genres:
-- ragtime
+  - ragtime
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/claud_hopkins_and_his_orchestra.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/claud_hopkins_and_his_orchestra.jpg
   caption: CLAUD HOPKINS AND HIS ORCHESTRA
   background: solo_singer
-  origin: Alexandria, Virginia, United States
+  origin: 'Alexandria, Virginia, United States'
 audio_profile:
   tempo_avg: 121.9
   energy_avg: 0.307
@@ -26,46 +27,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Josephine Baker
-  - Sidney Bechet
-  - Edmond Hall
-  - Henry 'Red' Allen
-  - Wild Bill Davison
+    - Josephine Baker
+    - Sidney Bechet
+    - Edmond Hall
+    - Henry 'Red' Allen
+    - Wild Bill Davison
   influenced:
-  - Buddy Tate
-  - Vic Dickenson
+    - Buddy Tate
+    - Vic Dickenson
   mentors:
-  - Wilbur Sweatman
+    - Wilbur Sweatman
 spotify_data:
   followers: 175
   id: 2cLSO83eVhfaL96MWvEq2Z
   popularity: 3
-  url: https://open.spotify.com/artist/2cLSO83eVhfaL96MWvEq2Z
+  url: 'https://open.spotify.com/artist/2cLSO83eVhfaL96MWvEq2Z'
 discography_enriched: true
 top_tracks:
-- Ain't Misbehavin' (The Big Broadcast, Vol.3, Jazz and Popular Music of the 1920s and 1930s)
-- 'Ain''t Misbehavin'' (The Big Broadcast, Vol. 3: Jazz and Popular Music of the 1920s and 1930s)'
-- 'Look Who''s Here (The Big Broadcast, Vol. 12: Jazz and Popular Music of the 1920s and 1930s)'
-- 'California, Here I Come (The Big Broadcast, Vol. 4: Jazz and Popular Music of the 1920s and 1930s)'
-- 'Minor Mania (The Big Broadcast, Vol. 10: Jazz and Popular Music of the 1920s and 1930s)'
-- 'California, Here I Come (The Big Broadcast: Vol.4: Popular Music of the 1920s and 1930s)'
-- Everybody Shuffle
-- Mush Mouth
-- Shake Your Ashes - Live (Stars of the Apollo)
-- Singin' In the Rain (Singing in the Rain)
+  - >-
+    Ain't Misbehavin' (The Big Broadcast, Vol.3, Jazz and Popular Music of the
+    1920s and 1930s)
+  - >-
+    Ain't Misbehavin' (The Big Broadcast, Vol. 3: Jazz and Popular Music of the
+    1920s and 1930s)
+  - >-
+    Look Who's Here (The Big Broadcast, Vol. 12: Jazz and Popular Music of the
+    1920s and 1930s)
+  - >-
+    California, Here I Come (The Big Broadcast, Vol. 4: Jazz and Popular Music
+    of the 1920s and 1930s)
+  - >-
+    Minor Mania (The Big Broadcast, Vol. 10: Jazz and Popular Music of the 1920s
+    and 1930s)
+  - >-
+    California, Here I Come (The Big Broadcast: Vol.4: Popular Music of the
+    1920s and 1930s)
+  - Everybody Shuffle
+  - Mush Mouth
+  - Shake Your Ashes - Live (Stars of the Apollo)
+  - Singin' In the Rain (Singing in the Rain)
 external_urls:
-  spotify: https://open.spotify.com/artist/2cLSO83eVhfaL96MWvEq2Z
-  wikipedia: https://en.wikipedia.org/wiki/Claude_Hopkins
-image_path: 03_Resources/source_material/ArtistPortraits/claud_hopkins_and_his_orchestra.jpg
+  spotify: 'https://open.spotify.com/artist/2cLSO83eVhfaL96MWvEq2Z'
+  wikipedia: 'https://en.wikipedia.org/wiki/Claude_Hopkins'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/claud_hopkins_and_his_orchestra.jpg
 biography_enhanced_at: '2025-11-20T06:35:08.462318'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Claude_Hopkins
-- http://www.harlem-fuss.com/pdf/bands/harlem_fuss_bands_hopkins_clauds_and_his_orchestra.pdf
+  - 'https://en.wikipedia.org/wiki/Claude_Hopkins'
+  - >-
+    http://www.harlem-fuss.com/pdf/bands/harlem_fuss_bands_hopkins_clauds_and_his_orchestra.pdf
 network_extracted: true
 entry_created: '2025-11-20T06:35:08.462326'
 last_updated: '2025-12-23T08:16:07.059935'
+birth_date: '1903-08-24'
+artist_type: band
 ---
 
 ![](claud_hopkins_and_his_orchestra.jpg)

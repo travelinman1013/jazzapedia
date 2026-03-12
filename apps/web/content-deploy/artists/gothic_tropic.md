@@ -1,42 +1,47 @@
 ---
 biography_enhanced_at: '2025-12-31T01:44:52.051742'
-birth_place: New Jersey, USA (birthplace); Los Angeles, California, USA (raised and
-  based)
+birth_place: 'New Jersey, USA (birthplace); Los Angeles, California, USA (raised and based)'
 enhancement_provider: perplexity
 entry_created: '2025-12-31T01:44:52.051748'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3d7d4263-e601-4380-b143-71f644bda4d6
-  spotify: https://open.spotify.com/artist/3MyenYlun125t6X8K0rK35
+  musicbrainz: 'https://musicbrainz.org/artist/3d7d4263-e601-4380-b143-71f644bda4d6'
+  spotify: 'https://open.spotify.com/artist/3MyenYlun125t6X8K0rK35'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/gothic_tropic.jpg
 last_updated: '2025-12-31T01:44:52.051749'
 musical_connections:
   collaborators:
-  - Daniel Denton
-  - Liv Marisco
+    - Daniel Denton
+    - Liv Marisco
   influenced: []
   mentors:
-  - Beck
+    - Beck
 musicbrainz_id: 3d7d4263-e601-4380-b143-71f644bda4d6
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://alliex.fandom.com/wiki/Gothic_Tropic
-- https://www.bmi.com/news/entry/indie_spotlight_gothic_tropic
-- https://blog.ernieball.com/artists/artist-in-focus-cecilia-della-peruti-of-gothic-tropic/
-- https://site.jammcard.com/cecilia-della-peruti-of-gothic-tropic-talks-with-jammcard-2-2/
-- https://vanyaland.com/2015/04/29/interview-gothic-tropics-cecilia-della-peruti-on-that-band-name-blending-genres-and-life-on-the-road/
-- https://www.ladygunn.com/music/gothic-tropic-premieres-new-track-my-friend-talks-about-the-slapstick-failures-administered-by-the-fascist-music-industry/
-- https://www.interviewmagazine.com/music/gothic-tropic
-- http://eastof8th.com/2018/04/30/an-exclusive-interview-with-gothic-tropic/
+  - 'https://alliex.fandom.com/wiki/Gothic_Tropic'
+  - 'https://www.bmi.com/news/entry/indie_spotlight_gothic_tropic'
+  - >-
+    https://blog.ernieball.com/artists/artist-in-focus-cecilia-della-peruti-of-gothic-tropic/
+  - >-
+    https://site.jammcard.com/cecilia-della-peruti-of-gothic-tropic-talks-with-jammcard-2-2/
+  - >-
+    https://vanyaland.com/2015/04/29/interview-gothic-tropics-cecilia-della-peruti-on-that-band-name-blending-genres-and-life-on-the-road/
+  - >-
+    https://www.ladygunn.com/music/gothic-tropic-premieres-new-track-my-friend-talks-about-the-slapstick-failures-administered-by-the-fascist-music-industry/
+  - 'https://www.interviewmagazine.com/music/gothic-tropic'
+  - 'http://eastof8th.com/2018/04/30/an-exclusive-interview-with-gothic-tropic/'
 spotify_data:
   followers: 8131
   id: 3MyenYlun125t6X8K0rK35
   popularity: 19
-  url: https://open.spotify.com/artist/3MyenYlun125t6X8K0rK35
+  url: 'https://open.spotify.com/artist/3MyenYlun125t6X8K0rK35'
 status: active
 title: Gothic Tropic
+origin: 'Los Angeles, California, United States'
+artist_type: person
 ---
 
 ![](gothic_tropic.jpg)

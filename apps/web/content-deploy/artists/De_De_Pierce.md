@@ -5,7 +5,7 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1904-02-18'
-birth_place: New Orleans
+birth_place: 'New Orleans, Louisiana, United States'
 death_date: '1973-11-23'
 genres: []
 infobox:
@@ -30,55 +30,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Billie Pierce
-  - Alphonse Picou
-  - '"Big Eye" Louis Nelson Delille'
-  - Emile and Paul Barnes
-  - Ida Cox
-  - Preservation Hall Jazz Band
-  - Kid Thomas Valentine
-  - George Lewis
+    - Billie Pierce
+    - Alphonse Picou
+    - '"Big Eye" Louis Nelson Delille'
+    - Emile and Paul Barnes
+    - Ida Cox
+    - Preservation Hall Jazz Band
+    - Kid Thomas Valentine
+    - George Lewis
   influenced:
-  - Preservation Hall Jazz Band musicians
+    - Preservation Hall Jazz Band musicians
   mentors:
-  - Professor Paul Chaligny
-  - Kid Rena
+    - Professor Paul Chaligny
+    - Kid Rena
 spotify_data:
   followers: 147
   id: 3zXlAIAmYVovsNvk1ZxQlQ
   popularity: 4
-  url: https://open.spotify.com/artist/3zXlAIAmYVovsNvk1ZxQlQ
+  url: 'https://open.spotify.com/artist/3zXlAIAmYVovsNvk1ZxQlQ'
 discography_enriched: true
 top_tracks:
-- Indian Love Call (Jim Robinson with Kid Thomas, Ernie Cagnolatti & De De Pierce)
-- La Marseillaise (George Lewis at San Jacinto Hall)
-- All of Me (Billie & Dede Pierce and Paul Barbarin with Chris Barber's Jazz Band 1960)
-- When Your Hair Has Turned to Silver (Jim Robinson with Kid Thomas, Ernie Cagnolatti & De De Pierce)
-- 'Shake It and Break It - Pierce (Atlantic Jazz: New Orleans)'
-- Eh La Bas (Billie & Dede Pierce 1967)
-- Salee Dame (Billie & Dede Pierce 1967)
-- Blues (George Lewis at San Jacinto Hall)
-- 'One Sweet Letter From You #1 (George Lewis at San Jacinto Hall)'
-- 'One Sweet Letter From You #2 (George Lewis at San Jacinto Hall)'
+  - >-
+    Indian Love Call (Jim Robinson with Kid Thomas, Ernie Cagnolatti & De De
+    Pierce)
+  - La Marseillaise (George Lewis at San Jacinto Hall)
+  - >-
+    All of Me (Billie & Dede Pierce and Paul Barbarin with Chris Barber's Jazz
+    Band 1960)
+  - >-
+    When Your Hair Has Turned to Silver (Jim Robinson with Kid Thomas, Ernie
+    Cagnolatti & De De Pierce)
+  - 'Shake It and Break It - Pierce (Atlantic Jazz: New Orleans)'
+  - Eh La Bas (Billie & Dede Pierce 1967)
+  - Salee Dame (Billie & Dede Pierce 1967)
+  - Blues (George Lewis at San Jacinto Hall)
+  - 'One Sweet Letter From You #1 (George Lewis at San Jacinto Hall)'
+  - 'One Sweet Letter From You #2 (George Lewis at San Jacinto Hall)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/74ad7ba7-1f05-4ce0-aa95-69b335b3c3e9
-  spotify: https://open.spotify.com/artist/3zXlAIAmYVovsNvk1ZxQlQ
-  wikipedia: https://en.wikipedia.org/wiki/De_De_Pierce
+  musicbrainz: 'https://musicbrainz.org/artist/74ad7ba7-1f05-4ce0-aa95-69b335b3c3e9'
+  spotify: 'https://open.spotify.com/artist/3zXlAIAmYVovsNvk1ZxQlQ'
+  wikipedia: 'https://en.wikipedia.org/wiki/De_De_Pierce'
 image_path: 03_Resources/source_material/ArtistPortraits/De_De_Pierce.jpg
 biography_enhanced_at: '2025-10-22T06:59:27.358922'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/De_De_Pierce
-- https://64parishes.org/entry/billie-and-dede-pierce
-- http://bonjourqui.blogspot.com/2007/01/billie-pierce-was-born-wilhelmina.html
+  - 'https://en.wikipedia.org/wiki/De_De_Pierce'
+  - 'https://64parishes.org/entry/billie-and-dede-pierce'
+  - >-
+    http://bonjourqui.blogspot.com/2007/01/billie-pierce-was-born-wilhelmina.html
 network_extracted: true
 entry_created: '2025-10-22T06:59:27.359663'
 last_updated: '2025-12-23T08:16:01.702304'
 gender: Male
 musicbrainz_id: 74ad7ba7-1f05-4ce0-aa95-69b335b3c3e9
 tags:
-- jazz
+  - jazz
+is_active: false
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](De_De_Pierce.jpg)

@@ -3,17 +3,17 @@ title: Queen Latifah
 wiki_slug: queen-latifah
 schema_version: 2
 status: active
-birth_place: Newark, New Jersey, United States
+birth_place: 'Newark, New Jersey, United States'
 genres:
-- musicals
-- east coast hip hop
+  - musicals
+  - east coast hip hop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Queen_Latifah.jpg
   caption: Queen Latifah
   background: solo_singer
-  origin: Newark, New Jersey, United States
+  origin: 'Newark, New Jersey, United States'
 audio_profile:
-  tempo_avg: 115.0
+  tempo_avg: 115
   energy_avg: 0.594
   valence_avg: 0.542
   danceability_avg: 0.658
@@ -27,46 +27,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Monie Love
-  - Flavor Unit
+    - Monie Love
+    - Flavor Unit
   influenced:
-  - Missy Elliott
-  - Lauryn Hill
+    - Missy Elliott
+    - Lauryn Hill
   mentors:
-  - DJ Mark the 45 King
+    - DJ Mark the 45 King
 spotify_data:
   followers: 244209
   id: 5m7wCUhYhBh7A3A3YMxrbt
   popularity: 51
-  url: https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt
+  url: 'https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt'
 discography_enriched: true
 top_tracks:
-- You Can't Stop The Beat (Hairspray (Soundtrack To The Motion Picture))
-- 'Walk the Dinosaur - From "Ice Age: Dawn of the Dinosaurs"'
-- I Wanna Be Down (feat. Queen Latifah, Yo-Yo & MC Lyte) - Remix
-- You Can't Stop The Beat
-- When You're Good To Mama
-- I Know Where I've Been (Hairspray (Soundtrack To The Motion Picture))
-- U.N.I.T.Y. (Black Reign)
-- I Wanna Be Down (feat. Queen Latifah, Yo-Yo & MC Lyte) - Remix
-- U.N.I.T.Y.
-- Big, Blonde and Beautiful (Hairspray (Soundtrack To The Motion Picture))
+  - You Can't Stop The Beat (Hairspray (Soundtrack To The Motion Picture))
+  - 'Walk the Dinosaur - From "Ice Age: Dawn of the Dinosaurs"'
+  - 'I Wanna Be Down (feat. Queen Latifah, Yo-Yo & MC Lyte) - Remix'
+  - You Can't Stop The Beat
+  - When You're Good To Mama
+  - I Know Where I've Been (Hairspray (Soundtrack To The Motion Picture))
+  - U.N.I.T.Y. (Black Reign)
+  - 'I Wanna Be Down (feat. Queen Latifah, Yo-Yo & MC Lyte) - Remix'
+  - U.N.I.T.Y.
+  - 'Big, Blonde and Beautiful (Hairspray (Soundtrack To The Motion Picture))'
 external_urls:
-  spotify: https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt
-  wikipedia: https://en.wikipedia.org/wiki/Queen_Latifah
+  spotify: 'https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt'
+  wikipedia: 'https://en.wikipedia.org/wiki/Queen_Latifah'
 image_path: 03_Resources/source_material/ArtistPortraits/Queen_Latifah.jpg
 biography_enhanced_at: '2025-10-20T01:59:30.842346'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Queen_Latifah
-- https://www.britannica.com/biography/Queen-Latifah
-- https://www.biography.com/musicians/queen-latifah
-- https://walkoffame.com/queen-latifah
-- https://wers.org/leading-ladies-of-hip-hop-queen-latifah/
+  - 'https://en.wikipedia.org/wiki/Queen_Latifah'
+  - 'https://www.britannica.com/biography/Queen-Latifah'
+  - 'https://www.biography.com/musicians/queen-latifah'
+  - 'https://walkoffame.com/queen-latifah'
+  - 'https://wers.org/leading-ladies-of-hip-hop-queen-latifah/'
 network_extracted: true
 entry_created: '2025-10-20T01:59:30.842362'
 last_updated: '2025-12-23T08:16:03.630758'
+birth_date: '1970-03-18'
+artist_type: person
 ---
 
 ![](Queen_Latifah.jpg)

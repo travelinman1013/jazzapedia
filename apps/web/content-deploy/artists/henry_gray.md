@@ -1,48 +1,53 @@
 ---
 biography_enhanced_at: '2026-01-20T01:21:54.017485'
-birth_place: Kenner, Louisiana, USA
+birth_place: 'Kenner, Louisiana, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-20T01:21:54.017491'
 external_urls:
-  spotify: https://open.spotify.com/artist/08zDtD8xQDP3tDApCnxrvY
-  wikipedia: https://en.wikipedia.org/wiki/Henry_Gray_(musician)
+  spotify: 'https://open.spotify.com/artist/08zDtD8xQDP3tDApCnxrvY'
+  wikipedia: 'https://en.wikipedia.org/wiki/Henry_Gray_(musician)'
 genres:
-- boogie-woogie
-- blues
-- classic blues
+  - boogie-woogie
+  - blues
+  - classic blues
 image_path: 03_Resources/source_material/ArtistPortraits/henry_gray.jpg
 last_updated: '2026-01-20T01:21:54.017491'
 musical_connections:
   collaborators:
-  - Howlin' Wolf
-  - Muddy Waters
-  - Little Walter Jacobs
-  - Whispering Smith
-  - Bob Corritore
-  - Steve Freund
+    - Howlin' Wolf
+    - Muddy Waters
+    - Little Walter Jacobs
+    - Whispering Smith
+    - Bob Corritore
+    - Steve Freund
   influenced:
-  - Chicago blues pianists (general)
-  - Hubert Sumlin
+    - Chicago blues pianists (general)
+    - Hubert Sumlin
   mentors:
-  - Big Maceo Merriweather
-  - Mrs. White
-  - Sunnyland Slim
+    - Big Maceo Merriweather
+    - Mrs. White
+    - Sunnyland Slim
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Henry_Gray_(musician)
-- https://www.arts.gov/honors/heritage/henry-gray
-- https://www.bluesblastmagazine.com/henry-gray/
-- https://bigtrainblues.com/henry-gray/
-- https://rra.mvbs.org/artists/henry-gray/
-- https://sweeneygumbo.com/2020/02/28/henry-grays-life-spans-the-history-of-chicago-blues/
+  - 'https://en.wikipedia.org/wiki/Henry_Gray_(musician)'
+  - 'https://www.arts.gov/honors/heritage/henry-gray'
+  - 'https://www.bluesblastmagazine.com/henry-gray/'
+  - 'https://bigtrainblues.com/henry-gray/'
+  - 'https://rra.mvbs.org/artists/henry-gray/'
+  - >-
+    https://sweeneygumbo.com/2020/02/28/henry-grays-life-spans-the-history-of-chicago-blues/
 spotify_data:
   followers: 4146
   id: 08zDtD8xQDP3tDApCnxrvY
   popularity: 10
-  url: https://open.spotify.com/artist/08zDtD8xQDP3tDApCnxrvY
+  url: 'https://open.spotify.com/artist/08zDtD8xQDP3tDApCnxrvY'
 status: active
-title: HENRY GRAY
+title: Henry Gray
+origin: 'Chicago, Illinois, United States'
+birth_date: '1925-01-19'
+death_date: '2020-02-17'
+artist_type: person
 ---
 
 ![](henry_gray.jpg)

@@ -4,21 +4,21 @@ wiki_slug: audrey-coppard
 schema_version: 2
 artist_type: person
 status: active
-birth_place: England, United Kingdom
+birth_place: 'England, United Kingdom'
 genres:
-- folk
+  - folk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/audrey_coppard.jpg
   caption: Audrey Coppard
   background: solo_singer
-  origin: England, United Kingdom
+  origin: 'England, United Kingdom'
 audio_profile:
   tempo_avg: 103.9
   energy_avg: 0.041
   valence_avg: 0.559
   danceability_avg: 0.58
   acousticness_avg: 0.982
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -18.1
   speechiness_avg: 0.115
   liveness_avg: 0.141
@@ -27,48 +27,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - American guitarist (uncredited)
+    - American guitarist (uncredited)
   influenced:
-  - Simon & Garfunkel
-  - Ewan MacColl
+    - Simon & Garfunkel
+    - Ewan MacColl
   mentors:
-  - Traditional English Folk Singers
+    - Traditional English Folk Singers
 spotify_data:
   followers: 99
   id: 015L4DcGkTb1huHxwHQRkl
   popularity: 0
-  url: https://open.spotify.com/artist/015L4DcGkTb1huHxwHQRkl
+  url: 'https://open.spotify.com/artist/015L4DcGkTb1huHxwHQRkl'
 discography_enriched: true
 top_tracks:
-- Scarborough Fair (English Folk Songs)
-- Hares on the Mountain (English Folk Songs)
-- The Trees Are Getting High (The Sun Never Shines On The Poor)
-- The Trees Are Getting High (It Was Dark Until I Found You)
-- Hares on the Mountain (Fools Gold)
-- Johnny Todd (English Folk Songs)
-- Died of Love (English Folk Songs)
-- I Will Give My Love An Apple (English Folk Songs)
-- The Nightingale (English Folk Songs)
-- The Trees are Getting High (English Folk Songs)
+  - Scarborough Fair (English Folk Songs)
+  - Hares on the Mountain (English Folk Songs)
+  - The Trees Are Getting High (The Sun Never Shines On The Poor)
+  - The Trees Are Getting High (It Was Dark Until I Found You)
+  - Hares on the Mountain (Fools Gold)
+  - Johnny Todd (English Folk Songs)
+  - Died of Love (English Folk Songs)
+  - I Will Give My Love An Apple (English Folk Songs)
+  - The Nightingale (English Folk Songs)
+  - The Trees are Getting High (English Folk Songs)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/899d058f-a3c9-4a32-b76b-7566da9df6c0
-  spotify: https://open.spotify.com/artist/015L4DcGkTb1huHxwHQRkl
+  musicbrainz: 'https://musicbrainz.org/artist/899d058f-a3c9-4a32-b76b-7566da9df6c0'
+  spotify: 'https://open.spotify.com/artist/015L4DcGkTb1huHxwHQRkl'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/audrey_coppard.jpg
 biography_enhanced_at: '2025-11-15T18:11:11.643073'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Scarborough_Fair_(ballad)
-- https://mudcat.org/thread.cfm?threadid=173857
-- https://folkways.si.edu/audrey-coppard/english-folk-songs/celtic-world/music/album/smithsonian
-- http://www.justanothertune.com/html/gotnc.html
+  - 'https://en.wikipedia.org/wiki/Scarborough_Fair_(ballad)'
+  - 'https://mudcat.org/thread.cfm?threadid=173857'
+  - >-
+    https://folkways.si.edu/audrey-coppard/english-folk-songs/celtic-world/music/album/smithsonian
+  - 'http://www.justanothertune.com/html/gotnc.html'
 network_extracted: true
 entry_created: '2025-11-15T18:11:11.643084'
 last_updated: '2025-12-23T08:16:04.993192'
 gender: Female
 musicbrainz_id: 899d058f-a3c9-4a32-b76b-7566da9df6c0
-
+origin: 'England, United Kingdom'
 ---
 
 ![](audrey_coppard.jpg)

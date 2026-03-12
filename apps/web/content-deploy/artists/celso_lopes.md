@@ -3,10 +3,10 @@ biography_enhanced_at: '2025-12-28T01:55:52.305268'
 enhancement_provider: perplexity
 entry_created: '2025-12-28T01:55:52.305284'
 external_urls:
-  spotify: https://open.spotify.com/artist/4kX4rTzmomgEjCa2DbYQzW
+  spotify: 'https://open.spotify.com/artist/4kX4rTzmomgEjCa2DbYQzW'
   wikipedia: ''
 genres:
-- samba
+  - samba
 image_path: ''
 last_updated: '2025-12-28T01:55:52.305287'
 musical_connections:
@@ -16,15 +16,16 @@ musical_connections:
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- Spotify context
-- WWOZ playlist[6]
+  - Spotify context
+  - 'WWOZ playlist[6]'
 spotify_data:
   followers: 3
   id: 4kX4rTzmomgEjCa2DbYQzW
   popularity: 0
-  url: https://open.spotify.com/artist/4kX4rTzmomgEjCa2DbYQzW
+  url: 'https://open.spotify.com/artist/4kX4rTzmomgEjCa2DbYQzW'
 status: active
 title: Celso Lopes
+artist_type: person
 ---
 
 ![]()

@@ -3,42 +3,47 @@ biography_enhanced_at: '2026-01-04T01:55:43.591076'
 enhancement_provider: perplexity
 entry_created: '2026-01-04T01:55:43.591083'
 external_urls:
-  spotify: https://open.spotify.com/artist/6z69J8gjEOQsv4qpkopbJR
-  wikipedia: https://en.wikipedia.org/wiki/Chester_and_Lester
+  spotify: 'https://open.spotify.com/artist/6z69J8gjEOQsv4qpkopbJR'
+  wikipedia: 'https://en.wikipedia.org/wiki/Chester_and_Lester'
 genres:
-- traditional country
+  - traditional country
 image_path: ''
 last_updated: '2026-01-04T01:55:43.591084'
 musical_connections:
   collaborators:
-  - Ray Edenton
-  - Larrie Londin
-  - Bob Moore
-  - Jim Atkins
+    - Ray Edenton
+    - Larrie Londin
+    - Bob Moore
+    - Jim Atkins
   influenced:
-  - Tommy Emmanuel
-  - Jerry Reed
-  - Eric Johnson
+    - Tommy Emmanuel
+    - Jerry Reed
+    - Eric Johnson
   mentors:
-  - Merle Travis
-  - Les Paul
+    - Merle Travis
+    - Les Paul
 network_extracted: true
-origin: Luttrell, Tennessee, USA (Chet Atkins birthplace); Waukesha, Wisconsin, USA
+origin: >-
+  Luttrell, Tennessee, USA (Chet Atkins birthplace); Waukesha, Wisconsin, USA
   (Les Paul birthplace)
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Chester_and_Lester
-- https://www.sessiondays.com/2021/09/1976-chet-atkins-les-paul-chester-lester/
-- https://www.vintageguitar.com/25795/chet-atkins-2/
-- https://reverb.com/news/certified-genius-the-guitars-of-chet-atkins
-- https://www.countrymusichalloffame.org/artist/chet-atkins
+  - 'https://en.wikipedia.org/wiki/Chester_and_Lester'
+  - >-
+    https://www.sessiondays.com/2021/09/1976-chet-atkins-les-paul-chester-lester/
+  - 'https://www.vintageguitar.com/25795/chet-atkins-2/'
+  - 'https://reverb.com/news/certified-genius-the-guitars-of-chet-atkins'
+  - 'https://www.countrymusichalloffame.org/artist/chet-atkins'
 spotify_data:
   followers: 1233
   id: 6z69J8gjEOQsv4qpkopbJR
   popularity: 17
-  url: https://open.spotify.com/artist/6z69J8gjEOQsv4qpkopbJR
+  url: 'https://open.spotify.com/artist/6z69J8gjEOQsv4qpkopbJR'
 status: active
 title: Chet Atkins & Les Paul
+birth_place: 'Luttrell, Tennessee, United States'
+birth_date: '1924-06-20'
+artist_type: band
 ---
 
 ![]()

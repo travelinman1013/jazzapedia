@@ -2,14 +2,14 @@
 title: Sid Selvidge
 wiki_slug: sid-selvidge
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 aliases: []
 birth_date: '1943'
-birth_place: Greenville
+birth_place: 'Greenville, South Carolina, United States'
 death_date: '2013-05-02'
 genres:
-- country blues
+  - country blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Sid_Selvidge.jpg
   caption: Sid Selvidge
@@ -35,33 +35,34 @@ spotify_data:
   followers: 449
   id: 7qXIEyAkxjRHPrPTXwuP2F
   popularity: 4
-  url: https://open.spotify.com/artist/7qXIEyAkxjRHPrPTXwuP2F
+  url: 'https://open.spotify.com/artist/7qXIEyAkxjRHPrPTXwuP2F'
   verified: false
 discography_enriched: true
 albums_count: 4
 singles_count: 0
 top_tracks:
-- I've Got A Secret (Didn't We Sugaree) (The Cold Of The Morning)
-- That's How I Got to Memphis (I Should Be Blue)
-- Catch the Wind (I Should Be Blue)
-- Frank's Tune (The Cold Of The Morning)
-- Miss The Mississippi And You (The Cold Of The Morning)
-- East St. Louis Blues (The Cold Of The Morning)
-- Walkin' Down Beale Street (Beale Street Saturday Night)
-- Little Bit of Rain (A Little Bit of Rain)
-- Mama You Don't Mean Me No Good (A Little Bit of Rain)
-- Do I Ever Cross Your Mind? (A Little Bit of Rain)
+  - I've Got A Secret (Didn't We Sugaree) (The Cold Of The Morning)
+  - That's How I Got to Memphis (I Should Be Blue)
+  - Catch the Wind (I Should Be Blue)
+  - Frank's Tune (The Cold Of The Morning)
+  - Miss The Mississippi And You (The Cold Of The Morning)
+  - East St. Louis Blues (The Cold Of The Morning)
+  - Walkin' Down Beale Street (Beale Street Saturday Night)
+  - Little Bit of Rain (A Little Bit of Rain)
+  - Mama You Don't Mean Me No Good (A Little Bit of Rain)
+  - Do I Ever Cross Your Mind? (A Little Bit of Rain)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/61b34fd2-0089-412b-ac42-9033365b6519
-  spotify: https://open.spotify.com/artist/7qXIEyAkxjRHPrPTXwuP2F
+  musicbrainz: 'https://musicbrainz.org/artist/61b34fd2-0089-412b-ac42-9033365b6519'
+  spotify: 'https://open.spotify.com/artist/7qXIEyAkxjRHPrPTXwuP2F'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/Sid_Selvidge.jpg
 biography_source: none
-entry_created: 2025-09-22 22:24:14.070478
+entry_created: 2025-09-22T22:24:14.070Z
 last_updated: '2025-12-23T08:16:15.620975'
 gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:55:47.386580'
 musicbrainz_id: 61b34fd2-0089-412b-ac42-9033365b6519
+is_active: false
 ---
 
 ![](Sid_Selvidge.jpg)

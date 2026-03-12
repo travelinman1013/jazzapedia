@@ -5,23 +5,23 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1944-08-25'
-birth_place: Philadelphia
+birth_place: 'Philadelphia, Pennsylvania, United States'
 death_date: '2021-11-01'
 genres:
-- jazz
-- jazz fusion
-- hard bop
+  - jazz
+  - jazz fusion
+  - hard bop
 instruments:
-- guitar
-- 12 string guitar
-- electric guitar
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - guitar
-  mbid: 888674fe-3a10-4db7-9749-09f7b36cec55
-  name: Pat Martino Trio
+  - 12 string guitar
+  - electric guitar
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 888674fe-3a10-4db7-9749-09f7b36cec55
+    name: Pat Martino Trio
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/pat_martino.jpg
   caption: Pat Martino
@@ -44,52 +44,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Trudy Pitts
-  - Jack McDuff
-  - Don Patterson
-  - Eddie Green
-  - Tyrone Brown
+    - Trudy Pitts
+    - Jack McDuff
+    - Don Patterson
+    - Eddie Green
+    - Tyrone Brown
   influenced:
-  - Pat Metheny
-  - Carlos Santana
-  - George Benson
+    - Pat Metheny
+    - Carlos Santana
+    - George Benson
   mentors:
-  - Dennis Sandole
-  - John Coltrane
-  - Les Paul
-  - Wes Montgomery
+    - Dennis Sandole
+    - John Coltrane
+    - Les Paul
+    - Wes Montgomery
 spotify_data:
   followers: 76577
   id: 4DlMMgnldzX6OkCskmeGKz
   popularity: 37
-  url: https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz
+  url: 'https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz'
 discography_enriched: true
 top_tracks:
-- Both Sides Now (Cream)
-- Lament (We'll Be Together Again)
-- Sunny (Cream)
-- Send In The Clowns (We'll Be Together Again)
-- You Don't Know What Love Is (We'll Be Together Again)
-- How Insensitive (Footprints)
-- Dreamsville (We'll Be Together Again)
-- Impressions (Cream)
-- Passata On Guitar (Consciousness / Live!)
-- Blue Bossa (Cream)
+  - Both Sides Now (Cream)
+  - Lament (We'll Be Together Again)
+  - Sunny (Cream)
+  - Send In The Clowns (We'll Be Together Again)
+  - You Don't Know What Love Is (We'll Be Together Again)
+  - How Insensitive (Footprints)
+  - Dreamsville (We'll Be Together Again)
+  - Impressions (Cream)
+  - Passata On Guitar (Consciousness / Live!)
+  - Blue Bossa (Cream)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8b8b7c42-8210-4267-bb93-4c2df5b2c438
-  spotify: https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz
-  wikipedia: https://en.wikipedia.org/wiki/Pat_Martino
+  musicbrainz: 'https://musicbrainz.org/artist/8b8b7c42-8210-4267-bb93-4c2df5b2c438'
+  spotify: 'https://open.spotify.com/artist/4DlMMgnldzX6OkCskmeGKz'
+  wikipedia: 'https://en.wikipedia.org/wiki/Pat_Martino'
 image_path: 03_Resources/source_material/ArtistPortraits/pat_martino.jpg
 biography_enhanced_at: '2025-12-04T07:18:36.958695'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Pat_Martino
-- https://denverjournal.denverseminary.edu/the-denver-journal-article/here-and-now-the-autobiography-of-pat-martino/
-- https://www.wrti.org/arts-desk/2020-11-02/jazz-philadelphias-hometown-heroes-spotlight-on-guitarist-pat-martino
-- https://www.soundlifelessons.com/blogs/soundlife-music-lessons-blog/posts/6828005/pat-martino-twice-the-legend
-- https://www.premierguitar.com/artists/pat-martino-obituary
-- https://jazzguitartoday.com/2023/08/celebrating-the-artistry-of-pat-martino/
+  - 'https://en.wikipedia.org/wiki/Pat_Martino'
+  - >-
+    https://denverjournal.denverseminary.edu/the-denver-journal-article/here-and-now-the-autobiography-of-pat-martino/
+  - >-
+    https://www.wrti.org/arts-desk/2020-11-02/jazz-philadelphias-hometown-heroes-spotlight-on-guitarist-pat-martino
+  - >-
+    https://www.soundlifelessons.com/blogs/soundlife-music-lessons-blog/posts/6828005/pat-martino-twice-the-legend
+  - 'https://www.premierguitar.com/artists/pat-martino-obituary'
+  - 'https://jazzguitartoday.com/2023/08/celebrating-the-artistry-of-pat-martino/'
 network_extracted: true
 entry_created: '2025-12-04T07:18:36.958706'
 last_updated: '2025-12-23T08:16:13.980477'
@@ -97,10 +100,11 @@ disambiguation: American jazz guitarist
 gender: Male
 musicbrainz_id: 8b8b7c42-8210-4267-bb93-4c2df5b2c438
 tags:
-- hard bop
-- jazz
-- post-bop
-
+  - hard bop
+  - jazz
+  - post-bop
+is_active: false
+origin: 'New York City, New York, United States'
 ---
 
 ![](pat_martino.jpg)

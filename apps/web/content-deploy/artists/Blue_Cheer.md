@@ -2,25 +2,25 @@
 title: Blue Cheer
 wiki_slug: blue-cheer
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 aliases: []
 birth_date: '1966'
 years_active: 2009-present
 genres:
-- acid rock
-- psychedelic rock
-- proto-punk
-- stoner rock
+  - acid rock
+  - psychedelic rock
+  - proto-punk
+  - stoner rock
 instruments:
-- electric guitar
-- original
-- electric bass guitar
-- lead vocals
-- drums (drum set)
-- guitar
+  - electric guitar
+  - original
+  - electric bass guitar
+  - lead vocals
+  - drums (drum set)
+  - guitar
 record_labels:
-- Philips Records
+  - Philips Records
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Blue_Cheer.jpg
   caption: Blue Cheer
@@ -44,38 +44,41 @@ spotify_data:
   followers: 82533
   id: 4PI5IHRvANLL76O5gRmGKL
   popularity: 34
-  url: https://open.spotify.com/artist/4PI5IHRvANLL76O5gRmGKL
+  url: 'https://open.spotify.com/artist/4PI5IHRvANLL76O5gRmGKL'
   verified: false
 discography_enriched: true
 albums_count: 21
 singles_count: 8
 top_tracks:
-- Summertime Blues (Vincebus Eruptum)
-- 'Summertime Blues (The History Of Blue Cheer: Good Times Are So Hard To Find)'
-- 'Peace Of Mind (The History Of Blue Cheer: Good Times Are So Hard To Find)'
-- 'Good Times Are So Hard To Find (The History Of Blue Cheer: Good Times Are So Hard To Find)'
-- Out Of Focus (Vincebus Eruptum)
-- Rock Me Baby (Vincebus Eruptum)
-- Magnolia Caboose Babyfinger (Outsideinside)
-- Sun Cycle (Outsideinside)
-- Just A Little Bit (Outsideinside)
-- Good times are so Hard to Find (Blender of Love)
+  - Summertime Blues (Vincebus Eruptum)
+  - 'Summertime Blues (The History Of Blue Cheer: Good Times Are So Hard To Find)'
+  - 'Peace Of Mind (The History Of Blue Cheer: Good Times Are So Hard To Find)'
+  - >-
+    Good Times Are So Hard To Find (The History Of Blue Cheer: Good Times Are So
+    Hard To Find)
+  - Out Of Focus (Vincebus Eruptum)
+  - Rock Me Baby (Vincebus Eruptum)
+  - Magnolia Caboose Babyfinger (Outsideinside)
+  - Sun Cycle (Outsideinside)
+  - Just A Little Bit (Outsideinside)
+  - Good times are so Hard to Find (Blender of Love)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/523b52d7-a819-4111-9085-69fc269c9638
-  spotify: https://open.spotify.com/artist/4PI5IHRvANLL76O5gRmGKL
-  wikipedia: https://en.wikipedia.org/wiki/Blue_Cheer
+  musicbrainz: 'https://musicbrainz.org/artist/523b52d7-a819-4111-9085-69fc269c9638'
+  spotify: 'https://open.spotify.com/artist/4PI5IHRvANLL76O5gRmGKL'
+  wikipedia: 'https://en.wikipedia.org/wiki/Blue_Cheer'
 image_path: 03_Resources/source_material/ArtistPortraits/Blue_Cheer.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-18T16:01:58.853415'
-entry_created: 2025-09-18 13:07:13.613406
+entry_created: 2025-09-18T13:07:13.613Z
 last_updated: '2025-12-23T08:16:01.251662'
 musicbrainz_enriched_at: '2025-10-21T09:02:41.820764'
 musicbrainz_id: 523b52d7-a819-4111-9085-69fc269c9638
-origin: San Francisco
+origin: 'San Francisco, California, United States'
 tags:
-- acid rock
-- blues rock
-- country rock
+  - acid rock
+  - blues rock
+  - country rock
+birth_place: 'San Francisco, California, United States'
 ---
 
 ![](Blue_Cheer.jpg)

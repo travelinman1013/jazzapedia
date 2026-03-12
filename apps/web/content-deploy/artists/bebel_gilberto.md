@@ -5,15 +5,15 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1966-05-12'
-birth_place: Manhattan
+birth_place: 'Manhattan, New York, United States'
 genres:
-- bossa nova
-- brazilian jazz
-- mpb
+  - bossa nova
+  - brazilian jazz
+  - mpb
 instruments:
-- background vocals
-- choir vocals
-- lead vocals
+  - background vocals
+  - choir vocals
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bebel_gilberto.jpg
   caption: Bebel Gilberto
@@ -35,58 +35,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Cazuza
-  - Guy Sigsworth
-  - Orquestra Imperial
-  - Brazilian Girls
-  - Stan Getz
+    - Cazuza
+    - Guy Sigsworth
+    - Orquestra Imperial
+    - Brazilian Girls
+    - Stan Getz
   influenced:
-  - Céu
-  - Brazilian Girls
+    - Céu
+    - Brazilian Girls
   mentors:
-  - João Gilberto
-  - Miúcha
-  - Antônio Carlos Jobim
+    - João Gilberto
+    - Miúcha
+    - Antônio Carlos Jobim
 spotify_data:
   followers: 147625
   id: 6gk4ierjjSVPoZep27VfZz
   popularity: 49
-  url: https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz
+  url: 'https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz'
 discography_enriched: true
 top_tracks:
-- Preciso Dizer Que Te Amo
-- Samba da Bencao (Tanto Tempo)
-- So Nice (Summer Samba) (Tanto Tempo)
-- Night and Day (Momento)
-- Samba E Amor (Tanto Tempo)
-- Aganju (Bebel Gilberto)
-- Samba Da Bencao (Tanto Tempo)
-- The Girl from Ipanema (feat. Bebel Gilberto) (Classics In The Key Of G)
-- Samba da Benção
-- August Day Song (Tanto Tempo)
+  - Preciso Dizer Que Te Amo
+  - Samba da Bencao (Tanto Tempo)
+  - So Nice (Summer Samba) (Tanto Tempo)
+  - Night and Day (Momento)
+  - Samba E Amor (Tanto Tempo)
+  - Aganju (Bebel Gilberto)
+  - Samba Da Bencao (Tanto Tempo)
+  - The Girl from Ipanema (feat. Bebel Gilberto) (Classics In The Key Of G)
+  - Samba da Benção
+  - August Day Song (Tanto Tempo)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8777a849-fb4e-4430-9918-170f619c5286
-  spotify: https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz
-  wikipedia: https://en.wikipedia.org/wiki/Bebel_Gilberto
+  musicbrainz: 'https://musicbrainz.org/artist/8777a849-fb4e-4430-9918-170f619c5286'
+  spotify: 'https://open.spotify.com/artist/6gk4ierjjSVPoZep27VfZz'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bebel_Gilberto'
 image_path: 03_Resources/source_material/ArtistPortraits/bebel_gilberto.jpg
 biography_enhanced_at: '2025-11-26T07:42:37.193065'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Bebel_Gilberto
-- https://www.latinolife.co.uk/articles/bebel-gilberto-mother-bossa-electronica
-- https://www.imnworld.com/artists/bebelgilberto
-- https://www.fasching.se/en/bebel-gilberto/
-- https://www.popcultureclassics.com/bebel_gilberto.html
+  - 'https://en.wikipedia.org/wiki/Bebel_Gilberto'
+  - >-
+    https://www.latinolife.co.uk/articles/bebel-gilberto-mother-bossa-electronica
+  - 'https://www.imnworld.com/artists/bebelgilberto'
+  - 'https://www.fasching.se/en/bebel-gilberto/'
+  - 'https://www.popcultureclassics.com/bebel_gilberto.html'
 network_extracted: true
 entry_created: '2025-11-26T07:42:37.193077'
 last_updated: '2025-12-23T08:16:05.184782'
 gender: Female
 musicbrainz_id: 8777a849-fb4e-4430-9918-170f619c5286
 tags:
-- bossa nova
-- brazilian
-- brazilian pop
+  - bossa nova
+  - brazilian
+  - brazilian pop
 ---
 
 ![](bebel_gilberto.jpg)

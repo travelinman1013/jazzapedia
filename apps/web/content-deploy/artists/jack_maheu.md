@@ -5,7 +5,7 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1930-05-01'
-birth_place: Troy
+birth_place: 'Troy, New York, United States'
 death_date: '2013-08-27'
 genres: []
 infobox:
@@ -30,59 +30,66 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dukes of Dixieland
-  - Muggsy Spanier
-  - Bob Scobey, Jimmy McPartland, Art Hodes, George Brunis, Vic Dickenson, George Wettling, Bud Freeman
-  - Will Alger
-  - Wild Bill Davison
-  - Pee Wee Erwin
-  - Paradise Jazz Band
-  - Al Hirt
+    - Dukes of Dixieland
+    - Muggsy Spanier
+    - >-
+      Bob Scobey, Jimmy McPartland, Art Hodes, George Brunis, Vic Dickenson,
+      George Wettling, Bud Freeman
+    - Will Alger
+    - Wild Bill Davison
+    - Pee Wee Erwin
+    - Paradise Jazz Band
+    - Al Hirt
   influenced:
-  - Tim Laughlin
-  - Numerous younger New Orleans clarinetists
+    - Tim Laughlin
+    - Numerous younger New Orleans clarinetists
   mentors:
-  - Benny Goodman
-  - Artie Shaw
-  - Pee Wee Russell
+    - Benny Goodman
+    - Artie Shaw
+    - Pee Wee Russell
 spotify_data:
   followers: 45
   id: 3kQopHzTo9JcF2XJSTmB7t
   popularity: 2
-  url: https://open.spotify.com/artist/3kQopHzTo9JcF2XJSTmB7t
+  url: 'https://open.spotify.com/artist/3kQopHzTo9JcF2XJSTmB7t'
 discography_enriched: true
 top_tracks:
-- Emaline (Jack Maheu in New Orleans)
-- I'm Gonna Sit Right Down and Write Myself a Letter (New Orleans Jazz)
-- Avalon (Tom Mcdermott and His Jazz Hellions)
-- Please Don't Talk About Me When I'm Gone (New Orleans Jazz)
-- Tie a Yellow Ribbon 'Round the Old Oak Tree (Tie a Yellow Ribbon 'Round the Old Oak Tree)
-- My Inspiration (Swing That Music)
-- Old Fashioned Love (Swing That Music)
-- Someday (You'll Want Me to Want You) (New Orleans Jazz)
-- I Want a Little Girl (Tie a Yellow Ribbon 'Round the Old Oak Tree)
-- Back in Your Own Back Yard (Tie a Yellow Ribbon 'Round the Old Oak Tree)
+  - Emaline (Jack Maheu in New Orleans)
+  - I'm Gonna Sit Right Down and Write Myself a Letter (New Orleans Jazz)
+  - Avalon (Tom Mcdermott and His Jazz Hellions)
+  - Please Don't Talk About Me When I'm Gone (New Orleans Jazz)
+  - >-
+    Tie a Yellow Ribbon 'Round the Old Oak Tree (Tie a Yellow Ribbon 'Round the
+    Old Oak Tree)
+  - My Inspiration (Swing That Music)
+  - Old Fashioned Love (Swing That Music)
+  - Someday (You'll Want Me to Want You) (New Orleans Jazz)
+  - I Want a Little Girl (Tie a Yellow Ribbon 'Round the Old Oak Tree)
+  - Back in Your Own Back Yard (Tie a Yellow Ribbon 'Round the Old Oak Tree)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5878220a-f10e-4b6f-be54-874f17f69cda
-  spotify: https://open.spotify.com/artist/3kQopHzTo9JcF2XJSTmB7t
+  musicbrainz: 'https://musicbrainz.org/artist/5878220a-f10e-4b6f-be54-874f17f69cda'
+  spotify: 'https://open.spotify.com/artist/3kQopHzTo9JcF2XJSTmB7t'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/jack_maheu.jpg
 biography_enhanced_at: '2025-11-05T12:53:41.030477'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://clarinetcorner.wordpress.com/2013/08/30/jack-maheu-passed-away-august-272013/
-- https://www.offbeat.com/articles/jack-maheu-may-1-1930-august-27-2013/
-- https://jazztimes.com/archives/tim-laughlin-and-jack-maheu-swing-that-music/
-- https://clarinetcorner.wordpress.com/2009/02/17/jack-maheu-noted-disieland-musician-played-a-lenlanc-dynamic-2/
-- https://www.offbeat.com/articles/how-does-jack-meheu-do-that/
+  - >-
+    https://clarinetcorner.wordpress.com/2013/08/30/jack-maheu-passed-away-august-272013/
+  - 'https://www.offbeat.com/articles/jack-maheu-may-1-1930-august-27-2013/'
+  - 'https://jazztimes.com/archives/tim-laughlin-and-jack-maheu-swing-that-music/'
+  - >-
+    https://clarinetcorner.wordpress.com/2009/02/17/jack-maheu-noted-disieland-musician-played-a-lenlanc-dynamic-2/
+  - 'https://www.offbeat.com/articles/how-does-jack-meheu-do-that/'
 network_extracted: true
 entry_created: '2025-11-05T12:53:41.030492'
 last_updated: '2025-12-23T08:16:10.014370'
 gender: Male
 musicbrainz_id: 5878220a-f10e-4b6f-be54-874f17f69cda
 tags:
-- jazz
+  - jazz
+is_active: false
 ---
 
 ![](jack_maheu.jpg)

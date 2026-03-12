@@ -1,21 +1,21 @@
 ---
-title: LOVE CANON
+title: Love Canon
 wiki_slug: love-canon
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 genres:
-- bluegrass
-- newgrass
+  - bluegrass
+  - newgrass
 instruments:
-- guitar
-- lead vocals
-- banjo
-- fiddle
-- bass
-- background vocals
-- resonator guitar
-- mandolin
+  - guitar
+  - lead vocals
+  - banjo
+  - fiddle
+  - bass
+  - background vocals
+  - resonator guitar
+  - mandolin
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/love_canon.jpg
   caption: LOVE CANON
@@ -35,110 +35,110 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jesse Harper
-  - Adam Larrabee
-  - Andy Thacker
-  - Darrell Muller
-  - Jay Starling
-  - Nate Leath
-  - Alex Hargreaves
-  - Keller Williams
-  - Jerry Douglas
-  - Aoife O’Donovan
-  - Michael Cleveland
-  - Eric Krasno
-  - Lauren Balthrop
-  - Mike Barnett
+    - Jesse Harper
+    - Adam Larrabee
+    - Andy Thacker
+    - Darrell Muller
+    - Jay Starling
+    - Nate Leath
+    - Alex Hargreaves
+    - Keller Williams
+    - Jerry Douglas
+    - Aoife O’Donovan
+    - Michael Cleveland
+    - Eric Krasno
+    - Lauren Balthrop
+    - Mike Barnett
   influenced:
-  - Contemporary bluegrass and newgrass bands
+    - Contemporary bluegrass and newgrass bands
   mentors:
-  - Bill Monroe
+    - Bill Monroe
 spotify_data:
   followers: 10737
   id: 6g4kxAF2OVE5eZh2aMMNjJ
   popularity: 26
-  url: https://open.spotify.com/artist/6g4kxAF2OVE5eZh2aMMNjJ
+  url: 'https://open.spotify.com/artist/6g4kxAF2OVE5eZh2aMMNjJ'
 discography_enriched: true
 top_tracks:
-- Take On Me (Greatest Hits Vol. 2)
-- Down Under (Greatest Hits Vol. 3)
-- Everybody Wants to Rule the World (Greatest Hits Vol. 2)
-- Africa (Greatest Hits, Vol. 1)
-- Islands in the Stream (Cover Story)
-- Money for Nothing (Greatest Hits Vol. 2)
-- Don't Stop Believin' (Greatest Hits Vol. 2)
-- Sledgehammer (Greatest Hits Vol. 2)
-- The Way It Is (Greatest Hits Vol. 3)
-- Solsbury Hill / Icecaps of Pentatonia-medley (Cover Story)
+  - Take On Me (Greatest Hits Vol. 2)
+  - Down Under (Greatest Hits Vol. 3)
+  - Everybody Wants to Rule the World (Greatest Hits Vol. 2)
+  - 'Africa (Greatest Hits, Vol. 1)'
+  - Islands in the Stream (Cover Story)
+  - Money for Nothing (Greatest Hits Vol. 2)
+  - Don't Stop Believin' (Greatest Hits Vol. 2)
+  - Sledgehammer (Greatest Hits Vol. 2)
+  - The Way It Is (Greatest Hits Vol. 3)
+  - Solsbury Hill / Icecaps of Pentatonia-medley (Cover Story)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5cb5d069-cd74-445a-ab00-acab9735245b
-  spotify: https://open.spotify.com/artist/6g4kxAF2OVE5eZh2aMMNjJ
+  musicbrainz: 'https://musicbrainz.org/artist/5cb5d069-cd74-445a-ab00-acab9735245b'
+  spotify: 'https://open.spotify.com/artist/6g4kxAF2OVE5eZh2aMMNjJ'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/love_canon.jpg
 biography_enhanced_at: '2025-11-17T10:42:59.768099'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://floodcitymusic.com/performers/love-canon/
-- http://www.lovecanonmusic.com
-- https://bluegrasstoday.com/cover-story-love-canon/
-- https://thebluegrasssituation.com/read/that-aint-bluegrass-love-canon/
-- https://bluegrassbios.com/love-canon/
+  - 'https://floodcitymusic.com/performers/love-canon/'
+  - 'http://www.lovecanonmusic.com'
+  - 'https://bluegrasstoday.com/cover-story-love-canon/'
+  - 'https://thebluegrasssituation.com/read/that-aint-bluegrass-love-canon/'
+  - 'https://bluegrassbios.com/love-canon/'
 network_extracted: true
 entry_created: '2025-11-17T10:42:59.768104'
 last_updated: '2025-12-23T08:16:12.289048'
 disambiguation: Charlottesville bluegrass 1980s pop/rock cover band
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: 19e2c684-a1c9-4a21-b605-505edf3fe647
-  name: Jesse Harper
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: 19e2c684-a1c9-4a21-b605-505edf3fe647
-  name: Jesse Harper
-- begin: ''
-  end: ''
-  instruments:
-  - banjo
-  mbid: f2e1c16c-bce3-4a2a-b227-fe3b36e2c31b
-  name: Adam Larrabee
-- begin: ''
-  end: ''
-  instruments:
-  - fiddle
-  mbid: c2fa77f0-edcb-46e2-b045-0a09bce4474f
-  name: Nate Leath
-- begin: ''
-  end: ''
-  instruments:
-  - bass
-  mbid: 0b8d5ed6-5b17-4031-9933-39f82668336f
-  name: Darrell Muller
-- begin: ''
-  end: ''
-  instruments:
-  - background vocals
-  mbid: 0b8d5ed6-5b17-4031-9933-39f82668336f
-  name: Darrell Muller
-- begin: ''
-  end: ''
-  instruments:
-  - resonator guitar
-  mbid: 24825515-873b-4e34-bd1a-b310d261c1d0
-  name: Jay Starling
-- begin: ''
-  end: ''
-  instruments:
-  - mandolin
-  mbid: 1a43cd77-445c-4215-87b6-275b5d56ee1f
-  name: Andy Thacker
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 19e2c684-a1c9-4a21-b605-505edf3fe647
+    name: Jesse Harper
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: 19e2c684-a1c9-4a21-b605-505edf3fe647
+    name: Jesse Harper
+  - begin: ''
+    end: ''
+    instruments:
+      - banjo
+    mbid: f2e1c16c-bce3-4a2a-b227-fe3b36e2c31b
+    name: Adam Larrabee
+  - begin: ''
+    end: ''
+    instruments:
+      - fiddle
+    mbid: c2fa77f0-edcb-46e2-b045-0a09bce4474f
+    name: Nate Leath
+  - begin: ''
+    end: ''
+    instruments:
+      - bass
+    mbid: 0b8d5ed6-5b17-4031-9933-39f82668336f
+    name: Darrell Muller
+  - begin: ''
+    end: ''
+    instruments:
+      - background vocals
+    mbid: 0b8d5ed6-5b17-4031-9933-39f82668336f
+    name: Darrell Muller
+  - begin: ''
+    end: ''
+    instruments:
+      - resonator guitar
+    mbid: 24825515-873b-4e34-bd1a-b310d261c1d0
+    name: Jay Starling
+  - begin: ''
+    end: ''
+    instruments:
+      - mandolin
+    mbid: 1a43cd77-445c-4215-87b6-275b5d56ee1f
+    name: Andy Thacker
 musicbrainz_id: 5cb5d069-cd74-445a-ab00-acab9735245b
-origin: Charlottesville
+origin: 'Charlottesville, Virginia, United States'
 ---
 
 ![](love_canon.jpg)

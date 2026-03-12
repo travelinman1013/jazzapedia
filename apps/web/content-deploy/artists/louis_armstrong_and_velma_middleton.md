@@ -5,7 +5,8 @@ schema_version: 2
 status: active
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/louis_armstrong_and_velma_middleton.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/louis_armstrong_and_velma_middleton.jpg
   caption: Louis Armstrong & Velma Middleton
   background: solo_singer
 audio_profile:
@@ -23,41 +24,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Louis Armstrong
-  - Trummy Young
-  - Barney Bigard
-  - Billy Kyle
+    - Louis Armstrong
+    - Trummy Young
+    - Barney Bigard
+    - Billy Kyle
   influenced:
-  - Jazz vocalists and entertainers
+    - Jazz vocalists and entertainers
   mentors:
-  - Connie McLean
+    - Connie McLean
 spotify_data:
   followers: 69
   id: 1cBN7I3EUTt3ZThLpYcpUr
   popularity: 1
-  url: https://open.spotify.com/artist/1cBN7I3EUTt3ZThLpYcpUr
+  url: 'https://open.spotify.com/artist/1cBN7I3EUTt3ZThLpYcpUr'
 discography_enriched: true
 top_tracks:
-- Baby, It's Cold Outside (Holiday Lounge - The Christmas Remixes)
-- Baby, It's Cold Outside (King Kooba Remix) (Holiday Chill - The Christmas Remixes)
-- Honeysuckle Rose (Music From The Great Gatsby Era)
+  - 'Baby, It''s Cold Outside (Holiday Lounge - The Christmas Remixes)'
+  - >-
+    Baby, It's Cold Outside (King Kooba Remix) (Holiday Chill - The Christmas
+    Remixes)
+  - Honeysuckle Rose (Music From The Great Gatsby Era)
 external_urls:
-  spotify: https://open.spotify.com/artist/1cBN7I3EUTt3ZThLpYcpUr
-  wikipedia: https://en.wikipedia.org/wiki/Velma_Middleton
+  spotify: 'https://open.spotify.com/artist/1cBN7I3EUTt3ZThLpYcpUr'
+  wikipedia: 'https://en.wikipedia.org/wiki/Velma_Middleton'
 image_path: ''
 biography_enhanced_at: '2025-11-11T09:17:16.384551'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Velma_Middleton
-- https://wbssmedia.com/artists/detail/3982
-- https://virtualexhibits.louisarmstronghouse.org/2021/02/10/solid-a-celebration-of-velma-middleton/
-- https://www.freshsoundrecords.com/13662-velma-middleton-albums
-- https://www.allmusic.com/artist/velma-middleton-mn0000263248
+  - 'https://en.wikipedia.org/wiki/Velma_Middleton'
+  - 'https://wbssmedia.com/artists/detail/3982'
+  - >-
+    https://virtualexhibits.louisarmstronghouse.org/2021/02/10/solid-a-celebration-of-velma-middleton/
+  - 'https://www.freshsoundrecords.com/13662-velma-middleton-albums'
+  - 'https://www.allmusic.com/artist/velma-middleton-mn0000263248'
 network_extracted: true
 entry_created: '2025-11-11T09:17:16.384566'
 last_updated: '2025-12-23T08:16:12.241324'
-origin: Holdenville, Oklahoma, United States
+origin: 'Holdenville, Oklahoma, United States'
+birth_place: 'Holdenville, Oklahoma, United States'
+birth_date: '1917-09-01'
+death_date: '1961'
+artist_type: band
 ---
 
 ![]()

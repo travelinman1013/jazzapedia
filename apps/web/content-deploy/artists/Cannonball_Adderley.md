@@ -2,27 +2,27 @@
 title: Cannonball Adderley
 wiki_slug: cannonball-adderley
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1928-09-15'
-birth_place: Tampa, Florida, United States
+birth_place: 'Tampa, Florida, United States'
 death_date: '1975-08-08'
 genres:
-- hard bop
-- jazz
-- bebop
-- cool jazz
-- jazz blues
+  - hard bop
+  - jazz
+  - bebop
+  - cool jazz
+  - jazz blues
 instruments:
-- alto saxophone
-- eponymous
-- original
+  - alto saxophone
+  - eponymous
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Cannonball_Adderley.jpg
   caption: Cannonball Adderley
   background: non_vocal_instrumentalist
   born: '1928-09-15'
-  origin: Tampa, Florida, United States
+  origin: 'Tampa, Florida, United States'
   died: '1975-08-08'
 audio_profile:
   tempo_avg: 113.6
@@ -39,56 +39,71 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Nat Adderley
-  - Miles Davis
-  - John Coltrane
-  - Joe Zawinul
-  - Bobby Timmons
-  - Yusef Lateef
-  - Charles Lloyd
-  - Sam Jones
-  - Louis Hayes
+    - Nat Adderley
+    - Miles Davis
+    - John Coltrane
+    - Joe Zawinul
+    - Bobby Timmons
+    - Yusef Lateef
+    - Charles Lloyd
+    - Sam Jones
+    - Louis Hayes
   influenced:
-  - David Sanborn
-  - Phil Woods
-  - Grover Washington Jr.
-  - Joe Zawinul
+    - David Sanborn
+    - Phil Woods
+    - Grover Washington Jr.
+    - Joe Zawinul
   mentors:
-  - Charlie Parker
-  - Benny Carter
-  - Louis Jordan
-  - Eddie 'Cleanhead' Vinson
+    - Charlie Parker
+    - Benny Carter
+    - Louis Jordan
+    - Eddie 'Cleanhead' Vinson
 spotify_data:
   followers: 239937
   id: 5v74mT11KGJqadf9sLw4dA
   popularity: 55
-  url: https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA
+  url: 'https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA'
 discography_enriched: true
 top_tracks:
-- So What (feat. John Coltrane, Cannonball Adderley & Bill Evans) (Kind Of Blue (Legacy Edition))
-- Milestones (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones) (Milestones)
-- Autumn Leaves (Somethin' Else (Rudy Van Gelder Edition))
-- Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly & Paul Chambers) (Kind Of Blue)
-- The Masquerade Is Over (Nancy Wilson/Cannonball Adderley)
-- Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly & Paul Chambers) (Kind Of Blue (Legacy Edition))
-- So What (feat. John Coltrane, Cannonball Adderley & Bill Evans) (Kind Of Blue)
-- Dancing In The Dark (Somethin' Else (Rudy Van Gelder Edition))
-- All Blues (feat. John Coltrane, Cannonball Adderley & Bill Evans) (Kind Of Blue (Legacy Edition))
-- Flamenco Sketches (feat. John Coltrane, Cannonball Adderley & Bill Evans) (Kind Of Blue (Legacy Edition))
+  - >-
+    So What (feat. John Coltrane, Cannonball Adderley & Bill Evans) (Kind Of
+    Blue (Legacy Edition))
+  - >-
+    Milestones (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul
+    Chambers & Philly Joe Jones) (Milestones)
+  - Autumn Leaves (Somethin' Else (Rudy Van Gelder Edition))
+  - >-
+    Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly &
+    Paul Chambers) (Kind Of Blue)
+  - The Masquerade Is Over (Nancy Wilson/Cannonball Adderley)
+  - >-
+    Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly &
+    Paul Chambers) (Kind Of Blue (Legacy Edition))
+  - >-
+    So What (feat. John Coltrane, Cannonball Adderley & Bill Evans) (Kind Of
+    Blue)
+  - Dancing In The Dark (Somethin' Else (Rudy Van Gelder Edition))
+  - >-
+    All Blues (feat. John Coltrane, Cannonball Adderley & Bill Evans) (Kind Of
+    Blue (Legacy Edition))
+  - >-
+    Flamenco Sketches (feat. John Coltrane, Cannonball Adderley & Bill Evans)
+    (Kind Of Blue (Legacy Edition))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a4c73ebe-b2c7-4f13-b99d-2fe1f9f27da8
-  spotify: https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA
-  wikipedia: https://en.wikipedia.org/wiki/Cannonball_Adderley
+  musicbrainz: 'https://musicbrainz.org/artist/a4c73ebe-b2c7-4f13-b99d-2fe1f9f27da8'
+  spotify: 'https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA'
+  wikipedia: 'https://en.wikipedia.org/wiki/Cannonball_Adderley'
 image_path: 03_Resources/source_material/ArtistPortraits/Cannonball_Adderley.jpg
 biography_enhanced_at: '2025-10-19T10:45:49.448607'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Cannonball_Adderley
-- https://cannonball-adderley.com/bio2.htm
-- https://www.bluenote.com/artist/cannonball-adderley/
-- https://allaboutjazz.com/musicians/cannonball-adderley
-- https://thegrizzlygazette.org/2745/community/the-joy-of-jazz-julian-cannonball-adderley-alto-saxophone/
+  - 'https://en.wikipedia.org/wiki/Cannonball_Adderley'
+  - 'https://cannonball-adderley.com/bio2.htm'
+  - 'https://www.bluenote.com/artist/cannonball-adderley/'
+  - 'https://allaboutjazz.com/musicians/cannonball-adderley'
+  - >-
+    https://thegrizzlygazette.org/2745/community/the-joy-of-jazz-julian-cannonball-adderley-alto-saxophone/
 network_extracted: true
 entry_created: '2025-10-19T10:45:49.448615'
 last_updated: '2025-12-23T08:16:01.446340'
@@ -96,9 +111,11 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:21:33.533318'
 musicbrainz_id: a4c73ebe-b2c7-4f13-b99d-2fe1f9f27da8
 tags:
-- american
-- bossa nova
-- hard bop
+  - american
+  - bossa nova
+  - hard bop
+is_active: false
+origin: 'New York City, New York, United States'
 ---
 
 ![](Cannonball_Adderley.jpg)

@@ -2,53 +2,55 @@
 artist_type: person
 biography_enhanced_at: '2025-12-29T01:16:01.478709'
 birth_date: '2004-06-08'
-birth_place: Madisonville
+birth_place: 'Madisonville, Tennessee, United States'
 enhancement_provider: perplexity
 entry_created: '2025-12-29T01:16:01.478720'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/bbda7d92-323c-4baa-88b1-3761c98e8c64
-  spotify: https://open.spotify.com/artist/5F76wMVKQNG6HWNND78Qba
-  wikipedia: https://en.wikipedia.org/wiki/EmiSunshine
+  musicbrainz: 'https://musicbrainz.org/artist/bbda7d92-323c-4baa-88b1-3761c98e8c64'
+  spotify: 'https://open.spotify.com/artist/5F76wMVKQNG6HWNND78Qba'
+  wikipedia: 'https://en.wikipedia.org/wiki/EmiSunshine'
 gender: Female
 genres:
-- bluegrass
-- americana
+  - bluegrass
+  - americana
 image_path: 03_Resources/source_material/ArtistPortraits/emisunshine.jpg
 last_updated: '2025-12-29T01:16:01.478722'
 musical_connections:
   collaborators:
-  - Jim Lauderdale
-  - The McCrary Sisters
-  - Bootsy Collins
-  - Vicky McGehee
-  - Kyle Jacobs
-  - Chelle Rose, Autumn McEntire, Fish Fisher
-  - The Rain (her backing band)
+    - Jim Lauderdale
+    - The McCrary Sisters
+    - Bootsy Collins
+    - Vicky McGehee
+    - Kyle Jacobs
+    - 'Chelle Rose, Autumn McEntire, Fish Fisher'
+    - The Rain (her backing band)
   influenced:
-  - ''
+    - ''
   mentors:
-  - Randall Hamilton
-  - Alisha Karol Hamilton
-  - Tony Brown
+    - Randall Hamilton
+    - Alisha Karol Hamilton
+    - Tony Brown
 musicbrainz_id: bbda7d92-323c-4baa-88b1-3761c98e8c64
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/EmiSunshine
-- https://www.ludlowgaragecincinnati.com/emisunshine-the-rain/
-- https://boropulse.com/2016/10/born-to-perform-12-year-old-emisunshine-brings-her-songs-and-love-to-bird-song-studio/
-- https://www.yugarproductions.com/music/emi-sunshine.php
-- https://purplefiddle.com/bands/emisunshine/
-- https://bluegrassunlimited.com/article/emisunshine/
-- https://www.passim.org/artists/emisunshine/
-- https://stationinn.com/event/emisunshine/
+  - 'https://en.wikipedia.org/wiki/EmiSunshine'
+  - 'https://www.ludlowgaragecincinnati.com/emisunshine-the-rain/'
+  - >-
+    https://boropulse.com/2016/10/born-to-perform-12-year-old-emisunshine-brings-her-songs-and-love-to-bird-song-studio/
+  - 'https://www.yugarproductions.com/music/emi-sunshine.php'
+  - 'https://purplefiddle.com/bands/emisunshine/'
+  - 'https://bluegrassunlimited.com/article/emisunshine/'
+  - 'https://www.passim.org/artists/emisunshine/'
+  - 'https://stationinn.com/event/emisunshine/'
 spotify_data:
   followers: 6758
   id: 5F76wMVKQNG6HWNND78Qba
   popularity: 10
-  url: https://open.spotify.com/artist/5F76wMVKQNG6HWNND78Qba
+  url: 'https://open.spotify.com/artist/5F76wMVKQNG6HWNND78Qba'
 status: active
 title: EmiSunshine
+origin: 'Madisonville, Tennessee, United States'
 ---
 
 ![](emisunshine.jpg)

@@ -1,12 +1,12 @@
 ---
-title: Tony toni Tone
+title: Tony! Toni! Toné!
 wiki_slug: tony-toni-tone
 schema_version: 2
 status: active
 genres:
-- new jack swing
-- quiet storm
-- smooth r&b
+  - new jack swing
+  - quiet storm
+  - smooth r&b
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Tony_toni_Tone.jpg
   caption: Tony toni Tone
@@ -26,50 +26,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Denzil Foster & Thomas McElroy
-  - Sheila E.
-  - En Vogue
-  - Destiny's Child
+    - Denzil Foster & Thomas McElroy
+    - Sheila E.
+    - En Vogue
+    - Destiny's Child
   influenced:
-  - Raphael Saadiq
-  - Destiny's Child
-  - Neo-soul artists
+    - Raphael Saadiq
+    - Destiny's Child
+    - Neo-soul artists
   mentors:
-  - Sly Stone
-  - Larry Graham
+    - Sly Stone
+    - Larry Graham
 spotify_data:
   followers: 1149855
   id: 7vWlb4pM85jCHvV771qZZW
   popularity: 53
-  url: https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW
+  url: 'https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW'
 discography_enriched: true
 top_tracks:
-- Anniversary (Hits)
-- Whatever You Want (The Revival)
-- Diary (feat. Tony! Toni! Tone! & Jermaine Paul) (The Diary Of Alicia Keys)
-- Let's Get Down (House Of Music)
-- Feels Good (The Revival)
-- Me And You
-- It Never Rains (In Southern California) (The Revival)
-- (Lay Your Head On My) Pillow (Sons Of Soul)
-- If I Had No Loot (Sons Of Soul)
-- Slow Wine (Sons Of Soul)
+  - Anniversary (Hits)
+  - Whatever You Want (The Revival)
+  - Diary (feat. Tony! Toni! Tone! & Jermaine Paul) (The Diary Of Alicia Keys)
+  - Let's Get Down (House Of Music)
+  - Feels Good (The Revival)
+  - Me And You
+  - It Never Rains (In Southern California) (The Revival)
+  - (Lay Your Head On My) Pillow (Sons Of Soul)
+  - If I Had No Loot (Sons Of Soul)
+  - Slow Wine (Sons Of Soul)
 external_urls:
-  spotify: https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW
-  wikipedia: https://en.wikipedia.org/wiki/Tony!_Toni!_Ton%C3%A9!
+  spotify: 'https://open.spotify.com/artist/7vWlb4pM85jCHvV771qZZW'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tony!_Toni!_Ton%C3%A9!'
 image_path: 03_Resources/source_material/ArtistPortraits/Tony_toni_Tone.jpg
 biography_enhanced_at: '2025-10-20T10:28:47.866842'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://tonytonitone.com/blogs/news
-- https://geoffreyslive.com/oaktown-sound/tony-toni-tone/
-- https://www.udiscovermusic.com/stories/tony-toni-tone-feature/
-- https://www.last.fm/music/Tony+Toni+Ton%C3%A9/+wiki
+  - 'https://tonytonitone.com/blogs/news'
+  - 'https://geoffreyslive.com/oaktown-sound/tony-toni-tone/'
+  - 'https://www.udiscovermusic.com/stories/tony-toni-tone-feature/'
+  - 'https://www.last.fm/music/Tony+Toni+Ton%C3%A9/+wiki'
 network_extracted: true
 entry_created: '2025-10-20T10:28:47.866858'
 last_updated: '2025-12-23T08:16:04.203627'
-origin: Oakland, California, United States
+origin: 'Oakland, California, United States'
+artist_type: band
 ---
 
 ![](Tony_toni_Tone.jpg)

@@ -3,16 +3,16 @@ title: Joseph Kamga
 wiki_slug: joseph-kamga
 schema_version: 2
 status: active
-birth_place: Yaoundé, Centre Region, Cameroon
+birth_place: 'Yaoundé, Centre Region, Cameroon'
 genres:
-- french pop
-- variété française
-- chanson
+  - french pop
+  - variété française
+  - chanson
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Joseph_Kamga.jpg
   caption: Joseph Kamga
   background: solo_singer
-  origin: Yaoundé, Centre Region, Cameroon
+  origin: 'Yaoundé, Centre Region, Cameroon'
 audio_profile:
   tempo_avg: 121.3
   energy_avg: 0.514
@@ -28,46 +28,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sonafric label
+    - Sonafric label
   influenced:
-  - Modern Cameroonian funk and garage musicians
+    - Modern Cameroonian funk and garage musicians
   mentors:
-  - Bamiléké musical tradition
+    - Bamiléké musical tradition
 spotify_data:
   followers: 88153
   id: 5SQFDZOMgKao4hMpULEaoI
   popularity: 47
-  url: https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI
+  url: 'https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI'
 discography_enriched: true
 top_tracks:
-- Beau (feat. Julien Doré) (Miroirs)
-- Ton regard (Ton regard)
-- Celui qui part (Miroirs)
-- Petit Frère (Miroirs (Edition deluxe))
-- Ton regard (Miroirs (Edition deluxe))
-- Celui qui part (Celui qui part)
-- Les p'tits soleils (feat. Joseph Kamel, Helena, Mentissa, Calema, Linh, Nuit Incolore, Styleto, Jeck, Carla, Eloïz, Stéphane,
-  Julien Lieb, Vernis Rouge, Axel Marbeuf, Laura Ferré, Esmée, Cobalt, Philippine, Petit K, TIMEO, OTTA, Tété, Kanoé, Eugie,
-  Sab, John Mamann, Noa R. & Make Sense) (Les p'tits soleils (feat. Joseph Kamel, Helena, Mentissa, Calema, Linh, Nuit Incolore,
-  Styleto, Jeck, Carla, Eloïz, Stéphane, Julien Lieb, Vernis Rouge, Axel Marbeuf, Laura Ferré, Esmée, Cobalt, Philippine,
-  Petit K, TIMEO, OTTA, Tété, Kanoé, Eugie, Sab, John Mamann, Noa R. & Make Sense))
-- Beau (feat. Julien Doré) - Version acoustique (Beau (feat. Julien Doré) [Version acoustique])
-- Dis-Moi (Miroirs)
-- Tu vis (feat. Mentissa) (Miroirs (Edition deluxe))
+  - Beau (feat. Julien Doré) (Miroirs)
+  - Ton regard (Ton regard)
+  - Celui qui part (Miroirs)
+  - Petit Frère (Miroirs (Edition deluxe))
+  - Ton regard (Miroirs (Edition deluxe))
+  - Celui qui part (Celui qui part)
+  - >-
+    Les p'tits soleils (feat. Joseph Kamel, Helena, Mentissa, Calema, Linh, Nuit
+    Incolore, Styleto, Jeck, Carla, Eloïz, Stéphane, Julien Lieb, Vernis Rouge,
+    Axel Marbeuf, Laura Ferré, Esmée, Cobalt, Philippine, Petit K, TIMEO, OTTA,
+    Tété, Kanoé, Eugie, Sab, John Mamann, Noa R. & Make Sense) (Les p'tits
+    soleils (feat. Joseph Kamel, Helena, Mentissa, Calema, Linh, Nuit Incolore,
+    Styleto, Jeck, Carla, Eloïz, Stéphane, Julien Lieb, Vernis Rouge, Axel
+    Marbeuf, Laura Ferré, Esmée, Cobalt, Philippine, Petit K, TIMEO, OTTA, Tété,
+    Kanoé, Eugie, Sab, John Mamann, Noa R. & Make Sense))
+  - >-
+    Beau (feat. Julien Doré) - Version acoustique (Beau (feat. Julien Doré)
+    [Version acoustique])
+  - Dis-Moi (Miroirs)
+  - Tu vis (feat. Mentissa) (Miroirs (Edition deluxe))
 external_urls:
-  spotify: https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI
+  spotify: 'https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/Joseph_Kamga.jpg
 biography_enhanced_at: '2025-10-20T09:08:05.485265'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://boo.world/database/profile/532920/joseph-kamga-personality-type
-- https://klofmag.com/2021/08/various-cameroon-garage-funk/
-- https://www.youtube.com/watch?v=wMAYPWkN4Ps
+  - 'https://boo.world/database/profile/532920/joseph-kamga-personality-type'
+  - 'https://klofmag.com/2021/08/various-cameroon-garage-funk/'
+  - 'https://www.youtube.com/watch?v=wMAYPWkN4Ps'
 network_extracted: true
 entry_created: '2025-10-20T09:08:05.485276'
 last_updated: '2025-12-23T08:16:02.735581'
+artist_type: person
 ---
 
 ![](Joseph_Kamga.jpg)

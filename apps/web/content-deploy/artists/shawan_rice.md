@@ -1,86 +1,89 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '2017'
-  end: ''
-  instruments:
-  - eponymous
-  - lead vocals
-  - original
-  - principal
-  mbid: f03eef66-f175-455c-b082-095687aa3f1a
-  name: Shawan and Friends
-- begin: '2017'
-  end: ''
-  instruments:
-  - eponymous
-  - guitar
-  - original
-  - principal
-  mbid: f03eef66-f175-455c-b082-095687aa3f1a
-  name: Shawan and Friends
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - lead vocals
-  - original
-  - principal
-  mbid: 72b6b027-5cb2-446f-b581-7bb723e9e3d4
-  name: Shawan and the Wonton
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - guitar
-  - original
-  - principal
-  mbid: 72b6b027-5cb2-446f-b581-7bb723e9e3d4
-  name: Shawan and the Wonton
+  - begin: '2017'
+    end: ''
+    instruments:
+      - eponymous
+      - lead vocals
+      - original
+      - principal
+    mbid: f03eef66-f175-455c-b082-095687aa3f1a
+    name: Shawan and Friends
+  - begin: '2017'
+    end: ''
+    instruments:
+      - eponymous
+      - guitar
+      - original
+      - principal
+    mbid: f03eef66-f175-455c-b082-095687aa3f1a
+    name: Shawan and Friends
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - lead vocals
+      - original
+      - principal
+    mbid: 72b6b027-5cb2-446f-b581-7bb723e9e3d4
+    name: Shawan and the Wonton
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - guitar
+      - original
+      - principal
+    mbid: 72b6b027-5cb2-446f-b581-7bb723e9e3d4
+    name: Shawan and the Wonton
 biography_enhanced_at: '2025-12-30T01:28:55.438276'
-birth_place: Harrisburg
+birth_place: 'Harrisburg, Pennsylvania, United States'
 disambiguation: New Orleans based singer-songwriter
 enhancement_provider: perplexity
 entry_created: '2025-12-30T01:28:55.438282'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7de3090d-3783-4c9d-9939-40595b7394f9
-  spotify: https://open.spotify.com/artist/4g3opcdDLeNCbVSRZIBka2
+  musicbrainz: 'https://musicbrainz.org/artist/7de3090d-3783-4c9d-9939-40595b7394f9'
+  spotify: 'https://open.spotify.com/artist/4g3opcdDLeNCbVSRZIBka2'
   wikipedia: Not found in search results
 gender: Female
 genres: []
 image_path: ''
 instruments:
-- eponymous
-- lead vocals
-- original
-- principal
-- guitar
+  - eponymous
+  - lead vocals
+  - original
+  - principal
+  - guitar
 last_updated: '2025-12-30T01:28:55.438283'
 musical_connections:
   collaborators:
-  - The Wonton
+    - The Wonton
   influenced: []
   mentors:
-  - Jimi Hendrix
-  - Erykah Badu
+    - Jimi Hendrix
+    - Erykah Badu
 musicbrainz_id: 7de3090d-3783-4c9d-9939-40595b7394f9
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://jazzascona.ch/en/project/shawan-rice/
-- https://www.reverbnation.com/shawanandthewonton/song/22974667-sweet-change
-- https://shawanmusic.com
-- https://www.genxwatch.com/under-the-radar-shawan-rice/
-- https://veritenews.org/2024/04/26/whats-it-like-to-perform-at-jazz-fest-for-the-first-time-a-local-musician-shares-her-experience/
-- https://theburgnews.com/burg-blog/african-american-music-appreciation-month-shawan-rice
-- https://purplefiddle.com/bands/shawan-and-the-wonton/
+  - 'https://jazzascona.ch/en/project/shawan-rice/'
+  - 'https://www.reverbnation.com/shawanandthewonton/song/22974667-sweet-change'
+  - 'https://shawanmusic.com'
+  - 'https://www.genxwatch.com/under-the-radar-shawan-rice/'
+  - >-
+    https://veritenews.org/2024/04/26/whats-it-like-to-perform-at-jazz-fest-for-the-first-time-a-local-musician-shares-her-experience/
+  - >-
+    https://theburgnews.com/burg-blog/african-american-music-appreciation-month-shawan-rice
+  - 'https://purplefiddle.com/bands/shawan-and-the-wonton/'
 spotify_data:
   followers: 1
   id: 4g3opcdDLeNCbVSRZIBka2
   popularity: 0
-  url: https://open.spotify.com/artist/4g3opcdDLeNCbVSRZIBka2
+  url: 'https://open.spotify.com/artist/4g3opcdDLeNCbVSRZIBka2'
 status: active
 title: Shawan Rice
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![]()

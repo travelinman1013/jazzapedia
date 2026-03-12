@@ -1,16 +1,17 @@
 ---
-title: CLIFFORD HAYES' LOUISVILLE STOMPERS
+title: Clifford Hayes' Louisville Stompers
 wiki_slug: clifford-hayes-louisville-stompers
 schema_version: 2
-artist_type: Group
+artist_type: person
 status: active
 genres:
-- ragtime
-- country blues
+  - ragtime
+  - country blues
 instruments:
-- original
+  - original
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/CLIFFORD_HAYES_LOUISVILLE_STOMPERS.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/CLIFFORD_HAYES_LOUISVILLE_STOMPERS.jpg
   caption: CLIFFORD HAYES' LOUISVILLE STOMPERS
   background: non_vocal_instrumentalist
 audio_profile:
@@ -28,50 +29,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Earl Hines
-  - Johnny Dodds
-  - Sara Martin
-  - Jimmie Rodgers
+    - Earl Hines
+    - Johnny Dodds
+    - Sara Martin
+    - Jimmie Rodgers
   influenced:
-  - Jug band and early jazz musicians in Louisville and beyond
+    - Jug band and early jazz musicians in Louisville and beyond
   mentors:
-  - Earl McDonald
+    - Earl McDonald
 spotify_data:
   followers: 85
   id: 0WxjJ72JLiRPcmam2BJEhE
   popularity: 0
-  url: https://open.spotify.com/artist/0WxjJ72JLiRPcmam2BJEhE
+  url: 'https://open.spotify.com/artist/0WxjJ72JLiRPcmam2BJEhE'
 discography_enriched: true
 top_tracks:
-- 'Blue Harmony (Really the Blues?: A Blues History (1893-1959), Vol. 1 (1893-1929))'
-- Everybody Wants My Tootelum (Jazum 13)
-- You're Tickling Me (Jazum 13)
-- 'Blue Guitar Stomp (Jazz Mad, Vol. 5: Hot Dance and Jazz)'
-- Tippin' Through (Too Late, Too Late Vol. 7 (1927-1935))
-- Just A Roaming Man (Take C) (Too Late, Too Late Vol. 7 (1927-1935))
-- 'Bare-Foot Stomp (Jazz It Up! 1920s & ''30s: Vol. 4, Hot Guitar)'
-- 'Everybody Wants My Tootelum (Jazz It Up! 1920s & ''30s: Vol. 4, Hot Guitar)'
-- 'Blue Guitar Stomp (Jazz It Up! 1920s & ''30s: Vol. 4, Hot Guitar)'
-- 'You''re Ticklin'' Me (Jazz It Up! 1920s & ''30s: Vol. 4, Hot Guitar)'
+  - >-
+    Blue Harmony (Really the Blues?: A Blues History (1893-1959), Vol. 1
+    (1893-1929))
+  - Everybody Wants My Tootelum (Jazum 13)
+  - You're Tickling Me (Jazum 13)
+  - 'Blue Guitar Stomp (Jazz Mad, Vol. 5: Hot Dance and Jazz)'
+  - 'Tippin'' Through (Too Late, Too Late Vol. 7 (1927-1935))'
+  - 'Just A Roaming Man (Take C) (Too Late, Too Late Vol. 7 (1927-1935))'
+  - 'Bare-Foot Stomp (Jazz It Up! 1920s & ''30s: Vol. 4, Hot Guitar)'
+  - 'Everybody Wants My Tootelum (Jazz It Up! 1920s & ''30s: Vol. 4, Hot Guitar)'
+  - 'Blue Guitar Stomp (Jazz It Up! 1920s & ''30s: Vol. 4, Hot Guitar)'
+  - 'You''re Ticklin'' Me (Jazz It Up! 1920s & ''30s: Vol. 4, Hot Guitar)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ab6beeb9-5857-4f6d-9b31-e62bf5206f76
-  spotify: https://open.spotify.com/artist/0WxjJ72JLiRPcmam2BJEhE
-  wikipedia: https://en.wikipedia.org/wiki/Clifford_Hayes_(musician)
-image_path: 03_Resources/source_material/ArtistPortraits/CLIFFORD_HAYES_LOUISVILLE_STOMPERS.jpg
+  musicbrainz: 'https://musicbrainz.org/artist/ab6beeb9-5857-4f6d-9b31-e62bf5206f76'
+  spotify: 'https://open.spotify.com/artist/0WxjJ72JLiRPcmam2BJEhE'
+  wikipedia: 'https://en.wikipedia.org/wiki/Clifford_Hayes_(musician)'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/CLIFFORD_HAYES_LOUISVILLE_STOMPERS.jpg
 biography_enhanced_at: '2025-10-20T09:18:40.250271'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Clifford_Hayes_(musician)
-- https://blogs.loc.gov/music/2020/06/clifford-hayes-ben-hunter-earl-mcdonald-and-the-louisville-jug-bands/
-- https://www.jugbandjubilee.com/that-crazy-jug-band-sound/
-- https://syncopatedtimes.com/clifford-hayes-louisville-jug-band/
+  - 'https://en.wikipedia.org/wiki/Clifford_Hayes_(musician)'
+  - >-
+    https://blogs.loc.gov/music/2020/06/clifford-hayes-ben-hunter-earl-mcdonald-and-the-louisville-jug-bands/
+  - 'https://www.jugbandjubilee.com/that-crazy-jug-band-sound/'
+  - 'https://syncopatedtimes.com/clifford-hayes-louisville-jug-band/'
 network_extracted: true
 entry_created: '2025-10-20T09:18:40.250282'
 last_updated: '2025-12-23T08:16:01.422095'
 musicbrainz_enriched_at: '2025-10-21T09:21:09.673198'
 musicbrainz_id: ab6beeb9-5857-4f6d-9b31-e62bf5206f76
-origin: Louisville, Kentucky, USA
+origin: 'Louisville, Kentucky, USA'
+birth_place: 'Green County, Kentucky, United States'
 ---
 
 ![](CLIFFORD_HAYES_LOUISVILLE_STOMPERS.jpg)

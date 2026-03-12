@@ -4,22 +4,26 @@ wiki_slug: smoky-greenwell
 schema_version: 2
 artist_type: person
 status: active
-birth_place: Michigan, United States (birthplace); New Orleans, Louisiana, United States (primary career location)
+birth_place: >-
+  Michigan, United States (birthplace); New Orleans, Louisiana, United States
+  (primary career location)
 genres: []
 instruments:
-- original
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - original
-  mbid: 59ef6f44-a847-45da-b4e3-2821188ba99a
-  name: The Smoky Greenwell Band
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 59ef6f44-a847-45da-b4e3-2821188ba99a
+    name: The Smoky Greenwell Band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/smoky_greenwell.jpg
   caption: Smoky Greenwell
   background: non_vocal_instrumentalist
-  origin: Michigan, United States (birthplace); New Orleans, Louisiana, United States (primary career location)
+  origin: >-
+    Michigan, United States (birthplace); New Orleans, Louisiana, United States
+    (primary career location)
 audio_profile:
   tempo_avg: 131.8
   energy_avg: 0.624
@@ -35,57 +39,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Warren Haynes
-  - Johnny Neel
-  - Snooks Eaglin
-  - Marc Adams
-  - Eddie Bo
-  - Jack Kolb
-  - David Hyde
+    - Warren Haynes
+    - Johnny Neel
+    - Snooks Eaglin
+    - Marc Adams
+    - Eddie Bo
+    - Jack Kolb
+    - David Hyde
   influenced:
-  - Numerous harmonica students
+    - Numerous harmonica students
   mentors:
-  - Furry Lewis
-  - Piano Red
-  - Mose Vincent
-  - Johnny Neel
-  - Harold Brown
+    - Furry Lewis
+    - Piano Red
+    - Mose Vincent
+    - Johnny Neel
+    - Harold Brown
 spotify_data:
   followers: 242
   id: 0prgkVKvPbLW0d4JoSkXTi
   popularity: 2
-  url: https://open.spotify.com/artist/0prgkVKvPbLW0d4JoSkXTi
+  url: 'https://open.spotify.com/artist/0prgkVKvPbLW0d4JoSkXTi'
 discography_enriched: true
 top_tracks:
-- Today I Started Lovin' You Again (Classic Smoke)
-- Higher Ground (Classic Smoke)
-- Let's Work Together (South Louisiana Blues)
-- Dirt Road Blues (South Louisiana Blues)
-- 'Between Iraq and a Hard Place (feat. Mark Penton, Greg Wolf Hodges, Andre Maritato, Garland Wilson, Margie Perez & Marc
-  Adams) (Community Center of St Bernard: 5 Years of Caring)'
-- Get out and Vote (Blues For Democracy)
-- Filibuster Blues (Blues For Democracy)
-- Liars, Cheaters, And Losers (Blues For Democracy)
-- Lets Work Together (Blues For Democracy)
-- Slow Moving Coup (Blues For Democracy)
+  - Today I Started Lovin' You Again (Classic Smoke)
+  - Higher Ground (Classic Smoke)
+  - Let's Work Together (South Louisiana Blues)
+  - Dirt Road Blues (South Louisiana Blues)
+  - >-
+    Between Iraq and a Hard Place (feat. Mark Penton, Greg Wolf Hodges, Andre
+    Maritato, Garland Wilson, Margie Perez & Marc Adams) (Community Center of St
+    Bernard: 5 Years of Caring)
+  - Get out and Vote (Blues For Democracy)
+  - Filibuster Blues (Blues For Democracy)
+  - 'Liars, Cheaters, And Losers (Blues For Democracy)'
+  - Lets Work Together (Blues For Democracy)
+  - Slow Moving Coup (Blues For Democracy)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9e08bcb9-04cc-488e-bc45-2eee5618b460
-  spotify: https://open.spotify.com/artist/0prgkVKvPbLW0d4JoSkXTi
+  musicbrainz: 'https://musicbrainz.org/artist/9e08bcb9-04cc-488e-bc45-2eee5618b460'
+  spotify: 'https://open.spotify.com/artist/0prgkVKvPbLW0d4JoSkXTi'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/smoky_greenwell.jpg
 biography_enhanced_at: '2025-11-22T07:37:45.928229'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://blues.gr/profiles/blogs/q-a-with-venerable-musician-smoky-greenwell-has-been-working
-- https://smokygreenwellmusic.com/all-about-smoky/
-- https://smokygreenwellmusic.com/epk-electronic-press-kit/
-- https://www.last.fm/music/The+Smoky+Greenwell+Band/+wiki
-- https://www.americanbluesscene.com/2016/11/smoky-greenwell-brings-south-louisiana-blues-to-life/
+  - >-
+    https://blues.gr/profiles/blogs/q-a-with-venerable-musician-smoky-greenwell-has-been-working
+  - 'https://smokygreenwellmusic.com/all-about-smoky/'
+  - 'https://smokygreenwellmusic.com/epk-electronic-press-kit/'
+  - 'https://www.last.fm/music/The+Smoky+Greenwell+Band/+wiki'
+  - >-
+    https://www.americanbluesscene.com/2016/11/smoky-greenwell-brings-south-louisiana-blues-to-life/
 network_extracted: true
 entry_created: '2025-11-22T07:37:45.928243'
 last_updated: '2025-12-23T08:16:15.808887'
 musicbrainz_id: 9e08bcb9-04cc-488e-bc45-2eee5618b460
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1951-07-04'
 ---
 
 ![](smoky_greenwell.jpg)

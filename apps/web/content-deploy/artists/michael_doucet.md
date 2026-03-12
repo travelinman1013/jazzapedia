@@ -3,15 +3,15 @@ title: Michael Doucet
 wiki_slug: michael-doucet
 schema_version: 2
 status: active
-birth_place: Scott, Louisiana, United States
+birth_place: 'Scott, Louisiana, United States'
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/michael_doucet.jpg
   caption: Michael Doucet
   background: solo_singer
-  origin: Scott, Louisiana, United States
+  origin: 'Scott, Louisiana, United States'
 audio_profile:
   tempo_avg: 124.6
   energy_avg: 0.575
@@ -27,55 +27,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Zachary Richard
-  - Kenneth Richard
-  - Sterling Richard
-  - Marc Savoy
-  - Ann Savoy
-  - Darol Anger, Bruce Molsky, Rushad Eggleston
+    - Zachary Richard
+    - Kenneth Richard
+    - Sterling Richard
+    - Marc Savoy
+    - Ann Savoy
+    - 'Darol Anger, Bruce Molsky, Rushad Eggleston'
   influenced:
-  - Steve Riley
-  - Kristi Guillory
-  - Numerous students at University of Southwestern Louisiana
+    - Steve Riley
+    - Kristi Guillory
+    - Numerous students at University of Southwestern Louisiana
   mentors:
-  - Dennis McGee
-  - Dewey Balfa
-  - Canray Fontenot
-  - Varise Connor
-  - Elaine Flannery
+    - Dennis McGee
+    - Dewey Balfa
+    - Canray Fontenot
+    - Varise Connor
+    - Elaine Flannery
 spotify_data:
   followers: 1928
   id: 52j11xMvBi0yiQB1uPdbRO
   popularity: 11
-  url: https://open.spotify.com/artist/52j11xMvBi0yiQB1uPdbRO
+  url: 'https://open.spotify.com/artist/52j11xMvBi0yiQB1uPdbRO'
 discography_enriched: true
 top_tracks:
-- Canray's Contredanse (Hot Chili Mama)
-- Hot Chili Mama (Hot Chili Mama)
-- Parlez-Nous A Boire (Speak to Us of Drinking) (Parlez-Nous a Boire & More)
-- Jolie Blonde (Transatlantic Sessions - Series 2, Vol. Three)
-- Eunice Two-step (Transatlantic Sessions - Series 2, Vol. One)
-- La Danse De La Vie (The Dance of Life)
-- Zydeco Gris Gris (Deja Vu)
-- 'Zydeco Et La Encore (A New Orleans Visit: Before Katrina)'
-- Mardi Gras Jig (Sam's Big Rooster)
-- Je Veux Me Marier (Hot Chili Mama)
+  - Canray's Contredanse (Hot Chili Mama)
+  - Hot Chili Mama (Hot Chili Mama)
+  - Parlez-Nous A Boire (Speak to Us of Drinking) (Parlez-Nous a Boire & More)
+  - 'Jolie Blonde (Transatlantic Sessions - Series 2, Vol. Three)'
+  - 'Eunice Two-step (Transatlantic Sessions - Series 2, Vol. One)'
+  - La Danse De La Vie (The Dance of Life)
+  - Zydeco Gris Gris (Deja Vu)
+  - 'Zydeco Et La Encore (A New Orleans Visit: Before Katrina)'
+  - Mardi Gras Jig (Sam's Big Rooster)
+  - Je Veux Me Marier (Hot Chili Mama)
 external_urls:
-  spotify: https://open.spotify.com/artist/52j11xMvBi0yiQB1uPdbRO
-  wikipedia: https://en.wikipedia.org/wiki/Michael_Doucet
+  spotify: 'https://open.spotify.com/artist/52j11xMvBi0yiQB1uPdbRO'
+  wikipedia: 'https://en.wikipedia.org/wiki/Michael_Doucet'
 image_path: 03_Resources/source_material/ArtistPortraits/michael_doucet.jpg
 biography_enhanced_at: '2025-11-17T10:44:04.377534'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Michael_Doucet
-- https://www.arts.gov/honors/heritage/michael-doucet
-- https://stringsmagazine.com/cajun-fiddler-michael-doucet-traces-the-roots-american-music-on-new-album/
-- https://www.unitedstatesartists.org/artists/michael-doucet
-- https://documentproviderviewer.nsula.edu/?id=7565
+  - 'https://en.wikipedia.org/wiki/Michael_Doucet'
+  - 'https://www.arts.gov/honors/heritage/michael-doucet'
+  - >-
+    https://stringsmagazine.com/cajun-fiddler-michael-doucet-traces-the-roots-american-music-on-new-album/
+  - 'https://www.unitedstatesartists.org/artists/michael-doucet'
+  - 'https://documentproviderviewer.nsula.edu/?id=7565'
 network_extracted: true
 entry_created: '2025-11-17T10:44:04.377546'
 last_updated: '2025-12-23T08:16:13.043995'
+birth_date: '1951-02-14'
+artist_type: person
 ---
 
 ![](michael_doucet.jpg)

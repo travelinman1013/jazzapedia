@@ -2,59 +2,59 @@
 artist_type: person
 biography_enhanced_at: '2026-01-12T01:56:29.653894'
 birth_date: '1972'
-birth_place: Deville
+birth_place: 'Hickory Grove, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-12T01:56:29.653899'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2f31d1fc-c853-4a42-a3da-5b36859b0c3f
-  spotify: https://open.spotify.com/artist/0ufpo9lLFIrtE5J9HIXOHm
-  wikipedia: https://en.wikipedia.org/wiki/Alecia_Nugent
+  musicbrainz: 'https://musicbrainz.org/artist/2f31d1fc-c853-4a42-a3da-5b36859b0c3f'
+  spotify: 'https://open.spotify.com/artist/0ufpo9lLFIrtE5J9HIXOHm'
+  wikipedia: 'https://en.wikipedia.org/wiki/Alecia_Nugent'
 gender: Female
 genres:
-- bluegrass
-- christian bluegrass
+  - bluegrass
+  - christian bluegrass
 image_path: 03_Resources/source_material/ArtistPortraits/alecia_nugent.jpg
 instruments:
-- background vocals
+  - background vocals
 last_updated: '2026-01-12T01:56:29.653900'
 musical_connections:
   collaborators:
-  - Carl Jackson
-  - Bradley Walker
-  - Alison Krauss
-  - Doyle Lawson and Jamie Dailey
-  - J.D. Crowe
-  - Adam Steffey, Rob Ickes, Jim Van Cleve, Andy Falco
-  - Cia Cherryholmes, Rebecca Lynn Howard
-  - Andy Falco, Ashby Frank, Jennifer Strickland, Thomas Wywrot
+    - Carl Jackson
+    - Bradley Walker
+    - Alison Krauss
+    - Doyle Lawson and Jamie Dailey
+    - J.D. Crowe
+    - 'Adam Steffey, Rob Ickes, Jim Van Cleve, Andy Falco'
+    - 'Cia Cherryholmes, Rebecca Lynn Howard'
+    - 'Andy Falco, Ashby Frank, Jennifer Strickland, Thomas Wywrot'
   influenced:
-  - ''
+    - ''
   mentors:
-  - Jimmy Nugent
-  - Carl Jackson
-  - Reba McEntire
-  - Flatt & Scruggs and The Stanley Brothers
-  - Ray Price, Loretta Lynn, Carl Smith
+    - Jimmy Nugent
+    - Carl Jackson
+    - Reba McEntire
+    - Flatt & Scruggs and The Stanley Brothers
+    - 'Ray Price, Loretta Lynn, Carl Smith'
 musicbrainz_id: 2f31d1fc-c853-4a42-a3da-5b36859b0c3f
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.rocky-52.net/chanteursn/nugent_alecia.htm
-- https://pickersparadise.org/artists/alecia-nugent
-- https://en.wikipedia.org/wiki/Alecia_Nugent
-- https://alancackett.com/alecia-nugent-the-old-side-of-town
-- https://countrystandardtime.com/d/article.asp?xid=1087
-- https://www.alecianugent.com
+  - 'https://www.rocky-52.net/chanteursn/nugent_alecia.htm'
+  - 'https://pickersparadise.org/artists/alecia-nugent'
+  - 'https://en.wikipedia.org/wiki/Alecia_Nugent'
+  - 'https://alancackett.com/alecia-nugent-the-old-side-of-town'
+  - 'https://countrystandardtime.com/d/article.asp?xid=1087'
+  - 'https://www.alecianugent.com'
 spotify_data:
   followers: 5938
   id: 0ufpo9lLFIrtE5J9HIXOHm
   popularity: 20
-  url: https://open.spotify.com/artist/0ufpo9lLFIrtE5J9HIXOHm
+  url: 'https://open.spotify.com/artist/0ufpo9lLFIrtE5J9HIXOHm'
 status: active
 tags:
-- bluegrass
-- country
-title: ALECIA NUGENT
+  - bluegrass
+  - country
+title: Alecia Nugent
 ---
 
 ![](alecia_nugent.jpg)

@@ -3,15 +3,15 @@ title: Paul Sanchez
 wiki_slug: paul-sanchez
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, USA'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/paul_sanchez.jpg
   caption: Paul Sanchez
   background: solo_singer
-  origin: New Orleans, Louisiana, USA
+  origin: 'New Orleans, Louisiana, USA'
 audio_profile:
-  tempo_avg: 90.0
+  tempo_avg: 90
   energy_avg: 0.743
   valence_avg: 0.891
   danceability_avg: 0.796
@@ -25,37 +25,41 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Cowboy Mouth
-  - Colman deKay
-  - Susan Cowsill, John Boutte, Irma Thomas, Kevin Griffin, Darius Rucker, Hootie & The Blowfish, The Eli Young Band, Galactic,
-    Bonerama, and others
+    - Cowboy Mouth
+    - Colman deKay
+    - >-
+      Susan Cowsill, John Boutte, Irma Thomas, Kevin Griffin, Darius Rucker,
+      Hootie & The Blowfish, The Eli Young Band, Galactic, Bonerama, and others
   influenced:
-  - New Orleans singer-songwriters (general)
+    - New Orleans singer-songwriters (general)
   mentors:
-  - Anti-Folk Scene (East Village, NYC)
+    - 'Anti-Folk Scene (East Village, NYC)'
 spotify_data:
   followers: 5
   id: 7pVc29kpxxdmI4vimP8pmY
   popularity: 3
-  url: https://open.spotify.com/artist/7pVc29kpxxdmI4vimP8pmY
+  url: 'https://open.spotify.com/artist/7pVc29kpxxdmI4vimP8pmY'
 discography_enriched: true
 top_tracks:
-- Back to Onda (Back to Onda)
+  - Back to Onda (Back to Onda)
 external_urls:
-  spotify: https://open.spotify.com/artist/7pVc29kpxxdmI4vimP8pmY
+  spotify: 'https://open.spotify.com/artist/7pVc29kpxxdmI4vimP8pmY'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/paul_sanchez.jpg
 biography_enhanced_at: '2025-11-08T21:55:15.408093'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.paulsanchez.com/bio
-- https://cuttingedgenola.com/team-member/paul-sanchez/
-- https://nolajazzmuseum.org/events/2025/5/23/gallatin-street-fridays-presents-paul-sanchez
-- https://www.neworleans.com/listing/paul-sanchez/46580/
+  - 'https://www.paulsanchez.com/bio'
+  - 'https://cuttingedgenola.com/team-member/paul-sanchez/'
+  - >-
+    https://nolajazzmuseum.org/events/2025/5/23/gallatin-street-fridays-presents-paul-sanchez
+  - 'https://www.neworleans.com/listing/paul-sanchez/46580/'
 network_extracted: true
 entry_created: '2025-11-08T21:55:15.408107'
 last_updated: '2025-12-23T08:16:14.095669'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](paul_sanchez.jpg)

@@ -5,12 +5,12 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1983-03-10'
-birth_place: Muskogee
+birth_place: 'Muskogee, Oklahoma, United States'
 genres:
-- country
+  - country
 instruments:
-- background vocals
-- lead vocals
+  - background vocals
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/carrie_underwood.jpg
   caption: Carrie Underwood
@@ -23,7 +23,7 @@ audio_profile:
   valence_avg: 0.426
   danceability_avg: 0.508
   acousticness_avg: 0.235
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -4.6
   speechiness_avg: 0.054
   liveness_avg: 0.147
@@ -33,48 +33,50 @@ similar_artists: []
 musical_connections:
   collaborators: []
   influenced:
-  - Kelsea Ballerini
+    - Kelsea Ballerini
   mentors:
-  - Garth Brooks
+    - Garth Brooks
 spotify_data:
   followers: 6148972
   id: 4xFUf1FHVy696Q1JQZMTRj
   popularity: 73
-  url: https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj
+  url: 'https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj'
 discography_enriched: true
 top_tracks:
-- Before He Cheats (Some Hearts)
-- I'm Gonna Love You (Leather Deluxe Edition)
-- I'm Gonna Love You
-- If I Didn’t Love You (MACON)
-- Church Bells (Storyteller)
-- Somethin' Bad (with Carrie Underwood) (Platinum)
-- Leave a Light On (Talk Away The Dark)
-- Jesus, Take the Wheel (Some Hearts)
-- Blown Away (Blown Away)
-- Cowboy Casanova (Play On)
+  - Before He Cheats (Some Hearts)
+  - I'm Gonna Love You (Leather Deluxe Edition)
+  - I'm Gonna Love You
+  - If I Didn’t Love You (MACON)
+  - Church Bells (Storyteller)
+  - Somethin' Bad (with Carrie Underwood) (Platinum)
+  - Leave a Light On (Talk Away The Dark)
+  - 'Jesus, Take the Wheel (Some Hearts)'
+  - Blown Away (Blown Away)
+  - Cowboy Casanova (Play On)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/70f0e309-5418-49b6-a130-666e2f76eecd
-  spotify: https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj
-  wikipedia: https://en.wikipedia.org/wiki/Carrie_Underwood
+  musicbrainz: 'https://musicbrainz.org/artist/70f0e309-5418-49b6-a130-666e2f76eecd'
+  spotify: 'https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj'
+  wikipedia: 'https://en.wikipedia.org/wiki/Carrie_Underwood'
 image_path: 03_Resources/source_material/ArtistPortraits/carrie_underwood.jpg
 biography_enhanced_at: '2025-12-22T01:52:49.988641'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.app.tankersinternational.com/86011862/carrie-underwood-bio-age-net-worth-height-career-facts/
-- https://www.biography.com/musicians/carrie-underwood
-- https://en.wikipedia.org/wiki/Carrie_Underwood
-- https://www.carrieunderwoodofficial.com/biography/
+  - >-
+    https://www.app.tankersinternational.com/86011862/carrie-underwood-bio-age-net-worth-height-career-facts/
+  - 'https://www.biography.com/musicians/carrie-underwood'
+  - 'https://en.wikipedia.org/wiki/Carrie_Underwood'
+  - 'https://www.carrieunderwoodofficial.com/biography/'
 network_extracted: true
 entry_created: '2025-12-22T01:52:49.988646'
 last_updated: '2025-12-23T08:16:06.522768'
 gender: Female
 musicbrainz_id: 70f0e309-5418-49b6-a130-666e2f76eecd
 tags:
-- american idol
-- contemporary country
-- country
+  - american idol
+  - contemporary country
+  - country
+origin: 'Checotah, Oklahoma, United States'
 ---
 
 ![](carrie_underwood.jpg)

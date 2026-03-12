@@ -1,88 +1,91 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2025-12-28T01:50:50.781429'
 enhancement_provider: perplexity
 entry_created: '2025-12-28T01:50:50.781443'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/34b34bab-5ada-4f4b-ba16-adbc6c8cc4a5
-  spotify: https://open.spotify.com/artist/4n8Pk649oLoKVgAVQQZHnQ
-  wikipedia: https://en.wikipedia.org/wiki/Leo_Reisman
+  musicbrainz: 'https://musicbrainz.org/artist/34b34bab-5ada-4f4b-ba16-adbc6c8cc4a5'
+  spotify: 'https://open.spotify.com/artist/4n8Pk649oLoKVgAVQQZHnQ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Leo_Reisman'
 genres:
-- ragtime
+  - ragtime
 image_path: 03_Resources/source_material/ArtistPortraits/leo_reisman_and_his_orchestra.jpg
 instruments:
-- eponymous
-- original
-- piano
-last_updated: '2025-12-28T01:50:50.781445'
-members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 67cacfe9-05d4-40e0-a8ff-35128a43f45d
-  name: Lew Conrad
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3b48b923-4150-4553-8013-ffea8eae34ed
-  name: Ernie Gibbs
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
-  mbid: 1c75e101-ea15-4c75-9e4c-3e9d7aae9a84
-  name: Leo Reisman
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f560eccb-fa98-46a8-9290-93ff6f89b16c
-  name: Adrian Rollini
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c7c83c70-8b19-48cb-981e-deaf001d01fd
-  name: Lew Sherwood
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e26c14a8-374e-4c8e-a454-e090117a0077
-  name: Jessie Smith
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a480eda2-1487-4dfa-b0ac-0582f2643d02
-  name: Burt Williams
+  - piano
+last_updated: '2025-12-28T01:50:50.781445'
+members:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 67cacfe9-05d4-40e0-a8ff-35128a43f45d
+    name: Lew Conrad
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3b48b923-4150-4553-8013-ffea8eae34ed
+    name: Ernie Gibbs
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 1c75e101-ea15-4c75-9e4c-3e9d7aae9a84
+    name: Leo Reisman
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f560eccb-fa98-46a8-9290-93ff6f89b16c
+    name: Adrian Rollini
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c7c83c70-8b19-48cb-981e-deaf001d01fd
+    name: Lew Sherwood
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e26c14a8-374e-4c8e-a454-e090117a0077
+    name: Jessie Smith
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a480eda2-1487-4dfa-b0ac-0582f2643d02
+    name: Burt Williams
 musical_connections:
   collaborators:
-  - Fred Astaire
-  - Eddy Duchin
-  - Bubber Miley
-  - Dinah Shore
-  - Lee Wiley
-  - Harold Arlen
-  - Mitch Miller
+    - Fred Astaire
+    - Eddy Duchin
+    - Bubber Miley
+    - Dinah Shore
+    - Lee Wiley
+    - Harold Arlen
+    - Mitch Miller
   influenced:
-  - Eddy Duchin
-  - Dinah Shore
+    - Eddy Duchin
+    - Dinah Shore
   mentors:
-  - Jascha Heifetz
+    - Jascha Heifetz
 musicbrainz_id: 34b34bab-5ada-4f4b-ba16-adbc6c8cc4a5
 network_extracted: true
-origin: Boston, Massachusetts, United States
+origin: 'Boston, Massachusetts, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Leo_Reisman[2]
-- https://www.imdb.com/name/nm1176422/bio/[1]
-- https://necmusic.edu/on-campus/library/archives-and-special-collections/archival-collections/leo-reisman/[3]
-- https://yestercenturypop.com/2025/11/20/leo-reisman-and-dance-music-for-listeners/[4]
+  - 'https://en.wikipedia.org/wiki/Leo_Reisman[2]'
+  - 'https://www.imdb.com/name/nm1176422/bio/[1]'
+  - >-
+    https://necmusic.edu/on-campus/library/archives-and-special-collections/archival-collections/leo-reisman/[3]
+  - >-
+    https://yestercenturypop.com/2025/11/20/leo-reisman-and-dance-music-for-listeners/[4]
 spotify_data:
   followers: 447
   id: 4n8Pk649oLoKVgAVQQZHnQ
   popularity: 11
-  url: https://open.spotify.com/artist/4n8Pk649oLoKVgAVQQZHnQ
+  url: 'https://open.spotify.com/artist/4n8Pk649oLoKVgAVQQZHnQ'
 status: active
 title: Leo Reisman and his Orchestra
+birth_place: 'Boston, Massachusetts, United States'
 ---
 
 ![](leo_reisman_and_his_orchestra.jpg)

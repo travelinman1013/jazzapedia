@@ -3,14 +3,14 @@ title: Willie Tee
 wiki_slug: willie-tee
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- northern soul
+  - northern soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Willie_Tee.jpg
   caption: Willie Tee
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 117.6
   energy_avg: 0.557
@@ -26,57 +26,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Earl Turbinton
-  - Wild Magnolias
-  - Gaturs
-  - Julian 'Cannonball' Adderley
-  - Nat Adderley
+    - Earl Turbinton
+    - Wild Magnolias
+    - Gaturs
+    - Julian 'Cannonball' Adderley
+    - Nat Adderley
   influenced:
-  - Geto Boys
-  - Sean 'P Diddy' Combs
-  - Mardi Gras Indian musicians
+    - Geto Boys
+    - Sean 'P Diddy' Combs
+    - Mardi Gras Indian musicians
   mentors:
-  - Professor Longhair
-  - Red Garland
-  - Wynton Kelly
-  - Oscar Peterson
-  - Horace Silver
-  - Art Tatum
-  - McCoy Tyner
-  - Jimmy Smith
+    - Professor Longhair
+    - Red Garland
+    - Wynton Kelly
+    - Oscar Peterson
+    - Horace Silver
+    - Art Tatum
+    - McCoy Tyner
+    - Jimmy Smith
 spotify_data:
   followers: 3103
   id: 0J4hhNPKGkF96BvCakh2Ab
   popularity: 20
-  url: https://open.spotify.com/artist/0J4hhNPKGkF96BvCakh2Ab
+  url: 'https://open.spotify.com/artist/0J4hhNPKGkF96BvCakh2Ab'
 discography_enriched: true
 top_tracks:
-- Walkin' up a One Way Street (Walking up a One Way Street)
-- Gatur Bait (Wasted)
-- The Booger Man (Wasted)
-- Cold Bear (Wasted)
-- Thank You John (Walking up a One Way Street)
-- Teasin' You (Teasin' You)
-- Concentrate (Wasted)
-- Jukebox Song (Legends Making Memories)
-- Concentrate
-- Wasted (Wasted)
+  - Walkin' up a One Way Street (Walking up a One Way Street)
+  - Gatur Bait (Wasted)
+  - The Booger Man (Wasted)
+  - Cold Bear (Wasted)
+  - Thank You John (Walking up a One Way Street)
+  - Teasin' You (Teasin' You)
+  - Concentrate (Wasted)
+  - Jukebox Song (Legends Making Memories)
+  - Concentrate
+  - Wasted (Wasted)
 external_urls:
-  spotify: https://open.spotify.com/artist/0J4hhNPKGkF96BvCakh2Ab
-  wikipedia: https://en.wikipedia.org/wiki/Willie_Tee
+  spotify: 'https://open.spotify.com/artist/0J4hhNPKGkF96BvCakh2Ab'
+  wikipedia: 'https://en.wikipedia.org/wiki/Willie_Tee'
 image_path: 03_Resources/source_material/ArtistPortraits/Willie_Tee.jpg
 biography_enhanced_at: '2025-10-20T01:37:59.430302'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Willie_Tee
-- https://willietee1.tripod.com/home.html
-- https://ska2soul.net/Willie%20Tee.htm
-- https://www.ponderosastomp.com/music_more/79/Willie+Tee
+  - 'https://en.wikipedia.org/wiki/Willie_Tee'
+  - 'https://willietee1.tripod.com/home.html'
+  - 'https://ska2soul.net/Willie%20Tee.htm'
+  - 'https://www.ponderosastomp.com/music_more/79/Willie+Tee'
 network_extracted: true
 entry_created: '2025-10-20T01:37:59.430336'
 last_updated: '2025-12-23T08:16:04.304467'
-
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1944-02-06'
+artist_type: person
 ---
 
 ![](Willie_Tee.jpg)

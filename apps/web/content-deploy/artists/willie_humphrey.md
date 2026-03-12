@@ -3,14 +3,14 @@ title: Willie Humphrey
 wiki_slug: willie-humphrey
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- ragtime
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/willie_humphrey.jpg
   caption: Willie Humphrey
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 132.5
   energy_avg: 0.414
@@ -18,7 +18,7 @@ audio_profile:
   danceability_avg: 0.558
   acousticness_avg: 0.668
   instrumentalness_avg: 0.503
-  loudness_avg: -15.0
+  loudness_avg: -15
   speechiness_avg: 0.058
   liveness_avg: 0.2
   track_count: 51
@@ -26,53 +26,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Percy Humphrey
-  - Eureka Brass Band
-  - Paul Barbarin
-  - Mills Blue Rhythm Band / Lucky Millinder
-  - Fate Marable
-  - Billie and DeDe Pierce
-  - Excelsior and Young Tuxedo Brass Bands
+    - Percy Humphrey
+    - Eureka Brass Band
+    - Paul Barbarin
+    - Mills Blue Rhythm Band / Lucky Millinder
+    - Fate Marable
+    - Billie and DeDe Pierce
+    - Excelsior and Young Tuxedo Brass Bands
   influenced:
-  - Preservation Hall Jazz Band clarinetists and younger traditionalists (e.g., subsequent PHJB reed players)
+    - >-
+      Preservation Hall Jazz Band clarinetists and younger traditionalists
+      (e.g., subsequent PHJB reed players)
   mentors:
-  - Professor James Brown Humphrey
-  - Willie Humphrey Sr.
+    - Professor James Brown Humphrey
+    - Willie Humphrey Sr.
 spotify_data:
   followers: 185
   id: 1f2eTArDk6ozYuU1WiThYT
   popularity: 7
-  url: https://open.spotify.com/artist/1f2eTArDk6ozYuU1WiThYT
+  url: 'https://open.spotify.com/artist/1f2eTArDk6ozYuU1WiThYT'
 discography_enriched: true
 top_tracks:
-- Bourbon Street Parade - Voice (50th Anniversary Collection)
-- Rosetta (Two Clarinets on the Porch)
-- Oh Didn't He Ramble - Voice (50th Anniversary Collection)
-- Blues for Emma (New Orleans Traditional Jazz Legends, Vol. 2)
-- Bourbon Street Parade - Voice (New Orleans, Vol. 4)
-- 'When I Was a Little Child (Rare Cuts: Well Done, Vol. 3)'
-- Oh Didn't He Ramble - Voice (New Orleans, Vol. 4)
-- Just A Closer Walk With Thee (Percy Humphrey / Blind Gilbert's Trio)
-- You Tell Me Your Dream (Take 2) (Rare and Unissued Recordings 1954-1962)
-- I Wish I Could Shimmy Like My Sister Kate (Percy Humphrey / Blind Gilbert's Trio)
+  - Bourbon Street Parade - Voice (50th Anniversary Collection)
+  - Rosetta (Two Clarinets on the Porch)
+  - Oh Didn't He Ramble - Voice (50th Anniversary Collection)
+  - 'Blues for Emma (New Orleans Traditional Jazz Legends, Vol. 2)'
+  - 'Bourbon Street Parade - Voice (New Orleans, Vol. 4)'
+  - 'When I Was a Little Child (Rare Cuts: Well Done, Vol. 3)'
+  - 'Oh Didn''t He Ramble - Voice (New Orleans, Vol. 4)'
+  - Just A Closer Walk With Thee (Percy Humphrey / Blind Gilbert's Trio)
+  - You Tell Me Your Dream (Take 2) (Rare and Unissued Recordings 1954-1962)
+  - >-
+    I Wish I Could Shimmy Like My Sister Kate (Percy Humphrey / Blind Gilbert's
+    Trio)
 external_urls:
-  spotify: https://open.spotify.com/artist/1f2eTArDk6ozYuU1WiThYT
-  wikipedia: https://en.wikipedia.org/wiki/Willie_Humphrey
+  spotify: 'https://open.spotify.com/artist/1f2eTArDk6ozYuU1WiThYT'
+  wikipedia: 'https://en.wikipedia.org/wiki/Willie_Humphrey'
 image_path: 03_Resources/source_material/ArtistPortraits/willie_humphrey.jpg
 biography_enhanced_at: '2025-12-19T01:45:26.174590'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Willie Humphrey – 64 Parishes (Know Louisiana)[1]
-- Willie J. Humphrey – Music Rising, Tulane University[6]
-- Willie Humphrey – AllMusic artist biography[7]
-- 'Obituary: Willie Humphrey Jnr – The Independent[5]'
-- Happy Birthday, Willie Humphrey! – Preservation Hall-related blog post[4]
-- 'Part 4: Trumpeter Percy and Clarinetist Willie Humphrey – William Carter, All About Jazz / blog material[3]'
+  - 'Willie Humphrey – 64 Parishes (Know Louisiana)[1]'
+  - 'Willie J. Humphrey – Music Rising, Tulane University[6]'
+  - 'Willie Humphrey – AllMusic artist biography[7]'
+  - 'Obituary: Willie Humphrey Jnr – The Independent[5]'
+  - 'Happy Birthday, Willie Humphrey! – Preservation Hall-related blog post[4]'
+  - >-
+    Part 4: Trumpeter Percy and Clarinetist Willie Humphrey – William Carter,
+    All About Jazz / blog material[3]
 network_extracted: true
 entry_created: '2025-12-19T01:45:26.174612'
 last_updated: '2025-12-23T08:16:18.191813'
-
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1900-12-29'
+artist_type: person
 ---
 
 ![](willie_humphrey.jpg)

@@ -2,10 +2,10 @@
 title: MRCY
 wiki_slug: mrcy
 schema_version: 2
-artist_type: Group
+artist_type: person
 status: active
 genres:
-- retro soul
+  - retro soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/MRCY.jpg
   caption: MRCY
@@ -25,58 +25,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Olivia Dean
-  - Jungle
-  - Cleo Sol
-  - Little Simz
-  - Liam Gallagher
-  - Obongjayar
-  - Rina Sawayama
-  - Joy Crookes
-  - Celeste
-  - Joesef
+    - Olivia Dean
+    - Jungle
+    - Cleo Sol
+    - Little Simz
+    - Liam Gallagher
+    - Obongjayar
+    - Rina Sawayama
+    - Joy Crookes
+    - Celeste
+    - Joesef
   influenced:
-  - Emerging UK soul artists
+    - Emerging UK soul artists
   mentors:
-  - Aretha Franklin
-  - Sam Cooke
-  - Marvin Gaye
+    - Aretha Franklin
+    - Sam Cooke
+    - Marvin Gaye
 spotify_data:
   followers: 12159
   id: 4fHvJqxNjCIVcJekRTHoVh
   popularity: 32
-  url: https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh
+  url: 'https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh'
 discography_enriched: true
 top_tracks:
-- Lorelei (VOLUME 1)
-- Man (Man)
-- California (VOLUME 1)
-- R.L.M (VOLUME 1)
-- Angels (Angels)
-- Lorelei (Lorelei)
-- R.L.M (R.L.M)
-- Sierra (VOLUME 2)
-- Purple Canyon (VOLUME 1)
-- Angels (VOLUME 2)
+  - Lorelei (VOLUME 1)
+  - Man (Man)
+  - California (VOLUME 1)
+  - R.L.M (VOLUME 1)
+  - Angels (Angels)
+  - Lorelei (Lorelei)
+  - R.L.M (R.L.M)
+  - Sierra (VOLUME 2)
+  - Purple Canyon (VOLUME 1)
+  - Angels (VOLUME 2)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c412da25-663e-43bf-92a9-797e38840b13
-  spotify: https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh
+  musicbrainz: 'https://musicbrainz.org/artist/c412da25-663e-43bf-92a9-797e38840b13'
+  spotify: 'https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh'
   wikipedia: Not found
 image_path: 03_Resources/source_material/ArtistPortraits/MRCY.jpg
 biography_enhanced_at: '2025-10-20T09:26:26.479956'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Last.fm MRCY biography
-- Dead Oceans artist page
-- Montreux Jazz Festival artist page
+  - Last.fm MRCY biography
+  - Dead Oceans artist page
+  - Montreux Jazz Festival artist page
 network_extracted: true
 entry_created: '2025-10-20T09:26:26.479968'
 last_updated: '2025-12-23T08:16:03.143334'
 disambiguation: producer Barney Lister and vocalist Kojo Degraft-Johnson
 musicbrainz_enriched_at: '2025-10-21T09:36:46.004470'
 musicbrainz_id: c412da25-663e-43bf-92a9-797e38840b13
-origin: London, England, United Kingdom (band origin)
+origin: 'London, England, United Kingdom (band origin)'
 ---
 
 ![](MRCY.jpg)

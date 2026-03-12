@@ -3,14 +3,14 @@ title: Safi Abdullah
 wiki_slug: safi-abdullah
 schema_version: 2
 status: active
-birth_place: May Pen, Clarendon, Jamaica
+birth_place: 'May Pen, Clarendon, Jamaica'
 genres:
-- roots reggae
+  - roots reggae
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/safi_abdullah.jpg
   caption: Safi Abdullah
   background: solo_singer
-  origin: May Pen, Clarendon, Jamaica
+  origin: 'May Pen, Clarendon, Jamaica'
 audio_profile:
   tempo_avg: 128.6
   energy_avg: 0.574
@@ -26,47 +26,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Andy Bassford
+    - Andy Bassford
   influenced:
-  - ''
+    - ''
   mentors:
-  - Lynn Taitt
+    - Lynn Taitt
 spotify_data:
   followers: 141
   id: 3RtbMFlGQo9JrIvAfIrhYB
   popularity: 2
-  url: https://open.spotify.com/artist/3RtbMFlGQo9JrIvAfIrhYB
+  url: 'https://open.spotify.com/artist/3RtbMFlGQo9JrIvAfIrhYB'
 discography_enriched: true
 top_tracks:
-- Afrika Is Burning (Another One Gone)
-- Another One Gone (Another One Gone)
-- Emmanual Road (Another One Gone)
-- Song For Judah (Another One Gone)
-- Fatherless Children (Another One Gone)
-- War Dance (Another One Gone)
-- Selfish Desires (Another One Gone)
-- Requiem For Dolphy (Another One Gone)
-- Afrika Is Burning (Another One Gone)
-- Another One Gone (Another One Gone)
+  - Afrika Is Burning (Another One Gone)
+  - Another One Gone (Another One Gone)
+  - Emmanual Road (Another One Gone)
+  - Song For Judah (Another One Gone)
+  - Fatherless Children (Another One Gone)
+  - War Dance (Another One Gone)
+  - Selfish Desires (Another One Gone)
+  - Requiem For Dolphy (Another One Gone)
+  - Afrika Is Burning (Another One Gone)
+  - Another One Gone (Another One Gone)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3c6ba827-7e3f-46ce-a1e3-b19846a1ed5e
-  spotify: https://open.spotify.com/artist/3RtbMFlGQo9JrIvAfIrhYB
+  musicbrainz: 'https://musicbrainz.org/artist/3c6ba827-7e3f-46ce-a1e3-b19846a1ed5e'
+  spotify: 'https://open.spotify.com/artist/3RtbMFlGQo9JrIvAfIrhYB'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/safi_abdullah.jpg
 biography_enhanced_at: '2025-12-15T01:37:09.739590'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- 'Ian’s Music Blog – "Safi Abdullah – Another One Gone (1979)" (biographical notes: birth name Stuart Bennett, origin in
-  May Pen, joining Lynn Taitt, album background).[2]'
-- Andy Bassford – personal discography listing crediting guitar work on Safi Abdullah’s "Another One Gone" (Shanachie CD,
-  1992).[1]
-- Caribbean Life – article on Reggae Culture Salute mentioning "veteran drummer/singer Safi Abdullah" as a featured participant.[3]
-- AllMusic – Safi Abdullah artist page (discography/genre context for roots reggae). [4]
+  - >-
+    Ian’s Music Blog – "Safi Abdullah – Another One Gone (1979)" (biographical
+    notes: birth name Stuart Bennett, origin in May Pen, joining Lynn Taitt,
+    album background).[2]
+  - >-
+    Andy Bassford – personal discography listing crediting guitar work on Safi
+    Abdullah’s "Another One Gone" (Shanachie CD, 1992).[1]
+  - >-
+    Caribbean Life – article on Reggae Culture Salute mentioning "veteran
+    drummer/singer Safi Abdullah" as a featured participant.[3]
+  - >-
+    AllMusic – Safi Abdullah artist page (discography/genre context for roots
+    reggae). [4]
 network_extracted: true
 entry_created: '2025-12-15T01:37:09.739598'
 last_updated: '2025-12-23T08:16:15.273691'
 musicbrainz_id: 3c6ba827-7e3f-46ce-a1e3-b19846a1ed5e
+artist_type: person
 ---
 
 ![](safi_abdullah.jpg)

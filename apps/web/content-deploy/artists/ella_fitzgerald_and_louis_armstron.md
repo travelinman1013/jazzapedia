@@ -4,12 +4,13 @@ wiki_slug: ella-fitzgerald-louis-armstron
 schema_version: 2
 status: active
 genres:
-- swing music
-- vocal jazz
-- big band
-- jazz
+  - swing music
+  - vocal jazz
+  - big band
+  - jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/ella_fitzgerald_and_louis_armstron.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/ella_fitzgerald_and_louis_armstron.jpg
   caption: Ella Fitzgerald & Louis Armstron
   background: solo_singer
 audio_profile:
@@ -27,49 +28,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Norman Granz
-  - Duke Ellington
-  - The Ink Spots
+    - Norman Granz
+    - Duke Ellington
+    - The Ink Spots
   influenced:
-  - Diana Krall
-  - Billie Holiday
-  - Natalie Cole
+    - Diana Krall
+    - Billie Holiday
+    - Natalie Cole
   mentors:
-  - Chick Webb
-  - Joe 'King' Oliver
+    - Chick Webb
+    - Joe 'King' Oliver
 spotify_data:
   followers: 16550
   id: 0ZXEk4WDiPwEkjG6pQ408i
   popularity: 22
-  url: https://open.spotify.com/artist/0ZXEk4WDiPwEkjG6pQ408i
+  url: 'https://open.spotify.com/artist/0ZXEk4WDiPwEkjG6pQ408i'
 discography_enriched: true
 top_tracks:
-- Cheek To Cheek (What A Wonderful Duet)
-- They Can't Take That Away From Me (What A Wonderful Duet)
-- Our Love Is Here To Stay (Tenderly)
-- Dream A Little Dream Of Me (What A Wonderful Duet)
-- Can Anyone Explain?
-- On The Sunny Side of The Street (New Orleans Alone)
-- Summertime
-- Stormy Weather (Tenderly)
-- A Fine Romance - Remastered (Ella & Louis (Remastered))
-- You Say Tomato, I say Tomato (Tenderly)
+  - Cheek To Cheek (What A Wonderful Duet)
+  - They Can't Take That Away From Me (What A Wonderful Duet)
+  - Our Love Is Here To Stay (Tenderly)
+  - Dream A Little Dream Of Me (What A Wonderful Duet)
+  - Can Anyone Explain?
+  - On The Sunny Side of The Street (New Orleans Alone)
+  - Summertime
+  - Stormy Weather (Tenderly)
+  - A Fine Romance - Remastered (Ella & Louis (Remastered))
+  - 'You Say Tomato, I say Tomato (Tenderly)'
 external_urls:
-  spotify: https://open.spotify.com/artist/0ZXEk4WDiPwEkjG6pQ408i
-  wikipedia: https://en.wikipedia.org/wiki/Ella_Fitzgerald_and_Louis_Armstrong
-image_path: 03_Resources/source_material/ArtistPortraits/ella_fitzgerald_and_louis_armstron.jpg
+  spotify: 'https://open.spotify.com/artist/0ZXEk4WDiPwEkjG6pQ408i'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ella_Fitzgerald_and_Louis_Armstrong'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/ella_fitzgerald_and_louis_armstron.jpg
 biography_enhanced_at: '2025-10-25T09:53:38.014161'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Ella_Fitzgerald
-- https://en.wikipedia.org/wiki/Louis_Armstrong
-- https://www.ellafitzgerald.com/biography/
-- https://www.womenshistory.org/education-resources/biographies/ella-fitzgerald
+  - 'https://en.wikipedia.org/wiki/Ella_Fitzgerald'
+  - 'https://en.wikipedia.org/wiki/Louis_Armstrong'
+  - 'https://www.ellafitzgerald.com/biography/'
+  - >-
+    https://www.womenshistory.org/education-resources/biographies/ella-fitzgerald
 network_extracted: true
 entry_created: '2025-10-25T09:53:38.014173'
 last_updated: '2025-12-23T08:16:08.320975'
-origin: Newport News, Virginia, United States (Ella Fitzgerald); New Orleans, Louisiana, United States (Louis Armstrong)
+origin: >-
+  Newport News, Virginia, United States (Ella Fitzgerald); New Orleans,
+  Louisiana, United States (Louis Armstrong)
+birth_place: 'Newport News, Virginia, United States'
+birth_date: '1901'
+artist_type: band
 ---
 
 ![](ella_fitzgerald_and_louis_armstron.jpg)

@@ -2,14 +2,14 @@
 title: Zydeco Force
 wiki_slug: zydeco-force
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1988'
 genres:
-- zydeco
-- cajun
+  - zydeco
+  - cajun
 instruments:
-- original
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/zydeco_force.jpg
   caption: Zydeco Force
@@ -30,79 +30,81 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jeffery Broussard
-  - Robby "Mann" Robinson
-  - Shelton Broussard
+    - Jeffery Broussard
+    - Robby "Mann" Robinson
+    - Shelton Broussard
   influenced:
-  - Young Creole Musicians (1990s generation)
-  - Contemporary Zydeco Artists
+    - Young Creole Musicians (1990s generation)
+    - Contemporary Zydeco Artists
   mentors:
-  - Delton Broussard
-  - Calvin Carrière
+    - Delton Broussard
+    - Calvin Carrière
 spotify_data:
   followers: 2764
   id: 5jKb6lNnLSyrT381GUfyk7
   popularity: 6
-  url: https://open.spotify.com/artist/5jKb6lNnLSyrT381GUfyk7
+  url: 'https://open.spotify.com/artist/5jKb6lNnLSyrT381GUfyk7'
 discography_enriched: true
 top_tracks:
-- Saints Go Marching In (Cajun and Zydeco Mardi Gras)
-- Do What You Wanta (Cajun and Zydeco Mardi Gras)
-- Zydeco Extravaganza (Shaggy Dog Two-Step)
-- Zydeco from 1988 (You Mean the World to Me)
-- Shine (A Mule Called Shine) (It's La La Time)
-- Louisiana Chicken Shack (Louisiana Chicken Shack)
-- Everyday Talk (Rockin' Zydeco Party!)
-- Whatever (Louisiana Chicken Shack)
-- Bow Legged Woman (You Mean the World to Me)
-- Hoochie Coochie (It's La La Time)
+  - Saints Go Marching In (Cajun and Zydeco Mardi Gras)
+  - Do What You Wanta (Cajun and Zydeco Mardi Gras)
+  - Zydeco Extravaganza (Shaggy Dog Two-Step)
+  - Zydeco from 1988 (You Mean the World to Me)
+  - Shine (A Mule Called Shine) (It's La La Time)
+  - Louisiana Chicken Shack (Louisiana Chicken Shack)
+  - Everyday Talk (Rockin' Zydeco Party!)
+  - Whatever (Louisiana Chicken Shack)
+  - Bow Legged Woman (You Mean the World to Me)
+  - Hoochie Coochie (It's La La Time)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e1efa199-0c16-40d6-bfd9-b9ab9a4e935b
-  spotify: https://open.spotify.com/artist/5jKb6lNnLSyrT381GUfyk7
+  musicbrainz: 'https://musicbrainz.org/artist/e1efa199-0c16-40d6-bfd9-b9ab9a4e935b'
+  spotify: 'https://open.spotify.com/artist/5jKb6lNnLSyrT381GUfyk7'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/zydeco_force.jpg
 biography_enhanced_at: '2025-12-04T08:11:58.920764'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- liveatthefalcon.com - Jeffery Broussard & The Creole Cowboys
-- downtowncajunband.nl - Zydeco Force
-- 'kreolmagazine.com - Jeffery Broussard: Champion of Zydeco''s Rich Heritage and Evolution'
-- flattownmusic.com - Jeffery Broussard and the Creole Cowboys
-- nationalfolkfestival.com - Jeffery Broussard & the Creole Cowboys
-- allmusic.com - Zydeco Force
+  - liveatthefalcon.com - Jeffery Broussard & The Creole Cowboys
+  - downtowncajunband.nl - Zydeco Force
+  - >-
+    kreolmagazine.com - Jeffery Broussard: Champion of Zydeco's Rich Heritage
+    and Evolution
+  - flattownmusic.com - Jeffery Broussard and the Creole Cowboys
+  - nationalfolkfestival.com - Jeffery Broussard & the Creole Cowboys
+  - allmusic.com - Zydeco Force
 network_extracted: true
 entry_created: '2025-12-04T08:11:58.920775'
 last_updated: '2025-12-23T08:16:18.487127'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 89589325-e673-4485-a747-52ff74f3ef5d
-  name: Herbert Broussard
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c43f32b5-a162-4eb4-b755-140156534197
-  name: Jeffery Broussard
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d33bcd9a-6470-4240-8d16-0fcd5476f659
-  name: Shelton Broussard
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: f5a8f5b5-61e6-480a-bd60-739a4f4d842c
-  name: Robby Mann Robinson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 41b86933-912a-48a3-8a42-33c2dba4c2d9
-  name: Raymond Thomas
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 89589325-e673-4485-a747-52ff74f3ef5d
+    name: Herbert Broussard
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c43f32b5-a162-4eb4-b755-140156534197
+    name: Jeffery Broussard
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d33bcd9a-6470-4240-8d16-0fcd5476f659
+    name: Shelton Broussard
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: f5a8f5b5-61e6-480a-bd60-739a4f4d842c
+    name: Robby Mann Robinson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 41b86933-912a-48a3-8a42-33c2dba4c2d9
+    name: Raymond Thomas
 musicbrainz_id: e1efa199-0c16-40d6-bfd9-b9ab9a4e935b
-origin: Opelousas, Louisiana, United States
+origin: 'Opelousas, Louisiana, United States'
 ---
 
 ![](zydeco_force.jpg)

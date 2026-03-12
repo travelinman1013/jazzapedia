@@ -1,20 +1,20 @@
 ---
-title: CHAVELA VARGAS
+title: Chavela Vargas
 wiki_slug: chavela-vargas
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1919-04-17'
-birth_place: Heredia
+birth_place: 'San Joaquín de Flores, Costa Rica'
 death_date: '2012-08-05'
 genres:
-- bolero
-- trova
-- ranchera
-- mariachi
-- latin folk
+  - bolero
+  - trova
+  - ranchera
+  - mariachi
+  - latin folk
 instruments:
-- lead vocals
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/chavela_vargas.jpg
   caption: CHAVELA VARGAS
@@ -37,58 +37,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - José Alfredo Jiménez
-  - Pedro Almodóvar
-  - Diego Rivera
-  - Frida Kahlo
+    - José Alfredo Jiménez
+    - Pedro Almodóvar
+    - Diego Rivera
+    - Frida Kahlo
   influenced:
-  - Pedro Almodóvar
-  - Latin American and Spanish singer‑songwriters (general)
+    - Pedro Almodóvar
+    - Latin American and Spanish singer‑songwriters (general)
   mentors:
-  - José Alfredo Jiménez
+    - José Alfredo Jiménez
 spotify_data:
   followers: 358090
   id: 0WC6O2ZzUcDYvcmt2mGh8c
   popularity: 50
-  url: https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c
+  url: 'https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c'
 discography_enriched: true
 top_tracks:
-- La llorona (Las 30 grandes de Chavela Vargas)
-- Paloma Negra (Chavela Vargas)
-- Adoro (Noche de Ronda)
-- 'Que Te Vaya Bonito (Chavela Vargas: 30 Exitos)'
-- La Llorona (Mi Mundo Raro)
-- La Llorona (Chavela Vargas)
-- No Volveré (Chavela Vargas)
-- 'En el Último Trago (Chavela Vargas: 30 Exitos)'
-- Toda una vida (Las 30 grandes de Chavela Vargas)
-- Las simples cosas (Latin Essentials, Vol. 16)
+  - La llorona (Las 30 grandes de Chavela Vargas)
+  - Paloma Negra (Chavela Vargas)
+  - Adoro (Noche de Ronda)
+  - 'Que Te Vaya Bonito (Chavela Vargas: 30 Exitos)'
+  - La Llorona (Mi Mundo Raro)
+  - La Llorona (Chavela Vargas)
+  - No Volveré (Chavela Vargas)
+  - 'En el Último Trago (Chavela Vargas: 30 Exitos)'
+  - Toda una vida (Las 30 grandes de Chavela Vargas)
+  - 'Las simples cosas (Latin Essentials, Vol. 16)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/77586a91-4586-4962-b836-e496d3a05432
-  spotify: https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c
-  wikipedia: https://en.wikipedia.org/wiki/Chavela_Vargas
+  musicbrainz: 'https://musicbrainz.org/artist/77586a91-4586-4962-b836-e496d3a05432'
+  spotify: 'https://open.spotify.com/artist/0WC6O2ZzUcDYvcmt2mGh8c'
+  wikipedia: 'https://en.wikipedia.org/wiki/Chavela_Vargas'
 image_path: 03_Resources/source_material/ArtistPortraits/chavela_vargas.jpg
 biography_enhanced_at: '2025-12-16T03:58:10.614914'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Chavela_Vargas
-- https://www.britannica.com/biography/Chavela-Vargas
-- https://mexiconewsdaily.com/culture/made-in-mexico-chavela-vargas/
-- https://www.makingqueerhistory.com/articles/2020/7/18/chavela-vargas
-- http://www.chavelavargasfilm.com/chavela-vargas
-- https://worldqueerstory.wordpress.com/2021/05/29/chavela-vargas-2
-- https://burningambulance.com/2012/08/06/chavela-vargas-1919-2012/
+  - 'https://en.wikipedia.org/wiki/Chavela_Vargas'
+  - 'https://www.britannica.com/biography/Chavela-Vargas'
+  - 'https://mexiconewsdaily.com/culture/made-in-mexico-chavela-vargas/'
+  - 'https://www.makingqueerhistory.com/articles/2020/7/18/chavela-vargas'
+  - 'http://www.chavelavargasfilm.com/chavela-vargas'
+  - 'https://worldqueerstory.wordpress.com/2021/05/29/chavela-vargas-2'
+  - 'https://burningambulance.com/2012/08/06/chavela-vargas-1919-2012/'
 network_extracted: true
 entry_created: '2025-12-16T03:58:10.614924'
 last_updated: '2025-12-23T08:16:06.787735'
 gender: Female
 musicbrainz_id: 77586a91-4586-4962-b836-e496d3a05432
 tags:
-- bolero
-- latin
-- macorina
-
+  - bolero
+  - latin
+  - macorina
+is_active: false
+origin: 'Mexico City, Mexico'
 ---
 
 ![](chavela_vargas.jpg)

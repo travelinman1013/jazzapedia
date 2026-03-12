@@ -1,18 +1,18 @@
 ---
-title: OSCAR PETERSON
+title: Oscar Peterson
 wiki_slug: oscar-peterson
 schema_version: 2
 status: active
-birth_place: Montreal, Quebec, Canada
+birth_place: 'Montreal, Quebec, Canada'
 genres:
-- jazz
-- cool jazz
-- bebop
+  - jazz
+  - cool jazz
+  - bebop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/oscar_peterson.jpg
   caption: OSCAR PETERSON
   background: solo_singer
-  origin: Montreal, Quebec, Canada
+  origin: 'Montreal, Quebec, Canada'
 audio_profile:
   tempo_avg: 107.4
   energy_avg: 0.195
@@ -28,63 +28,65 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ray Brown
-  - Herb Ellis
-  - Charlie Smith
-  - Irving Ashby
-  - Barney Kessel
-  - Ella Fitzgerald
-  - Roy Eldridge
-  - Lester Young
-  - Lionel Hampton
-  - Count Basie
-  - Herbie Hancock
-  - Joe Pass
-  - Niels-Henning Ørsted Pedersen
-  - Sam Jones
-  - Clark Terry
+    - Ray Brown
+    - Herb Ellis
+    - Charlie Smith
+    - Irving Ashby
+    - Barney Kessel
+    - Ella Fitzgerald
+    - Roy Eldridge
+    - Lester Young
+    - Lionel Hampton
+    - Count Basie
+    - Herbie Hancock
+    - Joe Pass
+    - Niels-Henning Ørsted Pedersen
+    - Sam Jones
+    - Clark Terry
   influenced:
-  - Multiple jazz pianists and musicians
+    - Multiple jazz pianists and musicians
   mentors:
-  - Daniel Peterson (father)
-  - Daisy Peterson (sister)
-  - Paul de Marky
-  - Norman Granz
+    - Daniel Peterson (father)
+    - Daisy Peterson (sister)
+    - Paul de Marky
+    - Norman Granz
 spotify_data:
   followers: 316868
   id: 6zkX5fhrSD4tdVOmimR9wB
   popularity: 55
-  url: https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB
+  url: 'https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB'
 discography_enriched: true
 top_tracks:
-- Blue And Sentimental (Oscar Peterson Plays Count Basie)
-- A Foggy Day (Oscar Peterson Plays The George Gershwin Song Book)
-- 'Cocktails For Two (Verve Jazz Masters 34: Coleman Hawkins)'
-- Mumbles (Oscar Peterson's Finest Hour)
-- In The Wee Small Hours Of The Morning (Jazz 'Round Midnight)
-- Sunday (Ben Webster's Finest Hour)
-- John Hardy's Wife (Oscar Peterson Plays The Duke Ellington Song Book)
-- 'A Foggy Day (Cosmopolite: The Oscar Peterson Verve Sessions)'
-- Love Is Here To Stay (Oscar Peterson Plays The George Gershwin Song Book)
-- When Your Lover Has Gone (Ben Webster Meets Oscar Peterson)
+  - Blue And Sentimental (Oscar Peterson Plays Count Basie)
+  - A Foggy Day (Oscar Peterson Plays The George Gershwin Song Book)
+  - 'Cocktails For Two (Verve Jazz Masters 34: Coleman Hawkins)'
+  - Mumbles (Oscar Peterson's Finest Hour)
+  - In The Wee Small Hours Of The Morning (Jazz 'Round Midnight)
+  - Sunday (Ben Webster's Finest Hour)
+  - John Hardy's Wife (Oscar Peterson Plays The Duke Ellington Song Book)
+  - 'A Foggy Day (Cosmopolite: The Oscar Peterson Verve Sessions)'
+  - Love Is Here To Stay (Oscar Peterson Plays The George Gershwin Song Book)
+  - When Your Lover Has Gone (Ben Webster Meets Oscar Peterson)
 external_urls:
-  spotify: https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB
-  wikipedia: https://en.wikipedia.org/wiki/Oscar_Peterson
+  spotify: 'https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB'
+  wikipedia: 'https://en.wikipedia.org/wiki/Oscar_Peterson'
 image_path: 03_Resources/source_material/ArtistPortraits/oscar_peterson.jpg
 biography_enhanced_at: '2025-11-03T07:46:18.236979'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Oscar Peterson
-- oscarpeterson.com - Biography
-- Canadian Music Hall of Fame - Oscar Peterson
-- 'Everything Jazz - Oscar Peterson: Master Pianist, Prolific Composer'
-- Royal Canadian Mint - Oscar Peterson
-- Canadian Songwriters Hall of Fame - Oscar Peterson
-- Wind Repertory Project - Oscar Peterson
+  - Wikipedia - Oscar Peterson
+  - oscarpeterson.com - Biography
+  - Canadian Music Hall of Fame - Oscar Peterson
+  - 'Everything Jazz - Oscar Peterson: Master Pianist, Prolific Composer'
+  - Royal Canadian Mint - Oscar Peterson
+  - Canadian Songwriters Hall of Fame - Oscar Peterson
+  - Wind Repertory Project - Oscar Peterson
 network_extracted: true
 entry_created: '2025-11-03T07:46:18.236996'
 last_updated: '2025-12-23T08:16:13.834114'
+birth_date: '1925-08-15'
+artist_type: person
 ---
 
 ![](oscar_peterson.jpg)

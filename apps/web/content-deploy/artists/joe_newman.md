@@ -1,15 +1,15 @@
 ---
-title: JOE NEWMAN
+title: Joe Newman
 wiki_slug: joe-newman
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/joe_newman.jpg
   caption: JOE NEWMAN
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 122.7
   energy_avg: 0.505
@@ -25,48 +25,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Count Basie
-  - Lionel Hampton
-  - Illinois Jacquet
-  - Benny Goodman
-  - Jazz Interactions Orchestra
+    - Count Basie
+    - Lionel Hampton
+    - Illinois Jacquet
+    - Benny Goodman
+    - Jazz Interactions Orchestra
   influenced:
-  - Billy Cobham
-  - Dave Liebman
+    - Billy Cobham
+    - Dave Liebman
   mentors:
-  - David Jones
-  - Lester Young (Pres)
+    - David Jones
+    - Lester Young (Pres)
 spotify_data:
   followers: 303
   id: 2cO1rOy5jQAEGci6AnlSt4
   popularity: 26
-  url: https://open.spotify.com/artist/2cO1rOy5jQAEGci6AnlSt4
+  url: 'https://open.spotify.com/artist/2cO1rOy5jQAEGci6AnlSt4'
 discography_enriched: true
 top_tracks:
-- 101 (Living Fields)
-- Atacama (Living Fields)
-- Brittle (Living Fields)
-- 101 (101)
-- '101 (feat. Joe Newman) (FIP, Vol. 3 : La playlist qui rythme votre vie (La sélection musicale de FIP))'
-- Atacama (Atacama)
-- 101 - Kowton Remix (101 (Kowton Remix))
-- 101 (feat. Joe Newman) (Living Fields)
-- '101 (feat. Joe Newman) (The Electronic Music Anthology : Trip-Hop)'
-- Atacama (feat. Joe Newman) (Living Fields)
+  - 101 (Living Fields)
+  - Atacama (Living Fields)
+  - Brittle (Living Fields)
+  - 101 (101)
+  - >-
+    101 (feat. Joe Newman) (FIP, Vol. 3 : La playlist qui rythme votre vie (La
+    sélection musicale de FIP))
+  - Atacama (Atacama)
+  - 101 - Kowton Remix (101 (Kowton Remix))
+  - 101 (feat. Joe Newman) (Living Fields)
+  - '101 (feat. Joe Newman) (The Electronic Music Anthology : Trip-Hop)'
+  - Atacama (feat. Joe Newman) (Living Fields)
 external_urls:
-  spotify: https://open.spotify.com/artist/2cO1rOy5jQAEGci6AnlSt4
-  wikipedia: https://en.wikipedia.org/wiki/Joe_Newman_(trumpeter)
+  spotify: 'https://open.spotify.com/artist/2cO1rOy5jQAEGci6AnlSt4'
+  wikipedia: 'https://en.wikipedia.org/wiki/Joe_Newman_(trumpeter)'
 image_path: ''
 biography_enhanced_at: '2025-12-12T12:01:34.215735'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Joe_Newman_(trumpeter)
-- https://nationaljazzarchive.org.uk/explore/interviews/1277558-joe-newman-interview-2
-- https://www.latimes.com/archives/la-xpm-1992-07-09-mn-2254-story.html
+  - 'https://en.wikipedia.org/wiki/Joe_Newman_(trumpeter)'
+  - >-
+    https://nationaljazzarchive.org.uk/explore/interviews/1277558-joe-newman-interview-2
+  - 'https://www.latimes.com/archives/la-xpm-1992-07-09-mn-2254-story.html'
 network_extracted: true
 entry_created: '2025-12-12T12:01:34.215756'
 last_updated: '2025-12-23T08:16:10.638363'
+birth_date: '1922-09-07'
+death_date: '1992-07-04'
+artist_type: person
 ---
 
 ![]()

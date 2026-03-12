@@ -4,51 +4,55 @@ biography_enhanced_at: '2026-01-12T02:12:01.227329'
 enhancement_provider: perplexity
 entry_created: '2026-01-12T02:12:01.227333'
 external_urls:
-  spotify: https://open.spotify.com/artist/0TRdPkXMabkeuB8JautkEf
-  wikipedia: https://en.wikipedia.org/wiki/Julian_Lage
+  spotify: 'https://open.spotify.com/artist/0TRdPkXMabkeuB8JautkEf'
+  wikipedia: 'https://en.wikipedia.org/wiki/Julian_Lage'
 genres:
-- bluegrass
-- newgrass
-- indie folk
-image_path: 03_Resources/source_material/ArtistPortraits/julian_lage_john_medeski_jorge_roeder_kenny_wollesen.jpg
+  - bluegrass
+  - newgrass
+  - indie folk
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/julian_lage_john_medeski_jorge_roeder_kenny_wollesen.jpg
 is_active: true
 last_updated: '2026-01-12T02:12:01.227334'
 musical_connections:
   collaborators:
-  - Jorge Roeder
-  - Kenny Wollesen
-  - Scott Colley
-  - Chris Eldridge
-  - Nels Cline
-  - Fred Hersch
-  - Eric Harland
-  - John Zorn
-  - Charles Lloyd
+    - Jorge Roeder
+    - Kenny Wollesen
+    - Scott Colley
+    - Chris Eldridge
+    - Nels Cline
+    - Fred Hersch
+    - Eric Harland
+    - John Zorn
+    - Charles Lloyd
   influenced:
-  - Younger contemporary jazz and acoustic guitarists
+    - Younger contemporary jazz and acoustic guitarists
   mentors:
-  - Gary Burton
-  - David Grisman
-  - Carlos Santana
-  - Herbie Hancock
+    - Gary Burton
+    - David Grisman
+    - Carlos Santana
+    - Herbie Hancock
 network_extracted: true
-origin: Santa Rosa, California, United States
+origin: 'Santa Rosa, California, United States'
 primary_source: perplexity
 research_sources:
-- https://www.bluenote.com/artist/julian-lage/
-- https://en.wikipedia.org/wiki/Julian_Lage
-- https://jazztimes.com/features/profiles/julian-lage-the-natural/
-- https://www.sfjazz.org/athome/drop-the-needle/julian-lage/
-- https://college.berklee.edu/bt/211/alum_profile1.html
-- https://www.knkx.org/studio-sessions/2011-06-20/julian-lage-from-guitar-prodigy-to-guitar-master
-- https://wicn.org/wicn-artist-of-the-month-september-23-julian-lage/
+  - 'https://www.bluenote.com/artist/julian-lage/'
+  - 'https://en.wikipedia.org/wiki/Julian_Lage'
+  - 'https://jazztimes.com/features/profiles/julian-lage-the-natural/'
+  - 'https://www.sfjazz.org/athome/drop-the-needle/julian-lage/'
+  - 'https://college.berklee.edu/bt/211/alum_profile1.html'
+  - >-
+    https://www.knkx.org/studio-sessions/2011-06-20/julian-lage-from-guitar-prodigy-to-guitar-master
+  - 'https://wicn.org/wicn-artist-of-the-month-september-23-julian-lage/'
 spotify_data:
   followers: 10428
   id: 0TRdPkXMabkeuB8JautkEf
   popularity: 34
-  url: https://open.spotify.com/artist/0TRdPkXMabkeuB8JautkEf
+  url: 'https://open.spotify.com/artist/0TRdPkXMabkeuB8JautkEf'
 status: active
-title: Julian Lage, John Medeski, Jorge Roeder, Kenny Wollesen
+title: 'Julian Lage, John Medeski, Jorge Roeder, Kenny Wollesen'
+birth_place: 'Santa Rosa, California, United States'
+birth_date: '1987'
 ---
 
 ![](julian_lage_john_medeski_jorge_roeder_kenny_wollesen.jpg)

@@ -5,23 +5,23 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1938-05-03'
-birth_place: Porto-Novo
+birth_place: 'Porto-Novo, Benin'
 death_date: '2023-10-11'
 genres:
-- banda
-- norteño
-- música mexicana
-- grupera
-- corrido
+  - banda
+  - norteño
+  - música mexicana
+  - grupera
+  - corrido
 instruments:
-- original
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - original
-  mbid: b95249e5-f89e-4200-acad-fc1669785a15
-  name: El Rego et Ses Commandos
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: b95249e5-f89e-4200-acad-fc1669785a15
+    name: El Rego et Ses Commandos
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/el_rego.jpg
   caption: El Rego
@@ -44,48 +44,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - El Rego et ses Commandos
+    - El Rego et ses Commandos
   influenced:
-  - Orchestre Poly‑Rythmo de Cotonou
+    - Orchestre Poly‑Rythmo de Cotonou
   mentors:
-  - American R&B and soul artists (e.g., James Brown–era funk)
+    - 'American R&B and soul artists (e.g., James Brown–era funk)'
 spotify_data:
   followers: 4504198
   id: 6AcOTCYBMvjKYy4zms0kaC
   popularity: 75
-  url: https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC
+  url: 'https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC'
 discography_enriched: true
 top_tracks:
-- La Mejor De Todas (La Mejor De Todas)
-- Te Presumo (Te Presumo)
-- Deja (Lo Mejor De Mi Vida)
-- Y Llegaste Tú (Contigo Por Siempre)
-- Vas A Llorar Por Mí (Haciendo Historia)
-- Acábame De Matar (Te Presumo)
-- 'Por una Mujer Casada (Pa'' Puros Compas!, Vol. 2: Corridos y Rancheras)'
-- Clave Privada (Los 20 Mejores Corridos y Rancheras, Vol. 2)
-- El Sinaloense y el Kora (De Mexico para el Mundo)
-- Te Lo Pido por Favor (De Mexico para el Mundo)
+  - La Mejor De Todas (La Mejor De Todas)
+  - Te Presumo (Te Presumo)
+  - Deja (Lo Mejor De Mi Vida)
+  - Y Llegaste Tú (Contigo Por Siempre)
+  - Vas A Llorar Por Mí (Haciendo Historia)
+  - Acábame De Matar (Te Presumo)
+  - 'Por una Mujer Casada (Pa'' Puros Compas!, Vol. 2: Corridos y Rancheras)'
+  - 'Clave Privada (Los 20 Mejores Corridos y Rancheras, Vol. 2)'
+  - El Sinaloense y el Kora (De Mexico para el Mundo)
+  - Te Lo Pido por Favor (De Mexico para el Mundo)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a5f7a28a-ac92-4b0f-a64d-2c5429c32e85
-  spotify: https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC
+  musicbrainz: 'https://musicbrainz.org/artist/a5f7a28a-ac92-4b0f-a64d-2c5429c32e85'
+  spotify: 'https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/el_rego.jpg
 biography_enhanced_at: '2025-12-12T12:15:37.884123'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- AllMusic artist profile for El Rego (biographical overview, genres, activity dates, birthplace).[2]
-- Apple Music artist page for El Rego (summary biography and birth information).[3]
-- LiveOne artist blurb for El Rego (alternate birthdate and locality details).[4]
-- Multikulti liner‑note style biography for El Rego (first‑person birth statement and career outline).[6]
-- Dusted Magazine review of the Daptone "El Rego" compilation (context on style, influence on Orchestre Poly‑Rythmo, and historical significance).[5]
+  - >-
+    AllMusic artist profile for El Rego (biographical overview, genres, activity
+    dates, birthplace).[2]
+  - >-
+    Apple Music artist page for El Rego (summary biography and birth
+    information).[3]
+  - >-
+    LiveOne artist blurb for El Rego (alternate birthdate and locality
+    details).[4]
+  - >-
+    Multikulti liner‑note style biography for El Rego (first‑person birth
+    statement and career outline).[6]
+  - >-
+    Dusted Magazine review of the Daptone "El Rego" compilation (context on
+    style, influence on Orchestre Poly‑Rythmo, and historical significance).[5]
 network_extracted: true
 entry_created: '2025-12-12T12:15:37.884128'
 last_updated: '2025-12-23T08:16:08.274196'
 gender: Male
 musicbrainz_id: a5f7a28a-ac92-4b0f-a64d-2c5429c32e85
-
+is_active: false
 ---
 
 ![](el_rego.jpg)

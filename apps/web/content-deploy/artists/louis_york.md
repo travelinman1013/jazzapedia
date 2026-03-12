@@ -1,5 +1,5 @@
 ---
-title: louis york
+title: Louis York
 wiki_slug: louis-york
 schema_version: 2
 status: active
@@ -23,52 +23,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Claude Kelly
-  - Chuck Harmony
-  - Sir The Baptist
-  - Chrisette Michele
-  - The Shindellas
+    - Claude Kelly
+    - Chuck Harmony
+    - Sir The Baptist
+    - Chrisette Michele
+    - The Shindellas
   influenced:
-  - Tennessee State University Aristocrat of Bands
+    - Tennessee State University Aristocrat of Bands
   mentors:
-  - Church choir tradition
-  - Motown sound and Jazz
+    - Church choir tradition
+    - Motown sound and Jazz
 spotify_data:
   followers: 11995
   id: 0owrNlxvcLL8KI0U5sYBUb
   popularity: 25
-  url: https://open.spotify.com/artist/0owrNlxvcLL8KI0U5sYBUb
+  url: 'https://open.spotify.com/artist/0owrNlxvcLL8KI0U5sYBUb'
 discography_enriched: true
 top_tracks:
-- Heaven Bound (Heaven Bound)
-- Alone A Lot (Alone A Lot)
-- Alone A Lot (Songs with Friends)
-- I Enjoy You (I Enjoy You)
-- Don't You Forget (American Griots)
-- Starlight (Starlight)
-- Heaven Bound (Songs with Friends)
-- You Bring The Love (You Bring The Love)
-- How Will I Feel (American Griots)
-- Three Little Words (Three Little Words)
+  - Heaven Bound (Heaven Bound)
+  - Alone A Lot (Alone A Lot)
+  - Alone A Lot (Songs with Friends)
+  - I Enjoy You (I Enjoy You)
+  - Don't You Forget (American Griots)
+  - Starlight (Starlight)
+  - Heaven Bound (Songs with Friends)
+  - You Bring The Love (You Bring The Love)
+  - How Will I Feel (American Griots)
+  - Three Little Words (Three Little Words)
 external_urls:
-  spotify: https://open.spotify.com/artist/0owrNlxvcLL8KI0U5sYBUb
-  wikipedia: https://en.wikipedia.org/wiki/Louis_York
+  spotify: 'https://open.spotify.com/artist/0owrNlxvcLL8KI0U5sYBUb'
+  wikipedia: 'https://en.wikipedia.org/wiki/Louis_York'
 image_path: 03_Resources/source_material/ArtistPortraits/louis_york.jpg
 biography_enhanced_at: '2025-11-28T07:34:45.253058'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Louis York
-- Louis York Official Website (louisyork.com)
-- Weirdo Workshop Official Site
-- Red River Revel Artist Profile
-- KUTV Fresh Living Feature
-- iHeart Artist Biography
-- AllMusic Artist Page
+  - Wikipedia - Louis York
+  - Louis York Official Website (louisyork.com)
+  - Weirdo Workshop Official Site
+  - Red River Revel Artist Profile
+  - KUTV Fresh Living Feature
+  - iHeart Artist Biography
+  - AllMusic Artist Page
 network_extracted: true
 entry_created: '2025-11-28T07:34:45.253069'
 last_updated: '2025-12-23T08:16:12.268219'
-origin: New York, New York, United States (band origin; members from New York City and East St. Louis)
+origin: >-
+  New York, New York, United States (band origin; members from New York City and
+  East St. Louis)
+artist_type: band
 ---
 
 ![](louis_york.jpg)

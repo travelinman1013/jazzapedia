@@ -4,8 +4,8 @@ wiki_slug: choupique
 schema_version: 2
 status: active
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/choupique.jpg
   caption: Choupique
@@ -25,48 +25,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jesse Brown's wife
-  - Choupique Band members
+    - Jesse Brown's wife
+    - Choupique Band members
   influenced: []
   mentors:
-  - Eddie Brown
-  - Larry Miller
+    - Eddie Brown
+    - Larry Miller
 spotify_data:
   followers: 299
   id: 7x3OF7QMBtPprEe75ZPzii
   popularity: 0
-  url: https://open.spotify.com/artist/7x3OF7QMBtPprEe75ZPzii
+  url: 'https://open.spotify.com/artist/7x3OF7QMBtPprEe75ZPzii'
 discography_enriched: true
 top_tracks:
-- The Crawfish Song (Catch And Release)
-- Disco Et Fais Do Do (Pass a Good Time)
-- Hot Tamale Baby (feat. Todd Zydeco Ortego & Beau Brown) (Pass a Good Time)
-- Cajun Love Song (feat. Madeleine Brown) (Pass a Good Time)
-- Marie Laveau (Pass a Good Time)
-- Bon Whiskey (Pass a Good Time)
-- Ossun Two Step (Pass a Good Time)
-- Sittin' At the DMV (Pass a Good Time)
-- Madame Ettienne (Pass a Good Time)
-- Erwin's Fancy (Pass a Good Time)
+  - The Crawfish Song (Catch And Release)
+  - Disco Et Fais Do Do (Pass a Good Time)
+  - Hot Tamale Baby (feat. Todd Zydeco Ortego & Beau Brown) (Pass a Good Time)
+  - Cajun Love Song (feat. Madeleine Brown) (Pass a Good Time)
+  - Marie Laveau (Pass a Good Time)
+  - Bon Whiskey (Pass a Good Time)
+  - Ossun Two Step (Pass a Good Time)
+  - Sittin' At the DMV (Pass a Good Time)
+  - Madame Ettienne (Pass a Good Time)
+  - Erwin's Fancy (Pass a Good Time)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/51d97350-a919-4a83-96fa-4a029501d6af
-  spotify: https://open.spotify.com/artist/7x3OF7QMBtPprEe75ZPzii
+  musicbrainz: 'https://musicbrainz.org/artist/51d97350-a919-4a83-96fa-4a029501d6af'
+  spotify: 'https://open.spotify.com/artist/7x3OF7QMBtPprEe75ZPzii'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/choupique.jpg
 biography_enhanced_at: '2025-10-27T02:29:52.083470'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://cajunaccordionbuilders.blogspot.com/2016/02/choupique-by-jessie-brown.html
-- http://www.choupique.com/Choupique%20Band%20Home.htm
-- http://www.sabinetoday.com/index.php/articles/2019/05/08/chopique-perform-weekend
-- https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/choupique.htm.html
-- http://www.choupique.com/Choupique%20Accordions%20Home.htm
+  - >-
+    http://cajunaccordionbuilders.blogspot.com/2016/02/choupique-by-jessie-brown.html
+  - 'http://www.choupique.com/Choupique%20Band%20Home.htm'
+  - >-
+    http://www.sabinetoday.com/index.php/articles/2019/05/08/chopique-perform-weekend
+  - >-
+    https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/choupique.htm.html
+  - 'http://www.choupique.com/Choupique%20Accordions%20Home.htm'
 network_extracted: true
 entry_created: '2025-10-27T02:29:52.083492'
 last_updated: '2025-12-23T08:16:06.865120'
 musicbrainz_id: 51d97350-a919-4a83-96fa-4a029501d6af
-origin: Eunice, Louisiana, United States
+origin: 'Eunice, Louisiana, United States'
+artist_type: band
 ---
 
 ![](choupique.jpg)

@@ -5,19 +5,19 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1966-05-16'
-birth_place: Gary
+birth_place: 'Gary, Indiana, United States'
 genres:
-- new jack swing
+  - new jack swing
 instruments:
-- lead vocals
-- background vocals
-- spoken vocals
+  - lead vocals
+  - background vocals
+  - spoken vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 995686a4-c094-492c-8d23-1d3dd27f73c3
-  name: P.Y.T's
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 995686a4-c094-492c-8d23-1d3dd27f73c3
+    name: P.Y.T's
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/janet_jackson.jpg
   caption: Janet Jackson
@@ -39,57 +39,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Michael Jackson
-  - Justin Timberlake
-  - Kanye West
-  - Jay-Z
-  - Nelly
+    - Michael Jackson
+    - Justin Timberlake
+    - Kanye West
+    - Jay-Z
+    - Nelly
   influenced:
-  - Beyoncé
-  - Alicia Keys
-  - Ciara
+    - Beyoncé
+    - Alicia Keys
+    - Ciara
   mentors:
-  - Jimmy Jam
-  - Terry Lewis
+    - Jimmy Jam
+    - Terry Lewis
 spotify_data:
   followers: 4104742
   id: 4qwGe91Bz9K2T8jXTZ815W
   popularity: 67
-  url: https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W
+  url: 'https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W'
 discography_enriched: true
 top_tracks:
-- Someone To Call My Lover (All For You)
-- That's The Way Love Goes (Janet)
-- Together Again (The Velvet Rope)
-- All For You (All For You)
-- Got 'Til It's Gone (The Velvet Rope)
-- Any Time, Any Place (Janet)
-- Scream (HIStory - PAST, PRESENT AND FUTURE - BOOK I)
-- Call On Me (20 Y.O.)
-- Again (Janet)
-- When I Think Of You (Control)
+  - Someone To Call My Lover (All For You)
+  - That's The Way Love Goes (Janet)
+  - Together Again (The Velvet Rope)
+  - All For You (All For You)
+  - Got 'Til It's Gone (The Velvet Rope)
+  - 'Any Time, Any Place (Janet)'
+  - 'Scream (HIStory - PAST, PRESENT AND FUTURE - BOOK I)'
+  - Call On Me (20 Y.O.)
+  - Again (Janet)
+  - When I Think Of You (Control)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6be2828f-6c0d-4059-99d4-fa18acf1a296
-  spotify: https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W
-  wikipedia: https://en.wikipedia.org/wiki/Janet_Jackson
+  musicbrainz: 'https://musicbrainz.org/artist/6be2828f-6c0d-4059-99d4-fa18acf1a296'
+  spotify: 'https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W'
+  wikipedia: 'https://en.wikipedia.org/wiki/Janet_Jackson'
 image_path: 03_Resources/source_material/ArtistPortraits/janet_jackson.jpg
 biography_enhanced_at: '2025-11-26T07:37:37.752800'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.watchmojo.com/articles/janet-jackson-bio-life-and-career-of-the-singer-and-actress
-- https://www.biography.com/musicians/janet-jackson
-- https://en.wikipedia.org/wiki/Janet_Jackson
-- https://www.britannica.com/biography/Janet-Jackson
+  - >-
+    https://www.watchmojo.com/articles/janet-jackson-bio-life-and-career-of-the-singer-and-actress
+  - 'https://www.biography.com/musicians/janet-jackson'
+  - 'https://en.wikipedia.org/wiki/Janet_Jackson'
+  - 'https://www.britannica.com/biography/Janet-Jackson'
 network_extracted: true
 entry_created: '2025-11-26T07:37:37.752806'
 last_updated: '2025-12-23T08:16:10.224258'
 gender: Female
 musicbrainz_id: 6be2828f-6c0d-4059-99d4-fa18acf1a296
 tags:
-- contemporary r&b
-- dance
-- female vocals
+  - contemporary r&b
+  - dance
+  - female vocals
 ---
 
 ![](janet_jackson.jpg)

@@ -3,14 +3,14 @@ title: Billy Bang
 wiki_slug: billy-bang
 schema_version: 2
 status: active
-birth_place: Mobile, Alabama, United States
+birth_place: 'Mobile, Alabama, United States'
 genres:
-- free jazz
+  - free jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/billy_bang.jpg
   caption: Billy Bang
   background: solo_singer
-  origin: Mobile, Alabama, United States
+  origin: 'Mobile, Alabama, United States'
 audio_profile:
   tempo_avg: 113.1
   energy_avg: 0.363
@@ -26,48 +26,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - William Parker
-  - Sun Ra
-  - Don Cherry
-  - John Lindberg, James Emery
-  - Susie Ibarra
+    - William Parker
+    - Sun Ra
+    - Don Cherry
+    - 'John Lindberg, James Emery'
+    - Susie Ibarra
   influenced:
-  - Contemporary jazz violinists
+    - Contemporary jazz violinists
   mentors:
-  - Leroy Jenkins
-  - Ornette Coleman
+    - Leroy Jenkins
+    - Ornette Coleman
 spotify_data:
   followers: 1632
   id: 1ytHXKB2HiX4Bmz8KhjjD5
   popularity: 3
-  url: https://open.spotify.com/artist/1ytHXKB2HiX4Bmz8KhjjD5
+  url: 'https://open.spotify.com/artist/1ytHXKB2HiX4Bmz8KhjjD5'
 discography_enriched: true
 top_tracks:
-- 'Yo! Ho Chi Minh Is in the House (Vietnam: The Aftermath)'
-- 'Moments for the Kiamia (Vietnam: The Aftermath)'
-- 'Reflection (Vietnam: Reflections)'
-- 'Tunnel Rat (Flashlight and a 45) (Vietnam: The Aftermath)'
-- Big M (Live At The River East Art Center)
-- OOF (Live At The River East Art Center)
-- 'Antiquated Love (Ozay: Antiquated Love)'
-- Conjuring A Calm Between Wars (Bad Mouth)
-- Go To Jazz (Bad Mouth)
-- Spirits Entering (Spirits Entering)
+  - 'Yo! Ho Chi Minh Is in the House (Vietnam: The Aftermath)'
+  - 'Moments for the Kiamia (Vietnam: The Aftermath)'
+  - 'Reflection (Vietnam: Reflections)'
+  - 'Tunnel Rat (Flashlight and a 45) (Vietnam: The Aftermath)'
+  - Big M (Live At The River East Art Center)
+  - OOF (Live At The River East Art Center)
+  - 'Antiquated Love (Ozay: Antiquated Love)'
+  - Conjuring A Calm Between Wars (Bad Mouth)
+  - Go To Jazz (Bad Mouth)
+  - Spirits Entering (Spirits Entering)
 external_urls:
-  spotify: https://open.spotify.com/artist/1ytHXKB2HiX4Bmz8KhjjD5
-  wikipedia: https://en.wikipedia.org/wiki/Billy_Bang
+  spotify: 'https://open.spotify.com/artist/1ytHXKB2HiX4Bmz8KhjjD5'
+  wikipedia: 'https://en.wikipedia.org/wiki/Billy_Bang'
 image_path: 03_Resources/source_material/ArtistPortraits/billy_bang.jpg
 biography_enhanced_at: '2025-10-28T08:58:52.772343'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Billy_Bang
-- https://www.cc-seas.columbia.edu/wkcr/story/billy-bang-memorial-broadcast-wednesday-april-13
-- https://roulette.org/event/billy-bang-10/
-- https://daily.bandcamp.com/lists/billy-bang-jazz-violinist-interview
+  - 'https://en.wikipedia.org/wiki/Billy_Bang'
+  - >-
+    https://www.cc-seas.columbia.edu/wkcr/story/billy-bang-memorial-broadcast-wednesday-april-13
+  - 'https://roulette.org/event/billy-bang-10/'
+  - 'https://daily.bandcamp.com/lists/billy-bang-jazz-violinist-interview'
 network_extracted: true
 entry_created: '2025-10-28T08:58:52.772354'
 last_updated: '2025-12-23T08:16:05.534065'
+birth_date: '1947-09-20'
+artist_type: person
 ---
 
 ![](billy_bang.jpg)

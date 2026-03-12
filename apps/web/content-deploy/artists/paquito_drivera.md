@@ -1,19 +1,19 @@
 ---
-title: Paquito D'Rivera
+title: Paquito D’Rivera
 wiki_slug: paquito-drivera
 schema_version: 2
 status: active
-birth_place: Havana, Cuba
+birth_place: 'Havana, Cuba, United States'
 genres:
-- big band
-- bolero
-- jazz
-- latin jazz
+  - big band
+  - bolero
+  - jazz
+  - latin jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/paquito_drivera.jpg
   caption: Paquito D'Rivera
   background: solo_singer
-  origin: Havana, Cuba
+  origin: 'Havana, Cuba'
 audio_profile:
   tempo_avg: 111.8
   energy_avg: 0.508
@@ -29,50 +29,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Chucho Valdés
-  - Dizzy Gillespie
-  - Yo-Yo Ma
+    - Chucho Valdés
+    - Dizzy Gillespie
+    - Yo-Yo Ma
   influenced:
-  - David Sánchez
-  - Edmar Castañeda
+    - David Sánchez
+    - Edmar Castañeda
   mentors:
-  - Tito Rivera
+    - Tito Rivera
 spotify_data:
   followers: 52429
   id: 30Mx3ZadPgGZTcs38FvYP8
   popularity: 35
-  url: https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8
+  url: 'https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8'
 discography_enriched: true
 top_tracks:
-- Mozo (Mariposa Azul)
-- Me Vuelves Loca
-- Pan Con Timba (Bebo Rides Again)
-- Milonga Gris (La Fleur de Cayenne)
-- I Like It (Like That) (feat. Ray Barretto, Sheila E., Tito Nieves, Tito Puente, Paquito D'Rivera, Dave Valentin & Grover
-  Washington, Jr.) - Radio Mix
-- Mambo Influenciado (I Missed You Too!)
-- La Fleur de Cayenne (La Fleur de Cayenne)
-- Vals Venezolano (La Fleur de Cayenne)
-- Cómo Fue
-- Paq-Man in La Pampa (La Fleur de Cayenne)
+  - Mozo (Mariposa Azul)
+  - Me Vuelves Loca
+  - Pan Con Timba (Bebo Rides Again)
+  - Milonga Gris (La Fleur de Cayenne)
+  - >-
+    I Like It (Like That) (feat. Ray Barretto, Sheila E., Tito Nieves, Tito
+    Puente, Paquito D'Rivera, Dave Valentin & Grover Washington, Jr.) - Radio
+    Mix
+  - Mambo Influenciado (I Missed You Too!)
+  - La Fleur de Cayenne (La Fleur de Cayenne)
+  - Vals Venezolano (La Fleur de Cayenne)
+  - Cómo Fue
+  - Paq-Man in La Pampa (La Fleur de Cayenne)
 external_urls:
-  spotify: https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8
-  wikipedia: https://en.wikipedia.org/wiki/Paquito_D'Rivera
+  spotify: 'https://open.spotify.com/artist/30Mx3ZadPgGZTcs38FvYP8'
+  wikipedia: 'https://en.wikipedia.org/wiki/Paquito_D''Rivera'
 image_path: 03_Resources/source_material/ArtistPortraits/paquito_drivera.jpg
 biography_enhanced_at: '2025-11-08T22:01:19.556750'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia
-- paquitodrivera.com
-- Chicago Symphony Orchestra
-- Yamaha Artists
-- Boosey & Hawkes
-- WFMT
-- Atlanta Jazz Festival
+  - Wikipedia
+  - paquitodrivera.com
+  - Chicago Symphony Orchestra
+  - Yamaha Artists
+  - Boosey & Hawkes
+  - WFMT
+  - Atlanta Jazz Festival
 network_extracted: true
 entry_created: '2025-11-08T22:01:19.556763'
 last_updated: '2025-12-23T08:16:13.934708'
+birth_date: '1948-06-04'
+artist_type: person
 ---
 
 ![](paquito_drivera.jpg)

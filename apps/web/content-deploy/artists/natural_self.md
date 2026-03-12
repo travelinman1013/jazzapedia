@@ -1,43 +1,44 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-07T01:16:15.153582'
-birth_place: Brighton, UK
+birth_place: 'Brighton, UK'
 disambiguation: UK artist/producer Nathaniel Pearn
 enhancement_provider: perplexity
 entry_created: '2026-01-07T01:16:15.153588'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/69402db7-efe8-41bb-90c2-90a5676d2c62
-  spotify: https://open.spotify.com/artist/4RUjXpY1miotoKFF76r6gm
+  musicbrainz: 'https://musicbrainz.org/artist/69402db7-efe8-41bb-90c2-90a5676d2c62'
+  spotify: 'https://open.spotify.com/artist/4RUjXpY1miotoKFF76r6gm'
   wikipedia: ''
 gender: Male
 genres:
-- nu jazz
+  - nu jazz
 image_path: 03_Resources/source_material/ArtistPortraits/natural_self.jpg
 last_updated: '2026-01-07T01:16:15.153588'
 musical_connections:
   collaborators:
-  - Nostalgia 77
-  - Alice Russell
-  - Andreya Triana
-  - Elodie Rama
+    - Nostalgia 77
+    - Alice Russell
+    - Andreya Triana
+    - Elodie Rama
   influenced: []
   mentors:
-  - The Bomb Squad
+    - The Bomb Squad
 musicbrainz_id: 69402db7-efe8-41bb-90c2-90a5676d2c62
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://tru-thoughts.co.uk/artists/natural-self/
-- https://www.last.fm/music/Natural+Self/+wiki
-- https://vinylscout.shop/gb/artist/natural-self
-- https://www.allmusic.com/artist/natural-self-mn0000907133
+  - 'https://tru-thoughts.co.uk/artists/natural-self/'
+  - 'https://www.last.fm/music/Natural+Self/+wiki'
+  - 'https://vinylscout.shop/gb/artist/natural-self'
+  - 'https://www.allmusic.com/artist/natural-self-mn0000907133'
 spotify_data:
   followers: 13763
   id: 4RUjXpY1miotoKFF76r6gm
   popularity: 38
-  url: https://open.spotify.com/artist/4RUjXpY1miotoKFF76r6gm
+  url: 'https://open.spotify.com/artist/4RUjXpY1miotoKFF76r6gm'
 status: active
 title: Natural Self
+origin: 'Brighton, UK, United Kingdom'
 ---
 
 ![](natural_self.jpg)

@@ -1,14 +1,15 @@
 ---
-title: bela fleck and the flecktones
+title: Bela Fleck and the Flecktones
 wiki_slug: bela-fleck-and-the-flecktones
 schema_version: 2
 status: active
 genres:
-- newgrass
-- bluegrass
-- jazz fusion
+  - newgrass
+  - bluegrass
+  - jazz fusion
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/bela_fleck_and_the_flecktones.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/bela_fleck_and_the_flecktones.jpg
   caption: bela fleck and the flecktones
   background: solo_singer
 audio_profile:
@@ -26,55 +27,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Howard Levy
-  - Victor Wooten
-  - Roy 'Futureman' Wooten
-  - Jeff Coffin
-  - Abigail Washburn
-  - Toumani Diabaté
-  - Strength in Numbers
+    - Howard Levy
+    - Victor Wooten
+    - Roy 'Futureman' Wooten
+    - Jeff Coffin
+    - Abigail Washburn
+    - Toumani Diabaté
+    - Strength in Numbers
   influenced:
-  - Contemporary banjo players and jazz fusion musicians
+    - Contemporary banjo players and jazz fusion musicians
   mentors:
-  - Tony Trischka
-  - Lester Flatt and Earl Scruggs
-  - Chick Corea and Stanley Clarke
+    - Tony Trischka
+    - Lester Flatt and Earl Scruggs
+    - Chick Corea and Stanley Clarke
 spotify_data:
   followers: 109179
   id: 5Zmur9D9gpr6tXyDrpnbOe
   popularity: 40
-  url: https://open.spotify.com/artist/5Zmur9D9gpr6tXyDrpnbOe
+  url: 'https://open.spotify.com/artist/5Zmur9D9gpr6tXyDrpnbOe'
 discography_enriched: true
 top_tracks:
-- Sex in a Pan (UFO Tofu)
-- The Sinister Minister (Bela Fleck and the Flecktones)
-- Big Country (Left Of Cool)
-- Stomping Grounds - Live Version (Live Art)
-- Flight of the Cosmic Hippo (Flight Of The Cosmic Hippo)
-- Sunset Road (Bela Fleck and the Flecktones)
-- New South Africa - Live Version (Live Art)
-- Throwdown at the Hoedown (Left Of Cool)
-- Sea Brazil (Bela Fleck and the Flecktones)
-- Up and Running (Tales From The Acoustic Planet)
+  - Sex in a Pan (UFO Tofu)
+  - The Sinister Minister (Bela Fleck and the Flecktones)
+  - Big Country (Left Of Cool)
+  - Stomping Grounds - Live Version (Live Art)
+  - Flight of the Cosmic Hippo (Flight Of The Cosmic Hippo)
+  - Sunset Road (Bela Fleck and the Flecktones)
+  - New South Africa - Live Version (Live Art)
+  - Throwdown at the Hoedown (Left Of Cool)
+  - Sea Brazil (Bela Fleck and the Flecktones)
+  - Up and Running (Tales From The Acoustic Planet)
 external_urls:
-  spotify: https://open.spotify.com/artist/5Zmur9D9gpr6tXyDrpnbOe
+  spotify: 'https://open.spotify.com/artist/5Zmur9D9gpr6tXyDrpnbOe'
   wikipedia: Not provided in search results
 image_path: 03_Resources/source_material/ArtistPortraits/bela_fleck_and_the_flecktones.jpg
 biography_enhanced_at: '2025-12-04T08:14:02.070029'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.britannica.com/biography/Bela-Fleck
-- https://jazztimes.com/features/profiles/bela-fleck-and-the-flecktones-life-in-eleven/
-- https://www.thekurlandagency.com/materials/bios/FleckBio.pdf
-- https://www.flecktones.com/about
-- https://www.belafleck.com/collaborations/bela-fleck-and-the-flecktones
-- https://www.boosey.com/composer/B%C3%A9la+Fleck?ttype=BIOGRAPHY
+  - 'https://www.britannica.com/biography/Bela-Fleck'
+  - >-
+    https://jazztimes.com/features/profiles/bela-fleck-and-the-flecktones-life-in-eleven/
+  - 'https://www.thekurlandagency.com/materials/bios/FleckBio.pdf'
+  - 'https://www.flecktones.com/about'
+  - 'https://www.belafleck.com/collaborations/bela-fleck-and-the-flecktones'
+  - 'https://www.boosey.com/composer/B%C3%A9la+Fleck?ttype=BIOGRAPHY'
 network_extracted: true
 entry_created: '2025-12-04T08:14:02.070042'
 last_updated: '2025-12-23T08:16:05.201255'
-origin: New York City, New York, United States (birthplace); formed as band in 1988
-
+origin: 'New York City, New York, United States (birthplace); formed as band in 1988'
+birth_place: 'New York City, New York, United States'
+artist_type: band
 ---
 
 ![](bela_fleck_and_the_flecktones.jpg)

@@ -1,16 +1,16 @@
 ---
-title: fred wesley and the new jbs
+title: Fred Wesley and the New Jbs
 wiki_slug: fred-wesley-and-the-new-jbs
 schema_version: 2
 status: active
 genres:
-- funk pop
+  - funk pop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/fred_wesley_and_the_new_jbs.jpg
   caption: fred wesley and the new jbs
   background: solo_singer
 audio_profile:
-  tempo_avg: 102.0
+  tempo_avg: 102
   energy_avg: 0.624
   valence_avg: 0.614
   danceability_avg: 0.688
@@ -24,52 +24,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - James Brown
-  - Maceo Parker
-  - George Clinton
-  - Bootsy Collins
-  - Pee Wee Ellis
-  - Ray Charles, Curtis Mayfield, Van Morrison
+    - James Brown
+    - Maceo Parker
+    - George Clinton
+    - Bootsy Collins
+    - Pee Wee Ellis
+    - 'Ray Charles, Curtis Mayfield, Van Morrison'
   influenced:
-  - Janet Jackson
-  - Nas
+    - Janet Jackson
+    - Nas
   mentors:
-  - Ike and Tina Turner
+    - Ike and Tina Turner
 spotify_data:
   followers: 40
   id: 2bdKvul573ZzaIjALHclVs
   popularity: 1
-  url: https://open.spotify.com/artist/2bdKvul573ZzaIjALHclVs
+  url: 'https://open.spotify.com/artist/2bdKvul573ZzaIjALHclVs'
 discography_enriched: true
 top_tracks:
-- Chameleon - Live (Fred Wesley & The New JB's (Live in Belgrade))
-- Damn Right I'm Somebody - Live (Fred Wesley & The New JB's (Live in Belgrade))
-- Four Play - Live (Fred Wesley & The New JB's (Live in Belgrade))
-- Night Of The Thumpasaurus People - Live (Fred Wesley & The New JB's (Live in Belgrade))
-- In Love In L.A. - Live (Fred Wesley & The New JB's (Live in Belgrade))
-- Breaking Bread - Live (Fred Wesley & The New JB's (Live in Belgrade))
-- (Medley) Pass The Peas and Gimme Some Mo' - Live (Fred Wesley & The New JB's (Live in Belgrade))
-- Trick Bag - Live (Fred Wesley & The New JB's (Live in Belgrade))
-- Peace Power - Live (Fred Wesley & The New JB's (Live in Belgrade))
-- No One - Live (Fred Wesley & The New JB's (Live in Belgrade))
+  - Chameleon - Live (Fred Wesley & The New JB's (Live in Belgrade))
+  - >-
+    Damn Right I'm Somebody - Live (Fred Wesley & The New JB's (Live in
+    Belgrade))
+  - Four Play - Live (Fred Wesley & The New JB's (Live in Belgrade))
+  - >-
+    Night Of The Thumpasaurus People - Live (Fred Wesley & The New JB's (Live in
+    Belgrade))
+  - In Love In L.A. - Live (Fred Wesley & The New JB's (Live in Belgrade))
+  - Breaking Bread - Live (Fred Wesley & The New JB's (Live in Belgrade))
+  - >-
+    (Medley) Pass The Peas and Gimme Some Mo' - Live (Fred Wesley & The New JB's
+    (Live in Belgrade))
+  - Trick Bag - Live (Fred Wesley & The New JB's (Live in Belgrade))
+  - Peace Power - Live (Fred Wesley & The New JB's (Live in Belgrade))
+  - No One - Live (Fred Wesley & The New JB's (Live in Belgrade))
 external_urls:
-  spotify: https://open.spotify.com/artist/2bdKvul573ZzaIjALHclVs
-  wikipedia: https://en.wikipedia.org/wiki/Fred_Wesley
+  spotify: 'https://open.spotify.com/artist/2bdKvul573ZzaIjALHclVs'
+  wikipedia: 'https://en.wikipedia.org/wiki/Fred_Wesley'
 image_path: 03_Resources/source_material/ArtistPortraits/fred_wesley_and_the_new_jbs.jpg
 biography_enhanced_at: '2025-11-28T07:35:09.026420'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://secure.thefreight.org/15057/15058-fred-wesley-new-jbs-250719
-- https://rachot.cz/fred-wesley-the-new-jbs_/
-- https://en.wikipedia.org/wiki/Fred_Wesley
-- https://basitours.com/artist/fred-wesley-new-jbs
-- https://www.jazzalley.com/www-home/artist.jsp?shownum=7456
-- https://middlecjazz.com/fred-wesley-forefather-of-funk/
+  - 'https://secure.thefreight.org/15057/15058-fred-wesley-new-jbs-250719'
+  - 'https://rachot.cz/fred-wesley-the-new-jbs_/'
+  - 'https://en.wikipedia.org/wiki/Fred_Wesley'
+  - 'https://basitours.com/artist/fred-wesley-new-jbs'
+  - 'https://www.jazzalley.com/www-home/artist.jsp?shownum=7456'
+  - 'https://middlecjazz.com/fred-wesley-forefather-of-funk/'
 network_extracted: true
 entry_created: '2025-11-28T07:35:09.026434'
 last_updated: '2025-12-23T08:16:08.827260'
-origin: Columbus, Georgia, United States (birthplace); Mobile, Alabama, United States (raised)
+origin: >-
+  Columbus, Georgia, United States (birthplace); Mobile, Alabama, United States
+  (raised)
+birth_place: 'Columbus, Georgia, United States'
+artist_type: person
 ---
 
 ![](fred_wesley_and_the_new_jbs.jpg)

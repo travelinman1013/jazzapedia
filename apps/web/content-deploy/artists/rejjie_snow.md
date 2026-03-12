@@ -5,9 +5,9 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1993-06-27'
-birth_place: Dublin
+birth_place: 'Drumcondra, Dublin, Ireland'
 genres:
-- jazz rap
+  - jazz rap
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/rejjie_snow.jpg
   caption: Rejjie Snow
@@ -15,7 +15,7 @@ infobox:
   born: '1993-06-27'
   origin: Dublin
 audio_profile:
-  tempo_avg: 107.0
+  tempo_avg: 107
   energy_avg: 0.603
   valence_avg: 0.576
   danceability_avg: 0.756
@@ -29,47 +29,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Loyle Carner
-  - Clairo
-  - Cam O'bi
-  - Kaytranada
-  - Rahki
+    - Loyle Carner
+    - Clairo
+    - Cam O'bi
+    - Kaytranada
+    - Rahki
   influenced: []
   mentors:
-  - Bill Evans & Miles Davis
-  - Nas, Wu-Tang Clan, MF DOOM
-  - Queen
+    - Bill Evans & Miles Davis
+    - 'Nas, Wu-Tang Clan, MF DOOM'
+    - Queen
 spotify_data:
   followers: 455289
   id: 3lLHpTOJ11tWiUNGYN14gt
   popularity: 62
-  url: https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt
+  url: 'https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt'
 discography_enriched: true
 top_tracks:
-- Hello?
-- Egyptian Luvr (Dear Annie)
-- Everything Eventually Ends
-- Egyptian Luvr (Dear Annie)
-- Cookie Chips (Baw Baw Black Sheep)
-- 23 (Dear Annie)
-- Cookie Chips (Baw Baw Black Sheep)
-- 23 (Dear Annie)
-- '1992'
-- PURPLE TUESDAY (feat. Joey Bada$$ & Jesse Boykins III) (The Moon & You)
+  - Hello?
+  - Egyptian Luvr (Dear Annie)
+  - Everything Eventually Ends
+  - Egyptian Luvr (Dear Annie)
+  - Cookie Chips (Baw Baw Black Sheep)
+  - 23 (Dear Annie)
+  - Cookie Chips (Baw Baw Black Sheep)
+  - 23 (Dear Annie)
+  - '1992'
+  - PURPLE TUESDAY (feat. Joey Bada$$ & Jesse Boykins III) (The Moon & You)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/585a4449-2a50-4fc9-910d-e76b46c22718
-  spotify: https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt
-  wikipedia: https://en.wikipedia.org/wiki/Rejjie_Snow
+  musicbrainz: 'https://musicbrainz.org/artist/585a4449-2a50-4fc9-910d-e76b46c22718'
+  spotify: 'https://open.spotify.com/artist/3lLHpTOJ11tWiUNGYN14gt'
+  wikipedia: 'https://en.wikipedia.org/wiki/Rejjie_Snow'
 image_path: 03_Resources/source_material/ArtistPortraits/rejjie_snow.jpg
 biography_enhanced_at: '2025-12-04T07:34:14.611352'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Rejjie Snow
-- Notion Magazine - Rejjie Snow
-- Loud and Quiet - Rejjie Snow Interview
-- Montreux Jazz Festival - Rejjie Snow
-- VICE - Rejjie Snow Dear Annie Interview 2018
+  - Wikipedia - Rejjie Snow
+  - Notion Magazine - Rejjie Snow
+  - Loud and Quiet - Rejjie Snow Interview
+  - Montreux Jazz Festival - Rejjie Snow
+  - VICE - Rejjie Snow Dear Annie Interview 2018
 network_extracted: true
 entry_created: '2025-12-04T07:34:14.611359'
 last_updated: '2025-12-23T08:16:14.788522'

@@ -3,16 +3,16 @@ title: Odell Harris
 wiki_slug: odell-harris
 schema_version: 2
 status: active
-birth_place: North Mississippi, Mississippi, USA
+birth_place: 'North Mississippi, Mississippi, USA'
 genres:
-- blues
-- footwork
-- country blues
+  - blues
+  - footwork
+  - country blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/odell_harris.jpg
   caption: Odell Harris
   background: solo_singer
-  origin: North Mississippi, Mississippi, USA
+  origin: 'North Mississippi, Mississippi, USA'
 audio_profile:
   tempo_avg: 116.4
   energy_avg: 0.42
@@ -28,44 +28,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bill Abel
-  - Lightnin’ Malcom
+    - Bill Abel
+    - Lightnin’ Malcom
   influenced:
-  - Delta and Hill Country blues musicians
+    - Delta and Hill Country blues musicians
   mentors:
-  - Albert King
+    - Albert King
 spotify_data:
   followers: 263
   id: 2MoiG04KmkSy5bxlHccS0F
   popularity: 0
-  url: https://open.spotify.com/artist/2MoiG04KmkSy5bxlHccS0F
+  url: 'https://open.spotify.com/artist/2MoiG04KmkSy5bxlHccS0F'
 discography_enriched: true
 top_tracks:
-- Before You Accuse Me (Searching for Odell Harris)
-- Train I Ride (Searching for Odell Harris)
-- Daylight Romp (Instrumental) (Searching for Odell Harris)
-- .44 Blues (Searching for Odell Harris)
-- On Your Way Fishing (Searching for Odell Harris)
-- All Night Long (Searching for Odell Harris)
-- Early One Morning (Searching for Odell Harris)
-- Hill Funk (Instrumental) (Searching for Odell Harris)
-- Can't Stand To See You Go (Searching for Odell Harris)
-- Someday Baby (Searching for Odell Harris)
+  - Before You Accuse Me (Searching for Odell Harris)
+  - Train I Ride (Searching for Odell Harris)
+  - Daylight Romp (Instrumental) (Searching for Odell Harris)
+  - .44 Blues (Searching for Odell Harris)
+  - On Your Way Fishing (Searching for Odell Harris)
+  - All Night Long (Searching for Odell Harris)
+  - Early One Morning (Searching for Odell Harris)
+  - Hill Funk (Instrumental) (Searching for Odell Harris)
+  - Can't Stand To See You Go (Searching for Odell Harris)
+  - Someday Baby (Searching for Odell Harris)
 external_urls:
-  spotify: https://open.spotify.com/artist/2MoiG04KmkSy5bxlHccS0F
+  spotify: 'https://open.spotify.com/artist/2MoiG04KmkSy5bxlHccS0F'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/odell_harris.jpg
 biography_enhanced_at: '2025-10-22T09:29:17.043708'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.americanbluesscene.com/2014/10/breaking-original-celebrated-mississippi-bluesman-passes-away/
-- https://www.last.fm/music/Odell+Harris/+wiki
-- https://www.allmusic.com/artist/odell-harris-mn0001933689
+  - >-
+    https://www.americanbluesscene.com/2014/10/breaking-original-celebrated-mississippi-bluesman-passes-away/
+  - 'https://www.last.fm/music/Odell+Harris/+wiki'
+  - 'https://www.allmusic.com/artist/odell-harris-mn0001933689'
 network_extracted: true
 entry_created: '2025-10-22T09:29:17.043723'
 last_updated: '2025-12-23T08:16:13.688892'
-
+death_date: '2018-05-26'
+artist_type: person
 ---
 
 ![](odell_harris.jpg)

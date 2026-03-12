@@ -1,30 +1,30 @@
 ---
-title: GARNET MIMMS
+title: Garnet Mimms
 wiki_slug: garnet-mimms
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1933-11-16'
-birth_place: Ashland
+birth_place: 'Ashland, West Virginia, United States'
 genres:
-- northern soul
-- soul
+  - northern soul
+  - soul
 associated_acts:
-- begin: '1958'
-  end: '1961'
-  instruments: []
-  mbid: 65b8a18b-107b-4e2a-9ead-416a2a08aa86
-  name: The Gainors
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7e29f8ed-47d0-4270-af45-82df9139b57c
-  name: Garnet Mimms & the Enchanters
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 83bf65fd-73e5-4274-adf1-abcd663b4b42
-  name: Garnet Mimms & Truckin' Company
+  - begin: '1958'
+    end: '1961'
+    instruments: []
+    mbid: 65b8a18b-107b-4e2a-9ead-416a2a08aa86
+    name: The Gainors
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7e29f8ed-47d0-4270-af45-82df9139b57c
+    name: Garnet Mimms & the Enchanters
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 83bf65fd-73e5-4274-adf1-abcd663b4b42
+    name: Garnet Mimms & Truckin' Company
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/garnet_mimms.jpg
   caption: GARNET MIMMS
@@ -46,53 +46,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sam Bell
-  - Howard Tate
-  - Bert Berns
-  - Jerry Ragovoy
+    - Sam Bell
+    - Howard Tate
+    - Bert Berns
+    - Jerry Ragovoy
   influenced:
-  - Janis Joplin
-  - Northern Soul Artists (UK)
+    - Janis Joplin
+    - Northern Soul Artists (UK)
   mentors:
-  - Gospel Church Choirs
+    - Gospel Church Choirs
 spotify_data:
   followers: 4335
   id: 4ZCIgBrYKaZyj4j1H0Lr4E
   popularity: 23
-  url: https://open.spotify.com/artist/4ZCIgBrYKaZyj4j1H0Lr4E
+  url: 'https://open.spotify.com/artist/4ZCIgBrYKaZyj4j1H0Lr4E'
 discography_enriched: true
 top_tracks:
-- As Long As I Have You (Warm And Soulful)
-- Looking For You (Warm And Soulful)
-- Prove It To Me (Warm And Soulful)
-- 'As Long As I Have You (The Best Of Garnet Mimms: Cry Baby)'
-- A Little Bit Of Soap (Warm And Soulful)
-- Look Away (Warm And Soulful)
-- 'I''ll Take Good Care Of You (The Best Of Garnet Mimms: Cry Baby)'
-- Tell Me Baby (Until You Were Gone)
-- It Was Easier To Hurt Her (Warm And Soulful)
-- I'll Take Good Care of You (Until You Were Gone)
+  - As Long As I Have You (Warm And Soulful)
+  - Looking For You (Warm And Soulful)
+  - Prove It To Me (Warm And Soulful)
+  - 'As Long As I Have You (The Best Of Garnet Mimms: Cry Baby)'
+  - A Little Bit Of Soap (Warm And Soulful)
+  - Look Away (Warm And Soulful)
+  - 'I''ll Take Good Care Of You (The Best Of Garnet Mimms: Cry Baby)'
+  - Tell Me Baby (Until You Were Gone)
+  - It Was Easier To Hurt Her (Warm And Soulful)
+  - I'll Take Good Care of You (Until You Were Gone)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a848949b-8f26-467a-85e1-8e3feffc9d27
-  spotify: https://open.spotify.com/artist/4ZCIgBrYKaZyj4j1H0Lr4E
-  wikipedia: https://en.wikipedia.org/wiki/Garnet_Mimms
+  musicbrainz: 'https://musicbrainz.org/artist/a848949b-8f26-467a-85e1-8e3feffc9d27'
+  spotify: 'https://open.spotify.com/artist/4ZCIgBrYKaZyj4j1H0Lr4E'
+  wikipedia: 'https://en.wikipedia.org/wiki/Garnet_Mimms'
 image_path: 03_Resources/source_material/ArtistPortraits/garnet_mimms.jpg
 biography_enhanced_at: '2025-11-20T07:19:13.230495'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Garnet_Mimms
-- https://kids.kiddle.co/Garnet_Mimms
-- https://jazzrocksoul.com/artists/garnet-mimms/
+  - 'https://en.wikipedia.org/wiki/Garnet_Mimms'
+  - 'https://kids.kiddle.co/Garnet_Mimms'
+  - 'https://jazzrocksoul.com/artists/garnet-mimms/'
 network_extracted: true
 entry_created: '2025-11-20T07:19:13.230503'
 last_updated: '2025-12-23T08:16:08.973171'
 gender: Male
 musicbrainz_id: a848949b-8f26-467a-85e1-8e3feffc9d27
 tags:
-- r&b
-- soul
-
+  - r&b
+  - soul
 ---
 
 ![](garnet_mimms.jpg)

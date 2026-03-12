@@ -3,16 +3,16 @@ title: George Cables
 wiki_slug: george-cables
 schema_version: 2
 status: active
-birth_place: New York City, New York, United States
+birth_place: 'New York City, New York, United States'
 genres:
-- jazz
-- bebop
-- cool jazz
+  - jazz
+  - bebop
+  - cool jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/george_cables.jpg
   caption: George Cables
   background: solo_singer
-  origin: New York City, New York, United States
+  origin: 'New York City, New York, United States'
 audio_profile:
   tempo_avg: 109.1
   energy_avg: 0.339
@@ -28,53 +28,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dexter Gordon
-  - Art Pepper
-  - Freddie Hubbard
-  - Woody Shaw
-  - Joe Henderson
-  - Bobby Hutcherson
+    - Dexter Gordon
+    - Art Pepper
+    - Freddie Hubbard
+    - Woody Shaw
+    - Joe Henderson
+    - Bobby Hutcherson
   influenced:
-  - Eric Reed
+    - Eric Reed
   mentors:
-  - Thelonious Monk
-  - Herbie Hancock
+    - Thelonious Monk
+    - Herbie Hancock
 spotify_data:
   followers: 10159
   id: 2UESE6AjDHmxcy9J30M29R
   popularity: 21
-  url: https://open.spotify.com/artist/2UESE6AjDHmxcy9J30M29R
+  url: 'https://open.spotify.com/artist/2UESE6AjDHmxcy9J30M29R'
 discography_enriched: true
 top_tracks:
-- Will You Still Love Me Tomorrow (Looking For The Light)
-- Echo of a Scream
-- That Old Black Magic
-- Star Eyes (Back to Birdland)
-- Afterthoughts (Ju Ju Man / Love Song)
-- Helen's Song (My Muse)
-- Helen's song (Cables Fables)
-- Echo of a Scream (I Hear Echoes)
-- My One and Only Love (My Muse)
-- Helen's Song (Stories)
+  - Will You Still Love Me Tomorrow (Looking For The Light)
+  - Echo of a Scream
+  - That Old Black Magic
+  - Star Eyes (Back to Birdland)
+  - Afterthoughts (Ju Ju Man / Love Song)
+  - Helen's Song (My Muse)
+  - Helen's song (Cables Fables)
+  - Echo of a Scream (I Hear Echoes)
+  - My One and Only Love (My Muse)
+  - Helen's Song (Stories)
 external_urls:
-  spotify: https://open.spotify.com/artist/2UESE6AjDHmxcy9J30M29R
-  wikipedia: https://en.wikipedia.org/wiki/George_Cables
+  spotify: 'https://open.spotify.com/artist/2UESE6AjDHmxcy9J30M29R'
+  wikipedia: 'https://en.wikipedia.org/wiki/George_Cables'
 image_path: 03_Resources/source_material/ArtistPortraits/george_cables.jpg
 biography_enhanced_at: '2025-11-15T18:14:28.554004'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/George_Cables
-- https://georgecables.com/biography/
-- https://www.allaboutjazz.com/musicians/george-cables/
-- https://concord.com/artist/george-cables/
-- https://www.wwno.org/show/all-things-new-orleans/2013-04-19/jazz-fest-minutes-pianist-and-composer-george-cables
-- https://georgecables.com
-- https://www.youtube.com/watch?v=9dvBi9JwtPU
+  - 'https://en.wikipedia.org/wiki/George_Cables'
+  - 'https://georgecables.com/biography/'
+  - 'https://www.allaboutjazz.com/musicians/george-cables/'
+  - 'https://concord.com/artist/george-cables/'
+  - >-
+    https://www.wwno.org/show/all-things-new-orleans/2013-04-19/jazz-fest-minutes-pianist-and-composer-george-cables
+  - 'https://georgecables.com'
+  - 'https://www.youtube.com/watch?v=9dvBi9JwtPU'
 network_extracted: true
 entry_created: '2025-11-15T18:14:28.554015'
 last_updated: '2025-12-23T08:16:09.074681'
-
+birth_date: '1944-11-14'
+artist_type: person
 ---
 
 ![](george_cables.jpg)

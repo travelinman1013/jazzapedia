@@ -3,13 +3,13 @@ title: Mikayla Braun
 wiki_slug: mikayla-braun
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/mikayla_braun.jpg
   caption: Mikayla Braun
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 112.7
   energy_avg: 0.413
@@ -25,46 +25,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Various New Orleans Bands
-  - All-star New Orleans Musicians
+    - Various New Orleans Bands
+    - All-star New Orleans Musicians
   influenced: []
   mentors:
-  - Etta James
-  - Allen Toussaint
+    - Etta James
+    - Allen Toussaint
 spotify_data:
   followers: 274
   id: 6vSREs7BSBwc7mp4Z3zKk3
   popularity: 2
-  url: https://open.spotify.com/artist/6vSREs7BSBwc7mp4Z3zKk3
+  url: 'https://open.spotify.com/artist/6vSREs7BSBwc7mp4Z3zKk3'
 discography_enriched: true
 top_tracks:
-- Peace I Need (Live) (Live at the Maple Leaf Bar)
-- I'm on Fire (Live) (Live at the Maple Leaf Bar)
-- Untold (Live) (Live at the Maple Leaf Bar)
-- Magic (Magic)
-- Same Page (Synapse)
-- I'm Still Here (Synapse)
-- Anything but the Truth (Anything but the Truth)
-- Twice (EP1)
-- Every Day (Live from the Tin Shack) (Every Day (Live from the Tin Shack))
-- Jasmine (Drift)
+  - Peace I Need (Live) (Live at the Maple Leaf Bar)
+  - I'm on Fire (Live) (Live at the Maple Leaf Bar)
+  - Untold (Live) (Live at the Maple Leaf Bar)
+  - Magic (Magic)
+  - Same Page (Synapse)
+  - I'm Still Here (Synapse)
+  - Anything but the Truth (Anything but the Truth)
+  - Twice (EP1)
+  - Every Day (Live from the Tin Shack) (Every Day (Live from the Tin Shack))
+  - Jasmine (Drift)
 external_urls:
-  spotify: https://open.spotify.com/artist/6vSREs7BSBwc7mp4Z3zKk3
+  spotify: 'https://open.spotify.com/artist/6vSREs7BSBwc7mp4Z3zKk3'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/mikayla_braun.jpg
 biography_enhanced_at: '2025-10-22T09:23:09.543749'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.btdfoundation.org/mikayla-braun/
-- https://www.bandsintown.com/e/107294979-mikayla-braun-at-picnic-provisions-and-whiskey
-- https://www.mikaylabraunmusic.com
-- https://marignyoperahouse.org/upcoming-events/mikayla-braun-drift-ep-release-show/
-- https://www.neworleans.com/event/mikayla-braun/171365/
-- https://www.neworleans.com/listing/mikayla-braun/46492/
+  - 'https://www.btdfoundation.org/mikayla-braun/'
+  - >-
+    https://www.bandsintown.com/e/107294979-mikayla-braun-at-picnic-provisions-and-whiskey
+  - 'https://www.mikaylabraunmusic.com'
+  - >-
+    https://marignyoperahouse.org/upcoming-events/mikayla-braun-drift-ep-release-show/
+  - 'https://www.neworleans.com/event/mikayla-braun/171365/'
+  - 'https://www.neworleans.com/listing/mikayla-braun/46492/'
 network_extracted: true
 entry_created: '2025-10-22T09:23:09.543760'
 last_updated: '2025-12-23T08:16:13.112850'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](mikayla_braun.jpg)

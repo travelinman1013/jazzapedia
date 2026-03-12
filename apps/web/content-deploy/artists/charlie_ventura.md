@@ -3,15 +3,15 @@ title: Charlie Ventura
 wiki_slug: charlie-ventura
 schema_version: 2
 status: active
-birth_place: Philadelphia, Pennsylvania, United States
+birth_place: 'Philadelphia, Pennsylvania, United States'
 genres:
-- bebop
-- jazz
+  - bebop
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/charlie_ventura.jpg
   caption: Charlie Ventura
   background: solo_singer
-  origin: Philadelphia, Pennsylvania, United States
+  origin: 'Philadelphia, Pennsylvania, United States'
 audio_profile:
   tempo_avg: 119.4
   energy_avg: 0.386
@@ -27,54 +27,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jackie Cain and Roy Kral
-  - Conte Candoli
-  - Bennie Green
-  - Boots Mussulli
-  - Ed Shaughnessy
-  - Chubby Jackson
-  - Buddy Rich
-  - Marty Napoleon
-  - Charlie Parker
-  - Teddy Powell
-  - John Bunch
+    - Jackie Cain and Roy Kral
+    - Conte Candoli
+    - Bennie Green
+    - Boots Mussulli
+    - Ed Shaughnessy
+    - Chubby Jackson
+    - Buddy Rich
+    - Marty Napoleon
+    - Charlie Parker
+    - Teddy Powell
+    - John Bunch
   influenced: []
   mentors:
-  - Roy Eldridge
-  - Gene Krupa
+    - Roy Eldridge
+    - Gene Krupa
 spotify_data:
   followers: 788
   id: 6ivz1LSbG04pV8AQUFaY53
   popularity: 6
-  url: https://open.spotify.com/artist/6ivz1LSbG04pV8AQUFaY53
+  url: 'https://open.spotify.com/artist/6ivz1LSbG04pV8AQUFaY53'
 discography_enriched: true
 top_tracks:
-- Lonesome Darlin'
-- Lullaby In Rhythm (Charlie Ventura - In Concert)
-- Lullaby in Rhythm
-- Euphoria Ver2
-- Euphoria
-- Oh, Lady Be Good! - Live at Philharmonic Hall, Los Angeles, 1945
-- How High The Moon - Live at Philharmonic Hall, Los Angeles, 1945
-- Characteristically B.H. - Live At Carnegie Hall, New York/1947
-- Birdland (Charlie Ventura - In Concert)
-- Flamingo (Charlie Ventura - In Concert)
+  - Lonesome Darlin'
+  - Lullaby In Rhythm (Charlie Ventura - In Concert)
+  - Lullaby in Rhythm
+  - Euphoria Ver2
+  - Euphoria
+  - 'Oh, Lady Be Good! - Live at Philharmonic Hall, Los Angeles, 1945'
+  - 'How High The Moon - Live at Philharmonic Hall, Los Angeles, 1945'
+  - 'Characteristically B.H. - Live At Carnegie Hall, New York/1947'
+  - Birdland (Charlie Ventura - In Concert)
+  - Flamingo (Charlie Ventura - In Concert)
 external_urls:
-  spotify: https://open.spotify.com/artist/6ivz1LSbG04pV8AQUFaY53
+  spotify: 'https://open.spotify.com/artist/6ivz1LSbG04pV8AQUFaY53'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/charlie_ventura.jpg
 biography_enhanced_at: '2025-12-04T08:06:33.422789'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- fromthevaults-boppinbob.blogspot.com
-- jpcavanaugh.com
-- shorelocalnews.com
-- allaboutjazz.com
-- phillyjazz.us
+  - fromthevaults-boppinbob.blogspot.com
+  - jpcavanaugh.com
+  - shorelocalnews.com
+  - allaboutjazz.com
+  - phillyjazz.us
 network_extracted: true
 entry_created: '2025-12-04T08:06:33.422800'
 last_updated: '2025-12-23T08:16:06.771604'
+origin: 'Philadelphia, Pennsylvania, United States'
+birth_date: '1916-12-02'
+death_date: '1992-01-17'
+artist_type: person
 ---
 
 ![](charlie_ventura.jpg)

@@ -1,17 +1,17 @@
 ---
-title: THE MIRACLES
+title: The Miracles
 wiki_slug: the-miracles
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1955'
 genres:
-- motown
-- doo-wop
+  - motown
+  - doo-wop
 instruments:
-- original
-- eponymous
-- background vocals
+  - original
+  - eponymous
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_miracles.jpg
   caption: THE MIRACLES
@@ -32,146 +32,145 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Marv Tarplin
-  - The Temptations
-  - Berry Gordy Jr.
+    - Marv Tarplin
+    - The Temptations
+    - Berry Gordy Jr.
   influenced:
-  - The Beatles
-  - Marvin Gaye
-  - Diana Ross & The Supremes
+    - The Beatles
+    - Marvin Gaye
+    - Diana Ross & The Supremes
   mentors:
-  - Berry Gordy Jr.
+    - Berry Gordy Jr.
 spotify_data:
   followers: 431023
   id: 6TqQLejnHXMGr7KcegxUND
   popularity: 46
-  url: https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND
+  url: 'https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND'
 discography_enriched: true
 top_tracks:
-- You've Really Got A Hold On Me (The Fabulous Miracles)
-- Shop Around (Hi We're The Miracles)
-- Love Machine - Pt. 1
-- Love Machine (City Of Angels (Expanded Edition))
-- You Really Got A Hold On Me - Mono (Motown Greatest Hits)
-- Shop Around (Motown Greatest Hits)
-- Do It Baby (Do It Baby (Expanded Edition))
-- You Really Got A Hold On Me - Mono
-- Love Machine - Pt. 1 (Motown Greatest Hits)
-- City Of Angels (City Of Angels (Expanded Edition))
+  - You've Really Got A Hold On Me (The Fabulous Miracles)
+  - Shop Around (Hi We're The Miracles)
+  - Love Machine - Pt. 1
+  - Love Machine (City Of Angels (Expanded Edition))
+  - You Really Got A Hold On Me - Mono (Motown Greatest Hits)
+  - Shop Around (Motown Greatest Hits)
+  - Do It Baby (Do It Baby (Expanded Edition))
+  - You Really Got A Hold On Me - Mono
+  - Love Machine - Pt. 1 (Motown Greatest Hits)
+  - City Of Angels (City Of Angels (Expanded Edition))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6a4c2d34-7f7f-4f87-b17f-b5540aa840db
-  spotify: https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND
-  wikipedia: https://en.wikipedia.org/wiki/The_Miracles
+  musicbrainz: 'https://musicbrainz.org/artist/6a4c2d34-7f7f-4f87-b17f-b5540aa840db'
+  spotify: 'https://open.spotify.com/artist/6TqQLejnHXMGr7KcegxUND'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Miracles'
 image_path: 03_Resources/source_material/ArtistPortraits/the_miracles.jpg
 biography_enhanced_at: '2025-10-24T07:44:37.448771'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.motownmuseum.org/artist/the-miracles/
-- https://www.rhino.com/article/the-miracles
-- https://www.history-of-rock.com/miracles.htm
-- https://www.edsullivan.com/artists/smokey-robinson-and-the-miracles/
-- https://classic.motown.com/artist/the-miracles/
-- https://www.britannica.com/topic/Miracles-American-singing-group
-- https://walkoffame.com/the-miracles/
+  - 'https://www.motownmuseum.org/artist/the-miracles/'
+  - 'https://www.rhino.com/article/the-miracles'
+  - 'https://www.history-of-rock.com/miracles.htm'
+  - 'https://www.edsullivan.com/artists/smokey-robinson-and-the-miracles/'
+  - 'https://classic.motown.com/artist/the-miracles/'
+  - 'https://www.britannica.com/topic/Miracles-American-singing-group'
+  - 'https://walkoffame.com/the-miracles/'
 network_extracted: true
 entry_created: '2025-10-24T07:44:37.448782'
 last_updated: '2025-12-23T08:16:16.972326'
 disambiguation: aka Smokey Robinson and The Miracles
 members:
-- begin: '1955'
-  end: '1966'
-  instruments:
-  - original
-  mbid: c19ff12b-058f-44a8-b245-b0efb4752925
-  name: Smokey Robinson
-- begin: '1955'
-  end: '1978'
-  instruments:
-  - original
-  mbid: 8e27a96f-07a6-4484-a475-f0d487fc3c86
-  name: Ronald White
-- begin: '1957'
-  end: '1972'
-  instruments: []
-  mbid: a7d82437-e91d-412c-8378-a12646aaf5c8
-  name: Claudette Robinson
-- begin: '1966'
-  end: 1972-06
-  instruments:
-  - eponymous
-  - original
-  mbid: c19ff12b-058f-44a8-b245-b0efb4752925
-  name: Smokey Robinson
-- begin: '1972'
-  end: '1978'
-  instruments: []
-  mbid: b66335d8-6be3-4a77-b269-4613e511d342
-  name: Billy Griffin
-- begin: '1980'
-  end: '1983'
-  instruments:
-  - original
-  mbid: 8e27a96f-07a6-4484-a475-f0d487fc3c86
-  name: Ronald White
-- begin: '1983'
-  end: '1983'
-  instruments: []
-  mbid: a7d82437-e91d-412c-8378-a12646aaf5c8
-  name: Claudette Robinson
-- begin: '1983'
-  end: '1983'
-  instruments:
-  - original
-  mbid: c19ff12b-058f-44a8-b245-b0efb4752925
-  name: Smokey Robinson
-- begin: '1993'
-  end: '1995'
-  instruments:
-  - original
-  mbid: 8e27a96f-07a6-4484-a475-f0d487fc3c86
-  name: Ronald White
-- begin: '1993'
-  end: '2011'
-  instruments: []
-  mbid: a7d82437-e91d-412c-8378-a12646aaf5c8
-  name: Claudette Robinson
-- &id001
-  begin: '2003'
-  end: ''
-  instruments: []
-  mbid: e6aac7a1-8e11-45bf-8ff3-7f1592018fd3
-  name: Mark Scott
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 80ee0280-b015-461e-9c2b-ad9557576b03
-  name: Donald Griffin
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: a65a135f-de10-4ba8-a023-b1d57a1a5533
-  name: Warren “Pete” Moore
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 06097e74-a01c-40c9-9b81-82b6ca09981e
-  name: Bobby Rogers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 36f73299-6897-471e-99bd-a70865612490
-  name: Marvin Tarplin
+  - begin: '1955'
+    end: '1966'
+    instruments:
+      - original
+    mbid: c19ff12b-058f-44a8-b245-b0efb4752925
+    name: Smokey Robinson
+  - begin: '1955'
+    end: '1978'
+    instruments:
+      - original
+    mbid: 8e27a96f-07a6-4484-a475-f0d487fc3c86
+    name: Ronald White
+  - begin: '1957'
+    end: '1972'
+    instruments: []
+    mbid: a7d82437-e91d-412c-8378-a12646aaf5c8
+    name: Claudette Robinson
+  - begin: '1966'
+    end: 1972-06
+    instruments:
+      - eponymous
+      - original
+    mbid: c19ff12b-058f-44a8-b245-b0efb4752925
+    name: Smokey Robinson
+  - begin: '1972'
+    end: '1978'
+    instruments: []
+    mbid: b66335d8-6be3-4a77-b269-4613e511d342
+    name: Billy Griffin
+  - begin: '1980'
+    end: '1983'
+    instruments:
+      - original
+    mbid: 8e27a96f-07a6-4484-a475-f0d487fc3c86
+    name: Ronald White
+  - begin: '1983'
+    end: '1983'
+    instruments: []
+    mbid: a7d82437-e91d-412c-8378-a12646aaf5c8
+    name: Claudette Robinson
+  - begin: '1983'
+    end: '1983'
+    instruments:
+      - original
+    mbid: c19ff12b-058f-44a8-b245-b0efb4752925
+    name: Smokey Robinson
+  - begin: '1993'
+    end: '1995'
+    instruments:
+      - original
+    mbid: 8e27a96f-07a6-4484-a475-f0d487fc3c86
+    name: Ronald White
+  - begin: '1993'
+    end: '2011'
+    instruments: []
+    mbid: a7d82437-e91d-412c-8378-a12646aaf5c8
+    name: Claudette Robinson
+  - &ref_0
+    begin: '2003'
+    end: ''
+    instruments: []
+    mbid: e6aac7a1-8e11-45bf-8ff3-7f1592018fd3
+    name: Mark Scott
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 80ee0280-b015-461e-9c2b-ad9557576b03
+    name: Donald Griffin
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: a65a135f-de10-4ba8-a023-b1d57a1a5533
+    name: Warren “Pete” Moore
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 06097e74-a01c-40c9-9b81-82b6ca09981e
+    name: Bobby Rogers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 36f73299-6897-471e-99bd-a70865612490
+    name: Marvin Tarplin
 musicbrainz_id: 6a4c2d34-7f7f-4f87-b17f-b5540aa840db
-origin: Detroit
+origin: 'Detroit, Michigan, United States'
 original_members:
-- *id001
+  - *ref_0
 tags:
-- motown
-- pop
-- pop soul
-
+  - motown
+  - pop
+  - pop soul
 ---
 
 ![](the_miracles.jpg)

@@ -2,12 +2,13 @@
 title: The Wonderful World of Louis Armstrong All Stars
 wiki_slug: the-wonderful-world-of-louis-armstrong-all-stars
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 genres:
-- cool jazz
+  - cool jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/The_Wonderful_World_of_Louis_Armstrong_All_Stars.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/The_Wonderful_World_of_Louis_Armstrong_All_Stars.jpg
   caption: The Wonderful World of Louis Armstrong All Stars
   background: solo_singer
 audio_profile:
@@ -25,52 +26,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jack Teagarden
-  - Earl Hines
-  - Barney Bigard
-  - Cozy Cole
+    - Jack Teagarden
+    - Earl Hines
+    - Barney Bigard
+    - Cozy Cole
   influenced:
-  - Wynton Marsalis
-  - Nicholas Payton
+    - Wynton Marsalis
+    - Nicholas Payton
   mentors:
-  - Louis Armstrong
+    - Louis Armstrong
 spotify_data:
   followers: 654
   id: 4bL3ftj87eKTf1pzvLMg0f
   popularity: 3
-  url: https://open.spotify.com/artist/4bL3ftj87eKTf1pzvLMg0f
+  url: 'https://open.spotify.com/artist/4bL3ftj87eKTf1pzvLMg0f'
 discography_enriched: true
 top_tracks:
-- What A Wonderful World (A Gift To Pops)
-- Just A Closer Walk With Thee (A Gift To Pops)
-- The Peanut Vendor (A Gift To Pops)
-- The Peanut Vendor (The Peanut Vendor)
-- Black And Blue (Black And Blue)
-- St. Louis Blues (A Gift To Pops)
-- Struttin’ With Some Barbeque (A Gift To Pops)
-- Up A Lazy River (A Gift To Pops)
-- Black And Blue (A Gift To Pops)
-- I'll Be Glad When You're Dead (A Gift To Pops)
+  - What A Wonderful World (A Gift To Pops)
+  - Just A Closer Walk With Thee (A Gift To Pops)
+  - The Peanut Vendor (A Gift To Pops)
+  - The Peanut Vendor (The Peanut Vendor)
+  - Black And Blue (Black And Blue)
+  - St. Louis Blues (A Gift To Pops)
+  - Struttin’ With Some Barbeque (A Gift To Pops)
+  - Up A Lazy River (A Gift To Pops)
+  - Black And Blue (A Gift To Pops)
+  - I'll Be Glad When You're Dead (A Gift To Pops)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6c1ce617-4b23-4bcd-a21d-3c64d4fe7845
-  spotify: https://open.spotify.com/artist/4bL3ftj87eKTf1pzvLMg0f
-  wikipedia: https://en.wikipedia.org/wiki/Louis_Armstrong
-image_path: 03_Resources/source_material/ArtistPortraits/The_Wonderful_World_of_Louis_Armstrong_All_Stars.jpg
+  musicbrainz: 'https://musicbrainz.org/artist/6c1ce617-4b23-4bcd-a21d-3c64d4fe7845'
+  spotify: 'https://open.spotify.com/artist/4bL3ftj87eKTf1pzvLMg0f'
+  wikipedia: 'https://en.wikipedia.org/wiki/Louis_Armstrong'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/The_Wonderful_World_of_Louis_Armstrong_All_Stars.jpg
 biography_enhanced_at: '2025-10-19T11:12:11.976986'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://michaelminn.net/discographies/armstrong/all-stars/index.html
-- https://en.wikipedia.org/wiki/Louis_Armstrong
-- https://kgumusic.com/blogs/news/louis-armstrong-the-personal-and-musical-journey-of-the-king-of-jazz
-- https://amhistory.si.edu/jazz/education/TheMan&HisLife.pdf
-- https://www.wrti.org/arts-desk/2020-09-08/the-story-behind-louis-armstrongs-transition-from-jazz-man-to-international-pop-sensation
+  - 'https://michaelminn.net/discographies/armstrong/all-stars/index.html'
+  - 'https://en.wikipedia.org/wiki/Louis_Armstrong'
+  - >-
+    https://kgumusic.com/blogs/news/louis-armstrong-the-personal-and-musical-journey-of-the-king-of-jazz
+  - 'https://amhistory.si.edu/jazz/education/TheMan&HisLife.pdf'
+  - >-
+    https://www.wrti.org/arts-desk/2020-09-08/the-story-behind-louis-armstrongs-transition-from-jazz-man-to-international-pop-sensation
 network_extracted: true
 entry_created: '2025-10-19T11:12:11.976994'
 last_updated: '2025-12-23T08:16:04.137643'
 musicbrainz_enriched_at: '2025-10-21T09:46:31.529859'
 musicbrainz_id: 6c1ce617-4b23-4bcd-a21d-3c64d4fe7845
-origin: New Orleans, Louisiana, United States (origin of Louis Armstrong and the All Stars)
+origin: >-
+  New Orleans, Louisiana, United States (origin of Louis Armstrong and the All
+  Stars)
 ---
 
 ![](The_Wonderful_World_of_Louis_Armstrong_All_Stars.jpg)

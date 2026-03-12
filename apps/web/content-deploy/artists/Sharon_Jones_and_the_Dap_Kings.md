@@ -1,14 +1,15 @@
 ---
-title: sharon jones and the dap kings
+title: Sharon Jones and the Dap Kings
 wiki_slug: sharon-jones-and-the-dap-kings
 schema_version: 2
 status: active
 genres:
-- retro soul
-- soul
-- funk
+  - retro soul
+  - soul
+  - funk
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/sharon_jones_and_the_dap_kings.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/sharon_jones_and_the_dap_kings.jpg
   caption: sharon jones and the dap kings
   background: solo_singer
 audio_profile:
@@ -26,49 +27,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Neal Sugarman
-  - Binky Griptite
-  - Leon Michels
-  - Homer Steinweiss
-  - Lee Fields
-  - Amy Winehouse (via Dap-Kings)
+    - Neal Sugarman
+    - Binky Griptite
+    - Leon Michels
+    - Homer Steinweiss
+    - Lee Fields
+    - Amy Winehouse (via Dap-Kings)
   influenced: []
   mentors:
-  - Gabriel Roth (Bosco Mann)
+    - Gabriel Roth (Bosco Mann)
 spotify_data:
   followers: 316653
   id: 6LufpoVlIYKQCu9Gjpk8B7
   popularity: 59
-  url: https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7
+  url: 'https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7'
 discography_enriched: true
 top_tracks:
-- How Long Do I Have to Wait for You? (Naturally)
-- Come and Be a Winner (Soul of a Woman)
-- Pass Me By (Soul of a Woman)
-- 100 Days, 100 Nights (100 Days, 100 Nights)
-- This Land Is Your Land (Naturally)
-- How Do I Let a Good Man Down? (Naturally)
-- Nobody's Baby (100 Days, 100 Nights)
-- Tell Me (100 Days, 100 Nights)
-- Better Things (I Learned the Hard Way)
-- Making Up and Breaking Up (And Making Up and Breaking Up Over Again) (Give the People What They Want)
+  - How Long Do I Have to Wait for You? (Naturally)
+  - Come and Be a Winner (Soul of a Woman)
+  - Pass Me By (Soul of a Woman)
+  - '100 Days, 100 Nights (100 Days, 100 Nights)'
+  - This Land Is Your Land (Naturally)
+  - How Do I Let a Good Man Down? (Naturally)
+  - 'Nobody''s Baby (100 Days, 100 Nights)'
+  - 'Tell Me (100 Days, 100 Nights)'
+  - Better Things (I Learned the Hard Way)
+  - >-
+    Making Up and Breaking Up (And Making Up and Breaking Up Over Again) (Give
+    the People What They Want)
 external_urls:
-  spotify: https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7
-  wikipedia: https://en.wikipedia.org/wiki/Sharon_Jones
-image_path: 03_Resources/source_material/ArtistPortraits/sharon_jones_and_the_dap_kings.jpg
+  spotify: 'https://open.spotify.com/artist/6LufpoVlIYKQCu9Gjpk8B7'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sharon_Jones'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/sharon_jones_and_the_dap_kings.jpg
 biography_enhanced_at: '2025-12-19T01:50:19.620326'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Sharon_Jones
-- https://www.last.fm/music/Sharon+Jones+and+the+Dap-Kings/+wiki
-- https://sharonjonesandthedapkings.com/about
-- https://jbonamassa.com/sharon-jones-the-dap-kings-bring-the-funk/
-- https://www.imdb.com/name/nm1392716/bio/
+  - 'https://en.wikipedia.org/wiki/Sharon_Jones'
+  - 'https://www.last.fm/music/Sharon+Jones+and+the+Dap-Kings/+wiki'
+  - 'https://sharonjonesandthedapkings.com/about'
+  - 'https://jbonamassa.com/sharon-jones-the-dap-kings-bring-the-funk/'
+  - 'https://www.imdb.com/name/nm1392716/bio/'
 network_extracted: true
 entry_created: '2025-12-19T01:50:19.620342'
 last_updated: '2025-12-23T08:16:03.860922'
-origin: Augusta, Georgia, USA
+origin: 'Augusta, Georgia, USA'
+birth_place: 'Augusta, Georgia, United States'
+birth_date: '1956-05-04'
+artist_type: band
 ---
 
 ![](sharon_jones_and_the_dap_kings.jpg)

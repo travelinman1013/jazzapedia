@@ -3,16 +3,16 @@ title: Dennis Mcgee
 wiki_slug: dennis-mcgee
 schema_version: 2
 status: active
-birth_place: Eunice, Louisiana, USA
+birth_place: 'Bayou Marron, Eunice, Louisiana, United States'
 genres:
-- cajun
-- zydeco
-- country blues
+  - cajun
+  - zydeco
+  - country blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/dennis_mcgee.jpg
   caption: Dennis Mcgee
   background: solo_singer
-  origin: Eunice, Louisiana, USA
+  origin: 'Eunice, Louisiana, USA'
 audio_profile:
   tempo_avg: 110.6
   energy_avg: 0.425
@@ -28,47 +28,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Amédé Ardoin
-  - Sady Courville
-  - Ernest Frugé
-  - Angelas LeJeune
+    - Amédé Ardoin
+    - Sady Courville
+    - Ernest Frugé
+    - Angelas LeJeune
   influenced:
-  - Three generations of Cajun fiddlers
+    - Three generations of Cajun fiddlers
   mentors:
-  - McGee's grandfather
+    - McGee's grandfather
 spotify_data:
   followers: 725
   id: 1q2QwNdlkGCIJMzUea5sqI
   popularity: 6
-  url: https://open.spotify.com/artist/1q2QwNdlkGCIJMzUea5sqI
+  url: 'https://open.spotify.com/artist/1q2QwNdlkGCIJMzUea5sqI'
 discography_enriched: true
 top_tracks:
-- Ma chérie bébé créole (Les haricots sont pas salés (Legendary Masters of Cajun and Creole Music))
-- Happy One Step (Cajun Classics)
-- 'Les Blues De Voyage (American Epic: The Collection)'
-- Happy One Step (It's Cajun Time!)
-- Two-Step d'Elton (I'm Never Comin' Back)
-- Les Blues de Voyage (I'm Never Comin' Back)
-- Frugé's Reel (Reel a Fruge) [Instrumental] (La vieille musique Acadienne)
-- Mon Chère Bébé Créole (The Complete Early Recordings Of Dennis McGee)
-- Happy One Step (The Complete Early Recordings Of Dennis McGee)
-- La Valse de Gueydan (I'm Never Comin' Back)
+  - >-
+    Ma chérie bébé créole (Les haricots sont pas salés (Legendary Masters of
+    Cajun and Creole Music))
+  - Happy One Step (Cajun Classics)
+  - 'Les Blues De Voyage (American Epic: The Collection)'
+  - Happy One Step (It's Cajun Time!)
+  - Two-Step d'Elton (I'm Never Comin' Back)
+  - Les Blues de Voyage (I'm Never Comin' Back)
+  - 'Frugé''s Reel (Reel a Fruge) [Instrumental] (La vieille musique Acadienne)'
+  - Mon Chère Bébé Créole (The Complete Early Recordings Of Dennis McGee)
+  - Happy One Step (The Complete Early Recordings Of Dennis McGee)
+  - La Valse de Gueydan (I'm Never Comin' Back)
 external_urls:
-  spotify: https://open.spotify.com/artist/1q2QwNdlkGCIJMzUea5sqI
-  wikipedia: https://en.wikipedia.org/wiki/Dennis_McGee
+  spotify: 'https://open.spotify.com/artist/1q2QwNdlkGCIJMzUea5sqI'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dennis_McGee'
 image_path: 03_Resources/source_material/ArtistPortraits/dennis_mcgee.jpg
 biography_enhanced_at: '2025-11-08T21:48:12.635648'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Dennis_McGee
-- https://64parishes.org/entry/dennis-mcgee
-- https://www.wgpfoundation.org/historic-markers/dennis-mcgee/
-- https://fieldrecorder.org/dennis-mcgee-and-sady-courville/
-- https://www.valcourrecords.com/cds/dennis-mcgee-himself
+  - 'https://en.wikipedia.org/wiki/Dennis_McGee'
+  - 'https://64parishes.org/entry/dennis-mcgee'
+  - 'https://www.wgpfoundation.org/historic-markers/dennis-mcgee/'
+  - 'https://fieldrecorder.org/dennis-mcgee-and-sady-courville/'
+  - 'https://www.valcourrecords.com/cds/dennis-mcgee-himself'
 network_extracted: true
 entry_created: '2025-11-08T21:48:12.635665'
 last_updated: '2025-12-23T08:16:07.706758'
+origin: 'Eunice, Louisiana, United States'
+birth_date: '1893-01-26'
+death_date: '1989-10-03'
+artist_type: person
 ---
 
 ![](dennis_mcgee.jpg)

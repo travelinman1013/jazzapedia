@@ -2,12 +2,12 @@
 title: Rhye
 wiki_slug: rhye
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '2010'
 genres: []
 instruments:
-- original
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/rhye.jpg
   caption: Rhye
@@ -20,7 +20,7 @@ audio_profile:
   danceability_avg: 0.711
   acousticness_avg: 0.517
   instrumentalness_avg: 0.305
-  loudness_avg: -11.0
+  loudness_avg: -11
   speechiness_avg: 0.047
   liveness_avg: 0.143
   track_count: 50
@@ -28,73 +28,74 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Robin Hannibal
-  - Ólafur Arnalds
-  - Dan Wilson
-  - Touring multi‑instrumentalists (approximately 8‑piece live band)
-  - Diplo
-  - Genevieve Medow Jenkins
+    - Robin Hannibal
+    - Ólafur Arnalds
+    - Dan Wilson
+    - Touring multi‑instrumentalists (approximately 8‑piece live band)
+    - Diplo
+    - Genevieve Medow Jenkins
   influenced:
-  - Emerging alternative R&B and indie‑soul artists (unspecified)
+    - Emerging alternative R&B and indie‑soul artists (unspecified)
   mentors:
-  - Classical and jazz teachers (unnamed)
-  - Sade (stylistic influence)
+    - Classical and jazz teachers (unnamed)
+    - Sade (stylistic influence)
 spotify_data:
   followers: 711544
   id: 2AcUPzkVWo81vumdzeLLRN
   popularity: 63
-  url: https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN
+  url: 'https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN'
 discography_enriched: true
 top_tracks:
-- The Fall (Woman)
-- Feel Your Weight - Poolside Remix (Blood Remixed)
-- Open (Woman)
-- 3 Days Later
-- 3 Days (Woman)
-- Song For You (Blood)
-- Black Rain (Home)
-- Break Apart (Migration)
-- Taste (Blood)
-- Come In Closer (Home)
+  - The Fall (Woman)
+  - Feel Your Weight - Poolside Remix (Blood Remixed)
+  - Open (Woman)
+  - 3 Days Later
+  - 3 Days (Woman)
+  - Song For You (Blood)
+  - Black Rain (Home)
+  - Break Apart (Migration)
+  - Taste (Blood)
+  - Come In Closer (Home)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/aa914efa-d6cb-4816-906f-8edafb08418e
-  spotify: https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN
-  wikipedia: https://en.wikipedia.org/wiki/Rhye
+  musicbrainz: 'https://musicbrainz.org/artist/aa914efa-d6cb-4816-906f-8edafb08418e'
+  spotify: 'https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN'
+  wikipedia: 'https://en.wikipedia.org/wiki/Rhye'
 image_path: 03_Resources/source_material/ArtistPortraits/rhye.jpg
 biography_enhanced_at: '2025-12-10T05:20:17.063009'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Red Light Management – Rhye artist bio
-- 'PAN M 360 – Mike Milosh: Rhye and other paths (interview)'
-- BeatRoute – Inside The Surreal Mind Of Rhye's Michael Milosh
-- Döhmann Audio – Rhye – Woman album feature and background
-- Calgary Herald – Interview on Rhye’s Blood and Milosh’s background
+  - Red Light Management – Rhye artist bio
+  - 'PAN M 360 – Mike Milosh: Rhye and other paths (interview)'
+  - BeatRoute – Inside The Surreal Mind Of Rhye's Michael Milosh
+  - Döhmann Audio – Rhye – Woman album feature and background
+  - Calgary Herald – Interview on Rhye’s Blood and Milosh’s background
 network_extracted: true
 entry_created: '2025-12-10T05:20:17.063016'
 last_updated: '2025-12-23T08:16:14.828100'
 members:
-- begin: '2010'
-  end: '2017'
-  instruments:
-  - original
-  mbid: 745a0ce5-ba0b-4cb0-871e-5fade438f5ea
-  name: Robin Hannibal
-- &id001
-  begin: '2010'
-  end: ''
-  instruments:
-  - original
-  mbid: f6ed9964-eb6b-4bed-81f9-277a2c50a833
-  name: Milosh
+  - begin: '2010'
+    end: '2017'
+    instruments:
+      - original
+    mbid: 745a0ce5-ba0b-4cb0-871e-5fade438f5ea
+    name: Robin Hannibal
+  - &ref_0
+    begin: '2010'
+    end: ''
+    instruments:
+      - original
+    mbid: f6ed9964-eb6b-4bed-81f9-277a2c50a833
+    name: Milosh
 musicbrainz_id: aa914efa-d6cb-4816-906f-8edafb08418e
-origin: Toronto
+origin: 'Toronto, Ontario, Canada'
 original_members:
-- *id001
+  - *ref_0
 tags:
-- afro house
-- alternative/indie rock
-- contemporary r&b
+  - afro house
+  - alternative/indie rock
+  - contemporary r&b
+birth_place: 'Toronto, Ontario, Canada'
 ---
 
 ![](rhye.jpg)

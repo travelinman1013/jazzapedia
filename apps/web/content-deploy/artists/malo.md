@@ -2,13 +2,13 @@
 title: Malo
 wiki_slug: malo
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 birth_date: '1971'
 genres:
-- afropop
-- afro soul
-- amapiano
+  - afropop
+  - afro soul
+  - amapiano
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/malo.jpg
   caption: Malo
@@ -20,7 +20,7 @@ audio_profile:
   valence_avg: 0.517
   danceability_avg: 0.612
   acousticness_avg: 0.383
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -6.9
   speechiness_avg: 0.17
   liveness_avg: 0.133
@@ -35,95 +35,94 @@ spotify_data:
   followers: 700353
   id: 6AeHcNxdFsYI8WQE1f0YVw
   popularity: 50
-  url: https://open.spotify.com/artist/6AeHcNxdFsYI8WQE1f0YVw
+  url: 'https://open.spotify.com/artist/6AeHcNxdFsYI8WQE1f0YVw'
 discography_enriched: true
 top_tracks:
-- Hae Bohla (Hae Bohla)
-- Skeem Sam (Skeem Sam)
-- Senatla (Senatla)
-- Nobody (Karabo)
-- Fancy Life (Fancy Life)
-- Lerato (Karabo)
-- My Woman (My Woman)
-- Price to Pay (Price to Pay)
-- Naledi (1964)
-- Dumelang (Karabo)
+  - Hae Bohla (Hae Bohla)
+  - Skeem Sam (Skeem Sam)
+  - Senatla (Senatla)
+  - Nobody (Karabo)
+  - Fancy Life (Fancy Life)
+  - Lerato (Karabo)
+  - My Woman (My Woman)
+  - Price to Pay (Price to Pay)
+  - Naledi (1964)
+  - Dumelang (Karabo)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4c08bf15-3362-4388-825c-8a8d3c3f4730
-  spotify: https://open.spotify.com/artist/6AeHcNxdFsYI8WQE1f0YVw
+  musicbrainz: 'https://musicbrainz.org/artist/4c08bf15-3362-4388-825c-8a8d3c3f4730'
+  spotify: 'https://open.spotify.com/artist/6AeHcNxdFsYI8WQE1f0YVw'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/malo.jpg
 biography_enhanced_at: '2025-12-05T06:20:19.888372'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.reservoir-media.com/listing/malo/
-- https://www.traxsource.com/title/421189/the-dutch
-- https://www.viberate.com/artist/griffith-malo/
-- https://en.wikipedia.org/wiki/Malo_(band)
-- https://www.last.fm/music/Malo/+wiki
-- https://www.musicinafrica.net/directory/en-malo
+  - 'https://www.reservoir-media.com/listing/malo/'
+  - 'https://www.traxsource.com/title/421189/the-dutch'
+  - 'https://www.viberate.com/artist/griffith-malo/'
+  - 'https://en.wikipedia.org/wiki/Malo_(band)'
+  - 'https://www.last.fm/music/Malo/+wiki'
+  - 'https://www.musicinafrica.net/directory/en-malo'
 network_extracted: true
 entry_created: '2025-12-05T06:20:19.888381'
 last_updated: '2025-12-23T08:16:12.568516'
 disambiguation: US latin rock band
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ec2bf14e-d44a-4620-9e62-9be8378eb83c
-  name: Richard Bean
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e09797ee-10ca-4540-aa3c-b93779b6277f
-  name: Arcelio Ramon Garcia Jr.
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7f587566-68c8-4a5b-97c2-92bd4832c6b8
-  name: Richard Kermode
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b94c14f9-5b00-42a2-b681-0390635c3a8e
-  name: Gabriel Manzo
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bc11df84-4a00-4c7e-a14e-9cfbc1cd6c70
-  name: Tony Menjivar
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f00700d2-7dfc-4766-924b-c437490bbf5b
-  name: Victor Pantoja
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1013f50d-4869-448a-a6fd-2581d9d11765
-  name: Raul Rekow
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 956293fd-7b1f-44e1-a98a-6bf0c61030a3
-  name: Jorge Santana
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 417f13a9-cfa4-42a0-9d57-e0a49bd1d113
-  name: Tony Smith
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ddb10b88-6b6a-45e3-a28c-e3aa27b269eb
-  name: Pablo Tellez
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ec2bf14e-d44a-4620-9e62-9be8378eb83c
+    name: Richard Bean
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e09797ee-10ca-4540-aa3c-b93779b6277f
+    name: Arcelio Ramon Garcia Jr.
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7f587566-68c8-4a5b-97c2-92bd4832c6b8
+    name: Richard Kermode
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b94c14f9-5b00-42a2-b681-0390635c3a8e
+    name: Gabriel Manzo
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bc11df84-4a00-4c7e-a14e-9cfbc1cd6c70
+    name: Tony Menjivar
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f00700d2-7dfc-4766-924b-c437490bbf5b
+    name: Victor Pantoja
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1013f50d-4869-448a-a6fd-2581d9d11765
+    name: Raul Rekow
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 956293fd-7b1f-44e1-a98a-6bf0c61030a3
+    name: Jorge Santana
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 417f13a9-cfa4-42a0-9d57-e0a49bd1d113
+    name: Tony Smith
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ddb10b88-6b6a-45e3-a28c-e3aa27b269eb
+    name: Pablo Tellez
 musicbrainz_id: 4c08bf15-3362-4388-825c-8a8d3c3f4730
-origin: San Francisco
+origin: 'San Francisco, California, United States'
 tags:
-- funk
-- latin rock
-
+  - funk
+  - latin rock
 ---
 
 ![](malo.jpg)

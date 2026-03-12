@@ -5,47 +5,47 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1899-11-22'
-birth_place: Bloomington
+birth_place: 'Bloomington, Indiana, United States'
 death_date: '1981-12-27'
 genres:
-- big band
+  - big band
 instruments:
-- original
-- eponymous
-- piano
-- lead vocals
-- background vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - original
-  mbid: 6527c201-08a6-4b99-a050-64221d6b0363
-  name: Hoagy Carmichael and His Pals
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
-  - original
-  mbid: 2f8ecf94-6fd6-4941-b9e0-c0885230806a
-  name: Hoagy Carmichael and His Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 6c0f0860-5cfe-496e-a0c6-a2805e241b20
-  name: Hoagy Carmichael's Collegians
-- begin: ''
-  end: ''
-  instruments:
   - piano
-  mbid: af99f1e9-25fe-4d5d-a300-8b9405611f7d
-  name: The Hoagy Carmichael Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 70ace004-d960-4575-a41b-eb36ce662944
-  name: Blind Willie Dunn’s Gin Bottle Four
+  - lead vocals
+  - background vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 6527c201-08a6-4b99-a050-64221d6b0363
+    name: Hoagy Carmichael and His Pals
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 2f8ecf94-6fd6-4941-b9e0-c0885230806a
+    name: Hoagy Carmichael and His Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 6c0f0860-5cfe-496e-a0c6-a2805e241b20
+    name: Hoagy Carmichael's Collegians
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: af99f1e9-25fe-4d5d-a300-8b9405611f7d
+    name: The Hoagy Carmichael Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 70ace004-d960-4575-a41b-eb36ce662944
+    name: Blind Willie Dunn’s Gin Bottle Four
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/hoagy_carmichael.jpg
   caption: Hoagy Carmichael
@@ -68,57 +68,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bix Beiderbecke
-  - Johnny Mercer
-  - Mitchell Parish
-  - Louis Armstrong
-  - Frank Loesser
+    - Bix Beiderbecke
+    - Johnny Mercer
+    - Mitchell Parish
+    - Louis Armstrong
+    - Frank Loesser
   influenced:
-  - Ray Charles
-  - Willie Nelson
-  - Norah Jones
+    - Ray Charles
+    - Willie Nelson
+    - Norah Jones
   mentors:
-  - Reginald DuValle
+    - Reginald DuValle
 spotify_data:
   followers: 38026
   id: 7j8I1aIBA9Z9bMy7mTwWKk
   popularity: 37
-  url: https://open.spotify.com/artist/7j8I1aIBA9Z9bMy7mTwWKk
+  url: 'https://open.spotify.com/artist/7j8I1aIBA9Z9bMy7mTwWKk'
 discography_enriched: true
 top_tracks:
-- Stardust (The Stardust Road)
-- Stardust - Remastered 2002 (Stardust Melody)
-- Heart and Soul (Gonna Get a Girl)
-- Heart and Soul
-- Skylark (Hoagy Sings Carmichael)
-- Heart and Soul (feat. Lisa Fischer & Gregory Porter) (Sing Me Home)
-- Riverboat Shuffle (The Stardust Road)
-- Georgia On My Mind (Hoagy Sings Carmichael)
-- Two Sleepy People (Hoagy Sings Carmichael)
-- Stardust I May Be Wrong (Gonna Get a Girl)
+  - Stardust (The Stardust Road)
+  - Stardust - Remastered 2002 (Stardust Melody)
+  - Heart and Soul (Gonna Get a Girl)
+  - Heart and Soul
+  - Skylark (Hoagy Sings Carmichael)
+  - Heart and Soul (feat. Lisa Fischer & Gregory Porter) (Sing Me Home)
+  - Riverboat Shuffle (The Stardust Road)
+  - Georgia On My Mind (Hoagy Sings Carmichael)
+  - Two Sleepy People (Hoagy Sings Carmichael)
+  - Stardust I May Be Wrong (Gonna Get a Girl)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/75f6fe4b-8a7a-4f3c-9232-e6a00ac37491
-  spotify: https://open.spotify.com/artist/7j8I1aIBA9Z9bMy7mTwWKk
-  wikipedia: https://en.wikipedia.org/wiki/Hoagy_Carmichael
+  musicbrainz: 'https://musicbrainz.org/artist/75f6fe4b-8a7a-4f3c-9232-e6a00ac37491'
+  spotify: 'https://open.spotify.com/artist/7j8I1aIBA9Z9bMy7mTwWKk'
+  wikipedia: 'https://en.wikipedia.org/wiki/Hoagy_Carmichael'
 image_path: 03_Resources/source_material/ArtistPortraits/hoagy_carmichael.jpg
 biography_enhanced_at: '2025-11-26T07:51:24.824847'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Hoagy_Carmichael
-- https://www.britannica.com/biography/Hoagy-Carmichael
-- https://www.songhall.org/profiles/hoagy-carmichael
-- https://www.jazzstandards.com/biographies/biography_16.htm
-- https://dlib.indiana.edu/collections/hoagy/research/bio/
+  - 'https://en.wikipedia.org/wiki/Hoagy_Carmichael'
+  - 'https://www.britannica.com/biography/Hoagy-Carmichael'
+  - 'https://www.songhall.org/profiles/hoagy-carmichael'
+  - 'https://www.jazzstandards.com/biographies/biography_16.htm'
+  - 'https://dlib.indiana.edu/collections/hoagy/research/bio/'
 network_extracted: true
 entry_created: '2025-11-26T07:51:24.824853'
 last_updated: '2025-12-23T08:16:09.635824'
 gender: Male
 musicbrainz_id: 75f6fe4b-8a7a-4f3c-9232-e6a00ac37491
 tags:
-- 2008 universal fire victim
-- jazz
-- swing
+  - 2008 universal fire victim
+  - jazz
+  - swing
+is_active: false
 ---
 
 ![](hoagy_carmichael.jpg)

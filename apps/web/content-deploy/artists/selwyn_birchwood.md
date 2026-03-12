@@ -1,22 +1,22 @@
 ---
-title: selwyn birchwood
+title: Selwyn Birchwood
 wiki_slug: selwyn-birchwood
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1985-03-09'
-birth_place: Orlando, Florida, United States
+birth_place: 'Orlando, Florida, United States'
 genres:
-- modern blues
-- blues
-- blues rock
-- soul blues
+  - modern blues
+  - blues
+  - blues rock
+  - soul blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/selwyn_birchwood.jpg
   caption: selwyn birchwood
   background: solo_singer
   born: '1985-03-09'
-  origin: Orlando, Florida, United States
+  origin: 'Orlando, Florida, United States'
 audio_profile:
   tempo_avg: 127.6
   energy_avg: 0.78
@@ -32,46 +32,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Regi Oliver
-  - Tom Hambridge
+    - Regi Oliver
+    - Tom Hambridge
   influenced:
-  - No widely documented individual artists
+    - No widely documented individual artists
   mentors:
-  - Sonny Rhodes
-  - Buddy Guy
-  - Jimi Hendrix
+    - Sonny Rhodes
+    - Buddy Guy
+    - Jimi Hendrix
 spotify_data:
   followers: 12011
   id: 47HxYwXgJsfyQN08FpXfxD
   popularity: 26
-  url: https://open.spotify.com/artist/47HxYwXgJsfyQN08FpXfxD
+  url: 'https://open.spotify.com/artist/47HxYwXgJsfyQN08FpXfxD'
 discography_enriched: true
 top_tracks:
-- Lost In You (Pick Your Poison)
-- Walking In The Lion's Den (Don't Call No Ambulance)
-- Living In A Burning House (Living In A Burning House)
-- Brown Paper Bag (Don't Call No Ambulance)
-- Pick Your Poison (Pick Your Poison)
-- Addicted (Don't Call No Ambulance)
-- I Got Drunk, Laid And Stoned (Living In A Burning House)
-- Love Me Again (Don't Call No Ambulance)
-- Living In A Burning House (Living In A Burning House)
-- Even The Saved Need Saving (Pick Your Poison)
+  - Lost In You (Pick Your Poison)
+  - Walking In The Lion's Den (Don't Call No Ambulance)
+  - Living In A Burning House (Living In A Burning House)
+  - Brown Paper Bag (Don't Call No Ambulance)
+  - Pick Your Poison (Pick Your Poison)
+  - Addicted (Don't Call No Ambulance)
+  - 'I Got Drunk, Laid And Stoned (Living In A Burning House)'
+  - Love Me Again (Don't Call No Ambulance)
+  - Living In A Burning House (Living In A Burning House)
+  - Even The Saved Need Saving (Pick Your Poison)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e2f3bb19-36fc-4aa2-8472-0a49da1b6127
-  spotify: https://open.spotify.com/artist/47HxYwXgJsfyQN08FpXfxD
-  wikipedia: https://en.wikipedia.org/wiki/Selwyn_Birchwood
+  musicbrainz: 'https://musicbrainz.org/artist/e2f3bb19-36fc-4aa2-8472-0a49da1b6127'
+  spotify: 'https://open.spotify.com/artist/47HxYwXgJsfyQN08FpXfxD'
+  wikipedia: 'https://en.wikipedia.org/wiki/Selwyn_Birchwood'
 image_path: 03_Resources/source_material/ArtistPortraits/selwyn_birchwood.jpg
 biography_enhanced_at: '2025-10-19T10:49:45.985453'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.selwynbirchwood.com/bio
-- https://www.guitarplayer.com/player/selwyn-birchwood-interview-2023
-- https://tcan.org/events/selwyn-birchwood/
-- https://lancasterrootsandblues.com/artist/selwyn-birchwood/
-- https://digital.livingblues.com/articles/selwyn-birchwood
-- https://www.ut.edu/alumni/journal/past-articles/selwyn-birchwood-has-an-advanced-degree-in-the-blues
+  - 'https://www.selwynbirchwood.com/bio'
+  - 'https://www.guitarplayer.com/player/selwyn-birchwood-interview-2023'
+  - 'https://tcan.org/events/selwyn-birchwood/'
+  - 'https://lancasterrootsandblues.com/artist/selwyn-birchwood/'
+  - 'https://digital.livingblues.com/articles/selwyn-birchwood'
+  - >-
+    https://www.ut.edu/alumni/journal/past-articles/selwyn-birchwood-has-an-advanced-degree-in-the-blues
 network_extracted: true
 entry_created: '2025-10-19T10:49:45.985465'
 last_updated: '2025-12-23T08:16:15.466448'

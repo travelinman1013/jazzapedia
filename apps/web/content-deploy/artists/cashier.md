@@ -2,10 +2,10 @@
 title: Cashier
 wiki_slug: cashier
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- shoegaze
+  - shoegaze
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/cashier.jpg
   caption: Cashier
@@ -17,7 +17,7 @@ audio_profile:
   danceability_avg: 0.267
   acousticness_avg: 0.001
   instrumentalness_avg: 0.562
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.059
   liveness_avg: 0.361
   track_count: 8
@@ -25,44 +25,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Troy Lusk
-  - Matt Sandrin
+    - Troy Lusk
+    - Matt Sandrin
   influenced: []
   mentors:
-  - Pre-millennial rock monoliths (Nirvana, Sonic Youth, My Bloody Valentine era artists)
+    - >-
+      Pre-millennial rock monoliths (Nirvana, Sonic Youth, My Bloody Valentine
+      era artists)
 spotify_data:
   followers: 7630
   id: 0LRkuyysiGMF74jPBa3yxf
   popularity: 22
-  url: https://open.spotify.com/artist/0LRkuyysiGMF74jPBa3yxf
+  url: 'https://open.spotify.com/artist/0LRkuyysiGMF74jPBa3yxf'
 discography_enriched: true
 top_tracks:
-- Angels All Around (Angels All Around)
-- Beginner (Fear of the Past)
-- Maybe I Was Wrong (Maybe I Was Wrong)
-- Beginner (Cashier)
-- Fear of the Past (Fear of the Past)
-- Miracle (Without U) (Miracle (Without U))
-- Fear of the Past (Cashier)
-- Miracle (Without U) (Miracle (Without U))
+  - Angels All Around (Angels All Around)
+  - Beginner (Fear of the Past)
+  - Maybe I Was Wrong (Maybe I Was Wrong)
+  - Beginner (Cashier)
+  - Fear of the Past (Fear of the Past)
+  - Miracle (Without U) (Miracle (Without U))
+  - Fear of the Past (Cashier)
+  - Miracle (Without U) (Miracle (Without U))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f6d102f3-2846-4204-aa11-1d433fe44271
-  spotify: https://open.spotify.com/artist/0LRkuyysiGMF74jPBa3yxf
+  musicbrainz: 'https://musicbrainz.org/artist/f6d102f3-2846-4204-aa11-1d433fe44271'
+  spotify: 'https://open.spotify.com/artist/0LRkuyysiGMF74jPBa3yxf'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/cashier.jpg
 biography_enhanced_at: '2025-11-27T06:41:34.527286'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Tour Peachy official artist profile
-- HashBrandNew music database
-- 'Substack article: ''Cashier is My New Favourite Band & They Only Have Three Songs'''
+  - Tour Peachy official artist profile
+  - HashBrandNew music database
+  - >-
+    Substack article: 'Cashier is My New Favourite Band & They Only Have Three
+    Songs'
 network_extracted: true
 entry_created: '2025-11-27T06:41:34.527301'
 last_updated: '2025-12-23T08:16:06.547890'
 disambiguation: shoegaze
 musicbrainz_id: f6d102f3-2846-4204-aa11-1d433fe44271
-origin: Lafayette, Louisiana, United States
+origin: 'Lafayette, Louisiana, United States'
 ---
 
 ![](cashier.jpg)

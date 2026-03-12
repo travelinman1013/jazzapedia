@@ -3,13 +3,13 @@ title: Lee Oskar
 wiki_slug: lee-oskar
 schema_version: 2
 status: active
-birth_place: Copenhagen, Denmark
+birth_place: 'Copenhagen, Denmark'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lee_oskar.jpg
   caption: Lee Oskar
   background: solo_singer
-  origin: Copenhagen, Denmark
+  origin: 'Copenhagen, Denmark'
 audio_profile:
   tempo_avg: 132.4
   energy_avg: 0.411
@@ -25,39 +25,42 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Eric Burdon
-  - Howard E. Scott
-  - Harold Brown
-  - Charles Miller
+    - Eric Burdon
+    - Howard E. Scott
+    - Harold Brown
+    - Charles Miller
   influenced:
-  - Numerous harmonica players worldwide
+    - Numerous harmonica players worldwide
   mentors:
-  - Ray Charles
+    - Ray Charles
 spotify_data:
   followers: 232
   id: 5CXBZ0BElKkGMdP5gJSpdY
   popularity: 2
-  url: https://open.spotify.com/artist/5CXBZ0BElKkGMdP5gJSpdY
+  url: 'https://open.spotify.com/artist/5CXBZ0BElKkGMdP5gJSpdY'
 discography_enriched: true
 top_tracks:
-- So (Love on My Mind)
-- So (Underground Oldies Gold, Vol. 2)
+  - So (Love on My Mind)
+  - 'So (Underground Oldies Gold, Vol. 2)'
 external_urls:
-  spotify: https://open.spotify.com/artist/5CXBZ0BElKkGMdP5gJSpdY
-  wikipedia: https://en.wikipedia.org/wiki/Lee_Oskar
+  spotify: 'https://open.spotify.com/artist/5CXBZ0BElKkGMdP5gJSpdY'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lee_Oskar'
 image_path: ''
 biography_enhanced_at: '2025-11-02T07:40:57.385127'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Lee_Oskar
-- https://playingforchange.com/artists/lee-oskar
-- https://www.americanbluesscene.com/2021/11/harmonica-legend-lee-oskar-reminds-us-to-never-forget/
-- https://leeoskarharmonicas.com/lee-oskar-interview-with-bruce-hilliard/
-- https://www.unstarvingmusician.com/ump-15-lee-oskar/
+  - 'https://en.wikipedia.org/wiki/Lee_Oskar'
+  - 'https://playingforchange.com/artists/lee-oskar'
+  - >-
+    https://www.americanbluesscene.com/2021/11/harmonica-legend-lee-oskar-reminds-us-to-never-forget/
+  - 'https://leeoskarharmonicas.com/lee-oskar-interview-with-bruce-hilliard/'
+  - 'https://www.unstarvingmusician.com/ump-15-lee-oskar/'
 network_extracted: true
 entry_created: '2025-11-02T07:40:57.385170'
 last_updated: '2025-12-23T08:16:11.721891'
+birth_date: '1948-03-24'
+artist_type: person
 ---
 
 ![]()

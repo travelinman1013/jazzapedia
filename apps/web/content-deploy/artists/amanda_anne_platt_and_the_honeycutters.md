@@ -4,14 +4,15 @@ wiki_slug: amanda-anne-platt-the-honeycutters
 schema_version: 2
 status: active
 genres:
-- americana
-- alt country
+  - americana
+  - alt country
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/amanda_anne_platt_and_the_honeycutters.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/amanda_anne_platt_and_the_honeycutters.jpg
   caption: Amanda Anne Platt & The Honeycutters
   background: solo_singer
 audio_profile:
-  tempo_avg: 114.0
+  tempo_avg: 114
   energy_avg: 0.42
   valence_avg: 0.411
   danceability_avg: 0.553
@@ -25,55 +26,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Peter James
-  - Evan Martin
-  - Kevin Williams
-  - Matt Smith
-  - Rick Cooper
-  - Tim Surrett
+    - Peter James
+    - Evan Martin
+    - Kevin Williams
+    - Matt Smith
+    - Rick Cooper
+    - Tim Surrett
   influenced: []
   mentors:
-  - Brad Nickerson
-  - Scott McMicken
-  - Greg Cartwright
+    - Brad Nickerson
+    - Scott McMicken
+    - Greg Cartwright
 spotify_data:
   followers: 10964
   id: 1mpvGlHo80X6W8RX8vIQmL
   popularity: 28
-  url: https://open.spotify.com/artist/1mpvGlHo80X6W8RX8vIQmL
+  url: 'https://open.spotify.com/artist/1mpvGlHo80X6W8RX8vIQmL'
 discography_enriched: true
 top_tracks:
-- Eden (Amanda Anne Platt & The Honeycutters)
-- The Road (Amanda Anne Platt & The Honeycutters)
-- Birthday Song (Amanda Anne Platt & The Honeycutters)
-- What We've Got (Amanda Anne Platt & The Honeycutters)
-- Long Ride (Amanda Anne Platt & The Honeycutters)
-- Learning How to Love Him (Amanda Anne Platt & The Honeycutters)
-- Diamond in the Rough (Amanda Anne Platt & The Honeycutters)
-- Rare Thing (Amanda Anne Platt & The Honeycutters)
-- Burn (The Devil and the Deep Blue Sea)
-- The Things We Call Home (Amanda Anne Platt & The Honeycutters)
+  - Eden (Amanda Anne Platt & The Honeycutters)
+  - The Road (Amanda Anne Platt & The Honeycutters)
+  - Birthday Song (Amanda Anne Platt & The Honeycutters)
+  - What We've Got (Amanda Anne Platt & The Honeycutters)
+  - Long Ride (Amanda Anne Platt & The Honeycutters)
+  - Learning How to Love Him (Amanda Anne Platt & The Honeycutters)
+  - Diamond in the Rough (Amanda Anne Platt & The Honeycutters)
+  - Rare Thing (Amanda Anne Platt & The Honeycutters)
+  - Burn (The Devil and the Deep Blue Sea)
+  - The Things We Call Home (Amanda Anne Platt & The Honeycutters)
 external_urls:
-  spotify: https://open.spotify.com/artist/1mpvGlHo80X6W8RX8vIQmL
-  wikipedia: https://en.wikipedia.org/wiki/The_Honeycutters
-image_path: 03_Resources/source_material/ArtistPortraits/amanda_anne_platt_and_the_honeycutters.jpg
+  spotify: 'https://open.spotify.com/artist/1mpvGlHo80X6W8RX8vIQmL'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Honeycutters'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/amanda_anne_platt_and_the_honeycutters.jpg
 biography_enhanced_at: '2025-12-22T01:43:12.132500'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.wmot.org/show/the-string/2022-05-20/on-the-string-the-asheville-sound-of-amanda-anne-platt
-- https://ashevillestages.com/music/interview-amanda-anne-platt-the-honeycutters
-- https://americana-uk.com/amanda-anne-platt
-- https://thebluegrasssituation.com/read/amanda-anne-platt-the-honeycutters-deliver-the-devil-and-the-deep-blue-sea/
-- https://en.wikipedia.org/wiki/The_Honeycutters
-- https://www.honeycutters.com
-- https://www.lonesomehighway.com/interviewsold/2017/6/14/amanda-anne-platt-of-the-honeycutters-interview.html
-- https://thebluegrasssituation.com/read/bgs-55-amanda-anne-platt/
-- https://www.bpr.org/arts-performance/2019-06-19/ashevilles-amanda-anne-platt-reveals-her-strong-voice-away-from-the-microphone
+  - >-
+    https://www.wmot.org/show/the-string/2022-05-20/on-the-string-the-asheville-sound-of-amanda-anne-platt
+  - >-
+    https://ashevillestages.com/music/interview-amanda-anne-platt-the-honeycutters
+  - 'https://americana-uk.com/amanda-anne-platt'
+  - >-
+    https://thebluegrasssituation.com/read/amanda-anne-platt-the-honeycutters-deliver-the-devil-and-the-deep-blue-sea/
+  - 'https://en.wikipedia.org/wiki/The_Honeycutters'
+  - 'https://www.honeycutters.com'
+  - >-
+    https://www.lonesomehighway.com/interviewsold/2017/6/14/amanda-anne-platt-of-the-honeycutters-interview.html
+  - 'https://thebluegrasssituation.com/read/bgs-55-amanda-anne-platt/'
+  - >-
+    https://www.bpr.org/arts-performance/2019-06-19/ashevilles-amanda-anne-platt-reveals-her-strong-voice-away-from-the-microphone
 network_extracted: true
 entry_created: '2025-12-22T01:43:12.132506'
 last_updated: '2025-12-23T08:16:04.676957'
-origin: Asheville, North Carolina, United States
+origin: 'Asheville, North Carolina, United States'
+artist_type: band
 ---
 
 ![](amanda_anne_platt_and_the_honeycutters.jpg)

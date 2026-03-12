@@ -5,18 +5,18 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1948-03-20'
-birth_place: New Orleans
+birth_place: 'New Orleans, Louisiana, United States'
 death_date: '2010-03-23'
 genres:
-- blues
+  - blues
 instruments:
-- lead vocals
+  - lead vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8402bcd7-70db-4921-b092-2e68a991a08c
-  name: Marva Wright & The BMW's
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8402bcd7-70db-4921-b092-2e68a991a08c
+    name: Marva Wright & The BMW's
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/marva_wright.jpg
   caption: Marva Wright
@@ -39,51 +39,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Allen Toussaint
-  - Aaron Neville
-  - Fats Domino
-  - Louisiana Wetlands All Stars
+    - Allen Toussaint
+    - Aaron Neville
+    - Fats Domino
+    - Louisiana Wetlands All Stars
   influenced:
-  - Emerging New Orleans blues and gospel singers
+    - Emerging New Orleans blues and gospel singers
   mentors:
-  - Mattie P. Gilbert
-  - Mahalia Jackson
+    - Mattie P. Gilbert
+    - Mahalia Jackson
 spotify_data:
   followers: 1493
   id: 7122Kwu5YJVy0AryshFC72
   popularity: 9
-  url: https://open.spotify.com/artist/7122Kwu5YJVy0AryshFC72
+  url: 'https://open.spotify.com/artist/7122Kwu5YJVy0AryshFC72'
 discography_enriched: true
 top_tracks:
-- Shake a Hand (Marvalous)
-- Built for Comfort (Blues Queen of New Orleans)
-- Mr. Big Stuff (Ultimate New Orleans)
-- I'll Fly Away (with Susan Tedeschi, Marva Wright & Preservation Hall Jazz Band) - Live (Live in New Orleans)
-- Hearbreakin' Woman (Blues Queen of New Orleans)
-- How I Got Over (with Marva Wright) - Live (Live in New Orleans)
-- Pity on This Lovesick Fool (When She's Gone)
-- Heartbreakin' Woman (Heartbreakin' Woman)
-- Bluesiana Mama (Blues Queen of New Orleans)
-- Bring It On Home To Me (I Still Haven't Found What I Am Looking For)
+  - Shake a Hand (Marvalous)
+  - Built for Comfort (Blues Queen of New Orleans)
+  - Mr. Big Stuff (Ultimate New Orleans)
+  - >-
+    I'll Fly Away (with Susan Tedeschi, Marva Wright & Preservation Hall Jazz
+    Band) - Live (Live in New Orleans)
+  - Hearbreakin' Woman (Blues Queen of New Orleans)
+  - How I Got Over (with Marva Wright) - Live (Live in New Orleans)
+  - Pity on This Lovesick Fool (When She's Gone)
+  - Heartbreakin' Woman (Heartbreakin' Woman)
+  - Bluesiana Mama (Blues Queen of New Orleans)
+  - Bring It On Home To Me (I Still Haven't Found What I Am Looking For)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1b4cc7ba-67d7-4e52-a007-3aec12b5c805
-  spotify: https://open.spotify.com/artist/7122Kwu5YJVy0AryshFC72
-  wikipedia: https://en.wikipedia.org/wiki/Marva_Wright
+  musicbrainz: 'https://musicbrainz.org/artist/1b4cc7ba-67d7-4e52-a007-3aec12b5c805'
+  spotify: 'https://open.spotify.com/artist/7122Kwu5YJVy0AryshFC72'
+  wikipedia: 'https://en.wikipedia.org/wiki/Marva_Wright'
 image_path: 03_Resources/source_material/ArtistPortraits/marva_wright.jpg
 biography_enhanced_at: '2025-11-12T14:56:05.906484'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Marva_Wright
-- https://www.marvawright.com
-- https://www.latimes.com/local/obituaries/la-me-passings24-2010mar24-story.html
-- https://kreweofmuses.org/2008-honorary-muse-marva-wright/
+  - 'https://en.wikipedia.org/wiki/Marva_Wright'
+  - 'https://www.marvawright.com'
+  - >-
+    https://www.latimes.com/local/obituaries/la-me-passings24-2010mar24-story.html
+  - 'https://kreweofmuses.org/2008-honorary-muse-marva-wright/'
 network_extracted: true
 entry_created: '2025-11-12T14:56:05.906493'
 last_updated: '2025-12-23T08:16:12.753466'
 gender: Female
 musicbrainz_id: 1b4cc7ba-67d7-4e52-a007-3aec12b5c805
-
+is_active: false
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](marva_wright.jpg)

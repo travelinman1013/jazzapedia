@@ -1,23 +1,23 @@
 ---
-title: WILLIE LOVE
+title: Willie Love
 wiki_slug: willie-love
 schema_version: 2
 status: active
-birth_place: Duncan, Mississippi, USA
+birth_place: 'Duncan, Mississippi, USA'
 genres:
-- country hip hop
+  - country hip hop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/willie_love.jpg
   caption: WILLIE LOVE
   background: solo_singer
-  origin: Duncan, Mississippi, USA
+  origin: 'Duncan, Mississippi, USA'
 audio_profile:
   tempo_avg: 114.1
   energy_avg: 0.733
   valence_avg: 0.545
   danceability_avg: 0.628
   acousticness_avg: 0.153
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -5.1
   speechiness_avg: 0.054
   liveness_avg: 0.192
@@ -26,47 +26,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sonny Boy Williamson II (Rice Miller)
-  - Elmore James
-  - Joe Willie Wilkins
-  - Little Milton
-  - Oliver Sain
+    - Sonny Boy Williamson II (Rice Miller)
+    - Elmore James
+    - Joe Willie Wilkins
+    - Little Milton
+    - Oliver Sain
   influenced:
-  - Eddie Shaw
+    - Eddie Shaw
   mentors:
-  - Leroy Carr
+    - Leroy Carr
 spotify_data:
   followers: 64253
   id: 5OCZWZ399lBKgxBxE8cjRM
   popularity: 42
-  url: https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM
+  url: 'https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM'
 discography_enriched: true
 top_tracks:
-- JUST FOR FUN (COWBOY CARTER)
-- Down by the Riverside (Down by the Riverside)
-- Down by the Riverside (Something To Dance To)
-- JUST FOR FUN (COWBOY CARTER)
-- Bachelorettes On Broadway (Right Now)
-- Silverado (Silverado)
-- Back Porch (Right Now)
-- Bachelorettes on Broadway (Bachelorettes on Broadway)
-- Yeehaw (Yeehaw)
-- For My Dawgs (feat. Willie Jones & Blanco Brown) (For My Dawgs (feat. Willie Jones & Blanco Brown))
+  - JUST FOR FUN (COWBOY CARTER)
+  - Down by the Riverside (Down by the Riverside)
+  - Down by the Riverside (Something To Dance To)
+  - JUST FOR FUN (COWBOY CARTER)
+  - Bachelorettes On Broadway (Right Now)
+  - Silverado (Silverado)
+  - Back Porch (Right Now)
+  - Bachelorettes on Broadway (Bachelorettes on Broadway)
+  - Yeehaw (Yeehaw)
+  - >-
+    For My Dawgs (feat. Willie Jones & Blanco Brown) (For My Dawgs (feat. Willie
+    Jones & Blanco Brown))
 external_urls:
-  spotify: https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM
-  wikipedia: https://en.wikipedia.org/wiki/Willie_Love
+  spotify: 'https://open.spotify.com/artist/5OCZWZ399lBKgxBxE8cjRM'
+  wikipedia: 'https://en.wikipedia.org/wiki/Willie_Love'
 image_path: 03_Resources/source_material/ArtistPortraits/willie_love.jpg
 biography_enhanced_at: '2025-11-04T10:59:30.324087'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Willie_Love
-- https://sundayblues.org/?tag=willie-love
-- https://www.allmusic.com/artist/willie-love-mn0000959935
-- https://music.apple.com/us/artist/willie-love/259187793
+  - 'https://en.wikipedia.org/wiki/Willie_Love'
+  - 'https://sundayblues.org/?tag=willie-love'
+  - 'https://www.allmusic.com/artist/willie-love-mn0000959935'
+  - 'https://music.apple.com/us/artist/willie-love/259187793'
 network_extracted: true
 entry_created: '2025-11-04T10:59:30.324096'
 last_updated: '2025-12-23T08:16:18.202813'
+artist_type: person
 ---
 
 ![](willie_love.jpg)

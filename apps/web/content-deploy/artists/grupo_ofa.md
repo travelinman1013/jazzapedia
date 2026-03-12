@@ -1,16 +1,16 @@
 ---
-title: grupo ofa
+title: Grupo Ofa
 wiki_slug: grupo-ofa
 schema_version: 2
 status: active
 genres:
-- axé
+  - axé
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/grupo_ofa.jpg
   caption: grupo ofa
   background: solo_singer
 audio_profile:
-  tempo_avg: 122.0
+  tempo_avg: 122
   energy_avg: 0.563
   valence_avg: 0.75
   danceability_avg: 0.634
@@ -30,33 +30,37 @@ spotify_data:
   followers: 50399
   id: 0ZxnMyU9fNiII9SndpyRSN
   popularity: 43
-  url: https://open.spotify.com/artist/0ZxnMyU9fNiII9SndpyRSN
+  url: 'https://open.spotify.com/artist/0ZxnMyU9fNiII9SndpyRSN'
 discography_enriched: true
 top_tracks:
-- 'Oxum (Odum Orim: Festa da Música de Candomblé)'
-- 'Yemanjá (Odum Orim: Festa da Música de Candomblé)'
-- Oluwa Mi - Orixá Oxagiayan (Obatalá - uma Homenagem a Mãe Carmen)
-- Odekomorode - Orixá Oxóssi (Obatalá - uma Homenagem a Mãe Carmen)
-- 'Oxalá (Odum Orim: Festa da Música de Candomblé)'
-- 'Iansã (Odum Orim: Festa da Música de Candomblé)'
-- O Fururu Loorere - Orixá Oxalá (Obatalá - uma Homenagem a Mãe Carmen)
-- Ara Wa Romi Wa - Oxun la Omiro - Orixá Oxum (Obatalá - uma Homenagem a Mãe Carmen)
-- 'Ojô Ibi (Odum Orim: Festa da Música de Candomblé)'
-- 'Exú (Odum Orim: Festa da Música de Candomblé)'
+  - 'Oxum (Odum Orim: Festa da Música de Candomblé)'
+  - 'Yemanjá (Odum Orim: Festa da Música de Candomblé)'
+  - Oluwa Mi - Orixá Oxagiayan (Obatalá - uma Homenagem a Mãe Carmen)
+  - Odekomorode - Orixá Oxóssi (Obatalá - uma Homenagem a Mãe Carmen)
+  - 'Oxalá (Odum Orim: Festa da Música de Candomblé)'
+  - 'Iansã (Odum Orim: Festa da Música de Candomblé)'
+  - O Fururu Loorere - Orixá Oxalá (Obatalá - uma Homenagem a Mãe Carmen)
+  - >-
+    Ara Wa Romi Wa - Oxun la Omiro - Orixá Oxum (Obatalá - uma Homenagem a Mãe
+    Carmen)
+  - 'Ojô Ibi (Odum Orim: Festa da Música de Candomblé)'
+  - 'Exú (Odum Orim: Festa da Música de Candomblé)'
 external_urls:
-  spotify: https://open.spotify.com/artist/0ZxnMyU9fNiII9SndpyRSN
+  spotify: 'https://open.spotify.com/artist/0ZxnMyU9fNiII9SndpyRSN'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/grupo_ofa.jpg
 biography_enhanced_at: '2025-12-07T04:52:41.785730'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Ax%C3%A9[2]
-- https://www.riotimesonline.com/brazil-news/rio-entertainment/the-story-of-axe-music-in-brazil/[3]
-- https://www.aventuradobrasil.com/blog/brazilian-rhythms-axe-music/[4]
+  - 'https://en.wikipedia.org/wiki/Ax%C3%A9[2]'
+  - >-
+    https://www.riotimesonline.com/brazil-news/rio-entertainment/the-story-of-axe-music-in-brazil/[3]
+  - 'https://www.aventuradobrasil.com/blog/brazilian-rhythms-axe-music/[4]'
 network_extracted: true
 entry_created: '2025-12-07T04:52:41.785746'
 last_updated: '2025-12-23T08:16:09.385337'
+artist_type: band
 ---
 
 ![](grupo_ofa.jpg)

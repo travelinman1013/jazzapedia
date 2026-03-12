@@ -1,44 +1,47 @@
 ---
 biography_enhanced_at: '2026-01-05T07:58:43.391838'
-birth_place: Cesena, Italy
+birth_place: 'Cesena, Emilia-Romagna, Italy'
 enhancement_provider: perplexity
 entry_created: '2026-01-05T07:58:43.391844'
 external_urls:
-  spotify: https://open.spotify.com/artist/6Nuzlj2Q7QHVBNsLfRNQbb
-  wikipedia: https://en.wikipedia.org/wiki/Mop_Mop
+  spotify: 'https://open.spotify.com/artist/6Nuzlj2Q7QHVBNsLfRNQbb'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mop_Mop'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/andrea_benini.jpg
 last_updated: '2026-01-05T07:58:43.391845'
 musical_connections:
   collaborators:
-  - Alex Trebo
-  - Pasquale Mirra
-  - Guglielmo Pagnozzi
-  - Bruno Briscik
-  - Danilo Mineo
-  - Gianluca Petrella
-  - Alan Farrington
-  - Baby Sol
-  - Fred Wesley
-  - Anthony Joseph
+    - Alex Trebo
+    - Pasquale Mirra
+    - Guglielmo Pagnozzi
+    - Bruno Briscik
+    - Danilo Mineo
+    - Gianluca Petrella
+    - Alan Farrington
+    - Baby Sol
+    - Fred Wesley
+    - Anthony Joseph
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.mopmop.com/biography/
-- https://en.wikipedia.org/wiki/Mop_Mop
-- https://acidted.wordpress.com/2018/05/20/andrea-benini-el-guerrero-electronic-downtempo/
-- https://www.jazzmusicarchives.com/artist/mop-mop
-- https://www.agogo-records.com/artist/andrea-benini/
-- https://www.rovr.live/artists/andrea%20benini
+  - 'https://www.mopmop.com/biography/'
+  - 'https://en.wikipedia.org/wiki/Mop_Mop'
+  - >-
+    https://acidted.wordpress.com/2018/05/20/andrea-benini-el-guerrero-electronic-downtempo/
+  - 'https://www.jazzmusicarchives.com/artist/mop-mop'
+  - 'https://www.agogo-records.com/artist/andrea-benini/'
+  - 'https://www.rovr.live/artists/andrea%20benini'
 spotify_data:
   followers: 1697
   id: 6Nuzlj2Q7QHVBNsLfRNQbb
   popularity: 21
-  url: https://open.spotify.com/artist/6Nuzlj2Q7QHVBNsLfRNQbb
+  url: 'https://open.spotify.com/artist/6Nuzlj2Q7QHVBNsLfRNQbb'
 status: active
 title: Andrea Benini
+birth_date: '1977-03-14'
+artist_type: person
 ---
 
 ![](andrea_benini.jpg)

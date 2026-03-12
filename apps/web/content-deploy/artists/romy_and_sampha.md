@@ -4,7 +4,7 @@ wiki_slug: romy-sampha
 schema_version: 2
 status: active
 genres:
-- indie soul
+  - indie soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/romy_and_sampha.jpg
   caption: Romy & Sampha
@@ -24,49 +24,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Romy (Romy Madley Croft)
-  - The xx
-  - Young (label) artists (e.g., SBTRKT, Jessie Ware, Lil Silva, Bullion)
+    - Romy (Romy Madley Croft)
+    - The xx
+    - 'Young (label) artists (e.g., SBTRKT, Jessie Ware, Lil Silva, Bullion)'
   influenced:
-  - Emerging UK indie‑soul and electronic artists
+    - Emerging UK indie‑soul and electronic artists
   mentors:
-  - Kwes
+    - Kwes
 spotify_data:
   followers: 877610
   id: 2WoVwexZuODvclzULjPQtm
   popularity: 66
-  url: https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm
+  url: 'https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm'
 discography_enriched: true
 top_tracks:
-- Father Time (feat. Sampha) (Mr. Morale & The Big Steppers)
-- 4422 (More Life)
-- Too Much (Nothing Was The Same (Deluxe))
-- Too Much (Nothing Was The Same)
-- Desoleil (Brilliant Corners) (Not Waving, But Drowning)
-- Indecision
-- fear less (ten days)
-- Never Felt Better (Richard Russell Is Temporary)
-- Make It Up (feat. Sampha) (Off With Her Head)
-- (No One Knows Me) Like the Piano (Process (Bonus Edition))
+  - Father Time (feat. Sampha) (Mr. Morale & The Big Steppers)
+  - 4422 (More Life)
+  - Too Much (Nothing Was The Same (Deluxe))
+  - Too Much (Nothing Was The Same)
+  - 'Desoleil (Brilliant Corners) (Not Waving, But Drowning)'
+  - Indecision
+  - fear less (ten days)
+  - Never Felt Better (Richard Russell Is Temporary)
+  - Make It Up (feat. Sampha) (Off With Her Head)
+  - (No One Knows Me) Like the Piano (Process (Bonus Edition))
 external_urls:
-  spotify: https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm
+  spotify: 'https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/romy_and_sampha.jpg
 biography_enhanced_at: '2025-12-17T02:19:12.459286'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Sampha
-- https://thelabel.co.nz/romy-and-sampha-perform-duet-for-brand-new-single/
-- https://stereogum.com/2285118/romy-sampha-im-on-your-team/music
-- https://floodmagazine.com/210208/listen-sampha-romy-cumulus-memory/
-- https://niewmedia.com/en/specials/019978/
-- https://exclaim.ca/music/article/sampha_interview_lahai
-- https://www.wonderlandmagazine.com/2024/10/25/wonderlist-tyler-the-creator/
+  - 'https://en.wikipedia.org/wiki/Sampha'
+  - 'https://thelabel.co.nz/romy-and-sampha-perform-duet-for-brand-new-single/'
+  - 'https://stereogum.com/2285118/romy-sampha-im-on-your-team/music'
+  - 'https://floodmagazine.com/210208/listen-sampha-romy-cumulus-memory/'
+  - 'https://niewmedia.com/en/specials/019978/'
+  - 'https://exclaim.ca/music/article/sampha_interview_lahai'
+  - 'https://www.wonderlandmagazine.com/2024/10/25/wonderlist-tyler-the-creator/'
 network_extracted: true
 entry_created: '2025-12-17T02:19:12.459291'
 last_updated: '2025-12-23T08:16:15.007113'
-origin: London, England, United Kingdom (collaborative origin; Romy and Sampha are both based in London-centered scenes)
+origin: >-
+  London, England, United Kingdom (collaborative origin; Romy and Sampha are
+  both based in London-centered scenes)
+artist_type: band
 ---
 
 ![](romy_and_sampha.jpg)

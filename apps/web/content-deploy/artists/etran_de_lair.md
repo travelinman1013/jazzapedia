@@ -1,5 +1,5 @@
 ---
-title: Etran de l'Air
+title: Etran de l'Aïr
 wiki_slug: etran-de-lair
 schema_version: 2
 status: active
@@ -23,52 +23,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sahel Sounds (label)
-  - Abindi Ag Oumbass
-  - Moussa “Abindi Junior” Ag Oumbass
-  - Boubacar “Boubé” Ag Oumbass
-  - Souleymane Bouzou
-  - Moussa “Abindi” Ibra
+    - Sahel Sounds (label)
+    - Abindi Ag Oumbass
+    - Moussa “Abindi Junior” Ag Oumbass
+    - Boubacar “Boubé” Ag Oumbass
+    - Souleymane Bouzou
+    - Moussa “Abindi” Ibra
   influenced:
-  - Tinariwen
+    - Tinariwen
   mentors:
-  - Aghaly Migi
+    - Aghaly Migi
 spotify_data:
   followers: 38648
   id: 1Tj92mXFtSUJPPnT5fG4Gg
   popularity: 30
-  url: https://open.spotify.com/artist/1Tj92mXFtSUJPPnT5fG4Gg
+  url: 'https://open.spotify.com/artist/1Tj92mXFtSUJPPnT5fG4Gg'
 discography_enriched: true
 top_tracks:
-- Toubouk Ine Chihoussay (Agadez)
-- Agrim Agadez (No. 1)
-- Imouha (100% Sahara Guitar)
-- Adounia (Agadez)
-- Ighre Massina (100% Sahara Guitar)
-- Amidinine (100% Sahara Guitar)
-- Imouwizla (Agadez)
-- Imouha (Imouha)
-- Nak Deranine (Agadez)
-- Erkazamane (100% Sahara Guitar)
+  - Toubouk Ine Chihoussay (Agadez)
+  - Agrim Agadez (No. 1)
+  - Imouha (100% Sahara Guitar)
+  - Adounia (Agadez)
+  - Ighre Massina (100% Sahara Guitar)
+  - Amidinine (100% Sahara Guitar)
+  - Imouwizla (Agadez)
+  - Imouha (Imouha)
+  - Nak Deranine (Agadez)
+  - Erkazamane (100% Sahara Guitar)
 external_urls:
-  spotify: https://open.spotify.com/artist/1Tj92mXFtSUJPPnT5fG4Gg
-  wikipedia: https://en.wikipedia.org/wiki/Etran_de_L'A%C3%AFr
+  spotify: 'https://open.spotify.com/artist/1Tj92mXFtSUJPPnT5fG4Gg'
+  wikipedia: 'https://en.wikipedia.org/wiki/Etran_de_L''A%C3%AFr'
 image_path: 03_Resources/source_material/ArtistPortraits/etran_de_lair.jpg
 biography_enhanced_at: '2025-12-20T01:08:54.864542'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Etran_de_L'A%C3%AFr
-- https://caravanbc.com/events/etran-de-lair-desert-blues-of-niger-victoria/
-- https://kaput-mag.com/stories_en/etran-de-lair_to-us-the-desert-is-freedom-it-is-our-home/
-- https://twistedsoulmusic.org/2025/04/02/etran-de-lair-agadez-ts-premiere/
-- https://www.fasching.se/en/etran-de-lair/
-- https://daily.bandcamp.com/features/etran-de-lair-interview
-- https://sahelsounds.com/pages/etran-de-l-air
+  - 'https://en.wikipedia.org/wiki/Etran_de_L''A%C3%AFr'
+  - 'https://caravanbc.com/events/etran-de-lair-desert-blues-of-niger-victoria/'
+  - >-
+    https://kaput-mag.com/stories_en/etran-de-lair_to-us-the-desert-is-freedom-it-is-our-home/
+  - 'https://twistedsoulmusic.org/2025/04/02/etran-de-lair-agadez-ts-premiere/'
+  - 'https://www.fasching.se/en/etran-de-lair/'
+  - 'https://daily.bandcamp.com/features/etran-de-lair-interview'
+  - 'https://sahelsounds.com/pages/etran-de-l-air'
 network_extracted: true
 entry_created: '2025-12-20T01:08:54.864555'
 last_updated: '2025-12-23T08:16:08.502876'
-origin: Abalane, Agadez, Niger
+origin: 'Abalane, Agadez, Niger'
+artist_type: band
 ---
 
 ![](etran_de_lair.jpg)

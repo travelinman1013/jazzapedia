@@ -3,19 +3,19 @@ title: Zachary Richard
 wiki_slug: zachary-richard
 schema_version: 2
 status: active
-birth_place: Scott, Louisiana, United States
+birth_place: 'Scott, Louisiana, United States'
 genres:
-- cajun
-- zydeco
-- chanson québécoise
-- rock quebecois
-- folk québécois
-- pop québécoise
+  - cajun
+  - zydeco
+  - chanson québécoise
+  - rock quebecois
+  - folk québécois
+  - pop québécoise
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/zachary_richard.jpg
   caption: Zachary Richard
   background: solo_singer
-  origin: Scott, Louisiana, United States
+  origin: 'Scott, Louisiana, United States'
 audio_profile:
   tempo_avg: 116.8
   energy_avg: 0.477
@@ -23,7 +23,7 @@ audio_profile:
   danceability_avg: 0.562
   acousticness_avg: 0.476
   instrumentalness_avg: 0.003
-  loudness_avg: -10.0
+  loudness_avg: -10
   speechiness_avg: 0.093
   liveness_avg: 0.198
   track_count: 52
@@ -31,48 +31,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Michael Doucet
-  - Huey Lewis
-  - Bob Weir
+    - Michael Doucet
+    - Huey Lewis
+    - Bob Weir
   influenced:
-  - Younger generation of Cajun and Francophone musicians
+    - Younger generation of Cajun and Francophone musicians
   mentors:
-  - Clifton Chenier
-  - Professor Longhair
+    - Clifton Chenier
+    - Professor Longhair
 spotify_data:
   followers: 12173
   id: 6mpIGgvVVlb1m1OwoGKRuY
   popularity: 29
-  url: https://open.spotify.com/artist/6mpIGgvVVlb1m1OwoGKRuY
+  url: 'https://open.spotify.com/artist/6mpIGgvVVlb1m1OwoGKRuY'
 discography_enriched: true
 top_tracks:
-- La ballade de Jean Batailleur (Cap Enragé)
-- Au bord du Lac Bijou (Cap Enragé)
-- Cap Enragé (Cap Enragé)
-- Travailler c'est trop dur (Cap Enragé)
-- Marjolaine (Cap Enragé)
-- L'arbre Est Dans Ses Feuilles (Live in Montreal)
-- Ninanatuapamananat
-- Pagayez (Coeur Fidèle)
-- Au Bord Du Lac Bijou
-- Ma Louisianne (Mardi Gras)
+  - La ballade de Jean Batailleur (Cap Enragé)
+  - Au bord du Lac Bijou (Cap Enragé)
+  - Cap Enragé (Cap Enragé)
+  - Travailler c'est trop dur (Cap Enragé)
+  - Marjolaine (Cap Enragé)
+  - L'arbre Est Dans Ses Feuilles (Live in Montreal)
+  - Ninanatuapamananat
+  - Pagayez (Coeur Fidèle)
+  - Au Bord Du Lac Bijou
+  - Ma Louisianne (Mardi Gras)
 external_urls:
-  spotify: https://open.spotify.com/artist/6mpIGgvVVlb1m1OwoGKRuY
-  wikipedia: https://en.wikipedia.org/wiki/Zachary_Richard
+  spotify: 'https://open.spotify.com/artist/6mpIGgvVVlb1m1OwoGKRuY'
+  wikipedia: 'https://en.wikipedia.org/wiki/Zachary_Richard'
 image_path: 03_Resources/source_material/ArtistPortraits/zachary_richard.jpg
 biography_enhanced_at: '2025-11-17T10:45:42.918123'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Zachary_Richard
-- https://www.lafayettetravel.com/things-to-do/arts-culture/music/music-artists/zachary-richard/
-- https://64parishes.org/entry/zachary-richard
-- https://www.zacharyrichard.com/en/biographie
-- http://zachary.waiting-forthe-sun.net/Pages/Biography.html
-- https://greenroom.transistor.fm/episodes/zachary-richard-canadian-star-louisiana-native-on-music-cajun-culture-and-heritage-behind-the-scenes-at-jazzfest-part-3
+  - 'https://en.wikipedia.org/wiki/Zachary_Richard'
+  - >-
+    https://www.lafayettetravel.com/things-to-do/arts-culture/music/music-artists/zachary-richard/
+  - 'https://64parishes.org/entry/zachary-richard'
+  - 'https://www.zacharyrichard.com/en/biographie'
+  - 'http://zachary.waiting-forthe-sun.net/Pages/Biography.html'
+  - >-
+    https://greenroom.transistor.fm/episodes/zachary-richard-canadian-star-louisiana-native-on-music-cajun-culture-and-heritage-behind-the-scenes-at-jazzfest-part-3
 network_extracted: true
 entry_created: '2025-11-17T10:45:42.918134'
 last_updated: '2025-12-23T08:16:18.403750'
+birth_date: '1950-09-08'
+artist_type: person
 ---
 
 ![](zachary_richard.jpg)

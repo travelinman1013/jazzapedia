@@ -1,5 +1,5 @@
 ---
-title: Bo-Keys
+title: The Bo-Keys
 wiki_slug: bo-keys
 schema_version: 2
 status: active
@@ -23,52 +23,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Skip Pitts
-  - Howard Grimes
-  - Ben Cauley
-  - Archie "Hubbie" Turner
-  - Percy Wiggins
-  - Floyd Newman
+    - Skip Pitts
+    - Howard Grimes
+    - Ben Cauley
+    - Archie "Hubbie" Turner
+    - Percy Wiggins
+    - Floyd Newman
   influenced:
-  - Contemporary Memphis musicians
-  - Film and television composers
+    - Contemporary Memphis musicians
+    - Film and television composers
   mentors:
-  - Willie Mitchell
-  - Stax Music Academy
+    - Willie Mitchell
+    - Stax Music Academy
 spotify_data:
   followers: 409
   id: 4FRlmOgiknJCtFDAI4yvWD
   popularity: 14
-  url: https://open.spotify.com/artist/4FRlmOgiknJCtFDAI4yvWD
+  url: 'https://open.spotify.com/artist/4FRlmOgiknJCtFDAI4yvWD'
 discography_enriched: true
 top_tracks:
-- Colorful Hues (Colorful Hues)
-- Ola Mohon - Remastered (Ola Mohon)
-- Hu Tånga hao (Hu Tånga hao)
-- Hu Maguaiya Hit (Hu Maguaiya Hit)
-- Bob (Bob)
-- Oasis (Oasis)
-- Happy Friday! (HAPPY FRIDAY! The Album)
-- FiRE (FiRE)
+  - Colorful Hues (Colorful Hues)
+  - Ola Mohon - Remastered (Ola Mohon)
+  - Hu Tånga hao (Hu Tånga hao)
+  - Hu Maguaiya Hit (Hu Maguaiya Hit)
+  - Bob (Bob)
+  - Oasis (Oasis)
+  - Happy Friday! (HAPPY FRIDAY! The Album)
+  - FiRE (FiRE)
 external_urls:
-  spotify: https://open.spotify.com/artist/4FRlmOgiknJCtFDAI4yvWD
-  wikipedia: https://en.wikipedia.org/wiki/The_Bo-Keys
+  spotify: 'https://open.spotify.com/artist/4FRlmOgiknJCtFDAI4yvWD'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Bo-Keys'
 image_path: 03_Resources/source_material/ArtistPortraits/bo-keys.jpg
 biography_enhanced_at: '2025-12-04T07:26:56.842247'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - The Bo-Keys
-- OffBeat Magazine - Interview with Scott Bomar
-- Blues on Broadbeach - Marcus Scott & The Bo-Keys
-- The Bo-Keys Official Website
-- Ponderosa Stomp
-- AllMusic - The Bo-Keys
-- The Bo-Keys Bandcamp
+  - Wikipedia - The Bo-Keys
+  - OffBeat Magazine - Interview with Scott Bomar
+  - Blues on Broadbeach - Marcus Scott & The Bo-Keys
+  - The Bo-Keys Official Website
+  - Ponderosa Stomp
+  - AllMusic - The Bo-Keys
+  - The Bo-Keys Bandcamp
 network_extracted: true
 entry_created: '2025-12-04T07:26:56.842258'
 last_updated: '2025-12-23T08:16:05.789141'
-origin: Memphis, Tennessee, United States
+origin: 'Memphis, Tennessee, United States'
+artist_type: person
 ---
 
 ![](bo-keys.jpg)

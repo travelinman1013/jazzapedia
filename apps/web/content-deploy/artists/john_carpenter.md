@@ -1,27 +1,27 @@
 ---
-title: john carpenter
+title: John Carpenter
 wiki_slug: john-carpenter
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1948-01-16'
-birth_place: Carthage
+birth_place: 'Carthage, New York, United States'
 genres: []
 instruments:
-- bass guitar
-- spoken vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8d7dcb13-a99c-4492-9867-8f1affc48e7a
-  name: The Coupe de Villes
-- begin: ''
-  end: ''
-  instruments:
   - bass guitar
-  mbid: 78a3206e-f871-46ce-a555-b2e9b90dbe9f
-  name: Texas Toad Lickers
+  - spoken vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8d7dcb13-a99c-4492-9867-8f1affc48e7a
+    name: The Coupe de Villes
+  - begin: ''
+    end: ''
+    instruments:
+      - bass guitar
+    mbid: 78a3206e-f871-46ce-a555-b2e9b90dbe9f
+    name: Texas Toad Lickers
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/john_carpenter.jpg
   caption: john carpenter
@@ -43,52 +43,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Nick Castle
-  - Tommy Lee Wallace
-  - Alan Howarth
-  - Cody Carpenter
-  - Daniel Davies
+    - Nick Castle
+    - Tommy Lee Wallace
+    - Alan Howarth
+    - Cody Carpenter
+    - Daniel Davies
   influenced:
-  - Trent Reznor
-  - Daft Punk
-  - Cliff Martinez
-  - Survive
+    - Trent Reznor
+    - Daft Punk
+    - Cliff Martinez
+    - Survive
   mentors:
-  - Howard Ralph Carpenter
-  - Alfred Hitchcock
-  - Howard Hawks
+    - Howard Ralph Carpenter
+    - Alfred Hitchcock
+    - Howard Hawks
 spotify_data:
   followers: 158309
   id: 0hxQtmgWiPtEsDPeIuKxXq
   popularity: 56
-  url: https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq
+  url: 'https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq'
 discography_enriched: true
 top_tracks:
-- Tech Noir (GUNSHIP)
-- Halloween Theme - Main Title (Halloween Motion Picture Soundtrack)
-- Halloween Theme (Halloween (Original 2018 Motion Picture Soundtrack))
-- Tech Noir 2 (feat. John Carpenter, Charlie Simpson) (Unicorn)
-- March of the Dead (Driven to Madness)
-- Laurie's Theme (Halloween Motion Picture Soundtrack)
-- Night (Lost Themes)
-- Main Title
-- The Shape Returns (Halloween (Original 2018 Motion Picture Soundtrack))
-- The Shape Hunts Allyson (Halloween (Original 2018 Motion Picture Soundtrack))
+  - Tech Noir (GUNSHIP)
+  - Halloween Theme - Main Title (Halloween Motion Picture Soundtrack)
+  - Halloween Theme (Halloween (Original 2018 Motion Picture Soundtrack))
+  - 'Tech Noir 2 (feat. John Carpenter, Charlie Simpson) (Unicorn)'
+  - March of the Dead (Driven to Madness)
+  - Laurie's Theme (Halloween Motion Picture Soundtrack)
+  - Night (Lost Themes)
+  - Main Title
+  - The Shape Returns (Halloween (Original 2018 Motion Picture Soundtrack))
+  - >-
+    The Shape Hunts Allyson (Halloween (Original 2018 Motion Picture
+    Soundtrack))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/06d3fe7f-b5c7-4af9-a96b-5a41675e29ce
-  spotify: https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq
-  wikipedia: https://en.wikipedia.org/wiki/John_Carpenter
+  musicbrainz: 'https://musicbrainz.org/artist/06d3fe7f-b5c7-4af9-a96b-5a41675e29ce'
+  spotify: 'https://open.spotify.com/artist/0hxQtmgWiPtEsDPeIuKxXq'
+  wikipedia: 'https://en.wikipedia.org/wiki/John_Carpenter'
 image_path: 03_Resources/source_material/ArtistPortraits/john_carpenter.jpg
 biography_enhanced_at: '2025-10-28T09:05:38.477204'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.theringer.com/2023/10/31/music/john-carpenter-film-scores-musician-halloween
-- https://www.biography.com/movies-tv/john-carpenter
-- https://en.wikipedia.org/wiki/John_Carpenter
-- https://www.imdb.com/name/nm0000118/
-- https://www.soundonsound.com/people/john-carpenter
-- https://www.allmusic.com/artist/john-carpenter-mn0000221684
+  - >-
+    https://www.theringer.com/2023/10/31/music/john-carpenter-film-scores-musician-halloween
+  - 'https://www.biography.com/movies-tv/john-carpenter'
+  - 'https://en.wikipedia.org/wiki/John_Carpenter'
+  - 'https://www.imdb.com/name/nm0000118/'
+  - 'https://www.soundonsound.com/people/john-carpenter'
+  - 'https://www.allmusic.com/artist/john-carpenter-mn0000221684'
 network_extracted: true
 entry_created: '2025-10-28T09:05:38.477211'
 last_updated: '2025-12-23T08:16:10.710167'
@@ -96,9 +99,10 @@ disambiguation: filmmaker & composer
 gender: Male
 musicbrainz_id: 06d3fe7f-b5c7-4af9-a96b-5a41675e29ce
 tags:
-- american
-- composer
-- dark ambient
+  - american
+  - composer
+  - dark ambient
+origin: 'Bowling Green, Kentucky, United States'
 ---
 
 ![](john_carpenter.jpg)

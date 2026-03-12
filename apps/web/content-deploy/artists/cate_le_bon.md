@@ -5,41 +5,41 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1983-03-04'
-birth_place: Penboyr
+birth_place: 'Penboyr, Carmarthenshire, Wales, United Kingdom'
 genres:
-- art pop
-- chamber pop
+  - art pop
+  - chamber pop
 instruments:
-- guitar
-- lead vocals
-- electric bass guitar
-- bass guitar
-- piano
-- background vocals
-- choir vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 45225dfd-f9aa-4f35-aebc-7128194e0495
-  name: Drinks
-- begin: ''
-  end: ''
-  instruments:
   - guitar
   - lead vocals
-  mbid: b6aa5411-e3d9-41c2-a297-ef662ad4612f
-  name: Alcatraz
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b9354787-2027-4f63-b6b4-85b2f696bb12
-  name: Banana
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ce153a51-3088-4906-ad65-8aca913ae539
-  name: The Secret Show
+  - electric bass guitar
+  - bass guitar
+  - piano
+  - background vocals
+  - choir vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 45225dfd-f9aa-4f35-aebc-7128194e0495
+    name: Drinks
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+      - lead vocals
+    mbid: b6aa5411-e3d9-41c2-a297-ef662ad4612f
+    name: Alcatraz
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b9354787-2027-4f63-b6b4-85b2f696bb12
+    name: Banana
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ce153a51-3088-4906-ad65-8aca913ae539
+    name: The Secret Show
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/cate_le_bon.jpg
   caption: Cate Le Bon
@@ -61,53 +61,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Samur Khouja
-  - Euan Hinshelwood
-  - John Cale
-  - Devendra Banhart
-  - Wilco
-  - Horsegirl
-  - Perfume Genius
+    - Samur Khouja
+    - Euan Hinshelwood
+    - John Cale
+    - Devendra Banhart
+    - Wilco
+    - Horsegirl
+    - Perfume Genius
   influenced:
-  - Horsegirl
+    - Horsegirl
   mentors:
-  - Gruff Rhys
+    - Gruff Rhys
 spotify_data:
   followers: 139623
   id: 0LZac5VicY19QLaIUvIB0G
   popularity: 49
-  url: https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G
+  url: 'https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G'
 discography_enriched: true
 top_tracks:
-- Home to You (Reward)
-- Are You with Me Now? (Mug Museum)
-- Moderation (Pompeii)
-- Harbour (Pompeii)
-- The Light
-- Heaven Is No Feeling
-- Is It Worth It (Happy Birthday)?
-- Here It Comes Again
-- Daylight Matters (Reward)
-- All Born Screaming (All Born Screaming)
+  - Home to You (Reward)
+  - Are You with Me Now? (Mug Museum)
+  - Moderation (Pompeii)
+  - Harbour (Pompeii)
+  - The Light
+  - Heaven Is No Feeling
+  - Is It Worth It (Happy Birthday)?
+  - Here It Comes Again
+  - Daylight Matters (Reward)
+  - All Born Screaming (All Born Screaming)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f2393e49-b791-46da-a6d7-1e9e60743405
-  spotify: https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G
-  wikipedia: https://en.wikipedia.org/wiki/Cate_Le_Bon
+  musicbrainz: 'https://musicbrainz.org/artist/f2393e49-b791-46da-a6d7-1e9e60743405'
+  spotify: 'https://open.spotify.com/artist/0LZac5VicY19QLaIUvIB0G'
+  wikipedia: 'https://en.wikipedia.org/wiki/Cate_Le_Bon'
 image_path: 03_Resources/source_material/ArtistPortraits/cate_le_bon.jpg
 biography_enhanced_at: '2025-10-30T12:04:22.764011'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://ceremonymusic.ca/home/catelebon
-- https://mexicansummer.com/artist/cate-le-bon/
-- https://pastemagazine.com/music/cate-le-bon/cate-le-bon-michelangelo-dying-interview
-- https://daily.bandcamp.com/features/cate-le-bon-album-guide
-- https://thegentlewoman.co.uk/library/cate-le-bon
+  - 'https://ceremonymusic.ca/home/catelebon'
+  - 'https://mexicansummer.com/artist/cate-le-bon/'
+  - >-
+    https://pastemagazine.com/music/cate-le-bon/cate-le-bon-michelangelo-dying-interview
+  - 'https://daily.bandcamp.com/features/cate-le-bon-album-guide'
+  - 'https://thegentlewoman.co.uk/library/cate-le-bon'
 network_extracted: true
 entry_created: '2025-10-30T12:04:22.764019'
 last_updated: '2025-12-23T08:16:06.560824'
 gender: Female
 musicbrainz_id: f2393e49-b791-46da-a6d7-1e9e60743405
+origin: 'Los Angeles, California, United States'
 ---
 
 ![](cate_le_bon.jpg)

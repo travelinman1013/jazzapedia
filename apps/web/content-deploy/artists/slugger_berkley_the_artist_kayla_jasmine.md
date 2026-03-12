@@ -1,10 +1,10 @@
 ---
-artist_type: person
+artist_type: band
 biography_enhanced_at: '2026-01-12T02:12:42.465934'
 enhancement_provider: perplexity
 entry_created: '2026-01-12T02:12:42.465939'
 external_urls:
-  spotify: https://open.spotify.com/artist/3VMw6ZZq43PHHyBvvZJxH7
+  spotify: 'https://open.spotify.com/artist/3VMw6ZZq43PHHyBvvZJxH7'
   wikipedia: ''
 genres: []
 image_path: ''
@@ -20,9 +20,9 @@ spotify_data:
   followers: 18
   id: 3VMw6ZZq43PHHyBvvZJxH7
   popularity: 15
-  url: https://open.spotify.com/artist/3VMw6ZZq43PHHyBvvZJxH7
+  url: 'https://open.spotify.com/artist/3VMw6ZZq43PHHyBvvZJxH7'
 status: active
-title: Slugger, Berkley The Artist, Kayla Jasmine
+title: 'Slugger, Berkley The Artist, Kayla Jasmine'
 ---
 
 ![]()

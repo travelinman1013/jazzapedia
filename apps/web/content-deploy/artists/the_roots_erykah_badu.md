@@ -1,14 +1,14 @@
 ---
-title: The Roots, Erykah Badu
+title: 'The Roots, Erykah Badu'
 wiki_slug: the-roots-erykah-badu
 schema_version: 2
 status: active
 genres:
-- neo soul
-- r&b
+  - neo soul
+  - r&b
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_roots_erykah_badu.jpg
-  caption: The Roots, Erykah Badu
+  caption: 'The Roots, Erykah Badu'
   background: solo_singer
 audio_profile:
   tempo_avg: 106.4
@@ -17,7 +17,7 @@ audio_profile:
   danceability_avg: 0.694
   acousticness_avg: 0.218
   instrumentalness_avg: 0.056
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.146
   liveness_avg: 0.214
   track_count: 58
@@ -25,51 +25,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Roots
-  - D'Angelo
-  - Common
-  - Jill Scott
-  - Flying Lotus
-  - Eve
-  - Robert Glasper
-  - Tyler, The Creator
+    - The Roots
+    - D'Angelo
+    - Common
+    - Jill Scott
+    - Flying Lotus
+    - Eve
+    - Robert Glasper
+    - 'Tyler, The Creator'
   influenced:
-  - Contemporary neo-soul and R&B artists
+    - Contemporary neo-soul and R&B artists
   mentors:
-  - Kedar Massenburg
+    - Kedar Massenburg
 spotify_data:
   followers: 3247800
   id: 7IfculRW2WXyzNQ8djX8WX
   popularity: 68
-  url: https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX
+  url: 'https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX'
 discography_enriched: true
 top_tracks:
-- Didn't Cha Know (Mama's Gun)
-- On & On (Baduizm)
-- You Got Me (Things Fall Apart)
-- Appletree (Baduizm)
-- Next Lifetime (Baduizm)
-- I'll Call U Back (But You Caint Use My Phone (Mixtape))
-- Treehome95 (feat. Coco O. & Erykah Badu) (Wolf)
-- Window Seat
-- F.U. (In Waves (Deluxe))
-- Other Side Of The Game (Baduizm)
+  - Didn't Cha Know (Mama's Gun)
+  - On & On (Baduizm)
+  - You Got Me (Things Fall Apart)
+  - Appletree (Baduizm)
+  - Next Lifetime (Baduizm)
+  - I'll Call U Back (But You Caint Use My Phone (Mixtape))
+  - Treehome95 (feat. Coco O. & Erykah Badu) (Wolf)
+  - Window Seat
+  - F.U. (In Waves (Deluxe))
+  - Other Side Of The Game (Baduizm)
 external_urls:
-  spotify: https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX
-  wikipedia: https://en.wikipedia.org/wiki/Erykah_Badu
+  spotify: 'https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX'
+  wikipedia: 'https://en.wikipedia.org/wiki/Erykah_Badu'
 image_path: 03_Resources/source_material/ArtistPortraits/the_roots_erykah_badu.jpg
 biography_enhanced_at: '2025-11-12T14:40:41.605936'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Erykah_Badu
-- https://en.wikipedia.org/wiki/You_Got_Me_(The_Roots_song)
-- https://ambrosiaforheads.com/2017/05/the-roots-dangelo-erykah-badu-the-notic-audio/
-- https://blog.thephoenix.com/Boston/Music/75322-An-abridged-history-of-the-Roots-collabs/
-- https://www.scaruffi.com/vol5/roots.html
+  - 'https://en.wikipedia.org/wiki/Erykah_Badu'
+  - 'https://en.wikipedia.org/wiki/You_Got_Me_(The_Roots_song)'
+  - >-
+    https://ambrosiaforheads.com/2017/05/the-roots-dangelo-erykah-badu-the-notic-audio/
+  - >-
+    https://blog.thephoenix.com/Boston/Music/75322-An-abridged-history-of-the-Roots-collabs/
+  - 'https://www.scaruffi.com/vol5/roots.html'
 network_extracted: true
 entry_created: '2025-11-12T14:40:41.605946'
 last_updated: '2025-12-23T08:16:17.124311'
+origin: >-
+  Dallas, Texas, United States (Erykah Badu); Philadelphia, Pennsylvania, United
+  States (The Roots)
+artist_type: person
 ---
 
 ![](the_roots_erykah_badu.jpg)

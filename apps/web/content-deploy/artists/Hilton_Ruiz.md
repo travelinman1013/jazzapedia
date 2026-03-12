@@ -2,24 +2,24 @@
 title: Hilton Ruiz
 wiki_slug: hilton-ruiz
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1952-05-29'
-birth_place: New York City, New York, USA
+birth_place: 'New York City, New York, USA'
 death_date: '2006-06-06'
 genres:
-- latin jazz
+  - latin jazz
 instruments:
-- piano
-- percussion
-- eponymous
-- original
+  - piano
+  - percussion
+  - eponymous
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Hilton_Ruiz.jpg
   caption: Hilton Ruiz
   background: non_vocal_instrumentalist
   born: '1952-05-29'
-  origin: New York City, New York, USA
+  origin: 'New York City, New York, USA'
   died: '2006-06-06'
 audio_profile:
   tempo_avg: 112.9
@@ -36,43 +36,43 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Rahsaan Roland Kirk
-  - Tito Puente
-  - Charles Mingus
+    - Rahsaan Roland Kirk
+    - Tito Puente
+    - Charles Mingus
   influenced:
-  - None specified
+    - None specified
   mentors:
-  - Mary Lou Williams
-  - Cedar Walton
+    - Mary Lou Williams
+    - Cedar Walton
 spotify_data:
   followers: 7825
   id: 7uUrPQUnxCoQusOAh5I0D1
   popularity: 22
-  url: https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1
+  url: 'https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1'
 discography_enriched: true
 top_tracks:
-- Home Cookin' (Enchantment)
-- Sweet Cherry Pie (Enchantment)
-- Steppin' with T.P. (Steppin' with T.P. (Dedicated to Tito Puente))
-- Seven Steps To Heaven (Enchantment)
-- Enchantment (Enchantment)
-- I'll Call You Later (Enchantment)
-- Michael's Mambo (Rhythm In The House)
-- Amsterdam After Dark (Amsterdam After Dark)
-- Mambo Para Puente (Steppin' with T.P. (Dedicated to Tito Puente))
-- Mambo For Vibes (Hands On Percussion)
+  - Home Cookin' (Enchantment)
+  - Sweet Cherry Pie (Enchantment)
+  - Steppin' with T.P. (Steppin' with T.P. (Dedicated to Tito Puente))
+  - Seven Steps To Heaven (Enchantment)
+  - Enchantment (Enchantment)
+  - I'll Call You Later (Enchantment)
+  - Michael's Mambo (Rhythm In The House)
+  - Amsterdam After Dark (Amsterdam After Dark)
+  - Mambo Para Puente (Steppin' with T.P. (Dedicated to Tito Puente))
+  - Mambo For Vibes (Hands On Percussion)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/857cd2b4-e1f6-4025-96d2-0015777245c9
-  spotify: https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1
-  wikipedia: https://en.wikipedia.org/wiki/Hilton_Ruiz
+  musicbrainz: 'https://musicbrainz.org/artist/857cd2b4-e1f6-4025-96d2-0015777245c9'
+  spotify: 'https://open.spotify.com/artist/7uUrPQUnxCoQusOAh5I0D1'
+  wikipedia: 'https://en.wikipedia.org/wiki/Hilton_Ruiz'
 image_path: 03_Resources/source_material/ArtistPortraits/Hilton_Ruiz.jpg
 biography_enhanced_at: '2025-10-20T10:15:41.501365'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia
-- All About Jazz
-- South Carolina Public Radio
+  - Wikipedia
+  - All About Jazz
+  - South Carolina Public Radio
 network_extracted: true
 entry_created: '2025-10-20T10:15:41.501380'
 last_updated: '2025-12-23T08:16:02.251859'
@@ -80,7 +80,8 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:29:21.129999'
 musicbrainz_id: 857cd2b4-e1f6-4025-96d2-0015777245c9
 tags:
-- jazz
+  - jazz
+is_active: false
 ---
 
 ![](Hilton_Ruiz.jpg)

@@ -2,10 +2,10 @@
 title: Lulu And The Broadsides
 wiki_slug: lulu-and-the-broadsides
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- modern blues
+  - modern blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lulu_and_the_broadsides.jpg
   caption: Lulu And The Broadsides
@@ -25,50 +25,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dayna Kurtz
-  - James Singleton
-  - Carlo Nuccio
-  - Robert Maché
-  - Glenn Hartman
+    - Dayna Kurtz
+    - James Singleton
+    - Carlo Nuccio
+    - Robert Maché
+    - Glenn Hartman
   influenced: []
   mentors: []
 spotify_data:
   followers: 392
   id: 43NuM2upQ5dc6mw4qOjzEc
   popularity: 1
-  url: https://open.spotify.com/artist/43NuM2upQ5dc6mw4qOjzEc
+  url: 'https://open.spotify.com/artist/43NuM2upQ5dc6mw4qOjzEc'
 discography_enriched: true
 top_tracks:
-- That's a Pretty Good Love (Lulu and the Broadsides)
-- That's a Pretty Good Love (Lulu and the Broadsides)
-- A Grade (Lulu and the Broadsides)
-- How Do I Stop (Lulu and the Broadsides)
-- Ice Cream Man (Lulu and the Broadsides)
-- Razorburn Blues (Lulu and the Broadsides)
-- Bigger in Texas (Lulu and the Broadsides)
-- Into My Arms (Lulu and the Broadsides)
-- Cindy Lou (Sampler)
-- Do Right Woman, Do Right Man (Sampler)
+  - That's a Pretty Good Love (Lulu and the Broadsides)
+  - That's a Pretty Good Love (Lulu and the Broadsides)
+  - A Grade (Lulu and the Broadsides)
+  - How Do I Stop (Lulu and the Broadsides)
+  - Ice Cream Man (Lulu and the Broadsides)
+  - Razorburn Blues (Lulu and the Broadsides)
+  - Bigger in Texas (Lulu and the Broadsides)
+  - Into My Arms (Lulu and the Broadsides)
+  - Cindy Lou (Sampler)
+  - 'Do Right Woman, Do Right Man (Sampler)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1f376c49-f35a-4219-9d40-8aab5e257da0
-  spotify: https://open.spotify.com/artist/43NuM2upQ5dc6mw4qOjzEc
-  wikipedia: https://en.wikipedia.org/wiki/Dayna_Kurtz
+  musicbrainz: 'https://musicbrainz.org/artist/1f376c49-f35a-4219-9d40-8aab5e257da0'
+  spotify: 'https://open.spotify.com/artist/43NuM2upQ5dc6mw4qOjzEc'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dayna_Kurtz'
 image_path: 03_Resources/source_material/ArtistPortraits/lulu_and_the_broadsides.jpg
 biography_enhanced_at: '2025-11-26T07:52:09.031540'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Dayna_Kurtz
-- https://daynakurtz.com/?page_id=1062
-- https://www.youtube.com/watch?v=wEoslwfWmLE
-- https://www.lincolncenter.org/lincoln-center-at-home/show/lulu-and-the-broadsides-45
-- https://www.offbeat.com/music/lulu-and-the-broadsides-lulu-and-the-broadsides-kismet-records/
-- https://www.myspiltmilk.com/articles/lulu-and-the-broadsides-new-album-is-the-sound-of-musicians-having-fun
+  - 'https://en.wikipedia.org/wiki/Dayna_Kurtz'
+  - 'https://daynakurtz.com/?page_id=1062'
+  - 'https://www.youtube.com/watch?v=wEoslwfWmLE'
+  - >-
+    https://www.lincolncenter.org/lincoln-center-at-home/show/lulu-and-the-broadsides-45
+  - >-
+    https://www.offbeat.com/music/lulu-and-the-broadsides-lulu-and-the-broadsides-kismet-records/
+  - >-
+    https://www.myspiltmilk.com/articles/lulu-and-the-broadsides-new-album-is-the-sound-of-musicians-having-fun
 network_extracted: true
 entry_created: '2025-11-26T07:52:09.031547'
 last_updated: '2025-12-23T08:16:12.366068'
 musicbrainz_id: 1f376c49-f35a-4219-9d40-8aab5e257da0
-origin: New Orleans
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](lulu_and_the_broadsides.jpg)

@@ -1,15 +1,15 @@
 ---
-title: JOHN RANKIN
+title: John Rankin
 wiki_slug: john-rankin
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/john_rankin.jpg
   caption: JOHN RANKIN
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 135.3
   energy_avg: 0.49
@@ -17,7 +17,7 @@ audio_profile:
   danceability_avg: 0.773
   acousticness_avg: 0.116
   instrumentalness_avg: 0.822
-  loudness_avg: -16.0
+  loudness_avg: -16
   speechiness_avg: 0.11
   liveness_avg: 0.283
   track_count: 3
@@ -25,36 +25,37 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tom Sancton
-  - Tom Fischer
-  - New Orleans Guitar Masters
-  - NOLA String Kings
-  - The Classic Jazz Trio
+    - Tom Sancton
+    - Tom Fischer
+    - New Orleans Guitar Masters
+    - NOLA String Kings
+    - The Classic Jazz Trio
   influenced: []
   mentors: []
 spotify_data:
   followers: 0
   id: 47DrO3SPBEf5bIRO2jKTMM
   popularity: 0
-  url: https://open.spotify.com/artist/47DrO3SPBEf5bIRO2jKTMM
+  url: 'https://open.spotify.com/artist/47DrO3SPBEf5bIRO2jKTMM'
 discography_enriched: true
 top_tracks:
-- Flytoget (Flytoget)
-- Flybeats (Flytoget)
-- Platinum Trophy (Platinum Trophy)
+  - Flytoget (Flytoget)
+  - Flybeats (Flytoget)
+  - Platinum Trophy (Platinum Trophy)
 external_urls:
-  spotify: https://open.spotify.com/artist/47DrO3SPBEf5bIRO2jKTMM
+  spotify: 'https://open.spotify.com/artist/47DrO3SPBEf5bIRO2jKTMM'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/john_rankin.jpg
 biography_enhanced_at: '2025-12-12T12:03:34.938844'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://johnrankin.net/bio[1]
-- https://johnrankin.net[7]
+  - 'https://johnrankin.net/bio[1]'
+  - 'https://johnrankin.net[7]'
 network_extracted: true
 entry_created: '2025-12-12T12:03:34.938865'
 last_updated: '2025-12-23T08:16:10.789268'
+artist_type: person
 ---
 
 ![](john_rankin.jpg)

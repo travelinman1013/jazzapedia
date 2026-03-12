@@ -3,15 +3,17 @@ title: Bre Kennedy
 wiki_slug: bre-kennedy
 schema_version: 2
 status: active
-birth_place: Nashville, Tennessee, United States (professional base; originally from the West Coast/California, specific city
-  not clearly sourced)
+birth_place: >-
+  Nashville, Tennessee, United States (professional base; originally from the
+  West Coast/California, specific city not clearly sourced)
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bre_kennedy.jpg
   caption: Bre Kennedy
   background: solo_singer
-  origin: Nashville, Tennessee, United States (professional base; originally from the West Coast/California, specific city
-    not clearly sourced)
+  origin: >-
+    Nashville, Tennessee, United States (professional base; originally from the
+    West Coast/California, specific city not clearly sourced)
 audio_profile:
   tempo_avg: 120.1
   energy_avg: 0.418
@@ -27,48 +29,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Melissa Fuller
-  - Longtime bandmates (unnamed backing band)
-  - Stephen Wilson Jr.
+    - Melissa Fuller
+    - Longtime bandmates (unnamed backing band)
+    - Stephen Wilson Jr.
   influenced:
-  - ''
+    - ''
   mentors:
-  - Sheryl Crow
-  - Glennon Doyle, Elizabeth Gilbert, Rebecca Solnit (literary influences)
+    - Sheryl Crow
+    - 'Glennon Doyle, Elizabeth Gilbert, Rebecca Solnit (literary influences)'
 spotify_data:
   followers: 17637
   id: 61oqMHI8QuFrE5Qt91uJAj
   popularity: 38
-  url: https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj
+  url: 'https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj'
 discography_enriched: true
 top_tracks:
-- Supernova (The Way Back)
-- Nothing Compares (Note to Self)
-- Before I Have a Daughter - Reimagined
-- Control (Note to Self)
-- Corner of the Universe
-- Down (Exit Song)
-- Twenty Something (Twenty Something)
-- Whirlwind (Twenty Something)
-- Baby Blue
-- Idiot
+  - Supernova (The Way Back)
+  - Nothing Compares (Note to Self)
+  - Before I Have a Daughter - Reimagined
+  - Control (Note to Self)
+  - Corner of the Universe
+  - Down (Exit Song)
+  - Twenty Something (Twenty Something)
+  - Whirlwind (Twenty Something)
+  - Baby Blue
+  - Idiot
 external_urls:
-  spotify: https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj
+  spotify: 'https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/bre_kennedy.jpg
 biography_enhanced_at: '2025-12-15T01:41:22.145712'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://nettwerk.com/artist/bre-kennedy/
-- https://iambrekennedy.com
-- https://mamieruth.com/blogs/mamiediaries/women-crush-wednesday-bre-kennedy
-- http://musicmecca.org/mms-presents-an-interview-with-nashville-songstress-bre-kennedy/
-- https://glassefactory.com/an-interview-with-nashville-singer-songwriter-bre-kennedy/
-- https://atwoodmagazine.com/bkwa-bre-kennedy-willow-the-alchemist-music-interview-feature/
+  - 'https://nettwerk.com/artist/bre-kennedy/'
+  - 'https://iambrekennedy.com'
+  - 'https://mamieruth.com/blogs/mamiediaries/women-crush-wednesday-bre-kennedy'
+  - >-
+    http://musicmecca.org/mms-presents-an-interview-with-nashville-songstress-bre-kennedy/
+  - >-
+    https://glassefactory.com/an-interview-with-nashville-singer-songwriter-bre-kennedy/
+  - >-
+    https://atwoodmagazine.com/bkwa-bre-kennedy-willow-the-alchemist-music-interview-feature/
 network_extracted: true
 entry_created: '2025-12-15T01:41:22.145734'
 last_updated: '2025-12-23T08:16:06.054962'
+origin: 'Nashville, Tennessee, United States'
+artist_type: person
 ---
 
 ![](bre_kennedy.jpg)

@@ -5,18 +5,18 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1990-11-07'
-birth_place: Phoenix
+birth_place: 'Phoenix, Arizona, United States'
 genres:
-- americana
-- alt country
+  - americana
+  - alt country
 instruments:
-- background vocals
+  - background vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 88d0832d-9e62-4ffd-b195-db7c49f4f401
-  name: '♀♀♀♀: The Collaboration'
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 88d0832d-9e62-4ffd-b195-db7c49f4f401
+    name: '♀♀♀♀: The Collaboration'
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/courtney_marie_andrews.jpg
   caption: Courtney Marie Andrews
@@ -38,51 +38,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jimmy Eat World
-  - Milow
-  - Brandi Carlile
-  - Irma Thomas
-  - John Prine
-  - Bradley Cluff (Bradley & The Materials)
+    - Jimmy Eat World
+    - Milow
+    - Brandi Carlile
+    - Irma Thomas
+    - John Prine
+    - Bradley Cluff (Bradley & The Materials)
   influenced:
-  - ''
+    - ''
   mentors:
-  - Damien Jurado
-  - Mark Howard
-  - Aretha Franklin (inspirational, tribute context)
+    - Damien Jurado
+    - Mark Howard
+    - 'Aretha Franklin (inspirational, tribute context)'
 spotify_data:
   followers: 53560
   id: 1EI0B66miJj5Fl408B7E9H
   popularity: 42
-  url: https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H
+  url: 'https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H'
 discography_enriched: true
 top_tracks:
-- Summer's End
-- If I Told (Old Flowers)
-- America
-- It Must Be Someone Else’s Fault (Old Flowers)
-- Satellite
-- Getting It Right (CAZIMI)
-- Irene (Honest Life)
-- Oh, Sister [Feat. Courtney Marie Andrews]
-- Satellite (Loose Future)
-- Getting It Right
+  - Summer's End
+  - If I Told (Old Flowers)
+  - America
+  - It Must Be Someone Else’s Fault (Old Flowers)
+  - Satellite
+  - Getting It Right (CAZIMI)
+  - Irene (Honest Life)
+  - 'Oh, Sister [Feat. Courtney Marie Andrews]'
+  - Satellite (Loose Future)
+  - Getting It Right
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/42f0a4aa-644b-4bb6-aca0-07207562e8cb
-  spotify: https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H
-  wikipedia: https://en.wikipedia.org/wiki/Courtney_Marie_Andrews
+  musicbrainz: 'https://musicbrainz.org/artist/42f0a4aa-644b-4bb6-aca0-07207562e8cb'
+  spotify: 'https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H'
+  wikipedia: 'https://en.wikipedia.org/wiki/Courtney_Marie_Andrews'
 image_path: 03_Resources/source_material/ArtistPortraits/courtney_marie_andrews.jpg
 biography_enhanced_at: '2025-12-15T01:40:01.378457'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- 'Lone Star Music Magazine – Q&A: Courtney Marie Andrews[1]'
-- All American Speakers – Courtney Marie Andrews Biography[2]
-- Mama Bird Recording Co. – Courtney Marie Andrews artist bio[3]
-- 'The Bluegrass Situation – The Show On The Road: Courtney Marie Andrews[4]'
-- 'The Bluegrass Situation – Just How It Is: An Interview with Courtney Marie Andrews[5]'
-- JAVA Magazine – Courtney Marie Andrews [Phoenix Expats Series][6]
-- Folk Alley – A Q & A with Courtney Marie Andrews[8]
+  - 'Lone Star Music Magazine – Q&A: Courtney Marie Andrews[1]'
+  - 'All American Speakers – Courtney Marie Andrews Biography[2]'
+  - 'Mama Bird Recording Co. – Courtney Marie Andrews artist bio[3]'
+  - 'The Bluegrass Situation – The Show On The Road: Courtney Marie Andrews[4]'
+  - >-
+    The Bluegrass Situation – Just How It Is: An Interview with Courtney Marie
+    Andrews[5]
+  - 'JAVA Magazine – Courtney Marie Andrews [Phoenix Expats Series][6]'
+  - 'Folk Alley – A Q & A with Courtney Marie Andrews[8]'
 network_extracted: true
 entry_created: '2025-12-15T01:40:01.378471'
 last_updated: '2025-12-23T08:16:07.242547'
@@ -90,9 +92,10 @@ disambiguation: US singer-songwriter
 gender: Female
 musicbrainz_id: 42f0a4aa-644b-4bb6-aca0-07207562e8cb
 tags:
-- acoustic guitar
-- alternative
-- alternative country
+  - acoustic guitar
+  - alternative
+  - alternative country
+origin: 'Seattle, Washington, United States'
 ---
 
 ![](courtney_marie_andrews.jpg)

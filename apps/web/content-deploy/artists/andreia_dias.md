@@ -7,7 +7,7 @@ status: active
 birth_date: '1973-03-02'
 birth_place: Santos
 genres:
-- avant-garde
+  - avant-garde
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/andreia_dias.jpg
   caption: Andreia Dias
@@ -29,48 +29,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Iara Rennó
-  - Anelis Assumpção
-  - Guilherme Kastrup
-  - Ricardo Prado
-  - Luque Barros
-  - Cristina Buarque
-  - Zeca Baleiro
-  - Farofa Carioca (band)
-  - Banda Glória
+    - Iara Rennó
+    - Anelis Assumpção
+    - Guilherme Kastrup
+    - Ricardo Prado
+    - Luque Barros
+    - Cristina Buarque
+    - Zeca Baleiro
+    - Farofa Carioca (band)
+    - Banda Glória
   influenced:
-  - ''
+    - ''
   mentors:
-  - Tom Zé
-  - Rita Lee
+    - Tom Zé
+    - Rita Lee
 spotify_data:
   followers: 3
   id: 0lVBH2X7YZ0r8CH9st2tkP
   popularity: 0
-  url: https://open.spotify.com/artist/0lVBH2X7YZ0r8CH9st2tkP
+  url: 'https://open.spotify.com/artist/0lVBH2X7YZ0r8CH9st2tkP'
 discography_enriched: true
 top_tracks:
-- Mandu Sarará (Macunaíma Ópera Tupi)
+  - Mandu Sarará (Macunaíma Ópera Tupi)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/49a01ff5-84e3-49c2-b9e2-73a30c460134
-  spotify: https://open.spotify.com/artist/0lVBH2X7YZ0r8CH9st2tkP
-  wikipedia: https://pt.wikipedia.org/wiki/Andreia_Dias
+  musicbrainz: 'https://musicbrainz.org/artist/49a01ff5-84e3-49c2-b9e2-73a30c460134'
+  spotify: 'https://open.spotify.com/artist/0lVBH2X7YZ0r8CH9st2tkP'
+  wikipedia: 'https://pt.wikipedia.org/wiki/Andreia_Dias'
 image_path: ''
 biography_enhanced_at: '2025-12-14T01:47:27.465687'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://pt.wikipedia.org/wiki/Andreia_Dias
-- https://www.wikidata.org/wiki/Q16490428
-- https://www.womex.com/virtual/scubidu_music/andreia_dias
-- https://www.womex.com/virtual/scubidu_music/event/andreia_dias_3
-- https://www.astro.com/astro-databank/Dias,_Andreia
-- https://www.last.fm/music/Andreia+Dias
+  - 'https://pt.wikipedia.org/wiki/Andreia_Dias'
+  - 'https://www.wikidata.org/wiki/Q16490428'
+  - 'https://www.womex.com/virtual/scubidu_music/andreia_dias'
+  - 'https://www.womex.com/virtual/scubidu_music/event/andreia_dias_3'
+  - 'https://www.astro.com/astro-databank/Dias,_Andreia'
+  - 'https://www.last.fm/music/Andreia+Dias'
 network_extracted: true
 entry_created: '2025-12-14T01:47:27.465713'
 last_updated: '2025-12-23T08:16:04.769890'
 gender: Female
 musicbrainz_id: 49a01ff5-84e3-49c2-b9e2-73a30c460134
+origin: 'São Paulo, São Paulo, Brazil'
 ---
 
 ![]()

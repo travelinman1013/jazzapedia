@@ -1,20 +1,20 @@
 ---
-title: NATALIE COLE
+title: Natalie Cole
 wiki_slug: natalie-cole
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1950-02-06'
-birth_place: Los Angeles, California, United States
+birth_place: 'Los Angeles, California, United States'
 death_date: '2015-12-31'
 genres:
-- quiet storm
+  - quiet storm
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/NATALIE_COLE.jpg
   caption: NATALIE COLE
   background: solo_singer
   born: '1950-02-06'
-  origin: Los Angeles, California, United States
+  origin: 'Los Angeles, California, United States'
   died: '2015-12-31'
 audio_profile:
   tempo_avg: 116.8
@@ -31,45 +31,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Nat King Cole
-  - David Foster
-  - Quincy Jones
+    - Nat King Cole
+    - David Foster
+    - Quincy Jones
   influenced:
-  - Whitney Houston
-  - Mary J. Blige
+    - Whitney Houston
+    - Mary J. Blige
   mentors:
-  - Nat King Cole
-  - Maria Hawkins Ellington
+    - Nat King Cole
+    - Maria Hawkins Ellington
 spotify_data:
   followers: 709557
   id: 5tTsrGPwQRWUsHR2Xf7Ke9
   popularity: 60
-  url: https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9
+  url: 'https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9'
 discography_enriched: true
 top_tracks:
-- This Will Be (An Everlasting Love) (Inseparable)
-- Miss You Like Crazy (Good To Be Back)
-- Starting Over Again (Good To Be Back)
-- 'Unforgettable (Unforgettable: With Love)'
-- This Will Be (An Everlasting Love) - 2003 Remaster
-- Fever (Genius Loves Company)
-- Bachata Rosa (Natalie Cole En Español (Track By Track Commentary))
-- 'Our Love Is Here To Stay (Unforgettable: With Love)'
-- 'Route 66 (Unforgettable: With Love)'
-- 'The Very Thought Of You (Unforgettable: With Love)'
+  - This Will Be (An Everlasting Love) (Inseparable)
+  - Miss You Like Crazy (Good To Be Back)
+  - Starting Over Again (Good To Be Back)
+  - 'Unforgettable (Unforgettable: With Love)'
+  - This Will Be (An Everlasting Love) - 2003 Remaster
+  - Fever (Genius Loves Company)
+  - Bachata Rosa (Natalie Cole En Español (Track By Track Commentary))
+  - 'Our Love Is Here To Stay (Unforgettable: With Love)'
+  - 'Route 66 (Unforgettable: With Love)'
+  - 'The Very Thought Of You (Unforgettable: With Love)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/eb45032c-80da-469c-be20-1d09f08ef37f
-  spotify: https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9
-  wikipedia: https://en.wikipedia.org/wiki/Natalie_Cole
+  musicbrainz: 'https://musicbrainz.org/artist/eb45032c-80da-469c-be20-1d09f08ef37f'
+  spotify: 'https://open.spotify.com/artist/5tTsrGPwQRWUsHR2Xf7Ke9'
+  wikipedia: 'https://en.wikipedia.org/wiki/Natalie_Cole'
 image_path: 03_Resources/source_material/ArtistPortraits/NATALIE_COLE.jpg
 biography_enhanced_at: '2025-10-19T11:37:12.555425'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Natalie_Cole
-- https://officialnataliecole.com/legacy/
-- https://www.biography.com/musicians/natalie-cole
-- https://www.britannica.com/biography/Natalie-Cole
+  - 'https://en.wikipedia.org/wiki/Natalie_Cole'
+  - 'https://officialnataliecole.com/legacy/'
+  - 'https://www.biography.com/musicians/natalie-cole'
+  - 'https://www.britannica.com/biography/Natalie-Cole'
 network_extracted: true
 entry_created: '2025-10-19T11:37:12.555432'
 last_updated: '2025-12-23T08:16:03.378561'
@@ -77,9 +77,10 @@ gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:38:37.732495'
 musicbrainz_id: eb45032c-80da-469c-be20-1d09f08ef37f
 tags:
-- jazz and blues
-- mezzo-soprano
-- pop
+  - jazz and blues
+  - mezzo-soprano
+  - pop
+is_active: false
 ---
 
 ![](NATALIE_COLE.jpg)

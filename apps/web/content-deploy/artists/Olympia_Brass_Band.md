@@ -2,22 +2,22 @@
 title: Olympia Brass Band
 wiki_slug: olympia-brass-band
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 aliases: []
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 record_labels:
-- Mardi Gras Records
+  - Mardi Gras Records
 associated_acts:
-- Harold Dejan
+  - Harold Dejan
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Olympia_Brass_Band.jpg
   caption: Olympia Brass Band
   background: solo_singer
 audio_profile:
-  tempo_avg: 125.0
+  tempo_avg: 125
   energy_avg: 0.437
   valence_avg: 0.614
   danceability_avg: 0.505
@@ -31,44 +31,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Harold "Duke" Dejan
-  - Milton Battiste
-  - Willie Humphrey
-  - Anthony "Tuba Fats" Lacen
-  - Allan Jaffe
+    - Harold "Duke" Dejan
+    - Milton Battiste
+    - Willie Humphrey
+    - Anthony "Tuba Fats" Lacen
+    - Allan Jaffe
   influenced:
-  - Soul Rebels
-  - Dirty Dozen Brass Band
-  - Rebirth Brass Band
+    - Soul Rebels
+    - Dirty Dozen Brass Band
+    - Rebirth Brass Band
   mentors:
-  - Eureka Brass Band
-  - Onward Brass Band
-  - Tuxedo Brass Band
+    - Eureka Brass Band
+    - Onward Brass Band
+    - Tuxedo Brass Band
 related_artists: []
 spotify_data:
   followers: 2548
   id: 3X4cYFPu2LZ4NhAm16TsZt
   popularity: 15
-  url: https://open.spotify.com/artist/3X4cYFPu2LZ4NhAm16TsZt
+  url: 'https://open.spotify.com/artist/3X4cYFPu2LZ4NhAm16TsZt'
   verified: false
 discography_enriched: true
 albums_count: 4
 singles_count: 0
 top_tracks:
-- Mardi Gras In New Orleans (Ultimate Mardi Gras)
-- New Second Line (New Orleans Second Line Mardi Gras Party)
-- On the Square (The Great Olympia Band)
-- Mardi Gras In New Orleans (New Orleans Second Line Mardi Gras Party)
-- This Train Is Bound for Glory (New Orleans Jazz Preservation)
-- 'Medley: Flee As A Bird / Nearer My God To Thee / Pleyel''s Hymn (The Olympia Brass Band of New Orleans 1971 and the Young
-  Olympia Brass Band 1965)'
-- Explanation of a Funeral Procession (The Olympia Brass Band of New Orleans 1971 and the Young Olympia Brass Band 1965)
-- Who Dat? (Where Y'at?)
-- 'It Ain''t My Fault (Ultimate Street Parade: New Orleans Brass Bands)'
-- It Ain't My Fault (Ultimate New Orleans Brass Second Line Funk!)
+  - Mardi Gras In New Orleans (Ultimate Mardi Gras)
+  - New Second Line (New Orleans Second Line Mardi Gras Party)
+  - On the Square (The Great Olympia Band)
+  - Mardi Gras In New Orleans (New Orleans Second Line Mardi Gras Party)
+  - This Train Is Bound for Glory (New Orleans Jazz Preservation)
+  - >-
+    Medley: Flee As A Bird / Nearer My God To Thee / Pleyel's Hymn (The Olympia
+    Brass Band of New Orleans 1971 and the Young Olympia Brass Band 1965)
+  - >-
+    Explanation of a Funeral Procession (The Olympia Brass Band of New Orleans
+    1971 and the Young Olympia Brass Band 1965)
+  - Who Dat? (Where Y'at?)
+  - 'It Ain''t My Fault (Ultimate Street Parade: New Orleans Brass Bands)'
+  - It Ain't My Fault (Ultimate New Orleans Brass Second Line Funk!)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d1f43663-1178-4b7a-aff8-01aa6785eb86
-  spotify: https://open.spotify.com/artist/3X4cYFPu2LZ4NhAm16TsZt
+  musicbrainz: 'https://musicbrainz.org/artist/d1f43663-1178-4b7a-aff8-01aa6785eb86'
+  spotify: 'https://open.spotify.com/artist/3X4cYFPu2LZ4NhAm16TsZt'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/Olympia_Brass_Band.jpg
 biography_source: wikipedia
@@ -76,18 +79,18 @@ biography_enhanced_at: '2025-09-30T11:58:54.012976'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- mattsakakeeny.com
-- jazzology.com
-- msmokemusic.com
-- gallatinstreetrecords.squarespace.com
-- offbeat.com
+  - mattsakakeeny.com
+  - jazzology.com
+  - msmokemusic.com
+  - gallatinstreetrecords.squarespace.com
+  - offbeat.com
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:48:33.617274
+entry_created: 2025-09-22T21:48:33.617Z
 last_updated: '2025-12-23T08:16:03.486370'
 musicbrainz_enriched_at: '2025-10-21T09:40:07.157306'
 musicbrainz_id: d1f43663-1178-4b7a-aff8-01aa6785eb86
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](Olympia_Brass_Band.jpg)

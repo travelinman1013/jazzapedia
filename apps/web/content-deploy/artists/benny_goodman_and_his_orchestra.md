@@ -1,31 +1,32 @@
 ---
-title: BENNY GOODMAN AND HIS ORCHESTRA
+title: Benny Goodman and His Orchestra
 wiki_slug: benny-goodman-and-his-orchestra
 schema_version: 2
-artist_type: orchestra
+artist_type: band
 status: active
-birth_place: Chicago, Illinois, United States
+birth_place: 'Chicago, Illinois, United States'
 genres:
-- boogie-woogie
-- big band
-- swing music
+  - boogie-woogie
+  - big band
+  - swing music
 instruments:
-- trumpet
-- trombone
-- tenor saxophone
-- double bass
-- guitar
-- alto saxophone
-- drums (drum set)
-- eponymous
-- piano
-- violin
-- vibraphone
+  - trumpet
+  - trombone
+  - tenor saxophone
+  - double bass
+  - guitar
+  - alto saxophone
+  - drums (drum set)
+  - eponymous
+  - piano
+  - violin
+  - vibraphone
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/benny_goodman_and_his_orchestra.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/benny_goodman_and_his_orchestra.jpg
   caption: BENNY GOODMAN AND HIS ORCHESTRA
   background: non_vocal_instrumentalist
-  origin: Chicago, Illinois, United States
+  origin: 'Chicago, Illinois, United States'
 audio_profile:
   tempo_avg: 187.1
   energy_avg: 0.604
@@ -41,292 +42,296 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Fletcher Henderson
-  - Gene Krupa
-  - Harry James
-  - Teddy Wilson
-  - Lionel Hampton
-  - Helen Ward
+    - Fletcher Henderson
+    - Gene Krupa
+    - Harry James
+    - Teddy Wilson
+    - Lionel Hampton
+    - Helen Ward
   influenced:
-  - Stan Getz
-  - Peggy Lee
-  - Gene Krupa
-  - Harry James
+    - Stan Getz
+    - Peggy Lee
+    - Gene Krupa
+    - Harry James
   mentors:
-  - John Hammond
-  - Reginald Kell
+    - John Hammond
+    - Reginald Kell
 spotify_data:
   followers: 129
   id: 57W6MpQr7qy27lZvX8Djo0
   popularity: 12
-  url: https://open.spotify.com/artist/57W6MpQr7qy27lZvX8Djo0
+  url: 'https://open.spotify.com/artist/57W6MpQr7qy27lZvX8Djo0'
 discography_enriched: true
 top_tracks:
-- Roll 'Em (The Very Best Of Boogie Woogie)
+  - Roll 'Em (The Very Best Of Boogie Woogie)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a2019e51-9ce1-4c14-98d0-25428761e9f0
-  spotify: https://open.spotify.com/artist/57W6MpQr7qy27lZvX8Djo0
-  wikipedia: https://en.wikipedia.org/wiki/Benny_Goodman
+  musicbrainz: 'https://musicbrainz.org/artist/a2019e51-9ce1-4c14-98d0-25428761e9f0'
+  spotify: 'https://open.spotify.com/artist/57W6MpQr7qy27lZvX8Djo0'
+  wikipedia: 'https://en.wikipedia.org/wiki/Benny_Goodman'
 image_path: ''
 biography_enhanced_at: '2025-10-30T11:46:36.708131'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.touchoftonga.com/DavidMulliss/benny-goodman.html
-- https://www.britannica.com/biography/Benny-Goodman
-- https://mus-col.com/en/events/34015/
-- https://www.ebsco.com/research-starters/history/benny-goodman
-- https://en.wikipedia.org/wiki/Benny_Goodman
-- https://www.bennygoodman.com/biography/
-- https://www.biography.com/musicians/benny-goodman
-- https://syncopatedtimes.com/benny-goodmans-kingdom-of-swing-pt-1-the-early-years/
-- https://www.kunc.org/2018-01-16/how-benny-goodman-orchestrated-the-most-important-concert-in-jazz-history
+  - 'https://www.touchoftonga.com/DavidMulliss/benny-goodman.html'
+  - 'https://www.britannica.com/biography/Benny-Goodman'
+  - 'https://mus-col.com/en/events/34015/'
+  - 'https://www.ebsco.com/research-starters/history/benny-goodman'
+  - 'https://en.wikipedia.org/wiki/Benny_Goodman'
+  - 'https://www.bennygoodman.com/biography/'
+  - 'https://www.biography.com/musicians/benny-goodman'
+  - >-
+    https://syncopatedtimes.com/benny-goodmans-kingdom-of-swing-pt-1-the-early-years/
+  - >-
+    https://www.kunc.org/2018-01-16/how-benny-goodman-orchestrated-the-most-important-concert-in-jazz-history
 network_extracted: true
 entry_created: '2025-10-30T11:46:36.708156'
 last_updated: '2025-12-23T08:16:05.311939'
 members:
-- begin: '1936'
-  end: '1939'
-  instruments: []
-  mbid: e07f1817-76d6-46aa-b202-fc3d82f89a03
-  name: Chris Griffin
-- begin: 1939-12
-  end: 1941-08
-  instruments: []
-  mbid: 9a54404a-3d64-435c-a594-1ce7b5520903
-  name: Helen Forrest
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 38ff7ab0-51bc-4f73-9d15-7c981ccb91e3
-  name: Vince Badale
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: abbbb38a-72f5-44d2-a2bb-7b5ff938c616
-  name: Benny Baker
-- begin: ''
-  end: ''
-  instruments:
-  - trombone
-  mbid: e63ebd66-8c01-47b2-92f0-991ccc95c52d
-  name: Red Ballard
-- begin: ''
-  end: ''
-  instruments:
-  - tenor saxophone
-  mbid: c0df5ab4-a6f6-4525-85ef-47115c02a51a
-  name: Bus Bassey
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a2645b87-df62-4e49-8fc9-15bd6973c9ee
-  name: Noni Bernardi
-- begin: ''
-  end: ''
-  instruments:
-  - double bass
-  mbid: f0b14362-c13d-4c44-a006-66e4729ebd7d
-  name: Artie Bernstein
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 906c34f6-4daf-489c-865c-06c6ae63e349
-  name: Al Block
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7f48b285-3dff-47ac-bc8e-ec4f9cb804ff
-  name: Larry Breen
-- begin: ''
-  end: ''
-  instruments:
-  - trombone
-  mbid: 6499d836-e19d-4eb5-bfbd-504848e358a3
-  name: Vernon Brown
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: f9fc8968-0566-4a74-9caa-ffbcb8be5e4e
-  name: Fern Caron
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 98607588-f641-4d2b-b10b-03152c8dbc13
-  name: Charlie Christian
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: 0b6c4dfb-9380-4334-a4e3-996c07c230dc
-  name: Arnold Covarrubias
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: 6e73d594-cab7-4e9c-8257-ea46bb6529e3
-  name: Ziggy Elman
-- begin: ''
-  end: ''
-  instruments:
-  - alto saxophone
-  mbid: 342b0244-b71b-4678-abc7-3d910a49f02d
-  name: Buff Estes
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: eb5a295c-9d83-4078-8d7d-eed81e15c468
-  name: Nick Fatool
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: b09ae88f-4156-4caa-b129-1cacb5e1632e
-  name: Benny Goodman
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 63997973-8070-49f7-aada-b5b5080e28e5
-  name: Benny Heller
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: f47d1c94-c3e3-4c84-a42a-6c33e0032839
-  name: Fletcher Henderson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 85041a3d-c5bc-44a2-9fd8-23b43fc0161d
-  name: Harry Jaeger
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: e6b3fe16-d0c5-4825-b33e-a83d8fb5de94
-  name: Harry James
-- begin: ''
-  end: ''
-  instruments:
-  - tenor saxophone
-  mbid: 5c0f8878-5d26-446d-acad-8084816fb8be
-  name: Jerry Jerome
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f1894699-6276-44a5-bb1f-0d26de99ae5f
-  name: Nate Kazebier
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6178b01a-19fc-4fe0-bbb7-185b303c50f7
-  name: Manny Klein
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bfe59560-148b-49b5-a0f9-17cbd97c52db
-  name: Al Klink
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: 7f69335d-55bd-4647-8ce6-9de518b6f8f8
-  name: Johnny Martel
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: 93cef782-4ba3-4db6-8002-32b70737bc82
-  name: Jimmy Maxwell
-- begin: ''
-  end: ''
-  instruments:
-  - alto saxophone
-  mbid: 5481f308-4918-429c-bd01-a632e3ae9abe
-  name: Toots Mondello
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: eb37596f-cb9b-42d8-833e-085cf166ed76
-  name: Tom Morgan
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1102cfab-aebd-4187-9a4a-75c16f276be1
-  name: George Ockner
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9e72a776-8871-416c-8779-96b0ffbe0f99
-  name: Tony Pastor
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d34ecb75-4522-4320-8f99-f2e46a0c72de
-  name: Jack Pettis
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7476135b-05d0-4990-afb0-56dfcb84259a
-  name: Howard Reich
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8057b872-60b7-447b-8a78-a920ba6fa61f
-  name: Les Robinson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 81503f0d-3435-4281-9068-c97930e1626a
-  name: Irving “Babe” Russin
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 33a7788d-0d1a-406c-8cb6-cf852a0007f1
-  name: Bob "Buddy" Schutz
-- begin: ''
-  end: ''
-  instruments:
-  - trombone
-  mbid: af143a30-e045-4448-9c62-034f165b591e
-  name: Sy Shaffer
-- begin: ''
-  end: ''
-  instruments:
-  - violin
-  mbid: bd8c5649-0fac-4d4f-b042-ef267f47fbf6
-  name: Sam Shapiro
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: 94100243-34bf-4030-99c4-e1b710e6241c
-  name: Sammy Shapiro
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 558b01e5-4cef-441a-9e07-edc60681bb43
-  name: William Slapin
-- begin: ''
-  end: ''
-  instruments:
-  - trombone
-  mbid: ef55946d-8e1b-49d3-b47f-ff8046d817de
-  name: Ted Vesely
-- begin: ''
-  end: ''
-  instruments:
-  - vibraphone
-  mbid: 82bd376c-de3e-4683-b123-ddb549d77a88
-  name: Johnny White
+  - begin: '1936'
+    end: '1939'
+    instruments: []
+    mbid: e07f1817-76d6-46aa-b202-fc3d82f89a03
+    name: Chris Griffin
+  - begin: 1939-12
+    end: 1941-08
+    instruments: []
+    mbid: 9a54404a-3d64-435c-a594-1ce7b5520903
+    name: Helen Forrest
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 38ff7ab0-51bc-4f73-9d15-7c981ccb91e3
+    name: Vince Badale
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: abbbb38a-72f5-44d2-a2bb-7b5ff938c616
+    name: Benny Baker
+  - begin: ''
+    end: ''
+    instruments:
+      - trombone
+    mbid: e63ebd66-8c01-47b2-92f0-991ccc95c52d
+    name: Red Ballard
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: c0df5ab4-a6f6-4525-85ef-47115c02a51a
+    name: Bus Bassey
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a2645b87-df62-4e49-8fc9-15bd6973c9ee
+    name: Noni Bernardi
+  - begin: ''
+    end: ''
+    instruments:
+      - double bass
+    mbid: f0b14362-c13d-4c44-a006-66e4729ebd7d
+    name: Artie Bernstein
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 906c34f6-4daf-489c-865c-06c6ae63e349
+    name: Al Block
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7f48b285-3dff-47ac-bc8e-ec4f9cb804ff
+    name: Larry Breen
+  - begin: ''
+    end: ''
+    instruments:
+      - trombone
+    mbid: 6499d836-e19d-4eb5-bfbd-504848e358a3
+    name: Vernon Brown
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: f9fc8968-0566-4a74-9caa-ffbcb8be5e4e
+    name: Fern Caron
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 98607588-f641-4d2b-b10b-03152c8dbc13
+    name: Charlie Christian
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 0b6c4dfb-9380-4334-a4e3-996c07c230dc
+    name: Arnold Covarrubias
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: 6e73d594-cab7-4e9c-8257-ea46bb6529e3
+    name: Ziggy Elman
+  - begin: ''
+    end: ''
+    instruments:
+      - alto saxophone
+    mbid: 342b0244-b71b-4678-abc7-3d910a49f02d
+    name: Buff Estes
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: eb5a295c-9d83-4078-8d7d-eed81e15c468
+    name: Nick Fatool
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: b09ae88f-4156-4caa-b129-1cacb5e1632e
+    name: Benny Goodman
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 63997973-8070-49f7-aada-b5b5080e28e5
+    name: Benny Heller
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: f47d1c94-c3e3-4c84-a42a-6c33e0032839
+    name: Fletcher Henderson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 85041a3d-c5bc-44a2-9fd8-23b43fc0161d
+    name: Harry Jaeger
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: e6b3fe16-d0c5-4825-b33e-a83d8fb5de94
+    name: Harry James
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: 5c0f8878-5d26-446d-acad-8084816fb8be
+    name: Jerry Jerome
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f1894699-6276-44a5-bb1f-0d26de99ae5f
+    name: Nate Kazebier
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6178b01a-19fc-4fe0-bbb7-185b303c50f7
+    name: Manny Klein
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bfe59560-148b-49b5-a0f9-17cbd97c52db
+    name: Al Klink
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: 7f69335d-55bd-4647-8ce6-9de518b6f8f8
+    name: Johnny Martel
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: 93cef782-4ba3-4db6-8002-32b70737bc82
+    name: Jimmy Maxwell
+  - begin: ''
+    end: ''
+    instruments:
+      - alto saxophone
+    mbid: 5481f308-4918-429c-bd01-a632e3ae9abe
+    name: Toots Mondello
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: eb37596f-cb9b-42d8-833e-085cf166ed76
+    name: Tom Morgan
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1102cfab-aebd-4187-9a4a-75c16f276be1
+    name: George Ockner
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9e72a776-8871-416c-8779-96b0ffbe0f99
+    name: Tony Pastor
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d34ecb75-4522-4320-8f99-f2e46a0c72de
+    name: Jack Pettis
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7476135b-05d0-4990-afb0-56dfcb84259a
+    name: Howard Reich
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8057b872-60b7-447b-8a78-a920ba6fa61f
+    name: Les Robinson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 81503f0d-3435-4281-9068-c97930e1626a
+    name: Irving “Babe” Russin
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 33a7788d-0d1a-406c-8cb6-cf852a0007f1
+    name: Bob "Buddy" Schutz
+  - begin: ''
+    end: ''
+    instruments:
+      - trombone
+    mbid: af143a30-e045-4448-9c62-034f165b591e
+    name: Sy Shaffer
+  - begin: ''
+    end: ''
+    instruments:
+      - violin
+    mbid: bd8c5649-0fac-4d4f-b042-ef267f47fbf6
+    name: Sam Shapiro
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: 94100243-34bf-4030-99c4-e1b710e6241c
+    name: Sammy Shapiro
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 558b01e5-4cef-441a-9e07-edc60681bb43
+    name: William Slapin
+  - begin: ''
+    end: ''
+    instruments:
+      - trombone
+    mbid: ef55946d-8e1b-49d3-b47f-ff8046d817de
+    name: Ted Vesely
+  - begin: ''
+    end: ''
+    instruments:
+      - vibraphone
+    mbid: 82bd376c-de3e-4683-b123-ddb549d77a88
+    name: Johnny White
 musicbrainz_id: a2019e51-9ce1-4c14-98d0-25428761e9f0
 tags:
-- big band
-- jazz
-- swing
+  - big band
+  - jazz
+  - swing
+birth_date: '1909-05-30'
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![]()

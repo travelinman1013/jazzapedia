@@ -1,13 +1,13 @@
 ---
-title: Kenny Barron, Kavita Shah
+title: 'Kenny Barron, Kavita Shah'
 wiki_slug: kenny-barron-kavita-shah
 schema_version: 2
 status: active
 genres:
-- jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/kenny_barron_kavita_shah.jpg
-  caption: Kenny Barron, Kavita Shah
+  caption: 'Kenny Barron, Kavita Shah'
   background: solo_singer
 audio_profile:
   tempo_avg: 104.2
@@ -24,61 +24,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kavita Shah
-  - Kiyoshi Kitagawa
-  - Johnathan Blake
-  - Cécile McLorin Salvant
-  - Kurt Elling
-  - Anne (Ann) Hampton Callaway
-  - Catherine Russell
-  - Jean Baylor
-  - Ekep Nkwelle
-  - Tyreek McDole
-  - Stan Getz
-  - Steve Nelson
-  - Immanuel Wilkins
+    - Kavita Shah
+    - Kiyoshi Kitagawa
+    - Johnathan Blake
+    - Cécile McLorin Salvant
+    - Kurt Elling
+    - Anne (Ann) Hampton Callaway
+    - Catherine Russell
+    - Jean Baylor
+    - Ekep Nkwelle
+    - Tyreek McDole
+    - Stan Getz
+    - Steve Nelson
+    - Immanuel Wilkins
   influenced:
-  - Younger generation of jazz pianists and improvisers
-  - Intergenerational collaborators such as Immanuel Wilkins
-  - Contemporary jazz vocalists engaged on "Songbook" (including Kavita Shah)
+    - Younger generation of jazz pianists and improvisers
+    - Intergenerational collaborators such as Immanuel Wilkins
+    - Contemporary jazz vocalists engaged on "Songbook" (including Kavita Shah)
   mentors:
-  - Jazz tradition of the bebop and post‑bop eras
-  - Jazz vocal and improvising traditions
+    - Jazz tradition of the bebop and post‑bop eras
+    - Jazz vocal and improvising traditions
 spotify_data:
   followers: 2967
   id: 7A2HZ5tabKcJjQFo959VgP
   popularity: 24
-  url: https://open.spotify.com/artist/7A2HZ5tabKcJjQFo959VgP
+  url: 'https://open.spotify.com/artist/7A2HZ5tabKcJjQFo959VgP'
 discography_enriched: true
 top_tracks:
-- Rain (The Art Of Conversation)
-- Rain (The Art Of Conversation)
-- The Oracle (The Art Of Conversation)
-- The Oracle (The Art Of Conversation)
-- Segment (The Art Of Conversation)
-- In Walked Bud (The Art Of Conversation)
-- Seascape (The Art Of Conversation)
-- The Only One (The Art Of Conversation)
-- Rain (The Art Of Conversation)
-- Waltz For Wheeler (Dedicated To Kenny Wheeler) (The Art Of Conversation)
+  - Rain (The Art Of Conversation)
+  - Rain (The Art Of Conversation)
+  - The Oracle (The Art Of Conversation)
+  - The Oracle (The Art Of Conversation)
+  - Segment (The Art Of Conversation)
+  - In Walked Bud (The Art Of Conversation)
+  - Seascape (The Art Of Conversation)
+  - The Only One (The Art Of Conversation)
+  - Rain (The Art Of Conversation)
+  - Waltz For Wheeler (Dedicated To Kenny Wheeler) (The Art Of Conversation)
 external_urls:
-  spotify: https://open.spotify.com/artist/7A2HZ5tabKcJjQFo959VgP
+  spotify: 'https://open.spotify.com/artist/7A2HZ5tabKcJjQFo959VgP'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/kenny_barron_kavita_shah.jpg
 biography_enhanced_at: '2025-12-08T04:52:13.334250'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://kennybarron.com/recordings/songbook/
-- https://www.allaboutjazz.com/musicians/kavita-shah/
-- https://jazzdiscography.com/Artists/Barron/kb-issue.php
-- https://lydialiebman.com/index.php/project/kenny-barron/
-- https://billmilkowski.substack.com/p/a-dozen-gems-worth-checking-out-0b5
+  - 'https://kennybarron.com/recordings/songbook/'
+  - 'https://www.allaboutjazz.com/musicians/kavita-shah/'
+  - 'https://jazzdiscography.com/Artists/Barron/kb-issue.php'
+  - 'https://lydialiebman.com/index.php/project/kenny-barron/'
+  - 'https://billmilkowski.substack.com/p/a-dozen-gems-worth-checking-out-0b5'
 network_extracted: true
 entry_created: '2025-12-08T04:52:13.334255'
 last_updated: '2025-12-23T08:16:11.287465'
-origin: Philadelphia, Pennsylvania, United States (Kenny Barron, birthplace); New York City, New York, United States (Kavita
-  Shah, professional base)
+origin: >-
+  Philadelphia, Pennsylvania, United States (Kenny Barron, birthplace); New York
+  City, New York, United States (Kavita Shah, professional base)
+birth_place: 'Philadelphia, Pennsylvania, United States'
+artist_type: person
 ---
 
 ![](kenny_barron_kavita_shah.jpg)

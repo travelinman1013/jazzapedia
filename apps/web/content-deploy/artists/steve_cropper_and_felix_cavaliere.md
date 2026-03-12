@@ -5,7 +5,8 @@ schema_version: 2
 status: active
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/steve_cropper_and_felix_cavaliere.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/steve_cropper_and_felix_cavaliere.jpg
   caption: Steve Cropper & Felix Cavaliere
   background: solo_singer
 audio_profile:
@@ -23,54 +24,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Booker T. & the M.G.’s
-  - The Young Rascals / The Rascals
-  - Stax Records artists (Otis Redding, Wilson Pickett, Sam & Dave, others)
-  - Jon Tiven
-  - Steve Cropper & Felix Cavaliere (mutual collaboration)
+    - Booker T. & the M.G.’s
+    - The Young Rascals / The Rascals
+    - 'Stax Records artists (Otis Redding, Wilson Pickett, Sam & Dave, others)'
+    - Jon Tiven
+    - Steve Cropper & Felix Cavaliere (mutual collaboration)
   influenced:
-  - Blue‑eyed soul and pop‑rock artists following the 1960s
+    - Blue‑eyed soul and pop‑rock artists following the 1960s
   mentors:
-  - Stax Records R&B and soul tradition
-  - 1960s soul and R&B pioneers associated with The Young Rascals
+    - Stax Records R&B and soul tradition
+    - 1960s soul and R&B pioneers associated with The Young Rascals
 spotify_data:
   followers: 209
   id: 3jSaF739eLFRTg2xalaM9p
   popularity: 0
-  url: https://open.spotify.com/artist/3jSaF739eLFRTg2xalaM9p
+  url: 'https://open.spotify.com/artist/3jSaF739eLFRTg2xalaM9p'
 discography_enriched: true
 top_tracks:
-- One of Those Days (Nudge It Up a Notch)
-- If It Wasn't for Loving You (Nudge It Up a Notch)
-- Full Moon Tonight (Nudge It Up a Notch)
-- One of Those Days (Absolute Soul)
-- Without You (Nudge It Up a Notch)
-- To Make It Right (Nudge It Up a Notch)
-- Impossible (Nudge It Up a Notch)
-- Still Be Loving You (Nudge It Up a Notch)
-- Cuttin' It Close (Nudge It Up a Notch)
-- Make the Time Go Faster (Nudge It Up a Notch)
+  - One of Those Days (Nudge It Up a Notch)
+  - If It Wasn't for Loving You (Nudge It Up a Notch)
+  - Full Moon Tonight (Nudge It Up a Notch)
+  - One of Those Days (Absolute Soul)
+  - Without You (Nudge It Up a Notch)
+  - To Make It Right (Nudge It Up a Notch)
+  - Impossible (Nudge It Up a Notch)
+  - Still Be Loving You (Nudge It Up a Notch)
+  - Cuttin' It Close (Nudge It Up a Notch)
+  - Make the Time Go Faster (Nudge It Up a Notch)
 external_urls:
-  spotify: https://open.spotify.com/artist/3jSaF739eLFRTg2xalaM9p
+  spotify: 'https://open.spotify.com/artist/3jSaF739eLFRTg2xalaM9p'
   wikipedia: ''
-image_path: 03_Resources/source_material/ArtistPortraits/steve_cropper_and_felix_cavaliere.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/steve_cropper_and_felix_cavaliere.jpg
 biography_enhanced_at: '2025-12-06T05:38:18.700744'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://playitsteve.com/?workprojects=the-whole-story
-- https://sonicbreadcrumbs.substack.com/p/steve-cropper-interview-stax
-- https://en.wikipedia.org/wiki/Felix_Cavaliere
-- https://felixcavalieremusic.com/bio
-- https://www.mascotlabelgroup.com/pages/steve-cropper-biography
-- https://www.popmatters.com/steve-cropper-felix-cavaliere-nudge-it-up-a-notch-2496137286.html
-- http://blog.musoscribe.com/index.php/2010/06/24/a-conversation-with-felix-cavaliere-and-steve-cropper-part-one/
-- https://www.songhall.org/profiles/steve-cropper
+  - 'https://playitsteve.com/?workprojects=the-whole-story'
+  - 'https://sonicbreadcrumbs.substack.com/p/steve-cropper-interview-stax'
+  - 'https://en.wikipedia.org/wiki/Felix_Cavaliere'
+  - 'https://felixcavalieremusic.com/bio'
+  - 'https://www.mascotlabelgroup.com/pages/steve-cropper-biography'
+  - >-
+    https://www.popmatters.com/steve-cropper-felix-cavaliere-nudge-it-up-a-notch-2496137286.html
+  - >-
+    http://blog.musoscribe.com/index.php/2010/06/24/a-conversation-with-felix-cavaliere-and-steve-cropper-part-one/
+  - 'https://www.songhall.org/profiles/steve-cropper'
 network_extracted: true
 entry_created: '2025-12-06T05:38:18.700752'
 last_updated: '2025-12-23T08:16:16.094441'
-origin: Memphis, Tennessee, United States / Pelham, New York, United States (origins of the two individual members whose collaboration
-  forms the project)
+origin: >-
+  Memphis, Tennessee, United States / Pelham, New York, United States (origins
+  of the two individual members whose collaboration forms the project)
+birth_place: 'Dora, Missouri, United States'
+birth_date: '1942-11-29'
+artist_type: band
 ---
 
 ![](steve_cropper_and_felix_cavaliere.jpg)

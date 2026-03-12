@@ -2,12 +2,12 @@
 title: The Be Good Tanyas
 wiki_slug: the-be-good-tanyas
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1999'
 genres:
-- alt country
-- americana
+  - alt country
+  - americana
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_be_good_tanyas.jpg
   caption: The Be Good Tanyas
@@ -20,7 +20,7 @@ audio_profile:
   danceability_avg: 0.557
   acousticness_avg: 0.582
   instrumentalness_avg: 0.091
-  loudness_avg: -12.0
+  loudness_avg: -12
   speechiness_avg: 0.043
   liveness_avg: 0.135
   track_count: 50
@@ -28,78 +28,78 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jolie Holland
-  - Bill Bourne
-  - Allison Russell
+    - Jolie Holland
+    - Bill Bourne
+    - Allison Russell
   influenced:
-  - Jolie Holland
+    - Jolie Holland
   mentors:
-  - Bob Dylan
-  - Leonard Cohen
-  - Libba Cotten
-  - Bessie Smith
-  - Woody Guthrie
+    - Bob Dylan
+    - Leonard Cohen
+    - Libba Cotten
+    - Bessie Smith
+    - Woody Guthrie
 spotify_data:
   followers: 121647
   id: 37PywjKNsxHji5F9eFODF2
   popularity: 47
-  url: https://open.spotify.com/artist/37PywjKNsxHji5F9eFODF2
+  url: 'https://open.spotify.com/artist/37PywjKNsxHji5F9eFODF2'
 discography_enriched: true
 top_tracks:
-- Waiting Around To Die (Chinatown)
-- Draft Daughter's Blues aka Ootischenia (Hello Love)
-- When Doves Cry (Hello Love)
-- The Littlest Birds (A Collection (2000 - 2012))
-- In My Time Of Dying (Chinatown)
-- Human Thing (Hello Love)
-- It's Not Happening (Chinatown)
-- In Spite Of All The Damage (Chinatown)
-- For The Turnstiles (Hello Love)
-- Rain And Snow (A Collection (2000 - 2012))
+  - Waiting Around To Die (Chinatown)
+  - Draft Daughter's Blues aka Ootischenia (Hello Love)
+  - When Doves Cry (Hello Love)
+  - The Littlest Birds (A Collection (2000 - 2012))
+  - In My Time Of Dying (Chinatown)
+  - Human Thing (Hello Love)
+  - It's Not Happening (Chinatown)
+  - In Spite Of All The Damage (Chinatown)
+  - For The Turnstiles (Hello Love)
+  - Rain And Snow (A Collection (2000 - 2012))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/bf52f343-a752-4633-8521-9e99eaad8f9f
-  spotify: https://open.spotify.com/artist/37PywjKNsxHji5F9eFODF2
+  musicbrainz: 'https://musicbrainz.org/artist/bf52f343-a752-4633-8521-9e99eaad8f9f'
+  spotify: 'https://open.spotify.com/artist/37PywjKNsxHji5F9eFODF2'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/the_be_good_tanyas.jpg
 biography_enhanced_at: '2025-11-29T07:06:13.124874'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Last.fm - The Be Good Tanyas
-- Encyclopedia.com - Be Good Tanyas
-- 'The Independent - The Be Good Tanyas: How to be good'
-- The Bluegrass Situation - Conversations with Trish Klein
-- 'Cover Me Songs - In the Spotlight: The Be Good Tanyas'
-- FATEA Records - The Be Good Tanyas
-- Ectophiles' Guide to Good Music - The Be Good Tanyas
+  - Last.fm - The Be Good Tanyas
+  - Encyclopedia.com - Be Good Tanyas
+  - 'The Independent - The Be Good Tanyas: How to be good'
+  - The Bluegrass Situation - Conversations with Trish Klein
+  - 'Cover Me Songs - In the Spotlight: The Be Good Tanyas'
+  - FATEA Records - The Be Good Tanyas
+  - Ectophiles' Guide to Good Music - The Be Good Tanyas
 network_extracted: true
 entry_created: '2025-11-29T07:06:13.124885'
 last_updated: '2025-12-23T08:16:16.538933'
 members:
-- begin: '1999'
-  end: '2001'
-  instruments: []
-  mbid: 66932740-f510-4bc6-b4d0-160bb1f4c723
-  name: Jolie Holland
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c455e254-994c-40d3-a953-4ff6954c3557
-  name: Frazey Ford
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1fddff38-a166-4615-bbe0-909844af3cd0
-  name: Trish Klein
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 390f5d31-a66a-4ce7-be1b-a3ed80fe6e20
-  name: Samantha Parton
+  - begin: '1999'
+    end: '2001'
+    instruments: []
+    mbid: 66932740-f510-4bc6-b4d0-160bb1f4c723
+    name: Jolie Holland
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c455e254-994c-40d3-a953-4ff6954c3557
+    name: Frazey Ford
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1fddff38-a166-4615-bbe0-909844af3cd0
+    name: Trish Klein
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 390f5d31-a66a-4ce7-be1b-a3ed80fe6e20
+    name: Samantha Parton
 musicbrainz_id: bf52f343-a752-4633-8521-9e99eaad8f9f
-origin: Vancouver
+origin: 'Vancouver, British Columbia, Canada'
 tags:
-- folk
+  - folk
 ---
 
 ![](the_be_good_tanyas.jpg)

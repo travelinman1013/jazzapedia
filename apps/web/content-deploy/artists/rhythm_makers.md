@@ -3,33 +3,34 @@ biography_enhanced_at: '2026-01-11T02:23:52.765228'
 enhancement_provider: perplexity
 entry_created: '2026-01-11T02:23:52.765236'
 external_urls:
-  spotify: https://open.spotify.com/artist/0K8smM9fgJ7J5Y8lbFJEqh
+  spotify: 'https://open.spotify.com/artist/0K8smM9fgJ7J5Y8lbFJEqh'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/rhythm_makers.jpg
 last_updated: '2026-01-11T02:23:52.765238'
 musical_connections:
   collaborators:
-  - Keith "Sabu" Crier
-  - Herb Lane
-  - Kenny Banks
-  - Rahiem LeBlanc (aka Mr. Q)
-  - GQ
+    - Keith "Sabu" Crier
+    - Herb Lane
+    - Kenny Banks
+    - Rahiem LeBlanc (aka Mr. Q)
+    - GQ
   influenced: []
   mentors: []
 network_extracted: true
-origin: Bronx, New York City, New York, United States
+origin: 'Bronx, New York City, New York, United States'
 primary_source: perplexity
 research_sources:
-- https://recentmusic.com/artist/0K8smM9fgJ7J5Y8lbFJEqh/
-- https://www.allmusic.com/artist/rhythm-makers-mn0000472691
+  - 'https://recentmusic.com/artist/0K8smM9fgJ7J5Y8lbFJEqh/'
+  - 'https://www.allmusic.com/artist/rhythm-makers-mn0000472691'
 spotify_data:
   followers: 1088
   id: 0K8smM9fgJ7J5Y8lbFJEqh
   popularity: 12
-  url: https://open.spotify.com/artist/0K8smM9fgJ7J5Y8lbFJEqh
+  url: 'https://open.spotify.com/artist/0K8smM9fgJ7J5Y8lbFJEqh'
 status: active
-title: Rhythm Makers
+title: The Rhythm Makers
+artist_type: band
 ---
 
 ![](rhythm_makers.jpg)

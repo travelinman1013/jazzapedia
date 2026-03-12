@@ -4,7 +4,7 @@ wiki_slug: rosies-smokehouse-deluxe
 schema_version: 2
 status: active
 genres:
-- blues rock
+  - blues rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/rosies_smokehouse_deluxe.jpg
   caption: Rosie's Smokehouse Deluxe
@@ -16,7 +16,7 @@ audio_profile:
   danceability_avg: 0.578
   acousticness_avg: 0.046
   instrumentalness_avg: 0.015
-  loudness_avg: -6.0
+  loudness_avg: -6
   speechiness_avg: 0.049
   liveness_avg: 0.215
   track_count: 20
@@ -24,49 +24,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tony Moretta
-  - Gabor Szepesi
+    - Tony Moretta
+    - Gabor Szepesi
   influenced: []
   mentors:
-  - Motown Sound
-  - Alex Machin
+    - Motown Sound
+    - Alex Machin
 spotify_data:
   followers: 346
   id: 7E2plrE8k1QS6Yrd6dr9ao
   popularity: 5
-  url: https://open.spotify.com/artist/7E2plrE8k1QS6Yrd6dr9ao
+  url: 'https://open.spotify.com/artist/7E2plrE8k1QS6Yrd6dr9ao'
 discography_enriched: true
 top_tracks:
-- Please, Please Me (Welcome to the Smokehouse)
-- Welcome to the Smokehouse (Welcome to the Smokehouse)
-- Run Like the Wind (Welcome to the Smokehouse)
-- Gypsy Lady (Welcome to the Smokehouse)
-- Is It True (Welcome to the Smokehouse)
-- Faded Tattoo (Faded Tattoo)
-- Walkin' (Welcome to the Smokehouse)
-- Sunday Mournin' (Welcome to the Smokehouse)
-- Someday (Welcome to the Smokehouse)
-- Welcome To The Smokehouse (Welcome To The Smokehouse)
+  - 'Please, Please Me (Welcome to the Smokehouse)'
+  - Welcome to the Smokehouse (Welcome to the Smokehouse)
+  - Run Like the Wind (Welcome to the Smokehouse)
+  - Gypsy Lady (Welcome to the Smokehouse)
+  - Is It True (Welcome to the Smokehouse)
+  - Faded Tattoo (Faded Tattoo)
+  - Walkin' (Welcome to the Smokehouse)
+  - Sunday Mournin' (Welcome to the Smokehouse)
+  - Someday (Welcome to the Smokehouse)
+  - Welcome To The Smokehouse (Welcome To The Smokehouse)
 external_urls:
-  spotify: https://open.spotify.com/artist/7E2plrE8k1QS6Yrd6dr9ao
+  spotify: 'https://open.spotify.com/artist/7E2plrE8k1QS6Yrd6dr9ao'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/rosies_smokehouse_deluxe.jpg
 biography_enhanced_at: '2025-12-18T02:43:36.768953'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://rosiessmokehousedeluxe.com
-- https://orangevillebluesandjazz.ca/rosies-smokehouse-deluxe/
-- https://harbourstreetfishbar.com/event/rosies-smokehouse-deluxe/
-- https://www.prlog.org/13043939-momojo-records-announces-the-signing-of-rosies-smokehouse-deluxe.html
-- https://www.bandsintown.com/e/107620214-rosie's-smokehouse-deluxe-at-beacon-restaurant?came_from=209
-- https://tinnitist.com/2025/08/22/rosies-smokehouse-deluxe-show-you-their-faded-tattoo/
-- https://rosiessmokehousedeluxe.com/band-members
-- https://www.viberate.com/artist/rosies-smokehouse-deluxe/
+  - 'https://rosiessmokehousedeluxe.com'
+  - 'https://orangevillebluesandjazz.ca/rosies-smokehouse-deluxe/'
+  - 'https://harbourstreetfishbar.com/event/rosies-smokehouse-deluxe/'
+  - >-
+    https://www.prlog.org/13043939-momojo-records-announces-the-signing-of-rosies-smokehouse-deluxe.html
+  - >-
+    https://www.bandsintown.com/e/107620214-rosie's-smokehouse-deluxe-at-beacon-restaurant?came_from=209
+  - >-
+    https://tinnitist.com/2025/08/22/rosies-smokehouse-deluxe-show-you-their-faded-tattoo/
+  - 'https://rosiessmokehousedeluxe.com/band-members'
+  - 'https://www.viberate.com/artist/rosies-smokehouse-deluxe/'
 network_extracted: true
 entry_created: '2025-12-18T02:43:36.769011'
 last_updated: '2025-12-23T08:16:15.083251'
-origin: Detroit, Michigan, USA (origin of leader David G. Rose); Wasaga Beach, Ontario, Canada (current base)
+origin: >-
+  Detroit, Michigan, USA (origin of leader David G. Rose); Wasaga Beach,
+  Ontario, Canada (current base)
+birth_place: 'Detroit, Michigan, United States'
+artist_type: band
 ---
 
 ![](rosies_smokehouse_deluxe.jpg)

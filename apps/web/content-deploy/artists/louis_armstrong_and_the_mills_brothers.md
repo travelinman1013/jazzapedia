@@ -1,14 +1,15 @@
 ---
-title: LOUIS ARMSTRONG AND THE MILLS BROTHERS
+title: Louis Armstrong and The Mills Brothers
 wiki_slug: louis-armstrong-and-the-mills-brothers
 schema_version: 2
 status: active
 genres:
-- big band
-- adult standards
-- swing music
+  - big band
+  - adult standards
+  - swing music
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/louis_armstrong_and_the_mills_brothers.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/louis_armstrong_and_the_mills_brothers.jpg
   caption: LOUIS ARMSTRONG AND THE MILLS BROTHERS
   background: solo_singer
 audio_profile:
@@ -26,47 +27,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Louis Armstrong
-  - Bing Crosby
-  - Bernard Addison
+    - Louis Armstrong
+    - Bing Crosby
+    - Bernard Addison
   influenced:
-  - Bing Crosby
-  - Countless vocal harmony groups
+    - Bing Crosby
+    - Countless vocal harmony groups
   mentors:
-  - Duke Ellington
+    - Duke Ellington
 spotify_data:
   followers: 109873
   id: 5v8bwWRbu7AI3YFhzoM6Ha
   popularity: 46
-  url: https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha
+  url: 'https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha'
 discography_enriched: true
 top_tracks:
-- You Always Hurt The One You Love - 1958 version (Great Hits)
-- Nevertheless (I'm In Love With You) - 1958 version (Great Hits)
-- Paper Doll (Souvenir Album)
-- 'You Always Hurt The One You Love (The Anthology: 1931 - 1968)'
-- Till Then (Souvenir Album)
-- 'Till Then (The Anthology: 1931 - 1968)'
-- Till Then - 1958 version (Great Hits)
-- 'The Glow Worm - Single Version (The Anthology: 1931 - 1968)'
-- I'll Be Around - 1958 version (Great Hits)
-- Paper Doll (Paper Doll)
+  - You Always Hurt The One You Love - 1958 version (Great Hits)
+  - Nevertheless (I'm In Love With You) - 1958 version (Great Hits)
+  - Paper Doll (Souvenir Album)
+  - 'You Always Hurt The One You Love (The Anthology: 1931 - 1968)'
+  - Till Then (Souvenir Album)
+  - 'Till Then (The Anthology: 1931 - 1968)'
+  - Till Then - 1958 version (Great Hits)
+  - 'The Glow Worm - Single Version (The Anthology: 1931 - 1968)'
+  - I'll Be Around - 1958 version (Great Hits)
+  - Paper Doll (Paper Doll)
 external_urls:
-  spotify: https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha
-  wikipedia: https://en.wikipedia.org/wiki/The_Mills_Brothers
-image_path: 03_Resources/source_material/ArtistPortraits/louis_armstrong_and_the_mills_brothers.jpg
+  spotify: 'https://open.spotify.com/artist/5v8bwWRbu7AI3YFhzoM6Ha'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Mills_Brothers'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/louis_armstrong_and_the_mills_brothers.jpg
 biography_enhanced_at: '2025-11-14T11:02:08.761542'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://dippermouth.blogspot.com/2012/04/75-years-of-louis-armstrong-and-mills.html
-- https://en.wikipedia.org/wiki/The_Mills_Brothers
-- https://teachrock.org/people/mills-brothers/
-- https://rxmusic.com/editorial/unsung-musicians-the-mills-brothers/
+  - >-
+    https://dippermouth.blogspot.com/2012/04/75-years-of-louis-armstrong-and-mills.html
+  - 'https://en.wikipedia.org/wiki/The_Mills_Brothers'
+  - 'https://teachrock.org/people/mills-brothers/'
+  - 'https://rxmusic.com/editorial/unsung-musicians-the-mills-brothers/'
 network_extracted: true
 entry_created: '2025-11-14T11:02:08.761550'
 last_updated: '2025-12-23T08:16:12.234538'
-origin: Piqua, Ohio, United States
+origin: 'Piqua, Ohio, United States'
+birth_place: 'New Orleans, Louisiana, United States'
+birth_date: '1901'
+artist_type: band
 ---
 
 ![](louis_armstrong_and_the_mills_brothers.jpg)

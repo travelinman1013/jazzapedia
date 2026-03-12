@@ -7,59 +7,60 @@ disambiguation: US singer-songwriter/poet/bassist Michelle Lynn Johnson
 enhancement_provider: perplexity
 entry_created: '2025-12-30T01:28:04.360263'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/55a8b485-1cbf-47ee-ae15-d106200fafe8
-  spotify: https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj
-  wikipedia: https://en.wikipedia.org/wiki/Meshell_Ndegeocello
+  musicbrainz: 'https://musicbrainz.org/artist/55a8b485-1cbf-47ee-ae15-d106200fafe8'
+  spotify: 'https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj'
+  wikipedia: 'https://en.wikipedia.org/wiki/Meshell_Ndegeocello'
 gender: Female
 genres:
-- neo soul
+  - neo soul
 image_path: 03_Resources/source_material/ArtistPortraits/meshell_ndegeocello.jpg
 instruments:
-- electric bass guitar
-- bass guitar
-- guitar
-- Rhodes piano
-- spoken vocals
-- lead vocals
+  - electric bass guitar
+  - bass guitar
+  - guitar
+  - Rhodes piano
+  - spoken vocals
+  - lead vocals
 last_updated: '2025-12-30T01:28:04.360263'
 musical_connections:
   collaborators:
-  - John Mellencamp
-  - Madonna
-  - Chaka Khan
-  - The Rolling Stones
-  - Prince
-  - Robert Glasper
-  - Jason Moran
+    - John Mellencamp
+    - Madonna
+    - Chaka Khan
+    - The Rolling Stones
+    - Prince
+    - Robert Glasper
+    - Jason Moran
   influenced: []
   mentors:
-  - Jaco Pastorius
-  - Sting
-  - Family Man Barrett
-  - Stevie Wonder
+    - Jaco Pastorius
+    - Sting
+    - Family Man Barrett
+    - Stevie Wonder
 musicbrainz_id: 55a8b485-1cbf-47ee-ae15-d106200fafe8
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Meshell_Ndegeocello
-- https://www.blackalphabet.org/post/celebrating-meshell-ndegeocello-a-musical-virtuoso-for-black-history-month
-- https://coltranejazzfest.com/meshell-ndegeocello/
-- https://artscenter.vt.edu/performances/meshell-ndegeocello.html
-- https://www.bluenote.com/artist/meshell-ndegeocello/
-- https://www.thekurlandagency.com/materials/bios/MeshellNdegeocelloBio.pdf
-- https://holican.io/wiki/me-shell-ndegeocello
+  - 'https://en.wikipedia.org/wiki/Meshell_Ndegeocello'
+  - >-
+    https://www.blackalphabet.org/post/celebrating-meshell-ndegeocello-a-musical-virtuoso-for-black-history-month
+  - 'https://coltranejazzfest.com/meshell-ndegeocello/'
+  - 'https://artscenter.vt.edu/performances/meshell-ndegeocello.html'
+  - 'https://www.bluenote.com/artist/meshell-ndegeocello/'
+  - 'https://www.thekurlandagency.com/materials/bios/MeshellNdegeocelloBio.pdf'
+  - 'https://holican.io/wiki/me-shell-ndegeocello'
 spotify_data:
   followers: 231591
   id: 0uZRjholJ0fVC2J9EvnYnj
   popularity: 47
-  url: https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj
+  url: 'https://open.spotify.com/artist/0uZRjholJ0fVC2J9EvnYnj'
 status: active
 tags:
-- contemporary r&b
-- funk
-- jazz
+  - contemporary r&b
+  - funk
+  - jazz
 title: Meshell Ndegeocello
-
+origin: 'Washington, D.C., District of Columbia, United States'
 ---
 
 ![](meshell_ndegeocello.jpg)

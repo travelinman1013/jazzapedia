@@ -3,13 +3,17 @@ title: Frank Ocean
 wiki_slug: frank-ocean
 schema_version: 2
 status: active
-birth_place: Long Beach, California, United States (birthplace); New Orleans, Louisiana, United States (raised)
+birth_place: >-
+  Long Beach, California, United States (birthplace); New Orleans, Louisiana,
+  United States (raised)
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/frank_ocean.jpg
   caption: Frank Ocean
   background: solo_singer
-  origin: Long Beach, California, United States (birthplace); New Orleans, Louisiana, United States (raised)
+  origin: >-
+    Long Beach, California, United States (birthplace); New Orleans, Louisiana,
+    United States (raised)
 audio_profile:
   tempo_avg: 112.5
   energy_avg: 0.454
@@ -25,49 +29,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Odd Future
-  - Jay-Z & Kanye West
-  - John Mayer
+    - Odd Future
+    - Jay-Z & Kanye West
+    - John Mayer
   influenced:
-  - Steve Lacy
-  - Kevin Abstract
-  - SZA
+    - Steve Lacy
+    - Kevin Abstract
+    - SZA
   mentors:
-  - Tricky Stewart
-  - Tyler, the Creator
+    - Tricky Stewart
+    - 'Tyler, the Creator'
 spotify_data:
   followers: 20492578
   id: 2h93pZq0e7k5yf4dywlkpM
   popularity: 85
-  url: https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM
+  url: 'https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM'
 discography_enriched: true
 top_tracks:
-- Pink + White (Blonde)
-- White Ferrari (Blonde)
-- Thinkin Bout You (channel ORANGE)
-- Ivy (Blonde)
-- Lost (channel ORANGE)
-- Novacane
-- Pink Matter (channel ORANGE)
-- Nights (Blonde)
-- Pyramids (channel ORANGE)
-- Godspeed (Blonde)
+  - Pink + White (Blonde)
+  - White Ferrari (Blonde)
+  - Thinkin Bout You (channel ORANGE)
+  - Ivy (Blonde)
+  - Lost (channel ORANGE)
+  - Novacane
+  - Pink Matter (channel ORANGE)
+  - Nights (Blonde)
+  - Pyramids (channel ORANGE)
+  - Godspeed (Blonde)
 external_urls:
-  spotify: https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM
-  wikipedia: https://en.wikipedia.org/wiki/Frank_Ocean
+  spotify: 'https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM'
+  wikipedia: 'https://en.wikipedia.org/wiki/Frank_Ocean'
 image_path: 03_Resources/source_material/ArtistPortraits/frank_ocean.jpg
 biography_enhanced_at: '2025-11-26T07:42:58.141185'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Frank_Ocean
-- https://www.biography.com/musicians/frank-ocean
-- https://highschool.latimes.com/arts-and-entertainment/ghostwriter-to-coachella-headliner/
-- https://kids.kiddle.co/Frank_Ocean
-- https://www.jukeboxy.com/blog/frank-ocean-the-enigmatic-music-genius/
+  - 'https://en.wikipedia.org/wiki/Frank_Ocean'
+  - 'https://www.biography.com/musicians/frank-ocean'
+  - >-
+    https://highschool.latimes.com/arts-and-entertainment/ghostwriter-to-coachella-headliner/
+  - 'https://kids.kiddle.co/Frank_Ocean'
+  - 'https://www.jukeboxy.com/blog/frank-ocean-the-enigmatic-music-genius/'
 network_extracted: true
 entry_created: '2025-11-26T07:42:58.141197'
 last_updated: '2025-12-23T08:16:08.754288'
+birth_date: '1987-10-28'
+artist_type: person
 ---
 
 ![](frank_ocean.jpg)

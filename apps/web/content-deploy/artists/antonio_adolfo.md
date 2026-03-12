@@ -1,54 +1,55 @@
 ---
 biography_enhanced_at: '2025-12-28T01:54:16.238259'
-birth_place: Rio de Janeiro, Brazil
+birth_place: 'Rio de Janeiro, Brazil'
 enhancement_provider: perplexity
 entry_created: '2025-12-28T01:54:16.238269'
 external_urls:
-  spotify: https://open.spotify.com/artist/41ZdHyHrzKwE6Y8dtDQ1Q9
+  spotify: 'https://open.spotify.com/artist/41ZdHyHrzKwE6Y8dtDQ1Q9'
   wikipedia: ''
 genres:
-- brazilian jazz
-- latin jazz
-- bossa nova
+  - brazilian jazz
+  - latin jazz
+  - bossa nova
 image_path: 03_Resources/source_material/ArtistPortraits/antonio_adolfo.jpg
 last_updated: '2025-12-28T01:54:16.238270'
 musical_connections:
   collaborators:
-  - Leny Andrade
-  - Carlos Lyra
-  - Flora Purim
-  - Wilson Simonal
-  - Elis Regina
-  - Milton Nascimento
-  - Carol Saboya
-  - Nilson Chaves
-  - Vital Lima
-  - Pascoal Meirelles
-  - Hélio Delmiro
+    - Leny Andrade
+    - Carlos Lyra
+    - Flora Purim
+    - Wilson Simonal
+    - Elis Regina
+    - Milton Nascimento
+    - Carol Saboya
+    - Nilson Chaves
+    - Vital Lima
+    - Pascoal Meirelles
+    - Hélio Delmiro
   influenced: []
   mentors:
-  - Eumir Deodato
-  - Nadia Boulanger
-  - Amyrton Vallim
-  - Werther Politano
-  - Wilma Graça
-  - Paulina D'Ambrozzio
-  - Guerra Peixe
-  - Esther Scliar
+    - Eumir Deodato
+    - Nadia Boulanger
+    - Amyrton Vallim
+    - Werther Politano
+    - Wilma Graça
+    - Paulina D'Ambrozzio
+    - Guerra Peixe
+    - Esther Scliar
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://antonioadolfomusic.com/short-bio/
-- https://www.last.fm/music/Antonio+Adolfo/+wiki
-- https://www.allaboutjazz.com/musicians/antonio-adolfo/
-- https://jazzjournal.co.uk/2024/08/22/antonio-adolfo-love-cole-porter/
+  - 'https://antonioadolfomusic.com/short-bio/'
+  - 'https://www.last.fm/music/Antonio+Adolfo/+wiki'
+  - 'https://www.allaboutjazz.com/musicians/antonio-adolfo/'
+  - 'https://jazzjournal.co.uk/2024/08/22/antonio-adolfo-love-cole-porter/'
 spotify_data:
   followers: 15241
   id: 41ZdHyHrzKwE6Y8dtDQ1Q9
   popularity: 33
-  url: https://open.spotify.com/artist/41ZdHyHrzKwE6Y8dtDQ1Q9
+  url: 'https://open.spotify.com/artist/41ZdHyHrzKwE6Y8dtDQ1Q9'
 status: active
 title: Antonio Adolfo
+artist_type: person
 ---
 
 ![](antonio_adolfo.jpg)

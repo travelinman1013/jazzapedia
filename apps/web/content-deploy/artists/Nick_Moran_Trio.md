@@ -2,17 +2,17 @@
 title: Nick Osman Trio
 wiki_slug: nick-osman-trio
 schema_version: 2
-artist_type: Group
+artist_type: person
 status: active
 aliases: []
 years_active: 2011–present
 genres:
-- brazilian jazz
-- jazz
+  - brazilian jazz
+  - jazz
 instruments:
-- piano
+  - piano
 occupation:
-- pianist
+  - pianist
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Nick_Osman_Trio.jpg
   caption: Nick Osman Trio
@@ -32,59 +32,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Nick Morrison
-  - Chris Benham
+    - Nick Morrison
+    - Chris Benham
   influenced: []
   mentors:
-  - Ron Carter
-  - Grant Green
-  - Wes Montgomery
-  - Lee Ritenour
+    - Ron Carter
+    - Grant Green
+    - Wes Montgomery
+    - Lee Ritenour
 related_artists: []
 spotify_data:
   followers: 716
   id: 2Al01GKqZ47q0irdqBXMQr
   popularity: 44
-  url: https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr
+  url: 'https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr'
   verified: false
 discography_enriched: true
 albums_count: 0
 singles_count: 12
 top_tracks:
-- '''Round Midnight (''Round Midnight)'
-- Baubles, Bangles & Beads (Baubles, Bangles & Beads)
-- I Saw The Sun (I Saw The Sun)
-- Rio (Rio)
-- Where Are You? (Where Are You?)
-- Polka Dots And Moonbeams (Polka Dots And Moonbeams)
-- Holiday Fun (Holiday Fun)
-- Out of This World (Out of This World)
-- First Trip (Rio)
-- When Lights Are Low (When Lights Are Low)
+  - '''Round Midnight (''Round Midnight)'
+  - 'Baubles, Bangles & Beads (Baubles, Bangles & Beads)'
+  - I Saw The Sun (I Saw The Sun)
+  - Rio (Rio)
+  - Where Are You? (Where Are You?)
+  - Polka Dots And Moonbeams (Polka Dots And Moonbeams)
+  - Holiday Fun (Holiday Fun)
+  - Out of This World (Out of This World)
+  - First Trip (Rio)
+  - When Lights Are Low (When Lights Are Low)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d00cdaf7-db15-4325-bdc7-428753f88ee4
-  spotify: https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr
-  wikipedia: https://en.wikipedia.org/wiki/Nick_Sanders_(musician)
+  musicbrainz: 'https://musicbrainz.org/artist/d00cdaf7-db15-4325-bdc7-428753f88ee4'
+  spotify: 'https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr'
+  wikipedia: 'https://en.wikipedia.org/wiki/Nick_Sanders_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/Nick_Osman_Trio.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:21:10.020819'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://nickmoranmusic.com/about
-- https://www.allaboutjazz.com/musicians/nick-moran/
-- https://somethingelsereviews.com/2012/03/01/half-notes-nick-moran-trio-no-time-like-now-2012/
-- https://www.seaoftranquility.org/reviews.php?op=showcontent&id=12248
+  - 'https://nickmoranmusic.com/about'
+  - 'https://www.allaboutjazz.com/musicians/nick-moran/'
+  - >-
+    https://somethingelsereviews.com/2012/03/01/half-notes-nick-moran-trio-no-time-like-now-2012/
+  - 'https://www.seaoftranquility.org/reviews.php?op=showcontent&id=12248'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:41:00.349280
+entry_created: 2025-09-22T21:41:00.349Z
 last_updated: '2025-12-23T08:16:03.454722'
 musicbrainz_enriched_at: '2025-10-21T09:39:45.438078'
 musicbrainz_id: d00cdaf7-db15-4325-bdc7-428753f88ee4
-origin: New York City, New York, USA
+origin: 'New York City, New York, United States'
 tags:
-- ambient
-- jazz
+  - ambient
+  - jazz
 ---
 
 ![](Nick_Osman_Trio.jpg)

@@ -1,129 +1,131 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2975691d-e859-456c-b9f0-4c2f7c7b1d7c
-  name: Bobby Hutcherson-Harold Land Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f61e6cdd-cfe1-46c7-bb24-d71ba44d8d2f
-  name: M'Boom
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  - original
-  mbid: 7a2b73d1-473a-4c8c-9102-91f1aa536c75
-  name: Onilu
-- begin: ''
-  end: ''
-  instruments:
-  - congas
-  - original
-  mbid: 7a2b73d1-473a-4c8c-9102-91f1aa536c75
-  name: Onilu
-- begin: ''
-  end: ''
-  instruments:
-  - marimba
-  - original
-  mbid: 7a2b73d1-473a-4c8c-9102-91f1aa536c75
-  name: Onilu
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  - vibraphone
-  mbid: 7a2b73d1-473a-4c8c-9102-91f1aa536c75
-  name: Onilu
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  - shekere
-  mbid: 7a2b73d1-473a-4c8c-9102-91f1aa536c75
-  name: Onilu
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  - percussion idiophone
-  mbid: 7a2b73d1-473a-4c8c-9102-91f1aa536c75
-  name: Onilu
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 02a48768-ed75-40ed-962b-88fef9798813
-  name: David Murray Trio
-- begin: ''
-  end: ''
-  instruments:
-  - vibraphone
-  mbid: 02a48768-ed75-40ed-962b-88fef9798813
-  name: David Murray Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2975691d-e859-456c-b9f0-4c2f7c7b1d7c
+    name: Bobby Hutcherson-Harold Land Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f61e6cdd-cfe1-46c7-bb24-d71ba44d8d2f
+    name: M'Boom
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+      - original
+    mbid: 7a2b73d1-473a-4c8c-9102-91f1aa536c75
+    name: Onilu
+  - begin: ''
+    end: ''
+    instruments:
+      - congas
+      - original
+    mbid: 7a2b73d1-473a-4c8c-9102-91f1aa536c75
+    name: Onilu
+  - begin: ''
+    end: ''
+    instruments:
+      - marimba
+      - original
+    mbid: 7a2b73d1-473a-4c8c-9102-91f1aa536c75
+    name: Onilu
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - vibraphone
+    mbid: 7a2b73d1-473a-4c8c-9102-91f1aa536c75
+    name: Onilu
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - shekere
+    mbid: 7a2b73d1-473a-4c8c-9102-91f1aa536c75
+    name: Onilu
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - percussion idiophone
+    mbid: 7a2b73d1-473a-4c8c-9102-91f1aa536c75
+    name: Onilu
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 02a48768-ed75-40ed-962b-88fef9798813
+    name: David Murray Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - vibraphone
+    mbid: 02a48768-ed75-40ed-962b-88fef9798813
+    name: David Murray Trio
 biography_enhanced_at: '2026-01-20T01:25:23.218321'
 birth_date: '1942-06-25'
-birth_place: Chester
-disambiguation: American jazz drummer, vibraphonist and pianist
+birth_place: 'Stoneacre, Virginia, United States'
+disambiguation: 'American jazz drummer, vibraphonist and pianist'
 enhancement_provider: perplexity
 entry_created: '2026-01-20T01:25:23.218327'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/74061fae-e2c8-4fea-92b9-b03012cc81ef
-  spotify: https://open.spotify.com/artist/0umoeIflP3pWEefnX9lvx4
-  wikipedia: https://en.wikipedia.org/wiki/Joe_Chambers
+  musicbrainz: 'https://musicbrainz.org/artist/74061fae-e2c8-4fea-92b9-b03012cc81ef'
+  spotify: 'https://open.spotify.com/artist/0umoeIflP3pWEefnX9lvx4'
+  wikipedia: 'https://en.wikipedia.org/wiki/Joe_Chambers'
 gender: Male
 genres:
-- jazz
-- hard bop
+  - jazz
+  - hard bop
 image_path: 03_Resources/source_material/ArtistPortraits/joe_chambers.jpg
 instruments:
-- drums (drum set)
-- original
-- congas
-- marimba
-- vibraphone
-- shekere
-- percussion idiophone
+  - drums (drum set)
+  - original
+  - congas
+  - marimba
+  - vibraphone
+  - shekere
+  - percussion idiophone
 last_updated: '2026-01-20T01:25:23.218328'
 musical_connections:
   collaborators:
-  - Freddie Hubbard
-  - Bobby Hutcherson
-  - Wayne Shorter
-  - Chick Corea
-  - Charles Mingus
-  - Max Roach
-  - Tommy Flanagan
-  - Reggie Workman
+    - Freddie Hubbard
+    - Bobby Hutcherson
+    - Wayne Shorter
+    - Chick Corea
+    - Charles Mingus
+    - Max Roach
+    - Tommy Flanagan
+    - Reggie Workman
   influenced: []
   mentors:
-  - Max Roach
-  - Philly Joe Jones
-  - Elvin Jones
+    - Max Roach
+    - Philly Joe Jones
+    - Elvin Jones
 musicbrainz_id: 74061fae-e2c8-4fea-92b9-b03012cc81ef
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Joe_Chambers
-- https://www.knkx.org/jazz/drummer-joe-chambers-evolution-from-session-player-to-band-leader
-- https://www.josephachambers.com/?page_id=2
-- https://www.bluenote.com/artist/joe-chambers/
-- https://www.namm.org/library/oral-history/joe-chambers
+  - 'https://en.wikipedia.org/wiki/Joe_Chambers'
+  - >-
+    https://www.knkx.org/jazz/drummer-joe-chambers-evolution-from-session-player-to-band-leader
+  - 'https://www.josephachambers.com/?page_id=2'
+  - 'https://www.bluenote.com/artist/joe-chambers/'
+  - 'https://www.namm.org/library/oral-history/joe-chambers'
 spotify_data:
   followers: 5034
   id: 0umoeIflP3pWEefnX9lvx4
   popularity: 23
-  url: https://open.spotify.com/artist/0umoeIflP3pWEefnX9lvx4
+  url: 'https://open.spotify.com/artist/0umoeIflP3pWEefnX9lvx4'
 status: active
 tags:
-- jazz
-- jazz fusion
-- modal jazz
-title: JOE CHAMBERS
+  - jazz
+  - jazz fusion
+  - modal jazz
+title: Joe Chambers
+origin: 'Chester, Pennsylvania, United States'
 ---
 
 ![](joe_chambers.jpg)

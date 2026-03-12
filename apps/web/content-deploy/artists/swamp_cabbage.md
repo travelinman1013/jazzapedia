@@ -1,16 +1,16 @@
 ---
-title: swamp cabbage
+title: Swamp Cabbage
 wiki_slug: swamp-cabbage
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '2003'
 genres:
-- blues rock
-- blues
-- southern rock
+  - blues rock
+  - blues
+  - southern rock
 instruments:
-- membranophone
+  - membranophone
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/swamp_cabbage.jpg
   caption: swamp cabbage
@@ -23,7 +23,7 @@ audio_profile:
   danceability_avg: 0.612
   acousticness_avg: 0.279
   instrumentalness_avg: 0.336
-  loudness_avg: -8.0
+  loudness_avg: -8
   speechiness_avg: 0.041
   liveness_avg: 0.142
   track_count: 45
@@ -31,62 +31,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Matt Lindsey
-  - Jagoda
+    - Matt Lindsey
+    - Jagoda
   influenced: []
   mentors:
-  - Richie Havens
+    - Richie Havens
 spotify_data:
   followers: 1436
   id: 5h0b0FSoULRSchKT8MGQp5
   popularity: 6
-  url: https://open.spotify.com/artist/5h0b0FSoULRSchKT8MGQp5
+  url: 'https://open.spotify.com/artist/5h0b0FSoULRSchKT8MGQp5'
 discography_enriched: true
 top_tracks:
-- Tallahassee (Honk)
-- Jesus Tone (Squeal)
-- Feedbag (Squeal)
-- The Lid (Honk)
-- More Booty With Buddha (Honk)
-- If A Thing Feels Right (Honk)
-- The Dipstick Rag (Honk)
-- Silver Meteor (Honk)
-- Butta (Jive)
-- The Hodown Town - Katy (Honk)
+  - Tallahassee (Honk)
+  - Jesus Tone (Squeal)
+  - Feedbag (Squeal)
+  - The Lid (Honk)
+  - More Booty With Buddha (Honk)
+  - If A Thing Feels Right (Honk)
+  - The Dipstick Rag (Honk)
+  - Silver Meteor (Honk)
+  - Butta (Jive)
+  - The Hodown Town - Katy (Honk)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3a51e6ba-dff1-4dbb-adb5-3464323265c6
-  spotify: https://open.spotify.com/artist/5h0b0FSoULRSchKT8MGQp5
+  musicbrainz: 'https://musicbrainz.org/artist/3a51e6ba-dff1-4dbb-adb5-3464323265c6'
+  spotify: 'https://open.spotify.com/artist/5h0b0FSoULRSchKT8MGQp5'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/swamp_cabbage.jpg
 biography_enhanced_at: '2025-10-25T10:14:01.428066'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.walterparks.com/swamp-cabbage
-- https://www.allmusic.com/artist/swamp-cabbage-mn0000513024
-- http://www.grassyhillentertainment.com/swampcabbage_onesheet.pdf
+  - 'https://www.walterparks.com/swamp-cabbage'
+  - 'https://www.allmusic.com/artist/swamp-cabbage-mn0000513024'
+  - 'http://www.grassyhillentertainment.com/swampcabbage_onesheet.pdf'
 network_extracted: true
 entry_created: '2025-10-25T10:14:01.428079'
 last_updated: '2025-12-23T08:16:16.282763'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - membranophone
-  mbid: 6629beae-4526-4649-aa4f-4ff57e02a0ae
-  name: Jagoda
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: fa05934d-e975-4a51-9968-3e406799c4e4
-  name: Matt Lindsey
+  - begin: ''
+    end: ''
+    instruments:
+      - membranophone
+    mbid: 6629beae-4526-4649-aa4f-4ff57e02a0ae
+    name: Jagoda
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: fa05934d-e975-4a51-9968-3e406799c4e4
+    name: Matt Lindsey
 musicbrainz_id: 3a51e6ba-dff1-4dbb-adb5-3464323265c6
-origin: Florida
+origin: 'Florida, United States'
 tags:
-- blues rock
-- boogaloo blues
-- southern rock
-
+  - blues rock
+  - boogaloo blues
+  - southern rock
 ---
 
 ![](swamp_cabbage.jpg)

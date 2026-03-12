@@ -4,8 +4,8 @@ wiki_slug: the-delines
 schema_version: 2
 status: active
 genres:
-- alt country
-- americana
+  - alt country
+  - americana
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_delines.jpg
   caption: The Delines
@@ -17,7 +17,7 @@ audio_profile:
   danceability_avg: 0.594
   acousticness_avg: 0.566
   instrumentalness_avg: 0.235
-  loudness_avg: -12.0
+  loudness_avg: -12
   speechiness_avg: 0.036
   liveness_avg: 0.14
   track_count: 49
@@ -25,49 +25,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Willy Vlautin
-  - Sean Oldham
-  - Freddy Trujillo
-  - Cory Gray
-  - Jenny Conlee
-  - John Morgan Askew
+    - Willy Vlautin
+    - Sean Oldham
+    - Freddy Trujillo
+    - Cory Gray
+    - Jenny Conlee
+    - John Morgan Askew
   influenced: []
   mentors: []
 spotify_data:
   followers: 17485
   id: 0SRMBXTBnSm9Jmy24gqggg
   popularity: 32
-  url: https://open.spotify.com/artist/0SRMBXTBnSm9Jmy24gqggg
+  url: 'https://open.spotify.com/artist/0SRMBXTBnSm9Jmy24gqggg'
 discography_enriched: true
 top_tracks:
-- Mr. Luck & Ms. Doom (Mr. Luck & Ms. Doom)
-- The Oil Rigs at Night (Colfax)
-- Her Ponyboy (Mr. Luck & Ms. Doom)
-- Left Hook Like Frazier (Mr. Luck & Ms. Doom)
-- Sitting On The Curb (Mr. Luck & Ms. Doom)
-- The Haunting Thoughts (Mr. Luck & Ms. Doom)
-- Maureen's Gone Missing (Mr. Luck & Ms. Doom)
-- There's Nothing Down The Highway (Mr. Luck & Ms. Doom)
-- Don't Miss Your Bus Lorraine (Mr. Luck & Ms. Doom)
-- Hold Me Slow (The Sea Drift)
+  - Mr. Luck & Ms. Doom (Mr. Luck & Ms. Doom)
+  - The Oil Rigs at Night (Colfax)
+  - Her Ponyboy (Mr. Luck & Ms. Doom)
+  - Left Hook Like Frazier (Mr. Luck & Ms. Doom)
+  - Sitting On The Curb (Mr. Luck & Ms. Doom)
+  - The Haunting Thoughts (Mr. Luck & Ms. Doom)
+  - Maureen's Gone Missing (Mr. Luck & Ms. Doom)
+  - There's Nothing Down The Highway (Mr. Luck & Ms. Doom)
+  - Don't Miss Your Bus Lorraine (Mr. Luck & Ms. Doom)
+  - Hold Me Slow (The Sea Drift)
 external_urls:
-  spotify: https://open.spotify.com/artist/0SRMBXTBnSm9Jmy24gqggg
+  spotify: 'https://open.spotify.com/artist/0SRMBXTBnSm9Jmy24gqggg'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/the_delines.jpg
 biography_enhanced_at: '2025-12-20T01:14:38.551287'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://kilkennyroots.com/archive/the-delines/
-- https://rockandrollglobe.com/soul/the-delines-two-if-by-sea/
-- https://www.pastemagazine.com/music/the-delines/interview-the-sea-drift
-- https://posttowire.com/2023/06/07/interview-the-delines/
-- https://americana-uk.com/black-deer-festival-interview-the-delines-discuss-the-touring-life-and-new-music-on-the-way
-- https://thebluegrasssituation.com/read/bgs-55-the-delines/
+  - 'https://kilkennyroots.com/archive/the-delines/'
+  - 'https://rockandrollglobe.com/soul/the-delines-two-if-by-sea/'
+  - 'https://www.pastemagazine.com/music/the-delines/interview-the-sea-drift'
+  - 'https://posttowire.com/2023/06/07/interview-the-delines/'
+  - >-
+    https://americana-uk.com/black-deer-festival-interview-the-delines-discuss-the-touring-life-and-new-music-on-the-way
+  - 'https://thebluegrasssituation.com/read/bgs-55-the-delines/'
 network_extracted: true
 entry_created: '2025-12-20T01:14:38.551302'
 last_updated: '2025-12-23T08:16:16.711966'
-origin: Portland, Oregon, USA
+origin: 'Portland, Oregon, USA'
+artist_type: band
 ---
 
 ![](the_delines.jpg)

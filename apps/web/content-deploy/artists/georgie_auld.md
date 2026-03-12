@@ -5,46 +5,46 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1919-05-19'
-birth_place: Toronto
+birth_place: 'Toronto, Ontario, Canada'
 death_date: '1990-01-08'
 genres:
-- bebop
-- big band
-- swing music
+  - bebop
+  - big band
+  - swing music
 instruments:
-- tenor saxophone
-- original
-- alto saxophone
-associated_acts:
-- begin: '1940'
-  end: ''
-  instruments:
   - tenor saxophone
-  mbid: 82eb0cc2-84be-44b2-8b5d-543e3a1a4003
-  name: The Benny Goodman Sextet
-- begin: ''
-  end: ''
-  instruments:
   - original
-  mbid: c093958f-17cb-4d5f-92db-1b15d92fdb6a
-  name: Georgie Auld & His Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 668573a7-9352-464d-aef4-7e9a318b46d3
-  name: The Blues Band
-- begin: ''
-  end: ''
-  instruments:
   - alto saxophone
-  mbid: 84df9464-a95c-45da-8b8c-8be72cf9368a
-  name: The Georgie Auld Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - tenor saxophone
-  mbid: 84df9464-a95c-45da-8b8c-8be72cf9368a
-  name: The Georgie Auld Quintet
+associated_acts:
+  - begin: '1940'
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: 82eb0cc2-84be-44b2-8b5d-543e3a1a4003
+    name: The Benny Goodman Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: c093958f-17cb-4d5f-92db-1b15d92fdb6a
+    name: Georgie Auld & His Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 668573a7-9352-464d-aef4-7e9a318b46d3
+    name: The Blues Band
+  - begin: ''
+    end: ''
+    instruments:
+      - alto saxophone
+    mbid: 84df9464-a95c-45da-8b8c-8be72cf9368a
+    name: The Georgie Auld Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: 84df9464-a95c-45da-8b8c-8be72cf9368a
+    name: The Georgie Auld Quintet
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/georgie_auld.jpg
   caption: Georgie Auld
@@ -67,58 +67,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bunny Berigan
-  - Artie Shaw
-  - Benny Goodman
-  - Erroll Garner
-  - Dizzy Gillespie
-  - Billy Eckstine
-  - Frank Rosolino
+    - Bunny Berigan
+    - Artie Shaw
+    - Benny Goodman
+    - Erroll Garner
+    - Dizzy Gillespie
+    - Billy Eckstine
+    - Frank Rosolino
   influenced:
-  - Al Porcino
-  - Tiny Kahn
+    - Al Porcino
+    - Tiny Kahn
   mentors:
-  - Coleman Hawkins
+    - Coleman Hawkins
 spotify_data:
   followers: 625
   id: 7EjhAMl9ws3ielUFZ5OoiF
   popularity: 3
-  url: https://open.spotify.com/artist/7EjhAMl9ws3ielUFZ5OoiF
+  url: 'https://open.spotify.com/artist/7EjhAMl9ws3ielUFZ5OoiF'
 discography_enriched: true
 top_tracks:
-- You're My Thrill
-- Gone with the Draft (Let's Jump)
-- All Or Nothing At All - Remastered
-- Taking a Chance on Love (Saxophone Masters 1951-1962)
-- I Can't Give You Anything but Love (Let's Jump)
-- Blue and Sentimental (Quintet & Septet 1951-1963)
-- Everything Happens to Me (Saxophone Masters 1951-1962)
-- Blue and Sentimental
-- Bucks County Bounce (Jazz for Commuters / Salute to the Saxes)
-- All Too Soon (Jazz for Commuters / Salute to the Saxes)
+  - You're My Thrill
+  - Gone with the Draft (Let's Jump)
+  - All Or Nothing At All - Remastered
+  - Taking a Chance on Love (Saxophone Masters 1951-1962)
+  - I Can't Give You Anything but Love (Let's Jump)
+  - Blue and Sentimental (Quintet & Septet 1951-1963)
+  - Everything Happens to Me (Saxophone Masters 1951-1962)
+  - Blue and Sentimental
+  - Bucks County Bounce (Jazz for Commuters / Salute to the Saxes)
+  - All Too Soon (Jazz for Commuters / Salute to the Saxes)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d2de9fbd-1cdf-4212-b5ee-f830f69521de
-  spotify: https://open.spotify.com/artist/7EjhAMl9ws3ielUFZ5OoiF
-  wikipedia: https://en.wikipedia.org/wiki/Georgie_Auld
+  musicbrainz: 'https://musicbrainz.org/artist/d2de9fbd-1cdf-4212-b5ee-f830f69521de'
+  spotify: 'https://open.spotify.com/artist/7EjhAMl9ws3ielUFZ5OoiF'
+  wikipedia: 'https://en.wikipedia.org/wiki/Georgie_Auld'
 image_path: 03_Resources/source_material/ArtistPortraits/georgie_auld.jpg
 biography_enhanced_at: '2025-11-03T07:31:59.949325'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://fromthevaults-boppinbob.blogspot.com/2019/05/georgie-auld-born-19-may-1919.html
-- https://www.allaboutjazz.com/musicians/georgie-auld/
-- https://en.wikipedia.org/wiki/Georgie_Auld
-- https://www.swingcityradio.com/p/georgie-auld.html
-- https://www.latimes.com/archives/la-xpm-1990-01-11-mn-16-story.html
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2019/05/georgie-auld-born-19-may-1919.html
+  - 'https://www.allaboutjazz.com/musicians/georgie-auld/'
+  - 'https://en.wikipedia.org/wiki/Georgie_Auld'
+  - 'https://www.swingcityradio.com/p/georgie-auld.html'
+  - 'https://www.latimes.com/archives/la-xpm-1990-01-11-mn-16-story.html'
 network_extracted: true
 entry_created: '2025-11-03T07:31:59.949337'
 last_updated: '2025-12-23T08:16:09.137686'
 gender: Male
 musicbrainz_id: d2de9fbd-1cdf-4212-b5ee-f830f69521de
 tags:
-- jazz
-- swing
-
+  - jazz
+  - swing
+is_active: false
+origin: 'Brooklyn, New York, United States'
 ---
 
 ![](georgie_auld.jpg)

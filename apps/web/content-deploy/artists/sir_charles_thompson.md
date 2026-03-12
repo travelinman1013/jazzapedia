@@ -1,80 +1,84 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 1837f882-0cd1-4f61-849c-43a5d00f237d
-  name: Sir Charles Thompson & His All Stars
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e7170545-67b7-4e0b-b791-f49332a0f3f4
-  name: The Jimmy Rushing All Stars
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  - piano
-  mbid: 9e1d96f6-f001-4e35-8f47-49a03cb83ed0
-  name: Sir Charles Thompson and His Band
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 1837f882-0cd1-4f61-849c-43a5d00f237d
+    name: Sir Charles Thompson & His All Stars
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e7170545-67b7-4e0b-b791-f49332a0f3f4
+    name: The Jimmy Rushing All Stars
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - piano
+    mbid: 9e1d96f6-f001-4e35-8f47-49a03cb83ed0
+    name: Sir Charles Thompson and His Band
 biography_enhanced_at: '2026-01-19T01:03:10.401193'
 birth_date: '1918-03-21'
-birth_place: Springfield
+birth_place: 'Springfield, Ohio, United States'
 death_date: '2016-06-16'
 disambiguation: jazz
 enhancement_provider: perplexity
 entry_created: '2026-01-19T01:03:10.401199'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/15972619-2cb8-4187-8581-14002aa8d5f5
-  spotify: https://open.spotify.com/artist/6aIujgMtILzJ0EgbRD1eQI
+  musicbrainz: 'https://musicbrainz.org/artist/15972619-2cb8-4187-8581-14002aa8d5f5'
+  spotify: 'https://open.spotify.com/artist/6aIujgMtILzJ0EgbRD1eQI'
   wikipedia: Not found in search results
 gender: Male
 genres:
-- bebop
-- jazz
-- boogie-woogie
+  - bebop
+  - jazz
+  - boogie-woogie
 image_path: 03_Resources/source_material/ArtistPortraits/sir_charles_thompson.jpg
 instruments:
-- original
-- eponymous
-- piano
+  - original
+  - eponymous
+  - piano
 last_updated: '2026-01-19T01:03:10.401200'
 musical_connections:
   collaborators:
-  - Illinois Jacquet
-  - Charlie Parker
-  - Coleman Hawkins and Howard McGhee
-  - Buck Clayton
-  - Dexter Gordon
+    - Illinois Jacquet
+    - Charlie Parker
+    - Coleman Hawkins and Howard McGhee
+    - Buck Clayton
+    - Dexter Gordon
   influenced: []
   mentors:
-  - Count Basie
-  - Lester Young
-  - John Hammond
+    - Count Basie
+    - Lester Young
+    - John Hammond
 musicbrainz_id: 15972619-2cb8-4187-8581-14002aa8d5f5
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.nepm.org/jazz-world/2022-12-13/sir-charles-thompson-r-i-p
-- https://syncopatedtimes.com/sir-charles-thompson-98/
-- https://www.bluenote.com/artist/sir-charles-thompson/
-- https://www.thisbevosjazz.com/jazz-archives/sir-charges-thompson-robbins-nest
-- https://wbssmedia.com/artists/detail/405
-- https://www.allaboutjazz.com/sir-charles-thompson-sir-charles-thompson-by-mitchell-seidel
+  - 'https://www.nepm.org/jazz-world/2022-12-13/sir-charles-thompson-r-i-p'
+  - 'https://syncopatedtimes.com/sir-charles-thompson-98/'
+  - 'https://www.bluenote.com/artist/sir-charles-thompson/'
+  - >-
+    https://www.thisbevosjazz.com/jazz-archives/sir-charges-thompson-robbins-nest
+  - 'https://wbssmedia.com/artists/detail/405'
+  - >-
+    https://www.allaboutjazz.com/sir-charles-thompson-sir-charles-thompson-by-mitchell-seidel
 spotify_data:
   followers: 513
   id: 6aIujgMtILzJ0EgbRD1eQI
   popularity: 5
-  url: https://open.spotify.com/artist/6aIujgMtILzJ0EgbRD1eQI
+  url: 'https://open.spotify.com/artist/6aIujgMtILzJ0EgbRD1eQI'
 status: active
 tags:
-- bebop
-- jazz
-- swing
+  - bebop
+  - jazz
+  - swing
 title: Sir Charles Thompson
+is_active: false
+origin: 'Colorado Springs, Colorado, United States'
 ---
 
 ![](sir_charles_thompson.jpg)

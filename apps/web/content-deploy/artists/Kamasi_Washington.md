@@ -2,21 +2,21 @@
 title: Kamasi Washington
 wiki_slug: kamasi-washington
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1981-02-18'
-birth_place: Los Angeles, California, United States
+birth_place: 'Los Angeles, California, United States'
 genres:
-- jazz
-- nu jazz
+  - jazz
+  - nu jazz
 instruments:
-- tenor saxophone
+  - tenor saxophone
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Kamasi_Washington.jpg
   caption: Kamasi Washington
   background: non_vocal_instrumentalist
   born: '1981-02-18'
-  origin: Los Angeles, California, United States
+  origin: 'Los Angeles, California, United States'
 audio_profile:
   tempo_avg: 115.3
   energy_avg: 0.631
@@ -32,53 +32,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Stephen 'Thundercat' Bruner
-  - Ronald Bruner Jr.
-  - Terrace Martin
-  - Robert Glasper
-  - Kendrick Lamar
-  - Herbie Hancock
+    - Stephen 'Thundercat' Bruner
+    - Ronald Bruner Jr.
+    - Terrace Martin
+    - Robert Glasper
+    - Kendrick Lamar
+    - Herbie Hancock
   influenced:
-  - Flying Lotus
-  - Younger members of West Coast Get Down
-  - Emerging jazz musicians
+    - Flying Lotus
+    - Younger members of West Coast Get Down
+    - Emerging jazz musicians
   mentors:
-  - Rickey Washington
-  - Reggie Andrews
-  - Kenny Burrell & Billy Higgins
+    - Rickey Washington
+    - Reggie Andrews
+    - Kenny Burrell & Billy Higgins
 spotify_data:
   followers: 527222
   id: 6HQYnRM4OzToCYPpVBInuU
   popularity: 50
-  url: https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU
+  url: 'https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU'
 discography_enriched: true
 top_tracks:
-- 'From My Heart And My Soul (feat. Tarriona Tank Ball & Phoelix) (Dinner Party: Dessert)'
-- Freeze Tag (feat. Phoelix) (Dinner Party)
-- No Excuses (feat. Ludwig Göransson & Kamasi Washington) (Bando Stone and The New World)
-- Sleepless Nights (feat. Phoelix) (Dinner Party)
-- From My Heart and My Soul (feat. Phoelix) (Dinner Party)
-- Song For Fraser
-- 'Love You Bad (feat. Malaya & Phoelix) (Dinner Party: Dessert)'
-- First Responders (Dinner Party)
-- Street Fighter Mas (Heaven and Earth)
-- wanted (ceremonial contrafact (empathogen deluxe))
+  - >-
+    From My Heart And My Soul (feat. Tarriona Tank Ball & Phoelix) (Dinner
+    Party: Dessert)
+  - Freeze Tag (feat. Phoelix) (Dinner Party)
+  - >-
+    No Excuses (feat. Ludwig Göransson & Kamasi Washington) (Bando Stone and The
+    New World)
+  - Sleepless Nights (feat. Phoelix) (Dinner Party)
+  - From My Heart and My Soul (feat. Phoelix) (Dinner Party)
+  - Song For Fraser
+  - 'Love You Bad (feat. Malaya & Phoelix) (Dinner Party: Dessert)'
+  - First Responders (Dinner Party)
+  - Street Fighter Mas (Heaven and Earth)
+  - wanted (ceremonial contrafact (empathogen deluxe))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c7a3e868-c6d8-4512-a5ef-f6cbe42899b0
-  spotify: https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU
-  wikipedia: https://en.wikipedia.org/wiki/Kamasi_Washington
+  musicbrainz: 'https://musicbrainz.org/artist/c7a3e868-c6d8-4512-a5ef-f6cbe42899b0'
+  spotify: 'https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kamasi_Washington'
 image_path: 03_Resources/source_material/ArtistPortraits/Kamasi_Washington.jpg
 biography_enhanced_at: '2025-10-20T09:42:10.826380'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://designbetterpodcast.com/p/kamasi-washington
-- https://openroadsunited.com/concerts/who-is-kamasi-washington/
-- https://ums.org/performance/kamasi-washington-next-step/
-- https://daily.redbullmusicacademy.com/2015/09/kamasi-washington-interview/
-- https://www.jazzempowers.org/kamasi-washington
-- https://thecreativeindependent.com/people/musician-kamasi-washington-on-recentering-creativity-as-a-parent/
-- https://en.wikipedia.org/wiki/Kamasi_Washington
+  - 'https://designbetterpodcast.com/p/kamasi-washington'
+  - 'https://openroadsunited.com/concerts/who-is-kamasi-washington/'
+  - 'https://ums.org/performance/kamasi-washington-next-step/'
+  - 'https://daily.redbullmusicacademy.com/2015/09/kamasi-washington-interview/'
+  - 'https://www.jazzempowers.org/kamasi-washington'
+  - >-
+    https://thecreativeindependent.com/people/musician-kamasi-washington-on-recentering-creativity-as-a-parent/
+  - 'https://en.wikipedia.org/wiki/Kamasi_Washington'
 network_extracted: true
 entry_created: '2025-10-20T09:42:10.826398'
 last_updated: '2025-12-23T08:16:02.800142'
@@ -87,9 +92,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:33:23.639133'
 musicbrainz_id: c7a3e868-c6d8-4512-a5ef-f6cbe42899b0
 tags:
-- bebop
-- contemporary jazz
-- jazz
+  - bebop
+  - contemporary jazz
+  - jazz
+origin: 'Los Angeles, California, United States'
 ---
 
 ![](Kamasi_Washington.jpg)

@@ -2,62 +2,62 @@
 artist_type: person
 biography_enhanced_at: '2026-01-19T01:11:51.311729'
 birth_date: '1948-07-21'
-birth_place: Marylebone
+birth_place: 'Marylebone, London, England'
 disambiguation: now known as Yusuf Islam
 enhancement_provider: perplexity
 entry_created: '2026-01-19T01:11:51.311734'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e2345fdf-2be7-47c5-a6dd-be64353ad134
-  spotify: https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8
-  wikipedia: https://en.wikipedia.org/wiki/Cat_Stevens
+  musicbrainz: 'https://musicbrainz.org/artist/e2345fdf-2be7-47c5-a6dd-be64353ad134'
+  spotify: 'https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8'
+  wikipedia: 'https://en.wikipedia.org/wiki/Cat_Stevens'
 gender: Male
 genres:
-- folk rock
-- folk
-- singer-songwriter
+  - folk rock
+  - folk
+  - singer-songwriter
 image_path: 03_Resources/source_material/ArtistPortraits/cat_stevens.jpg
 instruments:
-- guitar
-- piano
-- electric piano
-- acoustic guitar
-- electric guitar
-- classical guitar
-- grand piano
-- Wurlitzer electric piano
-- guitar synthesizer
-- Rhodes piano
-- lead vocals
-- choir vocals
-- background vocals
+  - guitar
+  - piano
+  - electric piano
+  - acoustic guitar
+  - electric guitar
+  - classical guitar
+  - grand piano
+  - Wurlitzer electric piano
+  - guitar synthesizer
+  - Rhodes piano
+  - lead vocals
+  - choir vocals
+  - background vocals
 last_updated: '2026-01-19T01:11:51.311735'
 musical_connections:
   collaborators:
-  - The Jimi Hendrix Experience
+    - The Jimi Hendrix Experience
   influenced:
-  - Multiple artists
+    - Multiple artists
   mentors:
-  - Mike Hurst
-  - Hugo Wickman
+    - Mike Hurst
+    - Hugo Wickman
 musicbrainz_id: e2345fdf-2be7-47c5-a6dd-be64353ad134
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.britannica.com/biography/Cat-Stevens
-- https://en.wikipedia.org/wiki/Cat_Stevens
-- https://playingforchange.com/artists/yusuf-cat-stevens
-- https://catstevens.com/biography/
-- https://catstevens.com/life/
+  - 'https://www.britannica.com/biography/Cat-Stevens'
+  - 'https://en.wikipedia.org/wiki/Cat_Stevens'
+  - 'https://playingforchange.com/artists/yusuf-cat-stevens'
+  - 'https://catstevens.com/biography/'
+  - 'https://catstevens.com/life/'
 spotify_data:
   followers: 2218174
   id: 08F3Y3SctIlsOEmKd6dnH8
   popularity: 70
-  url: https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8
+  url: 'https://open.spotify.com/artist/08F3Y3SctIlsOEmKd6dnH8'
 status: active
 tags:
-- 2008 universal fire victim
-- baroque pop
-- contemporary folk
+  - 2008 universal fire victim
+  - baroque pop
+  - contemporary folk
 title: Cat Stevens
 ---
 

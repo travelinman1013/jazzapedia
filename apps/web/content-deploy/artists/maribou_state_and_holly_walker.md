@@ -5,11 +5,12 @@ schema_version: 2
 status: active
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/maribou_state_and_holly_walker.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/maribou_state_and_holly_walker.jpg
   caption: Maribou State & Holly Walker
   background: solo_singer
 audio_profile:
-  tempo_avg: 118.0
+  tempo_avg: 118
   energy_avg: 0.646
   valence_avg: 0.449
   danceability_avg: 0.649
@@ -23,53 +24,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Chris Davids
-  - Liam Ivory
-  - Holly Walker
-  - Khruangbin
-  - North Downs (Pedestrian)
-  - Jimi Nxir
-  - Nubiya Brandon
-  - Ninja Tune / Counter Records team
+    - Chris Davids
+    - Liam Ivory
+    - Holly Walker
+    - Khruangbin
+    - North Downs (Pedestrian)
+    - Jimi Nxir
+    - Nubiya Brandon
+    - Ninja Tune / Counter Records team
   influenced:
-  - Emerging UK electronic and alt‑soul producers (general scene)
+    - Emerging UK electronic and alt‑soul producers (general scene)
   mentors:
-  - Fatboy Slim (Norman Cook)
+    - Fatboy Slim (Norman Cook)
 spotify_data:
   followers: 495747
   id: 7zrkALJ9ayRjzysp4QYoEg
   popularity: 67
-  url: https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg
+  url: 'https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg'
 discography_enriched: true
 top_tracks:
-- Midas (Portraits)
-- Steal (Portraits)
-- Nervous Tics (Kingdoms In Colour)
-- Vale (Kingdoms In Colour)
-- All I Need (Hallucinating Love)
-- Spooky - Recorded at RAK Studios, London
-- Blackoak (Hallucinating Love)
-- Tongue
-- Beginner's Luck (Kingdoms In Colour)
-- Glasshouses (Kingdoms In Colour)
+  - Midas (Portraits)
+  - Steal (Portraits)
+  - Nervous Tics (Kingdoms In Colour)
+  - Vale (Kingdoms In Colour)
+  - All I Need (Hallucinating Love)
+  - 'Spooky - Recorded at RAK Studios, London'
+  - Blackoak (Hallucinating Love)
+  - Tongue
+  - Beginner's Luck (Kingdoms In Colour)
+  - Glasshouses (Kingdoms In Colour)
 external_urls:
-  spotify: https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg
-  wikipedia: https://en.wikipedia.org/wiki/Maribou_State
-image_path: 03_Resources/source_material/ArtistPortraits/maribou_state_and_holly_walker.jpg
+  spotify: 'https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg'
+  wikipedia: 'https://en.wikipedia.org/wiki/Maribou_State'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/maribou_state_and_holly_walker.jpg
 biography_enhanced_at: '2025-12-17T02:16:20.708845'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Maribou_State
-- https://www.stereofox.com/artists/maribou-state/
-- https://www.ninjatune.com/artist/maribou-state-featuring-holly-walker
-- https://www.wonderlandmagazine.com/2023/12/12/holly-walker/
-- https://www.fredperry.com/us/subculture/articles/holly-walker
-- https://www.song-bar.com/song-of-the-day/song-of-the-day-maribou-state-otherside-featuring-holly-walker
+  - 'https://en.wikipedia.org/wiki/Maribou_State'
+  - 'https://www.stereofox.com/artists/maribou-state/'
+  - 'https://www.ninjatune.com/artist/maribou-state-featuring-holly-walker'
+  - 'https://www.wonderlandmagazine.com/2023/12/12/holly-walker/'
+  - 'https://www.fredperry.com/us/subculture/articles/holly-walker'
+  - >-
+    https://www.song-bar.com/song-of-the-day/song-of-the-day-maribou-state-otherside-featuring-holly-walker
 network_extracted: true
 entry_created: '2025-12-17T02:16:20.708860'
 last_updated: '2025-12-23T08:16:12.665377'
-origin: Hertfordshire, England, United Kingdom (Maribou State origin); London, England, United Kingdom (Holly Walker base)
+origin: >-
+  Hertfordshire, England, United Kingdom (Maribou State origin); London,
+  England, United Kingdom (Holly Walker base)
+artist_type: band
 ---
 
 ![](maribou_state_and_holly_walker.jpg)

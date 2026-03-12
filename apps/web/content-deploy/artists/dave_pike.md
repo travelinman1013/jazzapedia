@@ -3,13 +3,13 @@ title: Dave Pike
 wiki_slug: dave-pike
 schema_version: 2
 status: active
-birth_place: Detroit, Michigan, United States
+birth_place: 'Detroit, Michigan, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/dave_pike.jpg
   caption: Dave Pike
   background: solo_singer
-  origin: Detroit, Michigan, United States
+  origin: 'Detroit, Michigan, United States'
 audio_profile:
   tempo_avg: 110.3
   energy_avg: 0.257
@@ -25,72 +25,99 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Herbie Mann
-  - Paul Bley
-  - Curtis Counce
-  - Harold Land
-  - Dexter Gordon
-  - Chick Corea
-  - Hubert Laws
-  - Charlie Haden
-  - Don Cherry
-  - Charles Lloyd
-  - Ornette Coleman
-  - Tom Ranier
-  - Ron Eschete
-  - Luther Hughes
-  - Ted Hawke
+    - Herbie Mann
+    - Paul Bley
+    - Curtis Counce
+    - Harold Land
+    - Dexter Gordon
+    - Chick Corea
+    - Hubert Laws
+    - Charlie Haden
+    - Don Cherry
+    - Charles Lloyd
+    - Ornette Coleman
+    - Tom Ranier
+    - Ron Eschete
+    - Luther Hughes
+    - Ted Hawke
   influenced:
-  - Unknown
+    - Unknown
   mentors:
-  - Milt Jackson
-  - Lionel Hampton
+    - Milt Jackson
+    - Lionel Hampton
 spotify_data:
   followers: 9146
   id: 3ftN8nO5MIeLwrkAympIWv
   popularity: 48
-  url: https://open.spotify.com/artist/3ftN8nO5MIeLwrkAympIWv
+  url: 'https://open.spotify.com/artist/3ftN8nO5MIeLwrkAympIWv'
 discography_enriched: true
 top_tracks:
-- Chapter 1 - The Adventures of Captain Underpants - Captain Underpants, Book 1 (The Adventures of Captain Underpants [Captain
-  Underpants, Book 1 (Unabridged)])
-- Chapter 2 - The Adventures of Captain Underpants - Captain Underpants, Book 1 (The Adventures of Captain Underpants [Captain
-  Underpants, Book 1 (Unabridged)])
-- Chapter 1 - Captain Underpants and the Wrath of the Wicked Wedgie Woman - Captain Underpants 5 (Captain Underpants and the
-  Wrath of the Wicked Wedgie Woman [Captain Underpants 5 (Unabridged)])
-- Chapter 3 - The Adventures of Captain Underpants - Captain Underpants, Book 1 (The Adventures of Captain Underpants [Captain
-  Underpants, Book 1 (Unabridged)])
-- Chapter 4 - The Adventures of Captain Underpants - Captain Underpants, Book 1 (The Adventures of Captain Underpants [Captain
-  Underpants, Book 1 (Unabridged)])
-- Chapter 6 - The Adventures of Captain Underpants - Captain Underpants, Book 1 (The Adventures of Captain Underpants [Captain
-  Underpants, Book 1 (Unabridged)])
-- Chapter 1 - Captain Underpants and the Attack of the Talking Toilets - Captain Underpants, Book 2 (Captain Underpants and
-  the Attack of the Talking Toilets [Captain Underpants, Book 2 (Unabridged)])
-- Chapter 2 - Captain Underpants and the Wrath of the Wicked Wedgie Woman - Captain Underpants 5 (Captain Underpants and the
-  Wrath of the Wicked Wedgie Woman [Captain Underpants 5 (Unabridged)])
-- Chapter 5 - The Adventures of Captain Underpants - Captain Underpants, Book 1 (The Adventures of Captain Underpants [Captain
-  Underpants, Book 1 (Unabridged)])
-- Chapter 7 - The Adventures of Captain Underpants - Captain Underpants, Book 1 (The Adventures of Captain Underpants [Captain
-  Underpants, Book 1 (Unabridged)])
+  - >-
+    Chapter 1 - The Adventures of Captain Underpants - Captain Underpants, Book
+    1 (The Adventures of Captain Underpants [Captain Underpants, Book 1
+    (Unabridged)])
+  - >-
+    Chapter 2 - The Adventures of Captain Underpants - Captain Underpants, Book
+    1 (The Adventures of Captain Underpants [Captain Underpants, Book 1
+    (Unabridged)])
+  - >-
+    Chapter 1 - Captain Underpants and the Wrath of the Wicked Wedgie Woman -
+    Captain Underpants 5 (Captain Underpants and the Wrath of the Wicked Wedgie
+    Woman [Captain Underpants 5 (Unabridged)])
+  - >-
+    Chapter 3 - The Adventures of Captain Underpants - Captain Underpants, Book
+    1 (The Adventures of Captain Underpants [Captain Underpants, Book 1
+    (Unabridged)])
+  - >-
+    Chapter 4 - The Adventures of Captain Underpants - Captain Underpants, Book
+    1 (The Adventures of Captain Underpants [Captain Underpants, Book 1
+    (Unabridged)])
+  - >-
+    Chapter 6 - The Adventures of Captain Underpants - Captain Underpants, Book
+    1 (The Adventures of Captain Underpants [Captain Underpants, Book 1
+    (Unabridged)])
+  - >-
+    Chapter 1 - Captain Underpants and the Attack of the Talking Toilets -
+    Captain Underpants, Book 2 (Captain Underpants and the Attack of the Talking
+    Toilets [Captain Underpants, Book 2 (Unabridged)])
+  - >-
+    Chapter 2 - Captain Underpants and the Wrath of the Wicked Wedgie Woman -
+    Captain Underpants 5 (Captain Underpants and the Wrath of the Wicked Wedgie
+    Woman [Captain Underpants 5 (Unabridged)])
+  - >-
+    Chapter 5 - The Adventures of Captain Underpants - Captain Underpants, Book
+    1 (The Adventures of Captain Underpants [Captain Underpants, Book 1
+    (Unabridged)])
+  - >-
+    Chapter 7 - The Adventures of Captain Underpants - Captain Underpants, Book
+    1 (The Adventures of Captain Underpants [Captain Underpants, Book 1
+    (Unabridged)])
 external_urls:
-  spotify: https://open.spotify.com/artist/3ftN8nO5MIeLwrkAympIWv
-  wikipedia: https://en.wikipedia.org/wiki/Dave_Pike
+  spotify: 'https://open.spotify.com/artist/3ftN8nO5MIeLwrkAympIWv'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dave_Pike'
 image_path: 03_Resources/source_material/ArtistPortraits/dave_pike.jpg
 biography_enhanced_at: '2025-11-26T07:50:03.336110'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://jazzprofiles.blogspot.com/2015/11/dave-pike-superior-self-taught-vibist.html
-- https://www.latimes.com/local/obituaries/la-me-dave-pike-dies-at-77-20151006-story.html
-- https://www.mps-music.com/artists/3786/
-- https://www.allmusic.com/artist/dave-pike-mn0000593911
-- https://fromthevaults-boppinbob.blogspot.com/2020/03/dave-pike-born-23-march-1938.html
-- https://www.allaboutjazz.com/musicians/dave-pike/
-- https://www.namm.org/library/oral-history/dave-pike
-- https://jazztimes.com/features/tributes-and-obituaries/dave-pike-vibraphonist-dies-at-77/
+  - >-
+    https://jazzprofiles.blogspot.com/2015/11/dave-pike-superior-self-taught-vibist.html
+  - >-
+    https://www.latimes.com/local/obituaries/la-me-dave-pike-dies-at-77-20151006-story.html
+  - 'https://www.mps-music.com/artists/3786/'
+  - 'https://www.allmusic.com/artist/dave-pike-mn0000593911'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2020/03/dave-pike-born-23-march-1938.html
+  - 'https://www.allaboutjazz.com/musicians/dave-pike/'
+  - 'https://www.namm.org/library/oral-history/dave-pike'
+  - >-
+    https://jazztimes.com/features/tributes-and-obituaries/dave-pike-vibraphonist-dies-at-77/
 network_extracted: true
 entry_created: '2025-11-26T07:50:03.336117'
 last_updated: '2025-12-23T08:16:07.522213'
+birth_date: '1938-03-23'
+death_date: '2015-10-03'
+artist_type: person
 ---
 
 ![](dave_pike.jpg)

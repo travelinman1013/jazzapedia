@@ -5,37 +5,37 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1919-10-27'
-birth_place: Newark
+birth_place: 'Newark, New Jersey, United States'
 death_date: '1980-01-23'
 genres:
-- bebop
-- hard bop
+  - bebop
+  - hard bop
 instruments:
-- eponymous
-- lead vocals
-- original
-- background vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 31129737-ad5a-4d13-b168-94ffe3f96ba8
-  name: Babs Gonzales and His Orchestra
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - lead vocals
   - original
-  mbid: bba99ebd-d057-4147-80c5-306fb3a937d6
-  name: Babs’ 3 Bips and a Bop
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: cc35fbfc-d722-43a6-9883-4c1b58a040f8
-  name: 6 Bips and a Bop
+  - background vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 31129737-ad5a-4d13-b168-94ffe3f96ba8
+    name: Babs Gonzales and His Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - lead vocals
+      - original
+    mbid: bba99ebd-d057-4147-80c5-306fb3a937d6
+    name: Babs’ 3 Bips and a Bop
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: cc35fbfc-d722-43a6-9883-4c1b58a040f8
+    name: 6 Bips and a Bop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/babs_gonzales.jpg
   caption: Babs Gonzales
@@ -58,59 +58,67 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Three Bips and a Bop (various sidemen including Tadd Dameron, Sonny Rollins, Roy Haynes, Wynton Kelly, Bennie Green, Tony
-    Scott, James Moody, J. J. Johnson, Julius Watkins, Art Pepper, Don Redman)
-  - James Moody
-  - Jimmy Smith
-  - Johnny Griffin
-  - Bennie Green
-  - Melba Liston, Charlie Rouse, Horace Parlan, Roy Haynes, Les Spann
+    - >-
+      Three Bips and a Bop (various sidemen including Tadd Dameron, Sonny
+      Rollins, Roy Haynes, Wynton Kelly, Bennie Green, Tony Scott, James Moody,
+      J. J. Johnson, Julius Watkins, Art Pepper, Don Redman)
+    - James Moody
+    - Jimmy Smith
+    - Johnny Griffin
+    - Bennie Green
+    - 'Melba Liston, Charlie Rouse, Horace Parlan, Roy Haynes, Les Spann'
   influenced:
-  - Sonny Rollins
-  - Dizzy Gillespie (as interpreter of Gonzales’s material)
-  - Subsequent jazz vocalists and scat singers
+    - Sonny Rollins
+    - Dizzy Gillespie (as interpreter of Gonzales’s material)
+    - Subsequent jazz vocalists and scat singers
   mentors:
-  - Dizzy Gillespie
+    - Dizzy Gillespie
 spotify_data:
   followers: 1522
   id: 1cNfD0wVetbHjuDsosNCQO
   popularity: 11
-  url: https://open.spotify.com/artist/1cNfD0wVetbHjuDsosNCQO
+  url: 'https://open.spotify.com/artist/1cNfD0wVetbHjuDsosNCQO'
 discography_enriched: true
 top_tracks:
-- Oop-Pop-A-Da (Weird Lullaby)
-- '''Round About Midnight'
-- Weird Lullaby (Weird Lullaby)
-- Professor Bop (Weird Lullaby)
-- The Cool Cat's Philosophy (Milestones of Jazz Legends - Male Jazz Singers, Vol. 10 (1959-1960))
-- '''Round About Midnight (Weird Lullaby)'
-- Be Bop Santa Claus (Shuckin' & Jivin')
-- Lop-Pow (Weird Lullaby)
-- Manhattan Fable
-- Lop-Pow (Best Jazz 100)
+  - Oop-Pop-A-Da (Weird Lullaby)
+  - '''Round About Midnight'
+  - Weird Lullaby (Weird Lullaby)
+  - Professor Bop (Weird Lullaby)
+  - >-
+    The Cool Cat's Philosophy (Milestones of Jazz Legends - Male Jazz Singers,
+    Vol. 10 (1959-1960))
+  - '''Round About Midnight (Weird Lullaby)'
+  - Be Bop Santa Claus (Shuckin' & Jivin')
+  - Lop-Pow (Weird Lullaby)
+  - Manhattan Fable
+  - Lop-Pow (Best Jazz 100)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3b451321-9cd1-470f-8e41-02b6ad8e7135
-  spotify: https://open.spotify.com/artist/1cNfD0wVetbHjuDsosNCQO
-  wikipedia: https://en.wikipedia.org/wiki/Babs_Gonzales
+  musicbrainz: 'https://musicbrainz.org/artist/3b451321-9cd1-470f-8e41-02b6ad8e7135'
+  spotify: 'https://open.spotify.com/artist/1cNfD0wVetbHjuDsosNCQO'
+  wikipedia: 'https://en.wikipedia.org/wiki/Babs_Gonzales'
 image_path: 03_Resources/source_material/ArtistPortraits/babs_gonzales.jpg
 biography_enhanced_at: '2025-12-19T01:59:27.116172'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://fromthevaults-boppinbob.blogspot.com/2022/10/babs-gonzales-born-27-october-1919.html
-- https://www.allaboutjazz.com/musicians/babs-gonzales/
-- https://sentirelblues.blogspot.com/2020/01/babs-gonzales.html
-- https://www.bluenote.com/artist/babs-gonzales/
-- https://wbssmedia.com/artists/detail/2681
-- https://www.ipm.org/show/nightlights/2020-03-30/how-professor-bop-paid-his-dues-babs-gonzales
-- https://www.elsewhere.co.nz/weneedtotalkabout/11508/we-need-to-talk-about-babs-gonzales-the-boswell-of-be-bop/
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2022/10/babs-gonzales-born-27-october-1919.html
+  - 'https://www.allaboutjazz.com/musicians/babs-gonzales/'
+  - 'https://sentirelblues.blogspot.com/2020/01/babs-gonzales.html'
+  - 'https://www.bluenote.com/artist/babs-gonzales/'
+  - 'https://wbssmedia.com/artists/detail/2681'
+  - >-
+    https://www.ipm.org/show/nightlights/2020-03-30/how-professor-bop-paid-his-dues-babs-gonzales
+  - >-
+    https://www.elsewhere.co.nz/weneedtotalkabout/11508/we-need-to-talk-about-babs-gonzales-the-boswell-of-be-bop/
 network_extracted: true
 entry_created: '2025-12-19T01:59:27.116189'
 last_updated: '2025-12-23T08:16:05.032873'
 gender: Male
 musicbrainz_id: 3b451321-9cd1-470f-8e41-02b6ad8e7135
 tags:
-- jazz
+  - jazz
+is_active: false
 ---
 
 ![](babs_gonzales.jpg)

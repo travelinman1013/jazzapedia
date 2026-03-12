@@ -3,14 +3,14 @@ title: Lou Bond
 wiki_slug: lou-bond
 schema_version: 2
 status: active
-birth_place: Chicago, Illinois, USA
+birth_place: 'Chicago, Illinois, USA'
 genres:
-- classic soul
+  - classic soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Lou_Bond.jpg
   caption: Lou Bond
   background: solo_singer
-  origin: Chicago, Illinois, USA
+  origin: 'Chicago, Illinois, USA'
 audio_profile:
   tempo_avg: 125.4
   energy_avg: 0.426
@@ -26,51 +26,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Memphis Symphony Orchestra string section
-  - The Horns of South Memphis
+    - Memphis Symphony Orchestra string section
+    - The Horns of South Memphis
   influenced:
-  - Outkast
-  - Mary J. Blige
+    - Outkast
+    - Mary J. Blige
   mentors:
-  - Stax Records artists (Isaac Hayes, Marvin Gaye)
+    - 'Stax Records artists (Isaac Hayes, Marvin Gaye)'
 spotify_data:
   followers: 2083
   id: 2IVPwWgT3QqyENc86KMDSO
   popularity: 7
-  url: https://open.spotify.com/artist/2IVPwWgT3QqyENc86KMDSO
+  url: 'https://open.spotify.com/artist/2IVPwWgT3QqyENc86KMDSO'
 discography_enriched: true
 top_tracks:
-- Let Me Into Your Life (Lou Bond)
-- Why Must Our Eyes Always Be Turned Backwards (Lou Bond)
-- To The Establishment (Lou Bond)
-- To the Establishment (Lou Bond)
-- Lucky Me (Lou Bond)
-- Come On Snob (Lou Bond)
-- That's The Way I've Always Heard It Should Be (Lou Bond)
-- To the Establishment (Lou Bond)
-- To the Establishment (Lou Bond)
-- Let Me Into Your life (Lou Bond)
+  - Let Me Into Your Life (Lou Bond)
+  - Why Must Our Eyes Always Be Turned Backwards (Lou Bond)
+  - To The Establishment (Lou Bond)
+  - To the Establishment (Lou Bond)
+  - Lucky Me (Lou Bond)
+  - Come On Snob (Lou Bond)
+  - That's The Way I've Always Heard It Should Be (Lou Bond)
+  - To the Establishment (Lou Bond)
+  - To the Establishment (Lou Bond)
+  - Let Me Into Your life (Lou Bond)
 external_urls:
-  spotify: https://open.spotify.com/artist/2IVPwWgT3QqyENc86KMDSO
+  spotify: 'https://open.spotify.com/artist/2IVPwWgT3QqyENc86KMDSO'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/Lou_Bond.jpg
 biography_enhanced_at: '2025-10-20T09:26:51.641274'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://joymurray.com/2021/04/12/lou-bond-portrait/
-- https://soul-sides.com/2013/02/lou-bond-gone-but-not-forgotten.html
-- http://www.blueingreenradio.com/2013/02/lou-bond.html
-- http://staxrecords.free.fr/lbond.htm
-- https://funky16corners.com/?p=3634
-- https://www.allmusic.com/artist/lou-bond-mn0001636931
-- https://jazzrocksoul.com/artists/lou-bond/
-- https://www.last.fm/music/Lou+Bond/+wiki
-- https://thevinylpress.com/lou-bond-self-titled/
-- https://lightintheattic.net/collections/lou-bond
+  - 'https://joymurray.com/2021/04/12/lou-bond-portrait/'
+  - 'https://soul-sides.com/2013/02/lou-bond-gone-but-not-forgotten.html'
+  - 'http://www.blueingreenradio.com/2013/02/lou-bond.html'
+  - 'http://staxrecords.free.fr/lbond.htm'
+  - 'https://funky16corners.com/?p=3634'
+  - 'https://www.allmusic.com/artist/lou-bond-mn0001636931'
+  - 'https://jazzrocksoul.com/artists/lou-bond/'
+  - 'https://www.last.fm/music/Lou+Bond/+wiki'
+  - 'https://thevinylpress.com/lou-bond-self-titled/'
+  - 'https://lightintheattic.net/collections/lou-bond'
 network_extracted: true
 entry_created: '2025-10-20T09:26:51.641285'
 last_updated: '2025-12-23T08:16:03.081359'
+birth_date: '1945'
+artist_type: person
 ---
 
 ![](Lou_Bond.jpg)

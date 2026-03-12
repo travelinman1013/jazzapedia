@@ -3,15 +3,15 @@ title: Jason Marsalis
 wiki_slug: jason-marsalis
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- swing music
-- ragtime
+  - swing music
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jason_marsalis.jpg
   caption: Jason Marsalis
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 118.2
   energy_avg: 0.37
@@ -27,53 +27,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Marcus Roberts
-  - Bill Summers
-  - Irvin Mayfield
-  - Wynton Marsalis
-  - Snarky Puppy
-  - Austin Johnson, Will Goble, Dave Potter
+    - Marcus Roberts
+    - Bill Summers
+    - Irvin Mayfield
+    - Wynton Marsalis
+    - Snarky Puppy
+    - 'Austin Johnson, Will Goble, Dave Potter'
   influenced:
-  - Berry College students
+    - Berry College students
   mentors:
-  - James Black
-  - Ellis Marsalis Jr.
-  - Marcus Roberts
+    - James Black
+    - Ellis Marsalis Jr.
+    - Marcus Roberts
 spotify_data:
   followers: 2245
   id: 3kZyLijv2b47kwz0qoRpT6
   popularity: 32
-  url: https://open.spotify.com/artist/3kZyLijv2b47kwz0qoRpT6
+  url: 'https://open.spotify.com/artist/3kZyLijv2b47kwz0qoRpT6'
 discography_enriched: true
 top_tracks:
-- Tom Cat Blues (Night on Frenchmen Street)
-- Hear Me Talking To You (Night on Frenchmen Street)
-- Some Of These Days (Night on Frenchmen Street)
-- Do Your Duty (Night on Frenchmen Street)
-- Everybody Loves My Baby (Night on Frenchmen Street)
-- Once In A While (Night on Frenchmen Street)
-- Don't Worry Be Happy (A Beautiful World)
-- Funk-ish
-- Love Me Or Leave Me (Night on Frenchmen Street)
-- The Little Drummer Boy (feat. Bill Huntington & Jason Marsalis) (A New Orleans Christmas Carol (Deluxe Edition))
+  - Tom Cat Blues (Night on Frenchmen Street)
+  - Hear Me Talking To You (Night on Frenchmen Street)
+  - Some Of These Days (Night on Frenchmen Street)
+  - Do Your Duty (Night on Frenchmen Street)
+  - Everybody Loves My Baby (Night on Frenchmen Street)
+  - Once In A While (Night on Frenchmen Street)
+  - Don't Worry Be Happy (A Beautiful World)
+  - Funk-ish
+  - Love Me Or Leave Me (Night on Frenchmen Street)
+  - >-
+    The Little Drummer Boy (feat. Bill Huntington & Jason Marsalis) (A New
+    Orleans Christmas Carol (Deluxe Edition))
 external_urls:
-  spotify: https://open.spotify.com/artist/3kZyLijv2b47kwz0qoRpT6
-  wikipedia: https://en.wikipedia.org/wiki/Jason_Marsalis
+  spotify: 'https://open.spotify.com/artist/3kZyLijv2b47kwz0qoRpT6'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jason_Marsalis'
 image_path: 03_Resources/source_material/ArtistPortraits/jason_marsalis.jpg
 biography_enhanced_at: '2025-11-29T06:57:50.131926'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Jason Marsalis
-- SFJazz - Jason Marsalis Vibes Quartet
-- Suncoast Jazz Festival - Jason Marsalis Profile
-- Berry College - Jazz Icon Jason Marsalis Gives Masterclass
-- JazzWeekly - Jason Marsalis Interview
-- National Park Service - Jason Marsalis Duo at 419 Decatur St
-- Earshot Jazz - Jason Marsalis Quartet
+  - Wikipedia - Jason Marsalis
+  - SFJazz - Jason Marsalis Vibes Quartet
+  - Suncoast Jazz Festival - Jason Marsalis Profile
+  - Berry College - Jazz Icon Jason Marsalis Gives Masterclass
+  - JazzWeekly - Jason Marsalis Interview
+  - National Park Service - Jason Marsalis Duo at 419 Decatur St
+  - Earshot Jazz - Jason Marsalis Quartet
 network_extracted: true
 entry_created: '2025-11-29T06:57:50.131938'
 last_updated: '2025-12-23T08:16:02.479511'
+birth_date: '1977-03-04'
+artist_type: person
 ---
 
 ![](jason_marsalis.jpg)

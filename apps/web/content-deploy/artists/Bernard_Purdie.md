@@ -3,13 +3,13 @@ title: Bernard Purdie
 wiki_slug: bernard-purdie
 schema_version: 2
 status: active
-birth_place: Elkton, Maryland, United States
+birth_place: 'Elkton, Maryland, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Bernard_Purdie.jpg
   caption: Bernard Purdie
   background: solo_singer
-  origin: Elkton, Maryland, United States
+  origin: 'Elkton, Maryland, United States'
 audio_profile:
   tempo_avg: 117.4
   energy_avg: 0.613
@@ -17,7 +17,7 @@ audio_profile:
   danceability_avg: 0.601
   acousticness_avg: 0.184
   instrumentalness_avg: 0.499
-  loudness_avg: -11.0
+  loudness_avg: -11
   speechiness_avg: 0.051
   liveness_avg: 0.209
   track_count: 20
@@ -25,56 +25,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Aretha Franklin
-  - Steely Dan
-  - James Brown
-  - King Curtis
-  - Hall & Oates
-  - Miles Davis
-  - Gil Scott-Heron
+    - Aretha Franklin
+    - Steely Dan
+    - James Brown
+    - King Curtis
+    - Hall & Oates
+    - Miles Davis
+    - Gil Scott-Heron
   influenced:
-  - Jeff Porcaro
-  - John Bonham
-  - Steve Gadd
+    - Jeff Porcaro
+    - John Bonham
+    - Steve Gadd
   mentors:
-  - Leonard Heywood
-  - Papa Jo Jones
-  - Buddy Rich
-  - Art Blakey
+    - Leonard Heywood
+    - Papa Jo Jones
+    - Buddy Rich
+    - Art Blakey
 spotify_data:
   followers: 83
   id: 706dr52Gl8e0FshwQ1RTOU
   popularity: 4
-  url: https://open.spotify.com/artist/706dr52Gl8e0FshwQ1RTOU
+  url: 'https://open.spotify.com/artist/706dr52Gl8e0FshwQ1RTOU'
 discography_enriched: true
 top_tracks:
-- Coffee Cold (The Rhythmic Genius of Bernard Purdie 2020)
-- Farmland (The Rhythmic Genius of Bernard Purdie 2020)
-- Water Fight (The Rhythmic Genius of Bernard Purdie 2020)
-- Instant Amor (The Rhythmic Genius of Bernard Purdie 2020)
-- Poco Valor (The Rhythmic Genius of Bernard Purdie 2020)
-- The Sun Always Shines for the Cool (The Rhythmic Genius of Bernard Purdie 2020)
-- NPJB Blues (Live) (The Rhythmic Genius of Bernard Purdie 2020)
-- Fishing (The Rhythmic Genius of Bernard Purdie 2020)
-- Free Fall (The Rhythmic Genius of Bernard Purdie 2020)
-- Other Side of the Sky (The Rhythmic Genius of Bernard Purdie 2020)
+  - Coffee Cold (The Rhythmic Genius of Bernard Purdie 2020)
+  - Farmland (The Rhythmic Genius of Bernard Purdie 2020)
+  - Water Fight (The Rhythmic Genius of Bernard Purdie 2020)
+  - Instant Amor (The Rhythmic Genius of Bernard Purdie 2020)
+  - Poco Valor (The Rhythmic Genius of Bernard Purdie 2020)
+  - >-
+    The Sun Always Shines for the Cool (The Rhythmic Genius of Bernard Purdie
+    2020)
+  - NPJB Blues (Live) (The Rhythmic Genius of Bernard Purdie 2020)
+  - Fishing (The Rhythmic Genius of Bernard Purdie 2020)
+  - Free Fall (The Rhythmic Genius of Bernard Purdie 2020)
+  - Other Side of the Sky (The Rhythmic Genius of Bernard Purdie 2020)
 external_urls:
-  spotify: https://open.spotify.com/artist/706dr52Gl8e0FshwQ1RTOU
-  wikipedia: https://en.wikipedia.org/wiki/Bernard_Purdie
+  spotify: 'https://open.spotify.com/artist/706dr52Gl8e0FshwQ1RTOU'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bernard_Purdie'
 image_path: ''
 biography_enhanced_at: '2025-10-19T10:29:22.009600'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://mabumbe.com/people/bernard-purdie-age-net-worth-relationships-biography/
-- https://www.bernardpurdiedrums.com/the-legend
-- https://www.moderndrummer.com/2010/03/bernard-purdie/
-- http://mikedolbear.com/groovers-and-shakers/bernard-purdie/
-- https://daily.redbullmusicacademy.com/2019/03/give-the-drummer-some-bernard-purdie/
-- https://nj1015.com/meet-the-worlds-most-recorded-drummer-bernard-pretty-purdie/
+  - >-
+    https://mabumbe.com/people/bernard-purdie-age-net-worth-relationships-biography/
+  - 'https://www.bernardpurdiedrums.com/the-legend'
+  - 'https://www.moderndrummer.com/2010/03/bernard-purdie/'
+  - 'http://mikedolbear.com/groovers-and-shakers/bernard-purdie/'
+  - >-
+    https://daily.redbullmusicacademy.com/2019/03/give-the-drummer-some-bernard-purdie/
+  - >-
+    https://nj1015.com/meet-the-worlds-most-recorded-drummer-bernard-pretty-purdie/
 network_extracted: true
 entry_created: '2025-10-19T10:29:22.009664'
 last_updated: '2025-12-23T08:16:01.171853'
+birth_date: '1939-06-11'
+artist_type: person
 ---
 
 ![]()

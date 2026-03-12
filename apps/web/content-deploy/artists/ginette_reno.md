@@ -3,21 +3,21 @@ title: Ginette Reno
 wiki_slug: ginette-reno
 schema_version: 2
 status: active
-birth_place: Montreal, Quebec, Canada
+birth_place: 'Montreal, Quebec, Canada'
 genres:
-- christmas
+  - christmas
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ginette_reno.jpg
   caption: Ginette Reno
   background: solo_singer
-  origin: Montreal, Quebec, Canada
+  origin: 'Montreal, Quebec, Canada'
 audio_profile:
   tempo_avg: 111.3
   energy_avg: 0.496
   valence_avg: 0.392
   danceability_avg: 0.433
   acousticness_avg: 0.628
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -7.5
   speechiness_avg: 0.051
   liveness_avg: 0.226
@@ -26,50 +26,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jean-Pierre Ferland
-  - Roger Whittaker
-  - Bob Watier
-  - Gilles Talbot
+    - Jean-Pierre Ferland
+    - Roger Whittaker
+    - Bob Watier
+    - Gilles Talbot
   influenced:
-  - Celine Dion
+    - Celine Dion
   mentors:
-  - Jean Simon
-  - René Angélil
+    - Jean Simon
+    - René Angélil
 spotify_data:
   followers: 55223
   id: 6ApzBusQnGyfdiQ63CBLon
   popularity: 50
-  url: https://open.spotify.com/artist/6ApzBusQnGyfdiQ63CBLon
+  url: 'https://open.spotify.com/artist/6ApzBusQnGyfdiQ63CBLon'
 discography_enriched: true
 top_tracks:
-- Une chance qu'on s'a
-- Des croissants de soleil (Aimons-nous)
-- À ma manière (Aimez le si fort (Remasterisé 2023))
-- Bonhomme hiver (Joyeux Noël)
-- Vive le vent (Joyeux Noël)
-- Le Sable Et La Mer (Les grands succès de Ginette Reno Vol.1 1960-1970)
-- La Dernière Valse (Ginette Reno)
-- Des soleils par millions (L'avenir entre nous)
-- Promenade en traîneau (Joyeux Noël)
-- Quand le soleil dit bonjour aux montagnes
+  - Une chance qu'on s'a
+  - Des croissants de soleil (Aimons-nous)
+  - À ma manière (Aimez le si fort (Remasterisé 2023))
+  - Bonhomme hiver (Joyeux Noël)
+  - Vive le vent (Joyeux Noël)
+  - Le Sable Et La Mer (Les grands succès de Ginette Reno Vol.1 1960-1970)
+  - La Dernière Valse (Ginette Reno)
+  - Des soleils par millions (L'avenir entre nous)
+  - Promenade en traîneau (Joyeux Noël)
+  - Quand le soleil dit bonjour aux montagnes
 external_urls:
-  spotify: https://open.spotify.com/artist/6ApzBusQnGyfdiQ63CBLon
+  spotify: 'https://open.spotify.com/artist/6ApzBusQnGyfdiQ63CBLon'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/ginette_reno.jpg
 biography_enhanced_at: '2025-12-19T02:01:42.976481'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://canadianmusichalloffame.ca/inductee/ginette-reno/
-- https://musiccanada.wordpress.com/2011/03/12/ginette-reno/
-- https://www.canadaswalkoffame.com/inductees/ginette-reno/
-- https://citizenfreak.com/artists/101878-reno-ginette
-- https://montrealgazette.com/news/local-news/quebec-legend-ginette-reno-embraces-her-truth-in-autobiography
-- https://www.imdb.com/name/nm0719729/bio/
+  - 'https://canadianmusichalloffame.ca/inductee/ginette-reno/'
+  - 'https://musiccanada.wordpress.com/2011/03/12/ginette-reno/'
+  - 'https://www.canadaswalkoffame.com/inductees/ginette-reno/'
+  - 'https://citizenfreak.com/artists/101878-reno-ginette'
+  - >-
+    https://montrealgazette.com/news/local-news/quebec-legend-ginette-reno-embraces-her-truth-in-autobiography
+  - 'https://www.imdb.com/name/nm0719729/bio/'
 network_extracted: true
 entry_created: '2025-12-19T02:01:42.976496'
 last_updated: '2025-12-23T08:16:09.219475'
-
+birth_date: '1946-04-28'
+artist_type: person
 ---
 
 ![](ginette_reno.jpg)

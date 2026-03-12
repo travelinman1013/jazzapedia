@@ -3,13 +3,13 @@ title: Andrew Molina
 wiki_slug: andrew-molina
 schema_version: 2
 status: active
-birth_place: Maui, Hawaii, USA
+birth_place: 'Maui, Hawaii, USA'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/andrew_molina.jpg
   caption: Andrew Molina
   background: solo_singer
-  origin: Maui, Hawaii, USA
+  origin: 'Maui, Hawaii, USA'
 audio_profile:
   tempo_avg: 128.2
   energy_avg: 0.334
@@ -25,35 +25,36 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jake Shimabukuro
-  - Kalei Gamiao
-  - Craig Chee
+    - Jake Shimabukuro
+    - Kalei Gamiao
+    - Craig Chee
   influenced: []
   mentors:
-  - Jake Shimabukuro
+    - Jake Shimabukuro
 spotify_data:
   followers: 21
   id: 0wT1zaWAnwKVTl6wyvwxYX
   popularity: 3
-  url: https://open.spotify.com/artist/0wT1zaWAnwKVTl6wyvwxYX
+  url: 'https://open.spotify.com/artist/0wT1zaWAnwKVTl6wyvwxYX'
 discography_enriched: true
 top_tracks:
-- Here Comes the Sun (Island Style Ukulele 3)
-- Here Comes the Sun (Ukulele Therapy 2)
+  - Here Comes the Sun (Island Style Ukulele 3)
+  - Here Comes the Sun (Ukulele Therapy 2)
 external_urls:
-  spotify: https://open.spotify.com/artist/0wT1zaWAnwKVTl6wyvwxYX
+  spotify: 'https://open.spotify.com/artist/0wT1zaWAnwKVTl6wyvwxYX'
   wikipedia: No Wikipedia page found
 image_path: ''
 biography_enhanced_at: '2025-10-28T08:56:56.142018'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- andrewmolinaukulele.com
-- kalabrand.com
-- henrykaponofoundation.org
+  - andrewmolinaukulele.com
+  - kalabrand.com
+  - henrykaponofoundation.org
 network_extracted: true
 entry_created: '2025-10-28T08:56:56.142028'
 last_updated: '2025-12-23T08:16:04.784361'
+artist_type: person
 ---
 
 ![]()

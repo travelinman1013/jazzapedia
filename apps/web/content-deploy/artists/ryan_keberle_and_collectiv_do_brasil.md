@@ -4,9 +4,10 @@ wiki_slug: ryan-keberle-collectiv-do-brasil
 schema_version: 2
 status: active
 genres:
-- jazz
+  - jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/ryan_keberle_and_collectiv_do_brasil.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/ryan_keberle_and_collectiv_do_brasil.jpg
   caption: Ryan Keberle & Collectiv do Brasil
   background: solo_singer
 audio_profile:
@@ -24,50 +25,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Felipe Silveira
-  - Tiago Alves
-  - Felipe Brisola
-  - Paulinho Vicente
+    - Felipe Silveira
+    - Tiago Alves
+    - Felipe Brisola
+    - Paulinho Vicente
   influenced:
-  - Students at Hunter College
+    - Students at Hunter College
   mentors:
-  - Dan Keberle
-  - Elis Regina
-  - Ivan Lins, Edu Lobo, Toninho Horta, Milton Nascimento
+    - Dan Keberle
+    - Elis Regina
+    - 'Ivan Lins, Edu Lobo, Toninho Horta, Milton Nascimento'
 spotify_data:
   followers: 366
   id: 0PavNAppAaVNfy94CBCmWg
   popularity: 4
-  url: https://open.spotify.com/artist/0PavNAppAaVNfy94CBCmWg
+  url: 'https://open.spotify.com/artist/0PavNAppAaVNfy94CBCmWg'
 discography_enriched: true
 top_tracks:
-- Tarde (Sonhos da Esquina)
-- Sai de Baixo (Sai de Baixo)
-- Saindo de Mim (Sai de Baixo)
-- Rei do Carnaval (Rei do Carnaval)
-- Cio da Terra (Sonhos da Esquina)
-- Campinas (Sonhos da Esquina)
-- Clube da Esquina 2 (Sonhos da Esquina)
-- Sai de Baixo (Rei do Carnaval)
-- Considerando (Considerando)
-- Toada (Considerando)
+  - Tarde (Sonhos da Esquina)
+  - Sai de Baixo (Sai de Baixo)
+  - Saindo de Mim (Sai de Baixo)
+  - Rei do Carnaval (Rei do Carnaval)
+  - Cio da Terra (Sonhos da Esquina)
+  - Campinas (Sonhos da Esquina)
+  - Clube da Esquina 2 (Sonhos da Esquina)
+  - Sai de Baixo (Rei do Carnaval)
+  - Considerando (Considerando)
+  - Toada (Considerando)
 external_urls:
-  spotify: https://open.spotify.com/artist/0PavNAppAaVNfy94CBCmWg
-  wikipedia: https://en.wikipedia.org/wiki/Ryan_Keberle
-image_path: 03_Resources/source_material/ArtistPortraits/ryan_keberle_and_collectiv_do_brasil.jpg
+  spotify: 'https://open.spotify.com/artist/0PavNAppAaVNfy94CBCmWg'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ryan_Keberle'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/ryan_keberle_and_collectiv_do_brasil.jpg
 biography_enhanced_at: '2025-10-25T09:48:03.523886'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://ryankeberle.com/collectiv-do-brasil/
-- https://en.wikipedia.org/wiki/Ryan_Keberle
-- https://jazzjournal.co.uk/2025/08/30/reviewed-ryan-keberle-collectiv-do-brasil-roger-glenn-gabriele-poso-presents-ritmo-italiano/
-- https://ryankeberle.com/about/
-- https://notesonjazz.blogspot.com/2023/07/trombonist-ryan-keberles-collectiv-do.html
+  - 'https://ryankeberle.com/collectiv-do-brasil/'
+  - 'https://en.wikipedia.org/wiki/Ryan_Keberle'
+  - >-
+    https://jazzjournal.co.uk/2025/08/30/reviewed-ryan-keberle-collectiv-do-brasil-roger-glenn-gabriele-poso-presents-ritmo-italiano/
+  - 'https://ryankeberle.com/about/'
+  - >-
+    https://notesonjazz.blogspot.com/2023/07/trombonist-ryan-keberles-collectiv-do.html
 network_extracted: true
 entry_created: '2025-10-25T09:48:03.523896'
 last_updated: '2025-12-23T08:16:15.241024'
-origin: São Paulo, São Paulo, Brazil (band origin); Bloomington, Indiana, USA (Ryan Keberle's birthplace)
+origin: >-
+  São Paulo, São Paulo, Brazil (band origin); Bloomington, Indiana, USA (Ryan
+  Keberle's birthplace)
+birth_place: 'Bloomington, Indiana, United States'
+artist_type: person
 ---
 
 ![](ryan_keberle_and_collectiv_do_brasil.jpg)

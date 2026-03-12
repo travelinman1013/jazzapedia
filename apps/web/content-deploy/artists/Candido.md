@@ -2,21 +2,21 @@
 title: Candido
 wiki_slug: candido
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1921-04-22'
-birth_place: San Antonio de los Baños, Havana, Cuba
+birth_place: 'San Antonio de los Baños, Havana, Cuba'
 death_date: '2020-11-07'
 genres:
-- norteño-sax
-- norteño
-- cumbia norteña
+  - norteño-sax
+  - norteño
+  - cumbia norteña
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Candido.jpg
   caption: Candido
   background: solo_singer
   born: '1921-04-22'
-  origin: San Antonio de los Baños, Havana, Cuba
+  origin: 'San Antonio de los Baños, Havana, Cuba'
   died: '2020-11-07'
 audio_profile:
   tempo_avg: 119.3
@@ -33,53 +33,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dizzy Gillespie
-  - Billy Taylor
-  - Charlie Parker
-  - Mongo Santamaría
-  - Tito Puente
-  - Machito
-  - Stan Kenton
-  - Buddy Rich
-  - Lionel Hampton
-  - David Amram
-  - Bobby Sanabria
+    - Dizzy Gillespie
+    - Billy Taylor
+    - Charlie Parker
+    - Mongo Santamaría
+    - Tito Puente
+    - Machito
+    - Stan Kenton
+    - Buddy Rich
+    - Lionel Hampton
+    - David Amram
+    - Bobby Sanabria
   influenced:
-  - Giovanni Hidalgo
-  - Carlos 'Patato' Valdes
-  - Generations of Latin jazz percussionists
+    - Giovanni Hidalgo
+    - Carlos 'Patato' Valdes
+    - Generations of Latin jazz percussionists
   mentors:
-  - Max Roach
-  - Kenny Clarke
+    - Max Roach
+    - Kenny Clarke
 spotify_data:
   followers: 4848
   id: 7pggY7ct3yA5xXw6ZMyWY5
   popularity: 27
-  url: https://open.spotify.com/artist/7pggY7ct3yA5xXw6ZMyWY5
+  url: 'https://open.spotify.com/artist/7pggY7ct3yA5xXw6ZMyWY5'
 discography_enriched: true
 top_tracks:
-- Y Te VI Con El (a Partir de Hoy)
-- 30 Cartas (a Partir de Hoy)
-- Los Laureles (a Partir de Hoy)
-- Ojitos de MI Elena (a Partir de Hoy)
-- Bohemio de Aficion (a Partir de Hoy)
-- Y Cuentale (Y Cuentale)
-- Que Sera de Aquel Amor (a Partir de Hoy)
-- La Unica Estrella (Dejando Huella)
-- En Cada Vida (En Cada Vida)
-- Cuando Salgo a Los Campos (Cuando Salgo a Los Campos)
+  - Y Te VI Con El (a Partir de Hoy)
+  - 30 Cartas (a Partir de Hoy)
+  - Los Laureles (a Partir de Hoy)
+  - Ojitos de MI Elena (a Partir de Hoy)
+  - Bohemio de Aficion (a Partir de Hoy)
+  - Y Cuentale (Y Cuentale)
+  - Que Sera de Aquel Amor (a Partir de Hoy)
+  - La Unica Estrella (Dejando Huella)
+  - En Cada Vida (En Cada Vida)
+  - Cuando Salgo a Los Campos (Cuando Salgo a Los Campos)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1f92d1d9-7b72-4774-9cf2-719b1203c0ff
-  spotify: https://open.spotify.com/artist/7pggY7ct3yA5xXw6ZMyWY5
+  musicbrainz: 'https://musicbrainz.org/artist/1f92d1d9-7b72-4774-9cf2-719b1203c0ff'
+  spotify: 'https://open.spotify.com/artist/7pggY7ct3yA5xXw6ZMyWY5'
   wikipedia: Not found in provided sources
 image_path: 03_Resources/source_material/ArtistPortraits/Candido.jpg
 biography_enhanced_at: '2025-10-21T06:44:22.503178'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Blue Note Records
-- JazzTimes
-- Amsterdam News
+  - Blue Note Records
+  - JazzTimes
+  - Amsterdam News
 network_extracted: true
 entry_created: '2025-10-21T06:44:22.503194'
 last_updated: '2025-12-23T08:16:01.438949'
@@ -88,9 +88,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:21:27.831301'
 musicbrainz_id: 1f92d1d9-7b72-4774-9cf2-719b1203c0ff
 tags:
-- afro-cuban jazz
-- cuban
-- jazz
+  - afro-cuban jazz
+  - cuban
+  - jazz
+is_active: false
 ---
 
 ![](Candido.jpg)

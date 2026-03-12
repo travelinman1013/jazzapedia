@@ -1,79 +1,80 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ff2e2b50-35f6-4860-8a4d-7fe6ffc8f790
-  name: Ruff Ryders
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 13a751ae-73ab-454c-9e6d-5b6e8f5459b2
-  name: Murder Inc.
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bab2734a-4786-4951-bfef-daa70e99649f
-  name: The Kennel Family
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8f476679-f3ce-4dba-849f-6d1db14b0d5e
-  name: Bloodline
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ff2e2b50-35f6-4860-8a4d-7fe6ffc8f790
+    name: Ruff Ryders
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 13a751ae-73ab-454c-9e6d-5b6e8f5459b2
+    name: Murder Inc.
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bab2734a-4786-4951-bfef-daa70e99649f
+    name: The Kennel Family
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8f476679-f3ce-4dba-849f-6d1db14b0d5e
+    name: Bloodline
 biography_enhanced_at: '2025-12-30T01:29:47.133893'
 birth_date: '1970-12-18'
-birth_place: Mount Vernon
+birth_place: 'Mount Vernon, New York, United States'
 death_date: '2021-04-09'
 disambiguation: US rapper
 enhancement_provider: perplexity
 entry_created: '2025-12-30T01:29:47.133897'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f3bf61f8-97d4-4e52-a73d-2ddbbe8196c8
-  spotify: https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG
-  wikipedia: https://en.wikipedia.org/wiki/DMX
+  musicbrainz: 'https://musicbrainz.org/artist/f3bf61f8-97d4-4e52-a73d-2ddbbe8196c8'
+  spotify: 'https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG'
+  wikipedia: 'https://en.wikipedia.org/wiki/DMX'
 gender: Male
 genres:
-- east coast hip hop
-- hardcore hip hop
+  - east coast hip hop
+  - hardcore hip hop
 image_path: 03_Resources/source_material/ArtistPortraits/dmx.jpg
 instruments:
-- lead vocals
+  - lead vocals
 last_updated: '2025-12-30T01:29:47.133898'
 musical_connections:
   collaborators:
-  - Ruff Ryders Entertainment
-  - The LOX
-  - LL Cool J
-  - Ma$e
-  - Jay-Z
+    - Ruff Ryders Entertainment
+    - The LOX
+    - LL Cool J
+    - Ma$e
+    - Jay-Z
   influenced:
-  - Eve
+    - Eve
   mentors:
-  - Ready Ron
-  - Red Iran
+    - Ready Ron
+    - Red Iran
 musicbrainz_id: f3bf61f8-97d4-4e52-a73d-2ddbbe8196c8
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.youtube.com/watch?v=yiW3F4qpJCo[1]
-- https://en.wikipedia.org/wiki/DMX[2]
-- https://www.last.fm/music/DMX/+wiki[3]
-- https://www.fandango.com/people/dmx-624582/biography[4]
-- http://hiphopgoldenage.com/artists/dmx/[5]
-- http://blackpast.org/african-american-history/dmx-earl-simmons-1970-2021/[6]
+  - 'https://www.youtube.com/watch?v=yiW3F4qpJCo[1]'
+  - 'https://en.wikipedia.org/wiki/DMX[2]'
+  - 'https://www.last.fm/music/DMX/+wiki[3]'
+  - 'https://www.fandango.com/people/dmx-624582/biography[4]'
+  - 'http://hiphopgoldenage.com/artists/dmx/[5]'
+  - 'http://blackpast.org/african-american-history/dmx-earl-simmons-1970-2021/[6]'
 spotify_data:
   followers: 5984112
   id: 1HwM5zlC5qNWhJtM00yXzG
   popularity: 72
-  url: https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG
+  url: 'https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG'
 status: active
 tags:
-- conscious hip hop
-- east coast hip hop
-- hardcore hip hop
+  - conscious hip hop
+  - east coast hip hop
+  - hardcore hip hop
 title: DMX
-
+is_active: false
+origin: 'Yonkers, New York, United States'
 ---
 
 ![](dmx.jpg)

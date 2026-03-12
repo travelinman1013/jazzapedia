@@ -2,27 +2,27 @@
 title: Lee Ritenour
 wiki_slug: lee-ritenour
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1952-01-11'
-birth_place: Los Angeles, California, United States
+birth_place: 'Los Angeles, California, United States'
 genres:
-- smooth jazz
-- jazz fusion
-- jazz funk
-- jazz
-- cool jazz
+  - smooth jazz
+  - jazz fusion
+  - jazz funk
+  - jazz
+  - cool jazz
 instruments:
-- acoustic guitar
-- electric guitar
-- guitar
-- original
+  - acoustic guitar
+  - electric guitar
+  - guitar
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Lee_Ritenour.jpg
   caption: Lee Ritenour
   background: non_vocal_instrumentalist
   born: '1952-01-11'
-  origin: Los Angeles, California, United States
+  origin: 'Los Angeles, California, United States'
 audio_profile:
   tempo_avg: 107.2
   energy_avg: 0.521
@@ -38,50 +38,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dave Grusin
-  - Bob James
-  - Nathan East
-  - Harvey Mason
-  - Patrice Rushen
-  - Ernie Watts
-  - Sergio Mendes
+    - Dave Grusin
+    - Bob James
+    - Nathan East
+    - Harvey Mason
+    - Patrice Rushen
+    - Ernie Watts
+    - Sergio Mendes
   influenced:
-  - Andy McKee
-  - Joe Robinson
-  - Guthrie Govan
+    - Andy McKee
+    - Joe Robinson
+    - Guthrie Govan
   mentors:
-  - Christopher Parkening
-  - Wes Montgomery
+    - Christopher Parkening
+    - Wes Montgomery
 spotify_data:
   followers: 188529
   id: 1nDqTUspmq8IXhcEZT93iq
   popularity: 46
-  url: https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq
+  url: 'https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq'
 discography_enriched: true
 top_tracks:
-- Is It You (Rit, Vol. 1)
-- I Can’t Let Go - Remastered (Color Rit (Remastered))
-- Dreamwalkin' (Along With Me) (Rit/2)
-- Get Up, Stand Up
-- Is It You? (Overtime)
-- Night Rhythms - Remastered (Festival (Remastered))
-- Night Rhythms - Remastered (Festival (Remastered))
-- Early A.M. Attitude (Harlequin)
-- Bahia Funk - Remastered (Color Rit (Remastered))
-- City Lights (feat. Lee Ritenour) (Another Long Night Out)
+  - 'Is It You (Rit, Vol. 1)'
+  - I Can’t Let Go - Remastered (Color Rit (Remastered))
+  - Dreamwalkin' (Along With Me) (Rit/2)
+  - 'Get Up, Stand Up'
+  - Is It You? (Overtime)
+  - Night Rhythms - Remastered (Festival (Remastered))
+  - Night Rhythms - Remastered (Festival (Remastered))
+  - Early A.M. Attitude (Harlequin)
+  - Bahia Funk - Remastered (Color Rit (Remastered))
+  - City Lights (feat. Lee Ritenour) (Another Long Night Out)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/0c361ea5-98c6-4947-900b-201833f2dd84
-  spotify: https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq
-  wikipedia: https://en.wikipedia.org/wiki/Lee_Ritenour
+  musicbrainz: 'https://musicbrainz.org/artist/0c361ea5-98c6-4947-900b-201833f2dd84'
+  spotify: 'https://open.spotify.com/artist/1nDqTUspmq8IXhcEZT93iq'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lee_Ritenour'
 image_path: 03_Resources/source_material/ArtistPortraits/Lee_Ritenour.jpg
 biography_enhanced_at: '2025-10-21T06:42:25.965233'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Lee_Ritenour
-- https://leeritenour.com/biography/
-- https://wmky.org/arts-culture/2015-05-24/lee-ritenour
-- https://buffalostatepac.org/calendar/great-performers-series/event:lee-ritenour/
+  - 'https://en.wikipedia.org/wiki/Lee_Ritenour'
+  - 'https://leeritenour.com/biography/'
+  - 'https://wmky.org/arts-culture/2015-05-24/lee-ritenour'
+  - >-
+    https://buffalostatepac.org/calendar/great-performers-series/event:lee-ritenour/
 network_extracted: true
 entry_created: '2025-10-21T06:42:25.965251'
 last_updated: '2025-12-23T08:16:02.969461'
@@ -89,10 +90,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:34:46.695116'
 musicbrainz_id: 0c361ea5-98c6-4947-900b-201833f2dd84
 tags:
-- crossover jazz
-- guitar jazz
-- guitar virtuoso
-
+  - crossover jazz
+  - guitar jazz
+  - guitar virtuoso
+origin: 'Los Angeles, California, United States'
 ---
 
 ![](Lee_Ritenour.jpg)

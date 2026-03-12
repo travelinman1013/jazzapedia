@@ -1,17 +1,19 @@
 ---
-title: Bob Wilbur, Jim Cullum
+title: 'Bob Wilbur, Jim Cullum'
 wiki_slug: bob-wilbur-jim-cullum
 schema_version: 2
 status: active
-birth_place: Dallas, Texas, United States (birthplace of Jim Cullum Jr.; primary career based in San Antonio, Texas, United States)
+birth_place: 'Dallas, Texas, United States'
 genres:
-- boogie-woogie
-- ragtime
+  - boogie-woogie
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bob_wilbur_jim_cullum.jpg
-  caption: Bob Wilbur, Jim Cullum
+  caption: 'Bob Wilbur, Jim Cullum'
   background: solo_singer
-  origin: Dallas, Texas, United States (birthplace of Jim Cullum Jr.; primary career based in San Antonio, Texas, United States)
+  origin: >-
+    Dallas, Texas, United States (birthplace of Jim Cullum Jr.; primary career
+    based in San Antonio, Texas, United States)
 audio_profile:
   tempo_avg: 122.7
   energy_avg: 0.286
@@ -27,51 +29,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bob Wilber
-  - Happy Jazz Band (Jim Cullum Sr. and ensemble)
-  - Jim Cullum Jazz Band members (e.g., Allan Vaché, John Sheridan, Evan Christopher, Mike Pittsley, Howard Elkins, Ron Hockett, Benji Bohannon, Bernie Attridge)
-  - Louis Armstrong, Benny Goodman, Pete Fountain, Earl Hines, Joe Venuti, Doc Severinsen, Dick Hyman, Lionel Hampton
+    - Bob Wilber
+    - Happy Jazz Band (Jim Cullum Sr. and ensemble)
+    - >-
+      Jim Cullum Jazz Band members (e.g., Allan Vaché, John Sheridan, Evan
+      Christopher, Mike Pittsley, Howard Elkins, Ron Hockett, Benji Bohannon,
+      Bernie Attridge)
+    - >-
+      Louis Armstrong, Benny Goodman, Pete Fountain, Earl Hines, Joe Venuti, Doc
+      Severinsen, Dick Hyman, Lionel Hampton
   influenced:
-  - Students of the Stanford Jazz Workshop
-  - Regional traditional jazz musicians in Texas and Riverwalk Jazz listeners
+    - Students of the Stanford Jazz Workshop
+    - Regional traditional jazz musicians in Texas and Riverwalk Jazz listeners
   mentors:
-  - Jim Cullum Sr.
-  - Louis Armstrong
-  - Bix Beiderbecke
+    - Jim Cullum Sr.
+    - Louis Armstrong
+    - Bix Beiderbecke
 spotify_data:
   followers: 124
   id: 47J5WaX99txUSA3HllJX8o
   popularity: 11
-  url: https://open.spotify.com/artist/47J5WaX99txUSA3HllJX8o
+  url: 'https://open.spotify.com/artist/47J5WaX99txUSA3HllJX8o'
 discography_enriched: true
 top_tracks:
-- Jazz Berceuse with Tuba (Still Breathing (Original Motion Picture Soundtrack))
-- Blue River (Still Breathing (Original Motion Picture Soundtrack))
-- Bugle Call Rag (Chasin' the Blues)
-- Between the Devil and the Deep Blue Sea (American Love Songs, Vol. VII)
-- 'His Eye Is on the Sparrow (Deep River: The Spirit of Gospel Music in Jazz)'
-- 'In the Garden (Deep River: The Spirit of Gospel Music in Jazz)'
-- 'Down by the Riverside (Deep River: The Spirit of Gospel Music in Jazz)'
-- Tight Like This (Chasin' the Blues)
-- Cakewalkin' Babies from Home (Chasin' the Blues)
-- My Old Kentucky Home, Good Night (Chasin' the Blues)
+  - >-
+    Jazz Berceuse with Tuba (Still Breathing (Original Motion Picture
+    Soundtrack))
+  - Blue River (Still Breathing (Original Motion Picture Soundtrack))
+  - Bugle Call Rag (Chasin' the Blues)
+  - 'Between the Devil and the Deep Blue Sea (American Love Songs, Vol. VII)'
+  - 'His Eye Is on the Sparrow (Deep River: The Spirit of Gospel Music in Jazz)'
+  - 'In the Garden (Deep River: The Spirit of Gospel Music in Jazz)'
+  - 'Down by the Riverside (Deep River: The Spirit of Gospel Music in Jazz)'
+  - Tight Like This (Chasin' the Blues)
+  - Cakewalkin' Babies from Home (Chasin' the Blues)
+  - 'My Old Kentucky Home, Good Night (Chasin'' the Blues)'
 external_urls:
-  spotify: https://open.spotify.com/artist/47J5WaX99txUSA3HllJX8o
-  wikipedia: https://en.wikipedia.org/wiki/Jim_Cullum_Jr.
+  spotify: 'https://open.spotify.com/artist/47J5WaX99txUSA3HllJX8o'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jim_Cullum_Jr.'
 image_path: 03_Resources/source_material/ArtistPortraits/bob_wilbur_jim_cullum.jpg
 biography_enhanced_at: '2025-12-19T01:44:13.465089'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jim_Cullum_Jr.
-- https://www.tshaonline.org/handbook/entries/jim-cullum-jazz-band
-- https://jazztimes.com/features/columns/san-antonios-jim-cullum-jazz-band/
-- https://commons.stmarytx.edu/cgi/viewcontent.cgi?article=1020&context=findingaids
-- https://jazzweekly.com/2015/10/the-radical-sounds-of-trad-the-jim-cullum-happy-jazz-band-the-music-of-jelly-roll-morton-bob-wilbur-dave-mckenna-pug-horton-quintet-live-from-london/
+  - 'https://en.wikipedia.org/wiki/Jim_Cullum_Jr.'
+  - 'https://www.tshaonline.org/handbook/entries/jim-cullum-jazz-band'
+  - 'https://jazztimes.com/features/columns/san-antonios-jim-cullum-jazz-band/'
+  - >-
+    https://commons.stmarytx.edu/cgi/viewcontent.cgi?article=1020&context=findingaids
+  - >-
+    https://jazzweekly.com/2015/10/the-radical-sounds-of-trad-the-jim-cullum-happy-jazz-band-the-music-of-jelly-roll-morton-bob-wilbur-dave-mckenna-pug-horton-quintet-live-from-london/
 network_extracted: true
 entry_created: '2025-12-19T01:44:13.465104'
 last_updated: '2025-12-23T08:16:05.835993'
-
+origin: 'San Antonio, Texas, United States'
+birth_date: '1928'
+death_date: '2019'
+artist_type: person
 ---
 
 ![](bob_wilbur_jim_cullum.jpg)

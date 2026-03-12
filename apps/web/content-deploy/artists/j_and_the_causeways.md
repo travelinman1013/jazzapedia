@@ -3,38 +3,40 @@ biography_enhanced_at: '2025-12-29T01:24:25.591420'
 enhancement_provider: perplexity
 entry_created: '2025-12-29T01:24:25.591448'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/99aee22b-4902-4a51-8d34-50a22c2a1995
-  spotify: https://open.spotify.com/artist/7eSxHkobu10rRoDPfgpwCs
+  musicbrainz: 'https://musicbrainz.org/artist/99aee22b-4902-4a51-8d34-50a22c2a1995'
+  spotify: 'https://open.spotify.com/artist/7eSxHkobu10rRoDPfgpwCs'
   wikipedia: ''
 genres:
-- retro soul
-- soul blues
+  - retro soul
+  - soul blues
 image_path: 03_Resources/source_material/ArtistPortraits/j_and_the_causeways.jpg
 last_updated: '2025-12-29T01:24:25.591450'
 musical_connections:
   collaborators:
-  - Robert Mercurio
-  - Ben Ellman
+    - Robert Mercurio
+    - Ben Ellman
   influenced: []
   mentors:
-  - Grandmother (unnamed)
+    - Grandmother (unnamed)
 musicbrainz_id: 99aee22b-4902-4a51-8d34-50a22c2a1995
 network_extracted: true
-origin: New Orleans, Louisiana, USA
+origin: 'New Orleans, Louisiana, USA'
 primary_source: perplexity
 research_sources:
-- http://www.7smgmt.com/j-and-the-causeways
-- https://www.offbeat.com/articles/my-music-with-jordan-anderson-of-j-the-causeways/
-- https://redriverrevel.com/2022/07/22/revel-artist-profile-j-the-causeways/
-- https://www.crossovertouring.com/j-the-causeways
-- https://moesalley.com/tm-attraction/j-the-causeways/
+  - 'http://www.7smgmt.com/j-and-the-causeways'
+  - >-
+    https://www.offbeat.com/articles/my-music-with-jordan-anderson-of-j-the-causeways/
+  - 'https://redriverrevel.com/2022/07/22/revel-artist-profile-j-the-causeways/'
+  - 'https://www.crossovertouring.com/j-the-causeways'
+  - 'https://moesalley.com/tm-attraction/j-the-causeways/'
 spotify_data:
   followers: 4295
   id: 7eSxHkobu10rRoDPfgpwCs
   popularity: 26
-  url: https://open.spotify.com/artist/7eSxHkobu10rRoDPfgpwCs
+  url: 'https://open.spotify.com/artist/7eSxHkobu10rRoDPfgpwCs'
 status: active
 title: J & The Causeways
+artist_type: band
 ---
 
 ![](j_and_the_causeways.jpg)

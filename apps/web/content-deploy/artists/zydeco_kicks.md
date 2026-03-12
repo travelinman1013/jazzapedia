@@ -4,8 +4,8 @@ wiki_slug: zydeco-kicks
 schema_version: 2
 status: active
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/zydeco_kicks.jpg
   caption: Zydeco Kicks
@@ -31,33 +31,36 @@ spotify_data:
   followers: 48
   id: 5PR6n5Jd3hYNDlCN0j2Sda
   popularity: 0
-  url: https://open.spotify.com/artist/5PR6n5Jd3hYNDlCN0j2Sda
+  url: 'https://open.spotify.com/artist/5PR6n5Jd3hYNDlCN0j2Sda'
 discography_enriched: true
 top_tracks:
-- Dance All Night (CRAWFISH GOT SOUL!)
-- Uncle Bud (CRAWFISH GOT SOUL!)
-- Allons A Lafayette (CRAWFISH GOT SOUL!)
-- Fais Pas Tout Ca! (CRAWFISH GOT SOUL!)
-- Bonsoir Moreau (CRAWFISH GOT SOUL!)
-- Bosco Stomp (CRAWFISH GOT SOUL!)
-- Bad Bad Woman (CRAWFISH GOT SOUL!)
-- Linda Belle (CRAWFISH GOT SOUL!)
-- Old Carpenter's Waltz (CRAWFISH GOT SOUL!)
-- Zydeco Monkey Man (CRAWFISH GOT SOUL!)
+  - Dance All Night (CRAWFISH GOT SOUL!)
+  - Uncle Bud (CRAWFISH GOT SOUL!)
+  - Allons A Lafayette (CRAWFISH GOT SOUL!)
+  - Fais Pas Tout Ca! (CRAWFISH GOT SOUL!)
+  - Bonsoir Moreau (CRAWFISH GOT SOUL!)
+  - Bosco Stomp (CRAWFISH GOT SOUL!)
+  - Bad Bad Woman (CRAWFISH GOT SOUL!)
+  - Linda Belle (CRAWFISH GOT SOUL!)
+  - Old Carpenter's Waltz (CRAWFISH GOT SOUL!)
+  - Zydeco Monkey Man (CRAWFISH GOT SOUL!)
 external_urls:
-  spotify: https://open.spotify.com/artist/5PR6n5Jd3hYNDlCN0j2Sda
+  spotify: 'https://open.spotify.com/artist/5PR6n5Jd3hYNDlCN0j2Sda'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/zydeco_kicks.jpg
 biography_enhanced_at: '2025-10-27T02:52:55.518620'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.tunecore.co.jp/artists/zydecokics?lang=en
-- https://www.allmusic.com/artist/zydeco-kicks-mn0003364558
+  - 'https://www.tunecore.co.jp/artists/zydecokics?lang=en'
+  - 'https://www.allmusic.com/artist/zydeco-kicks-mn0003364558'
 network_extracted: true
 entry_created: '2025-10-27T02:52:55.518639'
 last_updated: '2025-12-23T08:16:18.494176'
-origin: Southwest Louisiana, USA (origin of zydeco music, though the band's specific location is not specified)
+origin: >-
+  Southwest Louisiana, USA (origin of zydeco music, though the band's specific
+  location is not specified)
+artist_type: band
 ---
 
 ![](zydeco_kicks.jpg)

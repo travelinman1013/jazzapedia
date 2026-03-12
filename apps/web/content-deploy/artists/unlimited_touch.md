@@ -4,8 +4,8 @@ wiki_slug: unlimited-touch
 schema_version: 2
 status: active
 genres:
-- post-disco
-- disco
+  - post-disco
+  - disco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/unlimited_touch.jpg
   caption: Unlimited Touch
@@ -25,51 +25,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Audrey Wheeler
-  - Lenny Underwood
-  - Stephanie James
-  - Sandy Anderson
-  - Phil Hamilton
-  - Tony Cintron
+    - Audrey Wheeler
+    - Lenny Underwood
+    - Stephanie James
+    - Sandy Anderson
+    - Phil Hamilton
+    - Tony Cintron
   influenced:
-  - Faith Evans
-  - House and dance music producers
+    - Faith Evans
+    - House and dance music producers
   mentors:
-  - Raymond Reid and William Anderson
+    - Raymond Reid and William Anderson
 spotify_data:
   followers: 35525
   id: 4VaFWblR1Rv24L8kAfhtxm
   popularity: 32
-  url: https://open.spotify.com/artist/4VaFWblR1Rv24L8kAfhtxm
+  url: 'https://open.spotify.com/artist/4VaFWblR1Rv24L8kAfhtxm'
 discography_enriched: true
 top_tracks:
-- I Hear Music in the Streets - François Kevorkian Mix (Searching to Find the One)
-- In the Middle (Searching to Find the One)
-- Happy Ever After (Unlimited Touch)
-- Searching to Find the One (Searching to Find the One)
-- Good Loving (Searching to Find the One)
-- Searching to Find the One - Remix (Searching to Find the One)
-- Music Is My Life (feat. Unlimited Touch) (Expansions In The NYC)
-- Music Is My Life - Dave Lee Remix (Music Is My Life (Remixes))
-- Your Love Is Serious (Searching to Find the One)
-- Carry On (Unlimited Touch)
+  - >-
+    I Hear Music in the Streets - François Kevorkian Mix (Searching to Find the
+    One)
+  - In the Middle (Searching to Find the One)
+  - Happy Ever After (Unlimited Touch)
+  - Searching to Find the One (Searching to Find the One)
+  - Good Loving (Searching to Find the One)
+  - Searching to Find the One - Remix (Searching to Find the One)
+  - Music Is My Life (feat. Unlimited Touch) (Expansions In The NYC)
+  - Music Is My Life - Dave Lee Remix (Music Is My Life (Remixes))
+  - Your Love Is Serious (Searching to Find the One)
+  - Carry On (Unlimited Touch)
 external_urls:
-  spotify: https://open.spotify.com/artist/4VaFWblR1Rv24L8kAfhtxm
-  wikipedia: https://en.wikipedia.org/wiki/Unlimited_Touch
+  spotify: 'https://open.spotify.com/artist/4VaFWblR1Rv24L8kAfhtxm'
+  wikipedia: 'https://en.wikipedia.org/wiki/Unlimited_Touch'
 image_path: 03_Resources/source_material/ArtistPortraits/unlimited_touch.jpg
 biography_enhanced_at: '2025-11-02T07:40:06.576605'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Unlimited+Touch/+wiki
-- http://www.soulwalking.co.uk/Unlimited%20Touch.html
-- https://jazzrocksoul.com/artists/unlimited-touch/
-- https://ginalovesjazz.com/r-i-p-sandy-anderson-wallace-roney/
+  - 'https://www.last.fm/music/Unlimited+Touch/+wiki'
+  - 'http://www.soulwalking.co.uk/Unlimited%20Touch.html'
+  - 'https://jazzrocksoul.com/artists/unlimited-touch/'
+  - 'https://ginalovesjazz.com/r-i-p-sandy-anderson-wallace-roney/'
 network_extracted: true
 entry_created: '2025-11-02T07:40:06.576617'
 last_updated: '2025-12-23T08:16:17.786046'
-origin: New York, New York, United States
-
+origin: 'New York, New York, United States'
+artist_type: band
 ---
 
 ![](unlimited_touch.jpg)

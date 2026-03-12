@@ -1,95 +1,99 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ad0e8f90-a194-4b71-a126-0003c094e49f
-  name: Art Van Damme Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ba2cbad3-5283-498f-a629-a06c1b7bda74
-  name: Joe Pass Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: f0ce8981-5576-4604-8b14-562ead5adf29
-  name: Tony Pastor & His Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  - original
-  mbid: acc5dc7c-62a0-485a-8a0a-6627001f5cb4
-  name: The Joe Pass Trio
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: 20ad3c84-7399-4c36-8aa9-53cdb4223169
-  name: Tommy Gumina Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ad0e8f90-a194-4b71-a126-0003c094e49f
+    name: Art Van Damme Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ba2cbad3-5283-498f-a629-a06c1b7bda74
+    name: Joe Pass Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: f0ce8981-5576-4604-8b14-562ead5adf29
+    name: Tony Pastor & His Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+      - original
+    mbid: acc5dc7c-62a0-485a-8a0a-6627001f5cb4
+    name: The Joe Pass Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 20ad3c84-7399-4c36-8aa9-53cdb4223169
+    name: Tommy Gumina Trio
 biography_enhanced_at: '2026-01-22T06:59:00.189674'
 birth_date: '1929-01-13'
-birth_place: New Brunswick
+birth_place: 'New Brunswick, New Jersey, United States'
 death_date: '1994-05-23'
 disambiguation: jazz guitarist
 enhancement_provider: perplexity
 entry_created: '2026-01-22T06:59:00.189681'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2f43e416-f1bf-4f04-8853-a0019aa12441
-  spotify: https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ
+  musicbrainz: 'https://musicbrainz.org/artist/2f43e416-f1bf-4f04-8853-a0019aa12441'
+  spotify: 'https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ'
   wikipedia: ''
 gender: Male
 genres:
-- jazz
-- bebop
-- jazz ballads
-- vocal jazz
-- hard bop
+  - jazz
+  - bebop
+  - jazz ballads
+  - vocal jazz
+  - hard bop
 image_path: 03_Resources/source_material/ArtistPortraits/joe_pass.jpg
 instruments:
-- guitar
-- original
-- acoustic guitar
-- 12 string guitar
-- electric guitar
+  - guitar
+  - original
+  - acoustic guitar
+  - 12 string guitar
+  - electric guitar
 last_updated: '2026-01-22T06:59:00.189682'
 musical_connections:
   collaborators:
-  - Norman Granz
-  - Oscar Peterson
-  - Niels-Henning Ørsted Pedersen
-  - John Pisano
-  - George Shearing
-  - Dick Bock
+    - Norman Granz
+    - Oscar Peterson
+    - Niels-Henning Ørsted Pedersen
+    - John Pisano
+    - George Shearing
+    - Dick Bock
   influenced:
-  - Joe Diorio
+    - Joe Diorio
   mentors:
-  - Django Reinhardt
-  - Harry Volpe
+    - Django Reinhardt
+    - Harry Volpe
 musicbrainz_id: 2f43e416-f1bf-4f04-8853-a0019aa12441
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.guitarworld.com/features/the-legend-of-jazz-guitar-pioneer-joe-pass
-- https://www.jazzguitarlessons.net/blog/joe-pass
-- https://www.mosaicrecords.com/the-great-jazz-artists/joe-pass/
-- https://concord.com/artist/joe-pass/
-- https://www.jerryjazzmusician.com/remembering-joe-pass-versatile-jazz-guitar-virtuoso-by-kenneth-parsons/
-- https://www.ultimate-guitar.com/articles/features/from_drug_addict_to_jazz_legend_life_and_work_of_joe_pass-75663
+  - >-
+    https://www.guitarworld.com/features/the-legend-of-jazz-guitar-pioneer-joe-pass
+  - 'https://www.jazzguitarlessons.net/blog/joe-pass'
+  - 'https://www.mosaicrecords.com/the-great-jazz-artists/joe-pass/'
+  - 'https://concord.com/artist/joe-pass/'
+  - >-
+    https://www.jerryjazzmusician.com/remembering-joe-pass-versatile-jazz-guitar-virtuoso-by-kenneth-parsons/
+  - >-
+    https://www.ultimate-guitar.com/articles/features/from_drug_addict_to_jazz_legend_life_and_work_of_joe_pass-75663
 spotify_data:
   followers: 152074
   id: 4DuZTASH5eSyd0K73W6fuZ
   popularity: 48
-  url: https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ
+  url: 'https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ'
 status: active
 tags:
-- american
-- bebop
-- jazz
+  - american
+  - bebop
+  - jazz
 title: Joe Pass
+is_active: false
 ---
 
 ![](joe_pass.jpg)

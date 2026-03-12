@@ -2,14 +2,14 @@
 title: En Vogue
 wiki_slug: en-vogue
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1988-07-18'
 genres:
-- new jack swing
+  - new jack swing
 instruments:
-- original
-- background vocals
+  - original
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/en_vogue.jpg
   caption: En Vogue
@@ -30,99 +30,101 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ne-Yo
-  - Raphael Saadiq
-  - 'Band Members: Terry Ellis, Dawn Robinson, Cindy Herron, Maxine Jones, Rhona Bennett, Amanda Cole'
+    - Ne-Yo
+    - Raphael Saadiq
+    - >-
+      Band Members: Terry Ellis, Dawn Robinson, Cindy Herron, Maxine Jones,
+      Rhona Bennett, Amanda Cole
   influenced:
-  - Destiny's Child
-  - TLC
-  - Little Mix
+    - Destiny's Child
+    - TLC
+    - Little Mix
   mentors:
-  - Denzil Foster & Thomas McElroy
-  - The Supremes
+    - Denzil Foster & Thomas McElroy
+    - The Supremes
 spotify_data:
   followers: 1478067
   id: 5fikk4h5qbEebqK2Fc6e48
   popularity: 56
-  url: https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48
+  url: 'https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48'
 discography_enriched: true
 top_tracks:
-- Whatta Man (Very Necessary)
-- Don't Let Go (Love) (EV3)
-- My Lovin' (You're Never Gonna Get It) (Funky Divas)
-- Free Your Mind (Funky Divas)
-- Hold On (Born to Sing)
-- Giving Him Something He Can Feel (Funky Divas)
-- Whatta Man (feat. En Vogue) - EP Version
-- Whatta Man (feat. En Vogue) - EP Version
-- My Lovin' (You're Never Gonna Get It)
-- Don't Let Go (Love)
+  - Whatta Man (Very Necessary)
+  - Don't Let Go (Love) (EV3)
+  - My Lovin' (You're Never Gonna Get It) (Funky Divas)
+  - Free Your Mind (Funky Divas)
+  - Hold On (Born to Sing)
+  - Giving Him Something He Can Feel (Funky Divas)
+  - Whatta Man (feat. En Vogue) - EP Version
+  - Whatta Man (feat. En Vogue) - EP Version
+  - My Lovin' (You're Never Gonna Get It)
+  - Don't Let Go (Love)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9a883a69-436b-4d17-9ffd-122a9bf4419a
-  spotify: https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48
-  wikipedia: https://en.wikipedia.org/wiki/En_Vogue
+  musicbrainz: 'https://musicbrainz.org/artist/9a883a69-436b-4d17-9ffd-122a9bf4419a'
+  spotify: 'https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48'
+  wikipedia: 'https://en.wikipedia.org/wiki/En_Vogue'
 image_path: 03_Resources/source_material/ArtistPortraits/en_vogue.jpg
 biography_enhanced_at: '2025-11-20T06:50:15.170589'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/En_Vogue
-- https://www.envoguemusic.com/bio
-- https://blackpast.org/african-american-history/en-vogue-1989/
-- https://geoffreyslive.com/oaktown-sound/in-oakland-its-en-vogue/
+  - 'https://en.wikipedia.org/wiki/En_Vogue'
+  - 'https://www.envoguemusic.com/bio'
+  - 'https://blackpast.org/african-american-history/en-vogue-1989/'
+  - 'https://geoffreyslive.com/oaktown-sound/in-oakland-its-en-vogue/'
 network_extracted: true
 entry_created: '2025-11-20T06:50:15.170596'
 last_updated: '2025-12-23T08:16:08.390989'
 members:
-- begin: '1988'
-  end: '1996'
-  instruments:
-  - original
-  mbid: e8264276-e462-40f5-b195-8cdde4f3c0ef
-  name: Dawn Robinson
-- &id001
-  begin: '1988'
-  end: ''
-  instruments:
-  - original
-  mbid: 9a78d04a-7140-4389-952f-8d28d8bc7521
-  name: Terry Ellis
-- &id002
-  begin: '1988'
-  end: ''
-  instruments:
-  - original
-  mbid: 49c8bd9e-21be-4769-a1fe-e1a85fd5b803
-  name: Cindy Herron
-- &id003
-  begin: '1988'
-  end: ''
-  instruments:
-  - original
-  mbid: 3e325d04-456b-4c6d-980b-829b27a4f0bb
-  name: Maxine Jones
-- begin: '2001'
-  end: '2003'
-  instruments: []
-  mbid: d452fb60-eeb7-4629-a78f-477eca6a1e7c
-  name: Amanda Jones
-- &id004
-  begin: 2003-09
-  end: ''
-  instruments: []
-  mbid: 38dd3df3-7e89-4a1d-b25e-013821523094
-  name: Rhona
+  - begin: '1988'
+    end: '1996'
+    instruments:
+      - original
+    mbid: e8264276-e462-40f5-b195-8cdde4f3c0ef
+    name: Dawn Robinson
+  - &ref_0
+    begin: '1988'
+    end: ''
+    instruments:
+      - original
+    mbid: 9a78d04a-7140-4389-952f-8d28d8bc7521
+    name: Terry Ellis
+  - &ref_1
+    begin: '1988'
+    end: ''
+    instruments:
+      - original
+    mbid: 49c8bd9e-21be-4769-a1fe-e1a85fd5b803
+    name: Cindy Herron
+  - &ref_2
+    begin: '1988'
+    end: ''
+    instruments:
+      - original
+    mbid: 3e325d04-456b-4c6d-980b-829b27a4f0bb
+    name: Maxine Jones
+  - begin: '2001'
+    end: '2003'
+    instruments: []
+    mbid: d452fb60-eeb7-4629-a78f-477eca6a1e7c
+    name: Amanda Jones
+  - &ref_3
+    begin: 2003-09
+    end: ''
+    instruments: []
+    mbid: 38dd3df3-7e89-4a1d-b25e-013821523094
+    name: Rhona
 musicbrainz_id: 9a883a69-436b-4d17-9ffd-122a9bf4419a
-origin: Oakland
+origin: 'Oakland, California, United States'
 original_members:
-- *id001
-- *id002
-- *id003
-- *id004
+  - *ref_0
+  - *ref_1
+  - *ref_2
+  - *ref_3
 tags:
-- contemporary r&b
-- east coast hip hop
-- funk rock
+  - contemporary r&b
+  - east coast hip hop
+  - funk rock
 ---
 
 ![](en_vogue.jpg)

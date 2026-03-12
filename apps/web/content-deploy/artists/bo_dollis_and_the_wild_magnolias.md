@@ -3,42 +3,46 @@ biography_enhanced_at: '2026-01-18T07:46:16.475733'
 enhancement_provider: perplexity
 entry_created: '2026-01-18T07:46:16.475739'
 external_urls:
-  spotify: https://open.spotify.com/artist/7diTCcwJcT8kMGI6cWhKgI
-  wikipedia: https://en.wikipedia.org/wiki/The_Wild_Magnolias
+  spotify: 'https://open.spotify.com/artist/7diTCcwJcT8kMGI6cWhKgI'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Wild_Magnolias'
 genres:
-- cajun
+  - cajun
 image_path: ''
 last_updated: '2026-01-18T07:46:16.475740'
 musical_connections:
   collaborators:
-  - Monk Boudreaux
-  - Willie Tee
-  - Snooks Eaglin
-  - Allen Toussaint
-  - Quint Davis
-  - Gerard 'Bo Jr.' Dollis
+    - Monk Boudreaux
+    - Willie Tee
+    - Snooks Eaglin
+    - Allen Toussaint
+    - Quint Davis
+    - Gerard 'Bo Jr.' Dollis
   influenced:
-  - Gerard 'Bo Jr.' Dollis
-  - Big Queen Laurita Dollis
+    - Gerard 'Bo Jr.' Dollis
+    - Big Queen Laurita Dollis
   mentors:
-  - Tootie Montana
+    - Tootie Montana
 network_extracted: true
-origin: New Orleans, Louisiana, USA
+origin: 'New Orleans, Louisiana, USA'
 primary_source: perplexity
 research_sources:
-- https://iambricemiller.wordpress.com/2015/01/20/r-i-p-big-chief-bo-dollis-of-the-wild-magnolia-mardi-gras-indians/
-- https://en.wikipedia.org/wiki/The_Wild_Magnolias
-- https://www.arts.gov/honors/heritage/bo-dollis
-- https://www.offbeat.com/news/theodore-emile-bo-dollis/
-- https://m.sunnysiderecords.com/index.php/artist/id/312
-- https://www.neworleans.com/listing/big-chief-bo-dollis-jr-&-the-wild-magnolias/48484/
+  - >-
+    https://iambricemiller.wordpress.com/2015/01/20/r-i-p-big-chief-bo-dollis-of-the-wild-magnolia-mardi-gras-indians/
+  - 'https://en.wikipedia.org/wiki/The_Wild_Magnolias'
+  - 'https://www.arts.gov/honors/heritage/bo-dollis'
+  - 'https://www.offbeat.com/news/theodore-emile-bo-dollis/'
+  - 'https://m.sunnysiderecords.com/index.php/artist/id/312'
+  - >-
+    https://www.neworleans.com/listing/big-chief-bo-dollis-jr-&-the-wild-magnolias/48484/
 spotify_data:
   followers: 92
   id: 7diTCcwJcT8kMGI6cWhKgI
   popularity: 11
-  url: https://open.spotify.com/artist/7diTCcwJcT8kMGI6cWhKgI
+  url: 'https://open.spotify.com/artist/7diTCcwJcT8kMGI6cWhKgI'
 status: active
 title: Bo Dollis & The Wild Magnolias
+death_date: '2015-01-20'
+artist_type: band
 ---
 
 ![]()

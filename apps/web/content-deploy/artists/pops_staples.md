@@ -1,17 +1,17 @@
 ---
-title: pops staples
+title: Pops Staples
 wiki_slug: pops-staples
 schema_version: 2
 status: active
-birth_place: Winona, Mississippi, USA
+birth_place: 'Winona, Mississippi, USA'
 genres:
-- blues
-- roots rock
+  - blues
+  - roots rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/pops_staples.jpg
   caption: pops staples
   background: solo_singer
-  origin: Winona, Mississippi, USA
+  origin: 'Winona, Mississippi, USA'
 audio_profile:
   tempo_avg: 124.8
   energy_avg: 0.405
@@ -27,51 +27,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Staple Singers
-  - Albert King
-  - Steve Cropper
-  - Jackson Browne, Bonnie Raitt, Ry Cooder
+    - The Staple Singers
+    - Albert King
+    - Steve Cropper
+    - 'Jackson Browne, Bonnie Raitt, Ry Cooder'
   influenced:
-  - Mavis Staples
-  - The Rolling Stones
-  - Countless gospel, soul, and rock musicians
+    - Mavis Staples
+    - The Rolling Stones
+    - 'Countless gospel, soul, and rock musicians'
   mentors:
-  - Charley Patton
-  - Robert Johnson
-  - Son House
+    - Charley Patton
+    - Robert Johnson
+    - Son House
 spotify_data:
   followers: 18403
   id: 0F8Bkp3cWlXJKp1GmFV5n3
   popularity: 26
-  url: https://open.spotify.com/artist/0F8Bkp3cWlXJKp1GmFV5n3
+  url: 'https://open.spotify.com/artist/0F8Bkp3cWlXJKp1GmFV5n3'
 discography_enriched: true
 top_tracks:
-- Somebody Was Watching (Don't Lose This)
-- Somebody Was Watching (Don't Lose This)
-- Friendship (Don't Lose This)
-- Friendship (Don't Lose This)
-- World In Motion (Peace To The Neighborhood)
-- No News Is Good News (Don't Lose This)
-- Tupelo (Pt. 1) - Single Version (The Very Best Of Albert King)
-- No News Is Good News (Don't Lose This)
-- Down In Mississippi (Peace To The Neighborhood)
-- Water (The Very Best Of Albert King)
+  - Somebody Was Watching (Don't Lose This)
+  - Somebody Was Watching (Don't Lose This)
+  - Friendship (Don't Lose This)
+  - Friendship (Don't Lose This)
+  - World In Motion (Peace To The Neighborhood)
+  - No News Is Good News (Don't Lose This)
+  - Tupelo (Pt. 1) - Single Version (The Very Best Of Albert King)
+  - No News Is Good News (Don't Lose This)
+  - Down In Mississippi (Peace To The Neighborhood)
+  - Water (The Very Best Of Albert King)
 external_urls:
-  spotify: https://open.spotify.com/artist/0F8Bkp3cWlXJKp1GmFV5n3
-  wikipedia: https://en.wikipedia.org/wiki/Pops_Staples
+  spotify: 'https://open.spotify.com/artist/0F8Bkp3cWlXJKp1GmFV5n3'
+  wikipedia: 'https://en.wikipedia.org/wiki/Pops_Staples'
 image_path: 03_Resources/source_material/ArtistPortraits/pops_staples.jpg
 biography_enhanced_at: '2025-11-11T09:35:37.563378'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Pops_Staples
-- https://www.ebsco.com/research-starters/biography/pops-staples
-- https://msbluestrail.org/blues-trail-markers/pops-staples
-- https://fromthevaults-boppinbob.blogspot.com/2023/12/pops-staples-born-28-december-1914.html
-- https://www.premierguitar.com/artists/forgotten-heroes-pops-staples
+  - 'https://en.wikipedia.org/wiki/Pops_Staples'
+  - 'https://www.ebsco.com/research-starters/biography/pops-staples'
+  - 'https://msbluestrail.org/blues-trail-markers/pops-staples'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2023/12/pops-staples-born-28-december-1914.html
+  - 'https://www.premierguitar.com/artists/forgotten-heroes-pops-staples'
 network_extracted: true
 entry_created: '2025-11-11T09:35:37.563386'
 last_updated: '2025-12-23T08:16:14.404460'
+origin: 'Chicago, Illinois, United States'
+birth_date: '1914-12-28'
+death_date: '2000-12-19'
+artist_type: person
 ---
 
 ![](pops_staples.jpg)

@@ -1,41 +1,41 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-10T01:09:56.483113'
 birth_date: '2000'
 disambiguation: Japanese band
 enhancement_provider: perplexity
 entry_created: '2026-01-10T01:09:56.483120'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ba5f6dc8-4ea7-499d-b428-343eb5e26923
-  spotify: https://open.spotify.com/artist/0ze1MQeQVx6H9Ad445W8Fh
+  musicbrainz: 'https://musicbrainz.org/artist/ba5f6dc8-4ea7-499d-b428-343eb5e26923'
+  spotify: 'https://open.spotify.com/artist/0ze1MQeQVx6H9Ad445W8Fh'
   wikipedia: ''
 genres:
-- hardcore punk
+  - hardcore punk
 image_path: 03_Resources/source_material/ArtistPortraits/slugger.jpg
 last_updated: '2026-01-10T01:09:56.483120'
 musical_connections:
   collaborators:
-  - Try and Stop Me Records
-  - Longshot Music
-  - Conservative Military Image
+    - Try and Stop Me Records
+    - Longshot Music
+    - Conservative Military Image
   influenced: []
   mentors:
-  - The Templars
+    - The Templars
 musicbrainz_id: ba5f6dc8-4ea7-499d-b428-343eb5e26923
 network_extracted: true
-origin: Tokyo
+origin: 'Northern California, United States'
 primary_source: perplexity
 research_sources:
-- https://lastyearsyouth.com/issue/7/
-- https://www.noecho.net/features/conservative-military-image-band-interview
-- https://queencitysoundsandart.wordpress.com/tag/slugger/
-- https://www.youtube.com/watch?v=X_sMg7NbJjM
-- https://www.youtube.com/watch?v=dk8VMhTNN1U
+  - 'https://lastyearsyouth.com/issue/7/'
+  - 'https://www.noecho.net/features/conservative-military-image-band-interview'
+  - 'https://queencitysoundsandart.wordpress.com/tag/slugger/'
+  - 'https://www.youtube.com/watch?v=X_sMg7NbJjM'
+  - 'https://www.youtube.com/watch?v=dk8VMhTNN1U'
 spotify_data:
   followers: 3934
   id: 0ze1MQeQVx6H9Ad445W8Fh
   popularity: 17
-  url: https://open.spotify.com/artist/0ze1MQeQVx6H9Ad445W8Fh
+  url: 'https://open.spotify.com/artist/0ze1MQeQVx6H9Ad445W8Fh'
 status: active
 title: Slugger
 ---

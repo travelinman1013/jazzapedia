@@ -4,41 +4,45 @@ birth_place: United States
 enhancement_provider: perplexity
 entry_created: '2026-01-20T01:16:48.576459'
 external_urls:
-  spotify: https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn
-  wikipedia: https://en.wikipedia.org/wiki/Marc_Ribot
+  spotify: 'https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn'
+  wikipedia: 'https://en.wikipedia.org/wiki/Marc_Ribot'
 genres:
-- afro-cuban jazz
-- latin jazz
-- free jazz
+  - afro-cuban jazz
+  - latin jazz
+  - free jazz
 image_path: 03_Resources/source_material/ArtistPortraits/marc_ribot_and_tom_waits.jpg
 last_updated: '2026-01-20T01:16:48.576459'
 musical_connections:
   collaborators:
-  - Tom Waits
-  - Elvis Costello
-  - John Zorn
-  - T Bone Burnett
-  - Robert Plant & Alison Krauss
+    - Tom Waits
+    - Elvis Costello
+    - John Zorn
+    - T Bone Burnett
+    - Robert Plant & Alison Krauss
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Marc_Ribot
-- https://necmusic.edu/events/an-artist-discussion-with-marc-ribot/
-- https://www.marcribot.com/bio
-- https://www.guitarworld.com/features/marc-ribot-connection
-- https://milwaukeerecord.com/music/come-on-we-dont-get-to-play-in-milwaukee-every-day-marc-ribot-brings-jazz-bins-to-vivarium/
-- http://www.jazzmusicarchives.com/forum/forum_posts.asp?TID=32626
-- https://www.songlines.co.uk/features/a-beginner-s-guide/marc-ribot-a-beginner-s-guide
-- https://wexarts.org/read-watch-listen/practice-qa-marc-ribot
+  - 'https://en.wikipedia.org/wiki/Marc_Ribot'
+  - 'https://necmusic.edu/events/an-artist-discussion-with-marc-ribot/'
+  - 'https://www.marcribot.com/bio'
+  - 'https://www.guitarworld.com/features/marc-ribot-connection'
+  - >-
+    https://milwaukeerecord.com/music/come-on-we-dont-get-to-play-in-milwaukee-every-day-marc-ribot-brings-jazz-bins-to-vivarium/
+  - 'http://www.jazzmusicarchives.com/forum/forum_posts.asp?TID=32626'
+  - >-
+    https://www.songlines.co.uk/features/a-beginner-s-guide/marc-ribot-a-beginner-s-guide
+  - 'https://wexarts.org/read-watch-listen/practice-qa-marc-ribot'
 spotify_data:
   followers: 50716
   id: 7jAeRfT8LYCxydM2Y1Egvn
   popularity: 39
-  url: https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn
+  url: 'https://open.spotify.com/artist/7jAeRfT8LYCxydM2Y1Egvn'
 status: active
 title: Marc Ribot & Tom Waits
+birth_date: '1954-05-21'
+artist_type: person
 ---
 
 ![](marc_ribot_and_tom_waits.jpg)

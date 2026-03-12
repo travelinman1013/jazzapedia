@@ -1,13 +1,13 @@
 ---
-title: LOUVIN BROTHERS
+title: Louvin Brothers
 wiki_slug: louvin-brothers
 schema_version: 2
 status: active
 genres:
-- christian country
-- bluegrass
-- traditional country
-- honky tonk
+  - christian country
+  - bluegrass
+  - traditional country
+  - honky tonk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/louvin_brothers.jpg
   caption: LOUVIN BROTHERS
@@ -18,7 +18,7 @@ audio_profile:
   valence_avg: 0.705
   danceability_avg: 0.6
   acousticness_avg: 0.676
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -9.6
   speechiness_avg: 0.033
   liveness_avg: 0.186
@@ -27,48 +27,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Chet Atkins
-  - Wiley Burchfield, Page Heppler, Sandy Sandusky
-  - Elvis Presley
+    - Chet Atkins
+    - 'Wiley Burchfield, Page Heppler, Sandy Sandusky'
+    - Elvis Presley
   influenced:
-  - John D. Loudermilk
+    - John D. Loudermilk
   mentors:
-  - Charlie Monroe
-  - Fred Rose
+    - Charlie Monroe
+    - Fred Rose
 spotify_data:
   followers: 37552
   id: 3TUYqYNCqgqeqkBZVyxEi6
   popularity: 36
-  url: https://open.spotify.com/artist/3TUYqYNCqgqeqkBZVyxEi6
+  url: 'https://open.spotify.com/artist/3TUYqYNCqgqeqkBZVyxEi6'
 discography_enriched: true
 top_tracks:
-- The Great Atomic Power (Weapon Of Prayer)
-- My Baby's Gone (My Baby's Gone)
-- Cash On The Barrel Head (Encore)
-- Satan Is Real (Satan Is Real)
-- You're Running Wild (My Baby's Gone)
-- If I Could Only Win Your Love (Country Love Ballads)
-- The River Of Jordan (Satan Is Real)
-- Knoxville Girl - The Original Album (Tragic Songs of Life)
-- Knoxville Girl (Knoxville Girl)
-- I Wish You Knew (My Baby's Gone)
+  - The Great Atomic Power (Weapon Of Prayer)
+  - My Baby's Gone (My Baby's Gone)
+  - Cash On The Barrel Head (Encore)
+  - Satan Is Real (Satan Is Real)
+  - You're Running Wild (My Baby's Gone)
+  - If I Could Only Win Your Love (Country Love Ballads)
+  - The River Of Jordan (Satan Is Real)
+  - Knoxville Girl - The Original Album (Tragic Songs of Life)
+  - Knoxville Girl (Knoxville Girl)
+  - I Wish You Knew (My Baby's Gone)
 external_urls:
-  spotify: https://open.spotify.com/artist/3TUYqYNCqgqeqkBZVyxEi6
-  wikipedia: https://en.wikipedia.org/wiki/The_Louvin_Brothers
+  spotify: 'https://open.spotify.com/artist/3TUYqYNCqgqeqkBZVyxEi6'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Louvin_Brothers'
 image_path: 03_Resources/source_material/ArtistPortraits/louvin_brothers.jpg
 biography_enhanced_at: '2025-12-22T01:38:29.603921'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.alamhof.org/louvinbrothers
-- https://encyclopediaofalabama.org/article/louvin-brothers/
-- https://bluegrassunlimited.com/article/the-louvin-brothers/
-- https://en.wikipedia.org/wiki/The_Louvin_Brothers
+  - 'https://www.alamhof.org/louvinbrothers'
+  - 'https://encyclopediaofalabama.org/article/louvin-brothers/'
+  - 'https://bluegrassunlimited.com/article/the-louvin-brothers/'
+  - 'https://en.wikipedia.org/wiki/The_Louvin_Brothers'
 network_extracted: true
 entry_created: '2025-12-22T01:38:29.603927'
 last_updated: '2025-12-23T08:16:12.283599'
-origin: Section/Henegar, Alabama, USA
-
+origin: 'Section/Henegar, Alabama, USA'
+birth_place: 'Henegar, Alabama, United States'
+birth_date: '1924-04-21'
+artist_type: band
 ---
 
 ![](louvin_brothers.jpg)

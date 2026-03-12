@@ -1,18 +1,19 @@
 ---
-title: BILL HENDERSON WITH OSCAR PETERSON TRIO
+title: Bill Henderson With Oscar Peterson Trio
 wiki_slug: bill-henderson-with-oscar-peterson-trio
 schema_version: 2
 status: active
-birth_place: Chicago, Illinois, United States
+birth_place: 'Chicago, Illinois, United States'
 genres:
-- jazz
-- cool jazz
-- bebop
+  - jazz
+  - cool jazz
+  - bebop
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/bill_henderson_with_oscar_peterson_trio.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/bill_henderson_with_oscar_peterson_trio.jpg
   caption: BILL HENDERSON WITH OSCAR PETERSON TRIO
   background: solo_singer
-  origin: Chicago, Illinois, United States
+  origin: 'Chicago, Illinois, United States'
 audio_profile:
   tempo_avg: 107.4
   energy_avg: 0.195
@@ -28,50 +29,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Oscar Peterson Trio (Oscar Peterson, Ray Brown, Ed Thigpen)
-  - Count Basie Orchestra
-  - Art Blakey's Jazz Messengers
-  - Jimmy Smith
-  - Charlie Haden
+    - 'Oscar Peterson Trio (Oscar Peterson, Ray Brown, Ed Thigpen)'
+    - Count Basie Orchestra
+    - Art Blakey's Jazz Messengers
+    - Jimmy Smith
+    - Charlie Haden
   influenced:
-  - Joe Williams
-  - Ernie Andrews
+    - Joe Williams
+    - Ernie Andrews
   mentors:
-  - Ramsey Lewis
-  - Horace Silver
+    - Ramsey Lewis
+    - Horace Silver
 spotify_data:
   followers: 318641
   id: 6zkX5fhrSD4tdVOmimR9wB
   popularity: 57
-  url: https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB
+  url: 'https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB'
 discography_enriched: true
 top_tracks:
-- Blue And Sentimental (Oscar Peterson Plays Count Basie)
-- A Foggy Day (Oscar Peterson Plays The George Gershwin Song Book)
-- 'Cocktails For Two (Verve Jazz Masters 34: Coleman Hawkins)'
-- Mumbles (Oscar Peterson's Finest Hour)
-- In The Wee Small Hours Of The Morning (Jazz 'Round Midnight)
-- Sunday (Ben Webster's Finest Hour)
-- John Hardy's Wife (Oscar Peterson Plays The Duke Ellington Song Book)
-- 'A Foggy Day (Cosmopolite: The Oscar Peterson Verve Sessions)'
-- Love Is Here To Stay (Oscar Peterson Plays The George Gershwin Song Book)
-- When Your Lover Has Gone (Ben Webster Meets Oscar Peterson)
+  - Blue And Sentimental (Oscar Peterson Plays Count Basie)
+  - A Foggy Day (Oscar Peterson Plays The George Gershwin Song Book)
+  - 'Cocktails For Two (Verve Jazz Masters 34: Coleman Hawkins)'
+  - Mumbles (Oscar Peterson's Finest Hour)
+  - In The Wee Small Hours Of The Morning (Jazz 'Round Midnight)
+  - Sunday (Ben Webster's Finest Hour)
+  - John Hardy's Wife (Oscar Peterson Plays The Duke Ellington Song Book)
+  - 'A Foggy Day (Cosmopolite: The Oscar Peterson Verve Sessions)'
+  - Love Is Here To Stay (Oscar Peterson Plays The George Gershwin Song Book)
+  - When Your Lover Has Gone (Ben Webster Meets Oscar Peterson)
 external_urls:
-  spotify: https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB
-  wikipedia: https://en.wikipedia.org/wiki/Bill_Henderson_(performer)
-image_path: 03_Resources/source_material/ArtistPortraits/bill_henderson_with_oscar_peterson_trio.jpg
+  spotify: 'https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bill_Henderson_(performer)'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/bill_henderson_with_oscar_peterson_trio.jpg
 biography_enhanced_at: '2025-11-24T08:37:56.030554'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Bill_Henderson_(performer)
-- https://en.wikipedia.org/wiki/Bill_Henderson_with_the_Oscar_Peterson_Trio
-- https://www.televisionacademy.com/bios/bill-henderson
-- https://litchfieldjazzfest.com/artwork/bill-henderson-quartet/
-- https://jazztimes.com/features/tributes-and-obituaries/singer-bill-henderson-dies-at-90/
+  - 'https://en.wikipedia.org/wiki/Bill_Henderson_(performer)'
+  - 'https://en.wikipedia.org/wiki/Bill_Henderson_with_the_Oscar_Peterson_Trio'
+  - 'https://www.televisionacademy.com/bios/bill-henderson'
+  - 'https://litchfieldjazzfest.com/artwork/bill-henderson-quartet/'
+  - >-
+    https://jazztimes.com/features/tributes-and-obituaries/singer-bill-henderson-dies-at-90/
 network_extracted: true
 entry_created: '2025-11-24T08:37:56.030558'
 last_updated: '2025-12-23T08:16:05.515089'
+birth_date: '1926'
+artist_type: person
 ---
 
 ![](bill_henderson_with_oscar_peterson_trio.jpg)

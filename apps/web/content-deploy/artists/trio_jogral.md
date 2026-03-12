@@ -3,35 +3,36 @@ biography_enhanced_at: '2026-01-04T01:57:29.441391'
 enhancement_provider: perplexity
 entry_created: '2026-01-04T01:57:29.441397'
 external_urls:
-  spotify: https://open.spotify.com/artist/64DbrayUXwCkteO6U6vdPa
-  wikipedia: https://en.wikipedia.org/wiki/Trio_Mocot%C3%B3
+  spotify: 'https://open.spotify.com/artist/64DbrayUXwCkteO6U6vdPa'
+  wikipedia: 'https://en.wikipedia.org/wiki/Trio_Mocot%C3%B3'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/trio_jogral.jpg
 last_updated: '2026-01-04T01:57:29.441398'
 musical_connections:
   collaborators:
-  - Toquinho and Vinicius
-  - Mayra Andrade
+    - Toquinho and Vinicius
+    - Mayra Andrade
   influenced:
-  - Brazilian samba-rock musicians
+    - Brazilian samba-rock musicians
   mentors:
-  - Jorge Ben
-  - Dizzy Gillespie
+    - Jorge Ben
+    - Dizzy Gillespie
 network_extracted: true
-origin: São Paulo, São Paulo, Brazil
+origin: 'São Paulo, São Paulo, Brazil'
 primary_source: perplexity
 research_sources:
-- https://en.estudiomedusa.com.br/triomocoto
-- https://en.wikipedia.org/wiki/Trio_Mocot%C3%B3
-- https://www.youtube.com/watch?v=mJCH99I9M7A
-- https://www.jango.com/music/Trio+Mocoto/_full_bio
+  - 'https://en.estudiomedusa.com.br/triomocoto'
+  - 'https://en.wikipedia.org/wiki/Trio_Mocot%C3%B3'
+  - 'https://www.youtube.com/watch?v=mJCH99I9M7A'
+  - 'https://www.jango.com/music/Trio+Mocoto/_full_bio'
 spotify_data:
   followers: 4
   id: 64DbrayUXwCkteO6U6vdPa
   popularity: 0
-  url: https://open.spotify.com/artist/64DbrayUXwCkteO6U6vdPa
+  url: 'https://open.spotify.com/artist/64DbrayUXwCkteO6U6vdPa'
 status: active
 title: Trio Jogral
+artist_type: band
 ---
 
 ![](trio_jogral.jpg)

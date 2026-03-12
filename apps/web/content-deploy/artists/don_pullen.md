@@ -1,79 +1,79 @@
 ---
-title: don pullen
+title: Don Pullen
 wiki_slug: don-pullen
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1941-12-25'
-birth_place: Roanoke
+birth_place: 'Roanoke, Virginia, United States'
 death_date: '1995-04-22'
 genres:
-- free jazz
-- avant-garde
-- jazz
+  - free jazz
+  - avant-garde
+  - jazz
 instruments:
-- eponymous
-- original
-- piano
-- electric piano
+  - eponymous
+  - original
+  - piano
+  - electric piano
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  - piano
-  mbid: 7ac6c37d-7e24-4364-9222-96e8cabe2282
-  name: The Don Pullen-George Adams Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  - piano
-  mbid: 5f633e7f-12d1-4a91-a304-03275a144c16
-  name: Don Pullen & The African-Brazilian Connection
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: cdb1aeb4-4b6c-4eb6-ace4-cb7f112b80fc
-  name: The Charles Mingus Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 551cefcd-a4e8-4690-92b2-4ba70d5b5a5c
-  name: Don Pullen Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: a872602b-8cc9-4ffd-b749-31a2c5f54a4e
-  name: The 360 Degree Music Experience
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: 31c858bb-0fbb-4957-a80d-4ec1b2916afc
-  name: David Murray & Low Class Conspiracy
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: 63b3f631-f12e-4820-b663-d02d2c0fb829
-  name: Hamiet Bluiett Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: 1c30fc59-bf94-4955-b5a8-8e7bb82a8123
-  name: Hamiet Bluiett & Concept
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0b87f371-4765-4d55-bbf0-95e66428a8ec
-  name: David Murray Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - piano
+    mbid: 7ac6c37d-7e24-4364-9222-96e8cabe2282
+    name: The Don Pullen-George Adams Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - piano
+    mbid: 5f633e7f-12d1-4a91-a304-03275a144c16
+    name: Don Pullen & The African-Brazilian Connection
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: cdb1aeb4-4b6c-4eb6-ace4-cb7f112b80fc
+    name: The Charles Mingus Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 551cefcd-a4e8-4690-92b2-4ba70d5b5a5c
+    name: Don Pullen Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: a872602b-8cc9-4ffd-b749-31a2c5f54a4e
+    name: The 360 Degree Music Experience
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: 31c858bb-0fbb-4957-a80d-4ec1b2916afc
+    name: David Murray & Low Class Conspiracy
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: 63b3f631-f12e-4820-b663-d02d2c0fb829
+    name: Hamiet Bluiett Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: 1c30fc59-bf94-4955-b5a8-8e7bb82a8123
+    name: Hamiet Bluiett & Concept
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0b87f371-4765-4d55-bbf0-95e66428a8ec
+    name: David Murray Quartet
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/don_pullen.jpg
   caption: don pullen
@@ -96,60 +96,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Giuseppi Logan
-  - Milford Graves
-  - Nina Simone
-  - Art Blakey
-  - Charles Mingus
-  - George Adams
-  - Dannie Richmond
-  - Cameron Brown
-  - Beaver Harris
-  - Hamiett Bluett
-  - David Murray
-  - John Scofield
-  - Gary Peacock
-  - Tony Williams
-  - James Genus
-  - Lewis Nash
-  - Kip Hanrahan
-  - Jane Bunnett
+    - Giuseppi Logan
+    - Milford Graves
+    - Nina Simone
+    - Art Blakey
+    - Charles Mingus
+    - George Adams
+    - Dannie Richmond
+    - Cameron Brown
+    - Beaver Harris
+    - Hamiett Bluett
+    - David Murray
+    - John Scofield
+    - Gary Peacock
+    - Tony Williams
+    - James Genus
+    - Lewis Nash
+    - Kip Hanrahan
+    - Jane Bunnett
   influenced: []
   mentors:
-  - Clyde "Fats" Wright
-  - Muhal Richard Abrams
+    - Clyde "Fats" Wright
+    - Muhal Richard Abrams
 spotify_data:
   followers: 6386
   id: 0zdSGWAAxDPCaU0Xa3FTQP
   popularity: 13
-  url: https://open.spotify.com/artist/0zdSGWAAxDPCaU0Xa3FTQP
+  url: 'https://open.spotify.com/artist/0zdSGWAAxDPCaU0Xa3FTQP'
 discography_enriched: true
 top_tracks:
-- God Has Smiled on Me (Melodic Excursions)
-- Aziz And Azizah - Continued (A Thousand Nights and a Night)
-- Jana's Delight (New Beginnings)
-- Ah George, We Hardly Knew You (Ode To Life)
-- Ode To Life (For Maurice Quesnel) (Random Thoughts)
-- Healing Force (Healing Force)
-- New Beginnings (New Beginnings)
-- The Third House On The Right (Ode To Life)
-- Variation On Ode To Life (Ode To Life)
-- Once Upon A Time (New Beginnings)
+  - God Has Smiled on Me (Melodic Excursions)
+  - Aziz And Azizah - Continued (A Thousand Nights and a Night)
+  - Jana's Delight (New Beginnings)
+  - 'Ah George, We Hardly Knew You (Ode To Life)'
+  - Ode To Life (For Maurice Quesnel) (Random Thoughts)
+  - Healing Force (Healing Force)
+  - New Beginnings (New Beginnings)
+  - The Third House On The Right (Ode To Life)
+  - Variation On Ode To Life (Ode To Life)
+  - Once Upon A Time (New Beginnings)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7a31f6c3-92cd-4b9d-b929-f168ef12b8cd
-  spotify: https://open.spotify.com/artist/0zdSGWAAxDPCaU0Xa3FTQP
+  musicbrainz: 'https://musicbrainz.org/artist/7a31f6c3-92cd-4b9d-b929-f168ef12b8cd'
+  spotify: 'https://open.spotify.com/artist/0zdSGWAAxDPCaU0Xa3FTQP'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/don_pullen.jpg
 biography_enhanced_at: '2025-11-27T06:37:24.108660'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- All About Jazz - Don Pullen Musician Profile
-- Blue Note Records - Don Pullen Artist Page
-- Arts Journal - Don Pullen, late pianist with an arts exhibit tribute
-- STLPR.org - The Career of Don Pullen
-- 'Jazz da Gama - Don Pullen: Ode To The Life Lived'
-- Virginia Tech Scholar - Jazz Pianist Don Pullen Dies at 53
+  - All About Jazz - Don Pullen Musician Profile
+  - Blue Note Records - Don Pullen Artist Page
+  - 'Arts Journal - Don Pullen, late pianist with an arts exhibit tribute'
+  - STLPR.org - The Career of Don Pullen
+  - 'Jazz da Gama - Don Pullen: Ode To The Life Lived'
+  - Virginia Tech Scholar - Jazz Pianist Don Pullen Dies at 53
 network_extracted: true
 entry_created: '2025-11-27T06:37:24.108674'
 last_updated: '2025-12-23T08:16:07.894779'
@@ -157,10 +157,10 @@ disambiguation: pianist
 gender: Male
 musicbrainz_id: 7a31f6c3-92cd-4b9d-b929-f168ef12b8cd
 tags:
-- avant-garde jazz
-- free jazz
-- jazz
-
+  - avant-garde jazz
+  - free jazz
+  - jazz
+is_active: false
 ---
 
 ![](don_pullen.jpg)

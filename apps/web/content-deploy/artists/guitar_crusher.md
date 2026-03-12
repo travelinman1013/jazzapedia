@@ -5,7 +5,7 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1931-07-28'
-birth_place: Hyde County
+birth_place: 'Hyde County, North Carolina, United States'
 death_date: '2020-09-23'
 genres: []
 infobox:
@@ -36,38 +36,41 @@ spotify_data:
   followers: 520
   id: 5BnFUQxWfy1kpf638Gr4ZB
   popularity: 5
-  url: https://open.spotify.com/artist/5BnFUQxWfy1kpf638Gr4ZB
+  url: 'https://open.spotify.com/artist/5BnFUQxWfy1kpf638Gr4ZB'
 discography_enriched: true
 top_tracks:
-- Cuddle Up (Babylon Berlin (Music from the Original TV Series))
-- Nobody Knows How You Soothe Me (Babylon Berlin (Music from the Original TV Series))
-- I've Got to Know (House Rockin' 1950s Rhythm & Blues, Vol. 3)
-- I Can´t Leave You Alone (Under the Wings)
-- Can't Share Your Love (Street Preachin')
-- Why Oh Why (Blast From The Past)
-- Why Oh Why (King New Breed R&B - Volume 2)
-- Since My Baby Hit the Numbers (The Blue Horizon Story (1965-1970))
-- I Got To Know (Blast From The Past)
-- Cuddle Up (Blast From The Past)
+  - Cuddle Up (Babylon Berlin (Music from the Original TV Series))
+  - >-
+    Nobody Knows How You Soothe Me (Babylon Berlin (Music from the Original TV
+    Series))
+  - 'I''ve Got to Know (House Rockin'' 1950s Rhythm & Blues, Vol. 3)'
+  - I Can´t Leave You Alone (Under the Wings)
+  - Can't Share Your Love (Street Preachin')
+  - Why Oh Why (Blast From The Past)
+  - Why Oh Why (King New Breed R&B - Volume 2)
+  - Since My Baby Hit the Numbers (The Blue Horizon Story (1965-1970))
+  - I Got To Know (Blast From The Past)
+  - Cuddle Up (Blast From The Past)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a803f6e8-dc96-4fa6-9e3e-189b8179bc88
-  spotify: https://open.spotify.com/artist/5BnFUQxWfy1kpf638Gr4ZB
-  wikipedia: https://en.wikipedia.org/wiki/Guitar_Crusher
+  musicbrainz: 'https://musicbrainz.org/artist/a803f6e8-dc96-4fa6-9e3e-189b8179bc88'
+  spotify: 'https://open.spotify.com/artist/5BnFUQxWfy1kpf638Gr4ZB'
+  wikipedia: 'https://en.wikipedia.org/wiki/Guitar_Crusher'
 image_path: 03_Resources/source_material/ArtistPortraits/guitar_crusher.jpg
 biography_enhanced_at: '2025-12-06T05:46:55.344843'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Guitar_Crusher
-- https://www.bmansbluesreport.com/2012/07/soul-food-guitar-crusher.html
-- https://ethnicelebs.com/guitar-crusher
+  - 'https://en.wikipedia.org/wiki/Guitar_Crusher'
+  - 'https://www.bmansbluesreport.com/2012/07/soul-food-guitar-crusher.html'
+  - 'https://ethnicelebs.com/guitar-crusher'
 network_extracted: true
 entry_created: '2025-12-06T05:46:55.344859'
 last_updated: '2025-12-23T08:16:09.401331'
 gender: Male
 musicbrainz_id: a803f6e8-dc96-4fa6-9e3e-189b8179bc88
 tags:
-- blues
+  - blues
+is_active: false
 ---
 
 ![](guitar_crusher.jpg)

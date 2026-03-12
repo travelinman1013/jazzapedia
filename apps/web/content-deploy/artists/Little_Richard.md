@@ -1,28 +1,28 @@
 ---
-title: little richard
+title: Little Richard
 wiki_slug: little-richard
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1932-12-05'
-birth_place: Macon, Georgia, United States
+birth_place: 'Macon, Georgia, United States'
 death_date: '2020-05-09'
 genres:
-- rockabilly
-- rock and roll
-- doo-wop
-- boogie-woogie
+  - rockabilly
+  - rock and roll
+  - doo-wop
+  - boogie-woogie
 instruments:
-- eponymous
-- lead vocals
-- original
-- piano
+  - eponymous
+  - lead vocals
+  - original
+  - piano
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/little_richard.jpg
   caption: little richard
   background: solo_singer
   born: '1932-12-05'
-  origin: Macon, Georgia, United States
+  origin: 'Macon, Georgia, United States'
   died: '2020-05-09'
 audio_profile:
   tempo_avg: 140.5
@@ -39,47 +39,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Upsetters
-  - Jimi Hendrix
+    - The Upsetters
+    - Jimi Hendrix
   influenced:
-  - The Beatles
-  - Elton John
-  - Prince
+    - The Beatles
+    - Elton John
+    - Prince
   mentors:
-  - Sister Rosetta Tharpe
-  - Esquerita (Steven Quincy Reeder, Jr.)
-  - Billy Wright
+    - Sister Rosetta Tharpe
+    - 'Esquerita (Steven Quincy Reeder, Jr.)'
+    - Billy Wright
 spotify_data:
   followers: 1037210
   id: 4xls23Ye9WR9yy3yYMpAMm
   popularity: 54
-  url: https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm
+  url: 'https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm'
 discography_enriched: true
 top_tracks:
-- Tutti Frutti (Here's Little Richard (Deluxe Edition))
-- Long Tall Sally (The Thing) (Here's Little Richard (Deluxe Edition))
-- Good Golly, Miss Molly (Good Golly!)
-- Lucille (Good Golly!)
-- Rip It Up (Here's Little Richard (Deluxe Edition))
-- Ready Teddy (Here's Little Richard (Deluxe Edition))
-- Good Golly, Miss Molly
-- Keep A Knockin' (Good Golly!)
-- Good Golly Miss Molly
-- Slippin’ And Slidin’ (Peepin’ And Hidin’) (Here's Little Richard (Deluxe Edition))
+  - Tutti Frutti (Here's Little Richard (Deluxe Edition))
+  - Long Tall Sally (The Thing) (Here's Little Richard (Deluxe Edition))
+  - 'Good Golly, Miss Molly (Good Golly!)'
+  - Lucille (Good Golly!)
+  - Rip It Up (Here's Little Richard (Deluxe Edition))
+  - Ready Teddy (Here's Little Richard (Deluxe Edition))
+  - 'Good Golly, Miss Molly'
+  - Keep A Knockin' (Good Golly!)
+  - Good Golly Miss Molly
+  - >-
+    Slippin’ And Slidin’ (Peepin’ And Hidin’) (Here's Little Richard (Deluxe
+    Edition))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/95c2339b-8277-49a6-9aaf-08d8eeeaa0be
-  spotify: https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm
-  wikipedia: https://en.wikipedia.org/wiki/Little_Richard
+  musicbrainz: 'https://musicbrainz.org/artist/95c2339b-8277-49a6-9aaf-08d8eeeaa0be'
+  spotify: 'https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm'
+  wikipedia: 'https://en.wikipedia.org/wiki/Little_Richard'
 image_path: 03_Resources/source_material/ArtistPortraits/little_richard.jpg
 biography_enhanced_at: '2025-10-19T11:49:10.140686'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.ebsco.com/research-starters/biography/little-richard
-- https://www.biography.com/musicians/little-richard
-- https://en.wikipedia.org/wiki/Little_Richard
-- https://aaep1600.osu.edu/book/06_LittleRichard.php
-- https://www.britannica.com/biography/Little-Richard
+  - 'https://www.ebsco.com/research-starters/biography/little-richard'
+  - 'https://www.biography.com/musicians/little-richard'
+  - 'https://en.wikipedia.org/wiki/Little_Richard'
+  - 'https://aaep1600.osu.edu/book/06_LittleRichard.php'
+  - 'https://www.britannica.com/biography/Little-Richard'
 network_extracted: true
 entry_created: '2025-10-19T11:49:10.140690'
 last_updated: '2025-12-23T08:16:03.043400'
@@ -87,9 +89,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:35:30.033981'
 musicbrainz_id: 95c2339b-8277-49a6-9aaf-08d8eeeaa0be
 tags:
-- funk
-- new orleans r&b
-- pop
+  - funk
+  - new orleans r&b
+  - pop
+is_active: false
 ---
 
 ![](little_richard.jpg)

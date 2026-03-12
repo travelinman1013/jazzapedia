@@ -4,9 +4,9 @@ wiki_slug: the-whispers
 schema_version: 2
 status: active
 genres:
-- post-disco
-- quiet storm
-- disco
+  - post-disco
+  - quiet storm
+  - disco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_whispers.jpg
   caption: The Whispers
@@ -26,56 +26,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Wallace "Scotty" Scott
-  - Walter Scott
-  - Nicholas Caldwell
-  - Marcus Hutson
-  - Gordy Harmon
-  - Leaveil Degree
-  - Ron Carson
-  - Dick Griffey
+    - Wallace "Scotty" Scott
+    - Walter Scott
+    - Nicholas Caldwell
+    - Marcus Hutson
+    - Gordy Harmon
+    - Leaveil Degree
+    - Ron Carson
+    - Dick Griffey
   influenced:
-  - Silk
-  - '112'
-  - Boyz II Men
+    - Silk
+    - '112'
+    - Boyz II Men
   mentors:
-  - The Temptations
-  - The Flamingos
-  - Nat King Cole
+    - The Temptations
+    - The Flamingos
+    - Nat King Cole
 spotify_data:
   followers: 721560
   id: 2XzHxDFTNywDd5ReMhgxkg
   popularity: 50
-  url: https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg
+  url: 'https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg'
 discography_enriched: true
 top_tracks:
-- And the Beat Goes On (The Whispers / Happy Holidays to You)
-- Rock Steady - Radio Edit (Just Gets Better With Time)
-- It's a Love Thing (Single Version) (Imagination)
-- Keep On Lovin' Me (Love for Love)
-- And the Beat Goes On - Single Edit (The Whispers / Happy Holidays to You)
-- In the Mood (Just Gets Better With Time)
-- And the Beat Goes On - Radio Version
-- Lady (Greatest Slow Jams, Vol. 1)
-- Rock Steady
-- And the Beat Goes On
+  - And the Beat Goes On (The Whispers / Happy Holidays to You)
+  - Rock Steady - Radio Edit (Just Gets Better With Time)
+  - It's a Love Thing (Single Version) (Imagination)
+  - Keep On Lovin' Me (Love for Love)
+  - And the Beat Goes On - Single Edit (The Whispers / Happy Holidays to You)
+  - In the Mood (Just Gets Better With Time)
+  - And the Beat Goes On - Radio Version
+  - 'Lady (Greatest Slow Jams, Vol. 1)'
+  - Rock Steady
+  - And the Beat Goes On
 external_urls:
-  spotify: https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg
-  wikipedia: https://en.wikipedia.org/wiki/The_Whispers
+  spotify: 'https://open.spotify.com/artist/2XzHxDFTNywDd5ReMhgxkg'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Whispers'
 image_path: 03_Resources/source_material/ArtistPortraits/the_whispers.jpg
 biography_enhanced_at: '2025-11-04T11:12:31.188367'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Whispers
-- https://vocalgroup.org/inductees/the-whispers/
-- https://roundtable.beloit.edu/2025/03/05/the-whispers-rbs-forgotten-titans/
-- https://blackpast.org/african-american-history/the-whispers-1963/
+  - 'https://en.wikipedia.org/wiki/The_Whispers'
+  - 'https://vocalgroup.org/inductees/the-whispers/'
+  - 'https://roundtable.beloit.edu/2025/03/05/the-whispers-rbs-forgotten-titans/'
+  - 'https://blackpast.org/african-american-history/the-whispers-1963/'
 network_extracted: true
 entry_created: '2025-11-04T11:12:31.188373'
 last_updated: '2025-12-23T08:16:17.286097'
-origin: Watts, Los Angeles, California, USA
-
+origin: 'Watts, Los Angeles, California, USA'
+artist_type: band
 ---
 
 ![](the_whispers.jpg)

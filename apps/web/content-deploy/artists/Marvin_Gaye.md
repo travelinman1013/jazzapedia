@@ -3,43 +3,43 @@ title: Marvin Gaye
 wiki_slug: marvin-gaye
 schema_version: 2
 status: deceased
-birth_name: Marvin Pentz Gay, Jr.
+birth_name: 'Marvin Pentz Gay, Jr.'
 also_known_as:
-- Marvin Gaye
+  - Marvin Gaye
 aliases:
-- Marvin Gaye
+  - Marvin Gaye
 birth_date: '1939-04-02'
-birth_place: Washington, D.C., United States
+birth_place: 'Washington, D.C., United States'
 death_date: '1984-04-01'
 years_active: 1957–1984
 genres:
-- motown
-- soul
-- northern soul
-- quiet storm
+  - motown
+  - soul
+  - northern soul
+  - quiet storm
 instruments:
-- piano
-- voice
-- drum
-- percussion instrument
-- clarinet
+  - piano
+  - voice
+  - drum
+  - percussion instrument
+  - clarinet
 occupation:
-- singer
-- singer-songwriter
-- pianist
-- songwriter
+  - singer
+  - singer-songwriter
+  - pianist
+  - songwriter
 record_labels:
-- Motown
-- Columbia Records
+  - Motown
+  - Columbia Records
 spouse:
-- Anna Gordy Gaye
+  - Anna Gordy Gaye
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Marvin_Gaye.jpg
   caption: Marvin Gaye
   background: solo_singer
-  birth_name: Marvin Pentz Gay, Jr.
+  birth_name: 'Marvin Pentz Gay, Jr.'
   born: '1939-04-02'
-  origin: Washington, D.C., United States
+  origin: 'Washington, D.C., United States'
   died: '1984-04-01'
 audio_profile:
   tempo_avg: 118.6
@@ -56,57 +56,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tammi Terrell
-  - Kim Weston
-  - Diana Ross
-  - Mary Wells
+    - Tammi Terrell
+    - Kim Weston
+    - Diana Ross
+    - Mary Wells
   influenced:
-  - D'Angelo
-  - Prince
-  - Robin Thicke
-  - John Legend
+    - D'Angelo
+    - Prince
+    - Robin Thicke
+    - John Legend
   mentors:
-  - Harvey Fuqua
-  - Berry Gordy
+    - Harvey Fuqua
+    - Berry Gordy
 related_artists: []
 spotify_data:
   followers: 5927632
   id: 3koiLjNrgRTNbOwViDipeA
   popularity: 76
-  url: https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA
+  url: 'https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA'
   verified: false
 discography_enriched: true
 albums_count: 48
 singles_count: 16
 top_tracks:
-- Ain't No Mountain High Enough (United)
-- Sexual Healing (Midnight Love)
-- I Heard It Through The Grapevine (In The Groove)
-- What's Going On (What's Going On)
-- Let's Get It On (Let's Get It On)
-- Mercy Mercy Me (The Ecology) (What's Going On)
-- Got To Give It Up - Pt. 1
-- Sexual Healing - Kygo Remix
-- I Want You (I Want You (Deluxe Edition))
-- Inner City Blues (Make Me Wanna Holler) (What's Going On)
+  - Ain't No Mountain High Enough (United)
+  - Sexual Healing (Midnight Love)
+  - I Heard It Through The Grapevine (In The Groove)
+  - What's Going On (What's Going On)
+  - Let's Get It On (Let's Get It On)
+  - Mercy Mercy Me (The Ecology) (What's Going On)
+  - Got To Give It Up - Pt. 1
+  - Sexual Healing - Kygo Remix
+  - I Want You (I Want You (Deluxe Edition))
+  - Inner City Blues (Make Me Wanna Holler) (What's Going On)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA
-  wikipedia: https://en.wikipedia.org/wiki/Marvin_Gaye
+  spotify: 'https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA'
+  wikipedia: 'https://en.wikipedia.org/wiki/Marvin_Gaye'
 image_path: 03_Resources/source_material/ArtistPortraits/Marvin_Gaye.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:00:17.253742'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Marvin_Gaye
-- https://www.motownmuseum.org/artist/marvin-gaye/
-- https://wers.org/the-vault-of-soul-marvin-gaye/
+  - 'https://en.wikipedia.org/wiki/Marvin_Gaye'
+  - 'https://www.motownmuseum.org/artist/marvin-gaye/'
+  - 'https://wers.org/the-vault-of-soul-marvin-gaye/'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:40:54.333094
+entry_created: 2025-09-22T21:40:54.333Z
 last_updated: '2025-12-23T08:16:03.209721'
-
+is_active: false
+artist_type: person
 ---
 
 ![](Marvin_Gaye.jpg)

@@ -2,45 +2,47 @@
 artist_type: person
 biography_enhanced_at: '2026-01-07T01:14:56.248561'
 birth_date: '1995-08-11'
-birth_place: Philadelphia
+birth_place: 'Philadelphia, Pennsylvania, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-07T01:14:56.248567'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ae952d46-0f36-414c-90d4-f202ea2d4a71
-  spotify: https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh
+  musicbrainz: 'https://musicbrainz.org/artist/ae952d46-0f36-414c-90d4-f202ea2d4a71'
+  spotify: 'https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh'
   wikipedia: ''
 gender: Female
 genres:
-- alternative r&b
+  - alternative r&b
 image_path: 03_Resources/source_material/ArtistPortraits/tierra_whack.jpg
 instruments:
-- lead vocals
+  - lead vocals
 last_updated: '2026-01-07T01:14:56.248567'
 musical_connections:
   collaborators:
-  - Flying Lotus
-  - Beyoncé
-  - Alicia Keys
-  - Tyler, the Creator
+    - Flying Lotus
+    - Beyoncé
+    - Alicia Keys
+    - 'Tyler, the Creator'
   influenced: []
   mentors:
-  - Kenete Simms
-  - Mother (unnamed)
+    - Kenete Simms
+    - Mother (unnamed)
 musicbrainz_id: ae952d46-0f36-414c-90d4-f202ea2d4a71
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://kids.kiddle.co/Tierra_Whack
-- https://crackmagazine.net/article/long-reads/tierra-whack-planet-whack/
-- https://www.dazeddigital.com/music/article/44697/1/tierra-whack-2019-interview
-- https://tierra-whack.fandom.com/wiki/Tierra_Whack
+  - 'https://kids.kiddle.co/Tierra_Whack'
+  - 'https://crackmagazine.net/article/long-reads/tierra-whack-planet-whack/'
+  - >-
+    https://www.dazeddigital.com/music/article/44697/1/tierra-whack-2019-interview
+  - 'https://tierra-whack.fandom.com/wiki/Tierra_Whack'
 spotify_data:
   followers: 521118
   id: 4lPl9gqgox3JDiaJ1yklKh
   popularity: 54
-  url: https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh
+  url: 'https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh'
 status: active
 title: Tierra Whack
+origin: 'Atlanta, Georgia, United States'
 ---
 
 ![](tierra_whack.jpg)

@@ -1,11 +1,11 @@
 ---
-title: original tuxedo Jazz Band
+title: The Original Tuxedo Jazz Band
 wiki_slug: original-tuxedo-jazz-band
 schema_version: 2
 status: active
 genres:
-- ragtime
-- country blues
+  - ragtime
+  - country blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/original_tuxedo_jazz_band.jpg
   caption: original tuxedo Jazz Band
@@ -25,48 +25,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Albert 'Papa' French
-  - Gerald French
-  - Louis Armstrong
-  - Joe 'King' Oliver
+    - Albert 'Papa' French
+    - Gerald French
+    - Louis Armstrong
+    - Joe 'King' Oliver
   influenced:
-  - Young Tuxedo Brass Band
-  - Countless New Orleans jazz musicians
+    - Young Tuxedo Brass Band
+    - Countless New Orleans jazz musicians
   mentors:
-  - Oscar 'Papa' Celestin
+    - Oscar 'Papa' Celestin
 spotify_data:
   followers: 112
   id: 7H1JZxtblS1Wd62mfyGHgh
   popularity: 0
-  url: https://open.spotify.com/artist/7H1JZxtblS1Wd62mfyGHgh
+  url: 'https://open.spotify.com/artist/7H1JZxtblS1Wd62mfyGHgh'
 discography_enriched: true
 top_tracks:
-- Lil' Lisa Jane (Oscar 'Papa' Celestin 1949-1953)
-- Lil' Lisa Jane (1953) (Oscar 'Papa' Celestin 1949-1953)
-- 12th Street Rag (Oscar 'Papa' Celestin 1949-1953)
-- My Josephine (Oscar 'Papa' Celestin 1949-1953)
-- Clarinet Marmalade (Oscar 'Papa' Celestin 1949-1953)
-- Basin Street Blues (Oscar 'Papa' Celestin 1949-1953)
-- Milenburg Joys (Oscar 'Papa' Celestin 1949-1953)
-- Marie Le Veau (Oscar 'Papa' Celestin 1949-1953)
-- Saints (Oscar 'Papa' Celestin 1949-1953)
-- High Society (Oscar 'Papa' Celestin 1949-1953)
+  - Lil' Lisa Jane (Oscar 'Papa' Celestin 1949-1953)
+  - Lil' Lisa Jane (1953) (Oscar 'Papa' Celestin 1949-1953)
+  - 12th Street Rag (Oscar 'Papa' Celestin 1949-1953)
+  - My Josephine (Oscar 'Papa' Celestin 1949-1953)
+  - Clarinet Marmalade (Oscar 'Papa' Celestin 1949-1953)
+  - Basin Street Blues (Oscar 'Papa' Celestin 1949-1953)
+  - Milenburg Joys (Oscar 'Papa' Celestin 1949-1953)
+  - Marie Le Veau (Oscar 'Papa' Celestin 1949-1953)
+  - Saints (Oscar 'Papa' Celestin 1949-1953)
+  - High Society (Oscar 'Papa' Celestin 1949-1953)
 external_urls:
-  spotify: https://open.spotify.com/artist/7H1JZxtblS1Wd62mfyGHgh
-  wikipedia: https://en.wikipedia.org/wiki/Tuxedo_Brass_Band
+  spotify: 'https://open.spotify.com/artist/7H1JZxtblS1Wd62mfyGHgh'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tuxedo_Brass_Band'
 image_path: ''
 biography_enhanced_at: '2025-11-01T15:26:38.516197'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Tuxedo_Brass_Band
-- https://www.mps-music.com/releases/the-original-tuxedo-jass-band/
-- https://www.arcadiapublishing.com/products/the-original-tuxedo-jazz-band-more-than-a-century-of-a-new-orleans-icon-9781626190078
-- https://www.neworleans.com/listing/original-tuxedo-jazz-band/46508/
+  - 'https://en.wikipedia.org/wiki/Tuxedo_Brass_Band'
+  - 'https://www.mps-music.com/releases/the-original-tuxedo-jass-band/'
+  - >-
+    https://www.arcadiapublishing.com/products/the-original-tuxedo-jazz-band-more-than-a-century-of-a-new-orleans-icon-9781626190078
+  - 'https://www.neworleans.com/listing/original-tuxedo-jazz-band/46508/'
 network_extracted: true
 entry_created: '2025-11-01T15:26:38.516226'
 last_updated: '2025-12-23T08:16:13.794008'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+death_date: '1954'
+artist_type: band
 ---
 
 ![]()

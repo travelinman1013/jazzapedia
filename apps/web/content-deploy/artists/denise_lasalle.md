@@ -5,13 +5,13 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1934-07-16'
-birth_place: Leflore County
+birth_place: 'Leflore County, Mississippi, United States'
 death_date: '2018-01-08'
 genres:
-- blues
-- soul blues
-- northern soul
-- footwork
+  - blues
+  - soul blues
+  - northern soul
+  - footwork
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/denise_lasalle.jpg
   caption: Denise Lasalle
@@ -34,51 +34,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bill Jones
-  - Bill Coday
-  - James E. Wolfe (Super Wolf)
+    - Bill Jones
+    - Bill Coday
+    - James E. Wolfe (Super Wolf)
   influenced: []
   mentors:
-  - Billy 'The Kid' Emerson
+    - Billy 'The Kid' Emerson
 spotify_data:
   followers: 83750
   id: 0GVO1kqJHVxOarPgex9K15
   popularity: 28
-  url: https://open.spotify.com/artist/0GVO1kqJHVxOarPgex9K15
+  url: 'https://open.spotify.com/artist/0GVO1kqJHVxOarPgex9K15'
 discography_enriched: true
 top_tracks:
-- Right Place, Right Time (Right Place, Right Time)
-- Trapped By a Thing Called Love (This Real Woman)
-- 'A Love Reputation (Chess Soul: A Decade Of Chicago’s Finest)'
-- Don't Mess With My Toot Toot
-- My Tu-Tu (Love Talkin')
-- A Lady In The Street (A Lady In The Street)
-- I'm So Hot (I'm So Hot)
-- Trapped...1990 (Still Trapped)
-- Your Husband Is Cheatin' On Us (Right Place, Right Time)
-- Down Home Blues (Xrated) (A Lady In The Street)
+  - 'Right Place, Right Time (Right Place, Right Time)'
+  - Trapped By a Thing Called Love (This Real Woman)
+  - 'A Love Reputation (Chess Soul: A Decade Of Chicago’s Finest)'
+  - Don't Mess With My Toot Toot
+  - My Tu-Tu (Love Talkin')
+  - A Lady In The Street (A Lady In The Street)
+  - I'm So Hot (I'm So Hot)
+  - Trapped...1990 (Still Trapped)
+  - 'Your Husband Is Cheatin'' On Us (Right Place, Right Time)'
+  - Down Home Blues (Xrated) (A Lady In The Street)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5048de90-abf2-4da7-8f8f-c3a567feef2d
-  spotify: https://open.spotify.com/artist/0GVO1kqJHVxOarPgex9K15
-  wikipedia: https://en.wikipedia.org/wiki/Denise_LaSalle
+  musicbrainz: 'https://musicbrainz.org/artist/5048de90-abf2-4da7-8f8f-c3a567feef2d'
+  spotify: 'https://open.spotify.com/artist/0GVO1kqJHVxOarPgex9K15'
+  wikipedia: 'https://en.wikipedia.org/wiki/Denise_LaSalle'
 image_path: 03_Resources/source_material/ArtistPortraits/denise_lasalle.jpg
 biography_enhanced_at: '2025-12-12T12:05:32.785155'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Denise_LaSalle
-- https://www.americanbluesscene.com/2018/01/remembering-blues-queen-denise-lasalle/
-- https://www.mswritersandmusicians.com/mississippi-musicians/denise-lasalle
-- https://msbluestrail.org/blues-trail-markers/denise-lasalle
+  - 'https://en.wikipedia.org/wiki/Denise_LaSalle'
+  - >-
+    https://www.americanbluesscene.com/2018/01/remembering-blues-queen-denise-lasalle/
+  - 'https://www.mswritersandmusicians.com/mississippi-musicians/denise-lasalle'
+  - 'https://msbluestrail.org/blues-trail-markers/denise-lasalle'
 network_extracted: true
 entry_created: '2025-12-12T12:05:32.785162'
 last_updated: '2025-12-23T08:16:07.695011'
 gender: Female
 musicbrainz_id: 5048de90-abf2-4da7-8f8f-c3a567feef2d
 tags:
-- 2008 universal fire victim
-- blues
-- funk
+  - 2008 universal fire victim
+  - blues
+  - funk
+is_active: false
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](denise_lasalle.jpg)

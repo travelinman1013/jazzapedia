@@ -5,38 +5,38 @@ schema_version: 2
 status: deceased
 birth_name: Antônio Carlos Brasileiro de Almeida Jobim
 also_known_as:
-- Tom Jobim
+  - Tom Jobim
 aliases:
-- Tom Jobim
-birth_date: '1927-01-25'
-birth_place: Rio de Janeiro, Rio de Janeiro, Brazil
+  - Tom Jobim
+birth_date: '1987-03-20'
+birth_place: 'Rio de Janeiro, Brazil'
 death_date: '1994-12-08'
 years_active: 1945–1994
 genres:
-- nova mpb
-- mpb
+  - nova mpb
+  - mpb
 instruments:
-- guitar
-- piano
-- voice
+  - guitar
+  - piano
+  - voice
 occupation:
-- composer
-- singer
-- pianist
-- guitarist
-- jazz musician
+  - composer
+  - singer
+  - pianist
+  - guitarist
+  - jazz musician
 record_labels:
-- Verve Records
+  - Verve Records
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Maria_Luiza_Jobim.jpg
   caption: Maria Luiza Jobim
   background: solo_singer
   birth_name: Antônio Carlos Brasileiro de Almeida Jobim
   born: '1927-01-25'
-  origin: Rio de Janeiro, Rio de Janeiro, Brazil
+  origin: 'Rio de Janeiro, Rio de Janeiro, Brazil'
   died: '1994-12-08'
 audio_profile:
-  tempo_avg: 112.0
+  tempo_avg: 112
   energy_avg: 0.442
   valence_avg: 0.472
   danceability_avg: 0.641
@@ -50,54 +50,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Daniel Jobim
-  - Lucas de Paiva
-  - Arnaldo Antunes
-  - Adriana Calcanhotto
-  - Lisa Ono
+    - Daniel Jobim
+    - Lucas de Paiva
+    - Arnaldo Antunes
+    - Adriana Calcanhotto
+    - Lisa Ono
   influenced: []
   mentors:
-  - Antônio Carlos Jobim (Tom Jobim)
-  - Chico Buarque
-  - Dorival Caymmi
+    - Antônio Carlos Jobim (Tom Jobim)
+    - Chico Buarque
+    - Dorival Caymmi
 related_artists: []
 spotify_data:
   followers: 10312
   id: 0UBAjVKUJGkde9EeaoEyTM
   popularity: 34
-  url: https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM
+  url: 'https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM'
   verified: false
 discography_enriched: true
 albums_count: 2
 singles_count: 8
 top_tracks:
-- Meu Amor (Meu Amor)
-- Farol (Farol)
-- GO GO GO (GO GO GO)
-- Insensatez (Insensatez)
-- Samba De Maria Luiza (feat. Maria Luiza Jobim) (Antonio Brasileiro)
-- O Culpado é o Cupido (Azul)
-- Boca de Açaí (Azul)
-- Tiramisù (Tiramisù)
-- Boca de Açaí (Boca de Açaí)
-- Forever Green (feat. Maria Luiza Jobim) (Antonio Brasileiro)
+  - Meu Amor (Meu Amor)
+  - Farol (Farol)
+  - GO GO GO (GO GO GO)
+  - Insensatez (Insensatez)
+  - Samba De Maria Luiza (feat. Maria Luiza Jobim) (Antonio Brasileiro)
+  - O Culpado é o Cupido (Azul)
+  - Boca de Açaí (Azul)
+  - Tiramisù (Tiramisù)
+  - Boca de Açaí (Boca de Açaí)
+  - Forever Green (feat. Maria Luiza Jobim) (Antonio Brasileiro)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM
-  wikipedia: https://pt.wikipedia.org/wiki/Maria_Luiza_Jobim
+  spotify: 'https://open.spotify.com/artist/0UBAjVKUJGkde9EeaoEyTM'
+  wikipedia: 'https://pt.wikipedia.org/wiki/Maria_Luiza_Jobim'
 image_path: 03_Resources/source_material/ArtistPortraits/Maria_Luiza_Jobim.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:02:31.331132'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.jncquoi.com/en/whats-on/private/maria-luiza-jobim-concert/1691/
-- https://pt.wikipedia.org/wiki/Maria_Luiza_Jobim
-- https://www.youtube.com/watch?v=hCirQ4jFOSg
+  - 'https://www.jncquoi.com/en/whats-on/private/maria-luiza-jobim-concert/1691/'
+  - 'https://pt.wikipedia.org/wiki/Maria_Luiza_Jobim'
+  - 'https://www.youtube.com/watch?v=hCirQ4jFOSg'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 15:22:33.636159
+entry_created: 2025-09-18T15:22:33.636Z
 last_updated: '2025-12-23T08:16:03.176118'
+is_active: false
+artist_type: person
 ---
 
 ![](Maria_Luiza_Jobim.jpg)

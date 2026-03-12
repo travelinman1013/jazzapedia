@@ -1,42 +1,44 @@
 ---
 biography_enhanced_at: '2026-01-08T01:33:58.974898'
-birth_place: St. Louis, Missouri, United States
+birth_place: 'St. Louis, Missouri, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-08T01:33:58.974903'
 external_urls:
-  spotify: https://open.spotify.com/artist/5hYH40i9s1c7cI8ZEo5MDH
-  wikipedia: https://en.wikipedia.org/wiki/Katherine_Henderson_(singer)
+  spotify: 'https://open.spotify.com/artist/5hYH40i9s1c7cI8ZEo5MDH'
+  wikipedia: 'https://en.wikipedia.org/wiki/Katherine_Henderson_(singer)'
 genres:
-- ragtime
-- jazz blues
+  - ragtime
+  - jazz blues
 image_path: 03_Resources/source_material/ArtistPortraits/catherine_henderson.jpg
 last_updated: '2026-01-08T01:33:58.974903'
 musical_connections:
   collaborators:
-  - Clarence Williams’ Blue Five
-  - Clarence Williams and His Orchestra
-  - King Oliver
-  - Sara Martin
-  - Clarence Todd
+    - Clarence Williams’ Blue Five
+    - Clarence Williams and His Orchestra
+    - King Oliver
+    - Sara Martin
+    - Clarence Todd
   influenced: []
   mentors:
-  - Clarence Williams
-  - Eva Taylor
+    - Clarence Williams
+    - Eva Taylor
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Katherine_Henderson_(singer)
-- https://kids.kiddle.co/Katherine_Henderson
-- http://www.harlem-fuss.com/pdf/singers/harlem_fuss_singers_henderson_katherine.pdf
-- https://syncopatedtimes.com/katherine-henderson-1909/
+  - 'https://en.wikipedia.org/wiki/Katherine_Henderson_(singer)'
+  - 'https://kids.kiddle.co/Katherine_Henderson'
+  - >-
+    http://www.harlem-fuss.com/pdf/singers/harlem_fuss_singers_henderson_katherine.pdf
+  - 'https://syncopatedtimes.com/katherine-henderson-1909/'
 spotify_data:
   followers: 9
   id: 5hYH40i9s1c7cI8ZEo5MDH
   popularity: 0
-  url: https://open.spotify.com/artist/5hYH40i9s1c7cI8ZEo5MDH
+  url: 'https://open.spotify.com/artist/5hYH40i9s1c7cI8ZEo5MDH'
 status: active
-title: CATHERINE HENDERSON
-
+title: Catherine Henderson
+birth_date: '1909-06-23'
+artist_type: person
 ---
 
 ![](catherine_henderson.jpg)

@@ -1,21 +1,21 @@
 ---
-title: carmen mcrae
+title: Carmen McRae
 wiki_slug: carmen-mcrae
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1920-04-08'
-birth_place: Harlem, New York City, New York, United States
+birth_place: 'Harlem, New York City, New York, United States'
 death_date: '1994-11-10'
 genres:
-- vocal jazz
-- jazz
+  - vocal jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/carmen_mcrae.jpg
   caption: carmen mcrae
   background: solo_singer
   born: '1920-04-08'
-  origin: Harlem, New York City, New York, United States
+  origin: 'Harlem, New York City, New York, United States'
   died: '1994-11-10'
 audio_profile:
   tempo_avg: 113.5
@@ -32,51 +32,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kenny Clarke
-  - Benny Carter
-  - Count Basie
-  - Mercer Ellington
-  - Ike Isaacs
-  - Mat Mathews Quintet
+    - Kenny Clarke
+    - Benny Carter
+    - Count Basie
+    - Mercer Ellington
+    - Ike Isaacs
+    - Mat Mathews Quintet
   influenced:
-  - Dianne Reeves
-  - Karrin Allyson
-  - Dee Dee Bridgewater
+    - Dianne Reeves
+    - Karrin Allyson
+    - Dee Dee Bridgewater
   mentors:
-  - Billie Holiday
-  - Irene Kitchings
-  - Charlie Parker
+    - Billie Holiday
+    - Irene Kitchings
+    - Charlie Parker
 spotify_data:
   followers: 84070
   id: 2E3nXyfocf7qfHAIFNbBuj
   popularity: 44
-  url: https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj
+  url: 'https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj'
 discography_enriched: true
 top_tracks:
-- Cheek To Cheek
-- Take Five (with The Dave Brubeck Quartet) - Single Version (Sony Jazz Trios)
-- I'm Putting All My Eggs In One Basket (Blue Moon)
-- Them There Eyes (Carmen McRae Sings Lover Man And Other Billie Holiday Classics)
-- What a Little Moonlight Can Do (Carmen McRae Sings Lover Man And Other Billie Holiday Classics)
-- Ev'ry Time We Say Goodbye (When You're Away)
-- The Sound of Silence (The Sound Of Silence)
-- When I Fall In Love (Carmen McRae For Lovers)
-- Just a Little Lovin' (Just A Little Lovin')
-- I'll Remember April (By Special Request)
+  - Cheek To Cheek
+  - Take Five (with The Dave Brubeck Quartet) - Single Version (Sony Jazz Trios)
+  - I'm Putting All My Eggs In One Basket (Blue Moon)
+  - >-
+    Them There Eyes (Carmen McRae Sings Lover Man And Other Billie Holiday
+    Classics)
+  - >-
+    What a Little Moonlight Can Do (Carmen McRae Sings Lover Man And Other
+    Billie Holiday Classics)
+  - Ev'ry Time We Say Goodbye (When You're Away)
+  - The Sound of Silence (The Sound Of Silence)
+  - When I Fall In Love (Carmen McRae For Lovers)
+  - Just a Little Lovin' (Just A Little Lovin')
+  - I'll Remember April (By Special Request)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/29b0a6c7-ab3a-4bf3-a64f-63c8a3548196
-  spotify: https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj
-  wikipedia: https://en.wikipedia.org/wiki/Carmen_McRae
+  musicbrainz: 'https://musicbrainz.org/artist/29b0a6c7-ab3a-4bf3-a64f-63c8a3548196'
+  spotify: 'https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj'
+  wikipedia: 'https://en.wikipedia.org/wiki/Carmen_McRae'
 image_path: 03_Resources/source_material/ArtistPortraits/carmen_mcrae.jpg
 biography_enhanced_at: '2025-10-19T11:53:13.288713'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Carmen_McRae
-- https://www.jazzempowers.org/carmen-mcrae
-- https://blackpast.org/african-american-history/mcrae-carmen-1920-1994/
-- https://www.arts.gov/honors/jazz/carmen-mcrae
-- https://everythingjazz.com/story/great-women-of-song-carmen-mcrae/
+  - 'https://en.wikipedia.org/wiki/Carmen_McRae'
+  - 'https://www.jazzempowers.org/carmen-mcrae'
+  - 'https://blackpast.org/african-american-history/mcrae-carmen-1920-1994/'
+  - 'https://www.arts.gov/honors/jazz/carmen-mcrae'
+  - 'https://everythingjazz.com/story/great-women-of-song-carmen-mcrae/'
 network_extracted: true
 entry_created: '2025-10-19T11:53:13.288717'
 last_updated: '2025-12-23T08:16:06.481913'
@@ -84,9 +88,10 @@ gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:50:23.780856'
 musicbrainz_id: 29b0a6c7-ab3a-4bf3-a64f-63c8a3548196
 tags:
-- bebop
-- jazz
-- pop
+  - bebop
+  - jazz
+  - pop
+is_active: false
 ---
 
 ![](carmen_mcrae.jpg)

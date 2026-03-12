@@ -1,53 +1,56 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-12T02:05:55.857178'
-birth_place: Gaston, Northampton County, North Carolina, United States
+birth_place: 'Gaston, Northampton County, North Carolina, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-12T02:05:55.857184'
 external_urls:
-  spotify: https://open.spotify.com/artist/1Y3CPuN46EPIT3wCTDzPZu
-  wikipedia: https://en.wikipedia.org/wiki/Chuck_Brown
+  spotify: 'https://open.spotify.com/artist/1Y3CPuN46EPIT3wCTDzPZu'
+  wikipedia: 'https://en.wikipedia.org/wiki/Chuck_Brown'
 genres:
-- go-go
-- funk
-image_path: 03_Resources/source_material/ArtistPortraits/the_soul_searchers_chuck_brown.jpg
+  - go-go
+  - funk
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/the_soul_searchers_chuck_brown.jpg
 last_updated: '2026-01-12T02:05:55.857185'
 musical_connections:
   collaborators:
-  - The Soul Searchers
-  - John Buchanan
-  - Donald Tillery
-  - Leroy Fleming
-  - Chris Johnson
-  - Ricardo "Tricky Sugar" Wellman
-  - Gregory "Bright Moments" Gerran
-  - KK (K.K. Brown)
+    - The Soul Searchers
+    - John Buchanan
+    - Donald Tillery
+    - Leroy Fleming
+    - Chris Johnson
+    - Ricardo "Tricky Sugar" Wellman
+    - Gregory "Bright Moments" Gerran
+    - KK (K.K. Brown)
   influenced:
-  - Nelly
-  - Eric B. & Rakim
-  - LL Cool J
-  - Eve
-  - Washington, D.C. go-go bands (e.g., Rare Essence, Trouble Funk)
+    - Nelly
+    - Eric B. & Rakim
+    - LL Cool J
+    - Eve
+    - 'Washington, D.C. go-go bands (e.g., Rare Essence, Trouble Funk)'
   mentors:
-  - James Brown
-  - Los Latinos (band)
+    - James Brown
+    - Los Latinos (band)
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.ncmea.net/chuck-brown/
-- https://www.arts.gov/honors/heritage/chuck-brown
-- http://www.soulwalking.co.uk/Chuck%20Brown%20&%20S-Searchers.html
-- https://www.washingtoninformer.com/chuck-brown-go-go-music/
-- https://windmeupchuck.com/bio
-- https://en.wikipedia.org/wiki/Chuck_Brown
-- https://www.imdb.com/name/nm1928254/bio/
+  - 'https://www.ncmea.net/chuck-brown/'
+  - 'https://www.arts.gov/honors/heritage/chuck-brown'
+  - 'http://www.soulwalking.co.uk/Chuck%20Brown%20&%20S-Searchers.html'
+  - 'https://www.washingtoninformer.com/chuck-brown-go-go-music/'
+  - 'https://windmeupchuck.com/bio'
+  - 'https://en.wikipedia.org/wiki/Chuck_Brown'
+  - 'https://www.imdb.com/name/nm1928254/bio/'
 spotify_data:
   followers: 17418
   id: 1Y3CPuN46EPIT3wCTDzPZu
   popularity: 28
-  url: https://open.spotify.com/artist/1Y3CPuN46EPIT3wCTDzPZu
+  url: 'https://open.spotify.com/artist/1Y3CPuN46EPIT3wCTDzPZu'
 status: active
-title: The Soul Searchers, Chuck Brown
+title: 'The Soul Searchers, Chuck Brown'
+origin: 'Washington, D.C., District of Columbia, United States'
+birth_date: '1936-08-22'
 ---
 
 ![](the_soul_searchers_chuck_brown.jpg)

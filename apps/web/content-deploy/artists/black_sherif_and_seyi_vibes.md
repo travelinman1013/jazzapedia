@@ -1,42 +1,47 @@
 ---
 biography_enhanced_at: '2026-01-04T01:58:04.501221'
-birth_place: Konongo-Zongo, Ashanti Region, Ghana (Black Sherif); Ketu/Ikorodu, Lagos State, Nigeria (Seyi Vibez)
+birth_place: >-
+  Konongo-Zongo, Ashanti Region, Ghana (Black Sherif); Ketu/Ikorodu, Lagos
+  State, Nigeria (Seyi Vibez)
 enhancement_provider: perplexity
 entry_created: '2026-01-04T01:58:04.501226'
 external_urls:
-  spotify: https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ
-  wikipedia: https://en.wikipedia.org/wiki/Black_Sherif, https://en.wikipedia.org/wiki/Seyi_Vibez
+  spotify: 'https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ'
+  wikipedia: >-
+    https://en.wikipedia.org/wiki/Black_Sherif,
+    https://en.wikipedia.org/wiki/Seyi_Vibez
 genres:
-- asakaa
-- hiplife
-- afrobeats
-- afrobeat
-- afropop
-- afropiano
+  - asakaa
+  - hiplife
+  - afrobeats
+  - afrobeat
+  - afropop
+  - afropiano
 image_path: 03_Resources/source_material/ArtistPortraits/black_sherif_and_seyi_vibes.jpg
 last_updated: '2026-01-04T01:58:04.501226'
 musical_connections:
   collaborators:
-  - Burna Boy
+    - Burna Boy
   influenced: []
   mentors:
-  - Kanye West
-  - Travis Scott
-  - Sarkodie
+    - Kanye West
+    - Travis Scott
+    - Sarkodie
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Black_Sherif
-- https://en.wikipedia.org/wiki/Seyi_Vibez
-- https://profileability.com/black-sherif/
+  - 'https://en.wikipedia.org/wiki/Black_Sherif'
+  - 'https://en.wikipedia.org/wiki/Seyi_Vibez'
+  - 'https://profileability.com/black-sherif/'
 spotify_data:
   followers: 2418746
   id: 2LiqbH7OhqP0yuaG8VL1wJ
   popularity: 68
-  url: https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ
+  url: 'https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ'
 status: active
-title: black sherif & seyi vibes
-
+title: Black Sherif & Seyi Vibes
+birth_date: '2002-01-09'
+artist_type: band
 ---
 
 ![](black_sherif_and_seyi_vibes.jpg)

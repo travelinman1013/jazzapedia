@@ -3,13 +3,13 @@ title: Arnold McCuller
 wiki_slug: arnold-mcculler
 schema_version: 2
 status: active
-birth_place: Cleveland, Ohio, United States
+birth_place: 'Cleveland, Ohio, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/arnold_mcculler.jpg
   caption: Arnold McCuller
   background: solo_singer
-  origin: Cleveland, Ohio, United States
+  origin: 'Cleveland, Ohio, United States'
 audio_profile:
   tempo_avg: 111.1
   energy_avg: 0.41
@@ -25,53 +25,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - James Taylor
-  - Phil Collins
-  - Bonnie Raitt
-  - Lyle Lovett
-  - David Lasley
-  - Matt Cusson
-  - Aretha Franklin, Diana Ross, Luther Vandross, Linda Ronstadt, Bette Midler, Lionel Richie, Dave Koz, Billy Idol, Beck,
-    Melissa Manchester, Brenda Russell
+    - James Taylor
+    - Phil Collins
+    - Bonnie Raitt
+    - Lyle Lovett
+    - David Lasley
+    - Matt Cusson
+    - >-
+      Aretha Franklin, Diana Ross, Luther Vandross, Linda Ronstadt, Bette
+      Midler, Lionel Richie, Dave Koz, Billy Idol, Beck, Melissa Manchester,
+      Brenda Russell
   influenced:
-  - No widely documented direct proteges
+    - No widely documented direct proteges
   mentors:
-  - Gladys Davenport
-  - Barbara Collier
-  - Eileen Fogarty
+    - Gladys Davenport
+    - Barbara Collier
+    - Eileen Fogarty
 spotify_data:
   followers: 2292
   id: 50khxLzwytXnqh7kXhThAs
   popularity: 18
-  url: https://open.spotify.com/artist/50khxLzwytXnqh7kXhThAs
+  url: 'https://open.spotify.com/artist/50khxLzwytXnqh7kXhThAs'
 discography_enriched: true
 top_tracks:
-- Nowhere To Run - From "The Warriors" Soundtrack
-- Separate Lives (feat. Amy Keys & Arnold McCuller) - Live
-- White Boy Lost In The Blues (Release Me)
-- We Were Family
-- When Love Comes to Town / Love Wins (Live) (Back @ the Baked Potato Live 2015)
-- The Star Spangled Banner
-- Chance (Sabor)
-- Separate Lives (feat. Amy Keys & Arnold McCuller) - Live
-- You Can't Go Back (You Can't Go Back, Vol. 1)
-- Let's Go Back (Sabor)
+  - Nowhere To Run - From "The Warriors" Soundtrack
+  - Separate Lives (feat. Amy Keys & Arnold McCuller) - Live
+  - White Boy Lost In The Blues (Release Me)
+  - We Were Family
+  - >-
+    When Love Comes to Town / Love Wins (Live) (Back @ the Baked Potato Live
+    2015)
+  - The Star Spangled Banner
+  - Chance (Sabor)
+  - Separate Lives (feat. Amy Keys & Arnold McCuller) - Live
+  - 'You Can''t Go Back (You Can''t Go Back, Vol. 1)'
+  - Let's Go Back (Sabor)
 external_urls:
-  spotify: https://open.spotify.com/artist/50khxLzwytXnqh7kXhThAs
+  spotify: 'https://open.spotify.com/artist/50khxLzwytXnqh7kXhThAs'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/arnold_mcculler.jpg
 biography_enhanced_at: '2025-10-27T01:29:00.080990'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://arnoldmcculler.com/about/
-- https://www.artistetalk.com/arnold-mcculler/
-- https://www.sessiondays.com/2018/06/1994-arnold-mcculler-exception-to-the-rule/
-- https://bruuuce.com/wiki/arnold-mcculler/
-- https://www.crossovermedia.net/artists/arnold-mcculler/projects/soon-as-i-get-paid/bio/
+  - 'https://arnoldmcculler.com/about/'
+  - 'https://www.artistetalk.com/arnold-mcculler/'
+  - >-
+    https://www.sessiondays.com/2018/06/1994-arnold-mcculler-exception-to-the-rule/
+  - 'https://bruuuce.com/wiki/arnold-mcculler/'
+  - >-
+    https://www.crossovermedia.net/artists/arnold-mcculler/projects/soon-as-i-get-paid/bio/
 network_extracted: true
 entry_created: '2025-10-27T01:29:00.081009'
 last_updated: '2025-12-23T08:16:04.924577'
+artist_type: person
 ---
 
 ![](arnold_mcculler.jpg)

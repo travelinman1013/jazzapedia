@@ -1,22 +1,22 @@
 ---
-title: the slickee boys
+title: The Slickee Boys
 wiki_slug: the-slickee-boys
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- power pop
+  - power pop
 instruments:
-- bass guitar
-- electric guitar
-- keyboard
-- lead vocals
+  - bass guitar
+  - electric guitar
+  - keyboard
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_slickee_boys.jpg
   caption: the slickee boys
   background: group_or_band
 audio_profile:
-  tempo_avg: 137.0
+  tempo_avg: 137
   energy_avg: 0.778
   valence_avg: 0.731
   danceability_avg: 0.467
@@ -30,86 +30,86 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kim Kane
-  - Marshall Keith
-  - Mark Noone
-  - Dan Palenski
-  - Emory Alexa (Olexa)
-  - John Chumbris
-  - Martha Hull
+    - Kim Kane
+    - Marshall Keith
+    - Mark Noone
+    - Dan Palenski
+    - Emory Alexa (Olexa)
+    - John Chumbris
+    - Martha Hull
   influenced:
-  - D.C. Hardcore Scene
+    - D.C. Hardcore Scene
   mentors:
-  - 1960s Garage/Punk Bands
+    - 1960s Garage/Punk Bands
 spotify_data:
   followers: 1550
   id: 2wxmYJH1YKzkwBH6plo8Aq
   popularity: 5
-  url: https://open.spotify.com/artist/2wxmYJH1YKzkwBH6plo8Aq
+  url: 'https://open.spotify.com/artist/2wxmYJH1YKzkwBH6plo8Aq'
 discography_enriched: true
 top_tracks:
-- This party sucks (Live at last / Fashionably late)
-- Gotta tell me why (Live at last / Fashionably late)
-- When I go to the beach (Live at last / Fashionably late)
-- Pictures of matchstick men (Live at last / Fashionably late)
-- You've Got What It Takes (Cybernetic Dreams Of Pi)
-- Gotta Tell Me Why (Uh Oh ... No Breaks!)
-- When I Go to the Beach (Cybernetic Dreams Of Pi)
-- What A Girl Can't Do - The Slickee Boys (Meet The Reekers)
-- Here to stay (Live at last / Fashionably late)
-- Escalator 66 (Cybernetic Dreams Of Pi)
+  - This party sucks (Live at last / Fashionably late)
+  - Gotta tell me why (Live at last / Fashionably late)
+  - When I go to the beach (Live at last / Fashionably late)
+  - Pictures of matchstick men (Live at last / Fashionably late)
+  - You've Got What It Takes (Cybernetic Dreams Of Pi)
+  - Gotta Tell Me Why (Uh Oh ... No Breaks!)
+  - When I Go to the Beach (Cybernetic Dreams Of Pi)
+  - What A Girl Can't Do - The Slickee Boys (Meet The Reekers)
+  - Here to stay (Live at last / Fashionably late)
+  - Escalator 66 (Cybernetic Dreams Of Pi)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/742f08e7-b976-41f4-9593-3a411de66eaf
-  spotify: https://open.spotify.com/artist/2wxmYJH1YKzkwBH6plo8Aq
+  musicbrainz: 'https://musicbrainz.org/artist/742f08e7-b976-41f4-9593-3a411de66eaf'
+  spotify: 'https://open.spotify.com/artist/2wxmYJH1YKzkwBH6plo8Aq'
   wikipedia: Not found in search results; no Wikipedia URL available.
 image_path: 03_Resources/source_material/ArtistPortraits/the_slickee_boys.jpg
 biography_enhanced_at: '2025-11-01T15:34:09.230941'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- University of Maryland Digital Exhibitions
-- Joe Bonomo Substack
-- Unlocking the Airwaves
+  - University of Maryland Digital Exhibitions
+  - Joe Bonomo Substack
+  - Unlocking the Airwaves
 network_extracted: true
 entry_created: '2025-11-01T15:34:09.230957'
 last_updated: '2025-12-23T08:16:17.142812'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - bass guitar
-  mbid: 5945cee6-30f8-4088-9ef5-4cab1a30c370
-  name: John Chumbris
-- begin: ''
-  end: ''
-  instruments:
-  - electric guitar
-  mbid: 47c0f19f-4970-4b46-9f82-32a8708baabe
-  name: Kim Kane
-- begin: ''
-  end: ''
-  instruments:
-  - keyboard
-  mbid: 23620661-8e59-4585-a947-ea45262186ce
-  name: Keith Marshall
-- begin: ''
-  end: ''
-  instruments:
-  - electric guitar
-  mbid: 23620661-8e59-4585-a947-ea45262186ce
-  name: Keith Marshall
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: cba59576-47c9-4b94-846e-5a62e56346eb
-  name: Mark Noone
+  - begin: ''
+    end: ''
+    instruments:
+      - bass guitar
+    mbid: 5945cee6-30f8-4088-9ef5-4cab1a30c370
+    name: John Chumbris
+  - begin: ''
+    end: ''
+    instruments:
+      - electric guitar
+    mbid: 47c0f19f-4970-4b46-9f82-32a8708baabe
+    name: Kim Kane
+  - begin: ''
+    end: ''
+    instruments:
+      - keyboard
+    mbid: 23620661-8e59-4585-a947-ea45262186ce
+    name: Keith Marshall
+  - begin: ''
+    end: ''
+    instruments:
+      - electric guitar
+    mbid: 23620661-8e59-4585-a947-ea45262186ce
+    name: Keith Marshall
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: cba59576-47c9-4b94-846e-5a62e56346eb
+    name: Mark Noone
 musicbrainz_id: 742f08e7-b976-41f4-9593-3a411de66eaf
-origin: Washington
+origin: 'Washington, District of Columbia, United States'
 tags:
-- pop punk
-- power pop
-- surf punk
+  - pop punk
+  - power pop
+  - surf punk
 ---
 
 ![](the_slickee_boys.jpg)

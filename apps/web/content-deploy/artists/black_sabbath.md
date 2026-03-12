@@ -2,29 +2,29 @@
 title: Black Sabbath
 wiki_slug: black-sabbath
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: 1968-09
 genres:
-- classic rock
-- doom metal
-- hard rock
-- heavy metal
-- metal
-- rock
-- stoner rock
+  - classic rock
+  - doom metal
+  - hard rock
+  - heavy metal
+  - metal
+  - rock
+  - stoner rock
 instruments:
-- bass guitar
-- original
-- guitar
-- lead vocals
-- harmonica
-- background vocals
-- drums (drum set)
-- keyboard
-- percussion
-- membranophone
-- synthesizer
+  - bass guitar
+  - original
+  - guitar
+  - lead vocals
+  - harmonica
+  - background vocals
+  - drums (drum set)
+  - keyboard
+  - percussion
+  - membranophone
+  - synthesizer
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/black_sabbath.jpg
   caption: Black Sabbath
@@ -45,369 +45,369 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ozzy Osbourne
-  - Tony Iommi
-  - Geezer Butler
-  - Bill Ward
-  - Ronnie James Dio
-  - Brad Wilk
+    - Ozzy Osbourne
+    - Tony Iommi
+    - Geezer Butler
+    - Bill Ward
+    - Ronnie James Dio
+    - Brad Wilk
   influenced:
-  - Metallica
-  - Iron Maiden
-  - Soundgarden
-  - Queens of the Stone Age
+    - Metallica
+    - Iron Maiden
+    - Soundgarden
+    - Queens of the Stone Age
   mentors:
-  - Cream
-  - Henry's Blues Club artists
+    - Cream
+    - Henry's Blues Club artists
 spotify_data:
   followers: 9772591
   id: 5M52tdBnJaKSvOpJGz8mfZ
   popularity: 75
-  url: https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ
+  url: 'https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ'
 discography_enriched: true
 top_tracks:
-- Paranoid - 2009 Remaster (Paranoid)
-- Paranoid - 2012 - Remaster (Paranoid (Remaster))
-- Iron Man - 2009 Remaster (Paranoid)
-- War Pigs - 2009 Remaster (Paranoid)
-- War Pigs / Luke's Wall - 2012 - Remaster (Paranoid (Remaster))
-- Iron Man - 2012 - Remaster (Paranoid (Remaster))
-- Heaven and Hell (Heaven & Hell)
-- N.I.B. - 2009 Remaster (Black Sabbath)
-- Paranoid (2012 Remaster) (Paranoid)
-- Children of the Grave (2009 Remaster) (Master of Reality)
+  - Paranoid - 2009 Remaster (Paranoid)
+  - Paranoid - 2012 - Remaster (Paranoid (Remaster))
+  - Iron Man - 2009 Remaster (Paranoid)
+  - War Pigs - 2009 Remaster (Paranoid)
+  - War Pigs / Luke's Wall - 2012 - Remaster (Paranoid (Remaster))
+  - Iron Man - 2012 - Remaster (Paranoid (Remaster))
+  - Heaven and Hell (Heaven & Hell)
+  - N.I.B. - 2009 Remaster (Black Sabbath)
+  - Paranoid (2012 Remaster) (Paranoid)
+  - Children of the Grave (2009 Remaster) (Master of Reality)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5182c1d9-c7d2-4dad-afa0-ccfeada921a8
-  spotify: https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ
-  wikipedia: https://en.wikipedia.org/wiki/Black_Sabbath
+  musicbrainz: 'https://musicbrainz.org/artist/5182c1d9-c7d2-4dad-afa0-ccfeada921a8'
+  spotify: 'https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Black_Sabbath'
 image_path: 03_Resources/source_material/ArtistPortraits/black_sabbath.jpg
 biography_enhanced_at: '2025-10-30T12:08:30.253202'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- TeachRock.org[1]
-- Britannica[2]
-- IMDb[3]
-- Wikipedia[4]
-- Birmingham Royal Ballet[5]
-- BlackSabbath.com[6]
+  - 'TeachRock.org[1]'
+  - 'Britannica[2]'
+  - 'IMDb[3]'
+  - 'Wikipedia[4]'
+  - 'Birmingham Royal Ballet[5]'
+  - 'BlackSabbath.com[6]'
 network_extracted: true
 entry_created: '2025-10-30T12:08:30.253208'
 last_updated: '2025-12-23T08:16:05.672327'
 disambiguation: English heavy metal band
 members:
-- begin: 1968-09
-  end: 1969-08
-  instruments:
-  - bass guitar
-  - original
-  mbid: 123814ce-f7f7-44c9-b84d-0088b1e230a4
-  name: Geezer Butler
-- begin: 1968-09
-  end: 1969-08
-  instruments:
-  - guitar
-  - original
-  mbid: e5fa0175-2e93-4ca7-90c3-33f239381252
-  name: Tony Iommi
-- begin: 1968-09
-  end: 1969-08
-  instruments:
-  - lead vocals
-  - original
-  mbid: 8aa5b65a-5b3c-4029-92bf-47a544356934
-  name: Ozzy Osbourne
-- begin: 1968-09
-  end: 1969-08
-  instruments:
-  - harmonica
-  - original
-  mbid: 8aa5b65a-5b3c-4029-92bf-47a544356934
-  name: Ozzy Osbourne
-- begin: 1968-09
-  end: 1969-08
-  instruments:
-  - background vocals
-  - original
-  mbid: 9082aea0-ee30-4175-8795-6540a8fd3605
-  name: Bill Ward
-- begin: 1968-09
-  end: 1969-08
-  instruments:
-  - drums (drum set)
-  - original
-  mbid: 9082aea0-ee30-4175-8795-6540a8fd3605
-  name: Bill Ward
-- begin: 1969-08
-  end: '1977'
-  instruments:
-  - lead vocals
-  - original
-  mbid: 8aa5b65a-5b3c-4029-92bf-47a544356934
-  name: Ozzy Osbourne
-- begin: 1969-08
-  end: '1977'
-  instruments:
-  - harmonica
-  - original
-  mbid: 8aa5b65a-5b3c-4029-92bf-47a544356934
-  name: Ozzy Osbourne
-- begin: 1969-08
-  end: '1979'
-  instruments:
-  - bass guitar
-  - original
-  mbid: 123814ce-f7f7-44c9-b84d-0088b1e230a4
-  name: Geezer Butler
-- begin: 1969-08
-  end: '1980'
-  instruments:
-  - background vocals
-  - drums (drum set)
-  - original
-  mbid: 9082aea0-ee30-4175-8795-6540a8fd3605
-  name: Bill Ward
-- begin: 1969-08
-  end: 2006-03
-  instruments:
-  - guitar
-  - original
-  mbid: e5fa0175-2e93-4ca7-90c3-33f239381252
-  name: Tony Iommi
-- begin: '1977'
-  end: '1978'
-  instruments:
-  - lead vocals
-  mbid: ed02d3d7-5cf5-4c78-a35e-cda9e7b91581
-  name: Dave Walker
-- begin: 1979-05
-  end: 1982-10
-  instruments:
-  - lead vocals
-  mbid: fc4953aa-6bf4-4f1f-8e47-5ac79ca428e2
-  name: Ronnie James Dio
-- begin: '1979'
-  end: '2004'
-  instruments:
-  - keyboard
-  mbid: 9ba762c5-91b7-4f58-bb04-adc26644078b
-  name: Geoff Nicholls
-- begin: '1980'
-  end: '1982'
-  instruments:
-  - drums (drum set)
-  mbid: 40d1ad2f-e190-4d1e-9f9b-ba88144ac017
-  name: Vinny Appice
-- begin: 1982-11
-  end: 1984-02
-  instruments:
-  - lead vocals
-  mbid: ff2a0e30-aec1-44dd-ae06-dc78877f512d
-  name: Ian Gillan
-- begin: '1982'
-  end: '1985'
-  instruments:
-  - background vocals
-  - drums (drum set)
-  - original
-  - percussion
-  mbid: 9082aea0-ee30-4175-8795-6540a8fd3605
-  name: Bill Ward
-- begin: '1983'
-  end: '1984'
-  instruments:
-  - drums (drum set)
-  - percussion
-  mbid: 83cf78c3-c802-4d7e-aed6-65a354dbfdb0
-  name: Bev Bevan
-- begin: 1984-03
-  end: 1984-04
-  instruments:
-  - lead vocals
-  mbid: 8b03861e-468d-4694-a7c3-4d1cf5dfe2d2
-  name: Ron Keel
-- begin: '1984'
-  end: '1985'
-  instruments:
-  - lead vocals
-  mbid: 7acef841-a0f1-408e-967c-37d8a3fa6481
-  name: David Donato
-- begin: 1985-09
-  end: '1986-03-23'
-  instruments:
-  - lead vocals
-  mbid: 78692212-af57-402a-a291-3938ca356500
-  name: Glenn Hughes
-- begin: '1985'
-  end: 1987-01
-  instruments: []
-  mbid: 293c8348-b107-4c08-b7f5-eb2448b7610a
-  name: Eric Singer
-- begin: '1985'
-  end: '1987'
-  instruments:
-  - drums (drum set)
-  mbid: 293c8348-b107-4c08-b7f5-eb2448b7610a
-  name: Eric Singer
-- begin: '1985'
-  end: '1987'
-  instruments:
-  - bass guitar
-  mbid: e5fad3fa-3956-4379-a73e-f7b0daceb587
-  name: David Spitz
-- begin: 1986-03
-  end: '1987'
-  instruments:
-  - lead vocals
-  mbid: 43e9db57-4ac3-4979-9234-220ce711628f
-  name: Ray Gillen
-- begin: '1986'
-  end: '1986'
-  instruments:
-  - bass guitar
-  mbid: af49ecbb-a0b9-4805-9cec-f97eac794c81
-  name: Bob Daisley
-- begin: 1987-11
-  end: 1988-05
-  instruments:
-  - membranophone
-  mbid: 899a92fe-7ee5-4bc4-9628-0eff26df09e5
-  name: Terry Chimes
-- begin: '1987'
-  end: '1987'
-  instruments:
-  - drums (drum set)
-  - percussion
-  mbid: 83cf78c3-c802-4d7e-aed6-65a354dbfdb0
-  name: Bev Bevan
-- begin: '1987'
-  end: '1988'
-  instruments:
-  - bass guitar
-  mbid: d5bf671c-79e3-4be4-bd2f-61871125d6b8
-  name: Jo Burt
-- begin: '1987'
-  end: '1990'
-  instruments:
-  - lead vocals
-  mbid: 491470ea-797d-4d33-b14c-1a6a72827274
-  name: Tony Martin
-- begin: '1988'
-  end: '1991'
-  instruments:
-  - drums (drum set)
-  mbid: 0b406e6d-a81b-45ee-bef2-2df2a6c63859
-  name: Cozy Powell
-- begin: '1989'
-  end: '1991'
-  instruments:
-  - bass guitar
-  mbid: 7d0b58b5-88ca-4424-a6e5-21202ac19147
-  name: Neil Murray
-- begin: '1990'
-  end: '1994'
-  instruments:
-  - bass guitar
-  - original
-  - synthesizer
-  mbid: 123814ce-f7f7-44c9-b84d-0088b1e230a4
-  name: Geezer Butler
-- begin: '1991'
-  end: '1992-11-13'
-  instruments:
-  - lead vocals
-  mbid: fc4953aa-6bf4-4f1f-8e47-5ac79ca428e2
-  name: Ronnie James Dio
-- begin: '1991'
-  end: '1993'
-  instruments:
-  - drums (drum set)
-  mbid: 40d1ad2f-e190-4d1e-9f9b-ba88144ac017
-  name: Vinny Appice
-- begin: '1993'
-  end: '1995'
-  instruments:
-  - drums (drum set)
-  mbid: 0b406e6d-a81b-45ee-bef2-2df2a6c63859
-  name: Cozy Powell
-- begin: '1993'
-  end: '1996'
-  instruments:
-  - lead vocals
-  mbid: 491470ea-797d-4d33-b14c-1a6a72827274
-  name: Tony Martin
-- begin: '1993'
-  end: '1996'
-  instruments:
-  - drums (drum set)
-  mbid: a858b8c6-d0f7-413d-8b5e-511ea74013fc
-  name: Bob Rondinelli
-- begin: '1994'
-  end: '1995'
-  instruments:
-  - bass guitar
-  mbid: 7d0b58b5-88ca-4424-a6e5-21202ac19147
-  name: Neil Murray
-- begin: 1997-05
-  end: 1997-07
-  instruments:
-  - drums (drum set)
-  mbid: 9c2c5b32-ca3f-4280-a269-bf2430b5a16b
-  name: Mike Bordin
-- begin: '1997'
-  end: '2012'
-  instruments:
-  - background vocals
-  - drums (drum set)
-  - original
-  - percussion
-  mbid: 9082aea0-ee30-4175-8795-6540a8fd3605
-  name: Bill Ward
-- &id001
-  begin: '1997'
-  end: ''
-  instruments:
-  - bass guitar
-  - original
-  - synthesizer
-  mbid: 123814ce-f7f7-44c9-b84d-0088b1e230a4
-  name: Geezer Butler
-- &id002
-  begin: '1997'
-  end: ''
-  instruments:
-  - lead vocals
-  - original
-  mbid: 8aa5b65a-5b3c-4029-92bf-47a544356934
-  name: Ozzy Osbourne
-- begin: '1998'
-  end: '1998'
-  instruments:
-  - drums (drum set)
-  mbid: 40d1ad2f-e190-4d1e-9f9b-ba88144ac017
-  name: Vinny Appice
-- begin: '2007'
-  end: '2007'
-  instruments:
-  - drums (drum set)
-  mbid: 40d1ad2f-e190-4d1e-9f9b-ba88144ac017
-  name: Vinny Appice
-- begin: '2011'
-  end: '2017'
-  instruments:
-  - guitar
-  - original
-  mbid: e5fa0175-2e93-4ca7-90c3-33f239381252
-  name: Tony Iommi
+  - begin: 1968-09
+    end: 1969-08
+    instruments:
+      - bass guitar
+      - original
+    mbid: 123814ce-f7f7-44c9-b84d-0088b1e230a4
+    name: Geezer Butler
+  - begin: 1968-09
+    end: 1969-08
+    instruments:
+      - guitar
+      - original
+    mbid: e5fa0175-2e93-4ca7-90c3-33f239381252
+    name: Tony Iommi
+  - begin: 1968-09
+    end: 1969-08
+    instruments:
+      - lead vocals
+      - original
+    mbid: 8aa5b65a-5b3c-4029-92bf-47a544356934
+    name: Ozzy Osbourne
+  - begin: 1968-09
+    end: 1969-08
+    instruments:
+      - harmonica
+      - original
+    mbid: 8aa5b65a-5b3c-4029-92bf-47a544356934
+    name: Ozzy Osbourne
+  - begin: 1968-09
+    end: 1969-08
+    instruments:
+      - background vocals
+      - original
+    mbid: 9082aea0-ee30-4175-8795-6540a8fd3605
+    name: Bill Ward
+  - begin: 1968-09
+    end: 1969-08
+    instruments:
+      - drums (drum set)
+      - original
+    mbid: 9082aea0-ee30-4175-8795-6540a8fd3605
+    name: Bill Ward
+  - begin: 1969-08
+    end: '1977'
+    instruments:
+      - lead vocals
+      - original
+    mbid: 8aa5b65a-5b3c-4029-92bf-47a544356934
+    name: Ozzy Osbourne
+  - begin: 1969-08
+    end: '1977'
+    instruments:
+      - harmonica
+      - original
+    mbid: 8aa5b65a-5b3c-4029-92bf-47a544356934
+    name: Ozzy Osbourne
+  - begin: 1969-08
+    end: '1979'
+    instruments:
+      - bass guitar
+      - original
+    mbid: 123814ce-f7f7-44c9-b84d-0088b1e230a4
+    name: Geezer Butler
+  - begin: 1969-08
+    end: '1980'
+    instruments:
+      - background vocals
+      - drums (drum set)
+      - original
+    mbid: 9082aea0-ee30-4175-8795-6540a8fd3605
+    name: Bill Ward
+  - begin: 1969-08
+    end: 2006-03
+    instruments:
+      - guitar
+      - original
+    mbid: e5fa0175-2e93-4ca7-90c3-33f239381252
+    name: Tony Iommi
+  - begin: '1977'
+    end: '1978'
+    instruments:
+      - lead vocals
+    mbid: ed02d3d7-5cf5-4c78-a35e-cda9e7b91581
+    name: Dave Walker
+  - begin: 1979-05
+    end: 1982-10
+    instruments:
+      - lead vocals
+    mbid: fc4953aa-6bf4-4f1f-8e47-5ac79ca428e2
+    name: Ronnie James Dio
+  - begin: '1979'
+    end: '2004'
+    instruments:
+      - keyboard
+    mbid: 9ba762c5-91b7-4f58-bb04-adc26644078b
+    name: Geoff Nicholls
+  - begin: '1980'
+    end: '1982'
+    instruments:
+      - drums (drum set)
+    mbid: 40d1ad2f-e190-4d1e-9f9b-ba88144ac017
+    name: Vinny Appice
+  - begin: 1982-11
+    end: 1984-02
+    instruments:
+      - lead vocals
+    mbid: ff2a0e30-aec1-44dd-ae06-dc78877f512d
+    name: Ian Gillan
+  - begin: '1982'
+    end: '1985'
+    instruments:
+      - background vocals
+      - drums (drum set)
+      - original
+      - percussion
+    mbid: 9082aea0-ee30-4175-8795-6540a8fd3605
+    name: Bill Ward
+  - begin: '1983'
+    end: '1984'
+    instruments:
+      - drums (drum set)
+      - percussion
+    mbid: 83cf78c3-c802-4d7e-aed6-65a354dbfdb0
+    name: Bev Bevan
+  - begin: 1984-03
+    end: 1984-04
+    instruments:
+      - lead vocals
+    mbid: 8b03861e-468d-4694-a7c3-4d1cf5dfe2d2
+    name: Ron Keel
+  - begin: '1984'
+    end: '1985'
+    instruments:
+      - lead vocals
+    mbid: 7acef841-a0f1-408e-967c-37d8a3fa6481
+    name: David Donato
+  - begin: 1985-09
+    end: '1986-03-23'
+    instruments:
+      - lead vocals
+    mbid: 78692212-af57-402a-a291-3938ca356500
+    name: Glenn Hughes
+  - begin: '1985'
+    end: 1987-01
+    instruments: []
+    mbid: 293c8348-b107-4c08-b7f5-eb2448b7610a
+    name: Eric Singer
+  - begin: '1985'
+    end: '1987'
+    instruments:
+      - drums (drum set)
+    mbid: 293c8348-b107-4c08-b7f5-eb2448b7610a
+    name: Eric Singer
+  - begin: '1985'
+    end: '1987'
+    instruments:
+      - bass guitar
+    mbid: e5fad3fa-3956-4379-a73e-f7b0daceb587
+    name: David Spitz
+  - begin: 1986-03
+    end: '1987'
+    instruments:
+      - lead vocals
+    mbid: 43e9db57-4ac3-4979-9234-220ce711628f
+    name: Ray Gillen
+  - begin: '1986'
+    end: '1986'
+    instruments:
+      - bass guitar
+    mbid: af49ecbb-a0b9-4805-9cec-f97eac794c81
+    name: Bob Daisley
+  - begin: 1987-11
+    end: 1988-05
+    instruments:
+      - membranophone
+    mbid: 899a92fe-7ee5-4bc4-9628-0eff26df09e5
+    name: Terry Chimes
+  - begin: '1987'
+    end: '1987'
+    instruments:
+      - drums (drum set)
+      - percussion
+    mbid: 83cf78c3-c802-4d7e-aed6-65a354dbfdb0
+    name: Bev Bevan
+  - begin: '1987'
+    end: '1988'
+    instruments:
+      - bass guitar
+    mbid: d5bf671c-79e3-4be4-bd2f-61871125d6b8
+    name: Jo Burt
+  - begin: '1987'
+    end: '1990'
+    instruments:
+      - lead vocals
+    mbid: 491470ea-797d-4d33-b14c-1a6a72827274
+    name: Tony Martin
+  - begin: '1988'
+    end: '1991'
+    instruments:
+      - drums (drum set)
+    mbid: 0b406e6d-a81b-45ee-bef2-2df2a6c63859
+    name: Cozy Powell
+  - begin: '1989'
+    end: '1991'
+    instruments:
+      - bass guitar
+    mbid: 7d0b58b5-88ca-4424-a6e5-21202ac19147
+    name: Neil Murray
+  - begin: '1990'
+    end: '1994'
+    instruments:
+      - bass guitar
+      - original
+      - synthesizer
+    mbid: 123814ce-f7f7-44c9-b84d-0088b1e230a4
+    name: Geezer Butler
+  - begin: '1991'
+    end: '1992-11-13'
+    instruments:
+      - lead vocals
+    mbid: fc4953aa-6bf4-4f1f-8e47-5ac79ca428e2
+    name: Ronnie James Dio
+  - begin: '1991'
+    end: '1993'
+    instruments:
+      - drums (drum set)
+    mbid: 40d1ad2f-e190-4d1e-9f9b-ba88144ac017
+    name: Vinny Appice
+  - begin: '1993'
+    end: '1995'
+    instruments:
+      - drums (drum set)
+    mbid: 0b406e6d-a81b-45ee-bef2-2df2a6c63859
+    name: Cozy Powell
+  - begin: '1993'
+    end: '1996'
+    instruments:
+      - lead vocals
+    mbid: 491470ea-797d-4d33-b14c-1a6a72827274
+    name: Tony Martin
+  - begin: '1993'
+    end: '1996'
+    instruments:
+      - drums (drum set)
+    mbid: a858b8c6-d0f7-413d-8b5e-511ea74013fc
+    name: Bob Rondinelli
+  - begin: '1994'
+    end: '1995'
+    instruments:
+      - bass guitar
+    mbid: 7d0b58b5-88ca-4424-a6e5-21202ac19147
+    name: Neil Murray
+  - begin: 1997-05
+    end: 1997-07
+    instruments:
+      - drums (drum set)
+    mbid: 9c2c5b32-ca3f-4280-a269-bf2430b5a16b
+    name: Mike Bordin
+  - begin: '1997'
+    end: '2012'
+    instruments:
+      - background vocals
+      - drums (drum set)
+      - original
+      - percussion
+    mbid: 9082aea0-ee30-4175-8795-6540a8fd3605
+    name: Bill Ward
+  - &ref_0
+    begin: '1997'
+    end: ''
+    instruments:
+      - bass guitar
+      - original
+      - synthesizer
+    mbid: 123814ce-f7f7-44c9-b84d-0088b1e230a4
+    name: Geezer Butler
+  - &ref_1
+    begin: '1997'
+    end: ''
+    instruments:
+      - lead vocals
+      - original
+    mbid: 8aa5b65a-5b3c-4029-92bf-47a544356934
+    name: Ozzy Osbourne
+  - begin: '1998'
+    end: '1998'
+    instruments:
+      - drums (drum set)
+    mbid: 40d1ad2f-e190-4d1e-9f9b-ba88144ac017
+    name: Vinny Appice
+  - begin: '2007'
+    end: '2007'
+    instruments:
+      - drums (drum set)
+    mbid: 40d1ad2f-e190-4d1e-9f9b-ba88144ac017
+    name: Vinny Appice
+  - begin: '2011'
+    end: '2017'
+    instruments:
+      - guitar
+      - original
+    mbid: e5fa0175-2e93-4ca7-90c3-33f239381252
+    name: Tony Iommi
 musicbrainz_id: 5182c1d9-c7d2-4dad-afa0-ccfeada921a8
-origin: Birmingham
+origin: 'Birmingham, England, United Kingdom'
 original_members:
-- *id001
-- *id002
+  - *ref_0
+  - *ref_1
 tags:
-- british
-- classic rock
-- doom metal
+  - british
+  - classic rock
+  - doom metal
 ---
 
 ![](black_sabbath.jpg)

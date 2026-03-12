@@ -4,7 +4,7 @@ wiki_slug: joe-stark
 schema_version: 2
 status: active
 genres:
-- red dirt
+  - red dirt
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/joe_stark.jpg
   caption: Joe Stark
@@ -30,21 +30,21 @@ spotify_data:
   followers: 3767
   id: 6TKFHbrg0Ql6eTRvAOjZQN
   popularity: 26
-  url: https://open.spotify.com/artist/6TKFHbrg0Ql6eTRvAOjZQN
+  url: 'https://open.spotify.com/artist/6TKFHbrg0Ql6eTRvAOjZQN'
 discography_enriched: true
 top_tracks:
-- Flower of the Everglades (Allegheny)
-- Cricket Song (Allegheny)
-- The Storm (Allegheny)
-- First Saw You (First Saw You)
-- Grandma's Bible (Memoirs)
-- Goodbye, John (Goodbye, John)
-- Kansas (Memoirs)
-- All She Wrote (Memoirs)
-- More (More)
-- When the Lilacs Bloom (Allegheny)
+  - Flower of the Everglades (Allegheny)
+  - Cricket Song (Allegheny)
+  - The Storm (Allegheny)
+  - First Saw You (First Saw You)
+  - Grandma's Bible (Memoirs)
+  - 'Goodbye, John (Goodbye, John)'
+  - Kansas (Memoirs)
+  - All She Wrote (Memoirs)
+  - More (More)
+  - When the Lilacs Bloom (Allegheny)
 external_urls:
-  spotify: https://open.spotify.com/artist/6TKFHbrg0Ql6eTRvAOjZQN
+  spotify: 'https://open.spotify.com/artist/6TKFHbrg0Ql6eTRvAOjZQN'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/joe_stark.jpg
 biography_enhanced_at: '2025-12-08T04:27:24.574592'
@@ -54,6 +54,7 @@ research_sources: []
 network_extracted: true
 entry_created: '2025-12-08T04:27:24.574600'
 last_updated: '2025-12-23T08:16:10.660509'
+artist_type: person
 ---
 
 ![](joe_stark.jpg)

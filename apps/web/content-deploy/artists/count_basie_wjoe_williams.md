@@ -4,9 +4,9 @@ wiki_slug: count-basie-wjoe-williams
 schema_version: 2
 status: active
 genres:
-- big band
-- swing music
-- jazz
+  - big band
+  - swing music
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/count_basie_wjoe_williams.jpg
   caption: Count Basie w/Joe Williams
@@ -26,48 +26,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Count Basie
-  - Harry Edison
-  - Cannonball Adderley
+    - Count Basie
+    - Harry Edison
+    - Cannonball Adderley
   influenced:
-  - Diana Krall
-  - Kevin Mahogany
+    - Diana Krall
+    - Kevin Mahogany
   mentors:
-  - Fats Waller
-  - Lionel Hampton
+    - Fats Waller
+    - Lionel Hampton
 spotify_data:
   followers: 405693
   id: 2jFZlvIea42ZvcCw4OeEdA
   popularity: 60
-  url: https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA
+  url: 'https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA'
 discography_enriched: true
 top_tracks:
-- 'Fly Me To The Moon (In Other Words) (Sinatra/Basie: The Complete Reprise Studio Recordings)'
-- Fly Me To The Moon - 2008 Remastered
-- Fly Me To The Moon
-- Fly Me To The Moon (In Other Words) (It Might As Well Be Swing)
-- Splanky (The Atomic Mr Basie)
-- On The Sunny Side Of The Street
-- 'The Best Is Yet To Come (Sinatra/Basie: The Complete Reprise Studio Recordings)'
-- The Best Is Yet To Come - 2008 Remastered
-- Hay Burner (Straight Ahead)
-- Alright, Okay, You Win
+  - >-
+    Fly Me To The Moon (In Other Words) (Sinatra/Basie: The Complete Reprise
+    Studio Recordings)
+  - Fly Me To The Moon - 2008 Remastered
+  - Fly Me To The Moon
+  - Fly Me To The Moon (In Other Words) (It Might As Well Be Swing)
+  - Splanky (The Atomic Mr Basie)
+  - On The Sunny Side Of The Street
+  - >-
+    The Best Is Yet To Come (Sinatra/Basie: The Complete Reprise Studio
+    Recordings)
+  - The Best Is Yet To Come - 2008 Remastered
+  - Hay Burner (Straight Ahead)
+  - 'Alright, Okay, You Win'
 external_urls:
-  spotify: https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA
-  wikipedia: https://en.wikipedia.org/wiki/Count_Basie
+  spotify: 'https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA'
+  wikipedia: 'https://en.wikipedia.org/wiki/Count_Basie'
 image_path: 03_Resources/source_material/ArtistPortraits/count_basie_wjoe_williams.jpg
 biography_enhanced_at: '2025-10-28T08:57:08.072300'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- New Georgia Encyclopedia
-- National Jazz Archive
-- Britannica
+  - New Georgia Encyclopedia
+  - National Jazz Archive
+  - Britannica
 network_extracted: true
 entry_created: '2025-10-28T08:57:08.072310'
 last_updated: '2025-12-23T08:16:07.220971'
-origin: Red Bank, New Jersey, USA (Count Basie); Cordele, Georgia, USA (Joe Williams)
-
+origin: 'Red Bank, New Jersey, USA (Count Basie); Cordele, Georgia, USA (Joe Williams)'
+birth_place: 'Red Bank, New Jersey, United States'
+birth_date: '1904-08-21'
+artist_type: person
 ---
 
 ![](count_basie_wjoe_williams.jpg)

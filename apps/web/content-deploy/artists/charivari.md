@@ -4,7 +4,7 @@ wiki_slug: charivari
 schema_version: 2
 status: active
 genres:
-- russelåter
+  - russelåter
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/charivari.jpg
   caption: Charivari
@@ -15,7 +15,7 @@ audio_profile:
   valence_avg: 0.438
   danceability_avg: 0.736
   acousticness_avg: 0.008
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -6.9
   speechiness_avg: 0.163
   liveness_avg: 0.248
@@ -30,23 +30,25 @@ spotify_data:
   followers: 35
   id: 34tzNmrfhTsC0aTBxJ44If
   popularity: 4
-  url: https://open.spotify.com/artist/34tzNmrfhTsC0aTBxJ44If
+  url: 'https://open.spotify.com/artist/34tzNmrfhTsC0aTBxJ44If'
 discography_enriched: true
 top_tracks:
-- Charivari 2025 (Hjemmesnekk) (Charivari 2025 (Hjemmesnekk))
-- SIDESTILTE TITS (Sovjet 2025) (SIDESTILTE TITS (Sovjet 2025))
+  - Charivari 2025 (Hjemmesnekk) (Charivari 2025 (Hjemmesnekk))
+  - SIDESTILTE TITS (Sovjet 2025) (SIDESTILTE TITS (Sovjet 2025))
 external_urls:
-  spotify: https://open.spotify.com/artist/34tzNmrfhTsC0aTBxJ44If
+  spotify: 'https://open.spotify.com/artist/34tzNmrfhTsC0aTBxJ44If'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/charivari.jpg
 biography_enhanced_at: '2025-12-04T08:10:45.486285'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Insufficient data to provide verified information
+  - Insufficient data to provide verified information
 network_extracted: true
 entry_created: '2025-12-04T08:10:45.486292'
 last_updated: '2025-12-23T08:16:06.643894'
+origin: Unknown
+artist_type: band
 ---
 
 ![](charivari.jpg)

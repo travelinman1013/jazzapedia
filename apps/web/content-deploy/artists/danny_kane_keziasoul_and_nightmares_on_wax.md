@@ -1,43 +1,49 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-14T01:06:13.731214'
-birth_place: Leeds, West Yorkshire, UK
+birth_place: 'Leeds, West Yorkshire, UK'
 enhancement_provider: perplexity
 entry_created: '2026-01-14T01:06:13.731225'
 external_urls:
-  spotify: https://open.spotify.com/artist/6dRT1xzfph4sq7NC93xWfd
+  spotify: 'https://open.spotify.com/artist/6dRT1xzfph4sq7NC93xWfd'
   wikipedia: ''
 genres:
-- nu disco
-- disco house
-image_path: 03_Resources/source_material/ArtistPortraits/danny_kane_keziasoul_and_nightmares_on_wax.jpg
+  - nu disco
+  - disco house
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/danny_kane_keziasoul_and_nightmares_on_wax.jpg
 last_updated: '2026-01-14T01:06:13.731226'
 musical_connections:
   collaborators:
-  - Kevin Harper
-  - John Halnon
+    - Kevin Harper
+    - John Halnon
   influenced: []
   mentors:
-  - Todd Terry
-  - Kenny Dope
+    - Todd Terry
+    - Kenny Dope
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.electronicbeats.net/10-things-need-know-about-nightmares-wax
-- https://defected.com/news/post/glitterbox-spotlight-nightmares-wax
-- https://www.clashmusic.com/features/back-to-the-future-nightmares-on-wax-interviewed/
-- https://www.musicradar.com/news/nightmares-on-wax-interview
-- https://www.metrotimes.com/music-2/an-interview-with-george-evelyn-of-nightmares-on-wax-2201352/
-- https://thequietus.com/interviews/bakers-dozen/nightmares-on-wax-favourite-albums/
-- https://www.theblankmag.com/nightmaresonwax
-- https://www.tntmagazine.com/leisure-entertainment/interviews/interview-with-nightmares-on-wax/
+  - 'https://www.electronicbeats.net/10-things-need-know-about-nightmares-wax'
+  - 'https://defected.com/news/post/glitterbox-spotlight-nightmares-wax'
+  - >-
+    https://www.clashmusic.com/features/back-to-the-future-nightmares-on-wax-interviewed/
+  - 'https://www.musicradar.com/news/nightmares-on-wax-interview'
+  - >-
+    https://www.metrotimes.com/music-2/an-interview-with-george-evelyn-of-nightmares-on-wax-2201352/
+  - >-
+    https://thequietus.com/interviews/bakers-dozen/nightmares-on-wax-favourite-albums/
+  - 'https://www.theblankmag.com/nightmaresonwax'
+  - >-
+    https://www.tntmagazine.com/leisure-entertainment/interviews/interview-with-nightmares-on-wax/
 spotify_data:
   followers: 649
   id: 6dRT1xzfph4sq7NC93xWfd
   popularity: 25
-  url: https://open.spotify.com/artist/6dRT1xzfph4sq7NC93xWfd
+  url: 'https://open.spotify.com/artist/6dRT1xzfph4sq7NC93xWfd'
 status: active
-title: Danny Kane, Keziasoul & Nightmares On Wax)
+title: Nightmares On Wax
+origin: 'Leeds, UK, United Kingdom'
 ---
 
 ![](danny_kane_keziasoul_and_nightmares_on_wax.jpg)

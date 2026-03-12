@@ -5,25 +5,25 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1972-02-06'
-birth_place: Eunice
+birth_place: 'Eunice, Louisiana, United States'
 genres:
-- zydeco
-- cajun
+  - zydeco
+  - cajun
 instruments:
-- original
-- piano
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - original
-  mbid: 480f5b4e-673a-429c-83a2-9b7021dad040
-  name: Geno Delafose & French Rockin’ Boogie
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 858b2651-9a71-4436-93b2-ea695fba0595
-  name: John Delafose and the Eunice Playboys
+  - piano
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 480f5b4e-673a-429c-83a2-9b7021dad040
+    name: Geno Delafose & French Rockin’ Boogie
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 858b2651-9a71-4436-93b2-ea695fba0595
+    name: John Delafose and the Eunice Playboys
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/geno_delafose.jpg
   caption: Geno Delafose
@@ -45,49 +45,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - French Rockin' Boogie (band)
-  - Eunice Playboys
+    - French Rockin' Boogie (band)
+    - Eunice Playboys
   influenced: []
   mentors:
-  - John Delafose
+    - John Delafose
 spotify_data:
   followers: 5592
   id: 7zKDS8dI38NouMTa55W2xr
   popularity: 18
-  url: https://open.spotify.com/artist/7zKDS8dI38NouMTa55W2xr
+  url: 'https://open.spotify.com/artist/7zKDS8dI38NouMTa55W2xr'
 discography_enriched: true
 top_tracks:
-- Chickens On The Run (Le Cowboy Creole)
-- Hey, Geno! (French Rockin' Boogie)
-- Domino (Le Cowboy Creole)
-- Monsieur Thibodeaux (Ain't That Something)
-- La Chanson Perdue (La Chanson Perdue)
-- I May Be Wrong (A Tribute to the King of Zydeco)
-- Everybody's Havin' Fun (Le Cowboy Creole)
-- Promised Land (Le Cowboy Creole)
-- French Rockin' Boogie (French Rockin' Boogie)
-- I Want It All (La Chanson Perdue)
+  - Chickens On The Run (Le Cowboy Creole)
+  - 'Hey, Geno! (French Rockin'' Boogie)'
+  - Domino (Le Cowboy Creole)
+  - Monsieur Thibodeaux (Ain't That Something)
+  - La Chanson Perdue (La Chanson Perdue)
+  - I May Be Wrong (A Tribute to the King of Zydeco)
+  - Everybody's Havin' Fun (Le Cowboy Creole)
+  - Promised Land (Le Cowboy Creole)
+  - French Rockin' Boogie (French Rockin' Boogie)
+  - I Want It All (La Chanson Perdue)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c7f3fda1-3775-4d8b-94a4-fc9601db1a45
-  spotify: https://open.spotify.com/artist/7zKDS8dI38NouMTa55W2xr
-  wikipedia: https://en.wikipedia.org/wiki/Geno_Delafose
+  musicbrainz: 'https://musicbrainz.org/artist/c7f3fda1-3775-4d8b-94a4-fc9601db1a45'
+  spotify: 'https://open.spotify.com/artist/7zKDS8dI38NouMTa55W2xr'
+  wikipedia: 'https://en.wikipedia.org/wiki/Geno_Delafose'
 image_path: 03_Resources/source_material/ArtistPortraits/geno_delafose.jpg
 biography_enhanced_at: '2025-11-24T08:31:26.024131'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Geno Delafose
-- Geno Delafose Official Website (genodelafosemusic.com)
-- WOMEX - Geno Delafose & French Rockin' Boogie
-- Downtown Cajun Band - Geno Delafose
-- Festivals Acadiens - Geno Delafose & French Rockin' Boogie
-- WUNC - Geno Delafose, Keeping Zydeco in the Family
-- Church of New Orleans - Happy Birthday, Geno Delafose
+  - Wikipedia - Geno Delafose
+  - Geno Delafose Official Website (genodelafosemusic.com)
+  - WOMEX - Geno Delafose & French Rockin' Boogie
+  - Downtown Cajun Band - Geno Delafose
+  - Festivals Acadiens - Geno Delafose & French Rockin' Boogie
+  - 'WUNC - Geno Delafose, Keeping Zydeco in the Family'
+  - 'Church of New Orleans - Happy Birthday, Geno Delafose'
 network_extracted: true
 entry_created: '2025-11-24T08:31:26.024141'
 last_updated: '2025-12-23T08:16:09.058047'
 gender: Male
 musicbrainz_id: c7f3fda1-3775-4d8b-94a4-fc9601db1a45
+origin: 'Eunice, Louisiana, United States'
 ---
 
 ![](geno_delafose.jpg)

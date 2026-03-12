@@ -1,16 +1,16 @@
 ---
-title: frankie half pint jaxon
+title: Frankie Half Pint Jaxon
 wiki_slug: frankie-half-pint-jaxon
 schema_version: 2
 status: active
-birth_place: Montgomery, Alabama, USA
+birth_place: 'Montgomery, Alabama, USA'
 genres:
-- ragtime
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/frankie_half_pint_jaxon.jpg
   caption: frankie half pint jaxon
   background: solo_singer
-  origin: Montgomery, Alabama, USA
+  origin: 'Montgomery, Alabama, USA'
 audio_profile:
   tempo_avg: 109.9
   energy_avg: 0.298
@@ -26,41 +26,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tampa Red
+    - Tampa Red
   influenced: []
   mentors: []
 spotify_data:
   followers: 573
   id: 22b8w2euDyOKhQzDa9aL95
   popularity: 4
-  url: https://open.spotify.com/artist/22b8w2euDyOKhQzDa9aL95
+  url: 'https://open.spotify.com/artist/22b8w2euDyOKhQzDa9aL95'
 discography_enriched: true
 top_tracks:
-- You Got To Wet It (Frankie 'Half-Pint' Jaxon Vol. 2 1926-19309-1937)
-- I Wonder Where My Easy Rider's Gone (Those Dirty Blues, Vol. 2)
-- Jive Man Blues (Come On Mama Do That Dance (1928-1932))
-- You Know Jam Don't Shake (Frankie 'Half-Pint' Jaxon Vol. 3 1937-1940)
-- 'Jive Man Blues (The Roots Of Rap: Classic Recordings From The 1920s & 30s)'
-- Wasn't It Nice (Red Allen and the Blues Singers, Vol. 2 (Original Recordings 1940))
-- Be Your Natural Self (Frankie 'Half-Pint' Jaxon Vol. 3 1937-1940)
-- Willie The Weeper (Frankie 'Half-Pint' Jaxon Vol. 1 1926-1929)
-- Down At Jasper's Bar-B-Que (Frankie 'Half-Pint' Jaxon Vol. 1 1926-1929)
-- Mortgage Blues Parts 1 & 2
+  - You Got To Wet It (Frankie 'Half-Pint' Jaxon Vol. 2 1926-19309-1937)
+  - 'I Wonder Where My Easy Rider''s Gone (Those Dirty Blues, Vol. 2)'
+  - Jive Man Blues (Come On Mama Do That Dance (1928-1932))
+  - You Know Jam Don't Shake (Frankie 'Half-Pint' Jaxon Vol. 3 1937-1940)
+  - 'Jive Man Blues (The Roots Of Rap: Classic Recordings From The 1920s & 30s)'
+  - >-
+    Wasn't It Nice (Red Allen and the Blues Singers, Vol. 2 (Original Recordings
+    1940))
+  - Be Your Natural Self (Frankie 'Half-Pint' Jaxon Vol. 3 1937-1940)
+  - Willie The Weeper (Frankie 'Half-Pint' Jaxon Vol. 1 1926-1929)
+  - Down At Jasper's Bar-B-Que (Frankie 'Half-Pint' Jaxon Vol. 1 1926-1929)
+  - Mortgage Blues Parts 1 & 2
 external_urls:
-  spotify: https://open.spotify.com/artist/22b8w2euDyOKhQzDa9aL95
-  wikipedia: https://en.wikipedia.org/wiki/Frankie_Jaxon
+  spotify: 'https://open.spotify.com/artist/22b8w2euDyOKhQzDa9aL95'
+  wikipedia: 'https://en.wikipedia.org/wiki/Frankie_Jaxon'
 image_path: 03_Resources/source_material/ArtistPortraits/frankie_half_pint_jaxon.jpg
 biography_enhanced_at: '2025-12-12T12:06:56.961128'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Frankie_Jaxon
-- http://queermusicheritage-theblog.blogspot.com/2012/09/frankie-half-pint-jaxon.html
-- https://deependsongs.wordpress.com/2018/07/11/be-your-natural-self-frankie-half-pint-jaxon-1940/
-- https://www.allmusic.com/artist/jaxon-mn0000168790
+  - 'https://en.wikipedia.org/wiki/Frankie_Jaxon'
+  - >-
+    http://queermusicheritage-theblog.blogspot.com/2012/09/frankie-half-pint-jaxon.html
+  - >-
+    https://deependsongs.wordpress.com/2018/07/11/be-your-natural-self-frankie-half-pint-jaxon-1940/
+  - 'https://www.allmusic.com/artist/jaxon-mn0000168790'
 network_extracted: true
 entry_created: '2025-12-12T12:06:56.961133'
 last_updated: '2025-12-23T08:16:08.787368'
+origin: 'Chicago, Illinois, United States'
+death_date: '1953-05-15'
+artist_type: person
 ---
 
 ![](frankie_half_pint_jaxon.jpg)

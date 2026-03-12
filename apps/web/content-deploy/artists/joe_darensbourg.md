@@ -3,14 +3,14 @@ title: Joe Darensbourg
 wiki_slug: joe-darensbourg
 schema_version: 2
 status: active
-birth_place: Baton Rouge, Louisiana, United States
+birth_place: 'Baton Rouge, Louisiana, United States'
 genres:
-- ragtime
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/joe_darensbourg.jpg
   caption: Joe Darensbourg
   background: solo_singer
-  origin: Baton Rouge, Louisiana, United States
+  origin: 'Baton Rouge, Louisiana, United States'
 audio_profile:
   tempo_avg: 121.1
   energy_avg: 0.403
@@ -26,50 +26,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Teddy Buckner
-  - Louis Armstrong
-  - Jelly Roll Morton
-  - Fate Marable
-  - Charlie Creath
-  - Mutt Carey
+    - Teddy Buckner
+    - Louis Armstrong
+    - Jelly Roll Morton
+    - Fate Marable
+    - Charlie Creath
+    - Mutt Carey
   influenced: []
   mentors:
-  - Toots Johnson
-  - Kid Ory
+    - Toots Johnson
+    - Kid Ory
 spotify_data:
   followers: 115
   id: 51xOLETNnQ1JwyH9oS65r1
   popularity: 2
-  url: https://open.spotify.com/artist/51xOLETNnQ1JwyH9oS65r1
+  url: 'https://open.spotify.com/artist/51xOLETNnQ1JwyH9oS65r1'
 discography_enriched: true
 top_tracks:
-- Yellow Dog Blues (The N' Orleans Statesmen)
-- Rose Room (Memories of My Trip)
-- 'The Real Ambassadors: Summer Song'
-- Just a Closer Walk with Thee (The N' Orleans Statesmen)
-- 'The Real Ambassadors: The Real Ambassador'
-- Over the Waves (The N' Orleans Statesmen)
-- Joshua Fit the Battle of Jericho (The N' Orleans Statesmen)
-- 'The Real Ambassadors: Remember Who You Are'
-- 'The Real Abassadors: My One Bad Habit'
-- 'The Real Ambassadors: In the Lurch'
+  - Yellow Dog Blues (The N' Orleans Statesmen)
+  - Rose Room (Memories of My Trip)
+  - 'The Real Ambassadors: Summer Song'
+  - Just a Closer Walk with Thee (The N' Orleans Statesmen)
+  - 'The Real Ambassadors: The Real Ambassador'
+  - Over the Waves (The N' Orleans Statesmen)
+  - Joshua Fit the Battle of Jericho (The N' Orleans Statesmen)
+  - 'The Real Ambassadors: Remember Who You Are'
+  - 'The Real Abassadors: My One Bad Habit'
+  - 'The Real Ambassadors: In the Lurch'
 external_urls:
-  spotify: https://open.spotify.com/artist/51xOLETNnQ1JwyH9oS65r1
+  spotify: 'https://open.spotify.com/artist/51xOLETNnQ1JwyH9oS65r1'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/joe_darensbourg.jpg
 biography_enhanced_at: '2025-11-28T07:30:21.501577'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Jazzology - Joe Darensbourg biography by Paige Vanvorst
-- Mark Weber's Jazz Archive - Joe Darensbourg & His Dixie Flyers
-- 'ThriftBooks - Jazz Odyssey: The Autobiography of Joe Darensbourg'
-- Jazz Record Center - Jazz Odyssey album information
-- Los Angeles Times Archives - Jazzman Who Tells It Like It Is
-- Carnegie Hall Timeline - New Orleans-Style Jazz
+  - Jazzology - Joe Darensbourg biography by Paige Vanvorst
+  - Mark Weber's Jazz Archive - Joe Darensbourg & His Dixie Flyers
+  - 'ThriftBooks - Jazz Odyssey: The Autobiography of Joe Darensbourg'
+  - Jazz Record Center - Jazz Odyssey album information
+  - Los Angeles Times Archives - Jazzman Who Tells It Like It Is
+  - Carnegie Hall Timeline - New Orleans-Style Jazz
 network_extracted: true
 entry_created: '2025-11-28T07:30:21.501593'
 last_updated: '2025-12-23T08:16:10.585891'
+artist_type: person
 ---
 
 ![](joe_darensbourg.jpg)

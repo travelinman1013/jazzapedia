@@ -4,10 +4,10 @@ wiki_slug: spree-wilson
 schema_version: 2
 artist_type: person
 status: active
-birth_place: Nashville
+birth_place: 'Nashville, Tennessee, United States'
 genres: []
 instruments:
-- lead vocals
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/spree_wilson.jpg
   caption: Spree Wilson
@@ -20,7 +20,7 @@ audio_profile:
   danceability_avg: 0.648
   acousticness_avg: 0.115
   instrumentalness_avg: 0.019
-  loudness_avg: -6.0
+  loudness_avg: -6
   speechiness_avg: 0.071
   liveness_avg: 0.139
   track_count: 50
@@ -28,56 +28,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Afrojack
-  - Kanye West
-  - Q-Tip
-  - Dallas Austin
-  - No I.D.
-  - Malay
+    - Afrojack
+    - Kanye West
+    - Q-Tip
+    - Dallas Austin
+    - No I.D.
+    - Malay
   influenced: []
   mentors:
-  - Mother
-  - Malay
+    - Mother
+    - Malay
 spotify_data:
   followers: 4401
   id: 266duGfkKTRERSBoGDOgDy
   popularity: 40
-  url: https://open.spotify.com/artist/266duGfkKTRERSBoGDOgDy
+  url: 'https://open.spotify.com/artist/266duGfkKTRERSBoGDOgDy'
 discography_enriched: true
 top_tracks:
-- The Spark (Forget The World (Deluxe))
-- The Weekend (feat. Eva Shaw)
-- Champagne Supernova
-- The Spark - Tiësto vs twoloud Remix
-- Counterfeit
-- The Spark (Forget The World)
-- The Weekend (feat. Eva Shaw) - DRYM Remix
-- Moonlight & Madness
-- The Spark (Forget The World)
-- The Spark
+  - The Spark (Forget The World (Deluxe))
+  - The Weekend (feat. Eva Shaw)
+  - Champagne Supernova
+  - The Spark - Tiësto vs twoloud Remix
+  - Counterfeit
+  - The Spark (Forget The World)
+  - The Weekend (feat. Eva Shaw) - DRYM Remix
+  - Moonlight & Madness
+  - The Spark (Forget The World)
+  - The Spark
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d77117c4-c81f-4002-b00d-a3c6954aae9a
-  spotify: https://open.spotify.com/artist/266duGfkKTRERSBoGDOgDy
+  musicbrainz: 'https://musicbrainz.org/artist/d77117c4-c81f-4002-b00d-a3c6954aae9a'
+  spotify: 'https://open.spotify.com/artist/266duGfkKTRERSBoGDOgDy'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/spree_wilson.jpg
 biography_enhanced_at: '2025-12-10T04:46:50.791183'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://www.thewebmgmt.co/spree-wilson
-- https://blavity.com/a-conversation-with-spree-wilson
-- https://mmusicmag.com/m/2012/06/spree-wilson/
-- https://www.interviewmagazine.com/music/discovery-spree-wilson
-- https://www.spreewilson.com/about
-- https://www.allmusic.com/artist/spree-wilson-mn0001052133
-- https://www.spreewilson.com
-- https://www.last.fm/music/Spree+Wilson/+wiki
-- https://www.bealestreetcaravan.com/bsc2837/
+  - 'http://www.thewebmgmt.co/spree-wilson'
+  - 'https://blavity.com/a-conversation-with-spree-wilson'
+  - 'https://mmusicmag.com/m/2012/06/spree-wilson/'
+  - 'https://www.interviewmagazine.com/music/discovery-spree-wilson'
+  - 'https://www.spreewilson.com/about'
+  - 'https://www.allmusic.com/artist/spree-wilson-mn0001052133'
+  - 'https://www.spreewilson.com'
+  - 'https://www.last.fm/music/Spree+Wilson/+wiki'
+  - 'https://www.bealestreetcaravan.com/bsc2837/'
 network_extracted: true
 entry_created: '2025-12-10T04:46:50.791192'
 last_updated: '2025-12-23T08:16:16.000432'
 gender: Male
 musicbrainz_id: d77117c4-c81f-4002-b00d-a3c6954aae9a
+origin: 'Nashville, Tennessee, United States'
 ---
 
 ![](spree_wilson.jpg)

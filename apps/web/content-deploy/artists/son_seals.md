@@ -1,25 +1,25 @@
 ---
-title: son seals
+title: Son Seals
 wiki_slug: son-seals
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1942-08-13'
-birth_place: Osceola
+birth_place: 'Osceola, Arkansas, United States'
 death_date: '2004-12-20'
 genres:
-- classic blues
-- blues
-- modern blues
-- blues rock
+  - classic blues
+  - blues
+  - modern blues
+  - blues rock
 instruments:
-- guitar
+  - guitar
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0c406fb3-2edf-4898-9923-d10abf2c0c2b
-  name: The Son Seals Blues Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0c406fb3-2edf-4898-9923-d10abf2c0c2b
+    name: The Son Seals Blues Band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/son_seals.jpg
   caption: son seals
@@ -42,57 +42,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Junior Wells
-  - Buddy Guy
-  - Hound Dog Taylor
-  - Phish
+    - Junior Wells
+    - Buddy Guy
+    - Hound Dog Taylor
+    - Phish
   influenced:
-  - Phish
-  - Contemporary Chicago blues artists
+    - Phish
+    - Contemporary Chicago blues artists
   mentors:
-  - Albert King
-  - Earl Hooker
-  - Jim 'Son' Seals
+    - Albert King
+    - Earl Hooker
+    - Jim 'Son' Seals
 spotify_data:
   followers: 35322
   id: 0phMS1UDPTZlxuEnarDUKt
   popularity: 34
-  url: https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt
+  url: 'https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt'
 discography_enriched: true
 top_tracks:
-- Sadie (Nothing But The Truth)
-- I Believe To My Soul
-- All Your Love (The Son Seals Blues Band)
-- Now That I'm Down (The Son Seals Blues Band)
-- Sitting At My Window (The Son Seals Blues Band)
-- I Can't Hear Nothing But The Blues (Nothing But The Truth)
-- Cotton Picking Blues (The Son Seals Blues Band)
-- Look Now, Baby (The Son Seals Blues Band)
-- Funky Bitch - Live (Live and Burning)
-- Your Love Is Like A Cancer (The Son Seals Blues Band)
+  - Sadie (Nothing But The Truth)
+  - I Believe To My Soul
+  - All Your Love (The Son Seals Blues Band)
+  - Now That I'm Down (The Son Seals Blues Band)
+  - Sitting At My Window (The Son Seals Blues Band)
+  - I Can't Hear Nothing But The Blues (Nothing But The Truth)
+  - Cotton Picking Blues (The Son Seals Blues Band)
+  - 'Look Now, Baby (The Son Seals Blues Band)'
+  - Funky Bitch - Live (Live and Burning)
+  - Your Love Is Like A Cancer (The Son Seals Blues Band)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d2728d68-26f6-42b6-a490-ddae85b65d6d
-  spotify: https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt
-  wikipedia: https://en.wikipedia.org/wiki/Son_Seals
+  musicbrainz: 'https://musicbrainz.org/artist/d2728d68-26f6-42b6-a490-ddae85b65d6d'
+  spotify: 'https://open.spotify.com/artist/0phMS1UDPTZlxuEnarDUKt'
+  wikipedia: 'https://en.wikipedia.org/wiki/Son_Seals'
 image_path: 03_Resources/source_material/ArtistPortraits/son_seals.jpg
 biography_enhanced_at: '2025-11-14T11:04:14.428811'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Son_Seals
-- https://www.alligator.com/artists/Son-Seals/
-- https://earlyblues.org/in-memoriam-son-seals/
-- https://www.latimes.com/archives/la-xpm-2004-dec-23-me-seals23-story.html
-- https://blues.org/blues_hof_inductee/son-seals/
+  - 'https://en.wikipedia.org/wiki/Son_Seals'
+  - 'https://www.alligator.com/artists/Son-Seals/'
+  - 'https://earlyblues.org/in-memoriam-son-seals/'
+  - 'https://www.latimes.com/archives/la-xpm-2004-dec-23-me-seals23-story.html'
+  - 'https://blues.org/blues_hof_inductee/son-seals/'
 network_extracted: true
 entry_created: '2025-11-14T11:04:14.428823'
 last_updated: '2025-12-23T08:16:15.864150'
 gender: Male
 musicbrainz_id: d2728d68-26f6-42b6-a490-ddae85b65d6d
 tags:
-- blues
-- chicago blues
-- electric blues
+  - blues
+  - chicago blues
+  - electric blues
+is_active: false
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](son_seals.jpg)

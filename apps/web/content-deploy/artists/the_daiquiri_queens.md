@@ -2,11 +2,11 @@
 title: The Daiquiri Queens
 wiki_slug: the-daiquiri-queens
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_daiquiri_queens.jpg
   caption: The Daiquiri Queens
@@ -26,49 +26,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jamie Lynn Fontenot
-  - Miriam McCracken
-  - John Dowden
-  - Tysman Charpentier
-  - Chelsea Moosekian
+    - Jamie Lynn Fontenot
+    - Miriam McCracken
+    - John Dowden
+    - Tysman Charpentier
+    - Chelsea Moosekian
   influenced: []
   mentors:
-  - Chris Stafford
+    - Chris Stafford
 spotify_data:
   followers: 713
   id: 1EvzmKIeKrx3gpkWWe0uXO
   popularity: 2
-  url: https://open.spotify.com/artist/1EvzmKIeKrx3gpkWWe0uXO
+  url: 'https://open.spotify.com/artist/1EvzmKIeKrx3gpkWWe0uXO'
 discography_enriched: true
 top_tracks:
-- Chère bébé (The Daiquiri Queens)
-- Mes deux beaux-frères (The Daiquiri Queens)
-- La chanson de mardi gras (Delta Bound)
-- Plus tu tournes (The Daiquiri Queens)
-- Une femme avec un coeur cassé (The Daiquiri Queens)
-- Je t'aime toujours (The Daiquiri Queens)
-- Moi pour toi (The Daiquiri Queens)
-- J'ai passé dessous le pommier (The Daiquiri Queens)
-- Kingpin Special (The Daiquiri Queens)
-- I'll Always Take Care of You (The Daiquiri Queens)
+  - Chère bébé (The Daiquiri Queens)
+  - Mes deux beaux-frères (The Daiquiri Queens)
+  - La chanson de mardi gras (Delta Bound)
+  - Plus tu tournes (The Daiquiri Queens)
+  - Une femme avec un coeur cassé (The Daiquiri Queens)
+  - Je t'aime toujours (The Daiquiri Queens)
+  - Moi pour toi (The Daiquiri Queens)
+  - J'ai passé dessous le pommier (The Daiquiri Queens)
+  - Kingpin Special (The Daiquiri Queens)
+  - I'll Always Take Care of You (The Daiquiri Queens)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e668a0d0-8717-47a3-b686-7205be3b7294
-  spotify: https://open.spotify.com/artist/1EvzmKIeKrx3gpkWWe0uXO
+  musicbrainz: 'https://musicbrainz.org/artist/e668a0d0-8717-47a3-b686-7205be3b7294'
+  spotify: 'https://open.spotify.com/artist/1EvzmKIeKrx3gpkWWe0uXO'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/the_daiquiri_queens.jpg
 biography_enhanced_at: '2025-11-08T21:47:00.974796'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://festivalsacadiens.com/artists/daiquiri-queens/
-- https://www.gigsalad.com/the_daiquiri_queens_lafayette
-- https://explorehouma.com/events/louisiana-swamp-stomp-fest-the-daiquiri-queens/
-- https://www.theadvertiser.com/story/entertainment/2019/04/24/daiquiri-queens-give-new-twist-traditional-cajun-music/3554830002/
+  - 'https://festivalsacadiens.com/artists/daiquiri-queens/'
+  - 'https://www.gigsalad.com/the_daiquiri_queens_lafayette'
+  - >-
+    https://explorehouma.com/events/louisiana-swamp-stomp-fest-the-daiquiri-queens/
+  - >-
+    https://www.theadvertiser.com/story/entertainment/2019/04/24/daiquiri-queens-give-new-twist-traditional-cajun-music/3554830002/
 network_extracted: true
 entry_created: '2025-11-08T21:47:00.974810'
 last_updated: '2025-12-23T08:16:16.701157'
 musicbrainz_id: e668a0d0-8717-47a3-b686-7205be3b7294
-origin: New Orleans
+origin: 'Lafayette, Louisiana, United States'
 ---
 
 ![](the_daiquiri_queens.jpg)

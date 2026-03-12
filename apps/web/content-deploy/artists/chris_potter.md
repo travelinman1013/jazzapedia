@@ -1,106 +1,106 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 13d0f4db-c24a-4afd-b610-c535ed457f0e
-  name: Dave Holland Big Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e2a0c084-0648-4ba0-805d-b61e39d7a9b3
-  name: Mingus Big Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f9e32c59-ab93-42d1-a80e-3773620cd20f
-  name: Dave Holland Octet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 503dd7fe-4db1-44ef-aca5-b935286e7b38
-  name: The Monterey Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 16d4ff00-464e-499f-b13a-05e2c8aa2b81
-  name: Aziza
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4bec1049-ffd8-45d3-9467-7c5a0e255812
-  name: Dave Holland Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - saxophone
-  mbid: 1870fa46-d6aa-4624-892e-e518dfaf0531
-  name: Crosscurrents Trio
-- begin: ''
-  end: ''
-  instruments:
-  - principal
-  - saxophone
-  mbid: 1d08fb22-288d-4294-939f-04dd0c32d5fb
-  name: Potter / Mehldau / Patitucci / Blake
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 13d0f4db-c24a-4afd-b610-c535ed457f0e
+    name: Dave Holland Big Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e2a0c084-0648-4ba0-805d-b61e39d7a9b3
+    name: Mingus Big Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f9e32c59-ab93-42d1-a80e-3773620cd20f
+    name: Dave Holland Octet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 503dd7fe-4db1-44ef-aca5-b935286e7b38
+    name: The Monterey Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 16d4ff00-464e-499f-b13a-05e2c8aa2b81
+    name: Aziza
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4bec1049-ffd8-45d3-9467-7c5a0e255812
+    name: Dave Holland Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - saxophone
+    mbid: 1870fa46-d6aa-4624-892e-e518dfaf0531
+    name: Crosscurrents Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - principal
+      - saxophone
+    mbid: 1d08fb22-288d-4294-939f-04dd0c32d5fb
+    name: Potter / Mehldau / Patitucci / Blake
 biography_enhanced_at: '2025-12-25T01:05:56.488266'
 birth_date: '1971-01-01'
-birth_place: Chicago
+birth_place: 'Chicago, Illinois, United States'
 disambiguation: jazz saxophonist
 enhancement_provider: perplexity
 entry_created: '2025-12-25T01:05:56.488279'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/80fd1c1c-7153-4a5b-b0e9-2242d8a6cbf5
-  spotify: https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB
-  wikipedia: https://en.wikipedia.org/wiki/Chris_Potter_(jazz_saxophonist)
+  musicbrainz: 'https://musicbrainz.org/artist/80fd1c1c-7153-4a5b-b0e9-2242d8a6cbf5'
+  spotify: 'https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB'
+  wikipedia: 'https://en.wikipedia.org/wiki/Chris_Potter_(jazz_saxophonist)'
 gender: Male
 genres:
-- jazz
-- jazz fusion
+  - jazz
+  - jazz fusion
 image_path: 03_Resources/source_material/ArtistPortraits/chris_potter.jpg
 instruments:
-- saxophone
-- principal
-- piano
-- guitar
+  - saxophone
+  - principal
+  - piano
+  - guitar
 last_updated: '2025-12-25T01:05:56.488280'
 musical_connections:
   collaborators:
-  - Red Rodney
-  - Paul Motian
-  - Dave Holland
-  - Dave Douglas
-  - Craig Taborn
-  - Nate Smith
-  - Steely Dan
-  - Joanne Brackeen
+    - Red Rodney
+    - Paul Motian
+    - Dave Holland
+    - Dave Douglas
+    - Craig Taborn
+    - Nate Smith
+    - Steely Dan
+    - Joanne Brackeen
   influenced: []
   mentors:
-  - Paul Desmond
-  - Red Rodney
-  - Marian McPartland
+    - Paul Desmond
+    - Red Rodney
+    - Marian McPartland
 musicbrainz_id: 80fd1c1c-7153-4a5b-b0e9-2242d8a6cbf5
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Chris_Potter_(jazz_saxophonist)
-- https://www.chrispottermusic.com/biography
-- https://newyorkjazzworkshop.com/chris-potter-2/
-- https://www.jazzempowers.org/chris-potter
-- https://columbiametro.com/article/made-in-cola-town-17/
+  - 'https://en.wikipedia.org/wiki/Chris_Potter_(jazz_saxophonist)'
+  - 'https://www.chrispottermusic.com/biography'
+  - 'https://newyorkjazzworkshop.com/chris-potter-2/'
+  - 'https://www.jazzempowers.org/chris-potter'
+  - 'https://columbiametro.com/article/made-in-cola-town-17/'
 spotify_data:
   followers: 55304
   id: 4hdVPbHhsWAn2XTXVRJoxB
   popularity: 37
-  url: https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB
+  url: 'https://open.spotify.com/artist/4hdVPbHhsWAn2XTXVRJoxB'
 status: active
 tags:
-- jazz
-- jazz and blues
-- post-bop
+  - jazz
+  - jazz and blues
+  - post-bop
 title: Chris Potter
-
+origin: 'New York City, New York, United States'
 ---
 
 ![](chris_potter.jpg)

@@ -4,10 +4,11 @@ wiki_slug: jelly-roll-mortons-red-hot-peppers
 schema_version: 2
 status: active
 genres:
-- ragtime
-- jazz
+  - ragtime
+  - jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/Jelly_Roll_Mortons_Red_Hot_Peppers.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/Jelly_Roll_Mortons_Red_Hot_Peppers.jpg
   caption: Jelly Roll Morton's Red Hot Peppers
   background: solo_singer
 audio_profile:
@@ -25,48 +26,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kid Ory
-  - Johnny Dodds
-  - Omer Simeon
-  - Johnny St. Cyr
+    - Kid Ory
+    - Johnny Dodds
+    - Omer Simeon
+    - Johnny St. Cyr
   influenced:
-  - Billy Taylor
-  - Duke Ellington
-  - Art Tatum
+    - Billy Taylor
+    - Duke Ellington
+    - Art Tatum
   mentors:
-  - Tony Jackson
+    - Tony Jackson
 spotify_data:
   followers: 7745
   id: 5GHLXPkq5y7bu1BlLQ5hvO
   popularity: 11
-  url: https://open.spotify.com/artist/5GHLXPkq5y7bu1BlLQ5hvO
+  url: 'https://open.spotify.com/artist/5GHLXPkq5y7bu1BlLQ5hvO'
 discography_enriched: true
 top_tracks:
-- 'Sidewalk Blues (Jelly-Roll Morton: Original Recordings 1926-29)'
-- 'New Orleans Bump (Jelly-Roll Morton: Original Recordings 1926-29)'
-- 'Doctor Jazz (Jelly-Roll Morton: Original Recordings 1926-29)'
-- Dead Man Blues (Black Bottom Stomp (The Complete Victor Recordings 1926))
-- Dead Man Blues
-- 'Beale Street Blues (Jelly-Roll Morton: Original Recordings 1926-29)'
-- 'The Chant (Jelly-Roll Morton: Original Recordings 1926-29)'
-- Black Bottom Stomp (Black Bottom Stomp (The Complete Victor Recordings 1926))
-- Dead Man Blues (Rare Jazz Records - Jelly Roll Morton and His Red Hot Peppers, Vol. 3)
-- 'Dead Man''s Blues (Jelly-Roll Morton: Original Recordings 1926-29)'
+  - 'Sidewalk Blues (Jelly-Roll Morton: Original Recordings 1926-29)'
+  - 'New Orleans Bump (Jelly-Roll Morton: Original Recordings 1926-29)'
+  - 'Doctor Jazz (Jelly-Roll Morton: Original Recordings 1926-29)'
+  - Dead Man Blues (Black Bottom Stomp (The Complete Victor Recordings 1926))
+  - Dead Man Blues
+  - 'Beale Street Blues (Jelly-Roll Morton: Original Recordings 1926-29)'
+  - 'The Chant (Jelly-Roll Morton: Original Recordings 1926-29)'
+  - >-
+    Black Bottom Stomp (Black Bottom Stomp (The Complete Victor Recordings
+    1926))
+  - >-
+    Dead Man Blues (Rare Jazz Records - Jelly Roll Morton and His Red Hot
+    Peppers, Vol. 3)
+  - 'Dead Man''s Blues (Jelly-Roll Morton: Original Recordings 1926-29)'
 external_urls:
-  spotify: https://open.spotify.com/artist/5GHLXPkq5y7bu1BlLQ5hvO
-  wikipedia: https://en.wikipedia.org/wiki/Red_Hot_Peppers
-image_path: 03_Resources/source_material/ArtistPortraits/Jelly_Roll_Mortons_Red_Hot_Peppers.jpg
+  spotify: 'https://open.spotify.com/artist/5GHLXPkq5y7bu1BlLQ5hvO'
+  wikipedia: 'https://en.wikipedia.org/wiki/Red_Hot_Peppers'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/Jelly_Roll_Mortons_Red_Hot_Peppers.jpg
 biography_enhanced_at: '2025-10-19T12:26:15.079784'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Red_Hot_Peppers
-- https://www.biography.com/musicians/jelly-roll-morton
-- https://musicrising.tulane.edu/discover/people/ferdinand-jelly-roll-morton/
+  - 'https://en.wikipedia.org/wiki/Red_Hot_Peppers'
+  - 'https://www.biography.com/musicians/jelly-roll-morton'
+  - 'https://musicrising.tulane.edu/discover/people/ferdinand-jelly-roll-morton/'
 network_extracted: true
 entry_created: '2025-10-19T12:26:15.079809'
 last_updated: '2025-12-23T08:16:02.511311'
-origin: Chicago, Illinois, United States (band origin)
+origin: 'Chicago, Illinois, United States (band origin)'
+birth_place: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![](Jelly_Roll_Mortons_Red_Hot_Peppers.jpg)

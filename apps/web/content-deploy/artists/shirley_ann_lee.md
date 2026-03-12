@@ -1,5 +1,5 @@
 ---
-title: shirley ann lee
+title: Shirley Ann Lee
 wiki_slug: shirley-ann-lee
 schema_version: 2
 status: active
@@ -25,40 +25,42 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Gospel Supremes
-  - Voices of Deliverance
+    - Gospel Supremes
+    - Voices of Deliverance
   influenced: []
   mentors: []
 spotify_data:
   followers: 9522
   id: 5izy7ZlCAoOzxaKasR7CWq
   popularity: 25
-  url: https://open.spotify.com/artist/5izy7ZlCAoOzxaKasR7CWq
+  url: 'https://open.spotify.com/artist/5izy7ZlCAoOzxaKasR7CWq'
 discography_enriched: true
 top_tracks:
-- There's A Light (Songs of Light)
-- Someday (Songs of Light)
-- I Shall Not Be Moved (Songs of Light)
-- Please Accept My Prayer (Songs of Light)
-- How Can I Lose (Songs of Light)
-- Everything Gonna Be Alright (Songs of Light)
-- You Better Run (Songs of Light)
-- All I Have To Depend On (Songs of Light)
-- Stop Look & Listen (Songs of Light)
-- Stay On Your Knees (Songs of Light)
+  - There's A Light (Songs of Light)
+  - Someday (Songs of Light)
+  - I Shall Not Be Moved (Songs of Light)
+  - Please Accept My Prayer (Songs of Light)
+  - How Can I Lose (Songs of Light)
+  - Everything Gonna Be Alright (Songs of Light)
+  - You Better Run (Songs of Light)
+  - All I Have To Depend On (Songs of Light)
+  - Stop Look & Listen (Songs of Light)
+  - Stay On Your Knees (Songs of Light)
 external_urls:
-  spotify: https://open.spotify.com/artist/5izy7ZlCAoOzxaKasR7CWq
+  spotify: 'https://open.spotify.com/artist/5izy7ZlCAoOzxaKasR7CWq'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/shirley_ann_lee.jpg
 biography_enhanced_at: '2025-12-12T12:07:06.834095'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://numerophon.bandcamp.com/album/shirley-ann-lee-songs-of-light
-- https://www.crossrhythms.co.uk/artists/Shirley_Ann_Lee/23989/
+  - 'https://numerophon.bandcamp.com/album/shirley-ann-lee-songs-of-light'
+  - 'https://www.crossrhythms.co.uk/artists/Shirley_Ann_Lee/23989/'
 network_extracted: true
 entry_created: '2025-12-12T12:07:06.834105'
 last_updated: '2025-12-23T08:16:15.583266'
+artist_type: person
+origin: 'Michigan, United States'
 ---
 
 ![](shirley_ann_lee.jpg)

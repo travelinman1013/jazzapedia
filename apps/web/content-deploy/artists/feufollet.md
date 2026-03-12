@@ -2,11 +2,11 @@
 title: Feufollet
 wiki_slug: feufollet
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres: []
 instruments:
-- original
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/feufollet.jpg
   caption: Feufollet
@@ -26,108 +26,109 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kelli Jones-Savoy
-  - Anna Laura Edmiston
-  - Chris Stafford
-  - Mike Stafford
-  - Chris Segura
-  - Andrew Toups
-  - Philippe Billeaudeaux
-  - Louis Michot (Lost Bayou Ramblers)
+    - Kelli Jones-Savoy
+    - Anna Laura Edmiston
+    - Chris Stafford
+    - Mike Stafford
+    - Chris Segura
+    - Andrew Toups
+    - Philippe Billeaudeaux
+    - Louis Michot (Lost Bayou Ramblers)
   influenced: []
   mentors:
-  - Steve Riley
-  - Dewey Balfa
+    - Steve Riley
+    - Dewey Balfa
 spotify_data:
   followers: 27
   id: 6MLsFTIZD1aXLc1AwiDrhk
   popularity: 0
-  url: https://open.spotify.com/artist/6MLsFTIZD1aXLc1AwiDrhk
+  url: 'https://open.spotify.com/artist/6MLsFTIZD1aXLc1AwiDrhk'
 discography_enriched: true
 top_tracks:
-- joindre les 2 bouts (spring reasons)
-- unfold introduction (spring reasons)
-- post-floruit (spring reasons)
-- i can hear you (spring reasons)
-- sap rising (spring reasons)
-- loud interlude (DISCO.TOUR 2K25)
-- Orbiting Hearth (mes pensées) (SIMPLISTE)
-- cœur de géant (cœur de géant)
-- Obvie. (Obvie.)
+  - joindre les 2 bouts (spring reasons)
+  - unfold introduction (spring reasons)
+  - post-floruit (spring reasons)
+  - i can hear you (spring reasons)
+  - sap rising (spring reasons)
+  - loud interlude (DISCO.TOUR 2K25)
+  - Orbiting Hearth (mes pensées) (SIMPLISTE)
+  - cœur de géant (cœur de géant)
+  - Obvie. (Obvie.)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3b8da448-e9f8-4926-a1b4-5859f34d97fb
-  spotify: https://open.spotify.com/artist/6MLsFTIZD1aXLc1AwiDrhk
-  wikipedia: https://en.wikipedia.org/wiki/Feufollet
+  musicbrainz: 'https://musicbrainz.org/artist/3b8da448-e9f8-4926-a1b4-5859f34d97fb'
+  spotify: 'https://open.spotify.com/artist/6MLsFTIZD1aXLc1AwiDrhk'
+  wikipedia: 'https://en.wikipedia.org/wiki/Feufollet'
 image_path: 03_Resources/source_material/ArtistPortraits/feufollet.jpg
 biography_enhanced_at: '2025-10-28T09:02:35.107518'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Feufollet
-- https://diffuser.fm/feufollet-are-the-oldest-brand-new-band-on-the-road/
-- https://louisianais.com/en/culture/2024/06/14/one-month-without-chris-stafford-an-incredible-legacy-a-community-in-mourning/
-- https://americana-uk.com/cajun-corner-feufollet
+  - 'https://en.wikipedia.org/wiki/Feufollet'
+  - 'https://diffuser.fm/feufollet-are-the-oldest-brand-new-band-on-the-road/'
+  - >-
+    https://louisianais.com/en/culture/2024/06/14/one-month-without-chris-stafford-an-incredible-legacy-a-community-in-mourning/
+  - 'https://americana-uk.com/cajun-corner-feufollet'
 network_extracted: true
 entry_created: '2025-10-28T09:02:35.107529'
 last_updated: '2025-12-23T08:16:08.640805'
 members:
-- begin: '2003'
-  end: '2012'
-  instruments: []
-  mbid: a8463cc9-cef6-4e68-8f7d-a2c071088683
-  name: Anna Laura Edmiston
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9e422c2f-c9fd-4c09-a089-f626941d8fda
-  name: Philippe Billeaudeaux
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a5235e4e-4afe-4bc5-bc72-b1e8f07a078b
-  name: Kelli Jones
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3e6627e7-6a8c-498d-a289-d16ec35fe090
-  name: Jim Kolacek
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f21e6e61-0cbf-4e8d-88e1-37b018b8bbff
-  name: Andrew Toups
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: dd16e3a6-d9c4-4e39-a5dc-5e8870b775c7
-  name: Joshua Caffery
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1dd4fe72-7b59-4f63-8b06-010b67ff7840
-  name: Taylor Guarisco
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 26332dd3-d627-4bff-b7e0-a206b3d06a8c
-  name: Chris Segura
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: d454ad57-a808-45d7-9f6a-de7c9f343e56
-  name: Chris Stafford
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 71f3ffbd-9b66-4340-b974-97d88fe3f7b4
-  name: Michael Stafford
+  - begin: '2003'
+    end: '2012'
+    instruments: []
+    mbid: a8463cc9-cef6-4e68-8f7d-a2c071088683
+    name: Anna Laura Edmiston
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9e422c2f-c9fd-4c09-a089-f626941d8fda
+    name: Philippe Billeaudeaux
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a5235e4e-4afe-4bc5-bc72-b1e8f07a078b
+    name: Kelli Jones
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3e6627e7-6a8c-498d-a289-d16ec35fe090
+    name: Jim Kolacek
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f21e6e61-0cbf-4e8d-88e1-37b018b8bbff
+    name: Andrew Toups
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: dd16e3a6-d9c4-4e39-a5dc-5e8870b775c7
+    name: Joshua Caffery
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1dd4fe72-7b59-4f63-8b06-010b67ff7840
+    name: Taylor Guarisco
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 26332dd3-d627-4bff-b7e0-a206b3d06a8c
+    name: Chris Segura
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: d454ad57-a808-45d7-9f6a-de7c9f343e56
+    name: Chris Stafford
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 71f3ffbd-9b66-4340-b974-97d88fe3f7b4
+    name: Michael Stafford
 musicbrainz_id: 3b8da448-e9f8-4926-a1b4-5859f34d97fb
-origin: Lafayette, Louisiana, United States
+origin: 'Lafayette, Louisiana, United States'
 tags:
-- folk
+  - folk
 ---
 
 ![](feufollet.jpg)

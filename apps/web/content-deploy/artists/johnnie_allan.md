@@ -5,28 +5,28 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1938-03-10'
-birth_place: Rayne
+birth_place: 'Rayne, Louisiana, United States'
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 instruments:
-- steel guitar
+  - steel guitar
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 30d8471d-fd26-4bd8-afca-3b07f088e0ed
-  name: Johnnie Allan & the Krazy Kats
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7dee2164-0dfd-4d10-8799-8d6ec669bbb6
-  name: Walter Mouton and The Scott Playboys
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e4f8b6a1-444b-44de-9136-fcbf003fcde7
-  name: Lawrence Walker & Wandering Aces
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 30d8471d-fd26-4bd8-afca-3b07f088e0ed
+    name: Johnnie Allan & the Krazy Kats
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7dee2164-0dfd-4d10-8799-8d6ec669bbb6
+    name: Walter Mouton and The Scott Playboys
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e4f8b6a1-444b-44de-9136-fcbf003fcde7
+    name: Lawrence Walker & Wandering Aces
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/johnnie_allan.jpg
   caption: Johnnie Allan
@@ -48,54 +48,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Krazy Kats
-  - Floyd Soileau
+    - The Krazy Kats
+    - Floyd Soileau
   influenced:
-  - Swamp pop musicians of subsequent generations
+    - Swamp pop musicians of subsequent generations
   mentors:
-  - Helen Falcon
-  - Walter Mouton
-  - Lawrence Walker
-  - Elvis Presley
+    - Helen Falcon
+    - Walter Mouton
+    - Lawrence Walker
+    - Elvis Presley
 spotify_data:
   followers: 2769
   id: 4wACJHMR3ldxiLhTwzlsWa
   popularity: 17
-  url: https://open.spotify.com/artist/4wACJHMR3ldxiLhTwzlsWa
+  url: 'https://open.spotify.com/artist/4wACJHMR3ldxiLhTwzlsWa'
 discography_enriched: true
 top_tracks:
-- Promised Land (The Essential Collection)
-- Let's Go Get Drunk (The Essential Collection)
-- Mathilda (Louisiana Man)
-- South to Louisiana (North to Alaska) (The Essential Collection)
-- You Got Me Whistling (The Essential Collection)
-- I Don't Know Why I Love You but I Do (Memories)
-- Promised Land
-- 'A Stranger to You (Essential Collection: The Second Volume)'
-- South to Louisiana (Louisiana Man)
-- Heaven Sent (The Essential Collection)
+  - Promised Land (The Essential Collection)
+  - Let's Go Get Drunk (The Essential Collection)
+  - Mathilda (Louisiana Man)
+  - South to Louisiana (North to Alaska) (The Essential Collection)
+  - You Got Me Whistling (The Essential Collection)
+  - I Don't Know Why I Love You but I Do (Memories)
+  - Promised Land
+  - 'A Stranger to You (Essential Collection: The Second Volume)'
+  - South to Louisiana (Louisiana Man)
+  - Heaven Sent (The Essential Collection)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b654df92-5315-44dd-a184-642456e8e20e
-  spotify: https://open.spotify.com/artist/4wACJHMR3ldxiLhTwzlsWa
-  wikipedia: https://en.wikipedia.org/wiki/Johnnie_Allan
+  musicbrainz: 'https://musicbrainz.org/artist/b654df92-5315-44dd-a184-642456e8e20e'
+  spotify: 'https://open.spotify.com/artist/4wACJHMR3ldxiLhTwzlsWa'
+  wikipedia: 'https://en.wikipedia.org/wiki/Johnnie_Allan'
 image_path: 03_Resources/source_material/ArtistPortraits/johnnie_allan.jpg
 biography_enhanced_at: '2025-11-06T13:33:18.393298'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Johnnie_Allan
-- https://fromthevaults-boppinbob.blogspot.com/2021/03/johnnie-allan-born-10-march-1938.html
-- https://www.museumofthegulfcoast.org/johnnie-allan
+  - 'https://en.wikipedia.org/wiki/Johnnie_Allan'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2021/03/johnnie-allan-born-10-march-1938.html
+  - 'https://www.museumofthegulfcoast.org/johnnie-allan'
 network_extracted: true
 entry_created: '2025-11-06T13:33:18.393310'
 last_updated: '2025-12-23T08:16:10.806285'
-disambiguation: swamp pop singer, guitarist, songwriter, author, publisher and producer
+disambiguation: 'swamp pop singer, guitarist, songwriter, author, publisher and producer'
 gender: Male
 musicbrainz_id: b654df92-5315-44dd-a184-642456e8e20e
 tags:
-- cajun
-- classic pop and rock
-- swamp pop
+  - cajun
+  - classic pop and rock
+  - swamp pop
 ---
 
 ![](johnnie_allan.jpg)

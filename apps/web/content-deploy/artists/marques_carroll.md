@@ -1,13 +1,12 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-03T01:38:54.440180'
-birth_place: Los Angeles, California, USA (birthplace); raised in St. Louis, Missouri,
-  USA
+birth_place: 'Los Angeles, California, USA (birthplace); raised in St. Louis, Missouri, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-03T01:38:54.440194'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/fc58ef5b-dae8-4641-8c59-f8556b26df46
-  spotify: https://open.spotify.com/artist/1qbxNvObGa5BIggWgDPh9N
+  musicbrainz: 'https://musicbrainz.org/artist/fc58ef5b-dae8-4641-8c59-f8556b26df46'
+  spotify: 'https://open.spotify.com/artist/1qbxNvObGa5BIggWgDPh9N'
   wikipedia: ''
 gender: Male
 genres: []
@@ -15,29 +14,31 @@ image_path: 03_Resources/source_material/ArtistPortraits/marques_carroll.jpg
 last_updated: '2026-01-03T01:38:54.440195'
 musical_connections:
   collaborators:
-  - Count Basie Orchestra
-  - Jahmal Nichols
-  - Victor Garcia
-  - Corey Wilkes
+    - Count Basie Orchestra
+    - Jahmal Nichols
+    - Victor Garcia
+    - Corey Wilkes
   influenced: []
   mentors:
-  - Clark Terry
-  - Wynton Marsalis
+    - Clark Terry
+    - Wynton Marsalis
 musicbrainz_id: fc58ef5b-dae8-4641-8c59-f8556b26df46
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.marquescarrollmusic.com/about
-- https://canvasrebel.com/meet-marques-carroll/
-- https://globalrhythms.net/2018/11/20/the-trumpet-its-got-brilliance-darkness/
-- https://www.chicagosouljazzcollective.com/more-about-us
+  - 'https://www.marquescarrollmusic.com/about'
+  - 'https://canvasrebel.com/meet-marques-carroll/'
+  - >-
+    https://globalrhythms.net/2018/11/20/the-trumpet-its-got-brilliance-darkness/
+  - 'https://www.chicagosouljazzcollective.com/more-about-us'
 spotify_data:
   followers: 747
   id: 1qbxNvObGa5BIggWgDPh9N
   popularity: 7
-  url: https://open.spotify.com/artist/1qbxNvObGa5BIggWgDPh9N
+  url: 'https://open.spotify.com/artist/1qbxNvObGa5BIggWgDPh9N'
 status: active
 title: Marques Carroll
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](marques_carroll.jpg)

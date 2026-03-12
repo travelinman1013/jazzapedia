@@ -1,10 +1,10 @@
 ---
-title: FRANKIE BEVERLY & MAZE
+title: Frankie Beverly & Maze
 wiki_slug: frankie-beverly-maze
 schema_version: 2
 status: active
 genres:
-- quiet storm
+  - quiet storm
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/frankie_beverly_and_maze.jpg
   caption: FRANKIE BEVERLY & MAZE
@@ -16,7 +16,7 @@ audio_profile:
   danceability_avg: 0.634
   acousticness_avg: 0.462
   instrumentalness_avg: 0.012
-  loudness_avg: -10.0
+  loudness_avg: -10
   speechiness_avg: 0.049
   liveness_avg: 0.16
   track_count: 48
@@ -24,49 +24,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Maze (band members)
-  - The Butlers
+    - Maze (band members)
+    - The Butlers
   influenced:
-  - Beyoncé
-  - Contemporary R&B and soul artists
+    - Beyoncé
+    - Contemporary R&B and soul artists
   mentors:
-  - Marvin Gaye
-  - Kenny Gamble
+    - Marvin Gaye
+    - Kenny Gamble
 spotify_data:
   followers: 125492
   id: 6rXycobs8wkWicUGLtmB0n
   popularity: 49
-  url: https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n
+  url: 'https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n'
 discography_enriched: true
 top_tracks:
-- Before I Let Go
-- We Are One
-- Can't Get over You (Silky Soul)
-- Joy And Pain - Remastered 2004 (Joy And Pain (Remastered 2004))
-- We Are One - Remastered 2004 (We Are One (Remastered))
-- The Morning After (Back To Basics)
-- Golden Time Of Day - Remastered (Golden Time Of Day (Remastered))
-- Happy Feelin's - Remastered 2004 (Maze Featuring Frankie Beverly (Remastered 2004))
-- Before I Let Go (Live In New Orleans)
-- While I'm Alone - Remastered 2004 (Maze Featuring Frankie Beverly (Remastered 2004))
+  - Before I Let Go
+  - We Are One
+  - Can't Get over You (Silky Soul)
+  - Joy And Pain - Remastered 2004 (Joy And Pain (Remastered 2004))
+  - We Are One - Remastered 2004 (We Are One (Remastered))
+  - The Morning After (Back To Basics)
+  - Golden Time Of Day - Remastered (Golden Time Of Day (Remastered))
+  - >-
+    Happy Feelin's - Remastered 2004 (Maze Featuring Frankie Beverly (Remastered
+    2004))
+  - Before I Let Go (Live In New Orleans)
+  - >-
+    While I'm Alone - Remastered 2004 (Maze Featuring Frankie Beverly
+    (Remastered 2004))
 external_urls:
-  spotify: https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n
-  wikipedia: https://en.wikipedia.org/wiki/Frankie_Beverly
+  spotify: 'https://open.spotify.com/artist/6rXycobs8wkWicUGLtmB0n'
+  wikipedia: 'https://en.wikipedia.org/wiki/Frankie_Beverly'
 image_path: 03_Resources/source_material/ArtistPortraits/frankie_beverly_and_maze.jpg
 biography_enhanced_at: '2025-10-24T07:45:52.449537'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://afrotech.com/frankie-beverly-net-worth
-- https://www.philadelphiamusicalliance.org/walk-of-fame/maze-featuring-frankie-beverly/
-- https://en.wikipedia.org/wiki/Frankie_Beverly
-- https://www.wbgo.org/music/2023-12-02/rhythm-revue-spotlight-on-r-b-singer-and-songwriter-frankie-beverly-of-maze
-- https://blackpast.org/african-american-history/frankie-beverly-1946/
+  - 'https://afrotech.com/frankie-beverly-net-worth'
+  - >-
+    https://www.philadelphiamusicalliance.org/walk-of-fame/maze-featuring-frankie-beverly/
+  - 'https://en.wikipedia.org/wiki/Frankie_Beverly'
+  - >-
+    https://www.wbgo.org/music/2023-12-02/rhythm-revue-spotlight-on-r-b-singer-and-songwriter-frankie-beverly-of-maze
+  - 'https://blackpast.org/african-american-history/frankie-beverly-1946/'
 network_extracted: true
 entry_created: '2025-10-24T07:45:52.449548'
 last_updated: '2025-12-23T08:16:08.778444'
-origin: Philadelphia, Pennsylvania, USA
-
+origin: 'Philadelphia, Pennsylvania, USA'
+birth_place: 'Philadelphia, Pennsylvania, United States'
+birth_date: '1946'
+artist_type: band
 ---
 
 ![](frankie_beverly_and_maze.jpg)

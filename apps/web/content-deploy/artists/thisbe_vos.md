@@ -3,15 +3,18 @@ title: Thisbe Vos
 wiki_slug: thisbe-vos
 schema_version: 2
 status: active
-birth_place: Laren, North Holland, The Netherlands (birthplace); Los Angeles, California, USA (current base/origin as solo
-  artist)
+birth_place: >-
+  Laren, North Holland, The Netherlands (birthplace); Los Angeles, California,
+  USA (current base/origin as solo artist)
 genres:
-- vocal jazz
+  - vocal jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/thisbe_vos.jpg
   caption: Thisbe Vos
   background: solo_singer
-  origin: Laren, North Holland, The Netherlands (birthplace); Los Angeles, California, USA (current base/origin as solo artist)
+  origin: >-
+    Laren, North Holland, The Netherlands (birthplace); Los Angeles, California,
+    USA (current base/origin as solo artist)
 audio_profile:
   tempo_avg: 119.3
   energy_avg: 0.25
@@ -27,44 +30,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Jive Aces
-  - Nolan Shaheed
-  - Various Los Angeles jazz musicians
+    - The Jive Aces
+    - Nolan Shaheed
+    - Various Los Angeles jazz musicians
   influenced: []
   mentors:
-  - Henry Franklin
+    - Henry Franklin
 spotify_data:
   followers: 598
   id: 4LUgDK6oGC8JkgfMxTdvLt
   popularity: 11
-  url: https://open.spotify.com/artist/4LUgDK6oGC8JkgfMxTdvLt
+  url: 'https://open.spotify.com/artist/4LUgDK6oGC8JkgfMxTdvLt'
 discography_enriched: true
 top_tracks:
-- Just a Fool Over You (Under Your Spell)
-- He's a Tramp (Under Your Spell)
-- Ain't Misbehavin' (Under Your Spell)
-- Distinguished Gentlemen (Renaissance in Blue)
-- Shanghai Blues (Under Your Spell)
-- Under Your Spell (Under Your Spell)
-- I Thought About You (Under Your Spell)
-- That's All Right With Me (Under Your Spell)
-- I Need You (Under Your Spell)
-- Walking in the Sunshine (Walking in the Sunshine)
+  - Just a Fool Over You (Under Your Spell)
+  - He's a Tramp (Under Your Spell)
+  - Ain't Misbehavin' (Under Your Spell)
+  - Distinguished Gentlemen (Renaissance in Blue)
+  - Shanghai Blues (Under Your Spell)
+  - Under Your Spell (Under Your Spell)
+  - I Thought About You (Under Your Spell)
+  - That's All Right With Me (Under Your Spell)
+  - I Need You (Under Your Spell)
+  - Walking in the Sunshine (Walking in the Sunshine)
 external_urls:
-  spotify: https://open.spotify.com/artist/4LUgDK6oGC8JkgfMxTdvLt
+  spotify: 'https://open.spotify.com/artist/4LUgDK6oGC8JkgfMxTdvLt'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/thisbe_vos.jpg
 biography_enhanced_at: '2025-11-03T07:35:11.410391'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.taxi.com/members/thisbevos
-- https://www.thisbevosjazz.com/press
-- https://www.last.fm/music/Thisbe+Vos/+wiki
-- https://merryandbright.blogspot.com/2016/11/artist-interview-thisbe-vos.html
+  - 'https://www.taxi.com/members/thisbevos'
+  - 'https://www.thisbevosjazz.com/press'
+  - 'https://www.last.fm/music/Thisbe+Vos/+wiki'
+  - 'https://merryandbright.blogspot.com/2016/11/artist-interview-thisbe-vos.html'
 network_extracted: true
 entry_created: '2025-11-03T07:35:11.410414'
 last_updated: '2025-12-23T08:16:17.384060'
+origin: 'Los Angeles, California, United States'
+artist_type: person
 ---
 
 ![](thisbe_vos.jpg)

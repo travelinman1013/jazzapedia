@@ -2,11 +2,11 @@
 title: Rose & the Bros
 wiki_slug: rose-the-bros
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/rose_and_the_bros.jpg
   caption: Rose & the Bros
@@ -26,52 +26,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Rosie Newton
-  - Paul Martin
-  - Steve Selin
-  - Greg Evans
-  - Angelo Peters
-  - Sally Freund
+    - Rosie Newton
+    - Paul Martin
+    - Steve Selin
+    - Greg Evans
+    - Angelo Peters
+    - Sally Freund
   influenced: []
   mentors:
-  - Preston Frank
+    - Preston Frank
 spotify_data:
   followers: 498
   id: 6t7kztiEPqILRkWydLwwZy
   popularity: 4
-  url: https://open.spotify.com/artist/6t7kztiEPqILRkWydLwwZy
+  url: 'https://open.spotify.com/artist/6t7kztiEPqILRkWydLwwZy'
 discography_enriched: true
 top_tracks:
-- Free From It All (Ever Changing)
-- Into Your Arms (It's Music)
-- Something About the Song (Ever Changing)
-- At the Trail Ride (It's Music)
-- Don't Listen to the Wind (Rose & The Bros)
-- Memories Behind (Ever Changing)
-- Blue Driver (Ever Changing)
-- Don't Want to Know (It's Music)
-- Save Me a Waltz (Rose & The Bros)
-- Blue Driver (Blue Driver)
+  - Free From It All (Ever Changing)
+  - Into Your Arms (It's Music)
+  - Something About the Song (Ever Changing)
+  - At the Trail Ride (It's Music)
+  - Don't Listen to the Wind (Rose & The Bros)
+  - Memories Behind (Ever Changing)
+  - Blue Driver (Ever Changing)
+  - Don't Want to Know (It's Music)
+  - Save Me a Waltz (Rose & The Bros)
+  - Blue Driver (Blue Driver)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/081edce4-72af-4e2b-94fa-c9295bb5bde6
-  spotify: https://open.spotify.com/artist/6t7kztiEPqILRkWydLwwZy
+  musicbrainz: 'https://musicbrainz.org/artist/081edce4-72af-4e2b-94fa-c9295bb5bde6'
+  spotify: 'https://open.spotify.com/artist/6t7kztiEPqILRkWydLwwZy'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/rose_and_the_bros.jpg
 biography_enhanced_at: '2025-11-08T21:47:40.292937'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://rhythmandroots.com/artists/rose-the-bros/
-- https://lostbuffaloartists.com/rose-the-bros
-- https://www.deepdiveithaca.com/events/rose-the-bros-1
-- https://www.roccitymag.com/music/rose-and-the-bros-expands-its-rootsy-reach-with-its-music-14552020/
-- https://www.roseandthebros.com
-- https://roseandthebros.com/about
+  - 'https://rhythmandroots.com/artists/rose-the-bros/'
+  - 'https://lostbuffaloartists.com/rose-the-bros'
+  - 'https://www.deepdiveithaca.com/events/rose-the-bros-1'
+  - >-
+    https://www.roccitymag.com/music/rose-and-the-bros-expands-its-rootsy-reach-with-its-music-14552020/
+  - 'https://www.roseandthebros.com'
+  - 'https://roseandthebros.com/about'
 network_extracted: true
 entry_created: '2025-11-08T21:47:40.292952'
 last_updated: '2025-12-23T08:16:15.068397'
 musicbrainz_id: 081edce4-72af-4e2b-94fa-c9295bb5bde6
-origin: Ithaca, New York, USA
+origin: 'Ithaca, New York, USA'
 ---
 
 ![](rose_and_the_bros.jpg)

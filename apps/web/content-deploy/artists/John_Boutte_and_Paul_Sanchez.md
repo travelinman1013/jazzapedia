@@ -4,9 +4,10 @@ wiki_slug: john-boutte-paul-sanchez
 schema_version: 2
 status: active
 genres:
-- cajun
+  - cajun
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/John_Boutte_and_Paul_Sanchez.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/John_Boutte_and_Paul_Sanchez.jpg
   caption: John Boutte & Paul Sanchez
   background: solo_singer
 audio_profile:
@@ -24,50 +25,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Paul Sanchez
-  - John Scofield
-  - Cowboy Mouth
-  - Michelle Shocked
+    - Paul Sanchez
+    - John Scofield
+    - Cowboy Mouth
+    - Michelle Shocked
   influenced:
-  - Darius Rucker
-  - Irma Thomas
-  - Michael Cerveris
+    - Darius Rucker
+    - Irma Thomas
+    - Michael Cerveris
   mentors:
-  - Neighborhood jazz legends and school band teachers
+    - Neighborhood jazz legends and school band teachers
 spotify_data:
   followers: 148
   id: 4rDy5XVbo0rn2wDYrEkzVE
   popularity: 0
-  url: https://open.spotify.com/artist/4rDy5XVbo0rn2wDYrEkzVE
+  url: 'https://open.spotify.com/artist/4rDy5XVbo0rn2wDYrEkzVE'
 discography_enriched: true
 top_tracks:
-- Stew Called New Orleans (Stew Called New Orleans)
-- Hey God (Stew Called New Orleans)
-- American Tune (Stew Called New Orleans)
-- Two-five-one (Stew Called New Orleans)
-- I Thought I Heard Buddy Bolden Say (Stew Called New Orleans)
-- Call Me Superstitious (Stew Called New Orleans)
-- An Empty Chair (Stew Called New Orleans)
-- Don't Smoke Around Susie (Stew Called New Orleans)
-- Wakes Me Up to Say Good-bye (Stew Called New Orleans)
-- A Meaning or a Message (Stew Called New Orleans)
+  - Stew Called New Orleans (Stew Called New Orleans)
+  - Hey God (Stew Called New Orleans)
+  - American Tune (Stew Called New Orleans)
+  - Two-five-one (Stew Called New Orleans)
+  - I Thought I Heard Buddy Bolden Say (Stew Called New Orleans)
+  - Call Me Superstitious (Stew Called New Orleans)
+  - An Empty Chair (Stew Called New Orleans)
+  - Don't Smoke Around Susie (Stew Called New Orleans)
+  - Wakes Me Up to Say Good-bye (Stew Called New Orleans)
+  - A Meaning or a Message (Stew Called New Orleans)
 external_urls:
-  spotify: https://open.spotify.com/artist/4rDy5XVbo0rn2wDYrEkzVE
-  wikipedia: https://en.wikipedia.org/wiki/Paul_Sanchez
+  spotify: 'https://open.spotify.com/artist/4rDy5XVbo0rn2wDYrEkzVE'
+  wikipedia: 'https://en.wikipedia.org/wiki/Paul_Sanchez'
 image_path: 03_Resources/source_material/ArtistPortraits/John_Boutte_and_Paul_Sanchez.jpg
 biography_enhanced_at: '2025-10-20T10:09:42.971061'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://jazztimes.com/features/profiles/john-boutte-nola-captured-in-song/
-- https://www.offbeat.com/music/john-boutte-and-paul-sanchez-stew-called-new-orleans-threadhead/
-- https://www.hollywoodsoapbox.com/interview-ladies-and-gentlemen-nola-legend-john-boutte/
-- https://www.wwoz.org/blog/3048
-- https://en.wikipedia.org/wiki/Paul_Sanchez
+  - 'https://jazztimes.com/features/profiles/john-boutte-nola-captured-in-song/'
+  - >-
+    https://www.offbeat.com/music/john-boutte-and-paul-sanchez-stew-called-new-orleans-threadhead/
+  - >-
+    https://www.hollywoodsoapbox.com/interview-ladies-and-gentlemen-nola-legend-john-boutte/
+  - 'https://www.wwoz.org/blog/3048'
+  - 'https://en.wikipedia.org/wiki/Paul_Sanchez'
 network_extracted: true
 entry_created: '2025-10-20T10:09:42.971078'
 last_updated: '2025-12-23T08:16:02.609235'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1959-11-06'
+artist_type: person
 ---
 
 ![](John_Boutte_and_Paul_Sanchez.jpg)

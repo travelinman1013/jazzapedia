@@ -2,56 +2,56 @@
 artist_type: person
 biography_enhanced_at: '2026-01-19T01:16:04.109843'
 birth_date: 1975-12
-birth_place: Jamaica
+birth_place: 'Spanish Town, Saint Catherine Parish, Jamaica'
 disambiguation: Jamaican reggae singer & musician
 enhancement_provider: perplexity
 entry_created: '2026-01-19T01:16:04.109849'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/cc416d17-54de-4fdb-9fc9-db59cdaf079f
-  spotify: https://open.spotify.com/artist/1QfjByidqUrsRhcT3fpWTU
+  musicbrainz: 'https://musicbrainz.org/artist/cc416d17-54de-4fdb-9fc9-db59cdaf079f'
+  spotify: 'https://open.spotify.com/artist/1QfjByidqUrsRhcT3fpWTU'
   wikipedia: null
 gender: Male
 genres:
-- reggae
-- roots reggae
-- ragga
-- riddim
-- dancehall
-- lovers rock
+  - reggae
+  - roots reggae
+  - ragga
+  - riddim
+  - dancehall
+  - lovers rock
 image_path: 03_Resources/source_material/ArtistPortraits/lutan_fyah.jpg
 last_updated: '2026-01-19T01:16:04.109850'
 musical_connections:
   collaborators:
-  - Rebelution
-  - Chronixx
-  - Luciano
-  - Anthony B
-  - Lady G
-  - Jah Warrior
-  - Sly and Robbie
-  - Turbulence
+    - Rebelution
+    - Chronixx
+    - Luciano
+    - Anthony B
+    - Lady G
+    - Jah Warrior
+    - Sly and Robbie
+    - Turbulence
   influenced: []
   mentors:
-  - Buju Banton
-  - Grandfather Tamba
+    - Buju Banton
+    - Grandfather Tamba
 musicbrainz_id: cc416d17-54de-4fdb-9fc9-db59cdaf079f
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://reggaeeurope.com/upcoming-reggae-artists/lutan-fyah/
-- https://easystar.com/artists/lutan-fyah/
-- https://unitedreggae.com/articles/n470/092710/interview-lutan-fyah
-- https://lustrekings-productions.com/Artists/lutan-fyah/
-- https://www.hapilos.com/artists/lutan-fyah-116
-- https://pauzeradio.com/lutan-fyah/
+  - 'https://reggaeeurope.com/upcoming-reggae-artists/lutan-fyah/'
+  - 'https://easystar.com/artists/lutan-fyah/'
+  - 'https://unitedreggae.com/articles/n470/092710/interview-lutan-fyah'
+  - 'https://lustrekings-productions.com/Artists/lutan-fyah/'
+  - 'https://www.hapilos.com/artists/lutan-fyah-116'
+  - 'https://pauzeradio.com/lutan-fyah/'
 spotify_data:
   followers: 203342
   id: 1QfjByidqUrsRhcT3fpWTU
   popularity: 47
-  url: https://open.spotify.com/artist/1QfjByidqUrsRhcT3fpWTU
+  url: 'https://open.spotify.com/artist/1QfjByidqUrsRhcT3fpWTU'
 status: active
 tags:
-- reggae
+  - reggae
 title: Lutan Fyah
 ---
 

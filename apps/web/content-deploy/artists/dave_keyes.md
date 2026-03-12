@@ -1,61 +1,63 @@
 ---
 biography_enhanced_at: '2026-01-22T07:18:06.836282'
-birth_place: New York, New York, United States
+birth_place: 'New York, New York, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:18:06.836288'
 external_urls:
-  spotify: https://open.spotify.com/artist/4ybOBtWItq5MtfW5D3Ofwn
+  spotify: 'https://open.spotify.com/artist/4ybOBtWItq5MtfW5D3Ofwn'
   wikipedia: null
 genres:
-- blues
-- blues rock
+  - blues
+  - blues rock
 image_path: 03_Resources/source_material/ArtistPortraits/dave_keyes.jpg
 last_updated: '2026-01-22T07:18:06.836289'
 musical_connections:
   collaborators:
-  - Popa Chubby
-  - Ronnie Spector
-  - Bernard Purdie
-  - Bo Diddley
-  - David Johansen
-  - Odetta
-  - Marie Knight
-  - Sleepy LaBeef
-  - Eddy Clearwater
-  - Big Jay McNeely
-  - Tracy Nelson
-  - Gladys Knight
-  - Levon Helm
-  - Darlene Love
-  - Ruth Brown
-  - Lou Rawls
-  - Pam Tillis
-  - Chuck Berry
-  - Mark Sameth
-  - Woody Mann
-  - Chris Eminizer
+    - Popa Chubby
+    - Ronnie Spector
+    - Bernard Purdie
+    - Bo Diddley
+    - David Johansen
+    - Odetta
+    - Marie Knight
+    - Sleepy LaBeef
+    - Eddy Clearwater
+    - Big Jay McNeely
+    - Tracy Nelson
+    - Gladys Knight
+    - Levon Helm
+    - Darlene Love
+    - Ruth Brown
+    - Lou Rawls
+    - Pam Tillis
+    - Chuck Berry
+    - Mark Sameth
+    - Woody Mann
+    - Chris Eminizer
   influenced: []
   mentors:
-  - Ray Charles
-  - Leon Russell
+    - Ray Charles
+    - Leon Russell
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.davekeyes.com/bio
-- https://blues.gr/profiles/blogs/q-a-with-keyboardist-singer-and-songwriter-dave-keyes-veteran-of-
-- https://www.thebash.com/blues-band/dave-keyes
-- https://www.broadjam.com/davekeyes
-- https://jsjbf.org/dave-keyes/
-- https://www.thevillagetrip.com/dave-keyes/
-- https://www.allaboutjazz.com/musicians/dave-keyes/
-- https://www.davekeyes.com
+  - 'https://www.davekeyes.com/bio'
+  - >-
+    https://blues.gr/profiles/blogs/q-a-with-keyboardist-singer-and-songwriter-dave-keyes-veteran-of-
+  - 'https://www.thebash.com/blues-band/dave-keyes'
+  - 'https://www.broadjam.com/davekeyes'
+  - 'https://jsjbf.org/dave-keyes/'
+  - 'https://www.thevillagetrip.com/dave-keyes/'
+  - 'https://www.allaboutjazz.com/musicians/dave-keyes/'
+  - 'https://www.davekeyes.com'
 spotify_data:
   followers: 280
   id: 4ybOBtWItq5MtfW5D3Ofwn
   popularity: 4
-  url: https://open.spotify.com/artist/4ybOBtWItq5MtfW5D3Ofwn
+  url: 'https://open.spotify.com/artist/4ybOBtWItq5MtfW5D3Ofwn'
 status: active
 title: Dave Keyes
+artist_type: person
 ---
 
 ![](dave_keyes.jpg)

@@ -1,16 +1,16 @@
 ---
-title: lee moses
+title: Lee Moses
 wiki_slug: lee-moses
 schema_version: 2
 status: active
-birth_place: Atlanta, Georgia, United States
+birth_place: 'Atlanta, Georgia, United States'
 genres:
-- soul
+  - soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lee_moses.jpg
   caption: lee moses
   background: solo_singer
-  origin: Atlanta, Georgia, United States
+  origin: 'Atlanta, Georgia, United States'
 audio_profile:
   tempo_avg: 118.3
   energy_avg: 0.66
@@ -26,47 +26,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Johnny Brantley
-  - Jimi Hendrix
-  - The Ohio Players
-  - Hermon Hitson
-  - The Deciples
+    - Johnny Brantley
+    - Jimi Hendrix
+    - The Ohio Players
+    - Hermon Hitson
+    - The Deciples
   influenced:
-  - Dan Auerbach (The Black Keys)
+    - Dan Auerbach (The Black Keys)
   mentors:
-  - Otis Redding
+    - Otis Redding
 spotify_data:
   followers: 34657
   id: 073AjXFaMayG50bDyAopud
   popularity: 31
-  url: https://open.spotify.com/artist/073AjXFaMayG50bDyAopud
+  url: 'https://open.spotify.com/artist/073AjXFaMayG50bDyAopud'
 discography_enriched: true
 top_tracks:
-- Bad Girl (Pt. 1) (Bad Girl (Pt. 1))
-- Hey Joe (Hendrix in Jazz)
-- Bad Girl Pt. 1 (Bad Girl)
-- California Dreaming (Time and Place (Digitally Remastered))
-- Time and Place (Time and Place (Digitally Remastered))
-- Bad Girl (Pt. 2) (Bad Girl (Pt. 1))
-- Bad Girl Pt. 2 (Bad Girl)
-- Adorable One (Time and Place (Digitally Remastered))
-- Hey Joe (Time and Place (Digitally Remastered))
-- Bad Girl, Pt. 1 (How Much Longer Must I Wait? (Singles & Rarities 1965-1972))
+  - Bad Girl (Pt. 1) (Bad Girl (Pt. 1))
+  - Hey Joe (Hendrix in Jazz)
+  - Bad Girl Pt. 1 (Bad Girl)
+  - California Dreaming (Time and Place (Digitally Remastered))
+  - Time and Place (Time and Place (Digitally Remastered))
+  - Bad Girl (Pt. 2) (Bad Girl (Pt. 1))
+  - Bad Girl Pt. 2 (Bad Girl)
+  - Adorable One (Time and Place (Digitally Remastered))
+  - Hey Joe (Time and Place (Digitally Remastered))
+  - >-
+    Bad Girl, Pt. 1 (How Much Longer Must I Wait? (Singles & Rarities
+    1965-1972))
 external_urls:
-  spotify: https://open.spotify.com/artist/073AjXFaMayG50bDyAopud
-  wikipedia: https://en.wikipedia.org/wiki/Lee_Moses
+  spotify: 'https://open.spotify.com/artist/073AjXFaMayG50bDyAopud'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lee_Moses'
 image_path: 03_Resources/source_material/ArtistPortraits/lee_moses.jpg
 biography_enhanced_at: '2025-11-06T13:29:45.150817'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://lightintheattic.net/collections/lee-moses
-- https://werewolf.co.nz/2013/03/the-complicatist-lee-moses-and-friends/
-- https://music.apple.com/gh/artist/lee-moses/211868802
-- https://jivetimerecords.com/2023/10/lee-moses-time-and-place-maple-1971/
+  - 'https://lightintheattic.net/collections/lee-moses'
+  - 'https://werewolf.co.nz/2013/03/the-complicatist-lee-moses-and-friends/'
+  - 'https://music.apple.com/gh/artist/lee-moses/211868802'
+  - 'https://jivetimerecords.com/2023/10/lee-moses-time-and-place-maple-1971/'
 network_extracted: true
 entry_created: '2025-11-06T13:29:45.150859'
 last_updated: '2025-12-23T08:16:11.714426'
+birth_date: '1941'
+artist_type: person
 ---
 
 ![](lee_moses.jpg)

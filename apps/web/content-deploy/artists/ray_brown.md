@@ -5,136 +5,136 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1926-10-13'
-birth_place: Pittsburgh
+birth_place: 'Pittsburgh, Pennsylvania, United States'
 death_date: '2002-07-02'
 genres:
-- jazz
-- cool jazz
-- bebop
-- hard bop
+  - jazz
+  - cool jazz
+  - bebop
+  - hard bop
 instruments:
-- double bass
-- bass
-- acoustic bass guitar
-- bass guitar
-- spoken vocals
-associated_acts:
-- begin: '1951'
-  end: '1965'
-  instruments:
   - double bass
-  mbid: b083ec9b-27e0-4fda-801d-cb40861a0578
-  name: The Oscar Peterson Trio
-- begin: ''
-  end: ''
-  instruments:
-  - double bass
-  mbid: a8cde19d-bd55-4be7-ba34-64049d121587
-  name: The Ray Brown Trio
-- begin: ''
-  end: ''
-  instruments:
-  - double bass
-  mbid: 8ed70e29-e4a1-4382-a00f-ee41b1bf9186
-  name: LA4
-- begin: ''
-  end: ''
-  instruments:
-  - double bass
-  mbid: 7501bb25-4aa7-42bc-ad76-70aca6051338
-  name: The Ray Brown Big Band
-- begin: ''
-  end: ''
-  instruments:
-  - double bass
-  mbid: 98735b08-414c-48f5-b2d5-d169ceedd2e8
-  name: Bud Powell Trio
-- begin: ''
-  end: ''
-  instruments:
-  - double bass
-  mbid: d845e4bd-7555-4179-8522-db616cca103a
-  name: The Oscar Peterson Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - double bass
-  mbid: 60da301a-ad75-45be-9140-b3c4a91e47b2
-  name: Flip Phillips and His Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - double bass
-  mbid: 8ee4f465-4546-4669-a942-f6a56171ef48
-  name: Flip Phillips Sextet
-- begin: ''
-  end: ''
-  instruments:
-  - double bass
-  mbid: 4600ed0a-0e9e-4219-9132-9789c047fce7
-  name: The Flip Phillips Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - double bass
-  mbid: e495811a-f10c-4596-8b5e-7c0f3fc6f5db
-  name: Dizzy Gillespie Jazzmen
-- begin: ''
-  end: ''
-  instruments:
-  - double bass
-  mbid: a22f4b0e-99f8-4862-88c2-f0186a8dd3eb
-  name: The Poll Winners
-- begin: ''
-  end: ''
-  instruments:
-  - double bass
-  mbid: 27987765-e687-4cd6-9c27-c8bc74798945
-  name: The Gene Harris / Scott Hamilton Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - double bass
-  mbid: 8f453a6b-83da-4b3f-aac6-1107efc81ad4
-  name: The Trumpets of Roy Eldridge, Dizzy Gillespie and Harry Edison
-- begin: ''
-  end: ''
-  instruments:
-  - double bass
-  mbid: f7c9a577-a035-40e3-a8d0-696174f48c45
-  name: Tempo Jazz Men
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3e835c70-a8de-4a1b-9e1f-15161bdc457c
-  name: Charlie Parker Big Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3cadd26d-2a6d-4cd2-b745-0653b1455925
-  name: The Buddy Rich Trio
-- begin: ''
-  end: ''
-  instruments:
   - bass
-  mbid: 9a65bf27-a0fd-4366-9be0-a87b367cbb58
-  name: Dizzy Gillespie Jam
-- begin: ''
-  end: ''
-  instruments:
-  - double bass
-  mbid: 14574e88-10a2-49ba-876b-144fd0f0a32d
-  name: The Count Basie Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 88e6155d-8fab-4077-8441-f8f030a48e8c
-  name: Joyce Collins Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 94124d94-aded-4aa0-89aa-2709b1a9f02b
-  name: Dizzy Gillespie’s Rebop Six
+  - acoustic bass guitar
+  - bass guitar
+  - spoken vocals
+associated_acts:
+  - begin: '1951'
+    end: '1965'
+    instruments:
+      - double bass
+    mbid: b083ec9b-27e0-4fda-801d-cb40861a0578
+    name: The Oscar Peterson Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - double bass
+    mbid: a8cde19d-bd55-4be7-ba34-64049d121587
+    name: The Ray Brown Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - double bass
+    mbid: 8ed70e29-e4a1-4382-a00f-ee41b1bf9186
+    name: LA4
+  - begin: ''
+    end: ''
+    instruments:
+      - double bass
+    mbid: 7501bb25-4aa7-42bc-ad76-70aca6051338
+    name: The Ray Brown Big Band
+  - begin: ''
+    end: ''
+    instruments:
+      - double bass
+    mbid: 98735b08-414c-48f5-b2d5-d169ceedd2e8
+    name: Bud Powell Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - double bass
+    mbid: d845e4bd-7555-4179-8522-db616cca103a
+    name: The Oscar Peterson Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - double bass
+    mbid: 60da301a-ad75-45be-9140-b3c4a91e47b2
+    name: Flip Phillips and His Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - double bass
+    mbid: 8ee4f465-4546-4669-a942-f6a56171ef48
+    name: Flip Phillips Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - double bass
+    mbid: 4600ed0a-0e9e-4219-9132-9789c047fce7
+    name: The Flip Phillips Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - double bass
+    mbid: e495811a-f10c-4596-8b5e-7c0f3fc6f5db
+    name: Dizzy Gillespie Jazzmen
+  - begin: ''
+    end: ''
+    instruments:
+      - double bass
+    mbid: a22f4b0e-99f8-4862-88c2-f0186a8dd3eb
+    name: The Poll Winners
+  - begin: ''
+    end: ''
+    instruments:
+      - double bass
+    mbid: 27987765-e687-4cd6-9c27-c8bc74798945
+    name: The Gene Harris / Scott Hamilton Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - double bass
+    mbid: 8f453a6b-83da-4b3f-aac6-1107efc81ad4
+    name: 'The Trumpets of Roy Eldridge, Dizzy Gillespie and Harry Edison'
+  - begin: ''
+    end: ''
+    instruments:
+      - double bass
+    mbid: f7c9a577-a035-40e3-a8d0-696174f48c45
+    name: Tempo Jazz Men
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3e835c70-a8de-4a1b-9e1f-15161bdc457c
+    name: Charlie Parker Big Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3cadd26d-2a6d-4cd2-b745-0653b1455925
+    name: The Buddy Rich Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - bass
+    mbid: 9a65bf27-a0fd-4366-9be0-a87b367cbb58
+    name: Dizzy Gillespie Jam
+  - begin: ''
+    end: ''
+    instruments:
+      - double bass
+    mbid: 14574e88-10a2-49ba-876b-144fd0f0a32d
+    name: The Count Basie Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 88e6155d-8fab-4077-8441-f8f030a48e8c
+    name: Joyce Collins Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 94124d94-aded-4aa0-89aa-2709b1a9f02b
+    name: Dizzy Gillespie’s Rebop Six
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ray_brown.jpg
   caption: Ray Brown
@@ -149,7 +149,7 @@ audio_profile:
   danceability_avg: 0.531
   acousticness_avg: 0.803
   instrumentalness_avg: 0.502
-  loudness_avg: -21.0
+  loudness_avg: -21
   speechiness_avg: 0.053
   liveness_avg: 0.137
   track_count: 61
@@ -157,56 +157,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Oscar Peterson
-  - Ella Fitzgerald
-  - Modern Jazz Quartet (early Milt Jackson Quartet)
-  - Laurindo Almeida, Bud Shank, Shelly Manne/Jeff Hamilton (The L.A. Four)
-  - Gene Harris
-  - Frank Sinatra
-  - Steely Dan
+    - Oscar Peterson
+    - Ella Fitzgerald
+    - Modern Jazz Quartet (early Milt Jackson Quartet)
+    - 'Laurindo Almeida, Bud Shank, Shelly Manne/Jeff Hamilton (The L.A. Four)'
+    - Gene Harris
+    - Frank Sinatra
+    - Steely Dan
   influenced:
-  - Ron Carter
-  - Diana Krall
-  - Modern jazz bassists (e.g., generations after 1950s)
+    - Ron Carter
+    - Diana Krall
+    - 'Modern jazz bassists (e.g., generations after 1950s)'
   mentors:
-  - Dizzy Gillespie
-  - Art Tatum
-  - Norman Granz
+    - Dizzy Gillespie
+    - Art Tatum
+    - Norman Granz
 spotify_data:
   followers: 29784
   id: 0SvD7DL5CQTbcrMtns1US8
   popularity: 39
-  url: https://open.spotify.com/artist/0SvD7DL5CQTbcrMtns1US8
+  url: 'https://open.spotify.com/artist/0SvD7DL5CQTbcrMtns1US8'
 discography_enriched: true
 top_tracks:
-- Dany Boy (For Betty)
-- Custard Puff (The Poll Winners Ride Again!)
-- A Foggy Day (Kessel Plays Standards)
-- When Your Lover Has Gone (Milestones of a Jazz Legend - Ben Webster, Vol. 2 (1957, 1959))
-- Girl Talk (For Betty)
-- Custard Puff (The Poll Winners Ride Again!)
-- 'It Never Entered My Mind: Higher and Higher: It Never Entered My Mind (from "Higher & Higher") (Milestones of a Jazz Legend
-  - Ben Webster, Vol. 4 (1957, 1959))'
-- Upstairs Blues (This Is Ray Brown)
-- On Green Dolphin Street (The Poll Winners)
-- Jordu (The Poll Winners)
+  - Dany Boy (For Betty)
+  - Custard Puff (The Poll Winners Ride Again!)
+  - A Foggy Day (Kessel Plays Standards)
+  - >-
+    When Your Lover Has Gone (Milestones of a Jazz Legend - Ben Webster, Vol. 2
+    (1957, 1959))
+  - Girl Talk (For Betty)
+  - Custard Puff (The Poll Winners Ride Again!)
+  - >-
+    It Never Entered My Mind: Higher and Higher: It Never Entered My Mind (from
+    "Higher & Higher") (Milestones of a Jazz Legend - Ben Webster, Vol. 4 (1957,
+    1959))
+  - Upstairs Blues (This Is Ray Brown)
+  - On Green Dolphin Street (The Poll Winners)
+  - Jordu (The Poll Winners)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d8a1a9e8-295d-4999-9c70-0a4c8bdb36e8
-  spotify: https://open.spotify.com/artist/0SvD7DL5CQTbcrMtns1US8
-  wikipedia: https://en.wikipedia.org/wiki/Ray_Brown_(musician)
+  musicbrainz: 'https://musicbrainz.org/artist/d8a1a9e8-295d-4999-9c70-0a4c8bdb36e8'
+  spotify: 'https://open.spotify.com/artist/0SvD7DL5CQTbcrMtns1US8'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ray_Brown_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/ray_brown.jpg
 biography_enhanced_at: '2025-12-08T04:19:30.978776'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://aaregistry.org/story/ray-brown-bass-player-extraordinaire/
-- https://en.wikipedia.org/wiki/Ray_Brown_(musician)
-- https://concord.com/artist/ray-brown/
-- https://www.britannica.com/biography/Ray-Brown
-- https://www.popmatters.com/ray-brown-jay-sweet-biography
-- https://www.arts.gov/honors/jazz/ray-brown
-- https://www.ijc.uidaho.edu/brown_ray/about.html
-- https://jsjbf.org/ray-brown-his-life-and-music-by-jay-sweet/
+  - 'https://aaregistry.org/story/ray-brown-bass-player-extraordinaire/'
+  - 'https://en.wikipedia.org/wiki/Ray_Brown_(musician)'
+  - 'https://concord.com/artist/ray-brown/'
+  - 'https://www.britannica.com/biography/Ray-Brown'
+  - 'https://www.popmatters.com/ray-brown-jay-sweet-biography'
+  - 'https://www.arts.gov/honors/jazz/ray-brown'
+  - 'https://www.ijc.uidaho.edu/brown_ray/about.html'
+  - 'https://jsjbf.org/ray-brown-his-life-and-music-by-jay-sweet/'
 network_extracted: true
 entry_created: '2025-12-08T04:19:30.978781'
 last_updated: '2025-12-23T08:16:14.672545'
@@ -214,9 +218,10 @@ disambiguation: jazz bassist
 gender: Male
 musicbrainz_id: d8a1a9e8-295d-4999-9c70-0a4c8bdb36e8
 tags:
-- bebop
-- cool jazz
-- hard bop
+  - bebop
+  - cool jazz
+  - hard bop
+is_active: false
 ---
 
 ![](ray_brown.jpg)

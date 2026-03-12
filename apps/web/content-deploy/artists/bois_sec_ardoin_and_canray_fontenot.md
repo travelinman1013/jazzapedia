@@ -3,40 +3,45 @@ biography_enhanced_at: '2025-12-29T01:14:44.020183'
 enhancement_provider: perplexity
 entry_created: '2025-12-29T01:14:44.020200'
 external_urls:
-  spotify: https://open.spotify.com/artist/3E5oMdtySF0qWhMn4ea1It
-  wikipedia: https://en.wikipedia.org/wiki/Canray_Fontenot
+  spotify: 'https://open.spotify.com/artist/3E5oMdtySF0qWhMn4ea1It'
+  wikipedia: 'https://en.wikipedia.org/wiki/Canray_Fontenot'
 genres:
-- avant-garde
-image_path: 03_Resources/source_material/ArtistPortraits/bois_sec_ardoin_and_canray_fontenot.jpg
+  - avant-garde
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/bois_sec_ardoin_and_canray_fontenot.jpg
 last_updated: '2025-12-29T01:14:44.020201'
 musical_connections:
   collaborators:
-  - Alphonse 'Bois Sec' Ardoin
-  - George Lenard
-  - Paul Frank
-  - George Linnis
+    - Alphonse 'Bois Sec' Ardoin
+    - George Lenard
+    - Paul Frank
+    - George Linnis
   influenced:
-  - Michael Doucet
+    - Michael Doucet
   mentors:
-  - Adam Fontenot
-  - Amédé Ardoin
-  - Douglas Belair
+    - Adam Fontenot
+    - Amédé Ardoin
+    - Douglas Belair
 network_extracted: true
-origin: L'Anse aux Vaches/Duralde near Basile, Louisiana, USA
+origin: 'L''Anse aux Vaches/Duralde near Basile, Louisiana, USA'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Canray_Fontenot
-- https://64parishes.org/entry/bois-sec-ardoin
-- https://www.arts.gov/honors/heritage/canray-fontenot
-- https://www.cigarboxguitars.com/post/cajun-legend-canray-fontenot-his-cigar-box-fiddle
-- https://www.folkstreams.net/contexts/bois-sec-and-canray
+  - 'https://en.wikipedia.org/wiki/Canray_Fontenot'
+  - 'https://64parishes.org/entry/bois-sec-ardoin'
+  - 'https://www.arts.gov/honors/heritage/canray-fontenot'
+  - >-
+    https://www.cigarboxguitars.com/post/cajun-legend-canray-fontenot-his-cigar-box-fiddle
+  - 'https://www.folkstreams.net/contexts/bois-sec-and-canray'
 spotify_data:
   followers: 149
   id: 3E5oMdtySF0qWhMn4ea1It
   popularity: 8
-  url: https://open.spotify.com/artist/3E5oMdtySF0qWhMn4ea1It
+  url: 'https://open.spotify.com/artist/3E5oMdtySF0qWhMn4ea1It'
 status: active
 title: Bois Sec Ardoin & Canray Fontenot
+birth_place: 'L''Anse aux Vaches near Basile, Louisiana, United States'
+birth_date: '1922-10-16'
+artist_type: person
 ---
 
 ![](bois_sec_ardoin_and_canray_fontenot.jpg)

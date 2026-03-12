@@ -1,117 +1,117 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-19T01:11:25.717456'
 birth_date: '1964'
 disambiguation: American rock band
 enhancement_provider: perplexity
 entry_created: '2026-01-19T01:11:25.717462'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2819834e-4e08-47b0-a2c4-b7672318e8f0
-  spotify: https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc
+  musicbrainz: 'https://musicbrainz.org/artist/2819834e-4e08-47b0-a2c4-b7672318e8f0'
+  spotify: 'https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc'
   wikipedia: Not provided in search results
 genres:
-- folk rock
-- country rock
-- psychedelic rock
-- acid rock
+  - folk rock
+  - country rock
+  - psychedelic rock
+  - acid rock
 image_path: 03_Resources/source_material/ArtistPortraits/the_byrds.jpg
 last_updated: '2026-01-19T01:11:25.717463'
 members:
-- begin: '1964'
-  end: '1967'
-  instruments: []
-  mbid: e90f9815-221d-4e10-8675-e75c07988113
-  name: David Crosby
-- begin: '1964'
-  end: '1968'
-  instruments: []
-  mbid: 8b73ef32-b2b4-4730-b35f-6722944ceb03
-  name: Michael Clarke
-- begin: '1965'
-  end: 1968-09
-  instruments: []
-  mbid: 068e411c-fa59-49b6-b3cb-6cd090812dcc
-  name: Chris Hillman
-- begin: 1967-12
-  end: 1968-06
-  instruments: []
-  mbid: cbc83fb1-2c23-4ad1-9187-594b30da3f21
-  name: Gram Parsons
-- begin: '1968'
-  end: '1968'
-  instruments: []
-  mbid: ed7f4681-f803-4365-8e84-ed5329546469
-  name: Kevin Kelley
-- begin: '1968'
-  end: '1969'
-  instruments: []
-  mbid: d84954fe-164a-477a-aed0-9e9606d341f4
-  name: John York
-- begin: '1968'
-  end: '1972'
-  instruments: []
-  mbid: 7b9660a2-f338-41c3-b805-b80cfb914cdd
-  name: Gene Parsons
-- begin: '1968'
-  end: '1973'
-  instruments: []
-  mbid: 88970b96-d093-4ab8-b194-c91479b4387e
-  name: Clarence White
-- begin: '1972'
-  end: '1973'
-  instruments: []
-  mbid: f813b17f-6f17-4e89-aea7-b7cfc6585bd1
-  name: Skip Battin
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2b6f3780-6fb6-42c2-95bb-5e080772e38c
-  name: Gene Clark
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: abe4416d-616c-4e61-a3be-62ac6d1bdc4e
-  name: John Guerin
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6ec7336b-a56a-4b5d-bcec-575d2b8ed4e1
-  name: Roger McGuinn
+  - begin: '1964'
+    end: '1967'
+    instruments: []
+    mbid: e90f9815-221d-4e10-8675-e75c07988113
+    name: David Crosby
+  - begin: '1964'
+    end: '1968'
+    instruments: []
+    mbid: 8b73ef32-b2b4-4730-b35f-6722944ceb03
+    name: Michael Clarke
+  - begin: '1965'
+    end: 1968-09
+    instruments: []
+    mbid: 068e411c-fa59-49b6-b3cb-6cd090812dcc
+    name: Chris Hillman
+  - begin: 1967-12
+    end: 1968-06
+    instruments: []
+    mbid: cbc83fb1-2c23-4ad1-9187-594b30da3f21
+    name: Gram Parsons
+  - begin: '1968'
+    end: '1968'
+    instruments: []
+    mbid: ed7f4681-f803-4365-8e84-ed5329546469
+    name: Kevin Kelley
+  - begin: '1968'
+    end: '1969'
+    instruments: []
+    mbid: d84954fe-164a-477a-aed0-9e9606d341f4
+    name: John York
+  - begin: '1968'
+    end: '1972'
+    instruments: []
+    mbid: 7b9660a2-f338-41c3-b805-b80cfb914cdd
+    name: Gene Parsons
+  - begin: '1968'
+    end: '1973'
+    instruments: []
+    mbid: 88970b96-d093-4ab8-b194-c91479b4387e
+    name: Clarence White
+  - begin: '1972'
+    end: '1973'
+    instruments: []
+    mbid: f813b17f-6f17-4e89-aea7-b7cfc6585bd1
+    name: Skip Battin
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2b6f3780-6fb6-42c2-95bb-5e080772e38c
+    name: Gene Clark
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: abe4416d-616c-4e61-a3be-62ac6d1bdc4e
+    name: John Guerin
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6ec7336b-a56a-4b5d-bcec-575d2b8ed4e1
+    name: Roger McGuinn
 musical_connections:
   collaborators:
-  - Roger McGuinn
-  - Gene Clark
-  - David Crosby
-  - Chris Hillman
-  - Michael Clarke
-  - Gram Parsons
-  - Clarence White
+    - Roger McGuinn
+    - Gene Clark
+    - David Crosby
+    - Chris Hillman
+    - Michael Clarke
+    - Gram Parsons
+    - Clarence White
   influenced:
-  - Crosby, Stills and Nash
-  - The Flying Burrito Brothers
-  - Country-rock genre
+    - 'Crosby, Stills and Nash'
+    - The Flying Burrito Brothers
+    - Country-rock genre
   mentors:
-  - Bob Dylan
-  - The Beatles
-  - Miles Davis
+    - Bob Dylan
+    - The Beatles
+    - Miles Davis
 musicbrainz_id: 2819834e-4e08-47b0-a2c4-b7672318e8f0
 network_extracted: true
-origin: Los Angeles
+origin: 'Los Angeles, California, United States'
 primary_source: perplexity
 research_sources:
-- https://www.classicbands.com/byrds.html
-- https://www.britannica.com/topic/the-Byrds
-- https://teachrock.org/people/byrds/
+  - 'https://www.classicbands.com/byrds.html'
+  - 'https://www.britannica.com/topic/the-Byrds'
+  - 'https://teachrock.org/people/byrds/'
 spotify_data:
   followers: 1082128
   id: 1PCZpxHJz7WAMF8EEq8bfc
   popularity: 54
-  url: https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc
+  url: 'https://open.spotify.com/artist/1PCZpxHJz7WAMF8EEq8bfc'
 status: active
 tags:
-- album rock
-- beatlesque
-- classic rock
+  - album rock
+  - beatlesque
+  - classic rock
 title: The Byrds
 ---
 

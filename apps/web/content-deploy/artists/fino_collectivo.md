@@ -4,7 +4,7 @@ wiki_slug: fino-collectivo
 schema_version: 2
 status: active
 genres:
-- nova mpb
+  - nova mpb
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/fino_collectivo.jpg
   caption: Fino Collectivo
@@ -24,45 +24,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Adriano Siri
-  - Alvinho Cabral
-  - Alvaro Lancellotti
-  - Daniel Medeiros
-  - Rodrigo Scofield
-  - Donatinho
+    - Adriano Siri
+    - Alvinho Cabral
+    - Alvaro Lancellotti
+    - Daniel Medeiros
+    - Rodrigo Scofield
+    - Donatinho
   influenced: []
   mentors:
-  - Wado
+    - Wado
 spotify_data:
   followers: 56763
   id: 4w4OsEmXP5ogC0U7CLnOrH
   popularity: 38
-  url: https://open.spotify.com/artist/4w4OsEmXP5ogC0U7CLnOrH
+  url: 'https://open.spotify.com/artist/4w4OsEmXP5ogC0U7CLnOrH'
 discography_enriched: true
 top_tracks:
-- Floreando (Massagueira)
-- Boa Hora (Fino Coletivo)
-- Minha Menina Bonita (Copacabana)
-- Partiu Partindo (Fino Coletivo)
-- Meu Carinho, Meu Calor (Massagueira)
-- Cantiga de Pedro (Brazilian Party by Putumayo)
-- Fidelidade (Copacabana)
-- Ai de Mim (Copacabana)
-- Tarja Preta / Fafá (Fino Coletivo)
-- Dragão (Fino Coletivo)
+  - Floreando (Massagueira)
+  - Boa Hora (Fino Coletivo)
+  - Minha Menina Bonita (Copacabana)
+  - Partiu Partindo (Fino Coletivo)
+  - 'Meu Carinho, Meu Calor (Massagueira)'
+  - Cantiga de Pedro (Brazilian Party by Putumayo)
+  - Fidelidade (Copacabana)
+  - Ai de Mim (Copacabana)
+  - Tarja Preta / Fafá (Fino Coletivo)
+  - Dragão (Fino Coletivo)
 external_urls:
-  spotify: https://open.spotify.com/artist/4w4OsEmXP5ogC0U7CLnOrH
-  wikipedia: https://pt.wikipedia.org/wiki/Fino_Coletivo
+  spotify: 'https://open.spotify.com/artist/4w4OsEmXP5ogC0U7CLnOrH'
+  wikipedia: 'https://pt.wikipedia.org/wiki/Fino_Coletivo'
 image_path: 03_Resources/source_material/ArtistPortraits/fino_collectivo.jpg
 biography_enhanced_at: '2025-11-10T03:35:36.989842'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://pt.wikipedia.org/wiki/Fino_Coletivo
+  - 'https://pt.wikipedia.org/wiki/Fino_Coletivo'
 network_extracted: true
 entry_created: '2025-11-10T03:35:36.989858'
 last_updated: '2025-12-23T08:16:08.648193'
-origin: Rio de Janeiro, Rio de Janeiro, Brazil
+origin: 'Rio de Janeiro, Rio de Janeiro, Brazil'
+artist_type: band
 ---
 
 ![](fino_collectivo.jpg)

@@ -2,15 +2,15 @@
 title: Black Uhuru
 wiki_slug: black-uhuru
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1972'
 genres:
-- reggae
-- roots reggae
-- dub
-- ragga
-- rocksteady
+  - reggae
+  - roots reggae
+  - dub
+  - ragga
+  - rocksteady
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/black_uhuru.jpg
   caption: Black Uhuru
@@ -31,113 +31,113 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sly Dunbar and Robbie Shakespeare
-  - Michael Rose
-  - Puma Jones
-  - Don Carlos
-  - Garth Dennis
+    - Sly Dunbar and Robbie Shakespeare
+    - Michael Rose
+    - Puma Jones
+    - Don Carlos
+    - Garth Dennis
   influenced:
-  - Steel Pulse
-  - Alpha Blondy
-  - Third World
+    - Steel Pulse
+    - Alpha Blondy
+    - Third World
   mentors:
-  - Winston 'Pipe' Matthews and Lloyd 'Bread' McDonald (Wailing Souls)
-  - Bob Marley
+    - Winston 'Pipe' Matthews and Lloyd 'Bread' McDonald (Wailing Souls)
+    - Bob Marley
 spotify_data:
   followers: 419775
   id: 5keeQyPKYRxUCKDMECTXG3
   popularity: 43
-  url: https://open.spotify.com/artist/5keeQyPKYRxUCKDMECTXG3
+  url: 'https://open.spotify.com/artist/5keeQyPKYRxUCKDMECTXG3'
 discography_enriched: true
 top_tracks:
-- Sinsemilla (Sinsemilla)
-- Guess Who's Coming To Dinner (Guess Who's Coming To Dinner)
-- Shine Eye Gal (Guess Who's Coming To Dinner)
-- Sponji Reggae (Red)
-- Sinsemilla (Sinsemilla)
-- Guess Who's Coming To Dinner
-- Puff She Puff (Red)
-- I Love King Selassie (Black Sounds Of Freedom (Extended Version))
-- Sponji Reggae (Red)
-- Dub You Haffe Dub (Brutal)
+  - Sinsemilla (Sinsemilla)
+  - Guess Who's Coming To Dinner (Guess Who's Coming To Dinner)
+  - Shine Eye Gal (Guess Who's Coming To Dinner)
+  - Sponji Reggae (Red)
+  - Sinsemilla (Sinsemilla)
+  - Guess Who's Coming To Dinner
+  - Puff She Puff (Red)
+  - I Love King Selassie (Black Sounds Of Freedom (Extended Version))
+  - Sponji Reggae (Red)
+  - Dub You Haffe Dub (Brutal)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8ee00333-ec2c-439b-a619-ae160aca2a15
-  spotify: https://open.spotify.com/artist/5keeQyPKYRxUCKDMECTXG3
-  wikipedia: https://en.wikipedia.org/wiki/Black_Uhuru
+  musicbrainz: 'https://musicbrainz.org/artist/8ee00333-ec2c-439b-a619-ae160aca2a15'
+  spotify: 'https://open.spotify.com/artist/5keeQyPKYRxUCKDMECTXG3'
+  wikipedia: 'https://en.wikipedia.org/wiki/Black_Uhuru'
 image_path: 03_Resources/source_material/ArtistPortraits/black_uhuru.jpg
 biography_enhanced_at: '2025-10-27T02:48:35.675786'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://blackuhuruofficial.com/about
-- https://en.wikipedia.org/wiki/Black_Uhuru
-- https://www.reggaeville.com/artist-details/black-uhuru/about/
-- https://www.uvm.edu/~debate/dreadlibrary/farah.html
+  - 'https://blackuhuruofficial.com/about'
+  - 'https://en.wikipedia.org/wiki/Black_Uhuru'
+  - 'https://www.reggaeville.com/artist-details/black-uhuru/about/'
+  - 'https://www.uvm.edu/~debate/dreadlibrary/farah.html'
 network_extracted: true
 entry_created: '2025-10-27T02:48:35.675801'
 last_updated: '2025-12-23T08:16:05.691604'
 members:
-- begin: '1977'
-  end: '1978'
-  instruments: []
-  mbid: 2654bc57-c450-42fa-8b5b-d04b13fe76a8
-  name: Errol "Tarzan" Nelson
-- begin: '1978'
-  end: '1987'
-  instruments: []
-  mbid: 0f5e9dc7-9e34-4613-9f24-c28da0d4fbcd
-  name: Sandra “Puma” Jones
-- begin: '1985'
-  end: '1987'
-  instruments: []
-  mbid: 065324d1-12c2-485f-955d-9eef408f92a6
-  name: Junior Reid
-- begin: '1987'
-  end: '1994'
-  instruments: []
-  mbid: a80ff520-a853-4d7b-a5fe-77011689ec77
-  name: Don Carlos
-- begin: '1987'
-  end: '1994'
-  instruments: []
-  mbid: 7b146dd1-30cb-48f8-a9df-78fc6e445d33
-  name: Garth Dennis
-- begin: '1988'
-  end: '1989'
-  instruments: []
-  mbid: 13c46a31-57bb-429c-a3a2-e53c2da9502b
-  name: Andrew Bees
-- begin: ''
-  end: '1977'
-  instruments: []
-  mbid: a80ff520-a853-4d7b-a5fe-77011689ec77
-  name: Don Carlos
-- begin: ''
-  end: '1977'
-  instruments: []
-  mbid: 7b146dd1-30cb-48f8-a9df-78fc6e445d33
-  name: Garth Dennis
-- begin: ''
-  end: '1985'
-  instruments: []
-  mbid: ab336570-9bd8-47d5-8540-236f230377ee
-  name: Michael Rose
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5778686f-987d-475f-8ca5-a9984999c565
-  name: Derek “Duckie” Simpson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1ea888e8-3406-41b7-a516-5e743540a442
-  name: Lowell “Sly” Dunbar
+  - begin: '1977'
+    end: '1978'
+    instruments: []
+    mbid: 2654bc57-c450-42fa-8b5b-d04b13fe76a8
+    name: Errol "Tarzan" Nelson
+  - begin: '1978'
+    end: '1987'
+    instruments: []
+    mbid: 0f5e9dc7-9e34-4613-9f24-c28da0d4fbcd
+    name: Sandra “Puma” Jones
+  - begin: '1985'
+    end: '1987'
+    instruments: []
+    mbid: 065324d1-12c2-485f-955d-9eef408f92a6
+    name: Junior Reid
+  - begin: '1987'
+    end: '1994'
+    instruments: []
+    mbid: a80ff520-a853-4d7b-a5fe-77011689ec77
+    name: Don Carlos
+  - begin: '1987'
+    end: '1994'
+    instruments: []
+    mbid: 7b146dd1-30cb-48f8-a9df-78fc6e445d33
+    name: Garth Dennis
+  - begin: '1988'
+    end: '1989'
+    instruments: []
+    mbid: 13c46a31-57bb-429c-a3a2-e53c2da9502b
+    name: Andrew Bees
+  - begin: ''
+    end: '1977'
+    instruments: []
+    mbid: a80ff520-a853-4d7b-a5fe-77011689ec77
+    name: Don Carlos
+  - begin: ''
+    end: '1977'
+    instruments: []
+    mbid: 7b146dd1-30cb-48f8-a9df-78fc6e445d33
+    name: Garth Dennis
+  - begin: ''
+    end: '1985'
+    instruments: []
+    mbid: ab336570-9bd8-47d5-8540-236f230377ee
+    name: Michael Rose
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5778686f-987d-475f-8ca5-a9984999c565
+    name: Derek “Duckie” Simpson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1ea888e8-3406-41b7-a516-5e743540a442
+    name: Lowell “Sly” Dunbar
 musicbrainz_id: 8ee00333-ec2c-439b-a619-ae160aca2a15
-origin: Waterhouse
+origin: 'Kingston, Jamaica, United States'
 tags:
-- dub
-- reggae
-- roots reggae
+  - dub
+  - reggae
+  - roots reggae
 ---
 
 ![](black_uhuru.jpg)

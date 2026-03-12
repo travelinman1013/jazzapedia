@@ -1,5 +1,5 @@
 ---
-title: ed perkins
+title: Ed Perkins
 wiki_slug: ed-perkins
 schema_version: 2
 status: active
@@ -9,12 +9,12 @@ infobox:
   caption: ed perkins
   background: solo_singer
 audio_profile:
-  tempo_avg: 127.0
+  tempo_avg: 127
   energy_avg: 0.431
   valence_avg: 0.493
   danceability_avg: 0.55
   acousticness_avg: 0.536
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -10.8
   speechiness_avg: 0.064
   liveness_avg: 0.17
@@ -29,34 +29,41 @@ spotify_data:
   followers: 9
   id: 0vvtuQOALul9U727ZAFJZK
   popularity: 0
-  url: https://open.spotify.com/artist/0vvtuQOALul9U727ZAFJZK
+  url: 'https://open.spotify.com/artist/0vvtuQOALul9U727ZAFJZK'
 discography_enriched: true
 top_tracks:
-- Fooling Around (The Jazz Percolator)
-- Clean Air (The Jazz Percolator)
-- Everyday I Have the Blues (The Jazz Percolator)
-- You Are Too Beautiful (The Jazz Percolator)
-- I Worry About You (The Jazz Percolator)
-- Easy Credit Love (The Jazz Percolator)
-- Song for My Father (The Jazz Percolator)
-- Route 66 (The Jazz Percolator)
-- My One and Only Love (The Jazz Percolator)
-- The Tree (The Jazz Percolator)
+  - Fooling Around (The Jazz Percolator)
+  - Clean Air (The Jazz Percolator)
+  - Everyday I Have the Blues (The Jazz Percolator)
+  - You Are Too Beautiful (The Jazz Percolator)
+  - I Worry About You (The Jazz Percolator)
+  - Easy Credit Love (The Jazz Percolator)
+  - Song for My Father (The Jazz Percolator)
+  - Route 66 (The Jazz Percolator)
+  - My One and Only Love (The Jazz Percolator)
+  - The Tree (The Jazz Percolator)
 external_urls:
-  spotify: https://open.spotify.com/artist/0vvtuQOALul9U727ZAFJZK
+  spotify: 'https://open.spotify.com/artist/0vvtuQOALul9U727ZAFJZK'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/ed_perkins.jpg
 biography_enhanced_at: '2025-12-16T03:19:45.439039'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- YouTube – AC23+ Artist Legacy Series E02 Ed Perkins (New Orleans jazz vocalist)[1]
-- AllMusic – Ed Perkins artist page (minimal data, no detailed biography)[2]
-- BandMix – Ed Perkins, musician in Maitland, Florida (classic rock / cover musician profile)[3]
-- British Music Collection – Ed Perkins (UK-based contemporary composer profile)[4]
+  - >-
+    YouTube – AC23+ Artist Legacy Series E02 Ed Perkins (New Orleans jazz
+    vocalist)[1]
+  - 'AllMusic – Ed Perkins artist page (minimal data, no detailed biography)[2]'
+  - >-
+    BandMix – Ed Perkins, musician in Maitland, Florida (classic rock / cover
+    musician profile)[3]
+  - >-
+    British Music Collection – Ed Perkins (UK-based contemporary composer
+    profile)[4]
 network_extracted: true
 entry_created: '2025-12-16T03:19:45.439052'
 last_updated: '2025-12-23T08:16:08.134753'
+artist_type: person
 ---
 
 ![](ed_perkins.jpg)

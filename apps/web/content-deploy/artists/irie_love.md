@@ -3,15 +3,15 @@ title: Irie Love
 wiki_slug: irie-love
 schema_version: 2
 status: active
-birth_place: Kailua, Honolulu County, Hawaii, United States
+birth_place: 'Kailua, Honolulu County, Hawaii, United States'
 genres:
-- reggae
-- nz reggae
+  - reggae
+  - nz reggae
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/irie_love.jpg
   caption: Irie Love
   background: solo_singer
-  origin: Kailua, Honolulu County, Hawaii, United States
+  origin: 'Kailua, Honolulu County, Hawaii, United States'
 audio_profile:
   tempo_avg: 126.6
   energy_avg: 0.598
@@ -27,51 +27,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Morgan Heritage
-  - George 'Fiji' Veikoso
-  - Pink
-  - Dave Hollister
-  - Chaka Khan
+    - Morgan Heritage
+    - George 'Fiji' Veikoso
+    - Pink
+    - Dave Hollister
+    - Chaka Khan
   influenced: []
   mentors:
-  - Morgan Heritage
-  - George 'Fiji' Veikoso
-  - Salaam Remi
-  - Lee Francis
-  - John Iervolino
+    - Morgan Heritage
+    - George 'Fiji' Veikoso
+    - Salaam Remi
+    - Lee Francis
+    - John Iervolino
 spotify_data:
   followers: 20365
   id: 74BpfOquem1y8pWMXcEaQn
   popularity: 44
-  url: https://open.spotify.com/artist/74BpfOquem1y8pWMXcEaQn
+  url: 'https://open.spotify.com/artist/74BpfOquem1y8pWMXcEaQn'
 discography_enriched: true
 top_tracks:
-- My Love (This Is Irie Love)
-- It Is Wut It Is (feat. Fiji) (This Is Irie Love)
-- Auright (Born and Raised II (The Rebirth))
-- In Another Life
-- Rooted (To the Sea)
-- Good Love (Remix) (Smart Move Records Presents Irie Love the Singles)
-- Step Up (Smart Move Records Presents Irie Love the Singles)
-- Good Love (Smart Move Records Presents Irie Love the Singles)
-- It Is Wut It Is (Smart Move Records Presents Irie Love the Singles)
-- One On One (Smart Move Records Presents Irie Love the Singles)
+  - My Love (This Is Irie Love)
+  - It Is Wut It Is (feat. Fiji) (This Is Irie Love)
+  - Auright (Born and Raised II (The Rebirth))
+  - In Another Life
+  - Rooted (To the Sea)
+  - Good Love (Remix) (Smart Move Records Presents Irie Love the Singles)
+  - Step Up (Smart Move Records Presents Irie Love the Singles)
+  - Good Love (Smart Move Records Presents Irie Love the Singles)
+  - It Is Wut It Is (Smart Move Records Presents Irie Love the Singles)
+  - One On One (Smart Move Records Presents Irie Love the Singles)
 external_urls:
-  spotify: https://open.spotify.com/artist/74BpfOquem1y8pWMXcEaQn
-  wikipedia: https://en.wikipedia.org/wiki/Irie_Love
+  spotify: 'https://open.spotify.com/artist/74BpfOquem1y8pWMXcEaQn'
+  wikipedia: 'https://en.wikipedia.org/wiki/Irie_Love'
 image_path: 03_Resources/source_material/ArtistPortraits/irie_love.jpg
 biography_enhanced_at: '2025-12-15T01:38:33.457125'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Irie_Love
-- https://www.hawaiipublicradio.org/the-conversation/2022-07-21/local-music-artist-irie-love-shares-why-she-stepped-out-of-the-spotlight-5-years-ago
-- https://kauaifestivals.com/festival/irie-love-and-big-mountain/
-- https://irielove.weebly.com
-- https://www.holoholofestival.com/irie-love/
+  - 'https://en.wikipedia.org/wiki/Irie_Love'
+  - >-
+    https://www.hawaiipublicradio.org/the-conversation/2022-07-21/local-music-artist-irie-love-shares-why-she-stepped-out-of-the-spotlight-5-years-ago
+  - 'https://kauaifestivals.com/festival/irie-love-and-big-mountain/'
+  - 'https://irielove.weebly.com'
+  - 'https://www.holoholofestival.com/irie-love/'
 network_extracted: true
 entry_created: '2025-12-15T01:38:33.457142'
 last_updated: '2025-12-23T08:16:09.884204'
+birth_date: '1982-07-07'
+artist_type: person
 ---
 
 ![](irie_love.jpg)

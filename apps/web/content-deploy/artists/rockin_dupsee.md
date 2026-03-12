@@ -3,15 +3,15 @@ title: Rockin Dupsee
 wiki_slug: rockin-dupsee
 schema_version: 2
 status: active
-birth_place: Carencro, Louisiana, United States
+birth_place: 'Carencro, Louisiana, United States'
 genres:
-- zydeco
-- cajun
+  - zydeco
+  - cajun
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/rockin_dupsee.jpg
   caption: Rockin Dupsee
   background: solo_singer
-  origin: Carencro, Louisiana, United States
+  origin: 'Carencro, Louisiana, United States'
 audio_profile:
   tempo_avg: 128.1
   energy_avg: 0.66
@@ -27,45 +27,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Chester Zeno
-  - John Hart
-  - Paul Simon
+    - Chester Zeno
+    - John Hart
+    - Paul Simon
   influenced:
-  - Rockin' Dopsie Jr. (David Rubin)
+    - Rockin' Dopsie Jr. (David Rubin)
   mentors:
-  - Clifton Chenier
+    - Clifton Chenier
 spotify_data:
   followers: 1824
   id: 4YjUgG9now7U0MB5xR1t6b
   popularity: 3
-  url: https://open.spotify.com/artist/4YjUgG9now7U0MB5xR1t6b
+  url: 'https://open.spotify.com/artist/4YjUgG9now7U0MB5xR1t6b'
 discography_enriched: true
 top_tracks:
-- They All Ask For You (A Zydeco Dance Party)
-- Dopsie's Boogie (Saturday Night Zydeco)
-- Zydeco 'Round The World (A Zydeco Dance Party)
-- The Louisiana Two Step (In New Orleans)
-- Mardi Gras in New Orleans (Cajun and Zydeco Mardi Gras)
-- Ay Tete Fee (In New Orleans)
-- My Baby She's Gone (A Zydeco Dance Party)
-- Sweet Lucy (Saturday Night Zydeco)
-- Shake Rattle & Roll (Saturday Night Zydeco)
-- Foot Stompin' Zydeco (Saturday Night Zydeco)
+  - They All Ask For You (A Zydeco Dance Party)
+  - Dopsie's Boogie (Saturday Night Zydeco)
+  - Zydeco 'Round The World (A Zydeco Dance Party)
+  - The Louisiana Two Step (In New Orleans)
+  - Mardi Gras in New Orleans (Cajun and Zydeco Mardi Gras)
+  - Ay Tete Fee (In New Orleans)
+  - My Baby She's Gone (A Zydeco Dance Party)
+  - Sweet Lucy (Saturday Night Zydeco)
+  - Shake Rattle & Roll (Saturday Night Zydeco)
+  - Foot Stompin' Zydeco (Saturday Night Zydeco)
 external_urls:
-  spotify: https://open.spotify.com/artist/4YjUgG9now7U0MB5xR1t6b
-  wikipedia: https://en.wikipedia.org/wiki/Rockin'_Dopsie
+  spotify: 'https://open.spotify.com/artist/4YjUgG9now7U0MB5xR1t6b'
+  wikipedia: 'https://en.wikipedia.org/wiki/Rockin''_Dopsie'
 image_path: 03_Resources/source_material/ArtistPortraits/rockin_dupsee.jpg
 biography_enhanced_at: '2025-11-17T10:47:28.637733'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Rockin'_Dopsie
-- https://musicrising.tulane.edu/discover/people/rockin-dopsie-sr/
-- https://www.latimes.com/archives/la-xpm-1993-08-28-mn-28654-story.html
-- https://flattownmusic.com/artist/rockin-dopsie/
+  - 'https://en.wikipedia.org/wiki/Rockin''_Dopsie'
+  - 'https://musicrising.tulane.edu/discover/people/rockin-dopsie-sr/'
+  - 'https://www.latimes.com/archives/la-xpm-1993-08-28-mn-28654-story.html'
+  - 'https://flattownmusic.com/artist/rockin-dopsie/'
 network_extracted: true
 entry_created: '2025-11-17T10:47:28.637743'
 last_updated: '2025-12-23T08:16:14.961466'
+birth_date: '1932-02-10'
+artist_type: person
 ---
 
 ![](rockin_dupsee.jpg)

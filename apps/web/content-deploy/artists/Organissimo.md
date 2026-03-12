@@ -2,19 +2,19 @@
 title: Organissimo
 wiki_slug: organissimo
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 genres:
-- jazz funk
-- soul jazz
+  - jazz funk
+  - soul jazz
 instruments:
-- original
-- synthesizer
-- Hammond organ
-- Wurlitzer electric piano
-- electric guitar
-- drums (drum set)
-- harmonica
+  - original
+  - synthesizer
+  - Hammond organ
+  - Wurlitzer electric piano
+  - electric guitar
+  - drums (drum set)
+  - harmonica
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Organissimo.jpg
   caption: Organissimo
@@ -34,62 +34,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Joe Gloss
-  - Larry Barris (Lawrence Barris)
-  - Ralph Tope
-  - Kevin Bujo Jones
-  - Ron Blake
-  - Janiva Magness
-  - D'Angelo
-  - John Mayer
-  - Frank Ocean
-  - Christian McBride
+    - Joe Gloss
+    - Larry Barris (Lawrence Barris)
+    - Ralph Tope
+    - Kevin Bujo Jones
+    - Ron Blake
+    - Janiva Magness
+    - D'Angelo
+    - John Mayer
+    - Frank Ocean
+    - Christian McBride
   influenced: []
   mentors:
-  - Art Blakey
-  - Jim Alfredson's father
-  - George Benson
+    - Art Blakey
+    - Jim Alfredson's father
+    - George Benson
 spotify_data:
   followers: 1742
   id: 2FTCTNz9tuD5GegCIIKJkl
   popularity: 4
-  url: https://open.spotify.com/artist/2FTCTNz9tuD5GegCIIKJkl
+  url: 'https://open.spotify.com/artist/2FTCTNz9tuD5GegCIIKJkl'
 discography_enriched: true
 top_tracks:
-- You Don't Want To Do That (Waiting For The Boogaloo Sisters)
-- Mister Walker (Live) (Live at the Speakez)
-- Up in the Playroom (Dedicated)
-- Never Can Say Goodbye (Dedicated)
-- Groovadelphia (Groovadelphia)
-- Could It Be I'm Falling in Love (Live) (Live at the Speakez)
-- Taxman (B3tles (A Soulful Tribute to the Fab Four))
-- And I Love Her (B3tles (A Soulful Tribute to the Fab Four))
-- All You Need Is Love (B3tles (A Soulful Tribute to the Fab Four))
-- Can't Buy Me Love (B3tles (A Soulful Tribute to the Fab Four))
+  - You Don't Want To Do That (Waiting For The Boogaloo Sisters)
+  - Mister Walker (Live) (Live at the Speakez)
+  - Up in the Playroom (Dedicated)
+  - Never Can Say Goodbye (Dedicated)
+  - Groovadelphia (Groovadelphia)
+  - Could It Be I'm Falling in Love (Live) (Live at the Speakez)
+  - Taxman (B3tles (A Soulful Tribute to the Fab Four))
+  - And I Love Her (B3tles (A Soulful Tribute to the Fab Four))
+  - All You Need Is Love (B3tles (A Soulful Tribute to the Fab Four))
+  - Can't Buy Me Love (B3tles (A Soulful Tribute to the Fab Four))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/236855a4-e613-44a3-9b82-15d9c83a94e3
-  spotify: https://open.spotify.com/artist/2FTCTNz9tuD5GegCIIKJkl
+  musicbrainz: 'https://musicbrainz.org/artist/236855a4-e613-44a3-9b82-15d9c83a94e3'
+  spotify: 'https://open.spotify.com/artist/2FTCTNz9tuD5GegCIIKJkl'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/Organissimo.jpg
 biography_enhanced_at: '2025-10-20T09:14:52.709908'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.thealluvion.org/tickets/the-alluvion-jazz-series-presents-organissimo-25-years-of-jazz-with-soul
-- https://www.organissimo.org/about.htm
-- https://www.allmusic.com/artist/organissimo-mn0000328291
-- https://www.organissimo.org/media.htm
-- http://jimalfredson.com/?cat=6
+  - >-
+    https://www.thealluvion.org/tickets/the-alluvion-jazz-series-presents-organissimo-25-years-of-jazz-with-soul
+  - 'https://www.organissimo.org/about.htm'
+  - 'https://www.allmusic.com/artist/organissimo-mn0000328291'
+  - 'https://www.organissimo.org/media.htm'
+  - 'http://jimalfredson.com/?cat=6'
 network_extracted: true
 entry_created: '2025-10-20T09:14:52.709925'
 last_updated: '2025-12-23T08:16:03.495422'
 disambiguation: US funk-jazz band
 musicbrainz_enriched_at: '2025-10-21T09:40:16.884934'
 musicbrainz_id: 236855a4-e613-44a3-9b82-15d9c83a94e3
-origin: Lansing, Michigan, United States
+origin: 'Lansing, Michigan, United States'
 tags:
-- funk
-- jazz
+  - funk
+  - jazz
 ---
 
 ![](Organissimo.jpg)

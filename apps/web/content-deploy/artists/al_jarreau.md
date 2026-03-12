@@ -5,16 +5,16 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1940-03-12'
-birth_place: Milwaukee
+birth_place: 'Milwaukee, Wisconsin, United States'
 death_date: '2017-02-12'
 genres:
-- smooth jazz
-- vocal jazz
-- jazz
+  - smooth jazz
+  - vocal jazz
+  - jazz
 instruments:
-- other vocals
-- background vocals
-- lead vocals
+  - other vocals
+  - background vocals
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/al_jarreau.jpg
   caption: Al Jarreau
@@ -37,55 +37,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Julio Martinez
-  - Tom Canning
-  - George Benson
+    - Julio Martinez
+    - Tom Canning
+    - George Benson
   influenced: []
   mentors:
-  - George Duke
+    - George Duke
 spotify_data:
   followers: 446422
   id: 3YR92OLKlvkK5oKNekSqXe
   popularity: 55
-  url: https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe
+  url: 'https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe'
 discography_enriched: true
 top_tracks:
-- We're in This Love Together (Breakin' Away)
-- Mornin' (Jarreau)
-- After All (High Crime)
-- We're in This Love Together (Love Songs)
-- Summer Breeze (Givin' It Up)
-- Trouble in Paradise (Jarreau)
-- Boogie Down (Jarreau)
-- Roof Garden (Breakin' Away)
-- Your Song (Glow)
-- Day by Day (feat. Al Jarreau) (City Rhythm)
+  - We're in This Love Together (Breakin' Away)
+  - Mornin' (Jarreau)
+  - After All (High Crime)
+  - We're in This Love Together (Love Songs)
+  - Summer Breeze (Givin' It Up)
+  - Trouble in Paradise (Jarreau)
+  - Boogie Down (Jarreau)
+  - Roof Garden (Breakin' Away)
+  - Your Song (Glow)
+  - Day by Day (feat. Al Jarreau) (City Rhythm)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3e54ba8b-f4cc-4192-9813-890d570e2b7a
-  spotify: https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe
-  wikipedia: https://en.wikipedia.org/wiki/Al_Jarreau
+  musicbrainz: 'https://musicbrainz.org/artist/3e54ba8b-f4cc-4192-9813-890d570e2b7a'
+  spotify: 'https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe'
+  wikipedia: 'https://en.wikipedia.org/wiki/Al_Jarreau'
 image_path: 03_Resources/source_material/ArtistPortraits/al_jarreau.jpg
 biography_enhanced_at: '2025-12-14T01:53:03.266185'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://aaregistry.org/story/al-jarreau-born/
-- https://en.wikipedia.org/wiki/Al_Jarreau
-- https://www.youtube.com/watch?v=KL74ic9y0Dk
-- https://emke.uwm.edu/entry/al-jarreau/
-- https://aljarreau.com/about-al/
-- https://walkoffame.com/al-jarreau/
-- https://www.imdb.com/name/nm0418886/bio/
+  - 'https://aaregistry.org/story/al-jarreau-born/'
+  - 'https://en.wikipedia.org/wiki/Al_Jarreau'
+  - 'https://www.youtube.com/watch?v=KL74ic9y0Dk'
+  - 'https://emke.uwm.edu/entry/al-jarreau/'
+  - 'https://aljarreau.com/about-al/'
+  - 'https://walkoffame.com/al-jarreau/'
+  - 'https://www.imdb.com/name/nm0418886/bio/'
 network_extracted: true
 entry_created: '2025-12-14T01:53:03.266197'
 last_updated: '2025-12-23T08:16:04.458973'
 gender: Male
 musicbrainz_id: 3e54ba8b-f4cc-4192-9813-890d570e2b7a
 tags:
-- 1970s
-- 1980s
-- 2000s
-
+  - 1970s
+  - 1980s
+  - 2000s
+is_active: false
+origin: 'San Francisco, California, United States'
 ---
 
 ![](al_jarreau.jpg)

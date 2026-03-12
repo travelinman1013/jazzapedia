@@ -2,19 +2,19 @@
 title: Bobby Thurston
 wiki_slug: bobby-thurston
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1954'
-birth_place: Washington, D.C., United States
+birth_place: 'Washington, D.C., United States'
 genres:
-- post-disco
-- disco
+  - post-disco
+  - disco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Bobby_Thurston.jpg
   caption: Bobby Thurston
   background: solo_singer
   born: '1954'
-  origin: Washington, D.C., United States
+  origin: 'Washington, D.C., United States'
 audio_profile:
   tempo_avg: 122.9
   energy_avg: 0.646
@@ -22,7 +22,7 @@ audio_profile:
   danceability_avg: 0.687
   acousticness_avg: 0.112
   instrumentalness_avg: 0.061
-  loudness_avg: -12.0
+  loudness_avg: -12
   speechiness_avg: 0.073
   liveness_avg: 0.098
   track_count: 49
@@ -30,44 +30,44 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Spectrum Ltd
-  - Al Johnson
+    - Spectrum Ltd
+    - Al Johnson
   influenced: []
   mentors:
-  - Willie Lester
-  - Ronnie Brown
+    - Willie Lester
+    - Ronnie Brown
 spotify_data:
   followers: 17305
   id: 3iPWVg3McWlor6EUf9Jc7l
   popularity: 27
-  url: https://open.spotify.com/artist/3iPWVg3McWlor6EUf9Jc7l
+  url: 'https://open.spotify.com/artist/3iPWVg3McWlor6EUf9Jc7l'
 discography_enriched: true
 top_tracks:
-- Check Out the Groove (You Got What It Takes)
-- You Got What It Takes - Radio Edit (You Got What It Takes)
-- Very Last Drop (The Main Attraction)
-- You Got What It Takes (You Got What It Takes)
-- Check Out the Groove - Radio Edit (You Got What It Takes)
-- I Know You Feel Like I Feel (The Main Attraction)
-- I Want Your Body (You Got What It Takes)
-- You Got What It Takes - Remix (You Got What It Takes)
-- Is Something Wrong With You (The Main Attraction)
-- Sittin' in the Park (You Got What It Takes)
+  - Check Out the Groove (You Got What It Takes)
+  - You Got What It Takes - Radio Edit (You Got What It Takes)
+  - Very Last Drop (The Main Attraction)
+  - You Got What It Takes (You Got What It Takes)
+  - Check Out the Groove - Radio Edit (You Got What It Takes)
+  - I Know You Feel Like I Feel (The Main Attraction)
+  - I Want Your Body (You Got What It Takes)
+  - You Got What It Takes - Remix (You Got What It Takes)
+  - Is Something Wrong With You (The Main Attraction)
+  - Sittin' in the Park (You Got What It Takes)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/52151ee6-78e1-4e61-9317-b1dc28bd96fc
-  spotify: https://open.spotify.com/artist/3iPWVg3McWlor6EUf9Jc7l
+  musicbrainz: 'https://musicbrainz.org/artist/52151ee6-78e1-4e61-9317-b1dc28bd96fc'
+  spotify: 'https://open.spotify.com/artist/3iPWVg3McWlor6EUf9Jc7l'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/Bobby_Thurston.jpg
 biography_enhanced_at: '2025-10-19T12:39:21.226819'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.aaemusic.com/artist/bobby-thurston
-- http://www.soulwalking.co.uk/Bobby%20Thurston.html
-- https://totparchive.co.uk/artist.php?name=bobby-thurston
-- https://jazzrocksoul.com/artists/bobby-thurston/
-- https://www.iheart.com/artist/bobby-thurston-275274/
-- https://www.allmusic.com/artist/bobby-thurston-mn0000076097
+  - 'https://www.aaemusic.com/artist/bobby-thurston'
+  - 'http://www.soulwalking.co.uk/Bobby%20Thurston.html'
+  - 'https://totparchive.co.uk/artist.php?name=bobby-thurston'
+  - 'https://jazzrocksoul.com/artists/bobby-thurston/'
+  - 'https://www.iheart.com/artist/bobby-thurston-275274/'
+  - 'https://www.allmusic.com/artist/bobby-thurston-mn0000076097'
 network_extracted: true
 entry_created: '2025-10-19T12:39:21.226833'
 last_updated: '2025-12-23T08:16:01.294792'
@@ -75,7 +75,6 @@ disambiguation: american soul and disco singer
 gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:19:54.498030'
 musicbrainz_id: 52151ee6-78e1-4e61-9317-b1dc28bd96fc
-
 ---
 
 ![](Bobby_Thurston.jpg)

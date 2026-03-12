@@ -4,8 +4,8 @@ wiki_slug: the-glue
 schema_version: 2
 status: active
 genres:
-- post-grunge
-- grunge
+  - post-grunge
+  - grunge
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_glue.jpg
   caption: The Glue
@@ -17,7 +17,7 @@ audio_profile:
   danceability_avg: 0.551
   acousticness_avg: 0.198
   instrumentalness_avg: 0.296
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.071
   liveness_avg: 0.198
   track_count: 50
@@ -25,42 +25,43 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Band Members (unspecified)
+    - Band Members (unspecified)
   influenced: []
   mentors:
-  - Nirvana
-  - Pearl Jam
+    - Nirvana
+    - Pearl Jam
 spotify_data:
   followers: 893
   id: 60WLhIcBmhENo5NRPkBwUs
   popularity: 4
-  url: https://open.spotify.com/artist/60WLhIcBmhENo5NRPkBwUs
+  url: 'https://open.spotify.com/artist/60WLhIcBmhENo5NRPkBwUs'
 discography_enriched: true
 top_tracks:
-- Laurel (Never New)
-- Sandburgenbauen - Acapella & Original (Boca Juniors)
-- Harmonious (Never New)
-- Folly (Never New)
-- Masturbation (Never New)
-- For my age (These Roses For You Beautiful)
-- Follow me (Never New)
-- Hoch über dem Strand - Acapella & Original (Boca Juniors)
-- Get down (These Roses For You Beautiful)
-- Criminal (These Roses For You Beautiful)
+  - Laurel (Never New)
+  - Sandburgenbauen - Acapella & Original (Boca Juniors)
+  - Harmonious (Never New)
+  - Folly (Never New)
+  - Masturbation (Never New)
+  - For my age (These Roses For You Beautiful)
+  - Follow me (Never New)
+  - Hoch über dem Strand - Acapella & Original (Boca Juniors)
+  - Get down (These Roses For You Beautiful)
+  - Criminal (These Roses For You Beautiful)
 external_urls:
-  spotify: https://open.spotify.com/artist/60WLhIcBmhENo5NRPkBwUs
+  spotify: 'https://open.spotify.com/artist/60WLhIcBmhENo5NRPkBwUs'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/the_glue.jpg
 biography_enhanced_at: '2025-11-20T06:47:40.254936'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/The+Glue
-- https://www.last.fm/music/Glue/+wiki
+  - 'https://www.last.fm/music/The+Glue'
+  - 'https://www.last.fm/music/Glue/+wiki'
 network_extracted: true
 entry_created: '2025-11-20T06:47:40.254943'
 last_updated: '2025-12-23T08:16:16.809113'
-origin: St. Petersburg, Russia
+origin: 'St. Petersburg, Russia, Country'
+artist_type: band
 ---
 
 ![](the_glue.jpg)

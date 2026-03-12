@@ -2,7 +2,7 @@
 title: Treat Her Right
 wiki_slug: treat-her-right
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1984'
 genres: []
@@ -26,61 +26,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mark Sandman
-  - Billy Conway
-  - David Champagne
-  - Jim Fitting
-  - Steve Mayone
-  - Billy Beard
+    - Mark Sandman
+    - Billy Conway
+    - David Champagne
+    - Jim Fitting
+    - Steve Mayone
+    - Billy Beard
   influenced:
-  - Morphine
+    - Morphine
   mentors:
-  - Roy Head
+    - Roy Head
 spotify_data:
   followers: 10645
   id: 69XSEEApRV8Ta268Bi8DCU
   popularity: 16
-  url: https://open.spotify.com/artist/69XSEEApRV8Ta268Bi8DCU
+  url: 'https://open.spotify.com/artist/69XSEEApRV8Ta268Bi8DCU'
 discography_enriched: true
 top_tracks:
-- The Same Thing (What's Good For You)
-- Rhythm And Booze (What's Good For You)
-- Picture Of The Future (Tied To The Tracks)
-- I Think She Likes Me (Treat Her Right)
-- Black Sunshine (The Lost Album)
-- Marie (Tied To The Tracks)
-- King Of Beers (Tied To The Tracks)
-- Early Man (The Lost Album)
-- Standing By Your Window (What's Good For You)
-- Junkyard (Tied To The Tracks)
+  - The Same Thing (What's Good For You)
+  - Rhythm And Booze (What's Good For You)
+  - Picture Of The Future (Tied To The Tracks)
+  - I Think She Likes Me (Treat Her Right)
+  - Black Sunshine (The Lost Album)
+  - Marie (Tied To The Tracks)
+  - King Of Beers (Tied To The Tracks)
+  - Early Man (The Lost Album)
+  - Standing By Your Window (What's Good For You)
+  - Junkyard (Tied To The Tracks)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2619b3d3-7230-4e46-b49c-e44ff330ca49
-  spotify: https://open.spotify.com/artist/69XSEEApRV8Ta268Bi8DCU
-  wikipedia: https://en.wikipedia.org/wiki/Treat_Her_Right
+  musicbrainz: 'https://musicbrainz.org/artist/2619b3d3-7230-4e46-b49c-e44ff330ca49'
+  spotify: 'https://open.spotify.com/artist/69XSEEApRV8Ta268Bi8DCU'
+  wikipedia: 'https://en.wikipedia.org/wiki/Treat_Her_Right'
 image_path: 03_Resources/source_material/ArtistPortraits/treat_her_right.jpg
 biography_enhanced_at: '2025-11-12T14:58:54.267465'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Treat_Her_Right
-- https://www.allmusic.com/artist/treat-her-right-mn0000019568
-- https://peel.fandom.com/wiki/Treat_Her_Right
+  - 'https://en.wikipedia.org/wiki/Treat_Her_Right'
+  - 'https://www.allmusic.com/artist/treat-her-right-mn0000019568'
+  - 'https://peel.fandom.com/wiki/Treat_Her_Right'
 network_extracted: true
 entry_created: '2025-11-12T14:58:54.267480'
 last_updated: '2025-12-23T08:16:17.679621'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0baa5481-81ec-4808-a900-df77f048131a
-  name: Billy Conway
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bdb7b3b2-de80-4a9d-8056-07f706cb2941
-  name: Mark Sandman
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0baa5481-81ec-4808-a900-df77f048131a
+    name: Billy Conway
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bdb7b3b2-de80-4a9d-8056-07f706cb2941
+    name: Mark Sandman
 musicbrainz_id: 2619b3d3-7230-4e46-b49c-e44ff330ca49
-origin: Boston
+origin: 'Boston, Massachusetts, United States'
 ---
 
 ![](treat_her_right.jpg)

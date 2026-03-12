@@ -5,20 +5,20 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1939-04-04'
-birth_place: Witbank
+birth_place: 'Witbank, Mpumalanga, South Africa'
 death_date: '2018-01-23'
 genres:
-- afro soul
-- afrobeat
+  - afro soul
+  - afrobeat
 instruments:
-- background vocals
-- lead vocals
+  - background vocals
+  - lead vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1ccfa137-1500-411d-8012-9d86bd4406c1
-  name: Hugh Masekela & The Union of South Africa
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1ccfa137-1500-411d-8012-9d86bd4406c1
+    name: Hugh Masekela & The Union of South Africa
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/hugh_masekela.jpg
   caption: Hugh Masekela
@@ -41,60 +41,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Miriam Makeba
-  - Abdullah Ibrahim (Dollar Brand)
-  - Jonas Gwangwa
-  - Fela Kuti
-  - Paul Simon
-  - Hedzoleh Soundz
+    - Miriam Makeba
+    - Abdullah Ibrahim (Dollar Brand)
+    - Jonas Gwangwa
+    - Fela Kuti
+    - Paul Simon
+    - Hedzoleh Soundz
   influenced:
-  - Sipho Mabuse
-  - Lira
-  - Thandiswa Mazwai
+    - Sipho Mabuse
+    - Lira
+    - Thandiswa Mazwai
   mentors:
-  - Trevor Huddleston
-  - Uncle Sauda
-  - Louis Armstrong
+    - Trevor Huddleston
+    - Uncle Sauda
+    - Louis Armstrong
 spotify_data:
   followers: 172124
   id: 1b3F5FI7TX4IWTNA4P1kWp
   popularity: 42
-  url: https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp
+  url: 'https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp'
 discography_enriched: true
 top_tracks:
-- Grazing In The Grass (The Promise Of A Future)
-- Riot
-- Afro Beat Blues (The Chisa Years 1965-1975 (Rare and Unreleased))
-- We Are One - Black Coffee Original Dub
-- With Her Hand - Ralf GUM Instrumental
-- Thanayi (Sixty)
-- Never (Lagos Never Gonna Be the Same) (Rejoice)
-- Stimela (The Coal Train) (Hope)
-- Sechaba
-- Mahlalela (The Chisa Years 1965-1975 (Rare and Unreleased))
+  - Grazing In The Grass (The Promise Of A Future)
+  - Riot
+  - Afro Beat Blues (The Chisa Years 1965-1975 (Rare and Unreleased))
+  - We Are One - Black Coffee Original Dub
+  - With Her Hand - Ralf GUM Instrumental
+  - Thanayi (Sixty)
+  - Never (Lagos Never Gonna Be the Same) (Rejoice)
+  - Stimela (The Coal Train) (Hope)
+  - Sechaba
+  - Mahlalela (The Chisa Years 1965-1975 (Rare and Unreleased))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/83a2e0fb-3d9b-46ff-b383-3dde54c15297
-  spotify: https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp
-  wikipedia: https://en.wikipedia.org/wiki/Hugh_Masekela
+  musicbrainz: 'https://musicbrainz.org/artist/83a2e0fb-3d9b-46ff-b383-3dde54c15297'
+  spotify: 'https://open.spotify.com/artist/1b3F5FI7TX4IWTNA4P1kWp'
+  wikipedia: 'https://en.wikipedia.org/wiki/Hugh_Masekela'
 image_path: 03_Resources/source_material/ArtistPortraits/hugh_masekela.jpg
 biography_enhanced_at: '2025-10-24T07:53:53.173897'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.britannica.com/biography/Hugh-Masekela
-- https://en.wikipedia.org/wiki/Hugh_Masekela
-- https://aaregistry.org/story/trumpet-player-and-so-much-more-hugh-masekela/
-- https://wicn.org/wicn-artist-of-the-month-april-2025-hugh-masekela/
-- https://www.udiscovermusic.com/stories/hugh-masekela-politics-feature/
+  - 'https://www.britannica.com/biography/Hugh-Masekela'
+  - 'https://en.wikipedia.org/wiki/Hugh_Masekela'
+  - 'https://aaregistry.org/story/trumpet-player-and-so-much-more-hugh-masekela/'
+  - 'https://wicn.org/wicn-artist-of-the-month-april-2025-hugh-masekela/'
+  - 'https://www.udiscovermusic.com/stories/hugh-masekela-politics-feature/'
 network_extracted: true
 entry_created: '2025-10-24T07:53:53.173918'
 last_updated: '2025-12-23T08:16:09.758991'
 gender: Male
 musicbrainz_id: 83a2e0fb-3d9b-46ff-b383-3dde54c15297
 tags:
-- 2008 universal fire victim
-- afrobeat
-- classic pop and rock
+  - 2008 universal fire victim
+  - afrobeat
+  - classic pop and rock
+is_active: false
 ---
 
 ![](hugh_masekela.jpg)

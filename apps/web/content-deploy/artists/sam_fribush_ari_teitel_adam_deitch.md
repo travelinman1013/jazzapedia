@@ -1,13 +1,14 @@
 ---
-title: Sam Fribush, Ari Teitel, Adam Deitch
+title: 'Sam Fribush, Ari Teitel, Adam Deitch'
 wiki_slug: sam-fribush-ari-teitel-adam-deitch
 schema_version: 2
 status: active
 genres:
-- jazz funk
+  - jazz funk
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/sam_fribush_ari_teitel_adam_deitch.jpg
-  caption: Sam Fribush, Ari Teitel, Adam Deitch
+  image: >-
+    03_Resources/source_material/ArtistPortraits/sam_fribush_ari_teitel_adam_deitch.jpg
+  caption: 'Sam Fribush, Ari Teitel, Adam Deitch'
   background: solo_singer
 audio_profile:
   tempo_avg: 109.8
@@ -24,51 +25,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Hiss Golden Messenger
-  - Dumpstaphunk
-  - Lettuce
-  - The Rumble
-  - Break Science
-  - John Scofield
+    - Hiss Golden Messenger
+    - Dumpstaphunk
+    - Lettuce
+    - The Rumble
+    - Break Science
+    - John Scofield
   influenced:
-  - Emerging jazz-funk organists
+    - Emerging jazz-funk organists
   mentors:
-  - Charlie Hunter
+    - Charlie Hunter
 spotify_data:
   followers: 5980
   id: 1robtEQJL2Fh639r3ksMfw
   popularity: 31
-  url: https://open.spotify.com/artist/1robtEQJL2Fh639r3ksMfw
+  url: 'https://open.spotify.com/artist/1robtEQJL2Fh639r3ksMfw'
 discography_enriched: true
 top_tracks:
-- Compassion (Another Side of the Sound)
-- Watch This (Another Side of the Sound)
-- Midnight Rider (Another Side of the Sound)
-- Uncle T (Another Side of the Sound)
-- Shama (Another Side of the Sound)
-- Wait Up (Another Side of the Sound)
-- Rolex (Another Side of the Sound)
-- DTF (Another Side of the Sound)
-- Bobbys Boogaloo (The Hit)
-- Chester (Another Side of the Sound)
+  - Compassion (Another Side of the Sound)
+  - Watch This (Another Side of the Sound)
+  - Midnight Rider (Another Side of the Sound)
+  - Uncle T (Another Side of the Sound)
+  - Shama (Another Side of the Sound)
+  - Wait Up (Another Side of the Sound)
+  - Rolex (Another Side of the Sound)
+  - DTF (Another Side of the Sound)
+  - Bobbys Boogaloo (The Hit)
+  - Chester (Another Side of the Sound)
 external_urls:
-  spotify: https://open.spotify.com/artist/1robtEQJL2Fh639r3ksMfw
+  spotify: 'https://open.spotify.com/artist/1robtEQJL2Fh639r3ksMfw'
   wikipedia: ''
-image_path: 03_Resources/source_material/ArtistPortraits/sam_fribush_ari_teitel_adam_deitch.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/sam_fribush_ari_teitel_adam_deitch.jpg
 biography_enhanced_at: '2025-10-29T16:49:19.509060'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://ragman.org/dtf-deitch-teitel-fribush
-- https://www.knkx.org/jazz/2025-06-26/another-side-of-the-sound-album-review-adam-deitch-ari-teitel-sam-fribush-organ-trio-dtf
-- https://liveforlivemusic.com/news/dtf-trio-adam-deitch-sam-fribush-ari-teitel-chester/
-- https://funkcity.net/2025/06/09/hear-another-side-of-the-sound-from-deitch-teitel-fribush/
-- https://samfribush.com/dtf-deitch-teitel-fribush
-- http://ariteitelmusic.com/bio-1
+  - 'https://ragman.org/dtf-deitch-teitel-fribush'
+  - >-
+    https://www.knkx.org/jazz/2025-06-26/another-side-of-the-sound-album-review-adam-deitch-ari-teitel-sam-fribush-organ-trio-dtf
+  - >-
+    https://liveforlivemusic.com/news/dtf-trio-adam-deitch-sam-fribush-ari-teitel-chester/
+  - >-
+    https://funkcity.net/2025/06/09/hear-another-side-of-the-sound-from-deitch-teitel-fribush/
+  - 'https://samfribush.com/dtf-deitch-teitel-fribush'
+  - 'http://ariteitelmusic.com/bio-1'
 network_extracted: true
 entry_created: '2025-10-29T16:49:19.509070'
 last_updated: '2025-12-23T08:16:15.313457'
-origin: New Orleans, Louisiana, USA (group origin)
+origin: 'New Orleans, Louisiana, USA (group origin)'
+artist_type: person
 ---
 
 ![](sam_fribush_ari_teitel_adam_deitch.jpg)

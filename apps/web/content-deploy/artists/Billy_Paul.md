@@ -2,21 +2,21 @@
 title: Billy Paul
 wiki_slug: billy-paul
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1934-12-01'
-birth_place: Philadelphia, Pennsylvania, USA
+birth_place: 'Philadelphia, Pennsylvania, USA'
 death_date: '2016-04-24'
 genres:
-- philly soul
-- soul
-- motown
+  - philly soul
+  - soul
+  - motown
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Billy_Paul.jpg
   caption: Billy Paul
   background: solo_singer
   born: '1934-12-01'
-  origin: Philadelphia, Pennsylvania, USA
+  origin: 'Philadelphia, Pennsylvania, USA'
   died: '2016-04-24'
 audio_profile:
   tempo_avg: 125.8
@@ -33,45 +33,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kenny Gamble & Leon Huff
-  - Philadelphia International All Stars (Lou Rawls, The O'Jays, others)
-  - Buddy Lucas Orchestra
+    - Kenny Gamble & Leon Huff
+    - 'Philadelphia International All Stars (Lou Rawls, The O''Jays, others)'
+    - Buddy Lucas Orchestra
   influenced:
-  - Questlove (The Roots)
+    - Questlove (The Roots)
   mentors:
-  - Charlie Parker
-  - Female jazz vocalists (Billie Holiday, Nina Simone, Carmen McRae, Nancy Wilson)
+    - Charlie Parker
+    - >-
+      Female jazz vocalists (Billie Holiday, Nina Simone, Carmen McRae, Nancy
+      Wilson)
 spotify_data:
   followers: 333697
   id: 187xgSpsFH8mMbAcoCW0zE
   popularity: 50
-  url: https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE
+  url: 'https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE'
 discography_enriched: true
 top_tracks:
-- Me and Mrs. Jones (360 Degrees of Billy Paul (Expanded Edition))
-- Your Song (360 Degrees of Billy Paul (Expanded Edition))
-- Me and Mrs. Jones
-- Only the Strong Survive (Only The Strong Survive)
-- Let's Clean Up the Ghetto - 12" Version (Let's Clean Up the Ghetto)
-- Let 'Em In (Let 'Em In)
-- Am I Black Enough for You? (360 Degrees of Billy Paul (Expanded Edition))
-- It's Too Late (360 Degrees of Billy Paul (Expanded Edition))
-- Let the Dollar Circulate (When Love Is New)
-- Ain't No Mountain High Enough (Chimène Badi Gospel & Soul)
+  - Me and Mrs. Jones (360 Degrees of Billy Paul (Expanded Edition))
+  - Your Song (360 Degrees of Billy Paul (Expanded Edition))
+  - Me and Mrs. Jones
+  - Only the Strong Survive (Only The Strong Survive)
+  - Let's Clean Up the Ghetto - 12" Version (Let's Clean Up the Ghetto)
+  - Let 'Em In (Let 'Em In)
+  - Am I Black Enough for You? (360 Degrees of Billy Paul (Expanded Edition))
+  - It's Too Late (360 Degrees of Billy Paul (Expanded Edition))
+  - Let the Dollar Circulate (When Love Is New)
+  - Ain't No Mountain High Enough (Chimène Badi Gospel & Soul)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7e8a2d88-ebed-433c-9971-643a66834835
-  spotify: https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE
-  wikipedia: https://en.wikipedia.org/wiki/Billy_Paul
+  musicbrainz: 'https://musicbrainz.org/artist/7e8a2d88-ebed-433c-9971-643a66834835'
+  spotify: 'https://open.spotify.com/artist/187xgSpsFH8mMbAcoCW0zE'
+  wikipedia: 'https://en.wikipedia.org/wiki/Billy_Paul'
 image_path: 03_Resources/source_material/ArtistPortraits/Billy_Paul.jpg
 biography_enhanced_at: '2025-10-20T10:11:39.286766'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Billy_Paul
-- https://www.kcur.org/2016-04-25/beyond-mrs-jones-billy-pauls-music-you-might-not-have-heard
-- https://www.imdb.com/name/nm1495283/bio/
-- https://www.allaboutjazz.com/musicians/billy-paul
-- https://www.allmusic.com/artist/billy-paul-mn0000089710
+  - 'https://en.wikipedia.org/wiki/Billy_Paul'
+  - >-
+    https://www.kcur.org/2016-04-25/beyond-mrs-jones-billy-pauls-music-you-might-not-have-heard
+  - 'https://www.imdb.com/name/nm1495283/bio/'
+  - 'https://www.allaboutjazz.com/musicians/billy-paul'
+  - 'https://www.allmusic.com/artist/billy-paul-mn0000089710'
 network_extracted: true
 entry_created: '2025-10-20T10:11:39.286784'
 last_updated: '2025-12-23T08:16:01.232064'
@@ -80,10 +83,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:02:31.352088'
 musicbrainz_id: 7e8a2d88-ebed-433c-9971-643a66834835
 tags:
-- american
-- classic pop and rock
-- died of pancreatic cancer
-
+  - american
+  - classic pop and rock
+  - died of pancreatic cancer
+is_active: false
 ---
 
 ![](Billy_Paul.jpg)

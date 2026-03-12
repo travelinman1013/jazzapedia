@@ -3,19 +3,19 @@ title: Antonio Carlos Jobim
 wiki_slug: antonio-carlos-jobim
 schema_version: 2
 status: active
-birth_place: Rio de Janeiro, Rio de Janeiro, Brazil
+birth_place: 'Rio de Janeiro, Rio de Janeiro, Brazil'
 genres:
-- bossa nova
-- brazilian jazz
-- mpb
-- latin jazz
+  - bossa nova
+  - brazilian jazz
+  - mpb
+  - latin jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/antonio_carlos_jobim.jpg
   caption: Antonio Carlos Jobim
   background: solo_singer
-  origin: Rio de Janeiro, Rio de Janeiro, Brazil
+  origin: 'Rio de Janeiro, Rio de Janeiro, Brazil'
 audio_profile:
-  tempo_avg: 120.0
+  tempo_avg: 120
   energy_avg: 0.257
   valence_avg: 0.481
   danceability_avg: 0.525
@@ -29,53 +29,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Vinicius de Moraes
-  - João Gilberto
-  - Stan Getz
-  - Astrud Gilberto
-  - Luiz Bonfá
+    - Vinicius de Moraes
+    - João Gilberto
+    - Stan Getz
+    - Astrud Gilberto
+    - Luiz Bonfá
   influenced:
-  - Sérgio Mendes
-  - Eliane Elias
-  - Diana Krall
-  - Pat Metheny
+    - Sérgio Mendes
+    - Eliane Elias
+    - Diana Krall
+    - Pat Metheny
   mentors:
-  - Debussy
-  - Ravel
-  - Pixinguinha
+    - Debussy
+    - Ravel
+    - Pixinguinha
 spotify_data:
   followers: 877983
   id: 3pO5VjZ4wOHCMBXOvbMISG
   popularity: 69
-  url: https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG
+  url: 'https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG'
 discography_enriched: true
 top_tracks:
-- Águas De Março (Elis & Tom)
-- Água de Beber (The Astrud Gilberto Album)
-- Pela Luz dos Olhos Teus - Bonus Track (Miucha & Tom Jobim Vol. 1)
-- Corcovado (Quiet Nights Of Quiet Stars) (Getz/Gilberto (Expanded Edition))
-- 'The Girl From Ipanema (Sinatra/Jobim: The Complete Reprise Recordings)'
-- Garota De Ipanema (Inédito)
-- Wave (Wave)
-- Só Tinha De Ser Com Você (Elis & Tom)
-- The Girl From Ipanema - Single Version (Getz/Gilberto (Expanded Edition))
-- The Girl From Ipanema - 2008 Remastered
+  - Águas De Março (Elis & Tom)
+  - Água de Beber (The Astrud Gilberto Album)
+  - Pela Luz dos Olhos Teus - Bonus Track (Miucha & Tom Jobim Vol. 1)
+  - Corcovado (Quiet Nights Of Quiet Stars) (Getz/Gilberto (Expanded Edition))
+  - 'The Girl From Ipanema (Sinatra/Jobim: The Complete Reprise Recordings)'
+  - Garota De Ipanema (Inédito)
+  - Wave (Wave)
+  - Só Tinha De Ser Com Você (Elis & Tom)
+  - The Girl From Ipanema - Single Version (Getz/Gilberto (Expanded Edition))
+  - The Girl From Ipanema - 2008 Remastered
 external_urls:
-  spotify: https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG
-  wikipedia: https://en.wikipedia.org/wiki/Ant%C3%B4nio_Carlos_Jobim
+  spotify: 'https://open.spotify.com/artist/3pO5VjZ4wOHCMBXOvbMISG'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ant%C3%B4nio_Carlos_Jobim'
 image_path: 03_Resources/source_material/ArtistPortraits/antonio_carlos_jobim.jpg
 biography_enhanced_at: '2025-12-09T04:17:48.951442'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Ant%C3%B4nio_Carlos_Jobim
-- https://www.jazzstandards.com/biographies/biography_222.htm
-- https://jazzvideolessons.net/antonio-carlos-jobim-the-genius-behind-bossa-nova/
-- https://www.songhall.org/profiles/antonio-carlos-jobim
-- https://wicn.org/wicn-artist-of-the-month-january-22-antonio-carlos-jobim/
+  - 'https://en.wikipedia.org/wiki/Ant%C3%B4nio_Carlos_Jobim'
+  - 'https://www.jazzstandards.com/biographies/biography_222.htm'
+  - >-
+    https://jazzvideolessons.net/antonio-carlos-jobim-the-genius-behind-bossa-nova/
+  - 'https://www.songhall.org/profiles/antonio-carlos-jobim'
+  - 'https://wicn.org/wicn-artist-of-the-month-january-22-antonio-carlos-jobim/'
 network_extracted: true
 entry_created: '2025-12-09T04:17:48.951453'
 last_updated: '2025-12-23T08:16:04.857699'
+birth_date: '1927-01-25'
+artist_type: person
 ---
 
 ![](antonio_carlos_jobim.jpg)

@@ -23,50 +23,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Felix Cavaliere
-  - Eddie Brigati
-  - Dino Danelli
-  - Gene Cornish
-  - Sid Bernstein
+    - Felix Cavaliere
+    - Eddie Brigati
+    - Dino Danelli
+    - Gene Cornish
+    - Sid Bernstein
   influenced:
-  - Pat Benatar
-  - Bruce Springsteen
-  - Hall & Oates
+    - Pat Benatar
+    - Bruce Springsteen
+    - Hall & Oates
   mentors:
-  - Joey Dee
-  - Lionel Hampton
+    - Joey Dee
+    - Lionel Hampton
 spotify_data:
   followers: 47755
   id: 5g2n2H9ndqvejERtwZ1rHh
   popularity: 38
-  url: https://open.spotify.com/artist/5g2n2H9ndqvejERtwZ1rHh
+  url: 'https://open.spotify.com/artist/5g2n2H9ndqvejERtwZ1rHh'
 discography_enriched: true
 top_tracks:
-- 'A Beautiful Morning - Single Version (Time Peace: The Rascals'' Greatest Hits)'
-- People Got to Be Free (Freedom Suite)
-- 'Groovin'' (Atlantic Records 40th Anniversary: Hit Singles [1958-1977])'
-- I've Been Lonely Too Long (Best of the 60's)
-- 'Good Lovin'' (Atlantic Records 40th Anniversary: Hit Singles [1958-1977])'
-- A Beautiful Morning
-- 'People Got to Be Free - Single Version (The Rascals: Essentials)'
-- 'Love Is a Beautiful Thing (Time Peace: The Rascals'' Greatest Hits)'
-- A Ray of Hope (Freedom Suite)
-- In The Midnight Hour
+  - >-
+    A Beautiful Morning - Single Version (Time Peace: The Rascals' Greatest
+    Hits)
+  - People Got to Be Free (Freedom Suite)
+  - 'Groovin'' (Atlantic Records 40th Anniversary: Hit Singles [1958-1977])'
+  - I've Been Lonely Too Long (Best of the 60's)
+  - 'Good Lovin'' (Atlantic Records 40th Anniversary: Hit Singles [1958-1977])'
+  - A Beautiful Morning
+  - 'People Got to Be Free - Single Version (The Rascals: Essentials)'
+  - 'Love Is a Beautiful Thing (Time Peace: The Rascals'' Greatest Hits)'
+  - A Ray of Hope (Freedom Suite)
+  - In The Midnight Hour
 external_urls:
-  spotify: https://open.spotify.com/artist/5g2n2H9ndqvejERtwZ1rHh
-  wikipedia: https://en.wikipedia.org/wiki/The_Rascals
+  spotify: 'https://open.spotify.com/artist/5g2n2H9ndqvejERtwZ1rHh'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Rascals'
 image_path: 03_Resources/source_material/ArtistPortraits/the_rascals.jpg
 biography_enhanced_at: '2025-11-12T14:50:12.797560'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Rascals
-- https://www.britannica.com/topic/the-Rascals
-- https://www.angelfire.com/ky3/ky1958/rascals/rascalsbio.html
+  - 'https://en.wikipedia.org/wiki/The_Rascals'
+  - 'https://www.britannica.com/topic/the-Rascals'
+  - 'https://www.angelfire.com/ky3/ky1958/rascals/rascalsbio.html'
 network_extracted: true
 entry_created: '2025-11-12T14:50:12.797575'
 last_updated: '2025-12-23T08:16:17.091274'
-origin: Garfield, New Jersey, United States
+origin: 'Garfield, New Jersey, United States'
+artist_type: band
 ---
 
 ![](the_rascals.jpg)

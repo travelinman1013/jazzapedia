@@ -1,16 +1,16 @@
 ---
-title: GOLDEN WHEELER
+title: Golden Wheeler
 wiki_slug: golden-wheeler
 schema_version: 2
 status: active
-birth_place: Beaconton, Georgia, USA
+birth_place: 'Beaconton, Georgia, USA'
 genres:
-- modern blues
+  - modern blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/golden_wheeler.jpg
   caption: GOLDEN WHEELER
   background: solo_singer
-  origin: Beaconton, Georgia, USA
+  origin: 'Beaconton, Georgia, USA'
 audio_profile:
   tempo_avg: 117.9
   energy_avg: 0.581
@@ -26,49 +26,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - James Wheeler
-  - Allen Batts
-  - Bob Stroger
-  - Baldhead Pete
-  - Ice Cream Men (Johnny Burgin, Dave Waldman, Steve Cushing)
-  - Bob Koester
+    - James Wheeler
+    - Allen Batts
+    - Bob Stroger
+    - Baldhead Pete
+    - 'Ice Cream Men (Johnny Burgin, Dave Waldman, Steve Cushing)'
+    - Bob Koester
   influenced: []
   mentors:
-  - Little Walter
-  - Buster Brown
+    - Little Walter
+    - Buster Brown
 spotify_data:
   followers: 13
   id: 4K6Z0zfba2rk5gqaoin4fv
   popularity: 0
-  url: https://open.spotify.com/artist/4K6Z0zfba2rk5gqaoin4fv
+  url: 'https://open.spotify.com/artist/4K6Z0zfba2rk5gqaoin4fv'
 discography_enriched: true
 top_tracks:
-- Answering Machine (Big Daddy)
-- Ready for the Blues (Big Daddy)
-- Big Daddy (Big Daddy)
-- Young Man Blues (Big Daddy)
-- Welcome to Detroit (Big Daddy)
-- Turn on Your Love Light (Big Daddy)
-- Meet Me with Your Black Drawers On (Big Daddy)
-- Seven Baby Blues (Big Daddy)
-- The Sun Is Shining (Big Golden Wheeler - TURN MY LIFE AROUND)
-- Dirty Blues (Big Golden Wheeler - TURN MY LIFE AROUND)
+  - Answering Machine (Big Daddy)
+  - Ready for the Blues (Big Daddy)
+  - Big Daddy (Big Daddy)
+  - Young Man Blues (Big Daddy)
+  - Welcome to Detroit (Big Daddy)
+  - Turn on Your Love Light (Big Daddy)
+  - Meet Me with Your Black Drawers On (Big Daddy)
+  - Seven Baby Blues (Big Daddy)
+  - The Sun Is Shining (Big Golden Wheeler - TURN MY LIFE AROUND)
+  - Dirty Blues (Big Golden Wheeler - TURN MY LIFE AROUND)
 external_urls:
-  spotify: https://open.spotify.com/artist/4K6Z0zfba2rk5gqaoin4fv
+  spotify: 'https://open.spotify.com/artist/4K6Z0zfba2rk5gqaoin4fv'
   wikipedia: ''
 image_path: ''
 biography_enhanced_at: '2025-12-16T03:18:45.800260'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.americanbluesscene.com/2022/08/windy-city-wednesday-jump-in-by-golden-big-wheeler/
-- https://www.last.fm/music/Golden+%22Big%22+Wheeler
-- https://www.bear-family.com/big-wheeler-s-bone-orchard/
-- https://www.allmusic.com/artist/MN0000064444
-- http://worldofharmonica.blogspot.com/2012/12/golden-big-wheeler.html
+  - >-
+    https://www.americanbluesscene.com/2022/08/windy-city-wednesday-jump-in-by-golden-big-wheeler/
+  - 'https://www.last.fm/music/Golden+%22Big%22+Wheeler'
+  - 'https://www.bear-family.com/big-wheeler-s-bone-orchard/'
+  - 'https://www.allmusic.com/artist/MN0000064444'
+  - 'http://worldofharmonica.blogspot.com/2012/12/golden-big-wheeler.html'
 network_extracted: true
 entry_created: '2025-12-16T03:18:45.800276'
 last_updated: '2025-12-23T08:16:09.265514'
+origin: 'Chicago, Illinois, United States'
+birth_date: '1929-12-15'
+artist_type: person
 ---
 
 ![]()

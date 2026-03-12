@@ -1,44 +1,46 @@
 ---
 biography_enhanced_at: '2025-12-27T01:26:49.516711'
-birth_place: Kent County, England
+birth_place: 'Kent County, England, United Kingdom'
 enhancement_provider: perplexity
 entry_created: '2025-12-27T01:26:49.516717'
 external_urls:
-  spotify: https://open.spotify.com/artist/1359ogdBoLfQGxKfUDfWaz
+  spotify: 'https://open.spotify.com/artist/1359ogdBoLfQGxKfUDfWaz'
   wikipedia: ''
 genres:
-- jazz fusion
-- progressive rock
-- symphonic rock
+  - jazz fusion
+  - progressive rock
+  - symphonic rock
 image_path: 03_Resources/source_material/ArtistPortraits/bill_bruford.jpg
 last_updated: '2025-12-27T01:26:49.516718'
 musical_connections:
   collaborators:
-  - Robert Fripp
-  - John Wetton
-  - Django Bates
-  - Pat Mastelotto
+    - Robert Fripp
+    - John Wetton
+    - Django Bates
+    - Pat Mastelotto
   influenced: []
   mentors:
-  - Lou Pocock
-  - Jim Chapin
+    - Lou Pocock
+    - Jim Chapin
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.paiste.com/en/musicians/bill-bruford
-- http://mikedolbear.com/groovers-and-shakers/groovers-shakers-bill-bruford/
-- https://jazztimes.com/features/interviews/bill-bruford-the-boundary-investigator/
-- https://ukjazznews.com/bill-bruford-interview/
-- https://www.dgmlive.com/biographies/bill-bruford
-- https://www.moderndrummer.com/article/bill-bruford-2/
+  - 'https://www.paiste.com/en/musicians/bill-bruford'
+  - 'http://mikedolbear.com/groovers-and-shakers/groovers-shakers-bill-bruford/'
+  - >-
+    https://jazztimes.com/features/interviews/bill-bruford-the-boundary-investigator/
+  - 'https://ukjazznews.com/bill-bruford-interview/'
+  - 'https://www.dgmlive.com/biographies/bill-bruford'
+  - 'https://www.moderndrummer.com/article/bill-bruford-2/'
 spotify_data:
   followers: 47082
   id: 1359ogdBoLfQGxKfUDfWaz
   popularity: 21
-  url: https://open.spotify.com/artist/1359ogdBoLfQGxKfUDfWaz
+  url: 'https://open.spotify.com/artist/1359ogdBoLfQGxKfUDfWaz'
 status: active
 title: Bill Bruford
-
+birth_date: '1949-05-17'
+artist_type: person
 ---
 
 ![](bill_bruford.jpg)

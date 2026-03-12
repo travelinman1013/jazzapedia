@@ -1,65 +1,67 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - soprano saxophone
-  mbid: d1e2518e-fe1a-4b0c-8395-ce2b48c23e3d
-  name: Klaus König Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - soprano saxophone
+    mbid: d1e2518e-fe1a-4b0c-8395-ce2b48c23e3d
+    name: Klaus König Orchestra
 biography_enhanced_at: '2025-12-25T01:07:19.147740'
 birth_date: '1955-01-12'
-birth_place: Boston
+birth_place: 'Boston, Massachusetts, United States'
 disambiguation: saxophonist / composer
 enhancement_provider: perplexity
 entry_created: '2025-12-25T01:07:19.147760'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a1f69278-81c7-4125-a01c-713d9de6dbe4
-  spotify: https://open.spotify.com/artist/7yTM7wAWwfJvt0UsLoZXrq
-  wikipedia: https://en.wikipedia.org/wiki/Jane_Ira_Bloom
+  musicbrainz: 'https://musicbrainz.org/artist/a1f69278-81c7-4125-a01c-713d9de6dbe4'
+  spotify: 'https://open.spotify.com/artist/7yTM7wAWwfJvt0UsLoZXrq'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jane_Ira_Bloom'
 gender: Female
 genres:
-- free jazz
-- jazz
+  - free jazz
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/jane_ira_bloom.jpg
 instruments:
-- soprano saxophone
+  - soprano saxophone
 last_updated: '2025-12-25T01:07:19.147762'
 musical_connections:
   collaborators:
-  - Charlie Haden
-  - Fred Hersch
-  - Ed Blackwell
-  - Mark Dresser
-  - Bobby Previte
-  - Dawn Clement
-  - Mark Helias
-  - Matt Wilson
+    - Charlie Haden
+    - Fred Hersch
+    - Ed Blackwell
+    - Mark Dresser
+    - Bobby Previte
+    - Dawn Clement
+    - Mark Helias
+    - Matt Wilson
   influenced:
-  - Not specifically documented
+    - Not specifically documented
   mentors:
-  - Joseph Viola
+    - Joseph Viola
 musicbrainz_id: a1f69278-81c7-4125-a01c-713d9de6dbe4
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jane_Ira_Bloom
-- https://www.janeirabloom.com/bio.html
-- https://www.psaudio.com/blogs/copper/jane-ira-bloom-a-unique-voice-on-soprano-sax
-- https://www.allaboutjazz.com/musicians/jane-ira-bloom
-- https://www.newschool.edu/jazz/faculty/jane-ira-bloom
-- https://newmusicusa.org/nmbx/jane-ira-bloom-valuing-choices-made-in-the-moment
-- https://www.wmky.org/arts-culture/2020-11-05/jane-ira-bloom
-- https://www.textura.org/archives/interviews/tenquestions_janeirabloom.htm
-- https://www.matrixonline.net/profile/janeirabloom
+  - 'https://en.wikipedia.org/wiki/Jane_Ira_Bloom'
+  - 'https://www.janeirabloom.com/bio.html'
+  - >-
+    https://www.psaudio.com/blogs/copper/jane-ira-bloom-a-unique-voice-on-soprano-sax
+  - 'https://www.allaboutjazz.com/musicians/jane-ira-bloom'
+  - 'https://www.newschool.edu/jazz/faculty/jane-ira-bloom'
+  - >-
+    https://newmusicusa.org/nmbx/jane-ira-bloom-valuing-choices-made-in-the-moment
+  - 'https://www.wmky.org/arts-culture/2020-11-05/jane-ira-bloom'
+  - 'https://www.textura.org/archives/interviews/tenquestions_janeirabloom.htm'
+  - 'https://www.matrixonline.net/profile/janeirabloom'
 spotify_data:
   followers: 1694
   id: 7yTM7wAWwfJvt0UsLoZXrq
   popularity: 9
-  url: https://open.spotify.com/artist/7yTM7wAWwfJvt0UsLoZXrq
+  url: 'https://open.spotify.com/artist/7yTM7wAWwfJvt0UsLoZXrq'
 status: active
 tags:
-- jazz
+  - jazz
 title: Jane Ira Bloom
 ---
 

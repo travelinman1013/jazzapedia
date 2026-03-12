@@ -3,37 +3,47 @@ biography_enhanced_at: '2025-12-28T01:58:08.689587'
 enhancement_provider: perplexity
 entry_created: '2025-12-28T01:58:08.689600'
 external_urls:
-  spotify: https://open.spotify.com/artist/6VlbPHHnYe35oIY73BU78V
+  spotify: 'https://open.spotify.com/artist/6VlbPHHnYe35oIY73BU78V'
   wikipedia: ''
 genres:
-- lounge
-- bossa nova
-image_path: 03_Resources/source_material/ArtistPortraits/florito_neyna_and_sandro_beatz.jpg
+  - lounge
+  - bossa nova
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/florito_neyna_and_sandro_beatz.jpg
 last_updated: '2025-12-28T01:58:08.689618'
 musical_connections:
   collaborators:
-  - Florito (Florisberto Mbemba)
-  - Neyna
-  - Sandro Beatz
+    - Florito (Florisberto Mbemba)
+    - Neyna
+    - Sandro Beatz
   influenced: []
   mentors: []
 network_extracted: true
-origin: Luanda, Angola (Florito); Cape Verde (Neyna); exact origin for Sandro Beatz and the trio project as a whole not specified in available sources
+origin: >-
+  Luanda, Angola (Florito); Cape Verde (Neyna); exact origin for Sandro Beatz
+  and the trio project as a whole not specified in available sources
 primary_source: perplexity
 research_sources:
-- YouTube credit for “Kannot Compare” listing Florito, Neyna & Sandro Beatz as artists[1]
-- Rythm.fm listing for “Kannot Compare” by Florito, Neyna, Sandro Beatz[3]
-- Chartmetric artist profile for Florito (Florisberto Mbemba), Afro-fusion singer-songwriter from Luanda, Angola[4]
-- Shazam artist page for Florito, noting Afro-Beat genre and Angolan origin[5]
-- RecentMusic profile describing Neyna as a Cape Verdean singer-songwriter active since the early 2000s[2]
+  - >-
+    YouTube credit for “Kannot Compare” listing Florito, Neyna & Sandro Beatz as
+    artists[1]
+  - 'Rythm.fm listing for “Kannot Compare” by Florito, Neyna, Sandro Beatz[3]'
+  - >-
+    Chartmetric artist profile for Florito (Florisberto Mbemba), Afro-fusion
+    singer-songwriter from Luanda, Angola[4]
+  - 'Shazam artist page for Florito, noting Afro-Beat genre and Angolan origin[5]'
+  - >-
+    RecentMusic profile describing Neyna as a Cape Verdean singer-songwriter
+    active since the early 2000s[2]
 spotify_data:
   followers: 7434
   id: 6VlbPHHnYe35oIY73BU78V
   popularity: 40
-  url: https://open.spotify.com/artist/6VlbPHHnYe35oIY73BU78V
+  url: 'https://open.spotify.com/artist/6VlbPHHnYe35oIY73BU78V'
 status: active
-title: florito, neyna & sandro beatz
-
+title: 'Florito, Neyna & Sandro Beatz'
+birth_place: 'Luanda, Angola, United States'
+artist_type: band
 ---
 
 ![](florito_neyna_and_sandro_beatz.jpg)

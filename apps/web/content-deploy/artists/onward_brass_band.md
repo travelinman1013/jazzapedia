@@ -2,7 +2,7 @@
 title: Onward Brass Band
 wiki_slug: onward-brass-band
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1960'
 genres: []
@@ -26,72 +26,73 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Paul Barbarin
-  - Louis Cottrell Jr.
-  - Danny Barker
-  - Isidore Barbarin
+    - Paul Barbarin
+    - Louis Cottrell Jr.
+    - Danny Barker
+    - Isidore Barbarin
   influenced:
-  - Olympia Brass Band
-  - Danny Barker
-  - New Orleans brass band tradition
+    - Olympia Brass Band
+    - Danny Barker
+    - New Orleans brass band tradition
   mentors:
-  - Manuel Perez
+    - Manuel Perez
 spotify_data:
   followers: 3367
   id: 7l67mFin1d5djtH8sRExqm
   popularity: 22
-  url: https://open.spotify.com/artist/7l67mFin1d5djtH8sRExqm
+  url: 'https://open.spotify.com/artist/7l67mFin1d5djtH8sRExqm'
 discography_enriched: true
 top_tracks:
-- (I'm Spending) Hanukkah in Santa Monica (Hanukkah in Santa Monica)
-- Seasons of Love (Hanukkah in Santa Monica)
-- The Phantom of the Opera (The Phantom of the Opera)
-- If I Were A Rich Man (Opening Number)
-- Do You Hear The People Sing? (Opening Number)
-- Trashin' The Camp (Opening Number)
-- The Phantom of the Opera (Phantom Of The Opera)
-- Think Of Me (Phantom Of The Opera)
-- Music of the Night (Phantom Of The Opera)
-- All I Ask Of You (Phantom Of The Opera)
+  - (I'm Spending) Hanukkah in Santa Monica (Hanukkah in Santa Monica)
+  - Seasons of Love (Hanukkah in Santa Monica)
+  - The Phantom of the Opera (The Phantom of the Opera)
+  - If I Were A Rich Man (Opening Number)
+  - Do You Hear The People Sing? (Opening Number)
+  - Trashin' The Camp (Opening Number)
+  - The Phantom of the Opera (Phantom Of The Opera)
+  - Think Of Me (Phantom Of The Opera)
+  - Music of the Night (Phantom Of The Opera)
+  - All I Ask Of You (Phantom Of The Opera)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d18cb28f-67ca-4da1-af2f-c5c1206bed3f
-  spotify: https://open.spotify.com/artist/7l67mFin1d5djtH8sRExqm
-  wikipedia: https://en.wikipedia.org/wiki/Onward_Brass_Band
+  musicbrainz: 'https://musicbrainz.org/artist/d18cb28f-67ca-4da1-af2f-c5c1206bed3f'
+  spotify: 'https://open.spotify.com/artist/7l67mFin1d5djtH8sRExqm'
+  wikipedia: 'https://en.wikipedia.org/wiki/Onward_Brass_Band'
 image_path: 03_Resources/source_material/ArtistPortraits/onward_brass_band.jpg
 biography_enhanced_at: '2025-10-26T12:27:58.220408'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://onwardbrassband.louiscottrell.com
-- https://www.sdjs2022.org/news-updates
-- https://www.allmusic.com/artist/onward-brass-band-mn0000468044
+  - 'https://onwardbrassband.louiscottrell.com'
+  - 'https://www.sdjs2022.org/news-updates'
+  - 'https://www.allmusic.com/artist/onward-brass-band-mn0000468044'
 network_extracted: true
 entry_created: '2025-10-26T12:27:58.220416'
 last_updated: '2025-12-23T08:16:13.756983'
-disambiguation: Barbarin/Cottrell, 1960-
+disambiguation: 'Barbarin/Cottrell, 1960-'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e2400142-15b8-4b47-b7da-3522533c25ce
-  name: Isidore Barbarin
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c28cbb39-7e95-454e-9375-3e17a87cbc2e
-  name: Louis Barbarin
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0f1b7974-d6aa-4d6a-baab-9973b1bf2379
-  name: Lucien Joseph Barbarin, Sr.
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8562db41-6ca1-40b9-aa2f-2b3784e67277
-  name: Freddie Kohlman
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e2400142-15b8-4b47-b7da-3522533c25ce
+    name: Isidore Barbarin
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c28cbb39-7e95-454e-9375-3e17a87cbc2e
+    name: Louis Barbarin
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0f1b7974-d6aa-4d6a-baab-9973b1bf2379
+    name: 'Lucien Joseph Barbarin, Sr.'
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8562db41-6ca1-40b9-aa2f-2b3784e67277
+    name: Freddie Kohlman
 musicbrainz_id: d18cb28f-67ca-4da1-af2f-c5c1206bed3f
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+death_date: '1930'
 ---
 
 ![](onward_brass_band.jpg)

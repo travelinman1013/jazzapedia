@@ -1,26 +1,26 @@
 ---
-title: herbie mann
+title: Herbie Mann
 wiki_slug: herbie-mann
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1930-04-16'
-birth_place: Brooklyn, New York, USA
+birth_place: 'Brooklyn, New York, USA'
 death_date: '2003-07-01'
 genres:
-- latin jazz
-- jazz
-- brazilian jazz
-- bossa nova
-- jazz funk
-- soul jazz
-- cool jazz
+  - latin jazz
+  - jazz
+  - brazilian jazz
+  - bossa nova
+  - jazz funk
+  - soul jazz
+  - cool jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/herbie_mann.jpg
   caption: herbie mann
   background: solo_singer
   born: '1930-04-16'
-  origin: Brooklyn, New York, USA
+  origin: 'Brooklyn, New York, USA'
   died: '2003-07-01'
 audio_profile:
   tempo_avg: 115.8
@@ -37,44 +37,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Phil Woods
-  - Antonio Carlos Jobim
-  - Cissy Houston
-  - Duane Allman
-  - Larry Coryell
+    - Phil Woods
+    - Antonio Carlos Jobim
+    - Cissy Houston
+    - Duane Allman
+    - Larry Coryell
   influenced:
-  - Various musicians
+    - Various musicians
   mentors:
-  - Benny Goodman
+    - Benny Goodman
 spotify_data:
   followers: 57784
   id: 6ycoXr0Ayd89vFUT6BOiWo
   popularity: 37
-  url: https://open.spotify.com/artist/6ycoXr0Ayd89vFUT6BOiWo
+  url: 'https://open.spotify.com/artist/6ycoXr0Ayd89vFUT6BOiWo'
 discography_enriched: true
 top_tracks:
-- Comin' Home Baby
-- Amor Em Paz (Love in Peace) (Do the Bossa Nova)
-- Memphis Underground (Memphis Underground)
-- Cajun Moon (feat. Cissy Houston) (Surprises)
-- 'Congo Mulence (A Man And His Music: El Padrino)'
-- One Note Samba (Do the Bossa Nova)
-- Consolation (Consolacao) (Do the Bossa Nova)
-- Battle Hymn of the Republic (Memphis Underground)
-- Push Push (feat. Duane Allman) (Push Push (feat. Duane Allman))
-- Batida diferente (Latin Fever)
+  - Comin' Home Baby
+  - Amor Em Paz (Love in Peace) (Do the Bossa Nova)
+  - Memphis Underground (Memphis Underground)
+  - Cajun Moon (feat. Cissy Houston) (Surprises)
+  - 'Congo Mulence (A Man And His Music: El Padrino)'
+  - One Note Samba (Do the Bossa Nova)
+  - Consolation (Consolacao) (Do the Bossa Nova)
+  - Battle Hymn of the Republic (Memphis Underground)
+  - Push Push (feat. Duane Allman) (Push Push (feat. Duane Allman))
+  - Batida diferente (Latin Fever)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/04271c28-b9a7-4724-b7fd-022409fbce60
-  spotify: https://open.spotify.com/artist/6ycoXr0Ayd89vFUT6BOiWo
-  wikipedia: https://en.wikipedia.org/wiki/Herbie_Mann
+  musicbrainz: 'https://musicbrainz.org/artist/04271c28-b9a7-4724-b7fd-022409fbce60'
+  spotify: 'https://open.spotify.com/artist/6ycoXr0Ayd89vFUT6BOiWo'
+  wikipedia: 'https://en.wikipedia.org/wiki/Herbie_Mann'
 image_path: 03_Resources/source_material/ArtistPortraits/herbie_mann.jpg
 biography_enhanced_at: '2025-10-20T09:33:10.986541'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://nationaljazzarchive.org.uk/explore/interviews/1635371-herbie-mann-interview-2
-- https://mgleatherwork.com/blogs/news/jazz-flutist-herbie-mann-biography-career-and-success
-- https://en.wikipedia.org/wiki/Herbie_Mann
+  - >-
+    https://nationaljazzarchive.org.uk/explore/interviews/1635371-herbie-mann-interview-2
+  - >-
+    https://mgleatherwork.com/blogs/news/jazz-flutist-herbie-mann-biography-career-and-success
+  - 'https://en.wikipedia.org/wiki/Herbie_Mann'
 network_extracted: true
 entry_created: '2025-10-20T09:33:10.986557'
 last_updated: '2025-12-23T08:16:09.595035'
@@ -82,8 +84,9 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:53:03.244211'
 musicbrainz_id: 04271c28-b9a7-4724-b7fd-022409fbce60
 tags:
-- jazz
-- soul jazz
+  - jazz
+  - soul jazz
+is_active: false
 ---
 
 ![](herbie_mann.jpg)

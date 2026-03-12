@@ -5,28 +5,28 @@ schema_version: 2
 status: deceased
 aliases: []
 birth_date: '1935-09-23'
-birth_place: Greenwood, Mississippi, United States
+birth_place: 'Greenwood, Mississippi, United States'
 death_date: '1997-11-25'
 years_active: 1957–1997
 genres:
-- blues
-- classic blues
-- soul blues
+  - blues
+  - classic blues
+  - soul blues
 instruments:
-- guitar
-- voice
+  - guitar
+  - voice
 occupation:
-- singer
-- guitarist
-- jazz guitarist
+  - singer
+  - guitarist
+  - jazz guitarist
 record_labels:
-- Duke
+  - Duke
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Fenton_Robinson.jpg
   caption: Fenton Robinson
   background: solo_singer
   born: '1935-09-23'
-  origin: Greenwood, Mississippi, United States
+  origin: 'Greenwood, Mississippi, United States'
   died: '1997-11-25'
 audio_profile:
   tempo_avg: 119.3
@@ -43,55 +43,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Larry Davis
-  - James Booker
-  - Junior Wells, Sonny Boy Williamson, Otis Rush
+    - Larry Davis
+    - James Booker
+    - 'Junior Wells, Sonny Boy Williamson, Otis Rush'
   influenced:
-  - Boz Scaggs
-  - Albert King
-  - Blues artists worldwide
+    - Boz Scaggs
+    - Albert King
+    - Blues artists worldwide
   mentors:
-  - T-Bone Walker
-  - B.B. King
-  - Charles McGowan
+    - T-Bone Walker
+    - B.B. King
+    - Charles McGowan
 related_artists: []
 spotify_data:
   followers: 35460
   id: 5WFeN8vtX0TYqv0IYVbWZT
   popularity: 46
-  url: https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT
+  url: 'https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT'
   verified: false
 discography_enriched: true
 albums_count: 11
 singles_count: 8
 top_tracks:
-- Somebody Loan Me A Dime - Remastered (Somebody Loan Me A Dime (Remastered))
-- The Getaway - Remastered (Somebody Loan Me A Dime (Remastered))
-- You Don't Know What Love Is - Remastered (Somebody Loan Me A Dime (Remastered))
-- As The Years Go Passing By (I Hear Some Blues Downstairs)
-- Going To Chicago - Remastered (Somebody Loan Me A Dime (Remastered))
-- Texas Flood - Remastered (Somebody Loan Me A Dime (Remastered))
-- I Hear Some Blues Downstairs (I Hear Some Blues Downstairs)
-- Checking On My Woman - Remastered (Somebody Loan Me A Dime (Remastered))
-- You Say You're Leaving - Remastered (Somebody Loan Me A Dime (Remastered))
-- I've Changed - Remastered (Somebody Loan Me A Dime (Remastered))
+  - Somebody Loan Me A Dime - Remastered (Somebody Loan Me A Dime (Remastered))
+  - The Getaway - Remastered (Somebody Loan Me A Dime (Remastered))
+  - >-
+    You Don't Know What Love Is - Remastered (Somebody Loan Me A Dime
+    (Remastered))
+  - As The Years Go Passing By (I Hear Some Blues Downstairs)
+  - Going To Chicago - Remastered (Somebody Loan Me A Dime (Remastered))
+  - Texas Flood - Remastered (Somebody Loan Me A Dime (Remastered))
+  - I Hear Some Blues Downstairs (I Hear Some Blues Downstairs)
+  - Checking On My Woman - Remastered (Somebody Loan Me A Dime (Remastered))
+  - You Say You're Leaving - Remastered (Somebody Loan Me A Dime (Remastered))
+  - I've Changed - Remastered (Somebody Loan Me A Dime (Remastered))
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT
-  wikipedia: https://en.wikipedia.org/wiki/Fenton_Robinson
+  spotify: 'https://open.spotify.com/artist/5WFeN8vtX0TYqv0IYVbWZT'
+  wikipedia: 'https://en.wikipedia.org/wiki/Fenton_Robinson'
 image_path: 03_Resources/source_material/ArtistPortraits/Fenton_Robinson.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:36:54.080905'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia
-- MojoHand
-- BLUES GINZA
+  - Wikipedia
+  - MojoHand
+  - BLUES GINZA
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:51:53.008384
+entry_created: 2025-09-22T21:51:53.008Z
 last_updated: '2025-12-23T08:16:01.962404'
+is_active: false
+origin: 'Memphis, Tennessee, United States'
+artist_type: person
 ---
 
 ![](Fenton_Robinson.jpg)

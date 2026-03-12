@@ -1,28 +1,28 @@
 ---
-title: chris whitley
+title: Chris Whitley
 wiki_slug: chris-whitley
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1960-08-31'
-birth_place: Houston, Texas, United States
+birth_place: 'Houston, Texas, United States'
 death_date: '2005-11-20'
 genres:
-- roots rock
-- americana
-- alt country
+  - roots rock
+  - americana
+  - alt country
 instruments:
-- drum machine
-- original
-- guitar
-- lead vocals
-- eponymous
+  - drum machine
+  - original
+  - guitar
+  - lead vocals
+  - eponymous
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/chris_whitley.jpg
   caption: chris whitley
   background: solo_singer
   born: '1960-08-31'
-  origin: Houston, Texas, United States
+  origin: 'Houston, Texas, United States'
   died: '2005-11-20'
 audio_profile:
   tempo_avg: 124.7
@@ -39,42 +39,43 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Daniel Lanois
-  - Chris Wood and Billy Martin
-  - Jeff Lang
+    - Daniel Lanois
+    - Chris Wood and Billy Martin
+    - Jeff Lang
   influenced:
-  - Trixie Whitley
+    - Trixie Whitley
   mentors:
-  - Jimi Hendrix
-  - Muddy Waters
+    - Jimi Hendrix
+    - Muddy Waters
 spotify_data:
   followers: 17800
   id: 48oNDvKRqviSFzow0ZXHXa
   popularity: 23
-  url: https://open.spotify.com/artist/48oNDvKRqviSFzow0ZXHXa
+  url: 'https://open.spotify.com/artist/48oNDvKRqviSFzow0ZXHXa'
 discography_enriched: true
 top_tracks:
-- Big Sky Country (Living With The Law)
-- Poison Girl (Living With The Law)
-- Living with the Law (Living With The Law)
-- Kick the Stones (Living With The Law)
-- Big Sky Country (Living With The Law)
-- Scrapyard Lullaby (Dirt Floor)
-- Wild Country (Dirt Floor)
-- Narcotic Prayer (Din of Ecstasy)
-- Phone Call from Leavenworth (Living With The Law)
-- Accordingly (Dirt Floor)
+  - Big Sky Country (Living With The Law)
+  - Poison Girl (Living With The Law)
+  - Living with the Law (Living With The Law)
+  - Kick the Stones (Living With The Law)
+  - Big Sky Country (Living With The Law)
+  - Scrapyard Lullaby (Dirt Floor)
+  - Wild Country (Dirt Floor)
+  - Narcotic Prayer (Din of Ecstasy)
+  - Phone Call from Leavenworth (Living With The Law)
+  - Accordingly (Dirt Floor)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/828d31c5-d15a-4109-9619-ba350309834b
-  spotify: https://open.spotify.com/artist/48oNDvKRqviSFzow0ZXHXa
-  wikipedia: https://en.wikipedia.org/wiki/Chris_Whitley
+  musicbrainz: 'https://musicbrainz.org/artist/828d31c5-d15a-4109-9619-ba350309834b'
+  spotify: 'https://open.spotify.com/artist/48oNDvKRqviSFzow0ZXHXa'
+  wikipedia: 'https://en.wikipedia.org/wiki/Chris_Whitley'
 image_path: 03_Resources/source_material/ArtistPortraits/chris_whitley.jpg
 biography_enhanced_at: '2025-10-19T10:52:40.980167'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Chris_Whitley
-- https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/chris-whitley
+  - 'https://en.wikipedia.org/wiki/Chris_Whitley'
+  - >-
+    https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/chris-whitley
 network_extracted: true
 entry_created: '2025-10-19T10:52:40.980173'
 last_updated: '2025-12-23T08:16:06.912450'
@@ -82,10 +83,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:50:53.634901'
 musicbrainz_id: 828d31c5-d15a-4109-9619-ba350309834b
 tags:
-- acoustic blues
-- alternative folk
-- americana
-
+  - acoustic blues
+  - alternative folk
+  - americana
+is_active: false
 ---
 
 ![](chris_whitley.jpg)

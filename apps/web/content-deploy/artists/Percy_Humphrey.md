@@ -5,26 +5,26 @@ schema_version: 2
 status: deceased
 aliases: []
 birth_date: '1905-01-13'
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 death_date: '1995-07-22'
 years_active: 1925-1995
 genres:
-- ragtime
+  - ragtime
 instruments:
-- trumpet
+  - trumpet
 occupation:
-- jazz musician
+  - jazz musician
 record_labels:
-- Riverside
+  - Riverside
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Percy_Humphrey.jpg
   caption: Percy Humphrey
   background: non_vocal_instrumentalist
   born: '1905-01-13'
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
   died: '1995-07-22'
 audio_profile:
-  tempo_avg: 115.0
+  tempo_avg: 115
   energy_avg: 0.3
   valence_avg: 0.736
   danceability_avg: 0.546
@@ -38,52 +38,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Willie Humphrey
-  - Earl Humphrey
-  - Eureka Brass Band
-  - Preservation Hall Jazz Band
-  - Crescent City Joymakers
-  - George Lewis
-  - Sweet Emma Barrett
+    - Willie Humphrey
+    - Earl Humphrey
+    - Eureka Brass Band
+    - Preservation Hall Jazz Band
+    - Crescent City Joymakers
+    - George Lewis
+    - Sweet Emma Barrett
   influenced:
-  - Preservation Hall Jazz Band musicians
+    - Preservation Hall Jazz Band musicians
   mentors:
-  - Professor Jim Humphrey
+    - Professor Jim Humphrey
 related_artists: []
 spotify_data:
   followers: 4
   id: 7fMk4Zrt4jYSQRsNLJZ3ip
   popularity: 0
-  url: https://open.spotify.com/artist/7fMk4Zrt4jYSQRsNLJZ3ip
+  url: 'https://open.spotify.com/artist/7fMk4Zrt4jYSQRsNLJZ3ip'
   verified: false
 discography_enriched: true
 albums_count: 0
 singles_count: 0
 top_tracks:
-- Closer Walk With Thee / When The Saints Go Marching In (A New Orleans Jazz Party)
-- Milenburg Joys (A New Orleans Jazz Party)
-- 2.19 Blues (A New Orleans Jazz Party)
-- Wolverine Blues (A New Orleans Jazz Party)
-- Armand Hug Interview (A New Orleans Jazz Party)
-- Buzzards Parade (A New Orleans Jazz Party)
-- Bill Bailey Won't You Please Come Home (A New Orleans Jazz Party)
+  - >-
+    Closer Walk With Thee / When The Saints Go Marching In (A New Orleans Jazz
+    Party)
+  - Milenburg Joys (A New Orleans Jazz Party)
+  - 2.19 Blues (A New Orleans Jazz Party)
+  - Wolverine Blues (A New Orleans Jazz Party)
+  - Armand Hug Interview (A New Orleans Jazz Party)
+  - Buzzards Parade (A New Orleans Jazz Party)
+  - Bill Bailey Won't You Please Come Home (A New Orleans Jazz Party)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/7fMk4Zrt4jYSQRsNLJZ3ip
-  wikipedia: https://en.wikipedia.org/wiki/Percy_Humphrey
+  spotify: 'https://open.spotify.com/artist/7fMk4Zrt4jYSQRsNLJZ3ip'
+  wikipedia: 'https://en.wikipedia.org/wiki/Percy_Humphrey'
 image_path: null
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:01:43.730427'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://64parishes.org/entry/percy-humphrey
-- https://www.deseret.com/1995/7/23/19183637/jazz-musician-percy-humphrey-succumbs-at-90/
-- https://www.encyclopedia.com/arts/dictionaries-thesauruses-pictures-and-press-releases/humphrey-percy
+  - 'https://64parishes.org/entry/percy-humphrey'
+  - >-
+    https://www.deseret.com/1995/7/23/19183637/jazz-musician-percy-humphrey-succumbs-at-90/
+  - >-
+    https://www.encyclopedia.com/arts/dictionaries-thesauruses-pictures-and-press-releases/humphrey-percy
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:48:44.555314
+entry_created: 2025-09-22T21:48:44.555Z
 last_updated: '2025-12-23T08:16:03.555867'
+is_active: false
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![]()

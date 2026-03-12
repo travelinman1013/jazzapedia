@@ -1,218 +1,223 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-22T07:06:23.004231'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:06:23.004237'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6e6170a4-31c6-4cae-a3f9-f0db3b9f5892
-  spotify: https://open.spotify.com/artist/3ZeU30PhqVBalNYg2SFNZN
-  wikipedia: https://en.wikipedia.org/wiki/Fletcher_Henderson
+  musicbrainz: 'https://musicbrainz.org/artist/6e6170a4-31c6-4cae-a3f9-f0db3b9f5892'
+  spotify: 'https://open.spotify.com/artist/3ZeU30PhqVBalNYg2SFNZN'
+  wikipedia: 'https://en.wikipedia.org/wiki/Fletcher_Henderson'
 genres:
-- big band
-- swing music
-- ragtime
-- jazz
-image_path: 03_Resources/source_material/ArtistPortraits/fletcher_henderson_and_his_orchestra.jpg
+  - big band
+  - swing music
+  - ragtime
+  - jazz
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/fletcher_henderson_and_his_orchestra.jpg
 instruments:
-- tenor saxophone
-- trombone
-- clarinet
-- alto saxophone
-- drums (drum set)
-- trumpet
-- eponymous
-- original
-- piano
-- guitar
-- bass
-- cornet
-last_updated: '2026-01-22T07:06:23.004238'
-members:
-- begin: '1935'
-  end: '1937'
-  instruments:
   - tenor saxophone
-  mbid: bf4b276e-b71c-43d3-a943-1067706b7765
-  name: Leon “Chu” Berry
-- begin: ''
-  end: ''
-  instruments:
   - trombone
-  mbid: 0845db8e-7728-4689-a9d8-03726f26a342
-  name: Fernando Arbello
-- begin: ''
-  end: ''
-  instruments:
   - clarinet
-  mbid: 20a72e06-2568-4637-a283-1f99f81e82bb
-  name: Buster Bailey
-- begin: ''
-  end: ''
-  instruments:
   - alto saxophone
-  mbid: 7f0b30f6-bf17-4baf-8be3-2818f6043882
-  name: Scoops Carry
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 25cf5731-bed9-4604-97a4-8b9655de1a30
-  name: Benny Carter
-- begin: ''
-  end: ''
-  instruments:
   - drums (drum set)
-  mbid: 7f35e102-b02b-4e51-a1cf-9586b7f5e904
-  name: Sid Catlett
-- begin: ''
-  end: ''
-  instruments:
-  - trombone
-  mbid: 2c7fc8d4-a6ff-4d9c-9ffd-96d4fd7c8dba
-  name: Ed Cuffee
-- begin: ''
-  end: ''
-  instruments:
   - trumpet
-  mbid: 58234c8b-954e-4617-9c7e-4a8712f41a23
-  name: Roy Eldridge
-- begin: ''
-  end: ''
-  instruments:
-  - tenor saxophone
-  mbid: 5c8cb181-38fe-4300-8153-650b2ed0258f
-  name: Coleman Hawkins
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
   - piano
-  mbid: f47d1c94-c3e3-4c84-a42a-6c33e0032839
-  name: Fletcher Henderson
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: 463028f3-582b-455e-8d40-ffd04bf17089
-  name: Horace Henderson
-- begin: ''
-  end: ''
-  instruments:
   - guitar
-  mbid: ff0a1e7d-9d29-45f7-9f34-aabd85e7eabf
-  name: Clarence Holiday
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: db2979e6-c15c-4ed5-9a94-7dabb147b9be
-  name: Franz Jackson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0d08464c-5d26-4766-9079-a8cb260259f2
-  name: Elmer James
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2c2fd3d6-6450-4cfa-a12a-b0e41848e35f
-  name: Ralph "Shrimp" Jones
-- begin: ''
-  end: ''
-  instruments:
   - bass
-  mbid: 34866882-9929-4bb4-80ce-125958a6560b
-  name: John Kirby
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: 04ce08d7-1f21-4ada-90b3-3089554b9b3d
-  name: Tommy Ladnier
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: eda47971-43b4-4123-b2d0-f8e840645476
-  name: Bob Lessey
-- begin: ''
-  end: ''
-  instruments:
-  - trombone
-  mbid: a21a0f9e-89b9-42c4-83d7-8da1295fdef3
-  name: Fred Robinson
-- begin: ''
-  end: ''
-  instruments:
   - cornet
-  - trumpet
-  mbid: 85e93c46-e990-48bc-90e7-ddf6ce6524fe
-  name: Joe Smith
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: f2a854fd-738d-4a18-9eb9-9c0ba0d41668
-  name: Russell Smith
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: bd498989-0a7d-4e9b-ad5d-1f3ab1bb16cf
-  name: Dick Vance
-- begin: ''
-  end: ''
-  instruments:
-  - tenor saxophone
-  mbid: 6ba6a28d-18e1-40ce-bfc9-718d5dfc7e4a
-  name: Elmer Williams
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 32228393-b858-4886-80f1-1703a1044e1e
-  name: Edith Wilson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e0e5c6d9-f792-4bbb-940e-78d18838e196
-  name: Lena Wilson
+last_updated: '2026-01-22T07:06:23.004238'
+members:
+  - begin: '1935'
+    end: '1937'
+    instruments:
+      - tenor saxophone
+    mbid: bf4b276e-b71c-43d3-a943-1067706b7765
+    name: Leon “Chu” Berry
+  - begin: ''
+    end: ''
+    instruments:
+      - trombone
+    mbid: 0845db8e-7728-4689-a9d8-03726f26a342
+    name: Fernando Arbello
+  - begin: ''
+    end: ''
+    instruments:
+      - clarinet
+    mbid: 20a72e06-2568-4637-a283-1f99f81e82bb
+    name: Buster Bailey
+  - begin: ''
+    end: ''
+    instruments:
+      - alto saxophone
+    mbid: 7f0b30f6-bf17-4baf-8be3-2818f6043882
+    name: Scoops Carry
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 25cf5731-bed9-4604-97a4-8b9655de1a30
+    name: Benny Carter
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 7f35e102-b02b-4e51-a1cf-9586b7f5e904
+    name: Sid Catlett
+  - begin: ''
+    end: ''
+    instruments:
+      - trombone
+    mbid: 2c7fc8d4-a6ff-4d9c-9ffd-96d4fd7c8dba
+    name: Ed Cuffee
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: 58234c8b-954e-4617-9c7e-4a8712f41a23
+    name: Roy Eldridge
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: 5c8cb181-38fe-4300-8153-650b2ed0258f
+    name: Coleman Hawkins
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - piano
+    mbid: f47d1c94-c3e3-4c84-a42a-6c33e0032839
+    name: Fletcher Henderson
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: 463028f3-582b-455e-8d40-ffd04bf17089
+    name: Horace Henderson
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: ff0a1e7d-9d29-45f7-9f34-aabd85e7eabf
+    name: Clarence Holiday
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: db2979e6-c15c-4ed5-9a94-7dabb147b9be
+    name: Franz Jackson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0d08464c-5d26-4766-9079-a8cb260259f2
+    name: Elmer James
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2c2fd3d6-6450-4cfa-a12a-b0e41848e35f
+    name: Ralph "Shrimp" Jones
+  - begin: ''
+    end: ''
+    instruments:
+      - bass
+    mbid: 34866882-9929-4bb4-80ce-125958a6560b
+    name: John Kirby
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: 04ce08d7-1f21-4ada-90b3-3089554b9b3d
+    name: Tommy Ladnier
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: eda47971-43b4-4123-b2d0-f8e840645476
+    name: Bob Lessey
+  - begin: ''
+    end: ''
+    instruments:
+      - trombone
+    mbid: a21a0f9e-89b9-42c4-83d7-8da1295fdef3
+    name: Fred Robinson
+  - begin: ''
+    end: ''
+    instruments:
+      - cornet
+      - trumpet
+    mbid: 85e93c46-e990-48bc-90e7-ddf6ce6524fe
+    name: Joe Smith
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: f2a854fd-738d-4a18-9eb9-9c0ba0d41668
+    name: Russell Smith
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: bd498989-0a7d-4e9b-ad5d-1f3ab1bb16cf
+    name: Dick Vance
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: 6ba6a28d-18e1-40ce-bfc9-718d5dfc7e4a
+    name: Elmer Williams
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 32228393-b858-4886-80f1-1703a1044e1e
+    name: Edith Wilson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e0e5c6d9-f792-4bbb-940e-78d18838e196
+    name: Lena Wilson
 musical_connections:
   collaborators:
-  - Louis Armstrong
-  - Don Redman
-  - Coleman Hawkins
-  - Benny Carter
-  - Benny Goodman
-  - Roy Eldridge
+    - Louis Armstrong
+    - Don Redman
+    - Coleman Hawkins
+    - Benny Carter
+    - Benny Goodman
+    - Roy Eldridge
   influenced:
-  - Benny Goodman
-  - Louis Armstrong
-  - Coleman Hawkins
+    - Benny Goodman
+    - Louis Armstrong
+    - Coleman Hawkins
   mentors:
-  - None prominently documented
+    - None prominently documented
 musicbrainz_id: 6e6170a4-31c6-4cae-a3f9-f0db3b9f5892
 network_extracted: true
-origin: Cuthbert, Georgia, USA
+origin: 'Cuthbert, Georgia, USA'
 primary_source: perplexity
 research_sources:
-- https://www.jazzempowers.org/the-fletcher-henderson-orchestra
-- https://en.wikipedia.org/wiki/Fletcher_Henderson
-- https://www.ebsco.com/research-starters/history/fletcher-henderson
-- https://www.georgiaencyclopedia.org/articles/arts-culture/fletcher-henderson-1897-1952/
-- https://www.clevelandjazz.org/blog/the-leader-of-the-band
-- https://syncopatedtimes.com/profiles-in-jazz-fletcher-henderson/
-- https://wicn.org/wicn-artist-of-the-month-april-2023-fletcher-henderson/
-- https://www.britannica.com/biography/Fletcher-Henderson
+  - 'https://www.jazzempowers.org/the-fletcher-henderson-orchestra'
+  - 'https://en.wikipedia.org/wiki/Fletcher_Henderson'
+  - 'https://www.ebsco.com/research-starters/history/fletcher-henderson'
+  - >-
+    https://www.georgiaencyclopedia.org/articles/arts-culture/fletcher-henderson-1897-1952/
+  - 'https://www.clevelandjazz.org/blog/the-leader-of-the-band'
+  - 'https://syncopatedtimes.com/profiles-in-jazz-fletcher-henderson/'
+  - 'https://wicn.org/wicn-artist-of-the-month-april-2023-fletcher-henderson/'
+  - 'https://www.britannica.com/biography/Fletcher-Henderson'
 spotify_data:
   followers: 9333
   id: 3ZeU30PhqVBalNYg2SFNZN
   popularity: 24
-  url: https://open.spotify.com/artist/3ZeU30PhqVBalNYg2SFNZN
+  url: 'https://open.spotify.com/artist/3ZeU30PhqVBalNYg2SFNZN'
 status: active
 tags:
-- big band
-- jazz
-- swing
-title: FLETCHER HENDERSON AND HIS ORCHESTRA
+  - big band
+  - jazz
+  - swing
+title: Fletcher Henderson and His Orchestra
+birth_place: 'Cuthbert, Georgia, United States'
+birth_date: '1897-12-18'
+death_date: '1952-12-29'
 ---
 
 ![](fletcher_henderson_and_his_orchestra.jpg)

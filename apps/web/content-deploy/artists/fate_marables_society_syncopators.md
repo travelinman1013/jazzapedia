@@ -1,12 +1,13 @@
 ---
-title: FATE MARABLE'S SOCIETY SYNCOPATORS
+title: Fate Marable's Society Syncopators
 wiki_slug: fate-marables-society-syncopators
 schema_version: 2
 status: active
 genres:
-- ragtime
+  - ragtime
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/fate_marables_society_syncopators.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/fate_marables_society_syncopators.jpg
   caption: FATE MARABLE'S SOCIETY SYNCOPATORS
   background: solo_singer
 audio_profile:
@@ -20,48 +21,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Louis Armstrong
-  - Baby Dodds
-  - Johnny Dodds
-  - Zutty Singleton
-  - King Oliver
-  - Johnny St. Cyr
-  - Tommy Ladnier
-  - Red Allen
-  - Pops Foster
-  - Narvin Kimball
-  - Al Morgan
+    - Louis Armstrong
+    - Baby Dodds
+    - Johnny Dodds
+    - Zutty Singleton
+    - King Oliver
+    - Johnny St. Cyr
+    - Tommy Ladnier
+    - Red Allen
+    - Pops Foster
+    - Narvin Kimball
+    - Al Morgan
   influenced:
-  - Louis Armstrong
-  - Mary Lou Williams
-  - Earl 'Fatha' Hines
-  - Erroll Garner
-  - Billy Strayhorn
-  - Ahmad Jamal
+    - Louis Armstrong
+    - Mary Lou Williams
+    - Earl 'Fatha' Hines
+    - Erroll Garner
+    - Billy Strayhorn
+    - Ahmad Jamal
   mentors:
-  - Marable's Mother
+    - Marable's Mother
 spotify_data:
   followers: 0
   id: 7wk56K7q61Vl0hTS1g7kDs
   popularity: 0
-  url: https://open.spotify.com/artist/7wk56K7q61Vl0hTS1g7kDs
+  url: 'https://open.spotify.com/artist/7wk56K7q61Vl0hTS1g7kDs'
 discography_enriched: true
 external_urls:
-  spotify: https://open.spotify.com/artist/7wk56K7q61Vl0hTS1g7kDs
-  wikipedia: https://en.wikipedia.org/wiki/Fate_Marable
+  spotify: 'https://open.spotify.com/artist/7wk56K7q61Vl0hTS1g7kDs'
+  wikipedia: 'https://en.wikipedia.org/wiki/Fate_Marable'
 image_path: ''
 biography_enhanced_at: '2025-11-06T13:23:24.332879'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://oldmonmusic.blogspot.com/2011/09/
-- https://www.last.fm/music/Fate+Marable's+Society+Syncopators/+wiki
-- https://syncopatedtimes.com/fate-marable-1890-1947/
-- https://syncopatedtimes.com/fate-marables-society-syncopators/
+  - 'http://oldmonmusic.blogspot.com/2011/09/'
+  - 'https://www.last.fm/music/Fate+Marable''s+Society+Syncopators/+wiki'
+  - 'https://syncopatedtimes.com/fate-marable-1890-1947/'
+  - 'https://syncopatedtimes.com/fate-marables-society-syncopators/'
 network_extracted: true
 entry_created: '2025-11-06T13:23:24.332909'
 last_updated: '2025-12-23T08:16:08.587986'
-origin: Paducah, Kentucky, United States
+origin: 'Paducah, Kentucky, United States'
+birth_place: 'Paducah, Kentucky, United States'
+birth_date: '1890'
+artist_type: person
 ---
 
 ![]()

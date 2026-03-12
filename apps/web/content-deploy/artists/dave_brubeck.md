@@ -5,47 +5,47 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1920-12-06'
-birth_place: Concord
+birth_place: 'Concord, California, United States'
 death_date: '2012-12-05'
 genres:
-- jazz
-- cool jazz
+  - jazz
+  - cool jazz
 instruments:
-- eponymous
-- original
-- piano
-- electric piano
-- spoken vocals
-associated_acts:
-- begin: '1951'
-  end: '1967'
-  instruments:
   - eponymous
   - original
   - piano
-  mbid: 7bf711e9-4e69-4e08-b6e8-c0cb5805f1e7
-  name: The Dave Brubeck Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 3ee27b5e-26ce-45ea-ab6c-2beb6cc68f3d
-  name: The New Brubeck Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 012ed1d7-3a4a-499a-85f8-f7b84fd36538
-  name: The Dave Brubeck Trio
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: aa24efb7-e092-4817-a4be-685157f7468a
-  name: The Dave Brubeck Octet
+  - electric piano
+  - spoken vocals
+associated_acts:
+  - begin: '1951'
+    end: '1967'
+    instruments:
+      - eponymous
+      - original
+      - piano
+    mbid: 7bf711e9-4e69-4e08-b6e8-c0cb5805f1e7
+    name: The Dave Brubeck Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 3ee27b5e-26ce-45ea-ab6c-2beb6cc68f3d
+    name: The New Brubeck Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 012ed1d7-3a4a-499a-85f8-f7b84fd36538
+    name: The Dave Brubeck Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: aa24efb7-e092-4817-a4be-685157f7468a
+    name: The Dave Brubeck Octet
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/dave_brubeck.jpg
   caption: Dave Brubeck
@@ -68,57 +68,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Paul Desmond
-  - Eugene Wright
-  - Joe Morello
-  - Cal Tjader
+    - Paul Desmond
+    - Eugene Wright
+    - Joe Morello
+    - Cal Tjader
   influenced:
-  - Chick Corea
-  - Keith Jarrett
-  - Herbie Hancock
+    - Chick Corea
+    - Keith Jarrett
+    - Herbie Hancock
   mentors:
-  - Darius Milhaud
-  - Arnold Schoenberg
+    - Darius Milhaud
+    - Arnold Schoenberg
 spotify_data:
   followers: 443578
   id: 3kUKwTJdH8FuWzF8p6Dg9E
   popularity: 47
-  url: https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E
+  url: 'https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E'
 discography_enriched: true
 top_tracks:
-- Besame Mucho
-- Take Five
-- Take Five
-- Audrey (Love Songs)
-- I'm in a Dancing Mood
-- Unsquare Dance
-- 'Take Five (I Like Jazz: The Essence Of Dave Brubeck)'
-- Besame Mucho (Love Songs)
-- 'Take Five - Studio Rio Version (Studio Rio Presents: The Brazil Connection)'
-- 'Summer Song (1975: The Duets)'
+  - Besame Mucho
+  - Take Five
+  - Take Five
+  - Audrey (Love Songs)
+  - I'm in a Dancing Mood
+  - Unsquare Dance
+  - 'Take Five (I Like Jazz: The Essence Of Dave Brubeck)'
+  - Besame Mucho (Love Songs)
+  - 'Take Five - Studio Rio Version (Studio Rio Presents: The Brazil Connection)'
+  - 'Summer Song (1975: The Duets)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/de0222a6-e1c4-403d-8b01-3f66d505061b
-  spotify: https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E
-  wikipedia: https://en.wikipedia.org/wiki/Dave_Brubeck
+  musicbrainz: 'https://musicbrainz.org/artist/de0222a6-e1c4-403d-8b01-3f66d505061b'
+  spotify: 'https://open.spotify.com/artist/3kUKwTJdH8FuWzF8p6Dg9E'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dave_Brubeck'
 image_path: 03_Resources/source_material/ArtistPortraits/dave_brubeck.jpg
 biography_enhanced_at: '2025-11-01T15:33:23.537768'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.davebrubeck.com/biography
-- https://www.arts.gov/honors/jazz/dave-brubeck
-- https://en.wikipedia.org/wiki/Dave_Brubeck
-- https://www.britannica.com/biography/Dave-Brubeck
-- https://www.bechstein.com/en/the-world-of-bechstein/pianists/dave-brubeck/
+  - 'https://www.davebrubeck.com/biography'
+  - 'https://www.arts.gov/honors/jazz/dave-brubeck'
+  - 'https://en.wikipedia.org/wiki/Dave_Brubeck'
+  - 'https://www.britannica.com/biography/Dave-Brubeck'
+  - 'https://www.bechstein.com/en/the-world-of-bechstein/pianists/dave-brubeck/'
 network_extracted: true
 entry_created: '2025-11-01T15:33:23.537783'
 last_updated: '2025-12-23T08:16:07.489071'
 gender: Male
 musicbrainz_id: de0222a6-e1c4-403d-8b01-3f66d505061b
 tags:
-- 2008 universal fire victim
-- american
-- classical
+  - 2008 universal fire victim
+  - american
+  - classical
+is_active: false
 ---
 
 ![](dave_brubeck.jpg)

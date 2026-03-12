@@ -2,14 +2,14 @@
 title: Fruko y Sus Tesos
 wiki_slug: fruko-y-sus-tesos
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1970'
 genres:
-- merengue
-- salsa
-- salsa romantica
-- tropical music
+  - merengue
+  - salsa
+  - salsa romantica
+  - tropical music
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/fruko_y_sus_tesos.jpg
   caption: Fruko y Sus Tesos
@@ -30,79 +30,81 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Wilson Manyoma “Saoko”
-  - Álvaro “Piper Pimienta” Díaz
-  - Álvaro José “Joe” Arroyo
-  - The Latin Brothers
-  - La Sonora Dinamita, Afrosound, Wganda Kenya, Banda Bocana
+    - Wilson Manyoma “Saoko”
+    - Álvaro “Piper Pimienta” Díaz
+    - Álvaro José “Joe” Arroyo
+    - The Latin Brothers
+    - 'La Sonora Dinamita, Afrosound, Wganda Kenya, Banda Bocana'
   influenced:
-  - Álvaro José “Joe” Arroyo
-  - Álvaro “Piper Pimienta” Díaz
-  - Wilson Manyoma “Saoko”
-  - Juan Carlos Coronel
-  - Younger Colombian salsa and tropical bands
+    - Álvaro José “Joe” Arroyo
+    - Álvaro “Piper Pimienta” Díaz
+    - Wilson Manyoma “Saoko”
+    - Juan Carlos Coronel
+    - Younger Colombian salsa and tropical bands
   mentors:
-  - Calixto Ochoa
-  - Alfredo Gutiérrez
-  - Lisandro Meza
-  - Héctor Lavoe, Willie Colón, Richie Ray & Bobby Cruz (New York salsa scene)
+    - Calixto Ochoa
+    - Alfredo Gutiérrez
+    - Lisandro Meza
+    - 'Héctor Lavoe, Willie Colón, Richie Ray & Bobby Cruz (New York salsa scene)'
 spotify_data:
   followers: 444980
   id: 5aAlzehdUM14I4ppq24Xob
   popularity: 58
-  url: https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob
+  url: 'https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob'
 discography_enriched: true
 top_tracks:
-- El Preso (Éxitos Fruko)
-- Cachondea (Éxitos Fruko)
-- El Preso (Fruko el Grande)
-- Cachondea (Descarga Espectacular)
-- 'El Ausente (Fruko El Bueno: Ayunando)'
-- El Son del Tren (Éxitos Fruko)
-- El Preso
-- Cachondea (14 Cañonazos Bailables 2001)
-- Los Charcos (Éxitos Fruko)
-- Manyoma
+  - El Preso (Éxitos Fruko)
+  - Cachondea (Éxitos Fruko)
+  - El Preso (Fruko el Grande)
+  - Cachondea (Descarga Espectacular)
+  - 'El Ausente (Fruko El Bueno: Ayunando)'
+  - El Son del Tren (Éxitos Fruko)
+  - El Preso
+  - Cachondea (14 Cañonazos Bailables 2001)
+  - Los Charcos (Éxitos Fruko)
+  - Manyoma
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ee0552e7-de2b-4fc2-8739-9c33a905c3e7
-  spotify: https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob
-  wikipedia: https://es.wikipedia.org/wiki/Fruko_y_sus_Tesos
+  musicbrainz: 'https://musicbrainz.org/artist/ee0552e7-de2b-4fc2-8739-9c33a905c3e7'
+  spotify: 'https://open.spotify.com/artist/5aAlzehdUM14I4ppq24Xob'
+  wikipedia: 'https://es.wikipedia.org/wiki/Fruko_y_sus_Tesos'
 image_path: 03_Resources/source_material/ArtistPortraits/fruko_y_sus_tesos.jpg
 biography_enhanced_at: '2025-12-07T04:39:22.126511'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://es.wikipedia.org/wiki/Fruko_y_sus_Tesos
-- http://www.senalcolombia.tv/cultura/fruko-y-sus-tesos-historia
-- https://www.radiocentro.net/biografia/fruko-y-sus-tesos/
-- https://www.genterosa.com/fruko-y-sus-tesos-celebran-60-anos-de-historia-como-referente-de-lasalsa-a-nivel-mundial/
-- https://caracol.com.co/2024/03/22/quien-es-fruko-la-historia-del-apodo-de-fruko-y-sus-tesos-lisandro-meza-me-bautizo/
-- http://old.latinastereo.com/html/genteLatina/salseroMes/Fruko/Default.shtm
+  - 'https://es.wikipedia.org/wiki/Fruko_y_sus_Tesos'
+  - 'http://www.senalcolombia.tv/cultura/fruko-y-sus-tesos-historia'
+  - 'https://www.radiocentro.net/biografia/fruko-y-sus-tesos/'
+  - >-
+    https://www.genterosa.com/fruko-y-sus-tesos-celebran-60-anos-de-historia-como-referente-de-lasalsa-a-nivel-mundial/
+  - >-
+    https://caracol.com.co/2024/03/22/quien-es-fruko-la-historia-del-apodo-de-fruko-y-sus-tesos-lisandro-meza-me-bautizo/
+  - 'http://old.latinastereo.com/html/genteLatina/salseroMes/Fruko/Default.shtm'
 network_extracted: true
 entry_created: '2025-12-07T04:39:22.126516'
 last_updated: '2025-12-23T08:16:08.896723'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 425e7ae3-73a4-482f-b8e6-7515ad70025d
-  name: Fernando Martínez
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 64c69f29-f3f7-4dae-bd1b-84b429be43fe
-  name: Joe Arroyo
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4ca93915-afed-443f-ad6a-7b556c30c85d
-  name: Wilson "Saoko" Manyoma
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 425e7ae3-73a4-482f-b8e6-7515ad70025d
+    name: Fernando Martínez
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 64c69f29-f3f7-4dae-bd1b-84b429be43fe
+    name: Joe Arroyo
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4ca93915-afed-443f-ad6a-7b556c30c85d
+    name: Wilson "Saoko" Manyoma
 musicbrainz_id: ee0552e7-de2b-4fc2-8739-9c33a905c3e7
-origin: Medellín, Antioquia, Colombia
+origin: 'Medellín, Antioquia, Colombia'
 tags:
-- bolero
-- latin
-- salsa
+  - bolero
+  - latin
+  - salsa
 ---
 
 ![](fruko_y_sus_tesos.jpg)

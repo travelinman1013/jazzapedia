@@ -3,31 +3,32 @@ biography_enhanced_at: '2026-01-04T01:56:08.298407'
 enhancement_provider: perplexity
 entry_created: '2026-01-04T01:56:08.298413'
 external_urls:
-  spotify: https://open.spotify.com/artist/5eOwL0MQa3lCrASleoTdAy
-  wikipedia: https://en.wikipedia.org/wiki/Beoga
+  spotify: 'https://open.spotify.com/artist/5eOwL0MQa3lCrASleoTdAy'
+  wikipedia: 'https://en.wikipedia.org/wiki/Beoga'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/beagas_band.jpg
 last_updated: '2026-01-04T01:56:08.298414'
 musical_connections:
   collaborators:
-  - Ed Sheeran
+    - Ed Sheeran
   influenced: []
   mentors: []
 network_extracted: true
-origin: County Kerry, Ireland (formed); Northern Ireland and Limerick origins
+origin: 'County Kerry, Ireland (formed); Northern Ireland and Limerick origins'
 primary_source: perplexity
 research_sources:
-- http://irishmusicdb.com/b/beoga/band_biography.htm
-- https://en.wikipedia.org/wiki/Beoga
-- https://www.chordblossom.com/interviews/interview-beoga
-- http://www.beogamusic.com/about
+  - 'http://irishmusicdb.com/b/beoga/band_biography.htm'
+  - 'https://en.wikipedia.org/wiki/Beoga'
+  - 'https://www.chordblossom.com/interviews/interview-beoga'
+  - 'http://www.beogamusic.com/about'
 spotify_data:
   followers: 11
   id: 5eOwL0MQa3lCrASleoTdAy
   popularity: 0
-  url: https://open.spotify.com/artist/5eOwL0MQa3lCrASleoTdAy
+  url: 'https://open.spotify.com/artist/5eOwL0MQa3lCrASleoTdAy'
 status: active
 title: Beaga's Band
+artist_type: band
 ---
 
 ![](beagas_band.jpg)

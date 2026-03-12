@@ -2,17 +2,17 @@
 title: NADUH
 wiki_slug: naduh
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- malay
-- indonesian pop
+  - malay
+  - indonesian pop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/naduh.jpg
   caption: NADUH
   background: group_or_band
 audio_profile:
-  tempo_avg: 121.0
+  tempo_avg: 121
   energy_avg: 0.43
   valence_avg: 0.362
   danceability_avg: 0.478
@@ -26,47 +26,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - NADUH Band Members
+    - NADUH Band Members
   influenced:
-  - Emerging Femme and Non-Binary Artists in Vancouver
+    - Emerging Femme and Non-Binary Artists in Vancouver
   mentors:
-  - 90s R&B and Hip Hop Artists
+    - 90s R&B and Hip Hop Artists
 spotify_data:
   followers: 2060848
   id: 6UgERnTHmjk3qXM9x5vzyO
   popularity: 72
-  url: https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO
+  url: 'https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO'
 discography_enriched: true
 top_tracks:
-- penjaga hati (penjaga hati)
-- penjaga hati (Nadhif)
-- bergema sampai selamanya (bergema sampai selamanya)
-- bergema sampai selamanya (Nadhif (laman berikutnya))
-- jatuh cinta lagi (Nadhif)
-- semoga kau bisa maafkanku beribu kali (Nadhif (laman berikutnya))
-- bergema sampai selamanya - Stripped Version (Nadhif (laman berikutnya))
-- After School Sad Session (After School Sad Session)
-- masih ada waktunya (Nadhif (laman berikutnya))
-- Never Let You Go - From "Mozachiko" (Never Let You Go (From "Mozachiko"))
+  - penjaga hati (penjaga hati)
+  - penjaga hati (Nadhif)
+  - bergema sampai selamanya (bergema sampai selamanya)
+  - bergema sampai selamanya (Nadhif (laman berikutnya))
+  - jatuh cinta lagi (Nadhif)
+  - semoga kau bisa maafkanku beribu kali (Nadhif (laman berikutnya))
+  - bergema sampai selamanya - Stripped Version (Nadhif (laman berikutnya))
+  - After School Sad Session (After School Sad Session)
+  - masih ada waktunya (Nadhif (laman berikutnya))
+  - Never Let You Go - From "Mozachiko" (Never Let You Go (From "Mozachiko"))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/bc708ead-14a5-4710-9ea4-c9a2b88dd1dd
-  spotify: https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO
+  musicbrainz: 'https://musicbrainz.org/artist/bc708ead-14a5-4710-9ea4-c9a2b88dd1dd'
+  spotify: 'https://open.spotify.com/artist/6UgERnTHmjk3qXM9x5vzyO'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/naduh.jpg
 biography_enhanced_at: '2025-11-24T08:44:21.009099'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.itsnaduh.com/about
-- https://sunshinemusicfest.ca/performer-bios/naduh/
-- https://musicotfuture.com/2020/09/18/introducing-newly-formed-vancouver-based-five-piece-naduh-get-the-low-down-about-who-they-are-what-their-music-is-about-and-more-in-our-chat-here/
-- https://open.spotify.com/artist/5voTUw1S7gRACJXVp3slwh
+  - 'https://www.itsnaduh.com/about'
+  - 'https://sunshinemusicfest.ca/performer-bios/naduh/'
+  - >-
+    https://musicotfuture.com/2020/09/18/introducing-newly-formed-vancouver-based-five-piece-naduh-get-the-low-down-about-who-they-are-what-their-music-is-about-and-more-in-our-chat-here/
+  - 'https://open.spotify.com/artist/5voTUw1S7gRACJXVp3slwh'
 network_extracted: true
 entry_created: '2025-11-24T08:44:21.009110'
 last_updated: '2025-12-23T08:16:13.395694'
 musicbrainz_id: bc708ead-14a5-4710-9ea4-c9a2b88dd1dd
-origin: Vancouver, British Columbia, Canada
-
+origin: 'Vancouver, British Columbia, Canada'
 ---
 
 ![](naduh.jpg)

@@ -4,7 +4,7 @@ wiki_slug: thee-dirty-rats
 schema_version: 2
 status: active
 genres:
-- garage rock
+  - garage rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/thee_dirty_rats.jpg
   caption: Thee Dirty Rats
@@ -24,43 +24,44 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Rat Caesar
-  - Fernando Hitman
-  - Luis Tissot
+    - Rat Caesar
+    - Fernando Hitman
+    - Luis Tissot
   influenced: []
   mentors: []
 spotify_data:
   followers: 298
   id: 2BZftfrzJDAuSLLSGqXPW4
   popularity: 0
-  url: https://open.spotify.com/artist/2BZftfrzJDAuSLLSGqXPW4
+  url: 'https://open.spotify.com/artist/2BZftfrzJDAuSLLSGqXPW4'
 discography_enriched: true
 top_tracks:
-- Bacterial Bop (Humans Out)
-- Let's Fight (Humans Out)
-- Can Ya Dig It? (Traps and Mass Confusion)
-- Necessary Evil (Traps and Mass Confusion)
-- Disintegrate (You Didn't Think We Could Take It! a Tribute to Subsonics)
-- The Universe Is Chaos (Humans Out)
-- Modern Disease (Humans Out)
-- T.D.R. Will Blow Yr Mind (Humans Out)
-- Oh Oh (Humans Out)
-- Crooked Die (F_ck The Game) (Humans Out)
+  - Bacterial Bop (Humans Out)
+  - Let's Fight (Humans Out)
+  - Can Ya Dig It? (Traps and Mass Confusion)
+  - Necessary Evil (Traps and Mass Confusion)
+  - Disintegrate (You Didn't Think We Could Take It! a Tribute to Subsonics)
+  - The Universe Is Chaos (Humans Out)
+  - Modern Disease (Humans Out)
+  - T.D.R. Will Blow Yr Mind (Humans Out)
+  - Oh Oh (Humans Out)
+  - Crooked Die (F_ck The Game) (Humans Out)
 external_urls:
-  spotify: https://open.spotify.com/artist/2BZftfrzJDAuSLLSGqXPW4
+  spotify: 'https://open.spotify.com/artist/2BZftfrzJDAuSLLSGqXPW4'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/thee_dirty_rats.jpg
 biography_enhanced_at: '2025-12-23T02:07:39.008277'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://theedirtyrats.bandcamp.com/album/the-fine-art-of-poisoning-1-2-ep
-- https://theedirtyrats.bandcamp.com/track/whos-the-man-behind-the-rat
-- https://www.liveeyetv.org/2020/08/watch-thee-dirty-rats-bacterial-bop/
+  - 'https://theedirtyrats.bandcamp.com/album/the-fine-art-of-poisoning-1-2-ep'
+  - 'https://theedirtyrats.bandcamp.com/track/whos-the-man-behind-the-rat'
+  - 'https://www.liveeyetv.org/2020/08/watch-thee-dirty-rats-bacterial-bop/'
 network_extracted: true
 entry_created: '2025-12-23T02:07:39.008295'
 last_updated: '2025-12-23T08:16:17.324784'
-origin: São Paulo, Brazil
+origin: 'São Paulo, Brazil'
+artist_type: band
 ---
 
 ![](thee_dirty_rats.jpg)

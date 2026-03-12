@@ -3,20 +3,20 @@ title: Melanie Fiona
 wiki_slug: melanie-fiona
 schema_version: 2
 status: active
-birth_place: Toronto, Ontario, Canada
+birth_place: 'Toronto, Ontario, Canada'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/melanie_fiona.jpg
   caption: Melanie Fiona
   background: solo_singer
-  origin: Toronto, Ontario, Canada
+  origin: 'Toronto, Ontario, Canada'
 audio_profile:
   tempo_avg: 114.9
   energy_avg: 0.65
   valence_avg: 0.628
   danceability_avg: 0.612
   acousticness_avg: 0.18
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -5.9
   speechiness_avg: 0.092
   liveness_avg: 0.168
@@ -25,49 +25,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - X-Quisite
-  - Salaam Remi
-  - Future Cut
-  - Kanye West
-  - Alicia Keys
+    - X-Quisite
+    - Salaam Remi
+    - Future Cut
+    - Kanye West
+    - Alicia Keys
   influenced: []
   mentors:
-  - Parents
-  - Steve Rifkind
-  - Jay-Z
+    - Parents
+    - Steve Rifkind
+    - Jay-Z
 spotify_data:
   followers: 868337
   id: 4O2YL4ygn6eTBC0w1hyWUM
   popularity: 49
-  url: https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM
+  url: 'https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM'
 discography_enriched: true
 top_tracks:
-- Monday Morning (The Bridge)
-- It Kills Me (The Bridge)
-- 4AM (The MF Life (Deluxe Version))
-- 'No Cigarette Smoking (In My Room) (Revelation Part 1: The Root Of Life)'
-- Fool for You
-- Wake up Everybody (feat. Common & Melanie Fiona) (Wake Up!)
-- Mona Lisa Smile
-- Give It To Me Right (The Bridge)
-- Monday Morning
-- Beautiful Bliss (Attention Deficit (Explicit Version))
+  - Monday Morning (The Bridge)
+  - It Kills Me (The Bridge)
+  - 4AM (The MF Life (Deluxe Version))
+  - 'No Cigarette Smoking (In My Room) (Revelation Part 1: The Root Of Life)'
+  - Fool for You
+  - Wake up Everybody (feat. Common & Melanie Fiona) (Wake Up!)
+  - Mona Lisa Smile
+  - Give It To Me Right (The Bridge)
+  - Monday Morning
+  - Beautiful Bliss (Attention Deficit (Explicit Version))
 external_urls:
-  spotify: https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM
+  spotify: 'https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/melanie_fiona.jpg
 biography_enhanced_at: '2025-12-17T02:14:14.034780'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.aceshowbiz.com/celebrity/melanie_fiona/biography.html
-- https://www.theaudiodb.com/artist/132379-Melanie-Fiona
-- https://www.imdb.com/name/nm3560621/
-- https://community.thriveglobal.com/melanie-fiona-turned-trauma-into-healing/
-- https://www.allamericanspeakers.com/speakers/422330/Melanie-Fiona
+  - 'https://www.aceshowbiz.com/celebrity/melanie_fiona/biography.html'
+  - 'https://www.theaudiodb.com/artist/132379-Melanie-Fiona'
+  - 'https://www.imdb.com/name/nm3560621/'
+  - 'https://community.thriveglobal.com/melanie-fiona-turned-trauma-into-healing/'
+  - 'https://www.allamericanspeakers.com/speakers/422330/Melanie-Fiona'
 network_extracted: true
 entry_created: '2025-12-17T02:14:14.034792'
 last_updated: '2025-12-23T08:16:12.921847'
+birth_date: '1983-07-04'
+artist_type: person
 ---
 
 ![](melanie_fiona.jpg)

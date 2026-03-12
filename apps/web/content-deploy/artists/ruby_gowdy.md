@@ -5,13 +5,13 @@ birth_place: United States
 enhancement_provider: perplexity
 entry_created: '2026-01-15T01:18:07.395985'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3a6c74ec-faa0-4c56-b78c-3ef5978769ce
-  spotify: https://open.spotify.com/artist/1NfCksUJ9fq4ItjdkMu4R4
+  musicbrainz: 'https://musicbrainz.org/artist/3a6c74ec-faa0-4c56-b78c-3ef5978769ce'
+  spotify: 'https://open.spotify.com/artist/1NfCksUJ9fq4ItjdkMu4R4'
   wikipedia: ''
 gender: Female
 genres:
-- classic blues
-- ragtime
+  - classic blues
+  - ragtime
 image_path: ''
 last_updated: '2026-01-15T01:18:07.395986'
 musical_connections:
@@ -22,16 +22,16 @@ musicbrainz_id: 3a6c74ec-faa0-4c56-b78c-3ef5978769ce
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.jstor.org/stable/4500304
-- https://sundayblues.org/?tag=ruby-gowdy
-- https://open.spotify.com/artist/1NfCksUJ9fq4ItjdkMu4R4
+  - 'https://www.jstor.org/stable/4500304'
+  - 'https://sundayblues.org/?tag=ruby-gowdy'
+  - 'https://open.spotify.com/artist/1NfCksUJ9fq4ItjdkMu4R4'
 spotify_data:
   followers: 7
   id: 1NfCksUJ9fq4ItjdkMu4R4
   popularity: 0
-  url: https://open.spotify.com/artist/1NfCksUJ9fq4ItjdkMu4R4
+  url: 'https://open.spotify.com/artist/1NfCksUJ9fq4ItjdkMu4R4'
 status: active
-title: RUBY GOWDY
+title: Ruby Gowdy
 ---
 
 ![]()

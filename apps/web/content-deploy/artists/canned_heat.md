@@ -1,28 +1,28 @@
 ---
-title: canned heat
+title: Canned Heat
 wiki_slug: canned-heat
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
-birth_date: '1965'
+birth_date: '1943-07-04'
 genres:
-- blues
-- blues rock
-- classic blues
+  - blues
+  - blues rock
+  - classic blues
 instruments:
-- guitar
-- additional
-- membranophone
-- original
-- bass guitar
-- drums (drum set)
-- harmonica
-- lead vocals
-- guitar family
-- keyboard
-- trombone
-- saxophone
-- flute
+  - guitar
+  - additional
+  - membranophone
+  - original
+  - bass guitar
+  - drums (drum set)
+  - harmonica
+  - lead vocals
+  - guitar family
+  - keyboard
+  - trombone
+  - saxophone
+  - flute
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/canned_heat.jpg
   caption: canned heat
@@ -43,489 +43,491 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Alan Wilson
-  - Bob Hite
-  - Henry Vestine
-  - Harvey Mandel
-  - Larry Taylor
-  - Adolfo de la Parra
-  - Walter Trout
-  - James Thornbury
+    - Alan Wilson
+    - Bob Hite
+    - Henry Vestine
+    - Harvey Mandel
+    - Larry Taylor
+    - Adolfo de la Parra
+    - Walter Trout
+    - James Thornbury
   influenced:
-  - Rock and Blues Audiences
+    - Rock and Blues Audiences
   mentors:
-  - Tommy Johnson
-  - John Lee Hooker
-  - Sunnyland Slim
+    - Tommy Johnson
+    - John Lee Hooker
+    - Sunnyland Slim
 spotify_data:
   followers: 672318
   id: 27a0GiCba9K9lnkKidroFU
   popularity: 55
-  url: https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU
+  url: 'https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU'
 discography_enriched: true
 top_tracks:
-- Going Up The Country
-- On the Road Again (On the Road Again)
-- Going Up The Country (On The Road Again)
-- Let's Work Together (Future Blues (Expanded Edition))
-- On The Road Again
-- Time Was (Hallelujah)
-- Let's Work Together (Future Blues (Expanded Edition))
-- On the Road Again (Canned Heat)
-- On The Road Again (Boogie With Canned Heat)
-- Bullfrog Blues (Canned Heat)
+  - Going Up The Country
+  - On the Road Again (On the Road Again)
+  - Going Up The Country (On The Road Again)
+  - Let's Work Together (Future Blues (Expanded Edition))
+  - On The Road Again
+  - Time Was (Hallelujah)
+  - Let's Work Together (Future Blues (Expanded Edition))
+  - On the Road Again (Canned Heat)
+  - On The Road Again (Boogie With Canned Heat)
+  - Bullfrog Blues (Canned Heat)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/815a0279-558c-4522-ac3b-6a1e259e95b5
-  spotify: https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU
-  wikipedia: https://en.wikipedia.org/wiki/Canned_Heat
+  musicbrainz: 'https://musicbrainz.org/artist/815a0279-558c-4522-ac3b-6a1e259e95b5'
+  spotify: 'https://open.spotify.com/artist/27a0GiCba9K9lnkKidroFU'
+  wikipedia: 'https://en.wikipedia.org/wiki/Canned_Heat'
 image_path: 03_Resources/source_material/ArtistPortraits/canned_heat.jpg
 biography_enhanced_at: '2025-11-27T06:36:52.273207'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Canned Heat
-- Last.fm - Canned Heat
-- uDiscoverMusic - Blind Owl's Blues And The Story Of Canned Heat
-- 'Bethel Woods Center - Canned Heat: 50 Years of Peace & Music'
-- Canned Heat Official Website
-- 'Louder Sound - Canned Heat: the badass blues band that death couldn''t kill'
-- 'American Songwriter - Behind the Band Name: How a Blues Standard Inspired the Name Canned Heat'
+  - Wikipedia - Canned Heat
+  - Last.fm - Canned Heat
+  - uDiscoverMusic - Blind Owl's Blues And The Story Of Canned Heat
+  - 'Bethel Woods Center - Canned Heat: 50 Years of Peace & Music'
+  - Canned Heat Official Website
+  - 'Louder Sound - Canned Heat: the badass blues band that death couldn''t kill'
+  - >-
+    American Songwriter - Behind the Band Name: How a Blues Standard Inspired
+    the Name Canned Heat
 network_extracted: true
 entry_created: '2025-11-27T06:36:52.273221'
 last_updated: '2025-12-23T08:16:06.366506'
 members:
-- begin: '1965'
-  end: '1965'
-  instruments:
-  - guitar
-  mbid: 7b01f6bf-8ca4-4b85-9df0-d0b1be0fed8c
-  name: Kenny Edwards
-- begin: '1965'
-  end: '1965'
-  instruments:
-  - additional
-  - membranophone
-  mbid: c85171ed-4286-4db3-9f27-45d2fecb03d3
-  name: Ron Holmes
-- begin: '1965'
-  end: '1965'
-  instruments:
-  - guitar
-  - original
-  mbid: e5bc3cc6-c5de-4b01-9bfa-656f17ff9e82
-  name: Mike Perlowin
-- begin: '1965'
-  end: '1965'
-  instruments:
-  - membranophone
-  - original
-  mbid: 07ed8d42-7fe6-4a05-9c4a-aa459ec28622
-  name: Keith Sawyer
-- begin: '1965'
-  end: '1966'
-  instruments:
-  - bass guitar
-  - original
-  mbid: ef8db165-227d-4e95-bd48-9cc7c0dabf77
-  name: Stuart Brotman
-- begin: '1965'
-  end: '1967'
-  instruments:
-  - drums (drum set)
-  mbid: 48f19309-330b-4d05-8961-87d30278759d
-  name: Frank Cook
-- begin: '1965'
-  end: '1969'
-  instruments:
-  - guitar
-  mbid: 87f1d57c-6197-4d54-89a8-311122526225
-  name: Henry Vestine
-- begin: '1965'
-  end: '1970'
-  instruments:
-  - guitar
-  - harmonica
-  - lead vocals
-  - original
-  mbid: a86e10f7-8ec8-457d-af00-9d584a738a1f
-  name: Alan Wilson
-- begin: '1965'
-  end: '1971'
-  instruments:
-  - lead vocals
-  - original
-  mbid: 6bedd038-dfb9-433a-8700-d75373748bbe
-  name: Bob Hite
-- begin: '1966'
-  end: '1967'
-  instruments:
-  - bass guitar
-  mbid: 91470a46-d262-4dd8-919e-c0a978b9f02e
-  name: Mark Andes
-- begin: '1967'
-  end: 1970-05
-  instruments:
-  - bass guitar
-  - guitar
-  - lead vocals
-  mbid: b7b64a41-f7cb-4266-9fad-eb28fc6aaf0b
-  name: Larry Taylor
-- &id001
-  begin: '1967'
-  end: ''
-  instruments:
-  - lead vocals
-  - membranophone
-  mbid: 75a90c17-de5e-48b1-9e17-93bcc7c5d3b7
-  name: Fito de la Parra
-- begin: '1969'
-  end: '1971'
-  instruments:
-  - guitar family
-  mbid: e3cd8c79-46bc-481f-905f-480847ada894
-  name: Harvey Mandel
-- begin: '1970'
-  end: '1972'
-  instruments:
-  - bass guitar
-  mbid: fcf5fdf8-d303-4a04-9a9f-96e4e7cc0398
-  name: Antonio de la Barreda
-- begin: '1970'
-  end: '1972'
-  instruments:
-  - guitar
-  mbid: d3736e65-5b85-45aa-9750-18ae8c469f40
-  name: Joel Scott Hill
-- begin: '1970'
-  end: '1974'
-  instruments:
-  - guitar
-  mbid: 87f1d57c-6197-4d54-89a8-311122526225
-  name: Henry Vestine
-- begin: '1972'
-  end: '1974'
-  instruments:
-  - keyboard
-  mbid: a4b35344-e2c7-416c-801f-9709c83a9d94
-  name: Ed Beyer
-- begin: '1972'
-  end: '1974'
-  instruments:
-  - guitar
-  mbid: 4e51b45c-38b3-4364-bb30-a509913a6bcc
-  name: James Shane
-- begin: '1972'
-  end: '1977'
-  instruments:
-  - bass guitar
-  mbid: b1c87d10-04c1-4178-b0ab-8f1b7a5a8db8
-  name: Richard Hite
-- begin: '1974'
-  end: '1974'
-  instruments:
-  - additional
-  - trombone
-  mbid: 4bf684f4-b3c5-4083-b10e-4ba38663839b
-  name: Jock Ellis
-- begin: '1974'
-  end: '1974'
-  instruments:
-  - additional
-  - saxophone
-  mbid: cbaf9af5-9dec-4eac-804b-ae374ff46b69
-  name: Clifford Solomon
-- begin: '1974'
-  end: '1976'
-  instruments:
-  - keyboard
-  mbid: 7ddc6ea0-344c-443f-9740-aa7f82c94f67
-  name: Gene Taylor
-- begin: '1974'
-  end: '1977'
-  instruments:
-  - guitar
-  mbid: 3fcb9308-c98f-4bec-a6f2-f4abeecde242
-  name: Chris Morgan
-- begin: '1976'
-  end: '1976'
-  instruments:
-  - additional
-  - guitar
-  mbid: e4f0fab9-23ce-4c92-87e1-7a454691e474
-  name: Stan Webb
-- begin: '1976'
-  end: '1977'
-  instruments:
-  - guitar
-  mbid: 1521b350-269d-4613-acc5-07f72c878b1b
-  name: Mark Skyer
-- begin: '1977'
-  end: '1978'
-  instruments:
-  - bass guitar
-  mbid: 8ed02661-ee09-4de4-a42d-8fd583a68c4f
-  name: Richard Exley
-- begin: '1978'
-  end: '1978'
-  instruments:
-  - keyboard
-  mbid: 657ece95-2a4c-4122-8ccb-ec195c550aa0
-  name: Ronnie Barron
-- begin: '1978'
-  end: '1980'
-  instruments:
-  - guitar
-  mbid: 6c96d2e7-fac6-4360-84d3-e305cd763492
-  name: Hollywood Fats
-- begin: '1978'
-  end: '1980'
-  instruments:
-  - keyboard
-  mbid: 154aacf3-7abc-4295-bccf-80a937deaf29
-  name: Jay Spell
-- begin: '1978'
-  end: '1980'
-  instruments:
-  - bass guitar
-  - guitar
-  - lead vocals
-  mbid: b7b64a41-f7cb-4266-9fad-eb28fc6aaf0b
-  name: Larry Taylor
-- begin: '1980'
-  end: '1980'
-  instruments:
-  - bass guitar
-  mbid: 2a63928e-af6e-4e1e-9b94-28ffc978fae4
-  name: Jon Lamb
-- begin: '1980'
-  end: '1981'
-  instruments:
-  - guitar
-  mbid: 87f1d57c-6197-4d54-89a8-311122526225
-  name: Henry Vestine
-- begin: '1980'
-  end: '1984'
-  instruments:
-  - guitar
-  mbid: 8772977d-67f6-4710-bd2b-370842d3a6c8
-  name: Mike Halby
-- begin: '1980'
-  end: '1985'
-  instruments:
-  - bass guitar
-  mbid: 252b9d43-0ae4-4e3b-b2b9-6c84e8f92531
-  name: Ernie Rodriguez
-- begin: '1981'
-  end: '1985'
-  instruments:
-  - harmonica
-  - lead vocals
-  mbid: 5f07db79-2c02-4de1-9490-00253201ccb5
-  name: Richard Kellogg
-- begin: '1981'
-  end: '1985'
-  instruments:
-  - lead vocals
-  mbid: 915eedb6-1f97-4dc1-8e95-a5bc6e0fe54c
-  name: Rick Kellogg
-- begin: '1981'
-  end: '1985'
-  instruments:
-  - harmonica
-  mbid: 915eedb6-1f97-4dc1-8e95-a5bc6e0fe54c
-  name: Rick Kellogg
-- begin: '1981'
-  end: '1985'
-  instruments:
-  - guitar
-  mbid: efddcf31-943b-49f0-aef1-cf5539d8048b
-  name: Walter Trout
-- begin: '1985'
-  end: '1987'
-  instruments:
-  - bass guitar
-  mbid: 4a500430-a4a3-4926-9f45-5888a6ff9b6f
-  name: Skip Jones
-- begin: '1985'
-  end: '1988'
-  instruments:
-  - guitar
-  mbid: 87f1d57c-6197-4d54-89a8-311122526225
-  name: Henry Vestine
-- begin: '1985'
-  end: '1995'
-  instruments:
-  - guitar
-  - harmonica
-  - lead vocals
-  mbid: ccfcca83-3a94-4f7d-a711-54ba1e7db031
-  name: James Thornbury
-- begin: '1987'
-  end: '1988'
-  instruments:
-  - keyboard
-  mbid: 657ece95-2a4c-4122-8ccb-ec195c550aa0
-  name: Ronnie Barron
-- begin: '1987'
-  end: '1992'
-  instruments:
-  - bass guitar
-  - guitar
-  - lead vocals
-  mbid: b7b64a41-f7cb-4266-9fad-eb28fc6aaf0b
-  name: Larry Taylor
-- begin: '1988'
-  end: '1990'
-  instruments:
-  - guitar
-  mbid: f2376426-f449-4e0e-9a6c-59adba71a31e
-  name: Junior Watson
-- begin: '1990'
-  end: '1992'
-  instruments:
-  - guitar
-  mbid: e3cd8c79-46bc-481f-905f-480847ada894
-  name: Harvey Mandel
-- begin: '1990'
-  end: '1996'
-  instruments:
-  - bass guitar
-  mbid: 426ef3db-4679-4a7c-8d19-9469855a5c17
-  name: Ron Shumake
-- begin: '1992'
-  end: '1992'
-  instruments:
-  - guitar
-  mbid: 17371f5a-268f-4244-92ae-7b496db5f955
-  name: Becky Barksdale
-- begin: '1992'
-  end: '1992'
-  instruments:
-  - guitar
-  mbid: 10ec4ad3-a1a8-482c-8924-4472f9f44346
-  name: Smokey Hormel
-- begin: '1992'
-  end: '1997'
-  instruments:
-  - guitar
-  mbid: 87f1d57c-6197-4d54-89a8-311122526225
-  name: Henry Vestine
-- begin: '1992'
-  end: '1997'
-  instruments:
-  - guitar
-  mbid: f2376426-f449-4e0e-9a6c-59adba71a31e
-  name: Junior Watson
-- begin: '1995'
-  end: '2000'
-  instruments:
-  - guitar
-  - harmonica
-  - lead vocals
-  mbid: 5daa5857-d3af-4dd6-bd9c-b3c1d8c0c35c
-  name: Robert Lucas
-- begin: '1996'
-  end: '1996'
-  instruments:
-  - additional
-  - bass guitar
-  mbid: 2d7aa1b8-8dc4-4fd1-ae69-4617c051d3db
-  name: Mark "Pocket" Goldberg
-- begin: '1996'
-  end: '1997'
-  instruments:
-  - bass guitar
-  - guitar
-  - lead vocals
-  mbid: b7b64a41-f7cb-4266-9fad-eb28fc6aaf0b
-  name: Larry Taylor
-- begin: '1996'
-  end: '1999'
-  instruments:
-  - guitar
-  mbid: e3cd8c79-46bc-481f-905f-480847ada894
-  name: Harvey Mandel
-- begin: '1996'
-  end: '2010'
-  instruments:
-  - bass guitar
-  mbid: eafa2341-8b65-4170-bd97-d9cb1e8f086f
-  name: Greg Kage
-- begin: '1997'
-  end: '2000'
-  instruments:
-  - guitar
-  mbid: 22f48f1c-8065-42bd-9bd4-e417816da752
-  name: Paul Bryant
-- begin: '2000'
-  end: '2005'
-  instruments:
-  - flute
-  - saxophone
-  mbid: 6d1e0dda-07d1-4087-b37f-494bea4c6972
-  name: Stanley Behrens
-- begin: '2000'
-  end: '2005'
-  instruments:
-  - guitar
-  - lead vocals
-  mbid: d28e6e9a-ff9b-42c3-be8a-ebf5d3c22dfb
-  name: Dallas Hodge
-- begin: '2000'
-  end: '2006'
-  instruments:
-  - guitar
-  mbid: 2812b780-7ad9-4cd0-aab9-63eae490a0f9
-  name: John Paulus
-- begin: '2005'
-  end: '2008'
-  instruments:
-  - guitar
-  - harmonica
-  - lead vocals
-  mbid: 5daa5857-d3af-4dd6-bd9c-b3c1d8c0c35c
-  name: Robert Lucas
-- begin: '2006'
-  end: '2010'
-  instruments:
-  - guitar
-  mbid: c2a06f88-647b-476d-aa6c-2b9e2cd4ef7d
-  name: Barry Levenson
-- &id002
-  begin: '2008'
-  end: ''
-  instruments:
-  - bass guitar
-  - guitar
-  - harmonica
-  - lead vocals
-  mbid: 2b9b6089-623a-425e-b812-b1254c264fa0
-  name: Dale Wesley Spalding
-- begin: '2010'
-  end: '2019-08-19'
-  instruments:
-  - bass guitar
-  - guitar
-  - lead vocals
-  mbid: b7b64a41-f7cb-4266-9fad-eb28fc6aaf0b
-  name: Larry Taylor
-- &id003
-  begin: '2010'
-  end: ''
-  instruments:
-  - guitar
-  mbid: e3cd8c79-46bc-481f-905f-480847ada894
-  name: Harvey Mandel
+  - begin: '1965'
+    end: '1965'
+    instruments:
+      - guitar
+    mbid: 7b01f6bf-8ca4-4b85-9df0-d0b1be0fed8c
+    name: Kenny Edwards
+  - begin: '1965'
+    end: '1965'
+    instruments:
+      - additional
+      - membranophone
+    mbid: c85171ed-4286-4db3-9f27-45d2fecb03d3
+    name: Ron Holmes
+  - begin: '1965'
+    end: '1965'
+    instruments:
+      - guitar
+      - original
+    mbid: e5bc3cc6-c5de-4b01-9bfa-656f17ff9e82
+    name: Mike Perlowin
+  - begin: '1965'
+    end: '1965'
+    instruments:
+      - membranophone
+      - original
+    mbid: 07ed8d42-7fe6-4a05-9c4a-aa459ec28622
+    name: Keith Sawyer
+  - begin: '1965'
+    end: '1966'
+    instruments:
+      - bass guitar
+      - original
+    mbid: ef8db165-227d-4e95-bd48-9cc7c0dabf77
+    name: Stuart Brotman
+  - begin: '1965'
+    end: '1967'
+    instruments:
+      - drums (drum set)
+    mbid: 48f19309-330b-4d05-8961-87d30278759d
+    name: Frank Cook
+  - begin: '1965'
+    end: '1969'
+    instruments:
+      - guitar
+    mbid: 87f1d57c-6197-4d54-89a8-311122526225
+    name: Henry Vestine
+  - begin: '1965'
+    end: '1970'
+    instruments:
+      - guitar
+      - harmonica
+      - lead vocals
+      - original
+    mbid: a86e10f7-8ec8-457d-af00-9d584a738a1f
+    name: Alan Wilson
+  - begin: '1965'
+    end: '1971'
+    instruments:
+      - lead vocals
+      - original
+    mbid: 6bedd038-dfb9-433a-8700-d75373748bbe
+    name: Bob Hite
+  - begin: '1966'
+    end: '1967'
+    instruments:
+      - bass guitar
+    mbid: 91470a46-d262-4dd8-919e-c0a978b9f02e
+    name: Mark Andes
+  - begin: '1967'
+    end: 1970-05
+    instruments:
+      - bass guitar
+      - guitar
+      - lead vocals
+    mbid: b7b64a41-f7cb-4266-9fad-eb28fc6aaf0b
+    name: Larry Taylor
+  - &ref_0
+    begin: '1967'
+    end: ''
+    instruments:
+      - lead vocals
+      - membranophone
+    mbid: 75a90c17-de5e-48b1-9e17-93bcc7c5d3b7
+    name: Fito de la Parra
+  - begin: '1969'
+    end: '1971'
+    instruments:
+      - guitar family
+    mbid: e3cd8c79-46bc-481f-905f-480847ada894
+    name: Harvey Mandel
+  - begin: '1970'
+    end: '1972'
+    instruments:
+      - bass guitar
+    mbid: fcf5fdf8-d303-4a04-9a9f-96e4e7cc0398
+    name: Antonio de la Barreda
+  - begin: '1970'
+    end: '1972'
+    instruments:
+      - guitar
+    mbid: d3736e65-5b85-45aa-9750-18ae8c469f40
+    name: Joel Scott Hill
+  - begin: '1970'
+    end: '1974'
+    instruments:
+      - guitar
+    mbid: 87f1d57c-6197-4d54-89a8-311122526225
+    name: Henry Vestine
+  - begin: '1972'
+    end: '1974'
+    instruments:
+      - keyboard
+    mbid: a4b35344-e2c7-416c-801f-9709c83a9d94
+    name: Ed Beyer
+  - begin: '1972'
+    end: '1974'
+    instruments:
+      - guitar
+    mbid: 4e51b45c-38b3-4364-bb30-a509913a6bcc
+    name: James Shane
+  - begin: '1972'
+    end: '1977'
+    instruments:
+      - bass guitar
+    mbid: b1c87d10-04c1-4178-b0ab-8f1b7a5a8db8
+    name: Richard Hite
+  - begin: '1974'
+    end: '1974'
+    instruments:
+      - additional
+      - trombone
+    mbid: 4bf684f4-b3c5-4083-b10e-4ba38663839b
+    name: Jock Ellis
+  - begin: '1974'
+    end: '1974'
+    instruments:
+      - additional
+      - saxophone
+    mbid: cbaf9af5-9dec-4eac-804b-ae374ff46b69
+    name: Clifford Solomon
+  - begin: '1974'
+    end: '1976'
+    instruments:
+      - keyboard
+    mbid: 7ddc6ea0-344c-443f-9740-aa7f82c94f67
+    name: Gene Taylor
+  - begin: '1974'
+    end: '1977'
+    instruments:
+      - guitar
+    mbid: 3fcb9308-c98f-4bec-a6f2-f4abeecde242
+    name: Chris Morgan
+  - begin: '1976'
+    end: '1976'
+    instruments:
+      - additional
+      - guitar
+    mbid: e4f0fab9-23ce-4c92-87e1-7a454691e474
+    name: Stan Webb
+  - begin: '1976'
+    end: '1977'
+    instruments:
+      - guitar
+    mbid: 1521b350-269d-4613-acc5-07f72c878b1b
+    name: Mark Skyer
+  - begin: '1977'
+    end: '1978'
+    instruments:
+      - bass guitar
+    mbid: 8ed02661-ee09-4de4-a42d-8fd583a68c4f
+    name: Richard Exley
+  - begin: '1978'
+    end: '1978'
+    instruments:
+      - keyboard
+    mbid: 657ece95-2a4c-4122-8ccb-ec195c550aa0
+    name: Ronnie Barron
+  - begin: '1978'
+    end: '1980'
+    instruments:
+      - guitar
+    mbid: 6c96d2e7-fac6-4360-84d3-e305cd763492
+    name: Hollywood Fats
+  - begin: '1978'
+    end: '1980'
+    instruments:
+      - keyboard
+    mbid: 154aacf3-7abc-4295-bccf-80a937deaf29
+    name: Jay Spell
+  - begin: '1978'
+    end: '1980'
+    instruments:
+      - bass guitar
+      - guitar
+      - lead vocals
+    mbid: b7b64a41-f7cb-4266-9fad-eb28fc6aaf0b
+    name: Larry Taylor
+  - begin: '1980'
+    end: '1980'
+    instruments:
+      - bass guitar
+    mbid: 2a63928e-af6e-4e1e-9b94-28ffc978fae4
+    name: Jon Lamb
+  - begin: '1980'
+    end: '1981'
+    instruments:
+      - guitar
+    mbid: 87f1d57c-6197-4d54-89a8-311122526225
+    name: Henry Vestine
+  - begin: '1980'
+    end: '1984'
+    instruments:
+      - guitar
+    mbid: 8772977d-67f6-4710-bd2b-370842d3a6c8
+    name: Mike Halby
+  - begin: '1980'
+    end: '1985'
+    instruments:
+      - bass guitar
+    mbid: 252b9d43-0ae4-4e3b-b2b9-6c84e8f92531
+    name: Ernie Rodriguez
+  - begin: '1981'
+    end: '1985'
+    instruments:
+      - harmonica
+      - lead vocals
+    mbid: 5f07db79-2c02-4de1-9490-00253201ccb5
+    name: Richard Kellogg
+  - begin: '1981'
+    end: '1985'
+    instruments:
+      - lead vocals
+    mbid: 915eedb6-1f97-4dc1-8e95-a5bc6e0fe54c
+    name: Rick Kellogg
+  - begin: '1981'
+    end: '1985'
+    instruments:
+      - harmonica
+    mbid: 915eedb6-1f97-4dc1-8e95-a5bc6e0fe54c
+    name: Rick Kellogg
+  - begin: '1981'
+    end: '1985'
+    instruments:
+      - guitar
+    mbid: efddcf31-943b-49f0-aef1-cf5539d8048b
+    name: Walter Trout
+  - begin: '1985'
+    end: '1987'
+    instruments:
+      - bass guitar
+    mbid: 4a500430-a4a3-4926-9f45-5888a6ff9b6f
+    name: Skip Jones
+  - begin: '1985'
+    end: '1988'
+    instruments:
+      - guitar
+    mbid: 87f1d57c-6197-4d54-89a8-311122526225
+    name: Henry Vestine
+  - begin: '1985'
+    end: '1995'
+    instruments:
+      - guitar
+      - harmonica
+      - lead vocals
+    mbid: ccfcca83-3a94-4f7d-a711-54ba1e7db031
+    name: James Thornbury
+  - begin: '1987'
+    end: '1988'
+    instruments:
+      - keyboard
+    mbid: 657ece95-2a4c-4122-8ccb-ec195c550aa0
+    name: Ronnie Barron
+  - begin: '1987'
+    end: '1992'
+    instruments:
+      - bass guitar
+      - guitar
+      - lead vocals
+    mbid: b7b64a41-f7cb-4266-9fad-eb28fc6aaf0b
+    name: Larry Taylor
+  - begin: '1988'
+    end: '1990'
+    instruments:
+      - guitar
+    mbid: f2376426-f449-4e0e-9a6c-59adba71a31e
+    name: Junior Watson
+  - begin: '1990'
+    end: '1992'
+    instruments:
+      - guitar
+    mbid: e3cd8c79-46bc-481f-905f-480847ada894
+    name: Harvey Mandel
+  - begin: '1990'
+    end: '1996'
+    instruments:
+      - bass guitar
+    mbid: 426ef3db-4679-4a7c-8d19-9469855a5c17
+    name: Ron Shumake
+  - begin: '1992'
+    end: '1992'
+    instruments:
+      - guitar
+    mbid: 17371f5a-268f-4244-92ae-7b496db5f955
+    name: Becky Barksdale
+  - begin: '1992'
+    end: '1992'
+    instruments:
+      - guitar
+    mbid: 10ec4ad3-a1a8-482c-8924-4472f9f44346
+    name: Smokey Hormel
+  - begin: '1992'
+    end: '1997'
+    instruments:
+      - guitar
+    mbid: 87f1d57c-6197-4d54-89a8-311122526225
+    name: Henry Vestine
+  - begin: '1992'
+    end: '1997'
+    instruments:
+      - guitar
+    mbid: f2376426-f449-4e0e-9a6c-59adba71a31e
+    name: Junior Watson
+  - begin: '1995'
+    end: '2000'
+    instruments:
+      - guitar
+      - harmonica
+      - lead vocals
+    mbid: 5daa5857-d3af-4dd6-bd9c-b3c1d8c0c35c
+    name: Robert Lucas
+  - begin: '1996'
+    end: '1996'
+    instruments:
+      - additional
+      - bass guitar
+    mbid: 2d7aa1b8-8dc4-4fd1-ae69-4617c051d3db
+    name: Mark "Pocket" Goldberg
+  - begin: '1996'
+    end: '1997'
+    instruments:
+      - bass guitar
+      - guitar
+      - lead vocals
+    mbid: b7b64a41-f7cb-4266-9fad-eb28fc6aaf0b
+    name: Larry Taylor
+  - begin: '1996'
+    end: '1999'
+    instruments:
+      - guitar
+    mbid: e3cd8c79-46bc-481f-905f-480847ada894
+    name: Harvey Mandel
+  - begin: '1996'
+    end: '2010'
+    instruments:
+      - bass guitar
+    mbid: eafa2341-8b65-4170-bd97-d9cb1e8f086f
+    name: Greg Kage
+  - begin: '1997'
+    end: '2000'
+    instruments:
+      - guitar
+    mbid: 22f48f1c-8065-42bd-9bd4-e417816da752
+    name: Paul Bryant
+  - begin: '2000'
+    end: '2005'
+    instruments:
+      - flute
+      - saxophone
+    mbid: 6d1e0dda-07d1-4087-b37f-494bea4c6972
+    name: Stanley Behrens
+  - begin: '2000'
+    end: '2005'
+    instruments:
+      - guitar
+      - lead vocals
+    mbid: d28e6e9a-ff9b-42c3-be8a-ebf5d3c22dfb
+    name: Dallas Hodge
+  - begin: '2000'
+    end: '2006'
+    instruments:
+      - guitar
+    mbid: 2812b780-7ad9-4cd0-aab9-63eae490a0f9
+    name: John Paulus
+  - begin: '2005'
+    end: '2008'
+    instruments:
+      - guitar
+      - harmonica
+      - lead vocals
+    mbid: 5daa5857-d3af-4dd6-bd9c-b3c1d8c0c35c
+    name: Robert Lucas
+  - begin: '2006'
+    end: '2010'
+    instruments:
+      - guitar
+    mbid: c2a06f88-647b-476d-aa6c-2b9e2cd4ef7d
+    name: Barry Levenson
+  - &ref_1
+    begin: '2008'
+    end: ''
+    instruments:
+      - bass guitar
+      - guitar
+      - harmonica
+      - lead vocals
+    mbid: 2b9b6089-623a-425e-b812-b1254c264fa0
+    name: Dale Wesley Spalding
+  - begin: '2010'
+    end: '2019-08-19'
+    instruments:
+      - bass guitar
+      - guitar
+      - lead vocals
+    mbid: b7b64a41-f7cb-4266-9fad-eb28fc6aaf0b
+    name: Larry Taylor
+  - &ref_2
+    begin: '2010'
+    end: ''
+    instruments:
+      - guitar
+    mbid: e3cd8c79-46bc-481f-905f-480847ada894
+    name: Harvey Mandel
 musicbrainz_id: 815a0279-558c-4522-ac3b-6a1e259e95b5
-origin: Los Angeles
+origin: 'Los Angeles, California, United States'
 original_members:
-- *id001
-- *id002
-- *id003
+  - *ref_0
+  - *ref_1
+  - *ref_2
 tags:
-- blues
-- blues rock
-- boogie rock
+  - blues
+  - blues rock
+  - boogie rock
 ---
 
 ![](canned_heat.jpg)

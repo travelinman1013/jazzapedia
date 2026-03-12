@@ -2,23 +2,23 @@
 title: Bass Drum Of Death
 wiki_slug: bass-drum-of-death
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '2007'
 genres:
-- garage rock
-- surf rock
-- indie punk
+  - garage rock
+  - surf rock
+  - indie punk
 instruments:
-- guitar
-- bass drum
+  - guitar
+  - bass drum
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bass_drum_of_death.jpg
   caption: Bass Drum Of Death
   background: group_or_band
   born: '2007'
 audio_profile:
-  tempo_avg: 128.0
+  tempo_avg: 128
   energy_avg: 0.895
   valence_avg: 0.46
   danceability_avg: 0.404
@@ -32,76 +32,77 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Colin Sneed
-  - Len Clark
-  - Josh Hunter
-  - Jim Barrett
-  - Ian Kirkpatrick
-  - Jacob Portrait
+    - Colin Sneed
+    - Len Clark
+    - Josh Hunter
+    - Jim Barrett
+    - Ian Kirkpatrick
+    - Jacob Portrait
   influenced: []
   mentors:
-  - Patrick Carney
+    - Patrick Carney
 spotify_data:
   followers: 121374
   id: 5LtAyeDVOVcydj65LvgICY
   popularity: 40
-  url: https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY
+  url: 'https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY'
 discography_enriched: true
 top_tracks:
-- Crawling After You (Bass Drum of Death)
-- I Wanna Be Forgotten (Bass Drum of Death)
-- you were right
-- Nerve Jamming (Gb City)
-- Get Found (Gb City)
-- Shattered Me (Bass Drum of Death)
-- Way Out (Bass Drum of Death)
-- Left for Dead (Rip This)
-- Velvet Itch (Gb City)
-- I'm On The Run
+  - Crawling After You (Bass Drum of Death)
+  - I Wanna Be Forgotten (Bass Drum of Death)
+  - you were right
+  - Nerve Jamming (Gb City)
+  - Get Found (Gb City)
+  - Shattered Me (Bass Drum of Death)
+  - Way Out (Bass Drum of Death)
+  - Left for Dead (Rip This)
+  - Velvet Itch (Gb City)
+  - I'm On The Run
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/de91eca2-c09a-4c92-84d1-3fb80ccd6d59
-  spotify: https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY
-  wikipedia: https://en.wikipedia.org/wiki/Bass_Drum_of_Death
+  musicbrainz: 'https://musicbrainz.org/artist/de91eca2-c09a-4c92-84d1-3fb80ccd6d59'
+  spotify: 'https://open.spotify.com/artist/5LtAyeDVOVcydj65LvgICY'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bass_Drum_of_Death'
 image_path: 03_Resources/source_material/ArtistPortraits/bass_drum_of_death.jpg
 biography_enhanced_at: '2025-12-11T04:21:40.725931'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://goldenrobotrecords.com/pages/bass-drum-of-death
-- https://www.mississippifreepress.org/talking-life-with-bass-drum-of-death/
-- https://goout.net/en/bass-drum-of-death/pzorgbg/
-- https://districtfray.com/articles/bass-drum-of-deaths-john-barrett/
-- https://glidemagazine.com/317143/bass-drum-of-deaths-john-barrett-discusses-return-to-form-on-new-album-six-interview/
-- https://mokbpresents.com/artist/bass-drum-of-death/
-- https://theduckclub.com/show/bass-drum-of-death-2025/
-- https://rosemusichall.com/event/bass-drum-of-death/
+  - 'https://goldenrobotrecords.com/pages/bass-drum-of-death'
+  - 'https://www.mississippifreepress.org/talking-life-with-bass-drum-of-death/'
+  - 'https://goout.net/en/bass-drum-of-death/pzorgbg/'
+  - 'https://districtfray.com/articles/bass-drum-of-deaths-john-barrett/'
+  - >-
+    https://glidemagazine.com/317143/bass-drum-of-deaths-john-barrett-discusses-return-to-form-on-new-album-six-interview/
+  - 'https://mokbpresents.com/artist/bass-drum-of-death/'
+  - 'https://theduckclub.com/show/bass-drum-of-death-2025/'
+  - 'https://rosemusichall.com/event/bass-drum-of-death/'
 network_extracted: true
 entry_created: '2025-12-11T04:21:40.725940'
 last_updated: '2025-12-23T08:16:05.138508'
 disambiguation: US garage punk band
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: 4953bc64-d8eb-4b9b-ba92-0dee485e6429
-  name: John Barrett
-- begin: ''
-  end: ''
-  instruments:
-  - bass drum
-  mbid: 4953bc64-d8eb-4b9b-ba92-0dee485e6429
-  name: John Barrett
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f0dc246a-0dcc-438c-9a7f-05f0cf78f5c2
-  name: Len Clark
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 4953bc64-d8eb-4b9b-ba92-0dee485e6429
+    name: John Barrett
+  - begin: ''
+    end: ''
+    instruments:
+      - bass drum
+    mbid: 4953bc64-d8eb-4b9b-ba92-0dee485e6429
+    name: John Barrett
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f0dc246a-0dcc-438c-9a7f-05f0cf78f5c2
+    name: Len Clark
 musicbrainz_id: de91eca2-c09a-4c92-84d1-3fb80ccd6d59
-origin: Oxford
+origin: 'Oxford, Mississippi, United States'
 tags:
-- garage punk
-- garage rock revival
+  - garage punk
+  - garage rock revival
 ---
 
 ![](bass_drum_of_death.jpg)

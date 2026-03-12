@@ -2,11 +2,11 @@
 title: Amanaz
 wiki_slug: amanaz
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: 1973-09
 genres:
-- acid rock
+  - acid rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/amanaz.jpg
   caption: Amanaz
@@ -27,68 +27,70 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Keith Kabwe
-  - Isaac Mpofu
-  - John Kanyepa
-  - Jerry Mausala
-  - Watson Lungu
-  - Billy Nyati
+    - Keith Kabwe
+    - Isaac Mpofu
+    - John Kanyepa
+    - Jerry Mausala
+    - Watson Lungu
+    - Billy Nyati
   influenced: []
   mentors:
-  - Alice Cooper
-  - David Bowie
-  - Jimi Hendrix
+    - Alice Cooper
+    - David Bowie
+    - Jimi Hendrix
 spotify_data:
   followers: 51845
   id: 7dZiPXbSCTAgUpmpgNoLjt
   popularity: 44
-  url: https://open.spotify.com/artist/7dZiPXbSCTAgUpmpgNoLjt
+  url: 'https://open.spotify.com/artist/7dZiPXbSCTAgUpmpgNoLjt'
 discography_enriched: true
 top_tracks:
-- Khala My Friend (Africa)
-- Sunday Morning (Africa)
-- Khala My Friend (Welcome To Zamrock! How Zambia's Liberation Led To a Rock Revolution, Vol. 1 (1972-1977))
-- Easy Street (Africa)
-- Green Apple (Africa)
-- Amanaz (Africa)
-- I Am Very Far (Africa)
-- Africa (Africa)
-- History Of Man (Africa)
-- Khala My Friend - Reverb Mix (Africa (Reverb Mixes))
+  - Khala My Friend (Africa)
+  - Sunday Morning (Africa)
+  - >-
+    Khala My Friend (Welcome To Zamrock! How Zambia's Liberation Led To a Rock
+    Revolution, Vol. 1 (1972-1977))
+  - Easy Street (Africa)
+  - Green Apple (Africa)
+  - Amanaz (Africa)
+  - I Am Very Far (Africa)
+  - Africa (Africa)
+  - History Of Man (Africa)
+  - Khala My Friend - Reverb Mix (Africa (Reverb Mixes))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2c2f217c-83f9-4ebb-8ab9-dd5c612ecd65
-  spotify: https://open.spotify.com/artist/7dZiPXbSCTAgUpmpgNoLjt
+  musicbrainz: 'https://musicbrainz.org/artist/2c2f217c-83f9-4ebb-8ab9-dd5c612ecd65'
+  spotify: 'https://open.spotify.com/artist/7dZiPXbSCTAgUpmpgNoLjt'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/amanaz.jpg
 biography_enhanced_at: '2025-11-28T07:40:57.729296'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- zamrockorg.blogspot.com - The Story of AMANAZ - Africa
-- 'afrobeat-music.blogspot.com - Zamrock: Amanaz - Africa'
-- '200worldalbums.com - ZAMBIA: Africa - Amanaz'
-- spirit-of-rock.com - Amanaz discography and biography
-- 'okayafrica.com - From The Vaults: 1970s Zambian Fuzz from Amanaz'
+  - zamrockorg.blogspot.com - The Story of AMANAZ - Africa
+  - 'afrobeat-music.blogspot.com - Zamrock: Amanaz - Africa'
+  - '200worldalbums.com - ZAMBIA: Africa - Amanaz'
+  - spirit-of-rock.com - Amanaz discography and biography
+  - 'okayafrica.com - From The Vaults: 1970s Zambian Fuzz from Amanaz'
 network_extracted: true
 entry_created: '2025-11-28T07:40:57.729301'
 last_updated: '2025-12-23T08:16:04.672490'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bae48b8e-2ff7-47bd-9e5b-e548320a1d95
-  name: Keith Kabwe
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2235a916-b091-46df-86c4-7f109204bbd1
-  name: Isaac Mpofu
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bae48b8e-2ff7-47bd-9e5b-e548320a1d95
+    name: Keith Kabwe
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2235a916-b091-46df-86c4-7f109204bbd1
+    name: Isaac Mpofu
 musicbrainz_id: 2c2f217c-83f9-4ebb-8ab9-dd5c612ecd65
-origin: Copperbelt
+origin: 'Kitwe, Zambia, United States'
 tags:
-- acid rock
-- psychedelic rock
-- zamrock
+  - acid rock
+  - psychedelic rock
+  - zamrock
 ---
 
 ![](amanaz.jpg)

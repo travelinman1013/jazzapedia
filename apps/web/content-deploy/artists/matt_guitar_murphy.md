@@ -1,43 +1,45 @@
 ---
 biography_enhanced_at: '2025-12-30T01:23:13.915788'
-birth_place: Sunflower, Mississippi, United States
+birth_place: 'Sunflower, Mississippi, United States'
 enhancement_provider: perplexity
 entry_created: '2025-12-30T01:23:13.915793'
 external_urls:
-  spotify: https://open.spotify.com/artist/7nc1uZa6SAT2mgrvoQfn5A
-  wikipedia: https://en.wikipedia.org/wiki/Matt_%22Guitar%22_Murphy
+  spotify: 'https://open.spotify.com/artist/7nc1uZa6SAT2mgrvoQfn5A'
+  wikipedia: 'https://en.wikipedia.org/wiki/Matt_%22Guitar%22_Murphy'
 genres:
-- blues
-- classic blues
+  - blues
+  - classic blues
 image_path: 03_Resources/source_material/ArtistPortraits/matt_guitar_murphy.jpg
 last_updated: '2025-12-30T01:23:13.915794'
 musical_connections:
   collaborators:
-  - Memphis Slim
-  - James Cotton
-  - The Blues Brothers
-  - Chuck Berry
-  - Little Junior Parker
+    - Memphis Slim
+    - James Cotton
+    - The Blues Brothers
+    - Chuck Berry
+    - Little Junior Parker
   influenced:
-  - Freddie King
+    - Freddie King
   mentors:
-  - Howlin' Wolf
+    - Howlin' Wolf
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Matt_%22Guitar%22_Murphy
-- https://www.bluesexpress.com/artists/matt-guitar-murphy/
-- https://www.wmky.org/arts-culture/2018-06-18/matt-guitar-murphy-1929-2018
-- https://blues.org/blues_hof_inductee/matt-guitar-murphy/
-- https://tomguerra.com/tom-guerra-interviews-matt-guitar-murphy/
-- https://www.guitartricks.com/forum/t/36058
+  - 'https://en.wikipedia.org/wiki/Matt_%22Guitar%22_Murphy'
+  - 'https://www.bluesexpress.com/artists/matt-guitar-murphy/'
+  - 'https://www.wmky.org/arts-culture/2018-06-18/matt-guitar-murphy-1929-2018'
+  - 'https://blues.org/blues_hof_inductee/matt-guitar-murphy/'
+  - 'https://tomguerra.com/tom-guerra-interviews-matt-guitar-murphy/'
+  - 'https://www.guitartricks.com/forum/t/36058'
 spotify_data:
   followers: 6064
   id: 7nc1uZa6SAT2mgrvoQfn5A
   popularity: 26
-  url: https://open.spotify.com/artist/7nc1uZa6SAT2mgrvoQfn5A
+  url: 'https://open.spotify.com/artist/7nc1uZa6SAT2mgrvoQfn5A'
 status: active
-title: MATT GUITAR MURPHY
+title: Matt Guitar Murphy
+birth_date: '1929-12-29'
+artist_type: person
 ---
 
 ![](matt_guitar_murphy.jpg)

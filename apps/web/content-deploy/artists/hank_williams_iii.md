@@ -1,20 +1,20 @@
 ---
-title: hank williams III
+title: Hank Williams III
 wiki_slug: hank-williams-iii
 schema_version: 2
 status: active
-birth_place: Nashville, Tennessee, United States
+birth_place: 'Nashville, Tennessee, United States'
 genres:
-- alt country
-- honky tonk
-- gothic country
-- psychobilly
-- rockabilly
+  - alt country
+  - honky tonk
+  - gothic country
+  - psychobilly
+  - rockabilly
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/hank_williams_iii.jpg
   caption: hank williams III
   background: solo_singer
-  origin: Nashville, Tennessee, United States
+  origin: 'Nashville, Tennessee, United States'
 audio_profile:
   tempo_avg: 130.3
   energy_avg: 0.772
@@ -30,59 +30,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Damn Band
-  - Assjack
-  - Superjoint Ritual
-  - Tom Waits
-  - Les Claypool
-  - Alan King (Hellstomper)
-  - Ray Lawrence Jr.
-  - Troy Medlin (Sourvein)
-  - Dave Sherman (Earthride)
-  - David McElfresh
-  - Dan Johnson
+    - The Damn Band
+    - Assjack
+    - Superjoint Ritual
+    - Tom Waits
+    - Les Claypool
+    - Alan King (Hellstomper)
+    - Ray Lawrence Jr.
+    - Troy Medlin (Sourvein)
+    - Dave Sherman (Earthride)
+    - David McElfresh
+    - Dan Johnson
   influenced:
-  - Modern hellbilly, cowpunk, and psychobilly country artists (various)
+    - 'Modern hellbilly, cowpunk, and psychobilly country artists (various)'
   mentors:
-  - Hank Williams Sr.
-  - Hank Williams Jr.
-  - Punk and hardcore bands of the Southeast underground
+    - Hank Williams Sr.
+    - Hank Williams Jr.
+    - Punk and hardcore bands of the Southeast underground
 spotify_data:
   followers: 291208
   id: 3qf2YoifC68WTsMv1YIGmh
   popularity: 47
-  url: https://open.spotify.com/artist/3qf2YoifC68WTsMv1YIGmh
+  url: 'https://open.spotify.com/artist/3qf2YoifC68WTsMv1YIGmh'
 discography_enriched: true
 top_tracks:
-- Country Heroes (Straight To Hell)
-- Mississippi Mud (Lovesick, Broke, & Driftin')
-- Crazed Country Rebel (Straight To Hell)
-- Low Down (Straight To Hell)
-- I'll Never Get Out Of This World Alive (Men With Broken Hearts)
-- 3 Shades Of Black (Damn Right, Rebel Proud (Explicit Version))
-- Rebel Within (Rebel Within)
-- Pills I Took (Straight To Hell)
-- Cocaine Blues (Risin' Outlaw)
-- Honky Tonk Blues (Men With Broken Hearts)
+  - Country Heroes (Straight To Hell)
+  - 'Mississippi Mud (Lovesick, Broke, & Driftin'')'
+  - Crazed Country Rebel (Straight To Hell)
+  - Low Down (Straight To Hell)
+  - I'll Never Get Out Of This World Alive (Men With Broken Hearts)
+  - '3 Shades Of Black (Damn Right, Rebel Proud (Explicit Version))'
+  - Rebel Within (Rebel Within)
+  - Pills I Took (Straight To Hell)
+  - Cocaine Blues (Risin' Outlaw)
+  - Honky Tonk Blues (Men With Broken Hearts)
 external_urls:
-  spotify: https://open.spotify.com/artist/3qf2YoifC68WTsMv1YIGmh
-  wikipedia: https://en.wikipedia.org/wiki/Hank_Williams_III
+  spotify: 'https://open.spotify.com/artist/3qf2YoifC68WTsMv1YIGmh'
+  wikipedia: 'https://en.wikipedia.org/wiki/Hank_Williams_III'
 image_path: 03_Resources/source_material/ArtistPortraits/hank_williams_iii.jpg
 biography_enhanced_at: '2025-12-06T06:02:01.779633'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- AlbumLinerNotes.com – Hank Williams III artist bio and career overview[1]
-- BMI MusicWorld profile on Hank Williams III[2]
-- Billy Bob’s Texas artist bio for Hank Williams III[3]
-- Wikipedia entry on Hank Williams III[4]
-- IMDb mini-biography for Hank Williams III[5]
-- iHeartRadio artist page for Hank Williams III[6]
-- Fandango biography summary for Hank Williams III[7]
+  - 'AlbumLinerNotes.com – Hank Williams III artist bio and career overview[1]'
+  - 'BMI MusicWorld profile on Hank Williams III[2]'
+  - 'Billy Bob’s Texas artist bio for Hank Williams III[3]'
+  - 'Wikipedia entry on Hank Williams III[4]'
+  - 'IMDb mini-biography for Hank Williams III[5]'
+  - 'iHeartRadio artist page for Hank Williams III[6]'
+  - 'Fandango biography summary for Hank Williams III[7]'
 network_extracted: true
 entry_created: '2025-12-06T06:02:01.779639'
 last_updated: '2025-12-23T08:16:09.500612'
-
+birth_date: '1972-12-12'
+artist_type: person
 ---
 
 ![](hank_williams_iii.jpg)

@@ -4,9 +4,10 @@ wiki_slug: bob-rivers-twisted-radio
 schema_version: 2
 status: active
 genres:
-- christmas
+  - christmas
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/bob_rivers_and_twisted_radio.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/bob_rivers_and_twisted_radio.jpg
   caption: Bob Rivers & Twisted Radio
   background: solo_singer
 audio_profile:
@@ -16,7 +17,7 @@ audio_profile:
   danceability_avg: 0.605
   acousticness_avg: 0.528
   instrumentalness_avg: 0.009
-  loudness_avg: -11.0
+  loudness_avg: -11
   speechiness_avg: 0.189
   liveness_avg: 0.241
   track_count: 49
@@ -24,56 +25,74 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Peter “Zip” Zipfel
-  - Sean Donahue
-  - Mike “Spike” O’Neill
-  - Spike & The Impalers
-  - Heart by Heart
-  - Sheffield Recording Studios (Baltimore)
-  - American Comedy Network (KATZ/Newcity)
+    - Peter “Zip” Zipfel
+    - Sean Donahue
+    - Mike “Spike” O’Neill
+    - Spike & The Impalers
+    - Heart by Heart
+    - Sheffield Recording Studios (Baltimore)
+    - American Comedy Network (KATZ/Newcity)
   influenced:
-  - Regional and national rock morning shows (Seattle and U.S. market)
-  - Younger Seattle radio talent and show staff
+    - Regional and national rock morning shows (Seattle and U.S. market)
+    - Younger Seattle radio talent and show staff
   mentors:
-  - Dick Ferguson
-  - Steve Marx
-  - David Bernstein, Rob Barnett, Steve Stockman
+    - Dick Ferguson
+    - Steve Marx
+    - 'David Bernstein, Rob Barnett, Steve Stockman'
 spotify_data:
   followers: 1516
   id: 7LSj8VCfJkkw9FQkEnQZLc
   popularity: 35
-  url: https://open.spotify.com/artist/7LSj8VCfJkkw9FQkEnQZLc
+  url: 'https://open.spotify.com/artist/7LSj8VCfJkkw9FQkEnQZLc'
 discography_enriched: true
 top_tracks:
-- Didn't I Get This Last Year? (Bob Rivers & Twisted Radio - Twisted Christmas Boxed Set)
-- There's Another Santa Claus (Bob Rivers & Twisted Radio - Twisted Christmas Boxed Set)
-- Jingle Hells Bells (Bob Rivers & Twisted Radio - Twisted Christmas Boxed Set)
-- You've Got a Brand New Pair of Figure Skates (Bob Rivers & Twisted Radio - Twisted Christmas Boxed Set)
-- G'Bye Ding a Ling (Bob Rivers & Twisted Radio - Twisted Christmas Boxed Set)
-- O Little Town of Bethlehem (Bob Rivers & Twisted Radio - Twisted Christmas Boxed Set)
-- Teddy the Red-Nosed Senator (Bob Rivers & Twisted Radio - Twisted Christmas Boxed Set)
-- Grahbe Yahbalz (Bob Rivers & Twisted Radio - Twisted Christmas Boxed Set)
-- I Came Upon a Roadkill Deer (Bob Rivers & Twisted Radio - Twisted Christmas Boxed Set)
-- White Ford Bronco (Bob Rivers & Twisted Radio - Twisted Christmas Boxed Set)
+  - >-
+    Didn't I Get This Last Year? (Bob Rivers & Twisted Radio - Twisted Christmas
+    Boxed Set)
+  - >-
+    There's Another Santa Claus (Bob Rivers & Twisted Radio - Twisted Christmas
+    Boxed Set)
+  - >-
+    Jingle Hells Bells (Bob Rivers & Twisted Radio - Twisted Christmas Boxed
+    Set)
+  - >-
+    You've Got a Brand New Pair of Figure Skates (Bob Rivers & Twisted Radio -
+    Twisted Christmas Boxed Set)
+  - G'Bye Ding a Ling (Bob Rivers & Twisted Radio - Twisted Christmas Boxed Set)
+  - >-
+    O Little Town of Bethlehem (Bob Rivers & Twisted Radio - Twisted Christmas
+    Boxed Set)
+  - >-
+    Teddy the Red-Nosed Senator (Bob Rivers & Twisted Radio - Twisted Christmas
+    Boxed Set)
+  - Grahbe Yahbalz (Bob Rivers & Twisted Radio - Twisted Christmas Boxed Set)
+  - >-
+    I Came Upon a Roadkill Deer (Bob Rivers & Twisted Radio - Twisted Christmas
+    Boxed Set)
+  - White Ford Bronco (Bob Rivers & Twisted Radio - Twisted Christmas Boxed Set)
 external_urls:
-  spotify: https://open.spotify.com/artist/7LSj8VCfJkkw9FQkEnQZLc
-  wikipedia: https://en.wikipedia.org/wiki/Bob_Rivers
+  spotify: 'https://open.spotify.com/artist/7LSj8VCfJkkw9FQkEnQZLc'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bob_Rivers'
 image_path: ''
 biography_enhanced_at: '2025-12-21T01:21:47.311747'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Bob_Rivers
-- https://bobrivers.com
-- https://bobrivers.com/about/
-- https://legacy.com/news/bob-rivers-1956-2025-radio-dj-and-parody-songwriter
-- https://jacobsmedia.com/what-about-bob-3/
-- https://theworcesterguardian.org/f/bob-rivers%E2%80%99-legacy-a-life-in-radio-and-laughter
-- https://bobrivers.blog/bob-rivers-1956-2025/
+  - 'https://en.wikipedia.org/wiki/Bob_Rivers'
+  - 'https://bobrivers.com'
+  - 'https://bobrivers.com/about/'
+  - 'https://legacy.com/news/bob-rivers-1956-2025-radio-dj-and-parody-songwriter'
+  - 'https://jacobsmedia.com/what-about-bob-3/'
+  - >-
+    https://theworcesterguardian.org/f/bob-rivers%E2%80%99-legacy-a-life-in-radio-and-laughter
+  - 'https://bobrivers.blog/bob-rivers-1956-2025/'
 network_extracted: true
 entry_created: '2025-12-21T01:21:47.311753'
 last_updated: '2025-12-23T08:16:05.828513'
-origin: Branford, Connecticut, United States
+origin: 'Branford, Connecticut, United States'
+birth_place: 'Branford, Connecticut, United States'
+birth_date: '1956-07-07'
+artist_type: band
 ---
 
 ![]()

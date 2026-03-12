@@ -3,22 +3,24 @@ title: Gwendolyn Brooks
 wiki_slug: gwendolyn-brooks
 schema_version: 2
 status: active
-birth_place: Topeka, Kansas, United States (birthplace); Chicago, Illinois, United States (primary residence and origin of
-  literary career)
+birth_place: >-
+  Topeka, Kansas, United States (birthplace); Chicago, Illinois, United States
+  (primary residence and origin of literary career)
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/gwendolyn_brooks.jpg
   caption: Gwendolyn Brooks
   background: solo_singer
-  origin: Topeka, Kansas, United States (birthplace); Chicago, Illinois, United States (primary residence and origin of literary
-    career)
+  origin: >-
+    Topeka, Kansas, United States (birthplace); Chicago, Illinois, United States
+    (primary residence and origin of literary career)
 audio_profile:
   tempo_avg: 65.5
   energy_avg: 0.276
   valence_avg: 0.319
   danceability_avg: 0.364
   acousticness_avg: 0.203
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -9.8
   speechiness_avg: 0.037
   liveness_avg: 0.134
@@ -27,40 +29,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Henry Lowington Blakely Jr.
-  - Blackstone Rangers
+    - Henry Lowington Blakely Jr.
+    - Blackstone Rangers
   influenced:
-  - Nikki Giovanni
-  - Haki R. Madhubuti (Don L. Lee)
-  - Countless young poets
+    - Nikki Giovanni
+    - Haki R. Madhubuti (Don L. Lee)
+    - Countless young poets
   mentors:
-  - Inez Cunningham Stark
-  - James Weldon Johnson
-  - Langston Hughes
+    - Inez Cunningham Stark
+    - James Weldon Johnson
+    - Langston Hughes
 spotify_data:
   followers: 0
   id: 6yekK8ZnGerg3ws2ZSwv2p
   popularity: 0
-  url: https://open.spotify.com/artist/6yekK8ZnGerg3ws2ZSwv2p
+  url: 'https://open.spotify.com/artist/6yekK8ZnGerg3ws2ZSwv2p'
 discography_enriched: true
 top_tracks:
-- Hold My Honey (Passage)
+  - Hold My Honey (Passage)
 external_urls:
-  spotify: https://open.spotify.com/artist/6yekK8ZnGerg3ws2ZSwv2p
-  wikipedia: https://en.wikipedia.org/wiki/Gwendolyn_Brooks
+  spotify: 'https://open.spotify.com/artist/6yekK8ZnGerg3ws2ZSwv2p'
+  wikipedia: 'https://en.wikipedia.org/wiki/Gwendolyn_Brooks'
 image_path: ''
 biography_enhanced_at: '2025-11-04T10:51:54.648890'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.biography.com/authors-writers/gwendolyn-brooks
-- https://en.wikipedia.org/wiki/Gwendolyn_Brooks
-- https://www.brookscollegeprep.org/apps/pages/index.jsp?uREC_ID=4299378&type=d&pREC_ID=2527668
-- https://www.poetryfoundation.org/poets/gwendolyn-brooks
-- https://www.britannica.com/biography/Gwendolyn-Brooks
+  - 'https://www.biography.com/authors-writers/gwendolyn-brooks'
+  - 'https://en.wikipedia.org/wiki/Gwendolyn_Brooks'
+  - >-
+    https://www.brookscollegeprep.org/apps/pages/index.jsp?uREC_ID=4299378&type=d&pREC_ID=2527668
+  - 'https://www.poetryfoundation.org/poets/gwendolyn-brooks'
+  - 'https://www.britannica.com/biography/Gwendolyn-Brooks'
 network_extracted: true
 entry_created: '2025-11-04T10:51:54.648900'
 last_updated: '2025-12-23T08:16:09.422149'
+origin: 'Chicago, Illinois, United States'
+birth_date: '1917-06-07'
+death_date: '2000-12-03'
+artist_type: person
 ---
 
 ![]()

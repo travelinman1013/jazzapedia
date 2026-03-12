@@ -2,54 +2,56 @@
 artist_type: person
 biography_enhanced_at: '2025-12-31T01:50:32.756675'
 birth_date: '1950-08-10'
-birth_place: Harlem
+birth_place: 'Harlem, New York, United States'
 enhancement_provider: perplexity
 entry_created: '2025-12-31T01:50:32.756679'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e58ae396-5050-4640-a5d1-8826b5c4ba13
-  spotify: https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd
-  wikipedia: https://en.wikipedia.org/wiki/Patti_Austin
+  musicbrainz: 'https://musicbrainz.org/artist/e58ae396-5050-4640-a5d1-8826b5c4ba13'
+  spotify: 'https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd'
+  wikipedia: 'https://en.wikipedia.org/wiki/Patti_Austin'
 gender: Female
 genres:
-- yacht rock
+  - yacht rock
 image_path: 03_Resources/source_material/ArtistPortraits/patti_austin.jpg
 instruments:
-- background vocals
-- choir vocals
-- spoken vocals
-- lead vocals
+  - background vocals
+  - choir vocals
+  - spoken vocals
+  - lead vocals
 last_updated: '2025-12-31T01:50:32.756680'
 musical_connections:
   collaborators:
-  - James Ingram
-  - George Benson
-  - Michael Jackson
-  - Paul Simon
-  - Trevor Lawrence Jr.
+    - James Ingram
+    - George Benson
+    - Michael Jackson
+    - Paul Simon
+    - Trevor Lawrence Jr.
   influenced: []
   mentors:
-  - Dinah Washington
-  - Quincy Jones
+    - Dinah Washington
+    - Quincy Jones
 musicbrainz_id: e58ae396-5050-4640-a5d1-8826b5c4ba13
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.sfjazz.org/onthecorner/articles/5-things-you-should-know-about-patti-austin/
-- https://www.justjazz.de/project/patti-austin/
-- https://en.wikipedia.org/wiki/Patti_Austin
-- https://americansongwriter.com/yacht-rock-essentials-patti-austin-and-james-ingram-delivered-duet-gold-with-baby-come-to-me/
-- https://concord.com/artist/patti-austin/
-- https://uaagency.com/hip-hop-rb/patti-austin/
+  - >-
+    https://www.sfjazz.org/onthecorner/articles/5-things-you-should-know-about-patti-austin/
+  - 'https://www.justjazz.de/project/patti-austin/'
+  - 'https://en.wikipedia.org/wiki/Patti_Austin'
+  - >-
+    https://americansongwriter.com/yacht-rock-essentials-patti-austin-and-james-ingram-delivered-duet-gold-with-baby-come-to-me/
+  - 'https://concord.com/artist/patti-austin/'
+  - 'https://uaagency.com/hip-hop-rb/patti-austin/'
 spotify_data:
   followers: 248287
   id: 0JxChc2w5fwTGbXKfc4cRd
   popularity: 52
-  url: https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd
+  url: 'https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd'
 status: active
 tags:
-- 2008 universal fire victim
-- contralto
-- jazz
+  - 2008 universal fire victim
+  - contralto
+  - jazz
 title: Patti Austin
 ---
 

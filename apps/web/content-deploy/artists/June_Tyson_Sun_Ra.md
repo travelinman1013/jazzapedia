@@ -1,16 +1,16 @@
 ---
-title: June Tyson, Sun Ra
+title: 'June Tyson, Sun Ra'
 wiki_slug: june-tyson-sun-ra
 schema_version: 2
 status: active
-birth_place: Albemarle, North Carolina, United States
+birth_place: 'Albemarle, North Carolina, United States'
 genres:
-- free jazz
+  - free jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/June_Tyson_Sun_Ra.jpg
-  caption: June Tyson, Sun Ra
+  caption: 'June Tyson, Sun Ra'
   background: solo_singer
-  origin: Albemarle, North Carolina, United States
+  origin: 'Albemarle, North Carolina, United States'
 audio_profile:
   tempo_avg: 115.1
   energy_avg: 0.275
@@ -26,46 +26,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sun Ra Arkestra
-  - Richard Wilkerson
+    - Sun Ra Arkestra
+    - Richard Wilkerson
   influenced:
-  - Marshall Allen
-  - Knoel Scott
+    - Marshall Allen
+    - Knoel Scott
   mentors:
-  - Sun Ra
+    - Sun Ra
 spotify_data:
   followers: 1076
   id: 5SxOG03ViZuKdd9yjCMBfZ
   popularity: 5
-  url: https://open.spotify.com/artist/5SxOG03ViZuKdd9yjCMBfZ
+  url: 'https://open.spotify.com/artist/5SxOG03ViZuKdd9yjCMBfZ'
 discography_enriched: true
 top_tracks:
-- Outer Spaceways Incorporated (The Saturnian Queen of the Sun Ra Arkestra)
-- The Moors (Moorish Nights) (The Saturnian Queen of the Sun Ra Arkestra)
-- Somebody Else's World (The Saturnian Queen of the Sun Ra Arkestra)
-- Stardust from Tomorrow (The Saturnian Queen of the Sun Ra Arkestra)
-- Astro Black (The Saturnian Queen of the Sun Ra Arkestra)
-- Smile (The Saturnian Queen of the Sun Ra Arkestra)
-- We Travel The Spaceways (The Saturnian Queen of the Sun Ra Arkestra)
-- Enlightenment (The Saturnian Queen of the Sun Ra Arkestra)
-- Satellites Are Spinning (The Saturnian Queen of the Sun Ra Arkestra)
-- Theme of the Stargazers (The Saturnian Queen of the Sun Ra Arkestra)
+  - Outer Spaceways Incorporated (The Saturnian Queen of the Sun Ra Arkestra)
+  - The Moors (Moorish Nights) (The Saturnian Queen of the Sun Ra Arkestra)
+  - Somebody Else's World (The Saturnian Queen of the Sun Ra Arkestra)
+  - Stardust from Tomorrow (The Saturnian Queen of the Sun Ra Arkestra)
+  - Astro Black (The Saturnian Queen of the Sun Ra Arkestra)
+  - Smile (The Saturnian Queen of the Sun Ra Arkestra)
+  - We Travel The Spaceways (The Saturnian Queen of the Sun Ra Arkestra)
+  - Enlightenment (The Saturnian Queen of the Sun Ra Arkestra)
+  - Satellites Are Spinning (The Saturnian Queen of the Sun Ra Arkestra)
+  - Theme of the Stargazers (The Saturnian Queen of the Sun Ra Arkestra)
 external_urls:
-  spotify: https://open.spotify.com/artist/5SxOG03ViZuKdd9yjCMBfZ
-  wikipedia: https://en.wikipedia.org/wiki/June_Tyson
+  spotify: 'https://open.spotify.com/artist/5SxOG03ViZuKdd9yjCMBfZ'
+  wikipedia: 'https://en.wikipedia.org/wiki/June_Tyson'
 image_path: 03_Resources/source_material/ArtistPortraits/June_Tyson_Sun_Ra.jpg
 biography_enhanced_at: '2025-10-22T06:57:41.148999'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/June_Tyson
-- https://sunra.substack.com/p/june-tyson
-- https://daily.bandcamp.com/features/sun-ra-arkestras-june-tyson-was-the-queen-of-afrofuturism
-- https://artyardrecords.co.uk/remembering-june-tyson-by-knoel-scott/
-- https://www.allmusic.com/artist/june-tyson-mn0000727798
+  - 'https://en.wikipedia.org/wiki/June_Tyson'
+  - 'https://sunra.substack.com/p/june-tyson'
+  - >-
+    https://daily.bandcamp.com/features/sun-ra-arkestras-june-tyson-was-the-queen-of-afrofuturism
+  - 'https://artyardrecords.co.uk/remembering-june-tyson-by-knoel-scott/'
+  - 'https://www.allmusic.com/artist/june-tyson-mn0000727798'
 network_extracted: true
 entry_created: '2025-10-22T06:57:41.149014'
 last_updated: '2025-12-23T08:16:02.754106'
+birth_date: '1936-02-05'
+death_date: '1992-11-24'
+artist_type: person
 ---
 
 ![](June_Tyson_Sun_Ra.jpg)

@@ -5,14 +5,14 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1982-01-10'
-birth_place: Jackson
+birth_place: 'Jackson, Tennessee, United States'
 genres:
-- folk
-- americana
+  - folk
+  - americana
 instruments:
-- acoustic guitar
-- electric guitar
-- lead vocals
+  - acoustic guitar
+  - electric guitar
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/valerie_june.jpg
   caption: Valerie June
@@ -34,57 +34,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Old Crow Medicine Show
-  - Dan Auerbach
-  - Booker T. Jones
-  - Carla Thomas
-  - Mavis Staples
+    - Old Crow Medicine Show
+    - Dan Auerbach
+    - Booker T. Jones
+    - Carla Thomas
+    - Mavis Staples
   influenced:
-  - No widely documented direct proteges
+    - No widely documented direct proteges
   mentors:
-  - Her father (Emmett June)
-  - Joni Mitchell, Van Morrison, Joan Baez
+    - Her father (Emmett June)
+    - 'Joni Mitchell, Van Morrison, Joan Baez'
 spotify_data:
   followers: 187095
   id: 4QZdOCb3UacKbQ1ybDFAKM
   popularity: 45
-  url: https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM
+  url: 'https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM'
 discography_enriched: true
 top_tracks:
-- You And I - Moon And Stars / Acoustic
-- Astral Plane (The Order Of Time)
-- Sweet Things Just for You
-- 'You And I - Moon And Stars / Acoustic (The Moon And Stars: Prescriptions For Dreamers (Deluxe Edition))'
-- Joy, Joy!
-- Wanna Be on Your Mind (Pushin' against a Stone)
-- 'Call Me A Fool [Feat. Carla Thomas] (The Moon And Stars: Prescriptions For Dreamers)'
-- Wanna Be On Your Mind (Pushin' Against A Stone)
-- With You - A Sweet Little Love Song Demo
-- Long Lonely Road (The Order Of Time)
+  - You And I - Moon And Stars / Acoustic
+  - Astral Plane (The Order Of Time)
+  - Sweet Things Just for You
+  - >-
+    You And I - Moon And Stars / Acoustic (The Moon And Stars: Prescriptions For
+    Dreamers (Deluxe Edition))
+  - 'Joy, Joy!'
+  - Wanna Be on Your Mind (Pushin' against a Stone)
+  - >-
+    Call Me A Fool [Feat. Carla Thomas] (The Moon And Stars: Prescriptions For
+    Dreamers)
+  - Wanna Be On Your Mind (Pushin' Against A Stone)
+  - With You - A Sweet Little Love Song Demo
+  - Long Lonely Road (The Order Of Time)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b76c1bf7-f33b-460c-bfc3-f140d023fc94
-  spotify: https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM
-  wikipedia: https://en.wikipedia.org/wiki/Valerie_June
+  musicbrainz: 'https://musicbrainz.org/artist/b76c1bf7-f33b-460c-bfc3-f140d023fc94'
+  spotify: 'https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM'
+  wikipedia: 'https://en.wikipedia.org/wiki/Valerie_June'
 image_path: 03_Resources/source_material/ArtistPortraits/valerie_june.jpg
 biography_enhanced_at: '2025-10-26T12:41:26.521029'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Valerie+June/+wiki
-- https://bittersoutherner.com/feature/2021/valerie-junes-mindful-medicine
-- https://theboot.com/who-is-valerie-june/
-- https://mps.milwaukee.k12.wi.us/en/District/Initiatives/Turnaround-Arts/Valerie-June.htm
-- https://www.valeriejune.com/about-1
-- https://www.valeriejune.com/about
+  - 'https://www.last.fm/music/Valerie+June/+wiki'
+  - 'https://bittersoutherner.com/feature/2021/valerie-junes-mindful-medicine'
+  - 'https://theboot.com/who-is-valerie-june/'
+  - >-
+    https://mps.milwaukee.k12.wi.us/en/District/Initiatives/Turnaround-Arts/Valerie-June.htm
+  - 'https://www.valeriejune.com/about-1'
+  - 'https://www.valeriejune.com/about'
 network_extracted: true
 entry_created: '2025-10-26T12:41:26.521038'
 last_updated: '2025-12-23T08:16:17.811597'
 gender: Female
 musicbrainz_id: b76c1bf7-f33b-460c-bfc3-f140d023fc94
 tags:
-- americana
-- bluegrass
-- blues
+  - americana
+  - bluegrass
+  - blues
+origin: 'Memphis, Tennessee, United States'
 ---
 
 ![](valerie_june.jpg)

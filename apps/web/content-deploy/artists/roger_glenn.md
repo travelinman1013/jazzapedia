@@ -3,15 +3,19 @@ title: Roger Glenn
 wiki_slug: roger-glenn
 schema_version: 2
 status: active
-birth_place: New York City, New York, United States (birthplace); raised in Englewood, New Jersey, United States
+birth_place: >-
+  New York City, New York, United States (birthplace); raised in Englewood, New
+  Jersey, United States
 genres:
-- jazz funk
-- jazz fusion
+  - jazz funk
+  - jazz fusion
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/roger_glenn.jpg
   caption: Roger Glenn
   background: solo_singer
-  origin: New York City, New York, United States (birthplace); raised in Englewood, New Jersey, United States
+  origin: >-
+    New York City, New York, United States (birthplace); raised in Englewood,
+    New Jersey, United States
 audio_profile:
   tempo_avg: 125.9
   energy_avg: 0.607
@@ -27,54 +31,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Cal Tjader
-  - Dizzy Gillespie
-  - Mongo Santamaria
-  - Donald Byrd
-  - Herbie Mann
-  - Taj Mahal
-  - Kurt Elling
-  - Count Basie Orchestra
-  - Steely Dan
+    - Cal Tjader
+    - Dizzy Gillespie
+    - Mongo Santamaria
+    - Donald Byrd
+    - Herbie Mann
+    - Taj Mahal
+    - Kurt Elling
+    - Count Basie Orchestra
+    - Steely Dan
   influenced: []
   mentors:
-  - Tyree Glenn
-  - Mary Lou Williams
+    - Tyree Glenn
+    - Mary Lou Williams
 spotify_data:
   followers: 406
   id: 7jnWKcHAIv81blyiWv47Kp
   popularity: 9
-  url: https://open.spotify.com/artist/7jnWKcHAIv81blyiWv47Kp
+  url: 'https://open.spotify.com/artist/7jnWKcHAIv81blyiWv47Kp'
 discography_enriched: true
 top_tracks:
-- Southern Side (There Goes That)
-- Don't Leave (Reachin')
-- Kick (Reachin')
-- Santa Cruz (Latin Jazz Project, Vol. 1)
-- Gloria (Reachin')
-- Brother Marshall (My Latin Heart)
-- 'Don’t Leave (Jazz Dispensary: Orange Sunset)'
-- Zambo's Mambo (My Latin Heart)
-- Cal's Guajira (My Latin Heart)
-- Almost Certain (There Goes That)
+  - Southern Side (There Goes That)
+  - Don't Leave (Reachin')
+  - Kick (Reachin')
+  - 'Santa Cruz (Latin Jazz Project, Vol. 1)'
+  - Gloria (Reachin')
+  - Brother Marshall (My Latin Heart)
+  - 'Don’t Leave (Jazz Dispensary: Orange Sunset)'
+  - Zambo's Mambo (My Latin Heart)
+  - Cal's Guajira (My Latin Heart)
+  - Almost Certain (There Goes That)
 external_urls:
-  spotify: https://open.spotify.com/artist/7jnWKcHAIv81blyiWv47Kp
+  spotify: 'https://open.spotify.com/artist/7jnWKcHAIv81blyiWv47Kp'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/roger_glenn.jpg
 biography_enhanced_at: '2025-12-04T07:57:55.184746'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- All About Jazz (allaboutjazz.com)
-- Roger Glenn Jazz Official Website (rogerglennjazz.com)
-- Latin Jazz Net (latinjazznet.com)
-- Psychedelic Baby Magazine (psychedelicbabymag.com)
-- NAMM Oral History (namm.org)
-- DownBeat (downbeat.com)
+  - All About Jazz (allaboutjazz.com)
+  - Roger Glenn Jazz Official Website (rogerglennjazz.com)
+  - Latin Jazz Net (latinjazznet.com)
+  - Psychedelic Baby Magazine (psychedelicbabymag.com)
+  - NAMM Oral History (namm.org)
+  - DownBeat (downbeat.com)
 network_extracted: true
 entry_created: '2025-12-04T07:57:55.184752'
 last_updated: '2025-12-23T08:16:14.981693'
-
+birth_date: '1945-06-11'
+artist_type: person
 ---
 
 ![](roger_glenn.jpg)

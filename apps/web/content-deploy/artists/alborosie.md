@@ -5,20 +5,20 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1977-04-04'
-birth_place: Marsala
+birth_place: 'Marsala, Sicily, Italy'
 genres:
-- reggae
-- roots reggae
-- ragga
-- dub
+  - reggae
+  - roots reggae
+  - ragga
+  - dub
 instruments:
-- lead vocals
+  - lead vocals
 associated_acts:
-- begin: '1993'
-  end: '2006'
-  instruments: []
-  mbid: 3882fef9-1c96-4142-ba8a-74fc6e9b6c84
-  name: Reggae National Tickets
+  - begin: '1993'
+    end: '2006'
+    instruments: []
+    mbid: 3882fef9-1c96-4142-ba8a-74fc6e9b6c84
+    name: Reggae National Tickets
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/alborosie.jpg
   caption: Alborosie
@@ -31,7 +31,7 @@ audio_profile:
   valence_avg: 0.705
   danceability_avg: 0.729
   acousticness_avg: 0.1
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -5.9
   speechiness_avg: 0.191
   liveness_avg: 0.195
@@ -40,64 +40,67 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ky-mani Marley
-  - Kabaka Pyramid
-  - Protoje
-  - U-Roy
-  - Sizzla
-  - Gentleman
-  - Luciano
-  - Sly & Robbie
-  - Capleton
-  - Manu Chao
-  - Reggae National Tickets
+    - Ky-mani Marley
+    - Kabaka Pyramid
+    - Protoje
+    - U-Roy
+    - Sizzla
+    - Gentleman
+    - Luciano
+    - Sly & Robbie
+    - Capleton
+    - Manu Chao
+    - Reggae National Tickets
   influenced: []
   mentors:
-  - Clifton 'Specialist' Dillon
-  - Bob Marley and the Wailers
-  - Burning Spear and Peter Tosh
+    - Clifton 'Specialist' Dillon
+    - Bob Marley and the Wailers
+    - Burning Spear and Peter Tosh
 spotify_data:
   followers: 689208
   id: 78u1jLVBjPSXQVmHBV43yG
   popularity: 58
-  url: https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG
+  url: 'https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG'
 discography_enriched: true
 top_tracks:
-- Kingston Town (Soul Pirate)
-- Herbalist (Soul Pirate)
-- Still Blazin (feat. Alborosie) (Kush & Orange Juice)
-- Danza della pioggia (feat. Alborosie) (FAME)
-- No Cocaine (Escape From Babylon)
-- Still Blazing (Soul Pirate)
-- 2 Mins of Pain (feat. Alborosie)
-- 'Contradiction (feat. Chronixx) (Unbreakable: Alborosie Meets The Wailers United)'
-- Natural Mystic (feat. Ky-Mani Marley) (Soul Pirate)
-- Stepping Out (feat. David Hinds) (Specialist Presents Alborosie & Friends)
+  - Kingston Town (Soul Pirate)
+  - Herbalist (Soul Pirate)
+  - Still Blazin (feat. Alborosie) (Kush & Orange Juice)
+  - Danza della pioggia (feat. Alborosie) (FAME)
+  - No Cocaine (Escape From Babylon)
+  - Still Blazing (Soul Pirate)
+  - 2 Mins of Pain (feat. Alborosie)
+  - >-
+    Contradiction (feat. Chronixx) (Unbreakable: Alborosie Meets The Wailers
+    United)
+  - Natural Mystic (feat. Ky-Mani Marley) (Soul Pirate)
+  - Stepping Out (feat. David Hinds) (Specialist Presents Alborosie & Friends)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/dad904da-8bd7-46b2-b202-f9a9ecd6bbab
-  spotify: https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG
+  musicbrainz: 'https://musicbrainz.org/artist/dad904da-8bd7-46b2-b202-f9a9ecd6bbab'
+  spotify: 'https://open.spotify.com/artist/78u1jLVBjPSXQVmHBV43yG'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/alborosie.jpg
 biography_enhanced_at: '2025-12-04T08:25:31.043858'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- vprecords.com
-- reggaeriseup.com
-- pauzeradio.com
-- thesirenmorrobay.com
-- reggaeeurope.com
-- reggaeville.com
-- jango.com
+  - vprecords.com
+  - reggaeriseup.com
+  - pauzeradio.com
+  - thesirenmorrobay.com
+  - reggaeeurope.com
+  - reggaeville.com
+  - jango.com
 network_extracted: true
 entry_created: '2025-12-04T08:25:31.043871'
 last_updated: '2025-12-23T08:16:04.516982'
 gender: Male
 musicbrainz_id: dad904da-8bd7-46b2-b202-f9a9ecd6bbab
 tags:
-- dancehall
-- dub
-- reggae
+  - dancehall
+  - dub
+  - reggae
+origin: 'Kingston, Jamaica'
 ---
 
 ![](alborosie.jpg)

@@ -1,42 +1,46 @@
 ---
 biography_enhanced_at: '2025-12-29T01:18:08.173778'
-birth_place: Jamaica (Kashief Lindo); Annotto Bay, Saint Mary, Jamaica (Beres Hammond); Kingston, Jamaica (Wayne Wade)
+birth_place: 'Jamaica, Jamaica, Jamaica'
 enhancement_provider: perplexity
 entry_created: '2025-12-29T01:18:08.173791'
 external_urls:
-  spotify: https://open.spotify.com/artist/5OUbkehpd3H7pV8DKcQlNt
-  wikipedia: https://en.wikipedia.org/wiki/Kashief_Lindo
+  spotify: 'https://open.spotify.com/artist/5OUbkehpd3H7pV8DKcQlNt'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kashief_Lindo'
 genres:
-- lovers rock
-- reggae
-- riddim
-image_path: 03_Resources/source_material/ArtistPortraits/kashief_lindo_beres_hammond_wayne_wade.jpg
+  - lovers rock
+  - reggae
+  - riddim
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/kashief_lindo_beres_hammond_wayne_wade.jpg
 last_updated: '2025-12-29T01:18:08.173793'
 musical_connections:
   collaborators:
-  - Beres Hammond
-  - Wayne Wade
+    - Beres Hammond
+    - Wayne Wade
   influenced: []
   mentors:
-  - Willie Lindo
+    - Willie Lindo
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.jamaicaobserver.com/2024/03/17/kashief-lindos-first-song-2024-latin-flavour/
-- https://www.last.fm/music/Beres+Hammond,+Kashief+Lindo+&+Wayne+Wade/Sweet+Reggae+Music+-+EP
-- https://sflcn.com/kashief-lindo-love-on-album-drops-october-1st/
-- https://www.youtube.com/watch?v=4E3XXyzR3ew
-- https://music.apple.com/zw/artist/wayne-wade/24823948
-- https://music.youtube.com/channel/UCERwJzJZ7mZzHPiK-atq3KA
-- https://play.anghami.com/artist/12544
+  - >-
+    https://www.jamaicaobserver.com/2024/03/17/kashief-lindos-first-song-2024-latin-flavour/
+  - >-
+    https://www.last.fm/music/Beres+Hammond,+Kashief+Lindo+&+Wayne+Wade/Sweet+Reggae+Music+-+EP
+  - 'https://sflcn.com/kashief-lindo-love-on-album-drops-october-1st/'
+  - 'https://www.youtube.com/watch?v=4E3XXyzR3ew'
+  - 'https://music.apple.com/zw/artist/wayne-wade/24823948'
+  - 'https://music.youtube.com/channel/UCERwJzJZ7mZzHPiK-atq3KA'
+  - 'https://play.anghami.com/artist/12544'
 spotify_data:
   followers: 19090
   id: 5OUbkehpd3H7pV8DKcQlNt
   popularity: 34
-  url: https://open.spotify.com/artist/5OUbkehpd3H7pV8DKcQlNt
+  url: 'https://open.spotify.com/artist/5OUbkehpd3H7pV8DKcQlNt'
 status: active
-title: Kashief Lindo, Beres Hammond, Wayne Wade
-
+title: 'Kashief Lindo, Beres Hammond, Wayne Wade'
+origin: 'Kingston, Jamaica, Jamaica'
+artist_type: person
 ---
 
 ![](kashief_lindo_beres_hammond_wayne_wade.jpg)

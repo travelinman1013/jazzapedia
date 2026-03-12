@@ -5,123 +5,123 @@ birth_date: '1978'
 enhancement_provider: perplexity
 entry_created: '2026-01-12T02:08:08.320827'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/138aaf2c-77b6-451e-ade2-ce18894eeaa7
-  spotify: https://open.spotify.com/artist/1EGr1AnjVRXYz8j9CTYDlm
-  wikipedia: https://en.wikipedia.org/wiki/Trouble_Funk
+  musicbrainz: 'https://musicbrainz.org/artist/138aaf2c-77b6-451e-ade2-ce18894eeaa7'
+  spotify: 'https://open.spotify.com/artist/1EGr1AnjVRXYz8j9CTYDlm'
+  wikipedia: 'https://en.wikipedia.org/wiki/Trouble_Funk'
 formation_year: 1978
 genres:
-- go-go
-- post-disco
+  - go-go
+  - post-disco
 image_path: 03_Resources/source_material/ArtistPortraits/trouble_funk.jpg
 instruments:
-- keyboard
-- percussion
-- guitar
-- bass guitar
-- drums (drum set)
-- trombone
-- trumpet
-- saxophone
+  - keyboard
+  - percussion
+  - guitar
+  - bass guitar
+  - drums (drum set)
+  - trombone
+  - trumpet
+  - saxophone
 is_active: true
 last_updated: '2026-01-12T02:08:08.320827'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - keyboard
-  mbid: 8b36d44c-7407-4984-8e91-73aa4f6c19ac
-  name: James Avery
-- begin: ''
-  end: ''
-  instruments:
-  - percussion
-  mbid: 9c493e1a-c5a3-4c62-89aa-c6b05185139b
-  name: Mack Carey
-- begin: ''
-  end: ''
-  instruments:
-  - percussion
-  mbid: d78769f9-27a8-4972-bbd4-793d82cf4ba7
-  name: Timothy "T-Bone" David
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: 5c1e8b08-c5a9-4f8a-992e-92936995cd4f
-  name: Chester Davis
-- begin: ''
-  end: ''
-  instruments:
-  - bass guitar
-  mbid: 2e975cda-b99d-4d30-a9ad-27662126b971
-  name: Tony Fisher
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 774c1133-7498-4204-8a30-b21a55d6fb84
-  name: Emmett Nixon
-- begin: ''
-  end: ''
-  instruments:
-  - trombone
-  mbid: 84a33b98-3049-4993-a85c-8f0422d1640f
-  name: Gerald Reed
-- begin: ''
-  end: ''
-  instruments:
-  - keyboard
-  mbid: f8e22dfd-865e-4be2-adce-595a31147aeb
-  name: Robert Reed
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: fd71d980-6295-478e-942f-e42badffdad1
-  name: Taylor Reed
-- begin: ''
-  end: ''
-  instruments:
-  - saxophone
-  mbid: d8aac78c-41b9-4771-b1fa-13cf1c744e8c
-  name: David Rudd
+  - begin: ''
+    end: ''
+    instruments:
+      - keyboard
+    mbid: 8b36d44c-7407-4984-8e91-73aa4f6c19ac
+    name: James Avery
+  - begin: ''
+    end: ''
+    instruments:
+      - percussion
+    mbid: 9c493e1a-c5a3-4c62-89aa-c6b05185139b
+    name: Mack Carey
+  - begin: ''
+    end: ''
+    instruments:
+      - percussion
+    mbid: d78769f9-27a8-4972-bbd4-793d82cf4ba7
+    name: Timothy "T-Bone" David
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 5c1e8b08-c5a9-4f8a-992e-92936995cd4f
+    name: Chester Davis
+  - begin: ''
+    end: ''
+    instruments:
+      - bass guitar
+    mbid: 2e975cda-b99d-4d30-a9ad-27662126b971
+    name: Tony Fisher
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 774c1133-7498-4204-8a30-b21a55d6fb84
+    name: Emmett Nixon
+  - begin: ''
+    end: ''
+    instruments:
+      - trombone
+    mbid: 84a33b98-3049-4993-a85c-8f0422d1640f
+    name: Gerald Reed
+  - begin: ''
+    end: ''
+    instruments:
+      - keyboard
+    mbid: f8e22dfd-865e-4be2-adce-595a31147aeb
+    name: Robert Reed
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: fd71d980-6295-478e-942f-e42badffdad1
+    name: Taylor Reed
+  - begin: ''
+    end: ''
+    instruments:
+      - saxophone
+    mbid: d8aac78c-41b9-4771-b1fa-13cf1c744e8c
+    name: David Rudd
 musical_connections:
   collaborators:
-  - Tony “Big Tony” Fisher
-  - Robert “Syke Dyke” Reed
-  - James Avery
-  - Taylor Reed
-  - Kurtis Blow
-  - Bootsy Collins
-  - Minor Threat
-  - Big Boys
+    - Tony “Big Tony” Fisher
+    - Robert “Syke Dyke” Reed
+    - James Avery
+    - Taylor Reed
+    - Kurtis Blow
+    - Bootsy Collins
+    - Minor Threat
+    - Big Boys
   influenced:
-  - EU (Experience Unlimited), Rare Essence, and other D.C. go-go bands
-  - Hip-hop producers and artists using Trouble Funk samples
-  - International festival and college‑town funk scenes
+    - 'EU (Experience Unlimited), Rare Essence, and other D.C. go-go bands'
+    - Hip-hop producers and artists using Trouble Funk samples
+    - International festival and college‑town funk scenes
   mentors:
-  - Chuck Brown
+    - Chuck Brown
 musicbrainz_id: 138aaf2c-77b6-451e-ade2-ce18894eeaa7
 network_extracted: true
-origin: Washington, D.C.
+origin: 'Washington, D.C., United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Trouble_Funk
-- https://justiceaid.org/trouble-funk-2/
-- https://daily.redbullmusicacademy.com/2017/04/trouble-funk-feature/
-- https://www.last.fm/music/Trouble+Funk/+wiki
-- https://troublefunk.com/our-story
-- https://www.warr.org/trouble.html
+  - 'https://en.wikipedia.org/wiki/Trouble_Funk'
+  - 'https://justiceaid.org/trouble-funk-2/'
+  - 'https://daily.redbullmusicacademy.com/2017/04/trouble-funk-feature/'
+  - 'https://www.last.fm/music/Trouble+Funk/+wiki'
+  - 'https://troublefunk.com/our-story'
+  - 'https://www.warr.org/trouble.html'
 spotify_data:
   followers: 18202
   id: 1EGr1AnjVRXYz8j9CTYDlm
   popularity: 21
-  url: https://open.spotify.com/artist/1EGr1AnjVRXYz8j9CTYDlm
+  url: 'https://open.spotify.com/artist/1EGr1AnjVRXYz8j9CTYDlm'
 status: active
 tags:
-- funk
-- go-go
-- r&b
+  - funk
+  - go-go
+  - r&b
 title: Trouble Funk
 ---
 

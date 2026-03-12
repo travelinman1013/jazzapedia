@@ -1,12 +1,12 @@
 ---
-title: King Lee, Quintron
+title: 'King Lee, Quintron'
 wiki_slug: king-lee-quintron
 schema_version: 2
 status: active
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/king_lee_quintron.jpg
-  caption: King Lee, Quintron
+  caption: 'King Lee, Quintron'
   background: solo_singer
 audio_profile:
   tempo_avg: 87.8
@@ -14,7 +14,7 @@ audio_profile:
   valence_avg: 0.559
   danceability_avg: 0.655
   acousticness_avg: 0.311
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -7.8
   speechiness_avg: 0.267
   liveness_avg: 0.181
@@ -29,14 +29,14 @@ spotify_data:
   followers: 14
   id: 6HEEg0NAiUj0jRkDnzzVeP
   popularity: 12
-  url: https://open.spotify.com/artist/6HEEg0NAiUj0jRkDnzzVeP
+  url: 'https://open.spotify.com/artist/6HEEg0NAiUj0jRkDnzzVeP'
 discography_enriched: true
 top_tracks:
-- What's Up (What's Up)
-- Time (Time)
-- Good Life (Good Life)
+  - What's Up (What's Up)
+  - Time (Time)
+  - Good Life (Good Life)
 external_urls:
-  spotify: https://open.spotify.com/artist/6HEEg0NAiUj0jRkDnzzVeP
+  spotify: 'https://open.spotify.com/artist/6HEEg0NAiUj0jRkDnzzVeP'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/king_lee_quintron.jpg
 biography_enhanced_at: '2025-12-04T07:31:21.249252'
@@ -46,6 +46,8 @@ research_sources: []
 network_extracted: true
 entry_created: '2025-12-04T07:31:21.249270'
 last_updated: '2025-12-23T08:16:11.386616'
+origin: Unknown
+artist_type: band
 ---
 
 ![](king_lee_quintron.jpg)

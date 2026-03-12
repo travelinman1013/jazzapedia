@@ -5,13 +5,13 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1932-01-05'
-birth_place: New Orleans
+birth_place: 'New Orleans, Louisiana, United States'
 death_date: '1998-09-14'
 genres:
-- soul blues
-- blues
+  - soul blues
+  - blues
 instruments:
-- guitar
+  - guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/johnny_adams.jpg
   caption: Johnny Adams
@@ -34,55 +34,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mac Rebennack (Dr. John)
-  - Scott Billington
+    - Mac Rebennack (Dr. John)
+    - Scott Billington
   influenced:
-  - Aaron Neville
-  - Darius Rucker
+    - Aaron Neville
+    - Darius Rucker
   mentors:
-  - Bessie Griffin
+    - Bessie Griffin
 spotify_data:
   followers: 9970
   id: 24qtJegdRiX2TPRvPN6rzk
   popularity: 28
-  url: https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk
+  url: 'https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk'
 discography_enriched: true
 top_tracks:
-- Reconsider Me (Heart and Soul)
-- This Time I'm Gone For Good (Man Of My Word)
-- Georgia Morning Dew (Heart and Soul)
-- Release Me (Heart and Soul)
-- It's Been So Long - Remastered (Only Want To Be With You)
-- I Won't Cry (Heart and Soul)
-- I Don't Worry Myself
-- In a Moment of Weakness (Heart and Soul)
-- Proud
-- It Ain't The Same Thing (Man Of My Word)
+  - Reconsider Me (Heart and Soul)
+  - This Time I'm Gone For Good (Man Of My Word)
+  - Georgia Morning Dew (Heart and Soul)
+  - Release Me (Heart and Soul)
+  - It's Been So Long - Remastered (Only Want To Be With You)
+  - I Won't Cry (Heart and Soul)
+  - I Don't Worry Myself
+  - In a Moment of Weakness (Heart and Soul)
+  - Proud
+  - It Ain't The Same Thing (Man Of My Word)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ebb042e3-ec96-44de-80fa-65457e9c9560
-  spotify: https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk
-  wikipedia: https://en.wikipedia.org/wiki/Johnny_Adams
+  musicbrainz: 'https://musicbrainz.org/artist/ebb042e3-ec96-44de-80fa-65457e9c9560'
+  spotify: 'https://open.spotify.com/artist/24qtJegdRiX2TPRvPN6rzk'
+  wikipedia: 'https://en.wikipedia.org/wiki/Johnny_Adams'
 image_path: 03_Resources/source_material/ArtistPortraits/johnny_adams.jpg
 biography_enhanced_at: '2025-10-23T07:25:14.181648'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://musicianguide.com/biographies/1608002932/Johnny-Adams.html
-- http://www.soulwalking.co.uk/Johnny%20Adams.html
-- https://www.allaboutjazz.com/musicians/johnny-adams/
-- https://www.randysrodeo.com/rhythm/adams.php
-- https://www.wmky.org/arts-culture/2019-07-27/johnny-adams
-- https://www.satchmo.com/nolavl/johnny.html
+  - 'https://musicianguide.com/biographies/1608002932/Johnny-Adams.html'
+  - 'http://www.soulwalking.co.uk/Johnny%20Adams.html'
+  - 'https://www.allaboutjazz.com/musicians/johnny-adams/'
+  - 'https://www.randysrodeo.com/rhythm/adams.php'
+  - 'https://www.wmky.org/arts-culture/2019-07-27/johnny-adams'
+  - 'https://www.satchmo.com/nolavl/johnny.html'
 network_extracted: true
 entry_created: '2025-10-23T07:25:14.181657'
 last_updated: '2025-12-23T08:16:02.676012'
-disambiguation: US blues, jazz and gospel singer
+disambiguation: 'US blues, jazz and gospel singer'
 gender: Male
 musicbrainz_id: ebb042e3-ec96-44de-80fa-65457e9c9560
 tags:
-- r&b
-- soul
-- southern soul
+  - r&b
+  - soul
+  - southern soul
+is_active: false
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](johnny_adams.jpg)

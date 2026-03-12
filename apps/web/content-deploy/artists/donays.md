@@ -1,11 +1,11 @@
 ---
-title: Donays
+title: The Donays
 wiki_slug: donays
 schema_version: 2
 status: active
 genres:
-- disco
-- hi-nrg
+  - disco
+  - hi-nrg
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/donays.jpg
   caption: Donays
@@ -25,50 +25,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Yvonne Symington / Yvonne Singleton / Yvonne Vernee
-  - Janice Guinn
-  - Armie (Armie/Amie) Guinn
-  - Michelle Ray
-  - The Elgins
+    - Yvonne Symington / Yvonne Singleton / Yvonne Vernee
+    - Janice Guinn
+    - Armie (Armie/Amie) Guinn
+    - Michelle Ray
+    - The Elgins
   influenced:
-  - The Beatles
+    - The Beatles
   mentors:
-  - Richard P. (Ricky) Drapkin
-  - Richard "Popcorn" Wylie
+    - Richard P. (Ricky) Drapkin
+    - Richard "Popcorn" Wylie
 spotify_data:
   followers: 2182750
   id: 2eogQKWWoohI3BSnoG7E2U
   popularity: 66
-  url: https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U
+  url: 'https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U'
 discography_enriched: true
 top_tracks:
-- Hot Stuff (Bad Girls)
-- Bad Girls (Bad Girls)
-- Hot Stuff - 12" Version (Bad Girls (Deluxe Edition))
-- On The Radio
-- Hot Stuff
-- I Feel Love - 12" Version (Bad Girls (Deluxe Edition))
-- She Works Hard For The Money (She Works Hard For The Money)
-- I Feel Love (I Remember Yesterday)
-- Last Dance - Single Version
-- Last Dance
+  - Hot Stuff (Bad Girls)
+  - Bad Girls (Bad Girls)
+  - Hot Stuff - 12" Version (Bad Girls (Deluxe Edition))
+  - On The Radio
+  - Hot Stuff
+  - I Feel Love - 12" Version (Bad Girls (Deluxe Edition))
+  - She Works Hard For The Money (She Works Hard For The Money)
+  - I Feel Love (I Remember Yesterday)
+  - Last Dance - Single Version
+  - Last Dance
 external_urls:
-  spotify: https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U
-  wikipedia: https://en.wikipedia.org/wiki/The_Donays
+  spotify: 'https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Donays'
 image_path: 03_Resources/source_material/ArtistPortraits/donays.jpg
 biography_enhanced_at: '2025-12-13T12:35:41.145041'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Donays
-- http://www.beatlesebooks.com/devil-in-her-heart
-- https://www.history-of-rock.com/donays.htm
-- https://nostalgiacentral.com/music/artists-a-to-k/artists-d/donays-the/
-- https://www.allmusic.com/artist/the-donays-mn0000140408
+  - 'https://en.wikipedia.org/wiki/The_Donays'
+  - 'http://www.beatlesebooks.com/devil-in-her-heart'
+  - 'https://www.history-of-rock.com/donays.htm'
+  - 'https://nostalgiacentral.com/music/artists-a-to-k/artists-d/donays-the/'
+  - 'https://www.allmusic.com/artist/the-donays-mn0000140408'
 network_extracted: true
 entry_created: '2025-12-13T12:35:41.145050'
 last_updated: '2025-12-23T08:16:07.938202'
-origin: Hamtramck, Michigan, United States
+origin: 'Hamtramck, Michigan, United States'
+artist_type: band
 ---
 
 ![](donays.jpg)

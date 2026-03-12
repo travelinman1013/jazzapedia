@@ -1,28 +1,28 @@
 ---
-title: ronnie spector
+title: Ronnie Spector
 wiki_slug: ronnie-spector
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1943-08-10'
-birth_place: East Harlem
+birth_place: 'East Harlem, New York City, United States'
 death_date: '2022-01-12'
 genres:
-- horror punk
+  - horror punk
 instruments:
-- lead vocals
-- background vocals
+  - lead vocals
+  - background vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 393e5448-896f-43e9-b80b-4ee58e1e71a4
-  name: The Ronettes
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 520c2e3f-6ad0-492a-ac4e-7eecd8695e3b
-  name: The Asbury Park All‐Star Revue
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 393e5448-896f-43e9-b80b-4ee58e1e71a4
+    name: The Ronettes
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 520c2e3f-6ad0-492a-ac4e-7eecd8695e3b
+    name: The Asbury Park All‐Star Revue
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ronnie_spector.jpg
   caption: ronnie spector
@@ -45,55 +45,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Estelle Bennett
-  - Nedra Talley
-  - Eddie Money
+    - Estelle Bennett
+    - Nedra Talley
+    - Eddie Money
   influenced:
-  - Brian Wilson (The Beach Boys)
-  - Ramones
-  - Amy Winehouse
+    - Brian Wilson (The Beach Boys)
+    - Ramones
+    - Amy Winehouse
   mentors:
-  - Phil Spector
+    - Phil Spector
 spotify_data:
   followers: 31644
   id: 3ur7kjN4pd94zjUxrFSMDj
   popularity: 28
-  url: https://open.spotify.com/artist/3ur7kjN4pd94zjUxrFSMDj
+  url: 'https://open.spotify.com/artist/3ur7kjN4pd94zjUxrFSMDj'
 discography_enriched: true
 top_tracks:
-- This Magic Moment (Project 1950 (Expanded Edition))
-- You Belong to Me (Project 1950 (Expanded Edition))
-- Say Goodbye to Hollywood (Unfinished Business)
-- Rockin' Around The Christmas Tree
-- Try Some, Buy Some - Remastered
-- Don't Worry baby
-- She Talks To Rainbows
-- You Can't Put Your Arms Around A Memory (The Last Of The Rock Stars)
-- You Mean So Much to Me (feat. Ronnie Spector) - 2016 Remaster (I Don't Want to Go Home (Remastered))
-- Bye Bye Baby
+  - This Magic Moment (Project 1950 (Expanded Edition))
+  - You Belong to Me (Project 1950 (Expanded Edition))
+  - Say Goodbye to Hollywood (Unfinished Business)
+  - Rockin' Around The Christmas Tree
+  - 'Try Some, Buy Some - Remastered'
+  - Don't Worry baby
+  - She Talks To Rainbows
+  - You Can't Put Your Arms Around A Memory (The Last Of The Rock Stars)
+  - >-
+    You Mean So Much to Me (feat. Ronnie Spector) - 2016 Remaster (I Don't Want
+    to Go Home (Remastered))
+  - Bye Bye Baby
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e0718a77-e7a0-4602-9592-a0d8d4764c32
-  spotify: https://open.spotify.com/artist/3ur7kjN4pd94zjUxrFSMDj
-  wikipedia: https://en.wikipedia.org/wiki/Ronnie_Spector
+  musicbrainz: 'https://musicbrainz.org/artist/e0718a77-e7a0-4602-9592-a0d8d4764c32'
+  spotify: 'https://open.spotify.com/artist/3ur7kjN4pd94zjUxrFSMDj'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ronnie_Spector'
 image_path: 03_Resources/source_material/ArtistPortraits/ronnie_spector.jpg
 biography_enhanced_at: '2025-11-11T09:28:29.187011'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Ronnie_Spector
-- https://riotfest.org/2022/03/08/remembering-ronnie-spector-an-illustrated-history/
-- https://www.sdamustang.com/arts-and-entertainment/music/2022/01/25/the-tumultuous-life-of-ronnie-spector/
-- https://www.biography.com/musicians/ronnie-spector
-- https://www.imdb.com/name/nm0817491/bio/
+  - 'https://en.wikipedia.org/wiki/Ronnie_Spector'
+  - >-
+    https://riotfest.org/2022/03/08/remembering-ronnie-spector-an-illustrated-history/
+  - >-
+    https://www.sdamustang.com/arts-and-entertainment/music/2022/01/25/the-tumultuous-life-of-ronnie-spector/
+  - 'https://www.biography.com/musicians/ronnie-spector'
+  - 'https://www.imdb.com/name/nm0817491/bio/'
 network_extracted: true
 entry_created: '2025-11-11T09:28:29.187022'
 last_updated: '2025-12-23T08:16:15.038132'
 gender: Female
 musicbrainz_id: e0718a77-e7a0-4602-9592-a0d8d4764c32
 tags:
-- american
-- rock and roll
-- singer
+  - american
+  - rock and roll
+  - singer
+is_active: false
+origin: 'Washington Heights, Manhattan, United States'
 ---
 
 ![](ronnie_spector.jpg)

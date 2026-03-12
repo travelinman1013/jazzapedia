@@ -1,128 +1,128 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 0c332c8b-3440-4462-aafe-f1aaf0136e5d
-  name: Lee Konitz Nonet
-- begin: ''
-  end: ''
-  instruments:
-  - alto saxophone
-  mbid: 16d2b8e6-8930-4c9e-856f-e6d096479350
-  name: The Miles Davis Nonet
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 2e0d93f9-dc49-4dfa-9668-c3360f1ae8bf
-  name: Lee Konitz New Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 645f6cc8-f068-4458-85d4-acbb9d0ab70d
-  name: Lee Konitz Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: a06f5f5b-37f8-47f5-b702-f1e9098694f8
-  name: Lee Konitz-Ohad Talmor String Project
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f45f4766-92d4-40b0-8f45-04c562efeafa
-  name: The Lee Konitz Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 00fcae67-0e11-4717-ab2f-d7d786e581d7
-  name: Lee Konitz Septet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c3401a0a-d941-46c3-81c9-dc2cbf832a64
-  name: Zollsound 4
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 67ed138e-bca8-45ce-8843-8754eff14c76
-  name: Phil Woods / Lee Konitz / Enrico Rava 6et
-- begin: ''
-  end: ''
-  instruments:
-  - alto saxophone
-  mbid: 296ef111-e468-4f9a-a2da-cf176ba5cd13
-  name: Cool Trance Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ac8ba4df-1319-44dc-954d-474e287afee0
-  name: The Theatre of Eternal Music
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 0c332c8b-3440-4462-aafe-f1aaf0136e5d
+    name: Lee Konitz Nonet
+  - begin: ''
+    end: ''
+    instruments:
+      - alto saxophone
+    mbid: 16d2b8e6-8930-4c9e-856f-e6d096479350
+    name: The Miles Davis Nonet
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 2e0d93f9-dc49-4dfa-9668-c3360f1ae8bf
+    name: Lee Konitz New Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 645f6cc8-f068-4458-85d4-acbb9d0ab70d
+    name: Lee Konitz Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: a06f5f5b-37f8-47f5-b702-f1e9098694f8
+    name: Lee Konitz-Ohad Talmor String Project
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f45f4766-92d4-40b0-8f45-04c562efeafa
+    name: The Lee Konitz Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 00fcae67-0e11-4717-ab2f-d7d786e581d7
+    name: Lee Konitz Septet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c3401a0a-d941-46c3-81c9-dc2cbf832a64
+    name: Zollsound 4
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 67ed138e-bca8-45ce-8843-8754eff14c76
+    name: Phil Woods / Lee Konitz / Enrico Rava 6et
+  - begin: ''
+    end: ''
+    instruments:
+      - alto saxophone
+    mbid: 296ef111-e468-4f9a-a2da-cf176ba5cd13
+    name: Cool Trance Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ac8ba4df-1319-44dc-954d-474e287afee0
+    name: The Theatre of Eternal Music
 biography_enhanced_at: '2026-01-02T01:21:52.261029'
 birth_date: '1927-10-13'
-birth_place: Chicago
+birth_place: 'Chicago, Illinois, United States'
 death_date: '2020-04-15'
 disambiguation: jazz saxophonist
 enhancement_provider: perplexity
 entry_created: '2026-01-02T01:21:52.261034'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9136db51-46ba-4208-afd6-7753fb0739aa
-  spotify: https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k
-  wikipedia: https://en.wikipedia.org/wiki/Lee_Konitz
+  musicbrainz: 'https://musicbrainz.org/artist/9136db51-46ba-4208-afd6-7753fb0739aa'
+  spotify: 'https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lee_Konitz'
 gender: Male
 genres:
-- cool jazz
-- jazz
-- bebop
-- hard bop
+  - cool jazz
+  - jazz
+  - bebop
+  - hard bop
 image_path: 03_Resources/source_material/ArtistPortraits/lee_konitz.jpg
 instruments:
-- original
-- alto saxophone
+  - original
+  - alto saxophone
 last_updated: '2026-01-02T01:21:52.261035'
 musical_connections:
   collaborators:
-  - Miles Davis
-  - Gerry Mulligan
-  - Gil Evans
-  - Warne Marsh
-  - Stan Kenton
-  - Paul Motian
-  - Mark Turner
+    - Miles Davis
+    - Gerry Mulligan
+    - Gil Evans
+    - Warne Marsh
+    - Stan Kenton
+    - Paul Motian
+    - Mark Turner
   influenced:
-  - Paul Desmond
-  - Art Pepper
-  - Dan Tepfer
-  - Grace Kelly
-  - Mark Turner
+    - Paul Desmond
+    - Art Pepper
+    - Dan Tepfer
+    - Grace Kelly
+    - Mark Turner
   mentors:
-  - Lennie Tristano
-  - Lou Honig
+    - Lennie Tristano
+    - Lou Honig
 musicbrainz_id: 9136db51-46ba-4208-afd6-7753fb0739aa
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://jazztimes.com/features/tributes-and-obituaries/lee-konitz-1927-2020/
-- https://www.britannica.com/biography/Lee-Konitz
-- https://en.wikipedia.org/wiki/Lee_Konitz
-- https://livingjazzarchives.org/lee-konitz-archive/
-- https://www.arts.gov/honors/jazz/lee-konitz
+  - 'https://jazztimes.com/features/tributes-and-obituaries/lee-konitz-1927-2020/'
+  - 'https://www.britannica.com/biography/Lee-Konitz'
+  - 'https://en.wikipedia.org/wiki/Lee_Konitz'
+  - 'https://livingjazzarchives.org/lee-konitz-archive/'
+  - 'https://www.arts.gov/honors/jazz/lee-konitz'
 spotify_data:
   followers: 39804
   id: 4YNvbaOaqp5pzC5US5t48k
   popularity: 41
-  url: https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k
+  url: 'https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k'
 status: active
 tags:
-- american saxophonist
-- death by covid-19
-- jazz
+  - american saxophonist
+  - death by covid-19
+  - jazz
 title: Lee Konitz
-
+is_active: false
 ---
 
 ![](lee_konitz.jpg)

@@ -1,16 +1,16 @@
 ---
-title: sammy ambrose
+title: Sammy Ambrose
 wiki_slug: sammy-ambrose
 schema_version: 2
 status: active
-birth_place: Harlem, New York, United States
+birth_place: 'Harlem, New York, United States'
 genres:
-- doo-wop
+  - doo-wop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sammy_ambrose.jpg
   caption: sammy ambrose
   background: solo_singer
-  origin: Harlem, New York, United States
+  origin: 'Harlem, New York, United States'
 audio_profile:
   tempo_avg: 115.4
   energy_avg: 0.711
@@ -26,40 +26,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Willows
-  - The Afro-Beats (Joe Sanders, Moses Tillman, Charles Wright, Sammy Williams)
+    - The Willows
+    - >-
+      The Afro-Beats (Joe Sanders, Moses Tillman, Charles Wright, Sammy
+      Williams)
   influenced:
-  - Gary Lewis & The Playboys
+    - Gary Lewis & The Playboys
   mentors:
-  - Harlem Doo-Wop Community
+    - Harlem Doo-Wop Community
 spotify_data:
   followers: 20
   id: 2qKbdjwcpFrBiuTxtZvIqt
   popularity: 0
-  url: https://open.spotify.com/artist/2qKbdjwcpFrBiuTxtZvIqt
+  url: 'https://open.spotify.com/artist/2qKbdjwcpFrBiuTxtZvIqt'
 discography_enriched: true
 top_tracks:
-- This Diamond Ring (The Magic Touch)
-- This Diamond Ring (Songs Before Other Acts Made Them Famous)
-- This Diamond Ring (Songs Before Other Acts Made Them Famous)
-- This Diamond Ring (Songs Before Other Acts Made Them Famous)
-- This Diamond Ring ('50s & '60s Lost & Found Records Vol. 2)
+  - This Diamond Ring (The Magic Touch)
+  - This Diamond Ring (Songs Before Other Acts Made Them Famous)
+  - This Diamond Ring (Songs Before Other Acts Made Them Famous)
+  - This Diamond Ring (Songs Before Other Acts Made Them Famous)
+  - This Diamond Ring ('50s & '60s Lost & Found Records Vol. 2)
 external_urls:
-  spotify: https://open.spotify.com/artist/2qKbdjwcpFrBiuTxtZvIqt
+  spotify: 'https://open.spotify.com/artist/2qKbdjwcpFrBiuTxtZvIqt'
   wikipedia: null
 image_path: ''
 biography_enhanced_at: '2025-11-11T09:37:03.569388'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://soulfulkindamusic.net/sambrose.htm
-- https://kimsloans.wordpress.com/2020/04/page/3/
-- https://secondhandsongs.com/artist/42295/all
-- https://thestrangebrew.co.uk/interviews/al-kooper/
-- https://soulfuldetroit.com/archives/3838/2500.html?1050669640
+  - 'https://soulfulkindamusic.net/sambrose.htm'
+  - 'https://kimsloans.wordpress.com/2020/04/page/3/'
+  - 'https://secondhandsongs.com/artist/42295/all'
+  - 'https://thestrangebrew.co.uk/interviews/al-kooper/'
+  - 'https://soulfuldetroit.com/archives/3838/2500.html?1050669640'
 network_extracted: true
 entry_created: '2025-11-11T09:37:03.569397'
 last_updated: '2025-12-23T08:16:15.342276'
+origin: 'Harlem, New York, United States'
+birth_date: '1940'
+death_date: '1988'
+artist_type: band
 ---
 
 ![]()

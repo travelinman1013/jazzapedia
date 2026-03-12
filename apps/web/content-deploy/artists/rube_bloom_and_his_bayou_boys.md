@@ -1,13 +1,14 @@
 ---
-title: RUBE BLOOM AND HIS BAYOU BOYS
+title: Rube Bloom and His Bayou Boys
 wiki_slug: rube-bloom-and-his-bayou-boys
 schema_version: 2
 status: active
 genres:
-- ragtime
-- swing music
+  - ragtime
+  - swing music
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/rube_bloom_and_his_bayou_boys.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/rube_bloom_and_his_bayou_boys.jpg
   caption: RUBE BLOOM AND HIS BAYOU BOYS
   background: solo_singer
 audio_profile:
@@ -25,48 +26,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Benny Goodman
-  - Adrian Rollini
-  - Tommy Dorsey
-  - Mannie Klein
-  - Joe Venuti
+    - Benny Goodman
+    - Adrian Rollini
+    - Tommy Dorsey
+    - Mannie Klein
+    - Joe Venuti
   influenced:
-  - Ella Fitzgerald
-  - Frank Sinatra
+    - Ella Fitzgerald
+    - Frank Sinatra
   mentors:
-  - None specifically documented
+    - None specifically documented
 spotify_data:
   followers: 117
   id: 6bQy8JL3oys3J3Djxpylbl
   popularity: 9
-  url: https://open.spotify.com/artist/6bQy8JL3oys3J3Djxpylbl
+  url: 'https://open.spotify.com/artist/6bQy8JL3oys3J3Djxpylbl'
 discography_enriched: true
 top_tracks:
-- Mysterious Mose (The Charleston Chasers Vol. 2 & New York Studio Groups 1928-1930)
-- The Man from the South (The Charleston Chasers Vol. 2 & New York Studio Groups 1928-1930)
-- St. James Infirmary (The Charleston Chasers Vol. 2 & New York Studio Groups 1928-1930)
-- There's a Wah-Wah Girl in Agua Caliente (The Charleston Chasers Vol. 2 & New York Studio Groups 1928-1930)
-- On Revival Day (The Charleston Chasers Vol. 2 & New York Studio Groups 1928-1930)
-- On Revival Day - Take 1 (Jack Purvis 1928-1935)
-- On Revival Day - Take 3 (Jack Purvis 1928-1935)
-- There's a Wah-Wah Gal in Aqua Caliente (Jack Purvis 1928-1935)
-- The Man From The South (Great Jazz Of 1930)
-- St. James Infirmary (Great Jazz Of 1930)
+  - >-
+    Mysterious Mose (The Charleston Chasers Vol. 2 & New York Studio Groups
+    1928-1930)
+  - >-
+    The Man from the South (The Charleston Chasers Vol. 2 & New York Studio
+    Groups 1928-1930)
+  - >-
+    St. James Infirmary (The Charleston Chasers Vol. 2 & New York Studio Groups
+    1928-1930)
+  - >-
+    There's a Wah-Wah Girl in Agua Caliente (The Charleston Chasers Vol. 2 & New
+    York Studio Groups 1928-1930)
+  - >-
+    On Revival Day (The Charleston Chasers Vol. 2 & New York Studio Groups
+    1928-1930)
+  - On Revival Day - Take 1 (Jack Purvis 1928-1935)
+  - On Revival Day - Take 3 (Jack Purvis 1928-1935)
+  - There's a Wah-Wah Gal in Aqua Caliente (Jack Purvis 1928-1935)
+  - The Man From The South (Great Jazz Of 1930)
+  - St. James Infirmary (Great Jazz Of 1930)
 external_urls:
-  spotify: https://open.spotify.com/artist/6bQy8JL3oys3J3Djxpylbl
-  wikipedia: https://en.wikipedia.org/wiki/Rube_Bloom
+  spotify: 'https://open.spotify.com/artist/6bQy8JL3oys3J3Djxpylbl'
+  wikipedia: 'https://en.wikipedia.org/wiki/Rube_Bloom'
 image_path: ''
 biography_enhanced_at: '2025-11-14T10:58:53.825679'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Rube_Bloom
-- https://open.spotify.com/track/3M4W9Sk0S9qb8VtH6xjdQq
-- https://cincinnatilibrary.freegalmusic.com/artist/UnViZSBCbG9vbSAmIEhpcyBCYXlvdSBCb3lz
+  - 'https://en.wikipedia.org/wiki/Rube_Bloom'
+  - 'https://open.spotify.com/track/3M4W9Sk0S9qb8VtH6xjdQq'
+  - >-
+    https://cincinnatilibrary.freegalmusic.com/artist/UnViZSBCbG9vbSAmIEhpcyBCYXlvdSBCb3lz
 network_extracted: true
 entry_created: '2025-11-14T10:58:53.825701'
 last_updated: '2025-12-23T08:16:15.160964'
-origin: New York City, New York, United States
+origin: 'New York City, New York, United States'
+birth_place: 'New York City, New York, United States'
+birth_date: '1902-04-24'
+artist_type: person
 ---
 
 ![]()

@@ -1,19 +1,19 @@
 ---
-title: peter king
+title: Peter King
 wiki_slug: peter-king
 schema_version: 2
 status: active
-birth_place: Enugu, Southeastern Nigeria
+birth_place: 'Enugu, Southeastern Nigeria, Nigeria'
 genres:
-- afrobeat
-- highlife
+  - afrobeat
+  - highlife
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/peter_king.jpg
   caption: peter king
   background: solo_singer
-  origin: Enugu, Southeastern Nigeria
+  origin: 'Enugu, Southeastern Nigeria'
 audio_profile:
-  tempo_avg: 108.0
+  tempo_avg: 108
   energy_avg: 0.547
   valence_avg: 0.556
   danceability_avg: 0.549
@@ -27,46 +27,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bayo Martins, Mike Falana
-  - Humphrey Okoh, Paul Edoh, David Williams, James Mene, Arthur Simon
-  - Boney M
+    - 'Bayo Martins, Mike Falana'
+    - 'Humphrey Okoh, Paul Edoh, David Williams, James Mene, Arthur Simon'
+    - Boney M
   influenced:
-  - Aṣa
-  - Benjamin James of The Cavemen
+    - Aṣa
+    - Benjamin James of The Cavemen
   mentors:
-  - Sonny Rollins, Gene Ammons, John Coltrane
+    - 'Sonny Rollins, Gene Ammons, John Coltrane'
 spotify_data:
   followers: 7289
   id: 5FP5tCzBeZnOemocPb8bOo
   popularity: 20
-  url: https://open.spotify.com/artist/5FP5tCzBeZnOemocPb8bOo
+  url: 'https://open.spotify.com/artist/5FP5tCzBeZnOemocPb8bOo'
 discography_enriched: true
 top_tracks:
-- Ajo (Oma Lewa)
-- Afro-Funk (Oma Lewa)
-- On Days Like These - From "The Italian Job" Soundtrack (The Italian Job (Original Soundtrack))
-- Eda (Oma Lewa)
-- Omo Lewa (Oma Lewa)
-- Now I'm a Man (Shango)
-- Ko Dara (Oma Lewa)
-- 'African Dialects (Wanted Afrobeat: From Diggers to Music Lovers)'
-- 'Spiritual Songs: No. 11, O filii et filiae'
-- 'Azawala (Supreme Love: a Journey Through Coltrane)'
+  - Ajo (Oma Lewa)
+  - Afro-Funk (Oma Lewa)
+  - >-
+    On Days Like These - From "The Italian Job" Soundtrack (The Italian Job
+    (Original Soundtrack))
+  - Eda (Oma Lewa)
+  - Omo Lewa (Oma Lewa)
+  - Now I'm a Man (Shango)
+  - Ko Dara (Oma Lewa)
+  - 'African Dialects (Wanted Afrobeat: From Diggers to Music Lovers)'
+  - 'Spiritual Songs: No. 11, O filii et filiae'
+  - 'Azawala (Supreme Love: a Journey Through Coltrane)'
 external_urls:
-  spotify: https://open.spotify.com/artist/5FP5tCzBeZnOemocPb8bOo
-  wikipedia: https://en.wikipedia.org/wiki/Peter_King_(Nigerian_musician)
+  spotify: 'https://open.spotify.com/artist/5FP5tCzBeZnOemocPb8bOo'
+  wikipedia: 'https://en.wikipedia.org/wiki/Peter_King_(Nigerian_musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/peter_king.jpg
 biography_enhanced_at: '2025-12-14T01:50:15.437329'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Peter_King_(Nigerian_musician)
-- https://www.allmusic.com/artist/peter-king-mn0002990876
-- https://www.musicinafrica.net/magazine/tam-fiofori-why-i-am-making-peter-king-documentary
+  - 'https://en.wikipedia.org/wiki/Peter_King_(Nigerian_musician)'
+  - 'https://www.allmusic.com/artist/peter-king-mn0002990876'
+  - >-
+    https://www.musicinafrica.net/magazine/tam-fiofori-why-i-am-making-peter-king-documentary
 network_extracted: true
 entry_created: '2025-12-14T01:50:15.437346'
 last_updated: '2025-12-23T08:16:14.231602'
-
+artist_type: person
 ---
 
 ![](peter_king.jpg)

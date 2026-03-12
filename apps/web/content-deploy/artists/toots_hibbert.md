@@ -1,73 +1,78 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 29730ee3-e1c7-4e28-9ccd-3a0e6b0e8103
-  name: Toots & The Maytals
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 29730ee3-e1c7-4e28-9ccd-3a0e6b0e8103
+    name: Toots & The Maytals
 biography_enhanced_at: '2026-01-10T01:21:32.696317'
 birth_date: '1942-12-08'
-birth_place: May Pen
+birth_place: 'May Pen, Clarendon, Jamaica'
 death_date: '2020-09-11'
 enhancement_provider: perplexity
 entry_created: '2026-01-10T01:21:32.696324'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c4aaadaf-da28-4136-a888-f0008c710d58
-  spotify: https://open.spotify.com/artist/6McXmoIhUTNwdyzXBLWAG2
-  wikipedia: https://en.wikipedia.org/wiki/Toots_Hibbert
+  musicbrainz: 'https://musicbrainz.org/artist/c4aaadaf-da28-4136-a888-f0008c710d58'
+  spotify: 'https://open.spotify.com/artist/6McXmoIhUTNwdyzXBLWAG2'
+  wikipedia: 'https://en.wikipedia.org/wiki/Toots_Hibbert'
 gender: Male
 genres:
-- reggae
-- rocksteady
+  - reggae
+  - rocksteady
 image_path: 03_Resources/source_material/ArtistPortraits/toots_hibbert.jpg
 instruments:
-- piano
-- acoustic guitar
-- guitar family
-- guitar
-- background vocals
-- lead vocals
+  - piano
+  - acoustic guitar
+  - guitar family
+  - guitar
+  - background vocals
+  - lead vocals
 last_updated: '2026-01-10T01:21:32.696325'
 musical_connections:
   collaborators:
-  - Jerry Mathias (Jerry Matthius)
-  - Henry “Raleigh” Gordon
-  - Jackie Jackson
-  - Paul Douglas
-  - Sly Dunbar and Robbie Shakespeare
+    - Jerry Mathias (Jerry Matthius)
+    - Henry “Raleigh” Gordon
+    - Jackie Jackson
+    - Paul Douglas
+    - Sly Dunbar and Robbie Shakespeare
   influenced:
-  - The Clash
-  - Sublime
-  - The Specials
-  - KRS‑One
-  - Keith Richards
+    - The Clash
+    - Sublime
+    - The Specials
+    - KRS‑One
+    - Keith Richards
   mentors:
-  - Otis Redding
-  - Ray Charles
-  - Wilson Pickett
-  - James Brown
+    - Otis Redding
+    - Ray Charles
+    - Wilson Pickett
+    - James Brown
 musicbrainz_id: c4aaadaf-da28-4136-a888-f0008c710d58
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Toots_Hibbert
-- https://americansongwriter.com/on-this-day-in-2020-we-lost-the-legendary-bandleader-who-helped-create-and-popularize-reggae/
-- https://primarywave.com/legendary-reggae-pioneer-frederick-toots-hibbert-of-toots-and-the-maytals-passes-away-at-77/
-- https://www.americanbluesscene.com/2022/12/toots-hibbert-celebrating-his-life-in-10-essential-songs/
-- https://relix.com/articles/detail/toots-hibbert-do-the-reggay/
-- https://kutx.org/words-on-music/remembering/remembering-toots-hibbert/
+  - 'https://en.wikipedia.org/wiki/Toots_Hibbert'
+  - >-
+    https://americansongwriter.com/on-this-day-in-2020-we-lost-the-legendary-bandleader-who-helped-create-and-popularize-reggae/
+  - >-
+    https://primarywave.com/legendary-reggae-pioneer-frederick-toots-hibbert-of-toots-and-the-maytals-passes-away-at-77/
+  - >-
+    https://www.americanbluesscene.com/2022/12/toots-hibbert-celebrating-his-life-in-10-essential-songs/
+  - 'https://relix.com/articles/detail/toots-hibbert-do-the-reggay/'
+  - 'https://kutx.org/words-on-music/remembering/remembering-toots-hibbert/'
 spotify_data:
   followers: 7232
   id: 6McXmoIhUTNwdyzXBLWAG2
   popularity: 29
-  url: https://open.spotify.com/artist/6McXmoIhUTNwdyzXBLWAG2
+  url: 'https://open.spotify.com/artist/6McXmoIhUTNwdyzXBLWAG2'
 status: active
 tags:
-- death by covid-19
-- reggae
-- rocksteady
-title: toots hibbert
+  - death by covid-19
+  - reggae
+  - rocksteady
+title: Toots Hibbert
+is_active: false
+origin: 'Kingston, Kingston Parish, Jamaica'
 ---
 
 ![](toots_hibbert.jpg)

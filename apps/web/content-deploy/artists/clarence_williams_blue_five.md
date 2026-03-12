@@ -3,46 +3,48 @@ biography_enhanced_at: '2026-01-22T07:09:40.367941'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:09:40.367948'
 external_urls:
-  spotify: https://open.spotify.com/artist/6RuQvIr0t0otZHnAxXTGkm
-  wikipedia: https://en.wikipedia.org/wiki/Clarence_Williams_(musician)
+  spotify: 'https://open.spotify.com/artist/6RuQvIr0t0otZHnAxXTGkm'
+  wikipedia: 'https://en.wikipedia.org/wiki/Clarence_Williams_(musician)'
 genres:
-- ragtime
-- jazz
+  - ragtime
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/clarence_williams_blue_five.jpg
 last_updated: '2026-01-22T07:09:40.367948'
 musical_connections:
   collaborators:
-  - Louis Armstrong
-  - Sidney Bechet
-  - Bessie Smith
-  - Eva Taylor
-  - Charlie Irvis
-  - Buddy Christian
+    - Louis Armstrong
+    - Sidney Bechet
+    - Bessie Smith
+    - Eva Taylor
+    - Charlie Irvis
+    - Buddy Christian
   influenced:
-  - Don Redman
-  - Coleman Hawkins
+    - Don Redman
+    - Coleman Hawkins
   mentors:
-  - Tony Jackson
-  - King Oliver
+    - Tony Jackson
+    - King Oliver
 network_extracted: true
-origin: New York, New York, United States (recording location and primary activity)
+origin: 'New York, New York, United States (recording location and primary activity)'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Clarence_Williams_(musician)
-- http://jazzhotbigstep.com/24306.html
-- https://www.jazz88.org/articles/Clarence_Williams/
-- https://dippermouth.blogspot.com/2015/01/90-years-of-clarence-williams-blues.html
-- https://www.jazzstandards.com/biographies/biography_210.htm
-- https://syncopatedtimes.com/clarence-williams-1898-1965/
-- https://www.songhall.org/profiles/clarence-williams
-- https://syncopatedtimes.com/clarence-williams-blue-five/
+  - 'https://en.wikipedia.org/wiki/Clarence_Williams_(musician)'
+  - 'http://jazzhotbigstep.com/24306.html'
+  - 'https://www.jazz88.org/articles/Clarence_Williams/'
+  - >-
+    https://dippermouth.blogspot.com/2015/01/90-years-of-clarence-williams-blues.html
+  - 'https://www.jazzstandards.com/biographies/biography_210.htm'
+  - 'https://syncopatedtimes.com/clarence-williams-1898-1965/'
+  - 'https://www.songhall.org/profiles/clarence-williams'
+  - 'https://syncopatedtimes.com/clarence-williams-blue-five/'
 spotify_data:
   followers: 2871
   id: 6RuQvIr0t0otZHnAxXTGkm
   popularity: 12
-  url: https://open.spotify.com/artist/6RuQvIr0t0otZHnAxXTGkm
+  url: 'https://open.spotify.com/artist/6RuQvIr0t0otZHnAxXTGkm'
 status: active
-title: CLARENCE WILLIAMS BLUE FIVE
+title: Clarence Williams Blue Five
+artist_type: person
 ---
 
 ![](clarence_williams_blue_five.jpg)

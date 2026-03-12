@@ -1,16 +1,16 @@
 ---
-title: Bonnie Raitt, Norah Jones
+title: Bonnie Raitt
 wiki_slug: bonnie-raitt-norah-jones
 schema_version: 2
 status: active
-birth_place: Burbank, California, United States
+birth_place: 'Burbank, California, United States'
 genres:
-- blues
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Bonnie_Raitt_Norah_Jones.jpg
-  caption: Bonnie Raitt, Norah Jones
+  caption: 'Bonnie Raitt, Norah Jones'
   background: solo_singer
-  origin: Burbank, California, United States
+  origin: 'Burbank, California, United States'
 audio_profile:
   tempo_avg: 112.2
   energy_avg: 0.462
@@ -26,46 +26,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John Prine
-  - Warren Zevon
-  - Bruce Hornsby
-  - John Lee Hooker
+    - John Prine
+    - Warren Zevon
+    - Bruce Hornsby
+    - John Lee Hooker
   influenced:
-  - Susan Tedeschi
-  - Keb' Mo'
+    - Susan Tedeschi
+    - Keb' Mo'
   mentors:
-  - Mississippi Fred McDowell
-  - Lowell George
+    - Mississippi Fred McDowell
+    - Lowell George
 spotify_data:
   followers: 806019
   id: 4KDyYWR7IpxZ7xrdYbKrqY
   popularity: 56
-  url: https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY
+  url: 'https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY'
 discography_enriched: true
 top_tracks:
-- I Can't Make You Love Me (Luck Of The Draw)
-- Angel from Montgomery - 2008 Remaster (Streetlights)
-- Something To Talk About (Luck Of The Draw)
-- Thank You - 2008 Remaster (Bonnie Raitt (2008 Remaster))
-- Nick Of Time (Nick Of Time)
-- Love Me Like a Man - 2008 Remaster (Give It Up (2008 Remaster))
-- Feels Like Rain (feat. Bonnie Raitt) (Feels Like Rain)
-- Do I Ever Cross Your Mind (Genius Loves Company)
-- Love Has No Pride - 2008 Remaster (Give It Up (2008 Remaster))
-- Just Like That (Just Like That...)
+  - I Can't Make You Love Me (Luck Of The Draw)
+  - Angel from Montgomery - 2008 Remaster (Streetlights)
+  - Something To Talk About (Luck Of The Draw)
+  - Thank You - 2008 Remaster (Bonnie Raitt (2008 Remaster))
+  - Nick Of Time (Nick Of Time)
+  - Love Me Like a Man - 2008 Remaster (Give It Up (2008 Remaster))
+  - Feels Like Rain (feat. Bonnie Raitt) (Feels Like Rain)
+  - Do I Ever Cross Your Mind (Genius Loves Company)
+  - Love Has No Pride - 2008 Remaster (Give It Up (2008 Remaster))
+  - Just Like That (Just Like That...)
 external_urls:
-  spotify: https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY
-  wikipedia: https://en.wikipedia.org/wiki/Bonnie_Raitt
+  spotify: 'https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bonnie_Raitt'
 image_path: 03_Resources/source_material/ArtistPortraits/Bonnie_Raitt_Norah_Jones.jpg
 biography_enhanced_at: '2025-10-20T02:02:09.876943'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Bonnie_Raitt
-- https://www.bonnieraitt.com/bio/bonnies-story/
+  - 'https://en.wikipedia.org/wiki/Bonnie_Raitt'
+  - 'https://www.bonnieraitt.com/bio/bonnies-story/'
 network_extracted: true
 entry_created: '2025-10-20T02:02:09.876966'
 last_updated: '2025-12-23T08:16:01.303573'
+birth_date: '1949-11-08'
+artist_type: person
 ---
 
 ![](Bonnie_Raitt_Norah_Jones.jpg)

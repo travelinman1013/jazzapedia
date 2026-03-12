@@ -1,25 +1,25 @@
 ---
-title: Champion JAck Dupree
+title: Champion Jack Dupree
 wiki_slug: champion-jack-dupree
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1910-07-04'
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, USA'
 death_date: '1992-01-21'
 genres:
-- blues
-- classic blues
-- boogie-woogie
+  - blues
+  - classic blues
+  - boogie-woogie
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Champion_JAck_Dupree.jpg
   caption: Champion JAck Dupree
   background: solo_singer
   born: '1910-07-04'
-  origin: New Orleans, Louisiana, USA
+  origin: 'New Orleans, Louisiana, USA'
   died: '1992-01-21'
 audio_profile:
-  tempo_avg: 126.0
+  tempo_avg: 126
   energy_avg: 0.367
   valence_avg: 0.644
   danceability_avg: 0.591
@@ -33,51 +33,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Scrapper Blackwell
-  - Larry Dale
-  - Tony McPhee
-  - Chris Barber
-  - Keith Smith
+    - Scrapper Blackwell
+    - Larry Dale
+    - Tony McPhee
+    - Chris Barber
+    - Keith Smith
   influenced:
-  - Fats Domino
-  - Brian Jones (The Rolling Stones)
-  - John Mayall
+    - Fats Domino
+    - Brian Jones (The Rolling Stones)
+    - John Mayall
   mentors:
-  - Tuts Washington
-  - Willie Hall
+    - Tuts Washington
+    - Willie Hall
 spotify_data:
   followers: 38388
   id: 1NnRjWELSLqFONDhwc8VU7
   popularity: 36
-  url: https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7
+  url: 'https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7'
 discography_enriched: true
 top_tracks:
-- Junker's Blues (Blues From The Gutter)
-- Bad Blood (Blues From The Gutter)
-- Evil Woman (Blues From The Gutter)
-- One Scotch, One Bourbon, One Beer - Bonus Track (The Sonet Blues Story)
-- Can't Kick the Habit (Blues From The Gutter)
-- Stack-O-Lee (Blues From The Gutter)
-- Drinkin' Wine Spodie-Odie (The Blues Of Champion Jack Dupree Vol. 1)
-- Nasty Boogie (Blues From The Gutter)
-- Goin' Down Slow (Blues From The Gutter)
-- Ooh La La
+  - Junker's Blues (Blues From The Gutter)
+  - Bad Blood (Blues From The Gutter)
+  - Evil Woman (Blues From The Gutter)
+  - 'One Scotch, One Bourbon, One Beer - Bonus Track (The Sonet Blues Story)'
+  - Can't Kick the Habit (Blues From The Gutter)
+  - Stack-O-Lee (Blues From The Gutter)
+  - Drinkin' Wine Spodie-Odie (The Blues Of Champion Jack Dupree Vol. 1)
+  - Nasty Boogie (Blues From The Gutter)
+  - Goin' Down Slow (Blues From The Gutter)
+  - Ooh La La
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5849fa32-0283-4204-9d1b-507cfaf9d4a2
-  spotify: https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7
-  wikipedia: https://en.wikipedia.org/wiki/Champion_Jack_Dupree
+  musicbrainz: 'https://musicbrainz.org/artist/5849fa32-0283-4204-9d1b-507cfaf9d4a2'
+  spotify: 'https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7'
+  wikipedia: 'https://en.wikipedia.org/wiki/Champion_Jack_Dupree'
 image_path: 03_Resources/source_material/ArtistPortraits/Champion_JAck_Dupree.jpg
 biography_enhanced_at: '2025-10-19T10:43:16.005116'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Champion_Jack_Dupree
-- https://blueskc.org/champion-jack-dupree/
-- https://64parishes.org/entry/champion-jack-dupree
-- https://blues.org/blues_hof_inductee/champion-jack-dupree/
-- https://mojohand.com/glossary/champion-jack-dupree/
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/dupree-champion-jack
-- https://wbssmedia.com/artists/detail/1464
+  - 'https://en.wikipedia.org/wiki/Champion_Jack_Dupree'
+  - 'https://blueskc.org/champion-jack-dupree/'
+  - 'https://64parishes.org/entry/champion-jack-dupree'
+  - 'https://blues.org/blues_hof_inductee/champion-jack-dupree/'
+  - 'https://mojohand.com/glossary/champion-jack-dupree/'
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/dupree-champion-jack
+  - 'https://wbssmedia.com/artists/detail/1464'
 network_extracted: true
 entry_created: '2025-10-19T10:43:16.005122'
 last_updated: '2025-12-23T08:16:01.476153'
@@ -85,9 +86,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:21:46.985525'
 musicbrainz_id: 5849fa32-0283-4204-9d1b-507cfaf9d4a2
 tags:
-- blues
-- boogie-woogie
-- jazz
+  - blues
+  - boogie-woogie
+  - jazz
+is_active: false
 ---
 
 ![](Champion_JAck_Dupree.jpg)

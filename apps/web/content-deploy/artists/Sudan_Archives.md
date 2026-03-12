@@ -4,9 +4,9 @@ wiki_slug: sudan-archives
 schema_version: 2
 artist_type: person
 status: active
-birth_place: Cincinnati
+birth_place: 'Cincinnati, Ohio, United States'
 genres:
-- alternative r&b
+  - alternative r&b
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Sudan_Archives.jpg
   caption: Sudan Archives
@@ -27,53 +27,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Cat Parks (twin sister)
-  - Stones Throw Records
+    - Cat Parks (twin sister)
+    - Stones Throw Records
   influenced:
-  - Emerging alternative R&B artists
+    - Emerging alternative R&B artists
   mentors:
-  - Northeast African fiddlers
-  - Stepfather (LaFace Records)
+    - Northeast African fiddlers
+    - Stepfather (LaFace Records)
 spotify_data:
   followers: 274733
   id: 2MPHBxznH1fj59jbOWY38u
   popularity: 50
-  url: https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u
+  url: 'https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u'
 discography_enriched: true
 top_tracks:
-- Selfish Soul - ODESZA Remix
-- Come Meh Way
-- Selfish Soul (Natural Brown Prom Queen)
-- Confessions (Athena)
-- DEAD
-- Nont For Sale
-- KFC Santería (feat. Sudan Archives)
-- Selfish Soul
-- Home Maker (Natural Brown Prom Queen)
-- Selfish Soul (Live) (ODESZA VIP Remix) (The Last Goodbye Tour Live)
+  - Selfish Soul - ODESZA Remix
+  - Come Meh Way
+  - Selfish Soul (Natural Brown Prom Queen)
+  - Confessions (Athena)
+  - DEAD
+  - Nont For Sale
+  - KFC Santería (feat. Sudan Archives)
+  - Selfish Soul
+  - Home Maker (Natural Brown Prom Queen)
+  - Selfish Soul (Live) (ODESZA VIP Remix) (The Last Goodbye Tour Live)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6ce5eca0-4ad6-49e0-a5ab-e11482d85324
-  spotify: https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u
-  wikipedia: https://en.wikipedia.org/wiki/Sudan_Archives
+  musicbrainz: 'https://musicbrainz.org/artist/6ce5eca0-4ad6-49e0-a5ab-e11482d85324'
+  spotify: 'https://open.spotify.com/artist/2MPHBxznH1fj59jbOWY38u'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sudan_Archives'
 image_path: 03_Resources/source_material/ArtistPortraits/Sudan_Archives.jpg
 biography_enhanced_at: '2025-10-22T06:39:36.459676'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Sudan_Archives
-- https://www.stonesthrow.com/artist/sudanarchives/
-- https://www.latimes.com/entertainment/music/la-ca-ms-sudan-archives-20180927-story.html
-- https://www.belovedpresents.com/news/artist-spotlight-sudan-archives/
+  - 'https://en.wikipedia.org/wiki/Sudan_Archives'
+  - 'https://www.stonesthrow.com/artist/sudanarchives/'
+  - >-
+    https://www.latimes.com/entertainment/music/la-ca-ms-sudan-archives-20180927-story.html
+  - 'https://www.belovedpresents.com/news/artist-spotlight-sudan-archives/'
 network_extracted: true
 entry_created: '2025-10-22T06:39:36.459697'
 last_updated: '2025-12-23T08:16:03.955598'
 gender: Female
 musicbrainz_id: 6ce5eca0-4ad6-49e0-a5ab-e11482d85324
 tags:
-- alternative folk
-- beats
-- electro
-
+  - alternative folk
+  - beats
+  - electro
 ---
 
 ![](Sudan_Archives.jpg)

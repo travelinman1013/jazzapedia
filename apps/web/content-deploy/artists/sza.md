@@ -5,12 +5,12 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1989-11-08'
-birth_place: St. Louis
+birth_place: 'St. Louis, Missouri, United States'
 genres:
-- r&b
+  - r&b
 instruments:
-- lead vocals
-- background vocals
+  - lead vocals
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sza.jpg
   caption: SZA
@@ -32,54 +32,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kendrick Lamar
+    - Kendrick Lamar
   influenced: []
   mentors:
-  - Terrence 'Punch' Henderson
-  - Miles Davis
-  - John Coltrane
-  - Lauryn Hill
-  - Ashanti
+    - Terrence 'Punch' Henderson
+    - Miles Davis
+    - John Coltrane
+    - Lauryn Hill
+    - Ashanti
 spotify_data:
   followers: 33560039
   id: 7tYKF4w9nC0nq9CsPZTHyP
   popularity: 89
-  url: https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP
+  url: 'https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP'
 discography_enriched: true
 top_tracks:
-- All The Stars (with SZA) (Black Panther The Album Music From And Inspired By)
-- luther (with sza) (GNX)
-- luther (with sza) (GNX)
-- Snooze (SOS)
-- '30 For 30 (with Kendrick Lamar) (SOS Deluxe: LANA)'
-- 'BMF (SOS Deluxe: LANA)'
-- Nobody Gets Me (SOS)
-- Kill Bill
-- Good Days (SOS)
-- Kiss Me More (feat. SZA) (Planet Her)
+  - >-
+    All The Stars (with SZA) (Black Panther The Album Music From And Inspired
+    By)
+  - luther (with sza) (GNX)
+  - luther (with sza) (GNX)
+  - Snooze (SOS)
+  - '30 For 30 (with Kendrick Lamar) (SOS Deluxe: LANA)'
+  - 'BMF (SOS Deluxe: LANA)'
+  - Nobody Gets Me (SOS)
+  - Kill Bill
+  - Good Days (SOS)
+  - Kiss Me More (feat. SZA) (Planet Her)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/272989c8-5535-492d-a25c-9f58803e027f
-  spotify: https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP
-  wikipedia: https://en.wikipedia.org/wiki/SZA
+  musicbrainz: 'https://musicbrainz.org/artist/272989c8-5535-492d-a25c-9f58803e027f'
+  spotify: 'https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP'
+  wikipedia: 'https://en.wikipedia.org/wiki/SZA'
 image_path: 03_Resources/source_material/ArtistPortraits/sza.jpg
 biography_enhanced_at: '2025-12-04T07:37:09.828142'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.britannica.com/biography/SZA
-- https://en.wikipedia.org/wiki/SZA
-- https://www.biography.com/musicians/a57628214/sza
-- https://kids.kiddle.co/SZA
-- https://www.youtube.com/watch?v=QqoxVmQpGm8
+  - 'https://www.britannica.com/biography/SZA'
+  - 'https://en.wikipedia.org/wiki/SZA'
+  - 'https://www.biography.com/musicians/a57628214/sza'
+  - 'https://kids.kiddle.co/SZA'
+  - 'https://www.youtube.com/watch?v=QqoxVmQpGm8'
 network_extracted: true
 entry_created: '2025-12-04T07:37:09.828149'
 last_updated: '2025-12-23T08:16:16.319562'
 gender: Female
 musicbrainz_id: 272989c8-5535-492d-a25c-9f58803e027f
 tags:
-- alternative r&b
-- american
-- contemporary r&b
+  - alternative r&b
+  - american
+  - contemporary r&b
+origin: 'Maplewood, New Jersey, United States'
 ---
 
 ![](sza.jpg)

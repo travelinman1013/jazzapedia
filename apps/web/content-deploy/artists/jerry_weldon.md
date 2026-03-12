@@ -1,43 +1,44 @@
 ---
 biography_enhanced_at: '2026-01-05T07:59:08.034565'
-birth_place: New York City, New York, United States
+birth_place: 'New York City, New York, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-05T07:59:08.034571'
 external_urls:
-  spotify: https://open.spotify.com/artist/04x8WUfUIXvBy0I8UmvO9U
+  spotify: 'https://open.spotify.com/artist/04x8WUfUIXvBy0I8UmvO9U'
   wikipedia: ''
 genres:
-- hard bop
+  - hard bop
 image_path: 03_Resources/source_material/ArtistPortraits/jerry_weldon.jpg
 last_updated: '2026-01-05T07:59:08.034571'
 musical_connections:
   collaborators:
-  - Lionel Hampton
-  - Harry Connick Jr.
-  - Jack McDuff
-  - George Cables
-  - Al Grey
+    - Lionel Hampton
+    - Harry Connick Jr.
+    - Jack McDuff
+    - George Cables
+    - Al Grey
   influenced: []
   mentors:
-  - Stan Getz
+    - Stan Getz
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.allsolos.com/soloist/419/jerry-weldon
-- https://www.jerryweldon.net
-- https://jerryweldon.net/bio
-- https://acansa.org/2025-jazz-joint/
-- https://www.exploresquamish.com/submitted-events/the-cory-weeds-quintet-featuring-nyc-saxophonist-jerry-weldon/
-- https://jerryweldon.net/files/1060218/bio-short-250-2022.pdf
-- https://www.smallslive.com/artists/798-jerry-weldon/
+  - 'https://www.allsolos.com/soloist/419/jerry-weldon'
+  - 'https://www.jerryweldon.net'
+  - 'https://jerryweldon.net/bio'
+  - 'https://acansa.org/2025-jazz-joint/'
+  - >-
+    https://www.exploresquamish.com/submitted-events/the-cory-weeds-quintet-featuring-nyc-saxophonist-jerry-weldon/
+  - 'https://jerryweldon.net/files/1060218/bio-short-250-2022.pdf'
+  - 'https://www.smallslive.com/artists/798-jerry-weldon/'
 spotify_data:
   followers: 881
   id: 04x8WUfUIXvBy0I8UmvO9U
   popularity: 25
-  url: https://open.spotify.com/artist/04x8WUfUIXvBy0I8UmvO9U
+  url: 'https://open.spotify.com/artist/04x8WUfUIXvBy0I8UmvO9U'
 status: active
-title: JERRY WELDON
-
+title: Jerry Weldon
+artist_type: person
 ---
 
 ![](jerry_weldon.jpg)

@@ -1,5 +1,5 @@
 ---
-title: deep river boys
+title: Deep River Boys
 wiki_slug: deep-river-boys
 schema_version: 2
 status: active
@@ -23,51 +23,70 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Count Basie
-  - Fats Waller
-  - Charlie Christian
-  - Thelma Carpenter
-  - Erskine Hawkins
+    - Count Basie
+    - Fats Waller
+    - Charlie Christian
+    - Thelma Carpenter
+    - Erskine Hawkins
   influenced:
-  - Ronnie Bright
-  - Eddie Whaley Jr.
+    - Ronnie Bright
+    - Eddie Whaley Jr.
   mentors:
-  - Josh Logan
-  - Rex Ingram
+    - Josh Logan
+    - Rex Ingram
 spotify_data:
   followers: 29
   id: 7C7PM1oL8LCNBWkpL0EoWu
   popularity: 13
-  url: https://open.spotify.com/artist/7C7PM1oL8LCNBWkpL0EoWu
+  url: 'https://open.spotify.com/artist/7C7PM1oL8LCNBWkpL0EoWu'
 discography_enriched: true
 top_tracks:
-- Swingin' at the Séance (Oldies Halloween Music Rarities (Rare Halloween Songs))
-- I en grönmålad båt (Sommartoner från förr - originalinspelningar från 30-, 40- och 50-talen)
-- I en grönmålad båt (Sommartoner från förr - originalinspelningar från 30-, 40- och 50-talen)
-- (We're Gonna) Rock Around the Clock (Book of Love (1950s All Time Hits))
-- 'Rock a Beatin'' Boogie - Original Recording Remastered (Rock a Beatin'' Boogie: British Rock ''n'' Roll at It''s Best!)'
-- 'Shake, Rattle, Roll - Original Recording Remastered (Rock a Beatin'' Boogie: British Rock ''n'' Roll at It''s Best!)'
-- 'That''s right - Original Recording Remastered (Rock a Beatin'' Boogie: British Rock ''n'' Roll at It''s Best!)'
-- 'Whole Wide World - Original Recording Remastered (Rock a Beatin'' Boogie: British Rock ''n'' Roll at It''s Best!)'
-- 'Smack Dab in the Middle - Original Recording Remastered (Rock a Beatin'' Boogie: British Rock ''n'' Roll at It''s Best!)'
-- 'Rock Around the Clock - Original Recording Remastered (Rock a Beatin'' Boogie: British Rock ''n'' Roll at It''s Best!)'
+  - >-
+    Swingin' at the Séance (Oldies Halloween Music Rarities (Rare Halloween
+    Songs))
+  - >-
+    I en grönmålad båt (Sommartoner från förr - originalinspelningar från 30-,
+    40- och 50-talen)
+  - >-
+    I en grönmålad båt (Sommartoner från förr - originalinspelningar från 30-,
+    40- och 50-talen)
+  - (We're Gonna) Rock Around the Clock (Book of Love (1950s All Time Hits))
+  - >-
+    Rock a Beatin' Boogie - Original Recording Remastered (Rock a Beatin'
+    Boogie: British Rock 'n' Roll at It's Best!)
+  - >-
+    Shake, Rattle, Roll - Original Recording Remastered (Rock a Beatin' Boogie:
+    British Rock 'n' Roll at It's Best!)
+  - >-
+    That's right - Original Recording Remastered (Rock a Beatin' Boogie: British
+    Rock 'n' Roll at It's Best!)
+  - >-
+    Whole Wide World - Original Recording Remastered (Rock a Beatin' Boogie:
+    British Rock 'n' Roll at It's Best!)
+  - >-
+    Smack Dab in the Middle - Original Recording Remastered (Rock a Beatin'
+    Boogie: British Rock 'n' Roll at It's Best!)
+  - >-
+    Rock Around the Clock - Original Recording Remastered (Rock a Beatin'
+    Boogie: British Rock 'n' Roll at It's Best!)
 external_urls:
-  spotify: https://open.spotify.com/artist/7C7PM1oL8LCNBWkpL0EoWu
-  wikipedia: https://en.wikipedia.org/wiki/Deep_River_Boys
+  spotify: 'https://open.spotify.com/artist/7C7PM1oL8LCNBWkpL0EoWu'
+  wikipedia: 'https://en.wikipedia.org/wiki/Deep_River_Boys'
 image_path: ''
 biography_enhanced_at: '2025-11-20T07:29:49.282110'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Deep_River_Boys
-- https://www.bear-family.com/deep-river-boys-the/
-- https://www.last.fm/music/The+Deep+River+Boys/+wiki
-- https://www.singers.com/grouphistory/3965
-- https://vocalgroup.org/inductees/deep-river-boys/
+  - 'https://en.wikipedia.org/wiki/Deep_River_Boys'
+  - 'https://www.bear-family.com/deep-river-boys-the/'
+  - 'https://www.last.fm/music/The+Deep+River+Boys/+wiki'
+  - 'https://www.singers.com/grouphistory/3965'
+  - 'https://vocalgroup.org/inductees/deep-river-boys/'
 network_extracted: true
 entry_created: '2025-11-20T07:29:49.282117'
 last_updated: '2025-12-23T08:16:07.677326'
-origin: Hampton, Virginia, United States
+origin: 'Hampton, Virginia, United States'
+artist_type: band
 ---
 
 ![]()

@@ -3,31 +3,32 @@ biography_enhanced_at: '2026-01-03T01:46:34.211874'
 enhancement_provider: perplexity
 entry_created: '2026-01-03T01:46:34.211890'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c9df4ff3-9e6b-4642-9917-859c51fe4534
-  spotify: https://open.spotify.com/artist/0070pgQUavlZcVICMUDyvL
+  musicbrainz: 'https://musicbrainz.org/artist/c9df4ff3-9e6b-4642-9917-859c51fe4534'
+  spotify: 'https://open.spotify.com/artist/0070pgQUavlZcVICMUDyvL'
   wikipedia: ''
 genres:
-- bossa nova
+  - bossa nova
 image_path: 03_Resources/source_material/ArtistPortraits/sun_valley_trio.jpg
 last_updated: '2026-01-03T01:46:34.211892'
 musical_connections:
   collaborators:
-  - Charles Macak
+    - Charles Macak
   influenced: []
   mentors: []
 musicbrainz_id: c9df4ff3-9e6b-4642-9917-859c51fe4534
 network_extracted: true
-origin: Sun Valley, Idaho, USA
+origin: 'Sun Valley, Idaho, USA'
 primary_source: perplexity
 research_sources:
-- https://secondhandsongs.com/artist/102007/all
+  - 'https://secondhandsongs.com/artist/102007/all'
 spotify_data:
   followers: 170
   id: 0070pgQUavlZcVICMUDyvL
   popularity: 52
-  url: https://open.spotify.com/artist/0070pgQUavlZcVICMUDyvL
+  url: 'https://open.spotify.com/artist/0070pgQUavlZcVICMUDyvL'
 status: active
-title: sun valley trio
+title: Sun Valley Trio
+artist_type: band
 ---
 
 ![](sun_valley_trio.jpg)

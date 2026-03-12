@@ -1,57 +1,57 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2025-12-26T01:26:56.699280'
 birth_date: '2008'
 enhancement_provider: perplexity
 entry_created: '2025-12-26T01:26:56.699296'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/aedc2e46-da48-43df-885a-b23dc051ee8c
-  spotify: https://open.spotify.com/artist/0kkJ6OXGsnN2A0jTCo0tjz
+  musicbrainz: 'https://musicbrainz.org/artist/aedc2e46-da48-43df-885a-b23dc051ee8c'
+  spotify: 'https://open.spotify.com/artist/0kkJ6OXGsnN2A0jTCo0tjz'
   wikipedia: ''
 genres:
-- ethiopian jazz
-- dub
+  - ethiopian jazz
+  - dub
 image_path: 03_Resources/source_material/ArtistPortraits/dub_colossus.jpg
 last_updated: '2025-12-26T01:26:56.699298'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: cf0ef8c3-9bd4-4f19-8b30-ae785a0e5cd7
-  name: Nick Page
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: cf0ef8c3-9bd4-4f19-8b30-ae785a0e5cd7
+    name: Nick Page
 musical_connections:
   collaborators:
-  - Tsedenia Gebremarkos
-  - Sintayehu 'Mimi' Zenebe
-  - Samuel Yirga
-  - Feleke Hailu
-  - Teremage Woretaw
-  - Abiyou Solomon
-  - Tim Whelan
-  - Neil Sparkes
+    - Tsedenia Gebremarkos
+    - Sintayehu 'Mimi' Zenebe
+    - Samuel Yirga
+    - Feleke Hailu
+    - Teremage Woretaw
+    - Abiyou Solomon
+    - Tim Whelan
+    - Neil Sparkes
   influenced: []
   mentors:
-  - Mykaell Riley
-  - Francis Falceto
+    - Mykaell Riley
+    - Francis Falceto
 musicbrainz_id: aedc2e46-da48-43df-885a-b23dc051ee8c
 network_extracted: true
-origin: Addis Ababa, Ethiopia (project origin); Nick Page born Germany
+origin: 'Addis Ababa, Ethiopia, null'
 primary_source: perplexity
 research_sources:
-- https://realworldrecords.com/artists/dub-colossus/
-- https://www.worldmusic.co.uk/dub_colossus
-- https://louderthanwar.com/nick-dubulah-aka-dub-colossus-interview/
-- http://ukvibe.org/revibe/interviews/2011-interviews/dub-colossus/
+  - 'https://realworldrecords.com/artists/dub-colossus/'
+  - 'https://www.worldmusic.co.uk/dub_colossus'
+  - 'https://louderthanwar.com/nick-dubulah-aka-dub-colossus-interview/'
+  - 'http://ukvibe.org/revibe/interviews/2011-interviews/dub-colossus/'
 spotify_data:
   followers: 4641
   id: 0kkJ6OXGsnN2A0jTCo0tjz
   popularity: 13
-  url: https://open.spotify.com/artist/0kkJ6OXGsnN2A0jTCo0tjz
+  url: 'https://open.spotify.com/artist/0kkJ6OXGsnN2A0jTCo0tjz'
 status: active
 tags:
-- ambient dub
-- club
-- dub
+  - ambient dub
+  - club
+  - dub
 title: Dub Colossus
 ---
 

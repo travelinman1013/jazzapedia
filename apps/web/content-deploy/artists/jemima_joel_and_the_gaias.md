@@ -23,36 +23,39 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kahlon Davis
-  - Drew Mosby
+    - Kahlon Davis
+    - Drew Mosby
   influenced: []
   mentors: []
 spotify_data:
   followers: 57
   id: 63ltLUFUpRQ52GDs36y2ES
   popularity: 0
-  url: https://open.spotify.com/artist/63ltLUFUpRQ52GDs36y2ES
+  url: 'https://open.spotify.com/artist/63ltLUFUpRQ52GDs36y2ES'
 discography_enriched: true
 top_tracks:
-- Black Party (Black Party)
-- Slow Summer's Night (Slow Summer's Night)
-- Jezebel's Jolene (Jezebel's Jolene)
+  - Black Party (Black Party)
+  - Slow Summer's Night (Slow Summer's Night)
+  - Jezebel's Jolene (Jezebel's Jolene)
 external_urls:
-  spotify: https://open.spotify.com/artist/63ltLUFUpRQ52GDs36y2ES
+  spotify: 'https://open.spotify.com/artist/63ltLUFUpRQ52GDs36y2ES'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/jemima_joel_and_the_gaias.jpg
 biography_enhanced_at: '2025-12-19T01:48:35.283447'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.partyslate.com/vendors/jemima-joel-and-the-sounds-of-gaia
-- https://www.youtube.com/watch?v=aCsA9q4O4Vg
-- https://shoutouthtx.com/meet-jemima-joel-the-woman-who-sings-and-paints-singer-visual-artist/
-- https://www.offbeat.com/articles/messenger-of-god-jemima-joel-and-the-divine-feminine/
+  - 'https://www.partyslate.com/vendors/jemima-joel-and-the-sounds-of-gaia'
+  - 'https://www.youtube.com/watch?v=aCsA9q4O4Vg'
+  - >-
+    https://shoutouthtx.com/meet-jemima-joel-the-woman-who-sings-and-paints-singer-visual-artist/
+  - >-
+    https://www.offbeat.com/articles/messenger-of-god-jemima-joel-and-the-divine-feminine/
 network_extracted: true
 entry_created: '2025-12-19T01:48:35.283465'
 last_updated: '2025-12-23T08:16:10.328414'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](jemima_joel_and_the_gaias.jpg)

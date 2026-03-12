@@ -1,15 +1,15 @@
 ---
-title: big shanty
+title: Big Shanty
 wiki_slug: big-shanty
 schema_version: 2
 status: active
-birth_place: Atlanta, Georgia, United States
+birth_place: 'Atlanta, Georgia, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/big_shanty.jpg
   caption: big shanty
   background: solo_singer
-  origin: Atlanta, Georgia, United States
+  origin: 'Atlanta, Georgia, United States'
 audio_profile:
   tempo_avg: 116.4
   energy_avg: 0.704
@@ -25,47 +25,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Col. Bruce Hampton
-  - Liz Melendez
-  - Spencer Kirkpatrick
-  - Chris Blackwell
-  - Dustin Sargent
-  - Kevin Scott
-  - Rick Phillips
-  - Scott Robertson
+    - Col. Bruce Hampton
+    - Liz Melendez
+    - Spencer Kirkpatrick
+    - Chris Blackwell
+    - Dustin Sargent
+    - Kevin Scott
+    - Rick Phillips
+    - Scott Robertson
   influenced: []
   mentors:
-  - Delta Blues Tradition
+    - Delta Blues Tradition
 spotify_data:
   followers: 32943
   id: 5iDecKLWQeJDFuqriBm2vA
   popularity: 36
-  url: https://open.spotify.com/artist/5iDecKLWQeJDFuqriBm2vA
+  url: 'https://open.spotify.com/artist/5iDecKLWQeJDFuqriBm2vA'
 discography_enriched: true
 top_tracks:
-- Black Panther (Winter)
-- All Eyez on Me (All Eyez on Me)
-- Away (Away)
-- Ramadan Karim (Ramadan Karim)
-- Azmayeshgah S3-12 (Azmayeshgah S3-12)
-- Clan (Winter)
-- She Knowz What She Wantz (Winter)
-- Dele Man Havato Karde (Dele Man Havato Karde)
-- Lord Of The Rings (Lord Of The Rings)
-- Climax (Winter)
+  - Black Panther (Winter)
+  - All Eyez on Me (All Eyez on Me)
+  - Away (Away)
+  - Ramadan Karim (Ramadan Karim)
+  - Azmayeshgah S3-12 (Azmayeshgah S3-12)
+  - Clan (Winter)
+  - She Knowz What She Wantz (Winter)
+  - Dele Man Havato Karde (Dele Man Havato Karde)
+  - Lord Of The Rings (Lord Of The Rings)
+  - Climax (Winter)
 external_urls:
-  spotify: https://open.spotify.com/artist/5iDecKLWQeJDFuqriBm2vA
+  spotify: 'https://open.spotify.com/artist/5iDecKLWQeJDFuqriBm2vA'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/big_shanty.jpg
 biography_enhanced_at: '2025-10-19T10:56:37.359821'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://blues.gr/profiles/blogs/an-interview-with-big-shanty-blues-is-expressing-your-inner
-- https://www.allmusic.com/artist/big-shanty-mn0000500574
+  - >-
+    https://blues.gr/profiles/blogs/an-interview-with-big-shanty-blues-is-expressing-your-inner
+  - 'https://www.allmusic.com/artist/big-shanty-mn0000500574'
 network_extracted: true
 entry_created: '2025-10-19T10:56:37.359832'
 last_updated: '2025-12-23T08:16:05.476949'
+artist_type: person
 ---
 
 ![](big_shanty.jpg)

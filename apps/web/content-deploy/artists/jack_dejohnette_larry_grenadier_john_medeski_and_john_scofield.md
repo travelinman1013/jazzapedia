@@ -1,13 +1,14 @@
 ---
-title: Jack DeJohnette, Larry Grenadier, John Medeski & John Scofield
+title: 'Jack DeJohnette, Larry Grenadier, John Medeski & John Scofield'
 wiki_slug: jack-dejohnette-larry-grenadier-john-medeski-john-scofield
 schema_version: 2
 status: active
 genres:
-- free jazz
+  - free jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/jack_dejohnette_larry_grenadier_john_medeski_and_john_scofield.jpg
-  caption: Jack DeJohnette, Larry Grenadier, John Medeski & John Scofield
+  image: >-
+    03_Resources/source_material/ArtistPortraits/jack_dejohnette_larry_grenadier_john_medeski_and_john_scofield.jpg
+  caption: 'Jack DeJohnette, Larry Grenadier, John Medeski & John Scofield'
   background: solo_singer
 audio_profile:
   tempo_avg: 114.9
@@ -24,50 +25,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Medeski Martin & Wood
-  - Trio Beyond
-  - Pat Metheny
+    - Medeski Martin & Wood
+    - Trio Beyond
+    - Pat Metheny
   influenced:
-  - Brad Mehldau
-  - Younger jazz drummers
-  - Contemporary jam bands
+    - Brad Mehldau
+    - Younger jazz drummers
+    - Contemporary jam bands
   mentors:
-  - Miles Davis
-  - Paul Bley
-  - Herbie Hancock
+    - Miles Davis
+    - Paul Bley
+    - Herbie Hancock
 spotify_data:
   followers: 2287
   id: 0ubnN8VlgkD4nE25WI3LMm
   popularity: 12
-  url: https://open.spotify.com/artist/0ubnN8VlgkD4nE25WI3LMm
+  url: 'https://open.spotify.com/artist/0ubnN8VlgkD4nE25WI3LMm'
 discography_enriched: true
 top_tracks:
-- One For Eric (Special Edition)
-- Central Park West (Special Edition)
-- India (Special Edition)
-- Ahmad The Terrible (Album Album)
-- Zoot Suite - 1979 Recording (Special Edition)
-- One For Eric (Special Edition)
-- Monk's Mood (Album Album)
-- New Orleans Strutt (Album Album)
-- Third World Anthem (Album Album)
-- Zoot Suite - 1982 Recording (Album Album)
+  - One For Eric (Special Edition)
+  - Central Park West (Special Edition)
+  - India (Special Edition)
+  - Ahmad The Terrible (Album Album)
+  - Zoot Suite - 1979 Recording (Special Edition)
+  - One For Eric (Special Edition)
+  - Monk's Mood (Album Album)
+  - New Orleans Strutt (Album Album)
+  - Third World Anthem (Album Album)
+  - Zoot Suite - 1982 Recording (Album Album)
 external_urls:
-  spotify: https://open.spotify.com/artist/0ubnN8VlgkD4nE25WI3LMm
-  wikipedia: https://en.wikipedia.org/wiki/Hudson_(album)
-image_path: 03_Resources/source_material/ArtistPortraits/jack_dejohnette_larry_grenadier_john_medeski_and_john_scofield.jpg
+  spotify: 'https://open.spotify.com/artist/0ubnN8VlgkD4nE25WI3LMm'
+  wikipedia: 'https://en.wikipedia.org/wiki/Hudson_(album)'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/jack_dejohnette_larry_grenadier_john_medeski_and_john_scofield.jpg
 biography_enhanced_at: '2025-11-01T15:24:40.768001'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://motema.com/artists/hudson/
-- https://jazztimes.com/features/profiles/hudson-upstate-new-yorks-supergroup/
-- https://www.berklee.edu/events/hudson-jack-dejohnette-larry-grenadier-john-medeski-john-scofield-0
-- https://en.wikipedia.org/wiki/Hudson_(album)
+  - 'https://motema.com/artists/hudson/'
+  - 'https://jazztimes.com/features/profiles/hudson-upstate-new-yorks-supergroup/'
+  - >-
+    https://www.berklee.edu/events/hudson-jack-dejohnette-larry-grenadier-john-medeski-john-scofield-0
+  - 'https://en.wikipedia.org/wiki/Hudson_(album)'
 network_extracted: true
 entry_created: '2025-11-01T15:24:40.768017'
 last_updated: '2025-12-23T08:16:09.995823'
-origin: Hudson River Valley, New York, USA
+origin: 'Hudson River Valley, New York, USA'
+artist_type: band
 ---
 
 ![](jack_dejohnette_larry_grenadier_john_medeski_and_john_scofield.jpg)

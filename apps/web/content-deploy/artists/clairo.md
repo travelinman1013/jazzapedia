@@ -5,29 +5,29 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1998-08-18'
-birth_place: Atlanta
+birth_place: 'Atlanta, Georgia, United States'
 genres:
-- bedroom pop
+  - bedroom pop
 instruments:
-- lead vocals
-- original
-- piano
-- electric guitar
-- Wurlitzer electric piano
-- guitar
-- acoustic guitar
-- 12 string guitar
-- vocal
-- background vocals
-- spoken vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - lead vocals
   - original
-  mbid: 30a10fc4-3402-427e-a420-2215395cd99b
-  name: Shelly
+  - piano
+  - electric guitar
+  - Wurlitzer electric piano
+  - guitar
+  - acoustic guitar
+  - 12 string guitar
+  - vocal
+  - background vocals
+  - spoken vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+      - original
+    mbid: 30a10fc4-3402-427e-a420-2215395cd99b
+    name: Shelly
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/clairo.jpg
   caption: Clairo
@@ -35,7 +35,7 @@ infobox:
   born: '1998-08-18'
   origin: Atlanta
 audio_profile:
-  tempo_avg: 109.0
+  tempo_avg: 109
   energy_avg: 0.473
   valence_avg: 0.504
   danceability_avg: 0.633
@@ -49,59 +49,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jack Antonoff
-  - Danny L Harle
-  - Rejjie Snow
-  - Dua Lipa
-  - Fader Label (Jon Cohen and team)
+    - Jack Antonoff
+    - Danny L Harle
+    - Rejjie Snow
+    - Dua Lipa
+    - Fader Label (Jon Cohen and team)
   influenced:
-  - Emerging bedroom pop and YouTube‑born indie artists (general category)
+    - Emerging bedroom pop and YouTube‑born indie artists (general category)
   mentors:
-  - The Shins
-  - Al Green
-  - Cocteau Twins
-  - Carole King (and 1960s–70s women songwriters)
+    - The Shins
+    - Al Green
+    - Cocteau Twins
+    - Carole King (and 1960s–70s women songwriters)
 spotify_data:
   followers: 6720295
   id: 3l0CmX0FuQjFxr8SK7Vqag
   popularity: 80
-  url: https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag
+  url: 'https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag'
 discography_enriched: true
 top_tracks:
-- Juna (Charm)
-- Bags (Immunity)
-- Sofia (Immunity)
-- Are You Bored Yet? (feat. Clairo) (Nothing Happens)
-- Glue Song (feat. Clairo)
-- 4EVER
-- Bubble Gum
-- Sexy to Someone (Charm)
-- Pretty Girl
-- Flaming Hot Cheetos
+  - Juna (Charm)
+  - Bags (Immunity)
+  - Sofia (Immunity)
+  - Are You Bored Yet? (feat. Clairo) (Nothing Happens)
+  - Glue Song (feat. Clairo)
+  - 4EVER
+  - Bubble Gum
+  - Sexy to Someone (Charm)
+  - Pretty Girl
+  - Flaming Hot Cheetos
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d786f59b-1836-4ddb-8393-ab753edbe984
-  spotify: https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag
-  wikipedia: https://en.wikipedia.org/wiki/Clairo
+  musicbrainz: 'https://musicbrainz.org/artist/d786f59b-1836-4ddb-8393-ab753edbe984'
+  spotify: 'https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag'
+  wikipedia: 'https://en.wikipedia.org/wiki/Clairo'
 image_path: 03_Resources/source_material/ArtistPortraits/clairo.jpg
 biography_enhanced_at: '2025-12-10T05:18:40.241444'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Clairo
-- https://theface.com/music/clairo-charm-vol-4-issue-22-interview-jack-antonoff
-- https://www.opry.com/artists/clairo
-- https://957thespin.com/a-glance-at-clairos-musical-career/
-- https://coulture.org/growing-up-with-clairo/
-- https://crackmagazine.net/article/profiles/clairo-cover-story-interview/
+  - 'https://en.wikipedia.org/wiki/Clairo'
+  - >-
+    https://theface.com/music/clairo-charm-vol-4-issue-22-interview-jack-antonoff
+  - 'https://www.opry.com/artists/clairo'
+  - 'https://957thespin.com/a-glance-at-clairos-musical-career/'
+  - 'https://coulture.org/growing-up-with-clairo/'
+  - 'https://crackmagazine.net/article/profiles/clairo-cover-story-interview/'
 network_extracted: true
 entry_created: '2025-12-10T05:18:40.241451'
 last_updated: '2025-12-23T08:16:06.998403'
 gender: Female
 musicbrainz_id: d786f59b-1836-4ddb-8393-ab753edbe984
 tags:
-- 2010s
-- 2020s
-- alternative
+  - 2010s
+  - 2020s
+  - alternative
+origin: 'Carlisle, Massachusetts, United States'
 ---
 
 ![](clairo.jpg)

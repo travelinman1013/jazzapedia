@@ -2,20 +2,20 @@
 title: Stanley Jordan
 wiki_slug: stanley-jordan
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1959-07-31'
-birth_place: Palo Alto, California, United States
+birth_place: 'Palo Alto, California, United States'
 genres:
-- jazz fusion
-- smooth jazz
-- jazz
+  - jazz fusion
+  - smooth jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Stanley_Jordan.jpg
   caption: Stanley Jordan
   background: solo_singer
   born: '1959-07-31'
-  origin: Palo Alto, California, United States
+  origin: 'Palo Alto, California, United States'
 audio_profile:
   tempo_avg: 115.4
   energy_avg: 0.372
@@ -31,44 +31,44 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kenny Rogers
-  - Dave Matthews
-  - Jeffrey Osborne
+    - Kenny Rogers
+    - Dave Matthews
+    - Jeffrey Osborne
   influenced:
-  - Tosin Abasi
-  - Kiko Loureiro
+    - Tosin Abasi
+    - Kiko Loureiro
   mentors:
-  - Perry Lederman
-  - Classical Piano Teachers (unnamed)
+    - Perry Lederman
+    - Classical Piano Teachers (unnamed)
 spotify_data:
   followers: 41535
   id: 2mBoEYescv3YHDG5rH6uKd
   popularity: 25
-  url: https://open.spotify.com/artist/2mBoEYescv3YHDG5rH6uKd
+  url: 'https://open.spotify.com/artist/2mBoEYescv3YHDG5rH6uKd'
 discography_enriched: true
 top_tracks:
-- The Lady In My Life (Magic Touch)
-- Eleanor Rigby (Magic Touch)
-- Stairway To Heaven (Flying Home)
-- Easy Love (Dreams Of Peace)
-- All The Children (Magic Touch)
-- 'Sonidos de aquel dia (Sharon Isbin & Friends: Guitar Passions)'
-- Past and Future (Groove and More)
-- Stairway To Heaven
-- Summertime (Duets)
-- Freddie Freeloader (Magic Touch)
+  - The Lady In My Life (Magic Touch)
+  - Eleanor Rigby (Magic Touch)
+  - Stairway To Heaven (Flying Home)
+  - Easy Love (Dreams Of Peace)
+  - All The Children (Magic Touch)
+  - 'Sonidos de aquel dia (Sharon Isbin & Friends: Guitar Passions)'
+  - Past and Future (Groove and More)
+  - Stairway To Heaven
+  - Summertime (Duets)
+  - Freddie Freeloader (Magic Touch)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6ba7dd48-a5fe-46a3-947a-057919dbe989
-  spotify: https://open.spotify.com/artist/2mBoEYescv3YHDG5rH6uKd
-  wikipedia: https://en.wikipedia.org/wiki/Stanley_Jordan
+  musicbrainz: 'https://musicbrainz.org/artist/6ba7dd48-a5fe-46a3-947a-057919dbe989'
+  spotify: 'https://open.spotify.com/artist/2mBoEYescv3YHDG5rH6uKd'
+  wikipedia: 'https://en.wikipedia.org/wiki/Stanley_Jordan'
 image_path: 03_Resources/source_material/ArtistPortraits/Stanley_Jordan.jpg
 biography_enhanced_at: '2025-10-19T11:43:41.895372'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://stanleyjordan.com/en/biography/
-- https://learnguitarcafe.com/stanley-jordan/
-- https://www.allaboutjazz.com/musicians/stanley-jordan/
+  - 'https://stanleyjordan.com/en/biography/'
+  - 'https://learnguitarcafe.com/stanley-jordan/'
+  - 'https://www.allaboutjazz.com/musicians/stanley-jordan/'
 network_extracted: true
 entry_created: '2025-10-19T11:43:41.895377'
 last_updated: '2025-12-23T08:16:03.947174'
@@ -76,9 +76,9 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:44:12.835880'
 musicbrainz_id: 6ba7dd48-a5fe-46a3-947a-057919dbe989
 tags:
-- contemporary jazz
-- instrumental
-- jazz
+  - contemporary jazz
+  - instrumental
+  - jazz
 ---
 
 ![](Stanley_Jordan.jpg)

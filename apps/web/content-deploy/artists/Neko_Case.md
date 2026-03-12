@@ -2,23 +2,23 @@
 title: Neko Case
 wiki_slug: neko-case
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1970-09-08'
-birth_place: Alexandria, Virginia, United States
+birth_place: 'Alexandria, Virginia, United States'
 genres:
-- alt country
-- americana
+  - alt country
+  - americana
 instruments:
-- drums (drum set)
-- eponymous
-- original
+  - drums (drum set)
+  - eponymous
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Neko_Case.jpg
   caption: Neko Case
   background: non_vocal_instrumentalist
   born: '1970-09-08'
-  origin: Alexandria, Virginia, United States
+  origin: 'Alexandria, Virginia, United States'
 audio_profile:
   tempo_avg: 124.6
   energy_avg: 0.532
@@ -34,45 +34,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The New Pornographers
-  - Carolyn Mark
-  - The Sadies
+    - The New Pornographers
+    - Carolyn Mark
+    - The Sadies
   influenced:
-  - Phoebe Bridgers
-  - Brandi Carlile
+    - Phoebe Bridgers
+    - Brandi Carlile
   mentors:
-  - Wanda Jackson
-  - Loretta Lynn
+    - Wanda Jackson
+    - Loretta Lynn
 spotify_data:
   followers: 246647
   id: 4Cedjq5BQL3MhapRvDpFED
   popularity: 50
-  url: https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED
+  url: 'https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED'
 discography_enriched: true
 top_tracks:
-- I Wish I Was the Moon (Blacklisted)
-- Hold On, Hold On (Fox Confessor Brings The Flood (Bonus Track Version))
-- Star Witness (Fox Confessor Brings The Flood (Bonus Track Version))
-- Deep Red Bells (Blacklisted)
-- Wreck
-- Atomic Number (case/lang/veirs)
-- This Tornado Loves You (Middle Cyclone)
-- Buckets of Rain - Live (Live From Austin, TX)
-- People Got A Lotta Nerve (Middle Cyclone)
-- Maybe Sparrow (Fox Confessor Brings The Flood (Bonus Track Version))
+  - I Wish I Was the Moon (Blacklisted)
+  - 'Hold On, Hold On (Fox Confessor Brings The Flood (Bonus Track Version))'
+  - Star Witness (Fox Confessor Brings The Flood (Bonus Track Version))
+  - Deep Red Bells (Blacklisted)
+  - Wreck
+  - Atomic Number (case/lang/veirs)
+  - This Tornado Loves You (Middle Cyclone)
+  - 'Buckets of Rain - Live (Live From Austin, TX)'
+  - People Got A Lotta Nerve (Middle Cyclone)
+  - Maybe Sparrow (Fox Confessor Brings The Flood (Bonus Track Version))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e13d2935-8c42-4c0a-96d7-654062acf106
-  spotify: https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED
-  wikipedia: https://en.wikipedia.org/wiki/Neko_Case
+  musicbrainz: 'https://musicbrainz.org/artist/e13d2935-8c42-4c0a-96d7-654062acf106'
+  spotify: 'https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED'
+  wikipedia: 'https://en.wikipedia.org/wiki/Neko_Case'
 image_path: 03_Resources/source_material/ArtistPortraits/Neko_Case.jpg
 biography_enhanced_at: '2025-10-19T12:01:10.721546'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Neko_Case
-- https://www.last.fm/music/Neko+Case/+wiki
-- https://www.bpr.org/2025-01-27/neko-case-talks-about-her-new-memoir-and-discoveries-about-her-upbringing
-- https://nekocase.com/about
+  - 'https://en.wikipedia.org/wiki/Neko_Case'
+  - 'https://www.last.fm/music/Neko+Case/+wiki'
+  - >-
+    https://www.bpr.org/2025-01-27/neko-case-talks-about-her-new-memoir-and-discoveries-about-her-upbringing
+  - 'https://nekocase.com/about'
 network_extracted: true
 entry_created: '2025-10-19T12:01:10.721559'
 last_updated: '2025-12-23T08:16:03.417635'
@@ -80,10 +81,10 @@ gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:39:03.742467'
 musicbrainz_id: e13d2935-8c42-4c0a-96d7-654062acf106
 tags:
-- adult alternative rock
-- alternative country
-- alternative country rock
-
+  - adult alternative rock
+  - alternative country
+  - alternative country rock
+origin: 'Tacoma, Washington, United States'
 ---
 
 ![](Neko_Case.jpg)

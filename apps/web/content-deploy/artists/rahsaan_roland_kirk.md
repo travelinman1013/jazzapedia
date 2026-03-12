@@ -1,98 +1,100 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 764df898-6b37-4c1c-afc3-161b7f9c90a2
-  name: Tubby Hayes and The All Stars
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 86afe953-50d8-4376-8c5a-d873d4dc8547
-  name: The Roland Kirk Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 69027ffa-eec6-4294-90a9-0daa2e79ee32
-  name: Rahsaan Roland Kirk & The Vibration Society
-- begin: ''
-  end: ''
-  instruments:
-  - clarinet
-  - eponymous
-  - flute
-  - harmonica
-  - kazoo
-  - original
-  - percussion
-  - saxophone
-  - tenor saxophone
-  mbid: 74f67fe2-83de-46d2-bdf8-6176acbacc13
-  name: Roland Kirk Sextet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 764df898-6b37-4c1c-afc3-161b7f9c90a2
+    name: Tubby Hayes and The All Stars
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 86afe953-50d8-4376-8c5a-d873d4dc8547
+    name: The Roland Kirk Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 69027ffa-eec6-4294-90a9-0daa2e79ee32
+    name: Rahsaan Roland Kirk & The Vibration Society
+  - begin: ''
+    end: ''
+    instruments:
+      - clarinet
+      - eponymous
+      - flute
+      - harmonica
+      - kazoo
+      - original
+      - percussion
+      - saxophone
+      - tenor saxophone
+    mbid: 74f67fe2-83de-46d2-bdf8-6176acbacc13
+    name: Roland Kirk Sextet
 biography_enhanced_at: '2026-01-22T07:03:38.155660'
 birth_date: '1935-08-07'
-birth_place: Columbus
+birth_place: 'Columbus, Ohio, United States'
 death_date: '1977-12-05'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:03:38.155667'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4a1f7fe0-e509-4c4a-9fa1-9cf6c3ca891c
-  spotify: https://open.spotify.com/artist/7De2eIqeHTw091YeAkkYXV
-  wikipedia: https://en.wikipedia.org/wiki/Rahsaan_Roland_Kirk
+  musicbrainz: 'https://musicbrainz.org/artist/4a1f7fe0-e509-4c4a-9fa1-9cf6c3ca891c'
+  spotify: 'https://open.spotify.com/artist/7De2eIqeHTw091YeAkkYXV'
+  wikipedia: 'https://en.wikipedia.org/wiki/Rahsaan_Roland_Kirk'
 gender: Male
 genres:
-- free jazz
-- hard bop
-- jazz
-- bebop
-- experimental jazz
+  - free jazz
+  - hard bop
+  - jazz
+  - bebop
+  - experimental jazz
 image_path: 03_Resources/source_material/ArtistPortraits/rahsaan_roland_kirk.jpg
 instruments:
-- eponymous
-- original
-- clarinet
-- flute
-- harmonica
-- kazoo
-- percussion
-- saxophone
-- tenor saxophone
-- spoken vocals
+  - eponymous
+  - original
+  - clarinet
+  - flute
+  - harmonica
+  - kazoo
+  - percussion
+  - saxophone
+  - tenor saxophone
+  - spoken vocals
 last_updated: '2026-01-22T07:03:38.155668'
 musical_connections:
   collaborators:
-  - Quincy Jones
-  - Roy Haynes
-  - Charles Mingus
+    - Quincy Jones
+    - Roy Haynes
+    - Charles Mingus
   influenced:
-  - Michael Blake
+    - Michael Blake
   mentors:
-  - Duke Ellington
-  - John Coltrane
+    - Duke Ellington
+    - John Coltrane
 musicbrainz_id: 4a1f7fe0-e509-4c4a-9fa1-9cf6c3ca891c
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Rahsaan_Roland_Kirk
-- https://www.allaboutjazz.com/musicians/rahsaan-roland-kirk/
-- https://daily.redbullmusicacademy.com/2013/02/rahsaan-roland-kirk-feature/
-- https://www.jerryjazzmusician.com/john-kruth-author-of-bright-moments-the-life-and-legacy-of-rahsaan-roland-kirk/
+  - 'https://en.wikipedia.org/wiki/Rahsaan_Roland_Kirk'
+  - 'https://www.allaboutjazz.com/musicians/rahsaan-roland-kirk/'
+  - 'https://daily.redbullmusicacademy.com/2013/02/rahsaan-roland-kirk-feature/'
+  - >-
+    https://www.jerryjazzmusician.com/john-kruth-author-of-bright-moments-the-life-and-legacy-of-rahsaan-roland-kirk/
 spotify_data:
   followers: 57302
   id: 7De2eIqeHTw091YeAkkYXV
   popularity: 38
-  url: https://open.spotify.com/artist/7De2eIqeHTw091YeAkkYXV
+  url: 'https://open.spotify.com/artist/7De2eIqeHTw091YeAkkYXV'
 status: active
 tags:
-- 2008 universal fire victim
-- hard bop
-- jazz
+  - 2008 universal fire victim
+  - hard bop
+  - jazz
 title: Rahsaan Roland Kirk
+is_active: false
 ---
 
 ![](rahsaan_roland_kirk.jpg)

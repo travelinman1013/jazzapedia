@@ -1,49 +1,51 @@
 ---
 biography_enhanced_at: '2026-01-22T07:06:00.681719'
-birth_place: Houston, Texas, United States
+birth_place: 'Houston, Texas, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:06:00.681727'
 external_urls:
-  spotify: https://open.spotify.com/artist/7g3iwvP459BN53F7CDxemI
-  wikipedia: https://en.wikipedia.org/wiki/Jason_Moran_(musician)
+  spotify: 'https://open.spotify.com/artist/7g3iwvP459BN53F7CDxemI'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jason_Moran_(musician)'
 genres:
-- jazz
-- free jazz
+  - jazz
+  - free jazz
 image_path: 03_Resources/source_material/ArtistPortraits/jason_moran.jpg
 last_updated: '2026-01-22T07:06:00.681728'
 musical_connections:
   collaborators:
-  - Greg Osby
-  - Eric Harland
-  - Tarus Mateen
-  - Nasheet Waits
-  - Sam Rivers
-  - Charles Lloyd
+    - Greg Osby
+    - Eric Harland
+    - Tarus Mateen
+    - Nasheet Waits
+    - Sam Rivers
+    - Charles Lloyd
   influenced: []
   mentors:
-  - Jaki Byard
-  - Muhal Richard Abrams
-  - Andrew Hill
-  - Thelonious Monk
+    - Jaki Byard
+    - Muhal Richard Abrams
+    - Andrew Hill
+    - Thelonious Monk
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jason_Moran_(musician)
-- https://necmusic.edu/faculty/jason-moran/
-- https://www.bluenote.com/artist/jason-moran/
-- https://www.steinway.com/artists/jason-moran
-- https://www.luhringaugustine.com/artists/jason-moran
-- https://www.blackstarfest.org/manylumens/season-3/jason-moran/
-- https://www.macfound.org/fellows/class-of-2010/jason-moran
-- https://www.thehistorymakers.org/biography/jason-moran
-- https://www.detroitjazzfest.org/artist/jason-moran/
+  - 'https://en.wikipedia.org/wiki/Jason_Moran_(musician)'
+  - 'https://necmusic.edu/faculty/jason-moran/'
+  - 'https://www.bluenote.com/artist/jason-moran/'
+  - 'https://www.steinway.com/artists/jason-moran'
+  - 'https://www.luhringaugustine.com/artists/jason-moran'
+  - 'https://www.blackstarfest.org/manylumens/season-3/jason-moran/'
+  - 'https://www.macfound.org/fellows/class-of-2010/jason-moran'
+  - 'https://www.thehistorymakers.org/biography/jason-moran'
+  - 'https://www.detroitjazzfest.org/artist/jason-moran/'
 spotify_data:
   followers: 22808
   id: 7g3iwvP459BN53F7CDxemI
   popularity: 28
-  url: https://open.spotify.com/artist/7g3iwvP459BN53F7CDxemI
+  url: 'https://open.spotify.com/artist/7g3iwvP459BN53F7CDxemI'
 status: active
 title: Jason Moran
+birth_date: '1975-01-21'
+artist_type: person
 ---
 
 ![](jason_moran.jpg)

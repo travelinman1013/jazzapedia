@@ -1,28 +1,28 @@
 ---
-title: jackie mclean
+title: Jackie McLean
 wiki_slug: jackie-mclean
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1932-05-17'
-birth_place: New York
+birth_place: 'Harlem, New York, United States'
 death_date: '2006-03-31'
 genres:
-- hard bop
-- jazz
-- bebop
-- free jazz
+  - hard bop
+  - jazz
+  - bebop
+  - free jazz
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b2c51717-f8f8-49f4-aac2-7b84f5899618
-  name: Freddie Redd Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 55920730-831f-431f-80f7-539a2bf83f98
-  name: Miles Davis and His Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b2c51717-f8f8-49f4-aac2-7b84f5899618
+    name: Freddie Redd Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 55920730-831f-431f-80f7-539a2bf83f98
+    name: Miles Davis and His Band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jackie_mclean.jpg
   caption: jackie mclean
@@ -45,49 +45,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Miles Davis
-  - Charles Mingus
-  - Art Blakey
-  - Sonny Rollins
+    - Miles Davis
+    - Charles Mingus
+    - Art Blakey
+    - Sonny Rollins
   influenced:
-  - Steve Davis
-  - Rene McLean
-  - Numerous Hartt School alumni
+    - Steve Davis
+    - Rene McLean
+    - Numerous Hartt School alumni
   mentors:
-  - Charlie Parker
-  - Bud Powell
-  - Norman Cobbs
+    - Charlie Parker
+    - Bud Powell
+    - Norman Cobbs
 spotify_data:
   followers: 49253
   id: 1lB7KbOr9xdPK1CuasxmeA
   popularity: 33
-  url: https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA
+  url: 'https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA'
 discography_enriched: true
 top_tracks:
-- Yams (Vertigo)
-- Blues Inn (Jackie's Bag)
-- A Ballad For Doll (Jackie's Bag)
-- Greasy (New Soil)
-- Das' Dat - Remastered 2006 (It's Time)
-- Blues Function - Rudy Van Gelder Edition/2009 Digital Remaster (Bluesnik (Remastered/ Expanded Edition))
-- Wigglin' - Remastered (The Music From "The Connection" (2005 Rudy Van Gelder Edition))
-- Sundu - Remastered 1999 / Rudy Van Gelder Edition (A Fickle Sonance)
-- On The Nile - Remastered (Jacknife)
-- Vertigo - Remastered 2000 (Vertigo)
+  - Yams (Vertigo)
+  - Blues Inn (Jackie's Bag)
+  - A Ballad For Doll (Jackie's Bag)
+  - Greasy (New Soil)
+  - Das' Dat - Remastered 2006 (It's Time)
+  - >-
+    Blues Function - Rudy Van Gelder Edition/2009 Digital Remaster (Bluesnik
+    (Remastered/ Expanded Edition))
+  - >-
+    Wigglin' - Remastered (The Music From "The Connection" (2005 Rudy Van Gelder
+    Edition))
+  - Sundu - Remastered 1999 / Rudy Van Gelder Edition (A Fickle Sonance)
+  - On The Nile - Remastered (Jacknife)
+  - Vertigo - Remastered 2000 (Vertigo)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5b6993ef-14af-4374-aa91-d42622b133d1
-  spotify: https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA
-  wikipedia: https://en.wikipedia.org/wiki/Jackie_McLean
+  musicbrainz: 'https://musicbrainz.org/artist/5b6993ef-14af-4374-aa91-d42622b133d1'
+  spotify: 'https://open.spotify.com/artist/1lB7KbOr9xdPK1CuasxmeA'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jackie_McLean'
 image_path: 03_Resources/source_material/ArtistPortraits/jackie_mclean.jpg
 biography_enhanced_at: '2025-10-30T11:57:36.970923'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- EBSCO Biography[1]
-- Britannica[2]
-- National Endowment for the Arts[3]
-- African American Registry[4]
-- University of Hartford/NPR[5]
+  - 'EBSCO Biography[1]'
+  - 'Britannica[2]'
+  - 'National Endowment for the Arts[3]'
+  - 'African American Registry[4]'
+  - 'University of Hartford/NPR[5]'
 network_extracted: true
 entry_created: '2025-10-30T11:57:36.970935'
 last_updated: '2025-12-23T08:16:10.048332'
@@ -95,9 +99,10 @@ disambiguation: jazz saxophonist
 gender: Male
 musicbrainz_id: 5b6993ef-14af-4374-aa91-d42622b133d1
 tags:
-- hard bop
-- jazz
-- post-bop
+  - hard bop
+  - jazz
+  - post-bop
+is_active: false
 ---
 
 ![](jackie_mclean.jpg)

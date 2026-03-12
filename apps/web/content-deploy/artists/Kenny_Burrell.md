@@ -2,26 +2,26 @@
 title: Kenny Burrell
 wiki_slug: kenny-burrell
 schema_version: 2
-artist_type: Person
+artist_type: band
 status: active
 birth_date: '1931-07-31'
-birth_place: Detroit, Michigan, United States
+birth_place: 'Detroit, Michigan, United States'
 genres:
-- hard bop
-- jazz
-- bebop
-- cool jazz
-- soul jazz
-- jazz blues
+  - hard bop
+  - jazz
+  - bebop
+  - cool jazz
+  - soul jazz
+  - jazz blues
 instruments:
-- original
-- guitar
+  - original
+  - guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Kenny_Burrell.jpg
   caption: Kenny Burrell
   background: non_vocal_instrumentalist
   born: '1931-07-31'
-  origin: Detroit, Michigan, United States
+  origin: 'Detroit, Michigan, United States'
 audio_profile:
   tempo_avg: 111.9
   energy_avg: 0.259
@@ -37,54 +37,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jimmy Smith
-  - John Coltrane
-  - Stanley Turrentine
-  - Oscar Peterson
-  - Tommy Flanagan
-  - Billie Holiday
-  - Tony Bennett
-  - Lena Horne
+    - Jimmy Smith
+    - John Coltrane
+    - Stanley Turrentine
+    - Oscar Peterson
+    - Tommy Flanagan
+    - Billie Holiday
+    - Tony Bennett
+    - Lena Horne
   influenced:
-  - Pat Metheny
-  - Russell Malone
-  - UCLA Jazz Studies students
+    - Pat Metheny
+    - Russell Malone
+    - UCLA Jazz Studies students
   mentors:
-  - Louis Cabara
-  - Joe Fava
-  - Charlie Christian
-  - Django Reinhardt
-  - T-Bone Walker
+    - Louis Cabara
+    - Joe Fava
+    - Charlie Christian
+    - Django Reinhardt
+    - T-Bone Walker
 spotify_data:
   followers: 99587
   id: 1sdyFmN4bVOcuFDpTVsxBB
   popularity: 45
-  url: https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB
+  url: 'https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB'
 discography_enriched: true
 top_tracks:
-- Midnight Blue - Remastered (Midnight Blue (The Rudy Van Gelder Edition))
-- Chitlins Con Carne (Midnight Blue (The Rudy Van Gelder Edition))
-- Soul Lament - Remastered 1999/Rudy Van Gelder Edition (Midnight Blue (The Rudy Van Gelder Edition))
-- Mule - Remastered (Midnight Blue (The Rudy Van Gelder Edition))
-- Gee Baby, Ain't I Good To You - Remastered (Midnight Blue (The Rudy Van Gelder Edition))
-- Why Was I Born? - Rudy Van Gelder Remaster 1958 (Kenny Burrell & John Coltrane)
-- Wavy Gravy - Remastered (Midnight Blue (The Rudy Van Gelder Edition))
-- Saturday Night Blues - Remastered (Midnight Blue (The Rudy Van Gelder Edition))
-- Moon And Sand (Guitar Forms (Expanded Edition))
-- K Twist (Take 35) (Midnight Blue (The Rudy Van Gelder Edition))
+  - Midnight Blue - Remastered (Midnight Blue (The Rudy Van Gelder Edition))
+  - Chitlins Con Carne (Midnight Blue (The Rudy Van Gelder Edition))
+  - >-
+    Soul Lament - Remastered 1999/Rudy Van Gelder Edition (Midnight Blue (The
+    Rudy Van Gelder Edition))
+  - Mule - Remastered (Midnight Blue (The Rudy Van Gelder Edition))
+  - >-
+    Gee Baby, Ain't I Good To You - Remastered (Midnight Blue (The Rudy Van
+    Gelder Edition))
+  - >-
+    Why Was I Born? - Rudy Van Gelder Remaster 1958 (Kenny Burrell & John
+    Coltrane)
+  - Wavy Gravy - Remastered (Midnight Blue (The Rudy Van Gelder Edition))
+  - >-
+    Saturday Night Blues - Remastered (Midnight Blue (The Rudy Van Gelder
+    Edition))
+  - Moon And Sand (Guitar Forms (Expanded Edition))
+  - K Twist (Take 35) (Midnight Blue (The Rudy Van Gelder Edition))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a85b66d2-34df-4d5a-8c0d-d585b8a14ce1
-  spotify: https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB
-  wikipedia: https://en.wikipedia.org/wiki/Kenny_Burrell
+  musicbrainz: 'https://musicbrainz.org/artist/a85b66d2-34df-4d5a-8c0d-d585b8a14ce1'
+  spotify: 'https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kenny_Burrell'
 image_path: 03_Resources/source_material/ArtistPortraits/Kenny_Burrell.jpg
 biography_enhanced_at: '2025-10-19T11:26:45.729056'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://www.cyrilscott.net/kenny-burrell
-- https://www.arts.gov/honors/jazz/kenny-burrell
-- https://www.bluenote.com/artist/kenny-burrell/
-- https://concord.com/artist/kenny-burrell/
+  - 'http://www.cyrilscott.net/kenny-burrell'
+  - 'https://www.arts.gov/honors/jazz/kenny-burrell'
+  - 'https://www.bluenote.com/artist/kenny-burrell/'
+  - 'https://concord.com/artist/kenny-burrell/'
 network_extracted: true
 entry_created: '2025-10-19T11:26:45.729067'
 last_updated: '2025-12-23T08:16:02.834429'
@@ -92,9 +100,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:33:46.459129'
 musicbrainz_id: a85b66d2-34df-4d5a-8c0d-d585b8a14ce1
 tags:
-- american
-- américain
-- composer
+  - american
+  - américain
+  - composer
+origin: 'New York City, New York, United States'
 ---
 
 ![](Kenny_Burrell.jpg)

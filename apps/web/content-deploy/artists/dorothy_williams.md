@@ -4,7 +4,7 @@ wiki_slug: dorothy-williams
 schema_version: 2
 status: active
 genres:
-- northern soul
+  - northern soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/dorothy_williams.jpg
   caption: Dorothy Williams
@@ -30,33 +30,38 @@ spotify_data:
   followers: 659
   id: 0hBqmMpH657uAFSg8l0es2
   popularity: 5
-  url: https://open.spotify.com/artist/0hBqmMpH657uAFSg8l0es2
+  url: 'https://open.spotify.com/artist/0hBqmMpH657uAFSg8l0es2'
 discography_enriched: true
 top_tracks:
-- 'Closer To My Baby (Stax-Volt: The Complete Singles 1959-1968)'
-- The Well's Gone Dry (The Goldwax Story, Vol. 1)
-- Watchdog (Bad Girls Vol.4, Mean Women Sing)
-- 'Closer to My Baby (Stax-Volt: The Complete Singles 1959-1968)'
-- 'Watchdog (Stax Singles, Vol. 4: Rarities & The Best Of The Rest)'
-- Closer to My Baby (Stax/Volt - The Complete Singles 1959-1968 - Volume 3)
-- Closer to My Baby (Loving Soul)
-- Closer to My Baby (Essential Soul Serenades)
-- Closer to My Baby (Memphis Deep Soul Rarities)
-- Closer to My Baby (Southern Soul Sisters)
+  - 'Closer To My Baby (Stax-Volt: The Complete Singles 1959-1968)'
+  - 'The Well''s Gone Dry (The Goldwax Story, Vol. 1)'
+  - 'Watchdog (Bad Girls Vol.4, Mean Women Sing)'
+  - 'Closer to My Baby (Stax-Volt: The Complete Singles 1959-1968)'
+  - 'Watchdog (Stax Singles, Vol. 4: Rarities & The Best Of The Rest)'
+  - Closer to My Baby (Stax/Volt - The Complete Singles 1959-1968 - Volume 3)
+  - Closer to My Baby (Loving Soul)
+  - Closer to My Baby (Essential Soul Serenades)
+  - Closer to My Baby (Memphis Deep Soul Rarities)
+  - Closer to My Baby (Southern Soul Sisters)
 external_urls:
-  spotify: https://open.spotify.com/artist/0hBqmMpH657uAFSg8l0es2
+  spotify: 'https://open.spotify.com/artist/0hBqmMpH657uAFSg8l0es2'
   wikipedia: ''
 image_path: ''
 biography_enhanced_at: '2025-12-06T05:45:49.139575'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Rockin' Country Style / SFS artist discography entry for Dorothy Williams, documenting a Goldwax single circa July 1965.[5]
-- Stax/Volt discography resource for Dorothy Williams, noting her association with Goldwax and Memphis and stating that nothing
-  else is known about the artist.[6]
+  - >-
+    Rockin' Country Style / SFS artist discography entry for Dorothy Williams,
+    documenting a Goldwax single circa July 1965.[5]
+  - >-
+    Stax/Volt discography resource for Dorothy Williams, noting her association
+    with Goldwax and Memphis and stating that nothing else is known about the
+    artist.[6]
 network_extracted: true
 entry_created: '2025-12-06T05:45:49.139598'
 last_updated: '2025-12-23T08:16:07.973941'
+artist_type: person
 ---
 
 ![]()

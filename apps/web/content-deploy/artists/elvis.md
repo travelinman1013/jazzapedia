@@ -1,41 +1,45 @@
 ---
 biography_enhanced_at: '2026-01-02T01:25:34.851403'
-birth_place: Tupelo, Mississippi, United States
+birth_place: 'Tupelo, Mississippi, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-02T01:25:34.851407'
 external_urls:
-  spotify: https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE
-  wikipedia: https://en.wikipedia.org/wiki/Elvis_Presley
+  spotify: 'https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE'
+  wikipedia: 'https://en.wikipedia.org/wiki/Elvis_Presley'
 genres:
-- rockabilly
-- rock and roll
+  - rockabilly
+  - rock and roll
 image_path: 03_Resources/source_material/ArtistPortraits/elvis.jpg
 last_updated: '2026-01-02T01:25:34.851408'
 musical_connections:
   collaborators:
-  - Scotty Moore
-  - Bill Black
-  - D.J. Fontana
-  - Hank Snow
+    - Scotty Moore
+    - Bill Black
+    - D.J. Fontana
+    - Hank Snow
   influenced:
-  - Fats Domino
+    - Fats Domino
   mentors:
-  - Sam Phillips
-  - Colonel Tom Parker
+    - Sam Phillips
+    - Colonel Tom Parker
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Elvis_Presley [2]
-- https://www.britannica.com/biography/Elvis-Presley [4]
-- https://biography.elvis.com.au/biography-elvis-presley.shtml [5]
-- https://elvispresleyleader.weebly.com/timeline.html [1]
+  - 'https://en.wikipedia.org/wiki/Elvis_Presley [2]'
+  - 'https://www.britannica.com/biography/Elvis-Presley [4]'
+  - 'https://biography.elvis.com.au/biography-elvis-presley.shtml [5]'
+  - 'https://elvispresleyleader.weebly.com/timeline.html [1]'
 spotify_data:
   followers: 11189940
   id: 43ZHCT0cAZBISjO8DG9PnE
   popularity: 84
-  url: https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE
+  url: 'https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE'
 status: active
-title: elvis
+title: Elvis
+origin: 'Memphis, Tennessee, United States'
+birth_date: '1935-01-08'
+death_date: '1977-08-16'
+artist_type: person
 ---
 
 ![](elvis.jpg)

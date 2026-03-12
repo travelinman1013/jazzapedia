@@ -3,41 +3,50 @@ biography_enhanced_at: '2026-01-22T07:07:35.286143'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:07:35.286150'
 external_urls:
-  spotify: https://open.spotify.com/artist/30SXQR9bDvtMfe8SIAF2bG
+  spotify: 'https://open.spotify.com/artist/30SXQR9bDvtMfe8SIAF2bG'
   wikipedia: Not found in search results
 genres: []
-image_path: 03_Resources/source_material/ArtistPortraits/cliff_jackson_and_his_crazy_kats.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/cliff_jackson_and_his_crazy_kats.jpg
 last_updated: '2026-01-22T07:07:35.286151'
 musical_connections:
   collaborators:
-  - Henry Goodwin
-  - Rudy Powell
-  - Sidney Bechet
-  - Pee Wee Russell
-  - Elmer Snowden
-  - Viola McCoy
-  - Tony Parenti
-  - Zutty Singleton
+    - Henry Goodwin
+    - Rudy Powell
+    - Sidney Bechet
+    - Pee Wee Russell
+    - Elmer Snowden
+    - Viola McCoy
+    - Tony Parenti
+    - Zutty Singleton
   influenced: []
   mentors: []
 network_extracted: true
-origin: Culpeper, Virginia, United States (birthplace); New York City, New York, United
-  States (primary base)
+origin: >-
+  Culpeper, Virginia, United States (birthplace); New York City, New York,
+  United States (primary base)
 primary_source: perplexity
 research_sources:
-- https://syncopatedtimes.com/maxine-sullivan-and-cliff-jackson-profiles-in-jazz/
-- https://fromthevaults-boppinbob.blogspot.com/2016/07/cliff-jackson-born-19-july-1902.html
-- https://syncopatedtimes.com/cliff-jackson-1926-1934/
-- https://www.harlem-fuss.com/pdf/soloists/harlem_fuss_soloists_jackson_cliff.pdf
-- https://aaregistry.org/story/cliff-jackson-slide-pianist-born/
-- https://www.jazzdisco.org/cliff-jackson/discography/
+  - >-
+    https://syncopatedtimes.com/maxine-sullivan-and-cliff-jackson-profiles-in-jazz/
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2016/07/cliff-jackson-born-19-july-1902.html
+  - 'https://syncopatedtimes.com/cliff-jackson-1926-1934/'
+  - >-
+    https://www.harlem-fuss.com/pdf/soloists/harlem_fuss_soloists_jackson_cliff.pdf
+  - 'https://aaregistry.org/story/cliff-jackson-slide-pianist-born/'
+  - 'https://www.jazzdisco.org/cliff-jackson/discography/'
 spotify_data:
   followers: 0
   id: 30SXQR9bDvtMfe8SIAF2bG
   popularity: 0
-  url: https://open.spotify.com/artist/30SXQR9bDvtMfe8SIAF2bG
+  url: 'https://open.spotify.com/artist/30SXQR9bDvtMfe8SIAF2bG'
 status: active
-title: CLIFF JACKSON AND HIS CRAZY KATS
+title: Cliff Jackson and His Crazy Kats
+birth_place: 'Culpeper, Virginia, United States'
+birth_date: '1902-07-19'
+death_date: '1970-05-24'
+artist_type: person
 ---
 
 ![](cliff_jackson_and_his_crazy_kats.jpg)

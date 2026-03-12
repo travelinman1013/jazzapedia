@@ -5,54 +5,54 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1907-07-25'
-birth_place: Cambridge
+birth_place: 'Cambridge, Massachusetts, United States'
 death_date: '1970-05-11'
 genres:
-- jazz
-- cool jazz
-- swing music
+  - jazz
+  - cool jazz
+  - swing music
 instruments:
-- eponymous
-- alto saxophone
-associated_acts:
-- begin: '1928'
-  end: '1951'
-  instruments: []
-  mbid: c01557ad-d41e-4316-a285-605769e2ab3b
-  name: Duke Ellington and His Orchestra
-- begin: '1955'
-  end: '1970-05-11'
-  instruments: []
-  mbid: c01557ad-d41e-4316-a285-605769e2ab3b
-  name: Duke Ellington and His Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8411e79d-deba-4753-8cd3-b1d23a264050
-  name: The Jungle Band
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
-  mbid: 2529b6d1-2bd5-4a57-b119-db4402ebd0c4
-  name: Johnny Hodges and His Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e5302297-db17-4f89-999a-80bb59ad3f07
-  name: Leonard Feather’s Esquire All‐Americans
-- begin: ''
-  end: ''
-  instruments:
   - alto saxophone
-  mbid: d578d8aa-9651-4ba0-a22d-99cf1eb2ab90
-  name: Duke Ellington Octet
-- begin: ''
-  end: ''
-  instruments:
-  - alto saxophone
-  mbid: 11e5e155-efbf-4b5c-852e-0638f4c9e0d2
-  name: Eddie Heywood Trio
+associated_acts:
+  - begin: '1928'
+    end: '1951'
+    instruments: []
+    mbid: c01557ad-d41e-4316-a285-605769e2ab3b
+    name: Duke Ellington and His Orchestra
+  - begin: '1955'
+    end: '1970-05-11'
+    instruments: []
+    mbid: c01557ad-d41e-4316-a285-605769e2ab3b
+    name: Duke Ellington and His Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8411e79d-deba-4753-8cd3-b1d23a264050
+    name: The Jungle Band
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 2529b6d1-2bd5-4a57-b119-db4402ebd0c4
+    name: Johnny Hodges and His Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e5302297-db17-4f89-999a-80bb59ad3f07
+    name: Leonard Feather’s Esquire All‐Americans
+  - begin: ''
+    end: ''
+    instruments:
+      - alto saxophone
+    mbid: d578d8aa-9651-4ba0-a22d-99cf1eb2ab90
+    name: Duke Ellington Octet
+  - begin: ''
+    end: ''
+    instruments:
+      - alto saxophone
+    mbid: 11e5e155-efbf-4b5c-852e-0638f4c9e0d2
+    name: Eddie Heywood Trio
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/johnny_hodges.jpg
   caption: Johnny Hodges
@@ -75,56 +75,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Duke Ellington
-  - Billy Strayhorn
-  - Chick Webb
-  - Harry Carney
+    - Duke Ellington
+    - Billy Strayhorn
+    - Chick Webb
+    - Harry Carney
   influenced:
-  - Benny Carter
-  - Paul Desmond
-  - Julian 'Cannonball' Adderley
+    - Benny Carter
+    - Paul Desmond
+    - Julian 'Cannonball' Adderley
   mentors:
-  - Sidney Bechet
+    - Sidney Bechet
 spotify_data:
   followers: 50324
   id: 7lRFrrINQTY35g8hq0kXY5
   popularity: 43
-  url: https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5
+  url: 'https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5'
 discography_enriched: true
 top_tracks:
-- The Last Time I Saw Paris (Not So Dukish)
-- 'Back Beat (Jazz Masters 35: Johnny Hodges)'
-- Warm Valley (Used To Be Duke)
-- I've Got It Bad And That Ain't Good (Johnny Hodges With Billy Strayhorn And The Orchestra)
-- Day Dream (Johnny Hodges With Billy Strayhorn And The Orchestra)
-- What's The Rush
-- Used To Be Duke (Used To Be Duke)
-- On The Sunny Side Of The Street (Used To Be Duke)
-- Main Stem (Everybody Knows)
-- Autumn In New York (Used To Be Duke)
+  - The Last Time I Saw Paris (Not So Dukish)
+  - 'Back Beat (Jazz Masters 35: Johnny Hodges)'
+  - Warm Valley (Used To Be Duke)
+  - >-
+    I've Got It Bad And That Ain't Good (Johnny Hodges With Billy Strayhorn And
+    The Orchestra)
+  - Day Dream (Johnny Hodges With Billy Strayhorn And The Orchestra)
+  - What's The Rush
+  - Used To Be Duke (Used To Be Duke)
+  - On The Sunny Side Of The Street (Used To Be Duke)
+  - Main Stem (Everybody Knows)
+  - Autumn In New York (Used To Be Duke)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/881d33d8-e86f-42e8-b571-dbde156f6907
-  spotify: https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5
-  wikipedia: https://en.wikipedia.org/wiki/Johnny_Hodges
+  musicbrainz: 'https://musicbrainz.org/artist/881d33d8-e86f-42e8-b571-dbde156f6907'
+  spotify: 'https://open.spotify.com/artist/7lRFrrINQTY35g8hq0kXY5'
+  wikipedia: 'https://en.wikipedia.org/wiki/Johnny_Hodges'
 image_path: 03_Resources/source_material/ArtistPortraits/johnny_hodges.jpg
 biography_enhanced_at: '2025-11-03T07:36:51.589593'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://cambridgeblackhistoryproject.org/project/johnny-hodges/
-- https://www.britannica.com/biography/Johnny-Hodges
-- https://www.jazzhistorydatabase.com/neja/johnny-hodges.php
-- https://www.jazzattackswings.com/post/jazz-greats-johnny-hodges
-- https://syncopatedtimes.com/johnny-hodges-profiles-in-jazz/
+  - 'https://cambridgeblackhistoryproject.org/project/johnny-hodges/'
+  - 'https://www.britannica.com/biography/Johnny-Hodges'
+  - 'https://www.jazzhistorydatabase.com/neja/johnny-hodges.php'
+  - 'https://www.jazzattackswings.com/post/jazz-greats-johnny-hodges'
+  - 'https://syncopatedtimes.com/johnny-hodges-profiles-in-jazz/'
 network_extracted: true
 entry_created: '2025-11-03T07:36:51.589642'
 last_updated: '2025-12-23T08:16:10.846889'
 gender: Male
 musicbrainz_id: 881d33d8-e86f-42e8-b571-dbde156f6907
 tags:
-- big band
-- cool jazz
-- jazz
+  - big band
+  - cool jazz
+  - jazz
+is_active: false
 ---
 
 ![](johnny_hodges.jpg)

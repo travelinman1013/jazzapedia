@@ -3,14 +3,14 @@ title: Marcos Moran
 wiki_slug: marcos-moran
 schema_version: 2
 status: active
-birth_place: Alegre, Espírito Santo, Brazil
+birth_place: 'Alegre, Espírito Santo, Brazil'
 genres:
-- samba
+  - samba
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/marcos_moran.jpg
   caption: Marcos Moran
   background: solo_singer
-  origin: Alegre, Espírito Santo, Brazil
+  origin: 'Alegre, Espírito Santo, Brazil'
 audio_profile:
   tempo_avg: 120.6
   energy_avg: 0.64
@@ -26,44 +26,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Roberto Carlos
-  - Martinho da Vila
-  - Youngsters group
-  - Samba Som Sete
+    - Roberto Carlos
+    - Martinho da Vila
+    - Youngsters group
+    - Samba Som Sete
   influenced: []
   mentors:
-  - Wilson Simonal
-  - Carlos Imperial
+    - Wilson Simonal
+    - Carlos Imperial
 spotify_data:
   followers: 166
   id: 239ycz2YvZ6YcSO0syOnbk
   popularity: 2
-  url: https://open.spotify.com/artist/239ycz2YvZ6YcSO0syOnbk
+  url: 'https://open.spotify.com/artist/239ycz2YvZ6YcSO0syOnbk'
 discography_enriched: true
 top_tracks:
-- Pra Tudo se Acabar na Quarta-Feira (Sambas de Enredo Das Escolas De Samba Do Grupo 1A - Carnaval 84)
-- Sonho de um Sonho (Sambas de Enredo Das Escolas De Samba Do Grupo 1 - Carnaval 80)
-- Quatro Séculos de Modas e Costumes / Ya Ya do Cais Dourado / Glórias Gaúchas (feat. Jorge Tropical & Marcos Moran) (Escolas
-  de Samba - Enredos - Unidos de Vila Isabel)
-- Batucada Surgiu (Nicola Conte Presents Viagem 4)
-- Noel Rosa e os poetas da Vila nas Batalhas do Boulevard (Sambas de Enredo Das Escolas De Samba Do Grupo 1A - Carnaval 82)
-- Dos Jardins de Éden À Era de Aquarius (Sambas de Enredo das Escolas de Samba do Grupo 1A, Carnaval 81)
-- Até Quarta-Feira - 2007 Remaster (O Melhor Carnaval Do Mundo - Marchas E Sambas Imortais)
-- Partido Alto (O Melhor do Partido Alto)
-- Uma Rosa Com Amor (O Melhor do Partido Alto)
-- Os Imortais (Sambas de Enredo Das Escolas De Samba Do Grupo 1A - Carnaval 83)
+  - >-
+    Pra Tudo se Acabar na Quarta-Feira (Sambas de Enredo Das Escolas De Samba Do
+    Grupo 1A - Carnaval 84)
+  - >-
+    Sonho de um Sonho (Sambas de Enredo Das Escolas De Samba Do Grupo 1 -
+    Carnaval 80)
+  - >-
+    Quatro Séculos de Modas e Costumes / Ya Ya do Cais Dourado / Glórias Gaúchas
+    (feat. Jorge Tropical & Marcos Moran) (Escolas de Samba - Enredos - Unidos
+    de Vila Isabel)
+  - Batucada Surgiu (Nicola Conte Presents Viagem 4)
+  - >-
+    Noel Rosa e os poetas da Vila nas Batalhas do Boulevard (Sambas de Enredo
+    Das Escolas De Samba Do Grupo 1A - Carnaval 82)
+  - >-
+    Dos Jardins de Éden À Era de Aquarius (Sambas de Enredo das Escolas de Samba
+    do Grupo 1A, Carnaval 81)
+  - >-
+    Até Quarta-Feira - 2007 Remaster (O Melhor Carnaval Do Mundo - Marchas E
+    Sambas Imortais)
+  - Partido Alto (O Melhor do Partido Alto)
+  - Uma Rosa Com Amor (O Melhor do Partido Alto)
+  - >-
+    Os Imortais (Sambas de Enredo Das Escolas De Samba Do Grupo 1A - Carnaval
+    83)
 external_urls:
-  spotify: https://open.spotify.com/artist/239ycz2YvZ6YcSO0syOnbk
-  wikipedia: https://pt.wikipedia.org/wiki/Marcos_Moran
+  spotify: 'https://open.spotify.com/artist/239ycz2YvZ6YcSO0syOnbk'
+  wikipedia: 'https://pt.wikipedia.org/wiki/Marcos_Moran'
 image_path: 03_Resources/source_material/ArtistPortraits/marcos_moran.jpg
 biography_enhanced_at: '2025-12-21T01:25:35.556716'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://pt.wikipedia.org/wiki/Marcos_Moran
+  - 'https://pt.wikipedia.org/wiki/Marcos_Moran'
 network_extracted: true
 entry_created: '2025-12-21T01:25:35.556722'
 last_updated: '2025-12-23T08:16:12.624491'
+artist_type: person
 ---
 
 ![](marcos_moran.jpg)

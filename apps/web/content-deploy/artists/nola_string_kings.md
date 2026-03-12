@@ -23,44 +23,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John Rankin
-  - Matt Rhody
-  - Don Vappie
+    - John Rankin
+    - Matt Rhody
+    - Don Vappie
   influenced: []
   mentors:
-  - Early New Orleans string bands
+    - Early New Orleans string bands
 spotify_data:
   followers: 7
   id: 4MXWtxcdfVbcy3gTC6cmNn
   popularity: 0
-  url: https://open.spotify.com/artist/4MXWtxcdfVbcy3gTC6cmNn
+  url: 'https://open.spotify.com/artist/4MXWtxcdfVbcy3gTC6cmNn'
 discography_enriched: true
 top_tracks:
-- Dream Palace (Dream Palace)
-- Riverboat Shuffle (Dream Palace)
-- The Blue Book of Storyville (Dream Palace)
-- Hot Sauce (Dream Palace)
-- Couleur de Creole (Dream Palace)
-- Si Tu Vois Ma Mere (Dream Palace)
-- Limehouse Blues (Dream Palace)
-- Careless Love (Dream Palace)
-- I Would If I Could (Dream Palace)
-- Crescent City Moonwalk (Dream Palace)
+  - Dream Palace (Dream Palace)
+  - Riverboat Shuffle (Dream Palace)
+  - The Blue Book of Storyville (Dream Palace)
+  - Hot Sauce (Dream Palace)
+  - Couleur de Creole (Dream Palace)
+  - Si Tu Vois Ma Mere (Dream Palace)
+  - Limehouse Blues (Dream Palace)
+  - Careless Love (Dream Palace)
+  - I Would If I Could (Dream Palace)
+  - Crescent City Moonwalk (Dream Palace)
 external_urls:
-  spotify: https://open.spotify.com/artist/4MXWtxcdfVbcy3gTC6cmNn
+  spotify: 'https://open.spotify.com/artist/4MXWtxcdfVbcy3gTC6cmNn'
   wikipedia: Not found
 image_path: 03_Resources/source_material/ArtistPortraits/nola_string_kings.jpg
 biography_enhanced_at: '2025-10-28T09:05:17.047443'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- OffBeat Magazine
-- Don Vappie official site
-- John Rankin official site
+  - OffBeat Magazine
+  - Don Vappie official site
+  - John Rankin official site
 network_extracted: true
 entry_created: '2025-10-28T09:05:17.047454'
 last_updated: '2025-12-23T08:16:13.627773'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![](nola_string_kings.jpg)

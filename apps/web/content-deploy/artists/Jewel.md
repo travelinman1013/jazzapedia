@@ -2,18 +2,22 @@
 title: Jewel
 wiki_slug: jewel
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1974-05-23'
-birth_place: Payson, Utah, United States (birthplace); grew up in Homer, Alaska, United States
+birth_place: >-
+  Payson, Utah, United States (birthplace); grew up in Homer, Alaska, United
+  States
 genres:
-- singer-songwriter
+  - singer-songwriter
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Jewel.jpg
   caption: Jewel
   background: solo_singer
   born: '1974-05-23'
-  origin: Payson, Utah, United States (birthplace); grew up in Homer, Alaska, United States
+  origin: >-
+    Payson, Utah, United States (birthplace); grew up in Homer, Alaska, United
+    States
 audio_profile:
   tempo_avg: 111.7
   energy_avg: 0.277
@@ -29,47 +33,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Steve Poltz
-  - The Stray Gators
+    - Steve Poltz
+    - The Stray Gators
   influenced:
-  - Sara Bareilles
-  - Ingrid Michaelson
+    - Sara Bareilles
+    - Ingrid Michaelson
   mentors:
-  - Atz Kilcher
-  - Bob Dylan
-  - Neil Young
+    - Atz Kilcher
+    - Bob Dylan
+    - Neil Young
 spotify_data:
   followers: 840406
   id: 6FbDoZnMBTdhhhLuJBOOqP
   popularity: 55
-  url: https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP
+  url: 'https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP'
 discography_enriched: true
 top_tracks:
-- You Were Meant For Me (Pieces Of You)
-- Who Will Save Your Soul (Pieces Of You)
-- Foolish Games (Pieces Of You)
-- Twinkle, Twinkle Little Star (Lullaby)
-- Hands (Spirit)
-- Standing Still (This Way)
-- And the Green Grass Grew All Around (The Merry Goes Round)
-- Brahms' lullaby (Lullaby)
-- Intuition (0304)
-- Raven (Lullaby)
+  - You Were Meant For Me (Pieces Of You)
+  - Who Will Save Your Soul (Pieces Of You)
+  - Foolish Games (Pieces Of You)
+  - 'Twinkle, Twinkle Little Star (Lullaby)'
+  - Hands (Spirit)
+  - Standing Still (This Way)
+  - And the Green Grass Grew All Around (The Merry Goes Round)
+  - Brahms' lullaby (Lullaby)
+  - Intuition (0304)
+  - Raven (Lullaby)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/abae8575-ec8a-4736-abc3-1ad5093a68aa
-  spotify: https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP
-  wikipedia: https://en.wikipedia.org/wiki/Jewel_(singer)
+  musicbrainz: 'https://musicbrainz.org/artist/abae8575-ec8a-4736-abc3-1ad5093a68aa'
+  spotify: 'https://open.spotify.com/artist/6FbDoZnMBTdhhhLuJBOOqP'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jewel_(singer)'
 image_path: 03_Resources/source_material/ArtistPortraits/Jewel.jpg
 biography_enhanced_at: '2025-10-20T02:03:16.647463'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.biography.com/musicians/jewel
-- https://horatioalger.org/members/detail/jewel-kilcher/
-- https://www.last.fm/music/Jewel/+wiki
-- https://www.wideopencountry.com/jewel-singer/
-- https://www.uncg.edu/arts-culture/singer-songwriter-jewel-turns-teacher-uncg/
-- https://resident.com/celebrity/2024/03/08/jewels-journey-of-authenticity-and-impact-from-alaskan-homestead-to-global-inspiration
+  - 'https://www.biography.com/musicians/jewel'
+  - 'https://horatioalger.org/members/detail/jewel-kilcher/'
+  - 'https://www.last.fm/music/Jewel/+wiki'
+  - 'https://www.wideopencountry.com/jewel-singer/'
+  - >-
+    https://www.uncg.edu/arts-culture/singer-songwriter-jewel-turns-teacher-uncg/
+  - >-
+    https://resident.com/celebrity/2024/03/08/jewels-journey-of-authenticity-and-impact-from-alaskan-homestead-to-global-inspiration
 network_extracted: true
 entry_created: '2025-10-20T02:03:16.647484'
 last_updated: '2025-12-23T08:16:02.535126'
@@ -78,9 +84,9 @@ gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:31:13.894077'
 musicbrainz_id: abae8575-ec8a-4736-abc3-1ad5093a68aa
 tags:
-- country
-- dance-pop
-- folk pop
+  - country
+  - dance-pop
+  - folk pop
 ---
 
 ![](Jewel.jpg)

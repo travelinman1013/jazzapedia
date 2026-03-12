@@ -2,18 +2,18 @@
 title: Exis
 wiki_slug: exis
 schema_version: 2
-artist_type: person
+artist_type: band
 status: active
-birth_place: Johor Bahru, Johor, Malaysia
+birth_place: 'Johor Bahru, Johor, Malaysia'
 genres:
-- malay
-- malaysian pop
-- malay pop
+  - malay
+  - malaysian pop
+  - malay pop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/exis.jpg
   caption: Exis
   background: solo_singer
-  origin: Johor Bahru, Johor, Malaysia
+  origin: 'Johor Bahru, Johor, Malaysia'
 audio_profile:
   tempo_avg: 123.1
   energy_avg: 0.557
@@ -29,41 +29,41 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mohd Faizal 'Ajai' Maas
-  - Mohd Rohaizad Mohd 'Ezad' Lazim
-  - Slam (band)
+    - Mohd Faizal 'Ajai' Maas
+    - Mohd Rohaizad Mohd 'Ezad' Lazim
+    - Slam (band)
   influenced:
-  - Younger Malaysian pop and rock bands
+    - Younger Malaysian pop and rock bands
   mentors:
-  - Malay pop and rock traditions
+    - Malay pop and rock traditions
 spotify_data:
   followers: 435235
   id: 1ibFtPHzpqHJKA0PdAC8TH
   popularity: 51
-  url: https://open.spotify.com/artist/1ibFtPHzpqHJKA0PdAC8TH
+  url: 'https://open.spotify.com/artist/1ibFtPHzpqHJKA0PdAC8TH'
 discography_enriched: true
 top_tracks:
-- Alasanmu (Diammu Gunung Berapi)
-- Jesnita (Ada)
-- Seperti Dulu (Seperti Dulu)
-- Mencari Alasan (Mencari Alasan)
-- Rindu Serindu Rindunya
-- Masih Terserlah Ayumu (Diammu Gunung Berapi)
-- Mengintai Dari Tirai Kamar (Jangan Gentar)
-- Rindu Serindu Rindunya (Dirantai Digelangi Rindu)
-- Dirantai Digelangi Rindu (Mutan)
-- Alasanmu (Mencari Alasan)
+  - Alasanmu (Diammu Gunung Berapi)
+  - Jesnita (Ada)
+  - Seperti Dulu (Seperti Dulu)
+  - Mencari Alasan (Mencari Alasan)
+  - Rindu Serindu Rindunya
+  - Masih Terserlah Ayumu (Diammu Gunung Berapi)
+  - Mengintai Dari Tirai Kamar (Jangan Gentar)
+  - Rindu Serindu Rindunya (Dirantai Digelangi Rindu)
+  - Dirantai Digelangi Rindu (Mutan)
+  - Alasanmu (Mencari Alasan)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/73b8bb5b-bc84-435c-8495-43ccee1559eb
-  spotify: https://open.spotify.com/artist/1ibFtPHzpqHJKA0PdAC8TH
-  wikipedia: https://en.wikipedia.org/wiki/Exists_(band)
+  musicbrainz: 'https://musicbrainz.org/artist/73b8bb5b-bc84-435c-8495-43ccee1559eb'
+  spotify: 'https://open.spotify.com/artist/1ibFtPHzpqHJKA0PdAC8TH'
+  wikipedia: 'https://en.wikipedia.org/wiki/Exists_(band)'
 image_path: 03_Resources/source_material/ArtistPortraits/exis.jpg
 biography_enhanced_at: '2025-10-26T12:28:21.281796'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Exists_(band)
-- https://www.last.fm/music/Exist/+wiki
+  - 'https://en.wikipedia.org/wiki/Exists_(band)'
+  - 'https://www.last.fm/music/Exist/+wiki'
 network_extracted: true
 entry_created: '2025-10-26T12:28:21.281800'
 last_updated: '2025-12-23T08:16:08.554961'
@@ -71,7 +71,8 @@ disambiguation: Trance; Feliciano Moody
 gender: Male
 musicbrainz_id: 73b8bb5b-bc84-435c-8495-43ccee1559eb
 tags:
-- trance
+  - trance
+origin: 'Johor Bahru, Johor, Malaysia'
 ---
 
 ![](exis.jpg)

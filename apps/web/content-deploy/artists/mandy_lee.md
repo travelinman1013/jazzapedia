@@ -1,39 +1,41 @@
 ---
 biography_enhanced_at: '2026-01-22T07:07:01.565322'
-birth_place: Queens, New York, USA
+birth_place: 'Queens, New York, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:07:01.565329'
 external_urls:
-  spotify: https://open.spotify.com/artist/3g8EFB4PbDVKOkwNy3wOLO
+  spotify: 'https://open.spotify.com/artist/3g8EFB4PbDVKOkwNy3wOLO'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/mandy_lee.jpg
 last_updated: '2026-01-22T07:07:01.565330'
 musical_connections:
   collaborators:
-  - Etienne Bowler
-  - William Hehir
-  - Marc Campbell
-  - Jesse Blum
-  - Mike Murphy
+    - Etienne Bowler
+    - William Hehir
+    - Marc Campbell
+    - Jesse Blum
+    - Mike Murphy
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.famousbirthdays.com/people/mandy-lee.html
-- https://thefordhamram.com/culture/woman-of-the-hour-mandy-lee/
-- https://www.papermag.com/mandy-lee-misterwives-cherry-bomb
-- https://impact89fm.org/46063/music/46063/
-- https://americansongwriter.com/superboom-misterwives-abum-interview/
-- https://www.withguitars.com/introducing-cherry-bomb-misterwives-mandy-lees-glittering-debut-solo-project/
+  - 'https://www.famousbirthdays.com/people/mandy-lee.html'
+  - 'https://thefordhamram.com/culture/woman-of-the-hour-mandy-lee/'
+  - 'https://www.papermag.com/mandy-lee-misterwives-cherry-bomb'
+  - 'https://impact89fm.org/46063/music/46063/'
+  - 'https://americansongwriter.com/superboom-misterwives-abum-interview/'
+  - >-
+    https://www.withguitars.com/introducing-cherry-bomb-misterwives-mandy-lees-glittering-debut-solo-project/
 spotify_data:
   followers: 1114
   id: 3g8EFB4PbDVKOkwNy3wOLO
   popularity: 25
-  url: https://open.spotify.com/artist/3g8EFB4PbDVKOkwNy3wOLO
+  url: 'https://open.spotify.com/artist/3g8EFB4PbDVKOkwNy3wOLO'
 status: active
-title: MANDY LEE
+title: Mandy Lee
+artist_type: person
 ---
 
 ![](mandy_lee.jpg)

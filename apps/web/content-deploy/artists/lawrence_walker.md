@@ -3,14 +3,14 @@ title: Lawrence Walker
 wiki_slug: lawrence-walker
 schema_version: 2
 status: active
-birth_place: Duson, Louisiana, United States
+birth_place: 'Duson, Louisiana, United States'
 genres:
-- lo-fi
+  - lo-fi
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lawrence_walker.jpg
   caption: Lawrence Walker
   background: solo_singer
-  origin: Duson, Louisiana, United States
+  origin: 'Duson, Louisiana, United States'
 audio_profile:
   tempo_avg: 119.5
   energy_avg: 0.383
@@ -26,46 +26,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Elton Walker
-  - The Wandering Aces
+    - Elton Walker
+    - The Wandering Aces
   influenced:
-  - Numerous Cajun musicians
+    - Numerous Cajun musicians
   mentors:
-  - Allen Walker
+    - Allen Walker
 spotify_data:
   followers: 4329
   id: 40GMyQ5sv1bfiui9CrEPME
   popularity: 49
-  url: https://open.spotify.com/artist/40GMyQ5sv1bfiui9CrEPME
+  url: 'https://open.spotify.com/artist/40GMyQ5sv1bfiui9CrEPME'
 discography_enriched: true
 top_tracks:
-- Sand Cottage
-- Tiger Lily
-- Sails (Oceanview)
-- Floating, Drifting (Floating into Serenity)
-- Childlike Wonder (Scenery)
-- Picture Of You
-- Terrapin Groove
-- Bird's Eye View
-- Soft Spot
-- Northern Lights
+  - Sand Cottage
+  - Tiger Lily
+  - Sails (Oceanview)
+  - 'Floating, Drifting (Floating into Serenity)'
+  - Childlike Wonder (Scenery)
+  - Picture Of You
+  - Terrapin Groove
+  - Bird's Eye View
+  - Soft Spot
+  - Northern Lights
 external_urls:
-  spotify: https://open.spotify.com/artist/40GMyQ5sv1bfiui9CrEPME
-  wikipedia: https://en.wikipedia.org/wiki/Lawrence_Walker
+  spotify: 'https://open.spotify.com/artist/40GMyQ5sv1bfiui9CrEPME'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lawrence_Walker'
 image_path: 03_Resources/source_material/ArtistPortraits/lawrence_walker.jpg
 biography_enhanced_at: '2025-11-20T06:49:42.543881'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Lawrence_Walker
-- https://flattownmusic.com/artist/lawrence-walker/
-- https://www.last.fm/music/Lawrence+Walker/+wiki
-- https://www.iheart.com/artist/lawrence-walker-126709/
-- https://www.allmusic.com/artist/lawrence-walker-mn0000139890
+  - 'https://en.wikipedia.org/wiki/Lawrence_Walker'
+  - 'https://flattownmusic.com/artist/lawrence-walker/'
+  - 'https://www.last.fm/music/Lawrence+Walker/+wiki'
+  - 'https://www.iheart.com/artist/lawrence-walker-126709/'
+  - 'https://www.allmusic.com/artist/lawrence-walker-mn0000139890'
 network_extracted: true
 entry_created: '2025-11-20T06:49:42.543889'
 last_updated: '2025-12-23T08:16:11.659168'
-
+birth_date: '1907-09-01'
+death_date: '1968-08-15'
+artist_type: person
 ---
 
 ![](lawrence_walker.jpg)

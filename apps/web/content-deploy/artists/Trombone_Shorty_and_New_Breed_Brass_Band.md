@@ -4,9 +4,10 @@ wiki_slug: trombone-shorty-and-new-breed-brass-band
 schema_version: 2
 status: active
 genres:
-- jazz funk
+  - jazz funk
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/Trombone_Shorty_and_New_Breed_Brass_Band.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/Trombone_Shorty_and_New_Breed_Brass_Band.jpg
   caption: Trombone Shorty and New Breed Brass Band
   background: solo_singer
 audio_profile:
@@ -16,7 +17,7 @@ audio_profile:
   danceability_avg: 0.628
   acousticness_avg: 0.252
   instrumentalness_avg: 0.258
-  loudness_avg: -7.0
+  loudness_avg: -7
   speechiness_avg: 0.095
   liveness_avg: 0.208
   track_count: 72
@@ -24,46 +25,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Revon Andrews
-  - Trombone Shorty
+    - Revon Andrews
+    - Trombone Shorty
   influenced:
-  - Emerging New Orleans brass musicians
+    - Emerging New Orleans brass musicians
   mentors:
-  - Trombone Shorty (Troy Andrews)
+    - Trombone Shorty (Troy Andrews)
 spotify_data:
   followers: 207609
   id: 37ZvFp654tY74Z1D2TLOGR
   popularity: 43
-  url: https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR
+  url: 'https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR'
 discography_enriched: true
 top_tracks:
-- Something Beautiful (Backatown)
-- Hurricane Season (Backatown)
-- Tripped Out Slim (Parking Lot Symphony)
-- Hold Up, Wait a Minute
-- Backatown (Backatown)
-- Cineramascope (Ya-Ka-May (Deluxe Edition))
-- 7-T's (Laid Black)
-- Vieux Carre (Say That To Say This)
-- Shortyville (Say That To Say This)
-- Overnight (feat. Trombone Shorty) (Uncaged)
+  - Something Beautiful (Backatown)
+  - Hurricane Season (Backatown)
+  - Tripped Out Slim (Parking Lot Symphony)
+  - 'Hold Up, Wait a Minute'
+  - Backatown (Backatown)
+  - Cineramascope (Ya-Ka-May (Deluxe Edition))
+  - 7-T's (Laid Black)
+  - Vieux Carre (Say That To Say This)
+  - Shortyville (Say That To Say This)
+  - Overnight (feat. Trombone Shorty) (Uncaged)
 external_urls:
-  spotify: https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR
+  spotify: 'https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR'
   wikipedia: ''
-image_path: 03_Resources/source_material/ArtistPortraits/Trombone_Shorty_and_New_Breed_Brass_Band.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/Trombone_Shorty_and_New_Breed_Brass_Band.jpg
 biography_enhanced_at: '2025-10-19T10:32:19.223182'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.newbreedbrassband.com/about
-- https://www.straight.com/music/big-easys-new-breed-brass-band-is-a-testimony-to-importance-of-family
-- https://tipitinas.com/e/14541933/new-breed-brass-band/
-- https://rhythmandroots.com/artists/new-breed-brass-band/
-- https://gratefulweb.com/articles/trombone-shorty-and-new-breed-brass-band-pay-homage-sounds-streets-new-orleans-20th
+  - 'https://www.newbreedbrassband.com/about'
+  - >-
+    https://www.straight.com/music/big-easys-new-breed-brass-band-is-a-testimony-to-importance-of-family
+  - 'https://tipitinas.com/e/14541933/new-breed-brass-band/'
+  - 'https://rhythmandroots.com/artists/new-breed-brass-band/'
+  - >-
+    https://gratefulweb.com/articles/trombone-shorty-and-new-breed-brass-band-pay-homage-sounds-streets-new-orleans-20th
 network_extracted: true
 entry_created: '2025-10-19T10:32:19.223199'
 last_updated: '2025-12-23T08:16:04.229756'
-origin: New Orleans, Louisiana, USA
+origin: 'New Orleans, Louisiana, USA'
+artist_type: band
 ---
 
 ![](Trombone_Shorty_and_New_Breed_Brass_Band.jpg)

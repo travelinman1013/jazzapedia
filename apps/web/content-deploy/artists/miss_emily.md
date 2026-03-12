@@ -3,13 +3,17 @@ title: Miss Emily
 wiki_slug: miss-emily
 schema_version: 2
 status: active
-birth_place: Prince Edward County, Ontario, Canada (birthplace); Kingston, Ontario, Canada (current residence)
+birth_place: >-
+  Prince Edward County, Ontario, Canada (birthplace); Kingston, Ontario, Canada
+  (current residence)
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/miss_emily.jpg
   caption: Miss Emily
   background: solo_singer
-  origin: Prince Edward County, Ontario, Canada (birthplace); Kingston, Ontario, Canada (current residence)
+  origin: >-
+    Prince Edward County, Ontario, Canada (birthplace); Kingston, Ontario,
+    Canada (current residence)
 audio_profile:
   tempo_avg: 128.6
   energy_avg: 0.392
@@ -25,50 +29,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Gord Sinclair
-  - Rob Baker
-  - Colin Linden
-  - Steve Marriner
+    - Gord Sinclair
+    - Rob Baker
+    - Colin Linden
+    - Steve Marriner
   influenced: []
   mentors:
-  - Ray Charles
-  - Aretha Franklin
-  - K.D. Lang
+    - Ray Charles
+    - Aretha Franklin
+    - K.D. Lang
 spotify_data:
   followers: 191
   id: 3spttz4DmTDj31XEn2lPbi
   popularity: 2
-  url: https://open.spotify.com/artist/3spttz4DmTDj31XEn2lPbi
+  url: 'https://open.spotify.com/artist/3spttz4DmTDj31XEn2lPbi'
 discography_enriched: true
 top_tracks:
-- Miriam's Song (Shalom, Baby!)
-- Thank You! (Modeh/Modah Ani) *features Noah Aronson (Every Day!)
-- How Good It Is, How Sweet It Is (For Shabbat!)
-- 'Blessings for Shabbat: Candles, Kiddush & Challah (For Shabbat!)'
-- How Good It Is, How Sweet It Is (Psalm 133) (Shalom, Baby!)
-- Stop! (Shalom, Baby!)
-- Bubbles Mah Rabu (Shalom, Baby!)
-- Family Blessing (Shalom, Baby!)
-- Halalalalalalaleluyah (For Shabbat!)
-- Bim Bam (For Shabbat!)
+  - 'Miriam''s Song (Shalom, Baby!)'
+  - Thank You! (Modeh/Modah Ani) *features Noah Aronson (Every Day!)
+  - 'How Good It Is, How Sweet It Is (For Shabbat!)'
+  - 'Blessings for Shabbat: Candles, Kiddush & Challah (For Shabbat!)'
+  - 'How Good It Is, How Sweet It Is (Psalm 133) (Shalom, Baby!)'
+  - 'Stop! (Shalom, Baby!)'
+  - 'Bubbles Mah Rabu (Shalom, Baby!)'
+  - 'Family Blessing (Shalom, Baby!)'
+  - Halalalalalalaleluyah (For Shabbat!)
+  - Bim Bam (For Shabbat!)
 external_urls:
-  spotify: https://open.spotify.com/artist/3spttz4DmTDj31XEn2lPbi
+  spotify: 'https://open.spotify.com/artist/3spttz4DmTDj31XEn2lPbi'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/miss_emily.jpg
 biography_enhanced_at: '2025-12-04T08:16:34.097173'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://archive.visitkingston.ca/miss-emilys-journey-to-the-junos/
-- https://themissemily.com/about/
-- https://blues.gr/profiles/blogs/q-a-with-canada-based-singer-songwriter-miss-emily-known-for-her-
-- https://themissemily.com/how-i-came-to-be-defined-by-love/
-- https://www.noblepr.co.uk/clients/miss-emily/
-- https://kingstonlive.ca/miss_emily
-- https://orangevillebluesandjazz.ca/miss-emily/
+  - 'https://archive.visitkingston.ca/miss-emilys-journey-to-the-junos/'
+  - 'https://themissemily.com/about/'
+  - >-
+    https://blues.gr/profiles/blogs/q-a-with-canada-based-singer-songwriter-miss-emily-known-for-her-
+  - 'https://themissemily.com/how-i-came-to-be-defined-by-love/'
+  - 'https://www.noblepr.co.uk/clients/miss-emily/'
+  - 'https://kingstonlive.ca/miss_emily'
+  - 'https://orangevillebluesandjazz.ca/miss-emily/'
 network_extracted: true
 entry_created: '2025-12-04T08:16:34.097184'
 last_updated: '2025-12-23T08:16:13.210581'
+origin: 'Kingston, Ontario, Canada'
+artist_type: person
 ---
 
 ![](miss_emily.jpg)

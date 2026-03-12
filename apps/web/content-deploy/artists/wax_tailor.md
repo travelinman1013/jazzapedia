@@ -2,62 +2,61 @@
 artist_type: person
 biography_enhanced_at: '2025-12-31T01:46:41.658108'
 birth_date: '1975-07-19'
-birth_place: Vernon
+birth_place: 'Vernon, Normandy, France'
 enhancement_provider: perplexity
 entry_created: '2025-12-31T01:46:41.658113'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c24b47a1-2f52-44f3-a3c6-374dca844731
-  spotify: https://open.spotify.com/artist/3qwxSif06Qwzykdln8ZGfG
-  wikipedia: https://en.wikipedia.org/wiki/Wax_Tailor
+  musicbrainz: 'https://musicbrainz.org/artist/c24b47a1-2f52-44f3-a3c6-374dca844731'
+  spotify: 'https://open.spotify.com/artist/3qwxSif06Qwzykdln8ZGfG'
+  wikipedia: 'https://en.wikipedia.org/wiki/Wax_Tailor'
 gender: Male
 genres:
-- trip hop
-- downtempo
-- electro swing
-- nu jazz
+  - trip hop
+  - downtempo
+  - electro swing
+  - nu jazz
 image_path: 03_Resources/source_material/ArtistPortraits/wax_tailor.jpg
 last_updated: '2025-12-31T01:46:41.658113'
 musical_connections:
   collaborators:
-  - The Others
-  - Charlotte Savary
-  - A State of Mind
-  - Charlie Winston
-  - Mick Jenkins
-  - Mr. Lif
-  - Looptroop
-  - La Formule
-  - Sharon Jones
-  - Ursula Rucker
+    - The Others
+    - Charlotte Savary
+    - A State of Mind
+    - Charlie Winston
+    - Mick Jenkins
+    - Mr. Lif
+    - Looptroop
+    - La Formule
+    - Sharon Jones
+    - Ursula Rucker
   influenced: []
   mentors:
-  - Grandmaster Flash
-  - Afrika Bambaataa
-  - Pierre Henry
-  - Pierre Schaeffer
+    - Grandmaster Flash
+    - Afrika Bambaataa
+    - Pierre Henry
+    - Pierre Schaeffer
 musicbrainz_id: c24b47a1-2f52-44f3-a3c6-374dca844731
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Wax+Tailor/+wiki
-- https://en.wikipedia.org/wiki/Wax_Tailor
-- https://darrenfarnsworth.com/music/playlist/bands/wax-tailor/
-- https://www.ninunina.com/home/2020/11/25/wax-tailor
-- https://echoes.org/2014/12/01/wax-tailors-trip-hop-symphony/
-- https://la-cre.me/talent/wax-tailor/
-- https://dtphx.org/do/wax-tailor
+  - 'https://www.last.fm/music/Wax+Tailor/+wiki'
+  - 'https://en.wikipedia.org/wiki/Wax_Tailor'
+  - 'https://darrenfarnsworth.com/music/playlist/bands/wax-tailor/'
+  - 'https://www.ninunina.com/home/2020/11/25/wax-tailor'
+  - 'https://echoes.org/2014/12/01/wax-tailors-trip-hop-symphony/'
+  - 'https://la-cre.me/talent/wax-tailor/'
+  - 'https://dtphx.org/do/wax-tailor'
 spotify_data:
   followers: 326401
   id: 3qwxSif06Qwzykdln8ZGfG
   popularity: 51
-  url: https://open.spotify.com/artist/3qwxSif06Qwzykdln8ZGfG
+  url: 'https://open.spotify.com/artist/3qwxSif06Qwzykdln8ZGfG'
 status: active
 tags:
-- acid jazz
-- downtempo
-- electronic
+  - acid jazz
+  - downtempo
+  - electronic
 title: Wax Tailor
-
 ---
 
 ![](wax_tailor.jpg)

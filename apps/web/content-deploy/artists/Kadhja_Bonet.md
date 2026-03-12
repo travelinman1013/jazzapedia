@@ -2,15 +2,15 @@
 title: Kadhja Bonet
 wiki_slug: kadhja-bonet
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
-birth_place: Los Angeles, California, United States
+birth_place: 'Los Angeles, California, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Kadhja_Bonet.jpg
   caption: Kadhja Bonet
   background: solo_singer
-  origin: Los Angeles, California, United States
+  origin: 'Los Angeles, California, United States'
 audio_profile:
   tempo_avg: 108.2
   energy_avg: 0.451
@@ -26,43 +26,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Itai Shapira
-  - Rhye
+    - Itai Shapira
+    - Rhye
   influenced:
-  - No widely documented direct proteges or students as of 2025
+    - No widely documented direct proteges or students as of 2025
   mentors:
-  - Classical Violin Teachers
+    - Classical Violin Teachers
 spotify_data:
   followers: 114565
   id: 6sqZoZxe9BQwk7Zxh6STfF
   popularity: 45
-  url: https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF
+  url: 'https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF'
 discography_enriched: true
 top_tracks:
-- New Sky (Chasing Summer)
-- On Sight (Free Nationals)
-- Psilocybae (Millennial Love) (feat. 21 Savage, Ink & Kadhja Bonet) (Atavista)
-- For You - Many Selves Version
-- Remember the Rain
-- Day by Day (Fragments)
-- For You
-- Father Bird, Mother Bird (Sunbirds) (Mordechai Remixes)
-- The Chase (feat. Kadhja Bonet) (Oxnard)
-- Honeycomb (The Visitor)
+  - New Sky (Chasing Summer)
+  - On Sight (Free Nationals)
+  - >-
+    Psilocybae (Millennial Love) (feat. 21 Savage, Ink & Kadhja Bonet)
+    (Atavista)
+  - For You - Many Selves Version
+  - Remember the Rain
+  - Day by Day (Fragments)
+  - For You
+  - 'Father Bird, Mother Bird (Sunbirds) (Mordechai Remixes)'
+  - The Chase (feat. Kadhja Bonet) (Oxnard)
+  - Honeycomb (The Visitor)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/74fae710-c7c9-4deb-8092-149d436c2fe4
-  spotify: https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF
-  wikipedia: https://en.wikipedia.org/wiki/Kadhja_Bonet
+  musicbrainz: 'https://musicbrainz.org/artist/74fae710-c7c9-4deb-8092-149d436c2fe4'
+  spotify: 'https://open.spotify.com/artist/6sqZoZxe9BQwk7Zxh6STfF'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kadhja_Bonet'
 image_path: 03_Resources/source_material/ArtistPortraits/Kadhja_Bonet.jpg
 biography_enhanced_at: '2025-10-20T09:37:19.273787'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://primarytalent.com/artists/kadhja-bonet/documents/kadhja_bonet_biography.pdf
-- https://diymag.com/interview/soul-purpose-kadhja-bonet-interview-the-visitor-2016
-- http://savedbyoldtimes.com/features/2018/8/21/a-conversation-with-kadhja-bonet
-- https://daily.bandcamp.com/features/kadhja-bonet-interview
-- https://freshonthenet.co.uk/2018/08/kadhja-bonet/
+  - >-
+    https://primarytalent.com/artists/kadhja-bonet/documents/kadhja_bonet_biography.pdf
+  - >-
+    https://diymag.com/interview/soul-purpose-kadhja-bonet-interview-the-visitor-2016
+  - >-
+    http://savedbyoldtimes.com/features/2018/8/21/a-conversation-with-kadhja-bonet
+  - 'https://daily.bandcamp.com/features/kadhja-bonet-interview'
+  - 'https://freshonthenet.co.uk/2018/08/kadhja-bonet/'
 network_extracted: true
 entry_created: '2025-10-20T09:37:19.273803'
 last_updated: '2025-12-23T08:16:02.788559'
@@ -70,9 +75,9 @@ gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:33:17.894888'
 musicbrainz_id: 74fae710-c7c9-4deb-8092-149d436c2fe4
 tags:
-- alternative folk
-- alternative r&b
-- classical
+  - alternative folk
+  - alternative r&b
+  - classical
 ---
 
 ![](Kadhja_Bonet.jpg)

@@ -3,33 +3,36 @@ biography_enhanced_at: '2026-01-04T01:54:28.461300'
 enhancement_provider: perplexity
 entry_created: '2026-01-04T01:54:28.461306'
 external_urls:
-  spotify: https://open.spotify.com/artist/3P1haufia0hGRvgOxW3AJV
+  spotify: 'https://open.spotify.com/artist/3P1haufia0hGRvgOxW3AJV'
   wikipedia: ''
 genres:
-- cha cha cha
-- son cubano
+  - cha cha cha
+  - son cubano
 image_path: 03_Resources/source_material/ArtistPortraits/conjunto_massalia.jpg
 last_updated: '2026-01-04T01:54:28.461307'
 musical_connections:
   collaborators:
-  - Dominique Gaspari
+    - Dominique Gaspari
   influenced: []
   mentors: []
 network_extracted: true
-origin: Marseille, France
+origin: 'Marseille, France, France'
 primary_source: perplexity
 research_sources:
-- https://worldmusiccentral.org/putumayo-celebrates-timeless-rumba-mambo-cha-cha-cha/[1]
-- https://www.wor.com/products/rumba-mambo-cha-cha-cha-cd[2]
-- https://www.songtradr.com/search/allmusic/artist/!!gVKF0MXh3TnZnUHhGMhlmZ1FGaxA1M[4]
-- https://www.youtube.com/watch?v=yhRyhlEEuME[6]
+  - >-
+    https://worldmusiccentral.org/putumayo-celebrates-timeless-rumba-mambo-cha-cha-cha/[1]
+  - 'https://www.wor.com/products/rumba-mambo-cha-cha-cha-cd[2]'
+  - >-
+    https://www.songtradr.com/search/allmusic/artist/!!gVKF0MXh3TnZnUHhGMhlmZ1FGaxA1M[4]
+  - 'https://www.youtube.com/watch?v=yhRyhlEEuME[6]'
 spotify_data:
   followers: 317
   id: 3P1haufia0hGRvgOxW3AJV
   popularity: 4
-  url: https://open.spotify.com/artist/3P1haufia0hGRvgOxW3AJV
+  url: 'https://open.spotify.com/artist/3P1haufia0hGRvgOxW3AJV'
 status: active
 title: Conjunto Massalia
+artist_type: band
 ---
 
 ![](conjunto_massalia.jpg)

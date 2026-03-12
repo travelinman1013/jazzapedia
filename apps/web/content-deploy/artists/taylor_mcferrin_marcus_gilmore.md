@@ -1,39 +1,43 @@
 ---
 biography_enhanced_at: '2025-12-31T01:44:34.176087'
-birth_place: San Francisco, California, United States
+birth_place: 'San Francisco, California, United States'
 enhancement_provider: perplexity
 entry_created: '2025-12-31T01:44:34.176093'
 external_urls:
-  spotify: https://open.spotify.com/artist/0F3iCCrV4VdMT4vACRrM5V
-  wikipedia: https://en.wikipedia.org/wiki/Taylor_McFerrin
+  spotify: 'https://open.spotify.com/artist/0F3iCCrV4VdMT4vACRrM5V'
+  wikipedia: 'https://en.wikipedia.org/wiki/Taylor_McFerrin'
 genres: []
-image_path: 03_Resources/source_material/ArtistPortraits/taylor_mcferrin_marcus_gilmore.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/taylor_mcferrin_marcus_gilmore.jpg
 last_updated: '2025-12-31T01:44:34.176093'
 musical_connections:
   collaborators:
-  - Marcus Gilmore
-  - Robert Glasper
-  - Thundercat
-  - Flying Lotus
+    - Marcus Gilmore
+    - Robert Glasper
+    - Thundercat
+    - Flying Lotus
   influenced: []
   mentors:
-  - Bobby McFerrin
-  - 1970s artists (Herbie Hancock, George Duke, Roy Ayers, Stevie Wonder)
+    - Bobby McFerrin
+    - '1970s artists (Herbie Hancock, George Duke, Roy Ayers, Stevie Wonder)'
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.sfjazz.org/onthecorner/taylor-mcferrins-musical-world/
-- https://en.wikipedia.org/wiki/Taylor_McFerrin
-- https://en.wikipedia.org/wiki/Marcus_Gilmore
-- https://www.popmatters.com/183779-taylor-mcferrin-early-riser-2495638630.html
-- https://trueafrica.co/article/jazz-duo-taylor-mcferrin-marcus-gilmore/
+  - 'https://www.sfjazz.org/onthecorner/taylor-mcferrins-musical-world/'
+  - 'https://en.wikipedia.org/wiki/Taylor_McFerrin'
+  - 'https://en.wikipedia.org/wiki/Marcus_Gilmore'
+  - >-
+    https://www.popmatters.com/183779-taylor-mcferrin-early-riser-2495638630.html
+  - 'https://trueafrica.co/article/jazz-duo-taylor-mcferrin-marcus-gilmore/'
 spotify_data:
   followers: 920
   id: 0F3iCCrV4VdMT4vACRrM5V
   popularity: 4
-  url: https://open.spotify.com/artist/0F3iCCrV4VdMT4vACRrM5V
+  url: 'https://open.spotify.com/artist/0F3iCCrV4VdMT4vACRrM5V'
 status: active
-title: Taylor McFerrin, Marcus Gilmore
+title: 'Taylor McFerrin, Marcus Gilmore'
+birth_date: '1981-06-28'
+artist_type: person
 ---
 
 ![](taylor_mcferrin_marcus_gilmore.jpg)

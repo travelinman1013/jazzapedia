@@ -1,147 +1,147 @@
 ---
-title: DUKE ELLINGTON
+title: Duke Ellington
 wiki_slug: duke-ellington
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1899-04-29'
-birth_place: Washington, D.C.
+birth_place: 'Washington, D.C., United States'
 death_date: '1974-05-24'
 genres:
-- jazz
-- big band
-- swing music
-- cool jazz
+  - jazz
+  - big band
+  - swing music
+  - cool jazz
 instruments:
-- eponymous
-- original
-- piano
-- piano accordion
-- spoken vocals
+  - eponymous
+  - original
+  - piano
+  - piano accordion
+  - spoken vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: e5e3f498-6a63-46b1-82a7-909d3e525fc9
-  name: Duke Ellington’s Spacemen
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 3c7f2407-306b-44d1-9d62-cc8f3b6b678e
-  name: Duke Ellington & His Washingtonians
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 729aaeec-f929-4769-afdf-6b52f31908c6
-  name: Duke Ellington Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: e77bb098-1a00-4ada-95fe-c7037233a7d0
-  name: The Duke Ellington Trio
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 3563785a-49a6-47de-98e1-e9a523ae3e4b
-  name: Duke Ellington’s Jazz Ensemble
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 57e03021-b902-4168-8ece-4bf18a7cfe74
-  name: Duke Ellington’s Hot Five
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 4a4eff71-42c6-4afc-828d-ea6f9dcd1721
-  name: Duke Ellington & the Jungle Band
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: c01557ad-d41e-4316-a285-605769e2ab3b
-  name: Duke Ellington and His Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: c01557ad-d41e-4316-a285-605769e2ab3b
-  name: Duke Ellington and His Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 3c7f2407-306b-44d1-9d62-cc8f3b6b678e
-  name: Duke Ellington & His Washingtonians
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: b8dfdb4a-61c9-444b-93e4-fc81aa1e532b
-  name: The Duke Ellington Sextet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 8403077f-9097-40ec-b449-57887fce490d
-  name: Duke Ellington and His Rhythm
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e5302297-db17-4f89-999a-80bb59ad3f07
-  name: Leonard Feather’s Esquire All‐Americans
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: 17e5e4ec-000e-41ae-958a-dc33ae23fc78
-  name: Billy Strayhorn Trio
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  - piano
-  mbid: d578d8aa-9651-4ba0-a22d-99cf1eb2ab90
-  name: Duke Ellington Octet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 2dd1c04f-865c-4c5a-8ff7-f49655a294c8
-  name: Duke Ellington & His Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 89d41e6e-c7be-4e3d-8739-d24818b7941a
-  name: The Washingtonians
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: acff86a4-195a-477e-94f4-90a94e681c03
-  name: The Harlem Footwarmers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7c8b23bd-f934-4d11-a1d0-26d8cf18c882
-  name: Mills' Ten Black Berries
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: e5e3f498-6a63-46b1-82a7-909d3e525fc9
+    name: Duke Ellington’s Spacemen
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 3c7f2407-306b-44d1-9d62-cc8f3b6b678e
+    name: Duke Ellington & His Washingtonians
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 729aaeec-f929-4769-afdf-6b52f31908c6
+    name: Duke Ellington Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: e77bb098-1a00-4ada-95fe-c7037233a7d0
+    name: The Duke Ellington Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 3563785a-49a6-47de-98e1-e9a523ae3e4b
+    name: Duke Ellington’s Jazz Ensemble
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 57e03021-b902-4168-8ece-4bf18a7cfe74
+    name: Duke Ellington’s Hot Five
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 4a4eff71-42c6-4afc-828d-ea6f9dcd1721
+    name: Duke Ellington & the Jungle Band
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: c01557ad-d41e-4316-a285-605769e2ab3b
+    name: Duke Ellington and His Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: c01557ad-d41e-4316-a285-605769e2ab3b
+    name: Duke Ellington and His Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 3c7f2407-306b-44d1-9d62-cc8f3b6b678e
+    name: Duke Ellington & His Washingtonians
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: b8dfdb4a-61c9-444b-93e4-fc81aa1e532b
+    name: The Duke Ellington Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 8403077f-9097-40ec-b449-57887fce490d
+    name: Duke Ellington and His Rhythm
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e5302297-db17-4f89-999a-80bb59ad3f07
+    name: Leonard Feather’s Esquire All‐Americans
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: 17e5e4ec-000e-41ae-958a-dc33ae23fc78
+    name: Billy Strayhorn Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - piano
+    mbid: d578d8aa-9651-4ba0-a22d-99cf1eb2ab90
+    name: Duke Ellington Octet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 2dd1c04f-865c-4c5a-8ff7-f49655a294c8
+    name: Duke Ellington & His Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 89d41e6e-c7be-4e3d-8739-d24818b7941a
+    name: The Washingtonians
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: acff86a4-195a-477e-94f4-90a94e681c03
+    name: The Harlem Footwarmers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7c8b23bd-f934-4d11-a1d0-26d8cf18c882
+    name: Mills' Ten Black Berries
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/duke_ellington.jpg
   caption: DUKE ELLINGTON
   background: solo_singer
   born: '1899-04-29'
-  origin: Washington, D.C.
+  origin: 'Washington, D.C.'
   died: '1974-05-24'
 audio_profile:
   tempo_avg: 100.6
@@ -158,56 +158,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Billy Strayhorn
-  - Juan Tizol
-  - Jimmy Blanton
-  - Ben Webster
+    - Billy Strayhorn
+    - Juan Tizol
+    - Jimmy Blanton
+    - Ben Webster
   influenced:
-  - Charles Mingus
-  - Thelonious Monk
-  - Steely Dan
+    - Charles Mingus
+    - Thelonious Monk
+    - Steely Dan
   mentors:
-  - James P. Johnson
+    - James P. Johnson
 spotify_data:
   followers: 964626
   id: 4F7Q5NV6h5TSwCainz8S5A
   popularity: 57
-  url: https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A
+  url: 'https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A'
 discography_enriched: true
 top_tracks:
-- In A Sentimental Mood (Duke Ellington & John Coltrane)
-- My Little Brown Book (Duke Ellington & John Coltrane)
-- Isfahan (Far East Suite)
-- The Feeling Of Jazz (Duke Ellington & John Coltrane)
-- Take the "A" Train (Piano In The Background (Expanded Edition))
-- The Single Petal Of A Rose - The Queen's Suite (The Ellington Suites)
-- Haupe (Anatomy of a Murder)
-- It Don't Mean a Thing (If It Ain't Got That Swing) (The Great Reunion)
-- 'Satin Doll (Jazz Profile: Duke Ellington)'
-- Take The Coltrane (Duke Ellington & John Coltrane)
+  - In A Sentimental Mood (Duke Ellington & John Coltrane)
+  - My Little Brown Book (Duke Ellington & John Coltrane)
+  - Isfahan (Far East Suite)
+  - The Feeling Of Jazz (Duke Ellington & John Coltrane)
+  - Take the "A" Train (Piano In The Background (Expanded Edition))
+  - The Single Petal Of A Rose - The Queen's Suite (The Ellington Suites)
+  - Haupe (Anatomy of a Murder)
+  - It Don't Mean a Thing (If It Ain't Got That Swing) (The Great Reunion)
+  - 'Satin Doll (Jazz Profile: Duke Ellington)'
+  - Take The Coltrane (Duke Ellington & John Coltrane)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3af06bc4-68ad-4cae-bb7a-7eeeb45e411f
-  spotify: https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A
-  wikipedia: https://en.wikipedia.org/wiki/Duke_Ellington
+  musicbrainz: 'https://musicbrainz.org/artist/3af06bc4-68ad-4cae-bb7a-7eeeb45e411f'
+  spotify: 'https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A'
+  wikipedia: 'https://en.wikipedia.org/wiki/Duke_Ellington'
 image_path: 03_Resources/source_material/ArtistPortraits/duke_ellington.jpg
 biography_enhanced_at: '2025-10-27T02:40:19.684031'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Duke_Ellington
-- https://www.songhall.org/profile/Duke_Ellington
-- https://www.britannica.com/biography/Duke-Ellington
-- https://www.bpl.org/blogs/post/duke-ellington
+  - 'https://en.wikipedia.org/wiki/Duke_Ellington'
+  - 'https://www.songhall.org/profile/Duke_Ellington'
+  - 'https://www.britannica.com/biography/Duke-Ellington'
+  - 'https://www.bpl.org/blogs/post/duke-ellington'
 network_extracted: true
 entry_created: '2025-10-27T02:40:19.684040'
 last_updated: '2025-12-23T08:16:01.789483'
-disambiguation: US composer, pianist & jazz bandleader
+disambiguation: 'US composer, pianist & jazz bandleader'
 gender: Male
 musicbrainz_id: 3af06bc4-68ad-4cae-bb7a-7eeeb45e411f
 tags:
-- big band
-- duke box
-- jazz
+  - big band
+  - duke box
+  - jazz
+is_active: false
+origin: 'New York City, New York, United States'
 ---
 
 ![](duke_ellington.jpg)

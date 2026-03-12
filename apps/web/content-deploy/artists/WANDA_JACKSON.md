@@ -1,18 +1,18 @@
 ---
-title: WANDA JACKSON
+title: Wanda Jackson
 wiki_slug: wanda-jackson
 schema_version: 2
 status: active
-birth_place: Maud, Oklahoma, U.S.
+birth_place: 'Maud, Oklahoma, U.S.'
 genres:
-- rockabilly
-- psychobilly
-- rock and roll
+  - rockabilly
+  - psychobilly
+  - rock and roll
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/WANDA_JACKSON.jpg
   caption: WANDA JACKSON
   background: solo_singer
-  origin: Maud, Oklahoma, U.S.
+  origin: 'Maud, Oklahoma, U.S.'
 audio_profile:
   tempo_avg: 130.4
   energy_avg: 0.673
@@ -28,44 +28,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Billy Gray
-  - The Brazos Valley Boys
+    - Billy Gray
+    - The Brazos Valley Boys
   influenced:
-  - Various female rock and country artists
+    - Various female rock and country artists
   mentors:
-  - Hank Thompson
-  - Elvis Presley
+    - Hank Thompson
+    - Elvis Presley
 spotify_data:
   followers: 153161
   id: 5ZKMPRDHc7qElVJFh3uRqB
   popularity: 44
-  url: https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB
+  url: 'https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB'
 discography_enriched: true
 top_tracks:
-- Funnel Of Love (The Capitol Singles 1959-1961)
-- Let's Have A Party (Wanda Jackson)
-- Fujiyama Mama - Remastered (Rockin' With Wanda)
-- Funnel of Love (Heart Trouble)
-- Long Tall Sally (Wanda Jackson)
-- Stupid Cupid (Right Or Wrong)
-- Whirlpool (The Capitol Singles 1962-1963)
-- Hard Headed Woman (There's A Party Goin' On)
-- Right Or Wrong
-- Right Or Wrong (Right Or Wrong)
+  - Funnel Of Love (The Capitol Singles 1959-1961)
+  - Let's Have A Party (Wanda Jackson)
+  - Fujiyama Mama - Remastered (Rockin' With Wanda)
+  - Funnel of Love (Heart Trouble)
+  - Long Tall Sally (Wanda Jackson)
+  - Stupid Cupid (Right Or Wrong)
+  - Whirlpool (The Capitol Singles 1962-1963)
+  - Hard Headed Woman (There's A Party Goin' On)
+  - Right Or Wrong
+  - Right Or Wrong (Right Or Wrong)
 external_urls:
-  spotify: https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB
-  wikipedia: https://en.wikipedia.org/wiki/Wanda_Jackson
+  spotify: 'https://open.spotify.com/artist/5ZKMPRDHc7qElVJFh3uRqB'
+  wikipedia: 'https://en.wikipedia.org/wiki/Wanda_Jackson'
 image_path: 03_Resources/source_material/ArtistPortraits/WANDA_JACKSON.jpg
 biography_enhanced_at: '2025-10-21T07:00:48.650749'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Wanda_Jackson
-- https://www.arts.gov/honors/heritage/wanda-jackson
-- https://www.vintagerockmag.com/2024/05/rocknroll-heroes-wanda-jackson/
+  - 'https://en.wikipedia.org/wiki/Wanda_Jackson'
+  - 'https://www.arts.gov/honors/heritage/wanda-jackson'
+  - 'https://www.vintagerockmag.com/2024/05/rocknroll-heroes-wanda-jackson/'
 network_extracted: true
 entry_created: '2025-10-21T07:00:48.650767'
 last_updated: '2025-12-23T08:16:04.260661'
+birth_date: '1937-10-20'
+artist_type: person
 ---
 
 ![](WANDA_JACKSON.jpg)

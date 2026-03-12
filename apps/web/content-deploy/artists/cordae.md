@@ -5,16 +5,16 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1997-08-26'
-birth_place: Raleigh
+birth_place: 'Raleigh, North Carolina, United States'
 genres: []
 instruments:
-- lead vocals
+  - lead vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6f88f0b9-ec97-437d-8e6e-92d58e6a5642
-  name: YBN (Young Boss Niggas)
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6f88f0b9-ec97-437d-8e6e-92d58e6a5642
+    name: YBN (Young Boss Niggas)
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/cordae.jpg
   caption: Cordae
@@ -36,46 +36,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - YBN Almighty Jay
-  - YBN Nahmir
+    - YBN Almighty Jay
+    - YBN Nahmir
   influenced: []
   mentors:
-  - His Father
-  - His Mother
-  - YBN Nahmir
+    - His Father
+    - His Mother
+    - YBN Nahmir
 spotify_data:
   followers: 2112807
   id: 0huGjMyP507tBCARyzSkrv
   popularity: 64
-  url: https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv
+  url: 'https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv'
 discography_enriched: true
 top_tracks:
-- RNP (feat. Anderson .Paak) (The Lost Boy)
-- CAREFUL (HOPE)
-- Killer (feat. Jack Harlow & Cordae) - Remix
-- Back on the Road (feat. Lil Wayne) (The Crossroads)
-- Super (From a Birds Eye View)
-- Elevate (feat. Denzel Curry, YBN Cordae, SwaVay, Trevor Rich)
-- Doomsday (with Juice WRLD & Cordae) (All Is Yellow)
-- Doomsday (with Juice WRLD & Cordae)
-- C Carter (From a Birds Eye View)
-- Summer Drop (feat. Anderson .Paak) (The Crossroads)
+  - RNP (feat. Anderson .Paak) (The Lost Boy)
+  - CAREFUL (HOPE)
+  - Killer (feat. Jack Harlow & Cordae) - Remix
+  - Back on the Road (feat. Lil Wayne) (The Crossroads)
+  - Super (From a Birds Eye View)
+  - 'Elevate (feat. Denzel Curry, YBN Cordae, SwaVay, Trevor Rich)'
+  - Doomsday (with Juice WRLD & Cordae) (All Is Yellow)
+  - Doomsday (with Juice WRLD & Cordae)
+  - C Carter (From a Birds Eye View)
+  - Summer Drop (feat. Anderson .Paak) (The Crossroads)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/994a4bd6-584e-40c8-a8d7-5fdc3b6db8b2
-  spotify: https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv
+  musicbrainz: 'https://musicbrainz.org/artist/994a4bd6-584e-40c8-a8d7-5fdc3b6db8b2'
+  spotify: 'https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/cordae.jpg
 biography_enhanced_at: '2025-11-28T07:26:17.061632'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- kids.kiddle.co - Cordae Facts for Kids
-- YouTube - YBN CORDAE | Before They Were Famous | Biography
-- Complex - Everything You Need to Know About YBN Cordae
-- Los Angeles Times - Meet YBN Cordae, hip-hop's next great MC
-- SPIN - Almost (Too) Famous
-- ROSTR - Cordae signs with The Familie
-- The Masquerade - Cordae
+  - kids.kiddle.co - Cordae Facts for Kids
+  - YouTube - YBN CORDAE | Before They Were Famous | Biography
+  - Complex - Everything You Need to Know About YBN Cordae
+  - 'Los Angeles Times - Meet YBN Cordae, hip-hop''s next great MC'
+  - SPIN - Almost (Too) Famous
+  - ROSTR - Cordae signs with The Familie
+  - The Masquerade - Cordae
 network_extracted: true
 entry_created: '2025-11-28T07:26:17.061646'
 last_updated: '2025-12-23T08:16:07.192086'
@@ -83,9 +83,9 @@ disambiguation: fka YBN Cordae
 gender: Male
 musicbrainz_id: 994a4bd6-584e-40c8-a8d7-5fdc3b6db8b2
 tags:
-- conscious hip hop
-- dmv rap
-- hip hop
+  - conscious hip hop
+  - dmv rap
+  - hip hop
 ---
 
 ![](cordae.jpg)

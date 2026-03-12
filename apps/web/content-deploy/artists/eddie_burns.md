@@ -3,14 +3,14 @@ title: Eddie Burns
 wiki_slug: eddie-burns
 schema_version: 2
 status: active
-birth_place: Belzoni, Mississippi, United States
+birth_place: 'Belzoni, Mississippi, United States'
 genres:
-- indie jazz
+  - indie jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/eddie_burns.jpg
   caption: Eddie Burns
   background: solo_singer
-  origin: Belzoni, Mississippi, United States
+  origin: 'Belzoni, Mississippi, United States'
 audio_profile:
   tempo_avg: 120.6
   energy_avg: 0.528
@@ -18,7 +18,7 @@ audio_profile:
   danceability_avg: 0.665
   acousticness_avg: 0.614
   instrumentalness_avg: 0.372
-  loudness_avg: -10.0
+  loudness_avg: -10
   speechiness_avg: 0.154
   liveness_avg: 0.126
   track_count: 9
@@ -26,45 +26,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Johnny Smith
-  - Jimmy Burns
-  - Joe Turner
+    - Johnny Smith
+    - Jimmy Burns
+    - Joe Turner
   influenced:
-  - The J. Geils Band
+    - The J. Geils Band
   mentors:
-  - John Lee Hooker
-  - Sonny Boy Williamson I
+    - John Lee Hooker
+    - Sonny Boy Williamson I
 spotify_data:
   followers: 713
   id: 4LtWbETjnP4pxISfUEgDCC
   popularity: 20
-  url: https://open.spotify.com/artist/4LtWbETjnP4pxISfUEgDCC
+  url: 'https://open.spotify.com/artist/4LtWbETjnP4pxISfUEgDCC'
 discography_enriched: true
 top_tracks:
-- ENAMEL (ENAMEL)
-- summer school radio with Lovie (summer school radio with Lovie)
-- my luv 4 u (my luv 4 u)
-- Bck! (Tank on E)
-- KRINK (KRINK)
-- Sweet Talkin (feat. Elton Aura & AJANIMF) (Sweet Talkin (feat. Elton Aura & AJANIMF))
-- POLKA DOT (feat. Demetruest) (POLKA DOT (feat. Demetruest))
-- CHECK IN (CHECK IN)
-- CHECK IN - Sped Up (CHECK IN)
+  - ENAMEL (ENAMEL)
+  - summer school radio with Lovie (summer school radio with Lovie)
+  - my luv 4 u (my luv 4 u)
+  - Bck! (Tank on E)
+  - KRINK (KRINK)
+  - >-
+    Sweet Talkin (feat. Elton Aura & AJANIMF) (Sweet Talkin (feat. Elton Aura &
+    AJANIMF))
+  - POLKA DOT (feat. Demetruest) (POLKA DOT (feat. Demetruest))
+  - CHECK IN (CHECK IN)
+  - CHECK IN - Sped Up (CHECK IN)
 external_urls:
-  spotify: https://open.spotify.com/artist/4LtWbETjnP4pxISfUEgDCC
+  spotify: 'https://open.spotify.com/artist/4LtWbETjnP4pxISfUEgDCC'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/eddie_burns.jpg
 biography_enhanced_at: '2025-11-15T18:39:17.835607'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/burns-eddie-1928
-- https://www.thecountryblues.com/dr-barry-lee-pearson/eddie-burns-story/
-- https://www.bluesway.gr/2018/11/eddie-guitar-burns.html
-- https://jasobrecht.substack.com/p/detroit-blues-the-eddie-burns-interview
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/burns-eddie-1928
+  - 'https://www.thecountryblues.com/dr-barry-lee-pearson/eddie-burns-story/'
+  - 'https://www.bluesway.gr/2018/11/eddie-guitar-burns.html'
+  - 'https://jasobrecht.substack.com/p/detroit-blues-the-eddie-burns-interview'
 network_extracted: true
 entry_created: '2025-11-15T18:39:17.835614'
 last_updated: '2025-12-23T08:16:08.144914'
+birth_date: '1928-02-08'
+artist_type: person
 ---
 
 ![](eddie_burns.jpg)

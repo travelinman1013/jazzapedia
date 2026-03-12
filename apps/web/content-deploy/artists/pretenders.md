@@ -1,20 +1,20 @@
 ---
-title: Pretenders
+title: The Pretenders
 wiki_slug: pretenders
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: 1978-03
 genres: []
 instruments:
-- background vocals
-- guitar
-- keyboard
-- original
-- percussion
-- drums (drum set)
-- lead vocals
-- electric bass guitar
+  - background vocals
+  - guitar
+  - keyboard
+  - original
+  - percussion
+  - drums (drum set)
+  - lead vocals
+  - electric bass guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/pretenders.jpg
   caption: Pretenders
@@ -35,175 +35,180 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - James Honeyman-Scott
-  - Pete Farndon
-  - Martin Chambers
-  - Robbie McIntosh
-  - Malcolm Foster
-  - Billy Bremner
-  - Tony Butler
+    - James Honeyman-Scott
+    - Pete Farndon
+    - Martin Chambers
+    - Robbie McIntosh
+    - Malcolm Foster
+    - Billy Bremner
+    - Tony Butler
   influenced:
-  - Post-punk and new wave artists
+    - Post-punk and new wave artists
   mentors:
-  - Dave Hill (Anchor Records)
-  - Nick Lowe
-  - Chris Thomas
+    - Dave Hill (Anchor Records)
+    - Nick Lowe
+    - Chris Thomas
 spotify_data:
   followers: 1699866
   id: 0GByy3DcfbQwDvXGCWmzv9
   popularity: 67
-  url: https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9
+  url: 'https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9'
 discography_enriched: true
 top_tracks:
-- I'll Stand by You (Last of the Independents)
-- Don't Get Me Wrong - 2007 Remaster (Get Close (Expanded & Remastered))
-- Brass in Pocket - 2018 Remaster (Pretenders (2018 Remaster))
-- Back on the Chain Gang - 2007 Remaster (Learning to Crawl (Expanded & Remastered))
-- Don't Get Me Wrong - 2007 Remaster (Get Close (2007 Remaster))
-- Brass in Pocket - 2006 Remaster (Pretenders)
-- 2000 Miles - 2007 Remaster (Learning to Crawl (Expanded & Remastered))
-- Brass in Pocket
-- Middle of the Road - 2007 Remaster (Learning to Crawl (Expanded & Remastered))
-- Hymn to Her - 2007 Remaster (Get Close (2007 Remaster))
+  - I'll Stand by You (Last of the Independents)
+  - Don't Get Me Wrong - 2007 Remaster (Get Close (Expanded & Remastered))
+  - Brass in Pocket - 2018 Remaster (Pretenders (2018 Remaster))
+  - >-
+    Back on the Chain Gang - 2007 Remaster (Learning to Crawl (Expanded &
+    Remastered))
+  - Don't Get Me Wrong - 2007 Remaster (Get Close (2007 Remaster))
+  - Brass in Pocket - 2006 Remaster (Pretenders)
+  - 2000 Miles - 2007 Remaster (Learning to Crawl (Expanded & Remastered))
+  - Brass in Pocket
+  - >-
+    Middle of the Road - 2007 Remaster (Learning to Crawl (Expanded &
+    Remastered))
+  - Hymn to Her - 2007 Remaster (Get Close (2007 Remaster))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e9c832b0-384b-4ee6-aec0-111372784aac
-  spotify: https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9
-  wikipedia: https://en.wikipedia.org/wiki/The_Pretenders
+  musicbrainz: 'https://musicbrainz.org/artist/e9c832b0-384b-4ee6-aec0-111372784aac'
+  spotify: 'https://open.spotify.com/artist/0GByy3DcfbQwDvXGCWmzv9'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Pretenders'
 image_path: 03_Resources/source_material/ArtistPortraits/pretenders.jpg
 biography_enhanced_at: '2025-12-22T01:50:53.411565'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Last.fm - The Pretenders
-- Wikipedia - The Pretenders
-- WFUV - The Pretenders
-- Quietus Management - Pretenders
-- Britannica - The Pretenders
-- A Very Special Christmas - The Pretenders
-- American Songwriter - The London Punk Origins of the Pretenders
-- Rock & Roll Hall of Fame - The Pretenders
+  - Last.fm - The Pretenders
+  - Wikipedia - The Pretenders
+  - WFUV - The Pretenders
+  - Quietus Management - Pretenders
+  - Britannica - The Pretenders
+  - A Very Special Christmas - The Pretenders
+  - American Songwriter - The London Punk Origins of the Pretenders
+  - Rock & Roll Hall of Fame - The Pretenders
 network_extracted: true
 entry_created: '2025-12-22T01:50:53.411570'
 last_updated: '2025-12-23T08:16:14.444369'
 disambiguation: English‐American rock band
 members:
-- begin: 1978-03
-  end: '1982-06-16'
-  instruments:
-  - background vocals
-  - guitar
-  - keyboard
-  - original
-  mbid: 0c36b17c-84aa-4f0b-b244-5314f0e08c94
-  name: James Honeyman‐Scott
-- begin: 1978-03
-  end: '1985'
-  instruments:
-  - original
-  - percussion
-  mbid: e09de40f-641e-459a-964f-d85d1501f427
-  name: Martin Chambers
-- begin: 1978-03
-  end: '1985'
-  instruments:
-  - drums (drum set)
-  - original
-  mbid: e09de40f-641e-459a-964f-d85d1501f427
-  name: Martin Chambers
-- begin: 1978-03
-  end: '1985'
-  instruments:
-  - background vocals
-  - original
-  mbid: e09de40f-641e-459a-964f-d85d1501f427
-  name: Martin Chambers
-- &id001
-  begin: 1978-03
-  end: ''
-  instruments:
-  - guitar
-  - lead vocals
-  - original
-  mbid: a5d79c54-81c3-4a73-af6a-ad5c143d3f21
-  name: Chrissie Hynde
-- begin: '1978'
-  end: '1982-04-14'
-  instruments:
-  - background vocals
-  - electric bass guitar
-  - original
-  mbid: 8c6d45aa-5e14-42c4-943c-e6868406531f
-  name: Pete Farndon
-- begin: '1982'
-  end: '1985'
-  instruments:
-  - background vocals
-  - electric bass guitar
-  mbid: 8b3932de-42b6-41f3-885d-e6aafe7980d5
-  name: Malcolm Foster
-- begin: '1982'
-  end: '1987'
-  instruments:
-  - background vocals
-  - guitar
-  mbid: c647399c-311a-4f5b-930f-b0be33095ea2
-  name: Robbie McIntosh
-- begin: '1985'
-  end: '1987'
-  instruments:
-  - drums (drum set)
-  - percussion
-  mbid: 6e6fde11-e322-43f0-a8c4-aa71673d0aee
-  name: Blair Cunningham
-- begin: '1985'
-  end: '1987'
-  instruments:
-  - electric bass guitar
-  mbid: 9029ecaf-5a7a-47e1-a98b-f6f3aedb7398
-  name: T. M. Stevens
-- begin: '1987'
-  end: '1987'
-  instruments:
-  - guitar
-  mbid: ff621094-2a76-401f-8398-b75b5fd2be24
-  name: Johnny Marr
-- begin: '1993'
-  end: '2005'
-  instruments:
-  - electric bass guitar
-  mbid: 6c6655f4-96f4-405d-aecb-e030697a2f05
-  name: Andy Hobson
-- begin: '1993'
-  end: '2008'
-  instruments:
-  - guitar
-  mbid: 088672f7-bea7-4bae-b99f-ec913a7b1d73
-  name: Adam Seymour
-- &id002
-  begin: '2008'
-  end: ''
-  instruments: []
-  mbid: 712b4446-ebad-4b76-b792-1953dec79d25
-  name: James Walbourne
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 017fe25a-4e2f-4507-aa14-a49a8c62432c
-  name: Carwyn Ellis
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4408b870-17c1-4517-ba07-8d20d8690f3f
-  name: Nick Wilkinson
+  - begin: 1978-03
+    end: '1982-06-16'
+    instruments:
+      - background vocals
+      - guitar
+      - keyboard
+      - original
+    mbid: 0c36b17c-84aa-4f0b-b244-5314f0e08c94
+    name: James Honeyman‐Scott
+  - begin: 1978-03
+    end: '1985'
+    instruments:
+      - original
+      - percussion
+    mbid: e09de40f-641e-459a-964f-d85d1501f427
+    name: Martin Chambers
+  - begin: 1978-03
+    end: '1985'
+    instruments:
+      - drums (drum set)
+      - original
+    mbid: e09de40f-641e-459a-964f-d85d1501f427
+    name: Martin Chambers
+  - begin: 1978-03
+    end: '1985'
+    instruments:
+      - background vocals
+      - original
+    mbid: e09de40f-641e-459a-964f-d85d1501f427
+    name: Martin Chambers
+  - &ref_0
+    begin: 1978-03
+    end: ''
+    instruments:
+      - guitar
+      - lead vocals
+      - original
+    mbid: a5d79c54-81c3-4a73-af6a-ad5c143d3f21
+    name: Chrissie Hynde
+  - begin: '1978'
+    end: '1982-04-14'
+    instruments:
+      - background vocals
+      - electric bass guitar
+      - original
+    mbid: 8c6d45aa-5e14-42c4-943c-e6868406531f
+    name: Pete Farndon
+  - begin: '1982'
+    end: '1985'
+    instruments:
+      - background vocals
+      - electric bass guitar
+    mbid: 8b3932de-42b6-41f3-885d-e6aafe7980d5
+    name: Malcolm Foster
+  - begin: '1982'
+    end: '1987'
+    instruments:
+      - background vocals
+      - guitar
+    mbid: c647399c-311a-4f5b-930f-b0be33095ea2
+    name: Robbie McIntosh
+  - begin: '1985'
+    end: '1987'
+    instruments:
+      - drums (drum set)
+      - percussion
+    mbid: 6e6fde11-e322-43f0-a8c4-aa71673d0aee
+    name: Blair Cunningham
+  - begin: '1985'
+    end: '1987'
+    instruments:
+      - electric bass guitar
+    mbid: 9029ecaf-5a7a-47e1-a98b-f6f3aedb7398
+    name: T. M. Stevens
+  - begin: '1987'
+    end: '1987'
+    instruments:
+      - guitar
+    mbid: ff621094-2a76-401f-8398-b75b5fd2be24
+    name: Johnny Marr
+  - begin: '1993'
+    end: '2005'
+    instruments:
+      - electric bass guitar
+    mbid: 6c6655f4-96f4-405d-aecb-e030697a2f05
+    name: Andy Hobson
+  - begin: '1993'
+    end: '2008'
+    instruments:
+      - guitar
+    mbid: 088672f7-bea7-4bae-b99f-ec913a7b1d73
+    name: Adam Seymour
+  - &ref_1
+    begin: '2008'
+    end: ''
+    instruments: []
+    mbid: 712b4446-ebad-4b76-b792-1953dec79d25
+    name: James Walbourne
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 017fe25a-4e2f-4507-aa14-a49a8c62432c
+    name: Carwyn Ellis
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4408b870-17c1-4517-ba07-8d20d8690f3f
+    name: Nick Wilkinson
 musicbrainz_id: e9c832b0-384b-4ee6-aec0-111372784aac
-origin: Hereford
+origin: 'Hereford, England, United Kingdom'
 original_members:
-- *id001
-- *id002
+  - *ref_0
+  - *ref_1
 tags:
-- british
-- hard rock
-- jangle pop
+  - british
+  - hard rock
+  - jangle pop
+birth_place: 'Akron, Ohio, United States'
 ---
 
 ![](pretenders.jpg)

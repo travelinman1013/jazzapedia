@@ -1,18 +1,18 @@
 ---
-title: CAREY BELL
+title: Carey Bell
 wiki_slug: carey-bell
 schema_version: 2
 status: active
-birth_place: Macon, Mississippi, United States
+birth_place: 'Macon, Mississippi, United States'
 genres:
-- blues
-- classic blues
-- modern blues
+  - blues
+  - classic blues
+  - modern blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/carey_bell.jpg
   caption: CAREY BELL
   background: solo_singer
-  origin: Macon, Mississippi, United States
+  origin: 'Macon, Mississippi, United States'
 audio_profile:
   tempo_avg: 123.6
   energy_avg: 0.465
@@ -28,52 +28,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Muddy Waters
-  - Willie Dixon
-  - Earl Hooker
-  - Junior Wells, James Cotton, Billy Branch
-  - Lurrie Bell
+    - Muddy Waters
+    - Willie Dixon
+    - Earl Hooker
+    - 'Junior Wells, James Cotton, Billy Branch'
+    - Lurrie Bell
   influenced:
-  - Lurrie Bell
-  - Billy Branch
+    - Lurrie Bell
+    - Billy Branch
   mentors:
-  - Big Walter Horton
-  - Little Walter Jacobs
-  - Sonny Boy Williamson II
-  - Lovie Lee
+    - Big Walter Horton
+    - Little Walter Jacobs
+    - Sonny Boy Williamson II
+    - Lovie Lee
 spotify_data:
   followers: 22408
   id: 7wcrtrCODZkNbpq1ZYABxs
   popularity: 35
-  url: https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs
+  url: 'https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs'
 discography_enriched: true
 top_tracks:
-- Little Boy Blue (Big Walter Horton With Carey Bell)
-- Have A Good Time (Big Walter Horton With Carey Bell)
-- Lovin' My Baby (Big Walter Horton With Carey Bell)
-- Tell Me Baby (Big Walter Horton With Carey Bell)
-- That Ain't It (Big Walter Horton With Carey Bell)
-- Can't Hold Out Much Longer (Big Walter Horton With Carey Bell)
-- Under The Sun (Big Walter Horton With Carey Bell)
-- Everything's Gonna Be All Right (Heartaches And Pain)
-- Have Mercy (Big Walter Horton With Carey Bell)
-- Down Home Blues (Harp Attack!)
+  - Little Boy Blue (Big Walter Horton With Carey Bell)
+  - Have A Good Time (Big Walter Horton With Carey Bell)
+  - Lovin' My Baby (Big Walter Horton With Carey Bell)
+  - Tell Me Baby (Big Walter Horton With Carey Bell)
+  - That Ain't It (Big Walter Horton With Carey Bell)
+  - Can't Hold Out Much Longer (Big Walter Horton With Carey Bell)
+  - Under The Sun (Big Walter Horton With Carey Bell)
+  - Everything's Gonna Be All Right (Heartaches And Pain)
+  - Have Mercy (Big Walter Horton With Carey Bell)
+  - Down Home Blues (Harp Attack!)
 external_urls:
-  spotify: https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs
-  wikipedia: https://en.wikipedia.org/wiki/Carey_Bell
+  spotify: 'https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs'
+  wikipedia: 'https://en.wikipedia.org/wiki/Carey_Bell'
 image_path: 03_Resources/source_material/ArtistPortraits/carey_bell.jpg
 biography_enhanced_at: '2025-11-20T07:21:40.479825'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.alligator.com/artists/Carey-Bell/
-- https://en.wikipedia.org/wiki/Carey_Bell
-- https://blues.org/blues_hof_inductee/carey-bell/
-- https://illinoisentertainer.com/2007/05/carey-bell-1936-2007/
+  - 'https://www.alligator.com/artists/Carey-Bell/'
+  - 'https://en.wikipedia.org/wiki/Carey_Bell'
+  - 'https://blues.org/blues_hof_inductee/carey-bell/'
+  - 'https://illinoisentertainer.com/2007/05/carey-bell-1936-2007/'
 network_extracted: true
 entry_created: '2025-11-20T07:21:40.479834'
 last_updated: '2025-12-23T08:16:06.409665'
-
+origin: 'Chicago, Illinois, United States'
+birth_date: '1936-11-14'
+death_date: '2007-05-06'
+artist_type: person
 ---
 
 ![](carey_bell.jpg)

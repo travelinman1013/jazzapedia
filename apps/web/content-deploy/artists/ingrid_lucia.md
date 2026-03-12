@@ -3,15 +3,15 @@ title: Ingrid Lucia
 wiki_slug: ingrid-lucia
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana / Austin, Texas, USA (raised)
+birth_place: 'New Orleans, Louisiana / Austin, Texas, USA (raised)'
 genres:
-- french jazz
-- swing music
+  - french jazz
+  - swing music
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ingrid_lucia.jpg
   caption: Ingrid Lucia
   background: solo_singer
-  origin: New Orleans, Louisiana / Austin, Texas, USA (raised)
+  origin: 'New Orleans, Louisiana / Austin, Texas, USA (raised)'
 audio_profile:
   tempo_avg: 122.5
   energy_avg: 0.47
@@ -19,7 +19,7 @@ audio_profile:
   danceability_avg: 0.621
   acousticness_avg: 0.588
   instrumentalness_avg: 0.006
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.06
   liveness_avg: 0.165
   track_count: 46
@@ -27,45 +27,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Flying Neutrinos
+    - The Flying Neutrinos
   influenced: []
   mentors: []
 spotify_data:
   followers: 1217
   id: 0YoZckXvzVqjq9cRPyIraN
   popularity: 14
-  url: https://open.spotify.com/artist/0YoZckXvzVqjq9cRPyIraN
+  url: 'https://open.spotify.com/artist/0YoZckXvzVqjq9cRPyIraN'
 discography_enriched: true
 top_tracks:
-- Zat You Santa Claus? (Christmas Gumbo)
-- Sunny Afternoon (Almost Blue)
-- Midnight Rendezvous (Vieux Carré (The French Quarter) - Sounds of New Orleans)
-- Going Back (Almost Blue)
-- Almost Blue (Almost Blue)
-- Mexican Love Song (Living the Life)
-- Living the Life (Living the Life)
-- Hello Sunshine Goodbye Blue (Almost Blue)
-- Let Me In (Almost Blue)
-- Please Send Me Someone To Love (Almost Blue)
+  - Zat You Santa Claus? (Christmas Gumbo)
+  - Sunny Afternoon (Almost Blue)
+  - >-
+    Midnight Rendezvous (Vieux Carré (The French Quarter) - Sounds of New
+    Orleans)
+  - Going Back (Almost Blue)
+  - Almost Blue (Almost Blue)
+  - Mexican Love Song (Living the Life)
+  - Living the Life (Living the Life)
+  - Hello Sunshine Goodbye Blue (Almost Blue)
+  - Let Me In (Almost Blue)
+  - Please Send Me Someone To Love (Almost Blue)
 external_urls:
-  spotify: https://open.spotify.com/artist/0YoZckXvzVqjq9cRPyIraN
+  spotify: 'https://open.spotify.com/artist/0YoZckXvzVqjq9cRPyIraN'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/ingrid_lucia.jpg
 biography_enhanced_at: '2025-12-16T03:10:17.983628'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Ingrid+Lucia+and+the+Flying+Neutrinos/+wiki
-- https://www.ingridlucia.com
-- https://www.jango.com/music/Ingrid+Lucia/_full_bio
-- https://filamenttheatre.org/vocalist-ingrid-lucia/
-- https://www.allaboutjazz.com/musicians/ingrid-lucia/
-- https://www.allmusic.com/artist/ingrid-lucia-mn0000090010
-- https://offbeat1246.rssing.com/chan-73143270/article51.html
-- https://www.shazam.com/artist/ingrid-lucia/73260908
+  - 'https://www.last.fm/music/Ingrid+Lucia+and+the+Flying+Neutrinos/+wiki'
+  - 'https://www.ingridlucia.com'
+  - 'https://www.jango.com/music/Ingrid+Lucia/_full_bio'
+  - 'https://filamenttheatre.org/vocalist-ingrid-lucia/'
+  - 'https://www.allaboutjazz.com/musicians/ingrid-lucia/'
+  - 'https://www.allmusic.com/artist/ingrid-lucia-mn0000090010'
+  - 'https://offbeat1246.rssing.com/chan-73143270/article51.html'
+  - 'https://www.shazam.com/artist/ingrid-lucia/73260908'
 network_extracted: true
 entry_created: '2025-12-16T03:10:17.983645'
 last_updated: '2025-12-23T08:16:09.852151'
+artist_type: person
 ---
 
 ![](ingrid_lucia.jpg)

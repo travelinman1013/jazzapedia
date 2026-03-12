@@ -5,27 +5,27 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1981-06-01'
-birth_place: Ravensdale
+birth_place: 'Ravensdale, Washington, United States'
 genres:
-- folk
-- americana
+  - folk
+  - americana
 instruments:
-- piano
-- acoustic guitar
-- guitar
-- electric piano
-- Wurlitzer electric piano
-- electric guitar
-- 12 string guitar
-- spoken vocals
-- lead vocals
-- background vocals
+  - piano
+  - acoustic guitar
+  - guitar
+  - electric piano
+  - Wurlitzer electric piano
+  - electric guitar
+  - 12 string guitar
+  - spoken vocals
+  - lead vocals
+  - background vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1660fbb6-c55e-4ad3-8342-c424162c30a6
-  name: The Highwomen
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1660fbb6-c55e-4ad3-8342-c424162c30a6
+    name: The Highwomen
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/brandi_carlile.jpg
   caption: Brandi Carlile
@@ -33,7 +33,7 @@ infobox:
   born: '1981-06-01'
   origin: Ravensdale
 audio_profile:
-  tempo_avg: 127.0
+  tempo_avg: 127
   energy_avg: 0.528
   valence_avg: 0.36
   danceability_avg: 0.475
@@ -47,52 +47,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Phil Hanseroth
-  - Tim Hanseroth
-  - Amanda Shires
-  - Maren Morris
-  - Natalie Hemby
-  - Tanya Tucker
+    - Phil Hanseroth
+    - Tim Hanseroth
+    - Amanda Shires
+    - Maren Morris
+    - Natalie Hemby
+    - Tanya Tucker
   influenced:
-  - The Highwomen
-  - Adele
-  - Pearl Jam
+    - The Highwomen
+    - Adele
+    - Pearl Jam
   mentors:
-  - Elton John
-  - T Bone Burnett
-  - Melissa Etheridge
+    - Elton John
+    - T Bone Burnett
+    - Melissa Etheridge
 spotify_data:
   followers: 926317
   id: 2sG4zTOLvjKG1PSoOyf5Ej
   popularity: 63
-  url: https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej
+  url: 'https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej'
 discography_enriched: true
 top_tracks:
-- The Story
-- Swing For The Fences
-- You’re Gonna Go Far (with Brandi Carlile) (Stick Season (Forever))
-- Who Believes In Angels?
-- Thousand Miles (feat. Brandi Carlile) (Endless Summer Vacation)
-- The Joke
-- Heart's Content
-- Crowded Table (The Highwomen)
-- Damage Gets Done (feat. Brandi Carlile) (Unreal Unearth)
-- Highwomen (The Highwomen)
+  - The Story
+  - Swing For The Fences
+  - You’re Gonna Go Far (with Brandi Carlile) (Stick Season (Forever))
+  - Who Believes In Angels?
+  - Thousand Miles (feat. Brandi Carlile) (Endless Summer Vacation)
+  - The Joke
+  - Heart's Content
+  - Crowded Table (The Highwomen)
+  - Damage Gets Done (feat. Brandi Carlile) (Unreal Unearth)
+  - Highwomen (The Highwomen)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/baf05baf-69fb-47dd-93c2-033536b8c385
-  spotify: https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej
-  wikipedia: https://en.wikipedia.org/wiki/Brandi_Carlile
+  musicbrainz: 'https://musicbrainz.org/artist/baf05baf-69fb-47dd-93c2-033536b8c385'
+  spotify: 'https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej'
+  wikipedia: 'https://en.wikipedia.org/wiki/Brandi_Carlile'
 image_path: 03_Resources/source_material/ArtistPortraits/brandi_carlile.jpg
 biography_enhanced_at: '2025-10-26T12:45:47.559697'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Brandi_Carlile
-- https://mabumbe.com/people/brandi-carlile-age-net-worth-relationships-career-highlights/
-- https://www.britannica.com/biography/Brandi-Carlile
-- https://www.scaruffi.com/vol8/carlile.html
-- https://www.bso.org/profiles/brandi-carlile
-- https://popculture.com/country-music/news/brandi-carlile-age-bio-more-details-country-singer-songwriter/
+  - 'https://en.wikipedia.org/wiki/Brandi_Carlile'
+  - >-
+    https://mabumbe.com/people/brandi-carlile-age-net-worth-relationships-career-highlights/
+  - 'https://www.britannica.com/biography/Brandi-Carlile'
+  - 'https://www.scaruffi.com/vol8/carlile.html'
+  - 'https://www.bso.org/profiles/brandi-carlile'
+  - >-
+    https://popculture.com/country-music/news/brandi-carlile-age-bio-more-details-country-singer-songwriter/
 network_extracted: true
 entry_created: '2025-10-26T12:45:47.559706'
 last_updated: '2025-12-23T08:16:06.012190'
@@ -100,9 +102,10 @@ disambiguation: American country singer-songwriter
 gender: Female
 musicbrainz_id: baf05baf-69fb-47dd-93c2-033536b8c385
 tags:
-- alternative country
-- americana
-- country
+  - alternative country
+  - americana
+  - country
+origin: 'Seattle, Washington, United States'
 ---
 
 ![](brandi_carlile.jpg)

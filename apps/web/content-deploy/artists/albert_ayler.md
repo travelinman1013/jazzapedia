@@ -1,96 +1,102 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e11e7ec1-10a4-4e1c-806e-e8e19d088003
-  name: Albert Ayler Trio
-- begin: ''
-  end: ''
-  instruments:
-  - alto saxophone
-  - eponymous
-  - original
-  - tenor saxophone
-  mbid: f407090c-ff4d-4d7d-b43f-1f725692eeb5
-  name: Albert Ayler Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  - tenor saxophone
-  mbid: 4fdf4de6-ec11-4343-b092-11f593fc1b52
-  name: Albert Ayler Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e11e7ec1-10a4-4e1c-806e-e8e19d088003
+    name: Albert Ayler Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - alto saxophone
+      - eponymous
+      - original
+      - tenor saxophone
+    mbid: f407090c-ff4d-4d7d-b43f-1f725692eeb5
+    name: Albert Ayler Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - tenor saxophone
+    mbid: 4fdf4de6-ec11-4343-b092-11f593fc1b52
+    name: Albert Ayler Quintet
 biography_enhanced_at: '2026-01-10T01:09:10.805319'
 birth_date: '1936-07-13'
-birth_place: Cleveland Heights
+birth_place: 'Cleveland Heights, Ohio, United States'
 death_date: '1970-11-25'
 enhancement_provider: perplexity
 entry_created: '2026-01-10T01:09:10.805325'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b2dcc67a-45f9-4b9f-8221-3da4e0d32491
-  spotify: https://open.spotify.com/artist/2wn2nqzITvJ1vcMRO8Wzv6
-  wikipedia: https://en.wikipedia.org/wiki/Albert_Ayler
+  musicbrainz: 'https://musicbrainz.org/artist/b2dcc67a-45f9-4b9f-8221-3da4e0d32491'
+  spotify: 'https://open.spotify.com/artist/2wn2nqzITvJ1vcMRO8Wzv6'
+  wikipedia: 'https://en.wikipedia.org/wiki/Albert_Ayler'
 gender: Male
 genres:
-- free jazz
-- experimental jazz
-- avant-garde
-- jazz
-- hard bop
+  - free jazz
+  - experimental jazz
+  - avant-garde
+  - jazz
+  - hard bop
 image_path: 03_Resources/source_material/ArtistPortraits/albert_ayler.jpg
 instruments:
-- alto saxophone
-- eponymous
-- original
-- tenor saxophone
-- piano
-- spoken vocals
+  - alto saxophone
+  - eponymous
+  - original
+  - tenor saxophone
+  - piano
+  - spoken vocals
 last_updated: '2026-01-10T01:09:10.805326'
 musical_connections:
   collaborators:
-  - Gary Peacock
-  - Sunny Murray
-  - Donald Ayler
-  - Michel Samson
-  - Cecil Taylor
-  - ESP‑Disk roster (e.g., Henry Grimes, Don Cherry)
+    - Gary Peacock
+    - Sunny Murray
+    - Donald Ayler
+    - Michel Samson
+    - Cecil Taylor
+    - 'ESP‑Disk roster (e.g., Henry Grimes, Don Cherry)'
   influenced:
-  - John Coltrane
-  - Cecil Taylor
-  - European free jazz players (e.g., Peter Brötzmann)
-  - Spiritual and avant‑garde jazz artists (e.g., Pharoah Sanders, Archie Shepp)
+    - John Coltrane
+    - Cecil Taylor
+    - 'European free jazz players (e.g., Peter Brötzmann)'
+    - >-
+      Spiritual and avant‑garde jazz artists (e.g., Pharoah Sanders, Archie
+      Shepp)
   mentors:
-  - Edward Ayler
-  - Benny Miller
-  - John Coltrane
-  - Little Walter (Walter Jacobs)
+    - Edward Ayler
+    - Benny Miller
+    - John Coltrane
+    - Little Walter (Walter Jacobs)
 musicbrainz_id: b2dcc67a-45f9-4b9f-8221-3da4e0d32491
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.britannica.com/biography/Albert-Ayler
-- https://magnetmagazine.com/2021/03/31/spirits-ghosts-witches-devils-the-life-and-death-of-albert-ayler/
-- https://www.cc-seas.columbia.edu/wkcr/story/albert-ayler-birthday-broadcast-0
-- https://www.allaboutjazz.com/musicians/albert-ayler/
-- https://en.wikipedia.org/wiki/Albert_Ayler
-- https://www.ayler.co.uk/html/biography.html
-- https://www.soundohm.com/artist/albert-ayler?layout=big-grid&stock=only
-- https://jawbonepress.com/holy-ghost/
-- https://www.rizzolibookstore.com/product/holy-ghost-life-and-death-free-jazz-pioneer-albert-ayler
+  - 'https://www.britannica.com/biography/Albert-Ayler'
+  - >-
+    https://magnetmagazine.com/2021/03/31/spirits-ghosts-witches-devils-the-life-and-death-of-albert-ayler/
+  - >-
+    https://www.cc-seas.columbia.edu/wkcr/story/albert-ayler-birthday-broadcast-0
+  - 'https://www.allaboutjazz.com/musicians/albert-ayler/'
+  - 'https://en.wikipedia.org/wiki/Albert_Ayler'
+  - 'https://www.ayler.co.uk/html/biography.html'
+  - 'https://www.soundohm.com/artist/albert-ayler?layout=big-grid&stock=only'
+  - 'https://jawbonepress.com/holy-ghost/'
+  - >-
+    https://www.rizzolibookstore.com/product/holy-ghost-life-and-death-free-jazz-pioneer-albert-ayler
 spotify_data:
   followers: 42791
   id: 2wn2nqzITvJ1vcMRO8Wzv6
   popularity: 27
-  url: https://open.spotify.com/artist/2wn2nqzITvJ1vcMRO8Wzv6
+  url: 'https://open.spotify.com/artist/2wn2nqzITvJ1vcMRO8Wzv6'
 status: active
 tags:
-- 2008 universal fire victim
-- avant-garde jazz
-- free jazz
+  - 2008 universal fire victim
+  - avant-garde jazz
+  - free jazz
 title: Albert Ayler
+is_active: false
 ---
 
 ![](albert_ayler.jpg)

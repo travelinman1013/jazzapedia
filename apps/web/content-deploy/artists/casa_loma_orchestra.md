@@ -1,198 +1,201 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-22T07:08:36.544267'
 birth_date: '1927'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:08:36.544274'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/09d754f1-5218-4fdb-bd4f-42960915ab4a
-  spotify: https://open.spotify.com/artist/2RLpFsSPsiB1LKXcDVac4Q
+  musicbrainz: 'https://musicbrainz.org/artist/09d754f1-5218-4fdb-bd4f-42960915ab4a'
+  spotify: 'https://open.spotify.com/artist/2RLpFsSPsiB1LKXcDVac4Q'
   wikipedia: null
 genres:
-- big band
-- swing music
+  - big band
+  - swing music
 image_path: 03_Resources/source_material/ArtistPortraits/casa_loma_orchestra.jpg
 instruments:
-- drums (drum set)
-- trumpet
+  - drums (drum set)
+  - trumpet
 last_updated: '2026-01-22T07:08:36.544275'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 95830bf0-45de-4a9f-b51b-143fab927fe1
-  name: Gus Bivona
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: c35f2259-a986-4141-8f2c-d0a431b71931
-  name: Tony Briglia
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 49481d99-73df-452f-b9be-30cece39beeb
-  name: Stanley Dennis
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7fd1abac-2626-41e5-abaf-1408a337bb3f
-  name: George van Eps
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: eb5a295c-9d83-4078-8d7d-eed81e15c468
-  name: Nick Fatool
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: cd161027-8d96-46f8-a5cd-812c763bee66
-  name: Gene Gifford
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 912162e0-757b-4968-ab20-49dae88d207c
-  name: Conrad Gozzo
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7c3536ff-db06-4052-844a-c4f79d71379f
-  name: Glen Gray
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 68aaf8e4-46be-43ae-8dc4-bded5820ec82
-  name: Joe Hall
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: 3b19113a-1e86-4219-9de0-9264f15764f7
-  name: Joe Hostetter
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ee7eb94a-f9cf-4016-8d0a-cea5e220181a
-  name: Pee Wee Hunt
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 583c757c-2364-42dc-9cb5-a6d0b5415890
-  name: Clarence Hutchenrider
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6ce4377c-0d3c-4a6f-a150-56fc8c1aa887
-  name: Bobby Lee Jones
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: 41c94207-e51b-4b4a-a11f-9de4e2ce147b
-  name: Frank Martinez
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b39631c9-8521-40f0-b046-fad098548540
-  name: Lew McCreary
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 884b480a-f72a-48e7-a2bf-fdcc200072f7
-  name: Murray McEachern
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d3eb828e-081c-4e91-8cdc-2a4e6c521456
-  name: Ted Nash
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0bcc2969-6d7c-4544-9de3-59c302dd1e5f
-  name: Billy Rauch
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f25e4299-ff7a-4cff-9947-4c9c11f76994
-  name: Meyer "Mike" Rubin
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 81503f0d-3435-4281-9068-c97930e1626a
-  name: Irving “Babe” Russin
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 48f6139a-7f19-416e-91aa-0943959db6e8
-  name: Frank Ryerson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d1afdecc-7019-424b-ac99-c77a0558400a
-  name: Kenny Sargent
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6abddd85-7e5e-4026-85bf-914456555951
-  name: Shorty Sherock
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8e273615-a6c7-41d0-9bda-ca3d1c84cfa4
-  name: Bob Shoffner
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8e4830eb-0011-41f8-8b92-427fafb47008
-  name: Walter Smith
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4d4d6b16-846f-4f78-90dd-42cea8b22a83
-  name: Grady Watts
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4ec41f8c-b399-4684-a361-a233e8e81a83
-  name: Si Zentner
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2eacc557-47b9-49e8-bade-a9240bd33ec1
-  name: Frank Zullo
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 95830bf0-45de-4a9f-b51b-143fab927fe1
+    name: Gus Bivona
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: c35f2259-a986-4141-8f2c-d0a431b71931
+    name: Tony Briglia
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 49481d99-73df-452f-b9be-30cece39beeb
+    name: Stanley Dennis
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7fd1abac-2626-41e5-abaf-1408a337bb3f
+    name: George van Eps
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: eb5a295c-9d83-4078-8d7d-eed81e15c468
+    name: Nick Fatool
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: cd161027-8d96-46f8-a5cd-812c763bee66
+    name: Gene Gifford
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 912162e0-757b-4968-ab20-49dae88d207c
+    name: Conrad Gozzo
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7c3536ff-db06-4052-844a-c4f79d71379f
+    name: Glen Gray
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 68aaf8e4-46be-43ae-8dc4-bded5820ec82
+    name: Joe Hall
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: 3b19113a-1e86-4219-9de0-9264f15764f7
+    name: Joe Hostetter
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ee7eb94a-f9cf-4016-8d0a-cea5e220181a
+    name: Pee Wee Hunt
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 583c757c-2364-42dc-9cb5-a6d0b5415890
+    name: Clarence Hutchenrider
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6ce4377c-0d3c-4a6f-a150-56fc8c1aa887
+    name: Bobby Lee Jones
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: 41c94207-e51b-4b4a-a11f-9de4e2ce147b
+    name: Frank Martinez
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b39631c9-8521-40f0-b046-fad098548540
+    name: Lew McCreary
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 884b480a-f72a-48e7-a2bf-fdcc200072f7
+    name: Murray McEachern
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d3eb828e-081c-4e91-8cdc-2a4e6c521456
+    name: Ted Nash
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0bcc2969-6d7c-4544-9de3-59c302dd1e5f
+    name: Billy Rauch
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f25e4299-ff7a-4cff-9947-4c9c11f76994
+    name: Meyer "Mike" Rubin
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 81503f0d-3435-4281-9068-c97930e1626a
+    name: Irving “Babe” Russin
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 48f6139a-7f19-416e-91aa-0943959db6e8
+    name: Frank Ryerson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d1afdecc-7019-424b-ac99-c77a0558400a
+    name: Kenny Sargent
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6abddd85-7e5e-4026-85bf-914456555951
+    name: Shorty Sherock
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8e273615-a6c7-41d0-9bda-ca3d1c84cfa4
+    name: Bob Shoffner
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8e4830eb-0011-41f8-8b92-427fafb47008
+    name: Walter Smith
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4d4d6b16-846f-4f78-90dd-42cea8b22a83
+    name: Grady Watts
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4ec41f8c-b399-4684-a361-a233e8e81a83
+    name: Si Zentner
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2eacc557-47b9-49e8-bade-a9240bd33ec1
+    name: Frank Zullo
 musical_connections:
   collaborators:
-  - Gene Gifford
-  - Glen Gray (Glen Gray Knoblauch)
-  - Hank Biagini
-  - Pee Wee Hunt
+    - Gene Gifford
+    - Glen Gray (Glen Gray Knoblauch)
+    - Hank Biagini
+    - Pee Wee Hunt
   influenced: []
   mentors:
-  - Gene Goldkette
-  - Francis 'Cork' O'Keefe
+    - Gene Goldkette
+    - Francis 'Cork' O'Keefe
 musicbrainz_id: 09d754f1-5218-4fdb-bd4f-42960915ab4a
 network_extracted: true
-origin: Detroit
+origin: 'Detroit, Michigan, United States'
 primary_source: perplexity
 research_sources:
-- https://syncopatedtimes.com/casa-loma-orchestra-a-vanguard-of-swing/
-- https://jazzhotbigstep.com/24285.html
-- https://www.swingcityradio.com/2021/05/casa-loma-orchestra.html
-- https://swingandbeyond.com/2017/06/17/smoke-rings-1937-glen-gray-and-the-casa-loma-orchestra/
-- https://www.allmusic.com/artist/casa-loma-orchestra-mn0000061617
-- https://adp.library.ucsb.edu/index.php/mastertalent/detail/104162/Casa_Loma_Orchestra
-- https://www.swingstreetradio.org/the-casa-loma-high-on-a-hill-and-high-in-popularity/
-- https://es.jango.com/music/Glen+Gray+The+Casa+Loma+Orchestra
+  - 'https://syncopatedtimes.com/casa-loma-orchestra-a-vanguard-of-swing/'
+  - 'https://jazzhotbigstep.com/24285.html'
+  - 'https://www.swingcityradio.com/2021/05/casa-loma-orchestra.html'
+  - >-
+    https://swingandbeyond.com/2017/06/17/smoke-rings-1937-glen-gray-and-the-casa-loma-orchestra/
+  - 'https://www.allmusic.com/artist/casa-loma-orchestra-mn0000061617'
+  - >-
+    https://adp.library.ucsb.edu/index.php/mastertalent/detail/104162/Casa_Loma_Orchestra
+  - >-
+    https://www.swingstreetradio.org/the-casa-loma-high-on-a-hill-and-high-in-popularity/
+  - 'https://es.jango.com/music/Glen+Gray+The+Casa+Loma+Orchestra'
 spotify_data:
   followers: 3638
   id: 2RLpFsSPsiB1LKXcDVac4Q
   popularity: 25
-  url: https://open.spotify.com/artist/2RLpFsSPsiB1LKXcDVac4Q
+  url: 'https://open.spotify.com/artist/2RLpFsSPsiB1LKXcDVac4Q'
 status: active
 tags:
-- big band
-- swing
-title: CASA LOMA ORCHESTRA
+  - big band
+  - swing
+title: Casa Loma Orchestra
 ---
 
 ![](casa_loma_orchestra.jpg)

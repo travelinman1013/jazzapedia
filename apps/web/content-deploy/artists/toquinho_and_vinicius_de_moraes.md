@@ -3,48 +3,55 @@ biography_enhanced_at: '2026-01-11T02:20:14.675165'
 enhancement_provider: perplexity
 entry_created: '2026-01-11T02:20:14.675169'
 external_urls:
-  spotify: https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd
-  wikipedia: https://en.wikipedia.org/wiki/Vinicius_de_Moraes
+  spotify: 'https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd'
+  wikipedia: 'https://en.wikipedia.org/wiki/Vinicius_de_Moraes'
 genres:
-- bossa nova
-- mpb
-- brazilian jazz
-- samba
-image_path: 03_Resources/source_material/ArtistPortraits/toquinho_and_vinicius_de_moraes.jpg
+  - bossa nova
+  - mpb
+  - brazilian jazz
+  - samba
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/toquinho_and_vinicius_de_moraes.jpg
 last_updated: '2026-01-11T02:20:14.675170'
 musical_connections:
   collaborators:
-  - Maria Creuza
-  - Ornella Vanoni
-  - Miúcha
-  - Tom Jobim
+    - Maria Creuza
+    - Ornella Vanoni
+    - Miúcha
+    - Tom Jobim
   influenced:
-  - Later generations of MPB and bossa nova performers (e.g., contemporary Brazilian
-    jazz and samba singers who keep their repertoire)
+    - >-
+      Later generations of MPB and bossa nova performers (e.g., contemporary
+      Brazilian jazz and samba singers who keep their repertoire)
   mentors:
-  - Antônio Carlos Jobim
-  - Baden Powell
+    - Antônio Carlos Jobim
+    - Baden Powell
 network_extracted: true
-origin: Rio de Janeiro, Rio de Janeiro, Brazil (Vinicius de Moraes) / São Paulo, São
+origin: >-
+  Rio de Janeiro, Rio de Janeiro, Brazil (Vinicius de Moraes) / São Paulo, São
   Paulo, Brazil (Toquinho)
 primary_source: perplexity
 research_sources:
-- https://www.viniciusdemoraes.com.br/en/bio/vinicius
-- https://en.wikipedia.org/wiki/Vinicius_de_Moraes
-- https://www.legacyandalchemy.com/post/honoring-vinicius-1913-1980
-- https://www.slipcue.com/music/brazil/vinicius.html
-- https://pt.wikipedia.org/wiki/Vinicius_de_Moraes
-- https://www.latinolife.co.uk/articles/me-and-my-namesake-vinicius-de-moraes
-- https://www.catalannews.com/culture/item/toquinho-bossa-novaporta-ferrada-festival
-- https://latinjazznet.com/featured/in-search-of-vinicius-de-moraes/
-- https://www.allmusic.com/artist/toquinho-mn0000162040
+  - 'https://www.viniciusdemoraes.com.br/en/bio/vinicius'
+  - 'https://en.wikipedia.org/wiki/Vinicius_de_Moraes'
+  - 'https://www.legacyandalchemy.com/post/honoring-vinicius-1913-1980'
+  - 'https://www.slipcue.com/music/brazil/vinicius.html'
+  - 'https://pt.wikipedia.org/wiki/Vinicius_de_Moraes'
+  - 'https://www.latinolife.co.uk/articles/me-and-my-namesake-vinicius-de-moraes'
+  - >-
+    https://www.catalannews.com/culture/item/toquinho-bossa-novaporta-ferrada-festival
+  - 'https://latinjazznet.com/featured/in-search-of-vinicius-de-moraes/'
+  - 'https://www.allmusic.com/artist/toquinho-mn0000162040'
 spotify_data:
   followers: 650279
   id: 5HlnN6xF2MD87KhGRmCRTd
   popularity: 61
-  url: https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd
+  url: 'https://open.spotify.com/artist/5HlnN6xF2MD87KhGRmCRTd'
 status: active
 title: Toquinho & Vinicius de Moraes
+birth_place: 'São Paulo, São Paulo, Brazil'
+death_date: '1980'
+artist_type: band
 ---
 
 ![](toquinho_and_vinicius_de_moraes.jpg)

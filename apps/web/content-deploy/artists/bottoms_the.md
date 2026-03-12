@@ -3,37 +3,38 @@ biography_enhanced_at: '2026-01-20T01:21:12.034805'
 enhancement_provider: perplexity
 entry_created: '2026-01-20T01:21:12.034814'
 external_urls:
-  spotify: https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS
-  wikipedia: https://en.wikipedia.org/wiki/The_Front_Bottoms
+  spotify: 'https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Front_Bottoms'
 genres:
-- midwest emo
-- folk punk
-- emo
+  - midwest emo
+  - folk punk
+  - emo
 image_path: 03_Resources/source_material/ArtistPortraits/bottoms_the.jpg
 last_updated: '2026-01-20T01:21:12.034815'
 musical_connections:
   collaborators:
-  - Brian Uychich
-  - Bar/None Records
-  - Fueled by Ramen
-  - GDP
+    - Brian Uychich
+    - Bar/None Records
+    - Fueled by Ramen
+    - GDP
   influenced: []
   mentors: []
 network_extracted: true
-origin: Woodcliff Lake, New Jersey, United States
+origin: 'Woodcliff Lake, New Jersey, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Front_Bottoms
-- https://www.bar-none.com/the-front-bottoms
-- https://www.rialtotheatre.com/tm-attraction/the-front-bottoms/
-- https://music.youtube.com/channel/UCLZfDGIQ_bIRdBr2MXR6Uhw
+  - 'https://en.wikipedia.org/wiki/The_Front_Bottoms'
+  - 'https://www.bar-none.com/the-front-bottoms'
+  - 'https://www.rialtotheatre.com/tm-attraction/the-front-bottoms/'
+  - 'https://music.youtube.com/channel/UCLZfDGIQ_bIRdBr2MXR6Uhw'
 spotify_data:
   followers: 902980
   id: 5ictveRyhWRs8Gt8Dvt1hS
   popularity: 63
-  url: https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS
+  url: 'https://open.spotify.com/artist/5ictveRyhWRs8Gt8Dvt1hS'
 status: active
-title: Bottoms, The
+title: The Front Bottoms
+artist_type: band
 ---
 
 ![](bottoms_the.jpg)

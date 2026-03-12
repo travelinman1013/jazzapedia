@@ -1,37 +1,40 @@
 ---
 biography_enhanced_at: '2026-01-06T02:09:48.294711'
-birth_place: Pennsylvania, United States
+birth_place: 'Pennsylvania, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-06T02:09:48.294717'
 external_urls:
-  spotify: https://open.spotify.com/artist/452jxX4wdAbIZwcYeF0S9z
-  wikipedia: https://en.wikipedia.org/wiki/Blind_Joe_Hill
+  spotify: 'https://open.spotify.com/artist/452jxX4wdAbIZwcYeF0S9z'
+  wikipedia: 'https://en.wikipedia.org/wiki/Blind_Joe_Hill'
 genres:
-- boogie-woogie
+  - boogie-woogie
 image_path: ''
 last_updated: '2026-01-06T02:09:48.294718'
 musical_connections:
   collaborators:
-  - William Clarke
-  - George Smith
+    - William Clarke
+    - George Smith
   influenced: []
   mentors:
-  - Joe Hill Louis
-  - Doctor Ross
+    - Joe Hill Louis
+    - Doctor Ross
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Blind_Joe_Hill
-- https://www.allaboutbluesmusic.com/blind-joe-hill/
-- https://www.allmusic.com/artist/blind-joe-hill-mn0001329739
-- https://www.wirz.de/music/bljoehil.htm
+  - 'https://en.wikipedia.org/wiki/Blind_Joe_Hill'
+  - 'https://www.allaboutbluesmusic.com/blind-joe-hill/'
+  - 'https://www.allmusic.com/artist/blind-joe-hill-mn0001329739'
+  - 'https://www.wirz.de/music/bljoehil.htm'
 spotify_data:
   followers: 46
   id: 452jxX4wdAbIZwcYeF0S9z
   popularity: 0
-  url: https://open.spotify.com/artist/452jxX4wdAbIZwcYeF0S9z
+  url: 'https://open.spotify.com/artist/452jxX4wdAbIZwcYeF0S9z'
 status: active
-title: BLIND JOE HILL
+title: Blind Joe Hill
+birth_date: '1931-01-07'
+death_date: '1999-11-17'
+artist_type: person
 ---
 
 ![]()

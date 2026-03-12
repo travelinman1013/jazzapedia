@@ -1,90 +1,90 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6d2b4112-befc-4421-9b9e-72514b640497
-  name: Gilfema
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 16d4ff00-464e-499f-b13a-05e2c8aa2b81
-  name: Aziza
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a475738b-d51d-4a0d-9de2-724e909435c3
-  name: Blue Note All‐Stars
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 502ab12e-0090-4d90-a613-ee0c826f28cb
-  name: The Chick Corea + Steve Gadd Band
-- begin: ''
-  end: ''
-  instruments:
-  - keyboard
-  mbid: a78219b4-142c-4dc4-b9ce-c6a4485be235
-  name: Rudi Teuscher
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6d2b4112-befc-4421-9b9e-72514b640497
+    name: Gilfema
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 16d4ff00-464e-499f-b13a-05e2c8aa2b81
+    name: Aziza
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a475738b-d51d-4a0d-9de2-724e909435c3
+    name: Blue Note All‐Stars
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 502ab12e-0090-4d90-a613-ee0c826f28cb
+    name: The Chick Corea + Steve Gadd Band
+  - begin: ''
+    end: ''
+    instruments:
+      - keyboard
+    mbid: a78219b4-142c-4dc4-b9ce-c6a4485be235
+    name: Rudi Teuscher
 biography_enhanced_at: '2025-12-25T01:06:38.614473'
 birth_date: '1973-04-27'
-birth_place: Cotonou
+birth_place: 'Cotonou, Benin, West Africa'
 enhancement_provider: perplexity
 entry_created: '2025-12-25T01:06:38.614485'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7aa056f7-9a57-4cdc-b856-6aa12c98624f
-  spotify: https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig
-  wikipedia: https://en.wikipedia.org/wiki/Lionel_Loueke
+  musicbrainz: 'https://musicbrainz.org/artist/7aa056f7-9a57-4cdc-b856-6aa12c98624f'
+  spotify: 'https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lionel_Loueke'
 gender: Male
 genres:
-- jazz
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/lionel_loueke.jpg
 instruments:
-- keyboard
-- guitar
-- electric guitar
-- other vocals
+  - keyboard
+  - guitar
+  - electric guitar
+  - other vocals
 last_updated: '2025-12-25T01:06:38.614487'
 musical_connections:
   collaborators:
-  - Massimo Biolcati
-  - Ferenc Nemeth
-  - Herbie Hancock
-  - Terence Blanchard
-  - Charlie Haden
-  - Magos Herrera
-  - Robert Glasper
-  - Wayne Shorter, Dave Holland, Brian Blade
+    - Massimo Biolcati
+    - Ferenc Nemeth
+    - Herbie Hancock
+    - Terence Blanchard
+    - Charlie Haden
+    - Magos Herrera
+    - Robert Glasper
+    - 'Wayne Shorter, Dave Holland, Brian Blade'
   influenced:
-  - Younger jazz guitarists integrating African polyrhythms
+    - Younger jazz guitarists integrating African polyrhythms
   mentors:
-  - Herbie Hancock
-  - Terence Blanchard
-  - Wayne Shorter
-  - George Benson
+    - Herbie Hancock
+    - Terence Blanchard
+    - Wayne Shorter
+    - George Benson
 musicbrainz_id: 7aa056f7-9a57-4cdc-b856-6aa12c98624f
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- United States Artists – Lionel Loueke[1]
-- Blue Note Records – Lionel Loueke artist biography[2]
-- 'JazzTimes profile: "Lionel Loueke: African American"[3]'
-- Litchfield Jazz Festival – Lionel Loueke Trio bio[4]
-- LA Phil – Lionel Loueke and Gilfema artist bio[5]
-- Ted Panken profile and interviews collection on Lionel Loueke[6]
-- Jazz Empowers – Lionel Loueke bio[8]
-- 'Innerviews – "Lionel Loueke: Linking Worlds"[9]'
+  - 'United States Artists – Lionel Loueke[1]'
+  - 'Blue Note Records – Lionel Loueke artist biography[2]'
+  - 'JazzTimes profile: "Lionel Loueke: African American"[3]'
+  - 'Litchfield Jazz Festival – Lionel Loueke Trio bio[4]'
+  - 'LA Phil – Lionel Loueke and Gilfema artist bio[5]'
+  - 'Ted Panken profile and interviews collection on Lionel Loueke[6]'
+  - 'Jazz Empowers – Lionel Loueke bio[8]'
+  - 'Innerviews – "Lionel Loueke: Linking Worlds"[9]'
 spotify_data:
   followers: 33755
   id: 6q6EXv5ybArXqifMdmTIig
   popularity: 35
-  url: https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig
+  url: 'https://open.spotify.com/artist/6q6EXv5ybArXqifMdmTIig'
 status: active
 tags:
-- jazz
-- jazz and blues
-- world fusion
+  - jazz
+  - jazz and blues
+  - world fusion
 title: Lionel Loueke
 ---
 

@@ -1,33 +1,33 @@
 ---
-title: junior kimbrough
+title: Junior Kimbrough
 wiki_slug: junior-kimbrough
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1930-07-28'
-birth_place: Hudsonville, Mississippi, United States
+birth_place: 'Hudsonville, Mississippi, United States'
 death_date: '1998-01-17'
 genres:
-- blues
-- country blues
-- classic blues
+  - blues
+  - country blues
+  - classic blues
 instruments:
-- eponymous
-- guitar
-- lead vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
-  mbid: d83c714c-9260-4db4-8d1b-b5334b67018a
-  name: Junior Kimbrough & The Soul Blues Boys
+  - guitar
+  - lead vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: d83c714c-9260-4db4-8d1b-b5334b67018a
+    name: Junior Kimbrough & The Soul Blues Boys
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/junior_kimbrough.jpg
   caption: junior kimbrough
   background: solo_singer
   born: '1930-07-28'
-  origin: Hudsonville, Mississippi, United States
+  origin: 'Hudsonville, Mississippi, United States'
   died: '1998-01-17'
 audio_profile:
   tempo_avg: 133.9
@@ -44,61 +44,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - R.L. Burnside
-  - Kent 'Kinney' Kimbrough
-  - Garry Burnside
-  - Charlie Feathers
+    - R.L. Burnside
+    - Kent 'Kinney' Kimbrough
+    - Garry Burnside
+    - Charlie Feathers
   influenced:
-  - The Black Keys
-  - Iggy Pop & The Stooges
-  - Mark Lanegan
-  - Richard Johnston
+    - The Black Keys
+    - Iggy Pop & The Stooges
+    - Mark Lanegan
+    - Richard Johnston
   mentors:
-  - David Kimbrough Sr.
-  - Lightnin’ Hopkins
-  - Mississippi Fred McDowell
-  - Eli Green
+    - David Kimbrough Sr.
+    - Lightnin’ Hopkins
+    - Mississippi Fred McDowell
+    - Eli Green
 spotify_data:
   followers: 80170
   id: 03HEHGJoLPdARs4nrtUidr
   popularity: 37
-  url: https://open.spotify.com/artist/03HEHGJoLPdARs4nrtUidr
+  url: 'https://open.spotify.com/artist/03HEHGJoLPdARs4nrtUidr'
 discography_enriched: true
 top_tracks:
-- Meet Me in the City (First Recordings)
-- 'Feels so Good #1 (First Recordings)'
-- I Gotta Try You Girl (God Knows I Tried)
-- Meet Me in the City (Meet Me in the City)
-- Most Things Haven't Worked Out (Most Things Haven't Worked Out)
-- Do the Romp (All Night Long)
-- Lonesome in My Home (First Recordings)
-- Done Got Old (First Recordings)
-- Feels so Bad - Previously Unreleased Take
-- 'Feels so Good #2 (First Recordings)'
+  - Meet Me in the City (First Recordings)
+  - 'Feels so Good #1 (First Recordings)'
+  - I Gotta Try You Girl (God Knows I Tried)
+  - Meet Me in the City (Meet Me in the City)
+  - Most Things Haven't Worked Out (Most Things Haven't Worked Out)
+  - Do the Romp (All Night Long)
+  - Lonesome in My Home (First Recordings)
+  - Done Got Old (First Recordings)
+  - Feels so Bad - Previously Unreleased Take
+  - 'Feels so Good #2 (First Recordings)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7032cf8a-ca2e-48c4-bffe-a9a77e223bbb
-  spotify: https://open.spotify.com/artist/03HEHGJoLPdARs4nrtUidr
-  wikipedia: https://en.wikipedia.org/wiki/Junior_Kimbrough
+  musicbrainz: 'https://musicbrainz.org/artist/7032cf8a-ca2e-48c4-bffe-a9a77e223bbb'
+  spotify: 'https://open.spotify.com/artist/03HEHGJoLPdARs4nrtUidr'
+  wikipedia: 'https://en.wikipedia.org/wiki/Junior_Kimbrough'
 image_path: 03_Resources/source_material/ArtistPortraits/junior_kimbrough.jpg
 biography_enhanced_at: '2025-10-22T09:29:03.205973'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://mojohand.com/glossary/junior-kimbrough/
-- https://blues.org/blues_hof_inductee/junior-kimbrough/
-- https://bigtrainblues.com/junior-kimbrough/
-- https://mississippiencyclopedia.org/entries/junior-kimbrough/
-- https://fatpossum.com/collections/junior-kimbrough
-- https://msbluestrail.org/blues-trail-markers/junior-kimbrough
-- https://www.motherjones.com/politics/2010/07/long-life-and-short-fame-bluesman-junior-kimbrough/
+  - 'https://mojohand.com/glossary/junior-kimbrough/'
+  - 'https://blues.org/blues_hof_inductee/junior-kimbrough/'
+  - 'https://bigtrainblues.com/junior-kimbrough/'
+  - 'https://mississippiencyclopedia.org/entries/junior-kimbrough/'
+  - 'https://fatpossum.com/collections/junior-kimbrough'
+  - 'https://msbluestrail.org/blues-trail-markers/junior-kimbrough'
+  - >-
+    https://www.motherjones.com/politics/2010/07/long-life-and-short-fame-bluesman-junior-kimbrough/
 network_extracted: true
 entry_created: '2025-10-22T09:29:03.205982'
 last_updated: '2025-12-23T08:16:11.084737'
 gender: Male
 musicbrainz_id: 7032cf8a-ca2e-48c4-bffe-a9a77e223bbb
 tags:
-- blues
-- hill country blues
+  - blues
+  - hill country blues
+is_active: false
+origin: 'Holly Springs, Mississippi, United States'
 ---
 
 ![](junior_kimbrough.jpg)

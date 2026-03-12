@@ -1,12 +1,13 @@
 ---
-title: ORIGINAL TUXEDO JAZZ ORCHESTRA
+title: The Original Tuxedo Jazz Orchestra
 wiki_slug: original-tuxedo-jazz-orchestra
 schema_version: 2
 status: active
 genres:
-- ragtime
+  - ragtime
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/original_tuxedo_jazz_orchestra.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/original_tuxedo_jazz_orchestra.jpg
   caption: ORIGINAL TUXEDO JAZZ ORCHESTRA
   background: solo_singer
 audio_profile:
@@ -24,49 +25,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Louis Armstrong
-  - Albert 'Papa' French
-  - Gerald French
+    - Louis Armstrong
+    - Albert 'Papa' French
+    - Gerald French
   influenced:
-  - New Orleans Jazz Revival Movement
+    - New Orleans Jazz Revival Movement
   mentors:
-  - Joe 'King' Oliver
+    - Joe 'King' Oliver
 spotify_data:
   followers: 167
   id: 1Ji5J73wyqME5Gg02RoOj8
   popularity: 0
-  url: https://open.spotify.com/artist/1Ji5J73wyqME5Gg02RoOj8
+  url: 'https://open.spotify.com/artist/1Ji5J73wyqME5Gg02RoOj8'
 discography_enriched: true
 top_tracks:
-- Original Tuxedo Rag (Original Bugle Blues)
-- Black Rag (Jazz New Orleans 1918-1944)
-- Black Rag (The Very Best Of Jazz Sessions)
-- Careless Love (The Very Best Of Jazz Sessions)
-- Careless Love - Original (New Orleans - The Cradle Of Jazz CD1)
-- Original Tuxedo Rag (New Orleans in the '20s 1924-1925)
-- Careless Love (New Orleans in the '20s 1924-1925)
-- Black Rag (New Orleans in the '20s 1924-1925)
-- Original Tuxedo Rag (Classic Jazz- The World's Greatest Jazz Collection - From New Orleans to Harlem, Vol. 7)
-- Careless Love (Classic Jazz- The World's Greatest Jazz Collection - From New Orleans to Harlem, Vol. 7)
+  - Original Tuxedo Rag (Original Bugle Blues)
+  - Black Rag (Jazz New Orleans 1918-1944)
+  - Black Rag (The Very Best Of Jazz Sessions)
+  - Careless Love (The Very Best Of Jazz Sessions)
+  - Careless Love - Original (New Orleans - The Cradle Of Jazz CD1)
+  - Original Tuxedo Rag (New Orleans in the '20s 1924-1925)
+  - Careless Love (New Orleans in the '20s 1924-1925)
+  - Black Rag (New Orleans in the '20s 1924-1925)
+  - >-
+    Original Tuxedo Rag (Classic Jazz- The World's Greatest Jazz Collection -
+    From New Orleans to Harlem, Vol. 7)
+  - >-
+    Careless Love (Classic Jazz- The World's Greatest Jazz Collection - From New
+    Orleans to Harlem, Vol. 7)
 external_urls:
-  spotify: https://open.spotify.com/artist/1Ji5J73wyqME5Gg02RoOj8
-  wikipedia: https://en.wikipedia.org/wiki/Tuxedo_Brass_Band
-image_path: 03_Resources/source_material/ArtistPortraits/original_tuxedo_jazz_orchestra.jpg
+  spotify: 'https://open.spotify.com/artist/1Ji5J73wyqME5Gg02RoOj8'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tuxedo_Brass_Band'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/original_tuxedo_jazz_orchestra.jpg
 biography_enhanced_at: '2025-11-27T06:31:32.888499'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- 64parishes.org - Papa Celestin
-- mps-music.com - The Original Tuxedo 'Jass' Band
-- veritenews.org - Oscar 'Papa' Celestin White House Jazz
-- en.wikipedia.org - Tuxedo Brass Band
-- jazztimes.com - Gerald French & The Original Tuxedo Jazz Band
-- neworleans.com - Original Tuxedo Jazz Band
-- syncopatedtimes.com - Original Tuxedo Jazz Orchestra
+  - 64parishes.org - Papa Celestin
+  - mps-music.com - The Original Tuxedo 'Jass' Band
+  - veritenews.org - Oscar 'Papa' Celestin White House Jazz
+  - en.wikipedia.org - Tuxedo Brass Band
+  - jazztimes.com - Gerald French & The Original Tuxedo Jazz Band
+  - neworleans.com - Original Tuxedo Jazz Band
+  - syncopatedtimes.com - Original Tuxedo Jazz Orchestra
 network_extracted: true
 entry_created: '2025-11-27T06:31:32.888518'
 last_updated: '2025-12-23T08:16:13.797543'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![](original_tuxedo_jazz_orchestra.jpg)

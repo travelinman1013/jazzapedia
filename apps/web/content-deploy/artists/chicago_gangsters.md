@@ -3,34 +3,35 @@ biography_enhanced_at: '2026-01-09T02:10:39.126919'
 enhancement_provider: perplexity
 entry_created: '2026-01-09T02:10:39.126928'
 external_urls:
-  spotify: https://open.spotify.com/artist/0cB7AM7IbQjRpZQQbTKZZF
+  spotify: 'https://open.spotify.com/artist/0cB7AM7IbQjRpZQQbTKZZF'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/chicago_gangsters.jpg
 last_updated: '2026-01-09T02:10:39.126929'
 musical_connections:
   collaborators:
-  - James McCants
-  - Sam McCants
-  - Chris McCants
-  - Leroy McCants
+    - James McCants
+    - Sam McCants
+    - Chris McCants
+    - Leroy McCants
   influenced: []
   mentors: []
 network_extracted: true
-origin: Akron, Ohio, United States
+origin: 'Akron, Ohio, United States'
 primary_source: perplexity
 research_sources:
-- https://www.allmusic.com/artist/chicago-gangsters-mn0001363072
-- https://www.ccmusic.com/gangster-love/051617103929
-- https://www.classic45s.com/collections/the-chicago-gangsters
-- https://www.tracklib.com/music/artists/chicago-gangsters
+  - 'https://www.allmusic.com/artist/chicago-gangsters-mn0001363072'
+  - 'https://www.ccmusic.com/gangster-love/051617103929'
+  - 'https://www.classic45s.com/collections/the-chicago-gangsters'
+  - 'https://www.tracklib.com/music/artists/chicago-gangsters'
 spotify_data:
   followers: 10296
   id: 0cB7AM7IbQjRpZQQbTKZZF
   popularity: 35
-  url: https://open.spotify.com/artist/0cB7AM7IbQjRpZQQbTKZZF
+  url: 'https://open.spotify.com/artist/0cB7AM7IbQjRpZQQbTKZZF'
 status: active
 title: Chicago Gangsters
+artist_type: band
 ---
 
 ![](chicago_gangsters.jpg)

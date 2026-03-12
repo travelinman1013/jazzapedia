@@ -1,40 +1,41 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2025-12-25T01:19:06.008647'
 disambiguation: New Orleans
 enhancement_provider: perplexity
 entry_created: '2025-12-25T01:19:06.008656'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/af95c8de-1e7a-4c1d-a092-239cd9408c5a
-  spotify: https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW
-  wikipedia: https://www.wikiwand.com/en/articles/Video_Age
+  musicbrainz: 'https://musicbrainz.org/artist/af95c8de-1e7a-4c1d-a092-239cd9408c5a'
+  spotify: 'https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW'
+  wikipedia: 'https://www.wikiwand.com/en/articles/Video_Age'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/video_age.jpg
 last_updated: '2025-12-25T01:19:06.008657'
 musical_connections:
   collaborators:
-  - Nick Corson
-  - Duncan Troast
-  - Drugdealer
-  - Esther Rose
-  - Fishplate
+    - Nick Corson
+    - Duncan Troast
+    - Drugdealer
+    - Esther Rose
+    - Fishplate
   influenced: []
   mentors: []
 musicbrainz_id: af95c8de-1e7a-4c1d-a092-239cd9408c5a
 network_extracted: true
-origin: New Orleans, Louisiana, USA
+origin: 'New Orleans, Louisiana, USA'
 primary_source: perplexity
 research_sources:
-- https://www.thefader.com/2023/09/06/watch-video-age-better-than-ever
-- https://complexdistractions.blog/2023/11/10/video-age-away-from-the-castle/
-- https://americansongwriter.com/video-ages-pleasure-line-is-their-grandest-grooviest-record-to-date/
-- https://winspear.biz/video-age
-- https://www.wikiwand.com/en/articles/Video_Age
+  - 'https://www.thefader.com/2023/09/06/watch-video-age-better-than-ever'
+  - 'https://complexdistractions.blog/2023/11/10/video-age-away-from-the-castle/'
+  - >-
+    https://americansongwriter.com/video-ages-pleasure-line-is-their-grandest-grooviest-record-to-date/
+  - 'https://winspear.biz/video-age'
+  - 'https://www.wikiwand.com/en/articles/Video_Age'
 spotify_data:
   followers: 42414
   id: 4aTQ05Ddh21E2CJFSZy7ZW
   popularity: 38
-  url: https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW
+  url: 'https://open.spotify.com/artist/4aTQ05Ddh21E2CJFSZy7ZW'
 status: active
 title: Video Age
 ---

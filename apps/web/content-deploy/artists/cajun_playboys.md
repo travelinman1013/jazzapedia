@@ -2,16 +2,16 @@
 title: Cajun Playboys
 wiki_slug: cajun-playboys
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 instruments:
-- double bass
-- fiddle
-- drums (drum set)
-- accordion
+  - double bass
+  - fiddle
+  - drums (drum set)
+  - accordion
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/cajun_playboys.jpg
   caption: Cajun Playboys
@@ -31,82 +31,83 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Aldus Roger
-  - Gladey Thibodeaux
+    - Aldus Roger
+    - Gladey Thibodeaux
   influenced:
-  - Steve Riley and the Mamou Playboys
+    - Steve Riley and the Mamou Playboys
   mentors:
-  - Dewey Balfa
+    - Dewey Balfa
 spotify_data:
   followers: 2527
   id: 3T4iiRYpO7mGUJhk0kHO37
   popularity: 14
-  url: https://open.spotify.com/artist/3T4iiRYpO7mGUJhk0kHO37
+  url: 'https://open.spotify.com/artist/3T4iiRYpO7mGUJhk0kHO37'
 discography_enriched: true
 top_tracks:
-- Dance De Mardi Gras (Cajun Party!)
-- Dance, Cajun, Dance (Cajun Party!)
-- Jambalaya (Cajun Party!)
-- Jolie Blonde (Cajun Party!)
-- Allons a Lafayette (Cajun Party!)
-- Lafayette Breakdown (Pure Cajun)
-- Bosco Stomp (Pure Cajun)
-- Johnny Can't Dance (Cajun Party!)
-- Colinda (Cajun Party!)
-- Opelousas Sostan (Cajun Party!)
+  - Dance De Mardi Gras (Cajun Party!)
+  - 'Dance, Cajun, Dance (Cajun Party!)'
+  - Jambalaya (Cajun Party!)
+  - Jolie Blonde (Cajun Party!)
+  - Allons a Lafayette (Cajun Party!)
+  - Lafayette Breakdown (Pure Cajun)
+  - Bosco Stomp (Pure Cajun)
+  - Johnny Can't Dance (Cajun Party!)
+  - Colinda (Cajun Party!)
+  - Opelousas Sostan (Cajun Party!)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e0b94d05-b4e1-4b1c-9374-ae5f5963bdec
-  spotify: https://open.spotify.com/artist/3T4iiRYpO7mGUJhk0kHO37
-  wikipedia: https://en.wikipedia.org/wiki/Lafayette_Playboys
+  musicbrainz: 'https://musicbrainz.org/artist/e0b94d05-b4e1-4b1c-9374-ae5f5963bdec'
+  spotify: 'https://open.spotify.com/artist/3T4iiRYpO7mGUJhk0kHO37'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lafayette_Playboys'
 image_path: 03_Resources/source_material/ArtistPortraits/cajun_playboys.jpg
 biography_enhanced_at: '2025-11-17T10:44:52.950537'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Lafayette_Playboys
-- https://www.explorelouisiana.com/articles/famous-louisiana-cajun-musician-biographies
-- https://savoy music center
+  - 'https://en.wikipedia.org/wiki/Lafayette_Playboys'
+  - >-
+    https://www.explorelouisiana.com/articles/famous-louisiana-cajun-musician-biographies
+  - 'https://savoy music center'
 network_extracted: true
 entry_created: '2025-11-17T10:44:52.950548'
 last_updated: '2025-12-23T08:16:06.292944'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - double bass
-  mbid: f8a9f40a-9107-4aae-9975-2346dd97697a
-  name: Peter Choates
-- begin: ''
-  end: ''
-  instruments:
-  - fiddle
-  mbid: f8a9f40a-9107-4aae-9975-2346dd97697a
-  name: Peter Choates
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 2a7fbb3e-e37e-4882-892f-54604f18e479
-  name: Kevin Dugas
-- begin: ''
-  end: ''
-  instruments:
-  - accordion
-  mbid: d41c2c5e-d322-42ee-98f2-8c7c06b2978b
-  name: Sammy Naquin
-- begin: ''
-  end: ''
-  instruments:
-  - fiddle
-  mbid: 520aa38e-e165-4c42-be51-786d21f41272
-  name: Roscoe Thériot
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: dd0c0b78-299c-411f-8dd8-553f5108716e
-  name: Frank Barzas
+  - begin: ''
+    end: ''
+    instruments:
+      - double bass
+    mbid: f8a9f40a-9107-4aae-9975-2346dd97697a
+    name: Peter Choates
+  - begin: ''
+    end: ''
+    instruments:
+      - fiddle
+    mbid: f8a9f40a-9107-4aae-9975-2346dd97697a
+    name: Peter Choates
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 2a7fbb3e-e37e-4882-892f-54604f18e479
+    name: Kevin Dugas
+  - begin: ''
+    end: ''
+    instruments:
+      - accordion
+    mbid: d41c2c5e-d322-42ee-98f2-8c7c06b2978b
+    name: Sammy Naquin
+  - begin: ''
+    end: ''
+    instruments:
+      - fiddle
+    mbid: 520aa38e-e165-4c42-be51-786d21f41272
+    name: Roscoe Thériot
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: dd0c0b78-299c-411f-8dd8-553f5108716e
+    name: Frank Barzas
 musicbrainz_id: e0b94d05-b4e1-4b1c-9374-ae5f5963bdec
-origin: Louisiana, United States
+origin: 'Louisiana, United States'
 ---
 
 ![](cajun_playboys.jpg)

@@ -1,13 +1,13 @@
 ---
-title: THE O'JAYS
+title: The O'Jays
 wiki_slug: the-ojays
 schema_version: 2
 status: active
 genres:
-- philly soul
-- motown
-- quiet storm
-- soul
+  - philly soul
+  - motown
+  - quiet storm
+  - soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_ojays.jpg
   caption: THE O'JAYS
@@ -18,7 +18,7 @@ audio_profile:
   valence_avg: 0.63
   danceability_avg: 0.605
   acousticness_avg: 0.378
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -9.8
   speechiness_avg: 0.058
   liveness_avg: 0.274
@@ -27,48 +27,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kenny Gamble and Leon Huff
-  - William Powell
-  - Sammy Strain
-  - Bobby Massey
-  - Bill Isles
+    - Kenny Gamble and Leon Huff
+    - William Powell
+    - Sammy Strain
+    - Bobby Massey
+    - Bill Isles
   influenced: []
   mentors:
-  - Eddie O'Jay
+    - Eddie O'Jay
 spotify_data:
   followers: 1412261
   id: 38h03gA85YYPeDPd9ER9rT
   popularity: 54
-  url: https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT
+  url: 'https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT'
 discography_enriched: true
 top_tracks:
-- Love Train (Back Stabbers)
-- Back Stabbers (Back Stabbers)
-- For the Love of Money (Ship Ahoy (Expanded Edition))
-- Now That We Found Love (Ship Ahoy (Expanded Edition))
-- Use ta Be My Girl - Single Version
-- I Love Music (Family Reunion (Expanded Edition))
-- Forever Mine (Identify Yourself)
-- Darlin' Darlin' Baby (Sweet, Tender, Love) (Message In The Music)
-- Lovin' You (Let Me Touch You)
-- Cause I Want You Back Again (Let Me Touch You)
+  - Love Train (Back Stabbers)
+  - Back Stabbers (Back Stabbers)
+  - For the Love of Money (Ship Ahoy (Expanded Edition))
+  - Now That We Found Love (Ship Ahoy (Expanded Edition))
+  - Use ta Be My Girl - Single Version
+  - I Love Music (Family Reunion (Expanded Edition))
+  - Forever Mine (Identify Yourself)
+  - 'Darlin'' Darlin'' Baby (Sweet, Tender, Love) (Message In The Music)'
+  - Lovin' You (Let Me Touch You)
+  - Cause I Want You Back Again (Let Me Touch You)
 external_urls:
-  spotify: https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT
+  spotify: 'https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/the_ojays.jpg
 biography_enhanced_at: '2025-10-24T07:44:17.190889'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://blackpast.org/african-american-history/the-ojays-1958-2019/
-- https://www.britannica.com/topic/the-OJays
-- https://www.classicbands.com/ojays.html
-- https://wers.org/the-vault-of-soul-the-ojays/
+  - 'https://blackpast.org/african-american-history/the-ojays-1958-2019/'
+  - 'https://www.britannica.com/topic/the-OJays'
+  - 'https://www.classicbands.com/ojays.html'
+  - 'https://wers.org/the-vault-of-soul-the-ojays/'
 network_extracted: true
 entry_created: '2025-10-24T07:44:17.190898'
 last_updated: '2025-12-23T08:16:17.022056'
-origin: Canton, Ohio, United States
-
+origin: 'Canton, Ohio, United States'
+birth_place: 'Bessemer, Alabama, United States'
+birth_date: '1942-06-16'
+artist_type: band
 ---
 
 ![](the_ojays.jpg)

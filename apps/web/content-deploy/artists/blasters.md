@@ -1,12 +1,12 @@
 ---
-title: blasters
+title: The Blasters
 wiki_slug: blasters
 schema_version: 2
 status: active
 genres:
-- rockabilly
-- roots rock
-- psychobilly
+  - rockabilly
+  - roots rock
+  - psychobilly
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/blasters.jpg
   caption: blasters
@@ -26,52 +26,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Phil Alvin
-  - Dave Alvin
-  - John Bazz
-  - Bill Bateman
-  - Gene Taylor
-  - Lee Allen
-  - Keith Wyatt
+    - Phil Alvin
+    - Dave Alvin
+    - John Bazz
+    - Bill Bateman
+    - Gene Taylor
+    - Lee Allen
+    - Keith Wyatt
   influenced:
-  - Los Lobos
-  - Dwight Yoakam
-  - X
+    - Los Lobos
+    - Dwight Yoakam
+    - X
   mentors:
-  - T-Bone Walker
-  - Big Joe Turner
+    - T-Bone Walker
+    - Big Joe Turner
 spotify_data:
   followers: 42004
   id: 5dr7fkIRO4K14g7U8SCue5
   popularity: 37
-  url: https://open.spotify.com/artist/5dr7fkIRO4K14g7U8SCue5
+  url: 'https://open.spotify.com/artist/5dr7fkIRO4K14g7U8SCue5'
 discography_enriched: true
 top_tracks:
-- Dark Night (Hard Line)
-- Dark Night
-- I'm Shakin' (The Blasters)
-- I'm Shakin'
-- One Bad Stud
-- Blue Shadows
-- Marie Marie
-- So Long Baby Goodbye
-- Marie Marie (The Blasters)
-- So Long Baby Goodbye (The Blasters Collection)
+  - Dark Night (Hard Line)
+  - Dark Night
+  - I'm Shakin' (The Blasters)
+  - I'm Shakin'
+  - One Bad Stud
+  - Blue Shadows
+  - Marie Marie
+  - So Long Baby Goodbye
+  - Marie Marie (The Blasters)
+  - So Long Baby Goodbye (The Blasters Collection)
 external_urls:
-  spotify: https://open.spotify.com/artist/5dr7fkIRO4K14g7U8SCue5
-  wikipedia: https://en.wikipedia.org/wiki/The_Blasters
+  spotify: 'https://open.spotify.com/artist/5dr7fkIRO4K14g7U8SCue5'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Blasters'
 image_path: 03_Resources/source_material/ArtistPortraits/blasters.jpg
 biography_enhanced_at: '2025-10-19T10:50:13.855483'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.davealvin.com/blasters/bhist.html
-- https://www.last.fm/music/The+Blasters/+wiki
-- http://www.theblasters.com/bio
+  - 'https://www.davealvin.com/blasters/bhist.html'
+  - 'https://www.last.fm/music/The+Blasters/+wiki'
+  - 'http://www.theblasters.com/bio'
 network_extracted: true
 entry_created: '2025-10-19T10:50:13.855492'
 last_updated: '2025-12-23T08:16:05.708702'
-origin: Downey, California, United States
+origin: 'Downey, California, United States'
+artist_type: band
 ---
 
 ![](blasters.jpg)

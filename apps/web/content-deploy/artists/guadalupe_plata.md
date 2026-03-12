@@ -1,19 +1,19 @@
 ---
-title: guadalupe plata
+title: Guadalupe Plata
 wiki_slug: guadalupe-plata
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: 2006-06
 genres:
-- space rock
+  - space rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/guadalupe_plata.jpg
   caption: guadalupe plata
   background: group_or_band
   born: 2006-06
 audio_profile:
-  tempo_avg: 115.0
+  tempo_avg: 115
   energy_avg: 0.64
   valence_avg: 0.553
   danceability_avg: 0.519
@@ -27,49 +27,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sebas Orellana (La Big Rabia)
-  - Raúl Pérez (La Mina Studios)
+    - Sebas Orellana (La Big Rabia)
+    - Raúl Pérez (La Mina Studios)
   influenced:
-  - Emerging Spanish blues/rock bands
+    - Emerging Spanish blues/rock bands
   mentors:
-  - Screamin' Jay Hawkins
-  - Roberto Parra
+    - Screamin' Jay Hawkins
+    - Roberto Parra
 spotify_data:
   followers: 33118
   id: 7j7j2bTOawrElFWLh1bsoK
   popularity: 23
-  url: https://open.spotify.com/artist/7j7j2bTOawrElFWLh1bsoK
+  url: 'https://open.spotify.com/artist/7j7j2bTOawrElFWLh1bsoK'
 discography_enriched: true
 top_tracks:
-- Baby Me Vuelves Loco (Guadalupe Plata)
-- Calle 24 (Guadalupe Plata 2015)
-- Qué He Sacado Con Quererte (aka Violeta Parra) (Guadalupe Plata 2017)
-- Huele a Rata (Guadalupe Plata 2015)
-- El Boogie De La Muerte (Guadalupe Plata)
-- La Cigüeña (Guadalupe Plata 2023)
-- Duermo con serpientes (Guadalupe Plata 2018)
-- Lorena (Guadalupe Plata)
-- Milana (Guadalupe Plata 2013)
-- Cementerio (Guadalupe Plata)
+  - Baby Me Vuelves Loco (Guadalupe Plata)
+  - Calle 24 (Guadalupe Plata 2015)
+  - Qué He Sacado Con Quererte (aka Violeta Parra) (Guadalupe Plata 2017)
+  - Huele a Rata (Guadalupe Plata 2015)
+  - El Boogie De La Muerte (Guadalupe Plata)
+  - La Cigüeña (Guadalupe Plata 2023)
+  - Duermo con serpientes (Guadalupe Plata 2018)
+  - Lorena (Guadalupe Plata)
+  - Milana (Guadalupe Plata 2013)
+  - Cementerio (Guadalupe Plata)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3845f56b-b08c-4d36-8128-a1e38de0c712
-  spotify: https://open.spotify.com/artist/7j7j2bTOawrElFWLh1bsoK
-  wikipedia: https://es.wikipedia.org/wiki/Guadalupe_Plata
+  musicbrainz: 'https://musicbrainz.org/artist/3845f56b-b08c-4d36-8128-a1e38de0c712'
+  spotify: 'https://open.spotify.com/artist/7j7j2bTOawrElFWLh1bsoK'
+  wikipedia: 'https://es.wikipedia.org/wiki/Guadalupe_Plata'
 image_path: 03_Resources/source_material/ArtistPortraits/guadalupe_plata.jpg
 biography_enhanced_at: '2025-10-25T10:11:52.756064'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.viberate.com/artist/guadalupe-plata/
-- https://musomuso.com/news/guadalupe-plata-release-new-album-and-uk-tour-dates
-- https://www.sala-apolo.com/en/event/guadalupe-plata-1345
+  - 'https://www.viberate.com/artist/guadalupe-plata/'
+  - >-
+    https://musomuso.com/news/guadalupe-plata-release-new-album-and-uk-tour-dates
+  - 'https://www.sala-apolo.com/en/event/guadalupe-plata-1345'
 network_extracted: true
 entry_created: '2025-10-25T10:11:52.756075'
 last_updated: '2025-12-23T08:16:09.389452'
 musicbrainz_id: 3845f56b-b08c-4d36-8128-a1e38de0c712
-origin: Úbeda
+origin: 'Úbeda, Jaén, Andalusia, Spain'
 tags:
-- bridport dagger
+  - bridport dagger
 ---
 
 ![](guadalupe_plata.jpg)

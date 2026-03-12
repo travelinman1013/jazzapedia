@@ -1,18 +1,19 @@
 ---
-title: INA RAY HUTTON AND HER MELODEARS
+title: Ina Ray Hutton and Her Melodears
 wiki_slug: ina-ray-hutton-and-her-melodears
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 birth_date: '1934'
 genres:
-- swing music
-- ragtime
+  - swing music
+  - ragtime
 instruments:
-- eponymous
-- original
+  - eponymous
+  - original
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/ina_ray_hutton_and_her_melodears.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/ina_ray_hutton_and_her_melodears.jpg
   caption: INA RAY HUTTON AND HER MELODEARS
   background: group_or_band
   born: '1934'
@@ -31,59 +32,67 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ruth Lowe
-  - Frances Klein
-  - George Paxton
-  - Hal Schaefer
+    - Ruth Lowe
+    - Frances Klein
+    - George Paxton
+    - Hal Schaefer
   influenced:
-  - June Hutton
-  - Women jazz bandleaders
+    - June Hutton
+    - Women jazz bandleaders
   mentors:
-  - Marvel Ray
+    - Marvel Ray
 spotify_data:
   followers: 166
   id: 4c9Ncf9UlLBrKeD3mQbR4M
   popularity: 2
-  url: https://open.spotify.com/artist/4c9Ncf9UlLBrKeD3mQbR4M
+  url: 'https://open.spotify.com/artist/4c9Ncf9UlLBrKeD3mQbR4M'
 discography_enriched: true
 top_tracks:
-- 'And I Still Do (The Big Broadcast, Volume 5: Jazz and Popular Music of the 1920s and 1930s)'
-- And I Still Do (The Classic Roaring '20s)
-- Truckin' (Ina Ray Hutton and Her Melodears (1934 - 1944))
-- And I Still Do (Ina Ray Hutton and Her Melodears (1934 - 1944))
-- Georgia's Gorgeous Gal (Ina Ray Hutton and Her Melodears (1934 - 1944))
-- Wild Party (Ina Ray Hutton and Her Melodears (1934 - 1944))
-- Twenty-Four Hours in Georgia (Ina Ray Hutton and Her Melodears (1934 - 1944))
-- Witch Doctor (Ina Ray Hutton and Her Melodears (1934 - 1944))
-- Witch Doctor (Jazz Mad 1930s)
-- Wild Party (Jazz Mad 1930s)
+  - >-
+    And I Still Do (The Big Broadcast, Volume 5: Jazz and Popular Music of the
+    1920s and 1930s)
+  - And I Still Do (The Classic Roaring '20s)
+  - Truckin' (Ina Ray Hutton and Her Melodears (1934 - 1944))
+  - And I Still Do (Ina Ray Hutton and Her Melodears (1934 - 1944))
+  - Georgia's Gorgeous Gal (Ina Ray Hutton and Her Melodears (1934 - 1944))
+  - Wild Party (Ina Ray Hutton and Her Melodears (1934 - 1944))
+  - >-
+    Twenty-Four Hours in Georgia (Ina Ray Hutton and Her Melodears (1934 -
+    1944))
+  - Witch Doctor (Ina Ray Hutton and Her Melodears (1934 - 1944))
+  - Witch Doctor (Jazz Mad 1930s)
+  - Wild Party (Jazz Mad 1930s)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c4966662-e7be-4985-afc9-8557454e035d
-  spotify: https://open.spotify.com/artist/4c9Ncf9UlLBrKeD3mQbR4M
-  wikipedia: https://en.wikipedia.org/wiki/Ina_Ray_Hutton
-image_path: 03_Resources/source_material/ArtistPortraits/ina_ray_hutton_and_her_melodears.jpg
+  musicbrainz: 'https://musicbrainz.org/artist/c4966662-e7be-4985-afc9-8557454e035d'
+  spotify: 'https://open.spotify.com/artist/4c9Ncf9UlLBrKeD3mQbR4M'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ina_Ray_Hutton'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/ina_ray_hutton_and_her_melodears.jpg
 biography_enhanced_at: '2025-10-30T11:47:03.160692'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Ina_Ray_Hutton
-- https://jazz.fm/ina-ray-hutton-and-womens-big-bands-through-history/
-- https://www.vintageinn.ca/2017/04/blonde-bombshell-rhythm-ina-ray-hutton/
-- https://surveyofwomeninjazz.wordpress.com/eras-of-jazz/swing-bands/ina-ray-hutton-and-the-melodears/
-- https://blackpast.org/african-american-history/hutton-ina-ray-nee-odessa-cowan-1916-1984/
+  - 'https://en.wikipedia.org/wiki/Ina_Ray_Hutton'
+  - 'https://jazz.fm/ina-ray-hutton-and-womens-big-bands-through-history/'
+  - 'https://www.vintageinn.ca/2017/04/blonde-bombshell-rhythm-ina-ray-hutton/'
+  - >-
+    https://surveyofwomeninjazz.wordpress.com/eras-of-jazz/swing-bands/ina-ray-hutton-and-the-melodears/
+  - >-
+    https://blackpast.org/african-american-history/hutton-ina-ray-nee-odessa-cowan-1916-1984/
 network_extracted: true
 entry_created: '2025-10-30T11:47:03.160707'
 last_updated: '2025-12-23T08:16:09.838086'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: bd99d1c0-d65f-43ec-8da9-35eddc05a64e
-  name: Ina Ray Hutton
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: bd99d1c0-d65f-43ec-8da9-35eddc05a64e
+    name: Ina Ray Hutton
 musicbrainz_id: c4966662-e7be-4985-afc9-8557454e035d
-origin: Chicago, Illinois, United States
+origin: 'Chicago, Illinois, United States'
+birth_place: 'Chicago, Illinois, United States'
 ---
 
 ![](ina_ray_hutton_and_her_melodears.jpg)

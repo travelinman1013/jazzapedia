@@ -3,9 +3,9 @@ wiki_slug: christopher-henry
 schema_version: 2
 birth_place: Not specified in available sources
 genres:
-- christian
-- pentecostal
-- worship
+  - christian
+  - pentecostal
+  - worship
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/christopher_henry.jpg
   caption: christopher henry
@@ -17,7 +17,7 @@ audio_profile:
   valence_avg: 0.445
   danceability_avg: 0.623
   acousticness_avg: 0.332
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -5.8
   speechiness_avg: 0.051
   liveness_avg: 0.157
@@ -26,37 +26,40 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Chris Henry Band
+    - Chris Henry Band
   influenced:
-  - Students of Noya Mountain Music
+    - Students of Noya Mountain Music
   mentors:
-  - Peter Rowan
+    - Peter Rowan
 discography_enriched: true
 top_tracks:
-- Entra en Mi Casa (Entra en Mi Casa)
-- Haz un Milagro (Entra en Mi Casa)
-- No Moriras (Entra en Mi Casa)
-- No Morirás (Entra en Mi Casa)
-- Dios Me Oye (Entra en Mi Casa)
-- Dios Me Oye (Entra en Mi Casa)
-- Bendito Serás (Entra en Mi Casa)
-- Bendito Sera (Entra en Mi Casa)
-- Busco un Adorador (Entra en Mi Casa)
-- Busco un Adorador (Entra en Mi Casa)
+  - Entra en Mi Casa (Entra en Mi Casa)
+  - Haz un Milagro (Entra en Mi Casa)
+  - No Moriras (Entra en Mi Casa)
+  - No Morirás (Entra en Mi Casa)
+  - Dios Me Oye (Entra en Mi Casa)
+  - Dios Me Oye (Entra en Mi Casa)
+  - Bendito Serás (Entra en Mi Casa)
+  - Bendito Sera (Entra en Mi Casa)
+  - Busco un Adorador (Entra en Mi Casa)
+  - Busco un Adorador (Entra en Mi Casa)
 external_urls:
-  spotify: https://open.spotify.com/artist/15csOLyjT4bpb5UdSwDuM9
+  spotify: 'https://open.spotify.com/artist/15csOLyjT4bpb5UdSwDuM9'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/christopher_henry.jpg
 biography_enhanced_at: '2025-12-04T08:13:33.159645'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.noyamountainmusic.com
-- https://mikefiorito.com/f/christopher-henrys-album-heartspaces
+  - 'https://www.noyamountainmusic.com'
+  - 'https://mikefiorito.com/f/christopher-henrys-album-heartspaces'
 network_extracted: true
 entry_created: '2025-12-04T08:13:33.159658'
 last_updated: '2025-12-23T08:16:06.946600'
----review-interview
+title: Christopher Henry
+artist_type: person
+---
+review-interview
 - https://atwoodmagazine.com/chhs-christopher-henry-heartspaces-album-review-feature/
 - https://www.youtube.com/@ChrisHenryVideos
 spotify_data:

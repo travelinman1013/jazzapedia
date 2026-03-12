@@ -4,23 +4,23 @@ wiki_slug: melissa-carper
 schema_version: 2
 artist_type: person
 status: active
-birth_place: North Platte
+birth_place: 'North Platte, Nebraska, United States'
 genres:
-- americana
-- alt country
+  - americana
+  - alt country
 instruments:
-- double bass
-- original
-- lead vocals
-- background vocals
-associated_acts:
-- begin: '2010'
-  end: ''
-  instruments:
   - double bass
   - original
-  mbid: b3b5f389-30ad-4424-97d4-cb1255eb1d7f
-  name: Sad Daddy
+  - lead vocals
+  - background vocals
+associated_acts:
+  - begin: '2010'
+    end: ''
+    instruments:
+      - double bass
+      - original
+    mbid: b3b5f389-30ad-4424-97d4-cb1255eb1d7f
+    name: Sad Daddy
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/melissa_carper.jpg
   caption: Melissa Carper
@@ -41,50 +41,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Carper Family
-  - Sad Daddy
-  - Rebecca Patek
-  - Kelly Willis, Brennen Leigh
-  - Dennis Crouch
-  - Gallina
+    - The Carper Family
+    - Sad Daddy
+    - Rebecca Patek
+    - 'Kelly Willis, Brennen Leigh'
+    - Dennis Crouch
+    - Gallina
   influenced: []
   mentors:
-  - High school band director
-  - Jimmie Rodgers
-  - Billie Holiday, Ella Fitzgerald, Lead Belly
+    - High school band director
+    - Jimmie Rodgers
+    - 'Billie Holiday, Ella Fitzgerald, Lead Belly'
 spotify_data:
   followers: 18063
   id: 1VA93XBE8WfC2Nbe8xNLRX
   popularity: 37
-  url: https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX
+  url: 'https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX'
 discography_enriched: true
 top_tracks:
-- Makin' Memories (Daddy's Country Gold)
-- Hanging on to You (Ramblin' Soul)
-- Ain't a Day Goes By (Ramblin' Soul)
-- Would You Like to Get Some Goats? (Daddy's Country Gold)
-- From What I Recall (Ramblin' Soul)
-- Thank You, But No Thank You (Thank You, But No Thank You)
-- I Almost Forgot About You (Daddy's Country Gold)
-- Ramblin' Soul (Ramblin' Soul)
-- Your Furniture's Too Nice (Borned In Ya)
-- Borned In Ya (Borned In Ya)
+  - Makin' Memories (Daddy's Country Gold)
+  - Hanging on to You (Ramblin' Soul)
+  - Ain't a Day Goes By (Ramblin' Soul)
+  - Would You Like to Get Some Goats? (Daddy's Country Gold)
+  - From What I Recall (Ramblin' Soul)
+  - 'Thank You, But No Thank You (Thank You, But No Thank You)'
+  - I Almost Forgot About You (Daddy's Country Gold)
+  - Ramblin' Soul (Ramblin' Soul)
+  - Your Furniture's Too Nice (Borned In Ya)
+  - Borned In Ya (Borned In Ya)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/471c36a0-7543-43ef-9d5c-046f54ed4b77
-  spotify: https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX
-  wikipedia: https://en.wikipedia.org/wiki/Melissa_Carper
+  musicbrainz: 'https://musicbrainz.org/artist/471c36a0-7543-43ef-9d5c-046f54ed4b77'
+  spotify: 'https://open.spotify.com/artist/1VA93XBE8WfC2Nbe8xNLRX'
+  wikipedia: 'https://en.wikipedia.org/wiki/Melissa_Carper'
 image_path: 03_Resources/source_material/ArtistPortraits/melissa_carper.jpg
 biography_enhanced_at: '2025-12-15T01:26:02.375464'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://purplefiddle.com/bands/melissa-carper/
-- https://www.melissacarper.com/about
-- https://www.passim.org/artists/melissa-carper/
-- https://en.wikipedia.org/wiki/Melissa_Carper
-- https://www.carperfamilyband.com/bio.html
-- https://countryqueer.com/stories/interview/melissa-carper-old-fashioned-gal/
-- https://thebluegrasssituation.com/read/basic-folk-melissa-carper/
+  - 'https://purplefiddle.com/bands/melissa-carper/'
+  - 'https://www.melissacarper.com/about'
+  - 'https://www.passim.org/artists/melissa-carper/'
+  - 'https://en.wikipedia.org/wiki/Melissa_Carper'
+  - 'https://www.carperfamilyband.com/bio.html'
+  - 'https://countryqueer.com/stories/interview/melissa-carper-old-fashioned-gal/'
+  - 'https://thebluegrasssituation.com/read/basic-folk-melissa-carper/'
 network_extracted: true
 entry_created: '2025-12-15T01:26:02.375471'
 last_updated: '2025-12-23T08:16:12.925647'

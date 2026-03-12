@@ -1,15 +1,15 @@
 ---
-title: boyfriend
+title: Boyfriends
 wiki_slug: boyfriend
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- opm
-- pinoy rock
-- kundiman
-- harana
-- p-pop
+  - opm
+  - pinoy rock
+  - kundiman
+  - harana
+  - p-pop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/boyfriend.jpg
   caption: boyfriend
@@ -29,53 +29,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Joey Abando
-  - Bob Guzman
-  - Gary Ariola
-  - Artie Ilacad
-  - Lloyd Sale
+    - Joey Abando
+    - Bob Guzman
+    - Gary Ariola
+    - Artie Ilacad
+    - Lloyd Sale
   influenced:
-  - Ogie Alcasid
-  - Lea Salonga
-  - Sexbomb Girls
-  - Hori7on
+    - Ogie Alcasid
+    - Lea Salonga
+    - Sexbomb Girls
+    - Hori7on
   mentors:
-  - Bee Gees
+    - Bee Gees
 spotify_data:
   followers: 50151
   id: 1WHYTMWSXn7ix7PAO82FEX
   popularity: 47
-  url: https://open.spotify.com/artist/1WHYTMWSXn7ix7PAO82FEX
+  url: 'https://open.spotify.com/artist/1WHYTMWSXn7ix7PAO82FEX'
 discography_enriched: true
 top_tracks:
-- Bakit Labis Kitang Mahal (The Ultimate OPM Collection)
-- Sumayaw Sumunod (The Ultimate OPM Collection)
-- Dahil Mahal Kita (The Ultimate OPM Collection)
-- First Love (Never Dies) (The Ultimate OPM Collection)
-- Nais Kong Malaman Mo (The Ultimate OPM Collection)
-- Salawahan (The Ultimate OPM Collection)
-- Bistado Na Kita (The Ultimate OPM Collection)
-- Nais Kong Malaman Mo (Akustik)
-- Mamahalin Kita (The Ultimate OPM Collection)
-- Pagtibok Ng Puso (The Ultimate OPM Collection)
+  - Bakit Labis Kitang Mahal (The Ultimate OPM Collection)
+  - Sumayaw Sumunod (The Ultimate OPM Collection)
+  - Dahil Mahal Kita (The Ultimate OPM Collection)
+  - First Love (Never Dies) (The Ultimate OPM Collection)
+  - Nais Kong Malaman Mo (The Ultimate OPM Collection)
+  - Salawahan (The Ultimate OPM Collection)
+  - Bistado Na Kita (The Ultimate OPM Collection)
+  - Nais Kong Malaman Mo (Akustik)
+  - Mamahalin Kita (The Ultimate OPM Collection)
+  - Pagtibok Ng Puso (The Ultimate OPM Collection)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/35afd5db-67c0-47db-a0f8-2da130a54987
-  spotify: https://open.spotify.com/artist/1WHYTMWSXn7ix7PAO82FEX
-  wikipedia: https://en.wikipedia.org/wiki/Boyfriends_(Filipino_band)
+  musicbrainz: 'https://musicbrainz.org/artist/35afd5db-67c0-47db-a0f8-2da130a54987'
+  spotify: 'https://open.spotify.com/artist/1WHYTMWSXn7ix7PAO82FEX'
+  wikipedia: 'https://en.wikipedia.org/wiki/Boyfriends_(Filipino_band)'
 image_path: 03_Resources/source_material/ArtistPortraits/boyfriend.jpg
 biography_enhanced_at: '2025-10-31T08:05:09.424794'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Boyfriends_(Filipino_band)
-- https://music.cliggo.com/artist/1750616-The_Boyfriends/bio
-- https://alchetron.com/Boyfriends-(Filipino-band)
+  - 'https://en.wikipedia.org/wiki/Boyfriends_(Filipino_band)'
+  - 'https://music.cliggo.com/artist/1750616-The_Boyfriends/bio'
+  - 'https://alchetron.com/Boyfriends-(Filipino-band)'
 network_extracted: true
 entry_created: '2025-10-31T08:05:09.424803'
 last_updated: '2025-12-23T08:16:05.981558'
 disambiguation: UK indie rock band
 musicbrainz_id: 35afd5db-67c0-47db-a0f8-2da130a54987
-origin: Quezon City, Metro Manila, Philippines
+origin: 'Quezon City, Metro Manila, Philippines'
 ---
 
 ![](boyfriend.jpg)

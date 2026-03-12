@@ -5,56 +5,56 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1944-06-06'
-birth_place: Kingston, Jamaica
+birth_place: 'Kingston, Jamaica'
 genres:
-- jazz
+  - jazz
 instruments:
-- eponymous
-- original
-- piano
-- tack piano
-- electric piano
-- grand piano
+  - eponymous
+  - original
+  - piano
+  - tack piano
+  - electric piano
+  - grand piano
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 23070106-d180-4c63-a65c-fb0668abd80c
-  name: The Monty Alexander Trio
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - piano
-  mbid: 256eb233-fe25-4397-9d32-198ee2b8389c
-  name: Monty Alexander's Ivory & Steel
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 539a65ec-1e66-4d59-bd75-4bc2bbd22cfa
-  name: Monty Alexander’s Jamaican Project
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: 9a65bf27-a0fd-4366-9be0-a87b367cbb58
-  name: Dizzy Gillespie Jam
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: 496c6e6f-2535-444b-b2ff-ec4f7890eaab
-  name: Tony Bennett Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 23070106-d180-4c63-a65c-fb0668abd80c
+    name: The Monty Alexander Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - piano
+    mbid: 256eb233-fe25-4397-9d32-198ee2b8389c
+    name: Monty Alexander's Ivory & Steel
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 539a65ec-1e66-4d59-bd75-4bc2bbd22cfa
+    name: Monty Alexander’s Jamaican Project
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: 9a65bf27-a0fd-4366-9be0-a87b367cbb58
+    name: Dizzy Gillespie Jam
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: 496c6e6f-2535-444b-b2ff-ec4f7890eaab
+    name: Tony Bennett Quartet
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/monty_alexander.jpg
   caption: Monty Alexander
   background: non_vocal_instrumentalist
   born: '1944-06-06'
-  origin: Kingston, Jamaica
+  origin: 'Kingston, Jamaica'
 audio_profile:
   tempo_avg: 113.3
   energy_avg: 0.379
@@ -70,55 +70,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Frank Sinatra
-  - Ernest Ranglin
-  - Dizzy Gillespie
-  - Quincy Jones
-  - Bobby McFerrin
-  - Gumption (Sly Dunbar, Robbie Shakespeare)
+    - Frank Sinatra
+    - Ernest Ranglin
+    - Dizzy Gillespie
+    - Quincy Jones
+    - Bobby McFerrin
+    - 'Gumption (Sly Dunbar, Robbie Shakespeare)'
   influenced: []
   mentors:
-  - Oscar Peterson
+    - Oscar Peterson
 spotify_data:
   followers: 32418
   id: 30V1rKijENF5MFcGidInfh
   popularity: 33
-  url: https://open.spotify.com/artist/30V1rKijENF5MFcGidInfh
+  url: 'https://open.spotify.com/artist/30V1rKijENF5MFcGidInfh'
 discography_enriched: true
 top_tracks:
-- Love and Happiness (Rass)
-- No Woman No Cry (Harlem-Kingston Express (Live at Dizzy's Club Coca-Cola, NYC))
-- 'Running Away (Stir It Up: The Music Of Bob Marley)'
-- Where Is Love (Here Comes the Sun)
-- Here Comes the Sun (Here Comes the Sun)
-- 'Kaya (Stir It Up: The Music Of Bob Marley)'
-- 'Stir It Up (Stir It Up: The Music Of Bob Marley)'
-- Just Friends (Untitled)
-- Stalag 17 (Rocksteady)
-- 'Jammin'' (Stir It Up: The Music Of Bob Marley)'
+  - Love and Happiness (Rass)
+  - >-
+    No Woman No Cry (Harlem-Kingston Express (Live at Dizzy's Club Coca-Cola,
+    NYC))
+  - 'Running Away (Stir It Up: The Music Of Bob Marley)'
+  - Where Is Love (Here Comes the Sun)
+  - Here Comes the Sun (Here Comes the Sun)
+  - 'Kaya (Stir It Up: The Music Of Bob Marley)'
+  - 'Stir It Up (Stir It Up: The Music Of Bob Marley)'
+  - Just Friends (Untitled)
+  - Stalag 17 (Rocksteady)
+  - 'Jammin'' (Stir It Up: The Music Of Bob Marley)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f
-  spotify: https://open.spotify.com/artist/30V1rKijENF5MFcGidInfh
+  musicbrainz: 'https://musicbrainz.org/artist/7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f'
+  spotify: 'https://open.spotify.com/artist/30V1rKijENF5MFcGidInfh'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/monty_alexander.jpg
 biography_enhanced_at: '2025-12-15T01:34:38.946375'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.sfjazz.org/onthecorner/one-love-how-monty-alexander-bridged-his-jamaican-roots-jazz
-- https://global.jazzhistorydatabase.com/monty-alexander/
-- https://www.laphil.com/musicdb/artists/6571/monty-alexander
-- https://concord.com/artist/monty-alexander/
-- https://www.montyalexander.com/about
-- https://www.yamaha.com/artists/artistdetailb.html?CNTID=7091085&CTID=5070220
+  - >-
+    https://www.sfjazz.org/onthecorner/one-love-how-monty-alexander-bridged-his-jamaican-roots-jazz
+  - 'https://global.jazzhistorydatabase.com/monty-alexander/'
+  - 'https://www.laphil.com/musicdb/artists/6571/monty-alexander'
+  - 'https://concord.com/artist/monty-alexander/'
+  - 'https://www.montyalexander.com/about'
+  - 'https://www.yamaha.com/artists/artistdetailb.html?CNTID=7091085&CTID=5070220'
 network_extracted: true
 entry_created: '2025-12-15T01:34:38.946381'
 last_updated: '2025-12-23T08:16:13.254136'
 gender: Male
 musicbrainz_id: 7c1f9644-46dc-47fa-b4a7-a7a9cc8a2a8f
 tags:
-- jazz
-- reggae
+  - jazz
+  - reggae
+origin: 'New York City, New York, United States'
 ---
 
 ![](monty_alexander.jpg)

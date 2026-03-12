@@ -3,43 +3,46 @@ biography_enhanced_at: '2026-01-22T07:10:46.448972'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:10:46.448978'
 external_urls:
-  spotify: https://open.spotify.com/artist/14A0xyWmK9nE0dZNeaa7e5
+  spotify: 'https://open.spotify.com/artist/14A0xyWmK9nE0dZNeaa7e5'
   wikipedia: ''
 genres:
-- ragtime
+  - ragtime
 image_path: 03_Resources/source_material/ArtistPortraits/louis_dumaines_jazzola_eight.jpg
 last_updated: '2026-01-22T07:10:46.448979'
 musical_connections:
   collaborators:
-  - Louis James
-  - Earl Humphrey
-  - Morris Rouse
-  - Willie Joseph
-  - Leonard Mitchell
-  - Joe Howard
-  - James Willigan
-  - Yank Johnson
+    - Louis James
+    - Earl Humphrey
+    - Morris Rouse
+    - Willie Joseph
+    - Leonard Mitchell
+    - Joe Howard
+    - James Willigan
+    - Yank Johnson
   influenced: []
   mentors: []
 network_extracted: true
-origin: New Orleans, Louisiana, USA
+origin: 'New Orleans, Louisiana, USA'
 primary_source: perplexity
 research_sources:
-- https://64parishes.org/entry/louis-james
-- https://fr.findagrave.com/memorial/22580034/louis-dumaine
-- http://playing-traditional-jazz.blogspot.com/2014/02/playing-traditional-jazz-louis-dumaines.html
-- https://musicrising.tulane.edu/discover/people/louis-dumaine/
-- https://catalog.eulesstx.gov/Author/Home?author=%22Eight%2C+Louis+Dumaine%27s+Jazzola%22
-- https://telescoper.blog/2023/02/21/to-wa-bac-a-wa/
-- https://archive.org/details/04LouisDumaineJazzolaEightRedOnionDrag
-- https://syncopatedtimes.com/louis-dumaines-jazzola-eight/
+  - 'https://64parishes.org/entry/louis-james'
+  - 'https://fr.findagrave.com/memorial/22580034/louis-dumaine'
+  - >-
+    http://playing-traditional-jazz.blogspot.com/2014/02/playing-traditional-jazz-louis-dumaines.html
+  - 'https://musicrising.tulane.edu/discover/people/louis-dumaine/'
+  - >-
+    https://catalog.eulesstx.gov/Author/Home?author=%22Eight%2C+Louis+Dumaine%27s+Jazzola%22
+  - 'https://telescoper.blog/2023/02/21/to-wa-bac-a-wa/'
+  - 'https://archive.org/details/04LouisDumaineJazzolaEightRedOnionDrag'
+  - 'https://syncopatedtimes.com/louis-dumaines-jazzola-eight/'
 spotify_data:
   followers: 103
   id: 14A0xyWmK9nE0dZNeaa7e5
   popularity: 1
-  url: https://open.spotify.com/artist/14A0xyWmK9nE0dZNeaa7e5
+  url: 'https://open.spotify.com/artist/14A0xyWmK9nE0dZNeaa7e5'
 status: active
-title: LOUIS DUMAINE'S JAZZOLA EIGHT
+title: Louis Dumaine's Jazzola Eight
+artist_type: band
 ---
 
 ![](louis_dumaines_jazzola_eight.jpg)

@@ -1,17 +1,17 @@
 ---
-title: ROBERT PARKER
+title: Robert Parker
 wiki_slug: robert-parker
 schema_version: 2
 status: active
-birth_place: Stockholm, Sweden
+birth_place: 'Stockholm, Sweden, Sweden'
 genres:
-- synthwave
-- vaporwave
+  - synthwave
+  - vaporwave
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ROBERT_PARKER.jpg
   caption: ROBERT PARKER
   background: solo_singer
-  origin: Stockholm, Sweden
+  origin: 'Stockholm, Sweden'
 audio_profile:
   tempo_avg: 122.6
   energy_avg: 0.795
@@ -27,47 +27,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Maethelvin
-  - Waveshaper
-  - Doubleboy, Miss K, Calderon, Preston Knight
+    - Maethelvin
+    - Waveshaper
+    - 'Doubleboy, Miss K, Calderon, Preston Knight'
   influenced:
-  - Funkwave Artists
-  - Modern Synthwave Producers
+    - Funkwave Artists
+    - Modern Synthwave Producers
   mentors:
-  - Classical Piano Teachers
-  - Giorgio Moroder
-  - Daft Punk, Justice
+    - Classical Piano Teachers
+    - Giorgio Moroder
+    - 'Daft Punk, Justice'
 spotify_data:
   followers: 42591
   id: 0eEcbHGsAvOTCZzF5pg8GD
   popularity: 35
-  url: https://open.spotify.com/artist/0eEcbHGsAvOTCZzF5pg8GD
+  url: 'https://open.spotify.com/artist/0eEcbHGsAvOTCZzF5pg8GD'
 discography_enriched: true
 top_tracks:
-- '''85 Again (feat. Miss K) (Crystal City)'
-- Running Wild (Awakening)
-- End of the Night (feat. Doubleboy) (End of the Night)
-- Sweet Nothings (Crystal City)
-- I Recall (feat. Preston Knight) (End of the Night)
-- On the Road
-- Sonya's Limo
-- Silver Screen Cruising (Crystal City)
-- A Light in the Dark (Club 707)
-- On the Road - From Road 96
+  - '''85 Again (feat. Miss K) (Crystal City)'
+  - Running Wild (Awakening)
+  - End of the Night (feat. Doubleboy) (End of the Night)
+  - Sweet Nothings (Crystal City)
+  - I Recall (feat. Preston Knight) (End of the Night)
+  - On the Road
+  - Sonya's Limo
+  - Silver Screen Cruising (Crystal City)
+  - A Light in the Dark (Club 707)
+  - On the Road - From Road 96
 external_urls:
-  spotify: https://open.spotify.com/artist/0eEcbHGsAvOTCZzF5pg8GD
-  wikipedia: https://en.wikipedia.org/wiki/Robert_Parker_(music_producer)
+  spotify: 'https://open.spotify.com/artist/0eEcbHGsAvOTCZzF5pg8GD'
+  wikipedia: 'https://en.wikipedia.org/wiki/Robert_Parker_(music_producer)'
 image_path: 03_Resources/source_material/ArtistPortraits/ROBERT_PARKER.jpg
 biography_enhanced_at: '2025-10-21T06:56:26.672720'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Robert_Parker_(music_producer)
-- https://newretro.net/blogs/main/robert-parker-funky-and-disco-infused-synthwave
-- https://theplayground.co.uk/one-third-nostalgia-one-third-party-one-third-love-in-conversation-with-robert-parker/
+  - 'https://en.wikipedia.org/wiki/Robert_Parker_(music_producer)'
+  - >-
+    https://newretro.net/blogs/main/robert-parker-funky-and-disco-infused-synthwave
+  - >-
+    https://theplayground.co.uk/one-third-nostalgia-one-third-party-one-third-love-in-conversation-with-robert-parker/
 network_extracted: true
 entry_created: '2025-10-21T06:56:26.672834'
 last_updated: '2025-12-23T08:16:03.650944'
+origin: 'Stockholm, Sweden, Sweden'
+artist_type: person
 ---
 
 ![](ROBERT_PARKER.jpg)

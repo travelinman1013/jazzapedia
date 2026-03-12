@@ -1,50 +1,53 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-13T01:13:47.163504'
-birth_place: Houston, Texas, United States
+birth_place: 'Houston, Texas, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-13T01:13:47.163511'
 external_urls:
-  spotify: https://open.spotify.com/artist/7DACbUcNWTTQqRVMpvMjqK
-  wikipedia: https://en.wikipedia.org/wiki/Billy_Harper
+  spotify: 'https://open.spotify.com/artist/7DACbUcNWTTQqRVMpvMjqK'
+  wikipedia: 'https://en.wikipedia.org/wiki/Billy_Harper'
 genres:
-- free jazz
-- hard bop
-- jazz
+  - free jazz
+  - hard bop
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/billy_harper.jpg
 last_updated: '2026-01-13T01:13:47.163511'
 musical_connections:
   collaborators:
-  - Gil Evans
-  - Art Blakey
-  - Max Roach
-  - Elvin Jones
-  - Thad Jones and Mel Lewis
-  - Lee Morgan
-  - Stanley Cowell
-  - George Cables
+    - Gil Evans
+    - Art Blakey
+    - Max Roach
+    - Elvin Jones
+    - Thad Jones and Mel Lewis
+    - Lee Morgan
+    - Stanley Cowell
+    - George Cables
   influenced:
-  - Coltrane-influenced saxophonists of his generation
+    - Coltrane-influenced saxophonists of his generation
   mentors:
-  - Leon Breeden
-  - Kenny Dorham
+    - Leon Breeden
+    - Kenny Dorham
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://northtexan.unt.edu/issues/2024-fall/billy-harper.html
-- https://www.laphil.com/musicdb/artists/6826/billy-harper
-- https://www.bluenote.com/artist/billy-harper/
-- https://en.wikipedia.org/wiki/Billy_Harper
-- https://www.allaboutjazz.com/billy-harper-a-life-of-persistence-and-improvisation-billy-harper-by-rj-deluke
-- https://billyharpermusic.com
-- https://www.knkx.org/jazz/2024-04-22/infused-with-the-blues-billy-harpers-sax-brings-a-spiritual-sound-to-jazz
+  - 'https://northtexan.unt.edu/issues/2024-fall/billy-harper.html'
+  - 'https://www.laphil.com/musicdb/artists/6826/billy-harper'
+  - 'https://www.bluenote.com/artist/billy-harper/'
+  - 'https://en.wikipedia.org/wiki/Billy_Harper'
+  - >-
+    https://www.allaboutjazz.com/billy-harper-a-life-of-persistence-and-improvisation-billy-harper-by-rj-deluke
+  - 'https://billyharpermusic.com'
+  - >-
+    https://www.knkx.org/jazz/2024-04-22/infused-with-the-blues-billy-harpers-sax-brings-a-spiritual-sound-to-jazz
 spotify_data:
   followers: 6347
   id: 7DACbUcNWTTQqRVMpvMjqK
   popularity: 15
-  url: https://open.spotify.com/artist/7DACbUcNWTTQqRVMpvMjqK
+  url: 'https://open.spotify.com/artist/7DACbUcNWTTQqRVMpvMjqK'
 status: active
 title: Billy Harper
+birth_date: '1943-01-17'
 ---
 
 ![](billy_harper.jpg)

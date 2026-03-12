@@ -3,14 +3,14 @@ title: Fred Willard
 wiki_slug: fred-willard
 schema_version: 2
 status: active
-birth_place: Shaker Heights, Ohio, United States
+birth_place: 'Shaker Heights, Ohio, United States'
 genres:
-- comedy
+  - comedy
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/fred_willard.jpg
   caption: Fred Willard
   background: solo_singer
-  origin: Shaker Heights, Ohio, United States
+  origin: 'Shaker Heights, Ohio, United States'
 audio_profile:
   tempo_avg: 111.2
   energy_avg: 0.366
@@ -26,39 +26,41 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Vic Grecco
-  - Martin Mull
-  - Christopher Guest
-  - Michael Mislove
-  - Bill Saluga
+    - Vic Grecco
+    - Martin Mull
+    - Christopher Guest
+    - Michael Mislove
+    - Bill Saluga
   influenced: []
   mentors: []
 spotify_data:
   followers: 12
   id: 4IGGkg2m0xLCBPHutkCjxr
   popularity: 1
-  url: https://open.spotify.com/artist/4IGGkg2m0xLCBPHutkCjxr
+  url: 'https://open.spotify.com/artist/4IGGkg2m0xLCBPHutkCjxr'
 discography_enriched: true
 top_tracks:
-- Comedy Glut (ACA 1991) (Best of the American Comedy Awards)
-- The True Story of Christmas - Live at Largo (Christmas Without Tears)
-- Girl Meets Boy (It's Ok to Do Stuff)
-- The True Story Of Christmas - Live At Largo (Christmas Without Tears)
+  - Comedy Glut (ACA 1991) (Best of the American Comedy Awards)
+  - The True Story of Christmas - Live at Largo (Christmas Without Tears)
+  - Girl Meets Boy (It's Ok to Do Stuff)
+  - The True Story Of Christmas - Live At Largo (Christmas Without Tears)
 external_urls:
-  spotify: https://open.spotify.com/artist/4IGGkg2m0xLCBPHutkCjxr
-  wikipedia: https://en.wikipedia.org/wiki/Fred_Willard
+  spotify: 'https://open.spotify.com/artist/4IGGkg2m0xLCBPHutkCjxr'
+  wikipedia: 'https://en.wikipedia.org/wiki/Fred_Willard'
 image_path: ''
 biography_enhanced_at: '2025-12-23T02:02:57.469818'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Fred_Willard
-- https://www.imdb.com/name/nm0929609/bio/
-- https://www.imdb.com/name/nm0929609/
-- https://www.rifftrax.com/riffer/fred-willard
+  - 'https://en.wikipedia.org/wiki/Fred_Willard'
+  - 'https://www.imdb.com/name/nm0929609/bio/'
+  - 'https://www.imdb.com/name/nm0929609/'
+  - 'https://www.rifftrax.com/riffer/fred-willard'
 network_extracted: true
 entry_created: '2025-12-23T02:02:57.469846'
 last_updated: '2025-12-23T08:16:08.830688'
+birth_date: '1933-09-18'
+artist_type: person
 ---
 
 ![]()

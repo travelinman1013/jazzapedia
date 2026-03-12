@@ -1,53 +1,56 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-10T01:03:59.924938'
 birth_date: '1970'
 enhancement_provider: perplexity
 entry_created: '2026-01-10T01:03:59.924943'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/81da7b1c-9dd6-4fe2-aff5-a670b1d93622
-  spotify: https://open.spotify.com/artist/1UMfAdvEOF6ly4dPiR5oWJ
-  wikipedia: https://en.wikipedia.org/wiki/Skull_Snaps
+  musicbrainz: 'https://musicbrainz.org/artist/81da7b1c-9dd6-4fe2-aff5-a670b1d93622'
+  spotify: 'https://open.spotify.com/artist/1UMfAdvEOF6ly4dPiR5oWJ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Skull_Snaps'
 genres:
-- northern soul
-- breakbeat
-- funk
+  - northern soul
+  - breakbeat
+  - funk
 image_path: 03_Resources/source_material/ArtistPortraits/skull_snaps.jpg
 last_updated: '2026-01-10T01:03:59.924944'
 musical_connections:
   collaborators:
-  - Ed Stasium
-  - George Kerr
-  - Bill Curtis (Fatback Band)
-  - Screamin’ Jay Hawkins
-  - All Dyrections (alias project)
+    - Ed Stasium
+    - George Kerr
+    - Bill Curtis (Fatback Band)
+    - Screamin’ Jay Hawkins
+    - All Dyrections (alias project)
   influenced:
-  - Stezo
-  - Eric B. & Rakim
-  - Gang Starr (DJ Premier & Guru)
-  - The Pharcyde
-  - Prodigy (Mobb Deep) and the wider boom‑bap school
+    - Stezo
+    - Eric B. & Rakim
+    - Gang Starr (DJ Premier & Guru)
+    - The Pharcyde
+    - Prodigy (Mobb Deep) and the wider boom‑bap school
   mentors:
-  - Al Gee
-  - Lloyd Price
+    - Al Gee
+    - Lloyd Price
 musicbrainz_id: 81da7b1c-9dd6-4fe2-aff5-a670b1d93622
 network_extracted: true
-origin: The Bronx
+origin: 'The Bronx, New York, United States'
 primary_source: perplexity
 research_sources:
-- https://daily.redbullmusicacademy.com/2019/02/loop-history-its-a-new-day/
-- https://en.wikipedia.org/wiki/Skull_Snaps
-- https://souldisco.de/allgemein/the-legacy-of-skull-snaps-soul-funk-and-the-mystery-of-music-history/
-- https://magazine.waxpoetics.com/article/the-skull-snaps-it-s-their-turn/
-- https://www.thevinylfactory.com/features/untold-story-behind-one-of-the-most-sampled-breaks-in-history
-- https://last.fm/music/Skull+Snaps/+wiki
-- https://lovelyti.com/2018/12/01/meet-skull-snaps-a-forgotten-funk-band-that-soundtracked-hip-hop/
-- https://www.youtube.com/watch?v=FaBLbz46kj8
+  - 'https://daily.redbullmusicacademy.com/2019/02/loop-history-its-a-new-day/'
+  - 'https://en.wikipedia.org/wiki/Skull_Snaps'
+  - >-
+    https://souldisco.de/allgemein/the-legacy-of-skull-snaps-soul-funk-and-the-mystery-of-music-history/
+  - 'https://magazine.waxpoetics.com/article/the-skull-snaps-it-s-their-turn/'
+  - >-
+    https://www.thevinylfactory.com/features/untold-story-behind-one-of-the-most-sampled-breaks-in-history
+  - 'https://last.fm/music/Skull+Snaps/+wiki'
+  - >-
+    https://lovelyti.com/2018/12/01/meet-skull-snaps-a-forgotten-funk-band-that-soundtracked-hip-hop/
+  - 'https://www.youtube.com/watch?v=FaBLbz46kj8'
 spotify_data:
   followers: 12403
   id: 1UMfAdvEOF6ly4dPiR5oWJ
   popularity: 23
-  url: https://open.spotify.com/artist/1UMfAdvEOF6ly4dPiR5oWJ
+  url: 'https://open.spotify.com/artist/1UMfAdvEOF6ly4dPiR5oWJ'
 status: active
 title: Skull Snaps
 ---

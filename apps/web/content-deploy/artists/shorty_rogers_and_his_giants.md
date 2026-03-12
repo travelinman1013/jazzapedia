@@ -1,12 +1,13 @@
 ---
-title: SHORTY ROGERS AND HIS GIANTS
+title: Shorty Rogers and His Giants
 wiki_slug: shorty-rogers-and-his-giants
 schema_version: 2
 status: active
 genres:
-- cool jazz
+  - cool jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/shorty_rogers_and_his_giants.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/shorty_rogers_and_his_giants.jpg
   caption: SHORTY ROGERS AND HIS GIANTS
   background: solo_singer
 audio_profile:
@@ -24,55 +25,69 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Art Pepper
-  - Shelley Manne
-  - Jimmy Giuffre
-  - Hampton Hawes
-  - Maynard Ferguson
-  - Bud Shank
+    - Art Pepper
+    - Shelley Manne
+    - Jimmy Giuffre
+    - Hampton Hawes
+    - Maynard Ferguson
+    - Bud Shank
   influenced:
-  - West Coast Jazz Musicians
-  - Gil Evans
-  - Younger jazz arrangers
+    - West Coast Jazz Musicians
+    - Gil Evans
+    - Younger jazz arrangers
   mentors:
-  - Red Norvo
-  - Woody Herman
-  - Stan Kenton
+    - Red Norvo
+    - Woody Herman
+    - Stan Kenton
 spotify_data:
   followers: 542
   id: 5si0szibBPrPpE4wfnIfhm
   popularity: 13
-  url: https://open.spotify.com/artist/5si0szibBPrPpE4wfnIfhm
+  url: 'https://open.spotify.com/artist/5si0szibBPrPpE4wfnIfhm'
 discography_enriched: true
 top_tracks:
-- Careless Love (with Shorty Rogers and his Giants) (St. Louis Blues (with Shorty Rogers and his Giants))
-- The Memphis Blues (with Shorty Rogers and his Giants) (St. Louis Blues (with Shorty Rogers and his Giants))
-- Chantez-les bas (with Shorty Rogers and his Giants) (St. Louis Blues (with Shorty Rogers and his Giants))
-- Beale Street Blues (with Shorty Rogers and his Giants) (Miss Kitt To You)
-- St. Louis Blues (with Shorty Rogers and his Giants) (St. Louis Blues (with Shorty Rogers and his Giants))
-- Four Mothers (Shorty Rogers - The Sweetheart of Sigmund Freud)
-- It's Delovely
-- Beale Street Blues (with Shorty Rogers and his Giants) (St. Louis Blues (with Shorty Rogers and his Giants))
-- St. Louis Blues (with Shorty Rogers and his Giants) (Miss Kitt To You)
-- Over the Rainbow (Shorty Rogers - The Sweetheart of Sigmund Freud)
+  - >-
+    Careless Love (with Shorty Rogers and his Giants) (St. Louis Blues (with
+    Shorty Rogers and his Giants))
+  - >-
+    The Memphis Blues (with Shorty Rogers and his Giants) (St. Louis Blues (with
+    Shorty Rogers and his Giants))
+  - >-
+    Chantez-les bas (with Shorty Rogers and his Giants) (St. Louis Blues (with
+    Shorty Rogers and his Giants))
+  - Beale Street Blues (with Shorty Rogers and his Giants) (Miss Kitt To You)
+  - >-
+    St. Louis Blues (with Shorty Rogers and his Giants) (St. Louis Blues (with
+    Shorty Rogers and his Giants))
+  - Four Mothers (Shorty Rogers - The Sweetheart of Sigmund Freud)
+  - It's Delovely
+  - >-
+    Beale Street Blues (with Shorty Rogers and his Giants) (St. Louis Blues
+    (with Shorty Rogers and his Giants))
+  - St. Louis Blues (with Shorty Rogers and his Giants) (Miss Kitt To You)
+  - Over the Rainbow (Shorty Rogers - The Sweetheart of Sigmund Freud)
 external_urls:
-  spotify: https://open.spotify.com/artist/5si0szibBPrPpE4wfnIfhm
-  wikipedia: https://en.wikipedia.org/wiki/Shorty_Rogers_and_His_Giants
+  spotify: 'https://open.spotify.com/artist/5si0szibBPrPpE4wfnIfhm'
+  wikipedia: 'https://en.wikipedia.org/wiki/Shorty_Rogers_and_His_Giants'
 image_path: 03_Resources/source_material/ArtistPortraits/shorty_rogers_and_his_giants.jpg
 biography_enhanced_at: '2025-11-03T07:45:49.184240'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.scaruffi.com/jazz/rogers.html
-- https://attictoys.com/the-birth-of-the-cool-legacy-part-2-shorty-rogers/
-- https://www.allaboutjazz.com/shorty-rogers-and-his-giants
-- https://fromthevaults-boppinbob.blogspot.com/2020/04/shorty-rogers-born-14-april-1924.html
-- https://en.wikipedia.org/wiki/Shorty_Rogers_and_His_Giants
-- https://en.wikipedia.org/wiki/Shorty_Rogers
+  - 'https://www.scaruffi.com/jazz/rogers.html'
+  - 'https://attictoys.com/the-birth-of-the-cool-legacy-part-2-shorty-rogers/'
+  - 'https://www.allaboutjazz.com/shorty-rogers-and-his-giants'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2020/04/shorty-rogers-born-14-april-1924.html
+  - 'https://en.wikipedia.org/wiki/Shorty_Rogers_and_His_Giants'
+  - 'https://en.wikipedia.org/wiki/Shorty_Rogers'
 network_extracted: true
 entry_created: '2025-11-03T07:45:49.184259'
 last_updated: '2025-12-23T08:16:15.602728'
-origin: Great Barrington, Massachusetts, USA
+origin: 'Great Barrington, Massachusetts, USA'
+birth_place: 'Great Barrington, Massachusetts, United States'
+birth_date: '1924'
+artist_type: band
 ---
 
 ![](shorty_rogers_and_his_giants.jpg)

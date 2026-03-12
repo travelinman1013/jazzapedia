@@ -29,31 +29,34 @@ spotify_data:
   followers: 6096
   id: 2ygaqTX9EELbmTuaIczjG7
   popularity: 33
-  url: https://open.spotify.com/artist/2ygaqTX9EELbmTuaIczjG7
+  url: 'https://open.spotify.com/artist/2ygaqTX9EELbmTuaIczjG7'
 discography_enriched: true
 top_tracks:
-- MAIN TITLE (機動戦士ガンダム 逆襲のシャア オリジナル・サウンドトラック)
-- モビルスーツ戦 (機動戦士Ζガンダム SPECIAL (オリジナルサウンドトラック))
-- SALLY (機動戦士ガンダム 逆襲のシャア オリジナル・サウンドトラック)
-- N GUNDAM (機動戦士ガンダム 逆襲のシャア オリジナル・サウンドトラック)
-- AURORA (機動戦士ガンダム 逆襲のシャア オリジナル・サウンドトラック)
-- 宇宙を駆ける (機動戦士Ζガンダム SPECIAL (オリジナルサウンドトラック))
-- 艦隊戦 (機動戦士Ζガンダム SPECIAL (オリジナルサウンドトラック))
-- 閃光の中のMS (劇場版『機動戦士Ζガンダム』オリジナルサウンドトラック)
-- SWAN (機動戦士ガンダム 逆襲のシャア オリジナル・サウンドトラック)
-- モビル・スーツ (機動戦士Ζガンダム　BGM集 VOL.2 (オリジナルサウンドトラック))
+  - MAIN TITLE (機動戦士ガンダム 逆襲のシャア オリジナル・サウンドトラック)
+  - モビルスーツ戦 (機動戦士Ζガンダム SPECIAL (オリジナルサウンドトラック))
+  - SALLY (機動戦士ガンダム 逆襲のシャア オリジナル・サウンドトラック)
+  - N GUNDAM (機動戦士ガンダム 逆襲のシャア オリジナル・サウンドトラック)
+  - AURORA (機動戦士ガンダム 逆襲のシャア オリジナル・サウンドトラック)
+  - 宇宙を駆ける (機動戦士Ζガンダム SPECIAL (オリジナルサウンドトラック))
+  - 艦隊戦 (機動戦士Ζガンダム SPECIAL (オリジナルサウンドトラック))
+  - 閃光の中のMS (劇場版『機動戦士Ζガンダム』オリジナルサウンドトラック)
+  - SWAN (機動戦士ガンダム 逆襲のシャア オリジナル・サウンドトラック)
+  - モビル・スーツ (機動戦士Ζガンダム　BGM集 VOL.2 (オリジナルサウンドトラック))
 external_urls:
-  spotify: https://open.spotify.com/artist/2ygaqTX9EELbmTuaIczjG7
+  spotify: 'https://open.spotify.com/artist/2ygaqTX9EELbmTuaIczjG7'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/yoshiaki_shigehisa.jpg
 biography_enhanced_at: '2025-12-07T04:50:04.546628'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Extensive web search (no credible biographical results returned for "Yoshiaki Shigehisa" as a musical artist).[1][2][3][4][5]
+  - >-
+    Extensive web search (no credible biographical results returned for
+    "Yoshiaki Shigehisa" as a musical artist).[1][2][3][4][5]
 network_extracted: true
 entry_created: '2025-12-07T04:50:04.546645'
 last_updated: '2025-12-23T08:16:18.355871'
+artist_type: person
 ---
 
 ![](yoshiaki_shigehisa.jpg)

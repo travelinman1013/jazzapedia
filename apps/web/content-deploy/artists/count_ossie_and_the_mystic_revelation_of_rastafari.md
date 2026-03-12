@@ -1,15 +1,16 @@
 ---
-title: count ossie and the mystic revelation of rastafari
+title: Count Ossie and the Mystic Revelation of Rastafari
 wiki_slug: count-ossie-and-the-mystic-revelation-of-rastafari
 schema_version: 2
 status: active
 genres:
-- soul jazz
-- roots reggae
-- rocksteady
-- dub
+  - soul jazz
+  - roots reggae
+  - rocksteady
+  - dub
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/count_ossie_and_the_mystic_revelation_of_rastafari.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/count_ossie_and_the_mystic_revelation_of_rastafari.jpg
   caption: count ossie and the mystic revelation of rastafari
   background: solo_singer
 audio_profile:
@@ -27,57 +28,81 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Cedric "Im" Brooks
-  - Tommy McCook
-  - Rico Rodriguez
-  - Don Drummond
-  - The Folkes Brothers
-  - Harry Mudie, Vincent "Randy" Chin, Sir Coxsone Dodd
+    - Cedric "Im" Brooks
+    - Tommy McCook
+    - Rico Rodriguez
+    - Don Drummond
+    - The Folkes Brothers
+    - 'Harry Mudie, Vincent "Randy" Chin, Sir Coxsone Dodd'
   influenced:
-  - Ras Michael and the Sons of Negus
-  - Bob Marley
-  - Jamaican reggae and roots music scene
+    - Ras Michael and the Sons of Negus
+    - Bob Marley
+    - Jamaican reggae and roots music scene
   mentors:
-  - Brother Job
-  - Watto King
+    - Brother Job
+    - Watto King
 spotify_data:
   followers: 2668
   id: 77I4HzxCWBIfIrXFMz1KYs
   popularity: 14
-  url: https://open.spotify.com/artist/77I4HzxCWBIfIrXFMz1KYs
+  url: 'https://open.spotify.com/artist/77I4HzxCWBIfIrXFMz1KYs'
 discography_enriched: true
 top_tracks:
-- Sam's Intro (Soul Jazz Records presents Count Ossie & The Mystic Revelation of Rastafari - Tales of Mozambique)
-- Run One Mile (Soul Jazz Records presents Count Ossie & The Mystic Revelation of Rastafari - Tales of Mozambique)
-- 'So Long (By The Rivers Of Babylon: Timeless Hymns of Rastafari)'
-- Wicked Babylon (Soul Jazz Records presents Count Ossie & The Mystic Revelation of Rastafari - Tales of Mozambique)
-- Let Freedom Reign (Soul Jazz Records presents Count Ossie & The Mystic Revelation of Rastafari - Tales of Mozambique)
-- 'Narration (Soul Jazz Records Presents Rastafari: The Dreads Enter Babylon 1955-83 (From Nyabinghi, Burro and Grounation
-  to Roots and Revelation))'
-- Tales Of Mozambique (Soul Jazz Records presents Count Ossie & The Mystic Revelation of Rastafari - Tales of Mozambique)
-- No Night In Zion (Soul Jazz Records presents Count Ossie & The Mystic Revelation of Rastafari - Tales of Mozambique)
-- Nigerian Reggae (Soul Jazz Records presents Count Ossie & The Mystic Revelation of Rastafari - Tales of Mozambique)
-- Sam's Intro (Tales of Mozambique)
+  - >-
+    Sam's Intro (Soul Jazz Records presents Count Ossie & The Mystic Revelation
+    of Rastafari - Tales of Mozambique)
+  - >-
+    Run One Mile (Soul Jazz Records presents Count Ossie & The Mystic Revelation
+    of Rastafari - Tales of Mozambique)
+  - 'So Long (By The Rivers Of Babylon: Timeless Hymns of Rastafari)'
+  - >-
+    Wicked Babylon (Soul Jazz Records presents Count Ossie & The Mystic
+    Revelation of Rastafari - Tales of Mozambique)
+  - >-
+    Let Freedom Reign (Soul Jazz Records presents Count Ossie & The Mystic
+    Revelation of Rastafari - Tales of Mozambique)
+  - >-
+    Narration (Soul Jazz Records Presents Rastafari: The Dreads Enter Babylon
+    1955-83 (From Nyabinghi, Burro and Grounation to Roots and Revelation))
+  - >-
+    Tales Of Mozambique (Soul Jazz Records presents Count Ossie & The Mystic
+    Revelation of Rastafari - Tales of Mozambique)
+  - >-
+    No Night In Zion (Soul Jazz Records presents Count Ossie & The Mystic
+    Revelation of Rastafari - Tales of Mozambique)
+  - >-
+    Nigerian Reggae (Soul Jazz Records presents Count Ossie & The Mystic
+    Revelation of Rastafari - Tales of Mozambique)
+  - Sam's Intro (Tales of Mozambique)
 external_urls:
-  spotify: https://open.spotify.com/artist/77I4HzxCWBIfIrXFMz1KYs
-  wikipedia: https://en.wikipedia.org/wiki/Count_Ossie
-image_path: 03_Resources/source_material/ArtistPortraits/count_ossie_and_the_mystic_revelation_of_rastafari.jpg
+  spotify: 'https://open.spotify.com/artist/77I4HzxCWBIfIrXFMz1KYs'
+  wikipedia: 'https://en.wikipedia.org/wiki/Count_Ossie'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/count_ossie_and_the_mystic_revelation_of_rastafari.jpg
 biography_enhanced_at: '2025-11-24T08:39:46.288848'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Count_Ossie
-- https://chimurengachronic.co.za/grounation-a-tribute-to-the-mystic-revelation-of-rastafari/
-- https://skabook.com/2016/03/27/the-drums-of-count-ossie/
-- https://echolocator.substack.com/p/the-mystic-revelation-of-count-ossie
-- https://insidejourneys.com/soulful-sundays-count-ossie-mystic-revelation-rastafari/
-- https://daily.redbullmusicacademy.com/2015/04/count-ossie-and-the-birth-of-reggae/
-- https://unitedreggae.com/articles/n2051/020116/count-ossie-the-mystic-revelation-of-rastafari-tales-of-mozambique
-- https://www.jamaicaobserver.com/2017/08/02/count-ossie-and-the-mystic-revelation-of-rastafari/
+  - 'https://en.wikipedia.org/wiki/Count_Ossie'
+  - >-
+    https://chimurengachronic.co.za/grounation-a-tribute-to-the-mystic-revelation-of-rastafari/
+  - 'https://skabook.com/2016/03/27/the-drums-of-count-ossie/'
+  - 'https://echolocator.substack.com/p/the-mystic-revelation-of-count-ossie'
+  - >-
+    https://insidejourneys.com/soulful-sundays-count-ossie-mystic-revelation-rastafari/
+  - >-
+    https://daily.redbullmusicacademy.com/2015/04/count-ossie-and-the-birth-of-reggae/
+  - >-
+    https://unitedreggae.com/articles/n2051/020116/count-ossie-the-mystic-revelation-of-rastafari-tales-of-mozambique
+  - >-
+    https://www.jamaicaobserver.com/2017/08/02/count-ossie-and-the-mystic-revelation-of-rastafari/
 network_extracted: true
 entry_created: '2025-11-24T08:39:46.288864'
 last_updated: '2025-12-23T08:16:07.233029'
-origin: Kingston, Jamaica (primary base); St. Thomas, Jamaica (birthplace)
+origin: 'Kingston, Jamaica (primary base); St. Thomas, Jamaica (birthplace)'
+birth_place: 'St. Thomas, Jamaica, United States'
+birth_date: '1926-03-26'
+artist_type: band
 ---
 
 ![](count_ossie_and_the_mystic_revelation_of_rastafari.jpg)

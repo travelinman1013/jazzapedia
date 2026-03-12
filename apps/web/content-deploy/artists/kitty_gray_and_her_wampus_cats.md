@@ -1,12 +1,13 @@
 ---
-title: kitty gray & her wampus cats
+title: Kitty Gray & Her Wampus Cats
 wiki_slug: kitty-gray-her-wampus-cats
 schema_version: 2
 status: active
 genres:
-- ragtime
+  - ragtime
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/kitty_gray_and_her_wampus_cats.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/kitty_gray_and_her_wampus_cats.jpg
   caption: kitty gray & her wampus cats
   background: solo_singer
 audio_profile:
@@ -24,59 +25,79 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Oscar "Buddy" Woods
-  - Kid West
-  - Unidentified scrub‑board player and drummer
+    - Oscar "Buddy" Woods
+    - Kid West
+    - Unidentified scrub‑board player and drummer
   influenced: []
   mentors: []
 spotify_data:
   followers: 29
   id: 7jkKld3EmTfL192uJFPvBr
   popularity: 0
-  url: https://open.spotify.com/artist/7jkKld3EmTfL192uJFPvBr
+  url: 'https://open.spotify.com/artist/7jkKld3EmTfL192uJFPvBr'
 discography_enriched: true
 top_tracks:
-- I Can't Dance (I Got Ants In My Pants) (Texas Piano Vol. 2 1927-1938)
-- Round And Round (Texas Piano Vol. 2 1927-1938)
-- You're Standing On The Outside Now (Texas Piano Vol. 2 1927-1938)
-- Swingology (Texas Piano Vol. 2 1927-1938)
-- My Baby's Ways (Texas Piano Vol. 2 1927-1938)
-- Baton Rouge Rag (Texas Piano Vol. 2 1927-1938)
-- Weeping Willow Swing (Texas Piano Vol. 2 1927-1938)
-- Getting' Away (Texas Piano Vol. 2 1927-1938)
-- Posin' (Texas Piano Vol. 2 1927-1938)
-- Doing the Dooga (Texas Piano Vol. 2 1927-1938)
+  - I Can't Dance (I Got Ants In My Pants) (Texas Piano Vol. 2 1927-1938)
+  - Round And Round (Texas Piano Vol. 2 1927-1938)
+  - You're Standing On The Outside Now (Texas Piano Vol. 2 1927-1938)
+  - Swingology (Texas Piano Vol. 2 1927-1938)
+  - My Baby's Ways (Texas Piano Vol. 2 1927-1938)
+  - Baton Rouge Rag (Texas Piano Vol. 2 1927-1938)
+  - Weeping Willow Swing (Texas Piano Vol. 2 1927-1938)
+  - Getting' Away (Texas Piano Vol. 2 1927-1938)
+  - Posin' (Texas Piano Vol. 2 1927-1938)
+  - Doing the Dooga (Texas Piano Vol. 2 1927-1938)
 external_urls:
-  spotify: https://open.spotify.com/artist/7jkKld3EmTfL192uJFPvBr
+  spotify: 'https://open.spotify.com/artist/7jkKld3EmTfL192uJFPvBr'
   wikipedia: ''
-image_path: 03_Resources/source_material/ArtistPortraits/kitty_gray_and_her_wampus_cats.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/kitty_gray_and_her_wampus_cats.jpg
 biography_enhanced_at: '2025-12-06T05:55:23.657968'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Jerry's Saloon Blues / Flyright Records liner‑note PDF mentioning Kitty Gray & Her Wampus Cats' October 30–31, 1937 San
-  Antonio recordings.[1]
-- Nonjohn.com article on Lloyd Glenn and San Antonio, which reconstructs San Antonio 1930s sessions and lists personnel for
-  Kitty Gray & Her Wampus Cats, including probable identification of Oscar "Buddy" Woods and Kid West.[2]
-- Big Road Blues (Sundayblues.org) ragtime blues feature listing "Baton Rouge Rag" by Kitty Gray & Her Wampus Cats with Oscar
-  Woods.[3]
-- YouTube upload and description for "Round and Round" (Vocalion 03992), identifying the track as a 1937 Kitty Gray & Her
-  Wampus Cats recording and noting the lack of biographical data.[4]
-- Cultural Equity Louisiana booklet referencing "Baton Rouge Rag" (composer credit to Joe Harris and Jimmie Davis) and contextualizing
-  the tune within old‑time and regional dance music.[5]
-- Online Discographical Project (Vocalion 3500–4000 series) listing Kitty Gray & Her Wampus Cats titles such as "Posin'" and
-  "Swingology," recorded in San Antonio, 10/31/1937.[6]
-- YouTube upload of "Baton Rouge Rag" (1937) with notes identifying Kitty Gray on piano and Oscar "Buddy" Woods on guitar,
-  confirming the San Antonio, 1937 context.[7]
-- Field Recorder’s Collective contextual list of Texas musicians and "Wampus Cat"‑titled pieces, indicating the broader folkloric
-  use of the term Wampus Cat in regional music culture.[8]
-- YouTube/label reissue description for "Baton Rouge Rag" on a jazz guitar compilation, crediting Kitty Gray & Her Wampus
-  Cats and reinforcing personnel and date information.[9]
+  - >-
+    Jerry's Saloon Blues / Flyright Records liner‑note PDF mentioning Kitty Gray
+    & Her Wampus Cats' October 30–31, 1937 San Antonio recordings.[1]
+  - >-
+    Nonjohn.com article on Lloyd Glenn and San Antonio, which reconstructs San
+    Antonio 1930s sessions and lists personnel for Kitty Gray & Her Wampus Cats,
+    including probable identification of Oscar "Buddy" Woods and Kid West.[2]
+  - >-
+    Big Road Blues (Sundayblues.org) ragtime blues feature listing "Baton Rouge
+    Rag" by Kitty Gray & Her Wampus Cats with Oscar Woods.[3]
+  - >-
+    YouTube upload and description for "Round and Round" (Vocalion 03992),
+    identifying the track as a 1937 Kitty Gray & Her Wampus Cats recording and
+    noting the lack of biographical data.[4]
+  - >-
+    Cultural Equity Louisiana booklet referencing "Baton Rouge Rag" (composer
+    credit to Joe Harris and Jimmie Davis) and contextualizing the tune within
+    old‑time and regional dance music.[5]
+  - >-
+    Online Discographical Project (Vocalion 3500–4000 series) listing Kitty Gray
+    & Her Wampus Cats titles such as "Posin'" and "Swingology," recorded in San
+    Antonio, 10/31/1937.[6]
+  - >-
+    YouTube upload of "Baton Rouge Rag" (1937) with notes identifying Kitty Gray
+    on piano and Oscar "Buddy" Woods on guitar, confirming the San Antonio, 1937
+    context.[7]
+  - >-
+    Field Recorder’s Collective contextual list of Texas musicians and "Wampus
+    Cat"‑titled pieces, indicating the broader folkloric use of the term Wampus
+    Cat in regional music culture.[8]
+  - >-
+    YouTube/label reissue description for "Baton Rouge Rag" on a jazz guitar
+    compilation, crediting Kitty Gray & Her Wampus Cats and reinforcing
+    personnel and date information.[9]
 network_extracted: true
 entry_created: '2025-12-06T05:55:23.657979'
 last_updated: '2025-12-23T08:16:11.445005'
-origin: San Antonio, Texas, United States (documented recording location and regional context; actual birthplace of Kitty
-  Gray is not documented in available sources)
+origin: >-
+  San Antonio, Texas, United States (documented recording location and regional
+  context; actual birthplace of Kitty Gray is not documented in available
+  sources)
+artist_type: band
 ---
 
 ![](kitty_gray_and_her_wampus_cats.jpg)

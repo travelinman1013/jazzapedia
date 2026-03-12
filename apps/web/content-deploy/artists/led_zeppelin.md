@@ -1,88 +1,88 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-06T02:06:44.299606'
 birth_date: '1968'
 enhancement_provider: perplexity
 entry_created: '2026-01-06T02:06:44.299611'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/678d88b2-87b0-403b-b63d-5da7465aecc3
-  spotify: https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp
-  wikipedia: https://en.wikipedia.org/wiki/Led_Zeppelin
+  musicbrainz: 'https://musicbrainz.org/artist/678d88b2-87b0-403b-b63d-5da7465aecc3'
+  spotify: 'https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp'
+  wikipedia: 'https://en.wikipedia.org/wiki/Led_Zeppelin'
 genres:
-- classic rock
-- rock
-- hard rock
-- rock and roll
+  - classic rock
+  - rock
+  - hard rock
+  - rock and roll
 image_path: 03_Resources/source_material/ArtistPortraits/led_zeppelin.jpg
 instruments:
-- drums (drum set)
-- original
-- bass guitar
-- keyboard
-- guitar
-- lead vocals
-last_updated: '2026-01-06T02:06:44.299611'
-members:
-- begin: '1968'
-  end: '1980-09-25'
-  instruments:
   - drums (drum set)
   - original
-  mbid: 9c2b375c-ce68-44a8-90ac-e06b177f43f9
-  name: John Bonham
-- begin: '1968'
-  end: '1980-09-25'
-  instruments:
   - bass guitar
   - keyboard
-  - original
-  mbid: 4490113a-3880-4f5b-a39b-105bfceaed04
-  name: John Paul Jones
-- begin: '1968'
-  end: '1980-09-25'
-  instruments:
   - guitar
-  - original
-  mbid: 519774a4-3b18-4042-b8c0-927845a616c9
-  name: Jimmy Page
-- begin: '1968'
-  end: '1980-09-25'
-  instruments:
   - lead vocals
-  - original
-  mbid: bd53f9a7-8be9-46b0-bf7d-1deea3cb57bc
-  name: Robert Plant
+last_updated: '2026-01-06T02:06:44.299611'
+members:
+  - begin: '1968'
+    end: '1980-09-25'
+    instruments:
+      - drums (drum set)
+      - original
+    mbid: 9c2b375c-ce68-44a8-90ac-e06b177f43f9
+    name: John Bonham
+  - begin: '1968'
+    end: '1980-09-25'
+    instruments:
+      - bass guitar
+      - keyboard
+      - original
+    mbid: 4490113a-3880-4f5b-a39b-105bfceaed04
+    name: John Paul Jones
+  - begin: '1968'
+    end: '1980-09-25'
+    instruments:
+      - guitar
+      - original
+    mbid: 519774a4-3b18-4042-b8c0-927845a616c9
+    name: Jimmy Page
+  - begin: '1968'
+    end: '1980-09-25'
+    instruments:
+      - lead vocals
+      - original
+    mbid: bd53f9a7-8be9-46b0-bf7d-1deea3cb57bc
+    name: Robert Plant
 musical_connections:
   collaborators:
-  - Robert Plant
-  - Jimmy Page
-  - John Paul Jones
-  - John Bonham
+    - Robert Plant
+    - Jimmy Page
+    - John Paul Jones
+    - John Bonham
   influenced:
-  - Hard Rock and Heavy Metal Bands
+    - Hard Rock and Heavy Metal Bands
   mentors:
-  - The Yardbirds
-  - American Blues Standards
+    - The Yardbirds
+    - American Blues Standards
 musicbrainz_id: 678d88b2-87b0-403b-b63d-5da7465aecc3
 network_extracted: true
-origin: London
+origin: 'London, England, United Kingdom'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Led_Zeppelin
-- https://teachrock.org/people/led-zeppelin/
-- https://americansongwriter.com/the-origin-story-of-led-zeppelin/
-- https://www.britannica.com/topic/Led-Zeppelin
+  - 'https://en.wikipedia.org/wiki/Led_Zeppelin'
+  - 'https://teachrock.org/people/led-zeppelin/'
+  - 'https://americansongwriter.com/the-origin-story-of-led-zeppelin/'
+  - 'https://www.britannica.com/topic/Led-Zeppelin'
 spotify_data:
   followers: 16227523
   id: 36QJpDe2go2KgaRleHCDTp
   popularity: 78
-  url: https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp
+  url: 'https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp'
 status: active
 tags:
-- arena rock
-- blues rock
-- british
-title: LED ZEPPELIN
+  - arena rock
+  - blues rock
+  - british
+title: Led Zeppelin
 ---
 
 ![](led_zeppelin.jpg)

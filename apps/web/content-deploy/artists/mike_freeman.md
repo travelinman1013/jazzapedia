@@ -3,15 +3,15 @@ title: Mike Freeman
 wiki_slug: mike-freeman
 schema_version: 2
 status: active
-birth_place: Omaha, Nebraska, United States
+birth_place: 'Omaha, Nebraska, United States'
 genres:
-- hi-nrg
-- hypertechno
+  - hi-nrg
+  - hypertechno
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/mike_freeman.jpg
   caption: Mike Freeman
   background: solo_singer
-  origin: Omaha, Nebraska, United States
+  origin: 'Omaha, Nebraska, United States'
 audio_profile:
   tempo_avg: 128.6
   energy_avg: 0.589
@@ -27,53 +27,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ray Mantilla
-  - Jose Mangual Jr.
-  - Julio Salgado
-  - Lucho Cueto
-  - Spanish Harlem Orchestra (Oscar Hernandez)
-  - Willie Villegas's Joe Cuba Sextet
+    - Ray Mantilla
+    - Jose Mangual Jr.
+    - Julio Salgado
+    - Lucho Cueto
+    - Spanish Harlem Orchestra (Oscar Hernandez)
+    - Willie Villegas's Joe Cuba Sextet
   influenced:
-  - Chicago Symphony Orchestra Percussion Scholarship Program students
-  - Shanghai Symphony Orchestra percussionists
+    - Chicago Symphony Orchestra Percussion Scholarship Program students
+    - Shanghai Symphony Orchestra percussionists
   mentors:
-  - Bobby Christian
-  - Alan Swain
-  - Tom Hilliard
-  - Hale Rood
+    - Bobby Christian
+    - Alan Swain
+    - Tom Hilliard
+    - Hale Rood
 spotify_data:
   followers: 383
   id: 5ZSwWhuLIcYVlN4ustTWzK
   popularity: 3
-  url: https://open.spotify.com/artist/5ZSwWhuLIcYVlN4ustTWzK
+  url: 'https://open.spotify.com/artist/5ZSwWhuLIcYVlN4ustTWzK'
 discography_enriched: true
 top_tracks:
-- Welcome to Faith City with Pastor Mike Freeman (Welcome to Faith City)
-- What Is Real
-- What Is Real
-- IN MY DREAMS (MAHARAJA NIGHT HI-NRG REVOLUTION (VOL.11))
-- What Is Real (Super Eurobeat Vol.120)
-- Kamikaze For Love (Super Eurobeat Vol.60 (Anniversary Non-Stop Mix))
-- What Is Real (Super Eurobeat Vol.230)
-- What Is Real (Super Eurobeat Vol.210)
-- CAN YOU FEEL THE PASSION
-- I'M A SINGLE MAN
+  - Welcome to Faith City with Pastor Mike Freeman (Welcome to Faith City)
+  - What Is Real
+  - What Is Real
+  - IN MY DREAMS (MAHARAJA NIGHT HI-NRG REVOLUTION (VOL.11))
+  - What Is Real (Super Eurobeat Vol.120)
+  - Kamikaze For Love (Super Eurobeat Vol.60 (Anniversary Non-Stop Mix))
+  - What Is Real (Super Eurobeat Vol.230)
+  - What Is Real (Super Eurobeat Vol.210)
+  - CAN YOU FEEL THE PASSION
+  - I'M A SINGLE MAN
 external_urls:
-  spotify: https://open.spotify.com/artist/5ZSwWhuLIcYVlN4ustTWzK
-  wikipedia: https://en.wikipedia.org/wiki/Mike_Freeman_(jazz_musician)
+  spotify: 'https://open.spotify.com/artist/5ZSwWhuLIcYVlN4ustTWzK'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mike_Freeman_(jazz_musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/mike_freeman.jpg
 biography_enhanced_at: '2025-10-25T10:02:07.939415'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Mike_Freeman_(jazz_musician)
-- https://mikefreemanjazz.com/mike-freeman/bio.html
-- https://www.allaboutjazz.com/musicians/mike-freeman/
-- http://www.jazzvibe.com/mike-freeman/facts.html
-- http://jazzcaribe.blogspot.com/2016/04/mike-freeman-vibe-descarga.html
+  - 'https://en.wikipedia.org/wiki/Mike_Freeman_(jazz_musician)'
+  - 'https://mikefreemanjazz.com/mike-freeman/bio.html'
+  - 'https://www.allaboutjazz.com/musicians/mike-freeman/'
+  - 'http://www.jazzvibe.com/mike-freeman/facts.html'
+  - 'http://jazzcaribe.blogspot.com/2016/04/mike-freeman-vibe-descarga.html'
 network_extracted: true
 entry_created: '2025-10-25T10:02:07.939428'
 last_updated: '2025-12-23T08:16:13.136176'
+artist_type: person
 ---
 
 ![](mike_freeman.jpg)

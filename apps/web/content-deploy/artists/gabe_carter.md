@@ -1,18 +1,22 @@
 ---
-title: gabe carter
+title: Mississippi Gabe Carter
 wiki_slug: gabe-carter
 schema_version: 2
 status: active
-birth_place: South Bend, Indiana, United States (born); Chicago, Illinois, United States (primary base as an adult)
+birth_place: >-
+  South Bend, Indiana, United States (born); Chicago, Illinois, United States
+  (primary base as an adult)
 genres:
-- blues rock
-- modern blues
-- blues
+  - blues rock
+  - modern blues
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/gabe_carter.jpg
   caption: gabe carter
   background: solo_singer
-  origin: South Bend, Indiana, United States (born); Chicago, Illinois, United States (primary base as an adult)
+  origin: >-
+    South Bend, Indiana, United States (born); Chicago, Illinois, United States
+    (primary base as an adult)
 audio_profile:
   tempo_avg: 82.9
   energy_avg: 0.438
@@ -20,7 +24,7 @@ audio_profile:
   danceability_avg: 0.599
   acousticness_avg: 0.545
   instrumentalness_avg: 0.445
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.033
   liveness_avg: 0.162
   track_count: 7
@@ -28,41 +32,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dan Auerbach / Easy Eye Sound blues compilation
+    - Dan Auerbach / Easy Eye Sound blues compilation
   influenced: []
   mentors:
-  - Traditional Mississippi and country blues artists (e.g., pre‑war and hill‑country blues musicians)
+    - >-
+      Traditional Mississippi and country blues artists (e.g., pre‑war and
+      hill‑country blues musicians)
 spotify_data:
   followers: 835
   id: 57rLxwICLUV38lrrMrQROd
   popularity: 13
-  url: https://open.spotify.com/artist/57rLxwICLUV38lrrMrQROd
+  url: 'https://open.spotify.com/artist/57rLxwICLUV38lrrMrQROd'
 discography_enriched: true
 top_tracks:
-- Buffalo Road (Buffalo Road)
-- Anything You Need (Tell Everybody! (21st Century Juke Joint Blues From Easy Eye Sound))
-- Buffalo Road (Every Chance I Get (I Want You In The Flesh))
-- Buffalo Road (Tell Everybody! (21st Century Juke Joint Blues From Easy Eye Sound))
-- 'Two White Horses (Homeward Bound: A Loving Tribute to John-Alex Mason)'
-- Buffalo Road (Daughter Of Zion [Feat. Joe Walsh])
-- Buffalo Road (Coal Black Mattie)
+  - Buffalo Road (Buffalo Road)
+  - >-
+    Anything You Need (Tell Everybody! (21st Century Juke Joint Blues From Easy
+    Eye Sound))
+  - Buffalo Road (Every Chance I Get (I Want You In The Flesh))
+  - >-
+    Buffalo Road (Tell Everybody! (21st Century Juke Joint Blues From Easy Eye
+    Sound))
+  - 'Two White Horses (Homeward Bound: A Loving Tribute to John-Alex Mason)'
+  - 'Buffalo Road (Daughter Of Zion [Feat. Joe Walsh])'
+  - Buffalo Road (Coal Black Mattie)
 external_urls:
-  spotify: https://open.spotify.com/artist/57rLxwICLUV38lrrMrQROd
+  spotify: 'https://open.spotify.com/artist/57rLxwICLUV38lrrMrQROd'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/gabe_carter.jpg
 biography_enhanced_at: '2025-12-06T06:04:09.539139'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.getlocalbeverly.org/grounds
-- https://www.reverbnation.com/mississippigc
-- https://whozthebossmusic.com/mississippi-gabe-carter
-- https://www.viberate.com/artist/mississippi-gabe-carter/
-- https://www.stereostories.com/holy-city-by-mississippi-gabe-carter-story-by-dan-firth/
-- https://americansongwriter.com/gabe-carters-dream-inspired-buffalo-road-from-dan-auerbach-produced-blues-compilation-exclusive-premiere/
+  - 'https://www.getlocalbeverly.org/grounds'
+  - 'https://www.reverbnation.com/mississippigc'
+  - 'https://whozthebossmusic.com/mississippi-gabe-carter'
+  - 'https://www.viberate.com/artist/mississippi-gabe-carter/'
+  - >-
+    https://www.stereostories.com/holy-city-by-mississippi-gabe-carter-story-by-dan-firth/
+  - >-
+    https://americansongwriter.com/gabe-carters-dream-inspired-buffalo-road-from-dan-auerbach-produced-blues-compilation-exclusive-premiere/
 network_extracted: true
 entry_created: '2025-12-06T06:04:09.539151'
 last_updated: '2025-12-23T08:16:08.920578'
+origin: 'Chicago, Illinois, United States'
+artist_type: person
 ---
 
 ![](gabe_carter.jpg)

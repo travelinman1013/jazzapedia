@@ -2,51 +2,52 @@
 artist_type: person
 biography_enhanced_at: '2026-01-07T01:20:37.166575'
 birth_date: '1999-04-23'
-birth_place: Reykjavík
+birth_place: 'Reykjavík, Iceland, Country'
 enhancement_provider: perplexity
 entry_created: '2026-01-07T01:20:37.166580'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/21a89505-10a9-4ac0-8388-833bc07b9f86
-  spotify: https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO
+  musicbrainz: 'https://musicbrainz.org/artist/21a89505-10a9-4ac0-8388-833bc07b9f86'
+  spotify: 'https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO'
   wikipedia: ''
 gender: Female
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/laufey.jpg
 instruments:
-- acoustic guitar
-- guitar
-- piano
-- electric guitar
-- lead vocals
+  - acoustic guitar
+  - guitar
+  - piano
+  - electric guitar
+  - lead vocals
 last_updated: '2026-01-07T01:20:37.166581'
 musical_connections:
   collaborators:
-  - Philharmonia Orchestra
-  - Iceland Symphony Orchestra
+    - Philharmonia Orchestra
+    - Iceland Symphony Orchestra
   influenced: []
   mentors:
-  - Billie Holiday
-  - Ella Fitzgerald
-  - Chet Baker
+    - Billie Holiday
+    - Ella Fitzgerald
+    - Chet Baker
 musicbrainz_id: 21a89505-10a9-4ac0-8388-833bc07b9f86
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.bluelagoon.com/stories/laufey
-- https://metalmagazine.eu/en/post/laufey
-- https://www.berklee.edu/berklee-now/news/whos-laufey-now
-- https://laufeypedia.fandom.com/wiki/Laufey
+  - 'https://www.bluelagoon.com/stories/laufey'
+  - 'https://metalmagazine.eu/en/post/laufey'
+  - 'https://www.berklee.edu/berklee-now/news/whos-laufey-now'
+  - 'https://laufeypedia.fandom.com/wiki/Laufey'
 spotify_data:
   followers: 9092900
   id: 7gW0r5CkdEUMm42w9XpyZO
   popularity: 86
-  url: https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO
+  url: 'https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO'
 status: active
 tags:
-- 2020s
-- bossa nova
-- easy listening
-title: laufey
+  - 2020s
+  - bossa nova
+  - easy listening
+title: Laufey
+origin: 'Washington, D.C., District of Columbia, United States'
 ---
 
 ![](laufey.jpg)

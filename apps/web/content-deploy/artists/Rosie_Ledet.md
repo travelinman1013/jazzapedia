@@ -5,12 +5,12 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1971-10-25'
-birth_place: Church Point
+birth_place: 'Church Point, Louisiana, United States'
 genres:
-- zydeco
-- cajun
+  - zydeco
+  - cajun
 instruments:
-- lead vocals
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/rosie_ledet.jpg
   caption: Rosie Ledet
@@ -32,46 +32,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Morris Ledet
-  - Mike Lachney (DJ BAD WEATHER)
+    - Morris Ledet
+    - Mike Lachney (DJ BAD WEATHER)
   influenced:
-  - Female zydeco musicians
+    - Female zydeco musicians
   mentors:
-  - Boozoo Chavis
-  - Morris Ledet
+    - Boozoo Chavis
+    - Morris Ledet
 spotify_data:
   followers: 3070
   id: 08Utsn05gzPaciVeIBnkeP
   popularity: 11
-  url: https://open.spotify.com/artist/08Utsn05gzPaciVeIBnkeP
+  url: 'https://open.spotify.com/artist/08Utsn05gzPaciVeIBnkeP'
 discography_enriched: true
 top_tracks:
-- Caffina (Come Get Some)
-- You Can Eat My Poussiere (You Can Eat My Dust) (I'm a Woman)
-- Keep The Faith (Come Get Some)
-- You're No Good for Me (Sweet Brown Sugar)
-- I'm Gonna Take Care of Your Dog (Zesty Zydeco)
-- Pick It Up (Pick It Up)
-- Kisses in the Wind (I'm a Woman)
-- Sweet Brown Sugar (Sweet Brown Sugar)
-- I Love Louisiana (Pick It Up)
-- Days Gone By (Show Me Something)
+  - Caffina (Come Get Some)
+  - You Can Eat My Poussiere (You Can Eat My Dust) (I'm a Woman)
+  - Keep The Faith (Come Get Some)
+  - You're No Good for Me (Sweet Brown Sugar)
+  - I'm Gonna Take Care of Your Dog (Zesty Zydeco)
+  - Pick It Up (Pick It Up)
+  - Kisses in the Wind (I'm a Woman)
+  - Sweet Brown Sugar (Sweet Brown Sugar)
+  - I Love Louisiana (Pick It Up)
+  - Days Gone By (Show Me Something)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4d83ff86-8bab-4bbf-a64f-45a7e63f4339
-  spotify: https://open.spotify.com/artist/08Utsn05gzPaciVeIBnkeP
-  wikipedia: https://en.wikipedia.org/wiki/Rosie_Ledet
+  musicbrainz: 'https://musicbrainz.org/artist/4d83ff86-8bab-4bbf-a64f-45a7e63f4339'
+  spotify: 'https://open.spotify.com/artist/08Utsn05gzPaciVeIBnkeP'
+  wikipedia: 'https://en.wikipedia.org/wiki/Rosie_Ledet'
 image_path: 03_Resources/source_material/ArtistPortraits/rosie_ledet.jpg
 biography_enhanced_at: '2025-11-15T18:13:13.958591'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://musicrising.tulane.edu/discover/people/rosie-ledet/
-- https://www.holican.io/artist-wiki/rosie-ledet
-- https://wbssmedia.com/artists/detail/4020
-- https://en.wikipedia.org/wiki/Rosie_Ledet
-- https://flattownmusic.com/artist/rosie-ledet/
-- https://64parishes.org/entry/rosie-ledet
-- https://cotatifest.com/2019/01/30/rosie-ledet-the-zydeco-playboys/
+  - 'https://musicrising.tulane.edu/discover/people/rosie-ledet/'
+  - 'https://www.holican.io/artist-wiki/rosie-ledet'
+  - 'https://wbssmedia.com/artists/detail/4020'
+  - 'https://en.wikipedia.org/wiki/Rosie_Ledet'
+  - 'https://flattownmusic.com/artist/rosie-ledet/'
+  - 'https://64parishes.org/entry/rosie-ledet'
+  - 'https://cotatifest.com/2019/01/30/rosie-ledet-the-zydeco-playboys/'
 network_extracted: true
 entry_created: '2025-11-15T18:13:13.958601'
 last_updated: '2025-12-23T08:16:03.749861'

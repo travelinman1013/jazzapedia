@@ -1,16 +1,16 @@
 ---
-title: bobby watson
+title: Bobby Watson
 wiki_slug: bobby-watson
 schema_version: 2
 status: active
-birth_place: Lawrence, Kansas, United States
+birth_place: 'Lawrence, Kansas, United States'
 genres:
-- jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bobby_watson.jpg
   caption: bobby watson
   background: solo_singer
-  origin: Lawrence, Kansas, United States
+  origin: 'Lawrence, Kansas, United States'
 audio_profile:
   tempo_avg: 116.1
   energy_avg: 0.416
@@ -26,48 +26,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Curtis Lundy
-  - Victor Lewis
-  - Branford Marsalis
-  - Wynton Marsalis
-  - 29th Street Saxophone Quartet
+    - Curtis Lundy
+    - Victor Lewis
+    - Branford Marsalis
+    - Wynton Marsalis
+    - 29th Street Saxophone Quartet
   influenced:
-  - UMKC Jazz Studies students
+    - UMKC Jazz Studies students
   mentors:
-  - Art Blakey
-  - Max Roach
+    - Art Blakey
+    - Max Roach
 spotify_data:
   followers: 4575
   id: 13uMuAAeBobEw1i4wRQ7HQ
   popularity: 26
-  url: https://open.spotify.com/artist/13uMuAAeBobEw1i4wRQ7HQ
+  url: 'https://open.spotify.com/artist/13uMuAAeBobEw1i4wRQ7HQ'
 discography_enriched: true
 top_tracks:
-- The Merry Old Land Of Oz
-- I'm Glad There Is You (Back Home in Kansas City)
-- Keepin' It Real (Keepin' It Real)
-- Our Love Remains (Back Home in Kansas City)
-- Bustalk (A Bronx Tale - Music From The Motion Picture)
-- Imbao
-- The Merry Old Land of Oz
-- Ain't That Loving You (From the East Side)
-- For Milt (From the Heart)
-- Faith
+  - The Merry Old Land Of Oz
+  - I'm Glad There Is You (Back Home in Kansas City)
+  - Keepin' It Real (Keepin' It Real)
+  - Our Love Remains (Back Home in Kansas City)
+  - Bustalk (A Bronx Tale - Music From The Motion Picture)
+  - Imbao
+  - The Merry Old Land of Oz
+  - Ain't That Loving You (From the East Side)
+  - For Milt (From the Heart)
+  - Faith
 external_urls:
-  spotify: https://open.spotify.com/artist/13uMuAAeBobEw1i4wRQ7HQ
-  wikipedia: https://en.wikipedia.org/wiki/Bobby_Watson_(American_musician)
+  spotify: 'https://open.spotify.com/artist/13uMuAAeBobEw1i4wRQ7HQ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bobby_Watson_(American_musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/bobby_watson.jpg
 biography_enhanced_at: '2025-11-20T07:10:56.398634'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Bobby_Watson_(American_musician)
-- https://bobbywatson.com/bio/
-- https://www.bluenote.com/artist/bobby-watson/
+  - 'https://en.wikipedia.org/wiki/Bobby_Watson_(American_musician)'
+  - 'https://bobbywatson.com/bio/'
+  - 'https://www.bluenote.com/artist/bobby-watson/'
 network_extracted: true
 entry_created: '2025-11-20T07:10:56.398644'
 last_updated: '2025-12-23T08:16:05.882443'
-
+origin: 'Kansas City, Kansas, United States'
+artist_type: person
 ---
 
 ![](bobby_watson.jpg)

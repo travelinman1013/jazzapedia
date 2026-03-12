@@ -3,19 +3,19 @@ title: Frankie Paul
 wiki_slug: frankie-paul
 schema_version: 2
 status: active
-birth_place: Kingston, Jamaica
+birth_place: 'Kingston, Jamaica, United States'
 genres:
-- lovers rock
-- reggae
-- roots reggae
-- ragga
-- dancehall
-- rocksteady
+  - lovers rock
+  - reggae
+  - roots reggae
+  - ragga
+  - dancehall
+  - rocksteady
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/frankie_paul.jpg
   caption: Frankie Paul
   background: solo_singer
-  origin: Kingston, Jamaica
+  origin: 'Kingston, Jamaica'
 audio_profile:
   tempo_avg: 105.7
   energy_avg: 0.544
@@ -31,51 +31,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Henry 'Junjo' Lawes
-  - George Phang
-  - Philip 'Fatis' Burrell
-  - Coco T
-  - Admiral Bailey
+    - Henry 'Junjo' Lawes
+    - George Phang
+    - Philip 'Fatis' Burrell
+    - Coco T
+    - Admiral Bailey
   influenced:
-  - Young generation of Jamaican artists
+    - Young generation of Jamaican artists
   mentors:
-  - Stevie Wonder
-  - Dennis Brown
+    - Stevie Wonder
+    - Dennis Brown
 spotify_data:
   followers: 80543
   id: 1J4CDjVHn8ummXVmJ7Q73u
   popularity: 41
-  url: https://open.spotify.com/artist/1J4CDjVHn8ummXVmJ7Q73u
+  url: 'https://open.spotify.com/artist/1J4CDjVHn8ummXVmJ7Q73u'
 discography_enriched: true
 top_tracks:
-- Reggae Hits Collection - Continuous Mix
-- Reggae Rewind - Continuous Mix
-- Stuck On (Asking For Love)
-- Sara (Most Wanted)
-- Reggae Lovers Rock, Vol. 2 - Continuous Mix
-- Raggamuffin Girl (Make Way For The Indian)
-- Pass The Tu Sheng Peng (Pass The Tu-Sheng-Peng)
-- I Know the Score (Frankie Paul At His Best)
-- Worries In The Dance (Hot Number)
-- I Know The Score (Most Wanted)
+  - Reggae Hits Collection - Continuous Mix
+  - Reggae Rewind - Continuous Mix
+  - Stuck On (Asking For Love)
+  - Sara (Most Wanted)
+  - 'Reggae Lovers Rock, Vol. 2 - Continuous Mix'
+  - Raggamuffin Girl (Make Way For The Indian)
+  - Pass The Tu Sheng Peng (Pass The Tu-Sheng-Peng)
+  - I Know the Score (Frankie Paul At His Best)
+  - Worries In The Dance (Hot Number)
+  - I Know The Score (Most Wanted)
 external_urls:
-  spotify: https://open.spotify.com/artist/1J4CDjVHn8ummXVmJ7Q73u
+  spotify: 'https://open.spotify.com/artist/1J4CDjVHn8ummXVmJ7Q73u'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/frankie_paul.jpg
 biography_enhanced_at: '2025-12-04T08:22:46.497112'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Reggaeville - Frankie Paul Biography
-- 'YouTube - Frankie Paul Life and Legacy: A Brief Biography'
-- Reggae Europe - Frankie Paul
-- YouTube - The Amazing Life & Journey of Frankie Paul
-- TrackLib - Frankie Paul
-- VP Records - Reggae Legend Frankie Paul Passes Away
-- TheAudioDB - Frankie Paul
+  - Reggaeville - Frankie Paul Biography
+  - 'YouTube - Frankie Paul Life and Legacy: A Brief Biography'
+  - Reggae Europe - Frankie Paul
+  - YouTube - The Amazing Life & Journey of Frankie Paul
+  - TrackLib - Frankie Paul
+  - VP Records - Reggae Legend Frankie Paul Passes Away
+  - TheAudioDB - Frankie Paul
 network_extracted: true
 entry_created: '2025-12-04T08:22:46.497122'
 last_updated: '2025-12-23T08:16:08.791634'
+birth_date: '1965-10-19'
+death_date: '2017-05-18'
+artist_type: person
 ---
 
 ![](frankie_paul.jpg)

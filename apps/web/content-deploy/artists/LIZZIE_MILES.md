@@ -1,16 +1,16 @@
 ---
-title: LIZZIE MILES
+title: Lizzie Miles
 wiki_slug: lizzie-miles
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- classic blues
+  - classic blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lizzie_miles.jpg
   caption: LIZZIE MILES
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 106.4
   energy_avg: 0.257
@@ -26,53 +26,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - A.J. Piron
-  - Sam Wooding
-  - Jelly Roll Morton
-  - Fats Waller
-  - Bob Scobey
-  - Paul Barbarin
+    - A.J. Piron
+    - Sam Wooding
+    - Jelly Roll Morton
+    - Fats Waller
+    - Bob Scobey
+    - Paul Barbarin
   influenced:
-  - Herb Morand
-  - Edna Hicks
+    - Herb Morand
+    - Edna Hicks
   mentors:
-  - King Oliver
-  - Kid Ory
-  - Gertrude 'Ma' Rainey
+    - King Oliver
+    - Kid Ory
+    - Gertrude 'Ma' Rainey
 spotify_data:
   followers: 1840
   id: 7u9jicjzN1GUyXvX5FROHN
   popularity: 11
-  url: https://open.spotify.com/artist/7u9jicjzN1GUyXvX5FROHN
+  url: 'https://open.spotify.com/artist/7u9jicjzN1GUyXvX5FROHN'
 discography_enriched: true
 top_tracks:
-- A Good Man Is Hard to Find (My Pillow and Me)
-- Cotton Belt Blues (Lizzie Miles Vol. 2 (1923-1928))
-- A Good Man Is Hard to Find
-- Can’t Help Loving That Man of Mine (Moans and Blues)
-- A Good Man Is Hard to Find
-- Cotton Belt Blues (My Pillow and Me)
-- A Good Man Is Hard to Find - Alternate Take (My Pillow and Me)
-- My Pillow And Me (Lizzie Miles Vol. 2 (1923-1928))
-- Lonesome Ghost Blues (Lizzie Miles Vol. 2 (1923-1928))
-- Basin Street Blues No. 70 (Lizzie Miles)
+  - A Good Man Is Hard to Find (My Pillow and Me)
+  - Cotton Belt Blues (Lizzie Miles Vol. 2 (1923-1928))
+  - A Good Man Is Hard to Find
+  - Can’t Help Loving That Man of Mine (Moans and Blues)
+  - A Good Man Is Hard to Find
+  - Cotton Belt Blues (My Pillow and Me)
+  - A Good Man Is Hard to Find - Alternate Take (My Pillow and Me)
+  - My Pillow And Me (Lizzie Miles Vol. 2 (1923-1928))
+  - Lonesome Ghost Blues (Lizzie Miles Vol. 2 (1923-1928))
+  - Basin Street Blues No. 70 (Lizzie Miles)
 external_urls:
-  spotify: https://open.spotify.com/artist/7u9jicjzN1GUyXvX5FROHN
-  wikipedia: https://en.wikipedia.org/wiki/Lizzie_Miles
+  spotify: 'https://open.spotify.com/artist/7u9jicjzN1GUyXvX5FROHN'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lizzie_Miles'
 image_path: 03_Resources/source_material/ArtistPortraits/lizzie_miles.jpg
 biography_enhanced_at: '2025-10-23T07:18:21.729821'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://syncopatedtimes.com/lizzie-miles-1895-1963/
-- https://blinddogradio.blogspot.com/2024/01/lizzie-miles.html
-- https://kids.kiddle.co/Lizzie_Miles
-- https://64parishes.org/entry/lizzie-miles
-- https://aaregistry.org/story/blues-with-a-touch-of-creole-lizzie-miles/
+  - 'https://syncopatedtimes.com/lizzie-miles-1895-1963/'
+  - 'https://blinddogradio.blogspot.com/2024/01/lizzie-miles.html'
+  - 'https://kids.kiddle.co/Lizzie_Miles'
+  - 'https://64parishes.org/entry/lizzie-miles'
+  - 'https://aaregistry.org/story/blues-with-a-touch-of-creole-lizzie-miles/'
 network_extracted: true
 entry_created: '2025-10-23T07:18:21.729832'
 last_updated: '2025-12-23T08:16:02.933870'
-
+artist_type: person
 ---
 
 ![](lizzie_miles.jpg)

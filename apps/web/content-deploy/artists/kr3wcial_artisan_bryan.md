@@ -1,22 +1,22 @@
 ---
-title: Kr3wcial, Artisan Bryan
+title: 'Kr3wcial, Artisan Bryan'
 wiki_slug: kr3wcial-artisan-bryan
 schema_version: 2
 status: active
-birth_place: Algiers, New Orleans, Louisiana, USA
+birth_place: 'Algiers, New Orleans, Louisiana, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/kr3wcial_artisan_bryan.jpg
-  caption: Kr3wcial, Artisan Bryan
+  caption: 'Kr3wcial, Artisan Bryan'
   background: solo_singer
-  origin: Algiers, New Orleans, Louisiana, USA
+  origin: 'Algiers, New Orleans, Louisiana, USA'
 audio_profile:
   tempo_avg: 108.3
   energy_avg: 0.616
   valence_avg: 0.56
   danceability_avg: 0.658
   acousticness_avg: 0.267
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -9.1
   speechiness_avg: 0.324
   liveness_avg: 0.185
@@ -25,43 +25,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - glbl wrmng
+    - glbl wrmng
   influenced: []
   mentors:
-  - Tony Gullage
-  - Irma Thomas, Davell Crawford, Henry Butler
-  - Bob Marley
+    - Tony Gullage
+    - 'Irma Thomas, Davell Crawford, Henry Butler'
+    - Bob Marley
 spotify_data:
   followers: 640
   id: 286zFnBdNwLtIC6Uo4l1t3
   popularity: 10
-  url: https://open.spotify.com/artist/286zFnBdNwLtIC6Uo4l1t3
+  url: 'https://open.spotify.com/artist/286zFnBdNwLtIC6Uo4l1t3'
 discography_enriched: true
 top_tracks:
-- 504 (glbl wrmng, vol. 1)
-- Somebody
-- Done With The (Terrell Charbonneau)
-- Done With The
-- No Days Off (The Cultivation 2)
-- '504'
-- She Thought
-- Done With The (Terrell Charbonneau (Deluxe Edition))
-- S.E.X (III)
-- Carry Me
+  - '504 (glbl wrmng, vol. 1)'
+  - Somebody
+  - Done With The (Terrell Charbonneau)
+  - Done With The
+  - No Days Off (The Cultivation 2)
+  - '504'
+  - She Thought
+  - Done With The (Terrell Charbonneau (Deluxe Edition))
+  - S.E.X (III)
+  - Carry Me
 external_urls:
-  spotify: https://open.spotify.com/artist/286zFnBdNwLtIC6Uo4l1t3
+  spotify: 'https://open.spotify.com/artist/286zFnBdNwLtIC6Uo4l1t3'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/kr3wcial_artisan_bryan.jpg
 biography_enhanced_at: '2025-10-29T16:48:52.124973'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.hazzemedia.com/post/kr3wcial
-- https://astudiointhewoods.org/artist/kr3wcial/
-- https://www.neworleans.com/listing/kr3wcial/50732/
+  - 'https://www.hazzemedia.com/post/kr3wcial'
+  - 'https://astudiointhewoods.org/artist/kr3wcial/'
+  - 'https://www.neworleans.com/listing/kr3wcial/50732/'
 network_extracted: true
 entry_created: '2025-10-29T16:48:52.124981'
 last_updated: '2025-12-23T08:16:11.487493'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](kr3wcial_artisan_bryan.jpg)

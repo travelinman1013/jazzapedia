@@ -1,18 +1,18 @@
 ---
-title: peter case
+title: Peter Case
 wiki_slug: peter-case
 schema_version: 2
 status: active
-birth_place: Buffalo, New York, United States
+birth_place: 'Buffalo, New York, United States'
 genres:
-- americana
-- alt country
-- roots rock
+  - americana
+  - alt country
+  - roots rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/peter_case.jpg
   caption: peter case
   background: solo_singer
-  origin: Buffalo, New York, United States
+  origin: 'Buffalo, New York, United States'
 audio_profile:
   tempo_avg: 116.3
   energy_avg: 0.515
@@ -28,50 +28,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jack Lee
-  - Paul Collins
-  - The Plimsouls (band)
-  - Jackson Browne
+    - Jack Lee
+    - Paul Collins
+    - The Plimsouls (band)
+    - Jackson Browne
   influenced:
-  - Paul Collins
-  - Numerous Americana and roots rock artists
+    - Paul Collins
+    - Numerous Americana and roots rock artists
   mentors:
-  - T. S. Eliot (indirectly)
+    - T. S. Eliot (indirectly)
 spotify_data:
   followers: 8985
   id: 771bZ8ZHkvOqkI7baL68X3
   popularity: 18
-  url: https://open.spotify.com/artist/771bZ8ZHkvOqkI7baL68X3
+  url: 'https://open.spotify.com/artist/771bZ8ZHkvOqkI7baL68X3'
 discography_enriched: true
 top_tracks:
-- Help (We Can Help)
-- Bumble Bee (The Midnight Broadcast)
-- Ain't Gonna Worry No More (Let Us Now Praise Sleepy John)
-- Entella Hotel (The Man With The Blue Post Modern Fragmented Neo-Traditionalist Guitar)
-- Help Me (We Can Help)
-- Long Time Gone (HWY 62 Expanded Edition)
-- On The Way Downtown (Full Service, No Waiting)
-- Two Angels (The Man With The Blue Post Modern Fragmented Neo-Traditionalist Guitar)
-- Put Down The Gun (The Man With The Blue Post Modern Fragmented Neo-Traditionalist Guitar)
-- Travellin' Light (The Man With The Blue Post Modern Fragmented Neo-Traditionalist Guitar)
+  - Help (We Can Help)
+  - Bumble Bee (The Midnight Broadcast)
+  - Ain't Gonna Worry No More (Let Us Now Praise Sleepy John)
+  - >-
+    Entella Hotel (The Man With The Blue Post Modern Fragmented
+    Neo-Traditionalist Guitar)
+  - Help Me (We Can Help)
+  - Long Time Gone (HWY 62 Expanded Edition)
+  - 'On The Way Downtown (Full Service, No Waiting)'
+  - >-
+    Two Angels (The Man With The Blue Post Modern Fragmented Neo-Traditionalist
+    Guitar)
+  - >-
+    Put Down The Gun (The Man With The Blue Post Modern Fragmented
+    Neo-Traditionalist Guitar)
+  - >-
+    Travellin' Light (The Man With The Blue Post Modern Fragmented
+    Neo-Traditionalist Guitar)
 external_urls:
-  spotify: https://open.spotify.com/artist/771bZ8ZHkvOqkI7baL68X3
-  wikipedia: https://en.wikipedia.org/wiki/Peter_Case
+  spotify: 'https://open.spotify.com/artist/771bZ8ZHkvOqkI7baL68X3'
+  wikipedia: 'https://en.wikipedia.org/wiki/Peter_Case'
 image_path: 03_Resources/source_material/ArtistPortraits/peter_case.jpg
 biography_enhanced_at: '2025-11-08T22:05:04.891195'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Encyclopedia.com[1]
-- Makers and Shakers Podcast[2]
-- Song Chronicles Podcast[3]
-- PeterCase.com[4]
-- Fresh Air Archive[5]
-- 48 Hills[6]
+  - 'Encyclopedia.com[1]'
+  - 'Makers and Shakers Podcast[2]'
+  - 'Song Chronicles Podcast[3]'
+  - 'PeterCase.com[4]'
+  - 'Fresh Air Archive[5]'
+  - '48 Hills[6]'
 network_extracted: true
 entry_created: '2025-11-08T22:05:04.891211'
 last_updated: '2025-12-23T08:16:14.222685'
-
+artist_type: person
 ---
 
 ![](peter_case.jpg)

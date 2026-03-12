@@ -2,15 +2,15 @@
 title: The Gladiators
 wiki_slug: the-gladiators
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1968'
 genres:
-- roots reggae
-- reggae
-- rocksteady
-- dub
-- ragga
+  - roots reggae
+  - reggae
+  - rocksteady
+  - dub
+  - ragga
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_gladiators.jpg
   caption: The Gladiators
@@ -31,66 +31,67 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Clinton Fearon
-  - Gallimore Sutherland
-  - Al Griffiths
-  - Droop Lion
+    - Clinton Fearon
+    - Gallimore Sutherland
+    - Al Griffiths
+    - Droop Lion
   influenced:
-  - Midnite
-  - Groundation
+    - Midnite
+    - Groundation
   mentors:
-  - Coxsone Dodd
+    - Coxsone Dodd
 spotify_data:
   followers: 200293
   id: 3L5iYAziSDnuaHsSgbkcIP
   popularity: 45
-  url: https://open.spotify.com/artist/3L5iYAziSDnuaHsSgbkcIP
+  url: 'https://open.spotify.com/artist/3L5iYAziSDnuaHsSgbkcIP'
 discography_enriched: true
 top_tracks:
-- Rich Man Poor Man (Back To Roots)
-- Soul Rebel - 2000 Digital Remaster (Trenchtown Mix Up)
-- Soul Rebel - 1990 Digital Remaster
-- Looks Is Deceiving - 2000 Digital Remaster (Trenchtown Mix Up)
-- Bellyfull - 1990 Digital Remaster
-- Looks Is Deceiving - 1990 Digital Remaster
-- Chatty Chatty Mouth - 1990 Digital Remaster
-- Soul Rebel
-- Guts (Back To Roots)
-- Bellyfull - 2000 Digital Remaster (Trenchtown Mix Up)
+  - Rich Man Poor Man (Back To Roots)
+  - Soul Rebel - 2000 Digital Remaster (Trenchtown Mix Up)
+  - Soul Rebel - 1990 Digital Remaster
+  - Looks Is Deceiving - 2000 Digital Remaster (Trenchtown Mix Up)
+  - Bellyfull - 1990 Digital Remaster
+  - Looks Is Deceiving - 1990 Digital Remaster
+  - Chatty Chatty Mouth - 1990 Digital Remaster
+  - Soul Rebel
+  - Guts (Back To Roots)
+  - Bellyfull - 2000 Digital Remaster (Trenchtown Mix Up)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/563f1d7a-a566-4645-8d28-4696020347fb
-  spotify: https://open.spotify.com/artist/3L5iYAziSDnuaHsSgbkcIP
-  wikipedia: https://en.wikipedia.org/wiki/The_Gladiators_(band)
+  musicbrainz: 'https://musicbrainz.org/artist/563f1d7a-a566-4645-8d28-4696020347fb'
+  spotify: 'https://open.spotify.com/artist/3L5iYAziSDnuaHsSgbkcIP'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Gladiators_(band)'
 image_path: 03_Resources/source_material/ArtistPortraits/the_gladiators.jpg
 biography_enhanced_at: '2025-10-27T02:51:16.385816'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Gladiators_(band)
-- https://www.reggaeville.com/artist-details/the-gladiators/about/
-- https://musicbar.cz/en/novinky/legendarni-jamajska-kapela-the-gladiators-vystoupi-poprve-v-cr/
-- https://www.last.fm/music/The+Gladiators/+wiki
+  - 'https://en.wikipedia.org/wiki/The_Gladiators_(band)'
+  - 'https://www.reggaeville.com/artist-details/the-gladiators/about/'
+  - >-
+    https://musicbar.cz/en/novinky/legendarni-jamajska-kapela-the-gladiators-vystoupi-poprve-v-cr/
+  - 'https://www.last.fm/music/The+Gladiators/+wiki'
 network_extracted: true
 entry_created: '2025-10-27T02:51:16.385834'
 last_updated: '2025-12-23T08:16:16.801637'
 disambiguation: reggae
 members:
-- begin: '1968'
-  end: '2005'
-  instruments: []
-  mbid: 56f0dbab-f304-4a95-8cb5-989c7d321471
-  name: Albert Griffiths
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a35b742a-be8f-4952-8417-2df7ad997216
-  name: Clinton Fearon
+  - begin: '1968'
+    end: '2005'
+    instruments: []
+    mbid: 56f0dbab-f304-4a95-8cb5-989c7d321471
+    name: Albert Griffiths
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a35b742a-be8f-4952-8417-2df7ad997216
+    name: Clinton Fearon
 musicbrainz_id: 563f1d7a-a566-4645-8d28-4696020347fb
-origin: Trench Town, Kingston, Jamaica
+origin: 'Trench Town, Kingston, Jamaica'
 tags:
-- reggae
-- soul
-- soul and reggae
+  - reggae
+  - soul
+  - soul and reggae
 ---
 
 ![](the_gladiators.jpg)

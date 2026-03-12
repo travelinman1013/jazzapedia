@@ -1,11 +1,11 @@
 ---
-title: PITNEY MEYER
+title: Pitney Meyer
 wiki_slug: pitney-meyer
 schema_version: 2
 status: active
 genres:
-- bluegrass
-- newgrass
+  - bluegrass
+  - newgrass
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/pitney_meyer.jpg
   caption: PITNEY MEYER
@@ -25,57 +25,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Marty Stuart
-  - Ricky Skaggs
-  - Jerry Douglas
-  - Jenee Fleenor
-  - Nate Burie
-  - Blake Pitney
-  - Morgane Stapleton
-  - Mac McAnally
-  - Tony Brown
-  - Jim 'Moose' Brown
+    - Marty Stuart
+    - Ricky Skaggs
+    - Jerry Douglas
+    - Jenee Fleenor
+    - Nate Burie
+    - Blake Pitney
+    - Morgane Stapleton
+    - Mac McAnally
+    - Tony Brown
+    - Jim 'Moose' Brown
   influenced: []
   mentors:
-  - J.D. Crowe
-  - Del McCoury
-  - Ray Price, Buck Owens, Roger Miller, Merle Haggard
+    - J.D. Crowe
+    - Del McCoury
+    - 'Ray Price, Buck Owens, Roger Miller, Merle Haggard'
 spotify_data:
   followers: 1289
   id: 5yzWJwNO8y4LnDMG0Uc9Oh
   popularity: 17
-  url: https://open.spotify.com/artist/5yzWJwNO8y4LnDMG0Uc9Oh
+  url: 'https://open.spotify.com/artist/5yzWJwNO8y4LnDMG0Uc9Oh'
 discography_enriched: true
 top_tracks:
-- Blue Water (Blue Water)
-- Seminole Wind (Cherokee Pioneer)
-- Bear Creek Clay (Bear Creek Clay)
-- Old Friend (Old Friend)
-- That Sounds Lonesome (That Sounds Lonesome)
-- Old Friend (Cherokee Pioneer)
-- Bear Creek Clay (Cherokee Pioneer)
-- White Corn Graves (Cherokee Pioneer)
-- Mourning Dove (Cherokee Pioneer)
-- Blue Water (Cherokee Pioneer)
+  - Blue Water (Blue Water)
+  - Seminole Wind (Cherokee Pioneer)
+  - Bear Creek Clay (Bear Creek Clay)
+  - Old Friend (Old Friend)
+  - That Sounds Lonesome (That Sounds Lonesome)
+  - Old Friend (Cherokee Pioneer)
+  - Bear Creek Clay (Cherokee Pioneer)
+  - White Corn Graves (Cherokee Pioneer)
+  - Mourning Dove (Cherokee Pioneer)
+  - Blue Water (Cherokee Pioneer)
 external_urls:
-  spotify: https://open.spotify.com/artist/5yzWJwNO8y4LnDMG0Uc9Oh
-  wikipedia: https://en.wikipedia.org/wiki/Mo_Pitney
+  spotify: 'https://open.spotify.com/artist/5yzWJwNO8y4LnDMG0Uc9Oh'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mo_Pitney'
 image_path: 03_Resources/source_material/ArtistPortraits/pitney_meyer.jpg
 biography_enhanced_at: '2025-11-24T08:28:59.107340'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://bluegrassunlimited.com/article/cherokee-pioneer/
-- https://countrymusiccruise.com/artists/mo-pitney/
-- https://en.wikipedia.org/wiki/Mo_Pitney
-- https://musiccitymusicmag.com/pitney-meyer-embraces-bluegrass-tradition-with-release-of-cherokee-pioneer/
-- https://www.pitneymeyer.com/about
-- https://bluegrasstoday.com/cherokee-pioneer-pitney-meyer/
+  - 'https://bluegrassunlimited.com/article/cherokee-pioneer/'
+  - 'https://countrymusiccruise.com/artists/mo-pitney/'
+  - 'https://en.wikipedia.org/wiki/Mo_Pitney'
+  - >-
+    https://musiccitymusicmag.com/pitney-meyer-embraces-bluegrass-tradition-with-release-of-cherokee-pioneer/
+  - 'https://www.pitneymeyer.com/about'
+  - 'https://bluegrasstoday.com/cherokee-pioneer-pitney-meyer/'
 network_extracted: true
 entry_created: '2025-11-24T08:28:59.107353'
 last_updated: '2025-12-23T08:16:14.340169'
-origin: 'Nashville, Tennessee, United States (current base); Mo Pitney: Cherry Valley, Illinois, United States (birthplace);
-  John Meyer: Missouri, United States (origin)'
+origin: >-
+  Nashville, Tennessee, United States (current base); Mo Pitney: Cherry Valley,
+  Illinois, United States (birthplace); John Meyer: Missouri, United States
+  (origin)
+birth_place: 'Cherry Valley, Illinois, United States'
+birth_date: '1993-03-24'
+artist_type: person
 ---
 
 ![](pitney_meyer.jpg)

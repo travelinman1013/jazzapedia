@@ -1,19 +1,19 @@
 ---
-title: bill wrick
+title: Bill Wrick
 wiki_slug: bill-wrick
 schema_version: 2
 status: active
-birth_place: Deep South, United States (specific birthplace not documented)
+birth_place: 'Deep South, United States (specific birthplace not documented)'
 genres:
-- comedy
-- spoken word
+  - comedy
+  - spoken word
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bill_wrick.jpg
   caption: bill wrick
   background: solo_singer
-  origin: Deep South, United States (specific birthplace not documented)
+  origin: 'Deep South, United States (specific birthplace not documented)'
 audio_profile:
-  tempo_avg: 101.0
+  tempo_avg: 101
   energy_avg: 0.616
   valence_avg: 0.412
   danceability_avg: 0.568
@@ -27,42 +27,44 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - JOB Records
+    - JOB Records
   influenced:
-  - Contemporary music historians and collectors
+    - Contemporary music historians and collectors
   mentors:
-  - Unknown
+    - Unknown
 spotify_data:
   followers: 59916
   id: 0uoySDfSlj0gRR8I8Xg3lY
   popularity: 30
-  url: https://open.spotify.com/artist/0uoySDfSlj0gRR8I8Xg3lY
+  url: 'https://open.spotify.com/artist/0uoySDfSlj0gRR8I8Xg3lY'
 discography_enriched: true
 top_tracks:
-- Charlie Hodge (Arizona Bay Extended)
-- Working (Flying Saucer Tour, Vol. 1)
-- Rockers Against Drugs Suck (Relentless)
-- Gideons (Rant in E-Minor)
-- Pro Life (Rant in E-Minor)
-- I'm Talking to the Women Here (Rant in E-Minor)
-- Gays in the Military (Rant in E-Minor)
-- Fevered Egos (Rant in E-Minor)
-- Easter (Rant in E-Minor)
-- People Who Hate People (Rant in E-Minor)
+  - Charlie Hodge (Arizona Bay Extended)
+  - 'Working (Flying Saucer Tour, Vol. 1)'
+  - Rockers Against Drugs Suck (Relentless)
+  - Gideons (Rant in E-Minor)
+  - Pro Life (Rant in E-Minor)
+  - I'm Talking to the Women Here (Rant in E-Minor)
+  - Gays in the Military (Rant in E-Minor)
+  - Fevered Egos (Rant in E-Minor)
+  - Easter (Rant in E-Minor)
+  - People Who Hate People (Rant in E-Minor)
 external_urls:
-  spotify: https://open.spotify.com/artist/0uoySDfSlj0gRR8I8Xg3lY
+  spotify: 'https://open.spotify.com/artist/0uoySDfSlj0gRR8I8Xg3lY'
   wikipedia: Not found
 image_path: 03_Resources/source_material/ArtistPortraits/bill_wrick.jpg
 biography_enhanced_at: '2025-11-29T07:03:10.084991'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- 'Shindig! Magazine - 10 Of The Best: Country-Funk'
-- YouTube - Bill Wrick Just One More Time monster country funk killer
-- Light In The Attic Records - Country Funk series
+  - 'Shindig! Magazine - 10 Of The Best: Country-Funk'
+  - YouTube - Bill Wrick Just One More Time monster country funk killer
+  - Light In The Attic Records - Country Funk series
 network_extracted: true
 entry_created: '2025-11-29T07:03:10.085003'
 last_updated: '2025-12-23T08:16:05.523191'
+origin: 'Deep South, United States'
+artist_type: person
 ---
 
 ![](bill_wrick.jpg)

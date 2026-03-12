@@ -5,14 +5,14 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1892-01-31'
-birth_place: New York
+birth_place: 'New York, New York, United States'
 death_date: '1964-10-10'
 genres:
-- ragtime
+  - ragtime
 instruments:
-- spoken vocals
-- tenor vocals
-- lead vocals
+  - spoken vocals
+  - tenor vocals
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/eddie_cantor.jpg
   caption: Eddie Cantor
@@ -21,7 +21,7 @@ infobox:
   origin: New York
   died: '1964-10-10'
 audio_profile:
-  tempo_avg: 124.0
+  tempo_avg: 124
   energy_avg: 0.295
   valence_avg: 0.736
   danceability_avg: 0.69
@@ -35,62 +35,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jimmy Durante
-  - Dave Rubinoff
-  - Cookie Fairchild
-  - Bert Gordon (The Mad Russian)
-  - Harry Parke (Parkyakarkus)
-  - Samuel Goldwyn
+    - Jimmy Durante
+    - Dave Rubinoff
+    - Cookie Fairchild
+    - Bert Gordon (The Mad Russian)
+    - Harry Parke (Parkyakarkus)
+    - Samuel Goldwyn
   influenced:
-  - Dinah Shore
-  - Deanna Durbin
-  - Bobby Breen
-  - Eddie Fisher
-  - Thelma Carpenter
+    - Dinah Shore
+    - Deanna Durbin
+    - Bobby Breen
+    - Eddie Fisher
+    - Thelma Carpenter
   mentors:
-  - Will Rogers
-  - Florenz Ziegfeld
-  - Gus Edwards
+    - Will Rogers
+    - Florenz Ziegfeld
+    - Gus Edwards
 spotify_data:
   followers: 9371
   id: 2pDFdLHKOmzKiNDzkz7p8L
   popularity: 23
-  url: https://open.spotify.com/artist/2pDFdLHKOmzKiNDzkz7p8L
+  url: 'https://open.spotify.com/artist/2pDFdLHKOmzKiNDzkz7p8L'
 discography_enriched: true
 top_tracks:
-- Lambeth Walk (In The Moonlight)
-- Makin' Whoopee (In The Moonlight)
-- 'If You Knew Susie (Like I Know Susie) (The Columbia Years: 1922-1940)'
-- 'The Man On the Flying Trapeze (The Columbia Years: 1922-1940)'
-- Ma! (He's Making Eyes at Me) (In The Moonlight)
-- Charleston
-- Charleston
-- Charleston (In The Moonlight)
-- 'Makin'' Whoopee (The Naughty 1920s: Red Hot & Risque Songs of The Jazz Age, Vol. 1)'
-- Makin' Whoopee (Eddie Cantor)
+  - Lambeth Walk (In The Moonlight)
+  - Makin' Whoopee (In The Moonlight)
+  - 'If You Knew Susie (Like I Know Susie) (The Columbia Years: 1922-1940)'
+  - 'The Man On the Flying Trapeze (The Columbia Years: 1922-1940)'
+  - Ma! (He's Making Eyes at Me) (In The Moonlight)
+  - Charleston
+  - Charleston
+  - Charleston (In The Moonlight)
+  - >-
+    Makin' Whoopee (The Naughty 1920s: Red Hot & Risque Songs of The Jazz Age,
+    Vol. 1)
+  - Makin' Whoopee (Eddie Cantor)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/0e04e04c-bdfe-4a0e-a311-a2190bd6d72c
-  spotify: https://open.spotify.com/artist/2pDFdLHKOmzKiNDzkz7p8L
-  wikipedia: https://en.wikipedia.org/wiki/Eddie_Cantor
+  musicbrainz: 'https://musicbrainz.org/artist/0e04e04c-bdfe-4a0e-a311-a2190bd6d72c'
+  spotify: 'https://open.spotify.com/artist/2pDFdLHKOmzKiNDzkz7p8L'
+  wikipedia: 'https://en.wikipedia.org/wiki/Eddie_Cantor'
 image_path: 03_Resources/source_material/ArtistPortraits/eddie_cantor.jpg
 biography_enhanced_at: '2025-11-28T07:30:52.771939'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Eddie Cantor
-- 'Travalanche - Stars of Vaudeville: Eddie Cantor'
-- The Eddie Cantor Appreciation Society
-- 'Laughter Log - Performers: Eddie Cantor'
-- Knox Focus - Eddie Cantor
-- 'Syncopated Times - Thelma Carpenter: The Eddie Cantor Sessions'
-- 'OpenEdition Books - Eddie Cantor, Singing Comedian: Celebrity and Character'
-- Fleischer All-Stars - Eddie Cantor
+  - Wikipedia - Eddie Cantor
+  - 'Travalanche - Stars of Vaudeville: Eddie Cantor'
+  - The Eddie Cantor Appreciation Society
+  - 'Laughter Log - Performers: Eddie Cantor'
+  - Knox Focus - Eddie Cantor
+  - 'Syncopated Times - Thelma Carpenter: The Eddie Cantor Sessions'
+  - 'OpenEdition Books - Eddie Cantor, Singing Comedian: Celebrity and Character'
+  - Fleischer All-Stars - Eddie Cantor
 network_extracted: true
 entry_created: '2025-11-28T07:30:52.771950'
 last_updated: '2025-12-23T08:16:08.148981'
 gender: Male
 musicbrainz_id: 0e04e04c-bdfe-4a0e-a311-a2190bd6d72c
-
+is_active: false
 ---
 
 ![](eddie_cantor.jpg)

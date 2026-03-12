@@ -1,18 +1,18 @@
 ---
-title: pee wee hughes
+title: Pee Wee Hughes
 wiki_slug: pee-wee-hughes
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
-birth_place: New Orleans, Louisiana, USA (inferred from recording location)
+birth_place: 'New Orleans, Louisiana, USA (inferred from recording location)'
 genres:
-- classic blues
-- blues
+  - classic blues
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/pee_wee_hughes.jpg
   caption: pee wee hughes
   background: solo_singer
-  origin: New Orleans, Louisiana, USA (inferred from recording location)
+  origin: 'New Orleans, Louisiana, USA (inferred from recording location)'
 audio_profile:
   tempo_avg: 123.6
   energy_avg: 0.487
@@ -34,36 +34,39 @@ spotify_data:
   followers: 38
   id: 7n2H1auzNYgtGJJdV2L8i0
   popularity: 0
-  url: https://open.spotify.com/artist/7n2H1auzNYgtGJJdV2L8i0
+  url: 'https://open.spotify.com/artist/7n2H1auzNYgtGJJdV2L8i0'
 discography_enriched: true
 top_tracks:
-- 'Country Boy (Jook Joint Blues: Good Time Rhythm & Blues, CD A)'
-- 'Santa Fe Blues (Jook Joint Blues: Good Time Rhythm & Blues, CD C)'
-- Country Boy (Underground Blues Essentials)
-- Sugar Mama (Underground Blues Essentials)
-- 'Sugar Mama (Jook Joint Blues: Good Time Rhythm & Blues, CD B)'
-- I'm a Country Boy (You're Too Bad)
-- 'Country Boy Blues (Just Wailing: 50 Masterpieces by 26 Blues Harmonica Heroes)'
-- Country Boy Blues (The Best Of Country & Western - Boogie Woogie Blues)
-- Country Boy Blues (Golden Hits of the 40, Vol. 4)
-- Country Boy Blues (Black Pearls, Vol. 10 - Wiggle It!)
+  - 'Country Boy (Jook Joint Blues: Good Time Rhythm & Blues, CD A)'
+  - 'Santa Fe Blues (Jook Joint Blues: Good Time Rhythm & Blues, CD C)'
+  - Country Boy (Underground Blues Essentials)
+  - Sugar Mama (Underground Blues Essentials)
+  - 'Sugar Mama (Jook Joint Blues: Good Time Rhythm & Blues, CD B)'
+  - I'm a Country Boy (You're Too Bad)
+  - >-
+    Country Boy Blues (Just Wailing: 50 Masterpieces by 26 Blues Harmonica
+    Heroes)
+  - Country Boy Blues (The Best Of Country & Western - Boogie Woogie Blues)
+  - 'Country Boy Blues (Golden Hits of the 40, Vol. 4)'
+  - 'Country Boy Blues (Black Pearls, Vol. 10 - Wiggle It!)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/65c9be51-7e3d-4005-a6b4-87738036e3ae
-  spotify: https://open.spotify.com/artist/7n2H1auzNYgtGJJdV2L8i0
+  musicbrainz: 'https://musicbrainz.org/artist/65c9be51-7e3d-4005-a6b4-87738036e3ae'
+  spotify: 'https://open.spotify.com/artist/7n2H1auzNYgtGJJdV2L8i0'
   wikipedia: ''
 image_path: ''
 biography_enhanced_at: '2025-10-20T10:22:34.058195'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- YouTube[8]
-- AllMusic[4]
-- Houston Blues Legends[3]
+  - 'YouTube[8]'
+  - 'AllMusic[4]'
+  - 'Houston Blues Legends[3]'
 network_extracted: true
 entry_created: '2025-10-20T10:22:34.058207'
 last_updated: '2025-12-23T08:16:14.157028'
 musicbrainz_enriched_at: '2025-10-21T09:55:19.186531'
 musicbrainz_id: 65c9be51-7e3d-4005-a6b4-87738036e3ae
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![]()

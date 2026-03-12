@@ -1,13 +1,13 @@
 ---
 wiki_slug: cimafunk-soul-rebels-tank
 schema_version: 2
-birth_place: Pinar del Río, Cuba
+birth_place: 'Pinar del Río, Cuba, Cuba'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/cimafunk_soul_rebels_tank.jpg
   caption: cimafunk soul rebels tank
   background: solo_singer
-  origin: Pinar del Río, Cuba
+  origin: 'Pinar del Río, Cuba'
 audio_profile:
   tempo_avg: null
   energy_avg: null
@@ -19,31 +19,35 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Soul Rebels
-  - Tarriona 'Tank' Ball
-  - Jack Splash
-  - Omara Portuondo, Chucho Valdés, Pancho Amat, Orquesta Aragón
+    - The Soul Rebels
+    - Tarriona 'Tank' Ball
+    - Jack Splash
+    - 'Omara Portuondo, Chucho Valdés, Pancho Amat, Orquesta Aragón'
   influenced:
-  - Millennial Cuban musicians and fans
+    - Millennial Cuban musicians and fans
   mentors:
-  - Raúl Paz
-  - Roberto Carcassés
+    - Raúl Paz
+    - Roberto Carcassés
 discography_enriched: false
 external_urls:
-  spotify: https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe
-  wikipedia: https://en.wikipedia.org/wiki/Cimafunk
+  spotify: 'https://open.spotify.com/artist/28wtFivtmdKxFRfu57AhBe'
+  wikipedia: 'https://en.wikipedia.org/wiki/Cimafunk'
 image_path: 03_Resources/source_material/ArtistPortraits/cimafunk_soul_rebels_tank.jpg
 biography_enhanced_at: '2025-10-28T09:04:51.550873'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://afropop.org/articles/cimafunk-21st-century-global-funk
-- https://www.globalartslive.org/sites/default/files/Biography_287.pdf
-- https://creativeloafing.com/group-516134-cimafunk
+  - 'https://afropop.org/articles/cimafunk-21st-century-global-funk'
+  - 'https://www.globalartslive.org/sites/default/files/Biography_287.pdf'
+  - 'https://creativeloafing.com/group-516134-cimafunk'
 network_extracted: true
 entry_created: '2025-10-28T09:04:51.550882'
 last_updated: '2025-12-23T08:07:24.481188'
----touring-band
+title: 'Cimafunk, Soul Rebels, Tank'
+birth_date: '1989'
+artist_type: person
+---
+touring-band
 - https://werklundcentre.ca/blog/home/bringing-the-heat-with-the-soul-rebels-and-cimafunk
 - https://curacaonorthseajazz.com/en/program/2025/saturday-30-august/cimafunk
 spotify_data:

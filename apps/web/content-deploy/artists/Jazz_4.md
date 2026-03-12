@@ -4,9 +4,9 @@ wiki_slug: jazz-4
 schema_version: 2
 status: active
 genres:
-- jazz
-- jazz beats
-- lo-fi
+  - jazz
+  - jazz beats
+  - lo-fi
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Jazz_4.jpg
   caption: Jazz 4
@@ -32,33 +32,35 @@ spotify_data:
   followers: 69292
   id: 23Ht8xXhnKJozHsOBDehZw
   popularity: 48
-  url: https://open.spotify.com/artist/23Ht8xXhnKJozHsOBDehZw
+  url: 'https://open.spotify.com/artist/23Ht8xXhnKJozHsOBDehZw'
 discography_enriched: true
 top_tracks:
-- Crystal Blue (Jazz Jukebox)
-- Positive Feelings (Jazz Jukebox)
-- East, West, Home's Best (Voyager)
-- Jazz Jukebox (Jazz Jukebox)
-- Take It Easy (Jazz Jukebox)
-- Time Goes By (Nomad)
-- Around the World (Voyager)
-- Birthplace (Voyager)
-- Soulful (Voyager)
-- Central Park (Jazz Jukebox)
+  - Crystal Blue (Jazz Jukebox)
+  - Positive Feelings (Jazz Jukebox)
+  - 'East, West, Home''s Best (Voyager)'
+  - Jazz Jukebox (Jazz Jukebox)
+  - Take It Easy (Jazz Jukebox)
+  - Time Goes By (Nomad)
+  - Around the World (Voyager)
+  - Birthplace (Voyager)
+  - Soulful (Voyager)
+  - Central Park (Jazz Jukebox)
 external_urls:
-  spotify: https://open.spotify.com/artist/23Ht8xXhnKJozHsOBDehZw
+  spotify: 'https://open.spotify.com/artist/23Ht8xXhnKJozHsOBDehZw'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/Jazz_4.jpg
 biography_enhanced_at: '2025-10-19T12:30:29.105030'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.allaboutjazz.com/musicians/four/
-- https://en.wikipedia.org/wiki/List_of_jazz_biographies
-- https://www.universalproductionmusic.com/en-kr/discover/albums/3220/history-of-jazz-4
+  - 'https://www.allaboutjazz.com/musicians/four/'
+  - 'https://en.wikipedia.org/wiki/List_of_jazz_biographies'
+  - >-
+    https://www.universalproductionmusic.com/en-kr/discover/albums/3220/history-of-jazz-4
 network_extracted: true
 entry_created: '2025-10-19T12:30:29.105040'
 last_updated: '2025-12-23T08:16:02.489733'
+artist_type: person
 ---
 
 ![](Jazz_4.jpg)

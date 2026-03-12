@@ -1,49 +1,53 @@
 ---
 biography_enhanced_at: '2026-01-22T07:11:12.364917'
-birth_place: New York City, New York, United States
+birth_place: 'New York City, New York, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:11:12.364927'
 external_urls:
-  spotify: https://open.spotify.com/artist/7v8f2ZGhtijzCWLvnivWwM
+  spotify: 'https://open.spotify.com/artist/7v8f2ZGhtijzCWLvnivWwM'
   wikipedia: null
 genres:
-- ragtime
+  - ragtime
 image_path: ''
 last_updated: '2026-01-22T07:11:12.364929'
 musical_connections:
   collaborators:
-  - George Gershwin
-  - Enrico Caruso
-  - Tommy Dorsey
-  - Benny Goodman
-  - Glenn Miller
-  - Jascha Heifetz
-  - Andrés Segovia
-  - Gene Austin
-  - Jan Peerce
+    - George Gershwin
+    - Enrico Caruso
+    - Tommy Dorsey
+    - Benny Goodman
+    - Glenn Miller
+    - Jascha Heifetz
+    - Andrés Segovia
+    - Gene Austin
+    - Jan Peerce
   influenced:
-  - Bryan Free
+    - Bryan Free
   mentors:
-  - Gustav Mahler
-  - John Philip Sousa
-  - Arthur Pryor
+    - Gustav Mahler
+    - John Philip Sousa
+    - Arthur Pryor
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.bach-cantatas.com/Bio/Shilkret-Nat.htm
-- https://www.youtube.com/watch?v=3fwvPqf-gFI
-- https://www.bear-family.com/shilkret-nat/
-- https://fromthevaults-boppinbob.blogspot.com/2013/12/nat-shilkret-born-25-december-1899.html
-- https://www.todotango.com/english/artists/biography/574/Nathaniel-Shilkret/
-- https://savedfromthepaperdrive.blogspot.com/2013/08/nat-shilkret-victor-orchestra.html
-- https://www.naxos.com/MainSite/BlurbsReviews/?itemcode=8.120644&catnum=120644&filetype=AboutThisRecording&language=English
+  - 'https://www.bach-cantatas.com/Bio/Shilkret-Nat.htm'
+  - 'https://www.youtube.com/watch?v=3fwvPqf-gFI'
+  - 'https://www.bear-family.com/shilkret-nat/'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2013/12/nat-shilkret-born-25-december-1899.html
+  - 'https://www.todotango.com/english/artists/biography/574/Nathaniel-Shilkret/'
+  - >-
+    https://savedfromthepaperdrive.blogspot.com/2013/08/nat-shilkret-victor-orchestra.html
+  - >-
+    https://www.naxos.com/MainSite/BlurbsReviews/?itemcode=8.120644&catnum=120644&filetype=AboutThisRecording&language=English
 spotify_data:
   followers: 132
   id: 7v8f2ZGhtijzCWLvnivWwM
   popularity: 2
-  url: https://open.spotify.com/artist/7v8f2ZGhtijzCWLvnivWwM
+  url: 'https://open.spotify.com/artist/7v8f2ZGhtijzCWLvnivWwM'
 status: active
-title: NAT SHILKRET AND THE VICTOR ORCHESTRA
+title: Nat Shilkret and the Victor Orchestra
+artist_type: person
 ---
 
 ![]()

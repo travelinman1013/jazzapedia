@@ -1,49 +1,55 @@
 ---
 biography_enhanced_at: '2026-01-10T01:20:48.391380'
-birth_place: Southsea, Portsmouth, England, United Kingdom
+birth_place: 'Southsea, Portsmouth, England, United Kingdom'
 enhancement_provider: perplexity
 entry_created: '2026-01-10T01:20:48.391386'
 external_urls:
-  spotify: https://open.spotify.com/artist/6GMbArtEhQvuBq8zXXDo2X
-  wikipedia: https://en.wikipedia.org/wiki/Peter_Sellers
+  spotify: 'https://open.spotify.com/artist/6GMbArtEhQvuBq8zXXDo2X'
+  wikipedia: 'https://en.wikipedia.org/wiki/Peter_Sellers'
 genres:
-- comedy
-- spoken word
+  - comedy
+  - spoken word
 image_path: 03_Resources/source_material/ArtistPortraits/peter_sellers.jpg
 last_updated: '2026-01-10T01:20:48.391386'
 musical_connections:
   collaborators:
-  - Spike Milligan
-  - Harry Secombe
-  - Michael Bentine
-  - George Martin
-  - Sophia Loren
-  - Ravi Shankar
+    - Spike Milligan
+    - Harry Secombe
+    - Michael Bentine
+    - George Martin
+    - Sophia Loren
+    - Ravi Shankar
   influenced:
-  - British radio and TV comedians (e.g., later generations of character comics and
-    impressionists)
-  - Comedy and novelty recording artists
+    - >-
+      British radio and TV comedians (e.g., later generations of character
+      comics and impressionists)
+    - Comedy and novelty recording artists
   mentors:
-  - Bill Sellers
-  - Peg Sellers
-  - Ravi Shankar
+    - Bill Sellers
+    - Peg Sellers
+    - Ravi Shankar
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.telegraph.co.uk/books/authors/peter-sellers-profile-his-music-career/
-- https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/peter-richard-henry-sellers
-- https://www.museum.tv/tv-encyclopedia-15/sellers-peter
-- https://travsd.wordpress.com/2013/09/08/stars-of-slapstick-152-peter-sellers/
-- https://www.imdb.com/name/nm0000634/bio/
-- https://biographyonline.net/comics/peter-sellers.html
-- https://www.diy.org/article/peter_sellers
+  - >-
+    https://www.telegraph.co.uk/books/authors/peter-sellers-profile-his-music-career/
+  - >-
+    https://www.encyclopedia.com/history/encyclopedias-almanacs-transcripts-and-maps/peter-richard-henry-sellers
+  - 'https://www.museum.tv/tv-encyclopedia-15/sellers-peter'
+  - >-
+    https://travsd.wordpress.com/2013/09/08/stars-of-slapstick-152-peter-sellers/
+  - 'https://www.imdb.com/name/nm0000634/bio/'
+  - 'https://biographyonline.net/comics/peter-sellers.html'
+  - 'https://www.diy.org/article/peter_sellers'
 spotify_data:
   followers: 9274
   id: 6GMbArtEhQvuBq8zXXDo2X
   popularity: 25
-  url: https://open.spotify.com/artist/6GMbArtEhQvuBq8zXXDo2X
+  url: 'https://open.spotify.com/artist/6GMbArtEhQvuBq8zXXDo2X'
 status: active
-title: peter sellers
+title: Peter Sellers
+birth_date: '1925-09-08'
+artist_type: person
 ---
 
 ![](peter_sellers.jpg)

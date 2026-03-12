@@ -1,68 +1,70 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-04T01:52:24.323336'
 enhancement_provider: perplexity
 entry_created: '2026-01-04T01:52:24.323341'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/03aa0e64-1a8f-4161-ae94-581b59fac89c
-  spotify: https://open.spotify.com/artist/1F4A7SV8Xp0KrWdPzkh8UO
-  wikipedia: https://en.wikipedia.org/wiki/Vince_Giordano
+  musicbrainz: 'https://musicbrainz.org/artist/03aa0e64-1a8f-4161-ae94-581b59fac89c'
+  spotify: 'https://open.spotify.com/artist/1F4A7SV8Xp0KrWdPzkh8UO'
+  wikipedia: 'https://en.wikipedia.org/wiki/Vince_Giordano'
 genres:
-- swing music
-image_path: 03_Resources/source_material/ArtistPortraits/vince_giordano_and_the_nighthawks.jpg
+  - swing music
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/vince_giordano_and_the_nighthawks.jpg
 instruments:
-- original
-- drums (drum set)
+  - original
+  - drums (drum set)
 last_updated: '2026-01-04T01:52:24.323342'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e85df525-7e4d-42f6-8b2c-3511adf87de4
-  name: Vince Giordano
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: e85df525-7e4d-42f6-8b2c-3511adf87de4
-  name: Vince Giordano
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 4301fb9b-aec1-4a46-92b2-a38ada93097c
-  name: Paul Wells
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e85df525-7e4d-42f6-8b2c-3511adf87de4
+    name: Vince Giordano
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: e85df525-7e4d-42f6-8b2c-3511adf87de4
+    name: Vince Giordano
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 4301fb9b-aec1-4a46-92b2-a38ada93097c
+    name: Paul Wells
 musical_connections:
   collaborators:
-  - Dick Hyman
-  - Warren Vaché
-  - Bob Wilber
-  - Glenn Miller/Benny Goodman/Casa Loma veterans
+    - Dick Hyman
+    - Warren Vaché
+    - Bob Wilber
+    - Glenn Miller/Benny Goodman/Casa Loma veterans
   influenced: []
   mentors:
-  - Bill Challis
-  - Chauncey Morehouse
-  - Joe Tarto
+    - Bill Challis
+    - Chauncey Morehouse
+    - Joe Tarto
 musicbrainz_id: 03aa0e64-1a8f-4161-ae94-581b59fac89c
 network_extracted: true
-origin: New York City, New York, USA
+origin: 'New York City, New York, USA'
 primary_source: perplexity
 research_sources:
-- https://www.vincegiordano.com/about
-- https://en.wikipedia.org/wiki/Vince_Giordano
-- https://jazztimes.com/features/profiles/vince-giordano-yesterday-man/
-- https://www.limusichalloffame.org/inductees/vince-giordano/
-- https://litchfieldjazzfest.com/artwork/vince-giordano-nighthawks/
+  - 'https://www.vincegiordano.com/about'
+  - 'https://en.wikipedia.org/wiki/Vince_Giordano'
+  - 'https://jazztimes.com/features/profiles/vince-giordano-yesterday-man/'
+  - 'https://www.limusichalloffame.org/inductees/vince-giordano/'
+  - 'https://litchfieldjazzfest.com/artwork/vince-giordano-nighthawks/'
 spotify_data:
   followers: 6655
   id: 1F4A7SV8Xp0KrWdPzkh8UO
   popularity: 38
-  url: https://open.spotify.com/artist/1F4A7SV8Xp0KrWdPzkh8UO
+  url: 'https://open.spotify.com/artist/1F4A7SV8Xp0KrWdPzkh8UO'
 status: active
 tags:
-- jazz
+  - jazz
 title: Vince Giordano and the Nighthawks
-
+birth_place: 'New York, New York, United States'
+birth_date: '1952-03-11'
 ---
 
 ![](vince_giordano_and_the_nighthawks.jpg)

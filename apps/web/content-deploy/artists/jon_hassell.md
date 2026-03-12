@@ -3,17 +3,17 @@ title: Jon Hassell
 wiki_slug: jon-hassell
 schema_version: 2
 status: active
-birth_place: Memphis, Tennessee, United States
+birth_place: 'Memphis, Tennessee, United States'
 genres:
-- ambient
-- minimalism
-- avant-garde
-- drone
+  - ambient
+  - minimalism
+  - avant-garde
+  - drone
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jon_hassell.jpg
   caption: Jon Hassell
   background: solo_singer
-  origin: Memphis, Tennessee, United States
+  origin: 'Memphis, Tennessee, United States'
 audio_profile:
   tempo_avg: 113.4
   energy_avg: 0.279
@@ -29,57 +29,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Brian Eno
-  - Talking Heads
-  - Peter Gabriel
-  - David Sylvian
-  - Ry Cooder
-  - Kronos Quartet
-  - Farafina
-  - The Jon Hassell Group
+    - Brian Eno
+    - Talking Heads
+    - Peter Gabriel
+    - David Sylvian
+    - Ry Cooder
+    - Kronos Quartet
+    - Farafina
+    - The Jon Hassell Group
   influenced:
-  - Subsequent generations of trumpeters (e.g., Nils Petter Molvær, Arve Henriksen – representative examples)
-  - Ambient and electronic musicians broadly
-  - World music and worldbeat artists and producers
+    - >-
+      Subsequent generations of trumpeters (e.g., Nils Petter Molvær, Arve
+      Henriksen – representative examples)
+    - Ambient and electronic musicians broadly
+    - World music and worldbeat artists and producers
   mentors:
-  - Karlheinz Stockhausen
-  - Terry Riley
-  - La Monte Young
-  - Pandit Pran Nath
+    - Karlheinz Stockhausen
+    - Terry Riley
+    - La Monte Young
+    - Pandit Pran Nath
 spotify_data:
   followers: 56317
   id: 5kNZV33crEsk2IMZMJ8bOQ
   popularity: 32
-  url: https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ
+  url: 'https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ'
 discography_enriched: true
 top_tracks:
-- Delta Rain Dream (Fourth World Vol 1 Possible Musics)
-- Last Night The Moon Came (Last Night The Moon Came Dropping Its Clothes In The Street)
-- Clairvoyance (Last Night The Moon Came Dropping Its Clothes In The Street)
-- Toucan Ocean (Vernal Equinox (Remastered))
-- Time And Place (Last Night The Moon Came Dropping Its Clothes In The Street)
-- Aurora (Last Night The Moon Came Dropping Its Clothes In The Street)
-- Caracas Night September 11, 1975 (Vernal Equinox (Remastered))
-- Blues Nile (Vernal Equinox (Remastered))
-- Dreaming (Listening To Pictures (Pentimento Volume One))
-- Blue Period (Last Night The Moon Came Dropping Its Clothes In The Street)
+  - Delta Rain Dream (Fourth World Vol 1 Possible Musics)
+  - >-
+    Last Night The Moon Came (Last Night The Moon Came Dropping Its Clothes In
+    The Street)
+  - Clairvoyance (Last Night The Moon Came Dropping Its Clothes In The Street)
+  - Toucan Ocean (Vernal Equinox (Remastered))
+  - Time And Place (Last Night The Moon Came Dropping Its Clothes In The Street)
+  - Aurora (Last Night The Moon Came Dropping Its Clothes In The Street)
+  - 'Caracas Night September 11, 1975 (Vernal Equinox (Remastered))'
+  - Blues Nile (Vernal Equinox (Remastered))
+  - Dreaming (Listening To Pictures (Pentimento Volume One))
+  - Blue Period (Last Night The Moon Came Dropping Its Clothes In The Street)
 external_urls:
-  spotify: https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ
-  wikipedia: https://en.wikipedia.org/wiki/Jon_Hassell
+  spotify: 'https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jon_Hassell'
 image_path: 03_Resources/source_material/ArtistPortraits/jon_hassell.jpg
 biography_enhanced_at: '2025-12-19T01:37:59.294028'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- 'JazzTimes obituary: ''Trumpeter and Composer Jon Hassell Dies at 84''[1]'
-- Official site / SoundOn biography on jonhassell.com[2]
-- 'PAN M 360 profile ''Jon Hassell: The indefatigable explorer (Part 1)''[3]'
-- ECM Records artist obituary 'Jon Hassell 1937–2021'[4]
-- Lovely Music brief biography[6]
+  - 'JazzTimes obituary: ''Trumpeter and Composer Jon Hassell Dies at 84''[1]'
+  - 'Official site / SoundOn biography on jonhassell.com[2]'
+  - 'PAN M 360 profile ''Jon Hassell: The indefatigable explorer (Part 1)''[3]'
+  - 'ECM Records artist obituary ''Jon Hassell 1937–2021''[4]'
+  - 'Lovely Music brief biography[6]'
 network_extracted: true
 entry_created: '2025-12-19T01:37:59.294039'
 last_updated: '2025-12-23T08:16:10.947212'
-
+artist_type: person
 ---
 
 ![](jon_hassell.jpg)

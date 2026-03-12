@@ -5,7 +5,8 @@ schema_version: 2
 status: active
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/huey_piano_smith_and_the_clowns.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/huey_piano_smith_and_the_clowns.jpg
   caption: Huey Piano Smith & the Clowns
   background: solo_singer
 audio_profile:
@@ -23,59 +24,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bobby Marchan
-  - “Scarface” John Williams
-  - Gerri Hall (Gerry Hall)
-  - Curley Moore
-  - Roosevelt Wright
-  - Frankie Ford
-  - Earl King
-  - Guitar Slim (Eddie Jones)
-  - Smiley Lewis
-  - Little Richard
-  - Lloyd Price
+    - Bobby Marchan
+    - “Scarface” John Williams
+    - Gerri Hall (Gerry Hall)
+    - Curley Moore
+    - Roosevelt Wright
+    - Frankie Ford
+    - Earl King
+    - Guitar Slim (Eddie Jones)
+    - Smiley Lewis
+    - Little Richard
+    - Lloyd Price
   influenced:
-  - Johnny Rivers
-  - Aerosmith
-  - Grateful Dead
-  - Bruce Springsteen
-  - Deep Purple
+    - Johnny Rivers
+    - Aerosmith
+    - Grateful Dead
+    - Bruce Springsteen
+    - Deep Purple
   mentors:
-  - Professor Longhair
+    - Professor Longhair
 spotify_data:
   followers: 127
   id: 5w1oSixnJaGxuTceZRhvZd
   popularity: 5
-  url: https://open.spotify.com/artist/5w1oSixnJaGxuTceZRhvZd
+  url: 'https://open.spotify.com/artist/5w1oSixnJaGxuTceZRhvZd'
 discography_enriched: true
 top_tracks:
-- '''Twas the Night Before Christmas (''Twas the Night Before Christmas)'
-- Silent Night ('Twas the Night Before Christmas)
-- Happy New Year ('Twas the Night Before Christmas)
-- All I Want for Christmas ('Twas the Night Before Christmas)
-- White Christmas Blues ('Twas the Night Before Christmas)
-- I Wrote to Santa Claus ('Twas the Night Before Christmas)
-- Almost Time for Santa ('Twas the Night Before Christmas)
-- Rock & Roll Santa Claus ('Twas the Night Before Christmas)
-- Jingle Bells ('Twas the Night Before Christmas)
-- Doing the Santa Claus ('Twas the Night Before Christmas)
+  - '''Twas the Night Before Christmas (''Twas the Night Before Christmas)'
+  - Silent Night ('Twas the Night Before Christmas)
+  - Happy New Year ('Twas the Night Before Christmas)
+  - All I Want for Christmas ('Twas the Night Before Christmas)
+  - White Christmas Blues ('Twas the Night Before Christmas)
+  - I Wrote to Santa Claus ('Twas the Night Before Christmas)
+  - Almost Time for Santa ('Twas the Night Before Christmas)
+  - Rock & Roll Santa Claus ('Twas the Night Before Christmas)
+  - Jingle Bells ('Twas the Night Before Christmas)
+  - Doing the Santa Claus ('Twas the Night Before Christmas)
 external_urls:
-  spotify: https://open.spotify.com/artist/5w1oSixnJaGxuTceZRhvZd
-  wikipedia: https://en.wikipedia.org/wiki/Huey_%22Piano%22_Smith
-image_path: 03_Resources/source_material/ArtistPortraits/huey_piano_smith_and_the_clowns.jpg
+  spotify: 'https://open.spotify.com/artist/5w1oSixnJaGxuTceZRhvZd'
+  wikipedia: 'https://en.wikipedia.org/wiki/Huey_%22Piano%22_Smith'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/huey_piano_smith_and_the_clowns.jpg
 biography_enhanced_at: '2025-12-09T04:53:42.618195'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Huey_%22Piano%22_Smith
-- http://rocky-52.net/chanteurss/smith_hp.htm
-- https://ultimateclassicrock.com/huey-piano-smith-dead/
-- https://www.imdb.com/name/nm2786463/bio/
-- https://robertchristgau.substack.com/p/the-big-lookback-huey-piano-smith
+  - 'https://en.wikipedia.org/wiki/Huey_%22Piano%22_Smith'
+  - 'http://rocky-52.net/chanteurss/smith_hp.htm'
+  - 'https://ultimateclassicrock.com/huey-piano-smith-dead/'
+  - 'https://www.imdb.com/name/nm2786463/bio/'
+  - 'https://robertchristgau.substack.com/p/the-big-lookback-huey-piano-smith'
 network_extracted: true
 entry_created: '2025-12-09T04:53:42.618202'
 last_updated: '2025-12-23T08:16:09.751060'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+birth_place: 'New Orleans, Louisiana, United States'
+birth_date: '1934-01-26'
+artist_type: band
 ---
 
 ![](huey_piano_smith_and_the_clowns.jpg)

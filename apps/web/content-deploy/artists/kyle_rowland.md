@@ -4,16 +4,16 @@ wiki_slug: kyle-rowland
 schema_version: 2
 artist_type: person
 status: active
-birth_place: Sacramento, California, United States
+birth_place: 'Sacramento, California, United States'
 genres:
-- blues rock
+  - blues rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/kyle_rowland.jpg
   caption: Kyle Rowland
   background: solo_singer
-  origin: Sacramento, California, United States
+  origin: 'Sacramento, California, United States'
 audio_profile:
-  tempo_avg: 119.0
+  tempo_avg: 119
   energy_avg: 0.627
   valence_avg: 0.466
   danceability_avg: 0.572
@@ -27,50 +27,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kenny Marchese
-  - Mike Phillips
-  - Myles Silveira
+    - Kenny Marchese
+    - Mike Phillips
+    - Myles Silveira
   influenced: []
   mentors:
-  - James Cotton
-  - Lazy Lester
-  - Hubert Sumlin
-  - Matt 'Guitar' Murphy
+    - James Cotton
+    - Lazy Lester
+    - Hubert Sumlin
+    - Matt 'Guitar' Murphy
 spotify_data:
   followers: 66
   id: 02hKt2AOqb9MorhN4GoUuE
   popularity: 1
-  url: https://open.spotify.com/artist/02hKt2AOqb9MorhN4GoUuE
+  url: 'https://open.spotify.com/artist/02hKt2AOqb9MorhN4GoUuE'
 discography_enriched: true
 top_tracks:
-- Convict No. 1 (Not Holding Back)
-- Wishing You The Best (Not Holding Back)
-- I'll Take You Back (Not Holding Back)
-- We're Still Friends (Not Holding Back)
-- Kissing at Midnight (Not Holding Back)
-- Science Is Dead (Science Is Dead)
-- All You Are (Kyle Rowland)
-- A Good Start (Kyle Rowland)
-- Rational Thought (Kyle Rowland)
-- Situational Morality (Kyle Rowland)
+  - Convict No. 1 (Not Holding Back)
+  - Wishing You The Best (Not Holding Back)
+  - I'll Take You Back (Not Holding Back)
+  - We're Still Friends (Not Holding Back)
+  - Kissing at Midnight (Not Holding Back)
+  - Science Is Dead (Science Is Dead)
+  - All You Are (Kyle Rowland)
+  - A Good Start (Kyle Rowland)
+  - Rational Thought (Kyle Rowland)
+  - Situational Morality (Kyle Rowland)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1656218b-5db8-4797-8842-4cadd218d5b6
-  spotify: https://open.spotify.com/artist/02hKt2AOqb9MorhN4GoUuE
+  musicbrainz: 'https://musicbrainz.org/artist/1656218b-5db8-4797-8842-4cadd218d5b6'
+  spotify: 'https://open.spotify.com/artist/02hKt2AOqb9MorhN4GoUuE'
   wikipedia: Not found
 image_path: 03_Resources/source_material/ArtistPortraits/kyle_rowland.jpg
 biography_enhanced_at: '2025-10-30T11:52:20.452253'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- kylerowlandblues.com/about
-- kylerowlandblues.com
-- capradio.org/news/insight/2015/06/16/insight-061615c/
+  - kylerowlandblues.com/about
+  - kylerowlandblues.com
+  - capradio.org/news/insight/2015/06/16/insight-061615c/
 network_extracted: true
 entry_created: '2025-10-30T11:52:20.452262'
 last_updated: '2025-12-23T08:16:11.510005'
 disambiguation: blues harp player
 gender: Male
 musicbrainz_id: 1656218b-5db8-4797-8842-4cadd218d5b6
+origin: 'Sacramento, California, United States'
+birth_date: '1993-06-08'
 ---
 
 ![](kyle_rowland.jpg)

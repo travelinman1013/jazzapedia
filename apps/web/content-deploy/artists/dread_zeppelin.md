@@ -3,38 +3,40 @@ biography_enhanced_at: '2026-01-03T01:47:05.691444'
 enhancement_provider: perplexity
 entry_created: '2026-01-03T01:47:05.691456'
 external_urls:
-  spotify: https://open.spotify.com/artist/1xoJoYxFg6q7IGEkAeK4gN
-  wikipedia: https://en.wikipedia.org/wiki/Dread_Zeppelin
+  spotify: 'https://open.spotify.com/artist/1xoJoYxFg6q7IGEkAeK4gN'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dread_Zeppelin'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/dread_zeppelin.jpg
 last_updated: '2026-01-03T01:47:05.691458'
 musical_connections:
   collaborators:
-  - Tortelvis (Greg Tortell)
-  - Put-Mon (Gary Putman)
-  - Carl Jah (Carl Haasis)
-  - Jah Paul Jo (Joseph Ramsey)
-  - Cheese (Curt Lichter)
-  - Stan Ridgway
-  - Ron Asheton
+    - Tortelvis (Greg Tortell)
+    - Put-Mon (Gary Putman)
+    - Carl Jah (Carl Haasis)
+    - Jah Paul Jo (Joseph Ramsey)
+    - Cheese (Curt Lichter)
+    - Stan Ridgway
+    - Ron Asheton
   influenced: []
   mentors:
-  - John Paul Jones
+    - John Paul Jones
 network_extracted: true
-origin: Sierra Madre, California, United States
+origin: 'Sierra Madre, California, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Dread_Zeppelin
-- https://en.wikipedia.org/wiki/Jah_Paul_Jo
-- https://www.last.fm/music/Dread+Zeppelin/+wiki
-- https://dzeppelin.com/about-us/
+  - 'https://en.wikipedia.org/wiki/Dread_Zeppelin'
+  - 'https://en.wikipedia.org/wiki/Jah_Paul_Jo'
+  - 'https://www.last.fm/music/Dread+Zeppelin/+wiki'
+  - 'https://dzeppelin.com/about-us/'
 spotify_data:
   followers: 24470
   id: 1xoJoYxFg6q7IGEkAeK4gN
   popularity: 24
-  url: https://open.spotify.com/artist/1xoJoYxFg6q7IGEkAeK4gN
+  url: 'https://open.spotify.com/artist/1xoJoYxFg6q7IGEkAeK4gN'
 status: active
-title: dread zeppelin
+title: Dread Zeppelin
+death_date: '2014-12-29'
+artist_type: band
 ---
 
 ![](dread_zeppelin.jpg)

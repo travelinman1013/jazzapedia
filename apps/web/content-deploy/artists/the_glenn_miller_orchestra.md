@@ -4,8 +4,8 @@ wiki_slug: the-glenn-miller-orchestra
 schema_version: 2
 status: active
 genres:
-- big band
-- swing music
+  - big band
+  - swing music
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_glenn_miller_orchestra.jpg
   caption: The Glenn Miller Orchestra
@@ -25,49 +25,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tex Beneke
-  - Marion Hutton
-  - Ray Eberle
-  - Paul Tanner
-  - Hal McIntyre
-  - The Modernaires
+    - Tex Beneke
+    - Marion Hutton
+    - Ray Eberle
+    - Paul Tanner
+    - Hal McIntyre
+    - The Modernaires
   influenced:
-  - Ray Anthony
+    - Ray Anthony
   mentors:
-  - Ray Noble
+    - Ray Noble
 spotify_data:
   followers: 138162
   id: 6N1ycRllcq7fwHMdeTQD1z
   popularity: 48
-  url: https://open.spotify.com/artist/6N1ycRllcq7fwHMdeTQD1z
+  url: 'https://open.spotify.com/artist/6N1ycRllcq7fwHMdeTQD1z'
 discography_enriched: true
 top_tracks:
-- Moonlight Serenade (Moonlight Serenade)
-- In The Mood (In The Digital Mood)
-- At Last (Glenn Miller Orchestra (2 CD set))
-- Begin The Beguine (Glenn Miller Orchestra (2 CD set))
-- In The Mood (Remastered 2022) (In The Mood (Remastered 2022))
-- Sleepy Lagoon (The Legendary Glenn Miller Orchestra)
-- A String Of Pearls (Glenn Miller Orchestra (2 CD set))
-- Moonlight Serenade
-- Cross Town (Be Happy)
-- Jukebox Saturday Night (Jukebox Saturday Night)
+  - Moonlight Serenade (Moonlight Serenade)
+  - In The Mood (In The Digital Mood)
+  - At Last (Glenn Miller Orchestra (2 CD set))
+  - Begin The Beguine (Glenn Miller Orchestra (2 CD set))
+  - In The Mood (Remastered 2022) (In The Mood (Remastered 2022))
+  - Sleepy Lagoon (The Legendary Glenn Miller Orchestra)
+  - A String Of Pearls (Glenn Miller Orchestra (2 CD set))
+  - Moonlight Serenade
+  - Cross Town (Be Happy)
+  - Jukebox Saturday Night (Jukebox Saturday Night)
 external_urls:
-  spotify: https://open.spotify.com/artist/6N1ycRllcq7fwHMdeTQD1z
-  wikipedia: https://en.wikipedia.org/wiki/Glenn_Miller_Orchestra
+  spotify: 'https://open.spotify.com/artist/6N1ycRllcq7fwHMdeTQD1z'
+  wikipedia: 'https://en.wikipedia.org/wiki/Glenn_Miller_Orchestra'
 image_path: 03_Resources/source_material/ArtistPortraits/the_glenn_miller_orchestra.jpg
 biography_enhanced_at: '2025-12-15T01:19:27.864501'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://glennmillerorchestra.com/history/
-- https://en.wikipedia.org/wiki/Glenn_Miller_Orchestra
-- https://www.biography.com/musicians/glenn-miller
-- https://www.britannica.com/biography/Glenn-Miller
+  - 'https://glennmillerorchestra.com/history/'
+  - 'https://en.wikipedia.org/wiki/Glenn_Miller_Orchestra'
+  - 'https://www.biography.com/musicians/glenn-miller'
+  - 'https://www.britannica.com/biography/Glenn-Miller'
 network_extracted: true
 entry_created: '2025-12-15T01:19:27.864506'
 last_updated: '2025-12-23T08:16:16.805696'
-origin: Clarinda, Iowa, United States
+origin: 'Clarinda, Iowa, United States'
+birth_place: 'Clarinda, Iowa, United States'
+birth_date: '1904-03-01'
+artist_type: band
 ---
 
 ![](the_glenn_miller_orchestra.jpg)

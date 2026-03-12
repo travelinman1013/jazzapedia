@@ -1,14 +1,15 @@
 ---
-title: Bob Marley & The Wailers, Afro B
+title: 'Bob Marley & The Wailers, Afro B'
 wiki_slug: bob-marley-the-wailers-afro-b
 schema_version: 2
 status: active
 genres:
-- reggae
-- roots reggae
+  - reggae
+  - roots reggae
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/bob_marley_and_the_wailers_afro_b.jpg
-  caption: Bob Marley & The Wailers, Afro B
+  image: >-
+    03_Resources/source_material/ArtistPortraits/bob_marley_and_the_wailers_afro_b.jpg
+  caption: 'Bob Marley & The Wailers, Afro B'
   background: solo_singer
 audio_profile:
   tempo_avg: 117.8
@@ -25,52 +26,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Peter Tosh
-  - Bunny Wailer
-  - Lee 'Scratch' Perry
-  - Aston 'Family Man' Barrett
-  - Carlton Barrett
-  - Rita Marley (I-Threes)
+    - Peter Tosh
+    - Bunny Wailer
+    - Lee 'Scratch' Perry
+    - Aston 'Family Man' Barrett
+    - Carlton Barrett
+    - Rita Marley (I-Threes)
   influenced:
-  - Ziggy Marley
-  - Lauryn Hill
-  - Alpha Blondy
-  - Refugee All Stars
+    - Ziggy Marley
+    - Lauryn Hill
+    - Alpha Blondy
+    - Refugee All Stars
   mentors:
-  - Joe Higgs
+    - Joe Higgs
 spotify_data:
   followers: 13410917
   id: 2QsynagSdAqZj3U9HgDzjD
   popularity: 80
-  url: https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD
+  url: 'https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD'
 discography_enriched: true
 top_tracks:
-- Could You Be Loved (Uprising)
-- Three Little Birds (Exodus)
-- Is This Love (Kaya)
-- Jamming (Exodus)
-- Natural Mystic (Exodus)
-- One Love / People Get Ready (Exodus)
-- Waiting In Vain (Exodus)
-- Buffalo Soldier (Confrontation)
-- Redemption Song (Uprising)
-- Three Little Birds
+  - Could You Be Loved (Uprising)
+  - Three Little Birds (Exodus)
+  - Is This Love (Kaya)
+  - Jamming (Exodus)
+  - Natural Mystic (Exodus)
+  - One Love / People Get Ready (Exodus)
+  - Waiting In Vain (Exodus)
+  - Buffalo Soldier (Confrontation)
+  - Redemption Song (Uprising)
+  - Three Little Birds
 external_urls:
-  spotify: https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD
-  wikipedia: https://en.wikipedia.org/wiki/Bob_Marley_and_the_Wailers
-image_path: 03_Resources/source_material/ArtistPortraits/bob_marley_and_the_wailers_afro_b.jpg
+  spotify: 'https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bob_Marley_and_the_Wailers'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/bob_marley_and_the_wailers_afro_b.jpg
 biography_enhanced_at: '2025-11-20T07:36:11.335163'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Bob_Marley_and_the_Wailers
-- https://en.wikipedia.org/wiki/Bob_Marley
-- https://www.bobmarley.com/history/
-- https://www.britannica.com/biography/Bob-Marley
+  - 'https://en.wikipedia.org/wiki/Bob_Marley_and_the_Wailers'
+  - 'https://en.wikipedia.org/wiki/Bob_Marley'
+  - 'https://www.bobmarley.com/history/'
+  - 'https://www.britannica.com/biography/Bob-Marley'
 network_extracted: true
 entry_created: '2025-11-20T07:36:11.335177'
 last_updated: '2025-12-23T08:16:05.816388'
-origin: Kingston, Jamaica
+origin: 'Kingston, Jamaica, United States'
+birth_place: 'Nine Mile, Jamaica, United States'
+artist_type: band
 ---
 
 ![](bob_marley_and_the_wailers_afro_b.jpg)

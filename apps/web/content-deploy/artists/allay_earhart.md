@@ -3,13 +3,13 @@ title: Allay Earhart
 wiki_slug: allay-earhart
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, USA'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/allay_earhart.jpg
   caption: Allay Earhart
   background: solo_singer
-  origin: New Orleans, Louisiana, USA
+  origin: 'New Orleans, Louisiana, USA'
 audio_profile:
   tempo_avg: 96.6
   energy_avg: 0.922
@@ -31,25 +31,28 @@ spotify_data:
   followers: 0
   id: 2YpkXuxKoL1szU8o8wE52f
   popularity: 0
-  url: https://open.spotify.com/artist/2YpkXuxKoL1szU8o8wE52f
+  url: 'https://open.spotify.com/artist/2YpkXuxKoL1szU8o8wE52f'
 discography_enriched: true
 top_tracks:
-- Dip My Way (Non Stop II)
+  - Dip My Way (Non Stop II)
 external_urls:
-  spotify: https://open.spotify.com/artist/2YpkXuxKoL1szU8o8wE52f
+  spotify: 'https://open.spotify.com/artist/2YpkXuxKoL1szU8o8wE52f'
   wikipedia: ''
 image_path: ''
 biography_enhanced_at: '2025-11-21T07:07:39.531436'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://crescentcitysounds.org/artists/allay-earhart
-- https://nolalibrary.org/2025/08/28/allay-earhart/
-- https://www.wwoz.org/acts/allay-earhart
-- https://dallasweekly.com/2022/06/how-allay-earhart-is-creating-his-own-lane-in-the-music-industry/
+  - 'https://crescentcitysounds.org/artists/allay-earhart'
+  - 'https://nolalibrary.org/2025/08/28/allay-earhart/'
+  - 'https://www.wwoz.org/acts/allay-earhart'
+  - >-
+    https://dallasweekly.com/2022/06/how-allay-earhart-is-creating-his-own-lane-in-the-music-industry/
 network_extracted: true
 entry_created: '2025-11-21T07:07:39.531442'
 last_updated: '2025-12-23T08:16:04.604355'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![]()

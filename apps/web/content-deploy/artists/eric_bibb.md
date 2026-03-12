@@ -5,19 +5,19 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1951-08-16'
-birth_place: New York
+birth_place: 'New York City, New York, United States'
 genres:
-- blues
-- modern blues
-- country blues
-- classic blues
+  - blues
+  - modern blues
+  - country blues
+  - classic blues
 instruments:
-- guitar
-- 12 string guitar
-- steel guitar
-- electric guitar
-- lead vocals
-- tenor vocals
+  - guitar
+  - 12 string guitar
+  - steel guitar
+  - electric guitar
+  - lead vocals
+  - tenor vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/eric_bibb.jpg
   caption: Eric Bibb
@@ -39,63 +39,66 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Pops Staples
-  - Mavis Staples
-  - Taj Mahal
-  - Bill Lee
-  - Eric Gales
-  - Shaneeka Simon
-  - Ron Carter
-  - Glen Scott
-  - Steve Jordan
+    - Pops Staples
+    - Mavis Staples
+    - Taj Mahal
+    - Bill Lee
+    - Eric Gales
+    - Shaneeka Simon
+    - Ron Carter
+    - Glen Scott
+    - Steve Jordan
   influenced: []
   mentors:
-  - Mickey Baker
-  - Bob Dylan
-  - Leon Bibb
-  - Pete Seeger
-  - Odetta
-  - Woody Guthrie
-  - John Lewis
+    - Mickey Baker
+    - Bob Dylan
+    - Leon Bibb
+    - Pete Seeger
+    - Odetta
+    - Woody Guthrie
+    - John Lewis
 spotify_data:
   followers: 72057
   id: 2uNcfNhlVJUyEX0t0NG1m1
   popularity: 44
-  url: https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1
+  url: 'https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1'
 discography_enriched: true
 top_tracks:
-- Don't Ever Let Nobody Drag Your Spirit Down (Sisters & Brothers)
-- We Don't Care (Brothers in Bamako)
-- With My Maker I Am One (Booker's Guitar)
-- Rocking Chair (Booker's Guitar)
-- Goin Down That Road Feelin´ Bad (Blues, Ballads & Work Songs)
-- Whole World's Got The Blues (Dear America)
-- L.A. (Brothers in Bamako)
-- Shine On (Diamond Days)
-- Where The Green Grass Grows (Good Stuff)
-- Bessie's Advice (Sisters & Brothers)
+  - Don't Ever Let Nobody Drag Your Spirit Down (Sisters & Brothers)
+  - We Don't Care (Brothers in Bamako)
+  - With My Maker I Am One (Booker's Guitar)
+  - Rocking Chair (Booker's Guitar)
+  - 'Goin Down That Road Feelin´ Bad (Blues, Ballads & Work Songs)'
+  - Whole World's Got The Blues (Dear America)
+  - L.A. (Brothers in Bamako)
+  - Shine On (Diamond Days)
+  - Where The Green Grass Grows (Good Stuff)
+  - Bessie's Advice (Sisters & Brothers)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2eb6240d-f5e7-4ba4-8003-2c5b2d651dfb
-  spotify: https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1
-  wikipedia: https://en.wikipedia.org/wiki/Eric_Bibb
+  musicbrainz: 'https://musicbrainz.org/artist/2eb6240d-f5e7-4ba4-8003-2c5b2d651dfb'
+  spotify: 'https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1'
+  wikipedia: 'https://en.wikipedia.org/wiki/Eric_Bibb'
 image_path: 03_Resources/source_material/ArtistPortraits/eric_bibb.jpg
 biography_enhanced_at: '2025-12-18T02:41:57.737348'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Eric_Bibb
-- https://www.ericbibb.com/about
-- https://www.mascotlabelgroup.com/pages/eric-bibb-biography
-- https://www.crossrhythms.co.uk/articles/music/Eric_Bibb_The_American_folk_blues_gospel_soul_Americana_songsmith/34656/p1/
-- https://www.inner-magazines.com/music/artist-interviews/eric-bibb-usa-sweden-finland/
+  - 'https://en.wikipedia.org/wiki/Eric_Bibb'
+  - 'https://www.ericbibb.com/about'
+  - 'https://www.mascotlabelgroup.com/pages/eric-bibb-biography'
+  - >-
+    https://www.crossrhythms.co.uk/articles/music/Eric_Bibb_The_American_folk_blues_gospel_soul_Americana_songsmith/34656/p1/
+  - >-
+    https://www.inner-magazines.com/music/artist-interviews/eric-bibb-usa-sweden-finland/
 network_extracted: true
 entry_created: '2025-12-18T02:41:57.737357'
 last_updated: '2025-12-23T08:16:08.407510'
 gender: Male
 musicbrainz_id: 2eb6240d-f5e7-4ba4-8003-2c5b2d651dfb
 tags:
-- classic pop and rock
-- folk
+  - classic pop and rock
+  - folk
+origin: 'Stockholm, Sweden'
 ---
 
 ![](eric_bibb.jpg)

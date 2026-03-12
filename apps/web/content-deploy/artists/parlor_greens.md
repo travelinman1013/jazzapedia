@@ -3,45 +3,51 @@ biography_enhanced_at: '2026-01-22T07:19:54.284233'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:19:54.284239'
 external_urls:
-  spotify: https://open.spotify.com/artist/4c6oXo4PWpSqSnuLqFUxLm
+  spotify: 'https://open.spotify.com/artist/4c6oXo4PWpSqSnuLqFUxLm'
   wikipedia: ''
 genres:
-- retro soul
+  - retro soul
 image_path: 03_Resources/source_material/ArtistPortraits/parlor_greens.jpg
 last_updated: '2026-01-22T07:19:54.284240'
 musical_connections:
   collaborators:
-  - Jimmy James
-  - Adam Scone
-  - Tim Carman
-  - Terry Cole
-  - Delvon Lamarr Organ Trio
-  - The True Loves
+    - Jimmy James
+    - Adam Scone
+    - Tim Carman
+    - Terry Cole
+    - Delvon Lamarr Organ Trio
+    - The True Loves
   influenced: []
   mentors:
-  - Mother of Jimmy James
-  - Sister of Jimmy James
-  - Melvin Sparks
-  - Dr. Lonnie Smith
+    - Mother of Jimmy James
+    - Sister of Jimmy James
+    - Melvin Sparks
+    - Dr. Lonnie Smith
 network_extracted: true
-origin: Loveland, Ohio, USA (formed)
+origin: 'Loveland, Ohio, USA (formed)'
 primary_source: perplexity
 research_sources:
-- https://www.guitarworld.com/artists/guitarists/parlor-greens-jimmy-scratch-james-in-green-we-dream
-- https://www.allaboutjazz.com/musicians/parlor-greens/
-- https://www.knkx.org/show/the-new-cool/2024-08-28/parlor-greens-debut-album-is-soul-jazz-built-from-love-and-admiration
-- https://jazzaspensnowmass.org/getting-to-know-parlor-greens/
-- https://joyofviolentmovement.com/new-audio-parlor-greens-share-strutting-eat-your-greens/
-- https://www.coleminerecords.com/blogs/news/new-trio-new-tune-introducing-parlor-greens
-- https://www.parlorgreens.com
-- https://thefirenote.com/news/fire-tracks/fire-track-parlor-greens-west-memphis/
+  - >-
+    https://www.guitarworld.com/artists/guitarists/parlor-greens-jimmy-scratch-james-in-green-we-dream
+  - 'https://www.allaboutjazz.com/musicians/parlor-greens/'
+  - >-
+    https://www.knkx.org/show/the-new-cool/2024-08-28/parlor-greens-debut-album-is-soul-jazz-built-from-love-and-admiration
+  - 'https://jazzaspensnowmass.org/getting-to-know-parlor-greens/'
+  - >-
+    https://joyofviolentmovement.com/new-audio-parlor-greens-share-strutting-eat-your-greens/
+  - >-
+    https://www.coleminerecords.com/blogs/news/new-trio-new-tune-introducing-parlor-greens
+  - 'https://www.parlorgreens.com'
+  - >-
+    https://thefirenote.com/news/fire-tracks/fire-track-parlor-greens-west-memphis/
 spotify_data:
   followers: 9432
   id: 4c6oXo4PWpSqSnuLqFUxLm
   popularity: 33
-  url: https://open.spotify.com/artist/4c6oXo4PWpSqSnuLqFUxLm
+  url: 'https://open.spotify.com/artist/4c6oXo4PWpSqSnuLqFUxLm'
 status: active
 title: Parlor Greens
+artist_type: person
 ---
 
 ![](parlor_greens.jpg)

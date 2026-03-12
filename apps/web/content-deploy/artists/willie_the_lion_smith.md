@@ -3,16 +3,16 @@ title: Willie the Lion Smith
 wiki_slug: willie-the-lion-smith
 schema_version: 2
 status: active
-birth_place: Newark, New Jersey, United States
+birth_place: 'Newark, New Jersey, United States'
 genres:
-- ragtime
-- jazz
-- boogie-woogie
+  - ragtime
+  - jazz
+  - boogie-woogie
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/willie_the_lion_smith.jpg
   caption: Willie the Lion Smith
   background: solo_singer
-  origin: Newark, New Jersey, United States
+  origin: 'Newark, New Jersey, United States'
 audio_profile:
   tempo_avg: 112.9
   energy_avg: 0.36
@@ -28,58 +28,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - James P. Johnson
-  - Fats Waller
-  - Clarence Williams
-  - Mezz Mezzrow
-  - Buck Clayton
-  - Don Ewell
-  - Jo Jones
+    - James P. Johnson
+    - Fats Waller
+    - Clarence Williams
+    - Mezz Mezzrow
+    - Buck Clayton
+    - Don Ewell
+    - Jo Jones
   influenced:
-  - Duke Ellington
-  - Thelonious Monk
-  - Billy Taylor
-  - Bix Beiderbecke
-  - Count Basie
-  - Artie Shaw
-  - The Dorsey Brothers (Tommy and Jimmy Dorsey)
+    - Duke Ellington
+    - Thelonious Monk
+    - Billy Taylor
+    - Bix Beiderbecke
+    - Count Basie
+    - Artie Shaw
+    - The Dorsey Brothers (Tommy and Jimmy Dorsey)
   mentors:
-  - His Mother (Ida Smith)
-  - Uncle Rob
-  - Charles 'Luckey' Roberts
+    - His Mother (Ida Smith)
+    - Uncle Rob
+    - Charles 'Luckey' Roberts
 spotify_data:
   followers: 5983
   id: 037Qf6TiWsliaE0UuQB07S
   popularity: 20
-  url: https://open.spotify.com/artist/037Qf6TiWsliaE0UuQB07S
+  url: 'https://open.spotify.com/artist/037Qf6TiWsliaE0UuQB07S'
 discography_enriched: true
 top_tracks:
-- 'Rippling Waters (Fingerbreaker: Classics Of Ragtime And Early Jazz Piano)'
-- 'Echo of Spring (Fingerbreaker: Classics Of Ragtime And Early Jazz Piano)'
-- On the Sunny Side of the Street Take, Pt. 1 (The Lion and the Tiger)
-- 'Finger Buster (Fingerbreaker: Classics Of Ragtime And Early Jazz Piano)'
-- Summertime - Instrumental (Music On My Mind)
-- Echoes of Spring (Piano Solo) (Willie "The Lion" Smith and His Jazz Cubs)
-- Moonlight Cocktail (Roaring, Vol. 2)
-- Am I Blue (Willie "The Lion" Smith and His Jazz Cubs)
-- Summertime
-- Am I Blue?
+  - 'Rippling Waters (Fingerbreaker: Classics Of Ragtime And Early Jazz Piano)'
+  - 'Echo of Spring (Fingerbreaker: Classics Of Ragtime And Early Jazz Piano)'
+  - 'On the Sunny Side of the Street Take, Pt. 1 (The Lion and the Tiger)'
+  - 'Finger Buster (Fingerbreaker: Classics Of Ragtime And Early Jazz Piano)'
+  - Summertime - Instrumental (Music On My Mind)
+  - Echoes of Spring (Piano Solo) (Willie "The Lion" Smith and His Jazz Cubs)
+  - 'Moonlight Cocktail (Roaring, Vol. 2)'
+  - Am I Blue (Willie "The Lion" Smith and His Jazz Cubs)
+  - Summertime
+  - Am I Blue?
 external_urls:
-  spotify: https://open.spotify.com/artist/037Qf6TiWsliaE0UuQB07S
-  wikipedia: https://en.wikipedia.org/wiki/Willie_%22the_Lion%22_Smith
+  spotify: 'https://open.spotify.com/artist/037Qf6TiWsliaE0UuQB07S'
+  wikipedia: 'https://en.wikipedia.org/wiki/Willie_%22the_Lion%22_Smith'
 image_path: 03_Resources/source_material/ArtistPortraits/willie_the_lion_smith.jpg
 biography_enhanced_at: '2025-11-26T07:45:59.069628'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.jazz24.org/2011-11-23/willie-the-lion-smith-stride-pianos-uptown-ruler
-- https://syncopatedtimes.com/willie-the-lion-smith/
-- https://www.blackpast.org/african-american-history/smith-william-willie-lion-1897-1973/
-- https://www.harlemworldmagazine.com/the-legendary-willie-the-lion-smith-harlem-jazz-man-cantor-duke-ellington-mentor-harlem-hellfighter-and-more/
-- https://en.wikipedia.org/wiki/Willie_%22the_Lion%22_Smith
+  - >-
+    https://www.jazz24.org/2011-11-23/willie-the-lion-smith-stride-pianos-uptown-ruler
+  - 'https://syncopatedtimes.com/willie-the-lion-smith/'
+  - >-
+    https://www.blackpast.org/african-american-history/smith-william-willie-lion-1897-1973/
+  - >-
+    https://www.harlemworldmagazine.com/the-legendary-willie-the-lion-smith-harlem-jazz-man-cantor-duke-ellington-mentor-harlem-hellfighter-and-more/
+  - 'https://en.wikipedia.org/wiki/Willie_%22the_Lion%22_Smith'
 network_extracted: true
 entry_created: '2025-11-26T07:45:59.069635'
 last_updated: '2025-12-23T08:16:18.215586'
+birth_date: '1893-11-23'
+artist_type: person
 ---
 
 ![](willie_the_lion_smith.jpg)

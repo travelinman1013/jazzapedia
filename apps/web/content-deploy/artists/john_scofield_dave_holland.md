@@ -4,46 +4,51 @@ birth_place: United States (birthplace not specified in search results)
 enhancement_provider: perplexity
 entry_created: '2026-01-21T01:17:52.167726'
 external_urls:
-  spotify: https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK
-  wikipedia: https://en.wikipedia.org/wiki/John_Scofield
+  spotify: 'https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK'
+  wikipedia: 'https://en.wikipedia.org/wiki/John_Scofield'
 genres:
-- jazz fusion
-- jazz
-- jazz funk
-- soul jazz
+  - jazz fusion
+  - jazz
+  - jazz funk
+  - soul jazz
 image_path: 03_Resources/source_material/ArtistPortraits/john_scofield_dave_holland.jpg
 last_updated: '2026-01-21T01:17:52.167727'
 musical_connections:
   collaborators:
-  - Dave Holland
-  - Joe Lovano
-  - Pat Metheny
-  - Jack DeJohnette
-  - Steve Swallow
-  - Tony Williams
-  - Joe Henderson
+    - Dave Holland
+    - Joe Lovano
+    - Pat Metheny
+    - Jack DeJohnette
+    - Steve Swallow
+    - Tony Williams
+    - Joe Henderson
   influenced:
-  - Contemporary jazz guitarists
+    - Contemporary jazz guitarists
   mentors:
-  - Miles Davis
-  - Herbie Hancock
+    - Miles Davis
+    - Herbie Hancock
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://dlmediamusic.com/press-releases/john-scofield-dave-holland-memories-of-home/
-- https://postgenre.org/review-memories-home-scofield-holland/
-- https://www.allaboutjazz.com/musicians/john-scofield/
-- https://www.detroitjazzfest.org/artist/john-scofield/
-- https://www.johnscofield.com/bio/
-- https://en.wikipedia.org/wiki/John_Scofield
-- https://artsfuse.org/318953/album-review-commentary-john-scofield-and-dave-holland-memories-of-home-and-a-scofield-retrospective/
+  - >-
+    https://dlmediamusic.com/press-releases/john-scofield-dave-holland-memories-of-home/
+  - 'https://postgenre.org/review-memories-home-scofield-holland/'
+  - 'https://www.allaboutjazz.com/musicians/john-scofield/'
+  - 'https://www.detroitjazzfest.org/artist/john-scofield/'
+  - 'https://www.johnscofield.com/bio/'
+  - 'https://en.wikipedia.org/wiki/John_Scofield'
+  - >-
+    https://artsfuse.org/318953/album-review-commentary-john-scofield-and-dave-holland-memories-of-home-and-a-scofield-retrospective/
 spotify_data:
   followers: 197433
   id: 14RXohtx6NiBGFTW8IdmAK
   popularity: 47
-  url: https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK
+  url: 'https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK'
 status: active
-title: John scofield dave holland
+title: John Scofield Dave Holland
+birth_date: '1951-12-26'
+artist_type: person
+origin: 'United States, United States, United States'
 ---
 
 ![](john_scofield_dave_holland.jpg)

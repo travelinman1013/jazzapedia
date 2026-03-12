@@ -3,26 +3,30 @@ title: Pedro
 wiki_slug: pedro
 schema_version: 2
 status: active
-birth_place: Vale do Mucuri, Minas Gerais, Brazil (birthplace); Rio de Janeiro, Brazil (current base)
+birth_place: >-
+  Vale do Mucuri, Minas Gerais, Brazil (birthplace); Rio de Janeiro, Brazil
+  (current base)
 genres:
-- brazilian funk
-- brazilian pop
-- brega funk
-- funk
-- funk carioca
-- funk pop
+  - brazilian funk
+  - brazilian pop
+  - brega funk
+  - funk
+  - funk carioca
+  - funk pop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/pedro.jpg
   caption: Pedro
   background: solo_singer
-  origin: Vale do Mucuri, Minas Gerais, Brazil (birthplace); Rio de Janeiro, Brazil (current base)
+  origin: >-
+    Vale do Mucuri, Minas Gerais, Brazil (birthplace); Rio de Janeiro, Brazil
+    (current base)
 audio_profile:
   tempo_avg: 137.7
   energy_avg: 0.785
   valence_avg: 0.752
   danceability_avg: 0.779
   acousticness_avg: 0.284
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -3.7
   speechiness_avg: 0.101
   liveness_avg: 0.208
@@ -31,43 +35,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Baco Exu do Blues
-  - Planet Hemp
-  - Zé Bigode Orquestra
-  - Thami, IZA, Luedji Luna, Donatinho, YOUN, Arosa
-  - Damilo (brother), Gustavo Pereira, Leo Mucuri, Floor Polder, George Mason, Marcelle Mota, Yumi Park, Tati Monteiro
+    - Baco Exu do Blues
+    - Planet Hemp
+    - Zé Bigode Orquestra
+    - 'Thami, IZA, Luedji Luna, Donatinho, YOUN, Arosa'
+    - >-
+      Damilo (brother), Gustavo Pereira, Leo Mucuri, Floor Polder, George Mason,
+      Marcelle Mota, Yumi Park, Tati Monteiro
   influenced: []
   mentors:
-  - Pedro's uncles
+    - Pedro's uncles
 spotify_data:
   followers: 3080795
   id: 5wbf52LA6kcaboHSN6NEF1
   popularity: 73
-  url: https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1
+  url: 'https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1'
 discography_enriched: true
 top_tracks:
-- SEQUÊNCIA STRIPTEASE
-- ESCADA DO PRÉDIO (ASTRO)
-- Medley Canoa - Putaria no Escuro / Menina do Job / Escada do Prédio / Mal Caminho / Pede Que eu Te Dou
-- POCPOC (ASTRO)
-- ESCADA DO PRÉDIO
-- POCPOC
-- Joga Pra Lua (Funk Generation)
-- CAVALINHO
-- Si Las Gatas Se Amotinan (feat. DobleP) - Remix
-- GALOPA (CHAMA MEU NOME)
+  - SEQUÊNCIA STRIPTEASE
+  - ESCADA DO PRÉDIO (ASTRO)
+  - >-
+    Medley Canoa - Putaria no Escuro / Menina do Job / Escada do Prédio / Mal
+    Caminho / Pede Que eu Te Dou
+  - POCPOC (ASTRO)
+  - ESCADA DO PRÉDIO
+  - POCPOC
+  - Joga Pra Lua (Funk Generation)
+  - CAVALINHO
+  - Si Las Gatas Se Amotinan (feat. DobleP) - Remix
+  - GALOPA (CHAMA MEU NOME)
 external_urls:
-  spotify: https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1
+  spotify: 'https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/pedro.jpg
 biography_enhanced_at: '2025-10-30T11:53:30.220738'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://banbantonton.com/2022/09/16/interview-pedro-guinu-razor-n-tape/
+  - 'https://banbantonton.com/2022/09/16/interview-pedro-guinu-razor-n-tape/'
 network_extracted: true
 entry_created: '2025-10-30T11:53:30.220747'
 last_updated: '2025-12-23T08:16:14.142605'
+origin: 'Rio de Janeiro, Brazil'
+artist_type: person
 ---
 
 ![](pedro.jpg)

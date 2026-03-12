@@ -6,33 +6,33 @@ status: active
 birth_name: Willie Hugh Nelson
 aliases: []
 birth_date: '1933-04-29'
-birth_place: Abbott
+birth_place: 'Abbott, Texas, United States'
 years_active: 1956–present
 genres:
-- country
-- honky tonk
-- traditional country
+  - country
+  - honky tonk
+  - traditional country
 instruments:
-- guitar
-- steel-string acoustic guitar
-- electric guitar
-- acoustic guitar
-- classical guitar
+  - guitar
+  - steel-string acoustic guitar
+  - electric guitar
+  - acoustic guitar
+  - classical guitar
 occupation:
-- singer-songwriter
-- writer
-- actor
-- singer
-- guitarist
+  - singer-songwriter
+  - writer
+  - actor
+  - singer
+  - guitarist
 record_labels:
-- Blue Note
-- Atlantic Records
-- Columbia Records
-- Island Records
-- Legacy Recordings
+  - Blue Note
+  - Atlantic Records
+  - Columbia Records
+  - Island Records
+  - Legacy Recordings
 spouse:
-- Shirley Collie Nelson
-- Martha Matthews
+  - Shirley Collie Nelson
+  - Martha Matthews
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Willie_Nelson.jpg
   caption: Willie Nelson
@@ -55,61 +55,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Waylon Jennings
-  - Johnny Cash
-  - Kris Kristofferson
-  - Merle Haggard
-  - Ray Price
-  - Bobbie Nelson
+    - Waylon Jennings
+    - Johnny Cash
+    - Kris Kristofferson
+    - Merle Haggard
+    - Ray Price
+    - Bobbie Nelson
   influenced:
-  - Kacey Musgraves
-  - Sturgill Simpson
-  - Lukas Nelson
-  - Margo Price
+    - Kacey Musgraves
+    - Sturgill Simpson
+    - Lukas Nelson
+    - Margo Price
   mentors:
-  - His grandparents (William and Nancy Nelson)
-  - Bob Wills
-  - Hank Williams
+    - His grandparents (William and Nancy Nelson)
+    - Bob Wills
+    - Hank Williams
 related_artists: []
 spotify_data:
   followers: 2545940
   id: 5W5bDNCqJ1jbCgTxDD0Cb3
   popularity: 73
-  url: https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3
+  url: 'https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3'
   verified: false
 discography_enriched: true
 albums_count: 128
 singles_count: 6
 top_tracks:
-- Beer For My Horses (Unleashed)
-- Highwayman (Highwayman)
-- Mammas Don't Let Your Babies Grow up to Be Cowboys (Waylon & Willie)
-- Luckenbach, Texas (Back to the Basics of Love) (feat. Willie Nelson)
-- Always On My Mind
-- American Remains (Highwayman 2)
-- Roll Me Up and Smoke Me When I Die - Live
-- SMOKE HOUR ★ WILLIE NELSON (COWBOY CARTER)
-- Blue Eyes Crying In the Rain
-- On the Road Again (Willie Nelson The Collection)
+  - Beer For My Horses (Unleashed)
+  - Highwayman (Highwayman)
+  - Mammas Don't Let Your Babies Grow up to Be Cowboys (Waylon & Willie)
+  - 'Luckenbach, Texas (Back to the Basics of Love) (feat. Willie Nelson)'
+  - Always On My Mind
+  - American Remains (Highwayman 2)
+  - Roll Me Up and Smoke Me When I Die - Live
+  - SMOKE HOUR ★ WILLIE NELSON (COWBOY CARTER)
+  - Blue Eyes Crying In the Rain
+  - On the Road Again (Willie Nelson The Collection)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3
-  wikipedia: https://en.wikipedia.org/wiki/Willie_Nelson
+  spotify: 'https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3'
+  wikipedia: 'https://en.wikipedia.org/wiki/Willie_Nelson'
 image_path: 03_Resources/source_material/ArtistPortraits/Willie_Nelson.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T10:33:12.935018'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.biography.com/musicians/willie-nelson
-- https://historycooperative.org/willie-nelson-bio/
-- https://www.bluenote.com/artist/willie-nelson/
-- https://en.wikipedia.org/wiki/Willie_Nelson
+  - 'https://www.biography.com/musicians/willie-nelson'
+  - 'https://historycooperative.org/willie-nelson-bio/'
+  - 'https://www.bluenote.com/artist/willie-nelson/'
+  - 'https://en.wikipedia.org/wiki/Willie_Nelson'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 13:07:59.870675
+entry_created: 2025-09-18T13:07:59.870Z
 last_updated: '2025-12-23T08:16:04.300506'
-
+artist_type: person
 ---
 
 ![](Willie_Nelson.jpg)

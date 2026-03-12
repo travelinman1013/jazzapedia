@@ -4,14 +4,14 @@ wiki_slug: bobby-black
 schema_version: 2
 status: active
 aliases: []
-birth_place: Prescott, Arizona, United States
+birth_place: 'Prescott, Arizona, United States'
 genres:
-- exotica
+  - exotica
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Bobby_Black.jpg
   caption: Bobby Black
   background: solo_singer
-  origin: Prescott, Arizona, United States
+  origin: 'Prescott, Arizona, United States'
 audio_profile:
   tempo_avg: 121.4
   energy_avg: 0.427
@@ -27,42 +27,42 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Commander Cody and His Lost Planet Airmen
-  - Asleep at the Wheel
-  - New Riders of the Purple Sage
-  - Larry Black (brother)
+    - Commander Cody and His Lost Planet Airmen
+    - Asleep at the Wheel
+    - New Riders of the Purple Sage
+    - Larry Black (brother)
   influenced:
-  - Ray Benson (Asleep at the Wheel)
-  - Bill Kirchen (Commander Cody)
-  - John Tichy (Commander Cody)
+    - Ray Benson (Asleep at the Wheel)
+    - Bill Kirchen (Commander Cody)
+    - John Tichy (Commander Cody)
   mentors:
-  - Harry Owens and the Royal Hawaiians
-  - Charlie Parker
-  - Andrés Segovia
+    - Harry Owens and the Royal Hawaiians
+    - Charlie Parker
+    - Andrés Segovia
 related_artists: []
 spotify_data:
   followers: 297
   id: 5e8N0ZStAcDR96UKwkg0vo
   popularity: 7
-  url: https://open.spotify.com/artist/5e8N0ZStAcDR96UKwkg0vo
+  url: 'https://open.spotify.com/artist/5e8N0ZStAcDR96UKwkg0vo'
   verified: false
 discography_enriched: true
 albums_count: 9
 singles_count: 2
 top_tracks:
-- Real Western Steel
-- Thank God
-- Real Western Steel
-- Brasilian Hangover
-- Ebb Tide
-- Falling in Love with You/Lovely Hula Girl
-- Long Train Runnin' (Musical Love Affair)
-- Intro
-- Money Truck
-- Taken Hitz (Nokimov)
+  - Real Western Steel
+  - Thank God
+  - Real Western Steel
+  - Brasilian Hangover
+  - Ebb Tide
+  - Falling in Love with You/Lovely Hula Girl
+  - Long Train Runnin' (Musical Love Affair)
+  - Intro
+  - Money Truck
+  - Taken Hitz (Nokimov)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/5e8N0ZStAcDR96UKwkg0vo
+  spotify: 'https://open.spotify.com/artist/5e8N0ZStAcDR96UKwkg0vo'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/Bobby_Black.jpg
 biography_source: wikipedia
@@ -70,13 +70,15 @@ biography_enhanced_at: '2025-09-30T11:27:51.435472'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Vintage Guitar magazine
-- Blues.gr interview
-- Little Village Foundation
+  - Vintage Guitar magazine
+  - Blues.gr interview
+  - Little Village Foundation
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 15:22:37.146167
+entry_created: 2025-09-18T15:22:37.146Z
 last_updated: '2025-12-23T08:16:01.270933'
+birth_date: '1934'
+artist_type: person
 ---
 
 ![](Bobby_Black.jpg)

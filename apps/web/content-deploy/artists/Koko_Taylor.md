@@ -3,16 +3,16 @@ title: Koko Taylor
 wiki_slug: koko-taylor
 schema_version: 2
 status: active
-birth_place: Bartlett, Tennessee, United States
+birth_place: 'Bartlett, Tennessee, United States'
 genres:
-- blues
-- classic blues
-- soul blues
+  - blues
+  - classic blues
+  - soul blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Koko_Taylor.jpg
   caption: Koko Taylor
   background: solo_singer
-  origin: Bartlett, Tennessee, United States
+  origin: 'Bartlett, Tennessee, United States'
 audio_profile:
   tempo_avg: 133.8
   energy_avg: 0.617
@@ -28,51 +28,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Buddy Guy
-  - Carey Bell
-  - Mighty Joe Young
-  - Criss Johnson
+    - Buddy Guy
+    - Carey Bell
+    - Mighty Joe Young
+    - Criss Johnson
   influenced:
-  - Bonnie Raitt
-  - Shemekia Copeland
-  - Janis Joplin
-  - Susan Tedeschi
+    - Bonnie Raitt
+    - Shemekia Copeland
+    - Janis Joplin
+    - Susan Tedeschi
   mentors:
-  - Willie Dixon
-  - Bessie Smith
-  - Memphis Minnie
+    - Willie Dixon
+    - Bessie Smith
+    - Memphis Minnie
 spotify_data:
   followers: 135528
   id: 04qIJRFjTmvW5I1DMyGE1R
   popularity: 39
-  url: https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R
+  url: 'https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R'
 discography_enriched: true
 top_tracks:
-- Wang Dang Doodle (Koko Taylor)
-- I'd Rather Go Blind (From The Heart Of A Woman)
-- Voodoo Woman (Deluxe Edition)
-- I'm A Woman (The Earthshaker)
-- I Got What It Takes (I Got What It Takes)
-- That's Why I'm Crying (I Got What It Takes)
-- Put The Pot On (Force Of Nature)
-- Insane Asylum - Single Version (Koko Taylor)
-- Blues Never Die (I Got What It Takes)
-- Born Under A Bad Sign (Deluxe Edition)
+  - Wang Dang Doodle (Koko Taylor)
+  - I'd Rather Go Blind (From The Heart Of A Woman)
+  - Voodoo Woman (Deluxe Edition)
+  - I'm A Woman (The Earthshaker)
+  - I Got What It Takes (I Got What It Takes)
+  - That's Why I'm Crying (I Got What It Takes)
+  - Put The Pot On (Force Of Nature)
+  - Insane Asylum - Single Version (Koko Taylor)
+  - Blues Never Die (I Got What It Takes)
+  - Born Under A Bad Sign (Deluxe Edition)
 external_urls:
-  spotify: https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R
-  wikipedia: https://en.wikipedia.org/wiki/Koko_Taylor
+  spotify: 'https://open.spotify.com/artist/04qIJRFjTmvW5I1DMyGE1R'
+  wikipedia: 'https://en.wikipedia.org/wiki/Koko_Taylor'
 image_path: 03_Resources/source_material/ArtistPortraits/Koko_Taylor.jpg
 biography_enhanced_at: '2025-10-20T09:11:25.226457'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://aaregistry.org/story/koko-taylor-born/
-- https://www.britannica.com/biography/Koko-Taylor
-- https://www.arts.gov/honors/heritage/koko-taylor
-- https://www.alligator.com/artists/Koko-Taylor/
+  - 'https://aaregistry.org/story/koko-taylor-born/'
+  - 'https://www.britannica.com/biography/Koko-Taylor'
+  - 'https://www.arts.gov/honors/heritage/koko-taylor'
+  - 'https://www.alligator.com/artists/Koko-Taylor/'
 network_extracted: true
 entry_created: '2025-10-20T09:11:25.226547'
 last_updated: '2025-12-23T08:16:02.902931'
+origin: 'Chicago, Illinois, United States'
+birth_date: '1928-09-28'
+death_date: '2009-06-03'
+artist_type: person
 ---
 
 ![](Koko_Taylor.jpg)

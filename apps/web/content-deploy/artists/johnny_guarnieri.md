@@ -1,15 +1,15 @@
 ---
-title: johnny guarnieri
+title: Johnny Guarnieri
 wiki_slug: johnny-guarnieri
 schema_version: 2
 status: active
-birth_place: New York City, New York, United States
+birth_place: 'New York City, New York, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/johnny_guarnieri.jpg
   caption: johnny guarnieri
   background: solo_singer
-  origin: New York City, New York, United States
+  origin: 'New York City, New York, United States'
 audio_profile:
   tempo_avg: 116.9
   energy_avg: 0.24
@@ -25,57 +25,76 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Benny Goodman
-  - Artie Shaw
-  - Tommy Dorsey
-  - Lester Young
-  - Slam Stewart
-  - June Christy
-  - Louis Armstrong
-  - Coleman Hawkins, Ben Webster, Don Byas, Roy Eldridge, Rex Stewart, Hot Lips Page, Bobby Hackett, Ike Quebec, Cozy Cole,
-    Hank D’Amico, Charlie Christian
+    - Benny Goodman
+    - Artie Shaw
+    - Tommy Dorsey
+    - Lester Young
+    - Slam Stewart
+    - June Christy
+    - Louis Armstrong
+    - >-
+      Coleman Hawkins, Ben Webster, Don Byas, Roy Eldridge, Rex Stewart, Hot
+      Lips Page, Bobby Hackett, Ike Quebec, Cozy Cole, Hank D’Amico, Charlie
+      Christian
   influenced:
-  - Later stride and swing pianists (general)
+    - Later stride and swing pianists (general)
   mentors:
-  - James P. Johnson
-  - Fats Waller
-  - Art Tatum
-  - Count Basie
+    - James P. Johnson
+    - Fats Waller
+    - Art Tatum
+    - Count Basie
 spotify_data:
   followers: 1151
   id: 4By80N6Pqew9qI5O8dpfFM
   popularity: 21
-  url: https://open.spotify.com/artist/4By80N6Pqew9qI5O8dpfFM
+  url: 'https://open.spotify.com/artist/4By80N6Pqew9qI5O8dpfFM'
 discography_enriched: true
 top_tracks:
-- Sometimes I'm Happy (Walla Walla (The Definitive Black & Blue Sessions 1975))
-- Sometimes I'm Happy
-- There Are No Cats In America - From "An American Tail" Soundtrack (An American Tail)
-- Walla Walla (Walla Walla (The Definitive Black & Blue Sessions 1975))
-- These Foolish Things
-- Sweet Georgia Brown (Walla Walla (The Definitive Black & Blue Sessions 1975))
-- Santa's Secret (Savoy Christmas Blues)
-- Gliss Me Again (Walla Walla (The Definitive Black & Blue Sessions 1975))
-- Celery Stalks At Midnight
-- I Left My Heart In San Francisco (Walla Walla (The Definitive Black & Blue Sessions 1975))
+  - >-
+    Sometimes I'm Happy (Walla Walla (The Definitive Black & Blue Sessions
+    1975))
+  - Sometimes I'm Happy
+  - >-
+    There Are No Cats In America - From "An American Tail" Soundtrack (An
+    American Tail)
+  - Walla Walla (Walla Walla (The Definitive Black & Blue Sessions 1975))
+  - These Foolish Things
+  - >-
+    Sweet Georgia Brown (Walla Walla (The Definitive Black & Blue Sessions
+    1975))
+  - Santa's Secret (Savoy Christmas Blues)
+  - Gliss Me Again (Walla Walla (The Definitive Black & Blue Sessions 1975))
+  - Celery Stalks At Midnight
+  - >-
+    I Left My Heart In San Francisco (Walla Walla (The Definitive Black & Blue
+    Sessions 1975))
 external_urls:
-  spotify: https://open.spotify.com/artist/4By80N6Pqew9qI5O8dpfFM
-  wikipedia: https://en.wikipedia.org/wiki/Johnny_Guarnieri
+  spotify: 'https://open.spotify.com/artist/4By80N6Pqew9qI5O8dpfFM'
+  wikipedia: 'https://en.wikipedia.org/wiki/Johnny_Guarnieri'
 image_path: 03_Resources/source_material/ArtistPortraits/johnny_guarnieri.jpg
 biography_enhanced_at: '2025-12-20T01:21:16.726520'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- 'From the Vaults – Boppin’ Bob blog: "Johnny Guarnieri born 23 March 1917"[1]'
-- 'Jazzology Press description: "A Biography and Discography of Johnny Guarnieri"[2]'
-- 'Geezer Music Club article: "Johnny Guarnieri – Small Hands But Big Talent"[3]'
-- 'The Syncopated Times review: "Superstride: A Biography and Discography of Johnny Guarnieri"[4]'
-- 'JazzLives blog on Derek Coller’s book "Superstride: Johnny Guarnieri"[5]'
-- 'Jazz on Film feature: "Johnny Guarnieri and The Swing Stars"[6]'
-- Jazz Music Archives artist entry for Johnny Guarnieri[7]
+  - 'From the Vaults – Boppin’ Bob blog: "Johnny Guarnieri born 23 March 1917"[1]'
+  - >-
+    Jazzology Press description: "A Biography and Discography of Johnny
+    Guarnieri"[2]
+  - >-
+    Geezer Music Club article: "Johnny Guarnieri – Small Hands But Big
+    Talent"[3]
+  - >-
+    The Syncopated Times review: "Superstride: A Biography and Discography of
+    Johnny Guarnieri"[4]
+  - 'JazzLives blog on Derek Coller’s book "Superstride: Johnny Guarnieri"[5]'
+  - 'Jazz on Film feature: "Johnny Guarnieri and The Swing Stars"[6]'
+  - 'Jazz Music Archives artist entry for Johnny Guarnieri[7]'
 network_extracted: true
 entry_created: '2025-12-20T01:21:16.726525'
 last_updated: '2025-12-23T08:16:10.831072'
+birth_date: '1917-03-23'
+death_date: '1985-01-07'
+artist_type: person
 ---
 
 ![](johnny_guarnieri.jpg)

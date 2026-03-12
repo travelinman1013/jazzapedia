@@ -4,15 +4,15 @@ wiki_slug: the-bridge
 schema_version: 2
 status: active
 genres:
-- folk punk
-- gothic country
-- dark cabaret
+  - folk punk
+  - gothic country
+  - dark cabaret
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_bridge.jpg
   caption: The Bridge
   background: solo_singer
 audio_profile:
-  tempo_avg: 130.0
+  tempo_avg: 130
   energy_avg: 0.669
   valence_avg: 0.535
   danceability_avg: 0.509
@@ -26,48 +26,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Cris Jacobs
-  - Kenny Liner
-  - Dave Markowitz
-  - Patrick Rainey
-  - Mike Gambone
-  - Mark Brown
+    - Cris Jacobs
+    - Kenny Liner
+    - Dave Markowitz
+    - Patrick Rainey
+    - Mike Gambone
+    - Mark Brown
   influenced:
-  - Baltimore jam band scene
+    - Baltimore jam band scene
   mentors:
-  - Local Baltimore musicians
+    - Local Baltimore musicians
 spotify_data:
   followers: 199229
   id: 67koLjNJIwd3at8sM8EAkt
   popularity: 48
-  url: https://open.spotify.com/artist/67koLjNJIwd3at8sM8EAkt
+  url: 'https://open.spotify.com/artist/67koLjNJIwd3at8sM8EAkt'
 discography_enriched: true
 top_tracks:
-- Devil Like You (Unholy Hymns)
-- Break the Chain (In the Age of Doubt)
-- Midnight to Vice (In the Age of Doubt)
-- Crazy (In the Age of Doubt)
-- Kreacher (Here's to the Devil)
-- The Devil's Swing (Unholy Hymns)
-- Pick Your Poison (Unholy Hymns)
-- St. James Infirmary (Bridge City Sinners)
-- Through and Through (Here's to the Devil)
-- Dead Don't Sleep (How Many People How Many Dogs)
+  - Devil Like You (Unholy Hymns)
+  - Break the Chain (In the Age of Doubt)
+  - Midnight to Vice (In the Age of Doubt)
+  - Crazy (In the Age of Doubt)
+  - Kreacher (Here's to the Devil)
+  - The Devil's Swing (Unholy Hymns)
+  - Pick Your Poison (Unholy Hymns)
+  - St. James Infirmary (Bridge City Sinners)
+  - Through and Through (Here's to the Devil)
+  - Dead Don't Sleep (How Many People How Many Dogs)
 external_urls:
-  spotify: https://open.spotify.com/artist/67koLjNJIwd3at8sM8EAkt
-  wikipedia: https://en.wikipedia.org/wiki/The_Bridge_(band)
+  spotify: 'https://open.spotify.com/artist/67koLjNJIwd3at8sM8EAkt'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Bridge_(band)'
 image_path: 03_Resources/source_material/ArtistPortraits/the_bridge.jpg
 biography_enhanced_at: '2025-11-21T07:25:29.355921'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Bridge_(band)
-- https://www.crossovermedia.net/artists/the-bridge/projects/self-titled/bio/
+  - 'https://en.wikipedia.org/wiki/The_Bridge_(band)'
+  - 'https://www.crossovermedia.net/artists/the-bridge/projects/self-titled/bio/'
 network_extracted: true
 entry_created: '2025-11-21T07:25:29.355933'
 last_updated: '2025-12-23T08:16:16.598980'
-origin: Baltimore, Maryland, United States
-
+origin: 'Baltimore, Maryland, United States'
+artist_type: band
 ---
 
 ![](the_bridge.jpg)

@@ -1,12 +1,12 @@
 ---
-title: THE FIVE KEYS
+title: The Five Keys
 wiki_slug: the-five-keys
 schema_version: 2
 status: active
 genres:
-- doo-wop
-- boogie-woogie
-- rockabilly
+  - doo-wop
+  - boogie-woogie
+  - rockabilly
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_five_keys.jpg
   caption: THE FIVE KEYS
@@ -17,7 +17,7 @@ audio_profile:
   valence_avg: 0.578
   danceability_avg: 0.5
   acousticness_avg: 0.835
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -12.5
   speechiness_avg: 0.063
   liveness_avg: 0.188
@@ -26,57 +26,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Rudy West
-  - Bernie West
-  - Ripley Ingram
-  - Maryland Pierce
-  - James 'Dickie' Smith
-  - Joe Jones
-  - Ulysses K. Hicks
-  - Ramon Loper
+    - Rudy West
+    - Bernie West
+    - Ripley Ingram
+    - Maryland Pierce
+    - James 'Dickie' Smith
+    - Joe Jones
+    - Ulysses K. Hicks
+    - Ramon Loper
   influenced:
-  - The Drifters
-  - The Flamingos
-  - The Spaniels
-  - The Clovers
+    - The Drifters
+    - The Flamingos
+    - The Spaniels
+    - The Clovers
   mentors:
-  - Dixie Hummingbirds
-  - Wynonie Harris
-  - Roy Brown
-  - Bill Kenny (of The Ink Spots)
+    - Dixie Hummingbirds
+    - Wynonie Harris
+    - Roy Brown
+    - Bill Kenny (of The Ink Spots)
 spotify_data:
   followers: 9173
   id: 2tqnmCENgz312npfr5POLe
   popularity: 24
-  url: https://open.spotify.com/artist/2tqnmCENgz312npfr5POLe
+  url: 'https://open.spotify.com/artist/2tqnmCENgz312npfr5POLe'
 discography_enriched: true
 top_tracks:
-- Let There Be You (Golden Keys)
-- Close Your Eyes (Golden Keys)
-- One Great Love (Golden Keys)
-- Ling Ting Tong
-- Ling Ting Tong (Close Your Eyes)
-- She's The Most
-- The Glory of Love (The Glory of Love)
-- Out of Sight, Out of Mind (Hot Harmony - Burning Melodies from The 5 Keys)
-- Let There Be You (Close Your Eyes)
-- Ling Ting Tong (Hot Harmony - Burning Melodies from The 5 Keys)
+  - Let There Be You (Golden Keys)
+  - Close Your Eyes (Golden Keys)
+  - One Great Love (Golden Keys)
+  - Ling Ting Tong
+  - Ling Ting Tong (Close Your Eyes)
+  - She's The Most
+  - The Glory of Love (The Glory of Love)
+  - 'Out of Sight, Out of Mind (Hot Harmony - Burning Melodies from The 5 Keys)'
+  - Let There Be You (Close Your Eyes)
+  - Ling Ting Tong (Hot Harmony - Burning Melodies from The 5 Keys)
 external_urls:
-  spotify: https://open.spotify.com/artist/2tqnmCENgz312npfr5POLe
-  wikipedia: https://en.wikipedia.org/wiki/The_Five_Keys
+  spotify: 'https://open.spotify.com/artist/2tqnmCENgz312npfr5POLe'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Five_Keys'
 image_path: 03_Resources/source_material/ArtistPortraits/the_five_keys.jpg
 biography_enhanced_at: '2025-10-28T09:21:41.452108'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Five_Keys
-- https://top40weekly.com/the-five-keys/
-- https://tims.blackcat.nl/messages/five_keys.htm
-- http://www.soulwalking.co.uk/Five%20Keys.html
+  - 'https://en.wikipedia.org/wiki/The_Five_Keys'
+  - 'https://top40weekly.com/the-five-keys/'
+  - 'https://tims.blackcat.nl/messages/five_keys.htm'
+  - 'http://www.soulwalking.co.uk/Five%20Keys.html'
 network_extracted: true
 entry_created: '2025-10-28T09:21:41.452113'
 last_updated: '2025-12-23T08:16:16.786703'
-origin: Newport News, Virginia, United States
+origin: 'Newport News, Virginia, United States'
+artist_type: band
 ---
 
 ![](the_five_keys.jpg)

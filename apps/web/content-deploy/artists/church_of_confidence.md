@@ -1,61 +1,62 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2025-12-28T01:53:00.064799'
 enhancement_provider: perplexity
 entry_created: '2025-12-28T01:53:00.064817'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d5820c87-05ef-45e9-aaa1-c302cc7a6615
-  spotify: https://open.spotify.com/artist/7cFDPq38u5xvpLhaHoGvuq
+  musicbrainz: 'https://musicbrainz.org/artist/d5820c87-05ef-45e9-aaa1-c302cc7a6615'
+  spotify: 'https://open.spotify.com/artist/7cFDPq38u5xvpLhaHoGvuq'
   wikipedia: ''
 genres:
-- punk
-- rockabilly
-- psychobilly
+  - punk
+  - rockabilly
+  - psychobilly
 image_path: 03_Resources/source_material/ArtistPortraits/church_of_confidence.jpg
 instruments:
-- bass guitar
-- guitar
-- lead vocals
+  - bass guitar
+  - guitar
+  - lead vocals
 last_updated: '2025-12-28T01:53:00.064819'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - bass guitar
-  mbid: 6c8772e8-7df6-407f-8320-bdaa8593d601
-  name: Rolf Kötting
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: 744c2383-4a58-4426-81f7-72d5df3a0599
-  name: Ulrich Reiße-Gross
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: 744c2383-4a58-4426-81f7-72d5df3a0599
-  name: Ulrich Reiße-Gross
+  - begin: ''
+    end: ''
+    instruments:
+      - bass guitar
+    mbid: 6c8772e8-7df6-407f-8320-bdaa8593d601
+    name: Rolf Kötting
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 744c2383-4a58-4426-81f7-72d5df3a0599
+    name: Ulrich Reiße-Gross
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: 744c2383-4a58-4426-81f7-72d5df3a0599
+    name: Ulrich Reiße-Gross
 musical_connections:
   collaborators:
-  - Church of Confidence (band members)
+    - Church of Confidence (band members)
   influenced: []
   mentors: []
 musicbrainz_id: d5820c87-05ef-45e9-aaa1-c302cc7a6615
 network_extracted: true
-origin: Berlin, Berlin, Germany[4]
+origin: 'Berlin, Berlin, Germany[4]'
 primary_source: perplexity
 research_sources:
-- https://www.awayfromlife.com/church-of-confidence-shit-explosion-review-2025/
+  - >-
+    https://www.awayfromlife.com/church-of-confidence-shit-explosion-review-2025/
 spotify_data:
   followers: 697
   id: 7cFDPq38u5xvpLhaHoGvuq
   popularity: 5
-  url: https://open.spotify.com/artist/7cFDPq38u5xvpLhaHoGvuq
+  url: 'https://open.spotify.com/artist/7cFDPq38u5xvpLhaHoGvuq'
 status: active
 tags:
-- germany
-- punk
+  - germany
+  - punk
 title: Church of Confidence
 ---
 

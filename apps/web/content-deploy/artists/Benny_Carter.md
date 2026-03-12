@@ -2,26 +2,26 @@
 title: Benny Carter
 wiki_slug: benny-carter
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1907-08-08'
-birth_place: New York, New York, United States
+birth_place: 'New York, New York, United States'
 death_date: '2003-07-12'
 genres:
-- big band
-- jazz
-- swing music
-- cool jazz
+  - big band
+  - jazz
+  - swing music
+  - cool jazz
 instruments:
-- original
-- eponymous
-- alto saxophone
+  - original
+  - eponymous
+  - alto saxophone
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Benny_Carter.jpg
   caption: Benny Carter
   background: non_vocal_instrumentalist
   born: '1907-08-08'
-  origin: New York, New York, United States
+  origin: 'New York, New York, United States'
   died: '2003-07-12'
 audio_profile:
   tempo_avg: 121.8
@@ -38,50 +38,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Fletcher Henderson
-  - Coleman Hawkins
-  - Ben Webster
-  - Teddy Wilson
-  - Jazz at the Philharmonic
+    - Fletcher Henderson
+    - Coleman Hawkins
+    - Ben Webster
+    - Teddy Wilson
+    - Jazz at the Philharmonic
   influenced:
-  - Johnny Hodges
-  - Countless swing and jazz saxophonists
-  - Black composers and arrangers in film/TV
+    - Johnny Hodges
+    - Countless swing and jazz saxophonists
+    - Black composers and arrangers in film/TV
   mentors:
-  - Frankie Trumbauer
-  - Bubber Miley
+    - Frankie Trumbauer
+    - Bubber Miley
 spotify_data:
   followers: 31743
   id: 5dlCVmfRbWVGOJYHzGyk32
   popularity: 42
-  url: https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32
+  url: 'https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32'
 discography_enriched: true
 top_tracks:
-- 'A Foggy Day (Cosmopolite: The Oscar Peterson Verve Sessions)'
-- The Midnight Sun Will Never Set (Further Definitions)
-- Honeysuckle Rose (Further Definitions)
-- Body And Soul (Further Definitions)
-- Doozy - 1966 Album Version (Additions To Further Definitions)
-- Honeysuckle Rose (Djangologie Vol.4 / 1937)
-- Christmas In New Orleans (Louis Wishes You a Cool Yule)
-- Crazy Rhythm (Further Definitions)
-- Only You
-- Blue Star (Further Definitions)
+  - 'A Foggy Day (Cosmopolite: The Oscar Peterson Verve Sessions)'
+  - The Midnight Sun Will Never Set (Further Definitions)
+  - Honeysuckle Rose (Further Definitions)
+  - Body And Soul (Further Definitions)
+  - Doozy - 1966 Album Version (Additions To Further Definitions)
+  - Honeysuckle Rose (Djangologie Vol.4 / 1937)
+  - Christmas In New Orleans (Louis Wishes You a Cool Yule)
+  - Crazy Rhythm (Further Definitions)
+  - Only You
+  - Blue Star (Further Definitions)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/25cf5731-bed9-4604-97a4-8b9655de1a30
-  spotify: https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32
-  wikipedia: https://en.wikipedia.org/wiki/Benny_Carter
+  musicbrainz: 'https://musicbrainz.org/artist/25cf5731-bed9-4604-97a4-8b9655de1a30'
+  spotify: 'https://open.spotify.com/artist/5dlCVmfRbWVGOJYHzGyk32'
+  wikipedia: 'https://en.wikipedia.org/wiki/Benny_Carter'
 image_path: 03_Resources/source_material/ArtistPortraits/Benny_Carter.jpg
 biography_enhanced_at: '2025-10-20T01:41:27.454169'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- EBSCO Biography[1]
-- Britannica[2]
-- National Endowment for the Arts[3]
-- Benny Carter official site[4]
-- Wikipedia[5]
-- Musical Heritage Society[6]
+  - 'EBSCO Biography[1]'
+  - 'Britannica[2]'
+  - 'National Endowment for the Arts[3]'
+  - 'Benny Carter official site[4]'
+  - 'Wikipedia[5]'
+  - 'Musical Heritage Society[6]'
 network_extracted: true
 entry_created: '2025-10-20T01:41:27.454188'
 last_updated: '2025-12-23T08:16:01.163788'
@@ -89,9 +89,11 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:01:37.183661'
 musicbrainz_id: 25cf5731-bed9-4604-97a4-8b9655de1a30
 tags:
-- 2008 universal fire victim
-- bebop
-- big band
+  - 2008 universal fire victim
+  - bebop
+  - big band
+is_active: false
+origin: 'Harlem, New York, United States'
 ---
 
 ![](Benny_Carter.jpg)

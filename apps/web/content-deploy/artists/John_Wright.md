@@ -4,20 +4,22 @@ wiki_slug: johnny-wright
 schema_version: 2
 status: active
 aliases: []
-birth_place: Louisville, Kentucky, United States (birthplace); Chicago, Illinois, United States (musical origin)
+birth_place: 'Louisville, Kentucky, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/John_Wright.jpg
   caption: Johnny Wright
   background: solo_singer
-  origin: Louisville, Kentucky, United States (birthplace); Chicago, Illinois, United States (musical origin)
+  origin: >-
+    Louisville, Kentucky, United States (birthplace); Chicago, Illinois, United
+    States (musical origin)
 audio_profile:
-  tempo_avg: 121.0
+  tempo_avg: 121
   energy_avg: 0.574
   valence_avg: 0.824
   danceability_avg: 0.629
   acousticness_avg: 0.806
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -7.4
   speechiness_avg: 0.033
   liveness_avg: 0.298
@@ -26,50 +28,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dexter Gordon
-  - Gene Ammons
-  - Arbee Stidham
-  - John Wright Trio
+    - Dexter Gordon
+    - Gene Ammons
+    - Arbee Stidham
+    - John Wright Trio
   influenced:
-  - Chicago jazz musicians
+    - Chicago jazz musicians
   mentors:
-  - Gospel musicians of his mother's church
+    - Gospel musicians of his mother's church
 related_artists: []
 spotify_data:
   followers: 304
   id: 1GnVlbrRLCwMZXpevaDZ64
   popularity: 28
-  url: https://open.spotify.com/artist/1GnVlbrRLCwMZXpevaDZ64
+  url: 'https://open.spotify.com/artist/1GnVlbrRLCwMZXpevaDZ64'
   verified: false
 discography_enriched: true
 albums_count: 0
 singles_count: 0
 top_tracks:
-- Hello Vietnam - Single Version (The Vietnam War - A Film By Ken Burns & Lynn Novick (The Soundtrack))
-- 'Look At That Chick (Hey Hey: The Sounds Of Ike Turner & The Kings Of Rhythm)'
-- 'Gotta Have You For Myself (Hey Hey: The Sounds Of Ike Turner & The Kings Of Rhythm)'
-- Hello Vietnam (The Vietnam War - A Film By Ken Burns & Lynn Novick (The Soundtrack))
-- Hello Vietnam (The Vietnam War - A Film By Ken Burns & Lynn Novick (The Soundtrack))
-- 'Look At That Chick (Hey Hey: The Sounds Of Ike Turner & The Kings Of Rhythm)'
-- 'Gotta Have You For Myself (Hey Hey: The Sounds Of Ike Turner & The Kings Of Rhythm)'
+  - >-
+    Hello Vietnam - Single Version (The Vietnam War - A Film By Ken Burns & Lynn
+    Novick (The Soundtrack))
+  - 'Look At That Chick (Hey Hey: The Sounds Of Ike Turner & The Kings Of Rhythm)'
+  - >-
+    Gotta Have You For Myself (Hey Hey: The Sounds Of Ike Turner & The Kings Of
+    Rhythm)
+  - >-
+    Hello Vietnam (The Vietnam War - A Film By Ken Burns & Lynn Novick (The
+    Soundtrack))
+  - >-
+    Hello Vietnam (The Vietnam War - A Film By Ken Burns & Lynn Novick (The
+    Soundtrack))
+  - 'Look At That Chick (Hey Hey: The Sounds Of Ike Turner & The Kings Of Rhythm)'
+  - >-
+    Gotta Have You For Myself (Hey Hey: The Sounds Of Ike Turner & The Kings Of
+    Rhythm)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/1GnVlbrRLCwMZXpevaDZ64
-  wikipedia: https://en.wikipedia.org/wiki/John_Wright_(pianist)
+  spotify: 'https://open.spotify.com/artist/1GnVlbrRLCwMZXpevaDZ64'
+  wikipedia: 'https://en.wikipedia.org/wiki/John_Wright_(pianist)'
 image_path: null
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:24:23.306003'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/John_Wright_(pianist)
-- https://wbssmedia.com/artists/detail/4200
-- https://never-the-same.org/interviews/john-wright/
-- https://www.last.fm/music/John+Wright/+wiki
+  - 'https://en.wikipedia.org/wiki/John_Wright_(pianist)'
+  - 'https://wbssmedia.com/artists/detail/4200'
+  - 'https://never-the-same.org/interviews/john-wright/'
+  - 'https://www.last.fm/music/John+Wright/+wiki'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:40:35.041060
+entry_created: 2025-09-22T21:40:35.041Z
 last_updated: '2025-12-23T08:16:02.658409'
+origin: 'Chicago, Illinois, United States'
+birth_date: '1934-09-07'
+death_date: '2017-12-15'
+artist_type: person
 ---
 
 ![]()

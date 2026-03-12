@@ -1,75 +1,76 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '1967'
-  end: '1971'
-  instruments: []
-  mbid: 44119570-4d53-46e7-a447-bd18608c28d8
-  name: Procol Harum
-- begin: '1991'
-  end: '1991'
-  instruments: []
-  mbid: 44119570-4d53-46e7-a447-bd18608c28d8
-  name: Procol Harum
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1b2b40c1-0837-4038-a8b8-29408bfa983c
-  name: Liquorice John Death
+  - begin: '1967'
+    end: '1971'
+    instruments: []
+    mbid: 44119570-4d53-46e7-a447-bd18608c28d8
+    name: Procol Harum
+  - begin: '1991'
+    end: '1991'
+    instruments: []
+    mbid: 44119570-4d53-46e7-a447-bd18608c28d8
+    name: Procol Harum
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1b2b40c1-0837-4038-a8b8-29408bfa983c
+    name: Liquorice John Death
 biography_enhanced_at: '2026-01-22T07:16:26.473233'
 birth_date: '1945-03-09'
-birth_place: Catford
+birth_place: 'Catford, London, England'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:16:26.473239'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6605c2c6-f115-486c-8b1a-b786882de463
-  spotify: https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3
+  musicbrainz: 'https://musicbrainz.org/artist/6605c2c6-f115-486c-8b1a-b786882de463'
+  spotify: 'https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3'
   wikipedia: ''
 gender: Male
 genres:
-- blues rock
-- blues
-- modern blues
+  - blues rock
+  - blues
+  - modern blues
 image_path: 03_Resources/source_material/ArtistPortraits/robin_trower.jpg
 instruments:
-- electric guitar
-- guitar
-- acoustic guitar
-- lead vocals
+  - electric guitar
+  - guitar
+  - acoustic guitar
+  - lead vocals
 last_updated: '2026-01-22T07:16:26.473240'
 musical_connections:
   collaborators:
-  - James Dewar
-  - Gary Brooker
-  - B.J. Wilson
-  - Jack Bruce
-  - Bryan Ferry
+    - James Dewar
+    - Gary Brooker
+    - B.J. Wilson
+    - Jack Bruce
+    - Bryan Ferry
   influenced:
-  - Eric Gales
-  - Steve Lukather
-  - Opeth
+    - Eric Gales
+    - Steve Lukather
+    - Opeth
   mentors:
-  - Jimi Hendrix
+    - Jimi Hendrix
 musicbrainz_id: 6605c2c6-f115-486c-8b1a-b786882de463
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.thefactorystl.com/artist/robin-trower/
-- https://copernicuscenter.org/robin-trower/
-- https://www.youtube.com/watch?v=AQ_imYbHORw
-- https://www.robintrower.com/biography/
-- https://www.jdhayes.com/jdhayescom/blues-artist-of-the-week-robin-trower
-- https://www.effectrode.com/knowledge-base/british-rock-guitar-veteran-robin-trower/
+  - 'https://www.thefactorystl.com/artist/robin-trower/'
+  - 'https://copernicuscenter.org/robin-trower/'
+  - 'https://www.youtube.com/watch?v=AQ_imYbHORw'
+  - 'https://www.robintrower.com/biography/'
+  - 'https://www.jdhayes.com/jdhayescom/blues-artist-of-the-week-robin-trower'
+  - >-
+    https://www.effectrode.com/knowledge-base/british-rock-guitar-veteran-robin-trower/
 spotify_data:
   followers: 269347
   id: 0MAvx5yzdhylg2ztJC3MD3
   popularity: 45
-  url: https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3
+  url: 'https://open.spotify.com/artist/0MAvx5yzdhylg2ztJC3MD3'
 status: active
 tags:
-- blues
-- blues rock
-- classic pop and rock
+  - blues
+  - blues rock
+  - classic pop and rock
 title: Robin Trower
 ---
 

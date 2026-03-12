@@ -3,13 +3,17 @@ title: Ural Thomas
 wiki_slug: ural-thomas
 schema_version: 2
 status: active
-birth_place: Portland, Oregon, United States (raised; original birth in Louisiana, United States)
+birth_place: >-
+  Portland, Oregon, United States (raised; original birth in Louisiana, United
+  States)
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ural_thomas.jpg
   caption: Ural Thomas
   background: solo_singer
-  origin: Portland, Oregon, United States (raised; original birth in Louisiana, United States)
+  origin: >-
+    Portland, Oregon, United States (raised; original birth in Louisiana, United
+    States)
 audio_profile:
   tempo_avg: 104.2
   energy_avg: 0.503
@@ -25,52 +29,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Monterays
-  - Scott Magee
-  - Ural Thomas & The Pain
-  - Uni Records (Universal subsidiary)
+    - The Monterays
+    - Scott Magee
+    - Ural Thomas & The Pain
+    - Uni Records (Universal subsidiary)
   influenced:
-  - North Portland neighborhood musicians and youth
-  - Members of Ural Thomas & The Pain
-  - Pacific Northwest soul revival scene
+    - North Portland neighborhood musicians and youth
+    - Members of Ural Thomas & The Pain
+    - Pacific Northwest soul revival scene
   mentors:
-  - Church and gospel tradition
-  - James Brown
-  - Otis Redding
+    - Church and gospel tradition
+    - James Brown
+    - Otis Redding
 spotify_data:
   followers: 1167
   id: 5qM4tQtz5XrJ4Mx46zs0WC
   popularity: 11
-  url: https://open.spotify.com/artist/5qM4tQtz5XrJ4Mx46zs0WC
+  url: 'https://open.spotify.com/artist/5qM4tQtz5XrJ4Mx46zs0WC'
 discography_enriched: true
 top_tracks:
-- Sleepin' Light (Return to the Moon)
-- Don't Let Me Run (Shine A Light)
-- In Quiet Moments (In Quiet Moments)
-- You Cared Very Little (Nat - Ural)
-- Raindrops (Nat - Ural)
-- Pain Is the Name of Your Game
-- In Quiet Moments (In Quiet Moments)
-- First Place Winner (Nat - Ural)
-- Ain't Enough Time (Nat - Ural)
-- Good Vibrations (Nat - Ural)
+  - Sleepin' Light (Return to the Moon)
+  - Don't Let Me Run (Shine A Light)
+  - In Quiet Moments (In Quiet Moments)
+  - You Cared Very Little (Nat - Ural)
+  - Raindrops (Nat - Ural)
+  - Pain Is the Name of Your Game
+  - In Quiet Moments (In Quiet Moments)
+  - First Place Winner (Nat - Ural)
+  - Ain't Enough Time (Nat - Ural)
+  - Good Vibrations (Nat - Ural)
 external_urls:
-  spotify: https://open.spotify.com/artist/5qM4tQtz5XrJ4Mx46zs0WC
+  spotify: 'https://open.spotify.com/artist/5qM4tQtz5XrJ4Mx46zs0WC'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/ural_thomas.jpg
 biography_enhanced_at: '2025-12-06T05:51:16.184402'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.meldel.com/writing/2017/10/10/from-the-greenwoodof-louisiana-to-michigan-ave-the-ural-thomas-story
-- https://downbeat.com/news/detail/ural-thomas-right-time
-- https://www.viberate.com/artist/ural-thomas-and-the-pain/
-- https://www.wweek.com/portland/article-21467-soul-revival.html
-- https://theduckclub.com/artist/ural-thomas-and-the-pain/
-- https://bendbulletin.com/2018/11/01/no-pain-no-gain-ural-thomas-returns-to-bend/
+  - >-
+    https://www.meldel.com/writing/2017/10/10/from-the-greenwoodof-louisiana-to-michigan-ave-the-ural-thomas-story
+  - 'https://downbeat.com/news/detail/ural-thomas-right-time'
+  - 'https://www.viberate.com/artist/ural-thomas-and-the-pain/'
+  - 'https://www.wweek.com/portland/article-21467-soul-revival.html'
+  - 'https://theduckclub.com/artist/ural-thomas-and-the-pain/'
+  - >-
+    https://bendbulletin.com/2018/11/01/no-pain-no-gain-ural-thomas-returns-to-bend/
 network_extracted: true
 entry_created: '2025-12-06T05:51:16.184417'
 last_updated: '2025-12-23T08:16:17.794045'
+origin: 'Portland, Oregon, United States'
+artist_type: person
 ---
 
 ![](ural_thomas.jpg)

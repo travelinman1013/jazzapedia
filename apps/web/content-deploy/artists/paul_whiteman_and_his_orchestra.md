@@ -1,38 +1,39 @@
 ---
-title: PAUL WHITEMAN AND HIS ORCHESTRA
+title: Paul Whiteman and His Orchestra
 wiki_slug: paul-whiteman-and-his-orchestra
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
-birth_date: '1920'
+birth_date: '1890-03-28'
 genres:
-- ragtime
-- big band
-- swing music
+  - ragtime
+  - big band
+  - swing music
 instruments:
-- original
-- trombone
-- clarinet
-- trumpet
-- drums (drum set)
-- piano
-- banjo
-- violin
-- background vocals
-- choir vocals
-- lead vocals
-- tenor vocals
-- alto saxophone
-- baritone saxophone
-- cornet
-- bass-baritone vocals
-- saxophone
-- guitar
-- bass
-- tuba
-- eponymous
+  - original
+  - trombone
+  - clarinet
+  - trumpet
+  - drums (drum set)
+  - piano
+  - banjo
+  - violin
+  - background vocals
+  - choir vocals
+  - lead vocals
+  - tenor vocals
+  - alto saxophone
+  - baritone saxophone
+  - cornet
+  - bass-baritone vocals
+  - saxophone
+  - guitar
+  - bass
+  - tuba
+  - eponymous
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/paul_whiteman_and_his_orchestra.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/paul_whiteman_and_his_orchestra.jpg
   caption: PAUL WHITEMAN AND HIS ORCHESTRA
   background: group_or_band
   born: '1920'
@@ -51,317 +52,321 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - George Gershwin
-  - Ferde Grofé
-  - Bing Crosby
-  - Bix Beiderbecke
-  - Mildred Bailey
-  - Frankie Trumbauer
-  - Eddie Lang
-  - Johnny Mercer
+    - George Gershwin
+    - Ferde Grofé
+    - Bing Crosby
+    - Bix Beiderbecke
+    - Mildred Bailey
+    - Frankie Trumbauer
+    - Eddie Lang
+    - Johnny Mercer
   influenced:
-  - Bing Crosby
-  - Hoagy Carmichael
-  - Mildred Bailey
-  - Johnny Mercer
+    - Bing Crosby
+    - Hoagy Carmichael
+    - Mildred Bailey
+    - Johnny Mercer
   mentors:
-  - Efrida Whiteman
-  - Paul Whiteman Sr.
+    - Efrida Whiteman
+    - Paul Whiteman Sr.
 spotify_data:
   followers: 5453
   id: 0tIS1GWwrWqr4DHK0RLg5u
   popularity: 26
-  url: https://open.spotify.com/artist/0tIS1GWwrWqr4DHK0RLg5u
+  url: 'https://open.spotify.com/artist/0tIS1GWwrWqr4DHK0RLg5u'
 discography_enriched: true
 top_tracks:
-- Serenade In Blue (The Complete Capitol Recordings)
-- You Were Never Lovelier (The Complete Capitol Recordings)
-- Ol' Man River (feat. Bing Crosby) (The Essential Bing Crosby)
-- Whispering (Rhapsody in Blue)
-- Sweet and Low Down (Rhapsody in Blue)
-- Its Only A Paper Moon (Rhapsody in Blue)
-- Wang Wang Blues (The Complete Capitol Recordings)
-- 3 O'Clock In The Morning (Rhapsody in Blue)
-- Trav'lin' Light
-- 'Side by Side (Crosby, Bing: Rhythm King (1926-1930))'
+  - Serenade In Blue (The Complete Capitol Recordings)
+  - You Were Never Lovelier (The Complete Capitol Recordings)
+  - Ol' Man River (feat. Bing Crosby) (The Essential Bing Crosby)
+  - Whispering (Rhapsody in Blue)
+  - Sweet and Low Down (Rhapsody in Blue)
+  - Its Only A Paper Moon (Rhapsody in Blue)
+  - Wang Wang Blues (The Complete Capitol Recordings)
+  - 3 O'Clock In The Morning (Rhapsody in Blue)
+  - Trav'lin' Light
+  - 'Side by Side (Crosby, Bing: Rhythm King (1926-1930))'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/03ade0b4-4d20-40d5-a2ac-71c832ec5c39
-  spotify: https://open.spotify.com/artist/0tIS1GWwrWqr4DHK0RLg5u
-  wikipedia: https://en.wikipedia.org/wiki/Paul_Whiteman
-image_path: 03_Resources/source_material/ArtistPortraits/paul_whiteman_and_his_orchestra.jpg
+  musicbrainz: 'https://musicbrainz.org/artist/03ade0b4-4d20-40d5-a2ac-71c832ec5c39'
+  spotify: 'https://open.spotify.com/artist/0tIS1GWwrWqr4DHK0RLg5u'
+  wikipedia: 'https://en.wikipedia.org/wiki/Paul_Whiteman'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/paul_whiteman_and_his_orchestra.jpg
 biography_enhanced_at: '2025-11-20T06:35:51.490996'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Paul_Whiteman
-- https://mus-col.com/en/events/33641/
-- https://www.britannica.com/biography/Paul-Whiteman
-- https://study.com/learn/lesson/paul-whiteman-biography-influence-who-was-paul-whiteman.html
-- https://syncopatedtimes.com/paul-whiteman-and-his-orchestra/
-- https://www.independent.com/2014/12/24/paul-whiteman-king-jazz/
-- https://www.ebsco.com/research-starters/biography/paul-whiteman
-- https://cmhof.org/inductees/paul-whiteman/
-- https://fromthevaults-boppinbob.blogspot.com/2025/03/paul-whiteman-born-28-march-1890.html
+  - 'https://en.wikipedia.org/wiki/Paul_Whiteman'
+  - 'https://mus-col.com/en/events/33641/'
+  - 'https://www.britannica.com/biography/Paul-Whiteman'
+  - >-
+    https://study.com/learn/lesson/paul-whiteman-biography-influence-who-was-paul-whiteman.html
+  - 'https://syncopatedtimes.com/paul-whiteman-and-his-orchestra/'
+  - 'https://www.independent.com/2014/12/24/paul-whiteman-king-jazz/'
+  - 'https://www.ebsco.com/research-starters/biography/paul-whiteman'
+  - 'https://cmhof.org/inductees/paul-whiteman/'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2025/03/paul-whiteman-born-28-march-1890.html
 network_extracted: true
 entry_created: '2025-11-20T06:35:51.491007'
 last_updated: '2025-12-23T08:16:14.121616'
 members:
-- begin: '1920'
-  end: '1920'
-  instruments:
-  - original
-  - trombone
-  mbid: 235fd9ff-2ce1-484a-9e74-e60b531dffbb
-  name: Buster Johnson
-- begin: '1920'
-  end: '1923'
-  instruments:
-  - clarinet
-  - original
-  mbid: d9970652-f9eb-4938-8852-2352f3b6126c
-  name: Ross Gorman
-- begin: '1920'
-  end: '1928'
-  instruments:
-  - original
-  - trumpet
-  mbid: d7a0498d-4d49-47b9-bbab-27f4f6a0e39f
-  name: Henry Busse
-- begin: '1920'
-  end: '1928'
-  instruments:
-  - drums (drum set)
-  - original
-  mbid: 344c0510-4912-48d6-a5c0-a1bce739f2d6
-  name: Harold McDonald
-- begin: '1920'
-  end: '1932'
-  instruments:
-  - original
-  - piano
-  mbid: 524d91c8-2162-4a41-a88e-600fa87d8b32
-  name: Ferde Grofé
-- begin: '1920'
-  end: '1939'
-  instruments:
-  - banjo
-  - original
-  mbid: f93282d6-4c8b-4ecd-bdec-24d9fe25402a
-  name: Mike Pingitore
-- begin: '1920'
-  end: '1954'
-  instruments:
-  - violin
-  mbid: b8d920dd-fbd5-477f-9456-1a470b223ff7
-  name: Paul Whiteman
-- begin: '1925'
-  end: '1934'
-  instruments:
-  - background vocals
-  mbid: b2db9d78-45c2-4876-90b3-d994b14314fc
-  name: Jack Fulton
-- begin: '1925'
-  end: '1934'
-  instruments:
-  - choir vocals
-  mbid: b2db9d78-45c2-4876-90b3-d994b14314fc
-  name: Jack Fulton
-- begin: '1925'
-  end: '1934'
-  instruments:
-  - lead vocals
-  mbid: b2db9d78-45c2-4876-90b3-d994b14314fc
-  name: Jack Fulton
-- begin: '1925'
-  end: '1934'
-  instruments:
-  - trombone
-  mbid: b2db9d78-45c2-4876-90b3-d994b14314fc
-  name: Jack Fulton
-- begin: '1926'
-  end: '1928'
-  instruments:
-  - background vocals
-  - lead vocals
-  - tenor vocals
-  - violin
-  mbid: 3e98b53c-27c3-4b41-b1bd-507c5c5a00a7
-  name: Charles Gaylord
-- begin: '1926'
-  end: '1929'
-  instruments:
-  - background vocals
-  mbid: de687ea9-6d7f-4d0e-9390-8bfbc8ffad11
-  name: Austin “Skin” Young
-- begin: '1926'
-  end: '1929'
-  instruments:
-  - choir vocals
-  mbid: de687ea9-6d7f-4d0e-9390-8bfbc8ffad11
-  name: Austin “Skin” Young
-- begin: '1926'
-  end: '1929'
-  instruments:
-  - lead vocals
-  mbid: de687ea9-6d7f-4d0e-9390-8bfbc8ffad11
-  name: Austin “Skin” Young
-- begin: '1926'
-  end: '1940'
-  instruments:
-  - piano
-  mbid: 8588d9a4-c8ab-4ec8-9dee-83ad73f0dba4
-  name: Roy Bargy
-- begin: '1927'
-  end: '1928'
-  instruments:
-  - alto saxophone
-  mbid: 1ef3cb68-4e98-482a-a106-61f5cdad66c9
-  name: Nye Mayhew
-- begin: '1927'
-  end: '1928'
-  instruments:
-  - baritone saxophone
-  mbid: 1ef3cb68-4e98-482a-a106-61f5cdad66c9
-  name: Nye Mayhew
-- begin: '1927'
-  end: '1929'
-  instruments:
-  - cornet
-  mbid: 32286190-da0f-4a85-b3d6-09a84d7e2bbc
-  name: Bix Beiderbecke
-- begin: '1927'
-  end: '1930'
-  instruments:
-  - background vocals
-  - choir vocals
-  - piano
-  mbid: 97864c47-cdfe-4d97-a118-d5d51d5353d4
-  name: Harry Barris
-- begin: '1927'
-  end: '1930'
-  instruments:
-  - background vocals
-  - bass-baritone vocals
-  - choir vocals
-  - lead vocals
-  mbid: 2437980f-513a-44fc-80f1-b90d9d7fcf8f
-  name: Bing Crosby
-- begin: '1927'
-  end: '1930'
-  instruments:
-  - background vocals
-  mbid: 984db263-639c-427a-8679-8e44b9122911
-  name: Al Rinker
-- begin: '1927'
-  end: '1930'
-  instruments:
-  - choir vocals
-  mbid: 984db263-639c-427a-8679-8e44b9122911
-  name: Al Rinker
-- begin: '1927'
-  end: '1930'
-  instruments:
-  - lead vocals
-  mbid: 984db263-639c-427a-8679-8e44b9122911
-  name: Al Rinker
-- begin: '1927'
-  end: '1937'
-  instruments:
-  - violin
-  mbid: 970cbc5f-30c4-47b7-9a53-42a2f083d473
-  name: Mischa Russell
-- begin: '1927'
-  end: '1937'
-  instruments:
-  - saxophone
-  mbid: 714b9ee6-ff84-451f-a121-4d873859291c
-  name: Frankie Trumbauer
-- begin: '1927'
-  end: '1938'
-  instruments:
-  - violin
-  mbid: f81cf9ba-53fc-4b02-88ca-853689320111
-  name: Matty Malneck
-- begin: '1928'
-  end: '1928'
-  instruments:
-  - alto saxophone
-  mbid: bcd971d8-8f1b-4b20-9345-fd06feb2d5b4
-  name: Red Mayer
-- begin: '1928'
-  end: '1929'
-  instruments:
-  - guitar
-  mbid: 7c6e10c8-7896-4624-a46b-2f3b5784d2d6
-  name: Eddie Lang
-- begin: '1928'
-  end: '1929'
-  instruments:
-  - clarinet
-  - saxophone
-  mbid: 9c4f4d6d-aa29-4635-b452-934c097b4627
-  name: Jack Mayhew
-- begin: '1928'
-  end: '1932'
-  instruments:
-  - bass
-  - tuba
-  mbid: 2b541bef-948a-4619-929e-d53c22b80f3c
-  name: Mike Trafficante
-- begin: '1928'
-  end: '1934'
-  instruments:
-  - piano
-  mbid: dfe3dcaa-e4a9-4bb4-b819-a918d92a5e8f
-  name: Frank Signorelli
-- begin: '1932'
-  end: '1935'
-  instruments:
-  - lead vocals
-  mbid: 07b7a2a6-302e-4d6a-92d7-67699e684631
-  name: Peggy Healy
-- begin: '1933'
-  end: '1937'
-  instruments:
-  - lead vocals
-  mbid: ed7c06b9-8aa1-4aa2-a46b-e603103299c0
-  name: Bob Lawrence
-- begin: '1934'
-  end: '1939'
-  instruments:
-  - lead vocals
-  mbid: 79dcf09e-2290-4740-9edc-907f82420160
-  name: Jack Teagarden
-- begin: '1934'
-  end: '1939'
-  instruments:
-  - trombone
-  mbid: 79dcf09e-2290-4740-9edc-907f82420160
-  name: Jack Teagarden
-- begin: '1938'
-  end: '1940'
-  instruments: []
-  mbid: a6437cf2-7e15-42e7-be32-f71dfb0ff61f
-  name: George Whettling
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 8d5c1282-d973-4f23-a5ba-660fb5009428
-  name: Lou Paino
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: b8d920dd-fbd5-477f-9456-1a470b223ff7
-  name: Paul Whiteman
+  - begin: '1920'
+    end: '1920'
+    instruments:
+      - original
+      - trombone
+    mbid: 235fd9ff-2ce1-484a-9e74-e60b531dffbb
+    name: Buster Johnson
+  - begin: '1920'
+    end: '1923'
+    instruments:
+      - clarinet
+      - original
+    mbid: d9970652-f9eb-4938-8852-2352f3b6126c
+    name: Ross Gorman
+  - begin: '1920'
+    end: '1928'
+    instruments:
+      - original
+      - trumpet
+    mbid: d7a0498d-4d49-47b9-bbab-27f4f6a0e39f
+    name: Henry Busse
+  - begin: '1920'
+    end: '1928'
+    instruments:
+      - drums (drum set)
+      - original
+    mbid: 344c0510-4912-48d6-a5c0-a1bce739f2d6
+    name: Harold McDonald
+  - begin: '1920'
+    end: '1932'
+    instruments:
+      - original
+      - piano
+    mbid: 524d91c8-2162-4a41-a88e-600fa87d8b32
+    name: Ferde Grofé
+  - begin: '1920'
+    end: '1939'
+    instruments:
+      - banjo
+      - original
+    mbid: f93282d6-4c8b-4ecd-bdec-24d9fe25402a
+    name: Mike Pingitore
+  - begin: '1920'
+    end: '1954'
+    instruments:
+      - violin
+    mbid: b8d920dd-fbd5-477f-9456-1a470b223ff7
+    name: Paul Whiteman
+  - begin: '1925'
+    end: '1934'
+    instruments:
+      - background vocals
+    mbid: b2db9d78-45c2-4876-90b3-d994b14314fc
+    name: Jack Fulton
+  - begin: '1925'
+    end: '1934'
+    instruments:
+      - choir vocals
+    mbid: b2db9d78-45c2-4876-90b3-d994b14314fc
+    name: Jack Fulton
+  - begin: '1925'
+    end: '1934'
+    instruments:
+      - lead vocals
+    mbid: b2db9d78-45c2-4876-90b3-d994b14314fc
+    name: Jack Fulton
+  - begin: '1925'
+    end: '1934'
+    instruments:
+      - trombone
+    mbid: b2db9d78-45c2-4876-90b3-d994b14314fc
+    name: Jack Fulton
+  - begin: '1926'
+    end: '1928'
+    instruments:
+      - background vocals
+      - lead vocals
+      - tenor vocals
+      - violin
+    mbid: 3e98b53c-27c3-4b41-b1bd-507c5c5a00a7
+    name: Charles Gaylord
+  - begin: '1926'
+    end: '1929'
+    instruments:
+      - background vocals
+    mbid: de687ea9-6d7f-4d0e-9390-8bfbc8ffad11
+    name: Austin “Skin” Young
+  - begin: '1926'
+    end: '1929'
+    instruments:
+      - choir vocals
+    mbid: de687ea9-6d7f-4d0e-9390-8bfbc8ffad11
+    name: Austin “Skin” Young
+  - begin: '1926'
+    end: '1929'
+    instruments:
+      - lead vocals
+    mbid: de687ea9-6d7f-4d0e-9390-8bfbc8ffad11
+    name: Austin “Skin” Young
+  - begin: '1926'
+    end: '1940'
+    instruments:
+      - piano
+    mbid: 8588d9a4-c8ab-4ec8-9dee-83ad73f0dba4
+    name: Roy Bargy
+  - begin: '1927'
+    end: '1928'
+    instruments:
+      - alto saxophone
+    mbid: 1ef3cb68-4e98-482a-a106-61f5cdad66c9
+    name: Nye Mayhew
+  - begin: '1927'
+    end: '1928'
+    instruments:
+      - baritone saxophone
+    mbid: 1ef3cb68-4e98-482a-a106-61f5cdad66c9
+    name: Nye Mayhew
+  - begin: '1927'
+    end: '1929'
+    instruments:
+      - cornet
+    mbid: 32286190-da0f-4a85-b3d6-09a84d7e2bbc
+    name: Bix Beiderbecke
+  - begin: '1927'
+    end: '1930'
+    instruments:
+      - background vocals
+      - choir vocals
+      - piano
+    mbid: 97864c47-cdfe-4d97-a118-d5d51d5353d4
+    name: Harry Barris
+  - begin: '1927'
+    end: '1930'
+    instruments:
+      - background vocals
+      - bass-baritone vocals
+      - choir vocals
+      - lead vocals
+    mbid: 2437980f-513a-44fc-80f1-b90d9d7fcf8f
+    name: Bing Crosby
+  - begin: '1927'
+    end: '1930'
+    instruments:
+      - background vocals
+    mbid: 984db263-639c-427a-8679-8e44b9122911
+    name: Al Rinker
+  - begin: '1927'
+    end: '1930'
+    instruments:
+      - choir vocals
+    mbid: 984db263-639c-427a-8679-8e44b9122911
+    name: Al Rinker
+  - begin: '1927'
+    end: '1930'
+    instruments:
+      - lead vocals
+    mbid: 984db263-639c-427a-8679-8e44b9122911
+    name: Al Rinker
+  - begin: '1927'
+    end: '1937'
+    instruments:
+      - violin
+    mbid: 970cbc5f-30c4-47b7-9a53-42a2f083d473
+    name: Mischa Russell
+  - begin: '1927'
+    end: '1937'
+    instruments:
+      - saxophone
+    mbid: 714b9ee6-ff84-451f-a121-4d873859291c
+    name: Frankie Trumbauer
+  - begin: '1927'
+    end: '1938'
+    instruments:
+      - violin
+    mbid: f81cf9ba-53fc-4b02-88ca-853689320111
+    name: Matty Malneck
+  - begin: '1928'
+    end: '1928'
+    instruments:
+      - alto saxophone
+    mbid: bcd971d8-8f1b-4b20-9345-fd06feb2d5b4
+    name: Red Mayer
+  - begin: '1928'
+    end: '1929'
+    instruments:
+      - guitar
+    mbid: 7c6e10c8-7896-4624-a46b-2f3b5784d2d6
+    name: Eddie Lang
+  - begin: '1928'
+    end: '1929'
+    instruments:
+      - clarinet
+      - saxophone
+    mbid: 9c4f4d6d-aa29-4635-b452-934c097b4627
+    name: Jack Mayhew
+  - begin: '1928'
+    end: '1932'
+    instruments:
+      - bass
+      - tuba
+    mbid: 2b541bef-948a-4619-929e-d53c22b80f3c
+    name: Mike Trafficante
+  - begin: '1928'
+    end: '1934'
+    instruments:
+      - piano
+    mbid: dfe3dcaa-e4a9-4bb4-b819-a918d92a5e8f
+    name: Frank Signorelli
+  - begin: '1932'
+    end: '1935'
+    instruments:
+      - lead vocals
+    mbid: 07b7a2a6-302e-4d6a-92d7-67699e684631
+    name: Peggy Healy
+  - begin: '1933'
+    end: '1937'
+    instruments:
+      - lead vocals
+    mbid: ed7c06b9-8aa1-4aa2-a46b-e603103299c0
+    name: Bob Lawrence
+  - begin: '1934'
+    end: '1939'
+    instruments:
+      - lead vocals
+    mbid: 79dcf09e-2290-4740-9edc-907f82420160
+    name: Jack Teagarden
+  - begin: '1934'
+    end: '1939'
+    instruments:
+      - trombone
+    mbid: 79dcf09e-2290-4740-9edc-907f82420160
+    name: Jack Teagarden
+  - begin: '1938'
+    end: '1940'
+    instruments: []
+    mbid: a6437cf2-7e15-42e7-be32-f71dfb0ff61f
+    name: George Whettling
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 8d5c1282-d973-4f23-a5ba-660fb5009428
+    name: Lou Paino
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: b8d920dd-fbd5-477f-9456-1a470b223ff7
+    name: Paul Whiteman
 musicbrainz_id: 03ade0b4-4d20-40d5-a2ac-71c832ec5c39
-origin: Denver, Colorado, United States
+origin: 'Denver, Colorado, United States'
 tags:
-- big band
-- dixieland
-- jazz
+  - big band
+  - dixieland
+  - jazz
+birth_place: 'Denver, Colorado, United States'
 ---
 
 ![](paul_whiteman_and_his_orchestra.jpg)

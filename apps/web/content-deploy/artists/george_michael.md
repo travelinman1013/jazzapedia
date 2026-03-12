@@ -1,38 +1,41 @@
 ---
 biography_enhanced_at: '2026-01-20T01:29:56.588888'
-birth_place: Finchley, London, England
+birth_place: 'Finchley, London, England'
 enhancement_provider: perplexity
 entry_created: '2026-01-20T01:29:56.588894'
 external_urls:
-  spotify: https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo
-  wikipedia: https://en.wikipedia.org/wiki/George_Michael
+  spotify: 'https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo'
+  wikipedia: 'https://en.wikipedia.org/wiki/George_Michael'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/george_michael.jpg
 last_updated: '2026-01-20T01:29:56.588895'
 musical_connections:
   collaborators:
-  - Andrew Ridgeley
-  - Band Aid
+    - Andrew Ridgeley
+    - Band Aid
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.george-michael.info/timeline/
-- https://calendar.songfacts.com/timeline/george-michael/
-- https://www.ebsco.com/research-starters/biography/george-michael
-- https://www.britannica.com/biography/George-Michael
-- https://en.wikipedia.org/wiki/George_Michael
-- https://gmforever.com/timeline-of-george-michael/
-- https://www.biography.com/musicians/george-michael
-- https://www.georgemichael.com/about/
+  - 'https://www.george-michael.info/timeline/'
+  - 'https://calendar.songfacts.com/timeline/george-michael/'
+  - 'https://www.ebsco.com/research-starters/biography/george-michael'
+  - 'https://www.britannica.com/biography/George-Michael'
+  - 'https://en.wikipedia.org/wiki/George_Michael'
+  - 'https://gmforever.com/timeline-of-george-michael/'
+  - 'https://www.biography.com/musicians/george-michael'
+  - 'https://www.georgemichael.com/about/'
 spotify_data:
   followers: 5859029
   id: 19ra5tSw0tWufvUp8GotLo
   popularity: 76
-  url: https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo
+  url: 'https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo'
 status: active
-title: George michael
+title: George Michael
+birth_date: '1963-06-25'
+death_date: '2016-12-25'
+artist_type: person
 ---
 
 ![](george_michael.jpg)

@@ -5,14 +5,14 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1942-10-21'
-birth_place: Richmond
+birth_place: 'Richmond, Virginia, United States'
 death_date: '1994-03-06'
 genres:
-- motown
-- northern soul
-- soul
+  - motown
+  - northern soul
+  - soul
 instruments:
-- lead vocals
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/yvonne_fair.jpg
   caption: Yvonne Fair
@@ -35,53 +35,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - James Brown Band / James Brown Revue
-  - Norman Whitfield
-  - Motown Records / Motown film projects
-  - The Chantels
-  - Sammy Strain
+    - James Brown Band / James Brown Revue
+    - Norman Whitfield
+    - Motown Records / Motown film projects
+    - The Chantels
+    - Sammy Strain
   influenced:
-  - Northern soul DJs and UK soul revival artists (e.g., Adeva as a later interpreter)
+    - >-
+      Northern soul DJs and UK soul revival artists (e.g., Adeva as a later
+      interpreter)
   mentors:
-  - James Brown
-  - Etta James
+    - James Brown
+    - Etta James
 spotify_data:
   followers: 9491
   id: 4mGB0olhR5RpsEZWn0cqA8
   popularity: 31
-  url: https://open.spotify.com/artist/4mGB0olhR5RpsEZWn0cqA8
+  url: 'https://open.spotify.com/artist/4mGB0olhR5RpsEZWn0cqA8'
 discography_enriched: true
 top_tracks:
-- It Should Have Been Me (The Bitch Is Black)
-- Straighten Up (James Brown's Original Funky Divas)
-- I Found You (Roots Of A Revolution)
-- If I Knew (James Brown's Original Funky Divas)
-- It Should Have Been Me (R&B Soul)
-- Let Your Hair Down (The Bitch Is Black)
-- Straighten Up - Loko Velocet Remix (Straighten Up (Loko Velocet Remix))
-- Funky Music Sho Nuff Turns Me On (The Bitch Is Black)
-- Stay A Little Longer (The Bitch Is Black)
-- Say Yeah Yeah (James Brown's Original Funky Divas)
+  - It Should Have Been Me (The Bitch Is Black)
+  - Straighten Up (James Brown's Original Funky Divas)
+  - I Found You (Roots Of A Revolution)
+  - If I Knew (James Brown's Original Funky Divas)
+  - It Should Have Been Me (R&B Soul)
+  - Let Your Hair Down (The Bitch Is Black)
+  - Straighten Up - Loko Velocet Remix (Straighten Up (Loko Velocet Remix))
+  - Funky Music Sho Nuff Turns Me On (The Bitch Is Black)
+  - Stay A Little Longer (The Bitch Is Black)
+  - Say Yeah Yeah (James Brown's Original Funky Divas)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/0333f705-90bb-4858-a8d3-ee1b3cb29143
-  spotify: https://open.spotify.com/artist/4mGB0olhR5RpsEZWn0cqA8
-  wikipedia: https://en.wikipedia.org/wiki/Yvonne_Fair
+  musicbrainz: 'https://musicbrainz.org/artist/0333f705-90bb-4858-a8d3-ee1b3cb29143'
+  spotify: 'https://open.spotify.com/artist/4mGB0olhR5RpsEZWn0cqA8'
+  wikipedia: 'https://en.wikipedia.org/wiki/Yvonne_Fair'
 image_path: 03_Resources/source_material/ArtistPortraits/yvonne_fair.jpg
 biography_enhanced_at: '2025-12-07T04:57:41.452550'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Soulwalking artist biography on Yvonne Fair[1]
-- IMDb biography and trivia for Yvonne Fair[2]
-- Classic Motown artist profile for Yvonne Fair[4]
-- Bear Family Records profile on Yvonne Fair[5]
-- From The Vaults blog post on Yvonne Fair[6]
+  - 'Soulwalking artist biography on Yvonne Fair[1]'
+  - 'IMDb biography and trivia for Yvonne Fair[2]'
+  - 'Classic Motown artist profile for Yvonne Fair[4]'
+  - 'Bear Family Records profile on Yvonne Fair[5]'
+  - 'From The Vaults blog post on Yvonne Fair[6]'
 network_extracted: true
 entry_created: '2025-12-07T04:57:41.452558'
 last_updated: '2025-12-23T08:16:18.396093'
 gender: Female
 musicbrainz_id: 0333f705-90bb-4858-a8d3-ee1b3cb29143
-
+is_active: false
+origin: 'Bronx, New York, United States'
 ---
 
 ![](yvonne_fair.jpg)

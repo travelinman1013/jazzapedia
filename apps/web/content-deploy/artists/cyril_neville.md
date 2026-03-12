@@ -5,71 +5,71 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1948-10-10'
-birth_place: New Orleans
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- jazz funk
+  - jazz funk
 instruments:
-- lead vocals
-- percussion
-- original
-- other vocals
-- eponymous
-- spoken vocals
-associated_acts:
-- begin: '1970'
-  end: '1977'
-  instruments:
   - lead vocals
   - percussion
-  mbid: 851827d6-ae31-4093-a166-1420cac610a4
-  name: The Meters
-- begin: '2011'
-  end: ''
-  instruments:
-  - original
-  - percussion
-  mbid: a1cd882c-b69d-42e4-a9b8-bad93ee28989
-  name: Royal Southern Brotherhood
-- begin: '2011'
-  end: ''
-  instruments:
   - original
   - other vocals
-  mbid: a1cd882c-b69d-42e4-a9b8-bad93ee28989
-  name: Royal Southern Brotherhood
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9c2ab74c-76f9-46df-9d40-9a5353520690
-  name: The Wild Tchoupitoulas
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
-  - original
-  mbid: 5464e20c-7dcb-4a3e-9b25-13bb959fadc9
-  name: The Neville Brothers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 79990e12-a8de-4a03-9cba-0665c7340257
-  name: Cyril Neville & Tribe 13
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3710aee0-ff50-40a0-908c-b72a31f47daf
-  name: Sam & The Soul Machine
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 5923746d-ca4c-4fe1-b0cf-487c6344859f
-  name: Cyril Neville’s Swamp Funk
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: fbeb622c-6885-4fbc-8b11-f4c582a3f1b7
-  name: Life Is a Carnival
+  - spoken vocals
+associated_acts:
+  - begin: '1970'
+    end: '1977'
+    instruments:
+      - lead vocals
+      - percussion
+    mbid: 851827d6-ae31-4093-a166-1420cac610a4
+    name: The Meters
+  - begin: '2011'
+    end: ''
+    instruments:
+      - original
+      - percussion
+    mbid: a1cd882c-b69d-42e4-a9b8-bad93ee28989
+    name: Royal Southern Brotherhood
+  - begin: '2011'
+    end: ''
+    instruments:
+      - original
+      - other vocals
+    mbid: a1cd882c-b69d-42e4-a9b8-bad93ee28989
+    name: Royal Southern Brotherhood
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9c2ab74c-76f9-46df-9d40-9a5353520690
+    name: The Wild Tchoupitoulas
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 5464e20c-7dcb-4a3e-9b25-13bb959fadc9
+    name: The Neville Brothers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 79990e12-a8de-4a03-9cba-0665c7340257
+    name: Cyril Neville & Tribe 13
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3710aee0-ff50-40a0-908c-b72a31f47daf
+    name: Sam & The Soul Machine
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 5923746d-ca4c-4fe1-b0cf-487c6344859f
+    name: Cyril Neville’s Swamp Funk
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: fbeb622c-6885-4fbc-8b11-f4c582a3f1b7
+    name: Life Is a Carnival
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/cyril_neville.jpg
   caption: Cyril Neville
@@ -91,55 +91,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Neville Brothers (Art, Aaron, Charles Neville)
-  - The Meters
-  - Royal Southern Brotherhood
-  - Galactic
-  - Dr. John
-  - Soul Rebels Brass Band
+    - 'The Neville Brothers (Art, Aaron, Charles Neville)'
+    - The Meters
+    - Royal Southern Brotherhood
+    - Galactic
+    - Dr. John
+    - Soul Rebels Brass Band
   influenced:
-  - Ivan Neville
-  - Soul Rebels Brass Band
-  - Galactic
+    - Ivan Neville
+    - Soul Rebels Brass Band
+    - Galactic
   mentors:
-  - Art Neville
-  - George Landry (Big Chief Jolly)
-  - Bob Marley
+    - Art Neville
+    - George Landry (Big Chief Jolly)
+    - Bob Marley
 spotify_data:
   followers: 3411
   id: 7gZpdFerSL21Z6544jJIzI
   popularity: 20
-  url: https://open.spotify.com/artist/7gZpdFerSL21Z6544jJIzI
+  url: 'https://open.spotify.com/artist/7gZpdFerSL21Z6544jJIzI'
 discography_enriched: true
 top_tracks:
-- Here Come The Girls (With You In Mind)
-- Don't Worry Be Happy (A Beautiful World)
-- All Along the Watchtower (Listen to the Music)
-- Allen Toussaint (A Beautiful World)
-- 'Gossip - Single Version; 2006 Remaster (Crate Diggers: Funk)'
-- I Sold My Heart to the Junkman
-- Nervis (For True)
-- Magic Honey (Magic Honey)
-- Tell Me What's on Your Mind
-- Pearl River (Pearl River)
+  - Here Come The Girls (With You In Mind)
+  - Don't Worry Be Happy (A Beautiful World)
+  - All Along the Watchtower (Listen to the Music)
+  - Allen Toussaint (A Beautiful World)
+  - 'Gossip - Single Version; 2006 Remaster (Crate Diggers: Funk)'
+  - I Sold My Heart to the Junkman
+  - Nervis (For True)
+  - Magic Honey (Magic Honey)
+  - Tell Me What's on Your Mind
+  - Pearl River (Pearl River)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/0248dd95-6c4f-45dd-8a76-a6e00d41078e
-  spotify: https://open.spotify.com/artist/7gZpdFerSL21Z6544jJIzI
-  wikipedia: https://en.wikipedia.org/wiki/Cyril_Neville
+  musicbrainz: 'https://musicbrainz.org/artist/0248dd95-6c4f-45dd-8a76-a6e00d41078e'
+  spotify: 'https://open.spotify.com/artist/7gZpdFerSL21Z6544jJIzI'
+  wikipedia: 'https://en.wikipedia.org/wiki/Cyril_Neville'
 image_path: 03_Resources/source_material/ArtistPortraits/cyril_neville.jpg
 biography_enhanced_at: '2025-10-29T16:46:04.127294'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Cyril_Neville
-- https://montanafolkfestival.com/cyril-neville/
-- https://www.richmondfolkfestival.org/2023-performers/2023/8/9/cyril-neville
-- https://wbssmedia.com/artists/detail/2500
+  - 'https://en.wikipedia.org/wiki/Cyril_Neville'
+  - 'https://montanafolkfestival.com/cyril-neville/'
+  - 'https://www.richmondfolkfestival.org/2023-performers/2023/8/9/cyril-neville'
+  - 'https://wbssmedia.com/artists/detail/2500'
 network_extracted: true
 entry_created: '2025-10-29T16:46:04.127303'
 last_updated: '2025-12-23T08:16:07.352312'
 gender: Male
 musicbrainz_id: 0248dd95-6c4f-45dd-8a76-a6e00d41078e
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](cyril_neville.jpg)

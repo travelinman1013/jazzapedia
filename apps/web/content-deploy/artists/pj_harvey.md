@@ -5,30 +5,30 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1969-10-09'
-birth_place: Bridport
+birth_place: 'Bridport, Dorset, England'
 genres:
-- art pop
-- singer-songwriter
+  - art pop
+  - singer-songwriter
 instruments:
-- guitar
-- piano
-- guitar family
-- acoustic guitar
-- bass guitar
-- electric guitar
-- lead vocals
-- background vocals
+  - guitar
+  - piano
+  - guitar family
+  - acoustic guitar
+  - bass guitar
+  - electric guitar
+  - lead vocals
+  - background vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7a2e6b55-f149-4e74-be6a-30a1b1a387bb
-  name: Desert Sessions
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7a60788a-46a7-4a59-bc78-12cf0b778824
-  name: Automatic Dlamini
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7a2e6b55-f149-4e74-be6a-30a1b1a387bb
+    name: Desert Sessions
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7a60788a-46a7-4a59-bc78-12cf0b778824
+    name: Automatic Dlamini
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/pj_harvey.jpg
   caption: PJ Harvey
@@ -50,56 +50,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Rob Ellis
-  - Mick Harvey
-  - Flood
-  - Eric Drew Feldman
+    - Rob Ellis
+    - Mick Harvey
+    - Flood
+    - Eric Drew Feldman
   influenced:
-  - Anna Calvi
-  - Sharon Van Etten
-  - St. Vincent (Annie Clark)
+    - Anna Calvi
+    - Sharon Van Etten
+    - St. Vincent (Annie Clark)
   mentors:
-  - John Parish
+    - John Parish
 spotify_data:
   followers: 1198986
   id: 12VaqyEhgwDRuFfEqbnrpz
   popularity: 56
-  url: https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz
+  url: 'https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz'
 discography_enriched: true
 top_tracks:
-- Down By The Water (To Bring You My Love)
-- This Mess We're In (Stories From The City, Stories From The Sea)
-- The Wind (Is This Desire?)
-- Henry Lee (feat. PJ Harvey) (Murder Ballads (2011 - Remaster))
-- Good Fortune (Stories From The City, Stories From The Sea)
-- This Is Love (Stories From The City, Stories From The Sea)
-- Piano Fire (It's A Wonderful Life)
-- You Said Something (Stories From The City, Stories From The Sea)
-- Rid Of Me (Rid Of Me)
-- C'mon Billy (To Bring You My Love)
+  - Down By The Water (To Bring You My Love)
+  - 'This Mess We''re In (Stories From The City, Stories From The Sea)'
+  - The Wind (Is This Desire?)
+  - Henry Lee (feat. PJ Harvey) (Murder Ballads (2011 - Remaster))
+  - 'Good Fortune (Stories From The City, Stories From The Sea)'
+  - 'This Is Love (Stories From The City, Stories From The Sea)'
+  - Piano Fire (It's A Wonderful Life)
+  - 'You Said Something (Stories From The City, Stories From The Sea)'
+  - Rid Of Me (Rid Of Me)
+  - C'mon Billy (To Bring You My Love)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e795e03d-b5d5-4a5f-834d-162cfb308a2c
-  spotify: https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz
-  wikipedia: https://en.wikipedia.org/wiki/PJ_Harvey
+  musicbrainz: 'https://musicbrainz.org/artist/e795e03d-b5d5-4a5f-834d-162cfb308a2c'
+  spotify: 'https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz'
+  wikipedia: 'https://en.wikipedia.org/wiki/PJ_Harvey'
 image_path: 03_Resources/source_material/ArtistPortraits/pj_harvey.jpg
 biography_enhanced_at: '2025-10-24T07:55:04.946518'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/PJ_Harvey
-- https://www.last.fm/music/PJ+Harvey/+wiki
-- https://www.britannica.com/biography/PJ-Harvey
-- https://mabumbe.com/people/pj-harvey-age-net-worth-biography-career-highlights/
+  - 'https://en.wikipedia.org/wiki/PJ_Harvey'
+  - 'https://www.last.fm/music/PJ+Harvey/+wiki'
+  - 'https://www.britannica.com/biography/PJ-Harvey'
+  - >-
+    https://mabumbe.com/people/pj-harvey-age-net-worth-biography-career-highlights/
 network_extracted: true
 entry_created: '2025-10-24T07:55:04.946527'
 last_updated: '2025-12-23T08:16:14.344512'
 gender: Female
 musicbrainz_id: e795e03d-b5d5-4a5f-834d-162cfb308a2c
 tags:
-- alternative rock
-- alternative singer-songwriter
-- art rock
-
+  - alternative rock
+  - alternative singer-songwriter
+  - art rock
+origin: 'Bristol, England'
 ---
 
 ![](pj_harvey.jpg)

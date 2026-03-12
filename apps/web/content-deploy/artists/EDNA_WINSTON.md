@@ -1,38 +1,39 @@
 ---
 biography_enhanced_at: '2026-01-22T07:08:12.509553'
-birth_place: New York, USA
+birth_place: 'New York, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:08:12.509559'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/73e0a2d9-e96a-4977-badf-8e15172d0a8b
-  spotify: https://open.spotify.com/artist/2es7rqZIy27Px2MKgoRvdz
+  musicbrainz: 'https://musicbrainz.org/artist/73e0a2d9-e96a-4977-badf-8e15172d0a8b'
+  spotify: 'https://open.spotify.com/artist/2es7rqZIy27Px2MKgoRvdz'
   wikipedia: ''
 genres:
-- ragtime
+  - ragtime
 image_path: 03_Resources/source_material/ArtistPortraits/edna_winston.jpg
 last_updated: '2026-01-22T07:08:12.509560'
 musical_connections:
   collaborators:
-  - Thomas Morris
-  - Eugene ‘Bud’ Aiken
-  - Happy Caldwell
-  - Charlie Irvis
-  - Mike Jackson
-  - Buddy Christian
+    - Thomas Morris
+    - Eugene ‘Bud’ Aiken
+    - Happy Caldwell
+    - Charlie Irvis
+    - Mike Jackson
+    - Buddy Christian
   influenced: []
   mentors: []
 musicbrainz_id: 73e0a2d9-e96a-4977-badf-8e15172d0a8b
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- http://www.harlem-fuss.com/pdf/singers/harlem_fuss_singers_winston_edna.pdf
+  - 'http://www.harlem-fuss.com/pdf/singers/harlem_fuss_singers_winston_edna.pdf'
 spotify_data:
   followers: 49
   id: 2es7rqZIy27Px2MKgoRvdz
   popularity: 0
-  url: https://open.spotify.com/artist/2es7rqZIy27Px2MKgoRvdz
+  url: 'https://open.spotify.com/artist/2es7rqZIy27Px2MKgoRvdz'
 status: active
-title: EDNA WINSTON
+title: Edna Winston
+artist_type: person
 ---
 
 ![](edna_winston.jpg)

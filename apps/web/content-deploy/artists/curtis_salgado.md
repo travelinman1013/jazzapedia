@@ -1,30 +1,30 @@
 ---
-title: curtis salgado
+title: Curtis Salgado
 wiki_slug: curtis-salgado
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1954-02-04'
-birth_place: Everett
+birth_place: 'Everett, Washington, United States'
 genres:
-- blues
-- soul blues
-- modern blues
-- blues rock
+  - blues
+  - soul blues
+  - modern blues
+  - blues rock
 instruments:
-- eponymous
-associated_acts:
-- begin: '1995'
-  end: '1995'
-  instruments: []
-  mbid: 9a3bf45c-347d-4630-894d-7cf3e8e0b632
-  name: Santana
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
-  mbid: 963332a7-d968-4380-b2d3-ed3322c564f2
-  name: Curtis Salgado & the Stilettos
+associated_acts:
+  - begin: '1995'
+    end: '1995'
+    instruments: []
+    mbid: 9a3bf45c-347d-4630-894d-7cf3e8e0b632
+    name: Santana
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 963332a7-d968-4380-b2d3-ed3322c564f2
+    name: Curtis Salgado & the Stilettos
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/curtis_salgado.jpg
   caption: curtis salgado
@@ -46,55 +46,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Robert Cray
-  - Roomful of Blues
-  - Santana
-  - Terry Robb
+    - Robert Cray
+    - Roomful of Blues
+    - Santana
+    - Terry Robb
   influenced:
-  - John Belushi
+    - John Belushi
   mentors:
-  - Little Walter
-  - Paul Butterfield
-  - Otis Redding
+    - Little Walter
+    - Paul Butterfield
+    - Otis Redding
 spotify_data:
   followers: 14243
   id: 2VDoygKzNasudJOR0X1RH0
   popularity: 32
-  url: https://open.spotify.com/artist/2VDoygKzNasudJOR0X1RH0
+  url: 'https://open.spotify.com/artist/2VDoygKzNasudJOR0X1RH0'
 discography_enriched: true
 top_tracks:
-- Walk A Mile In My Blues (The Beautiful Lowdown)
-- I Will Not Surrender (Rough Cut)
-- I Want My Dog To Live Longer (The Greatest Wish) (Rough Cut)
-- Is There Something I Should Know (The Beautiful Lowdown)
-- I Know A Good Thing (The Beautiful Lowdown)
-- Gonna Forget About You (Remixed and Remastered)
-- I Can't Be Satisfied (Rough Cut)
-- Healing Love (The Beautiful Lowdown)
-- The Longer That I Live (Damage Control)
-- Low Down Dirty Shame (The Beautiful Lowdown)
+  - Walk A Mile In My Blues (The Beautiful Lowdown)
+  - I Will Not Surrender (Rough Cut)
+  - I Want My Dog To Live Longer (The Greatest Wish) (Rough Cut)
+  - Is There Something I Should Know (The Beautiful Lowdown)
+  - I Know A Good Thing (The Beautiful Lowdown)
+  - Gonna Forget About You (Remixed and Remastered)
+  - I Can't Be Satisfied (Rough Cut)
+  - Healing Love (The Beautiful Lowdown)
+  - The Longer That I Live (Damage Control)
+  - Low Down Dirty Shame (The Beautiful Lowdown)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7f12b47b-c76b-441a-b113-36992107ee62
-  spotify: https://open.spotify.com/artist/2VDoygKzNasudJOR0X1RH0
-  wikipedia: https://en.wikipedia.org/wiki/Curtis_Salgado
+  musicbrainz: 'https://musicbrainz.org/artist/7f12b47b-c76b-441a-b113-36992107ee62'
+  spotify: 'https://open.spotify.com/artist/2VDoygKzNasudJOR0X1RH0'
+  wikipedia: 'https://en.wikipedia.org/wiki/Curtis_Salgado'
 image_path: 03_Resources/source_material/ArtistPortraits/curtis_salgado.jpg
 biography_enhanced_at: '2025-11-14T11:05:13.545026'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://curtissalgado.com/bio
-- https://en.wikipedia.org/wiki/Curtis_Salgado
-- https://blues.gr/profiles/blogs/an-interview-with-curtis-salgado-life-living-on-this-planet-and
-- http://www.bluesaccess.com/No_44/salgado.html
+  - 'https://curtissalgado.com/bio'
+  - 'https://en.wikipedia.org/wiki/Curtis_Salgado'
+  - >-
+    https://blues.gr/profiles/blogs/an-interview-with-curtis-salgado-life-living-on-this-planet-and
+  - 'http://www.bluesaccess.com/No_44/salgado.html'
 network_extracted: true
 entry_created: '2025-11-14T11:05:13.545033'
 last_updated: '2025-12-23T08:16:07.328910'
 gender: Male
 musicbrainz_id: 7f12b47b-c76b-441a-b113-36992107ee62
 tags:
-- blues
-- rhythm and blues
-- soul
+  - blues
+  - rhythm and blues
+  - soul
+origin: 'Eugene, Oregon, United States'
 ---
 
 ![](curtis_salgado.jpg)

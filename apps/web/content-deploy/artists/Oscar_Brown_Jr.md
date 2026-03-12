@@ -1,17 +1,17 @@
 ---
-title: Oscar Brown, Jr.
+title: 'Oscar Brown, Jr.'
 wiki_slug: oscar-brown-jr
 schema_version: 2
 status: active
-birth_place: Chicago, Illinois, United States
+birth_place: 'Chicago, Illinois, United States'
 genres:
-- vocal jazz
-- soul jazz
+  - vocal jazz
+  - soul jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Oscar_Brown_Jr.jpg
-  caption: Oscar Brown, Jr.
+  caption: 'Oscar Brown, Jr.'
   background: solo_singer
-  origin: Chicago, Illinois, United States
+  origin: 'Chicago, Illinois, United States'
 audio_profile:
   tempo_avg: 108.1
   energy_avg: 0.412
@@ -27,47 +27,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Max Roach
-  - Floyd Morris Trio (Floyd Morris, Al McKibbon, Kenny Dennis)
-  - Mahalia Jackson
+    - Max Roach
+    - 'Floyd Morris Trio (Floyd Morris, Al McKibbon, Kenny Dennis)'
+    - Mahalia Jackson
   influenced:
-  - The Jackson 5
-  - Gil Scott-Heron
+    - The Jackson 5
+    - Gil Scott-Heron
   mentors:
-  - Studs Terkel
+    - Studs Terkel
 spotify_data:
   followers: 13711
   id: 4tlPDFGdI3IwmwpGgW0Aza
   popularity: 26
-  url: https://open.spotify.com/artist/4tlPDFGdI3IwmwpGgW0Aza
+  url: 'https://open.spotify.com/artist/4tlPDFGdI3IwmwpGgW0Aza'
 discography_enriched: true
 top_tracks:
-- Brother Where Are You - Matthew Herbert Remix
-- Laia Ladaia (Finding A New Friend)
-- Brother Where Are You? (Mr. Oscar Brown Jr. Goes To Washington)
-- Work Song (Sin & Soul... And Then Some)
-- Dat Dere (Sin & Soul... And Then Some)
-- But I Was Cool (Sin & Soul... And Then Some)
-- Humdrum Blues (Sin & Soul... And Then Some)
-- The Snake (Tells It Like It Is!)
-- Dat Dere (Sin & Soul... And Then Some)
-- Work Song (Sin & Soul... And Then Some)
+  - Brother Where Are You - Matthew Herbert Remix
+  - Laia Ladaia (Finding A New Friend)
+  - Brother Where Are You? (Mr. Oscar Brown Jr. Goes To Washington)
+  - Work Song (Sin & Soul... And Then Some)
+  - Dat Dere (Sin & Soul... And Then Some)
+  - But I Was Cool (Sin & Soul... And Then Some)
+  - Humdrum Blues (Sin & Soul... And Then Some)
+  - The Snake (Tells It Like It Is!)
+  - Dat Dere (Sin & Soul... And Then Some)
+  - Work Song (Sin & Soul... And Then Some)
 external_urls:
-  spotify: https://open.spotify.com/artist/4tlPDFGdI3IwmwpGgW0Aza
-  wikipedia: https://en.wikipedia.org/wiki/Oscar_Brown
+  spotify: 'https://open.spotify.com/artist/4tlPDFGdI3IwmwpGgW0Aza'
+  wikipedia: 'https://en.wikipedia.org/wiki/Oscar_Brown'
 image_path: 03_Resources/source_material/ArtistPortraits/Oscar_Brown_Jr.jpg
 biography_enhanced_at: '2025-10-20T00:37:55.421158'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://fromthevaults-boppinbob.blogspot.com/2024/10/oscar-brown-jr-born-10-october-1926.html
-- https://wbssmedia.com/artists/detail/2496
-- https://en.wikipedia.org/wiki/Oscar_Brown
-- https://www.allaboutjazz.com/musicians/oscar-brown-jr/
-- https://jazzresearch.com/jazz-scene-usa-19-oscar-brown-jr/
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2024/10/oscar-brown-jr-born-10-october-1926.html
+  - 'https://wbssmedia.com/artists/detail/2496'
+  - 'https://en.wikipedia.org/wiki/Oscar_Brown'
+  - 'https://www.allaboutjazz.com/musicians/oscar-brown-jr/'
+  - 'https://jazzresearch.com/jazz-scene-usa-19-oscar-brown-jr/'
 network_extracted: true
 entry_created: '2025-10-20T00:37:55.421195'
 last_updated: '2025-12-23T08:16:03.503760'
+birth_date: '1926-10-10'
+death_date: '2005-05-29'
+artist_type: person
 ---
 
 ![](Oscar_Brown_Jr.jpg)

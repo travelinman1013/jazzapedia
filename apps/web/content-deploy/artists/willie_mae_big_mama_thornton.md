@@ -3,15 +3,16 @@ title: Willie Mae Big Mama Thornton
 wiki_slug: willie-mae-big-mama-thornton
 schema_version: 2
 status: active
-birth_place: Ariton, Alabama, United States
+birth_place: 'Ariton, Alabama, United States'
 genres:
-- blues
-- classic blues
+  - blues
+  - classic blues
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/willie_mae_big_mama_thornton.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/willie_mae_big_mama_thornton.jpg
   caption: Willie Mae Big Mama Thornton
   background: solo_singer
-  origin: Ariton, Alabama, United States
+  origin: 'Ariton, Alabama, United States'
 audio_profile:
   tempo_avg: 119.2
   energy_avg: 0.396
@@ -19,7 +20,7 @@ audio_profile:
   danceability_avg: 0.563
   acousticness_avg: 0.577
   instrumentalness_avg: 0.038
-  loudness_avg: -11.0
+  loudness_avg: -11
   speechiness_avg: 0.054
   liveness_avg: 0.235
   track_count: 52
@@ -27,58 +28,67 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Johnny Otis
-  - Don Robey
-  - Jerry Leiber & Mike Stoller
-  - Clarence “Gatemouth” Brown
-  - Muddy Waters, B.B. King, Eddie “Cleanhead” Vinson
-  - Grateful Dead, James Cotton, Santana
+    - Johnny Otis
+    - Don Robey
+    - Jerry Leiber & Mike Stoller
+    - Clarence “Gatemouth” Brown
+    - 'Muddy Waters, B.B. King, Eddie “Cleanhead” Vinson'
+    - 'Grateful Dead, James Cotton, Santana'
   influenced:
-  - Elvis Presley
-  - Janis Joplin
-  - Rock and blues revival artists (e.g., Eric Clapton, Rolling Stones, Bob Dylan)
-  - Later blues and soul vocalists (various)
+    - Elvis Presley
+    - Janis Joplin
+    - >-
+      Rock and blues revival artists (e.g., Eric Clapton, Rolling Stones, Bob
+      Dylan)
+    - Later blues and soul vocalists (various)
   mentors:
-  - Bessie Smith
-  - Ma Rainey
-  - Memphis Minnie
-  - Junior Parker
+    - Bessie Smith
+    - Ma Rainey
+    - Memphis Minnie
+    - Junior Parker
 spotify_data:
   followers: 206629
   id: 6bR0cgMtkCVpm0I5yrDNzO
   popularity: 41
-  url: https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO
+  url: 'https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO'
 discography_enriched: true
 top_tracks:
-- Hound Dog (Ball n' Chain)
-- Ball N' Chain (Ball n' Chain)
-- Sweet Little Angel (Ball n' Chain)
-- Hound Dog - Single Version (Hound Dog / The Peacock Recordings)
-- I'm Feeling Alright (Big Mama Thornton with the Muddy Waters Blues Band - 1966)
-- 'Hound Dog (Precious & Rare: Big Mama Thornton)'
-- Watermelon Man (Sassy Mama)
-- Gonna Leave You (The Complete Vanguard Recordings)
-- They Call Me Big Mama (Hound Dog / The Peacock Recordings)
-- Let's Go Get Stoned (Stronger Than Dirt)
+  - Hound Dog (Ball n' Chain)
+  - Ball N' Chain (Ball n' Chain)
+  - Sweet Little Angel (Ball n' Chain)
+  - Hound Dog - Single Version (Hound Dog / The Peacock Recordings)
+  - >-
+    I'm Feeling Alright (Big Mama Thornton with the Muddy Waters Blues Band -
+    1966)
+  - 'Hound Dog (Precious & Rare: Big Mama Thornton)'
+  - Watermelon Man (Sassy Mama)
+  - Gonna Leave You (The Complete Vanguard Recordings)
+  - They Call Me Big Mama (Hound Dog / The Peacock Recordings)
+  - Let's Go Get Stoned (Stronger Than Dirt)
 external_urls:
-  spotify: https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO
-  wikipedia: https://en.wikipedia.org/wiki/Big_Mama_Thornton
+  spotify: 'https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO'
+  wikipedia: 'https://en.wikipedia.org/wiki/Big_Mama_Thornton'
 image_path: 03_Resources/source_material/ArtistPortraits/willie_mae_big_mama_thornton.jpg
 biography_enhanced_at: '2025-12-06T05:46:37.531034'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Encyclopedia of Alabama – Willie Mae “Big Mama” Thornton[1]
-- The Book and Beyond / Alabama African American history profile on Willie Mae “Big Mama” Thornton[2]
-- Celina City Schools educational biography PDF on Big Mama Thornton[3]
-- Wikipedia – Big Mama Thornton[4]
-- Rocky Mountain PBS feature on Big Mama Thornton’s legacy[5]
-- Elderly Instruments Black History feature on Big Mama Thornton[6]
-- Yale University Library online exhibit, Big Mama Thornton – Part 1[7]
+  - 'Encyclopedia of Alabama – Willie Mae “Big Mama” Thornton[1]'
+  - >-
+    The Book and Beyond / Alabama African American history profile on Willie Mae
+    “Big Mama” Thornton[2]
+  - 'Celina City Schools educational biography PDF on Big Mama Thornton[3]'
+  - 'Wikipedia – Big Mama Thornton[4]'
+  - 'Rocky Mountain PBS feature on Big Mama Thornton’s legacy[5]'
+  - 'Elderly Instruments Black History feature on Big Mama Thornton[6]'
+  - 'Yale University Library online exhibit, Big Mama Thornton – Part 1[7]'
 network_extracted: true
 entry_created: '2025-12-06T05:46:37.531049'
 last_updated: '2025-12-23T08:16:18.207210'
-
+origin: 'Houston, Texas, United States'
+birth_date: '1926-12-11'
+death_date: '1984-07-25'
+artist_type: person
 ---
 
 ![](willie_mae_big_mama_thornton.jpg)

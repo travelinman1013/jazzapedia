@@ -1,5 +1,5 @@
 ---
-title: AL LYNN'S MUSIC MASTERS
+title: AL Lynn's Music Masters
 wiki_slug: al-lynns-music-masters
 schema_version: 2
 status: active
@@ -29,26 +29,30 @@ spotify_data:
   followers: 8
   id: 0vQKMqTczt4a81rgRDkMx4
   popularity: 0
-  url: https://open.spotify.com/artist/0vQKMqTczt4a81rgRDkMx4
+  url: 'https://open.spotify.com/artist/0vQKMqTczt4a81rgRDkMx4'
 discography_enriched: true
 top_tracks:
-- 'Me and My Shadow (Jazz Age Chronicles Vol. 14: The Song Hits of 1927)'
-- Anything to Make You Happy (We Call It Jazz!, Vol. 3)
-- Anything To Make You Happy (Diamond Discs)
-- 'Symphonic Raps (Dancing the Devil Away: Hot Dance Music on Edison Diamond Discs (1923-1928))'
+  - 'Me and My Shadow (Jazz Age Chronicles Vol. 14: The Song Hits of 1927)'
+  - 'Anything to Make You Happy (We Call It Jazz!, Vol. 3)'
+  - Anything To Make You Happy (Diamond Discs)
+  - >-
+    Symphonic Raps (Dancing the Devil Away: Hot Dance Music on Edison Diamond
+    Discs (1923-1928))
 external_urls:
-  spotify: https://open.spotify.com/artist/0vQKMqTczt4a81rgRDkMx4
+  spotify: 'https://open.spotify.com/artist/0vQKMqTczt4a81rgRDkMx4'
   wikipedia: ''
 image_path: ''
 biography_enhanced_at: '2025-12-11T03:50:27.308152'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- 'YouTube: "ME AND MY SHADOW - Al Lynn''s Music Masters feat. Red Nichols" (session details in description credit J. Donald
-  Parker, 1927 recording)[2]'
+  - >-
+    YouTube: "ME AND MY SHADOW - Al Lynn's Music Masters feat. Red Nichols"
+    (session details in description credit J. Donald Parker, 1927 recording)[2]
 network_extracted: true
 entry_created: '2025-12-11T03:50:27.308168'
 last_updated: '2025-12-23T08:16:04.461833'
+artist_type: band
 ---
 
 ![]()

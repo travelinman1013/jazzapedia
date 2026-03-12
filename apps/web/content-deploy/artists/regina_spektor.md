@@ -5,14 +5,14 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1980-02-18'
-birth_place: Moscow
+birth_place: 'Moscow, Soviet Union'
 genres:
-- anti-folk
+  - anti-folk
 instruments:
-- piano
-- Rhodes piano
-- lead vocals
-- other vocals
+  - piano
+  - Rhodes piano
+  - lead vocals
+  - other vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/regina_spektor.jpg
   caption: Regina Spektor
@@ -26,7 +26,7 @@ audio_profile:
   danceability_avg: 0.526
   acousticness_avg: 0.636
   instrumentalness_avg: 0.044
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.046
   liveness_avg: 0.117
   track_count: 50
@@ -34,55 +34,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Trachtenburg Family Slideshow Players
+    - Trachtenburg Family Slideshow Players
   influenced:
-  - Sara Bareilles
-  - Ingrid Michaelson
+    - Sara Bareilles
+    - Ingrid Michaelson
   mentors:
-  - Sonia Vargas
-  - Joni Mitchell
-  - Ani DiFranco
-  - Billie Holiday
+    - Sonia Vargas
+    - Joni Mitchell
+    - Ani DiFranco
+    - Billie Holiday
 spotify_data:
   followers: 1443084
   id: 3z6Gk257P9jNcZbBXJNX5i
   popularity: 60
-  url: https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i
+  url: 'https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i'
 discography_enriched: true
 top_tracks:
-- Two Birds (Far)
-- The Call
-- Fidelity (Begin to Hope)
-- Samson (Begin to Hope)
-- Two Birds (Far (Deluxe Version))
-- Us (Soviet Kitsch)
-- Modern Girls & Old Fashion Men - Reptilia B-Side (The Singles - Volume 01)
-- Eet (Far)
-- On the Radio (Begin to Hope)
-- Fidelity (Begin to Hope (Special Edition))
+  - Two Birds (Far)
+  - The Call
+  - Fidelity (Begin to Hope)
+  - Samson (Begin to Hope)
+  - Two Birds (Far (Deluxe Version))
+  - Us (Soviet Kitsch)
+  - Modern Girls & Old Fashion Men - Reptilia B-Side (The Singles - Volume 01)
+  - Eet (Far)
+  - On the Radio (Begin to Hope)
+  - Fidelity (Begin to Hope (Special Edition))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/fbb375f9-48bb-4635-824e-4120273b3ba7
-  spotify: https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i
-  wikipedia: https://en.wikipedia.org/wiki/Regina_Spektor
+  musicbrainz: 'https://musicbrainz.org/artist/fbb375f9-48bb-4635-824e-4120273b3ba7'
+  spotify: 'https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i'
+  wikipedia: 'https://en.wikipedia.org/wiki/Regina_Spektor'
 image_path: 03_Resources/source_material/ArtistPortraits/regina_spektor.jpg
 biography_enhanced_at: '2025-11-23T06:24:50.208893'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Regina_Spektor
-- https://www.jewishvirtuallibrary.org/regina-spektor
-- https://www.imdb.com/name/nm1258550/bio/
-- https://stompandstammer.com/feature-stories/regina-spektor/
-- https://www.steinway.com/artists/regina-spektor
+  - 'https://en.wikipedia.org/wiki/Regina_Spektor'
+  - 'https://www.jewishvirtuallibrary.org/regina-spektor'
+  - 'https://www.imdb.com/name/nm1258550/bio/'
+  - 'https://stompandstammer.com/feature-stories/regina-spektor/'
+  - 'https://www.steinway.com/artists/regina-spektor'
 network_extracted: true
 entry_created: '2025-11-23T06:24:50.208903'
 last_updated: '2025-12-23T08:16:14.779315'
 gender: Female
 musicbrainz_id: fbb375f9-48bb-4635-824e-4120273b3ba7
 tags:
-- alternative rock
-- american
-- anti-folk
+  - alternative rock
+  - american
+  - anti-folk
+origin: 'Bronx, New York, United States'
 ---
 
 ![](regina_spektor.jpg)

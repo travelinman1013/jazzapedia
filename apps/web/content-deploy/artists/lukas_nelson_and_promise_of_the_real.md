@@ -1,13 +1,14 @@
 ---
-title: lukas nelson and promise of the real
+title: Lukas Nelson and Promise of the Real
 wiki_slug: lukas-nelson-and-promise-of-the-real
 schema_version: 2
 status: active
 genres:
-- americana
-- alt country
+  - americana
+  - alt country
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/lukas_nelson_and_promise_of_the_real.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/lukas_nelson_and_promise_of_the_real.jpg
   caption: lukas nelson and promise of the real
   background: solo_singer
 audio_profile:
@@ -25,55 +26,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Anthony LoGerfo
-  - Corey McCormick
-  - Tato Melgar
-  - Micah Nelson
-  - Neil Young
-  - Lady Gaga
-  - Bradley Cooper
-  - John Fogerty
-  - Bob Weir
+    - Anthony LoGerfo
+    - Corey McCormick
+    - Tato Melgar
+    - Micah Nelson
+    - Neil Young
+    - Lady Gaga
+    - Bradley Cooper
+    - John Fogerty
+    - Bob Weir
   influenced:
-  - Micah Nelson (Particle Kid)
+    - Micah Nelson (Particle Kid)
   mentors:
-  - Willie Nelson
-  - Neil Young
-  - Kris Kristofferson
+    - Willie Nelson
+    - Neil Young
+    - Kris Kristofferson
 spotify_data:
   followers: 150556
   id: 5iXYJYmMcjlTFL1qA8UfgY
   popularity: 46
-  url: https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY
+  url: 'https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY'
 discography_enriched: true
 top_tracks:
-- Find Yourself (Lukas Nelson & Promise Of The Real)
-- Find Yourself (Sampler)
-- Pali Gap / Hey Baby (New Rising Sun) (Promise of the Real)
-- Just Outside Of Austin (Lukas Nelson & Promise Of The Real)
-- Forget About Georgia (Lukas Nelson & Promise Of The Real)
-- Little Girl (Sampler)
-- Carolina (Lukas Nelson & Promise Of The Real)
-- Fool Me Once (Lukas Nelson & Promise Of The Real)
-- Simple Life (Turn Off The News (Build A Garden))
-- Toppers (Promise of the Real)
+  - Find Yourself (Lukas Nelson & Promise Of The Real)
+  - Find Yourself (Sampler)
+  - Pali Gap / Hey Baby (New Rising Sun) (Promise of the Real)
+  - Just Outside Of Austin (Lukas Nelson & Promise Of The Real)
+  - Forget About Georgia (Lukas Nelson & Promise Of The Real)
+  - Little Girl (Sampler)
+  - Carolina (Lukas Nelson & Promise Of The Real)
+  - Fool Me Once (Lukas Nelson & Promise Of The Real)
+  - Simple Life (Turn Off The News (Build A Garden))
+  - Toppers (Promise of the Real)
 external_urls:
-  spotify: https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY
-  wikipedia: https://en.wikipedia.org/wiki/Lukas_Nelson
-image_path: 03_Resources/source_material/ArtistPortraits/lukas_nelson_and_promise_of_the_real.jpg
+  spotify: 'https://open.spotify.com/artist/5iXYJYmMcjlTFL1qA8UfgY'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lukas_Nelson'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/lukas_nelson_and_promise_of_the_real.jpg
 biography_enhanced_at: '2025-11-14T10:44:47.908529'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Lukas_Nelson
-- https://savingcountrymusic.com/lukas-nelson-promise-of-the-real-say-farewell-for-now/
-- https://playingforchange.com/artists/lukas-nelson
-- https://stpetecatalyst.com/musician-lukas-nelson-brings-the-real-everywhere-he-goes/
-- https://lukasnelson.com/pages/about
+  - 'https://en.wikipedia.org/wiki/Lukas_Nelson'
+  - >-
+    https://savingcountrymusic.com/lukas-nelson-promise-of-the-real-say-farewell-for-now/
+  - 'https://playingforchange.com/artists/lukas-nelson'
+  - >-
+    https://stpetecatalyst.com/musician-lukas-nelson-brings-the-real-everywhere-he-goes/
+  - 'https://lukasnelson.com/pages/about'
 network_extracted: true
 entry_created: '2025-11-14T10:44:47.908535'
 last_updated: '2025-12-23T08:16:12.357809'
-origin: Luck, Texas, United States; Maui, Hawaii, United States (band origin and member upbringing)
+origin: >-
+  Luck, Texas, United States; Maui, Hawaii, United States (band origin and
+  member upbringing)
+artist_type: person
 ---
 
 ![](lukas_nelson_and_promise_of_the_real.jpg)

@@ -1,31 +1,31 @@
 ---
-title: TITO PUENTE
+title: Tito Puente
 wiki_slug: tito-puente
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1923-04-20'
-birth_place: Spanish Harlem, Manhattan, New York City, New York, USA
+birth_place: 'Spanish Harlem, Manhattan, New York City, New York, USA'
 death_date: '2000-06-01'
 genres:
-- latin jazz
-- cha cha cha
-- mambo
-- salsa
-- son cubano
-- latin
+  - latin jazz
+  - cha cha cha
+  - mambo
+  - salsa
+  - son cubano
+  - latin
 instruments:
-- original
-- eponymous
-- marimba
-- timbales
-- vibraphone
+  - original
+  - eponymous
+  - marimba
+  - timbales
+  - vibraphone
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/TITO_PUENTE.jpg
   caption: TITO PUENTE
   background: non_vocal_instrumentalist
   born: '1923-04-20'
-  origin: Spanish Harlem, Manhattan, New York City, New York, USA
+  origin: 'Spanish Harlem, Manhattan, New York City, New York, USA'
   died: '2000-06-01'
 audio_profile:
   tempo_avg: 116.8
@@ -42,50 +42,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Celia Cruz
-  - Santana (Carlos Santana)
-  - Tito Puente Orchestra
+    - Celia Cruz
+    - Santana (Carlos Santana)
+    - Tito Puente Orchestra
   influenced:
-  - Carlos Santana
-  - Marc Anthony
-  - Sheila E.
+    - Carlos Santana
+    - Marc Anthony
+    - Sheila E.
   mentors:
-  - Gene Krupa
-  - Machito (Frank Grillo)
+    - Gene Krupa
+    - Machito (Frank Grillo)
 spotify_data:
   followers: 200703
   id: 6SPpCqM8gOzrtICAxN5NuX
   popularity: 46
-  url: https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX
+  url: 'https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX'
 discography_enriched: true
 top_tracks:
-- Oye Cómo Va (El Rey Bravo)
-- Ran Kan Kan (The Latin World Of Tito Puente)
-- Mambo Gozon (Hoy y Ayer)
-- 'El #100 (2En1)'
-- Salsa Y Sabor (Para los Rumberos)
-- La Gloria Eres Tú (Tito Puente Swings & Vicentico Valdés Sings)
-- El Cayuco (Dance Mania Vol.1)
-- Oye Cómo Va
-- Cao Cao Maní Picao (Viva la Reina de la Salsa)
-- Cha Cha Cha
+  - Oye Cómo Va (El Rey Bravo)
+  - Ran Kan Kan (The Latin World Of Tito Puente)
+  - Mambo Gozon (Hoy y Ayer)
+  - 'El #100 (2En1)'
+  - Salsa Y Sabor (Para los Rumberos)
+  - La Gloria Eres Tú (Tito Puente Swings & Vicentico Valdés Sings)
+  - El Cayuco (Dance Mania Vol.1)
+  - Oye Cómo Va
+  - Cao Cao Maní Picao (Viva la Reina de la Salsa)
+  - Cha Cha Cha
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f19ad155-d809-4770-ab8d-7579467d9f55
-  spotify: https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX
-  wikipedia: https://en.wikipedia.org/wiki/Tito_Puente
+  musicbrainz: 'https://musicbrainz.org/artist/f19ad155-d809-4770-ab8d-7579467d9f55'
+  spotify: 'https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tito_Puente'
 image_path: 03_Resources/source_material/ArtistPortraits/TITO_PUENTE.jpg
 biography_enhanced_at: '2025-10-19T11:32:15.315051'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.biography.com/musicians/tito-puente
-- https://ww1.namm.org/library/oral-history/tito-puente
-- https://eastfieldnews.com/28701/life-arts/etcreviews/the-rise-of-el-rey-tito-puente/
-- https://latinjazznet.com/featured/why-is-tito-puente-so-important-for-latin-music/
-- https://en.wikipedia.org/wiki/Tito_Puente
-- https://www.britannica.com/biography/Tito-Puente
-- https://pas.org/tito-puente/
-- https://fania.com/artist/tito-puente/
+  - 'https://www.biography.com/musicians/tito-puente'
+  - 'https://ww1.namm.org/library/oral-history/tito-puente'
+  - >-
+    https://eastfieldnews.com/28701/life-arts/etcreviews/the-rise-of-el-rey-tito-puente/
+  - >-
+    https://latinjazznet.com/featured/why-is-tito-puente-so-important-for-latin-music/
+  - 'https://en.wikipedia.org/wiki/Tito_Puente'
+  - 'https://www.britannica.com/biography/Tito-Puente'
+  - 'https://pas.org/tito-puente/'
+  - 'https://fania.com/artist/tito-puente/'
 network_extracted: true
 entry_created: '2025-10-19T11:32:15.315059'
 last_updated: '2025-12-23T08:16:04.016398'
@@ -93,9 +95,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:45:05.895869'
 musicbrainz_id: f19ad155-d809-4770-ab8d-7579467d9f55
 tags:
-- afro-cuban jazz
-- cuban jazz
-- jazz
+  - afro-cuban jazz
+  - cuban jazz
+  - jazz
+is_active: false
 ---
 
 ![](TITO_PUENTE.jpg)

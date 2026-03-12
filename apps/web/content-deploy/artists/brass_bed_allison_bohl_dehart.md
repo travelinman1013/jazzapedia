@@ -1,12 +1,13 @@
 ---
-title: Brass Bed, Allison Bohl DeHart
+title: 'Brass Bed, Allison Bohl DeHart'
 wiki_slug: brass-bed-allison-bohl-dehart
 schema_version: 2
 status: active
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/brass_bed_allison_bohl_dehart.jpg
-  caption: Brass Bed, Allison Bohl DeHart
+  image: >-
+    03_Resources/source_material/ArtistPortraits/brass_bed_allison_bohl_dehart.jpg
+  caption: 'Brass Bed, Allison Bohl DeHart'
   background: solo_singer
 audio_profile:
   tempo_avg: 108.2
@@ -23,44 +24,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Peter DeHart
-  - Jonny Campos
+    - Peter DeHart
+    - Jonny Campos
   influenced: []
   mentors: []
 spotify_data:
   followers: 3788
   id: 7l67mFin1d5djtH8sRExqm
   popularity: 24
-  url: https://open.spotify.com/artist/7l67mFin1d5djtH8sRExqm
+  url: 'https://open.spotify.com/artist/7l67mFin1d5djtH8sRExqm'
 discography_enriched: true
 top_tracks:
-- (I'm Spending) Hanukkah in Santa Monica (Hanukkah in Santa Monica)
-- Seasons of Love (Hanukkah in Santa Monica)
-- The Phantom of the Opera (The Phantom of the Opera)
-- If I Were A Rich Man (Opening Number)
-- Do You Hear The People Sing? (Opening Number)
-- Trashin' The Camp (Opening Number)
-- The Phantom of the Opera (Phantom Of The Opera)
-- Think Of Me (Phantom Of The Opera)
-- Music of the Night (Phantom Of The Opera)
-- All I Ask Of You (Phantom Of The Opera)
+  - (I'm Spending) Hanukkah in Santa Monica (Hanukkah in Santa Monica)
+  - Seasons of Love (Hanukkah in Santa Monica)
+  - The Phantom of the Opera (The Phantom of the Opera)
+  - If I Were A Rich Man (Opening Number)
+  - Do You Hear The People Sing? (Opening Number)
+  - Trashin' The Camp (Opening Number)
+  - The Phantom of the Opera (Phantom Of The Opera)
+  - Think Of Me (Phantom Of The Opera)
+  - Music of the Night (Phantom Of The Opera)
+  - All I Ask Of You (Phantom Of The Opera)
 external_urls:
-  spotify: https://open.spotify.com/artist/7l67mFin1d5djtH8sRExqm
+  spotify: 'https://open.spotify.com/artist/7l67mFin1d5djtH8sRExqm'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/brass_bed_allison_bohl_dehart.jpg
 biography_enhanced_at: '2025-11-12T14:49:50.843705'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.225batonrouge.com/our-city/arts-entertainment/step-back-jack-ty-segall-is-the-king-of-garage-rock-on-manipulator-san-franciscos-finest-takes-the-crown
-- https://catherineguidry.com/blog/grand-opera-house-of-the-south-crowley-la-allison-peter/
-- https://www.lafayettetravel.com/blog/stories/post/artist-spotlight-allison-bohl-peter-dehart/
-- https://elefant.com/bands/carbon-poppies/biography
-- https://www.allmusic.com/artist/brass-bed-mn0001566564
+  - >-
+    https://www.225batonrouge.com/our-city/arts-entertainment/step-back-jack-ty-segall-is-the-king-of-garage-rock-on-manipulator-san-franciscos-finest-takes-the-crown
+  - >-
+    https://catherineguidry.com/blog/grand-opera-house-of-the-south-crowley-la-allison-peter/
+  - >-
+    https://www.lafayettetravel.com/blog/stories/post/artist-spotlight-allison-bohl-peter-dehart/
+  - 'https://elefant.com/bands/carbon-poppies/biography'
+  - 'https://www.allmusic.com/artist/brass-bed-mn0001566564'
 network_extracted: true
 entry_created: '2025-11-12T14:49:50.843718'
 last_updated: '2025-12-23T08:16:06.043718'
-origin: Louisiana, United States
+origin: 'Louisiana, United States'
+artist_type: band
 ---
 
 ![](brass_bed_allison_bohl_dehart.jpg)

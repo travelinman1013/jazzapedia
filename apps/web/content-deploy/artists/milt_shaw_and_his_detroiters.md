@@ -1,47 +1,50 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-01-01T01:06:44.417968'
 enhancement_provider: perplexity
 entry_created: '2026-01-01T01:06:44.417985'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e8e03376-ff1d-400b-ab59-23ff729b5aed
-  spotify: https://open.spotify.com/artist/6IhPyiuZhoot2LC2AZPblM
+  musicbrainz: 'https://musicbrainz.org/artist/e8e03376-ff1d-400b-ab59-23ff729b5aed'
+  spotify: 'https://open.spotify.com/artist/6IhPyiuZhoot2LC2AZPblM'
   wikipedia: ''
 genres: []
 image_path: ''
 instruments:
-- eponymous
+  - eponymous
 last_updated: '2026-01-01T01:06:44.417989'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 48b72a1d-b9b3-480d-8a1c-44766ef93f07
-  name: Milt Shaw
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 48b72a1d-b9b3-480d-8a1c-44766ef93f07
+    name: Milt Shaw
 musical_connections:
   collaborators:
-  - Ray McKinley
-  - Frank Winegar
+    - Ray McKinley
+    - Frank Winegar
   influenced: []
   mentors: []
 musicbrainz_id: e8e03376-ff1d-400b-ab59-23ff729b5aed
 network_extracted: true
-origin: Ann Arbor, Michigan, United States
+origin: 'Ann Arbor, Michigan, United States'
 primary_source: perplexity
 research_sources:
-- https://early1900s.org/etc/MelotonM12020.html[2]
-- https://www.iheart.com/artist/milt-shaw-and-his-detroiters-33348935/[7]
-- https://www.swingstreetradio.org/ray-mckinley-a-rhythm-makers-musical-journey/[3]
-- https://adp.library.ucsb.edu/index.php/talent/refer/174658[4]
-- https://ancestors.familysearch.org/en/9Z9K-HYC/milton-shaw-1889[9]
+  - 'https://early1900s.org/etc/MelotonM12020.html[2]'
+  - 'https://www.iheart.com/artist/milt-shaw-and-his-detroiters-33348935/[7]'
+  - >-
+    https://www.swingstreetradio.org/ray-mckinley-a-rhythm-makers-musical-journey/[3]
+  - 'https://adp.library.ucsb.edu/index.php/talent/refer/174658[4]'
+  - 'https://ancestors.familysearch.org/en/9Z9K-HYC/milton-shaw-1889[9]'
 spotify_data:
   followers: 3
   id: 6IhPyiuZhoot2LC2AZPblM
   popularity: 0
-  url: https://open.spotify.com/artist/6IhPyiuZhoot2LC2AZPblM
+  url: 'https://open.spotify.com/artist/6IhPyiuZhoot2LC2AZPblM'
 status: active
-title: MILT SHAW AND HIS DETROITERS
+title: Milt Shaw and His Detroiters
+birth_place: 'Ann Arbor, Michigan, United States'
+birth_date: '1889-07-02'
 ---
 
 ![]()

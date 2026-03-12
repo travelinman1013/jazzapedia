@@ -3,16 +3,16 @@ title: Leci Brandao
 wiki_slug: leci-brandao
 schema_version: 2
 status: active
-birth_place: Rio de Janeiro, Rio de Janeiro, Brazil
+birth_place: 'Rio de Janeiro, Rio de Janeiro, Brazil'
 genres:
-- samba
-- pagode
-- mpb
+  - samba
+  - pagode
+  - mpb
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/leci_brandao.jpg
   caption: Leci Brandao
   background: solo_singer
-  origin: Rio de Janeiro, Rio de Janeiro, Brazil
+  origin: 'Rio de Janeiro, Rio de Janeiro, Brazil'
 audio_profile:
   tempo_avg: 113.8
   energy_avg: 0.647
@@ -28,48 +28,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Beth Carvalho
-  - Arlindo Cruz
-  - Almir Guineto
-  - Mangueira Samba School
+    - Beth Carvalho
+    - Arlindo Cruz
+    - Almir Guineto
+    - Mangueira Samba School
   influenced:
-  - Contemporary Pagode Artists
+    - Contemporary Pagode Artists
   mentors:
-  - Dona Lecy de Assumpção Brandão
-  - Clara Nunes
+    - Dona Lecy de Assumpção Brandão
+    - Clara Nunes
 spotify_data:
   followers: 68858
   id: 5iiQvuDCnlXoK8iAhydW0u
   popularity: 50
-  url: https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u
+  url: 'https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u'
 discography_enriched: true
 top_tracks:
-- Favela Vive 5
-- Zé Do Caroço (Leci Brandão)
-- Zé Do Caroço (Kavita 1)
-- 'Pot-Pourri: Papai Vadiou / As Coisas Que Mamãe Me Ensinou / Fundo De Quintal / Olodum Força Divina (Somos Da Mesma Tribo)'
-- Isso É Fundo De Quintal (Leci Brandão)
-- Deixa Pra Lá
-- Só Quero Te Namorar
-- O Som do Povo Ninguém Silencia (Tema de Final de Ano Transcontinental)
-- Quando te vi chorando (Participação especial de Leci Brandão) (Pagode pra valer vol. 2)
-- Coisinha do Pai
+  - Favela Vive 5
+  - Zé Do Caroço (Leci Brandão)
+  - Zé Do Caroço (Kavita 1)
+  - >-
+    Pot-Pourri: Papai Vadiou / As Coisas Que Mamãe Me Ensinou / Fundo De Quintal
+    / Olodum Força Divina (Somos Da Mesma Tribo)
+  - Isso É Fundo De Quintal (Leci Brandão)
+  - Deixa Pra Lá
+  - Só Quero Te Namorar
+  - O Som do Povo Ninguém Silencia (Tema de Final de Ano Transcontinental)
+  - >-
+    Quando te vi chorando (Participação especial de Leci Brandão) (Pagode pra
+    valer vol. 2)
+  - Coisinha do Pai
 external_urls:
-  spotify: https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u
-  wikipedia: https://en.wikipedia.org/wiki/Leci_Brandão
+  spotify: 'https://open.spotify.com/artist/5iiQvuDCnlXoK8iAhydW0u'
+  wikipedia: 'https://en.wikipedia.org/wiki/Leci_Brandão'
 image_path: 03_Resources/source_material/ArtistPortraits/leci_brandao.jpg
 biography_enhanced_at: '2025-11-16T20:18:38.512206'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Leci Brandão
-- Slipcue.com Brazilian Music Guide
-- Djamila Ribeiro - Folha de S.Paulo
-- AllMusic - Leci Brandão
-- OkayAfrica - 14 Outstanding Black Women In Samba's History
+  - Wikipedia - Leci Brandão
+  - Slipcue.com Brazilian Music Guide
+  - Djamila Ribeiro - Folha de S.Paulo
+  - AllMusic - Leci Brandão
+  - OkayAfrica - 14 Outstanding Black Women In Samba's History
 network_extracted: true
 entry_created: '2025-11-16T20:18:38.512217'
 last_updated: '2025-12-23T08:16:11.699827'
+birth_date: '1944-09-12'
+artist_type: person
 ---
 
 ![](leci_brandao.jpg)

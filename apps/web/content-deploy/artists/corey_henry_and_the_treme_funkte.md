@@ -4,10 +4,11 @@ wiki_slug: corey-henry-the-treme-funkte
 schema_version: 2
 status: active
 genres:
-- retro soul
-- jazz fusion
+  - retro soul
+  - jazz fusion
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/corey_henry_and_the_treme_funkte.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/corey_henry_and_the_treme_funkte.jpg
   caption: Corey Henry & The Treme Funkte
   background: solo_singer
 audio_profile:
@@ -17,7 +18,7 @@ audio_profile:
   danceability_avg: 0.633
   acousticness_avg: 0.293
   instrumentalness_avg: 0.205
-  loudness_avg: -8.0
+  loudness_avg: -8
   speechiness_avg: 0.098
   liveness_avg: 0.237
   track_count: 52
@@ -25,54 +26,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - June Yamagishi
-  - Manus Tilton
-  - Walter Lundy
-  - Antonio Gambrell
-  - Beck Burger
-  - Donald Surtain
-  - Rebirth Brass Band
-  - Galactic
+    - June Yamagishi
+    - Manus Tilton
+    - Walter Lundy
+    - Antonio Gambrell
+    - Beck Burger
+    - Donald Surtain
+    - Rebirth Brass Band
+    - Galactic
   influenced:
-  - Jazz Henry
+    - Jazz Henry
   mentors:
-  - Benny Jones Sr.
-  - Kermit Ruffins
-  - Keith 'Wolf' Anderson
-  - Revert Andrews
+    - Benny Jones Sr.
+    - Kermit Ruffins
+    - Keith 'Wolf' Anderson
+    - Revert Andrews
 spotify_data:
   followers: 200361
   id: 21SOnTj5ECwVXeBUTRcP3s
   popularity: 42
-  url: https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s
+  url: 'https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s'
 discography_enriched: true
 top_tracks:
-- Settle Down (with Cory Henry, Ravyn Lenae) (Luv 4 Rent)
-- Continual (feat. Cory Henry) (Mercury - Acts 1 & 2)
-- God Makes a Way
-- Happy Days (Something to Say)
-- Switch (Something to Say)
-- Butterfly [Feat. Cory Henry and Marcus Miller]
-- Fighting for Peace
-- Good To Be Alone
-- ADAM & EVE - Instrumental (DIAMONDS & FREAKS (Instrumentals))
-- Free Like Me (Little Men)
+  - 'Settle Down (with Cory Henry, Ravyn Lenae) (Luv 4 Rent)'
+  - Continual (feat. Cory Henry) (Mercury - Acts 1 & 2)
+  - God Makes a Way
+  - Happy Days (Something to Say)
+  - Switch (Something to Say)
+  - 'Butterfly [Feat. Cory Henry and Marcus Miller]'
+  - Fighting for Peace
+  - Good To Be Alone
+  - ADAM & EVE - Instrumental (DIAMONDS & FREAKS (Instrumentals))
+  - Free Like Me (Little Men)
 external_urls:
-  spotify: https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s
-  wikipedia: https://en.wikipedia.org/wiki/Corey_Henry
-image_path: 03_Resources/source_material/ArtistPortraits/corey_henry_and_the_treme_funkte.jpg
+  spotify: 'https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s'
+  wikipedia: 'https://en.wikipedia.org/wiki/Corey_Henry'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/corey_henry_and_the_treme_funkte.jpg
 biography_enhanced_at: '2025-11-11T09:19:11.823869'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Corey_Henry
-- https://jazzascona.ch/en/project/corey-henry-and-the-treme-funktet-3/
-- https://www.coreyhenrytremefunktet.com/bio
-- https://www.wwno.org/show/american-routes/2025-02-21/american-routes-shortcuts-corey-henry
+  - 'https://en.wikipedia.org/wiki/Corey_Henry'
+  - 'https://jazzascona.ch/en/project/corey-henry-and-the-treme-funktet-3/'
+  - 'https://www.coreyhenrytremefunktet.com/bio'
+  - >-
+    https://www.wwno.org/show/american-routes/2025-02-21/american-routes-shortcuts-corey-henry
 network_extracted: true
 entry_created: '2025-11-11T09:19:11.823882'
 last_updated: '2025-12-23T08:16:07.208996'
-origin: New Orleans, Louisiana, USA
+origin: 'New Orleans, Louisiana, USA'
+artist_type: band
 ---
 
 ![](corey_henry_and_the_treme_funkte.jpg)

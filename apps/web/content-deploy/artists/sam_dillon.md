@@ -3,14 +3,14 @@ title: Sam Dillon
 wiki_slug: sam-dillon
 schema_version: 2
 status: active
-birth_place: New York, New York, United States
+birth_place: 'New York, New York, United States'
 genres:
-- jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sam_dillon.jpg
   caption: Sam Dillon
   background: solo_singer
-  origin: New York, New York, United States
+  origin: 'New York, New York, United States'
 audio_profile:
   tempo_avg: 117.7
   energy_avg: 0.469
@@ -26,52 +26,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Andrew Gould
-  - Frank Basile
-  - Mark Sherman
-  - Chris Hajian
-  - The Mingus Big Band
-  - The 8-Bit Big Band
+    - Andrew Gould
+    - Frank Basile
+    - Mark Sherman
+    - Chris Hajian
+    - The Mingus Big Band
+    - The 8-Bit Big Band
   influenced:
-  - USDAN Summer Camp students
-  - Juilliard MAP students
+    - USDAN Summer Camp students
+    - Juilliard MAP students
   mentors:
-  - Al Grey
-  - Jimmy Heath
-  - Slide Hampton
+    - Al Grey
+    - Jimmy Heath
+    - Slide Hampton
 spotify_data:
   followers: 1247
   id: 6pIwPFKc881sxc24sUOT6P
   popularity: 18
-  url: https://open.spotify.com/artist/6pIwPFKc881sxc24sUOT6P
+  url: 'https://open.spotify.com/artist/6pIwPFKc881sxc24sUOT6P'
 discography_enriched: true
 top_tracks:
-- Gourmet Race (From "Kirby Superstar") (Backwards Compatible)
-- Samba de Orfeu (Two Part Solution)
-- The Cardiff Giant (Two Part Solution)
-- Into The Void
-- Delusion (Delusion)
-- SD Card
-- This Time Around
-- Keep Goin' Gotta Keep Up
-- Past Time
-- No Promises (My Ideal)
+  - Gourmet Race (From "Kirby Superstar") (Backwards Compatible)
+  - Samba de Orfeu (Two Part Solution)
+  - The Cardiff Giant (Two Part Solution)
+  - Into The Void
+  - Delusion (Delusion)
+  - SD Card
+  - This Time Around
+  - Keep Goin' Gotta Keep Up
+  - Past Time
+  - No Promises (My Ideal)
 external_urls:
-  spotify: https://open.spotify.com/artist/6pIwPFKc881sxc24sUOT6P
+  spotify: 'https://open.spotify.com/artist/6pIwPFKc881sxc24sUOT6P'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/sam_dillon.jpg
 biography_enhanced_at: '2025-11-01T15:32:17.665242'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://samdillonmusic.com/37-2/
-- https://www.allaboutjazz.com/musicians/sam-dillon/
-- https://bestsaxophonewebsiteever.com/saxophone-shredder-sam-dillon-shares-why-the-saxophone-leveraging-bebop-scales-and-how-he-works-to-master-the-saxophone/
-- https://www.allsolos.com/soloist/36/sam-dillon
-- https://www.charlesmingus.com/sam-dillon
+  - 'https://samdillonmusic.com/37-2/'
+  - 'https://www.allaboutjazz.com/musicians/sam-dillon/'
+  - >-
+    https://bestsaxophonewebsiteever.com/saxophone-shredder-sam-dillon-shares-why-the-saxophone-leveraging-bebop-scales-and-how-he-works-to-master-the-saxophone/
+  - 'https://www.allsolos.com/soloist/36/sam-dillon'
+  - 'https://www.charlesmingus.com/sam-dillon'
 network_extracted: true
 entry_created: '2025-11-01T15:32:17.665259'
 last_updated: '2025-12-23T08:16:15.299729'
+artist_type: person
 ---
 
 ![](sam_dillon.jpg)

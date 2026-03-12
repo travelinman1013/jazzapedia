@@ -3,13 +3,13 @@ title: Ikey Robinson and his Band
 wiki_slug: ikey-robinson-and-his-band
 schema_version: 2
 status: active
-birth_place: Dublin, Virginia, United States
+birth_place: 'Dublin, Virginia, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Ikey_Robinson_and_his_Band.jpg
   caption: Ikey Robinson and his Band
   background: solo_singer
-  origin: Dublin, Virginia, United States
+  origin: 'Dublin, Virginia, United States'
 audio_profile:
   tempo_avg: 126.4
   energy_avg: 0.36
@@ -17,7 +17,7 @@ audio_profile:
   danceability_avg: 0.694
   acousticness_avg: 0.979
   instrumentalness_avg: 0.482
-  loudness_avg: -11.0
+  loudness_avg: -11
   speechiness_avg: 0.078
   liveness_avg: 0.202
   track_count: 30
@@ -25,46 +25,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jabbo Smith
-  - Clarence Williams
-  - Howard Armstrong
-  - Ted Bogan
+    - Jabbo Smith
+    - Clarence Williams
+    - Howard Armstrong
+    - Ted Bogan
   influenced:
-  - Subsequent jazz and blues banjoists
+    - Subsequent jazz and blues banjoists
   mentors:
-  - Jelly Roll Morton
+    - Jelly Roll Morton
 spotify_data:
   followers: 27
   id: 3jNaziB8sK6wN1ziJrgR29
   popularity: 4
-  url: https://open.spotify.com/artist/3jNaziB8sK6wN1ziJrgR29
+  url: 'https://open.spotify.com/artist/3jNaziB8sK6wN1ziJrgR29'
 discography_enriched: true
 top_tracks:
-- Jazz Battle (1929 - The Complete Set)
-- Lina Blues (1929 - The Complete Set)
-- Ready Hokum (1929 - The Complete Set)
-- Michigander Blues (1929 - The Complete Set)
-- Got Butter On It (1929 - The Complete Set)
-- I Got The Stinger (1929 - The Complete Set)
-- Ace Of Rhythms (1929 - The Complete Set)
-- Decatur Street Tutti (1929 - The Complete Set)
-- Till Times Get Better (1929 - The Complete Set)
-- Little Willie Blues (1929 - The Complete Set)
+  - Jazz Battle (1929 - The Complete Set)
+  - Lina Blues (1929 - The Complete Set)
+  - Ready Hokum (1929 - The Complete Set)
+  - Michigander Blues (1929 - The Complete Set)
+  - Got Butter On It (1929 - The Complete Set)
+  - I Got The Stinger (1929 - The Complete Set)
+  - Ace Of Rhythms (1929 - The Complete Set)
+  - Decatur Street Tutti (1929 - The Complete Set)
+  - Till Times Get Better (1929 - The Complete Set)
+  - Little Willie Blues (1929 - The Complete Set)
 external_urls:
-  spotify: https://open.spotify.com/artist/3jNaziB8sK6wN1ziJrgR29
-  wikipedia: https://en.wikipedia.org/wiki/Ikey_Robinson
+  spotify: 'https://open.spotify.com/artist/3jNaziB8sK6wN1ziJrgR29'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ikey_Robinson'
 image_path: 03_Resources/source_material/ArtistPortraits/Ikey_Robinson_and_his_Band.jpg
 biography_enhanced_at: '2025-10-19T12:25:39.259331'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.bmansbluesreport.com/2012/07/my-four-reasons-banjo-ikey-robinson.html
-- https://blinddogradio.blogspot.com/2018/10/banjo-ikey-robinson.html
-- https://jazzagebanjo.wordpress.com/2009/03/04/ikey-robinson/
-- https://sundayblues.org/?tag=banjo-ikey-robinson
+  - >-
+    https://www.bmansbluesreport.com/2012/07/my-four-reasons-banjo-ikey-robinson.html
+  - 'https://blinddogradio.blogspot.com/2018/10/banjo-ikey-robinson.html'
+  - 'https://jazzagebanjo.wordpress.com/2009/03/04/ikey-robinson/'
+  - 'https://sundayblues.org/?tag=banjo-ikey-robinson'
 network_extracted: true
 entry_created: '2025-10-19T12:25:39.259347'
 last_updated: '2025-12-23T08:16:02.293909'
+origin: 'Chicago, Illinois, United States'
+birth_date: '1904-07-28'
+death_date: '1990-10-25'
+artist_type: person
 ---
 
 ![](Ikey_Robinson_and_his_Band.jpg)

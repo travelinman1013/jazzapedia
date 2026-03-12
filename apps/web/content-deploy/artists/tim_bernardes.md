@@ -1,94 +1,97 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '2009'
-  end: ''
-  instruments:
-  - guitar
-  - original
-  mbid: 92bf83e0-d79e-4390-871a-8f108bb50f82
-  name: O Terno
-- begin: '2009'
-  end: ''
-  instruments:
-  - lead vocals
-  - original
-  mbid: 92bf83e0-d79e-4390-871a-8f108bb50f82
-  name: O Terno
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2624b9c1-e7c1-49b9-bba4-b082ff33fbc2
-  name: Mallu Magalhães & Tim Bernardes
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2faa2c33-0984-464b-8233-b001a7f542fe
-  name: O Terno + Liniker
+  - begin: '2009'
+    end: ''
+    instruments:
+      - guitar
+      - original
+    mbid: 92bf83e0-d79e-4390-871a-8f108bb50f82
+    name: O Terno
+  - begin: '2009'
+    end: ''
+    instruments:
+      - lead vocals
+      - original
+    mbid: 92bf83e0-d79e-4390-871a-8f108bb50f82
+    name: O Terno
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2624b9c1-e7c1-49b9-bba4-b082ff33fbc2
+    name: Mallu Magalhães & Tim Bernardes
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2faa2c33-0984-464b-8233-b001a7f542fe
+    name: O Terno + Liniker
 biography_enhanced_at: '2025-12-28T01:56:21.547621'
 birth_date: '1991-06-18'
-birth_place: São Paulo
-disambiguation: Brazilian singer, musician, et al.
+birth_place: 'São Paulo, São Paulo, Brazil'
+disambiguation: 'Brazilian singer, musician, et al.'
 enhancement_provider: perplexity
 entry_created: '2025-12-28T01:56:21.547638'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2afe142b-93af-49f8-a23f-373c02de1ae0
-  spotify: https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4
-  wikipedia: https://en.wikipedia.org/wiki/Tim_Bernardes
+  musicbrainz: 'https://musicbrainz.org/artist/2afe142b-93af-49f8-a23f-373c02de1ae0'
+  spotify: 'https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tim_Bernardes'
 gender: Male
 genres:
-- nova mpb
-- mpb
+  - nova mpb
+  - mpb
 image_path: 03_Resources/source_material/ArtistPortraits/tim_bernardes.jpg
 instruments:
-- guitar
-- original
-- lead vocals
-- acoustic guitar
-- vocal
+  - guitar
+  - original
+  - lead vocals
+  - acoustic guitar
+  - vocal
 last_updated: '2025-12-28T01:56:21.547639'
 musical_connections:
   collaborators:
-  - O Terno
-  - Gal Costa
-  - Fleet Foxes
-  - David Byrne
-  - Tom Zé
-  - Devendra Banhart
-  - Shintaro Sakamoto
-  - Pereirinha & Pereirão (project with Maurício Pereira)
+    - O Terno
+    - Gal Costa
+    - Fleet Foxes
+    - David Byrne
+    - Tom Zé
+    - Devendra Banhart
+    - Shintaro Sakamoto
+    - Pereirinha & Pereirão (project with Maurício Pereira)
   influenced:
-  - Younger Brazilian indie/MPB songwriters (emerging 2020s generation)
+    - Younger Brazilian indie/MPB songwriters (emerging 2020s generation)
   mentors:
-  - Maurício Pereira
-  - Pedro Mourão
-  - Akira (from Rumo)
-  - Tonho Penhasco
-  - Brazilian 1960s–70s MPB and Tropicália artists (e.g., Gal Costa, Tom Zé, Caetano Veloso, others)
-  - The Beatles
+    - Maurício Pereira
+    - Pedro Mourão
+    - Akira (from Rumo)
+    - Tonho Penhasco
+    - >-
+      Brazilian 1960s–70s MPB and Tropicália artists (e.g., Gal Costa, Tom Zé,
+      Caetano Veloso, others)
+    - The Beatles
 musicbrainz_id: 2afe142b-93af-49f8-a23f-373c02de1ae0
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://remezcla.com/features/music/meet-tim-bernardes-interview-mil-coisas-invisiveis/
-- https://www.flaunt.com/post/tim-bernardes
-- https://www.last.fm/music/Tim+Bernardes/+wiki
-- https://theglowmgmt.com/artist/tim-bernardes/
-- https://panm360.com/en/records/tim-bernardes-mil-coisas-invisiveis/
-- https://www.primaverasound.com/en/artist/tim-bernardes
-- https://viberate.com/artist/tim-bernardes/
+  - >-
+    https://remezcla.com/features/music/meet-tim-bernardes-interview-mil-coisas-invisiveis/
+  - 'https://www.flaunt.com/post/tim-bernardes'
+  - 'https://www.last.fm/music/Tim+Bernardes/+wiki'
+  - 'https://theglowmgmt.com/artist/tim-bernardes/'
+  - 'https://panm360.com/en/records/tim-bernardes-mil-coisas-invisiveis/'
+  - 'https://www.primaverasound.com/en/artist/tim-bernardes'
+  - 'https://viberate.com/artist/tim-bernardes/'
 spotify_data:
   followers: 371004
   id: 5SVFuUaS3BKAdJs6I8rVa4
   popularity: 58
-  url: https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4
+  url: 'https://open.spotify.com/artist/5SVFuUaS3BKAdJs6I8rVa4'
 status: active
 tags:
-- mpb
-- nova mpb
-- pop
+  - mpb
+  - nova mpb
+  - pop
 title: Tim Bernardes
-
+origin: 'São Paulo, São Paulo, Brazil'
 ---
 
 ![](tim_bernardes.jpg)

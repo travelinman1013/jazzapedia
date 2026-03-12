@@ -9,7 +9,7 @@ infobox:
   caption: SML
   background: solo_singer
 audio_profile:
-  tempo_avg: 114.0
+  tempo_avg: 114
   energy_avg: 0.567
   valence_avg: 0.632
   danceability_avg: 0.508
@@ -23,52 +23,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jason Isbell
-  - Phoebe Bridgers
-  - Meshell Ndegeocello
-  - Ariel Kalma
-  - Perfume Genius
+    - Jason Isbell
+    - Phoebe Bridgers
+    - Meshell Ndegeocello
+    - Ariel Kalma
+    - Perfume Genius
   influenced:
-  - Expansion Trio
-  - Anna Butterss Band
+    - Expansion Trio
+    - Anna Butterss Band
   mentors:
-  - Jeff Parker
+    - Jeff Parker
 spotify_data:
   followers: 6523
   id: 5k8cbLF5EZnAhwDvHN6Toj
   popularity: 28
-  url: https://open.spotify.com/artist/5k8cbLF5EZnAhwDvHN6Toj
+  url: 'https://open.spotify.com/artist/5k8cbLF5EZnAhwDvHN6Toj'
 discography_enriched: true
 top_tracks:
-- Rubber Tree Dance (Small Medium Large)
-- Rubber Tree Dance (Small Medium Large)
-- Industry (Small Medium Large)
-- Window Sill Song (Small Medium Large)
-- Industry (Small Medium Large)
-- Soft Sand (Small Medium Large)
-- Window Sill Song (Small Medium Large)
-- Soft Sand (Small Medium Large)
-- Search Bar Hi Hat (Small Medium Large)
-- Three Over Steel (Small Medium Large)
+  - Rubber Tree Dance (Small Medium Large)
+  - Rubber Tree Dance (Small Medium Large)
+  - Industry (Small Medium Large)
+  - Window Sill Song (Small Medium Large)
+  - Industry (Small Medium Large)
+  - Soft Sand (Small Medium Large)
+  - Window Sill Song (Small Medium Large)
+  - Soft Sand (Small Medium Large)
+  - Search Bar Hi Hat (Small Medium Large)
+  - Three Over Steel (Small Medium Large)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9419f7ac-b807-4d82-ba2f-6bd7ce519063
-  spotify: https://open.spotify.com/artist/5k8cbLF5EZnAhwDvHN6Toj
+  musicbrainz: 'https://musicbrainz.org/artist/9419f7ac-b807-4d82-ba2f-6bd7ce519063'
+  spotify: 'https://open.spotify.com/artist/5k8cbLF5EZnAhwDvHN6Toj'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/sml.jpg
 biography_enhanced_at: '2025-11-24T08:43:34.988454'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.intlanthem.com/artists/sml
-- https://www.intlanthem.com/releases4/sml-how-you-been
-- http://www.bigfishbookingco.com/sml
-- https://stereogum.com/2263994/sml-industry/music
-- https://intlanthem.bandcamp.com/album/small-medium-large
+  - 'https://www.intlanthem.com/artists/sml'
+  - 'https://www.intlanthem.com/releases4/sml-how-you-been'
+  - 'http://www.bigfishbookingco.com/sml'
+  - 'https://stereogum.com/2263994/sml-industry/music'
+  - 'https://intlanthem.bandcamp.com/album/small-medium-large'
 network_extracted: true
 entry_created: '2025-11-24T08:43:34.988464'
 last_updated: '2025-12-23T08:16:15.790096'
 musicbrainz_id: 9419f7ac-b807-4d82-ba2f-6bd7ce519063
-origin: Los Angeles, California, United States
+origin: 'Los Angeles, California, United States'
+artist_type: band
 ---
 
 ![](sml.jpg)

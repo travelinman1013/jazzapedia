@@ -2,21 +2,21 @@
 title: Susanna Hoffs
 wiki_slug: susanna-hoffs
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1959-01-17'
-birth_place: Los Angeles, California, United States
+birth_place: 'Los Angeles, California, United States'
 genres:
-- power pop
+  - power pop
 instruments:
-- guitar
-- lead vocals
+  - guitar
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Susanna_Hoffs.jpg
   caption: Susanna Hoffs
   background: solo_singer
   born: '1959-01-17'
-  origin: Los Angeles, California, United States
+  origin: 'Los Angeles, California, United States'
 audio_profile:
   tempo_avg: 107.7
   energy_avg: 0.55
@@ -32,49 +32,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Vicki Peterson
-  - Debbi Peterson
-  - Matthew Sweet
-  - Prince
-  - Billy Steinberg and Tom Kelly
-  - Mike Myers
-  - Rufus Wainwright
+    - Vicki Peterson
+    - Debbi Peterson
+    - Matthew Sweet
+    - Prince
+    - Billy Steinberg and Tom Kelly
+    - Mike Myers
+    - Rufus Wainwright
   influenced:
-  - Haim
-  - The Like
+    - Haim
+    - The Like
   mentors:
-  - 1960s pop and rock artists
-  - David Roback
+    - 1960s pop and rock artists
+    - David Roback
 spotify_data:
   followers: 32617
   id: 2Sc4ukCRllIu02LZfHF0RL
   popularity: 54
-  url: https://open.spotify.com/artist/2Sc4ukCRllIu02LZfHF0RL
+  url: 'https://open.spotify.com/artist/2Sc4ukCRllIu02LZfHF0RL'
 discography_enriched: true
 top_tracks:
-- Eternal Flame
-- Eternal Flame (Everything)
-- Eternal Flame (Everything)
-- Eternal Flame (Everything)
-- In Your Room (Everything)
-- The Only Thing - feat. Susanna Hoffs (10 Songs)
-- In Your Room (Everything)
-- Eternal Flame
-- Eternal Flame
-- Eternal Flame
+  - Eternal Flame
+  - Eternal Flame (Everything)
+  - Eternal Flame (Everything)
+  - Eternal Flame (Everything)
+  - In Your Room (Everything)
+  - The Only Thing - feat. Susanna Hoffs (10 Songs)
+  - In Your Room (Everything)
+  - Eternal Flame
+  - Eternal Flame
+  - Eternal Flame
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/75936880-d5bd-47a3-b167-00d67c82a6c5
-  spotify: https://open.spotify.com/artist/2Sc4ukCRllIu02LZfHF0RL
-  wikipedia: https://en.wikipedia.org/wiki/Susanna_Hoffs
+  musicbrainz: 'https://musicbrainz.org/artist/75936880-d5bd-47a3-b167-00d67c82a6c5'
+  spotify: 'https://open.spotify.com/artist/2Sc4ukCRllIu02LZfHF0RL'
+  wikipedia: 'https://en.wikipedia.org/wiki/Susanna_Hoffs'
 image_path: 03_Resources/source_material/ArtistPortraits/Susanna_Hoffs.jpg
 biography_enhanced_at: '2025-10-20T02:00:47.841410'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Susanna_Hoffs
-- https://www.susannahoffs.com/bio
-- https://www.imdb.com/name/nm0005015/bio/
-- https://kids.kiddle.co/Susanna_Hoffs
+  - 'https://en.wikipedia.org/wiki/Susanna_Hoffs'
+  - 'https://www.susannahoffs.com/bio'
+  - 'https://www.imdb.com/name/nm0005015/bio/'
+  - 'https://kids.kiddle.co/Susanna_Hoffs'
 network_extracted: true
 entry_created: '2025-10-20T02:00:47.841426'
 last_updated: '2025-12-23T08:16:03.964065'
@@ -82,10 +82,9 @@ gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:44:28.540967'
 musicbrainz_id: 75936880-d5bd-47a3-b167-00d67c82a6c5
 tags:
-- aln-sh
-- glamour rock
-- pop
-
+  - aln-sh
+  - glamour rock
+  - pop
 ---
 
 ![](Susanna_Hoffs.jpg)

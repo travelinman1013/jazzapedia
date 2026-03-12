@@ -1,78 +1,82 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-10T01:17:20.025313'
 birth_date: '1991'
 disambiguation: US rock band
 enhancement_provider: perplexity
 entry_created: '2026-01-10T01:17:20.025319'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d1ab8ca8-fb9f-4e78-a422-3cd5406dc0b1
-  spotify: https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG
-  wikipedia: https://en.wikipedia.org/wiki/The_Jon_Spencer_Blues_Explosion
+  musicbrainz: 'https://musicbrainz.org/artist/d1ab8ca8-fb9f-4e78-a422-3cd5406dc0b1'
+  spotify: 'https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Jon_Spencer_Blues_Explosion'
 genres:
-- garage rock
-- blues rock
-image_path: 03_Resources/source_material/ArtistPortraits/the_jon_spencer_blues_explosion.jpg
+  - garage rock
+  - blues rock
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/the_jon_spencer_blues_explosion.jpg
 instruments:
-- guitar
-- membranophone
-- eponymous
-- lead vocals
+  - guitar
+  - membranophone
+  - eponymous
+  - lead vocals
 last_updated: '2026-01-10T01:17:20.025320'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: 19c21a31-c2f6-446d-b989-f714715a836c
-  name: Judah Bauer
-- begin: ''
-  end: ''
-  instruments:
-  - membranophone
-  mbid: f20a46bf-6f35-4bce-9fbb-b19de6fc3c0b
-  name: Russell Simins
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - guitar
-  - lead vocals
-  mbid: 33fc0741-8594-48a1-8846-584d8502ac80
-  name: Jon Spencer
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 19c21a31-c2f6-446d-b989-f714715a836c
+    name: Judah Bauer
+  - begin: ''
+    end: ''
+    instruments:
+      - membranophone
+    mbid: f20a46bf-6f35-4bce-9fbb-b19de6fc3c0b
+    name: Russell Simins
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - guitar
+      - lead vocals
+    mbid: 33fc0741-8594-48a1-8846-584d8502ac80
+    name: Jon Spencer
 musical_connections:
   collaborators:
-  - Judah Bauer
-  - Russell Simins
-  - R. L. Burnside
+    - Judah Bauer
+    - Russell Simins
+    - R. L. Burnside
   influenced:
-  - Alternative and garage‑punk blues revivalists (e.g., later garage‑blues and punk‑blues
-    bands)
+    - >-
+      Alternative and garage‑punk blues revivalists (e.g., later garage‑blues
+      and punk‑blues bands)
   mentors:
-  - Hound Dog Taylor & the Houserockers
+    - Hound Dog Taylor & the Houserockers
 musicbrainz_id: d1ab8ca8-fb9f-4e78-a422-3cd5406dc0b1
 network_extracted: true
-origin: New York
+origin: 'New York City, New York, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Jon_Spencer_Blues_Explosion
-- https://en.wikipedia.org/wiki/Jon_Spencer
-- https://mokbpresents.com/artist/jon-spencer/
-- https://trouserpress.com/reviews/jon-spencer-blues-explosion/
-- http://jimdero.com/OtherWritings/Spencer.htm
-- https://www.kmuw.org/cultural-shorts/2022-05-03/jon-spencer-rock-n-roll-gave-me-life
-- https://panm360.com/en/interviews-panm360/jon-spencer-has-another-new-band-and-is-ready-to-rock/
+  - 'https://en.wikipedia.org/wiki/The_Jon_Spencer_Blues_Explosion'
+  - 'https://en.wikipedia.org/wiki/Jon_Spencer'
+  - 'https://mokbpresents.com/artist/jon-spencer/'
+  - 'https://trouserpress.com/reviews/jon-spencer-blues-explosion/'
+  - 'http://jimdero.com/OtherWritings/Spencer.htm'
+  - >-
+    https://www.kmuw.org/cultural-shorts/2022-05-03/jon-spencer-rock-n-roll-gave-me-life
+  - >-
+    https://panm360.com/en/interviews-panm360/jon-spencer-has-another-new-band-and-is-ready-to-rock/
 spotify_data:
   followers: 119742
   id: 2NOhotupwYbKRNJF7LMDPG
   popularity: 42
-  url: https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG
+  url: 'https://open.spotify.com/artist/2NOhotupwYbKRNJF7LMDPG'
 status: active
 tags:
-- alternative rock
-- american
-- blues rock
-title: the jon spencer blues explosion
+  - alternative rock
+  - american
+  - blues rock
+title: The Jon Spencer Blues Explosion
 ---
 
 ![](the_jon_spencer_blues_explosion.jpg)

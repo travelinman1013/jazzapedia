@@ -1,22 +1,22 @@
 ---
-title: ETHEL WATERS
+title: Ethel Waters
 wiki_slug: ethel-waters
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1896-10-31'
-birth_place: Chester
+birth_place: 'Chester, Pennsylvania, United States'
 death_date: '1977-09-01'
 genres:
-- ragtime
-- classic blues
-- vocal jazz
+  - ragtime
+  - classic blues
+  - vocal jazz
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: dce5120a-664c-4c63-91e1-e818192fbf31
-  name: Ethel Waters & Her Ebony Four
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: dce5120a-664c-4c63-91e1-e818192fbf31
+    name: Ethel Waters & Her Ebony Four
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ethel_waters.jpg
   caption: ETHEL WATERS
@@ -25,13 +25,13 @@ infobox:
   origin: Chester
   died: '1977-09-01'
 audio_profile:
-  tempo_avg: 108.0
+  tempo_avg: 108
   energy_avg: 0.199
   valence_avg: 0.522
   danceability_avg: 0.559
   acousticness_avg: 0.973
   instrumentalness_avg: 0.016
-  loudness_avg: -13.0
+  loudness_avg: -13
   speechiness_avg: 0.105
   liveness_avg: 0.212
   track_count: 51
@@ -39,58 +39,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Duke Ellington
-  - Benny Goodman
-  - Irving Berlin
-  - Lena Horne
+    - Duke Ellington
+    - Benny Goodman
+    - Irving Berlin
+    - Lena Horne
   influenced:
-  - Lena Horne
-  - Billie Holiday
-  - Ella Fitzgerald
+    - Lena Horne
+    - Billie Holiday
+    - Ella Fitzgerald
   mentors:
-  - Earl Dancer
+    - Earl Dancer
 spotify_data:
   followers: 18196
   id: 3INcDDCxVKMIQT6rfR7kud
   popularity: 27
-  url: https://open.spotify.com/artist/3INcDDCxVKMIQT6rfR7kud
+  url: 'https://open.spotify.com/artist/3INcDDCxVKMIQT6rfR7kud'
 discography_enriched: true
 top_tracks:
-- Baby, What Else Can I Do? (Down In My Soul)
-- I Got Rhythm (Down In My Soul)
-- Don't Blame Me
-- Stormy Weather (Down In My Soul)
-- Stormy Weather
-- Stormy Weather - Alternate Take (Down In My Soul)
-- Heat Wave (The Incomparable Ethel Waters)
-- Baby, What Else Can I Do?
-- Taking A Chance On Love
-- Stormy Weather (Keeps Rainin' All The Time) - 78rpm Version (The Incomparable Ethel Waters)
+  - 'Baby, What Else Can I Do? (Down In My Soul)'
+  - I Got Rhythm (Down In My Soul)
+  - Don't Blame Me
+  - Stormy Weather (Down In My Soul)
+  - Stormy Weather
+  - Stormy Weather - Alternate Take (Down In My Soul)
+  - Heat Wave (The Incomparable Ethel Waters)
+  - 'Baby, What Else Can I Do?'
+  - Taking A Chance On Love
+  - >-
+    Stormy Weather (Keeps Rainin' All The Time) - 78rpm Version (The
+    Incomparable Ethel Waters)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ab55e9c9-d475-4fa5-a903-06ff270b1e75
-  spotify: https://open.spotify.com/artist/3INcDDCxVKMIQT6rfR7kud
-  wikipedia: https://en.wikipedia.org/wiki/Ethel_Waters
+  musicbrainz: 'https://musicbrainz.org/artist/ab55e9c9-d475-4fa5-a903-06ff270b1e75'
+  spotify: 'https://open.spotify.com/artist/3INcDDCxVKMIQT6rfR7kud'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ethel_Waters'
 image_path: 03_Resources/source_material/ArtistPortraits/ethel_waters.jpg
 biography_enhanced_at: '2025-10-23T07:24:16.366471'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.britannica.com/biography/Ethel-Waters
-- https://en.wikipedia.org/wiki/Ethel_Waters
-- https://nmaahc.si.edu/ethel-waters
-- https://legacyprojectchicago.org/person/ethel-waters
-- https://syncopatedtimes.com/ethel-waters-stormy-weather/
-- https://www.americanheritage.com/mother-us-all-0
-- https://www.floridastudiotheatre.org/about-fst/production-history/winter-mainstage/2005-06-winter-mainstage/ethel-waters-his-eye-is-on-the-sparrow
+  - 'https://www.britannica.com/biography/Ethel-Waters'
+  - 'https://en.wikipedia.org/wiki/Ethel_Waters'
+  - 'https://nmaahc.si.edu/ethel-waters'
+  - 'https://legacyprojectchicago.org/person/ethel-waters'
+  - 'https://syncopatedtimes.com/ethel-waters-stormy-weather/'
+  - 'https://www.americanheritage.com/mother-us-all-0'
+  - >-
+    https://www.floridastudiotheatre.org/about-fst/production-history/winter-mainstage/2005-06-winter-mainstage/ethel-waters-his-eye-is-on-the-sparrow
 network_extracted: true
 entry_created: '2025-10-23T07:24:16.366483'
 last_updated: '2025-12-23T08:16:01.840565'
 gender: Female
 musicbrainz_id: ab55e9c9-d475-4fa5-a903-06ff270b1e75
 tags:
-- jazz
-- swing
-- vocal jazz
+  - jazz
+  - swing
+  - vocal jazz
+is_active: false
 ---
 
 ![](ethel_waters.jpg)

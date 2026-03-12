@@ -1,17 +1,17 @@
 ---
-title: marion williams
+title: Marion Williams
 wiki_slug: marion-williams
 schema_version: 2
 status: active
-birth_place: Miami, Florida, United States
+birth_place: 'Miami, Florida, United States'
 genres:
-- gospel
-- soul blues
+  - gospel
+  - soul blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/marion_williams.jpg
   caption: marion williams
   background: solo_singer
-  origin: Miami, Florida, United States
+  origin: 'Miami, Florida, United States'
 audio_profile:
   tempo_avg: 117.4
   energy_avg: 0.396
@@ -27,50 +27,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Clara Ward Singers
-  - Stars of Faith
-  - Anthony Heilbut
+    - Clara Ward Singers
+    - Stars of Faith
+    - Anthony Heilbut
   influenced:
-  - Little Richard
-  - Aretha Franklin
+    - Little Richard
+    - Aretha Franklin
   mentors:
-  - Sister Rosetta Tharpe
-  - Mary Johnson Davis
-  - Smith Jubilee Singers
+    - Sister Rosetta Tharpe
+    - Mary Johnson Davis
+    - Smith Jubilee Singers
 spotify_data:
   followers: 8447
   id: 2GY4RFo6kGTLQP4UY5OLN3
   popularity: 19
-  url: https://open.spotify.com/artist/2GY4RFo6kGTLQP4UY5OLN3
+  url: 'https://open.spotify.com/artist/2GY4RFo6kGTLQP4UY5OLN3'
 discography_enriched: true
 top_tracks:
-- I'll Fly Away (The Gospel Soul of Marion Williams)
-- Cool Down Yonder (Born To Sing The Gospel)
-- I Shall Be Released (The New Message)
-- Talk About Jesus
-- HE AIN'T HEAVY, HE'S MY BROTHER (Standing Here Wondering Which Way To Go)
-- Take My Hand, Precious Lord (with Marion Williams) (Precious Lord Recordings Of The Great Gospel Songs Of Thomas A. Dorsey)
-- Around God's Throne (The New Message)
-- What Could I Do If It Wasn't For The Lord (with Marion Williams) (Precious Lord Recordings Of The Great Gospel Songs Of
-  Thomas A. Dorsey)
-- Will the Circle Be Unbroken (The New Message)
-- I Pity the Poor Immigrant (The New Message)
+  - I'll Fly Away (The Gospel Soul of Marion Williams)
+  - Cool Down Yonder (Born To Sing The Gospel)
+  - I Shall Be Released (The New Message)
+  - Talk About Jesus
+  - 'HE AIN''T HEAVY, HE''S MY BROTHER (Standing Here Wondering Which Way To Go)'
+  - >-
+    Take My Hand, Precious Lord (with Marion Williams) (Precious Lord Recordings
+    Of The Great Gospel Songs Of Thomas A. Dorsey)
+  - Around God's Throne (The New Message)
+  - >-
+    What Could I Do If It Wasn't For The Lord (with Marion Williams) (Precious
+    Lord Recordings Of The Great Gospel Songs Of Thomas A. Dorsey)
+  - Will the Circle Be Unbroken (The New Message)
+  - I Pity the Poor Immigrant (The New Message)
 external_urls:
-  spotify: https://open.spotify.com/artist/2GY4RFo6kGTLQP4UY5OLN3
+  spotify: 'https://open.spotify.com/artist/2GY4RFo6kGTLQP4UY5OLN3'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/marion_williams.jpg
 biography_enhanced_at: '2025-12-12T12:12:51.076007'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.macfound.org/fellows/class-of-1993/marion-williams
-- https://www.philadelphiamusicalliance.org/walk-of-fame/marion-williams/
-- https://godsmusicismylife.substack.com/p/the-legendary-marion-williams
-- https://wbssmedia.com/artists/detail/2061
-- https://blackpast.org/african-american-history/williams-marion-1927-1994/
+  - 'https://www.macfound.org/fellows/class-of-1993/marion-williams'
+  - 'https://www.philadelphiamusicalliance.org/walk-of-fame/marion-williams/'
+  - 'https://godsmusicismylife.substack.com/p/the-legendary-marion-williams'
+  - 'https://wbssmedia.com/artists/detail/2061'
+  - 'https://blackpast.org/african-american-history/williams-marion-1927-1994/'
 network_extracted: true
 entry_created: '2025-12-12T12:12:51.076019'
 last_updated: '2025-12-23T08:16:12.683448'
+birth_date: '1927-08-29'
+artist_type: person
 ---
 
 ![](marion_williams.jpg)

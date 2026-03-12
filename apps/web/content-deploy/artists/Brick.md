@@ -4,13 +4,13 @@ wiki_slug: brick
 schema_version: 2
 status: active
 genres:
-- funk
+  - funk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Brick.jpg
   caption: Brick
   background: solo_singer
 audio_profile:
-  tempo_avg: 114.0
+  tempo_avg: 114
   energy_avg: 0.741
   valence_avg: 0.827
   danceability_avg: 0.742
@@ -24,50 +24,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jimmy Brown
-  - Ray Ransom
-  - Regi Hargis Hickman
-  - Eddie Irons
-  - Ray Parker Jr.
-  - Donald Nevins
+    - Jimmy Brown
+    - Ray Ransom
+    - Regi Hargis Hickman
+    - Eddie Irons
+    - Ray Parker Jr.
+    - Donald Nevins
   influenced:
-  - Kid 'N Play
-  - Kinsman Dazz (later Dazz Band)
+    - Kid 'N Play
+    - Kinsman Dazz (later Dazz Band)
   mentors: []
 spotify_data:
   followers: 186237
   id: 4Uv0Jg45Oq7vBXXwQNhXyf
   popularity: 36
-  url: https://open.spotify.com/artist/4Uv0Jg45Oq7vBXXwQNhXyf
+  url: 'https://open.spotify.com/artist/4Uv0Jg45Oq7vBXXwQNhXyf'
 discography_enriched: true
 top_tracks:
-- Dazz - Single Version (Super Hits)
-- Ain't Gonna Hurt Nobody (Brick (Expanded Edition))
-- Dazz - Dazz Disco Mix (Good High (Expanded Edition))
-- Dusic (Super Hits)
-- Ain't Gonna Hurt Nobody
-- Living from the Mind (Brick (Expanded Edition))
-- Southern Sunset (Good High (Expanded Edition))
-- Push Push (Super Hits)
-- Good High (Good High (Expanded Edition))
-- Happy (Brick (Expanded Edition))
+  - Dazz - Single Version (Super Hits)
+  - Ain't Gonna Hurt Nobody (Brick (Expanded Edition))
+  - Dazz - Dazz Disco Mix (Good High (Expanded Edition))
+  - Dusic (Super Hits)
+  - Ain't Gonna Hurt Nobody
+  - Living from the Mind (Brick (Expanded Edition))
+  - Southern Sunset (Good High (Expanded Edition))
+  - Push Push (Super Hits)
+  - Good High (Good High (Expanded Edition))
+  - Happy (Brick (Expanded Edition))
 external_urls:
-  spotify: https://open.spotify.com/artist/4Uv0Jg45Oq7vBXXwQNhXyf
+  spotify: 'https://open.spotify.com/artist/4Uv0Jg45Oq7vBXXwQNhXyf'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/Brick.jpg
 biography_enhanced_at: '2025-10-20T09:24:01.241632'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Last.fm
-- AllMusic
-- Soul Years
-- YouTube documentary 'The PIONEERS Of Disco-Funk | The Untold Truth Of Brick'
-- Creative Loafing Atlanta
+  - Last.fm
+  - AllMusic
+  - Soul Years
+  - YouTube documentary 'The PIONEERS Of Disco-Funk | The Untold Truth Of Brick'
+  - Creative Loafing Atlanta
 network_extracted: true
 entry_created: '2025-10-20T09:24:01.241637'
 last_updated: '2025-12-23T08:16:01.366906'
-origin: Atlanta, Georgia, United States
+origin: 'Atlanta, Georgia, United States'
+artist_type: band
 ---
 
 ![](Brick.jpg)

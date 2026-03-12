@@ -3,43 +3,52 @@ biography_enhanced_at: '2025-12-30T01:25:59.383225'
 enhancement_provider: perplexity
 entry_created: '2025-12-30T01:25:59.383231'
 external_urls:
-  spotify: https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi
-  wikipedia: https://en.wikipedia.org/wiki/Seven_Spanish_Angels
+  spotify: 'https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi'
+  wikipedia: 'https://en.wikipedia.org/wiki/Seven_Spanish_Angels'
 genres:
-- jazz blues
-- soul
-- soul blues
-- blues
-- vocal jazz
+  - jazz blues
+  - soul
+  - soul blues
+  - blues
+  - vocal jazz
 image_path: 03_Resources/source_material/ArtistPortraits/ray_charles_and_willie_nelson.jpg
 last_updated: '2025-12-30T01:25:59.383232'
 musical_connections:
   collaborators:
-  - Troy Seals and Eddie Setser
-  - Billy Sherrill
-  - Tom Russell
+    - Troy Seals and Eddie Setser
+    - Billy Sherrill
+    - Tom Russell
   influenced:
-  - Ronnie Milsap
-  - Alison Krauss and Jamey Johnson
+    - Ronnie Milsap
+    - Alison Krauss and Jamey Johnson
   mentors:
-  - Marty Robbins
+    - Marty Robbins
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://finch-mauve-rk3e.squarespace.com/willies-austin/willie-nelson-ray-charles-the-untold-story-behind-their-iconic-duet-seven-spanish-angels
-- https://americansongwriter.com/willie-nelsons-all-star-musical-collaboration-on-song-for-you-and-the-trios-iconic-performance-for-willies-70th-birthday/
-- https://www.wideopencountry.com/revisiting-the-legacy-of-willie-nelson-and-ray-charles-seven-spanish-angels/
-- https://www.countryuniverse.net/2020/07/30/sing-one-with-willie-seven-spanish-angels-aint-life-hell/
-- https://www.countrythangdaily.com/willie-nelson-seven-spanish-angels/
-- https://en.wikipedia.org/wiki/Seven_Spanish_Angels
+  - >-
+    https://finch-mauve-rk3e.squarespace.com/willies-austin/willie-nelson-ray-charles-the-untold-story-behind-their-iconic-duet-seven-spanish-angels
+  - >-
+    https://americansongwriter.com/willie-nelsons-all-star-musical-collaboration-on-song-for-you-and-the-trios-iconic-performance-for-willies-70th-birthday/
+  - >-
+    https://www.wideopencountry.com/revisiting-the-legacy-of-willie-nelson-and-ray-charles-seven-spanish-angels/
+  - >-
+    https://www.countryuniverse.net/2020/07/30/sing-one-with-willie-seven-spanish-angels-aint-life-hell/
+  - 'https://www.countrythangdaily.com/willie-nelson-seven-spanish-angels/'
+  - 'https://en.wikipedia.org/wiki/Seven_Spanish_Angels'
 spotify_data:
   followers: 2678696
   id: 1eYhYunlNJlDoQhtYBvPsi
   popularity: 71
-  url: https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi
+  url: 'https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi'
 status: active
-title: RAY CHARLES AND WILLIE NELSON
-
+title: Ray Charles and Willie Nelson
+birth_place: 'Albany, Georgia, United States'
+origin: >-
+  Multiple (Ray Charles: Albany, Georgia, USA; Willie Nelson: Abbott, Texas,
+  USA)
+birth_date: '1930'
+artist_type: band
 ---
 
 ![](ray_charles_and_willie_nelson.jpg)

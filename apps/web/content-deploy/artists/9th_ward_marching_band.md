@@ -3,34 +3,35 @@ biography_enhanced_at: '2026-01-10T01:15:48.878931'
 enhancement_provider: perplexity
 entry_created: '2026-01-10T01:15:48.878937'
 external_urls:
-  spotify: https://open.spotify.com/artist/70Bmd6BNvLs7BbhZOww6l3
+  spotify: 'https://open.spotify.com/artist/70Bmd6BNvLs7BbhZOww6l3'
   wikipedia: ''
 genres:
-- brass band
+  - brass band
 image_path: 03_Resources/source_material/ArtistPortraits/9th_ward_marching_band.jpg
 last_updated: '2026-01-10T01:15:48.878938'
 musical_connections:
   collaborators:
-  - Quintron (Mr. Quintron)
-  - Miss Pussycat
-  - Ninth Ward underground music community (various local bands and artists)
+    - Quintron (Mr. Quintron)
+    - Miss Pussycat
+    - Ninth Ward underground music community (various local bands and artists)
   influenced: []
   mentors:
-  - Traditional New Orleans brass bands and second‑line parade culture
+    - Traditional New Orleans brass bands and second‑line parade culture
 network_extracted: true
-origin: Lower Ninth Ward, New Orleans, Louisiana, United States
+origin: 'Lower Ninth Ward, New Orleans, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- http://www.quintronandmisspussycat.com/marchingband.html
-- http://www.newyorknighttrain.com/zine/issues/3/neworleansintro.html
-- http://www.newyorknighttrain.com/zine/issues/3/neworleansintro2.html
+  - 'http://www.quintronandmisspussycat.com/marchingband.html'
+  - 'http://www.newyorknighttrain.com/zine/issues/3/neworleansintro.html'
+  - 'http://www.newyorknighttrain.com/zine/issues/3/neworleansintro2.html'
 spotify_data:
   followers: 201
   id: 70Bmd6BNvLs7BbhZOww6l3
   popularity: 5
-  url: https://open.spotify.com/artist/70Bmd6BNvLs7BbhZOww6l3
+  url: 'https://open.spotify.com/artist/70Bmd6BNvLs7BbhZOww6l3'
 status: active
-title: 9th ward marching band
+title: 9th Ward Marching Band
+artist_type: band
 ---
 
 ![](9th_ward_marching_band.jpg)

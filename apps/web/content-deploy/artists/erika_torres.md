@@ -3,13 +3,13 @@ title: Erika Torres
 wiki_slug: erika-torres
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/erika_torres.jpg
   caption: Erika Torres
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: null
   energy_avg: null
@@ -21,33 +21,36 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Local New Orleans Musicians
+    - Local New Orleans Musicians
   influenced:
-  - Music Students in New Orleans
+    - Music Students in New Orleans
   mentors:
-  - Unnamed New Orleans Jazz Instructors
+    - Unnamed New Orleans Jazz Instructors
 spotify_data:
   followers: 625
   id: 0xrFZrg1tvjDcV345KTECp
   popularity: 19
-  url: https://open.spotify.com/artist/0xrFZrg1tvjDcV345KTECp
+  url: 'https://open.spotify.com/artist/0xrFZrg1tvjDcV345KTECp'
 discography_enriched: false
 external_urls:
-  spotify: https://open.spotify.com/artist/0xrFZrg1tvjDcV345KTECp
+  spotify: 'https://open.spotify.com/artist/0xrFZrg1tvjDcV345KTECp'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/erika_torres.jpg
 biography_enhanced_at: '2025-11-20T07:37:41.669665'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.goatheadrecords.com/post/erika-torres-from-new-orleans-stages-to-youtube-stardom
-- https://soundbetter.com/profiles/671493-erika-torres
-- https://www.instagram.com/erika.torres._/?hl=en
-- https://www.lyricalodyssey.com/2025/11/erika-torres-celebrates-abundance-with.html
-- https://distributionstrategy.com/author/erika-torres/
+  - >-
+    https://www.goatheadrecords.com/post/erika-torres-from-new-orleans-stages-to-youtube-stardom
+  - 'https://soundbetter.com/profiles/671493-erika-torres'
+  - 'https://www.instagram.com/erika.torres._/?hl=en'
+  - >-
+    https://www.lyricalodyssey.com/2025/11/erika-torres-celebrates-abundance-with.html
+  - 'https://distributionstrategy.com/author/erika-torres/'
 network_extracted: true
 entry_created: '2025-11-20T07:37:41.669677'
 last_updated: '2025-12-23T08:07:25.891708'
+artist_type: person
 ---
 
 ![](erika_torres.jpg)

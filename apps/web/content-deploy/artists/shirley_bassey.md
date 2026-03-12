@@ -5,12 +5,12 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1937-01-08'
-birth_place: Cardiff
+birth_place: 'Cardiff, Wales, United Kingdom'
 genres:
-- easy listening
+  - easy listening
 instruments:
-- lead vocals
-- background vocals
+  - lead vocals
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/shirley_bassey.jpg
   caption: Shirley Bassey
@@ -32,45 +32,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Johnny Franz
-  - Propellerheads
-  - Gary Barlow, Pet Shop Boys
+    - Johnny Franz
+    - Propellerheads
+    - 'Gary Barlow, Pet Shop Boys'
   influenced:
-  - Aretha Franklin
-  - Numerous contemporary British and international vocalists
+    - Aretha Franklin
+    - Numerous contemporary British and international vocalists
   mentors:
-  - Jack Hylton
+    - Jack Hylton
 spotify_data:
   followers: 307644
   id: 090VebphoycdEyH165iMqc
   popularity: 52
-  url: https://open.spotify.com/artist/090VebphoycdEyH165iMqc
+  url: 'https://open.spotify.com/artist/090VebphoycdEyH165iMqc'
 discography_enriched: true
 top_tracks:
-- (Where Do I Begin) Love Story - 1994 Remaster (Something Else)
-- Diamonds Are Forever (Let Me Sing and I'm Happy)
-- Never, Never, Never (Grande, Grande, Grande) (Never, Never, Never)
-- History Repeating - Knee Length Mix (Decksandrumsandrockandroll 20th anniversary)
-- Goldfinger
-- Moonraker
-- Light My Fire - 1994 Remaster (Something)
-- 'Goldfinger - Propellerheads Mix (The Remix Album: Diamonds Are Forever)'
-- Yesterday, When I Was Young - 1994 Remaster (Something)
-- Jezahel - 2000 Remaster (And I Love You So)
+  - (Where Do I Begin) Love Story - 1994 Remaster (Something Else)
+  - Diamonds Are Forever (Let Me Sing and I'm Happy)
+  - 'Never, Never, Never (Grande, Grande, Grande) (Never, Never, Never)'
+  - >-
+    History Repeating - Knee Length Mix (Decksandrumsandrockandroll 20th
+    anniversary)
+  - Goldfinger
+  - Moonraker
+  - Light My Fire - 1994 Remaster (Something)
+  - 'Goldfinger - Propellerheads Mix (The Remix Album: Diamonds Are Forever)'
+  - 'Yesterday, When I Was Young - 1994 Remaster (Something)'
+  - Jezahel - 2000 Remaster (And I Love You So)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/05ec70a5-3858-4346-a649-fda0a297b8c1
-  spotify: https://open.spotify.com/artist/090VebphoycdEyH165iMqc
-  wikipedia: https://en.wikipedia.org/wiki/Shirley_Bassey
+  musicbrainz: 'https://musicbrainz.org/artist/05ec70a5-3858-4346-a649-fda0a297b8c1'
+  spotify: 'https://open.spotify.com/artist/090VebphoycdEyH165iMqc'
+  wikipedia: 'https://en.wikipedia.org/wiki/Shirley_Bassey'
 image_path: 03_Resources/source_material/ArtistPortraits/shirley_bassey.jpg
 biography_enhanced_at: '2025-11-20T07:12:01.923165'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.blackhistorymonth.org.uk/article/section/inspirational-women/dame-shirley-bassey-an-iconic-voice/
-- https://kids.kiddle.co/Shirley_Bassey
-- https://www.britannica.com/biography/Shirley-Bassey
-- https://www.imdb.com/name/nm0060259/bio/
-- https://wbssmedia.com/artists/detail/3385
+  - >-
+    https://www.blackhistorymonth.org.uk/article/section/inspirational-women/dame-shirley-bassey-an-iconic-voice/
+  - 'https://kids.kiddle.co/Shirley_Bassey'
+  - 'https://www.britannica.com/biography/Shirley-Bassey'
+  - 'https://www.imdb.com/name/nm0060259/bio/'
+  - 'https://wbssmedia.com/artists/detail/3385'
 network_extracted: true
 entry_created: '2025-11-20T07:12:01.923172'
 last_updated: '2025-12-23T08:16:15.587304'
@@ -78,9 +81,9 @@ disambiguation: Welsh singer
 gender: Female
 musicbrainz_id: 05ec70a5-3858-4346-a649-fda0a297b8c1
 tags:
-- big band
-- british
-- classic rock
+  - big band
+  - british
+  - classic rock
 ---
 
 ![](shirley_bassey.jpg)

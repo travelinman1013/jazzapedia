@@ -2,7 +2,7 @@
 title: The Dinning Sisters
 wiki_slug: the-dinning-sisters
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres: []
 infobox:
@@ -24,60 +24,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jayne Bundesen
-  - Dolores "Tootsie" Dinning
-  - The Jordanaires
+    - Jayne Bundesen
+    - Dolores "Tootsie" Dinning
+    - The Jordanaires
   influenced:
-  - The Nashville Edition
-  - Mark Dinning
+    - The Nashville Edition
+    - Mark Dinning
   mentors:
-  - The Boswell Sisters
+    - The Boswell Sisters
 spotify_data:
   followers: 1204
   id: 7lGYu24LHAMZYqarrWHz8h
   popularity: 17
-  url: https://open.spotify.com/artist/7lGYu24LHAMZYqarrWHz8h
+  url: 'https://open.spotify.com/artist/7lGYu24LHAMZYqarrWHz8h'
 discography_enriched: true
 top_tracks:
-- Streamlined Cannonball (Vintage Collections)
-- Blue Christmas
-- Shine on Harvest Moon (Fun and Fancy Free)
-- Christmas Island - Remastered 1997
-- Fun And Fancy Free (Fun and Fancy Free)
-- Fun And Fancy Free
-- Please Don't Talk About Me
-- Where Or When - 1992 - Remaster
-- Shine on Harvest Moon (Almost Sweet and Gentle)
-- Blue Christmas
+  - Streamlined Cannonball (Vintage Collections)
+  - Blue Christmas
+  - Shine on Harvest Moon (Fun and Fancy Free)
+  - Christmas Island - Remastered 1997
+  - Fun And Fancy Free (Fun and Fancy Free)
+  - Fun And Fancy Free
+  - Please Don't Talk About Me
+  - Where Or When - 1992 - Remaster
+  - Shine on Harvest Moon (Almost Sweet and Gentle)
+  - Blue Christmas
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7f6a2952-b7cf-4951-8264-0566ded34c7b
-  spotify: https://open.spotify.com/artist/7lGYu24LHAMZYqarrWHz8h
-  wikipedia: https://en.wikipedia.org/wiki/The_Dinning_Sisters
+  musicbrainz: 'https://musicbrainz.org/artist/7f6a2952-b7cf-4951-8264-0566ded34c7b'
+  spotify: 'https://open.spotify.com/artist/7lGYu24LHAMZYqarrWHz8h'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Dinning_Sisters'
 image_path: 03_Resources/source_material/ArtistPortraits/the_dinning_sisters.jpg
 biography_enhanced_at: '2025-11-08T21:48:52.190013'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Dinning_Sisters
-- https://www.okhistory.org/publications/enc/entry?entry=DI013
-- https://www.allmusic.com/artist/the-dinning-sisters-mn0000150686
-- https://www.allaboutjazz.com/musicians/the-dinning-sisters/
+  - 'https://en.wikipedia.org/wiki/The_Dinning_Sisters'
+  - 'https://www.okhistory.org/publications/enc/entry?entry=DI013'
+  - 'https://www.allmusic.com/artist/the-dinning-sisters-mn0000150686'
+  - 'https://www.allaboutjazz.com/musicians/the-dinning-sisters/'
 network_extracted: true
 entry_created: '2025-11-08T21:48:52.190028'
 last_updated: '2025-12-23T08:16:16.726974'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8aab5d03-638a-4c04-9f79-a1b8552574c8
-  name: Jean Dinning
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b071fc2b-bf1f-4993-a2b8-cb2785eafe64
-  name: Lou Dinning
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8aab5d03-638a-4c04-9f79-a1b8552574c8
+    name: Jean Dinning
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b071fc2b-bf1f-4993-a2b8-cb2785eafe64
+    name: Lou Dinning
 musicbrainz_id: 7f6a2952-b7cf-4951-8264-0566ded34c7b
-origin: Caldwell, Kansas, United States
+origin: 'Caldwell, Kansas, United States'
+birth_place: 'Caldwell, Kansas, United States'
 ---
 
 ![](the_dinning_sisters.jpg)

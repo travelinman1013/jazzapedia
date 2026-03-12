@@ -4,8 +4,8 @@ wiki_slug: the-esquires
 schema_version: 2
 status: active
 genres:
-- northern soul
-- doo-wop
+  - northern soul
+  - doo-wop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_esquires.jpg
   caption: The Esquires
@@ -25,47 +25,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Don Norman
-  - Bruce Cockburn
-  - Brian 'Lewis' Lewicki
-  - Gary Comeau
+    - Don Norman
+    - Bruce Cockburn
+    - Brian 'Lewis' Lewicki
+    - Gary Comeau
   influenced:
-  - The Staccatos / Five Man Electrical Band
-  - Bruce Cockburn
+    - The Staccatos / Five Man Electrical Band
+    - Bruce Cockburn
   mentors:
-  - Cliff Richard and the Shadows
+    - Cliff Richard and the Shadows
 spotify_data:
   followers: 2251
   id: 4dNs4gsyisVixgpkjyvD8D
   popularity: 14
-  url: https://open.spotify.com/artist/4dNs4gsyisVixgpkjyvD8D
+  url: 'https://open.spotify.com/artist/4dNs4gsyisVixgpkjyvD8D'
 discography_enriched: true
 top_tracks:
-- Get On Up (Get On Up And Get Away)
-- Get On Up (Get On Up)
-- And Get Away (Get On Up And Get Away)
-- Sadie's Ways
-- I Fell in Love
-- Listen to Me (Get on up and Get Away)
-- Why Must I Love You
-- Get on Up - Stereo Single Version (Ultimate Oldies & Goodies - One Hit Wonders of the 50s & 60s)
-- Get on Up (Rerecorded)
-- Muista minua
+  - Get On Up (Get On Up And Get Away)
+  - Get On Up (Get On Up)
+  - And Get Away (Get On Up And Get Away)
+  - Sadie's Ways
+  - I Fell in Love
+  - Listen to Me (Get on up and Get Away)
+  - Why Must I Love You
+  - >-
+    Get on Up - Stereo Single Version (Ultimate Oldies & Goodies - One Hit
+    Wonders of the 50s & 60s)
+  - Get on Up (Rerecorded)
+  - Muista minua
 external_urls:
-  spotify: https://open.spotify.com/artist/4dNs4gsyisVixgpkjyvD8D
-  wikipedia: https://en.wikipedia.org/wiki/The_Esquires_(Canadian_band)
+  spotify: 'https://open.spotify.com/artist/4dNs4gsyisVixgpkjyvD8D'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Esquires_(Canadian_band)'
 image_path: 03_Resources/source_material/ArtistPortraits/the_esquires.jpg
 biography_enhanced_at: '2025-11-16T20:23:34.865907'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Esquires_(Canadian_band)
-- https://www.angelfire.com/band/canadasEsquires/biopage.html
+  - 'https://en.wikipedia.org/wiki/The_Esquires_(Canadian_band)'
+  - 'https://www.angelfire.com/band/canadasEsquires/biopage.html'
 network_extracted: true
 entry_created: '2025-11-16T20:23:34.865914'
 last_updated: '2025-12-23T08:16:16.755466'
-origin: Ottawa, Ontario, Canada
-
+origin: 'Ottawa, Ontario, Canada'
+artist_type: band
 ---
 
 ![](the_esquires.jpg)

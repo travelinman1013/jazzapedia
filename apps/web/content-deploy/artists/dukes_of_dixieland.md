@@ -1,12 +1,12 @@
 ---
-title: Dukes of Dixieland
+title: The Dukes of Dixieland
 wiki_slug: dukes-of-dixieland
 schema_version: 2
 status: active
 genres:
-- alt country
-- americana
-- red dirt
+  - alt country
+  - americana
+  - red dirt
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/dukes_of_dixieland.jpg
   caption: Dukes of Dixieland
@@ -17,8 +17,8 @@ audio_profile:
   valence_avg: 0.651
   danceability_avg: 0.527
   acousticness_avg: 0.211
-  instrumentalness_avg: 0.0
-  loudness_avg: -12.0
+  instrumentalness_avg: 0
+  loudness_avg: -12
   speechiness_avg: 0.033
   liveness_avg: 0.134
   track_count: 50
@@ -26,52 +26,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Connie Jones
-  - Frank Assunto
-  - Fred Assunto
-  - Mike Vax
-  - Frank Trapani
-  - John Shoup
+    - Connie Jones
+    - Frank Assunto
+    - Fred Assunto
+    - Mike Vax
+    - Frank Trapani
+    - John Shoup
   influenced: []
   mentors:
-  - Pete Fountain
+    - Pete Fountain
 spotify_data:
   followers: 70
   id: 5rS5UcdgRCbX9zEusBmEnd
   popularity: 33
-  url: https://open.spotify.com/artist/5rS5UcdgRCbX9zEusBmEnd
+  url: 'https://open.spotify.com/artist/5rS5UcdgRCbX9zEusBmEnd'
 discography_enriched: true
 top_tracks:
-- Nowhere Road - From "Black Dog" Soundtrack (Exit 0)
-- I Ain't Ever Satisfied (Exit 0)
-- Sweet Little '66 (Exit 0)
-- The Rain Came Down (Exit 0)
-- Angry Young Man (Exit 0)
-- It's All Up To You (Exit 0)
-- Nowhere Road (Essential Steve Earle)
-- No. 29 (Exit 0)
-- The Week Of Living Dangerously (Exit 0)
-- San Antonio Girl (Exit 0)
+  - Nowhere Road - From "Black Dog" Soundtrack (Exit 0)
+  - I Ain't Ever Satisfied (Exit 0)
+  - Sweet Little '66 (Exit 0)
+  - The Rain Came Down (Exit 0)
+  - Angry Young Man (Exit 0)
+  - It's All Up To You (Exit 0)
+  - Nowhere Road (Essential Steve Earle)
+  - No. 29 (Exit 0)
+  - The Week Of Living Dangerously (Exit 0)
+  - San Antonio Girl (Exit 0)
 external_urls:
-  spotify: https://open.spotify.com/artist/5rS5UcdgRCbX9zEusBmEnd
+  spotify: 'https://open.spotify.com/artist/5rS5UcdgRCbX9zEusBmEnd'
   wikipedia: ''
 image_path: ''
 biography_enhanced_at: '2025-12-14T01:45:22.237276'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://dukesofdixieland.com/biographies
-- https://dukesofdixieland.com/dukes-history
-- https://syncopatedtimes.com/the-dukes-of-dixieland-profiles-in-jazz/
-- https://www.assuntodukestribute.com/the-beginning/
-- http://www.websitesneworleans.com/legendarylocalsofmetairie/assuntos_dukesof_dixieland.html
-- https://adp.library.ucsb.edu/index.php/talent/refer/154472
-- https://jazztimes.com/artists/dukes-of-dixieland
+  - 'https://dukesofdixieland.com/biographies'
+  - 'https://dukesofdixieland.com/dukes-history'
+  - 'https://syncopatedtimes.com/the-dukes-of-dixieland-profiles-in-jazz/'
+  - 'https://www.assuntodukestribute.com/the-beginning/'
+  - >-
+    http://www.websitesneworleans.com/legendarylocalsofmetairie/assuntos_dukesof_dixieland.html
+  - 'https://adp.library.ucsb.edu/index.php/talent/refer/154472'
+  - 'https://jazztimes.com/artists/dukes-of-dixieland'
 network_extracted: true
 entry_created: '2025-12-14T01:45:22.237299'
 last_updated: '2025-12-23T08:16:08.080311'
-origin: New Orleans, Louisiana, USA
-
+origin: 'New Orleans, Louisiana, USA'
+artist_type: band
 ---
 
 ![]()

@@ -5,29 +5,29 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1935-09-29'
-birth_place: Ferriday
+birth_place: 'Ferriday, Louisiana, United States'
 death_date: '2022-10-28'
 genres:
-- rockabilly
-- rock and roll
-- boogie-woogie
+  - rockabilly
+  - rock and roll
+  - boogie-woogie
 instruments:
-- piano
-- spoken vocals
-- lead vocals
-- other vocals
-associated_acts:
-- begin: '1956-12-11'
-  end: '1956-12-11'
-  instruments:
   - piano
-  mbid: 8c3fd084-ee3f-4c36-b370-87a5a65853c7
-  name: The Little Green Men
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: fe94cef8-b6ee-4a1e-9ca4-c2aafc982dcf
-  name: Class Of '55
+  - spoken vocals
+  - lead vocals
+  - other vocals
+associated_acts:
+  - begin: '1956-12-11'
+    end: '1956-12-11'
+    instruments:
+      - piano
+    mbid: 8c3fd084-ee3f-4c36-b370-87a5a65853c7
+    name: The Little Green Men
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: fe94cef8-b6ee-4a1e-9ca4-c2aafc982dcf
+    name: Class Of '55
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jerry_lee_lewis.jpg
   caption: Jerry Lee Lewis
@@ -50,59 +50,66 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sam Phillips and Sun Records musicians
-  - Carl Perkins, Elvis Presley, and Johnny Cash (the “Million Dollar Quartet”)
-  - Mickey Gilley and Jimmy Swaggart
+    - Sam Phillips and Sun Records musicians
+    - >-
+      Carl Perkins, Elvis Presley, and Johnny Cash (the “Million Dollar
+      Quartet”)
+    - Mickey Gilley and Jimmy Swaggart
   influenced:
-  - Elton John
-  - Bruce Springsteen
-  - Countless rockabilly and country‑rock artists
+    - Elton John
+    - Bruce Springsteen
+    - Countless rockabilly and country‑rock artists
   mentors:
-  - Local Black blues and boogie‑woogie musicians at Haney’s Big House
-  - Pentecostal preachers and church musicians
-  - Country and popular singers such as Jimmie Rodgers, Hank Williams, and Al Jolson
+    - Local Black blues and boogie‑woogie musicians at Haney’s Big House
+    - Pentecostal preachers and church musicians
+    - >-
+      Country and popular singers such as Jimmie Rodgers, Hank Williams, and Al
+      Jolson
 spotify_data:
   followers: 1012719
   id: 2zyz0VJqrDXeFDIyrfVXSo
   popularity: 57
-  url: https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo
+  url: 'https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo'
 discography_enriched: true
 top_tracks:
-- Great Balls Of Fire (Jerry Lee's Greatest)
-- Great Balls Of Fire
-- Whole Lotta Shakin' Going On - Remastered 2022 (The Killer Keys Of Jerry Lee Lewis (Sun Records 70th / Remastered 2022))
-- Great Balls Of Fire - 1964 Version (The Golden Rock Hits Of Jerry Lee Lewis)
-- Wild One (Collector's Edition)
-- High School Confidential (Jerry Lee Lewis)
-- Waymore's Blues
-- Great Balls Of Fire - 1964 Version (Rock N' Roll Legends)
-- Chantilly Lace (The "Killer" Rocks On)
-- Whole Lot Of Shakin' Going On - Single Version
+  - Great Balls Of Fire (Jerry Lee's Greatest)
+  - Great Balls Of Fire
+  - >-
+    Whole Lotta Shakin' Going On - Remastered 2022 (The Killer Keys Of Jerry Lee
+    Lewis (Sun Records 70th / Remastered 2022))
+  - Great Balls Of Fire - 1964 Version (The Golden Rock Hits Of Jerry Lee Lewis)
+  - Wild One (Collector's Edition)
+  - High School Confidential (Jerry Lee Lewis)
+  - Waymore's Blues
+  - Great Balls Of Fire - 1964 Version (Rock N' Roll Legends)
+  - Chantilly Lace (The "Killer" Rocks On)
+  - Whole Lot Of Shakin' Going On - Single Version
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b59ac58d-036e-4bba-8112-c32a34c4575b
-  spotify: https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo
-  wikipedia: https://en.wikipedia.org/wiki/Jerry_Lee_Lewis
+  musicbrainz: 'https://musicbrainz.org/artist/b59ac58d-036e-4bba-8112-c32a34c4575b'
+  spotify: 'https://open.spotify.com/artist/2zyz0VJqrDXeFDIyrfVXSo'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jerry_Lee_Lewis'
 image_path: 03_Resources/source_material/ArtistPortraits/jerry_lee_lewis.jpg
 biography_enhanced_at: '2025-12-06T05:42:55.286524'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jerry_Lee_Lewis
-- https://www.britannica.com/biography/Jerry-Lee-Lewis
-- https://www.biography.com/musicians/jerry-lee-lewis
-- https://sunrecords.com/artists/jerry-lewis/
-- https://64parishes.org/entry/jerry-lee-lewis-2
-- https://www.countrymusichalloffame.org/hall-of-fame/jerry-lee-lewis
+  - 'https://en.wikipedia.org/wiki/Jerry_Lee_Lewis'
+  - 'https://www.britannica.com/biography/Jerry-Lee-Lewis'
+  - 'https://www.biography.com/musicians/jerry-lee-lewis'
+  - 'https://sunrecords.com/artists/jerry-lewis/'
+  - 'https://64parishes.org/entry/jerry-lee-lewis-2'
+  - 'https://www.countrymusichalloffame.org/hall-of-fame/jerry-lee-lewis'
 network_extracted: true
 entry_created: '2025-12-06T05:42:55.286536'
 last_updated: '2025-12-23T08:16:10.357504'
-disambiguation: rock & roll pianist, nicknamed “The Killer”
+disambiguation: 'rock & roll pianist, nicknamed “The Killer”'
 gender: Male
 musicbrainz_id: b59ac58d-036e-4bba-8112-c32a34c4575b
 tags:
-- 2008 universal fire victim
-- '[r12065312]'
-- blues
+  - 2008 universal fire victim
+  - '[r12065312]'
+  - blues
+is_active: false
 ---
 
 ![](jerry_lee_lewis.jpg)

@@ -2,19 +2,19 @@
 title: Mission of Burma
 wiki_slug: mission-of-burma
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 birth_date: '1979'
 genres:
-- post-punk
-- noise rock
-- proto-punk
+  - post-punk
+  - noise rock
+  - proto-punk
 instruments:
-- bass guitar
-- original
-- electric guitar
-- drums (drum set)
-- tape
+  - bass guitar
+  - original
+  - electric guitar
+  - drums (drum set)
+  - tape
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Mission_of_Burma.jpg
   caption: Mission of Burma
@@ -35,58 +35,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Roger Miller
-  - Clint Conley
-  - Peter Prescott
-  - Martin Swope
-  - Bob Weston
+    - Roger Miller
+    - Clint Conley
+    - Peter Prescott
+    - Martin Swope
+    - Bob Weston
   influenced:
-  - R.E.M.
-  - Nirvana
-  - Moby
+    - R.E.M.
+    - Nirvana
+    - Moby
   mentors:
-  - John Cage
-  - The Beatles
+    - John Cage
+    - The Beatles
 spotify_data:
   followers: 75676
   id: 5UMQV83wwZCCvRSQCVjZw6
   popularity: 30
-  url: https://open.spotify.com/artist/5UMQV83wwZCCvRSQCVjZw6
+  url: 'https://open.spotify.com/artist/5UMQV83wwZCCvRSQCVjZw6'
 discography_enriched: true
 top_tracks:
-- That's When I Reach for My Revolver (Signals, Calls and Marches)
-- Academy Fight Song (Signals, Calls and Marches)
-- That's How I Escaped My Certain Fate (vs.)
-- Trem Two (vs.)
-- Secrets (vs.)
-- Max Ernst (Signals, Calls and Marches)
-- This Is Not A Photograph (Signals, Calls and Marches)
-- Devotion (Signals, Calls and Marches)
-- Outlaw (Signals, Calls and Marches)
-- Execution (Signals, Calls and Marches)
+  - 'That''s When I Reach for My Revolver (Signals, Calls and Marches)'
+  - 'Academy Fight Song (Signals, Calls and Marches)'
+  - That's How I Escaped My Certain Fate (vs.)
+  - Trem Two (vs.)
+  - Secrets (vs.)
+  - 'Max Ernst (Signals, Calls and Marches)'
+  - 'This Is Not A Photograph (Signals, Calls and Marches)'
+  - 'Devotion (Signals, Calls and Marches)'
+  - 'Outlaw (Signals, Calls and Marches)'
+  - 'Execution (Signals, Calls and Marches)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/db9d25d7-a85b-4a29-b2ff-8f5b69ed691e
-  spotify: https://open.spotify.com/artist/5UMQV83wwZCCvRSQCVjZw6
-  wikipedia: https://en.wikipedia.org/wiki/Mission_of_Burma
+  musicbrainz: 'https://musicbrainz.org/artist/db9d25d7-a85b-4a29-b2ff-8f5b69ed691e'
+  spotify: 'https://open.spotify.com/artist/5UMQV83wwZCCvRSQCVjZw6'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mission_of_Burma'
 image_path: 03_Resources/source_material/ArtistPortraits/Mission_of_Burma.jpg
 biography_enhanced_at: '2025-10-20T10:04:55.490425'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Mission_of_Burma
-- http://missionofburma.com/?page_id=29
-- https://bostonthen.com/bands/mission-of-burma.php
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/mission-burma
+  - 'https://en.wikipedia.org/wiki/Mission_of_Burma'
+  - 'http://missionofburma.com/?page_id=29'
+  - 'https://bostonthen.com/bands/mission-of-burma.php'
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/mission-burma
 network_extracted: true
 entry_created: '2025-10-20T10:04:55.490439'
 last_updated: '2025-12-23T08:16:03.342730'
 musicbrainz_enriched_at: '2025-10-21T09:38:15.194164'
 musicbrainz_id: db9d25d7-a85b-4a29-b2ff-8f5b69ed691e
-origin: Boston, Massachusetts, United States
+origin: 'Boston, Massachusetts, United States'
 tags:
-- art punk
-- indie rock
-- post-punk
+  - art punk
+  - indie rock
+  - post-punk
+birth_place: Boston
 ---
 
 ![](Mission_of_Burma.jpg)

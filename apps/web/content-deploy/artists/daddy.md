@@ -3,15 +3,15 @@ title: Daddy
 wiki_slug: daddy
 schema_version: 2
 status: active
-birth_place: Río Piedras, San Juan, Puerto Rico
+birth_place: 'Río Piedras, San Juan, Puerto Rico, United States'
 genres:
-- reggaeton
-- latin
+  - reggaeton
+  - latin
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/daddy.jpg
   caption: Daddy
   background: solo_singer
-  origin: Río Piedras, San Juan, Puerto Rico
+  origin: 'Río Piedras, San Juan, Puerto Rico'
 audio_profile:
   tempo_avg: 121.9
   energy_avg: 0.836
@@ -27,51 +27,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Nicky Jam
-  - Luis Fonsi
+    - Nicky Jam
+    - Luis Fonsi
   influenced:
-  - Multiple Hispanic urban performers
+    - Multiple Hispanic urban performers
   mentors:
-  - DJ Playero
-  - Vico C
-  - DJ Nelson
-  - Tempo
+    - DJ Playero
+    - Vico C
+    - DJ Nelson
+    - Tempo
 spotify_data:
   followers: 38266815
   id: 4VMYDCV2IEDYJArk749S6m
   popularity: 89
-  url: https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m
+  url: 'https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m'
 discography_enriched: true
 top_tracks:
-- Gasolina (Barrio Fino (Bonus Track Version))
-- Despacito (VIDA)
-- Sola (Remix)
-- La Santa (YHLQMDLG)
-- Lo Que Pasó, Pasó (Barrio Fino (Bonus Track Version))
-- Con Calma
-- Limbo (Prestige)
-- Rompe
-- Tu Príncipe (Barrio Fino (Bonus Track Version))
-- Ella Me Levantó
+  - Gasolina (Barrio Fino (Bonus Track Version))
+  - Despacito (VIDA)
+  - Sola (Remix)
+  - La Santa (YHLQMDLG)
+  - 'Lo Que Pasó, Pasó (Barrio Fino (Bonus Track Version))'
+  - Con Calma
+  - Limbo (Prestige)
+  - Rompe
+  - Tu Príncipe (Barrio Fino (Bonus Track Version))
+  - Ella Me Levantó
 external_urls:
-  spotify: https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m
-  wikipedia: https://en.wikipedia.org/wiki/Daddy_Yankee
+  spotify: 'https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m'
+  wikipedia: 'https://en.wikipedia.org/wiki/Daddy_Yankee'
 image_path: 03_Resources/source_material/ArtistPortraits/daddy.jpg
 biography_enhanced_at: '2025-12-22T01:40:42.528758'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Last.fm - Daddy Yankee Wiki
-- AAE Music - Daddy Yankee Artist Profile
-- 'Salsa Eddy - Daddy Yankee: Reggaeton Pioneer and Entrepreneur'
-- Vedantu - Daddy Yankee Biography
-- Biography.com - Daddy Yankee
-- Wikipedia - Daddy Yankee
-- IMDB - Daddy Yankee Biography
-- 'iHeart - Hispanic Heritage Month Artist Spotlight: Daddy Yankee'
+  - Last.fm - Daddy Yankee Wiki
+  - AAE Music - Daddy Yankee Artist Profile
+  - 'Salsa Eddy - Daddy Yankee: Reggaeton Pioneer and Entrepreneur'
+  - Vedantu - Daddy Yankee Biography
+  - Biography.com - Daddy Yankee
+  - Wikipedia - Daddy Yankee
+  - IMDB - Daddy Yankee Biography
+  - 'iHeart - Hispanic Heritage Month Artist Spotlight: Daddy Yankee'
 network_extracted: true
 entry_created: '2025-12-22T01:40:42.528763'
 last_updated: '2025-12-23T08:16:07.381775'
+birth_date: '1977-02-03'
+artist_type: person
 ---
 
 ![](daddy.jpg)

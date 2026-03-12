@@ -4,7 +4,7 @@ wiki_slug: the-penguins
 schema_version: 2
 status: active
 genres:
-- doo-wop
+  - doo-wop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_penguins.jpg
   caption: The Penguins
@@ -16,7 +16,7 @@ audio_profile:
   danceability_avg: 0.549
   acousticness_avg: 0.82
   instrumentalness_avg: 0.02
-  loudness_avg: -11.0
+  loudness_avg: -11
   speechiness_avg: 0.05
   liveness_avg: 0.178
   track_count: 49
@@ -24,59 +24,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Cleveland “Cleve” Duncan
-  - Curtis Williams
-  - Dexter Tisby
-  - Bruce Tate
-  - Randy Jones
-  - Teddy Harper
-  - Walter Saulsberry
-  - Glen Madison
-  - Frank Zappa & Ray Collins (via “Memories of El Monte”)
-  - Art Laboe
+    - Cleveland “Cleve” Duncan
+    - Curtis Williams
+    - Dexter Tisby
+    - Bruce Tate
+    - Randy Jones
+    - Teddy Harper
+    - Walter Saulsberry
+    - Glen Madison
+    - Frank Zappa & Ray Collins (via “Memories of El Monte”)
+    - Art Laboe
   influenced:
-  - The Platters
-  - Doo‑wop and vocal‑group acts of the late 1950s and 1960s
-  - Oldies radio programming and revival acts
+    - The Platters
+    - Doo‑wop and vocal‑group acts of the late 1950s and 1960s
+    - Oldies radio programming and revival acts
   mentors:
-  - Hollywood Flames
-  - Dootsie Williams
-  - Buck Ram
+    - Hollywood Flames
+    - Dootsie Williams
+    - Buck Ram
 spotify_data:
   followers: 74271
   id: 6lOk7hCr8x3O9vHwylXyHR
   popularity: 44
-  url: https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR
+  url: 'https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR'
 discography_enriched: true
 top_tracks:
-- Earth Angel (Earth Angel)
-- Earth Angel (Will You Be Mine)
-- Earth Angel (Earth Angel - 1954-1960)
-- Memories Of El Monte (Let Me Make Up Your Mind)
-- Earth Angel (Ookey Ook!)
-- Hey Senorita
-- Earth Angel (You're an Angel)
-- Memories of El Monte
-- Moves Like Jagger - From "Muppets Most Wanted"/Soundtrack Version
-- Earth Angel - From "Back to the Future Part Ii" Soundtrack
+  - Earth Angel (Earth Angel)
+  - Earth Angel (Will You Be Mine)
+  - Earth Angel (Earth Angel - 1954-1960)
+  - Memories Of El Monte (Let Me Make Up Your Mind)
+  - Earth Angel (Ookey Ook!)
+  - Hey Senorita
+  - Earth Angel (You're an Angel)
+  - Memories of El Monte
+  - Moves Like Jagger - From "Muppets Most Wanted"/Soundtrack Version
+  - Earth Angel - From "Back to the Future Part Ii" Soundtrack
 external_urls:
-  spotify: https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR
-  wikipedia: https://en.wikipedia.org/wiki/The_Penguins
+  spotify: 'https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Penguins'
 image_path: 03_Resources/source_material/ArtistPortraits/the_penguins.jpg
 biography_enhanced_at: '2025-12-09T05:14:18.850206'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/The+Penguins/+wiki
-- https://www.imdb.com/name/nm3082762/bio/
-- https://vocalgroup.org/inductees/the-penguins/
-- https://www.allmusic.com/artist/the-penguins-mn0000893719
-- https://nostalgiacentral.com/music/artists-l-to-z/artists-p/penguins/
-- https://top40weekly.com/the-penguins/
+  - 'https://www.last.fm/music/The+Penguins/+wiki'
+  - 'https://www.imdb.com/name/nm3082762/bio/'
+  - 'https://vocalgroup.org/inductees/the-penguins/'
+  - 'https://www.allmusic.com/artist/the-penguins-mn0000893719'
+  - 'https://nostalgiacentral.com/music/artists-l-to-z/artists-p/penguins/'
+  - 'https://top40weekly.com/the-penguins/'
 network_extracted: true
 entry_created: '2025-12-09T05:14:18.850214'
 last_updated: '2025-12-23T08:16:17.040818'
-origin: Los Angeles, California, United States
+origin: 'Los Angeles, California, United States'
+artist_type: band
 ---
 
 ![](the_penguins.jpg)

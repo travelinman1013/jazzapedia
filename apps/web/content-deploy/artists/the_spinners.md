@@ -2,17 +2,17 @@
 title: The Spinners
 wiki_slug: the-spinners
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1954'
 genres:
-- philly soul
-- motown
-- soul
-- northern soul
+  - philly soul
+  - motown
+  - soul
+  - northern soul
 instruments:
-- original
-- background vocals
+  - original
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_spinners.jpg
   caption: The Spinners
@@ -33,97 +33,97 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Aretha Franklin
-  - Phillipé Wynne
-  - Syreeta Wright
-  - Lee Garrett
+    - Aretha Franklin
+    - Phillipé Wynne
+    - Syreeta Wright
+    - Lee Garrett
   influenced:
-  - Contemporary music artists
+    - Contemporary music artists
   mentors:
-  - Harvey Fuqua
-  - Berry Gordy
-  - Maxine Powell
-  - Cholly Atkins
-  - Maurice King
-  - Thom Bell
-  - Stevie Wonder
+    - Harvey Fuqua
+    - Berry Gordy
+    - Maxine Powell
+    - Cholly Atkins
+    - Maurice King
+    - Thom Bell
+    - Stevie Wonder
 spotify_data:
   followers: 1043155
   id: 5fbhwqYYh4YwUoEs582mq5
   popularity: 61
-  url: https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5
+  url: 'https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5'
 discography_enriched: true
 top_tracks:
-- It's A Shame (2nd Time Around (Expanded Edition))
-- I'll Be Around (Spinners)
-- Could It Be I'm Falling in Love (Spinners)
-- Working My Way Back to You / Forgive Me, Girl
-- The Rubberband Man
-- The Rubberband Man - Edit (The Thom Bell Studio Recordings 1972-1979)
-- Working My Way Back to You
-- It's A Shame - Remastered
-- The Rubberband Man (Happiness Is Being With the Spinners)
-- 'Medley: Working My Way Back to You / Forgive Me, Girl (Dancin'' and Lovin'')'
+  - It's A Shame (2nd Time Around (Expanded Edition))
+  - I'll Be Around (Spinners)
+  - Could It Be I'm Falling in Love (Spinners)
+  - 'Working My Way Back to You / Forgive Me, Girl'
+  - The Rubberband Man
+  - The Rubberband Man - Edit (The Thom Bell Studio Recordings 1972-1979)
+  - Working My Way Back to You
+  - It's A Shame - Remastered
+  - The Rubberband Man (Happiness Is Being With the Spinners)
+  - 'Medley: Working My Way Back to You / Forgive Me, Girl (Dancin'' and Lovin'')'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/fd2b6371-5b61-4068-8baa-9c333c97dfd7
-  spotify: https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5
+  musicbrainz: 'https://musicbrainz.org/artist/fd2b6371-5b61-4068-8baa-9c333c97dfd7'
+  spotify: 'https://open.spotify.com/artist/5fbhwqYYh4YwUoEs582mq5'
   wikipedia: Not provided in search results
 image_path: 03_Resources/source_material/ArtistPortraits/the_spinners.jpg
 biography_enhanced_at: '2025-12-04T08:06:07.513653'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Motown Museum (motownmuseum.org)
-- Britannica - The Spinners
-- Top 40 Weekly (top40weekly.com)
-- The Spinners Official Website (thespinners.com)
-- Hollywood Walk of Fame (walkoffame.com)
-- A Breath of Fresh Air (abreathoffreshair.com.au)
-- BlackPast.org
+  - Motown Museum (motownmuseum.org)
+  - Britannica - The Spinners
+  - Top 40 Weekly (top40weekly.com)
+  - The Spinners Official Website (thespinners.com)
+  - Hollywood Walk of Fame (walkoffame.com)
+  - A Breath of Fresh Air (abreathoffreshair.com.au)
+  - BlackPast.org
 network_extracted: true
 entry_created: '2025-12-04T08:06:07.513660'
 last_updated: '2025-12-23T08:16:17.178328'
-disambiguation: US R&B/soul group, aka The Detroit Spinners
+disambiguation: 'US R&B/soul group, aka The Detroit Spinners'
 members:
-- begin: '1954'
-  end: '2004'
-  instruments: []
-  mbid: 6d451359-1982-4ebd-b026-39e0dc902c41
-  name: Billy Henderson
-- begin: '1954'
-  end: 2023-04
-  instruments:
-  - original
-  mbid: 13310173-bb6b-4a2d-b8bd-5482941247cd
-  name: Henry Fambrough
-- begin: '1961'
-  end: '2013-03-16'
-  instruments: []
-  mbid: 98acfab4-eb00-4895-8aac-78e2c1ee879c
-  name: Bobbie Smith
-- begin: '1973'
-  end: '1977'
-  instruments:
-  - background vocals
-  mbid: a7235859-49ec-4403-94f0-de13e095a665
-  name: Barbara Ingram
-- begin: '1977'
-  end: '2000'
-  instruments: []
-  mbid: 6114b049-b54b-4193-89e3-9f4170fdc091
-  name: John Edwards
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9bc335e1-bcd8-4b34-bc10-df3b1fca7049
-  name: Philippé Wynne
+  - begin: '1954'
+    end: '2004'
+    instruments: []
+    mbid: 6d451359-1982-4ebd-b026-39e0dc902c41
+    name: Billy Henderson
+  - begin: '1954'
+    end: 2023-04
+    instruments:
+      - original
+    mbid: 13310173-bb6b-4a2d-b8bd-5482941247cd
+    name: Henry Fambrough
+  - begin: '1961'
+    end: '2013-03-16'
+    instruments: []
+    mbid: 98acfab4-eb00-4895-8aac-78e2c1ee879c
+    name: Bobbie Smith
+  - begin: '1973'
+    end: '1977'
+    instruments:
+      - background vocals
+    mbid: a7235859-49ec-4403-94f0-de13e095a665
+    name: Barbara Ingram
+  - begin: '1977'
+    end: '2000'
+    instruments: []
+    mbid: 6114b049-b54b-4193-89e3-9f4170fdc091
+    name: John Edwards
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9bc335e1-bcd8-4b34-bc10-df3b1fca7049
+    name: Philippé Wynne
 musicbrainz_id: fd2b6371-5b61-4068-8baa-9c333c97dfd7
-origin: Ferndale
+origin: 'Ferndale, Michigan, United States'
 tags:
-- disco
-- funk
-- philly soul
-
+  - disco
+  - funk
+  - philly soul
+birth_place: 'Ferndale, Michigan, United States'
 ---
 
 ![](the_spinners.jpg)

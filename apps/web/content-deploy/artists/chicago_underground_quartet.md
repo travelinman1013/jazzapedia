@@ -2,10 +2,10 @@
 title: Chicago Underground Quartet
 wiki_slug: chicago-underground-quartet
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- free jazz
+  - free jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/chicago_underground_quartet.jpg
   caption: Chicago Underground Quartet
@@ -25,57 +25,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Rob Mazurek
-  - Chad Taylor
-  - Jeff Parker
-  - Noel Kupersmith
-  - Josh Johnson
+    - Rob Mazurek
+    - Chad Taylor
+    - Jeff Parker
+    - Noel Kupersmith
+    - Josh Johnson
   influenced:
-  - Makaya McCraven
+    - Makaya McCraven
   mentors:
-  - Chicago experimental jazz scene
+    - Chicago experimental jazz scene
 spotify_data:
   followers: 5834
   id: 6ry6Ex24kEul5kLAyzkcji
   popularity: 10
-  url: https://open.spotify.com/artist/6ry6Ex24kEul5kLAyzkcji
+  url: 'https://open.spotify.com/artist/6ry6Ex24kEul5kLAyzkcji'
 discography_enriched: true
 top_tracks:
-- Four in the Evening (Chicago Underground Quartet)
-- A Re-Occuring Dream (Chicago Underground Quartet)
-- Batida (Good Days)
-- Tunnel Chrome (Chicago Underground Quartet)
-- Total Recovery (Chicago Underground Quartet)
-- Three in the Morning (Chicago Underground Quartet)
-- Good Days (For Lee Anne) (Good Days)
-- Welcome (Chicago Underground Quartet)
-- Orgasm (Good Days)
-- Strange Wing (Good Days)
+  - Four in the Evening (Chicago Underground Quartet)
+  - A Re-Occuring Dream (Chicago Underground Quartet)
+  - Batida (Good Days)
+  - Tunnel Chrome (Chicago Underground Quartet)
+  - Total Recovery (Chicago Underground Quartet)
+  - Three in the Morning (Chicago Underground Quartet)
+  - Good Days (For Lee Anne) (Good Days)
+  - Welcome (Chicago Underground Quartet)
+  - Orgasm (Good Days)
+  - Strange Wing (Good Days)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/498621af-b915-4b42-b8e6-a14eeab3ed1a
-  spotify: https://open.spotify.com/artist/6ry6Ex24kEul5kLAyzkcji
-  wikipedia: https://en.wikipedia.org/wiki/Chicago_Underground_Quartet_(album)
+  musicbrainz: 'https://musicbrainz.org/artist/498621af-b915-4b42-b8e6-a14eeab3ed1a'
+  spotify: 'https://open.spotify.com/artist/6ry6Ex24kEul5kLAyzkcji'
+  wikipedia: 'https://en.wikipedia.org/wiki/Chicago_Underground_Quartet_(album)'
 image_path: 03_Resources/source_material/ArtistPortraits/chicago_underground_quartet.jpg
 biography_enhanced_at: '2025-11-04T10:45:46.354417'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.intlanthem.com/artists/chicago-underground-duo
-- https://opt-art.net/en/music-events/chicago-underground-duo/
-- https://daily.bandcamp.com/features/the-chicago-underground-quartet-good-days-interview
-- https://en.wikipedia.org/wiki/Chicago_Underground_Quartet_(album)
-- https://www.flowstate.fm/p/chicago-underground-quartet
+  - 'https://www.intlanthem.com/artists/chicago-underground-duo'
+  - 'https://opt-art.net/en/music-events/chicago-underground-duo/'
+  - >-
+    https://daily.bandcamp.com/features/the-chicago-underground-quartet-good-days-interview
+  - 'https://en.wikipedia.org/wiki/Chicago_Underground_Quartet_(album)'
+  - 'https://www.flowstate.fm/p/chicago-underground-quartet'
 network_extracted: true
 entry_created: '2025-11-04T10:45:46.354430'
 last_updated: '2025-12-23T08:16:06.811020'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4894f8eb-be75-4bd5-a3a3-7c20894439f9
-  name: Jeff Parker
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4894f8eb-be75-4bd5-a3a3-7c20894439f9
+    name: Jeff Parker
 musicbrainz_id: 498621af-b915-4b42-b8e6-a14eeab3ed1a
-origin: Chicago, Illinois, United States
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](chicago_underground_quartet.jpg)

@@ -3,45 +3,48 @@ biography_enhanced_at: '2026-01-01T01:04:43.334163'
 enhancement_provider: perplexity
 entry_created: '2026-01-01T01:04:43.334270'
 external_urls:
-  spotify: https://open.spotify.com/artist/14jY13v4qhIt949YQd8Zmk
+  spotify: 'https://open.spotify.com/artist/14jY13v4qhIt949YQd8Zmk'
   wikipedia: ''
 genres:
-- drone
+  - drone
 image_path: 03_Resources/source_material/ArtistPortraits/ellen_rowe_quartet.jpg
 last_updated: '2026-01-01T01:04:43.334307'
 musical_connections:
   collaborators:
-  - Mike Sakash
-  - Dennis Carroll
-  - Pete Siers
-  - Sunny Wilkinson
-  - Ingrid Jensen
-  - Tia Fuller
-  - Marion Hayden
-  - Allison Miller
-  - Kenny Wheeler
-  - Tim Ries
-  - Tom Harrell
-  - John Clayton
-  - Steve Turre
+    - Mike Sakash
+    - Dennis Carroll
+    - Pete Siers
+    - Sunny Wilkinson
+    - Ingrid Jensen
+    - Tia Fuller
+    - Marion Hayden
+    - Allison Miller
+    - Kenny Wheeler
+    - Tim Ries
+    - Tom Harrell
+    - John Clayton
+    - Steve Turre
   influenced: []
   mentors: []
 network_extracted: true
-origin: Norwalk, CT, USA
+origin: 'Norwalk, CT, USA'
 primary_source: perplexity
 research_sources:
-- https://ellenrowe.com/bio/
-- https://smtd.umich.edu/profiles/ellen-h-rowe/
-- https://lydialiebman.com/index.php/project/ellen-rowe/
-- https://www.makingascene.org/ellen-rowe-quartet-vintons-cove/
-- https://www.allmusic.com/artist/ellen-rowe-mn0000151721
+  - 'https://ellenrowe.com/bio/'
+  - 'https://smtd.umich.edu/profiles/ellen-h-rowe/'
+  - 'https://lydialiebman.com/index.php/project/ellen-rowe/'
+  - 'https://www.makingascene.org/ellen-rowe-quartet-vintons-cove/'
+  - 'https://www.allmusic.com/artist/ellen-rowe-mn0000151721'
 spotify_data:
   followers: 138
   id: 14jY13v4qhIt949YQd8Zmk
   popularity: 0
-  url: https://open.spotify.com/artist/14jY13v4qhIt949YQd8Zmk
+  url: 'https://open.spotify.com/artist/14jY13v4qhIt949YQd8Zmk'
 status: active
 title: Ellen Rowe Quartet
+birth_place: 'Norwalk, CT, United States'
+birth_date: '1958-11-11'
+artist_type: band
 ---
 
 ![](ellen_rowe_quartet.jpg)

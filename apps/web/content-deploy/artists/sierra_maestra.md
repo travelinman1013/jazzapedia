@@ -1,69 +1,72 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-11T02:18:00.197266'
 birth_date: '1976'
 enhancement_provider: perplexity
 entry_created: '2026-01-11T02:18:00.197273'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/017f5df4-c30c-4799-95f7-997bd5b88df7
-  spotify: https://open.spotify.com/artist/04azg2bFlSz46nOe03VY2w
-  wikipedia: https://en.wikipedia.org/wiki/Sierra_Maestra_(band)
+  musicbrainz: 'https://musicbrainz.org/artist/017f5df4-c30c-4799-95f7-997bd5b88df7'
+  spotify: 'https://open.spotify.com/artist/04azg2bFlSz46nOe03VY2w'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sierra_Maestra_(band)'
 genres:
-- son cubano
-- latin jazz
-- afro-cuban jazz
-- salsa
-- timba
+  - son cubano
+  - latin jazz
+  - afro-cuban jazz
+  - salsa
+  - timba
 image_path: 03_Resources/source_material/ArtistPortraits/sierra_maestra.jpg
 last_updated: '2026-01-11T02:18:00.197274'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e6a84214-0e4f-42c1-8a58-0588bd9192e3
-  name: Jesús Bello
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b02eaf31-8f9d-4124-99d3-1b8c3d0e593a
-  name: Carlos Puisseaux
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 93367d33-4496-4587-a909-9e0b8a3b1a7b
-  name: Barbaro Teuntor Garcia
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e6a84214-0e4f-42c1-8a58-0588bd9192e3
+    name: Jesús Bello
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b02eaf31-8f9d-4124-99d3-1b8c3d0e593a
+    name: Carlos Puisseaux
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 93367d33-4496-4587-a909-9e0b8a3b1a7b
+    name: Barbaro Teuntor Garcia
 musical_connections:
   collaborators:
-  - Juan de Marcos González
-  - Jesús Alemañy
-  - José Antonio “Maceo” Rodríguez
-  - Young Cuban songwriters on *Sonando Ya*
+    - Juan de Marcos González
+    - Jesús Alemañy
+    - José Antonio “Maceo” Rodríguez
+    - Young Cuban songwriters on *Sonando Ya*
   influenced:
-  - Afro‑Cuban All Stars (via Juan de Marcos González)
-  - ¡Cubanismo! (via Jesús Alemañy)
-  - Younger Cuban son and timba musicians
+    - Afro‑Cuban All Stars (via Juan de Marcos González)
+    - ¡Cubanismo! (via Jesús Alemañy)
+    - Younger Cuban son and timba musicians
   mentors:
-  - Septeto Nacional
-  - Septeto Habanero
-  - Changüí traditions of Oriente (e.g., Guantánamo region musicians)
+    - Septeto Nacional
+    - Septeto Habanero
+    - 'Changüí traditions of Oriente (e.g., Guantánamo region musicians)'
 musicbrainz_id: 017f5df4-c30c-4799-95f7-997bd5b88df7
 network_extracted: true
-origin: Havana, La Habana, Cuba
+origin: 'Havana, La Habana, Cuba'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Sierra_Maestra_(band)
-- https://bandonthewall.org/events/sierra-maestra/
-- https://www.muziekweb.nl/en/Link/M00000025164/POPULAR/Sierra-Maestra
-- https://www.sprachcaffe.com/thai/study_abroad/countries/cuba/cuba_musicians_sierra_maestra.htm
-- http://catalinamariajohnson.com/2012/03/sierra-maestra-the-timeless-sweet-sensuality-of-classic-cuban-son/
-- http://www.feileafrica.com/sierra_maestra.htm
-- https://www.last.fm/music/Sierra+Maestra/+wiki
-- https://www.sfgate.com/entertainment/article/Sierra-Maestra-Masterful-3096014.php
+  - 'https://en.wikipedia.org/wiki/Sierra_Maestra_(band)'
+  - 'https://bandonthewall.org/events/sierra-maestra/'
+  - 'https://www.muziekweb.nl/en/Link/M00000025164/POPULAR/Sierra-Maestra'
+  - >-
+    https://www.sprachcaffe.com/thai/study_abroad/countries/cuba/cuba_musicians_sierra_maestra.htm
+  - >-
+    http://catalinamariajohnson.com/2012/03/sierra-maestra-the-timeless-sweet-sensuality-of-classic-cuban-son/
+  - 'http://www.feileafrica.com/sierra_maestra.htm'
+  - 'https://www.last.fm/music/Sierra+Maestra/+wiki'
+  - >-
+    https://www.sfgate.com/entertainment/article/Sierra-Maestra-Masterful-3096014.php
 spotify_data:
   followers: 31850
   id: 04azg2bFlSz46nOe03VY2w
   popularity: 39
-  url: https://open.spotify.com/artist/04azg2bFlSz46nOe03VY2w
+  url: 'https://open.spotify.com/artist/04azg2bFlSz46nOe03VY2w'
 status: active
 title: Sierra Maestra
 ---

@@ -5,23 +5,23 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1912-07-14'
-birth_place: Okemah
+birth_place: 'Okemah, Oklahoma, United States'
 death_date: '1967-10-03'
 genres:
-- folk
-- americana
-- singer-songwriter
+  - folk
+  - americana
+  - singer-songwriter
 instruments:
-- guitar
-- acoustic guitar
-- lead vocals
-- background vocals
+  - guitar
+  - acoustic guitar
+  - lead vocals
+  - background vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 38956a38-5f55-46f1-8c26-2e480cbe1453
-  name: The Almanac Singers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 38956a38-5f55-46f1-8c26-2e480cbe1453
+    name: The Almanac Singers
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/woody_guthrie.jpg
   caption: Woody Guthrie
@@ -36,7 +36,7 @@ audio_profile:
   danceability_avg: 0.607
   acousticness_avg: 0.917
   instrumentalness_avg: 0.086
-  loudness_avg: -14.0
+  loudness_avg: -14
   speechiness_avg: 0.058
   liveness_avg: 0.136
   track_count: 51
@@ -44,46 +44,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Pete Seeger
-  - Maxine 'Lefty Lou' Crissman
-  - Leadbelly
+    - Pete Seeger
+    - Maxine 'Lefty Lou' Crissman
+    - Leadbelly
   influenced:
-  - Bob Dylan
-  - Arlo Guthrie
-  - Bruce Springsteen
+    - Bob Dylan
+    - Arlo Guthrie
+    - Bruce Springsteen
   mentors:
-  - Charles Guthrie
-  - Nora Belle Guthrie
+    - Charles Guthrie
+    - Nora Belle Guthrie
 spotify_data:
   followers: 239866
   id: 4rAgFKtlTr66ic18YZZyF1
   popularity: 44
-  url: https://open.spotify.com/artist/4rAgFKtlTr66ic18YZZyF1
+  url: 'https://open.spotify.com/artist/4rAgFKtlTr66ic18YZZyF1'
 discography_enriched: true
 top_tracks:
-- Tear The Facists Down (My Dusty Road)
-- 'This Land is Your Land (This Land is Your Land: The Asch Recordings, Vol. 1)'
-- This Land is Your Land (The Asch Recordings, Vol. 1-4)
-- 'Hobo''s Lullaby (This Land is Your Land: The Asch Recordings, Vol. 1)'
-- I Ain't Got No Home In This World Anymore (Dust Bowl Ballads)
-- 'Hard Traveling (Hard Travelin'': The Asch Recordings, Vol. 3)'
-- Dusty Old Dust (So Long It's Been God to Know Yuh) (Dust Bowl Ballads)
-- Deportee (Woody's Home Tape)
-- 'So Long, It''s Been Good to Know Yuh (Dusty Old Dust) (Woody at 100: The Woody Guthrie Centennial Collection)'
-- This Land Is Your Land (My Dusty Road)
+  - Tear The Facists Down (My Dusty Road)
+  - 'This Land is Your Land (This Land is Your Land: The Asch Recordings, Vol. 1)'
+  - 'This Land is Your Land (The Asch Recordings, Vol. 1-4)'
+  - 'Hobo''s Lullaby (This Land is Your Land: The Asch Recordings, Vol. 1)'
+  - I Ain't Got No Home In This World Anymore (Dust Bowl Ballads)
+  - 'Hard Traveling (Hard Travelin'': The Asch Recordings, Vol. 3)'
+  - Dusty Old Dust (So Long It's Been God to Know Yuh) (Dust Bowl Ballads)
+  - Deportee (Woody's Home Tape)
+  - >-
+    So Long, It's Been Good to Know Yuh (Dusty Old Dust) (Woody at 100: The
+    Woody Guthrie Centennial Collection)
+  - This Land Is Your Land (My Dusty Road)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/cbd827e1-4e38-427e-a436-642683433732
-  spotify: https://open.spotify.com/artist/4rAgFKtlTr66ic18YZZyF1
-  wikipedia: https://en.wikipedia.org/wiki/Woody_Guthrie
+  musicbrainz: 'https://musicbrainz.org/artist/cbd827e1-4e38-427e-a436-642683433732'
+  spotify: 'https://open.spotify.com/artist/4rAgFKtlTr66ic18YZZyF1'
+  wikipedia: 'https://en.wikipedia.org/wiki/Woody_Guthrie'
 image_path: 03_Resources/source_material/ArtistPortraits/woody_guthrie.jpg
 biography_enhanced_at: '2025-11-24T08:35:31.900080'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.biography.com/musicians/woody-guthrie
-- https://en.wikipedia.org/wiki/Woody_Guthrie
-- https://woodyguthrie.org/biography.htm
-- https://woodyguthriecenter.org/about/woody-guthrie-biography/
+  - 'https://www.biography.com/musicians/woody-guthrie'
+  - 'https://en.wikipedia.org/wiki/Woody_Guthrie'
+  - 'https://woodyguthrie.org/biography.htm'
+  - 'https://woodyguthriecenter.org/about/woody-guthrie-biography/'
 network_extracted: true
 entry_created: '2025-11-24T08:35:31.900089'
 last_updated: '2025-12-23T08:16:18.275516'
@@ -91,10 +93,11 @@ disambiguation: American singer-songwriter
 gender: Male
 musicbrainz_id: cbd827e1-4e38-427e-a436-642683433732
 tags:
-- children's music
-- contemporary folk
-- folk
-
+  - children's music
+  - contemporary folk
+  - folk
+is_active: false
+origin: 'New York City, New York, United States'
 ---
 
 ![](woody_guthrie.jpg)

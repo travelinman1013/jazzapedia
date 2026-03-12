@@ -3,13 +3,13 @@ title: Edson Oliveira
 wiki_slug: edson-oliveira
 schema_version: 2
 status: active
-birth_place: Mindelo, São Vicente, Cape Verde
+birth_place: 'Mindelo, São Vicente, Cape Verde'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/edson_oliveira.jpg
   caption: Edson Oliveira
   background: solo_singer
-  origin: Mindelo, São Vicente, Cape Verde
+  origin: 'Mindelo, São Vicente, Cape Verde'
 audio_profile:
   tempo_avg: 105.8
   energy_avg: 0.286
@@ -31,31 +31,44 @@ spotify_data:
   followers: 296
   id: 7jKErTnlYJOYDdEVpsKo6n
   popularity: 11
-  url: https://open.spotify.com/artist/7jKErTnlYJOYDdEVpsKo6n
+  url: 'https://open.spotify.com/artist/7jKErTnlYJOYDdEVpsKo6n'
 discography_enriched: true
 top_tracks:
-- Malthus (Hilda Furacão/Senhora do Destino - Original Soundtrack)
-- Pureza (Hilda Furacão/Senhora do Destino - Original Soundtrack)
-- Sol e Lua Para Malthus e Hilda (Hilda Furacão/Senhora do Destino - Original Soundtrack)
-- Noturno Para Malthus (Hilda Furacão/Senhora do Destino - Original Soundtrack)
-- Anjos (Hilda Furacão/Senhora do Destino - Original Soundtrack)
-- Conflitos Entre Malthus e Hilda (Hilda Furacão/Senhora do Destino - Original Soundtrack)
-- Dilema de Malthus (Hilda Furacão/Senhora do Destino - Original Soundtrack)
-- Amanhecer (Hilda Furacão/Senhora do Destino - Original Soundtrack)
-- Contraponto de Uma Despedida (Hilda Furacão/Senhora do Destino - Original Soundtrack)
-- Sometime Some Places (Hilda Furacão/Senhora do Destino - Original Soundtrack)
+  - Malthus (Hilda Furacão/Senhora do Destino - Original Soundtrack)
+  - Pureza (Hilda Furacão/Senhora do Destino - Original Soundtrack)
+  - >-
+    Sol e Lua Para Malthus e Hilda (Hilda Furacão/Senhora do Destino - Original
+    Soundtrack)
+  - >-
+    Noturno Para Malthus (Hilda Furacão/Senhora do Destino - Original
+    Soundtrack)
+  - Anjos (Hilda Furacão/Senhora do Destino - Original Soundtrack)
+  - >-
+    Conflitos Entre Malthus e Hilda (Hilda Furacão/Senhora do Destino - Original
+    Soundtrack)
+  - Dilema de Malthus (Hilda Furacão/Senhora do Destino - Original Soundtrack)
+  - Amanhecer (Hilda Furacão/Senhora do Destino - Original Soundtrack)
+  - >-
+    Contraponto de Uma Despedida (Hilda Furacão/Senhora do Destino - Original
+    Soundtrack)
+  - >-
+    Sometime Some Places (Hilda Furacão/Senhora do Destino - Original
+    Soundtrack)
 external_urls:
-  spotify: https://open.spotify.com/artist/7jKErTnlYJOYDdEVpsKo6n
+  spotify: 'https://open.spotify.com/artist/7jKErTnlYJOYDdEVpsKo6n'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/edson_oliveira.jpg
 biography_enhanced_at: '2025-11-16T20:19:13.625717'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://soundcloud.com/edson-oliveira-53
+  - 'https://soundcloud.com/edson-oliveira-53'
 network_extracted: true
 entry_created: '2025-11-16T20:19:13.625723'
 last_updated: '2025-12-23T08:16:08.230111'
+origin: 'Mindelo, São Vicente, Cape Verde'
+birth_date: '1980-09-19'
+artist_type: person
 ---
 
 ![](edson_oliveira.jpg)

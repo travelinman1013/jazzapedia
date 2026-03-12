@@ -1,61 +1,62 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '1936'
-  end: ''
-  instruments:
-  - original
-  mbid: 4e8e6df6-422d-4304-8a7b-85c00cf1805e
-  name: Six Hits and a Miss
+  - begin: '1936'
+    end: ''
+    instruments:
+      - original
+    mbid: 4e8e6df6-422d-4304-8a7b-85c00cf1805e
+    name: Six Hits and a Miss
 biography_enhanced_at: '2026-01-19T01:03:35.292269'
 birth_date: '1915-11-14'
-birth_place: Corpus Christi, Texas, United States
+birth_place: 'Corpus Christi, Texas, United States'
 death_date: '2006-12-08'
 disambiguation: 1930s singer with Benny Goodman
 enhancement_provider: perplexity
 entry_created: '2026-01-19T01:03:35.292276'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/96ff3aa9-1b55-4fb2-8fd5-30f95bb3bc5a
-  spotify: https://open.spotify.com/artist/0V05eHcONaDJC1HumT0img
-  wikipedia: https://en.wikipedia.org/wiki/Martha_Tilton
+  musicbrainz: 'https://musicbrainz.org/artist/96ff3aa9-1b55-4fb2-8fd5-30f95bb3bc5a'
+  spotify: 'https://open.spotify.com/artist/0V05eHcONaDJC1HumT0img'
+  wikipedia: 'https://en.wikipedia.org/wiki/Martha_Tilton'
 gender: Female
 genres:
-- big band
-- swing music
+  - big band
+  - swing music
 image_path: 03_Resources/source_material/ArtistPortraits/martha_tilton.jpg
 instruments:
-- original
-- vocal
-- lead vocals
+  - original
+  - vocal
+  - lead vocals
 last_updated: '2026-01-19T01:03:35.292277'
 musical_connections:
   collaborators:
-  - Benny Goodman Orchestra
-  - Ziggy Elman
-  - Curt Massey
-  - Jimmy Dorsey Orchestra
-  - Hal Grayson Band
+    - Benny Goodman Orchestra
+    - Ziggy Elman
+    - Curt Massey
+    - Jimmy Dorsey Orchestra
+    - Hal Grayson Band
   influenced: []
   mentors:
-  - Benny Goodman
+    - Benny Goodman
 musicbrainz_id: 96ff3aa9-1b55-4fb2-8fd5-30f95bb3bc5a
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Martha_Tilton
-- https://www.swingstreetradio.org/performer/martha-tilton/
-- https://ww1.namm.org/library/oral-history/martha-tilton
-- http://www.marthatilton.com/biography.html
-- https://www.latimes.com/archives/la-xpm-2006-dec-12-me-tilton12-story.html
-- https://bandchirps.com/artist/martha-tilton/
-- https://www.emusic.com/artist/rs_150574/Martha-Tilton/bio
+  - 'https://en.wikipedia.org/wiki/Martha_Tilton'
+  - 'https://www.swingstreetradio.org/performer/martha-tilton/'
+  - 'https://ww1.namm.org/library/oral-history/martha-tilton'
+  - 'http://www.marthatilton.com/biography.html'
+  - 'https://www.latimes.com/archives/la-xpm-2006-dec-12-me-tilton12-story.html'
+  - 'https://bandchirps.com/artist/martha-tilton/'
+  - 'https://www.emusic.com/artist/rs_150574/Martha-Tilton/bio'
 spotify_data:
   followers: 9119
   id: 0V05eHcONaDJC1HumT0img
   popularity: 36
-  url: https://open.spotify.com/artist/0V05eHcONaDJC1HumT0img
+  url: 'https://open.spotify.com/artist/0V05eHcONaDJC1HumT0img'
 status: active
 title: Martha Tilton
+is_active: false
 ---
 
 ![](martha_tilton.jpg)

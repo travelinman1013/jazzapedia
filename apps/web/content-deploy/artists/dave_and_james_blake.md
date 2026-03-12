@@ -14,7 +14,7 @@ audio_profile:
   valence_avg: 0.36
   danceability_avg: 0.651
   acousticness_avg: 0.306
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -8.3
   speechiness_avg: 0.049
   liveness_avg: 0.201
@@ -23,47 +23,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dave
-  - Kano, Tems, Jim Legxacy
-  - Beyoncé, Kendrick Lamar, Bon Iver, Frank Ocean
+    - Dave
+    - 'Kano, Tems, Jim Legxacy'
+    - 'Beyoncé, Kendrick Lamar, Bon Iver, Frank Ocean'
   influenced:
-  - Emerging UK rap and electronic artists
+    - Emerging UK rap and electronic artists
   mentors:
-  - Gilles Peterson
+    - Gilles Peterson
 spotify_data:
   followers: 274
   id: 0Vg7E1cb1N0DvWrIPwaxGZ
   popularity: 18
-  url: https://open.spotify.com/artist/0Vg7E1cb1N0DvWrIPwaxGZ
+  url: 'https://open.spotify.com/artist/0Vg7E1cb1N0DvWrIPwaxGZ'
 discography_enriched: true
 top_tracks:
-- World On Fire (World On Fire)
-- World On Fire - Foxtrot Motel Remix (World On Fire (Foxtrot Motel Remix))
-- Screaming Inside (Illicit Thoughts)
-- Screaming Inside (Screaming Inside)
-- World on Fire (World on Fire)
-- World On Fire (World On Fire)
-- World On Fire - Extended Mix (World On Fire)
-- World On Fire - Foxtrot Motel Extended Remix (World On Fire (Foxtrot Motel Remix))
-- World on Fire - Foxtrot Motel Remix (World on Fire (Foxtrot Motel Remix))
-- World On Fire (World On Fire (Foxtrot Motel Remix))
+  - World On Fire (World On Fire)
+  - World On Fire - Foxtrot Motel Remix (World On Fire (Foxtrot Motel Remix))
+  - Screaming Inside (Illicit Thoughts)
+  - Screaming Inside (Screaming Inside)
+  - World on Fire (World on Fire)
+  - World On Fire (World On Fire)
+  - World On Fire - Extended Mix (World On Fire)
+  - >-
+    World On Fire - Foxtrot Motel Extended Remix (World On Fire (Foxtrot Motel
+    Remix))
+  - World on Fire - Foxtrot Motel Remix (World on Fire (Foxtrot Motel Remix))
+  - World On Fire (World On Fire (Foxtrot Motel Remix))
 external_urls:
-  spotify: https://open.spotify.com/artist/0Vg7E1cb1N0DvWrIPwaxGZ
-  wikipedia: https://en.wikipedia.org/wiki/James_Blake_(musician)
+  spotify: 'https://open.spotify.com/artist/0Vg7E1cb1N0DvWrIPwaxGZ'
+  wikipedia: 'https://en.wikipedia.org/wiki/James_Blake_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/dave_and_james_blake.jpg
 biography_enhanced_at: '2025-11-05T12:47:09.914431'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/James_Blake_(musician)
-- https://artist.degy.com/major-acts/james-blake
-- https://www.mixtapemadness.com/blog/music/dave-unveils-brand-new-album-the-boy-who-played-the-harp
-- https://www.youtube.com/watch?v=6dvEpGgdF9g
-- https://trenchtrenchtrench.com/features/dave-the-boy-who-played-the-harp-review
-- https://grmdaily.com/james-blake-interview/
+  - 'https://en.wikipedia.org/wiki/James_Blake_(musician)'
+  - 'https://artist.degy.com/major-acts/james-blake'
+  - >-
+    https://www.mixtapemadness.com/blog/music/dave-unveils-brand-new-album-the-boy-who-played-the-harp
+  - 'https://www.youtube.com/watch?v=6dvEpGgdF9g'
+  - >-
+    https://trenchtrenchtrench.com/features/dave-the-boy-who-played-the-harp-review
+  - 'https://grmdaily.com/james-blake-interview/'
 network_extracted: true
 entry_created: '2025-11-05T12:47:09.914447'
 last_updated: '2025-12-23T08:16:07.479620'
+birth_place: 'London, England, United Kingdom'
+origin: 'London, England, United Kingdom'
+birth_date: '1988'
+artist_type: band
 ---
 
 ![](dave_and_james_blake.jpg)

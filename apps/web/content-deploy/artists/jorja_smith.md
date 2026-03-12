@@ -5,11 +5,11 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1997-06-11'
-birth_place: London
+birth_place: 'Walsall, West Midlands, England'
 genres: []
 instruments:
-- background vocals
-- lead vocals
+  - background vocals
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jorja_smith.jpg
   caption: Jorja Smith
@@ -31,55 +31,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Drake
-  - Stormzy
-  - Kali Uchis
-  - Preditah
-  - Maverick Sabre
+    - Drake
+    - Stormzy
+    - Kali Uchis
+    - Preditah
+    - Maverick Sabre
   influenced:
-  - Mahalia
+    - Mahalia
   mentors:
-  - Amy Winehouse
-  - Maverick Sabre
+    - Amy Winehouse
+    - Maverick Sabre
 spotify_data:
   followers: 3664054
   id: 1CoZyIx7UvdxT5c8UkMzHd
   popularity: 72
-  url: https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd
+  url: 'https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd'
 discography_enriched: true
 top_tracks:
-- Crush (feat. Jorja Smith)
-- Slow Down (feat. Jorja Smith) - Vintage Culture & Slow Motion Remix
-- Get It Together (More Life)
-- Nobody But You
-- Little Things x Gypsy Woman - L BEATS MASHUP
-- Blue Lights (Lost & Found)
-- Be Honest (feat. Burna Boy)
-- On My Mind (Jorja Smith X Preditah)
-- Little Things x Gypsy Woman - L BEATS MASHUP (falling or flying (Deluxe))
-- Come With Me (feat. Jorja Smith)
+  - Crush (feat. Jorja Smith)
+  - Slow Down (feat. Jorja Smith) - Vintage Culture & Slow Motion Remix
+  - Get It Together (More Life)
+  - Nobody But You
+  - Little Things x Gypsy Woman - L BEATS MASHUP
+  - Blue Lights (Lost & Found)
+  - Be Honest (feat. Burna Boy)
+  - On My Mind (Jorja Smith X Preditah)
+  - Little Things x Gypsy Woman - L BEATS MASHUP (falling or flying (Deluxe))
+  - Come With Me (feat. Jorja Smith)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d62614aa-ef2c-44cd-8a7b-91292755a1d0
-  spotify: https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd
-  wikipedia: https://en.wikipedia.org/wiki/Jorja_Smith
+  musicbrainz: 'https://musicbrainz.org/artist/d62614aa-ef2c-44cd-8a7b-91292755a1d0'
+  spotify: 'https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jorja_Smith'
 image_path: 03_Resources/source_material/ArtistPortraits/jorja_smith.jpg
 biography_enhanced_at: '2025-11-20T06:56:22.545909'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jorja_Smith
-- https://kids.kiddle.co/Jorja_Smith
-- https://britishmusiccollection.org.uk/composer/jorja-smith
-- https://hellorayo.co.uk/kiss/entertainment/music/jorja-smith-career
+  - 'https://en.wikipedia.org/wiki/Jorja_Smith'
+  - 'https://kids.kiddle.co/Jorja_Smith'
+  - 'https://britishmusiccollection.org.uk/composer/jorja-smith'
+  - 'https://hellorayo.co.uk/kiss/entertainment/music/jorja-smith-career'
 network_extracted: true
 entry_created: '2025-11-20T06:56:22.545921'
 last_updated: '2025-12-23T08:16:10.978707'
 gender: Female
 musicbrainz_id: d62614aa-ef2c-44cd-8a7b-91292755a1d0
 tags:
-- alternative r&b
-- neo soul
-- sophisti-pop
+  - alternative r&b
+  - neo soul
+  - sophisti-pop
+origin: 'London, England'
 ---
 
 ![](jorja_smith.jpg)

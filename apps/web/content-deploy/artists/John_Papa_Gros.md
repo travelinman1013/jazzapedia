@@ -4,16 +4,16 @@ wiki_slug: john-papa-gros
 schema_version: 2
 status: active
 aliases: []
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 years_active: 2000-2013
 genres: []
 associated_acts:
-- Russell Batiste Jr.
+  - Russell Batiste Jr.
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/John_Papa_Gros.jpg
   caption: John "Papa" Gros
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 113.8
   energy_avg: 0.665
@@ -29,55 +29,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Papa Grows Funk
-  - George Porter Jr.
-  - Members of the New Orleans music community
+    - Papa Grows Funk
+    - George Porter Jr.
+    - Members of the New Orleans music community
   influenced:
-  - Younger New Orleans funk and jam musicians
+    - Younger New Orleans funk and jam musicians
   mentors:
-  - George Porter Jr.
-  - Snooks Eaglin
-  - Allen Toussaint
+    - George Porter Jr.
+    - Snooks Eaglin
+    - Allen Toussaint
 related_artists: []
 spotify_data:
   followers: 1373
   id: 4CknJjvJWYQW0TtBfs7SvR
   popularity: 19
-  url: https://open.spotify.com/artist/4CknJjvJWYQW0TtBfs7SvR
+  url: 'https://open.spotify.com/artist/4CknJjvJWYQW0TtBfs7SvR'
   verified: false
 discography_enriched: true
 albums_count: 3
 singles_count: 1
 top_tracks:
-- Cocaine and Chicken Fricassée (River's on Fire)
-- They Say I’m Different (Live To Be This)
-- Deep in the Mud (Central City)
-- Mardi Gras (Central City)
-- Sugar in My Soul (Fever Dreams)
-- Harris the Hater (Harris the Hater)
-- Sugar and Ice (River's on Fire)
-- Stormy Weather (Stormy Weather)
-- Yeah, Yeah, Yeah (Central City)
-- Please Don't Bury Me (Central City)
+  - Cocaine and Chicken Fricassée (River's on Fire)
+  - They Say I’m Different (Live To Be This)
+  - Deep in the Mud (Central City)
+  - Mardi Gras (Central City)
+  - Sugar in My Soul (Fever Dreams)
+  - Harris the Hater (Harris the Hater)
+  - Sugar and Ice (River's on Fire)
+  - Stormy Weather (Stormy Weather)
+  - 'Yeah, Yeah, Yeah (Central City)'
+  - Please Don't Bury Me (Central City)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/4CknJjvJWYQW0TtBfs7SvR
-  wikipedia: https://en.wikipedia.org/wiki/Papa_Grows_Funk
+  spotify: 'https://open.spotify.com/artist/4CknJjvJWYQW0TtBfs7SvR'
+  wikipedia: 'https://en.wikipedia.org/wiki/Papa_Grows_Funk'
 image_path: 03_Resources/source_material/ArtistPortraits/John_Papa_Gros.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:01:24.612825'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://johnpapagros.com/biography-john-papa-gros/
-- https://blues.gr/profiles/blogs/q-a-with-new-orleans-pianist-john-papa-gros-has-brought-his-city-
-- https://martyrslive.com/john-papa-gros-band
-- https://ragman.org/john-papa-gros
-- https://redbeansanderic.com/john-papa-gros-how-do-you-red-bean/
+  - 'https://johnpapagros.com/biography-john-papa-gros/'
+  - >-
+    https://blues.gr/profiles/blogs/q-a-with-new-orleans-pianist-john-papa-gros-has-brought-his-city-
+  - 'https://martyrslive.com/john-papa-gros-band'
+  - 'https://ragman.org/john-papa-gros'
+  - 'https://redbeansanderic.com/john-papa-gros-how-do-you-red-bean/'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 12:55:50.642395
+entry_created: 2025-09-18T12:55:50.642Z
 last_updated: '2025-12-23T08:16:02.645386'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](John_Papa_Gros.jpg)

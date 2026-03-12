@@ -2,24 +2,24 @@
 title: Professor Longhair
 wiki_slug: professor-longhair
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1918-12-19'
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, USA'
 death_date: '1980-01-30'
 genres:
-- boogie-woogie
-- blues
-- classic blues
+  - boogie-woogie
+  - blues
+  - classic blues
 instruments:
-- original
-- eponymous
+  - original
+  - eponymous
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Professor_Longhair.jpg
   caption: Professor Longhair
   background: non_vocal_instrumentalist
   born: '1918-12-19'
-  origin: New Orleans, Louisiana, USA
+  origin: 'New Orleans, Louisiana, USA'
   died: '1980-01-30'
 audio_profile:
   tempo_avg: 130.8
@@ -36,47 +36,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Apeman Black
-  - The Shuffling Hungarians
+    - Apeman Black
+    - The Shuffling Hungarians
   influenced:
-  - Fats Domino
-  - Allen Toussaint
-  - Dr. John
+    - Fats Domino
+    - Allen Toussaint
+    - Dr. John
   mentors:
-  - Isidore 'Tuts' Washington
-  - Kid Stormy Weather
-  - Archibald (Leon T. Gross)
+    - Isidore 'Tuts' Washington
+    - Kid Stormy Weather
+    - Archibald (Leon T. Gross)
 spotify_data:
   followers: 56637
   id: 2RyY5yFlJh6jIPfMDhHgyD
   popularity: 32
-  url: https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD
+  url: 'https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD'
 discography_enriched: true
 top_tracks:
-- Big Chief - Remastered (Crawfish Fiesta (Bonus Track Version))
-- Big Chief - Complete Version (Ultimate Mardi Gras)
-- Go To The Mardi Gras (Meet Me At Mardi Gras)
-- Mardi Gras in New Orleans
-- Hey Now Baby (Alligator)
-- Tipitina - Mono
-- Big Chief - Complete Version (Ultimate New Orleans)
-- Red Beans - Remastered (Crawfish Fiesta (Bonus Track Version))
-- Mardi Gras in New Orleans - Mono
-- Gone So Long (Alligator)
+  - Big Chief - Remastered (Crawfish Fiesta (Bonus Track Version))
+  - Big Chief - Complete Version (Ultimate Mardi Gras)
+  - Go To The Mardi Gras (Meet Me At Mardi Gras)
+  - Mardi Gras in New Orleans
+  - Hey Now Baby (Alligator)
+  - Tipitina - Mono
+  - Big Chief - Complete Version (Ultimate New Orleans)
+  - Red Beans - Remastered (Crawfish Fiesta (Bonus Track Version))
+  - Mardi Gras in New Orleans - Mono
+  - Gone So Long (Alligator)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c6177e77-151d-422d-bc87-57ae21d2780e
-  spotify: https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD
-  wikipedia: https://en.wikipedia.org/wiki/Professor_Longhair
+  musicbrainz: 'https://musicbrainz.org/artist/c6177e77-151d-422d-bc87-57ae21d2780e'
+  spotify: 'https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD'
+  wikipedia: 'https://en.wikipedia.org/wiki/Professor_Longhair'
 image_path: 03_Resources/source_material/ArtistPortraits/Professor_Longhair.jpg
 biography_enhanced_at: '2025-10-21T06:50:36.776702'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- 'EBSCO: Professor Longhair'
-- 'Sunnyside Records: Professor Longhair'
-- 'Explore Louisiana: Professor Longhair'
-- 'Alligator Records: Professor Longhair'
-- 'Music Rising: Henry Professor Longhair Roeland Byrd'
+  - 'EBSCO: Professor Longhair'
+  - 'Sunnyside Records: Professor Longhair'
+  - 'Explore Louisiana: Professor Longhair'
+  - 'Alligator Records: Professor Longhair'
+  - 'Music Rising: Henry Professor Longhair Roeland Byrd'
 network_extracted: true
 entry_created: '2025-10-21T06:50:36.776714'
 last_updated: '2025-12-23T08:16:03.620145'
@@ -84,10 +84,11 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:41:46.662450'
 musicbrainz_id: c6177e77-151d-422d-bc87-57ae21d2780e
 tags:
-- blues
-- new orleans blues
-- new orleans r&b
-
+  - blues
+  - new orleans blues
+  - new orleans r&b
+is_active: false
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](Professor_Longhair.jpg)

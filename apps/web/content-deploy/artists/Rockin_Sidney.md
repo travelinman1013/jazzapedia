@@ -5,23 +5,23 @@ schema_version: 2
 status: deceased
 aliases: []
 birth_date: '1938-04-09'
-birth_place: Lebeau, Louisiana, United States
+birth_place: 'Lebeau, Louisiana, United States'
 death_date: '1998-02-25'
 years_active: 1958-1998
 genres:
-- rock urbano
+  - rock urbano
 instruments:
-- accordion
+  - accordion
 occupation:
-- musician
+  - musician
 record_labels:
-- Epic Records
+  - Epic Records
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Rockin_Sidney.jpg
   caption: Rockin' Sidney
   background: non_vocal_instrumentalist
   born: '1938-04-09'
-  origin: Lebeau, Louisiana, United States
+  origin: 'Lebeau, Louisiana, United States'
   died: '1998-02-25'
 audio_profile:
   tempo_avg: 149.6
@@ -38,57 +38,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - George Lewis
-  - Katie Webster
-  - Floyd Soileau
+    - George Lewis
+    - Katie Webster
+    - Floyd Soileau
   influenced:
-  - Terrance Simien
-  - Chubby Carrier
-  - The Fabulous Thunderbirds
+    - Terrance Simien
+    - Chubby Carrier
+    - The Fabulous Thunderbirds
   mentors:
-  - Slim Harpo
-  - Cookie & the Cupcakes
-  - Clifton Chenier
+    - Slim Harpo
+    - Cookie & the Cupcakes
+    - Clifton Chenier
 related_artists: []
 spotify_data:
   followers: 3148
   id: 328azApStz6rBvBKZsUwvi
   popularity: 24
-  url: https://open.spotify.com/artist/328azApStz6rBvBKZsUwvi
+  url: 'https://open.spotify.com/artist/328azApStz6rBvBKZsUwvi'
   verified: false
 discography_enriched: true
 albums_count: 8
 singles_count: 2
 top_tracks:
-- Moo Cow-a-Sockee (Mais yeah chere!)
-- My Toot Toot (My Toot Toot)
-- Mais yeah chere! (Mais yeah chere!)
-- Jalapeno Lena (My Toot Toot)
-- Harlem Shuffle (Zydeco Is Fun)
-- If It's Good for the Gander (My Toot Toot)
-- Mardi Gras Zydeco (Cajun and Zydeco Mardi Gras)
-- Good Hearted Man (The Best of Swamp Pop Classics)
-- No Good Woman (Mais yeah chere!)
-- Shirley Jean (My Toot Toot)
+  - Moo Cow-a-Sockee (Mais yeah chere!)
+  - My Toot Toot (My Toot Toot)
+  - Mais yeah chere! (Mais yeah chere!)
+  - Jalapeno Lena (My Toot Toot)
+  - Harlem Shuffle (Zydeco Is Fun)
+  - If It's Good for the Gander (My Toot Toot)
+  - Mardi Gras Zydeco (Cajun and Zydeco Mardi Gras)
+  - Good Hearted Man (The Best of Swamp Pop Classics)
+  - No Good Woman (Mais yeah chere!)
+  - Shirley Jean (My Toot Toot)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/328azApStz6rBvBKZsUwvi
-  wikipedia: https://en.wikipedia.org/wiki/Rockin'_Sidney
+  spotify: 'https://open.spotify.com/artist/328azApStz6rBvBKZsUwvi'
+  wikipedia: 'https://en.wikipedia.org/wiki/Rockin''_Sidney'
 image_path: 03_Resources/source_material/ArtistPortraits/Rockin_Sidney.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:35:35.166914'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Rockin'_Sidney
-- https://64parishes.org/entry/rockin-sidney
-- https://www.rocky-52.net/chanteurss/sidney_r.htm
-- https://tims.blackcat.nl/messages/rockin_sidney.htm
+  - 'https://en.wikipedia.org/wiki/Rockin''_Sidney'
+  - 'https://64parishes.org/entry/rockin-sidney'
+  - 'https://www.rocky-52.net/chanteurss/sidney_r.htm'
+  - 'https://tims.blackcat.nl/messages/rockin_sidney.htm'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 13:05:47.734994
+entry_created: 2025-09-18T13:05:47.734Z
 last_updated: '2025-12-23T08:16:03.719135'
-
+is_active: false
+artist_type: person
 ---
 
 ![](Rockin_Sidney.jpg)

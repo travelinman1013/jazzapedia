@@ -2,24 +2,24 @@
 title: Wilco
 wiki_slug: wilco
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1994'
 genres:
-- alt country
-- americana
-- indie rock
+  - alt country
+  - americana
+  - indie rock
 instruments:
-- fiddle
-- original
-- banjo
-- mandolin
-- drums (drum set)
-- bass guitar
-- lead vocals
-- guitar
-- keyboard
-- pedal steel guitar
+  - fiddle
+  - original
+  - banjo
+  - mandolin
+  - drums (drum set)
+  - bass guitar
+  - lead vocals
+  - guitar
+  - keyboard
+  - pedal steel guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Wilco.jpg
   caption: Wilco
@@ -40,57 +40,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Billy Bragg
-  - Jay Bennett
-  - Nels Cline
-  - Glenn Kotche
-  - Pat Sansone
-  - Mikael Jorgensen
+    - Billy Bragg
+    - Jay Bennett
+    - Nels Cline
+    - Glenn Kotche
+    - Pat Sansone
+    - Mikael Jorgensen
   influenced:
-  - The Decemberists
-  - Fleet Foxes
-  - My Morning Jacket
+    - The Decemberists
+    - Fleet Foxes
+    - My Morning Jacket
   mentors:
-  - Woody Guthrie
+    - Woody Guthrie
 spotify_data:
   followers: 821570
   id: 2QoU3awHVdcHS8LrZEKvSM
   popularity: 58
-  url: https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM
+  url: 'https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM'
 discography_enriched: true
 top_tracks:
-- Jesus, Etc. - 2022 Remaster (Yankee Hotel Foxtrot (Expanded Edition))
-- California Stars (Mermaid Avenue)
-- How to Fight Loneliness (Summerteeth)
-- If I Ever Was a Child (Schmilco)
-- Jesus, Etc. (Yankee Hotel Foxtrot)
-- 'When The Roses Bloom Again (Mermaid Avenue: The Complete Sessions)'
-- Heavy Metal Drummer - 2022 Remaster (Yankee Hotel Foxtrot (Expanded Edition))
-- Love Is Everywhere (Beware) (Ode to Joy)
-- Impossible Germany (Sky Blue Sky)
-- Way Over Yonder In The Minor Key (Mermaid Avenue)
+  - 'Jesus, Etc. - 2022 Remaster (Yankee Hotel Foxtrot (Expanded Edition))'
+  - California Stars (Mermaid Avenue)
+  - How to Fight Loneliness (Summerteeth)
+  - If I Ever Was a Child (Schmilco)
+  - 'Jesus, Etc. (Yankee Hotel Foxtrot)'
+  - 'When The Roses Bloom Again (Mermaid Avenue: The Complete Sessions)'
+  - >-
+    Heavy Metal Drummer - 2022 Remaster (Yankee Hotel Foxtrot (Expanded
+    Edition))
+  - Love Is Everywhere (Beware) (Ode to Joy)
+  - Impossible Germany (Sky Blue Sky)
+  - Way Over Yonder In The Minor Key (Mermaid Avenue)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9e53f84d-ef44-4c16-9677-5fd4d78cbd7d
-  spotify: https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM
-  wikipedia: https://simple.wikipedia.org/wiki/Wilco
+  musicbrainz: 'https://musicbrainz.org/artist/9e53f84d-ef44-4c16-9677-5fd4d78cbd7d'
+  spotify: 'https://open.spotify.com/artist/2QoU3awHVdcHS8LrZEKvSM'
+  wikipedia: 'https://simple.wikipedia.org/wiki/Wilco'
 image_path: 03_Resources/source_material/ArtistPortraits/Wilco.jpg
 biography_enhanced_at: '2025-10-22T06:51:56.414212'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.britannica.com/topic/Wilco
-- https://www.last.fm/music/Wilco/+wiki
-- https://americansongwriter.com/behind-the-band-name-wilco/
+  - 'https://www.britannica.com/topic/Wilco'
+  - 'https://www.last.fm/music/Wilco/+wiki'
+  - 'https://americansongwriter.com/behind-the-band-name-wilco/'
 network_extracted: true
 entry_created: '2025-10-22T06:51:56.414227'
 last_updated: '2025-12-23T08:16:04.278463'
 disambiguation: American alternative rock band
 musicbrainz_id: 9e53f84d-ef44-4c16-9677-5fd4d78cbd7d
-origin: Chicago
+origin: 'Chicago, Illinois, United States'
 tags:
-- alt-country
-- alternative rock
-- americana
+  - alt-country
+  - alternative rock
+  - americana
 ---
 
 ![](Wilco.jpg)

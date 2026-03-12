@@ -4,19 +4,19 @@ wiki_slug: dayna-kurtz
 schema_version: 2
 artist_type: person
 status: active
-birth_place: New Jersey
+birth_place: 'New Jersey, United States'
 genres: []
 instruments:
-- guitar
-- slide guitar
-- background vocals
+  - guitar
+  - slide guitar
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/dayna_kurtz.jpg
   caption: Dayna Kurtz
   background: solo_singer
   origin: New Jersey
 audio_profile:
-  tempo_avg: 119.0
+  tempo_avg: 119
   energy_avg: 0.356
   valence_avg: 0.399
   danceability_avg: 0.502
@@ -30,59 +30,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Simon Lott
-  - David Torkanowsky
-  - Matt Perrine
-  - Robert Mache
-  - Bernard Purdie
-  - George Porter, Jr.
+    - Simon Lott
+    - David Torkanowsky
+    - Matt Perrine
+    - Robert Mache
+    - Bernard Purdie
+    - 'George Porter, Jr.'
   influenced: []
   mentors:
-  - Joni Mitchell
-  - Stevie Wonder
+    - Joni Mitchell
+    - Stevie Wonder
 spotify_data:
   followers: 6023
   id: 6SxmT09EvM3eYGZ00bUmDw
   popularity: 19
-  url: https://open.spotify.com/artist/6SxmT09EvM3eYGZ00bUmDw
+  url: 'https://open.spotify.com/artist/6SxmT09EvM3eYGZ00bUmDw'
 discography_enriched: true
 top_tracks:
-- Reconsider Me (Secret Canon Vol. 2)
-- It's How You Hold Me (Rise And Fall)
-- Love Gets In The Way (Postcards From Downtown)
-- Not Jealous (Mmm... Gumbo?)
-- I'll Be a Liar (Secret Canon Vol. 2)
-- Reconsider Me (Secret Canon Vol. 2)
-- You're Not What I Need (But You're All That I Want) (Rise And Fall)
-- Venezuela (Another Black Feather... For The Wings Of A Sinner)
-- You'll Always Live Inside Me (Rise And Fall)
-- I'll Be A Liar (Secret Canon Vol. 2)
+  - Reconsider Me (Secret Canon Vol. 2)
+  - It's How You Hold Me (Rise And Fall)
+  - Love Gets In The Way (Postcards From Downtown)
+  - Not Jealous (Mmm... Gumbo?)
+  - I'll Be a Liar (Secret Canon Vol. 2)
+  - Reconsider Me (Secret Canon Vol. 2)
+  - You're Not What I Need (But You're All That I Want) (Rise And Fall)
+  - Venezuela (Another Black Feather... For The Wings Of A Sinner)
+  - You'll Always Live Inside Me (Rise And Fall)
+  - I'll Be A Liar (Secret Canon Vol. 2)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ebe326b7-a1eb-46f2-9098-e220f497ec59
-  spotify: https://open.spotify.com/artist/6SxmT09EvM3eYGZ00bUmDw
-  wikipedia: https://en.wikipedia.org/wiki/Dayna_Kurtz
+  musicbrainz: 'https://musicbrainz.org/artist/ebe326b7-a1eb-46f2-9098-e220f497ec59'
+  spotify: 'https://open.spotify.com/artist/6SxmT09EvM3eYGZ00bUmDw'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dayna_Kurtz'
 image_path: 03_Resources/source_material/ArtistPortraits/dayna_kurtz.jpg
 biography_enhanced_at: '2025-11-20T07:13:54.262505'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.offbeat.com/news/dayna-kurtz-dig-yourself/
-- https://www.blackoakartists.com/artist/dayna-kurtz
-- https://thefoundryws.com/event/dayna-kurtz/
-- https://www.neworleans.com/listing/dayna-kurtz/46362/
-- https://klanderman.files.wordpress.com/2013/09/dayna-kurtz-bio.pdf
-- https://daynakurtz.com/?page_id=244
-- https://www.wxxinews.org/across-the-universe/2022-10-12/dayna-kurtz-earball-is-not-for-everybody-but-maybe-just-right-for-you
-- https://www.passim.org/artists/dayna-kurtz/
+  - 'https://www.offbeat.com/news/dayna-kurtz-dig-yourself/'
+  - 'https://www.blackoakartists.com/artist/dayna-kurtz'
+  - 'https://thefoundryws.com/event/dayna-kurtz/'
+  - 'https://www.neworleans.com/listing/dayna-kurtz/46362/'
+  - 'https://klanderman.files.wordpress.com/2013/09/dayna-kurtz-bio.pdf'
+  - 'https://daynakurtz.com/?page_id=244'
+  - >-
+    https://www.wxxinews.org/across-the-universe/2022-10-12/dayna-kurtz-earball-is-not-for-everybody-but-maybe-just-right-for-you
+  - 'https://www.passim.org/artists/dayna-kurtz/'
 network_extracted: true
 entry_created: '2025-11-20T07:13:54.262516'
 last_updated: '2025-12-23T08:16:07.605854'
 gender: Female
 musicbrainz_id: ebe326b7-a1eb-46f2-9098-e220f497ec59
 tags:
-- americana
-- folk
-- jazz
+  - americana
+  - folk
+  - jazz
 ---
 
 ![](dayna_kurtz.jpg)

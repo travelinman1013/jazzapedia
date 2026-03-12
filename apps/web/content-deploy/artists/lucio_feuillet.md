@@ -1,12 +1,12 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-17T02:01:07.503643'
-birth_place: Pasto, Nariño, Colombia
+birth_place: 'Pasto, Nariño, Colombia'
 enhancement_provider: perplexity
 entry_created: '2026-01-17T02:01:07.503664'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/38d81644-0355-4e2a-9aea-cf7e2600a002
-  spotify: https://open.spotify.com/artist/3Yp1PECnenFgiTyFYbobqg
+  musicbrainz: 'https://musicbrainz.org/artist/38d81644-0355-4e2a-9aea-cf7e2600a002'
+  spotify: 'https://open.spotify.com/artist/3Yp1PECnenFgiTyFYbobqg'
   wikipedia: ''
 gender: Male
 genres: []
@@ -14,26 +14,29 @@ image_path: ''
 last_updated: '2026-01-17T02:01:07.503668'
 musical_connections:
   collaborators:
-  - La Muchacha
+    - La Muchacha
   influenced: []
   mentors: []
 musicbrainz_id: 38d81644-0355-4e2a-9aea-cf7e2600a002
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.youtube.com/watch?v=_u0cTg5tlFg
-- https://www.viberate.com/artist/lucio-feuillet/
-- https://remezcla.com/features/music/the-mess-beyond-the-sunken-place-of-colombian-popeton-rap-marimba-lots-of-verraquera/
-- https://havanatimes.org/todays-song/lucio-feuillet-la-muchacha-song-of-the-day/
-- https://beehy.pe/lucio-feuillet-10-pilas-pues-colombia/
-- https://open.spotify.com/artist/5cV9Dza9Slv8jlGAzYYiCy
+  - 'https://www.youtube.com/watch?v=_u0cTg5tlFg'
+  - 'https://www.viberate.com/artist/lucio-feuillet/'
+  - >-
+    https://remezcla.com/features/music/the-mess-beyond-the-sunken-place-of-colombian-popeton-rap-marimba-lots-of-verraquera/
+  - >-
+    https://havanatimes.org/todays-song/lucio-feuillet-la-muchacha-song-of-the-day/
+  - 'https://beehy.pe/lucio-feuillet-10-pilas-pues-colombia/'
+  - 'https://open.spotify.com/artist/5cV9Dza9Slv8jlGAzYYiCy'
 spotify_data:
   followers: 3
   id: 3Yp1PECnenFgiTyFYbobqg
   popularity: 0
-  url: https://open.spotify.com/artist/3Yp1PECnenFgiTyFYbobqg
+  url: 'https://open.spotify.com/artist/3Yp1PECnenFgiTyFYbobqg'
 status: active
 title: Lucio Feuillet
+origin: 'Pasto, Nariño, Colombia'
 ---
 
 ![]()

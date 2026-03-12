@@ -1,15 +1,17 @@
 ---
-title: Dan Romer, Ben Zeitlin
+title: 'Dan Romer, Ben Zeitlin'
 wiki_slug: dan-romer-ben-zeitlin
 schema_version: 2
 status: active
-birth_place: New York City, New York, USA (birthplace for both Dan Romer and Benh Zeitlin)
+birth_place: 'New York City, New York, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/dan_romer_ben_zeitlin.jpg
-  caption: Dan Romer, Ben Zeitlin
+  caption: 'Dan Romer, Ben Zeitlin'
   background: solo_singer
-  origin: New York City, New York, USA (birthplace for both Dan Romer and Benh Zeitlin)
+  origin: >-
+    New York City, New York, USA (birthplace for both Dan Romer and Benh
+    Zeitlin)
 audio_profile:
   tempo_avg: 118.1
   energy_avg: 0.393
@@ -25,46 +27,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dan Romer & Benh Zeitlin
-  - Ray Tintori
-  - Court 13 Collective
+    - Dan Romer & Benh Zeitlin
+    - Ray Tintori
+    - Court 13 Collective
   influenced:
-  - Emerging indie filmmakers and composers
+    - Emerging indie filmmakers and composers
   mentors:
-  - Osei Essed
-  - Jan Švankmajer (indirect, via animators)
+    - Osei Essed
+    - 'Jan Švankmajer (indirect, via animators)'
 spotify_data:
   followers: 491
   id: 4P2fEqGKOFSougGukW77bV
   popularity: 1
-  url: https://open.spotify.com/artist/4P2fEqGKOFSougGukW77bV
+  url: 'https://open.spotify.com/artist/4P2fEqGKOFSougGukW77bV'
 discography_enriched: true
 top_tracks:
-- Elysian Fields (Glory at Sea / Death to the Tinman Soundtrack)
-- The Ark (Glory at Sea / Death to the Tinman Soundtrack)
-- Throw Your Arms Around Me (Glory at Sea / Death to the Tinman Soundtrack)
-- Memorial (Glory at Sea / Death to the Tinman Soundtrack)
-- The Town Pariah (Glory at Sea / Death to the Tinman Soundtrack)
-- I Don't Even Have a Heart Anymore (Glory at Sea / Death to the Tinman Soundtrack)
-- To the Bottom of the Sea (Glory at Sea / Death to the Tinman Soundtrack)
-- U.S.S Jimmy Lee (Glory at Sea / Death to the Tinman Soundtrack)
-- Steal from the Rich (Glory at Sea / Death to the Tinman Soundtrack)
-- The Curse (Glory at Sea / Death to the Tinman Soundtrack)
+  - Elysian Fields (Glory at Sea / Death to the Tinman Soundtrack)
+  - The Ark (Glory at Sea / Death to the Tinman Soundtrack)
+  - Throw Your Arms Around Me (Glory at Sea / Death to the Tinman Soundtrack)
+  - Memorial (Glory at Sea / Death to the Tinman Soundtrack)
+  - The Town Pariah (Glory at Sea / Death to the Tinman Soundtrack)
+  - >-
+    I Don't Even Have a Heart Anymore (Glory at Sea / Death to the Tinman
+    Soundtrack)
+  - To the Bottom of the Sea (Glory at Sea / Death to the Tinman Soundtrack)
+  - U.S.S Jimmy Lee (Glory at Sea / Death to the Tinman Soundtrack)
+  - Steal from the Rich (Glory at Sea / Death to the Tinman Soundtrack)
+  - The Curse (Glory at Sea / Death to the Tinman Soundtrack)
 external_urls:
-  spotify: https://open.spotify.com/artist/4P2fEqGKOFSougGukW77bV
-  wikipedia: https://en.wikipedia.org/wiki/Beasts_of_the_Southern_Wild
+  spotify: 'https://open.spotify.com/artist/4P2fEqGKOFSougGukW77bV'
+  wikipedia: 'https://en.wikipedia.org/wiki/Beasts_of_the_Southern_Wild'
 image_path: 03_Resources/source_material/ArtistPortraits/dan_romer_ben_zeitlin.jpg
 biography_enhanced_at: '2025-11-12T14:47:59.733634'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.smithsonianmag.com/arts-culture/how-benh-zeitlin-made-beasts-of-the-southern-wild-135132724/
-- https://awardswatch.com/interview-dan-romer-on-themes-and-inspirations-and-how-hamlet-played-a-part-in-scoring-station-eleven/
-- https://www.imdb.com/name/nm1022455/
-- https://beastsofthesouthernwild.com/news/category/Cast+and+Crew
+  - >-
+    https://www.smithsonianmag.com/arts-culture/how-benh-zeitlin-made-beasts-of-the-southern-wild-135132724/
+  - >-
+    https://awardswatch.com/interview-dan-romer-on-themes-and-inspirations-and-how-hamlet-played-a-part-in-scoring-station-eleven/
+  - 'https://www.imdb.com/name/nm1022455/'
+  - 'https://beastsofthesouthernwild.com/news/category/Cast+and+Crew'
 network_extracted: true
 entry_created: '2025-11-12T14:47:59.733643'
 last_updated: '2025-12-23T08:16:07.415002'
+artist_type: band
 ---
 
 ![](dan_romer_ben_zeitlin.jpg)

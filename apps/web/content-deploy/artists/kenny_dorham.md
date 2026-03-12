@@ -5,61 +5,61 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1924-08-30'
-birth_place: Texas
+birth_place: 'Fairfield, Texas, United States'
 death_date: '1972-12-05'
 genres:
-- hard bop
-- jazz
-- bebop
-- cool jazz
-- latin jazz
+  - hard bop
+  - jazz
+  - bebop
+  - cool jazz
+  - latin jazz
 instruments:
-- original
-- trumpet
-- piano
+  - original
+  - trumpet
+  - piano
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  - trumpet
-  mbid: b6888584-3192-4e56-8ca7-84e6ccafae27
-  name: Kenny Dorham Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 2c0f3197-b906-4d44-98d2-99d20db45506
-  name: Kenny Dorham Septet
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  - trumpet
-  mbid: 3e21f337-93ff-4b73-87d2-7aff4aa1e6d6
-  name: Kenny Dorham Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8ae40b08-6a6a-4c15-a4c2-f193540852ab
-  name: The Dave Bailey Sextet
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: f3c4ad5f-47b2-41d7-9b5a-4b37999d9a23
-  name: Kenny Dorham Octet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: fd0e891f-7bcd-4fcd-8d11-29c712d23539
-  name: The Riverside Jazz Stars
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: c718232d-5c58-474f-b770-a581977fb5c8
-  name: Cecil Taylor Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - trumpet
+    mbid: b6888584-3192-4e56-8ca7-84e6ccafae27
+    name: Kenny Dorham Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 2c0f3197-b906-4d44-98d2-99d20db45506
+    name: Kenny Dorham Septet
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - trumpet
+    mbid: 3e21f337-93ff-4b73-87d2-7aff4aa1e6d6
+    name: Kenny Dorham Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8ae40b08-6a6a-4c15-a4c2-f193540852ab
+    name: The Dave Bailey Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: f3c4ad5f-47b2-41d7-9b5a-4b37999d9a23
+    name: Kenny Dorham Octet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: fd0e891f-7bcd-4fcd-8d11-29c712d23539
+    name: The Riverside Jazz Stars
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: c718232d-5c58-474f-b770-a581977fb5c8
+    name: Cecil Taylor Quintet
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/kenny_dorham.jpg
   caption: Kenny Dorham
@@ -82,60 +82,67 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Charlie Parker
-  - Art Blakey
-  - Max Roach
-  - Joe Henderson
-  - Cannonball Adderley
-  - Sonny Rollins
+    - Charlie Parker
+    - Art Blakey
+    - Max Roach
+    - Joe Henderson
+    - Cannonball Adderley
+    - Sonny Rollins
   influenced:
-  - Joe Henderson
-  - Freddie Hubbard
-  - Woody Shaw
+    - Joe Henderson
+    - Freddie Hubbard
+    - Woody Shaw
   mentors:
-  - Dizzy Gillespie
-  - Fats Navarro
-  - Miles Davis
+    - Dizzy Gillespie
+    - Fats Navarro
+    - Miles Davis
 spotify_data:
   followers: 90624
   id: 2fMvylhnE23sAlyePKK8er
   popularity: 43
-  url: https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er
+  url: 'https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er'
 discography_enriched: true
 top_tracks:
-- Alone Together - Rudy Van Gelder Remaster 2006 (Quiet Kenny)
-- My Ideal (Quiet Kenny)
-- Lotus Blossom (Quiet Kenny)
-- Alone Together - Rudy Van Gelder Remaster 2006 (Quiet Kenny)
-- Autumn In New York - Set 1 / Live From Cafe Bohemia/1956 (The Complete 'Round About Midnight At The Cafe Bohemia (Live))
-- If Ever I Would Leave You - Remasted 1998/ Rudy Van Gelder Edition (Una Mas)
-- I Had The Craziest Dream (Quiet Kenny)
-- Monaco - Set 1 / Live From Cafe Bohemia/1956 (The Complete 'Round About Midnight At The Cafe Bohemia (Live))
-- Blue Friday - Rudy Van Gelder Remaster (Quiet Kenny)
-- Lotus Flower - Rudy Van Gelder Edition/2007 Digital Remaster (Afro-Cuban (Rudy Van Gelder Edition))
+  - Alone Together - Rudy Van Gelder Remaster 2006 (Quiet Kenny)
+  - My Ideal (Quiet Kenny)
+  - Lotus Blossom (Quiet Kenny)
+  - Alone Together - Rudy Van Gelder Remaster 2006 (Quiet Kenny)
+  - >-
+    Autumn In New York - Set 1 / Live From Cafe Bohemia/1956 (The Complete
+    'Round About Midnight At The Cafe Bohemia (Live))
+  - If Ever I Would Leave You - Remasted 1998/ Rudy Van Gelder Edition (Una Mas)
+  - I Had The Craziest Dream (Quiet Kenny)
+  - >-
+    Monaco - Set 1 / Live From Cafe Bohemia/1956 (The Complete 'Round About
+    Midnight At The Cafe Bohemia (Live))
+  - Blue Friday - Rudy Van Gelder Remaster (Quiet Kenny)
+  - >-
+    Lotus Flower - Rudy Van Gelder Edition/2007 Digital Remaster (Afro-Cuban
+    (Rudy Van Gelder Edition))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4476453a-d37e-4c52-b60d-07c90b6fa661
-  spotify: https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er
-  wikipedia: https://en.wikipedia.org/wiki/Kenny_Dorham
+  musicbrainz: 'https://musicbrainz.org/artist/4476453a-d37e-4c52-b60d-07c90b6fa661'
+  spotify: 'https://open.spotify.com/artist/2fMvylhnE23sAlyePKK8er'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kenny_Dorham'
 image_path: 03_Resources/source_material/ArtistPortraits/kenny_dorham.jpg
 biography_enhanced_at: '2025-10-22T09:34:06.494982'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.britannica.com/biography/Kenny-Dorham
-- https://en.wikipedia.org/wiki/Kenny_Dorham
-- https://www.tshaonline.org/handbook/entries/dorham-mckinley-howard-kenny
-- https://concord.com/artist/kenny-dorham/
+  - 'https://www.britannica.com/biography/Kenny-Dorham'
+  - 'https://en.wikipedia.org/wiki/Kenny_Dorham'
+  - 'https://www.tshaonline.org/handbook/entries/dorham-mckinley-howard-kenny'
+  - 'https://concord.com/artist/kenny-dorham/'
 network_extracted: true
 entry_created: '2025-10-22T09:34:06.494995'
 last_updated: '2025-12-23T08:16:11.312262'
-disambiguation: US jazz trumpeter, singer, and composer
+disambiguation: 'US jazz trumpeter, singer, and composer'
 gender: Male
 musicbrainz_id: 4476453a-d37e-4c52-b60d-07c90b6fa661
 tags:
-- 2008 universal fire victim
-- bebop
-- hard bop
+  - 2008 universal fire victim
+  - bebop
+  - hard bop
+is_active: false
 ---
 
 ![](kenny_dorham.jpg)

@@ -1,53 +1,56 @@
 ---
 biography_enhanced_at: '2026-01-10T01:16:44.940462'
-birth_place: Shreveport, Louisiana, United States
+birth_place: 'Shreveport, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-10T01:16:44.940468'
 external_urls:
-  spotify: https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb
-  wikipedia: https://en.wikipedia.org/wiki/Hank_Williams_Jr.
+  spotify: 'https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb'
+  wikipedia: 'https://en.wikipedia.org/wiki/Hank_Williams_Jr.'
 genres:
-- outlaw country
-- classic country
-- country
-- honky tonk
-- country rock
+  - outlaw country
+  - classic country
+  - country
+  - honky tonk
+  - country rock
 image_path: 03_Resources/source_material/ArtistPortraits/hank_williams_jr.jpg
 last_updated: '2026-01-10T01:16:44.940468'
 musical_connections:
   collaborators:
-  - Mike Curb
-  - The Mike Curb Congregation
-  - Monday Night Football (ABC/ESPN production team)
+    - Mike Curb
+    - The Mike Curb Congregation
+    - Monday Night Football (ABC/ESPN production team)
   influenced:
-  - Country and Southern rock artists blending rock and outlaw country (e.g., later
-    country-rock performers)
+    - >-
+      Country and Southern rock artists blending rock and outlaw country (e.g.,
+      later country-rock performers)
   mentors:
-  - Hank Williams Sr.
-  - Johnny Cash
-  - Jerry Lee Lewis
-  - Merle Haggard
-  - Fats Domino
-  - Earl Scruggs
-  - Lightnin’ Hopkins
+    - Hank Williams Sr.
+    - Johnny Cash
+    - Jerry Lee Lewis
+    - Merle Haggard
+    - Fats Domino
+    - Earl Scruggs
+    - Lightnin’ Hopkins
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.biography.com/musicians/hank-williams-jr
-- https://www.britannica.com/biography/Hank-Williams-Jr
-- https://en.wikipedia.org/wiki/Hank_Williams_Jr.
-- https://study.com/academy/lesson/hank-williams-jr-biography-songs-death.html
-- https://www.countrymusichalloffame.org/hall-of-fame/hank-williams-jr
-- https://www.imdb.com/name/nm0929947/bio/
-- https://www.youtube.com/watch?v=sZWVvD0aYq4
-- https://64parishes.org/entry/hank-williams-jr
+  - 'https://www.biography.com/musicians/hank-williams-jr'
+  - 'https://www.britannica.com/biography/Hank-Williams-Jr'
+  - 'https://en.wikipedia.org/wiki/Hank_Williams_Jr.'
+  - 'https://study.com/academy/lesson/hank-williams-jr-biography-songs-death.html'
+  - 'https://www.countrymusichalloffame.org/hall-of-fame/hank-williams-jr'
+  - 'https://www.imdb.com/name/nm0929947/bio/'
+  - 'https://www.youtube.com/watch?v=sZWVvD0aYq4'
+  - 'https://64parishes.org/entry/hank-williams-jr'
 spotify_data:
   followers: 1942724
   id: 2dyeCWctcFRt3Pha76ONgb
   popularity: 69
-  url: https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb
+  url: 'https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb'
 status: active
-title: hank williams jr
+title: Hank Williams Jr.
+birth_date: '1949-05-26'
+artist_type: person
 ---
 
 ![](hank_williams_jr.jpg)

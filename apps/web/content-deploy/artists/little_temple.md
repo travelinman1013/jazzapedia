@@ -1,11 +1,11 @@
 ---
-title: little temple
+title: Little Temple
 wiki_slug: little-temple
 schema_version: 2
 status: active
 genres:
-- trip hop
-- downtempo
+  - trip hop
+  - downtempo
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/little_temple.jpg
   caption: little temple
@@ -31,32 +31,33 @@ spotify_data:
   followers: 105513
   id: 3cbU0WxlZJTFLTfXEUB433
   popularity: 40
-  url: https://open.spotify.com/artist/3cbU0WxlZJTFLTfXEUB433
+  url: 'https://open.spotify.com/artist/3cbU0WxlZJTFLTfXEUB433'
 discography_enriched: true
 top_tracks:
-- Moon (Mickey Mouse Operation)
-- Start Shootin' (Mickey Mouse Operation)
-- Basique (Mickey Mouse Operation)
-- Gravitas (Mickey Mouse Operation)
-- Carefully (We Are but Hunks of Wood (Remixes))
-- Start Shootin' - Americana Remix (Unreleased Bits & Pieces, Pt. 2)
-- Unsaid (Mickey Mouse Operation)
-- Electrickery - Joey Fehrenbach Remix (We Are but Hunks of Wood (Remixes))
-- Above The Clouds (Mickey Mouse Operation)
-- Marzipan Children (We Are but Hunks of Wood)
+  - Moon (Mickey Mouse Operation)
+  - Start Shootin' (Mickey Mouse Operation)
+  - Basique (Mickey Mouse Operation)
+  - Gravitas (Mickey Mouse Operation)
+  - Carefully (We Are but Hunks of Wood (Remixes))
+  - 'Start Shootin'' - Americana Remix (Unreleased Bits & Pieces, Pt. 2)'
+  - Unsaid (Mickey Mouse Operation)
+  - Electrickery - Joey Fehrenbach Remix (We Are but Hunks of Wood (Remixes))
+  - Above The Clouds (Mickey Mouse Operation)
+  - Marzipan Children (We Are but Hunks of Wood)
 external_urls:
-  spotify: https://open.spotify.com/artist/3cbU0WxlZJTFLTfXEUB433
+  spotify: 'https://open.spotify.com/artist/3cbU0WxlZJTFLTfXEUB433'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/little_temple.jpg
 biography_enhanced_at: '2025-11-20T07:32:14.157749'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Spotify artist context
-- No Wikipedia or major music database entries found as of November 2025
+  - Spotify artist context
+  - No Wikipedia or major music database entries found as of November 2025
 network_extracted: true
 entry_created: '2025-11-20T07:32:14.157763'
 last_updated: '2025-12-23T08:16:12.044995'
+artist_type: person
 ---
 
 ![](little_temple.jpg)

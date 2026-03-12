@@ -2,19 +2,19 @@
 title: The Coasters
 wiki_slug: the-coasters
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 birth_date: '1955-10-12'
 genres:
-- doo-wop
-- rock and roll
+  - doo-wop
+  - rock and roll
 instruments:
-- original
-- tenor vocals
-- bass vocals
-- baritone vocals
-- lead vocals
-- guitar
+  - original
+  - tenor vocals
+  - bass vocals
+  - baritone vocals
+  - lead vocals
+  - guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/The_Coasters.jpg
   caption: The Coasters
@@ -35,61 +35,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Carl Gardner
-  - Bobby Nunn
-  - Billy Guy
-  - Leon Hughes
-  - Will 'Dub' Jones
-  - King Curtis
+    - Carl Gardner
+    - Bobby Nunn
+    - Billy Guy
+    - Leon Hughes
+    - Will 'Dub' Jones
+    - King Curtis
   influenced:
-  - The Beatles
-  - The Beach Boys
-  - Frank Zappa
+    - The Beatles
+    - The Beach Boys
+    - Frank Zappa
   mentors:
-  - Johnny Otis
-  - Jerry Leiber & Mike Stoller
+    - Johnny Otis
+    - Jerry Leiber & Mike Stoller
 spotify_data:
   followers: 235839
   id: 3QZKZBEmr54lAVI5XvmjnM
   popularity: 46
-  url: https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM
+  url: 'https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM'
 discography_enriched: true
 top_tracks:
-- Yakety Yak - 2007 Remaster
-- Down in Mexico (The Coasters)
-- Yakety Yak (Wrap It Up)
-- Charlie Brown - 2007 Remaster Stereo Single Version; Remastered
-- Searchin' (The Coasters)
-- Poison Ivy - 2007 Remaster; Remastered
-- Down In Mexico (Soul Music 02 - 50 Hits From The Early Years)
-- Smokey Joe's Cafe (The Coasters)
-- Charlie Brown (Wrap It Up)
-- Down in Mexico
+  - Yakety Yak - 2007 Remaster
+  - Down in Mexico (The Coasters)
+  - Yakety Yak (Wrap It Up)
+  - Charlie Brown - 2007 Remaster Stereo Single Version; Remastered
+  - Searchin' (The Coasters)
+  - Poison Ivy - 2007 Remaster; Remastered
+  - Down In Mexico (Soul Music 02 - 50 Hits From The Early Years)
+  - Smokey Joe's Cafe (The Coasters)
+  - Charlie Brown (Wrap It Up)
+  - Down in Mexico
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c174f353-4666-4dfb-af54-5cc70b8afd55
-  spotify: https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM
-  wikipedia: https://en.wikipedia.org/wiki/The_Coasters
+  musicbrainz: 'https://musicbrainz.org/artist/c174f353-4666-4dfb-af54-5cc70b8afd55'
+  spotify: 'https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Coasters'
 image_path: 03_Resources/source_material/ArtistPortraits/The_Coasters.jpg
 biography_enhanced_at: '2025-10-19T12:28:23.211703'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.britannica.com/topic/the-Coasters
-- https://rockhall.com/wp-content/uploads/2024/03/The_Coasters_1987.pdf
-- https://blackpast.org/african-american-history/coasters-1955/
-- https://theoriginalcoasters.net/brief-history
-- https://www.rhino.com/article/the-coasters
-- https://oldvocalgroup.pairsite.com/inductees/the_coasters.html
+  - 'https://www.britannica.com/topic/the-Coasters'
+  - 'https://rockhall.com/wp-content/uploads/2024/03/The_Coasters_1987.pdf'
+  - 'https://blackpast.org/african-american-history/coasters-1955/'
+  - 'https://theoriginalcoasters.net/brief-history'
+  - 'https://www.rhino.com/article/the-coasters'
+  - 'https://oldvocalgroup.pairsite.com/inductees/the_coasters.html'
 network_extracted: true
 entry_created: '2025-10-19T12:28:23.211718'
 last_updated: '2025-12-23T08:16:04.064038'
 musicbrainz_enriched_at: '2025-10-21T09:45:45.465874'
 musicbrainz_id: c174f353-4666-4dfb-af54-5cc70b8afd55
-origin: Los Angeles, California, USA
+origin: 'Los Angeles, California, USA'
 tags:
-- doo-wop
-- novelty
-- pop
+  - doo-wop
+  - novelty
+  - pop
+birth_place: Los Angeles
 ---
 
 ![](The_Coasters.jpg)

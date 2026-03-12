@@ -2,12 +2,12 @@
 title: New York Jazz Quartet
 wiki_slug: new-york-jazz-quartet
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 genres:
-- vocal jazz
+  - vocal jazz
 instruments:
-- drums (drum set)
+  - drums (drum set)
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/New_York_Jazz_Quartet.jpg
   caption: New York Jazz Quartet
@@ -27,52 +27,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Roland Hanna
-  - Hubert Laws
-  - Ron Carter
-  - Billy Cobham
-  - Frank Wess
-  - George Mraz
-  - Ben Riley
+    - Roland Hanna
+    - Hubert Laws
+    - Ron Carter
+    - Billy Cobham
+    - Frank Wess
+    - George Mraz
+    - Ben Riley
   influenced:
-  - Younger New York-based jazz ensembles
+    - Younger New York-based jazz ensembles
   mentors:
-  - Oscar Peterson
+    - Oscar Peterson
 spotify_data:
   followers: 7098
   id: 36auALXLDVSV73O5jD0LVa
   popularity: 36
-  url: https://open.spotify.com/artist/36auALXLDVSV73O5jD0LVa
+  url: 'https://open.spotify.com/artist/36auALXLDVSV73O5jD0LVa'
 discography_enriched: true
 top_tracks:
-- My Baby Just Cares For Me (The Great American Jazz Songbook, Vol.1)
-- As Time Goes By (The Great American Jazz Songbook, Vol.1)
-- Why Don't You Do Right (The Great American Jazz Songbook, Vol.1)
-- What A Difference A Day Makes (The Great American Jazz Songbook, Vol.1)
-- Endless Love Song (Endless Love Song)
-- Mambo Craze (The Great American Jazz Songbook, Vol.1)
-- Blue Moon (The Great American Jazz Songbook, Vol.1)
-- Diamond's Are A Girl's Best Friend (The Great American Jazz Songbook, Vol.1)
-- Paris Match (The Great American Jazz Songbook, Vol.1)
-- The Jazz Muse (The Jazz Detective)
+  - 'My Baby Just Cares For Me (The Great American Jazz Songbook, Vol.1)'
+  - 'As Time Goes By (The Great American Jazz Songbook, Vol.1)'
+  - 'Why Don''t You Do Right (The Great American Jazz Songbook, Vol.1)'
+  - 'What A Difference A Day Makes (The Great American Jazz Songbook, Vol.1)'
+  - Endless Love Song (Endless Love Song)
+  - 'Mambo Craze (The Great American Jazz Songbook, Vol.1)'
+  - 'Blue Moon (The Great American Jazz Songbook, Vol.1)'
+  - 'Diamond''s Are A Girl''s Best Friend (The Great American Jazz Songbook, Vol.1)'
+  - 'Paris Match (The Great American Jazz Songbook, Vol.1)'
+  - The Jazz Muse (The Jazz Detective)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c1d497f7-6758-4065-8ff7-e4362c3bbfd9
-  spotify: https://open.spotify.com/artist/36auALXLDVSV73O5jD0LVa
+  musicbrainz: 'https://musicbrainz.org/artist/c1d497f7-6758-4065-8ff7-e4362c3bbfd9'
+  spotify: 'https://open.spotify.com/artist/36auALXLDVSV73O5jD0LVa'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/New_York_Jazz_Quartet.jpg
 biography_enhanced_at: '2025-10-19T11:45:22.732667'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- AllMusic artist page for New York Jazz Quartet[5]
-- Jazz Music Archives discography and reviews[6]
-- All About Jazz musician profile[7]
+  - 'AllMusic artist page for New York Jazz Quartet[5]'
+  - 'Jazz Music Archives discography and reviews[6]'
+  - 'All About Jazz musician profile[7]'
 network_extracted: true
 entry_created: '2025-10-19T11:45:22.732675'
 last_updated: '2025-12-23T08:16:03.441000'
 musicbrainz_enriched_at: '2025-10-21T09:39:24.460633'
 musicbrainz_id: c1d497f7-6758-4065-8ff7-e4362c3bbfd9
-origin: New York City, New York, United States
+origin: 'New York City, New York, United States'
 ---
 
 ![](New_York_Jazz_Quartet.jpg)

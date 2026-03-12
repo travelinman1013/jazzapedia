@@ -1,42 +1,45 @@
 ---
 biography_enhanced_at: '2025-12-25T01:18:03.684551'
-birth_place: Pontiac, Michigan, United States
+birth_place: 'Pontiac, Michigan, United States'
 enhancement_provider: perplexity
 entry_created: '2025-12-25T01:18:03.684559'
 external_urls:
-  spotify: https://open.spotify.com/artist/32Vl4iIybZBaf4B6OACDQS
-  wikipedia: https://en.wikipedia.org/wiki/Elvin_Jones
+  spotify: 'https://open.spotify.com/artist/32Vl4iIybZBaf4B6OACDQS'
+  wikipedia: 'https://en.wikipedia.org/wiki/Elvin_Jones'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/elvin_jonesrichard_davis.jpg
 last_updated: '2025-12-25T01:18:03.684560'
 musical_connections:
   collaborators:
-  - John Coltrane
-  - McCoy Tyner
-  - Jimmy Garrison
-  - Richard Davis
-  - Joe Farrell
-  - Dave Liebman
+    - John Coltrane
+    - McCoy Tyner
+    - Jimmy Garrison
+    - Richard Davis
+    - Joe Farrell
+    - Dave Liebman
   influenced:
-  - Subsequent jazz drummers
+    - Subsequent jazz drummers
   mentors:
-  - Kenny Clarke
-  - Max Roach
-  - Jo Jones
+    - Kenny Clarke
+    - Max Roach
+    - Jo Jones
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.britannica.com/biography/Elvin-Jones
-- https://thejazzvnu.com/elvin-jones-classic-jazz/
-- https://en.wikipedia.org/wiki/Elvin_Jones
-- https://www.allaboutjazz.com/musicians/elvin-jones/
+  - 'https://www.britannica.com/biography/Elvin-Jones'
+  - 'https://thejazzvnu.com/elvin-jones-classic-jazz/'
+  - 'https://en.wikipedia.org/wiki/Elvin_Jones'
+  - 'https://www.allaboutjazz.com/musicians/elvin-jones/'
 spotify_data:
   followers: 196
   id: 32Vl4iIybZBaf4B6OACDQS
   popularity: 46
-  url: https://open.spotify.com/artist/32Vl4iIybZBaf4B6OACDQS
+  url: 'https://open.spotify.com/artist/32Vl4iIybZBaf4B6OACDQS'
 status: active
-title: elvin jones/richard davis
+title: Elvin Jones/Richard Davis
+birth_date: '1927-09-09'
+death_date: '2004-05-18'
+artist_type: person
 ---
 
 ![](elvin_jonesrichard_davis.jpg)

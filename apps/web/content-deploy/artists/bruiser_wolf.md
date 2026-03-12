@@ -3,14 +3,14 @@ title: Bruiser Wolf
 wiki_slug: bruiser-wolf
 schema_version: 2
 status: active
-birth_place: Detroit, Michigan, United States
+birth_place: 'Detroit, Michigan, United States'
 genres:
-- experimental hip hop
+  - experimental hip hop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bruiser_wolf.jpg
   caption: Bruiser Wolf
   background: solo_singer
-  origin: Detroit, Michigan, United States
+  origin: 'Detroit, Michigan, United States'
 audio_profile:
   tempo_avg: 102.8
   energy_avg: 0.676
@@ -26,49 +26,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Fat Ray
-  - Trinidad James
-  - Stretch Money
-  - Chris Crack
-  - Harry Fraud
+    - Fat Ray
+    - Trinidad James
+    - Stretch Money
+    - Chris Crack
+    - Harry Fraud
   influenced: []
   mentors:
-  - Danny Brown
-  - Raphy
+    - Danny Brown
+    - Raphy
 spotify_data:
   followers: 16426
   id: 2WWAtobfGkojaSqMRN5V67
   popularity: 39
-  url: https://open.spotify.com/artist/2WWAtobfGkojaSqMRN5V67
+  url: 'https://open.spotify.com/artist/2WWAtobfGkojaSqMRN5V67'
 discography_enriched: true
 top_tracks:
-- Zack Morris Phone (feat. Bruiser Wolf) (Never Catch Us)
-- Pee-wee Herman (feat. Chilly Gonzales & DJ Lucas) (POTLUCK)
-- Lock In
-- Mountain Lion
-- Y.B.P. (feat. Bruiser Wolf) (Quaranta)
-- Air Fryer (POTLUCK)
-- Guns & Squares (feat. Sir Michael Rocks) (POTLUCK)
-- Write or Wrong (POTLUCK)
-- Beat The Charge (POTLUCK)
-- Lock In (POTLUCK)
+  - Zack Morris Phone (feat. Bruiser Wolf) (Never Catch Us)
+  - Pee-wee Herman (feat. Chilly Gonzales & DJ Lucas) (POTLUCK)
+  - Lock In
+  - Mountain Lion
+  - Y.B.P. (feat. Bruiser Wolf) (Quaranta)
+  - Air Fryer (POTLUCK)
+  - Guns & Squares (feat. Sir Michael Rocks) (POTLUCK)
+  - Write or Wrong (POTLUCK)
+  - Beat The Charge (POTLUCK)
+  - Lock In (POTLUCK)
 external_urls:
-  spotify: https://open.spotify.com/artist/2WWAtobfGkojaSqMRN5V67
-  wikipedia: https://en.wikipedia.org/wiki/Bruiser_Wolf
+  spotify: 'https://open.spotify.com/artist/2WWAtobfGkojaSqMRN5V67'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bruiser_Wolf'
 image_path: 03_Resources/source_material/ArtistPortraits/bruiser_wolf.jpg
 biography_enhanced_at: '2025-11-28T07:25:51.686879'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.spin.com/2021/04/blue-chips-bruiser-wolf/
-- https://shows.acast.com/real-late-with-peter-rosenberg/episodes/bruiser-wolf-lived-a-whole-life-and-then-became-a-whole-arti
-- https://www.passionweiss.com/2024/03/19/bruiser-wolf-interview-my-story-got-stories/
-- https://en.wikipedia.org/wiki/Bruiser_Wolf
-- https://www.viberate.com/artist/bruiser-wolf/
-- https://uproxx.com/music/bruiser-wolf-magnum-scenes/
+  - 'https://www.spin.com/2021/04/blue-chips-bruiser-wolf/'
+  - >-
+    https://shows.acast.com/real-late-with-peter-rosenberg/episodes/bruiser-wolf-lived-a-whole-life-and-then-became-a-whole-arti
+  - >-
+    https://www.passionweiss.com/2024/03/19/bruiser-wolf-interview-my-story-got-stories/
+  - 'https://en.wikipedia.org/wiki/Bruiser_Wolf'
+  - 'https://www.viberate.com/artist/bruiser-wolf/'
+  - 'https://uproxx.com/music/bruiser-wolf-magnum-scenes/'
 network_extracted: true
 entry_created: '2025-11-28T07:25:51.686889'
 last_updated: '2025-12-23T08:16:06.150783'
+origin: 'Detroit, Michigan, United States'
+artist_type: person
 ---
 
 ![](bruiser_wolf.jpg)

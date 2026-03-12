@@ -1,41 +1,44 @@
 ---
 biography_enhanced_at: '2025-12-30T01:24:48.277354'
-birth_place: Isleworth, Middlesex, England
+birth_place: 'Isleworth, Middlesex, England'
 enhancement_provider: perplexity
 entry_created: '2025-12-30T01:24:48.277360'
 external_urls:
-  spotify: https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm
+  spotify: 'https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/vince_taylor.jpg
 last_updated: '2025-12-30T01:24:48.277360'
 musical_connections:
   collaborators:
-  - Tony Sheridan
-  - Brian 'Licorice' Locking
-  - Brian Bennett
-  - Bobbie Clarke
+    - Tony Sheridan
+    - Brian 'Licorice' Locking
+    - Brian Bennett
+    - Bobbie Clarke
   influenced:
-  - David Bowie
-  - The Clash
+    - David Bowie
+    - The Clash
   mentors:
-  - Elvis Presley
-  - Gene Vincent
+    - Elvis Presley
+    - Gene Vincent
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://nostalgiacentral.com/music/artists-l-to-z/artists-v/vince-taylor/
-- https://msmokemusic.com/blogs/mind-smoke-blog/posts/6515472/vince-taylor-the-original-ziggy-stardust
-- https://www.rocky-52.net/chanteurst/taylor_vi.htm
-- http://vincetaylortheplayboys.blogspot.com/2009/10/biography.html
-- https://www.allmusic.com/artist/vince-taylor-mn0000513749
+  - 'https://nostalgiacentral.com/music/artists-l-to-z/artists-v/vince-taylor/'
+  - >-
+    https://msmokemusic.com/blogs/mind-smoke-blog/posts/6515472/vince-taylor-the-original-ziggy-stardust
+  - 'https://www.rocky-52.net/chanteurst/taylor_vi.htm'
+  - 'http://vincetaylortheplayboys.blogspot.com/2009/10/biography.html'
+  - 'https://www.allmusic.com/artist/vince-taylor-mn0000513749'
 spotify_data:
   followers: 2048753
   id: 68kEuyFKyqrdQQLLsmiatm
   popularity: 67
-  url: https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm
+  url: 'https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm'
 status: active
-title: VINCE TAYLOR
+title: Vince Taylor
+birth_date: '1939-07-14'
+artist_type: person
 ---
 
 ![](vince_taylor.jpg)

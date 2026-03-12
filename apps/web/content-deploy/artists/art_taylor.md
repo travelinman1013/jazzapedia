@@ -1,18 +1,18 @@
 ---
-title: ART TAYLOR
+title: Art Taylor
 wiki_slug: art-taylor
 schema_version: 2
 status: active
-birth_place: New York City, New York, United States
+birth_place: 'New York City, New York, United States'
 genres:
-- hard bop
-- jazz
-- bebop
+  - hard bop
+  - jazz
+  - bebop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/art_taylor.jpg
   caption: ART TAYLOR
   background: solo_singer
-  origin: New York City, New York, United States
+  origin: 'New York City, New York, United States'
 audio_profile:
   tempo_avg: 98.8
   energy_avg: 0.261
@@ -28,52 +28,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bud Powell
-  - John Coltrane
-  - Miles Davis
-  - Thelonious Monk
-  - Donald Byrd
-  - Jackie McLean
-  - Sonny Rollins
-  - Jimmy Smith
+    - Bud Powell
+    - John Coltrane
+    - Miles Davis
+    - Thelonious Monk
+    - Donald Byrd
+    - Jackie McLean
+    - Sonny Rollins
+    - Jimmy Smith
   influenced:
-  - Younger jazz musicians in general
+    - Younger jazz musicians in general
   mentors:
-  - Big Sid Catlett
-  - Kenny Clarke
-  - Chick Webb
+    - Big Sid Catlett
+    - Kenny Clarke
+    - Chick Webb
 spotify_data:
   followers: 5986
   id: 3CsHGnB9qK3KYH7xmyGAGX
   popularity: 43
-  url: https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX
+  url: 'https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX'
 discography_enriched: true
 top_tracks:
-- Almost Like Being In Love (Red Garland's Piano)
-- I Know Why (And So Do You) (Red Garland's Piano)
-- The Very Thought Of You (Red Garland's Piano)
-- Please Send Me Someone To Love (Red Garland's Piano)
-- Stompin' At The Savoy (Red Garland's Piano)
-- But Not For Me (Red Garland's Piano)
-- I Can't Give You Anything But Love (Red Garland's Piano)
-- I See Your Face Before Me - RVG Remaster (Settin' The Pace [RVG Edition])
-- If I Were A Bell (Red Garland's Piano)
-- By The Numbers - RVG Remaster (Settin' The Pace [RVG Edition])
+  - Almost Like Being In Love (Red Garland's Piano)
+  - I Know Why (And So Do You) (Red Garland's Piano)
+  - The Very Thought Of You (Red Garland's Piano)
+  - Please Send Me Someone To Love (Red Garland's Piano)
+  - Stompin' At The Savoy (Red Garland's Piano)
+  - But Not For Me (Red Garland's Piano)
+  - I Can't Give You Anything But Love (Red Garland's Piano)
+  - 'I See Your Face Before Me - RVG Remaster (Settin'' The Pace [RVG Edition])'
+  - If I Were A Bell (Red Garland's Piano)
+  - 'By The Numbers - RVG Remaster (Settin'' The Pace [RVG Edition])'
 external_urls:
-  spotify: https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX
-  wikipedia: https://en.wikipedia.org/wiki/Art_Taylor
+  spotify: 'https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX'
+  wikipedia: 'https://en.wikipedia.org/wiki/Art_Taylor'
 image_path: 03_Resources/source_material/ArtistPortraits/art_taylor.jpg
 biography_enhanced_at: '2025-10-28T09:15:14.646216'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Art_Taylor
-- https://www.allsolos.com/soloist/74/art-taylor
-- https://gretschdrums.com/artists/taylor-art
-- http://flophousemagazine.com/2018/04/25/the-art-of-taylor/
+  - 'https://en.wikipedia.org/wiki/Art_Taylor'
+  - 'https://www.allsolos.com/soloist/74/art-taylor'
+  - 'https://gretschdrums.com/artists/taylor-art'
+  - 'http://flophousemagazine.com/2018/04/25/the-art-of-taylor/'
 network_extracted: true
 entry_created: '2025-10-28T09:15:14.646219'
 last_updated: '2025-12-23T08:16:04.945949'
+birth_date: '1929-04-06'
+death_date: '1995-02-06'
+artist_type: person
 ---
 
 ![](art_taylor.jpg)

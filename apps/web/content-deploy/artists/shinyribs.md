@@ -2,10 +2,10 @@
 title: Shinyribs
 wiki_slug: shinyribs
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 genres:
-- americana
+  - americana
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/shinyribs.jpg
   caption: Shinyribs
@@ -25,51 +25,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Keith Langford
-  - Jimmy Smith
-  - Jeff Brown
-  - Winfield Cheek
-  - George Reiff
-  - Ray Wylie Hubbard
+    - Keith Langford
+    - Jimmy Smith
+    - Jeff Brown
+    - Winfield Cheek
+    - George Reiff
+    - Ray Wylie Hubbard
   influenced: []
   mentors:
-  - John Lomax
+    - John Lomax
 spotify_data:
   followers: 38453
   id: 3xkZ4A3btzE9F5oVuY25UF
   popularity: 42
-  url: https://open.spotify.com/artist/3xkZ4A3btzE9F5oVuY25UF
+  url: 'https://open.spotify.com/artist/3xkZ4A3btzE9F5oVuY25UF'
 discography_enriched: true
 top_tracks:
-- Who Built the Moon (Well After Awhile)
-- Take Me to Lake Charles (Gulf Coast Museum)
-- Bitch Better Have My Money (Bitch Better Have My Money)
-- Poor People's Store (Well After Awhile)
-- Country Cool (Well After Awhile)
-- East Tx Rust (Well After Awhile)
-- I Don't Give a Shit (I Got Your Medicine)
-- Leavin' Louisiana Blues (Leavin' Louisiana Blues)
-- Baby What's Wrong? (Okra Candy)
-- Sweeter Than the Scars (Gulf Coast Museum)
+  - Who Built the Moon (Well After Awhile)
+  - Take Me to Lake Charles (Gulf Coast Museum)
+  - Bitch Better Have My Money (Bitch Better Have My Money)
+  - Poor People's Store (Well After Awhile)
+  - Country Cool (Well After Awhile)
+  - East Tx Rust (Well After Awhile)
+  - I Don't Give a Shit (I Got Your Medicine)
+  - Leavin' Louisiana Blues (Leavin' Louisiana Blues)
+  - Baby What's Wrong? (Okra Candy)
+  - Sweeter Than the Scars (Gulf Coast Museum)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/0c8a25d9-9554-4f97-baf4-74f590fa6779
-  spotify: https://open.spotify.com/artist/3xkZ4A3btzE9F5oVuY25UF
-  wikipedia: https://en.wikipedia.org/wiki/Shinyribs
+  musicbrainz: 'https://musicbrainz.org/artist/0c8a25d9-9554-4f97-baf4-74f590fa6779'
+  spotify: 'https://open.spotify.com/artist/3xkZ4A3btzE9F5oVuY25UF'
+  wikipedia: 'https://en.wikipedia.org/wiki/Shinyribs'
 image_path: 03_Resources/source_material/ArtistPortraits/shinyribs.jpg
 biography_enhanced_at: '2025-12-15T01:32:33.025728'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Shinyribs
-- https://www.last.fm/music/Shinyribs/+wiki
-- https://www.southernsongsandstories.com/blog/2023/11/3/turning-darkness-into-light-with-panache-kev-russell-of-shinyribs
-- https://michaelcorcoran.substack.com/p/kevin-russell-from-roots-to-ribsanity
-- https://www.shinyribs.com/about
+  - 'https://en.wikipedia.org/wiki/Shinyribs'
+  - 'https://www.last.fm/music/Shinyribs/+wiki'
+  - >-
+    https://www.southernsongsandstories.com/blog/2023/11/3/turning-darkness-into-light-with-panache-kev-russell-of-shinyribs
+  - 'https://michaelcorcoran.substack.com/p/kevin-russell-from-roots-to-ribsanity'
+  - 'https://www.shinyribs.com/about'
 network_extracted: true
 entry_created: '2025-12-15T01:32:33.025743'
 last_updated: '2025-12-23T08:16:15.571825'
 musicbrainz_id: 0c8a25d9-9554-4f97-baf4-74f590fa6779
-origin: Beaumont
+origin: 'Austin, Texas, United States'
+birth_place: 'Beaumont, Texas, United States'
 ---
 
 ![](shinyribs.jpg)

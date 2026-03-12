@@ -4,24 +4,24 @@ wiki_slug: marz
 schema_version: 2
 artist_type: person
 status: active
-birth_place: Chicago, Illinois, United States (born in Croatia)
+birth_place: 'Chicago, Illinois, United States (born in Croatia)'
 genres: []
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 90c206c8-14e2-4c52-ab10-6d2397d946f7
-  name: Block CEO's
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8e51bb55-e94e-4146-9422-0ca3dfc8b6b0
-  name: Billion Dollar Ballers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 90c206c8-14e2-4c52-ab10-6d2397d946f7
+    name: Block CEO's
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8e51bb55-e94e-4146-9422-0ca3dfc8b6b0
+    name: Billion Dollar Ballers
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/marz.jpg
   caption: Marz
   background: solo_singer
-  origin: Chicago, Illinois, United States (born in Croatia)
+  origin: 'Chicago, Illinois, United States (born in Croatia)'
 audio_profile:
   tempo_avg: 113.9
   energy_avg: 0.501
@@ -37,55 +37,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ministry
-  - Insane Clown Posse
-  - Dark Lotus (Violent J, Shaggy 2 Dope and others)
-  - Korn
-  - Jonathan Davis
-  - Swizz Beatz
-  - Rey Washam, Troy Gourley, Louis Svitek, Pat De La Garza
-  - Enhancer
+    - Ministry
+    - Insane Clown Posse
+    - 'Dark Lotus (Violent J, Shaggy 2 Dope and others)'
+    - Korn
+    - Jonathan Davis
+    - Swizz Beatz
+    - 'Rey Washam, Troy Gourley, Louis Svitek, Pat De La Garza'
+    - Enhancer
   influenced:
-  - ''
+    - ''
   mentors:
-  - Al Jourgensen
+    - Al Jourgensen
 spotify_data:
   followers: 95
   id: 6GRwepGWsVK9DsmSfCAqsi
   popularity: 6
-  url: https://open.spotify.com/artist/6GRwepGWsVK9DsmSfCAqsi
+  url: 'https://open.spotify.com/artist/6GRwepGWsVK9DsmSfCAqsi'
 discography_enriched: true
 top_tracks:
-- SENSATION - Remix (SENSATION (Remix))
-- LIGHTER (LIGHTER)
-- 2025 (2025)
-- SN3KES (Rearview Demons)
-- SRT (Rearview Demons)
-- EXOTIC (Rearview Demons)
-- TIME (Who I Once Was...)
-- Digits ll - Remix (Who I Once Was...)
-- NANANANA! (Who I Once Was...)
-- ALTA (Who I Once Was...)
+  - SENSATION - Remix (SENSATION (Remix))
+  - LIGHTER (LIGHTER)
+  - 2025 (2025)
+  - SN3KES (Rearview Demons)
+  - SRT (Rearview Demons)
+  - EXOTIC (Rearview Demons)
+  - TIME (Who I Once Was...)
+  - Digits ll - Remix (Who I Once Was...)
+  - NANANANA! (Who I Once Was...)
+  - ALTA (Who I Once Was...)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/948855db-9b21-4c84-9e98-46b5c976030f
-  spotify: https://open.spotify.com/artist/6GRwepGWsVK9DsmSfCAqsi
-  wikipedia: https://en.wikipedia.org/wiki/Marz_(rapper)
+  musicbrainz: 'https://musicbrainz.org/artist/948855db-9b21-4c84-9e98-46b5c976030f'
+  spotify: 'https://open.spotify.com/artist/6GRwepGWsVK9DsmSfCAqsi'
+  wikipedia: 'https://en.wikipedia.org/wiki/Marz_(rapper)'
 image_path: 03_Resources/source_material/ArtistPortraits/marz.jpg
 biography_enhanced_at: '2025-12-07T04:56:32.143571'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Marz_(rapper)
-- https://rapzilla.com/2017-10-how-marz-went-from-metal-band-guitarist-to-the-insane-clown-posse-and-then-christian-rapper/
-- https://last.fm/music/Marz/+wiki
-- https://www.newstimes.com/news/article/marz-s-past-quite-a-mix-111002.php
-- https://mabumbe.com/music/artist/2091583/marz
+  - 'https://en.wikipedia.org/wiki/Marz_(rapper)'
+  - >-
+    https://rapzilla.com/2017-10-how-marz-went-from-metal-band-guitarist-to-the-insane-clown-posse-and-then-christian-rapper/
+  - 'https://last.fm/music/Marz/+wiki'
+  - 'https://www.newstimes.com/news/article/marz-s-past-quite-a-mix-111002.php'
+  - 'https://mabumbe.com/music/artist/2091583/marz'
 network_extracted: true
 entry_created: '2025-12-07T04:56:32.143582'
 last_updated: '2025-12-23T08:16:12.804343'
 disambiguation: Croatian-America rapper
 gender: Male
 musicbrainz_id: 948855db-9b21-4c84-9e98-46b5c976030f
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](marz.jpg)

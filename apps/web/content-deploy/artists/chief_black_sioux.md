@@ -1,15 +1,15 @@
 ---
-title: CHIEF BLACK SIOUX
+title: Chief Black Sioux
 wiki_slug: chief-black-sioux
 schema_version: 2
 status: active
-birth_place: Sioux Nation, United States
+birth_place: 'Sioux Nation, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/chief_black_sioux.jpg
   caption: CHIEF BLACK SIOUX
   background: solo_singer
-  origin: Sioux Nation, United States
+  origin: 'Sioux Nation, United States'
 audio_profile:
   tempo_avg: 114.2
   energy_avg: 0.703
@@ -25,38 +25,40 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Local Native Musicians
+    - Local Native Musicians
   influenced:
-  - Emerging Native American Artists
+    - Emerging Native American Artists
   mentors:
-  - Tribal Elders
+    - Tribal Elders
 spotify_data:
   followers: 21
   id: 37V1vl9To5rhKC7HSvLTDQ
   popularity: 1
-  url: https://open.spotify.com/artist/37V1vl9To5rhKC7HSvLTDQ
+  url: 'https://open.spotify.com/artist/37V1vl9To5rhKC7HSvLTDQ'
 discography_enriched: true
 top_tracks:
-- INJUNS (DOIN' IT MY WAY)
-- NEW SUIT (DOIN' IT MY WAY)
-- AT THE TABLE (DOIN' IT MY WAY)
-- WAR PAINT READY (DOIN' IT MY WAY)
-- BURN IT DOWN (DOIN' IT MY WAY)
-- BIG CHIEF COMING (DOIN' IT MY WAY)
-- OOH NAH NAY (DOIN' IT MY WAY)
-- SHOO FLY (DOIN' IT MY WAY)
+  - INJUNS (DOIN' IT MY WAY)
+  - NEW SUIT (DOIN' IT MY WAY)
+  - AT THE TABLE (DOIN' IT MY WAY)
+  - WAR PAINT READY (DOIN' IT MY WAY)
+  - BURN IT DOWN (DOIN' IT MY WAY)
+  - BIG CHIEF COMING (DOIN' IT MY WAY)
+  - OOH NAH NAY (DOIN' IT MY WAY)
+  - SHOO FLY (DOIN' IT MY WAY)
 external_urls:
-  spotify: https://open.spotify.com/artist/37V1vl9To5rhKC7HSvLTDQ
+  spotify: 'https://open.spotify.com/artist/37V1vl9To5rhKC7HSvLTDQ'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/chief_black_sioux.jpg
 biography_enhanced_at: '2025-10-31T08:10:06.955962'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.blacksiouxwarriors.com/post/celebrating-ancestral-roots-chief-black-sioux-s-musical-journey
+  - >-
+    https://www.blacksiouxwarriors.com/post/celebrating-ancestral-roots-chief-black-sioux-s-musical-journey
 network_extracted: true
 entry_created: '2025-10-31T08:10:06.955977'
 last_updated: '2025-12-23T08:16:06.841441'
+artist_type: person
 ---
 
 ![](chief_black_sioux.jpg)

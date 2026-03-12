@@ -2,27 +2,27 @@
 title: The Who
 wiki_slug: the-who
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: 1964-02
 genres:
-- classic rock
-- rock
+  - classic rock
+  - rock
 instruments:
-- guitar
-- harmonica
-- lead vocals
-- original
-- percussion
-- keyboard
-- synthesizer
-- drums (drum set)
-- bass guitar
-- French horn
-- trumpet
-- additional
-- background vocals
-- mandolin
+  - guitar
+  - harmonica
+  - lead vocals
+  - original
+  - percussion
+  - keyboard
+  - synthesizer
+  - drums (drum set)
+  - bass guitar
+  - French horn
+  - trumpet
+  - additional
+  - background vocals
+  - mandolin
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_who.jpg
   caption: The Who
@@ -43,190 +43,194 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Roger Daltrey
-  - Pete Townshend
-  - John Entwistle
-  - Keith Moon
-  - Kit Lambert & Chris Stamp
+    - Roger Daltrey
+    - Pete Townshend
+    - John Entwistle
+    - Keith Moon
+    - Kit Lambert & Chris Stamp
   influenced:
-  - Sex Pistols
-  - Pearl Jam
-  - Green Day
-  - Oasis
+    - Sex Pistols
+    - Pearl Jam
+    - Green Day
+    - Oasis
   mentors:
-  - American Rhythm and Blues Artists
+    - American Rhythm and Blues Artists
 spotify_data:
   followers: 5823410
   id: 67ea9eGLXYMsO2eYQRui3w
   popularity: 66
-  url: https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w
+  url: 'https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w'
 discography_enriched: true
 top_tracks:
-- Baba O'Riley (Who's Next (Deluxe Edition))
-- Behind Blue Eyes (Who's Next (Deluxe Edition))
-- Eminence Front (It's Hard)
-- Won't Get Fooled Again - Original Album Version (Who's Next (Deluxe Edition))
-- Pinball Wizard (Tommy)
-- Who Are You (Who Are You)
-- My Generation - Stereo Version (My Generation (Stereo Version))
-- 'The Seeker - Original Single A-Side Mix (Who’s Next : Life House (Super Deluxe))'
-- Love Reign O'er Me (Quadrophenia (Super Deluxe Edition))
-- Squeeze Box (The Who By Numbers (Expanded Edition))
+  - Baba O'Riley (Who's Next (Deluxe Edition))
+  - Behind Blue Eyes (Who's Next (Deluxe Edition))
+  - Eminence Front (It's Hard)
+  - >-
+    Won't Get Fooled Again - Original Album Version (Who's Next (Deluxe
+    Edition))
+  - Pinball Wizard (Tommy)
+  - Who Are You (Who Are You)
+  - My Generation - Stereo Version (My Generation (Stereo Version))
+  - >-
+    The Seeker - Original Single A-Side Mix (Who’s Next : Life House (Super
+    Deluxe))
+  - Love Reign O'er Me (Quadrophenia (Super Deluxe Edition))
+  - Squeeze Box (The Who By Numbers (Expanded Edition))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa
-  spotify: https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w
-  wikipedia: https://en.wikipedia.org/wiki/The_Who
+  musicbrainz: 'https://musicbrainz.org/artist/9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa'
+  spotify: 'https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Who'
 image_path: 03_Resources/source_material/ArtistPortraits/the_who.jpg
 biography_enhanced_at: '2025-10-26T12:34:50.561690'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Who
-- https://top40weekly.com/the-who/
-- https://www.britannica.com/topic/the-Who
-- https://aaep1600.osu.edu/book/09_Who.php
+  - 'https://en.wikipedia.org/wiki/The_Who'
+  - 'https://top40weekly.com/the-who/'
+  - 'https://www.britannica.com/topic/the-Who'
+  - 'https://aaep1600.osu.edu/book/09_Who.php'
 network_extracted: true
 entry_created: '2025-10-26T12:34:50.561700'
 last_updated: '2025-12-23T08:16:17.300072'
 members:
-- &id001
-  begin: 1964-02
-  end: ''
-  instruments:
-  - guitar
-  - harmonica
-  - lead vocals
-  - original
-  - percussion
-  mbid: 3896a59d-3058-4797-94b7-864bc58ccd98
-  name: Roger Daltrey
-- &id002
-  begin: 1964-02
-  end: ''
-  instruments:
-  - guitar
-  - keyboard
-  - lead vocals
-  - original
-  - synthesizer
-  mbid: fb147b8f-0144-4418-acaa-90b2d9779840
-  name: Pete Townshend
-- begin: '1964'
-  end: '1964'
-  instruments:
-  - drums (drum set)
-  - original
-  mbid: 8425adaf-e8d4-4189-839d-a9fdfab55f4b
-  name: Doug Sandom
-- begin: '1964'
-  end: '1978'
-  instruments:
-  - drums (drum set)
-  mbid: e64bf907-c90f-4cf1-bd0c-81593b42d4d9
-  name: Keith Moon
-- begin: '1964'
-  end: '2002'
-  instruments:
-  - bass guitar
-  - French horn
-  - keyboard
-  - lead vocals
-  - original
-  - synthesizer
-  - trumpet
-  mbid: 384d6827-3b17-43bc-acf6-92e618b8ec83
-  name: John Entwistle
-- begin: '1978'
-  end: '1985'
-  instruments:
-  - drums (drum set)
-  mbid: de4e47e4-d92e-4d50-b429-9423d53d8456
-  name: Kenney Jones
-- begin: '1979'
-  end: '2011'
-  instruments:
-  - keyboard
-  mbid: f3329a19-7c51-48df-9e38-8dec999db949
-  name: John “Rabbit” Bundrick
-- begin: '1996'
-  end: '1997'
-  instruments:
-  - additional
-  - background vocals
-  - guitar
-  - mandolin
-  mbid: 2efac2d7-e5ad-4e7b-87c9-ef678fbbaaab
-  name: Simon Townshend
-- begin: '1996'
-  end: '2025-04-15'
-  instruments:
-  - additional
-  - drums (drum set)
-  mbid: fa6d1fab-dc90-4e76-bdf9-28e06d1010ff
-  name: Zak Starkey
-- &id003
-  begin: '2002'
-  end: ''
-  instruments:
-  - additional
-  - bass guitar
-  mbid: 0dfd6aab-9056-4764-89b0-80bee7c9f998
-  name: Pino Palladino
-- &id004
-  begin: '2002'
-  end: ''
-  instruments:
-  - additional
-  - background vocals
-  - guitar
-  - mandolin
-  mbid: 2efac2d7-e5ad-4e7b-87c9-ef678fbbaaab
-  name: Simon Townshend
-- &id005
-  begin: '2012'
-  end: ''
-  instruments:
-  - additional
-  - keyboard
-  mbid: eda9fe06-30bc-48cb-ac24-91298cf235f6
-  name: Loren Gold
-- &id006
-  begin: '2012'
-  end: ''
-  instruments:
-  - additional
-  - keyboard
-  mbid: eff10f94-f1a7-4114-8955-e2c8c1b16590
-  name: Frank Simes
-- &id007
-  begin: '2012'
-  end: ''
-  instruments:
-  - additional
-  - keyboard
-  mbid: 1e66dc54-c636-470e-b21b-f997d0b3e20f
-  name: Chris Stainton
-- begin: '2025-04-19'
-  end: '2025-05-18'
-  instruments:
-  - additional
-  - drums (drum set)
-  mbid: fa6d1fab-dc90-4e76-bdf9-28e06d1010ff
-  name: Zak Starkey
+  - &ref_0
+    begin: 1964-02
+    end: ''
+    instruments:
+      - guitar
+      - harmonica
+      - lead vocals
+      - original
+      - percussion
+    mbid: 3896a59d-3058-4797-94b7-864bc58ccd98
+    name: Roger Daltrey
+  - &ref_1
+    begin: 1964-02
+    end: ''
+    instruments:
+      - guitar
+      - keyboard
+      - lead vocals
+      - original
+      - synthesizer
+    mbid: fb147b8f-0144-4418-acaa-90b2d9779840
+    name: Pete Townshend
+  - begin: '1964'
+    end: '1964'
+    instruments:
+      - drums (drum set)
+      - original
+    mbid: 8425adaf-e8d4-4189-839d-a9fdfab55f4b
+    name: Doug Sandom
+  - begin: '1964'
+    end: '1978'
+    instruments:
+      - drums (drum set)
+    mbid: e64bf907-c90f-4cf1-bd0c-81593b42d4d9
+    name: Keith Moon
+  - begin: '1964'
+    end: '2002'
+    instruments:
+      - bass guitar
+      - French horn
+      - keyboard
+      - lead vocals
+      - original
+      - synthesizer
+      - trumpet
+    mbid: 384d6827-3b17-43bc-acf6-92e618b8ec83
+    name: John Entwistle
+  - begin: '1978'
+    end: '1985'
+    instruments:
+      - drums (drum set)
+    mbid: de4e47e4-d92e-4d50-b429-9423d53d8456
+    name: Kenney Jones
+  - begin: '1979'
+    end: '2011'
+    instruments:
+      - keyboard
+    mbid: f3329a19-7c51-48df-9e38-8dec999db949
+    name: John “Rabbit” Bundrick
+  - begin: '1996'
+    end: '1997'
+    instruments:
+      - additional
+      - background vocals
+      - guitar
+      - mandolin
+    mbid: 2efac2d7-e5ad-4e7b-87c9-ef678fbbaaab
+    name: Simon Townshend
+  - begin: '1996'
+    end: '2025-04-15'
+    instruments:
+      - additional
+      - drums (drum set)
+    mbid: fa6d1fab-dc90-4e76-bdf9-28e06d1010ff
+    name: Zak Starkey
+  - &ref_2
+    begin: '2002'
+    end: ''
+    instruments:
+      - additional
+      - bass guitar
+    mbid: 0dfd6aab-9056-4764-89b0-80bee7c9f998
+    name: Pino Palladino
+  - &ref_3
+    begin: '2002'
+    end: ''
+    instruments:
+      - additional
+      - background vocals
+      - guitar
+      - mandolin
+    mbid: 2efac2d7-e5ad-4e7b-87c9-ef678fbbaaab
+    name: Simon Townshend
+  - &ref_4
+    begin: '2012'
+    end: ''
+    instruments:
+      - additional
+      - keyboard
+    mbid: eda9fe06-30bc-48cb-ac24-91298cf235f6
+    name: Loren Gold
+  - &ref_5
+    begin: '2012'
+    end: ''
+    instruments:
+      - additional
+      - keyboard
+    mbid: eff10f94-f1a7-4114-8955-e2c8c1b16590
+    name: Frank Simes
+  - &ref_6
+    begin: '2012'
+    end: ''
+    instruments:
+      - additional
+      - keyboard
+    mbid: 1e66dc54-c636-470e-b21b-f997d0b3e20f
+    name: Chris Stainton
+  - begin: '2025-04-19'
+    end: '2025-05-18'
+    instruments:
+      - additional
+      - drums (drum set)
+    mbid: fa6d1fab-dc90-4e76-bdf9-28e06d1010ff
+    name: Zak Starkey
 musicbrainz_id: 9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa
-origin: London
+origin: 'London, England, United Kingdom'
 original_members:
-- *id001
-- *id002
-- *id003
-- *id004
-- *id005
-- *id006
-- *id007
+  - *ref_0
+  - *ref_1
+  - *ref_2
+  - *ref_3
+  - *ref_4
+  - *ref_5
+  - *ref_6
 tags:
-- art rock
-- british
-- british invasion
+  - art rock
+  - british
+  - british invasion
 ---
 
 ![](the_who.jpg)

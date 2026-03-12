@@ -2,12 +2,12 @@
 title: Counting Crows
 wiki_slug: counting-crows
 schema_version: 2
-artist_type: Group
+artist_type: person
 status: active
 birth_date: '1991'
 genres: []
 instruments:
-- drums (drum set)
+  - drums (drum set)
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Counting_Crows.jpg
   caption: Counting Crows
@@ -28,61 +28,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - David Bryson
-  - Charlie Gillingham
-  - Dan Vickrey
-  - Matt Malley
-  - Steve Bowman
-  - Ben Mize
-  - Jim Bogios
-  - Millard Powers
-  - David Immerglück
+    - David Bryson
+    - Charlie Gillingham
+    - Dan Vickrey
+    - Matt Malley
+    - Steve Bowman
+    - Ben Mize
+    - Jim Bogios
+    - Millard Powers
+    - David Immerglück
   influenced:
-  - Ryan Adams
-  - The Wallflowers
+    - Ryan Adams
+    - The Wallflowers
   mentors:
-  - T Bone Burnett
-  - Van Morrison
-  - The Band
+    - T Bone Burnett
+    - Van Morrison
+    - The Band
 spotify_data:
   followers: 1954683
   id: 0vEsuISMWAKNctLlUAhSZC
   popularity: 68
-  url: https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC
+  url: 'https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC'
 discography_enriched: true
 top_tracks:
-- Mr. Jones (August And Everything After)
-- Accidentally In Love - From "Shrek 2" Soundtrack
-- Accidentally In Love
-- Big Yellow Taxi (Hard Candy)
-- Round Here (August And Everything After)
-- Big Yellow Taxi (Hard Candy)
-- A Long December (Recovering The Satellites)
-- Accidentally In Love - From "Shrek 2" Soundtrack
-- Hanginaround (This Desert Life)
-- Accidentally In Love - From "Shrek 2" Soundtrack
+  - Mr. Jones (August And Everything After)
+  - Accidentally In Love - From "Shrek 2" Soundtrack
+  - Accidentally In Love
+  - Big Yellow Taxi (Hard Candy)
+  - Round Here (August And Everything After)
+  - Big Yellow Taxi (Hard Candy)
+  - A Long December (Recovering The Satellites)
+  - Accidentally In Love - From "Shrek 2" Soundtrack
+  - Hanginaround (This Desert Life)
+  - Accidentally In Love - From "Shrek 2" Soundtrack
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a0327dc2-dc76-44d5-aec6-47cd2dff1469
-  spotify: https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC
-  wikipedia: https://en.wikipedia.org/wiki/Counting_Crows
+  musicbrainz: 'https://musicbrainz.org/artist/a0327dc2-dc76-44d5-aec6-47cd2dff1469'
+  spotify: 'https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC'
+  wikipedia: 'https://en.wikipedia.org/wiki/Counting_Crows'
 image_path: 03_Resources/source_material/ArtistPortraits/Counting_Crows.jpg
 biography_enhanced_at: '2025-10-20T10:32:44.324030'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Infoplease
-- American Songwriter
-- Last.fm
+  - Infoplease
+  - American Songwriter
+  - Last.fm
 network_extracted: true
 entry_created: '2025-10-20T10:32:44.324045'
 last_updated: '2025-12-23T08:16:01.571103'
 musicbrainz_enriched_at: '2025-10-21T09:22:53.867366'
 musicbrainz_id: a0327dc2-dc76-44d5-aec6-47cd2dff1469
-origin: Berkeley, California, United States
+origin: 'Berkeley, California, United States'
 tags:
-- 2008 universal fire victim
-- alliteration
-- alternative rock
+  - 2008 universal fire victim
+  - alliteration
+  - alternative rock
+birth_place: Berkeley
 ---
 
 ![](Counting_Crows.jpg)

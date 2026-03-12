@@ -1,24 +1,24 @@
 ---
-title: BIG JOE WILLIAMS
+title: Big Joe Williams
 wiki_slug: big-joe-williams
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1903-10-16'
-birth_place: Crawford, Mississippi, United States
+birth_place: 'Crawford, Mississippi, United States'
 death_date: '1982-12-17'
 genres:
-- blues
-- country blues
-- classic blues
+  - blues
+  - country blues
+  - classic blues
 instruments:
-- eponymous
+  - eponymous
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/BIG_JOE_WILLIAMS.jpg
   caption: BIG JOE WILLIAMS
   background: non_vocal_instrumentalist
   born: '1903-10-16'
-  origin: Crawford, Mississippi, United States
+  origin: 'Crawford, Mississippi, United States'
   died: '1982-12-17'
 audio_profile:
   tempo_avg: 115.5
@@ -35,57 +35,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John Lee 'Sonny Boy' Williamson
-  - Robert Nighthawk
-  - Peetie Wheatstraw
-  - Bob Dylan
-  - Birmingham Jug Band
+    - John Lee 'Sonny Boy' Williamson
+    - Robert Nighthawk
+    - Peetie Wheatstraw
+    - Bob Dylan
+    - Birmingham Jug Band
   influenced:
-  - Muddy Waters
-  - Honeyboy Edwards
+    - Muddy Waters
+    - Honeyboy Edwards
   mentors:
-  - Charley Patton
+    - Charley Patton
 spotify_data:
   followers: 41726
   id: 07NzVZ0BHZ0QOOw7nGvCgo
   popularity: 25
-  url: https://open.spotify.com/artist/07NzVZ0BHZ0QOOw7nGvCgo
+  url: 'https://open.spotify.com/artist/07NzVZ0BHZ0QOOw7nGvCgo'
 discography_enriched: true
 top_tracks:
-- Baby Please Don't Go (Going Back to Crawford)
-- Rollin' And Tumblin' (Classic Delta Blues)
-- She Left Me a Mule to Ride (Tough Times)
-- Nobody Knows When You're Down (Down and Out)
-- Baby Please Don’t Go (Down and Out)
-- Whistlin' Pines (Mississippi's Big Joe Williams and His Nine String Guitar)
-- Back Home Blues (Going Back to Crawford)
-- Nobody Knows You When You're Down and Out
-- Hang It Up On The Wall (The Sonet Blues Story)
-- Stool Pigeon Blues (Have Mercy!)
+  - Baby Please Don't Go (Going Back to Crawford)
+  - Rollin' And Tumblin' (Classic Delta Blues)
+  - She Left Me a Mule to Ride (Tough Times)
+  - Nobody Knows When You're Down (Down and Out)
+  - Baby Please Don’t Go (Down and Out)
+  - Whistlin' Pines (Mississippi's Big Joe Williams and His Nine String Guitar)
+  - Back Home Blues (Going Back to Crawford)
+  - Nobody Knows You When You're Down and Out
+  - Hang It Up On The Wall (The Sonet Blues Story)
+  - Stool Pigeon Blues (Have Mercy!)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/bf295ac0-21e8-4e11-89e9-22b10fd8973a
-  spotify: https://open.spotify.com/artist/07NzVZ0BHZ0QOOw7nGvCgo
-  wikipedia: https://en.wikipedia.org/wiki/Big_Joe_Williams
+  musicbrainz: 'https://musicbrainz.org/artist/bf295ac0-21e8-4e11-89e9-22b10fd8973a'
+  spotify: 'https://open.spotify.com/artist/07NzVZ0BHZ0QOOw7nGvCgo'
+  wikipedia: 'https://en.wikipedia.org/wiki/Big_Joe_Williams'
 image_path: 03_Resources/source_material/ArtistPortraits/BIG_JOE_WILLIAMS.jpg
 biography_enhanced_at: '2025-10-21T06:55:59.304149'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Big_Joe_Williams
-- https://msbluestrail.org/blues-trail-markers/big-joe-williams
-- https://aaregistry.org/story/big-joe-williams-blues-musician-born/
-- https://bigtrainblues.com/big-joe-williams-2/
+  - 'https://en.wikipedia.org/wiki/Big_Joe_Williams'
+  - 'https://msbluestrail.org/blues-trail-markers/big-joe-williams'
+  - 'https://aaregistry.org/story/big-joe-williams-blues-musician-born/'
+  - 'https://bigtrainblues.com/big-joe-williams-2/'
 network_extracted: true
 entry_created: '2025-10-21T06:55:59.304164'
 last_updated: '2025-12-23T08:16:01.108187'
-disambiguation: American Delta blues guitarist, singer and songwriter
+disambiguation: 'American Delta blues guitarist, singer and songwriter'
 gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:00:51.668539'
 musicbrainz_id: bf295ac0-21e8-4e11-89e9-22b10fd8973a
 tags:
-- acoustic blues
-- blues
-- delta blues
+  - acoustic blues
+  - blues
+  - delta blues
+is_active: false
 ---
 
 ![](BIG_JOE_WILLIAMS.jpg)

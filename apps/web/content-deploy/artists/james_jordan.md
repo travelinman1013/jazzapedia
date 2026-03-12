@@ -1,45 +1,48 @@
 ---
 biography_enhanced_at: '2026-01-06T02:05:10.321513'
-birth_place: Lawrenceville, New Jersey, United States (current primary location; birthplace not specified in sources)
+birth_place: >-
+  Lawrenceville, New Jersey, United States (current primary location; birthplace
+  not specified in sources)
 enhancement_provider: perplexity
 entry_created: '2026-01-06T02:05:10.321518'
 external_urls:
-  spotify: https://open.spotify.com/artist/61UExWH2clZAUQFKTL6i26
-  wikipedia: https://en.wikipedia.org/wiki/James_Jordan_(conductor)
+  spotify: 'https://open.spotify.com/artist/61UExWH2clZAUQFKTL6i26'
+  wikipedia: 'https://en.wikipedia.org/wiki/James_Jordan_(conductor)'
 genres:
-- choral
+  - choral
 image_path: 03_Resources/source_material/ArtistPortraits/james_jordan.jpg
 last_updated: '2026-01-06T02:05:10.321519'
 musical_connections:
   collaborators:
-  - James Whitbourn
-  - Westminster Williamson Voices
+    - James Whitbourn
+    - Westminster Williamson Voices
   influenced:
-  - Choral conductors and music educators worldwide
-  - Westminster Choir College students
+    - Choral conductors and music educators worldwide
+    - Westminster Choir College students
   mentors:
-  - Elaine Brown
-  - Wilhelm Ehmann
-  - Frauke Haasemann
+    - Elaine Brown
+    - Wilhelm Ehmann
+    - Frauke Haasemann
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/James_Jordan_(conductor)
-- https://giamusic.com/artists/james-jordan
-- https://blogs.jwpepper.com/the-inside-voice-an-interview-with-james-jordan/
-- https://www.jamesjordanconductor.com/biography
-- https://institute.giamusic.com/james-jordan/
-- https://www.wwfm.org/people/james-jordan
-- https://www.thesamestreamchoir.com/the-conductor
-- http://www.expertclinician.com/choral/dr-james-jordan
+  - 'https://en.wikipedia.org/wiki/James_Jordan_(conductor)'
+  - 'https://giamusic.com/artists/james-jordan'
+  - 'https://blogs.jwpepper.com/the-inside-voice-an-interview-with-james-jordan/'
+  - 'https://www.jamesjordanconductor.com/biography'
+  - 'https://institute.giamusic.com/james-jordan/'
+  - 'https://www.wwfm.org/people/james-jordan'
+  - 'https://www.thesamestreamchoir.com/the-conductor'
+  - 'http://www.expertclinician.com/choral/dr-james-jordan'
 spotify_data:
   followers: 426
   id: 61UExWH2clZAUQFKTL6i26
   popularity: 42
-  url: https://open.spotify.com/artist/61UExWH2clZAUQFKTL6i26
+  url: 'https://open.spotify.com/artist/61UExWH2clZAUQFKTL6i26'
 status: active
 title: James Jordan
-
+origin: 'Lawrenceville, New Jersey, United States'
+artist_type: person
 ---
 
 ![](james_jordan.jpg)

@@ -2,15 +2,15 @@
 title: Lost Bayou Ramblers
 wiki_slug: lost-bayou-ramblers
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1999'
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 instruments:
-- membranophone
-- original
+  - membranophone
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lost_bayou_ramblers.jpg
   caption: Lost Bayou Ramblers
@@ -31,117 +31,122 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Louis Michot
-  - André Michot
-  - Korey Richey
-  - Jonny (Johnny) Campos
-  - Eric Heigle
-  - Bryan Webre
-  - Kirkland Middleton
-  - Gordon Gano
-  - Scarlett Johansson
-  - Dr. John
+    - Louis Michot
+    - André Michot
+    - Korey Richey
+    - Jonny (Johnny) Campos
+    - Eric Heigle
+    - Bryan Webre
+    - Kirkland Middleton
+    - Gordon Gano
+    - Scarlett Johansson
+    - Dr. John
   influenced:
-  - Younger Cajun and Louisiana roots bands (general)
+    - Younger Cajun and Louisiana roots bands (general)
   mentors:
-  - Les Frères Michot (Tommy Michot and brothers)
-  - Older Cajun musicians in south Louisiana (unnamed)
-  - Joe Falcon & Cléoma Breaux (historical influence)
+    - Les Frères Michot (Tommy Michot and brothers)
+    - Older Cajun musicians in south Louisiana (unnamed)
+    - Joe Falcon & Cléoma Breaux (historical influence)
 spotify_data:
   followers: 8885
   id: 0zbxehhl5wjxmgJcS4StQh
   popularity: 17
-  url: https://open.spotify.com/artist/0zbxehhl5wjxmgJcS4StQh
+  url: 'https://open.spotify.com/artist/0zbxehhl5wjxmgJcS4StQh'
 discography_enriched: true
 top_tracks:
-- Sabine Turnaround (Kalenda)
-- Cote Gelee Two Step (Vermilionaire)
-- Renee Stomp (Vermilionaire)
-- Coteau Guidry (Mammoth Waltz)
-- Blue Moon Special (Bayou Perdu)
-- Walker Special (Vermilionaire)
-- Coteau Guidry Reprise (Mammoth Waltz)
-- Granny Smith (Kalenda)
-- Les Mardi Gras (ASTEUR)
-- Cote Clair Waltz (Kalenda)
+  - Sabine Turnaround (Kalenda)
+  - Cote Gelee Two Step (Vermilionaire)
+  - Renee Stomp (Vermilionaire)
+  - Coteau Guidry (Mammoth Waltz)
+  - Blue Moon Special (Bayou Perdu)
+  - Walker Special (Vermilionaire)
+  - Coteau Guidry Reprise (Mammoth Waltz)
+  - Granny Smith (Kalenda)
+  - Les Mardi Gras (ASTEUR)
+  - Cote Clair Waltz (Kalenda)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ced874ac-f431-4f88-8e79-ed521b91cdef
-  spotify: https://open.spotify.com/artist/0zbxehhl5wjxmgJcS4StQh
-  wikipedia: https://en.wikipedia.org/wiki/Lost_Bayou_Ramblers
+  musicbrainz: 'https://musicbrainz.org/artist/ced874ac-f431-4f88-8e79-ed521b91cdef'
+  spotify: 'https://open.spotify.com/artist/0zbxehhl5wjxmgJcS4StQh'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lost_Bayou_Ramblers'
 image_path: 03_Resources/source_material/ArtistPortraits/lost_bayou_ramblers.jpg
 biography_enhanced_at: '2025-12-08T04:23:44.627099'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Lost_Bayou_Ramblers
-- https://musicrising.tulane.edu/discover/people/lost-bayou-ramblers/
-- https://discoverlafayette.net/podcast/lost-bayou-ramblers-andre-and-louis-michot-share-the-story-of-their-20-year-partnership
-- https://antigravitymagazine.com/feature/the-history-within-louis-michot-of-the-lost-bayou-ramblers-melody-makers-more/
-- https://www.nps.gov/jela/learn/photosmultimedia/golden-hour-louis-michot.htm
-- https://www.americanbluesscene.com/2023/09/in-tune-with-louis-michot-the-lost-bayou-ramblers-lead-singer-goes-solo/
-- https://thecurrentla.com/2024/lost-bayou-ramblers-mark-25-years-making-traditional-music-for-the-moment/
-- https://www.bayoubrief.com/2017/11/30/the-lost-bayou-ramblers-reinvent-and-reclaim-the-music-of-acadiana/
+  - 'https://en.wikipedia.org/wiki/Lost_Bayou_Ramblers'
+  - 'https://musicrising.tulane.edu/discover/people/lost-bayou-ramblers/'
+  - >-
+    https://discoverlafayette.net/podcast/lost-bayou-ramblers-andre-and-louis-michot-share-the-story-of-their-20-year-partnership
+  - >-
+    https://antigravitymagazine.com/feature/the-history-within-louis-michot-of-the-lost-bayou-ramblers-melody-makers-more/
+  - 'https://www.nps.gov/jela/learn/photosmultimedia/golden-hour-louis-michot.htm'
+  - >-
+    https://www.americanbluesscene.com/2023/09/in-tune-with-louis-michot-the-lost-bayou-ramblers-lead-singer-goes-solo/
+  - >-
+    https://thecurrentla.com/2024/lost-bayou-ramblers-mark-25-years-making-traditional-music-for-the-moment/
+  - >-
+    https://www.bayoubrief.com/2017/11/30/the-lost-bayou-ramblers-reinvent-and-reclaim-the-music-of-acadiana/
 network_extracted: true
 entry_created: '2025-12-08T04:23:44.627108'
 last_updated: '2025-12-23T08:16:12.173937'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 176649a0-fc5a-4a68-af6e-bc51d49b0561
-  name: Andrew Austin-Petersen
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c06363dc-b307-4cc3-9a04-0627b37e7a8d
-  name: Pauly Deathwish
-- begin: ''
-  end: ''
-  instruments:
-  - membranophone
-  mbid: f5ccecc6-f713-4907-9b63-c2913fb288b4
-  name: Eric Heigle
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 4cb1fd33-b993-47cf-8492-ece45942183b
-  name: Andre Michot
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: c9bd94ea-29db-4fe4-a4d6-abc8cd483b13
-  name: Louis Michot
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 43a3d9e7-2f5a-4e11-a9e5-268ded87db42
-  name: Louis Michot and Swamp Magic
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: afde3557-28b9-4153-8360-1ea983ecf420
-  name: Jon Bertrand
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ec9830a7-5b62-4bd0-9469-48e49d6b4b87
-  name: Cavan Carruth
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5d4c03cd-38d3-4e1f-a817-00c24642b9d6
-  name: Chris Courville
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0ef58532-f67e-42cd-ac70-a5f0593224d6
-  name: Alan LaFleur
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 176649a0-fc5a-4a68-af6e-bc51d49b0561
+    name: Andrew Austin-Petersen
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c06363dc-b307-4cc3-9a04-0627b37e7a8d
+    name: Pauly Deathwish
+  - begin: ''
+    end: ''
+    instruments:
+      - membranophone
+    mbid: f5ccecc6-f713-4907-9b63-c2913fb288b4
+    name: Eric Heigle
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 4cb1fd33-b993-47cf-8492-ece45942183b
+    name: Andre Michot
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: c9bd94ea-29db-4fe4-a4d6-abc8cd483b13
+    name: Louis Michot
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 43a3d9e7-2f5a-4e11-a9e5-268ded87db42
+    name: Louis Michot and Swamp Magic
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: afde3557-28b9-4153-8360-1ea983ecf420
+    name: Jon Bertrand
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ec9830a7-5b62-4bd0-9469-48e49d6b4b87
+    name: Cavan Carruth
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5d4c03cd-38d3-4e1f-a817-00c24642b9d6
+    name: Chris Courville
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0ef58532-f67e-42cd-ac70-a5f0593224d6
+    name: Alan LaFleur
 musicbrainz_id: ced874ac-f431-4f88-8e79-ed521b91cdef
-origin: Lafayette
+origin: 'Lafayette, Louisiana, United States'
 tags:
-- cajun
+  - cajun
 ---
 
 ![](lost_bayou_ramblers.jpg)

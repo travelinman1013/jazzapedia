@@ -1,17 +1,17 @@
 ---
-title: MAGER JOHNSON
+title: Mager Johnson
 wiki_slug: mager-johnson
 schema_version: 2
 status: active
-birth_place: Crystal Springs–Terry area, Copiah County, Mississippi, United States
+birth_place: 'Crystal Springs–Terry area, Copiah County, Mississippi, United States'
 genres:
-- country blues
-- blues
+  - country blues
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/mager_johnson.jpg
   caption: MAGER JOHNSON
   background: solo_singer
-  origin: Crystal Springs–Terry area, Copiah County, Mississippi, United States
+  origin: 'Crystal Springs–Terry area, Copiah County, Mississippi, United States'
 audio_profile:
   tempo_avg: 105.2
   energy_avg: 0.235
@@ -27,48 +27,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tommy Johnson
-  - LeDell Johnson
+    - Tommy Johnson
+    - LeDell Johnson
   influenced:
-  - Regional Mississippi blues musicians around Crystal Springs and Copiah County
+    - >-
+      Regional Mississippi blues musicians around Crystal Springs and Copiah
+      County
   mentors:
-  - LeDell Johnson
-  - Tommy Johnson
+    - LeDell Johnson
+    - Tommy Johnson
 spotify_data:
   followers: 74
   id: 2YwdkJ38JmuxhvRnkRWwac
   popularity: 0
-  url: https://open.spotify.com/artist/2YwdkJ38JmuxhvRnkRWwac
+  url: 'https://open.spotify.com/artist/2YwdkJ38JmuxhvRnkRWwac'
 discography_enriched: true
 top_tracks:
-- 'Big Road Blues (Playing for the Man at the Door: Field Recordings from the Collection of Mack Mccormick, 1958–1971)'
-- 'Bye Bye Blues (Matchbox Bluesmaster Series, Vol. 8: Big Road Blues)'
-- 'Travelling Man Blues (Matchbox Bluesmaster Series, Vol. 8: Big Road Blues)'
-- 'Mustache Blues (Matchbox Bluesmaster Series, Vol. 8: Big Road Blues)'
-- 'Bye Bye Blues (Matchbox Bluesmaster Series, Vol. 8: Big Road Blues)'
-- 'Travelling Man Blues (Matchbox Bluesmaster Series, Vol. 8: Big Road Blues)'
-- 'Mustache Blues (Matchbox Bluesmaster Series, Vol. 8: Big Road Blues)'
-- Traveling Man Blues (Blues At Home 13)
-- Catfish Blues, No. 2 (Blues At Home 13)
-- Traveling Blues (Giants of Country Blues Guitar Vol. 1)
+  - >-
+    Big Road Blues (Playing for the Man at the Door: Field Recordings from the
+    Collection of Mack Mccormick, 1958–1971)
+  - 'Bye Bye Blues (Matchbox Bluesmaster Series, Vol. 8: Big Road Blues)'
+  - 'Travelling Man Blues (Matchbox Bluesmaster Series, Vol. 8: Big Road Blues)'
+  - 'Mustache Blues (Matchbox Bluesmaster Series, Vol. 8: Big Road Blues)'
+  - 'Bye Bye Blues (Matchbox Bluesmaster Series, Vol. 8: Big Road Blues)'
+  - 'Travelling Man Blues (Matchbox Bluesmaster Series, Vol. 8: Big Road Blues)'
+  - 'Mustache Blues (Matchbox Bluesmaster Series, Vol. 8: Big Road Blues)'
+  - Traveling Man Blues (Blues At Home 13)
+  - 'Catfish Blues, No. 2 (Blues At Home 13)'
+  - Traveling Blues (Giants of Country Blues Guitar Vol. 1)
 external_urls:
-  spotify: https://open.spotify.com/artist/2YwdkJ38JmuxhvRnkRWwac
+  spotify: 'https://open.spotify.com/artist/2YwdkJ38JmuxhvRnkRWwac'
   wikipedia: ''
 image_path: ''
 biography_enhanced_at: '2025-12-09T04:49:48.778709'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Mississippi Blues Trail – Tommy Johnson marker (biographical text on Tommy Johnson and mention of brothers LeDell and Mager
-  as performing partners)[3]
-- Erin Harpe, “The real king of Delta blues – Tommy Johnson,” summarizing David Evans’ research and describing brothers LeDell
-  and Mager (pronounced “Major”) as incredibly fine players, with extensive family testimony.[2]
-- 'Opossum Lit, “DEVIL in the DETAIL: A History of Musicians and the Crossroads,” noting Mager Johnson’s reaction to LeDell’s
-  telling of the crossroads story.[5]'
-- AllMusic entry on Mager Johnson (discography stub indicating the scarcity of recorded material).[6]
+  - >-
+    Mississippi Blues Trail – Tommy Johnson marker (biographical text on Tommy
+    Johnson and mention of brothers LeDell and Mager as performing partners)[3]
+  - >-
+    Erin Harpe, “The real king of Delta blues – Tommy Johnson,” summarizing
+    David Evans’ research and describing brothers LeDell and Mager (pronounced
+    “Major”) as incredibly fine players, with extensive family testimony.[2]
+  - >-
+    Opossum Lit, “DEVIL in the DETAIL: A History of Musicians and the
+    Crossroads,” noting Mager Johnson’s reaction to LeDell’s telling of the
+    crossroads story.[5]
+  - >-
+    AllMusic entry on Mager Johnson (discography stub indicating the scarcity of
+    recorded material).[6]
 network_extracted: true
 entry_created: '2025-12-09T04:49:48.778723'
 last_updated: '2025-12-23T08:16:12.485848'
+origin: 'Crystal Springs–Terry area, Copiah County, Mississippi, United States'
+artist_type: person
 ---
 
 ![]()

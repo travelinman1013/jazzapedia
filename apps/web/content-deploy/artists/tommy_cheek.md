@@ -4,7 +4,7 @@ biography_enhanced_at: '2026-01-12T02:10:57.793790'
 enhancement_provider: perplexity
 entry_created: '2026-01-12T02:10:57.793796'
 external_urls:
-  spotify: https://open.spotify.com/artist/0MGuJVWCfUYTwnDtn6Ub3u
+  spotify: 'https://open.spotify.com/artist/0MGuJVWCfUYTwnDtn6Ub3u'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/tommy_cheek.jpg
@@ -16,15 +16,15 @@ musical_connections:
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Tom_Cheek
-- https://www.allaboutjazz.com/musicians/thomas-daniel-cheek
+  - 'https://en.wikipedia.org/wiki/Tom_Cheek'
+  - 'https://www.allaboutjazz.com/musicians/thomas-daniel-cheek'
 spotify_data:
   followers: 3
   id: 0MGuJVWCfUYTwnDtn6Ub3u
   popularity: 0
-  url: https://open.spotify.com/artist/0MGuJVWCfUYTwnDtn6Ub3u
+  url: 'https://open.spotify.com/artist/0MGuJVWCfUYTwnDtn6Ub3u'
 status: active
-title: TOMMY CHEEK
+title: Tommy Cheek
 ---
 
 ![](tommy_cheek.jpg)

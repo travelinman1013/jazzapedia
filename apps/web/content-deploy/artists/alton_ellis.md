@@ -1,25 +1,25 @@
 ---
-title: alton ellis
+title: Alton Ellis
 wiki_slug: alton-ellis
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1938-09-01'
-birth_place: Kingston, Jamaica
+birth_place: 'Trenchtown, Kingston, Jamaica'
 death_date: '2008-10-10'
 genres:
-- rocksteady
-- reggae
-- lovers rock
-- ska
-- roots reggae
-- dub
+  - rocksteady
+  - reggae
+  - lovers rock
+  - ska
+  - roots reggae
+  - dub
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/alton_ellis.jpg
   caption: alton ellis
   background: solo_singer
   born: '1938-09-01'
-  origin: Kingston, Jamaica
+  origin: 'Kingston, Jamaica'
   died: '2008-10-10'
 audio_profile:
   tempo_avg: 112.2
@@ -36,51 +36,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Leslie Ellis
-  - Tommy McCook and the Supersonics
-  - Eddy Parkins
-  - Winston Jarrett
-  - David 'Baby G' Gordon
-  - Lloyd Charmers
-  - Phyllis Dillon
-  - The Heptones
-  - Gladstone Anderson
-  - Jackie Jackson
+    - Leslie Ellis
+    - Tommy McCook and the Supersonics
+    - Eddy Parkins
+    - Winston Jarrett
+    - David 'Baby G' Gordon
+    - Lloyd Charmers
+    - Phyllis Dillon
+    - The Heptones
+    - Gladstone Anderson
+    - Jackie Jackson
   influenced:
-  - Lovers Rock Movement
-  - Hundreds of Reggae Singers
+    - Lovers Rock Movement
+    - Hundreds of Reggae Singers
   mentors:
-  - Vere Johns
+    - Vere Johns
 spotify_data:
   followers: 135633
   id: 5pryfFgCrWJ41UHaENJPyi
   popularity: 43
-  url: https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi
+  url: 'https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi'
 discography_enriched: true
 top_tracks:
-- 'I''m Still in Love (Reggae Legends: Alton Ellis)'
-- What Does It Take (To Win Your Love) (Mr Soul of Jamaica)
-- Rock Steady (Mr Soul of Jamaica)
-- You've Made Me so Very Happy (Mr Soul of Jamaica)
-- Too Late to Turn Back Now
-- 'I''m Still in Love (Legend: Alton Ellis)'
-- Blackman's Word - aka Black Man's Pride (Mr Soul of Jamaica)
-- La La Means I Love You
-- My Willow Tree (Mr Soul of Jamaica)
-- I'm Still in Love
+  - 'I''m Still in Love (Reggae Legends: Alton Ellis)'
+  - What Does It Take (To Win Your Love) (Mr Soul of Jamaica)
+  - Rock Steady (Mr Soul of Jamaica)
+  - You've Made Me so Very Happy (Mr Soul of Jamaica)
+  - Too Late to Turn Back Now
+  - 'I''m Still in Love (Legend: Alton Ellis)'
+  - Blackman's Word - aka Black Man's Pride (Mr Soul of Jamaica)
+  - La La Means I Love You
+  - My Willow Tree (Mr Soul of Jamaica)
+  - I'm Still in Love
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b04d9207-306c-42db-8b6a-c94d49b4b08a
-  spotify: https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi
-  wikipedia: https://en.wikipedia.org/wiki/Alton_Ellis
+  musicbrainz: 'https://musicbrainz.org/artist/b04d9207-306c-42db-8b6a-c94d49b4b08a'
+  spotify: 'https://open.spotify.com/artist/5pryfFgCrWJ41UHaENJPyi'
+  wikipedia: 'https://en.wikipedia.org/wiki/Alton_Ellis'
 image_path: 03_Resources/source_material/ArtistPortraits/alton_ellis.jpg
 biography_enhanced_at: '2025-10-20T09:02:47.784856'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Alton_Ellis
-- https://unitedreggae.com/artists/a/alton-ellis,75/
-- https://wbssmedia.com/artists/detail/2096
-- https://www.andybassford.com/?p=2544
+  - 'https://en.wikipedia.org/wiki/Alton_Ellis'
+  - 'https://unitedreggae.com/artists/a/alton-ellis,75/'
+  - 'https://wbssmedia.com/artists/detail/2096'
+  - 'https://www.andybassford.com/?p=2544'
 network_extracted: true
 entry_created: '2025-10-20T09:02:47.784867'
 last_updated: '2025-12-23T08:16:04.635371'
@@ -88,8 +88,9 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:48:42.465942'
 musicbrainz_id: b04d9207-306c-42db-8b6a-c94d49b4b08a
 tags:
-- reggae
-- rocksteady
+  - reggae
+  - rocksteady
+is_active: false
 ---
 
 ![](alton_ellis.jpg)

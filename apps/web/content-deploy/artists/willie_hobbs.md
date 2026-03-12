@@ -1,16 +1,16 @@
 ---
-title: willie hobbs
+title: Willie Hobbs
 wiki_slug: willie-hobbs
 schema_version: 2
 status: active
-birth_place: Doerun, Georgia, USA
+birth_place: 'Doerun, Georgia, USA'
 genres:
-- northern soul
+  - northern soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/willie_hobbs.jpg
   caption: willie hobbs
   background: solo_singer
-  origin: Doerun, Georgia, USA
+  origin: 'Doerun, Georgia, USA'
 audio_profile:
   tempo_avg: 117.4
   energy_avg: 0.503
@@ -26,46 +26,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Pic & Bill
-  - The Dirte Four
+    - Pic & Bill
+    - The Dirte Four
   influenced:
-  - Northern Soul DJs and Collectors
+    - Northern Soul DJs and Collectors
   mentors:
-  - Bobby Bland
+    - Bobby Bland
 spotify_data:
   followers: 186
   id: 3O6iZau9lt3UseZXE1QDLt
   popularity: 2
-  url: https://open.spotify.com/artist/3O6iZau9lt3UseZXE1QDLt
+  url: 'https://open.spotify.com/artist/3O6iZau9lt3UseZXE1QDLt'
 discography_enriched: true
 top_tracks:
-- You Don't Know What You Got (Until You Lose It) (You Don't Know What You Got (Until You Lose It))
-- 'Love ''Em and Leave ''Em (Southern Soul Rhythm & Grooves: From the Silver Fox Archives)'
-- How Could My Baby Know (Judge Of Hearts)
-- 'Yes My Goodness Yes (Blue Diamonds: Southern Soul Gems)'
-- 'Where The Sweetness Lies (Southern Soul Rhythm & Grooves: From the Silver Fox Archives)'
-- 'The Game Of Love (Blue Diamonds: Southern Soul Gems)'
-- At the Dark End of the Street ('Til I Get It Right)
-- Do Your Own Thing (Do Your Own Thing / I Know I'm Gonna Miss You)
-- Where Did I Go Wrong (You Don't Know What You Got (Until You Lose It))
-- Judge of Hearts
+  - >-
+    You Don't Know What You Got (Until You Lose It) (You Don't Know What You Got
+    (Until You Lose It))
+  - >-
+    Love 'Em and Leave 'Em (Southern Soul Rhythm & Grooves: From the Silver Fox
+    Archives)
+  - How Could My Baby Know (Judge Of Hearts)
+  - 'Yes My Goodness Yes (Blue Diamonds: Southern Soul Gems)'
+  - >-
+    Where The Sweetness Lies (Southern Soul Rhythm & Grooves: From the Silver
+    Fox Archives)
+  - 'The Game Of Love (Blue Diamonds: Southern Soul Gems)'
+  - At the Dark End of the Street ('Til I Get It Right)
+  - Do Your Own Thing (Do Your Own Thing / I Know I'm Gonna Miss You)
+  - Where Did I Go Wrong (You Don't Know What You Got (Until You Lose It))
+  - Judge of Hearts
 external_urls:
-  spotify: https://open.spotify.com/artist/3O6iZau9lt3UseZXE1QDLt
+  spotify: 'https://open.spotify.com/artist/3O6iZau9lt3UseZXE1QDLt'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/willie_hobbs.jpg
 biography_enhanced_at: '2025-11-04T11:06:09.029606'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.soulfulkindamusic.net/whobbs.htm
-- https://www.last.fm/music/Willie+Hobbs/+wiki
-- https://www.musicbed.com/artists/willie-hobbs/43402
-- https://open.spotify.com/artist/3O6iZau9lt3UseZXE1QDLt
-- https://music.apple.com/us/artist/willie-hobbs/57899118
-- https://www.foxsoundi.com/artist/37157811/willie-hobbs
+  - 'https://www.soulfulkindamusic.net/whobbs.htm'
+  - 'https://www.last.fm/music/Willie+Hobbs/+wiki'
+  - 'https://www.musicbed.com/artists/willie-hobbs/43402'
+  - 'https://open.spotify.com/artist/3O6iZau9lt3UseZXE1QDLt'
+  - 'https://music.apple.com/us/artist/willie-hobbs/57899118'
+  - 'https://www.foxsoundi.com/artist/37157811/willie-hobbs'
 network_extracted: true
 entry_created: '2025-11-04T11:06:09.029615'
 last_updated: '2025-12-23T08:16:18.188112'
+birth_date: '1944-09-01'
+artist_type: person
 ---
 
 ![](willie_hobbs.jpg)

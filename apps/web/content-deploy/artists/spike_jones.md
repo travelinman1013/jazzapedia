@@ -1,17 +1,17 @@
 ---
-title: spike jones
+title: Spike Jones
 wiki_slug: spike-jones
 schema_version: 2
 status: active
-birth_place: Long Beach, California, United States
+birth_place: 'Long Beach, California, United States'
 genres:
-- christmas
-- comedy
+  - christmas
+  - comedy
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/spike_jones.jpg
   caption: spike jones
   background: solo_singer
-  origin: Long Beach, California, United States
+  origin: 'Long Beach, California, United States'
 audio_profile:
   tempo_avg: 125.2
   energy_avg: 0.49
@@ -27,49 +27,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John Scott Trotter
-  - Del Porter
-  - Carl Grayson, Perry Botkin, King Jackson, Stan Wrightsman
+    - John Scott Trotter
+    - Del Porter
+    - 'Carl Grayson, Perry Botkin, King Jackson, Stan Wrightsman'
   influenced:
-  - Weird Al Yankovic
-  - Stan Freberg
+    - Weird Al Yankovic
+    - Stan Freberg
   mentors:
-  - Local restaurant chef
+    - Local restaurant chef
 spotify_data:
   followers: 12433
   id: 117YLv0bvUKDzQgaHwTF7b
   popularity: 23
-  url: https://open.spotify.com/artist/117YLv0bvUKDzQgaHwTF7b
+  url: 'https://open.spotify.com/artist/117YLv0bvUKDzQgaHwTF7b'
 discography_enriched: true
 top_tracks:
-- Der Fuehrer's Face (Love in Bloom)
-- Harlem Nocturne - Remastered
-- Five Foot Two Eyes of Blue (Spike Jones Goes Crazy)
-- All I Want For Christmas Is My Two Front Teeth (Love in Bloom)
-- Never Hit Your Grandma With A Shovel (Use An Ax Instead) (Love in Bloom)
-- Cocktails For Two (Cocktails For Two)
-- Little Bo Beep Has Lost Her Jeep (Spike Jones, (Not) Your Standard Spike Jones Collection)
-- Horsey, Keep Your Tail Up (Spike Jones, (Not) Your Standard Spike Jones Collection)
-- Power House - Remastered
-- Five Foot Two Eyes of Blue (Love in Bloom)
+  - Der Fuehrer's Face (Love in Bloom)
+  - Harlem Nocturne - Remastered
+  - Five Foot Two Eyes of Blue (Spike Jones Goes Crazy)
+  - All I Want For Christmas Is My Two Front Teeth (Love in Bloom)
+  - Never Hit Your Grandma With A Shovel (Use An Ax Instead) (Love in Bloom)
+  - Cocktails For Two (Cocktails For Two)
+  - >-
+    Little Bo Beep Has Lost Her Jeep (Spike Jones, (Not) Your Standard Spike
+    Jones Collection)
+  - >-
+    Horsey, Keep Your Tail Up (Spike Jones, (Not) Your Standard Spike Jones
+    Collection)
+  - Power House - Remastered
+  - Five Foot Two Eyes of Blue (Love in Bloom)
 external_urls:
-  spotify: https://open.spotify.com/artist/117YLv0bvUKDzQgaHwTF7b
-  wikipedia: https://en.wikipedia.org/wiki/Spike_Jones
+  spotify: 'https://open.spotify.com/artist/117YLv0bvUKDzQgaHwTF7b'
+  wikipedia: 'https://en.wikipedia.org/wiki/Spike_Jones'
 image_path: 03_Resources/source_material/ArtistPortraits/spike_jones.jpg
 biography_enhanced_at: '2025-11-01T15:36:57.322399'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://walkoffame.com/spike-jones/
-- https://en.wikipedia.org/wiki/Spike_Jones
-- https://www.britannica.com/biography/Spike-Jones
-- https://mus-col.com/en/events/32945/
-- https://www.imdb.com/name/nm0005066/
-- https://syncopatedtimes.com/spike-jones-off-the-record-the-man-who-murdered-music/
-- https://www.imdb.com/name/nm0005066/bio/
+  - 'https://walkoffame.com/spike-jones/'
+  - 'https://en.wikipedia.org/wiki/Spike_Jones'
+  - 'https://www.britannica.com/biography/Spike-Jones'
+  - 'https://mus-col.com/en/events/32945/'
+  - 'https://www.imdb.com/name/nm0005066/'
+  - >-
+    https://syncopatedtimes.com/spike-jones-off-the-record-the-man-who-murdered-music/
+  - 'https://www.imdb.com/name/nm0005066/bio/'
 network_extracted: true
 entry_created: '2025-11-01T15:36:57.322416'
 last_updated: '2025-12-23T08:16:15.991906'
+birth_date: '1911-12-14'
+artist_type: person
 ---
 
 ![](spike_jones.jpg)

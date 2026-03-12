@@ -4,7 +4,7 @@ wiki_slug: brides-of-funkenstein
 schema_version: 2
 status: active
 genres:
-- funk
+  - funk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/brides_of_funkenstein.jpg
   caption: Brides of Funkenstein
@@ -24,52 +24,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lynn Mabry
-  - Dawn Silva
-  - Sheila Horne
-  - Jeanette McGruder
-  - Eddie Hazel
-  - Bootsy Collins
-  - Parliament-Funkadelic
+    - Lynn Mabry
+    - Dawn Silva
+    - Sheila Horne
+    - Jeanette McGruder
+    - Eddie Hazel
+    - Bootsy Collins
+    - Parliament-Funkadelic
   influenced:
-  - En Vogue
-  - Contemporary funk and R&B artists
+    - En Vogue
+    - Contemporary funk and R&B artists
   mentors:
-  - George Clinton
-  - Sly Stone
+    - George Clinton
+    - Sly Stone
 spotify_data:
   followers: 43079
   id: 1UpV4Xw5bG23MNBlhD8rpc
   popularity: 16
-  url: https://open.spotify.com/artist/1UpV4Xw5bG23MNBlhD8rpc
+  url: 'https://open.spotify.com/artist/1UpV4Xw5bG23MNBlhD8rpc'
 discography_enriched: true
 top_tracks:
-- Disco to Go (Funk Or Walk)
-- Birdie (Funk Or Walk)
-- Amorous (Funk Or Walk)
-- Never Buy Texas from a Cowboy (Never Buy Texas From A Cowboy)
-- Just Like You (Funk Or Walk)
-- Party up in Here (Never Buy Texas From A Cowboy)
-- Nappy (Funk Or Walk)
-- Smoke Signals (Never Buy Texas From A Cowboy)
-- Didn't Mean to Fall in Love (Never Buy Texas From A Cowboy)
-- War Ship Touchante (Funk Or Walk)
+  - Disco to Go (Funk Or Walk)
+  - Birdie (Funk Or Walk)
+  - Amorous (Funk Or Walk)
+  - Never Buy Texas from a Cowboy (Never Buy Texas From A Cowboy)
+  - Just Like You (Funk Or Walk)
+  - Party up in Here (Never Buy Texas From A Cowboy)
+  - Nappy (Funk Or Walk)
+  - Smoke Signals (Never Buy Texas From A Cowboy)
+  - Didn't Mean to Fall in Love (Never Buy Texas From A Cowboy)
+  - War Ship Touchante (Funk Or Walk)
 external_urls:
-  spotify: https://open.spotify.com/artist/1UpV4Xw5bG23MNBlhD8rpc
-  wikipedia: https://en.wikipedia.org/wiki/The_Brides_of_Funkenstein
+  spotify: 'https://open.spotify.com/artist/1UpV4Xw5bG23MNBlhD8rpc'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Brides_of_Funkenstein'
 image_path: 03_Resources/source_material/ArtistPortraits/brides_of_funkenstein.jpg
 biography_enhanced_at: '2025-11-16T20:25:07.922923'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Brides_of_Funkenstein
-- https://www.theaudiodb.com/artist/124024-The-Brides-of-Funkenstein
-- https://blowthescene.com/features/old-soul-part-iv-the-brides-of-funkenstein.html
-- https://georgeclinton.com/audio/the-brides-of-dr-funkenstein-funk-or-walk/
+  - 'https://en.wikipedia.org/wiki/The_Brides_of_Funkenstein'
+  - 'https://www.theaudiodb.com/artist/124024-The-Brides-of-Funkenstein'
+  - >-
+    https://blowthescene.com/features/old-soul-part-iv-the-brides-of-funkenstein.html
+  - 'https://georgeclinton.com/audio/the-brides-of-dr-funkenstein-funk-or-walk/'
 network_extracted: true
 entry_created: '2025-11-16T20:25:07.922929'
 last_updated: '2025-12-23T08:16:06.093862'
-origin: Detroit, Michigan, USA
+origin: 'Detroit, Michigan, USA'
+artist_type: band
 ---
 
 ![](brides_of_funkenstein.jpg)

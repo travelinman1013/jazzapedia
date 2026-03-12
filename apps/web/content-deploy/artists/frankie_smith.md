@@ -1,40 +1,42 @@
 ---
 biography_enhanced_at: '2025-12-30T01:29:27.727393'
-birth_place: Philadelphia, Pennsylvania, USA
+birth_place: 'Philadelphia, Pennsylvania, USA'
 enhancement_provider: perplexity
 entry_created: '2025-12-30T01:29:27.727397'
 external_urls:
-  spotify: https://open.spotify.com/artist/0CcGsPdBvdYS0JuxrTvTIF
+  spotify: 'https://open.spotify.com/artist/0CcGsPdBvdYS0JuxrTvTIF'
   wikipedia: Not found in search results
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/frankie_smith.jpg
 last_updated: '2025-12-30T01:29:27.727398'
 musical_connections:
   collaborators:
-  - The O'Jays
-  - Billy Paul
+    - The O'Jays
+    - Billy Paul
   influenced:
-  - Missy Elliott
-  - Snoop Dogg
+    - Missy Elliott
+    - Snoop Dogg
   mentors:
-  - Gamble and Huff (Kenny Gamble and Leon Huff)
+    - Gamble and Huff (Kenny Gamble and Leon Huff)
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://popdose.com/lost-in-the-80s-frankie-smith-double-dutch-bus/
-- https://www.allmusic.com/artist/frankie-smith-mn0000437983
-- https://music.fandom.com/wiki/Frankie_Smith
-- https://kids.kiddle.co/Frankie_Smith
-- https://www.iheart.com/artist/frankie-smith-233276/
-- https://www.imdb.com/name/nm1919389/
-- https://blackpast.org/african-american-history/frankie-smith-1953-2019/
+  - 'https://popdose.com/lost-in-the-80s-frankie-smith-double-dutch-bus/'
+  - 'https://www.allmusic.com/artist/frankie-smith-mn0000437983'
+  - 'https://music.fandom.com/wiki/Frankie_Smith'
+  - 'https://kids.kiddle.co/Frankie_Smith'
+  - 'https://www.iheart.com/artist/frankie-smith-233276/'
+  - 'https://www.imdb.com/name/nm1919389/'
+  - 'https://blackpast.org/african-american-history/frankie-smith-1953-2019/'
 spotify_data:
   followers: 13325
   id: 0CcGsPdBvdYS0JuxrTvTIF
   popularity: 39
-  url: https://open.spotify.com/artist/0CcGsPdBvdYS0JuxrTvTIF
+  url: 'https://open.spotify.com/artist/0CcGsPdBvdYS0JuxrTvTIF'
 status: active
 title: Frankie Smith
+birth_date: '1953-01-29'
+artist_type: person
 ---
 
 ![](frankie_smith.jpg)

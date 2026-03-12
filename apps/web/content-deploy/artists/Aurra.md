@@ -2,16 +2,16 @@
 title: Aurra
 wiki_slug: aurra
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 aliases: []
 birth_date: '1979'
 years_active: 1979–1986 (as Aurra)1987–1989 (as Déja)
 genres:
-- post-disco
-- boogie
+  - post-disco
+  - boogie
 record_labels:
-- Salsoul Records
+  - Salsoul Records
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Aurra.jpg
   caption: Aurra
@@ -24,7 +24,7 @@ audio_profile:
   danceability_avg: 0.765
   acousticness_avg: 0.116
   instrumentalness_avg: 0.022
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.068
   liveness_avg: 0.171
   track_count: 50
@@ -32,64 +32,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Slave
-  - Steve Washington
-  - Phil Field
-  - Mysti Day
+    - Slave
+    - Steve Washington
+    - Phil Field
+    - Mysti Day
   influenced:
-  - Surface
-  - Young and Company
+    - Surface
+    - Young and Company
   mentors:
-  - Ralph 'Pee Wee' Middlebrooks
-  - Michael Jackson, Minnie Riperton, Stevie Wonder
+    - Ralph 'Pee Wee' Middlebrooks
+    - 'Michael Jackson, Minnie Riperton, Stevie Wonder'
 related_artists: []
 spotify_data:
   followers: 39988
   id: 6f34Vi3DFJap7eJMDbpzEG
   popularity: 33
-  url: https://open.spotify.com/artist/6f34Vi3DFJap7eJMDbpzEG
+  url: 'https://open.spotify.com/artist/6f34Vi3DFJap7eJMDbpzEG'
   verified: false
 discography_enriched: true
 albums_count: 4
 singles_count: 7
 top_tracks:
-- Are You Single? (Send Your Love)
-- Make up Your Mind (A Little Love)
-- You And Me Tonight
-- Baby Love (Live and Let Live)
-- A Little Love (Radio Edit)
-- Such a Feeling (Live and Let Live)
-- Send Your Love (Send Your Love)
-- Checking You Out (A Little Love)
-- Patience (A Little Love)
-- Still Free (A Little Love)
+  - Are You Single? (Send Your Love)
+  - Make up Your Mind (A Little Love)
+  - You And Me Tonight
+  - Baby Love (Live and Let Live)
+  - A Little Love (Radio Edit)
+  - Such a Feeling (Live and Let Live)
+  - Send Your Love (Send Your Love)
+  - Checking You Out (A Little Love)
+  - Patience (A Little Love)
+  - Still Free (A Little Love)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4ec7c9bb-9ddc-4e43-9a8c-5806e91740c1
-  spotify: https://open.spotify.com/artist/6f34Vi3DFJap7eJMDbpzEG
-  wikipedia: https://en.wikipedia.org/wiki/Aurra
+  musicbrainz: 'https://musicbrainz.org/artist/4ec7c9bb-9ddc-4e43-9a8c-5806e91740c1'
+  spotify: 'https://open.spotify.com/artist/6f34Vi3DFJap7eJMDbpzEG'
+  wikipedia: 'https://en.wikipedia.org/wiki/Aurra'
 image_path: 03_Resources/source_material/ArtistPortraits/Aurra.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:33:23.015946'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Aurra/+wiki
-- http://grandis.nu/funkyflyy/aurra.html
-- https://thefunkcenter.org/aurra/
-- https://www.youtube.com/watch?v=o4wPAZthZ7U
+  - 'https://www.last.fm/music/Aurra/+wiki'
+  - 'http://grandis.nu/funkyflyy/aurra.html'
+  - 'https://thefunkcenter.org/aurra/'
+  - 'https://www.youtube.com/watch?v=o4wPAZthZ7U'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 15:24:13.309517
+entry_created: 2025-09-18T15:24:13.309Z
 last_updated: '2025-12-23T08:16:01.083807'
 disambiguation: early 80s Dayton soul group
 musicbrainz_enriched_at: '2025-10-21T09:00:22.379034'
 musicbrainz_id: 4ec7c9bb-9ddc-4e43-9a8c-5806e91740c1
-origin: Newark/East Orange, New Jersey, United States
+origin: 'Dayton, Ohio, United States'
 tags:
-- boogie
-- funk
-- soul
-
+  - boogie
+  - funk
+  - soul
+birth_place: Dayton
 ---
 
 ![](Aurra.jpg)

@@ -1,17 +1,17 @@
 ---
-title: Teedra Moses, Dawn Richard
+title: 'Teedra Moses, Dawn Richard'
 wiki_slug: teedra-moses-dawn-richard
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/teedra_moses_dawn_richard.jpg
-  caption: Teedra Moses, Dawn Richard
+  caption: 'Teedra Moses, Dawn Richard'
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
-  tempo_avg: 115.0
+  tempo_avg: 115
   energy_avg: 0.651
   valence_avg: 0.522
   danceability_avg: 0.661
@@ -25,42 +25,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Estelle
-  - Dawn Richard
-  - Durand Bernarr
+    - Estelle
+    - Dawn Richard
+    - Durand Bernarr
   influenced: []
   mentors: []
 spotify_data:
   followers: 204056
   id: 6vfR5QRc3xca0KvpG8KZBE
   popularity: 53
-  url: https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE
+  url: 'https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE'
 discography_enriched: true
 top_tracks:
-- BE YOUR GIRL - KAYTRANADA REMIX
-- 'Be Your Girl (Complex Simplicity: 15th Anniversary Edition)'
-- Culture (feat. Teedra Moses) (BUBBA)
-- 'Backstroke (Complex Simplicity: 15th Anniversary Edition)'
-- 'Rescue Me (Complex Simplicity: 15th Anniversary Edition)'
-- Feels Good
-- Chic (Ray Ray)
-- 'Caught Up (Complex Simplicity: 15th Anniversary Edition)'
-- Be Your Girl (Kaytranada Edition)
-- Grateful (Stay Alta)
+  - BE YOUR GIRL - KAYTRANADA REMIX
+  - 'Be Your Girl (Complex Simplicity: 15th Anniversary Edition)'
+  - Culture (feat. Teedra Moses) (BUBBA)
+  - 'Backstroke (Complex Simplicity: 15th Anniversary Edition)'
+  - 'Rescue Me (Complex Simplicity: 15th Anniversary Edition)'
+  - Feels Good
+  - Chic (Ray Ray)
+  - 'Caught Up (Complex Simplicity: 15th Anniversary Edition)'
+  - Be Your Girl (Kaytranada Edition)
+  - Grateful (Stay Alta)
 external_urls:
-  spotify: https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE
+  spotify: 'https://open.spotify.com/artist/6vfR5QRc3xca0KvpG8KZBE'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/teedra_moses_dawn_richard.jpg
 biography_enhanced_at: '2025-11-20T06:57:51.534204'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- BET - 'Teedra Moses Is Reimagining a Classic—And Herself'
-- 'Clash Music - ''Rebirth Of The New Breed: How Devastation Led to DAWN''s Enlightenment'''
-- Instagram - Official post about 'Outta My Head (Reimagined)'
+  - BET - 'Teedra Moses Is Reimagining a Classic—And Herself'
+  - >-
+    Clash Music - 'Rebirth Of The New Breed: How Devastation Led to DAWN's
+    Enlightenment'
+  - Instagram - Official post about 'Outta My Head (Reimagined)'
 network_extracted: true
 entry_created: '2025-11-20T06:57:51.534215'
 last_updated: '2025-12-23T08:16:16.466445'
+artist_type: person
 ---
 
 ![](teedra_moses_dawn_richard.jpg)

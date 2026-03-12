@@ -3,11 +3,11 @@ biography_enhanced_at: '2026-01-11T02:15:29.483949'
 enhancement_provider: perplexity
 entry_created: '2026-01-11T02:15:29.483957'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/cb830406-c008-484e-bfab-48293505f59c
-  spotify: https://open.spotify.com/artist/37wTGLsPmCDmkwIvLTbxkk
+  musicbrainz: 'https://musicbrainz.org/artist/cb830406-c008-484e-bfab-48293505f59c'
+  spotify: 'https://open.spotify.com/artist/37wTGLsPmCDmkwIvLTbxkk'
   wikipedia: ''
 genres:
-- brass band
+  - brass band
 image_path: 03_Resources/source_material/ArtistPortraits/algiers_brass_band.jpg
 last_updated: '2026-01-11T02:15:29.483959'
 musical_connections:
@@ -16,20 +16,23 @@ musical_connections:
   mentors: []
 musicbrainz_id: cb830406-c008-484e-bfab-48293505f59c
 network_extracted: true
-origin: Algiers, New Orleans, Louisiana, United States (historical brass band hub;
-  no discrete verified band by the name “Algiers Brass Band”)
+origin: >-
+  Algiers, New Orleans, Louisiana, United States (historical brass band hub; no
+  discrete verified band by the name “Algiers Brass Band”)
 primary_source: perplexity
 research_sources:
-- https://algiershistoricalsociety.org/jazz-history.html
-- https://jazz.stqry.app/story/229141
-- https://www.risingsunbnb.com/wp-content/uploads/2016/01/NEW-ORLEANS-JAZZ-TOUR-2.pdf
+  - 'https://algiershistoricalsociety.org/jazz-history.html'
+  - 'https://jazz.stqry.app/story/229141'
+  - >-
+    https://www.risingsunbnb.com/wp-content/uploads/2016/01/NEW-ORLEANS-JAZZ-TOUR-2.pdf
 spotify_data:
   followers: 113
   id: 37wTGLsPmCDmkwIvLTbxkk
   popularity: 0
-  url: https://open.spotify.com/artist/37wTGLsPmCDmkwIvLTbxkk
+  url: 'https://open.spotify.com/artist/37wTGLsPmCDmkwIvLTbxkk'
 status: active
 title: Algiers Brass Band
+artist_type: band
 ---
 
 ![](algiers_brass_band.jpg)

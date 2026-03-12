@@ -3,42 +3,45 @@ biography_enhanced_at: '2026-01-08T01:47:32.892159'
 enhancement_provider: perplexity
 entry_created: '2026-01-08T01:47:32.892165'
 external_urls:
-  spotify: https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp
-  wikipedia: https://en.wikipedia.org/wiki/Hyukoh
+  spotify: 'https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp'
+  wikipedia: 'https://en.wikipedia.org/wiki/Hyukoh'
 genres:
-- k-rock
+  - k-rock
 image_path: 03_Resources/source_material/ArtistPortraits/hyukoh.jpg
 last_updated: '2026-01-08T01:47:32.892165'
 musical_connections:
   collaborators:
-  - Oh Hyuk
-  - Lim Hyun-jae (HyunJae Lim)
-  - Im Dong-geon (DongGeon Im)
-  - Lee In-woo (InWoo Lee)
-  - Primary
-  - JNKYRD
+    - Oh Hyuk
+    - Lim Hyun-jae (HyunJae Lim)
+    - Im Dong-geon (DongGeon Im)
+    - Lee In-woo (InWoo Lee)
+    - Primary
+    - JNKYRD
   influenced:
-  - Younger South Korean indie and band-scene artists (general)
+    - Younger South Korean indie and band-scene artists (general)
   mentors:
-  - Tablo
+    - Tablo
 network_extracted: true
-origin: Hongdae, Seoul, South Korea
+origin: 'Hongdae, Seoul, South Korea'
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/HYUKOH/+wiki
-- https://hero-magazine.com/article/122760/hyukoh-are-the-south-korean-indie-superstars-leaving-k-pop-in-their-wake
-- https://goout.net/en/hyukoh/pzvlkbg/
-- https://en.namu.wiki/w/%ED%98%81%EC%98%A4
-- https://www.vice.com/en/article/hyukoh-22-comes-and-goes-south-korea-indie-rock-interview/
-- https://www.ssense.com/en-us/editorial/music/hyukoh-is-the-post-k-pop-generation
+  - 'https://www.last.fm/music/HYUKOH/+wiki'
+  - >-
+    https://hero-magazine.com/article/122760/hyukoh-are-the-south-korean-indie-superstars-leaving-k-pop-in-their-wake
+  - 'https://goout.net/en/hyukoh/pzvlkbg/'
+  - 'https://en.namu.wiki/w/%ED%98%81%EC%98%A4'
+  - >-
+    https://www.vice.com/en/article/hyukoh-22-comes-and-goes-south-korea-indie-rock-interview/
+  - >-
+    https://www.ssense.com/en-us/editorial/music/hyukoh-is-the-post-k-pop-generation
 spotify_data:
   followers: 749207
   id: 57okaLdCtv3nVBSn5otJkp
   popularity: 54
-  url: https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp
+  url: 'https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp'
 status: active
 title: HYUKOH
-
+artist_type: band
 ---
 
 ![](hyukoh.jpg)

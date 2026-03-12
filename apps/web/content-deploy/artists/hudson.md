@@ -1,15 +1,16 @@
 ---
-title: Jack Dejohnette, Larry Grenadier, John Medeski, John Scofield
+title: Hudson
 wiki_slug: jack-dejohnette-larry-grenadier-john-medeski-john-scofield
 schema_version: 2
 status: active
 genres:
-- jazz
-- jazz fusion
-- free jazz
+  - jazz
+  - jazz fusion
+  - free jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/jack_dejohnette_larry_grenadier_john_medeski_john_scofield.jpg
-  caption: Jack Dejohnette, Larry Grenadier, John Medeski, John Scofield
+  image: >-
+    03_Resources/source_material/ArtistPortraits/jack_dejohnette_larry_grenadier_john_medeski_john_scofield.jpg
+  caption: 'Jack Dejohnette, Larry Grenadier, John Medeski, John Scofield'
   background: solo_singer
 audio_profile:
   tempo_avg: 116.1
@@ -26,46 +27,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Herbie Hancock
-  - Medeski Martin & Wood
-  - Trio Beyond
+    - Herbie Hancock
+    - Medeski Martin & Wood
+    - Trio Beyond
   influenced:
-  - Younger jazz improvisers and jam band musicians
+    - Younger jazz improvisers and jam band musicians
   mentors:
-  - Paul Butterfield Blues Band
+    - Paul Butterfield Blues Band
 spotify_data:
   followers: 49252
   id: 7rDjbKTLlpNYJRWMm7QVxU
   popularity: 44
-  url: https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU
+  url: 'https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU'
 discography_enriched: true
 top_tracks:
-- So Tender (Standards, Vol. 2)
-- Guess I'll Hang Out My Tears To Dry (My Foolish Heart)
-- One For Majid - Live (After The Fall (Live))
-- Sleepin' Bee - Live (Yesterdays)
-- Opening Day (Blue Maqams)
-- Timeless (Timeless)
-- You've Changed - Live (Yesterdays)
-- All The Things You Are (Setting Standards - The New York Sessions)
-- My Foolish Heart (My Foolish Heart)
-- Blue Maqams (Blue Maqams)
+  - 'So Tender (Standards, Vol. 2)'
+  - Guess I'll Hang Out My Tears To Dry (My Foolish Heart)
+  - One For Majid - Live (After The Fall (Live))
+  - Sleepin' Bee - Live (Yesterdays)
+  - Opening Day (Blue Maqams)
+  - Timeless (Timeless)
+  - You've Changed - Live (Yesterdays)
+  - All The Things You Are (Setting Standards - The New York Sessions)
+  - My Foolish Heart (My Foolish Heart)
+  - Blue Maqams (Blue Maqams)
 external_urls:
-  spotify: https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU
-  wikipedia: https://en.wikipedia.org/wiki/Hudson_(album)
-image_path: 03_Resources/source_material/ArtistPortraits/jack_dejohnette_larry_grenadier_john_medeski_john_scofield.jpg
+  spotify: 'https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU'
+  wikipedia: 'https://en.wikipedia.org/wiki/Hudson_(album)'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/jack_dejohnette_larry_grenadier_john_medeski_john_scofield.jpg
 biography_enhanced_at: '2025-11-14T10:57:03.935283'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://press.jazz.org/press/2017/09/hudson-jack-dejohnette-larry-grenadier-john-medeski-john-scofield/
-- https://motema.com/artists/hudson/
-- https://en.wikipedia.org/wiki/Hudson_(album)
-- https://jazztimes.com/features/profiles/hudson-upstate-new-yorks-supergroup/
+  - >-
+    https://press.jazz.org/press/2017/09/hudson-jack-dejohnette-larry-grenadier-john-medeski-john-scofield/
+  - 'https://motema.com/artists/hudson/'
+  - 'https://en.wikipedia.org/wiki/Hudson_(album)'
+  - 'https://jazztimes.com/features/profiles/hudson-upstate-new-yorks-supergroup/'
 network_extracted: true
 entry_created: '2025-11-14T10:57:03.935292'
 last_updated: '2025-12-23T08:16:09.738703'
-origin: Hudson Valley, New York, USA
+origin: 'Hudson Valley, New York, USA'
+artist_type: band
 ---
 
 ![](jack_dejohnette_larry_grenadier_john_medeski_john_scofield.jpg)

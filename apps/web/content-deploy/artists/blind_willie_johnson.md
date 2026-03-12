@@ -5,15 +5,15 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1897-01-25'
-birth_place: Brenham
+birth_place: 'Brenham, Texas, United States'
 death_date: '1945-09-18'
 genres:
-- blues
-- classic blues
-- country blues
+  - blues
+  - classic blues
+  - country blues
 instruments:
-- guitar
-- other vocals
+  - guitar
+  - other vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/blind_willie_johnson.jpg
   caption: Blind Willie Johnson
@@ -36,54 +36,75 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Angeline Johnson
+    - Angeline Johnson
   influenced:
-  - Reverend Gary Davis
-  - Ry Cooder
-  - Led Zeppelin
-  - Eric Clapton
+    - Reverend Gary Davis
+    - Ry Cooder
+    - Led Zeppelin
+    - Eric Clapton
   mentors:
-  - Church and Texas street musicians
+    - Church and Texas street musicians
 spotify_data:
   followers: 113340
   id: 5kO4xdEKLuHHHPreu3UmkZ
   popularity: 33
-  url: https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ
+  url: 'https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ'
 discography_enriched: true
 top_tracks:
-- Dark Was the Night, Cold Was the Ground (Dark Was The Night (Mojo Workin'- Blues For The Next Generation))
-- It's Nobody's Fault but Mine (Dark Was The Night (Mojo Workin'- Blues For The Next Generation))
-- Jesus Make Up My Dying Bed (Dark Was The Night (Mojo Workin'- Blues For The Next Generation))
-- John the Revelator (Dark Was The Night (Mojo Workin'- Blues For The Next Generation))
-- The Soul of a Man (Dark Was The Night (Mojo Workin'- Blues For The Next Generation))
-- Let Your Light Shine on Me (Dark Was The Night (Mojo Workin'- Blues For The Next Generation))
-- God Moves On the Water (Dark Was The Night (Mojo Workin'- Blues For The Next Generation))
-- Dark Is the Night
-- Lord I Just Can't Keep From Crying (Dark Was The Night (Mojo Workin'- Blues For The Next Generation))
-- If I Had My Way I'd Tear the Building Down (Dark Was The Night (Mojo Workin'- Blues For The Next Generation))
+  - >-
+    Dark Was the Night, Cold Was the Ground (Dark Was The Night (Mojo Workin'-
+    Blues For The Next Generation))
+  - >-
+    It's Nobody's Fault but Mine (Dark Was The Night (Mojo Workin'- Blues For
+    The Next Generation))
+  - >-
+    Jesus Make Up My Dying Bed (Dark Was The Night (Mojo Workin'- Blues For The
+    Next Generation))
+  - >-
+    John the Revelator (Dark Was The Night (Mojo Workin'- Blues For The Next
+    Generation))
+  - >-
+    The Soul of a Man (Dark Was The Night (Mojo Workin'- Blues For The Next
+    Generation))
+  - >-
+    Let Your Light Shine on Me (Dark Was The Night (Mojo Workin'- Blues For The
+    Next Generation))
+  - >-
+    God Moves On the Water (Dark Was The Night (Mojo Workin'- Blues For The Next
+    Generation))
+  - Dark Is the Night
+  - >-
+    Lord I Just Can't Keep From Crying (Dark Was The Night (Mojo Workin'- Blues
+    For The Next Generation))
+  - >-
+    If I Had My Way I'd Tear the Building Down (Dark Was The Night (Mojo
+    Workin'- Blues For The Next Generation))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8a14c00b-4779-44e4-9b2e-4cc9dcd92e9b
-  spotify: https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ
-  wikipedia: https://en.wikipedia.org/wiki/Blind_Willie_Johnson
+  musicbrainz: 'https://musicbrainz.org/artist/8a14c00b-4779-44e4-9b2e-4cc9dcd92e9b'
+  spotify: 'https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Blind_Willie_Johnson'
 image_path: 03_Resources/source_material/ArtistPortraits/blind_willie_johnson.jpg
 biography_enhanced_at: '2025-10-31T08:23:32.818952'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Blind_Willie_Johnson
-- https://www.tshaonline.org/handbook/entries/johnson-blind-willie
-- https://wbssmedia.com/artists/detail/3572
-- https://www.vinylmeplease.com/blogs/artists/blind-willie-johnson-vinyl
-- https://blogs.loc.gov/nls-music-notes/2019/04/american-composers-and-musicians-from-a-to-z-j-part-2-johnson-blind-willie/
+  - 'https://en.wikipedia.org/wiki/Blind_Willie_Johnson'
+  - 'https://www.tshaonline.org/handbook/entries/johnson-blind-willie'
+  - 'https://wbssmedia.com/artists/detail/3572'
+  - 'https://www.vinylmeplease.com/blogs/artists/blind-willie-johnson-vinyl'
+  - >-
+    https://blogs.loc.gov/nls-music-notes/2019/04/american-composers-and-musicians-from-a-to-z-j-part-2-johnson-blind-willie/
 network_extracted: true
 entry_created: '2025-10-31T08:23:32.818963'
 last_updated: '2025-12-23T08:16:05.731382'
 gender: Male
 musicbrainz_id: 8a14c00b-4779-44e4-9b2e-4cc9dcd92e9b
 tags:
-- acoustic blues
-- acoustic texas blues
-- blues
+  - acoustic blues
+  - acoustic texas blues
+  - blues
+is_active: false
+origin: 'Beaumont, Texas, United States'
 ---
 
 ![](blind_willie_johnson.jpg)

@@ -3,15 +3,15 @@ title: Louis Armstrong and Friends
 wiki_slug: louis-armstrong-and-friends
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- big band
-- jazz
+  - big band
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Louis_Armstrong_and_Friends.jpg
   caption: Louis Armstrong and Friends
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 127.4
   energy_avg: 0.168
@@ -27,49 +27,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lillian Hardin Armstrong
-  - Earl Hines
-  - Luis Russell
-  - The All Stars
+    - Lillian Hardin Armstrong
+    - Earl Hines
+    - Luis Russell
+    - The All Stars
   influenced:
-  - Billie Holiday
-  - Bing Crosby
-  - Coleman Hawkins
-  - Bud Freeman
+    - Billie Holiday
+    - Bing Crosby
+    - Coleman Hawkins
+    - Bud Freeman
   mentors:
-  - Joe 'King' Oliver
-  - Fate Marable
+    - Joe 'King' Oliver
+    - Fate Marable
 spotify_data:
   followers: 673
   id: 1hcIFNujgjY8Mrf5Iidlaf
   popularity: 11
-  url: https://open.spotify.com/artist/1hcIFNujgjY8Mrf5Iidlaf
+  url: 'https://open.spotify.com/artist/1hcIFNujgjY8Mrf5Iidlaf'
 discography_enriched: true
 top_tracks:
-- La vie en rose - Single Version (La Vie En Rose (Deluxe Edition))
-- C'est si bon (La Vie En Rose (Deluxe Edition))
-- Because Of You (La Vie En Rose (Deluxe Edition))
-- La vie en rose - Single Version (La Vie En Rose)
-- Ramona (La Vie En Rose (Deluxe Edition))
-- When The Saints Go Marching In - Single Version (When the Saints Go Marching In)
-- If I Could Be With You (One Hour Tonight) - 1983 Satchmo Version (La Vie En Rose (Deluxe Edition))
-- I'm Confessin' (That I Love You) - Single Version (La Vie En Rose (Deluxe Edition))
-- I'm In The Mood For Love - Single Version (La Vie En Rose (Deluxe Edition))
-- I Never Knew - Single Version (La Vie En Rose (Deluxe Edition))
+  - La vie en rose - Single Version (La Vie En Rose (Deluxe Edition))
+  - C'est si bon (La Vie En Rose (Deluxe Edition))
+  - Because Of You (La Vie En Rose (Deluxe Edition))
+  - La vie en rose - Single Version (La Vie En Rose)
+  - Ramona (La Vie En Rose (Deluxe Edition))
+  - >-
+    When The Saints Go Marching In - Single Version (When the Saints Go Marching
+    In)
+  - >-
+    If I Could Be With You (One Hour Tonight) - 1983 Satchmo Version (La Vie En
+    Rose (Deluxe Edition))
+  - >-
+    I'm Confessin' (That I Love You) - Single Version (La Vie En Rose (Deluxe
+    Edition))
+  - I'm In The Mood For Love - Single Version (La Vie En Rose (Deluxe Edition))
+  - I Never Knew - Single Version (La Vie En Rose (Deluxe Edition))
 external_urls:
-  spotify: https://open.spotify.com/artist/1hcIFNujgjY8Mrf5Iidlaf
-  wikipedia: https://en.wikipedia.org/wiki/Louis_Armstrong
+  spotify: 'https://open.spotify.com/artist/1hcIFNujgjY8Mrf5Iidlaf'
+  wikipedia: 'https://en.wikipedia.org/wiki/Louis_Armstrong'
 image_path: 03_Resources/source_material/ArtistPortraits/Louis_Armstrong_and_Friends.jpg
 biography_enhanced_at: '2025-10-20T10:11:13.828881'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Louis_Armstrong
-- https://www.britannica.com/biography/Louis-Armstrong
-- https://prologue.blogs.archives.gov/2024/02/14/louis-armstrong-harlem-renaissance-pioneer/
+  - 'https://en.wikipedia.org/wiki/Louis_Armstrong'
+  - 'https://www.britannica.com/biography/Louis-Armstrong'
+  - >-
+    https://prologue.blogs.archives.gov/2024/02/14/louis-armstrong-harlem-renaissance-pioneer/
 network_extracted: true
 entry_created: '2025-10-20T10:11:13.828893'
 last_updated: '2025-12-23T08:16:03.092981'
+birth_date: '1901-08-04'
+artist_type: person
 ---
 
 ![](Louis_Armstrong_and_Friends.jpg)

@@ -23,53 +23,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Luther Gray
-  - Cheryl Woods
-  - Jeremy Thomas
-  - Seguenon Kone
-  - Ernie Smith
-  - Jamilah Peters Muhammad
+    - Luther Gray
+    - Cheryl Woods
+    - Jeremy Thomas
+    - Seguenon Kone
+    - Ernie Smith
+    - Jamilah Peters Muhammad
   influenced:
-  - New Orleans community drummers and dancers
+    - New Orleans community drummers and dancers
   mentors:
-  - African drumming traditions of Congo Square
+    - African drumming traditions of Congo Square
 spotify_data:
   followers: 137
   id: 7pZLU0Hiw7siUwKu7Vd8Ni
   popularity: 0
-  url: https://open.spotify.com/artist/7pZLU0Hiw7siUwKu7Vd8Ni
+  url: 'https://open.spotify.com/artist/7pZLU0Hiw7siUwKu7Vd8Ni'
 discography_enriched: true
 top_tracks:
-- Cuba to Congo Square (Cuba to Congo Square)
-- Havana Moon (Cuba to Congo Square)
-- The Way of Peace (Cuba to Congo Square)
-- All We Got (Cuba to Congo Square)
-- Parangón (Cuba to Congo Square)
-- The Love Call (Cuba to Congo Square)
-- Kakilambe (Live) (Up from Congo Square)
-- We Got It Goin' On (On My Way Back Home)
-- Moments in Love (Cuba to Congo Square)
-- Kakilambe (Cuba to Congo Square)
+  - Cuba to Congo Square (Cuba to Congo Square)
+  - Havana Moon (Cuba to Congo Square)
+  - The Way of Peace (Cuba to Congo Square)
+  - All We Got (Cuba to Congo Square)
+  - Parangón (Cuba to Congo Square)
+  - The Love Call (Cuba to Congo Square)
+  - Kakilambe (Live) (Up from Congo Square)
+  - We Got It Goin' On (On My Way Back Home)
+  - Moments in Love (Cuba to Congo Square)
+  - Kakilambe (Cuba to Congo Square)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/fc78e7ff-c00a-4806-8c58-7eb1daa57794
-  spotify: https://open.spotify.com/artist/7pZLU0Hiw7siUwKu7Vd8Ni
+  musicbrainz: 'https://musicbrainz.org/artist/fc78e7ff-c00a-4806-8c58-7eb1daa57794'
+  spotify: 'https://open.spotify.com/artist/7pZLU0Hiw7siUwKu7Vd8Ni'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/BAMBOULA_2000.jpg
 biography_enhanced_at: '2025-10-20T09:54:20.150544'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://64parishes.org/luther-gray-bamboula-2000
-- http://www.louisianaweekly.com/coming-out-of-congo-square-bamboula-2000/
-- https://www.offbeat.com/music/bamboula-2000-congo-square-independent/
-- https://www.viberate.com/artist/bamboula-2000/
-- https://www.congosquarepreservationsociety.org/luther-gray-6122025.html
+  - 'https://64parishes.org/luther-gray-bamboula-2000'
+  - 'http://www.louisianaweekly.com/coming-out-of-congo-square-bamboula-2000/'
+  - 'https://www.offbeat.com/music/bamboula-2000-congo-square-independent/'
+  - 'https://www.viberate.com/artist/bamboula-2000/'
+  - 'https://www.congosquarepreservationsociety.org/luther-gray-6122025.html'
 network_extracted: true
 entry_created: '2025-10-20T09:54:20.150553'
 last_updated: '2025-12-23T08:16:01.100624'
 musicbrainz_enriched_at: '2025-10-21T09:00:41.462072'
 musicbrainz_id: fc78e7ff-c00a-4806-8c58-7eb1daa57794
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](BAMBOULA_2000.jpg)

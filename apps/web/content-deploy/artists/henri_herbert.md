@@ -1,49 +1,55 @@
 ---
 biography_enhanced_at: '2026-01-08T01:42:55.554551'
-birth_place: Born in France; raised in the United Kingdom; currently based in Nashville,
+birth_place: >-
+  Born in France; raised in the United Kingdom; currently based in Nashville,
   Tennessee, United States
 enhancement_provider: perplexity
 entry_created: '2026-01-08T01:42:55.554556'
 external_urls:
-  spotify: https://open.spotify.com/artist/0G32pVd2iVT6plLjN1MZOP
+  spotify: 'https://open.spotify.com/artist/0G32pVd2iVT6plLjN1MZOP'
   wikipedia: ''
 genres:
-- boogie-woogie
-- boogie
-- ragtime
+  - boogie-woogie
+  - boogie
+  - ragtime
 image_path: 03_Resources/source_material/ArtistPortraits/henri_herbert.jpg
 last_updated: '2026-01-08T01:42:55.554556'
 musical_connections:
   collaborators:
-  - The Jim Jones Revue
-  - The Fury (Jez Southgate and Aidan Sinclair)
-  - Chuck Leavell
-  - John Cruz
+    - The Jim Jones Revue
+    - The Fury (Jez Southgate and Aidan Sinclair)
+    - Chuck Leavell
+    - John Cruz
   influenced:
-  - ''
+    - ''
   mentors:
-  - Jerry Lee Lewis
-  - Albert Ammons
-  - Pete Johnson
-  - Memphis Slim
-  - Fats Domino
+    - Jerry Lee Lewis
+    - Albert Ammons
+    - Pete Johnson
+    - Memphis Slim
+    - Fats Domino
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://txmusic.com/spotlight-henri-herbert/
-- https://www.mauinews.com/news/local-news/2025/05/pianist-henri-herbert-is-a-remarkable-boogie-woogie-master/
-- https://blues.gr/profiles/blogs/q-a-with-pianist-henri-herbert-his-new-album-boogie-till-i-die-is
-- https://louderthanwar.com/interview-henri-herbert-on-life-in-austin-texas-and-plans-for-2021/
-- https://www.henriherbertmusic.com/main
-- https://www.passim.org/artists/henri-herbert/
-- https://bandonthewall.org/events/henri-herbert/
+  - 'https://txmusic.com/spotlight-henri-herbert/'
+  - >-
+    https://www.mauinews.com/news/local-news/2025/05/pianist-henri-herbert-is-a-remarkable-boogie-woogie-master/
+  - >-
+    https://blues.gr/profiles/blogs/q-a-with-pianist-henri-herbert-his-new-album-boogie-till-i-die-is
+  - >-
+    https://louderthanwar.com/interview-henri-herbert-on-life-in-austin-texas-and-plans-for-2021/
+  - 'https://www.henriherbertmusic.com/main'
+  - 'https://www.passim.org/artists/henri-herbert/'
+  - 'https://bandonthewall.org/events/henri-herbert/'
 spotify_data:
   followers: 7900
   id: 0G32pVd2iVT6plLjN1MZOP
   popularity: 18
-  url: https://open.spotify.com/artist/0G32pVd2iVT6plLjN1MZOP
+  url: 'https://open.spotify.com/artist/0G32pVd2iVT6plLjN1MZOP'
 status: active
 title: Henri Herbert
+origin: 'Nashville, Tennessee, United States'
+artist_type: person
 ---
 
 ![](henri_herbert.jpg)

@@ -3,14 +3,14 @@ title: Andrew Duhon
 wiki_slug: andrew-duhon
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- americana
+  - americana
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/andrew_duhon.jpg
   caption: Andrew Duhon
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 124.4
   energy_avg: 0.47
@@ -26,47 +26,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Myles Weeks
-  - Jim Kolacek
-  - Eric Masse
+    - Myles Weeks
+    - Jim Kolacek
+    - Eric Masse
   influenced:
-  - Emerging New Orleans folk and blues artists
+    - Emerging New Orleans folk and blues artists
   mentors:
-  - Trina Shoemaker
+    - Trina Shoemaker
 spotify_data:
   followers: 20018
   id: 68HziuR2jVOJHuVhJM4H2l
   popularity: 36
-  url: https://open.spotify.com/artist/68HziuR2jVOJHuVhJM4H2l
+  url: 'https://open.spotify.com/artist/68HziuR2jVOJHuVhJM4H2l'
 discography_enriched: true
 top_tracks:
-- Comin' around (False River)
-- The Moorings (The Moorings)
-- Gonna Take a Little Rain (The Moorings)
-- Coming Down Over Here (Songs I Wrote Before I Knew You)
-- No Man's Land (False River)
-- Evelyn (The Moorings)
-- Just Another Beautiful Girl (The Moorings)
-- Shotgun Religion (Shotgun Religion)
-- They Don't Make 'em... (False River)
-- Still Holding On (False River)
+  - Comin' around (False River)
+  - The Moorings (The Moorings)
+  - Gonna Take a Little Rain (The Moorings)
+  - Coming Down Over Here (Songs I Wrote Before I Knew You)
+  - No Man's Land (False River)
+  - Evelyn (The Moorings)
+  - Just Another Beautiful Girl (The Moorings)
+  - Shotgun Religion (Shotgun Religion)
+  - They Don't Make 'em... (False River)
+  - Still Holding On (False River)
 external_urls:
-  spotify: https://open.spotify.com/artist/68HziuR2jVOJHuVhJM4H2l
+  spotify: 'https://open.spotify.com/artist/68HziuR2jVOJHuVhJM4H2l'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/andrew_duhon.jpg
 biography_enhanced_at: '2025-10-29T16:44:58.223385'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://albinoskunk.com/lineup/andrew-duhon/
-- https://redbeansanderic.com/andrew-duhon/
-- https://www.last.fm/music/Andrew+Duhon/+wiki
-- https://thebluegrasssituation.com/read/coming-around-a-conversation-with-andrew-duhon/
-- https://diymusician.cdbaby.com/music-career/interview-with-singer-songwriter-andrew-duhon/
-- https://www.andrewduhon.com/about-andrew-duhon
+  - 'https://albinoskunk.com/lineup/andrew-duhon/'
+  - 'https://redbeansanderic.com/andrew-duhon/'
+  - 'https://www.last.fm/music/Andrew+Duhon/+wiki'
+  - >-
+    https://thebluegrasssituation.com/read/coming-around-a-conversation-with-andrew-duhon/
+  - >-
+    https://diymusician.cdbaby.com/music-career/interview-with-singer-songwriter-andrew-duhon/
+  - 'https://www.andrewduhon.com/about-andrew-duhon'
 network_extracted: true
 entry_created: '2025-10-29T16:44:58.223395'
 last_updated: '2025-12-23T08:16:04.777070'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](andrew_duhon.jpg)

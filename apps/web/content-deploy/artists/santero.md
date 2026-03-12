@@ -1,39 +1,45 @@
 ---
 biography_enhanced_at: '2026-01-05T07:58:04.067495'
-birth_place: Guatemala, Guatemala
+birth_place: 'Guatemala, Guatemala, Guatemala'
 enhancement_provider: perplexity
 entry_created: '2026-01-05T07:58:04.067502'
 external_urls:
-  spotify: https://open.spotify.com/artist/5S0FFSTmOFq67acFEw0zpv
+  spotify: 'https://open.spotify.com/artist/5S0FFSTmOFq67acFEw0zpv'
   wikipedia: ''
 genres:
-- latin house
+  - latin house
 image_path: 03_Resources/source_material/ArtistPortraits/santero.jpg
 last_updated: '2026-01-05T07:58:04.067503'
 musical_connections:
   collaborators:
-  - Greg Landau
-  - One Drop Scott
+    - Greg Landau
+    - One Drop Scott
   influenced: []
   mentors:
-  - Father (unnamed)
+    - Father (unnamed)
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- http://archive.rockpaperscissors.biz/index.cfm/fuseaction/current.bio/project_id/425.cfm
-- https://www.7x7.com/oaklands-erick-santero-makes-music-without-borders-1786196419.html
-- http://archive.rockpaperscissors.biz/index.cfm/fuseaction/current.articles_detail/project_id/425/article_id/11115.cfm
-- https://crescentcitysounds.org/artists/santero
-- https://www.babelscores.com/SantiagoSantero
-- https://www.allaboutjazz.com/news/santero-releases-el-hijo-de-obatala-may-19/
-- https://www.latinousa.org/2009/09/03/music-spirituality-with-santero/
+  - >-
+    http://archive.rockpaperscissors.biz/index.cfm/fuseaction/current.bio/project_id/425.cfm
+  - >-
+    https://www.7x7.com/oaklands-erick-santero-makes-music-without-borders-1786196419.html
+  - >-
+    http://archive.rockpaperscissors.biz/index.cfm/fuseaction/current.articles_detail/project_id/425/article_id/11115.cfm
+  - 'https://crescentcitysounds.org/artists/santero'
+  - 'https://www.babelscores.com/SantiagoSantero'
+  - >-
+    https://www.allaboutjazz.com/news/santero-releases-el-hijo-de-obatala-may-19/
+  - 'https://www.latinousa.org/2009/09/03/music-spirituality-with-santero/'
 spotify_data:
   followers: 34
   id: 5S0FFSTmOFq67acFEw0zpv
   popularity: 7
-  url: https://open.spotify.com/artist/5S0FFSTmOFq67acFEw0zpv
+  url: 'https://open.spotify.com/artist/5S0FFSTmOFq67acFEw0zpv'
 status: active
 title: Santero
+origin: 'Oakland, California, United States'
+artist_type: person
 ---
 
 ![](santero.jpg)

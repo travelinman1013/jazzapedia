@@ -4,7 +4,7 @@ wiki_slug: jimmy-peters
 schema_version: 2
 status: active
 genres:
-- g-funk
+  - g-funk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jimmy_peters.jpg
   caption: Jimmy Peters
@@ -16,7 +16,7 @@ audio_profile:
   danceability_avg: 0.78
   acousticness_avg: 0.098
   instrumentalness_avg: 0.012
-  loudness_avg: -8.0
+  loudness_avg: -8
   speechiness_avg: 0.216
   liveness_avg: 0.165
   track_count: 50
@@ -30,33 +30,34 @@ spotify_data:
   followers: 8248
   id: 108qk05IB1HCkV1e58xwN7
   popularity: 38
-  url: https://open.spotify.com/artist/108qk05IB1HCkV1e58xwN7
+  url: 'https://open.spotify.com/artist/108qk05IB1HCkV1e58xwN7'
 discography_enriched: true
 top_tracks:
-- Never Tap Out (No Risk No Reward)
-- Different Level (One Fly Summer)
-- You Day (Unstoppable)
-- Grindin Forever (Real As They Come)
-- Play The Point (Forever Legendary)
-- Seeds (Be Legendary 2)
-- Can't Deny It (Be Legendary)
-- No Comparison (Sincerely A G)
-- Limo To Ruth Chris (History Of A Legend)
-- Standin Tall
+  - Never Tap Out (No Risk No Reward)
+  - Different Level (One Fly Summer)
+  - You Day (Unstoppable)
+  - Grindin Forever (Real As They Come)
+  - Play The Point (Forever Legendary)
+  - Seeds (Be Legendary 2)
+  - Can't Deny It (Be Legendary)
+  - No Comparison (Sincerely A G)
+  - Limo To Ruth Chris (History Of A Legend)
+  - Standin Tall
 external_urls:
-  spotify: https://open.spotify.com/artist/108qk05IB1HCkV1e58xwN7
+  spotify: 'https://open.spotify.com/artist/108qk05IB1HCkV1e58xwN7'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/jimmy_peters.jpg
 biography_enhanced_at: '2025-12-15T01:22:49.445883'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://countrydiscoghraphy2.blogspot.com/2015/03/jimmie-jimmy-peters.html
-- https://www.reverbnation.com/jimmypeters
-- https://jimmypeters.online/music.html
+  - 'http://countrydiscoghraphy2.blogspot.com/2015/03/jimmie-jimmy-peters.html'
+  - 'https://www.reverbnation.com/jimmypeters'
+  - 'https://jimmypeters.online/music.html'
 network_extracted: true
 entry_created: '2025-12-15T01:22:49.445888'
 last_updated: '2025-12-23T08:16:10.477112'
+artist_type: person
 ---
 
 ![](jimmy_peters.jpg)

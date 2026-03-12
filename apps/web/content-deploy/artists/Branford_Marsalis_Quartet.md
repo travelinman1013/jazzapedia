@@ -4,7 +4,7 @@ wiki_slug: branford-marsalis-quartet
 schema_version: 2
 status: active
 genres:
-- jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Branford_Marsalis_Quartet.jpg
   caption: Branford Marsalis Quartet
@@ -24,54 +24,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jeff 'Tain' Watts
-  - Joey Calderazzo
-  - Kenny Kirkland
-  - Eric Revis
-  - Robert Hurst
-  - Justin Faulkner
-  - Wynton Marsalis
-  - Sting
+    - Jeff 'Tain' Watts
+    - Joey Calderazzo
+    - Kenny Kirkland
+    - Eric Revis
+    - Robert Hurst
+    - Justin Faulkner
+    - Wynton Marsalis
+    - Sting
   influenced: []
   mentors:
-  - Clark Terry
-  - Art Blakey
-  - Miles Davis
-  - Herbie Hancock
-  - Dizzy Gillespie
+    - Clark Terry
+    - Art Blakey
+    - Miles Davis
+    - Herbie Hancock
+    - Dizzy Gillespie
 spotify_data:
   followers: 25037
   id: 795yvukGj0UOfcP8uftDq9
   popularity: 30
-  url: https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9
+  url: 'https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9'
 discography_enriched: true
 top_tracks:
-- Mo' Better Blues (feat. Terence Blanchard) (MUSIC FROM MO' BETTER BLUES (feat. Terence Blanchard))
-- Muldoon (Eternal)
-- The Ruby and The Pearl (Eternal)
-- The Lonely Swan (Eternal)
-- Cianna (The Secret Between the Shadow and the Soul)
-- Gloomy Sunday (Eternal)
-- Spiral Dance
-- Dinner for One Please, James (Eternal)
-- Again Never (MUSIC FROM MO' BETTER BLUES (feat. Terence Blanchard))
-- Conversation Among the Ruins (The Secret Between the Shadow and the Soul)
+  - >-
+    Mo' Better Blues (feat. Terence Blanchard) (MUSIC FROM MO' BETTER BLUES
+    (feat. Terence Blanchard))
+  - Muldoon (Eternal)
+  - The Ruby and The Pearl (Eternal)
+  - The Lonely Swan (Eternal)
+  - Cianna (The Secret Between the Shadow and the Soul)
+  - Gloomy Sunday (Eternal)
+  - Spiral Dance
+  - 'Dinner for One Please, James (Eternal)'
+  - Again Never (MUSIC FROM MO' BETTER BLUES (feat. Terence Blanchard))
+  - Conversation Among the Ruins (The Secret Between the Shadow and the Soul)
 external_urls:
-  spotify: https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9
-  wikipedia: https://en.wikipedia.org/wiki/Branford_Marsalis
+  spotify: 'https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9'
+  wikipedia: 'https://en.wikipedia.org/wiki/Branford_Marsalis'
 image_path: 03_Resources/source_material/ArtistPortraits/Branford_Marsalis_Quartet.jpg
 biography_enhanced_at: '2025-10-21T06:45:59.270786'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Branford_Marsalis
-- https://www.branfordmarsalis.com/bio/jazz
-- https://union.wisc.edu/visit/wisconsin-union-theater/the-green-room/branford-marsalis-quartet
-- https://jazztimes.com/features/profiles/branford-marsalis-committed/
+  - 'https://en.wikipedia.org/wiki/Branford_Marsalis'
+  - 'https://www.branfordmarsalis.com/bio/jazz'
+  - >-
+    https://union.wisc.edu/visit/wisconsin-union-theater/the-green-room/branford-marsalis-quartet
+  - 'https://jazztimes.com/features/profiles/branford-marsalis-committed/'
 network_extracted: true
 entry_created: '2025-10-21T06:45:59.270798'
 last_updated: '2025-12-23T08:16:01.344206'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![](Branford_Marsalis_Quartet.jpg)

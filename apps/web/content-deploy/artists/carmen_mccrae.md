@@ -1,52 +1,57 @@
 ---
 biography_enhanced_at: '2025-12-25T01:17:14.602151'
-birth_place: Harlem, New York City, New York, United States
+birth_place: 'Harlem, New York City, New York, United States'
 enhancement_provider: perplexity
 entry_created: '2025-12-25T01:17:14.602169'
 external_urls:
-  spotify: https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj
-  wikipedia: https://en.wikipedia.org/wiki/Carmen_McRae
+  spotify: 'https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj'
+  wikipedia: 'https://en.wikipedia.org/wiki/Carmen_McRae'
 genres:
-- vocal jazz
-- jazz
+  - vocal jazz
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/carmen_mccrae.jpg
 last_updated: '2025-12-25T01:17:14.602170'
 musical_connections:
   collaborators:
-  - Benny Carter
-  - Count Basie
-  - Earl Hines
-  - Mercer Ellington
-  - Kenny Clarke
-  - Mat Mathews Quintet
-  - Louis Armstrong
-  - Dave Brubeck
-  - Joe Pass
-  - George Shearing
-  - Betty Carter
-  - Ray Bryant and Ike Isaacs
+    - Benny Carter
+    - Count Basie
+    - Earl Hines
+    - Mercer Ellington
+    - Kenny Clarke
+    - Mat Mathews Quintet
+    - Louis Armstrong
+    - Dave Brubeck
+    - Joe Pass
+    - George Shearing
+    - Betty Carter
+    - Ray Bryant and Ike Isaacs
   influenced:
-  - Later generations of jazz vocalists (e.g., those cited by NEA and jazz historians)
+    - >-
+      Later generations of jazz vocalists (e.g., those cited by NEA and jazz
+      historians)
   mentors:
-  - Irene Wilson Kitchings
-  - Billie Holiday
-  - Thelonious Monk
+    - Irene Wilson Kitchings
+    - Billie Holiday
+    - Thelonious Monk
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.britannica.com/biography/Carmen-McRae
-- https://www.carmenmcrae.com/biographymissjazzr.htm
-- https://blackpast.org/african-american-history/mcrae-carmen-1920-1994/
-- https://www.arts.gov/honors/jazz/carmen-mcrae
-- https://www.allaboutjazz.com/musicians/carmen-mcrae/
-- https://www.jazzempowers.org/carmen-mcrae
+  - 'https://www.britannica.com/biography/Carmen-McRae'
+  - 'https://www.carmenmcrae.com/biographymissjazzr.htm'
+  - 'https://blackpast.org/african-american-history/mcrae-carmen-1920-1994/'
+  - 'https://www.arts.gov/honors/jazz/carmen-mcrae'
+  - 'https://www.allaboutjazz.com/musicians/carmen-mcrae/'
+  - 'https://www.jazzempowers.org/carmen-mcrae'
 spotify_data:
   followers: 85637
   id: 2E3nXyfocf7qfHAIFNbBuj
   popularity: 46
-  url: https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj
+  url: 'https://open.spotify.com/artist/2E3nXyfocf7qfHAIFNbBuj'
 status: active
-title: carmen mccrae
+title: Carmen McRae
+birth_date: '1920-04-08'
+death_date: '1994-11-10'
+artist_type: person
 ---
 
 ![](carmen_mccrae.jpg)

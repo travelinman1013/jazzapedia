@@ -25,24 +25,25 @@ spotify_data:
   followers: 1
   id: 6OzzmNRE010FtfaHaiLoHe
   popularity: 0
-  url: https://open.spotify.com/artist/6OzzmNRE010FtfaHaiLoHe
+  url: 'https://open.spotify.com/artist/6OzzmNRE010FtfaHaiLoHe'
 discography_enriched: false
 external_urls:
-  spotify: https://open.spotify.com/artist/6OzzmNRE010FtfaHaiLoHe
+  spotify: 'https://open.spotify.com/artist/6OzzmNRE010FtfaHaiLoHe'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/swinging_in_new_orleans.jpg
 biography_enhanced_at: '2025-12-10T05:25:13.924733'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.swinginginneworleans.com
-- https://www.swinginginneworleans.com/blog/
-- https://www.youtube.com/@SwingingInNewOrleans
-- https://www.youtube.com/watch?v=mwpHywIugpw
+  - 'https://www.swinginginneworleans.com'
+  - 'https://www.swinginginneworleans.com/blog/'
+  - 'https://www.youtube.com/@SwingingInNewOrleans'
+  - 'https://www.youtube.com/watch?v=mwpHywIugpw'
 network_extracted: true
 entry_created: '2025-12-10T05:25:13.924741'
 last_updated: '2025-12-23T08:07:43.008670'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![](swinging_in_new_orleans.jpg)

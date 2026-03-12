@@ -1,19 +1,19 @@
 ---
-title: LARRY DAVIS
+title: Larry Davis
 wiki_slug: larry-davis
 schema_version: 2
 status: active
-birth_place: Kansas City, Missouri, United States
+birth_place: 'Kansas City, Missouri, United States'
 genres:
-- classic blues
-- blues
-- soul blues
-- modern blues
+  - classic blues
+  - blues
+  - soul blues
+  - modern blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/larry_davis.jpg
   caption: LARRY DAVIS
   background: solo_singer
-  origin: Kansas City, Missouri, United States
+  origin: 'Kansas City, Missouri, United States'
 audio_profile:
   tempo_avg: 128.8
   energy_avg: 0.528
@@ -30,42 +30,56 @@ similar_artists: []
 musical_connections:
   collaborators: []
   influenced:
-  - Stevie Ray Vaughan
+    - Stevie Ray Vaughan
   mentors: []
 spotify_data:
   followers: 2682
   id: 27feE7HAmTov8QoZAp1y3A
   popularity: 31
-  url: https://open.spotify.com/artist/27feE7HAmTov8QoZAp1y3A
+  url: 'https://open.spotify.com/artist/27feE7HAmTov8QoZAp1y3A'
 discography_enriched: true
 top_tracks:
-- Texas Flood
-- Givin' Up On Love (Blues Knights-Chicago Blues Festival 1985 (Blues Reference))
-- I Tried (Blues Knights-Chicago Blues Festival 1985 (Blues Reference))
-- I'm A Honey Bee (Blues Knights-Chicago Blues Festival 1985 (Blues Reference))
-- Addressing The Nation With Blues (Blues Knights-Chicago Blues Festival 1985 (Blues Reference))
-- I Don't Have A Mother (Blues Knights-Chicago Blues Festival 1985 (Blues Reference))
-- As The Years Go Passing By (Blues Knights-Chicago Blues Festival 1985 (Blues Reference))
-- Teardrops (Blues Knights-Chicago Blues Festival 1985 (Blues Reference))
-- What Is This (Blues Knights-Chicago Blues Festival 1985 (Blues Reference))
-- Dance With My Father (Final Answer)
+  - Texas Flood
+  - >-
+    Givin' Up On Love (Blues Knights-Chicago Blues Festival 1985 (Blues
+    Reference))
+  - I Tried (Blues Knights-Chicago Blues Festival 1985 (Blues Reference))
+  - >-
+    I'm A Honey Bee (Blues Knights-Chicago Blues Festival 1985 (Blues
+    Reference))
+  - >-
+    Addressing The Nation With Blues (Blues Knights-Chicago Blues Festival 1985
+    (Blues Reference))
+  - >-
+    I Don't Have A Mother (Blues Knights-Chicago Blues Festival 1985 (Blues
+    Reference))
+  - >-
+    As The Years Go Passing By (Blues Knights-Chicago Blues Festival 1985 (Blues
+    Reference))
+  - Teardrops (Blues Knights-Chicago Blues Festival 1985 (Blues Reference))
+  - What Is This (Blues Knights-Chicago Blues Festival 1985 (Blues Reference))
+  - Dance With My Father (Final Answer)
 external_urls:
-  spotify: https://open.spotify.com/artist/27feE7HAmTov8QoZAp1y3A
+  spotify: 'https://open.spotify.com/artist/27feE7HAmTov8QoZAp1y3A'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/larry_davis.jpg
 biography_enhanced_at: '2025-12-04T07:53:50.287900'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.bluesway.gr/2018/11/larry-davis.html
-- https://fromthevaults-boppinbob.blogspot.com/2015/12/larry-davis-born-4-december-1936.html
-- https://www.explorepinebluff.com/posts/larry-totsy-davis
-- https://sentirelblues.blogspot.com/2019/05/larry-davis-ii.html
-- https://kids.kiddle.co/Larry_Davis_(blues_musician)
-- https://www.allmusic.com/artist/larry-davis-mn0000780781
+  - 'https://www.bluesway.gr/2018/11/larry-davis.html'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2015/12/larry-davis-born-4-december-1936.html
+  - 'https://www.explorepinebluff.com/posts/larry-totsy-davis'
+  - 'https://sentirelblues.blogspot.com/2019/05/larry-davis-ii.html'
+  - 'https://kids.kiddle.co/Larry_Davis_(blues_musician)'
+  - 'https://www.allmusic.com/artist/larry-davis-mn0000780781'
 network_extracted: true
 entry_created: '2025-12-04T07:53:50.287908'
 last_updated: '2025-12-23T08:16:11.602908'
+birth_date: '1936-12-04'
+death_date: '1994-04-19'
+artist_type: person
 ---
 
 ![](larry_davis.jpg)

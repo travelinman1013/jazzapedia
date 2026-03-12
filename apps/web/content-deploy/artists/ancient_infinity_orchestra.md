@@ -2,11 +2,11 @@
 title: Ancient Infinity Orchestra
 wiki_slug: ancient-infinity-orchestra
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 genres: []
 instruments:
-- violin
+  - violin
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ancient_infinity_orchestra.jpg
   caption: Ancient Infinity Orchestra
@@ -26,138 +26,140 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mathew Cliffe
-  - Joe Love
-  - Andy French
-  - Yorgos
-  - Matthew Halsall
+    - Mathew Cliffe
+    - Joe Love
+    - Andy French
+    - Yorgos
+    - Matthew Halsall
   influenced: []
   mentors:
-  - Pharoah Sanders
-  - Alice Coltrane
-  - John Coltrane
+    - Pharoah Sanders
+    - Alice Coltrane
+    - John Coltrane
 spotify_data:
   followers: 5879
   id: 3dGPvXs2gnNuw2RkIQKPqR
   popularity: 28
-  url: https://open.spotify.com/artist/3dGPvXs2gnNuw2RkIQKPqR
+  url: 'https://open.spotify.com/artist/3dGPvXs2gnNuw2RkIQKPqR'
 discography_enriched: true
 top_tracks:
-- Equanimity (River of Light)
-- Chant for Don Cherry (Chant for Don Cherry)
-- The Seeker (The Seeker)
-- Greeting (River of Light)
-- River of Light (River of Light)
-- Rejoicing (River of Light)
-- Michael & Zelah (River of Light)
-- Niyama (River of Light)
-- Spring Break on Trappist-1 (River of Light)
-- Love Song (River of Light)
+  - Equanimity (River of Light)
+  - Chant for Don Cherry (Chant for Don Cherry)
+  - The Seeker (The Seeker)
+  - Greeting (River of Light)
+  - River of Light (River of Light)
+  - Rejoicing (River of Light)
+  - Michael & Zelah (River of Light)
+  - Niyama (River of Light)
+  - Spring Break on Trappist-1 (River of Light)
+  - Love Song (River of Light)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/16a23fe8-97e3-40ee-a5e7-4734e41da6d3
-  spotify: https://open.spotify.com/artist/3dGPvXs2gnNuw2RkIQKPqR
+  musicbrainz: 'https://musicbrainz.org/artist/16a23fe8-97e3-40ee-a5e7-4734e41da6d3'
+  spotify: 'https://open.spotify.com/artist/3dGPvXs2gnNuw2RkIQKPqR'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/ancient_infinity_orchestra.jpg
 biography_enhanced_at: '2025-10-29T16:40:58.089605'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.bandsintown.com/e/1036167002-ancient-infinity-orchestra-at-foundry?came_from=209
-- https://gondwanarecords.com/artists/ancient-infinity-orchestra
-- https://www.youtube.com/watch?v=6h2MPXiTvyE
-- https://www.allaboutjazz.com/river-of-light-ancient-infinity-orchestra-gondwana-records
-- https://ukvibe.org/album_reviews/ancient-infinity-orchestra-2/
-- https://ancientinfinityorchestra.bandcamp.com/album/its-always-about-love
+  - >-
+    https://www.bandsintown.com/e/1036167002-ancient-infinity-orchestra-at-foundry?came_from=209
+  - 'https://gondwanarecords.com/artists/ancient-infinity-orchestra'
+  - 'https://www.youtube.com/watch?v=6h2MPXiTvyE'
+  - >-
+    https://www.allaboutjazz.com/river-of-light-ancient-infinity-orchestra-gondwana-records
+  - 'https://ukvibe.org/album_reviews/ancient-infinity-orchestra-2/'
+  - 'https://ancientinfinityorchestra.bandcamp.com/album/its-always-about-love'
 network_extracted: true
 entry_created: '2025-10-29T16:40:58.089614'
 last_updated: '2025-12-23T08:16:04.754340'
 disambiguation: Leeds‐based jazz ensemble
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 70358251-6d04-4a41-9b25-22943d4f21b0
-  name: John Arnesen
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4e7679b3-9813-4f85-b11c-16b39d53434c
-  name: Michael Bardon
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bcffba33-bba6-453d-9496-d6ebf9b2380c
-  name: Georgie Buchanan
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: cd828813-be5e-4dd3-a40e-c67a5a31accd
-  name: Matt Cliffe
-- begin: ''
-  end: ''
-  instruments:
-  - violin
-  mbid: 9618e25b-f5b2-444f-be4f-cc3219697305
-  name: Evan Rhodri Davies
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 50deb9da-e590-4ae9-8d74-b11a146011ab
-  name: Oliver Dover
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9d7cd6ab-7e6b-4f00-aa17-5e402a4b98ed
-  name: Will Howard
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e635e422-6f4b-4c3d-8c10-b86a2f71a62d
-  name: Megan Jowett
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5da4d565-74d0-491b-a987-f83d86bb3a1a
-  name: Ozzy Moysey
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: cdf9642c-8449-4744-a352-45241f0509fd
-  name: Tom Orrell
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f3ffed0c-d7b2-4cdf-88f1-9956460fa9f5
-  name: Jake Rider
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3016682f-635b-4e42-8eb7-71e770528181
-  name: Elliot Roffe
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f38c630a-7668-449b-a713-4fb66806769b
-  name: Toma Sapir
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6204b282-d7c5-4d75-99f5-8d48660163e3
-  name: Khemi Shabazz
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 57ee0acf-5afc-450d-a0f7-339901485e36
-  name: Joel Stedman
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 39e1680a-c5d3-434f-be95-eb16d90fedd0
-  name: Hugh Vincent
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 70358251-6d04-4a41-9b25-22943d4f21b0
+    name: John Arnesen
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4e7679b3-9813-4f85-b11c-16b39d53434c
+    name: Michael Bardon
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bcffba33-bba6-453d-9496-d6ebf9b2380c
+    name: Georgie Buchanan
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: cd828813-be5e-4dd3-a40e-c67a5a31accd
+    name: Matt Cliffe
+  - begin: ''
+    end: ''
+    instruments:
+      - violin
+    mbid: 9618e25b-f5b2-444f-be4f-cc3219697305
+    name: Evan Rhodri Davies
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 50deb9da-e590-4ae9-8d74-b11a146011ab
+    name: Oliver Dover
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9d7cd6ab-7e6b-4f00-aa17-5e402a4b98ed
+    name: Will Howard
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e635e422-6f4b-4c3d-8c10-b86a2f71a62d
+    name: Megan Jowett
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5da4d565-74d0-491b-a987-f83d86bb3a1a
+    name: Ozzy Moysey
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: cdf9642c-8449-4744-a352-45241f0509fd
+    name: Tom Orrell
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f3ffed0c-d7b2-4cdf-88f1-9956460fa9f5
+    name: Jake Rider
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3016682f-635b-4e42-8eb7-71e770528181
+    name: Elliot Roffe
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f38c630a-7668-449b-a713-4fb66806769b
+    name: Toma Sapir
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6204b282-d7c5-4d75-99f5-8d48660163e3
+    name: Khemi Shabazz
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 57ee0acf-5afc-450d-a0f7-339901485e36
+    name: Joel Stedman
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 39e1680a-c5d3-434f-be95-eb16d90fedd0
+    name: Hugh Vincent
 musicbrainz_id: 16a23fe8-97e3-40ee-a5e7-4734e41da6d3
-origin: Leeds
+origin: 'Leeds, North of England, United Kingdom'
 tags:
-- jazz
+  - jazz
 ---
 
 ![](ancient_infinity_orchestra.jpg)

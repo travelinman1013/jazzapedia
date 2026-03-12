@@ -1,5 +1,5 @@
 ---
-title: KAYTRANADA
+title: Kaytranada
 wiki_slug: kaytranada
 schema_version: 2
 artist_type: person
@@ -8,21 +8,21 @@ birth_date: '1992-08-25'
 birth_place: Port-au-Prince
 genres: []
 instruments:
-- eponymous
-- original
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
-  mbid: 5fb4da03-2dd6-4c28-a217-232ae8a0aed7
-  name: KAYTRAMINÉ
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 98b5060b-30f0-4d4b-a677-e2c63c21d229
-  name: The Celestics
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 5fb4da03-2dd6-4c28-a217-232ae8a0aed7
+    name: KAYTRAMINÉ
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 98b5060b-30f0-4d4b-a677-e2c63c21d229
+    name: The Celestics
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/kaytranada.jpg
   caption: KAYTRANADA
@@ -44,57 +44,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lou Phelps
-  - Anderson .Paak
-  - Pharrell Williams
-  - Kali Uchis
-  - GoldLink
-  - Syd
-  - Charlotte Day Wilson
+    - Lou Phelps
+    - Anderson .Paak
+    - Pharrell Williams
+    - Kali Uchis
+    - GoldLink
+    - Syd
+    - Charlotte Day Wilson
   influenced:
-  - Shay Lia
-  - Emerging electronic and hip-hop producers
+    - Shay Lia
+    - Emerging electronic and hip-hop producers
   mentors:
-  - J Dilla
+    - J Dilla
 spotify_data:
   followers: 1831960
   id: 6qgnBH6iDM91ipVXv28OMu
   popularity: 71
-  url: https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu
+  url: 'https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu'
 discography_enriched: true
 top_tracks:
-- Intimidated (feat. H.E.R.)
-- YOU'RE THE ONE (99.9%)
-- Witchy (feat. Childish Gambino) (TIMELESS)
-- 10% (feat. Kali Uchis) (BUBBA)
-- Snap My Finger (feat. PinkPantheress) (TIMELESS)
-- What You Need (feat. Charlotte Day Wilson) (BUBBA)
-- Feel A Way (feat. Don Toliver) (TIMELESS)
-- Girl (feat. KAYTRANADA) (Ego Death)
-- CHANCES
-- Vex Oh feat. GoldLink & Ari PenSmith (BUBBA)
+  - Intimidated (feat. H.E.R.)
+  - YOU'RE THE ONE (99.9%)
+  - Witchy (feat. Childish Gambino) (TIMELESS)
+  - 10% (feat. Kali Uchis) (BUBBA)
+  - Snap My Finger (feat. PinkPantheress) (TIMELESS)
+  - What You Need (feat. Charlotte Day Wilson) (BUBBA)
+  - Feel A Way (feat. Don Toliver) (TIMELESS)
+  - Girl (feat. KAYTRANADA) (Ego Death)
+  - CHANCES
+  - Vex Oh feat. GoldLink & Ari PenSmith (BUBBA)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e56aee57-d90e-40cf-a70d-beb70f6f3c69
-  spotify: https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu
-  wikipedia: https://en.wikipedia.org/wiki/Kaytranada
+  musicbrainz: 'https://musicbrainz.org/artist/e56aee57-d90e-40cf-a70d-beb70f6f3c69'
+  spotify: 'https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kaytranada'
 image_path: 03_Resources/source_material/ArtistPortraits/kaytranada.jpg
 biography_enhanced_at: '2025-11-04T11:14:01.958124'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://thecbma.com/artists/kaytranada/
-- https://www.last.fm/music/KAYTRANADA/+wiki
-- https://www.ellecanada.com/culture/celebrity/the-rise-of-kaytranada-canadas-grammy-nominated-wunderkind
-- https://krui.fm/2017/10/10/artist-bio-kaytranada/
+  - 'https://thecbma.com/artists/kaytranada/'
+  - 'https://www.last.fm/music/KAYTRANADA/+wiki'
+  - >-
+    https://www.ellecanada.com/culture/celebrity/the-rise-of-kaytranada-canadas-grammy-nominated-wunderkind
+  - 'https://krui.fm/2017/10/10/artist-bio-kaytranada/'
 network_extracted: true
 entry_created: '2025-11-04T11:14:01.958134'
 last_updated: '2025-12-23T08:16:11.228630'
 gender: Male
 musicbrainz_id: e56aee57-d90e-40cf-a70d-beb70f6f3c69
 tags:
-- alternative r&b
-- hip hop
-- house
+  - alternative r&b
+  - hip hop
+  - house
+origin: 'Montreal, Quebec, Canada'
 ---
 
 ![](kaytranada.jpg)

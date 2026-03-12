@@ -23,37 +23,42 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Zara McFarlane
-  - Evan Parker
-  - Byron Wallen
-  - Tori Handsley
-  - Yussef Dayes
-  - Max Luthert
-  - Village of the Sun (with Simon Ratcliffe)
+    - Zara McFarlane
+    - Evan Parker
+    - Byron Wallen
+    - Tori Handsley
+    - Yussef Dayes
+    - Max Luthert
+    - Village of the Sun (with Simon Ratcliffe)
   influenced: []
   mentors: []
 spotify_data:
   followers: 88
   id: 59vs02H5JrgIomg99z3uvP
   popularity: 2
-  url: https://open.spotify.com/artist/59vs02H5JrgIomg99z3uvP
+  url: 'https://open.spotify.com/artist/59vs02H5JrgIomg99z3uvP'
 discography_enriched: true
 top_tracks:
-- Battle (feat. Binker & Moses) (Beautiful Vinyl Hunter)
+  - Battle (feat. Binker & Moses) (Beautiful Vinyl Hunter)
 external_urls:
-  spotify: https://open.spotify.com/artist/59vs02H5JrgIomg99z3uvP
+  spotify: 'https://open.spotify.com/artist/59vs02H5JrgIomg99z3uvP'
   wikipedia: ''
 image_path: ''
 biography_enhanced_at: '2025-12-05T06:03:02.973361'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- General biographical and discography details from major music databases and label/press materials
-- Features and interviews in reputable jazz and music publications discussing Binker & Moses’ role in the UK jazz scene
+  - >-
+    General biographical and discography details from major music databases and
+    label/press materials
+  - >-
+    Features and interviews in reputable jazz and music publications discussing
+    Binker & Moses’ role in the UK jazz scene
 network_extracted: true
 entry_created: '2025-12-05T06:03:02.973383'
 last_updated: '2025-12-23T08:16:05.631705'
-origin: London, England, United Kingdom
+origin: 'London, England, United Kingdom'
+artist_type: person
 ---
 
 ![]()

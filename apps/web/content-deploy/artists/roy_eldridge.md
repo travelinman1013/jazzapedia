@@ -1,19 +1,19 @@
 ---
-title: roy eldridge
+title: Roy Eldridge
 wiki_slug: roy-eldridge
 schema_version: 2
 status: active
-birth_place: Pittsburgh, Pennsylvania, United States
+birth_place: 'Pittsburgh, Pennsylvania, United States'
 genres:
-- swing music
-- jazz
-- bebop
-- big band
+  - swing music
+  - jazz
+  - bebop
+  - big band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/roy_eldridge.jpg
   caption: roy eldridge
   background: solo_singer
-  origin: Pittsburgh, Pennsylvania, United States
+  origin: 'Pittsburgh, Pennsylvania, United States'
 audio_profile:
   tempo_avg: 117.5
   energy_avg: 0.296
@@ -29,60 +29,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Teddy Hill
-  - Billie Holiday
-  - Fletcher Henderson
-  - Gene Krupa
-  - Anita O’Day
-  - Artie Shaw
-  - Coleman Hawkins
-  - Ella Fitzgerald
-  - Earl Hines
-  - Norman Granz / Jazz at the Philharmonic (JATP)
+    - Teddy Hill
+    - Billie Holiday
+    - Fletcher Henderson
+    - Gene Krupa
+    - Anita O’Day
+    - Artie Shaw
+    - Coleman Hawkins
+    - Ella Fitzgerald
+    - Earl Hines
+    - Norman Granz / Jazz at the Philharmonic (JATP)
   influenced:
-  - Dizzy Gillespie
-  - Post‑1930s jazz trumpeters (e.g., swing and early bebop generation)
+    - Dizzy Gillespie
+    - 'Post‑1930s jazz trumpeters (e.g., swing and early bebop generation)'
   mentors:
-  - Joe Eldridge
-  - Louis Armstrong
-  - Coleman Hawkins
-  - Benny Carter
+    - Joe Eldridge
+    - Louis Armstrong
+    - Coleman Hawkins
+    - Benny Carter
 spotify_data:
   followers: 29130
   id: 4RvXA7BDgqNgGDjsSSJnPc
   popularity: 29
-  url: https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc
+  url: 'https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc'
 discography_enriched: true
 top_tracks:
-- Night And Day
-- Algo Bueno (Roy And Diz (Expanded Edition))
-- Blue Moon - Live (High Class)
-- Echoes of Harlem (The Heat's On)
-- Blues in C Sharp Minor (Jazz Figures / Roy Eldridge, Volume 1 (1935-1941))
-- Hop, Skip and Jump (Complete Gramercy 5 Sessions)
-- Sweet Sue (Just You) (The Complete Verve Studio Sessions)
-- All Of Me (Little Jazz And The Jimmy Ryan All-Stars)
-- Fish Market
-- Une petite laitue avec de la mayonnaise
+  - Night And Day
+  - Algo Bueno (Roy And Diz (Expanded Edition))
+  - Blue Moon - Live (High Class)
+  - Echoes of Harlem (The Heat's On)
+  - 'Blues in C Sharp Minor (Jazz Figures / Roy Eldridge, Volume 1 (1935-1941))'
+  - 'Hop, Skip and Jump (Complete Gramercy 5 Sessions)'
+  - Sweet Sue (Just You) (The Complete Verve Studio Sessions)
+  - All Of Me (Little Jazz And The Jimmy Ryan All-Stars)
+  - Fish Market
+  - Une petite laitue avec de la mayonnaise
 external_urls:
-  spotify: https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc
-  wikipedia: https://en.wikipedia.org/wiki/Roy_Eldridge
+  spotify: 'https://open.spotify.com/artist/4RvXA7BDgqNgGDjsSSJnPc'
+  wikipedia: 'https://en.wikipedia.org/wiki/Roy_Eldridge'
 image_path: 03_Resources/source_material/ArtistPortraits/roy_eldridge.jpg
 biography_enhanced_at: '2025-12-18T02:47:56.235498'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Roy_Eldridge
-- https://www.britannica.com/biography/Roy-Eldridge
-- https://www.allaboutjazz.com/musicians/roy-eldridge
-- https://fromthevaults-boppinbob.blogspot.com/2025/01/roy-eldridge-born-30-january-1911.html
-- https://www.gkrp.net/biographies/roy-eldridge/
-- https://www.jerryjazzmusician.com/roy-eldridge-story/
-- https://aaregistry.org/story/roy-eldridge-played-more-than-just-bebop/
+  - 'https://en.wikipedia.org/wiki/Roy_Eldridge'
+  - 'https://www.britannica.com/biography/Roy-Eldridge'
+  - 'https://www.allaboutjazz.com/musicians/roy-eldridge'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2025/01/roy-eldridge-born-30-january-1911.html
+  - 'https://www.gkrp.net/biographies/roy-eldridge/'
+  - 'https://www.jerryjazzmusician.com/roy-eldridge-story/'
+  - 'https://aaregistry.org/story/roy-eldridge-played-more-than-just-bebop/'
 network_extracted: true
 entry_created: '2025-12-18T02:47:56.235506'
 last_updated: '2025-12-23T08:16:15.120450'
-
+artist_type: person
 ---
 
 ![](roy_eldridge.jpg)

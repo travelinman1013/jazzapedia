@@ -1,30 +1,30 @@
 ---
-title: george jones
+title: George Jones
 wiki_slug: george-jones
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1931-09-12'
-birth_place: Saratoga
+birth_place: 'Saratoga, Texas, United States'
 death_date: '2013-04-26'
 genres:
-- honky tonk
-- traditional country
-- country
-- christian country
+  - honky tonk
+  - traditional country
+  - country
+  - christian country
 instruments:
-- eponymous
-- original
-- guitar
-- lead vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
-  mbid: 8063db1a-2126-45c2-9fae-b50c628ed102
-  name: George Jones & Tammy Wynette
+  - guitar
+  - lead vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 8063db1a-2126-45c2-9fae-b50c628ed102
+    name: George Jones & Tammy Wynette
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/george_jones.jpg
   caption: george jones
@@ -47,47 +47,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tammy Wynette
-  - Melba Montgomery
-  - The Big Bopper (Jiles P. Richardson)
+    - Tammy Wynette
+    - Melba Montgomery
+    - The Big Bopper (Jiles P. Richardson)
   influenced:
-  - Alan Jackson
-  - Garth Brooks
-  - Randy Travis
+    - Alan Jackson
+    - Garth Brooks
+    - Randy Travis
   mentors:
-  - Hank Williams
-  - Pappy Daily
+    - Hank Williams
+    - Pappy Daily
 spotify_data:
   followers: 1363754
   id: 2OpqcUtj10HHvGG6h9VYC5
   popularity: 62
-  url: https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5
+  url: 'https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5'
 discography_enriched: true
 top_tracks:
-- Country Boy (feat. Charlie Daniels, Chris Young, & George Jones) (Town Line)
-- He Stopped Loving Her Today (I Am What I Am (Expanded Edition))
-- I Don't Need Your Rockin' Chair - Version w/special guests
-- The Race Is On
-- The One I Loved Back Then (The Corvette Song) (Who's Gonna Fill Their Shoes)
-- Finally Friday (Walls Can Fall)
-- If Drinkin' Don't Kill Me (Her Memory Will) (I Am What I Am (Expanded Edition))
-- He Stopped Loving Her Today
-- She Thinks I Still Care
-- He Stopped Loving Her Today
+  - 'Country Boy (feat. Charlie Daniels, Chris Young, & George Jones) (Town Line)'
+  - He Stopped Loving Her Today (I Am What I Am (Expanded Edition))
+  - I Don't Need Your Rockin' Chair - Version w/special guests
+  - The Race Is On
+  - The One I Loved Back Then (The Corvette Song) (Who's Gonna Fill Their Shoes)
+  - Finally Friday (Walls Can Fall)
+  - >-
+    If Drinkin' Don't Kill Me (Her Memory Will) (I Am What I Am (Expanded
+    Edition))
+  - He Stopped Loving Her Today
+  - She Thinks I Still Care
+  - He Stopped Loving Her Today
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f2903be0-79a7-4334-8cc5-e45309482a97
-  spotify: https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5
-  wikipedia: https://en.wikipedia.org/wiki/George_Jones
+  musicbrainz: 'https://musicbrainz.org/artist/f2903be0-79a7-4334-8cc5-e45309482a97'
+  spotify: 'https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5'
+  wikipedia: 'https://en.wikipedia.org/wiki/George_Jones'
 image_path: 03_Resources/source_material/ArtistPortraits/george_jones.jpg
 biography_enhanced_at: '2025-11-22T07:43:03.466062'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.tshaonline.org/handbook/entries/jones-george-glenn
-- https://www.biography.com/musicians/george-jones
-- https://en.wikipedia.org/wiki/George_Jones
-- https://www.ebsco.com/research-starters/music/george-jones
-- https://www.countrymusichalloffame.org/artist/george-jones
+  - 'https://www.tshaonline.org/handbook/entries/jones-george-glenn'
+  - 'https://www.biography.com/musicians/george-jones'
+  - 'https://en.wikipedia.org/wiki/George_Jones'
+  - 'https://www.ebsco.com/research-starters/music/george-jones'
+  - 'https://www.countrymusichalloffame.org/artist/george-jones'
 network_extracted: true
 entry_created: '2025-11-22T07:43:03.466077'
 last_updated: '2025-12-23T08:16:09.096620'
@@ -95,10 +97,11 @@ disambiguation: US country music vocalist
 gender: Male
 musicbrainz_id: f2903be0-79a7-4334-8cc5-e45309482a97
 tags:
-- 2008 universal fire victim
-- american
-- country
-
+  - 2008 universal fire victim
+  - american
+  - country
+is_active: false
+origin: 'Beaumont, Texas, United States'
 ---
 
 ![](george_jones.jpg)

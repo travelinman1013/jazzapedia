@@ -2,7 +2,7 @@
 title: Magna Carda
 wiki_slug: magna-carda
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres: []
 infobox:
@@ -10,7 +10,7 @@ infobox:
   caption: Magna Carda
   background: group_or_band
 audio_profile:
-  tempo_avg: 120.0
+  tempo_avg: 120
   energy_avg: 0.62
   valence_avg: 0.505
   danceability_avg: 0.598
@@ -24,51 +24,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dougie Do
-  - Michael Longoria
-  - Brandon 'Tank' Tanksley
-  - Billy Blunt
-  - Michael Gonzales
-  - Eric 'The Greek' Nikolaides
-  - Derek Van Wagner
+    - Dougie Do
+    - Michael Longoria
+    - Brandon 'Tank' Tanksley
+    - Billy Blunt
+    - Michael Gonzales
+    - Eric 'The Greek' Nikolaides
+    - Derek Van Wagner
   influenced: []
   mentors:
-  - The Roots
+    - The Roots
 spotify_data:
   followers: 7670
   id: 0Akzjllih1lP7k60c8Dtct
   popularity: 19
-  url: https://open.spotify.com/artist/0Akzjllih1lP7k60c8Dtct
+  url: 'https://open.spotify.com/artist/0Akzjllih1lP7k60c8Dtct'
 discography_enriched: true
 top_tracks:
-- Digits (Digits)
-- The Root (Cirqlation)
-- Running With The Clouds (Mercedez Babies)
-- Temptation (Temptation)
-- Angels/Devils (Mercedez Babies)
-- Co-Sign It (Mercedez Babies)
-- Cowboy (Cowboy)
-- Somewhere Between (Somewhere Between)
-- HOME (Little Trumpet (Original Motion Picture Soundtrack))
-- Back Then (Somewhere Between)
+  - Digits (Digits)
+  - The Root (Cirqlation)
+  - Running With The Clouds (Mercedez Babies)
+  - Temptation (Temptation)
+  - Angels/Devils (Mercedez Babies)
+  - Co-Sign It (Mercedez Babies)
+  - Cowboy (Cowboy)
+  - Somewhere Between (Somewhere Between)
+  - HOME (Little Trumpet (Original Motion Picture Soundtrack))
+  - Back Then (Somewhere Between)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e03a6788-b008-4b59-981a-08eaa625a9fa
-  spotify: https://open.spotify.com/artist/0Akzjllih1lP7k60c8Dtct
+  musicbrainz: 'https://musicbrainz.org/artist/e03a6788-b008-4b59-981a-08eaa625a9fa'
+  spotify: 'https://open.spotify.com/artist/0Akzjllih1lP7k60c8Dtct'
   wikipedia: Not found
 image_path: 03_Resources/source_material/ArtistPortraits/magna_carda.jpg
 biography_enhanced_at: '2025-11-03T07:52:42.019350'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- KUTX
-- Sonic Guild
-- Stereofox
+  - KUTX
+  - Sonic Guild
+  - Stereofox
 network_extracted: true
 entry_created: '2025-11-03T07:52:42.019367'
 last_updated: '2025-12-23T08:16:12.508170'
-disambiguation: Austin, TX hip-hop group
+disambiguation: 'Austin, TX hip-hop group'
 musicbrainz_id: e03a6788-b008-4b59-981a-08eaa625a9fa
-origin: Austin, Texas, United States
+origin: 'Austin, Texas, United States'
 ---
 
 ![](magna_carda.jpg)

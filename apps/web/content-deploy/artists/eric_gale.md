@@ -1,43 +1,47 @@
 ---
 biography_enhanced_at: '2025-12-31T01:50:16.852928'
-birth_place: Bedford-Stuyvesant, Brooklyn, New York, USA
+birth_place: 'Bedford-Stuyvesant, Brooklyn, New York, USA'
 enhancement_provider: perplexity
 entry_created: '2025-12-31T01:50:16.852934'
 external_urls:
-  spotify: https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV
-  wikipedia: https://en.wikipedia.org/wiki/Eric_Gale
+  spotify: 'https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV'
+  wikipedia: 'https://en.wikipedia.org/wiki/Eric_Gale'
 genres:
-- modern blues
-- blues rock
-- blues
+  - modern blues
+  - blues rock
+  - blues
 image_path: 03_Resources/source_material/ArtistPortraits/eric_gale.jpg
 last_updated: '2025-12-31T01:50:16.852934'
 musical_connections:
   collaborators:
-  - Stuff (Richard Tee, Cornell Dupree, Gordon Edwards, Steve Gadd)
-  - Grover Washington Jr.
-  - Peter Tosh
-  - Billy Joel
+    - 'Stuff (Richard Tee, Cornell Dupree, Gordon Edwards, Steve Gadd)'
+    - Grover Washington Jr.
+    - Peter Tosh
+    - Billy Joel
   influenced: []
   mentors:
-  - John Coltrane
-  - King Curtis
-  - Jimmy Smith
+    - John Coltrane
+    - King Curtis
+    - Jimmy Smith
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://dereksmusicblog.com/2024/12/31/the-life-and-career-of-eric-gale/
-- https://en.wikipedia.org/wiki/Eric_Gale
-- https://jointzoftheday.substack.com/p/eric-gale-born-september-20-1938-rip-may-25-1994
-- https://www.last.fm/music/Eric+Gale/+wiki
-- https://allerlei2013riffmaster.wordpress.com/2020/12/15/eric-gale-ginseng-woman-1977/
+  - 'https://dereksmusicblog.com/2024/12/31/the-life-and-career-of-eric-gale/'
+  - 'https://en.wikipedia.org/wiki/Eric_Gale'
+  - >-
+    https://jointzoftheday.substack.com/p/eric-gale-born-september-20-1938-rip-may-25-1994
+  - 'https://www.last.fm/music/Eric+Gale/+wiki'
+  - >-
+    https://allerlei2013riffmaster.wordpress.com/2020/12/15/eric-gale-ginseng-woman-1977/
 spotify_data:
   followers: 113312
   id: 3x8RBu8okCCBLi5vnY4UyV
   popularity: 41
-  url: https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV
+  url: 'https://open.spotify.com/artist/3x8RBu8okCCBLi5vnY4UyV'
 status: active
 title: Eric Gale
+birth_date: '1938-09-20'
+artist_type: person
 ---
 
 ![](eric_gale.jpg)

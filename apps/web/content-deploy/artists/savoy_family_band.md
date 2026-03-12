@@ -4,50 +4,54 @@ biography_enhanced_at: '2026-01-12T01:57:12.999659'
 enhancement_provider: perplexity
 entry_created: '2026-01-12T01:57:12.999666'
 external_urls:
-  spotify: https://open.spotify.com/artist/5pUIMECcNp20Vv6zbjVIGq
+  spotify: 'https://open.spotify.com/artist/5pUIMECcNp20Vv6zbjVIGq'
   wikipedia: ''
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 image_path: 03_Resources/source_material/ArtistPortraits/savoy_family_band.jpg
 is_active: true
 last_updated: '2026-01-12T01:57:12.999666'
 musical_connections:
   collaborators:
-  - Michael Doucet
-  - Savoy-Doucet Cajun Band (as an ensemble context)
-  - 'Valcour Records roster (incl. The Band Courtbouillon: Wayne Toups, Steve Riley,
-    Wilson Savoy)'
-  - Local and visiting musicians at Savoy Music Center
+    - Michael Doucet
+    - Savoy-Doucet Cajun Band (as an ensemble context)
+    - >-
+      Valcour Records roster (incl. The Band Courtbouillon: Wayne Toups, Steve
+      Riley, Wilson Savoy)
+    - Local and visiting musicians at Savoy Music Center
   influenced:
-  - Sarah Savoy
-  - Younger Cajun musicians associated with Valcour Records
-  - Participants in the Faquetaique Courir de Mardi Gras revival
+    - Sarah Savoy
+    - Younger Cajun musicians associated with Valcour Records
+    - Participants in the Faquetaique Courir de Mardi Gras revival
   mentors:
-  - Hiram Courville
-  - Dennis McGee
-  - Balfa Brothers (esp. Dewey Balfa)
-  - Clifton Chenier and Cléoma Falcon
+    - Hiram Courville
+    - Dennis McGee
+    - Balfa Brothers (esp. Dewey Balfa)
+    - Clifton Chenier and Cléoma Falcon
 network_extracted: true
-origin: Eunice, Louisiana, United States
+origin: 'Eunice, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://www.accessallareas.info/artist/savoy-family-cajun-band/
-- https://www.lafayettetravel.com/blog/stories/post/acadiana-musical-families/
-- https://www.roux.vip/culture/2-the-savoy-family-rooted-in-cajun-culture
-- https://www.annsavoy.com/savoy-family-band
-- https://acousticguitar.com/ann-savoy-is-a-driving-force-in-louisianas-folk-scene-the-matriarch-of-a-kick-ass-musical-dynasty/
-- https://en.wikipedia.org/wiki/Marc_Savoy
-- https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/savoy.htm.html
-- https://www.savoymusiccenter.com/an-interview-with-myself
-- https://www.rocky-52.net/chanteurss/savoy_family_band.htm
+  - 'https://www.accessallareas.info/artist/savoy-family-cajun-band/'
+  - 'https://www.lafayettetravel.com/blog/stories/post/acadiana-musical-families/'
+  - 'https://www.roux.vip/culture/2-the-savoy-family-rooted-in-cajun-culture'
+  - 'https://www.annsavoy.com/savoy-family-band'
+  - >-
+    https://acousticguitar.com/ann-savoy-is-a-driving-force-in-louisianas-folk-scene-the-matriarch-of-a-kick-ass-musical-dynasty/
+  - 'https://en.wikipedia.org/wiki/Marc_Savoy'
+  - >-
+    https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/savoy.htm.html
+  - 'https://www.savoymusiccenter.com/an-interview-with-myself'
+  - 'https://www.rocky-52.net/chanteurss/savoy_family_band.htm'
 spotify_data:
   followers: 774
   id: 5pUIMECcNp20Vv6zbjVIGq
   popularity: 4
-  url: https://open.spotify.com/artist/5pUIMECcNp20Vv6zbjVIGq
+  url: 'https://open.spotify.com/artist/5pUIMECcNp20Vv6zbjVIGq'
 status: active
 title: Savoy Family Band
+birth_place: 'Eunice, Louisiana, United States'
 ---
 
 ![](savoy_family_band.jpg)

@@ -1,5 +1,5 @@
 ---
-title: visca & MDU aka TRP
+title: Visca & MDU aka TRP
 wiki_slug: visca-mdu-aka-trp
 schema_version: 2
 status: active
@@ -9,7 +9,7 @@ infobox:
   caption: visca & MDU aka TRP
   background: solo_singer
 audio_profile:
-  tempo_avg: 112.0
+  tempo_avg: 112
   energy_avg: 0.731
   valence_avg: 0.576
   danceability_avg: 0.804
@@ -23,39 +23,42 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - DJ Jaivane
-  - Mr JazziQ
-  - Mas Musiq
+    - DJ Jaivane
+    - Mr JazziQ
+    - Mas Musiq
   influenced:
-  - Mick Man
-  - Sam Deep
+    - Mick Man
+    - Sam Deep
   mentors:
-  - Kwaito and House Music Pioneers
+    - Kwaito and House Music Pioneers
 spotify_data:
   followers: 99
   id: 14Yf8C4dJl7wA9ogrtMJdU
   popularity: 6
-  url: https://open.spotify.com/artist/14Yf8C4dJl7wA9ogrtMJdU
+  url: 'https://open.spotify.com/artist/14Yf8C4dJl7wA9ogrtMJdU'
 discography_enriched: true
 top_tracks:
-- Ovii 2.0 (Sgidongo mix) (Ovii 2.0 (Sgidongo mix))
+  - Ovii 2.0 (Sgidongo mix) (Ovii 2.0 (Sgidongo mix))
 external_urls:
-  spotify: https://open.spotify.com/artist/14Yf8C4dJl7wA9ogrtMJdU
+  spotify: 'https://open.spotify.com/artist/14Yf8C4dJl7wA9ogrtMJdU'
   wikipedia: ''
 image_path: ''
 biography_enhanced_at: '2025-11-16T20:21:47.870536'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/MDU+aka+TRP/+wiki
-- https://songstats.com/artist/osy8glek/mdu-aka-trp
-- https://www.shazam.com/artist/mdu-aka-trp/1287413348
-- https://kingminds.net/mdu-aka-trp-biography-profile-age-songs-albums-networth/
-- https://www.youtube.com/watch?v=PAQNzjQ_q6I
+  - 'https://www.last.fm/music/MDU+aka+TRP/+wiki'
+  - 'https://songstats.com/artist/osy8glek/mdu-aka-trp'
+  - 'https://www.shazam.com/artist/mdu-aka-trp/1287413348'
+  - >-
+    https://kingminds.net/mdu-aka-trp-biography-profile-age-songs-albums-networth/
+  - 'https://www.youtube.com/watch?v=PAQNzjQ_q6I'
 network_extracted: true
 entry_created: '2025-11-16T20:21:47.870556'
 last_updated: '2025-12-23T08:16:17.935820'
-origin: Diepkloof, Johannesburg, South Africa
+origin: 'Diepkloof, Johannesburg, South Africa'
+birth_place: 'Diepkloof, Johannesburg, South Africa'
+artist_type: band
 ---
 
 ![]()

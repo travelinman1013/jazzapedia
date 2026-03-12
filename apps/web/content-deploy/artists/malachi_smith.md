@@ -3,14 +3,14 @@ title: Malachi Smith
 wiki_slug: malachi-smith
 schema_version: 2
 status: active
-birth_place: Westmoreland, Jamaica
+birth_place: 'Westmoreland, Jamaica, Jamaica'
 genres:
-- roots reggae
+  - roots reggae
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/malachi_smith.jpg
   caption: Malachi Smith
   background: solo_singer
-  origin: Westmoreland, Jamaica
+  origin: 'Westmoreland, Jamaica'
 audio_profile:
   tempo_avg: 97.1
   energy_avg: 0.609
@@ -26,45 +26,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Poets in Unity
-  - Michael Bryan (Mikey)
+    - Poets in Unity
+    - Michael Bryan (Mikey)
   influenced:
-  - Jamaica Poets Nomadic College and School Tour participants
+    - Jamaica Poets Nomadic College and School Tour participants
   mentors:
-  - Lorna Goodison
-  - Fred D’Aguilar
+    - Lorna Goodison
+    - Fred D’Aguilar
 spotify_data:
   followers: 14
   id: 5AbhumvJe9AZ5kyNDEpJvH
   popularity: 0
-  url: https://open.spotify.com/artist/5AbhumvJe9AZ5kyNDEpJvH
+  url: 'https://open.spotify.com/artist/5AbhumvJe9AZ5kyNDEpJvH'
 discography_enriched: true
 top_tracks:
-- 'Victim (Word Sound ''Ave Power: Dub Poets And Dub)'
-- Question (Dub Poetry (Inna Yuh Face))
-- Blacka De Berry (Tmpm)
-- Honey (Tmpm)
-- Question (Dub Poetry (Inna Yuh Face))
+  - 'Victim (Word Sound ''Ave Power: Dub Poets And Dub)'
+  - Question (Dub Poetry (Inna Yuh Face))
+  - Blacka De Berry (Tmpm)
+  - Honey (Tmpm)
+  - Question (Dub Poetry (Inna Yuh Face))
 external_urls:
-  spotify: https://open.spotify.com/artist/5AbhumvJe9AZ5kyNDEpJvH
+  spotify: 'https://open.spotify.com/artist/5AbhumvJe9AZ5kyNDEpJvH'
   wikipedia: null
 image_path: ''
 biography_enhanced_at: '2025-10-27T02:46:59.836017'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://andrewsparke.com/our-authors/malachi-smith/
-- http://www.educatechild.org/about-BOD-bios-smith.php
-- https://jamaicans.com/dubpoetmalachismithinterview/
-- https://japoetryarchive.nlj.gov.jm/poet-profile-malachi-smith/
-- https://clintonlindsay.com/2012/06/24/south-florida-based-jamaican-dub-poet-malachi-smith-headlines-colombia-poetry-festival/
-- https://sflcn.com/dub-poet-and-author-malachi-smith-launches-new-book-the-gathering/
-- https://www.malachismith.com/about
-- https://www.jstor.org/stable/24615487
+  - 'https://andrewsparke.com/our-authors/malachi-smith/'
+  - 'http://www.educatechild.org/about-BOD-bios-smith.php'
+  - 'https://jamaicans.com/dubpoetmalachismithinterview/'
+  - 'https://japoetryarchive.nlj.gov.jm/poet-profile-malachi-smith/'
+  - >-
+    https://clintonlindsay.com/2012/06/24/south-florida-based-jamaican-dub-poet-malachi-smith-headlines-colombia-poetry-festival/
+  - >-
+    https://sflcn.com/dub-poet-and-author-malachi-smith-launches-new-book-the-gathering/
+  - 'https://www.malachismith.com/about'
+  - 'https://www.jstor.org/stable/24615487'
 network_extracted: true
 entry_created: '2025-10-27T02:46:59.836036'
 last_updated: '2025-12-23T08:16:12.547361'
-
+artist_type: person
 ---
 
 ![]()

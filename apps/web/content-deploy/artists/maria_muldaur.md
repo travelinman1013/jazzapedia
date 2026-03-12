@@ -5,21 +5,21 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1943-09-12'
-birth_place: Greenwich Village
+birth_place: 'New York City, New York, United States'
 genres:
-- blues
+  - blues
 instruments:
-- original
-- background vocals
-- lead vocals
-- choir vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - original
-  mbid: acc1d5bc-e94d-4582-a5d7-fe6e7e6919ad
-  name: Jim Kweskin & The Jug Band
+  - background vocals
+  - lead vocals
+  - choir vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: acc1d5bc-e94d-4582-a5d7-fe6e7e6919ad
+    name: Jim Kweskin & The Jug Band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/maria_muldaur.jpg
   caption: Maria Muldaur
@@ -41,56 +41,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Geoff Muldaur
-  - Jim Kweskin
-  - John Kahn
-  - Peter Rowan
+    - Geoff Muldaur
+    - Jim Kweskin
+    - John Kahn
+    - Peter Rowan
   influenced:
-  - Bonnie Raitt
-  - Contemporary female blues and Americana artists
+    - Bonnie Raitt
+    - Contemporary female blues and Americana artists
   mentors:
-  - Victoria Spivey
+    - Victoria Spivey
 spotify_data:
   followers: 31683
   id: 2VUiF0VFkXzB0DLg9AzrqT
   popularity: 36
-  url: https://open.spotify.com/artist/2VUiF0VFkXzB0DLg9AzrqT
+  url: 'https://open.spotify.com/artist/2VUiF0VFkXzB0DLg9AzrqT'
 discography_enriched: true
 top_tracks:
-- Midnight at the Oasis (Maria Muldaur)
-- Don't Ever Let Nobody Drag Your Spirit Down (Sisters & Brothers)
-- Bessie's Advice (Sisters & Brothers)
-- Funny Feathers
-- I Like You Best of All
-- Midnight at the Oasis
-- Long Hard Climb (Maria Muldaur)
-- I Like You Best of All (Let's Get Happy Together)
-- Good Stuff (Sisters & Brothers)
-- Any Old Time (Maria Muldaur)
+  - Midnight at the Oasis (Maria Muldaur)
+  - Don't Ever Let Nobody Drag Your Spirit Down (Sisters & Brothers)
+  - Bessie's Advice (Sisters & Brothers)
+  - Funny Feathers
+  - I Like You Best of All
+  - Midnight at the Oasis
+  - Long Hard Climb (Maria Muldaur)
+  - I Like You Best of All (Let's Get Happy Together)
+  - Good Stuff (Sisters & Brothers)
+  - Any Old Time (Maria Muldaur)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3aeb9e89-4fc3-46f4-a5a8-cf6c1b7e66a0
-  spotify: https://open.spotify.com/artist/2VUiF0VFkXzB0DLg9AzrqT
-  wikipedia: https://en.wikipedia.org/wiki/Maria_Muldaur
+  musicbrainz: 'https://musicbrainz.org/artist/3aeb9e89-4fc3-46f4-a5a8-cf6c1b7e66a0'
+  spotify: 'https://open.spotify.com/artist/2VUiF0VFkXzB0DLg9AzrqT'
+  wikipedia: 'https://en.wikipedia.org/wiki/Maria_Muldaur'
 image_path: 03_Resources/source_material/ArtistPortraits/maria_muldaur.jpg
 biography_enhanced_at: '2025-10-23T07:34:20.927477'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Maria_Muldaur
-- https://mariamuldaur.com/bio
-- https://folkalley.com/maria-muldaur-50-years-after-maria-muldaur/
-- https://blues.gr/profiles/blogs/q-a-with-gifted-singer-maria-muldaur-the-first-lady-of-roots-musi
-- https://www.popmatters.com/maria-muldaur-one-hour-mama
+  - 'https://en.wikipedia.org/wiki/Maria_Muldaur'
+  - 'https://mariamuldaur.com/bio'
+  - 'https://folkalley.com/maria-muldaur-50-years-after-maria-muldaur/'
+  - >-
+    https://blues.gr/profiles/blogs/q-a-with-gifted-singer-maria-muldaur-the-first-lady-of-roots-musi
+  - 'https://www.popmatters.com/maria-muldaur-one-hour-mama'
 network_extracted: true
 entry_created: '2025-10-23T07:34:20.927487'
 last_updated: '2025-12-23T08:16:12.646736'
 gender: Female
 musicbrainz_id: 3aeb9e89-4fc3-46f4-a5a8-cf6c1b7e66a0
 tags:
-- blues
-- classic pop and rock
-- contemporary folk
-
+  - blues
+  - classic pop and rock
+  - contemporary folk
+origin: 'Greenwich Village, New York, United States'
 ---
 
 ![](maria_muldaur.jpg)

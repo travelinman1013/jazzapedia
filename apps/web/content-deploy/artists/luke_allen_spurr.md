@@ -1,44 +1,47 @@
 ---
 biography_enhanced_at: '2025-12-27T01:27:39.227337'
-birth_place: Salinas, CA, USA
+birth_place: 'Salinas, CA, USA'
 enhancement_provider: perplexity
 entry_created: '2025-12-27T01:27:39.227348'
 external_urls:
-  spotify: https://open.spotify.com/artist/0cT9E3iYfnx6m0j4QBfUCi
+  spotify: 'https://open.spotify.com/artist/0cT9E3iYfnx6m0j4QBfUCi'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/luke_allen_spurr.jpg
 last_updated: '2025-12-27T01:27:39.227350'
 musical_connections:
   collaborators:
-  - Bailey Smith
-  - Alex McMurray
-  - Steve Calandra
-  - Mike Andrepont
-  - Casey McAllister
-  - Helen Gillet
-  - Meschiya Lake
-  - Tasche De La Rocha
-  - Washboard Chaz
-  - Mike West
+    - Bailey Smith
+    - Alex McMurray
+    - Steve Calandra
+    - Mike Andrepont
+    - Casey McAllister
+    - Helen Gillet
+    - Meschiya Lake
+    - Tasche De La Rocha
+    - Washboard Chaz
+    - Mike West
   influenced: []
   mentors:
-  - Mark Bingham
+    - Mark Bingham
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://antigravitymagazine.com/feature/from-steinbeck-to-sweet-vermouth-luke-spurr-allen/
-- https://lukespurrallen.com
-- https://www.wwoz.org/blog/260206
-- https://bluevelvetnola.com/check-pothole-heart-luke-spurr-allen-happy-talk-band/
-- https://musicinsideout.wwno.org/luke-spurr-allen/
+  - >-
+    https://antigravitymagazine.com/feature/from-steinbeck-to-sweet-vermouth-luke-spurr-allen/
+  - 'https://lukespurrallen.com'
+  - 'https://www.wwoz.org/blog/260206'
+  - >-
+    https://bluevelvetnola.com/check-pothole-heart-luke-spurr-allen-happy-talk-band/
+  - 'https://musicinsideout.wwno.org/luke-spurr-allen/'
 spotify_data:
   followers: 132
   id: 0cT9E3iYfnx6m0j4QBfUCi
   popularity: 0
-  url: https://open.spotify.com/artist/0cT9E3iYfnx6m0j4QBfUCi
+  url: 'https://open.spotify.com/artist/0cT9E3iYfnx6m0j4QBfUCi'
 status: active
-title: luke allen spurr
+title: Luke Allen Spurr
+artist_type: person
 ---
 
 ![](luke_allen_spurr.jpg)

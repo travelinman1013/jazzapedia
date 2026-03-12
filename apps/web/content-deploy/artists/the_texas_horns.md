@@ -1,89 +1,91 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2025-12-25T01:12:20.911431'
 birth_date: '2000'
 enhancement_provider: perplexity
 entry_created: '2025-12-25T01:12:20.911442'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7a31d1a1-02a5-4b8b-aeba-f10190340b15
-  spotify: https://open.spotify.com/artist/6swhrKqY4WiZoJanmBNqsX
+  musicbrainz: 'https://musicbrainz.org/artist/7a31d1a1-02a5-4b8b-aeba-f10190340b15'
+  spotify: 'https://open.spotify.com/artist/6swhrKqY4WiZoJanmBNqsX'
   wikipedia: ''
 genres:
-- blues
+  - blues
 image_path: 03_Resources/source_material/ArtistPortraits/the_texas_horns.jpg
 instruments:
-- original
-- piano
-- trumpet
-- flute
-- harmonica
-- lead vocals
-- saxophone
-- clarinet
-last_updated: '2025-12-25T01:12:20.911445'
-members:
-- begin: ''
-  end: ''
-  instruments:
   - original
   - piano
   - trumpet
-  mbid: 021882fb-d98f-4a08-98db-0ab6125d7dd1
-  name: Al Gomez
-- begin: ''
-  end: ''
-  instruments:
   - flute
   - harmonica
   - lead vocals
-  - original
   - saxophone
-  mbid: 45101703-ad18-4c79-826e-48518e166744
-  name: Mark "Kaz" Kazanoff
-- begin: ''
-  end: ''
-  instruments:
   - clarinet
-  - flute
-  - original
-  - piano
-  - saxophone
-  mbid: 103e7c45-3eb6-4291-95af-792d363309e5
-  name: John Mills
+last_updated: '2025-12-25T01:12:20.911445'
+members:
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - piano
+      - trumpet
+    mbid: 021882fb-d98f-4a08-98db-0ab6125d7dd1
+    name: Al Gomez
+  - begin: ''
+    end: ''
+    instruments:
+      - flute
+      - harmonica
+      - lead vocals
+      - original
+      - saxophone
+    mbid: 45101703-ad18-4c79-826e-48518e166744
+    name: Mark "Kaz" Kazanoff
+  - begin: ''
+    end: ''
+    instruments:
+      - clarinet
+      - flute
+      - original
+      - piano
+      - saxophone
+    mbid: 103e7c45-3eb6-4291-95af-792d363309e5
+    name: John Mills
 musical_connections:
   collaborators:
-  - Allman Brothers Band
-  - Ottawa Bluesfest (various artists)
-  - Marcia Ball
-  - Anson Funderburgh
-  - Carolyn Wonderland
-  - Doug Sahm’s Last Real Texas Blues Band
+    - Allman Brothers Band
+    - Ottawa Bluesfest (various artists)
+    - Marcia Ball
+    - Anson Funderburgh
+    - Carolyn Wonderland
+    - Doug Sahm’s Last Real Texas Blues Band
   influenced:
-  - Festival horn sections and contemporary blues horn arrangers (general)
+    - Festival horn sections and contemporary blues horn arrangers (general)
   mentors:
-  - Big Walter Horton
-  - Little Walter
-  - Muddy Waters
+    - Big Walter Horton
+    - Little Walter
+    - Muddy Waters
 musicbrainz_id: 7a31d1a1-02a5-4b8b-aeba-f10190340b15
 network_extracted: true
-origin: Austin, Texas, United States
+origin: 'Austin, Texas, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Mark_%22Kaz%22_Kazanoff
-- https://thetexashorns.com/bio
-- https://www.makingascene.org/the-texas-horns-get-here-quick/
-- https://atlantabluessociety.org/2022/08/the-texas-horns/
-- https://ottawacitizen.com/entertainment/local-arts/from-austin-to-london-to-ottawa-the-texas-horns-hone-their-identity
-- https://fervorcoulee.wordpress.com/2019/07/30/the-texas-horns-get-here-quick-review/
-- https://elmoremagazine.com/2019/04/music-news/the-texas-horns-out-in-front
+  - 'https://en.wikipedia.org/wiki/Mark_%22Kaz%22_Kazanoff'
+  - 'https://thetexashorns.com/bio'
+  - 'https://www.makingascene.org/the-texas-horns-get-here-quick/'
+  - 'https://atlantabluessociety.org/2022/08/the-texas-horns/'
+  - >-
+    https://ottawacitizen.com/entertainment/local-arts/from-austin-to-london-to-ottawa-the-texas-horns-hone-their-identity
+  - >-
+    https://fervorcoulee.wordpress.com/2019/07/30/the-texas-horns-get-here-quick-review/
+  - 'https://elmoremagazine.com/2019/04/music-news/the-texas-horns-out-in-front'
 spotify_data:
   followers: 511
   id: 6swhrKqY4WiZoJanmBNqsX
   popularity: 9
-  url: https://open.spotify.com/artist/6swhrKqY4WiZoJanmBNqsX
+  url: 'https://open.spotify.com/artist/6swhrKqY4WiZoJanmBNqsX'
 status: active
 title: The Texas Horns
-
+birth_place: 'Massachusetts, United States'
 ---
 
 ![](the_texas_horns.jpg)

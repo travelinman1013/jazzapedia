@@ -2,7 +2,7 @@
 title: Zig Zag Band
 wiki_slug: zig-zag-band
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres: []
 infobox:
@@ -15,7 +15,7 @@ audio_profile:
   valence_avg: 0.65
   danceability_avg: 0.585
   acousticness_avg: 0.159
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -8.5
   speechiness_avg: 0.076
   liveness_avg: 0.153
@@ -24,48 +24,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Iggy Pop
-  - Mike Watt and the Secondmen
-  - Jed Maheu
-  - Dane Arnold
-  - Sean Hoffman
+    - Iggy Pop
+    - Mike Watt and the Secondmen
+    - Jed Maheu
+    - Dane Arnold
+    - Sean Hoffman
   influenced: []
   mentors:
-  - Ty Segall
+    - Ty Segall
 spotify_data:
   followers: 624
   id: 5JzzWKyFhD4xHK9Q5erJZH
   popularity: 15
-  url: https://open.spotify.com/artist/5JzzWKyFhD4xHK9Q5erJZH
+  url: 'https://open.spotify.com/artist/5JzzWKyFhD4xHK9Q5erJZH'
 discography_enriched: true
 top_tracks:
-- Nyamutamba Nevambwe (Nyamutamba Nevambwe)
-- Ndzirombi (Ndzirombi)
-- Ndoita Ripi Zano? (Ndoita Ripi Zano?)
-- Nyamutamba Nevambwe (Nyamutamba Nevambwe)
-- Ndzirombi (Ndzirombi)
-- Ndzirombi (Ndzirombi)
-- Ndoita Ripi Zano? (Ndoita Ripi Zano?)
-- Ndzirombi (Chigiyo Music Kings 1987-1998 (Analog Africa No.42))
-- Chenaimoyo (Chigiyo Music Kings 1987-1998 (Analog Africa No.42))
-- Mangaingai (Chigiyo Music Kings 1987-1998 (Analog Africa No.42))
+  - Nyamutamba Nevambwe (Nyamutamba Nevambwe)
+  - Ndzirombi (Ndzirombi)
+  - Ndoita Ripi Zano? (Ndoita Ripi Zano?)
+  - Nyamutamba Nevambwe (Nyamutamba Nevambwe)
+  - Ndzirombi (Ndzirombi)
+  - Ndzirombi (Ndzirombi)
+  - Ndoita Ripi Zano? (Ndoita Ripi Zano?)
+  - Ndzirombi (Chigiyo Music Kings 1987-1998 (Analog Africa No.42))
+  - Chenaimoyo (Chigiyo Music Kings 1987-1998 (Analog Africa No.42))
+  - Mangaingai (Chigiyo Music Kings 1987-1998 (Analog Africa No.42))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9fb3cbc6-f197-4d81-bacf-83651148d48d
-  spotify: https://open.spotify.com/artist/5JzzWKyFhD4xHK9Q5erJZH
-  wikipedia: https://en.wikipedia.org/wiki/Zig_Zags
+  musicbrainz: 'https://musicbrainz.org/artist/9fb3cbc6-f197-4d81-bacf-83651148d48d'
+  spotify: 'https://open.spotify.com/artist/5JzzWKyFhD4xHK9Q5erJZH'
+  wikipedia: 'https://en.wikipedia.org/wiki/Zig_Zags'
 image_path: 03_Resources/source_material/ArtistPortraits/zig_zag_band.jpg
 biography_enhanced_at: '2025-12-04T08:20:53.405185'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Zig Zags
-- YouTube - Zigzag band members story
+  - Wikipedia - Zig Zags
+  - YouTube - Zigzag band members story
 network_extracted: true
 entry_created: '2025-12-04T08:20:53.405194'
 last_updated: '2025-12-23T08:16:18.448230'
 disambiguation: from Zimbabwe
 musicbrainz_id: 9fb3cbc6-f197-4d81-bacf-83651148d48d
-origin: Los Angeles, California, United States
+origin: 'Los Angeles, California, United States'
 ---
 
 ![](zig_zag_band.jpg)

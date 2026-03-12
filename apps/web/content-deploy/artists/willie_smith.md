@@ -1,44 +1,48 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-12T02:04:39.170087'
-birth_place: Helena, Arkansas, United States
+birth_place: 'Helena, Arkansas, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-12T02:04:39.170092'
 external_urls:
-  spotify: https://open.spotify.com/artist/1e1mzL6ctiNt4hu2oy16Gy
-  wikipedia: https://en.wikipedia.org/wiki/Willie_%22Big_Eyes%22_Smith
+  spotify: 'https://open.spotify.com/artist/1e1mzL6ctiNt4hu2oy16Gy'
+  wikipedia: 'https://en.wikipedia.org/wiki/Willie_%22Big_Eyes%22_Smith'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/willie_smith.jpg
 last_updated: '2026-01-12T02:04:39.170093'
 musical_connections:
   collaborators:
-  - Muddy Waters
-  - Pinetop Perkins
-  - Bo Diddley
-  - The Legendary Blues Band (Pinetop Perkins, Calvin Jones, Jerry Portnoy, Louis
-    Myers)
-  - Big Bill Morganfield
-  - Kim Wilson
-  - James Cotton
-  - Liz Mandeville
+    - Muddy Waters
+    - Pinetop Perkins
+    - Bo Diddley
+    - >-
+      The Legendary Blues Band (Pinetop Perkins, Calvin Jones, Jerry Portnoy,
+      Louis Myers)
+    - Big Bill Morganfield
+    - Kim Wilson
+    - James Cotton
+    - Liz Mandeville
   influenced:
-  - Members of The Legendary Blues Band and younger Chicago blues musicians
+    - Members of The Legendary Blues Band and younger Chicago blues musicians
   mentors:
-  - Muddy Waters
-  - Henry Strong
-  - Arthur “Big Boy” Spires
+    - Muddy Waters
+    - Henry Strong
+    - Arthur “Big Boy” Spires
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Willie_%22Big_Eyes%22_Smith
-- https://kids.kiddle.co/Willie_%22Big_Eyes%22_Smith
+  - 'https://en.wikipedia.org/wiki/Willie_%22Big_Eyes%22_Smith'
+  - 'https://kids.kiddle.co/Willie_%22Big_Eyes%22_Smith'
 spotify_data:
   followers: 188
   id: 1e1mzL6ctiNt4hu2oy16Gy
   popularity: 34
-  url: https://open.spotify.com/artist/1e1mzL6ctiNt4hu2oy16Gy
+  url: 'https://open.spotify.com/artist/1e1mzL6ctiNt4hu2oy16Gy'
 status: active
-title: WILLIE SMITH
+title: Willie Smith
+origin: 'Chicago, Illinois, United States'
+birth_date: '1936-01-19'
+death_date: '2011-09-16'
 ---
 
 ![](willie_smith.jpg)

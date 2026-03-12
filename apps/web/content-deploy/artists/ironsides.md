@@ -3,47 +3,49 @@ biography_enhanced_at: '2026-01-09T02:16:03.440424'
 enhancement_provider: perplexity
 entry_created: '2026-01-09T02:16:03.440433'
 external_urls:
-  spotify: https://open.spotify.com/artist/4nzySyLtM3nYbLWVB8gy0U
+  spotify: 'https://open.spotify.com/artist/4nzySyLtM3nYbLWVB8gy0U'
   wikipedia: ''
 genres:
-- retro soul
+  - retro soul
 image_path: 03_Resources/source_material/ArtistPortraits/ironsides.jpg
 last_updated: '2026-01-09T02:16:03.440435'
 musical_connections:
   collaborators:
-  - Kelly Finnigan
-  - Gene Washington
-  - Monophonics
-  - Louis Robert King
-  - James (Jamie) Payne
-  - Dan Ford
-  - Adam Theis
-  - Transistor Sound Studio (house band context)
+    - Kelly Finnigan
+    - Gene Washington
+    - Monophonics
+    - Louis Robert King
+    - James (Jamie) Payne
+    - Dan Ford
+    - Adam Theis
+    - Transistor Sound Studio (house band context)
   influenced:
-  - ''
+    - ''
   mentors:
-  - Don Sebesky
-  - Ron Carter
-  - Freddie Hubbard
-  - David Axelrod
-  - Piero Piccioni and Italian/French film composers
+    - Don Sebesky
+    - Ron Carter
+    - Freddie Hubbard
+    - David Axelrod
+    - Piero Piccioni and Italian/French film composers
 network_extracted: true
-origin: San Francisco Bay Area, California, United States
+origin: 'San Francisco Bay Area, California, United States'
 primary_source: perplexity
 research_sources:
-- https://bigtakeover.com/interviews/interview-the-ironsides
-- https://www.youtube.com/watch?v=K9ASG_15D7I
-- https://thefirenote.com/reviews/the-ironsides-changing-light-album-review/
-- https://www.goldminemag.com/columns/the-tone-of-soul/the-ironsides-changing-light-shines-as-another-colemine-records-success/
-- https://www.coleminerecords.com/collections/the-ironsides
-- https://www.youtube.com/watch?v=FvDfzfNnVfc
+  - 'https://bigtakeover.com/interviews/interview-the-ironsides'
+  - 'https://www.youtube.com/watch?v=K9ASG_15D7I'
+  - 'https://thefirenote.com/reviews/the-ironsides-changing-light-album-review/'
+  - >-
+    https://www.goldminemag.com/columns/the-tone-of-soul/the-ironsides-changing-light-shines-as-another-colemine-records-success/
+  - 'https://www.coleminerecords.com/collections/the-ironsides'
+  - 'https://www.youtube.com/watch?v=FvDfzfNnVfc'
 spotify_data:
   followers: 24451
   id: 4nzySyLtM3nYbLWVB8gy0U
   popularity: 39
-  url: https://open.spotify.com/artist/4nzySyLtM3nYbLWVB8gy0U
+  url: 'https://open.spotify.com/artist/4nzySyLtM3nYbLWVB8gy0U'
 status: active
-title: Ironsides
+title: The Ironsides
+artist_type: person
 ---
 
 ![](ironsides.jpg)

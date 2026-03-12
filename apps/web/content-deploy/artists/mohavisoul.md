@@ -3,44 +3,46 @@ biography_enhanced_at: '2025-12-29T01:11:26.108937'
 enhancement_provider: perplexity
 entry_created: '2025-12-29T01:11:26.108950'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ec65eae0-af7d-45a1-82f8-c56b01024b19
-  spotify: https://open.spotify.com/artist/2gHPEjGbPZuZ3aj1SptkDD
+  musicbrainz: 'https://musicbrainz.org/artist/ec65eae0-af7d-45a1-82f8-c56b01024b19'
+  spotify: 'https://open.spotify.com/artist/2gHPEjGbPZuZ3aj1SptkDD'
   wikipedia: ''
 genres:
-- acoustic folk
-- bluegrass
+  - acoustic folk
+  - bluegrass
 image_path: 03_Resources/source_material/ArtistPortraits/mohavisoul.jpg
 last_updated: '2025-12-29T01:11:26.108952'
 musical_connections:
   collaborators:
-  - Randy Hanson
-  - Mark Miller
-  - Jason Weiss
-  - Dan Sankey
-  - Dan Bostwick
+    - Randy Hanson
+    - Mark Miller
+    - Jason Weiss
+    - Dan Sankey
+    - Dan Bostwick
   influenced: []
   mentors: []
 musicbrainz_id: ec65eae0-af7d-45a1-82f8-c56b01024b19
 network_extracted: true
-origin: San Diego, California, United States
+origin: 'San Diego, California, United States'
 primary_source: perplexity
 research_sources:
-- https://bluegrasstoday.com/california-report-mohavisoul-on-the-san-diego-bluegrass-scene-and-more/
-- https://www.mannequinvanityrecords.com/artist/mohavisoul-2/
-- https://www.prescott.org/mohavisoul8203.html
-- https://artcenter.org/event/hidden-city-sounds-series-mohavisoul/
-- https://californiabluegrass.org/brenda-reviews-mohavisoul-stories-and-memories/
-- https://bluegrassunlimited.com/article/mohavisoul/
-- https://sandiegotroubadour.com/mohavisoul/
-- https://www.mohavisoul.com
+  - >-
+    https://bluegrasstoday.com/california-report-mohavisoul-on-the-san-diego-bluegrass-scene-and-more/
+  - 'https://www.mannequinvanityrecords.com/artist/mohavisoul-2/'
+  - 'https://www.prescott.org/mohavisoul8203.html'
+  - 'https://artcenter.org/event/hidden-city-sounds-series-mohavisoul/'
+  - >-
+    https://californiabluegrass.org/brenda-reviews-mohavisoul-stories-and-memories/
+  - 'https://bluegrassunlimited.com/article/mohavisoul/'
+  - 'https://sandiegotroubadour.com/mohavisoul/'
+  - 'https://www.mohavisoul.com'
 spotify_data:
   followers: 162
   id: 2gHPEjGbPZuZ3aj1SptkDD
   popularity: 1
-  url: https://open.spotify.com/artist/2gHPEjGbPZuZ3aj1SptkDD
+  url: 'https://open.spotify.com/artist/2gHPEjGbPZuZ3aj1SptkDD'
 status: active
-title: MOHAVISOUL
-
+title: Mohavisoul
+artist_type: band
 ---
 
 ![](mohavisoul.jpg)

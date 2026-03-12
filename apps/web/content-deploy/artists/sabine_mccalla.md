@@ -4,13 +4,17 @@ wiki_slug: sabine-mccalla
 schema_version: 2
 artist_type: person
 status: active
-birth_place: New York City, New York, USA (birthplace); New Orleans, Louisiana, USA (current base/origin)
+birth_place: >-
+  New York City, New York, USA (birthplace); New Orleans, Louisiana, USA
+  (current base/origin)
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sabine_mccalla.jpg
   caption: Sabine McCalla
   background: solo_singer
-  origin: New York City, New York, USA (birthplace); New Orleans, Louisiana, USA (current base/origin)
+  origin: >-
+    New York City, New York, USA (birthplace); New Orleans, Louisiana, USA
+    (current base/origin)
 audio_profile:
   tempo_avg: 116.9
   energy_avg: 0.307
@@ -26,51 +30,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sam Doores
-  - Gina Leslie
-  - The Lostines
-  - Eli 'Paperboy' Reed
+    - Sam Doores
+    - Gina Leslie
+    - The Lostines
+    - Eli 'Paperboy' Reed
   influenced: []
   mentors:
-  - Leyla McCalla
-  - Irma Thomas, King Oliver, Howlin’ Wolf, Lonnie Johnson
+    - Leyla McCalla
+    - 'Irma Thomas, King Oliver, Howlin’ Wolf, Lonnie Johnson'
 spotify_data:
   followers: 15385
   id: 7Eo1K9fCpeF4lnvbpVcrWR
   popularity: 36
-  url: https://open.spotify.com/artist/7Eo1K9fCpeF4lnvbpVcrWR
+  url: 'https://open.spotify.com/artist/7Eo1K9fCpeF4lnvbpVcrWR'
 discography_enriched: true
 top_tracks:
-- Save My Soul (Folk)
-- Roads We Wander (Folk)
-- I Went to the Levee (Folk)
-- Today I Started Loving You Again (Down Every Road)
-- Stole My Heart (Folk)
-- Baby, Please Don't Go - Western AF Version (Baby, Please Don't Go (Western AF Version))
-- Anyhow (Folk)
-- Could You Be Love (Could You Be Love)
-- Freedom Is A Constant Struggle (Freedom Is A Constant Struggle)
-- Teach Me to Forget (Down Every Road)
+  - Save My Soul (Folk)
+  - Roads We Wander (Folk)
+  - I Went to the Levee (Folk)
+  - Today I Started Loving You Again (Down Every Road)
+  - Stole My Heart (Folk)
+  - >-
+    Baby, Please Don't Go - Western AF Version (Baby, Please Don't Go (Western
+    AF Version))
+  - Anyhow (Folk)
+  - Could You Be Love (Could You Be Love)
+  - Freedom Is A Constant Struggle (Freedom Is A Constant Struggle)
+  - Teach Me to Forget (Down Every Road)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8e88b8db-c17f-47de-8490-cd79dc323497
-  spotify: https://open.spotify.com/artist/7Eo1K9fCpeF4lnvbpVcrWR
+  musicbrainz: 'https://musicbrainz.org/artist/8e88b8db-c17f-47de-8490-cd79dc323497'
+  spotify: 'https://open.spotify.com/artist/7Eo1K9fCpeF4lnvbpVcrWR'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/sabine_mccalla.jpg
 biography_enhanced_at: '2025-11-12T14:47:10.669083'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://rockandrollglobe.com/soul/watch-sabine-mccalla-shares-two-of-hearts/
-- https://www.btdfoundation.org/sabine-mccalla/
-- https://astudiointhewoods.org/artist/sabine-mccalla/
-- https://www.muzilogwoman.com/post/new-orleans-sabine-mccalla-releases-new-single-co-written-by-dan-auerbach-and-roger-cook
-- https://www.melodicmag.com/news/sabine-mccalla-debuts-enchanting-video-for-sunshine-kisses-ahead-of-new-album-dont-call-me-baby/
-- https://en.wikipedia.org/wiki/Leyla_McCalla
+  - 'https://rockandrollglobe.com/soul/watch-sabine-mccalla-shares-two-of-hearts/'
+  - 'https://www.btdfoundation.org/sabine-mccalla/'
+  - 'https://astudiointhewoods.org/artist/sabine-mccalla/'
+  - >-
+    https://www.muzilogwoman.com/post/new-orleans-sabine-mccalla-releases-new-single-co-written-by-dan-auerbach-and-roger-cook
+  - >-
+    https://www.melodicmag.com/news/sabine-mccalla-debuts-enchanting-video-for-sunshine-kisses-ahead-of-new-album-dont-call-me-baby/
+  - 'https://en.wikipedia.org/wiki/Leyla_McCalla'
 network_extracted: true
 entry_created: '2025-11-12T14:47:10.669094'
 last_updated: '2025-12-23T08:16:15.256340'
 gender: Female
 musicbrainz_id: 8e88b8db-c17f-47de-8490-cd79dc323497
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](sabine_mccalla.jpg)

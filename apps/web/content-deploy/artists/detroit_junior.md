@@ -5,13 +5,13 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1931-10-26'
-birth_place: Haynes
+birth_place: 'Haynes, Arkansas, United States'
 death_date: '2005-08-09'
 genres:
-- blues
+  - blues
 instruments:
-- piano
-- lead vocals
+  - piano
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/detroit_junior.jpg
   caption: Detroit Junior
@@ -34,60 +34,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Howlin’ Wolf
-  - Lurrie Bell
-  - Jimmy Dawkins
-  - Maurice John Vaughn
-  - Sonny Cohn
+    - Howlin’ Wolf
+    - Lurrie Bell
+    - Jimmy Dawkins
+    - Maurice John Vaughn
+    - Sonny Cohn
   influenced:
-  - Later-generation Chicago blues pianists (various)
+    - Later-generation Chicago blues pianists (various)
   mentors:
-  - Eddie Boyd
-  - Big Maceo Merriweather
-  - Little Brother Montgomery
+    - Eddie Boyd
+    - Big Maceo Merriweather
+    - Little Brother Montgomery
 spotify_data:
   followers: 1873
   id: 3ggFb0YCOrTs2juujB4In3
   popularity: 20
-  url: https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3
+  url: 'https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3'
 discography_enriched: true
 top_tracks:
-- I Got Money (Living Chicago Blues, Vol. 4)
-- If I Hadn't Been High (Living Chicago Blues, Vol. 4)
-- Some Nerve (Living Chicago Blues, Vol. 4)
-- Somebody To Shack (Living Chicago Blues, Vol. 4)
-- I Got Money (Funky Blues Bits)
-- Christmas Day (Santa's Funk & Soul Christmas Party)
-- Some Nerve (The Blues Singer)
-- Somebody to Shack (Blues Chill Out)
-- Somebody to Shack (The Ultimate Blues Piano Collection)
-- If I Hadn't Been High (The Alligator Records 20th Anniversary Collection)
+  - 'I Got Money (Living Chicago Blues, Vol. 4)'
+  - 'If I Hadn''t Been High (Living Chicago Blues, Vol. 4)'
+  - 'Some Nerve (Living Chicago Blues, Vol. 4)'
+  - 'Somebody To Shack (Living Chicago Blues, Vol. 4)'
+  - I Got Money (Funky Blues Bits)
+  - Christmas Day (Santa's Funk & Soul Christmas Party)
+  - Some Nerve (The Blues Singer)
+  - Somebody to Shack (Blues Chill Out)
+  - Somebody to Shack (The Ultimate Blues Piano Collection)
+  - If I Hadn't Been High (The Alligator Records 20th Anniversary Collection)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/bc2973e1-be94-41ca-a5b0-7b7a415a5d18
-  spotify: https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3
-  wikipedia: https://en.wikipedia.org/wiki/Detroit_Junior
+  musicbrainz: 'https://musicbrainz.org/artist/bc2973e1-be94-41ca-a5b0-7b7a415a5d18'
+  spotify: 'https://open.spotify.com/artist/3ggFb0YCOrTs2juujB4In3'
+  wikipedia: 'https://en.wikipedia.org/wiki/Detroit_Junior'
 image_path: 03_Resources/source_material/ArtistPortraits/detroit_junior.jpg
 biography_enhanced_at: '2025-12-09T05:13:11.795587'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Detroit_Junior
-- https://www.allmusic.com/artist/detroit-junior-mn0000203625
-- https://www.alligator.com/artists/Detroit-Junior/
-- https://earwigmusic.com/earwig-artists/detroit-junior/
-- https://www.popmatters.com/detroitjr-bluesinternet-2495873767.html
-- https://www.stlblues.net/detroitjr.htm
-- https://www.organissimo.org/forum/topic/21376-blues-pianist-and-vocalist-detroit-junior-dies/
+  - 'https://en.wikipedia.org/wiki/Detroit_Junior'
+  - 'https://www.allmusic.com/artist/detroit-junior-mn0000203625'
+  - 'https://www.alligator.com/artists/Detroit-Junior/'
+  - 'https://earwigmusic.com/earwig-artists/detroit-junior/'
+  - 'https://www.popmatters.com/detroitjr-bluesinternet-2495873767.html'
+  - 'https://www.stlblues.net/detroitjr.htm'
+  - >-
+    https://www.organissimo.org/forum/topic/21376-blues-pianist-and-vocalist-detroit-junior-dies/
 network_extracted: true
 entry_created: '2025-12-09T05:13:11.795593'
 last_updated: '2025-12-23T08:16:07.725081'
 gender: Male
 musicbrainz_id: bc2973e1-be94-41ca-a5b0-7b7a415a5d18
 tags:
-- blues
-- chicago blues
-- piano blues
-
+  - blues
+  - chicago blues
+  - piano blues
+is_active: false
+origin: 'Detroit, Michigan, United States'
 ---
 
 ![](detroit_junior.jpg)

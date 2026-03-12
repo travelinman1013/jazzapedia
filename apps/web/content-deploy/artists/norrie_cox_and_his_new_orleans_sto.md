@@ -3,41 +3,51 @@ biography_enhanced_at: '2026-01-10T01:09:34.590644'
 enhancement_provider: perplexity
 entry_created: '2026-01-10T01:09:34.590651'
 external_urls:
-  spotify: https://open.spotify.com/artist/6IAoIt5M0MSyc4QwQjPGqu
+  spotify: 'https://open.spotify.com/artist/6IAoIt5M0MSyc4QwQjPGqu'
   wikipedia: ''
 genres: []
-image_path: 03_Resources/source_material/ArtistPortraits/norrie_cox_and_his_new_orleans_sto.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/norrie_cox_and_his_new_orleans_sto.jpg
 last_updated: '2026-01-10T01:09:34.590651'
 musical_connections:
   collaborators:
-  - Charlie DeVore
-  - Jim Klippert
-  - Mike Carrell
-  - Bill Evans (not the pianist; listed as bassist or tuba/bass in band credits)
+    - Charlie DeVore
+    - Jim Klippert
+    - Mike Carrell
+    - >-
+      Bill Evans (not the pianist; listed as bassist or tuba/bass in band
+      credits)
   influenced:
-  - Younger traditional jazz musicians in the Midwest and New Orleans revival scenes
+    - >-
+      Younger traditional jazz musicians in the Midwest and New Orleans revival
+      scenes
   mentors:
-  - Louis Armstrong
-  - Early New Orleans jazz musicians (e.g., King Oliver, Jelly Roll Morton, George
-    Lewis)
+    - Louis Armstrong
+    - >-
+      Early New Orleans jazz musicians (e.g., King Oliver, Jelly Roll Morton,
+      George Lewis)
 network_extracted: true
-origin: England, United Kingdom (birthplace); later active in the United States traditional
-  jazz scene
+origin: >-
+  England, United Kingdom (birthplace); later active in the United States
+  traditional jazz scene
 primary_source: perplexity
 research_sources:
-- https://www.sanity.com.au/products/2718334/Live-at-Illiana
-- http://my.execpc.com/~regent/coxnorrie.pdf
-- https://jazzology.com/search.php?itemInfo=on&search=+&label=GHB
-- https://www.grooves-inc.com/norrie-cox-his-new-orleans-stompers-dance-hall-days-delmark-cd-pZZa1-1898399654.html
-- https://www.grooves.land/norrie-cox-his-new-orleans-stompers-move-the-body-over-delmark-cd-pZZa1-2097187066.html
-- https://test.wwoz.org/programs/playlists
+  - 'https://www.sanity.com.au/products/2718334/Live-at-Illiana'
+  - 'http://my.execpc.com/~regent/coxnorrie.pdf'
+  - 'https://jazzology.com/search.php?itemInfo=on&search=+&label=GHB'
+  - >-
+    https://www.grooves-inc.com/norrie-cox-his-new-orleans-stompers-dance-hall-days-delmark-cd-pZZa1-1898399654.html
+  - >-
+    https://www.grooves.land/norrie-cox-his-new-orleans-stompers-move-the-body-over-delmark-cd-pZZa1-2097187066.html
+  - 'https://test.wwoz.org/programs/playlists'
 spotify_data:
   followers: 22
   id: 6IAoIt5M0MSyc4QwQjPGqu
   popularity: 0
-  url: https://open.spotify.com/artist/6IAoIt5M0MSyc4QwQjPGqu
+  url: 'https://open.spotify.com/artist/6IAoIt5M0MSyc4QwQjPGqu'
 status: active
 title: Norrie Cox & His New Orleans Sto
+artist_type: person
 ---
 
 ![](norrie_cox_and_his_new_orleans_sto.jpg)

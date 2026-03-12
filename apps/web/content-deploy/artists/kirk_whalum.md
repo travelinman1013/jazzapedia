@@ -1,25 +1,25 @@
 ---
-title: kirk whalum
+title: Kirk Whalum
 wiki_slug: kirk-whalum
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1958-07-11'
-birth_place: Memphis
+birth_place: 'Memphis, Tennessee, United States'
 genres:
-- smooth jazz
-- jazz
+  - smooth jazz
+  - jazz
 instruments:
-- electric piano
-- background vocals
-- lead vocals
-- vocal
+  - electric piano
+  - background vocals
+  - lead vocals
+  - vocal
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e3fdd870-c5e6-4bb4-8165-ef2ccc663dc5
-  name: BWB
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e3fdd870-c5e6-4bb4-8165-ef2ccc663dc5
+    name: BWB
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/kirk_whalum.jpg
   caption: kirk whalum
@@ -41,55 +41,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bob James
-  - Larry Carlton
-  - Whitney Houston
-  - Luther Vandross
-  - Al Jarreau, Barbra Streisand, Quincy Jones, George Benson
+    - Bob James
+    - Larry Carlton
+    - Whitney Houston
+    - Luther Vandross
+    - 'Al Jarreau, Barbra Streisand, Quincy Jones, George Benson'
   influenced:
-  - Kyle Whalum
+    - Kyle Whalum
   mentors:
-  - Arnett Cobb
+    - Arnett Cobb
 spotify_data:
   followers: 88703
   id: 6v2VjBVPcGVbBqJrUWYiG1
   popularity: 47
-  url: https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1
+  url: 'https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1'
 discography_enriched: true
 top_tracks:
-- Any Love
-- Now 'Til Forever (Unconditional)
-- Lover For Life (For You)
-- Ascension (For You)
-- All I Do (For You)
-- If Only For One Night (Colors)
-- Love Is A Losing Game
-- I Wouldn't Be a Man
-- That's The Way Love Goes (For You)
-- Do You Feel Me (Into My Soul)
+  - Any Love
+  - Now 'Til Forever (Unconditional)
+  - Lover For Life (For You)
+  - Ascension (For You)
+  - All I Do (For You)
+  - If Only For One Night (Colors)
+  - Love Is A Losing Game
+  - I Wouldn't Be a Man
+  - That's The Way Love Goes (For You)
+  - Do You Feel Me (Into My Soul)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/adb405f2-f5c3-442b-b12d-01ebc488f688
-  spotify: https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1
-  wikipedia: https://en.wikipedia.org/wiki/Kirk_Whalum
+  musicbrainz: 'https://musicbrainz.org/artist/adb405f2-f5c3-442b-b12d-01ebc488f688'
+  spotify: 'https://open.spotify.com/artist/6v2VjBVPcGVbBqJrUWYiG1'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kirk_Whalum'
 image_path: 03_Resources/source_material/ArtistPortraits/kirk_whalum.jpg
 biography_enhanced_at: '2025-11-14T11:09:36.259870'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.allaboutjazz.com/musicians/kirk-whalum/
-- https://memphismusichalloffame.com/inductee/kirkwhalum/
-- https://jazztimes.com/features/profiles/kirk-whalum-soul-comes-home/
-- https://kirkwhalum.com/pages/about
-- https://www.allmusic.com/artist/kirk-whalum-mn0000101795
+  - 'https://www.allaboutjazz.com/musicians/kirk-whalum/'
+  - 'https://memphismusichalloffame.com/inductee/kirkwhalum/'
+  - 'https://jazztimes.com/features/profiles/kirk-whalum-soul-comes-home/'
+  - 'https://kirkwhalum.com/pages/about'
+  - 'https://www.allmusic.com/artist/kirk-whalum-mn0000101795'
 network_extracted: true
 entry_created: '2025-11-14T11:09:36.259881'
 last_updated: '2025-12-23T08:16:11.440310'
 gender: Male
 musicbrainz_id: adb405f2-f5c3-442b-b12d-01ebc488f688
 tags:
-- contemporary jazz
-- gospel
-- jazz
+  - contemporary jazz
+  - gospel
+  - jazz
+origin: 'Houston, Texas, United States'
 ---
 
 ![](kirk_whalum.jpg)

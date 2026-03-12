@@ -5,19 +5,19 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1949-04-19'
-birth_place: Trenchtown
+birth_place: 'Trenchtown, Kingston, Jamaica'
 genres:
-- roots reggae
-- rocksteady
-- reggae
+  - roots reggae
+  - rocksteady
+  - reggae
 instruments:
-- lead vocals
+  - lead vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b698db3f-8a13-4e62-9e63-adcdc3841142
-  name: Upper Cut Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b698db3f-8a13-4e62-9e63-adcdc3841142
+    name: Upper Cut Band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/big_youth.jpg
   caption: Big Youth
@@ -39,44 +39,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Gussie Clarke
-  - Soul Syndicate
-  - U-Roy
-  - Yabby You
+    - Gussie Clarke
+    - Soul Syndicate
+    - U-Roy
+    - Yabby You
   influenced:
-  - Trinity
-  - Clint Eastwood
-  - American rappers
+    - Trinity
+    - Clint Eastwood
+    - American rappers
   mentors:
-  - U-Roy
+    - U-Roy
 spotify_data:
   followers: 45
   id: 1ujCQu2qOwxzBdXoTx2Cri
   popularity: 2
-  url: https://open.spotify.com/artist/1ujCQu2qOwxzBdXoTx2Cri
+  url: 'https://open.spotify.com/artist/1ujCQu2qOwxzBdXoTx2Cri'
 discography_enriched: true
 top_tracks:
-- 'Whole Lot Of Fire (Reggae Anthology: Niney The Observer - Roots With Quality)'
+  - >-
+    Whole Lot Of Fire (Reggae Anthology: Niney The Observer - Roots With
+    Quality)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6e4cbcf5-1b18-4719-98c2-7a2c9eccaa6d
-  spotify: https://open.spotify.com/artist/1ujCQu2qOwxzBdXoTx2Cri
-  wikipedia: https://en.wikipedia.org/wiki/Big_Youth
+  musicbrainz: 'https://musicbrainz.org/artist/6e4cbcf5-1b18-4719-98c2-7a2c9eccaa6d'
+  spotify: 'https://open.spotify.com/artist/1ujCQu2qOwxzBdXoTx2Cri'
+  wikipedia: 'https://en.wikipedia.org/wiki/Big_Youth'
 image_path: ''
 biography_enhanced_at: '2025-10-27T02:46:37.945807'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Big_Youth
-- https://www.last.fm/music/Big+Youth/+wiki
-- https://www.theclanbuchanan.com/big-youth
+  - 'https://en.wikipedia.org/wiki/Big_Youth'
+  - 'https://www.last.fm/music/Big+Youth/+wiki'
+  - 'https://www.theclanbuchanan.com/big-youth'
 network_extracted: true
 entry_created: '2025-10-27T02:46:37.945826'
 last_updated: '2025-12-23T08:16:05.487048'
 gender: Male
 musicbrainz_id: 6e4cbcf5-1b18-4719-98c2-7a2c9eccaa6d
 tags:
-- classic pop and rock
-- jamaican
+  - classic pop and rock
+  - jamaican
+origin: 'Kingston, Jamaica'
 ---
 
 ![]()

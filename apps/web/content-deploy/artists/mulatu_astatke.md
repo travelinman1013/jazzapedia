@@ -3,16 +3,16 @@ title: Mulatu Astatke
 wiki_slug: mulatu-astatke
 schema_version: 2
 status: active
-birth_place: Jimma, Oromia Region, Ethiopia
+birth_place: 'Jimma, Oromia Region, Ethiopia'
 genres:
-- ethiopian jazz
+  - ethiopian jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/mulatu_astatke.jpg
   caption: Mulatu Astatke
   background: solo_singer
-  origin: Jimma, Oromia Region, Ethiopia
+  origin: 'Jimma, Oromia Region, Ethiopia'
 audio_profile:
-  tempo_avg: 119.0
+  tempo_avg: 119
   energy_avg: 0.532
   valence_avg: 0.627
   danceability_avg: 0.562
@@ -26,48 +26,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mahmoud Ahmed
-  - Duke Ellington
-  - Alexander Hawkins
+    - Mahmoud Ahmed
+    - Duke Ellington
+    - Alexander Hawkins
   influenced:
-  - Ethiopian jazz musicians (general)
-  - Hip-hop artists (international)
+    - Ethiopian jazz musicians (general)
+    - Hip-hop artists (international)
   mentors:
-  - Berklee College of Music faculty
+    - Berklee College of Music faculty
 spotify_data:
   followers: 297550
   id: 7HGFXtBhRq3g1Ma3nH4Rgv
   popularity: 52
-  url: https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv
+  url: 'https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv'
 discography_enriched: true
 top_tracks:
-- 'Tezeta (New York - Addis - London: The Story of Ethio Jazz 1965-1975)'
-- 'Yègellé Tezeta (New York - Addis - London: The Story of Ethio Jazz 1965-1975)'
-- Tezeta (Nostalgia)
-- 'Yèkèrmo Sèw (New York - Addis - London: The Story of Ethio Jazz 1965-1975)'
-- Mascaram Setaba - Stereo Master (Mulatu Of Ethiopia)
-- 'Ené Alantchie Alnorem (New York - Addis - London: The Story of Ethio Jazz 1965-1975)'
-- Kasalefkut-hulu - Stereo Master (Mulatu Of Ethiopia)
-- Cha Cha (Inspiration Information 3)
-- Munayé (My Muna)
-- 'Emnete (New York - Addis - London: The Story of Ethio Jazz 1965-1975)'
+  - 'Tezeta (New York - Addis - London: The Story of Ethio Jazz 1965-1975)'
+  - >-
+    Yègellé Tezeta (New York - Addis - London: The Story of Ethio Jazz
+    1965-1975)
+  - Tezeta (Nostalgia)
+  - 'Yèkèrmo Sèw (New York - Addis - London: The Story of Ethio Jazz 1965-1975)'
+  - Mascaram Setaba - Stereo Master (Mulatu Of Ethiopia)
+  - >-
+    Ené Alantchie Alnorem (New York - Addis - London: The Story of Ethio Jazz
+    1965-1975)
+  - Kasalefkut-hulu - Stereo Master (Mulatu Of Ethiopia)
+  - Cha Cha (Inspiration Information 3)
+  - Munayé (My Muna)
+  - 'Emnete (New York - Addis - London: The Story of Ethio Jazz 1965-1975)'
 external_urls:
-  spotify: https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv
-  wikipedia: https://en.wikipedia.org/wiki/Mulatu_Astatke
+  spotify: 'https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mulatu_Astatke'
 image_path: 03_Resources/source_material/ArtistPortraits/mulatu_astatke.jpg
 biography_enhanced_at: '2025-11-14T10:32:21.662175'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Mulatu_Astatke
-- https://africasacountry.com/2013/10/mulatu-astatkes-sketches-of-ethiopia
-- https://emerged-agency.com/portfolio/mulatu-astatke
-- https://dash.harvard.edu/bitstreams/7312037e-7fe3-6bd4-e053-0100007fdf3b/download
-- https://www.laphil.com/musicdb/artists/9328/mulatu-astatke
-- https://www.songlines.co.uk/artists/mulatu-astatke
+  - 'https://en.wikipedia.org/wiki/Mulatu_Astatke'
+  - 'https://africasacountry.com/2013/10/mulatu-astatkes-sketches-of-ethiopia'
+  - 'https://emerged-agency.com/portfolio/mulatu-astatke'
+  - >-
+    https://dash.harvard.edu/bitstreams/7312037e-7fe3-6bd4-e053-0100007fdf3b/download
+  - 'https://www.laphil.com/musicdb/artists/9328/mulatu-astatke'
+  - 'https://www.songlines.co.uk/artists/mulatu-astatke'
 network_extracted: true
 entry_created: '2025-11-14T10:32:21.662188'
 last_updated: '2025-12-23T08:16:13.357715'
+birth_date: '1943-12-19'
+artist_type: person
 ---
 
 ![](mulatu_astatke.jpg)

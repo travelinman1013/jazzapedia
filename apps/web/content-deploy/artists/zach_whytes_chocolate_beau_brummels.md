@@ -1,12 +1,13 @@
 ---
-title: ZACH WHYTE'S CHOCOLATE BEAU BRUMMELS
+title: Zach Whyte's Chocolate Beau Brummels
 wiki_slug: zach-whytes-chocolate-beau-brummels
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/zach_whytes_chocolate_beau_brummels.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/zach_whytes_chocolate_beau_brummels.jpg
   caption: ZACH WHYTE'S CHOCOLATE BEAU BRUMMELS
   background: group_or_band
 audio_profile:
@@ -24,42 +25,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Members of Zack Whyte’s Cincinnati-based bands
-  - Gennett Records (Richmond, Indiana)
+    - Members of Zack Whyte’s Cincinnati-based bands
+    - 'Gennett Records (Richmond, Indiana)'
   influenced:
-  - Later jazz historians and traditional jazz revivalists
+    - Later jazz historians and traditional jazz revivalists
   mentors:
-  - Horace Henderson
+    - Horace Henderson
 spotify_data:
   followers: 0
   id: 2AVUBW68cTnNO0FE8SIdtB
   popularity: 0
-  url: https://open.spotify.com/artist/2AVUBW68cTnNO0FE8SIdtB
+  url: 'https://open.spotify.com/artist/2AVUBW68cTnNO0FE8SIdtB'
 discography_enriched: true
 top_tracks:
-- Mandy (A Taste of 1929)
+  - Mandy (A Taste of 1929)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/524c63b1-1767-4a5a-82f5-20d629c04d81
-  spotify: https://open.spotify.com/artist/2AVUBW68cTnNO0FE8SIdtB
-  wikipedia: https://en.wikipedia.org/wiki/Zack_Whyte
+  musicbrainz: 'https://musicbrainz.org/artist/524c63b1-1767-4a5a-82f5-20d629c04d81'
+  spotify: 'https://open.spotify.com/artist/2AVUBW68cTnNO0FE8SIdtB'
+  wikipedia: 'https://en.wikipedia.org/wiki/Zack_Whyte'
 image_path: ''
 biography_enhanced_at: '2025-12-11T03:49:14.417253'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Old Time Blues – profile on Zack Whyte and formation of the Chocolate Beau Brummels[1]
-- AllMusic – artist overview of Zack Whyte and his territory band leadership[2]
-- Gennett Records history blog – January 22, 1929 session by Zack Whyte’s Chocolate Beau Brummels recording “Mandy”[3]
-- Wikipedia – biography of Zack Whyte, including Wilberforce University background and bandleading career[4]
-- National Jazz Archive – Storyville article continuing a detailed biography of Zack Whyte[5]
-- Smithsonian National Museum of American History – catalog entry for a poster advertising Zach Whyte and his Chocolate Beau
-  Brummels from the Duncan Schiedt Jazz Collection[6]
-- Jazz Lives blog – discussion of Zach Whyte’s Chocolate Beau Brummels in the context of early jazz appreciation and revival[7]
+  - >-
+    Old Time Blues – profile on Zack Whyte and formation of the Chocolate Beau
+    Brummels[1]
+  - >-
+    AllMusic – artist overview of Zack Whyte and his territory band
+    leadership[2]
+  - >-
+    Gennett Records history blog – January 22, 1929 session by Zack Whyte’s
+    Chocolate Beau Brummels recording “Mandy”[3]
+  - >-
+    Wikipedia – biography of Zack Whyte, including Wilberforce University
+    background and bandleading career[4]
+  - >-
+    National Jazz Archive – Storyville article continuing a detailed biography
+    of Zack Whyte[5]
+  - >-
+    Smithsonian National Museum of American History – catalog entry for a poster
+    advertising Zach Whyte and his Chocolate Beau Brummels from the Duncan
+    Schiedt Jazz Collection[6]
+  - >-
+    Jazz Lives blog – discussion of Zach Whyte’s Chocolate Beau Brummels in the
+    context of early jazz appreciation and revival[7]
 network_extracted: true
 entry_created: '2025-12-11T03:49:14.417267'
 last_updated: '2025-12-23T08:16:18.400023'
 musicbrainz_id: 524c63b1-1767-4a5a-82f5-20d629c04d81
-origin: Cincinnati, Ohio, United States
+origin: 'Cincinnati, Ohio, United States'
+birth_place: 'Richmond, Kentucky, United States'
 ---
 
 ![]()

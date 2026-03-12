@@ -1,32 +1,32 @@
 ---
-title: hank williams
+title: Hank Williams
 wiki_slug: hank-williams
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1923-09-17'
-birth_place: Mount Olive
+birth_place: 'Mount Olive, Alabama, United States'
 death_date: '1953-01-01'
 genres:
-- country
-- honky tonk
-- country rock
-- southern rock
+  - country
+  - honky tonk
+  - country rock
+  - southern rock
 instruments:
-- guitar
-- vocal
-- lead vocals
+  - guitar
+  - vocal
+  - lead vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6aad1485-862b-42d4-ac7e-cfab197214d0
-  name: Hank Williams With His Drifting Cowboys
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a44fd37d-8621-48fc-894c-7763f445a181
-  name: Three Hanks
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6aad1485-862b-42d4-ac7e-cfab197214d0
+    name: Hank Williams With His Drifting Cowboys
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a44fd37d-8621-48fc-894c-7763f445a181
+    name: Three Hanks
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/hank_williams.jpg
   caption: hank williams
@@ -41,7 +41,7 @@ audio_profile:
   danceability_avg: 0.632
   acousticness_avg: 0.228
   instrumentalness_avg: 0.001
-  loudness_avg: -10.0
+  loudness_avg: -10
   speechiness_avg: 0.042
   liveness_avg: 0.162
   track_count: 54
@@ -49,48 +49,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Drifting Cowboys
-  - Fred Rose
-  - Audrey Williams
+    - The Drifting Cowboys
+    - Fred Rose
+    - Audrey Williams
   influenced:
-  - Elvis Presley
-  - Johnny Cash
-  - Bob Dylan
-  - Waylon Jennings
-  - The Rolling Stones
+    - Elvis Presley
+    - Johnny Cash
+    - Bob Dylan
+    - Waylon Jennings
+    - The Rolling Stones
   mentors:
-  - Rufus 'Tee Tot' Payne
-  - Roy Acuff
-  - Jimmie Rodgers
+    - Rufus 'Tee Tot' Payne
+    - Roy Acuff
+    - Jimmie Rodgers
 spotify_data:
   followers: 1900150
   id: 2dyeCWctcFRt3Pha76ONgb
   popularity: 66
-  url: https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb
+  url: 'https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb'
 discography_enriched: true
 top_tracks:
-- Family Tradition (Family Tradition)
-- Dinosaur (Habits Old And New)
-- I've Got Rights (Family Tradition)
-- A Country Boy Can Survive (The Pressure Is On)
-- Weatherman (The Pressure Is On)
-- Whiskey Bent And Hell Bound (Whiskey Bent And Hell Bound)
-- Finer Things (Feat. Hank Williams Jr.) (F-1 Trillion)
-- If Heaven Ain't A Lot Like Dixie (High Notes)
-- Outlaw Women (Whiskey Bent And Hell Bound)
-- All My Rowdy Friends (Have Settled Down) (The Pressure Is On)
+  - Family Tradition (Family Tradition)
+  - Dinosaur (Habits Old And New)
+  - I've Got Rights (Family Tradition)
+  - A Country Boy Can Survive (The Pressure Is On)
+  - Weatherman (The Pressure Is On)
+  - Whiskey Bent And Hell Bound (Whiskey Bent And Hell Bound)
+  - Finer Things (Feat. Hank Williams Jr.) (F-1 Trillion)
+  - If Heaven Ain't A Lot Like Dixie (High Notes)
+  - Outlaw Women (Whiskey Bent And Hell Bound)
+  - All My Rowdy Friends (Have Settled Down) (The Pressure Is On)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/906bddec-bc73-49f8-ac1e-eaee691c6cf9
-  spotify: https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb
-  wikipedia: https://en.wikipedia.org/wiki/Hank_Williams
+  musicbrainz: 'https://musicbrainz.org/artist/906bddec-bc73-49f8-ac1e-eaee691c6cf9'
+  spotify: 'https://open.spotify.com/artist/2dyeCWctcFRt3Pha76ONgb'
+  wikipedia: 'https://en.wikipedia.org/wiki/Hank_Williams'
 image_path: 03_Resources/source_material/ArtistPortraits/hank_williams.jpg
 biography_enhanced_at: '2025-10-22T09:29:42.104032'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Hank_Williams
-- https://encyclopediaofalabama.org/article/hank-williams-sr/
-- https://www.biography.com/musicians/hank-williams
+  - 'https://en.wikipedia.org/wiki/Hank_Williams'
+  - 'https://encyclopediaofalabama.org/article/hank-williams-sr/'
+  - 'https://www.biography.com/musicians/hank-williams'
 network_extracted: true
 entry_created: '2025-10-22T09:29:42.104043'
 last_updated: '2025-12-23T08:16:09.496355'
@@ -98,10 +98,11 @@ disambiguation: country music legend
 gender: Male
 musicbrainz_id: 906bddec-bc73-49f8-ac1e-eaee691c6cf9
 tags:
-- blues
-- classic country
-- country
-
+  - blues
+  - classic country
+  - country
+is_active: false
+origin: 'Montgomery, Alabama, United States'
 ---
 
 ![](hank_williams.jpg)

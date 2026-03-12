@@ -3,13 +3,13 @@ title: Charmaine Neville
 wiki_slug: charmaine-neville
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/charmaine_neville.jpg
   caption: Charmaine Neville
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 130.8
   energy_avg: 0.418
@@ -25,53 +25,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Neville Brothers
-  - The Survivors (with Ramsay McLean)
-  - Amasa Miller
-  - Reggie Houston – Amasa Miller Trio
-  - Various New Orleans and national artists (compilations)
-  - Television and media producers (e.g., *Touched by an Angel*, Motown special, WGBH Radio Boston)
+    - The Neville Brothers
+    - The Survivors (with Ramsay McLean)
+    - Amasa Miller
+    - Reggie Houston – Amasa Miller Trio
+    - Various New Orleans and national artists (compilations)
+    - >-
+      Television and media producers (e.g., *Touched by an Angel*, Motown
+      special, WGBH Radio Boston)
   influenced:
-  - Younger New Orleans musicians (various, not individually documented)
+    - 'Younger New Orleans musicians (various, not individually documented)'
   mentors:
-  - Charles Neville
-  - Older New Orleans musicians (various "older gentlemen")
-  - Unnamed high school English teacher
+    - Charles Neville
+    - Older New Orleans musicians (various "older gentlemen")
+    - Unnamed high school English teacher
 spotify_data:
   followers: 138
   id: 7AgVqoEfh11H0JDdi0YKw1
   popularity: 7
-  url: https://open.spotify.com/artist/7AgVqoEfh11H0JDdi0YKw1
+  url: 'https://open.spotify.com/artist/7AgVqoEfh11H0JDdi0YKw1'
 discography_enriched: true
 top_tracks:
-- Christmas Comes But Once a Year (Christmas In New Orleans)
-- High and Mighty (New Prohibition, The Musical History of Hemp)
-- High and Mighty (New Prohibition)
-- It Ain't My Fault (Her Name Is New Orleans)
-- Sweet Summertime (Fireflies)
-- S'mores (Fireflies)
-- Santa Baby (Christmas In New Orleans)
-- Merry Christmas Baby (Christmas In New Orleans)
-- El Manisero / The Peanut Vendor - Pregón (Latin Party! In New Orleans)
-- Drink Jax Beer (City Of Dreams - A Collection Of New Orleans Music)
+  - Christmas Comes But Once a Year (Christmas In New Orleans)
+  - 'High and Mighty (New Prohibition, The Musical History of Hemp)'
+  - High and Mighty (New Prohibition)
+  - It Ain't My Fault (Her Name Is New Orleans)
+  - Sweet Summertime (Fireflies)
+  - S'mores (Fireflies)
+  - Santa Baby (Christmas In New Orleans)
+  - Merry Christmas Baby (Christmas In New Orleans)
+  - El Manisero / The Peanut Vendor - Pregón (Latin Party! In New Orleans)
+  - Drink Jax Beer (City Of Dreams - A Collection Of New Orleans Music)
 external_urls:
-  spotify: https://open.spotify.com/artist/7AgVqoEfh11H0JDdi0YKw1
-  wikipedia: https://en.wikipedia.org/wiki/Charmaine_Neville
+  spotify: 'https://open.spotify.com/artist/7AgVqoEfh11H0JDdi0YKw1'
+  wikipedia: 'https://en.wikipedia.org/wiki/Charmaine_Neville'
 image_path: ''
 biography_enhanced_at: '2025-12-19T01:43:31.339509'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://kids.kiddle.co/Charmaine_Neville
-- https://mistergsongs.com/profile/charmaine-neville/
-- https://www.thesexismproject.com/charmaine-neville
-- https://www.thenevillehouse.com/charmaine-neville
-- https://www.charmainenevilleband.com/biography.html
-- https://www.neworleans.com/listing/charmaine-neville/47823/
-- https://en.wikipedia.org/wiki/Charmaine_Neville
+  - 'https://kids.kiddle.co/Charmaine_Neville'
+  - 'https://mistergsongs.com/profile/charmaine-neville/'
+  - 'https://www.thesexismproject.com/charmaine-neville'
+  - 'https://www.thenevillehouse.com/charmaine-neville'
+  - 'https://www.charmainenevilleband.com/biography.html'
+  - 'https://www.neworleans.com/listing/charmaine-neville/47823/'
+  - 'https://en.wikipedia.org/wiki/Charmaine_Neville'
 network_extracted: true
 entry_created: '2025-12-19T01:43:31.339534'
 last_updated: '2025-12-23T08:16:06.783169'
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1956-03-31'
+artist_type: person
 ---
 
 ![]()

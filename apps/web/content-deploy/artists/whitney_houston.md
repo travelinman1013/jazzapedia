@@ -5,12 +5,12 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1963-08-09'
-birth_place: Newark
+birth_place: 'Newark, New Jersey, United States'
 death_date: '2012-02-11'
 genres: []
 instruments:
-- background vocals
-- lead vocals
+  - background vocals
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/whitney_houston.jpg
   caption: Whitney Houston
@@ -33,60 +33,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kevin Costner
-  - David Foster
-  - Babyface
+    - Kevin Costner
+    - David Foster
+    - Babyface
   influenced:
-  - Mariah Carey
-  - Christina Aguilera
-  - Beyoncé
+    - Mariah Carey
+    - Christina Aguilera
+    - Beyoncé
   mentors:
-  - Cissy Houston
-  - Clive Davis
+    - Cissy Houston
+    - Clive Davis
 spotify_data:
   followers: 11675096
   id: 6XpaIBNiVzIetEPCWDvAFP
   popularity: 77
-  url: https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP
+  url: 'https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP'
 discography_enriched: true
 top_tracks:
-- I Wanna Dance with Somebody (Who Loves Me) (Whitney)
-- I Will Always Love You (The Bodyguard - Original Soundtrack Album)
-- Higher Love (Golden Hour)
-- I Have Nothing (The Bodyguard - Original Soundtrack Album)
-- How Will I Know (Whitney Houston)
-- Higher Love
-- Saving All My Love for You (Whitney Houston)
-- Greatest Love of All (Whitney Houston)
-- It's Not Right But It's Okay
-- My Love Is Your Love (My Love Is Your Love)
+  - I Wanna Dance with Somebody (Who Loves Me) (Whitney)
+  - I Will Always Love You (The Bodyguard - Original Soundtrack Album)
+  - Higher Love (Golden Hour)
+  - I Have Nothing (The Bodyguard - Original Soundtrack Album)
+  - How Will I Know (Whitney Houston)
+  - Higher Love
+  - Saving All My Love for You (Whitney Houston)
+  - Greatest Love of All (Whitney Houston)
+  - It's Not Right But It's Okay
+  - My Love Is Your Love (My Love Is Your Love)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/0307edfc-437c-4b48-8700-80680e66a228
-  spotify: https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP
-  wikipedia: https://en.wikipedia.org/wiki/Whitney_Houston
+  musicbrainz: 'https://musicbrainz.org/artist/0307edfc-437c-4b48-8700-80680e66a228'
+  spotify: 'https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP'
+  wikipedia: 'https://en.wikipedia.org/wiki/Whitney_Houston'
 image_path: 03_Resources/source_material/ArtistPortraits/whitney_houston.jpg
 biography_enhanced_at: '2025-11-26T07:38:29.350729'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Whitney_Houston
-- https://www.whitneyhouston.com/biography/
-- https://www.britannica.com/biography/Whitney-Houston
-- https://www.songhall.org/profiles/whitney-houston
-- https://blackpast.org/african-american-history/houston-whitney-1964-2012/
-- https://www.ebsco.com/research-starters/biography/whitney-houston
-- https://njhalloffame.org/hall-of-famers/2013-inductees/whitney-houston/
-- https://en.wikipedia.org/wiki/List_of_Whitney_Houston_records_and_achievements
-- https://www.whitneyhouston.com/awards/
+  - 'https://en.wikipedia.org/wiki/Whitney_Houston'
+  - 'https://www.whitneyhouston.com/biography/'
+  - 'https://www.britannica.com/biography/Whitney-Houston'
+  - 'https://www.songhall.org/profiles/whitney-houston'
+  - 'https://blackpast.org/african-american-history/houston-whitney-1964-2012/'
+  - 'https://www.ebsco.com/research-starters/biography/whitney-houston'
+  - 'https://njhalloffame.org/hall-of-famers/2013-inductees/whitney-houston/'
+  - >-
+    https://en.wikipedia.org/wiki/List_of_Whitney_Houston_records_and_achievements
+  - 'https://www.whitneyhouston.com/awards/'
 network_extracted: true
 entry_created: '2025-11-26T07:38:29.350740'
 last_updated: '2025-12-23T08:16:18.113137'
 gender: Female
 musicbrainz_id: 0307edfc-437c-4b48-8700-80680e66a228
 tags:
-- adult contemporary
-- contemporary r&b
-- dance-pop
+  - adult contemporary
+  - contemporary r&b
+  - dance-pop
+is_active: false
 ---
 
 ![](whitney_houston.jpg)

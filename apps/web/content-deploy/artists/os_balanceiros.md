@@ -25,23 +25,25 @@ spotify_data:
   followers: 2
   id: 0KJ0u0QCRPA8wqaDhAP2xv
   popularity: 0
-  url: https://open.spotify.com/artist/0KJ0u0QCRPA8wqaDhAP2xv
+  url: 'https://open.spotify.com/artist/0KJ0u0QCRPA8wqaDhAP2xv'
 discography_enriched: false
 external_urls:
-  spotify: https://open.spotify.com/artist/0KJ0u0QCRPA8wqaDhAP2xv
+  spotify: 'https://open.spotify.com/artist/0KJ0u0QCRPA8wqaDhAP2xv'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/os_balanceiros.jpg
 biography_enhanced_at: '2025-12-21T01:28:17.034425'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.wwoz.org/programs/playlists
-- https://artigos-biograficos.fandom.com/pt-br/wiki/Forr%C3%B3_Balancear
-- https://www.locomotivaazul.pt/en/juliana-linhares-impactful-performative-and-powerful-brazilian-singer-songwriter-and-actress/
-- https://www.womex.com/virtual/locomotiva_azul/news/juliana_linhares_and
+  - 'https://www.wwoz.org/programs/playlists'
+  - 'https://artigos-biograficos.fandom.com/pt-br/wiki/Forr%C3%B3_Balancear'
+  - >-
+    https://www.locomotivaazul.pt/en/juliana-linhares-impactful-performative-and-powerful-brazilian-singer-songwriter-and-actress/
+  - 'https://www.womex.com/virtual/locomotiva_azul/news/juliana_linhares_and'
 network_extracted: true
 entry_created: '2025-12-21T01:28:17.034429'
 last_updated: '2025-12-23T08:07:40.685575'
+artist_type: band
 ---
 
 ![](os_balanceiros.jpg)

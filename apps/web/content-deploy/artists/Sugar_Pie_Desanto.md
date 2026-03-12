@@ -1,20 +1,20 @@
 ---
-title: SUGAR PIE DESANTO
+title: Sugar Pie Desanto
 wiki_slug: sugar-pie-desanto
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1935-10-16'
-birth_place: Brooklyn, New York, United States
+birth_place: 'Brooklyn, New York, United States'
 death_date: '2024-12-20'
 genres:
-- northern soul
+  - northern soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/SUGAR_PIE_DESANTO.jpg
   caption: SUGAR PIE DESANTO
   background: solo_singer
   born: '1935-10-16'
-  origin: Brooklyn, New York, United States
+  origin: 'Brooklyn, New York, United States'
   died: '2024-12-20'
 audio_profile:
   tempo_avg: 122.6
@@ -31,50 +31,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Pee Wee Kingsley (Alvin Parham)
-  - Etta James
-  - James Brown
-  - Bob Geddins
-  - Shena DeMell
+    - Pee Wee Kingsley (Alvin Parham)
+    - Etta James
+    - James Brown
+    - Bob Geddins
+    - Shena DeMell
   influenced:
-  - Billy Stewart
-  - Fontella Bass
-  - Little Milton
-  - Minnie Riperton
-  - The Whispers
-  - The Dells
+    - Billy Stewart
+    - Fontella Bass
+    - Little Milton
+    - Minnie Riperton
+    - The Whispers
+    - The Dells
   mentors:
-  - Johnny Otis
+    - Johnny Otis
 spotify_data:
   followers: 29691
   id: 3xIkJAnwLy7NwZpPwvaSPc
   popularity: 36
-  url: https://open.spotify.com/artist/3xIkJAnwLy7NwZpPwvaSPc
+  url: 'https://open.spotify.com/artist/3xIkJAnwLy7NwZpPwvaSPc'
 discography_enriched: true
 top_tracks:
-- 'Soulful Dress (In The Basement: The Chess Recordings)'
-- 'Going Back To Where I Belong (In The Basement: The Chess Recordings)'
-- 'Slip-In Mules (In The Basement: The Chess Recordings)'
-- 'In The Basement - Pt. 1 (Heart & Soul: A Retrospective)'
-- Strange Feeling (Love so Strong)
-- 'Do I Make Myself Clear (In The Basement: The Chess Recordings)'
-- 'Can''t Let You Go (In The Basement: The Chess Recordings)'
-- 'It''s Done And Forgotten (In The Basement: The Chess Recordings)'
-- 'I Want To Know (In The Basement: The Chess Recordings)'
-- 'Use What You Got (In The Basement: The Chess Recordings)'
+  - 'Soulful Dress (In The Basement: The Chess Recordings)'
+  - 'Going Back To Where I Belong (In The Basement: The Chess Recordings)'
+  - 'Slip-In Mules (In The Basement: The Chess Recordings)'
+  - 'In The Basement - Pt. 1 (Heart & Soul: A Retrospective)'
+  - Strange Feeling (Love so Strong)
+  - 'Do I Make Myself Clear (In The Basement: The Chess Recordings)'
+  - 'Can''t Let You Go (In The Basement: The Chess Recordings)'
+  - 'It''s Done And Forgotten (In The Basement: The Chess Recordings)'
+  - 'I Want To Know (In The Basement: The Chess Recordings)'
+  - 'Use What You Got (In The Basement: The Chess Recordings)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f9659f26-1534-4b72-8e67-fc74adc36f72
-  spotify: https://open.spotify.com/artist/3xIkJAnwLy7NwZpPwvaSPc
-  wikipedia: https://en.wikipedia.org/wiki/Sugar_Pie_DeSanto
+  musicbrainz: 'https://musicbrainz.org/artist/f9659f26-1534-4b72-8e67-fc74adc36f72'
+  spotify: 'https://open.spotify.com/artist/3xIkJAnwLy7NwZpPwvaSPc'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sugar_Pie_DeSanto'
 image_path: 03_Resources/source_material/ArtistPortraits/SUGAR_PIE_DESANTO.jpg
 biography_enhanced_at: '2025-10-21T06:57:01.510494'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Sugar_Pie_DeSanto
-- https://blues.org/blues_hof_inductee/sugar-pie-desanto/
-- https://www.udiscovermusic.com/stories/sugar-pie-desanto-i-want-to-know-song/
-- https://www.sfjazz.org/onthecorner/five-things-sugar-pie-desanto/
+  - 'https://en.wikipedia.org/wiki/Sugar_Pie_DeSanto'
+  - 'https://blues.org/blues_hof_inductee/sugar-pie-desanto/'
+  - >-
+    https://www.udiscovermusic.com/stories/sugar-pie-desanto-i-want-to-know-song/
+  - 'https://www.sfjazz.org/onthecorner/five-things-sugar-pie-desanto/'
 network_extracted: true
 entry_created: '2025-10-21T06:57:01.510509'
 last_updated: '2025-12-23T08:16:03.959842'
@@ -82,9 +83,10 @@ gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:44:23.483050'
 musicbrainz_id: f9659f26-1534-4b72-8e67-fc74adc36f72
 tags:
-- 2008 universal fire victim
-- r&b
-- soul
+  - 2008 universal fire victim
+  - r&b
+  - soul
+is_active: false
 ---
 
 ![](SUGAR_PIE_DESANTO.jpg)

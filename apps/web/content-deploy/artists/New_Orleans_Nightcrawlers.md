@@ -1,14 +1,14 @@
 ---
-title: New Orleans Nightcrawlers
+title: The New Orleans Nightcrawlers
 wiki_slug: new-orleans-nightcrawlers
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 aliases: []
 birth_date: '1994'
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/New_Orleans_Nightcrawlers.jpg
   caption: New Orleans Nightcrawlers
@@ -29,65 +29,67 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Henry Butler
-  - Evan Christopher
-  - Troy 'Trombone Shorty' Andrews
-  - Bruce Hornsby
-  - Bonerama
-  - Papa Grows Funk
-  - New Orleans Jazz Orchestra
-  - Royal Fingerbowl
-  - New Birth Brass Band
-  - Otra
-  - Pell, Alfred Banks, HaSizzle
+    - Henry Butler
+    - Evan Christopher
+    - Troy 'Trombone Shorty' Andrews
+    - Bruce Hornsby
+    - Bonerama
+    - Papa Grows Funk
+    - New Orleans Jazz Orchestra
+    - Royal Fingerbowl
+    - New Birth Brass Band
+    - Otra
+    - 'Pell, Alfred Banks, HaSizzle'
   influenced:
-  - Younger New Orleans brass bands
+    - Younger New Orleans brass bands
   mentors:
-  - Dirty Dozen Brass Band
+    - Dirty Dozen Brass Band
 related_artists: []
 spotify_data:
   followers: 7207
   id: 6gVfJrACKmIeDRXBQV2qrQ
   popularity: 13
-  url: https://open.spotify.com/artist/6gVfJrACKmIeDRXBQV2qrQ
+  url: 'https://open.spotify.com/artist/6gVfJrACKmIeDRXBQV2qrQ'
   verified: false
 discography_enriched: true
 albums_count: 6
 singles_count: 1
 top_tracks:
-- Funky Liza (Funknicity)
-- Funky Liza (Meet Me At Mardi Gras)
-- Oye Como Va (Live at the Old Point)
-- Parlor For The 'Crawlers (New Orleans Nightcrawlers)
-- Can of Worms (Live at the Old Point)
-- Ursuline Second Line (Atmosphere)
-- Bourbon St. Parade (New Orleans Nightcrawlers)
-- Gentilly Groove (Atmosphere)
-- Pick Up the Pieces (Funknicity)
-- Sidewalk Strut (Live at the Old Point)
+  - Funky Liza (Funknicity)
+  - Funky Liza (Meet Me At Mardi Gras)
+  - Oye Como Va (Live at the Old Point)
+  - Parlor For The 'Crawlers (New Orleans Nightcrawlers)
+  - Can of Worms (Live at the Old Point)
+  - Ursuline Second Line (Atmosphere)
+  - Bourbon St. Parade (New Orleans Nightcrawlers)
+  - Gentilly Groove (Atmosphere)
+  - Pick Up the Pieces (Funknicity)
+  - Sidewalk Strut (Live at the Old Point)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7afb5698-b1c9-491d-972d-0bd22f8b9f30
-  spotify: https://open.spotify.com/artist/6gVfJrACKmIeDRXBQV2qrQ
-  wikipedia: https://en.wikipedia.org/wiki/New_Orleans_Nightcrawlers
+  musicbrainz: 'https://musicbrainz.org/artist/7afb5698-b1c9-491d-972d-0bd22f8b9f30'
+  spotify: 'https://open.spotify.com/artist/6gVfJrACKmIeDRXBQV2qrQ'
+  wikipedia: 'https://en.wikipedia.org/wiki/New_Orleans_Nightcrawlers'
 image_path: 03_Resources/source_material/ArtistPortraits/New_Orleans_Nightcrawlers.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:03:51.820630'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.wwoz.org/acts/new-orleans-nightcrawlers
-- https://en.wikipedia.org/wiki/New_Orleans_Nightcrawlers
-- https://loyolamaroon.com/10031878/features/life-times/grammy-winning-new-orleans-nightcrawlers-have-loyola-roots/
-- https://thefunkyuncle.live/artist/the-new-orleans-nightcrawlers/
-- https://neworleansnightcrawlersbrassband.com/home-1
+  - 'https://www.wwoz.org/acts/new-orleans-nightcrawlers'
+  - 'https://en.wikipedia.org/wiki/New_Orleans_Nightcrawlers'
+  - >-
+    https://loyolamaroon.com/10031878/features/life-times/grammy-winning-new-orleans-nightcrawlers-have-loyola-roots/
+  - 'https://thefunkyuncle.live/artist/the-new-orleans-nightcrawlers/'
+  - 'https://neworleansnightcrawlersbrassband.com/home-1'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 15:19:22.467179
+entry_created: 2025-09-18T15:19:22.467Z
 last_updated: '2025-12-23T08:16:03.433152'
 disambiguation: Brass Band
 musicbrainz_enriched_at: '2025-10-21T09:39:14.671653'
 musicbrainz_id: 7afb5698-b1c9-491d-972d-0bd22f8b9f30
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+birth_place: New Orleans
 ---
 
 ![](New_Orleans_Nightcrawlers.jpg)

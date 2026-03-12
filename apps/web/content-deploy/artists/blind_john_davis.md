@@ -1,28 +1,28 @@
 ---
-title: blind john davis
+title: Blind John Davis
 wiki_slug: blind-john-davis
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1913-12-07'
-birth_place: Hattiesburg
+birth_place: 'Hattiesburg, Mississippi, United States'
 death_date: '1985-10-12'
 genres:
-- boogie-woogie
-- blues
-- ragtime
-- country blues
+  - boogie-woogie
+  - blues
+  - ragtime
+  - country blues
 instruments:
-- piano
-- lead vocals
-- background vocals
-- choir vocals
+  - piano
+  - lead vocals
+  - background vocals
+  - choir vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b7986283-fd35-40f7-8602-149f601c9059
-  name: Big Bill and The Memphis Five
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b7986283-fd35-40f7-8602-149f601c9059
+    name: Big Bill and The Memphis Five
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/blind_john_davis.jpg
   caption: blind john davis
@@ -45,59 +45,67 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Big Bill Broonzy
-  - Tampa Red
-  - Sonny Boy Williamson (John Lee Williamson)
-  - Merline Johnson ("Yas Yas Girl")
-  - Memphis Minnie
-  - Doctor Clayton
-  - Lonnie Johnson
-  - George Barnes
-  - Ransom Knowling
+    - Big Bill Broonzy
+    - Tampa Red
+    - Sonny Boy Williamson (John Lee Williamson)
+    - Merline Johnson ("Yas Yas Girl")
+    - Memphis Minnie
+    - Doctor Clayton
+    - Lonnie Johnson
+    - George Barnes
+    - Ransom Knowling
   influenced:
-  - Later European blues and boogie‑woogie pianists (collective)
+    - Later European blues and boogie‑woogie pianists (collective)
   mentors:
-  - James Patterson
-  - Lester Melrose
+    - James Patterson
+    - Lester Melrose
 spotify_data:
   followers: 950
   id: 6ayiPkdxUSbBiKRkOGgD2S
   popularity: 7
-  url: https://open.spotify.com/artist/6ayiPkdxUSbBiKRkOGgD2S
+  url: 'https://open.spotify.com/artist/6ayiPkdxUSbBiKRkOGgD2S'
 discography_enriched: true
 top_tracks:
-- I Wish I Could Shimmy Like My Sister Kate (The Incomparable Blind John Davis)
-- Alley Woman Blues (In Memoriam)
-- Everyday I Have the Blues (The Incomparable Blind John Davis)
-- When I Lost My Baby - Live (Chigago Blues and Boogie-Woogie (Live))
-- Dippermouth Blues (Chigago Blues and Boogie-Woogie (Live))
-- Boogie'n Roll - Live (Chigago Blues and Boogie-Woogie (Live))
-- Cow Cow Blues - Live (Chigago Blues and Boogie-Woogie (Live))
-- Everyday I Have the Blues - Live (Chigago Blues and Boogie-Woogie (Live))
-- It's My Boogie - Live (Chigago Blues and Boogie-Woogie (Live))
-- Summertime - Live (Chigago Blues and Boogie-Woogie (Live))
+  - >-
+    I Wish I Could Shimmy Like My Sister Kate (The Incomparable Blind John
+    Davis)
+  - Alley Woman Blues (In Memoriam)
+  - Everyday I Have the Blues (The Incomparable Blind John Davis)
+  - When I Lost My Baby - Live (Chigago Blues and Boogie-Woogie (Live))
+  - Dippermouth Blues (Chigago Blues and Boogie-Woogie (Live))
+  - Boogie'n Roll - Live (Chigago Blues and Boogie-Woogie (Live))
+  - Cow Cow Blues - Live (Chigago Blues and Boogie-Woogie (Live))
+  - Everyday I Have the Blues - Live (Chigago Blues and Boogie-Woogie (Live))
+  - It's My Boogie - Live (Chigago Blues and Boogie-Woogie (Live))
+  - Summertime - Live (Chigago Blues and Boogie-Woogie (Live))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f06c3db1-b8c1-4126-b877-04a77f5d73fe
-  spotify: https://open.spotify.com/artist/6ayiPkdxUSbBiKRkOGgD2S
-  wikipedia: https://en.wikipedia.org/wiki/Blind_John_Davis
+  musicbrainz: 'https://musicbrainz.org/artist/f06c3db1-b8c1-4126-b877-04a77f5d73fe'
+  spotify: 'https://open.spotify.com/artist/6ayiPkdxUSbBiKRkOGgD2S'
+  wikipedia: 'https://en.wikipedia.org/wiki/Blind_John_Davis'
 image_path: 03_Resources/source_material/ArtistPortraits/blind_john_davis.jpg
 biography_enhanced_at: '2025-12-09T04:44:24.772302'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- 'Library of Congress NLS Music Notes – “Blind Musicians from A to Z: D – Blind John Davis and Arizona Dranes”[1]'
-- Bluesway.gr artist profile on Blind John Davis[2]
-- AllMusic artist page for Blind John Davis[6]
-- Studs Terkel WFMT interview description and transcript excerpts with Blind John Davis[4]
-- Sooze Blues & Jazz – Blind John Davis artist page[5]
+  - >-
+    Library of Congress NLS Music Notes – “Blind Musicians from A to Z: D –
+    Blind John Davis and Arizona Dranes”[1]
+  - 'Bluesway.gr artist profile on Blind John Davis[2]'
+  - 'AllMusic artist page for Blind John Davis[6]'
+  - >-
+    Studs Terkel WFMT interview description and transcript excerpts with Blind
+    John Davis[4]
+  - 'Sooze Blues & Jazz – Blind John Davis artist page[5]'
 network_extracted: true
 entry_created: '2025-12-09T04:44:24.772311'
 last_updated: '2025-12-23T08:16:05.717863'
 gender: Male
 musicbrainz_id: f06c3db1-b8c1-4126-b877-04a77f5d73fe
 tags:
-- blues
-- piano blues
+  - blues
+  - piano blues
+is_active: false
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](blind_john_davis.jpg)

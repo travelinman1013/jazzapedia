@@ -1,18 +1,18 @@
 ---
-title: washington white
+title: Washington White
 wiki_slug: washington-white
 schema_version: 2
 status: active
-birth_place: Near Houston, Chickasaw County, Mississippi, United States
+birth_place: 'Near Houston, Chickasaw County, Mississippi, United States'
 genres:
-- country blues
-- classic blues
-- blues
+  - country blues
+  - classic blues
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/washington_white.jpg
   caption: washington white
   background: solo_singer
-  origin: Near Houston, Chickasaw County, Mississippi, United States
+  origin: 'Near Houston, Chickasaw County, Mississippi, United States'
 audio_profile:
   tempo_avg: 155.2
   energy_avg: 0.367
@@ -28,56 +28,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ralph Lembo
-  - Lester Melrose
-  - John Lomax
-  - Frank Stokes
-  - B.B. King
-  - John Fahey and Ed (Edward) Denson
-  - Chris Strachwitz
-  - Furry Lewis
+    - Ralph Lembo
+    - Lester Melrose
+    - John Lomax
+    - Frank Stokes
+    - B.B. King
+    - John Fahey and Ed (Edward) Denson
+    - Chris Strachwitz
+    - Furry Lewis
   influenced:
-  - B.B. King
-  - 1960s folk‑blues revival guitarists (e.g., John Fahey)
-  - Later blues and rock musicians drawing on Delta slide style
+    - B.B. King
+    - '1960s folk‑blues revival guitarists (e.g., John Fahey)'
+    - Later blues and rock musicians drawing on Delta slide style
   mentors:
-  - John White
-  - Charley Patton
-  - Henry Stuckey (probable tuning influence)
+    - John White
+    - Charley Patton
+    - Henry Stuckey (probable tuning influence)
 spotify_data:
   followers: 47
   id: 6v2B8TsdJd2FTyhl1W61LI
   popularity: 0
-  url: https://open.spotify.com/artist/6v2B8TsdJd2FTyhl1W61LI
+  url: 'https://open.spotify.com/artist/6v2B8TsdJd2FTyhl1W61LI'
 discography_enriched: true
 top_tracks:
-- The Promise True And Grand (Sacred Roots Of The Blues (When The Sun Goes Down Series))
-- I Am In The Heavenly Way (Raw Pre-war Gospel (1926-36) - American Primitive, Volume 1)
-- I Am the Heavenly Way (The World Library of Folk and Primitive Music on 78 Rpm Vol. 12, USA Pt. 5)
-- The New 'Frisco Train (Mississippi Moaners (1927-1942))
-- 'The Panama Limited (The Roots of Blues: 1927 - 1930)'
-- 'The New ''Frisco Train (Saga Blues: Aberdeen Mississippi Blues)'
-- 'The Panama Limited (Saga Blues: Aberdeen Mississippi Blues)'
-- 'I Am In the Heavenly Way (Saga Blues: Aberdeen Mississippi Blues)'
-- 'Promise True and Grand (Saga Blues: Aberdeen Mississippi Blues)'
-- 'Sic ''Em Dogs On (Saga Blues: Aberdeen Mississippi Blues)'
+  - >-
+    The Promise True And Grand (Sacred Roots Of The Blues (When The Sun Goes
+    Down Series))
+  - >-
+    I Am In The Heavenly Way (Raw Pre-war Gospel (1926-36) - American Primitive,
+    Volume 1)
+  - >-
+    I Am the Heavenly Way (The World Library of Folk and Primitive Music on 78
+    Rpm Vol. 12, USA Pt. 5)
+  - The New 'Frisco Train (Mississippi Moaners (1927-1942))
+  - 'The Panama Limited (The Roots of Blues: 1927 - 1930)'
+  - 'The New ''Frisco Train (Saga Blues: Aberdeen Mississippi Blues)'
+  - 'The Panama Limited (Saga Blues: Aberdeen Mississippi Blues)'
+  - 'I Am In the Heavenly Way (Saga Blues: Aberdeen Mississippi Blues)'
+  - 'Promise True and Grand (Saga Blues: Aberdeen Mississippi Blues)'
+  - 'Sic ''Em Dogs On (Saga Blues: Aberdeen Mississippi Blues)'
 external_urls:
-  spotify: https://open.spotify.com/artist/6v2B8TsdJd2FTyhl1W61LI
-  wikipedia: https://en.wikipedia.org/wiki/Bukka_White
+  spotify: 'https://open.spotify.com/artist/6v2B8TsdJd2FTyhl1W61LI'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bukka_White'
 image_path: 03_Resources/source_material/ArtistPortraits/washington_white.jpg
 biography_enhanced_at: '2025-12-12T12:09:40.340828'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Mississippi Blues Trail – Bukka White marker[1]
-- Bukka White – Wikipedia[2]
-- African American Registry – Bukka White biography[3]
-- 'The Blues Foundation – Blues Hall of Fame: Bukka White[4]'
-- BlackPast.org – “Bukka White (1906–1977)”[5]
-- 'uDiscover Music – Remembering Bukka White: The Blues Legend[6]'
+  - 'Mississippi Blues Trail – Bukka White marker[1]'
+  - 'Bukka White – Wikipedia[2]'
+  - 'African American Registry – Bukka White biography[3]'
+  - 'The Blues Foundation – Blues Hall of Fame: Bukka White[4]'
+  - 'BlackPast.org – “Bukka White (1906–1977)”[5]'
+  - 'uDiscover Music – Remembering Bukka White: The Blues Legend[6]'
 network_extracted: true
 entry_created: '2025-12-12T12:09:40.340836'
 last_updated: '2025-12-23T08:16:18.013000'
+artist_type: person
 ---
 
 ![](washington_white.jpg)

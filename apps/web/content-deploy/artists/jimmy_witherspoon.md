@@ -1,37 +1,37 @@
 ---
-title: jimmy witherspoon
+title: Jimmy Witherspoon
 wiki_slug: jimmy-witherspoon
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1920-08-08'
-birth_place: Gurdon
+birth_place: 'Gurdon, Arkansas, United States'
 death_date: '1997-09-18'
 genres:
-- blues
-- jazz blues
-- classic blues
-- swing music
+  - blues
+  - jazz blues
+  - classic blues
+  - swing music
 instruments:
-- eponymous
-- original
-- vocal
-- lead vocals
+  - eponymous
+  - original
+  - vocal
+  - lead vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: a1a17761-519c-4d5d-8065-aff310cfca3f
-  name: Jimmy Witherspoon & His Gal Friday
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: b1d92862-7d69-4102-8445-088c93ad706e
-  name: Jimmy Witherspoon Blues Band
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: a1a17761-519c-4d5d-8065-aff310cfca3f
+    name: Jimmy Witherspoon & His Gal Friday
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: b1d92862-7d69-4102-8445-088c93ad706e
+    name: Jimmy Witherspoon Blues Band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jimmy_witherspoon.jpg
   caption: jimmy witherspoon
@@ -54,53 +54,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jay McShann
-  - Gene Gilbeaux Orchestra
+    - Jay McShann
+    - Gene Gilbeaux Orchestra
   influenced: []
   mentors:
-  - Joe Turner
-  - T-Bone Walker
-  - Teddy Weatherford
+    - Joe Turner
+    - T-Bone Walker
+    - Teddy Weatherford
 spotify_data:
   followers: 17652
   id: 6vth8u6Wp7k2bbzDQMCmrb
   popularity: 28
-  url: https://open.spotify.com/artist/6vth8u6Wp7k2bbzDQMCmrb
+  url: 'https://open.spotify.com/artist/6vth8u6Wp7k2bbzDQMCmrb'
 discography_enriched: true
 top_tracks:
-- One Scotch, One Bourbon, One Beer (Baby, Baby, Baby)
-- Sail On Little Girl (Baby, Baby, Baby)
-- When The Lights Go Out (Singin' The Blues)
-- Evenin' (Evenin' Blues)
-- Spoon's Blues (Singin' The Blues)
-- '''Tain''t Nobody''s Business (Singin'' The Blues)'
-- I Had A Dream (Blues Around The Clock (Remastered))
-- Rocks In My Bed (Baby, Baby, Baby)
-- Ain't Nobody's Business - Live (Spoon in Australia)
-- Money's Gettin' Cheaper (Evenin' Blues)
+  - 'One Scotch, One Bourbon, One Beer (Baby, Baby, Baby)'
+  - 'Sail On Little Girl (Baby, Baby, Baby)'
+  - When The Lights Go Out (Singin' The Blues)
+  - Evenin' (Evenin' Blues)
+  - Spoon's Blues (Singin' The Blues)
+  - '''Tain''t Nobody''s Business (Singin'' The Blues)'
+  - I Had A Dream (Blues Around The Clock (Remastered))
+  - 'Rocks In My Bed (Baby, Baby, Baby)'
+  - Ain't Nobody's Business - Live (Spoon in Australia)
+  - Money's Gettin' Cheaper (Evenin' Blues)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1eaf1688-4f52-49e8-98bc-743828fe3e7e
-  spotify: https://open.spotify.com/artist/6vth8u6Wp7k2bbzDQMCmrb
-  wikipedia: https://en.wikipedia.org/wiki/Jimmy_Witherspoon
+  musicbrainz: 'https://musicbrainz.org/artist/1eaf1688-4f52-49e8-98bc-743828fe3e7e'
+  spotify: 'https://open.spotify.com/artist/6vth8u6Wp7k2bbzDQMCmrb'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jimmy_Witherspoon'
 image_path: 03_Resources/source_material/ArtistPortraits/jimmy_witherspoon.jpg
 biography_enhanced_at: '2025-11-11T09:38:17.239571'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://blues.org/blues_hof_inductee/jimmy-witherspoon/
-- https://concord.com/artist/jimmy-witherspoon/
-- https://wbssmedia.com/artists/detail/1822
-- https://encyclopediaofarkansas.net/entries/jimmy-spoon-witherspoon-4834/
-- https://en.wikipedia.org/wiki/Jimmy_Witherspoon
-- https://www.emusic.com/artist/rs_10453/Jimmy-Witherspoon/bio
+  - 'https://blues.org/blues_hof_inductee/jimmy-witherspoon/'
+  - 'https://concord.com/artist/jimmy-witherspoon/'
+  - 'https://wbssmedia.com/artists/detail/1822'
+  - 'https://encyclopediaofarkansas.net/entries/jimmy-spoon-witherspoon-4834/'
+  - 'https://en.wikipedia.org/wiki/Jimmy_Witherspoon'
+  - 'https://www.emusic.com/artist/rs_10453/Jimmy-Witherspoon/bio'
 network_extracted: true
 entry_created: '2025-11-11T09:38:17.239583'
 last_updated: '2025-12-23T08:16:10.515063'
 gender: Male
 musicbrainz_id: 1eaf1688-4f52-49e8-98bc-743828fe3e7e
 tags:
-- 2008 universal fire victim
-- blues
+  - 2008 universal fire victim
+  - blues
+is_active: false
+origin: 'Los Angeles, California, United States'
 ---
 
 ![](jimmy_witherspoon.jpg)

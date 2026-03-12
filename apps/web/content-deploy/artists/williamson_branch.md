@@ -1,19 +1,19 @@
 ---
-title: WILLIAMSON BRANCH
+title: Williamson Branch
 wiki_slug: williamson-branch
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 genres:
-- bluegrass
-- southern gospel
-- christian country
-- newgrass
+  - bluegrass
+  - southern gospel
+  - christian country
+  - newgrass
 instruments:
-- mandolin
-- bass
-- guitar
-- fiddle
+  - mandolin
+  - bass
+  - guitar
+  - fiddle
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/williamson_branch.jpg
   caption: WILLIAMSON BRANCH
@@ -33,91 +33,93 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Scott Vestal
-  - Adam Steffey
-  - Rob Ickes
-  - Dusty Knapp
-  - Randy Wright
-  - Kenny Smith
-  - Alan Bibey
+    - Scott Vestal
+    - Adam Steffey
+    - Rob Ickes
+    - Dusty Knapp
+    - Randy Wright
+    - Kenny Smith
+    - Alan Bibey
   influenced:
-  - Emerging family and youth bluegrass acts (general category)
+    - Emerging family and youth bluegrass acts (general category)
   mentors:
-  - Bill Monroe
-  - The Isaacs
-  - Loretta Lynn
-  - Hank Williams
+    - Bill Monroe
+    - The Isaacs
+    - Loretta Lynn
+    - Hank Williams
 spotify_data:
   followers: 2065
   id: 4iX67MvaviUQqfP6j9JWxN
   popularity: 20
-  url: https://open.spotify.com/artist/4iX67MvaviUQqfP6j9JWxN
+  url: 'https://open.spotify.com/artist/4iX67MvaviUQqfP6j9JWxN'
 discography_enriched: true
 top_tracks:
-- Kentucky Highway (Kentucky Highway)
-- Thank You, Lord, for Your Blessings On Me (Classy. Sassy. Bluegrassy.)
-- Southern Nights (Southern Nights)
-- I'll Fly Away (Heritage & Hope)
-- Come On Sunshine (Come On Sunshine)
-- Blue Moon Over Texas (Classy. Sassy. Bluegrassy.)
-- The Polar Express (The Polar Express)
-- A Joyful Song (Heritage & Hope)
-- Which Train (Heritage & Hope)
-- Mindy Mae (Classy. Sassy. Bluegrassy.)
+  - Kentucky Highway (Kentucky Highway)
+  - 'Thank You, Lord, for Your Blessings On Me (Classy. Sassy. Bluegrassy.)'
+  - Southern Nights (Southern Nights)
+  - I'll Fly Away (Heritage & Hope)
+  - Come On Sunshine (Come On Sunshine)
+  - Blue Moon Over Texas (Classy. Sassy. Bluegrassy.)
+  - The Polar Express (The Polar Express)
+  - A Joyful Song (Heritage & Hope)
+  - Which Train (Heritage & Hope)
+  - Mindy Mae (Classy. Sassy. Bluegrassy.)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/64e60cac-0da9-44c8-a966-90a8cfe6fed6
-  spotify: https://open.spotify.com/artist/4iX67MvaviUQqfP6j9JWxN
+  musicbrainz: 'https://musicbrainz.org/artist/64e60cac-0da9-44c8-a966-90a8cfe6fed6'
+  spotify: 'https://open.spotify.com/artist/4iX67MvaviUQqfP6j9JWxN'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/williamson_branch.jpg
 biography_enhanced_at: '2025-12-15T01:21:11.579063'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://williamsonbranch.com/about
-- https://pinecastlemusic.com/artists/williamson-branch/
-- https://bluegrasstoday.com/williamson-family-band-branchin-out/
-- https://bluegrassunlimited.com/article/williamson-branch-2/
-- https://omibluegrass.wordpress.com/2019/10/28/williamson-branch-classy-sassy-bluegrassy-pinecastle-12-tracks/
-- https://ericsiegmund.com/fireant/2023/04/06/williamson-branch-a-bluegrass-revelation/
-- https://williamsonbranch.com/home
-- https://bonfiremusicgroup.com/artists/williamson-branch/
+  - 'https://williamsonbranch.com/about'
+  - 'https://pinecastlemusic.com/artists/williamson-branch/'
+  - 'https://bluegrasstoday.com/williamson-family-band-branchin-out/'
+  - 'https://bluegrassunlimited.com/article/williamson-branch-2/'
+  - >-
+    https://omibluegrass.wordpress.com/2019/10/28/williamson-branch-classy-sassy-bluegrassy-pinecastle-12-tracks/
+  - >-
+    https://ericsiegmund.com/fireant/2023/04/06/williamson-branch-a-bluegrass-revelation/
+  - 'https://williamsonbranch.com/home'
+  - 'https://bonfiremusicgroup.com/artists/williamson-branch/'
 network_extracted: true
 entry_created: '2025-12-15T01:21:11.579102'
 last_updated: '2025-12-23T08:16:18.154057'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e1548566-8bb1-4868-a9a4-ad63ea0f3632
-  name: Caroline Williamson
-- begin: ''
-  end: ''
-  instruments:
-  - mandolin
-  mbid: df0348c0-4d8a-4ecc-9069-3450fb52e5ff
-  name: Debbie Williamson
-- begin: ''
-  end: ''
-  instruments:
-  - bass
-  mbid: c6e9d5ad-18d9-455f-bee8-bc0060ddece7
-  name: Kadence Williamson
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: 7c6b0131-c0a0-41a1-996a-a4182b2019dc
-  name: Kevin Williamson
-- begin: ''
-  end: ''
-  instruments:
-  - fiddle
-  mbid: 57bf1970-d265-4b6b-a5ff-74c925471249
-  name: Melody Williamson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e1548566-8bb1-4868-a9a4-ad63ea0f3632
+    name: Caroline Williamson
+  - begin: ''
+    end: ''
+    instruments:
+      - mandolin
+    mbid: df0348c0-4d8a-4ecc-9069-3450fb52e5ff
+    name: Debbie Williamson
+  - begin: ''
+    end: ''
+    instruments:
+      - bass
+    mbid: c6e9d5ad-18d9-455f-bee8-bc0060ddece7
+    name: Kadence Williamson
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 7c6b0131-c0a0-41a1-996a-a4182b2019dc
+    name: Kevin Williamson
+  - begin: ''
+    end: ''
+    instruments:
+      - fiddle
+    mbid: 57bf1970-d265-4b6b-a5ff-74c925471249
+    name: Melody Williamson
 musicbrainz_id: 64e60cac-0da9-44c8-a966-90a8cfe6fed6
-origin: Nashville, Tennessee, United States
+origin: 'Nashville, Tennessee, United States'
 tags:
-- bluegrass
+  - bluegrass
 ---
 
 ![](williamson_branch.jpg)

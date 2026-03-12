@@ -5,23 +5,23 @@ schema_version: 2
 status: active
 aliases: []
 birth_date: '1959-08-19'
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, United States'
 years_active: 1983–present
 genres: []
 instruments:
-- voice
-- musical keyboard
+  - voice
+  - musical keyboard
 occupation:
-- singer
-- songwriter
+  - singer
+  - songwriter
 record_labels:
-- Polydor
+  - Polydor
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Ivan_Neville.jpg
   caption: Ivan Neville
   background: solo_singer
   born: '1959-08-19'
-  origin: New Orleans, Louisiana, USA
+  origin: 'New Orleans, Louisiana, USA'
 audio_profile:
   tempo_avg: 118.4
   energy_avg: 0.719
@@ -37,60 +37,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bonnie Raitt
-  - Keith Richards
-  - The Rolling Stones
-  - Don Henley
-  - Spin Doctors
-  - Dumpstaphunk
-  - New Orleans Social Club
-  - Neville Jacobs
+    - Bonnie Raitt
+    - Keith Richards
+    - The Rolling Stones
+    - Don Henley
+    - Spin Doctors
+    - Dumpstaphunk
+    - New Orleans Social Club
+    - Neville Jacobs
   influenced:
-  - Dumpstaphunk members
-  - New Orleans funk/R&B scene
+    - Dumpstaphunk members
+    - New Orleans funk/R&B scene
   mentors:
-  - Aaron Neville
-  - Art Neville
-  - Charles Neville
-  - Cyril Neville
+    - Aaron Neville
+    - Art Neville
+    - Charles Neville
+    - Cyril Neville
 related_artists: []
 spotify_data:
   followers: 3323
   id: 0xHoBLKrp48wAlwpy54lRv
   popularity: 27
-  url: https://open.spotify.com/artist/0xHoBLKrp48wAlwpy54lRv
+  url: 'https://open.spotify.com/artist/0xHoBLKrp48wAlwpy54lRv'
   verified: false
 discography_enriched: true
 albums_count: 2
 singles_count: 6
 top_tracks:
-- Fly Like an Eagle
-- '#bamisforthechildren'
-- Dreaming Out Loud [Feat. Ivan Neville, Ruthie Foster] (Peace...Like A River)
-- Dreaming Out Loud [Feat. Ivan Neville, Ruthie Foster]
-- Give It What You Can (Give It What You Can)
-- This Must Be The Place (Touch My Soul)
-- All Hail the Queen (Ma Belle Reine) (Real People)
-- All Along the Watchtower (Listen to the Music)
-- Take It High (Say It Loud)
-- Take It High (Say It Loud)
+  - Fly Like an Eagle
+  - '#bamisforthechildren'
+  - 'Dreaming Out Loud [Feat. Ivan Neville, Ruthie Foster] (Peace...Like A River)'
+  - 'Dreaming Out Loud [Feat. Ivan Neville, Ruthie Foster]'
+  - Give It What You Can (Give It What You Can)
+  - This Must Be The Place (Touch My Soul)
+  - All Hail the Queen (Ma Belle Reine) (Real People)
+  - All Along the Watchtower (Listen to the Music)
+  - Take It High (Say It Loud)
+  - Take It High (Say It Loud)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/0xHoBLKrp48wAlwpy54lRv
-  wikipedia: https://en.wikipedia.org/wiki/Ivan_Neville
+  spotify: 'https://open.spotify.com/artist/0xHoBLKrp48wAlwpy54lRv'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ivan_Neville'
 image_path: 03_Resources/source_material/ArtistPortraits/Ivan_Neville.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:29:26.068299'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Ivan_Neville
-- https://thefunkyuncle.live/artist/ivan-neville/
-- https://www.mascotlabelgroup.com/pages/ivan-neville-biography
+  - 'https://en.wikipedia.org/wiki/Ivan_Neville'
+  - 'https://thefunkyuncle.live/artist/ivan-neville/'
+  - 'https://www.mascotlabelgroup.com/pages/ivan-neville-biography'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:50:18.092648
+entry_created: 2025-09-22T21:50:18.092Z
 last_updated: '2025-12-23T08:16:02.317432'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](Ivan_Neville.jpg)

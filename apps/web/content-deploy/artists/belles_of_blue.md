@@ -14,7 +14,7 @@ audio_profile:
   valence_avg: 0.49
   danceability_avg: 0.643
   acousticness_avg: 0.206
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -8.9
   speechiness_avg: 0.029
   liveness_avg: 0.104
@@ -29,23 +29,26 @@ spotify_data:
   followers: 19
   id: 0iMhehqWRjJSPfhUahWLH3
   popularity: 0
-  url: https://open.spotify.com/artist/0iMhehqWRjJSPfhUahWLH3
+  url: 'https://open.spotify.com/artist/0iMhehqWRjJSPfhUahWLH3'
 discography_enriched: true
 top_tracks:
-- Black Heart (Black Heart)
+  - Black Heart (Black Heart)
 external_urls:
-  spotify: https://open.spotify.com/artist/0iMhehqWRjJSPfhUahWLH3
+  spotify: 'https://open.spotify.com/artist/0iMhehqWRjJSPfhUahWLH3'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/belles_of_blue.jpg
 biography_enhanced_at: '2025-10-27T02:28:58.313741'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- No credible sources found for 'BELLES OF BLUE'.
-- Searches included Wikipedia, Spin, American Songwriter, Country Swag, and artist directories.
+  - No credible sources found for 'BELLES OF BLUE'.
+  - >-
+    Searches included Wikipedia, Spin, American Songwriter, Country Swag, and
+    artist directories.
 network_extracted: true
 entry_created: '2025-10-27T02:28:58.313758'
 last_updated: '2025-12-23T08:16:05.226612'
+artist_type: band
 ---
 
 ![](belles_of_blue.jpg)

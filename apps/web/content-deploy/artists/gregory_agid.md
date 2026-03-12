@@ -1,45 +1,47 @@
 ---
 biography_enhanced_at: '2026-01-02T01:22:16.331601'
-birth_place: San Antonio, Texas, USA
+birth_place: 'San Antonio, Texas, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-02T01:22:16.331607'
 external_urls:
-  spotify: https://open.spotify.com/artist/2ZbrkirlxDTcJIIXrlkPW7
+  spotify: 'https://open.spotify.com/artist/2ZbrkirlxDTcJIIXrlkPW7'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/gregory_agid.jpg
 last_updated: '2026-01-02T01:22:16.331608'
 musical_connections:
   collaborators:
-  - Michael Buble
-  - Delfeayo Marsalis
-  - Darrian Douglas
-  - Ellis Marsalis
-  - Branford Marsalis
-  - Herlin Riley
+    - Michael Buble
+    - Delfeayo Marsalis
+    - Darrian Douglas
+    - Ellis Marsalis
+    - Branford Marsalis
+    - Herlin Riley
   influenced:
-  - Aspiring clarinetists
-  - Second Line Arts Collective students
+    - Aspiring clarinetists
+    - Second Line Arts Collective students
   mentors:
-  - Alvin Batiste
-  - Eddie Daniels
-  - Kidd Jordan
-  - Clyde Kerr
+    - Alvin Batiste
+    - Eddie Daniels
+    - Kidd Jordan
+    - Clyde Kerr
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.gregoryagid.com/about
-- https://www.neworleans.com/listing/gregory-agid/47853/
-- https://legere.com/pages/artist-profile/gregory-agid
-- https://www.thevinyldistrict.com/neworleans/the-gregory-agid-quartet-celebrates-words-are-not-enough-at-the-louisiana-music-factory-17/
-- https://na.buffet-crampon.com/bc_US_en/gregory.html
+  - 'https://www.gregoryagid.com/about'
+  - 'https://www.neworleans.com/listing/gregory-agid/47853/'
+  - 'https://legere.com/pages/artist-profile/gregory-agid'
+  - >-
+    https://www.thevinyldistrict.com/neworleans/the-gregory-agid-quartet-celebrates-words-are-not-enough-at-the-louisiana-music-factory-17/
+  - 'https://na.buffet-crampon.com/bc_US_en/gregory.html'
 spotify_data:
   followers: 604
   id: 2ZbrkirlxDTcJIIXrlkPW7
   popularity: 8
-  url: https://open.spotify.com/artist/2ZbrkirlxDTcJIIXrlkPW7
+  url: 'https://open.spotify.com/artist/2ZbrkirlxDTcJIIXrlkPW7'
 status: active
 title: Gregory Agid
+artist_type: person
 ---
 
 ![](gregory_agid.jpg)

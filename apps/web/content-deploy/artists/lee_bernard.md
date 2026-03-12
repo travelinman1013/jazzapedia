@@ -3,7 +3,7 @@ biography_enhanced_at: '2026-01-06T02:11:19.931314'
 enhancement_provider: perplexity
 entry_created: '2026-01-06T02:11:19.931321'
 external_urls:
-  spotify: https://open.spotify.com/artist/5Hnu1MXB929mbu1IDV7iT5
+  spotify: 'https://open.spotify.com/artist/5Hnu1MXB929mbu1IDV7iT5'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/lee_bernard.jpg
@@ -15,20 +15,23 @@ musical_connections:
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://wbssmedia.com/artists/detail/726
-- https://en.wikipedia.org/wiki/St._Clair_Lee
-- https://www.art-spotlight.com/our-artists/bernard-lee
-- https://en.wikipedia.org/wiki/Bernard_Lee
-- https://gramblingconnection.com/small-town-2-big-dreamz-herbert-bernard-lee/
-- https://www.malcolmtattersall.com.au/music/bernard-lee-flute-2/
-- https://muzik.murkut.net/artist/954448/lee-bernard
+  - 'https://wbssmedia.com/artists/detail/726'
+  - 'https://en.wikipedia.org/wiki/St._Clair_Lee'
+  - 'https://www.art-spotlight.com/our-artists/bernard-lee'
+  - 'https://en.wikipedia.org/wiki/Bernard_Lee'
+  - 'https://gramblingconnection.com/small-town-2-big-dreamz-herbert-bernard-lee/'
+  - 'https://www.malcolmtattersall.com.au/music/bernard-lee-flute-2/'
+  - 'https://muzik.murkut.net/artist/954448/lee-bernard'
 spotify_data:
   followers: 48
   id: 5Hnu1MXB929mbu1IDV7iT5
   popularity: 0
-  url: https://open.spotify.com/artist/5Hnu1MXB929mbu1IDV7iT5
+  url: 'https://open.spotify.com/artist/5Hnu1MXB929mbu1IDV7iT5'
 status: active
 title: Lee Bernard
+birth_date: '1944-04-24'
+death_date: '2011-03-08'
+artist_type: person
 ---
 
 ![](lee_bernard.jpg)

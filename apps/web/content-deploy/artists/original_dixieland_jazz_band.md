@@ -2,17 +2,18 @@
 title: Original Dixieland Jazz Band
 wiki_slug: original-dixieland-jazz-band
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1916'
 genres:
-- ragtime
-- jazz
+  - ragtime
+  - jazz
 instruments:
-- clarinet
-- piano
+  - clarinet
+  - piano
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/original_dixieland_jazz_band.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/original_dixieland_jazz_band.jpg
   caption: Original Dixieland Jazz Band
   background: group_or_band
   born: '1916'
@@ -31,105 +32,106 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Nick LaRocca
-  - Larry Shields
-  - Eddie Edwards
-  - Tony Sbarbaro (Tony Spargo)
-  - Henry Ragas
+    - Nick LaRocca
+    - Larry Shields
+    - Eddie Edwards
+    - Tony Sbarbaro (Tony Spargo)
+    - Henry Ragas
   influenced:
-  - Benny Goodman
-  - New Orleans Rhythm Kings
-  - King Oliver
-  - Countless early jazz musicians
+    - Benny Goodman
+    - New Orleans Rhythm Kings
+    - King Oliver
+    - Countless early jazz musicians
   mentors:
-  - Papa Jack Laine
+    - Papa Jack Laine
 spotify_data:
   followers: 19635
   id: 112yP6AwAT6QG34fiGGpmh
   popularity: 24
-  url: https://open.spotify.com/artist/112yP6AwAT6QG34fiGGpmh
+  url: 'https://open.spotify.com/artist/112yP6AwAT6QG34fiGGpmh'
 discography_enriched: true
 top_tracks:
-- Livery Stable Blues (1917-36)
-- Tiger Rag (1917-36)
-- St. Louis Blues (1917-36)
-- Clarinet Marmalade
-- Palesteena (1920) (One-Step - Early Jazz Recordings)
-- Bow Wow Blues (My Mama Treats Me Like A Dog) (1917-36)
-- Tiger Rag - 1992 Remastered (The 75th Anniversary)
-- Dixie Jass Band One-Step (Skeleton Jangle)
-- Tiger Rag
-- Tiger Rag 3
+  - Livery Stable Blues (1917-36)
+  - Tiger Rag (1917-36)
+  - St. Louis Blues (1917-36)
+  - Clarinet Marmalade
+  - Palesteena (1920) (One-Step - Early Jazz Recordings)
+  - Bow Wow Blues (My Mama Treats Me Like A Dog) (1917-36)
+  - Tiger Rag - 1992 Remastered (The 75th Anniversary)
+  - Dixie Jass Band One-Step (Skeleton Jangle)
+  - Tiger Rag
+  - Tiger Rag 3
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6e3d6e70-2f11-4732-a789-4a9d608ef24a
-  spotify: https://open.spotify.com/artist/112yP6AwAT6QG34fiGGpmh
-  wikipedia: https://en.wikipedia.org/wiki/Original_Dixieland_Jass_Band
+  musicbrainz: 'https://musicbrainz.org/artist/6e3d6e70-2f11-4732-a789-4a9d608ef24a'
+  spotify: 'https://open.spotify.com/artist/112yP6AwAT6QG34fiGGpmh'
+  wikipedia: 'https://en.wikipedia.org/wiki/Original_Dixieland_Jass_Band'
 image_path: 03_Resources/source_material/ArtistPortraits/original_dixieland_jazz_band.jpg
 biography_enhanced_at: '2025-11-16T20:11:01.757515'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Original_Dixieland_Jass_Band
-- https://kids.kiddle.co/Original_Dixieland_Jass_Band
-- https://odjb.com
-- https://syncopatedtimes.com/the-original-dixieland-jazz-band/
-- https://www.ebsco.com/research-starters/music/dixieland-music
+  - 'https://en.wikipedia.org/wiki/Original_Dixieland_Jass_Band'
+  - 'https://kids.kiddle.co/Original_Dixieland_Jass_Band'
+  - 'https://odjb.com'
+  - 'https://syncopatedtimes.com/the-original-dixieland-jazz-band/'
+  - 'https://www.ebsco.com/research-starters/music/dixieland-music'
 network_extracted: true
 entry_created: '2025-11-16T20:11:01.757526'
 last_updated: '2025-12-23T08:16:13.779886'
 members:
-- begin: ''
-  end: '1919-02-18'
-  instruments: []
-  mbid: e6eb2fc1-9594-4ac6-873c-c709bc1f0882
-  name: Henry Ragas
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 63a32643-8362-48c2-93c8-596117ea0a0a
-  name: Eddie Edwards
-- begin: ''
-  end: ''
-  instruments:
-  - clarinet
-  mbid: 99040f28-20e9-4d85-a99d-142011740904
-  name: Bret Gowens
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: 5ea54497-6ac8-4a80-9d16-61464829ea82
-  name: Billy Jones
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 56ccb1ca-96b4-4314-a167-944e7c01bec8
-  name: Nick LaRocca
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7675d314-6d11-4af9-b4a8-62ccbf583e66
-  name: Alcide Nunez
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5f2ffed7-6e8f-45b2-8a48-30fe87b50595
-  name: J. Russel Robinson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 56faa95d-72ae-464f-b82b-9fd89e1dd928
-  name: Tony Sbarbaro
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b9325922-f0cc-4d14-8c82-dd4e985b667e
-  name: Larry Shields
+  - begin: ''
+    end: '1919-02-18'
+    instruments: []
+    mbid: e6eb2fc1-9594-4ac6-873c-c709bc1f0882
+    name: Henry Ragas
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 63a32643-8362-48c2-93c8-596117ea0a0a
+    name: Eddie Edwards
+  - begin: ''
+    end: ''
+    instruments:
+      - clarinet
+    mbid: 99040f28-20e9-4d85-a99d-142011740904
+    name: Bret Gowens
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: 5ea54497-6ac8-4a80-9d16-61464829ea82
+    name: Billy Jones
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 56ccb1ca-96b4-4314-a167-944e7c01bec8
+    name: Nick LaRocca
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7675d314-6d11-4af9-b4a8-62ccbf583e66
+    name: Alcide Nunez
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5f2ffed7-6e8f-45b2-8a48-30fe87b50595
+    name: J. Russel Robinson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 56faa95d-72ae-464f-b82b-9fd89e1dd928
+    name: Tony Sbarbaro
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b9325922-f0cc-4d14-8c82-dd4e985b667e
+    name: Larry Shields
 musicbrainz_id: 6e3d6e70-2f11-4732-a789-4a9d608ef24a
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 tags:
-- dixieland
-- jazz
+  - dixieland
+  - jazz
+birth_place: 'New Orleans, Louisiana, United States'
 ---
 
 ![](original_dixieland_jazz_band.jpg)

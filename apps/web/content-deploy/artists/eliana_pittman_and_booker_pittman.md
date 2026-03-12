@@ -3,16 +3,17 @@ title: Eliana Pittman & Booker Pittman
 wiki_slug: eliana-pittman-booker-pittman
 schema_version: 2
 status: active
-birth_place: Rio de Janeiro, Rio de Janeiro, Brazil
+birth_place: 'Rio de Janeiro, Rio de Janeiro, Brazil'
 genres:
-- bossa nova
-- brazilian jazz
-- latin house
+  - bossa nova
+  - brazilian jazz
+  - latin house
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/eliana_pittman_and_booker_pittman.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/eliana_pittman_and_booker_pittman.jpg
   caption: Eliana Pittman & Booker Pittman
   background: solo_singer
-  origin: Rio de Janeiro, Rio de Janeiro, Brazil
+  origin: 'Rio de Janeiro, Rio de Janeiro, Brazil'
 audio_profile:
   tempo_avg: 113.2
   energy_avg: 0.572
@@ -28,53 +29,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Booker Pittman
-  - Trio 3D
-  - Astor Silva
-  - Renato de Oliveira
-  - Ivan Paulo
-  - Sacha Distel
+    - Booker Pittman
+    - Trio 3D
+    - Astor Silva
+    - Renato de Oliveira
+    - Ivan Paulo
+    - Sacha Distel
   influenced:
-  - No specific individual artists reliably documented
+    - No specific individual artists reliably documented
   mentors:
-  - Booker Pittman
+    - Booker Pittman
 spotify_data:
   followers: 10904
   id: 0N3LJDrESNQKDwr48hYAjE
   popularity: 28
-  url: https://open.spotify.com/artist/0N3LJDrESNQKDwr48hYAjE
+  url: 'https://open.spotify.com/artist/0N3LJDrESNQKDwr48hYAjE'
 discography_enriched: true
 top_tracks:
-- Vou Pular Nêste Carnaval (Eliana Pittman)
-- Nem Saudade (Eliana Pittman)
-- Quem Vai Querer (Aroop Roy Rework)
-- Loucuras de uma Paixão (Nem Lágrima, Nem Dor)
-- Meu amigo Cartola (feat. Cartola) (Minha Melhor Melodia)
-- Vicioso (Escuro Brilhante, Último Dia no Orfanato Tia Guga)
-- Nós E O Mar (News from Brazil - Bossa Nova!)
-- Minta Meu Sonho (Nem Lágrima, Nem Dor)
-- Sinhá Pureza / Carimbó do Mato (Tô Chegando, Já Cheguei)
-- Bezouro Manganga (Eliana Pittman)
+  - Vou Pular Nêste Carnaval (Eliana Pittman)
+  - Nem Saudade (Eliana Pittman)
+  - Quem Vai Querer (Aroop Roy Rework)
+  - 'Loucuras de uma Paixão (Nem Lágrima, Nem Dor)'
+  - Meu amigo Cartola (feat. Cartola) (Minha Melhor Melodia)
+  - 'Vicioso (Escuro Brilhante, Último Dia no Orfanato Tia Guga)'
+  - Nós E O Mar (News from Brazil - Bossa Nova!)
+  - 'Minta Meu Sonho (Nem Lágrima, Nem Dor)'
+  - 'Sinhá Pureza / Carimbó do Mato (Tô Chegando, Já Cheguei)'
+  - Bezouro Manganga (Eliana Pittman)
 external_urls:
-  spotify: https://open.spotify.com/artist/0N3LJDrESNQKDwr48hYAjE
-  wikipedia: https://en.wikipedia.org/wiki/Eliana_Pittman
-image_path: 03_Resources/source_material/ArtistPortraits/eliana_pittman_and_booker_pittman.jpg
+  spotify: 'https://open.spotify.com/artist/0N3LJDrESNQKDwr48hYAjE'
+  wikipedia: 'https://en.wikipedia.org/wiki/Eliana_Pittman'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/eliana_pittman_and_booker_pittman.jpg
 biography_enhanced_at: '2025-12-21T01:27:56.290946'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Eliana_Pittman
-- https://snapshot.apple.com/us/person/6621247251
-- https://www.slipcue.com/music/brazil/pittman_eliana_01.html
-- https://afro-brazilian.com/ourstories/
-- https://adp.library.ucsb.edu/names/337858
-- https://www.allmusic.com/artist/eliana-pittman-mn0000375069
-- https://www.allaboutjazz.com/news/eliana-pittman-brazilian-treasure/
-- https://www.imdb.com/name/nm0685931/bio/
-- https://www.last.fm/music/Eliana+Pittman/+wiki
+  - 'https://en.wikipedia.org/wiki/Eliana_Pittman'
+  - 'https://snapshot.apple.com/us/person/6621247251'
+  - 'https://www.slipcue.com/music/brazil/pittman_eliana_01.html'
+  - 'https://afro-brazilian.com/ourstories/'
+  - 'https://adp.library.ucsb.edu/names/337858'
+  - 'https://www.allmusic.com/artist/eliana-pittman-mn0000375069'
+  - 'https://www.allaboutjazz.com/news/eliana-pittman-brazilian-treasure/'
+  - 'https://www.imdb.com/name/nm0685931/bio/'
+  - 'https://www.last.fm/music/Eliana+Pittman/+wiki'
 network_extracted: true
 entry_created: '2025-12-21T01:27:56.290951'
 last_updated: '2025-12-23T08:16:08.291215'
+birth_date: '1945-08-14'
+artist_type: person
 ---
 
 ![](eliana_pittman_and_booker_pittman.jpg)

@@ -2,7 +2,7 @@
 title: Panorama Jazz Band
 wiki_slug: panorama-jazz-band
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 birth_date: '1995'
 genres: []
@@ -26,50 +26,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Aurora Nealand
-  - Charlie Halloran
-  - Matt Perrine
-  - Walter McClements
-  - Sean Clark
+    - Aurora Nealand
+    - Charlie Halloran
+    - Matt Perrine
+    - Walter McClements
+    - Sean Clark
   influenced:
-  - New Orleans wedding and party bands
+    - New Orleans wedding and party bands
   mentors:
-  - Dr. Michael White
+    - Dr. Michael White
 spotify_data:
   followers: 1404
   id: 7w8t2yRsX89BLDrZjhdhR3
   popularity: 3
-  url: https://open.spotify.com/artist/7w8t2yRsX89BLDrZjhdhR3
+  url: 'https://open.spotify.com/artist/7w8t2yRsX89BLDrZjhdhR3'
 discography_enriched: true
 top_tracks:
-- I'm Gonna Be a Wheel Someday (I'm Gonna Be a Wheel Someday)
-- Renee (Panoramaland)
-- Ba Moin En Ti Bo Doudou / Happy Birthday
-- Box Car Shorty
-- Serpent Maigre (Good Music for You)
-- Di shikerer tantz (Good Music for You)
-- Je veux vivre (feat. Katherine McClain) (Good Music for You)
-- Old MacDonald Had a Band
-- In the Summertime
-- Chororo (Good Music for You)
+  - I'm Gonna Be a Wheel Someday (I'm Gonna Be a Wheel Someday)
+  - Renee (Panoramaland)
+  - Ba Moin En Ti Bo Doudou / Happy Birthday
+  - Box Car Shorty
+  - Serpent Maigre (Good Music for You)
+  - Di shikerer tantz (Good Music for You)
+  - Je veux vivre (feat. Katherine McClain) (Good Music for You)
+  - Old MacDonald Had a Band
+  - In the Summertime
+  - Chororo (Good Music for You)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/14ba0ac1-b95d-43e7-bf91-9d6725bab07f
-  spotify: https://open.spotify.com/artist/7w8t2yRsX89BLDrZjhdhR3
+  musicbrainz: 'https://musicbrainz.org/artist/14ba0ac1-b95d-43e7-bf91-9d6725bab07f'
+  spotify: 'https://open.spotify.com/artist/7w8t2yRsX89BLDrZjhdhR3'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/panorama_jazz_band.jpg
 biography_enhanced_at: '2025-10-29T16:44:05.504905'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://bittersoutherner.com/kosher-gumbo-panorama-brass-band
-- https://www.myneworleans.com/panorama-jazz-band/
-- https://www.myneworleans.com/ben-schenk-and-the-panorama-jazz-band/
-- https://www.neworleans.com/listing/panorama-jazz-band/46512/
+  - 'https://bittersoutherner.com/kosher-gumbo-panorama-brass-band'
+  - 'https://www.myneworleans.com/panorama-jazz-band/'
+  - 'https://www.myneworleans.com/ben-schenk-and-the-panorama-jazz-band/'
+  - 'https://www.neworleans.com/listing/panorama-jazz-band/46512/'
 network_extracted: true
 entry_created: '2025-10-29T16:44:05.504914'
 last_updated: '2025-12-23T08:16:13.910287'
 musicbrainz_id: 14ba0ac1-b95d-43e7-bf91-9d6725bab07f
-origin: New Orleans
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](panorama_jazz_band.jpg)

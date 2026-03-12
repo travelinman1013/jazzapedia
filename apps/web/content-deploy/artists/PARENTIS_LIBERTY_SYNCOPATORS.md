@@ -1,12 +1,13 @@
 ---
-title: PARENTI'S LIBERTY SYNCOPATORS
+title: Parenti's Liberty Syncopators
 wiki_slug: parentis-liberty-syncopators
 schema_version: 2
 status: active
 genres:
-- ragtime
+  - ragtime
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/PARENTIS_LIBERTY_SYNCOPATORS.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/PARENTIS_LIBERTY_SYNCOPATORS.jpg
   caption: PARENTI'S LIBERTY SYNCOPATORS
   background: solo_singer
 audio_profile:
@@ -24,44 +25,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Dorsey Brothers Orchestra
-  - Ted Lewis
-  - Muggsy Spanier
-  - Preacher Rollo and his Five Saints
+    - The Dorsey Brothers Orchestra
+    - Ted Lewis
+    - Muggsy Spanier
+    - Preacher Rollo and his Five Saints
   influenced: []
   mentors:
-  - Johnny De Droit
+    - Johnny De Droit
 spotify_data:
   followers: 8
   id: 4OJ9ptFE5Xr1QMHEclXjnU
   popularity: 0
-  url: https://open.spotify.com/artist/4OJ9ptFE5Xr1QMHEclXjnU
+  url: 'https://open.spotify.com/artist/4OJ9ptFE5Xr1QMHEclXjnU'
 discography_enriched: true
 top_tracks:
-- You Made Me Like It Baby (Strut Yo' Stuff - The Recordings of Tony Parenti 1925-1929)
-- Parenti's Liberty Syncopators - I Need Some Lovin' (New Orleans Dance Bands)
-- Strut Yo' Stuff (Strut Yo' Stuff - The Recordings of Tony Parenti 1925-1929)
-- Midnight Papa (Strut Yo' Stuff - The Recordings of Tony Parenti 1925-1929)
-- I Need Some Lovin' (Strut Yo' Stuff - The Recordings of Tony Parenti 1925-1929)
-- Cabaret Echoes - Alternate Take (Strut Yo' Stuff - The Recordings of Tony Parenti 1925-1929)
-- Up Jumped the Devil (Strut Yo' Stuff - The Recordings of Tony Parenti 1925-1929)
-- Weary Blues (Strut Yo' Stuff - The Recordings of Tony Parenti 1925-1929)
-- New Crazy Blues - Take 1 (Strut Yo' Stuff - The Recordings of Tony Parenti 1925-1929)
-- New Crazy Blues - Take 2 (Strut Yo' Stuff - The Recordings of Tony Parenti 1925-1929)
+  - >-
+    You Made Me Like It Baby (Strut Yo' Stuff - The Recordings of Tony Parenti
+    1925-1929)
+  - Parenti's Liberty Syncopators - I Need Some Lovin' (New Orleans Dance Bands)
+  - Strut Yo' Stuff (Strut Yo' Stuff - The Recordings of Tony Parenti 1925-1929)
+  - Midnight Papa (Strut Yo' Stuff - The Recordings of Tony Parenti 1925-1929)
+  - >-
+    I Need Some Lovin' (Strut Yo' Stuff - The Recordings of Tony Parenti
+    1925-1929)
+  - >-
+    Cabaret Echoes - Alternate Take (Strut Yo' Stuff - The Recordings of Tony
+    Parenti 1925-1929)
+  - >-
+    Up Jumped the Devil (Strut Yo' Stuff - The Recordings of Tony Parenti
+    1925-1929)
+  - Weary Blues (Strut Yo' Stuff - The Recordings of Tony Parenti 1925-1929)
+  - >-
+    New Crazy Blues - Take 1 (Strut Yo' Stuff - The Recordings of Tony Parenti
+    1925-1929)
+  - >-
+    New Crazy Blues - Take 2 (Strut Yo' Stuff - The Recordings of Tony Parenti
+    1925-1929)
 external_urls:
-  spotify: https://open.spotify.com/artist/4OJ9ptFE5Xr1QMHEclXjnU
+  spotify: 'https://open.spotify.com/artist/4OJ9ptFE5Xr1QMHEclXjnU'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/PARENTIS_LIBERTY_SYNCOPATORS.jpg
 biography_enhanced_at: '2025-10-20T09:16:11.427428'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://syncopatedtimes.com/tony-parenti-1900-1972/
-- https://www.jstor.org/stable/4233811
+  - 'https://syncopatedtimes.com/tony-parenti-1900-1972/'
+  - 'https://www.jstor.org/stable/4233811'
 network_extracted: true
 entry_created: '2025-10-20T09:16:11.427444'
 last_updated: '2025-12-23T08:16:03.514998'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1900-08-06'
+death_date: '1972'
+artist_type: person
 ---
 
 ![](PARENTIS_LIBERTY_SYNCOPATORS.jpg)

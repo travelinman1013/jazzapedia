@@ -1,123 +1,124 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-02T01:23:07.726959'
 enhancement_provider: perplexity
 entry_created: '2026-01-02T01:23:07.726965'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/0ec7e7de-8233-4617-a475-22a8cb0976ba
-  spotify: https://open.spotify.com/artist/5azPg3aDw9C2eJEzItBbWx
-  wikipedia: https://en.wikipedia.org/wiki/Archie_Shepp
+  musicbrainz: 'https://musicbrainz.org/artist/0ec7e7de-8233-4617-a475-22a8cb0976ba'
+  spotify: 'https://open.spotify.com/artist/5azPg3aDw9C2eJEzItBbWx'
+  wikipedia: 'https://en.wikipedia.org/wiki/Archie_Shepp'
 genres:
-- free jazz
-- gnawa
-- jazz
-- hard bop
+  - free jazz
+  - gnawa
+  - jazz
+  - hard bop
 image_path: 03_Resources/source_material/ArtistPortraits/archie_shepp_quartet.jpg
 instruments:
-- membranophone
-- piano
-- eponymous
-- original
-last_updated: '2026-01-02T01:23:07.726965'
-members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1936de45-d7f0-441a-b9b9-45bedfbe2104
-  name: Cameron Brown
-- begin: ''
-  end: ''
-  instruments:
   - membranophone
-  mbid: 4fe83503-e49a-4d62-8ce1-571765377987
-  name: Georges Brown
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4d0594f6-6809-4b45-8df7-47c53b8542a5
-  name: Dave Burrell
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 84847059-3c6b-4f33-ad53-f30f19c73f43
-  name: Wayne Dockery
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 23388f69-9c11-44a6-b832-b9071db3423e
-  name: Lee Dorsey
-- begin: ''
-  end: ''
-  instruments:
   - piano
-  mbid: 8b7b131b-4917-4401-a5a7-840fffd4361c
-  name: John Hicks
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 446a0211-c71f-4440-ae53-2b2b009e2c1d
-  name: Siegfried Kessler
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c8dc6160-cdd0-479a-ade1-365a1732f693
-  name: Stephen McCraven
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 11538a87-783b-45fa-ac5e-f65e80c24233
-  name: George Mraz
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 318c02c2-d766-4843-9035-e186531fc98c
-  name: Idris Muhammad
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
-  mbid: 5ceff60b-8183-49bf-a855-328d3c172106
-  name: Archie Shepp
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: cdcc069e-a0f6-4cf5-a6aa-03f1b4ac501e
-  name: Herman Wright
+last_updated: '2026-01-02T01:23:07.726965'
+members:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1936de45-d7f0-441a-b9b9-45bedfbe2104
+    name: Cameron Brown
+  - begin: ''
+    end: ''
+    instruments:
+      - membranophone
+    mbid: 4fe83503-e49a-4d62-8ce1-571765377987
+    name: Georges Brown
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4d0594f6-6809-4b45-8df7-47c53b8542a5
+    name: Dave Burrell
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 84847059-3c6b-4f33-ad53-f30f19c73f43
+    name: Wayne Dockery
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 23388f69-9c11-44a6-b832-b9071db3423e
+    name: Lee Dorsey
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: 8b7b131b-4917-4401-a5a7-840fffd4361c
+    name: John Hicks
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 446a0211-c71f-4440-ae53-2b2b009e2c1d
+    name: Siegfried Kessler
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c8dc6160-cdd0-479a-ade1-365a1732f693
+    name: Stephen McCraven
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 11538a87-783b-45fa-ac5e-f65e80c24233
+    name: George Mraz
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 318c02c2-d766-4843-9035-e186531fc98c
+    name: Idris Muhammad
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 5ceff60b-8183-49bf-a855-328d3c172106
+    name: Archie Shepp
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: cdcc069e-a0f6-4cf5-a6aa-03f1b4ac501e
+    name: Herman Wright
 musical_connections:
   collaborators:
-  - Bill Dixon
-  - John Tchicai
-  - Don Cherry
-  - Roswell Rudd
-  - Horace Parlan
+    - Bill Dixon
+    - John Tchicai
+    - Don Cherry
+    - Roswell Rudd
+    - Horace Parlan
   influenced:
-  - Pharoah Sanders
+    - Pharoah Sanders
   mentors:
-  - Cecil Taylor
-  - John Coltrane
-  - Ben Webster
+    - Cecil Taylor
+    - John Coltrane
+    - Ben Webster
 musicbrainz_id: 0ec7e7de-8233-4617-a475-22a8cb0976ba
 network_extracted: true
-origin: Fort Lauderdale, Florida, United States
+origin: 'Fort Lauderdale, Florida, United States'
 primary_source: perplexity
 research_sources:
-- https://www.arts.gov/honors/jazz/archie-shepp
-- https://www.allaboutjazz.com/musicians/archie-shepp/
-- https://www.britannica.com/biography/Archie-Shepp
-- https://en.wikipedia.org/wiki/Archie_Shepp
-- https://www.umass.edu/diversity/black-presence-project/archie-shepp
-- https://www.selmer.fr/en/blogs/artistes/archie-shepp
+  - 'https://www.arts.gov/honors/jazz/archie-shepp'
+  - 'https://www.allaboutjazz.com/musicians/archie-shepp/'
+  - 'https://www.britannica.com/biography/Archie-Shepp'
+  - 'https://en.wikipedia.org/wiki/Archie_Shepp'
+  - 'https://www.umass.edu/diversity/black-presence-project/archie-shepp'
+  - 'https://www.selmer.fr/en/blogs/artistes/archie-shepp'
 spotify_data:
   followers: 1643
   id: 5azPg3aDw9C2eJEzItBbWx
   popularity: 11
-  url: https://open.spotify.com/artist/5azPg3aDw9C2eJEzItBbWx
+  url: 'https://open.spotify.com/artist/5azPg3aDw9C2eJEzItBbWx'
 status: active
 tags:
-- jazz
+  - jazz
 title: Archie Shepp Quartet
-
+birth_place: 'Fort Lauderdale, Florida, United States'
+birth_date: '1937-05-24'
 ---
 
 ![](archie_shepp_quartet.jpg)

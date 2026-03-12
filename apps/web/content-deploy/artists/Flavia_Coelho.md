@@ -6,30 +6,30 @@ status: deceased
 birth_name: Anthony Oladipo Allen
 aliases: []
 birth_date: '1940-07-20'
-birth_place: Rio de Janeiro, Brazil
+birth_place: 'Lagos, Nigeria'
 death_date: '2020-04-30'
 years_active: 1968–2020
 genres: []
 instruments:
-- drum kit
-- voice
+  - drum kit
+  - voice
 occupation:
-- songwriter
-- drummer
-- conductor
-- composer
+  - songwriter
+  - drummer
+  - conductor
+  - composer
 record_labels:
-- Astralwerks
+  - Astralwerks
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Flavia_Coelho.jpg
   caption: Flavia Coelho
   background: solo_singer
   birth_name: Anthony Oladipo Allen
   born: '1940-07-20'
-  origin: Rio de Janeiro, Brazil
+  origin: 'Rio de Janeiro, Brazil'
   died: '2020-04-30'
 audio_profile:
-  tempo_avg: 120.0
+  tempo_avg: 120
   energy_avg: 0.603
   valence_avg: 0.767
   danceability_avg: 0.797
@@ -43,53 +43,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Victor-Attila Vagh
-  - Tony Allen
-  - Cheikh Lô
+    - Victor-Attila Vagh
+    - Tony Allen
+    - Cheikh Lô
   influenced:
-  - No widely documented direct proteges or students
+    - No widely documented direct proteges or students
   mentors:
-  - Her mother
-  - Victor-Attila Vagh
+    - Her mother
+    - Victor-Attila Vagh
 related_artists: []
 spotify_data:
   followers: 89694
   id: 4Lu4jDj4ky1wxvRDgL90tc
   popularity: 53
-  url: https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc
+  url: 'https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc'
   verified: false
 discography_enriched: true
 albums_count: 7
 singles_count: 41
 top_tracks:
-- Balade brésilienne
-- Temontou (Sonho Real)
-- Sunshine - Acoustic Version (Bossa Muffin (Deluxe Edition))
-- Degg Gui (feat. Flavia Coelho & Fixi)
-- Billy Django (DNA)
-- Na Favela (Sonho Real)
-- Li Sem - L'Entourloop Remix
-- Café Com Leite (Soft Power)
-- Café Com Leite - Boogát Remix
-- Li Sem - L'Entourloop Remix
+  - Balade brésilienne
+  - Temontou (Sonho Real)
+  - Sunshine - Acoustic Version (Bossa Muffin (Deluxe Edition))
+  - Degg Gui (feat. Flavia Coelho & Fixi)
+  - Billy Django (DNA)
+  - Na Favela (Sonho Real)
+  - Li Sem - L'Entourloop Remix
+  - Café Com Leite (Soft Power)
+  - Café Com Leite - Boogát Remix
+  - Li Sem - L'Entourloop Remix
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc
-  wikipedia: https://en.wikipedia.org/wiki/Flavia_Coelho
+  spotify: 'https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc'
+  wikipedia: 'https://en.wikipedia.org/wiki/Flavia_Coelho'
 image_path: 03_Resources/source_material/ArtistPortraits/Flavia_Coelho.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:21:30.088943'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.standard.co.uk/culture/music/rich-mix-in-shoreditch-meet-headline-act-flavia-coelho-10211841.html
-- https://mupa.hu/en/program/world-music-jazz-popular-music/flavia-coelho-soundsystem-2023-12-16_20-00-festival-theatre
-- https://afropop.org/articles/flavia-coelho-a-brazilian-soul
-- https://www.francerocks.com/artist/flavia-coelho/
+  - >-
+    https://www.standard.co.uk/culture/music/rich-mix-in-shoreditch-meet-headline-act-flavia-coelho-10211841.html
+  - >-
+    https://mupa.hu/en/program/world-music-jazz-popular-music/flavia-coelho-soundsystem-2023-12-16_20-00-festival-theatre
+  - 'https://afropop.org/articles/flavia-coelho-a-brazilian-soul'
+  - 'https://www.francerocks.com/artist/flavia-coelho/'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 15:21:43.240053
+entry_created: 2025-09-18T15:21:43.240Z
 last_updated: '2025-12-23T08:16:02.024022'
+is_active: false
+origin: 'Rio de Janeiro, Brazil'
+artist_type: person
 ---
 
 ![](Flavia_Coelho.jpg)

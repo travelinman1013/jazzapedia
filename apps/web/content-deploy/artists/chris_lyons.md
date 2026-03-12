@@ -3,14 +3,14 @@ title: Chris Lyons
 wiki_slug: chris-lyons
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- alt country
+  - alt country
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/chris_lyons.jpg
   caption: Chris Lyons
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 106.7
   energy_avg: 0.499
@@ -26,45 +26,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Prakash
-  - Lucas Bogner
-  - Peter Campanelli
+    - Prakash
+    - Lucas Bogner
+    - Peter Campanelli
   influenced: []
   mentors:
-  - Big Star (influence)
-  - The Kinks (influence)
+    - Big Star (influence)
+    - The Kinks (influence)
 spotify_data:
   followers: 35
   id: 0fk3H8z70SOhe9o0izCBGJ
   popularity: 4
-  url: https://open.spotify.com/artist/0fk3H8z70SOhe9o0izCBGJ
+  url: 'https://open.spotify.com/artist/0fk3H8z70SOhe9o0izCBGJ'
 discography_enriched: true
 top_tracks:
-- Talking Blues (Talking Blues)
-- It's Come over Me (It's Come over Me)
-- Long Gone (Long Gone)
-- Talking Blues (Painters Street)
-- In Memory (Painters Street)
-- When Are You Coming Down (Painters Street)
-- It's Come over Me (Painters Street)
-- Long Gone (Painters Street)
-- Here or There (Painters Street)
-- You Can't Hide (Painters Street)
+  - Talking Blues (Talking Blues)
+  - It's Come over Me (It's Come over Me)
+  - Long Gone (Long Gone)
+  - Talking Blues (Painters Street)
+  - In Memory (Painters Street)
+  - When Are You Coming Down (Painters Street)
+  - It's Come over Me (Painters Street)
+  - Long Gone (Painters Street)
+  - Here or There (Painters Street)
+  - You Can't Hide (Painters Street)
 external_urls:
-  spotify: https://open.spotify.com/artist/0fk3H8z70SOhe9o0izCBGJ
+  spotify: 'https://open.spotify.com/artist/0fk3H8z70SOhe9o0izCBGJ'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/chris_lyons.jpg
 biography_enhanced_at: '2025-11-06T13:33:50.020404'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.myspiltmilk.com/articles/rock-n-roll-greats-give-silver-synthetic-more-than-inspiration
-- http://www.ravensingstheblues.com/chris-lyons/
-- https://www.allmusic.com/artist/chris-lyons-mn0002120171
-- https://www.youtube.com/watch?v=IEYnhsUBp7M
+  - >-
+    https://www.myspiltmilk.com/articles/rock-n-roll-greats-give-silver-synthetic-more-than-inspiration
+  - 'http://www.ravensingstheblues.com/chris-lyons/'
+  - 'https://www.allmusic.com/artist/chris-lyons-mn0002120171'
+  - 'https://www.youtube.com/watch?v=IEYnhsUBp7M'
 network_extracted: true
 entry_created: '2025-11-06T13:33:50.020420'
 last_updated: '2025-12-23T08:16:06.893465'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](chris_lyons.jpg)

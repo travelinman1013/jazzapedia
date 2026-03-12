@@ -3,10 +3,10 @@ biography_enhanced_at: '2026-01-03T01:39:21.723148'
 enhancement_provider: perplexity
 entry_created: '2026-01-03T01:39:21.723163'
 external_urls:
-  spotify: https://open.spotify.com/artist/1khtrBZfZUNjfjESgbFzqk
+  spotify: 'https://open.spotify.com/artist/1khtrBZfZUNjfjESgbFzqk'
   wikipedia: ''
 genres:
-- sea shanties
+  - sea shanties
 image_path: 03_Resources/source_material/ArtistPortraits/herringbone_orchestra.jpg
 last_updated: '2026-01-03T01:39:21.723165'
 musical_connections:
@@ -16,15 +16,16 @@ musical_connections:
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.herringbonerecords.com[1]
-- 'Spotify context (genres: sea shanties, popularity: 0)'
+  - 'https://www.herringbonerecords.com[1]'
+  - 'Spotify context (genres: sea shanties, popularity: 0)'
 spotify_data:
   followers: 45
   id: 1khtrBZfZUNjfjESgbFzqk
   popularity: 0
-  url: https://open.spotify.com/artist/1khtrBZfZUNjfjESgbFzqk
+  url: 'https://open.spotify.com/artist/1khtrBZfZUNjfjESgbFzqk'
 status: active
 title: Herringbone Orchestra
+artist_type: band
 ---
 
 ![](herringbone_orchestra.jpg)

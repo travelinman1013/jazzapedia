@@ -1,12 +1,12 @@
 ---
-title: deadbolt
+title: Deadbolt
 wiki_slug: deadbolt
 schema_version: 2
 status: active
 genres:
-- psychobilly
-- rockabilly
-- surf rock
+  - psychobilly
+  - rockabilly
+  - surf rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/deadbolt.jpg
   caption: deadbolt
@@ -26,49 +26,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Harley Davidson
-  - Robert 'RA' MacLean
-  - Gary '3rd Degree' Burns
-  - Tank Johnson
-  - Diana Death
+    - Harley Davidson
+    - Robert 'RA' MacLean
+    - Gary '3rd Degree' Burns
+    - Tank Johnson
+    - Diana Death
   influenced:
-  - Ghoultown
-  - Vampire Beach Babes
+    - Ghoultown
+    - Vampire Beach Babes
   mentors:
-  - The Cramps
+    - The Cramps
 spotify_data:
   followers: 17817
   id: 75BzUDa6i1c61tSjyywqY0
   popularity: 28
-  url: https://open.spotify.com/artist/75BzUDa6i1c61tSjyywqY0
+  url: 'https://open.spotify.com/artist/75BzUDa6i1c61tSjyywqY0'
 discography_enriched: true
 top_tracks:
-- El Paso (Buy a Gun - Get a Free Guitar)
-- Billy's Dead (Voodoo Trucker)
-- Truck Driving S.O.B. (Voodoo Trucker)
-- Scare Me (Tiki Man)
-- Tiki Man (Tiki Man)
-- Voodoo Trucker (Voodoo Trucker)
-- Hillbilly Zombies (Buy a Gun - Get a Free Guitar)
-- Roadside Cross (Voodoo Trucker)
-- Hillbilly War (Buy a Gun - Get a Free Guitar)
-- Tijuana Hit Squad (Tijuana Hit Squad)
+  - El Paso (Buy a Gun - Get a Free Guitar)
+  - Billy's Dead (Voodoo Trucker)
+  - Truck Driving S.O.B. (Voodoo Trucker)
+  - Scare Me (Tiki Man)
+  - Tiki Man (Tiki Man)
+  - Voodoo Trucker (Voodoo Trucker)
+  - Hillbilly Zombies (Buy a Gun - Get a Free Guitar)
+  - Roadside Cross (Voodoo Trucker)
+  - Hillbilly War (Buy a Gun - Get a Free Guitar)
+  - Tijuana Hit Squad (Tijuana Hit Squad)
 external_urls:
-  spotify: https://open.spotify.com/artist/75BzUDa6i1c61tSjyywqY0
-  wikipedia: https://en.wikipedia.org/wiki/Deadbolt_(band)
+  spotify: 'https://open.spotify.com/artist/75BzUDa6i1c61tSjyywqY0'
+  wikipedia: 'https://en.wikipedia.org/wiki/Deadbolt_(band)'
 image_path: 03_Resources/source_material/ArtistPortraits/deadbolt.jpg
 biography_enhanced_at: '2025-10-25T10:12:56.991097'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Deadbolt_(band)
-- https://www.last.fm/music/Deadbolt/+wiki
-- https://cvindependent.com/2015/11/still-scary-deadbolt-has-slowed-down-but-the-psychobilly-band-s-shows-remain-crazy/
+  - 'https://en.wikipedia.org/wiki/Deadbolt_(band)'
+  - 'https://www.last.fm/music/Deadbolt/+wiki'
+  - >-
+    https://cvindependent.com/2015/11/still-scary-deadbolt-has-slowed-down-but-the-psychobilly-band-s-shows-remain-crazy/
 network_extracted: true
 entry_created: '2025-10-25T10:12:56.991114'
 last_updated: '2025-12-23T08:16:07.635452'
-origin: San Diego, California, United States
-
+origin: 'San Diego, California, United States'
+artist_type: band
 ---
 
 ![](deadbolt.jpg)

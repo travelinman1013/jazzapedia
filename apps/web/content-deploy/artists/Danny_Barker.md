@@ -3,16 +3,16 @@ title: Danny Barker
 wiki_slug: danny-barker
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- ragtime
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Danny_Barker.jpg
   caption: Danny Barker
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
-  tempo_avg: 106.0
+  tempo_avg: 106
   energy_avg: 0.518
   valence_avg: 0.575
   danceability_avg: 0.521
@@ -26,50 +26,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Cab Calloway
-  - Blue Lu Barker
-  - Lucky Millinder
-  - Benny Carter
+    - Cab Calloway
+    - Blue Lu Barker
+    - Lucky Millinder
+    - Benny Carter
   influenced:
-  - Wynton Marsalis
-  - Branford Marsalis
-  - Nicholas Payton
+    - Wynton Marsalis
+    - Branford Marsalis
+    - Nicholas Payton
   mentors:
-  - Emanuel Sayles
-  - Barney Bigard
-  - Paul Barbarin
+    - Emanuel Sayles
+    - Barney Bigard
+    - Paul Barbarin
 spotify_data:
   followers: 36
   id: 1S2dtTzsuQjHcjaHu7qn3v
   popularity: 2
-  url: https://open.spotify.com/artist/1S2dtTzsuQjHcjaHu7qn3v
+  url: 'https://open.spotify.com/artist/1S2dtTzsuQjHcjaHu7qn3v'
 discography_enriched: true
 top_tracks:
-- Eh La Bas (Al Rose Presents "Journeys into Jazz")
-- Save the Bones for Henry Jones (Al Rose Presents "Journeys into Jazz")
-- Make Me a Pallet on Your Floor (Atlanta Blues) (Al Rose Presents "Journeys into Jazz")
-- It's Right Here for Ya (Blue Lu Barker)
-- Everybody Loves My Baby (Al Rose Presents "Journeys into Jazz")
-- Big Butter and Egg Man (Blue Lu Barker)
-- Gulf Coast Blues (Blue Lu Barker)
-- Don't You Feel My Leg (Blue Lu Barker)
-- 'I Wish I Could Shimmy Like My Sister Kate - #2 (Blue Lu Barker)'
-- Georgia Grind (Blue Lu Barker)
+  - Eh La Bas (Al Rose Presents "Journeys into Jazz")
+  - Save the Bones for Henry Jones (Al Rose Presents "Journeys into Jazz")
+  - >-
+    Make Me a Pallet on Your Floor (Atlanta Blues) (Al Rose Presents "Journeys
+    into Jazz")
+  - It's Right Here for Ya (Blue Lu Barker)
+  - Everybody Loves My Baby (Al Rose Presents "Journeys into Jazz")
+  - Big Butter and Egg Man (Blue Lu Barker)
+  - Gulf Coast Blues (Blue Lu Barker)
+  - Don't You Feel My Leg (Blue Lu Barker)
+  - 'I Wish I Could Shimmy Like My Sister Kate - #2 (Blue Lu Barker)'
+  - Georgia Grind (Blue Lu Barker)
 external_urls:
-  spotify: https://open.spotify.com/artist/1S2dtTzsuQjHcjaHu7qn3v
-  wikipedia: https://en.wikipedia.org/wiki/Danny_Barker
+  spotify: 'https://open.spotify.com/artist/1S2dtTzsuQjHcjaHu7qn3v'
+  wikipedia: 'https://en.wikipedia.org/wiki/Danny_Barker'
 image_path: 03_Resources/source_material/ArtistPortraits/Danny_Barker.jpg
 biography_enhanced_at: '2025-10-20T08:59:44.312411'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://kids.kiddle.co/Danny_Barker
-- https://www.arts.gov/honors/jazz/danny-barker
-- https://en.wikipedia.org/wiki/Danny_Barker
+  - 'https://kids.kiddle.co/Danny_Barker'
+  - 'https://www.arts.gov/honors/jazz/danny-barker'
+  - 'https://en.wikipedia.org/wiki/Danny_Barker'
 network_extracted: true
 entry_created: '2025-10-20T08:59:44.312421'
 last_updated: '2025-12-23T08:16:01.653572'
-
+birth_date: '1909-01-13'
+death_date: '1994-03-13'
+artist_type: person
 ---
 
 ![](Danny_Barker.jpg)

@@ -1,36 +1,39 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-16T01:40:16.171266'
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-16T01:40:16.171272'
 external_urls:
-  spotify: https://open.spotify.com/artist/4dFJtWLIpoVBx8vcqb192p
+  spotify: 'https://open.spotify.com/artist/4dFJtWLIpoVBx8vcqb192p'
   wikipedia: ''
 genres: []
-image_path: 03_Resources/source_material/ArtistPortraits/kevin_louis_and_the_palm_court_jazz_band.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/kevin_louis_and_the_palm_court_jazz_band.jpg
 last_updated: '2026-01-16T01:40:16.171273'
 musical_connections:
   collaborators:
-  - Preservation All-Stars
-  - Palm Court Jazz Band
+    - Preservation All-Stars
+    - Palm Court Jazz Band
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://snugjazz.com/tm-event/kevin-louis-palm-court-jazz-band/
-- https://www.neworleans.com/listing/kevin-louis/46449/
-- https://www.nojc.org/events/nickel-a-dance-kevin-louis-the-palm-court-jazz-band
-- https://syncopatedtimes.com/palm-court-thanks-for-the-memory/
-- https://www.youtube.com/watch?v=UKFvaw15hf4
+  - 'https://snugjazz.com/tm-event/kevin-louis-palm-court-jazz-band/'
+  - 'https://www.neworleans.com/listing/kevin-louis/46449/'
+  - >-
+    https://www.nojc.org/events/nickel-a-dance-kevin-louis-the-palm-court-jazz-band
+  - 'https://syncopatedtimes.com/palm-court-thanks-for-the-memory/'
+  - 'https://www.youtube.com/watch?v=UKFvaw15hf4'
 spotify_data:
   followers: 6
   id: 4dFJtWLIpoVBx8vcqb192p
   popularity: 0
-  url: https://open.spotify.com/artist/4dFJtWLIpoVBx8vcqb192p
+  url: 'https://open.spotify.com/artist/4dFJtWLIpoVBx8vcqb192p'
 status: active
 title: Kevin Louis & the Palm Court Jazz Band
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](kevin_louis_and_the_palm_court_jazz_band.jpg)

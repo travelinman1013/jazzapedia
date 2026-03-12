@@ -1,15 +1,15 @@
 ---
-title: A Tribe Called Quest, Spanky
+title: A Tribe Called Quest
 wiki_slug: a-tribe-called-quest-spanky
 schema_version: 2
 status: active
 genres:
-- jazz rap
-- east coast hip hop
-- hip hop
+  - jazz rap
+  - east coast hip hop
+  - hip hop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/a_tribe_called_quest_spanky.jpg
-  caption: A Tribe Called Quest, Spanky
+  caption: 'A Tribe Called Quest, Spanky'
   background: solo_singer
 audio_profile:
   tempo_avg: 98.6
@@ -26,52 +26,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Q-Tip (Kamaal Fareed)
-  - Phife Dawg (Malik Taylor)
-  - Ali Shaheed Muhammad
-  - Jarobi White
-  - Chalmers 'Spanky' Alford
+    - Q-Tip (Kamaal Fareed)
+    - Phife Dawg (Malik Taylor)
+    - Ali Shaheed Muhammad
+    - Jarobi White
+    - Chalmers 'Spanky' Alford
   influenced:
-  - The Roots
-  - Common
-  - Kendrick Lamar
-  - Anderson .Paak
+    - The Roots
+    - Common
+    - Kendrick Lamar
+    - Anderson .Paak
   mentors:
-  - Kool DJ Red Alert
-  - Afrika Baby Bam (Jungle Brothers)
+    - Kool DJ Red Alert
+    - Afrika Baby Bam (Jungle Brothers)
 spotify_data:
   followers: 2404216
   id: 09hVIj6vWgoCDtT03h8ZCa
   popularity: 65
-  url: https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa
+  url: 'https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa'
 discography_enriched: true
 top_tracks:
-- Can I Kick It? (People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition))
-- Electric Relaxation
-- Check the Rhime (The Low End Theory)
-- Jazz (We've Got) (The Low End Theory)
-- The Hop (Beats, Rhymes & Life)
-- Award Tour (feat. Trugoy The Dove) (Midnight Marauders)
-- Find a Way (The Love Movement)
-- Buggin' Out (The Low End Theory)
-- Excursions (The Low End Theory)
-- Scenario (feat. Busta Rhymes, Dinco D & Charlie Brown) - LP Mix (The Low End Theory)
+  - >-
+    Can I Kick It? (People's Instinctive Travels and the Paths of Rhythm (25th
+    Anniversary Edition))
+  - Electric Relaxation
+  - Check the Rhime (The Low End Theory)
+  - Jazz (We've Got) (The Low End Theory)
+  - 'The Hop (Beats, Rhymes & Life)'
+  - Award Tour (feat. Trugoy The Dove) (Midnight Marauders)
+  - Find a Way (The Love Movement)
+  - Buggin' Out (The Low End Theory)
+  - Excursions (The Low End Theory)
+  - >-
+    Scenario (feat. Busta Rhymes, Dinco D & Charlie Brown) - LP Mix (The Low End
+    Theory)
 external_urls:
-  spotify: https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa
-  wikipedia: https://en.wikipedia.org/wiki/A_Tribe_Called_Quest
+  spotify: 'https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa'
+  wikipedia: 'https://en.wikipedia.org/wiki/A_Tribe_Called_Quest'
 image_path: 03_Resources/source_material/ArtistPortraits/a_tribe_called_quest_spanky.jpg
 biography_enhanced_at: '2025-11-05T12:51:50.759361'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/A_Tribe_Called_Quest
-- https://hiphopgoldenage.com/a-tribe-called-quest-innovators-of-jazz-rap-and-hip-hops-golden-age/
-- https://observer.com/2016/09/a-tribe-called-quest-sparked-hip-hops-love-affair-with-jazz-on-low-end-theory/
+  - 'https://en.wikipedia.org/wiki/A_Tribe_Called_Quest'
+  - >-
+    https://hiphopgoldenage.com/a-tribe-called-quest-innovators-of-jazz-rap-and-hip-hops-golden-age/
+  - >-
+    https://observer.com/2016/09/a-tribe-called-quest-sparked-hip-hops-love-affair-with-jazz-on-low-end-theory/
 network_extracted: true
 entry_created: '2025-11-05T12:51:50.759376'
 last_updated: '2025-12-23T08:16:04.339962'
-origin: Queens, New York City, New York, United States
-
+origin: 'Queens, New York City, New York, United States'
+artist_type: band
 ---
 
 ![](a_tribe_called_quest_spanky.jpg)

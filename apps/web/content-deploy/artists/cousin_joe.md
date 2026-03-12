@@ -1,15 +1,15 @@
 ---
-title: cousin joe
+title: Cousin Joe
 wiki_slug: cousin-joe
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1907-12-20'
-birth_place: St. John the Baptist Parish
+birth_place: 'Wallace, Louisiana, United States'
 death_date: '1989-10-02'
 genres:
-- blues
-- boogie-woogie
+  - blues
+  - boogie-woogie
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/cousin_joe.jpg
   caption: cousin joe
@@ -32,54 +32,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mezz Mezzrow
-  - Billie Holiday
-  - Charlie Parker
-  - Dizzy Gillespie
+    - Mezz Mezzrow
+    - Billie Holiday
+    - Charlie Parker
+    - Dizzy Gillespie
   influenced:
-  - Louis Prima
+    - Louis Prima
   mentors:
-  - Sidney Bechet
+    - Sidney Bechet
 spotify_data:
   followers: 456
   id: 0nMomy7YPhXSsHep4sNAWv
   popularity: 3
-  url: https://open.spotify.com/artist/0nMomy7YPhXSsHep4sNAWv
+  url: 'https://open.spotify.com/artist/0nMomy7YPhXSsHep4sNAWv'
 discography_enriched: true
 top_tracks:
-- Chicken a La King (Rhapsody in Bronze)
-- Won't Settle Down (From New Orleans)
-- Phoney Woman (Rhapsody in Bronze)
-- I Never Harmed An Onion (I Never Harmed An Onion)
-- Living on Borrowed Time
-- Weddin' Day Blues
-- Boogie (The Blues Of)
-- Country Boy (Rhapsody in Bronze)
-- Beggin' Woman (Rhapsody in Bronze)
-- Checkin' Out (Gospel-Wailing, Jazz Playing, Rock ‘N’ Rolling, Soul Shouting, Tap-Dancing Bluesman From New Orleans)
+  - Chicken a La King (Rhapsody in Bronze)
+  - Won't Settle Down (From New Orleans)
+  - Phoney Woman (Rhapsody in Bronze)
+  - I Never Harmed An Onion (I Never Harmed An Onion)
+  - Living on Borrowed Time
+  - Weddin' Day Blues
+  - Boogie (The Blues Of)
+  - Country Boy (Rhapsody in Bronze)
+  - Beggin' Woman (Rhapsody in Bronze)
+  - >-
+    Checkin' Out (Gospel-Wailing, Jazz Playing, Rock ‘N’ Rolling, Soul Shouting,
+    Tap-Dancing Bluesman From New Orleans)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/98e2f2c2-2b24-42f6-8b38-74414dfca3bf
-  spotify: https://open.spotify.com/artist/0nMomy7YPhXSsHep4sNAWv
-  wikipedia: https://en.wikipedia.org/wiki/Cousin_Joe
+  musicbrainz: 'https://musicbrainz.org/artist/98e2f2c2-2b24-42f6-8b38-74414dfca3bf'
+  spotify: 'https://open.spotify.com/artist/0nMomy7YPhXSsHep4sNAWv'
+  wikipedia: 'https://en.wikipedia.org/wiki/Cousin_Joe'
 image_path: 03_Resources/source_material/ArtistPortraits/cousin_joe.jpg
 biography_enhanced_at: '2025-11-06T13:28:06.884353'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Cousin_Joe
-- https://blinddogradio.blogspot.com/2020/02/cousin-joe.html
-- https://curtsblues.com/elementor-10803/
-- https://www.wwoz.org/blog/3338
-- https://fromthevaults-boppinbob.blogspot.com/2015/12/cousin-joe-born-20-december-1907.html
+  - 'https://en.wikipedia.org/wiki/Cousin_Joe'
+  - 'https://blinddogradio.blogspot.com/2020/02/cousin-joe.html'
+  - 'https://curtsblues.com/elementor-10803/'
+  - 'https://www.wwoz.org/blog/3338'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2015/12/cousin-joe-born-20-december-1907.html
 network_extracted: true
 entry_created: '2025-11-06T13:28:06.884371'
 last_updated: '2025-12-23T08:16:07.250841'
 gender: Male
 musicbrainz_id: 98e2f2c2-2b24-42f6-8b38-74414dfca3bf
 tags:
-- blues
-- jazz
-
+  - blues
+  - jazz
+is_active: false
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](cousin_joe.jpg)

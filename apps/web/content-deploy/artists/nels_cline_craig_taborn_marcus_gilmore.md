@@ -1,50 +1,54 @@
 ---
 biography_enhanced_at: '2026-01-06T02:04:03.417125'
-birth_place: Los Angeles, California, United States
+birth_place: 'Los Angeles, California, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-06T02:04:03.417131'
 external_urls:
-  spotify: https://open.spotify.com/artist/3s6o8vxtYJ1utkWl8EXxUp
-  wikipedia: https://en.wikipedia.org/wiki/Nels_Cline
+  spotify: 'https://open.spotify.com/artist/3s6o8vxtYJ1utkWl8EXxUp'
+  wikipedia: 'https://en.wikipedia.org/wiki/Nels_Cline'
 genres:
-- free jazz
-- avant-garde
-- jazz
-image_path: 03_Resources/source_material/ArtistPortraits/nels_cline_craig_taborn_marcus_gilmore.jpg
+  - free jazz
+  - avant-garde
+  - jazz
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/nels_cline_craig_taborn_marcus_gilmore.jpg
 last_updated: '2026-01-06T02:04:03.417132'
 musical_connections:
   collaborators:
-  - Alex Cline
-  - Tim Berne
-  - Julius Hemphill
-  - Julian Lage
-  - Jeff Tweedy
-  - Carla Bozulich
-  - Mike Watt
+    - Alex Cline
+    - Tim Berne
+    - Julius Hemphill
+    - Julian Lage
+    - Jeff Tweedy
+    - Carla Bozulich
+    - Mike Watt
   influenced: []
   mentors:
-  - Vinny Golia
-  - Eric Von Essen
+    - Vinny Golia
+    - Eric Von Essen
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Nels_Cline
-- https://www.nelscline.com/biography
-- https://diffuser.fm/nels-cline-wilco-guitar-playing-interview/
-- https://www.spin.com/2025/03/the-returning-angel-nels-clines-50-year-journey/
-- https://www.stringsbymail.com/articles/nels-cline-a-guitarist-for-all-seasons/
-- https://www.sfjazz.org/onthecorner/story-behind-nels-clines-lovers
-- https://www.pewcenterarts.org/post/guitarist-nels-cline-musical-lineage
-- https://downbeat.com/archives/artist/nels-cline
-- https://www.highroadtouring.com/artists/nels-cline-2/
+  - 'https://en.wikipedia.org/wiki/Nels_Cline'
+  - 'https://www.nelscline.com/biography'
+  - 'https://diffuser.fm/nels-cline-wilco-guitar-playing-interview/'
+  - >-
+    https://www.spin.com/2025/03/the-returning-angel-nels-clines-50-year-journey/
+  - >-
+    https://www.stringsbymail.com/articles/nels-cline-a-guitarist-for-all-seasons/
+  - 'https://www.sfjazz.org/onthecorner/story-behind-nels-clines-lovers'
+  - 'https://www.pewcenterarts.org/post/guitarist-nels-cline-musical-lineage'
+  - 'https://downbeat.com/archives/artist/nels-cline'
+  - 'https://www.highroadtouring.com/artists/nels-cline-2/'
 spotify_data:
   followers: 27033
   id: 3s6o8vxtYJ1utkWl8EXxUp
   popularity: 31
-  url: https://open.spotify.com/artist/3s6o8vxtYJ1utkWl8EXxUp
+  url: 'https://open.spotify.com/artist/3s6o8vxtYJ1utkWl8EXxUp'
 status: active
-title: Nels Cline, Craig Taborn, Marcus Gilmore
-
+title: 'Nels Cline, Craig Taborn, Marcus Gilmore'
+birth_date: '1956-01-04'
+artist_type: band
 ---
 
 ![](nels_cline_craig_taborn_marcus_gilmore.jpg)

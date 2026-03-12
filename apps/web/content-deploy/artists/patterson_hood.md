@@ -5,47 +5,47 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1964-03-24'
-birth_place: Muscle Shoals
+birth_place: 'Muscle Shoals, Alabama, United States'
 genres:
-- alt country
-- americana
-- roots rock
+  - alt country
+  - americana
+  - roots rock
 instruments:
-- lead vocals
-- original
-- mandolin
-- guitar
-- acoustic guitar
-- electric guitar
-- piano
-- background vocals
-associated_acts:
-- begin: '1996'
-  end: ''
-  instruments:
   - lead vocals
   - original
-  mbid: 8eae1e0a-1696-4532-9e3c-0a072217ef4c
-  name: Drive‐By Truckers
-- begin: '1996'
-  end: ''
-  instruments:
   - mandolin
-  - original
-  mbid: 8eae1e0a-1696-4532-9e3c-0a072217ef4c
-  name: Drive‐By Truckers
-- begin: '1996'
-  end: ''
-  instruments:
   - guitar
-  - original
-  mbid: 8eae1e0a-1696-4532-9e3c-0a072217ef4c
-  name: Drive‐By Truckers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0226de2f-dc02-4e9a-87a1-e9eb3bd794c3
-  name: Patterson Hood & Craig Finn
+  - acoustic guitar
+  - electric guitar
+  - piano
+  - background vocals
+associated_acts:
+  - begin: '1996'
+    end: ''
+    instruments:
+      - lead vocals
+      - original
+    mbid: 8eae1e0a-1696-4532-9e3c-0a072217ef4c
+    name: Drive‐By Truckers
+  - begin: '1996'
+    end: ''
+    instruments:
+      - mandolin
+      - original
+    mbid: 8eae1e0a-1696-4532-9e3c-0a072217ef4c
+    name: Drive‐By Truckers
+  - begin: '1996'
+    end: ''
+    instruments:
+      - guitar
+      - original
+    mbid: 8eae1e0a-1696-4532-9e3c-0a072217ef4c
+    name: Drive‐By Truckers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0226de2f-dc02-4e9a-87a1-e9eb3bd794c3
+    name: Patterson Hood & Craig Finn
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/patterson_hood.jpg
   caption: Patterson Hood
@@ -67,53 +67,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mike Cooley
-  - Chris Funk
-  - Mike Mills
-  - Jay Gonzalez, Brad Morgan, John Neff, David Barbe
-  - Waxahatchee, Wednesday, Lydia Loveless
+    - Mike Cooley
+    - Chris Funk
+    - Mike Mills
+    - 'Jay Gonzalez, Brad Morgan, John Neff, David Barbe'
+    - 'Waxahatchee, Wednesday, Lydia Loveless'
   influenced: []
   mentors:
-  - David Hood
+    - David Hood
 spotify_data:
   followers: 21049
   id: 5JnjssuFBg104paXN0mKKn
   popularity: 32
-  url: https://open.spotify.com/artist/5JnjssuFBg104paXN0mKKn
+  url: 'https://open.spotify.com/artist/5JnjssuFBg104paXN0mKKn'
 discography_enriched: true
 top_tracks:
-- The Forks of Cypress (feat. Waxahatchee) (Exploding Trees & Airplane Screams)
-- Goddamn Lonely Love - Live (Live at the Shoals Theatre)
-- The Forks of Cypress (Exploding Trees & Airplane Screams)
-- Cover Me Up - Live (Live at the Shoals Theatre)
-- Come Back Little Star (Heat Lightning Rumbles In The Distance)
-- Outfit - Live (Live at the Shoals Theatre)
-- Leaving Time (Heat Lightning Rumbles In The Distance)
-- A Werewolf And A Girl (feat. Lydia Loveless) (Exploding Trees & Airplane Screams)
-- The Van Pelt Parties (feat. Wednesday) (Exploding Trees & Airplane Screams)
-- The Forks of Cypress
+  - >-
+    The Forks of Cypress (feat. Waxahatchee) (Exploding Trees & Airplane
+    Screams)
+  - Goddamn Lonely Love - Live (Live at the Shoals Theatre)
+  - The Forks of Cypress (Exploding Trees & Airplane Screams)
+  - Cover Me Up - Live (Live at the Shoals Theatre)
+  - Come Back Little Star (Heat Lightning Rumbles In The Distance)
+  - Outfit - Live (Live at the Shoals Theatre)
+  - Leaving Time (Heat Lightning Rumbles In The Distance)
+  - >-
+    A Werewolf And A Girl (feat. Lydia Loveless) (Exploding Trees & Airplane
+    Screams)
+  - The Van Pelt Parties (feat. Wednesday) (Exploding Trees & Airplane Screams)
+  - The Forks of Cypress
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/701312f1-3bef-40fd-9144-e7d1280af6b7
-  spotify: https://open.spotify.com/artist/5JnjssuFBg104paXN0mKKn
-  wikipedia: https://en.wikipedia.org/wiki/Patterson_Hood
+  musicbrainz: 'https://musicbrainz.org/artist/701312f1-3bef-40fd-9144-e7d1280af6b7'
+  spotify: 'https://open.spotify.com/artist/5JnjssuFBg104paXN0mKKn'
+  wikipedia: 'https://en.wikipedia.org/wiki/Patterson_Hood'
 image_path: 03_Resources/source_material/ArtistPortraits/patterson_hood.jpg
 biography_enhanced_at: '2025-12-15T01:28:27.188069'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Patterson_Hood
-- https://pattersonhood.com
-- https://mokbpresents.com/artist/patterson-hood-of-drive-by-truckers/
-- https://rockandrollglobe.com/rock/drive-by-truckers-an-interview-with-patterson-hood/
-- https://dcist.com/story/08/05/09/the-dcist-inter/
+  - 'https://en.wikipedia.org/wiki/Patterson_Hood'
+  - 'https://pattersonhood.com'
+  - 'https://mokbpresents.com/artist/patterson-hood-of-drive-by-truckers/'
+  - >-
+    https://rockandrollglobe.com/rock/drive-by-truckers-an-interview-with-patterson-hood/
+  - 'https://dcist.com/story/08/05/09/the-dcist-inter/'
 network_extracted: true
 entry_created: '2025-12-15T01:28:27.188079'
 last_updated: '2025-12-23T08:16:14.014907'
 gender: Male
 musicbrainz_id: 701312f1-3bef-40fd-9144-e7d1280af6b7
 tags:
-- alternative country
-- southern rock
+  - alternative country
+  - southern rock
+origin: 'Athens, Georgia, United States'
 ---
 
 ![](patterson_hood.jpg)

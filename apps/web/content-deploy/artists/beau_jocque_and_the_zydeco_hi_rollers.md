@@ -4,10 +4,11 @@ wiki_slug: beau-jocque-the-zydeco-hi-rollers
 schema_version: 2
 status: active
 genres:
-- zydeco
-- cajun
+  - zydeco
+  - cajun
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/beau_jocque_and_the_zydeco_hi_rollers.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/beau_jocque_and_the_zydeco_hi_rollers.jpg
   caption: BEau Jocque & the Zydeco Hi Rollers
   background: solo_singer
 audio_profile:
@@ -25,46 +26,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Shelly Espre
-  - Classie Ballou
-  - Ray Johnson
+    - Shelly Espre
+    - Classie Ballou
+    - Ray Johnson
   influenced:
-  - Contemporary zydeco artists
+    - Contemporary zydeco artists
   mentors:
-  - Boozoo Chavis
+    - Boozoo Chavis
 spotify_data:
   followers: 6564
   id: 7lXjOGZAeqkWTGYKkmVtGW
   popularity: 22
-  url: https://open.spotify.com/artist/7lXjOGZAeqkWTGYKkmVtGW
+  url: 'https://open.spotify.com/artist/7lXjOGZAeqkWTGYKkmVtGW'
 discography_enriched: true
 top_tracks:
-- Give Him Cornbread (Beau Jocque Boogie)
-- Give Him Cornbread (Classics)
-- Just One Kiss (Gonna Take You Downtown)
-- Cisco Kid (Gonna Take You Downtown)
-- Beau Jocque Boogie (Beau Jocque Boogie)
-- Don't Tell Your Mama, Don't Tell Your Papa (Pick Up On This!)
-- Kinder 2 Step (Gonna Take You Downtown)
-- Hucklebuck (Pick Up On This!)
-- Gonna Take You Downtown (Gonna Take You Downtown)
-- Beau's Mardi Gras (Beau Jocque Boogie)
+  - Give Him Cornbread (Beau Jocque Boogie)
+  - Give Him Cornbread (Classics)
+  - Just One Kiss (Gonna Take You Downtown)
+  - Cisco Kid (Gonna Take You Downtown)
+  - Beau Jocque Boogie (Beau Jocque Boogie)
+  - 'Don''t Tell Your Mama, Don''t Tell Your Papa (Pick Up On This!)'
+  - Kinder 2 Step (Gonna Take You Downtown)
+  - Hucklebuck (Pick Up On This!)
+  - Gonna Take You Downtown (Gonna Take You Downtown)
+  - Beau's Mardi Gras (Beau Jocque Boogie)
 external_urls:
-  spotify: https://open.spotify.com/artist/7lXjOGZAeqkWTGYKkmVtGW
-  wikipedia: https://en.wikipedia.org/wiki/Beau_Jocque
-image_path: 03_Resources/source_material/ArtistPortraits/beau_jocque_and_the_zydeco_hi_rollers.jpg
+  spotify: 'https://open.spotify.com/artist/7lXjOGZAeqkWTGYKkmVtGW'
+  wikipedia: 'https://en.wikipedia.org/wiki/Beau_Jocque'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/beau_jocque_and_the_zydeco_hi_rollers.jpg
 biography_enhanced_at: '2025-11-17T10:48:25.854579'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.newmusicforoldfolks.com/single-post/2015/08/29/beau-jocque-the-zydeco-hirollers
-- https://kids.kiddle.co/Beau_Jocque
-- https://en.wikipedia.org/wiki/Beau_Jocque
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/jocque-beau
+  - >-
+    https://www.newmusicforoldfolks.com/single-post/2015/08/29/beau-jocque-the-zydeco-hirollers
+  - 'https://kids.kiddle.co/Beau_Jocque'
+  - 'https://en.wikipedia.org/wiki/Beau_Jocque'
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/jocque-beau
 network_extracted: true
 entry_created: '2025-11-17T10:48:25.854591'
 last_updated: '2025-12-23T08:16:05.163166'
-origin: Duralde, Louisiana, United States
+origin: 'Duralde, Louisiana, United States'
+birth_place: 'Duralde, Louisiana, United States'
+birth_date: '1953-11-01'
+artist_type: band
 ---
 
 ![](beau_jocque_and_the_zydeco_hi_rollers.jpg)

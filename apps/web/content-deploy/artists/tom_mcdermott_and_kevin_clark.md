@@ -1,15 +1,16 @@
 ---
-title: tom mcdermott & kevin clark
+title: Tom McDermott & Kevin Clark
 wiki_slug: tom-mcdermott-kevin-clark
 schema_version: 2
 status: active
-birth_place: St. Louis, Missouri, United States
+birth_place: 'St. Louis, Missouri, United States'
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/tom_mcdermott_and_kevin_clark.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/tom_mcdermott_and_kevin_clark.jpg
   caption: tom mcdermott & kevin clark
   background: solo_singer
-  origin: St. Louis, Missouri, United States
+  origin: 'St. Louis, Missouri, United States'
 audio_profile:
   tempo_avg: 123.4
   energy_avg: 0.675
@@ -25,51 +26,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kevin Clark
-  - Evan Christopher
-  - Connie Jones
-  - Aurora Nealand
-  - Meschiya Lake
-  - Chloe Feoranzo
+    - Kevin Clark
+    - Evan Christopher
+    - Connie Jones
+    - Aurora Nealand
+    - Meschiya Lake
+    - Chloe Feoranzo
   influenced:
-  - New Orleans Nightcrawlers
+    - New Orleans Nightcrawlers
   mentors:
-  - Joshua Rifkin
-  - James Booker
-  - Professor Longhair
-  - Dr. John
+    - Joshua Rifkin
+    - James Booker
+    - Professor Longhair
+    - Dr. John
 spotify_data:
   followers: 2378
   id: 7pSZS5XbBV0xJm0q7H3SGS
   popularity: 9
-  url: https://open.spotify.com/artist/7pSZS5XbBV0xJm0q7H3SGS
+  url: 'https://open.spotify.com/artist/7pSZS5XbBV0xJm0q7H3SGS'
 discography_enriched: true
 top_tracks:
-- Where We Were Meant To Be (Mother Nature's Kitchen)
-- King Of Nothing (Mother Nature's Kitchen)
-- What Comes To Pass (Mother Nature's Kitchen)
-- Slow Boat (Mother Nature's Kitchen)
-- Wheels Of Wonder (Mother Nature's Kitchen)
-- Mother Nature's Kitchen (Mother Nature's Kitchen)
-- Angel (Mother Nature's Kitchen)
-- Into The Blue (Mother Nature's Kitchen)
-- Suffocation Blues (Mother Nature's Kitchen)
-- Healing At The Harbour (Mother Nature's Kitchen)
+  - Where We Were Meant To Be (Mother Nature's Kitchen)
+  - King Of Nothing (Mother Nature's Kitchen)
+  - What Comes To Pass (Mother Nature's Kitchen)
+  - Slow Boat (Mother Nature's Kitchen)
+  - Wheels Of Wonder (Mother Nature's Kitchen)
+  - Mother Nature's Kitchen (Mother Nature's Kitchen)
+  - Angel (Mother Nature's Kitchen)
+  - Into The Blue (Mother Nature's Kitchen)
+  - Suffocation Blues (Mother Nature's Kitchen)
+  - Healing At The Harbour (Mother Nature's Kitchen)
 external_urls:
-  spotify: https://open.spotify.com/artist/7pSZS5XbBV0xJm0q7H3SGS
-  wikipedia: https://en.wikipedia.org/wiki/Tom_McDermott_(musician)
+  spotify: 'https://open.spotify.com/artist/7pSZS5XbBV0xJm0q7H3SGS'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tom_McDermott_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/tom_mcdermott_and_kevin_clark.jpg
 biography_enhanced_at: '2025-11-15T18:35:37.749729'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.allaboutjazz.com/musicians/tom-mcdermott/
-- https://en.wikipedia.org/wiki/Tom_McDermott_(musician)
-- https://musicinsideout.wwno.org/tom-mcdermott/
-- https://www.offbeat.com/music/chloe-feoranzo-tom-mcdermott-zeppelins-built-order-rabadash-records/
+  - 'https://www.allaboutjazz.com/musicians/tom-mcdermott/'
+  - 'https://en.wikipedia.org/wiki/Tom_McDermott_(musician)'
+  - 'https://musicinsideout.wwno.org/tom-mcdermott/'
+  - >-
+    https://www.offbeat.com/music/chloe-feoranzo-tom-mcdermott-zeppelins-built-order-rabadash-records/
 network_extracted: true
 entry_created: '2025-11-15T18:35:37.749739'
 last_updated: '2025-12-23T08:16:17.538112'
+birth_date: '1957'
+artist_type: person
 ---
 
 ![](tom_mcdermott_and_kevin_clark.jpg)

@@ -3,33 +3,37 @@ biography_enhanced_at: '2026-01-03T01:45:02.546340'
 enhancement_provider: perplexity
 entry_created: '2026-01-03T01:45:02.546350'
 external_urls:
-  spotify: https://open.spotify.com/artist/3aUqKSZjVYVcWciHwCcQ9W
+  spotify: 'https://open.spotify.com/artist/3aUqKSZjVYVcWciHwCcQ9W'
   wikipedia: ''
 genres: []
-image_path: 03_Resources/source_material/ArtistPortraits/christopher_mcbride_fjosh_evans.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/christopher_mcbride_fjosh_evans.jpg
 last_updated: '2026-01-03T01:45:02.546351'
 musical_connections:
   collaborators:
-  - Josh Evans
-  - Jon Thomas
-  - Barry Stephenson
-  - Michael Piolet
-  - Wayne Tucker
+    - Josh Evans
+    - Jon Thomas
+    - Barry Stephenson
+    - Michael Piolet
+    - Wayne Tucker
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://smoothjazzdaily.wordpress.com/2025/09/30/saxophonist-christopher-mcbride-embarks-upon-a-personal-journey-on-the-hang-the-hustle-the-path/
-- https://www.paris-move.com/reviews/christopher-mcbride-the-whole-proof-the-hang-the-hustle-the-path/
-- https://www.smallslive.com/artists/2175-christopher-mcbride/
+  - >-
+    https://smoothjazzdaily.wordpress.com/2025/09/30/saxophonist-christopher-mcbride-embarks-upon-a-personal-journey-on-the-hang-the-hustle-the-path/
+  - >-
+    https://www.paris-move.com/reviews/christopher-mcbride-the-whole-proof-the-hang-the-hustle-the-path/
+  - 'https://www.smallslive.com/artists/2175-christopher-mcbride/'
 spotify_data:
   followers: 606
   id: 3aUqKSZjVYVcWciHwCcQ9W
   popularity: 5
-  url: https://open.spotify.com/artist/3aUqKSZjVYVcWciHwCcQ9W
+  url: 'https://open.spotify.com/artist/3aUqKSZjVYVcWciHwCcQ9W'
 status: active
 title: Christopher McBride f/Josh Evans
+artist_type: person
 ---
 
 ![](christopher_mcbride_fjosh_evans.jpg)

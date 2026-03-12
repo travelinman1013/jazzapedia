@@ -1,20 +1,20 @@
 ---
-title: johnny copeland
+title: Johnny Copeland
 wiki_slug: johnny-copeland
 schema_version: 2
 status: active
-birth_place: Haynesville, Louisiana, United States
+birth_place: 'Haynesville, Louisiana, United States'
 genres:
-- blues
-- classic blues
-- modern blues
-- blues rock
-- northern soul
+  - blues
+  - classic blues
+  - modern blues
+  - blues rock
+  - northern soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/johnny_copeland.jpg
   caption: johnny copeland
   background: solo_singer
-  origin: Haynesville, Louisiana, United States
+  origin: 'Haynesville, Louisiana, United States'
 audio_profile:
   tempo_avg: 129.7
   energy_avg: 0.594
@@ -30,53 +30,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Joe "Guitar" Hughes
-  - Albert Collins
-  - Robert Cray
-  - Arthur Blythe
-  - Byard Lancaster
-  - Shemekia Copeland
-  - Various West African musicians
+    - Joe "Guitar" Hughes
+    - Albert Collins
+    - Robert Cray
+    - Arthur Blythe
+    - Byard Lancaster
+    - Shemekia Copeland
+    - Various West African musicians
   influenced:
-  - Shemekia Copeland
-  - Robert Cray
-  - Modern Texas blues guitarists
+    - Shemekia Copeland
+    - Robert Cray
+    - Modern Texas blues guitarists
   mentors:
-  - T-Bone Walker
+    - T-Bone Walker
 spotify_data:
   followers: 20828
   id: 641QgCXSYTbRm9kigj0ABL
   popularity: 35
-  url: https://open.spotify.com/artist/641QgCXSYTbRm9kigj0ABL
+  url: 'https://open.spotify.com/artist/641QgCXSYTbRm9kigj0ABL'
 discography_enriched: true
 top_tracks:
-- She's Into Something (Showdown!)
-- Blues Ain't Nothin' (Jungle Swing)
-- Blackjack (Showdown!)
-- Rolling With The Punches (Catch Up With The Blues)
-- The Dream (Showdown!)
-- Black Cat Bone (Showdown!)
-- Bring Your Fine Self Home (Showdown!)
-- Cut Off My Right Arm (Boom Boom)
-- T-Bone Shuffle (Showdown!)
-- Don't Stop By The Creek, Son (Texas Twister)
+  - She's Into Something (Showdown!)
+  - Blues Ain't Nothin' (Jungle Swing)
+  - Blackjack (Showdown!)
+  - Rolling With The Punches (Catch Up With The Blues)
+  - The Dream (Showdown!)
+  - Black Cat Bone (Showdown!)
+  - Bring Your Fine Self Home (Showdown!)
+  - Cut Off My Right Arm (Boom Boom)
+  - T-Bone Shuffle (Showdown!)
+  - 'Don''t Stop By The Creek, Son (Texas Twister)'
 external_urls:
-  spotify: https://open.spotify.com/artist/641QgCXSYTbRm9kigj0ABL
-  wikipedia: https://en.wikipedia.org/wiki/Johnny_Copeland
+  spotify: 'https://open.spotify.com/artist/641QgCXSYTbRm9kigj0ABL'
+  wikipedia: 'https://en.wikipedia.org/wiki/Johnny_Copeland'
 image_path: 03_Resources/source_material/ArtistPortraits/johnny_copeland.jpg
 biography_enhanced_at: '2025-12-12T12:12:32.676570'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Texas State Historical Association – Johnny [Clyde] Copeland entry[1]
-- Wikipedia – Johnny Copeland[4]
-- Alligator Records artist biography – Johnny Copeland[3]
-- FROM THE VAULTS blog post summarizing career and discography[2]
-- Music Enterprises Inc. bio – Johnny Copeland[5]
-- Toronto Blues Society profile – Johnny Copeland[6]
+  - 'Texas State Historical Association – Johnny [Clyde] Copeland entry[1]'
+  - 'Wikipedia – Johnny Copeland[4]'
+  - 'Alligator Records artist biography – Johnny Copeland[3]'
+  - 'FROM THE VAULTS blog post summarizing career and discography[2]'
+  - 'Music Enterprises Inc. bio – Johnny Copeland[5]'
+  - 'Toronto Blues Society profile – Johnny Copeland[6]'
 network_extracted: true
 entry_created: '2025-12-12T12:12:32.676577'
 last_updated: '2025-12-23T08:16:10.822173'
+origin: 'Houston, Texas, United States'
+birth_date: '1937-03-27'
+death_date: '1997-07-03'
+artist_type: person
 ---
 
 ![](johnny_copeland.jpg)

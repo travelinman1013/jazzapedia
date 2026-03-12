@@ -2,12 +2,13 @@
 title: Piron's New Orleans Orchestra
 wiki_slug: pirons-new-orleans-orchestra
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- ragtime
+  - ragtime
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/pirons_new_orleans_orchestra.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/pirons_new_orleans_orchestra.jpg
   caption: Piron's New Orleans Orchestra
   background: group_or_band
 audio_profile:
@@ -25,59 +26,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Clarence Williams
-  - Peter Bocage
-  - Lorenzo Tio, Jr.
-  - Steve Lewis
-  - Louis Cottrell
-  - Charles Bocage
-  - Johnny St. Cyr
+    - Clarence Williams
+    - Peter Bocage
+    - 'Lorenzo Tio, Jr.'
+    - Steve Lewis
+    - Louis Cottrell
+    - Charles Bocage
+    - Johnny St. Cyr
   influenced:
-  - Fletcher Henderson
-  - Peter Bocage
+    - Fletcher Henderson
+    - Peter Bocage
   mentors:
-  - Piron's father
+    - Piron's father
 spotify_data:
   followers: 445
   id: 2b173PsMiQ0rJ6TUUryDns
   popularity: 6
-  url: https://open.spotify.com/artist/2b173PsMiQ0rJ6TUUryDns
+  url: 'https://open.spotify.com/artist/2b173PsMiQ0rJ6TUUryDns'
 discography_enriched: true
 top_tracks:
-- Bright Star Blues (Early 1920s Jazz)
-- 'Ghost Of The Blues (1920s: The Jazz Age In New Orleans)'
-- 'Mama''s Gone, Goodbye (1920s: The Jazz Age In New Orleans)'
-- 'New Orleans Wiggle (1920s: The Jazz Age In New Orleans)'
-- 'West Indies Blues (1920s: The Jazz Age In New Orleans)'
-- 'Louisiana Blues (1920s: The Jazz Age In New Orleans)'
-- 'Sud Bustin'' Blues (1920s: The Jazz Age In New Orleans)'
-- Bouncing Around (Piron's New Orleans Orchestra)
-- New Orleans Wiggle (New Orleans Jazz Of The 1920s)
-- 'Ghost of the Blues (1920s: The Jazz Age In New Orleans)'
+  - Bright Star Blues (Early 1920s Jazz)
+  - 'Ghost Of The Blues (1920s: The Jazz Age In New Orleans)'
+  - 'Mama''s Gone, Goodbye (1920s: The Jazz Age In New Orleans)'
+  - 'New Orleans Wiggle (1920s: The Jazz Age In New Orleans)'
+  - 'West Indies Blues (1920s: The Jazz Age In New Orleans)'
+  - 'Louisiana Blues (1920s: The Jazz Age In New Orleans)'
+  - 'Sud Bustin'' Blues (1920s: The Jazz Age In New Orleans)'
+  - Bouncing Around (Piron's New Orleans Orchestra)
+  - New Orleans Wiggle (New Orleans Jazz Of The 1920s)
+  - 'Ghost of the Blues (1920s: The Jazz Age In New Orleans)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/45bce577-5296-40fd-8a84-360580c64369
-  spotify: https://open.spotify.com/artist/2b173PsMiQ0rJ6TUUryDns
-  wikipedia: https://en.wikipedia.org/wiki/Armand_J._Piron
+  musicbrainz: 'https://musicbrainz.org/artist/45bce577-5296-40fd-8a84-360580c64369'
+  spotify: 'https://open.spotify.com/artist/2b173PsMiQ0rJ6TUUryDns'
+  wikipedia: 'https://en.wikipedia.org/wiki/Armand_J._Piron'
 image_path: 03_Resources/source_material/ArtistPortraits/pirons_new_orleans_orchestra.jpg
 biography_enhanced_at: '2025-11-10T03:30:34.807227'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Armand_J._Piron
-- http://old-new-orleans.com/NO_Piron.html
-- http://playing-traditional-jazz.blogspot.com/2013/10/armand-j-piron-peter-bocage-and-pirons.html
-- https://library.snls.org.sz/archive/doc/wikipedia/wikipedia-terodump-0.1/tero-dump/wikipedia/ar/Armand_J._Piron.html
+  - 'https://en.wikipedia.org/wiki/Armand_J._Piron'
+  - 'http://old-new-orleans.com/NO_Piron.html'
+  - >-
+    http://playing-traditional-jazz.blogspot.com/2013/10/armand-j-piron-peter-bocage-and-pirons.html
+  - >-
+    https://library.snls.org.sz/archive/doc/wikipedia/wikipedia-terodump-0.1/tero-dump/wikipedia/ar/Armand_J._Piron.html
 network_extracted: true
 entry_created: '2025-11-10T03:30:34.807233'
 last_updated: '2025-12-23T08:16:14.331352'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 401fa4c5-7ec7-4ea2-af0e-89d53e2295f7
-  name: Esther Bigeou
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 401fa4c5-7ec7-4ea2-af0e-89d53e2295f7
+    name: Esther Bigeou
 musicbrainz_id: 45bce577-5296-40fd-8a84-360580c64369
-origin: New Orleans
+origin: 'New Orleans, Louisiana, United States'
+birth_place: 'New Orleans, Louisiana, United States'
+birth_date: '1888'
+death_date: '1943'
 ---
 
 ![](pirons_new_orleans_orchestra.jpg)

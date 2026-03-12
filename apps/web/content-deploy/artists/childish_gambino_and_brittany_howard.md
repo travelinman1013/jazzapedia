@@ -5,7 +5,8 @@ schema_version: 2
 status: active
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/childish_gambino_and_brittany_howard.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/childish_gambino_and_brittany_howard.jpg
   caption: Childish Gambino & Brittany Howard
   background: solo_singer
 audio_profile:
@@ -23,46 +24,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - James Francies
-  - Alabama Shakes
-  - Chance the Rapper
-  - Thundercat
+    - James Francies
+    - Alabama Shakes
+    - Chance the Rapper
+    - Thundercat
   influenced:
-  - Emerging soul, R&B, and indie artists
+    - 'Emerging soul, R&B, and indie artists'
   mentors:
-  - Jaime Howard
+    - Jaime Howard
 spotify_data:
   followers: 317428
   id: 4XquDVA8pkg5Lx91No1JxB
   popularity: 50
-  url: https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB
+  url: 'https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB'
 discography_enriched: true
 top_tracks:
-- Walk of Fame (feat. Brittany Howard) - Edit
-- Stay High (Jaime)
-- Stay High (Jaime)
-- Stay High (Jaime (Reimagined))
-- I Don't (What Now)
-- What Now (What Now)
-- Stay High again.. (Fred again.. & Joy Anonymous Version) (Jaime (Reimagined))
-- Stay High (Childish Gambino Version) (Jaime (Reimagined))
-- Fire Inside - From the Netflix Film "Thelma the Unicorn"
-- Stay High again.. - Fred again.. & Joy Anonymous Version (Jaime (Reimagined))
+  - Walk of Fame (feat. Brittany Howard) - Edit
+  - Stay High (Jaime)
+  - Stay High (Jaime)
+  - Stay High (Jaime (Reimagined))
+  - I Don't (What Now)
+  - What Now (What Now)
+  - >-
+    Stay High again.. (Fred again.. & Joy Anonymous Version) (Jaime
+    (Reimagined))
+  - Stay High (Childish Gambino Version) (Jaime (Reimagined))
+  - Fire Inside - From the Netflix Film "Thelma the Unicorn"
+  - >-
+    Stay High again.. - Fred again.. & Joy Anonymous Version (Jaime
+    (Reimagined))
 external_urls:
-  spotify: https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB
-  wikipedia: https://en.wikipedia.org/wiki/Brittany_Howard
-image_path: 03_Resources/source_material/ArtistPortraits/childish_gambino_and_brittany_howard.jpg
+  spotify: 'https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB'
+  wikipedia: 'https://en.wikipedia.org/wiki/Brittany_Howard'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/childish_gambino_and_brittany_howard.jpg
 biography_enhanced_at: '2025-11-20T07:01:14.685388'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://lightning100.com/2021/childish-gambino-stay-high-dj-pick-of-the-week/
-- https://stereogum.com/2151914/brittany-howard-announces-jaime-remix-album-with-childish-gambino-syd-common-more/music
-- https://www.redlightmanagement.com/childish-gambino-reimagines-stay-high-brittany-howards-grammy-winning-hit/
-- https://hypebeast.com/2021/7/childish-gambino-brittany-howard-stay-high-remix-release
+  - >-
+    https://lightning100.com/2021/childish-gambino-stay-high-dj-pick-of-the-week/
+  - >-
+    https://stereogum.com/2151914/brittany-howard-announces-jaime-remix-album-with-childish-gambino-syd-common-more/music
+  - >-
+    https://www.redlightmanagement.com/childish-gambino-reimagines-stay-high-brittany-howards-grammy-winning-hit/
+  - >-
+    https://hypebeast.com/2021/7/childish-gambino-brittany-howard-stay-high-remix-release
 network_extracted: true
 entry_created: '2025-11-20T07:01:14.685394'
 last_updated: '2025-12-23T08:16:06.844671'
+birth_place: 'Athens, Alabama, United States'
+origin: >-
+  Athens, Alabama, USA (Brittany Howard); Edwards Air Force Base, California,
+  USA / Stone Mountain, Georgia, USA (Donald Glover/Childish Gambino)
+artist_type: person
 ---
 
 ![](childish_gambino_and_brittany_howard.jpg)

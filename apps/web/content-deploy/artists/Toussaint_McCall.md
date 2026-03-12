@@ -1,14 +1,14 @@
 ---
-title: toussaint mccall
+title: Toussaint McCall
 wiki_slug: toussaint-mccall
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1934'
-birth_place: Monroe
+birth_place: 'Delhi, Louisiana, United States'
 death_date: '2023-08-07'
 genres:
-- northern soul
+  - northern soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/toussaint_mccall.jpg
   caption: toussaint mccall
@@ -17,7 +17,7 @@ infobox:
   origin: Monroe
   died: '2023-08-07'
 audio_profile:
-  tempo_avg: 110.0
+  tempo_avg: 110
   energy_avg: 0.415
   valence_avg: 0.595
   danceability_avg: 0.528
@@ -31,50 +31,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ronn Records session musicians
+    - Ronn Records session musicians
   influenced:
-  - Asleep at the Wheel
-  - Shovels & Rope (with JD McPherson)
-  - Prince Buster
+    - Asleep at the Wheel
+    - Shovels & Rope (with JD McPherson)
+    - Prince Buster
   mentors:
-  - Rev. D. L. McCall
+    - Rev. D. L. McCall
 spotify_data:
   followers: 4099
   id: 421kKwxa5GC9nLddFuqtNL
   popularity: 17
-  url: https://open.spotify.com/artist/421kKwxa5GC9nLddFuqtNL
+  url: 'https://open.spotify.com/artist/421kKwxa5GC9nLddFuqtNL'
 discography_enriched: true
 top_tracks:
-- Nothing Takes the Place of You (Nothing Takes the Place of You)
-- I'll Do It for You (Nothing Takes the Place of You)
-- Nothing Takes The Place Of You (Nothing Takes The Place Of You)
-- Summertime (Nothing Takes the Place of You)
-- Let's Do It Over (Nothing Takes The Place Of You)
-- Shimmy - Instrumental (Nothing Takes the Place of You)
-- The Toussaint Shuffle - Instrumental (Nothing Takes the Place of You)
-- The Toussaint Shuffle (Nothing Takes The Place Of You)
-- Nothing Takes the Place of You - From the Film Hairspray (Ultimate Oldies & Goodies - One Hit Wonders of the 50s & 60s)
-- I'm Undecided (Nothing Takes the Place of You)
+  - Nothing Takes the Place of You (Nothing Takes the Place of You)
+  - I'll Do It for You (Nothing Takes the Place of You)
+  - Nothing Takes The Place Of You (Nothing Takes The Place Of You)
+  - Summertime (Nothing Takes the Place of You)
+  - Let's Do It Over (Nothing Takes The Place Of You)
+  - Shimmy - Instrumental (Nothing Takes the Place of You)
+  - The Toussaint Shuffle - Instrumental (Nothing Takes the Place of You)
+  - The Toussaint Shuffle (Nothing Takes The Place Of You)
+  - >-
+    Nothing Takes the Place of You - From the Film Hairspray (Ultimate Oldies &
+    Goodies - One Hit Wonders of the 50s & 60s)
+  - I'm Undecided (Nothing Takes the Place of You)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e7710993-dec9-4517-b37f-ee235360dc83
-  spotify: https://open.spotify.com/artist/421kKwxa5GC9nLddFuqtNL
-  wikipedia: https://en.wikipedia.org/wiki/Toussaint_McCall
+  musicbrainz: 'https://musicbrainz.org/artist/e7710993-dec9-4517-b37f-ee235360dc83'
+  spotify: 'https://open.spotify.com/artist/421kKwxa5GC9nLddFuqtNL'
+  wikipedia: 'https://en.wikipedia.org/wiki/Toussaint_McCall'
 image_path: 03_Resources/source_material/ArtistPortraits/toussaint_mccall.jpg
 biography_enhanced_at: '2025-11-14T10:46:15.987465'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Toussaint_McCall
-- https://www.bear-family.com/mccall-toussaint/
-- https://www.kedm.org/arts/2018-02-18/delhi-blues-legend-toussaint-mccall-still-inspires
+  - 'https://en.wikipedia.org/wiki/Toussaint_McCall'
+  - 'https://www.bear-family.com/mccall-toussaint/'
+  - >-
+    https://www.kedm.org/arts/2018-02-18/delhi-blues-legend-toussaint-mccall-still-inspires
 network_extracted: true
 entry_created: '2025-11-14T10:46:15.987476'
 last_updated: '2025-12-23T08:16:04.211402'
 gender: Male
 musicbrainz_id: e7710993-dec9-4517-b37f-ee235360dc83
 tags:
-- r&b
-- soul
+  - r&b
+  - soul
+is_active: false
+origin: 'Shreveport, Louisiana, United States'
 ---
 
 ![](toussaint_mccall.jpg)

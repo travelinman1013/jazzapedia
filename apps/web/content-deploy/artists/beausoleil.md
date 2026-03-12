@@ -2,12 +2,12 @@
 title: Beausoleil
 wiki_slug: beausoleil
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
-birth_date: '1975'
+birth_date: '1951'
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/beausoleil.jpg
   caption: Beausoleil
@@ -20,7 +20,7 @@ audio_profile:
   danceability_avg: 0.545
   acousticness_avg: 0.365
   instrumentalness_avg: 0.092
-  loudness_avg: -11.0
+  loudness_avg: -11
   speechiness_avg: 0.053
   liveness_avg: 0.181
   track_count: 73
@@ -28,145 +28,148 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - David Doucet
-  - Jimmy Breaux
-  - Billy Ware
-  - Mitch Reed
+    - David Doucet
+    - Jimmy Breaux
+    - Billy Ware
+    - Mitch Reed
   influenced:
-  - Pine Leaf Boys
-  - Lost Bayou Ramblers
+    - Pine Leaf Boys
+    - Lost Bayou Ramblers
   mentors:
-  - Dewey Balfa
-  - Dennis McGee
-  - Canray Fontenot
+    - Dewey Balfa
+    - Dennis McGee
+    - Canray Fontenot
 spotify_data:
   followers: 9550
   id: 2NBfhrFJmF7o35vK2pndvo
   popularity: 20
-  url: https://open.spotify.com/artist/2NBfhrFJmF7o35vK2pndvo
+  url: 'https://open.spotify.com/artist/2NBfhrFJmF7o35vK2pndvo'
 discography_enriched: true
 top_tracks:
-- Zydeco Gris-gris (Bayou Boogie)
-- L'ouragon (The Hurricane) (Our New Orleans (Expanded Edition))
-- Happy One-Step (Cajunization)
-- La Terre De Mon Grandpere (My Grandfather's Land) (Cajunization)
-- Hip Et Ti-Yeaux - l (L'echo)
-- Tasso / McGee's Reel (Cajun Conja)
-- Bye, Bye Boozoo (Gitane Cajun)
-- Canray's Contredanse (Hot Chili Mama)
-- Hot Chili Mama (Hot Chili Mama)
-- Bon Temps Rouler (Bayou Cadillac)
+  - Zydeco Gris-gris (Bayou Boogie)
+  - L'ouragon (The Hurricane) (Our New Orleans (Expanded Edition))
+  - Happy One-Step (Cajunization)
+  - La Terre De Mon Grandpere (My Grandfather's Land) (Cajunization)
+  - Hip Et Ti-Yeaux - l (L'echo)
+  - Tasso / McGee's Reel (Cajun Conja)
+  - 'Bye, Bye Boozoo (Gitane Cajun)'
+  - Canray's Contredanse (Hot Chili Mama)
+  - Hot Chili Mama (Hot Chili Mama)
+  - Bon Temps Rouler (Bayou Cadillac)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/143d190c-11e8-4ecd-adf7-a68a3ccdaab1
-  spotify: https://open.spotify.com/artist/2NBfhrFJmF7o35vK2pndvo
-  wikipedia: https://en.wikipedia.org/wiki/BeauSoleil
+  musicbrainz: 'https://musicbrainz.org/artist/143d190c-11e8-4ecd-adf7-a68a3ccdaab1'
+  spotify: 'https://open.spotify.com/artist/2NBfhrFJmF7o35vK2pndvo'
+  wikipedia: 'https://en.wikipedia.org/wiki/BeauSoleil'
 image_path: 03_Resources/source_material/ArtistPortraits/beausoleil.jpg
 biography_enhanced_at: '2025-10-27T02:32:39.198986'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://64parishes.org/entry/beausoleil-avec-michael-doucet
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/beausoleil
-- https://www.richmondfolkfestival.org/performers-2019/2019/5/30/beausoleil-avec-michael-doucet
-- https://lowellfolkfestival.org/blogs/artists/beausoleil-avec-michael-doucet
+  - 'https://64parishes.org/entry/beausoleil-avec-michael-doucet'
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/beausoleil
+  - >-
+    https://www.richmondfolkfestival.org/performers-2019/2019/5/30/beausoleil-avec-michael-doucet
+  - 'https://lowellfolkfestival.org/blogs/artists/beausoleil-avec-michael-doucet'
 network_extracted: true
 entry_created: '2025-10-27T02:32:39.199012'
 last_updated: '2025-12-23T08:16:05.178495'
 members:
-- &id001
-  begin: '1988'
-  end: ''
-  instruments: []
-  mbid: b8331eae-79ee-4482-a25b-54ee45cec539
-  name: Jimmy Breaux
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2fa2ff5d-8020-466e-b401-f3c5492a8553
-  name: Tommy Alesi
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ae5a3f36-f01b-4d81-85ae-20b7c8d0342f
-  name: Dewey Balfa
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 78b80d20-cb59-4c0b-9cab-6595b77153cd
-  name: Will Balfa
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2e4632a5-5dc9-4ff7-a902-1e9bc09560c7
-  name: Pat Breaux
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2053fff5-a509-41c3-92c1-745b31ee73e1
-  name: Tommy Comeaux
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: cf4071fe-0c31-4735-9460-73d1a56f5e95
-  name: Varise Connor
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1d03196c-a053-4fbd-81a4-a03ea5303f32
-  name: David Doucet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 53614b6c-a35d-4df7-9845-a7cc3d76b283
-  name: Michael Doucet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 123fc74b-80d0-415b-9371-ac6d05fd0691
-  name: Bessyl Duhon
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 48d5bbe4-992f-4fe9-a654-e6ab2390b527
-  name: Canray Fontenot
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6e5f7e2e-766a-4343-98a1-ef1118630649
-  name: Dennis McGee
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0d5559eb-6145-4804-a1a9-d0f5d414a627
-  name: Mitch Reed
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6e1b3802-642b-4a50-86f3-9097d72ef456
-  name: Sterling Richard
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 65d77580-717c-4826-8e53-2faea29df95d
-  name: Al Tharp
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0fec2ede-2439-4474-a6d0-3bb576ebc5e5
-  name: Errol Verret
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6151c627-0638-4d49-b26f-356a2b5c8d28
-  name: Billy Ware
+  - &ref_0
+    begin: '1988'
+    end: ''
+    instruments: []
+    mbid: b8331eae-79ee-4482-a25b-54ee45cec539
+    name: Jimmy Breaux
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2fa2ff5d-8020-466e-b401-f3c5492a8553
+    name: Tommy Alesi
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ae5a3f36-f01b-4d81-85ae-20b7c8d0342f
+    name: Dewey Balfa
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 78b80d20-cb59-4c0b-9cab-6595b77153cd
+    name: Will Balfa
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2e4632a5-5dc9-4ff7-a902-1e9bc09560c7
+    name: Pat Breaux
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2053fff5-a509-41c3-92c1-745b31ee73e1
+    name: Tommy Comeaux
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: cf4071fe-0c31-4735-9460-73d1a56f5e95
+    name: Varise Connor
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1d03196c-a053-4fbd-81a4-a03ea5303f32
+    name: David Doucet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 53614b6c-a35d-4df7-9845-a7cc3d76b283
+    name: Michael Doucet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 123fc74b-80d0-415b-9371-ac6d05fd0691
+    name: Bessyl Duhon
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 48d5bbe4-992f-4fe9-a654-e6ab2390b527
+    name: Canray Fontenot
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6e5f7e2e-766a-4343-98a1-ef1118630649
+    name: Dennis McGee
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0d5559eb-6145-4804-a1a9-d0f5d414a627
+    name: Mitch Reed
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6e1b3802-642b-4a50-86f3-9097d72ef456
+    name: Sterling Richard
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 65d77580-717c-4826-8e53-2faea29df95d
+    name: Al Tharp
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0fec2ede-2439-4474-a6d0-3bb576ebc5e5
+    name: Errol Verret
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6151c627-0638-4d49-b26f-356a2b5c8d28
+    name: Billy Ware
 musicbrainz_id: 143d190c-11e8-4ecd-adf7-a68a3ccdaab1
-origin: Lafayette
+origin: 'Lafayette, Louisiana, United States'
 original_members:
-- *id001
+  - *ref_0
 tags:
-- american
-- cajun
-- zydeco
+  - american
+  - cajun
+  - zydeco
+birth_place: 'Lafayette, Louisiana, United States'
 ---
 
 ![](beausoleil.jpg)

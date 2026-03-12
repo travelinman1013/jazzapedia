@@ -1,14 +1,15 @@
 ---
-title: ANDRE PREVIN, SHELLY MANNE, RED MITCHELL
+title: 'Andre Previn, Shelly Manne, Red Mitchell'
 wiki_slug: andre-previn-shelly-manne-red-mitchell
 schema_version: 2
 status: active
 genres:
-- classical
-- orchestra
+  - classical
+  - orchestra
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/andre_previn_shelly_manne_red_mitchell.jpg
-  caption: ANDRE PREVIN, SHELLY MANNE, RED MITCHELL
+  image: >-
+    03_Resources/source_material/ArtistPortraits/andre_previn_shelly_manne_red_mitchell.jpg
+  caption: 'ANDRE PREVIN, SHELLY MANNE, RED MITCHELL'
   background: classical
 audio_profile:
   tempo_avg: 102.9
@@ -17,7 +18,7 @@ audio_profile:
   danceability_avg: 0.311
   acousticness_avg: 0.926
   instrumentalness_avg: 0.598
-  loudness_avg: -20.0
+  loudness_avg: -20
   speechiness_avg: 0.043
   liveness_avg: 0.236
   track_count: 67
@@ -25,54 +26,79 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Shelly Manne
-  - Red Mitchell
-  - Leroy Vinnegar
-  - Frank Capp
-  - Russ Freeman
-  - Ella Fitzgerald
+    - Shelly Manne
+    - Red Mitchell
+    - Leroy Vinnegar
+    - Frank Capp
+    - Russ Freeman
+    - Ella Fitzgerald
   influenced:
-  - Jazz groups recording Broadway scores
+    - Jazz groups recording Broadway scores
   mentors:
-  - Pierre Monteux
-  - Oscar Peterson, Art Tatum, Bud Powell
+    - Pierre Monteux
+    - 'Oscar Peterson, Art Tatum, Bud Powell'
 spotify_data:
   followers: 41622
   id: 2tfWguHr2nj4e8KXLKciVq
   popularity: 62
-  url: https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq
+  url: 'https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq'
 discography_enriched: true
 top_tracks:
-- 'Tchaikovsky: Swan Lake, Op. 20, Act 2: No. 10, Scene. Moderato (Tchaikovsky: Swan Lake)'
-- 'Prokofiev: Romeo and Juliet, Op. 64, Act 1: Dance of the Knights (Prokofiev: Romeo and Juliet)'
-- 'Tchaikovsky: Swan Lake, Op. 20, Act 1: Introduction - No. 1, Scene. Allegro giusto (Tchaikovsky: Swan Lake)'
-- 'Tchaikovsky: Swan Lake, Op. 20, Act 1: No. 2, Waltz (Tchaikovsky: Swan Lake)'
-- 'Tchaikovsky: Swan Lake, Op. 20, Act 1: No. 5, Pas de deux for Two Merry-Makers (Tchaikovsky: Swan Lake)'
-- 'Tchaikovsky: Swan Lake, Op. 20, Act 2: No. 14, Scene. Moderato (Tchaikovsky: Swan Lake)'
-- 'Tchaikovsky: Swan Lake, Op. 20, Act 1: No. 9, Finale. Andante (Tchaikovsky: Swan Lake)'
-- Paris Loves Lovers - Instrumental
-- 'Tchaikovsky: Swan Lake, Op. 20, Act 2: No. 13, Dances of the Swans (Tchaikovsky: Swan Lake)'
-- 'Tchaikovsky: Swan Lake, Op. 20, Act 1: No. 4, Pas de trois (Tchaikovsky: Swan Lake)'
+  - >-
+    Tchaikovsky: Swan Lake, Op. 20, Act 2: No. 10, Scene. Moderato (Tchaikovsky:
+    Swan Lake)
+  - >-
+    Prokofiev: Romeo and Juliet, Op. 64, Act 1: Dance of the Knights (Prokofiev:
+    Romeo and Juliet)
+  - >-
+    Tchaikovsky: Swan Lake, Op. 20, Act 1: Introduction - No. 1, Scene. Allegro
+    giusto (Tchaikovsky: Swan Lake)
+  - 'Tchaikovsky: Swan Lake, Op. 20, Act 1: No. 2, Waltz (Tchaikovsky: Swan Lake)'
+  - >-
+    Tchaikovsky: Swan Lake, Op. 20, Act 1: No. 5, Pas de deux for Two
+    Merry-Makers (Tchaikovsky: Swan Lake)
+  - >-
+    Tchaikovsky: Swan Lake, Op. 20, Act 2: No. 14, Scene. Moderato (Tchaikovsky:
+    Swan Lake)
+  - >-
+    Tchaikovsky: Swan Lake, Op. 20, Act 1: No. 9, Finale. Andante (Tchaikovsky:
+    Swan Lake)
+  - Paris Loves Lovers - Instrumental
+  - >-
+    Tchaikovsky: Swan Lake, Op. 20, Act 2: No. 13, Dances of the Swans
+    (Tchaikovsky: Swan Lake)
+  - >-
+    Tchaikovsky: Swan Lake, Op. 20, Act 1: No. 4, Pas de trois (Tchaikovsky:
+    Swan Lake)
 external_urls:
-  spotify: https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq
-  wikipedia: https://en.wikipedia.org/wiki/Andr%C3%A9_Previn
-image_path: 03_Resources/source_material/ArtistPortraits/andre_previn_shelly_manne_red_mitchell.jpg
+  spotify: 'https://open.spotify.com/artist/2tfWguHr2nj4e8KXLKciVq'
+  wikipedia: 'https://en.wikipedia.org/wiki/Andr%C3%A9_Previn'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/andre_previn_shelly_manne_red_mitchell.jpg
 biography_enhanced_at: '2025-11-03T07:46:41.983327'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.audaud.com/andre-previn-and-his-pals-shelly-manne-red-mitchell-west-side-story-craft-recordings/
-- https://concord.com/artist/andre-previn/
-- https://www.allaboutjazz.com/andre-previn-and-his-pals-shelly-manne-and-red-mitchell-west-side-story-andre-previn-craft-recordings
-- https://jazzprofiles.blogspot.com/2019/03/andre-previn-jazz-years-in-california.html
-- https://en.wikipedia.org/wiki/Andr%C3%A9_Previn
-- https://www.thevinyldistrict.com/storefront/graded-on-a-curve-andre-previn-and-his-pals-shelly-manne-red-mitchell-west-side-story-the-leroy-vinnegar-sextet-leroy-walks/
-- https://en.wikipedia.org/wiki/West_Side_Story_(Andr%C3%A9_Previn_album)
+  - >-
+    https://www.audaud.com/andre-previn-and-his-pals-shelly-manne-red-mitchell-west-side-story-craft-recordings/
+  - 'https://concord.com/artist/andre-previn/'
+  - >-
+    https://www.allaboutjazz.com/andre-previn-and-his-pals-shelly-manne-and-red-mitchell-west-side-story-andre-previn-craft-recordings
+  - >-
+    https://jazzprofiles.blogspot.com/2019/03/andre-previn-jazz-years-in-california.html
+  - 'https://en.wikipedia.org/wiki/Andr%C3%A9_Previn'
+  - >-
+    https://www.thevinyldistrict.com/storefront/graded-on-a-curve-andre-previn-and-his-pals-shelly-manne-red-mitchell-west-side-story-the-leroy-vinnegar-sextet-leroy-walks/
+  - 'https://en.wikipedia.org/wiki/West_Side_Story_(Andr%C3%A9_Previn_album)'
 network_extracted: true
 entry_created: '2025-11-03T07:46:41.983337'
 last_updated: '2025-12-23T08:16:04.765805'
-origin: Los Angeles, California, United States (primary recording location and career base)
-
+origin: >-
+  Los Angeles, California, United States (primary recording location and career
+  base)
+birth_place: 'Berlin, Germany, Country'
+birth_date: '1929'
+artist_type: person
 ---
 
 ![](andre_previn_shelly_manne_red_mitchell.jpg)

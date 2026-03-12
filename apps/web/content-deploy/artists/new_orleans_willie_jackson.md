@@ -1,37 +1,40 @@
 ---
 biography_enhanced_at: '2026-01-22T07:10:08.980413'
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:10:08.980419'
 external_urls:
-  spotify: https://open.spotify.com/artist/5Q7gbkHT8He1foM0BV1Wq6
+  spotify: 'https://open.spotify.com/artist/5Q7gbkHT8He1foM0BV1Wq6'
   wikipedia: ''
 genres:
-- classic blues
-- ragtime
+  - classic blues
+  - ragtime
 image_path: 03_Resources/source_material/ArtistPortraits/new_orleans_willie_jackson.jpg
 last_updated: '2026-01-22T07:10:08.980420'
 musical_connections:
   collaborators:
-  - Steve Lewis
-  - King Oliver's Dixie Syncopators
+    - Steve Lewis
+    - King Oliver's Dixie Syncopators
   influenced:
-  - Victoria Spivey
+    - Victoria Spivey
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://sentirelblues.blogspot.com/2024/11/new-orleans-willie-jackson.html
-- https://adp.library.ucsb.edu/names/110661
-- https://www.allmusic.com/artist/new-orleans-willie-jackson-mn0000866581
-- https://en.namu.wiki/w/%EB%89%B4%EC%98%AC%EB%A6%AC%EC%96%B8%EC%8A%A4%20%EC%9C%8C%EB%A6%AC%20%EC%9E%AD%EC%8A%A8
+  - 'https://sentirelblues.blogspot.com/2024/11/new-orleans-willie-jackson.html'
+  - 'https://adp.library.ucsb.edu/names/110661'
+  - 'https://www.allmusic.com/artist/new-orleans-willie-jackson-mn0000866581'
+  - >-
+    https://en.namu.wiki/w/%EB%89%B4%EC%98%AC%EB%A6%AC%EC%96%B8%EC%8A%A4%20%EC%9C%8C%EB%A6%AC%20%EC%9E%AD%EC%8A%A8
 spotify_data:
   followers: 60
   id: 5Q7gbkHT8He1foM0BV1Wq6
   popularity: 0
-  url: https://open.spotify.com/artist/5Q7gbkHT8He1foM0BV1Wq6
+  url: 'https://open.spotify.com/artist/5Q7gbkHT8He1foM0BV1Wq6'
 status: active
-title: NEW ORLEANS WILLIE JACKSON
+title: New Orleans Willie Jackson
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](new_orleans_willie_jackson.jpg)

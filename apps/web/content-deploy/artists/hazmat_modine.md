@@ -1,13 +1,13 @@
 ---
-title: hazmat modine
+title: Hazmat Modine
 wiki_slug: hazmat-modine
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- dark cabaret
+  - dark cabaret
 instruments:
-- tuba
+  - tuba
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/hazmat_modine.jpg
   caption: hazmat modine
@@ -27,68 +27,70 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Balla Kouyaté
-  - Bombino
-  - Joe Daley
+    - Balla Kouyaté
+    - Bombino
+    - Joe Daley
   influenced:
-  - Contemporary world music and roots fusion artists
+    - Contemporary world music and roots fusion artists
   mentors:
-  - Pre-war blues and ragtime artists
+    - Pre-war blues and ragtime artists
 spotify_data:
   followers: 18893
   id: 1b7O4uNUwsdXeX4LzlNfU2
   popularity: 22
-  url: https://open.spotify.com/artist/1b7O4uNUwsdXeX4LzlNfU2
+  url: 'https://open.spotify.com/artist/1b7O4uNUwsdXeX4LzlNfU2'
 discography_enriched: true
 top_tracks:
-- Bahamut (Bahamut)
-- Bahamut (Bahamut)
-- Up & Rise (Extra Deluxe Supreme)
-- Child of a Blind Man (Cicada)
-- Late at Night (Bonfire)
-- It Calls Me (Bahamut)
-- Bahamut (New York "The Sound of a City")
-- Box of Breath (Box of Breath)
-- Moving Stones (Extra Deluxe Supreme)
-- Yesterday Morning (Bahamut)
+  - Bahamut (Bahamut)
+  - Bahamut (Bahamut)
+  - Up & Rise (Extra Deluxe Supreme)
+  - Child of a Blind Man (Cicada)
+  - Late at Night (Bonfire)
+  - It Calls Me (Bahamut)
+  - Bahamut (New York "The Sound of a City")
+  - Box of Breath (Box of Breath)
+  - Moving Stones (Extra Deluxe Supreme)
+  - Yesterday Morning (Bahamut)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/75fc812e-83d7-417d-bc51-efb193d6b6f8
-  spotify: https://open.spotify.com/artist/1b7O4uNUwsdXeX4LzlNfU2
-  wikipedia: https://en.wikipedia.org/wiki/Hazmat_Modine
+  musicbrainz: 'https://musicbrainz.org/artist/75fc812e-83d7-417d-bc51-efb193d6b6f8'
+  spotify: 'https://open.spotify.com/artist/1b7O4uNUwsdXeX4LzlNfU2'
+  wikipedia: 'https://en.wikipedia.org/wiki/Hazmat_Modine'
 image_path: 03_Resources/source_material/ArtistPortraits/hazmat_modine.jpg
 biography_enhanced_at: '2025-11-22T07:40:48.384585'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.provoculture.com/en/artists/hazmat-modine/
-- https://www.last.fm/music/Hazmat+Modine/+wiki
-- https://www.elsewhere.co.nz/world-music/7282/the-famous-elsewhere-world-music-questionnaire-wade-schuman-of-hazmat-modine/
-- https://flushingtownhall.wordpress.com/2022/10/18/hazmat-modine-brings-worldly-influences-to-american-roots-music-on-saturday-october-22/
+  - 'https://www.provoculture.com/en/artists/hazmat-modine/'
+  - 'https://www.last.fm/music/Hazmat+Modine/+wiki'
+  - >-
+    https://www.elsewhere.co.nz/world-music/7282/the-famous-elsewhere-world-music-questionnaire-wade-schuman-of-hazmat-modine/
+  - >-
+    https://flushingtownhall.wordpress.com/2022/10/18/hazmat-modine-brings-worldly-influences-to-american-roots-music-on-saturday-october-22/
 network_extracted: true
 entry_created: '2025-11-22T07:40:48.384603'
 last_updated: '2025-12-23T08:16:09.550140'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7d426c69-c024-4041-933f-7b37a6193481
-  name: Erik Della Penna
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a785d831-4a0f-4edb-b656-58480afbea4a
-  name: Michaela Gomez
-- begin: ''
-  end: ''
-  instruments:
-  - tuba
-  mbid: c04f6a1e-c744-479f-ad28-c639e889d7d7
-  name: Joe Daley
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7d426c69-c024-4041-933f-7b37a6193481
+    name: Erik Della Penna
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a785d831-4a0f-4edb-b656-58480afbea4a
+    name: Michaela Gomez
+  - begin: ''
+    end: ''
+    instruments:
+      - tuba
+    mbid: c04f6a1e-c744-479f-ad28-c639e889d7d7
+    name: Joe Daley
 musicbrainz_id: 75fc812e-83d7-417d-bc51-efb193d6b6f8
-origin: New York
+origin: 'New York City, New York, United States'
 tags:
-- folk
-- jazz
+  - folk
+  - jazz
 ---
 
 ![](hazmat_modine.jpg)

@@ -4,9 +4,9 @@ wiki_slug: the-coffinshakers
 schema_version: 2
 status: active
 genres:
-- psychobilly
-- gothic country
-- rockabilly
+  - psychobilly
+  - gothic country
+  - rockabilly
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_coffinshakers.jpg
   caption: The Coffinshakers
@@ -26,53 +26,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Joe Undertaker
-  - Fang
-  - Andy Bones
-  - Blackfist Bill
+    - Joe Undertaker
+    - Fang
+    - Andy Bones
+    - Blackfist Bill
   influenced:
-  - Ghoultown
-  - Koffin Kats
-  - Hola Ghost
+    - Ghoultown
+    - Koffin Kats
+    - Hola Ghost
   mentors:
-  - Johnny Cash
-  - Waylon Jennings
-  - Ennio Morricone
-  - The Ventures
+    - Johnny Cash
+    - Waylon Jennings
+    - Ennio Morricone
+    - The Ventures
 spotify_data:
   followers: 32520
   id: 40MSz9KU6J8HDdfATbQzO2
   popularity: 33
-  url: https://open.spotify.com/artist/40MSz9KU6J8HDdfATbQzO2
+  url: 'https://open.spotify.com/artist/40MSz9KU6J8HDdfATbQzO2'
 discography_enriched: true
 top_tracks:
-- Last Night Down by the Grave (The Coffinshakers)
-- Walpurgis Night (The Coffinshakers)
-- Dracula Has Risen From the Grave (Dark Wings Over the World)
-- Blood-Bath (Dark Wings Over the World)
-- Voodoo Woman (The Coffinshakers)
-- From Here to Hell (The Coffinshakers)
-- Return of the Vampire (The Coffinshakers)
-- Black Sunday (Dark Wings Over the World)
-- Halloween (Dark Wings Over the World)
-- Evil (The Coffinshakers)
+  - Last Night Down by the Grave (The Coffinshakers)
+  - Walpurgis Night (The Coffinshakers)
+  - Dracula Has Risen From the Grave (Dark Wings Over the World)
+  - Blood-Bath (Dark Wings Over the World)
+  - Voodoo Woman (The Coffinshakers)
+  - From Here to Hell (The Coffinshakers)
+  - Return of the Vampire (The Coffinshakers)
+  - Black Sunday (Dark Wings Over the World)
+  - Halloween (Dark Wings Over the World)
+  - Evil (The Coffinshakers)
 external_urls:
-  spotify: https://open.spotify.com/artist/40MSz9KU6J8HDdfATbQzO2
+  spotify: 'https://open.spotify.com/artist/40MSz9KU6J8HDdfATbQzO2'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/the_coffinshakers.jpg
 biography_enhanced_at: '2025-10-31T08:12:43.485147'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/The+Coffinshakers/+wiki
-- https://svartrecords.com/artist/the-coffinshakers/10597
-- https://www.allmusic.com/artist/the-coffinshakers-mn0001978586
-- https://www.roughtrade.com/artist/the-coffinshakers
+  - 'https://www.last.fm/music/The+Coffinshakers/+wiki'
+  - 'https://svartrecords.com/artist/the-coffinshakers/10597'
+  - 'https://www.allmusic.com/artist/the-coffinshakers-mn0001978586'
+  - 'https://www.roughtrade.com/artist/the-coffinshakers'
 network_extracted: true
 entry_created: '2025-10-31T08:12:43.485154'
 last_updated: '2025-12-23T08:16:16.654388'
-origin: Karlstad, Sweden
-
+origin: 'Karlstad, Sweden'
+artist_type: band
 ---
 
 ![](the_coffinshakers.jpg)

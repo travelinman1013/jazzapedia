@@ -3,13 +3,17 @@ title: Gina Leslie
 wiki_slug: gina-leslie
 schema_version: 2
 status: active
-birth_place: Evergreen, Colorado, USA (birthplace); New Orleans, Louisiana, USA (current base)
+birth_place: >-
+  Evergreen, Colorado, USA (birthplace); New Orleans, Louisiana, USA (current
+  base)
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/gina_leslie.jpg
   caption: Gina Leslie
   background: solo_singer
-  origin: Evergreen, Colorado, USA (birthplace); New Orleans, Louisiana, USA (current base)
+  origin: >-
+    Evergreen, Colorado, USA (birthplace); New Orleans, Louisiana, USA (current
+    base)
 audio_profile:
   tempo_avg: 121.2
   energy_avg: 0.223
@@ -17,7 +21,7 @@ audio_profile:
   danceability_avg: 0.421
   acousticness_avg: 0.831
   instrumentalness_avg: 0.008
-  loudness_avg: -12.0
+  loudness_avg: -12
   speechiness_avg: 0.036
   liveness_avg: 0.136
   track_count: 30
@@ -25,48 +29,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ric Robertson
-  - Sam Doores
-  - Esther Rose
-  - Leonie Evans
-  - The Bad Bad Leslies
-  - Dave Hammer
+    - Ric Robertson
+    - Sam Doores
+    - Esther Rose
+    - Leonie Evans
+    - The Bad Bad Leslies
+    - Dave Hammer
   influenced: []
   mentors:
-  - Family (unnamed)
+    - Family (unnamed)
 spotify_data:
   followers: 581
   id: 7avL2tGGJKsNn3XyageEY8
   popularity: 1
-  url: https://open.spotify.com/artist/7avL2tGGJKsNn3XyageEY8
+  url: 'https://open.spotify.com/artist/7avL2tGGJKsNn3XyageEY8'
 discography_enriched: true
 top_tracks:
-- How Many Waltzes Is Too Many Waltzes? (No, You're Crying)
-- Little Company (Little Company)
-- Time (Collaborations, Vol. 2)
-- I Really Do (I Really Do)
-- High and Dry (No, You're Crying)
-- Wishbone (No, You're Crying)
-- I See You Everywhere I Go (No, You're Crying)
-- I See You Everywhere I Go (I See You Everywhere I Go)
-- Month of Sundays (Month of Sundays)
-- Month of Sundays (No, You're Crying)
+  - 'How Many Waltzes Is Too Many Waltzes? (No, You''re Crying)'
+  - Little Company (Little Company)
+  - 'Time (Collaborations, Vol. 2)'
+  - I Really Do (I Really Do)
+  - 'High and Dry (No, You''re Crying)'
+  - 'Wishbone (No, You''re Crying)'
+  - 'I See You Everywhere I Go (No, You''re Crying)'
+  - I See You Everywhere I Go (I See You Everywhere I Go)
+  - Month of Sundays (Month of Sundays)
+  - 'Month of Sundays (No, You''re Crying)'
 external_urls:
-  spotify: https://open.spotify.com/artist/7avL2tGGJKsNn3XyageEY8
+  spotify: 'https://open.spotify.com/artist/7avL2tGGJKsNn3XyageEY8'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/gina_leslie.jpg
 biography_enhanced_at: '2025-10-29T16:44:27.933297'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://www.omgina.com/music
-- https://holler.country/feature/interview/new-artist-of-the-week-gina-leslie/
-- http://www.omgina.com
-- https://dustyorgan.com/2022/01/16/folk-artist-gina-leslie-shares-jazzy-americana-ballad-month-of-sundays/
-- https://www.allmusic.com/artist/gina-leslie-mn0004011728
+  - 'http://www.omgina.com/music'
+  - 'https://holler.country/feature/interview/new-artist-of-the-week-gina-leslie/'
+  - 'http://www.omgina.com'
+  - >-
+    https://dustyorgan.com/2022/01/16/folk-artist-gina-leslie-shares-jazzy-americana-ballad-month-of-sundays/
+  - 'https://www.allmusic.com/artist/gina-leslie-mn0004011728'
 network_extracted: true
 entry_created: '2025-10-29T16:44:27.933312'
 last_updated: '2025-12-23T08:16:09.215385'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](gina_leslie.jpg)

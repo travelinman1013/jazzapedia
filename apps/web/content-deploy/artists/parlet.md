@@ -2,14 +2,14 @@
 title: Parlet
 wiki_slug: parlet
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1978'
 genres:
-- baroque pop
-- chamber pop
+  - baroque pop
+  - chamber pop
 instruments:
-- background vocals
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/parlet.jpg
   caption: Parlet
@@ -30,73 +30,73 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mallia Franklin
-  - Jeanette Washington
-  - Debbie Wright
-  - Shirley Hayden
-  - Janice Evans
-  - Parliament-Funkadelic
+    - Mallia Franklin
+    - Jeanette Washington
+    - Debbie Wright
+    - Shirley Hayden
+    - Janice Evans
+    - Parliament-Funkadelic
   influenced:
-  - Dawn Silva
-  - Contemporary female funk artists
+    - Dawn Silva
+    - Contemporary female funk artists
   mentors:
-  - George Clinton
+    - George Clinton
 spotify_data:
   followers: 63801
   id: 77Rj6PHmQJFb8nbSH62y68
   popularity: 52
-  url: https://open.spotify.com/artist/77Rj6PHmQJFb8nbSH62y68
+  url: 'https://open.spotify.com/artist/77Rj6PHmQJFb8nbSH62y68'
 discography_enriched: true
 top_tracks:
-- Dimensions (Her (Original Score))
-- Song on the Beach (Her (Original Score))
-- Photograph (Her (Original Score))
-- Song on the Beach
-- 'Loneliness #3 (Night Talking) (Her (Original Score))'
-- Some Other Place (Her (Original Score))
-- Sleepwalker (Her (Original Score))
-- 'Milk & Honey #1 (Her (Original Score))'
-- Divorce Papers (Her (Original Score))
-- Morning Talk / Supersymmetry (Her (Original Score))
+  - Dimensions (Her (Original Score))
+  - Song on the Beach (Her (Original Score))
+  - Photograph (Her (Original Score))
+  - Song on the Beach
+  - 'Loneliness #3 (Night Talking) (Her (Original Score))'
+  - Some Other Place (Her (Original Score))
+  - Sleepwalker (Her (Original Score))
+  - 'Milk & Honey #1 (Her (Original Score))'
+  - Divorce Papers (Her (Original Score))
+  - Morning Talk / Supersymmetry (Her (Original Score))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b30e29a4-be9c-4eaa-a91f-fa075b8b46a0
-  spotify: https://open.spotify.com/artist/77Rj6PHmQJFb8nbSH62y68
-  wikipedia: https://en.wikipedia.org/wiki/Parlet
+  musicbrainz: 'https://musicbrainz.org/artist/b30e29a4-be9c-4eaa-a91f-fa075b8b46a0'
+  spotify: 'https://open.spotify.com/artist/77Rj6PHmQJFb8nbSH62y68'
+  wikipedia: 'https://en.wikipedia.org/wiki/Parlet'
 image_path: 03_Resources/source_material/ArtistPortraits/parlet.jpg
 biography_enhanced_at: '2025-11-23T06:35:41.338652'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Parlet
-- https://www.last.fm/music/Parlet/+wiki
-- https://alchetron.com/Parlet
-- https://musicbrainz.org/artist/b30e29a4-be9c-4eaa-a91f-fa075b8b46a0
+  - 'https://en.wikipedia.org/wiki/Parlet'
+  - 'https://www.last.fm/music/Parlet/+wiki'
+  - 'https://alchetron.com/Parlet'
+  - 'https://musicbrainz.org/artist/b30e29a4-be9c-4eaa-a91f-fa075b8b46a0'
 network_extracted: true
 entry_created: '2025-11-23T06:35:41.338663'
 last_updated: '2025-12-23T08:16:13.952078'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6976475c-aa91-4483-9e45-fbc78772f16d
-  name: Mallia Franklin
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 385cc8d3-9023-4388-9975-4d1e735af32e
-  name: Shirley Hayden
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9b5d090d-d1d8-403c-a19d-8bff49b6e70c
-  name: Jeanette Washington
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c44c58ff-ce2a-4efd-bd96-a42d7355a2ce
-  name: Debbie Wright
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6976475c-aa91-4483-9e45-fbc78772f16d
+    name: Mallia Franklin
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 385cc8d3-9023-4388-9975-4d1e735af32e
+    name: Shirley Hayden
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9b5d090d-d1d8-403c-a19d-8bff49b6e70c
+    name: Jeanette Washington
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c44c58ff-ce2a-4efd-bd96-a42d7355a2ce
+    name: Debbie Wright
 musicbrainz_id: b30e29a4-be9c-4eaa-a91f-fa075b8b46a0
-origin: Detroit
+origin: 'Detroit, Michigan, United States'
 ---
 
 ![](parlet.jpg)

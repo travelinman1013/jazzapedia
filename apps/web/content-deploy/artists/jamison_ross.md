@@ -1,46 +1,46 @@
 ---
 biography_enhanced_at: '2026-01-02T01:20:54.425065'
-birth_place: Jacksonville, FL, USA
+birth_place: 'Jacksonville, FL, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-02T01:20:54.425071'
 external_urls:
-  spotify: https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK
+  spotify: 'https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK'
   wikipedia: ''
 genres:
-- retro soul
-- vocal jazz
+  - retro soul
+  - vocal jazz
 image_path: 03_Resources/source_material/ArtistPortraits/jamison_ross.jpg
 last_updated: '2026-01-02T01:20:54.425071'
 musical_connections:
   collaborators:
-  - Snarky Puppy
-  - Cécile McLorin Salvant
-  - Jonathan Batiste
-  - Dr. John
-  - Jon Cleary
-  - Christian McBride
-  - Mykal Kilgore
-  - Avery*Sunshine
+    - Snarky Puppy
+    - Cécile McLorin Salvant
+    - Jonathan Batiste
+    - Dr. John
+    - Jon Cleary
+    - Christian McBride
+    - Mykal Kilgore
+    - Avery*Sunshine
   influenced:
-  - Students at Loyola University
+    - Students at Loyola University
   mentors:
-  - Carmen Lundy
+    - Carmen Lundy
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://cmm.loyno.edu/academics/faculty-and-staff-directory/jamison-ross
-- https://www.jazzartsgroup.org/jamison-ross/
-- https://www.thekurlandagency.com/materials/bios/Jamison_Ross_Bio.pdf
-- https://jazzweekly.com/2021/07/jamison-ross-interview/
-- https://www.yamaha.com/artists/jamisonross.html
+  - 'https://cmm.loyno.edu/academics/faculty-and-staff-directory/jamison-ross'
+  - 'https://www.jazzartsgroup.org/jamison-ross/'
+  - 'https://www.thekurlandagency.com/materials/bios/Jamison_Ross_Bio.pdf'
+  - 'https://jazzweekly.com/2021/07/jamison-ross-interview/'
+  - 'https://www.yamaha.com/artists/jamisonross.html'
 spotify_data:
   followers: 13567
   id: 7cWhEUzLtzKg5FH2JJItyK
   popularity: 31
-  url: https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK
+  url: 'https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK'
 status: active
-title: JAMISON ROSS
-
+title: Jamison Ross
+artist_type: person
 ---
 
 ![](jamison_ross.jpg)

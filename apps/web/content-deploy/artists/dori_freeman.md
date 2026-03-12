@@ -1,58 +1,59 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-01T01:09:54.869513'
-birth_place: Galax
+birth_place: 'Galax, Virginia, United States'
 disambiguation: Virginia Americana
 enhancement_provider: perplexity
 entry_created: '2026-01-01T01:09:54.869532'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/53da977f-740f-4439-94c9-c48a452c88e9
-  spotify: https://open.spotify.com/artist/4GCMwhffO4BBQZp2eoOapt
-  wikipedia: https://en.wikipedia.org/wiki/Dori_Freeman
+  musicbrainz: 'https://musicbrainz.org/artist/53da977f-740f-4439-94c9-c48a452c88e9'
+  spotify: 'https://open.spotify.com/artist/4GCMwhffO4BBQZp2eoOapt'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dori_Freeman'
 gender: Female
 genres:
-- americana
-- alt country
+  - americana
+  - alt country
 image_path: 03_Resources/source_material/ArtistPortraits/dori_freeman.jpg
 instruments:
-- guitar
-- electric guitar
-- lead vocals
-- other vocals
-- background vocals
-- vocal
+  - guitar
+  - electric guitar
+  - lead vocals
+  - other vocals
+  - background vocals
+  - vocal
 last_updated: '2026-01-01T01:09:54.869536'
 musical_connections:
   collaborators:
-  - Nicholas Falk
-  - Linda Thompson
-  - Neal Casal
+    - Nicholas Falk
+    - Linda Thompson
+    - Neal Casal
   influenced: []
   mentors:
-  - Teddy Thompson
-  - Scott Freeman (father)
-  - Willard Gayheart (grandfather)
+    - Teddy Thompson
+    - Scott Freeman (father)
+    - Willard Gayheart (grandfather)
 musicbrainz_id: 53da977f-740f-4439-94c9-c48a452c88e9
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- Wikipedia - Dori Freeman
-- Dori Freeman Official Website (dorifreeman.com)
-- Lonesome Highway Interview
-- Club Passim Artist Profile
-- The Bluegrass Situation
-- DittyTV Interview
-- Concerted Efforts Bio
-- WMKY Arts & Culture
-- Fretboard Journal Interview
-- American Songwriter
+  - Wikipedia - Dori Freeman
+  - Dori Freeman Official Website (dorifreeman.com)
+  - Lonesome Highway Interview
+  - Club Passim Artist Profile
+  - The Bluegrass Situation
+  - DittyTV Interview
+  - Concerted Efforts Bio
+  - WMKY Arts & Culture
+  - Fretboard Journal Interview
+  - American Songwriter
 spotify_data:
   followers: 14403
   id: 4GCMwhffO4BBQZp2eoOapt
   popularity: 21
-  url: https://open.spotify.com/artist/4GCMwhffO4BBQZp2eoOapt
+  url: 'https://open.spotify.com/artist/4GCMwhffO4BBQZp2eoOapt'
 status: active
 title: Dori Freeman
+origin: 'Galax, Virginia, United States'
 ---
 
 ![](dori_freeman.jpg)

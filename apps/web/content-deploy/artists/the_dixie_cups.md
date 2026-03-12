@@ -1,21 +1,21 @@
 ---
-title: THE DIXIE CUPS
+title: The Dixie Cups
 wiki_slug: the-dixie-cups
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1963'
 genres:
-- doo-wop
+  - doo-wop
 instruments:
-- background vocals
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_dixie_cups.jpg
   caption: THE DIXIE CUPS
   background: group_or_band
   born: '1963'
 audio_profile:
-  tempo_avg: 118.0
+  tempo_avg: 118
   energy_avg: 0.5
   valence_avg: 0.818
   danceability_avg: 0.72
@@ -29,73 +29,75 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Barbara Ann Hawkins
-  - Rosa Lee Hawkins
-  - Joan Marie Johnson
-  - Dale Mickle
-  - Althelgra Neville
+    - Barbara Ann Hawkins
+    - Rosa Lee Hawkins
+    - Joan Marie Johnson
+    - Dale Mickle
+    - Althelgra Neville
   influenced:
-  - Various girl groups
+    - Various girl groups
   mentors:
-  - Joe Jones
-  - Jerry Leiber and Mike Stoller
+    - Joe Jones
+    - Jerry Leiber and Mike Stoller
 spotify_data:
   followers: 80021
   id: 7ICvZfP4VHAPZ5Wdt03772
   popularity: 45
-  url: https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772
+  url: 'https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772'
 discography_enriched: true
 top_tracks:
-- 'Chapel Of Love (The Very Best of The Dixie Cups: Chapel of Love)'
-- Chapel Of Love (All Grown Up)
-- 'Iko Iko (The Very Best of The Dixie Cups: Chapel of Love)'
-- Chapel Of Love (Full Metal Jacket (Original Motion Picture Soundtrack))
-- Iko Iko (All Grown Up)
-- 'I''m Gonna Get You Yet (The Very Best of The Dixie Cups: Chapel of Love)'
-- Chapel of Love (Chapel of Love)
-- Chapel Of Love - Mono / Remastered 2022 (Chapel of Love (Sun Records 70th / Mono / Remastered 2022))
-- Iko Iko - Original (The Dixie Cups' Another Boy Like Mine)
-- 'People Say (The Very Best of The Dixie Cups: Chapel of Love)'
+  - 'Chapel Of Love (The Very Best of The Dixie Cups: Chapel of Love)'
+  - Chapel Of Love (All Grown Up)
+  - 'Iko Iko (The Very Best of The Dixie Cups: Chapel of Love)'
+  - Chapel Of Love (Full Metal Jacket (Original Motion Picture Soundtrack))
+  - Iko Iko (All Grown Up)
+  - 'I''m Gonna Get You Yet (The Very Best of The Dixie Cups: Chapel of Love)'
+  - Chapel of Love (Chapel of Love)
+  - >-
+    Chapel Of Love - Mono / Remastered 2022 (Chapel of Love (Sun Records 70th /
+    Mono / Remastered 2022))
+  - Iko Iko - Original (The Dixie Cups' Another Boy Like Mine)
+  - 'People Say (The Very Best of The Dixie Cups: Chapel of Love)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/91fc56fe-ac9a-4d35-8cdc-34eb72fa59bb
-  spotify: https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772
-  wikipedia: https://en.wikipedia.org/wiki/The_Dixie_Cups
+  musicbrainz: 'https://musicbrainz.org/artist/91fc56fe-ac9a-4d35-8cdc-34eb72fa59bb'
+  spotify: 'https://open.spotify.com/artist/7ICvZfP4VHAPZ5Wdt03772'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Dixie_Cups'
 image_path: 03_Resources/source_material/ArtistPortraits/the_dixie_cups.jpg
 biography_enhanced_at: '2025-11-05T12:57:31.266541'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://vocalgroup.org/inductees/the-dixie-cups/
-- https://sunrecords.com/artists/dixie-cups/
-- https://lpintop.tripod.com/thedixiecups/id1.html
-- https://www.imdb.com/name/nm1827481/bio/
-- https://www.neworleans.com/listing/the-dixie-cups/47924/
+  - 'https://vocalgroup.org/inductees/the-dixie-cups/'
+  - 'https://sunrecords.com/artists/dixie-cups/'
+  - 'https://lpintop.tripod.com/thedixiecups/id1.html'
+  - 'https://www.imdb.com/name/nm1827481/bio/'
+  - 'https://www.neworleans.com/listing/the-dixie-cups/47924/'
 network_extracted: true
 entry_created: '2025-11-05T12:57:31.266557'
 last_updated: '2025-12-23T08:16:16.740823'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5d1f3289-a235-4c65-bfeb-081dc6c44153
-  name: Barbara Anne Hawkins
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7ed9b724-caaa-4925-a3ca-fd2e81fb6667
-  name: Rosa Lee Hawkins
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8fb63ce9-91fd-4161-b92c-cc580a812c0a
-  name: Athelgra Neville
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2de0ac88-ccad-4f83-bb84-9809bde522ba
-  name: Joan Marie Johnson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5d1f3289-a235-4c65-bfeb-081dc6c44153
+    name: Barbara Anne Hawkins
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7ed9b724-caaa-4925-a3ca-fd2e81fb6667
+    name: Rosa Lee Hawkins
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8fb63ce9-91fd-4161-b92c-cc580a812c0a
+    name: Athelgra Neville
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2de0ac88-ccad-4f83-bb84-9809bde522ba
+    name: Joan Marie Johnson
 musicbrainz_id: 91fc56fe-ac9a-4d35-8cdc-34eb72fa59bb
-origin: New Orleans
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](the_dixie_cups.jpg)

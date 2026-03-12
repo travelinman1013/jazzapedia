@@ -1,13 +1,14 @@
 ---
-title: IRVING MILLS AND HIS HOTSY TOTSY GANG
+title: Irving Mills and His Hotsy Totsy Gang
 wiki_slug: irving-mills-and-his-hotsy-totsy-gang
 schema_version: 2
 status: active
 genres:
-- big band
-- ragtime
+  - big band
+  - ragtime
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/irving_mills_and_his_hotsy_totsy_gang.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/irving_mills_and_his_hotsy_totsy_gang.jpg
   caption: IRVING MILLS AND HIS HOTSY TOTSY GANG
   background: solo_singer
 audio_profile:
@@ -25,54 +26,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tommy Dorsey
-  - Jimmy Dorsey
-  - Joe Venuti
-  - Eddie Lang
-  - Hoagy Carmichael
-  - Gene Krupa
-  - Jack Teagarden
+    - Tommy Dorsey
+    - Jimmy Dorsey
+    - Joe Venuti
+    - Eddie Lang
+    - Hoagy Carmichael
+    - Gene Krupa
+    - Jack Teagarden
   influenced:
-  - Duke Ellington
-  - Cab Calloway
-  - Mills Blue Rhythm Band
+    - Duke Ellington
+    - Cab Calloway
+    - Mills Blue Rhythm Band
   mentors:
-  - Leo Feist
+    - Leo Feist
 spotify_data:
   followers: 429
   id: 0d74TanX3NDn9aSjVYjGr5
   popularity: 6
-  url: https://open.spotify.com/artist/0d74TanX3NDn9aSjVYjGr5
+  url: 'https://open.spotify.com/artist/0d74TanX3NDn9aSjVYjGr5'
 discography_enriched: true
 top_tracks:
-- 'Deep Harlem (Irving Mills & His Hotsy Totsy Gang Vol. 2: 1929-''31)'
-- 'Crazy About My Gal (Irving Mills & His Hotsy Totsy Gang Vol. 2: 1929-''31)'
-- 'March of the Hoodlums (Irving Mills & His Hotsy Totsy Gang Vol. 2: 1929-''31)'
-- 'What Kinda Man Is You (Irving Mills & His Hotsy Totsy Gang Vol. 2: 1929-''31)'
-- 'St. James Infirmary (Irving Mills & His Hotsy Totsy Gang Vol. 2: 1929-''31)'
-- 'Strut, Miss Lizzie (Irving Mills & His Hotsy Totsy Gang Vol. 2: 1929-''31)'
-- 'Barbaric (Irving Mills & His Hotsy Totsy Gang Vol. 2: 1929-''31)'
-- 'Railroad Man (Irving Mills & His Hotsy Totsy Gang Vol. 2: 1929-''31)'
-- 'At the Prom (Irving Mills & His Hotsy Totsy Gang Vol. 1: 1928-''29)'
-- 'So Sweet (Irving Mills & His Hotsy Totsy Gang Vol. 2: 1929-''31)'
+  - 'Deep Harlem (Irving Mills & His Hotsy Totsy Gang Vol. 2: 1929-''31)'
+  - 'Crazy About My Gal (Irving Mills & His Hotsy Totsy Gang Vol. 2: 1929-''31)'
+  - 'March of the Hoodlums (Irving Mills & His Hotsy Totsy Gang Vol. 2: 1929-''31)'
+  - 'What Kinda Man Is You (Irving Mills & His Hotsy Totsy Gang Vol. 2: 1929-''31)'
+  - 'St. James Infirmary (Irving Mills & His Hotsy Totsy Gang Vol. 2: 1929-''31)'
+  - 'Strut, Miss Lizzie (Irving Mills & His Hotsy Totsy Gang Vol. 2: 1929-''31)'
+  - 'Barbaric (Irving Mills & His Hotsy Totsy Gang Vol. 2: 1929-''31)'
+  - 'Railroad Man (Irving Mills & His Hotsy Totsy Gang Vol. 2: 1929-''31)'
+  - 'At the Prom (Irving Mills & His Hotsy Totsy Gang Vol. 1: 1928-''29)'
+  - 'So Sweet (Irving Mills & His Hotsy Totsy Gang Vol. 2: 1929-''31)'
 external_urls:
-  spotify: https://open.spotify.com/artist/0d74TanX3NDn9aSjVYjGr5
-  wikipedia: https://en.wikipedia.org/wiki/Irving_Mills
-image_path: 03_Resources/source_material/ArtistPortraits/irving_mills_and_his_hotsy_totsy_gang.jpg
+  spotify: 'https://open.spotify.com/artist/0d74TanX3NDn9aSjVYjGr5'
+  wikipedia: 'https://en.wikipedia.org/wiki/Irving_Mills'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/irving_mills_and_his_hotsy_totsy_gang.jpg
 biography_enhanced_at: '2025-11-20T06:35:27.943615'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Irving_Mills
-- https://syncopatedtimes.com/irving-mills-and-his-hotsy-totsy-gang/
-- https://www.jazzstandards.com/biographies/biography_81.htm
-- https://challengerecords.com/products/15133326857969/hotsy-totsy-gang-1930-plus-some-whoopee-makers
-- https://syncopatedtimes.com/irving-mills-hotsy-totsy-gang-1930-plus-some-whoopee-makers/
-- https://artmusiclounge.wordpress.com/2017/08/15/discovering-irving-mills-hotsy-totsy-gang/
+  - 'https://en.wikipedia.org/wiki/Irving_Mills'
+  - 'https://syncopatedtimes.com/irving-mills-and-his-hotsy-totsy-gang/'
+  - 'https://www.jazzstandards.com/biographies/biography_81.htm'
+  - >-
+    https://challengerecords.com/products/15133326857969/hotsy-totsy-gang-1930-plus-some-whoopee-makers
+  - >-
+    https://syncopatedtimes.com/irving-mills-hotsy-totsy-gang-1930-plus-some-whoopee-makers/
+  - >-
+    https://artmusiclounge.wordpress.com/2017/08/15/discovering-irving-mills-hotsy-totsy-gang/
 network_extracted: true
 entry_created: '2025-11-20T06:35:27.943626'
 last_updated: '2025-12-23T08:16:09.906363'
-origin: New York City, New York, United States
+origin: 'New York City, New York, United States'
+artist_type: band
 ---
 
 ![](irving_mills_and_his_hotsy_totsy_gang.jpg)

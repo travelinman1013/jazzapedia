@@ -3,15 +3,15 @@ title: Vin Bruce
 wiki_slug: vin-bruce
 schema_version: 2
 status: active
-birth_place: Cut Off, Louisiana, United States
+birth_place: 'Cut Off, Louisiana, United States'
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/vin_bruce.jpg
   caption: Vin Bruce
   background: solo_singer
-  origin: Cut Off, Louisiana, United States
+  origin: 'Cut Off, Louisiana, United States'
 audio_profile:
   tempo_avg: 123.8
   energy_avg: 0.389
@@ -27,48 +27,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Chet Atkins
-  - Grady Martin
-  - Tommy Jackson
-  - Owen Bradley
-  - Shook Jackson
-  - The Acadians
+    - Chet Atkins
+    - Grady Martin
+    - Tommy Jackson
+    - Owen Bradley
+    - Shook Jackson
+    - The Acadians
   influenced:
-  - Contemporary Cajun musicians
+    - Contemporary Cajun musicians
   mentors:
-  - Levy Bruce
+    - Levy Bruce
 spotify_data:
   followers: 569
   id: 1HYbbXriHzXwZtRlpMUyQI
   popularity: 4
-  url: https://open.spotify.com/artist/1HYbbXriHzXwZtRlpMUyQI
+  url: 'https://open.spotify.com/artist/1HYbbXriHzXwZtRlpMUyQI'
 discography_enriched: true
 top_tracks:
-- Les Cadjins Du Bayou (Cajun Music Hits)
-- Les Cadjins du Bayou (Cajun Legend!)
-- Christmas on the Bayou (Merry Cajun Christmas)
-- Jolie blonde (The Essential Collection)
-- Les Cadjins Du Bayou (Best of Cajun)
-- Fille De La Ville (The Cajun And Zydeco Collection, Vol. 3)
-- La Valse de la Belle Riviere (Cajun Legend!)
-- Little Short Pants (Authentic Cajun Music From Southwest Louisiana)
-- Let's Start a New Love (Ultimate Cajun)
-- He' Jolie (Cajun Legend!)
+  - Les Cadjins Du Bayou (Cajun Music Hits)
+  - Les Cadjins du Bayou (Cajun Legend!)
+  - Christmas on the Bayou (Merry Cajun Christmas)
+  - Jolie blonde (The Essential Collection)
+  - Les Cadjins Du Bayou (Best of Cajun)
+  - 'Fille De La Ville (The Cajun And Zydeco Collection, Vol. 3)'
+  - La Valse de la Belle Riviere (Cajun Legend!)
+  - Little Short Pants (Authentic Cajun Music From Southwest Louisiana)
+  - Let's Start a New Love (Ultimate Cajun)
+  - He' Jolie (Cajun Legend!)
 external_urls:
-  spotify: https://open.spotify.com/artist/1HYbbXriHzXwZtRlpMUyQI
-  wikipedia: https://en.wikipedia.org/wiki/Vin_Bruce
+  spotify: 'https://open.spotify.com/artist/1HYbbXriHzXwZtRlpMUyQI'
+  wikipedia: 'https://en.wikipedia.org/wiki/Vin_Bruce'
 image_path: 03_Resources/source_material/ArtistPortraits/vin_bruce.jpg
 biography_enhanced_at: '2025-10-30T12:06:00.865390'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Vin_Bruce
-- https://fromthevaults-boppinbob.blogspot.com/2025/04/vin-bruce-born-25-april-1932.html
-- https://www.ponderosastomp.com/music_more/259/Vin+Bruce
-- https://flattownmusic.com/artist/vin-bruce/
+  - 'https://en.wikipedia.org/wiki/Vin_Bruce'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2025/04/vin-bruce-born-25-april-1932.html
+  - 'https://www.ponderosastomp.com/music_more/259/Vin+Bruce'
+  - 'https://flattownmusic.com/artist/vin-bruce/'
 network_extracted: true
 entry_created: '2025-10-30T12:06:00.865414'
 last_updated: '2025-12-23T08:16:17.895936'
+birth_date: '1932-04-25'
+death_date: '2018-06-08'
+artist_type: person
 ---
 
 ![](vin_bruce.jpg)

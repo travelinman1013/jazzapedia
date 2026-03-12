@@ -2,12 +2,12 @@
 title: BADBADNOTGOOD
 wiki_slug: badbadnotgood
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 birth_date: '2010'
 genres: []
 instruments:
-- original
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/BADBADNOTGOOD.jpg
   caption: BADBADNOTGOOD
@@ -28,56 +28,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ghostface Killah
-  - Kaytranada
-  - Samuel T. Herring
-  - Mick Jenkins
-  - Leland Whitty
+    - Ghostface Killah
+    - Kaytranada
+    - Samuel T. Herring
+    - Mick Jenkins
+    - Leland Whitty
   influenced:
-  - Yussef Dayes
-  - Alfa Mist
+    - Yussef Dayes
+    - Alfa Mist
   mentors:
-  - Humber College Faculty
+    - Humber College Faculty
 spotify_data:
   followers: 877710
   id: 65dGLGjkw3UbddUg2GKQoZ
   popularity: 61
-  url: https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ
+  url: 'https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ'
 discography_enriched: true
 top_tracks:
-- Please Do Not Lean (feat. BADBADNOTGOOD) - Bonus (NEVER ENOUGH (Bonus Version))
-- Time Moves Slow (IV)
-- Running Away
-- In Your Eyes (IV)
-- Please Do Not Lean (feat. BADBADNOTGOOD)
-- Running Away (Time)
-- Alien Love Call
-- Caroline
-- One Last Dance
-- WEIGHT OFF (99.9%)
+  - >-
+    Please Do Not Lean (feat. BADBADNOTGOOD) - Bonus (NEVER ENOUGH (Bonus
+    Version))
+  - Time Moves Slow (IV)
+  - Running Away
+  - In Your Eyes (IV)
+  - Please Do Not Lean (feat. BADBADNOTGOOD)
+  - Running Away (Time)
+  - Alien Love Call
+  - Caroline
+  - One Last Dance
+  - WEIGHT OFF (99.9%)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/754294d5-d7d2-4ea2-8184-1dcaaf55a56f
-  spotify: https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ
-  wikipedia: https://en.wikipedia.org/wiki/BadBadNotGood
+  musicbrainz: 'https://musicbrainz.org/artist/754294d5-d7d2-4ea2-8184-1dcaaf55a56f'
+  spotify: 'https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ'
+  wikipedia: 'https://en.wikipedia.org/wiki/BadBadNotGood'
 image_path: 03_Resources/source_material/ArtistPortraits/BADBADNOTGOOD.jpg
 biography_enhanced_at: '2025-10-22T06:54:06.939911'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/BADBADNOTGOOD/+wiki
-- https://www.complex.com/music/a/andrew-martin/who-is-badbadnotgood
-- https://sheeshmagazine.com/history-of-badbadnotgood-innovative-band/
-- https://www.wbgo.org/podcast/the-checkout/2021-10-23/badbadnotgood-a-band-beloved-in-hip-hop-circles-rediscovers-its-jazz-voice
-- https://jazztimes.com/features/profiles/the-badbadnotgood-life/
+  - 'https://www.last.fm/music/BADBADNOTGOOD/+wiki'
+  - 'https://www.complex.com/music/a/andrew-martin/who-is-badbadnotgood'
+  - 'https://sheeshmagazine.com/history-of-badbadnotgood-innovative-band/'
+  - >-
+    https://www.wbgo.org/podcast/the-checkout/2021-10-23/badbadnotgood-a-band-beloved-in-hip-hop-circles-rediscovers-its-jazz-voice
+  - 'https://jazztimes.com/features/profiles/the-badbadnotgood-life/'
 network_extracted: true
 entry_created: '2025-10-22T06:54:06.939928'
 last_updated: '2025-12-23T08:16:01.096521'
 disambiguation: Canadian instrumental band
 musicbrainz_id: 754294d5-d7d2-4ea2-8184-1dcaaf55a56f
-origin: Toronto
+origin: 'Toronto, Ontario, Canada'
 tags:
-- hip hop
-- instrumental hip hop
+  - hip hop
+  - instrumental hip hop
 ---
 
 ![](BADBADNOTGOOD.jpg)

@@ -2,19 +2,19 @@
 title: Timbalada
 wiki_slug: timbalada
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1991'
 genres:
-- axé
-- pagode baiano
+  - axé
+  - pagode baiano
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/timbalada.jpg
   caption: Timbalada
   background: group_or_band
   born: '1991'
 audio_profile:
-  tempo_avg: 128.0
+  tempo_avg: 128
   energy_avg: 0.796
   valence_avg: 0.697
   danceability_avg: 0.6
@@ -28,58 +28,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tony Mola
-  - Gustavo di Dalva
+    - Tony Mola
+    - Gustavo di Dalva
   influenced:
-  - Mariene de Castro
-  - Afro‑Bahian axé and samba‑reggae percussion ensembles
+    - Mariene de Castro
+    - Afro‑Bahian axé and samba‑reggae percussion ensembles
   mentors:
-  - Carlinhos Brown
+    - Carlinhos Brown
 spotify_data:
   followers: 254156
   id: 1Da4NyNC4CLayaNGGmL9uZ
   popularity: 50
-  url: https://open.spotify.com/artist/1Da4NyNC4CLayaNGGmL9uZ
+  url: 'https://open.spotify.com/artist/1Da4NyNC4CLayaNGGmL9uZ'
 discography_enriched: true
 top_tracks:
-- Beija-Flor (Timbalada)
-- A Luz De Tieta (Axé Bahia)
-- Mimar Você (Andei Road)
-- Margarida Perfumada (Ao Vivo) (Tribal Bahia)
-- Água Mineral (Mineral)
-- Toneladas De Desejo (Cada Cabeca É Um Mundo)
-- A Latinha (Mãe De Samba)
-- Cara de Carnaval (Ao Vivo) (Ao Vivo em Fortaleza, Vol.1)
-- Só Quem Ama - Ao Vivo (JV30 Tour, Parte 1 (Ao Vivo))
-- 'Se Você Se For / Música Incidental: Máscara Negra (Cada Cabeca É Um Mundo)'
+  - Beija-Flor (Timbalada)
+  - A Luz De Tieta (Axé Bahia)
+  - Mimar Você (Andei Road)
+  - Margarida Perfumada (Ao Vivo) (Tribal Bahia)
+  - Água Mineral (Mineral)
+  - Toneladas De Desejo (Cada Cabeca É Um Mundo)
+  - A Latinha (Mãe De Samba)
+  - 'Cara de Carnaval (Ao Vivo) (Ao Vivo em Fortaleza, Vol.1)'
+  - 'Só Quem Ama - Ao Vivo (JV30 Tour, Parte 1 (Ao Vivo))'
+  - 'Se Você Se For / Música Incidental: Máscara Negra (Cada Cabeca É Um Mundo)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/84bde243-41d0-4a20-850b-3dc2763e817d
-  spotify: https://open.spotify.com/artist/1Da4NyNC4CLayaNGGmL9uZ
-  wikipedia: https://en.wikipedia.org/wiki/Timbalada
+  musicbrainz: 'https://musicbrainz.org/artist/84bde243-41d0-4a20-850b-3dc2763e817d'
+  spotify: 'https://open.spotify.com/artist/1Da4NyNC4CLayaNGGmL9uZ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Timbalada'
 image_path: 03_Resources/source_material/ArtistPortraits/timbalada.jpg
 biography_enhanced_at: '2025-12-07T04:46:17.150146'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Timbalada
-- https://www.last.fm/music/Timbalada/+wiki
-- https://www.youtube.com/@Timbaladaoficial/about
-- https://www.salvadordabahia.com/en/the-samba-from-bahia/
+  - 'https://en.wikipedia.org/wiki/Timbalada'
+  - 'https://www.last.fm/music/Timbalada/+wiki'
+  - 'https://www.youtube.com/@Timbaladaoficial/about'
+  - 'https://www.salvadordabahia.com/en/the-samba-from-bahia/'
 network_extracted: true
 entry_created: '2025-12-07T04:46:17.150158'
 last_updated: '2025-12-23T08:16:17.446097'
 disambiguation: banda de samba-reggae
 members:
-- &id001
-  begin: '1991'
-  end: ''
-  instruments: []
-  mbid: 5449942e-5c3b-4609-8d24-19c371f7628c
-  name: Gustavo di Dalva
+  - &ref_0
+    begin: '1991'
+    end: ''
+    instruments: []
+    mbid: 5449942e-5c3b-4609-8d24-19c371f7628c
+    name: Gustavo di Dalva
 musicbrainz_id: 84bde243-41d0-4a20-850b-3dc2763e817d
-origin: Bahia
+origin: 'Salvador, Bahia, Brazil'
 original_members:
-- *id001
+  - *ref_0
 ---
 
 ![](timbalada.jpg)

@@ -2,18 +2,18 @@
 title: Eels
 wiki_slug: eels
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
-birth_date: '1995'
+birth_date: '1963-04-10'
 genres: []
 instruments:
-- bass guitar
-- guitar
-- keyboard
-- lead vocals
-- piano
-- drums (drum set)
-- synthesizer
+  - bass guitar
+  - guitar
+  - keyboard
+  - lead vocals
+  - piano
+  - drums (drum set)
+  - synthesizer
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/eels.jpg
   caption: Eels
@@ -34,151 +34,153 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Butch (Jonathan Norton)
-  - Tommy Walters
-  - Adam Siegal
-  - Lisa Germano
-  - Koool G Murder
-  - P-Boo
-  - John Parish
+    - Butch (Jonathan Norton)
+    - Tommy Walters
+    - Adam Siegal
+    - Lisa Germano
+    - Koool G Murder
+    - P-Boo
+    - John Parish
   influenced:
-  - None prominently documented
+    - None prominently documented
   mentors:
-  - None prominently documented
+    - None prominently documented
 spotify_data:
   followers: 505843
   id: 3zunDAtRDg7kflREzWAhxl
   popularity: 56
-  url: https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl
+  url: 'https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl'
 discography_enriched: true
 top_tracks:
-- That Look You Give That Guy (Hombre Lobo)
-- 'I Need Some Sleep - From "Shrek 2" Soundtrack (Meet The EELS: Essential EELS 1996-2006, Vol. 1)'
-- Novocaine For The Soul (Beautiful Freak)
-- I Need Some Sleep
-- My Beloved Monster (Beautiful Freak)
-- 'Mr. E''s Beautiful Blues (Meet The EELS: Essential EELS 1996-2006, Vol. 1)'
-- Fresh Feeling (Souljacker)
-- I Like Birds (Daisies Of The Galaxy)
-- Fresh Blood (Hombre Lobo)
-- Losing Streak (Blinking Lights and Other Revelations)
+  - That Look You Give That Guy (Hombre Lobo)
+  - >-
+    I Need Some Sleep - From "Shrek 2" Soundtrack (Meet The EELS: Essential EELS
+    1996-2006, Vol. 1)
+  - Novocaine For The Soul (Beautiful Freak)
+  - I Need Some Sleep
+  - My Beloved Monster (Beautiful Freak)
+  - 'Mr. E''s Beautiful Blues (Meet The EELS: Essential EELS 1996-2006, Vol. 1)'
+  - Fresh Feeling (Souljacker)
+  - I Like Birds (Daisies Of The Galaxy)
+  - Fresh Blood (Hombre Lobo)
+  - Losing Streak (Blinking Lights and Other Revelations)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/14387b0f-765c-4852-852f-135335790466
-  spotify: https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl
-  wikipedia: https://en.wikipedia.org/wiki/Mark_Oliver_Everett
+  musicbrainz: 'https://musicbrainz.org/artist/14387b0f-765c-4852-852f-135335790466'
+  spotify: 'https://open.spotify.com/artist/3zunDAtRDg7kflREzWAhxl'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mark_Oliver_Everett'
 image_path: 03_Resources/source_material/ArtistPortraits/eels.jpg
 biography_enhanced_at: '2025-12-19T02:04:08.327183'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Mark_Oliver_Everett
-- https://kids.kiddle.co/Mark_Oliver_Everett
-- https://www.songwritingmagazine.co.uk/interviews/eels-mark-oliver-everett
-- https://eelstheband.com/biography/
+  - 'https://en.wikipedia.org/wiki/Mark_Oliver_Everett'
+  - 'https://kids.kiddle.co/Mark_Oliver_Everett'
+  - 'https://www.songwritingmagazine.co.uk/interviews/eels-mark-oliver-everett'
+  - 'https://eelstheband.com/biography/'
 network_extracted: true
 entry_created: '2025-12-19T02:04:08.327201'
 last_updated: '2025-12-23T08:16:08.246737'
 disambiguation: American rock band
 members:
-- begin: '1995'
-  end: 1997-09
-  instruments:
-  - bass guitar
-  mbid: dab22770-9d2e-4cb9-b48b-f5000eb28cf2
-  name: Tommy Walter
-- &id001
-  begin: '1995'
-  end: ''
-  instruments:
-  - bass guitar
-  - guitar
-  - keyboard
-  - lead vocals
-  - piano
-  mbid: 91f65c11-c802-4934-be87-0fcf5f664f25
-  name: E
-- begin: '1996'
-  end: '2003'
-  instruments:
-  - drums (drum set)
-  mbid: 0072917f-7624-4689-94da-3524c0ec7b23
-  name: Butch
-- begin: '1998'
-  end: '1998'
-  instruments:
-  - bass guitar
-  mbid: 9a066767-a7bb-411a-aab5-4d0005095fa6
-  name: Adam Siegel
-- begin: '2001'
-  end: '2002'
-  instruments:
-  - guitar
-  mbid: 4ae92e70-3690-473b-8fbc-49749565669f
-  name: John Parish
-- &id002
-  begin: '2001'
-  end: ''
-  instruments:
-  - bass guitar
-  - synthesizer
-  mbid: ed8b9a11-124a-4732-a725-729d576d6ba6
-  name: Koool G Murder
-- begin: '2002'
-  end: '2003'
-  instruments:
-  - guitar
-  mbid: 8e5441f8-0635-4413-9761-46f54986f6cf
-  name: Joe Gore
-- begin: '2003'
-  end: '2003'
-  instruments:
-  - guitar
-  mbid: 950a3474-72a6-4b9b-9361-1b2f5fbf0777
-  name: Shon Sullivan
-- begin: '2003'
-  end: '2005'
-  instruments:
-  - drums (drum set)
-  mbid: f9bc19f9-3ee8-4592-ad70-b90414fbb9e8
-  name: Puddin'
-- &id003
-  begin: '2003'
-  end: ''
-  instruments:
-  - guitar
-  mbid: 9ad7fd9d-f1cf-4115-a6a8-05d6e478464a
-  name: The Chet
-- &id004
-  begin: '2009'
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: f2749fc5-dcf8-49f0-b976-3f2dc4639447
-  name: Knuckles
-- &id005
-  begin: '2010'
-  end: ''
-  instruments:
-  - guitar
-  mbid: deeafef4-0aa2-4ae8-82ba-d36a5decbdbe
-  name: P-Boo
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 11e5ca6b-99a0-420a-9459-a0ea696f41f3
-  name: Big Al
+  - begin: '1995'
+    end: 1997-09
+    instruments:
+      - bass guitar
+    mbid: dab22770-9d2e-4cb9-b48b-f5000eb28cf2
+    name: Tommy Walter
+  - &ref_0
+    begin: '1995'
+    end: ''
+    instruments:
+      - bass guitar
+      - guitar
+      - keyboard
+      - lead vocals
+      - piano
+    mbid: 91f65c11-c802-4934-be87-0fcf5f664f25
+    name: E
+  - begin: '1996'
+    end: '2003'
+    instruments:
+      - drums (drum set)
+    mbid: 0072917f-7624-4689-94da-3524c0ec7b23
+    name: Butch
+  - begin: '1998'
+    end: '1998'
+    instruments:
+      - bass guitar
+    mbid: 9a066767-a7bb-411a-aab5-4d0005095fa6
+    name: Adam Siegel
+  - begin: '2001'
+    end: '2002'
+    instruments:
+      - guitar
+    mbid: 4ae92e70-3690-473b-8fbc-49749565669f
+    name: John Parish
+  - &ref_1
+    begin: '2001'
+    end: ''
+    instruments:
+      - bass guitar
+      - synthesizer
+    mbid: ed8b9a11-124a-4732-a725-729d576d6ba6
+    name: Koool G Murder
+  - begin: '2002'
+    end: '2003'
+    instruments:
+      - guitar
+    mbid: 8e5441f8-0635-4413-9761-46f54986f6cf
+    name: Joe Gore
+  - begin: '2003'
+    end: '2003'
+    instruments:
+      - guitar
+    mbid: 950a3474-72a6-4b9b-9361-1b2f5fbf0777
+    name: Shon Sullivan
+  - begin: '2003'
+    end: '2005'
+    instruments:
+      - drums (drum set)
+    mbid: f9bc19f9-3ee8-4592-ad70-b90414fbb9e8
+    name: Puddin'
+  - &ref_2
+    begin: '2003'
+    end: ''
+    instruments:
+      - guitar
+    mbid: 9ad7fd9d-f1cf-4115-a6a8-05d6e478464a
+    name: The Chet
+  - &ref_3
+    begin: '2009'
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: f2749fc5-dcf8-49f0-b976-3f2dc4639447
+    name: Knuckles
+  - &ref_4
+    begin: '2010'
+    end: ''
+    instruments:
+      - guitar
+    mbid: deeafef4-0aa2-4ae8-82ba-d36a5decbdbe
+    name: P-Boo
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 11e5ca6b-99a0-420a-9459-a0ea696f41f3
+    name: Big Al
 musicbrainz_id: 14387b0f-765c-4852-852f-135335790466
-origin: Los Feliz
+origin: 'Los Angeles, California, United States'
 original_members:
-- *id001
-- *id002
-- *id003
-- *id004
-- *id005
+  - *ref_0
+  - *ref_1
+  - *ref_2
+  - *ref_3
+  - *ref_4
 tags:
-- alternative
-- alternative rock
-- chamber pop
+  - alternative
+  - alternative rock
+  - chamber pop
 ---
 
 ![](eels.jpg)

@@ -1,14 +1,14 @@
 ---
-title: lorraine ellison
+title: Lorraine Ellison
 wiki_slug: lorraine-ellison
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1931-03-17'
-birth_place: Philadelphia
+birth_place: 'Philadelphia, Pennsylvania, United States'
 death_date: '1983-01-31'
 genres:
-- northern soul
+  - northern soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lorraine_ellison.jpg
   caption: lorraine ellison
@@ -31,55 +31,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sam Bell
-  - Jerry Ragovoy
-  - Dennis Lambert
-  - Van McCoy
+    - Sam Bell
+    - Jerry Ragovoy
+    - Dennis Lambert
+    - Van McCoy
   influenced:
-  - Janis Joplin
-  - Laura Nyro
-  - Van Morrison
+    - Janis Joplin
+    - Laura Nyro
+    - Van Morrison
   mentors:
-  - Gospel tradition (church and family)
+    - Gospel tradition (church and family)
 spotify_data:
   followers: 5376
   id: 7h38QSSoFKgb7WgNC7cZp0
   popularity: 23
-  url: https://open.spotify.com/artist/7h38QSSoFKgb7WgNC7cZp0
+  url: 'https://open.spotify.com/artist/7h38QSSoFKgb7WgNC7cZp0'
 discography_enriched: true
 top_tracks:
-- Stay with Me (Heart and Soul)
-- 'Stay with Me (Beg, Scream & Shout!: Vol. 2)'
-- Stay with Me - Single Version (Best of Loma Records-Rise and Fall of a 1960's Soul Label)
-- 'Stay with Me (Sister Love: The Warner Bros. Recordings)'
-- Try (Just a Little Bit Harder) (Stay with Me)
-- 'You''ve Really Got a Hold on Me - Single Version (Sister Love: The Warner Bros. Recordings)'
-- Stay With Me (Baby) (Pirate Radio)
-- Try (Just a Little Bit Harder) (50 Greatest Blues)
-- 'Stay with Me - Mono Single Version (Sister Love: The Warner Bros. Recordings)'
-- What a Difference a Day Makes (Sunday Jazz)
+  - Stay with Me (Heart and Soul)
+  - 'Stay with Me (Beg, Scream & Shout!: Vol. 2)'
+  - >-
+    Stay with Me - Single Version (Best of Loma Records-Rise and Fall of a
+    1960's Soul Label)
+  - 'Stay with Me (Sister Love: The Warner Bros. Recordings)'
+  - Try (Just a Little Bit Harder) (Stay with Me)
+  - >-
+    You've Really Got a Hold on Me - Single Version (Sister Love: The Warner
+    Bros. Recordings)
+  - Stay With Me (Baby) (Pirate Radio)
+  - Try (Just a Little Bit Harder) (50 Greatest Blues)
+  - >-
+    Stay with Me - Mono Single Version (Sister Love: The Warner Bros.
+    Recordings)
+  - What a Difference a Day Makes (Sunday Jazz)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/cc781935-afd3-4f35-908d-d9513d37b67a
-  spotify: https://open.spotify.com/artist/7h38QSSoFKgb7WgNC7cZp0
-  wikipedia: https://en.wikipedia.org/wiki/Lorraine_Ellison
+  musicbrainz: 'https://musicbrainz.org/artist/cc781935-afd3-4f35-908d-d9513d37b67a'
+  spotify: 'https://open.spotify.com/artist/7h38QSSoFKgb7WgNC7cZp0'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lorraine_Ellison'
 image_path: 03_Resources/source_material/ArtistPortraits/lorraine_ellison.jpg
 biography_enhanced_at: '2025-10-24T07:52:50.285333'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- soulmusic.com/lorraine-ellison-classic-soul-1974-interview
-- soulwalking.co.uk/Lorraine%20Ellison.html
-- fromthevaults-boppinbob.blogspot.com/2017/03/lorraine-ellison-born-17-march-1931.html
-- jointzoftheday.substack.com/p/lorraine-ellison-march-17-1931-january-31-1983
-- iheart.com/artist/lorraine-ellison-89198
-- theaudiodb.com/artist/154403-Lorraine-Ellison
+  - soulmusic.com/lorraine-ellison-classic-soul-1974-interview
+  - soulwalking.co.uk/Lorraine%20Ellison.html
+  - >-
+    fromthevaults-boppinbob.blogspot.com/2017/03/lorraine-ellison-born-17-march-1931.html
+  - jointzoftheday.substack.com/p/lorraine-ellison-march-17-1931-january-31-1983
+  - iheart.com/artist/lorraine-ellison-89198
+  - theaudiodb.com/artist/154403-Lorraine-Ellison
 network_extracted: true
 entry_created: '2025-10-24T07:52:50.285347'
 last_updated: '2025-12-23T08:16:12.126652'
 gender: Female
 musicbrainz_id: cc781935-afd3-4f35-908d-d9513d37b67a
 tags:
-- soul
+  - soul
+is_active: false
 ---
 
 ![](lorraine_ellison.jpg)

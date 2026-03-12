@@ -5,10 +5,10 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1980'
-birth_place: Fort Lauderdale
+birth_place: 'Fort Lauderdale, Florida, United States'
 genres:
-- latin alternative
-- latin indie
+  - latin alternative
+  - latin indie
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Helado_Negro.jpg
   caption: Helado Negro
@@ -30,48 +30,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sufjan Stevens
-  - Julianna Barwick
-  - Mikael Jorgensen (Wilco)
-  - Guillermo Scott Herren (Prefuse 73)
-  - Kristi Sword
+    - Sufjan Stevens
+    - Julianna Barwick
+    - Mikael Jorgensen (Wilco)
+    - Guillermo Scott Herren (Prefuse 73)
+    - Kristi Sword
   influenced:
-  - Xenia Rubinos
+    - Xenia Rubinos
   mentors:
-  - Latin American ballad singers
+    - Latin American ballad singers
 spotify_data:
   followers: 151794
   id: 69qhRLDvsWJOhWGXXQ0lQQ
   popularity: 44
-  url: https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ
+  url: 'https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ'
 discography_enriched: true
 top_tracks:
-- Running (This Is How You Smile)
-- Lejos de Más
-- Love Song - Helado Negro Remix
-- Pais Nublado (This Is How You Smile)
-- If You Don't Believe In Love (feat. Helado Negro) (I Got Too Sad For My Friends)
-- Please Won’t Please (This Is How You Smile)
-- Lejos De Más
-- Best For You and Me (PHASOR)
-- Lotta Love
-- Colores Del Mar (PHASOR)
+  - Running (This Is How You Smile)
+  - Lejos de Más
+  - Love Song - Helado Negro Remix
+  - Pais Nublado (This Is How You Smile)
+  - >-
+    If You Don't Believe In Love (feat. Helado Negro) (I Got Too Sad For My
+    Friends)
+  - Please Won’t Please (This Is How You Smile)
+  - Lejos De Más
+  - Best For You and Me (PHASOR)
+  - Lotta Love
+  - Colores Del Mar (PHASOR)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/aa0a54b3-d37e-4c1d-a53f-b3b94a3dfcad
-  spotify: https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ
-  wikipedia: https://en.wikipedia.org/wiki/Helado_Negro
+  musicbrainz: 'https://musicbrainz.org/artist/aa0a54b3-d37e-4c1d-a53f-b3b94a3dfcad'
+  spotify: 'https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Helado_Negro'
 image_path: 03_Resources/source_material/ArtistPortraits/Helado_Negro.jpg
 biography_enhanced_at: '2025-10-22T06:38:53.551397'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.latinousa.org/2022/06/03/heladonegro/
-- https://www.unitedstatesartists.org/artists/helado-negro
-- https://pitchandsmith.com/roster/helado-negro/
-- https://thecreativeindependent.com/people/helado-negro
-- https://igetrvng.com/artists/helado-negro/
-- https://heladonegro.bandcamp.com
-- https://readrange.com/helado-negro-interview/
+  - 'https://www.latinousa.org/2022/06/03/heladonegro/'
+  - 'https://www.unitedstatesartists.org/artists/helado-negro'
+  - 'https://pitchandsmith.com/roster/helado-negro/'
+  - 'https://thecreativeindependent.com/people/helado-negro'
+  - 'https://igetrvng.com/artists/helado-negro/'
+  - 'https://heladonegro.bandcamp.com'
+  - 'https://readrange.com/helado-negro-interview/'
 network_extracted: true
 entry_created: '2025-10-22T06:38:53.551407'
 last_updated: '2025-12-23T08:16:02.217952'
@@ -79,9 +81,9 @@ disambiguation: American musician
 gender: Male
 musicbrainz_id: aa0a54b3-d37e-4c1d-a53f-b3b94a3dfcad
 tags:
-- indie rock
-- indietronica
-- post-rock
+  - indie rock
+  - indietronica
+  - post-rock
 ---
 
 ![](Helado_Negro.jpg)

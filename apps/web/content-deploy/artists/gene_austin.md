@@ -5,27 +5,27 @@ schema_version: 2
 status: deceased
 birth_name: Lemeul Eugene Lucas
 also_known_as:
-- Gene Austin
+  - Gene Austin
 aliases:
-- Gene Austin
+  - Gene Austin
 birth_date: '1900-06-24'
-birth_place: Gainesville
+birth_place: 'Gainesville, Texas, United States'
 death_date: '1972-01-24'
 years_active: 1924–1952
 genres:
-- ragtime
+  - ragtime
 instruments:
-- piano
-- voice
+  - piano
+  - voice
 occupation:
-- actor
-- musician
-- singer-songwriter
-- singer
-- recording artist
+  - actor
+  - musician
+  - singer-songwriter
+  - singer
+  - recording artist
 record_labels:
-- RCA Records
-- 4 Star Records
+  - RCA Records
+  - 4 Star Records
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Gene_Austin.jpg
   caption: Gene Austin
@@ -35,7 +35,7 @@ infobox:
   origin: Gainesville
   died: '1972-01-24'
 audio_profile:
-  tempo_avg: 119.0
+  tempo_avg: 119
   energy_avg: 0.196
   valence_avg: 0.535
   danceability_avg: 0.52
@@ -52,31 +52,38 @@ spotify_data:
   followers: 10367
   id: 5iFJaXNEwdmI1PADAcM58d
   popularity: 33
-  url: https://open.spotify.com/artist/5iFJaXNEwdmI1PADAcM58d
+  url: 'https://open.spotify.com/artist/5iFJaXNEwdmI1PADAcM58d'
   verified: false
 discography_enriched: true
 albums_count: 11
 singles_count: 4
 top_tracks:
-- My Blue Heaven (Restless Heart)
-- My Blue Heaven (My Blue Heaven (Original Recordings 1927 - 1934))
-- Bye Bye Blackbird (Restless Heart)
-- Everything's Made for Love (Restless Heart)
-- Girl of My Dreams (Recorded April 1928) (Popular 1920's Jazz Vocals (Encore 2) [Recorded 1925-1928])
-- Everything's Made For Love (Voice Of The Southland)
-- Charleston
-- The Lonesome Road (Recorded 1927) (Gene Austin Popular 1920's Jazz Vocals (Recorded 1925-1930))
-- Ain't She Sweet (Restless Heart)
-- Girl of My Dreams (Restless Heart)
+  - My Blue Heaven (Restless Heart)
+  - My Blue Heaven (My Blue Heaven (Original Recordings 1927 - 1934))
+  - Bye Bye Blackbird (Restless Heart)
+  - Everything's Made for Love (Restless Heart)
+  - >-
+    Girl of My Dreams (Recorded April 1928) (Popular 1920's Jazz Vocals (Encore
+    2) [Recorded 1925-1928])
+  - Everything's Made For Love (Voice Of The Southland)
+  - Charleston
+  - >-
+    The Lonesome Road (Recorded 1927) (Gene Austin Popular 1920's Jazz Vocals
+    (Recorded 1925-1930))
+  - Ain't She Sweet (Restless Heart)
+  - Girl of My Dreams (Restless Heart)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/5iFJaXNEwdmI1PADAcM58d
-  wikipedia: https://en.wikipedia.org/wiki/Gene_Austin
+  spotify: 'https://open.spotify.com/artist/5iFJaXNEwdmI1PADAcM58d'
+  wikipedia: 'https://en.wikipedia.org/wiki/Gene_Austin'
 image_path: 03_Resources/source_material/ArtistPortraits/Gene_Austin.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-18T16:19:08.459249'
-entry_created: 2025-09-18 11:49:01.930752
+entry_created: 2025-09-18T11:49:01.930Z
 last_updated: '2025-12-23T08:16:09.032241'
+is_active: false
+artist_type: person
+origin: 'Minden, Louisiana, United States'
 ---
 
 ![](Gene_Austin.jpg)

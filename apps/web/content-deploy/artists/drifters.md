@@ -1,11 +1,11 @@
 ---
-title: drifters
+title: The Drifters
 wiki_slug: drifters
 schema_version: 2
 status: active
 genres:
-- doo-wop
-- motown
+  - doo-wop
+  - motown
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/drifters.jpg
   caption: drifters
@@ -16,7 +16,7 @@ audio_profile:
   valence_avg: 0.781
   danceability_avg: 0.572
   acousticness_avg: 0.553
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -9.1
   speechiness_avg: 0.037
   liveness_avg: 0.22
@@ -25,53 +25,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Clyde McPhatter
-  - Ben E. King
-  - Rudy Lewis
-  - Johnny Moore
-  - George Treadwell
+    - Clyde McPhatter
+    - Ben E. King
+    - Rudy Lewis
+    - Johnny Moore
+    - George Treadwell
   influenced:
-  - Soul and R&B artists
+    - Soul and R&B artists
   mentors:
-  - Ahmet Ertegun
-  - Jerry Leiber and Mike Stoller
+    - Ahmet Ertegun
+    - Jerry Leiber and Mike Stoller
 spotify_data:
   followers: 622448
   id: 1FqqOl9itIUpXr4jZPIVoT
   popularity: 59
-  url: https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT
+  url: 'https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT'
 discography_enriched: true
 top_tracks:
-- Under the Boardwalk (Under the Boardwalk)
-- Save the Last Dance for Me (Save the Last Dance for Me)
-- Up on the Roof (Under the Boardwalk)
-- Saturday Night at the Movies (The Good Life With the Drifters)
-- This Magic Moment
-- White Christmas
-- Some Kind of Wonderful (Save the Last Dance for Me)
-- On Broadway (Under the Boardwalk)
-- This Magic Moment
-- This Magic Moment
+  - Under the Boardwalk (Under the Boardwalk)
+  - Save the Last Dance for Me (Save the Last Dance for Me)
+  - Up on the Roof (Under the Boardwalk)
+  - Saturday Night at the Movies (The Good Life With the Drifters)
+  - This Magic Moment
+  - White Christmas
+  - Some Kind of Wonderful (Save the Last Dance for Me)
+  - On Broadway (Under the Boardwalk)
+  - This Magic Moment
+  - This Magic Moment
 external_urls:
-  spotify: https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT
+  spotify: 'https://open.spotify.com/artist/1FqqOl9itIUpXr4jZPIVoT'
   wikipedia: Not provided in search results
 image_path: 03_Resources/source_material/ArtistPortraits/drifters.jpg
 biography_enhanced_at: '2025-11-20T07:26:00.112754'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- top40weekly.com - The Drifters Biography
-- britannica.com - The Drifters
-- vocalgroup.org - The Drifters Vocal Group Hall of Fame
-- history-of-rock.com - The Drifters
-- 'wers.org - The Vault of Soul: The Drifters'
-- thedrifters.co.uk - About The Drifters
-- rockhall.com - The Drifters Rock & Roll Hall of Fame
-- blackpast.org - The Drifters (1953-)
+  - top40weekly.com - The Drifters Biography
+  - britannica.com - The Drifters
+  - vocalgroup.org - The Drifters Vocal Group Hall of Fame
+  - history-of-rock.com - The Drifters
+  - 'wers.org - The Vault of Soul: The Drifters'
+  - thedrifters.co.uk - About The Drifters
+  - rockhall.com - The Drifters Rock & Roll Hall of Fame
+  - blackpast.org - The Drifters (1953-)
 network_extracted: true
 entry_created: '2025-11-20T07:26:00.112768'
 last_updated: '2025-12-23T08:16:08.034862'
-origin: New York, New York, United States
+origin: 'New York, New York, United States'
+artist_type: band
 ---
 
 ![](drifters.jpg)

@@ -2,25 +2,25 @@
 title: Keith Sweat
 wiki_slug: keith-sweat
 schema_version: 2
-artist_type: person
+artist_type: band
 status: active
 birth_date: '1961-07-22'
-birth_place: Harlem
+birth_place: 'Harlem, New York, United States'
 genres:
-- new jack swing
-- quiet storm
-- r&b
+  - new jack swing
+  - quiet storm
+  - r&b
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bf88f954-bc38-429f-a049-74ffa7c27b52
-  name: LSG
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 95ae22a9-66dd-4c85-8130-8a8924415615
-  name: Black Men United
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bf88f954-bc38-429f-a049-74ffa7c27b52
+    name: LSG
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 95ae22a9-66dd-4c85-8130-8a8924415615
+    name: Black Men United
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/keith_sweat.jpg
   caption: Keith Sweat
@@ -42,56 +42,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Teddy Riley
-  - Silk
-  - LSG (Gerald Levert, Johnny Gill)
-  - Kut Klose
+    - Teddy Riley
+    - Silk
+    - 'LSG (Gerald Levert, Johnny Gill)'
+    - Kut Klose
   influenced:
-  - Usher
-  - Jagged Edge
-  - Trey Songz
+    - Usher
+    - Jagged Edge
+    - Trey Songz
   mentors:
-  - Classic R&B and Soul Artists
+    - Classic R&B and Soul Artists
 spotify_data:
   followers: 2285717
   id: 2r09Inibex3C4ZNTUVSG3m
   popularity: 60
-  url: https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m
+  url: 'https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m'
 discography_enriched: true
 top_tracks:
-- Twisted (Keith Sweat)
-- Nobody (feat. Athena Cage) (Keith Sweat)
-- Make It Last Forever (with Jacci McGhee) (Make It Last Forever)
-- Right and a Wrong Way (Make It Last Forever)
-- How Deep Is Your Love (Make It Last Forever)
-- Get up on It (feat. Kut Klose) (Get up on It)
-- I'll Give All My Love to You
-- I Want Her
-- (There You Go) Tellin' Me No Again (Keep It Comin')
-- I'll Give All My Love to You - Single Version; Remastered (How Deep Is Your Love)
+  - Twisted (Keith Sweat)
+  - Nobody (feat. Athena Cage) (Keith Sweat)
+  - Make It Last Forever (with Jacci McGhee) (Make It Last Forever)
+  - Right and a Wrong Way (Make It Last Forever)
+  - How Deep Is Your Love (Make It Last Forever)
+  - Get up on It (feat. Kut Klose) (Get up on It)
+  - I'll Give All My Love to You
+  - I Want Her
+  - (There You Go) Tellin' Me No Again (Keep It Comin')
+  - >-
+    I'll Give All My Love to You - Single Version; Remastered (How Deep Is Your
+    Love)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/33ecb3d1-9ece-4462-b231-ce6e7a82dd50
-  spotify: https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m
-  wikipedia: https://en.wikipedia.org/wiki/Keith_Sweat
+  musicbrainz: 'https://musicbrainz.org/artist/33ecb3d1-9ece-4462-b231-ce6e7a82dd50'
+  spotify: 'https://open.spotify.com/artist/2r09Inibex3C4ZNTUVSG3m'
+  wikipedia: 'https://en.wikipedia.org/wiki/Keith_Sweat'
 image_path: 03_Resources/source_material/ArtistPortraits/keith_sweat.jpg
 biography_enhanced_at: '2025-11-05T12:42:11.410265'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://pyramid-ent.com/artist/keith-sweat/
-- https://musicianguide.com/biographies/1608000867/Keith-Sweat.html
-- https://www.imdb.com/name/nm0842038/bio/
-- https://www.allamericanspeakers.com/celebritytalentbios/Keith+Sweat/389754
-- https://blackpast.org/african-american-history/keith-sweat-1961/
+  - 'https://pyramid-ent.com/artist/keith-sweat/'
+  - 'https://musicianguide.com/biographies/1608000867/Keith-Sweat.html'
+  - 'https://www.imdb.com/name/nm0842038/bio/'
+  - 'https://www.allamericanspeakers.com/celebritytalentbios/Keith+Sweat/389754'
+  - 'https://blackpast.org/african-american-history/keith-sweat-1961/'
 network_extracted: true
 entry_created: '2025-11-05T12:42:11.410296'
 last_updated: '2025-12-23T08:16:11.254601'
 gender: Male
 musicbrainz_id: 33ecb3d1-9ece-4462-b231-ce6e7a82dd50
 tags:
-- american
-- contemporary r&b
-- new jack swing
+  - american
+  - contemporary r&b
+  - new jack swing
 ---
 
 ![](keith_sweat.jpg)

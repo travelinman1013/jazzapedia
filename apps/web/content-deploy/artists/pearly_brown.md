@@ -1,15 +1,15 @@
 ---
-title: pearly brown
+title: Reverend Pearly Brown
 wiki_slug: pearly-brown
 schema_version: 2
 status: active
-birth_place: Abbeville, Georgia, United States
+birth_place: 'Abbeville, Georgia, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/pearly_brown.jpg
   caption: pearly brown
   background: solo_singer
-  origin: Abbeville, Georgia, United States
+  origin: 'Abbeville, Georgia, United States'
 audio_profile:
   tempo_avg: 134.6
   energy_avg: 0.649
@@ -25,46 +25,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Christine Brown
+    - Christine Brown
   influenced:
-  - Duane Allman
-  - Dickey Betts
+    - Duane Allman
+    - Dickey Betts
   mentors:
-  - Blind Lemon Jefferson
-  - Blind Willie Johnson
+    - Blind Lemon Jefferson
+    - Blind Willie Johnson
 spotify_data:
   followers: 74176
   id: 2eMb96S1ZJ1YQ7FhWAzWJL
   popularity: 46
-  url: https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL
+  url: 'https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL'
 discography_enriched: true
 top_tracks:
-- Call For Help (Call For Help)
-- Bloom For Me (Call For Help)
-- Ratgirl (Ratgirl)
-- Get In Girls (This Infinite)
-- Mermaid (Mermaid)
-- Feed The Fire (A Little Disaster)
-- Take Me Down (A Little Disaster)
-- Make Water (Call For Help)
-- Smokescreen (Call For Help)
-- Forester (Call For Help)
+  - Call For Help (Call For Help)
+  - Bloom For Me (Call For Help)
+  - Ratgirl (Ratgirl)
+  - Get In Girls (This Infinite)
+  - Mermaid (Mermaid)
+  - Feed The Fire (A Little Disaster)
+  - Take Me Down (A Little Disaster)
+  - Make Water (Call For Help)
+  - Smokescreen (Call For Help)
+  - Forester (Call For Help)
 external_urls:
-  spotify: https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL
+  spotify: 'https://open.spotify.com/artist/2eMb96S1ZJ1YQ7FhWAzWJL'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/pearly_brown.jpg
 biography_enhanced_at: '2025-11-04T11:08:45.673729'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.bmansbluesreport.com/2012/05/medley-rev-pearly-brown.html
-- https://blinddogradio.blogspot.com/2016/02/reverend-pearly-brown.html
-- http://www.beansouthcoffee.com/curated-3/southernculture3
-- https://jamescalemine.com/reverend-pearly-brown-youre-gonna-need-that-pure-religion/
-- https://storymaps.arcgis.com/stories/b0dabd5ce0db43a0bff5debbcba9fa36
+  - 'https://www.bmansbluesreport.com/2012/05/medley-rev-pearly-brown.html'
+  - 'https://blinddogradio.blogspot.com/2016/02/reverend-pearly-brown.html'
+  - 'http://www.beansouthcoffee.com/curated-3/southernculture3'
+  - >-
+    https://jamescalemine.com/reverend-pearly-brown-youre-gonna-need-that-pure-religion/
+  - 'https://storymaps.arcgis.com/stories/b0dabd5ce0db43a0bff5debbcba9fa36'
 network_extracted: true
 entry_created: '2025-11-04T11:08:45.673917'
 last_updated: '2025-12-23T08:16:14.138980'
+artist_type: person
 ---
 
 ![](pearly_brown.jpg)

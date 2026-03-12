@@ -3,14 +3,14 @@ title: Kenny Barron/ John Hicks
 wiki_slug: kenny-barron-john-hicks
 schema_version: 2
 status: active
-birth_place: Philadelphia, Pennsylvania, USA
+birth_place: 'Philadelphia, Pennsylvania, USA'
 genres:
-- jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Kenny_Barron_John_Hicks.jpg
   caption: Kenny Barron/ John Hicks
   background: solo_singer
-  origin: Philadelphia, Pennsylvania, USA
+  origin: 'Philadelphia, Pennsylvania, USA'
 audio_profile:
   tempo_avg: 104.2
   energy_avg: 0.067
@@ -26,50 +26,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dizzy Gillespie
-  - James Moody
-  - Freddie Hubbard, Stanley Turrentine, Milt Jackson, Buddy Rich
-  - Sphere
+    - Dizzy Gillespie
+    - James Moody
+    - 'Freddie Hubbard, Stanley Turrentine, Milt Jackson, Buddy Rich'
+    - Sphere
   influenced:
-  - David Sanchez
-  - Terence Blanchard
-  - Regina Bell
+    - David Sanchez
+    - Terence Blanchard
+    - Regina Bell
   mentors:
-  - Bill Barron
-  - Yusef Lateef
+    - Bill Barron
+    - Yusef Lateef
 spotify_data:
   followers: 2841
   id: 7A2HZ5tabKcJjQFo959VgP
   popularity: 22
-  url: https://open.spotify.com/artist/7A2HZ5tabKcJjQFo959VgP
+  url: 'https://open.spotify.com/artist/7A2HZ5tabKcJjQFo959VgP'
 discography_enriched: true
 top_tracks:
-- Rain (The Art Of Conversation)
-- Rain (The Art Of Conversation)
-- The Oracle (The Art Of Conversation)
-- The Oracle (The Art Of Conversation)
-- Segment (The Art Of Conversation)
-- In Walked Bud (The Art Of Conversation)
-- Seascape (The Art Of Conversation)
-- The Only One (The Art Of Conversation)
-- Rain (The Art Of Conversation)
-- Waltz For Wheeler (Dedicated To Kenny Wheeler) (The Art Of Conversation)
+  - Rain (The Art Of Conversation)
+  - Rain (The Art Of Conversation)
+  - The Oracle (The Art Of Conversation)
+  - The Oracle (The Art Of Conversation)
+  - Segment (The Art Of Conversation)
+  - In Walked Bud (The Art Of Conversation)
+  - Seascape (The Art Of Conversation)
+  - The Only One (The Art Of Conversation)
+  - Rain (The Art Of Conversation)
+  - Waltz For Wheeler (Dedicated To Kenny Wheeler) (The Art Of Conversation)
 external_urls:
-  spotify: https://open.spotify.com/artist/7A2HZ5tabKcJjQFo959VgP
-  wikipedia: https://en.wikipedia.org/wiki/Kenny_Barron
+  spotify: 'https://open.spotify.com/artist/7A2HZ5tabKcJjQFo959VgP'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kenny_Barron'
 image_path: 03_Resources/source_material/ArtistPortraits/Kenny_Barron_John_Hicks.jpg
 biography_enhanced_at: '2025-10-19T11:27:01.412731'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Kenny_Barron
-- https://kennybarron.com/biography/
-- https://www.laphil.com/musicdb/artists/6023/kenny-barron
-- https://www.allaboutjazz.com/musicians/kenny-barron/
-- https://thejazzvnu.com/kenny-barron-classic-jazz/
+  - 'https://en.wikipedia.org/wiki/Kenny_Barron'
+  - 'https://kennybarron.com/biography/'
+  - 'https://www.laphil.com/musicdb/artists/6023/kenny-barron'
+  - 'https://www.allaboutjazz.com/musicians/kenny-barron/'
+  - 'https://thejazzvnu.com/kenny-barron-classic-jazz/'
 network_extracted: true
 entry_created: '2025-10-19T11:27:01.412753'
 last_updated: '2025-12-23T08:16:02.829734'
+artist_type: band
 ---
 
 ![](Kenny_Barron_John_Hicks.jpg)

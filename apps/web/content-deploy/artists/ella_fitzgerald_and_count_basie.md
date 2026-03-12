@@ -4,47 +4,52 @@ biography_enhanced_at: '2026-01-12T02:04:12.313806'
 enhancement_provider: perplexity
 entry_created: '2026-01-12T02:04:12.313812'
 external_urls:
-  spotify: https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA
-  wikipedia: https://en.wikipedia.org/wiki/Ella_and_Basie!
+  spotify: 'https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ella_and_Basie!'
 genres:
-- big band
-- swing music
-- jazz
-- vocal jazz
-image_path: 03_Resources/source_material/ArtistPortraits/ella_fitzgerald_and_count_basie.jpg
+  - big band
+  - swing music
+  - jazz
+  - vocal jazz
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/ella_fitzgerald_and_count_basie.jpg
 is_active: true
 last_updated: '2026-01-12T02:04:12.313813'
 musical_connections:
   collaborators:
-  - Count Basie
-  - Quincy Jones
-  - The Count Basie Orchestra
-  - Louis Armstrong
+    - Count Basie
+    - Quincy Jones
+    - The Count Basie Orchestra
+    - Louis Armstrong
   influenced:
-  - Later jazz and big band vocalists (e.g., those citing Ella as a model)
-  - Big band leaders and arrangers
+    - 'Later jazz and big band vocalists (e.g., those citing Ella as a model)'
+    - Big band leaders and arrangers
   mentors:
-  - Chick Webb
-  - Dizzy Gillespie
-  - Norman Granz
+    - Chick Webb
+    - Dizzy Gillespie
+    - Norman Granz
 network_extracted: true
-origin: Newport News, Virginia, United States (Ella Fitzgerald’s birthplace; Count
-  Basie was born in Red Bank, New Jersey, United States, but their joint work is associated
-  broadly with the U.S. jazz and big band scene)
+origin: >-
+  Newport News, Virginia, United States (Ella Fitzgerald’s birthplace; Count
+  Basie was born in Red Bank, New Jersey, United States, but their joint work is
+  associated broadly with the U.S. jazz and big band scene)
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Ella_and_Basie!
-- https://sites.pitt.edu/~atteberr/jazz/articles/ella.html
-- https://www.allaboutjazz.com/ella-fitzgerald-ella-fitzgerald-by-mathew-bahl
-- https://www.womenshistory.org/education-resources/biographies/ella-fitzgerald
-- https://www.smithsonianmag.com/smithsonian-institution/never-mind-her-stellar-jazz-career-young-ella-fitzgerald-just-wanted-dance-180962663/
+  - 'https://en.wikipedia.org/wiki/Ella_and_Basie!'
+  - 'https://sites.pitt.edu/~atteberr/jazz/articles/ella.html'
+  - 'https://www.allaboutjazz.com/ella-fitzgerald-ella-fitzgerald-by-mathew-bahl'
+  - >-
+    https://www.womenshistory.org/education-resources/biographies/ella-fitzgerald
+  - >-
+    https://www.smithsonianmag.com/smithsonian-institution/never-mind-her-stellar-jazz-career-young-ella-fitzgerald-just-wanted-dance-180962663/
 spotify_data:
   followers: 413712
   id: 2jFZlvIea42ZvcCw4OeEdA
   popularity: 63
-  url: https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA
+  url: 'https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA'
 status: active
-title: ELLA FITZGERALD AND COUNT BASIE
+title: Ella Fitzgerald and Count Basie
+birth_place: 'Newport News, Virginia, United States'
 ---
 
 ![](ella_fitzgerald_and_count_basie.jpg)

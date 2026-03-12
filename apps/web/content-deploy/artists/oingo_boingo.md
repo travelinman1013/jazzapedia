@@ -2,34 +2,34 @@
 title: Oingo Boingo
 wiki_slug: oingo-boingo
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1972'
 genres:
-- new wave
+  - new wave
 instruments:
-- lead vocals
-- original
-- percussion
-- bass guitar
-- alto saxophone
-- background vocals
-- baritone saxophone
-- guitar
-- trombone
-- trumpet
-- clarinet
-- flute
-- sopranino saxophone
-- tenor saxophone
-- sitar
-- violin
-- accordion
-- drums (drum set)
-- bass synthesizer
-- keyboard
-- synthesizer
-- sampler
+  - lead vocals
+  - original
+  - percussion
+  - bass guitar
+  - alto saxophone
+  - background vocals
+  - baritone saxophone
+  - guitar
+  - trombone
+  - trumpet
+  - clarinet
+  - flute
+  - sopranino saxophone
+  - tenor saxophone
+  - sitar
+  - violin
+  - accordion
+  - drums (drum set)
+  - bass synthesizer
+  - keyboard
+  - synthesizer
+  - sampler
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/oingo_boingo.jpg
   caption: Oingo Boingo
@@ -50,253 +50,253 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Danny Elfman
-  - Steve Bartek
-  - Johnny 'Vatos' Hernandez
-  - Kerry Hatch
-  - John Avila
-  - Sam 'Sluggo' Phipps
-  - Leon Schneiderman
-  - Dale Turner
-  - Richard Elfman
+    - Danny Elfman
+    - Steve Bartek
+    - Johnny 'Vatos' Hernandez
+    - Kerry Hatch
+    - John Avila
+    - Sam 'Sluggo' Phipps
+    - Leon Schneiderman
+    - Dale Turner
+    - Richard Elfman
   influenced:
-  - Danny Elfman
-  - No Doubt
-  - Reel Big Fish
-  - The Aquabats
+    - Danny Elfman
+    - No Doubt
+    - Reel Big Fish
+    - The Aquabats
   mentors:
-  - Frank Zappa
-  - Cab Calloway
+    - Frank Zappa
+    - Cab Calloway
 spotify_data:
   followers: 525328
   id: 5LXEAEGrpKQtpyCu2sZuWu
   popularity: 56
-  url: https://open.spotify.com/artist/5LXEAEGrpKQtpyCu2sZuWu
+  url: 'https://open.spotify.com/artist/5LXEAEGrpKQtpyCu2sZuWu'
 discography_enriched: true
 top_tracks:
-- Elevator Man (Boi-Ngo)
-- Dead Man's Party (Dead Man's Party)
-- Stay (Dead Man's Party)
-- Weird Science (Dead Man's Party)
-- Little Girls (Only A Lad)
-- Just Another Day (Dead Man's Party)
-- No One Lives Forever (Dead Man's Party)
-- Whole Day Off (Nothing To Fear)
-- Only A Lad (Only A Lad)
-- Running On A Treadmill (Nothing To Fear)
+  - Elevator Man (Boi-Ngo)
+  - Dead Man's Party (Dead Man's Party)
+  - Stay (Dead Man's Party)
+  - Weird Science (Dead Man's Party)
+  - Little Girls (Only A Lad)
+  - Just Another Day (Dead Man's Party)
+  - No One Lives Forever (Dead Man's Party)
+  - Whole Day Off (Nothing To Fear)
+  - Only A Lad (Only A Lad)
+  - Running On A Treadmill (Nothing To Fear)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/166bc1cb-a2b7-412d-bcd5-5f439d2cf5f1
-  spotify: https://open.spotify.com/artist/5LXEAEGrpKQtpyCu2sZuWu
-  wikipedia: https://simple.wikipedia.org/wiki/Oingo_Boingo
+  musicbrainz: 'https://musicbrainz.org/artist/166bc1cb-a2b7-412d-bcd5-5f439d2cf5f1'
+  spotify: 'https://open.spotify.com/artist/5LXEAEGrpKQtpyCu2sZuWu'
+  wikipedia: 'https://simple.wikipedia.org/wiki/Oingo_Boingo'
 image_path: 03_Resources/source_material/ArtistPortraits/oingo_boingo.jpg
 biography_enhanced_at: '2025-10-26T12:33:30.746884'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://nostalgiacentral.com/music/artists-l-to-z/artists-o/oingo-boingo/
-- https://americansongwriter.com/behind-the-band-name-oingo-boingo/
-- https://deadmansparty.com/about-oingo-boingo
+  - 'https://nostalgiacentral.com/music/artists-l-to-z/artists-o/oingo-boingo/'
+  - 'https://americansongwriter.com/behind-the-band-name-oingo-boingo/'
+  - 'https://deadmansparty.com/about-oingo-boingo'
 network_extracted: true
 entry_created: '2025-10-26T12:33:30.746894'
 last_updated: '2025-12-23T08:16:13.706602'
 members:
-- begin: '1972'
-  end: '1979'
-  instruments:
-  - lead vocals
-  - original
-  mbid: b024b367-8b1f-48fd-949b-8ac7cb1f736b
-  name: Marie-Pascale Elfman
-- begin: '1972'
-  end: '1979'
-  instruments:
-  - original
-  - percussion
-  mbid: 869c07fb-8d9d-475d-a87f-288c8df55cf0
-  name: Richard Elfman
-- begin: '1972'
-  end: '1980'
-  instruments:
-  - bass guitar
-  - original
-  mbid: 5484b0e1-c4e6-4b87-bd95-bf64c0dac084
-  name: Matthew Bright
-- begin: '1972'
-  end: '1995-10-31'
-  instruments:
-  - alto saxophone
-  - background vocals
-  - baritone saxophone
-  - original
-  - percussion
-  mbid: 1f2ac2b4-04cf-489d-a9d5-b328a871db68
-  name: Leon Schneiderman
-- begin: '1972'
-  end: '1995-10-31'
-  instruments:
-  - background vocals
-  - guitar
-  - original
-  - percussion
-  - trombone
-  - trumpet
-  mbid: 8472fcc1-c00a-41ff-8886-02e400bf6b02
-  name: Dale Turner
-- begin: '1973'
-  end: '1995-10-31'
-  instruments:
-  - background vocals
-  - clarinet
-  - flute
-  - percussion
-  - sopranino saxophone
-  - tenor saxophone
-  mbid: 31b9965c-5a52-4f33-9c44-2370dd4a1f4a
-  name: Sam "Sluggo" Phipps
-- begin: '1974'
-  end: '1995-10-31'
-  instruments:
-  - guitar
-  - lead vocals
-  - percussion
-  - sitar
-  - trombone
-  - violin
-  mbid: 5b24fbab-c58f-4c37-a59d-ab232e2d98c4
-  name: Danny Elfman
-- begin: '1976'
-  end: '1995-10-31'
-  instruments:
-  - accordion
-  - background vocals
-  - guitar
-  - percussion
-  mbid: 4191fc23-bc5c-40f3-a21b-0a16dd176abe
-  name: Steve Bartek
-- begin: '1978'
-  end: '1995-10-31'
-  instruments:
-  - drums (drum set)
-  - percussion
-  mbid: dce3b5ba-7808-4c8a-82dd-8e7bbaccacbf
-  name: Johnny "Vatos" Hernandez
-- begin: '1979'
-  end: '1984'
-  instruments:
-  - background vocals
-  - bass guitar
-  - bass synthesizer
-  - percussion
-  mbid: dcbf10ac-cf47-4102-aa23-ecbce32aa8ae
-  name: Kerry Hatch
-- begin: '1980'
-  end: '1984'
-  instruments:
-  - background vocals
-  - keyboard
-  - percussion
-  - synthesizer
-  - trombone
-  mbid: 10581d36-e9e6-4340-82dd-20cd17fa5b01
-  name: Richard Gibbs
-- begin: '1984'
-  end: '1987'
-  instruments:
-  - background vocals
-  - keyboard
-  mbid: c6e3ed83-1f4b-4aee-a176-6e037a416c76
-  name: Mike Bacich
-- begin: '1984'
-  end: '1995-10-31'
-  instruments:
-  - accordion
-  - background vocals
-  - bass guitar
-  - bass synthesizer
-  - percussion
-  mbid: 568c8e41-b99f-415b-b38b-67679628b0fd
-  name: John Avila
-- begin: '1988'
-  end: '1991'
-  instruments:
-  - background vocals
-  - keyboard
-  - synthesizer
-  mbid: e9afd4ba-c9c4-4e1d-987e-bd6567e1e0dc
-  name: Carl Graves
-- begin: '1994'
-  end: '1995'
-  instruments:
-  - guitar
-  mbid: b670e301-71c7-44e7-bae3-ab0edd4b6efc
-  name: Warren Fitzgerald
-- begin: '1994'
-  end: '1995'
-  instruments:
-  - accordion
-  - percussion
-  - trombone
-  mbid: 972be543-8332-486b-a50d-ddad85276f52
-  name: Doug Lacy
-- begin: '1994'
-  end: '1995'
-  instruments:
-  - keyboard
-  - sampler
-  mbid: 37f8cddf-0a79-493d-88fa-ed2f27f88a28
-  name: Marc Mann
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ec3cc8ab-b594-4825-8a57-57b93c224342
-  name: Jeff Breeh
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: f2c96f9c-c17a-41fe-823c-3df405e9e530
-  name: Gene Cunningham
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3184bafb-3b46-493f-b31d-caff8320fdb5
-  name: Miriam Cutler
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bf74aa41-b9cd-4fdc-9ae8-d0433064f43d
-  name: Bill Folwell
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 43bae383-7d30-44b4-9eec-dacb6b95d6a4
-  name: Bob Frazier
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 81461b85-4e40-430c-a7c2-6923dbe238af
-  name: Brad Kay
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e6b55df0-91da-4421-a090-8274ab4cc6f0
-  name: Todd Manley
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 211621a4-db6b-4c41-9467-3d4e1f7bce9c
-  name: Charlie Unkeless
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 759c45e2-f827-4345-86df-ae36636ef772
-  name: William Winant
+  - begin: '1972'
+    end: '1979'
+    instruments:
+      - lead vocals
+      - original
+    mbid: b024b367-8b1f-48fd-949b-8ac7cb1f736b
+    name: Marie-Pascale Elfman
+  - begin: '1972'
+    end: '1979'
+    instruments:
+      - original
+      - percussion
+    mbid: 869c07fb-8d9d-475d-a87f-288c8df55cf0
+    name: Richard Elfman
+  - begin: '1972'
+    end: '1980'
+    instruments:
+      - bass guitar
+      - original
+    mbid: 5484b0e1-c4e6-4b87-bd95-bf64c0dac084
+    name: Matthew Bright
+  - begin: '1972'
+    end: '1995-10-31'
+    instruments:
+      - alto saxophone
+      - background vocals
+      - baritone saxophone
+      - original
+      - percussion
+    mbid: 1f2ac2b4-04cf-489d-a9d5-b328a871db68
+    name: Leon Schneiderman
+  - begin: '1972'
+    end: '1995-10-31'
+    instruments:
+      - background vocals
+      - guitar
+      - original
+      - percussion
+      - trombone
+      - trumpet
+    mbid: 8472fcc1-c00a-41ff-8886-02e400bf6b02
+    name: Dale Turner
+  - begin: '1973'
+    end: '1995-10-31'
+    instruments:
+      - background vocals
+      - clarinet
+      - flute
+      - percussion
+      - sopranino saxophone
+      - tenor saxophone
+    mbid: 31b9965c-5a52-4f33-9c44-2370dd4a1f4a
+    name: Sam "Sluggo" Phipps
+  - begin: '1974'
+    end: '1995-10-31'
+    instruments:
+      - guitar
+      - lead vocals
+      - percussion
+      - sitar
+      - trombone
+      - violin
+    mbid: 5b24fbab-c58f-4c37-a59d-ab232e2d98c4
+    name: Danny Elfman
+  - begin: '1976'
+    end: '1995-10-31'
+    instruments:
+      - accordion
+      - background vocals
+      - guitar
+      - percussion
+    mbid: 4191fc23-bc5c-40f3-a21b-0a16dd176abe
+    name: Steve Bartek
+  - begin: '1978'
+    end: '1995-10-31'
+    instruments:
+      - drums (drum set)
+      - percussion
+    mbid: dce3b5ba-7808-4c8a-82dd-8e7bbaccacbf
+    name: Johnny "Vatos" Hernandez
+  - begin: '1979'
+    end: '1984'
+    instruments:
+      - background vocals
+      - bass guitar
+      - bass synthesizer
+      - percussion
+    mbid: dcbf10ac-cf47-4102-aa23-ecbce32aa8ae
+    name: Kerry Hatch
+  - begin: '1980'
+    end: '1984'
+    instruments:
+      - background vocals
+      - keyboard
+      - percussion
+      - synthesizer
+      - trombone
+    mbid: 10581d36-e9e6-4340-82dd-20cd17fa5b01
+    name: Richard Gibbs
+  - begin: '1984'
+    end: '1987'
+    instruments:
+      - background vocals
+      - keyboard
+    mbid: c6e3ed83-1f4b-4aee-a176-6e037a416c76
+    name: Mike Bacich
+  - begin: '1984'
+    end: '1995-10-31'
+    instruments:
+      - accordion
+      - background vocals
+      - bass guitar
+      - bass synthesizer
+      - percussion
+    mbid: 568c8e41-b99f-415b-b38b-67679628b0fd
+    name: John Avila
+  - begin: '1988'
+    end: '1991'
+    instruments:
+      - background vocals
+      - keyboard
+      - synthesizer
+    mbid: e9afd4ba-c9c4-4e1d-987e-bd6567e1e0dc
+    name: Carl Graves
+  - begin: '1994'
+    end: '1995'
+    instruments:
+      - guitar
+    mbid: b670e301-71c7-44e7-bae3-ab0edd4b6efc
+    name: Warren Fitzgerald
+  - begin: '1994'
+    end: '1995'
+    instruments:
+      - accordion
+      - percussion
+      - trombone
+    mbid: 972be543-8332-486b-a50d-ddad85276f52
+    name: Doug Lacy
+  - begin: '1994'
+    end: '1995'
+    instruments:
+      - keyboard
+      - sampler
+    mbid: 37f8cddf-0a79-493d-88fa-ed2f27f88a28
+    name: Marc Mann
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ec3cc8ab-b594-4825-8a57-57b93c224342
+    name: Jeff Breeh
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: f2c96f9c-c17a-41fe-823c-3df405e9e530
+    name: Gene Cunningham
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3184bafb-3b46-493f-b31d-caff8320fdb5
+    name: Miriam Cutler
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bf74aa41-b9cd-4fdc-9ae8-d0433064f43d
+    name: Bill Folwell
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 43bae383-7d30-44b4-9eec-dacb6b95d6a4
+    name: Bob Frazier
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 81461b85-4e40-430c-a7c2-6923dbe238af
+    name: Brad Kay
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e6b55df0-91da-4421-a090-8274ab4cc6f0
+    name: Todd Manley
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 211621a4-db6b-4c41-9467-3d4e1f7bce9c
+    name: Charlie Unkeless
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 759c45e2-f827-4345-86df-ae36636ef772
+    name: William Winant
 musicbrainz_id: 166bc1cb-a2b7-412d-bcd5-5f439d2cf5f1
-origin: Los Angeles
+origin: 'Los Angeles, California, United States'
 tags:
-- 2 tone
-- 2008 universal fire victim
-- alternative rock
+  - 2 tone
+  - 2008 universal fire victim
+  - alternative rock
 ---
 
 ![](oingo_boingo.jpg)

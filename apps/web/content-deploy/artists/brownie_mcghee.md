@@ -5,42 +5,42 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1915-11-30'
-birth_place: Knoxville
+birth_place: 'Knoxville, Tennessee, United States'
 death_date: '1996-02-16'
 genres:
-- blues
-- country blues
-- classic blues
+  - blues
+  - country blues
+  - classic blues
 instruments:
-- eponymous
-- guitar
-- lead vocals
-- original
-- piano
-- acoustic guitar
-- electric guitar
-associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 368374c4-e8a1-4cd9-9526-aeb6d1b8b74e
-  name: Union Boys
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - guitar
   - lead vocals
   - original
-  mbid: 5ad7dfd8-b8db-47c3-b380-208aed55c3f3
-  name: Sonny Terry & Brownie McGhee
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 468ba9fb-8570-404a-acee-bcb6e40f1f91
-  name: Brownie McGhee & His Jook Block Busters
+  - piano
+  - acoustic guitar
+  - electric guitar
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 368374c4-e8a1-4cd9-9526-aeb6d1b8b74e
+    name: Union Boys
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - guitar
+      - lead vocals
+      - original
+    mbid: 5ad7dfd8-b8db-47c3-b380-208aed55c3f3
+    name: Sonny Terry & Brownie McGhee
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 468ba9fb-8570-404a-acee-bcb6e40f1f91
+    name: Brownie McGhee & His Jook Block Busters
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/brownie_mcghee.jpg
   caption: Brownie McGhee
@@ -63,59 +63,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sonny Terry
-  - Woody Guthrie
-  - Lead Belly (Huddie Ledbetter)
-  - Paul Robeson
-  - George “Bull City Red” Washington
-  - Robben Ford
+    - Sonny Terry
+    - Woody Guthrie
+    - Lead Belly (Huddie Ledbetter)
+    - Paul Robeson
+    - George “Bull City Red” Washington
+    - Robben Ford
   influenced:
-  - 1960s folk-revival blues guitarists (e.g., many unnamed students at his Harlem school)
-  - Subsequent Piedmont and acoustic blues performers
+    - >-
+      1960s folk-revival blues guitarists (e.g., many unnamed students at his
+      Harlem school)
+    - Subsequent Piedmont and acoustic blues performers
   mentors:
-  - Blind Boy Fuller
-  - George McGhee
-  - Buddy Moss
+    - Blind Boy Fuller
+    - George McGhee
+    - Buddy Moss
 spotify_data:
   followers: 20463
   id: 3qXzj7WzBV3kwy1yEV1RcC
   popularity: 31
-  url: https://open.spotify.com/artist/3qXzj7WzBV3kwy1yEV1RcC
+  url: 'https://open.spotify.com/artist/3qXzj7WzBV3kwy1yEV1RcC'
 discography_enriched: true
 top_tracks:
-- Bring It On Home To Me (Sonny & Brownie)
-- Diggin' My Potatoes (Wizard Of The Harmonica)
-- The Battle Is Over (But The War Goes On) (Sonny & Brownie)
-- Walkin My Blues Away (Sonny & Brownie)
-- People Get Ready (Sonny & Brownie)
-- Better Day (Guitar Highway)
-- You Bring Out The Boogie In Me (Sonny & Brownie)
-- White Boy Lost In The Blues (Sonny & Brownie)
-- Sail Away (Sonny & Brownie)
-- I'm Crazy 'Bout Your Pie (Wizard Of The Harmonica)
+  - Bring It On Home To Me (Sonny & Brownie)
+  - Diggin' My Potatoes (Wizard Of The Harmonica)
+  - The Battle Is Over (But The War Goes On) (Sonny & Brownie)
+  - Walkin My Blues Away (Sonny & Brownie)
+  - People Get Ready (Sonny & Brownie)
+  - Better Day (Guitar Highway)
+  - You Bring Out The Boogie In Me (Sonny & Brownie)
+  - White Boy Lost In The Blues (Sonny & Brownie)
+  - Sail Away (Sonny & Brownie)
+  - I'm Crazy 'Bout Your Pie (Wizard Of The Harmonica)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9d48cb68-cd4d-49fe-b7a8-d31deb678fe8
-  spotify: https://open.spotify.com/artist/3qXzj7WzBV3kwy1yEV1RcC
-  wikipedia: https://en.wikipedia.org/wiki/Brownie_McGhee
+  musicbrainz: 'https://musicbrainz.org/artist/9d48cb68-cd4d-49fe-b7a8-d31deb678fe8'
+  spotify: 'https://open.spotify.com/artist/3qXzj7WzBV3kwy1yEV1RcC'
+  wikipedia: 'https://en.wikipedia.org/wiki/Brownie_McGhee'
 image_path: 03_Resources/source_material/ArtistPortraits/brownie_mcghee.jpg
 biography_enhanced_at: '2025-12-06T05:48:10.738631'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Brownie_McGhee
-- https://www.arts.gov/honors/heritage/brownie-mcghee
-- https://blues.org/blues_hof_inductee/brownie-mcghee/
-- https://aaregistry.org/story/bluesman-brownie-mcghee-a-tennessee-bluesman/
-- https://tnfolklife.org/folkartist/brownie-mcghee/
-- https://www.culturalequity.org/alan-lomax/friends/mcghee
+  - 'https://en.wikipedia.org/wiki/Brownie_McGhee'
+  - 'https://www.arts.gov/honors/heritage/brownie-mcghee'
+  - 'https://blues.org/blues_hof_inductee/brownie-mcghee/'
+  - 'https://aaregistry.org/story/bluesman-brownie-mcghee-a-tennessee-bluesman/'
+  - 'https://tnfolklife.org/folkartist/brownie-mcghee/'
+  - 'https://www.culturalequity.org/alan-lomax/friends/mcghee'
 network_extracted: true
 entry_created: '2025-12-06T05:48:10.738639'
 last_updated: '2025-12-23T08:16:06.125525'
 gender: Male
 musicbrainz_id: 9d48cb68-cd4d-49fe-b7a8-d31deb678fe8
 tags:
-- blues
-- piedmont blues
+  - blues
+  - piedmont blues
+is_active: false
 ---
 
 ![](brownie_mcghee.jpg)

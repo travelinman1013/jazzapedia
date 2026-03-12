@@ -1,15 +1,15 @@
 ---
-title: ROCKIE CHARLES
+title: Rockie Charles
 wiki_slug: rockie-charles
 schema_version: 2
 status: active
-birth_place: Boothville, Louisiana, USA
+birth_place: 'Boothville, Louisiana, USA'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/rockie_charles.jpg
   caption: ROCKIE CHARLES
   background: solo_singer
-  origin: Boothville, Louisiana, USA
+  origin: 'Boothville, Louisiana, USA'
 audio_profile:
   tempo_avg: 141.7
   energy_avg: 0.382
@@ -25,46 +25,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - O.V. Wright
-  - Percy Sledge
-  - Otis Redding
-  - Little Johnny Taylor
-  - Carlo Ditta
+    - O.V. Wright
+    - Percy Sledge
+    - Otis Redding
+    - Little Johnny Taylor
+    - Carlo Ditta
   influenced: []
   mentors:
-  - Earlington Merrick
+    - Earlington Merrick
 spotify_data:
   followers: 83
   id: 19JotRTZJRZarC3dHdoVqr
   popularity: 3
-  url: https://open.spotify.com/artist/19JotRTZJRZarC3dHdoVqr
+  url: 'https://open.spotify.com/artist/19JotRTZJRZarC3dHdoVqr'
 discography_enriched: true
 top_tracks:
-- Festis Believe in Justice (Born for You)
-- I Just Called to Wish You a Merry Christmas (Born for You)
-- Born for You (Born for You)
-- Don't Let Me Go (The Orleans Records Story)
-- Old Black Joel (Born for You)
-- Oh My Darling, Look What You're Doing to Me (Born for You)
-- Please Tell Me It Aint So (Born for You)
-- Something Is Wrong with Our Love (Born for You)
-- I Need Your Love so Bad, I'm About to Loose My Mind (Born for You)
-- Don't Let Me Go (Born for You)
+  - Festis Believe in Justice (Born for You)
+  - I Just Called to Wish You a Merry Christmas (Born for You)
+  - Born for You (Born for You)
+  - Don't Let Me Go (The Orleans Records Story)
+  - Old Black Joel (Born for You)
+  - 'Oh My Darling, Look What You''re Doing to Me (Born for You)'
+  - Please Tell Me It Aint So (Born for You)
+  - Something Is Wrong with Our Love (Born for You)
+  - 'I Need Your Love so Bad, I''m About to Loose My Mind (Born for You)'
+  - Don't Let Me Go (Born for You)
 external_urls:
-  spotify: https://open.spotify.com/artist/19JotRTZJRZarC3dHdoVqr
+  spotify: 'https://open.spotify.com/artist/19JotRTZJRZarC3dHdoVqr'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/rockie_charles.jpg
 biography_enhanced_at: '2025-12-23T02:00:42.010710'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.americanbluesscene.com/2017/11/rockie-charles-born-splendid-new-orleans-soul/
-- https://www.allmusic.com/artist/rockie-charles-mn0000241843
-- https://www.wwoz.org/450-memoriam-rockie-charles
-- https://www.orleansrecords.com/rockie-charles
+  - >-
+    https://www.americanbluesscene.com/2017/11/rockie-charles-born-splendid-new-orleans-soul/
+  - 'https://www.allmusic.com/artist/rockie-charles-mn0000241843'
+  - 'https://www.wwoz.org/450-memoriam-rockie-charles'
+  - 'https://www.orleansrecords.com/rockie-charles'
 network_extracted: true
 entry_created: '2025-12-23T02:00:42.010722'
 last_updated: '2025-12-23T08:16:14.950332'
+birth_date: '1942-11-14'
+death_date: '2010-03-12'
+artist_type: person
 ---
 
 ![](rockie_charles.jpg)

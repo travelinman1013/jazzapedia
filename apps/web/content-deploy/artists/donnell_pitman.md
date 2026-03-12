@@ -3,14 +3,14 @@ title: Donnell Pitman
 wiki_slug: donnell-pitman
 schema_version: 2
 status: active
-birth_place: St. Louis, Missouri, USA (birthplace)
+birth_place: 'St. Louis, Missouri, USA (birthplace)'
 genres:
-- post-disco
+  - post-disco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/donnell_pitman.jpg
   caption: Donnell Pitman
   background: solo_singer
-  origin: St. Louis, Missouri, USA (birthplace)
+  origin: 'St. Louis, Missouri, USA (birthplace)'
 audio_profile:
   tempo_avg: 115.1
   energy_avg: 0.61
@@ -32,36 +32,42 @@ spotify_data:
   followers: 2318
   id: 4i5Og2hJZsM7zDX4Msj8Zk
   popularity: 29
-  url: https://open.spotify.com/artist/4i5Og2hJZsM7zDX4Msj8Zk
+  url: 'https://open.spotify.com/artist/4i5Og2hJZsM7zDX4Msj8Zk'
 discography_enriched: true
 top_tracks:
-- Burning Up ("Burning Up" b/w "A Taste of Honey")
-- Love Explosion
-- You Hurt Me
-- Do You Wanna - Daphni Edit (Do You Wanna (Daphni Edit))
-- Do You Wanna (Do You Wanna (Daphni Edit))
-- A Taste of Honey ("Burning Up" b/w "A Taste of Honey")
-- Tonight ft. Anda & Steve Dolfin (Brand New Funk)
-- Do You Wanna - Daphni Edit (Brand New Funk (Deluxe Edition))
-- Need My Love (Do You Wanna b/w Need My Love)
-- Summertime Girls ft. Anda (Brand New Funk)
+  - Burning Up ("Burning Up" b/w "A Taste of Honey")
+  - Love Explosion
+  - You Hurt Me
+  - Do You Wanna - Daphni Edit (Do You Wanna (Daphni Edit))
+  - Do You Wanna (Do You Wanna (Daphni Edit))
+  - A Taste of Honey ("Burning Up" b/w "A Taste of Honey")
+  - Tonight ft. Anda & Steve Dolfin (Brand New Funk)
+  - Do You Wanna - Daphni Edit (Brand New Funk (Deluxe Edition))
+  - Need My Love (Do You Wanna b/w Need My Love)
+  - Summertime Girls ft. Anda (Brand New Funk)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/23c67c7a-0304-4328-96ea-819341f2333e
-  spotify: https://open.spotify.com/artist/4i5Og2hJZsM7zDX4Msj8Zk
+  musicbrainz: 'https://musicbrainz.org/artist/23c67c7a-0304-4328-96ea-819341f2333e'
+  spotify: 'https://open.spotify.com/artist/4i5Og2hJZsM7zDX4Msj8Zk'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/donnell_pitman.jpg
 biography_enhanced_at: '2025-12-14T01:52:06.887189'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.dnainfo.com/chicago/20170414/west-town/donnell-pitman-returns-disco-star-the-hideout-wings-of-sunshine [1]
-- https://music.metason.net/artistinfo?name=Donnell+Pitman [2]
-- https://numerogroup.com/blogs/stories/ultra-high-frequencies-the-chicago-party [3]
-- https://5mag.net/tracks/new-releases/donnell-pitman-love-explosion/ [6]
+  - >-
+    https://www.dnainfo.com/chicago/20170414/west-town/donnell-pitman-returns-disco-star-the-hideout-wings-of-sunshine
+    [1]
+  - 'https://music.metason.net/artistinfo?name=Donnell+Pitman [2]'
+  - >-
+    https://numerogroup.com/blogs/stories/ultra-high-frequencies-the-chicago-party
+    [3]
+  - 'https://5mag.net/tracks/new-releases/donnell-pitman-love-explosion/ [6]'
 network_extracted: true
 entry_created: '2025-12-14T01:52:06.887204'
 last_updated: '2025-12-23T08:16:07.949559'
 musicbrainz_id: 23c67c7a-0304-4328-96ea-819341f2333e
+origin: 'Chicago, Illinois, United States'
+artist_type: person
 ---
 
 ![](donnell_pitman.jpg)

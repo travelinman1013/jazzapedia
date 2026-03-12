@@ -1,15 +1,15 @@
 ---
-title: ohio players
+title: Ohio Players
 wiki_slug: ohio-players
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 birth_date: '1959'
 genres:
-- soul
+  - soul
 instruments:
-- drums (drum set)
-- guitar
+  - drums (drum set)
+  - guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ohio_players.jpg
   caption: ohio players
@@ -30,57 +30,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Leroy 'Sugarfoot' Bonner
-  - Clarence 'Satch' Satchell
-  - James 'Diamond' Williams
+    - Leroy 'Sugarfoot' Bonner
+    - Clarence 'Satch' Satchell
+    - James 'Diamond' Williams
   influenced:
-  - Red Hot Chili Peppers
-  - Dr. Dre
-  - Beyoncé
+    - Red Hot Chili Peppers
+    - Dr. Dre
+    - Beyoncé
   mentors:
-  - The Falcons
-  - Sly & the Family Stone
+    - The Falcons
+    - Sly & the Family Stone
 spotify_data:
   followers: 702789
   id: 6m30rs1IQqnWqV5nKMpU7U
   popularity: 45
-  url: https://open.spotify.com/artist/6m30rs1IQqnWqV5nKMpU7U
+  url: 'https://open.spotify.com/artist/6m30rs1IQqnWqV5nKMpU7U'
 discography_enriched: true
 top_tracks:
-- Love Rollercoaster (Honey)
-- Fire (Fire)
-- Funky Worm (Pleasure)
-- Sweet Sticky Thing (Honey)
-- I Want To Be Free (Fire)
-- Skin Tight (Skin Tight)
-- Heaven Must Be Like This (Skin Tight)
-- Ecstasy (Ecstasy)
-- Fire
-- Let's Do It (Honey)
+  - Love Rollercoaster (Honey)
+  - Fire (Fire)
+  - Funky Worm (Pleasure)
+  - Sweet Sticky Thing (Honey)
+  - I Want To Be Free (Fire)
+  - Skin Tight (Skin Tight)
+  - Heaven Must Be Like This (Skin Tight)
+  - Ecstasy (Ecstasy)
+  - Fire
+  - Let's Do It (Honey)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/81e07550-d0e2-467e-bc71-44b5d52de8f4
-  spotify: https://open.spotify.com/artist/6m30rs1IQqnWqV5nKMpU7U
-  wikipedia: https://en.wikipedia.org/wiki/Ohio_Players
+  musicbrainz: 'https://musicbrainz.org/artist/81e07550-d0e2-467e-bc71-44b5d52de8f4'
+  spotify: 'https://open.spotify.com/artist/6m30rs1IQqnWqV5nKMpU7U'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ohio_Players'
 image_path: 03_Resources/source_material/ArtistPortraits/ohio_players.jpg
 biography_enhanced_at: '2025-10-20T09:03:42.758067'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Ohio_Players
-- https://www.britannica.com/topic/The-Ohio-Players
-- https://www.theofficialohioplayers.com/about
-- https://www.jazzalley.com/www-home/artist.jsp?shownum=6365
+  - 'https://en.wikipedia.org/wiki/Ohio_Players'
+  - 'https://www.britannica.com/topic/The-Ohio-Players'
+  - 'https://www.theofficialohioplayers.com/about'
+  - 'https://www.jazzalley.com/www-home/artist.jsp?shownum=6365'
 network_extracted: true
 entry_created: '2025-10-20T09:03:42.758085'
 last_updated: '2025-12-23T08:16:13.697311'
 musicbrainz_enriched_at: '2025-10-21T09:55:12.503301'
 musicbrainz_id: 81e07550-d0e2-467e-bc71-44b5d52de8f4
-origin: Dayton, Ohio, United States
+origin: 'Dayton, Ohio, United States'
 tags:
-- disco
-- funk
-- pop
-
+  - disco
+  - funk
+  - pop
+birth_place: Dayton
 ---
 
 ![](ohio_players.jpg)

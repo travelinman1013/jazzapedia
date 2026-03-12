@@ -1,56 +1,55 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2025-12-26T01:17:09.941448'
 birth_date: '2017'
 enhancement_provider: perplexity
 entry_created: '2025-12-26T01:17:09.941464'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/12937c9d-5439-47b1-add9-3d018e63e75f
-  spotify: https://open.spotify.com/artist/6LiMIy9kwdQAfMrBInyUvY
+  musicbrainz: 'https://musicbrainz.org/artist/12937c9d-5439-47b1-add9-3d018e63e75f'
+  spotify: 'https://open.spotify.com/artist/6LiMIy9kwdQAfMrBInyUvY'
   wikipedia: ''
 genres:
-- nu jazz
+  - nu jazz
 image_path: 03_Resources/source_material/ArtistPortraits/ishmael_ensemble.jpg
 last_updated: '2025-12-26T01:17:09.941466'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2edfaedb-7b5c-410b-9c36-f65585e8d362
-  name: Ishmael
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2edfaedb-7b5c-410b-9c36-f65585e8d362
+    name: Ishmael
 musical_connections:
   collaborators:
-  - Jake Spurgeon
-  - Stephen Mullins
-  - Rory O'Gorman
-  - Holly Wellington (Holysseus Fly)
+    - Jake Spurgeon
+    - Stephen Mullins
+    - Rory O'Gorman
+    - Holly Wellington (Holysseus Fly)
   influenced: []
   mentors:
-  - Tom 'The Captain' Harwood
-  - Johnny Rench
-  - Pinch
+    - Tom 'The Captain' Harwood
+    - Johnny Rench
+    - Pinch
 musicbrainz_id: 12937c9d-5439-47b1-add9-3d018e63e75f
 network_extracted: true
-origin: Bristol
+origin: 'Bristol, England, United Kingdom'
 primary_source: perplexity
 research_sources:
-- https://www.wonderlandmagazine.com/2024/09/06/ishmael-ensemble/
-- https://www.fasching.se/en/ishmael-ensemble/
-- https://www.prsformusic.com/m-magazine/features/interview-ishmael-ensemble
-- https://ishmaelensemble.com
-- https://www.theklabristol.co.uk/gigs/ishmael-ensemble/
-- https://www.musicradar.com/news/15-questions-ishmael-ensemble
-- https://www.last.fm/music/ishmael+ensemble/+wiki
+  - 'https://www.wonderlandmagazine.com/2024/09/06/ishmael-ensemble/'
+  - 'https://www.fasching.se/en/ishmael-ensemble/'
+  - 'https://www.prsformusic.com/m-magazine/features/interview-ishmael-ensemble'
+  - 'https://ishmaelensemble.com'
+  - 'https://www.theklabristol.co.uk/gigs/ishmael-ensemble/'
+  - 'https://www.musicradar.com/news/15-questions-ishmael-ensemble'
+  - 'https://www.last.fm/music/ishmael+ensemble/+wiki'
 spotify_data:
   followers: 38530
   id: 6LiMIy9kwdQAfMrBInyUvY
   popularity: 37
-  url: https://open.spotify.com/artist/6LiMIy9kwdQAfMrBInyUvY
+  url: 'https://open.spotify.com/artist/6LiMIy9kwdQAfMrBInyUvY'
 status: active
 tags:
-- jazz
+  - jazz
 title: Ishmael Ensemble
-
 ---
 
 ![](ishmael_ensemble.jpg)

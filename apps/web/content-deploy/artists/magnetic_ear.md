@@ -2,7 +2,7 @@
 title: Magnetic Ear
 wiki_slug: magnetic-ear
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres: []
 infobox:
@@ -10,7 +10,7 @@ infobox:
   caption: Magnetic Ear
   background: group_or_band
 audio_profile:
-  tempo_avg: 114.0
+  tempo_avg: 114
   energy_avg: 0.561
   valence_avg: 0.399
   danceability_avg: 0.492
@@ -24,41 +24,41 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Band Members
+    - Band Members
   influenced: []
   mentors: []
 spotify_data:
   followers: 1082940
   id: 7giUHu5pv6YTZgSkxxCcgh
   popularity: 62
-  url: https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh
+  url: 'https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh'
 discography_enriched: true
 top_tracks:
-- Home - 2019 Remaster (Up From Below - 10th Anniversary Edition)
-- Home (Up from Below)
-- Home (Up From Below)
-- 40 Day Dream - 2019 Remaster (Up From Below - 10th Anniversary Edition)
-- Man on Fire (Here)
-- Janglin - 2019 Remaster (Up From Below - 10th Anniversary Edition)
-- Man on Fire (Here)
-- Home
-- Home (featuring the Gulu Widows Choir) (HOPE Campaign Tribute Album 2010)
-- That's What's Up (Here)
+  - Home - 2019 Remaster (Up From Below - 10th Anniversary Edition)
+  - Home (Up from Below)
+  - Home (Up From Below)
+  - 40 Day Dream - 2019 Remaster (Up From Below - 10th Anniversary Edition)
+  - Man on Fire (Here)
+  - Janglin - 2019 Remaster (Up From Below - 10th Anniversary Edition)
+  - Man on Fire (Here)
+  - Home
+  - Home (featuring the Gulu Widows Choir) (HOPE Campaign Tribute Album 2010)
+  - That's What's Up (Here)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4962f284-d8a9-4fe6-910a-2145afa3cfbe
-  spotify: https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh
+  musicbrainz: 'https://musicbrainz.org/artist/4962f284-d8a9-4fe6-910a-2145afa3cfbe'
+  spotify: 'https://open.spotify.com/artist/7giUHu5pv6YTZgSkxxCcgh'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/magnetic_ear.jpg
 biography_enhanced_at: '2025-11-28T07:32:12.757727'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Offbeat Magazine - Magnetic Ear review
+  - Offbeat Magazine - Magnetic Ear review
 network_extracted: true
 entry_created: '2025-11-28T07:32:12.757738'
 last_updated: '2025-12-23T08:16:12.516141'
 musicbrainz_id: 4962f284-d8a9-4fe6-910a-2145afa3cfbe
-origin: New Orleans, Louisiana, United States (inferred from brass band tradition)
+origin: 'New Orleans, Louisiana, United States (inferred from brass band tradition)'
 ---
 
 ![](magnetic_ear.jpg)

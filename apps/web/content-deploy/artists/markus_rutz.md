@@ -3,13 +3,13 @@ title: Markus Rutz
 wiki_slug: markus-rutz
 schema_version: 2
 status: active
-birth_place: Chicago, Illinois, United States
+birth_place: 'Chicago, Illinois, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/markus_rutz.jpg
   caption: Markus Rutz
   background: solo_singer
-  origin: Chicago, Illinois, United States
+  origin: 'Chicago, Illinois, United States'
 audio_profile:
   tempo_avg: 115.8
   energy_avg: 0.29
@@ -25,51 +25,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Samuel Peters
-  - Kyle Swan
-  - Bill Cessna
-  - Victor Goines
-  - Christopher McBride
+    - Samuel Peters
+    - Kyle Swan
+    - Bill Cessna
+    - Victor Goines
+    - Christopher McBride
   influenced: []
   mentors:
-  - Richard Davis
-  - Ellis Marsalis
-  - Harold Batiste
+    - Richard Davis
+    - Ellis Marsalis
+    - Harold Batiste
 spotify_data:
   followers: 146
   id: 0PsX3PrzMa8ELbpSgYSCcr
   popularity: 1
-  url: https://open.spotify.com/artist/0PsX3PrzMa8ELbpSgYSCcr
+  url: 'https://open.spotify.com/artist/0PsX3PrzMa8ELbpSgYSCcr'
 discography_enriched: true
 top_tracks:
-- 'The Musicianer (Blueprints - Figure One: Frameworks)'
-- 'East to West (Blueprints - Figure Two: New Designs)'
-- 'The Compass (Blueprints - Figure One: Frameworks)'
-- 'Gusto, as in Mucho (Blueprints - Figure One: Frameworks)'
-- 'Very Marie (Blueprints - Figure One: Frameworks)'
-- 'Limbo (Blueprints - Figure One: Frameworks)'
-- 'September in the Rain (Blueprints - Figure One: Frameworks)'
-- 'Syndrome (Blueprints - Figure One: Frameworks)'
-- 'Shipmates (Blueprints - Figure One: Frameworks)'
-- 'Segment (Blueprints - Figure One: Frameworks)'
+  - 'The Musicianer (Blueprints - Figure One: Frameworks)'
+  - 'East to West (Blueprints - Figure Two: New Designs)'
+  - 'The Compass (Blueprints - Figure One: Frameworks)'
+  - 'Gusto, as in Mucho (Blueprints - Figure One: Frameworks)'
+  - 'Very Marie (Blueprints - Figure One: Frameworks)'
+  - 'Limbo (Blueprints - Figure One: Frameworks)'
+  - 'September in the Rain (Blueprints - Figure One: Frameworks)'
+  - 'Syndrome (Blueprints - Figure One: Frameworks)'
+  - 'Shipmates (Blueprints - Figure One: Frameworks)'
+  - 'Segment (Blueprints - Figure One: Frameworks)'
 external_urls:
-  spotify: https://open.spotify.com/artist/0PsX3PrzMa8ELbpSgYSCcr
+  spotify: 'https://open.spotify.com/artist/0PsX3PrzMa8ELbpSgYSCcr'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/markus_rutz.jpg
 biography_enhanced_at: '2025-11-08T21:51:24.136990'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.jazzshowcase.com/nowplaying/markus-rutz-11221
-- https://rutzmusicworks.com/booking
-- https://www.soapboxgallery.org/events/markusrutzjune2023
-- https://canvasrebel.com/meet-markus-rutz/
-- https://www.allaboutjazz.com/take-five-with-markus-rutz-markus-rutz
-- https://originarts.com/oa2/artists/artist.php?Artist_ID=190
-- https://www.rosetheatre.net/markus-rutz
+  - 'https://www.jazzshowcase.com/nowplaying/markus-rutz-11221'
+  - 'https://rutzmusicworks.com/booking'
+  - 'https://www.soapboxgallery.org/events/markusrutzjune2023'
+  - 'https://canvasrebel.com/meet-markus-rutz/'
+  - 'https://www.allaboutjazz.com/take-five-with-markus-rutz-markus-rutz'
+  - 'https://originarts.com/oa2/artists/artist.php?Artist_ID=190'
+  - 'https://www.rosetheatre.net/markus-rutz'
 network_extracted: true
 entry_created: '2025-11-08T21:51:24.137005'
 last_updated: '2025-12-23T08:16:12.719120'
+origin: 'Chicago, Illinois, United States'
+artist_type: person
 ---
 
 ![](markus_rutz.jpg)

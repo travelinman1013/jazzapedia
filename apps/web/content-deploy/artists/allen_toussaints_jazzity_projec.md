@@ -1,15 +1,16 @@
 ---
-title: Allen Toussaint`s Jazzity Projec
+title: Allen Toussaint’s Jazzity Projec
 wiki_slug: allen-toussaints-jazzity-projec
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, USA'
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/allen_toussaints_jazzity_projec.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/allen_toussaints_jazzity_projec.jpg
   caption: Allen Toussaint`s Jazzity Projec
   background: solo_singer
-  origin: New Orleans, Louisiana, USA
+  origin: 'New Orleans, Louisiana, USA'
 audio_profile:
   tempo_avg: 107.5
   energy_avg: 0.348
@@ -25,58 +26,65 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ernie K-Doe
-  - Irma Thomas
-  - Dr. John
-  - LaBelle
-  - The Band
-  - Aaron Neville
-  - Elvis Costello
-  - Eric Clapton
+    - Ernie K-Doe
+    - Irma Thomas
+    - Dr. John
+    - LaBelle
+    - The Band
+    - Aaron Neville
+    - Elvis Costello
+    - Eric Clapton
   influenced:
-  - Glen Campbell
-  - Rolling Stones
-  - Yardbirds
-  - Pointer Sisters
+    - Glen Campbell
+    - Rolling Stones
+    - Yardbirds
+    - Pointer Sisters
   mentors:
-  - Fats Domino
-  - Dave Bartholomew
-  - Huey "Piano" Smith
+    - Fats Domino
+    - Dave Bartholomew
+    - Huey "Piano" Smith
 spotify_data:
   followers: 126
   id: 5GnRL4k80AIZTK18MRkfDI
   popularity: 0
-  url: https://open.spotify.com/artist/5GnRL4k80AIZTK18MRkfDI
+  url: 'https://open.spotify.com/artist/5GnRL4k80AIZTK18MRkfDI'
 discography_enriched: true
 top_tracks:
-- All These Things (Going Places)
-- Traffic (Going Places)
-- Ruler Of My Heart (Going Places)
-- Close Up (Going Places)
-- Caleraville (Going Places)
-- Is There Any Love Left For Us? (Going Places)
-- Out Front-a-town (Going Places)
-- Do You Want Some Of This? (Going Places)
-- A minor (filler) (Going Places)
-- Meter Head (Going Places)
+  - All These Things (Going Places)
+  - Traffic (Going Places)
+  - Ruler Of My Heart (Going Places)
+  - Close Up (Going Places)
+  - Caleraville (Going Places)
+  - Is There Any Love Left For Us? (Going Places)
+  - Out Front-a-town (Going Places)
+  - Do You Want Some Of This? (Going Places)
+  - A minor (filler) (Going Places)
+  - Meter Head (Going Places)
 external_urls:
-  spotify: https://open.spotify.com/artist/5GnRL4k80AIZTK18MRkfDI
-  wikipedia: https://en.wikipedia.org/wiki/Allen_Toussaint
-image_path: 03_Resources/source_material/ArtistPortraits/allen_toussaints_jazzity_projec.jpg
+  spotify: 'https://open.spotify.com/artist/5GnRL4k80AIZTK18MRkfDI'
+  wikipedia: 'https://en.wikipedia.org/wiki/Allen_Toussaint'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/allen_toussaints_jazzity_projec.jpg
 biography_enhanced_at: '2025-12-16T03:15:44.946479'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://musicrising.tulane.edu/discover/people/allen-toussaint/
-- https://en.wikipedia.org/wiki/Allen_Toussaint
-- https://daily.redbullmusicacademy.com/2014/04/allen-toussaint-interview/
-- https://www.explorelouisiana.com/music/allen-toussaint
-- https://www.nonesuch.com/journal/story-behind-allen-toussaint-final-recording-american-tunes-2016-05-18
-- https://www.namm.org/library/oral-history/allen-toussaint
-- https://www.offbeat.com/music/allen-toussaints-jazzity-project-going-places-crt/
+  - 'https://musicrising.tulane.edu/discover/people/allen-toussaint/'
+  - 'https://en.wikipedia.org/wiki/Allen_Toussaint'
+  - 'https://daily.redbullmusicacademy.com/2014/04/allen-toussaint-interview/'
+  - 'https://www.explorelouisiana.com/music/allen-toussaint'
+  - >-
+    https://www.nonesuch.com/journal/story-behind-allen-toussaint-final-recording-american-tunes-2016-05-18
+  - 'https://www.namm.org/library/oral-history/allen-toussaint'
+  - >-
+    https://www.offbeat.com/music/allen-toussaints-jazzity-project-going-places-crt/
 network_extracted: true
 entry_created: '2025-12-16T03:15:44.946492'
 last_updated: '2025-12-23T08:16:04.611774'
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1938-01-14'
+death_date: '2015-11-09'
+artist_type: person
 ---
 
 ![](allen_toussaints_jazzity_projec.jpg)

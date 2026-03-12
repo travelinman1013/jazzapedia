@@ -2,20 +2,20 @@
 title: Wire
 wiki_slug: wire
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: 1976-10
 genres:
-- post-punk
-- proto-punk
-- new wave
-- punk
+  - post-punk
+  - proto-punk
+  - new wave
+  - punk
 instruments:
-- drums (drum set)
-- original
-- guitar
-- bass guitar
-- lead vocals
+  - drums (drum set)
+  - original
+  - guitar
+  - bass guitar
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/wire.jpg
   caption: Wire
@@ -36,117 +36,129 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bruce Gilbert
-  - Graham Lewis
-  - Robert Grey (Robert Gotobed)
-  - Margaret Fiedler McGinnis
-  - Matt Simms
-  - Jake and Dinos Chapman
-  - Es Devlin
+    - Bruce Gilbert
+    - Graham Lewis
+    - Robert Grey (Robert Gotobed)
+    - Margaret Fiedler McGinnis
+    - Matt Simms
+    - Jake and Dinos Chapman
+    - Es Devlin
   influenced:
-  - Minor Threat and early hardcore punk bands
-  - Elastica
-  - Post‑punk and indie bands (e.g., Sonic Youth, Guided by Voices, Blur-era art‑rock acts)
+    - Minor Threat and early hardcore punk bands
+    - Elastica
+    - >-
+      Post‑punk and indie bands (e.g., Sonic Youth, Guided by Voices, Blur-era
+      art‑rock acts)
   mentors:
-  - Sex Pistols
-  - Buzzcocks
-  - Roxy Music
+    - Sex Pistols
+    - Buzzcocks
+    - Roxy Music
 spotify_data:
   followers: 229196
   id: 2i8ynmFv4qgRksyDlBgi6d
   popularity: 45
-  url: https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d
+  url: 'https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d'
 discography_enriched: true
 top_tracks:
-- Mannequin - 2006 Remastered Version (Pink Flag (2006 Remastered Version))
-- Ex Lion Tamer - 2006 Remastered Version (Pink Flag (2006 Remastered Version))
-- The 15th - 2006 Remastered Version (154 (2006 Remastered Version))
-- Outdoor Miner - 2006 Remastered Version (Chairs Missing (2006 Remastered Version))
-- Three Girl Rhumba - 2006 Remastered Version (Pink Flag (2006 Remastered Version))
-- Reuters - 2006 Remastered Version (Pink Flag (2006 Remastered Version))
-- Lowdown - 2006 Remastered Version (Pink Flag (2006 Remastered Version))
-- Fragile - 2006 Remastered Version (Pink Flag (2006 Remastered Version))
-- Outdoor Miner
-- Heartbeat - 2006 Remastered Version (Chairs Missing (2006 Remastered Version))
+  - Mannequin - 2006 Remastered Version (Pink Flag (2006 Remastered Version))
+  - >-
+    Ex Lion Tamer - 2006 Remastered Version (Pink Flag (2006 Remastered
+    Version))
+  - The 15th - 2006 Remastered Version (154 (2006 Remastered Version))
+  - >-
+    Outdoor Miner - 2006 Remastered Version (Chairs Missing (2006 Remastered
+    Version))
+  - >-
+    Three Girl Rhumba - 2006 Remastered Version (Pink Flag (2006 Remastered
+    Version))
+  - Reuters - 2006 Remastered Version (Pink Flag (2006 Remastered Version))
+  - Lowdown - 2006 Remastered Version (Pink Flag (2006 Remastered Version))
+  - Fragile - 2006 Remastered Version (Pink Flag (2006 Remastered Version))
+  - Outdoor Miner
+  - >-
+    Heartbeat - 2006 Remastered Version (Chairs Missing (2006 Remastered
+    Version))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7f2a8098-50e3-451c-8696-c5d9f64f4762
-  spotify: https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d
-  wikipedia: https://en.wikipedia.org/wiki/Wire_(band)
+  musicbrainz: 'https://musicbrainz.org/artist/7f2a8098-50e3-451c-8696-c5d9f64f4762'
+  spotify: 'https://open.spotify.com/artist/2i8ynmFv4qgRksyDlBgi6d'
+  wikipedia: 'https://en.wikipedia.org/wiki/Wire_(band)'
 image_path: 03_Resources/source_material/ArtistPortraits/wire.jpg
 biography_enhanced_at: '2025-12-11T04:20:54.160982'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Wire_(band)
-- https://www.last.fm/music/Wire/+wiki
-- https://www.the-independent.com/arts-entertainment/music/features/wire-the-artpunk-band-s-journey-and-legacy-6108899.html
-- https://www.loudandquiet.com/interview/story-wire-retold-band-facing-forwards-celebrating-40-years-without-nostalgia-tour/
-- http://drownedinsound.com/in_depth/4141780-the-geography-of-wire
-- http://www.jimdero.com/News2003/GreatWire.htm
-- https://www.scaruffi.com/vol4/wire.html
+  - 'https://en.wikipedia.org/wiki/Wire_(band)'
+  - 'https://www.last.fm/music/Wire/+wiki'
+  - >-
+    https://www.the-independent.com/arts-entertainment/music/features/wire-the-artpunk-band-s-journey-and-legacy-6108899.html
+  - >-
+    https://www.loudandquiet.com/interview/story-wire-retold-band-facing-forwards-celebrating-40-years-without-nostalgia-tour/
+  - 'http://drownedinsound.com/in_depth/4141780-the-geography-of-wire'
+  - 'http://www.jimdero.com/News2003/GreatWire.htm'
+  - 'https://www.scaruffi.com/vol4/wire.html'
 network_extracted: true
 entry_created: '2025-12-11T04:20:54.160990'
 last_updated: '2025-12-23T08:16:18.250100'
 disambiguation: UK rock band
 members:
-- begin: '1976'
-  end: '1990'
-  instruments:
-  - drums (drum set)
-  - original
-  mbid: 147d5b31-8ed7-4fbe-9918-c9d6fa26e0a7
-  name: Robert Gotobed
-- begin: '1976'
-  end: '2006'
-  instruments:
-  - guitar
-  - original
-  mbid: 8c0c14fa-918a-42ff-a8ed-b8211031f828
-  name: Bruce Gilbert
-- &id001
-  begin: '1976'
-  end: ''
-  instruments:
-  - bass guitar
-  - lead vocals
-  - original
-  mbid: b164a18b-7de1-46c3-bf61-c015bbfc528f
-  name: Graham Lewis
-- &id002
-  begin: '1976'
-  end: ''
-  instruments:
-  - guitar
-  - lead vocals
-  - original
-  mbid: 7178b24a-4ec0-48bb-b740-deef07deafd8
-  name: Colin Newman
-- &id003
-  begin: '1999'
-  end: ''
-  instruments:
-  - drums (drum set)
-  - original
-  mbid: 147d5b31-8ed7-4fbe-9918-c9d6fa26e0a7
-  name: Robert Gotobed
-- &id004
-  begin: '2010'
-  end: ''
-  instruments:
-  - guitar
-  mbid: 7b3b5228-d3af-45a5-a978-88bc2b1d3c27
-  name: Matthew Simms
+  - begin: '1976'
+    end: '1990'
+    instruments:
+      - drums (drum set)
+      - original
+    mbid: 147d5b31-8ed7-4fbe-9918-c9d6fa26e0a7
+    name: Robert Gotobed
+  - begin: '1976'
+    end: '2006'
+    instruments:
+      - guitar
+      - original
+    mbid: 8c0c14fa-918a-42ff-a8ed-b8211031f828
+    name: Bruce Gilbert
+  - &ref_0
+    begin: '1976'
+    end: ''
+    instruments:
+      - bass guitar
+      - lead vocals
+      - original
+    mbid: b164a18b-7de1-46c3-bf61-c015bbfc528f
+    name: Graham Lewis
+  - &ref_1
+    begin: '1976'
+    end: ''
+    instruments:
+      - guitar
+      - lead vocals
+      - original
+    mbid: 7178b24a-4ec0-48bb-b740-deef07deafd8
+    name: Colin Newman
+  - &ref_2
+    begin: '1999'
+    end: ''
+    instruments:
+      - drums (drum set)
+      - original
+    mbid: 147d5b31-8ed7-4fbe-9918-c9d6fa26e0a7
+    name: Robert Gotobed
+  - &ref_3
+    begin: '2010'
+    end: ''
+    instruments:
+      - guitar
+    mbid: 7b3b5228-d3af-45a5-a978-88bc2b1d3c27
+    name: Matthew Simms
 musicbrainz_id: 7f2a8098-50e3-451c-8696-c5d9f64f4762
-origin: London
+origin: 'London, England, United Kingdom'
 original_members:
-- *id001
-- *id002
-- *id003
-- *id004
+  - *ref_0
+  - *ref_1
+  - *ref_2
+  - *ref_3
 tags:
-- alternative rock
-- art punk
-- british
+  - alternative rock
+  - art punk
+  - british
 ---
 
 ![](wire.jpg)

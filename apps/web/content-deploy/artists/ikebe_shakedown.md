@@ -2,14 +2,14 @@
 title: Ikebe Shakedown
 wiki_slug: ikebe-shakedown
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- afrobeat
-- jazz funk
-- latin afrobeat
+  - afrobeat
+  - jazz funk
+  - latin afrobeat
 instruments:
-- bass guitar
+  - bass guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ikebe_shakedown.jpg
   caption: Ikebe Shakedown
@@ -29,65 +29,65 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Vince Chiarito
-  - Nadav Nirenberg
-  - Morgan Price
-  - Robin Schmidt
-  - Other band members (horns/rhythm section)
-  - Buru Style
+    - Vince Chiarito
+    - Nadav Nirenberg
+    - Morgan Price
+    - Robin Schmidt
+    - Other band members (horns/rhythm section)
+    - Buru Style
   influenced:
-  - Modern NYC funk and afrobeat bands
+    - Modern NYC funk and afrobeat bands
   mentors:
-  - Fela Kuti
-  - James Brown
-  - Motown/Stax Records artists
-  - Ennio Morricone & Bernard Herrmann
+    - Fela Kuti
+    - James Brown
+    - Motown/Stax Records artists
+    - Ennio Morricone & Bernard Herrmann
 spotify_data:
   followers: 58846
   id: 5ABBZoXY5r0UL1txACjinb
   popularity: 45
-  url: https://open.spotify.com/artist/5ABBZoXY5r0UL1txACjinb
+  url: 'https://open.spotify.com/artist/5ABBZoXY5r0UL1txACjinb'
 discography_enriched: true
 top_tracks:
-- View from Above (Assassin)
-- Road Song (The Beast / Road Song)
-- Dram (Stone by Stone)
-- No Answer (No Answer / No Answer)
-- Rio Grande (Stone by Stone)
-- By Hook or by Crook (Stone by Stone)
-- The Hold Up (Ikebe Shakedown)
-- Last Stand (Stone by Stone)
-- The Illusion (Stone by Stone)
-- The Offering (Stone by Stone)
+  - View from Above (Assassin)
+  - Road Song (The Beast / Road Song)
+  - Dram (Stone by Stone)
+  - No Answer (No Answer / No Answer)
+  - Rio Grande (Stone by Stone)
+  - By Hook or by Crook (Stone by Stone)
+  - The Hold Up (Ikebe Shakedown)
+  - Last Stand (Stone by Stone)
+  - The Illusion (Stone by Stone)
+  - The Offering (Stone by Stone)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/55008116-f7aa-4f68-b713-b6c947f7d43c
-  spotify: https://open.spotify.com/artist/5ABBZoXY5r0UL1txACjinb
-  wikipedia: https://en.wikipedia.org/wiki/Ikebe_Shakedown
+  musicbrainz: 'https://musicbrainz.org/artist/55008116-f7aa-4f68-b713-b6c947f7d43c'
+  spotify: 'https://open.spotify.com/artist/5ABBZoXY5r0UL1txACjinb'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ikebe_Shakedown'
 image_path: 03_Resources/source_material/ArtistPortraits/ikebe_shakedown.jpg
 biography_enhanced_at: '2025-11-26T07:41:07.697575'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://wesleyanargus.com/2009/09/25/afro-funksters-ikebe-shakedown/
-- https://thepopbreak.com/2018/08/09/ikebe-shakedown-instrumental-beauty/
-- https://ikebeshakedown.com/pages/about
-- https://riffmagazine.com/features/introducing-ikebe-shakedown/
+  - 'https://wesleyanargus.com/2009/09/25/afro-funksters-ikebe-shakedown/'
+  - 'https://thepopbreak.com/2018/08/09/ikebe-shakedown-instrumental-beauty/'
+  - 'https://ikebeshakedown.com/pages/about'
+  - 'https://riffmagazine.com/features/introducing-ikebe-shakedown/'
 network_extracted: true
 entry_created: '2025-11-26T07:41:07.697587'
 last_updated: '2025-12-23T08:16:09.815801'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - bass guitar
-  mbid: b3a3f9ad-2a80-48d6-a694-022a572d7894
-  name: Vince Chiarito
+  - begin: ''
+    end: ''
+    instruments:
+      - bass guitar
+    mbid: b3a3f9ad-2a80-48d6-a694-022a572d7894
+    name: Vince Chiarito
 musicbrainz_id: 55008116-f7aa-4f68-b713-b6c947f7d43c
-origin: Brooklyn, New York City, New York, USA
+origin: 'Brooklyn, New York City, New York, USA'
 tags:
-- afro
-- afrobeat
-- brooklyn
+  - afro
+  - afrobeat
+  - brooklyn
 ---
 
 ![](ikebe_shakedown.jpg)

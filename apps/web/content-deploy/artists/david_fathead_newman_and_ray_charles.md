@@ -1,21 +1,22 @@
 ---
-title: david fathead newman and ray charles
+title: David Fathead Newman and Ray Charles
 wiki_slug: david-fathead-newman-and-ray-charles
 schema_version: 2
 status: active
-birth_place: Corsicana, Texas, United States
+birth_place: 'Corsicana, Texas, United States'
 genres:
-- bebop
-- cool jazz
-- hard bop
-- jazz
-- jazz funk
-- soul jazz
+  - bebop
+  - cool jazz
+  - hard bop
+  - jazz
+  - jazz funk
+  - soul jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/david_fathead_newman_and_ray_charles.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/david_fathead_newman_and_ray_charles.jpg
   caption: david fathead newman and ray charles
   background: solo_singer
-  origin: Corsicana, Texas, United States
+  origin: 'Corsicana, Texas, United States'
 audio_profile:
   tempo_avg: 112.5
   energy_avg: 0.451
@@ -31,57 +32,66 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ray Charles
-  - Herbie Mann
-  - James Clay
-  - Jack McDuff
-  - Aretha Franklin
-  - B.B. King
-  - T-Bone Walker
-  - Dr. John
-  - Eric Clapton
-  - Nat King Cole
-  - Donny Hathaway
+    - Ray Charles
+    - Herbie Mann
+    - James Clay
+    - Jack McDuff
+    - Aretha Franklin
+    - B.B. King
+    - T-Bone Walker
+    - Dr. John
+    - Eric Clapton
+    - Nat King Cole
+    - Donny Hathaway
   influenced:
-  - Later soul-jazz and R&B saxophonists (collective)
+    - Later soul-jazz and R&B saxophonists (collective)
   mentors:
-  - Henry “Buster” Smith
-  - Ray Charles
+    - Henry “Buster” Smith
+    - Ray Charles
 spotify_data:
   followers: 7735
   id: 5OPNYwuIto3q4ac46rIIZC
   popularity: 17
-  url: https://open.spotify.com/artist/5OPNYwuIto3q4ac46rIIZC
+  url: 'https://open.spotify.com/artist/5OPNYwuIto3q4ac46rIIZC'
 discography_enriched: true
 top_tracks:
-- Hard Times - Remaster (Ray Charles Presents David Newman - Fathead)
-- Everything Must Change
-- 'Hard Times (Ray Charles Essentials: The Greatest Feel Good Jazz and Soul Hits)'
-- Willow Weep for Me - Remaster (Ray Charles Presents David Newman - Fathead)
-- Buster's Tune (Return To The Wide Open Spaces)
-- Things Ain't What They Used To Be (Return To The Wide Open Spaces)
-- Introduction (Return To The Wide Open Spaces)
-- These Foolish Things (Return To The Wide Open Spaces)
-- When Your Lover Has Gone (Bye 'N' Bye)
-- Hard Times (Return To The Wide Open Spaces)
+  - Hard Times - Remaster (Ray Charles Presents David Newman - Fathead)
+  - Everything Must Change
+  - >-
+    Hard Times (Ray Charles Essentials: The Greatest Feel Good Jazz and Soul
+    Hits)
+  - Willow Weep for Me - Remaster (Ray Charles Presents David Newman - Fathead)
+  - Buster's Tune (Return To The Wide Open Spaces)
+  - Things Ain't What They Used To Be (Return To The Wide Open Spaces)
+  - Introduction (Return To The Wide Open Spaces)
+  - These Foolish Things (Return To The Wide Open Spaces)
+  - When Your Lover Has Gone (Bye 'N' Bye)
+  - Hard Times (Return To The Wide Open Spaces)
 external_urls:
-  spotify: https://open.spotify.com/artist/5OPNYwuIto3q4ac46rIIZC
-  wikipedia: https://en.wikipedia.org/wiki/David_%22Fathead%22_Newman
-image_path: 03_Resources/source_material/ArtistPortraits/david_fathead_newman_and_ray_charles.jpg
+  spotify: 'https://open.spotify.com/artist/5OPNYwuIto3q4ac46rIIZC'
+  wikipedia: 'https://en.wikipedia.org/wiki/David_%22Fathead%22_Newman'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/david_fathead_newman_and_ray_charles.jpg
 biography_enhanced_at: '2025-12-12T12:06:12.802432'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/David_%22Fathead%22_Newman
-- https://www.tshaonline.org/handbook/entries/newman-david-jr-fathead
-- https://www.wrti.org/arts-desk/2015-03-07/david-fathead-newman-from-ray-charles-protege-to-band-leader
-- https://www.vinyl-magic.com/blog/ray-charles-david-fathead-newman
-- https://wicn.org/wicn-artist-of-the-month-february-2025-david-fathead-newman/
-- https://jazztimes.com/archives/david-fathead-newman-i-remember-brother-ray/
-- https://www.the-independent.com/news/obituaries/david-fathead-newman-saxophonist-who-worked-with-ray-charles-1632287.html
+  - 'https://en.wikipedia.org/wiki/David_%22Fathead%22_Newman'
+  - 'https://www.tshaonline.org/handbook/entries/newman-david-jr-fathead'
+  - >-
+    https://www.wrti.org/arts-desk/2015-03-07/david-fathead-newman-from-ray-charles-protege-to-band-leader
+  - 'https://www.vinyl-magic.com/blog/ray-charles-david-fathead-newman'
+  - >-
+    https://wicn.org/wicn-artist-of-the-month-february-2025-david-fathead-newman/
+  - 'https://jazztimes.com/archives/david-fathead-newman-i-remember-brother-ray/'
+  - >-
+    https://www.the-independent.com/news/obituaries/david-fathead-newman-saxophonist-who-worked-with-ray-charles-1632287.html
 network_extracted: true
 entry_created: '2025-12-12T12:06:12.802442'
 last_updated: '2025-12-23T08:16:07.553314'
+birth_date: '1933-02-24'
+death_date: '2009-01-20'
+artist_type: person
 ---
 
 ![](david_fathead_newman_and_ray_charles.jpg)

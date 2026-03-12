@@ -3,45 +3,49 @@ biography_enhanced_at: '2025-12-28T02:00:44.045080'
 enhancement_provider: perplexity
 entry_created: '2025-12-28T02:00:44.045095'
 external_urls:
-  spotify: https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI
-  wikipedia: https://en.wikipedia.org/wiki/Gyakie, https://en.wikipedia.org/wiki/Shatta_Wale
+  spotify: 'https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI'
+  wikipedia: >-
+    https://en.wikipedia.org/wiki/Gyakie,
+    https://en.wikipedia.org/wiki/Shatta_Wale
 genres:
-- hiplife
-- azonto
-- shatta
-- afrobeats
-- afrobeat
-- asakaa
-- afropop
-- highlife
-- dancehall
+  - hiplife
+  - azonto
+  - shatta
+  - afrobeats
+  - afrobeat
+  - asakaa
+  - afropop
+  - highlife
+  - dancehall
 image_path: 03_Resources/source_material/ArtistPortraits/gyakie_and_shatta_wale.jpg
 last_updated: '2025-12-28T02:00:44.045096'
 musical_connections:
   collaborators:
-  - Omah Lay
-  - Sarkodie
-  - Davido
+    - Omah Lay
+    - Sarkodie
+    - Davido
   influenced: []
   mentors:
-  - Nana Acheampong
-  - Charles Mensah Snr.
+    - Nana Acheampong
+    - Charles Mensah Snr.
 network_extracted: true
-origin: Accra, Ghana (Shatta Wale); Kumasi, Ghana (Gyakie)
+origin: 'Accra, Ghana (Shatta Wale); Kumasi, Ghana (Gyakie)'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Shatta_Wale[1]
-- https://en.wikipedia.org/wiki/Gyakie[2]
-- https://www.ghanaweb.com/person/Shatta-Wale-1246[4]
-- https://profileability.com/gyakie/[6]
+  - 'https://en.wikipedia.org/wiki/Shatta_Wale[1]'
+  - 'https://en.wikipedia.org/wiki/Gyakie[2]'
+  - 'https://www.ghanaweb.com/person/Shatta-Wale-1246[4]'
+  - 'https://profileability.com/gyakie/[6]'
 spotify_data:
   followers: 652278
   id: 42q0rYXtR561ypg1Fcw1PI
   popularity: 59
-  url: https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI
+  url: 'https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI'
 status: active
-title: gyakie & shatta wale
-
+title: Gyakie & Shatta Wale
+birth_place: 'Kumasi, Ghana, Ghana'
+birth_date: '1999-12-16'
+artist_type: band
 ---
 
 ![](gyakie_and_shatta_wale.jpg)

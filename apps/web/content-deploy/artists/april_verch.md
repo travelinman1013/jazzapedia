@@ -1,14 +1,14 @@
 ---
-title: APRIL VERCH
+title: April Verch
 wiki_slug: april-verch
 schema_version: 2
 artist_type: person
 status: active
-birth_place: Rankin
+birth_place: 'Rankin, Ontario, Canada'
 genres:
-- french pop
+  - french pop
 instruments:
-- lead vocals
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/april_verch.jpg
   caption: APRIL VERCH
@@ -29,62 +29,65 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Cody Walters
-  - Joe Newberry
-  - Members of the April Verch Band
-  - Tommy Hunter
-  - Mad Pudding
-  - Bowfire
-  - John McDermott
+    - Cody Walters
+    - Joe Newberry
+    - Members of the April Verch Band
+    - Tommy Hunter
+    - Mad Pudding
+    - Bowfire
+    - John McDermott
   influenced:
-  - Younger Canadian fiddlers and step dancers (general)
+    - Younger Canadian fiddlers and step dancers (general)
   mentors:
-  - Buster Brown
-  - Pauline Brown
-  - Matt Glaser
-  - Darol Anger
+    - Buster Brown
+    - Pauline Brown
+    - Matt Glaser
+    - Darol Anger
 spotify_data:
   followers: 66871
   id: 0bbvrSsm0Dh4erBbE1dhHD
   popularity: 46
-  url: https://open.spotify.com/artist/0bbvrSsm0Dh4erBbE1dhHD
+  url: 'https://open.spotify.com/artist/0bbvrSsm0Dh4erBbE1dhHD'
 discography_enriched: true
 top_tracks:
-- Chick Habit (Chick Habit)
-- Laisse Tomber Les Filles (Chick Habit)
-- Le Temps De L`Amour (Chick Habit)
-- While We're Young (Paris In April)
-- Deux Garçons Pour Une Fille (Chick Habit)
-- Tu Mens (Chick Habit)
-- Chick Habit (Gainsbourgsion)
-- Caribou (Chick Habit)
-- Cet Air-La (Chick Habit)
-- Surfing Castafiore
+  - Chick Habit (Chick Habit)
+  - Laisse Tomber Les Filles (Chick Habit)
+  - Le Temps De L`Amour (Chick Habit)
+  - While We're Young (Paris In April)
+  - Deux Garçons Pour Une Fille (Chick Habit)
+  - Tu Mens (Chick Habit)
+  - Chick Habit (Gainsbourgsion)
+  - Caribou (Chick Habit)
+  - Cet Air-La (Chick Habit)
+  - Surfing Castafiore
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/98e5e034-7b0d-41de-85b1-d4539eac6ea0
-  spotify: https://open.spotify.com/artist/0bbvrSsm0Dh4erBbE1dhHD
-  wikipedia: https://en.wikipedia.org/wiki/April_Verch
+  musicbrainz: 'https://musicbrainz.org/artist/98e5e034-7b0d-41de-85b1-d4539eac6ea0'
+  spotify: 'https://open.spotify.com/artist/0bbvrSsm0Dh4erBbE1dhHD'
+  wikipedia: 'https://en.wikipedia.org/wiki/April_Verch'
 image_path: 03_Resources/source_material/ArtistPortraits/april_verch.jpg
 biography_enhanced_at: '2025-12-15T01:20:32.047633'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://aprilverch.com/about-april/
-- https://aprilverch.com/wp-content/uploads/2021/07/April-Verch-Cody-Walters-Bio.pdf
-- https://en.wikipedia.org/wiki/April_Verch
-- https://www.karakundert.com/music-writing/bio-april-verch
-- https://www.savannahnow.com/story/news/2015/10/29/canadian-musician-april-verch-takes-pickin-parlor/13955581007/
-- https://nearnorthmusic.com/roster/april-verch/
-- https://folkalley.com/april-verch/
-- https://www.wmky.org/arts-culture/2019-07-12/april-verch
+  - 'https://aprilverch.com/about-april/'
+  - >-
+    https://aprilverch.com/wp-content/uploads/2021/07/April-Verch-Cody-Walters-Bio.pdf
+  - 'https://en.wikipedia.org/wiki/April_Verch'
+  - 'https://www.karakundert.com/music-writing/bio-april-verch'
+  - >-
+    https://www.savannahnow.com/story/news/2015/10/29/canadian-musician-april-verch-takes-pickin-parlor/13955581007/
+  - 'https://nearnorthmusic.com/roster/april-verch/'
+  - 'https://folkalley.com/april-verch/'
+  - 'https://www.wmky.org/arts-culture/2019-07-12/april-verch'
 network_extracted: true
 entry_created: '2025-12-15T01:20:32.047649'
 last_updated: '2025-12-23T08:16:04.871779'
 gender: Female
 musicbrainz_id: 98e5e034-7b0d-41de-85b1-d4539eac6ea0
 tags:
-- bluegrass
-- folk
+  - bluegrass
+  - folk
+birth_date: '1978-04-07'
 ---
 
 ![](april_verch.jpg)

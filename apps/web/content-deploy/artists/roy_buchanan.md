@@ -2,60 +2,62 @@
 artist_type: person
 biography_enhanced_at: '2025-12-27T01:28:51.530777'
 birth_date: '1939-09-23'
-birth_place: Ozark
+birth_place: 'Ozark, Arkansas, United States'
 death_date: '1988-08-14'
 enhancement_provider: perplexity
 entry_created: '2025-12-27T01:28:51.530791'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/82ad256f-8036-4318-98cb-e9b1e36c39e6
-  spotify: https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C
-  wikipedia: https://en.wikipedia.org/wiki/Roy_Buchanan
+  musicbrainz: 'https://musicbrainz.org/artist/82ad256f-8036-4318-98cb-e9b1e36c39e6'
+  spotify: 'https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C'
+  wikipedia: 'https://en.wikipedia.org/wiki/Roy_Buchanan'
 gender: Male
 genres:
-- blues
-- blues rock
-- classic blues
-- modern blues
+  - blues
+  - blues rock
+  - classic blues
+  - modern blues
 image_path: 03_Resources/source_material/ArtistPortraits/roy_buchanan.jpg
 instruments:
-- electric guitar
-- guitar
+  - electric guitar
+  - guitar
 last_updated: '2025-12-27T01:28:51.530792'
 musical_connections:
   collaborators:
-  - Dale Hawkins
-  - Ronnie Hawkins
-  - Bobby Gregg
-  - The Snakestretchers
+    - Dale Hawkins
+    - Ronnie Hawkins
+    - Bobby Gregg
+    - The Snakestretchers
   influenced:
-  - Robbie Robertson
-  - Jeff Beck
-  - Danny Gatton
+    - Robbie Robertson
+    - Jeff Beck
+    - Danny Gatton
   mentors:
-  - Johnny Otis
-  - Jimmy Nolen
-  - Pete Lewis
-  - Johnny 'Guitar' Watson
+    - Johnny Otis
+    - Jimmy Nolen
+    - Pete Lewis
+    - Johnny 'Guitar' Watson
 musicbrainz_id: 82ad256f-8036-4318-98cb-e9b1e36c39e6
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.alligator.com/artists/Roy-Buchanan/
-- https://www.theclanbuchanan.com/roy-buchanan
-- https://bluesmatters.com/blues-birthday-roy-buchanan-sept-23rd-1939/
-- https://encyclopediaofarkansas.net/entries/roy-buchanan-625/
-- https://www.vintageguitar.com/2817/roy-buchanan/
+  - 'https://www.alligator.com/artists/Roy-Buchanan/'
+  - 'https://www.theclanbuchanan.com/roy-buchanan'
+  - 'https://bluesmatters.com/blues-birthday-roy-buchanan-sept-23rd-1939/'
+  - 'https://encyclopediaofarkansas.net/entries/roy-buchanan-625/'
+  - 'https://www.vintageguitar.com/2817/roy-buchanan/'
 spotify_data:
   followers: 186445
   id: 0augulkuXFx1qPfb590w2C
   popularity: 43
-  url: https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C
+  url: 'https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C'
 status: active
 tags:
-- blues
-- blues rock
-- electric blues
-title: roy buchanan
+  - blues
+  - blues rock
+  - electric blues
+title: Roy Buchanan
+is_active: false
+origin: 'Pixley, California, United States'
 ---
 
 ![](roy_buchanan.jpg)

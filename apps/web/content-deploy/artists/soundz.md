@@ -1,16 +1,16 @@
 ---
-title: soundz
+title: Soundz
 wiki_slug: soundz
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1985-08-01'
-birth_place: Decatur
+birth_place: 'Lagos, Nigeria'
 genres:
-- afrobeats
-- afrobeat
-- afropop
-- afro soul
+  - afrobeats
+  - afrobeat
+  - afropop
+  - afro soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/soundz.jpg
   caption: soundz
@@ -32,47 +32,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Fave
-  - Laycon
+    - Fave
+    - Laycon
   influenced: []
   mentors:
-  - Maleek Berry
+    - Maleek Berry
 spotify_data:
   followers: 46318
   id: 6xjZjxAxA1nxvIBPbOpAa0
   popularity: 49
-  url: https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0
+  url: 'https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0'
 discography_enriched: true
 top_tracks:
-- Fever (Fever)
-- Attention (ATTENTION)
-- Pressure (In The Rough)
-- Down
-- Water
-- Blessings (Alubarika) (feat. Soundz)
-- Attention (In The Rough)
-- Kiss 'N' Tell
-- Attention 2.0 (ATTENTION)
-- at your Service
+  - Fever (Fever)
+  - Attention (ATTENTION)
+  - Pressure (In The Rough)
+  - Down
+  - Water
+  - Blessings (Alubarika) (feat. Soundz)
+  - Attention (In The Rough)
+  - Kiss 'N' Tell
+  - Attention 2.0 (ATTENTION)
+  - at your Service
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b9c3b72c-c171-443b-808b-af3591beb975
-  spotify: https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0
-  wikipedia: https://en.wikipedia.org/wiki/Soundz_(singer)
+  musicbrainz: 'https://musicbrainz.org/artist/b9c3b72c-c171-443b-808b-af3591beb975'
+  spotify: 'https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0'
+  wikipedia: 'https://en.wikipedia.org/wiki/Soundz_(singer)'
 image_path: 03_Resources/source_material/ArtistPortraits/soundz.jpg
 biography_enhanced_at: '2025-12-14T01:50:57.070190'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Soundz_(singer)
-- https://www.africanmusiclibrary.org/person/c4198782-8f08-4dff-801b-cf8d09aef73c
-- https://www.musicmetricsvault.com/artists/soundz/6xjZjxAxA1nxvIBPbOpAa0
+  - 'https://en.wikipedia.org/wiki/Soundz_(singer)'
+  - >-
+    https://www.africanmusiclibrary.org/person/c4198782-8f08-4dff-801b-cf8d09aef73c
+  - 'https://www.musicmetricsvault.com/artists/soundz/6xjZjxAxA1nxvIBPbOpAa0'
 network_extracted: true
 entry_created: '2025-12-14T01:50:57.070206'
 last_updated: '2025-12-23T08:16:15.960020'
 disambiguation: American record producer and rapper
 gender: Male
 musicbrainz_id: b9c3b72c-c171-443b-808b-af3591beb975
-
+origin: 'Ijebu, Ogun State, Nigeria'
 ---
 
 ![](soundz.jpg)

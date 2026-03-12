@@ -4,16 +4,16 @@ wiki_slug: george-lewis
 schema_version: 2
 status: active
 aliases: []
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- ragtime
-- swing music
-- jazz
+  - ragtime
+  - swing music
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/George_Lewis.jpg
   caption: George Lewis
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 125.2
   energy_avg: 0.524
@@ -29,59 +29,78 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Buddy Petit
-  - Chris Kelly
-  - Kid Ory
-  - Jim Robinson
-  - Lawrence Marrero
-  - Alcide Pavageau
-  - Henry 'Red' Allen
-  - Ken Colyer
+    - Buddy Petit
+    - Chris Kelly
+    - Kid Ory
+    - Jim Robinson
+    - Lawrence Marrero
+    - Alcide Pavageau
+    - Henry 'Red' Allen
+    - Ken Colyer
   influenced:
-  - Preservation Hall Jazz Band
-  - British Trad Jazz Scene
+    - Preservation Hall Jazz Band
+    - British Trad Jazz Scene
   mentors:
-  - Isadore Fritz
-  - Bunk Johnson
+    - Isadore Fritz
+    - Bunk Johnson
 related_artists: []
 spotify_data:
   followers: 4645
   id: 7mleIOAroBQWqO7SNrAUlt
   popularity: 27
-  url: https://open.spotify.com/artist/7mleIOAroBQWqO7SNrAUlt
+  url: 'https://open.spotify.com/artist/7mleIOAroBQWqO7SNrAUlt'
   verified: false
 discography_enriched: true
 albums_count: 10
 singles_count: 0
 top_tracks:
-- 'Down by the Riverside (Jazz At Preservation Hall: The George Lewis Band Of New Orleans)'
-- 'Burgundy Street Blues (Jazz At Preservation Hall: The George Lewis Band Of New Orleans)'
-- 'Salty Dog (Jazz At Preservation Hall: The George Lewis Band Of New Orleans)'
-- 'Winnin'' Boy Blues (Jazz At Preservation Hall: The George Lewis Band Of New Orleans)'
-- 'Careless Love (Jazz At Preservation Hall: The George Lewis Band Of New Orleans)'
-- 'St. Louis Blues (Jazz At Preservation Hall: The George Lewis Band Of New Orleans)'
-- 'Salutation March (Jazz At Preservation Hall: The George Lewis Band Of New Orleans)'
-- 'Pork Chop (Jazz At Preservation Hall: The George Lewis Band Of New Orleans)'
-- 'Listen to the Mockingbird (Jazz At Preservation Hall: The George Lewis Band Of New Orleans)'
-- 'In the Sweet by and By (Jazz At Preservation Hall: The George Lewis Band Of New Orleans)'
+  - >-
+    Down by the Riverside (Jazz At Preservation Hall: The George Lewis Band Of
+    New Orleans)
+  - >-
+    Burgundy Street Blues (Jazz At Preservation Hall: The George Lewis Band Of
+    New Orleans)
+  - 'Salty Dog (Jazz At Preservation Hall: The George Lewis Band Of New Orleans)'
+  - >-
+    Winnin' Boy Blues (Jazz At Preservation Hall: The George Lewis Band Of New
+    Orleans)
+  - >-
+    Careless Love (Jazz At Preservation Hall: The George Lewis Band Of New
+    Orleans)
+  - >-
+    St. Louis Blues (Jazz At Preservation Hall: The George Lewis Band Of New
+    Orleans)
+  - >-
+    Salutation March (Jazz At Preservation Hall: The George Lewis Band Of New
+    Orleans)
+  - 'Pork Chop (Jazz At Preservation Hall: The George Lewis Band Of New Orleans)'
+  - >-
+    Listen to the Mockingbird (Jazz At Preservation Hall: The George Lewis Band
+    Of New Orleans)
+  - >-
+    In the Sweet by and By (Jazz At Preservation Hall: The George Lewis Band Of
+    New Orleans)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/7mleIOAroBQWqO7SNrAUlt
-  wikipedia: https://en.wikipedia.org/wiki/George_Lewis_(clarinetist)
+  spotify: 'https://open.spotify.com/artist/7mleIOAroBQWqO7SNrAUlt'
+  wikipedia: 'https://en.wikipedia.org/wiki/George_Lewis_(clarinetist)'
 image_path: 03_Resources/source_material/ArtistPortraits/George_Lewis.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:58:57.737971'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://wbssmedia.com/artists/detail/1567
-- https://64parishes.org/entry/george-lewis
-- https://aaregistry.org/story/george-lewis-musician-born/
+  - 'https://wbssmedia.com/artists/detail/1567'
+  - 'https://64parishes.org/entry/george-lewis'
+  - 'https://aaregistry.org/story/george-lewis-musician-born/'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 10:37:27.660127
+entry_created: 2025-09-18T10:37:27.660Z
 last_updated: '2025-12-23T08:16:02.120713'
-
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1900-07-13'
+death_date: '1968-12-31'
+artist_type: person
 ---
 
 ![](George_Lewis.jpg)

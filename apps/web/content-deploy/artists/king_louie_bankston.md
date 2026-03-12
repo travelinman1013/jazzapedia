@@ -3,14 +3,14 @@ title: King Louie Bankston
 wiki_slug: king-louie-bankston
 schema_version: 2
 status: active
-birth_place: Harahan, Louisiana, United States
+birth_place: 'Harahan, Louisiana, United States'
 genres:
-- power pop
+  - power pop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/king_louie_bankston.jpg
   caption: King Louie Bankston
   background: solo_singer
-  origin: Harahan, Louisiana, United States
+  origin: 'Harahan, Louisiana, United States'
 audio_profile:
   tempo_avg: 120.3
   energy_avg: 0.701
@@ -26,49 +26,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Exploding Hearts
-  - Terry Six
-  - Oblivians members
-  - Jay Reatard
-  - Quintron and Miss Pussycat
+    - The Exploding Hearts
+    - Terry Six
+    - Oblivians members
+    - Jay Reatard
+    - Quintron and Miss Pussycat
   influenced:
-  - Underground rock musicians
+    - Underground rock musicians
   mentors:
-  - Alex Chilton
+    - Alex Chilton
 spotify_data:
   followers: 203
   id: 4VbE5hkyO9DD931caktpNf
   popularity: 2
-  url: https://open.spotify.com/artist/4VbE5hkyO9DD931caktpNf
+  url: 'https://open.spotify.com/artist/4VbE5hkyO9DD931caktpNf'
 discography_enriched: true
 top_tracks:
-- Negative Contact (Memphis Treet)
-- Gypsy Switch (Memphis Treet)
-- Trinkets (Harahan Fats)
-- Gentilly Woman (Harahan Fats)
-- Coke-a-Cola Cowboy (Harahan Fats)
-- Gone Too Far (Harahan Fats)
-- Memphis Treet (Memphis Treet)
-- Girl In The Holler (Memphis Treet)
-- Heart (Memphis Treet)
-- Fire On The Sun (Memphis Treet)
+  - Negative Contact (Memphis Treet)
+  - Gypsy Switch (Memphis Treet)
+  - Trinkets (Harahan Fats)
+  - Gentilly Woman (Harahan Fats)
+  - Coke-a-Cola Cowboy (Harahan Fats)
+  - Gone Too Far (Harahan Fats)
+  - Memphis Treet (Memphis Treet)
+  - Girl In The Holler (Memphis Treet)
+  - Heart (Memphis Treet)
+  - Fire On The Sun (Memphis Treet)
 external_urls:
-  spotify: https://open.spotify.com/artist/4VbE5hkyO9DD931caktpNf
+  spotify: 'https://open.spotify.com/artist/4VbE5hkyO9DD931caktpNf'
   wikipedia: Not provided in search results
 image_path: 03_Resources/source_material/ArtistPortraits/king_louie_bankston.jpg
 biography_enhanced_at: '2025-12-04T07:30:38.624657'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- 64parishes.org - Between the Guitar Solo and the Ooh-La-La
-- 'dailykos.com - IVH: King Louie Bankston / Harahan Fats'
-- antigravitymagazine.com - A King Louie Top 9
-- fasterandlouderblog.blogspot.com - King Louie's Missing Monuments
-- jhonijackson.blogspot.com - King Louie and the Fire Under His Ass
-- wweek.com - King Louie Bankston's Power Pop Comes to Life on His Posthumous Album
+  - 64parishes.org - Between the Guitar Solo and the Ooh-La-La
+  - 'dailykos.com - IVH: King Louie Bankston / Harahan Fats'
+  - antigravitymagazine.com - A King Louie Top 9
+  - fasterandlouderblog.blogspot.com - King Louie's Missing Monuments
+  - jhonijackson.blogspot.com - King Louie and the Fire Under His Ass
+  - >-
+    wweek.com - King Louie Bankston's Power Pop Comes to Life on His Posthumous
+    Album
 network_extracted: true
 entry_created: '2025-12-04T07:30:38.624667'
 last_updated: '2025-12-23T08:16:11.389582'
+birth_date: '1972-12-18'
+death_date: '2022-02-13'
+artist_type: person
 ---
 
 ![](king_louie_bankston.jpg)

@@ -2,54 +2,55 @@
 artist_type: person
 biography_enhanced_at: '2026-01-19T01:15:16.604381'
 birth_date: '1945'
-birth_place: Spanish Town
+birth_place: 'Spanish Town, Jamaica, United States'
 death_date: '1983-09-15'
 enhancement_provider: perplexity
 entry_created: '2026-01-19T01:15:16.604386'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/86f26c3e-c6ac-4829-ac22-f1a2133d4ffe
-  spotify: https://open.spotify.com/artist/6BkTUVaHHgKUAjc4U7xGUL
+  musicbrainz: 'https://musicbrainz.org/artist/86f26c3e-c6ac-4829-ac22-f1a2133d4ffe'
+  spotify: 'https://open.spotify.com/artist/6BkTUVaHHgKUAjc4U7xGUL'
   wikipedia: Not found in search results
 gender: Male
 genres:
-- dub
-- roots reggae
-- reggae
-- rocksteady
+  - dub
+  - roots reggae
+  - reggae
+  - rocksteady
 image_path: 03_Resources/source_material/ArtistPortraits/prince_far_i.jpg
 last_updated: '2026-01-19T01:15:16.604387'
 musical_connections:
   collaborators:
-  - Adrian Sherwood
-  - Suns of Arqa
-  - Singers & Players
-  - Roy Cousins
-  - Ari Up (The Slits)
+    - Adrian Sherwood
+    - Suns of Arqa
+    - Singers & Players
+    - Roy Cousins
+    - Ari Up (The Slits)
   influenced:
-  - Adrian Sherwood
+    - Adrian Sherwood
   mentors:
-  - Bunny Lee
-  - Coxsone Dodd
-  - Lloydie Slim
+    - Bunny Lee
+    - Coxsone Dodd
+    - Lloydie Slim
 musicbrainz_id: 86f26c3e-c6ac-4829-ac22-f1a2133d4ffe
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://kids.kiddle.co/Prince_Far_I
-- https://www.skysaw.org/onu/artists/personnel/princefari.html
-- https://www.yardie-reggae.com/ARTIST%20PAGES/PRINCE%20FAR%20I.htm
-- https://soundsystemculture.org/prince-far-i-interview/
+  - 'https://kids.kiddle.co/Prince_Far_I'
+  - 'https://www.skysaw.org/onu/artists/personnel/princefari.html'
+  - 'https://www.yardie-reggae.com/ARTIST%20PAGES/PRINCE%20FAR%20I.htm'
+  - 'https://soundsystemculture.org/prince-far-i-interview/'
 spotify_data:
   followers: 34182
   id: 6BkTUVaHHgKUAjc4U7xGUL
   popularity: 34
-  url: https://open.spotify.com/artist/6BkTUVaHHgKUAjc4U7xGUL
+  url: 'https://open.spotify.com/artist/6BkTUVaHHgKUAjc4U7xGUL'
 status: active
 tags:
-- deejay
-- dub
-- jamaican
+  - deejay
+  - dub
+  - jamaican
 title: Prince Far I
+is_active: false
 ---
 
 ![](prince_far_i.jpg)

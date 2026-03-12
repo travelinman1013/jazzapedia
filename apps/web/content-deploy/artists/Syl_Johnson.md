@@ -5,28 +5,28 @@ schema_version: 2
 status: deceased
 aliases: []
 birth_date: '1936-07-01'
-birth_place: Holly Springs, Mississippi, United States
+birth_place: 'Holly Springs, Mississippi, United States'
 death_date: '2022-02-06'
 years_active: 1959–2022
 genres:
-- soul
-- soul blues
+  - soul
+  - soul blues
 instruments:
-- guitar
-- harmonica
-- voice
+  - guitar
+  - harmonica
+  - voice
 occupation:
-- singer
-- record producer
-- guitarist
+  - singer
+  - record producer
+  - guitarist
 record_labels:
-- Hi Records
+  - Hi Records
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Syl_Johnson.jpg
   caption: Syl Johnson
   background: solo_singer
   born: '1936-07-01'
-  origin: Holly Springs, Mississippi, United States
+  origin: 'Holly Springs, Mississippi, United States'
   died: '2022-02-06'
 audio_profile:
   tempo_avg: 122.7
@@ -35,7 +35,7 @@ audio_profile:
   danceability_avg: 0.687
   acousticness_avg: 0.306
   instrumentalness_avg: 0.113
-  loudness_avg: -8.0
+  loudness_avg: -8
   speechiness_avg: 0.075
   liveness_avg: 0.155
   track_count: 50
@@ -43,63 +43,65 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Freddie King
-  - Jimmy Reed
-  - Willie Mitchell
-  - Hi Rhythm Section
-  - Syleena Johnson
+    - Freddie King
+    - Jimmy Reed
+    - Willie Mitchell
+    - Hi Rhythm Section
+    - Syleena Johnson
   influenced:
-  - Wu-Tang Clan
-  - Public Enemy
-  - Kool G Rap
-  - De La Soul
-  - Geto Boys
-  - Kid Rock
-  - Jay-Z
-  - Kanye West
+    - Wu-Tang Clan
+    - Public Enemy
+    - Kool G Rap
+    - De La Soul
+    - Geto Boys
+    - Kid Rock
+    - Jay-Z
+    - Kanye West
   mentors:
-  - Magic Sam
-  - Howlin’ Wolf
-  - Junior Wells
+    - Magic Sam
+    - Howlin’ Wolf
+    - Junior Wells
 related_artists: []
 spotify_data:
   followers: 62312
   id: 6XItHNeKXecnFpkJHOn5JL
   popularity: 44
-  url: https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL
+  url: 'https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL'
   verified: false
 discography_enriched: true
 albums_count: 14
 singles_count: 17
 top_tracks:
-- Soul Heaven (Complete Mythology)
-- We Do It Together (Aequoreus)
-- Is It Because I'm Black (Is It Because I'm Black)
-- I Hear the Love Chimes (Diamond in the Rough)
-- Concrete Reservation (Is It Because I'm Black)
-- Could I Be Falling in Love (Diamond in the Rough)
-- Different Strokes (Dresses Too Short)
-- Let Yourself Go (Diamond in the Rough)
-- Sexy Wayz (Bridge to a Legacy)
-- I Hate I Walked Away (Back for a Taste of Your Love)
+  - Soul Heaven (Complete Mythology)
+  - We Do It Together (Aequoreus)
+  - Is It Because I'm Black (Is It Because I'm Black)
+  - I Hear the Love Chimes (Diamond in the Rough)
+  - Concrete Reservation (Is It Because I'm Black)
+  - Could I Be Falling in Love (Diamond in the Rough)
+  - Different Strokes (Dresses Too Short)
+  - Let Yourself Go (Diamond in the Rough)
+  - Sexy Wayz (Bridge to a Legacy)
+  - I Hate I Walked Away (Back for a Taste of Your Love)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL
-  wikipedia: https://en.wikipedia.org/wiki/Syl_Johnson
+  spotify: 'https://open.spotify.com/artist/6XItHNeKXecnFpkJHOn5JL'
+  wikipedia: 'https://en.wikipedia.org/wiki/Syl_Johnson'
 image_path: 03_Resources/source_material/ArtistPortraits/Syl_Johnson.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:33:24.422020'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia
-- Numero Group
-- Garden & Gun
+  - Wikipedia
+  - Numero Group
+  - Garden & Gun
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 11:43:03.327607
+entry_created: 2025-09-18T11:43:03.327Z
 last_updated: '2025-12-23T08:16:03.977984'
-
+is_active: false
+origin: 'Chicago, Illinois, United States'
+artist_type: person
 ---
 
 ![](Syl_Johnson.jpg)

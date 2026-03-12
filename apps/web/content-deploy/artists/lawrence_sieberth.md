@@ -3,13 +3,17 @@ title: Lawrence Sieberth
 wiki_slug: lawrence-sieberth
 schema_version: 2
 status: active
-birth_place: Detroit, Michigan, USA (birthplace); New Orleans, Louisiana, USA (primary residence and career base)
+birth_place: >-
+  Detroit, Michigan, USA (birthplace); New Orleans, Louisiana, USA (primary
+  residence and career base)
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lawrence_sieberth.jpg
   caption: Lawrence Sieberth
   background: solo_singer
-  origin: Detroit, Michigan, USA (birthplace); New Orleans, Louisiana, USA (primary residence and career base)
+  origin: >-
+    Detroit, Michigan, USA (birthplace); New Orleans, Louisiana, USA (primary
+    residence and career base)
 audio_profile:
   tempo_avg: 112.7
   energy_avg: 0.411
@@ -25,54 +29,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Johnny Adams
-  - Charles Neville
-  - Allen Toussaint
-  - Irma Thomas
-  - Tony Dagradi
-  - John Vidacovich
-  - Herlin Riley
-  - Victor Goines
-  - Don Vappie
-  - Dickie Landry
+    - Johnny Adams
+    - Charles Neville
+    - Allen Toussaint
+    - Irma Thomas
+    - Tony Dagradi
+    - John Vidacovich
+    - Herlin Riley
+    - Victor Goines
+    - Don Vappie
+    - Dickie Landry
   influenced:
-  - Unknown
+    - Unknown
   mentors:
-  - Unknown
+    - Unknown
 spotify_data:
   followers: 74
   id: 2TqrrPrnhVRckhrGYP7jUD
   popularity: 0
-  url: https://open.spotify.com/artist/2TqrrPrnhVRckhrGYP7jUD
+  url: 'https://open.spotify.com/artist/2TqrrPrnhVRckhrGYP7jUD'
 discography_enriched: true
 top_tracks:
-- August (An Evening in Paris)
-- The Phantom (An Evening in Paris)
-- La Valse Parisienne (An Evening in Paris)
-- A Melody's Tale (An Evening in Paris)
-- 'Kinetic #8 (An Evening in Paris)'
-- Pastoral (An Evening in Paris)
-- The Singing Bowl Song (An Evening in Paris)
-- Lessons in the Fast Lane (An Evening in Paris)
-- Cubana Danza (Estrella Banda)
-- Hip Bop (Estrella Banda)
+  - August (An Evening in Paris)
+  - The Phantom (An Evening in Paris)
+  - La Valse Parisienne (An Evening in Paris)
+  - A Melody's Tale (An Evening in Paris)
+  - 'Kinetic #8 (An Evening in Paris)'
+  - Pastoral (An Evening in Paris)
+  - The Singing Bowl Song (An Evening in Paris)
+  - Lessons in the Fast Lane (An Evening in Paris)
+  - Cubana Danza (Estrella Banda)
+  - Hip Bop (Estrella Banda)
 external_urls:
-  spotify: https://open.spotify.com/artist/2TqrrPrnhVRckhrGYP7jUD
+  spotify: 'https://open.spotify.com/artist/2TqrrPrnhVRckhrGYP7jUD'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/lawrence_sieberth.jpg
 biography_enhanced_at: '2025-12-04T07:17:12.024167'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- ogdenmuseum.org - Lawrence Sieberth with Dickie Landry at Ogden After Hours
-- offbeat.com - Lawrence Sieberth, VooDooTek (Musik Blöc)
-- lawrencesieberth.com - About page
-- thevinyldistrict.com - An Evening in Paris from pianist Lawrence Sieberth
-- jazztimes.com - Lawrence Sieberth Creates His Own European Quartet
-- 'beckermusic.blogspot.com - VooDooTek: An Interview with Lawrence Sieberth'
+  - ogdenmuseum.org - Lawrence Sieberth with Dickie Landry at Ogden After Hours
+  - 'offbeat.com - Lawrence Sieberth, VooDooTek (Musik Blöc)'
+  - lawrencesieberth.com - About page
+  - thevinyldistrict.com - An Evening in Paris from pianist Lawrence Sieberth
+  - jazztimes.com - Lawrence Sieberth Creates His Own European Quartet
+  - 'beckermusic.blogspot.com - VooDooTek: An Interview with Lawrence Sieberth'
 network_extracted: true
 entry_created: '2025-12-04T07:17:12.024182'
 last_updated: '2025-12-23T08:16:11.655240'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](lawrence_sieberth.jpg)

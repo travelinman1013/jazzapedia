@@ -1,19 +1,19 @@
 ---
-title: michael burks
+title: Michael Burks
 wiki_slug: michael-burks
 schema_version: 2
 status: active
-birth_place: Milwaukee, Wisconsin, United States
+birth_place: 'Milwaukee, Wisconsin, United States'
 genres:
-- blues
-- modern blues
-- blues rock
-- soul blues
+  - blues
+  - modern blues
+  - blues rock
+  - soul blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/michael_burks.jpg
   caption: michael burks
   background: solo_singer
-  origin: Milwaukee, Wisconsin, United States
+  origin: 'Milwaukee, Wisconsin, United States'
 audio_profile:
   tempo_avg: 119.6
   energy_avg: 0.664
@@ -29,51 +29,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Johnnie Taylor
-  - O. V. Wright
-  - Marquise Knox
-  - Jim Gaines
-  - Bruce Iglauer
+    - Johnnie Taylor
+    - O. V. Wright
+    - Marquise Knox
+    - Jim Gaines
+    - Bruce Iglauer
   influenced:
-  - Marquise Knox
+    - Marquise Knox
   mentors:
-  - Frederick Burks
-  - Sonny Boy Williamson II
+    - Frederick Burks
+    - Sonny Boy Williamson II
 spotify_data:
   followers: 27261
   id: 19YeucN49a9jRiTyseG6a6
   popularity: 38
-  url: https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6
+  url: 'https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6'
 discography_enriched: true
 top_tracks:
-- Empty Promises (Iron Man)
-- Make It Rain (Make It Rain)
-- One More Chance (I Smell Smoke)
-- Don't Let It Be A Dream (Make It Rain)
-- I Smell Smoke (I Smell Smoke)
-- Since I Been Loving You (Show Of Strength)
-- Sara Smile (I'm a Bluesman)
-- Icepick Through My Heart (Iron Man)
-- Take A Chance On Me, Baby (Show Of Strength)
-- Love Disease (Iron Man)
+  - Empty Promises (Iron Man)
+  - Make It Rain (Make It Rain)
+  - One More Chance (I Smell Smoke)
+  - Don't Let It Be A Dream (Make It Rain)
+  - I Smell Smoke (I Smell Smoke)
+  - Since I Been Loving You (Show Of Strength)
+  - Sara Smile (I'm a Bluesman)
+  - Icepick Through My Heart (Iron Man)
+  - 'Take A Chance On Me, Baby (Show Of Strength)'
+  - Love Disease (Iron Man)
 external_urls:
-  spotify: https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6
-  wikipedia: https://en.wikipedia.org/wiki/Michael_Burks
+  spotify: 'https://open.spotify.com/artist/19YeucN49a9jRiTyseG6a6'
+  wikipedia: 'https://en.wikipedia.org/wiki/Michael_Burks'
 image_path: 03_Resources/source_material/ArtistPortraits/michael_burks.jpg
 biography_enhanced_at: '2025-10-19T10:48:43.586334'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://fromthevaults-boppinbob.blogspot.com/2022/07/michael-burks-born-30-july-1957.html
-- https://en.wikipedia.org/wiki/Michael_Burks
-- https://www.alligator.com/artists/Michael-Burks/
-- https://mojohand.com/glossary/michael-burks/
-- https://www.allmusic.com/artist/michael-burks-mn0000391241
-- https://jbonamassa.com/michael-burks-iron-man-blues/
-- https://iheart.com/artist/michael-burks-151926/
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2022/07/michael-burks-born-30-july-1957.html
+  - 'https://en.wikipedia.org/wiki/Michael_Burks'
+  - 'https://www.alligator.com/artists/Michael-Burks/'
+  - 'https://mojohand.com/glossary/michael-burks/'
+  - 'https://www.allmusic.com/artist/michael-burks-mn0000391241'
+  - 'https://jbonamassa.com/michael-burks-iron-man-blues/'
+  - 'https://iheart.com/artist/michael-burks-151926/'
 network_extracted: true
 entry_created: '2025-10-19T10:48:43.586343'
 last_updated: '2025-12-23T08:16:13.038172'
+birth_date: '1957-07-30'
+artist_type: person
 ---
 
 ![](michael_burks.jpg)

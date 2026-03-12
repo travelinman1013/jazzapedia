@@ -1,35 +1,35 @@
 ---
-title: sam cooke
+title: Sam Cooke
 wiki_slug: sam-cooke
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1931-01-22'
-birth_place: Clarksdale
+birth_place: 'Clarksdale, Mississippi, United States'
 death_date: '1964-12-11'
 genres:
-- motown
-- soul
+  - motown
+  - soul
 instruments:
-- guitar
-- lead vocals
-- spoken vocals
+  - guitar
+  - lead vocals
+  - spoken vocals
 associated_acts:
-- begin: '1950'
-  end: '1956'
-  instruments: []
-  mbid: 5aa8b4de-5e87-40c1-b230-e29e415578ec
-  name: The Soul Stirrers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7e1d7fc2-f03f-4caa-805d-ae1c933bec6e
-  name: The Highway Q.C.’s
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ccad995f-f372-4da9-9275-f4cbc2d6a973
-  name: The Pilgrim Travelers
+  - begin: '1950'
+    end: '1956'
+    instruments: []
+    mbid: 5aa8b4de-5e87-40c1-b230-e29e415578ec
+    name: The Soul Stirrers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7e1d7fc2-f03f-4caa-805d-ae1c933bec6e
+    name: The Highway Q.C.’s
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ccad995f-f372-4da9-9275-f4cbc2d6a973
+    name: The Pilgrim Travelers
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sam_cooke.jpg
   caption: sam cooke
@@ -43,7 +43,7 @@ audio_profile:
   valence_avg: 0.65
   danceability_avg: 0.538
   acousticness_avg: 0.708
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -10.1
   speechiness_avg: 0.055
   liveness_avg: 0.225
@@ -52,61 +52,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lou Rawls
-  - Bumps Blackwell
-  - The Soul Stirrers
+    - Lou Rawls
+    - Bumps Blackwell
+    - The Soul Stirrers
   influenced:
-  - Aretha Franklin
-  - Bobby Womack
-  - Al Green
-  - Otis Redding
-  - Stevie Wonder
-  - Marvin Gaye
+    - Aretha Franklin
+    - Bobby Womack
+    - Al Green
+    - Otis Redding
+    - Stevie Wonder
+    - Marvin Gaye
   mentors:
-  - R.H. Harris
-  - Nat King Cole
+    - R.H. Harris
+    - Nat King Cole
 spotify_data:
   followers: 1870274
   id: 6hnWRPzGGKiapVX1UCdEAC
   popularity: 66
-  url: https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC
+  url: 'https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC'
 discography_enriched: true
 top_tracks:
-- (What A) Wonderful World - Mono (The Wonderful World Of Sam Cooke)
-- A Change Is Gonna Come (Ain't That Good News)
-- 'Bring It On Home To Me (Sam Cooke: Portrait Of A Legend 1951-1964)'
-- (What A) Wonderful World
-- Nothing Can Change This Love (Mr. Soul)
-- '(What A) Wonderful World (Sam Cooke: Portrait Of A Legend 1951-1964)'
-- Bring It On Home to Me
-- 'You Send Me (Sam Cooke: Portrait Of A Legend 1951-1964)'
-- Twistin' the Night Away (Twistin' the Night Away)
-- 'Cupid (Sam Cooke: Portrait Of A Legend 1951-1964)'
+  - (What A) Wonderful World - Mono (The Wonderful World Of Sam Cooke)
+  - A Change Is Gonna Come (Ain't That Good News)
+  - 'Bring It On Home To Me (Sam Cooke: Portrait Of A Legend 1951-1964)'
+  - (What A) Wonderful World
+  - Nothing Can Change This Love (Mr. Soul)
+  - '(What A) Wonderful World (Sam Cooke: Portrait Of A Legend 1951-1964)'
+  - Bring It On Home to Me
+  - 'You Send Me (Sam Cooke: Portrait Of A Legend 1951-1964)'
+  - Twistin' the Night Away (Twistin' the Night Away)
+  - 'Cupid (Sam Cooke: Portrait Of A Legend 1951-1964)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6c8fd0be-d961-454c-aee0-4366a6dbc993
-  spotify: https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC
-  wikipedia: https://en.wikipedia.org/wiki/Sam_Cooke
+  musicbrainz: 'https://musicbrainz.org/artist/6c8fd0be-d961-454c-aee0-4366a6dbc993'
+  spotify: 'https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sam_Cooke'
 image_path: 03_Resources/source_material/ArtistPortraits/sam_cooke.jpg
 biography_enhanced_at: '2025-11-14T10:43:36.700831'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.britannica.com/biography/Sam-Cooke
-- https://www.biography.com/musicians/sam-cooke
-- https://en.wikipedia.org/wiki/Sam_Cooke
-- https://www.songhall.org/profiles/sam-cooke
-- https://www.udiscovermusic.com/stories/sam-cooke-soul-icon-industry-trailblazer/
+  - 'https://www.britannica.com/biography/Sam-Cooke'
+  - 'https://www.biography.com/musicians/sam-cooke'
+  - 'https://en.wikipedia.org/wiki/Sam_Cooke'
+  - 'https://www.songhall.org/profiles/sam-cooke'
+  - >-
+    https://www.udiscovermusic.com/stories/sam-cooke-soul-icon-industry-trailblazer/
 network_extracted: true
 entry_created: '2025-11-14T10:43:36.700847'
 last_updated: '2025-12-23T08:16:15.295058'
-disambiguation: American singer and songwriter, “King of Soul”
+disambiguation: 'American singer and songwriter, “King of Soul”'
 gender: Male
 musicbrainz_id: 6c8fd0be-d961-454c-aee0-4366a6dbc993
 tags:
-- black gospel
-- classic soul
-- early r&b
-
+  - black gospel
+  - classic soul
+  - early r&b
+is_active: false
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](sam_cooke.jpg)

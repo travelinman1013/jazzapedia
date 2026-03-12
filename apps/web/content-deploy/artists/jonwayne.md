@@ -5,10 +5,10 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1990-06-05'
-birth_place: La Habra
+birth_place: 'La Habra, California, United States'
 genres:
-- experimental hip hop
-- jazz rap
+  - experimental hip hop
+  - jazz rap
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jonwayne.jpg
   caption: Jonwayne
@@ -16,7 +16,7 @@ infobox:
   born: '1990-06-05'
   origin: La Habra
 audio_profile:
-  tempo_avg: 113.0
+  tempo_avg: 113
   energy_avg: 0.608
   valence_avg: 0.426
   danceability_avg: 0.575
@@ -30,45 +30,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Peanut Butter Wolf
-  - Homeboy Sandman
-  - Flying Lotus
-  - Samiyam
+    - Peanut Butter Wolf
+    - Homeboy Sandman
+    - Flying Lotus
+    - Samiyam
   influenced:
-  - Emerging LA beat scene artists
+    - Emerging LA beat scene artists
   mentors:
-  - Dibiase
-  - Ornette Coleman
+    - Dibiase
+    - Ornette Coleman
 spotify_data:
   followers: 117036
   id: 3i7IUsb5VsiJAKqX2Md9Fc
   popularity: 34
-  url: https://open.spotify.com/artist/3i7IUsb5VsiJAKqX2Md9Fc
+  url: 'https://open.spotify.com/artist/3i7IUsb5VsiJAKqX2Md9Fc'
 discography_enriched: true
 top_tracks:
-- That's O.K.
-- Afraid of Us (Rap Album Two)
-- These Words Are Everything (Rap Album Two)
-- Green Light
-- Andrew (Bowser)
-- Dirty Dan
-- TED Talk (Rap Album Two)
-- Passing Fancies (Cassette on Vinyl)
-- Black Magic (Rap Album One)
-- 40 Winks
+  - That's O.K.
+  - Afraid of Us (Rap Album Two)
+  - These Words Are Everything (Rap Album Two)
+  - Green Light
+  - Andrew (Bowser)
+  - Dirty Dan
+  - TED Talk (Rap Album Two)
+  - Passing Fancies (Cassette on Vinyl)
+  - Black Magic (Rap Album One)
+  - 40 Winks
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/70bd369d-f58a-48ab-96eb-299d9b89a3c7
-  spotify: https://open.spotify.com/artist/3i7IUsb5VsiJAKqX2Md9Fc
-  wikipedia: https://en.wikipedia.org/wiki/Jonwayne
+  musicbrainz: 'https://musicbrainz.org/artist/70bd369d-f58a-48ab-96eb-299d9b89a3c7'
+  spotify: 'https://open.spotify.com/artist/3i7IUsb5VsiJAKqX2Md9Fc'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jonwayne'
 image_path: 03_Resources/source_material/ArtistPortraits/jonwayne.jpg
 biography_enhanced_at: '2025-10-30T12:03:59.096477'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jonwayne
-- https://www.huckmag.com/article/jonwayne
-- https://signalkitchen.com/artist/jonwayne/
-- https://www.latimes.com/archives/blogs/pop-hiss/story/2011-09-14/jonwayne-drops-mixtape-featuring-flying-lotus-and-samiyam-beats
+  - 'https://en.wikipedia.org/wiki/Jonwayne'
+  - 'https://www.huckmag.com/article/jonwayne'
+  - 'https://signalkitchen.com/artist/jonwayne/'
+  - >-
+    https://www.latimes.com/archives/blogs/pop-hiss/story/2011-09-14/jonwayne-drops-mixtape-featuring-flying-lotus-and-samiyam-beats
 network_extracted: true
 entry_created: '2025-10-30T12:03:59.096482'
 last_updated: '2025-12-23T08:16:10.956015'

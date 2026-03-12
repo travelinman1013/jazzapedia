@@ -5,9 +5,9 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1950-08-12'
-birth_place: Dayton
+birth_place: 'Dayton, Ohio, United States'
 genres:
-- gospel
+  - gospel
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/dottie_peoples.jpg
   caption: Dottie Peoples
@@ -29,45 +29,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Rev. Dr. Jasper Williams, Jr.
-  - Shirley Caesar
-  - The Five Blind Boys from Alabama
+    - 'Rev. Dr. Jasper Williams, Jr.'
+    - Shirley Caesar
+    - The Five Blind Boys from Alabama
   influenced:
-  - Contemporary gospel artists (general)
+    - Contemporary gospel artists (general)
   mentors:
-  - Dorothy Norwood
+    - Dorothy Norwood
 spotify_data:
   followers: 70131
   id: 1te27TWYSqADLWW5ZDQfnb
   popularity: 28
-  url: https://open.spotify.com/artist/1te27TWYSqADLWW5ZDQfnb
+  url: 'https://open.spotify.com/artist/1te27TWYSqADLWW5ZDQfnb'
 discography_enriched: true
 top_tracks:
-- Closet Religion (Churchin' With Dottie)
-- Oh Lord Let Me Lean On You (Count On God)
-- God Can (God Can & God Will)
-- Testify (Testify)
-- I Want to Be Ready (Show Up & Show Out)
-- Little Wooden Church (Song) (Count On God)
-- Old Landmark (Live In Memphis "He Said It")
-- Handwriting On the Wall (Count On God)
-- Jesus What a Wonderful Child (Christmas With Dottie)
-- On Time God
+  - Closet Religion (Churchin' With Dottie)
+  - Oh Lord Let Me Lean On You (Count On God)
+  - God Can (God Can & God Will)
+  - Testify (Testify)
+  - I Want to Be Ready (Show Up & Show Out)
+  - Little Wooden Church (Song) (Count On God)
+  - Old Landmark (Live In Memphis "He Said It")
+  - Handwriting On the Wall (Count On God)
+  - Jesus What a Wonderful Child (Christmas With Dottie)
+  - On Time God
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4d9622fa-1d47-4086-bb3b-f35a3cbb1893
-  spotify: https://open.spotify.com/artist/1te27TWYSqADLWW5ZDQfnb
-  wikipedia: https://en.wikipedia.org/wiki/Dottie_Peoples
+  musicbrainz: 'https://musicbrainz.org/artist/4d9622fa-1d47-4086-bb3b-f35a3cbb1893'
+  spotify: 'https://open.spotify.com/artist/1te27TWYSqADLWW5ZDQfnb'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dottie_Peoples'
 image_path: 03_Resources/source_material/ArtistPortraits/dottie_peoples.jpg
 biography_enhanced_at: '2025-11-15T18:11:29.726306'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://kids.kiddle.co/Dottie_Peoples
-- https://www.crossrhythms.co.uk/articles/music/Dottie_Peoples_The_soulful_gospel_singer/7521/p1/
-- https://www.bmi.com/media/press/2002/christian_awards_dpeoples.doc
-- http://dottiepeoples.com/about/
-- https://www.georgiaencyclopedia.org/articles/arts-culture/dottie-peoples-b-ca-1950/
-- https://en.wikipedia.org/wiki/Dottie_Peoples
+  - 'https://kids.kiddle.co/Dottie_Peoples'
+  - >-
+    https://www.crossrhythms.co.uk/articles/music/Dottie_Peoples_The_soulful_gospel_singer/7521/p1/
+  - 'https://www.bmi.com/media/press/2002/christian_awards_dpeoples.doc'
+  - 'http://dottiepeoples.com/about/'
+  - >-
+    https://www.georgiaencyclopedia.org/articles/arts-culture/dottie-peoples-b-ca-1950/
+  - 'https://en.wikipedia.org/wiki/Dottie_Peoples'
 network_extracted: true
 entry_created: '2025-11-15T18:11:29.726317'
 last_updated: '2025-12-23T08:16:07.977939'

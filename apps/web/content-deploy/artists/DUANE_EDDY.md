@@ -5,31 +5,31 @@ schema_version: 2
 status: deceased
 aliases: []
 birth_date: '1938-04-26'
-birth_place: Corning, New York, United States
+birth_place: 'Corning, New York, United States'
 death_date: '2024-04-30'
 years_active: 1954–2024
 genres:
-- doo-wop
-- rockabilly
-- surf rock
+  - doo-wop
+  - rockabilly
+  - surf rock
 instruments:
-- guitar
+  - guitar
 occupation:
-- rock guitarist
-- musician
-- jazz guitarist
-- songwriter
-- recording artist
+  - rock guitarist
+  - musician
+  - jazz guitarist
+  - songwriter
+  - recording artist
 record_labels:
-- RCA Victor
+  - RCA Victor
 spouse:
-- Jessi Colter
+  - Jessi Colter
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Duane_Eddy.jpg
   caption: Duane Eddy
   background: non_vocal_instrumentalist
   born: '1938-04-26'
-  origin: Corning, New York, United States
+  origin: 'Corning, New York, United States'
   died: '2024-04-30'
 audio_profile:
   tempo_avg: 124.5
@@ -46,61 +46,65 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lee Hazlewood
-  - Steve Douglas
-  - The Rebels
-  - Art of Noise
-  - Ry Cooder
-  - Waylon Jennings and Willie Nelson
-  - Phil Everly
+    - Lee Hazlewood
+    - Steve Douglas
+    - The Rebels
+    - Art of Noise
+    - Ry Cooder
+    - Waylon Jennings and Willie Nelson
+    - Phil Everly
   influenced:
-  - George Harrison
-  - The Ventures
-  - Bruce Springsteen
-  - Mark Knopfler
-  - Dave Davies
-  - Hank Marvin
+    - George Harrison
+    - The Ventures
+    - Bruce Springsteen
+    - Mark Knopfler
+    - Dave Davies
+    - Hank Marvin
   mentors:
-  - Chet Atkins
-  - Gene Autry
+    - Chet Atkins
+    - Gene Autry
 related_artists: []
 spotify_data:
   followers: 112448
   id: 1I5Cu7bqjkRg85idwYsD91
   popularity: 46
-  url: https://open.spotify.com/artist/1I5Cu7bqjkRg85idwYsD91
+  url: 'https://open.spotify.com/artist/1I5Cu7bqjkRg85idwYsD91'
   verified: false
 discography_enriched: true
 albums_count: 21
 singles_count: 14
 top_tracks:
-- Peter Gunn (Especially for You)
-- Rebel Rouser
-- Rebel Rouser (Have 'Twangy' Guitar Will Travel)
-- Rebel Rouser (Boss Guitar)
-- Peter Gunn (feat. Duane Eddy) (In Visible Silence)
-- Moovin' and Groovin' (Have 'Twangy' Guitar Will Travel)
-- Stalkin' (Have 'Twangy' Guitar Will Travel)
-- Rebel Rouser
-- Peter Gunn (feat. Duane Eddy) - 2017 Remaster (In Visible Silence (Deluxe Edition))
-- Cannonball (Have 'Twangy' Guitar Will Travel)
+  - Peter Gunn (Especially for You)
+  - Rebel Rouser
+  - Rebel Rouser (Have 'Twangy' Guitar Will Travel)
+  - Rebel Rouser (Boss Guitar)
+  - Peter Gunn (feat. Duane Eddy) (In Visible Silence)
+  - Moovin' and Groovin' (Have 'Twangy' Guitar Will Travel)
+  - Stalkin' (Have 'Twangy' Guitar Will Travel)
+  - Rebel Rouser
+  - >-
+    Peter Gunn (feat. Duane Eddy) - 2017 Remaster (In Visible Silence (Deluxe
+    Edition))
+  - Cannonball (Have 'Twangy' Guitar Will Travel)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/1I5Cu7bqjkRg85idwYsD91
-  wikipedia: https://en.wikipedia.org/wiki/Duane_Eddy
+  spotify: 'https://open.spotify.com/artist/1I5Cu7bqjkRg85idwYsD91'
+  wikipedia: 'https://en.wikipedia.org/wiki/Duane_Eddy'
 image_path: 03_Resources/source_material/ArtistPortraits/Duane_Eddy.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:57:05.185073'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Duane_Eddy
-- https://www.bennysutton.com/guitarists/23-duane-eddy
-- https://www.history-of-rock.com/duane_eddy.htm
+  - 'https://en.wikipedia.org/wiki/Duane_Eddy'
+  - 'https://www.bennysutton.com/guitarists/23-duane-eddy'
+  - 'https://www.history-of-rock.com/duane_eddy.htm'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:54:35.849061
+entry_created: 2025-09-22T21:54:35.849Z
 last_updated: '2025-12-23T08:16:01.627628'
+is_active: false
+artist_type: person
 ---
 
 ![](Duane_Eddy.jpg)

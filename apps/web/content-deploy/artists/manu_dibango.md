@@ -1,68 +1,69 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c607c1ff-5130-4c06-a3e1-47a7996ecf73
-  name: L'African-Team
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c607c1ff-5130-4c06-a3e1-47a7996ecf73
+    name: L'African-Team
 biography_enhanced_at: '2026-01-17T02:00:51.129344'
 birth_date: '1933-12-12'
-birth_place: Douala
+birth_place: 'Douala, Cameroon'
 death_date: '2020-03-24'
 enhancement_provider: perplexity
 entry_created: '2026-01-17T02:00:51.129360'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/826b488f-5164-45ca-abc4-ab11b3c321eb
-  spotify: https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW
-  wikipedia: https://en.wikipedia.org/wiki/Manu_Dibango
+  musicbrainz: 'https://musicbrainz.org/artist/826b488f-5164-45ca-abc4-ab11b3c321eb'
+  spotify: 'https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW'
+  wikipedia: 'https://en.wikipedia.org/wiki/Manu_Dibango'
 gender: Male
 genres:
-- afrobeat
-- afropop
-- afro soul
+  - afrobeat
+  - afropop
+  - afro soul
 image_path: 03_Resources/source_material/ArtistPortraits/manu_dibango.jpg
 instruments:
-- piano
-- spoken vocals
+  - piano
+  - spoken vocals
 last_updated: '2026-01-17T02:00:51.129361'
 musical_connections:
   collaborators:
-  - Joseph Kabasele
-  - Fela Kuti
-  - Herbie Hancock
-  - Sly and Robbie
-  - Eliades Ochoa
-  - Nino Ferrer
+    - Joseph Kabasele
+    - Fela Kuti
+    - Herbie Hancock
+    - Sly and Robbie
+    - Eliades Ochoa
+    - Nino Ferrer
   influenced:
-  - Michael Jackson
-  - Kanye West
+    - Michael Jackson
+    - Kanye West
   mentors:
-  - Joseph Kabasele
-  - Duke Ellington
-  - Charlie Parker
+    - Joseph Kabasele
+    - Duke Ellington
+    - Charlie Parker
 musicbrainz_id: 826b488f-5164-45ca-abc4-ab11b3c321eb
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Manu_Dibango
-- https://downbeat.com/news/detail/in-memoriam-manu-dibango
-- https://www.selmer.fr/en/blogs/artistes/manu-dibango
-- https://www.afropop.org/articles/best-of-the-beat-on-afropop-manu-dibango
-- https://panm360.com/en/dossiers-360/five-sides-of-manu-dibango/
-- https://syos.co/en/blogs/news/tribute-to-manu-dibango
-- https://www.wpr.org/music/remembering-iconic-afro-pop-artist-manu-dibango
+  - 'https://en.wikipedia.org/wiki/Manu_Dibango'
+  - 'https://downbeat.com/news/detail/in-memoriam-manu-dibango'
+  - 'https://www.selmer.fr/en/blogs/artistes/manu-dibango'
+  - 'https://www.afropop.org/articles/best-of-the-beat-on-afropop-manu-dibango'
+  - 'https://panm360.com/en/dossiers-360/five-sides-of-manu-dibango/'
+  - 'https://syos.co/en/blogs/news/tribute-to-manu-dibango'
+  - 'https://www.wpr.org/music/remembering-iconic-afro-pop-artist-manu-dibango'
 spotify_data:
   followers: 111058
   id: 30UIjoCGuL3Fa5BOc3ayNW
   popularity: 45
-  url: https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW
+  url: 'https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW'
 status: active
 tags:
-- african rumba
-- afrobeat
-- afrofunk
+  - african rumba
+  - afrobeat
+  - afrofunk
 title: Manu Dibango
+is_active: false
 ---
 
 ![](manu_dibango.jpg)

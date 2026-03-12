@@ -3,15 +3,15 @@ title: Mike Farris
 wiki_slug: mike-farris
 schema_version: 2
 status: active
-birth_place: Tennessee, United States
+birth_place: 'Tennessee, United States'
 genres:
-- retro soul
-- modern blues
+  - retro soul
+  - modern blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/mike_farris.jpg
   caption: Mike Farris
   background: solo_singer
-  origin: Tennessee, United States
+  origin: 'Tennessee, United States'
 audio_profile:
   tempo_avg: 113.5
   energy_avg: 0.669
@@ -27,54 +27,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Patty Griffin
-  - Rodney Crowell
-  - Garry West
-  - Will McFarlane, Kelvin Holly, Wes Sheffield
+    - Patty Griffin
+    - Rodney Crowell
+    - Garry West
+    - 'Will McFarlane, Kelvin Holly, Wes Sheffield'
   influenced:
-  - Sam Cooke
-  - Otis Redding
-  - Bill Withers
-  - Tom Petty and the Heartbreakers
+    - Sam Cooke
+    - Otis Redding
+    - Bill Withers
+    - Tom Petty and the Heartbreakers
   mentors:
-  - Stevie Ray Vaughan
-  - Rose McGathy
+    - Stevie Ray Vaughan
+    - Rose McGathy
 spotify_data:
   followers: 8972
   id: 2lGlFTygMMk37JsYm8a46o
   popularity: 29
-  url: https://open.spotify.com/artist/2lGlFTygMMk37JsYm8a46o
+  url: 'https://open.spotify.com/artist/2lGlFTygMMk37JsYm8a46o'
 discography_enriched: true
 top_tracks:
-- Ease On (The Sound Of Muscle Shoals)
-- I Don't Know What You've Got (The Blues Album)
-- Swingin' (The Sound Of Muscle Shoals)
-- Bird In The Rain (The Sound Of Muscle Shoals)
-- I'll Come Runnin' (The Sound Of Muscle Shoals)
-- Her (The Sound Of Muscle Shoals)
-- Heavy On The Humble (The Sound Of Muscle Shoals)
-- Mercy Now (Shine For All The People)
-- Ease On
-- Bright Lights (The Sound Of Muscle Shoals)
+  - Ease On (The Sound Of Muscle Shoals)
+  - I Don't Know What You've Got (The Blues Album)
+  - Swingin' (The Sound Of Muscle Shoals)
+  - Bird In The Rain (The Sound Of Muscle Shoals)
+  - I'll Come Runnin' (The Sound Of Muscle Shoals)
+  - Her (The Sound Of Muscle Shoals)
+  - Heavy On The Humble (The Sound Of Muscle Shoals)
+  - Mercy Now (Shine For All The People)
+  - Ease On
+  - Bright Lights (The Sound Of Muscle Shoals)
 external_urls:
-  spotify: https://open.spotify.com/artist/2lGlFTygMMk37JsYm8a46o
+  spotify: 'https://open.spotify.com/artist/2lGlFTygMMk37JsYm8a46o'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/mike_farris.jpg
 biography_enhanced_at: '2025-10-30T11:55:33.179957'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- PitchFork Social
-- CCM Magazine
-- Americana UK
-- Compass Records
-- Mike Farris Music Official Website
-- Blues Blast Magazine
-- Ohio University Performing Arts
-- The Nature Conservancy Tennessee
+  - PitchFork Social
+  - CCM Magazine
+  - Americana UK
+  - Compass Records
+  - Mike Farris Music Official Website
+  - Blues Blast Magazine
+  - Ohio University Performing Arts
+  - The Nature Conservancy Tennessee
 network_extracted: true
 entry_created: '2025-10-30T11:55:33.179976'
 last_updated: '2025-12-23T08:16:13.132236'
+artist_type: person
 ---
 
 ![](mike_farris.jpg)

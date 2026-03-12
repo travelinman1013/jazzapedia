@@ -3,23 +3,23 @@ title: Soul Shouting Tommy
 wiki_slug: soul-shouting-tommy
 schema_version: 2
 status: active
-birth_place: Pittsburgh, Pennsylvania, United States (birthplace)
+birth_place: 'Pittsburgh, Pennsylvania, United States (birthplace)'
 genres:
-- northern soul
-- classic soul
+  - northern soul
+  - classic soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/soul_shouting_tommy.jpg
   caption: Soul Shouting Tommy
   background: solo_singer
-  origin: Pittsburgh, Pennsylvania, United States (birthplace)
+  origin: 'Pittsburgh, Pennsylvania, United States (birthplace)'
 audio_profile:
   tempo_avg: 114.3
   energy_avg: 0.513
   valence_avg: 0.56
   danceability_avg: 0.421
   acousticness_avg: 0.082
-  instrumentalness_avg: 0.0
-  loudness_avg: -8.0
+  instrumentalness_avg: 0
+  loudness_avg: -8
   speechiness_avg: 0.035
   liveness_avg: 0.227
   track_count: 4
@@ -27,42 +27,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Flamingos
-  - Russ Winstanley and Mike Walker
-  - The New Flamingos
-  - The Black Beltones
-  - The Twisted Wheels
+    - The Flamingos
+    - Russ Winstanley and Mike Walker
+    - The New Flamingos
+    - The Black Beltones
+    - The Twisted Wheels
   influenced: []
   mentors:
-  - Zeke Carey
+    - Zeke Carey
 spotify_data:
   followers: 8
   id: 3DHOI9lj3ZViA68Se9Iwn3
   popularity: 0
-  url: https://open.spotify.com/artist/3DHOI9lj3ZViA68Se9Iwn3
+  url: 'https://open.spotify.com/artist/3DHOI9lj3ZViA68Se9Iwn3'
 discography_enriched: true
 top_tracks:
-- To Be Loved by You (You Gave Me Reason to Live - Southern and Deep Soul from Louisiana)
-- I'm the Man (The Funky Side of Goldband/ANLA Records)
-- I'm the Man (The Funky Side of Goldband/ANLA Records)
-- To Be Loved By You (You Gave Me Reason To Live - Southern And Deep Soul From Louisiana)
+  - >-
+    To Be Loved by You (You Gave Me Reason to Live - Southern and Deep Soul from
+    Louisiana)
+  - I'm the Man (The Funky Side of Goldband/ANLA Records)
+  - I'm the Man (The Funky Side of Goldband/ANLA Records)
+  - >-
+    To Be Loved By You (You Gave Me Reason To Live - Southern And Deep Soul From
+    Louisiana)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1d038b98-ce8c-4d4d-99de-f2e36a119ea5
-  spotify: https://open.spotify.com/artist/3DHOI9lj3ZViA68Se9Iwn3
-  wikipedia: https://en.wikipedia.org/wiki/Tommy_Hunt
+  musicbrainz: 'https://musicbrainz.org/artist/1d038b98-ce8c-4d4d-99de-f2e36a119ea5'
+  spotify: 'https://open.spotify.com/artist/3DHOI9lj3ZViA68Se9Iwn3'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tommy_Hunt'
 image_path: ''
 biography_enhanced_at: '2025-11-15T18:39:40.555655'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Tommy Hunt
-- 'Beat Magazine - Tommy Hunt: From Doowop to Northern Soul'
-- MF Music - Tommy Hunt
-- Northern Soul Train - Tommy Hunt
+  - Wikipedia - Tommy Hunt
+  - 'Beat Magazine - Tommy Hunt: From Doowop to Northern Soul'
+  - MF Music - Tommy Hunt
+  - Northern Soul Train - Tommy Hunt
 network_extracted: true
 entry_created: '2025-11-15T18:39:40.555661'
 last_updated: '2025-12-23T08:16:15.942381'
 musicbrainz_id: 1d038b98-ce8c-4d4d-99de-f2e36a119ea5
+birth_date: '1933-06-18'
+death_date: '2025-02-12'
+artist_type: person
 ---
 
 ![]()

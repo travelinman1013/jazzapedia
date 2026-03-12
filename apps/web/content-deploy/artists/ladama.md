@@ -1,77 +1,77 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-04T01:56:41.296380'
 birth_date: '2014'
 enhancement_provider: perplexity
 entry_created: '2026-01-04T01:56:41.296386'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f2e83c5b-c54f-41dc-ae37-aad48e051cdf
-  spotify: https://open.spotify.com/artist/0qHwlOY3zWDwxzTEZfa0N4
-  wikipedia: https://en.wikipedia.org/wiki/Ladama
+  musicbrainz: 'https://musicbrainz.org/artist/f2e83c5b-c54f-41dc-ae37-aad48e051cdf'
+  spotify: 'https://open.spotify.com/artist/0qHwlOY3zWDwxzTEZfa0N4'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ladama'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/ladama.jpg
 instruments:
-- bass guitar
+  - bass guitar
 last_updated: '2026-01-04T01:56:41.296387'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2366b1d2-b615-4869-89eb-959217af84fd
-  name: Mafer Bandola
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c249defb-c7bc-4597-b690-c543e3ff350d
-  name: Lara Klaus
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 205a310f-ead6-4769-a17b-e1f8daae9456
-  name: Sara Lucas
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c3b9fa75-0fca-458f-8774-fcfc33bd27a3
-  name: Daniela Serna
-- begin: ''
-  end: ''
-  instruments:
-  - bass guitar
-  mbid: 319f3d27-3f14-449c-96ef-c45647fb1be1
-  name: Pat Swoboda
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2366b1d2-b615-4869-89eb-959217af84fd
+    name: Mafer Bandola
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c249defb-c7bc-4597-b690-c543e3ff350d
+    name: Lara Klaus
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 205a310f-ead6-4769-a17b-e1f8daae9456
+    name: Sara Lucas
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c3b9fa75-0fca-458f-8774-fcfc33bd27a3
+    name: Daniela Serna
+  - begin: ''
+    end: ''
+    instruments:
+      - bass guitar
+    mbid: 319f3d27-3f14-449c-96ef-c45647fb1be1
+    name: Pat Swoboda
 musical_connections:
   collaborators:
-  - Pat Swoboda
-  - Sara Lucas
-  - Kassin
-  - Betsayda Machado
-  - Spok
-  - Eliot Krimsky
+    - Pat Swoboda
+    - Sara Lucas
+    - Kassin
+    - Betsayda Machado
+    - Spok
+    - Eliot Krimsky
   influenced: []
   mentors:
-  - Petrona Martínez
+    - Petrona Martínez
 musicbrainz_id: f2e83c5b-c54f-41dc-ae37-aad48e051cdf
 network_extracted: true
-origin: New York
+origin: 'New York, New York, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Ladama
-- http://www.ladamaproject.org/english
-- https://teachrock.org/traceitback/ladama/
-- http://www.ladamaproject.org/press-kit
-- https://www.blog-waltonartscenter.org/wacblog/ladama10x10
+  - 'https://en.wikipedia.org/wiki/Ladama'
+  - 'http://www.ladamaproject.org/english'
+  - 'https://teachrock.org/traceitback/ladama/'
+  - 'http://www.ladamaproject.org/press-kit'
+  - 'https://www.blog-waltonartscenter.org/wacblog/ladama10x10'
 spotify_data:
   followers: 586
   id: 0qHwlOY3zWDwxzTEZfa0N4
   popularity: 5
-  url: https://open.spotify.com/artist/0qHwlOY3zWDwxzTEZfa0N4
+  url: 'https://open.spotify.com/artist/0qHwlOY3zWDwxzTEZfa0N4'
 status: active
 tags:
-- alternative
-- fusion
-- latin
-title: Ladama
+  - alternative
+  - fusion
+  - latin
+title: LADAMA
 ---
 
 ![](ladama.jpg)

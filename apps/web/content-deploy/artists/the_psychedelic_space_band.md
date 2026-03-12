@@ -4,7 +4,7 @@ wiki_slug: the-psychedelic-space-band
 schema_version: 2
 status: active
 genres:
-- uk garage
+  - uk garage
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_psychedelic_space_band.jpg
   caption: The Psychedelic Space Band
@@ -24,43 +24,44 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - DJ SunRa
+    - DJ SunRa
   influenced:
-  - Nebula Groove
+    - Nebula Groove
   mentors:
-  - MJ Cole
+    - MJ Cole
 spotify_data:
   followers: 42308
   id: 0hYtrPQ05Qu1N5r0QcpoDp
   popularity: 42
-  url: https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp
+  url: 'https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp'
 discography_enriched: true
 top_tracks:
-- Make Up (Make Up)
-- BAPPI (BAPPI)
-- Dream (ft. The Deep) (KINEMA)
-- Killing Me Slowly (Killing Me Slowly)
-- Sad Girls Club (Electric Pink)
-- Muah! (Muah!)
-- Girls Like Me (Electric Pink)
-- my_unnies_freestyle (my_unnies_freestyle)
-- Brand New House (Messy Room)
-- Birthday (Birthday)
+  - Make Up (Make Up)
+  - BAPPI (BAPPI)
+  - Dream (ft. The Deep) (KINEMA)
+  - Killing Me Slowly (Killing Me Slowly)
+  - Sad Girls Club (Electric Pink)
+  - Muah! (Muah!)
+  - Girls Like Me (Electric Pink)
+  - my_unnies_freestyle (my_unnies_freestyle)
+  - Brand New House (Messy Room)
+  - Birthday (Birthday)
 external_urls:
-  spotify: https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp
+  spotify: 'https://open.spotify.com/artist/0hYtrPQ05Qu1N5r0QcpoDp'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/the_psychedelic_space_band.jpg
 biography_enhanced_at: '2025-11-23T06:31:39.800045'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Spotify artist page (genre and popularity context)
-- MasterClass UK Garage Music Guide [8]
-- 'YouTube: A History of UK Garage with MJ Cole [4]'
+  - Spotify artist page (genre and popularity context)
+  - 'MasterClass UK Garage Music Guide [8]'
+  - 'YouTube: A History of UK Garage with MJ Cole [4]'
 network_extracted: true
 entry_created: '2025-11-23T06:31:39.800054'
 last_updated: '2025-12-23T08:16:17.075080'
-origin: London, England, United Kingdom
+origin: 'London, England, United Kingdom'
+artist_type: band
 ---
 
 ![](the_psychedelic_space_band.jpg)

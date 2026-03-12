@@ -1,72 +1,75 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8733fa82-b46e-40c3-88b6-31c37822b1d6
-  name: The BroadBand
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 22748106-ebfc-4bfe-93b7-3ad0286e7bdc
-  name: Lloyd Cole and the Negatives
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 40967eed-4dd2-4391-ad63-bce6d200e8af
-  name: Pixie Herculon
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8733fa82-b46e-40c3-88b6-31c37822b1d6
+    name: The BroadBand
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 22748106-ebfc-4bfe-93b7-3ad0286e7bdc
+    name: Lloyd Cole and the Negatives
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 40967eed-4dd2-4391-ad63-bce6d200e8af
+    name: Pixie Herculon
 biography_enhanced_at: '2025-12-31T01:49:34.103924'
 birth_date: '1959-01-16'
-birth_place: Denver
+birth_place: 'Denver, Colorado, United States'
 death_date: '2025-05-01'
 enhancement_provider: perplexity
 entry_created: '2025-12-31T01:49:34.103928'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2b2df5fd-7d41-4d78-a456-62c738bb4d9c
-  spotify: https://open.spotify.com/artist/16BoY9HfrtxVodHVdgad07
+  musicbrainz: 'https://musicbrainz.org/artist/2b2df5fd-7d41-4d78-a456-62c738bb4d9c'
+  spotify: 'https://open.spotify.com/artist/16BoY9HfrtxVodHVdgad07'
   wikipedia: Not found in search results
 gender: Female
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/jill_sobule.jpg
 instruments:
-- guitar
+  - guitar
 last_updated: '2025-12-31T01:49:34.103929'
 musical_connections:
   collaborators:
-  - Robin Eaton
-  - Richard Barone
-  - Julia Sweeney
-  - John Doe
-  - David Hajdu, Jonathan Lethem, Rick Moody, Mary Jo Salter, and Lucy Sante
-  - Warren Zevon
+    - Robin Eaton
+    - Richard Barone
+    - Julia Sweeney
+    - John Doe
+    - 'David Hajdu, Jonathan Lethem, Rick Moody, Mary Jo Salter, and Lucy Sante'
+    - Warren Zevon
   influenced:
-  - Countless younger singer-songwriters and independent musicians
+    - Countless younger singer-songwriters and independent musicians
   mentors:
-  - The Beatles, Sly Stone, and John Prine
+    - 'The Beatles, Sly Stone, and John Prine'
 musicbrainz_id: 2b2df5fd-7d41-4d78-a456-62c738bb4d9c
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.cpr.org/2025/05/02/denver-native-jill-sobule-the-singer-songwriter-known-for-i-kissed-a-girl-dies-in-a-fire/
-- https://cmhof.org/music-news/jill-sobule-dies-at-age-66/
-- https://www.ebar.com/story/154495
-- https://www.passim.org/artists/jill-sobule/
-- https://acousticguitar.com/remembering-the-groundbreaking-folk-pop-singer-songwriter-jill-sobule/
-- https://www.genxwatch.com/jill-sobule-social-legacy-far-beyond-one-hit/
-- https://www.jillsobule.com
-- https://colomusic.org/profile/jill-sobule/
+  - >-
+    https://www.cpr.org/2025/05/02/denver-native-jill-sobule-the-singer-songwriter-known-for-i-kissed-a-girl-dies-in-a-fire/
+  - 'https://cmhof.org/music-news/jill-sobule-dies-at-age-66/'
+  - 'https://www.ebar.com/story/154495'
+  - 'https://www.passim.org/artists/jill-sobule/'
+  - >-
+    https://acousticguitar.com/remembering-the-groundbreaking-folk-pop-singer-songwriter-jill-sobule/
+  - 'https://www.genxwatch.com/jill-sobule-social-legacy-far-beyond-one-hit/'
+  - 'https://www.jillsobule.com'
+  - 'https://colomusic.org/profile/jill-sobule/'
 spotify_data:
   followers: 16064
   id: 16BoY9HfrtxVodHVdgad07
   popularity: 31
-  url: https://open.spotify.com/artist/16BoY9HfrtxVodHVdgad07
+  url: 'https://open.spotify.com/artist/16BoY9HfrtxVodHVdgad07'
 status: active
 tags:
-- 2008 universal fire victim
-- christmas music
-- folk pop
+  - 2008 universal fire victim
+  - christmas music
+  - folk pop
 title: Jill Sobule
+is_active: false
 ---
 
 ![](jill_sobule.jpg)

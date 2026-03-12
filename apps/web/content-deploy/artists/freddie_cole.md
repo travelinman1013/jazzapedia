@@ -3,15 +3,15 @@ title: Freddie Cole
 wiki_slug: freddie-cole
 schema_version: 2
 status: active
-birth_place: Chicago, Illinois, United States
+birth_place: 'Chicago, Illinois, United States'
 genres:
-- vocal jazz
-- jazz
+  - vocal jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/freddie_cole.jpg
   caption: Freddie Cole
   background: solo_singer
-  origin: Chicago, Illinois, United States
+  origin: 'Chicago, Illinois, United States'
 audio_profile:
   tempo_avg: 105.4
   energy_avg: 0.225
@@ -27,52 +27,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jerry Byrd
-  - Curtis Boyd
-  - Herman Burney
-  - Jane Monheit
-  - Cedar Walton
-  - Angel 'Papo' Vazquez
+    - Jerry Byrd
+    - Curtis Boyd
+    - Herman Burney
+    - Jane Monheit
+    - Cedar Walton
+    - Angel 'Papo' Vazquez
   influenced:
-  - Elias Bailey
-  - Bernard Linnette
+    - Elias Bailey
+    - Bernard Linnette
   mentors:
-  - Nat 'King' Cole
-  - Frank Sinatra
-  - Billie Holiday
+    - Nat 'King' Cole
+    - Frank Sinatra
+    - Billie Holiday
 spotify_data:
   followers: 17184
   id: 2OsXkNVomm1hFGrdfBm0ZK
   popularity: 32
-  url: https://open.spotify.com/artist/2OsXkNVomm1hFGrdfBm0ZK
+  url: 'https://open.spotify.com/artist/2OsXkNVomm1hFGrdfBm0ZK'
 discography_enriched: true
 top_tracks:
-- Never, Never, Never (This and That)
-- My Mood Is You (My Mood Is You)
-- This Time I'm Gone for Good (Singing the Blues)
-- Waiter, Ask The Man To Play The Blues (Waiter, Ask the Man to Play the Blues)
-- Sunday Kind Of Love (This Is The Life)
-- I Loved You (One More Love Song)
-- I’ll Always Leave the Door a Little Open (My Mood Is You)
-- My First Impression of You (Talk to Me)
-- Easy To Love (This Is The Life)
-- Almost in Love (My Mood Is You)
+  - 'Never, Never, Never (This and That)'
+  - My Mood Is You (My Mood Is You)
+  - This Time I'm Gone for Good (Singing the Blues)
+  - >-
+    Waiter, Ask The Man To Play The Blues (Waiter, Ask the Man to Play the
+    Blues)
+  - Sunday Kind Of Love (This Is The Life)
+  - I Loved You (One More Love Song)
+  - I’ll Always Leave the Door a Little Open (My Mood Is You)
+  - My First Impression of You (Talk to Me)
+  - Easy To Love (This Is The Life)
+  - Almost in Love (My Mood Is You)
 external_urls:
-  spotify: https://open.spotify.com/artist/2OsXkNVomm1hFGrdfBm0ZK
-  wikipedia: https://en.wikipedia.org/wiki/Freddy_Cole
+  spotify: 'https://open.spotify.com/artist/2OsXkNVomm1hFGrdfBm0ZK'
+  wikipedia: 'https://en.wikipedia.org/wiki/Freddy_Cole'
 image_path: 03_Resources/source_material/ArtistPortraits/freddie_cole.jpg
 biography_enhanced_at: '2025-11-11T09:18:05.008105'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://concord.com/artist/freddy-cole/
-- http://www.riffsbeatsandcodas.com/blog/2020/7/6/freddy-cole-1931-2020-quietly-legendary
-- https://www.artsatl.org/appreciation-the-influence-of-jazz-icon-freddy-cole-was-as-wide-as-his-fame/
-- https://www.jango.com/music/Freddy+Cole/_full_bio
+  - 'https://concord.com/artist/freddy-cole/'
+  - >-
+    http://www.riffsbeatsandcodas.com/blog/2020/7/6/freddy-cole-1931-2020-quietly-legendary
+  - >-
+    https://www.artsatl.org/appreciation-the-influence-of-jazz-icon-freddy-cole-was-as-wide-as-his-fame/
+  - 'https://www.jango.com/music/Freddy+Cole/_full_bio'
 network_extracted: true
 entry_created: '2025-11-11T09:18:05.008117'
 last_updated: '2025-12-23T08:16:08.834219'
-
+birth_date: '1931-10-15'
+death_date: '2020-06-27'
+artist_type: person
 ---
 
 ![](freddie_cole.jpg)

@@ -1,22 +1,22 @@
 ---
-title: the morells
+title: The Morells
 wiki_slug: the-morells
 schema_version: 2
 status: active
 genres:
-- new wave
+  - new wave
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_morells.jpg
   caption: the morells
   background: solo_singer
 audio_profile:
-  tempo_avg: 119.0
+  tempo_avg: 119
   energy_avg: 0.574
   valence_avg: 0.591
   danceability_avg: 0.681
   acousticness_avg: 0.098
   instrumentalness_avg: 0.016
-  loudness_avg: -10.0
+  loudness_avg: -10
   speechiness_avg: 0.05
   liveness_avg: 0.13
   track_count: 50
@@ -24,48 +24,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lou Whitney
-  - D. Clinton Thompson
-  - Joe Terry
-  - Ron Gremp
+    - Lou Whitney
+    - D. Clinton Thompson
+    - Joe Terry
+    - Ron Gremp
   influenced:
-  - Springfield, MO music scene artists
+    - 'Springfield, MO music scene artists'
   mentors:
-  - American roots and R&B artists
+    - American roots and R&B artists
 spotify_data:
   followers: 182517
   id: 6scOultrkXrQsClcbGKM7e
   popularity: 41
-  url: https://open.spotify.com/artist/6scOultrkXrQsClcbGKM7e
+  url: 'https://open.spotify.com/artist/6scOultrkXrQsClcbGKM7e'
 discography_enriched: true
 top_tracks:
-- Only The Lonely - Remastered 1999 (All Four One (Remastered 1999))
-- Suddenly Last Summer (Little Robbers)
-- Total Control (The Motels)
-- Shame (Shock)
-- Remember The Nights (Little Robbers)
-- Suddenly Last Summer - Remastered 2002 (Classic Masters)
-- Take The L - Remastered 1999 (All Four One (Remastered 1999))
-- Suddenly Last Summer - Remastered 2002 (Essential Collection)
-- Mission Of Mercy - Remastered 1999 (All Four One (Remastered 1999))
-- Only The Lonely (Re-Recorded Version)
+  - Only The Lonely - Remastered 1999 (All Four One (Remastered 1999))
+  - Suddenly Last Summer (Little Robbers)
+  - Total Control (The Motels)
+  - Shame (Shock)
+  - Remember The Nights (Little Robbers)
+  - Suddenly Last Summer - Remastered 2002 (Classic Masters)
+  - Take The L - Remastered 1999 (All Four One (Remastered 1999))
+  - Suddenly Last Summer - Remastered 2002 (Essential Collection)
+  - Mission Of Mercy - Remastered 1999 (All Four One (Remastered 1999))
+  - Only The Lonely (Re-Recorded Version)
 external_urls:
-  spotify: https://open.spotify.com/artist/6scOultrkXrQsClcbGKM7e
-  wikipedia: https://en.wikipedia.org/wiki/The_Morells
+  spotify: 'https://open.spotify.com/artist/6scOultrkXrQsClcbGKM7e'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Morells'
 image_path: 03_Resources/source_material/ArtistPortraits/the_morells.jpg
 biography_enhanced_at: '2025-11-20T06:38:42.106135'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.heavyheadsrecords.com/post/a-short-introduction-to-the-morells
-- https://www.allmusic.com/artist/the-morells-mn0000479272
-- https://www.davehoekstra.com/2024/09/18/the-everlasting-joy-of-the-morells-of-springfield-mo/
-- https://musicbrainz.org/artist/39b8f256-aa9e-4cec-8fb6-9904293c48e1
-- https://www.rocky-52.net/chanteursm/morells.htm
+  - 'https://www.heavyheadsrecords.com/post/a-short-introduction-to-the-morells'
+  - 'https://www.allmusic.com/artist/the-morells-mn0000479272'
+  - >-
+    https://www.davehoekstra.com/2024/09/18/the-everlasting-joy-of-the-morells-of-springfield-mo/
+  - 'https://musicbrainz.org/artist/39b8f256-aa9e-4cec-8fb6-9904293c48e1'
+  - 'https://www.rocky-52.net/chanteursm/morells.htm'
 network_extracted: true
 entry_created: '2025-11-20T06:38:42.106141'
 last_updated: '2025-12-23T08:16:16.990227'
-origin: Springfield, Missouri, United States
+origin: 'Springfield, Missouri, United States'
+artist_type: band
 ---
 
 ![](the_morells.jpg)

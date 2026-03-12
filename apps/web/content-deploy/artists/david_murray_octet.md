@@ -4,89 +4,91 @@ biography_enhanced_at: '2026-01-15T01:15:51.988060'
 enhancement_provider: perplexity
 entry_created: '2026-01-15T01:15:51.988069'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6a33413b-0e85-4b3f-bff5-2f673ae14a5b
-  spotify: https://open.spotify.com/artist/3l224efDR8MLI6S2N1LrZQ
+  musicbrainz: 'https://musicbrainz.org/artist/6a33413b-0e85-4b3f-bff5-2f673ae14a5b'
+  spotify: 'https://open.spotify.com/artist/3l224efDR8MLI6S2N1LrZQ'
   wikipedia: ''
 genres:
-- free jazz
-- avant-garde
-- hard bop
-- jazz
+  - free jazz
+  - avant-garde
+  - hard bop
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/david_murray_octet.jpg
 instruments:
-- eponymous
-- original
-- drums (drum set)
+  - eponymous
+  - original
+  - drums (drum set)
 is_active: true
 last_updated: '2026-01-15T01:15:51.988070'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c6a841d8-78d4-4b76-afa0-b848afaf5edb
-  name: Olu Dara
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5b4ab9a2-c88e-4c08-a530-27695e94e445
-  name: D.D. Jackson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4c9542b3-8567-4fb3-97bc-deab79b159c3
-  name: Lawrence D. “Butch” Morris
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 89380b6c-0961-44ad-a7fe-f9115d840aac
-  name: David Murray
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bf3f2266-33e7-42ae-a1f2-4066ded25dca
-  name: Henry Threadgill
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 36e8e2e5-867d-4f11-816a-c62458bfabc2
-  name: Renzell Merritt
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c6a841d8-78d4-4b76-afa0-b848afaf5edb
+    name: Olu Dara
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5b4ab9a2-c88e-4c08-a530-27695e94e445
+    name: D.D. Jackson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4c9542b3-8567-4fb3-97bc-deab79b159c3
+    name: Lawrence D. “Butch” Morris
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 89380b6c-0961-44ad-a7fe-f9115d840aac
+    name: David Murray
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bf3f2266-33e7-42ae-a1f2-4066ded25dca
+    name: Henry Threadgill
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 36e8e2e5-867d-4f11-816a-c62458bfabc2
+    name: Renzell Merritt
 musical_connections:
   collaborators:
-  - Henry Threadgill
-  - Olu Dara
-  - George Lewis
-  - Julius Hemphill
-  - Oliver Lake
-  - Hamiet Bluiett
-  - Jack DeJohnette
+    - Henry Threadgill
+    - Olu Dara
+    - George Lewis
+    - Julius Hemphill
+    - Oliver Lake
+    - Hamiet Bluiett
+    - Jack DeJohnette
   influenced:
-  - Tim Berne
-  - Allen Lowe
+    - Tim Berne
+    - Allen Lowe
   mentors:
-  - Stanley Crouch
-  - Dewey Redman
-  - Albert Ayler
+    - Stanley Crouch
+    - Dewey Redman
+    - Albert Ayler
 musicbrainz_id: 6a33413b-0e85-4b3f-bff5-2f673ae14a5b
 network_extracted: true
-origin: Oakland, California, United States
+origin: 'New York City, New York, United States'
 primary_source: perplexity
 research_sources:
-- https://jazztimes.com/features/profiles/bright-moments-david-murray/
-- https://davidmurray.xyz/bio
-- https://jazzweekly.com/2016/08/david-murray-perfection/
-- https://wbssmedia.com/artists/detail/3851
-- https://www.theabsolutesound.com/articles/catching-up-with-david-murray/
-- https://tomhull.com/ocston/arch/vv/murray-20.php
+  - 'https://jazztimes.com/features/profiles/bright-moments-david-murray/'
+  - 'https://davidmurray.xyz/bio'
+  - 'https://jazzweekly.com/2016/08/david-murray-perfection/'
+  - 'https://wbssmedia.com/artists/detail/3851'
+  - 'https://www.theabsolutesound.com/articles/catching-up-with-david-murray/'
+  - 'https://tomhull.com/ocston/arch/vv/murray-20.php'
 spotify_data:
   followers: 1181
   id: 3l224efDR8MLI6S2N1LrZQ
   popularity: 5
-  url: https://open.spotify.com/artist/3l224efDR8MLI6S2N1LrZQ
+  url: 'https://open.spotify.com/artist/3l224efDR8MLI6S2N1LrZQ'
 status: active
 title: David Murray Octet
+birth_place: 'Oakland, California, United States'
+birth_date: '1955-02-19'
 ---
 
 ![](david_murray_octet.jpg)

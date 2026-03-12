@@ -3,46 +3,47 @@ biography_enhanced_at: '2026-01-20T01:27:09.707027'
 enhancement_provider: perplexity
 entry_created: '2026-01-20T01:27:09.707033'
 external_urls:
-  spotify: https://open.spotify.com/artist/1s1K3nAfVupmteRMDCPnx5
+  spotify: 'https://open.spotify.com/artist/1s1K3nAfVupmteRMDCPnx5'
   wikipedia: ''
 genres:
-- doo-wop
+  - doo-wop
 image_path: 03_Resources/source_material/ArtistPortraits/the_persuasions.jpg
 last_updated: '2026-01-20T01:27:09.707034'
 musical_connections:
   collaborators:
-  - Jerry Lawson
-  - Jimmy Hayes
-  - Joe Russell
-  - Jayotis Washington
-  - Herbert “Toubo” Rhoad
-  - Joni Mitchell
-  - Stevie Wonder
+    - Jerry Lawson
+    - Jimmy Hayes
+    - Joe Russell
+    - Jayotis Washington
+    - Herbert “Toubo” Rhoad
+    - Joni Mitchell
+    - Stevie Wonder
   influenced:
-  - Take 6
-  - Bobby McFerrin
-  - Boyz II Men
-  - Pentatonix
+    - Take 6
+    - Bobby McFerrin
+    - Boyz II Men
+    - Pentatonix
   mentors:
-  - Frank Zappa
-  - David Dashev
+    - Frank Zappa
+    - David Dashev
 network_extracted: true
-origin: Brooklyn, New York, USA
+origin: 'Brooklyn, New York, USA'
 primary_source: perplexity
 research_sources:
-- https://www.thepersuasions.org/about-the-persuasions/
-- https://backerentertainment.com/the-persuasions/
-- https://uaagency.com/hip-hop-rb/the-persuasions/
-- https://utopiaartists.com/artists/book-the-persuasions/
-- http://www2.portnet.org/portradio/persuasions.htm
-- https://blackpast.org/african-american-history/the-persuasions-1962-2017/
+  - 'https://www.thepersuasions.org/about-the-persuasions/'
+  - 'https://backerentertainment.com/the-persuasions/'
+  - 'https://uaagency.com/hip-hop-rb/the-persuasions/'
+  - 'https://utopiaartists.com/artists/book-the-persuasions/'
+  - 'http://www2.portnet.org/portradio/persuasions.htm'
+  - 'https://blackpast.org/african-american-history/the-persuasions-1962-2017/'
 spotify_data:
   followers: 8840
   id: 1s1K3nAfVupmteRMDCPnx5
   popularity: 24
-  url: https://open.spotify.com/artist/1s1K3nAfVupmteRMDCPnx5
+  url: 'https://open.spotify.com/artist/1s1K3nAfVupmteRMDCPnx5'
 status: active
 title: The Persuasions
+artist_type: band
 ---
 
 ![](the_persuasions.jpg)

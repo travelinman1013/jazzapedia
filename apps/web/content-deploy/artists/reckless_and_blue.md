@@ -3,44 +3,46 @@ biography_enhanced_at: '2026-01-08T01:39:07.686855'
 enhancement_provider: perplexity
 entry_created: '2026-01-08T01:39:07.686862'
 external_urls:
-  spotify: https://open.spotify.com/artist/3uy4zr6gKSjcSAjD65VSGo
+  spotify: 'https://open.spotify.com/artist/3uy4zr6gKSjcSAjD65VSGo'
   wikipedia: ''
 genres:
-- blues rock
-- blues
+  - blues rock
+  - blues
 image_path: 03_Resources/source_material/ArtistPortraits/reckless_and_blue.jpg
 last_updated: '2026-01-08T01:39:07.686863'
 musical_connections:
   collaborators:
-  - George Williams
-  - Shaunda Fry
-  - Steve Gaskin
-  - Dutch Smith
-  - Allen Anderson
-  - Radio Wigwam
+    - George Williams
+    - Shaunda Fry
+    - Steve Gaskin
+    - Dutch Smith
+    - Allen Anderson
+    - Radio Wigwam
   influenced:
-  - ''
+    - ''
   mentors:
-  - Howlin’ Wolf
-  - Samantha Fish
+    - Howlin’ Wolf
+    - Samantha Fish
 network_extracted: true
-origin: Denver, Colorado, United States
+origin: 'Denver, Colorado, United States'
 primary_source: perplexity
 research_sources:
-- https://focoma.org/artist/632/reckless-and-blue
-- https://recklessandblue.net
-- https://www.makingascene.org/reckless-and-blue-seven-deadly-gins/
-- https://coloradomusic.org/reckless-and-blues-variety-blues-band-is-combos-featured-member-this-month/
-- https://recklessandblue.net/electronic-press-kit
-- https://www.sflmusic.com/reckless-and-blue/
-- https://www.reverbnation.com/recklessandblue9
+  - 'https://focoma.org/artist/632/reckless-and-blue'
+  - 'https://recklessandblue.net'
+  - 'https://www.makingascene.org/reckless-and-blue-seven-deadly-gins/'
+  - >-
+    https://coloradomusic.org/reckless-and-blues-variety-blues-band-is-combos-featured-member-this-month/
+  - 'https://recklessandblue.net/electronic-press-kit'
+  - 'https://www.sflmusic.com/reckless-and-blue/'
+  - 'https://www.reverbnation.com/recklessandblue9'
 spotify_data:
   followers: 44
   id: 3uy4zr6gKSjcSAjD65VSGo
   popularity: 2
-  url: https://open.spotify.com/artist/3uy4zr6gKSjcSAjD65VSGo
+  url: 'https://open.spotify.com/artist/3uy4zr6gKSjcSAjD65VSGo'
 status: active
 title: Reckless And Blue
+artist_type: band
 ---
 
 ![](reckless_and_blue.jpg)

@@ -1,16 +1,16 @@
 ---
-title: nick lucas
+title: Nick Lucas
 wiki_slug: nick-lucas
 schema_version: 2
 status: active
-birth_place: Newark, New Jersey, United States
+birth_place: 'Newark, New Jersey, United States'
 genres:
-- ragtime
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/nick_lucas.jpg
   caption: nick lucas
   background: solo_singer
-  origin: Newark, New Jersey, United States
+  origin: 'Newark, New Jersey, United States'
 audio_profile:
   tempo_avg: 102.4
   energy_avg: 0.215
@@ -26,57 +26,65 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Frank Lucanese (Frank Lucas)
-  - Ted Fio Rito
-  - Vincent Lopez
-  - Vernon Country Club Orchestra (New York ensemble)
-  - Sam Lanin and his orchestra
-  - Miff Mole, Red Nichols, Arthur Fields, Rube Bloom, Tommy and Jimmy Dorsey
-  - Russo–Fiorito Orchestra
-  - Warner Bros. (film studio)
-  - Universal Pictures
-  - Soundies Corporation of America
-  - Tiny Tim
+    - Frank Lucanese (Frank Lucas)
+    - Ted Fio Rito
+    - Vincent Lopez
+    - Vernon Country Club Orchestra (New York ensemble)
+    - Sam Lanin and his orchestra
+    - 'Miff Mole, Red Nichols, Arthur Fields, Rube Bloom, Tommy and Jimmy Dorsey'
+    - Russo–Fiorito Orchestra
+    - Warner Bros. (film studio)
+    - Universal Pictures
+    - Soundies Corporation of America
+    - Tiny Tim
   influenced:
-  - Gene Autry
-  - Tiny Tim
-  - Doc Watson (and later fingerstyle/flatpicking guitarists)
+    - Gene Autry
+    - Tiny Tim
+    - Doc Watson (and later fingerstyle/flatpicking guitarists)
   mentors:
-  - Thomas Edison
+    - Thomas Edison
 spotify_data:
   followers: 3306
   id: 0QMxshFmGwF4vcedM4pHEw
   popularity: 20
-  url: https://open.spotify.com/artist/0QMxshFmGwF4vcedM4pHEw
+  url: 'https://open.spotify.com/artist/0QMxshFmGwF4vcedM4pHEw'
 discography_enriched: true
 top_tracks:
-- Telling It to the Daises (Recorded May 1930) (1920’s Jazz Vocals & Guitar (Encore 3) [Recorded 1928-1932])
-- 'Tiptoe Through The Tulips (Nick Lucas: Painting The Clouds)'
-- Tiptoe Through The Tulips (Sleepy Time Gal)
-- I Called to Say Goodnight (Sleepy Time Gal)
-- Tip Toe Thru' The Tulips - (Alternate Take) (Sleepy Time Gal)
-- Tip Toe Through the Tulips (From "The Walking Dead" Season 6 Episode 8)
-- Tiptoe Through the Tulips
-- I Called to Say Goodnight (Recorded December 1932) (1920’s Jazz Vocals & Guitar (Encore 3) [Recorded 1928-1932])
-- Tip Toe Thru' The Tulips (Souvenir Album)
-- Tip Toe Through The Tulips
+  - >-
+    Telling It to the Daises (Recorded May 1930) (1920’s Jazz Vocals & Guitar
+    (Encore 3) [Recorded 1928-1932])
+  - 'Tiptoe Through The Tulips (Nick Lucas: Painting The Clouds)'
+  - Tiptoe Through The Tulips (Sleepy Time Gal)
+  - I Called to Say Goodnight (Sleepy Time Gal)
+  - Tip Toe Thru' The Tulips - (Alternate Take) (Sleepy Time Gal)
+  - Tip Toe Through the Tulips (From "The Walking Dead" Season 6 Episode 8)
+  - Tiptoe Through the Tulips
+  - >-
+    I Called to Say Goodnight (Recorded December 1932) (1920’s Jazz Vocals &
+    Guitar (Encore 3) [Recorded 1928-1932])
+  - Tip Toe Thru' The Tulips (Souvenir Album)
+  - Tip Toe Through The Tulips
 external_urls:
-  spotify: https://open.spotify.com/artist/0QMxshFmGwF4vcedM4pHEw
-  wikipedia: https://en.wikipedia.org/wiki/Nick_Lucas
+  spotify: 'https://open.spotify.com/artist/0QMxshFmGwF4vcedM4pHEw'
+  wikipedia: 'https://en.wikipedia.org/wiki/Nick_Lucas'
 image_path: 03_Resources/source_material/ArtistPortraits/nick_lucas.jpg
 biography_enhanced_at: '2025-12-06T05:54:50.404658'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- IMDb – Nick Lucas Biography[1]
-- Official-style biography at nicklucas.com[2]
-- 'Acoustic Guitar – “Picking the Guitar: Tackling a Classic Steel-String Instrumental”[3]'
-- The Syncopated Times – Nick Lucas profile[4]
-- 'Old Time Blues – Brunswick 6049: Nick Lucas and his Crooning Troubadours[5]'
-- Last.fm – Nick Lucas biography overview[7]
+  - 'IMDb – Nick Lucas Biography[1]'
+  - 'Official-style biography at nicklucas.com[2]'
+  - >-
+    Acoustic Guitar – “Picking the Guitar: Tackling a Classic Steel-String
+    Instrumental”[3]
+  - 'The Syncopated Times – Nick Lucas profile[4]'
+  - 'Old Time Blues – Brunswick 6049: Nick Lucas and his Crooning Troubadours[5]'
+  - 'Last.fm – Nick Lucas biography overview[7]'
 network_extracted: true
 entry_created: '2025-12-06T05:54:50.404666'
 last_updated: '2025-12-23T08:16:13.558178'
+birth_date: '1897-08-22'
+artist_type: person
 ---
 
 ![](nick_lucas.jpg)

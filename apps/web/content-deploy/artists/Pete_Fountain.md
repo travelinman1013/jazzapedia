@@ -2,20 +2,20 @@
 title: Pete Fountain
 wiki_slug: pete-fountain
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1930-07-03'
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 death_date: '2016-08-06'
 genres:
-- big band
-- ragtime
+  - big band
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Pete_Fountain.jpg
   caption: Pete Fountain
   background: solo_singer
   born: '1930-07-03'
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
   died: '2016-08-06'
 audio_profile:
   tempo_avg: 110.1
@@ -24,7 +24,7 @@ audio_profile:
   danceability_avg: 0.549
   acousticness_avg: 0.761
   instrumentalness_avg: 0.448
-  loudness_avg: -12.0
+  loudness_avg: -12
   speechiness_avg: 0.048
   liveness_avg: 0.177
   track_count: 77
@@ -32,46 +32,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - George Girard
-  - Al Hirt
-  - Lawrence Welk
-  - Monk Hazel
+    - George Girard
+    - Al Hirt
+    - Lawrence Welk
+    - Monk Hazel
   influenced:
-  - Tim Laughlin
+    - Tim Laughlin
   mentors:
-  - Benny Goodman
-  - Irving Fazola
+    - Benny Goodman
+    - Irving Fazola
 spotify_data:
   followers: 12771
   id: 60dYNEvXzIl38BKZoW8HYd
   popularity: 29
-  url: https://open.spotify.com/artist/60dYNEvXzIl38BKZoW8HYd
+  url: 'https://open.spotify.com/artist/60dYNEvXzIl38BKZoW8HYd'
 discography_enriched: true
 top_tracks:
-- You're Nobody 'Til Somebody Loves You
-- A Closer Walk (Pete Fountain's New Orleans)
-- Stranger On The Shore
-- Lazy River (Pete Fountain Ultimate Collection)
-- Just a Closer Walk With Thee (New Orleans Jazz Collection - French Quarter Favorites)
-- No Eres Nadie Hasta Que Alguien Te Ama (Mood Indigo)
-- Walking Through New Orleans (Mr. New Orleans)
-- Do You Know What It Means To Miss New Orleans (Pete Fountain's New Orleans)
-- Basin Street Blues (Pete Fountain's New Orleans)
-- 'Lazy River - Remastered (Anthology: The Definitive Collection (Remastered))'
+  - You're Nobody 'Til Somebody Loves You
+  - A Closer Walk (Pete Fountain's New Orleans)
+  - Stranger On The Shore
+  - Lazy River (Pete Fountain Ultimate Collection)
+  - >-
+    Just a Closer Walk With Thee (New Orleans Jazz Collection - French Quarter
+    Favorites)
+  - No Eres Nadie Hasta Que Alguien Te Ama (Mood Indigo)
+  - Walking Through New Orleans (Mr. New Orleans)
+  - Do You Know What It Means To Miss New Orleans (Pete Fountain's New Orleans)
+  - Basin Street Blues (Pete Fountain's New Orleans)
+  - 'Lazy River - Remastered (Anthology: The Definitive Collection (Remastered))'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8c72d1ca-f10e-44db-8c8c-b7176313eaf8
-  spotify: https://open.spotify.com/artist/60dYNEvXzIl38BKZoW8HYd
-  wikipedia: https://en.wikipedia.org/wiki/Pete_Fountain
+  musicbrainz: 'https://musicbrainz.org/artist/8c72d1ca-f10e-44db-8c8c-b7176313eaf8'
+  spotify: 'https://open.spotify.com/artist/60dYNEvXzIl38BKZoW8HYd'
+  wikipedia: 'https://en.wikipedia.org/wiki/Pete_Fountain'
 image_path: 03_Resources/source_material/ArtistPortraits/Pete_Fountain.jpg
 biography_enhanced_at: '2025-10-19T11:30:14.335665'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Pete_Fountain
-- https://64parishes.org/mr-new-orleans-pete-fountain
-- https://gallatinstreetrecords.squarespace.com/pete-fountain
-- https://syncopatedtimes.com/pete-fountain/
-- https://www.allaboutjazz.com/musicians/pete-fountain
+  - 'https://en.wikipedia.org/wiki/Pete_Fountain'
+  - 'https://64parishes.org/mr-new-orleans-pete-fountain'
+  - 'https://gallatinstreetrecords.squarespace.com/pete-fountain'
+  - 'https://syncopatedtimes.com/pete-fountain/'
+  - 'https://www.allaboutjazz.com/musicians/pete-fountain'
 network_extracted: true
 entry_created: '2025-10-19T11:30:14.335689'
 last_updated: '2025-12-23T08:16:03.560746'
@@ -79,8 +81,9 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:40:54.736881'
 musicbrainz_id: 8c72d1ca-f10e-44db-8c8c-b7176313eaf8
 tags:
-- jazz
-
+  - jazz
+is_active: false
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](Pete_Fountain.jpg)

@@ -2,58 +2,60 @@
 artist_type: person
 biography_enhanced_at: '2026-01-08T01:31:23.729619'
 birth_date: '1978-02-10'
-birth_place: Iowa City
+birth_place: 'Iowa City, Iowa, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-08T01:31:23.729624'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/aee6370c-50bd-4628-bd6f-cfaba4821eb1
-  spotify: https://open.spotify.com/artist/3PyCmy5F0chkQuLQPtHfTs
-  wikipedia: https://en.wikipedia.org/wiki/Sharel_Cassity
+  musicbrainz: 'https://musicbrainz.org/artist/aee6370c-50bd-4628-bd6f-cfaba4821eb1'
+  spotify: 'https://open.spotify.com/artist/3PyCmy5F0chkQuLQPtHfTs'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sharel_Cassity'
 gender: Female
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/sharel_cassity.jpg
 last_updated: '2026-01-08T01:31:23.729625'
 musical_connections:
   collaborators:
-  - Dizzy Gillespie All-Star Big Band / Dizzy Gillespie Afro Latin Experience
-  - Roy Hargrove
-  - Nicholas Payton
-  - DIVA Jazz Orchestra
-  - Cyrus Chestnut
-  - Natalie Merchant
-  - Herbie Hancock
-  - Wynton Marsalis and Jazz at Lincoln Center Orchestra
-  - Ingrid Jensen and Mark Whitfield
-  - Jeremy Pelt, Dwayne Burno, Michael Dease, Orrin Evans, E.J. Strickland
+    - Dizzy Gillespie All-Star Big Band / Dizzy Gillespie Afro Latin Experience
+    - Roy Hargrove
+    - Nicholas Payton
+    - DIVA Jazz Orchestra
+    - Cyrus Chestnut
+    - Natalie Merchant
+    - Herbie Hancock
+    - Wynton Marsalis and Jazz at Lincoln Center Orchestra
+    - Ingrid Jensen and Mark Whitfield
+    - 'Jeremy Pelt, Dwayne Burno, Michael Dease, Orrin Evans, E.J. Strickland'
   influenced:
-  - Students of Jazz Up! / Jazz Up Institute
-  - University students at DePaul University, Columbia College Chicago, and Elgin
-    Community College
+    - Students of Jazz Up! / Jazz Up Institute
+    - >-
+      University students at DePaul University, Columbia College Chicago, and
+      Elgin Community College
   mentors:
-  - Jimmy Heath
-  - Dizzy Gillespie (legacy/mentorship through his band and philosophy)
-  - James Moody
+    - Jimmy Heath
+    - Dizzy Gillespie (legacy/mentorship through his band and philosophy)
+    - James Moody
 musicbrainz_id: aee6370c-50bd-4628-bd6f-cfaba4821eb1
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.colum.edu/news-and-events/articles/2022/Music-Instructor-and-Saxophonist-Sharel-Cassity-on-the-Transformative-Magic-of-Jazz
-- https://en.wikipedia.org/wiki/Sharel_Cassity
-- https://www.yamaha.com/artists/sharelcassity.html
-- https://www.allaboutjazz.com/musicians/sharel-cassity/
-- https://lied.ku.edu/event/cassity-johnson-jfjs-tue/
-- https://www.sharelcassity.com/about
-- https://downbeat.com/news/detail/sharel-cassity-finds-comfort
-- https://www.juilliard.edu/news/131211/spotlight-sharel-cassity
-- https://www.smallslive.com/artists/174-sharel-cassity/
+  - >-
+    https://www.colum.edu/news-and-events/articles/2022/Music-Instructor-and-Saxophonist-Sharel-Cassity-on-the-Transformative-Magic-of-Jazz
+  - 'https://en.wikipedia.org/wiki/Sharel_Cassity'
+  - 'https://www.yamaha.com/artists/sharelcassity.html'
+  - 'https://www.allaboutjazz.com/musicians/sharel-cassity/'
+  - 'https://lied.ku.edu/event/cassity-johnson-jfjs-tue/'
+  - 'https://www.sharelcassity.com/about'
+  - 'https://downbeat.com/news/detail/sharel-cassity-finds-comfort'
+  - 'https://www.juilliard.edu/news/131211/spotlight-sharel-cassity'
+  - 'https://www.smallslive.com/artists/174-sharel-cassity/'
 spotify_data:
   followers: 1000
   id: 3PyCmy5F0chkQuLQPtHfTs
   popularity: 17
-  url: https://open.spotify.com/artist/3PyCmy5F0chkQuLQPtHfTs
+  url: 'https://open.spotify.com/artist/3PyCmy5F0chkQuLQPtHfTs'
 status: active
 tags:
-- jazz
+  - jazz
 title: Sharel Cassity
 ---
 

@@ -2,92 +2,92 @@
 title: Bix Beiderbecke
 wiki_slug: bix-beiderbecke
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: deceased
 aliases: []
 birth_date: '1903-03-10'
-birth_place: Davenport, Iowa, United States
+birth_place: 'Davenport, Iowa, United States'
 death_date: '1931-08-06'
 years_active: 1920–1931
 genres:
-- ragtime
-- big band
-- jazz
-- swing music
+  - ragtime
+  - big band
+  - jazz
+  - swing music
 instruments:
-- trumpet
-- piano
-- cornet
-occupation:
-- composer
-- trumpeter
-- jazz musician
-- pianist
-record_labels:
-- Columbia Records
-associated_acts:
-- begin: 1923-10
-  end: 1924-10
-  instruments:
-  - cornet
+  - trumpet
   - piano
-  mbid: 4545df07-75db-43c2-879a-adf13db65d53
-  name: Wolverine Orchestra
-- begin: '1927'
-  end: '1929'
-  instruments:
   - cornet
-  mbid: 03ade0b4-4d20-40d5-a2ac-71c832ec5c39
-  name: Paul Whiteman and His Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c0b41ea3-1d70-4cdd-a9ee-70147c73801a
-  name: Bix and His Rhythm Jugglers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2f8ecf94-6fd6-4941-b9e0-c0885230806a
-  name: Hoagy Carmichael and His Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2d6a3741-20d1-449c-8b0f-c48bb444e6ce
-  name: The Chicago Loopers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3c45f855-e7ff-4a6f-a31f-441af062bbf0
-  name: Bix Beiderbecke and His Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4545df07-75db-43c2-879a-adf13db65d53
-  name: Wolverine Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5cbcb186-baab-4f87-a11a-f424331ac2f9
-  name: Broadway Bell‐Hops
-- begin: ''
-  end: ''
-  instruments:
-  - cornet
-  mbid: 565a2fc2-b0f7-470c-a718-3931a1b39763
-  name: Sioux City Six
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: a55186a5-8d09-440e-9f6e-106422e70cc4
-  name: Bix Beiderbecke and His Gang
+occupation:
+  - composer
+  - trumpeter
+  - jazz musician
+  - pianist
+record_labels:
+  - Columbia Records
+associated_acts:
+  - begin: 1923-10
+    end: 1924-10
+    instruments:
+      - cornet
+      - piano
+    mbid: 4545df07-75db-43c2-879a-adf13db65d53
+    name: Wolverine Orchestra
+  - begin: '1927'
+    end: '1929'
+    instruments:
+      - cornet
+    mbid: 03ade0b4-4d20-40d5-a2ac-71c832ec5c39
+    name: Paul Whiteman and His Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c0b41ea3-1d70-4cdd-a9ee-70147c73801a
+    name: Bix and His Rhythm Jugglers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2f8ecf94-6fd6-4941-b9e0-c0885230806a
+    name: Hoagy Carmichael and His Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2d6a3741-20d1-449c-8b0f-c48bb444e6ce
+    name: The Chicago Loopers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3c45f855-e7ff-4a6f-a31f-441af062bbf0
+    name: Bix Beiderbecke and His Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4545df07-75db-43c2-879a-adf13db65d53
+    name: Wolverine Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5cbcb186-baab-4f87-a11a-f424331ac2f9
+    name: Broadway Bell‐Hops
+  - begin: ''
+    end: ''
+    instruments:
+      - cornet
+    mbid: 565a2fc2-b0f7-470c-a718-3931a1b39763
+    name: Sioux City Six
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: a55186a5-8d09-440e-9f6e-106422e70cc4
+    name: Bix Beiderbecke and His Gang
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Bix_Beiderbecke.jpg
   caption: Bix Beiderbecke
   background: non_vocal_instrumentalist
   born: '1903-03-10'
-  origin: Davenport, Iowa, United States
+  origin: 'Davenport, Iowa, United States'
   died: '1931-08-06'
 audio_profile:
   tempo_avg: 127.2
@@ -104,62 +104,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Wolverine Orchestra
-  - Jean Goldkette Orchestra
-  - Frankie 'Tram' Trumbauer
-  - Eddie Lang
-  - Paul Whiteman Orchestra
+    - Wolverine Orchestra
+    - Jean Goldkette Orchestra
+    - Frankie 'Tram' Trumbauer
+    - Eddie Lang
+    - Paul Whiteman Orchestra
   influenced:
-  - Cool Jazz Movement
+    - Cool Jazz Movement
   mentors:
-  - Original Dixieland Jazz Band
+    - Original Dixieland Jazz Band
 related_artists: []
 spotify_data:
   followers: 35201
   id: 3kfbYBrL3MCPAMUwKDRpc7
   popularity: 35
-  url: https://open.spotify.com/artist/3kfbYBrL3MCPAMUwKDRpc7
+  url: 'https://open.spotify.com/artist/3kfbYBrL3MCPAMUwKDRpc7'
   verified: false
 discography_enriched: true
 albums_count: 13
 singles_count: 0
 top_tracks:
-- 'Singin'' The Blues (Bix Beiderbecke, Volume I: Singin'' The Blues)'
-- Blue River
-- There'll Come A Time
-- 'Clarinet Marmalade (Bix Beiderbecke, Volume I: Singin'' The Blues)'
-- Big Boy (Bix Beiderbecke And The Chicago Cornets)
-- 'I''m Coming Virginia (Bix Beiderbecke, Volume I: Singin'' The Blues)'
-- Ostrich Walk (Bix Beiderbecke 20 Classic Tracks)
-- 'In a Mist (Bix Beiderbecke, Volume I: Singin'' The Blues)'
-- 'Jazz Me Blues (Beiderbecke, Bix: Bix Lives! (1926-1930))'
-- Way Down Yonder in New Orleans (The Golden Age Of Bix Beiderbecke - 1927)
+  - 'Singin'' The Blues (Bix Beiderbecke, Volume I: Singin'' The Blues)'
+  - Blue River
+  - There'll Come A Time
+  - 'Clarinet Marmalade (Bix Beiderbecke, Volume I: Singin'' The Blues)'
+  - Big Boy (Bix Beiderbecke And The Chicago Cornets)
+  - 'I''m Coming Virginia (Bix Beiderbecke, Volume I: Singin'' The Blues)'
+  - Ostrich Walk (Bix Beiderbecke 20 Classic Tracks)
+  - 'In a Mist (Bix Beiderbecke, Volume I: Singin'' The Blues)'
+  - 'Jazz Me Blues (Beiderbecke, Bix: Bix Lives! (1926-1930))'
+  - Way Down Yonder in New Orleans (The Golden Age Of Bix Beiderbecke - 1927)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/32286190-da0f-4a85-b3d6-09a84d7e2bbc
-  spotify: https://open.spotify.com/artist/3kfbYBrL3MCPAMUwKDRpc7
-  wikipedia: https://en.wikipedia.org/wiki/Bix_Beiderbecke
+  musicbrainz: 'https://musicbrainz.org/artist/32286190-da0f-4a85-b3d6-09a84d7e2bbc'
+  spotify: 'https://open.spotify.com/artist/3kfbYBrL3MCPAMUwKDRpc7'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bix_Beiderbecke'
 image_path: 03_Resources/source_material/ArtistPortraits/Bix_Beiderbecke.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:50:48.086086'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia
-- Brendan Wolfe biography
-- The Syncopated Times
-- JazzFuel
-- Iowa PBS
+  - Wikipedia
+  - Brendan Wolfe biography
+  - The Syncopated Times
+  - JazzFuel
+  - Iowa PBS
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 15:19:05.859630
+entry_created: 2025-09-18T15:19:05.859Z
 last_updated: '2025-12-23T08:16:01.239265'
-disambiguation: American jazz cornettist, pianist and composer
+disambiguation: 'American jazz cornettist, pianist and composer'
 gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:06:24.885740'
 musicbrainz_id: 32286190-da0f-4a85-b3d6-09a84d7e2bbc
 tags:
-- dixieland
-- jazz
+  - dixieland
+  - jazz
+is_active: false
 ---
 
 ![](Bix_Beiderbecke.jpg)

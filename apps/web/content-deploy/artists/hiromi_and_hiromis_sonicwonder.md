@@ -1,51 +1,56 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-15T01:16:08.383576'
-birth_place: Hamamatsu, Japan
+birth_place: 'Hamamatsu, Shizuoka Prefecture, Japan'
 enhancement_provider: perplexity
 entry_created: '2026-01-15T01:16:08.383587'
 external_urls:
-  spotify: https://open.spotify.com/artist/2pMFd5OZhRFfgnZHzMhq5w
-  wikipedia: https://en.wikipedia.org/wiki/Hiromi_Uehara
+  spotify: 'https://open.spotify.com/artist/2pMFd5OZhRFfgnZHzMhq5w'
+  wikipedia: 'https://en.wikipedia.org/wiki/Hiromi_Uehara'
 genres:
-- jazz fusion
-- jazz
-image_path: 03_Resources/source_material/ArtistPortraits/hiromi_and_hiromis_sonicwonder.jpg
+  - jazz fusion
+  - jazz
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/hiromi_and_hiromis_sonicwonder.jpg
 last_updated: '2026-01-15T01:16:08.383589'
 musical_connections:
   collaborators:
-  - Tony Grey
-  - Martin Valihora
-  - David Fiuczynski
-  - Anthony Jackson
-  - Simon Phillips
-  - Hadrien Feraud
-  - Gene Coye
-  - Adam O’Farrill
-  - Stanley Clarke Band
+    - Tony Grey
+    - Martin Valihora
+    - David Fiuczynski
+    - Anthony Jackson
+    - Simon Phillips
+    - Hadrien Feraud
+    - Gene Coye
+    - Adam O’Farrill
+    - Stanley Clarke Band
   influenced: []
   mentors:
-  - Noriko Hikida
-  - Ahmad Jamal
-  - Chick Corea
-  - Richard Evans
+    - Noriko Hikida
+    - Ahmad Jamal
+    - Chick Corea
+    - Richard Evans
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Hiromi_Uehara
-- https://www.japansocietyboston.org/post/hiromi
-- https://union.wisc.edu/visit/wisconsin-union-theater/hiromis-sonicwonder-land
-- https://college.berklee.edu/people/hiromi-uehara
-- https://www.hiromiuehara.com/s/y01en/artist/001/profile?ima=0000&link=ROBO004
-- https://www.thebarclay.org/online/article/hiromi
-- https://cso.org/experience/article/22963/for-jazz-pianist-composer-hiromi-curiosity-is
+  - 'https://en.wikipedia.org/wiki/Hiromi_Uehara'
+  - 'https://www.japansocietyboston.org/post/hiromi'
+  - >-
+    https://union.wisc.edu/visit/wisconsin-union-theater/hiromis-sonicwonder-land
+  - 'https://college.berklee.edu/people/hiromi-uehara'
+  - >-
+    https://www.hiromiuehara.com/s/y01en/artist/001/profile?ima=0000&link=ROBO004
+  - 'https://www.thebarclay.org/online/article/hiromi'
+  - >-
+    https://cso.org/experience/article/22963/for-jazz-pianist-composer-hiromi-curiosity-is
 spotify_data:
   followers: 3902
   id: 2pMFd5OZhRFfgnZHzMhq5w
   popularity: 34
-  url: https://open.spotify.com/artist/2pMFd5OZhRFfgnZHzMhq5w
+  url: 'https://open.spotify.com/artist/2pMFd5OZhRFfgnZHzMhq5w'
 status: active
 title: Hiromi & Hiromi's Sonicwonder
+birth_date: '1979-03-26'
 ---
 
 ![](hiromi_and_hiromis_sonicwonder.jpg)

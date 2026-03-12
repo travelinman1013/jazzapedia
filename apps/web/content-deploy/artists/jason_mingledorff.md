@@ -1,60 +1,62 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5e7a227f-84bf-40b4-a30d-0363742b09db
-  name: Papa Grows Funk
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7afb5698-b1c9-491d-972d-0bd22f8b9f30
-  name: New Orleans Nightcrawlers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4486702e-7b26-43fd-babc-c0df7be0e1d9
-  name: St. Paul & The Broken Bones
-- begin: ''
-  end: ''
-  instruments:
-  - saxophone
-  mbid: 0899b7e3-4224-4867-a75f-0e306a7d23b6
-  name: The Living Room Horns
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5e7a227f-84bf-40b4-a30d-0363742b09db
+    name: Papa Grows Funk
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7afb5698-b1c9-491d-972d-0bd22f8b9f30
+    name: New Orleans Nightcrawlers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4486702e-7b26-43fd-babc-c0df7be0e1d9
+    name: St. Paul & The Broken Bones
+  - begin: ''
+    end: ''
+    instruments:
+      - saxophone
+    mbid: 0899b7e3-4224-4867-a75f-0e306a7d23b6
+    name: The Living Room Horns
 biography_enhanced_at: '2025-12-30T01:22:11.477968'
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, USA'
 enhancement_provider: perplexity
 entry_created: '2025-12-30T01:22:11.477974'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/debd4e9c-3d16-4133-96f2-0d9f4ea8c241
-  spotify: https://open.spotify.com/artist/3RJIj381vglKGSTIk8oHtS
+  musicbrainz: 'https://musicbrainz.org/artist/debd4e9c-3d16-4133-96f2-0d9f4ea8c241'
+  spotify: 'https://open.spotify.com/artist/3RJIj381vglKGSTIk8oHtS'
   wikipedia: ''
 genres: []
 image_path: ''
 instruments:
-- saxophone
+  - saxophone
 last_updated: '2025-12-30T01:22:11.477975'
 musical_connections:
   collaborators: []
   influenced: []
   mentors:
-  - Ellis Marsalis
+    - Ellis Marsalis
 musicbrainz_id: debd4e9c-3d16-4133-96f2-0d9f4ea8c241
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.jasonmingledorff.com
-- https://www.neworleans.com/listing/jason-mingledorff/47687/
-- https://www.loyno.edu/academics/faculty-and-staff-directory/jason-mingledorff
-- https://www.jasonmingledorff.com/bio
+  - 'https://www.jasonmingledorff.com'
+  - 'https://www.neworleans.com/listing/jason-mingledorff/47687/'
+  - >-
+    https://www.loyno.edu/academics/faculty-and-staff-directory/jason-mingledorff
+  - 'https://www.jasonmingledorff.com/bio'
 spotify_data:
   followers: 39
   id: 3RJIj381vglKGSTIk8oHtS
   popularity: 18
-  url: https://open.spotify.com/artist/3RJIj381vglKGSTIk8oHtS
+  url: 'https://open.spotify.com/artist/3RJIj381vglKGSTIk8oHtS'
 status: active
 title: Jason Mingledorff
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![]()

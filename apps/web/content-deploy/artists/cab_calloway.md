@@ -1,56 +1,56 @@
 ---
-title: cab calloway
+title: Cab Calloway
 wiki_slug: cab-calloway
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1907-12-25'
-birth_place: Rochester
+birth_place: 'Rochester, New York, United States'
 death_date: '1994-11-18'
 genres:
-- swing music
-- big band
-- jazz blues
-- ragtime
+  - swing music
+  - big band
+  - jazz blues
+  - ragtime
 instruments:
-- eponymous
-- original
-- lead vocals
-- spoken vocals
+  - eponymous
+  - original
+  - lead vocals
+  - spoken vocals
 associated_acts:
-- begin: '1929'
-  end: '1930'
-  instruments: []
-  mbid: 039c7de9-af04-4e36-aa51-1d97dd37b893
-  name: The Missourians
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 803945e7-ebe5-4240-b82d-1754a338b7f8
-  name: Cab Calloway and His Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: b2f817c2-c5ff-4c21-b163-ff4139bfe554
-  name: Cab Calloway and His Cab Jivers
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: b5c3960d-d1bf-4603-90b7-d7ad1db8b522
-  name: Cab Calloway and His Cotton Club Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 7b4e4669-eca6-43cf-bbee-e63b690a6a92
-  name: Cab Calloway and His Cabaliers
+  - begin: '1929'
+    end: '1930'
+    instruments: []
+    mbid: 039c7de9-af04-4e36-aa51-1d97dd37b893
+    name: The Missourians
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 803945e7-ebe5-4240-b82d-1754a338b7f8
+    name: Cab Calloway and His Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: b2f817c2-c5ff-4c21-b163-ff4139bfe554
+    name: Cab Calloway and His Cab Jivers
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: b5c3960d-d1bf-4603-90b7-d7ad1db8b522
+    name: Cab Calloway and His Cotton Club Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 7b4e4669-eca6-43cf-bbee-e63b690a6a92
+    name: Cab Calloway and His Cabaliers
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/cab_calloway.jpg
   caption: cab calloway
@@ -73,56 +73,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dizzy Gillespie
-  - Ben Webster
-  - Leon "Chu" Berry
-  - Cozy Cole
-  - Milt Hinton
+    - Dizzy Gillespie
+    - Ben Webster
+    - Leon "Chu" Berry
+    - Cozy Cole
+    - Milt Hinton
   influenced:
-  - Dizzy Gillespie
-  - Betty Boop (animated character)
-  - Contemporary jazz and swing musicians
+    - Dizzy Gillespie
+    - Betty Boop (animated character)
+    - Contemporary jazz and swing musicians
   mentors:
-  - Louis Armstrong
-  - Blanche Calloway
+    - Louis Armstrong
+    - Blanche Calloway
 spotify_data:
   followers: 158854
   id: 03cwCzIWQ8BRmXjGPDAL04
   popularity: 38
-  url: https://open.spotify.com/artist/03cwCzIWQ8BRmXjGPDAL04
+  url: 'https://open.spotify.com/artist/03cwCzIWQ8BRmXjGPDAL04'
 discography_enriched: true
 top_tracks:
-- Minnie the Moocher
-- Minnie the Moocher (Theme Song)
-- St. James Infirmary
-- St. James' Infirmary (The Early Years 1930-1934 - CD A)
-- Jumpin Jive
-- Everybody Eats When They Come To My House
-- St James' Infirmary
-- Minnie the Moocher
-- Jumpin' Jive - Electro Swing Remix
-- Minnie the Moocher
+  - Minnie the Moocher
+  - Minnie the Moocher (Theme Song)
+  - St. James Infirmary
+  - St. James' Infirmary (The Early Years 1930-1934 - CD A)
+  - Jumpin Jive
+  - Everybody Eats When They Come To My House
+  - St James' Infirmary
+  - Minnie the Moocher
+  - Jumpin' Jive - Electro Swing Remix
+  - Minnie the Moocher
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/315bd083-892b-4e76-a9f0-91a7408168fc
-  spotify: https://open.spotify.com/artist/03cwCzIWQ8BRmXjGPDAL04
-  wikipedia: https://en.wikipedia.org/wiki/Cab_Calloway
+  musicbrainz: 'https://musicbrainz.org/artist/315bd083-892b-4e76-a9f0-91a7408168fc'
+  spotify: 'https://open.spotify.com/artist/03cwCzIWQ8BRmXjGPDAL04'
+  wikipedia: 'https://en.wikipedia.org/wiki/Cab_Calloway'
 image_path: 03_Resources/source_material/ArtistPortraits/cab_calloway.jpg
 biography_enhanced_at: '2025-10-25T10:05:31.940783'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Cab_Calloway
-- https://www.biography.com/musicians/cab-calloway
-- https://www.britannica.com/biography/Cab-Calloway
+  - 'https://en.wikipedia.org/wiki/Cab_Calloway'
+  - 'https://www.biography.com/musicians/cab-calloway'
+  - 'https://www.britannica.com/biography/Cab-Calloway'
 network_extracted: true
 entry_created: '2025-10-25T10:05:31.940786'
 last_updated: '2025-12-23T08:16:06.276574'
 gender: Male
 musicbrainz_id: 315bd083-892b-4e76-a9f0-91a7408168fc
 tags:
-- 2008 universal fire victim
-- american
-- big band
+  - 2008 universal fire victim
+  - american
+  - big band
+is_active: false
+origin: 'Baltimore, Maryland, United States'
 ---
 
 ![](cab_calloway.jpg)

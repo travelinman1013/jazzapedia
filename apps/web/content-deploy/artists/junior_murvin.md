@@ -8,13 +8,13 @@ birth_date: '1949'
 birth_place: Saint James
 death_date: '2013-12-02'
 genres:
-- reggae
-- roots reggae
-- rocksteady
-- dub
-- lovers rock
-- ska
-- ragga
+  - reggae
+  - roots reggae
+  - rocksteady
+  - dub
+  - lovers rock
+  - ska
+  - ragga
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/junior_murvin.jpg
   caption: Junior Murvin
@@ -37,60 +37,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Max Romeo
-  - Dennis Brown
-  - Joe Gibbs and Errol Thompson (Mighty Two)
-  - Henry "Junjo" Lawes
-  - Prince Jammy
-  - Mikey "Dread At The Controls" Dread
-  - Boris Gardner, Sly Dunbar, Ernest Ranglin
+    - Max Romeo
+    - Dennis Brown
+    - Joe Gibbs and Errol Thompson (Mighty Two)
+    - Henry "Junjo" Lawes
+    - Prince Jammy
+    - Mikey "Dread At The Controls" Dread
+    - 'Boris Gardner, Sly Dunbar, Ernest Ranglin'
   influenced:
-  - The Clash
-  - Boy George
+    - The Clash
+    - Boy George
   mentors:
-  - Derrick Harriott
-  - Lee "Scratch" Perry
-  - Sonia Pottinger
+    - Derrick Harriott
+    - Lee "Scratch" Perry
+    - Sonia Pottinger
 spotify_data:
   followers: 56093
   id: 17dXLKGh9AKpooAvGaVt34
   popularity: 44
-  url: https://open.spotify.com/artist/17dXLKGh9AKpooAvGaVt34
+  url: 'https://open.spotify.com/artist/17dXLKGh9AKpooAvGaVt34'
 discography_enriched: true
 top_tracks:
-- Police & Thieves (Police & Thieves)
-- Roots Train (Police & Thieves)
-- Cool Out Son
-- Cool Out Son
-- Police & Thieves
-- False Teachin' (Police & Thieves)
-- Tedious (Police & Thieves)
-- Bad Weed (12" Mix)
-- No Retreat
-- Give Me Your Love
+  - Police & Thieves (Police & Thieves)
+  - Roots Train (Police & Thieves)
+  - Cool Out Son
+  - Cool Out Son
+  - Police & Thieves
+  - False Teachin' (Police & Thieves)
+  - Tedious (Police & Thieves)
+  - Bad Weed (12" Mix)
+  - No Retreat
+  - Give Me Your Love
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8411d1f6-0f7a-4e9b-9745-a474780cd5b7
-  spotify: https://open.spotify.com/artist/17dXLKGh9AKpooAvGaVt34
+  musicbrainz: 'https://musicbrainz.org/artist/8411d1f6-0f7a-4e9b-9745-a474780cd5b7'
+  spotify: 'https://open.spotify.com/artist/17dXLKGh9AKpooAvGaVt34'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/junior_murvin.jpg
 biography_enhanced_at: '2025-12-04T08:23:57.665296'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- jackrussellmusic.net
-- worldareggae.com
-- unitedreggae.com
-- jango.com
-- allmusic.com
+  - jackrussellmusic.net
+  - worldareggae.com
+  - unitedreggae.com
+  - jango.com
+  - allmusic.com
 network_extracted: true
 entry_created: '2025-12-04T08:23:57.665304'
 last_updated: '2025-12-23T08:16:11.095025'
 gender: Male
 musicbrainz_id: 8411d1f6-0f7a-4e9b-9745-a474780cd5b7
 tags:
-- jamaica
-- reggae
-- rock and indie
+  - jamaica
+  - reggae
+  - rock and indie
+is_active: false
+origin: 'Montego Bay, Saint James, Jamaica, United States'
 ---
 
 ![](junior_murvin.jpg)

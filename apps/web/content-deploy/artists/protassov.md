@@ -1,16 +1,16 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-14T01:07:28.769374'
-birth_place: Ruhr Area, Germany (early career); Hamburg, Germany (current base)
+birth_place: 'Ruhr Area, Germany (early career); Hamburg, Germany (current base)'
 enhancement_provider: perplexity
 entry_created: '2026-01-14T01:07:28.769382'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/791b59a0-0fd1-4a12-a215-65d0b0e99b6e
-  spotify: https://open.spotify.com/artist/4qMSoir615wtgVxQn9fLZ2
+  musicbrainz: 'https://musicbrainz.org/artist/791b59a0-0fd1-4a12-a215-65d0b0e99b6e'
+  spotify: 'https://open.spotify.com/artist/4qMSoir615wtgVxQn9fLZ2'
   wikipedia: ''
 gender: Male
 genres:
-- trip hop
+  - trip hop
 image_path: 03_Resources/source_material/ArtistPortraits/protassov.jpg
 last_updated: '2026-01-14T01:07:28.769383'
 musical_connections:
@@ -21,19 +21,20 @@ musicbrainz_id: 791b59a0-0fd1-4a12-a215-65d0b0e99b6e
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://protassovmusic.bandcamp.com
-- https://protassovmusic.bandcamp.com/track/train-dream
-- https://protassov.wordpress.com/about/
-- https://www.theoutlawoceanmusic.com/artists/protassov/
-- https://www.last.fm/music/Protassov/+similar
-- https://en.wikipedia.org/wiki/Trip_hop
+  - 'https://protassovmusic.bandcamp.com'
+  - 'https://protassovmusic.bandcamp.com/track/train-dream'
+  - 'https://protassov.wordpress.com/about/'
+  - 'https://www.theoutlawoceanmusic.com/artists/protassov/'
+  - 'https://www.last.fm/music/Protassov/+similar'
+  - 'https://en.wikipedia.org/wiki/Trip_hop'
 spotify_data:
   followers: 22313
   id: 4qMSoir615wtgVxQn9fLZ2
   popularity: 41
-  url: https://open.spotify.com/artist/4qMSoir615wtgVxQn9fLZ2
+  url: 'https://open.spotify.com/artist/4qMSoir615wtgVxQn9fLZ2'
 status: active
 title: Protassov
+origin: 'Hamburg, Germany'
 ---
 
 ![](protassov.jpg)

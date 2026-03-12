@@ -1,24 +1,24 @@
 ---
-title: vernon garrett
+title: Vernon Garrett
 wiki_slug: vernon-garrett
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1933-01-18'
-birth_place: Omaha
+birth_place: 'Omaha, Nebraska, United States'
 genres:
-- northern soul
+  - northern soul
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 208505c1-dcf9-4c73-87d6-db940b04e810
-  name: The Soul Messengers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e299ffce-e4b6-4714-94cf-94992bc3fbbf
-  name: Vernon and Jewell
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 208505c1-dcf9-4c73-87d6-db940b04e810
+    name: The Soul Messengers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e299ffce-e4b6-4714-94cf-94992bc3fbbf
+    name: Vernon and Jewell
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/vernon_garrett.jpg
   caption: vernon garrett
@@ -40,56 +40,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jewel Garrett
-  - Illinois Jacquet
-  - The Sliders
-  - Sir Stan and the Counts
-  - Miles Grayson
-  - J.J. “Bad Boy” Jones
-  - Ray Agee
+    - Jewel Garrett
+    - Illinois Jacquet
+    - The Sliders
+    - Sir Stan and the Counts
+    - Miles Grayson
+    - J.J. “Bad Boy” Jones
+    - Ray Agee
   influenced: []
   mentors:
-  - Deacon Robinson
-  - Claude Jeter (Swan Silvertones)
+    - Deacon Robinson
+    - Claude Jeter (Swan Silvertones)
 spotify_data:
   followers: 727
   id: 40QepulV493VVhpCsBL6Uu
   popularity: 20
-  url: https://open.spotify.com/artist/40QepulV493VVhpCsBL6Uu
+  url: 'https://open.spotify.com/artist/40QepulV493VVhpCsBL6Uu'
 discography_enriched: true
 top_tracks:
-- Christmas Groove (Merry Christmas Baby)
-- If I Could Turn Back the Hands of Time
-- Shine It On (I Made My Own World)
-- Running Out
-- Crossroads (When Something Is Wrong with My Baby (feat. Brenda Lee Eager))
-- Merry Christmas Baby (Merry Christmas Baby)
-- You and Me Together
-- Something Went Wrong
-- Keep on Forgiving You
-- Satisfied Woman Satisfied Man
+  - Christmas Groove (Merry Christmas Baby)
+  - If I Could Turn Back the Hands of Time
+  - Shine It On (I Made My Own World)
+  - Running Out
+  - Crossroads (When Something Is Wrong with My Baby (feat. Brenda Lee Eager))
+  - Merry Christmas Baby (Merry Christmas Baby)
+  - You and Me Together
+  - Something Went Wrong
+  - Keep on Forgiving You
+  - Satisfied Woman Satisfied Man
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/59f223fe-68e9-4f6a-bece-b90974b21ef6
-  spotify: https://open.spotify.com/artist/40QepulV493VVhpCsBL6Uu
+  musicbrainz: 'https://musicbrainz.org/artist/59f223fe-68e9-4f6a-bece-b90974b21ef6'
+  spotify: 'https://open.spotify.com/artist/40QepulV493VVhpCsBL6Uu'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/vernon_garrett.jpg
 biography_enhanced_at: '2025-12-19T01:57:11.284528'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Vision of the Blues – The Vernon Garrett Story (bluesdfw.com)[1]
-- The Los Angeles Labels of Vernon Garrett – Music By The Pound (crownrecordsstory.wordpress.com)[2]
-- soulandjazzandfunk.com – Review/notes on Vernon Garrett[3]
-- AllMusic – Vernon Garrett Biography[4]
-- Last.fm – Vernon Garrett biography snippet[5]
-- Tracklib – Vernon Garrett and His Cross Road Band artist entry[6]
+  - 'Vision of the Blues – The Vernon Garrett Story (bluesdfw.com)[1]'
+  - >-
+    The Los Angeles Labels of Vernon Garrett – Music By The Pound
+    (crownrecordsstory.wordpress.com)[2]
+  - 'soulandjazzandfunk.com – Review/notes on Vernon Garrett[3]'
+  - 'AllMusic – Vernon Garrett Biography[4]'
+  - 'Last.fm – Vernon Garrett biography snippet[5]'
+  - 'Tracklib – Vernon Garrett and His Cross Road Band artist entry[6]'
 network_extracted: true
 entry_created: '2025-12-19T01:57:11.284708'
 last_updated: '2025-12-23T08:16:17.839900'
 gender: Male
 musicbrainz_id: 59f223fe-68e9-4f6a-bece-b90974b21ef6
 tags:
-- blues
+  - blues
 ---
 
 ![](vernon_garrett.jpg)

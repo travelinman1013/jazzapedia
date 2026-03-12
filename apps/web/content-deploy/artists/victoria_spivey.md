@@ -2,59 +2,61 @@
 artist_type: person
 biography_enhanced_at: '2026-01-22T07:07:55.588692'
 birth_date: '1906-10-15'
-birth_place: Houston
+birth_place: 'Houston, Texas, United States'
 death_date: '1976-10-03'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:07:55.588699'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/0b9f1797-12ca-4db4-8e0d-d9dc2b90a3da
-  spotify: https://open.spotify.com/artist/3GjPnuJtWUiwPm1Kn8zyG4
-  wikipedia: https://en.wikipedia.org/wiki/Victoria_Spivey
+  musicbrainz: 'https://musicbrainz.org/artist/0b9f1797-12ca-4db4-8e0d-d9dc2b90a3da'
+  spotify: 'https://open.spotify.com/artist/3GjPnuJtWUiwPm1Kn8zyG4'
+  wikipedia: 'https://en.wikipedia.org/wiki/Victoria_Spivey'
 gender: Female
 genres:
-- classic blues
-- blues
-- ragtime
-- country blues
+  - classic blues
+  - blues
+  - ragtime
+  - country blues
 image_path: 03_Resources/source_material/ArtistPortraits/victoria_spivey.jpg
 instruments:
-- piano
-- lead vocals
+  - piano
+  - lead vocals
 last_updated: '2026-01-22T07:07:55.588699'
 musical_connections:
   collaborators:
-  - Louis Armstrong
-  - King Oliver
-  - Lonnie Johnson
-  - Bob Dylan
-  - Len Kunstadt
+    - Louis Armstrong
+    - King Oliver
+    - Lonnie Johnson
+    - Bob Dylan
+    - Len Kunstadt
   influenced:
-  - Bob Dylan
+    - Bob Dylan
   mentors:
-  - Sippie Wallace
-  - Ida Cox
+    - Sippie Wallace
+    - Ida Cox
 musicbrainz_id: 0b9f1797-12ca-4db4-8e0d-d9dc2b90a3da
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Victoria_Spivey
-- https://fromthevaults-boppinbob.blogspot.com/2025/10/victoria-spivey-born-15-october-1906.html
-- https://aaregistry.org/story/she-could-do-it-all-victoria-spivey/
-- https://www.tshaonline.org/handbook/entries/spivey-victoria-regina
-- https://blues.org/blues_hof_inductee/victoria-spivey/
-- https://www.allaboutjazz.com/musicians/victoria-spivey/
-- https://blackpast.org/african-american-history/spivey-victoria-1906-1976/
-- https://bigtrainblues.com/victoria-spivey/
+  - 'https://en.wikipedia.org/wiki/Victoria_Spivey'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2025/10/victoria-spivey-born-15-october-1906.html
+  - 'https://aaregistry.org/story/she-could-do-it-all-victoria-spivey/'
+  - 'https://www.tshaonline.org/handbook/entries/spivey-victoria-regina'
+  - 'https://blues.org/blues_hof_inductee/victoria-spivey/'
+  - 'https://www.allaboutjazz.com/musicians/victoria-spivey/'
+  - 'https://blackpast.org/african-american-history/spivey-victoria-1906-1976/'
+  - 'https://bigtrainblues.com/victoria-spivey/'
 spotify_data:
   followers: 8243
   id: 3GjPnuJtWUiwPm1Kn8zyG4
   popularity: 17
-  url: https://open.spotify.com/artist/3GjPnuJtWUiwPm1Kn8zyG4
+  url: 'https://open.spotify.com/artist/3GjPnuJtWUiwPm1Kn8zyG4'
 status: active
 tags:
-- blues
-- vaudeville blues
-title: VICTORIA SPIVEY
+  - blues
+  - vaudeville blues
+title: Victoria Spivey
+is_active: false
 ---
 
 ![](victoria_spivey.jpg)

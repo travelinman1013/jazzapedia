@@ -2,21 +2,22 @@
 title: The International Submarine Band
 wiki_slug: the-international-submarine-band
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 aliases: []
 birth_date: '1965'
 years_active: 1966&ndash;1968
 genres:
-- country rock
+  - country rock
 instruments:
-- original
+  - original
 record_labels:
-- LHI Records
+  - LHI Records
 associated_acts:
-- Gram Parsons
+  - Gram Parsons
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/The_International_Submarine_Band.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/The_International_Submarine_Band.jpg
   caption: The International Submarine Band
   background: non_vocal_instrumentalist
   born: '1965'
@@ -35,63 +36,65 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Gram Parsons
-  - Ian Dunlop
-  - Mickey Gauvin
-  - Jon Corneal
-  - Chris Ethridge
-  - Lee Hazlewood
+    - Gram Parsons
+    - Ian Dunlop
+    - Mickey Gauvin
+    - Jon Corneal
+    - Chris Ethridge
+    - Lee Hazlewood
   influenced:
-  - The Byrds
-  - The Flying Burrito Brothers
-  - Emmylou Harris
-  - Wilco
-  - Uncle Tupelo
+    - The Byrds
+    - The Flying Burrito Brothers
+    - Emmylou Harris
+    - Wilco
+    - Uncle Tupelo
   mentors:
-  - John Nuese
+    - John Nuese
 related_artists: []
 spotify_data:
   followers: 15475
   id: 6i8kpDUSsrOOhPHfNYhMeF
   popularity: 31
-  url: https://open.spotify.com/artist/6i8kpDUSsrOOhPHfNYhMeF
+  url: 'https://open.spotify.com/artist/6i8kpDUSsrOOhPHfNYhMeF'
   verified: false
 discography_enriched: true
 albums_count: 1
 singles_count: 3
 top_tracks:
-- Blue Eyes (Safe at Home)
-- Miller's Cave (Safe at Home)
-- I Must Be Somebody Else You've Known (Safe at Home)
-- A Satisfied Mind (Safe at Home)
-- Luxury Liner (Safe at Home)
-- Knee Deep in the Blues (Safe at Home)
-- I Still Miss Someone (Safe at Home)
-- Do You Know How It Feels to Be Lonesome? (Safe at Home)
-- Strong Boy (Safe at Home)
-- Folsom Prison Blues / That's All Right (Safe at Home)
+  - Blue Eyes (Safe at Home)
+  - Miller's Cave (Safe at Home)
+  - I Must Be Somebody Else You've Known (Safe at Home)
+  - A Satisfied Mind (Safe at Home)
+  - Luxury Liner (Safe at Home)
+  - Knee Deep in the Blues (Safe at Home)
+  - I Still Miss Someone (Safe at Home)
+  - Do You Know How It Feels to Be Lonesome? (Safe at Home)
+  - Strong Boy (Safe at Home)
+  - Folsom Prison Blues / That's All Right (Safe at Home)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/bd9a30ce-5de0-43e0-9eb7-8f86a18234dd
-  spotify: https://open.spotify.com/artist/6i8kpDUSsrOOhPHfNYhMeF
-  wikipedia: https://en.wikipedia.org/wiki/International_Submarine_Band
-image_path: 03_Resources/source_material/ArtistPortraits/The_International_Submarine_Band.jpg
+  musicbrainz: 'https://musicbrainz.org/artist/bd9a30ce-5de0-43e0-9eb7-8f86a18234dd'
+  spotify: 'https://open.spotify.com/artist/6i8kpDUSsrOOhPHfNYhMeF'
+  wikipedia: 'https://en.wikipedia.org/wiki/International_Submarine_Band'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/The_International_Submarine_Band.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:24:33.793474'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/International_Submarine_Band
-- https://americansongwriter.com/behind-the-band-name-international-submarine-band/
-- https://www.iandunlopmusic.com/biography
-- https://graminternational.wordpress.com/tag/international-submarine-band/
+  - 'https://en.wikipedia.org/wiki/International_Submarine_Band'
+  - >-
+    https://americansongwriter.com/behind-the-band-name-international-submarine-band/
+  - 'https://www.iandunlopmusic.com/biography'
+  - 'https://graminternational.wordpress.com/tag/international-submarine-band/'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 13:07:22.651118
+entry_created: 2025-09-18T13:07:22.651Z
 last_updated: '2025-12-23T08:16:02.302887'
 musicbrainz_enriched_at: '2025-10-21T09:29:50.474249'
 musicbrainz_id: bd9a30ce-5de0-43e0-9eb7-8f86a18234dd
-origin: Boston, Massachusetts, United States
-
+origin: 'Boston, Massachusetts, United States'
+birth_place: 'Cambridge, Massachusetts, United States'
 ---
 
 ![](The_International_Submarine_Band.jpg)

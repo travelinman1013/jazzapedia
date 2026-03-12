@@ -1,19 +1,19 @@
 ---
-title: Georgia Cotton Pickers
+title: The Georgia Cotton Pickers
 wiki_slug: georgia-cotton-pickers
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 aliases: []
 genres:
-- classic blues
-- country blues
+  - classic blues
+  - country blues
 instruments:
-- Guitar
-- drums
-- piano
-- harmonica
-- vocals
+  - Guitar
+  - drums
+  - piano
+  - harmonica
+  - vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Georgia_Cotton_Pickers.jpg
   caption: Georgia Cotton Pickers
@@ -33,62 +33,67 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Curley Weaver
-  - Barbecue Bob (Robert Hicks)
-  - Buddy Moss
-  - Fred McMullen
-  - Blind Willie McTell
+    - Curley Weaver
+    - Barbecue Bob (Robert Hicks)
+    - Buddy Moss
+    - Fred McMullen
+    - Blind Willie McTell
   influenced:
-  - Cora Mae Bryant
-  - Josh White
-  - Blind Boy Fuller
+    - Cora Mae Bryant
+    - Josh White
+    - Blind Boy Fuller
   mentors:
-  - Savannah 'Dip' Shepard Weaver
+    - Savannah 'Dip' Shepard Weaver
 related_artists: []
 spotify_data:
   followers: 92
   id: 2fs2SLdfQsodokjUnUiGc3
   popularity: 0
-  url: https://open.spotify.com/artist/2fs2SLdfQsodokjUnUiGc3
+  url: 'https://open.spotify.com/artist/2fs2SLdfQsodokjUnUiGc3'
   verified: false
 discography_enriched: true
 albums_count: 0
 singles_count: 1
 top_tracks:
-- Louisiana Bo Bo (Frog Spawn - The Second Batch)
-- She's Coming Back Some Cold Rainy Day
-- She's Coming Some Cold Rainy Day (Blowin' Up a Storm! (Harmonica Blues Classics 1920s - 1940s))
-- She's Coming Back Some Cold Rainy Day (Rough Guide to East Coast Blues)
-- She's Coming Back Some Rainy Cold Day (The Essential East Coast Blues)
-- I´m On My Way Down Home (The Reverend Is My Man (Blues People 1930 - 1931))
-- Diddle - Da - Diddle (The Most Underrated Blues Players Ever!)
-- Diddle Da Diddle (Southern Blues - Volume 2)
-- Diddle da Diddle
-- She's Coming Back Some Cold Rainy Day (1930) (Rough Guide To East Coast Blues)
+  - Louisiana Bo Bo (Frog Spawn - The Second Batch)
+  - She's Coming Back Some Cold Rainy Day
+  - >-
+    She's Coming Some Cold Rainy Day (Blowin' Up a Storm! (Harmonica Blues
+    Classics 1920s - 1940s))
+  - She's Coming Back Some Cold Rainy Day (Rough Guide to East Coast Blues)
+  - She's Coming Back Some Rainy Cold Day (The Essential East Coast Blues)
+  - I´m On My Way Down Home (The Reverend Is My Man (Blues People 1930 - 1931))
+  - Diddle - Da - Diddle (The Most Underrated Blues Players Ever!)
+  - Diddle Da Diddle (Southern Blues - Volume 2)
+  - Diddle da Diddle
+  - >-
+    She's Coming Back Some Cold Rainy Day (1930) (Rough Guide To East Coast
+    Blues)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/18ccbab8-d0a0-4277-b063-54daf1ef5486
-  spotify: https://open.spotify.com/artist/2fs2SLdfQsodokjUnUiGc3
-  wikipedia: https://en.wikipedia.org/wiki/Atlanta_blues
+  musicbrainz: 'https://musicbrainz.org/artist/18ccbab8-d0a0-4277-b063-54daf1ef5486'
+  spotify: 'https://open.spotify.com/artist/2fs2SLdfQsodokjUnUiGc3'
+  wikipedia: 'https://en.wikipedia.org/wiki/Atlanta_blues'
 image_path: 03_Resources/source_material/ArtistPortraits/Georgia_Cotton_Pickers.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:19:37.418309'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Curley_Weaver
-- https://biglegalmessrecords.com/collections/buddy-moss
-- https://jasobrecht.substack.com/p/the-georgia-cotton-pickers
-- https://www.allmusic.com/artist/georgia-cotton-pickers-mn0000765263
+  - 'https://en.wikipedia.org/wiki/Curley_Weaver'
+  - 'https://biglegalmessrecords.com/collections/buddy-moss'
+  - 'https://jasobrecht.substack.com/p/the-georgia-cotton-pickers'
+  - 'https://www.allmusic.com/artist/georgia-cotton-pickers-mn0000765263'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 12:54:57.553161
+entry_created: 2025-09-18T12:54:57.553Z
 last_updated: '2025-12-23T08:16:02.072534'
 data_quality: validated
 musicbrainz_enriched_at: '2025-10-21T09:27:10.258934'
 musicbrainz_id: 18ccbab8-d0a0-4277-b063-54daf1ef5486
-origin: Atlanta, Georgia, United States
-original_wikipedia_url: https://en.wikipedia.org/wiki/Atlanta_blues
+origin: 'Atlanta, Georgia, United States'
+original_wikipedia_url: 'https://en.wikipedia.org/wiki/Atlanta_blues'
 recovery_attempted_at: '2025-09-30T12:19:37.416892'
+death_date: '1931'
 ---
 
 ![](Georgia_Cotton_Pickers.jpg)

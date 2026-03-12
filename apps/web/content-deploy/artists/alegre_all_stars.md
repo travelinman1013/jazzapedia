@@ -1,15 +1,15 @@
 ---
-title: Alegre All Stars
+title: The Alegre All Stars
 wiki_slug: alegre-all-stars
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 birth_date: '1961'
 genres:
-- latin jazz
-- salsa
-- mambo
-- son cubano
+  - latin jazz
+  - salsa
+  - mambo
+  - son cubano
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/alegre_all_stars.jpg
   caption: Alegre All Stars
@@ -30,115 +30,120 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Charlie Palmieri
-  - Johnny Pacheco
-  - Barry Rogers
-  - Francisco “Kako” Bastar
-  - Louie Ramírez
-  - Cheo Feliciano
-  - Mario Rivera, Willie Rosario, Willie Torres, Chivirico Dávila, Orlando Marín and other New York Latin musicians
+    - Charlie Palmieri
+    - Johnny Pacheco
+    - Barry Rogers
+    - Francisco “Kako” Bastar
+    - Louie Ramírez
+    - Cheo Feliciano
+    - >-
+      Mario Rivera, Willie Rosario, Willie Torres, Chivirico Dávila, Orlando
+      Marín and other New York Latin musicians
   influenced:
-  - Fania All-Stars and Fania Records projects
-  - New York salsa and Latin jazz musicians of the 1970s and beyond
-  - Subsequent Latin all-star and reunion projects
+    - Fania All-Stars and Fania Records projects
+    - New York salsa and Latin jazz musicians of the 1970s and beyond
+    - Subsequent Latin all-star and reunion projects
   mentors:
-  - Panart Cuban Jam Sessions (various Cuban bandleaders)
-  - Al Santiago
-  - Cuban son, mambo, pachanga, and New York Latin jazz traditions
+    - Panart Cuban Jam Sessions (various Cuban bandleaders)
+    - Al Santiago
+    - 'Cuban son, mambo, pachanga, and New York Latin jazz traditions'
 spotify_data:
   followers: 26379
   id: 0UI6s6uva6Ozm7VlICnFmc
   popularity: 25
-  url: https://open.spotify.com/artist/0UI6s6uva6Ozm7VlICnFmc
+  url: 'https://open.spotify.com/artist/0UI6s6uva6Ozm7VlICnFmc'
 discography_enriched: true
 top_tracks:
-- Sale El Sol - Live
-- Sale El Sol - Live (Oro)
-- Estoy Buscando A Kako (They Just Don't Makim Like Us Any More)
-- Y Yo Ganga (Perdido)
-- El Manicero (They Just Don't Makim Like Us Any More)
-- Kako Y Palmieri (Alegre All Stars Jazz)
-- Peanut Vendor (Alegre All Stars Jazz)
-- Guajira In "F" (Lost And Found, Vol. 3)
-- Manteca (Way Out, Vol. 4)
-- Ay Camina Y Ven (Alegre All Stars Jazz)
+  - Sale El Sol - Live
+  - Sale El Sol - Live (Oro)
+  - Estoy Buscando A Kako (They Just Don't Makim Like Us Any More)
+  - Y Yo Ganga (Perdido)
+  - El Manicero (They Just Don't Makim Like Us Any More)
+  - Kako Y Palmieri (Alegre All Stars Jazz)
+  - Peanut Vendor (Alegre All Stars Jazz)
+  - 'Guajira In "F" (Lost And Found, Vol. 3)'
+  - 'Manteca (Way Out, Vol. 4)'
+  - Ay Camina Y Ven (Alegre All Stars Jazz)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d0a0e221-6239-402f-9508-47cc0f15758f
-  spotify: https://open.spotify.com/artist/0UI6s6uva6Ozm7VlICnFmc
-  wikipedia: https://en.wikipedia.org/wiki/Alegre_Records
+  musicbrainz: 'https://musicbrainz.org/artist/d0a0e221-6239-402f-9508-47cc0f15758f'
+  spotify: 'https://open.spotify.com/artist/0UI6s6uva6Ozm7VlICnFmc'
+  wikipedia: 'https://en.wikipedia.org/wiki/Alegre_Records'
 image_path: 03_Resources/source_material/ArtistPortraits/alegre_all_stars.jpg
 biography_enhanced_at: '2025-12-05T06:18:57.044242'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.udiscovermusic.com/stories/alegre-records-history/
-- https://jazzdelapena.com/reviews/essential-listening-the-alegre-all-stars-volume-1/
-- https://en.wikipedia.org/wiki/Alegre_Records
-- https://latinomusiccafe.com/2014/07/07/alegre-all-stars-40-years-from-carnegie-concert/
-- https://whedco.org/wp-content/uploads/2019/07/08-01-2019-NYC-Jazz-Record_Bronx-Rising-Alegre-Records.pdf
-- https://www.forcedexposure.com/Artists/ALEGRE.ALL.STARS.THE.html
-- https://www.last.fm/music/Alegre+All+Stars/+wiki
+  - 'https://www.udiscovermusic.com/stories/alegre-records-history/'
+  - >-
+    https://jazzdelapena.com/reviews/essential-listening-the-alegre-all-stars-volume-1/
+  - 'https://en.wikipedia.org/wiki/Alegre_Records'
+  - >-
+    https://latinomusiccafe.com/2014/07/07/alegre-all-stars-40-years-from-carnegie-concert/
+  - >-
+    https://whedco.org/wp-content/uploads/2019/07/08-01-2019-NYC-Jazz-Record_Bronx-Rising-Alegre-Records.pdf
+  - 'https://www.forcedexposure.com/Artists/ALEGRE.ALL.STARS.THE.html'
+  - 'https://www.last.fm/music/Alegre+All+Stars/+wiki'
 network_extracted: true
 entry_created: '2025-12-05T06:18:57.044249'
 last_updated: '2025-12-23T08:16:04.523343'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d17f59df-67eb-4a6f-ae6c-d4af6a489ae9
-  name: Julian Cabrera
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 61af2fa9-1d2d-4474-8c1f-43b4a36faeec
-  name: Chivirico Davila
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4bfc9ac1-5518-4436-86c8-b8278f9d9683
-  name: Rafael Dávila
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5aff16d6-4016-488d-9aae-3659c9e3ee7f
-  name: Kako
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 84e83e95-c58f-4d3f-960f-29ea91a64e57
-  name: Frank Malabe
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 13f53407-3b0f-426b-8ca9-935456362412
-  name: Johnny Pacheco
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: be06b18a-05c7-446f-88ed-5280012c226c
-  name: Charlie Palmieri
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 17928700-0eaa-4068-9e3d-e6848fe9d178
-  name: Joe Quijano
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: dd6fbe70-1036-41e6-928c-fb428a515ded
-  name: Bobby Rodriguez
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 72cd9e50-1a0e-4f3d-955f-47e24ea16e8a
-  name: Barry Rogers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d1dbb5b8-4a36-47e9-bb53-8b7f008af563
-  name: Al Santiago
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d17f59df-67eb-4a6f-ae6c-d4af6a489ae9
+    name: Julian Cabrera
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 61af2fa9-1d2d-4474-8c1f-43b4a36faeec
+    name: Chivirico Davila
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4bfc9ac1-5518-4436-86c8-b8278f9d9683
+    name: Rafael Dávila
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5aff16d6-4016-488d-9aae-3659c9e3ee7f
+    name: Kako
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 84e83e95-c58f-4d3f-960f-29ea91a64e57
+    name: Frank Malabe
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 13f53407-3b0f-426b-8ca9-935456362412
+    name: Johnny Pacheco
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: be06b18a-05c7-446f-88ed-5280012c226c
+    name: Charlie Palmieri
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 17928700-0eaa-4068-9e3d-e6848fe9d178
+    name: Joe Quijano
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: dd6fbe70-1036-41e6-928c-fb428a515ded
+    name: Bobby Rodriguez
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 72cd9e50-1a0e-4f3d-955f-47e24ea16e8a
+    name: Barry Rogers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d1dbb5b8-4a36-47e9-bb53-8b7f008af563
+    name: Al Santiago
 musicbrainz_id: d0a0e221-6239-402f-9508-47cc0f15758f
-origin: New York
+origin: 'New York, New York, United States'
 ---
 
 ![](alegre_all_stars.jpg)

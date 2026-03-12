@@ -1,94 +1,94 @@
 ---
-title: JOE LOVANO
+title: Joe Lovano
 wiki_slug: joe-lovano
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1952-12-29'
-birth_place: Cleveland
+birth_place: 'Cleveland, Ohio, United States'
 genres:
-- jazz
+  - jazz
 instruments:
-- original
-- saxophone
-- soprano saxophone
-- tenor saxophone
-- flute
-- spoken vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c9aba151-2bf5-4cda-8c6d-2ea2b5c16346
-  name: Paul Motian Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0d1f449a-dbff-4972-b65c-5b5498c84ea3
-  name: Scolohofo
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 384c6f69-cd99-482b-b8bd-7cccb6c8bbca
-  name: Joe Lovano Us Five
-- begin: ''
-  end: ''
-  instruments:
   - original
-  mbid: 829493d1-f4a0-4b34-9161-a42254d98000
-  name: Joe Lovano Nonet
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: b8088b2a-0dbc-47f8-b1b2-a56d70cc3ce7
-  name: Joe Lovano Quartet
-- begin: ''
-  end: ''
-  instruments:
   - saxophone
-  mbid: 2f249ba0-a73f-435e-8c82-6b9a4598b4f1
-  name: All Stars Band
-- begin: ''
-  end: ''
-  instruments:
   - soprano saxophone
-  mbid: ffcc2a78-c634-43cf-b15d-66814f02be83
-  name: Joe Lovano Quintet
-- begin: ''
-  end: ''
-  instruments:
   - tenor saxophone
-  mbid: ffcc2a78-c634-43cf-b15d-66814f02be83
-  name: Joe Lovano Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - tenor saxophone
-  mbid: c7059057-b57a-401c-90ab-264dbd9742b1
-  name: Paul Motian Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 50bf4d88-ef05-4599-9bea-5e3651fc382c
-  name: Trio Tapestry
-- begin: ''
-  end: ''
-  instruments:
   - flute
-  mbid: 5214982b-0151-484d-b08f-06d52d22cf92
-  name: Charlie Haden’s Liberation Music Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - tenor saxophone
-  mbid: 5214982b-0151-484d-b08f-06d52d22cf92
-  name: Charlie Haden’s Liberation Music Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f01f8a9d-2f18-44eb-b3bd-5f9f4f638fdb
-  name: John Patitucci Trio
+  - spoken vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c9aba151-2bf5-4cda-8c6d-2ea2b5c16346
+    name: Paul Motian Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0d1f449a-dbff-4972-b65c-5b5498c84ea3
+    name: Scolohofo
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 384c6f69-cd99-482b-b8bd-7cccb6c8bbca
+    name: Joe Lovano Us Five
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 829493d1-f4a0-4b34-9161-a42254d98000
+    name: Joe Lovano Nonet
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: b8088b2a-0dbc-47f8-b1b2-a56d70cc3ce7
+    name: Joe Lovano Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - saxophone
+    mbid: 2f249ba0-a73f-435e-8c82-6b9a4598b4f1
+    name: All Stars Band
+  - begin: ''
+    end: ''
+    instruments:
+      - soprano saxophone
+    mbid: ffcc2a78-c634-43cf-b15d-66814f02be83
+    name: Joe Lovano Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: ffcc2a78-c634-43cf-b15d-66814f02be83
+    name: Joe Lovano Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: c7059057-b57a-401c-90ab-264dbd9742b1
+    name: Paul Motian Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 50bf4d88-ef05-4599-9bea-5e3651fc382c
+    name: Trio Tapestry
+  - begin: ''
+    end: ''
+    instruments:
+      - flute
+    mbid: 5214982b-0151-484d-b08f-06d52d22cf92
+    name: Charlie Haden’s Liberation Music Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: 5214982b-0151-484d-b08f-06d52d22cf92
+    name: Charlie Haden’s Liberation Music Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f01f8a9d-2f18-44eb-b3bd-5f9f4f638fdb
+    name: John Patitucci Trio
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/joe_lovano.jpg
   caption: JOE LOVANO
@@ -110,61 +110,66 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Paul Motian
-  - Bill Frisell
-  - McCoy Tyner
-  - Hank Jones
-  - John Scofield
-  - Woody Herman Orchestra
-  - Mel Lewis Orchestra
-  - Herbie Mann
-  - Lonnie Smith
-  - Dave Liebman and Michael Brecker / Ravi Coltrane
-  - Gunther Schuller
-  - Esperanza Spalding
+    - Paul Motian
+    - Bill Frisell
+    - McCoy Tyner
+    - Hank Jones
+    - John Scofield
+    - Woody Herman Orchestra
+    - Mel Lewis Orchestra
+    - Herbie Mann
+    - Lonnie Smith
+    - Dave Liebman and Michael Brecker / Ravi Coltrane
+    - Gunther Schuller
+    - Esperanza Spalding
   influenced:
-  - Jeff Coffin
-  - Melissa Aldana
-  - Younger generation of jazz saxophonists and improvisers
+    - Jeff Coffin
+    - Melissa Aldana
+    - Younger generation of jazz saxophonists and improvisers
   mentors:
-  - Tony "Big T" Lovano
-  - Herb Pomeroy
-  - Gary Burton
-  - Bill DeArango
-  - John Coltrane, Dizzy Gillespie, Sonny Stitt, Miles Davis, Charlie Parker, Thelonious Monk, Max Roach
-  - Coleman Hawkins, Lester Young, Sonny Rollins, Johnny Griffin, Lucky Thompson
+    - Tony "Big T" Lovano
+    - Herb Pomeroy
+    - Gary Burton
+    - Bill DeArango
+    - >-
+      John Coltrane, Dizzy Gillespie, Sonny Stitt, Miles Davis, Charlie Parker,
+      Thelonious Monk, Max Roach
+    - >-
+      Coleman Hawkins, Lester Young, Sonny Rollins, Johnny Griffin, Lucky
+      Thompson
 spotify_data:
   followers: 35697
   id: 36YE6h8aN09ZKG4EhneDSf
   popularity: 35
-  url: https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf
+  url: 'https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf'
 discography_enriched: true
 top_tracks:
-- Stella By Starlight (I'm All For You (Ballad Songbook))
-- Seeds Of Change
-- Song To An Old Friend
-- Seeds Of Change (Trio Tapestry)
-- Glimmer Of Hope
-- Emperor Jones (Landmarks)
-- Star Crossed Lovers (Cross Culture)
-- I Can't Help It (Radio Music Society)
-- I'm All For You (I'm All For You (Ballad Songbook))
-- Golden Horn
+  - Stella By Starlight (I'm All For You (Ballad Songbook))
+  - Seeds Of Change
+  - Song To An Old Friend
+  - Seeds Of Change (Trio Tapestry)
+  - Glimmer Of Hope
+  - Emperor Jones (Landmarks)
+  - Star Crossed Lovers (Cross Culture)
+  - I Can't Help It (Radio Music Society)
+  - I'm All For You (I'm All For You (Ballad Songbook))
+  - Golden Horn
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f3f7cd82-7967-4c53-9db8-039bb24498c1
-  spotify: https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf
-  wikipedia: https://en.wikipedia.org/wiki/Joe_Lovano
+  musicbrainz: 'https://musicbrainz.org/artist/f3f7cd82-7967-4c53-9db8-039bb24498c1'
+  spotify: 'https://open.spotify.com/artist/36YE6h8aN09ZKG4EhneDSf'
+  wikipedia: 'https://en.wikipedia.org/wiki/Joe_Lovano'
 image_path: 03_Resources/source_material/ArtistPortraits/joe_lovano.jpg
 biography_enhanced_at: '2025-12-09T04:52:50.826574'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Joe_Lovano
-- https://syos.co/en/blogs/news/a-conversation-with-joe-lovano-jazz-legacy-and-innovation
-- https://downbeat.com/news/detail/joe-lovano-moves-on-to-the-next-chapter
-- https://jazzfuel.com/joe-lovano-52nd-street-themes/
-- https://www.syncopatedjustice.com/p/joe-lovano
-- https://www.sfjazz.org/onthecorner/joe-lovano-the-intimate-moment-of-now/
+  - 'https://en.wikipedia.org/wiki/Joe_Lovano'
+  - >-
+    https://syos.co/en/blogs/news/a-conversation-with-joe-lovano-jazz-legacy-and-innovation
+  - 'https://downbeat.com/news/detail/joe-lovano-moves-on-to-the-next-chapter'
+  - 'https://jazzfuel.com/joe-lovano-52nd-street-themes/'
+  - 'https://www.syncopatedjustice.com/p/joe-lovano'
+  - 'https://www.sfjazz.org/onthecorner/joe-lovano-the-intimate-moment-of-now/'
 network_extracted: true
 entry_created: '2025-12-09T04:52:50.826582'
 last_updated: '2025-12-23T08:16:10.625653'
@@ -172,9 +177,10 @@ disambiguation: American jazz artist
 gender: Male
 musicbrainz_id: f3f7cd82-7967-4c53-9db8-039bb24498c1
 tags:
-- american
-- hard bop
-- jazz
+  - american
+  - hard bop
+  - jazz
+origin: 'Cleveland, Ohio, United States'
 ---
 
 ![](joe_lovano.jpg)

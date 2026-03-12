@@ -23,49 +23,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Manfred Eicher
-  - Paul Motian
-  - Charles Lloyd
+    - Manfred Eicher
+    - Paul Motian
+    - Charles Lloyd
   influenced:
-  - Brad Mehldau
-  - Vijay Iyer
+    - Brad Mehldau
+    - Vijay Iyer
   mentors:
-  - Bill Evans
+    - Bill Evans
 spotify_data:
   followers: 15969
   id: 5vuxY740S6HZLvrrQCAzfG
   popularity: 19
-  url: https://open.spotify.com/artist/5vuxY740S6HZLvrrQCAzfG
+  url: 'https://open.spotify.com/artist/5vuxY740S6HZLvrrQCAzfG'
 discography_enriched: true
 top_tracks:
-- Pony (I'm the One)
-- Survival (The Perfect Release)
-- The Succubus (The Perfect Release)
-- My Mama Never Taught Me How to Cook (X Dreams)
-- Rubber Hunger (The Perfect Release)
-- I'm the One (I'm the One)
-- Solar System (The Perfect Release)
-- This Feel Within (X Dreams)
-- 7 Days (I'm the One)
-- Just For The Kick (Sound Mirrors)
+  - Pony (I'm the One)
+  - Survival (The Perfect Release)
+  - The Succubus (The Perfect Release)
+  - My Mama Never Taught Me How to Cook (X Dreams)
+  - Rubber Hunger (The Perfect Release)
+  - I'm the One (I'm the One)
+  - Solar System (The Perfect Release)
+  - This Feel Within (X Dreams)
+  - 7 Days (I'm the One)
+  - Just For The Kick (Sound Mirrors)
 external_urls:
-  spotify: https://open.spotify.com/artist/5vuxY740S6HZLvrrQCAzfG
-  wikipedia: https://en.wikipedia.org/wiki/Standards,_Vol._1
+  spotify: 'https://open.spotify.com/artist/5vuxY740S6HZLvrrQCAzfG'
+  wikipedia: 'https://en.wikipedia.org/wiki/Standards,_Vol._1'
 image_path: 03_Resources/source_material/ArtistPortraits/jarrett_peacock_dejohnette.jpg
 biography_enhanced_at: '2025-10-31T08:01:03.811018'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Standards,_Vol._1
-- https://en.wikipedia.org/wiki/Tales_of_Another
-- https://jazztimes.com/features/profiles/keith-jarrett-jack-dejohnette-gary-peacock-standard-bearers/
-- https://www.udiscovermusic.com/stories/keith-jarrett-gary-peacock-jack-dejohnette-standards-feature/
-- https://ecmrecords.com/gary-peacock-1935-2020/
-- https://jazztimes.com/reviews/albums/keith-jarrettgary-peacockjack-dejohnette-yesterdays/
+  - 'https://en.wikipedia.org/wiki/Standards,_Vol._1'
+  - 'https://en.wikipedia.org/wiki/Tales_of_Another'
+  - >-
+    https://jazztimes.com/features/profiles/keith-jarrett-jack-dejohnette-gary-peacock-standard-bearers/
+  - >-
+    https://www.udiscovermusic.com/stories/keith-jarrett-gary-peacock-jack-dejohnette-standards-feature/
+  - 'https://ecmrecords.com/gary-peacock-1935-2020/'
+  - >-
+    https://jazztimes.com/reviews/albums/keith-jarrettgary-peacockjack-dejohnette-yesterdays/
 network_extracted: true
 entry_created: '2025-10-31T08:01:03.811033'
 last_updated: '2025-12-23T08:16:10.236642'
-origin: 'United States (group origin: New York recording scene, ECM Records)'
+origin: 'New York, New York, United States'
+artist_type: person
 ---
 
 ![](jarrett_peacock_dejohnette.jpg)

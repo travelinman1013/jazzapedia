@@ -1,5 +1,5 @@
 ---
-title: Wild Magnolias
+title: The Wild Magnolias
 wiki_slug: wild-magnolias
 schema_version: 2
 status: active
@@ -14,7 +14,7 @@ audio_profile:
   valence_avg: 0.861
   danceability_avg: 0.674
   acousticness_avg: 0.143
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -7.4
   speechiness_avg: 0.052
   liveness_avg: 0.028
@@ -23,39 +23,42 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Willie Tee
-  - Snooks Eaglin
-  - ReBirth Brass Band
-  - Monk Boudreaux
-  - Dr. John
+    - Willie Tee
+    - Snooks Eaglin
+    - ReBirth Brass Band
+    - Monk Boudreaux
+    - Dr. John
   influenced:
-  - June Yamagishi
-  - Contemporary Mardi Gras Indian bands
+    - June Yamagishi
+    - Contemporary Mardi Gras Indian bands
   mentors:
-  - Leon, Flap, and Joe Lee Davis
+    - 'Leon, Flap, and Joe Lee Davis'
 spotify_data:
   followers: 20
   id: 760iU3HAYkUAAXx74usYlX
   popularity: 0
-  url: https://open.spotify.com/artist/760iU3HAYkUAAXx74usYlX
+  url: 'https://open.spotify.com/artist/760iU3HAYkUAAXx74usYlX'
 discography_enriched: true
 top_tracks:
-- 'Smoke My Peace Pipe - Live (Jazz Fest: The New Orleans Jazz & Heritage Festival)'
+  - >-
+    Smoke My Peace Pipe - Live (Jazz Fest: The New Orleans Jazz & Heritage
+    Festival)
 external_urls:
-  spotify: https://open.spotify.com/artist/760iU3HAYkUAAXx74usYlX
-  wikipedia: https://en.wikipedia.org/wiki/The_Wild_Magnolias
+  spotify: 'https://open.spotify.com/artist/760iU3HAYkUAAXx74usYlX'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Wild_Magnolias'
 image_path: ''
 biography_enhanced_at: '2025-10-20T09:49:51.018513'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Wild_Magnolias
-- https://m.sunnysiderecords.com/index.php/artist/id/312
-- https://www.offbeat.com/news/theodore-emile-bo-dollis/
+  - 'https://en.wikipedia.org/wiki/The_Wild_Magnolias'
+  - 'https://m.sunnysiderecords.com/index.php/artist/id/312'
+  - 'https://www.offbeat.com/news/theodore-emile-bo-dollis/'
 network_extracted: true
 entry_created: '2025-10-20T09:49:51.020581'
 last_updated: '2025-12-23T08:16:04.282357'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![]()

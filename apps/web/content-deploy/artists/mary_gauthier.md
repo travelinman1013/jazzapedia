@@ -5,17 +5,17 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1962-03-11'
-birth_place: New Orleans
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- americana
-- alt country
-- folk
-- singer-songwriter
+  - americana
+  - alt country
+  - folk
+  - singer-songwriter
 instruments:
-- guitar
-- acoustic guitar
-- vocal
-- background vocals
+  - guitar
+  - acoustic guitar
+  - vocal
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/mary_gauthier.jpg
   caption: Mary Gauthier
@@ -29,7 +29,7 @@ audio_profile:
   danceability_avg: 0.502
   acousticness_avg: 0.629
   instrumentalness_avg: 0.029
-  loudness_avg: -11.0
+  loudness_avg: -11
   speechiness_avg: 0.039
   liveness_avg: 0.124
   track_count: 50
@@ -37,49 +37,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Wounded Iraq War Veterans
-  - Darden Smith
-  - Paul 'Long Haul' Marhoefer
+    - Wounded Iraq War Veterans
+    - Darden Smith
+    - Paul 'Long Haul' Marhoefer
   influenced:
-  - Multiple Recording Artists
-  - University Students
+    - Multiple Recording Artists
+    - University Students
   mentors:
-  - Not specified in available sources
+    - Not specified in available sources
 spotify_data:
   followers: 54701
   id: 4SK1IgkcWWc5HC1TOBq1VS
   popularity: 41
-  url: https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS
+  url: 'https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS'
 discography_enriched: true
 top_tracks:
-- Mercy Now (Mercy Now)
-- Different Kind Of Gone (Drag Queens In Limousines)
-- I Drink (Mercy Now)
-- I Drink (Mercy Now)
-- Our Lady Of The Shooting Stars (Drag Queens In Limousines)
-- Drop In A Bucket (Mercy Now)
-- I Drink (Drag Queens In Limousines)
-- Slip Of The Tongue (Drag Queens In Limousines)
-- Between The Daylight And The Dark (Between Daylight And Dark)
-- Drag Queens In Limousines (Drag Queens In Limousines)
+  - Mercy Now (Mercy Now)
+  - Different Kind Of Gone (Drag Queens In Limousines)
+  - I Drink (Mercy Now)
+  - I Drink (Mercy Now)
+  - Our Lady Of The Shooting Stars (Drag Queens In Limousines)
+  - Drop In A Bucket (Mercy Now)
+  - I Drink (Drag Queens In Limousines)
+  - Slip Of The Tongue (Drag Queens In Limousines)
+  - Between The Daylight And The Dark (Between Daylight And Dark)
+  - Drag Queens In Limousines (Drag Queens In Limousines)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1efadc05-01b5-4a39-9c6f-da5c975276dd
-  spotify: https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS
+  musicbrainz: 'https://musicbrainz.org/artist/1efadc05-01b5-4a39-9c6f-da5c975276dd'
+  spotify: 'https://open.spotify.com/artist/4SK1IgkcWWc5HC1TOBq1VS'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/mary_gauthier.jpg
 biography_enhanced_at: '2025-12-04T08:15:18.345747'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- americanbluesscene.com
-- macmillanspeakers.com
-- marygauthier.com
-- freelibrary.org
-- alleyesmedia.com
-- highroadtouring.com
-- folkworks.org
-- americana-uk.com
-- grokipedia.com
+  - americanbluesscene.com
+  - macmillanspeakers.com
+  - marygauthier.com
+  - freelibrary.org
+  - alleyesmedia.com
+  - highroadtouring.com
+  - folkworks.org
+  - americana-uk.com
+  - grokipedia.com
 network_extracted: true
 entry_created: '2025-12-04T08:15:18.345760'
 last_updated: '2025-12-23T08:16:12.775574'
@@ -87,8 +87,9 @@ disambiguation: folk artist
 gender: Female
 musicbrainz_id: 1efadc05-01b5-4a39-9c6f-da5c975276dd
 tags:
-- country
-- folk
+  - country
+  - folk
+origin: 'Nashville, Tennessee, United States'
 ---
 
 ![](mary_gauthier.jpg)

@@ -4,8 +4,8 @@ wiki_slug: tim-obrien-ben-winship
 schema_version: 2
 status: active
 genres:
-- newgrass
-- bluegrass
+  - newgrass
+  - bluegrass
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/tim_obrien_and_ben_winship.jpg
   caption: Tim O'Brien & Ben Winship
@@ -25,57 +25,65 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jan Fabricius
-  - Pete Wernick, Charles Sawtelle, Nick Forster (Hot Rize)
-  - Stuart Duncan and Noam Pikelny
-  - Chris Stapleton
-  - John Lowell
-  - Tom Garnsey
-  - Tim O’Brien & Ben Winship (each other)
+    - Jan Fabricius
+    - 'Pete Wernick, Charles Sawtelle, Nick Forster (Hot Rize)'
+    - Stuart Duncan and Noam Pikelny
+    - Chris Stapleton
+    - John Lowell
+    - Tom Garnsey
+    - Tim O’Brien & Ben Winship (each other)
   influenced:
-  - Regional and camp students at Targhee Music Camp
+    - Regional and camp students at Targhee Music Camp
   mentors:
-  - Doc Watson
-  - James Taylor
+    - Doc Watson
+    - James Taylor
 spotify_data:
   followers: 284
   id: 3PFkSTmiB4O0a9S7bHOwOm
   popularity: 11
-  url: https://open.spotify.com/artist/3PFkSTmiB4O0a9S7bHOwOm
+  url: 'https://open.spotify.com/artist/3PFkSTmiB4O0a9S7bHOwOm'
 discography_enriched: true
 top_tracks:
-- Santa Ate A Gummy (Santa Ate A Gummy)
-- Little Miss Cutthroat (Fishing Music II)
-- Little Miss Cutthroat (Songs from the Tackle Box)
-- A Little Goes a Long Way (Acorns)
-- Shakin Down the Acorns (Acorns)
-- Pilgrim (Acorns)
-- I'll Live On (Acorns)
-- Phoebe's Rest (Acorns)
-- Katy Bar the Door (Acorns)
-- Fit to Be Tied (Acorns)
+  - Santa Ate A Gummy (Santa Ate A Gummy)
+  - Little Miss Cutthroat (Fishing Music II)
+  - Little Miss Cutthroat (Songs from the Tackle Box)
+  - A Little Goes a Long Way (Acorns)
+  - Shakin Down the Acorns (Acorns)
+  - Pilgrim (Acorns)
+  - I'll Live On (Acorns)
+  - Phoebe's Rest (Acorns)
+  - Katy Bar the Door (Acorns)
+  - Fit to Be Tied (Acorns)
 external_urls:
-  spotify: https://open.spotify.com/artist/3PFkSTmiB4O0a9S7bHOwOm
+  spotify: 'https://open.spotify.com/artist/3PFkSTmiB4O0a9S7bHOwOm'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/tim_obrien_and_ben_winship.jpg
 biography_enhanced_at: '2025-12-15T01:26:40.097116'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- 'The Bluegrass Situation – “The Unbroken Circle: An Interview with Tim O’Brien”[1]'
-- Tim O’Brien – Substack autobiographical entry[2]
-- Ben Winship official site – news on “Santa Ate a Gummy”[3]
-- Targhee Music Camp – history page referencing Ben Winship[4]
-- Making A Scene – review of Ben Winship’s *Toolshed* and *Acorns*[5]
-- Tim O’Brien official site – articles/news page[6]
-- Ben Winship official site – biography[7]
-- Last.fm – Ben Winship biography summary[8]
-- Blueberry Bluegrass Festival 2019 reflections mentioning Growling Old Men[10]
+  - >-
+    The Bluegrass Situation – “The Unbroken Circle: An Interview with Tim
+    O’Brien”[1]
+  - 'Tim O’Brien – Substack autobiographical entry[2]'
+  - 'Ben Winship official site – news on “Santa Ate a Gummy”[3]'
+  - 'Targhee Music Camp – history page referencing Ben Winship[4]'
+  - 'Making A Scene – review of Ben Winship’s *Toolshed* and *Acorns*[5]'
+  - 'Tim O’Brien official site – articles/news page[6]'
+  - 'Ben Winship official site – biography[7]'
+  - 'Last.fm – Ben Winship biography summary[8]'
+  - >-
+    Blueberry Bluegrass Festival 2019 reflections mentioning Growling Old
+    Men[10]
 network_extracted: true
 entry_created: '2025-12-15T01:26:40.097128'
 last_updated: '2025-12-23T08:16:17.442287'
-origin: 'Tim O’Brien: Wheeling, West Virginia, United States (birthplace and early home); Ben Winship: Teton/Idaho region,
-  United States (career base and origin of his musical activities)[1][2][4][7][8]'
+origin: >-
+  Tim O’Brien: Wheeling, West Virginia, United States (birthplace and early
+  home); Ben Winship: Teton/Idaho region, United States (career base and origin
+  of his musical activities)
+birth_place: 'Wheeling, West Virginia, United States'
+artist_type: band
 ---
 
 ![](tim_obrien_and_ben_winship.jpg)

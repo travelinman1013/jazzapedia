@@ -3,13 +3,13 @@ title: Melissa Gardiner
 wiki_slug: melissa-gardiner
 schema_version: 2
 status: active
-birth_place: Ithaca, New York, USA
+birth_place: 'Ithaca, New York, USA'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Melissa_Gardiner.jpg
   caption: Melissa Gardiner
   background: solo_singer
-  origin: Ithaca, New York, USA
+  origin: 'Ithaca, New York, USA'
 audio_profile:
   tempo_avg: 108.2
   energy_avg: 0.497
@@ -25,43 +25,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Opus Ithaca School of Music faculty
+    - Opus Ithaca School of Music faculty
   influenced:
-  - Opus Ithaca jazz students
+    - Opus Ithaca jazz students
   mentors:
-  - Curtis Fuller
+    - Curtis Fuller
 spotify_data:
   followers: 232
   id: 2qvGaGQgrlG22z5G0106rh
   popularity: 9
-  url: https://open.spotify.com/artist/2qvGaGQgrlG22z5G0106rh
+  url: 'https://open.spotify.com/artist/2qvGaGQgrlG22z5G0106rh'
 discography_enriched: true
 top_tracks:
-- Aunt Leslie (Live at Madison Square Garden) (Live at Madison Square Garden)
-- People Pleaser (Empowered)
-- Sazon (What a Feeling!)
-- 911 (Intro) (Empowered)
-- Rain Reprise (Empowered)
-- Slowly (Empowered)
-- Bump (Empowered)
-- Mask (Empowered)
-- Smile (A Conversation with Tia) (Empowered)
-- Brass Ceiling (Empowered)
+  - Aunt Leslie (Live at Madison Square Garden) (Live at Madison Square Garden)
+  - People Pleaser (Empowered)
+  - Sazon (What a Feeling!)
+  - 911 (Intro) (Empowered)
+  - Rain Reprise (Empowered)
+  - Slowly (Empowered)
+  - Bump (Empowered)
+  - Mask (Empowered)
+  - Smile (A Conversation with Tia) (Empowered)
+  - Brass Ceiling (Empowered)
 external_urls:
-  spotify: https://open.spotify.com/artist/2qvGaGQgrlG22z5G0106rh
+  spotify: 'https://open.spotify.com/artist/2qvGaGQgrlG22z5G0106rh'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/Melissa_Gardiner.jpg
 biography_enhanced_at: '2025-10-20T10:14:44.863642'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://opusithaca.org/faculty/jazz/melissa-gardiner
-- https://www.reverbnation.com/melissagardiner7/song/22669644-rain
-- https://dev.nysmusic.com/blog/2019/07/27/hearing-aide-melissa-gardiner-empowered/
-- https://www.melissamaymusic.com
+  - 'https://opusithaca.org/faculty/jazz/melissa-gardiner'
+  - 'https://www.reverbnation.com/melissagardiner7/song/22669644-rain'
+  - >-
+    https://dev.nysmusic.com/blog/2019/07/27/hearing-aide-melissa-gardiner-empowered/
+  - 'https://www.melissamaymusic.com'
 network_extracted: true
 entry_created: '2025-10-20T10:14:44.863657'
 last_updated: '2025-12-23T08:16:03.275219'
+artist_type: person
 ---
 
 ![](Melissa_Gardiner.jpg)

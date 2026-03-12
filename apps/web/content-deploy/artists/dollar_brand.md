@@ -3,15 +3,15 @@ title: Dollar Brand
 wiki_slug: dollar-brand
 schema_version: 2
 status: active
-birth_place: Cape Town, Western Cape, South Africa
+birth_place: 'Cape Town, Western Cape, South Africa'
 genres:
-- free jazz
-- jazz
+  - free jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/dollar_brand.jpg
   caption: Dollar Brand
   background: solo_singer
-  origin: Cape Town, Western Cape, South Africa
+  origin: 'Cape Town, Western Cape, South Africa'
 audio_profile:
   tempo_avg: 110.7
   energy_avg: 0.316
@@ -27,57 +27,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sathima Bea Benjamin
-  - Kippie Moeketsi
-  - Hugh Masekela
-  - Jonas Gwangwa
-  - Johnny Gertze
-  - Makaya Ntshoko
-  - Duke Ellington
-  - Max Roach
-  - Elvin Jones
+    - Sathima Bea Benjamin
+    - Kippie Moeketsi
+    - Hugh Masekela
+    - Jonas Gwangwa
+    - Johnny Gertze
+    - Makaya Ntshoko
+    - Duke Ellington
+    - Max Roach
+    - Elvin Jones
   influenced:
-  - Jean Grae
-  - Tsakwe
-  - Hotep Galeta
-  - Generations of South African jazz musicians
+    - Jean Grae
+    - Tsakwe
+    - Hotep Galeta
+    - Generations of South African jazz musicians
   mentors:
-  - Thelonious Monk
-  - Albert Ammons
-  - Herbie Nichols
-  - Hall Overton
+    - Thelonious Monk
+    - Albert Ammons
+    - Herbie Nichols
+    - Hall Overton
 spotify_data:
   followers: 8369
   id: 6qshOTFUQhvYrza4Sc85Tl
   popularity: 14
-  url: https://open.spotify.com/artist/6qshOTFUQhvYrza4Sc85Tl
+  url: 'https://open.spotify.com/artist/6qshOTFUQhvYrza4Sc85Tl'
 discography_enriched: true
 top_tracks:
-- Yardbird Suite (Verse 1+)
-- Body & Soul (Verse 1+)
-- Barefoot Boy From Queens Town - To Mongezi (Duet)
-- スワジ (第三世界／アンダーグラウンド)
-- Moniebah (Duet)
-- Fortunato (Duet)
-- Twelve Times Twelve (Verse 1+)
-- ドンの歌 (第三世界／アンダーグラウンド)
-- ワェー・ワェー・オー (第三世界／アンダーグラウンド)
-- Left Alone (Duet)
+  - Yardbird Suite (Verse 1+)
+  - Body & Soul (Verse 1+)
+  - Barefoot Boy From Queens Town - To Mongezi (Duet)
+  - スワジ (第三世界／アンダーグラウンド)
+  - Moniebah (Duet)
+  - Fortunato (Duet)
+  - Twelve Times Twelve (Verse 1+)
+  - ドンの歌 (第三世界／アンダーグラウンド)
+  - ワェー・ワェー・オー (第三世界／アンダーグラウンド)
+  - Left Alone (Duet)
 external_urls:
-  spotify: https://open.spotify.com/artist/6qshOTFUQhvYrza4Sc85Tl
-  wikipedia: https://en.wikipedia.org/wiki/Abdullah_Ibrahim
+  spotify: 'https://open.spotify.com/artist/6qshOTFUQhvYrza4Sc85Tl'
+  wikipedia: 'https://en.wikipedia.org/wiki/Abdullah_Ibrahim'
 image_path: 03_Resources/source_material/ArtistPortraits/dollar_brand.jpg
 biography_enhanced_at: '2025-10-24T07:37:07.337485'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://abdullahibrahim.co.za/biography/
-- https://schwarzman.yale.edu/artist/abdullah-ibrahim
-- https://magazine.waxpoetics.com/article/abdullah-ibrahim-dollar-brand/
-- https://www.createastir.ca/articles/abdullah-ibrahim-chan-centre
+  - 'https://abdullahibrahim.co.za/biography/'
+  - 'https://schwarzman.yale.edu/artist/abdullah-ibrahim'
+  - 'https://magazine.waxpoetics.com/article/abdullah-ibrahim-dollar-brand/'
+  - 'https://www.createastir.ca/articles/abdullah-ibrahim-chan-centre'
 network_extracted: true
 entry_created: '2025-10-24T07:37:07.337510'
 last_updated: '2025-12-23T08:16:07.834381'
+birth_date: '1934'
+artist_type: person
 ---
 
 ![](dollar_brand.jpg)

@@ -2,7 +2,7 @@
 title: Work Money Death
 wiki_slug: work-money-death
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres: []
 infobox:
@@ -24,53 +24,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tony Burkill
-  - Neil Innes
-  - Adam Fairhall
-  - Members of The Sorcerers, The Lewis Express, Nat Birchall’s band
+    - Tony Burkill
+    - Neil Innes
+    - Adam Fairhall
+    - 'Members of The Sorcerers, The Lewis Express, Nat Birchall’s band'
   influenced: []
   mentors:
-  - Pharoah Sanders
-  - Alice Coltrane
+    - Pharoah Sanders
+    - Alice Coltrane
 spotify_data:
   followers: 3888
   id: 2O0uLsusPKXGrEYGv0UlLf
   popularity: 13
-  url: https://open.spotify.com/artist/2O0uLsusPKXGrEYGv0UlLf
+  url: 'https://open.spotify.com/artist/2O0uLsusPKXGrEYGv0UlLf'
 discography_enriched: true
 top_tracks:
-- We Are the People (People of the Fast Flowing River)
-- The Fast Flowing River (People of the Fast Flowing River)
-- Headwaters of the Soul (People of the Fast Flowing River)
-- We Are the People - Single Edit (We Are the People (Single Edit))
-- The River Becomes the Stream (People of the Fast Flowing River)
-- At Once Familiar (Thought, Action, Reaction, Interaction)
-- Freedom as a Heartfelt Song (Thought, Action, Reaction, Interaction)
-- A River Becomes a Stream - Single Edit (A River Becomes a Stream)
-- Song of Healing (Thought, Action, Reaction, Interaction)
-- Same as Before (Thought, Action, Reaction, Interaction)
+  - We Are the People (People of the Fast Flowing River)
+  - The Fast Flowing River (People of the Fast Flowing River)
+  - Headwaters of the Soul (People of the Fast Flowing River)
+  - We Are the People - Single Edit (We Are the People (Single Edit))
+  - The River Becomes the Stream (People of the Fast Flowing River)
+  - 'At Once Familiar (Thought, Action, Reaction, Interaction)'
+  - 'Freedom as a Heartfelt Song (Thought, Action, Reaction, Interaction)'
+  - A River Becomes a Stream - Single Edit (A River Becomes a Stream)
+  - 'Song of Healing (Thought, Action, Reaction, Interaction)'
+  - 'Same as Before (Thought, Action, Reaction, Interaction)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2bef0715-6187-451f-b1ed-289c247ed236
-  spotify: https://open.spotify.com/artist/2O0uLsusPKXGrEYGv0UlLf
+  musicbrainz: 'https://musicbrainz.org/artist/2bef0715-6187-451f-b1ed-289c247ed236'
+  spotify: 'https://open.spotify.com/artist/2O0uLsusPKXGrEYGv0UlLf'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/work_money_death.jpg
 biography_enhanced_at: '2025-11-14T10:33:18.517291'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.jazzrevelations.com/post/work-money-death-the-space-in-which-the-uncontrollable-unknown-resides-can-album-review
-- https://www.forcedexposure.com/Labels/ATA.RECORDS.UK.html
-- https://tonyburkill.bandcamp.com/album/work-money-death
-- https://www.flagey.be/en/activity/10692-work-money-death-album-presentation-thought-action-interaction-reaction-ata-records-2022
-- https://www.roughtrade.com/product/work-money-death/the-space-in-which-the-uncontrollable-unknown-resides-can-be-the-place-from-which-creation-arises
+  - >-
+    https://www.jazzrevelations.com/post/work-money-death-the-space-in-which-the-uncontrollable-unknown-resides-can-album-review
+  - 'https://www.forcedexposure.com/Labels/ATA.RECORDS.UK.html'
+  - 'https://tonyburkill.bandcamp.com/album/work-money-death'
+  - >-
+    https://www.flagey.be/en/activity/10692-work-money-death-album-presentation-thought-action-interaction-reaction-ata-records-2022
+  - >-
+    https://www.roughtrade.com/product/work-money-death/the-space-in-which-the-uncontrollable-unknown-resides-can-be-the-place-from-which-creation-arises
 network_extracted: true
 entry_created: '2025-11-14T10:33:18.517302'
 last_updated: '2025-12-23T08:16:18.296319'
 musicbrainz_id: 2bef0715-6187-451f-b1ed-289c247ed236
-origin: Leeds, West Yorkshire, England, UK
+origin: 'Leeds, West Yorkshire, England, UK'
 tags:
-- jazz
-- spiritual jazz
+  - jazz
+  - spiritual jazz
 ---
 
 ![](work_money_death.jpg)

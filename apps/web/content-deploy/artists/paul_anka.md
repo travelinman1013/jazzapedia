@@ -5,13 +5,13 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1941-07-30'
-birth_place: Ottawa
+birth_place: 'Ottawa, Ontario, Canada'
 genres:
-- adult standards
+  - adult standards
 instruments:
-- lead vocals
-- background vocals
-- spoken vocals
+  - lead vocals
+  - background vocals
+  - spoken vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/paul_anka.jpg
   caption: Paul Anka
@@ -33,51 +33,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Frank Sinatra
-  - Tom Jones
-  - Michael Jackson
+    - Frank Sinatra
+    - Tom Jones
+    - Michael Jackson
   influenced:
-  - Michael Bublé
+    - Michael Bublé
   mentors:
-  - Family and Local Influences
+    - Family and Local Influences
 spotify_data:
   followers: 822414
   id: 7ceUfdWq2t5nbatS6ollHh
   popularity: 61
-  url: https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh
+  url: 'https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh'
 discography_enriched: true
 top_tracks:
-- Put Your Head On My Shoulder
-- Put Your Head On My Shoulder - Remastered (Paul Anka Sings His Big 15 (Remastered))
-- Puppy Love - Remastered (Paul Anka Sings His Big 15 (Remastered))
-- Put Your Head on My Shoulder (Sings His Favorites)
-- Diana - Remastered (Paul Anka Sings His Big 15 (Remastered))
-- Diana (Sings His Favorites)
-- Think I'm In Love Again (with Gloria Estefan) (Duets)
-- Pennies From Heaven (with Michael Bublé) (Duets)
-- My Way (with Paul Anka)
-- I Don't Like To Sleep Alone (Feelings)
+  - Put Your Head On My Shoulder
+  - >-
+    Put Your Head On My Shoulder - Remastered (Paul Anka Sings His Big 15
+    (Remastered))
+  - Puppy Love - Remastered (Paul Anka Sings His Big 15 (Remastered))
+  - Put Your Head on My Shoulder (Sings His Favorites)
+  - Diana - Remastered (Paul Anka Sings His Big 15 (Remastered))
+  - Diana (Sings His Favorites)
+  - Think I'm In Love Again (with Gloria Estefan) (Duets)
+  - Pennies From Heaven (with Michael Bublé) (Duets)
+  - My Way (with Paul Anka)
+  - I Don't Like To Sleep Alone (Feelings)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/420c6768-0885-415a-bb59-d6a275121125
-  spotify: https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh
-  wikipedia: https://en.wikipedia.org/wiki/Paul_Anka
+  musicbrainz: 'https://musicbrainz.org/artist/420c6768-0885-415a-bb59-d6a275121125'
+  spotify: 'https://open.spotify.com/artist/7ceUfdWq2t5nbatS6ollHh'
+  wikipedia: 'https://en.wikipedia.org/wiki/Paul_Anka'
 image_path: 03_Resources/source_material/ArtistPortraits/paul_anka.jpg
 biography_enhanced_at: '2025-10-28T08:57:22.725579'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.biography.com/musicians/paul-anka
-- https://www.gigwise.com/paul-anka-height-biography-and-career/
-- https://www.paulanka.com/biography
+  - 'https://www.biography.com/musicians/paul-anka'
+  - 'https://www.gigwise.com/paul-anka-height-biography-and-career/'
+  - 'https://www.paulanka.com/biography'
 network_extracted: true
 entry_created: '2025-10-28T08:57:22.725584'
 last_updated: '2025-12-23T08:16:14.038628'
 gender: Male
 musicbrainz_id: 420c6768-0885-415a-bb59-d6a275121125
 tags:
-- 2008 universal fire victim
-- canadian
-- jazz
+  - 2008 universal fire victim
+  - canadian
+  - jazz
 ---
 
 ![](paul_anka.jpg)

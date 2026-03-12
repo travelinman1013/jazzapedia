@@ -5,24 +5,24 @@ schema_version: 2
 status: deceased
 aliases: []
 birth_date: '1943-08-05'
-birth_place: Orange, California, USA
+birth_place: 'Orange, California, United States'
 death_date: '2005-02-12'
 years_active: 1968–2005
 genres:
-- traditional country
+  - traditional country
 instruments:
-- voice
+  - voice
 occupation:
-- singer
-- songwriter
+  - singer
+  - songwriter
 record_labels:
-- Columbia Records
+  - Columbia Records
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Sammi_Smith.jpg
   caption: Sammi Smith
   background: solo_singer
   born: '1943-08-05'
-  origin: Orange, California, USA
+  origin: 'Orange, California, USA'
   died: '2005-02-12'
 audio_profile:
   tempo_avg: 112.9
@@ -31,7 +31,7 @@ audio_profile:
   danceability_avg: 0.477
   acousticness_avg: 0.585
   instrumentalness_avg: 0.11
-  loudness_avg: -13.0
+  loudness_avg: -13
   speechiness_avg: 0.031
   liveness_avg: 0.158
   track_count: 50
@@ -39,57 +39,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kris Kristofferson
-  - Waylon Jennings
-  - Willie Nelson
-  - Jim Malloy
+    - Kris Kristofferson
+    - Waylon Jennings
+    - Willie Nelson
+    - Jim Malloy
   influenced:
-  - Waylon Payne
-  - Outlaw country artists (general)
+    - Waylon Payne
+    - Outlaw country artists (general)
   mentors:
-  - Merle Haggard
+    - Merle Haggard
 related_artists: []
 spotify_data:
   followers: 34031
   id: 5kZDCAD5zLelf8NYHoRSHS
   popularity: 46
-  url: https://open.spotify.com/artist/5kZDCAD5zLelf8NYHoRSHS
+  url: 'https://open.spotify.com/artist/5kZDCAD5zLelf8NYHoRSHS'
   verified: false
 discography_enriched: true
 albums_count: 21
 singles_count: 11
 top_tracks:
-- Help Me Make It Through the Night (Help Me Make It Through the Night)
-- Help Me Make It Through The Night
-- Am I That Easy to Forget (Waltz Across Texas)
-- Waltz Across Texas (Waltz Across Texas)
-- When My Blue Moon Turns to Gold Again (Waltz Across Texas)
-- He's Everywhere (Help Me Make It Through the Night)
-- I Can't Stop Loving You (Waltz Across Texas)
-- Long Black Veil (Help Me Make It Through the Night)
-- The Rainbow in Daddy's Eyes (Help Me Make It Through the Night)
-- Help Me Make It Through The Night (Help Me Make It Through The Night)
+  - Help Me Make It Through the Night (Help Me Make It Through the Night)
+  - Help Me Make It Through The Night
+  - Am I That Easy to Forget (Waltz Across Texas)
+  - Waltz Across Texas (Waltz Across Texas)
+  - When My Blue Moon Turns to Gold Again (Waltz Across Texas)
+  - He's Everywhere (Help Me Make It Through the Night)
+  - I Can't Stop Loving You (Waltz Across Texas)
+  - Long Black Veil (Help Me Make It Through the Night)
+  - The Rainbow in Daddy's Eyes (Help Me Make It Through the Night)
+  - Help Me Make It Through The Night (Help Me Make It Through The Night)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/5kZDCAD5zLelf8NYHoRSHS
-  wikipedia: https://en.wikipedia.org/wiki/Sammi_Smith
+  spotify: 'https://open.spotify.com/artist/5kZDCAD5zLelf8NYHoRSHS'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sammi_Smith'
 image_path: 03_Resources/source_material/ArtistPortraits/Sammi_Smith.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:05:29.994018'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- IMDB Biography[1]
-- No Fences Review[2]
-- Country Universe[3]
-- Hee Haw Wiki[4]
-- Jango[5]
-- Lost & Sound[6]
+  - 'IMDB Biography[1]'
+  - 'No Fences Review[2]'
+  - 'Country Universe[3]'
+  - 'Hee Haw Wiki[4]'
+  - 'Jango[5]'
+  - 'Lost & Sound[6]'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 22:00:05.823873
+entry_created: 2025-09-22T22:00:05.823Z
 last_updated: '2025-12-23T08:16:15.338116'
-
+is_active: false
+artist_type: person
 ---
 
 ![](Sammi_Smith.jpg)

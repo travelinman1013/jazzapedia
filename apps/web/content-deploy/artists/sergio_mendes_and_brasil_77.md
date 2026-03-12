@@ -1,48 +1,52 @@
 ---
 biography_enhanced_at: '2026-01-04T01:55:16.672667'
-birth_place: Niterói, Rio de Janeiro, Brazil
+birth_place: 'Niterói, Rio de Janeiro, Brazil'
 enhancement_provider: perplexity
 entry_created: '2026-01-04T01:55:16.672672'
 external_urls:
-  spotify: https://open.spotify.com/artist/67jdJKipXNstJJV9uPW1uk
-  wikipedia: https://en.wikipedia.org/wiki/S%C3%A9rgio_Mendes
+  spotify: 'https://open.spotify.com/artist/67jdJKipXNstJJV9uPW1uk'
+  wikipedia: 'https://en.wikipedia.org/wiki/S%C3%A9rgio_Mendes'
 genres:
-- brazilian jazz
-- bossa nova
+  - brazilian jazz
+  - bossa nova
 image_path: 03_Resources/source_material/ArtistPortraits/sergio_mendes_and_brasil_77.jpg
 last_updated: '2026-01-04T01:55:16.672673'
 musical_connections:
   collaborators:
-  - Herb Alpert
-  - Jerry Moss
-  - Jorge Ben
-  - Antonio Carlos Jobim
-  - Moacyr Santos
-  - Cannonball Adderley
-  - Stevie Wonder
+    - Herb Alpert
+    - Jerry Moss
+    - Jorge Ben
+    - Antonio Carlos Jobim
+    - Moacyr Santos
+    - Cannonball Adderley
+    - Stevie Wonder
   influenced: []
   mentors:
-  - Dave Brubeck
-  - Horace Silver
-  - Art Tatum
-  - Stan Getz
-  - Dizzy Gillespie
-  - Charlie Byrd
+    - Dave Brubeck
+    - Horace Silver
+    - Art Tatum
+    - Stan Getz
+    - Dizzy Gillespie
+    - Charlie Byrd
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://abreathoffreshair.com.au/episodes/sergio-mendes-a-60-year-journey-of-serendipity-and-unbelievable-success/
-- https://en.wikipedia.org/wiki/S%C3%A9rgio_Mendes
-- https://www.sergiomendesmusic.com/timeline
-- https://www.udiscovermusic.com/stories/sergio-mendes-brasil-77-primal-roots-feature/
-- https://pan-african-music.com/en/sergio-mendes-brazil/
+  - >-
+    https://abreathoffreshair.com.au/episodes/sergio-mendes-a-60-year-journey-of-serendipity-and-unbelievable-success/
+  - 'https://en.wikipedia.org/wiki/S%C3%A9rgio_Mendes'
+  - 'https://www.sergiomendesmusic.com/timeline'
+  - >-
+    https://www.udiscovermusic.com/stories/sergio-mendes-brasil-77-primal-roots-feature/
+  - 'https://pan-african-music.com/en/sergio-mendes-brazil/'
 spotify_data:
   followers: 7775
   id: 67jdJKipXNstJJV9uPW1uk
   popularity: 29
-  url: https://open.spotify.com/artist/67jdJKipXNstJJV9uPW1uk
+  url: 'https://open.spotify.com/artist/67jdJKipXNstJJV9uPW1uk'
 status: active
 title: Sergio Mendes & Brasil '77
+birth_date: '1941-02-11'
+artist_type: band
 ---
 
 ![](sergio_mendes_and_brasil_77.jpg)

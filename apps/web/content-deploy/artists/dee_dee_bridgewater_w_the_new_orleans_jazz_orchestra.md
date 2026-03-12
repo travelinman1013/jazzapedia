@@ -3,15 +3,16 @@ title: Dee Dee Bridgewater w/ The New Orleans Jazz Orchestra
 wiki_slug: dee-dee-bridgewater-w-the-new-orleans-jazz-orchestra
 schema_version: 2
 status: active
-birth_place: Memphis, Tennessee, USA
+birth_place: 'Memphis, Tennessee, USA'
 genres:
-- vocal jazz
-- jazz blues
+  - vocal jazz
+  - jazz blues
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/dee_dee_bridgewater_w_the_new_orleans_jazz_orchestra.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/dee_dee_bridgewater_w_the_new_orleans_jazz_orchestra.jpg
   caption: Dee Dee Bridgewater w/ The New Orleans Jazz Orchestra
   background: solo_singer
-  origin: Memphis, Tennessee, USA
+  origin: 'Memphis, Tennessee, USA'
 audio_profile:
   tempo_avg: 125.9
   energy_avg: 0.54
@@ -27,46 +28,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Cecil Bridgewater
-  - Irvin Mayfield & The New Orleans Jazz Orchestra
-  - Max Roach, Sonny Rollins, Dexter Gordon, Dizzy Gillespie
+    - Cecil Bridgewater
+    - Irvin Mayfield & The New Orleans Jazz Orchestra
+    - 'Max Roach, Sonny Rollins, Dexter Gordon, Dizzy Gillespie'
   influenced:
-  - Various emerging jazz vocalists
+    - Various emerging jazz vocalists
   mentors:
-  - Thad Jones
-  - Betty Carter
+    - Thad Jones
+    - Betty Carter
 spotify_data:
   followers: 57042
   id: 2H3xDjMmp31iLmsgXxLFyI
   popularity: 32
-  url: https://open.spotify.com/artist/2H3xDjMmp31iLmsgXxLFyI
+  url: 'https://open.spotify.com/artist/2H3xDjMmp31iLmsgXxLFyI'
 discography_enriched: true
 top_tracks:
-- Into My Soul (Mr. Freedom)
-- Coffy Is The Color - From The "Coffy" Soundtrack
-- Hound Dog (Memphis ...Yes, I'm Ready)
-- Honeysuckle Rose
-- Lonely Disco Dancer (Dee Dee Bridgewater)
-- Into My Soul (The First Ten Years)
-- Coffy Is The Color
-- I Can't Stand the Rain (Memphis ...Yes, I'm Ready)
-- He's Gone (Dee Dee Bridgewater)
-- Yes, I'm Ready (Memphis ...Yes, I'm Ready)
+  - Into My Soul (Mr. Freedom)
+  - Coffy Is The Color - From The "Coffy" Soundtrack
+  - 'Hound Dog (Memphis ...Yes, I''m Ready)'
+  - Honeysuckle Rose
+  - Lonely Disco Dancer (Dee Dee Bridgewater)
+  - Into My Soul (The First Ten Years)
+  - Coffy Is The Color
+  - 'I Can''t Stand the Rain (Memphis ...Yes, I''m Ready)'
+  - He's Gone (Dee Dee Bridgewater)
+  - 'Yes, I''m Ready (Memphis ...Yes, I''m Ready)'
 external_urls:
-  spotify: https://open.spotify.com/artist/2H3xDjMmp31iLmsgXxLFyI
-  wikipedia: https://en.wikipedia.org/wiki/Dee_Dee_Bridgewater
-image_path: 03_Resources/source_material/ArtistPortraits/dee_dee_bridgewater_w_the_new_orleans_jazz_orchestra.jpg
+  spotify: 'https://open.spotify.com/artist/2H3xDjMmp31iLmsgXxLFyI'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dee_Dee_Bridgewater'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/dee_dee_bridgewater_w_the_new_orleans_jazz_orchestra.jpg
 biography_enhanced_at: '2025-10-28T08:56:44.773988'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://joesplace.online/dee-dee-bridgewater-more-than-a-jazz-singer/
-- https://www.deedeebridgewater.com/about
-- https://www.arts.gov/honors/jazz/dee-dee-bridgewater
+  - 'https://joesplace.online/dee-dee-bridgewater-more-than-a-jazz-singer/'
+  - 'https://www.deedeebridgewater.com/about'
+  - 'https://www.arts.gov/honors/jazz/dee-dee-bridgewater'
 network_extracted: true
 entry_created: '2025-10-28T08:56:44.773993'
 last_updated: '2025-12-23T08:16:07.660733'
-
+birth_date: '1950-05-27'
+artist_type: person
 ---
 
 ![](dee_dee_bridgewater_w_the_new_orleans_jazz_orchestra.jpg)

@@ -5,49 +5,49 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1952-04-23'
-birth_place: Kalamazoo
+birth_place: 'Kalamazoo, Michigan, United States'
 genres:
-- post-disco
+  - post-disco
 instruments:
-- drums (drum set)
-- piano
-- electric piano
-- lead vocals
-- background vocals
-- other vocals
+  - drums (drum set)
+  - piano
+  - electric piano
+  - lead vocals
+  - background vocals
+  - other vocals
 associated_acts:
-- begin: '1974'
-  end: '1976'
-  instruments: []
-  mbid: a2be74f5-0735-46f7-a295-7e41aab30029
-  name: Mahavishnu Orchestra
-- begin: '2020-05-23'
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: abd506e1-6f2b-4d6f-b937-92c267f6f88b
-  name: Journey
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0f9997bd-e079-429e-8ccd-9378c9b0c746
-  name: Weather Report
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 81498248-4a74-4a7b-a28e-41fc28838172
-  name: The Tommy Bolin Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7899df50-f9e6-4c4e-b813-81765584aac1
-  name: Temple of Soul
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f4eded23-21a6-4930-ae2c-7d1c08a749a2
-  name: Stand!
+  - begin: '1974'
+    end: '1976'
+    instruments: []
+    mbid: a2be74f5-0735-46f7-a295-7e41aab30029
+    name: Mahavishnu Orchestra
+  - begin: '2020-05-23'
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: abd506e1-6f2b-4d6f-b937-92c267f6f88b
+    name: Journey
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0f9997bd-e079-429e-8ccd-9378c9b0c746
+    name: Weather Report
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 81498248-4a74-4a7b-a28e-41fc28838172
+    name: The Tommy Bolin Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7899df50-f9e6-4c4e-b813-81765584aac1
+    name: Temple of Soul
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f4eded23-21a6-4930-ae2c-7d1c08a749a2
+    name: Stand!
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/narada_michael_walden.jpg
   caption: Narada Michael Walden
@@ -69,59 +69,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mahavishnu Orchestra
-  - Jeff Beck
-  - Aretha Franklin
-  - Whitney Houston
-  - Mariah Carey
-  - Patti Austin
+    - Mahavishnu Orchestra
+    - Jeff Beck
+    - Aretha Franklin
+    - Whitney Houston
+    - Mariah Carey
+    - Patti Austin
   influenced:
-  - Whitney Houston
-  - Mariah Carey
+    - Whitney Houston
+    - Mariah Carey
   mentors:
-  - Sri Chinmoy
-  - John McLaughlin
+    - Sri Chinmoy
+    - John McLaughlin
 spotify_data:
   followers: 32161
   id: 37WGztoQRbNgo55GQCw75B
   popularity: 37
-  url: https://open.spotify.com/artist/37WGztoQRbNgo55GQCw75B
+  url: 'https://open.spotify.com/artist/37WGztoQRbNgo55GQCw75B'
 discography_enriched: true
 top_tracks:
-- Gimme Gimme Gimme (with Patti Austin) (The Nature Of Things)
-- I Shoulda Loved Ya (The Dance Of Life)
-- Divine Emotions (Divine Emotion)
-- Tonight I'm Alright (The Dance Of Life)
-- BREAK FREE (EUPHORIA)
-- It's Too Late To Love You - Radio Edit
-- It's Too Late To Love You - Extended (The Songs from the Living Room)
-- Gimme Gimme Gimme (Gimme Gimme Gimme)
-- Bougie Cherry Bomb
-- Gimme Gimme Gimme (feat. Patti Austin) (80s Music - Greatest Hits)
+  - Gimme Gimme Gimme (with Patti Austin) (The Nature Of Things)
+  - I Shoulda Loved Ya (The Dance Of Life)
+  - Divine Emotions (Divine Emotion)
+  - Tonight I'm Alright (The Dance Of Life)
+  - BREAK FREE (EUPHORIA)
+  - It's Too Late To Love You - Radio Edit
+  - It's Too Late To Love You - Extended (The Songs from the Living Room)
+  - Gimme Gimme Gimme (Gimme Gimme Gimme)
+  - Bougie Cherry Bomb
+  - Gimme Gimme Gimme (feat. Patti Austin) (80s Music - Greatest Hits)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/41e9a77b-aa0e-4b86-a223-dc903f41b0bd
-  spotify: https://open.spotify.com/artist/37WGztoQRbNgo55GQCw75B
-  wikipedia: https://en.wikipedia.org/wiki/Narada_Michael_Walden
+  musicbrainz: 'https://musicbrainz.org/artist/41e9a77b-aa0e-4b86-a223-dc903f41b0bd'
+  spotify: 'https://open.spotify.com/artist/37WGztoQRbNgo55GQCw75B'
+  wikipedia: 'https://en.wikipedia.org/wiki/Narada_Michael_Walden'
 image_path: 03_Resources/source_material/ArtistPortraits/narada_michael_walden.jpg
 biography_enhanced_at: '2025-11-10T03:44:53.535095'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://wbssmedia.com/artists/detail/715
-- https://marinmagazine.com/people/narada-michael-walden/
-- https://kids.kiddle.co/Narada_Michael_Walden
-- https://gowithelmo.com/narada-michael-walden-from-mahavishnu-orchestra-drummer-to-aretha-franklins-hit-making-producer-part-1-81/
-- https://www.naradamichaelwalden.com/new-page
-- https://allaboutjazz.com/musicians/narada-michael-walden/
+  - 'https://wbssmedia.com/artists/detail/715'
+  - 'https://marinmagazine.com/people/narada-michael-walden/'
+  - 'https://kids.kiddle.co/Narada_Michael_Walden'
+  - >-
+    https://gowithelmo.com/narada-michael-walden-from-mahavishnu-orchestra-drummer-to-aretha-franklins-hit-making-producer-part-1-81/
+  - 'https://www.naradamichaelwalden.com/new-page'
+  - 'https://allaboutjazz.com/musicians/narada-michael-walden/'
 network_extracted: true
 entry_created: '2025-11-10T03:44:53.535110'
 last_updated: '2025-12-23T08:16:13.439558'
 gender: Male
 musicbrainz_id: 41e9a77b-aa0e-4b86-a223-dc903f41b0bd
 tags:
-- contemporary r&b
-- quiet storm
-- r&b
+  - contemporary r&b
+  - quiet storm
+  - r&b
 ---
 
 ![](narada_michael_walden.jpg)

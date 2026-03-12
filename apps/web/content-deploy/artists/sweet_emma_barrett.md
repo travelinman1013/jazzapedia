@@ -1,18 +1,18 @@
 ---
-title: SWEET EMMA BARRETT
+title: Sweet Emma Barrett
 wiki_slug: sweet-emma-barrett
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- ragtime
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sweet_emma_barrett.jpg
   caption: SWEET EMMA BARRETT
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
-  tempo_avg: 127.0
+  tempo_avg: 127
   energy_avg: 0.444
   valence_avg: 0.682
   danceability_avg: 0.563
@@ -26,48 +26,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Percy Humphrey
-  - Willie Humphrey
-  - Jim Robinson
-  - Israel Gorman
+    - Percy Humphrey
+    - Willie Humphrey
+    - Jim Robinson
+    - Israel Gorman
   influenced:
-  - Women in Jazz
+    - Women in Jazz
   mentors:
-  - Oscar 'Papa' Celestin
-  - William Ridgely
+    - Oscar 'Papa' Celestin
+    - William Ridgely
 spotify_data:
   followers: 3730
   id: 0YLo7NrjjafYk8rbapwCZk
   popularity: 13
-  url: https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk
+  url: 'https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk'
 discography_enriched: true
 top_tracks:
-- A Good Man Is Hard To Find (Sweet Emma Barrett And Her New Orleans Music)
-- None of My Jelly Roll (Her New Orleans Music)
-- Jelly Roll Blues (Sweet Emma Barrett And Her New Orleans Music)
-- When I Grow Too Old to Dream (Her New Orleans Music)
-- Big Butter And Egg Man (Sweet Emma Barrett And Her New Orleans Music)
-- A Good Man Is Hard to Find (Her New Orleans Music)
-- Bill Bailey (Her New Orleans Music)
-- That's A Plenty (Sweet Emma Barrett And Her New Orleans Music)
-- Pagan Love Song (Sweet Emma Barrett And Her New Orleans Music)
-- Take Me Out To The Ball (Sweet Emma Barrett And Her New Orleans Music)
+  - A Good Man Is Hard To Find (Sweet Emma Barrett And Her New Orleans Music)
+  - None of My Jelly Roll (Her New Orleans Music)
+  - Jelly Roll Blues (Sweet Emma Barrett And Her New Orleans Music)
+  - When I Grow Too Old to Dream (Her New Orleans Music)
+  - Big Butter And Egg Man (Sweet Emma Barrett And Her New Orleans Music)
+  - A Good Man Is Hard to Find (Her New Orleans Music)
+  - Bill Bailey (Her New Orleans Music)
+  - That's A Plenty (Sweet Emma Barrett And Her New Orleans Music)
+  - Pagan Love Song (Sweet Emma Barrett And Her New Orleans Music)
+  - Take Me Out To The Ball (Sweet Emma Barrett And Her New Orleans Music)
 external_urls:
-  spotify: https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk
-  wikipedia: https://en.wikipedia.org/wiki/Sweet_Emma_Barrett
+  spotify: 'https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sweet_Emma_Barrett'
 image_path: 03_Resources/source_material/ArtistPortraits/sweet_emma_barrett.jpg
 biography_enhanced_at: '2025-11-05T12:57:50.137721'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://musicrising.tulane.edu/discover/people/sweet-emma-barrett/
-- https://gallatinstreetrecords.squarespace.com/sweet-emma-barret
-- https://www.loc.gov/static/programs/national-recording-preservation-board/documents/SweetEmmaBarrett.pdf
-- https://64parishes.org/entry/sweet-emma-barrett
-- https://en.wikipedia.org/wiki/Sweet_Emma_Barrett
+  - 'https://musicrising.tulane.edu/discover/people/sweet-emma-barrett/'
+  - 'https://gallatinstreetrecords.squarespace.com/sweet-emma-barret'
+  - >-
+    https://www.loc.gov/static/programs/national-recording-preservation-board/documents/SweetEmmaBarrett.pdf
+  - 'https://64parishes.org/entry/sweet-emma-barrett'
+  - 'https://en.wikipedia.org/wiki/Sweet_Emma_Barrett'
 network_extracted: true
 entry_created: '2025-11-05T12:57:50.137735'
 last_updated: '2025-12-23T08:16:16.296988'
+birth_date: '1897-03-25'
+artist_type: person
 ---
 
 ![](sweet_emma_barrett.jpg)

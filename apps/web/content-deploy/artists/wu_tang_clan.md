@@ -1,13 +1,13 @@
 ---
-title: wu tang clan
+title: Wu Tang Clan
 wiki_slug: wu-tang-clan
 schema_version: 2
 status: active
 genres:
-- east coast hip hop
-- hip hop
-- gangster rap
-- hardcore hip hop
+  - east coast hip hop
+  - hip hop
+  - gangster rap
+  - hardcore hip hop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/wu_tang_clan.jpg
   caption: wu tang clan
@@ -27,55 +27,65 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Core Wu-Tang members (RZA, GZA, Ol’ Dirty Bastard, Method Man, Raekwon, Ghostface Killah, Inspectah Deck, U‑God, Masta Killa)
-  - Cappadonna
-  - Gravediggaz (Prince Paul, Frukwan, Poetic, RZA)
-  - Wu-Tang affiliates (e.g., Killarmy, Sunz of Man)
+    - >-
+      Core Wu-Tang members (RZA, GZA, Ol’ Dirty Bastard, Method Man, Raekwon,
+      Ghostface Killah, Inspectah Deck, U‑God, Masta Killa)
+    - Cappadonna
+    - 'Gravediggaz (Prince Paul, Frukwan, Poetic, RZA)'
+    - 'Wu-Tang affiliates (e.g., Killarmy, Sunz of Man)'
   influenced:
-  - A$AP Mob (including A$AP Rocky)
-  - Odd Future (OFWGKTA)
-  - Drill and modern hardcore rap artists
-  - Numerous individual MCs citing Wu-Tang (e.g., Eminem, Logic, Joey Bada$$)
+    - A$AP Mob (including A$AP Rocky)
+    - Odd Future (OFWGKTA)
+    - Drill and modern hardcore rap artists
+    - 'Numerous individual MCs citing Wu-Tang (e.g., Eminem, Logic, Joey Bada$$)'
   mentors:
-  - Five Percent Nation / Nation of Gods and Earths
-  - Kung fu cinema (e.g., *Shaolin and Wu Tang*)
-  - Early New York hip hop pioneers (e.g., Big Daddy Kane, KRS‑One era)
+    - Five Percent Nation / Nation of Gods and Earths
+    - 'Kung fu cinema (e.g., *Shaolin and Wu Tang*)'
+    - 'Early New York hip hop pioneers (e.g., Big Daddy Kane, KRS‑One era)'
 spotify_data:
   followers: 3743755
   id: 34EP7KEpOjXcM2TCat1ISk
   popularity: 67
-  url: https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk
+  url: 'https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk'
 discography_enriched: true
 top_tracks:
-- C.R.E.A.M. (Cash Rules Everything Around Me) (Enter The Wu-Tang (36 Chambers) [Expanded Edition])
-- Protect Ya Neck (Enter The Wu-Tang (36 Chambers) [Expanded Edition])
-- Wu-Tang Clan Ain't Nuthing ta F' Wit (Enter The Wu-Tang (36 Chambers) [Expanded Edition])
-- Mandingo
-- Triumph (feat. Ol' Dirty Bastard, Inspectah Deck, Method Man, Cappadonna, U-God, RZA, GZA, Masta Killa, Ghostface Killah & Raekwon) (Wu-Tang Forever)
-- Shame On a Nigga (Enter The Wu-Tang (36 Chambers) [Expanded Edition])
-- Da Mystery of Chessboxin' (Enter The Wu-Tang (36 Chambers) [Expanded Edition])
-- Method Man (Enter The Wu-Tang (36 Chambers) [Expanded Edition])
-- Bring Da Ruckus (Enter The Wu-Tang (36 Chambers) [Expanded Edition])
-- Shame
+  - >-
+    C.R.E.A.M. (Cash Rules Everything Around Me) (Enter The Wu-Tang (36
+    Chambers) [Expanded Edition])
+  - 'Protect Ya Neck (Enter The Wu-Tang (36 Chambers) [Expanded Edition])'
+  - >-
+    Wu-Tang Clan Ain't Nuthing ta F' Wit (Enter The Wu-Tang (36 Chambers)
+    [Expanded Edition])
+  - Mandingo
+  - >-
+    Triumph (feat. Ol' Dirty Bastard, Inspectah Deck, Method Man, Cappadonna,
+    U-God, RZA, GZA, Masta Killa, Ghostface Killah & Raekwon) (Wu-Tang Forever)
+  - 'Shame On a Nigga (Enter The Wu-Tang (36 Chambers) [Expanded Edition])'
+  - >-
+    Da Mystery of Chessboxin' (Enter The Wu-Tang (36 Chambers) [Expanded
+    Edition])
+  - 'Method Man (Enter The Wu-Tang (36 Chambers) [Expanded Edition])'
+  - 'Bring Da Ruckus (Enter The Wu-Tang (36 Chambers) [Expanded Edition])'
+  - Shame
 external_urls:
-  spotify: https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk
-  wikipedia: https://en.wikipedia.org/wiki/Wu-Tang_Clan
+  spotify: 'https://open.spotify.com/artist/34EP7KEpOjXcM2TCat1ISk'
+  wikipedia: 'https://en.wikipedia.org/wiki/Wu-Tang_Clan'
 image_path: 03_Resources/source_material/ArtistPortraits/wu_tang_clan.jpg
 biography_enhanced_at: '2025-12-05T06:14:30.368601'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.britannica.com/biography/Wu-Tang-Clan
-- https://en.wikipedia.org/wiki/Wu-Tang_Clan
-- https://www.hiphopscriptures.com/wu-tang-clan
-- http://hiphopgoldenage.com/artists/wu-tang-clan/
-- https://enter-the-history-of-the-wu-tang-clan
-- https://www.umusicpub.com/us/Artists/W/Wu-Tang-Clan.aspx
+  - 'https://www.britannica.com/biography/Wu-Tang-Clan'
+  - 'https://en.wikipedia.org/wiki/Wu-Tang_Clan'
+  - 'https://www.hiphopscriptures.com/wu-tang-clan'
+  - 'http://hiphopgoldenage.com/artists/wu-tang-clan/'
+  - 'https://enter-the-history-of-the-wu-tang-clan'
+  - 'https://www.umusicpub.com/us/Artists/W/Wu-Tang-Clan.aspx'
 network_extracted: true
 entry_created: '2025-12-05T06:14:30.368608'
 last_updated: '2025-12-23T08:16:18.311756'
-origin: Staten Island, New York, United States
-
+origin: 'Staten Island, New York, United States'
+artist_type: band
 ---
 
 ![](wu_tang_clan.jpg)

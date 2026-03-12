@@ -2,28 +2,28 @@
 title: Grant Green
 wiki_slug: grant-green
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1935-06-06'
-birth_place: St. Louis, Missouri, United States
+birth_place: 'St. Louis, Missouri, United States'
 death_date: '1979-01-31'
 genres:
-- hard bop
-- jazz
-- jazz funk
-- soul jazz
-- bebop
-- cool jazz
-- jazz blues
+  - hard bop
+  - jazz
+  - jazz funk
+  - soul jazz
+  - bebop
+  - cool jazz
+  - jazz blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Grant_Green.jpg
   caption: Grant Green
   background: solo_singer
   born: '1935-06-06'
-  origin: St. Louis, Missouri, United States
+  origin: 'St. Louis, Missouri, United States'
   died: '1979-01-31'
 audio_profile:
-  tempo_avg: 111.0
+  tempo_avg: 111
   energy_avg: 0.452
   valence_avg: 0.558
   danceability_avg: 0.63
@@ -37,49 +37,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lou Donaldson
-  - Brother Jack McDuff
-  - Larry Young
-  - Stanley Turrentine
-  - Elvin Jones
+    - Lou Donaldson
+    - Brother Jack McDuff
+    - Larry Young
+    - Stanley Turrentine
+    - Elvin Jones
   influenced:
-  - George Benson
-  - Pat Martino
+    - George Benson
+    - Pat Martino
   mentors:
-  - Charlie Parker
-  - Charlie Christian
+    - Charlie Parker
+    - Charlie Christian
 spotify_data:
   followers: 141116
   id: 6dAtGAnHCQ1ujMUZ9Ep82k
   popularity: 41
-  url: https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k
+  url: 'https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k'
 discography_enriched: true
 top_tracks:
-- Django - Rudy Van Gelder Edition / Remastered 1999 (Idle Moments)
-- Maybe Tomorrow (Visions)
-- '''Round About Midnight - Remastered 2002/Rudy Van Gelder Edition (Green Street (Rudy Van Gelder Edition))'
-- Joshua Fit De Battle Of Jericho (Retrospective)
-- Idle Moments (The Best Of Grant Green)
-- Little Girl Blue (Ballads)
-- Sookie Sookie - Live At The Cliche' Lounge, Newark, New Jersey, 1970 / Remastered 2000 (Alive! (Live At The Cliche' Lounge,
-  Newark, New Jersey, 1970 / Remastered 2000))
-- Idle Moments - Rudy Van Gelder Edition / Remastered 1999 (Idle Moments)
-- We've Only Just Begun (Visions)
-- Jean De Fleur - Rudy Van Gelder Edition / Remastered 1999 (Idle Moments)
+  - Django - Rudy Van Gelder Edition / Remastered 1999 (Idle Moments)
+  - Maybe Tomorrow (Visions)
+  - >-
+    'Round About Midnight - Remastered 2002/Rudy Van Gelder Edition (Green
+    Street (Rudy Van Gelder Edition))
+  - Joshua Fit De Battle Of Jericho (Retrospective)
+  - Idle Moments (The Best Of Grant Green)
+  - Little Girl Blue (Ballads)
+  - >-
+    Sookie Sookie - Live At The Cliche' Lounge, Newark, New Jersey, 1970 /
+    Remastered 2000 (Alive! (Live At The Cliche' Lounge, Newark, New Jersey,
+    1970 / Remastered 2000))
+  - Idle Moments - Rudy Van Gelder Edition / Remastered 1999 (Idle Moments)
+  - We've Only Just Begun (Visions)
+  - Jean De Fleur - Rudy Van Gelder Edition / Remastered 1999 (Idle Moments)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1a88b270-d763-48d5-a62c-2bb9cabb140c
-  spotify: https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k
-  wikipedia: https://en.wikipedia.org/wiki/Grant_Green
+  musicbrainz: 'https://musicbrainz.org/artist/1a88b270-d763-48d5-a62c-2bb9cabb140c'
+  spotify: 'https://open.spotify.com/artist/6dAtGAnHCQ1ujMUZ9Ep82k'
+  wikipedia: 'https://en.wikipedia.org/wiki/Grant_Green'
 image_path: 03_Resources/source_material/ArtistPortraits/Grant_Green.jpg
 biography_enhanced_at: '2025-10-19T11:45:48.410752'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.bluenote.com/artist/grant-green/
-- https://jazztimes.com/features/profiles/grant-green-incredible-jazz-guitar/
-- https://www.mosaicrecords.com/the-great-jazz-artists/grant-green/
-- https://www.theamericanguitaracademy.com/post/grant-green-the-legendary-jazz-guitarist-and-what-makes-him-special
-- https://blackpast.org/african-american-history/grant-green-1935-1979/
+  - 'https://www.bluenote.com/artist/grant-green/'
+  - 'https://jazztimes.com/features/profiles/grant-green-incredible-jazz-guitar/'
+  - 'https://www.mosaicrecords.com/the-great-jazz-artists/grant-green/'
+  - >-
+    https://www.theamericanguitaracademy.com/post/grant-green-the-legendary-jazz-guitarist-and-what-makes-him-special
+  - 'https://blackpast.org/african-american-history/grant-green-1935-1979/'
 network_extracted: true
 entry_created: '2025-10-19T11:45:48.410758'
 last_updated: '2025-12-23T08:16:02.163035'
@@ -88,9 +93,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:28:12.617817'
 musicbrainz_id: 1a88b270-d763-48d5-a62c-2bb9cabb140c
 tags:
-- american
-- cool jazz
-- hard bop
+  - american
+  - cool jazz
+  - hard bop
+is_active: false
 ---
 
 ![](Grant_Green.jpg)

@@ -2,18 +2,18 @@
 title: The Sugarman 3
 wiki_slug: the-sugarman-3
 schema_version: 2
-artist_type: Group
+artist_type: person
 status: active
 aliases: []
 birth_date: '1996'
 years_active: 1996–present
 genres:
-- retro soul
-- jazz funk
-- soul jazz
+  - retro soul
+  - jazz funk
+  - soul jazz
 instruments:
-- eponymous
-- original
+  - eponymous
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/The_Sugarman_3.jpg
   caption: The Sugarman 3
@@ -34,62 +34,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Adam Scone
-  - Rudy Albin
-  - Coleman Mellett
-  - Gabe Roth (a.k.a. Bosco Mann)
-  - Sharon Jones
-  - Lee Fields
-  - Charles Bradley
+    - Adam Scone
+    - Rudy Albin
+    - Coleman Mellett
+    - Gabe Roth (a.k.a. Bosco Mann)
+    - Sharon Jones
+    - Lee Fields
+    - Charles Bradley
   influenced:
-  - Sharon Jones & The Dap-Kings
-  - Daptone Records artists
+    - Sharon Jones & The Dap-Kings
+    - Daptone Records artists
   mentors:
-  - Brother Jack McDuff
-  - Papa Lou Donaldson
+    - Brother Jack McDuff
+    - Papa Lou Donaldson
 related_artists: []
 spotify_data:
   followers: 13895
   id: 4yGIAU59dDaVaXMDkicnlF
   popularity: 31
-  url: https://open.spotify.com/artist/4yGIAU59dDaVaXMDkicnlF
+  url: 'https://open.spotify.com/artist/4yGIAU59dDaVaXMDkicnlF'
   verified: false
 discography_enriched: true
 albums_count: 4
 singles_count: 1
 top_tracks:
-- Rudy's Intervention (What the World Needs Now)
-- Jealous Moon (What the World Needs Now)
-- 'Bosco''s Blues (Sugarman 3 & Co: Pure Cane Sugar)'
-- Got to Get Back to My Baby (What the World Needs Now)
-- 'Pure Cane (Sugarman 3 & Co: Pure Cane Sugar)'
-- 'Funky So-and-So (Sugarman 3 & Co: Pure Cane Sugar)'
-- 'Down to It (Sugarman 3 & Co: Pure Cane Sugar)'
-- Stand Up (Daptone Gold)
-- Your Friendly Neighborhood Sugarman (What the World Needs Now)
-- So Long Donkey (Soul Donkey)
+  - Rudy's Intervention (What the World Needs Now)
+  - Jealous Moon (What the World Needs Now)
+  - 'Bosco''s Blues (Sugarman 3 & Co: Pure Cane Sugar)'
+  - Got to Get Back to My Baby (What the World Needs Now)
+  - 'Pure Cane (Sugarman 3 & Co: Pure Cane Sugar)'
+  - 'Funky So-and-So (Sugarman 3 & Co: Pure Cane Sugar)'
+  - 'Down to It (Sugarman 3 & Co: Pure Cane Sugar)'
+  - Stand Up (Daptone Gold)
+  - Your Friendly Neighborhood Sugarman (What the World Needs Now)
+  - So Long Donkey (Soul Donkey)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/083cb33e-c9a2-4156-a21c-cfda976476e9
-  spotify: https://open.spotify.com/artist/4yGIAU59dDaVaXMDkicnlF
-  wikipedia: https://en.wikipedia.org/wiki/The_Sugarman_3
+  musicbrainz: 'https://musicbrainz.org/artist/083cb33e-c9a2-4156-a21c-cfda976476e9'
+  spotify: 'https://open.spotify.com/artist/4yGIAU59dDaVaXMDkicnlF'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Sugarman_3'
 image_path: 03_Resources/source_material/ArtistPortraits/The_Sugarman_3.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:32:38.747382'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://magazine.waxpoetics.com/rediscovery/sugarman-3-soul-donkey/
-- https://daptonerecords.com/artists/the-sugarman-3/
-- https://musicbrainz.org/artist/083cb33e-c9a2-4156-a21c-cfda976476e9
-- https://www.jango.com/music/Sugarman+Three/_full_bio
+  - 'https://magazine.waxpoetics.com/rediscovery/sugarman-3-soul-donkey/'
+  - 'https://daptonerecords.com/artists/the-sugarman-3/'
+  - 'https://musicbrainz.org/artist/083cb33e-c9a2-4156-a21c-cfda976476e9'
+  - 'https://www.jango.com/music/Sugarman+Three/_full_bio'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:48:10.941294
+entry_created: 2025-09-22T21:48:10.941Z
 last_updated: '2025-12-23T08:16:17.189318'
 musicbrainz_enriched_at: '2025-10-21T09:56:19.315994'
 musicbrainz_id: 083cb33e-c9a2-4156-a21c-cfda976476e9
-origin: New York City, New York, USA
-
+origin: 'New York City, New York, United States'
+birth_place: 'Boston, Massachusetts, United States'
 ---
 
 ![](The_Sugarman_3.jpg)

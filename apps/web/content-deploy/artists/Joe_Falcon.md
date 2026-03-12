@@ -3,15 +3,15 @@ title: Joe Falcon
 wiki_slug: joe-falcon
 schema_version: 2
 status: active
-birth_place: Roberts Cove, Louisiana, United States
+birth_place: 'Roberts Cove, Louisiana, United States'
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Joe_Falcon.jpg
   caption: Joe Falcon
   background: solo_singer
-  origin: Roberts Cove, Louisiana, United States
+  origin: 'Roberts Cove, Louisiana, United States'
 audio_profile:
   tempo_avg: 133.4
   energy_avg: 0.558
@@ -27,46 +27,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Cléoma Breaux Falcon
-  - Leon Meche
-  - Theresa Meaux
+    - Cléoma Breaux Falcon
+    - Leon Meche
+    - Theresa Meaux
   influenced:
-  - Breaux Brothers (including Amédée Breaux)
-  - Subsequent generations of Cajun musicians
+    - Breaux Brothers (including Amédée Breaux)
+    - Subsequent generations of Cajun musicians
   mentors:
-  - Amédée Breaux
+    - Amédée Breaux
 spotify_data:
   followers: 587
   id: 58RtiSIOttK6MA1wcDetvG
   popularity: 4
-  url: https://open.spotify.com/artist/58RtiSIOttK6MA1wcDetvG
+  url: 'https://open.spotify.com/artist/58RtiSIOttK6MA1wcDetvG'
 discography_enriched: true
 top_tracks:
-- 'Allons á Lafayette (J''ai Été Au Bal: I Went to the Dance, Vol. 1)'
-- Aimer Et Perdre (Cajun Classics)
-- Acadian One Step (Cajun Music)
-- Joe's Breakdown (Cajun Music Pioneer)
-- Lafayette (Cajun Classics)
-- Aimer Et Perdre (It's Cajun Time!)
-- Lafayette (The Cajun And Zydeco Collection, Vol. 3)
-- 99 Year Waltz (Cajun Music Pioneer)
-- Flames De'Enfer (15 Louisiana Cajun Classics)
-- Lulu's Back in Town (Cajun Music)
+  - 'Allons á Lafayette (J''ai Été Au Bal: I Went to the Dance, Vol. 1)'
+  - Aimer Et Perdre (Cajun Classics)
+  - Acadian One Step (Cajun Music)
+  - Joe's Breakdown (Cajun Music Pioneer)
+  - Lafayette (Cajun Classics)
+  - Aimer Et Perdre (It's Cajun Time!)
+  - 'Lafayette (The Cajun And Zydeco Collection, Vol. 3)'
+  - 99 Year Waltz (Cajun Music Pioneer)
+  - Flames De'Enfer (15 Louisiana Cajun Classics)
+  - Lulu's Back in Town (Cajun Music)
 external_urls:
-  spotify: https://open.spotify.com/artist/58RtiSIOttK6MA1wcDetvG
-  wikipedia: https://en.wikipedia.org/wiki/Joe_Falcon
+  spotify: 'https://open.spotify.com/artist/58RtiSIOttK6MA1wcDetvG'
+  wikipedia: 'https://en.wikipedia.org/wiki/Joe_Falcon'
 image_path: 03_Resources/source_material/ArtistPortraits/Joe_Falcon.jpg
 biography_enhanced_at: '2025-10-20T01:45:06.733293'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Joe_Falcon
-- https://folkways-media.si.edu/docs/folkways/artwork/ARH00459.pdf
-- https://www.wwoz.org/blog/341786
-- https://folkways.si.edu/joe-falcon/cajun-music-pioneer/cajun-zydeco/music/album/smithsonian
+  - 'https://en.wikipedia.org/wiki/Joe_Falcon'
+  - 'https://folkways-media.si.edu/docs/folkways/artwork/ARH00459.pdf'
+  - 'https://www.wwoz.org/blog/341786'
+  - >-
+    https://folkways.si.edu/joe-falcon/cajun-music-pioneer/cajun-zydeco/music/album/smithsonian
 network_extracted: true
 entry_created: '2025-10-20T01:45:06.733317'
 last_updated: '2025-12-23T08:16:02.573015'
+origin: 'Roberts Cove, Louisiana, United States'
+birth_date: '1900-09-28'
+death_date: '1965-11-19'
+artist_type: person
 ---
 
 ![](Joe_Falcon.jpg)

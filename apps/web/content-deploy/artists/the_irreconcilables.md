@@ -1,5 +1,5 @@
 ---
-title: the irreconcilables
+title: The Irreconcilables
 wiki_slug: the-irreconcilables
 schema_version: 2
 status: active
@@ -14,7 +14,7 @@ audio_profile:
   valence_avg: 0.56
   danceability_avg: 0.605
   acousticness_avg: 0.716
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -7.1
   speechiness_avg: 0.042
   liveness_avg: 0.127
@@ -29,33 +29,38 @@ spotify_data:
   followers: 9
   id: 564RbYTLqkLW434GIDZwyE
   popularity: 1
-  url: https://open.spotify.com/artist/564RbYTLqkLW434GIDZwyE
+  url: 'https://open.spotify.com/artist/564RbYTLqkLW434GIDZwyE'
 discography_enriched: true
 top_tracks:
-- See Ya Santa (Merry Ex-Mas)
-- Christmas, Every Single Day (Merry Ex-Mas)
-- Santa Claus Is Foolin' Around (Merry Ex-Mas)
-- Frosty My Ex-Wife (Merry Ex-Mas)
-- I'm Taking Back My Name Dear (Merry Ex-Mas)
-- Let Her Go (Merry Ex-Mas)
-- Single Gals (Merry Ex-Mas)
-- A Lot Like Ex-Mas (Merry Ex-Mas)
-- The 12 Days Of Christmas (My True Love Took From Me) (Merry Ex-Mas)
-- Hark The Hell Has Just Begun (Merry Ex-Mas)
+  - See Ya Santa (Merry Ex-Mas)
+  - 'Christmas, Every Single Day (Merry Ex-Mas)'
+  - Santa Claus Is Foolin' Around (Merry Ex-Mas)
+  - Frosty My Ex-Wife (Merry Ex-Mas)
+  - I'm Taking Back My Name Dear (Merry Ex-Mas)
+  - Let Her Go (Merry Ex-Mas)
+  - Single Gals (Merry Ex-Mas)
+  - A Lot Like Ex-Mas (Merry Ex-Mas)
+  - The 12 Days Of Christmas (My True Love Took From Me) (Merry Ex-Mas)
+  - Hark The Hell Has Just Begun (Merry Ex-Mas)
 external_urls:
-  spotify: https://open.spotify.com/artist/564RbYTLqkLW434GIDZwyE
+  spotify: 'https://open.spotify.com/artist/564RbYTLqkLW434GIDZwyE'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/the_irreconcilables.jpg
 biography_enhanced_at: '2025-12-20T01:19:20.565863'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- General web search showing no dedicated results for an artist/band named “the irreconcilables” beyond streaming metadata
-- Encyclopaedia Metallum entry for Menace Ruine – “Union of Irreconcilables” confirming that this is an album title by a different
-  act, not a band named “the irreconcilables”[6]
+  - >-
+    General web search showing no dedicated results for an artist/band named
+    “the irreconcilables” beyond streaming metadata
+  - >-
+    Encyclopaedia Metallum entry for Menace Ruine – “Union of Irreconcilables”
+    confirming that this is an album title by a different act, not a band named
+    “the irreconcilables”[6]
 network_extracted: true
 entry_created: '2025-12-20T01:19:20.565876'
 last_updated: '2025-12-23T08:16:16.859814'
+artist_type: band
 ---
 
 ![](the_irreconcilables.jpg)

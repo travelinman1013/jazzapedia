@@ -1,37 +1,37 @@
 ---
-title: WARREN ZEVON
+title: Warren Zevon
 wiki_slug: warren-zevon
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1947-01-24'
-birth_place: Chicago
+birth_place: 'Chicago, Illinois, United States'
 death_date: '2003-09-07'
 genres:
-- singer-songwriter
+  - singer-songwriter
 instruments:
-- guitar
-- piano
-- acoustic guitar
-- electric guitar
-- background vocals
-- lead vocals
+  - guitar
+  - piano
+  - acoustic guitar
+  - electric guitar
+  - background vocals
+  - lead vocals
 associated_acts:
-- begin: '1966'
-  end: '1966'
-  instruments: []
-  mbid: 1a40d119-82f6-42f4-8d39-7685579d31fe
-  name: The Motorcycle Abeline
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 03e1abb2-f5d4-4ba0-9568-f1cbe262896e
-  name: Lyme & Cybelle
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3e409194-d1e7-45c2-8e91-b4918e86da7d
-  name: Hindu Love Gods
+  - begin: '1966'
+    end: '1966'
+    instruments: []
+    mbid: 1a40d119-82f6-42f4-8d39-7685579d31fe
+    name: The Motorcycle Abeline
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 03e1abb2-f5d4-4ba0-9568-f1cbe262896e
+    name: Lyme & Cybelle
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3e409194-d1e7-45c2-8e91-b4918e86da7d
+    name: Hindu Love Gods
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/warren_zevon.jpg
   caption: WARREN ZEVON
@@ -54,55 +54,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Linda Ronstadt
-  - Members of R.E.M.
-  - Bruce Springsteen
-  - Everly Brothers
+    - Linda Ronstadt
+    - Members of R.E.M.
+    - Bruce Springsteen
+    - Everly Brothers
   influenced:
-  - David Letterman
-  - Jorge Drexler
-  - Jackson Browne
+    - David Letterman
+    - Jorge Drexler
+    - Jackson Browne
   mentors:
-  - Jackson Browne
+    - Jackson Browne
 spotify_data:
   followers: 446868
   id: 3mY9Ii0cL5SQxpOTAm8SHx
   popularity: 55
-  url: https://open.spotify.com/artist/3mY9Ii0cL5SQxpOTAm8SHx
+  url: 'https://open.spotify.com/artist/3mY9Ii0cL5SQxpOTAm8SHx'
 discography_enriched: true
 top_tracks:
-- Werewolves of London (Excitable Boy)
-- Lawyers, Guns and Money (Excitable Boy)
-- Werewolves of London
-- Keep Me in Your Heart (The Wind)
-- Excitable Boy (Excitable Boy)
-- Carmelita (Warren Zevon)
-- Roland the Headless Thompson Gunner (Excitable Boy)
-- Steady Rain (Preludes)
-- My Shit's Fucked Up (Life'll Kill Ya)
-- Poor Poor Pitiful Me (Warren Zevon)
+  - Werewolves of London (Excitable Boy)
+  - 'Lawyers, Guns and Money (Excitable Boy)'
+  - Werewolves of London
+  - Keep Me in Your Heart (The Wind)
+  - Excitable Boy (Excitable Boy)
+  - Carmelita (Warren Zevon)
+  - Roland the Headless Thompson Gunner (Excitable Boy)
+  - Steady Rain (Preludes)
+  - My Shit's Fucked Up (Life'll Kill Ya)
+  - Poor Poor Pitiful Me (Warren Zevon)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/970fb29f-e288-403e-a388-d2a7889bfa47
-  spotify: https://open.spotify.com/artist/3mY9Ii0cL5SQxpOTAm8SHx
-  wikipedia: https://en.wikipedia.org/wiki/Warren_Zevon
+  musicbrainz: 'https://musicbrainz.org/artist/970fb29f-e288-403e-a388-d2a7889bfa47'
+  spotify: 'https://open.spotify.com/artist/3mY9Ii0cL5SQxpOTAm8SHx'
+  wikipedia: 'https://en.wikipedia.org/wiki/Warren_Zevon'
 image_path: 03_Resources/source_material/ArtistPortraits/warren_zevon.jpg
 biography_enhanced_at: '2025-10-28T09:19:16.191807'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Warren_Zevon
-- https://www.britannica.com/biography/Warren-Zevon
-- https://www.imdb.com/name/nm0955255/bio/
-- https://warrenzevon.com/Chronology/
+  - 'https://en.wikipedia.org/wiki/Warren_Zevon'
+  - 'https://www.britannica.com/biography/Warren-Zevon'
+  - 'https://www.imdb.com/name/nm0955255/bio/'
+  - 'https://warrenzevon.com/Chronology/'
 network_extracted: true
 entry_created: '2025-10-28T09:19:16.191813'
 last_updated: '2025-12-23T08:16:17.998562'
 gender: Male
 musicbrainz_id: 970fb29f-e288-403e-a388-d2a7889bfa47
 tags:
-- alternative rock
-- blues
-- blues rock
+  - alternative rock
+  - blues
+  - blues rock
+is_active: false
 ---
 
 ![](warren_zevon.jpg)

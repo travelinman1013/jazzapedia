@@ -5,18 +5,18 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1942-06-26'
-birth_place: Salvador
+birth_place: 'Salvador, Bahia, Brazil'
 genres:
-- mpb
-- bossa nova
-- samba
-- brazilian jazz
+  - mpb
+  - bossa nova
+  - samba
+  - brazilian jazz
 instruments:
-- guitar family
-- guitar
-- electric guitar
-- acoustic guitar
-- background vocals
+  - guitar family
+  - guitar
+  - electric guitar
+  - acoustic guitar
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Gilberto_Gil.jpg
   caption: Gilberto Gil
@@ -24,7 +24,7 @@ infobox:
   born: '1942-06-26'
   origin: Salvador
 audio_profile:
-  tempo_avg: 116.0
+  tempo_avg: 116
   energy_avg: 0.513
   valence_avg: 0.621
   danceability_avg: 0.621
@@ -38,59 +38,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Caetano Veloso
-  - Gal Costa
-  - Maria Bethânia
-  - Tom Zé
-  - Os Mutantes
+    - Caetano Veloso
+    - Gal Costa
+    - Maria Bethânia
+    - Tom Zé
+    - Os Mutantes
   influenced:
-  - Carlinhos Brown
-  - Lenine
-  - Aline Calixto
+    - Carlinhos Brown
+    - Lenine
+    - Aline Calixto
   mentors:
-  - Luiz Gonzaga
-  - João Gilberto
+    - Luiz Gonzaga
+    - João Gilberto
 spotify_data:
   followers: 1542655
   id: 7oEkUINVIj1Nr3Wnj8tzqr
   popularity: 64
-  url: https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr
+  url: 'https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr'
 discography_enriched: true
 top_tracks:
-- A Dança - Ao Vivo (Funk Superação (Ao Vivo))
-- Andar com fé (Um banda um)
-- Esperando na janela (As canções de eu, tu, eles)
-- A Dança - Ao Vivo
-- Palco (Luar)
-- Drão (Um banda um)
-- Aquele Abraço
-- Toda Menina Baiana (Realce)
-- Aos Pés da Cruz
-- Aquarela do Brasil (Participação especial de Gilberto Gil e Caetano Veloso)
+  - A Dança - Ao Vivo (Funk Superação (Ao Vivo))
+  - Andar com fé (Um banda um)
+  - 'Esperando na janela (As canções de eu, tu, eles)'
+  - A Dança - Ao Vivo
+  - Palco (Luar)
+  - Drão (Um banda um)
+  - Aquele Abraço
+  - Toda Menina Baiana (Realce)
+  - Aos Pés da Cruz
+  - Aquarela do Brasil (Participação especial de Gilberto Gil e Caetano Veloso)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/cf6b70f6-2616-481c-912c-0263cabfc974
-  spotify: https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr
-  wikipedia: https://en.wikipedia.org/wiki/Gilberto_Gil
+  musicbrainz: 'https://musicbrainz.org/artist/cf6b70f6-2616-481c-912c-0263cabfc974'
+  spotify: 'https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr'
+  wikipedia: 'https://en.wikipedia.org/wiki/Gilberto_Gil'
 image_path: 03_Resources/source_material/ArtistPortraits/Gilberto_Gil.jpg
 biography_enhanced_at: '2025-10-22T06:51:18.250163'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.songlines.co.uk/artists/gilberto-gil
-- https://www.allaboutjazz.com/musicians/gilberto-gil/
-- https://www.britannica.com/biography/Gilberto-Gil
-- https://en.wikipedia.org/wiki/Gilberto_Gil
-- https://www.transatlantic-cultures.org/es/catalog/gilberto-gil
+  - 'https://www.songlines.co.uk/artists/gilberto-gil'
+  - 'https://www.allaboutjazz.com/musicians/gilberto-gil/'
+  - 'https://www.britannica.com/biography/Gilberto-Gil'
+  - 'https://en.wikipedia.org/wiki/Gilberto_Gil'
+  - 'https://www.transatlantic-cultures.org/es/catalog/gilberto-gil'
 network_extracted: true
 entry_created: '2025-10-22T06:51:18.250176'
 last_updated: '2025-12-23T08:16:02.125225'
 gender: Male
 musicbrainz_id: cf6b70f6-2616-481c-912c-0263cabfc974
 tags:
-- bossa nova
-- brasil
-- brasileiro
-
+  - bossa nova
+  - brasil
+  - brasileiro
 ---
 
 ![](Gilberto_Gil.jpg)

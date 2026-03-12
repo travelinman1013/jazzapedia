@@ -3,13 +3,13 @@ title: Craig Klein
 wiki_slug: craig-klein
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/craig_klein.jpg
   caption: Craig Klein
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 111.1
   energy_avg: 0.407
@@ -25,49 +25,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Harry Connick, Jr.
-  - Mark Mullins
-  - Matt Perrine
-  - Dr. John
-  - The Neville Brothers
-  - Preservation Hall
+    - 'Harry Connick, Jr.'
+    - Mark Mullins
+    - Matt Perrine
+    - Dr. John
+    - The Neville Brothers
+    - Preservation Hall
   influenced:
-  - Emerging New Orleans trombonists
+    - Emerging New Orleans trombonists
   mentors:
-  - Gerry Dallmann
-  - Lucien Barbarin
+    - Gerry Dallmann
+    - Lucien Barbarin
 spotify_data:
   followers: 196
   id: 6jCrDuxxV1VcvdYQ12dWdU
   popularity: 16
-  url: https://open.spotify.com/artist/6jCrDuxxV1VcvdYQ12dWdU
+  url: 'https://open.spotify.com/artist/6jCrDuxxV1VcvdYQ12dWdU'
 discography_enriched: true
 top_tracks:
-- Blues for Ben (All Kooked Out!)
-- Lady Be Good (New Orleans Trombonisms)
-- Farther Along - Piano (Winter's Bone Soundtrack)
-- Brass Happy (Live) (The Eddie Gale Collaborative Live in New Orleans)
-- JoAnn - feat. Michael Cerveris & Craig Klein (Nine Lives - a Musical Story of New Orleans (The Complete Set))
-- I'm so Happy (Live) (The Eddie Gale Collaborative Live in New Orleans)
-- Shake Your Rugalator (New Orleans Trombonisms)
-- Marie Laveau (New Orleans Trombonisms)
-- Home (feat. Craig Klein and Shamarr Allen) - Live and Unreleased (Vieux Carré (The French Quarter) - Sounds of New Orleans)
-- Christmas On My Mind - Craig Klein (A Very Threadhead Holiday)
+  - Blues for Ben (All Kooked Out!)
+  - Lady Be Good (New Orleans Trombonisms)
+  - Farther Along - Piano (Winter's Bone Soundtrack)
+  - Brass Happy (Live) (The Eddie Gale Collaborative Live in New Orleans)
+  - >-
+    JoAnn - feat. Michael Cerveris & Craig Klein (Nine Lives - a Musical Story
+    of New Orleans (The Complete Set))
+  - I'm so Happy (Live) (The Eddie Gale Collaborative Live in New Orleans)
+  - Shake Your Rugalator (New Orleans Trombonisms)
+  - Marie Laveau (New Orleans Trombonisms)
+  - >-
+    Home (feat. Craig Klein and Shamarr Allen) - Live and Unreleased (Vieux
+    Carré (The French Quarter) - Sounds of New Orleans)
+  - Christmas On My Mind - Craig Klein (A Very Threadhead Holiday)
 external_urls:
-  spotify: https://open.spotify.com/artist/6jCrDuxxV1VcvdYQ12dWdU
+  spotify: 'https://open.spotify.com/artist/6jCrDuxxV1VcvdYQ12dWdU'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/craig_klein.jpg
 biography_enhanced_at: '2025-11-22T07:37:13.859312'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.craigkleinmusic.com/bio
-- https://syncopatedtimes.com/trombonist-craig-klein-a-nola-native-keeps-the-music-playing/
-- https://www.edwards-instruments.com/news/2003/02/17/craig-klein-artist-profile/
-- https://salon726.com/home/meet-the-collective-craig-klein
+  - 'https://www.craigkleinmusic.com/bio'
+  - >-
+    https://syncopatedtimes.com/trombonist-craig-klein-a-nola-native-keeps-the-music-playing/
+  - >-
+    https://www.edwards-instruments.com/news/2003/02/17/craig-klein-artist-profile/
+  - 'https://salon726.com/home/meet-the-collective-craig-klein'
 network_extracted: true
 entry_created: '2025-11-22T07:37:13.859329'
 last_updated: '2025-12-23T08:16:07.272910'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](craig_klein.jpg)

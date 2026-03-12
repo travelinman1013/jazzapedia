@@ -1,88 +1,88 @@
 ---
-title: mccoy tyner
+title: McCoy Tyner
 wiki_slug: mccoy-tyner
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1938-12-11'
-birth_place: Philadelphia
+birth_place: 'Philadelphia, Pennsylvania, United States'
 death_date: '2020-03-06'
 genres:
-- jazz
-- hard bop
-- cool jazz
-- bebop
-- free jazz
+  - jazz
+  - hard bop
+  - cool jazz
+  - bebop
+  - free jazz
 instruments:
-- piano
-- eponymous
-- original
-- piano accordion
+  - piano
+  - eponymous
+  - original
+  - piano accordion
 associated_acts:
-- begin: '1959'
-  end: '1965'
-  instruments:
-  - piano
-  mbid: a43270af-bc4a-4552-847e-617b11f38d7b
-  name: John Coltrane Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  - piano
-  mbid: de60490f-8f0a-4011-8a84-0c26ccccb6c0
-  name: McCoy Tyner Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7b27ddb9-0267-43c1-aa7f-c59434734bf0
-  name: The Curtis Fuller Sextette
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 247493e1-7d1f-445a-b1fc-01472b87f4a0
-  name: McCoy Tyner Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  - piano
-  mbid: 60127c32-7d29-4a35-ba67-12e2eecaf600
-  name: McCoy Tyner Sextet
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: 2a784762-f782-4b7c-b2a5-a5941ac9d5dc
-  name: John Coltrane Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c020ab6f-2653-474f-98cb-f89488d9d228
-  name: The Great Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: fafe7a9e-ec8f-4198-bf28-98e4db8fad29
-  name: McCoy Tyner Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f7d398fd-c052-41e6-87f0-b29b70c8000f
-  name: Elvin Jones McCoy Tyner Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  - piano
-  mbid: aea1b49a-a21d-412f-902a-06c631b1a2a3
-  name: McCoy Tyner / Freddie Hubbard Quartet
+  - begin: '1959'
+    end: '1965'
+    instruments:
+      - piano
+    mbid: a43270af-bc4a-4552-847e-617b11f38d7b
+    name: John Coltrane Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - piano
+    mbid: de60490f-8f0a-4011-8a84-0c26ccccb6c0
+    name: McCoy Tyner Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7b27ddb9-0267-43c1-aa7f-c59434734bf0
+    name: The Curtis Fuller Sextette
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 247493e1-7d1f-445a-b1fc-01472b87f4a0
+    name: McCoy Tyner Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - piano
+    mbid: 60127c32-7d29-4a35-ba67-12e2eecaf600
+    name: McCoy Tyner Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: 2a784762-f782-4b7c-b2a5-a5941ac9d5dc
+    name: John Coltrane Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c020ab6f-2653-474f-98cb-f89488d9d228
+    name: The Great Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: fafe7a9e-ec8f-4198-bf28-98e4db8fad29
+    name: McCoy Tyner Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f7d398fd-c052-41e6-87f0-b29b70c8000f
+    name: Elvin Jones McCoy Tyner Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - piano
+    mbid: aea1b49a-a21d-412f-902a-06c631b1a2a3
+    name: McCoy Tyner / Freddie Hubbard Quartet
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/mccoy_tyner.jpg
   caption: mccoy tyner
@@ -105,51 +105,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John Coltrane
-  - Elvin Jones
-  - Jimmy Garrison
-  - Benny Golson and Art Farmer
-  - Joe Henderson
-  - Freddie Hubbard
+    - John Coltrane
+    - Elvin Jones
+    - Jimmy Garrison
+    - Benny Golson and Art Farmer
+    - Joe Henderson
+    - Freddie Hubbard
   influenced:
-  - Chick Corea
-  - Herbie Hancock
-  - Brad Mehldau
+    - Chick Corea
+    - Herbie Hancock
+    - Brad Mehldau
   mentors:
-  - Bud Powell
-  - Thelonious Monk
-  - Mr. Habershaw and Mr. Beroni
+    - Bud Powell
+    - Thelonious Monk
+    - Mr. Habershaw and Mr. Beroni
 spotify_data:
   followers: 153758
   id: 2EsmKkHsXK0WMNGOtIhbxr
   popularity: 51
-  url: https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr
+  url: 'https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr'
 discography_enriched: true
 top_tracks:
-- When Sunny Gets Blue (Today And Tomorrow)
-- We'll Be Together Again (Nights Of Ballads & Blues)
-- Days Of Wine And Roses (Nights Of Ballads & Blues)
-- Search For Peace (The Real McCoy (Remastered / Rudy Van Gelder Edition))
-- Satin Doll (Nights Of Ballads & Blues)
-- For Heaven's Sake (Nights Of Ballads & Blues)
-- Blue Monk (Nights Of Ballads & Blues)
-- Autumn Leaves (Today And Tomorrow)
-- Contemplation (The Real McCoy (Remastered / Rudy Van Gelder Edition))
-- Groove Waltz (Nights Of Ballads & Blues)
+  - When Sunny Gets Blue (Today And Tomorrow)
+  - We'll Be Together Again (Nights Of Ballads & Blues)
+  - Days Of Wine And Roses (Nights Of Ballads & Blues)
+  - Search For Peace (The Real McCoy (Remastered / Rudy Van Gelder Edition))
+  - Satin Doll (Nights Of Ballads & Blues)
+  - For Heaven's Sake (Nights Of Ballads & Blues)
+  - Blue Monk (Nights Of Ballads & Blues)
+  - Autumn Leaves (Today And Tomorrow)
+  - Contemplation (The Real McCoy (Remastered / Rudy Van Gelder Edition))
+  - Groove Waltz (Nights Of Ballads & Blues)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/22fe7b6f-af38-458e-87bd-8971e7a2912e
-  spotify: https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr
-  wikipedia: https://en.wikipedia.org/wiki/McCoy_Tyner
+  musicbrainz: 'https://musicbrainz.org/artist/22fe7b6f-af38-458e-87bd-8971e7a2912e'
+  spotify: 'https://open.spotify.com/artist/2EsmKkHsXK0WMNGOtIhbxr'
+  wikipedia: 'https://en.wikipedia.org/wiki/McCoy_Tyner'
 image_path: 03_Resources/source_material/ArtistPortraits/mccoy_tyner.jpg
 biography_enhanced_at: '2025-10-30T11:57:12.749500'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.ebsco.com/research-starters/music/mccoy-tyner
-- https://www.thehistorymakers.org/biography/mccoy-tyner-40
-- https://www.arts.gov/honors/jazz/mccoy-tyner
-- https://blackpast.org/african-american-history/mccoy-tyner-1938-2020/
-- https://mccoytyner.com/about/
+  - 'https://www.ebsco.com/research-starters/music/mccoy-tyner'
+  - 'https://www.thehistorymakers.org/biography/mccoy-tyner-40'
+  - 'https://www.arts.gov/honors/jazz/mccoy-tyner'
+  - 'https://blackpast.org/african-american-history/mccoy-tyner-1938-2020/'
+  - 'https://mccoytyner.com/about/'
 network_extracted: true
 entry_created: '2025-10-30T11:57:12.749505'
 last_updated: '2025-12-23T08:16:12.882832'
@@ -157,9 +157,10 @@ disambiguation: jazz pianist
 gender: Male
 musicbrainz_id: 22fe7b6f-af38-458e-87bd-8971e7a2912e
 tags:
-- 2008 universal fire victim
-- afro-cuban jazz
-- american
+  - 2008 universal fire victim
+  - afro-cuban jazz
+  - american
+is_active: false
 ---
 
 ![](mccoy_tyner.jpg)

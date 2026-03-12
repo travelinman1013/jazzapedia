@@ -3,16 +3,16 @@ title: Beth Carvalho & Ferrugem
 wiki_slug: beth-carvalho-ferrugem
 schema_version: 2
 status: active
-birth_place: Rio de Janeiro, Rio de Janeiro, Brazil
+birth_place: 'Rio de Janeiro, Rio de Janeiro, Brazil'
 genres:
-- samba
-- pagode
-- mpb
+  - samba
+  - pagode
+  - mpb
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Beth_Carvalho_and_Ferrugem.jpg
   caption: Beth Carvalho & Ferrugem
   background: solo_singer
-  origin: Rio de Janeiro, Rio de Janeiro, Brazil
+  origin: 'Rio de Janeiro, Rio de Janeiro, Brazil'
 audio_profile:
   tempo_avg: 110.6
   energy_avg: 0.67
@@ -28,52 +28,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Cartola
-  - Nelson Cavaquinho
-  - Guilherme de Brito
-  - Almir Guineto
-  - Jorge Aragão
-  - Fundo de Quintal
+    - Cartola
+    - Nelson Cavaquinho
+    - Guilherme de Brito
+    - Almir Guineto
+    - Jorge Aragão
+    - Fundo de Quintal
   influenced:
-  - Zeca Pagodinho
-  - Arlindo Cruz
-  - Luiz Carlos da Vila
+    - Zeca Pagodinho
+    - Arlindo Cruz
+    - Luiz Carlos da Vila
   mentors:
-  - Nelson Sargento
+    - Nelson Sargento
 spotify_data:
   followers: 585079
   id: 56TkPi7rpmU8jTpkcK7FY3
   popularity: 56
-  url: https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3
+  url: 'https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3'
 discography_enriched: true
 top_tracks:
-- Andança (No Pagode)
-- Vou Festejar (De Pé No Chão)
-- Clube do Samba
-- Acreditar - Ao VIvo (Pagode De Mesa (Ao Vivo))
-- Coisinha do Pai (No Pagode)
-- Camarão Que Dorme a Onda Leva
-- Água de chuva no mar - Ao vivo (A madrinha do samba ao vivo convida)
-- O Show Tem Que Continuar - Ao Vivo (Ao Vivo No Parque Madureira (Deluxe))
-- Água de Chuva no Mar (Sambabook Beth Carvalho)
-- Olho por Olho (Nos Botequins Da Vida)
+  - Andança (No Pagode)
+  - Vou Festejar (De Pé No Chão)
+  - Clube do Samba
+  - Acreditar - Ao VIvo (Pagode De Mesa (Ao Vivo))
+  - Coisinha do Pai (No Pagode)
+  - Camarão Que Dorme a Onda Leva
+  - Água de chuva no mar - Ao vivo (A madrinha do samba ao vivo convida)
+  - O Show Tem Que Continuar - Ao Vivo (Ao Vivo No Parque Madureira (Deluxe))
+  - Água de Chuva no Mar (Sambabook Beth Carvalho)
+  - Olho por Olho (Nos Botequins Da Vida)
 external_urls:
-  spotify: https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3
-  wikipedia: https://en.wikipedia.org/wiki/Beth_Carvalho
+  spotify: 'https://open.spotify.com/artist/56TkPi7rpmU8jTpkcK7FY3'
+  wikipedia: 'https://en.wikipedia.org/wiki/Beth_Carvalho'
 image_path: 03_Resources/source_material/ArtistPortraits/Beth_Carvalho_and_Ferrugem.jpg
 biography_enhanced_at: '2025-10-19T12:29:20.687270'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Beth_Carvalho
-- https://www.last.fm/music/Beth+Carvalho/+wiki
-- https://kids.kiddle.co/Beth_Carvalho
-- https://www.the-independent.com/news/obituaries/beth-carvalho-death-obituary-brazil-rio-de-janeiro-godmother-samba-a8904881.html
-- https://rioandlearn.com/beth-carvalho/
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/carvalho-beth
+  - 'https://en.wikipedia.org/wiki/Beth_Carvalho'
+  - 'https://www.last.fm/music/Beth+Carvalho/+wiki'
+  - 'https://kids.kiddle.co/Beth_Carvalho'
+  - >-
+    https://www.the-independent.com/news/obituaries/beth-carvalho-death-obituary-brazil-rio-de-janeiro-godmother-samba-a8904881.html
+  - 'https://rioandlearn.com/beth-carvalho/'
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/carvalho-beth
 network_extracted: true
 entry_created: '2025-10-19T12:29:20.687284'
 last_updated: '2025-12-23T08:16:01.176138'
+artist_type: person
 ---
 
 ![](Beth_Carvalho_and_Ferrugem.jpg)

@@ -3,14 +3,14 @@ title: Ruby Johnson
 wiki_slug: ruby-johnson
 schema_version: 2
 status: active
-birth_place: Elizabeth City, North Carolina, United States
+birth_place: 'Elizabeth City, North Carolina, United States'
 genres:
-- soul
+  - soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ruby_johnson.jpg
   caption: Ruby Johnson
   background: solo_singer
-  origin: Elizabeth City, North Carolina, United States
+  origin: 'Elizabeth City, North Carolina, United States'
 audio_profile:
   tempo_avg: 126.2
   energy_avg: 0.27
@@ -26,46 +26,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Isaac Hayes & David Porter
-  - Booker T. & the MG's (Steve Cropper, Donald 'Duck' Dunn, Al Jackson Jr.)
-  - Dicky Williams
+    - Isaac Hayes & David Porter
+    - 'Booker T. & the MG''s (Steve Cropper, Donald ''Duck'' Dunn, Al Jackson Jr.)'
+    - Dicky Williams
   influenced:
-  - Northern Soul artists and collectors
+    - Northern Soul artists and collectors
   mentors:
-  - Samuel Latham
+    - Samuel Latham
 spotify_data:
   followers: 9633
   id: 3Ci7S0VYHH1UG5zJanPBU2
   popularity: 20
-  url: https://open.spotify.com/artist/3Ci7S0VYHH1UG5zJanPBU2
+  url: 'https://open.spotify.com/artist/3Ci7S0VYHH1UG5zJanPBU2'
 discography_enriched: true
 top_tracks:
-- I'll Run Your Hurt Away (I'll Run Your Hurt Away)
-- Don't Play That Song (You Lied) (I'll Run Your Hurt Away)
-- When My Love Comes Down (I'll Run Your Hurt Away)
-- Weak Spot (I'll Run Your Hurt Away)
-- I'd Rather Fight Than Switch - Take 1 (I'll Run Your Hurt Away)
-- Keep On Keeping On (I'll Run Your Hurt Away)
-- 'Come To Me My Darling - Single Version (Stax-Volt: The Complete Singles 1959-1968)'
-- If I Ever Needed Love (I Sure Do Need It Now) (I'll Run Your Hurt Away)
-- Won't Be Long (I'll Run Your Hurt Away)
-- No No No - Take 1 (I'll Run Your Hurt Away)
+  - I'll Run Your Hurt Away (I'll Run Your Hurt Away)
+  - Don't Play That Song (You Lied) (I'll Run Your Hurt Away)
+  - When My Love Comes Down (I'll Run Your Hurt Away)
+  - Weak Spot (I'll Run Your Hurt Away)
+  - I'd Rather Fight Than Switch - Take 1 (I'll Run Your Hurt Away)
+  - Keep On Keeping On (I'll Run Your Hurt Away)
+  - >-
+    Come To Me My Darling - Single Version (Stax-Volt: The Complete Singles
+    1959-1968)
+  - If I Ever Needed Love (I Sure Do Need It Now) (I'll Run Your Hurt Away)
+  - Won't Be Long (I'll Run Your Hurt Away)
+  - No No No - Take 1 (I'll Run Your Hurt Away)
 external_urls:
-  spotify: https://open.spotify.com/artist/3Ci7S0VYHH1UG5zJanPBU2
-  wikipedia: https://en.wikipedia.org/wiki/Ruby_Johnson
+  spotify: 'https://open.spotify.com/artist/3Ci7S0VYHH1UG5zJanPBU2'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ruby_Johnson'
 image_path: 03_Resources/source_material/ArtistPortraits/ruby_johnson.jpg
 biography_enhanced_at: '2025-10-31T08:15:55.994258'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Ruby_Johnson
-- https://fromthevaults-boppinbob.blogspot.com/2016/04/ruby-johnson-born-19-april-1936.html
-- https://www.the-independent.com/arts-entertainment/obituary-ruby-johnson-1117495.html
-- https://nodepression.org/ruby-johnson-a-glorious-rediscovery/
+  - 'https://en.wikipedia.org/wiki/Ruby_Johnson'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2016/04/ruby-johnson-born-19-april-1936.html
+  - >-
+    https://www.the-independent.com/arts-entertainment/obituary-ruby-johnson-1117495.html
+  - 'https://nodepression.org/ruby-johnson-a-glorious-rediscovery/'
 network_extracted: true
 entry_created: '2025-10-31T08:15:55.994264'
 last_updated: '2025-12-23T08:16:15.170037'
-
+artist_type: person
 ---
 
 ![](ruby_johnson.jpg)

@@ -4,11 +4,11 @@ wiki_slug: the-ethiopians
 schema_version: 2
 status: active
 genres:
-- rocksteady
-- ska
-- reggae
-- roots reggae
-- dub
+  - rocksteady
+  - ska
+  - reggae
+  - roots reggae
+  - dub
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_ethiopians.jpg
   caption: The Ethiopians
@@ -28,46 +28,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Stephen "Tough Cock" Taylor
-  - Aston "Charlie" Morrison
-  - Neville Duncan
+    - Stephen "Tough Cock" Taylor
+    - Aston "Charlie" Morrison
+    - Neville Duncan
   influenced: []
   mentors: []
 spotify_data:
   followers: 74129
   id: 3TUmwNx3l8S2nCoGKqIhjA
   popularity: 38
-  url: https://open.spotify.com/artist/3TUmwNx3l8S2nCoGKqIhjA
+  url: 'https://open.spotify.com/artist/3TUmwNx3l8S2nCoGKqIhjA'
 discography_enriched: true
 top_tracks:
-- Train to Skaville (Engine 54)
-- Engine 54 (Engine 54)
-- Good Ambition
-- No Baptism
-- 'Free Man (Ethiopians Classics, Vol. 3: Everything Ska)'
-- Everything Crash
-- Pirate
-- Come On Now (Engine 54)
-- The Whip (Engine 54 (Expanded Version))
-- Give Me Your Love (Engine 54)
+  - Train to Skaville (Engine 54)
+  - Engine 54 (Engine 54)
+  - Good Ambition
+  - No Baptism
+  - 'Free Man (Ethiopians Classics, Vol. 3: Everything Ska)'
+  - Everything Crash
+  - Pirate
+  - Come On Now (Engine 54)
+  - The Whip (Engine 54 (Expanded Version))
+  - Give Me Your Love (Engine 54)
 external_urls:
-  spotify: https://open.spotify.com/artist/3TUmwNx3l8S2nCoGKqIhjA
+  spotify: 'https://open.spotify.com/artist/3TUmwNx3l8S2nCoGKqIhjA'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/the_ethiopians.jpg
 biography_enhanced_at: '2025-12-22T01:47:03.012723'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Muziekweb - The Ethiopians
-- AllMusic - The Ethiopians
-- Jango Radio - The Ethiopians Full Bio
-- United Reggae - The Ethiopian by Leonard Dillon
-- Subcultz - Neville Duncan Ethiopian Children
-- John Peel Wiki - Ethiopians
+  - Muziekweb - The Ethiopians
+  - AllMusic - The Ethiopians
+  - Jango Radio - The Ethiopians Full Bio
+  - United Reggae - The Ethiopian by Leonard Dillon
+  - Subcultz - Neville Duncan Ethiopian Children
+  - John Peel Wiki - Ethiopians
 network_extracted: true
 entry_created: '2025-12-22T01:47:03.012728'
 last_updated: '2025-12-23T08:16:16.761964'
-origin: Kingston, Jamaica (formed); Port Antonio, Jamaica (Leonard Dillon birthplace)
+origin: 'Kingston, Jamaica (formed); Port Antonio, Jamaica (Leonard Dillon birthplace)'
+birth_place: 'Port Antonio, Jamaica, United States'
+birth_date: '1942-12-09'
+death_date: '2011-09-28'
+artist_type: band
 ---
 
 ![](the_ethiopians.jpg)

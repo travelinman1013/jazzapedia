@@ -1,19 +1,20 @@
 ---
-title: VICTORIA SPIVEY AND THE CHICAGO FOUR
+title: Victoria Spivey and the Chicago Four
 wiki_slug: victoria-spivey-and-the-chicago-four
 schema_version: 2
 status: active
-birth_place: Houston, Texas, USA
+birth_place: 'Houston, Texas, USA'
 genres:
-- classic blues
-- blues
-- ragtime
-- country blues
+  - classic blues
+  - blues
+  - ragtime
+  - country blues
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/victoria_spivey_and_the_chicago_four.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/victoria_spivey_and_the_chicago_four.jpg
   caption: VICTORIA SPIVEY AND THE CHICAGO FOUR
   background: solo_singer
-  origin: Houston, Texas, USA
+  origin: 'Houston, Texas, USA'
 audio_profile:
   tempo_avg: 104.1
   energy_avg: 0.21
@@ -29,50 +30,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Louis Armstrong
-  - King Oliver
-  - Lonnie Johnson
-  - Chicago Four
-  - Bob Dylan
+    - Louis Armstrong
+    - King Oliver
+    - Lonnie Johnson
+    - Chicago Four
+    - Bob Dylan
   influenced:
-  - Bob Dylan
-  - B.B. King
-  - Numerous blueswomen and men of the folk/blues revival
+    - Bob Dylan
+    - B.B. King
+    - Numerous blueswomen and men of the folk/blues revival
   mentors:
-  - Ida Cox
+    - Ida Cox
 spotify_data:
   followers: 8129
   id: 3GjPnuJtWUiwPm1Kn8zyG4
   popularity: 15
-  url: https://open.spotify.com/artist/3GjPnuJtWUiwPm1Kn8zyG4
+  url: 'https://open.spotify.com/artist/3GjPnuJtWUiwPm1Kn8zyG4'
 discography_enriched: true
 top_tracks:
-- Garter Snake Blues (Detroit Moan)
-- Dope Head Blues (The Victoria Spivey Collection 1926-27)
-- Garter Snake Blues (Victoria Spivey Vol. 1 1926-1927)
-- Black Snake Blues (Songs We Taught Your Mother)
-- Funny Feathers (The Victoria Spivey Collection 1926-27)
-- Give It to Him (The Victoria Spivey Collection 1926-27)
-- Blood Thirsty Blues (Detroit Moan)
-- Detroit Moan
-- Good Cabbage (Queen Victoria)
-- Black Snake Swing (Victoria Spivey Vol. 3 1929-1936)
+  - Garter Snake Blues (Detroit Moan)
+  - Dope Head Blues (The Victoria Spivey Collection 1926-27)
+  - Garter Snake Blues (Victoria Spivey Vol. 1 1926-1927)
+  - Black Snake Blues (Songs We Taught Your Mother)
+  - Funny Feathers (The Victoria Spivey Collection 1926-27)
+  - Give It to Him (The Victoria Spivey Collection 1926-27)
+  - Blood Thirsty Blues (Detroit Moan)
+  - Detroit Moan
+  - Good Cabbage (Queen Victoria)
+  - Black Snake Swing (Victoria Spivey Vol. 3 1929-1936)
 external_urls:
-  spotify: https://open.spotify.com/artist/3GjPnuJtWUiwPm1Kn8zyG4
-  wikipedia: https://en.wikipedia.org/wiki/Victoria_Spivey
-image_path: 03_Resources/source_material/ArtistPortraits/victoria_spivey_and_the_chicago_four.jpg
+  spotify: 'https://open.spotify.com/artist/3GjPnuJtWUiwPm1Kn8zyG4'
+  wikipedia: 'https://en.wikipedia.org/wiki/Victoria_Spivey'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/victoria_spivey_and_the_chicago_four.jpg
 biography_enhanced_at: '2025-10-23T07:19:45.557297'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://blues.org/blues_hof_inductee/victoria-spivey/
-- https://en.wikipedia.org/wiki/Victoria_Spivey
-- https://www.tshaonline.org/handbook/entries/spivey-victoria-regina
-- https://aaregistry.org/story/she-could-do-it-all-victoria-spivey/
-- https://oldtimeblues.net/2015/10/15/vocalion-03405-victoria-spivey-and-chicago-four-1936/
+  - 'https://blues.org/blues_hof_inductee/victoria-spivey/'
+  - 'https://en.wikipedia.org/wiki/Victoria_Spivey'
+  - 'https://www.tshaonline.org/handbook/entries/spivey-victoria-regina'
+  - 'https://aaregistry.org/story/she-could-do-it-all-victoria-spivey/'
+  - >-
+    https://oldtimeblues.net/2015/10/15/vocalion-03405-victoria-spivey-and-chicago-four-1936/
 network_extracted: true
 entry_created: '2025-10-23T07:19:45.557312'
 last_updated: '2025-12-23T08:16:17.868077'
+birth_date: '1906-10-15'
+artist_type: person
 ---
 
 ![](victoria_spivey_and_the_chicago_four.jpg)

@@ -2,11 +2,11 @@
 title: Os Haxixins
 wiki_slug: os-haxixins
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- garage rock
-- psychedelic rock
+  - garage rock
+  - psychedelic rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/os_haxixins.jpg
   caption: Os Haxixins
@@ -26,47 +26,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Alexandre Alopra
-  - Fabio Fiuza
-  - Alex Romera
+    - Alexandre Alopra
+    - Fabio Fiuza
+    - Alex Romera
   influenced: []
   mentors: []
 spotify_data:
   followers: 1865
   id: 50NGrd1LZbMhjGKuzRNADK
   popularity: 6
-  url: https://open.spotify.com/artist/50NGrd1LZbMhjGKuzRNADK
+  url: 'https://open.spotify.com/artist/50NGrd1LZbMhjGKuzRNADK'
 discography_enriched: true
 top_tracks:
-- Onde Meditar (Imi-dá) (Os Haxixins)
-- Dirty Old Man (Os Haxixins)
-- Viagem À Cavernas (Os Haxixins)
-- Pó da Estrada (Under The Stones / Debaixo das Pedras)
-- Surgia Por Sobre À Relva (Os Haxixins)
-- E Se As Pedraa Caírem (Os Haxixins)
-- Peregrino Inter Estelar (Under The Stones / Debaixo das Pedras)
-- Viagem as Cavernas (Os Haxixins)
-- Depois Eu Volto (Gimme) (Os Haxixins)
-- Davi & Seus Lírios (Os Haxixins)
+  - Onde Meditar (Imi-dá) (Os Haxixins)
+  - Dirty Old Man (Os Haxixins)
+  - Viagem À Cavernas (Os Haxixins)
+  - Pó da Estrada (Under The Stones / Debaixo das Pedras)
+  - Surgia Por Sobre À Relva (Os Haxixins)
+  - E Se As Pedraa Caírem (Os Haxixins)
+  - Peregrino Inter Estelar (Under The Stones / Debaixo das Pedras)
+  - Viagem as Cavernas (Os Haxixins)
+  - Depois Eu Volto (Gimme) (Os Haxixins)
+  - Davi & Seus Lírios (Os Haxixins)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/62e087d5-b63b-4ec1-aa28-3b9bea6f2ac8
-  spotify: https://open.spotify.com/artist/50NGrd1LZbMhjGKuzRNADK
+  musicbrainz: 'https://musicbrainz.org/artist/62e087d5-b63b-4ec1-aa28-3b9bea6f2ac8'
+  spotify: 'https://open.spotify.com/artist/50NGrd1LZbMhjGKuzRNADK'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/os_haxixins.jpg
 biography_enhanced_at: '2025-12-23T02:06:47.384748'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.chaputa.com/store/os-haxixins-s-t-lp-180gr/
-- https://www.last.fm/music/Os+Haxixins
-- https://groovierecords.bandcamp.com/album/os-haxixins-st-lp
-- https://groovierecords.bandcamp.com/album/os-haxixins-under-the-stones-lp
-- https://www.slipcue.com/music/brazil/aa_styles_rock/H_01.html
+  - 'https://www.chaputa.com/store/os-haxixins-s-t-lp-180gr/'
+  - 'https://www.last.fm/music/Os+Haxixins'
+  - 'https://groovierecords.bandcamp.com/album/os-haxixins-st-lp'
+  - 'https://groovierecords.bandcamp.com/album/os-haxixins-under-the-stones-lp'
+  - 'https://www.slipcue.com/music/brazil/aa_styles_rock/H_01.html'
 network_extracted: true
 entry_created: '2025-12-23T02:06:47.384757'
 last_updated: '2025-12-23T08:16:13.815811'
 musicbrainz_id: 62e087d5-b63b-4ec1-aa28-3b9bea6f2ac8
-origin: São Paulo, Brazil
+origin: 'São Paulo, Brazil'
 ---
 
 ![](os_haxixins.jpg)

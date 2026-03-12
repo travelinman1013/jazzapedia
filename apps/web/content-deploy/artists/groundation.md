@@ -1,120 +1,120 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2025-12-29T01:18:28.491821'
 birth_date: '1998'
 enhancement_provider: perplexity
 entry_created: '2025-12-29T01:18:28.491833'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/592b9a1b-b900-4c1a-a165-bd7e7ce87d23
-  spotify: https://open.spotify.com/artist/5L59UhTBOeIRPxF5umwC9p
+  musicbrainz: 'https://musicbrainz.org/artist/592b9a1b-b900-4c1a-a165-bd7e7ce87d23'
+  spotify: 'https://open.spotify.com/artist/5L59UhTBOeIRPxF5umwC9p'
   wikipedia: ''
 genres:
-- reggae
-- roots reggae
-- dub
-- ragga
+  - reggae
+  - roots reggae
+  - dub
+  - ragga
 image_path: 03_Resources/source_material/ArtistPortraits/groundation.jpg
 last_updated: '2025-12-29T01:18:28.491834'
 members:
-- begin: 2001-12
-  end: 2008-07
-  instruments: []
-  mbid: d8d02439-7eb4-4a7c-b372-9352404c80c8
-  name: Paul "Papa" Spina
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0b8dfaf7-b0dd-4f9b-afd8-9f9f07a02f76
-  name: David "Diesel" Chachere
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f306daf2-f53b-4a2c-a9c3-a7ae7013374e
-  name: Joshua Freeman
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ff8ee2ed-52dd-4121-9173-d5031c9a088e
-  name: Kelsey Howard
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b6012782-3b77-432d-a98b-dd91dab07c90
-  name: Ikesha Johnson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 555610c7-15fe-46d2-b641-3e9bc7c42a2e
-  name: Mingo Lewis Jr.
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bca791b2-9779-4a3c-bacc-205c8cb3e951
-  name: Kerry-Ann Morgan
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e03544e7-a9ef-4574-905b-c6e77e90a70b
-  name: “Iron” Ryan Newman
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 07c9b72d-16b1-436e-a53b-9593b1cb92b3
-  name: Jason Robinson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ded4f988-6013-4aee-b069-4daff43217e2
-  name: Harrison Stafford
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 020398d7-c162-44d4-bef5-5e0b9a260536
-  name: James Stafford
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1f228a7c-533a-4991-8c3e-7a7f636ceb9f
-  name: Marcus Urani
+  - begin: 2001-12
+    end: 2008-07
+    instruments: []
+    mbid: d8d02439-7eb4-4a7c-b372-9352404c80c8
+    name: Paul "Papa" Spina
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0b8dfaf7-b0dd-4f9b-afd8-9f9f07a02f76
+    name: David "Diesel" Chachere
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f306daf2-f53b-4a2c-a9c3-a7ae7013374e
+    name: Joshua Freeman
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ff8ee2ed-52dd-4121-9173-d5031c9a088e
+    name: Kelsey Howard
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b6012782-3b77-432d-a98b-dd91dab07c90
+    name: Ikesha Johnson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 555610c7-15fe-46d2-b641-3e9bc7c42a2e
+    name: Mingo Lewis Jr.
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bca791b2-9779-4a3c-bacc-205c8cb3e951
+    name: Kerry-Ann Morgan
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e03544e7-a9ef-4574-905b-c6e77e90a70b
+    name: “Iron” Ryan Newman
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 07c9b72d-16b1-436e-a53b-9593b1cb92b3
+    name: Jason Robinson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ded4f988-6013-4aee-b069-4daff43217e2
+    name: Harrison Stafford
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 020398d7-c162-44d4-bef5-5e0b9a260536
+    name: James Stafford
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1f228a7c-533a-4991-8c3e-7a7f636ceb9f
+    name: Marcus Urani
 musical_connections:
   collaborators:
-  - Ryan Newman
-  - Marcus Urani
-  - James Stafford
-  - David Chachere
-  - Rufus Te Kanawa Haereiti
-  - Mingo Lewis Jr.
-  - Marcia Higgs
-  - Ras Michael
-  - Don Carlos
-  - Leroy 'Horsemouth' Wallace
-  - Jim Fox
+    - Ryan Newman
+    - Marcus Urani
+    - James Stafford
+    - David Chachere
+    - Rufus Te Kanawa Haereiti
+    - Mingo Lewis Jr.
+    - Marcia Higgs
+    - Ras Michael
+    - Don Carlos
+    - Leroy 'Horsemouth' Wallace
+    - Jim Fox
   influenced:
-  - Jason Robinson
+    - Jason Robinson
   mentors:
-  - Joseph Hill (Culture)
-  - Abba Melchezadek
+    - Joseph Hill (Culture)
+    - Abba Melchezadek
 musicbrainz_id: 592b9a1b-b900-4c1a-a165-bd7e7ce87d23
 network_extracted: true
-origin: Rohnert Park
+origin: 'Rohnert Park, California, United States'
 primary_source: perplexity
 research_sources:
-- https://easystar.com/artists/groundation/
-- https://www.reggaeville.com/artist-details/groundation/about/
-- http://www.harrisonstafford.com/groundation/
-- https://reggaeriseup.com/artist/groundation/
-- https://www.kalx.berkeley.edu/interview-groundation/
-- https://www.rightvibesproductions.com/groundation.html
+  - 'https://easystar.com/artists/groundation/'
+  - 'https://www.reggaeville.com/artist-details/groundation/about/'
+  - 'http://www.harrisonstafford.com/groundation/'
+  - 'https://reggaeriseup.com/artist/groundation/'
+  - 'https://www.kalx.berkeley.edu/interview-groundation/'
+  - 'https://www.rightvibesproductions.com/groundation.html'
 spotify_data:
   followers: 352379
   id: 5L59UhTBOeIRPxF5umwC9p
   popularity: 50
-  url: https://open.spotify.com/artist/5L59UhTBOeIRPxF5umwC9p
+  url: 'https://open.spotify.com/artist/5L59UhTBOeIRPxF5umwC9p'
 status: active
 tags:
-- bongo man
-- dub
-- jazz
+  - bongo man
+  - dub
+  - jazz
 title: Groundation
 ---
 

@@ -1,29 +1,29 @@
 ---
-title: GRANDPA JONES
+title: Grandpa Jones
 wiki_slug: grandpa-jones
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1913-10-20'
-birth_place: Henderson County
+birth_place: 'Henderson County, Kentucky, United States'
 death_date: '1998-02-19'
 genres:
-- bluegrass
-- christian country
+  - bluegrass
+  - christian country
 instruments:
-- baritone vocals
-- lead vocals
+  - baritone vocals
+  - lead vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4238f644-b426-4527-ba3e-275a554cb46f
-  name: Sheppard Brothers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 37f256c7-5b97-44c3-9b75-f6b45eb90230
-  name: The Hee Haw Gospel Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4238f644-b426-4527-ba3e-275a554cb46f
+    name: Sheppard Brothers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 37f256c7-5b97-44c3-9b75-f6b45eb90230
+    name: The Hee Haw Gospel Quartet
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/grandpa_jones.jpg
   caption: GRANDPA JONES
@@ -38,7 +38,7 @@ audio_profile:
   danceability_avg: 0.7
   acousticness_avg: 0.733
   instrumentalness_avg: 0.001
-  loudness_avg: -10.0
+  loudness_avg: -10
   speechiness_avg: 0.041
   liveness_avg: 0.182
   track_count: 48
@@ -46,55 +46,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ramona Riggins Jones
-  - Merle Travis
-  - Delmore Brothers
-  - David 'Stringbean' Akeman
+    - Ramona Riggins Jones
+    - Merle Travis
+    - Delmore Brothers
+    - David 'Stringbean' Akeman
   influenced:
-  - Hee Haw cast and country comedians
-  - Bluegrass banjo players
+    - Hee Haw cast and country comedians
+    - Bluegrass banjo players
   mentors:
-  - Cousin Emmy (Cynthia May Carver)
-  - Jimmie Rodgers
+    - Cousin Emmy (Cynthia May Carver)
+    - Jimmie Rodgers
 spotify_data:
   followers: 14978
   id: 2UtCcZQl7xzvEao4vWBSOD
   popularity: 27
-  url: https://open.spotify.com/artist/2UtCcZQl7xzvEao4vWBSOD
+  url: 'https://open.spotify.com/artist/2UtCcZQl7xzvEao4vWBSOD'
 discography_enriched: true
 top_tracks:
-- I'm My Own Grandpa - Original King Recordings (Complete King Recordings 1943-1956 - Volume 3 Of Four (Original King Recordings))
-- Mountain Dew (Grandpa Jones Sings Hits from "Hee Haw")
-- Mountain Dew - Original King Recordings (Complete King Recordings 1943-1956 - Volume 2 Of Four (Original King Recordings))
-- The Huntin's Over For Tonight (Country Music Hall Of Fame)
-- Muleskinner Blues (An American Original)
-- Old Rattler - Rerecorded (An American Original)
-- Old Towzer (Country Music Hall Of Fame)
-- The Banjo Am the Instrument (Grandpa Jones Sings Hits from "Hee Haw")
-- Are You from Dixie? (Grandpa Jones Sings Hits from "Hee Haw")
-- She Was Always Chewing Gum
+  - >-
+    I'm My Own Grandpa - Original King Recordings (Complete King Recordings
+    1943-1956 - Volume 3 Of Four (Original King Recordings))
+  - Mountain Dew (Grandpa Jones Sings Hits from "Hee Haw")
+  - >-
+    Mountain Dew - Original King Recordings (Complete King Recordings 1943-1956
+    - Volume 2 Of Four (Original King Recordings))
+  - The Huntin's Over For Tonight (Country Music Hall Of Fame)
+  - Muleskinner Blues (An American Original)
+  - Old Rattler - Rerecorded (An American Original)
+  - Old Towzer (Country Music Hall Of Fame)
+  - The Banjo Am the Instrument (Grandpa Jones Sings Hits from "Hee Haw")
+  - Are You from Dixie? (Grandpa Jones Sings Hits from "Hee Haw")
+  - She Was Always Chewing Gum
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8488e884-f8b9-4c31-a6ec-a92be00d450f
-  spotify: https://open.spotify.com/artist/2UtCcZQl7xzvEao4vWBSOD
-  wikipedia: https://en.wikipedia.org/wiki/Grandpa_Jones
+  musicbrainz: 'https://musicbrainz.org/artist/8488e884-f8b9-4c31-a6ec-a92be00d450f'
+  spotify: 'https://open.spotify.com/artist/2UtCcZQl7xzvEao4vWBSOD'
+  wikipedia: 'https://en.wikipedia.org/wiki/Grandpa_Jones'
 image_path: 03_Resources/source_material/ArtistPortraits/grandpa_jones.jpg
 biography_enhanced_at: '2025-11-03T07:37:37.055639'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://fromthevaults-boppinbob.blogspot.com/2022/10/grandpa-jones-born-20-october-1913.html
-- https://westmanjams.wordpress.com/let-us-speak-of-jamming-and-music-and-instruments-and-such/the-stories-of-the-people-who-tell-the-stories/he-was-old-before-his-time/
-- https://bluegrasstoday.com/grandpa-jones-and-buck-trent-to-the-banjo-hall-of-fame/
-- https://www.cmhrecords.com/collections/grandpa-jones
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2022/10/grandpa-jones-born-20-october-1913.html
+  - >-
+    https://westmanjams.wordpress.com/let-us-speak-of-jamming-and-music-and-instruments-and-such/the-stories-of-the-people-who-tell-the-stories/he-was-old-before-his-time/
+  - >-
+    https://bluegrasstoday.com/grandpa-jones-and-buck-trent-to-the-banjo-hall-of-fame/
+  - 'https://www.cmhrecords.com/collections/grandpa-jones'
 network_extracted: true
 entry_created: '2025-11-03T07:37:37.055646'
 last_updated: '2025-12-23T08:16:09.300102'
 gender: Male
 musicbrainz_id: 8488e884-f8b9-4c31-a6ec-a92be00d450f
 tags:
-- bluegrass
-- country
-
+  - bluegrass
+  - country
+is_active: false
+origin: 'Niagara, Kentucky, United States'
 ---
 
 ![](grandpa_jones.jpg)

@@ -3,14 +3,14 @@ title: Louie Gonnie
 wiki_slug: louie-gonnie
 schema_version: 2
 status: active
-birth_place: Antelope Springs, Navajo Nation, USA
+birth_place: 'Antelope Springs, Navajo Nation, USA'
 genres:
-- native american music
+  - native american music
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/louie_gonnie.jpg
   caption: Louie Gonnie
   background: solo_singer
-  origin: Antelope Springs, Navajo Nation, USA
+  origin: 'Antelope Springs, Navajo Nation, USA'
 audio_profile:
   tempo_avg: 126.8
   energy_avg: 0.332
@@ -26,47 +26,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Branson Gorman
-  - Stephen Butler
-  - Louie Gonnie's brother and cousin
+    - Branson Gorman
+    - Stephen Butler
+    - Louie Gonnie's brother and cousin
   influenced:
-  - Native American Church singers
+    - Native American Church singers
   mentors:
-  - Haastíín Gonnie
-  - Louie Gonnie's father and uncles
+    - Haastíín Gonnie
+    - Louie Gonnie's father and uncles
 spotify_data:
   followers: 8121
   id: 0Vc4xWOH58LaEkW74R1fmk
   popularity: 27
-  url: https://open.spotify.com/artist/0Vc4xWOH58LaEkW74R1fmk
+  url: 'https://open.spotify.com/artist/0Vc4xWOH58LaEkW74R1fmk'
 discography_enriched: true
 top_tracks:
-- Dookoosliid (Harmony Nights)
-- Spheres and Talismans (Songs from the Black Cedar Hills)
-- On Our Road of Life (Songs from the Black Cedar Hills)
-- Waterfalls (Pathway to Destiny)
-- A Star Beneath My Drum, Pt. 4 (Night Side)
-- Meditate (Songs from the Black Cedar Hills)
-- Pathways (Pathway to Destiny)
-- Serago (Pathway to Destiny)
-- Swirling Smoke - Spoken Word Mix (Pathway to Destiny)
-- Fallen Dreams Upon A Star (Breathe Deep The Dusk Fall)
+  - Dookoosliid (Harmony Nights)
+  - Spheres and Talismans (Songs from the Black Cedar Hills)
+  - On Our Road of Life (Songs from the Black Cedar Hills)
+  - Waterfalls (Pathway to Destiny)
+  - 'A Star Beneath My Drum, Pt. 4 (Night Side)'
+  - Meditate (Songs from the Black Cedar Hills)
+  - Pathways (Pathway to Destiny)
+  - Serago (Pathway to Destiny)
+  - Swirling Smoke - Spoken Word Mix (Pathway to Destiny)
+  - Fallen Dreams Upon A Star (Breathe Deep The Dusk Fall)
 external_urls:
-  spotify: https://open.spotify.com/artist/0Vc4xWOH58LaEkW74R1fmk
+  spotify: 'https://open.spotify.com/artist/0Vc4xWOH58LaEkW74R1fmk'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/louie_gonnie.jpg
 biography_enhanced_at: '2025-11-04T10:45:17.051193'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://buffalojumprecords.com/louie-gonnie/
-- https://ictnews.org/archive/louie-gonnie-songs-of-the-sacred-circle-peyote-songs-of-the-native-american-church/
-- https://www.ksut.org/tribal/2016-06-14/louie-gonnie-black-cedar-hills-tribal-radio-feature-cd-6-17
-- https://www.spiritualityhealth.com/reviews/music/2014/09/01/music-review-spiraling-ascending-prayer
-- https://www.last.fm/music/Louie+Gonnie/+wiki
+  - 'https://buffalojumprecords.com/louie-gonnie/'
+  - >-
+    https://ictnews.org/archive/louie-gonnie-songs-of-the-sacred-circle-peyote-songs-of-the-native-american-church/
+  - >-
+    https://www.ksut.org/tribal/2016-06-14/louie-gonnie-black-cedar-hills-tribal-radio-feature-cd-6-17
+  - >-
+    https://www.spiritualityhealth.com/reviews/music/2014/09/01/music-review-spiraling-ascending-prayer
+  - 'https://www.last.fm/music/Louie+Gonnie/+wiki'
 network_extracted: true
 entry_created: '2025-11-04T10:45:17.051207'
 last_updated: '2025-12-23T08:16:12.197483'
+artist_type: person
 ---
 
 ![](louie_gonnie.jpg)

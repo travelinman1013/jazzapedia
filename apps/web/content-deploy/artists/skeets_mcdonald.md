@@ -1,18 +1,18 @@
 ---
-title: skeets mcdonald
+title: Skeets McDonald
 wiki_slug: skeets-mcdonald
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1915-10-01'
-birth_place: Greenway
+birth_place: 'Greenway, Arkansas, United States'
 death_date: '1968-03-31'
 genres:
-- rockabilly
-- honky tonk
-- traditional country
+  - rockabilly
+  - honky tonk
+  - traditional country
 instruments:
-- guitar
+  - guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/skeets_mcdonald.jpg
   caption: skeets mcdonald
@@ -35,49 +35,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Johnnie White and his Rough Riders
-  - Ray Price
-  - Grady Martin, Harold Bradley, Ray Edenton, Walter Haynes, Joe Zinkan, Floyd Cramer
+    - Johnnie White and his Rough Riders
+    - Ray Price
+    - >-
+      Grady Martin, Harold Bradley, Ray Edenton, Walter Haynes, Joe Zinkan,
+      Floyd Cramer
   influenced:
-  - Rockabilly and honky tonk revivalists
+    - Rockabilly and honky tonk revivalists
   mentors:
-  - Lefty Frizzell
+    - Lefty Frizzell
 spotify_data:
   followers: 2613
   id: 4MefoMHX012T3pRW0FzqAZ
   popularity: 14
-  url: https://open.spotify.com/artist/4MefoMHX012T3pRW0FzqAZ
+  url: 'https://open.spotify.com/artist/4MefoMHX012T3pRW0FzqAZ'
 discography_enriched: true
 top_tracks:
-- This Old Heart (Don't Let The Stars Get In Your Eyes Vol.4 1949-1963)
-- This Old Broken Heart (Call Me Skeets!)
-- Same Old Town (Call Me Skeets!)
-- You Oughta See Grandma Roch (Goin' Steady with the Blues)
-- The Tattooed Lady (feat. Johnny White and His Rhythm Riders) (Goin' Steady with the Blues)
-- Dear John (I've Sent Your Saddle Home) (Call Me Skeets!)
-- You Ought a See Grandma Rock
-- You Oughta See Grandma Rock
-- Call Me Mr. Brown (Call Me Skeets!)
-- You Warned Me (Call Me Skeets!)
+  - This Old Heart (Don't Let The Stars Get In Your Eyes Vol.4 1949-1963)
+  - This Old Broken Heart (Call Me Skeets!)
+  - Same Old Town (Call Me Skeets!)
+  - You Oughta See Grandma Roch (Goin' Steady with the Blues)
+  - >-
+    The Tattooed Lady (feat. Johnny White and His Rhythm Riders) (Goin' Steady
+    with the Blues)
+  - Dear John (I've Sent Your Saddle Home) (Call Me Skeets!)
+  - You Ought a See Grandma Rock
+  - You Oughta See Grandma Rock
+  - Call Me Mr. Brown (Call Me Skeets!)
+  - You Warned Me (Call Me Skeets!)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/344fa214-0adb-4b3c-83c6-03e20299148f
-  spotify: https://open.spotify.com/artist/4MefoMHX012T3pRW0FzqAZ
-  wikipedia: https://en.wikipedia.org/wiki/Skeets_McDonald
+  musicbrainz: 'https://musicbrainz.org/artist/344fa214-0adb-4b3c-83c6-03e20299148f'
+  spotify: 'https://open.spotify.com/artist/4MefoMHX012T3pRW0FzqAZ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Skeets_McDonald'
 image_path: 03_Resources/source_material/ArtistPortraits/skeets_mcdonald.jpg
 biography_enhanced_at: '2025-11-11T09:33:59.038527'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Skeets_McDonald
-- https://fromthevaults-boppinbob.blogspot.com/2015/10/skeets-mcdonald-born-1-october-1915.html
-- https://3chordsaday.wordpress.com/2009/11/25/call-me-mr-brown-skeets-mcdonald/
-- https://bear-family.com/mcdonald-skeets/
+  - 'https://en.wikipedia.org/wiki/Skeets_McDonald'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2015/10/skeets-mcdonald-born-1-october-1915.html
+  - >-
+    https://3chordsaday.wordpress.com/2009/11/25/call-me-mr-brown-skeets-mcdonald/
+  - 'https://bear-family.com/mcdonald-skeets/'
 network_extracted: true
 entry_created: '2025-11-11T09:33:59.038540'
 last_updated: '2025-12-23T08:16:15.702745'
 gender: Male
 musicbrainz_id: 344fa214-0adb-4b3c-83c6-03e20299148f
-
+is_active: false
+origin: 'Detroit, Michigan, United States'
 ---
 
 ![](skeets_mcdonald.jpg)

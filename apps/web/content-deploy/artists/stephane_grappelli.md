@@ -1,44 +1,48 @@
 ---
 biography_enhanced_at: '2025-12-29T01:17:29.257443'
-birth_place: Paris, France
+birth_place: 'Paris, France, France'
 enhancement_provider: perplexity
 entry_created: '2025-12-29T01:17:29.257454'
 external_urls:
-  spotify: https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG
-  wikipedia: https://en.wikipedia.org/wiki/St%C3%A9phane_Grappelli
+  spotify: 'https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG'
+  wikipedia: 'https://en.wikipedia.org/wiki/St%C3%A9phane_Grappelli'
 genres:
-- french jazz
-- jazz
-- swing music
+  - french jazz
+  - jazz
+  - swing music
 image_path: 03_Resources/source_material/ArtistPortraits/stephane_grappelli.jpg
 last_updated: '2025-12-29T01:17:29.257456'
 musical_connections:
   collaborators:
-  - Django Reinhardt
-  - David Grisman
-  - Julian Lloyd Webber
-  - Duke Ellington
-  - Yo-Yo Ma
+    - Django Reinhardt
+    - David Grisman
+    - Julian Lloyd Webber
+    - Duke Ellington
+    - Yo-Yo Ma
   influenced:
-  - Subsequent jazz violinists
+    - Subsequent jazz violinists
   mentors:
-  - Joe Venuti
+    - Joe Venuti
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.ebsco.com/research-starters/history/stephane-grappelli
-- https://en.wikipedia.org/wiki/St%C3%A9phane_Grappelli
-- https://nationaljazzarchive.org.uk/explore/interviews/1634246-stephane-grappelli-interview-1
-- https://theviolinchannel.com/jazz-violinist-stephane-grappelli-born-on-this-day-1908/
-- https://www.thestrad.com/playing-hub/born-on-this-day-jazz-violinist-stephane-grappelli/17480.article
-- https://www.fiddlingaround.co.uk/jazz/stephane%20grappelli.html
+  - 'https://www.ebsco.com/research-starters/history/stephane-grappelli'
+  - 'https://en.wikipedia.org/wiki/St%C3%A9phane_Grappelli'
+  - >-
+    https://nationaljazzarchive.org.uk/explore/interviews/1634246-stephane-grappelli-interview-1
+  - >-
+    https://theviolinchannel.com/jazz-violinist-stephane-grappelli-born-on-this-day-1908/
+  - >-
+    https://www.thestrad.com/playing-hub/born-on-this-day-jazz-violinist-stephane-grappelli/17480.article
+  - 'https://www.fiddlingaround.co.uk/jazz/stephane%20grappelli.html'
 spotify_data:
   followers: 68032
   id: 6AfbDYupHV5e6nse9W6tKG
   popularity: 46
-  url: https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG
+  url: 'https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG'
 status: active
-title: STEPHANE GRAPPELLI
+title: Stephane Grappelli
+artist_type: person
 ---
 
 ![](stephane_grappelli.jpg)

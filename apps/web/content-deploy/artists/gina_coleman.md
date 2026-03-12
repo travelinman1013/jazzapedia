@@ -1,51 +1,57 @@
 ---
 biography_enhanced_at: '2026-01-22T07:17:16.123864'
-birth_place: South Bronx, New York, United States (birthplace); Williamstown, Massachusetts,
-  United States (band origin)
+birth_place: >-
+  South Bronx, New York, United States (birthplace); Williamstown,
+  Massachusetts, United States (band origin)
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:17:16.123872'
 external_urls:
-  spotify: https://open.spotify.com/artist/34xwM7gw5baT2aiRSGKQFP
+  spotify: 'https://open.spotify.com/artist/34xwM7gw5baT2aiRSGKQFP'
   wikipedia: null
 genres:
-- blues
+  - blues
 image_path: 03_Resources/source_material/ArtistPortraits/gina_coleman.jpg
 last_updated: '2026-01-22T07:17:16.123872'
 musical_connections:
   collaborators:
-  - Dave Lincoln
-  - Cole-Connection band members
-  - Bill Patriquin
-  - Benny 'Fingers' Kohn
-  - Rob Tatten
-  - Seth Fleischmann
-  - Aaron Dean
+    - Dave Lincoln
+    - Cole-Connection band members
+    - Bill Patriquin
+    - Benny 'Fingers' Kohn
+    - Rob Tatten
+    - Seth Fleischmann
+    - Aaron Dean
   influenced:
-  - Bessie Smith
-  - Billie Holiday
-  - Janis Joplin
-  - Patti Cathcart
+    - Bessie Smith
+    - Billie Holiday
+    - Janis Joplin
+    - Patti Cathcart
   mentors:
-  - Ruben Santiago-Hudson
-  - Her grandfather
+    - Ruben Santiago-Hudson
+    - Her grandfather
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.radioguitarone.com/ginacoleman
-- https://blues.gr/profiles/blogs/q-a-with-gina-coleman-misty-blues-composing-and-performing-origin
-- https://bostonvoyager.com/interview/meet-gina-coleman-misty-blues-berkshire-county/
-- https://digital.livingblues.com/articles/gina-coleman
-- https://williamsrecord.com/462004/arts/musician-gina-coleman-90-discusses-the-impact-of-the-black-legacy-project/
-- https://www.bluesblastmagazine.com/featured-interview-gina-coleman/
-- https://www.cavernclub.com/events/event/misty-blues/
-- https://www.youtube.com/watch?v=chBHW6ce9OQ
+  - 'https://www.radioguitarone.com/ginacoleman'
+  - >-
+    https://blues.gr/profiles/blogs/q-a-with-gina-coleman-misty-blues-composing-and-performing-origin
+  - >-
+    https://bostonvoyager.com/interview/meet-gina-coleman-misty-blues-berkshire-county/
+  - 'https://digital.livingblues.com/articles/gina-coleman'
+  - >-
+    https://williamsrecord.com/462004/arts/musician-gina-coleman-90-discusses-the-impact-of-the-black-legacy-project/
+  - 'https://www.bluesblastmagazine.com/featured-interview-gina-coleman/'
+  - 'https://www.cavernclub.com/events/event/misty-blues/'
+  - 'https://www.youtube.com/watch?v=chBHW6ce9OQ'
 spotify_data:
   followers: 238
   id: 34xwM7gw5baT2aiRSGKQFP
   popularity: 10
-  url: https://open.spotify.com/artist/34xwM7gw5baT2aiRSGKQFP
+  url: 'https://open.spotify.com/artist/34xwM7gw5baT2aiRSGKQFP'
 status: active
 title: Gina Coleman
+origin: 'Williamstown, Massachusetts, United States'
+artist_type: person
 ---
 
 ![](gina_coleman.jpg)

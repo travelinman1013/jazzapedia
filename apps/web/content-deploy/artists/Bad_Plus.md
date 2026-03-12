@@ -1,12 +1,12 @@
 ---
-title: Bad Plus
+title: The Bad Plus
 wiki_slug: bad-plus
 schema_version: 2
 status: active
 genres:
-- jazz
-- jazz fusion
-- nu jazz
+  - jazz
+  - jazz fusion
+  - nu jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Bad_Plus.jpg
   caption: Bad Plus
@@ -26,52 +26,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ethan Iverson
-  - Orrin Evans
-  - Ben Monder
-  - Chris Speed
+    - Ethan Iverson
+    - Orrin Evans
+    - Ben Monder
+    - Chris Speed
   influenced:
-  - GoGo Penguin
-  - E.S.T. (Esbjörn Svensson Trio)
+    - GoGo Penguin
+    - E.S.T. (Esbjörn Svensson Trio)
   mentors:
-  - Billy Hart
-  - Bud Powell
+    - Billy Hart
+    - Bud Powell
 spotify_data:
   followers: 103786
   id: 5qOfTfMzTj2dvvpWKzIFk6
   popularity: 31
-  url: https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6
+  url: 'https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6'
 discography_enriched: true
 top_tracks:
-- Flim (These Are The Vistas)
-- As This Moment Slips Away (The Bad Plus Joshua Redman)
-- Smells Like Teen Spirit (These Are The Vistas)
-- Grid/Ocean (Complex Emotions)
-- Pound For Pound (Made Possible)
-- Pound For Pound (Made Possible)
-- Gaston
-- Variation d'Apollon (For All I Care (Exclusive Online Version))
-- And Here We Test Our Powers Of Observation (Give)
-- French Horns (Complex Emotions)
+  - Flim (These Are The Vistas)
+  - As This Moment Slips Away (The Bad Plus Joshua Redman)
+  - Smells Like Teen Spirit (These Are The Vistas)
+  - Grid/Ocean (Complex Emotions)
+  - Pound For Pound (Made Possible)
+  - Pound For Pound (Made Possible)
+  - Gaston
+  - Variation d'Apollon (For All I Care (Exclusive Online Version))
+  - And Here We Test Our Powers Of Observation (Give)
+  - French Horns (Complex Emotions)
 external_urls:
-  spotify: https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6
-  wikipedia: https://en.wikipedia.org/wiki/The_Bad_Plus
+  spotify: 'https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Bad_Plus'
 image_path: 03_Resources/source_material/ArtistPortraits/Bad_Plus.jpg
 biography_enhanced_at: '2025-10-20T09:13:43.165277'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.bighassle.com/the-bad-plus-bio
-- https://www.coastaljazz.ca/the-reinvention-of-the-bad-plus/
-- https://www.akbanksanat.com/en/blog/asla-durmayan-grup-the-bad-plus
-- https://www.wbgo.org/music/2018-05-10/the-bad-plus-the-band-that-never-stops
-- https://www.thebadplus.com/home
-- https://jazztimes.com/features/profiles/the-bad-plus-quartet/
-- https://www.seacoastjazz.org/the-bad-plus.html
+  - 'https://www.bighassle.com/the-bad-plus-bio'
+  - 'https://www.coastaljazz.ca/the-reinvention-of-the-bad-plus/'
+  - 'https://www.akbanksanat.com/en/blog/asla-durmayan-grup-the-bad-plus'
+  - 'https://www.wbgo.org/music/2018-05-10/the-bad-plus-the-band-that-never-stops'
+  - 'https://www.thebadplus.com/home'
+  - 'https://jazztimes.com/features/profiles/the-bad-plus-quartet/'
+  - 'https://www.seacoastjazz.org/the-bad-plus.html'
 network_extracted: true
 entry_created: '2025-10-20T09:13:43.165291'
 last_updated: '2025-12-23T08:16:01.144015'
-origin: Minneapolis, Minnesota, United States
+origin: 'Minneapolis, Minnesota, United States'
+artist_type: band
 ---
 
 ![](Bad_Plus.jpg)

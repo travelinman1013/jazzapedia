@@ -2,12 +2,12 @@
 title: Culture
 wiki_slug: culture
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
-birth_date: '1976'
+birth_date: '1976-01-23'
 genres:
-- drum and bass
-- liquid funk
+  - drum and bass
+  - liquid funk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/culture.jpg
   caption: Culture
@@ -20,7 +20,7 @@ audio_profile:
   danceability_avg: 0.518
   acousticness_avg: 0.059
   instrumentalness_avg: 0.334
-  loudness_avg: -2.0
+  loudness_avg: -2
   speechiness_avg: 0.075
   liveness_avg: 0.215
   track_count: 50
@@ -28,77 +28,77 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Brookes Brothers
-  - Bryn Christopher
+    - Brookes Brothers
+    - Bryn Christopher
   influenced:
-  - Emerging UK drum and bass producers
+    - Emerging UK drum and bass producers
   mentors:
-  - Andy C
+    - Andy C
 spotify_data:
   followers: 104106
   id: 6lp2VnIRXXpC9Wz7hSX6RE
   popularity: 53
-  url: https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE
+  url: 'https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE'
 discography_enriched: true
 top_tracks:
-- Renaissance - Edit (Sequence)
-- Giants
-- Love To Give (with Billy Lockett) (Organ)
-- Panic Room - Culture Shock Remix
-- Visions (Sequel)
-- Make It Pump
-- Recombine (Sequel)
-- Bunker (Sequence)
-- Rise (Sequel)
-- REACT (feat. Ella Henderson) - Culture Shock Remix
+  - Renaissance - Edit (Sequence)
+  - Giants
+  - Love To Give (with Billy Lockett) (Organ)
+  - Panic Room - Culture Shock Remix
+  - Visions (Sequel)
+  - Make It Pump
+  - Recombine (Sequel)
+  - Bunker (Sequence)
+  - Rise (Sequel)
+  - REACT (feat. Ella Henderson) - Culture Shock Remix
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/dda3f50d-2205-40c6-8f70-223f2eacd92a
-  spotify: https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE
-  wikipedia: https://en.wikipedia.org/wiki/Culture_Shock_(musician)
+  musicbrainz: 'https://musicbrainz.org/artist/dda3f50d-2205-40c6-8f70-223f2eacd92a'
+  spotify: 'https://open.spotify.com/artist/6lp2VnIRXXpC9Wz7hSX6RE'
+  wikipedia: 'https://en.wikipedia.org/wiki/Culture_Shock_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/culture.jpg
 biography_enhanced_at: '2025-10-27T02:48:55.758824'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Culture_Shock_(musician)
-- https://drumandbassuk.com/artist/culture-shock
-- https://cultureshockmusic.com/bio
+  - 'https://en.wikipedia.org/wiki/Culture_Shock_(musician)'
+  - 'https://drumandbassuk.com/artist/culture-shock'
+  - 'https://cultureshockmusic.com/bio'
 network_extracted: true
 entry_created: '2025-10-27T02:48:55.758833'
 last_updated: '2025-12-23T08:16:07.320984'
 disambiguation: Jamaican reggae band
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 704b302d-14c8-43ba-aea2-ae8eb9be513c
-  name: Kenneth Dayes
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5d79f1ae-2331-4eba-90a2-b23367555a61
-  name: Joseph Hill
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c967315a-1484-4954-9f78-77d18bc5f20a
-  name: Kenyatta Hill
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 05270995-d133-46cc-a6b6-995c4639d212
-  name: Telford Nelson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: afc797af-ef73-4093-8669-94e93f65a234
-  name: Albert Walker
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 704b302d-14c8-43ba-aea2-ae8eb9be513c
+    name: Kenneth Dayes
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5d79f1ae-2331-4eba-90a2-b23367555a61
+    name: Joseph Hill
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c967315a-1484-4954-9f78-77d18bc5f20a
+    name: Kenyatta Hill
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 05270995-d133-46cc-a6b6-995c4639d212
+    name: Telford Nelson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: afc797af-ef73-4093-8669-94e93f65a234
+    name: Albert Walker
 musicbrainz_id: dda3f50d-2205-40c6-8f70-223f2eacd92a
-origin: Kingston
+origin: 'Kingston, England, United Kingdom'
 tags:
-- dub
-- reggae
-- roots reggae
+  - dub
+  - reggae
+  - roots reggae
 ---
 
 ![](culture.jpg)

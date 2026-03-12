@@ -3,14 +3,14 @@ title: Anna Laura Quinn
 wiki_slug: anna-laura-quinn
 schema_version: 2
 status: active
-birth_place: San Francisco, California, United States
+birth_place: 'San Francisco, California, United States'
 genres:
-- vocal jazz
+  - vocal jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Anna_Laura_Quinn.jpg
   caption: Anna Laura Quinn
   background: solo_singer
-  origin: San Francisco, California, United States
+  origin: 'San Francisco, California, United States'
 audio_profile:
   tempo_avg: 109.2
   energy_avg: 0.186
@@ -18,7 +18,7 @@ audio_profile:
   danceability_avg: 0.52
   acousticness_avg: 0.792
   instrumentalness_avg: 0.011
-  loudness_avg: -12.0
+  loudness_avg: -12
   speechiness_avg: 0.053
   liveness_avg: 0.121
   track_count: 45
@@ -26,48 +26,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ed Barrett
-  - Kate Campbell-Strauss
-  - Michael Zisman
-  - The Unmentionables
+    - Ed Barrett
+    - Kate Campbell-Strauss
+    - Michael Zisman
+    - The Unmentionables
   influenced: []
   mentors:
-  - Ellis Marsalis
-  - Abbey Lincoln
-  - Betty Carter
-  - Mulatu Astatke
+    - Ellis Marsalis
+    - Abbey Lincoln
+    - Betty Carter
+    - Mulatu Astatke
 spotify_data:
   followers: 173
   id: 4YMIja8EJd0q38Phc1h4M8
   popularity: 1
-  url: https://open.spotify.com/artist/4YMIja8EJd0q38Phc1h4M8
+  url: 'https://open.spotify.com/artist/4YMIja8EJd0q38Phc1h4M8'
 discography_enriched: true
 top_tracks:
-- Everybody Wants To Rule The World (Everybody Wants to Rule the World)
-- Nuages (Delta Bound)
-- Talking to the Sun (Open the Door)
-- Comes Love (Open the Door)
-- Love For Sale (Open the Door)
-- Walking After Midnight (Walking After Midnight)
-- Le dormeur du val (Delta Bound)
-- Le dormeur du val (Delta Bound)
-- Speak Low (Open the Door)
-- Very Good Advice (Open the Door)
+  - Everybody Wants To Rule The World (Everybody Wants to Rule the World)
+  - Nuages (Delta Bound)
+  - Talking to the Sun (Open the Door)
+  - Comes Love (Open the Door)
+  - Love For Sale (Open the Door)
+  - Walking After Midnight (Walking After Midnight)
+  - Le dormeur du val (Delta Bound)
+  - Le dormeur du val (Delta Bound)
+  - Speak Low (Open the Door)
+  - Very Good Advice (Open the Door)
 external_urls:
-  spotify: https://open.spotify.com/artist/4YMIja8EJd0q38Phc1h4M8
+  spotify: 'https://open.spotify.com/artist/4YMIja8EJd0q38Phc1h4M8'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/Anna_Laura_Quinn.jpg
 biography_enhanced_at: '2025-10-20T10:06:02.756166'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.annalauraquinn.com
-- https://jazztimes.com/reviews/albums/anna-laura-quinn-open-the-door-outside-in/
-- https://www.outsideinmusic.com/artistsandreleases/anna-laura-quinn
-- https://www.gratefulweb.com/articles/anna-laura-quinns-open-door-out-february-18th
+  - 'https://www.annalauraquinn.com'
+  - >-
+    https://jazztimes.com/reviews/albums/anna-laura-quinn-open-the-door-outside-in/
+  - 'https://www.outsideinmusic.com/artistsandreleases/anna-laura-quinn'
+  - >-
+    https://www.gratefulweb.com/articles/anna-laura-quinns-open-door-out-february-18th
 network_extracted: true
 entry_created: '2025-10-20T10:06:02.756186'
 last_updated: '2025-12-23T08:16:01.025916'
+artist_type: person
 ---
 
 ![](Anna_Laura_Quinn.jpg)

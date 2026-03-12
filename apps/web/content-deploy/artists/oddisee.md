@@ -4,33 +4,33 @@ wiki_slug: oddisee
 schema_version: 2
 artist_type: person
 status: active
-birth_place: Washington, D.C.
+birth_place: 'Washington, D.C., United States'
 genres:
-- jazz rap
+  - jazz rap
 instruments:
-- original
-associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 36030d6c-ab19-4996-b2c4-fc4cdbf6a385
-  name: Low Budget
-- begin: ''
-  end: ''
-  instruments:
   - original
-  mbid: 8a173d25-f8d1-4f47-bdf6-61f8fc9a101a
-  name: Diamond District
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 54a83946-d3ef-4360-9ce9-edd0715fedae
-  name: Good Compny
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 36030d6c-ab19-4996-b2c4-fc4cdbf6a385
+    name: Low Budget
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 8a173d25-f8d1-4f47-bdf6-61f8fc9a101a
+    name: Diamond District
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 54a83946-d3ef-4360-9ce9-edd0715fedae
+    name: Good Compny
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/oddisee.jpg
   caption: Oddisee
   background: non_vocal_instrumentalist
-  origin: Washington, D.C.
+  origin: 'Washington, D.C.'
 audio_profile:
   tempo_avg: 119.2
   energy_avg: 0.669
@@ -46,49 +46,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kev Brown
-  - Sean Born
-  - yU & X.O. (Diamond District)
-  - DJ Jazzy Jeff
-  - Mello Music Group (Michael Tolle and label roster)
-  - Good Compny (touring live band)
+    - Kev Brown
+    - Sean Born
+    - yU & X.O. (Diamond District)
+    - DJ Jazzy Jeff
+    - Mello Music Group (Michael Tolle and label roster)
+    - Good Compny (touring live band)
   influenced:
-  - Independent jazz‑rap and underground hip‑hop artists (general cohort)
+    - Independent jazz‑rap and underground hip‑hop artists (general cohort)
   mentors:
-  - Gary Shider
-  - Older American cousins / Black American jazz and Golden Age hip‑hop traditions
+    - Gary Shider
+    - >-
+      Older American cousins / Black American jazz and Golden Age hip‑hop
+      traditions
 spotify_data:
   followers: 242986
   id: 72tRiBHei5G9M8it4h4sfC
   popularity: 47
-  url: https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC
+  url: 'https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC'
 discography_enriched: true
 top_tracks:
-- Pipeline
-- Ongoing Thing
-- Solitude
-- Tomorrow Can't Be Borrowed
-- Feelings
-- Own Appeal (Tangible Dream)
-- Beach Dr. (Rock Creek Park)
-- Small Talk
-- That's Love (The Good Fight)
-- After Thoughts (The Beauty In All)
+  - Pipeline
+  - Ongoing Thing
+  - Solitude
+  - Tomorrow Can't Be Borrowed
+  - Feelings
+  - Own Appeal (Tangible Dream)
+  - Beach Dr. (Rock Creek Park)
+  - Small Talk
+  - That's Love (The Good Fight)
+  - After Thoughts (The Beauty In All)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/aaae09b3-70d9-4a65-bb3f-57e85dfe9b83
-  spotify: https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC
-  wikipedia: https://en.wikipedia.org/wiki/Oddisee
+  musicbrainz: 'https://musicbrainz.org/artist/aaae09b3-70d9-4a65-bb3f-57e85dfe9b83'
+  spotify: 'https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC'
+  wikipedia: 'https://en.wikipedia.org/wiki/Oddisee'
 image_path: 03_Resources/source_material/ArtistPortraits/oddisee.jpg
 biography_enhanced_at: '2025-12-08T04:48:16.571866'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Oddisee
-- https://daily.bandcamp.com/features/oddisee-interview
-- https://ambrosiaforheads.com/2019/04/oddisee-interview-evolution-beyond-underground/
-- https://daily.redbullmusicacademy.com/2012/04/oddisee-interview/
-- https://www.mellomusicgroup.com/pages/oddisee-1
-- https://kids.kiddle.co/Oddisee
+  - 'https://en.wikipedia.org/wiki/Oddisee'
+  - 'https://daily.bandcamp.com/features/oddisee-interview'
+  - >-
+    https://ambrosiaforheads.com/2019/04/oddisee-interview-evolution-beyond-underground/
+  - 'https://daily.redbullmusicacademy.com/2012/04/oddisee-interview/'
+  - 'https://www.mellomusicgroup.com/pages/oddisee-1'
+  - 'https://kids.kiddle.co/Oddisee'
 network_extracted: true
 entry_created: '2025-12-08T04:48:16.571876'
 last_updated: '2025-12-23T08:16:13.685136'
@@ -96,9 +99,10 @@ disambiguation: DC hip hop producer/rapper
 gender: Male
 musicbrainz_id: aaae09b3-70d9-4a65-bb3f-57e85dfe9b83
 tags:
-- alternative hip hop
-- beats
-- conscious hip hop
+  - alternative hip hop
+  - beats
+  - conscious hip hop
+origin: 'Prince George’s County, Maryland, United States'
 ---
 
 ![](oddisee.jpg)

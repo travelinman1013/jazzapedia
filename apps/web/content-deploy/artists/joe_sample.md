@@ -5,56 +5,56 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1939-02-01'
-birth_place: Houston
+birth_place: 'Houston, Texas, United States'
 death_date: '2014-09-12'
 genres:
-- smooth jazz
-- jazz
-- cool jazz
-- jazz funk
-- jazz fusion
+  - smooth jazz
+  - jazz
+  - cool jazz
+  - jazz funk
+  - jazz fusion
 instruments:
-- piano
-- original
-- keyboard
-- electric piano
-- Wurlitzer electric piano
-- Rhodes piano
-- guitar
-- spoken vocals
-associated_acts:
-- begin: '1960'
-  end: '1971'
-  instruments:
   - piano
-  mbid: fcb79f1a-d3a9-41fe-9cd7-d16537907337
-  name: The Crusaders
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: cadf5219-3457-48f7-93a0-89eb5147881c
-  name: Harold Land Quintet
-- begin: ''
-  end: ''
-  instruments:
   - original
-  mbid: b4a962a9-8c0e-4831-8d61-291370d3245c
-  name: Joe Sample and the Soul Committee
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: 970a5ec1-4460-4c8a-bbdf-0b763ccd1f3d
-  name: Legends
-- begin: ''
-  end: ''
-  instruments:
   - keyboard
-  - original
-  - piano
-  mbid: fcb79f1a-d3a9-41fe-9cd7-d16537907337
-  name: The Crusaders
+  - electric piano
+  - Wurlitzer electric piano
+  - Rhodes piano
+  - guitar
+  - spoken vocals
+associated_acts:
+  - begin: '1960'
+    end: '1971'
+    instruments:
+      - piano
+    mbid: fcb79f1a-d3a9-41fe-9cd7-d16537907337
+    name: The Crusaders
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: cadf5219-3457-48f7-93a0-89eb5147881c
+    name: Harold Land Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: b4a962a9-8c0e-4831-8d61-291370d3245c
+    name: Joe Sample and the Soul Committee
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: 970a5ec1-4460-4c8a-bbdf-0b763ccd1f3d
+    name: Legends
+  - begin: ''
+    end: ''
+    instruments:
+      - keyboard
+      - original
+      - piano
+    mbid: fcb79f1a-d3a9-41fe-9cd7-d16537907337
+    name: The Crusaders
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/joe_sample.jpg
   caption: Joe Sample
@@ -77,61 +77,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Wilton Felder
-  - Nesbert "Stix" Hooper
-  - Wayne Henderson
-  - Miles Davis
-  - Joni Mitchell
-  - David T. Walker
-  - Steely Dan
-  - B.B. King
-  - George Benson
-  - Eric Clapton
-  - Anita Baker
+    - Wilton Felder
+    - Nesbert "Stix" Hooper
+    - Wayne Henderson
+    - Miles Davis
+    - Joni Mitchell
+    - David T. Walker
+    - Steely Dan
+    - B.B. King
+    - George Benson
+    - Eric Clapton
+    - Anita Baker
   influenced: []
   mentors:
-  - Louis Armstrong
-  - Art Blakey
+    - Louis Armstrong
+    - Art Blakey
 spotify_data:
   followers: 140681
   id: 4H2b90USTVSstPktwUsDZE
   popularity: 46
-  url: https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE
+  url: 'https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE'
 discography_enriched: true
 top_tracks:
-- One Day I Fly Away (Creole Love Call)
-- Everybody's Talking (Feeling Good)
-- Stone Groove (Pure)
-- In All My Wildest Dreams (Rainbow Seeker)
-- Rio De Janeiro Blue (Feeling Good)
-- U Turn (Spellbound)
-- Night Flight (Sample This)
-- Leading Me Back to You (Spellbound)
-- When I Need You (Feeling Good)
-- Seven Years of Good Luck (Spellbound)
+  - One Day I Fly Away (Creole Love Call)
+  - Everybody's Talking (Feeling Good)
+  - Stone Groove (Pure)
+  - In All My Wildest Dreams (Rainbow Seeker)
+  - Rio De Janeiro Blue (Feeling Good)
+  - U Turn (Spellbound)
+  - Night Flight (Sample This)
+  - Leading Me Back to You (Spellbound)
+  - When I Need You (Feeling Good)
+  - Seven Years of Good Luck (Spellbound)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/526a6127-7f4e-4797-8ae9-927a6e29e2d0
-  spotify: https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE
-  wikipedia: https://en.wikipedia.org/wiki/Joe_Sample
+  musicbrainz: 'https://musicbrainz.org/artist/526a6127-7f4e-4797-8ae9-927a6e29e2d0'
+  spotify: 'https://open.spotify.com/artist/4H2b90USTVSstPktwUsDZE'
+  wikipedia: 'https://en.wikipedia.org/wiki/Joe_Sample'
 image_path: 03_Resources/source_material/ArtistPortraits/joe_sample.jpg
 biography_enhanced_at: '2025-12-04T07:59:23.525449'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Joe Sample
-- All About Jazz - Joe Sample Musician
-- Blues Boulevard Jazz Greenville - Joe Sample
-- Knowitall.org - Joe Sample
-- Jerry Jazz Musician - Joe Sample article
+  - Wikipedia - Joe Sample
+  - All About Jazz - Joe Sample Musician
+  - Blues Boulevard Jazz Greenville - Joe Sample
+  - Knowitall.org - Joe Sample
+  - Jerry Jazz Musician - Joe Sample article
 network_extracted: true
 entry_created: '2025-12-04T07:59:23.525457'
 last_updated: '2025-12-23T08:16:10.646195'
 gender: Male
 musicbrainz_id: 526a6127-7f4e-4797-8ae9-927a6e29e2d0
 tags:
-- 2008 universal fire victim
-- contemporary jazz
-- jazz
+  - 2008 universal fire victim
+  - contemporary jazz
+  - jazz
+is_active: false
 ---
 
 ![](joe_sample.jpg)

@@ -14,7 +14,7 @@ audio_profile:
   valence_avg: 0.676
   danceability_avg: 0.665
   acousticness_avg: 0.086
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -7.1
   speechiness_avg: 0.035
   liveness_avg: 0.162
@@ -23,36 +23,40 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Anderson Sá
-  - Jose Junior
+    - Anderson Sá
+    - Jose Junior
   influenced:
-  - Youth in Rio's Favelas
+    - Youth in Rio's Favelas
   mentors:
-  - Reggae and Hip-Hop Artists
+    - Reggae and Hip-Hop Artists
 spotify_data:
   followers: 8
   id: 6mm6Wgzn8hbMiPd8CrVf16
   popularity: 0
-  url: https://open.spotify.com/artist/6mm6Wgzn8hbMiPd8CrVf16
+  url: 'https://open.spotify.com/artist/6mm6Wgzn8hbMiPd8CrVf16'
 discography_enriched: true
 top_tracks:
-- 'Imagine (Instant Karma: The Amnesty International Campaign To Save Darfur [The Complete Recordings] (Audio Only))'
+  - >-
+    Imagine (Instant Karma: The Amnesty International Campaign To Save Darfur
+    [The Complete Recordings] (Audio Only))
 external_urls:
-  spotify: https://open.spotify.com/artist/6mm6Wgzn8hbMiPd8CrVf16
+  spotify: 'https://open.spotify.com/artist/6mm6Wgzn8hbMiPd8CrVf16'
   wikipedia: ''
 image_path: ''
 biography_enhanced_at: '2025-11-02T07:30:14.126322'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Afro+Reggae/+wiki
-- https://soulbrasil.com/afroreggae-rio-favelas-global-movement/
-- https://www.wbur.org/onpoint/2010/12/28/favelas-afroreggae-brazil
-- https://www.latinolife.co.uk/articles/things-matter-toanderson-lead-singer-afro-reggae
+  - 'https://www.last.fm/music/Afro+Reggae/+wiki'
+  - 'https://soulbrasil.com/afroreggae-rio-favelas-global-movement/'
+  - 'https://www.wbur.org/onpoint/2010/12/28/favelas-afroreggae-brazil'
+  - >-
+    https://www.latinolife.co.uk/articles/things-matter-toanderson-lead-singer-afro-reggae
 network_extracted: true
 entry_created: '2025-11-02T07:30:14.126367'
 last_updated: '2025-12-23T08:16:04.403156'
-origin: Vigário Geral, Rio de Janeiro, Brazil
+origin: 'Vigário Geral, Rio de Janeiro, Brazil'
+artist_type: band
 ---
 
 ![]()

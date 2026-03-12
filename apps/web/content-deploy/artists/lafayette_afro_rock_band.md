@@ -4,13 +4,13 @@ wiki_slug: lafayette-afro-rock-band
 schema_version: 2
 status: active
 genres:
-- jazz funk
+  - jazz funk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lafayette_afro_rock_band.jpg
   caption: Lafayette Afro Rock Band
   background: solo_singer
 audio_profile:
-  tempo_avg: 118.0
+  tempo_avg: 118
   energy_avg: 0.754
   valence_avg: 0.709
   danceability_avg: 0.573
@@ -24,52 +24,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Pierre Jaubert
-  - Mal Waldron
-  - Sunnyland Slim
+    - Pierre Jaubert
+    - Mal Waldron
+    - Sunnyland Slim
   influenced:
-  - Public Enemy
-  - Janet Jackson
-  - LL Cool J
-  - De La Soul
-  - Wu-Tang Clan
-  - Wreckx-N-Effect
+    - Public Enemy
+    - Janet Jackson
+    - LL Cool J
+    - De La Soul
+    - Wu-Tang Clan
+    - Wreckx-N-Effect
   mentors:
-  - Manu Dibango
+    - Manu Dibango
 spotify_data:
   followers: 60498
   id: 5EgMMveFcSL3rq87Wkyw4s
   popularity: 38
-  url: https://open.spotify.com/artist/5EgMMveFcSL3rq87Wkyw4s
+  url: 'https://open.spotify.com/artist/5EgMMveFcSL3rq87Wkyw4s'
 discography_enriched: true
 top_tracks:
-- Ozan Koukle - Remastered (Afro Funk Explosion)
-- Darkest Light (Darkest Light)
-- Darkest Light - Remastered (Malik)
-- Hihache (Soul Makossa)
-- Ozan Koukle (Afro Agban)
-- Candy Girl - Remastered (Red Matchbox)
-- Malik - Remastered (Malik)
-- Djungi - Remastered (Afro Funk Explosion)
-- Ozan Koukle - Remastered (Afro Funk Explosion)
-- Azeta (Soul Makossa)
+  - Ozan Koukle - Remastered (Afro Funk Explosion)
+  - Darkest Light (Darkest Light)
+  - Darkest Light - Remastered (Malik)
+  - Hihache (Soul Makossa)
+  - Ozan Koukle (Afro Agban)
+  - Candy Girl - Remastered (Red Matchbox)
+  - Malik - Remastered (Malik)
+  - Djungi - Remastered (Afro Funk Explosion)
+  - Ozan Koukle - Remastered (Afro Funk Explosion)
+  - Azeta (Soul Makossa)
 external_urls:
-  spotify: https://open.spotify.com/artist/5EgMMveFcSL3rq87Wkyw4s
-  wikipedia: https://en.wikipedia.org/wiki/Lafayette_Afro_Rock_Band
+  spotify: 'https://open.spotify.com/artist/5EgMMveFcSL3rq87Wkyw4s'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lafayette_Afro_Rock_Band'
 image_path: 03_Resources/source_material/ArtistPortraits/lafayette_afro_rock_band.jpg
 biography_enhanced_at: '2025-11-03T07:48:47.864359'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Lafayette_Afro_Rock_Band
-- https://www.last.fm/music/Lafayette+Afro+Rock+Band/+wiki
-- https://aquariumdrunkard.com/2018/07/13/lafayette-afro-rock-band-sol-makossa/
-- https://www.popmatters.com/71325-lafayette-afro-rock-band-darkest-light-the-best-of-the-lafayette-afro-2496048302.html
+  - 'https://en.wikipedia.org/wiki/Lafayette_Afro_Rock_Band'
+  - 'https://www.last.fm/music/Lafayette+Afro+Rock+Band/+wiki'
+  - >-
+    https://aquariumdrunkard.com/2018/07/13/lafayette-afro-rock-band-sol-makossa/
+  - >-
+    https://www.popmatters.com/71325-lafayette-afro-rock-band-darkest-light-the-best-of-the-lafayette-afro-2496048302.html
 network_extracted: true
 entry_created: '2025-11-03T07:48:47.864375'
 last_updated: '2025-12-23T08:16:11.559022'
-origin: Roosevelt, Long Island, New York, USA (origin)
-
+origin: 'Roosevelt, Long Island, New York, USA (origin)'
+artist_type: band
 ---
 
 ![](lafayette_afro_rock_band.jpg)

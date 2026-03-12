@@ -1,35 +1,38 @@
 ---
 biography_enhanced_at: '2025-12-28T01:59:58.405733'
-birth_place: Ajegunle, Lagos, Nigeria
+birth_place: 'Ajegunle, Lagos, Nigeria'
 enhancement_provider: perplexity
 entry_created: '2025-12-28T01:59:58.405745'
 external_urls:
-  spotify: https://open.spotify.com/artist/22H6cZUVLLs38d9E2iOsQR
+  spotify: 'https://open.spotify.com/artist/22H6cZUVLLs38d9E2iOsQR'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/kunmie_simi_and_mabel.jpg
 last_updated: '2025-12-28T01:59:58.405746'
 musical_connections:
   collaborators:
-  - Simi
-  - Mabel
-  - Omo Ebira Beatz
+    - Simi
+    - Mabel
+    - Omo Ebira Beatz
   influenced: []
   mentors:
-  - The Kazez
+    - The Kazez
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.thecityceleb.com/biography/celebrity/musician/kunmie-biography-age-girlfriend-net-worth-real-name-songs-state-of-origin-wikipedia/
-- https://naijabuzz300.net/biography/kunmie
-- https://thenationonlineng.net/i-found-music-at-the-worst-time-of-my-life-kunmie/
+  - >-
+    https://www.thecityceleb.com/biography/celebrity/musician/kunmie-biography-age-girlfriend-net-worth-real-name-songs-state-of-origin-wikipedia/
+  - 'https://naijabuzz300.net/biography/kunmie'
+  - >-
+    https://thenationonlineng.net/i-found-music-at-the-worst-time-of-my-life-kunmie/
 spotify_data:
   followers: 24
   id: 22H6cZUVLLs38d9E2iOsQR
   popularity: 3
-  url: https://open.spotify.com/artist/22H6cZUVLLs38d9E2iOsQR
+  url: 'https://open.spotify.com/artist/22H6cZUVLLs38d9E2iOsQR'
 status: active
-title: kunmie, simi & mabel
+title: 'Kunmie, Simi & Mabel'
+artist_type: person
 ---
 
 ![](kunmie_simi_and_mabel.jpg)

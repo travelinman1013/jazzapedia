@@ -4,7 +4,7 @@ wiki_slug: fred-wesley-and-the-jbs
 schema_version: 2
 status: active
 genres:
-- jazz funk
+  - jazz funk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/fred_wesley_and_the_jbs.jpg
   caption: Fred Wesley and the JBs
@@ -24,51 +24,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Maceo Parker
-  - George Clinton
-  - Bootsy Collins
-  - Count Basie Orchestra
-  - Pee Wee Ellis
+    - Maceo Parker
+    - George Clinton
+    - Bootsy Collins
+    - Count Basie Orchestra
+    - Pee Wee Ellis
   influenced:
-  - Trombone Shorty
-  - Modern funk and hip-hop artists
+    - Trombone Shorty
+    - Modern funk and hip-hop artists
   mentors:
-  - James Brown
+    - James Brown
 spotify_data:
   followers: 28563
   id: 5No6BqTN5CphuxDG9xAJ5U
   popularity: 32
-  url: https://open.spotify.com/artist/5No6BqTN5CphuxDG9xAJ5U
+  url: 'https://open.spotify.com/artist/5No6BqTN5CphuxDG9xAJ5U'
 discography_enriched: true
 top_tracks:
-- Doing It To Death (Star Time)
-- Doing It To Death (Star Time)
-- Blow Your Head
-- Doing It To Death - Pt. 1 / AM DJ Version (The 50th Anniversary Collection)
-- 'If You Don''t Get It The First Time, Back Up And Try It Again, Party - Single Version (Funky Good Time: The Anthology)'
-- 'Watermelon Man (Funky Good Time: The Anthology)'
-- Same Beat - Pt. 1 (Damn Right I Am Somebody)
-- Doing It To Death
-- 'More Peas (Funky Good Time: The Anthology)'
-- Damn Right I Am Somebody (Damn Right I Am Somebody)
+  - Doing It To Death (Star Time)
+  - Doing It To Death (Star Time)
+  - Blow Your Head
+  - Doing It To Death - Pt. 1 / AM DJ Version (The 50th Anniversary Collection)
+  - >-
+    If You Don't Get It The First Time, Back Up And Try It Again, Party - Single
+    Version (Funky Good Time: The Anthology)
+  - 'Watermelon Man (Funky Good Time: The Anthology)'
+  - Same Beat - Pt. 1 (Damn Right I Am Somebody)
+  - Doing It To Death
+  - 'More Peas (Funky Good Time: The Anthology)'
+  - Damn Right I Am Somebody (Damn Right I Am Somebody)
 external_urls:
-  spotify: https://open.spotify.com/artist/5No6BqTN5CphuxDG9xAJ5U
-  wikipedia: https://en.wikipedia.org/wiki/Fred_Wesley
+  spotify: 'https://open.spotify.com/artist/5No6BqTN5CphuxDG9xAJ5U'
+  wikipedia: 'https://en.wikipedia.org/wiki/Fred_Wesley'
 image_path: 03_Resources/source_material/ArtistPortraits/fred_wesley_and_the_jbs.jpg
 biography_enhanced_at: '2025-11-26T07:58:20.451003'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Fred_Wesley
-- https://secure.thefreight.org/15057/15058-fred-wesley-new-jbs-250719
-- https://middlecjazz.com/fred-wesley-forefather-of-funk/
-- https://www.jazzalley.com/www-home/artist.jsp?shownum=7456
-- http://ukvibe.org/revibe/interviews/2008-interviews/fred-wesley-jr_2009/
+  - 'https://en.wikipedia.org/wiki/Fred_Wesley'
+  - 'https://secure.thefreight.org/15057/15058-fred-wesley-new-jbs-250719'
+  - 'https://middlecjazz.com/fred-wesley-forefather-of-funk/'
+  - 'https://www.jazzalley.com/www-home/artist.jsp?shownum=7456'
+  - 'http://ukvibe.org/revibe/interviews/2008-interviews/fred-wesley-jr_2009/'
 network_extracted: true
 entry_created: '2025-11-26T07:58:20.451010'
 last_updated: '2025-12-23T08:16:08.823548'
-origin: Columbus, Georgia, United States
-
+origin: 'Columbus, Georgia, United States'
+birth_place: 'Columbus, Georgia, United States'
+artist_type: band
 ---
 
 ![](fred_wesley_and_the_jbs.jpg)

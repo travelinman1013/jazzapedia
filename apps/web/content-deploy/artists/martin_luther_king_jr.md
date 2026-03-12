@@ -2,52 +2,54 @@
 artist_type: person
 biography_enhanced_at: '2026-01-19T01:17:11.947969'
 birth_date: '1929-01-15'
-birth_place: Atlanta
+birth_place: 'Atlanta, Georgia, United States'
 death_date: '1968-04-04'
 disambiguation: American minister and civil rights activist
 enhancement_provider: perplexity
 entry_created: '2026-01-19T01:17:11.947975'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/80f23097-a035-4409-84d7-7caa855f53a8
-  spotify: https://open.spotify.com/artist/4lWl4G5wgAH9i3GwumUDkB
-  wikipedia: https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.
+  musicbrainz: 'https://musicbrainz.org/artist/80f23097-a035-4409-84d7-7caa855f53a8'
+  spotify: 'https://open.spotify.com/artist/4lWl4G5wgAH9i3GwumUDkB'
+  wikipedia: 'https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.'
 gender: Male
 genres:
-- spoken word
+  - spoken word
 image_path: 03_Resources/source_material/ArtistPortraits/martin_luther_king_jr.jpg
 instruments:
-- spoken vocals
+  - spoken vocals
 last_updated: '2026-01-19T01:17:11.947976'
 musical_connections:
   collaborators:
-  - Mahalia Jackson
-  - Harry Belafonte
+    - Mahalia Jackson
+    - Harry Belafonte
   influenced:
-  - Nathaniel Douglas
-  - Marlee Porter
-  - Oni Lasana
+    - Nathaniel Douglas
+    - Marlee Porter
+    - Oni Lasana
   mentors:
-  - Mahalia Jackson
+    - Mahalia Jackson
 musicbrainz_id: 80f23097-a035-4409-84d7-7caa855f53a8
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.
-- https://www.washingtoninformer.com/civil-rights-martin-luther-king-mlk-creativity/
-- https://www.youtube.com/watch?v=HzWpirxgfMk
-- https://www.goodreads.com/book/show/160943.Martin_s_Big_Words
-- https://onilasana.com/storyteller/f/i-dreamt-martin-luther-king-jr
-- https://www.arts.gov/stories/blog/2023/art-dr-martin-luther-king-jr
-- https://www.nobelprize.org/prizes/peace/1964/king/biographical/
+  - 'https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.'
+  - >-
+    https://www.washingtoninformer.com/civil-rights-martin-luther-king-mlk-creativity/
+  - 'https://www.youtube.com/watch?v=HzWpirxgfMk'
+  - 'https://www.goodreads.com/book/show/160943.Martin_s_Big_Words'
+  - 'https://onilasana.com/storyteller/f/i-dreamt-martin-luther-king-jr'
+  - 'https://www.arts.gov/stories/blog/2023/art-dr-martin-luther-king-jr'
+  - 'https://www.nobelprize.org/prizes/peace/1964/king/biographical/'
 spotify_data:
   followers: 21229
   id: 4lWl4G5wgAH9i3GwumUDkB
   popularity: 20
-  url: https://open.spotify.com/artist/4lWl4G5wgAH9i3GwumUDkB
+  url: 'https://open.spotify.com/artist/4lWl4G5wgAH9i3GwumUDkB'
 status: active
 tags:
-- 2008 universal fire victim
-title: Martin Luther King, Jr.
+  - 2008 universal fire victim
+title: 'Martin Luther King, Jr.'
+is_active: false
 ---
 
 ![](martin_luther_king_jr.jpg)

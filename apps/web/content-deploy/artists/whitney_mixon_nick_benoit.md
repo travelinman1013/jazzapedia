@@ -1,13 +1,13 @@
 ---
-title: Whitney Mixon, Nick Benoit
+title: 'Whitney Mixon, Nick Benoit'
 wiki_slug: whitney-mixon-nick-benoit
 schema_version: 2
 status: active
 genres:
-- boogie
+  - boogie
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/whitney_mixon_nick_benoit.jpg
-  caption: Whitney Mixon, Nick Benoit
+  caption: 'Whitney Mixon, Nick Benoit'
   background: solo_singer
 audio_profile:
   tempo_avg: 116.2
@@ -30,32 +30,33 @@ spotify_data:
   followers: 47
   id: 7FAegLCsBNcLxOFvenL7Uu
   popularity: 1
-  url: https://open.spotify.com/artist/7FAegLCsBNcLxOFvenL7Uu
+  url: 'https://open.spotify.com/artist/7FAegLCsBNcLxOFvenL7Uu'
 discography_enriched: true
 top_tracks:
-- Caught Up (Mix Up)
-- Caught Up (Caught Up)
-- Sorry (Mix Up)
-- Lusty (Mix Up)
-- We Love A Rehearsal (Interlude) (Mix Up)
-- Joyce (Interlude) (Mix Up)
-- Fool For You (Mix Up)
-- Black & Blessed (Interlude) (Mix Up)
-- You (Mix Up)
-- Ballroom (Mix Up)
+  - Caught Up (Mix Up)
+  - Caught Up (Caught Up)
+  - Sorry (Mix Up)
+  - Lusty (Mix Up)
+  - We Love A Rehearsal (Interlude) (Mix Up)
+  - Joyce (Interlude) (Mix Up)
+  - Fool For You (Mix Up)
+  - Black & Blessed (Interlude) (Mix Up)
+  - You (Mix Up)
+  - Ballroom (Mix Up)
 external_urls:
-  spotify: https://open.spotify.com/artist/7FAegLCsBNcLxOFvenL7Uu
+  spotify: 'https://open.spotify.com/artist/7FAegLCsBNcLxOFvenL7Uu'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/whitney_mixon_nick_benoit.jpg
 biography_enhanced_at: '2025-11-08T21:46:39.661431'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Spotify artist profile (context provided)
-- No relevant results from search or major music databases as of November 2025
+  - Spotify artist profile (context provided)
+  - No relevant results from search or major music databases as of November 2025
 network_extracted: true
 entry_created: '2025-11-08T21:46:39.661449'
 last_updated: '2025-12-23T08:16:18.125574'
+artist_type: band
 ---
 
 ![](whitney_mixon_nick_benoit.jpg)

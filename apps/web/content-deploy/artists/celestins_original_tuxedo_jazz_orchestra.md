@@ -3,41 +3,46 @@ biography_enhanced_at: '2026-01-08T01:34:42.018413'
 enhancement_provider: perplexity
 entry_created: '2026-01-08T01:34:42.018420'
 external_urls:
-  spotify: https://open.spotify.com/artist/7lwDRksYzVKNm0afhR4BtR
+  spotify: 'https://open.spotify.com/artist/7lwDRksYzVKNm0afhR4BtR'
   wikipedia: ''
 genres:
-- ragtime
-image_path: 03_Resources/source_material/ArtistPortraits/celestins_original_tuxedo_jazz_orchestra.jpg
+  - ragtime
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/celestins_original_tuxedo_jazz_orchestra.jpg
 last_updated: '2026-01-08T01:34:42.018420'
 musical_connections:
   collaborators:
-  - Oscar “Papa” Celestin
-  - August Rousseau
-  - Paul Barnes
-  - Earl Pierson
-  - Jeanette Salvant
-  - John Marrero
-  - Abby Foster
+    - Oscar “Papa” Celestin
+    - August Rousseau
+    - Paul Barnes
+    - Earl Pierson
+    - Jeanette Salvant
+    - John Marrero
+    - Abby Foster
   influenced: []
   mentors: []
 network_extracted: true
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://folkways.si.edu/oscar-papa-celestin/the-1950s-radio-broadcasts/jazz-ragtime/music/album/smithsonian
-- https://www.last.fm/music/Original+Tuxedo+Jazz+Orchestra/_/Black+Rag
-- https://www.youtube.com/watch?v=sckbuldUPHM
-- https://www.youtube.com/watch?v=TsNo6aCX9wQ
-- https://www.youtube.com/playlist?list=PL_TKJ7egrr5tCceGTlmH5FGAW_YyhqfcZ
-- https://open.spotify.com/artist/3Vb7jLTvANlUithViLzqoO
-- https://syncopatedtimes.com/original-tuxedo-jazz-orchestra/
+  - >-
+    https://folkways.si.edu/oscar-papa-celestin/the-1950s-radio-broadcasts/jazz-ragtime/music/album/smithsonian
+  - 'https://www.last.fm/music/Original+Tuxedo+Jazz+Orchestra/_/Black+Rag'
+  - 'https://www.youtube.com/watch?v=sckbuldUPHM'
+  - 'https://www.youtube.com/watch?v=TsNo6aCX9wQ'
+  - 'https://www.youtube.com/playlist?list=PL_TKJ7egrr5tCceGTlmH5FGAW_YyhqfcZ'
+  - 'https://open.spotify.com/artist/3Vb7jLTvANlUithViLzqoO'
+  - 'https://syncopatedtimes.com/original-tuxedo-jazz-orchestra/'
 spotify_data:
   followers: 248
   id: 7lwDRksYzVKNm0afhR4BtR
   popularity: 8
-  url: https://open.spotify.com/artist/7lwDRksYzVKNm0afhR4BtR
+  url: 'https://open.spotify.com/artist/7lwDRksYzVKNm0afhR4BtR'
 status: active
-title: CELESTIN'S ORIGINAL TUXEDO JAZZ ORCHESTRA
+title: Celestin's Original Tuxedo Jazz Orchestra
+birth_place: 'New Orleans, Louisiana, United States'
+birth_date: '1884'
+artist_type: person
 ---
 
 ![](celestins_original_tuxedo_jazz_orchestra.jpg)

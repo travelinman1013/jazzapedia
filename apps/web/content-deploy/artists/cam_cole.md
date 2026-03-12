@@ -1,17 +1,17 @@
 ---
-title: cam cole
+title: Cam Cole
 wiki_slug: cam-cole
 schema_version: 2
 status: active
-birth_place: London, England, United Kingdom
+birth_place: 'London, England, United Kingdom'
 genres:
-- blues rock
-- modern blues
+  - blues rock
+  - modern blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/cam_cole.jpg
   caption: cam cole
   background: solo_singer
-  origin: London, England, United Kingdom
+  origin: 'London, England, United Kingdom'
 audio_profile:
   tempo_avg: 110.2
   energy_avg: 0.708
@@ -27,50 +27,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Markus Stretz
-  - Brian Lucey
-  - New Age Collective
-  - Farmer Drums
+    - Markus Stretz
+    - Brian Lucey
+    - New Age Collective
+    - Farmer Drums
   influenced: []
   mentors:
-  - Led Zeppelin
-  - Nirvana
-  - Kyuss
+    - Led Zeppelin
+    - Nirvana
+    - Kyuss
 spotify_data:
   followers: 144417
   id: 0US6t3wOzabccOupxTHl2S
   popularity: 49
-  url: https://open.spotify.com/artist/0US6t3wOzabccOupxTHl2S
+  url: 'https://open.spotify.com/artist/0US6t3wOzabccOupxTHl2S'
 discography_enriched: true
 top_tracks:
-- Mama (I See)
-- New Age Blues (I See)
-- Truth Be Told (Unleash)
-- I See (I See)
-- Albion (Crooked Hill)
-- Desire (I See)
-- Anticipating (New Age Blues EP)
-- I Just Don't Seek To Please (Unleash)
-- Away (I See)
-- Phonky Mouse (Phonky Mouse)
+  - Mama (I See)
+  - New Age Blues (I See)
+  - Truth Be Told (Unleash)
+  - I See (I See)
+  - Albion (Crooked Hill)
+  - Desire (I See)
+  - Anticipating (New Age Blues EP)
+  - I Just Don't Seek To Please (Unleash)
+  - Away (I See)
+  - Phonky Mouse (Phonky Mouse)
 external_urls:
-  spotify: https://open.spotify.com/artist/0US6t3wOzabccOupxTHl2S
+  spotify: 'https://open.spotify.com/artist/0US6t3wOzabccOupxTHl2S'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/cam_cole.jpg
 biography_enhanced_at: '2025-11-22T07:42:18.360273'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://foxreviewsrock.com/2024/10/16/cam-cole-interview/
-- https://www.last.fm/music/Cam+Cole/+wiki
-- https://camcole.com
-- https://www.stage-kult.de/index.php?view=article&id=50&catid=9
-- https://themusictrunk.com/blogs/music-interviews/cam-cole-interview
-- https://yorkcalling.co.uk/2021/09/07/interview-cam-cole/
-- https://ted-lasso.fandom.com/wiki/Cam_Cole
+  - 'https://foxreviewsrock.com/2024/10/16/cam-cole-interview/'
+  - 'https://www.last.fm/music/Cam+Cole/+wiki'
+  - 'https://camcole.com'
+  - 'https://www.stage-kult.de/index.php?view=article&id=50&catid=9'
+  - 'https://themusictrunk.com/blogs/music-interviews/cam-cole-interview'
+  - 'https://yorkcalling.co.uk/2021/09/07/interview-cam-cole/'
+  - 'https://ted-lasso.fandom.com/wiki/Cam_Cole'
 network_extracted: true
 entry_created: '2025-11-22T07:42:18.360285'
 last_updated: '2025-12-23T08:16:06.314670'
+birth_date: '1992-11-20'
+artist_type: person
 ---
 
 ![](cam_cole.jpg)

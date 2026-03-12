@@ -4,8 +4,8 @@ wiki_slug: the-jackson-5
 schema_version: 2
 status: active
 genres:
-- motown
-- christmas
+  - motown
+  - christmas
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_jackson_5.jpg
   caption: The Jackson 5
@@ -25,57 +25,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Corporation
-  - Suzanne de Passe
-  - Jackie Jackson
-  - Tito Jackson
-  - Marlon Jackson
-  - Jermaine Jackson
-  - Michael Jackson
-  - Randy Jackson
+    - The Corporation
+    - Suzanne de Passe
+    - Jackie Jackson
+    - Tito Jackson
+    - Marlon Jackson
+    - Jermaine Jackson
+    - Michael Jackson
+    - Randy Jackson
   influenced:
-  - Michael Jackson
+    - Michael Jackson
   mentors:
-  - Joseph Jackson
-  - Berry Gordy Jr.
-  - Bobby Taylor
-  - Diana Ross
+    - Joseph Jackson
+    - Berry Gordy Jr.
+    - Bobby Taylor
+    - Diana Ross
 spotify_data:
   followers: 1910645
   id: 2iE18Oxc8YSumAU232n4rW
   popularity: 74
-  url: https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW
+  url: 'https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW'
 discography_enriched: true
 top_tracks:
-- I Want You Back (Diana Ross Presents The Jackson 5)
-- ABC (ABC)
-- I'll Be There (Third Album)
-- Who's Lovin' You (Diana Ross Presents The Jackson 5)
-- I Want You Back
-- I Want You Back
-- I Saw Mommy Kissing Santa Claus (Christmas Album)
-- Santa Claus Is Coming To Town (Christmas Album)
-- Never Can Say Goodbye (Maybe Tomorrow)
-- ABC
+  - I Want You Back (Diana Ross Presents The Jackson 5)
+  - ABC (ABC)
+  - I'll Be There (Third Album)
+  - Who's Lovin' You (Diana Ross Presents The Jackson 5)
+  - I Want You Back
+  - I Want You Back
+  - I Saw Mommy Kissing Santa Claus (Christmas Album)
+  - Santa Claus Is Coming To Town (Christmas Album)
+  - Never Can Say Goodbye (Maybe Tomorrow)
+  - ABC
 external_urls:
-  spotify: https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW
-  wikipedia: https://en.wikipedia.org/wiki/The_Jackson_5
+  spotify: 'https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Jackson_5'
 image_path: 03_Resources/source_material/ArtistPortraits/the_jackson_5.jpg
 biography_enhanced_at: '2025-12-22T01:53:11.497830'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Motown Museum - The Jackson 5
-- Wikipedia - The Jackson 5
-- Britannica - Jackson 5
-- Ed Sullivan Show - Jackson 5
-- The Current - Today in Music History
-- Classic Motown Artists
-- Detroit Historical Society
+  - Motown Museum - The Jackson 5
+  - Wikipedia - The Jackson 5
+  - Britannica - Jackson 5
+  - Ed Sullivan Show - Jackson 5
+  - The Current - Today in Music History
+  - Classic Motown Artists
+  - Detroit Historical Society
 network_extracted: true
 entry_created: '2025-12-22T01:53:11.497838'
 last_updated: '2025-12-23T08:16:16.869751'
-origin: Gary, Indiana, United States
+origin: 'Gary, Indiana, United States'
+artist_type: band
 ---
 
 ![](the_jackson_5.jpg)

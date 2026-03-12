@@ -1,16 +1,16 @@
 ---
-title: betty o'brien
+title: Betty O'Brien
 wiki_slug: betty-obrien
 schema_version: 2
 status: active
-birth_place: Detroit, Michigan, USA (origin); later Fort Worth, Texas, USA (residence)
+birth_place: 'Detroit, Michigan, USA (origin); later Fort Worth, Texas, USA (residence)'
 genres:
-- northern soul
+  - northern soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/betty_obrien.jpg
   caption: betty o'brien
   background: solo_singer
-  origin: Detroit, Michigan, USA (origin); later Fort Worth, Texas, USA (residence)
+  origin: 'Detroit, Michigan, USA (origin); later Fort Worth, Texas, USA (residence)'
 audio_profile:
   tempo_avg: 124.4
   energy_avg: 0.692
@@ -26,42 +26,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - H.B. Barnum
+    - H.B. Barnum
   influenced:
-  - Northern Soul DJs and collectors
+    - Northern Soul DJs and collectors
   mentors:
-  - Clyde Otis
+    - Clyde Otis
 spotify_data:
   followers: 203
   id: 4OXLwLXnaXoNbTspgXFdSu
   popularity: 4
-  url: https://open.spotify.com/artist/4OXLwLXnaXoNbTspgXFdSu
+  url: 'https://open.spotify.com/artist/4OXLwLXnaXoNbTspgXFdSu'
 discography_enriched: true
 top_tracks:
-- She'll Be Gone - Single Version (All Night Soul)
-- She'll Be Gone (Popcorn Girls)
-- She'll Be Gone (Ain't Gonna Hush)
-- She'll Be Gone (Only for Madison's Fans (feat. Bert Keyes and His Orchestra) [Mono Version])
-- Money Honey (Rock and Roll Vixens, Vol. 4)
-- She'll Be Gone (Alternate Version) (Angel Baby (Original Motion Picture Soundtrack))
-- 'She''ll Be Gone (Soul for Dancers 2: Out on the Floor Firecrackers)'
-- Why Me? (Only for Madison's Fans (feat. Bert Keyes and His Orchestra) [Mono Version])
-- Money Honey (Only for Madison's Fans (feat. Bert Keyes and His Orchestra) [Mono Version])
-- Love Oh! Love (Only for Madison's Fans (feat. Bert Keyes and His Orchestra) [Mono Version])
+  - She'll Be Gone - Single Version (All Night Soul)
+  - She'll Be Gone (Popcorn Girls)
+  - She'll Be Gone (Ain't Gonna Hush)
+  - >-
+    She'll Be Gone (Only for Madison's Fans (feat. Bert Keyes and His Orchestra)
+    [Mono Version])
+  - 'Money Honey (Rock and Roll Vixens, Vol. 4)'
+  - >-
+    She'll Be Gone (Alternate Version) (Angel Baby (Original Motion Picture
+    Soundtrack))
+  - 'She''ll Be Gone (Soul for Dancers 2: Out on the Floor Firecrackers)'
+  - >-
+    Why Me? (Only for Madison's Fans (feat. Bert Keyes and His Orchestra) [Mono
+    Version])
+  - >-
+    Money Honey (Only for Madison's Fans (feat. Bert Keyes and His Orchestra)
+    [Mono Version])
+  - >-
+    Love Oh! Love (Only for Madison's Fans (feat. Bert Keyes and His Orchestra)
+    [Mono Version])
 external_urls:
-  spotify: https://open.spotify.com/artist/4OXLwLXnaXoNbTspgXFdSu
+  spotify: 'https://open.spotify.com/artist/4OXLwLXnaXoNbTspgXFdSu'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/betty_obrien.jpg
 biography_enhanced_at: '2025-11-20T07:30:15.524473'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.firerecords.com/greeting-from-the-far-north/
-- https://www.soulfulrecords.co.uk/bettyobrienshellbegone
-- https://www.northernsouldirect.co.uk/shop/7-vinyl/barbara-dane-i-m-on-my-way-betty-o-brien-she-ll-be-gone-45-outta-sight-7-vinyl/
+  - 'https://www.firerecords.com/greeting-from-the-far-north/'
+  - 'https://www.soulfulrecords.co.uk/bettyobrienshellbegone'
+  - >-
+    https://www.northernsouldirect.co.uk/shop/7-vinyl/barbara-dane-i-m-on-my-way-betty-o-brien-she-ll-be-gone-45-outta-sight-7-vinyl/
 network_extracted: true
 entry_created: '2025-11-20T07:30:15.524482'
 last_updated: '2025-12-23T08:16:05.367356'
+origin: 'Detroit, Michigan, United States'
+artist_type: person
 ---
 
 ![](betty_obrien.jpg)

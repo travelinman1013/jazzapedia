@@ -1,112 +1,112 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-22T07:05:18.406237'
 birth_date: '2000'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:05:18.406245'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b9bede5d-89b6-4c43-9c45-ca3930cf4db8
-  spotify: https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6
+  musicbrainz: 'https://musicbrainz.org/artist/b9bede5d-89b6-4c43-9c45-ca3930cf4db8'
+  spotify: 'https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6'
   wikipedia: Not found in search results
 genres:
-- jazz
-- experimental jazz
-- jazz fusion
-- nu jazz
+  - jazz
+  - experimental jazz
+  - jazz fusion
+  - nu jazz
 image_path: 03_Resources/source_material/ArtistPortraits/the_bad_plus.jpg
 instruments:
-- original
-- piano
-- double bass
-- drums (drum set)
-- electric guitar
-- tenor saxophone
+  - original
+  - piano
+  - double bass
+  - drums (drum set)
+  - electric guitar
+  - tenor saxophone
 last_updated: '2026-01-22T07:05:18.406260'
 members:
-- begin: '2000'
-  end: '2017-12-31'
-  instruments:
-  - original
-  - piano
-  mbid: bd6637bd-38bf-491e-8036-3044c139aec1
-  name: Ethan Iverson
-- &id001
-  begin: '2000'
-  end: ''
-  instruments:
-  - double bass
-  - original
-  mbid: 9c2b04fd-0ba6-4fe1-88a1-988104a45b9f
-  name: Reid Anderson
-- &id002
-  begin: '2000'
-  end: ''
-  instruments:
-  - drums (drum set)
-  - original
-  mbid: bf3349eb-c793-489e-92f1-b93d76b78560
-  name: Dave King
-- begin: '2018-01-01'
-  end: '2021-03-13'
-  instruments:
-  - piano
-  mbid: 7a0855b4-d090-4571-a2a6-1063bb4e58df
-  name: Orrin Evans
-- &id003
-  begin: '2021'
-  end: ''
-  instruments:
-  - electric guitar
-  mbid: aea9b5e5-baa1-4abd-8481-a5b85a735b4a
-  name: Ben Monder
-- &id004
-  begin: '2021'
-  end: ''
-  instruments:
-  - tenor saxophone
-  mbid: 6dc88fe0-ed51-41e8-95a0-5252ad326019
-  name: Chris Speed
+  - begin: '2000'
+    end: '2017-12-31'
+    instruments:
+      - original
+      - piano
+    mbid: bd6637bd-38bf-491e-8036-3044c139aec1
+    name: Ethan Iverson
+  - &ref_0
+    begin: '2000'
+    end: ''
+    instruments:
+      - double bass
+      - original
+    mbid: 9c2b04fd-0ba6-4fe1-88a1-988104a45b9f
+    name: Reid Anderson
+  - &ref_1
+    begin: '2000'
+    end: ''
+    instruments:
+      - drums (drum set)
+      - original
+    mbid: bf3349eb-c793-489e-92f1-b93d76b78560
+    name: Dave King
+  - begin: '2018-01-01'
+    end: '2021-03-13'
+    instruments:
+      - piano
+    mbid: 7a0855b4-d090-4571-a2a6-1063bb4e58df
+    name: Orrin Evans
+  - &ref_2
+    begin: '2021'
+    end: ''
+    instruments:
+      - electric guitar
+    mbid: aea9b5e5-baa1-4abd-8481-a5b85a735b4a
+    name: Ben Monder
+  - &ref_3
+    begin: '2021'
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: 6dc88fe0-ed51-41e8-95a0-5252ad326019
+    name: Chris Speed
 musical_connections:
   collaborators:
-  - Ben Monder
-  - Chris Speed
-  - Orrin Evans
-  - Ethan Iverson
+    - Ben Monder
+    - Chris Speed
+    - Orrin Evans
+    - Ethan Iverson
   influenced:
-  - Contemporary Jazz Musicians
+    - Contemporary Jazz Musicians
   mentors:
-  - Fred Hersch
-  - Sophia Rosoff
-  - Geddy Lee / Rush
+    - Fred Hersch
+    - Sophia Rosoff
+    - Geddy Lee / Rush
 musicbrainz_id: b9bede5d-89b6-4c43-9c45-ca3930cf4db8
 network_extracted: true
-origin: Minneapolis
+origin: 'Minneapolis, Minnesota, United States'
 original_members:
-- *id001
-- *id002
-- *id003
-- *id004
+  - *ref_0
+  - *ref_1
+  - *ref_2
+  - *ref_3
 primary_source: perplexity
 research_sources:
-- https://www.bighassle.com/the-bad-plus-bio
-- https://www.akbanksanat.com/en/blog/asla-durmayan-grup-the-bad-plus
-- https://www.allaboutjazz.com/musicians/the-bad-plus/
-- https://jazztimes.com/features/profiles/the-bad-plus-quartet/
-- http://www.bigfishbookingco.com/the-bad-plus
-- https://www.seacoastjazz.org/the-bad-plus.html
-- https://www.detroitjazzfest.org/artist/the-bad-plus/
-- https://creativeloafing.com/group-597387-the-bad-plus---touring-band
-- https://www.thebadplus.com
+  - 'https://www.bighassle.com/the-bad-plus-bio'
+  - 'https://www.akbanksanat.com/en/blog/asla-durmayan-grup-the-bad-plus'
+  - 'https://www.allaboutjazz.com/musicians/the-bad-plus/'
+  - 'https://jazztimes.com/features/profiles/the-bad-plus-quartet/'
+  - 'http://www.bigfishbookingco.com/the-bad-plus'
+  - 'https://www.seacoastjazz.org/the-bad-plus.html'
+  - 'https://www.detroitjazzfest.org/artist/the-bad-plus/'
+  - 'https://creativeloafing.com/group-597387-the-bad-plus---touring-band'
+  - 'https://www.thebadplus.com'
 spotify_data:
   followers: 104980
   id: 5qOfTfMzTj2dvvpWKzIFk6
   popularity: 34
-  url: https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6
+  url: 'https://open.spotify.com/artist/5qOfTfMzTj2dvvpWKzIFk6'
 status: active
 tags:
-- jazz
-- jazz and blues
-- post-bop
+  - jazz
+  - jazz and blues
+  - post-bop
 title: The Bad Plus
 ---
 

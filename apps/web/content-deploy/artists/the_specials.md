@@ -1,16 +1,16 @@
 ---
-title: the specials
+title: The Specials
 wiki_slug: the-specials
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1977'
 genres:
-- ska
-- rocksteady
-- ska punk
+  - ska
+  - rocksteady
+  - ska punk
 instruments:
-- additional
+  - additional
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_specials.jpg
   caption: the specials
@@ -31,111 +31,113 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Terry Hall
-  - Jerry Dammers
-  - Lynval Golding
-  - Neville Staple
-  - Horace Panter
-  - Roddy Radiation (Roddy Byers)
-  - John Bradbury
-  - Rico Rodriguez
-  - Dick Cuthell
+    - Terry Hall
+    - Jerry Dammers
+    - Lynval Golding
+    - Neville Staple
+    - Horace Panter
+    - Roddy Radiation (Roddy Byers)
+    - John Bradbury
+    - Rico Rodriguez
+    - Dick Cuthell
   influenced:
-  - Rancid
-  - No Doubt
-  - Mid-1990s American ska-punk bands
+    - Rancid
+    - No Doubt
+    - Mid-1990s American ska-punk bands
   mentors:
-  - Elvis Costello
+    - Elvis Costello
 spotify_data:
   followers: 710971
   id: 6xnvNmSzmeOE1bLKnYXKW3
   popularity: 56
-  url: https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3
+  url: 'https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3'
 discography_enriched: true
 top_tracks:
-- 'Ghost Town (Stereo-Typical: A''s, B''s & Rarities)'
-- A Message to You Rudy - 2015 Remaster (The Specials (Deluxe Version))
-- Gangsters - 2015 Remaster (The Specials (Deluxe Version))
-- Too Much Too Young - 2015 Remaster (The Specials (Deluxe Version))
-- Monkey Man - 2015 Remaster (The Specials (Deluxe Version))
-- Friday Night, Saturday Morning - 2015 Remaster (More Specials (Deluxe Version))
-- Rat Race (Too Much Too Young)
-- Ghost Town - 2015 Remaster (More Specials (Deluxe Version))
-- You're Wondering Now - 2015 Remaster (The Specials (Deluxe Version))
-- Little Bitch - 2015 Remaster (The Specials (Deluxe Version))
+  - 'Ghost Town (Stereo-Typical: A''s, B''s & Rarities)'
+  - A Message to You Rudy - 2015 Remaster (The Specials (Deluxe Version))
+  - Gangsters - 2015 Remaster (The Specials (Deluxe Version))
+  - Too Much Too Young - 2015 Remaster (The Specials (Deluxe Version))
+  - Monkey Man - 2015 Remaster (The Specials (Deluxe Version))
+  - >-
+    Friday Night, Saturday Morning - 2015 Remaster (More Specials (Deluxe
+    Version))
+  - Rat Race (Too Much Too Young)
+  - Ghost Town - 2015 Remaster (More Specials (Deluxe Version))
+  - You're Wondering Now - 2015 Remaster (The Specials (Deluxe Version))
+  - Little Bitch - 2015 Remaster (The Specials (Deluxe Version))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/07eb40a2-2914-439c-a01d-15a685b84ddf
-  spotify: https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3
-  wikipedia: https://en.wikipedia.org/wiki/The_Specials
+  musicbrainz: 'https://musicbrainz.org/artist/07eb40a2-2914-439c-a01d-15a685b84ddf'
+  spotify: 'https://open.spotify.com/artist/6xnvNmSzmeOE1bLKnYXKW3'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Specials'
 image_path: 03_Resources/source_material/ArtistPortraits/the_specials.jpg
 biography_enhanced_at: '2025-11-29T07:01:20.978898'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - The Specials
-- Last.fm - The Specials
-- Far Out Magazine - The Story of The Specials
-- Encyclopedia.com - The Specials
-- TheSpecials.com - The Band
-- 2-Tone.info - The Specials
-- Dazed Digital - Terry Hall, Ghost Town, The Specials
+  - Wikipedia - The Specials
+  - Last.fm - The Specials
+  - Far Out Magazine - The Story of The Specials
+  - Encyclopedia.com - The Specials
+  - TheSpecials.com - The Band
+  - 2-Tone.info - The Specials
+  - 'Dazed Digital - Terry Hall, Ghost Town, The Specials'
 network_extracted: true
 entry_created: '2025-11-29T07:01:20.978908'
 last_updated: '2025-12-23T08:16:17.165274'
 disambiguation: ska band
 members:
-- begin: ''
-  end: 1981-10
-  instruments: []
-  mbid: 831a9925-d580-445b-a982-808aa925da31
-  name: Terry Hall
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7904284f-67cd-4018-9a90-8696a5c9b01a
-  name: John Bradbury
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e8936d6d-1da4-46d0-ad06-cc7a36731065
-  name: Dick Cuthell
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a582c67f-106c-4e31-85a1-f7513941c1f0
-  name: Jerry Dammers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b1747f37-6100-4d1f-8b52-a090db811979
-  name: Lynval Golding
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 11150295-1e20-4078-bff6-38881e6cf491
-  name: Horace Panter
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4b77ee87-f413-42cb-860e-854c5e7b3a5a
-  name: Roddy Radiation
-- begin: ''
-  end: ''
-  instruments:
-  - additional
-  mbid: 48910ede-518a-40ee-9df9-3535be4c68d5
-  name: Rico Rodriguez
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 59e4e566-a607-46ea-8522-715d3cb378e3
-  name: Neville Staple
+  - begin: ''
+    end: 1981-10
+    instruments: []
+    mbid: 831a9925-d580-445b-a982-808aa925da31
+    name: Terry Hall
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7904284f-67cd-4018-9a90-8696a5c9b01a
+    name: John Bradbury
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e8936d6d-1da4-46d0-ad06-cc7a36731065
+    name: Dick Cuthell
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a582c67f-106c-4e31-85a1-f7513941c1f0
+    name: Jerry Dammers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b1747f37-6100-4d1f-8b52-a090db811979
+    name: Lynval Golding
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 11150295-1e20-4078-bff6-38881e6cf491
+    name: Horace Panter
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4b77ee87-f413-42cb-860e-854c5e7b3a5a
+    name: Roddy Radiation
+  - begin: ''
+    end: ''
+    instruments:
+      - additional
+    mbid: 48910ede-518a-40ee-9df9-3535be4c68d5
+    name: Rico Rodriguez
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 59e4e566-a607-46ea-8522-715d3cb378e3
+    name: Neville Staple
 musicbrainz_id: 07eb40a2-2914-439c-a01d-15a685b84ddf
-origin: Coventry
+origin: 'Coventry, England, United Kingdom'
 tags:
-- 2 tone
-- c81
-- new wave
+  - 2 tone
+  - c81
+  - new wave
 ---
 
 ![](the_specials.jpg)

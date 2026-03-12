@@ -4,10 +4,11 @@ wiki_slug: aaron-neville-dirty-dozen-brass
 schema_version: 2
 status: active
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/aaron_neville_dirty_dozen_brass.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/aaron_neville_dirty_dozen_brass.jpg
   caption: Aaron Neville Dirty Dozen Brass
   background: solo_singer
 audio_profile:
@@ -25,40 +26,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Linda Ronstadt
-  - Neville Brothers
-  - Dirty Dozen Brass Band
-  - Dr. John
+    - Linda Ronstadt
+    - Neville Brothers
+    - Dirty Dozen Brass Band
+    - Dr. John
   influenced:
-  - Ivan Neville
-  - Modern New Orleans brass bands (e.g., Rebirth Brass Band)
+    - Ivan Neville
+    - 'Modern New Orleans brass bands (e.g., Rebirth Brass Band)'
   mentors:
-  - Danny Barker
+    - Danny Barker
 spotify_data:
   followers: 121
   id: 1QfF0NDvI75nW2SZ8L9iRA
   popularity: 9
-  url: https://open.spotify.com/artist/1QfF0NDvI75nW2SZ8L9iRA
+  url: 'https://open.spotify.com/artist/1QfF0NDvI75nW2SZ8L9iRA'
 discography_enriched: true
 top_tracks:
-- My Feet Can't Fail Me Now (Our New Orleans (Expanded Edition))
+  - My Feet Can't Fail Me Now (Our New Orleans (Expanded Edition))
 external_urls:
-  spotify: https://open.spotify.com/artist/1QfF0NDvI75nW2SZ8L9iRA
-  wikipedia: https://en.wikipedia.org/wiki/Dirty_Dozen_Brass_Band
+  spotify: 'https://open.spotify.com/artist/1QfF0NDvI75nW2SZ8L9iRA'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dirty_Dozen_Brass_Band'
 image_path: ''
 biography_enhanced_at: '2025-10-25T09:54:11.402554'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Dirty_Dozen_Brass_Band
-- https://en.wikipedia.org/wiki/Aaron_Neville
-- https://aaronneville.com
-- https://www.sfjazz.org/onthecorner/articles/over-45-years-of-musical-gumbo-with-the-dirty-dozen-brass-band/
-- https://relix.com/blogs/detail/video-premiere-aaron-neville-featuring-dirty-dozen-brass-band-stomping-ground-from-take-me-to-the-river-new-orleans/
+  - 'https://en.wikipedia.org/wiki/Dirty_Dozen_Brass_Band'
+  - 'https://en.wikipedia.org/wiki/Aaron_Neville'
+  - 'https://aaronneville.com'
+  - >-
+    https://www.sfjazz.org/onthecorner/articles/over-45-years-of-musical-gumbo-with-the-dirty-dozen-brass-band/
+  - >-
+    https://relix.com/blogs/detail/video-premiere-aaron-neville-featuring-dirty-dozen-brass-band-stomping-ground-from-take-me-to-the-river-new-orleans/
 network_extracted: true
 entry_created: '2025-10-25T09:54:11.402567'
 last_updated: '2025-12-23T08:16:04.348340'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+birth_place: 'New Orleans, Louisiana, United States'
+birth_date: '1941-01-24'
+artist_type: band
 ---
 
 ![]()

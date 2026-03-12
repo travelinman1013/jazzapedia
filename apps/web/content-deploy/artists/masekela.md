@@ -3,14 +3,14 @@ title: Masekela
 wiki_slug: masekela
 schema_version: 2
 status: active
-birth_place: Witbank, Mpumalanga, South Africa
+birth_place: 'Witbank, Mpumalanga, South Africa'
 genres:
-- afrobeat
+  - afrobeat
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/masekela.jpg
   caption: Masekela
   background: solo_singer
-  origin: Witbank, Mpumalanga, South Africa
+  origin: 'Witbank, Mpumalanga, South Africa'
 audio_profile:
   tempo_avg: 132.5
   energy_avg: 0.767
@@ -26,50 +26,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Miriam Makeba
-  - Paul Simon
-  - Ladysmith Black Mambazo
-  - Herb Alpert
+    - Miriam Makeba
+    - Paul Simon
+    - Ladysmith Black Mambazo
+    - Herb Alpert
   influenced:
-  - Contemporary South African jazz musicians
+    - Contemporary South African jazz musicians
   mentors:
-  - Father Trevor Huddleston
-  - Uncle Sauda
+    - Father Trevor Huddleston
+    - Uncle Sauda
 spotify_data:
   followers: 206
   id: 39Cjb9AetiVPAEeAdUCiBD
   popularity: 2
-  url: https://open.spotify.com/artist/39Cjb9AetiVPAEeAdUCiBD
+  url: 'https://open.spotify.com/artist/39Cjb9AetiVPAEeAdUCiBD'
 discography_enriched: true
 top_tracks:
-- Yei Baa Gbe Wolo (Rekpete Introducing Hedzoleh Soundz)
-- Rekpete (Rekpete Introducing Hedzoleh Soundz)
-- Kaa Ye Oya (Rekpete Introducing Hedzoleh Soundz)
-- Adade (Rekpete Introducing Hedzoleh Soundz)
-- Patience (Rekpete Introducing Hedzoleh Soundz)
-- When (Rekpete Introducing Hedzoleh Soundz)
-- Nye Tamo Ame (Fejl På CD) (Rekpete Introducing Hedzoleh Soundz)
-- Languta (Error on CD) (Rekpete Introducing Hedzoleh Soundz)
-- REKPETE (Rekpete Introducing HEDZOLEH SOUNDZ)
-- KAA YE OYA (Rekpete Introducing HEDZOLEH SOUNDZ)
+  - Yei Baa Gbe Wolo (Rekpete Introducing Hedzoleh Soundz)
+  - Rekpete (Rekpete Introducing Hedzoleh Soundz)
+  - Kaa Ye Oya (Rekpete Introducing Hedzoleh Soundz)
+  - Adade (Rekpete Introducing Hedzoleh Soundz)
+  - Patience (Rekpete Introducing Hedzoleh Soundz)
+  - When (Rekpete Introducing Hedzoleh Soundz)
+  - Nye Tamo Ame (Fejl På CD) (Rekpete Introducing Hedzoleh Soundz)
+  - Languta (Error on CD) (Rekpete Introducing Hedzoleh Soundz)
+  - REKPETE (Rekpete Introducing HEDZOLEH SOUNDZ)
+  - KAA YE OYA (Rekpete Introducing HEDZOLEH SOUNDZ)
 external_urls:
-  spotify: https://open.spotify.com/artist/39Cjb9AetiVPAEeAdUCiBD
-  wikipedia: https://en.wikipedia.org/wiki/Hugh_Masekela
+  spotify: 'https://open.spotify.com/artist/39Cjb9AetiVPAEeAdUCiBD'
+  wikipedia: 'https://en.wikipedia.org/wiki/Hugh_Masekela'
 image_path: 03_Resources/source_material/ArtistPortraits/masekela.jpg
 biography_enhanced_at: '2025-11-26T07:57:53.520906'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Hugh_Masekela
-- https://sahistory.org.za/people/hugh-masekela
-- https://www.ebsco.com/research-starters/biography/hugh-masekela
-- https://hughmasekela.co.za/biography/
-- https://dougpayne.com/hmbio.htm
-- https://aaregistry.org/story/trumpet-player-and-so-much-more-hugh-masekela/
+  - 'https://en.wikipedia.org/wiki/Hugh_Masekela'
+  - 'https://sahistory.org.za/people/hugh-masekela'
+  - 'https://www.ebsco.com/research-starters/biography/hugh-masekela'
+  - 'https://hughmasekela.co.za/biography/'
+  - 'https://dougpayne.com/hmbio.htm'
+  - 'https://aaregistry.org/story/trumpet-player-and-so-much-more-hugh-masekela/'
 network_extracted: true
 entry_created: '2025-11-26T07:57:53.520917'
 last_updated: '2025-12-23T08:16:12.810889'
-
+birth_date: '1939-04-04'
+artist_type: person
 ---
 
 ![](masekela.jpg)

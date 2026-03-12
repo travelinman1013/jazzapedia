@@ -5,11 +5,11 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1908-10-09'
-birth_place: Muskogee County
+birth_place: 'Fort Gibson, Oklahoma, United States'
 death_date: '1975-12-11'
 genres:
-- vocal jazz
-- big band
+  - vocal jazz
+  - big band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lee_wiley.jpg
   caption: Lee Wiley
@@ -32,59 +32,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Fats Waller
-  - Bud Freeman
-  - Billy Butterfield
-  - Eddie Condon
-  - Paul Whiteman
-  - Casa Loma Orchestra
-  - Johnny Green
-  - Ralph Burns
-  - Jess Stacy
+    - Fats Waller
+    - Bud Freeman
+    - Billy Butterfield
+    - Eddie Condon
+    - Paul Whiteman
+    - Casa Loma Orchestra
+    - Johnny Green
+    - Ralph Burns
+    - Jess Stacy
   influenced: []
   mentors:
-  - Victor Young
-  - Leo Reisman
+    - Victor Young
+    - Leo Reisman
 spotify_data:
   followers: 10927
   id: 1IRFfdGI95F5UTMST4udG3
   popularity: 33
-  url: https://open.spotify.com/artist/1IRFfdGI95F5UTMST4udG3
+  url: 'https://open.spotify.com/artist/1IRFfdGI95F5UTMST4udG3'
 discography_enriched: true
 top_tracks:
-- It's Only a Paper Moon (Follow Your Heart)
-- Oh Look At Me Now - Studio (The Total - Vol. 1)
-- It's Only a Paper Moon (A Ghost of a Chance)
-- A Ghost of a Chance - Studio (The Total - Vol. 1)
-- You Turned The Tables On Me (On The Air)
-- Here's Love In Your Eyes (On The Air)
-- Oh Look At Me Now (A Ghost of a Chance)
-- Looking at You (Sings the Songs of George & Ira Gershwin & Cole Porter)
-- Manhattan (Night in Manhattan)
-- You Do Something to Me (A Ghost of a Chance)
+  - It's Only a Paper Moon (Follow Your Heart)
+  - Oh Look At Me Now - Studio (The Total - Vol. 1)
+  - It's Only a Paper Moon (A Ghost of a Chance)
+  - A Ghost of a Chance - Studio (The Total - Vol. 1)
+  - You Turned The Tables On Me (On The Air)
+  - Here's Love In Your Eyes (On The Air)
+  - Oh Look At Me Now (A Ghost of a Chance)
+  - Looking at You (Sings the Songs of George & Ira Gershwin & Cole Porter)
+  - Manhattan (Night in Manhattan)
+  - You Do Something to Me (A Ghost of a Chance)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/679c9ffa-33b2-43fc-9e1b-8cfa4e730b3d
-  spotify: https://open.spotify.com/artist/1IRFfdGI95F5UTMST4udG3
-  wikipedia: https://en.wikipedia.org/wiki/Lee_Wiley
+  musicbrainz: 'https://musicbrainz.org/artist/679c9ffa-33b2-43fc-9e1b-8cfa4e730b3d'
+  spotify: 'https://open.spotify.com/artist/1IRFfdGI95F5UTMST4udG3'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lee_Wiley'
 image_path: 03_Resources/source_material/ArtistPortraits/lee_wiley.jpg
 biography_enhanced_at: '2025-11-03T07:30:59.781437'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Lee Wiley
-- IMDb - Lee Wiley Biography
-- Swing and Beyond - Manhattan (1950) Lee Wiley
-- Syncopated Times - Lee Wiley
-- Jazz Matters - Something About Lee Wiley
-- Jango Radio - Lee Wiley Full Bio
-- James Gavin's Website - Lee Wiley Live on Stage
+  - Wikipedia - Lee Wiley
+  - IMDb - Lee Wiley Biography
+  - Swing and Beyond - Manhattan (1950) Lee Wiley
+  - Syncopated Times - Lee Wiley
+  - Jazz Matters - Something About Lee Wiley
+  - Jango Radio - Lee Wiley Full Bio
+  - James Gavin's Website - Lee Wiley Live on Stage
 network_extracted: true
 entry_created: '2025-11-03T07:30:59.781454'
 last_updated: '2025-12-23T08:16:11.730748'
 gender: Female
 musicbrainz_id: 679c9ffa-33b2-43fc-9e1b-8cfa4e730b3d
 tags:
-- vocal jazz
+  - vocal jazz
+is_active: false
 ---
 
 ![](lee_wiley.jpg)

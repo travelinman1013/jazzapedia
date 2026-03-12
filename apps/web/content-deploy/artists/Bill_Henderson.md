@@ -3,15 +3,15 @@ title: Bill Henderson
 wiki_slug: bill-henderson
 schema_version: 2
 status: active
-birth_place: Chicago, Illinois, United States
+birth_place: 'Chicago, Illinois, United States'
 genres:
-- vocal jazz
-- jazz
+  - vocal jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Bill_Henderson.jpg
   caption: Bill Henderson
   background: solo_singer
-  origin: Chicago, Illinois, United States
+  origin: 'Chicago, Illinois, United States'
 audio_profile:
   tempo_avg: 107.2
   energy_avg: 0.178
@@ -27,51 +27,70 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Horace Silver
-  - Oscar Peterson Trio
-  - Count Basie
-  - Charlie Haden
-  - Jimmy Smith
-  - Yusef Lateef
-  - Eddie Harris
+    - Horace Silver
+    - Oscar Peterson Trio
+    - Count Basie
+    - Charlie Haden
+    - Jimmy Smith
+    - Yusef Lateef
+    - Eddie Harris
   influenced:
-  - Younger jazz vocalists (e.g., Gregory Porter, Kurt Elling)
+    - 'Younger jazz vocalists (e.g., Gregory Porter, Kurt Elling)'
   mentors:
-  - Ramsey Lewis
+    - Ramsey Lewis
 spotify_data:
   followers: 2378
   id: 2QAX1NsHShxdn1PQZuhYc5
   popularity: 12
-  url: https://open.spotify.com/artist/2QAX1NsHShxdn1PQZuhYc5
+  url: 'https://open.spotify.com/artist/2QAX1NsHShxdn1PQZuhYc5'
 discography_enriched: true
 top_tracks:
-- I've Got A Crush On You (Bill Henderson With The Oscar Peterson Trio (Expanded Edition))
-- At Long Last Love (Bill Henderson With The Oscar Peterson Trio (Expanded Edition))
-- The Lamp Is Low (Bill Henderson With The Oscar Peterson Trio (Expanded Edition))
-- You Are My Sunshine (Bill Henderson With The Oscar Peterson Trio (Expanded Edition))
-- Gravy Waltz (Bill Henderson With The Oscar Peterson Trio (Expanded Edition))
-- I've Got A Crush On You
-- All Or Nothing At All (Bill Henderson With The Oscar Peterson Trio (Expanded Edition))
-- I Wish You Love (Bill Henderson With The Oscar Peterson Trio (Expanded Edition))
-- A Lot Of Livin To Do (Bill Henderson With The Oscar Peterson Trio (Expanded Edition))
-- I See Your Face Before Me (Bill Henderson With The Oscar Peterson Trio (Expanded Edition))
+  - >-
+    I've Got A Crush On You (Bill Henderson With The Oscar Peterson Trio
+    (Expanded Edition))
+  - >-
+    At Long Last Love (Bill Henderson With The Oscar Peterson Trio (Expanded
+    Edition))
+  - >-
+    The Lamp Is Low (Bill Henderson With The Oscar Peterson Trio (Expanded
+    Edition))
+  - >-
+    You Are My Sunshine (Bill Henderson With The Oscar Peterson Trio (Expanded
+    Edition))
+  - Gravy Waltz (Bill Henderson With The Oscar Peterson Trio (Expanded Edition))
+  - I've Got A Crush On You
+  - >-
+    All Or Nothing At All (Bill Henderson With The Oscar Peterson Trio (Expanded
+    Edition))
+  - >-
+    I Wish You Love (Bill Henderson With The Oscar Peterson Trio (Expanded
+    Edition))
+  - >-
+    A Lot Of Livin To Do (Bill Henderson With The Oscar Peterson Trio (Expanded
+    Edition))
+  - >-
+    I See Your Face Before Me (Bill Henderson With The Oscar Peterson Trio
+    (Expanded Edition))
 external_urls:
-  spotify: https://open.spotify.com/artist/2QAX1NsHShxdn1PQZuhYc5
-  wikipedia: https://en.wikipedia.org/wiki/Bill_Henderson_(performer)
+  spotify: 'https://open.spotify.com/artist/2QAX1NsHShxdn1PQZuhYc5'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bill_Henderson_(performer)'
 image_path: 03_Resources/source_material/ArtistPortraits/Bill_Henderson.jpg
 biography_enhanced_at: '2025-10-20T01:40:08.686507'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Bill_Henderson_(performer)
-- https://www.allaboutjazz.com/musicians/bill-henderson/
-- https://jazztimes.com/features/tributes-and-obituaries/singer-bill-henderson-dies-at-90/
-- https://scvhistory.com/scvhistory/obituary_williamrandallhenderson.htm
-- https://www.imdb.com/name/nm0376347/bio/
-- https://www.allmusic.com/artist/bill-henderson-mn0000064830
+  - 'https://en.wikipedia.org/wiki/Bill_Henderson_(performer)'
+  - 'https://www.allaboutjazz.com/musicians/bill-henderson/'
+  - >-
+    https://jazztimes.com/features/tributes-and-obituaries/singer-bill-henderson-dies-at-90/
+  - 'https://scvhistory.com/scvhistory/obituary_williamrandallhenderson.htm'
+  - 'https://www.imdb.com/name/nm0376347/bio/'
+  - 'https://www.allmusic.com/artist/bill-henderson-mn0000064830'
 network_extracted: true
 entry_created: '2025-10-20T01:40:08.686525'
 last_updated: '2025-12-23T08:16:01.218726'
+birth_date: '1926-03-19'
+artist_type: person
 ---
 
 ![](Bill_Henderson.jpg)

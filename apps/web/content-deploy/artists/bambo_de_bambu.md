@@ -4,10 +4,10 @@ wiki_slug: bambo-de-bambu
 schema_version: 2
 status: active
 genres:
-- jazz blues
-- retro soul
-- jazz funk
-- acid jazz
+  - jazz blues
+  - retro soul
+  - jazz funk
+  - acid jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bambo_de_bambu.jpg
   caption: Bambo de Bambu
@@ -19,7 +19,7 @@ audio_profile:
   danceability_avg: 0.667
   acousticness_avg: 0.1
   instrumentalness_avg: 0.289
-  loudness_avg: -6.0
+  loudness_avg: -6
   speechiness_avg: 0.048
   liveness_avg: 0.183
   track_count: 50
@@ -28,39 +28,41 @@ similar_artists: []
 musical_connections:
   collaborators: []
   influenced:
-  - World Music Educators
+    - World Music Educators
   mentors:
-  - Traditional Samba Masters of Rio de Janeiro
+    - Traditional Samba Masters of Rio de Janeiro
 spotify_data:
   followers: 80181
   id: 1QVWN3ebl1dVgVbMgQPG8K
   popularity: 47
-  url: https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K
+  url: 'https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K'
 discography_enriched: true
 top_tracks:
-- The Wilhelm Scream (Medicine Man)
-- Hard Up (Hard Up (Deluxe Version))
-- I Don't Wanna Stop (Rawville)
-- On the Sly (4)
-- The Wilhelm Scream (Medicine Man)
-- I Got Burned (Medicine Man)
-- The Swimming Pool
-- If Not Now (Then When) (feat. Durand Jones) (Hard Up (Deluxe Version))
-- Tighten Up (Step It Up)
-- I Don't Wanna Stop (Rawville)
+  - The Wilhelm Scream (Medicine Man)
+  - Hard Up (Hard Up (Deluxe Version))
+  - I Don't Wanna Stop (Rawville)
+  - On the Sly (4)
+  - The Wilhelm Scream (Medicine Man)
+  - I Got Burned (Medicine Man)
+  - The Swimming Pool
+  - If Not Now (Then When) (feat. Durand Jones) (Hard Up (Deluxe Version))
+  - Tighten Up (Step It Up)
+  - I Don't Wanna Stop (Rawville)
 external_urls:
-  spotify: https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K
+  spotify: 'https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/bambo_de_bambu.jpg
 biography_enhanced_at: '2025-11-23T06:30:41.942379'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://allaroundthisworld.com/wp-content/uploads/2014/08/AATW-Latin-America-CLASSROOMS-song-info-faQ1SeGvTZyoZKP.pdf
+  - >-
+    https://allaroundthisworld.com/wp-content/uploads/2014/08/AATW-Latin-America-CLASSROOMS-song-info-faQ1SeGvTZyoZKP.pdf
 network_extracted: true
 entry_created: '2025-11-23T06:30:41.942389'
 last_updated: '2025-12-23T08:16:05.064745'
-
+origin: 'Rio de Janeiro, State of Rio de Janeiro, Brazil'
+artist_type: band
 ---
 
 ![](bambo_de_bambu.jpg)

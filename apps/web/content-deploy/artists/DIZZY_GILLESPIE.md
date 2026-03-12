@@ -1,30 +1,30 @@
 ---
-title: DIZZY GILLESPIE
+title: Dizzy Gillespie
 wiki_slug: dizzy-gillespie
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1917-10-21'
-birth_place: Cheraw, South Carolina, United States
+birth_place: 'Cheraw, South Carolina, United States'
 death_date: '1993-01-06'
 genres:
-- bebop
-- jazz
-- hard bop
-- latin jazz
-- big band
-- cool jazz
+  - bebop
+  - jazz
+  - hard bop
+  - latin jazz
+  - big band
+  - cool jazz
 instruments:
-- trumpet
-- eponymous
-- original
-- principal
+  - trumpet
+  - eponymous
+  - original
+  - principal
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/DIZZY_GILLESPIE.jpg
   caption: DIZZY GILLESPIE
   background: non_vocal_instrumentalist
   born: '1917-10-21'
-  origin: Cheraw, South Carolina, United States
+  origin: 'Cheraw, South Carolina, United States'
   died: '1993-01-06'
 audio_profile:
   tempo_avg: 124.1
@@ -41,51 +41,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Charlie Parker
-  - Chano Pozo
-  - Cab Calloway
-  - Earl Hines
-  - Ella Fitzgerald
+    - Charlie Parker
+    - Chano Pozo
+    - Cab Calloway
+    - Earl Hines
+    - Ella Fitzgerald
   influenced:
-  - Miles Davis
-  - Arturo Sandoval
-  - Jon Faddis
-  - Fats Navarro
-  - Clifford Brown
+    - Miles Davis
+    - Arturo Sandoval
+    - Jon Faddis
+    - Fats Navarro
+    - Clifford Brown
   mentors:
-  - Roy Eldridge
-  - His father
+    - Roy Eldridge
+    - His father
 spotify_data:
   followers: 469035
   id: 5RzjqfPS0Bu4bUMkyNNDpn
   popularity: 46
-  url: https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn
+  url: 'https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn'
 discography_enriched: true
 top_tracks:
-- 'All The Things You Are (Odyssey: 1945-1952)'
-- On The Sunny Side Of The Street (Dizzy 100)
-- 'A Night In Tunisia (Birks Works: The Verve Big-Band Sessions)'
-- Groovin' High (Groovin' High)
-- Salt Peanuts (Groovin' High)
-- Bang Bang (Talkin' Verve)
-- Unicorn (Free Ride)
-- Bang Bang (The Melody Lingers On)
-- Leap Frog - Take 11 / Take 6 / Master Take (Bird And Diz (Expanded Edition))
-- Relaxing With Lee - Take 6 / Take 3 / Master Take (Bird And Diz (Expanded Edition))
+  - 'All The Things You Are (Odyssey: 1945-1952)'
+  - On The Sunny Side Of The Street (Dizzy 100)
+  - 'A Night In Tunisia (Birks Works: The Verve Big-Band Sessions)'
+  - Groovin' High (Groovin' High)
+  - Salt Peanuts (Groovin' High)
+  - Bang Bang (Talkin' Verve)
+  - Unicorn (Free Ride)
+  - Bang Bang (The Melody Lingers On)
+  - Leap Frog - Take 11 / Take 6 / Master Take (Bird And Diz (Expanded Edition))
+  - >-
+    Relaxing With Lee - Take 6 / Take 3 / Master Take (Bird And Diz (Expanded
+    Edition))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e9ba8ccb-505f-4e5c-b909-65998d0d35b5
-  spotify: https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn
-  wikipedia: https://en.wikipedia.org/wiki/Dizzy_Gillespie
+  musicbrainz: 'https://musicbrainz.org/artist/e9ba8ccb-505f-4e5c-b909-65998d0d35b5'
+  spotify: 'https://open.spotify.com/artist/5RzjqfPS0Bu4bUMkyNNDpn'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dizzy_Gillespie'
 image_path: 03_Resources/source_material/ArtistPortraits/DIZZY_GILLESPIE.jpg
 biography_enhanced_at: '2025-10-20T01:56:12.403529'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Dizzy_Gillespie
-- https://www.biography.com/musicians/dizzy-gillespie
-- https://www.arts.gov/honors/jazz/john-birks-dizzy-gillespie
-- https://www.britannica.com/biography/Dizzy-Gillespie
-- https://www.polarmusicprize.org/laureates/dizzy-gillespie/
+  - 'https://en.wikipedia.org/wiki/Dizzy_Gillespie'
+  - 'https://www.biography.com/musicians/dizzy-gillespie'
+  - 'https://www.arts.gov/honors/jazz/john-birks-dizzy-gillespie'
+  - 'https://www.britannica.com/biography/Dizzy-Gillespie'
+  - 'https://www.polarmusicprize.org/laureates/dizzy-gillespie/'
 network_extracted: true
 entry_created: '2025-10-20T01:56:12.403548'
 last_updated: '2025-12-23T08:16:01.617106'
@@ -93,9 +95,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:23:39.677341'
 musicbrainz_id: e9ba8ccb-505f-4e5c-b909-65998d0d35b5
 tags:
-- 2008 universal fire victim
-- afro-cuban jazz
-- bebop
+  - 2008 universal fire victim
+  - afro-cuban jazz
+  - bebop
+is_active: false
 ---
 
 ![](DIZZY_GILLESPIE.jpg)

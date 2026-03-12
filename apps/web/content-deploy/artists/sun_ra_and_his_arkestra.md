@@ -4,10 +4,10 @@ wiki_slug: sun-ra-his-arkestra
 schema_version: 2
 status: active
 genres:
-- free jazz
-- jazz fusion
-- jazz
-- avant-garde
+  - free jazz
+  - jazz fusion
+  - jazz
+  - avant-garde
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sun_ra_and_his_arkestra.jpg
   caption: Sun Ra & His Arkestra
@@ -27,51 +27,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John Gilmore
-  - Marshall Allen
-  - Pat Patrick
-  - Alton Abraham
+    - John Gilmore
+    - Marshall Allen
+    - Pat Patrick
+    - Alton Abraham
   influenced:
-  - Pharoah Sanders
-  - George Clinton (Parliament-Funkadelic)
-  - Solange
-  - Kamasi Washington
+    - Pharoah Sanders
+    - George Clinton (Parliament-Funkadelic)
+    - Solange
+    - Kamasi Washington
   mentors:
-  - Fletcher Henderson
+    - Fletcher Henderson
 spotify_data:
   followers: 19857
   id: 1hATsMMFoS9KKP7yI6ENFw
   popularity: 27
-  url: https://open.spotify.com/artist/1hATsMMFoS9KKP7yI6ENFw
+  url: 'https://open.spotify.com/artist/1hATsMMFoS9KKP7yI6ENFw'
 discography_enriched: true
 top_tracks:
-- Springtime Again (Sleeping Beauty (Expanded Edition))
-- Door of the Cosmos (Sleeping Beauty (Expanded Edition))
-- That’s How I Feel - Remastered (Lanquidity (Definitive Edition))
-- Lanquidity - Remastered (Lanquidity (Definitive Edition))
-- Where Pathways Meet - Remastered (Lanquidity (Definitive Edition))
-- Sleeping Beauty - a.k.a. Black Beauty (Sleeping Beauty (Expanded Edition))
-- Twin Stars of Thence - Remastered (Lanquidity (Definitive Edition))
-- There Are Other Worlds (They Have Not Told You Of) - Remastered (Lanquidity (Definitive Edition))
-- Celestial Road (Sleeping Beauty (Expanded Edition))
-- Say (Sleeping Beauty (Expanded Edition))
+  - Springtime Again (Sleeping Beauty (Expanded Edition))
+  - Door of the Cosmos (Sleeping Beauty (Expanded Edition))
+  - That’s How I Feel - Remastered (Lanquidity (Definitive Edition))
+  - Lanquidity - Remastered (Lanquidity (Definitive Edition))
+  - Where Pathways Meet - Remastered (Lanquidity (Definitive Edition))
+  - Sleeping Beauty - a.k.a. Black Beauty (Sleeping Beauty (Expanded Edition))
+  - Twin Stars of Thence - Remastered (Lanquidity (Definitive Edition))
+  - >-
+    There Are Other Worlds (They Have Not Told You Of) - Remastered (Lanquidity
+    (Definitive Edition))
+  - Celestial Road (Sleeping Beauty (Expanded Edition))
+  - Say (Sleeping Beauty (Expanded Edition))
 external_urls:
-  spotify: https://open.spotify.com/artist/1hATsMMFoS9KKP7yI6ENFw
-  wikipedia: https://en.wikipedia.org/wiki/The_Sun_Ra_Arkestra
+  spotify: 'https://open.spotify.com/artist/1hATsMMFoS9KKP7yI6ENFw'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Sun_Ra_Arkestra'
 image_path: 03_Resources/source_material/ArtistPortraits/sun_ra_and_his_arkestra.jpg
 biography_enhanced_at: '2025-11-03T07:48:30.734724'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Sun_Ra_Arkestra
-- https://en.wikipedia.org/wiki/Sun_Ra
-- https://artyardrecords.co.uk/sun-ra-and-his-arkestra/
-- https://capsulerecords.co.uk/blogs/news/sun-ra-cosmic-guide-and-leader-of-the-arkestra
-- https://www.ebsco.com/research-starters/history/sun-ra
+  - 'https://en.wikipedia.org/wiki/The_Sun_Ra_Arkestra'
+  - 'https://en.wikipedia.org/wiki/Sun_Ra'
+  - 'https://artyardrecords.co.uk/sun-ra-and-his-arkestra/'
+  - >-
+    https://capsulerecords.co.uk/blogs/news/sun-ra-cosmic-guide-and-leader-of-the-arkestra
+  - 'https://www.ebsco.com/research-starters/history/sun-ra'
 network_extracted: true
 entry_created: '2025-11-03T07:48:30.734735'
 last_updated: '2025-12-23T08:16:16.220253'
-origin: Birmingham, Alabama, United States
+origin: 'Birmingham, Alabama, United States'
+birth_place: 'Birmingham, Alabama, United States'
+artist_type: band
 ---
 
 ![](sun_ra_and_his_arkestra.jpg)

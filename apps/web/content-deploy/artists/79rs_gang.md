@@ -2,7 +2,7 @@
 title: 79rs Gang
 wiki_slug: 79rs-gang
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres: []
 infobox:
@@ -10,7 +10,7 @@ infobox:
   caption: 79rs Gang
   background: group_or_band
 audio_profile:
-  tempo_avg: 112.0
+  tempo_avg: 112
   energy_avg: 0.737
   valence_avg: 0.486
   danceability_avg: 0.724
@@ -24,67 +24,70 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Eric Heigle
-  - Win Butler
-  - Korey Richey
-  - Nicholas Payton
-  - Lakou Mizik
-  - Theodore “Scoo” Gurley, Raja Kassis, Taylor Guarisco, Cesar Bacaro, Theron Anderson
+    - Eric Heigle
+    - Win Butler
+    - Korey Richey
+    - Nicholas Payton
+    - Lakou Mizik
+    - >-
+      Theodore “Scoo” Gurley, Raja Kassis, Taylor Guarisco, Cesar Bacaro, Theron
+      Anderson
   influenced:
-  - Contemporary Mardi Gras Indian musicians and New Orleans artists
+    - Contemporary Mardi Gras Indian musicians and New Orleans artists
   mentors:
-  - Rudy Bougere
-  - Raymond Lewis
+    - Rudy Bougere
+    - Raymond Lewis
 spotify_data:
   followers: 4734
   id: 2yQlvcbmpqAVYrWs2ALKVX
   popularity: 11
-  url: https://open.spotify.com/artist/2yQlvcbmpqAVYrWs2ALKVX
+  url: 'https://open.spotify.com/artist/2yQlvcbmpqAVYrWs2ALKVX'
 discography_enriched: true
 top_tracks:
-- 79rs Bout to Blow (Expect the Unexpected)
-- Iko Kreyòl (HaitiaNola)
-- Wrong Part of Town (Wrong Part of Town)
-- Pretty Big Chief (Expect the Unexpected)
-- Iko Kreyòl - HaitiaNola Album Version (Iko Kreyòl)
-- Iko Kreyòl - 79rs Gang Version (Iko Kreyòl)
-- Brand New Day (Expect the Unexpected)
-- Drama (Fire On the Bayou)
-- Culture Vulture (Expect the Unexpected)
-- Needle Don't Lie (Expect the Unexpected)
+  - 79rs Bout to Blow (Expect the Unexpected)
+  - Iko Kreyòl (HaitiaNola)
+  - Wrong Part of Town (Wrong Part of Town)
+  - Pretty Big Chief (Expect the Unexpected)
+  - Iko Kreyòl - HaitiaNola Album Version (Iko Kreyòl)
+  - Iko Kreyòl - 79rs Gang Version (Iko Kreyòl)
+  - Brand New Day (Expect the Unexpected)
+  - Drama (Fire On the Bayou)
+  - Culture Vulture (Expect the Unexpected)
+  - Needle Don't Lie (Expect the Unexpected)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9d7c95f4-9575-4b76-b541-1805417be13c
-  spotify: https://open.spotify.com/artist/2yQlvcbmpqAVYrWs2ALKVX
+  musicbrainz: 'https://musicbrainz.org/artist/9d7c95f4-9575-4b76-b541-1805417be13c'
+  spotify: 'https://open.spotify.com/artist/2yQlvcbmpqAVYrWs2ALKVX'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/79rs_gang.jpg
 biography_enhanced_at: '2025-10-22T09:27:43.060871'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://joshuatreemusicfestival.com/portfolio/79rs-gang/
-- https://montanafolkfestival.com/79rs-gang/
-- https://www.myspiltmilk.com/articles/79rs-gang-make-mardi-gras-indians-sound-at-home-in-2020
-- https://www.richmondfolkfestival.org/2022-performers-b/2022/8/8/79rs-gang
+  - 'https://joshuatreemusicfestival.com/portfolio/79rs-gang/'
+  - 'https://montanafolkfestival.com/79rs-gang/'
+  - >-
+    https://www.myspiltmilk.com/articles/79rs-gang-make-mardi-gras-indians-sound-at-home-in-2020
+  - 'https://www.richmondfolkfestival.org/2022-performers-b/2022/8/8/79rs-gang'
 network_extracted: true
 entry_created: '2025-10-22T09:27:43.060882'
 last_updated: '2025-12-23T08:16:00.913933'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4f5e9022-eef3-4792-93f1-cdb7ea4e39b7
-  name: Jermaine Bossier
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c6502e79-7672-4734-b02d-0605d7eda1d2
-  name: Romeo Bougere
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4f5e9022-eef3-4792-93f1-cdb7ea4e39b7
+    name: Jermaine Bossier
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c6502e79-7672-4734-b02d-0605d7eda1d2
+    name: Romeo Bougere
 musicbrainz_id: 9d7c95f4-9575-4b76-b541-1805417be13c
-origin: New Orleans, Louisiana, USA
+origin: 'New Orleans, Louisiana, USA'
 tags:
-- electronic
-- hip hop
-- mardi gras indian
+  - electronic
+  - hip hop
+  - mardi gras indian
 ---
 
 ![](79rs_gang.jpg)

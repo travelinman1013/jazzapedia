@@ -2,13 +2,13 @@
 title: The Detroit Cobras
 wiki_slug: the-detroit-cobras
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
-birth_date: '1996'
+birth_date: '1995'
 genres:
-- garage rock
-- rockabilly
-- psychobilly
+  - garage rock
+  - rockabilly
+  - psychobilly
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_detroit_cobras.jpg
   caption: The Detroit Cobras
@@ -21,7 +21,7 @@ audio_profile:
   danceability_avg: 0.466
   acousticness_avg: 0.104
   instrumentalness_avg: 0.064
-  loudness_avg: -6.0
+  loudness_avg: -6
   speechiness_avg: 0.053
   liveness_avg: 0.186
   track_count: 49
@@ -29,123 +29,123 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Rachel Nagy
-  - Maribel Restrepo (Mary Ramirez)
-  - Greg Cartwright (Reigning Sound/Oblivians)
-  - Steve Shaw
-  - Jack White
+    - Rachel Nagy
+    - Maribel Restrepo (Mary Ramirez)
+    - Greg Cartwright (Reigning Sound/Oblivians)
+    - Steve Shaw
+    - Jack White
   influenced: []
   mentors:
-  - Alex Chilton
+    - Alex Chilton
 spotify_data:
   followers: 63488
   id: 4tWFXbJnjC9lM3UzmOpUiR
   popularity: 35
-  url: https://open.spotify.com/artist/4tWFXbJnjC9lM3UzmOpUiR
+  url: 'https://open.spotify.com/artist/4tWFXbJnjC9lM3UzmOpUiR'
 discography_enriched: true
 top_tracks:
-- Midnite Blues (Mink, Rat or Rabbit)
-- Cha-Cha Twist (Mink, Rat or Rabbit)
-- Hey Sa-Lo-Ney (Life, Love And Leaving)
-- Shout Bamalama (Life, Love And Leaving)
-- Bad Girl (Mink, Rat or Rabbit)
-- Feel Good
-- Putty (In Your Hands) (Mink, Rat or Rabbit)
-- I'll Keep Holding On (Mink, Rat or Rabbit)
-- Village of Love (The Original Recordings)
-- Leave My Kitten Alone (Tied and True)
+  - 'Midnite Blues (Mink, Rat or Rabbit)'
+  - 'Cha-Cha Twist (Mink, Rat or Rabbit)'
+  - 'Hey Sa-Lo-Ney (Life, Love And Leaving)'
+  - 'Shout Bamalama (Life, Love And Leaving)'
+  - 'Bad Girl (Mink, Rat or Rabbit)'
+  - Feel Good
+  - 'Putty (In Your Hands) (Mink, Rat or Rabbit)'
+  - 'I''ll Keep Holding On (Mink, Rat or Rabbit)'
+  - Village of Love (The Original Recordings)
+  - Leave My Kitten Alone (Tied and True)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9b8d6e11-05a4-4688-9d96-ad746bfedc41
-  spotify: https://open.spotify.com/artist/4tWFXbJnjC9lM3UzmOpUiR
+  musicbrainz: 'https://musicbrainz.org/artist/9b8d6e11-05a4-4688-9d96-ad746bfedc41'
+  spotify: 'https://open.spotify.com/artist/4tWFXbJnjC9lM3UzmOpUiR'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/the_detroit_cobras.jpg
 biography_enhanced_at: '2025-12-19T01:50:06.872035'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://mokbpresents.com/artist/the-detroit-cobras/
-- https://www.last.fm/music/The+Detroit+Cobras/+wiki
-- https://www.theaudiodb.com/artist/133711-The-Detroit-Cobras
-- https://detroitisit.com/the-enchanted-sounds-of-detroit-cobras/
+  - 'https://mokbpresents.com/artist/the-detroit-cobras/'
+  - 'https://www.last.fm/music/The+Detroit+Cobras/+wiki'
+  - 'https://www.theaudiodb.com/artist/133711-The-Detroit-Cobras'
+  - 'https://detroitisit.com/the-enchanted-sounds-of-detroit-cobras/'
 network_extracted: true
 entry_created: '2025-12-19T01:50:06.872052'
 last_updated: '2025-12-23T08:16:16.721530'
 members:
-- begin: '2001'
-  end: '2001'
-  instruments: []
-  mbid: 6827b2a0-cfb2-4e70-b1f9-fb3b0444e305
-  name: Dante Aliano
-- begin: '2001'
-  end: '2003'
-  instruments: []
-  mbid: 7a2a8977-6268-4110-8943-61e63310687f
-  name: Eddie Harsch
-- &id001
-  begin: '2001'
-  end: ''
-  instruments: []
-  mbid: 3d47d591-8af9-4a28-be95-375c17b81273
-  name: Steve Nawara
-- &id002
-  begin: '2001'
-  end: ''
-  instruments: []
-  mbid: e498e856-cae9-407a-adf6-ab28c284c8e6
-  name: John Szymanski
-- begin: ''
-  end: '1998'
-  instruments: []
-  mbid: a6ea1cff-0440-4473-9968-c8f8d6401f59
-  name: Jeff Meier
-- begin: ''
-  end: '1998'
-  instruments: []
-  mbid: e6a699f8-7336-4498-b1dc-0fd90c1d503c
-  name: Steve Shaw
-- begin: ''
-  end: '2001'
-  instruments: []
-  mbid: 0841e743-f2cd-4d34-b557-98b00bbad32b
-  name: Damian Lang
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: df993dd6-2996-4e9a-b697-2c6d5659c692
-  name: Chris Fachini
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d13b7767-e931-461e-8fd8-4538649bdff9
-  name: Joey Mazzola
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5f13012a-b714-4149-a5aa-c130a8400113
-  name: Rachel Nagy
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ff51f549-66a1-4caf-97b6-623aae9c1046
-  name: Matt O'Brien
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: fc47ca66-d24f-4c13-897c-a41ab474ac80
-  name: Maribel Restrepo
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 825571b9-b829-439f-9fe8-935b48c631fa
-  name: Kenny Tudrick
+  - begin: '2001'
+    end: '2001'
+    instruments: []
+    mbid: 6827b2a0-cfb2-4e70-b1f9-fb3b0444e305
+    name: Dante Aliano
+  - begin: '2001'
+    end: '2003'
+    instruments: []
+    mbid: 7a2a8977-6268-4110-8943-61e63310687f
+    name: Eddie Harsch
+  - &ref_0
+    begin: '2001'
+    end: ''
+    instruments: []
+    mbid: 3d47d591-8af9-4a28-be95-375c17b81273
+    name: Steve Nawara
+  - &ref_1
+    begin: '2001'
+    end: ''
+    instruments: []
+    mbid: e498e856-cae9-407a-adf6-ab28c284c8e6
+    name: John Szymanski
+  - begin: ''
+    end: '1998'
+    instruments: []
+    mbid: a6ea1cff-0440-4473-9968-c8f8d6401f59
+    name: Jeff Meier
+  - begin: ''
+    end: '1998'
+    instruments: []
+    mbid: e6a699f8-7336-4498-b1dc-0fd90c1d503c
+    name: Steve Shaw
+  - begin: ''
+    end: '2001'
+    instruments: []
+    mbid: 0841e743-f2cd-4d34-b557-98b00bbad32b
+    name: Damian Lang
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: df993dd6-2996-4e9a-b697-2c6d5659c692
+    name: Chris Fachini
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d13b7767-e931-461e-8fd8-4538649bdff9
+    name: Joey Mazzola
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5f13012a-b714-4149-a5aa-c130a8400113
+    name: Rachel Nagy
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ff51f549-66a1-4caf-97b6-623aae9c1046
+    name: Matt O'Brien
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: fc47ca66-d24f-4c13-897c-a41ab474ac80
+    name: Maribel Restrepo
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 825571b9-b829-439f-9fe8-935b48c631fa
+    name: Kenny Tudrick
 musicbrainz_id: 9b8d6e11-05a4-4688-9d96-ad746bfedc41
-origin: Detroit
+origin: 'Detroit, Michigan, United States'
 original_members:
-- *id001
-- *id002
+  - *ref_0
+  - *ref_1
 tags:
-- garage rock
-- rock and indie
+  - garage rock
+  - rock and indie
 ---
 
 ![](the_detroit_cobras.jpg)

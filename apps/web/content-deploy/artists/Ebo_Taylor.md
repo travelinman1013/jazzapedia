@@ -3,16 +3,16 @@ title: Ebo Taylor
 wiki_slug: ebo-taylor
 schema_version: 2
 status: active
-birth_place: Saltpond, Central Region, Ghana
+birth_place: 'Saltpond, Central Region, Ghana'
 genres:
-- highlife
-- afrobeat
-- afropop
+  - highlife
+  - afrobeat
+  - afropop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Ebo_Taylor.jpg
   caption: Ebo Taylor
   background: solo_singer
-  origin: Saltpond, Central Region, Ghana
+  origin: 'Saltpond, Central Region, Ghana'
 audio_profile:
   tempo_avg: 109.6
   energy_avg: 0.762
@@ -28,47 +28,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Fela Kuti
-  - Pat Thomas
-  - C.K. Mann
-  - Teddy Osei and Sol Amarfio
+    - Fela Kuti
+    - Pat Thomas
+    - C.K. Mann
+    - Teddy Osei and Sol Amarfio
   influenced:
-  - Gyedu-Blay Ambolley
-  - Modern Ghanaian and international afrobeat/highlife artists
+    - Gyedu-Blay Ambolley
+    - Modern Ghanaian and international afrobeat/highlife artists
   mentors:
-  - Taylor's father
+    - Taylor's father
 spotify_data:
   followers: 109247
   id: 2gR0iQTVBPHDKiNn1Kq8HI
   popularity: 41
-  url: https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI
+  url: 'https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI'
 discography_enriched: true
 top_tracks:
-- Love and Death (Love & Death)
-- Eye Nyam Nam 'A' Mensuro - Henrik Schwarz Blend
-- Heaven (Ebo Taylor)
-- Will You Promise (My Love and Music)
-- Atwer Abroba (Life Stories)
-- Saana (Ebo Taylor)
-- Victory - Instrumental (Love & Death)
-- Yen Ara (Yen Ara)
-- Peace On Earth (Life Stories)
-- Aboa Kyirbin (Yen Ara)
+  - Love and Death (Love & Death)
+  - Eye Nyam Nam 'A' Mensuro - Henrik Schwarz Blend
+  - Heaven (Ebo Taylor)
+  - Will You Promise (My Love and Music)
+  - Atwer Abroba (Life Stories)
+  - Saana (Ebo Taylor)
+  - Victory - Instrumental (Love & Death)
+  - Yen Ara (Yen Ara)
+  - Peace On Earth (Life Stories)
+  - Aboa Kyirbin (Yen Ara)
 external_urls:
-  spotify: https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI
-  wikipedia: https://en.wikipedia.org/wiki/Ebo_Taylor
+  spotify: 'https://open.spotify.com/artist/2gR0iQTVBPHDKiNn1Kq8HI'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ebo_Taylor'
 image_path: 03_Resources/source_material/ArtistPortraits/Ebo_Taylor.jpg
 biography_enhanced_at: '2025-10-19T12:01:26.582913'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://bbemusic.com/artist/ebo-taylor
-- https://sungenre.com/artist/ebo-taylor/
-- https://www.laphil.com/musicdb/artists/9476/ebo-taylor
-- https://postgenre.org/protecting-the-history-a-conversation-with-ebo-taylor/
+  - 'https://bbemusic.com/artist/ebo-taylor'
+  - 'https://sungenre.com/artist/ebo-taylor/'
+  - 'https://www.laphil.com/musicdb/artists/9476/ebo-taylor'
+  - 'https://postgenre.org/protecting-the-history-a-conversation-with-ebo-taylor/'
 network_extracted: true
 entry_created: '2025-10-19T12:01:26.582918'
 last_updated: '2025-12-23T08:16:01.848881'
+artist_type: person
 ---
 
 ![](Ebo_Taylor.jpg)

@@ -1,15 +1,15 @@
 ---
-title: BIG AMOS PATTON
+title: Big Amos Patton
 wiki_slug: big-amos-patton
 schema_version: 2
 status: active
-birth_place: Sardis, Mississippi, USA
+birth_place: 'Sardis, Mississippi, USA'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/big_amos_patton.jpg
   caption: BIG AMOS PATTON
   background: solo_singer
-  origin: Sardis, Mississippi, USA
+  origin: 'Sardis, Mississippi, USA'
 audio_profile:
   tempo_avg: 116.3
   energy_avg: 0.58
@@ -25,44 +25,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - James Henry
-  - Big Boy Anderson
-  - Willie Mitchell
+    - James Henry
+    - Big Boy Anderson
+    - Willie Mitchell
   influenced: []
   mentors:
-  - Charley Patton
+    - Charley Patton
 spotify_data:
   followers: 66
   id: 0EU1Wu3j3DNp6S1R3kx9oJ
   popularity: 2
-  url: https://open.spotify.com/artist/0EU1Wu3j3DNp6S1R3kx9oJ
+  url: 'https://open.spotify.com/artist/0EU1Wu3j3DNp6S1R3kx9oJ'
 discography_enriched: true
 top_tracks:
-- Going to Vietnam (The Blues Sessions)
-- I'm Gone (The Blues Sessions)
-- You're Too Young (The Blues Sessions)
-- Move with Me Baby (The Blues Sessions)
-- He Won't Bite Me Twice (The Blues Sessions)
-- Dog Man (The Blues Sessions)
-- He Won't Bite Me Twice (The Blues Sessions)
-- Move with Me Baby (The Blues Sessions)
-- Going to Vietnam (The Blues Sessions)
-- I'm Gone (The Blues Sessions)
+  - Going to Vietnam (The Blues Sessions)
+  - I'm Gone (The Blues Sessions)
+  - You're Too Young (The Blues Sessions)
+  - Move with Me Baby (The Blues Sessions)
+  - He Won't Bite Me Twice (The Blues Sessions)
+  - Dog Man (The Blues Sessions)
+  - He Won't Bite Me Twice (The Blues Sessions)
+  - Move with Me Baby (The Blues Sessions)
+  - Going to Vietnam (The Blues Sessions)
+  - I'm Gone (The Blues Sessions)
 external_urls:
-  spotify: https://open.spotify.com/artist/0EU1Wu3j3DNp6S1R3kx9oJ
+  spotify: 'https://open.spotify.com/artist/0EU1Wu3j3DNp6S1R3kx9oJ'
   wikipedia: ''
 image_path: ''
 biography_enhanced_at: '2025-12-23T02:02:35.702333'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- 'YouTube: Big Amos Patton - B3 - I''m Gone [1]'
-- 'Apple Music: BIG AMOS PATTON [4]'
-- 'Mississippi Blues Trail: Memphis Blues [3]'
-- 'YouTube: Big Amos 1966 - "He Won''t Bite Me Twice" [6]'
+  - 'YouTube: Big Amos Patton - B3 - I''m Gone [1]'
+  - 'Apple Music: BIG AMOS PATTON [4]'
+  - 'Mississippi Blues Trail: Memphis Blues [3]'
+  - 'YouTube: Big Amos 1966 - "He Won''t Bite Me Twice" [6]'
 network_extracted: true
 entry_created: '2025-12-23T02:02:35.702354'
 last_updated: '2025-12-23T08:16:05.400210'
+artist_type: person
 ---
 
 ![]()

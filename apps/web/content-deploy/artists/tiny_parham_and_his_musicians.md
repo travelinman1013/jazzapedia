@@ -1,15 +1,16 @@
 ---
-title: TINY PARHAM AND HIS MUSICIANS
+title: Tiny Parham and His Musicians
 wiki_slug: tiny-parham-and-his-musicians
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 genres:
-- ragtime
+  - ragtime
 instruments:
-- trombone
+  - trombone
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/tiny_parham_and_his_musicians.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/tiny_parham_and_his_musicians.jpg
   caption: TINY PARHAM AND HIS MUSICIANS
   background: group_or_band
 audio_profile:
@@ -27,68 +28,73 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Punch Miller
-  - Papa Charlie Jackson
-  - Junie Cobb
-  - Milt Hinton
-  - Johnny Dodds
+    - Punch Miller
+    - Papa Charlie Jackson
+    - Junie Cobb
+    - Milt Hinton
+    - Johnny Dodds
   influenced:
-  - R. Crumb
+    - R. Crumb
   mentors:
-  - James Scott
+    - James Scott
 spotify_data:
   followers: 470
   id: 71ppC6wGBMjUehXuQpBige
   popularity: 6
-  url: https://open.spotify.com/artist/71ppC6wGBMjUehXuQpBige
+  url: 'https://open.spotify.com/artist/71ppC6wGBMjUehXuQpBige'
 discography_enriched: true
 top_tracks:
-- Stuttering Blues (Roaring 20's Revue Vol. 1)
-- Washboard Wiggles (Tiny Parham 1928-1930)
-- Voodoo (Tiny Parham 1928-1930)
-- Back to the Jungle (Tiny Parham 1928-1930)
-- Stuttering Blues (Tiny Parham 1928-1930)
-- Cuckoo Blues (Tiny Parham 1928-1930)
-- Jogo Rhythm (Tiny Parham 1928-1930)
-- Washboard Wiggles (Jugs, Washboards & Kazoos)
-- The Head Hunter's Dream (Tiny Parham 1928-1930)
-- Jungle Crawl (Tiny Parham 1928-1930)
+  - Stuttering Blues (Roaring 20's Revue Vol. 1)
+  - Washboard Wiggles (Tiny Parham 1928-1930)
+  - Voodoo (Tiny Parham 1928-1930)
+  - Back to the Jungle (Tiny Parham 1928-1930)
+  - Stuttering Blues (Tiny Parham 1928-1930)
+  - Cuckoo Blues (Tiny Parham 1928-1930)
+  - Jogo Rhythm (Tiny Parham 1928-1930)
+  - 'Washboard Wiggles (Jugs, Washboards & Kazoos)'
+  - The Head Hunter's Dream (Tiny Parham 1928-1930)
+  - Jungle Crawl (Tiny Parham 1928-1930)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3901af01-7659-40ab-9b8e-0f837f39f07d
-  spotify: https://open.spotify.com/artist/71ppC6wGBMjUehXuQpBige
-  wikipedia: https://en.wikipedia.org/wiki/Tiny_Parham
+  musicbrainz: 'https://musicbrainz.org/artist/3901af01-7659-40ab-9b8e-0f837f39f07d'
+  spotify: 'https://open.spotify.com/artist/71ppC6wGBMjUehXuQpBige'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tiny_Parham'
 image_path: 03_Resources/source_material/ArtistPortraits/tiny_parham_and_his_musicians.jpg
 biography_enhanced_at: '2025-10-23T07:22:23.390819'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Tiny_Parham
-- http://oldtimeblues.net/2025/02/25/victor-v-38041-tiny-parham-and-his-musicians-1929/
-- https://artmusiclounge.wordpress.com/2016/03/14/tiny-parham-the-jogo-rhythm-man/
+  - 'https://en.wikipedia.org/wiki/Tiny_Parham'
+  - >-
+    http://oldtimeblues.net/2025/02/25/victor-v-38041-tiny-parham-and-his-musicians-1929/
+  - >-
+    https://artmusiclounge.wordpress.com/2016/03/14/tiny-parham-the-jogo-rhythm-man/
 network_extracted: true
 entry_created: '2025-10-23T07:22:23.390832'
 last_updated: '2025-12-23T08:16:17.493483'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - trombone
-  mbid: bad73af9-f503-422d-821e-47805a0badbf
-  name: Charles Lawson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3c590192-3f01-4414-ab35-fc0e419fcfef
-  name: Big Mike McKendrick
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6f1811c1-cb05-4e0d-9544-2311517e7784
-  name: Tiny Parham
+  - begin: ''
+    end: ''
+    instruments:
+      - trombone
+    mbid: bad73af9-f503-422d-821e-47805a0badbf
+    name: Charles Lawson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3c590192-3f01-4414-ab35-fc0e419fcfef
+    name: Big Mike McKendrick
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6f1811c1-cb05-4e0d-9544-2311517e7784
+    name: Tiny Parham
 musicbrainz_id: 3901af01-7659-40ab-9b8e-0f837f39f07d
-origin: Winnipeg, Manitoba, Canada
+origin: 'Winnipeg, Manitoba, Canada'
 tags:
-- jazz
+  - jazz
+birth_place: 'Winnipeg, Manitoba, Canada'
+birth_date: '1900-02-25'
+death_date: '1943-04-04'
 ---
 
 ![](tiny_parham_and_his_musicians.jpg)

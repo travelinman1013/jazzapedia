@@ -1,90 +1,89 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-01-01T01:07:29.562397'
 birth_date: '1998'
 enhancement_provider: perplexity
 entry_created: '2026-01-01T01:07:29.562407'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ea5883b7-68ce-48b3-b115-61746ea53b8c
-  spotify: https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM
-  wikipedia: https://en.wikipedia.org/wiki/My_Morning_Jacket
+  musicbrainz: 'https://musicbrainz.org/artist/ea5883b7-68ce-48b3-b115-61746ea53b8c'
+  spotify: 'https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM'
+  wikipedia: 'https://en.wikipedia.org/wiki/My_Morning_Jacket'
 genres:
-- alt country
+  - alt country
 image_path: 03_Resources/source_material/ArtistPortraits/my_morning_jacket.jpg
 last_updated: '2026-01-01T01:07:29.562409'
 members:
-- begin: ''
-  end: '2004-01-19'
-  instruments: []
-  mbid: f4f2cd5e-4731-4239-af34-7677a06cb15b
-  name: Danny Cash
-- begin: ''
-  end: '2004-01-19'
-  instruments: []
-  mbid: 3562cd63-6ffe-439c-ad08-2f812da285ba
-  name: Johnny Quaid
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d2f3bab3-a449-451a-aba3-1511774bfa81
-  name: Carl Broemel
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c285b03a-1232-4a01-a30d-9627e708b596
-  name: Patrick Hallahan
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b7c4125d-2867-4e29-ba44-b19a69309c68
-  name: Jim James
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8238da5d-d719-4bb9-9bb9-f0c7160e347e
-  name: Bo Koster
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 49b2bbcf-d3c4-4366-9820-049613107864
-  name: Two-Tone Tommy
+  - begin: ''
+    end: '2004-01-19'
+    instruments: []
+    mbid: f4f2cd5e-4731-4239-af34-7677a06cb15b
+    name: Danny Cash
+  - begin: ''
+    end: '2004-01-19'
+    instruments: []
+    mbid: 3562cd63-6ffe-439c-ad08-2f812da285ba
+    name: Johnny Quaid
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d2f3bab3-a449-451a-aba3-1511774bfa81
+    name: Carl Broemel
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c285b03a-1232-4a01-a30d-9627e708b596
+    name: Patrick Hallahan
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b7c4125d-2867-4e29-ba44-b19a69309c68
+    name: Jim James
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8238da5d-d719-4bb9-9bb9-f0c7160e347e
+    name: Bo Koster
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 49b2bbcf-d3c4-4366-9820-049613107864
+    name: Two-Tone Tommy
 musical_connections:
   collaborators:
-  - Johnny Quaid
-  - Danny Cash
-  - Two-Tone Tommy Blankenship
-  - Patrick Hallahan
-  - Carl Broemel
-  - Bo Koster
+    - Johnny Quaid
+    - Danny Cash
+    - Two-Tone Tommy Blankenship
+    - Patrick Hallahan
+    - Carl Broemel
+    - Bo Koster
   influenced: []
   mentors:
-  - Nirvana
-  - R.E.M.
-  - John Leckie
+    - Nirvana
+    - R.E.M.
+    - John Leckie
 musicbrainz_id: ea5883b7-68ce-48b3-b115-61746ea53b8c
 network_extracted: true
-origin: Louisville
+origin: 'Louisville, Kentucky, United States'
 primary_source: perplexity
 research_sources:
-- https://www.pastemagazine.com/music/my-morning-jacket/my-morning-jacket
-- https://www.last.fm/music/My+Morning+Jacket/+wiki
-- https://www.thefactorystl.com/artist/my-morning-jacket/
-- https://mmusicmag.com/m/2011/08/my-morning-jacket/
-- https://floodmagazine.com/95204/my-morning-jacket-digital-cover-story/
-- https://www.cincinnatimagazine.com/article/my-morning-jacket/
-- https://gardenandgun.com/articles/my-morning-jacket-rocks-on/
+  - 'https://www.pastemagazine.com/music/my-morning-jacket/my-morning-jacket'
+  - 'https://www.last.fm/music/My+Morning+Jacket/+wiki'
+  - 'https://www.thefactorystl.com/artist/my-morning-jacket/'
+  - 'https://mmusicmag.com/m/2011/08/my-morning-jacket/'
+  - 'https://floodmagazine.com/95204/my-morning-jacket-digital-cover-story/'
+  - 'https://www.cincinnatimagazine.com/article/my-morning-jacket/'
+  - 'https://gardenandgun.com/articles/my-morning-jacket-rocks-on/'
 spotify_data:
   followers: 594927
   id: 43O3c6wewpzPKwVaGEEtBM
   popularity: 54
-  url: https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM
+  url: 'https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM'
 status: active
 tags:
-- alternative country
-- alternative rock
-- indie rock
+  - alternative country
+  - alternative rock
+  - indie rock
 title: My Morning Jacket
-
 ---
 
 ![](my_morning_jacket.jpg)

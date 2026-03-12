@@ -1,17 +1,17 @@
 ---
-title: Pasadena Roof Orchestra
+title: The Pasadena Roof Orchestra
 wiki_slug: pasadena-roof-orchestra
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1969'
 genres:
-- swing music
+  - swing music
 instruments:
-- drums (drum set)
-- alto saxophone
-- trumpet
-- piano
+  - drums (drum set)
+  - alto saxophone
+  - trumpet
+  - piano
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/pasadena_roof_orchestra.jpg
   caption: Pasadena Roof Orchestra
@@ -24,7 +24,7 @@ audio_profile:
   danceability_avg: 0.632
   acousticness_avg: 0.685
   instrumentalness_avg: 0.119
-  loudness_avg: -12.0
+  loudness_avg: -12
   speechiness_avg: 0.052
   liveness_avg: 0.155
   track_count: 50
@@ -32,135 +32,134 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John Sutton
-  - Michael Holmes
-  - Enrico Tomasso
-  - John 'Pazz' Parry
-  - Duncan Galloway
-  - Bryan Ferry
-  - Robbie Williams
+    - John Sutton
+    - Michael Holmes
+    - Enrico Tomasso
+    - John 'Pazz' Parry
+    - Duncan Galloway
+    - Bryan Ferry
+    - Robbie Williams
   influenced: []
   mentors:
-  - New Orleans Jazz Tradition
+    - New Orleans Jazz Tradition
 spotify_data:
   followers: 287
   id: 4LeJzY8geKD6UUnMRLR00o
   popularity: 12
-  url: https://open.spotify.com/artist/4LeJzY8geKD6UUnMRLR00o
+  url: 'https://open.spotify.com/artist/4LeJzY8geKD6UUnMRLR00o'
 discography_enriched: true
 top_tracks:
-- Putting on the Ritz (Pasadena - 25th Anniversary Album)
-- You're the Top (Licensed to Swing)
-- Sweet Georgia Brown (Breakaway)
-- Bel Ami (Licensed to Swing)
-- Home in Pasadena (Pasadena - 25th Anniversary Album)
-- Happy Feet (Happy Feet)
-- You Ought to See Sally on Sunday (Pasadena - 25th Anniversary Album)
-- You're My Everything (Pasadena - 25th Anniversary Album)
-- The Continental (Breakaway)
-- No Strings (Licensed to Swing)
+  - Putting on the Ritz (Pasadena - 25th Anniversary Album)
+  - You're the Top (Licensed to Swing)
+  - Sweet Georgia Brown (Breakaway)
+  - Bel Ami (Licensed to Swing)
+  - Home in Pasadena (Pasadena - 25th Anniversary Album)
+  - Happy Feet (Happy Feet)
+  - You Ought to See Sally on Sunday (Pasadena - 25th Anniversary Album)
+  - You're My Everything (Pasadena - 25th Anniversary Album)
+  - The Continental (Breakaway)
+  - No Strings (Licensed to Swing)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/193c6fbc-896b-41c6-b3d0-b1f11b52cb72
-  spotify: https://open.spotify.com/artist/4LeJzY8geKD6UUnMRLR00o
+  musicbrainz: 'https://musicbrainz.org/artist/193c6fbc-896b-41c6-b3d0-b1f11b52cb72'
+  spotify: 'https://open.spotify.com/artist/4LeJzY8geKD6UUnMRLR00o'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/pasadena_roof_orchestra.jpg
 biography_enhanced_at: '2025-11-23T06:23:38.657184'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- TheAudioDB.com - Pasadena Roof Orchestra artist profile
-- Pasadena Records - Swing That Music! PDF history document
-- Pasadena Roof Orchestra official website
-- St George's Arts - Pasadena Roof Orchestra biography
-- National Jazz Archive - John Arthy biography
-- Pasadena Records - Birth of a Cult history page
-- Syncopated Times - The Pasadena Roof Orchestra Marks 50 Years
-- Last.fm - The Pasadena Roof Orchestra biography
+  - TheAudioDB.com - Pasadena Roof Orchestra artist profile
+  - Pasadena Records - Swing That Music! PDF history document
+  - Pasadena Roof Orchestra official website
+  - St George's Arts - Pasadena Roof Orchestra biography
+  - National Jazz Archive - John Arthy biography
+  - Pasadena Records - Birth of a Cult history page
+  - Syncopated Times - The Pasadena Roof Orchestra Marks 50 Years
+  - Last.fm - The Pasadena Roof Orchestra biography
 network_extracted: true
 entry_created: '2025-11-23T06:23:38.657193'
 last_updated: '2025-12-23T08:16:13.971063'
 disambiguation: English jazz/swing band
 members:
-- begin: '1980'
-  end: '2005'
-  instruments:
-  - drums (drum set)
-  mbid: 7043ad91-65ad-4935-ba1e-5627c42f6129
-  name: John Sutton
-- &id001
-  begin: '1981'
-  end: ''
-  instruments:
-  - alto saxophone
-  mbid: c89c1f58-f4ef-4bde-aee4-67d2bbaa0690
-  name: Dai Pritchard
-- begin: '1988'
-  end: '1994'
-  instruments: []
-  mbid: 3f0ccfcf-321b-4c1d-a051-90e4e33e1145
-  name: Duncan Galloway
-- begin: '1996'
-  end: '2002'
-  instruments: []
-  mbid: 20b0d01e-c5ef-4f0b-93b8-ebb91e3769d5
-  name: James Langton
-- &id002
-  begin: '2002'
-  end: ''
-  instruments: []
-  mbid: 3f0ccfcf-321b-4c1d-a051-90e4e33e1145
-  name: Duncan Galloway
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: 174dcf08-5ae2-4845-9c50-ebe44f9aceae
-  name: Malcolm Baxter
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 721d2358-bb65-49ba-a8af-30d63b2a1b85
-  name: Mally Baxter
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5f42a80f-8f49-44e8-a27f-90a8dbab7d0a
-  name: Andy Flaxman
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 17e2a6e6-16ff-432d-8f43-66697a9af784
-  name: Tom Langham
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2428dcc2-34d7-449f-93de-627dc185b056
-  name: John “Pazz” Parry
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 50e7e967-9462-49e5-a89a-64cc13ff2629
-  name: Simon Townley
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e7bd606f-a818-4584-8020-a8d19ed9df8b
-  name: Olly Wilby
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: 97be327b-019c-4922-960a-12204713fd99
-  name: Michael Holmes
+  - begin: '1980'
+    end: '2005'
+    instruments:
+      - drums (drum set)
+    mbid: 7043ad91-65ad-4935-ba1e-5627c42f6129
+    name: John Sutton
+  - &ref_0
+    begin: '1981'
+    end: ''
+    instruments:
+      - alto saxophone
+    mbid: c89c1f58-f4ef-4bde-aee4-67d2bbaa0690
+    name: Dai Pritchard
+  - begin: '1988'
+    end: '1994'
+    instruments: []
+    mbid: 3f0ccfcf-321b-4c1d-a051-90e4e33e1145
+    name: Duncan Galloway
+  - begin: '1996'
+    end: '2002'
+    instruments: []
+    mbid: 20b0d01e-c5ef-4f0b-93b8-ebb91e3769d5
+    name: James Langton
+  - &ref_1
+    begin: '2002'
+    end: ''
+    instruments: []
+    mbid: 3f0ccfcf-321b-4c1d-a051-90e4e33e1145
+    name: Duncan Galloway
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: 174dcf08-5ae2-4845-9c50-ebe44f9aceae
+    name: Malcolm Baxter
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 721d2358-bb65-49ba-a8af-30d63b2a1b85
+    name: Mally Baxter
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5f42a80f-8f49-44e8-a27f-90a8dbab7d0a
+    name: Andy Flaxman
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 17e2a6e6-16ff-432d-8f43-66697a9af784
+    name: Tom Langham
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2428dcc2-34d7-449f-93de-627dc185b056
+    name: John “Pazz” Parry
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 50e7e967-9462-49e5-a89a-64cc13ff2629
+    name: Simon Townley
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e7bd606f-a818-4584-8020-a8d19ed9df8b
+    name: Olly Wilby
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: 97be327b-019c-4922-960a-12204713fd99
+    name: Michael Holmes
 musicbrainz_id: 193c6fbc-896b-41c6-b3d0-b1f11b52cb72
-origin: Manchester
+origin: 'Manchester, England, United Kingdom'
 original_members:
-- *id001
-- *id002
+  - *ref_0
+  - *ref_1
 tags:
-- big band
-- jazz
-
+  - big band
+  - jazz
 ---
 
 ![](pasadena_roof_orchestra.jpg)

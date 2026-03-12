@@ -4,7 +4,7 @@ wiki_slug: cookie-and-the-cupcakes
 schema_version: 2
 status: active
 genres:
-- doo-wop
+  - doo-wop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/cookie_and_the_cupcakes.jpg
   caption: Cookie and The Cupcakes
@@ -24,56 +24,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Shelton Dunaway
-  - Sidney 'Hot Rod' Reynaud
-  - Marshall Laday
-  - Ernest Jacobs
-  - Joe 'Blue' Landry
-  - Ivory Jackson
-  - Phil Phillips
-  - Little Alfred (Alfred Babino)
+    - Shelton Dunaway
+    - Sidney 'Hot Rod' Reynaud
+    - Marshall Laday
+    - Ernest Jacobs
+    - Joe 'Blue' Landry
+    - Ivory Jackson
+    - Phil Phillips
+    - Little Alfred (Alfred Babino)
   influenced:
-  - Johnnie Allan
-  - Del Shannon
-  - Tom Waits
-  - Robert Plant
+    - Johnnie Allan
+    - Del Shannon
+    - Tom Waits
+    - Robert Plant
   mentors:
-  - Fats Domino
+    - Fats Domino
 spotify_data:
   followers: 1902
   id: 6GqL4bwmVbFVhvupr8HF4u
   popularity: 15
-  url: https://open.spotify.com/artist/6GqL4bwmVbFVhvupr8HF4u
+  url: 'https://open.spotify.com/artist/6GqL4bwmVbFVhvupr8HF4u'
 discography_enriched: true
 top_tracks:
-- 'I''ve Been So Lonely (Chess Soul: A Decade Of Chicago’s Finest)'
-- Mathilda (By Request)
-- Got You on My Mind (From Louisiana Bayou)
-- Matilda (Until Then)
-- Betty and Dupree (Kings of Swamp Pop)
-- Sea of Love (Kings of Swamp Pop)
-- Belinda (By Request)
-- Mathilda (Swamp Gold, Vol. 1)
-- Got You on My Mind (Swamp Gold, Vol. 2)
-- Got You on My Mind (Kings of Swamp Pop)
+  - 'I''ve Been So Lonely (Chess Soul: A Decade Of Chicago’s Finest)'
+  - Mathilda (By Request)
+  - Got You on My Mind (From Louisiana Bayou)
+  - Matilda (Until Then)
+  - Betty and Dupree (Kings of Swamp Pop)
+  - Sea of Love (Kings of Swamp Pop)
+  - Belinda (By Request)
+  - 'Mathilda (Swamp Gold, Vol. 1)'
+  - 'Got You on My Mind (Swamp Gold, Vol. 2)'
+  - Got You on My Mind (Kings of Swamp Pop)
 external_urls:
-  spotify: https://open.spotify.com/artist/6GqL4bwmVbFVhvupr8HF4u
-  wikipedia: https://en.wikipedia.org/wiki/Cookie_and_the_Cupcakes
+  spotify: 'https://open.spotify.com/artist/6GqL4bwmVbFVhvupr8HF4u'
+  wikipedia: 'https://en.wikipedia.org/wiki/Cookie_and_the_Cupcakes'
 image_path: 03_Resources/source_material/ArtistPortraits/cookie_and_the_cupcakes.jpg
 biography_enhanced_at: '2025-11-06T13:35:57.831532'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://flattownmusic.com/artist/cookie-the-cupcakes/
-- https://www.toppermost.co.uk/cookie-and-the-cupcakes/
-- https://www.museumofthegulfcoast.org/cookie-and-the-cupcakes
-- https://tims.blackcat.nl/messages/cookie_and_the_cupcakes.htm
-- https://www.louisianamusicfactory.com/product/cookie-and-the-cupcakes-kings-of-swamp-pop/
+  - 'https://flattownmusic.com/artist/cookie-the-cupcakes/'
+  - 'https://www.toppermost.co.uk/cookie-and-the-cupcakes/'
+  - 'https://www.museumofthegulfcoast.org/cookie-and-the-cupcakes'
+  - 'https://tims.blackcat.nl/messages/cookie_and_the_cupcakes.htm'
+  - >-
+    https://www.louisianamusicfactory.com/product/cookie-and-the-cupcakes-kings-of-swamp-pop/
 network_extracted: true
 entry_created: '2025-11-06T13:35:57.831554'
 last_updated: '2025-12-23T08:16:07.188101'
-origin: Lake Charles, Louisiana, USA
-
+origin: 'Lake Charles, Louisiana, USA'
+artist_type: band
 ---
 
 ![](cookie_and_the_cupcakes.jpg)

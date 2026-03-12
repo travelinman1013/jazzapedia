@@ -5,11 +5,11 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1924-12-17'
-birth_place: São Paulo
+birth_place: 'São Paulo, São Paulo, Brazil'
 death_date: '1987-12-14'
 genres:
-- latin jazz
-- brazilian jazz
+  - latin jazz
+  - brazilian jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/neyde_fraga.jpg
   caption: Neyde Fraga
@@ -23,7 +23,7 @@ audio_profile:
   valence_avg: 0.797
   danceability_avg: 0.566
   acousticness_avg: 0.643
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -8.4
   speechiness_avg: 0.126
   liveness_avg: 0.326
@@ -33,42 +33,45 @@ similar_artists: []
 musical_connections:
   collaborators: []
   influenced:
-  - ''
+    - ''
   mentors:
-  - ''
+    - ''
 spotify_data:
   followers: 48
   id: 2FbmNJGpTwNGo5MJ0pjnnk
   popularity: 0
-  url: https://open.spotify.com/artist/2FbmNJGpTwNGo5MJ0pjnnk
+  url: 'https://open.spotify.com/artist/2FbmNJGpTwNGo5MJ0pjnnk'
 discography_enriched: true
 top_tracks:
-- Onda Quebrando (Nicola Conte Presents Viagem 5)
-- Gente (Cool Brasil)
-- Gente (Brasil Lounge)
-- Foste Embora (Carnaval Com Você - 1972)
-- 'Diz Que Fui Por Ai (Trip To Brazil Vol. 3: l Back To Bossa)'
-- Foste Embora (Carnaval Com Você - 1972)
+  - Onda Quebrando (Nicola Conte Presents Viagem 5)
+  - Gente (Cool Brasil)
+  - Gente (Brasil Lounge)
+  - Foste Embora (Carnaval Com Você - 1972)
+  - 'Diz Que Fui Por Ai (Trip To Brazil Vol. 3: l Back To Bossa)'
+  - Foste Embora (Carnaval Com Você - 1972)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e83c7259-8c94-49e4-b1d6-558318eaf79b
-  spotify: https://open.spotify.com/artist/2FbmNJGpTwNGo5MJ0pjnnk
+  musicbrainz: 'https://musicbrainz.org/artist/e83c7259-8c94-49e4-b1d6-558318eaf79b'
+  spotify: 'https://open.spotify.com/artist/2FbmNJGpTwNGo5MJ0pjnnk'
   wikipedia: ''
 image_path: ''
 biography_enhanced_at: '2025-12-07T04:41:55.649359'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Neyde+Fraga
-- https://www.nts.live/artists/86378-neyde-fraga
-- https://dereksmusicblog.com/2013/09/15/nicola-conte-presents-viagem-5
-- https://www.youtube.com/watch?v=pYwDyFK3OaM
-- https://us.mrbongo.com/blogs/news/mr-bongo-record-club-guest-mix-palo-santo-discos
-- http://brazil-1970s.blogspot.com/2019/
+  - 'https://www.last.fm/music/Neyde+Fraga'
+  - 'https://www.nts.live/artists/86378-neyde-fraga'
+  - 'https://dereksmusicblog.com/2013/09/15/nicola-conte-presents-viagem-5'
+  - 'https://www.youtube.com/watch?v=pYwDyFK3OaM'
+  - >-
+    https://us.mrbongo.com/blogs/news/mr-bongo-record-club-guest-mix-palo-santo-discos
+  - 'http://brazil-1970s.blogspot.com/2019/'
 network_extracted: true
 entry_created: '2025-12-07T04:41:55.649380'
 last_updated: '2025-12-23T08:16:13.554122'
 gender: Female
 musicbrainz_id: e83c7259-8c94-49e4-b1d6-558318eaf79b
+is_active: false
+origin: 'São Paulo, São Paulo, Brazil'
 ---
 
 ![]()

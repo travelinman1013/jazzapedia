@@ -2,33 +2,33 @@
 title: Don Cherry
 wiki_slug: don-cherry
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1936-11-18'
-birth_place: Oklahoma City, Oklahoma, United States
+birth_place: 'Oklahoma City, Oklahoma, United States'
 death_date: '1995-10-19'
 genres:
-- free jazz
-- avant-garde
-- jazz
+  - free jazz
+  - avant-garde
+  - jazz
 instruments:
-- original
-- trumpet
-- cornet
-- eponymous
-- harmonium
-- piano
-- other vocals
-- tambura
-- flute
-- gong
-- additional
+  - original
+  - trumpet
+  - cornet
+  - eponymous
+  - harmonium
+  - piano
+  - other vocals
+  - tambura
+  - flute
+  - gong
+  - additional
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Don_Cherry.jpg
   caption: Don Cherry
   background: solo_singer
   born: '1936-11-18'
-  origin: Oklahoma City, Oklahoma, United States
+  origin: 'Oklahoma City, Oklahoma, United States'
   died: '1995-10-19'
 audio_profile:
   tempo_avg: 114.2
@@ -37,7 +37,7 @@ audio_profile:
   danceability_avg: 0.449
   acousticness_avg: 0.521
   instrumentalness_avg: 0.434
-  loudness_avg: -15.0
+  loudness_avg: -15
   speechiness_avg: 0.059
   liveness_avg: 0.183
   track_count: 61
@@ -45,51 +45,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ornette Coleman
-  - Charlie Haden
-  - Billy Higgins
-  - Ed Blackwell
-  - John Coltrane
-  - Codona (Collin Walcott, Naná Vasconcelos)
-  - Sun Ra
+    - Ornette Coleman
+    - Charlie Haden
+    - Billy Higgins
+    - Ed Blackwell
+    - John Coltrane
+    - 'Codona (Collin Walcott, Naná Vasconcelos)'
+    - Sun Ra
   influenced:
-  - Neneh Cherry
-  - Eagle-Eye Cherry
-  - Numerous avant-garde and world jazz musicians
+    - Neneh Cherry
+    - Eagle-Eye Cherry
+    - Numerous avant-garde and world jazz musicians
   mentors:
-  - Ornette Coleman
+    - Ornette Coleman
 spotify_data:
   followers: 67540
   id: 3uPWecBPNXAChysw1uOJwI
   popularity: 28
-  url: https://open.spotify.com/artist/3uPWecBPNXAChysw1uOJwI
+  url: 'https://open.spotify.com/artist/3uPWecBPNXAChysw1uOJwI'
 discography_enriched: true
 top_tracks:
-- Brown Rice (Don Cherry)
-- Utopia and Visions (Organic Music Society)
-- Benoego (Home Boy, Sister Out)
-- What Reason Could I Give (Dona Nostra)
-- Universal Mother (Hear & Now)
-- The Ballad Of The Fallen (Folk Song From El Salvador) (The Ballad Of The Fallen)
-- Malkauns (Don Cherry)
-- Art Deco (Home Boy, Sister Out)
-- Degi-Degi (Don Cherry)
-- Air Mail (Music / Sangam)
+  - Brown Rice (Don Cherry)
+  - Utopia and Visions (Organic Music Society)
+  - 'Benoego (Home Boy, Sister Out)'
+  - What Reason Could I Give (Dona Nostra)
+  - Universal Mother (Hear & Now)
+  - >-
+    The Ballad Of The Fallen (Folk Song From El Salvador) (The Ballad Of The
+    Fallen)
+  - Malkauns (Don Cherry)
+  - 'Art Deco (Home Boy, Sister Out)'
+  - Degi-Degi (Don Cherry)
+  - Air Mail (Music / Sangam)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/adf3879a-e091-4f73-8792-861a7a3e3abe
-  spotify: https://open.spotify.com/artist/3uPWecBPNXAChysw1uOJwI
-  wikipedia: https://en.wikipedia.org/wiki/Don_Cherry_(trumpeter)
+  musicbrainz: 'https://musicbrainz.org/artist/adf3879a-e091-4f73-8792-861a7a3e3abe'
+  spotify: 'https://open.spotify.com/artist/3uPWecBPNXAChysw1uOJwI'
+  wikipedia: 'https://en.wikipedia.org/wiki/Don_Cherry_(trumpeter)'
 image_path: 03_Resources/source_material/ArtistPortraits/Don_Cherry.jpg
 biography_enhanced_at: '2025-10-19T11:44:11.590365'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Don_Cherry_(trumpeter)
-- https://www.allaboutjazz.com/musicians/don-cherry/
-- https://greenleafmusic.com/don-cherry-the-dozens/
-- https://www.newdirectionsinmusic.com/don-cherry-musician-of-the-world/
-- https://thequietus.com/interviews/strange-world-of/don-cherry/
-- https://daily.bandcamp.com/features/don-cherry-home-boy-sister-out-story
+  - 'https://en.wikipedia.org/wiki/Don_Cherry_(trumpeter)'
+  - 'https://www.allaboutjazz.com/musicians/don-cherry/'
+  - 'https://greenleafmusic.com/don-cherry-the-dozens/'
+  - 'https://www.newdirectionsinmusic.com/don-cherry-musician-of-the-world/'
+  - 'https://thequietus.com/interviews/strange-world-of/don-cherry/'
+  - 'https://daily.bandcamp.com/features/don-cherry-home-boy-sister-out-story'
 network_extracted: true
 entry_created: '2025-10-19T11:44:11.590371'
 last_updated: '2025-12-23T08:16:01.756527'
@@ -98,9 +100,11 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:24:44.801143'
 musicbrainz_id: adf3879a-e091-4f73-8792-861a7a3e3abe
 tags:
-- 2008 universal fire victim
-- avant-garde jazz
-- free jazz
+  - 2008 universal fire victim
+  - avant-garde jazz
+  - free jazz
+is_active: false
+origin: 'Los Angeles, California, United States'
 ---
 
 ![](Don_Cherry.jpg)

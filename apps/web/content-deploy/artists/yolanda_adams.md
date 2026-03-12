@@ -1,17 +1,17 @@
 ---
-title: YOLANDA ADAMS
+title: Yolanda Adams
 wiki_slug: yolanda-adams
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1961-08-27'
-birth_place: Houston
+birth_place: 'Houston, Texas, United States'
 genres:
-- gospel
-- gospel r&b
+  - gospel
+  - gospel r&b
 instruments:
-- lead vocals
-- background vocals
+  - lead vocals
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/yolanda_adams.jpg
   caption: YOLANDA ADAMS
@@ -33,55 +33,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jimmy Jam & Terry Lewis
-  - Southeast Inspirational Choir
-  - Various contemporary gospel artists on compilation and collaborative projects
+    - Jimmy Jam & Terry Lewis
+    - Southeast Inspirational Choir
+    - >-
+      Various contemporary gospel artists on compilation and collaborative
+      projects
   influenced:
-  - Contemporary urban and modern gospel artists (e.g., later female gospel/R&B vocalists)
+    - >-
+      Contemporary urban and modern gospel artists (e.g., later female
+      gospel/R&B vocalists)
   mentors:
-  - Thomas Whitfield
-  - Southeast Inspirational Choir leaders (Carl Preacher, Brenda Waters, Shirley Joiner)
-  - Anita Baker, Whitney Houston, Nancy Wilson
+    - Thomas Whitfield
+    - >-
+      Southeast Inspirational Choir leaders (Carl Preacher, Brenda Waters,
+      Shirley Joiner)
+    - 'Anita Baker, Whitney Houston, Nancy Wilson'
 spotify_data:
   followers: 808924
   id: 47opbYEKDjXnRk9uLscp11
   popularity: 53
-  url: https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11
+  url: 'https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11'
 discography_enriched: true
 top_tracks:
-- I Believe
-- Open My Heart (Mountain High Valley Low)
-- I'm Gonna Be Ready (Believe)
-- The Battle Is the Lord's (The Essential Yolanda Adams)
-- In the Midst of It All (Mountain High Valley Low)
-- The Battle Is the Lord's
-- Victory (Day by Day)
-- Be Blessed (Day by Day)
-- Thank You
-- Blessings (Sunny Days)
+  - I Believe
+  - Open My Heart (Mountain High Valley Low)
+  - I'm Gonna Be Ready (Believe)
+  - The Battle Is the Lord's (The Essential Yolanda Adams)
+  - In the Midst of It All (Mountain High Valley Low)
+  - The Battle Is the Lord's
+  - Victory (Day by Day)
+  - Be Blessed (Day by Day)
+  - Thank You
+  - Blessings (Sunny Days)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4fac8f5d-0e44-4efa-b518-7f8a8f02c162
-  spotify: https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11
-  wikipedia: https://en.wikipedia.org/wiki/Yolanda_Adams
+  musicbrainz: 'https://musicbrainz.org/artist/4fac8f5d-0e44-4efa-b518-7f8a8f02c162'
+  spotify: 'https://open.spotify.com/artist/47opbYEKDjXnRk9uLscp11'
+  wikipedia: 'https://en.wikipedia.org/wiki/Yolanda_Adams'
 image_path: 03_Resources/source_material/ArtistPortraits/yolanda_adams.jpg
 biography_enhanced_at: '2025-12-16T04:01:49.663745'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Yolanda_Adams
-- https://yolandaadamslive.com/about-yolanda/
-- https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/yolanda-adams
-- https://www.allamericanspeakers.com/celebritytalentbios/Yolanda+Adams/427760
-- https://www.broadway.com/buzz/stars/yolanda-adams/profile/
+  - 'https://en.wikipedia.org/wiki/Yolanda_Adams'
+  - 'https://yolandaadamslive.com/about-yolanda/'
+  - >-
+    https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/yolanda-adams
+  - 'https://www.allamericanspeakers.com/celebritytalentbios/Yolanda+Adams/427760'
+  - 'https://www.broadway.com/buzz/stars/yolanda-adams/profile/'
 network_extracted: true
 entry_created: '2025-12-16T04:01:49.663753'
 last_updated: '2025-12-23T08:16:18.352148'
 gender: Female
 musicbrainz_id: 4fac8f5d-0e44-4efa-b518-7f8a8f02c162
 tags:
-- contemporary gospel
-- gospel
-- war
+  - contemporary gospel
+  - gospel
+  - war
 ---
 
 ![](yolanda_adams.jpg)

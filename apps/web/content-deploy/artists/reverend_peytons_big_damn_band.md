@@ -3,47 +3,50 @@ biography_enhanced_at: '2025-12-30T01:23:30.170658'
 enhancement_provider: perplexity
 entry_created: '2025-12-30T01:23:30.170664'
 external_urls:
-  spotify: https://open.spotify.com/artist/6Ec85Uubz3lO7BIEvcBfZK
+  spotify: 'https://open.spotify.com/artist/6Ec85Uubz3lO7BIEvcBfZK'
   wikipedia: ''
 genres:
-- gothic country
-- roots rock
-- bluegrass
-- country blues
-- alt country
-- americana
-- blues
-image_path: 03_Resources/source_material/ArtistPortraits/reverend_peytons_big_damn_band.jpg
+  - gothic country
+  - roots rock
+  - bluegrass
+  - country blues
+  - alt country
+  - americana
+  - blues
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/reverend_peytons_big_damn_band.jpg
 last_updated: '2025-12-30T01:23:30.170664'
 musical_connections:
   collaborators:
-  - Washboard Breezy Peyton
-  - Aaron “Cuz” Persinger
-  - Jacob “The Snakob” Powell
-  - Max Senteney
-  - Vance Powell
+    - Washboard Breezy Peyton
+    - Aaron “Cuz” Persinger
+    - Jacob “The Snakob” Powell
+    - Max Senteney
+    - Vance Powell
   influenced: []
   mentors:
-  - T-Model Ford
-  - Robert Belfour
-  - David “Honeyboy” Edwards
+    - T-Model Ford
+    - Robert Belfour
+    - David “Honeyboy” Edwards
 network_extracted: true
-origin: Brown County, Indiana, USA
+origin: 'Brown County, Indiana, USA'
 primary_source: perplexity
 research_sources:
-- https://bigdamnband.com/about
-- https://www.songwritersonprocess.com/blog/2010/07/21/reve-peyton
-- https://mountainmusicfestwv.com/artists/reverend-peytons-big-damn-band/
-- https://lessthanjake.fandom.com/wiki/The_Reverend_Peyton%27s_Big_Damn_Band
-- https://thebluegrasssituation.com/read/bgs-55-reverend-peytons-big-damn-band/
+  - 'https://bigdamnband.com/about'
+  - 'https://www.songwritersonprocess.com/blog/2010/07/21/reve-peyton'
+  - 'https://mountainmusicfestwv.com/artists/reverend-peytons-big-damn-band/'
+  - 'https://lessthanjake.fandom.com/wiki/The_Reverend_Peyton%27s_Big_Damn_Band'
+  - >-
+    https://thebluegrasssituation.com/read/bgs-55-reverend-peytons-big-damn-band/
 spotify_data:
   followers: 56498
   id: 6Ec85Uubz3lO7BIEvcBfZK
   popularity: 35
-  url: https://open.spotify.com/artist/6Ec85Uubz3lO7BIEvcBfZK
+  url: 'https://open.spotify.com/artist/6Ec85Uubz3lO7BIEvcBfZK'
 status: active
-title: REVEREND PEYTON'S BIG DAMN BAND
-
+title: Reverend Peyton's Big Damn Band
+birth_place: 'Brown County, Indiana, United States'
+artist_type: band
 ---
 
 ![](reverend_peytons_big_damn_band.jpg)

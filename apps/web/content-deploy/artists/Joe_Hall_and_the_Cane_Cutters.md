@@ -4,13 +4,14 @@ wiki_slug: joe-hall-the-cane-cutters
 schema_version: 2
 status: active
 genres:
-- traditional music
+  - traditional music
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/Joe_Hall_and_the_Cane_Cutters.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/Joe_Hall_and_the_Cane_Cutters.jpg
   caption: Joe Hall & the Cane Cutters
   background: solo_singer
 audio_profile:
-  tempo_avg: 132.0
+  tempo_avg: 132
   energy_avg: 0.78
   valence_avg: 0.879
   danceability_avg: 0.668
@@ -24,53 +25,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mitch Reed
-  - Cedric Watson
-  - Mark Palms
-  - Chuck Bush
-  - Paul Lavan
+    - Mitch Reed
+    - Cedric Watson
+    - Mark Palms
+    - Chuck Bush
+    - Paul Lavan
   influenced:
-  - Forest Huval
+    - Forest Huval
   mentors:
-  - Clement "King" Ned
-  - Alphonse "Bois Sec" Ardoin
-  - Canray Fontenot
-  - Calvin Carrière
+    - Clement "King" Ned
+    - Alphonse "Bois Sec" Ardoin
+    - Canray Fontenot
+    - Calvin Carrière
 spotify_data:
   followers: 232
   id: 4IwOrLP2DjOOIeZJr7byKR
   popularity: 0
-  url: https://open.spotify.com/artist/4IwOrLP2DjOOIeZJr7byKR
+  url: 'https://open.spotify.com/artist/4IwOrLP2DjOOIeZJr7byKR'
 discography_enriched: true
 top_tracks:
-- Keep Your Feet on the Ground (Mélange)
-- Kaplan Waltz (Mélange)
-- La Pistache a T'ante Nana (Aye Cher Catin)
-- Aye Cher Catin (Aye Cher Catin)
-- Personne Pour Les Danser Avec Moi (Aye Cher Catin)
-- Bosco Stomp (Mélange)
-- Soleil Après Coucher (Mélange)
-- La Robe a Parasol (Mélange)
-- Mélange (Mélange)
-- Coucher Dehors (Mélange)
+  - Keep Your Feet on the Ground (Mélange)
+  - Kaplan Waltz (Mélange)
+  - La Pistache a T'ante Nana (Aye Cher Catin)
+  - Aye Cher Catin (Aye Cher Catin)
+  - Personne Pour Les Danser Avec Moi (Aye Cher Catin)
+  - Bosco Stomp (Mélange)
+  - Soleil Après Coucher (Mélange)
+  - La Robe a Parasol (Mélange)
+  - Mélange (Mélange)
+  - Coucher Dehors (Mélange)
 external_urls:
-  spotify: https://open.spotify.com/artist/4IwOrLP2DjOOIeZJr7byKR
-  wikipedia: https://en.wikipedia.org/wiki/Joe_Hall_(accordionist)
+  spotify: 'https://open.spotify.com/artist/4IwOrLP2DjOOIeZJr7byKR'
+  wikipedia: 'https://en.wikipedia.org/wiki/Joe_Hall_(accordionist)'
 image_path: 03_Resources/source_material/ArtistPortraits/Joe_Hall_and_the_Cane_Cutters.jpg
 biography_enhanced_at: '2025-10-20T01:47:22.920315'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Joe_Hall_(accordionist)
-- https://acadianaprofile.com/joe-hall-and-the-cane-cutters/
-- https://joehallzydeco.com/home
-- https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/hall.htm.html
-- https://kreolmagazine.com/music-entertainment/musicians/sweet-home-joe-hall/
+  - 'https://en.wikipedia.org/wiki/Joe_Hall_(accordionist)'
+  - 'https://acadianaprofile.com/joe-hall-and-the-cane-cutters/'
+  - 'https://joehallzydeco.com/home'
+  - >-
+    https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/hall.htm.html
+  - 'https://kreolmagazine.com/music-entertainment/musicians/sweet-home-joe-hall/'
 network_extracted: true
 entry_created: '2025-10-20T01:47:22.920338'
 last_updated: '2025-12-23T08:16:02.580746'
-origin: Eunice, Louisiana, United States
-
+origin: 'Eunice, Louisiana, United States'
+birth_place: 'Eunice, Louisiana, United States'
+artist_type: band
 ---
 
 ![](Joe_Hall_and_the_Cane_Cutters.jpg)

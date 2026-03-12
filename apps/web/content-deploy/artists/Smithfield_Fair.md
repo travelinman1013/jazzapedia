@@ -2,17 +2,17 @@
 title: Smithfield Fair
 wiki_slug: smithfield-fair
 schema_version: 2
-artist_type: Group
+artist_type: person
 status: active
 aliases: []
 years_active: 1973–Present
 genres:
-- celtic
+  - celtic
 instruments:
-- vocals
-- guitar
-- bass
-- accordion
+  - vocals
+  - guitar
+  - bass
+  - accordion
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Smithfield_Fair.jpg
   caption: Smithfield Fair
@@ -32,60 +32,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - David Praet
-  - Frank Bladen
-  - Alasdair Fraser
-  - Eileen Ivers
-  - Brian McNeill
-  - The Tannahill Weavers
-  - Andy M. Stewart
+    - David Praet
+    - Frank Bladen
+    - Alasdair Fraser
+    - Eileen Ivers
+    - Brian McNeill
+    - The Tannahill Weavers
+    - Andy M. Stewart
   influenced: []
   mentors:
-  - Bud Reneau
-  - Joe Moore
+    - Bud Reneau
+    - Joe Moore
 related_artists: []
 spotify_data:
   followers: 227
   id: 1wRVkQaLXXrkN4tjJRh6pC
   popularity: 3
-  url: https://open.spotify.com/artist/1wRVkQaLXXrkN4tjJRh6pC
+  url: 'https://open.spotify.com/artist/1wRVkQaLXXrkN4tjJRh6pC'
   verified: false
 discography_enriched: true
 albums_count: 21
 singles_count: 0
 top_tracks:
-- My Heart Ever Faithful (Evermore)
-- The Pretender Will Come No More (20 For 20)
-- Wha'll Be King But Cherlie/Cam Ye O'er Frae France (Scotland, Fair Scotland)
-- My Heart's In The Highlands (20 For 20)
-- A Man's A Man For A' That (Burns Night Out!)
-- Green Grow The Rashes (Burns Night Out!)
-- 'Glenlogie (Smithfield Fair: Cairdeas (Kinship))'
-- 'An Ataireachd Ard (the Eternal Surge of the Sea) (Smithfield Fair: Cairdeas (Kinship))'
-- '''S ann an Ile (It Is of Isla or Song of Isla) (Smithfield Fair: Cairdeas (Kinship))'
-- 'Leis an Lurgainn (Smithfield Fair: Cairdeas (Kinship))'
+  - My Heart Ever Faithful (Evermore)
+  - The Pretender Will Come No More (20 For 20)
+  - 'Wha''ll Be King But Cherlie/Cam Ye O''er Frae France (Scotland, Fair Scotland)'
+  - My Heart's In The Highlands (20 For 20)
+  - A Man's A Man For A' That (Burns Night Out!)
+  - Green Grow The Rashes (Burns Night Out!)
+  - 'Glenlogie (Smithfield Fair: Cairdeas (Kinship))'
+  - >-
+    An Ataireachd Ard (the Eternal Surge of the Sea) (Smithfield Fair: Cairdeas
+    (Kinship))
+  - >-
+    'S ann an Ile (It Is of Isla or Song of Isla) (Smithfield Fair: Cairdeas
+    (Kinship))
+  - 'Leis an Lurgainn (Smithfield Fair: Cairdeas (Kinship))'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6cec8130-9bbc-434b-92b8-7ec43ac7e422
-  spotify: https://open.spotify.com/artist/1wRVkQaLXXrkN4tjJRh6pC
-  wikipedia: https://en.wikipedia.org/wiki/Smithfield_Fair
+  musicbrainz: 'https://musicbrainz.org/artist/6cec8130-9bbc-434b-92b8-7ec43ac7e422'
+  spotify: 'https://open.spotify.com/artist/1wRVkQaLXXrkN4tjJRh6pC'
+  wikipedia: 'https://en.wikipedia.org/wiki/Smithfield_Fair'
 image_path: 03_Resources/source_material/ArtistPortraits/Smithfield_Fair.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:07:57.086458'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia
-- smithfieldfair.com
-- 318Central
-- YouTube
+  - Wikipedia
+  - smithfieldfair.com
+  - 318Central
+  - YouTube
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 15:18:03.009846
+entry_created: 2025-09-18T15:18:03.009Z
 last_updated: '2025-12-23T08:16:03.909743'
 musicbrainz_enriched_at: '2025-10-21T09:43:43.090663'
 musicbrainz_id: 6cec8130-9bbc-434b-92b8-7ec43ac7e422
-origin: Pensacola, Florida, United States (originated), Alexandria, Louisiana, United States (current base)
-
+origin: 'Pensacola, Florida, United States'
 ---
 
 ![](Smithfield_Fair.jpg)

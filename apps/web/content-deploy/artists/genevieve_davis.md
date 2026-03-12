@@ -1,33 +1,36 @@
 ---
 biography_enhanced_at: '2026-01-22T07:09:53.883188'
-birth_place: Merigold, Bolivar County, Mississippi, United States
+birth_place: 'Merigold, Bolivar County, Mississippi, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:09:53.883195'
 external_urls:
-  spotify: https://open.spotify.com/artist/05idyhaoV0Aszw3mRIdmj6
+  spotify: 'https://open.spotify.com/artist/05idyhaoV0Aszw3mRIdmj6'
   wikipedia: Not found in search results
 genres: []
 image_path: ''
 last_updated: '2026-01-22T07:09:53.883196'
 musical_connections:
   collaborators:
-  - Multiple accompanists
+    - Multiple accompanists
   influenced: []
   mentors:
-  - Uncle (carnival show operator)
+    - Uncle (carnival show operator)
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://ancestors.familysearch.org/en/GG3Y-BXF/genevieve-%22jennie%22-davis-1923-2003
-- https://sundayblues.org/?tag=genevieve-davis
-- https://open.spotify.com/artist/05idyhaoV0Aszw3mRIdmj6
+  - >-
+    https://ancestors.familysearch.org/en/GG3Y-BXF/genevieve-%22jennie%22-davis-1923-2003
+  - 'https://sundayblues.org/?tag=genevieve-davis'
+  - 'https://open.spotify.com/artist/05idyhaoV0Aszw3mRIdmj6'
 spotify_data:
   followers: 101
   id: 05idyhaoV0Aszw3mRIdmj6
   popularity: 7
-  url: https://open.spotify.com/artist/05idyhaoV0Aszw3mRIdmj6
+  url: 'https://open.spotify.com/artist/05idyhaoV0Aszw3mRIdmj6'
 status: active
-title: GENEVIEVE DAVIS
+title: Genevieve Davis
+birth_date: '1923-01-30'
+artist_type: person
 ---
 
 ![]()

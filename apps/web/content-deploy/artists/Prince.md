@@ -2,28 +2,28 @@
 title: Prince
 wiki_slug: prince
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1958-06-07'
-birth_place: Minneapolis, Minnesota, United States
+birth_place: 'Minneapolis, Minnesota, United States'
 death_date: '2016-04-21'
 genres:
-- funk rock
+  - funk rock
 instruments:
-- additional
-- guitar
-- drums (drum set)
-- original
-- percussion
-- membranophone
-- keyboard
-- bass guitar
+  - additional
+  - guitar
+  - drums (drum set)
+  - original
+  - percussion
+  - membranophone
+  - keyboard
+  - bass guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Prince.jpg
   caption: Prince
   background: non_vocal_instrumentalist
   born: '1958-06-07'
-  origin: Minneapolis, Minnesota, United States
+  origin: 'Minneapolis, Minnesota, United States'
   died: '2016-04-21'
 audio_profile:
   tempo_avg: 120.8
@@ -40,49 +40,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - André Cymone
-  - Morris Day
-  - Sheila E.
-  - Jimmy Jam and Terry Lewis
+    - André Cymone
+    - Morris Day
+    - Sheila E.
+    - Jimmy Jam and Terry Lewis
   influenced:
-  - Beyoncé
-  - Janelle Monáe
-  - The Weeknd
-  - Bruno Mars
+    - Beyoncé
+    - Janelle Monáe
+    - The Weeknd
+    - Bruno Mars
   mentors:
-  - John L. Nelson
-  - Pepé Willie
+    - John L. Nelson
+    - Pepé Willie
 spotify_data:
   followers: 7836395
   id: 5a2EaR3hamoenG9rDuVn8j
   popularity: 69
-  url: https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j
+  url: 'https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j'
 discography_enriched: true
 top_tracks:
-- Purple Rain (Purple Rain)
-- Kiss (Parade - Music from the Motion Picture Under the Cherry Moon)
-- When Doves Cry (Purple Rain)
-- Let's Go Crazy (Purple Rain)
-- Raspberry Beret (Around the World in a Day)
-- Raspberry Beret (Around The World In A Day)
-- I Wanna Be Your Lover (Prince)
-- I Would Die 4 U (Purple Rain)
-- 1999 (1999)
-- The Most Beautiful Girl In the World (The Gold Experience)
+  - Purple Rain (Purple Rain)
+  - Kiss (Parade - Music from the Motion Picture Under the Cherry Moon)
+  - When Doves Cry (Purple Rain)
+  - Let's Go Crazy (Purple Rain)
+  - Raspberry Beret (Around the World in a Day)
+  - Raspberry Beret (Around The World In A Day)
+  - I Wanna Be Your Lover (Prince)
+  - I Would Die 4 U (Purple Rain)
+  - 1999 (1999)
+  - The Most Beautiful Girl In the World (The Gold Experience)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/070d193a-845c-479f-980e-bef15710653e
-  spotify: https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j
-  wikipedia: https://en.wikipedia.org/wiki/Prince_(musician)
+  musicbrainz: 'https://musicbrainz.org/artist/070d193a-845c-479f-980e-bef15710653e'
+  spotify: 'https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j'
+  wikipedia: 'https://en.wikipedia.org/wiki/Prince_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/Prince.jpg
 biography_enhanced_at: '2025-10-19T11:59:50.028842'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.britannica.com/biography/Prince-singer-and-songwriter
-- https://becoming.prince.com
-- https://www.biography.com/musicians/prince
-- https://goldiesparade.co.uk/prince/
-- https://en.wikipedia.org/wiki/Prince_(musician)
+  - 'https://www.britannica.com/biography/Prince-singer-and-songwriter'
+  - 'https://becoming.prince.com'
+  - 'https://www.biography.com/musicians/prince'
+  - 'https://goldiesparade.co.uk/prince/'
+  - 'https://en.wikipedia.org/wiki/Prince_(musician)'
 network_extracted: true
 entry_created: '2025-10-19T11:59:50.028854'
 last_updated: '2025-12-23T08:16:03.615364'
@@ -91,10 +91,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:41:41.342130'
 musicbrainz_id: 070d193a-845c-479f-980e-bef15710653e
 tags:
-- contemporary r&b
-- dance-pop
-- film soundtrack
-
+  - contemporary r&b
+  - dance-pop
+  - film soundtrack
+is_active: false
 ---
 
 ![](Prince.jpg)

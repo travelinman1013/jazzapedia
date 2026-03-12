@@ -1,230 +1,233 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-01-10T01:04:39.669087'
 birth_date: '1968'
 enhancement_provider: perplexity
 entry_created: '2026-01-10T01:04:39.669093'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d1947987-9614-49ae-bd36-8000e6b6f7d0
-  spotify: https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH
-  wikipedia: https://en.wikipedia.org/wiki/Parliament_(band)
+  musicbrainz: 'https://musicbrainz.org/artist/d1947987-9614-49ae-bd36-8000e6b6f7d0'
+  spotify: 'https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH'
+  wikipedia: 'https://en.wikipedia.org/wiki/Parliament_(band)'
 genres:
-- funk
-- funk rock
+  - funk
+  - funk rock
 image_path: 03_Resources/source_material/ArtistPortraits/parliament.jpg
 instruments:
-- bass guitar
-- additional
-- drums (drum set)
+  - bass guitar
+  - additional
+  - drums (drum set)
 last_updated: '2026-01-10T01:04:39.669094'
 members:
-- begin: '1975'
-  end: '1984'
-  instruments: []
-  mbid: 7ec0b91d-c6ad-417e-934c-decfdc45bada
-  name: Maceo Parker
-- &id001
-  begin: '1975'
-  end: ''
-  instruments: []
-  mbid: 5f7342e9-e1b2-4a8b-a622-c973838789cf
-  name: Fred Wesley
-- begin: '1978'
-  end: '1980'
-  instruments: []
-  mbid: 77091ffb-d1b9-42da-9bd1-201b9024fea5
-  name: Gordon Carlton
-- begin: '1978'
-  end: '1993'
-  instruments: []
-  mbid: d759ffb4-b39f-4eae-9d25-38d15ffdd571
-  name: Larry Fratangelo
-- begin: '1994'
-  end: '1995'
-  instruments:
-  - bass guitar
-  mbid: 5e46de91-86b0-4298-9cee-5b920baa5721
-  name: Lonnie Motley
-- begin: ''
-  end: ''
-  instruments:
-  - additional
-  mbid: 19fa64e2-b141-4357-8953-b21dccdc505d
-  name: Sidney Barnes
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7555bfea-dcd8-4a5a-8988-543ba1875ec1
-  name: Greg Black
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: acd58512-c0ee-4f1c-8761-96d0b2d694be
-  name: Greg Boyer
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d037c556-a66a-4bcd-b259-7be648fe02eb
-  name: Jerome Brailey
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 84683370-5eae-418b-acd8-883ac028a8a0
-  name: George Clinton
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b0ca0d85-24a8-4a00-860d-357ff688b69c
-  name: Bootsy Collins
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 04b8d234-cc9c-4114-b224-7d4b47f4713a
-  name: Kenny Colton
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 802f4d3c-a7b6-42b5-a254-55f7f39bb044
-  name: Gary “Mudbone” Cooper
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 451d7098-e470-4cd6-a0a2-1555b5ecd427
-  name: Bennie Cowan
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 89a73e85-8020-4165-9641-f31edb871bad
-  name: Ray Davis
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 39067172-f934-425c-9552-d288f0598835
-  name: Rick Gardner
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b0966c8d-6dba-49bd-b4ec-d09e283d0a50
-  name: Glen Goins
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 935223c5-0ba1-49f5-8ee9-c2b2cc898f18
-  name: Richard Griffith
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ed7af4d2-575f-4336-933a-258841f83f9f
-  name: Michael Hampton
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 273dd186-e8cf-4786-b2d0-2800a8928268
-  name: Fuzzy Haskins
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 98f3e150-95c3-4fa3-8f76-0f6cba4431aa
-  name: Eddie Hazel
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 293ecb43-a5ef-42f8-8fcc-7a1875d5b41c
-  name: Larry Heckstall
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 42f53c2e-7de9-4116-b005-3be8225b4c12
-  name: Prakash John
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f48e4420-d2bd-47c6-a322-e2577d06453a
-  name: DeWayne "Blackbyrd" McKnight
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4af6ad9c-637a-40c2-b888-39bf2eeb6757
-  name: Cordell Mosson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 66611c93-eece-44c8-91b3-3792a1a6cd64
-  name: Garry Shider
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d17f9a16-0bb7-49bd-8c23-5ce1dd4e5262
-  name: Calvin Simon
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e3b7aba7-584d-4de5-bce6-4b883373e0f7
-  name: David Spradley
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: eacb86fa-49b9-439a-a2bb-52b28a7d2060
-  name: Grady Thomas
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c6df7eb1-fa1b-4a40-a975-430720a7141f
-  name: Undi$co Kidd
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e68abd50-e5ec-4b5c-87dd-0fd0437cafd1
-  name: Bernie Worrell
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 20426f55-a421-4350-b7e3-36de869dfcac
-  name: Ramon "Tiki" Fulwood
+  - begin: '1975'
+    end: '1984'
+    instruments: []
+    mbid: 7ec0b91d-c6ad-417e-934c-decfdc45bada
+    name: Maceo Parker
+  - &ref_0
+    begin: '1975'
+    end: ''
+    instruments: []
+    mbid: 5f7342e9-e1b2-4a8b-a622-c973838789cf
+    name: Fred Wesley
+  - begin: '1978'
+    end: '1980'
+    instruments: []
+    mbid: 77091ffb-d1b9-42da-9bd1-201b9024fea5
+    name: Gordon Carlton
+  - begin: '1978'
+    end: '1993'
+    instruments: []
+    mbid: d759ffb4-b39f-4eae-9d25-38d15ffdd571
+    name: Larry Fratangelo
+  - begin: '1994'
+    end: '1995'
+    instruments:
+      - bass guitar
+    mbid: 5e46de91-86b0-4298-9cee-5b920baa5721
+    name: Lonnie Motley
+  - begin: ''
+    end: ''
+    instruments:
+      - additional
+    mbid: 19fa64e2-b141-4357-8953-b21dccdc505d
+    name: Sidney Barnes
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7555bfea-dcd8-4a5a-8988-543ba1875ec1
+    name: Greg Black
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: acd58512-c0ee-4f1c-8761-96d0b2d694be
+    name: Greg Boyer
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d037c556-a66a-4bcd-b259-7be648fe02eb
+    name: Jerome Brailey
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 84683370-5eae-418b-acd8-883ac028a8a0
+    name: George Clinton
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b0ca0d85-24a8-4a00-860d-357ff688b69c
+    name: Bootsy Collins
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 04b8d234-cc9c-4114-b224-7d4b47f4713a
+    name: Kenny Colton
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 802f4d3c-a7b6-42b5-a254-55f7f39bb044
+    name: Gary “Mudbone” Cooper
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 451d7098-e470-4cd6-a0a2-1555b5ecd427
+    name: Bennie Cowan
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 89a73e85-8020-4165-9641-f31edb871bad
+    name: Ray Davis
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 39067172-f934-425c-9552-d288f0598835
+    name: Rick Gardner
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b0966c8d-6dba-49bd-b4ec-d09e283d0a50
+    name: Glen Goins
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 935223c5-0ba1-49f5-8ee9-c2b2cc898f18
+    name: Richard Griffith
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ed7af4d2-575f-4336-933a-258841f83f9f
+    name: Michael Hampton
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 273dd186-e8cf-4786-b2d0-2800a8928268
+    name: Fuzzy Haskins
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 98f3e150-95c3-4fa3-8f76-0f6cba4431aa
+    name: Eddie Hazel
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 293ecb43-a5ef-42f8-8fcc-7a1875d5b41c
+    name: Larry Heckstall
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 42f53c2e-7de9-4116-b005-3be8225b4c12
+    name: Prakash John
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f48e4420-d2bd-47c6-a322-e2577d06453a
+    name: DeWayne "Blackbyrd" McKnight
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4af6ad9c-637a-40c2-b888-39bf2eeb6757
+    name: Cordell Mosson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 66611c93-eece-44c8-91b3-3792a1a6cd64
+    name: Garry Shider
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d17f9a16-0bb7-49bd-8c23-5ce1dd4e5262
+    name: Calvin Simon
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e3b7aba7-584d-4de5-bce6-4b883373e0f7
+    name: David Spradley
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: eacb86fa-49b9-439a-a2bb-52b28a7d2060
+    name: Grady Thomas
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c6df7eb1-fa1b-4a40-a975-430720a7141f
+    name: Undi$co Kidd
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e68abd50-e5ec-4b5c-87dd-0fd0437cafd1
+    name: Bernie Worrell
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 20426f55-a421-4350-b7e3-36de869dfcac
+    name: Ramon "Tiki" Fulwood
 musical_connections:
   collaborators:
-  - George Clinton
-  - Bernie Worrell
-  - Bootsy Collins
-  - Garry Shider
-  - The Horny Horns
-  - Original Parliaments vocalists (Ray Davis, Clarence "Fuzzy" Haskins, Calvin Simon,
-    Grady Thomas)
+    - George Clinton
+    - Bernie Worrell
+    - Bootsy Collins
+    - Garry Shider
+    - The Horny Horns
+    - >-
+      Original Parliaments vocalists (Ray Davis, Clarence "Fuzzy" Haskins,
+      Calvin Simon, Grady Thomas)
   influenced:
-  - Dr. Dre and G‑funk–era hip‑hop
-  - Prince
-  - Red Hot Chili Peppers and other funk‑rock bands
-  - Countless R&B, funk, and electronic producers
+    - Dr. Dre and G‑funk–era hip‑hop
+    - Prince
+    - Red Hot Chili Peppers and other funk‑rock bands
+    - 'Countless R&B, funk, and electronic producers'
   mentors:
-  - James Brown
-  - Sly and the Family Stone
-  - Jimi Hendrix
-  - Sun Ra
+    - James Brown
+    - Sly and the Family Stone
+    - Jimi Hendrix
+    - Sun Ra
 musicbrainz_id: d1947987-9614-49ae-bd36-8000e6b6f7d0
 network_extracted: true
-origin: Plainfield
+origin: 'Plainfield, New Jersey, United States'
 original_members:
-- *id001
+  - *ref_0
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Parliament_(band)
-- https://en.wikipedia.org/wiki/Parliament-Funkadelic
-- https://www.britannica.com/topic/Parliament-Funkadelic
-- https://georgeclinton.com/bio/
-- https://teachrock.org/people/parliament-funkadelic/
-- https://blackpast.org/african-american-history/george-clinton-and-parliament-funkadelic-1964/
+  - 'https://en.wikipedia.org/wiki/Parliament_(band)'
+  - 'https://en.wikipedia.org/wiki/Parliament-Funkadelic'
+  - 'https://www.britannica.com/topic/Parliament-Funkadelic'
+  - 'https://georgeclinton.com/bio/'
+  - 'https://teachrock.org/people/parliament-funkadelic/'
+  - >-
+    https://blackpast.org/african-american-history/george-clinton-and-parliament-funkadelic-1964/
 spotify_data:
   followers: 822631
   id: 5SMVzTJyKFJ7TUb46DglcH
   popularity: 50
-  url: https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH
+  url: 'https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH'
 status: active
 tags:
-- funk
-- p-funk
-- psychedelic soul
+  - funk
+  - p-funk
+  - psychedelic soul
 title: Parliament
+birth_place: 'Plainfield, New Jersey, United States'
 ---
 
 ![](parliament.jpg)

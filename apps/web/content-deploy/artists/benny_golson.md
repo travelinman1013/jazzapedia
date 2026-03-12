@@ -5,50 +5,50 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1929-01-25'
-birth_place: Philadelphia
+birth_place: 'Philadelphia, Pennsylvania, United States'
 death_date: '2024-09-21'
 genres:
-- hard bop
-- jazz
-- bebop
-- cool jazz
+  - hard bop
+  - jazz
+  - bebop
+  - cool jazz
 instruments:
-- tenor saxophone
-- eponymous
-- original
-- piano
-- Rhodes piano
-associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7b27ddb9-0267-43c1-aa7f-c59434734bf0
-  name: The Curtis Fuller Sextette
-- begin: ''
-  end: ''
-  instruments:
   - tenor saxophone
-  mbid: b42e983a-c853-42b6-973a-d881faccccc7
-  name: The Jazztet
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
-  - tenor saxophone
-  mbid: d37eafc4-23bd-48b7-84a8-94fde6115c21
-  name: Benny Golson Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 24a13ae8-dcc0-4586-9886-54a6e82847fa
-  name: Roots
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 02ba63f3-4891-45c7-a058-4e7e49721877
-  name: Curtis Fuller's Quintet
+  - piano
+  - Rhodes piano
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7b27ddb9-0267-43c1-aa7f-c59434734bf0
+    name: The Curtis Fuller Sextette
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: b42e983a-c853-42b6-973a-d881faccccc7
+    name: The Jazztet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - tenor saxophone
+    mbid: d37eafc4-23bd-48b7-84a8-94fde6115c21
+    name: Benny Golson Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 24a13ae8-dcc0-4586-9886-54a6e82847fa
+    name: Roots
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 02ba63f3-4891-45c7-a058-4e7e49721877
+    name: Curtis Fuller's Quintet
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/benny_golson.jpg
   caption: Benny Golson
@@ -71,57 +71,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Art Farmer
-  - Art Blakey
-  - Curtis Fuller
-  - McCoy Tyner
-  - Lee Morgan, Bobby Timmons, Jymie Merritt
+    - Art Farmer
+    - Art Blakey
+    - Curtis Fuller
+    - McCoy Tyner
+    - 'Lee Morgan, Bobby Timmons, Jymie Merritt'
   influenced:
-  - John Coltrane
-  - Cedar Walton
-  - Grachan Moncur III
+    - John Coltrane
+    - Cedar Walton
+    - Grachan Moncur III
   mentors:
-  - Tadd Dameron
-  - Arnett Cobb
+    - Tadd Dameron
+    - Arnett Cobb
 spotify_data:
   followers: 43453
   id: 78NDaMzmcDKjt7mkXs7AuG
   popularity: 42
-  url: https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG
+  url: 'https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG'
 discography_enriched: true
 top_tracks:
-- I Remember Clifford (Benny Golson And The Philadelphians)
-- Dear Kathy (Turning Point)
-- Stella By Starlight (Turning Point)
-- 'Baby You Got What It Takes (The Enja Heritage Collection: You Got What It Takes)'
-- My Romance (Free)
-- Mad About The Boy (Free)
-- Blues After Dark (Gone With Golson)
-- From Dream to Dream (New Time, New 'Tet)
-- Stacatto Swing (Gone With Golson)
-- Killer Joe (Terminal 1)
+  - I Remember Clifford (Benny Golson And The Philadelphians)
+  - Dear Kathy (Turning Point)
+  - Stella By Starlight (Turning Point)
+  - >-
+    Baby You Got What It Takes (The Enja Heritage Collection: You Got What It
+    Takes)
+  - My Romance (Free)
+  - Mad About The Boy (Free)
+  - Blues After Dark (Gone With Golson)
+  - 'From Dream to Dream (New Time, New ''Tet)'
+  - Stacatto Swing (Gone With Golson)
+  - Killer Joe (Terminal 1)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/486bfccd-e9d5-4d7e-96b1-b9bbc6218743
-  spotify: https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG
-  wikipedia: https://en.wikipedia.org/wiki/Benny_Golson
+  musicbrainz: 'https://musicbrainz.org/artist/486bfccd-e9d5-4d7e-96b1-b9bbc6218743'
+  spotify: 'https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG'
+  wikipedia: 'https://en.wikipedia.org/wiki/Benny_Golson'
 image_path: 03_Resources/source_material/ArtistPortraits/benny_golson.jpg
 biography_enhanced_at: '2025-11-20T06:29:20.549323'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Benny_Golson
-- https://www.wrti.org/arts-desk/2024-09-22/benny-golson-saxophonist-and-composer-of-eloquence-dies-at-95
-- https://www.jazzstandards.com/biographies/biography_225.htm
-- https://www.selmer.fr/en/blogs/infos/benny-golson-legende-vivante-du-jazz
+  - 'https://en.wikipedia.org/wiki/Benny_Golson'
+  - >-
+    https://www.wrti.org/arts-desk/2024-09-22/benny-golson-saxophonist-and-composer-of-eloquence-dies-at-95
+  - 'https://www.jazzstandards.com/biographies/biography_225.htm'
+  - 'https://www.selmer.fr/en/blogs/infos/benny-golson-legende-vivante-du-jazz'
 network_extracted: true
 entry_created: '2025-11-20T06:29:20.549334'
 last_updated: '2025-12-23T08:16:05.289402'
 gender: Male
 musicbrainz_id: 486bfccd-e9d5-4d7e-96b1-b9bbc6218743
 tags:
-- bebop
-- hard bop
-- jazz
+  - bebop
+  - hard bop
+  - jazz
+is_active: false
 ---
 
 ![](benny_golson.jpg)

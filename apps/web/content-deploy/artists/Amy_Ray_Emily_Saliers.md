@@ -1,18 +1,18 @@
 ---
-title: Amy Ray, Emily Saliers
+title: 'Amy Ray, Emily Saliers'
 wiki_slug: amy-ray-emily-saliers
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1930-09-23'
 death_date: '2004-06-10'
 genres: []
 instruments:
-- piano
-- lead vocals
+  - piano
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Amy_Ray_Emily_Saliers.jpg
-  caption: Amy Ray, Emily Saliers
+  caption: 'Amy Ray, Emily Saliers'
   background: solo_singer
   born: '1930-09-23'
   died: '2004-06-10'
@@ -22,8 +22,8 @@ audio_profile:
   valence_avg: 0.223
   danceability_avg: 0.481
   acousticness_avg: 0.788
-  instrumentalness_avg: 0.0
-  loudness_avg: -14.0
+  instrumentalness_avg: 0
+  loudness_avg: -14
   speechiness_avg: 0.037
   liveness_avg: 0.111
   track_count: 5
@@ -31,52 +31,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lyris Hung
-  - Epic Records
-  - Various Atlanta musicians
+    - Lyris Hung
+    - Epic Records
+    - Various Atlanta musicians
   influenced:
-  - Brandi Carlile
-  - Queer folk and rock artists
+    - Brandi Carlile
+    - Queer folk and rock artists
   mentors:
-  - Don Saliers
+    - Don Saliers
 spotify_data:
   followers: 48
   id: 3VVvAjtdxnnCdq0B9ulZPq
   popularity: 1
-  url: https://open.spotify.com/artist/3VVvAjtdxnnCdq0B9ulZPq
+  url: 'https://open.spotify.com/artist/3VVvAjtdxnnCdq0B9ulZPq'
 discography_enriched: true
 top_tracks:
-- Hope (Fragrance vanille)
-- Fragrance vanille (Fragrance vanille)
-- I told you lies (Fragrance vanille)
-- If you're leaving (Fragrance vanille)
-- I met this girl in Montreal (Fragrance vanille)
+  - Hope (Fragrance vanille)
+  - Fragrance vanille (Fragrance vanille)
+  - I told you lies (Fragrance vanille)
+  - If you're leaving (Fragrance vanille)
+  - I met this girl in Montreal (Fragrance vanille)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2ce02909-598b-44ef-a456-151ba0a3bd70
-  spotify: https://open.spotify.com/artist/3VVvAjtdxnnCdq0B9ulZPq
-  wikipedia: https://en.wikipedia.org/wiki/Emily_Saliers
+  musicbrainz: 'https://musicbrainz.org/artist/2ce02909-598b-44ef-a456-151ba0a3bd70'
+  spotify: 'https://open.spotify.com/artist/3VVvAjtdxnnCdq0B9ulZPq'
+  wikipedia: 'https://en.wikipedia.org/wiki/Emily_Saliers'
 image_path: 03_Resources/source_material/ArtistPortraits/Amy_Ray_Emily_Saliers.jpg
 biography_enhanced_at: '2025-10-20T02:02:32.520557'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.indigogirls.com/bio
-- https://en.wikipedia.org/wiki/Emily_Saliers
-- https://news.emory.edu/features/2023/07/emag-indigo-girls-12-07-23/index.html
-- https://www.georgiaencyclopedia.org/articles/arts-culture/indigo-girls/
-- https://research.library.gsu.edu/c.php?g=115733&p=750705
+  - 'https://www.indigogirls.com/bio'
+  - 'https://en.wikipedia.org/wiki/Emily_Saliers'
+  - >-
+    https://news.emory.edu/features/2023/07/emag-indigo-girls-12-07-23/index.html
+  - 'https://www.georgiaencyclopedia.org/articles/arts-culture/indigo-girls/'
+  - 'https://research.library.gsu.edu/c.php?g=115733&p=750705'
 network_extracted: true
 entry_created: '2025-10-20T02:02:32.520577'
 last_updated: '2025-12-23T08:16:00.991969'
-disambiguation: soul musician, singer and songwriter
+disambiguation: 'soul musician, singer and songwriter'
 gender: Male
 musicbrainz_enriched_at: '2025-10-21T08:07:45.738221'
 musicbrainz_id: 2ce02909-598b-44ef-a456-151ba0a3bd70
-origin: Decatur, Georgia, United States
+origin: 'Decatur, Georgia, United States'
 tags:
-- 2008 universal fire victim
-- aln-sh
-- blues
+  - 2008 universal fire victim
+  - aln-sh
+  - blues
+is_active: false
+birth_place: 'Albany, Georgia, United States'
 ---
 
 ![](Amy_Ray_Emily_Saliers.jpg)

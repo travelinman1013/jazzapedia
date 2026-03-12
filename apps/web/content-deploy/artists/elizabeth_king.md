@@ -1,39 +1,42 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-13T01:14:31.469978'
-birth_place: Charleston, Mississippi, USA (birthplace); Memphis, Tennessee, USA (primary
-  base)
+birth_place: 'Charleston, Mississippi, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-13T01:14:31.469985'
 external_urls:
-  spotify: https://open.spotify.com/artist/2rYdxt7Boyo1L88Li76b4V
+  spotify: 'https://open.spotify.com/artist/2rYdxt7Boyo1L88Li76b4V'
   wikipedia: ''
 genres:
-- soul blues
+  - soul blues
 image_path: 03_Resources/source_material/ArtistPortraits/elizabeth_king.jpg
 last_updated: '2026-01-13T01:14:31.469986'
 musical_connections:
   collaborators:
-  - Gospel Souls
-  - Rev. Juan D. Sipp (Juan D. Shipp)
-  - Bruce Watson
+    - Gospel Souls
+    - Rev. Juan D. Sipp (Juan D. Shipp)
+    - Bruce Watson
   influenced: []
   mentors:
-  - Mother and Father
+    - Mother and Father
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://montanafolkfestival.com/elizabeth-king/
-- https://bittersoutherner.com/southern-perspectives/2021/life-on-hold-elizabeth-king-robert-finley
-- https://thecreekfm.com/2022/06/28/review-i-got-a-love-elizabeth-king/
-- https://americansongwriter.com/gospel-singer-elizabeth-king-finds-herself-in-the-spotlight-at-77/
-- https://downatthecrossroads.wordpress.com/2021/03/17/elizabeth-kings-living-in-the-last-days-is-a-gift-for-us-all/
-- https://www.wypr.org/2021-03-29/elizabeth-kings-gospel-sound-transports-believers-and-non-believers-alike
+  - 'https://montanafolkfestival.com/elizabeth-king/'
+  - >-
+    https://bittersoutherner.com/southern-perspectives/2021/life-on-hold-elizabeth-king-robert-finley
+  - 'https://thecreekfm.com/2022/06/28/review-i-got-a-love-elizabeth-king/'
+  - >-
+    https://americansongwriter.com/gospel-singer-elizabeth-king-finds-herself-in-the-spotlight-at-77/
+  - >-
+    https://downatthecrossroads.wordpress.com/2021/03/17/elizabeth-kings-living-in-the-last-days-is-a-gift-for-us-all/
+  - >-
+    https://www.wypr.org/2021-03-29/elizabeth-kings-gospel-sound-transports-believers-and-non-believers-alike
 spotify_data:
   followers: 964
   id: 2rYdxt7Boyo1L88Li76b4V
   popularity: 3
-  url: https://open.spotify.com/artist/2rYdxt7Boyo1L88Li76b4V
+  url: 'https://open.spotify.com/artist/2rYdxt7Boyo1L88Li76b4V'
 status: active
 title: Elizabeth King
 ---

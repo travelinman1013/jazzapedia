@@ -5,10 +5,10 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1967-05-30'
-birth_place: Salvador
+birth_place: 'Salvador, Bahia, Brazil'
 genres:
-- mpb
-- nova mpb
+  - mpb
+  - nova mpb
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/vania_abreu.jpg
   caption: Vania Abreu
@@ -16,7 +16,7 @@ infobox:
   born: '1967-05-30'
   origin: Salvador
 audio_profile:
-  tempo_avg: 117.0
+  tempo_avg: 117
   energy_avg: 0.44
   valence_avg: 0.529
   danceability_avg: 0.663
@@ -30,50 +30,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Gerônimo
-  - Marcelo Quintanilha
-  - Daniela Mercury
-  - Roberto Mendes
+    - Gerônimo
+    - Marcelo Quintanilha
+    - Daniela Mercury
+    - Roberto Mendes
   influenced:
-  - Emerging Bahian MPB artists
+    - Emerging Bahian MPB artists
   mentors:
-  - Daniela Mercury
+    - Daniela Mercury
 spotify_data:
   followers: 8269
   id: 6RZsYR3ZWjoCAjgcRzVVgy
   popularity: 21
-  url: https://open.spotify.com/artist/6RZsYR3ZWjoCAjgcRzVVgy
+  url: 'https://open.spotify.com/artist/6RZsYR3ZWjoCAjgcRzVVgy'
 discography_enriched: true
 top_tracks:
-- As quatro estações (As Quatros Estações)
-- Bem ou mal (As Quatros Estações)
-- Embola Bola (Misteriosa Dona Esperança)
-- Na Volta Que o Mundo Dá (Seio da Bahia)
-- Dó de mim (Prá Mim)
-- Mais de Mim (Seio da Bahia)
-- Embola Bola (Misteriosa Dona Esperança)
-- Diga que me ama (Misteriosa Dona Esperança)
-- Sangue Latino (Seio da Bahia)
-- Oração de Mãe Menininha / Embala Eu (Flor da Bahia)
+  - As quatro estações (As Quatros Estações)
+  - Bem ou mal (As Quatros Estações)
+  - Embola Bola (Misteriosa Dona Esperança)
+  - Na Volta Que o Mundo Dá (Seio da Bahia)
+  - Dó de mim (Prá Mim)
+  - Mais de Mim (Seio da Bahia)
+  - Embola Bola (Misteriosa Dona Esperança)
+  - Diga que me ama (Misteriosa Dona Esperança)
+  - Sangue Latino (Seio da Bahia)
+  - Oração de Mãe Menininha / Embala Eu (Flor da Bahia)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f8acb7ed-c9ff-4f99-8ca0-d190f5818268
-  spotify: https://open.spotify.com/artist/6RZsYR3ZWjoCAjgcRzVVgy
-  wikipedia: https://pt.wikipedia.org/wiki/V%C3%A2nia_Abreu
+  musicbrainz: 'https://musicbrainz.org/artist/f8acb7ed-c9ff-4f99-8ca0-d190f5818268'
+  spotify: 'https://open.spotify.com/artist/6RZsYR3ZWjoCAjgcRzVVgy'
+  wikipedia: 'https://pt.wikipedia.org/wiki/V%C3%A2nia_Abreu'
 image_path: 03_Resources/source_material/ArtistPortraits/vania_abreu.jpg
 biography_enhanced_at: '2025-11-16T20:19:01.051389'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://pt.wikipedia.org/wiki/V%C3%A2nia_Abreu
-- https://phillipkay.wordpress.com/2009/09/08/singers-from-brazil/
-- https://www.allmusic.com/artist/vania-abreu-mn0000309651
+  - 'https://pt.wikipedia.org/wiki/V%C3%A2nia_Abreu'
+  - 'https://phillipkay.wordpress.com/2009/09/08/singers-from-brazil/'
+  - 'https://www.allmusic.com/artist/vania-abreu-mn0000309651'
 network_extracted: true
 entry_created: '2025-11-16T20:19:01.051401'
 last_updated: '2025-12-23T08:16:17.819275'
 gender: Female
 musicbrainz_id: f8acb7ed-c9ff-4f99-8ca0-d190f5818268
 tags:
-- mpb
+  - mpb
 ---
 
 ![](vania_abreu.jpg)

@@ -4,8 +4,8 @@ wiki_slug: outkast
 schema_version: 2
 status: active
 genres:
-- southern hip hop
-- hip hop
+  - southern hip hop
+  - hip hop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/outkast.jpg
   caption: Outkast
@@ -25,49 +25,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sleepy Brown
-  - Killer Mike
-  - Mr. DJ (David Sheats)
+    - Sleepy Brown
+    - Killer Mike
+    - Mr. DJ (David Sheats)
   influenced:
-  - Kendrick Lamar
-  - Janelle Monáe
-  - Childish Gambino (Donald Glover)
+    - Kendrick Lamar
+    - Janelle Monáe
+    - Childish Gambino (Donald Glover)
   mentors:
-  - Organized Noize
-  - Dungeon Family
+    - Organized Noize
+    - Dungeon Family
 spotify_data:
   followers: 3403718
   id: 1G9G7WwrXka3Z1r7aIDjI7
   popularity: 74
-  url: https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7
+  url: 'https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7'
 discography_enriched: true
 top_tracks:
-- Ms. Jackson (Stankonia)
-- Hey Ya! (Speakerboxxx/The Love Below)
-- So Fresh, So Clean (Stankonia)
-- The Way You Move (feat. Sleepy Brown) (Speakerboxxx/The Love Below)
-- ATLiens (ATLiens)
-- Roses (Speakerboxxx/The Love Below)
-- Rosa Parks (Aquemini)
-- Int'l Players Anthem (I Choose You) (feat. Outkast) (UGK (Underground Kingz))
-- B.O.B. - Bombs Over Baghdad (Stankonia)
-- Da Art of Storytellin' (Pt. 1) (Aquemini)
+  - Ms. Jackson (Stankonia)
+  - Hey Ya! (Speakerboxxx/The Love Below)
+  - 'So Fresh, So Clean (Stankonia)'
+  - The Way You Move (feat. Sleepy Brown) (Speakerboxxx/The Love Below)
+  - ATLiens (ATLiens)
+  - Roses (Speakerboxxx/The Love Below)
+  - Rosa Parks (Aquemini)
+  - >-
+    Int'l Players Anthem (I Choose You) (feat. Outkast) (UGK (Underground
+    Kingz))
+  - B.O.B. - Bombs Over Baghdad (Stankonia)
+  - Da Art of Storytellin' (Pt. 1) (Aquemini)
 external_urls:
-  spotify: https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7
-  wikipedia: https://en.wikipedia.org/wiki/Outkast
+  spotify: 'https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7'
+  wikipedia: 'https://en.wikipedia.org/wiki/Outkast'
 image_path: 03_Resources/source_material/ArtistPortraits/outkast.jpg
 biography_enhanced_at: '2025-11-12T14:40:16.134299'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.georgiaencyclopedia.org/articles/arts-culture/outkast/
-- https://www.britannica.com/topic/OutKast
-- https://www.last.fm/music/OutKast/+wiki
-- https://blackpast.org/african-american-history/outkast-1992-2007/
+  - 'https://www.georgiaencyclopedia.org/articles/arts-culture/outkast/'
+  - 'https://www.britannica.com/topic/OutKast'
+  - 'https://www.last.fm/music/OutKast/+wiki'
+  - 'https://blackpast.org/african-american-history/outkast-1992-2007/'
 network_extracted: true
 entry_created: '2025-11-12T14:40:16.134311'
 last_updated: '2025-12-23T08:16:13.884798'
-origin: East Point, Fulton County, Georgia, United States
+origin: 'East Point, Fulton County, Georgia, United States'
+artist_type: band
 ---
 
 ![](outkast.jpg)

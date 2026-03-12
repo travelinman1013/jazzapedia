@@ -5,25 +5,25 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1948-07-17'
-birth_place: Kingston
+birth_place: 'Kingston, Jamaica'
 death_date: '2025-05-15'
 genres:
-- roots reggae
-- rocksteady
-- reggae
-- dub
-- lovers rock
+  - roots reggae
+  - rocksteady
+  - reggae
+  - dub
+  - lovers rock
 instruments:
-- lead vocals
-- original
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - lead vocals
   - original
-  mbid: 505417ca-8ab3-4291-bd87-d551bfdda1cb
-  name: The Versatiles
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+      - original
+    mbid: 505417ca-8ab3-4291-bd87-d551bfdda1cb
+    name: The Versatiles
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/junior_byles.jpg
   caption: Junior Byles
@@ -32,7 +32,7 @@ infobox:
   origin: Kingston
   died: '2025-05-15'
 audio_profile:
-  tempo_avg: 118.0
+  tempo_avg: 118
   energy_avg: 0.469
   valence_avg: 0.748
   danceability_avg: 0.809
@@ -46,53 +46,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dudley Earl
-  - Ben 'Louis' Davis
-  - Winston Holness (Niney the Observer)
-  - Earl 'Chinna' Smith
-  - Joseph Hoo Kim (JoJo Hookim)
+    - Dudley Earl
+    - Ben 'Louis' Davis
+    - Winston Holness (Niney the Observer)
+    - Earl 'Chinna' Smith
+    - Joseph Hoo Kim (JoJo Hookim)
   influenced:
-  - New Age Steppers
+    - New Age Steppers
   mentors:
-  - Lee 'Scratch' Perry
+    - Lee 'Scratch' Perry
 spotify_data:
   followers: 34428
   id: 5J6lHDYy53GyksfcJyHadC
   popularity: 41
-  url: https://open.spotify.com/artist/5J6lHDYy53GyksfcJyHadC
+  url: 'https://open.spotify.com/artist/5J6lHDYy53GyksfcJyHadC'
 discography_enriched: true
 top_tracks:
-- Beat Down Babylon (Beat Down Babylon)
-- Fade Away
-- Curly Locks
-- The Long Way
-- Beat Down Babylon (Beat Down Babylon (Expanded Version))
-- It Was a Long Way
-- Fever (Beat Down Babylon (Expanded Version))
-- Whip Them, Whip Them
-- Mystic Revelation (Jordan)
-- Rasta No Pickpocket
+  - Beat Down Babylon (Beat Down Babylon)
+  - Fade Away
+  - Curly Locks
+  - The Long Way
+  - Beat Down Babylon (Beat Down Babylon (Expanded Version))
+  - It Was a Long Way
+  - Fever (Beat Down Babylon (Expanded Version))
+  - 'Whip Them, Whip Them'
+  - Mystic Revelation (Jordan)
+  - Rasta No Pickpocket
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a7f02a97-8db1-4f64-9fb9-c048032f721b
-  spotify: https://open.spotify.com/artist/5J6lHDYy53GyksfcJyHadC
-  wikipedia: https://en.wikipedia.org/wiki/Junior_Byles
+  musicbrainz: 'https://musicbrainz.org/artist/a7f02a97-8db1-4f64-9fb9-c048032f721b'
+  spotify: 'https://open.spotify.com/artist/5J6lHDYy53GyksfcJyHadC'
+  wikipedia: 'https://en.wikipedia.org/wiki/Junior_Byles'
 image_path: 03_Resources/source_material/ArtistPortraits/junior_byles.jpg
 biography_enhanced_at: '2025-12-22T01:49:58.169531'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Junior_Byles
-- https://www.youtube.com/watch?v=xiP2Stk8raY
-- https://wbssmedia.com/artists/detail/1612
-- https://www.reggaeville.com/artist-details/junior-byles/about/
+  - 'https://en.wikipedia.org/wiki/Junior_Byles'
+  - 'https://www.youtube.com/watch?v=xiP2Stk8raY'
+  - 'https://wbssmedia.com/artists/detail/1612'
+  - 'https://www.reggaeville.com/artist-details/junior-byles/about/'
 network_extracted: true
 entry_created: '2025-12-22T01:49:58.169539'
 last_updated: '2025-12-23T08:16:11.076026'
 gender: Male
 musicbrainz_id: a7f02a97-8db1-4f64-9fb9-c048032f721b
 tags:
-- reggae
-- roots reggae
+  - reggae
+  - roots reggae
+is_active: false
 ---
 
 ![](junior_byles.jpg)

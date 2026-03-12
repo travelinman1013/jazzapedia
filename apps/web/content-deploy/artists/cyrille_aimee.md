@@ -3,16 +3,16 @@ title: Cyrille Aimee
 wiki_slug: cyrille-aimee
 schema_version: 2
 status: active
-birth_place: Samois-sur-Seine, Île-de-France, France
+birth_place: 'Samois-sur-Seine, Île-de-France, France'
 genres:
-- french jazz
-- vocal jazz
-- jazz
+  - french jazz
+  - vocal jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/cyrille_aimee.jpg
   caption: Cyrille Aimee
   background: solo_singer
-  origin: Samois-sur-Seine, Île-de-France, France
+  origin: 'Samois-sur-Seine, Île-de-France, France'
 audio_profile:
   tempo_avg: 113.9
   energy_avg: 0.298
@@ -28,55 +28,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Roy Hargrove
-  - Wynton Marsalis
-  - Michael Valeanu
-  - Adrien Moignard
-  - Diego Figueiredo
-  - Emmett Cohen
-  - Jake Sherman
-  - Bernadette Peters
+    - Roy Hargrove
+    - Wynton Marsalis
+    - Michael Valeanu
+    - Adrien Moignard
+    - Diego Figueiredo
+    - Emmett Cohen
+    - Jake Sherman
+    - Bernadette Peters
   influenced: []
   mentors:
-  - Spike Wilner
-  - Joel Frahm
-  - Steven Sondheim
+    - Spike Wilner
+    - Joel Frahm
+    - Steven Sondheim
 spotify_data:
   followers: 58996
   id: 7rcjVbooAaV2pPRdyPHCrM
   popularity: 44
-  url: https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM
+  url: 'https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM'
 discography_enriched: true
 top_tracks:
-- Je Suis Seule Ce Soir (Just The Two Of Us)
-- 'Loving You (Move On: A Sondheim Adventure)'
-- Samois A Moi (Just The Two Of Us)
-- Just The Two Of Us (Just The Two Of Us)
-- I'll Be Seeing You (I'll Be Seeing You)
-- Je Suis Seule Ce Soir (Just The Two Of Us)
-- En el Último Trago (feat. Cyrille Aimée)
-- Samois A Moi (Just The Two Of Us)
-- Young at Heart (It's a Good Day)
-- You Make Me Feel So Young (Hooray For Love)
+  - Je Suis Seule Ce Soir (Just The Two Of Us)
+  - 'Loving You (Move On: A Sondheim Adventure)'
+  - Samois A Moi (Just The Two Of Us)
+  - Just The Two Of Us (Just The Two Of Us)
+  - I'll Be Seeing You (I'll Be Seeing You)
+  - Je Suis Seule Ce Soir (Just The Two Of Us)
+  - En el Último Trago (feat. Cyrille Aimée)
+  - Samois A Moi (Just The Two Of Us)
+  - Young at Heart (It's a Good Day)
+  - You Make Me Feel So Young (Hooray For Love)
 external_urls:
-  spotify: https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM
-  wikipedia: https://en.wikipedia.org/wiki/Cyrille_Aimée
+  spotify: 'https://open.spotify.com/artist/7rcjVbooAaV2pPRdyPHCrM'
+  wikipedia: 'https://en.wikipedia.org/wiki/Cyrille_Aimée'
 image_path: 03_Resources/source_material/ArtistPortraits/cyrille_aimee.jpg
 biography_enhanced_at: '2025-11-29T06:59:22.769969'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://cyrillemusic.com/aboutfullenglishold
-- https://www.efperformances.com/cyrille-aimee
-- https://www.asmm.fr/en/our_team/cyrille-aimee/
-- https://www.jazzempowers.org/cyrille-aimee
-- https://www.jazzdergisi.com/en/ruhu-cingene-bedeni-jazzci-cyrille-aimee-anlatiyor/
-- https://en.wikipedia.org/wiki/Cyrille_Aimée
-- https://jazztimes.com/features/profiles/cyrille-aimee-no-sad-songs/
-- https://www.allaboutjazz.com/news/interview-cyrille-aimee/
+  - 'https://cyrillemusic.com/aboutfullenglishold'
+  - 'https://www.efperformances.com/cyrille-aimee'
+  - 'https://www.asmm.fr/en/our_team/cyrille-aimee/'
+  - 'https://www.jazzempowers.org/cyrille-aimee'
+  - >-
+    https://www.jazzdergisi.com/en/ruhu-cingene-bedeni-jazzci-cyrille-aimee-anlatiyor/
+  - 'https://en.wikipedia.org/wiki/Cyrille_Aimée'
+  - 'https://jazztimes.com/features/profiles/cyrille-aimee-no-sad-songs/'
+  - 'https://www.allaboutjazz.com/news/interview-cyrille-aimee/'
 network_extracted: true
 entry_created: '2025-11-29T06:59:22.769983'
 last_updated: '2025-12-23T08:16:07.356998'
+birth_date: '1984-08-10'
+artist_type: person
 ---
 
 ![](cyrille_aimee.jpg)

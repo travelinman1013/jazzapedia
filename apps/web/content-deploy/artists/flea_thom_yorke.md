@@ -1,41 +1,43 @@
 ---
 biography_enhanced_at: '2026-01-20T01:20:23.564779'
-birth_place: Melbourne, Victoria, Australia
+birth_place: 'Melbourne, Victoria, Australia'
 enhancement_provider: perplexity
 entry_created: '2026-01-20T01:20:23.564785'
 external_urls:
-  spotify: https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j
-  wikipedia: https://en.wikipedia.org/wiki/Flea_(musician)
+  spotify: 'https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j'
+  wikipedia: 'https://en.wikipedia.org/wiki/Flea_(musician)'
 genres:
-- funk rock
+  - funk rock
 image_path: 03_Resources/source_material/ArtistPortraits/flea_thom_yorke.jpg
 last_updated: '2026-01-20T01:20:23.564785'
 musical_connections:
   collaborators:
-  - Anthony Kiedis
-  - Hillel Slovak
-  - Alanis Morissette
-  - Mike Watt
-  - Thom Yorke
-  - Tom Waits
+    - Anthony Kiedis
+    - Hillel Slovak
+    - Alanis Morissette
+    - Mike Watt
+    - Thom Yorke
+    - Tom Waits
   influenced:
-  - Josh Klinghoffer
+    - Josh Klinghoffer
   mentors:
-  - Hillel Slovak
-  - Anthony Kiedis
+    - Hillel Slovak
+    - Anthony Kiedis
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Flea_(musician)
-- https://onlinebasscourses.com/player-profiles/flea-bass-guitar/
-- https://www.youtube.com/watch?v=GmA49M9HwYA
+  - 'https://en.wikipedia.org/wiki/Flea_(musician)'
+  - 'https://onlinebasscourses.com/player-profiles/flea-bass-guitar/'
+  - 'https://www.youtube.com/watch?v=GmA49M9HwYA'
 spotify_data:
   followers: 107031
   id: 0Xl5J6iOgiQHFqgri7TF8j
   popularity: 45
-  url: https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j
+  url: 'https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j'
 status: active
-title: Flea, Thom Yorke
+title: Flea
+birth_date: '1962-10-16'
+artist_type: person
 ---
 
 ![](flea_thom_yorke.jpg)

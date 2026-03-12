@@ -2,21 +2,21 @@
 title: Azar Lawrence
 wiki_slug: azar-lawrence
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1953-11-02'
-birth_place: Los Angeles, California, United States
+birth_place: 'Los Angeles, California, United States'
 genres:
-- jazz fusion
+  - jazz fusion
 instruments:
-- alto saxophone
-- tenor saxophone
+  - alto saxophone
+  - tenor saxophone
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Azar_Lawrence.jpg
   caption: Azar Lawrence
   background: non_vocal_instrumentalist
   born: '1953-11-02'
-  origin: Los Angeles, California, United States
+  origin: 'Los Angeles, California, United States'
 audio_profile:
   tempo_avg: 113.4
   energy_avg: 0.645
@@ -32,52 +32,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Elvin Jones
-  - McCoy Tyner
-  - Miles Davis
-  - Freddie Hubbard
-  - Earth, Wind & Fire
-  - Marvin Gaye
-  - Woody Shaw
+    - Elvin Jones
+    - McCoy Tyner
+    - Miles Davis
+    - Freddie Hubbard
+    - 'Earth, Wind & Fire'
+    - Marvin Gaye
+    - Woody Shaw
   influenced:
-  - Lynne Fiddmont
-  - Chris Lowery
+    - Lynne Fiddmont
+    - Chris Lowery
   mentors:
-  - Ima Lawrence
-  - Herbert Baker
-  - John Coltrane
+    - Ima Lawrence
+    - Herbert Baker
+    - John Coltrane
 spotify_data:
   followers: 3134
   id: 1Yr6ybkgMgNuBJ2UslIwW3
   popularity: 11
-  url: https://open.spotify.com/artist/1Yr6ybkgMgNuBJ2UslIwW3
+  url: 'https://open.spotify.com/artist/1Yr6ybkgMgNuBJ2UslIwW3'
 discography_enriched: true
 top_tracks:
-- Can't Hide Love (People Moving)
-- The Awakening (People Moving)
-- People Moving (People Moving)
-- Novo Ano (Summer Solstice)
-- Summer Solstice (Summer Solstice)
-- Theme For A New Day (People Moving)
-- Canticle For The Universe (People Moving)
-- Fatisha (Bridge Into The New Age)
-- Kickin' Back (People Moving)
-- Gratitude (People Moving)
+  - Can't Hide Love (People Moving)
+  - The Awakening (People Moving)
+  - People Moving (People Moving)
+  - Novo Ano (Summer Solstice)
+  - Summer Solstice (Summer Solstice)
+  - Theme For A New Day (People Moving)
+  - Canticle For The Universe (People Moving)
+  - Fatisha (Bridge Into The New Age)
+  - Kickin' Back (People Moving)
+  - Gratitude (People Moving)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8935ef74-e1ac-4683-858f-64ebc7808fad
-  spotify: https://open.spotify.com/artist/1Yr6ybkgMgNuBJ2UslIwW3
-  wikipedia: https://en.wikipedia.org/wiki/Azar_Lawrence
+  musicbrainz: 'https://musicbrainz.org/artist/8935ef74-e1ac-4683-858f-64ebc7808fad'
+  spotify: 'https://open.spotify.com/artist/1Yr6ybkgMgNuBJ2UslIwW3'
+  wikipedia: 'https://en.wikipedia.org/wiki/Azar_Lawrence'
 image_path: 03_Resources/source_material/ArtistPortraits/Azar_Lawrence.jpg
 biography_enhanced_at: '2025-10-19T11:46:04.019942'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Azar_Lawrence
-- https://www.allaboutjazz.com/musicians/azar-lawrence/
-- https://azarlawrence.com/bio
-- https://insheepsclothinghifi.com/azar-lawrence-interview/
-- https://jazztimes.com/departments/overdue-ovation/azar-lawrence-enlightened-in-the-new-age/
-- https://metaljazz.com/2008/01/feature_azar_lawrence_la_saxis.php
+  - 'https://en.wikipedia.org/wiki/Azar_Lawrence'
+  - 'https://www.allaboutjazz.com/musicians/azar-lawrence/'
+  - 'https://azarlawrence.com/bio'
+  - 'https://insheepsclothinghifi.com/azar-lawrence-interview/'
+  - >-
+    https://jazztimes.com/departments/overdue-ovation/azar-lawrence-enlightened-in-the-new-age/
+  - 'https://metaljazz.com/2008/01/feature_azar_lawrence_la_saxis.php'
 network_extracted: true
 entry_created: '2025-10-19T11:46:04.019954'
 last_updated: '2025-12-23T08:16:01.088270'
@@ -85,9 +86,9 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:00:27.354871'
 musicbrainz_id: 8935ef74-e1ac-4683-858f-64ebc7808fad
 tags:
-- contemporary jazz
-- fusion
-- jazz
+  - contemporary jazz
+  - fusion
+  - jazz
 ---
 
 ![](Azar_Lawrence.jpg)

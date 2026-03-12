@@ -2,16 +2,16 @@
 title: The Wee Trio
 wiki_slug: the-wee-trio
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- exotica
+  - exotica
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_wee_trio.jpg
   caption: The Wee Trio
   background: group_or_band
 audio_profile:
-  tempo_avg: 113.0
+  tempo_avg: 113
   energy_avg: 0.408
   valence_avg: 0.421
   danceability_avg: 0.495
@@ -25,53 +25,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Nicholas Payton
-  - Fabian Almazan
-  - Nir Felder
+    - Nicholas Payton
+    - Fabian Almazan
+    - Nir Felder
   influenced: []
   mentors:
-  - Reggie Thomas
-  - Rick Haden
-  - Willie Aikens
+    - Reggie Thomas
+    - Rick Haden
+    - Willie Aikens
 spotify_data:
   followers: 274
   id: 5h7HexjTihnTFSShXSxjRG
   popularity: 0
-  url: https://open.spotify.com/artist/5h7HexjTihnTFSShXSxjRG
+  url: 'https://open.spotify.com/artist/5h7HexjTihnTFSShXSxjRG'
 discography_enriched: true
 top_tracks:
-- Titan Up (Wee + 3)
-- Sound Evidence (Wee + 3)
-- RT3 (Wee + 3)
-- Climb (Wee + 3)
-- Sabotage (Wee + 3)
-- No Justice (Wee + 3)
-- Belle femme de voodoo (Wee + 3)
-- Lola (Wee + 3)
-- Redwood (Wee + 3)
-- Gibbs Street (Wee + 3)
+  - Titan Up (Wee + 3)
+  - Sound Evidence (Wee + 3)
+  - RT3 (Wee + 3)
+  - Climb (Wee + 3)
+  - Sabotage (Wee + 3)
+  - No Justice (Wee + 3)
+  - Belle femme de voodoo (Wee + 3)
+  - Lola (Wee + 3)
+  - Redwood (Wee + 3)
+  - Gibbs Street (Wee + 3)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e85c8067-9754-4b7e-b1e5-9fbb94445378
-  spotify: https://open.spotify.com/artist/5h7HexjTihnTFSShXSxjRG
-  wikipedia: https://en.wikipedia.org/wiki/The_Wee_Trio
+  musicbrainz: 'https://musicbrainz.org/artist/e85c8067-9754-4b7e-b1e5-9fbb94445378'
+  spotify: 'https://open.spotify.com/artist/5h7HexjTihnTFSShXSxjRG'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Wee_Trio'
 image_path: 03_Resources/source_material/ArtistPortraits/the_wee_trio.jpg
 biography_enhanced_at: '2025-11-04T10:51:09.513677'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Wee_Trio
-- https://www.esm.rochester.edu/blog/2017/06/eastman-at-the-jazz-festival-part-5-the-wee-trios-dan-loomis-and-jared-schoenig/
-- http://jameswestfall.com/?tag=wee-trio
-- https://www.patriotledger.com/story/entertainment/music/2008/10/17/music-scene-wee-trio-succeeds/40301471007/
-- https://thejazzsession.com/2009/04/27/the-jazz-session-55-the-wee-trio/
-- https://www.mysanantonio.com/entertainment/music/article/Review-Ashes-to-Ashes-The-Wee-Trio-2685261.php
-- http://theweetrio.com/about-me/
-- http://theweetrio.com
+  - 'https://en.wikipedia.org/wiki/The_Wee_Trio'
+  - >-
+    https://www.esm.rochester.edu/blog/2017/06/eastman-at-the-jazz-festival-part-5-the-wee-trios-dan-loomis-and-jared-schoenig/
+  - 'http://jameswestfall.com/?tag=wee-trio'
+  - >-
+    https://www.patriotledger.com/story/entertainment/music/2008/10/17/music-scene-wee-trio-succeeds/40301471007/
+  - 'https://thejazzsession.com/2009/04/27/the-jazz-session-55-the-wee-trio/'
+  - >-
+    https://www.mysanantonio.com/entertainment/music/article/Review-Ashes-to-Ashes-The-Wee-Trio-2685261.php
+  - 'http://theweetrio.com/about-me/'
+  - 'http://theweetrio.com'
 network_extracted: true
 entry_created: '2025-11-04T10:51:09.513691'
 last_updated: '2025-12-23T08:16:17.280229'
 musicbrainz_id: e85c8067-9754-4b7e-b1e5-9fbb94445378
-origin: Brooklyn, New York, USA
+origin: 'Brooklyn, New York, USA'
 ---
 
 ![](the_wee_trio.jpg)

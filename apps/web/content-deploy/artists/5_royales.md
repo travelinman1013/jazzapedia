@@ -1,11 +1,11 @@
 ---
-title: 5 royales
+title: The 5 Royales
 wiki_slug: 5-royales
 schema_version: 2
 status: active
 genres:
-- doo-wop
-- northern soul
+  - doo-wop
+  - northern soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/5_royales.jpg
   caption: 5 royales
@@ -25,53 +25,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lowman 'Pete' Pauling
-  - Johnny Tanner
-  - Clarence Pauling (Clarence Paul)
-  - Eugene Tanner
+    - Lowman 'Pete' Pauling
+    - Johnny Tanner
+    - Clarence Pauling (Clarence Paul)
+    - Eugene Tanner
   influenced:
-  - James Brown
-  - Steve Cropper
-  - Eric Clapton
-  - The Shirelles
-  - The Mamas & the Papas
-  - Ray Charles
+    - James Brown
+    - Steve Cropper
+    - Eric Clapton
+    - The Shirelles
+    - The Mamas & the Papas
+    - Ray Charles
   mentors:
-  - Gospel tradition
+    - Gospel tradition
 spotify_data:
   followers: 8549
   id: 67OIf7vgqZq9qFuDqmCFyI
   popularity: 20
-  url: https://open.spotify.com/artist/67OIf7vgqZq9qFuDqmCFyI
+  url: 'https://open.spotify.com/artist/67OIf7vgqZq9qFuDqmCFyI'
 discography_enriched: true
 top_tracks:
-- Think (Dedicated To You)
-- Dedicated To The One I Love (Dedicated To You)
-- Catch That Teardrop (I Love Music - Only Original Recondings)
-- Baby, Don't Do It (All Righty! (The Apollo Recordings 1951-1955))
-- Right Around The Corner (Dedicated To You)
-- Catch That Teardrop (Dancing by Myself - Lost in Nothern Soul)
-- 'The Slummer the Slum (R&B Greats: Think)'
-- Crazy Crazy Crazy (All Righty! (The Apollo Recordings 1951-1955))
-- I Do (All Righty! (The Apollo Recordings 1951-1955))
-- Thirty Second Lover (Dedicated To You)
+  - Think (Dedicated To You)
+  - Dedicated To The One I Love (Dedicated To You)
+  - Catch That Teardrop (I Love Music - Only Original Recondings)
+  - 'Baby, Don''t Do It (All Righty! (The Apollo Recordings 1951-1955))'
+  - Right Around The Corner (Dedicated To You)
+  - Catch That Teardrop (Dancing by Myself - Lost in Nothern Soul)
+  - 'The Slummer the Slum (R&B Greats: Think)'
+  - Crazy Crazy Crazy (All Righty! (The Apollo Recordings 1951-1955))
+  - I Do (All Righty! (The Apollo Recordings 1951-1955))
+  - Thirty Second Lover (Dedicated To You)
 external_urls:
-  spotify: https://open.spotify.com/artist/67OIf7vgqZq9qFuDqmCFyI
-  wikipedia: https://en.wikipedia.org/wiki/The_%225%22_Royales
+  spotify: 'https://open.spotify.com/artist/67OIf7vgqZq9qFuDqmCFyI'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_%225%22_Royales'
 image_path: 03_Resources/source_material/ArtistPortraits/5_royales.jpg
 biography_enhanced_at: '2025-11-11T09:29:03.739833'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_%225%22_Royales
-- https://www.ncmea.net/the_5_royales/
-- https://www.history-of-rock.com/five_royales.htm
-- https://rockhall.com/inductees/5-royales/
+  - 'https://en.wikipedia.org/wiki/The_%225%22_Royales'
+  - 'https://www.ncmea.net/the_5_royales/'
+  - 'https://www.history-of-rock.com/five_royales.htm'
+  - 'https://rockhall.com/inductees/5-royales/'
 network_extracted: true
 entry_created: '2025-11-11T09:29:03.739844'
 last_updated: '2025-12-23T08:16:00.909478'
-origin: Winston-Salem, North Carolina, United States
-
+origin: 'Winston-Salem, North Carolina, United States'
+artist_type: band
 ---
 
 ![](5_royales.jpg)

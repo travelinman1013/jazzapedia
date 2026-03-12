@@ -5,79 +5,81 @@ birth_date: '1979'
 enhancement_provider: perplexity
 entry_created: '2026-01-13T01:17:25.476297'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4c0d9acf-a8a1-4765-9c56-05f92f68c048
-  spotify: https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv
-  wikipedia: https://en.wikipedia.org/wiki/Spandau_Ballet
+  musicbrainz: 'https://musicbrainz.org/artist/4c0d9acf-a8a1-4765-9c56-05f92f68c048'
+  spotify: 'https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv'
+  wikipedia: 'https://en.wikipedia.org/wiki/Spandau_Ballet'
 formation_year: 1979
 genres:
-- new wave
-- synthpop
+  - new wave
+  - synthpop
 image_path: 03_Resources/source_material/ArtistPortraits/spandau_ballet.jpg
 is_active: true
 last_updated: '2026-01-13T01:17:25.476297'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a3476db0-053e-4b26-a042-74977af6bd8c
-  name: Tony Hadley
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4f93b88d-72c7-49f6-a172-887ca0fe623d
-  name: John Keeble
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3c9f47c2-f2ad-43fd-83ce-edf70d4be72b
-  name: Gary Kemp
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b791986d-05c5-465a-bdf3-aff571bf86e6
-  name: Martin Kemp
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5c33b2cf-3eeb-4551-ac8b-123e15b916f5
-  name: Steve Norman
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a3476db0-053e-4b26-a042-74977af6bd8c
+    name: Tony Hadley
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4f93b88d-72c7-49f6-a172-887ca0fe623d
+    name: John Keeble
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3c9f47c2-f2ad-43fd-83ce-edf70d4be72b
+    name: Gary Kemp
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b791986d-05c5-465a-bdf3-aff571bf86e6
+    name: Martin Kemp
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5c33b2cf-3eeb-4551-ac8b-123e15b916f5
+    name: Steve Norman
 musical_connections:
   collaborators:
-  - Gary Kemp
-  - Martin Kemp
-  - Tony Hadley
-  - Steve Norman
-  - John Keeble
-  - Ross William Wild
-  - Steve Dagger
-  - Robert Elms
+    - Gary Kemp
+    - Martin Kemp
+    - Tony Hadley
+    - Steve Norman
+    - John Keeble
+    - Ross William Wild
+    - Steve Dagger
+    - Robert Elms
   influenced: []
   mentors:
-  - David Bowie
-  - Kraftwerk
-  - Chic
-  - Rusty Egan
+    - David Bowie
+    - Kraftwerk
+    - Chic
+    - Rusty Egan
 musicbrainz_id: 4c0d9acf-a8a1-4765-9c56-05f92f68c048
 network_extracted: true
-origin: Islington
+origin: 'Islington, North London, United Kingdom'
 primary_source: perplexity
 research_sources:
-- https://hellorayo.co.uk/magic/entertainment/music/spandau-ballet-songs-true-gold
-- https://en.wikipedia.org/wiki/Spandau_Ballet
-- https://www.periodictableofsynthpop.com/the-bands/113-spandau-ballet/
-- https://abreathoffreshair.com.au/episodes/gary-kemp-the-story-behind-the-spandau-ballet-legend/
-- https://www.youtube.com/watch?v=rTSr5rR98Nw
-- https://www.pulsradio.com/en/80s/biography/Spandau_Ballet
+  - >-
+    https://hellorayo.co.uk/magic/entertainment/music/spandau-ballet-songs-true-gold
+  - 'https://en.wikipedia.org/wiki/Spandau_Ballet'
+  - 'https://www.periodictableofsynthpop.com/the-bands/113-spandau-ballet/'
+  - >-
+    https://abreathoffreshair.com.au/episodes/gary-kemp-the-story-behind-the-spandau-ballet-legend/
+  - 'https://www.youtube.com/watch?v=rTSr5rR98Nw'
+  - 'https://www.pulsradio.com/en/80s/biography/Spandau_Ballet'
 spotify_data:
   followers: 1501383
   id: 2urZrEdsq72kx0UzfYN8Yv
   popularity: 67
-  url: https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv
+  url: 'https://open.spotify.com/artist/2urZrEdsq72kx0UzfYN8Yv'
 status: active
 tags:
-- blue-eyed soul
-- dance-pop
-- new romantic
+  - blue-eyed soul
+  - dance-pop
+  - new romantic
 title: Spandau Ballet
 ---
 

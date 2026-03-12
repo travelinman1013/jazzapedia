@@ -1,20 +1,21 @@
 ---
-title: Red Garland, Paul Chambers, Art Taylor
+title: 'Red Garland, Paul Chambers, Art Taylor'
 wiki_slug: red-garland-paul-chambers-art-taylor
 schema_version: 2
 status: active
 genres:
-- hard bop
-- jazz
-- cool jazz
-- jazz blues
-- bebop
+  - hard bop
+  - jazz
+  - cool jazz
+  - jazz blues
+  - bebop
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/red_garland_paul_chambers_art_taylor.jpg
-  caption: Red Garland, Paul Chambers, Art Taylor
+  image: >-
+    03_Resources/source_material/ArtistPortraits/red_garland_paul_chambers_art_taylor.jpg
+  caption: 'Red Garland, Paul Chambers, Art Taylor'
   background: solo_singer
 audio_profile:
-  tempo_avg: 111.0
+  tempo_avg: 111
   energy_avg: 0.226
   valence_avg: 0.394
   danceability_avg: 0.537
@@ -28,50 +29,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Miles Davis
-  - John Coltrane
-  - Kenny Burrell
+    - Miles Davis
+    - John Coltrane
+    - Kenny Burrell
   influenced:
-  - Herbie Hancock
-  - Wynton Kelly
+    - Herbie Hancock
+    - Wynton Kelly
   mentors:
-  - Buster 'Prof' Smith
-  - John Lewis
+    - Buster 'Prof' Smith
+    - John Lewis
 spotify_data:
   followers: 22248
   id: 3XYnsz11kFrkx8F3upvnE5
   popularity: 40
-  url: https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5
+  url: 'https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5'
 discography_enriched: true
 top_tracks:
-- Stormy Weather (All Kinds Of Weather)
-- '''Tis Autumn (All Kinds Of Weather)'
-- Rain (All Kinds Of Weather)
-- A Foggy Day (A Garland Of Red)
-- Spring Will Be A Little Late This Year (All Kinds Of Weather)
-- You Better Go Now (Rojo)
-- What Is This Thing Called Love? - Instrumental (A Garland Of Red)
-- Summertime (All Kinds Of Weather)
-- Little Girl Blue - Instrumental (A Garland Of Red)
-- My Romance - Instrumental (A Garland Of Red)
+  - Stormy Weather (All Kinds Of Weather)
+  - '''Tis Autumn (All Kinds Of Weather)'
+  - Rain (All Kinds Of Weather)
+  - A Foggy Day (A Garland Of Red)
+  - Spring Will Be A Little Late This Year (All Kinds Of Weather)
+  - You Better Go Now (Rojo)
+  - What Is This Thing Called Love? - Instrumental (A Garland Of Red)
+  - Summertime (All Kinds Of Weather)
+  - Little Girl Blue - Instrumental (A Garland Of Red)
+  - My Romance - Instrumental (A Garland Of Red)
 external_urls:
-  spotify: https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5
-  wikipedia: https://en.wikipedia.org/wiki/Red_Garland
-image_path: 03_Resources/source_material/ArtistPortraits/red_garland_paul_chambers_art_taylor.jpg
+  spotify: 'https://open.spotify.com/artist/3XYnsz11kFrkx8F3upvnE5'
+  wikipedia: 'https://en.wikipedia.org/wiki/Red_Garland'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/red_garland_paul_chambers_art_taylor.jpg
 biography_enhanced_at: '2025-11-05T12:50:22.482948'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Red_Garland
-- https://jazzjournal.co.uk/2023/01/03/red-garland-paul-chambers-art-taylor-trio-complete-studio-recordings/
-- https://www.jazzmessengers.com/en/8009/red-garland/complete-studio-recordings
-- https://www.allaboutjazz.com/articles/red-garland-trio
-- https://www.jazzwax.com/p/backgrounder-red-garlands-a-garland-of-redhtml
+  - 'https://en.wikipedia.org/wiki/Red_Garland'
+  - >-
+    https://jazzjournal.co.uk/2023/01/03/red-garland-paul-chambers-art-taylor-trio-complete-studio-recordings/
+  - >-
+    https://www.jazzmessengers.com/en/8009/red-garland/complete-studio-recordings
+  - 'https://www.allaboutjazz.com/articles/red-garland-trio'
+  - 'https://www.jazzwax.com/p/backgrounder-red-garlands-a-garland-of-redhtml'
 network_extracted: true
 entry_created: '2025-11-05T12:50:22.482959'
 last_updated: '2025-12-23T08:16:14.719140'
-origin: Dallas, Texas, United States (Red Garland); Pittsburgh, Pennsylvania, United States (Paul Chambers); New York City,
-  New York, United States (Art Taylor)
+origin: >-
+  Dallas, Texas, United States (Red Garland); Pittsburgh, Pennsylvania, United
+  States (Paul Chambers); New York City, New York, United States (Art Taylor)
+birth_place: 'Dallas, Texas, United States'
+birth_date: '1923'
+artist_type: person
 ---
 
 ![](red_garland_paul_chambers_art_taylor.jpg)

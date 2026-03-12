@@ -2,12 +2,12 @@
 title: Les Filles de Illighadad
 wiki_slug: les-filles-de-illighadad
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- gnawa
+  - gnawa
 instruments:
-- original
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/les_filles_de_illighadad.jpg
   caption: Les Filles de Illighadad
@@ -27,80 +27,81 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Fatou Seidi Ghali
-  - Alamnou Akrouni
-  - Amaria (Fatimata) Hamadalher
-  - Ahmoudou Madassane
-  - Sahel Sounds (label/producer Christopher Kirkley)
+    - Fatou Seidi Ghali
+    - Alamnou Akrouni
+    - Amaria (Fatimata) Hamadalher
+    - Ahmoudou Madassane
+    - Sahel Sounds (label/producer Christopher Kirkley)
   influenced:
-  - Younger Tuareg women musicians in Niger and the wider Sahel
-  - Global experimental and folk revival artists
+    - Younger Tuareg women musicians in Niger and the wider Sahel
+    - Global experimental and folk revival artists
   mentors:
-  - Traditional Tuareg tende singers of Illighadad
-  - Tuareg desert blues pioneers (e.g., Tinariwen, Bombino, Mdou Moctar)
+    - Traditional Tuareg tende singers of Illighadad
+    - 'Tuareg desert blues pioneers (e.g., Tinariwen, Bombino, Mdou Moctar)'
 spotify_data:
   followers: 40383
   id: 45EoOvcenErsYkaJUnqjJv
   popularity: 31
-  url: https://open.spotify.com/artist/45EoOvcenErsYkaJUnqjJv
+  url: 'https://open.spotify.com/artist/45EoOvcenErsYkaJUnqjJv'
 discography_enriched: true
 top_tracks:
-- Achibaba (Les Filles de Illighadad)
-- Imigradan (Eghass Malan)
-- Telilit (Les Filles de Illighadad)
-- Soulan (Jdid)
-- Eghass Malan (Eghass Malan)
-- Inssegh Inssegh (Eghass Malan)
-- Inigradan (Les Filles de Illighadad)
-- Tihilele (Eghass Malan)
-- Soulan - Laolu Remix (Remixed)
-- Eliss Wan Anas Douban (Les Filles de Illighadad)
+  - Achibaba (Les Filles de Illighadad)
+  - Imigradan (Eghass Malan)
+  - Telilit (Les Filles de Illighadad)
+  - Soulan (Jdid)
+  - Eghass Malan (Eghass Malan)
+  - Inssegh Inssegh (Eghass Malan)
+  - Inigradan (Les Filles de Illighadad)
+  - Tihilele (Eghass Malan)
+  - Soulan - Laolu Remix (Remixed)
+  - Eliss Wan Anas Douban (Les Filles de Illighadad)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/981669c1-696b-450a-9594-4f59be20cd86
-  spotify: https://open.spotify.com/artist/45EoOvcenErsYkaJUnqjJv
+  musicbrainz: 'https://musicbrainz.org/artist/981669c1-696b-450a-9594-4f59be20cd86'
+  spotify: 'https://open.spotify.com/artist/45EoOvcenErsYkaJUnqjJv'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/les_filles_de_illighadad.jpg
 biography_enhanced_at: '2025-12-05T06:21:11.770962'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.globalartslive.org/artist/les-filles-de-illighadad
-- https://artpower.ucsd.edu/event/les-filles-de-illighadad/
-- https://sahelsounds.com/pages/les-filles-de-illighadad
-- https://substack.com/home/post/p-41774822
-- https://www.weekendfest.de/residency/les-filles-de-illighadad/
-- https://www.afropop.org/articles/les-filles-de-illighadad-from-the-village-to-the-world
+  - 'https://www.globalartslive.org/artist/les-filles-de-illighadad'
+  - 'https://artpower.ucsd.edu/event/les-filles-de-illighadad/'
+  - 'https://sahelsounds.com/pages/les-filles-de-illighadad'
+  - 'https://substack.com/home/post/p-41774822'
+  - 'https://www.weekendfest.de/residency/les-filles-de-illighadad/'
+  - >-
+    https://www.afropop.org/articles/les-filles-de-illighadad-from-the-village-to-the-world
 network_extracted: true
 entry_created: '2025-12-05T06:21:11.770966'
 last_updated: '2025-12-23T08:16:11.839217'
 disambiguation: Tuareg band
 members:
-- &id001
-  begin: '2018'
-  end: ''
-  instruments: []
-  mbid: d141787e-6823-4414-92d1-a2bd8ed85c74
-  name: Amaria Hamadalher
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: f1e8938b-32a9-456d-8e27-76ecd7dfb431
-  name: Alamnou Akrouni
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 43ee7547-46e1-420a-8638-350096124429
-  name: Fatou Seidi Ghali
+  - &ref_0
+    begin: '2018'
+    end: ''
+    instruments: []
+    mbid: d141787e-6823-4414-92d1-a2bd8ed85c74
+    name: Amaria Hamadalher
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: f1e8938b-32a9-456d-8e27-76ecd7dfb431
+    name: Alamnou Akrouni
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 43ee7547-46e1-420a-8638-350096124429
+    name: Fatou Seidi Ghali
 musicbrainz_id: 981669c1-696b-450a-9594-4f59be20cd86
-origin: Illighadad, Tahoua Region, Niger
+origin: 'Illighadad, Tahoua Region, Niger'
 original_members:
-- *id001
+  - *ref_0
 tags:
-- africa
-- avant-garde
-- avantgarde
+  - africa
+  - avant-garde
+  - avantgarde
 ---
 
 ![](les_filles_de_illighadad.jpg)

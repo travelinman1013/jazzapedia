@@ -5,12 +5,13 @@ schema_version: 2
 status: active
 aliases: []
 genres:
-- swing music
-- vocal jazz
-- jazz
-- big band
+  - swing music
+  - vocal jazz
+  - jazz
+  - big band
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/Ella_Fitzgerald_and_Louis_Armstrong.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/Ella_Fitzgerald_and_Louis_Armstrong.jpg
   caption: Ella Fitzgerald & Louis Armstrong
   background: solo_singer
 audio_profile:
@@ -29,7 +30,7 @@ similar_artists: []
 related_artists: []
 spotify_data:
   id: 0ZXEk4WDiPwEkjG6pQ408i
-  url: https://open.spotify.com/artist/0ZXEk4WDiPwEkjG6pQ408i
+  url: 'https://open.spotify.com/artist/0ZXEk4WDiPwEkjG6pQ408i'
   popularity: 26
   followers: 16600
   verified: false
@@ -37,24 +38,26 @@ discography_enriched: true
 albums_count: 2
 singles_count: 0
 top_tracks:
-- Cheek To Cheek (What A Wonderful Duet)
-- They Can't Take That Away From Me (What A Wonderful Duet)
-- Our Love Is Here To Stay (Tenderly)
-- Dream A Little Dream Of Me (What A Wonderful Duet)
-- Can Anyone Explain?
-- On The Sunny Side of The Street (New Orleans Alone)
-- Summertime
-- Stormy Weather (Tenderly)
-- A Fine Romance - Remastered (Ella & Louis (Remastered))
-- You Say Tomato, I say Tomato (Tenderly)
+  - Cheek To Cheek (What A Wonderful Duet)
+  - They Can't Take That Away From Me (What A Wonderful Duet)
+  - Our Love Is Here To Stay (Tenderly)
+  - Dream A Little Dream Of Me (What A Wonderful Duet)
+  - Can Anyone Explain?
+  - On The Sunny Side of The Street (New Orleans Alone)
+  - Summertime
+  - Stormy Weather (Tenderly)
+  - A Fine Romance - Remastered (Ella & Louis (Remastered))
+  - 'You Say Tomato, I say Tomato (Tenderly)'
 external_urls:
-  spotify: https://open.spotify.com/artist/0ZXEk4WDiPwEkjG6pQ408i
+  spotify: 'https://open.spotify.com/artist/0ZXEk4WDiPwEkjG6pQ408i'
   wikipedia: null
   musicbrainz: null
-image_path: 03_Resources/source_material/ArtistPortraits/Ella_Fitzgerald_and_Louis_Armstrong.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/Ella_Fitzgerald_and_Louis_Armstrong.jpg
 biography_source: none
-entry_created: 2025-09-22 21:39:07.949713
+entry_created: 2025-09-22T21:39:07.949Z
 last_updated: '2025-12-23T08:16:01.875395'
+artist_type: band
 ---
 
 ![](Ella_Fitzgerald_and_Louis_Armstrong.jpg)

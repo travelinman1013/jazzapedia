@@ -5,7 +5,7 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1954-02-12'
-birth_place: Kingston
+birth_place: 'Kingston, Jamaica, United States'
 death_date: '2021-04-09'
 genres: []
 infobox:
@@ -21,8 +21,8 @@ audio_profile:
   valence_avg: 0.246
   danceability_avg: 0.553
   acousticness_avg: 0.247
-  instrumentalness_avg: 0.0
-  loudness_avg: -8.0
+  instrumentalness_avg: 0
+  loudness_avg: -8
   speechiness_avg: 0.066
   liveness_avg: 0.117
   track_count: 16
@@ -30,56 +30,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dillinger
-  - Ranking Trevor
-  - Dennis Brown
-  - Barrington Levy
-  - The Mighty Diamonds
-  - Bunny Lee
-  - Clement Bushay
+    - Dillinger
+    - Ranking Trevor
+    - Dennis Brown
+    - Barrington Levy
+    - The Mighty Diamonds
+    - Bunny Lee
+    - Clement Bushay
   influenced:
-  - Althea & Donna
+    - Althea & Donna
   mentors:
-  - Yabby You
-  - Joseph Hoo Kim
-  - Joe Gibbs
+    - Yabby You
+    - Joseph Hoo Kim
+    - Joe Gibbs
 spotify_data:
   followers: 4995
   id: 1IAcSFwvUres37HhuN2Rcs
   popularity: 35
-  url: https://open.spotify.com/artist/1IAcSFwvUres37HhuN2Rcs
+  url: 'https://open.spotify.com/artist/1IAcSFwvUres37HhuN2Rcs'
 discography_enriched: true
 top_tracks:
-- Mine (Mine)
-- Girl Crush (Girl Crush)
-- Needed Love (Needed Love)
-- Lie To Me (Youth)
-- Irreversibly In Love (Youth)
-- Needed Love (Youth)
-- You Win, I Miss You (Youth)
-- Asking (Asking)
-- Asking (Youth)
-- Yours to Break (Yours to Break)
+  - Mine (Mine)
+  - Girl Crush (Girl Crush)
+  - Needed Love (Needed Love)
+  - Lie To Me (Youth)
+  - Irreversibly In Love (Youth)
+  - Needed Love (Youth)
+  - 'You Win, I Miss You (Youth)'
+  - Asking (Asking)
+  - Asking (Youth)
+  - Yours to Break (Yours to Break)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2ec5ba02-58fe-44b3-add2-e1151109c190
-  spotify: https://open.spotify.com/artist/1IAcSFwvUres37HhuN2Rcs
-  wikipedia: https://en.wikipedia.org/wiki/Trinity_(musician)
+  musicbrainz: 'https://musicbrainz.org/artist/2ec5ba02-58fe-44b3-add2-e1151109c190'
+  spotify: 'https://open.spotify.com/artist/1IAcSFwvUres37HhuN2Rcs'
+  wikipedia: 'https://en.wikipedia.org/wiki/Trinity_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/trinity.jpg
 biography_enhanced_at: '2025-12-22T01:49:38.562856'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Trinity (musician)
-- Last.fm - Trinity biography
+  - Wikipedia - Trinity (musician)
+  - Last.fm - Trinity biography
 network_extracted: true
 entry_created: '2025-12-22T01:49:38.562865'
 last_updated: '2025-12-23T08:16:17.710167'
-disambiguation: reggae deejay, Wade "Junior" Brammer
+disambiguation: 'reggae deejay, Wade "Junior" Brammer'
 gender: Male
 musicbrainz_id: 2ec5ba02-58fe-44b3-add2-e1151109c190
 tags:
-- dancehall
-- reggae
+  - dancehall
+  - reggae
+is_active: false
+origin: 'Kingston, Jamaica, United States'
 ---
 
 ![](trinity.jpg)

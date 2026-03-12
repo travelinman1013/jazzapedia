@@ -1,14 +1,14 @@
 ---
-title: pine leaf boys
+title: The Pine Leaf Boys
 wiki_slug: pine-leaf-boys
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 instruments:
-- original
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/pine_leaf_boys.jpg
   caption: pine leaf boys
@@ -28,94 +28,95 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Chris Segura
-  - Drew Simon
-  - Jean Bertrand
-  - Thomas David
-  - Courtney Granger
-  - Cedric Watson
-  - Joel Savoy
+    - Chris Segura
+    - Drew Simon
+    - Jean Bertrand
+    - Thomas David
+    - Courtney Granger
+    - Cedric Watson
+    - Joel Savoy
   influenced:
-  - Feufollet
-  - Young Cajun musicians in Louisiana
+    - Feufollet
+    - Young Cajun musicians in Louisiana
   mentors:
-  - Marc Savoy
-  - Ann Savoy
-  - Amédé Ardoin
+    - Marc Savoy
+    - Ann Savoy
+    - Amédé Ardoin
 spotify_data:
   followers: 4611
   id: 786IOgcZbyqrWKQRyc4PIV
   popularity: 15
-  url: https://open.spotify.com/artist/786IOgcZbyqrWKQRyc4PIV
+  url: 'https://open.spotify.com/artist/786IOgcZbyqrWKQRyc4PIV'
 discography_enriched: true
 top_tracks:
-- Je T'aime Toujours (Back Home)
-- Whiskey C'est Mon Ami (Back Home)
-- Pine Leaf Boy Two-Step (La Musique)
-- What's the Matter with My Baby (Back Home)
-- Allons Rock 'n Roll (Back Home)
-- Creole Mardi Gras (Blues De Musicien)
-- Werewolf Two-Step (Danser)
-- Chère Chérie (Back Home)
-- Cajun from Church Point (Back Home)
-- Eunice Two-Step (Back Home)
+  - Je T'aime Toujours (Back Home)
+  - Whiskey C'est Mon Ami (Back Home)
+  - Pine Leaf Boy Two-Step (La Musique)
+  - What's the Matter with My Baby (Back Home)
+  - Allons Rock 'n Roll (Back Home)
+  - Creole Mardi Gras (Blues De Musicien)
+  - Werewolf Two-Step (Danser)
+  - Chère Chérie (Back Home)
+  - Cajun from Church Point (Back Home)
+  - Eunice Two-Step (Back Home)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/780b6cc9-78dc-4d98-9cc4-d2d95ffe7e57
-  spotify: https://open.spotify.com/artist/786IOgcZbyqrWKQRyc4PIV
-  wikipedia: https://en.wikipedia.org/wiki/Pine_Leaf_Boys
+  musicbrainz: 'https://musicbrainz.org/artist/780b6cc9-78dc-4d98-9cc4-d2d95ffe7e57'
+  spotify: 'https://open.spotify.com/artist/786IOgcZbyqrWKQRyc4PIV'
+  wikipedia: 'https://en.wikipedia.org/wiki/Pine_Leaf_Boys'
 image_path: 03_Resources/source_material/ArtistPortraits/pine_leaf_boys.jpg
 biography_enhanced_at: '2025-10-30T11:50:17.291270'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Pine_Leaf_Boys
-- https://www.vinyl-magic.com/blog/pine-leaf-boys-and-me
-- https://www.richmondfolkfestival.org/2020-performers/2020/9/26/pine-leaf-boys
-- https://www.pineleafboys.com/band-bio
+  - 'https://en.wikipedia.org/wiki/Pine_Leaf_Boys'
+  - 'https://www.vinyl-magic.com/blog/pine-leaf-boys-and-me'
+  - >-
+    https://www.richmondfolkfestival.org/2020-performers/2020/9/26/pine-leaf-boys
+  - 'https://www.pineleafboys.com/band-bio'
 network_extracted: true
 entry_created: '2025-10-30T11:50:17.291279'
 last_updated: '2025-12-23T08:16:14.304128'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: afde3557-28b9-4153-8360-1ea983ecf420
-  name: Jon Bertrand
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 726b55c0-2945-48bc-98d0-97e6b8fe8e90
-  name: Thomas David
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 62f91aec-e501-4387-9e0a-f508a6d2a55b
-  name: Blake Miller
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7ceedf2c-2acb-41b8-9677-637ca6feed1c
-  name: Wilson Savoy
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 26332dd3-d627-4bff-b7e0-a206b3d06a8c
-  name: Chris Segura
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bf5e5fa5-73cd-497e-b456-aa0531e3a903
-  name: Drew Simon
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2495f3c5-b91a-4c75-8f5a-117d6da1ad0e
-  name: Courtney Granger
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: afde3557-28b9-4153-8360-1ea983ecf420
+    name: Jon Bertrand
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 726b55c0-2945-48bc-98d0-97e6b8fe8e90
+    name: Thomas David
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 62f91aec-e501-4387-9e0a-f508a6d2a55b
+    name: Blake Miller
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7ceedf2c-2acb-41b8-9677-637ca6feed1c
+    name: Wilson Savoy
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 26332dd3-d627-4bff-b7e0-a206b3d06a8c
+    name: Chris Segura
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bf5e5fa5-73cd-497e-b456-aa0531e3a903
+    name: Drew Simon
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2495f3c5-b91a-4c75-8f5a-117d6da1ad0e
+    name: Courtney Granger
 musicbrainz_id: 780b6cc9-78dc-4d98-9cc4-d2d95ffe7e57
-origin: Lafayette, Louisiana, United States
+origin: 'Lafayette, Louisiana, United States'
 tags:
-- folk
+  - folk
 ---
 
 ![](pine_leaf_boys.jpg)

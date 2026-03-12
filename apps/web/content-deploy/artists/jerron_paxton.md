@@ -3,17 +3,17 @@ title: Jerron Paxton
 wiki_slug: jerron-paxton
 schema_version: 2
 status: active
-birth_place: Los Angeles, California, United States
+birth_place: 'Los Angeles, California, United States'
 genres:
-- blues
-- country blues
+  - blues
+  - country blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jerron_paxton.jpg
   caption: Jerron Paxton
   background: solo_singer
-  origin: Los Angeles, California, United States
+  origin: 'Los Angeles, California, United States'
 audio_profile:
-  tempo_avg: 115.0
+  tempo_avg: 115
   energy_avg: 0.367
   valence_avg: 0.687
   danceability_avg: 0.579
@@ -27,49 +27,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Dust Busters
-  - Port Townsend Acoustic Blues Workshop Faculty
-  - Bernard MacMahon
+    - The Dust Busters
+    - Port Townsend Acoustic Blues Workshop Faculty
+    - Bernard MacMahon
   influenced:
-  - Contemporary Acoustic Blues Musicians
+    - Contemporary Acoustic Blues Musicians
   mentors:
-  - Paxton's Grandmother
-  - Fats Waller
-  - Blind Lemon Jefferson
+    - Paxton's Grandmother
+    - Fats Waller
+    - Blind Lemon Jefferson
 spotify_data:
   followers: 11110
   id: 6UjmSUS82bBSEjsybZkVc2
   popularity: 32
-  url: https://open.spotify.com/artist/6UjmSUS82bBSEjsybZkVc2
+  url: 'https://open.spotify.com/artist/6UjmSUS82bBSEjsybZkVc2'
 discography_enriched: true
 top_tracks:
-- By the Lagoon (By the Lagoon)
-- The Highwayman (feat. Jerron 'Blind Boy' Paxton) (Over the Garden Wall (Original Television Soundtrack))
-- So Much Weed (Things Done Changed)
-- Elevator Papa, Switchboard Mama (Elevator Papa, Switchboard Mama)
-- Liza Jane (Sidetrack My Engine)
-- Dirtiest Little Darling (Dirtiest Little Darling / Railroad Bill)
-- What's Gonna Become of Me (Things Done Changed)
-- What's Gonna Become of Me (What's Gonna Become of Me)
-- Briggs Hop Light Hornpipe Medley (Sidetrack My Engine)
-- Things Done Changed (Things Done Changed)
+  - By the Lagoon (By the Lagoon)
+  - >-
+    The Highwayman (feat. Jerron 'Blind Boy' Paxton) (Over the Garden Wall
+    (Original Television Soundtrack))
+  - So Much Weed (Things Done Changed)
+  - 'Elevator Papa, Switchboard Mama (Elevator Papa, Switchboard Mama)'
+  - Liza Jane (Sidetrack My Engine)
+  - Dirtiest Little Darling (Dirtiest Little Darling / Railroad Bill)
+  - What's Gonna Become of Me (Things Done Changed)
+  - What's Gonna Become of Me (What's Gonna Become of Me)
+  - Briggs Hop Light Hornpipe Medley (Sidetrack My Engine)
+  - Things Done Changed (Things Done Changed)
 external_urls:
-  spotify: https://open.spotify.com/artist/6UjmSUS82bBSEjsybZkVc2
-  wikipedia: https://en.wikipedia.org/wiki/Jerron_%22Blind_Boy%22_Paxton
+  spotify: 'https://open.spotify.com/artist/6UjmSUS82bBSEjsybZkVc2'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jerron_%22Blind_Boy%22_Paxton'
 image_path: 03_Resources/source_material/ArtistPortraits/jerron_paxton.jpg
 biography_enhanced_at: '2025-11-20T07:09:31.871607'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jerron_%22Blind_Boy%22_Paxton
-- https://folklife.si.edu/magazine/jerron-paxton
-- https://playingforchange.com/artists/jerron-blind-boy-paxton
-- https://www.thecountryblues.com/artist-reviews/jerron-blind-boy-paxton/
-- https://centrum.org/faculty-profile/name/jerron-paxton/
-- https://fasching.se/en/jerron-paxton/
+  - 'https://en.wikipedia.org/wiki/Jerron_%22Blind_Boy%22_Paxton'
+  - 'https://folklife.si.edu/magazine/jerron-paxton'
+  - 'https://playingforchange.com/artists/jerron-blind-boy-paxton'
+  - 'https://www.thecountryblues.com/artist-reviews/jerron-blind-boy-paxton/'
+  - 'https://centrum.org/faculty-profile/name/jerron-paxton/'
+  - 'https://fasching.se/en/jerron-paxton/'
 network_extracted: true
 entry_created: '2025-11-20T07:09:31.871619'
 last_updated: '2025-12-23T08:16:10.348493'
+birth_date: '1989-01-26'
+artist_type: person
 ---
 
 ![](jerron_paxton.jpg)

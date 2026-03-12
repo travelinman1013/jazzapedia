@@ -3,35 +3,36 @@ biography_enhanced_at: '2025-12-26T01:25:02.704335'
 enhancement_provider: perplexity
 entry_created: '2025-12-26T01:25:02.704357'
 external_urls:
-  spotify: https://open.spotify.com/artist/33i4HdGuH8n8kjURKtrIeD
-  wikipedia: https://en.wikipedia.org/wiki/The_Original_Pinettes_Brass_Band
+  spotify: 'https://open.spotify.com/artist/33i4HdGuH8n8kjURKtrIeD'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Original_Pinettes_Brass_Band'
 genres: []
 image_path: ''
 last_updated: '2025-12-26T01:25:02.704360'
 musical_connections:
   collaborators:
-  - Arcade Fire
-  - Mia X
-  - Katy Perry
-  - Christie A. Jourdain
+    - Arcade Fire
+    - Mia X
+    - Katy Perry
+    - Christie A. Jourdain
   influenced: []
   mentors:
-  - Jeffery C. Herbert
+    - Jeffery C. Herbert
 network_extracted: true
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Original_Pinettes_Brass_Band
-- https://artlitlab.org/artists/the-original-pinettes-brass-band
-- https://salon726.com/home/community-spotlight-original-pinettes-brass-band
-- https://honkfest.org/bands/pinettes-brass-band/
+  - 'https://en.wikipedia.org/wiki/The_Original_Pinettes_Brass_Band'
+  - 'https://artlitlab.org/artists/the-original-pinettes-brass-band'
+  - 'https://salon726.com/home/community-spotlight-original-pinettes-brass-band'
+  - 'https://honkfest.org/bands/pinettes-brass-band/'
 spotify_data:
   followers: 10
   id: 33i4HdGuH8n8kjURKtrIeD
   popularity: 1
-  url: https://open.spotify.com/artist/33i4HdGuH8n8kjURKtrIeD
+  url: 'https://open.spotify.com/artist/33i4HdGuH8n8kjURKtrIeD'
 status: active
 title: The Original Pinettes
+artist_type: band
 ---
 
 ![]()

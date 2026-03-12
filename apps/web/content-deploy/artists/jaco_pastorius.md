@@ -5,48 +5,48 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1951-12-01'
-birth_place: Norristown
+birth_place: 'Norristown, Pennsylvania, United States'
 death_date: '1987-09-21'
 genres:
-- jazz fusion
-- jazz funk
-- jazz
+  - jazz fusion
+  - jazz funk
+  - jazz
 instruments:
-- bass guitar
-- bass
-- original
-- electric bass guitar
-- guitar
-associated_acts:
-- begin: '1975'
-  end: '1976'
-  instruments:
   - bass guitar
-  mbid: f81d592c-993f-4693-b53a-57db5a6257b9
-  name: Blood, Sweat & Tears
-- begin: '1975'
-  end: '1982'
-  instruments: []
-  mbid: 0f9997bd-e079-429e-8ccd-9378c9b0c746
-  name: Weather Report
-- begin: '1979'
-  end: '1979-03-08'
-  instruments:
   - bass
   - original
-  mbid: b86db56b-4bd6-4c15-b350-489dd8a5167b
-  name: Trio of Doom
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c403e44b-76f5-40de-937d-e15e3dd9b565
-  name: Jaco Pastorius Big Band
-- begin: ''
-  end: ''
-  instruments:
-  - bass guitar
-  mbid: 6fe75ff8-8426-4b6f-a6bc-a9e2f7e94812
-  name: Woodchuck
+  - electric bass guitar
+  - guitar
+associated_acts:
+  - begin: '1975'
+    end: '1976'
+    instruments:
+      - bass guitar
+    mbid: f81d592c-993f-4693-b53a-57db5a6257b9
+    name: 'Blood, Sweat & Tears'
+  - begin: '1975'
+    end: '1982'
+    instruments: []
+    mbid: 0f9997bd-e079-429e-8ccd-9378c9b0c746
+    name: Weather Report
+  - begin: '1979'
+    end: '1979-03-08'
+    instruments:
+      - bass
+      - original
+    mbid: b86db56b-4bd6-4c15-b350-489dd8a5167b
+    name: Trio of Doom
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c403e44b-76f5-40de-937d-e15e3dd9b565
+    name: Jaco Pastorius Big Band
+  - begin: ''
+    end: ''
+    instruments:
+      - bass guitar
+    mbid: 6fe75ff8-8426-4b6f-a6bc-a9e2f7e94812
+    name: Woodchuck
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jaco_pastorius.jpg
   caption: Jaco Pastorius
@@ -55,7 +55,7 @@ infobox:
   origin: Norristown
   died: '1987-09-21'
 audio_profile:
-  tempo_avg: 118.0
+  tempo_avg: 118
   energy_avg: 0.535
   valence_avg: 0.531
   danceability_avg: 0.48
@@ -69,60 +69,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Pat Metheny
-  - Joni Mitchell
-  - Weather Report (Joe Zawinul, Wayne Shorter)
-  - Wayne Cochran & the C.C. Riders
+    - Pat Metheny
+    - Joni Mitchell
+    - 'Weather Report (Joe Zawinul, Wayne Shorter)'
+    - Wayne Cochran & the C.C. Riders
   influenced:
-  - Will Lee
-  - Marcus Miller
-  - Victor Wooten
+    - Will Lee
+    - Marcus Miller
+    - Victor Wooten
   mentors:
-  - Jack Pastorius
-  - Ira Sullivan
-  - Joe Zawinul
+    - Jack Pastorius
+    - Ira Sullivan
+    - Joe Zawinul
 spotify_data:
   followers: 346183
   id: 3U3C9o6UTYNdEsDckpRyvX
   popularity: 42
-  url: https://open.spotify.com/artist/3U3C9o6UTYNdEsDckpRyvX
+  url: 'https://open.spotify.com/artist/3U3C9o6UTYNdEsDckpRyvX'
 discography_enriched: true
 top_tracks:
-- Come On, Come Over (Jaco Pastorius)
-- Portrait of Tracy (Jaco Pastorius)
-- Chicken (Broadway Blues)
-- Donna Lee (Jaco Pastorius)
-- Continuum (Jaco Pastorius)
-- Kuru/Speak Like A Child (Jaco Pastorius)
-- Soul Intro / The Chicken - Live Version (Invitation [Live])
-- Opus Pocus (Jaco Pastorius)
-- Okonkole y Trompa (Jaco Pastorius)
-- Teen Town (Word Of Mouth Revisited)
+  - 'Come On, Come Over (Jaco Pastorius)'
+  - Portrait of Tracy (Jaco Pastorius)
+  - Chicken (Broadway Blues)
+  - Donna Lee (Jaco Pastorius)
+  - Continuum (Jaco Pastorius)
+  - Kuru/Speak Like A Child (Jaco Pastorius)
+  - 'Soul Intro / The Chicken - Live Version (Invitation [Live])'
+  - Opus Pocus (Jaco Pastorius)
+  - Okonkole y Trompa (Jaco Pastorius)
+  - Teen Town (Word Of Mouth Revisited)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/46a6fac0-2e14-4214-b08e-3bdb1cffa5aa
-  spotify: https://open.spotify.com/artist/3U3C9o6UTYNdEsDckpRyvX
-  wikipedia: https://en.wikipedia.org/wiki/Jaco_Pastorius
+  musicbrainz: 'https://musicbrainz.org/artist/46a6fac0-2e14-4214-b08e-3bdb1cffa5aa'
+  spotify: 'https://open.spotify.com/artist/3U3C9o6UTYNdEsDckpRyvX'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jaco_Pastorius'
 image_path: 03_Resources/source_material/ArtistPortraits/jaco_pastorius.jpg
 biography_enhanced_at: '2025-12-20T01:18:33.067571'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- 'Official site biography: The Life of Jaco – jacopastorius.com[1]'
-- uDiscoverMusic artist overview on Jaco Pastorius[2]
-- All About Jazz – Jaco Pastorius musician profile[3]
-- 'Custom Boards article: Jaco Pastorius – The tragic story of a bass genius[4]'
-- Exploring the Past – The Contested Memories of Jaco Pastorius[5]
-- 'Bill Milkowski – description of *Jaco: The Extraordinary and Tragic Life of Jaco Pastorius*[6]'
-- Sound of Life – Jaco Pastorius, The World’s Greatest Bass Player[7]
+  - 'Official site biography: The Life of Jaco – jacopastorius.com[1]'
+  - 'uDiscoverMusic artist overview on Jaco Pastorius[2]'
+  - 'All About Jazz – Jaco Pastorius musician profile[3]'
+  - 'Custom Boards article: Jaco Pastorius – The tragic story of a bass genius[4]'
+  - 'Exploring the Past – The Contested Memories of Jaco Pastorius[5]'
+  - >-
+    Bill Milkowski – description of *Jaco: The Extraordinary and Tragic Life of
+    Jaco Pastorius*[6]
+  - 'Sound of Life – Jaco Pastorius, The World’s Greatest Bass Player[7]'
 network_extracted: true
 entry_created: '2025-12-20T01:18:33.067585'
 last_updated: '2025-12-23T08:16:10.092231'
 gender: Male
 musicbrainz_id: 46a6fac0-2e14-4214-b08e-3bdb1cffa5aa
 tags:
-- american
-- bassist
-- funk
+  - american
+  - bassist
+  - funk
+is_active: false
+origin: 'Fort Lauderdale, Florida, United States'
 ---
 
 ![](jaco_pastorius.jpg)

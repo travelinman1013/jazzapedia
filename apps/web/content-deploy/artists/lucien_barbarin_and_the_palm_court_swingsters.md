@@ -3,14 +3,15 @@ title: Lucien Barbarin & The Palm Court Swingsters
 wiki_slug: lucien-barbarin-the-palm-court-swingsters
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- 3 step
+  - 3 step
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/lucien_barbarin_and_the_palm_court_swingsters.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/lucien_barbarin_and_the_palm_court_swingsters.jpg
   caption: Lucien Barbarin & The Palm Court Swingsters
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 123.7
   energy_avg: 0.392
@@ -26,52 +27,68 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Harry Connick Jr.
-  - Preservation Hall Jazz Band / Preservation Hall All‑Stars
-  - Leroy Jones
-  - The Palm Court Swingsters / Palm Court Jazz Café ensemble
+    - Harry Connick Jr.
+    - Preservation Hall Jazz Band / Preservation Hall All‑Stars
+    - Leroy Jones
+    - The Palm Court Swingsters / Palm Court Jazz Café ensemble
   influenced:
-  - Younger New Orleans brass‑band and traditional jazz students (various, not individually documented)
+    - >-
+      Younger New Orleans brass‑band and traditional jazz students (various, not
+      individually documented)
   mentors:
-  - Paul Barbarin
-  - Danny Barker
+    - Paul Barbarin
+    - Danny Barker
 spotify_data:
   followers: 104
   id: 2vctvtyspVhedAoIXaFmMU
   popularity: 0
-  url: https://open.spotify.com/artist/2vctvtyspVhedAoIXaFmMU
+  url: 'https://open.spotify.com/artist/2vctvtyspVhedAoIXaFmMU'
 discography_enriched: true
 top_tracks:
-- Ain't She Sweet (Jazz at the Palm Court Vol. 3)
-- Blues My Naughty Sweetie Gives to Me (Jazz at the Palm Court Vol. 3)
-- Mama Inez (Jazz at the Palm Court Vol. 3)
-- She Moved (Jazz at the Palm Court Vol. 3)
-- Old Rockin' Chair (Jazz at the Palm Court Vol. 3)
-- Ballin' the Jack (Jazz at the Palm Court Vol. 3)
-- When I Grow Too Old to Dream (Jazz at the Palm Court Vol. 3)
-- Girl of My Dreams (Jazz at the Palm Court Vol. 3)
-- Bourbon Street Parade (Jazz at the Palm Court Vol. 3)
-- I've Found a New Baby (Jazz at the Palm Court Vol. 3)
+  - Ain't She Sweet (Jazz at the Palm Court Vol. 3)
+  - Blues My Naughty Sweetie Gives to Me (Jazz at the Palm Court Vol. 3)
+  - Mama Inez (Jazz at the Palm Court Vol. 3)
+  - She Moved (Jazz at the Palm Court Vol. 3)
+  - Old Rockin' Chair (Jazz at the Palm Court Vol. 3)
+  - Ballin' the Jack (Jazz at the Palm Court Vol. 3)
+  - When I Grow Too Old to Dream (Jazz at the Palm Court Vol. 3)
+  - Girl of My Dreams (Jazz at the Palm Court Vol. 3)
+  - Bourbon Street Parade (Jazz at the Palm Court Vol. 3)
+  - I've Found a New Baby (Jazz at the Palm Court Vol. 3)
 external_urls:
-  spotify: https://open.spotify.com/artist/2vctvtyspVhedAoIXaFmMU
-  wikipedia: https://en.wikipedia.org/wiki/Lucien_Barbarin
-image_path: 03_Resources/source_material/ArtistPortraits/lucien_barbarin_and_the_palm_court_swingsters.jpg
+  spotify: 'https://open.spotify.com/artist/2vctvtyspVhedAoIXaFmMU'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lucien_Barbarin'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/lucien_barbarin_and_the_palm_court_swingsters.jpg
 biography_enhanced_at: '2025-12-12T12:00:07.133608'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- WBGO obituary and career overview of Lucien Barbarin, including Palm Court residency and Palm Court Swingsters album credit.[1]
-- 'Lucien Barbarin – Wikipedia entry with biography and discography, including “Little Becomes Much: Jazz at the Palm Court
-  Vol. 3 (Lucien Barbarin & The Palm Court Swingsters).”[2]'
-- The Syncopated Times article on Lucien Barbarin, detailing his family background, early career, Bourbon Street work, educational
-  outreach, and confirmation that “Lucien Barbarin and the Palm Court Swingsters” was his second album as a leader (2000).#[3]
-- OffBeat news item on Lucien Barbarin’s death, emphasizing his roles with Preservation Hall and Harry Connick Jr. and his
-  New Orleans roots.[4]
-- Music Rising (Tulane University) biographical note on Lucien Barbarin.[5]
-- WWOZ memorial note on Lucien Barbarin and the Barbarin family musical lineage.[6]
+  - >-
+    WBGO obituary and career overview of Lucien Barbarin, including Palm Court
+    residency and Palm Court Swingsters album credit.[1]
+  - >-
+    Lucien Barbarin – Wikipedia entry with biography and discography, including
+    “Little Becomes Much: Jazz at the Palm Court Vol. 3 (Lucien Barbarin & The
+    Palm Court Swingsters).”[2]
+  - >-
+    The Syncopated Times article on Lucien Barbarin, detailing his family
+    background, early career, Bourbon Street work, educational outreach, and
+    confirmation that “Lucien Barbarin and the Palm Court Swingsters” was his
+    second album as a leader (2000).#[3]
+  - >-
+    OffBeat news item on Lucien Barbarin’s death, emphasizing his roles with
+    Preservation Hall and Harry Connick Jr. and his New Orleans roots.[4]
+  - 'Music Rising (Tulane University) biographical note on Lucien Barbarin.[5]'
+  - >-
+    WWOZ memorial note on Lucien Barbarin and the Barbarin family musical
+    lineage.[6]
 network_extracted: true
 entry_created: '2025-12-12T12:00:07.133623'
 last_updated: '2025-12-23T08:16:12.314286'
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1956-07-17'
+artist_type: person
 ---
 
 ![](lucien_barbarin_and_the_palm_court_swingsters.jpg)

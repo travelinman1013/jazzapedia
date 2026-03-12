@@ -2,15 +2,15 @@
 title: Dumpstaphunk
 wiki_slug: dumpstaphunk
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 birth_date: '2003-04-24'
 genres:
-- funk rock
-- jazz funk
-- funk
+  - funk rock
+  - jazz funk
+  - funk
 instruments:
-- electric bass guitar
+  - electric bass guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Dumpstaphunk.jpg
   caption: Dumpstaphunk
@@ -31,59 +31,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tony Hall
-  - Nick Daniels III
-  - Trombone Shorty
-  - Marcus King
-  - George Clinton
-  - Carlos Santana
-  - Bob Weir
+    - Tony Hall
+    - Nick Daniels III
+    - Trombone Shorty
+    - Marcus King
+    - George Clinton
+    - Carlos Santana
+    - Bob Weir
   influenced: []
   mentors:
-  - Art 'Poppa Funk' Neville
-  - Aaron Neville
-  - The Meters
+    - Art 'Poppa Funk' Neville
+    - Aaron Neville
+    - The Meters
 spotify_data:
   followers: 55954
   id: 6LvO4vaTTJhCAdpITMpDvC
   popularity: 30
-  url: https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC
+  url: 'https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC'
 discography_enriched: true
 top_tracks:
-- United Nations Stomp (Where Do We Go From Here)
-- Do You (Where Do We Go From Here)
-- Sheez Music (Everybody Want Sum)
-- Sheez Music (Reprise) (Everybody Want Sum)
-- Justice 2020 (Where Do We Go From Here)
-- Backwash (Where Do We Go From Here)
-- In Time (Where Do We Go From Here)
-- Do Ya (Everybody Want Sum)
-- Turn This Thing Around (Listen Hear)
-- Dancin' To The Truth (Dirty Word)
+  - United Nations Stomp (Where Do We Go From Here)
+  - Do You (Where Do We Go From Here)
+  - Sheez Music (Everybody Want Sum)
+  - Sheez Music (Reprise) (Everybody Want Sum)
+  - Justice 2020 (Where Do We Go From Here)
+  - Backwash (Where Do We Go From Here)
+  - In Time (Where Do We Go From Here)
+  - Do Ya (Everybody Want Sum)
+  - Turn This Thing Around (Listen Hear)
+  - Dancin' To The Truth (Dirty Word)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/94e96fde-f3be-45f1-9c0e-9368c14af6e0
-  spotify: https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC
+  musicbrainz: 'https://musicbrainz.org/artist/94e96fde-f3be-45f1-9c0e-9368c14af6e0'
+  spotify: 'https://open.spotify.com/artist/6LvO4vaTTJhCAdpITMpDvC'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/Dumpstaphunk.jpg
 biography_enhanced_at: '2025-10-20T09:58:31.441880'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://dumpstaphunk.com/about/
-- https://www.mascotlabelgroup.com/pages/dumpstaphunk-biography
-- https://www.jacksonhole.com/dumpstaphunk
-- https://www.redlightmanagement.com/artists/dumpstaphunk/
+  - 'https://dumpstaphunk.com/about/'
+  - 'https://www.mascotlabelgroup.com/pages/dumpstaphunk-biography'
+  - 'https://www.jacksonhole.com/dumpstaphunk'
+  - 'https://www.redlightmanagement.com/artists/dumpstaphunk/'
 network_extracted: true
 entry_created: '2025-10-20T09:58:31.441894'
 last_updated: '2025-12-23T08:16:01.798463'
 musicbrainz_enriched_at: '2025-10-21T09:24:56.671155'
 musicbrainz_id: 94e96fde-f3be-45f1-9c0e-9368c14af6e0
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 tags:
-- blues
-- funk
-- gospel
-
+  - blues
+  - funk
+  - gospel
+birth_place: New Orleans
 ---
 
 ![](Dumpstaphunk.jpg)

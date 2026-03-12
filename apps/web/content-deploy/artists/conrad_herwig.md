@@ -3,16 +3,16 @@ title: Conrad Herwig
 wiki_slug: conrad-herwig
 schema_version: 2
 status: active
-birth_place: Lawton, Oklahoma, United States
+birth_place: 'Lawton, Oklahoma, United States'
 genres:
-- latin jazz
-- hard bop
-- jazz
+  - latin jazz
+  - hard bop
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/conrad_herwig.jpg
   caption: Conrad Herwig
   background: solo_singer
-  origin: Lawton, Oklahoma, United States
+  origin: 'Lawton, Oklahoma, United States'
 audio_profile:
   tempo_avg: 119.5
   energy_avg: 0.475
@@ -28,58 +28,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Eddie Palmieri
-  - Joe Lovano
-  - Joe Henderson
-  - Tom Harrell
-  - Mingus Big Band
-  - Tito Puente
-  - Paquito D’Rivera
-  - Michel Camilo
-  - Clark Terry
-  - Buddy Rich
-  - Toshiko Akiyoshi & Lew Tabackin / Mel Lewis
-  - Frank Sinatra
-  - Miles Davis & Quincy Jones
+    - Eddie Palmieri
+    - Joe Lovano
+    - Joe Henderson
+    - Tom Harrell
+    - Mingus Big Band
+    - Tito Puente
+    - Paquito D’Rivera
+    - Michel Camilo
+    - Clark Terry
+    - Buddy Rich
+    - Toshiko Akiyoshi & Lew Tabackin / Mel Lewis
+    - Frank Sinatra
+    - Miles Davis & Quincy Jones
   influenced:
-  - Numerous jazz trombonists and improvisers (students at Rutgers University and in international master classes)
+    - >-
+      Numerous jazz trombonists and improvisers (students at Rutgers University
+      and in international master classes)
   mentors:
-  - Trummy Young
+    - Trummy Young
 spotify_data:
   followers: 4784
   id: 7xHUfrXaMkL3lRpJxO6QdI
   popularity: 13
-  url: https://open.spotify.com/artist/7xHUfrXaMkL3lRpJxO6QdI
+  url: 'https://open.spotify.com/artist/7xHUfrXaMkL3lRpJxO6QdI'
 discography_enriched: true
 top_tracks:
-- Bianco's Waltz
-- Nica's Dream (The Latin Side of Horace Silver)
-- Walk Spirit, Talk Spirit (The Latin Side of McCoy Tyner)
-- Song for My Father (The Latin Side of Horace Silver)
-- Skylark (Jam Session Vol. 28)
-- Passion Dance (The Latin Side of McCoy Tyner)
-- Blue Train (The Latin Side of John Coltrane)
-- Ping Pong (The Latin Side Of Wayne Shorter)
-- African Village (The Latin Side of McCoy Tyner)
-- Search for Peace (The Latin Side of McCoy Tyner)
+  - Bianco's Waltz
+  - Nica's Dream (The Latin Side of Horace Silver)
+  - 'Walk Spirit, Talk Spirit (The Latin Side of McCoy Tyner)'
+  - Song for My Father (The Latin Side of Horace Silver)
+  - Skylark (Jam Session Vol. 28)
+  - Passion Dance (The Latin Side of McCoy Tyner)
+  - Blue Train (The Latin Side of John Coltrane)
+  - Ping Pong (The Latin Side Of Wayne Shorter)
+  - African Village (The Latin Side of McCoy Tyner)
+  - Search for Peace (The Latin Side of McCoy Tyner)
 external_urls:
-  spotify: https://open.spotify.com/artist/7xHUfrXaMkL3lRpJxO6QdI
-  wikipedia: https://en.wikipedia.org/wiki/Conrad_Herwig
+  spotify: 'https://open.spotify.com/artist/7xHUfrXaMkL3lRpJxO6QdI'
+  wikipedia: 'https://en.wikipedia.org/wiki/Conrad_Herwig'
 image_path: 03_Resources/source_material/ArtistPortraits/conrad_herwig.jpg
 biography_enhanced_at: '2025-12-13T11:44:28.049104'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- All About Jazz – Conrad Herwig musician profile[1]
-- Rutgers University Mason Gross School of the Arts – Conrad Herwig faculty biography[2]
-- Wikipedia – Conrad Herwig[3]
-- Blue Note Records – Conrad Herwig artist page[4]
-- Conrad Herwig official website[6]
-- Wharton Center event bio – Conrad Herwig[7]
-- JazzTimes feature on “The Latin Side of Wayne Shorter”[8]
+  - 'All About Jazz – Conrad Herwig musician profile[1]'
+  - >-
+    Rutgers University Mason Gross School of the Arts – Conrad Herwig faculty
+    biography[2]
+  - 'Wikipedia – Conrad Herwig[3]'
+  - 'Blue Note Records – Conrad Herwig artist page[4]'
+  - 'Conrad Herwig official website[6]'
+  - 'Wharton Center event bio – Conrad Herwig[7]'
+  - 'JazzTimes feature on “The Latin Side of Wayne Shorter”[8]'
 network_extracted: true
 entry_created: '2025-12-13T11:44:28.049119'
 last_updated: '2025-12-23T08:16:07.179315'
+birth_date: '1959-11-01'
+artist_type: person
 ---
 
 ![](conrad_herwig.jpg)

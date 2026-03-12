@@ -3,21 +3,21 @@ title: Wayne Alpern
 wiki_slug: wayne-alpern
 schema_version: 2
 status: active
-birth_place: Detroit, Michigan, United States
+birth_place: 'Detroit, Michigan, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/wayne_alpern.jpg
   caption: Wayne Alpern
   background: solo_singer
-  origin: Detroit, Michigan, United States
+  origin: 'Detroit, Michigan, United States'
 audio_profile:
-  tempo_avg: 116.0
+  tempo_avg: 116
   energy_avg: 0.256
   valence_avg: 0.411
   danceability_avg: 0.524
   acousticness_avg: 0.775
   instrumentalness_avg: 0.702
-  loudness_avg: -12.0
+  loudness_avg: -12
   speechiness_avg: 0.041
   liveness_avg: 0.141
   track_count: 50
@@ -25,44 +25,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Billy Test
-  - Steven Beck
-  - Josh Bailey, Evan Gregor
+    - Billy Test
+    - Steven Beck
+    - 'Josh Bailey, Evan Gregor'
   influenced: []
   mentors:
-  - Steve Reich
-  - Henri Elkan
+    - Steve Reich
+    - Henri Elkan
 spotify_data:
   followers: 56
   id: 5TavsuJwX18oIiU3aVBcHa
   popularity: 0
-  url: https://open.spotify.com/artist/5TavsuJwX18oIiU3aVBcHa
+  url: 'https://open.spotify.com/artist/5TavsuJwX18oIiU3aVBcHa'
 discography_enriched: true
 top_tracks:
-- Dear Landlord (Standard Deviation)
-- Thriller (Standard Deviation)
-- Ode to Billie Joe (Standard Deviation)
-- Don't Stop Believin' (Standard Deviation)
-- Teenage Dream (Standard Deviation)
-- She's Not There (Standard Deviation)
-- Who Loves You Pretty Baby (Standard Deviation)
-- Somebody That I Used to Know (Standard Deviation)
-- As I Went Out One Morning (Standard Deviation)
-- My Girl (Standard Deviation)
+  - Dear Landlord (Standard Deviation)
+  - Thriller (Standard Deviation)
+  - Ode to Billie Joe (Standard Deviation)
+  - Don't Stop Believin' (Standard Deviation)
+  - Teenage Dream (Standard Deviation)
+  - She's Not There (Standard Deviation)
+  - Who Loves You Pretty Baby (Standard Deviation)
+  - Somebody That I Used to Know (Standard Deviation)
+  - As I Went Out One Morning (Standard Deviation)
+  - My Girl (Standard Deviation)
 external_urls:
-  spotify: https://open.spotify.com/artist/5TavsuJwX18oIiU3aVBcHa
+  spotify: 'https://open.spotify.com/artist/5TavsuJwX18oIiU3aVBcHa'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/wayne_alpern.jpg
 biography_enhanced_at: '2025-10-28T08:55:45.966418'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Jazz Sensibilities
-- Modern Jazz Today
-- Making A Scene!
+  - Jazz Sensibilities
+  - Modern Jazz Today
+  - Making A Scene!
 network_extracted: true
 entry_created: '2025-10-28T08:55:45.966421'
 last_updated: '2025-12-23T08:16:18.024387'
+artist_type: person
 ---
 
 ![](wayne_alpern.jpg)

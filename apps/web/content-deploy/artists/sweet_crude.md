@@ -4,7 +4,7 @@ wiki_slug: sweet-crude
 schema_version: 2
 status: active
 genres:
-- cajun
+  - cajun
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sweet_crude.jpg
   caption: Sweet Crude
@@ -24,52 +24,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Alexis Marceaux
-  - Sam Craft
-  - Jack Craft
-  - Skyler Stroup
-  - Stephen MacDonald
-  - Dave Shirley
-  - Big Freedia
+    - Alexis Marceaux
+    - Sam Craft
+    - Jack Craft
+    - Skyler Stroup
+    - Stephen MacDonald
+    - Dave Shirley
+    - Big Freedia
   influenced:
-  - Young Cajun/Creole musicians in Louisiana
+    - Young Cajun/Creole musicians in Louisiana
   mentors:
-  - Sam Craft's father (New Leviathan Oriental Fox-Trot Orchestra)
-  - Balfa Brothers
+    - Sam Craft's father (New Leviathan Oriental Fox-Trot Orchestra)
+    - Balfa Brothers
 spotify_data:
   followers: 12232
   id: 6SkFGEcHApSGM7xXGn5u64
   popularity: 14
-  url: https://open.spotify.com/artist/6SkFGEcHApSGM7xXGn5u64
+  url: 'https://open.spotify.com/artist/6SkFGEcHApSGM7xXGn5u64'
 discography_enriched: true
 top_tracks:
-- Little Darling (Super Vilaine)
-- Jolie Blonde (Jolie Blonde)
-- Doing My Best - Live (Live Vibes 2)
-- Isle Dans La Mer (Créatures)
-- Mon Esprit (Créatures)
-- Parlez-Nous à Boire (Super Vilaine)
-- Officiel//Artificiel (Officiel//Artificiel)
-- Mon Esprit (Musique(s)!)
-- Porkupine (Musique(s)!)
-- Ultimatum (Officiel//Artificiel)
+  - Little Darling (Super Vilaine)
+  - Jolie Blonde (Jolie Blonde)
+  - Doing My Best - Live (Live Vibes 2)
+  - Isle Dans La Mer (Créatures)
+  - Mon Esprit (Créatures)
+  - Parlez-Nous à Boire (Super Vilaine)
+  - Officiel//Artificiel (Officiel//Artificiel)
+  - Mon Esprit (Musique(s)!)
+  - Porkupine (Musique(s)!)
+  - Ultimatum (Officiel//Artificiel)
 external_urls:
-  spotify: https://open.spotify.com/artist/6SkFGEcHApSGM7xXGn5u64
-  wikipedia: https://en.wikipedia.org/wiki/Sweet_Crude_(band)
+  spotify: 'https://open.spotify.com/artist/6SkFGEcHApSGM7xXGn5u64'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sweet_Crude_(band)'
 image_path: 03_Resources/source_material/ArtistPortraits/sweet_crude.jpg
 biography_enhanced_at: '2025-10-24T07:40:54.087084'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://antigravitymagazine.com/feature/sevens-company-with-sweet-crude/
-- https://en.wikipedia.org/wiki/Sweet_Crude_(band)
-- https://64parishes.org/sweet-crudes-bilingual-ebullience
-- https://www.myspiltmilk.com/articles/sweet-crude-learns-a-language
-- https://www.wwoz.org/blog/264736
+  - 'https://antigravitymagazine.com/feature/sevens-company-with-sweet-crude/'
+  - 'https://en.wikipedia.org/wiki/Sweet_Crude_(band)'
+  - 'https://64parishes.org/sweet-crudes-bilingual-ebullience'
+  - 'https://www.myspiltmilk.com/articles/sweet-crude-learns-a-language'
+  - 'https://www.wwoz.org/blog/264736'
 network_extracted: true
 entry_created: '2025-10-24T07:40:54.087093'
 last_updated: '2025-12-23T08:16:16.286905'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![](sweet_crude.jpg)

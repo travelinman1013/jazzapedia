@@ -3,21 +3,21 @@ title: Stan Kenton
 wiki_slug: stan-kenton
 schema_version: 2
 status: active
-birth_place: Wichita, Kansas, United States
+birth_place: 'Wichita, Kansas, United States'
 genres:
-- big band
-- jazz
-- cool jazz
-- swing music
-- exotica
-- latin jazz
+  - big band
+  - jazz
+  - cool jazz
+  - swing music
+  - exotica
+  - latin jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Stan_Kenton.jpg
   caption: Stan Kenton
   background: solo_singer
-  origin: Wichita, Kansas, United States
+  origin: 'Wichita, Kansas, United States'
 audio_profile:
-  tempo_avg: 111.0
+  tempo_avg: 111
   energy_avg: 0.319
   valence_avg: 0.385
   danceability_avg: 0.415
@@ -31,51 +31,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Pete Rugolo
-  - Bob Graettinger
-  - June Christy
-  - Art Pepper
-  - Maynard Ferguson
+    - Pete Rugolo
+    - Bob Graettinger
+    - June Christy
+    - Art Pepper
+    - Maynard Ferguson
   influenced:
-  - Don Ellis
-  - Bill Holman
-  - High school and college jazz bands
+    - Don Ellis
+    - Bill Holman
+    - High school and college jazz bands
   mentors:
-  - Ralph Yaw
-  - Louis Armstrong
-  - Earl Hines
+    - Ralph Yaw
+    - Louis Armstrong
+    - Earl Hines
 spotify_data:
   followers: 28351
   id: 27hSR8e34ZM5vj5fUFixyb
   popularity: 28
-  url: https://open.spotify.com/artist/27hSR8e34ZM5vj5fUFixyb
+  url: 'https://open.spotify.com/artist/27hSR8e34ZM5vj5fUFixyb'
 discography_enriched: true
 top_tracks:
-- Tangerine (Stan Kenton)
-- Shoo Fly Pie And Apple Pan Dowdy
-- Malaguena (Adventures In Jazz)
-- 'I Lost My Sugar in Salt Lake City (Kenton, Stan: Macgregor Transcriptions, Vol. 4 (1944))'
-- Malaguena
-- Orange Colored Sky - 2003 Digital Remaster (The Classic Singles)
-- Intermission Riff (Kenton In Hi-Fi)
-- 'I Lost My Sugar in Salt Lake City (Kenton, Stan: Macgregor Transcriptions, Vol. 4 (1944))'
-- Say It Isn't So (The Romantic Approach)
-- Ride On Santa, Ride On
+  - Tangerine (Stan Kenton)
+  - Shoo Fly Pie And Apple Pan Dowdy
+  - Malaguena (Adventures In Jazz)
+  - >-
+    I Lost My Sugar in Salt Lake City (Kenton, Stan: Macgregor Transcriptions,
+    Vol. 4 (1944))
+  - Malaguena
+  - Orange Colored Sky - 2003 Digital Remaster (The Classic Singles)
+  - Intermission Riff (Kenton In Hi-Fi)
+  - >-
+    I Lost My Sugar in Salt Lake City (Kenton, Stan: Macgregor Transcriptions,
+    Vol. 4 (1944))
+  - Say It Isn't So (The Romantic Approach)
+  - 'Ride On Santa, Ride On'
 external_urls:
-  spotify: https://open.spotify.com/artist/27hSR8e34ZM5vj5fUFixyb
-  wikipedia: https://en.wikipedia.org/wiki/Stan_Kenton
+  spotify: 'https://open.spotify.com/artist/27hSR8e34ZM5vj5fUFixyb'
+  wikipedia: 'https://en.wikipedia.org/wiki/Stan_Kenton'
 image_path: 03_Resources/source_material/ArtistPortraits/Stan_Kenton.jpg
 biography_enhanced_at: '2025-10-20T09:13:27.509959'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Stan_Kenton
-- https://www.allaboutjazz.com/musicians/stan-kenton/
-- https://lajazzscene.buzz/?page_id=5797
-- https://classical.music.apple.com/ca/artist/1207983
+  - 'https://en.wikipedia.org/wiki/Stan_Kenton'
+  - 'https://www.allaboutjazz.com/musicians/stan-kenton/'
+  - 'https://lajazzscene.buzz/?page_id=5797'
+  - 'https://classical.music.apple.com/ca/artist/1207983'
 network_extracted: true
 entry_created: '2025-10-20T09:13:27.509975'
 last_updated: '2025-12-23T08:16:03.943236'
+birth_date: '1911-12-15'
+death_date: '1979-08-25'
+artist_type: person
 ---
 
 ![](Stan_Kenton.jpg)

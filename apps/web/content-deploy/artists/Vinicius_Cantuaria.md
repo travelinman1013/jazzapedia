@@ -3,17 +3,17 @@ title: Vinicius Cantuaria
 wiki_slug: vinicius-cantuaria
 schema_version: 2
 status: active
-birth_place: Manaus, Amazonas, Brazil
+birth_place: 'Manaus, Amazonas, Brazil'
 genres:
-- brazilian jazz
-- brazilian pop
-- brazilian rock
-- mpb
+  - brazilian jazz
+  - brazilian pop
+  - brazilian rock
+  - mpb
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Vinicius_Cantuaria.jpg
   caption: Vinicius Cantuaria
   background: solo_singer
-  origin: Manaus, Amazonas, Brazil
+  origin: 'Manaus, Amazonas, Brazil'
 audio_profile:
   tempo_avg: 114.1
   energy_avg: 0.498
@@ -29,51 +29,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Caetano Veloso
-  - Arto Lindsay
-  - Brad Mehldau
-  - Bill Frisell
-  - Brian Eno, Laurie Anderson
-  - João Donato, Marcos Valle
+    - Caetano Veloso
+    - Arto Lindsay
+    - Brad Mehldau
+    - Bill Frisell
+    - 'Brian Eno, Laurie Anderson'
+    - 'João Donato, Marcos Valle'
   influenced:
-  - Younger Brazilian and international musicians
+    - Younger Brazilian and international musicians
   mentors:
-  - Antonio Carlos Jobim
-  - João Gilberto
-  - Miles Davis, Chet Baker, Bill Evans
+    - Antonio Carlos Jobim
+    - João Gilberto
+    - 'Miles Davis, Chet Baker, Bill Evans'
 spotify_data:
   followers: 16239
   id: 5WQw86oZtrTc4nUfagqpcU
   popularity: 34
-  url: https://open.spotify.com/artist/5WQw86oZtrTc4nUfagqpcU
+  url: 'https://open.spotify.com/artist/5WQw86oZtrTc4nUfagqpcU'
 discography_enriched: true
 top_tracks:
-- Só Você (Sutis Diferenças)
-- A Felicidade (Bossa Nova)
-- Cheio De Amor (Sutis Diferenças)
-- Na Canção (Siga-Me)
-- A Outra (No Voo do Urubu)
-- Coisa Linda (Vinícius Cantuária)
-- Só Você
-- Ridiculously Deep (Encyclopedia of Arto)
-- Esse Som Eu Quero (Sutis Diferenças)
-- Só Você - DJ Meme Remix (DJ MEME Apresenta Clássicos Reboot (Volume 1))
+  - Só Você (Sutis Diferenças)
+  - A Felicidade (Bossa Nova)
+  - Cheio De Amor (Sutis Diferenças)
+  - Na Canção (Siga-Me)
+  - A Outra (No Voo do Urubu)
+  - Coisa Linda (Vinícius Cantuária)
+  - Só Você
+  - Ridiculously Deep (Encyclopedia of Arto)
+  - Esse Som Eu Quero (Sutis Diferenças)
+  - Só Você - DJ Meme Remix (DJ MEME Apresenta Clássicos Reboot (Volume 1))
 external_urls:
-  spotify: https://open.spotify.com/artist/5WQw86oZtrTc4nUfagqpcU
-  wikipedia: https://en.wikipedia.org/wiki/Vinicius_Cantu%C3%A1ria
+  spotify: 'https://open.spotify.com/artist/5WQw86oZtrTc4nUfagqpcU'
+  wikipedia: 'https://en.wikipedia.org/wiki/Vinicius_Cantu%C3%A1ria'
 image_path: 03_Resources/source_material/ArtistPortraits/Vinicius_Cantuaria.jpg
 biography_enhanced_at: '2025-10-19T12:31:12.898203'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- All About Jazz profile
-- The Velvet Note
-- JazzTimes review
-- mmmusicagency.com
-- Sunnyside Records
+  - All About Jazz profile
+  - The Velvet Note
+  - JazzTimes review
+  - mmmusicagency.com
+  - Sunnyside Records
 network_extracted: true
 entry_created: '2025-10-19T12:31:12.898213'
 last_updated: '2025-12-23T08:16:04.248199'
+birth_date: '1951'
+artist_type: person
 ---
 
 ![](Vinicius_Cantuaria.jpg)

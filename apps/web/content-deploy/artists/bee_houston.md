@@ -1,16 +1,16 @@
 ---
-title: bee houston
+title: Bee Houston
 wiki_slug: bee-houston
 schema_version: 2
 status: active
-birth_place: San Antonio, Texas, USA
+birth_place: 'San Antonio, Texas, USA'
 genres:
-- blues
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bee_houston.jpg
   caption: bee houston
   background: solo_singer
-  origin: San Antonio, Texas, USA
+  origin: 'San Antonio, Texas, USA'
 audio_profile:
   tempo_avg: 115.7
   energy_avg: 0.535
@@ -26,49 +26,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Big Mama Thornton
-  - Bee Houston & His High Steppers
+    - Big Mama Thornton
+    - Bee Houston & His High Steppers
   influenced:
-  - Los Angeles blues musicians
+    - Los Angeles blues musicians
   mentors:
-  - T-Bone Walker
-  - Clarence "Gatemouth" Brown
+    - T-Bone Walker
+    - Clarence "Gatemouth" Brown
 spotify_data:
   followers: 134
   id: 4Ox0fMt8vxmfEL1IuKDqEE
   popularity: 0
-  url: https://open.spotify.com/artist/4Ox0fMt8vxmfEL1IuKDqEE
+  url: 'https://open.spotify.com/artist/4Ox0fMt8vxmfEL1IuKDqEE'
 discography_enriched: true
 top_tracks:
-- You Think I'm Your Good Thing (The Hustler)
-- Busy Bee (The Hustler)
-- Be Proud to Be a Black Man (The Hustler)
-- The Hustler (The Hustler)
-- Things Gonna Get Better - Version 1 (The Hustler)
-- Lovesick Man - Version 1 (The Hustler)
-- Introduction For Bee Houston (Blues Review of the 20th Century)
-- High Heel Sneakers ( Washington Show ) (Blues Review of the 20th Century)
-- You Think I'm Your Good Thing (15 Down Home Urban Blues Classics)
-- Things Gonna Get Better (Blues with a Message)
+  - You Think I'm Your Good Thing (The Hustler)
+  - Busy Bee (The Hustler)
+  - Be Proud to Be a Black Man (The Hustler)
+  - The Hustler (The Hustler)
+  - Things Gonna Get Better - Version 1 (The Hustler)
+  - Lovesick Man - Version 1 (The Hustler)
+  - Introduction For Bee Houston (Blues Review of the 20th Century)
+  - High Heel Sneakers ( Washington Show ) (Blues Review of the 20th Century)
+  - You Think I'm Your Good Thing (15 Down Home Urban Blues Classics)
+  - Things Gonna Get Better (Blues with a Message)
 external_urls:
-  spotify: https://open.spotify.com/artist/4Ox0fMt8vxmfEL1IuKDqEE
+  spotify: 'https://open.spotify.com/artist/4Ox0fMt8vxmfEL1IuKDqEE'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/bee_houston.jpg
 biography_enhanced_at: '2025-11-20T06:39:50.784389'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Bee+Houston/+wiki
-- https://fromthevaults-boppinbob.blogspot.com/2024/04/bee-houston-born-19-april-1938.html
-- https://www.last.fm/music/Bee+Houston+&+His+High+Steppers/+wiki
-- https://www.allmusic.com/artist/bee-houston-mn0000124776
-- https://music.apple.com/us/artist/bee-houston/79551349
-- https://folkways.si.edu/bee-houston-his-high-steppers/the-hustler/blues/music/album/smithsonian
-- https://rme.rilm.org/article?id=etb00946
-- https://www.youtube.com/watch?v=XyaX-qoMuIk
+  - 'https://www.last.fm/music/Bee+Houston/+wiki'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2024/04/bee-houston-born-19-april-1938.html
+  - 'https://www.last.fm/music/Bee+Houston+&+His+High+Steppers/+wiki'
+  - 'https://www.allmusic.com/artist/bee-houston-mn0000124776'
+  - 'https://music.apple.com/us/artist/bee-houston/79551349'
+  - >-
+    https://folkways.si.edu/bee-houston-his-high-steppers/the-hustler/blues/music/album/smithsonian
+  - 'https://rme.rilm.org/article?id=etb00946'
+  - 'https://www.youtube.com/watch?v=XyaX-qoMuIk'
 network_extracted: true
 entry_created: '2025-11-20T06:39:50.784420'
 last_updated: '2025-12-23T08:16:05.192855'
+origin: 'Los Angeles, California, United States'
+birth_date: '1938-04-19'
+death_date: '1991-03-19'
+artist_type: person
 ---
 
 ![](bee_houston.jpg)

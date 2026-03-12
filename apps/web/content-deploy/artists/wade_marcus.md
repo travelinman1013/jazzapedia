@@ -1,16 +1,16 @@
 ---
-title: wade marcus
+title: Wade Marcus
 wiki_slug: wade-marcus
 schema_version: 2
 status: active
-birth_place: Cleveland, Ohio, United States
+birth_place: 'Cleveland, Ohio, United States'
 genres:
-- breakbeat
+  - breakbeat
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/wade_marcus.jpg
   caption: wade marcus
   background: solo_singer
-  origin: Cleveland, Ohio, United States
+  origin: 'Cleveland, Ohio, United States'
 audio_profile:
   tempo_avg: 99.8
   energy_avg: 0.504
@@ -26,47 +26,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Stevie Wonder
-  - Bobbi Humphrey
-  - Grant Green
-  - Reuben Wilson
-  - Johnny Hammond
+    - Stevie Wonder
+    - Bobbi Humphrey
+    - Grant Green
+    - Reuben Wilson
+    - Johnny Hammond
   influenced:
-  - Bobbi Humphrey
-  - Jazz-funk arrangers of the 1970s
+    - Bobbi Humphrey
+    - Jazz-funk arrangers of the 1970s
   mentors:
-  - Motown Arrangers Collective
+    - Motown Arrangers Collective
 spotify_data:
   followers: 455
   id: 6TyNxthThaivJa2Sxii9fH
   popularity: 5
-  url: https://open.spotify.com/artist/6TyNxthThaivJa2Sxii9fH
+  url: 'https://open.spotify.com/artist/6TyNxthThaivJa2Sxii9fH'
 discography_enriched: true
 top_tracks:
-- Spinning Wheel (A New Era)
-- Spinning Wheel - Remastered Version (Right On!)
-- Spinning Wheel (Classic Easy Listening)
-- Thank You Falettin Me Be Mice Elf Agin (A New Era)
-- Magic Moments (A New Era)
-- A New Era (A New Era)
-- 'Spinning Wheel (Crate Diggers: Funk)'
-- 'Something (GLASS ONION: SONGS OF THE BEATLES)'
-- Spinning Wheel (Jazz Legends)
-- Feelin' Alright (RIGHT ON! 5)
+  - Spinning Wheel (A New Era)
+  - Spinning Wheel - Remastered Version (Right On!)
+  - Spinning Wheel (Classic Easy Listening)
+  - Thank You Falettin Me Be Mice Elf Agin (A New Era)
+  - Magic Moments (A New Era)
+  - A New Era (A New Era)
+  - 'Spinning Wheel (Crate Diggers: Funk)'
+  - 'Something (GLASS ONION: SONGS OF THE BEATLES)'
+  - Spinning Wheel (Jazz Legends)
+  - Feelin' Alright (RIGHT ON! 5)
 external_urls:
-  spotify: https://open.spotify.com/artist/6TyNxthThaivJa2Sxii9fH
+  spotify: 'https://open.spotify.com/artist/6TyNxthThaivJa2Sxii9fH'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/wade_marcus.jpg
 biography_enhanced_at: '2025-10-24T07:48:44.478001'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://dougpayne.blogspot.com/2009/06/wade-marcus-on-blue-note.html
-- https://www.last.fm/music/Wade+Marcus/+wiki
-- http://www.nts.live/artists/1304-wade-marcus
+  - 'http://dougpayne.blogspot.com/2009/06/wade-marcus-on-blue-note.html'
+  - 'https://www.last.fm/music/Wade+Marcus/+wiki'
+  - 'http://www.nts.live/artists/1304-wade-marcus'
 network_extracted: true
 entry_created: '2025-10-24T07:48:44.478013'
 last_updated: '2025-12-23T08:16:17.950409'
+artist_type: person
 ---
 
 ![](wade_marcus.jpg)

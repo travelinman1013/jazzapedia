@@ -2,13 +2,13 @@
 title: Ryan Keberle & Catharsis
 wiki_slug: ryan-keberle-catharsis
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
-birth_date: '2012'
+birth_date: '1980-06-16'
 genres: []
 instruments:
-- eponymous
-- original
+  - eponymous
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ryan_keberle_and_catharsis.jpg
   caption: Ryan Keberle & Catharsis
@@ -29,69 +29,92 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mike Rodriguez
-  - Jorge Roeder
-  - Eric Doob
-  - Camila Meza
-  - Maria Schneider
-  - Darcy James Argue
-  - Sufjan Stevens
+    - Mike Rodriguez
+    - Jorge Roeder
+    - Eric Doob
+    - Camila Meza
+    - Maria Schneider
+    - Darcy James Argue
+    - Sufjan Stevens
   influenced:
-  - Hunter College jazz students
+    - Hunter College jazz students
   mentors:
-  - Steve Turre
-  - Michael Abene
-  - Manny Albam
-  - Wycliffe Gordon
-  - David Berger
+    - Steve Turre
+    - Michael Abene
+    - Manny Albam
+    - Wycliffe Gordon
+    - David Berger
 spotify_data:
   followers: 238
   id: 6sUreAc15mVfrbGfX5H8aa
   popularity: 0
-  url: https://open.spotify.com/artist/6sUreAc15mVfrbGfX5H8aa
+  url: 'https://open.spotify.com/artist/6sUreAc15mVfrbGfX5H8aa'
 discography_enriched: true
 top_tracks:
-- Become the Water (Find the Common, Shine a Light (feat. Camila Meza, Mike Rodriguez, Jorge Roeder & Eric Doob))
-- Al Otro Lado del Rio (Find the Common, Shine a Light (feat. Camila Meza, Mike Rodriguez, Jorge Roeder & Eric Doob))
-- Empathy (Find the Common, Shine a Light (feat. Camila Meza, Mike Rodriguez, Jorge Roeder & Eric Doob))
-- Ancient Theory (Find the Common, Shine a Light (feat. Camila Meza, Mike Rodriguez, Jorge Roeder & Eric Doob))
-- Fool on the Hill (Find the Common, Shine a Light (feat. Camila Meza, Mike Rodriguez, Jorge Roeder & Eric Doob))
-- Mindfulness (Find the Common, Shine a Light (feat. Camila Meza, Mike Rodriguez, Jorge Roeder & Eric Doob))
-- The Times They Are A-Changin (Find the Common, Shine a Light (feat. Camila Meza, Mike Rodriguez, Jorge Roeder & Eric Doob))
-- Strength (Find the Common, Shine a Light (feat. Camila Meza, Mike Rodriguez, Jorge Roeder & Eric Doob))
-- I Am a Stranger (Find the Common, Shine a Light (feat. Camila Meza, Mike Rodriguez, Jorge Roeder & Eric Doob))
-- I Thought I Knew (For Pedro Giraudo) (Azul Infinito (feat. Camila Meza, Mike Rodriguez, Jorge Roeder & Eric Doob))
+  - >-
+    Become the Water (Find the Common, Shine a Light (feat. Camila Meza, Mike
+    Rodriguez, Jorge Roeder & Eric Doob))
+  - >-
+    Al Otro Lado del Rio (Find the Common, Shine a Light (feat. Camila Meza,
+    Mike Rodriguez, Jorge Roeder & Eric Doob))
+  - >-
+    Empathy (Find the Common, Shine a Light (feat. Camila Meza, Mike Rodriguez,
+    Jorge Roeder & Eric Doob))
+  - >-
+    Ancient Theory (Find the Common, Shine a Light (feat. Camila Meza, Mike
+    Rodriguez, Jorge Roeder & Eric Doob))
+  - >-
+    Fool on the Hill (Find the Common, Shine a Light (feat. Camila Meza, Mike
+    Rodriguez, Jorge Roeder & Eric Doob))
+  - >-
+    Mindfulness (Find the Common, Shine a Light (feat. Camila Meza, Mike
+    Rodriguez, Jorge Roeder & Eric Doob))
+  - >-
+    The Times They Are A-Changin (Find the Common, Shine a Light (feat. Camila
+    Meza, Mike Rodriguez, Jorge Roeder & Eric Doob))
+  - >-
+    Strength (Find the Common, Shine a Light (feat. Camila Meza, Mike Rodriguez,
+    Jorge Roeder & Eric Doob))
+  - >-
+    I Am a Stranger (Find the Common, Shine a Light (feat. Camila Meza, Mike
+    Rodriguez, Jorge Roeder & Eric Doob))
+  - >-
+    I Thought I Knew (For Pedro Giraudo) (Azul Infinito (feat. Camila Meza, Mike
+    Rodriguez, Jorge Roeder & Eric Doob))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1384e814-5419-4b55-be25-0cfd44b7a9f5
-  spotify: https://open.spotify.com/artist/6sUreAc15mVfrbGfX5H8aa
-  wikipedia: https://en.wikipedia.org/wiki/Ryan_Keberle
+  musicbrainz: 'https://musicbrainz.org/artist/1384e814-5419-4b55-be25-0cfd44b7a9f5'
+  spotify: 'https://open.spotify.com/artist/6sUreAc15mVfrbGfX5H8aa'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ryan_Keberle'
 image_path: 03_Resources/source_material/ArtistPortraits/ryan_keberle_and_catharsis.jpg
 biography_enhanced_at: '2025-11-20T06:28:58.321355'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Ryan_Keberle
-- https://ryankeberle.com/about/
-- https://music.hunter.cuny.edu/faculty/full-time-faculty/ryan-keberle/
-- https://mta.mit.edu/people/visiting-artists/ryan-keberle-and-catharsis
-- https://downbeat.com/news/detail/ryan-keberles-incredible-juggling-act
-- https://greenleafmusic.com/artists/ryankeberle/the-hope-i-hold/
-- https://www.juilliard.edu/news/121891/spotlight-ryan-keberle
+  - 'https://en.wikipedia.org/wiki/Ryan_Keberle'
+  - 'https://ryankeberle.com/about/'
+  - 'https://music.hunter.cuny.edu/faculty/full-time-faculty/ryan-keberle/'
+  - 'https://mta.mit.edu/people/visiting-artists/ryan-keberle-and-catharsis'
+  - 'https://downbeat.com/news/detail/ryan-keberles-incredible-juggling-act'
+  - 'https://greenleafmusic.com/artists/ryankeberle/the-hope-i-hold/'
+  - 'https://www.juilliard.edu/news/121891/spotlight-ryan-keberle'
 network_extracted: true
 entry_created: '2025-11-20T06:28:58.321368'
 last_updated: '2025-12-23T08:16:15.236413'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: f6ffdab5-a3e8-4926-853a-0d641899a27d
-  name: Ryan Keberle
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: f6ffdab5-a3e8-4926-853a-0d641899a27d
+    name: Ryan Keberle
 musicbrainz_id: 1384e814-5419-4b55-be25-0cfd44b7a9f5
-origin: Spokane, Washington, United States (Ryan Keberle's birthplace; Catharsis originated in New York City)
+origin: >-
+  Spokane, Washington, United States (Ryan Keberle's birthplace; Catharsis
+  originated in New York City)
 tags:
-- jazz
+  - jazz
+birth_place: 'Spokane, Washington, United States'
 ---
 
 ![](ryan_keberle_and_catharsis.jpg)

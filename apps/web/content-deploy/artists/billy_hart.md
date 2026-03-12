@@ -5,95 +5,95 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1940-11-29'
-birth_place: Washington, D.C.
+birth_place: 'Washington, D.C., United States'
 genres:
-- jazz
+  - jazz
 instruments:
-- drums (drum set)
-- original
-associated_acts:
-- begin: '1988'
-  end: '1990'
-  instruments:
-  - drums (drum set)
-  mbid: dd6af85b-f886-43ff-aab0-65a24cff7c14
-  name: The Great Jazz Trio
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 240d77a6-aeb3-4a7b-93e0-00c00fd51deb
-  name: Niels-Henning Ørsted Pedersen Trio
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 927c67b5-6fee-417f-8c47-d22a1a7285b9
-  name: Ron McClure Sextet
-- begin: ''
-  end: ''
-  instruments:
   - drums (drum set)
   - original
-  mbid: 71926308-8e8a-46af-952d-f141735f1ff9
-  name: The Mary Lou Williams Collective
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 543b20c7-45ed-477f-ab58-781cd5f72014
-  name: Niels-Henning Ørsted Pedersen Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: b455c1e4-4182-4687-8372-009fc4693065
-  name: Ralph Moore Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: d16ead44-2274-4b3a-a8eb-3d68a0432ecc
-  name: Quest
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: c90d2769-6eed-46c9-88a4-2ed11d5d78a4
-  name: Robin Verheyen Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: e2f3c007-6995-430b-914c-59818c175dff
-  name: Charlie Mingus Super Band
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 1074405e-4188-4a50-a1f4-040d025898ba
-  name: James Newton Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9044bbac-14a0-42b6-bee3-136647146d29
-  name: The Herbie Hancock Sextet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8741a46a-002e-4ab1-b3a3-22c91184b424
-  name: Lars Møller Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: da7f13df-0348-4d13-b869-ec35ad821ae6
-  name: Jeff Gardner Trio
+associated_acts:
+  - begin: '1988'
+    end: '1990'
+    instruments:
+      - drums (drum set)
+    mbid: dd6af85b-f886-43ff-aab0-65a24cff7c14
+    name: The Great Jazz Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 240d77a6-aeb3-4a7b-93e0-00c00fd51deb
+    name: Niels-Henning Ørsted Pedersen Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 927c67b5-6fee-417f-8c47-d22a1a7285b9
+    name: Ron McClure Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+      - original
+    mbid: 71926308-8e8a-46af-952d-f141735f1ff9
+    name: The Mary Lou Williams Collective
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 543b20c7-45ed-477f-ab58-781cd5f72014
+    name: Niels-Henning Ørsted Pedersen Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: b455c1e4-4182-4687-8372-009fc4693065
+    name: Ralph Moore Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: d16ead44-2274-4b3a-a8eb-3d68a0432ecc
+    name: Quest
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: c90d2769-6eed-46c9-88a4-2ed11d5d78a4
+    name: Robin Verheyen Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: e2f3c007-6995-430b-914c-59818c175dff
+    name: Charlie Mingus Super Band
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 1074405e-4188-4a50-a1f4-040d025898ba
+    name: James Newton Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9044bbac-14a0-42b6-bee3-136647146d29
+    name: The Herbie Hancock Sextet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8741a46a-002e-4ab1-b3a3-22c91184b424
+    name: Lars Møller Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: da7f13df-0348-4d13-b869-ec35ad821ae6
+    name: Jeff Gardner Trio
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/billy_hart.jpg
   caption: Billy Hart
   background: non_vocal_instrumentalist
   born: '1940-11-29'
-  origin: Washington, D.C.
+  origin: 'Washington, D.C.'
 audio_profile:
   tempo_avg: 107.4
   energy_avg: 0.264
@@ -109,56 +109,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Herbie Hancock
-  - Wes Montgomery
-  - Jimmy Smith
-  - Pharoah Sanders
-  - Miles Davis
-  - Stan Getz
-  - McCoy Tyner
-  - Wayne Shorter
-  - Joe Zawinul
-  - Quest
+    - Herbie Hancock
+    - Wes Montgomery
+    - Jimmy Smith
+    - Pharoah Sanders
+    - Miles Davis
+    - Stan Getz
+    - McCoy Tyner
+    - Wayne Shorter
+    - Joe Zawinul
+    - Quest
   influenced:
-  - Students at multiple institutions
-  - Jazz drummers and percussionists
+    - Students at multiple institutions
+    - Jazz drummers and percussionists
   mentors:
-  - Buck Hill
-  - Shirley Horn
+    - Buck Hill
+    - Shirley Horn
 spotify_data:
   followers: 3706
   id: 5DFipPOMNcZT3XMGx59s5I
   popularity: 29
-  url: https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I
+  url: 'https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I'
 discography_enriched: true
 top_tracks:
-- For Heaven's Sake (All Things Are)
-- Heaven's Gift - Fusion - Jazz Secrets
-- Song for Peace
-- Heaven's Gift (Fusion - Jazz Secrets) - Short Cut - theme - Dave Liebman & Pat Metheny
-- Summer Knows (Standard Collections Vol. 1)
-- Throughout
-- Heaven's Gift (Fusion - Jazz Secrets) - Short Cut - Dave Liebman soprano sax solo
-- Heaven's Gift (Fusion - Jazz Secrets) - Short Cut - Pat Metheny guitar solo
-- With a Little Help from My Friends
-- Delilah
+  - For Heaven's Sake (All Things Are)
+  - Heaven's Gift - Fusion - Jazz Secrets
+  - Song for Peace
+  - >-
+    Heaven's Gift (Fusion - Jazz Secrets) - Short Cut - theme - Dave Liebman &
+    Pat Metheny
+  - Summer Knows (Standard Collections Vol. 1)
+  - Throughout
+  - >-
+    Heaven's Gift (Fusion - Jazz Secrets) - Short Cut - Dave Liebman soprano sax
+    solo
+  - Heaven's Gift (Fusion - Jazz Secrets) - Short Cut - Pat Metheny guitar solo
+  - With a Little Help from My Friends
+  - Delilah
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/cd98d00f-324f-4ca8-a7e0-05fe47e88aac
-  spotify: https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I
-  wikipedia: https://en.wikipedia.org/wiki/Billy_Hart
+  musicbrainz: 'https://musicbrainz.org/artist/cd98d00f-324f-4ca8-a7e0-05fe47e88aac'
+  spotify: 'https://open.spotify.com/artist/5DFipPOMNcZT3XMGx59s5I'
+  wikipedia: 'https://en.wikipedia.org/wiki/Billy_Hart'
 image_path: 03_Resources/source_material/ArtistPortraits/billy_hart.jpg
 biography_enhanced_at: '2025-11-29T06:54:01.600263'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- National Endowment for the Arts - Billy Hart
-- Wikipedia - Billy Hart
-- ECM Records - Billy Hart
-- New England Conservatory of Music - Billy Hart Faculty
-- KNKX Jazz - Drummer and educator Billy Hart is still pushing the music forward
-- The Cookers Music - Billy Hart
-- Mid Atlantic Arts - Billy Hart 2023 Living Legacy Jazz Award Honoree
-- Billy Hart Official Website - Biography
+  - National Endowment for the Arts - Billy Hart
+  - Wikipedia - Billy Hart
+  - ECM Records - Billy Hart
+  - New England Conservatory of Music - Billy Hart Faculty
+  - >-
+    KNKX Jazz - Drummer and educator Billy Hart is still pushing the music
+    forward
+  - The Cookers Music - Billy Hart
+  - Mid Atlantic Arts - Billy Hart 2023 Living Legacy Jazz Award Honoree
+  - Billy Hart Official Website - Biography
 network_extracted: true
 entry_created: '2025-11-29T06:54:01.600278'
 last_updated: '2025-12-23T08:16:05.582984'
@@ -166,9 +172,9 @@ disambiguation: US jazz drummer aka "Jabali" Billy Hart
 gender: Male
 musicbrainz_id: cd98d00f-324f-4ca8-a7e0-05fe47e88aac
 tags:
-- avant-garde jazz
-- jazz
-- jazz fusion
+  - avant-garde jazz
+  - jazz
+  - jazz fusion
 ---
 
 ![](billy_hart.jpg)

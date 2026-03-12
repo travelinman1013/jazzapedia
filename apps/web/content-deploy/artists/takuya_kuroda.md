@@ -1,24 +1,24 @@
 ---
-title: takuya kuroda
+title: Takuya Kuroda
 wiki_slug: takuya-kuroda
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1980-02-21'
-birth_place: Ashiya, Hyōgo, Japan
+birth_place: 'Ashiya, Hyōgo, Japan'
 genres:
-- indie jazz
-- nu jazz
-- jazz
-- jazz funk
+  - indie jazz
+  - nu jazz
+  - jazz
+  - jazz funk
 instruments:
-- trumpet
+  - trumpet
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/takuya_kuroda.jpg
   caption: takuya kuroda
   background: non_vocal_instrumentalist
   born: '1980-02-21'
-  origin: Ashiya, Hyōgo, Japan
+  origin: 'Ashiya, Hyōgo, Japan'
 audio_profile:
   tempo_avg: 108.4
   energy_avg: 0.523
@@ -34,45 +34,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - José James
-  - Akoya Afrobeat
-  - DJ Premier (BADDER Band)
-  - Jesse Fischer
+    - José James
+    - Akoya Afrobeat
+    - DJ Premier (BADDER Band)
+    - Jesse Fischer
   influenced:
-  - No widely documented specific proteges
+    - No widely documented specific proteges
   mentors:
-  - Older brother (unnamed trombonist)
+    - Older brother (unnamed trombonist)
 spotify_data:
   followers: 140615
   id: 4DbVGBurfbrdLW2ZwfwdmP
   popularity: 41
-  url: https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP
+  url: 'https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP'
 discography_enriched: true
 top_tracks:
-- Everybody Loves The Sunshine (Rising Son)
-- Salty (Um Mar Pra Cada Um,)
-- Rising Son (Rising Son)
-- Green And Gold (Rising Son)
-- 'Rock With You (1978: Revenge of The Dragon)'
-- Must Have Known (EVERYDAY)
-- Very Soon (Add a Zero)
-- Add a Zero (Add a Zero)
-- R.S.B.D - TBG Rise And Fall Remix
-- Depressed to Impress (Add a Zero)
+  - Everybody Loves The Sunshine (Rising Son)
+  - 'Salty (Um Mar Pra Cada Um,)'
+  - Rising Son (Rising Son)
+  - Green And Gold (Rising Son)
+  - 'Rock With You (1978: Revenge of The Dragon)'
+  - Must Have Known (EVERYDAY)
+  - Very Soon (Add a Zero)
+  - Add a Zero (Add a Zero)
+  - R.S.B.D - TBG Rise And Fall Remix
+  - Depressed to Impress (Add a Zero)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6d75cf4b-82b5-4fbe-a09a-5963af6d7576
-  spotify: https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP
-  wikipedia: https://en.wikipedia.org/wiki/Takuya_Kuroda
+  musicbrainz: 'https://musicbrainz.org/artist/6d75cf4b-82b5-4fbe-a09a-5963af6d7576'
+  spotify: 'https://open.spotify.com/artist/4DbVGBurfbrdLW2ZwfwdmP'
+  wikipedia: 'https://en.wikipedia.org/wiki/Takuya_Kuroda'
 image_path: 03_Resources/source_material/ArtistPortraits/takuya_kuroda.jpg
 biography_enhanced_at: '2025-10-20T10:00:55.574762'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Takuya_Kuroda
-- https://atljazzfest.com/artists/takuya-kuroda/
-- https://www.takuyakuroda.com/about
-- https://www.allaboutjazz.com/musicians/takuya-kuroda/
-- https://www.montreuxjazzfestival.com/en/artist/takuya-kuroda/
+  - 'https://en.wikipedia.org/wiki/Takuya_Kuroda'
+  - 'https://atljazzfest.com/artists/takuya-kuroda/'
+  - 'https://www.takuyakuroda.com/about'
+  - 'https://www.allaboutjazz.com/musicians/takuya-kuroda/'
+  - 'https://www.montreuxjazzfestival.com/en/artist/takuya-kuroda/'
 network_extracted: true
 entry_created: '2025-10-20T10:00:55.574779'
 last_updated: '2025-12-23T08:16:16.365242'
@@ -80,8 +80,9 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:56:13.218414'
 musicbrainz_id: 6d75cf4b-82b5-4fbe-a09a-5963af6d7576
 tags:
-- jazz
-- jazz-funk
+  - jazz
+  - jazz-funk
+origin: 'Brooklyn, New York, United States'
 ---
 
 ![](takuya_kuroda.jpg)

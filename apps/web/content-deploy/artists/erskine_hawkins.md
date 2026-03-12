@@ -5,17 +5,17 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1914-07-26'
-birth_place: Birmingham
+birth_place: 'Birmingham, Alabama, United States'
 death_date: '1993-11-11'
 genres:
-- swing music
-- big band
+  - swing music
+  - big band
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1fd74817-b3bf-4a70-bf44-14b00d6a4789
-  name: Erskine Hawkins and His Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1fd74817-b3bf-4a70-bf44-14b00d6a4789
+    name: Erskine Hawkins and His Orchestra
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/erskine_hawkins.jpg
   caption: Erskine Hawkins
@@ -38,57 +38,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bill Johnson
-  - Julian Dash
-  - Dud Bascomb
-  - Avery Parrish
-  - Haywood Henry
-  - Sammy Lowe
-  - Ida James, Delores Brown, Della Reese
+    - Bill Johnson
+    - Julian Dash
+    - Dud Bascomb
+    - Avery Parrish
+    - Haywood Henry
+    - Sammy Lowe
+    - 'Ida James, Delores Brown, Della Reese'
   influenced:
-  - Ray Charles
-  - Della Reese
+    - Ray Charles
+    - Della Reese
   mentors:
-  - Alabama State Teachers College music faculty
+    - Alabama State Teachers College music faculty
 spotify_data:
   followers: 10350
   id: 56FeQ03tAPYJ2gwmGhrpbF
   popularity: 16
-  url: https://open.spotify.com/artist/56FeQ03tAPYJ2gwmGhrpbF
+  url: 'https://open.spotify.com/artist/56FeQ03tAPYJ2gwmGhrpbF'
 discography_enriched: true
 top_tracks:
-- Dolomite (After Hours)
-- After Hours (Taint No Good)
-- Tuxedo Junction
-- Shipyard Ramble (The Best)
-- Hawk's Boogie
-- 'Keep Cool, Fool - Remastered (The One and Only: Erskine Hawkins)'
-- Hawk's Boogie (Jukebox Hits 1940-1950)
-- Shipyard Ramble
-- Tippin' In
-- Gin Mill Special (arr. S. Lowe)
+  - Dolomite (After Hours)
+  - After Hours (Taint No Good)
+  - Tuxedo Junction
+  - Shipyard Ramble (The Best)
+  - Hawk's Boogie
+  - 'Keep Cool, Fool - Remastered (The One and Only: Erskine Hawkins)'
+  - Hawk's Boogie (Jukebox Hits 1940-1950)
+  - Shipyard Ramble
+  - Tippin' In
+  - Gin Mill Special (arr. S. Lowe)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5c2c3f4b-fc35-4851-971b-6baa5c114da0
-  spotify: https://open.spotify.com/artist/56FeQ03tAPYJ2gwmGhrpbF
-  wikipedia: https://en.wikipedia.org/wiki/Erskine_Hawkins
+  musicbrainz: 'https://musicbrainz.org/artist/5c2c3f4b-fc35-4851-971b-6baa5c114da0'
+  spotify: 'https://open.spotify.com/artist/56FeQ03tAPYJ2gwmGhrpbF'
+  wikipedia: 'https://en.wikipedia.org/wiki/Erskine_Hawkins'
 image_path: 03_Resources/source_material/ArtistPortraits/erskine_hawkins.jpg
 biography_enhanced_at: '2025-11-16T20:13:02.795503'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Erskine_Hawkins
-- https://encyclopediaofalabama.org/article/erskine-hawkins/
-- https://syncopatedtimes.com/erskine-hawkins-profiles-in-jazz/
-- https://www.alamhof.org/erskinehawkins
-- https://www.allaboutjazz.com/musicians/erskine-hawkins/
+  - 'https://en.wikipedia.org/wiki/Erskine_Hawkins'
+  - 'https://encyclopediaofalabama.org/article/erskine-hawkins/'
+  - 'https://syncopatedtimes.com/erskine-hawkins-profiles-in-jazz/'
+  - 'https://www.alamhof.org/erskinehawkins'
+  - 'https://www.allaboutjazz.com/musicians/erskine-hawkins/'
 network_extracted: true
 entry_created: '2025-11-16T20:13:02.795514'
 last_updated: '2025-12-23T08:16:08.453964'
 gender: Male
 musicbrainz_id: 5c2c3f4b-fc35-4851-971b-6baa5c114da0
 tags:
-- jazz
-- swing
+  - jazz
+  - swing
+is_active: false
 ---
 
 ![](erskine_hawkins.jpg)

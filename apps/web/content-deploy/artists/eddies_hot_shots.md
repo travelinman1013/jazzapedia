@@ -1,39 +1,43 @@
 ---
 biography_enhanced_at: '2026-01-01T01:06:07.131452'
-birth_place: Goodland, Indiana, USA
+birth_place: 'Goodland, Indiana, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-01T01:06:07.131527'
 external_urls:
-  spotify: https://open.spotify.com/artist/3KljnAyuXx8SLUyn8qCr5O
-  wikipedia: https://en.wikipedia.org/wiki/Eddie_Condon
+  spotify: 'https://open.spotify.com/artist/3KljnAyuXx8SLUyn8qCr5O'
+  wikipedia: 'https://en.wikipedia.org/wiki/Eddie_Condon'
 genres: []
 image_path: ''
 last_updated: '2026-01-01T01:06:07.131532'
 musical_connections:
   collaborators:
-  - Red McKenzie
-  - Mezz Mezzrow
-  - Jack Teagarden
-  - Bobby Hackett
-  - Wild Bill Davison
+    - Red McKenzie
+    - Mezz Mezzrow
+    - Jack Teagarden
+    - Bobby Hackett
+    - Wild Bill Davison
   influenced: []
   mentors:
-  - King Oliver
-  - Louis Armstrong
+    - King Oliver
+    - Louis Armstrong
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.jazzology.com/jazzbeat.php?id=31
-- https://chiaroscurojazz.org/eddie-condon/
-- https://en.wikipedia.org/wiki/Eddie_Condon
-- https://syncopatedtimes.com/integration-in-the-recording-studio-eddie-condons-story/
+  - 'https://www.jazzology.com/jazzbeat.php?id=31'
+  - 'https://chiaroscurojazz.org/eddie-condon/'
+  - 'https://en.wikipedia.org/wiki/Eddie_Condon'
+  - >-
+    https://syncopatedtimes.com/integration-in-the-recording-studio-eddie-condons-story/
 spotify_data:
   followers: 0
   id: 3KljnAyuXx8SLUyn8qCr5O
   popularity: 0
-  url: https://open.spotify.com/artist/3KljnAyuXx8SLUyn8qCr5O
+  url: 'https://open.spotify.com/artist/3KljnAyuXx8SLUyn8qCr5O'
 status: active
-title: EDDIE'S HOT SHOTS
+title: Eddie's Hot Shots
+origin: 'Chicago, Illinois, United States'
+birth_date: '1905-11-16'
+artist_type: band
 ---
 
 ![]()

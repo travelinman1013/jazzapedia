@@ -2,25 +2,25 @@
 title: Buddy Guy
 wiki_slug: buddy-guy
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1936-07-30'
-birth_place: Lettsworth, Louisiana, United States
+birth_place: 'Lettsworth, Louisiana, United States'
 genres:
-- blues
-- classic blues
-- blues rock
-- soul blues
-- modern blues
-- country blues
+  - blues
+  - classic blues
+  - blues rock
+  - soul blues
+  - modern blues
+  - country blues
 instruments:
-- eponymous
+  - eponymous
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Buddy_Guy.jpg
   caption: Buddy Guy
   background: non_vocal_instrumentalist
   born: '1936-07-30'
-  origin: Lettsworth, Louisiana, United States
+  origin: 'Lettsworth, Louisiana, United States'
 audio_profile:
   tempo_avg: 122.7
   energy_avg: 0.5
@@ -36,52 +36,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Junior Wells
-  - Howlin’ Wolf
-  - Little Walter
-  - Willie Dixon
+    - Junior Wells
+    - Howlin’ Wolf
+    - Little Walter
+    - Willie Dixon
   influenced:
-  - Eric Clapton
-  - Jimi Hendrix
-  - Stevie Ray Vaughan
-  - Jimmy Page
-  - John Mayer
+    - Eric Clapton
+    - Jimi Hendrix
+    - Stevie Ray Vaughan
+    - Jimmy Page
+    - John Mayer
   mentors:
-  - Muddy Waters
-  - John Lee Hooker
-  - B.B. King
-  - Eddie 'Guitar Slim' Jones
+    - Muddy Waters
+    - John Lee Hooker
+    - B.B. King
+    - Eddie 'Guitar Slim' Jones
 spotify_data:
   followers: 873873
   id: 2gCsNOpiBaMNh20jQ5prf0
   popularity: 50
-  url: https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0
+  url: 'https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0'
 discography_enriched: true
 top_tracks:
-- Feels Like Rain (feat. Bonnie Raitt) (Feels Like Rain)
-- Stone Crazy (I Was Walking Through The Woods (Expanded Edition))
-- Damn Right, I've Got the Blues (Damn Right, I've Got The Blues)
-- Ain't No Sunshine (Bring 'Em In)
-- Mustang Sally (feat. Jeff Beck) (Damn Right, I've Got The Blues)
-- Six Strings Down (The Essential Jimmie Vaughan)
-- What Kind Of Woman Is This? (Bring 'Em In)
-- Flesh & Bone (Dedicated to B.B. King) (with Van Morrison) (Born To Play Guitar)
-- Whiskey, Beer & Wine (Born To Play Guitar)
-- How Blues Is That (feat. Joe Walsh)
+  - Feels Like Rain (feat. Bonnie Raitt) (Feels Like Rain)
+  - Stone Crazy (I Was Walking Through The Woods (Expanded Edition))
+  - 'Damn Right, I''ve Got the Blues (Damn Right, I''ve Got The Blues)'
+  - Ain't No Sunshine (Bring 'Em In)
+  - 'Mustang Sally (feat. Jeff Beck) (Damn Right, I''ve Got The Blues)'
+  - Six Strings Down (The Essential Jimmie Vaughan)
+  - What Kind Of Woman Is This? (Bring 'Em In)
+  - >-
+    Flesh & Bone (Dedicated to B.B. King) (with Van Morrison) (Born To Play
+    Guitar)
+  - 'Whiskey, Beer & Wine (Born To Play Guitar)'
+  - How Blues Is That (feat. Joe Walsh)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4336a134-d091-4e54-9967-c7c433db6d4e
-  spotify: https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0
-  wikipedia: https://en.wikipedia.org/wiki/Buddy_Guy
+  musicbrainz: 'https://musicbrainz.org/artist/4336a134-d091-4e54-9967-c7c433db6d4e'
+  spotify: 'https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0'
+  wikipedia: 'https://en.wikipedia.org/wiki/Buddy_Guy'
 image_path: 03_Resources/source_material/ArtistPortraits/Buddy_Guy.jpg
 biography_enhanced_at: '2025-10-19T10:43:58.620968'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.britannica.com/biography/Buddy-Guy
-- https://buddyguy.com/buddy-guy/
-- https://concord.com/artist/buddy-guy/
-- https://msbluestrail.org/blues-trail-markers/buddy-guy
-- https://www.explorelouisiana.com/music/buddy-guys-birthplace
+  - 'https://www.britannica.com/biography/Buddy-Guy'
+  - 'https://buddyguy.com/buddy-guy/'
+  - 'https://concord.com/artist/buddy-guy/'
+  - 'https://msbluestrail.org/blues-trail-markers/buddy-guy'
+  - 'https://www.explorelouisiana.com/music/buddy-guys-birthplace'
 network_extracted: true
 entry_created: '2025-10-19T10:43:58.620981'
 last_updated: '2025-12-23T08:16:01.389988'
@@ -89,10 +91,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:20:44.229621'
 musicbrainz_id: 4336a134-d091-4e54-9967-c7c433db6d4e
 tags:
-- 2008 universal fire victim
-- blues
-- blues rock
-
+  - 2008 universal fire victim
+  - blues
+  - blues rock
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](Buddy_Guy.jpg)

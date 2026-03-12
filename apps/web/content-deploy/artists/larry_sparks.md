@@ -1,50 +1,51 @@
 ---
 biography_enhanced_at: '2025-12-29T01:12:15.582499'
-birth_place: Lebanon, Ohio, United States
+birth_place: 'Lebanon, Ohio, United States'
 enhancement_provider: perplexity
 entry_created: '2025-12-29T01:12:15.582506'
 external_urls:
-  spotify: https://open.spotify.com/artist/05c6W2NfXx6jxO28OGfPRA
-  wikipedia: https://en.wikipedia.org/wiki/Larry_Sparks
+  spotify: 'https://open.spotify.com/artist/05c6W2NfXx6jxO28OGfPRA'
+  wikipedia: 'https://en.wikipedia.org/wiki/Larry_Sparks'
 genres:
-- bluegrass
-- christian country
-- southern gospel
-- newgrass
+  - bluegrass
+  - christian country
+  - southern gospel
+  - newgrass
 image_path: 03_Resources/source_material/ArtistPortraits/larry_sparks.jpg
 last_updated: '2025-12-29T01:12:15.582506'
 musical_connections:
   collaborators:
-  - Lonesome Ramblers
-  - David Cox, Lloyd Hensley, Joe Isaacs, Bernice Sparks
-  - Dave Evans
-  - Joe Isaacs, Scott Vestal, Barry Crabtree, Josh McMurray
-  - David Harvey, Scott Napier
-  - Joe Meadows, Kirk Brandenberger, Stuart Duncan
-  - Dee Sparks
+    - Lonesome Ramblers
+    - 'David Cox, Lloyd Hensley, Joe Isaacs, Bernice Sparks'
+    - Dave Evans
+    - 'Joe Isaacs, Scott Vestal, Barry Crabtree, Josh McMurray'
+    - 'David Harvey, Scott Napier'
+    - 'Joe Meadows, Kirk Brandenberger, Stuart Duncan'
+    - Dee Sparks
   influenced: []
   mentors:
-  - Stanley Brothers
-  - Ralph Stanley
-  - Bernice Sparks
-  - Moon Mullins
-  - Wayne Raney, Tommy Sutton, Paul “Moon” Mullins
+    - Stanley Brothers
+    - Ralph Stanley
+    - Bernice Sparks
+    - Moon Mullins
+    - 'Wayne Raney, Tommy Sutton, Paul “Moon” Mullins'
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Larry_Sparks
-- https://www.bluegrasshall.org/inductees/larry-sparks/
-- https://www.thebluegrassjamboree.com/potd-larry-sparks/
-- https://bluegrassunlimited.com/article/larry-sparks-3/
-- https://bluegrassunlimited.com/article/larry-sparks-3/
+  - 'https://en.wikipedia.org/wiki/Larry_Sparks'
+  - 'https://www.bluegrasshall.org/inductees/larry-sparks/'
+  - 'https://www.thebluegrassjamboree.com/potd-larry-sparks/'
+  - 'https://bluegrassunlimited.com/article/larry-sparks-3/'
+  - 'https://bluegrassunlimited.com/article/larry-sparks-3/'
 spotify_data:
   followers: 16672
   id: 05c6W2NfXx6jxO28OGfPRA
   popularity: 36
-  url: https://open.spotify.com/artist/05c6W2NfXx6jxO28OGfPRA
+  url: 'https://open.spotify.com/artist/05c6W2NfXx6jxO28OGfPRA'
 status: active
-title: LARRY SPARKS
-
+title: Larry Sparks
+birth_date: '1947-09-25'
+artist_type: person
 ---
 
 ![](larry_sparks.jpg)

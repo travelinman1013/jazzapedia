@@ -1,39 +1,39 @@
 ---
-title: brother dege
+title: Brother Dege
 wiki_slug: brother-dege
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1967'
-birth_place: Lafayette, Louisiana, United States
+birth_place: 'Lafayette, Louisiana, United States'
 death_date: '2024-03-08'
 genres:
-- gothic country
-- country blues
+  - gothic country
+  - country blues
 instruments:
-- lead vocals
-- guitar
-- resonator guitar
-- slide guitar
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - lead vocals
-  mbid: a666bb27-e75c-4467-ba2b-6153ec8a358a
-  name: Santeria
-- begin: ''
-  end: ''
-  instruments:
   - guitar
-  mbid: a666bb27-e75c-4467-ba2b-6153ec8a358a
-  name: Santeria
+  - resonator guitar
+  - slide guitar
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: a666bb27-e75c-4467-ba2b-6153ec8a358a
+    name: Santeria
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: a666bb27-e75c-4467-ba2b-6153ec8a358a
+    name: Santeria
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/brother_dege.jpg
   caption: brother dege
   background: solo_singer
   born: '1967'
-  origin: Lafayette, Louisiana, United States
+  origin: 'Lafayette, Louisiana, United States'
   died: '2024-03-08'
 audio_profile:
   tempo_avg: 116.7
@@ -50,52 +50,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Primo
-  - Krishna Kasturi
-  - Chad Willis
-  - Rob Rushing
-  - C.C. Adcock
-  - The Brethren
+    - Primo
+    - Krishna Kasturi
+    - Chad Willis
+    - Rob Rushing
+    - C.C. Adcock
+    - The Brethren
   influenced: []
   mentors:
-  - Blind Willie Johnson
-  - Son House
-  - Robert Johnson
-  - Tom Waits
-  - Bob Dylan
+    - Blind Willie Johnson
+    - Son House
+    - Robert Johnson
+    - Tom Waits
+    - Bob Dylan
 spotify_data:
   followers: 70835
   id: 62r8B0snN5IPw8SwCJTEXR
   popularity: 43
-  url: https://open.spotify.com/artist/62r8B0snN5IPw8SwCJTEXR
+  url: 'https://open.spotify.com/artist/62r8B0snN5IPw8SwCJTEXR'
 discography_enriched: true
 top_tracks:
-- Too Old to Die Young (Folk Songs of the American Longhair)
-- Too Old To Die Young
-- Hard Row to Hoe (Folk Songs of the American Longhair)
-- The Girl Who Wept Stones (Folk Songs of the American Longhair)
-- Pay No Mind (Scorched Earth Policy (Deluxe Edition))
-- Day I Was Born (Scorched Earth Policy (Deluxe Edition))
-- Dead & Gone (Folk Songs of the American Longhair)
-- Too Old To Die Young
-- Crazy Motherfucker (How to Kill a Horse)
-- Country Come to Town (Farmer's Almanac)
+  - Too Old to Die Young (Folk Songs of the American Longhair)
+  - Too Old To Die Young
+  - Hard Row to Hoe (Folk Songs of the American Longhair)
+  - The Girl Who Wept Stones (Folk Songs of the American Longhair)
+  - Pay No Mind (Scorched Earth Policy (Deluxe Edition))
+  - Day I Was Born (Scorched Earth Policy (Deluxe Edition))
+  - Dead & Gone (Folk Songs of the American Longhair)
+  - Too Old To Die Young
+  - Crazy Motherfucker (How to Kill a Horse)
+  - Country Come to Town (Farmer's Almanac)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c33bad43-1d00-48ad-850f-5585e3f583cd
-  spotify: https://open.spotify.com/artist/62r8B0snN5IPw8SwCJTEXR
-  wikipedia: https://en.wikipedia.org/wiki/Brother_Dege
+  musicbrainz: 'https://musicbrainz.org/artist/c33bad43-1d00-48ad-850f-5585e3f583cd'
+  spotify: 'https://open.spotify.com/artist/62r8B0snN5IPw8SwCJTEXR'
+  wikipedia: 'https://en.wikipedia.org/wiki/Brother_Dege'
 image_path: 03_Resources/source_material/ArtistPortraits/brother_dege.jpg
 biography_enhanced_at: '2025-11-29T06:55:45.570274'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Brother Dege
-- ANTIGRAVITY Magazine
-- Where Y'at
-- Saving Country Music
-- indieATL
-- UL Press
-- 443 Social Club & Lounge
+  - Wikipedia - Brother Dege
+  - ANTIGRAVITY Magazine
+  - Where Y'at
+  - Saving Country Music
+  - indieATL
+  - UL Press
+  - 443 Social Club & Lounge
 network_extracted: true
 entry_created: '2025-11-29T06:55:45.570288'
 last_updated: '2025-12-23T08:16:06.115714'
@@ -103,10 +103,11 @@ disambiguation: US singer-songwriter David John Legg
 gender: Male
 musicbrainz_id: c33bad43-1d00-48ad-850f-5585e3f583cd
 tags:
-- alternative country
-- americana
-- singer-songwriter
-
+  - alternative country
+  - americana
+  - singer-songwriter
+is_active: false
+origin: 'Lafayette, Louisiana, United States'
 ---
 
 ![](brother_dege.jpg)

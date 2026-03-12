@@ -1,18 +1,18 @@
 ---
-title: mary wells
+title: Mary Wells
 wiki_slug: mary-wells
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1943-05-13'
-birth_place: Detroit
+birth_place: 'Detroit, Michigan, United States'
 death_date: '1992-07-26'
 genres:
-- motown
-- northern soul
-- doo-wop
+  - motown
+  - northern soul
+  - doo-wop
 instruments:
-- lead vocals
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/mary_wells.jpg
   caption: mary wells
@@ -21,7 +21,7 @@ infobox:
   origin: Detroit
   died: '1992-07-26'
 audio_profile:
-  tempo_avg: 123.0
+  tempo_avg: 123
   energy_avg: 0.521
   valence_avg: 0.831
   danceability_avg: 0.614
@@ -35,45 +35,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Marvin Gaye
-  - The Beatles
+    - Marvin Gaye
+    - The Beatles
   influenced:
-  - The Supremes
-  - Diana Ross
+    - The Supremes
+    - Diana Ross
   mentors:
-  - Berry Gordy
-  - Smokey Robinson
+    - Berry Gordy
+    - Smokey Robinson
 spotify_data:
   followers: 331264
   id: 1cjZk1xXn3YCToNg3uJpA7
   popularity: 48
-  url: https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7
+  url: 'https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7'
 discography_enriched: true
 top_tracks:
-- My Guy (Mary Wells Sings My Guy)
-- You Beat Me To The Punch (The One Who Really Loves You)
-- The One Who Really Loves You - Single Version (The One Who Really Loves You)
-- Two Lovers (Two Lovers)
-- My Guy - Single Version
-- My Guy - Single Version (Motown Greatest Hits)
-- I Want You 'Round
-- What Love Has Joined Together - Single Version
-- Laughing Boy (Two Lovers)
-- Your Old Stand By - Single Version
+  - My Guy (Mary Wells Sings My Guy)
+  - You Beat Me To The Punch (The One Who Really Loves You)
+  - The One Who Really Loves You - Single Version (The One Who Really Loves You)
+  - Two Lovers (Two Lovers)
+  - My Guy - Single Version
+  - My Guy - Single Version (Motown Greatest Hits)
+  - I Want You 'Round
+  - What Love Has Joined Together - Single Version
+  - Laughing Boy (Two Lovers)
+  - Your Old Stand By - Single Version
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/43fe7a49-2a63-48f1-871c-12450d21eeb1
-  spotify: https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7
-  wikipedia: https://en.wikipedia.org/wiki/Mary_Wells
+  musicbrainz: 'https://musicbrainz.org/artist/43fe7a49-2a63-48f1-871c-12450d21eeb1'
+  spotify: 'https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mary_Wells'
 image_path: 03_Resources/source_material/ArtistPortraits/mary_wells.jpg
 biography_enhanced_at: '2025-11-11T09:27:49.492070'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.history-of-rock.com/mary_wells.htm
-- https://www.motownmuseum.org/artist/mary-wells/
-- http://www.cmgww.com/music/wells/
-- https://oralcancerfoundation.org/people/arts-entertainment/mary-wells/
-- https://www.imdb.com/name/nm0920341/bio/
+  - 'https://www.history-of-rock.com/mary_wells.htm'
+  - 'https://www.motownmuseum.org/artist/mary-wells/'
+  - 'http://www.cmgww.com/music/wells/'
+  - 'https://oralcancerfoundation.org/people/arts-entertainment/mary-wells/'
+  - 'https://www.imdb.com/name/nm0920341/bio/'
 network_extracted: true
 entry_created: '2025-11-11T09:27:49.492073'
 last_updated: '2025-12-23T08:16:12.796954'
@@ -81,10 +81,10 @@ disambiguation: Motown singer
 gender: Female
 musicbrainz_id: 43fe7a49-2a63-48f1-871c-12450d21eeb1
 tags:
-- motown
-- pop soul
-- r&b
-
+  - motown
+  - pop soul
+  - r&b
+is_active: false
 ---
 
 ![](mary_wells.jpg)

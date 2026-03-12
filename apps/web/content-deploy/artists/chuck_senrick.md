@@ -1,38 +1,40 @@
 ---
 biography_enhanced_at: '2026-01-09T02:12:58.452405'
-birth_place: Farmington, Minnesota, United States
+birth_place: 'Farmington, Minnesota, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-09T02:12:58.452412'
 external_urls:
-  spotify: https://open.spotify.com/artist/3bVAtXFgHgV9sihlHF04cg
+  spotify: 'https://open.spotify.com/artist/3bVAtXFgHgV9sihlHF04cg'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/chuck_senrick.jpg
 last_updated: '2026-01-09T02:12:58.452412'
 musical_connections:
   collaborators:
-  - John Zimmer and the CR4
-  - Shuffle Brothers
-  - Claudio Baltierras Ensemble
-  - Bruce W. Hansen
+    - John Zimmer and the CR4
+    - Shuffle Brothers
+    - Claudio Baltierras Ensemble
+    - Bruce W. Hansen
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://numerogroup.com/products/dreamin-1
-- http://www.notesonajourney.com/noaj004-chucksenrick-dreamin/
-- https://www.last.fm/music/Chuck+Senrick/+wiki
-- http://bubblingdusk.blogspot.com/2014/05/chuck-senrick-dreamin.html
-- https://www.wglt.org/local-news/2024-10-30/chuck-senrick-ends-42-years-at-jims-steak-house-piano-bench-on-a-high-note
-- https://open.spotify.com/artist/3bVAtXFgHgV9sihlHF04cg
+  - 'https://numerogroup.com/products/dreamin-1'
+  - 'http://www.notesonajourney.com/noaj004-chucksenrick-dreamin/'
+  - 'https://www.last.fm/music/Chuck+Senrick/+wiki'
+  - 'http://bubblingdusk.blogspot.com/2014/05/chuck-senrick-dreamin.html'
+  - >-
+    https://www.wglt.org/local-news/2024-10-30/chuck-senrick-ends-42-years-at-jims-steak-house-piano-bench-on-a-high-note
+  - 'https://open.spotify.com/artist/3bVAtXFgHgV9sihlHF04cg'
 spotify_data:
   followers: 5168
   id: 3bVAtXFgHgV9sihlHF04cg
   popularity: 24
-  url: https://open.spotify.com/artist/3bVAtXFgHgV9sihlHF04cg
+  url: 'https://open.spotify.com/artist/3bVAtXFgHgV9sihlHF04cg'
 status: active
 title: Chuck Senrick
+artist_type: person
 ---
 
 ![](chuck_senrick.jpg)

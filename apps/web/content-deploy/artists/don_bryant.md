@@ -3,17 +3,17 @@ title: Don Bryant
 wiki_slug: don-bryant
 schema_version: 2
 status: active
-birth_place: Memphis, Tennessee, United States
+birth_place: 'Memphis, Tennessee, United States'
 genres:
-- classic blues
-- soul
+  - classic blues
+  - soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/don_bryant.jpg
   caption: Don Bryant
   background: solo_singer
-  origin: Memphis, Tennessee, United States
+  origin: 'Memphis, Tennessee, United States'
 audio_profile:
-  tempo_avg: 119.0
+  tempo_avg: 119
   energy_avg: 0.582
   valence_avg: 0.709
   danceability_avg: 0.614
@@ -27,49 +27,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ann Peebles
-  - Scott Bomar
-  - Willie Mitchell
+    - Ann Peebles
+    - Scott Bomar
+    - Willie Mitchell
   influenced:
-  - Ann Peebles
-  - Contemporary Memphis soul/blues artists
+    - Ann Peebles
+    - Contemporary Memphis soul/blues artists
   mentors:
-  - Willie Mitchell
+    - Willie Mitchell
 spotify_data:
   followers: 7689
   id: 1EJaL1QJ34YEpRT7jWDD7I
   popularity: 15
-  url: https://open.spotify.com/artist/1EJaL1QJ34YEpRT7jWDD7I
+  url: 'https://open.spotify.com/artist/1EJaL1QJ34YEpRT7jWDD7I'
 discography_enriched: true
 top_tracks:
-- Is It Over (You Make Me Feel)
-- A Nickel and a Nail (Don't Give up on Love)
-- How Do I Get There? (Don't Give up on Love)
-- Slip Away (Precious Soul)
-- Did You Ever Have the Blues? (Rare & Unissued Hi Recordings)
-- It Ain't Easy (Rare & Unissued Hi Recordings)
-- 99 Pounds (You Make Me Feel)
-- (You're A) Wonderful One (Precious Soul)
-- With Your Hand (Rare & Unissued Hi Recordings)
-- Something About You (Don't Give up on Love)
+  - Is It Over (You Make Me Feel)
+  - A Nickel and a Nail (Don't Give up on Love)
+  - How Do I Get There? (Don't Give up on Love)
+  - Slip Away (Precious Soul)
+  - Did You Ever Have the Blues? (Rare & Unissued Hi Recordings)
+  - It Ain't Easy (Rare & Unissued Hi Recordings)
+  - 99 Pounds (You Make Me Feel)
+  - (You're A) Wonderful One (Precious Soul)
+  - With Your Hand (Rare & Unissued Hi Recordings)
+  - Something About You (Don't Give up on Love)
 external_urls:
-  spotify: https://open.spotify.com/artist/1EJaL1QJ34YEpRT7jWDD7I
-  wikipedia: https://en.wikipedia.org/wiki/Don_Bryant_(songwriter)
+  spotify: 'https://open.spotify.com/artist/1EJaL1QJ34YEpRT7jWDD7I'
+  wikipedia: 'https://en.wikipedia.org/wiki/Don_Bryant_(songwriter)'
 image_path: 03_Resources/source_material/ArtistPortraits/don_bryant.jpg
 biography_enhanced_at: '2025-11-01T15:30:30.376990'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.richmondfolkfestival.org/2020-performers/2020/9/26/don-bryant
-- https://blog.musoscribe.com/index.php/2018/02/12/don-bryant-this-is-all-i-know-part-one/
-- https://www.bluesblastmagazine.com/featured-interview-don-bryant/
-- https://memphismusichalloffame.com/inductee/don-bryant/
-- https://www.wmky.org/arts-culture/2020-08-07/don-bryant?_amp=true
-- https://en.wikipedia.org/wiki/Don_Bryant_(songwriter)
+  - 'https://www.richmondfolkfestival.org/2020-performers/2020/9/26/don-bryant'
+  - >-
+    https://blog.musoscribe.com/index.php/2018/02/12/don-bryant-this-is-all-i-know-part-one/
+  - 'https://www.bluesblastmagazine.com/featured-interview-don-bryant/'
+  - 'https://memphismusichalloffame.com/inductee/don-bryant/'
+  - 'https://www.wmky.org/arts-culture/2020-08-07/don-bryant?_amp=true'
+  - 'https://en.wikipedia.org/wiki/Don_Bryant_(songwriter)'
 network_extracted: true
 entry_created: '2025-11-01T15:30:30.377005'
 last_updated: '2025-12-23T08:16:07.870341'
-
+birth_date: '1942-04-04'
+artist_type: person
 ---
 
 ![](don_bryant.jpg)

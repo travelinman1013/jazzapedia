@@ -5,33 +5,33 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1945-05-07'
-birth_place: Newbridge
+birth_place: 'Newbridge, County Kildare, Ireland'
 genres:
-- celtic
+  - celtic
 instruments:
-- guitar
-- background vocals
+  - guitar
+  - background vocals
 associated_acts:
-- begin: '1972'
-  end: '1975'
-  instruments: []
-  mbid: 3dc88d73-6125-48e6-9a6a-b3024d62ee51
-  name: Planxty
-- begin: '1978'
-  end: '1979'
-  instruments: []
-  mbid: 3dc88d73-6125-48e6-9a6a-b3024d62ee51
-  name: Planxty
-- begin: '1981'
-  end: ''
-  instruments: []
-  mbid: 2e2fbaab-005a-4e9e-ad14-b35149237852
-  name: Moving Hearts
-- begin: 2004-01
-  end: ''
-  instruments: []
-  mbid: 3dc88d73-6125-48e6-9a6a-b3024d62ee51
-  name: Planxty
+  - begin: '1972'
+    end: '1975'
+    instruments: []
+    mbid: 3dc88d73-6125-48e6-9a6a-b3024d62ee51
+    name: Planxty
+  - begin: '1978'
+    end: '1979'
+    instruments: []
+    mbid: 3dc88d73-6125-48e6-9a6a-b3024d62ee51
+    name: Planxty
+  - begin: '1981'
+    end: ''
+    instruments: []
+    mbid: 2e2fbaab-005a-4e9e-ad14-b35149237852
+    name: Moving Hearts
+  - begin: 2004-01
+    end: ''
+    instruments: []
+    mbid: 3dc88d73-6125-48e6-9a6a-b3024d62ee51
+    name: Planxty
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/christy_moore.jpg
   caption: Christy Moore
@@ -39,13 +39,13 @@ infobox:
   born: '1945-05-07'
   origin: Newbridge
 audio_profile:
-  tempo_avg: 117.0
+  tempo_avg: 117
   energy_avg: 0.326
   valence_avg: 0.487
   danceability_avg: 0.568
   acousticness_avg: 0.754
   instrumentalness_avg: 0.033
-  loudness_avg: -15.0
+  loudness_avg: -15
   speechiness_avg: 0.111
   liveness_avg: 0.465
   track_count: 50
@@ -53,56 +53,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Andy Irvine
-  - Dónal Lunny
-  - Liam O'Flynn
-  - The Dubliners
-  - Luka Bloom
+    - Andy Irvine
+    - Dónal Lunny
+    - Liam O'Flynn
+    - The Dubliners
+    - Luka Bloom
   influenced:
-  - U2
-  - Sinead O’Connor
-  - Ed Sheeran
+    - U2
+    - Sinead O’Connor
+    - Ed Sheeran
   mentors:
-  - Seamus Ennis
-  - Luke Kelly
+    - Seamus Ennis
+    - Luke Kelly
 spotify_data:
   followers: 266839
   id: 3Ebn7mKYzD0L3DaUB1gNJZ
   popularity: 49
-  url: https://open.spotify.com/artist/3Ebn7mKYzD0L3DaUB1gNJZ
+  url: 'https://open.spotify.com/artist/3Ebn7mKYzD0L3DaUB1gNJZ'
 discography_enriched: true
 top_tracks:
-- Ride On (Ride On)
-- Ordinary Man (On the Road)
-- Back Home in Derry (Ride On)
-- Lisdoonvarna (On the Road)
-- Beeswing (On the Road)
-- Viva la Quinte Brigada (On the Road)
-- The Voyage (On the Road)
-- Black Is the Colour (Live At The Point)
-- Joxer Goes to Stuttgart (Live At The Point)
-- Spancilhill (Magic Nights)
+  - Ride On (Ride On)
+  - Ordinary Man (On the Road)
+  - Back Home in Derry (Ride On)
+  - Lisdoonvarna (On the Road)
+  - Beeswing (On the Road)
+  - Viva la Quinte Brigada (On the Road)
+  - The Voyage (On the Road)
+  - Black Is the Colour (Live At The Point)
+  - Joxer Goes to Stuttgart (Live At The Point)
+  - Spancilhill (Magic Nights)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f931ccfa-5c64-4bee-94c0-32fb1a6876c3
-  spotify: https://open.spotify.com/artist/3Ebn7mKYzD0L3DaUB1gNJZ
-  wikipedia: https://en.wikipedia.org/wiki/Christy_Moore
+  musicbrainz: 'https://musicbrainz.org/artist/f931ccfa-5c64-4bee-94c0-32fb1a6876c3'
+  spotify: 'https://open.spotify.com/artist/3Ebn7mKYzD0L3DaUB1gNJZ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Christy_Moore'
 image_path: 03_Resources/source_material/ArtistPortraits/christy_moore.jpg
 biography_enhanced_at: '2025-11-10T03:41:48.806341'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://kids.kiddle.co/Christy_Moore
-- https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/christy_moore_comprehension.pdf
+  - 'https://kids.kiddle.co/Christy_Moore'
+  - >-
+    https://www.edmondstownns.ie/uploads/1/1/3/3/113387553/christy_moore_comprehension.pdf
 network_extracted: true
 entry_created: '2025-11-10T03:41:48.806361'
 last_updated: '2025-12-23T08:16:06.953278'
 gender: Male
 musicbrainz_id: f931ccfa-5c64-4bee-94c0-32fb1a6876c3
 tags:
-- folk
-- irish
-- irish folk
-
+  - folk
+  - irish
+  - irish folk
 ---
 
 ![](christy_moore.jpg)

@@ -3,42 +3,46 @@ biography_enhanced_at: '2025-12-26T01:23:56.648182'
 enhancement_provider: perplexity
 entry_created: '2025-12-26T01:23:56.648198'
 external_urls:
-  spotify: https://open.spotify.com/artist/4Xg35Eo56SHMw5oWbCmw9O
+  spotify: 'https://open.spotify.com/artist/4Xg35Eo56SHMw5oWbCmw9O'
   wikipedia: ''
 genres:
-- big band
-- swing music
-image_path: 03_Resources/source_material/ArtistPortraits/les_brown_and_his_band_of_renown.jpg
+  - big band
+  - swing music
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/les_brown_and_his_band_of_renown.jpg
 last_updated: '2025-12-26T01:23:56.648199'
 musical_connections:
   collaborators:
-  - Doris Day
-  - Bob Hope
-  - Stumpy Brown
-  - Butch Stone
-  - Tony Bennett
+    - Doris Day
+    - Bob Hope
+    - Stumpy Brown
+    - Butch Stone
+    - Tony Bennett
   influenced:
-  - Les Brown Jr.
+    - Les Brown Jr.
   mentors:
-  - Patrick Conway
+    - Patrick Conway
 network_extracted: true
-origin: Reinerton/Tower City, Pennsylvania, USA
+origin: 'Reinerton/Tower City, Pennsylvania, USA'
 primary_source: perplexity
 research_sources:
-- https://walkoffame.com/les-brown/
-- https://lesbrownfest.org/les-family/
-- https://jazzprofiles.blogspot.com/2020/01/les-brown-and-his-band-of-renown-part-1.html
-- https://northcarolinamusichalloffame.org/inductee-item/les-brown/
-- https://bluerailroad.wordpress.com/2014/02/13/legends-of-music-les-brown/
-- https://shermanjazzmuseum.com/exhibit-page/les-brown/
-- https://www.allaboutjazz.com/musicians/les-brown/
+  - 'https://walkoffame.com/les-brown/'
+  - 'https://lesbrownfest.org/les-family/'
+  - >-
+    https://jazzprofiles.blogspot.com/2020/01/les-brown-and-his-band-of-renown-part-1.html
+  - 'https://northcarolinamusichalloffame.org/inductee-item/les-brown/'
+  - 'https://bluerailroad.wordpress.com/2014/02/13/legends-of-music-les-brown/'
+  - 'https://shermanjazzmuseum.com/exhibit-page/les-brown/'
+  - 'https://www.allaboutjazz.com/musicians/les-brown/'
 spotify_data:
   followers: 5066
   id: 4Xg35Eo56SHMw5oWbCmw9O
   popularity: 39
-  url: https://open.spotify.com/artist/4Xg35Eo56SHMw5oWbCmw9O
+  url: 'https://open.spotify.com/artist/4Xg35Eo56SHMw5oWbCmw9O'
 status: active
 title: Les Brown & His Band of Renown
+birth_place: 'Reinerton, Pennsylvania, United States'
+artist_type: band
 ---
 
 ![](les_brown_and_his_band_of_renown.jpg)

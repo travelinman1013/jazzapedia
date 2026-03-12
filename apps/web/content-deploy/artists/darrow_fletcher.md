@@ -5,9 +5,9 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1951-01-23'
-birth_place: Inkster
+birth_place: 'Inkster, Michigan, United States'
 genres:
-- northern soul
+  - northern soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/darrow_fletcher.jpg
   caption: DArrow FLetcher
@@ -15,7 +15,7 @@ infobox:
   born: '1951-01-23'
   origin: Inkster
 audio_profile:
-  tempo_avg: 124.0
+  tempo_avg: 124
   energy_avg: 0.656
   valence_avg: 0.772
   danceability_avg: 0.57
@@ -29,49 +29,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ted Daniels
-  - Pat Bush
+    - Ted Daniels
+    - Pat Bush
   influenced:
-  - Northern soul DJs and collectors (UK and Europe)
-  - Elton John
+    - Northern soul DJs and collectors (UK and Europe)
+    - Elton John
   mentors:
-  - Johnny Haygood
-  - Ray Charles
+    - Johnny Haygood
+    - Ray Charles
 spotify_data:
   followers: 2317
   id: 0adetEU8Vg0fU96nkB9Zel
   popularity: 13
-  url: https://open.spotify.com/artist/0adetEU8Vg0fU96nkB9Zel
+  url: 'https://open.spotify.com/artist/0adetEU8Vg0fU96nkB9Zel'
 discography_enriched: true
 top_tracks:
-- What Good Am I Without You (My Young Misery)
-- My Young Misery (My Young Misery)
-- The Pain Gets a Little Deeper (My Young Misery)
-- No Limit (My Young Misery)
-- What Have I Got Now (My Young Misery)
-- Now Is the Time for Love, Pt. 1 (My Young Misery)
-- Sitting There That Night (My Young Misery)
-- My Judgement Day (My Young Misery)
-- Now Is the Time for Love - Pt. 2 (The Pain Gets a Little Deeper)
-- 'Sitting There That Night (Laugh Now, Cry Later: Chicano Lowrider Oldies 1959-1973)'
+  - What Good Am I Without You (My Young Misery)
+  - My Young Misery (My Young Misery)
+  - The Pain Gets a Little Deeper (My Young Misery)
+  - No Limit (My Young Misery)
+  - What Have I Got Now (My Young Misery)
+  - 'Now Is the Time for Love, Pt. 1 (My Young Misery)'
+  - Sitting There That Night (My Young Misery)
+  - My Judgement Day (My Young Misery)
+  - Now Is the Time for Love - Pt. 2 (The Pain Gets a Little Deeper)
+  - >-
+    Sitting There That Night (Laugh Now, Cry Later: Chicano Lowrider Oldies
+    1959-1973)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4b266652-ef2b-46a1-9779-d81501ab4e3b
-  spotify: https://open.spotify.com/artist/0adetEU8Vg0fU96nkB9Zel
+  musicbrainz: 'https://musicbrainz.org/artist/4b266652-ef2b-46a1-9779-d81501ab4e3b'
+  spotify: 'https://open.spotify.com/artist/0adetEU8Vg0fU96nkB9Zel'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/darrow_fletcher.jpg
 biography_enhanced_at: '2025-12-06T05:47:26.367865'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Soul Source – “Darrow Fletcher – The Interview – The Full Story”[1]
-- 'Ace Records – “The Pain Gets A Little Deeper: The Complete Early Years 1965–1971” liner essay[2]'
-- AllMusic – Darrow Fletcher artist entry[7]
-- Spotify – Darrow Fletcher artist bio[5]
+  - 'Soul Source – “Darrow Fletcher – The Interview – The Full Story”[1]'
+  - >-
+    Ace Records – “The Pain Gets A Little Deeper: The Complete Early Years
+    1965–1971” liner essay[2]
+  - 'AllMusic – Darrow Fletcher artist entry[7]'
+  - 'Spotify – Darrow Fletcher artist bio[5]'
 network_extracted: true
 entry_created: '2025-12-06T05:47:26.367874'
 last_updated: '2025-12-23T08:16:07.452865'
 gender: Male
 musicbrainz_id: 4b266652-ef2b-46a1-9779-d81501ab4e3b
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](darrow_fletcher.jpg)

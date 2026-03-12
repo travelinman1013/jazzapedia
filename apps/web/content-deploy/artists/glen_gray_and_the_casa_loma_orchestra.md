@@ -3,15 +3,16 @@ title: Glen Gray & The Casa Loma Orchestra
 wiki_slug: glen-gray-the-casa-loma-orchestra
 schema_version: 2
 status: active
-birth_place: Roanoke, Illinois, United States
+birth_place: 'Roanoke, Illinois, United States'
 genres:
-- big band
-- swing music
+  - big band
+  - swing music
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/glen_gray_and_the_casa_loma_orchestra.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/glen_gray_and_the_casa_loma_orchestra.jpg
   caption: Glen Gray & The Casa Loma Orchestra
   background: solo_singer
-  origin: Roanoke, Illinois, United States
+  origin: 'Roanoke, Illinois, United States'
 audio_profile:
   tempo_avg: 119.4
   energy_avg: 0.224
@@ -27,44 +28,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Pee Wee Hunt
-  - Herb Ellis
-  - Bobby Hackett
-  - Red Nichols
+    - Pee Wee Hunt
+    - Herb Ellis
+    - Bobby Hackett
+    - Red Nichols
   influenced:
-  - Benny Goodman
+    - Benny Goodman
   mentors: []
 spotify_data:
   followers: 4133
   id: 037LqLNDfDvFupasyqgreK
   popularity: 14
-  url: https://open.spotify.com/artist/037LqLNDfDvFupasyqgreK
+  url: 'https://open.spotify.com/artist/037LqLNDfDvFupasyqgreK'
 discography_enriched: true
 top_tracks:
-- Tuxedo Junction (1940)
-- Smoke Rings (Swing Session)
-- Smoke Rings (Glen Gray & The Casa Loma Orchesra Vol. 1)
-- Smoke Rings
-- The Fable of the Rose (1940)
-- Smoke Rings - Remastered (Casa Loma Ball)
-- Castle of Dreams (1940)
-- Smoke Rings (The Continental)
-- Last Night's Gardenias (1940)
-- Blue Moon
+  - Tuxedo Junction (1940)
+  - Smoke Rings (Swing Session)
+  - Smoke Rings (Glen Gray & The Casa Loma Orchesra Vol. 1)
+  - Smoke Rings
+  - The Fable of the Rose (1940)
+  - Smoke Rings - Remastered (Casa Loma Ball)
+  - Castle of Dreams (1940)
+  - Smoke Rings (The Continental)
+  - Last Night's Gardenias (1940)
+  - Blue Moon
 external_urls:
-  spotify: https://open.spotify.com/artist/037LqLNDfDvFupasyqgreK
-  wikipedia: https://en.wikipedia.org/wiki/Glen_Gray
-image_path: 03_Resources/source_material/ArtistPortraits/glen_gray_and_the_casa_loma_orchestra.jpg
+  spotify: 'https://open.spotify.com/artist/037LqLNDfDvFupasyqgreK'
+  wikipedia: 'https://en.wikipedia.org/wiki/Glen_Gray'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/glen_gray_and_the_casa_loma_orchestra.jpg
 biography_enhanced_at: '2025-10-26T12:23:25.270881'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Glen_Gray
-- https://fromthevaults-boppinbob.blogspot.com/2020/06/glen-gray-born-7-june-1906.html
-- https://bandchirps.com/band/glen-gray/
+  - 'https://en.wikipedia.org/wiki/Glen_Gray'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2020/06/glen-gray-born-7-june-1906.html
+  - 'https://bandchirps.com/band/glen-gray/'
 network_extracted: true
 entry_created: '2025-10-26T12:23:25.270892'
 last_updated: '2025-12-23T08:16:09.247403'
+birth_date: '1900-06-07'
+death_date: '1963-08-23'
+artist_type: person
 ---
 
 ![](glen_gray_and_the_casa_loma_orchestra.jpg)

@@ -1,34 +1,37 @@
 ---
 biography_enhanced_at: '2026-01-18T07:50:04.074928'
-birth_place: Paraisópolis, Minas Gerais, Brazil
+birth_place: 'Paraisópolis, Minas Gerais, Brazil'
 enhancement_provider: perplexity
 entry_created: '2026-01-18T07:50:04.074935'
 external_urls:
-  spotify: https://open.spotify.com/artist/5UzoXeIdrU2ikxaiGoCiLM
-  wikipedia: https://en.wikipedia.org/wiki/Carlos_Gonzaga
+  spotify: 'https://open.spotify.com/artist/5UzoXeIdrU2ikxaiGoCiLM'
+  wikipedia: 'https://en.wikipedia.org/wiki/Carlos_Gonzaga'
 genres: []
 image_path: ''
 last_updated: '2026-01-18T07:50:04.074936'
 musical_connections:
   collaborators:
-  - Enzo Barile
+    - Enzo Barile
   influenced: []
   mentors:
-  - Diogo Mulero (Palmeira)
+    - Diogo Mulero (Palmeira)
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Carlos_Gonzaga
-- http://brazilian-rock.blogspot.com/2013/02/carlos-gonzaga.html
-- https://www.last.fm/music/Carlos+Gonzaga/+wiki
-- https://www.allmusic.com/artist/carlos-gonzaga-mn0001412438
+  - 'https://en.wikipedia.org/wiki/Carlos_Gonzaga'
+  - 'http://brazilian-rock.blogspot.com/2013/02/carlos-gonzaga.html'
+  - 'https://www.last.fm/music/Carlos+Gonzaga/+wiki'
+  - 'https://www.allmusic.com/artist/carlos-gonzaga-mn0001412438'
 spotify_data:
   followers: 52
   id: 5UzoXeIdrU2ikxaiGoCiLM
   popularity: 40
-  url: https://open.spotify.com/artist/5UzoXeIdrU2ikxaiGoCiLM
+  url: 'https://open.spotify.com/artist/5UzoXeIdrU2ikxaiGoCiLM'
 status: active
 title: Carlos Gonzaga
+birth_date: '1924-02-10'
+death_date: '2023-08-25'
+artist_type: person
 ---
 
 ![]()

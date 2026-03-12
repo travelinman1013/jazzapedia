@@ -3,18 +3,18 @@ title: Perfect Giddimani
 wiki_slug: perfect-giddimani
 schema_version: 2
 status: active
-birth_place: Bamboo, St. Ann Parish, Jamaica
+birth_place: 'Bamboo, St. Ann Parish, Jamaica'
 genres:
-- reggae
-- roots reggae
-- ragga
-- dub
-- riddim
+  - reggae
+  - roots reggae
+  - ragga
+  - dub
+  - riddim
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/perfect_giddimani.jpg
   caption: Perfect Giddimani
   background: solo_singer
-  origin: Bamboo, St. Ann Parish, Jamaica
+  origin: 'Bamboo, St. Ann Parish, Jamaica'
 audio_profile:
   tempo_avg: 130.3
   energy_avg: 0.681
@@ -30,55 +30,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lauryn Hill
-  - Anthony B
-  - Sizzla Kalonji
-  - Lutan Fyah
-  - Jahdan Blakkamoore
-  - Young Shanty
+    - Lauryn Hill
+    - Anthony B
+    - Sizzla Kalonji
+    - Lutan Fyah
+    - Jahdan Blakkamoore
+    - Young Shanty
   influenced:
-  - Emerging Roots Reggae Artists
+    - Emerging Roots Reggae Artists
   mentors:
-  - Bob Marley
-  - Peter Tosh
-  - Burning Spear
+    - Bob Marley
+    - Peter Tosh
+    - Burning Spear
 spotify_data:
   followers: 15408
   id: 6r2rseiWEvXM4whRxZBgIy
   popularity: 33
-  url: https://open.spotify.com/artist/6r2rseiWEvXM4whRxZBgIy
+  url: 'https://open.spotify.com/artist/6r2rseiWEvXM4whRxZBgIy'
 discography_enriched: true
 top_tracks:
-- Third Eye
-- Heart Of The World - Purity Riddim
-- Duppy Catcher
-- Bomboclaat (Greater Than Great)
-- Party Time (Wakatanka)
-- 30 Pieces (Born Dead with Life)
-- Alexganja
-- Wire Fence
-- All I've Got
-- My Stoner Friend
+  - Third Eye
+  - Heart Of The World - Purity Riddim
+  - Duppy Catcher
+  - Bomboclaat (Greater Than Great)
+  - Party Time (Wakatanka)
+  - 30 Pieces (Born Dead with Life)
+  - Alexganja
+  - Wire Fence
+  - All I've Got
+  - My Stoner Friend
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b7e5e68a-0e0d-4518-a4df-c53daa2fc773
-  spotify: https://open.spotify.com/artist/6r2rseiWEvXM4whRxZBgIy
-  wikipedia: https://en.wikipedia.org/wiki/Perfect_(musician)
+  musicbrainz: 'https://musicbrainz.org/artist/b7e5e68a-0e0d-4518-a4df-c53daa2fc773'
+  spotify: 'https://open.spotify.com/artist/6r2rseiWEvXM4whRxZBgIy'
+  wikipedia: 'https://en.wikipedia.org/wiki/Perfect_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/perfect_giddimani.jpg
 biography_enhanced_at: '2025-10-27T02:44:48.801140'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://pauzeradio.com/perfect-giddimani/
-- https://www.austinreggaefest.com/perfect-giddimani
-- https://en.wikipedia.org/wiki/Perfect_(musician)
-- https://unitedreggae.com/artists/p/perfect,432/
-- https://kingsmusicinternational.com/2022/10/perfect-giddimani/
-- https://reggaewerx.com/artists/perfectgiddimani/
+  - 'https://pauzeradio.com/perfect-giddimani/'
+  - 'https://www.austinreggaefest.com/perfect-giddimani'
+  - 'https://en.wikipedia.org/wiki/Perfect_(musician)'
+  - 'https://unitedreggae.com/artists/p/perfect,432/'
+  - 'https://kingsmusicinternational.com/2022/10/perfect-giddimani/'
+  - 'https://reggaewerx.com/artists/perfectgiddimani/'
 network_extracted: true
 entry_created: '2025-10-27T02:44:48.801157'
 last_updated: '2025-12-23T08:16:14.202533'
 disambiguation: Reggae singer
 musicbrainz_id: b7e5e68a-0e0d-4518-a4df-c53daa2fc773
+birth_date: '1980-03-26'
+artist_type: person
 ---
 
 ![](perfect_giddimani.jpg)

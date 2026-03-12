@@ -2,11 +2,11 @@
 title: Motel Radio
 wiki_slug: motel-radio
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '2015'
 genres:
-- retro soul
+  - retro soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/motel_radio.jpg
   caption: Motel Radio
@@ -27,58 +27,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ian Wellman
-  - Winston Triolo
-  - Andrew Pancamo
-  - Eric Lloyd
-  - Summer Salt
-  - Kurt Vile
-  - Drive‑By Truckers
+    - Ian Wellman
+    - Winston Triolo
+    - Andrew Pancamo
+    - Eric Lloyd
+    - Summer Salt
+    - Kurt Vile
+    - Drive‑By Truckers
   influenced:
-  - ''
+    - ''
   mentors:
-  - Ron Richard
-  - Dockside Studios engineering team
-  - Ross Farbe
+    - Ron Richard
+    - Dockside Studios engineering team
+    - Ross Farbe
 spotify_data:
   followers: 12309
   id: 69tXKp8pHBX6ZoVMkNdvt7
   popularity: 33
-  url: https://open.spotify.com/artist/69tXKp8pHBX6ZoVMkNdvt7
+  url: 'https://open.spotify.com/artist/69tXKp8pHBX6ZoVMkNdvt7'
 discography_enriched: true
 top_tracks:
-- Fly Solo (Siesta Del Sol)
-- Gimme Your Love (Gimme Your Love)
-- Streetlights (Days & Nights)
-- Heat Wave (The Garden)
-- Midnight (Siesta Del Sol)
-- Girl on Fire (Days & Nights)
-- M.I.A. (Siesta Del Sol)
-- Stress (The Garden)
-- Ego Death (Siesta Del Sol)
-- In My Blood (In My Blood)
+  - Fly Solo (Siesta Del Sol)
+  - Gimme Your Love (Gimme Your Love)
+  - Streetlights (Days & Nights)
+  - Heat Wave (The Garden)
+  - Midnight (Siesta Del Sol)
+  - Girl on Fire (Days & Nights)
+  - M.I.A. (Siesta Del Sol)
+  - Stress (The Garden)
+  - Ego Death (Siesta Del Sol)
+  - In My Blood (In My Blood)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2a8cceff-9f7d-4a0f-b66e-4b55c70206b4
-  spotify: https://open.spotify.com/artist/69tXKp8pHBX6ZoVMkNdvt7
+  musicbrainz: 'https://musicbrainz.org/artist/2a8cceff-9f7d-4a0f-b66e-4b55c70206b4'
+  spotify: 'https://open.spotify.com/artist/69tXKp8pHBX6ZoVMkNdvt7'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/motel_radio.jpg
 biography_enhanced_at: '2025-12-18T02:49:51.497782'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://jaminthevan.com/band/motel-radio/
-- https://www.thewoodlands.com/2020/03/03/ian-wellman-of-motel-radio/
-- https://worldcafelive.org/new-orleans-indie-rockers-motel-radio-find-their-way-into-the-wcl-spotlight/
-- https://atwoodmagazine.com/mrtg-motel-radio-interview-music-the-garden/
-- https://www.singlelock.com/motelradio
-- https://www.myspiltmilk.com/articles/motel-radio-goes-to-work
-- https://www.musicbed.com/artists/motel-radio/43570
-- https://www.btdfoundation.org/motel-radio/
+  - 'https://jaminthevan.com/band/motel-radio/'
+  - 'https://www.thewoodlands.com/2020/03/03/ian-wellman-of-motel-radio/'
+  - >-
+    https://worldcafelive.org/new-orleans-indie-rockers-motel-radio-find-their-way-into-the-wcl-spotlight/
+  - 'https://atwoodmagazine.com/mrtg-motel-radio-interview-music-the-garden/'
+  - 'https://www.singlelock.com/motelradio'
+  - 'https://www.myspiltmilk.com/articles/motel-radio-goes-to-work'
+  - 'https://www.musicbed.com/artists/motel-radio/43570'
+  - 'https://www.btdfoundation.org/motel-radio/'
 network_extracted: true
 entry_created: '2025-12-18T02:49:51.497791'
 last_updated: '2025-12-23T08:16:13.325105'
 musicbrainz_id: 2a8cceff-9f7d-4a0f-b66e-4b55c70206b4
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](motel_radio.jpg)

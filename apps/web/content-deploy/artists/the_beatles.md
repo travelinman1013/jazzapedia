@@ -2,19 +2,19 @@
 title: The Beatles
 wiki_slug: the-beatles
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1960'
 genres:
-- classic rock
-- psychedelic rock
+  - classic rock
+  - psychedelic rock
 instruments:
-- bass guitar
-- drums (drum set)
-- guitar
-- lead vocals
-- original
-- spoken vocals
+  - bass guitar
+  - drums (drum set)
+  - guitar
+  - lead vocals
+  - original
+  - spoken vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_beatles.jpg
   caption: The Beatles
@@ -35,121 +35,121 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John Lennon
-  - Paul McCartney
-  - George Harrison
-  - Ringo Starr
-  - Brian Epstein
+    - John Lennon
+    - Paul McCartney
+    - George Harrison
+    - Ringo Starr
+    - Brian Epstein
   influenced:
-  - The Rolling Stones
-  - Oasis
-  - Radiohead
-  - David Bowie
+    - The Rolling Stones
+    - Oasis
+    - Radiohead
+    - David Bowie
   mentors:
-  - Buddy Holly
-  - George Martin
+    - Buddy Holly
+    - George Martin
 spotify_data:
   followers: 30696301
   id: 3WrFJ7ztbogyGnTHbHJFl2
   popularity: 82
-  url: https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2
+  url: 'https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2'
 discography_enriched: true
 top_tracks:
-- Here Comes The Sun - Remastered 2009 (Abbey Road (Remastered))
-- Let It Be - Remastered 2009 (Let It Be (Remastered))
-- Come Together - Remastered 2009 (Abbey Road (Remastered))
-- In My Life - Remastered 2009 (Rubber Soul (Remastered 2009))
-- Blackbird - Remastered 2009 (The Beatles (Remastered))
-- Yesterday - Remastered 2009 (Help! (Remastered))
-- Twist And Shout - Remastered 2009 (Please Please Me (Remastered))
-- Something - Remastered 2009 (Abbey Road (Remastered))
-- And I Love Her - Remastered 2009 (A Hard Day's Night (Remastered))
-- Hey Jude - Remastered 2015
+  - Here Comes The Sun - Remastered 2009 (Abbey Road (Remastered))
+  - Let It Be - Remastered 2009 (Let It Be (Remastered))
+  - Come Together - Remastered 2009 (Abbey Road (Remastered))
+  - In My Life - Remastered 2009 (Rubber Soul (Remastered 2009))
+  - Blackbird - Remastered 2009 (The Beatles (Remastered))
+  - Yesterday - Remastered 2009 (Help! (Remastered))
+  - Twist And Shout - Remastered 2009 (Please Please Me (Remastered))
+  - Something - Remastered 2009 (Abbey Road (Remastered))
+  - And I Love Her - Remastered 2009 (A Hard Day's Night (Remastered))
+  - Hey Jude - Remastered 2015
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d
-  spotify: https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2
-  wikipedia: https://en.wikipedia.org/wiki/The_Beatles
+  musicbrainz: 'https://musicbrainz.org/artist/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d'
+  spotify: 'https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Beatles'
 image_path: 03_Resources/source_material/ArtistPortraits/the_beatles.jpg
 biography_enhanced_at: '2025-10-26T12:34:11.985801'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia[3]
-- Historic Newspapers[1]
-- TeachRock[4]
-- EBSCO[5]
-- Britannica[7]
+  - 'Wikipedia[3]'
+  - 'Historic Newspapers[1]'
+  - 'TeachRock[4]'
+  - 'EBSCO[5]'
+  - 'Britannica[7]'
 network_extracted: true
 entry_created: '2025-10-26T12:34:11.985811'
 last_updated: '2025-12-23T08:16:16.545459'
-disambiguation: UK rock band, “The Fab Four”
+disambiguation: 'UK rock band, “The Fab Four”'
 members:
-- begin: 1960-01
-  end: '1961'
-  instruments:
-  - bass guitar
-  mbid: 49a51491-650e-44b3-8085-2f07ac2986dd
-  name: Stuart Sutcliffe
-- begin: 1960-05
-  end: 1960-06
-  instruments:
-  - drums (drum set)
-  mbid: f7d30d7d-9976-4d31-9907-19f3c30a206d
-  name: Tommy Moore
-- begin: 1960-06
-  end: 1960-06
-  instruments:
-  - drums (drum set)
-  mbid: 6a0e143b-61bb-414f-99c8-96681be286a1
-  name: Norman Chapman
-- begin: '1960-08-12'
-  end: '1962-08-16'
-  instruments:
-  - drums (drum set)
-  mbid: 0d4ab0f9-bbda-4ab1-ae2c-f772ffcfbea9
-  name: Pete Best
-- begin: 1960-12
-  end: 1961-01
-  instruments:
-  - bass guitar
-  mbid: 2629082c-19b4-42ae-b2e1-d6025ead67a0
-  name: Chas Newby
-- begin: '1960'
-  end: 1969-09
-  instruments:
-  - guitar
-  - lead vocals
-  - original
-  mbid: 4d5447d7-c61c-4120-ba1b-d7f471d385b9
-  name: John Lennon
-- begin: '1960'
-  end: '1970-04-10'
-  instruments:
-  - guitar
-  - lead vocals
-  - original
-  mbid: 42a8f507-8412-4611-854f-926571049fa0
-  name: George Harrison
-- begin: '1960'
-  end: '1970-04-10'
-  instruments:
-  - bass guitar
-  - lead vocals
-  - original
-  mbid: ba550d0e-adac-4864-b88b-407cab5e76af
-  name: Paul McCartney
-- begin: 1962-08
-  end: '1970-04-10'
-  instruments:
-  - drums (drum set)
-  mbid: 300c4c73-33ac-4255-9d57-4e32627f5e13
-  name: Ringo Starr
+  - begin: 1960-01
+    end: '1961'
+    instruments:
+      - bass guitar
+    mbid: 49a51491-650e-44b3-8085-2f07ac2986dd
+    name: Stuart Sutcliffe
+  - begin: 1960-05
+    end: 1960-06
+    instruments:
+      - drums (drum set)
+    mbid: f7d30d7d-9976-4d31-9907-19f3c30a206d
+    name: Tommy Moore
+  - begin: 1960-06
+    end: 1960-06
+    instruments:
+      - drums (drum set)
+    mbid: 6a0e143b-61bb-414f-99c8-96681be286a1
+    name: Norman Chapman
+  - begin: '1960-08-12'
+    end: '1962-08-16'
+    instruments:
+      - drums (drum set)
+    mbid: 0d4ab0f9-bbda-4ab1-ae2c-f772ffcfbea9
+    name: Pete Best
+  - begin: 1960-12
+    end: 1961-01
+    instruments:
+      - bass guitar
+    mbid: 2629082c-19b4-42ae-b2e1-d6025ead67a0
+    name: Chas Newby
+  - begin: '1960'
+    end: 1969-09
+    instruments:
+      - guitar
+      - lead vocals
+      - original
+    mbid: 4d5447d7-c61c-4120-ba1b-d7f471d385b9
+    name: John Lennon
+  - begin: '1960'
+    end: '1970-04-10'
+    instruments:
+      - guitar
+      - lead vocals
+      - original
+    mbid: 42a8f507-8412-4611-854f-926571049fa0
+    name: George Harrison
+  - begin: '1960'
+    end: '1970-04-10'
+    instruments:
+      - bass guitar
+      - lead vocals
+      - original
+    mbid: ba550d0e-adac-4864-b88b-407cab5e76af
+    name: Paul McCartney
+  - begin: 1962-08
+    end: '1970-04-10'
+    instruments:
+      - drums (drum set)
+    mbid: 300c4c73-33ac-4255-9d57-4e32627f5e13
+    name: Ringo Starr
 musicbrainz_id: b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d
-origin: Liverpool
+origin: 'Liverpool, England, United Kingdom'
 tags:
-- 1960s
-- 60s
-- beat
+  - 1960s
+  - 60s
+  - beat
 ---
 
 ![](the_beatles.jpg)

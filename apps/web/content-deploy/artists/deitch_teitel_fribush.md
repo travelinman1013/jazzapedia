@@ -3,38 +3,41 @@ biography_enhanced_at: '2026-01-06T02:14:44.216116'
 enhancement_provider: perplexity
 entry_created: '2026-01-06T02:14:44.216122'
 external_urls:
-  spotify: https://open.spotify.com/artist/2AJapZKCFtQzAWVGGh89xC
+  spotify: 'https://open.spotify.com/artist/2AJapZKCFtQzAWVGGh89xC'
   wikipedia: ''
 genres:
-- brass band
+  - brass band
 image_path: 03_Resources/source_material/ArtistPortraits/deitch_teitel_fribush.jpg
 last_updated: '2026-01-06T02:14:44.216123'
 musical_connections:
   collaborators:
-  - Charlie Hunter
-  - Hiss Golden Messenger
-  - John Scofield
-  - Dumpstaphunk
-  - Lettuce
+    - Charlie Hunter
+    - Hiss Golden Messenger
+    - John Scofield
+    - Dumpstaphunk
+    - Lettuce
   influenced: []
   mentors:
-  - Chester 'CT' Thompson
+    - Chester 'CT' Thompson
 network_extracted: true
-origin: New Orleans, Louisiana, USA (origin)
+origin: 'New Orleans, Louisiana, USA (origin)'
 primary_source: perplexity
 research_sources:
-- https://ragman.org/dtf-deitch-teitel-fribush
-- https://liveforlivemusic.com/news/dtf-trio-adam-deitch-sam-fribush-ari-teitel-chester/
-- https://samfribush.com/dtf-deitch-teitel-fribush
-- https://www.knkx.org/jazz/2025-06-26/another-side-of-the-sound-album-review-adam-deitch-ari-teitel-sam-fribush-organ-trio-dtf
-- https://samfribush.com/personal-bio
+  - 'https://ragman.org/dtf-deitch-teitel-fribush'
+  - >-
+    https://liveforlivemusic.com/news/dtf-trio-adam-deitch-sam-fribush-ari-teitel-chester/
+  - 'https://samfribush.com/dtf-deitch-teitel-fribush'
+  - >-
+    https://www.knkx.org/jazz/2025-06-26/another-side-of-the-sound-album-review-adam-deitch-ari-teitel-sam-fribush-organ-trio-dtf
+  - 'https://samfribush.com/personal-bio'
 spotify_data:
   followers: 128
   id: 2AJapZKCFtQzAWVGGh89xC
   popularity: 2
-  url: https://open.spotify.com/artist/2AJapZKCFtQzAWVGGh89xC
+  url: 'https://open.spotify.com/artist/2AJapZKCFtQzAWVGGh89xC'
 status: active
-title: Deitch, Teitel, Fribush
+title: 'Deitch, Teitel, Fribush'
+artist_type: person
 ---
 
 ![](deitch_teitel_fribush.jpg)

@@ -3,10 +3,10 @@ biography_enhanced_at: '2026-01-19T01:06:00.398785'
 enhancement_provider: perplexity
 entry_created: '2026-01-19T01:06:00.398791'
 external_urls:
-  spotify: https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3
+  spotify: 'https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3'
   wikipedia: Not found
 genres:
-- future house
+  - future house
 image_path: 03_Resources/source_material/ArtistPortraits/m_lucas.jpg
 last_updated: '2026-01-19T01:06:00.398792'
 musical_connections:
@@ -20,9 +20,11 @@ spotify_data:
   followers: 434261
   id: 5wwneIFdawNgQ7GvKK29Z3
   popularity: 57
-  url: https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3
+  url: 'https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3'
 status: active
 title: M LUCAS
+origin: Unknown
+artist_type: person
 ---
 
 ![](m_lucas.jpg)

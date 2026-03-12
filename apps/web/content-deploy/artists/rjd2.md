@@ -1,18 +1,22 @@
 ---
-title: RJD2
+title: Rjd2
 wiki_slug: rjd2
 schema_version: 2
 status: active
-birth_place: Eugene, Oregon, United States (birthplace); Columbus, Ohio, United States (raised)
+birth_place: >-
+  Eugene, Oregon, United States (birthplace); Columbus, Ohio, United States
+  (raised)
 genres:
-- trip hop
-- nu jazz
-- downtempo
+  - trip hop
+  - nu jazz
+  - downtempo
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/rjd2.jpg
   caption: RJD2
   background: solo_singer
-  origin: Eugene, Oregon, United States (birthplace); Columbus, Ohio, United States (raised)
+  origin: >-
+    Eugene, Oregon, United States (birthplace); Columbus, Ohio, United States
+    (raised)
 audio_profile:
   tempo_avg: 105.3
   energy_avg: 0.694
@@ -20,7 +24,7 @@ audio_profile:
   danceability_avg: 0.695
   acousticness_avg: 0.159
   instrumentalness_avg: 0.463
-  loudness_avg: -7.0
+  loudness_avg: -7
   speechiness_avg: 0.108
   liveness_avg: 0.189
   track_count: 50
@@ -28,46 +32,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Blueprint
-  - MHz (Megahertz)
-  - Aesop Rock
-  - Copywrite
+    - Blueprint
+    - MHz (Megahertz)
+    - Aesop Rock
+    - Copywrite
   influenced:
-  - Many contemporary instrumental hip-hop producers
+    - Many contemporary instrumental hip-hop producers
   mentors:
-  - Fort Hayes Music Program
+    - Fort Hayes Music Program
 spotify_data:
   followers: 369772
   id: 1O3ZOjqFLEnbpZexcRjocn
   popularity: 44
-  url: https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn
+  url: 'https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn'
 discography_enriched: true
 top_tracks:
-- 'Ghostwriter (Deadringer: Deluxe)'
-- 'Smoke & Mirrors (Deadringer: Deluxe)'
-- See You Leave (More Is Than Isn't)
-- '1976 (Since We Last Spoke: Deluxe)'
-- A Beautiful Mine (Magnificent City Instrumentals)
-- Doin' It Right (STS x RJD2)
-- All For U (Magnificent City Instrumentals)
-- 'The Horror (Deadringer: Deluxe)'
-- Apogee - RJD2 Remix (Awake Remixes)
-- Ain't That A Kick In The Head - RJD2 Remix
+  - 'Ghostwriter (Deadringer: Deluxe)'
+  - 'Smoke & Mirrors (Deadringer: Deluxe)'
+  - See You Leave (More Is Than Isn't)
+  - '1976 (Since We Last Spoke: Deluxe)'
+  - A Beautiful Mine (Magnificent City Instrumentals)
+  - Doin' It Right (STS x RJD2)
+  - All For U (Magnificent City Instrumentals)
+  - 'The Horror (Deadringer: Deluxe)'
+  - Apogee - RJD2 Remix (Awake Remixes)
+  - Ain't That A Kick In The Head - RJD2 Remix
 external_urls:
-  spotify: https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn
-  wikipedia: https://en.wikipedia.org/wiki/RJD2
+  spotify: 'https://open.spotify.com/artist/1O3ZOjqFLEnbpZexcRjocn'
+  wikipedia: 'https://en.wikipedia.org/wiki/RJD2'
 image_path: 03_Resources/source_material/ArtistPortraits/rjd2.jpg
 biography_enhanced_at: '2025-11-01T15:19:37.139953'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.kexp.org/read/2018/12/10/rjd2-on-the-math-equation-of-music-composition/?t=1544474571226
-- https://www.agitreader.com/features/rjd2-02.01.html
-- https://www.last.fm/music/RJD2/+wiki
-- https://the-avocado.org/2016/12/29/artist-spotlight-rjd2-70s-soul-underground-hip-hop-and-don-draper/
+  - >-
+    https://www.kexp.org/read/2018/12/10/rjd2-on-the-math-equation-of-music-composition/?t=1544474571226
+  - 'https://www.agitreader.com/features/rjd2-02.01.html'
+  - 'https://www.last.fm/music/RJD2/+wiki'
+  - >-
+    https://the-avocado.org/2016/12/29/artist-spotlight-rjd2-70s-soul-underground-hip-hop-and-don-draper/
 network_extracted: true
 entry_created: '2025-11-01T15:19:37.139959'
 last_updated: '2025-12-23T08:16:14.864429'
+origin: 'Columbus, Ohio, United States'
+artist_type: person
 ---
 
 ![](rjd2.jpg)

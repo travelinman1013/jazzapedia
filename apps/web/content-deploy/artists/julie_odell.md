@@ -1,15 +1,15 @@
 ---
-title: JULIE ODELL
+title: Julie Odell
 wiki_slug: julie-odell
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/julie_odell.jpg
   caption: JULIE ODELL
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 119.9
   energy_avg: 0.445
@@ -17,7 +17,7 @@ audio_profile:
   danceability_avg: 0.47
   acousticness_avg: 0.57
   instrumentalness_avg: 0.178
-  loudness_avg: -10.0
+  loudness_avg: -10
   speechiness_avg: 0.04
   liveness_avg: 0.177
   track_count: 49
@@ -25,47 +25,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Giant Cloud
-  - Kenny Murphy
-  - Jonathan Arceneaux
-  - Tif “Teddy” Lamson
+    - Giant Cloud
+    - Kenny Murphy
+    - Jonathan Arceneaux
+    - Tif “Teddy” Lamson
   influenced: []
   mentors:
-  - Older sister (unnamed)
+    - Older sister (unnamed)
 spotify_data:
   followers: 2161
   id: 5GpTxYv8CajCjQJF1A4h0R
   popularity: 22
-  url: https://open.spotify.com/artist/5GpTxYv8CajCjQJF1A4h0R
+  url: 'https://open.spotify.com/artist/5GpTxYv8CajCjQJF1A4h0R'
 discography_enriched: true
 top_tracks:
-- Caterpillar (Autumn Eve)
-- I'll See You in Hell (Slow Lightning)
-- I'll See You in Hell (Slow Lightning (Deluxe))
-- Caterpillar (Caterpillar)
-- Habibti (Habibti)
-- I'll See You in Hell (I'll See You in Hell)
-- Gone Away (Gone Away)
-- Disappearing Act (Disappearing Act)
-- Envelope (Autumn Eve)
-- Cardinal Feather (Autumn Eve)
+  - Caterpillar (Autumn Eve)
+  - I'll See You in Hell (Slow Lightning)
+  - I'll See You in Hell (Slow Lightning (Deluxe))
+  - Caterpillar (Caterpillar)
+  - Habibti (Habibti)
+  - I'll See You in Hell (I'll See You in Hell)
+  - Gone Away (Gone Away)
+  - Disappearing Act (Disappearing Act)
+  - Envelope (Autumn Eve)
+  - Cardinal Feather (Autumn Eve)
 external_urls:
-  spotify: https://open.spotify.com/artist/5GpTxYv8CajCjQJF1A4h0R
+  spotify: 'https://open.spotify.com/artist/5GpTxYv8CajCjQJF1A4h0R'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/julie_odell.jpg
 biography_enhanced_at: '2025-11-11T09:40:03.572309'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.frenchkissrecords.com/artist/julie-odell/
-- https://www.vianolavie.org/2018/10/25/its-like-the-whole-room-is-the-show-songwriter-julie-odell-turns-up-the-volume/
-- https://www.btdfoundation.org/julie-odell/
-- https://joyzine.org/2025/10/20/ep-review-julie-odell-disappearing-act/
-- https://www.micro-mgmt.com/julie-odell
-- https://atwoodmagazine.com/joav-julie-odell-autumn-eve-album-interview-music-feature/
+  - 'https://www.frenchkissrecords.com/artist/julie-odell/'
+  - >-
+    https://www.vianolavie.org/2018/10/25/its-like-the-whole-room-is-the-show-songwriter-julie-odell-turns-up-the-volume/
+  - 'https://www.btdfoundation.org/julie-odell/'
+  - 'https://joyzine.org/2025/10/20/ep-review-julie-odell-disappearing-act/'
+  - 'https://www.micro-mgmt.com/julie-odell'
+  - >-
+    https://atwoodmagazine.com/joav-julie-odell-autumn-eve-album-interview-music-feature/
 network_extracted: true
 entry_created: '2025-11-11T09:40:03.572320'
 last_updated: '2025-12-23T08:16:11.045438'
+artist_type: person
 ---
 
 ![](julie_odell.jpg)

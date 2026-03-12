@@ -23,36 +23,37 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Wolfe Johns Blues Band
-  - New Orleans Jazz & Heritage Foundation / WWOZ
+    - Wolfe Johns Blues Band
+    - New Orleans Jazz & Heritage Foundation / WWOZ
   influenced: []
   mentors: []
 spotify_data:
   followers: 168
   id: 1IAljsDyQcmnYJetFZJLwG
   popularity: 2
-  url: https://open.spotify.com/artist/1IAljsDyQcmnYJetFZJLwG
+  url: 'https://open.spotify.com/artist/1IAljsDyQcmnYJetFZJLwG'
 discography_enriched: true
 top_tracks:
-- Belly of the Beast (Belly of the Beast)
-- Hoodoo Ya Luv (Hoodoo Ya Luv)
-- Black Magic Woman (Black Magic Woman)
+  - Belly of the Beast (Belly of the Beast)
+  - Hoodoo Ya Luv (Hoodoo Ya Luv)
+  - Black Magic Woman (Black Magic Woman)
 external_urls:
-  spotify: https://open.spotify.com/artist/1IAljsDyQcmnYJetFZJLwG
+  spotify: 'https://open.spotify.com/artist/1IAljsDyQcmnYJetFZJLwG'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/wolfe_johns.jpg
 biography_enhanced_at: '2025-12-16T03:16:04.874620'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://wjblues.com/about
-- https://wjblues.com
-- https://www.neworleans.com/listing/pennsylvania-wolfe-johns/47941/
-- https://www.youtube.com/watch?v=bfX6CFU6QMU
+  - 'https://wjblues.com/about'
+  - 'https://wjblues.com'
+  - 'https://www.neworleans.com/listing/pennsylvania-wolfe-johns/47941/'
+  - 'https://www.youtube.com/watch?v=bfX6CFU6QMU'
 network_extracted: true
 entry_created: '2025-12-16T03:16:04.874634'
 last_updated: '2025-12-23T08:16:18.267121'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](wolfe_johns.jpg)

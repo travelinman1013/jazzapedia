@@ -5,86 +5,86 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1917-09-30'
-birth_place: Brooklyn
+birth_place: 'Brooklyn, New York, United States'
 death_date: '1987-04-02'
 genres:
-- big band
-- jazz
-- bebop
-- hard bop
+  - big band
+  - jazz
+  - bebop
+  - hard bop
 instruments:
-- eponymous
-- original
-- drums (drum set)
-- piano
-- spoken vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
-  mbid: 67808f96-31c7-4703-aa64-bc15097603cd
-  name: The Buddy Rich Big Band
-- begin: ''
-  end: ''
-  instruments:
   - drums (drum set)
-  mbid: 1e8f0ed0-a67f-4203-97a6-add12b4b1ab3
-  name: Tommy Dorsey and His Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 60da301a-ad75-45be-9140-b3c4a91e47b2
-  name: Flip Phillips and His Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 4600ed0a-0e9e-4219-9132-9789c047fce7
-  name: The Flip Phillips Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 8f453a6b-83da-4b3f-aac6-1107efc81ad4
-  name: The Trumpets of Roy Eldridge, Dizzy Gillespie and Harry Edison
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 215e16d4-fcce-4984-9c5b-71645ef81b65
-  name: Buddy Rich Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 32dd00fe-4d79-4392-9c04-4f3008b0e7b5
-  name: Buddy Rich Septet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c9b9b67a-d0f7-4989-91f3-ccd4d24ef361
-  name: Tommy Dorsey and His Sentimentalists
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 22dd28d4-07cf-4cea-9888-530d2f7ea8e2
-  name: Lester Young-Buddy Rich Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3cadd26d-2a6d-4cd2-b745-0653b1455925
-  name: The Buddy Rich Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 43ada550-6bf4-4d01-b680-cb76fd7d3b03
-  name: Buddy Rich and His Sextet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d7e83746-92fa-4b3d-8f60-1ed778a9ee50
-  name: Buddy Rich Band featuring Anita O'Day
+  - piano
+  - spoken vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 67808f96-31c7-4703-aa64-bc15097603cd
+    name: The Buddy Rich Big Band
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 1e8f0ed0-a67f-4203-97a6-add12b4b1ab3
+    name: Tommy Dorsey and His Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 60da301a-ad75-45be-9140-b3c4a91e47b2
+    name: Flip Phillips and His Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 4600ed0a-0e9e-4219-9132-9789c047fce7
+    name: The Flip Phillips Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 8f453a6b-83da-4b3f-aac6-1107efc81ad4
+    name: 'The Trumpets of Roy Eldridge, Dizzy Gillespie and Harry Edison'
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 215e16d4-fcce-4984-9c5b-71645ef81b65
+    name: Buddy Rich Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 32dd00fe-4d79-4392-9c04-4f3008b0e7b5
+    name: Buddy Rich Septet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c9b9b67a-d0f7-4989-91f3-ccd4d24ef361
+    name: Tommy Dorsey and His Sentimentalists
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 22dd28d4-07cf-4cea-9888-530d2f7ea8e2
+    name: Lester Young-Buddy Rich Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3cadd26d-2a6d-4cd2-b745-0653b1455925
+    name: The Buddy Rich Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 43ada550-6bf4-4d01-b680-cb76fd7d3b03
+    name: Buddy Rich and His Sextet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d7e83746-92fa-4b3d-8f60-1ed778a9ee50
+    name: Buddy Rich Band featuring Anita O'Day
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/buddy_rich.jpg
   caption: Buddy Rich
@@ -107,58 +107,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tommy Dorsey
-  - Harry James
-  - Dizzy Gillespie
-  - Art Pepper
-  - Don Menza
+    - Tommy Dorsey
+    - Harry James
+    - Dizzy Gillespie
+    - Art Pepper
+    - Don Menza
   influenced:
-  - Neil Peart
-  - Dave Weckl
-  - Steve Gadd
+    - Neil Peart
+    - Dave Weckl
+    - Steve Gadd
   mentors:
-  - Robert and Bess Rich
-  - Gene Krupa
+    - Robert and Bess Rich
+    - Gene Krupa
 spotify_data:
   followers: 151504
   id: 1pVtwG5Up1OZOEpSHJ4AAs
   popularity: 38
-  url: https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs
+  url: 'https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs'
 discography_enriched: true
 top_tracks:
-- Leap Frog - Take 11 / Take 6 / Master Take (Bird And Diz (Expanded Edition))
-- Relaxing With Lee - Take 6 / Take 3 / Master Take (Bird And Diz (Expanded Edition))
-- Willowcrest (The Lost Tapes)
-- Birdland
-- 'An Oscar For Treadwell - Incomplete 411-1 (Unheard Bird: The Unissued Takes)'
-- Relaxing With Lee - Take 2 / Incomplete (Bird And Diz (Expanded Edition))
-- 'Mean To Me (Verve Jazz Masters 30: Lester Young)'
-- 'Just in Time (Just in Time: The Final Recording)'
-- Groovin' Hard - Live At The Tropicana, Las Vegas, NV/1970
-- I Cover The Waterfront - 12" Version (Lester Young Trio)
+  - Leap Frog - Take 11 / Take 6 / Master Take (Bird And Diz (Expanded Edition))
+  - >-
+    Relaxing With Lee - Take 6 / Take 3 / Master Take (Bird And Diz (Expanded
+    Edition))
+  - Willowcrest (The Lost Tapes)
+  - Birdland
+  - 'An Oscar For Treadwell - Incomplete 411-1 (Unheard Bird: The Unissued Takes)'
+  - Relaxing With Lee - Take 2 / Incomplete (Bird And Diz (Expanded Edition))
+  - 'Mean To Me (Verve Jazz Masters 30: Lester Young)'
+  - 'Just in Time (Just in Time: The Final Recording)'
+  - 'Groovin'' Hard - Live At The Tropicana, Las Vegas, NV/1970'
+  - I Cover The Waterfront - 12" Version (Lester Young Trio)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8bad6c8e-c8a1-427d-b082-1275e3ebbe60
-  spotify: https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs
-  wikipedia: https://en.wikipedia.org/wiki/Buddy_Rich
+  musicbrainz: 'https://musicbrainz.org/artist/8bad6c8e-c8a1-427d-b082-1275e3ebbe60'
+  spotify: 'https://open.spotify.com/artist/1pVtwG5Up1OZOEpSHJ4AAs'
+  wikipedia: 'https://en.wikipedia.org/wiki/Buddy_Rich'
 image_path: 03_Resources/source_material/ArtistPortraits/buddy_rich.jpg
 biography_enhanced_at: '2025-11-01T15:23:09.255754'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.moderndrummer.com/2009/12/buddy-rich/
-- https://www.britannica.com/biography/Buddy-Rich
-- http://buddyrich.com
-- https://nationaljazzarchive.org.uk/explore/interviews/1621492-buddy-rich-interview-1
-- https://www.jazzstandards.com/biographies/biography_2065.htm
+  - 'https://www.moderndrummer.com/2009/12/buddy-rich/'
+  - 'https://www.britannica.com/biography/Buddy-Rich'
+  - 'http://buddyrich.com'
+  - >-
+    https://nationaljazzarchive.org.uk/explore/interviews/1621492-buddy-rich-interview-1
+  - 'https://www.jazzstandards.com/biographies/biography_2065.htm'
 network_extracted: true
 entry_created: '2025-11-01T15:23:09.255763'
 last_updated: '2025-12-23T08:16:06.219727'
 gender: Male
 musicbrainz_id: 8bad6c8e-c8a1-427d-b082-1275e3ebbe60
 tags:
-- 2008 universal fire victim
-- american
-- bebop
+  - 2008 universal fire victim
+  - american
+  - bebop
+is_active: false
 ---
 
 ![](buddy_rich.jpg)

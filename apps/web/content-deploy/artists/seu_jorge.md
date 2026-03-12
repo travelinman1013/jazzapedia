@@ -1,89 +1,90 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '1999'
-  end: '2000'
-  instruments:
-  - percussion
-  mbid: c42caf47-70e0-4c82-a262-3c9aa8e2b475
-  name: Planet Hemp
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 74f56af9-09f2-4361-a2f4-649c8969e72b
-  name: Seu Jorge & Almaz
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  - original
-  mbid: 1d3866a0-3a79-461b-8d12-fbf792704d7b
-  name: Farofa Carioca
+  - begin: '1999'
+    end: '2000'
+    instruments:
+      - percussion
+    mbid: c42caf47-70e0-4c82-a262-3c9aa8e2b475
+    name: Planet Hemp
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 74f56af9-09f2-4361-a2f4-649c8969e72b
+    name: Seu Jorge & Almaz
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+      - original
+    mbid: 1d3866a0-3a79-461b-8d12-fbf792704d7b
+    name: Farofa Carioca
 biography_enhanced_at: '2026-01-11T02:18:51.969719'
 birth_date: '1970-06-08'
-birth_place: Belford Roxo
+birth_place: 'Belford Roxo, Rio de Janeiro, Brazil'
 enhancement_provider: perplexity
 entry_created: '2026-01-11T02:18:51.969727'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c73d651d-87c9-4c5e-8abb-4ec9c4077241
-  spotify: https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo
-  wikipedia: https://en.wikipedia.org/wiki/Seu_Jorge
+  musicbrainz: 'https://musicbrainz.org/artist/c73d651d-87c9-4c5e-8abb-4ec9c4077241'
+  spotify: 'https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo'
+  wikipedia: 'https://en.wikipedia.org/wiki/Seu_Jorge'
 gender: Male
 genres:
-- mpb
-- samba
-- pagode
+  - mpb
+  - samba
+  - pagode
 image_path: 03_Resources/source_material/ArtistPortraits/seu_jorge.jpg
 instruments:
-- percussion
-- eponymous
-- original
-- lead vocals
-- acoustic guitar
-- electric guitar
-- bass guitar
-- guitar
-- background vocals
-- vocal
+  - percussion
+  - eponymous
+  - original
+  - lead vocals
+  - acoustic guitar
+  - electric guitar
+  - bass guitar
+  - guitar
+  - background vocals
+  - vocal
 last_updated: '2026-01-11T02:18:51.969729'
 musical_connections:
   collaborators:
-  - Farofa Carioca
-  - Ana Carolina
-  - Beck
-  - David Bowie
-  - Daniel Jobim
-  - Planet Hemp
+    - Farofa Carioca
+    - Ana Carolina
+    - Beck
+    - David Bowie
+    - Daniel Jobim
+    - Planet Hemp
   influenced:
-  - 21st‑century Brazilian samba and pop‑samba artists (collective)
+    - 21st‑century Brazilian samba and pop‑samba artists (collective)
   mentors:
-  - Paulo Moura
-  - Gabriel Moura
-  - Stevie Wonder
-  - Samba schools and Rio samba circles
+    - Paulo Moura
+    - Gabriel Moura
+    - Stevie Wonder
+    - Samba schools and Rio samba circles
 musicbrainz_id: c73d651d-87c9-4c5e-8abb-4ec9c4077241
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Seu_Jorge
-- https://lusolife.ca/seu-jorge/
-- https://www.imdb.com/name/nm1179580/bio/
-- https://www.thesantaclara.org/blog/brazilian-bad-boy-seu-jorge-takes-los-angeles
-- https://togetherband.org/blogs/news/facts-about-seu-jorge
-- https://us.mrbongo.com/collections/seu-jorge
-- https://www.slipcue.com/music/brazil/seu-jorge_01.html
+  - 'https://en.wikipedia.org/wiki/Seu_Jorge'
+  - 'https://lusolife.ca/seu-jorge/'
+  - 'https://www.imdb.com/name/nm1179580/bio/'
+  - >-
+    https://www.thesantaclara.org/blog/brazilian-bad-boy-seu-jorge-takes-los-angeles
+  - 'https://togetherband.org/blogs/news/facts-about-seu-jorge'
+  - 'https://us.mrbongo.com/collections/seu-jorge'
+  - 'https://www.slipcue.com/music/brazil/seu-jorge_01.html'
 spotify_data:
   followers: 1899094
   id: 0i1s9WcIu0PrUvHzALgofo
   popularity: 69
-  url: https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo
+  url: 'https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo'
 status: active
 tags:
-- brazilian
-- funk
-- latin
+  - brazilian
+  - funk
+  - latin
 title: Seu Jorge
 ---
 

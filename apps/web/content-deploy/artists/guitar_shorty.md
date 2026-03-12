@@ -2,58 +2,61 @@
 artist_type: person
 biography_enhanced_at: '2026-01-06T02:12:02.649296'
 birth_date: '1939-09-08'
-birth_place: Polk County
+birth_place: 'Polk County, Florida, United States'
 death_date: '2022-04-20'
 disambiguation: popular Texas blues guitarist David William Kearney
 enhancement_provider: perplexity
 entry_created: '2026-01-06T02:12:02.649302'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/732771e5-a544-40fd-9455-e484210604b2
-  spotify: https://open.spotify.com/artist/3A01qH4VCBkDXcDc2luyNc
-  wikipedia: https://en.wikipedia.org/wiki/Guitar_Shorty
+  musicbrainz: 'https://musicbrainz.org/artist/732771e5-a544-40fd-9455-e484210604b2'
+  spotify: 'https://open.spotify.com/artist/3A01qH4VCBkDXcDc2luyNc'
+  wikipedia: 'https://en.wikipedia.org/wiki/Guitar_Shorty'
 gender: Male
 genres:
-- blues
-- blues rock
-- modern blues
-- classic blues
+  - blues
+  - blues rock
+  - modern blues
+  - classic blues
 image_path: 03_Resources/source_material/ArtistPortraits/guitar_shorty.jpg
 instruments:
-- guitar
+  - guitar
 last_updated: '2026-01-06T02:12:02.649303'
 musical_connections:
   collaborators:
-  - Ray Charles
-  - Walter Johnson Orchestra
-  - Sam Cooke
-  - B.B. King, Guitar Slim, T-Bone Walker, Otis Rush, Little Milton, Lowell Fulson,
-    Johnny Copeland
+    - Ray Charles
+    - Walter Johnson Orchestra
+    - Sam Cooke
+    - >-
+      B.B. King, Guitar Slim, T-Bone Walker, Otis Rush, Little Milton, Lowell
+      Fulson, Johnny Copeland
   influenced:
-  - Jimi Hendrix
-  - Buddy Guy
+    - Jimi Hendrix
+    - Buddy Guy
   mentors:
-  - Uncle (unnamed)
-  - Willie Dixon
+    - Uncle (unnamed)
+    - Willie Dixon
 musicbrainz_id: 732771e5-a544-40fd-9455-e484210604b2
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Guitar_Shorty
-- https://floridamusictours.com/musicians/guitar-shorty/
-- https://www.alligator.com/artists/Guitar-Shorty/
-- https://www.namm.org/library/oral-history/guitar-shorty
-- https://bigtrainblues.com/guitar-shorty/
+  - 'https://en.wikipedia.org/wiki/Guitar_Shorty'
+  - 'https://floridamusictours.com/musicians/guitar-shorty/'
+  - 'https://www.alligator.com/artists/Guitar-Shorty/'
+  - 'https://www.namm.org/library/oral-history/guitar-shorty'
+  - 'https://bigtrainblues.com/guitar-shorty/'
 spotify_data:
   followers: 32877
   id: 3A01qH4VCBkDXcDc2luyNc
   popularity: 35
-  url: https://open.spotify.com/artist/3A01qH4VCBkDXcDc2luyNc
+  url: 'https://open.spotify.com/artist/3A01qH4VCBkDXcDc2luyNc'
 status: active
 tags:
-- blues
-- electric blues
-- electric texas blues
+  - blues
+  - electric blues
+  - electric texas blues
 title: Guitar SHorty
+is_active: false
+origin: 'Houston, Texas, United States'
 ---
 
 ![](guitar_shorty.jpg)

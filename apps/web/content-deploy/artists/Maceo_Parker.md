@@ -1,130 +1,131 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '1975'
-  end: '1984'
-  instruments: []
-  mbid: d1947987-9614-49ae-bd36-8000e6b6f7d0
-  name: Parliament
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6bd34fc8-84de-4c32-a2d5-1f43d148a177
-  name: Maceo & the Macks
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 23bd3548-5c76-4d6e-9897-960e07cd504f
-  name: The JB Horns
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7a0ae10d-c51f-434a-9d5a-551d2ae93a9d
-  name: Parliament-Funkadelic
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 59c87815-5e2b-44c1-a23c-e96bcb161657
-  name: Maceo and All the King’s Men
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: cb6a2948-7b9b-4a15-8c71-2b79cc76408e
-  name: The J.B.’s
-- begin: ''
-  end: ''
-  instruments:
-  - saxophone
-  mbid: 0b08dcc7-9f5c-4a25-a182-f8ceb13f1972
-  name: The Horny Horns
-- begin: ''
-  end: ''
-  instruments:
-  - saxophone
-  mbid: cb6a2948-7b9b-4a15-8c71-2b79cc76408e
-  name: The J.B.’s
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5d315a04-2b30-4916-9864-929d44c5ff4c
-  name: George Clinton and the P-Funk All Stars
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d00a0953-9ded-4379-b8ed-7071c5454a20
-  name: Sweat Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a04268c7-c30f-495d-99ad-1c00f92a2c59
-  name: The P-Funk Mob
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4e8c093e-9eaa-46a7-966b-afdb64af6fab
-  name: The One Nite Alone Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: de8bfd66-1fe5-430c-ad79-70bbc73c4f12
-  name: J-Funk Express
+  - begin: '1975'
+    end: '1984'
+    instruments: []
+    mbid: d1947987-9614-49ae-bd36-8000e6b6f7d0
+    name: Parliament
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6bd34fc8-84de-4c32-a2d5-1f43d148a177
+    name: Maceo & the Macks
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 23bd3548-5c76-4d6e-9897-960e07cd504f
+    name: The JB Horns
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7a0ae10d-c51f-434a-9d5a-551d2ae93a9d
+    name: Parliament-Funkadelic
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 59c87815-5e2b-44c1-a23c-e96bcb161657
+    name: Maceo and All the King’s Men
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: cb6a2948-7b9b-4a15-8c71-2b79cc76408e
+    name: The J.B.’s
+  - begin: ''
+    end: ''
+    instruments:
+      - saxophone
+    mbid: 0b08dcc7-9f5c-4a25-a182-f8ceb13f1972
+    name: The Horny Horns
+  - begin: ''
+    end: ''
+    instruments:
+      - saxophone
+    mbid: cb6a2948-7b9b-4a15-8c71-2b79cc76408e
+    name: The J.B.’s
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5d315a04-2b30-4916-9864-929d44c5ff4c
+    name: George Clinton and the P-Funk All Stars
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d00a0953-9ded-4379-b8ed-7071c5454a20
+    name: Sweat Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a04268c7-c30f-495d-99ad-1c00f92a2c59
+    name: The P-Funk Mob
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4e8c093e-9eaa-46a7-966b-afdb64af6fab
+    name: The One Nite Alone Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: de8bfd66-1fe5-430c-ad79-70bbc73c4f12
+    name: J-Funk Express
 biography_enhanced_at: '2026-01-22T07:02:28.330403'
 birth_date: '1943-02-14'
-birth_place: Kinston
+birth_place: 'Kinston, North Carolina, United States'
 disambiguation: US funk/jazz saxophonist
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:02:28.330410'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7ec0b91d-c6ad-417e-934c-decfdc45bada
-  spotify: https://open.spotify.com/artist/4RAQZfFgR7NPAWjKwUpEeC
-  wikipedia: https://en.wikipedia.org/wiki/Maceo_Parker
+  musicbrainz: 'https://musicbrainz.org/artist/7ec0b91d-c6ad-417e-934c-decfdc45bada'
+  spotify: 'https://open.spotify.com/artist/4RAQZfFgR7NPAWjKwUpEeC'
+  wikipedia: 'https://en.wikipedia.org/wiki/Maceo_Parker'
 gender: Male
 genres:
-- jazz funk
-- funk
-- soul jazz
-- acid jazz
+  - jazz funk
+  - funk
+  - soul jazz
+  - acid jazz
 image_path: 03_Resources/source_material/ArtistPortraits/maceo_parker.jpg
 instruments:
-- saxophone
-- piano
-- Rhodes piano
+  - saxophone
+  - piano
+  - Rhodes piano
 last_updated: '2026-01-22T07:02:28.330411'
 musical_connections:
   collaborators:
-  - George Clinton & Parliament-Funkadelic
-  - Bootsy Collins & Rubber Band
-  - Candy Dulfer
-  - Prince
-  - WDR Big Band (Cologne, Germany)
-  - Ray Charles Orchestra
+    - George Clinton & Parliament-Funkadelic
+    - Bootsy Collins & Rubber Band
+    - Candy Dulfer
+    - Prince
+    - 'WDR Big Band (Cologne, Germany)'
+    - Ray Charles Orchestra
   influenced:
-  - Hip-hop producers and artists
-  - Contemporary jazz and funk musicians
+    - Hip-hop producers and artists
+    - Contemporary jazz and funk musicians
   mentors:
-  - James Brown
+    - James Brown
 musicbrainz_id: 7ec0b91d-c6ad-417e-934c-decfdc45bada
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Maceo_Parker
-- https://lucblackstone.com/musical-influences/maceo-parker-maestro-funk-et-soul-jazz/
-- http://www.maceo.com/biography.html
-- https://concord.com/artist/maceo-parker/
-- https://wicn.org/maceo-parker-february-2020-artist-of-the-month/
-- https://michaelvalentinestudio.com/soul_other/maceo_parker/index.php
-- https://www.mascotlabelgroup.com/pages/maceo-parker-biography-1%20
-- https://www.music.nc.gov/music-trails/nc-musician-murals-trail/maceo-parker
-- https://www.jazzalley.com/www-home/artist.jsp?shownum=2799
+  - 'https://en.wikipedia.org/wiki/Maceo_Parker'
+  - >-
+    https://lucblackstone.com/musical-influences/maceo-parker-maestro-funk-et-soul-jazz/
+  - 'http://www.maceo.com/biography.html'
+  - 'https://concord.com/artist/maceo-parker/'
+  - 'https://wicn.org/maceo-parker-february-2020-artist-of-the-month/'
+  - 'https://michaelvalentinestudio.com/soul_other/maceo_parker/index.php'
+  - 'https://www.mascotlabelgroup.com/pages/maceo-parker-biography-1%20'
+  - 'https://www.music.nc.gov/music-trails/nc-musician-murals-trail/maceo-parker'
+  - 'https://www.jazzalley.com/www-home/artist.jsp?shownum=2799'
 spotify_data:
   followers: 123475
   id: 4RAQZfFgR7NPAWjKwUpEeC
   popularity: 39
-  url: https://open.spotify.com/artist/4RAQZfFgR7NPAWjKwUpEeC
+  url: 'https://open.spotify.com/artist/4RAQZfFgR7NPAWjKwUpEeC'
 status: active
 tags:
-- jazz
-- soul jazz
+  - jazz
+  - soul jazz
 title: Maceo Parker
 ---
 

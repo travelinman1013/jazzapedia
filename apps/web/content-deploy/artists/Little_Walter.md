@@ -2,23 +2,23 @@
 title: Little Walter
 wiki_slug: little-walter
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1930-05-01'
-birth_place: Marksville, Louisiana, United States
+birth_place: 'Marksville, Louisiana, United States'
 death_date: '1968-02-15'
 genres:
-- blues
-- classic blues
+  - blues
+  - classic blues
 instruments:
-- lead vocals
-- harmonica
+  - lead vocals
+  - harmonica
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Little_Walter.jpg
   caption: Little Walter
   background: solo_singer
   born: '1930-05-01'
-  origin: Marksville, Louisiana, United States
+  origin: 'Marksville, Louisiana, United States'
   died: '1968-02-15'
 audio_profile:
   tempo_avg: 118.8
@@ -35,47 +35,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Muddy Waters
-  - Jimmy Rogers
-  - David 'Honeyboy' Edwards
+    - Muddy Waters
+    - Jimmy Rogers
+    - David 'Honeyboy' Edwards
   influenced:
-  - Paul Butterfield
-  - Junior Wells
-  - Charlie Musselwhite
+    - Paul Butterfield
+    - Junior Wells
+    - Charlie Musselwhite
   mentors:
-  - John Lee 'Sonny Boy' Williamson
-  - Big Walter Horton
-  - Louis Jordan
+    - John Lee 'Sonny Boy' Williamson
+    - Big Walter Horton
+    - Louis Jordan
 spotify_data:
   followers: 225580
   id: 22JuR9OeENcP54XN5TlNWS
   popularity: 44
-  url: https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS
+  url: 'https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS'
 discography_enriched: true
 top_tracks:
-- My Babe (The Essential Little Walter)
-- Blue And Lonesome - Single Version (Hate To See You Go)
-- Juke (The Essential Little Walter)
-- Sad Hours (The Essential Little Walter)
-- Last Night (The Essential Little Walter)
-- Hate To See You Go (Hate To See You Go)
-- Key To The Highway (Hate To See You Go)
-- Blues With A Feeling (The Essential Little Walter)
-- Just Your Fool (The Essential Little Walter)
-- Blue Midnight - Alternate Take (The Essential Little Walter)
+  - My Babe (The Essential Little Walter)
+  - Blue And Lonesome - Single Version (Hate To See You Go)
+  - Juke (The Essential Little Walter)
+  - Sad Hours (The Essential Little Walter)
+  - Last Night (The Essential Little Walter)
+  - Hate To See You Go (Hate To See You Go)
+  - Key To The Highway (Hate To See You Go)
+  - Blues With A Feeling (The Essential Little Walter)
+  - Just Your Fool (The Essential Little Walter)
+  - Blue Midnight - Alternate Take (The Essential Little Walter)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5545a012-0977-46ff-9d69-39bf5952616f
-  spotify: https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS
-  wikipedia: https://en.wikipedia.org/wiki/Little_Walter
+  musicbrainz: 'https://musicbrainz.org/artist/5545a012-0977-46ff-9d69-39bf5952616f'
+  spotify: 'https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS'
+  wikipedia: 'https://en.wikipedia.org/wiki/Little_Walter'
 image_path: 03_Resources/source_material/ArtistPortraits/Little_Walter.jpg
 biography_enhanced_at: '2025-10-19T10:43:41.329273'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.ebsco.com/research-starters/history/little-walter
-- https://www.britannica.com/biography/Little-Walter
-- https://littlewalterfoundation.org/about
-- https://www.udiscovermusic.com/stories/king-blues-harp-little-walter/
+  - 'https://www.ebsco.com/research-starters/history/little-walter'
+  - 'https://www.britannica.com/biography/Little-Walter'
+  - 'https://littlewalterfoundation.org/about'
+  - 'https://www.udiscovermusic.com/stories/king-blues-harp-little-walter/'
 network_extracted: true
 entry_created: '2025-10-19T10:43:41.329277'
 last_updated: '2025-12-23T08:16:03.047732'
@@ -84,9 +84,11 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:35:35.370600'
 musicbrainz_id: 5545a012-0977-46ff-9d69-39bf5952616f
 tags:
-- 2008 universal fire victim
-- blues
-- chicago blues
+  - 2008 universal fire victim
+  - blues
+  - chicago blues
+is_active: false
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](Little_Walter.jpg)

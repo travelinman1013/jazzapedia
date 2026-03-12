@@ -1,17 +1,17 @@
 ---
-title: all that
+title: All That
 wiki_slug: all-that
 schema_version: 2
 status: active
 genres:
-- metalcore
-- metal
+  - metalcore
+  - metal
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/all_that.jpg
   caption: all that
   background: solo_singer
 audio_profile:
-  tempo_avg: 123.0
+  tempo_avg: 123
   energy_avg: 0.936
   valence_avg: 0.329
   danceability_avg: 0.455
@@ -25,45 +25,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Oli Herbert
-  - Mike Martin
-  - Jason Costa
+    - Oli Herbert
+    - Mike Martin
+    - Jason Costa
   influenced:
-  - Younger metalcore bands (e.g., As I Lay Dying, The Acacia Strain)
+    - 'Younger metalcore bands (e.g., As I Lay Dying, The Acacia Strain)'
   mentors:
-  - Adam Dutkiewicz
+    - Adam Dutkiewicz
 spotify_data:
   followers: 1450077
   id: 2zgG1GPDvjaBgxeQaVXI14
   popularity: 55
-  url: https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14
+  url: 'https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14'
 discography_enriched: true
 top_tracks:
-- Two Weeks (Overcome)
-- What If I Was Nothing (A War You Cannot Win)
-- This Calling (The Fall Of Ideals)
-- Six (The Fall Of Ideals)
-- Kerosene (AntiFragile)
-- The Thunder Rolls - Cover (Madness)
-- Scarlet
-- Now Let Them Tremble (For We Are Many)
-- For You (The Order Of Things)
-- The Air That I Breathe (The Fall Of Ideals)
+  - Two Weeks (Overcome)
+  - What If I Was Nothing (A War You Cannot Win)
+  - This Calling (The Fall Of Ideals)
+  - Six (The Fall Of Ideals)
+  - Kerosene (AntiFragile)
+  - The Thunder Rolls - Cover (Madness)
+  - Scarlet
+  - Now Let Them Tremble (For We Are Many)
+  - For You (The Order Of Things)
+  - The Air That I Breathe (The Fall Of Ideals)
 external_urls:
-  spotify: https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14
-  wikipedia: https://en.wikipedia.org/wiki/All_That_Remains_(band)
+  spotify: 'https://open.spotify.com/artist/2zgG1GPDvjaBgxeQaVXI14'
+  wikipedia: 'https://en.wikipedia.org/wiki/All_That_Remains_(band)'
 image_path: 03_Resources/source_material/ArtistPortraits/all_that.jpg
 biography_enhanced_at: '2025-10-24T07:41:15.170949'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/All_That_Remains_(band)
-- https://www.last.fm/music/All+That+Remains/+wiki
-- https://metalandrock.fandom.com/wiki/All_That_Remains
+  - 'https://en.wikipedia.org/wiki/All_That_Remains_(band)'
+  - 'https://www.last.fm/music/All+That+Remains/+wiki'
+  - 'https://metalandrock.fandom.com/wiki/All_That_Remains'
 network_extracted: true
 entry_created: '2025-10-24T07:41:15.170960'
 last_updated: '2025-12-23T08:16:04.600151'
-origin: Springfield, Massachusetts, United States
+origin: 'Springfield, Massachusetts, United States'
+artist_type: person
 ---
 
 ![](all_that.jpg)

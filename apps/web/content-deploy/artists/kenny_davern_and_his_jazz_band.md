@@ -3,13 +3,14 @@ title: Kenny Davern and his Jazz Band
 wiki_slug: kenny-davern-and-his-jazz-band
 schema_version: 2
 status: active
-birth_place: Huntington, Long Island, New York, USA
+birth_place: 'Huntington, Long Island, New York, USA'
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/kenny_davern_and_his_jazz_band.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/kenny_davern_and_his_jazz_band.jpg
   caption: Kenny Davern and his Jazz Band
   background: solo_singer
-  origin: Huntington, Long Island, New York, USA
+  origin: 'Huntington, Long Island, New York, USA'
 audio_profile:
   tempo_avg: 123.1
   energy_avg: 0.319
@@ -17,7 +18,7 @@ audio_profile:
   danceability_avg: 0.586
   acousticness_avg: 0.806
   instrumentalness_avg: 0.468
-  loudness_avg: -14.0
+  loudness_avg: -14
   speechiness_avg: 0.062
   liveness_avg: 0.335
   track_count: 57
@@ -25,47 +26,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bob Wilber
-  - Dick Wellstood
+    - Bob Wilber
+    - Dick Wellstood
   influenced:
-  - Samantha Wright
+    - Samantha Wright
   mentors:
-  - Pee Wee Russell
+    - Pee Wee Russell
 spotify_data:
   followers: 802
   id: 5FrL8C2vYIUL7In8fWmglA
   popularity: 9
-  url: https://open.spotify.com/artist/5FrL8C2vYIUL7In8fWmglA
+  url: 'https://open.spotify.com/artist/5FrL8C2vYIUL7In8fWmglA'
 discography_enriched: true
 top_tracks:
-- When You're Smiling (The Whole World Smiles With You) - Voice
-- When You're Smiling (The Whole World Smiles With You) - Voice (Mighty Aphrodite)
-- Dark Eyes (Breezin' Along)
-- My Blue Heaven (Summit Reunion)
-- Potato Head Blues - Live (We Love You, Louis! (Live))
-- Jingle Bells
-- Nobody's Sweetheart
-- Love Me Or Leave Me (Summit Reunion)
-- Bugle Call Rag (Chasin' the Blues)
-- Cornet Chop Suey - Live (We Love You, Louis! (Live))
+  - When You're Smiling (The Whole World Smiles With You) - Voice
+  - >-
+    When You're Smiling (The Whole World Smiles With You) - Voice (Mighty
+    Aphrodite)
+  - Dark Eyes (Breezin' Along)
+  - My Blue Heaven (Summit Reunion)
+  - 'Potato Head Blues - Live (We Love You, Louis! (Live))'
+  - Jingle Bells
+  - Nobody's Sweetheart
+  - Love Me Or Leave Me (Summit Reunion)
+  - Bugle Call Rag (Chasin' the Blues)
+  - 'Cornet Chop Suey - Live (We Love You, Louis! (Live))'
 external_urls:
-  spotify: https://open.spotify.com/artist/5FrL8C2vYIUL7In8fWmglA
-  wikipedia: https://en.wikipedia.org/wiki/Kenny_Davern
-image_path: 03_Resources/source_material/ArtistPortraits/kenny_davern_and_his_jazz_band.jpg
+  spotify: 'https://open.spotify.com/artist/5FrL8C2vYIUL7In8fWmglA'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kenny_Davern'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/kenny_davern_and_his_jazz_band.jpg
 biography_enhanced_at: '2025-11-17T10:38:48.704700'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Kenny_Davern
-- https://jazztimes.com/archives/clarinetist-kenny-davern-dies-at-71/
-- https://themusicalheritagesociety.com/collections/kenny-davern-the-jazz-heritage-society-recordings
-- https://www.namm.org/library/oral-history/kenny-davern
-- https://samanthawright.co.uk/blog/f/kenny-davern
-- https://jazzlives.wordpress.com/2010/10/10/kenny-davern-just-four-bars/
-- https://www.jazznorthwest.co.uk/davern.htm
+  - 'https://en.wikipedia.org/wiki/Kenny_Davern'
+  - 'https://jazztimes.com/archives/clarinetist-kenny-davern-dies-at-71/'
+  - >-
+    https://themusicalheritagesociety.com/collections/kenny-davern-the-jazz-heritage-society-recordings
+  - 'https://www.namm.org/library/oral-history/kenny-davern'
+  - 'https://samanthawright.co.uk/blog/f/kenny-davern'
+  - 'https://jazzlives.wordpress.com/2010/10/10/kenny-davern-just-four-bars/'
+  - 'https://www.jazznorthwest.co.uk/davern.htm'
 network_extracted: true
 entry_created: '2025-11-17T10:38:48.704709'
 last_updated: '2025-12-23T08:16:11.304647'
+birth_date: '1935-01-07'
+death_date: '2006-12-12'
+artist_type: person
 ---
 
 ![](kenny_davern_and_his_jazz_band.jpg)

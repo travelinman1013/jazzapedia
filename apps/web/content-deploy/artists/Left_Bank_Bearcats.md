@@ -15,7 +15,7 @@ audio_profile:
   danceability_avg: 0.554
   acousticness_avg: 0.719
   instrumentalness_avg: 0.522
-  loudness_avg: -12.0
+  loudness_avg: -12
   speechiness_avg: 0.056
   liveness_avg: 0.288
   track_count: 50
@@ -23,43 +23,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Joe Techer (credited as Aron Dubois)
+    - Joe Techer (credited as Aron Dubois)
   influenced: []
   mentors:
-  - Dukes of Dixieland
+    - Dukes of Dixieland
 spotify_data:
   followers: 57
   id: 19Pql6njHTnJJIrnmK0N70
   popularity: 1
-  url: https://open.spotify.com/artist/19Pql6njHTnJJIrnmK0N70
+  url: 'https://open.spotify.com/artist/19Pql6njHTnJJIrnmK0N70'
 discography_enriched: true
 top_tracks:
-- Shakin' with B.B. (The Left Bank Bearcats in Stereo! (Remastered from the Original Somerset Tapes))
-- 'Mississippi Rag (Dixieland: Le Jazz Hot Recorded in Paris (Remastered from the Original Somerset Tapes))'
-- 'Mighty Lak a Rose (Speakeasy Blues: Bar Tunes from the Prohibition Era)'
-- 'When the Saints Go Marching In (Up For the Cup: Football Songs)'
-- 'When the Saints Go Marching In (All Together Now: The Football Club Anthems)'
-- 'When the Saints Go Marching In (Up For the Cup: Football Songs)'
-- 'Shakin'' with B.B. (1920s Dance Craze: The Hottest Hits of the Jazz Age (Lindy Hop, Charleston, Shimmy, and More))'
-- 'When the Saints Go Marching In (All Together Now: The Football Club Anthems)'
-- Muskrat Ramble (The Left Bank Bearcats in Stereo! (Remastered from the Original Somerset Tapes))
-- Royal Garden Blues (The Left Bank Bearcats in Stereo! (Remastered from the Original Somerset Tapes))
+  - >-
+    Shakin' with B.B. (The Left Bank Bearcats in Stereo! (Remastered from the
+    Original Somerset Tapes))
+  - >-
+    Mississippi Rag (Dixieland: Le Jazz Hot Recorded in Paris (Remastered from
+    the Original Somerset Tapes))
+  - 'Mighty Lak a Rose (Speakeasy Blues: Bar Tunes from the Prohibition Era)'
+  - 'When the Saints Go Marching In (Up For the Cup: Football Songs)'
+  - 'When the Saints Go Marching In (All Together Now: The Football Club Anthems)'
+  - 'When the Saints Go Marching In (Up For the Cup: Football Songs)'
+  - >-
+    Shakin' with B.B. (1920s Dance Craze: The Hottest Hits of the Jazz Age
+    (Lindy Hop, Charleston, Shimmy, and More))
+  - 'When the Saints Go Marching In (All Together Now: The Football Club Anthems)'
+  - >-
+    Muskrat Ramble (The Left Bank Bearcats in Stereo! (Remastered from the
+    Original Somerset Tapes))
+  - >-
+    Royal Garden Blues (The Left Bank Bearcats in Stereo! (Remastered from the
+    Original Somerset Tapes))
 external_urls:
-  spotify: https://open.spotify.com/artist/19Pql6njHTnJJIrnmK0N70
+  spotify: 'https://open.spotify.com/artist/19Pql6njHTnJJIrnmK0N70'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/Left_Bank_Bearcats.jpg
 biography_enhanced_at: '2025-10-19T12:26:55.735165'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://falseducks.com/theblahg/?p=1224
-- https://www.youtube.com/playlist?list=PL9394E881FFB08A3D
-- https://www.allmusic.com/artist/the-left-bank-bearcats-mn0001841268
-- https://www.alshire.com/album/the-left-bank-bearcats-take-dixiland/
+  - 'http://falseducks.com/theblahg/?p=1224'
+  - 'https://www.youtube.com/playlist?list=PL9394E881FFB08A3D'
+  - 'https://www.allmusic.com/artist/the-left-bank-bearcats-mn0001841268'
+  - 'https://www.alshire.com/album/the-left-bank-bearcats-take-dixiland/'
 network_extracted: true
 entry_created: '2025-10-19T12:26:55.735172'
 last_updated: '2025-12-23T08:16:02.978436'
 origin: United States (studio project origin)
+artist_type: band
 ---
 
 ![](Left_Bank_Bearcats.jpg)

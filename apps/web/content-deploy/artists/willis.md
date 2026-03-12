@@ -1,5 +1,5 @@
 ---
-title: willis
+title: WILLIS
 wiki_slug: willis
 schema_version: 2
 status: active
@@ -23,45 +23,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Murphy Billings
-  - Glenn O'Steen
-  - Will O'Steen
-  - Edward Armstead
-  - Trey Murphy
+    - Murphy Billings
+    - Glenn O'Steen
+    - Will O'Steen
+    - Edward Armstead
+    - Trey Murphy
   influenced:
-  - Florence, Alabama indie musicians
+    - 'Florence, Alabama indie musicians'
   mentors:
-  - Muscle Shoals Sound
+    - Muscle Shoals Sound
 spotify_data:
   followers: 177652
   id: 3OykSjAE6F2Mb51WplFoRk
   popularity: 55
-  url: https://open.spotify.com/artist/3OykSjAE6F2Mb51WplFoRk
+  url: 'https://open.spotify.com/artist/3OykSjAE6F2Mb51WplFoRk'
 discography_enriched: true
 top_tracks:
-- I Think I Like When It Rains (Locals 2)
-- In Between (Locals 4)
-- Fight the Vegans (Fight the Vegans)
-- CJ's Van (Locals 2)
-- Overthinker (Locals 4)
-- 27 Reasons (Locals 2)
-- Slow Party (Locals 2)
-- Ballad of the Basement (Locals 3)
-- Pool House (Locals 4)
-- Catamaran (Locals 2)
+  - I Think I Like When It Rains (Locals 2)
+  - In Between (Locals 4)
+  - Fight the Vegans (Fight the Vegans)
+  - CJ's Van (Locals 2)
+  - Overthinker (Locals 4)
+  - 27 Reasons (Locals 2)
+  - Slow Party (Locals 2)
+  - Ballad of the Basement (Locals 3)
+  - Pool House (Locals 4)
+  - Catamaran (Locals 2)
 external_urls:
-  spotify: https://open.spotify.com/artist/3OykSjAE6F2Mb51WplFoRk
+  spotify: 'https://open.spotify.com/artist/3OykSjAE6F2Mb51WplFoRk'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/willis.jpg
 biography_enhanced_at: '2025-11-14T10:45:04.918047'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Willis/+wiki
+  - 'https://www.last.fm/music/Willis/+wiki'
 network_extracted: true
 entry_created: '2025-11-14T10:45:04.918053'
 last_updated: '2025-12-23T08:16:18.226359'
-origin: Florence, Alabama, United States
+origin: 'Florence, Alabama, United States'
+artist_type: band
 ---
 
 ![](willis.jpg)

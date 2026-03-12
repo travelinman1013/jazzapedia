@@ -2,54 +2,57 @@
 artist_type: person
 biography_enhanced_at: '2026-01-01T01:09:17.552994'
 birth_date: '1949-12-18'
-birth_place: Malvern
+birth_place: 'Malvern, Texas, United States'
 death_date: '1989-02-01'
 enhancement_provider: perplexity
 entry_created: '2026-01-01T01:09:17.553011'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/519629b9-a971-4e27-9736-5e042555c211
-  spotify: https://open.spotify.com/artist/1TlScGwN8MmIZ7kIYGjSZA
-  wikipedia: https://en.wikipedia.org/wiki/Blaze_Foley
+  musicbrainz: 'https://musicbrainz.org/artist/519629b9-a971-4e27-9736-5e042555c211'
+  spotify: 'https://open.spotify.com/artist/1TlScGwN8MmIZ7kIYGjSZA'
+  wikipedia: 'https://en.wikipedia.org/wiki/Blaze_Foley'
 gender: Male
 genres:
-- folk
-- americana
-- singer-songwriter
-- alt country
+  - folk
+  - americana
+  - singer-songwriter
+  - alt country
 image_path: 03_Resources/source_material/ArtistPortraits/blaze_foley.jpg
 last_updated: '2026-01-01T01:09:17.553013'
 musical_connections:
   collaborators:
-  - Gurf Morlix
-  - Mandy Mercier
-  - Buzzard's Roost
+    - Gurf Morlix
+    - Mandy Mercier
+    - Buzzard's Roost
   influenced:
-  - Pat MacDonald and Barbara K (Timbuk 3)
-  - Kimmie Rhodes
-  - Merle Haggard, Willie Nelson, John Prine, Lucinda Williams, Nanci Griffith, Lyle Lovett
+    - Pat MacDonald and Barbara K (Timbuk 3)
+    - Kimmie Rhodes
+    - >-
+      Merle Haggard, Willie Nelson, John Prine, Lucinda Williams, Nanci
+      Griffith, Lyle Lovett
   mentors:
-  - Townes Van Zandt
+    - Townes Van Zandt
 musicbrainz_id: 519629b9-a971-4e27-9736-5e042555c211
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.wideopencountry.com/blaze-foley-outlaw-legend/
-- https://www.lostartrecords.com/stories/6802c145cd66a6a31583c7e9
-- https://www.blazefoley.com
-- https://wfnp.org/album-of-the-week-3-sittin-by-the-road/
-- https://holler.country/feature/long-read/blaze-foley-an-outlaw-lost-and-found/
-- https://en.wikipedia.org/wiki/Blaze_Foley
+  - 'https://www.wideopencountry.com/blaze-foley-outlaw-legend/'
+  - 'https://www.lostartrecords.com/stories/6802c145cd66a6a31583c7e9'
+  - 'https://www.blazefoley.com'
+  - 'https://wfnp.org/album-of-the-week-3-sittin-by-the-road/'
+  - >-
+    https://holler.country/feature/long-read/blaze-foley-an-outlaw-lost-and-found/
+  - 'https://en.wikipedia.org/wiki/Blaze_Foley'
 spotify_data:
   followers: 121471
   id: 1TlScGwN8MmIZ7kIYGjSZA
   popularity: 47
-  url: https://open.spotify.com/artist/1TlScGwN8MmIZ7kIYGjSZA
+  url: 'https://open.spotify.com/artist/1TlScGwN8MmIZ7kIYGjSZA'
 status: active
 tags:
-- death by murder
-- folk
+  - death by murder
+  - folk
 title: Blaze Foley
-
+is_active: false
 ---
 
 ![](blaze_foley.jpg)

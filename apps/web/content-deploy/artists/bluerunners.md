@@ -4,39 +4,41 @@ biography_enhanced_at: '2026-01-12T01:58:40.737096'
 enhancement_provider: perplexity
 entry_created: '2026-01-12T01:58:40.737102'
 external_urls:
-  spotify: https://open.spotify.com/artist/5M83UxBo5OvqUaNN8SUu13
+  spotify: 'https://open.spotify.com/artist/5M83UxBo5OvqUaNN8SUu13'
   wikipedia: ''
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 image_path: 03_Resources/source_material/ArtistPortraits/bluerunners.jpg
 is_active: true
 last_updated: '2026-01-12T01:58:40.737103'
 musical_connections:
   collaborators:
-  - Mark Meaux
-  - Core Lafayette band lineup (various local musicians)
+    - Mark Meaux
+    - Core Lafayette band lineup (various local musicians)
   influenced:
-  - Later Cajun and zydeco‑rock fusion bands
+    - Later Cajun and zydeco‑rock fusion bands
   mentors:
-  - Traditional Cajun and Creole dancehall musicians of Lafayette
-  - Punk and garage‑rock bands of the 1970s–1980s
+    - Traditional Cajun and Creole dancehall musicians of Lafayette
+    - Punk and garage‑rock bands of the 1970s–1980s
 network_extracted: true
-origin: Lafayette, Louisiana, United States
+origin: 'Lafayette, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://www.allmusic.com/artist/bluerunners-mn0000757252
-- https://somethingelsereviews.com/2007/03/19/bluerunners-the-chateau-chuck-1994/
-- https://earofnewt.com/2022/07/30/mark-meaux-just-wants-bluerunners-to-be-thought-of-as-a-butt-rockin-louisiana-band/
-- http://lrhr.dreamhosters.com/wp/?cat=15
-- https://northbaylivemusic.com/bands/california-blue-runners/
+  - 'https://www.allmusic.com/artist/bluerunners-mn0000757252'
+  - >-
+    https://somethingelsereviews.com/2007/03/19/bluerunners-the-chateau-chuck-1994/
+  - >-
+    https://earofnewt.com/2022/07/30/mark-meaux-just-wants-bluerunners-to-be-thought-of-as-a-butt-rockin-louisiana-band/
+  - 'http://lrhr.dreamhosters.com/wp/?cat=15'
+  - 'https://northbaylivemusic.com/bands/california-blue-runners/'
 spotify_data:
   followers: 290
   id: 5M83UxBo5OvqUaNN8SUu13
   popularity: 1
-  url: https://open.spotify.com/artist/5M83UxBo5OvqUaNN8SUu13
+  url: 'https://open.spotify.com/artist/5M83UxBo5OvqUaNN8SUu13'
 status: active
-title: BlueRunners
+title: The Bluerunners
 ---
 
 ![](bluerunners.jpg)

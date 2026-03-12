@@ -1,19 +1,19 @@
 ---
-title: willie mctell
+title: Willie McTell
 wiki_slug: willie-mctell
 schema_version: 2
 status: active
-birth_place: Thomson, Georgia, United States
+birth_place: 'Thomson, Georgia, United States'
 genres:
-- blues
-- country blues
-- classic blues
-- ragtime
+  - blues
+  - country blues
+  - classic blues
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/willie_mctell.jpg
   caption: willie mctell
   background: solo_singer
-  origin: Thomson, Georgia, United States
+  origin: 'Thomson, Georgia, United States'
 audio_profile:
   tempo_avg: 107.1
   energy_avg: 0.249
@@ -29,46 +29,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Curley Weaver
+    - Curley Weaver
   influenced:
-  - The Allman Brothers Band
-  - Bob Dylan
-  - John Hammond, Jr.
+    - The Allman Brothers Band
+    - Bob Dylan
+    - 'John Hammond, Jr.'
   mentors:
-  - McTell's mother and local musicians
+    - McTell's mother and local musicians
 spotify_data:
   followers: 61452
   id: 4vRyd1UZ8Eq98EppbwOBg6
   popularity: 28
-  url: https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6
+  url: 'https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6'
 discography_enriched: true
 top_tracks:
-- Statesboro Blues (Blind Willie McTell -Statesboro Blues - The Early Years 1927-1935)
-- I Got the Cross the River Jordan (Atlanta Twelve String)
-- Statesboro Blues (Dark Night Blues)
-- Dying Crapshooters Blues (Atlanta Twelve String)
-- You Was Born To Die (Dark Night Blues)
-- Broke Down Engine Blues (Last Session)
-- Mr. McTell Got the Blues - 2003 Remastered (Statesboro Blues - When The Sun Goes Down Series)
-- Delia (Blind Willie McTell 1940)
-- Searchin' the Desert for the Blues (The Ultimate Collection)
-- You Got to Die (Atlanta Twelve String)
+  - >-
+    Statesboro Blues (Blind Willie McTell -Statesboro Blues - The Early Years
+    1927-1935)
+  - I Got the Cross the River Jordan (Atlanta Twelve String)
+  - Statesboro Blues (Dark Night Blues)
+  - Dying Crapshooters Blues (Atlanta Twelve String)
+  - You Was Born To Die (Dark Night Blues)
+  - Broke Down Engine Blues (Last Session)
+  - >-
+    Mr. McTell Got the Blues - 2003 Remastered (Statesboro Blues - When The Sun
+    Goes Down Series)
+  - Delia (Blind Willie McTell 1940)
+  - Searchin' the Desert for the Blues (The Ultimate Collection)
+  - You Got to Die (Atlanta Twelve String)
 external_urls:
-  spotify: https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6
-  wikipedia: https://en.wikipedia.org/wiki/Blind_Willie_McTell
+  spotify: 'https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6'
+  wikipedia: 'https://en.wikipedia.org/wiki/Blind_Willie_McTell'
 image_path: 03_Resources/source_material/ArtistPortraits/willie_mctell.jpg
 biography_enhanced_at: '2025-11-04T11:05:03.766818'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Blind_Willie_McTell
-- https://www.georgiaencyclopedia.org/articles/arts-culture/blind-willie-mctell-1898-1959/
-- https://www.georgiahistory.com/ghmi_marker_updated/blind-willie-mctell-musician/
-- https://www.averittcenterforthearts.org/willie-mctell
-- https://wumb.org/celebrating-blind-willie-mctell/
+  - 'https://en.wikipedia.org/wiki/Blind_Willie_McTell'
+  - >-
+    https://www.georgiaencyclopedia.org/articles/arts-culture/blind-willie-mctell-1898-1959/
+  - >-
+    https://www.georgiahistory.com/ghmi_marker_updated/blind-willie-mctell-musician/
+  - 'https://www.averittcenterforthearts.org/willie-mctell'
+  - 'https://wumb.org/celebrating-blind-willie-mctell/'
 network_extracted: true
 entry_created: '2025-11-04T11:05:03.766827'
 last_updated: '2025-12-23T08:16:18.211231'
+artist_type: person
 ---
 
 ![](willie_mctell.jpg)

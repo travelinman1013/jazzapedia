@@ -1,61 +1,62 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2025-12-29T01:14:05.644553'
 birth_date: '1984'
 enhancement_provider: perplexity
 entry_created: '2025-12-29T01:14:05.644561'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1434bb77-b17e-4f0d-baa6-68afedabfad2
-  spotify: https://open.spotify.com/artist/2ilaYNwLHMwi3Bme7ucME8
+  musicbrainz: 'https://musicbrainz.org/artist/1434bb77-b17e-4f0d-baa6-68afedabfad2'
+  spotify: 'https://open.spotify.com/artist/2ilaYNwLHMwi3Bme7ucME8'
   wikipedia: ''
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 image_path: 03_Resources/source_material/ArtistPortraits/california_cajun_orchestra.jpg
 last_updated: '2025-12-29T01:14:05.644562'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ce9a89e5-dbc9-47e4-b89f-ca9faf6ca30c
-  name: Terry O'Dwyer
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: be725333-2800-4a87-8ae8-30384e3c8daa
-  name: Charlie St. Mary
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ce9a89e5-dbc9-47e4-b89f-ca9faf6ca30c
+    name: Terry O'Dwyer
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: be725333-2800-4a87-8ae8-30384e3c8daa
+    name: Charlie St. Mary
 musical_connections:
   collaborators:
-  - Charlie St. Mary
-  - Eric Thompson
-  - Bill Wilson
-  - Sam Siggins
-  - Kevin Wimmer
-  - Andre Thierry
+    - Charlie St. Mary
+    - Eric Thompson
+    - Bill Wilson
+    - Sam Siggins
+    - Kevin Wimmer
+    - Andre Thierry
   influenced:
-  - Andre Thierry
-  - Will Spires
+    - Andre Thierry
+    - Will Spires
   mentors:
-  - John Semien
-  - Ben Guillory
-  - Lawrence Walker
+    - John Semien
+    - Ben Guillory
+    - Lawrence Walker
 musicbrainz_id: 1434bb77-b17e-4f0d-baa6-68afedabfad2
 network_extracted: true
-origin: San Francisco Bay Area, California, USA
+origin: 'San Francisco Bay Area, California, USA'
 primary_source: perplexity
 research_sources:
-- https://willspireslore.com/music/5369-2/
-- https://folkways-media.si.edu/docs/folkways/artwork/ARH00356.pdf
-- https://www.andrethierry.com/bio-mobile
-- https://www.allmusic.com/artist/the-california-cajun-orchestra-mn0000650069
-- https://www.iheart.com/artist/the-california-cajun-orchestra-30037629/
+  - 'https://willspireslore.com/music/5369-2/'
+  - 'https://folkways-media.si.edu/docs/folkways/artwork/ARH00356.pdf'
+  - 'https://www.andrethierry.com/bio-mobile'
+  - 'https://www.allmusic.com/artist/the-california-cajun-orchestra-mn0000650069'
+  - 'https://www.iheart.com/artist/the-california-cajun-orchestra-30037629/'
 spotify_data:
   followers: 106
   id: 2ilaYNwLHMwi3Bme7ucME8
   popularity: 0
-  url: https://open.spotify.com/artist/2ilaYNwLHMwi3Bme7ucME8
+  url: 'https://open.spotify.com/artist/2ilaYNwLHMwi3Bme7ucME8'
 status: active
 title: California Cajun Orchestra
+birth_place: 'Eunice, Louisiana, United States'
 ---
 
 ![](california_cajun_orchestra.jpg)

@@ -1,17 +1,17 @@
 ---
-title: ted taylor
+title: Ted Taylor
 wiki_slug: ted-taylor
 schema_version: 2
 status: active
-birth_place: Okmulgee, Oklahoma, United States
+birth_place: 'Okmulgee, Oklahoma, United States'
 genres:
-- northern soul
-- soul blues
+  - northern soul
+  - soul blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ted_taylor.jpg
   caption: ted taylor
   background: solo_singer
-  origin: Okmulgee, Oklahoma, United States
+  origin: 'Okmulgee, Oklahoma, United States'
 audio_profile:
   tempo_avg: 121.4
   energy_avg: 0.579
@@ -27,43 +27,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Cadets (The Jacks)
+    - The Cadets (The Jacks)
   influenced: []
   mentors:
-  - R.H. Harris
+    - R.H. Harris
 spotify_data:
   followers: 5464
   id: 0QYN2PJUwq49cW3T75KXCG
   popularity: 16
-  url: https://open.spotify.com/artist/0QYN2PJUwq49cW3T75KXCG
+  url: 'https://open.spotify.com/artist/0QYN2PJUwq49cW3T75KXCG'
 discography_enriched: true
 top_tracks:
-- Be Ever Wonderful (Be Ever Wonderful)
-- 'Somebody''s Always Trying (The Ever Wonderful Ted Taylor: Okeh Uptown Soul 1962-1966)'
-- 'Somebody''s Always Trying - Bonus Track (Ted Taylor: Can''t Take No More)'
-- (Love Is Like A) Ramblin' Rose (Blues & Soul)
-- Ghetto Disco (Somebody's Gettin' It)
-- 'Don''t Lie (The Ever Wonderful Ted Taylor: Okeh Uptown Soul 1962-1966)'
-- 'Be Ever Wonderful (The Ever Wonderful Ted Taylor: Okeh Uptown Soul 1962-1966)'
-- Steal Away (Somebody's Gettin' It)
-- Ghetto Disco (DJ Andy Smith Presents Reach up - Disco Wonderland Vol. 2)
-- Something Strange Is Goin' On In My House (An Introduction To Ted Taylor)
+  - Be Ever Wonderful (Be Ever Wonderful)
+  - >-
+    Somebody's Always Trying (The Ever Wonderful Ted Taylor: Okeh Uptown Soul
+    1962-1966)
+  - 'Somebody''s Always Trying - Bonus Track (Ted Taylor: Can''t Take No More)'
+  - (Love Is Like A) Ramblin' Rose (Blues & Soul)
+  - Ghetto Disco (Somebody's Gettin' It)
+  - 'Don''t Lie (The Ever Wonderful Ted Taylor: Okeh Uptown Soul 1962-1966)'
+  - >-
+    Be Ever Wonderful (The Ever Wonderful Ted Taylor: Okeh Uptown Soul
+    1962-1966)
+  - Steal Away (Somebody's Gettin' It)
+  - Ghetto Disco (DJ Andy Smith Presents Reach up - Disco Wonderland Vol. 2)
+  - Something Strange Is Goin' On In My House (An Introduction To Ted Taylor)
 external_urls:
-  spotify: https://open.spotify.com/artist/0QYN2PJUwq49cW3T75KXCG
+  spotify: 'https://open.spotify.com/artist/0QYN2PJUwq49cW3T75KXCG'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/ted_taylor.jpg
 biography_enhanced_at: '2025-10-20T10:25:35.543928'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.folkartsrarerecords.com/record-of-the-day/ted-taylor-somebodys-always-trying/
-- https://app.soulyears.com/artist-Ted+Taylor.htm
-- https://soulbluesmusic.com/tedtaylorpage.htm
-- https://soulcellar.co.uk/ted/TedTaylor.html
+  - >-
+    https://www.folkartsrarerecords.com/record-of-the-day/ted-taylor-somebodys-always-trying/
+  - 'https://app.soulyears.com/artist-Ted+Taylor.htm'
+  - 'https://soulbluesmusic.com/tedtaylorpage.htm'
+  - 'https://soulcellar.co.uk/ted/TedTaylor.html'
 network_extracted: true
 entry_created: '2025-10-20T10:25:35.543944'
 last_updated: '2025-12-23T08:16:16.428831'
-
+birth_date: '1934-02-16'
+death_date: '1987-10-23'
+artist_type: person
 ---
 
 ![](ted_taylor.jpg)

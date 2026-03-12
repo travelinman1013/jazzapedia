@@ -5,15 +5,15 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1948-09-11'
-birth_place: New Malden
+birth_place: 'New Malden, Surrey, England'
 death_date: '2009-01-29'
 genres:
-- folk rock
-- folk
+  - folk rock
+  - folk
 instruments:
-- acoustic guitar
-- electric guitar
-- guitar
+  - acoustic guitar
+  - electric guitar
+  - guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/john_martyn.jpg
   caption: John Martyn
@@ -36,49 +36,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Beverley Martyn (Kutner)
-  - Harold McNair
-  - Danny Thompson
-  - Dave Pegg
-  - Phil Collins
+    - Beverley Martyn (Kutner)
+    - Harold McNair
+    - Danny Thompson
+    - Dave Pegg
+    - Phil Collins
   influenced:
-  - Nick Drake
-  - Richard Thompson
+    - Nick Drake
+    - Richard Thompson
   mentors:
-  - Hamish Imlach
-  - Al Stewart
-  - Joe Boyd
+    - Hamish Imlach
+    - Al Stewart
+    - Joe Boyd
 spotify_data:
   followers: 175743
   id: 3JulrApLVT81sb2HkfwMks
   popularity: 51
-  url: https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks
+  url: 'https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks'
 discography_enriched: true
 top_tracks:
-- little mystery
-- little mystery
-- Glory Box (The Wanderings Of The Avener)
-- Over The Hill (Solid Air)
-- May You Never (Solid Air)
-- Glory Box (The Church With One Bell)
-- Don't Want To Know (Solid Air)
-- The Man In The Station (Solid Air)
-- Solid Air (Solid Air)
-- Sunshine's Better - Talvin Singh remix
+  - little mystery
+  - little mystery
+  - Glory Box (The Wanderings Of The Avener)
+  - Over The Hill (Solid Air)
+  - May You Never (Solid Air)
+  - Glory Box (The Church With One Bell)
+  - Don't Want To Know (Solid Air)
+  - The Man In The Station (Solid Air)
+  - Solid Air (Solid Air)
+  - Sunshine's Better - Talvin Singh remix
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e821a756-487f-4931-a02f-27cf11cec7bf
-  spotify: https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks
+  musicbrainz: 'https://musicbrainz.org/artist/e821a756-487f-4931-a02f-27cf11cec7bf'
+  spotify: 'https://open.spotify.com/artist/3JulrApLVT81sb2HkfwMks'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/john_martyn.jpg
 biography_enhanced_at: '2025-12-20T01:14:23.670438'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://johnmartyn.com/biography/
-- https://dereksmusicblog.com/2020/04/19/john-martyn-the-life-and-times-of-a-musical-maverick/
-- https://www.udiscovermusic.com/artist/john-martyn/
-- https://magnetmagazine.com/1998/09/29/john-martyn-departures-and-revivals/
-- https://www.loudersound.com/features/john-martyn-prog-credentials
+  - 'https://johnmartyn.com/biography/'
+  - >-
+    https://dereksmusicblog.com/2020/04/19/john-martyn-the-life-and-times-of-a-musical-maverick/
+  - 'https://www.udiscovermusic.com/artist/john-martyn/'
+  - 'https://magnetmagazine.com/1998/09/29/john-martyn-departures-and-revivals/'
+  - 'https://www.loudersound.com/features/john-martyn-prog-credentials'
 network_extracted: true
 entry_created: '2025-12-20T01:14:23.670455'
 last_updated: '2025-12-23T08:16:02.635579'
@@ -86,9 +87,10 @@ disambiguation: British singer‐songwriter and guitarist
 gender: Male
 musicbrainz_id: e821a756-487f-4931-a02f-27cf11cec7bf
 tags:
-- british folk rock
-- contemporary folk
-- folk
+  - british folk rock
+  - contemporary folk
+  - folk
+is_active: false
 ---
 
 ![](john_martyn.jpg)

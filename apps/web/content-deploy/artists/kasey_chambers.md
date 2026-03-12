@@ -1,27 +1,27 @@
 ---
-title: kasey chambers
+title: Kasey Chambers
 wiki_slug: kasey-chambers
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1976-06-04'
-birth_place: South Australia
+birth_place: 'Mount Gambier, South Australia, Australia'
 genres:
-- alt country
+  - alt country
 instruments:
-- acoustic guitar
-- vocal
+  - acoustic guitar
+  - vocal
 associated_acts:
-- begin: '1993'
-  end: '1998'
-  instruments: []
-  mbid: b3c45251-adb7-40bb-946f-b238703147bb
-  name: Dead Ringer Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c54f9005-f035-4ff4-b19d-2b1ac582fa01
-  name: The Lost Dogs
+  - begin: '1993'
+    end: '1998'
+    instruments: []
+    mbid: b3c45251-adb7-40bb-946f-b238703147bb
+    name: Dead Ringer Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c54f9005-f035-4ff4-b19d-2b1ac582fa01
+    name: The Lost Dogs
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/kasey_chambers.jpg
   caption: kasey chambers
@@ -43,50 +43,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Nash Chambers
-  - Dead Ringer Band
-  - Buddy Miller & Julie Miller
-  - Lucinda Williams
-  - Shane Nicholson
-  - Beccy Cole
+    - Nash Chambers
+    - Dead Ringer Band
+    - Buddy Miller & Julie Miller
+    - Lucinda Williams
+    - Shane Nicholson
+    - Beccy Cole
   influenced:
-  - Contemporary Australian country and alt‑country artists (various)
+    - Contemporary Australian country and alt‑country artists (various)
   mentors:
-  - Bill Chambers
-  - Diane Chambers
-  - The Carter Family, Jimmie Rodgers, Hank Williams, Townes Van Zandt, Gram Parsons
-  - Slim Dusty, Buddy Williams, Tex Morton
+    - Bill Chambers
+    - Diane Chambers
+    - >-
+      The Carter Family, Jimmie Rodgers, Hank Williams, Townes Van Zandt, Gram
+      Parsons
+    - 'Slim Dusty, Buddy Williams, Tex Morton'
 spotify_data:
   followers: 111161
   id: 6uATIQFyydDXPc2RlLzcUE
   popularity: 45
-  url: https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE
+  url: 'https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE'
 discography_enriched: true
 top_tracks:
-- Not Pretty Enough (Barricades & Brickwalls)
-- The Captain (The Captain)
-- We're All Gonna Die Someday (The Captain)
-- Rattlin' Bones (Rattlin' Bones)
-- Pony (Wayward Angel)
-- True Colours (Storybook)
-- Barricades And Brickwalls (Barricades & Brickwalls)
-- Walk a Country Mile (The 25th Anniversary Album)
-- Good People
-- Monkey On A Wire (Rattlin' Bones)
+  - Not Pretty Enough (Barricades & Brickwalls)
+  - The Captain (The Captain)
+  - We're All Gonna Die Someday (The Captain)
+  - Rattlin' Bones (Rattlin' Bones)
+  - Pony (Wayward Angel)
+  - True Colours (Storybook)
+  - Barricades And Brickwalls (Barricades & Brickwalls)
+  - Walk a Country Mile (The 25th Anniversary Album)
+  - Good People
+  - Monkey On A Wire (Rattlin' Bones)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7333182d-8933-4896-adaa-fe98e6b59bd7
-  spotify: https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE
-  wikipedia: https://en.wikipedia.org/wiki/Kasey_Chambers
+  musicbrainz: 'https://musicbrainz.org/artist/7333182d-8933-4896-adaa-fe98e6b59bd7'
+  spotify: 'https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kasey_Chambers'
 image_path: 03_Resources/source_material/ArtistPortraits/kasey_chambers.jpg
 biography_enhanced_at: '2025-12-06T06:03:46.463908'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Kasey_Chambers
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/chambers-kasey
-- https://americana-uk.com/americana-a-z-kasey-chambers
-- https://www.allmusic.com/artist/kasey-chambers-mn0000359658
-- https://agreenmanreview.com/music-2/kasey-chambers-interview-with-michael-hunter-august-2001/
+  - 'https://en.wikipedia.org/wiki/Kasey_Chambers'
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/chambers-kasey
+  - 'https://americana-uk.com/americana-a-z-kasey-chambers'
+  - 'https://www.allmusic.com/artist/kasey-chambers-mn0000359658'
+  - >-
+    https://agreenmanreview.com/music-2/kasey-chambers-interview-with-michael-hunter-august-2001/
 network_extracted: true
 entry_created: '2025-12-06T06:03:46.463921'
 last_updated: '2025-12-23T08:16:11.183814'
@@ -94,8 +98,8 @@ disambiguation: Australian country singer‐songwriter
 gender: Female
 musicbrainz_id: 7333182d-8933-4896-adaa-fe98e6b59bd7
 tags:
-- folk
-- singer-songwriter
+  - folk
+  - singer-songwriter
 ---
 
 ![](kasey_chambers.jpg)

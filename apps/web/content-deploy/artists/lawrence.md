@@ -4,15 +4,15 @@ wiki_slug: lawrence
 schema_version: 2
 status: active
 genres:
-- pop soul
-- retro soul
-- christmas
+  - pop soul
+  - retro soul
+  - christmas
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lawrence.jpg
   caption: Lawrence
   background: solo_singer
 audio_profile:
-  tempo_avg: 118.0
+  tempo_avg: 118
   energy_avg: 0.659
   valence_avg: 0.578
   danceability_avg: 0.55
@@ -26,52 +26,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Eric Krasno
-  - Jon Bellion
-  - Eli Crews
-  - Adam Deitch
-  - Cory Henry
-  - Maurice 'Mobetta' Brown
+    - Eric Krasno
+    - Jon Bellion
+    - Eli Crews
+    - Adam Deitch
+    - Cory Henry
+    - Maurice 'Mobetta' Brown
   influenced:
-  - Emerging soul-pop artists
+    - Emerging soul-pop artists
   mentors:
-  - Stevie Wonder
-  - Randy Newman
-  - Aretha Franklin
+    - Stevie Wonder
+    - Randy Newman
+    - Aretha Franklin
 spotify_data:
   followers: 372048
   id: 5rwUYLyUq8gBsVaOUcUxpE
   popularity: 54
-  url: https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE
+  url: 'https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE'
 discography_enriched: true
 top_tracks:
-- Whatcha Want (Family Business)
-- Do You Wanna Do Nothing with Me? (Breakfast)
-- Wherever I Go (feat. Lawrence & Michael McDonald) (Djesse Vol. 4)
-- Guy I Used To Be (Family Business)
-- Don't Lose Sight (Hotel TV)
-- Crushin' (feat. Lawrence) (Timeless)
-- i'm confident that i'm insecure (Family Business)
-- Something In The Water (Family Business)
-- False Alarms (with Jon Bellion) (Hotel TV)
-- Do (Family Business)
+  - Whatcha Want (Family Business)
+  - Do You Wanna Do Nothing with Me? (Breakfast)
+  - Wherever I Go (feat. Lawrence & Michael McDonald) (Djesse Vol. 4)
+  - Guy I Used To Be (Family Business)
+  - Don't Lose Sight (Hotel TV)
+  - Crushin' (feat. Lawrence) (Timeless)
+  - i'm confident that i'm insecure (Family Business)
+  - Something In The Water (Family Business)
+  - False Alarms (with Jon Bellion) (Hotel TV)
+  - Do (Family Business)
 external_urls:
-  spotify: https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE
-  wikipedia: https://en.wikipedia.org/wiki/Lawrence_(band)
+  spotify: 'https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lawrence_(band)'
 image_path: 03_Resources/source_material/ArtistPortraits/lawrence.jpg
 biography_enhanced_at: '2025-10-27T02:33:00.158793'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://roamingthearts.com/lawrence/
-- https://shorefire.com/roster/lawrence/bio
-- https://lawrencetheband.com/bio
-- https://mokbpresents.com/artist/lawrence/
-- https://www.jimbrickman.com/lawrence-dontlosesight/
+  - 'https://roamingthearts.com/lawrence/'
+  - 'https://shorefire.com/roster/lawrence/bio'
+  - 'https://lawrencetheband.com/bio'
+  - 'https://mokbpresents.com/artist/lawrence/'
+  - 'https://www.jimbrickman.com/lawrence-dontlosesight/'
 network_extracted: true
 entry_created: '2025-10-27T02:33:00.158811'
 last_updated: '2025-12-23T08:16:11.642557'
-origin: New York City, New York, United States
+origin: 'New York City, New York, United States'
+artist_type: band
 ---
 
 ![](lawrence.jpg)

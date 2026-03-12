@@ -3,47 +3,49 @@ biography_enhanced_at: '2026-01-19T01:13:04.026739'
 enhancement_provider: perplexity
 entry_created: '2026-01-19T01:13:04.026744'
 external_urls:
-  spotify: https://open.spotify.com/artist/5nIvbwwGi7vOQD3n44jqgl
-  wikipedia: https://en.wikipedia.org/wiki/Gerry_Mulligan
+  spotify: 'https://open.spotify.com/artist/5nIvbwwGi7vOQD3n44jqgl'
+  wikipedia: 'https://en.wikipedia.org/wiki/Gerry_Mulligan'
 genres:
-- cool jazz
-- jazz
-- bebop
+  - cool jazz
+  - jazz
+  - bebop
 image_path: 03_Resources/source_material/ArtistPortraits/gerry_mulligan_tentette.jpg
 last_updated: '2026-01-19T01:13:04.026745'
 musical_connections:
   collaborators:
-  - Miles Davis
-  - Chet Baker
-  - Stan Kenton
-  - Art Farmer
-  - Dave Brubeck
-  - Thelonious Monk
+    - Miles Davis
+    - Chet Baker
+    - Stan Kenton
+    - Art Farmer
+    - Dave Brubeck
+    - Thelonious Monk
   influenced:
-  - West Coast Jazz Musicians
-  - Bob Brookmeyer
+    - West Coast Jazz Musicians
+    - Bob Brookmeyer
   mentors:
-  - Claude Thornhill
-  - Elliot Lawrence
-  - Gene Krupa
+    - Claude Thornhill
+    - Elliot Lawrence
+    - Gene Krupa
 network_extracted: true
-origin: Queens Village, New York, United States
+origin: 'Queens Village, New York, United States'
 primary_source: perplexity
 research_sources:
-- https://www.allaboutjazz.com/musicians/gerry-mulligan/
-- https://attictoys.com/the-birth-of-the-cool-legacy-part-3-gerry-mulligan/
-- https://www.loc.gov/collections/gerry-mulligan/articles-and-essays/timeline/
-- https://www.gerrymulligan.com/gerry-mulligan-biography/
-- https://en.wikipedia.org/wiki/Gerry_Mulligan
-- https://academic.oup.com/book/46137/chapter/404716675
-- https://www.jazzempowers.org/gerry-mulligan
+  - 'https://www.allaboutjazz.com/musicians/gerry-mulligan/'
+  - 'https://attictoys.com/the-birth-of-the-cool-legacy-part-3-gerry-mulligan/'
+  - 'https://www.loc.gov/collections/gerry-mulligan/articles-and-essays/timeline/'
+  - 'https://www.gerrymulligan.com/gerry-mulligan-biography/'
+  - 'https://en.wikipedia.org/wiki/Gerry_Mulligan'
+  - 'https://academic.oup.com/book/46137/chapter/404716675'
+  - 'https://www.jazzempowers.org/gerry-mulligan'
 spotify_data:
   followers: 736
   id: 5nIvbwwGi7vOQD3n44jqgl
   popularity: 4
-  url: https://open.spotify.com/artist/5nIvbwwGi7vOQD3n44jqgl
+  url: 'https://open.spotify.com/artist/5nIvbwwGi7vOQD3n44jqgl'
 status: active
-title: GERRY MULLIGAN TENTETTE
+title: Gerry Mulligan Tentette
+birth_place: 'Queens Village, New York, United States'
+artist_type: person
 ---
 
 ![](gerry_mulligan_tentette.jpg)

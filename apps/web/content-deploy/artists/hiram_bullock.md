@@ -5,45 +5,45 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1955-09-11'
-birth_place: Osaka
+birth_place: 'Osaka, Osaka Prefecture, Japan'
 death_date: '2008-07-25'
 genres:
-- jazz fusion
-- jazz funk
-- smooth jazz
-- funk rock
+  - jazz fusion
+  - jazz funk
+  - smooth jazz
+  - funk rock
 instruments:
-- electric guitar
-- guitar
-- eponymous
-- piano
-- guitar family
-- lead vocals
-- background vocals
-associated_acts:
-- begin: '1982'
-  end: '1984'
-  instruments:
   - electric guitar
-  mbid: 067dadd8-4a97-4331-b322-81e0912059ea
-  name: The World’s Most Dangerous Band
-- begin: '1988'
-  end: '1989'
-  instruments:
   - guitar
-  mbid: 54f2aebb-6b6e-438f-95d9-48f9628499a2
-  name: The Sunday Night Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a41bd9e0-7f89-4805-a8af-2c9e3772a05d
-  name: 24th Street Band
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
-  mbid: 733fefb7-34be-43ca-ba50-755db23bbc26
-  name: Hiram Bullock Band
+  - piano
+  - guitar family
+  - lead vocals
+  - background vocals
+associated_acts:
+  - begin: '1982'
+    end: '1984'
+    instruments:
+      - electric guitar
+    mbid: 067dadd8-4a97-4331-b322-81e0912059ea
+    name: The World’s Most Dangerous Band
+  - begin: '1988'
+    end: '1989'
+    instruments:
+      - guitar
+    mbid: 54f2aebb-6b6e-438f-95d9-48f9628499a2
+    name: The Sunday Night Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a41bd9e0-7f89-4805-a8af-2c9e3772a05d
+    name: 24th Street Band
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 733fefb7-34be-43ca-ba50-755db23bbc26
+    name: Hiram Bullock Band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/hiram_bullock.jpg
   caption: Hiram Bullock
@@ -66,54 +66,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Will Lee
-  - David Sanborn
-  - Paul Shaffer
-  - Steve Jordan
-  - Phyllis Hyman
+    - Will Lee
+    - David Sanborn
+    - Paul Shaffer
+    - Steve Jordan
+    - Phyllis Hyman
   influenced: []
   mentors:
-  - Pat Metheny
-  - Jaco Pastorius
+    - Pat Metheny
+    - Jaco Pastorius
 spotify_data:
   followers: 11785
   id: 4JKt7ekkdHhrtoTMtSwodO
   popularity: 17
-  url: https://open.spotify.com/artist/4JKt7ekkdHhrtoTMtSwodO
+  url: 'https://open.spotify.com/artist/4JKt7ekkdHhrtoTMtSwodO'
 discography_enriched: true
 top_tracks:
-- Window Shoppin' (From All Sides)
-- Down the Pipe (Give It What U Got)
-- Shut Up (Way Kool)
-- Way Kool (Way Kool)
-- You Send Me (Give It What U Got)
-- Until I Do (From All Sides)
-- Cactus (From All Sides)
-- Track The Tag (Delicate Move)
-- Da Alley (Way Kool)
-- Say Goodnight, Gracie (From All Sides)
+  - Window Shoppin' (From All Sides)
+  - Down the Pipe (Give It What U Got)
+  - Shut Up (Way Kool)
+  - Way Kool (Way Kool)
+  - You Send Me (Give It What U Got)
+  - Until I Do (From All Sides)
+  - Cactus (From All Sides)
+  - Track The Tag (Delicate Move)
+  - Da Alley (Way Kool)
+  - 'Say Goodnight, Gracie (From All Sides)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/56d81a22-2d0a-4ffc-b2b2-d4888d8b42c8
-  spotify: https://open.spotify.com/artist/4JKt7ekkdHhrtoTMtSwodO
+  musicbrainz: 'https://musicbrainz.org/artist/56d81a22-2d0a-4ffc-b2b2-d4888d8b42c8'
+  spotify: 'https://open.spotify.com/artist/4JKt7ekkdHhrtoTMtSwodO'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/hiram_bullock.jpg
 biography_enhanced_at: '2025-12-13T11:45:42.682764'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.wcsufm.org/news-and-information/2018-09-10/artist-profiles-guitarist-hiram-bullock
-- https://www.vintageguitar.com/59560/fretprints-hiram-bullock/
-- https://concord.com/artist/hiram-bullock/
-- https://www.soundsofblue.com/reviews/hirambullockobit.htm
+  - >-
+    https://www.wcsufm.org/news-and-information/2018-09-10/artist-profiles-guitarist-hiram-bullock
+  - 'https://www.vintageguitar.com/59560/fretprints-hiram-bullock/'
+  - 'https://concord.com/artist/hiram-bullock/'
+  - 'https://www.soundsofblue.com/reviews/hirambullockobit.htm'
 network_extracted: true
 entry_created: '2025-12-13T11:45:42.682768'
 last_updated: '2025-12-23T08:16:09.614746'
 gender: Male
 musicbrainz_id: 56d81a22-2d0a-4ffc-b2b2-d4888d8b42c8
 tags:
-- contemporary jazz
-- jazz
-- jazz fusion
+  - contemporary jazz
+  - jazz
+  - jazz fusion
+is_active: false
+origin: 'Baltimore, Maryland, United States'
 ---
 
 ![](hiram_bullock.jpg)

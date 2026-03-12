@@ -2,20 +2,20 @@
 title: Nicholas Payton
 wiki_slug: nicholas-payton
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1973-09-26'
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- jazz
+  - jazz
 instruments:
-- eponymous
+  - eponymous
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Nicholas_Payton.jpg
   caption: Nicholas Payton
   background: non_vocal_instrumentalist
   born: '1973-09-26'
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 109.8
   energy_avg: 0.504
@@ -31,55 +31,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Doc Cheatham
-  - Terri Lyne Carrington
-  - Marcus Roberts
-  - Elvin Jones
-  - Bill Charlap
-  - Ray Charles
-  - Herbie Hancock
-  - Jill Scott
+    - Doc Cheatham
+    - Terri Lyne Carrington
+    - Marcus Roberts
+    - Elvin Jones
+    - Bill Charlap
+    - Ray Charles
+    - Herbie Hancock
+    - Jill Scott
   influenced:
-  - Christian Scott aTunde Adjuah
-  - Younger New Orleans jazz musicians
+    - Christian Scott aTunde Adjuah
+    - Younger New Orleans jazz musicians
   mentors:
-  - Walter Payton
-  - Danny Barker
-  - Clark Terry
-  - Ellis Marsalis
-  - Clyde Kerr Jr.
+    - Walter Payton
+    - Danny Barker
+    - Clark Terry
+    - Ellis Marsalis
+    - Clyde Kerr Jr.
 spotify_data:
   followers: 31338
   id: 3cwVFmQ6mcUoGR6ZvIPuZ4
   popularity: 32
-  url: https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4
+  url: 'https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4'
 discography_enriched: true
 top_tracks:
-- The Last Goodbye (Payton's Place)
-- Chinatown (Into the Blue)
-- Montrose Forest featuring Nicholas Payton
-- Unconditional Love
-- Cram 'N Exam - Hard Bop - Jazz Secrets
-- Relaxin' with Nick (Relaxin' with Nick)
-- '#bamisforthechildren'
-- Futuristic
-- Montrose Forest [Feat. Nicholas Payton] (Letters From The Atlantic)
-- a smile in her lifetime (notes from the zen gangster)
+  - The Last Goodbye (Payton's Place)
+  - Chinatown (Into the Blue)
+  - Montrose Forest featuring Nicholas Payton
+  - Unconditional Love
+  - Cram 'N Exam - Hard Bop - Jazz Secrets
+  - Relaxin' with Nick (Relaxin' with Nick)
+  - '#bamisforthechildren'
+  - Futuristic
+  - 'Montrose Forest [Feat. Nicholas Payton] (Letters From The Atlantic)'
+  - a smile in her lifetime (notes from the zen gangster)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5c7b1d11-d3e7-4beb-a6c3-6b79fb427ce9
-  spotify: https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4
-  wikipedia: https://en.wikipedia.org/wiki/Nicholas_Payton
+  musicbrainz: 'https://musicbrainz.org/artist/5c7b1d11-d3e7-4beb-a6c3-6b79fb427ce9'
+  spotify: 'https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4'
+  wikipedia: 'https://en.wikipedia.org/wiki/Nicholas_Payton'
 image_path: 03_Resources/source_material/ArtistPortraits/Nicholas_Payton.jpg
 biography_enhanced_at: '2025-10-21T06:46:25.053792'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Nicholas_Payton
-- https://nicholaspayton.com/about/
-- https://www.southarts.org/grant-fellowship-recipients/nicholas-payton-2023
-- https://coltranejazzfest.com/nicholas-payton/
-- https://www.allaboutjazz.com/musicians/nicholas-payton/
-- https://hollywoodbowl.com/musicdb/artists/4131/nicholas-payton
+  - 'https://en.wikipedia.org/wiki/Nicholas_Payton'
+  - 'https://nicholaspayton.com/about/'
+  - 'https://www.southarts.org/grant-fellowship-recipients/nicholas-payton-2023'
+  - 'https://coltranejazzfest.com/nicholas-payton/'
+  - 'https://www.allaboutjazz.com/musicians/nicholas-payton/'
+  - 'https://hollywoodbowl.com/musicdb/artists/4131/nicholas-payton'
 network_extracted: true
 entry_created: '2025-10-21T06:46:25.053808'
 last_updated: '2025-12-23T08:16:03.445467'
@@ -88,9 +88,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:39:34.950154'
 musicbrainz_id: 5c7b1d11-d3e7-4beb-a6c3-6b79fb427ce9
 tags:
-- american
-- contemporary jazz
-- jazz
+  - american
+  - contemporary jazz
+  - jazz
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](Nicholas_Payton.jpg)

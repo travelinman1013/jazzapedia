@@ -1,76 +1,77 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-04T01:56:25.744687'
 birth_date: '2010'
 disambiguation: Brazilian band
 enhancement_provider: perplexity
 entry_created: '2026-01-04T01:56:25.744693'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a83233a1-0f5c-4b8d-9f0f-b440767f58c6
-  spotify: https://open.spotify.com/artist/7AXmWhFxO6r6ZbdvdrPG3C
+  musicbrainz: 'https://musicbrainz.org/artist/a83233a1-0f5c-4b8d-9f0f-b440767f58c6'
+  spotify: 'https://open.spotify.com/artist/7AXmWhFxO6r6ZbdvdrPG3C'
   wikipedia: ''
 genres: []
 image_path: ''
 instruments:
-- baritone saxophone
-- flute
-- tenor saxophone
-last_updated: '2026-01-04T01:56:25.744694'
-members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2c07689f-69cf-4634-b7a6-176b94bb0f57
-  name: Douglas Antunes
-- begin: ''
-  end: ''
-  instruments:
   - baritone saxophone
   - flute
-  mbid: 9181a42b-50b4-4ce4-a1c9-5bf225f99270
-  name: Cuca Ferreira
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e201c490-bfde-46df-b282-902182ae6c53
-  name: Daniel Gralha
-- begin: ''
-  end: ''
-  instruments:
   - tenor saxophone
-  mbid: 251f06db-7e5c-47af-8477-d413e0aafd32
-  name: Daniel Nogueira
+last_updated: '2026-01-04T01:56:25.744694'
+members:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2c07689f-69cf-4634-b7a6-176b94bb0f57
+    name: Douglas Antunes
+  - begin: ''
+    end: ''
+    instruments:
+      - baritone saxophone
+      - flute
+    mbid: 9181a42b-50b4-4ce4-a1c9-5bf225f99270
+    name: Cuca Ferreira
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e201c490-bfde-46df-b282-902182ae6c53
+    name: Daniel Gralha
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: 251f06db-7e5c-47af-8477-d413e0aafd32
+    name: Daniel Nogueira
 musical_connections:
   collaborators:
-  - Mauricio Fleury
-  - Cuca Ferreira
-  - Cris Cabello
-  - Simone Sou
-  - Tony Allen
+    - Mauricio Fleury
+    - Cuca Ferreira
+    - Cris Cabello
+    - Simone Sou
+    - Tony Allen
   influenced: []
   mentors:
-  - Fela Kuti
-  - Tony Allen
-  - Gilberto Gil
+    - Fela Kuti
+    - Tony Allen
+    - Gilberto Gil
 musicbrainz_id: a83233a1-0f5c-4b8d-9f0f-b440767f58c6
 network_extracted: true
-origin: São Paulo
+origin: 'São Paulo, State of São Paulo, Brazil'
 primary_source: perplexity
 research_sources:
-- https://pan-african-music.com/en/bixiga-70-vapor/
-- https://daily.bandcamp.com/features/bixiga-70-interview
-- https://www.last.fm/music/Bixiga+70/+wiki
-- https://magazine.waxpoetics.com/connections/saudade-brasil/article/bixiga-70/
-- https://www.afropop.org/articles/bixiga-70-brazilian-afrobeat-messengers
+  - 'https://pan-african-music.com/en/bixiga-70-vapor/'
+  - 'https://daily.bandcamp.com/features/bixiga-70-interview'
+  - 'https://www.last.fm/music/Bixiga+70/+wiki'
+  - >-
+    https://magazine.waxpoetics.com/connections/saudade-brasil/article/bixiga-70/
+  - 'https://www.afropop.org/articles/bixiga-70-brazilian-afrobeat-messengers'
 spotify_data:
   followers: 15
   id: 7AXmWhFxO6r6ZbdvdrPG3C
   popularity: 0
-  url: https://open.spotify.com/artist/7AXmWhFxO6r6ZbdvdrPG3C
+  url: 'https://open.spotify.com/artist/7AXmWhFxO6r6ZbdvdrPG3C'
 status: active
 tags:
-- afrobeat
-- jazz
+  - afrobeat
+  - jazz
 title: Bixiga 70
 ---
 

@@ -1,10 +1,10 @@
 ---
-title: SAM MORGAN'S JAZZ BAND
+title: Sam Morgan's Jazz Band
 wiki_slug: sam-morgans-jazz-band
 schema_version: 2
 status: active
 genres:
-- ragtime
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sam_morgans_jazz_band.jpg
   caption: SAM MORGAN'S JAZZ BAND
@@ -24,50 +24,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Isaiah Morgan
-  - Andrew Morgan
-  - Earl Fouché
-  - Jim Robinson
-  - Sidney Brown (aka Little Jim or Jim Little)
-  - George Guesnon
+    - Isaiah Morgan
+    - Andrew Morgan
+    - Earl Fouché
+    - Jim Robinson
+    - Sidney Brown (aka Little Jim or Jim Little)
+    - George Guesnon
   influenced:
-  - Louisiana Repertory Jazz Ensemble
+    - Louisiana Repertory Jazz Ensemble
   mentors:
-  - Local Brass Band Musicians of Plaquemines Parish
+    - Local Brass Band Musicians of Plaquemines Parish
 spotify_data:
   followers: 377
   id: 33blhBVeWDbTWOLWkKbrxH
   popularity: 8
-  url: https://open.spotify.com/artist/33blhBVeWDbTWOLWkKbrxH
+  url: 'https://open.spotify.com/artist/33blhBVeWDbTWOLWkKbrxH'
 discography_enriched: true
 top_tracks:
-- 'Boogalousa Strut (1920s: The Jazz Age In New Orleans)'
-- 'Everybody''s Talking About Sammy (1920s: The Jazz Age In New Orleans)'
-- 'Boogalousa Strut (1920s: The Jazz Age In New Orleans)'
-- 'Over In the Gloryland (1920s: The Jazz Age In New Orleans)'
-- 'Steppin'' On the Gas (1920s: The Jazz Age In New Orleans)'
-- 'Everybody''s Talking About Sammy (1920s: The Jazz Age In New Orleans)'
-- 'Over In The Gloryland (1920s: The Jazz Age In New Orleans)'
-- 'Steppin'' On The Gas (1920s: The Jazz Age In New Orleans)'
-- Steppin' on the Gas (New Orleans Jazz Of The 1920s)
-- Steppin' on the Gas (Introducing Their Famed New Orleans Struts)
+  - 'Boogalousa Strut (1920s: The Jazz Age In New Orleans)'
+  - 'Everybody''s Talking About Sammy (1920s: The Jazz Age In New Orleans)'
+  - 'Boogalousa Strut (1920s: The Jazz Age In New Orleans)'
+  - 'Over In the Gloryland (1920s: The Jazz Age In New Orleans)'
+  - 'Steppin'' On the Gas (1920s: The Jazz Age In New Orleans)'
+  - 'Everybody''s Talking About Sammy (1920s: The Jazz Age In New Orleans)'
+  - 'Over In The Gloryland (1920s: The Jazz Age In New Orleans)'
+  - 'Steppin'' On The Gas (1920s: The Jazz Age In New Orleans)'
+  - Steppin' on the Gas (New Orleans Jazz Of The 1920s)
+  - Steppin' on the Gas (Introducing Their Famed New Orleans Struts)
 external_urls:
-  spotify: https://open.spotify.com/artist/33blhBVeWDbTWOLWkKbrxH
-  wikipedia: https://en.wikipedia.org/wiki/Sam_Morgan_(musician)
+  spotify: 'https://open.spotify.com/artist/33blhBVeWDbTWOLWkKbrxH'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sam_Morgan_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/sam_morgans_jazz_band.jpg
 biography_enhanced_at: '2025-11-14T10:58:39.297294'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Sam_Morgan_(musician)
-- https://syncopatedtimes.com/sam-morgans-jazz-band/
-- http://playing-traditional-jazz.blogspot.com/2017/01/post-466-sam-morgan.html
-- https://www.offbeat.com/news/louisiana-repertory-jazz-ensemble-to-perform-and-record-sam-morgan-music/
-- http://oldtimeblues.net/2018/04/14/columbia-14258-d-sam-morgans-jazz-band-1927/
+  - 'https://en.wikipedia.org/wiki/Sam_Morgan_(musician)'
+  - 'https://syncopatedtimes.com/sam-morgans-jazz-band/'
+  - >-
+    http://playing-traditional-jazz.blogspot.com/2017/01/post-466-sam-morgan.html
+  - >-
+    https://www.offbeat.com/news/louisiana-repertory-jazz-ensemble-to-perform-and-record-sam-morgan-music/
+  - >-
+    http://oldtimeblues.net/2018/04/14/columbia-14258-d-sam-morgans-jazz-band-1927/
 network_extracted: true
 entry_created: '2025-11-14T10:58:39.297304'
 last_updated: '2025-12-23T08:16:15.317573'
-origin: Bertrandville, Louisiana, United States
+origin: 'Bertrandville, Louisiana, United States'
+birth_place: 'Bertrandville, Louisiana, United States'
+birth_date: '1887-12-18'
+artist_type: band
 ---
 
 ![](sam_morgans_jazz_band.jpg)

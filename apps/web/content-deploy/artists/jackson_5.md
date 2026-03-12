@@ -1,11 +1,11 @@
 ---
-title: JACKSON 5
+title: The Jackson 5
 wiki_slug: jackson-5
 schema_version: 2
 status: active
 genres:
-- motown
-- christmas
+  - motown
+  - christmas
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jackson_5.jpg
   caption: JACKSON 5
@@ -25,54 +25,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Michael Jackson
-  - Jermaine Jackson
-  - Jackie, Tito, Marlon, and Randy Jackson
-  - The Corporation (Motown songwriting/production team)
+    - Michael Jackson
+    - Jermaine Jackson
+    - 'Jackie, Tito, Marlon, and Randy Jackson'
+    - The Corporation (Motown songwriting/production team)
   influenced:
-  - Michael Jackson (solo career)
-  - Subsequent boy bands and teen pop groups
-  - R&B and pop vocal groups
+    - Michael Jackson (solo career)
+    - Subsequent boy bands and teen pop groups
+    - R&B and pop vocal groups
   mentors:
-  - Joseph (Joe) Jackson
-  - Berry Gordy Jr.
-  - Diana Ross
-  - Gladys Knight & Bobby Taylor
+    - Joseph (Joe) Jackson
+    - Berry Gordy Jr.
+    - Diana Ross
+    - Gladys Knight & Bobby Taylor
 spotify_data:
   followers: 1906961
   id: 2iE18Oxc8YSumAU232n4rW
   popularity: 73
-  url: https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW
+  url: 'https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW'
 discography_enriched: true
 top_tracks:
-- I Want You Back (Diana Ross Presents The Jackson 5)
-- ABC (ABC)
-- I'll Be There (Third Album)
-- Who's Lovin' You (Diana Ross Presents The Jackson 5)
-- I Want You Back
-- I Want You Back
-- I Saw Mommy Kissing Santa Claus (Christmas Album)
-- Santa Claus Is Coming To Town (Christmas Album)
-- Never Can Say Goodbye (Maybe Tomorrow)
-- ABC
+  - I Want You Back (Diana Ross Presents The Jackson 5)
+  - ABC (ABC)
+  - I'll Be There (Third Album)
+  - Who's Lovin' You (Diana Ross Presents The Jackson 5)
+  - I Want You Back
+  - I Want You Back
+  - I Saw Mommy Kissing Santa Claus (Christmas Album)
+  - Santa Claus Is Coming To Town (Christmas Album)
+  - Never Can Say Goodbye (Maybe Tomorrow)
+  - ABC
 external_urls:
-  spotify: https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW
-  wikipedia: https://en.wikipedia.org/wiki/The_Jackson_5
+  spotify: 'https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Jackson_5'
 image_path: 03_Resources/source_material/ArtistPortraits/jackson_5.jpg
 biography_enhanced_at: '2025-12-16T04:03:40.478465'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Jackson_5
-- https://www.britannica.com/topic/the-jackson-five
-- https://blackpast.org/african-american-history/jackson-5-1965/
-- https://www.motownmuseum.org/artist/the-jackson-5/
-- https://www.edsullivan.com/artists/jackson-5/
-- https://classic.motown.com/artist/the-jackson-5/
+  - 'https://en.wikipedia.org/wiki/The_Jackson_5'
+  - 'https://www.britannica.com/topic/the-jackson-five'
+  - 'https://blackpast.org/african-american-history/jackson-5-1965/'
+  - 'https://www.motownmuseum.org/artist/the-jackson-5/'
+  - 'https://www.edsullivan.com/artists/jackson-5/'
+  - 'https://classic.motown.com/artist/the-jackson-5/'
 network_extracted: true
 entry_created: '2025-12-16T04:03:40.478474'
 last_updated: '2025-12-23T08:16:10.074976'
-origin: Gary, Indiana, United States
+origin: 'Gary, Indiana, United States'
+artist_type: band
 ---
 
 ![](jackson_5.jpg)

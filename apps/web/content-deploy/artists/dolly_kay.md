@@ -1,11 +1,11 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-15T01:17:04.662907'
-birth_place: United States
+birth_place: 'United States, United States, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-15T01:17:04.662921'
 external_urls:
-  spotify: https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8
+  spotify: 'https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/dolly_kay.jpg
@@ -17,19 +17,21 @@ musical_connections:
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://travsd.wordpress.com/2021/06/12/dolly-kay-hard-hearted-hannah/
-- https://secondhandsongs.com/artist/62848/all
-- https://syncopatedtimes.com/dolly-kay-1900-1982/
-- http://www.miccheckentertainment.co.uk/kay-as-dolly.html
-- https://www.legacy.com/us/obituaries/washingtonpost/name/dolores-kay-obituary?id=57193856
-- https://www.washingtonjewishweek.com/dolores-kay/
+  - 'https://travsd.wordpress.com/2021/06/12/dolly-kay-hard-hearted-hannah/'
+  - 'https://secondhandsongs.com/artist/62848/all'
+  - 'https://syncopatedtimes.com/dolly-kay-1900-1982/'
+  - 'http://www.miccheckentertainment.co.uk/kay-as-dolly.html'
+  - >-
+    https://www.legacy.com/us/obituaries/washingtonpost/name/dolores-kay-obituary?id=57193856
+  - 'https://www.washingtonjewishweek.com/dolores-kay/'
 spotify_data:
   followers: 110922
   id: 4Z8MrrKMBHMPa8d04Ivur8
   popularity: 64
-  url: https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8
+  url: 'https://open.spotify.com/artist/4Z8MrrKMBHMPa8d04Ivur8'
 status: active
-title: DOLLY KAY
+title: Dolly Kay
+birth_date: '1900-06-12'
 ---
 
 ![](dolly_kay.jpg)

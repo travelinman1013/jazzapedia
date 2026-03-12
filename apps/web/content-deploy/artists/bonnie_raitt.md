@@ -1,19 +1,19 @@
 ---
-title: bonnie raitt
+title: Bonnie Raitt
 wiki_slug: bonnie-raitt
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1949-11-08'
-birth_place: Burbank, California, United States
+birth_place: 'Burbank, California, United States'
 genres:
-- blues
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bonnie_raitt.jpg
   caption: bonnie raitt
   background: solo_singer
   born: '1949-11-08'
-  origin: Burbank, California, United States
+  origin: 'Burbank, California, United States'
 audio_profile:
   tempo_avg: 112.2
   energy_avg: 0.462
@@ -29,49 +29,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John Prine
-  - Don Was
-  - John Lee Hooker
-  - Bruce Hornsby
-  - Warren Zevon
+    - John Prine
+    - Don Was
+    - John Lee Hooker
+    - Bruce Hornsby
+    - Warren Zevon
   influenced:
-  - Sheryl Crow
-  - Susan Tedeschi
-  - Keb' Mo'
+    - Sheryl Crow
+    - Susan Tedeschi
+    - Keb' Mo'
   mentors:
-  - Son House
-  - Mississippi Fred McDowell
-  - Lowell George
+    - Son House
+    - Mississippi Fred McDowell
+    - Lowell George
 spotify_data:
   followers: 806019
   id: 4KDyYWR7IpxZ7xrdYbKrqY
   popularity: 56
-  url: https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY
+  url: 'https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY'
 discography_enriched: true
 top_tracks:
-- I Can't Make You Love Me (Luck Of The Draw)
-- Angel from Montgomery - 2008 Remaster (Streetlights)
-- Something To Talk About (Luck Of The Draw)
-- Thank You - 2008 Remaster (Bonnie Raitt (2008 Remaster))
-- Nick Of Time (Nick Of Time)
-- Love Me Like a Man - 2008 Remaster (Give It Up (2008 Remaster))
-- Feels Like Rain (feat. Bonnie Raitt) (Feels Like Rain)
-- Do I Ever Cross Your Mind (Genius Loves Company)
-- Love Has No Pride - 2008 Remaster (Give It Up (2008 Remaster))
-- Just Like That (Just Like That...)
+  - I Can't Make You Love Me (Luck Of The Draw)
+  - Angel from Montgomery - 2008 Remaster (Streetlights)
+  - Something To Talk About (Luck Of The Draw)
+  - Thank You - 2008 Remaster (Bonnie Raitt (2008 Remaster))
+  - Nick Of Time (Nick Of Time)
+  - Love Me Like a Man - 2008 Remaster (Give It Up (2008 Remaster))
+  - Feels Like Rain (feat. Bonnie Raitt) (Feels Like Rain)
+  - Do I Ever Cross Your Mind (Genius Loves Company)
+  - Love Has No Pride - 2008 Remaster (Give It Up (2008 Remaster))
+  - Just Like That (Just Like That...)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/0f0da09c-3940-4cb5-879f-4cea28907810
-  spotify: https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY
-  wikipedia: https://en.wikipedia.org/wiki/Bonnie_Raitt
+  musicbrainz: 'https://musicbrainz.org/artist/0f0da09c-3940-4cb5-879f-4cea28907810'
+  spotify: 'https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bonnie_Raitt'
 image_path: 03_Resources/source_material/ArtistPortraits/bonnie_raitt.jpg
 biography_enhanced_at: '2025-10-20T09:04:26.188699'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Bonnie_Raitt
-- https://www.bonnieraitt.com/bio/bonnies-story/
-- https://teachrock.org/traceitback/bonnie-raitt/
-- https://www.loudersound.com/features/bonnie-raitt-life-story-interview
+  - 'https://en.wikipedia.org/wiki/Bonnie_Raitt'
+  - 'https://www.bonnieraitt.com/bio/bonnies-story/'
+  - 'https://teachrock.org/traceitback/bonnie-raitt/'
+  - 'https://www.loudersound.com/features/bonnie-raitt-life-story-interview'
 network_extracted: true
 entry_created: '2025-10-20T09:04:26.188714'
 last_updated: '2025-12-23T08:16:05.923950'
@@ -79,9 +79,9 @@ gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:49:45.813839'
 musicbrainz_id: 0f0da09c-3940-4cb5-879f-4cea28907810
 tags:
-- adult contemporary
-- blue-eyed soul
-- blues rock
+  - adult contemporary
+  - blue-eyed soul
+  - blues rock
 ---
 
 ![](bonnie_raitt.jpg)

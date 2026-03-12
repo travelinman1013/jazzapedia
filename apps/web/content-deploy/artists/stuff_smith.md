@@ -1,30 +1,30 @@
 ---
-title: STUFF SMITH
+title: Stuff Smith
 wiki_slug: stuff-smith
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1909-09-14'
-birth_place: Portsmouth
+birth_place: 'Portsmouth, Ohio, United States'
 death_date: '1967-09-25'
 genres:
-- swing music
-- ragtime
-- jazz
+  - swing music
+  - ragtime
+  - jazz
 instruments:
-- original
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - original
-  mbid: 821a3c67-7b66-4530-b2e0-02be04871d0b
-  name: Stuff Smith Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b9f562a4-768a-4a8e-8243-ac882b6cf160
-  name: Stuff Smith and His Onyx Club Boys
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 821a3c67-7b66-4530-b2e0-02be04871d0b
+    name: Stuff Smith Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b9f562a4-768a-4a8e-8243-ac882b6cf160
+    name: Stuff Smith and His Onyx Club Boys
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/stuff_smith.jpg
   caption: STUFF SMITH
@@ -47,53 +47,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jonah Jones
-  - Jimmy Jones
-  - Stephane Grappelli
-  - Herb Ellis
-  - Ella Fitzgerald
-  - Oscar Peterson
-  - Shirley Horn
+    - Jonah Jones
+    - Jimmy Jones
+    - Stephane Grappelli
+    - Herb Ellis
+    - Ella Fitzgerald
+    - Oscar Peterson
+    - Shirley Horn
   influenced:
-  - Bebop generation musicians
-  - Jazz violinists
+    - Bebop generation musicians
+    - Jazz violinists
   mentors:
-  - Louis Armstrong
-  - Alphonso Trent
+    - Louis Armstrong
+    - Alphonso Trent
 spotify_data:
   followers: 7300
   id: 0BGNyKGO4LaL69kurXlaSI
   popularity: 29
-  url: https://open.spotify.com/artist/0BGNyKGO4LaL69kurXlaSI
+  url: 'https://open.spotify.com/artist/0BGNyKGO4LaL69kurXlaSI'
 discography_enriched: true
 top_tracks:
-- Mama Talking (The Burning Spider)
-- It Ain't Right
-- It Ain't Right (Robins and Roses)
-- Mama Talking
-- It Ain't Right (07-01-36) (Complete Jazz Series 1936 - 1939)
-- Ja-Da (Have Violin, Will Swing)
-- Ja-Da
-- It's Wonderful (Have Violin, Will Swing)
-- It Ain't Right
-- Mama Talking (feat. Stuff Smith) (The Burning Spider)
+  - Mama Talking (The Burning Spider)
+  - It Ain't Right
+  - It Ain't Right (Robins and Roses)
+  - Mama Talking
+  - It Ain't Right (07-01-36) (Complete Jazz Series 1936 - 1939)
+  - 'Ja-Da (Have Violin, Will Swing)'
+  - Ja-Da
+  - 'It''s Wonderful (Have Violin, Will Swing)'
+  - It Ain't Right
+  - Mama Talking (feat. Stuff Smith) (The Burning Spider)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/144d2fce-f7a3-4275-b710-40a385e19554
-  spotify: https://open.spotify.com/artist/0BGNyKGO4LaL69kurXlaSI
+  musicbrainz: 'https://musicbrainz.org/artist/144d2fce-f7a3-4275-b710-40a385e19554'
+  spotify: 'https://open.spotify.com/artist/0BGNyKGO4LaL69kurXlaSI'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/stuff_smith.jpg
 biography_enhanced_at: '2025-12-04T07:20:26.915401'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- National Fiddler Hall of Fame - Stuff Smith Bio
-- 'The Syncopated Times - Stuff Smith: Profiles in Jazz'
-- WKCR 89.9FM NY Columbia University - Stuff Smith on Jazz Profiles
-- Fiddling Around the World - Stuff Smith
-- CapitalBop - How Stuff Smith's favorite violin came back to D.C.
-- Strings Magazine - Chasing the Sound of Stuff Smith
-- Jazz Empowers - Stuff Smith
-- abar.net - Stuff Smith
+  - National Fiddler Hall of Fame - Stuff Smith Bio
+  - 'The Syncopated Times - Stuff Smith: Profiles in Jazz'
+  - WKCR 89.9FM NY Columbia University - Stuff Smith on Jazz Profiles
+  - Fiddling Around the World - Stuff Smith
+  - CapitalBop - How Stuff Smith's favorite violin came back to D.C.
+  - Strings Magazine - Chasing the Sound of Stuff Smith
+  - Jazz Empowers - Stuff Smith
+  - abar.net - Stuff Smith
 network_extracted: true
 entry_created: '2025-12-04T07:20:26.915409'
 last_updated: '2025-12-23T08:16:16.185221'
@@ -101,8 +101,10 @@ disambiguation: jazz violinist
 gender: Male
 musicbrainz_id: 144d2fce-f7a3-4275-b710-40a385e19554
 tags:
-- jazz
-- swing
+  - jazz
+  - swing
+is_active: false
+origin: 'Buffalo, New York, United States'
 ---
 
 ![](stuff_smith.jpg)

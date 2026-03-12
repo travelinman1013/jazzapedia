@@ -1,15 +1,15 @@
 ---
-title: haskell sadler
+title: Haskell Sadler
 wiki_slug: haskell-sadler
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1935-04-16'
-birth_place: Denver
+birth_place: 'Denver, Colorado, United States'
 death_date: '1994-05-06'
 genres:
-- classic blues
-- footwork
+  - classic blues
+  - footwork
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/haskell_sadler.jpg
   caption: haskell sadler
@@ -32,48 +32,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sidney Maiden
-  - The Mellotones
-  - Kenney Herrera
-  - Big Bob Deance
-  - Connell Page
-  - Sam Myers
+    - Sidney Maiden
+    - The Mellotones
+    - Kenney Herrera
+    - Big Bob Deance
+    - Connell Page
+    - Sam Myers
   influenced: []
   mentors: []
 spotify_data:
   followers: 25
   id: 0PvPuZI1dbHf9U2KgbMPjJ
   popularity: 0
-  url: https://open.spotify.com/artist/0PvPuZI1dbHf9U2KgbMPjJ
+  url: 'https://open.spotify.com/artist/0PvPuZI1dbHf9U2KgbMPjJ'
 discography_enriched: true
 top_tracks:
-- Gone for Good (The Flash Records Story)
-- Gone For Good (Juke Joint Blues 2)
-- Do Right Mind (Juke Joint Blues 2)
-- Do Right Mind (The Flash Records Story)
-- Do Right Mind (Flash Records Greatest Hits, Vol. 1)
-- Gone For Good (Flash Records Greatest Hits, Vol. 1)
-- Gone For Good (The Flash Records Story)
-- Do Right Mind (The Flash Records Story)
-- Gone for Good (The Flash Records Story)
-- Do Right Mind (The Flash Records Story)
+  - Gone for Good (The Flash Records Story)
+  - Gone For Good (Juke Joint Blues 2)
+  - Do Right Mind (Juke Joint Blues 2)
+  - Do Right Mind (The Flash Records Story)
+  - 'Do Right Mind (Flash Records Greatest Hits, Vol. 1)'
+  - 'Gone For Good (Flash Records Greatest Hits, Vol. 1)'
+  - Gone For Good (The Flash Records Story)
+  - Do Right Mind (The Flash Records Story)
+  - Gone for Good (The Flash Records Story)
+  - Do Right Mind (The Flash Records Story)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/cbc3f4dd-f5ed-4092-b6dc-ce77a5d81138
-  spotify: https://open.spotify.com/artist/0PvPuZI1dbHf9U2KgbMPjJ
+  musicbrainz: 'https://musicbrainz.org/artist/cbc3f4dd-f5ed-4092-b6dc-ce77a5d81138'
+  spotify: 'https://open.spotify.com/artist/0PvPuZI1dbHf9U2KgbMPjJ'
   wikipedia: null
 image_path: ''
 biography_enhanced_at: '2025-10-29T16:50:20.669253'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.blues-sessions.com/coolpapasadler.php
-- https://dbpedia.org/page/Haskell_Sadler
-- https://www.findagrave.com/memorial/13913616/haskell-robert-sadler
+  - 'https://www.blues-sessions.com/coolpapasadler.php'
+  - 'https://dbpedia.org/page/Haskell_Sadler'
+  - 'https://www.findagrave.com/memorial/13913616/haskell-robert-sadler'
 network_extracted: true
 entry_created: '2025-10-29T16:50:20.669263'
 last_updated: '2025-12-23T08:16:09.536761'
 gender: Male
 musicbrainz_id: cbc3f4dd-f5ed-4092-b6dc-ce77a5d81138
+is_active: false
 ---
 
 ![]()

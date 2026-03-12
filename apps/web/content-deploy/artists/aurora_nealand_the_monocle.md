@@ -1,18 +1,18 @@
 ---
-title: aurora nealand, the monocle
+title: 'Aurora Nealand, the Monocle'
 wiki_slug: aurora-nealand-the-monocle
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'California, United States'
 genres:
-- free jazz
-- ragtime
-- swing music
+  - free jazz
+  - ragtime
+  - swing music
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/aurora_nealand_the_monocle.jpg
-  caption: aurora nealand, the monocle
+  caption: 'aurora nealand, the monocle'
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 112.5
   energy_avg: 0.359
@@ -28,58 +28,65 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tim Berne
-  - Hank Roberts
-  - John Hollenbeck
-  - Preservation Hall Allstars
-  - Bill Frisell
-  - David Torn
-  - Arto Lindsey
-  - Germaine Bazzle
-  - John Boutte
-  - Johnny Vidacovich
+    - Tim Berne
+    - Hank Roberts
+    - John Hollenbeck
+    - Preservation Hall Allstars
+    - Bill Frisell
+    - David Torn
+    - Arto Lindsey
+    - Germaine Bazzle
+    - John Boutte
+    - Johnny Vidacovich
   influenced:
-  - Walden School for Young Composers
-  - SONO (Sound Observatory New Orleans)
+    - Walden School for Young Composers
+    - SONO (Sound Observatory New Orleans)
   mentors:
-  - New Orleans Elders
-  - Pauline Oliveros
+    - New Orleans Elders
+    - Pauline Oliveros
 spotify_data:
   followers: 729
   id: 4LGOQLuOw8fgTxJEB8wngD
   popularity: 10
-  url: https://open.spotify.com/artist/4LGOQLuOw8fgTxJEB8wngD
+  url: 'https://open.spotify.com/artist/4LGOQLuOw8fgTxJEB8wngD'
 discography_enriched: true
 top_tracks:
-- Cloud Prints (On a Painted Ocean)
-- Parade (On a Painted Ocean)
-- 'Blue Horizon - Live (Live at Preservation Hall: A Tribute to Sidney Bechet)'
-- Cloud Prints (Cloud Prints)
-- 'Ferry Man (The LookBack Transmission : Aurora Nealand & The Royal Roses)'
-- 'Petite Fleur - Live (Live at Preservation Hall: A Tribute to Sidney Bechet)'
-- 'Shag (The LookBack Transmission : Aurora Nealand & The Royal Roses)'
-- 'Si Tu Vois Ma Mere - Live (Live at Preservation Hall: A Tribute to Sidney Bechet)'
-- 'Nous Les Cuisiniere (The LookBack Transmission : Aurora Nealand & The Royal Roses)'
-- 'The Mooche - Live (Live at Preservation Hall: A Tribute to Sidney Bechet)'
+  - Cloud Prints (On a Painted Ocean)
+  - Parade (On a Painted Ocean)
+  - 'Blue Horizon - Live (Live at Preservation Hall: A Tribute to Sidney Bechet)'
+  - Cloud Prints (Cloud Prints)
+  - 'Ferry Man (The LookBack Transmission : Aurora Nealand & The Royal Roses)'
+  - 'Petite Fleur - Live (Live at Preservation Hall: A Tribute to Sidney Bechet)'
+  - 'Shag (The LookBack Transmission : Aurora Nealand & The Royal Roses)'
+  - >-
+    Si Tu Vois Ma Mere - Live (Live at Preservation Hall: A Tribute to Sidney
+    Bechet)
+  - >-
+    Nous Les Cuisiniere (The LookBack Transmission : Aurora Nealand & The Royal
+    Roses)
+  - 'The Mooche - Live (Live at Preservation Hall: A Tribute to Sidney Bechet)'
 external_urls:
-  spotify: https://open.spotify.com/artist/4LGOQLuOw8fgTxJEB8wngD
+  spotify: 'https://open.spotify.com/artist/4LGOQLuOw8fgTxJEB8wngD'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/aurora_nealand_the_monocle.jpg
 biography_enhanced_at: '2025-11-15T18:36:38.495734'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://americanmusicabroad.org/artist/aurora-nealands-inquiry-quintet/
-- http://www.auroranealand.com/details
-- https://www.foundsoundnation.org/collaborators/aurora-nealand
-- http://www.auroranealand.com/monocle
-- https://musicinsideout.wwno.org/aurora-nealand/
-- https://www.macdowell.org/artists/aurora-nealand
-- https://www.stadtgarten.de/en/program/pollon-feat-aurora-nealand-new-orleans-traditional-jazz-ensemble-aurora-nealand-solo-the-monocle-7219
-- https://www.neworleans.com/listing/aurora-nealand/46301/
+  - 'https://americanmusicabroad.org/artist/aurora-nealands-inquiry-quintet/'
+  - 'http://www.auroranealand.com/details'
+  - 'https://www.foundsoundnation.org/collaborators/aurora-nealand'
+  - 'http://www.auroranealand.com/monocle'
+  - 'https://musicinsideout.wwno.org/aurora-nealand/'
+  - 'https://www.macdowell.org/artists/aurora-nealand'
+  - >-
+    https://www.stadtgarten.de/en/program/pollon-feat-aurora-nealand-new-orleans-traditional-jazz-ensemble-aurora-nealand-solo-the-monocle-7219
+  - 'https://www.neworleans.com/listing/aurora-nealand/46301/'
 network_extracted: true
 entry_created: '2025-11-15T18:36:38.495754'
 last_updated: '2025-12-23T08:16:05.008132'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](aurora_nealand_the_monocle.jpg)

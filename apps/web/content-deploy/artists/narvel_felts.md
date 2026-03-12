@@ -1,21 +1,21 @@
 ---
-title: NARVEL FELTS
+title: Narvel Felts
 wiki_slug: narvel-felts
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1938-11-11'
-birth_place: Keiser
+birth_place: 'Keiser, Arkansas, United States'
 genres:
-- rockabilly
-- traditional country
-- christian country
+  - rockabilly
+  - traditional country
+  - christian country
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8976e275-d441-405e-8283-09c692b365a4
-  name: Narvel Felts & The Rockets
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8976e275-d441-405e-8283-09c692b365a4
+    name: Narvel Felts & The Rockets
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/narvel_felts.jpg
   caption: NARVEL FELTS
@@ -37,46 +37,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Rockets
-  - Narvel Felts Jr.
-  - The Rimshots
+    - The Rockets
+    - Narvel Felts Jr.
+    - The Rimshots
   influenced:
-  - Contemporary rockabilly and traditional country artists
+    - Contemporary rockabilly and traditional country artists
   mentors:
-  - Roy Orbison
-  - Johnny Cash
-  - Ernest Tubb
-  - Hank Snow
+    - Roy Orbison
+    - Johnny Cash
+    - Ernest Tubb
+    - Hank Snow
 spotify_data:
   followers: 2350
   id: 5i7UKP91HFnfeoC0p9SH9T
   popularity: 15
-  url: https://open.spotify.com/artist/5i7UKP91HFnfeoC0p9SH9T
+  url: 'https://open.spotify.com/artist/5i7UKP91HFnfeoC0p9SH9T'
 discography_enriched: true
 top_tracks:
-- Somebody Hold Me - Studio (Super Songs Narvelized)
-- Somebody Hold Me Until She Passes By
-- Drift Away
-- Reconsider Me
-- Pink And Black Days - Studio (Super Songs Narvelized)
-- Funny How Time Slips Away
-- 'You Don''t Care (Did You Tell Me) (Sun Records Originals: Cry Baby Cry)'
-- Bad Moon Rising (Me And Bobby Mcgee)
-- All In the Name of Love
-- Reconsider Me (Narvel Felts)
+  - Somebody Hold Me - Studio (Super Songs Narvelized)
+  - Somebody Hold Me Until She Passes By
+  - Drift Away
+  - Reconsider Me
+  - Pink And Black Days - Studio (Super Songs Narvelized)
+  - Funny How Time Slips Away
+  - 'You Don''t Care (Did You Tell Me) (Sun Records Originals: Cry Baby Cry)'
+  - Bad Moon Rising (Me And Bobby Mcgee)
+  - All In the Name of Love
+  - Reconsider Me (Narvel Felts)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7b2d7a70-5c1c-4cb0-93f7-dd627a45662c
-  spotify: https://open.spotify.com/artist/5i7UKP91HFnfeoC0p9SH9T
-  wikipedia: https://en.wikipedia.org/wiki/Narvel_Felts
+  musicbrainz: 'https://musicbrainz.org/artist/7b2d7a70-5c1c-4cb0-93f7-dd627a45662c'
+  spotify: 'https://open.spotify.com/artist/5i7UKP91HFnfeoC0p9SH9T'
+  wikipedia: 'https://en.wikipedia.org/wiki/Narvel_Felts'
 image_path: 03_Resources/source_material/ArtistPortraits/narvel_felts.jpg
 biography_enhanced_at: '2025-11-11T09:21:17.488000'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Narvel_Felts
-- https://encyclopediaofarkansas.net/entries/narvel-felts-6209/
-- https://fromthevaults-boppinbob.blogspot.com/2016/11/narvel-felts-born-11-november-1938.html
-- https://tims.blackcat.nl/messages/narvel_felts.htm
+  - 'https://en.wikipedia.org/wiki/Narvel_Felts'
+  - 'https://encyclopediaofarkansas.net/entries/narvel-felts-6209/'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2016/11/narvel-felts-born-11-november-1938.html
+  - 'https://tims.blackcat.nl/messages/narvel_felts.htm'
 network_extracted: true
 entry_created: '2025-11-11T09:21:17.488012'
 last_updated: '2025-12-23T08:16:13.444570'
@@ -84,7 +85,8 @@ disambiguation: country singer
 gender: Male
 musicbrainz_id: 7b2d7a70-5c1c-4cb0-93f7-dd627a45662c
 tags:
-- rockabilly
+  - rockabilly
+origin: 'Bernie, Missouri, United States'
 ---
 
 ![](narvel_felts.jpg)

@@ -1,20 +1,20 @@
 ---
-title: LIGHTNIN HOPKINS
+title: Lightnin Hopkins
 wiki_slug: lightnin-hopkins
 schema_version: 2
 status: active
-birth_place: Centerville, Texas, United States
+birth_place: 'Centerville, Texas, United States'
 genres:
-- blues
-- classic blues
-- country blues
+  - blues
+  - classic blues
+  - country blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lightnin_hopkins.jpg
   caption: LIGHTNIN HOPKINS
   background: solo_singer
-  origin: Centerville, Texas, United States
+  origin: 'Centerville, Texas, United States'
 audio_profile:
-  tempo_avg: 125.0
+  tempo_avg: 125
   energy_avg: 0.282
   valence_avg: 0.475
   danceability_avg: 0.569
@@ -28,49 +28,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Wilson "Thunder" Smith
-  - John Henry and Joel Hopkins
-  - Texas Alexander
+    - Wilson "Thunder" Smith
+    - John Henry and Joel Hopkins
+    - Texas Alexander
   influenced:
-  - Stevie Ray Vaughan
-  - Townes Van Zandt
-  - Hank Williams, Jr.
+    - Stevie Ray Vaughan
+    - Townes Van Zandt
+    - 'Hank Williams, Jr.'
   mentors:
-  - Blind Lemon Jefferson
-  - Texas Alexander
+    - Blind Lemon Jefferson
+    - Texas Alexander
 spotify_data:
   followers: 286869
   id: 6EZzVXM2uDRPmnHWq9yPDE
   popularity: 42
-  url: https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE
+  url: 'https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE'
 discography_enriched: true
 top_tracks:
-- My Man (The Burning Spider)
-- Mojo Hand (Mojo Hand)
-- The Burning Spider (The Burning Spider)
-- Back To New Orleans (The Complete Prestige / Bluesville Recordings)
-- Woke up This Morning (Lightnin' Strikes, Vol. 1)
-- Bring Me My Shotgun (Mojo Hand Anthology)
-- Devil Is Watching You (Lightnin' Strikes)
-- Black Ghost Blues (Double Blues)
-- Automobile Blues (The Complete Prestige / Bluesville Recordings)
-- Give Me Central 209 (Mojo Hand Anthology)
+  - My Man (The Burning Spider)
+  - Mojo Hand (Mojo Hand)
+  - The Burning Spider (The Burning Spider)
+  - Back To New Orleans (The Complete Prestige / Bluesville Recordings)
+  - 'Woke up This Morning (Lightnin'' Strikes, Vol. 1)'
+  - Bring Me My Shotgun (Mojo Hand Anthology)
+  - Devil Is Watching You (Lightnin' Strikes)
+  - Black Ghost Blues (Double Blues)
+  - Automobile Blues (The Complete Prestige / Bluesville Recordings)
+  - Give Me Central 209 (Mojo Hand Anthology)
 external_urls:
-  spotify: https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE
-  wikipedia: https://en.wikipedia.org/wiki/Lightnin'_Hopkins
+  spotify: 'https://open.spotify.com/artist/6EZzVXM2uDRPmnHWq9yPDE'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lightnin''_Hopkins'
 image_path: 03_Resources/source_material/ArtistPortraits/lightnin_hopkins.jpg
 biography_enhanced_at: '2025-10-28T09:11:36.794123'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Lightnin'_Hopkins
-- https://www.tshaonline.org/handbook/entries/hopkins-sam-lightnin
-- https://aaregistry.org/story/the-best-of-texas-blues-lightnin-hopkins/
-- https://concord.com/artist/lightnin-hopkins/
-- https://teachrock.org/people/hopkins-lightnin/
+  - 'https://en.wikipedia.org/wiki/Lightnin''_Hopkins'
+  - 'https://www.tshaonline.org/handbook/entries/hopkins-sam-lightnin'
+  - 'https://aaregistry.org/story/the-best-of-texas-blues-lightnin-hopkins/'
+  - 'https://concord.com/artist/lightnin-hopkins/'
+  - 'https://teachrock.org/people/hopkins-lightnin/'
 network_extracted: true
 entry_created: '2025-10-28T09:11:36.794164'
 last_updated: '2025-12-23T08:16:11.905479'
+birth_date: '1912-03-15'
+artist_type: person
 ---
 
 ![](lightnin_hopkins.jpg)

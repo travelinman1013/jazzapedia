@@ -1,46 +1,47 @@
 ---
 biography_enhanced_at: '2025-12-25T01:10:54.138357'
 birth_date: '2005-01-01'
-birth_place: Decatur, Alabama, United States
+birth_place: 'Decatur, Alabama, United States'
 enhancement_provider: perplexity
 entry_created: '2025-12-25T01:10:54.138371'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7100e052-9adf-45bc-a277-1d7a6c0964a7
-  spotify: https://open.spotify.com/artist/3avnA23xLmCYfnsivruOgq
+  musicbrainz: 'https://musicbrainz.org/artist/7100e052-9adf-45bc-a277-1d7a6c0964a7'
+  spotify: 'https://open.spotify.com/artist/3avnA23xLmCYfnsivruOgq'
   wikipedia: ''
 genres:
-- retro soul
+  - retro soul
 image_path: 03_Resources/source_material/ArtistPortraits/lamont_landers.jpg
 last_updated: '2025-12-25T01:10:54.138373'
 musical_connections:
   collaborators:
-  - The Lamont Landers Band (four-piece ensemble)
-  - Dave Cobb
-  - Lucile (Republic Records imprint)
+    - The Lamont Landers Band (four-piece ensemble)
+    - Dave Cobb
+    - Lucile (Republic Records imprint)
   influenced:
-  - ''
+    - ''
   mentors:
-  - Al Green
-  - Sly & The Family Stone
-  - Ray Charles
-  - Stevie Wonder
+    - Al Green
+    - Sly & The Family Stone
+    - Ray Charles
+    - Stevie Wonder
 musicbrainz_id: 7100e052-9adf-45bc-a277-1d7a6c0964a7
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.lamontlanders.com/bio/
-- https://crescentmoonentertainment.com/lamont-landers-band/
-- https://www.viberate.com/artist/lamont-landers/
-- https://www.cactusclubmilwaukee.com/artists/lamont-landers/
-- https://agt.fandom.com/wiki/Lamont_Landers
-- https://musicgardenbands.com/lamont-landers-band.html
+  - 'https://www.lamontlanders.com/bio/'
+  - 'https://crescentmoonentertainment.com/lamont-landers-band/'
+  - 'https://www.viberate.com/artist/lamont-landers/'
+  - 'https://www.cactusclubmilwaukee.com/artists/lamont-landers/'
+  - 'https://agt.fandom.com/wiki/Lamont_Landers'
+  - 'https://musicgardenbands.com/lamont-landers-band.html'
 spotify_data:
   followers: 41636
   id: 3avnA23xLmCYfnsivruOgq
   popularity: 40
-  url: https://open.spotify.com/artist/3avnA23xLmCYfnsivruOgq
+  url: 'https://open.spotify.com/artist/3avnA23xLmCYfnsivruOgq'
 status: active
 title: Lamont Landers
+artist_type: person
 ---
 
 ![](lamont_landers.jpg)

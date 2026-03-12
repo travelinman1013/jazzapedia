@@ -2,20 +2,20 @@
 title: Dead Kennedys
 wiki_slug: dead-kennedys
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: 1978-06
 genres:
-- punk
-- hardcore punk
-- skate punk
-- proto-punk
+  - punk
+  - hardcore punk
+  - skate punk
+  - proto-punk
 instruments:
-- electric guitar
-- original
-- drums (drum set)
-- lead vocals
-- electric bass guitar
+  - electric guitar
+  - original
+  - drums (drum set)
+  - lead vocals
+  - electric bass guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/dead_kennedys.jpg
   caption: Dead Kennedys
@@ -28,7 +28,7 @@ audio_profile:
   danceability_avg: 0.318
   acousticness_avg: 0.146
   instrumentalness_avg: 0.043
-  loudness_avg: -5.0
+  loudness_avg: -5
   speechiness_avg: 0.136
   liveness_avg: 0.242
   track_count: 49
@@ -36,181 +36,183 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - East Bay Ray
-  - Klaus Flouride
-  - Jello Biafra
-  - D.H. Peligro
-  - Brandon Cruz
+    - East Bay Ray
+    - Klaus Flouride
+    - Jello Biafra
+    - D.H. Peligro
+    - Brandon Cruz
   influenced:
-  - Numerous hardcore and punk bands
+    - Numerous hardcore and punk bands
   mentors:
-  - Sex Pistols
+    - Sex Pistols
 spotify_data:
   followers: 955845
   id: 30U8fYtiNpeA5KH6H87QUV
   popularity: 56
-  url: https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV
+  url: 'https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV'
 discography_enriched: true
 top_tracks:
-- California Über Alles
-- Holiday in Cambodia - Single Version (Fresh Fruit For Rotting Vegetables (Expanded Edition))
-- Police Truck
-- Holiday in Cambodia
-- Police Truck (Fresh Fruit For Rotting Vegetables (Expanded Edition))
-- Nazi Punks Fuck Off
-- I Fought the Law
-- Too Drunk to Fuck (Fresh Fruit For Rotting Vegetables (Expanded Edition))
-- Too Drunk to Fuck
-- Short Songs (Live) (Live At The Deaf Club)
+  - California Über Alles
+  - >-
+    Holiday in Cambodia - Single Version (Fresh Fruit For Rotting Vegetables
+    (Expanded Edition))
+  - Police Truck
+  - Holiday in Cambodia
+  - Police Truck (Fresh Fruit For Rotting Vegetables (Expanded Edition))
+  - Nazi Punks Fuck Off
+  - I Fought the Law
+  - Too Drunk to Fuck (Fresh Fruit For Rotting Vegetables (Expanded Edition))
+  - Too Drunk to Fuck
+  - Short Songs (Live) (Live At The Deaf Club)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/37c78aeb-d196-42b5-b991-6afb4fc9bc2e
-  spotify: https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV
-  wikipedia: https://en.wikipedia.org/wiki/Dead_Kennedys
+  musicbrainz: 'https://musicbrainz.org/artist/37c78aeb-d196-42b5-b991-6afb4fc9bc2e'
+  spotify: 'https://open.spotify.com/artist/30U8fYtiNpeA5KH6H87QUV'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dead_Kennedys'
 image_path: 03_Resources/source_material/ArtistPortraits/dead_kennedys.jpg
 biography_enhanced_at: '2025-12-04T07:43:09.827554'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Dead Kennedys
-- Dead Kennedys Official Website
-- TeachRock - Dead Kennedys
-- Simple English Wikipedia - Dead Kennedys
+  - Wikipedia - Dead Kennedys
+  - Dead Kennedys Official Website
+  - TeachRock - Dead Kennedys
+  - Simple English Wikipedia - Dead Kennedys
 network_extracted: true
 entry_created: '2025-12-04T07:43:09.827562'
 last_updated: '2025-12-23T08:16:07.621533'
 disambiguation: American punk rock band
 members:
-- begin: 1978-07
-  end: 1979-03
-  instruments:
-  - electric guitar
-  - original
-  mbid: 3a754647-3435-4ad3-bb76-e48c9819e88c
-  name: '6025'
-- begin: 1978-07
-  end: '1980'
-  instruments:
-  - drums (drum set)
-  - original
-  mbid: b7abb137-7b37-4627-89ed-0f94f6aeb83c
-  name: Ted
-- begin: 1978-07
-  end: '1986'
-  instruments:
-  - lead vocals
-  - original
-  mbid: 2280ca0e-6968-4349-8c36-cb0cbd6ee95f
-  name: Jello Biafra
-- begin: 1978-07
-  end: '1986'
-  instruments:
-  - electric bass guitar
-  - original
-  mbid: 47b649ae-91d2-4a9f-a34c-b35c06498dc5
-  name: Klaus Flouride
-- begin: 1978-07
-  end: '1986'
-  instruments:
-  - electric guitar
-  - original
-  mbid: d8559d8b-a8ee-4174-b5f1-226fe5e2891a
-  name: East Bay Ray
-- begin: '1980'
-  end: '1986'
-  instruments:
-  - drums (drum set)
-  mbid: af1735a0-8e58-41f7-a091-03d2578e9a51
-  name: D.H. Peligro
-- begin: '2001'
-  end: '2003'
-  instruments:
-  - lead vocals
-  mbid: c8899e23-4fbf-42d5-ba1d-4f15b561c639
-  name: Brandon Cruz
-- begin: '2001'
-  end: '2008'
-  instruments:
-  - drums (drum set)
-  mbid: af1735a0-8e58-41f7-a091-03d2578e9a51
-  name: D.H. Peligro
-- begin: '2001'
-  end: '2010'
-  instruments:
-  - electric bass guitar
-  - original
-  mbid: 47b649ae-91d2-4a9f-a34c-b35c06498dc5
-  name: Klaus Flouride
-- &id001
-  begin: '2001'
-  end: ''
-  instruments:
-  - electric guitar
-  - original
-  mbid: d8559d8b-a8ee-4174-b5f1-226fe5e2891a
-  name: East Bay Ray
-- begin: '2003'
-  end: '2008'
-  instruments:
-  - lead vocals
-  mbid: abca138c-e142-4424-8c90-d26bf3b6835b
-  name: Jeff Penalty
-- begin: '2008'
-  end: '2008'
-  instruments:
-  - drums (drum set)
-  mbid: 0cc026bd-ccbf-40a0-b1a0-0940044b2593
-  name: Dave Scheff
-- &id002
-  begin: '2008'
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: d98505c0-ab7c-403f-a122-9b0268cb384e
-  name: Skip Greer
-- begin: '2009'
-  end: '2022'
-  instruments:
-  - drums (drum set)
-  mbid: af1735a0-8e58-41f7-a091-03d2578e9a51
-  name: D.H. Peligro
-- begin: '2010'
-  end: '2011'
-  instruments:
-  - electric bass guitar
-  mbid: e013073d-3800-4ee9-8a7e-20eb088eb3e1
-  name: Greg Reeves
-- &id003
-  begin: '2011'
-  end: ''
-  instruments:
-  - electric bass guitar
-  - original
-  mbid: 47b649ae-91d2-4a9f-a34c-b35c06498dc5
-  name: Klaus Flouride
-- begin: '2023'
-  end: '2023'
-  instruments:
-  - drums (drum set)
-  mbid: 87b49287-f740-4812-a0e6-9c4a695fdeb7
-  name: Santi Guardiola
-- &id004
-  begin: '2023'
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: fc2df7e2-1da7-44fa-b012-22f3af8ae99b
-  name: Steve Wilson
+  - begin: 1978-07
+    end: 1979-03
+    instruments:
+      - electric guitar
+      - original
+    mbid: 3a754647-3435-4ad3-bb76-e48c9819e88c
+    name: '6025'
+  - begin: 1978-07
+    end: '1980'
+    instruments:
+      - drums (drum set)
+      - original
+    mbid: b7abb137-7b37-4627-89ed-0f94f6aeb83c
+    name: Ted
+  - begin: 1978-07
+    end: '1986'
+    instruments:
+      - lead vocals
+      - original
+    mbid: 2280ca0e-6968-4349-8c36-cb0cbd6ee95f
+    name: Jello Biafra
+  - begin: 1978-07
+    end: '1986'
+    instruments:
+      - electric bass guitar
+      - original
+    mbid: 47b649ae-91d2-4a9f-a34c-b35c06498dc5
+    name: Klaus Flouride
+  - begin: 1978-07
+    end: '1986'
+    instruments:
+      - electric guitar
+      - original
+    mbid: d8559d8b-a8ee-4174-b5f1-226fe5e2891a
+    name: East Bay Ray
+  - begin: '1980'
+    end: '1986'
+    instruments:
+      - drums (drum set)
+    mbid: af1735a0-8e58-41f7-a091-03d2578e9a51
+    name: D.H. Peligro
+  - begin: '2001'
+    end: '2003'
+    instruments:
+      - lead vocals
+    mbid: c8899e23-4fbf-42d5-ba1d-4f15b561c639
+    name: Brandon Cruz
+  - begin: '2001'
+    end: '2008'
+    instruments:
+      - drums (drum set)
+    mbid: af1735a0-8e58-41f7-a091-03d2578e9a51
+    name: D.H. Peligro
+  - begin: '2001'
+    end: '2010'
+    instruments:
+      - electric bass guitar
+      - original
+    mbid: 47b649ae-91d2-4a9f-a34c-b35c06498dc5
+    name: Klaus Flouride
+  - &ref_0
+    begin: '2001'
+    end: ''
+    instruments:
+      - electric guitar
+      - original
+    mbid: d8559d8b-a8ee-4174-b5f1-226fe5e2891a
+    name: East Bay Ray
+  - begin: '2003'
+    end: '2008'
+    instruments:
+      - lead vocals
+    mbid: abca138c-e142-4424-8c90-d26bf3b6835b
+    name: Jeff Penalty
+  - begin: '2008'
+    end: '2008'
+    instruments:
+      - drums (drum set)
+    mbid: 0cc026bd-ccbf-40a0-b1a0-0940044b2593
+    name: Dave Scheff
+  - &ref_1
+    begin: '2008'
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: d98505c0-ab7c-403f-a122-9b0268cb384e
+    name: Skip Greer
+  - begin: '2009'
+    end: '2022'
+    instruments:
+      - drums (drum set)
+    mbid: af1735a0-8e58-41f7-a091-03d2578e9a51
+    name: D.H. Peligro
+  - begin: '2010'
+    end: '2011'
+    instruments:
+      - electric bass guitar
+    mbid: e013073d-3800-4ee9-8a7e-20eb088eb3e1
+    name: Greg Reeves
+  - &ref_2
+    begin: '2011'
+    end: ''
+    instruments:
+      - electric bass guitar
+      - original
+    mbid: 47b649ae-91d2-4a9f-a34c-b35c06498dc5
+    name: Klaus Flouride
+  - begin: '2023'
+    end: '2023'
+    instruments:
+      - drums (drum set)
+    mbid: 87b49287-f740-4812-a0e6-9c4a695fdeb7
+    name: Santi Guardiola
+  - &ref_3
+    begin: '2023'
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: fc2df7e2-1da7-44fa-b012-22f3af8ae99b
+    name: Steve Wilson
 musicbrainz_id: 37c78aeb-d196-42b5-b991-6afb4fc9bc2e
-origin: San Francisco
+origin: 'San Francisco, California, United States'
 original_members:
-- *id001
-- *id002
-- *id003
-- *id004
+  - *ref_0
+  - *ref_1
+  - *ref_2
+  - *ref_3
 tags:
-- 80 s punk
-- hardcore
-- hardcore punk
+  - 80 s punk
+  - hardcore
+  - hardcore punk
 ---
 
 ![](dead_kennedys.jpg)

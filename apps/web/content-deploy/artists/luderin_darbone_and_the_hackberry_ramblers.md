@@ -3,46 +3,50 @@ biography_enhanced_at: '2026-01-05T07:53:25.002789'
 enhancement_provider: perplexity
 entry_created: '2026-01-05T07:53:25.002795'
 external_urls:
-  spotify: https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP
-  wikipedia: https://en.wikipedia.org/wiki/Luderin_Darbone
+  spotify: 'https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP'
+  wikipedia: 'https://en.wikipedia.org/wiki/Luderin_Darbone'
 genres:
-- alt country
-- americana
-- singer-songwriter
-- folk
-image_path: 03_Resources/source_material/ArtistPortraits/luderin_darbone_and_the_hackberry_ramblers.jpg
+  - alt country
+  - americana
+  - singer-songwriter
+  - folk
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/luderin_darbone_and_the_hackberry_ramblers.jpg
 last_updated: '2026-01-05T07:53:25.002796'
 musical_connections:
   collaborators:
-  - Edwin Duhon
-  - Lennis Sonnier
-  - Glen Croker
-  - Johnny Faulk
-  - Chris Strachwitz
+    - Edwin Duhon
+    - Lennis Sonnier
+    - Glen Croker
+    - Johnny Faulk
+    - Chris Strachwitz
   influenced: []
   mentors:
-  - New York correspondence school
+    - New York correspondence school
 network_extracted: true
-origin: Evangeline Parish, Louisiana, USA
+origin: 'Evangeline Parish, Louisiana, USA'
 primary_source: perplexity
 research_sources:
-- https://www.folkstreams.net/contexts/makem-dance-the-hackberry-ramblers-story-transcript
-- https://www.arts.gov/honors/heritage/luderin-darbone-and-edwin-duhon
-- https://arhoolie.org/hackberry-ramblers/
-- https://www.michaeltisserand.com/article-the-hackberry-ramblers
-- https://en.wikipedia.org/wiki/Luderin_Darbone
-- http://www.mastersoftraditionalarts.org/artists/76?selected_facets=tradition_exact%3AAccordionist
-- https://www.countrymusichalloffame.org/oral-history/luderin-darbone
-- https://www.acadianmuseum.com/living-legend/luderin-darbone/
-- https://www.louisianalife.com/luderin-darbone-a-life-as-a-rambler/
+  - >-
+    https://www.folkstreams.net/contexts/makem-dance-the-hackberry-ramblers-story-transcript
+  - 'https://www.arts.gov/honors/heritage/luderin-darbone-and-edwin-duhon'
+  - 'https://arhoolie.org/hackberry-ramblers/'
+  - 'https://www.michaeltisserand.com/article-the-hackberry-ramblers'
+  - 'https://en.wikipedia.org/wiki/Luderin_Darbone'
+  - >-
+    http://www.mastersoftraditionalarts.org/artists/76?selected_facets=tradition_exact%3AAccordionist
+  - 'https://www.countrymusichalloffame.org/oral-history/luderin-darbone'
+  - 'https://www.acadianmuseum.com/living-legend/luderin-darbone/'
+  - 'https://www.louisianalife.com/luderin-darbone-a-life-as-a-rambler/'
 spotify_data:
   followers: 281175
   id: 60ht0hWRy1yjUDfNsLuHuP
   popularity: 52
-  url: https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP
+  url: 'https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP'
 status: active
-title: Luderin Darbone & the Hackberry ramblers
-
+title: Luderin Darbone & the Hackberry Ramblers
+birth_place: 'Evangeline Parish, Louisiana, United States'
+artist_type: band
 ---
 
 ![](luderin_darbone_and_the_hackberry_ramblers.jpg)

@@ -5,26 +5,26 @@ schema_version: 2
 status: deceased
 aliases: []
 birth_date: '1909-12-07'
-birth_place: Birmingham, Alabama, United States
+birth_place: 'Birmingham, Alabama, United States'
 death_date: '1978-05-19'
 years_active: 1929-1978
 genres:
-- bebop
-- big band
+  - bebop
+  - big band
 instruments:
-- saxophone
+  - saxophone
 occupation:
-- bandleader
-- conductor
-- saxophonist
-- jazz musician
-- composer
+  - bandleader
+  - conductor
+  - saxophonist
+  - jazz musician
+  - composer
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Teddy_Hill.jpg
   caption: Teddy Hill
   background: non_vocal_instrumentalist
   born: '1909-12-07'
-  origin: Birmingham, Alabama, United States
+  origin: 'Birmingham, Alabama, United States'
   died: '1978-05-19'
 audio_profile:
   tempo_avg: 139.1
@@ -41,56 +41,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dizzy Gillespie
-  - Roy Eldridge
-  - Chu Berry
-  - Dicky Wells
+    - Dizzy Gillespie
+    - Roy Eldridge
+    - Chu Berry
+    - Dicky Wells
   influenced:
-  - Thelonious Monk
-  - Kenny Clarke
-  - Charlie Christian
-  - Dizzy Gillespie
+    - Thelonious Monk
+    - Kenny Clarke
+    - Charlie Christian
+    - Dizzy Gillespie
   mentors:
-  - Luis Russell
+    - Luis Russell
 related_artists: []
 spotify_data:
   followers: 318
   id: 6RcS0R1ApjQDjEnMMMeoVa
   popularity: 15
-  url: https://open.spotify.com/artist/6RcS0R1ApjQDjEnMMMeoVa
+  url: 'https://open.spotify.com/artist/6RcS0R1ApjQDjEnMMMeoVa'
   verified: false
 discography_enriched: true
 albums_count: 0
 singles_count: 1
 top_tracks:
-- Don't Go With Him (Stone Cold Country of the 60's & 70's, Vol. 2)
-- Stagger Lee (Stone Cold Country of the 60's & 70's, Vol. 2)
-- I Just Dropped In (Super Country Hits, Vol. 1)
-- I Just Dropped In (To See What Condition My Condition Was In) (Double Shot of Country, Vol. 1)
-- Stagger Lee (Late Nite Country)
-- Stagger Lee (Double Shot of Country, Vol. 2)
-- Stagger Lee
-- I Just Dropped in (To See What Condition My Condition Was In) (I Just Dropped in (To See What Condition My Condition Was
-  In) - Single)
-- King Porter Stomp - 1994 Remastered
-- Stagger Lee (I Just Dropped in (To See What Condition My Condition Was In) - Single)
+  - 'Don''t Go With Him (Stone Cold Country of the 60''s & 70''s, Vol. 2)'
+  - 'Stagger Lee (Stone Cold Country of the 60''s & 70''s, Vol. 2)'
+  - 'I Just Dropped In (Super Country Hits, Vol. 1)'
+  - >-
+    I Just Dropped In (To See What Condition My Condition Was In) (Double Shot
+    of Country, Vol. 1)
+  - Stagger Lee (Late Nite Country)
+  - 'Stagger Lee (Double Shot of Country, Vol. 2)'
+  - Stagger Lee
+  - >-
+    I Just Dropped in (To See What Condition My Condition Was In) (I Just
+    Dropped in (To See What Condition My Condition Was In) - Single)
+  - King Porter Stomp - 1994 Remastered
+  - >-
+    Stagger Lee (I Just Dropped in (To See What Condition My Condition Was In) -
+    Single)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/6RcS0R1ApjQDjEnMMMeoVa
-  wikipedia: https://en.wikipedia.org/wiki/Teddy_Hill
+  spotify: 'https://open.spotify.com/artist/6RcS0R1ApjQDjEnMMMeoVa'
+  wikipedia: 'https://en.wikipedia.org/wiki/Teddy_Hill'
 image_path: 03_Resources/source_material/ArtistPortraits/Teddy_Hill.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:59:25.492311'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Teddy_Hill
-- https://music.apple.com/us/artist/teddy-hill/19063983
-- https://www.last.fm/music/Teddy+Hill/+wiki
+  - 'https://en.wikipedia.org/wiki/Teddy_Hill'
+  - 'https://music.apple.com/us/artist/teddy-hill/19063983'
+  - 'https://www.last.fm/music/Teddy+Hill/+wiki'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 12:55:24.158976
+entry_created: 2025-09-18T12:55:24.158Z
 last_updated: '2025-12-23T08:16:03.998549'
+is_active: false
+origin: 'New York City, New York, United States'
+artist_type: band
 ---
 
 ![](Teddy_Hill.jpg)

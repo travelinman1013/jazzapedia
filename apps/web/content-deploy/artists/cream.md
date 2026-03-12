@@ -1,15 +1,15 @@
 ---
-title: cream
+title: Cream
 wiki_slug: cream
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: 1966-07
 genres:
-- classic rock
-- psychedelic rock
-- acid rock
-- blues rock
+  - classic rock
+  - psychedelic rock
+  - acid rock
+  - blues rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/cream.jpg
   caption: cream
@@ -30,72 +30,73 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Eric Clapton
-  - Jack Bruce
-  - Ginger Baker
+    - Eric Clapton
+    - Jack Bruce
+    - Ginger Baker
   influenced:
-  - Led Zeppelin
-  - Rush
-  - Jimi Hendrix
+    - Led Zeppelin
+    - Rush
+    - Jimi Hendrix
   mentors:
-  - John Mayall
-  - Graham Bond
+    - John Mayall
+    - Graham Bond
 spotify_data:
   followers: 2640518
   id: 74oJ4qxwOZvX6oSsu1DGnw
   popularity: 61
-  url: https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw
+  url: 'https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw'
 discography_enriched: true
 top_tracks:
-- Sunshine Of Your Love (Disraeli Gears (Deluxe Edition))
-- White Room (Wheels Of Fire)
-- Sunshine Of Your Love (Disraeli Gears)
-- Strange Brew (Disraeli Gears (Deluxe Edition))
-- I Feel Free (Fresh Cream)
-- Crossroads - Live (Wheels Of Fire)
-- Tales Of Brave Ulysses (Disraeli Gears (Deluxe Edition))
-- Badge (Goodbye)
-- Born Under A Bad Sign (Wheels Of Fire)
-- SWLABR (Disraeli Gears (Deluxe Edition))
+  - Sunshine Of Your Love (Disraeli Gears (Deluxe Edition))
+  - White Room (Wheels Of Fire)
+  - Sunshine Of Your Love (Disraeli Gears)
+  - Strange Brew (Disraeli Gears (Deluxe Edition))
+  - I Feel Free (Fresh Cream)
+  - Crossroads - Live (Wheels Of Fire)
+  - Tales Of Brave Ulysses (Disraeli Gears (Deluxe Edition))
+  - Badge (Goodbye)
+  - Born Under A Bad Sign (Wheels Of Fire)
+  - SWLABR (Disraeli Gears (Deluxe Edition))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f
-  spotify: https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw
-  wikipedia: https://en.wikipedia.org/wiki/Cream_(band)
+  musicbrainz: 'https://musicbrainz.org/artist/04cd0cfd-bfd1-4c36-bc38-95c35e2c045f'
+  spotify: 'https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw'
+  wikipedia: 'https://en.wikipedia.org/wiki/Cream_(band)'
 image_path: 03_Resources/source_material/ArtistPortraits/cream.jpg
 biography_enhanced_at: '2025-11-06T13:27:42.191707'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.guitarworld.com/features/the-story-of-cream
-- https://www.youtube.com/watch?v=HO-bBd8gLxk
-- https://www.guitarplayer.com/guitarists/when-eric-clapton-met-jack-bruce-and-the-formation-of-cream
-- https://study.com/academy/lesson/cream-band-history-members-songs-rock.html
+  - 'https://www.guitarworld.com/features/the-story-of-cream'
+  - 'https://www.youtube.com/watch?v=HO-bBd8gLxk'
+  - >-
+    https://www.guitarplayer.com/guitarists/when-eric-clapton-met-jack-bruce-and-the-formation-of-cream
+  - 'https://study.com/academy/lesson/cream-band-history-members-songs-rock.html'
 network_extracted: true
 entry_created: '2025-11-06T13:27:42.191728'
 last_updated: '2025-12-23T08:16:07.280468'
 disambiguation: British 1960s rock supergroup
 members:
-- begin: 1966-07
-  end: 1968-11
-  instruments: []
-  mbid: e01d1aff-9cc2-4606-83d7-56445515c6e6
-  name: Ginger Baker
-- begin: 1966-07
-  end: 1968-11
-  instruments: []
-  mbid: 94a24504-3548-4bde-a89b-273d277d194e
-  name: Jack Bruce
-- begin: 1966-07
-  end: 1968-11
-  instruments: []
-  mbid: 618b6900-0618-4f1e-b835-bccb17f84294
-  name: Eric Clapton
+  - begin: 1966-07
+    end: 1968-11
+    instruments: []
+    mbid: e01d1aff-9cc2-4606-83d7-56445515c6e6
+    name: Ginger Baker
+  - begin: 1966-07
+    end: 1968-11
+    instruments: []
+    mbid: 94a24504-3548-4bde-a89b-273d277d194e
+    name: Jack Bruce
+  - begin: 1966-07
+    end: 1968-11
+    instruments: []
+    mbid: 618b6900-0618-4f1e-b835-bccb17f84294
+    name: Eric Clapton
 musicbrainz_id: 04cd0cfd-bfd1-4c36-bc38-95c35e2c045f
-origin: London
+origin: 'London, England, United Kingdom'
 tags:
-- acid rock
-- blues rock
-- classic rock
+  - acid rock
+  - blues rock
+  - classic rock
 ---
 
 ![](cream.jpg)

@@ -1,13 +1,13 @@
 ---
-title: THE BLACK CROWES
+title: The Black Crowes
 wiki_slug: the-black-crowes
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1989'
 genres:
-- southern rock
-- rock
+  - southern rock
+  - rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_black_crowes.jpg
   caption: THE BLACK CROWES
@@ -28,163 +28,162 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sven Pipien
-  - Steve Gorman
-  - Marc Ford
-  - Eddie Harsch
-  - Luther Dickinson
-  - Jimmy Page
+    - Sven Pipien
+    - Steve Gorman
+    - Marc Ford
+    - Eddie Harsch
+    - Luther Dickinson
+    - Jimmy Page
   influenced: []
   mentors:
-  - George Drakoulias
-  - The Faces
-  - Humble Pie
-  - Rolling Stones
+    - George Drakoulias
+    - The Faces
+    - Humble Pie
+    - Rolling Stones
 spotify_data:
   followers: 889042
   id: 5krkohEVJYw0qoB5VWwxaC
   popularity: 61
-  url: https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC
+  url: 'https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC'
 discography_enriched: true
 top_tracks:
-- Hard To Handle (Shake Your Money Maker)
-- She Talks To Angels (Shake Your Money Maker)
-- Remedy (The Southern Harmony And Musical Companion)
-- Twice As Hard (Shake Your Money Maker)
-- Jealous Again (Shake Your Money Maker)
-- Seeing Things (Shake Your Money Maker)
-- Thorn In My Pride (The Southern Harmony And Musical Companion)
-- Wiser Time (Amorica.)
-- Sister Luck (Shake Your Money Maker)
-- Wilted Rose (feat. Lainey Wilson) (Happiness Bastards)
+  - Hard To Handle (Shake Your Money Maker)
+  - She Talks To Angels (Shake Your Money Maker)
+  - Remedy (The Southern Harmony And Musical Companion)
+  - Twice As Hard (Shake Your Money Maker)
+  - Jealous Again (Shake Your Money Maker)
+  - Seeing Things (Shake Your Money Maker)
+  - Thorn In My Pride (The Southern Harmony And Musical Companion)
+  - Wiser Time (Amorica.)
+  - Sister Luck (Shake Your Money Maker)
+  - Wilted Rose (feat. Lainey Wilson) (Happiness Bastards)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/02ceff75-7363-493e-a78d-912dc86c7460
-  spotify: https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC
-  wikipedia: https://en.wikipedia.org/wiki/The_Black_Crowes
+  musicbrainz: 'https://musicbrainz.org/artist/02ceff75-7363-493e-a78d-912dc86c7460'
+  spotify: 'https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Black_Crowes'
 image_path: 03_Resources/source_material/ArtistPortraits/the_black_crowes.jpg
 biography_enhanced_at: '2025-12-23T02:00:29.309637'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Black_Crowes
-- https://americansongwriter.com/behind-the-band-name-the-black-crowes/
-- https://www.last.fm/music/The+Black+Crowes/+wiki
-- https://www.redlightmanagement.com/artists/the-black-crowes/
-- https://www.allmusic.com/artist/the-black-crowes-mn0000048566
+  - 'https://en.wikipedia.org/wiki/The_Black_Crowes'
+  - 'https://americansongwriter.com/behind-the-band-name-the-black-crowes/'
+  - 'https://www.last.fm/music/The+Black+Crowes/+wiki'
+  - 'https://www.redlightmanagement.com/artists/the-black-crowes/'
+  - 'https://www.allmusic.com/artist/the-black-crowes-mn0000048566'
 network_extracted: true
 entry_created: '2025-12-23T02:00:29.309647'
 last_updated: '2025-12-23T08:16:16.559682'
 members:
-- begin: '1989'
-  end: '1992'
-  instruments: []
-  mbid: e729510d-1e2c-466d-b530-27aa9d9e8090
-  name: Jeff Cease
-- begin: '1989'
-  end: '1999'
-  instruments: []
-  mbid: fc0dfddb-e17a-4192-87c5-f8469b9c072c
-  name: Johnny Colt
-- begin: '1989'
-  end: '2002'
-  instruments: []
-  mbid: d7d7aec3-df93-4681-af1f-9821b00e78b0
-  name: Steve Gorman
-- &id001
-  begin: '1989'
-  end: ''
-  instruments: []
-  mbid: c94e70a2-c16f-48fa-90ac-884378540f01
-  name: Chris Robinson
-- &id002
-  begin: '1989'
-  end: ''
-  instruments: []
-  mbid: c3ac8528-dbb4-455c-b2ce-ee2b4da3458d
-  name: Rich Robinson
-- begin: '1992'
-  end: '1999'
-  instruments: []
-  mbid: 490a40c1-f0c4-4203-b62b-0d5e25cf6412
-  name: Marc Ford
-- begin: '1992'
-  end: 2006-08
-  instruments: []
-  mbid: 7a2a8977-6268-4110-8943-61e63310687f
-  name: Eddie Harsch
-- begin: '1999'
-  end: '2001'
-  instruments: []
-  mbid: d3f1f3a1-91d6-4f61-ba38-bbc89b4b3332
-  name: Sven Pipien
-- begin: '1999'
-  end: '2002'
-  instruments: []
-  mbid: 8412b5d5-4a63-4cb2-8be3-476f2cb33611
-  name: Audley Freed
-- begin: '2001'
-  end: '2002'
-  instruments: []
-  mbid: 90a68e6f-2763-4c1c-a449-0c5e1e010612
-  name: Greg Rzab
-- begin: '2002'
-  end: '2002'
-  instruments: []
-  mbid: 14f65d3b-cf35-4ae9-8c76-007a5fa9ca51
-  name: Andy Hess
-- begin: '2005'
-  end: '2005'
-  instruments: []
-  mbid: 0875c90e-3a3f-4c32-92a9-ba26b44efded
-  name: Bill Dobrow
-- begin: '2005'
-  end: 2006-09
-  instruments: []
-  mbid: 490a40c1-f0c4-4203-b62b-0d5e25cf6412
-  name: Marc Ford
-- &id003
-  begin: '2005'
-  end: ''
-  instruments: []
-  mbid: d7d7aec3-df93-4681-af1f-9821b00e78b0
-  name: Steve Gorman
-- &id004
-  begin: '2005'
-  end: ''
-  instruments: []
-  mbid: d3f1f3a1-91d6-4f61-ba38-bbc89b4b3332
-  name: Sven Pipien
-- &id005
-  begin: '2007-11-27'
-  end: ''
-  instruments: []
-  mbid: 9cfa6a66-d2e6-46fe-b055-d91b397d3977
-  name: Luther Dickinson
-- begin: '2007'
-  end: '2011'
-  instruments: []
-  mbid: dec88822-89d2-40c5-a339-72309952c5da
-  name: Adam MacDougall
-- &id006
-  begin: '2013'
-  end: ''
-  instruments: []
-  mbid: dec88822-89d2-40c5-a339-72309952c5da
-  name: Adam MacDougall
+  - begin: '1989'
+    end: '1992'
+    instruments: []
+    mbid: e729510d-1e2c-466d-b530-27aa9d9e8090
+    name: Jeff Cease
+  - begin: '1989'
+    end: '1999'
+    instruments: []
+    mbid: fc0dfddb-e17a-4192-87c5-f8469b9c072c
+    name: Johnny Colt
+  - begin: '1989'
+    end: '2002'
+    instruments: []
+    mbid: d7d7aec3-df93-4681-af1f-9821b00e78b0
+    name: Steve Gorman
+  - &ref_0
+    begin: '1989'
+    end: ''
+    instruments: []
+    mbid: c94e70a2-c16f-48fa-90ac-884378540f01
+    name: Chris Robinson
+  - &ref_1
+    begin: '1989'
+    end: ''
+    instruments: []
+    mbid: c3ac8528-dbb4-455c-b2ce-ee2b4da3458d
+    name: Rich Robinson
+  - begin: '1992'
+    end: '1999'
+    instruments: []
+    mbid: 490a40c1-f0c4-4203-b62b-0d5e25cf6412
+    name: Marc Ford
+  - begin: '1992'
+    end: 2006-08
+    instruments: []
+    mbid: 7a2a8977-6268-4110-8943-61e63310687f
+    name: Eddie Harsch
+  - begin: '1999'
+    end: '2001'
+    instruments: []
+    mbid: d3f1f3a1-91d6-4f61-ba38-bbc89b4b3332
+    name: Sven Pipien
+  - begin: '1999'
+    end: '2002'
+    instruments: []
+    mbid: 8412b5d5-4a63-4cb2-8be3-476f2cb33611
+    name: Audley Freed
+  - begin: '2001'
+    end: '2002'
+    instruments: []
+    mbid: 90a68e6f-2763-4c1c-a449-0c5e1e010612
+    name: Greg Rzab
+  - begin: '2002'
+    end: '2002'
+    instruments: []
+    mbid: 14f65d3b-cf35-4ae9-8c76-007a5fa9ca51
+    name: Andy Hess
+  - begin: '2005'
+    end: '2005'
+    instruments: []
+    mbid: 0875c90e-3a3f-4c32-92a9-ba26b44efded
+    name: Bill Dobrow
+  - begin: '2005'
+    end: 2006-09
+    instruments: []
+    mbid: 490a40c1-f0c4-4203-b62b-0d5e25cf6412
+    name: Marc Ford
+  - &ref_2
+    begin: '2005'
+    end: ''
+    instruments: []
+    mbid: d7d7aec3-df93-4681-af1f-9821b00e78b0
+    name: Steve Gorman
+  - &ref_3
+    begin: '2005'
+    end: ''
+    instruments: []
+    mbid: d3f1f3a1-91d6-4f61-ba38-bbc89b4b3332
+    name: Sven Pipien
+  - &ref_4
+    begin: '2007-11-27'
+    end: ''
+    instruments: []
+    mbid: 9cfa6a66-d2e6-46fe-b055-d91b397d3977
+    name: Luther Dickinson
+  - begin: '2007'
+    end: '2011'
+    instruments: []
+    mbid: dec88822-89d2-40c5-a339-72309952c5da
+    name: Adam MacDougall
+  - &ref_5
+    begin: '2013'
+    end: ''
+    instruments: []
+    mbid: dec88822-89d2-40c5-a339-72309952c5da
+    name: Adam MacDougall
 musicbrainz_id: 02ceff75-7363-493e-a78d-912dc86c7460
-origin: Atlanta
+origin: 'Atlanta, Georgia, United States'
 original_members:
-- *id001
-- *id002
-- *id003
-- *id004
-- *id005
-- *id006
+  - *ref_0
+  - *ref_1
+  - *ref_2
+  - *ref_3
+  - *ref_4
+  - *ref_5
 tags:
-- blues rock
-- hard rock
-- jam band
-
+  - blues rock
+  - hard rock
+  - jam band
 ---
 
 ![](the_black_crowes.jpg)

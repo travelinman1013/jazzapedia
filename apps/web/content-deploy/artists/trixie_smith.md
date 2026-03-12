@@ -1,44 +1,49 @@
 ---
 biography_enhanced_at: '2026-01-21T01:13:57.498610'
-birth_place: Atlanta, Georgia, United States
+birth_place: 'Atlanta, Georgia, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-21T01:13:57.498616'
 external_urls:
-  spotify: https://open.spotify.com/artist/2PZOCtYZ3hDMpMVN8yIHc9
-  wikipedia: https://en.wikipedia.org/wiki/Trixie_Smith
+  spotify: 'https://open.spotify.com/artist/2PZOCtYZ3hDMpMVN8yIHc9'
+  wikipedia: 'https://en.wikipedia.org/wiki/Trixie_Smith'
 genres:
-- classic blues
-- blues
+  - classic blues
+  - blues
 image_path: 03_Resources/source_material/ArtistPortraits/trixie_smith.jpg
 last_updated: '2026-01-21T01:13:57.498616'
 musical_connections:
   collaborators:
-  - Louis Armstrong
-  - Fletcher Henderson
-  - James P. Johnson
-  - Sidney Bechet
-  - Charlie Shavers
+    - Louis Armstrong
+    - Fletcher Henderson
+    - James P. Johnson
+    - Sidney Bechet
+    - Charlie Shavers
   influenced:
-  - Rose Piper
+    - Rose Piper
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Trixie+Smith/+wiki
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/smith-trixie-1895-1943
-- https://aaregistry.org/story/trixie-smith-singer-born/
-- https://www.youtube.com/watch?v=k-VHKqeKehA
-- https://en.wikipedia.org/wiki/Trixie_Smith
-- https://www.kunc.org/music/2013-11-09/trixie-smith-helped-give-us-the-term-rock-and-roll
-- https://blueshouse.bigbearmusic.com/blog/blues-roots/remembering-rosa-henderson-trixie-smith-and-the-texas-nightingale/
-- https://grannysbluemers.com/2017/09/08/trixie-smith/
+  - 'https://www.last.fm/music/Trixie+Smith/+wiki'
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/smith-trixie-1895-1943
+  - 'https://aaregistry.org/story/trixie-smith-singer-born/'
+  - 'https://www.youtube.com/watch?v=k-VHKqeKehA'
+  - 'https://en.wikipedia.org/wiki/Trixie_Smith'
+  - >-
+    https://www.kunc.org/music/2013-11-09/trixie-smith-helped-give-us-the-term-rock-and-roll
+  - >-
+    https://blueshouse.bigbearmusic.com/blog/blues-roots/remembering-rosa-henderson-trixie-smith-and-the-texas-nightingale/
+  - 'https://grannysbluemers.com/2017/09/08/trixie-smith/'
 spotify_data:
   followers: 6097
   id: 2PZOCtYZ3hDMpMVN8yIHc9
   popularity: 18
-  url: https://open.spotify.com/artist/2PZOCtYZ3hDMpMVN8yIHc9
+  url: 'https://open.spotify.com/artist/2PZOCtYZ3hDMpMVN8yIHc9'
 status: active
-title: TRIXIE SMITH
+title: Trixie Smith
+death_date: '1943-09-21'
+artist_type: person
 ---
 
 ![](trixie_smith.jpg)

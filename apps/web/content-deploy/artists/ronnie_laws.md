@@ -5,28 +5,28 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1950-10-03'
-birth_place: Houston
+birth_place: 'Houston, Texas, United States'
 genres:
-- jazz funk
-- smooth jazz
-- acid jazz
-- jazz fusion
+  - jazz funk
+  - smooth jazz
+  - acid jazz
+  - jazz fusion
 instruments:
-- flute
-- sopranino saxophone
-- tenor saxophone
-- piano
-- background vocals
-- lead vocals
-associated_acts:
-- begin: '1972'
-  end: '1972'
-  instruments:
   - flute
   - sopranino saxophone
   - tenor saxophone
-  mbid: 535afeda-2538-435d-9dd1-5e10be586774
-  name: Earth, Wind & Fire
+  - piano
+  - background vocals
+  - lead vocals
+associated_acts:
+  - begin: '1972'
+    end: '1972'
+    instruments:
+      - flute
+      - sopranino saxophone
+      - tenor saxophone
+    mbid: 535afeda-2538-435d-9dd1-5e10be586774
+    name: 'Earth, Wind & Fire'
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ronnie_laws.jpg
   caption: Ronnie Laws
@@ -34,7 +34,7 @@ infobox:
   born: '1950-10-03'
   origin: Houston
 audio_profile:
-  tempo_avg: 113.0
+  tempo_avg: 113
   energy_avg: 0.661
   valence_avg: 0.623
   danceability_avg: 0.587
@@ -48,70 +48,72 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Earth, Wind & Fire
-  - Hugh Masekela
-  - The Jazz Crusaders
-  - Debra Laws
-  - Ramsey Lewis
-  - Jeff Lorber
-  - Sister Sledge
-  - Deniece Williams
-  - Alphonse Mouzon
-  - Howard Hewett
-  - Norman Brown
-  - Brian Culbertson
-  - Guru
+    - 'Earth, Wind & Fire'
+    - Hugh Masekela
+    - The Jazz Crusaders
+    - Debra Laws
+    - Ramsey Lewis
+    - Jeff Lorber
+    - Sister Sledge
+    - Deniece Williams
+    - Alphonse Mouzon
+    - Howard Hewett
+    - Norman Brown
+    - Brian Culbertson
+    - Guru
   influenced:
-  - Smooth Jazz Genre
-  - Contemporary Jazz Artists
+    - Smooth Jazz Genre
+    - Contemporary Jazz Artists
   mentors:
-  - Donald Byrd
-  - George Butler
-  - Wayne Henderson
-  - Hubert Laws
+    - Donald Byrd
+    - George Butler
+    - Wayne Henderson
+    - Hubert Laws
 spotify_data:
   followers: 68137
   id: 4yh5g0DWkL6kRlCH1FPAvC
   popularity: 35
-  url: https://open.spotify.com/artist/4yh5g0DWkL6kRlCH1FPAvC
+  url: 'https://open.spotify.com/artist/4yh5g0DWkL6kRlCH1FPAvC'
 discography_enriched: true
 top_tracks:
-- Friends And Strangers (Friends & Strangers)
-- Stay Awake (Solid Ground)
-- Always There (Pressure Sensitive)
-- Tidal Wave (Pressure Sensitive)
-- Every Generation - Remastered (Every Generation (Remastered))
-- That's The Game
-- Life In Paradise (Friends & Strangers)
-- Night Breeze (Fever)
-- Stay Awake
-- Never Be The Same (Pressure Sensitive)
+  - Friends And Strangers (Friends & Strangers)
+  - Stay Awake (Solid Ground)
+  - Always There (Pressure Sensitive)
+  - Tidal Wave (Pressure Sensitive)
+  - Every Generation - Remastered (Every Generation (Remastered))
+  - That's The Game
+  - Life In Paradise (Friends & Strangers)
+  - Night Breeze (Fever)
+  - Stay Awake
+  - Never Be The Same (Pressure Sensitive)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e26aa662-2255-4435-8332-85097f8aba0b
-  spotify: https://open.spotify.com/artist/4yh5g0DWkL6kRlCH1FPAvC
-  wikipedia: https://en.wikipedia.org/wiki/Ronnie_Laws
+  musicbrainz: 'https://musicbrainz.org/artist/e26aa662-2255-4435-8332-85097f8aba0b'
+  spotify: 'https://open.spotify.com/artist/4yh5g0DWkL6kRlCH1FPAvC'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ronnie_Laws'
 image_path: 03_Resources/source_material/ArtistPortraits/ronnie_laws.jpg
 biography_enhanced_at: '2025-10-29T16:42:50.923033'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://wbssmedia.com/artists/detail/2425
-- https://www.wclk.com/jazz/2019-01-13/wclk-spotlight-artist-ronnie-laws
-- https://www.laphil.com/musicdb/artists/3036/ronnie-laws
-- https://jointzoftheday.substack.com/p/ronnie-laws-born-october-3-1950-saxophonist
-- https://www.bluenote.com/artist/ronnie-laws/
-- https://en.wikipedia.org/wiki/Ronnie_Laws
-- https://www.namm.org/library/oral-history/ronnie-laws
-- https://www.sessiondays.com/2023/08/ronnie-laws/
-- https://www.iheart.com/artist/ronnie-laws-28331/
+  - 'https://wbssmedia.com/artists/detail/2425'
+  - 'https://www.wclk.com/jazz/2019-01-13/wclk-spotlight-artist-ronnie-laws'
+  - 'https://www.laphil.com/musicdb/artists/3036/ronnie-laws'
+  - >-
+    https://jointzoftheday.substack.com/p/ronnie-laws-born-october-3-1950-saxophonist
+  - 'https://www.bluenote.com/artist/ronnie-laws/'
+  - 'https://en.wikipedia.org/wiki/Ronnie_Laws'
+  - 'https://www.namm.org/library/oral-history/ronnie-laws'
+  - 'https://www.sessiondays.com/2023/08/ronnie-laws/'
+  - 'https://www.iheart.com/artist/ronnie-laws-28331/'
 network_extracted: true
 entry_created: '2025-10-29T16:42:50.923049'
 last_updated: '2025-12-23T08:16:15.029901'
 gender: Male
 musicbrainz_id: e26aa662-2255-4435-8332-85097f8aba0b
 tags:
-- jazz
-- jazz-funk
+  - jazz
+  - jazz-funk
+origin: 'Los Angeles, California, United States'
 ---
 
 ![](ronnie_laws.jpg)

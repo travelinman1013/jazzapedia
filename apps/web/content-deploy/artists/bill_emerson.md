@@ -1,53 +1,59 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-12T01:55:17.641656'
-birth_place: Washington, D.C., United States
+birth_place: 'Washington, D.C., United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-12T01:55:17.641661'
 external_urls:
-  spotify: https://open.spotify.com/artist/5Y1fDUKYkFE1M4ALzFGdfF
-  wikipedia: https://en.wikipedia.org/wiki/Bill_Emerson_(musician)
+  spotify: 'https://open.spotify.com/artist/5Y1fDUKYkFE1M4ALzFGdfF'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bill_Emerson_(musician)'
 genres:
-- bluegrass
-- newgrass
+  - bluegrass
+  - newgrass
 image_path: 03_Resources/source_material/ArtistPortraits/bill_emerson.jpg
 last_updated: '2026-01-12T01:55:17.641662'
 musical_connections:
   collaborators:
-  - Charlie Waller
-  - John Duffey
-  - Buzz Busby
-  - Jimmy Martin
-  - Cliff Waldron
-  - Red Allen and Frank Wakefield
-  - United States Navy Band Country Current
-  - Wayne Taylor
-  - Bill Emerson & Sweet Dixie
+    - Charlie Waller
+    - John Duffey
+    - Buzz Busby
+    - Jimmy Martin
+    - Cliff Waldron
+    - Red Allen and Frank Wakefield
+    - United States Navy Band Country Current
+    - Wayne Taylor
+    - Bill Emerson & Sweet Dixie
   influenced:
-  - Wayne Taylor
-  - Modern bluegrass banjo players (e.g., players in progressive and “newgrass” styles)
-  - Members of U.S. Navy Band Country Current
+    - Wayne Taylor
+    - >-
+      Modern bluegrass banjo players (e.g., players in progressive and
+      “newgrass” styles)
+    - Members of U.S. Navy Band Country Current
   mentors:
-  - John Duffey
-  - Smitty Irvin
-  - Earl Scruggs (influence)
+    - John Duffey
+    - Smitty Irvin
+    - Earl Scruggs (influence)
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.bluegrasshall.org/inductees/bill-emerson/
-- https://bluegrassunlimited.com/article/bill-emerson-banjo-player-extraordinaire/
-- https://en.wikipedia.org/wiki/Bill_Emerson_(musician)
-- https://www.rocky-52.net/chanteurse/emerson_b.htm
-- https://bluegrassunlimited.com/article/bill-emerson-the-early-years/
-- https://www.thebluegrassconnection.com/billemerson/Bios.htm
-- https://adp.library.ucsb.edu/names/202945
+  - 'https://www.bluegrasshall.org/inductees/bill-emerson/'
+  - >-
+    https://bluegrassunlimited.com/article/bill-emerson-banjo-player-extraordinaire/
+  - 'https://en.wikipedia.org/wiki/Bill_Emerson_(musician)'
+  - 'https://www.rocky-52.net/chanteurse/emerson_b.htm'
+  - 'https://bluegrassunlimited.com/article/bill-emerson-the-early-years/'
+  - 'https://www.thebluegrassconnection.com/billemerson/Bios.htm'
+  - 'https://adp.library.ucsb.edu/names/202945'
 spotify_data:
   followers: 2014
   id: 5Y1fDUKYkFE1M4ALzFGdfF
   popularity: 19
-  url: https://open.spotify.com/artist/5Y1fDUKYkFE1M4ALzFGdfF
+  url: 'https://open.spotify.com/artist/5Y1fDUKYkFE1M4ALzFGdfF'
 status: active
-title: BILL EMERSON
+title: Bill Emerson
+origin: 'Bethesda, Maryland, United States'
+birth_date: '1938-01-22'
+death_date: '2021-08-21'
 ---
 
 ![](bill_emerson.jpg)

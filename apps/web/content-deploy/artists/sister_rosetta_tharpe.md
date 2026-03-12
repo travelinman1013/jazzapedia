@@ -1,21 +1,21 @@
 ---
-title: sister rosetta tharpe
+title: Sister Rosetta Tharpe
 wiki_slug: sister-rosetta-tharpe
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1915-03-20'
-birth_place: Cotton Plant
+birth_place: 'Cotton Plant, Arkansas, United States'
 death_date: '1973-10-09'
 genres:
-- blues
-- classic blues
+  - blues
+  - classic blues
 instruments:
-- guitar
-- electric guitar
-- lead vocals
-- spoken vocals
-- vocal
+  - guitar
+  - electric guitar
+  - lead vocals
+  - spoken vocals
+  - vocal
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sister_rosetta_tharpe.jpg
   caption: sister rosetta tharpe
@@ -30,7 +30,7 @@ audio_profile:
   danceability_avg: 0.598
   acousticness_avg: 0.829
   instrumentalness_avg: 0.094
-  loudness_avg: -10.0
+  loudness_avg: -10
   speechiness_avg: 0.102
   liveness_avg: 0.306
   track_count: 89
@@ -38,57 +38,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Marie Knight
-  - Red Foley
+    - Marie Knight
+    - Red Foley
   influenced:
-  - Chuck Berry
-  - Little Richard
-  - Elvis Presley
-  - Johnny Cash
-  - Aretha Franklin
+    - Chuck Berry
+    - Little Richard
+    - Elvis Presley
+    - Johnny Cash
+    - Aretha Franklin
   mentors:
-  - Katie Bell Nubin
+    - Katie Bell Nubin
 spotify_data:
   followers: 191911
   id: 2dXf5lu5iilcaTQJZodce7
   popularity: 34
-  url: https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7
+  url: 'https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7'
 discography_enriched: true
 top_tracks:
-- My Journey To The Sky (Gospel Train (Expanded Edition))
-- Rock Me (The Gospel Of The Blues)
-- Jericho (Gospel Train)
-- Strange Things Happening Every Day (Sister Rosetta Tharpe Vol. 2 1942-1944)
-- Didn't It Rain (Gospel Train (Expanded Edition))
-- Shout, Sister, Shout! (The Gospel Of The Blues)
-- Nobody's Fault But Mine (The Gospel Of The Blues)
-- O Little Town Of Bethlehem (Gospel Train (Expanded Edition))
-- Strange Things Happening Every Day (Trouble in Mind)
-- 'Shout Sister Shout (Complete Sister Rosetta Tharpe, Vol. 1: 1938-1943)'
+  - My Journey To The Sky (Gospel Train (Expanded Edition))
+  - Rock Me (The Gospel Of The Blues)
+  - Jericho (Gospel Train)
+  - Strange Things Happening Every Day (Sister Rosetta Tharpe Vol. 2 1942-1944)
+  - Didn't It Rain (Gospel Train (Expanded Edition))
+  - 'Shout, Sister, Shout! (The Gospel Of The Blues)'
+  - Nobody's Fault But Mine (The Gospel Of The Blues)
+  - O Little Town Of Bethlehem (Gospel Train (Expanded Edition))
+  - Strange Things Happening Every Day (Trouble in Mind)
+  - 'Shout Sister Shout (Complete Sister Rosetta Tharpe, Vol. 1: 1938-1943)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f5625c87-5a62-4b3b-a375-fe08a71acddc
-  spotify: https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7
-  wikipedia: https://en.wikipedia.org/wiki/Sister_Rosetta_Tharpe
+  musicbrainz: 'https://musicbrainz.org/artist/f5625c87-5a62-4b3b-a375-fe08a71acddc'
+  spotify: 'https://open.spotify.com/artist/2dXf5lu5iilcaTQJZodce7'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sister_Rosetta_Tharpe'
 image_path: 03_Resources/source_material/ArtistPortraits/sister_rosetta_tharpe.jpg
 biography_enhanced_at: '2025-10-29T16:51:20.761701'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- National Women's History Museum
-- Britannica
-- Encyclopedia of Arkansas
-- Rock & Roll Hall of Fame
-- Picturing Black History
-- Seattle Rep
+  - National Women's History Museum
+  - Britannica
+  - Encyclopedia of Arkansas
+  - Rock & Roll Hall of Fame
+  - Picturing Black History
+  - Seattle Rep
 network_extracted: true
 entry_created: '2025-10-29T16:51:20.761710'
 last_updated: '2025-12-23T08:16:15.698335'
 gender: Female
 musicbrainz_id: f5625c87-5a62-4b3b-a375-fe08a71acddc
 tags:
-- 2008 universal fire victim
-- blues
-- blues rock
+  - 2008 universal fire victim
+  - blues
+  - blues rock
+is_active: false
 ---
 
 ![](sister_rosetta_tharpe.jpg)

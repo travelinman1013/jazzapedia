@@ -1,18 +1,18 @@
 ---
-title: TUTS WASHINGTON
+title: Tuts Washington
 wiki_slug: tuts-washington
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- boogie-woogie
-- blues
-- classic blues
+  - boogie-woogie
+  - blues
+  - classic blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/tuts_washington.jpg
   caption: TUTS WASHINGTON
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 111.7
   energy_avg: 0.354
@@ -28,51 +28,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Smiley Lewis
-  - Herman Seals
-  - Tab Smith
-  - Clyde Kerr Orchestra
-  - Papa Celestin
+    - Smiley Lewis
+    - Herman Seals
+    - Tab Smith
+    - Clyde Kerr Orchestra
+    - Papa Celestin
   influenced:
-  - Professor Longhair (Roy Byrd)
-  - James Booker
-  - Allen Toussaint
-  - Fats Domino
+    - Professor Longhair (Roy Byrd)
+    - James Booker
+    - Allen Toussaint
+    - Fats Domino
   mentors:
-  - Joseph Louis 'Red' Cayou
+    - Joseph Louis 'Red' Cayou
 spotify_data:
   followers: 610
   id: 2enlsrrQfQ2uHr5MnHucCI
   popularity: 5
-  url: https://open.spotify.com/artist/2enlsrrQfQ2uHr5MnHucCI
+  url: 'https://open.spotify.com/artist/2enlsrrQfQ2uHr5MnHucCI'
 discography_enriched: true
 top_tracks:
-- Honky Tonk (New Orleans Piano Professor)
-- When The Saints Go Marching In (New Orleans Piano Professor)
-- Do You Know What It Means To Miss New Orleans (New Orleans Piano Professor)
-- Arkansas Blues (New Orleans Piano Professor)
-- When the Saints Go Marching In - Live (Live at Tipitina's)
-- Tin Roof Blues (New Orleans Piano Professor)
-- On The Sunny Side Of The Street (New Orleans Piano Professor)
-- Jambalaya (New Orleans Piano Professor)
-- Misty (New Orleans Piano Professor)
-- Stardust (New Orleans Piano Professor)
+  - Honky Tonk (New Orleans Piano Professor)
+  - When The Saints Go Marching In (New Orleans Piano Professor)
+  - Do You Know What It Means To Miss New Orleans (New Orleans Piano Professor)
+  - Arkansas Blues (New Orleans Piano Professor)
+  - When the Saints Go Marching In - Live (Live at Tipitina's)
+  - Tin Roof Blues (New Orleans Piano Professor)
+  - On The Sunny Side Of The Street (New Orleans Piano Professor)
+  - Jambalaya (New Orleans Piano Professor)
+  - Misty (New Orleans Piano Professor)
+  - Stardust (New Orleans Piano Professor)
 external_urls:
-  spotify: https://open.spotify.com/artist/2enlsrrQfQ2uHr5MnHucCI
+  spotify: 'https://open.spotify.com/artist/2enlsrrQfQ2uHr5MnHucCI'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/tuts_washington.jpg
 biography_enhanced_at: '2025-12-12T12:00:27.094168'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://fromthevaults-boppinbob.blogspot.com/2019/01/tuts-washington-born-24-january-1921.html
-- https://musicrising.tulane.edu/discover/people/isidore-tuts-washington/
-- https://sweeneygumbo.com/2015/07/16/tuts-washington-holds-solid-place-in-new-orleans-piano-legacy/
-- https://www.allaboutjazz.com/musicians/tuts-washington/
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2019/01/tuts-washington-born-24-january-1921.html
+  - 'https://musicrising.tulane.edu/discover/people/isidore-tuts-washington/'
+  - >-
+    https://sweeneygumbo.com/2015/07/16/tuts-washington-holds-solid-place-in-new-orleans-piano-legacy/
+  - 'https://www.allaboutjazz.com/musicians/tuts-washington/'
 network_extracted: true
 entry_created: '2025-12-12T12:00:27.094201'
 last_updated: '2025-12-23T08:16:17.748183'
-
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1907-01-24'
+death_date: '1984-08-05'
+artist_type: person
 ---
 
 ![](tuts_washington.jpg)

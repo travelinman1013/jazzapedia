@@ -3,18 +3,18 @@ title: BB King
 wiki_slug: bb-king
 schema_version: 2
 status: active
-birth_place: Itta Bena, Mississippi, United States
+birth_place: 'Itta Bena, Mississippi, United States'
 genres:
-- blues
-- classic blues
-- jazz blues
-- soul blues
-- blues rock
+  - blues
+  - classic blues
+  - jazz blues
+  - soul blues
+  - blues rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bb_king.jpg
   caption: BB King
   background: solo_singer
-  origin: Itta Bena, Mississippi, United States
+  origin: 'Itta Bena, Mississippi, United States'
 audio_profile:
   tempo_avg: 115.7
   energy_avg: 0.57
@@ -30,48 +30,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Eric Clapton
-  - U2
-  - Louisiana Gator Boys (Blues Brothers 2000)
+    - Eric Clapton
+    - U2
+    - Louisiana Gator Boys (Blues Brothers 2000)
   influenced:
-  - Jimi Hendrix
-  - Eric Clapton
-  - Buddy Guy
+    - Jimi Hendrix
+    - Eric Clapton
+    - Buddy Guy
   mentors:
-  - Bukka White
-  - T-Bone Walker
-  - Charlie Christian
+    - Bukka White
+    - T-Bone Walker
+    - Charlie Christian
 spotify_data:
   followers: 2853993
   id: 5xLSa7l4IV1gsQfhAMvl0U
   popularity: 60
-  url: https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U
+  url: 'https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U'
 discography_enriched: true
 top_tracks:
-- The Thrill Is Gone (Completely Well)
-- The Thrill Is Gone (Deuces Wild)
-- When Love Comes To Town (Rattle And Hum)
-- We Are The World - Live (B.B. King - Featuring)
-- Riding With the King (Riding With The King)
-- Bring It On Home To Me (Deuces Wild)
-- Chains And Things (Indianola Mississippi Seeds)
-- Blues Boys Tune (Blues On The Bayou)
-- Why I Sing The Blues (Live And Well)
-- The Thrill Is Gone (B.B. King & Friends - 80)
+  - The Thrill Is Gone (Completely Well)
+  - The Thrill Is Gone (Deuces Wild)
+  - When Love Comes To Town (Rattle And Hum)
+  - We Are The World - Live (B.B. King - Featuring)
+  - Riding With the King (Riding With The King)
+  - Bring It On Home To Me (Deuces Wild)
+  - Chains And Things (Indianola Mississippi Seeds)
+  - Blues Boys Tune (Blues On The Bayou)
+  - Why I Sing The Blues (Live And Well)
+  - The Thrill Is Gone (B.B. King & Friends - 80)
 external_urls:
-  spotify: https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U
-  wikipedia: https://en.wikipedia.org/wiki/B._B._King
+  spotify: 'https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U'
+  wikipedia: 'https://en.wikipedia.org/wiki/B._B._King'
 image_path: 03_Resources/source_material/ArtistPortraits/bb_king.jpg
 biography_enhanced_at: '2025-10-30T11:51:59.001902'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.biography.com/musicians/bb-king
-- https://en.wikipedia.org/wiki/B._B._King
-- https://www.britannica.com/biography/B-B-King
+  - 'https://www.biography.com/musicians/bb-king'
+  - 'https://en.wikipedia.org/wiki/B._B._King'
+  - 'https://www.britannica.com/biography/B-B-King'
 network_extracted: true
 entry_created: '2025-10-30T11:51:59.001911'
 last_updated: '2025-12-23T08:16:05.146605'
+origin: 'Memphis, Tennessee, United States'
+birth_date: '1925-09-16'
+artist_type: person
 ---
 
 ![](bb_king.jpg)

@@ -1,47 +1,48 @@
 ---
 biography_enhanced_at: '2026-01-06T02:09:24.110879'
-birth_place: McIntosh, Georgia, USA
+birth_place: 'McIntosh, Georgia, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-06T02:09:24.110884'
 external_urls:
-  spotify: https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB
+  spotify: 'https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB'
   wikipedia: ''
 genres:
-- northern soul
-- motown
-- soul
+  - northern soul
+  - motown
+  - soul
 image_path: 03_Resources/source_material/ArtistPortraits/arthur_conley.jpg
 last_updated: '2026-01-06T02:09:24.110885'
 musical_connections:
   collaborators:
-  - Booker T.
-  - Jim Stewart
-  - Soul Clan
-  - Lee Roberts and the Sweaters
+    - Booker T.
+    - Jim Stewart
+    - Soul Clan
+    - Lee Roberts and the Sweaters
   influenced:
-  - Rod Stewart
-  - Jose Feliciano
-  - Sam & Dave
-  - Tom Jones
-  - Bruce Springsteen
+    - Rod Stewart
+    - Jose Feliciano
+    - Sam & Dave
+    - Tom Jones
+    - Bruce Springsteen
   mentors:
-  - Otis Redding
+    - Otis Redding
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- http://www.soulwalking.co.uk/Arthur%20Conley.html
-- https://www.songsthatsavedyou.com/p/no16-arthur-conley-sweet-soul-music
-- https://miamivice.fandom.com/wiki/Arthur_Conley
-- https://www.allmusic.com/artist/arthur-conley-mn0000604924
-- https://blackpast.org/african-american-history/conley-arthur-1946-1988/
+  - 'http://www.soulwalking.co.uk/Arthur%20Conley.html'
+  - 'https://www.songsthatsavedyou.com/p/no16-arthur-conley-sweet-soul-music'
+  - 'https://miamivice.fandom.com/wiki/Arthur_Conley'
+  - 'https://www.allmusic.com/artist/arthur-conley-mn0000604924'
+  - 'https://blackpast.org/african-american-history/conley-arthur-1946-1988/'
 spotify_data:
   followers: 47559
   id: 10TSIJnyUcowWhpjj59gHB
   popularity: 41
-  url: https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB
+  url: 'https://open.spotify.com/artist/10TSIJnyUcowWhpjj59gHB'
 status: active
-title: ARTHUR CONLEY
-
+title: Arthur Conley
+birth_date: '1946-01-04'
+artist_type: person
 ---
 
 ![](arthur_conley.jpg)

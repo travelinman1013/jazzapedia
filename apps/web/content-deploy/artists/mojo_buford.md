@@ -1,26 +1,26 @@
 ---
-title: MOJO BUFORD
+title: Mojo Buford
 wiki_slug: mojo-buford
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1929-11-10'
-birth_place: Hernando
+birth_place: 'Hernando, Mississippi, United States'
 death_date: '2011-10-11'
 genres:
-- blues
-- modern blues
+  - blues
+  - modern blues
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a2e23010-5d0e-4106-acc2-c58ebe06af1c
-  name: The Muddy Waters Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a9c61848-7f5a-4705-9c2e-44ace2d622f3
-  name: Voodoo Men
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a2e23010-5d0e-4106-acc2-c58ebe06af1c
+    name: The Muddy Waters Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a9c61848-7f5a-4705-9c2e-44ace2d622f3
+    name: Voodoo Men
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/mojo_buford.jpg
   caption: MOJO BUFORD
@@ -43,52 +43,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Muddy Waters
-  - James Cotton
-  - Lazy Bill Lucas
-  - Lonnie Knight
+    - Muddy Waters
+    - James Cotton
+    - Lazy Bill Lucas
+    - Lonnie Knight
   influenced:
-  - Sonny Rodgers
-  - Various Twin Cities musicians
+    - Sonny Rodgers
+    - Various Twin Cities musicians
   mentors:
-  - B.B. King
-  - Little Walter
+    - B.B. King
+    - Little Walter
 spotify_data:
   followers: 2934
   id: 42PrYHSnbkJNdsXMJhwcng
   popularity: 6
-  url: https://open.spotify.com/artist/42PrYHSnbkJNdsXMJhwcng
+  url: 'https://open.spotify.com/artist/42PrYHSnbkJNdsXMJhwcng'
 discography_enriched: true
 top_tracks:
-- Down The Road I Go - Live Boston August 22nd.1972 - Restauración 2024 (Muddy Waters Live Boston August 22nd. 1972 (Restauración
-  2024))
-- My Home Is on the Delta - Remastered (Goin’ Way Back)
-- Leavin' in the Mornin' - Remastered (Goin’ Way Back)
-- Got a Sweet Little Girl - Remastered (Goin’ Way Back)
-- Gypsy Woman - Remastered (Goin’ Way Back)
-- Laverne (Why Do You Treat Me So Mean?) - Remastered (Goin’ Way Back)
-- Little Anna Mae - Remastered (Goin’ Way Back)
-- Take a Little Walk - Remastered (Goin’ Way Back)
-- Bad Lovin' Trouble - Remastered (Goin’ Way Back)
-- Nothin' Bother Me - Remastered (Goin’ Way Back)
+  - >-
+    Down The Road I Go - Live Boston August 22nd.1972 - Restauración 2024 (Muddy
+    Waters Live Boston August 22nd. 1972 (Restauración 2024))
+  - My Home Is on the Delta - Remastered (Goin’ Way Back)
+  - Leavin' in the Mornin' - Remastered (Goin’ Way Back)
+  - Got a Sweet Little Girl - Remastered (Goin’ Way Back)
+  - Gypsy Woman - Remastered (Goin’ Way Back)
+  - Laverne (Why Do You Treat Me So Mean?) - Remastered (Goin’ Way Back)
+  - Little Anna Mae - Remastered (Goin’ Way Back)
+  - Take a Little Walk - Remastered (Goin’ Way Back)
+  - Bad Lovin' Trouble - Remastered (Goin’ Way Back)
+  - Nothin' Bother Me - Remastered (Goin’ Way Back)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/117594ec-b00c-4f1f-b6fa-282ec0278268
-  spotify: https://open.spotify.com/artist/42PrYHSnbkJNdsXMJhwcng
-  wikipedia: https://en.wikipedia.org/wiki/George_%22Mojo%22_Buford
+  musicbrainz: 'https://musicbrainz.org/artist/117594ec-b00c-4f1f-b6fa-282ec0278268'
+  spotify: 'https://open.spotify.com/artist/42PrYHSnbkJNdsXMJhwcng'
+  wikipedia: 'https://en.wikipedia.org/wiki/George_%22Mojo%22_Buford'
 image_path: 03_Resources/source_material/ArtistPortraits/mojo_buford.jpg
 biography_enhanced_at: '2025-11-11T09:23:49.922298'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/George_%22Mojo%22_Buford
-- https://wbssmedia.com/artists/detail/2796
-- https://www.minniepaulmusic.com/artists/k-to-n/mojo-buford/
-- https://www.mswritersandmusicians.com/mississippi-musicians/mojo-buford
+  - 'https://en.wikipedia.org/wiki/George_%22Mojo%22_Buford'
+  - 'https://wbssmedia.com/artists/detail/2796'
+  - 'https://www.minniepaulmusic.com/artists/k-to-n/mojo-buford/'
+  - 'https://www.mswritersandmusicians.com/mississippi-musicians/mojo-buford'
 network_extracted: true
 entry_created: '2025-11-11T09:23:49.922301'
 last_updated: '2025-12-23T08:16:13.234335'
 gender: Male
 musicbrainz_id: 117594ec-b00c-4f1f-b6fa-282ec0278268
+is_active: false
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](mojo_buford.jpg)

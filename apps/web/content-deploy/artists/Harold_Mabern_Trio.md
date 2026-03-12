@@ -2,15 +2,15 @@
 title: Harold Mabern Trio
 wiki_slug: harold-mabern-trio
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
-birth_place: Memphis, Tennessee, United States
+birth_place: 'Memphis, Tennessee, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Harold_Mabern_Trio.jpg
   caption: Harold Mabern Trio
   background: solo_singer
-  origin: Memphis, Tennessee, United States
+  origin: 'Memphis, Tennessee, United States'
 audio_profile:
   tempo_avg: 128.6
   energy_avg: 0.637
@@ -26,56 +26,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - George Coleman
-  - Eric Alexander
-  - Joe Farnsworth
-  - John Webber
-  - Lee Morgan
+    - George Coleman
+    - Eric Alexander
+    - Joe Farnsworth
+    - John Webber
+    - Lee Morgan
   influenced:
-  - Eric Alexander
-  - Joe Farnsworth
-  - Countless jazz students
+    - Eric Alexander
+    - Joe Farnsworth
+    - Countless jazz students
   mentors:
-  - Phineas Newborn Jr.
-  - Charles Thomas
-  - Ahmad Jamal
+    - Phineas Newborn Jr.
+    - Charles Thomas
+    - Ahmad Jamal
 spotify_data:
   followers: 1096
   id: 2zWuBBGoYq4rKxlz5C8avJ
   popularity: 4
-  url: https://open.spotify.com/artist/2zWuBBGoYq4rKxlz5C8avJ
+  url: 'https://open.spotify.com/artist/2zWuBBGoYq4rKxlz5C8avJ'
 discography_enriched: true
 top_tracks:
-- JEANINE (MABERN'S GROOVEYARD)
-- My Favorite Things (Don't Know Why)
-- Fantasy (World Standard VENUS jazz A Tatsuo Sunaga Live Mix)
-- You Belong to Me
-- Don't Know Why (Don't Know Why)
-- リカード・ボサノバ (Kiss Of Fire)
-- Stormy Weather (虹の彼方に)
-- ジス・タイム・ザ・ドリームズ・オン・ミー (虹の彼方に)
-- For Every Man, There's A Woman (Falling In Love With Love)
-- Falling In Love With Love (Falling In Love With Love)
+  - JEANINE (MABERN'S GROOVEYARD)
+  - My Favorite Things (Don't Know Why)
+  - Fantasy (World Standard VENUS jazz A Tatsuo Sunaga Live Mix)
+  - You Belong to Me
+  - Don't Know Why (Don't Know Why)
+  - リカード・ボサノバ (Kiss Of Fire)
+  - Stormy Weather (虹の彼方に)
+  - ジス・タイム・ザ・ドリームズ・オン・ミー (虹の彼方に)
+  - 'For Every Man, There''s A Woman (Falling In Love With Love)'
+  - Falling In Love With Love (Falling In Love With Love)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a1d405ef-77b2-41a2-be5b-8ab14307a1d3
-  spotify: https://open.spotify.com/artist/2zWuBBGoYq4rKxlz5C8avJ
-  wikipedia: https://en.wikipedia.org/wiki/Harold_Mabern
+  musicbrainz: 'https://musicbrainz.org/artist/a1d405ef-77b2-41a2-be5b-8ab14307a1d3'
+  spotify: 'https://open.spotify.com/artist/2zWuBBGoYq4rKxlz5C8avJ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Harold_Mabern'
 image_path: 03_Resources/source_material/ArtistPortraits/Harold_Mabern_Trio.jpg
 biography_enhanced_at: '2025-10-21T06:37:42.080001'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Harold_Mabern
-- https://livingjazzarchives.org/archives/harold-mabern-archive/
-- https://downbeat.com/news/detail/in-memoriam-harold-mabern-19362019
-- https://www.jazzalley.com/www-home/artist.jsp?shownum=1610
+  - 'https://en.wikipedia.org/wiki/Harold_Mabern'
+  - 'https://livingjazzarchives.org/archives/harold-mabern-archive/'
+  - 'https://downbeat.com/news/detail/in-memoriam-harold-mabern-19362019'
+  - 'https://www.jazzalley.com/www-home/artist.jsp?shownum=1610'
 network_extracted: true
 entry_created: '2025-10-21T06:37:42.080016'
 last_updated: '2025-12-23T08:16:02.203325'
 musicbrainz_enriched_at: '2025-10-21T09:28:43.308345'
 musicbrainz_id: a1d405ef-77b2-41a2-be5b-8ab14307a1d3
 tags:
-- jazz
+  - jazz
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](Harold_Mabern_Trio.jpg)

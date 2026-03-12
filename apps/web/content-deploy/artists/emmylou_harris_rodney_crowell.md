@@ -1,13 +1,14 @@
 ---
-title: Emmylou Harris, Rodney Crowell
+title: 'Emmylou Harris, Rodney Crowell'
 wiki_slug: emmylou-harris-rodney-crowell
 schema_version: 2
 status: active
 genres:
-- country rock
+  - country rock
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/emmylou_harris_rodney_crowell.jpg
-  caption: Emmylou Harris, Rodney Crowell
+  image: >-
+    03_Resources/source_material/ArtistPortraits/emmylou_harris_rodney_crowell.jpg
+  caption: 'Emmylou Harris, Rodney Crowell'
   background: solo_singer
 audio_profile:
   tempo_avg: 79.7
@@ -24,39 +25,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Rodney Crowell
-  - Brian Ahern
-  - Ricky Skaggs
+    - Rodney Crowell
+    - Brian Ahern
+    - Ricky Skaggs
   influenced:
-  - Lucinda Williams
-  - Gillian Welch
+    - Lucinda Williams
+    - Gillian Welch
   mentors:
-  - Gram Parsons
+    - Gram Parsons
 spotify_data:
   followers: 908
   id: 1Jlk6622tpO8MJDGlZCZYV
   popularity: 10
-  url: https://open.spotify.com/artist/1Jlk6622tpO8MJDGlZCZYV
+  url: 'https://open.spotify.com/artist/1Jlk6622tpO8MJDGlZCZYV'
 discography_enriched: true
 top_tracks:
-- You're Running Wild - 2003 Remaster (Elite Hotel (Expanded & Remastered))
+  - You're Running Wild - 2003 Remaster (Elite Hotel (Expanded & Remastered))
 external_urls:
-  spotify: https://open.spotify.com/artist/1Jlk6622tpO8MJDGlZCZYV
-  wikipedia: https://en.wikipedia.org/wiki/Emmylou_Harris
+  spotify: 'https://open.spotify.com/artist/1Jlk6622tpO8MJDGlZCZYV'
+  wikipedia: 'https://en.wikipedia.org/wiki/Emmylou_Harris'
 image_path: ''
 biography_enhanced_at: '2025-11-03T07:40:50.777793'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Emmylou_Harris
-- https://www.latimes.com/entertainment/music/la-xpm-2013-mar-03-la-et-ms-emmylou-harris-rodney-crowell-country-rock-20130303-story.html
-- https://www.nonesuch.com/journal/the-story-behind-emmylou-harris-rodney-crowell-album-old-yellow-moon-2013-01-17
-- https://www.countrymusichalloffame.org/artist/emmylou-harris
-- https://singout.org/emmylou-harris-and-rodney-crowell-the-traveling-kind/
+  - 'https://en.wikipedia.org/wiki/Emmylou_Harris'
+  - >-
+    https://www.latimes.com/entertainment/music/la-xpm-2013-mar-03-la-et-ms-emmylou-harris-rodney-crowell-country-rock-20130303-story.html
+  - >-
+    https://www.nonesuch.com/journal/the-story-behind-emmylou-harris-rodney-crowell-album-old-yellow-moon-2013-01-17
+  - 'https://www.countrymusichalloffame.org/artist/emmylou-harris'
+  - 'https://singout.org/emmylou-harris-and-rodney-crowell-the-traveling-kind/'
 network_extracted: true
 entry_created: '2025-11-03T07:40:50.777812'
 last_updated: '2025-12-23T08:16:08.385876'
-origin: Birmingham, Alabama, USA (Emmylou Harris); Houston, Texas, USA (Rodney Crowell)
+origin: >-
+  Birmingham, Alabama, USA (Emmylou Harris); Houston, Texas, USA (Rodney
+  Crowell)
+birth_place: 'Birmingham, Alabama, United States'
+birth_date: '1947'
+artist_type: band
 ---
 
 ![]()

@@ -1,21 +1,21 @@
 ---
-title: JOHN HENRY
+title: John Henry
 wiki_slug: john-henry
 schema_version: 2
 status: active
-birth_place: Porthmadog (Portmadoc), Caernarfonshire, Wales, United Kingdom
+birth_place: 'Porthmadog (Portmadoc), Caernarfonshire, Wales, United Kingdom'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/john_henry.jpg
   caption: JOHN HENRY
   background: solo_singer
-  origin: Porthmadog (Portmadoc), Caernarfonshire, Wales, United Kingdom
+  origin: 'Porthmadog (Portmadoc), Caernarfonshire, Wales, United Kingdom'
 audio_profile:
-  tempo_avg: 100.0
+  tempo_avg: 100
   energy_avg: 0.993
   valence_avg: 0.09
   danceability_avg: 0.436
-  acousticness_avg: 0.0
+  acousticness_avg: 0
   instrumentalness_avg: 0.001
   loudness_avg: -3.5
   speechiness_avg: 0.143
@@ -31,26 +31,27 @@ spotify_data:
   followers: 54
   id: 74zkwL5gYMxCWrvDsiro7h
   popularity: 13
-  url: https://open.spotify.com/artist/74zkwL5gYMxCWrvDsiro7h
+  url: 'https://open.spotify.com/artist/74zkwL5gYMxCWrvDsiro7h'
 discography_enriched: true
 top_tracks:
-- The Laws of Time (The Lost Chapters)
-- The Laws of Time (The Laws of Time)
+  - The Laws of Time (The Lost Chapters)
+  - The Laws of Time (The Laws of Time)
 external_urls:
-  spotify: https://open.spotify.com/artist/74zkwL5gYMxCWrvDsiro7h
+  spotify: 'https://open.spotify.com/artist/74zkwL5gYMxCWrvDsiro7h'
   wikipedia: ''
 image_path: ''
 biography_enhanced_at: '2025-12-09T04:51:01.507848'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://biography.wales/article/s-HENR-JOH-1859
-- https://johnhenrymusic.net/about
-- https://www.viberate.com/artist/john-henry/
-- https://www.allaboutjazz.com/musicians/john-henry/
+  - 'https://biography.wales/article/s-HENR-JOH-1859'
+  - 'https://johnhenrymusic.net/about'
+  - 'https://www.viberate.com/artist/john-henry/'
+  - 'https://www.allaboutjazz.com/musicians/john-henry/'
 network_extracted: true
 entry_created: '2025-12-09T04:51:01.507863'
 last_updated: '2025-12-23T08:16:10.755958'
+artist_type: person
 ---
 
 ![]()

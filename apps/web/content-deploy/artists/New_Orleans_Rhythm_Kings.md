@@ -2,12 +2,12 @@
 title: New Orleans Rhythm Kings
 wiki_slug: new-orleans-rhythm-kings
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 birth_date: '1922'
 genres:
-- ragtime
-- jazz
+  - ragtime
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/New_Orleans_Rhythm_Kings.jpg
   caption: New Orleans Rhythm Kings
@@ -28,59 +28,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jelly Roll Morton
-  - Paul Mares
-  - George Brunies
-  - Leon Roppolo
-  - Elmer Schoebel
+    - Jelly Roll Morton
+    - Paul Mares
+    - George Brunies
+    - Leon Roppolo
+    - Elmer Schoebel
   influenced:
-  - Bix Beiderbecke
-  - Benny Goodman
-  - Muggsy Spanier
-  - Mezz Mezzrow
+    - Bix Beiderbecke
+    - Benny Goodman
+    - Muggsy Spanier
+    - Mezz Mezzrow
   mentors:
-  - King Oliver
+    - King Oliver
 spotify_data:
   followers: 10194
   id: 4hdk9wzdbUtIY8VRG7ZWYA
   popularity: 13
-  url: https://open.spotify.com/artist/4hdk9wzdbUtIY8VRG7ZWYA
+  url: 'https://open.spotify.com/artist/4hdk9wzdbUtIY8VRG7ZWYA'
 discography_enriched: true
 top_tracks:
-- Tin Roof Blues (Reincarnation)
-- Tin Roof Blues
-- Maple Leaf (Reincarnation)
-- 'Eccentric (New Orleans Rhythm Kings: Complete Recordings 1922-1925)'
-- Maple Leaf Rag (The Ultimate Jazz Archive 1 (3 Of 4))
-- Jazz Me Blues
-- Jazz Me Blues (Reincarnation)
-- 'Farewell Blues (New Orleans Rhythm Kings: Complete Recordings 1922-1925)'
-- 'Bugle Call Blues (New Orleans Rhythm Kings: Complete Recordings 1922-1925)'
-- 'Panama (New Orleans Rhythm Kings: Complete Recordings 1922-1925)'
+  - Tin Roof Blues (Reincarnation)
+  - Tin Roof Blues
+  - Maple Leaf (Reincarnation)
+  - 'Eccentric (New Orleans Rhythm Kings: Complete Recordings 1922-1925)'
+  - Maple Leaf Rag (The Ultimate Jazz Archive 1 (3 Of 4))
+  - Jazz Me Blues
+  - Jazz Me Blues (Reincarnation)
+  - 'Farewell Blues (New Orleans Rhythm Kings: Complete Recordings 1922-1925)'
+  - 'Bugle Call Blues (New Orleans Rhythm Kings: Complete Recordings 1922-1925)'
+  - 'Panama (New Orleans Rhythm Kings: Complete Recordings 1922-1925)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b2ad6000-dd97-42b0-acb2-2227efe26d1d
-  spotify: https://open.spotify.com/artist/4hdk9wzdbUtIY8VRG7ZWYA
-  wikipedia: https://en.wikipedia.org/wiki/New_Orleans_Rhythm_Kings
+  musicbrainz: 'https://musicbrainz.org/artist/b2ad6000-dd97-42b0-acb2-2227efe26d1d'
+  spotify: 'https://open.spotify.com/artist/4hdk9wzdbUtIY8VRG7ZWYA'
+  wikipedia: 'https://en.wikipedia.org/wiki/New_Orleans_Rhythm_Kings'
 image_path: 03_Resources/source_material/ArtistPortraits/New_Orleans_Rhythm_Kings.jpg
 biography_enhanced_at: '2025-10-19T12:27:20.696257'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.starrgennettfoundation.org/new-orleans-rhythm-kings
-- https://syncopatedtimes.com/new-orleans-rhythm-kings-a-k-a-friars-society-orchestra/
-- https://www.allaboutjazz.com/musicians/new-orleans-rhythm-kings/
-- https://www.scaruffi.com/jazz/nork.html
-- https://syncopation.de/music-scores/new-orleans-rhythm-kings/
-- https://thejazztome.info/glossary/new-orleans-rhythm-kings/
+  - 'https://www.starrgennettfoundation.org/new-orleans-rhythm-kings'
+  - >-
+    https://syncopatedtimes.com/new-orleans-rhythm-kings-a-k-a-friars-society-orchestra/
+  - 'https://www.allaboutjazz.com/musicians/new-orleans-rhythm-kings/'
+  - 'https://www.scaruffi.com/jazz/nork.html'
+  - 'https://syncopation.de/music-scores/new-orleans-rhythm-kings/'
+  - 'https://thejazztome.info/glossary/new-orleans-rhythm-kings/'
 network_extracted: true
 entry_created: '2025-10-19T12:27:20.696263'
 last_updated: '2025-12-23T08:16:03.437312'
 musicbrainz_enriched_at: '2025-10-21T09:39:19.631080'
 musicbrainz_id: b2ad6000-dd97-42b0-acb2-2227efe26d1d
-origin: Chicago, Illinois, United States (band origin; members from New Orleans, Louisiana, United States)
+origin: >-
+  Chicago, Illinois, United States (band origin; members from New Orleans,
+  Louisiana, United States)
 tags:
-- dixieland
-- jazz
+  - dixieland
+  - jazz
 ---
 
 ![](New_Orleans_Rhythm_Kings.jpg)

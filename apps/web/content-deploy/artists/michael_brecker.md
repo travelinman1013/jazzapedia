@@ -1,102 +1,102 @@
 ---
-title: michael brecker
+title: Michael Brecker
 wiki_slug: michael-brecker
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1949-03-29'
-birth_place: Philadelphia
+birth_place: 'Philadelphia, Pennsylvania, United States'
 death_date: '2007-01-13'
 genres:
-- jazz fusion
-- jazz
+  - jazz fusion
+  - jazz
 instruments:
-- flute
-- tenor saxophone
-- eponymous
-- original
-- background vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 46bdb0fa-6db1-44ea-b7b1-57de05b2cba1
-  name: The Brecker Brothers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 35429dc0-4024-46cf-b466-a703cbab01e5
-  name: Michael Brecker Quindectet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c991f281-d62a-4dce-af84-57ec7e6954ee
-  name: The Players Association
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8d35cd27-0504-4bbe-be87-f28ea200f7d3
-  name: Steps Ahead
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b00f3f13-1262-46f9-b066-94113ebce498
-  name: The Chris Walden Big Band
-- begin: ''
-  end: ''
-  instruments:
   - flute
   - tenor saxophone
-  mbid: cd4db7d8-8503-46e7-9d83-0e70bbc5a605
-  name: Dreams
-- begin: ''
-  end: ''
-  instruments:
-  - tenor saxophone
-  mbid: 16e4ca35-5a74-4580-83de-4b999b1f310a
-  name: The Herbie Hancock Quintet
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
-  mbid: 382cc4ce-d8aa-4c1e-8cb1-a4a9006182ee
-  name: Michael Brecker Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 56b1e8f5-d206-4aba-923f-e5c9b33b3d71
-  name: The Domenic Troiano Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bffe78b2-a291-484b-ba59-1803be1c7c27
-  name: The Herbie Hancock Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 83464cb1-55b4-452b-b72c-c4602e0d8a3d
-  name: Black Light Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e0217cd4-f532-47ec-9e20-c5019224622d
-  name: Flying Monkey Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 31dd2e79-9c86-42b7-96e4-0769f5eb65a5
-  name: Bob Mintzer Big Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 217566da-f815-4545-8231-3c2bf0a19cbd
-  name: Harris Simon Group
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6a331624-e5f3-4a72-868f-e825f2a7ff89
-  name: Mike Nock Quartet
+  - background vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 46bdb0fa-6db1-44ea-b7b1-57de05b2cba1
+    name: The Brecker Brothers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 35429dc0-4024-46cf-b466-a703cbab01e5
+    name: Michael Brecker Quindectet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c991f281-d62a-4dce-af84-57ec7e6954ee
+    name: The Players Association
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8d35cd27-0504-4bbe-be87-f28ea200f7d3
+    name: Steps Ahead
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b00f3f13-1262-46f9-b066-94113ebce498
+    name: The Chris Walden Big Band
+  - begin: ''
+    end: ''
+    instruments:
+      - flute
+      - tenor saxophone
+    mbid: cd4db7d8-8503-46e7-9d83-0e70bbc5a605
+    name: Dreams
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: 16e4ca35-5a74-4580-83de-4b999b1f310a
+    name: The Herbie Hancock Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 382cc4ce-d8aa-4c1e-8cb1-a4a9006182ee
+    name: Michael Brecker Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 56b1e8f5-d206-4aba-923f-e5c9b33b3d71
+    name: The Domenic Troiano Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bffe78b2-a291-484b-ba59-1803be1c7c27
+    name: The Herbie Hancock Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 83464cb1-55b4-452b-b72c-c4602e0d8a3d
+    name: Black Light Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e0217cd4-f532-47ec-9e20-c5019224622d
+    name: Flying Monkey Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 31dd2e79-9c86-42b7-96e4-0769f5eb65a5
+    name: Bob Mintzer Big Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 217566da-f815-4545-8231-3c2bf0a19cbd
+    name: Harris Simon Group
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6a331624-e5f3-4a72-868f-e825f2a7ff89
+    name: Mike Nock Quartet
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/michael_brecker.jpg
   caption: michael brecker
@@ -119,59 +119,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Randy Brecker
-  - Billy Cobham
-  - Mike Mainieri
-  - Herbie Hancock
-  - Pat Metheny
-  - Joni Mitchell
+    - Randy Brecker
+    - Billy Cobham
+    - Mike Mainieri
+    - Herbie Hancock
+    - Pat Metheny
+    - Joni Mitchell
   influenced:
-  - Chris Potter
-  - Joshua Redman
-  - Donny McCaslin
+    - Chris Potter
+    - Joshua Redman
+    - Donny McCaslin
   mentors:
-  - John Coltrane
-  - Bob Brecker (father)
+    - John Coltrane
+    - Bob Brecker (father)
 spotify_data:
   followers: 72039
   id: 5IkynsVZoak9UR2Xt8qsMj
   popularity: 34
-  url: https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj
+  url: 'https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj'
 discography_enriched: true
 top_tracks:
-- 'Midnight Mood (Nearness Of You: The Ballad Book)'
-- Don't Let Me Be Lonely Tonight (October Road (Special Edition))
-- As I Am (Time Is Of The Essence)
-- Every Breath You Take (Minh)
-- 'Chan''s Song (Never Said) (Nearness Of You: The Ballad Book)'
-- 'The Nearness Of You (Nearness Of You: The Ballad Book)'
-- Song For Bilbao (Tales From The Hudson)
-- Nothing Personal (Michael Brecker)
-- Midnight Voyage (Tales From The Hudson)
-- American Dreams (American Dreams)
+  - 'Midnight Mood (Nearness Of You: The Ballad Book)'
+  - Don't Let Me Be Lonely Tonight (October Road (Special Edition))
+  - As I Am (Time Is Of The Essence)
+  - Every Breath You Take (Minh)
+  - 'Chan''s Song (Never Said) (Nearness Of You: The Ballad Book)'
+  - 'The Nearness Of You (Nearness Of You: The Ballad Book)'
+  - Song For Bilbao (Tales From The Hudson)
+  - Nothing Personal (Michael Brecker)
+  - Midnight Voyage (Tales From The Hudson)
+  - American Dreams (American Dreams)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/795058e7-927e-4fcd-a5a0-f57c2fe9d3d1
-  spotify: https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj
-  wikipedia: https://en.wikipedia.org/wiki/Michael_Brecker
+  musicbrainz: 'https://musicbrainz.org/artist/795058e7-927e-4fcd-a5a0-f57c2fe9d3d1'
+  spotify: 'https://open.spotify.com/artist/5IkynsVZoak9UR2Xt8qsMj'
+  wikipedia: 'https://en.wikipedia.org/wiki/Michael_Brecker'
 image_path: 03_Resources/source_material/ArtistPortraits/michael_brecker.jpg
 biography_enhanced_at: '2025-11-06T13:32:55.427261'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Michael_Brecker
-- https://livingjazzarchives.org/archives/michael-brecker-archive/
-- https://concord.com/artist/michael-brecker/
-- https://www.britannica.com/biography/Michael-Leonard-Brecker
+  - 'https://en.wikipedia.org/wiki/Michael_Brecker'
+  - 'https://livingjazzarchives.org/archives/michael-brecker-archive/'
+  - 'https://concord.com/artist/michael-brecker/'
+  - 'https://www.britannica.com/biography/Michael-Leonard-Brecker'
 network_extracted: true
 entry_created: '2025-11-06T13:32:55.427283'
 last_updated: '2025-12-23T08:16:13.032821'
-disambiguation: American jazz saxophonist, multi-instrumentalist and composer
+disambiguation: 'American jazz saxophonist, multi-instrumentalist and composer'
 gender: Male
 musicbrainz_id: 795058e7-927e-4fcd-a5a0-f57c2fe9d3d1
 tags:
-- contemporary jazz
-- hard bop
-- jazz
+  - contemporary jazz
+  - hard bop
+  - jazz
+is_active: false
+origin: 'New York City, New York, United States'
 ---
 
 ![](michael_brecker.jpg)

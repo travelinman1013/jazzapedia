@@ -1,16 +1,16 @@
 ---
-title: jackie shane
+title: Jackie Shane
 wiki_slug: jackie-shane
 schema_version: 2
 status: active
-birth_place: Nashville, Tennessee, United States
+birth_place: 'Nashville, Tennessee, United States'
 genres:
-- northern soul
+  - northern soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jackie_shane.jpg
   caption: jackie shane
   background: solo_singer
-  origin: Nashville, Tennessee, United States
+  origin: 'Nashville, Tennessee, United States'
 audio_profile:
   tempo_avg: 114.4
   energy_avg: 0.685
@@ -26,48 +26,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Frank Motley
-  - Curley Bridges
-  - King Herbert Whitaker
+    - Frank Motley
+    - Curley Bridges
+    - King Herbert Whitaker
   influenced:
-  - Little Richard
+    - Little Richard
   mentors:
-  - Grandmother
-  - Little Willie John
-  - Joe Tex
+    - Grandmother
+    - Little Willie John
+    - Joe Tex
 spotify_data:
   followers: 21894
   id: 6AXXiSvB6R7MpYsXW1inOx
   popularity: 27
-  url: https://open.spotify.com/artist/6AXXiSvB6R7MpYsXW1inOx
+  url: 'https://open.spotify.com/artist/6AXXiSvB6R7MpYsXW1inOx'
 discography_enriched: true
 top_tracks:
-- Comin' Down (In My Tenement / Comin' Down)
-- Any Other Way (Any Other Way / Sticks And Stones)
-- In My Tenement (In My Tenement / Comin' Down)
-- Don't Play That Song (Live)
-- Sticks And Stones (Any Other Way / Sticks And Stones)
-- Any Other Way (Live)
-- Heartbreak (Confessions of a Lover)
-- You Are My Sunshine
-- 'Any Other Way (The Sue Records Story: The Sound Of Soul)'
-- Raindrops (Live)
+  - Comin' Down (In My Tenement / Comin' Down)
+  - Any Other Way (Any Other Way / Sticks And Stones)
+  - In My Tenement (In My Tenement / Comin' Down)
+  - Don't Play That Song (Live)
+  - Sticks And Stones (Any Other Way / Sticks And Stones)
+  - Any Other Way (Live)
+  - Heartbreak (Confessions of a Lover)
+  - You Are My Sunshine
+  - 'Any Other Way (The Sue Records Story: The Sound Of Soul)'
+  - Raindrops (Live)
 external_urls:
-  spotify: https://open.spotify.com/artist/6AXXiSvB6R7MpYsXW1inOx
-  wikipedia: https://en.wikipedia.org/wiki/Jackie_Shane
+  spotify: 'https://open.spotify.com/artist/6AXXiSvB6R7MpYsXW1inOx'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jackie_Shane'
 image_path: 03_Resources/source_material/ArtistPortraits/jackie_shane.jpg
 biography_enhanced_at: '2025-12-19T01:56:17.389348'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jackie_Shane
-- https://museumoftoronto.com/collection/no-other-way-the-story-of-jackie-shane/
-- https://numerogroup.com/blogs/stories/jackie-shane-baby-do-what-you-want
-- https://retrospectjournal.com/2023/02/12/do-what-you-want-just-know-what-youre-doing-the-life-of-jackie-shane/
-- https://www.sheffdocfest.com/film/any-other-way-jackie-shane-story
+  - 'https://en.wikipedia.org/wiki/Jackie_Shane'
+  - >-
+    https://museumoftoronto.com/collection/no-other-way-the-story-of-jackie-shane/
+  - 'https://numerogroup.com/blogs/stories/jackie-shane-baby-do-what-you-want'
+  - >-
+    https://retrospectjournal.com/2023/02/12/do-what-you-want-just-know-what-youre-doing-the-life-of-jackie-shane/
+  - 'https://www.sheffdocfest.com/film/any-other-way-jackie-shane-story'
 network_extracted: true
 entry_created: '2025-12-19T01:56:17.389366'
 last_updated: '2025-12-23T08:16:10.064088'
+birth_date: '1940-05-15'
+death_date: '2019-02-21'
+artist_type: person
 ---
 
 ![](jackie_shane.jpg)

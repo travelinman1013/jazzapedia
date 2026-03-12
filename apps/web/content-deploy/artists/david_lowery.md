@@ -3,14 +3,14 @@ title: David Lowery
 wiki_slug: david-lowery
 schema_version: 2
 status: active
-birth_place: San Antonio, Texas, USA
+birth_place: 'San Antonio, Texas, USA'
 genres:
-- alt country
+  - alt country
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/david_lowery.jpg
   caption: David Lowery
   background: solo_singer
-  origin: San Antonio, Texas, USA
+  origin: 'San Antonio, Texas, USA'
 audio_profile:
   tempo_avg: 118.9
   energy_avg: 0.482
@@ -26,47 +26,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Johnny Hickman
-  - FSK (Freiwillige Selbstkontrolle)
-  - Members of Camper Van Beethoven
+    - Johnny Hickman
+    - FSK (Freiwillige Selbstkontrolle)
+    - Members of Camper Van Beethoven
   influenced:
-  - Alt-country and indie rock musicians of the 1990s and 2000s
+    - Alt-country and indie rock musicians of the 1990s and 2000s
   mentors:
-  - None specifically documented
+    - None specifically documented
 spotify_data:
   followers: 2179
   id: 5V8GA6aqsyZizChn4Zj6st
   popularity: 11
-  url: https://open.spotify.com/artist/5V8GA6aqsyZizChn4Zj6st
+  url: 'https://open.spotify.com/artist/5V8GA6aqsyZizChn4Zj6st'
 discography_enriched: true
 top_tracks:
-- Leaving Key Member Clause (Fathers, Sons and Brothers)
-- I Wrote a Song Called Take the Skinheads Bowling (I Wrote a Song Called Take the Skinheads Bowling)
-- Plaza De Toros (Fathers, Sons and Brothers)
-- Mexican Chickens (Fathers, Sons and Brothers)
-- Frozen Sea (Fathers, Sons and Brothers)
-- Super Bloom (Fathers, Sons and Brothers)
-- How Does Your Sister Roller Skate (Fathers, Sons and Brothers)
-- Battle of Leros (Fathers, Sons and Brothers)
-- Disneyland Jail (Fathers, Sons and Brothers)
-- Europass (Fathers, Sons and Brothers)
+  - 'Leaving Key Member Clause (Fathers, Sons and Brothers)'
+  - >-
+    I Wrote a Song Called Take the Skinheads Bowling (I Wrote a Song Called Take
+    the Skinheads Bowling)
+  - 'Plaza De Toros (Fathers, Sons and Brothers)'
+  - 'Mexican Chickens (Fathers, Sons and Brothers)'
+  - 'Frozen Sea (Fathers, Sons and Brothers)'
+  - 'Super Bloom (Fathers, Sons and Brothers)'
+  - 'How Does Your Sister Roller Skate (Fathers, Sons and Brothers)'
+  - 'Battle of Leros (Fathers, Sons and Brothers)'
+  - 'Disneyland Jail (Fathers, Sons and Brothers)'
+  - 'Europass (Fathers, Sons and Brothers)'
 external_urls:
-  spotify: https://open.spotify.com/artist/5V8GA6aqsyZizChn4Zj6st
-  wikipedia: https://en.wikipedia.org/wiki/David_Lowery_(musician)
+  spotify: 'https://open.spotify.com/artist/5V8GA6aqsyZizChn4Zj6st'
+  wikipedia: 'https://en.wikipedia.org/wiki/David_Lowery_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/david_lowery.jpg
 biography_enhanced_at: '2025-10-27T02:38:13.129073'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/David_Lowery_(musician)
-- https://davidlowerymusic.com/bio-photos
-- https://tapeop.com/interviews/169/david-lowery-fathers-sons-and-brothers
-- https://coachellavalleyweekly.com/david-lowery/
-- https://jambands.com/features/2025/08/28/david-lowery-songs-of-the-unsung/
+  - 'https://en.wikipedia.org/wiki/David_Lowery_(musician)'
+  - 'https://davidlowerymusic.com/bio-photos'
+  - 'https://tapeop.com/interviews/169/david-lowery-fathers-sons-and-brothers'
+  - 'https://coachellavalleyweekly.com/david-lowery/'
+  - 'https://jambands.com/features/2025/08/28/david-lowery-songs-of-the-unsung/'
 network_extracted: true
 entry_created: '2025-10-27T02:38:13.129091'
 last_updated: '2025-12-23T08:16:07.557665'
-
+birth_date: '1960-09-10'
+artist_type: person
 ---
 
 ![](david_lowery.jpg)

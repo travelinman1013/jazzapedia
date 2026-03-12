@@ -5,21 +5,21 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1988-08-21'
-birth_place: Golden
+birth_place: 'Golden, Texas, United States'
 genres: []
 instruments:
-- original
-- acoustic guitar
-- lead vocals
-- background vocals
-- spoken vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - original
-  mbid: 5eb3f091-d52e-4ea8-9ec4-05456d15129b
-  name: Texas Two Bits
+  - acoustic guitar
+  - lead vocals
+  - background vocals
+  - spoken vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 5eb3f091-d52e-4ea8-9ec4-05456d15129b
+    name: Texas Two Bits
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/kacey_musgraves.jpg
   caption: Kacey Musgraves
@@ -41,53 +41,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Josh Abbott Band
-  - Zach Bryan
-  - Noah Kahan
+    - Josh Abbott Band
+    - Zach Bryan
+    - Noah Kahan
   influenced: []
   mentors:
-  - Monte Robison
+    - Monte Robison
 spotify_data:
   followers: 1629990
   id: 70kkdajctXSbqSMJbQO424
   popularity: 75
-  url: https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424
+  url: 'https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424'
 discography_enriched: true
 top_tracks:
-- I Remember Everything (feat. Kacey Musgraves) (Zach Bryan)
-- She Calls Me Back (with Kacey Musgraves) (Stick Season (Forever))
-- Slow Burn (Golden Hour)
-- Deeper Well (Deeper Well)
-- Butterflies (Golden Hour)
-- Rainbow (Golden Hour)
-- Golden Hour (Golden Hour)
-- Follow Your Arrow (Same Trailer Different Park)
-- She Calls Me Back (with Kacey Musgraves)
-- High Horse (Golden Hour)
+  - I Remember Everything (feat. Kacey Musgraves) (Zach Bryan)
+  - She Calls Me Back (with Kacey Musgraves) (Stick Season (Forever))
+  - Slow Burn (Golden Hour)
+  - Deeper Well (Deeper Well)
+  - Butterflies (Golden Hour)
+  - Rainbow (Golden Hour)
+  - Golden Hour (Golden Hour)
+  - Follow Your Arrow (Same Trailer Different Park)
+  - She Calls Me Back (with Kacey Musgraves)
+  - High Horse (Golden Hour)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d1393ecb-431b-4fde-a6ea-d769f2f040cb
-  spotify: https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424
-  wikipedia: https://en.wikipedia.org/wiki/Kacey_Musgraves
+  musicbrainz: 'https://musicbrainz.org/artist/d1393ecb-431b-4fde-a6ea-d769f2f040cb'
+  spotify: 'https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kacey_Musgraves'
 image_path: 03_Resources/source_material/ArtistPortraits/kacey_musgraves.jpg
 biography_enhanced_at: '2025-12-22T01:42:19.416330'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Kacey Musgraves
-- Simple English Wikipedia - Kacey Musgraves
-- IMDb - Kacey Musgraves
-- All American Speakers - Kacey Musgraves Biography
-- Billy Bob's Texas - Kacey Musgraves
-- Kiddle - Kacey Musgraves Facts for Kids
+  - Wikipedia - Kacey Musgraves
+  - Simple English Wikipedia - Kacey Musgraves
+  - IMDb - Kacey Musgraves
+  - All American Speakers - Kacey Musgraves Biography
+  - Billy Bob's Texas - Kacey Musgraves
+  - Kiddle - Kacey Musgraves Facts for Kids
 network_extracted: true
 entry_created: '2025-12-22T01:42:19.416335'
 last_updated: '2025-12-23T08:16:11.151175'
 gender: Female
 musicbrainz_id: d1393ecb-431b-4fde-a6ea-d769f2f040cb
 tags:
-- alternative country
-- americana
-- contemporary country
+  - alternative country
+  - americana
+  - contemporary country
 ---
 
 ![](kacey_musgraves.jpg)

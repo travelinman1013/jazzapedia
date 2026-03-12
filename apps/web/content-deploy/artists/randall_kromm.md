@@ -1,15 +1,19 @@
 ---
-title: RANDALL KROMM
+title: Randall Kromm
 wiki_slug: randall-kromm
 schema_version: 2
 status: active
-birth_place: Manhattan, Kansas, USA (birthplace); Boston, Massachusetts, USA (current base/origin)
+birth_place: >-
+  Manhattan, Kansas, USA (birthplace); Boston, Massachusetts, USA (current
+  base/origin)
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/randall_kromm.jpg
   caption: RANDALL KROMM
   background: solo_singer
-  origin: Manhattan, Kansas, USA (birthplace); Boston, Massachusetts, USA (current base/origin)
+  origin: >-
+    Manhattan, Kansas, USA (birthplace); Boston, Massachusetts, USA (current
+    base/origin)
 audio_profile:
   tempo_avg: 112.6
   energy_avg: 0.34
@@ -25,47 +29,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Emma and Grace Kromm
-  - Eric Kilburn
-  - Don White
-  - Joe Barbato, Kevin Barry, Niklas Freund, Billy Novick, Mike O’Connor, Howie Tarnower, Jordan Tirrell-Wysocki, Tom West
+    - Emma and Grace Kromm
+    - Eric Kilburn
+    - Don White
+    - >-
+      Joe Barbato, Kevin Barry, Niklas Freund, Billy Novick, Mike O’Connor,
+      Howie Tarnower, Jordan Tirrell-Wysocki, Tom West
   influenced: []
   mentors:
-  - Kingston Trio, Joan Baez, The Beatles
+    - 'Kingston Trio, Joan Baez, The Beatles'
 spotify_data:
   followers: 32
   id: 5zx87Gv30wJ8JJJCk0BOz7
   popularity: 0
-  url: https://open.spotify.com/artist/5zx87Gv30wJ8JJJCk0BOz7
+  url: 'https://open.spotify.com/artist/5zx87Gv30wJ8JJJCk0BOz7'
 discography_enriched: true
 top_tracks:
-- Late September (Late September)
-- My Day Off (Late September)
-- Let Your Song Be Wild (Late September)
-- In the Morning (Late September)
-- Deliver Me (Late September)
-- Goodbye Summer (Late September)
-- Crazy Tonight (Late September)
-- Diver (Late September)
-- Everybody's Saying (Late September)
-- Come With Me Now (Late September)
+  - Late September (Late September)
+  - My Day Off (Late September)
+  - Let Your Song Be Wild (Late September)
+  - In the Morning (Late September)
+  - Deliver Me (Late September)
+  - Goodbye Summer (Late September)
+  - Crazy Tonight (Late September)
+  - Diver (Late September)
+  - Everybody's Saying (Late September)
+  - Come With Me Now (Late September)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8123fbf5-dcc9-41f6-925e-8fb54e6e90fb
-  spotify: https://open.spotify.com/artist/5zx87Gv30wJ8JJJCk0BOz7
+  musicbrainz: 'https://musicbrainz.org/artist/8123fbf5-dcc9-41f6-925e-8fb54e6e90fb'
+  spotify: 'https://open.spotify.com/artist/5zx87Gv30wJ8JJJCk0BOz7'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/randall_kromm.jpg
 biography_enhanced_at: '2025-10-27T02:29:30.208903'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://randallkromm.com/bio
-- https://www.passim.org/artists/randall-kromm/
-- https://americanahighways.org/2023/11/20/grooves-cuts-october-2023/
-- https://trespassmusic.org/home/blog/randall-kromm-receives-stellar-review-for-rough-and-polished-stones
+  - 'https://randallkromm.com/bio'
+  - 'https://www.passim.org/artists/randall-kromm/'
+  - 'https://americanahighways.org/2023/11/20/grooves-cuts-october-2023/'
+  - >-
+    https://trespassmusic.org/home/blog/randall-kromm-receives-stellar-review-for-rough-and-polished-stones
 network_extracted: true
 entry_created: '2025-10-27T02:29:30.208920'
 last_updated: '2025-12-23T08:16:14.628670'
 musicbrainz_id: 8123fbf5-dcc9-41f6-925e-8fb54e6e90fb
+origin: 'Boston, Massachusetts, United States'
+artist_type: person
 ---
 
 ![](randall_kromm.jpg)

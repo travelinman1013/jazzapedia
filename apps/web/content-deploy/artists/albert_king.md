@@ -1,25 +1,25 @@
 ---
-title: albert king
+title: Albert King
 wiki_slug: albert-king
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1923-04-25'
-birth_place: Indianola
+birth_place: 'Indianola, Mississippi, United States'
 death_date: '1992-12-21'
 genres:
-- blues
-- classic blues
-- blues rock
-- soul blues
-- jazz blues
-- modern blues
+  - blues
+  - classic blues
+  - blues rock
+  - soul blues
+  - jazz blues
+  - modern blues
 instruments:
-- guitar
-- slide guitar
-- electric guitar
-- lead vocals
-- spoken vocals
+  - guitar
+  - slide guitar
+  - electric guitar
+  - lead vocals
+  - spoken vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/albert_king.jpg
   caption: albert king
@@ -42,46 +42,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Stax Records house band (Booker T. & the M.G.'s, The Memphis Horns)
-  - Jimmy Reed
+    - 'Stax Records house band (Booker T. & the M.G.''s, The Memphis Horns)'
+    - Jimmy Reed
   influenced:
-  - Jimi Hendrix
-  - Stevie Ray Vaughan
-  - Eric Clapton
-  - Joe Walsh
+    - Jimi Hendrix
+    - Stevie Ray Vaughan
+    - Eric Clapton
+    - Joe Walsh
   mentors:
-  - Elmore James
-  - Robert Nighthawk
-  - Blind Lemon Jefferson
+    - Elmore James
+    - Robert Nighthawk
+    - Blind Lemon Jefferson
 spotify_data:
   followers: 481080
   id: 5aygfDCEaX5KTZOxSCpT9o
   popularity: 49
-  url: https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o
+  url: 'https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o'
 discography_enriched: true
 top_tracks:
-- Born Under A Bad Sign - Mono Mix (Born Under A Bad Sign (Mono))
-- Born Under A Bad Sign (Born Under A Bad Sign)
-- I'll Play The Blues For You - Edit (Chronicle)
-- Crosscut Saw - Mono Mix (Born Under A Bad Sign (Mono))
-- As The Years Go Passing By (Born Under A Bad Sign)
-- Oh, Pretty Woman - Mono Mix (Born Under A Bad Sign (Mono))
-- Travelin' Man (I Wanna Get Funky)
-- The Sky Is Crying (Years Gone By)
-- Pride And Joy - Remastered 2024 (In Session (Deluxe Edition / Remastered 2024))
-- Crosscut Saw (The Very Best Of Albert King)
+  - Born Under A Bad Sign - Mono Mix (Born Under A Bad Sign (Mono))
+  - Born Under A Bad Sign (Born Under A Bad Sign)
+  - I'll Play The Blues For You - Edit (Chronicle)
+  - Crosscut Saw - Mono Mix (Born Under A Bad Sign (Mono))
+  - As The Years Go Passing By (Born Under A Bad Sign)
+  - 'Oh, Pretty Woman - Mono Mix (Born Under A Bad Sign (Mono))'
+  - Travelin' Man (I Wanna Get Funky)
+  - The Sky Is Crying (Years Gone By)
+  - >-
+    Pride And Joy - Remastered 2024 (In Session (Deluxe Edition / Remastered
+    2024))
+  - Crosscut Saw (The Very Best Of Albert King)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/10f89195-3af1-46f5-aa36-504aa3309f5a
-  spotify: https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o
-  wikipedia: Not directly provided in search results; no Wikipedia URL found in cited sources.
+  musicbrainz: 'https://musicbrainz.org/artist/10f89195-3af1-46f5-aa36-504aa3309f5a'
+  spotify: 'https://open.spotify.com/artist/5aygfDCEaX5KTZOxSCpT9o'
+  wikipedia: >-
+    Not directly provided in search results; no Wikipedia URL found in cited
+    sources.
 image_path: 03_Resources/source_material/ArtistPortraits/albert_king.jpg
 biography_enhanced_at: '2025-10-28T09:07:43.175798'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- EBSCO Research Starters
-- Britannica
-- Encyclopedia of Arkansas
+  - EBSCO Research Starters
+  - Britannica
+  - Encyclopedia of Arkansas
 network_extracted: true
 entry_created: '2025-10-28T09:07:43.175808'
 last_updated: '2025-12-23T08:16:04.499002'
@@ -89,9 +93,11 @@ disambiguation: well‐known US blues guitarist & singer
 gender: Male
 musicbrainz_id: 10f89195-3af1-46f5-aa36-504aa3309f5a
 tags:
-- 1960s
-- 1970s
-- 1980s
+  - 1960s
+  - 1970s
+  - 1980s
+is_active: false
+origin: 'West Memphis, Arkansas, United States'
 ---
 
 ![](albert_king.jpg)

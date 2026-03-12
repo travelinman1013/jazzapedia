@@ -1,15 +1,15 @@
 ---
-title: zuzu bollin
+title: Zuzu Bollin
 wiki_slug: zuzu-bollin
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1922-09-05'
-birth_place: Frisco
+birth_place: 'Frisco, Texas, United States'
 death_date: '1990-10-02'
 genres:
-- blues
-- classic blues
+  - blues
+  - classic blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/zuzu_bollin.jpg
   caption: zuzu bollin
@@ -32,57 +32,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - David 'Fathead' Newman
-  - Leroy Cooper
-  - Percy Mayfield
-  - Doug Sahm
-  - Duke Robillard
-  - Brian 'Hash Brown' Calway
+    - David 'Fathead' Newman
+    - Leroy Cooper
+    - Percy Mayfield
+    - Doug Sahm
+    - Duke Robillard
+    - Brian 'Hash Brown' Calway
   influenced:
-  - Dallas blues musicians
+    - Dallas blues musicians
   mentors:
-  - Blind Lemon Jefferson
-  - T-Bone Walker
-  - Ernie Fields
+    - Blind Lemon Jefferson
+    - T-Bone Walker
+    - Ernie Fields
 spotify_data:
   followers: 1179
   id: 4T7XsMXUOYlL1FlvqL3SIQ
   popularity: 13
-  url: https://open.spotify.com/artist/4T7XsMXUOYlL1FlvqL3SIQ
+  url: 'https://open.spotify.com/artist/4T7XsMXUOYlL1FlvqL3SIQ'
 discography_enriched: true
 top_tracks:
-- Why Don't You Eat Where You Slept Last Night? (Texas Bluesman)
-- Big Legs (Texas Bluesman)
-- Hey Little Girl (Texas Bluesman)
-- How Do You Want Your Rollin' Done? (Texas Bluesman)
-- Cold, Cold Feeling (Texas Bluesman)
-- Kidney Stew (Texas Bluesman)
-- Leary Blues (Texas Bluesman)
-- Zu's Blue (Texas Bluesman)
-- Blues in the Dark (Texas Bluesman)
-- Headlight Blues (Texas Bluesman)
+  - Why Don't You Eat Where You Slept Last Night? (Texas Bluesman)
+  - Big Legs (Texas Bluesman)
+  - Hey Little Girl (Texas Bluesman)
+  - How Do You Want Your Rollin' Done? (Texas Bluesman)
+  - 'Cold, Cold Feeling (Texas Bluesman)'
+  - Kidney Stew (Texas Bluesman)
+  - Leary Blues (Texas Bluesman)
+  - Zu's Blue (Texas Bluesman)
+  - Blues in the Dark (Texas Bluesman)
+  - Headlight Blues (Texas Bluesman)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/aaa49e4b-e7f5-48df-93f4-b21846cb3858
-  spotify: https://open.spotify.com/artist/4T7XsMXUOYlL1FlvqL3SIQ
-  wikipedia: https://en.wikipedia.org/wiki/Zuzu_Bollin
+  musicbrainz: 'https://musicbrainz.org/artist/aaa49e4b-e7f5-48df-93f4-b21846cb3858'
+  spotify: 'https://open.spotify.com/artist/4T7XsMXUOYlL1FlvqL3SIQ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Zuzu_Bollin'
 image_path: 03_Resources/source_material/ArtistPortraits/zuzu_bollin.jpg
 biography_enhanced_at: '2025-11-06T13:30:18.276339'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Zuzu_Bollin
-- https://www.dmagazine.com/publications/d-magazine/1989/july/music-rebirth-of-a-bluesman/
-- https://whoisthemonk.wordpress.com/2010/12/14/zuzu-bollin-texas-bluesman-1989/
-- https://recordtowntx.com/blogs/articles/zuzu-bollin-musical-rebirth
-- https://www.iheart.com/artist/zuzu-bollin-861777/
+  - 'https://en.wikipedia.org/wiki/Zuzu_Bollin'
+  - >-
+    https://www.dmagazine.com/publications/d-magazine/1989/july/music-rebirth-of-a-bluesman/
+  - >-
+    https://whoisthemonk.wordpress.com/2010/12/14/zuzu-bollin-texas-bluesman-1989/
+  - 'https://recordtowntx.com/blogs/articles/zuzu-bollin-musical-rebirth'
+  - 'https://www.iheart.com/artist/zuzu-bollin-861777/'
 network_extracted: true
 entry_created: '2025-11-06T13:30:18.276348'
 last_updated: '2025-12-23T08:16:18.477465'
 gender: Male
 musicbrainz_id: aaa49e4b-e7f5-48df-93f4-b21846cb3858
 tags:
-- blues
-- texas blues
+  - blues
+  - texas blues
+is_active: false
 ---
 
 ![](zuzu_bollin.jpg)

@@ -1,48 +1,52 @@
 ---
 biography_enhanced_at: '2025-12-28T01:59:46.484735'
-birth_place: San Juan, Puerto Rico
+birth_place: 'San Juan, Puerto Rico, United States'
 enhancement_provider: perplexity
 entry_created: '2025-12-28T01:59:46.484749'
 external_urls:
-  spotify: https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq
-  wikipedia: https://en.wikipedia.org/wiki/Rauw_Alejandro
+  spotify: 'https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq'
+  wikipedia: 'https://en.wikipedia.org/wiki/Rauw_Alejandro'
 genres:
-- reggaeton
-- urbano latino
-- trap latino
-- latin
+  - reggaeton
+  - urbano latino
+  - trap latino
+  - latin
 image_path: 03_Resources/source_material/ArtistPortraits/shallipopi_and_rauw_alejandro.jpg
 last_updated: '2025-12-28T01:59:46.484750'
 musical_connections:
   collaborators:
-  - Shallipopi
-  - Shakira
-  - Jennifer Lopez
-  - Bad Bunny
-  - J Balvin
-  - Ozuna
-  - Camilo
+    - Shallipopi
+    - Shakira
+    - Jennifer Lopez
+    - Bad Bunny
+    - J Balvin
+    - Ozuna
+    - Camilo
   influenced:
-  - Younger urbano and Latin R&B artists (general cohort)
+    - Younger urbano and Latin R&B artists (general cohort)
   mentors:
-  - Michael Jackson
-  - Daddy Yankee
-  - Chris Brown
-  - Ricky Martin
+    - Michael Jackson
+    - Daddy Yankee
+    - Chris Brown
+    - Ricky Martin
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Rauw_Alejandro
-- https://www.last.fm/music/Rauw+Alejandro/+wiki
-- https://puertoricounder.com/rauw-alejandro-the-puerto-rican-sensation-making-waves-in-latin-music/
-- https://afrobeatsmagazine.com/shallipopi-teams-up-with-rauw-alejandro-for-laho-iii/
+  - 'https://en.wikipedia.org/wiki/Rauw_Alejandro'
+  - 'https://www.last.fm/music/Rauw+Alejandro/+wiki'
+  - >-
+    https://puertoricounder.com/rauw-alejandro-the-puerto-rican-sensation-making-waves-in-latin-music/
+  - >-
+    https://afrobeatsmagazine.com/shallipopi-teams-up-with-rauw-alejandro-for-laho-iii/
 spotify_data:
   followers: 32004536
   id: 1mcTU81TzQhprhouKaTkpq
   popularity: 90
-  url: https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq
+  url: 'https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq'
 status: active
-title: shallipopi & rauw alejandro
+title: Shallipopi & Rauw Alejandro
+birth_date: '1993-01-10'
+artist_type: band
 ---
 
 ![](shallipopi_and_rauw_alejandro.jpg)

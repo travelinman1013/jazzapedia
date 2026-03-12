@@ -3,14 +3,14 @@ title: Mark Sherman
 wiki_slug: mark-sherman
 schema_version: 2
 status: active
-birth_place: New York City, New York, United States
+birth_place: 'New York City, New York, United States'
 genres:
-- jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/mark_sherman.jpg
   caption: Mark Sherman
   background: solo_singer
-  origin: New York City, New York, United States
+  origin: 'New York City, New York, United States'
 audio_profile:
   tempo_avg: 105.3
   energy_avg: 0.31
@@ -26,50 +26,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Wynton Marsalis
-  - Peggy Lee
-  - Larry Coryell
-  - Joe Lovano
-  - Michael Brecker
-  - Kenny Barron
+    - Wynton Marsalis
+    - Peggy Lee
+    - Larry Coryell
+    - Joe Lovano
+    - Michael Brecker
+    - Kenny Barron
   influenced:
-  - Numerous students at Juilliard and New York Jazz Workshop
+    - Numerous students at Juilliard and New York Jazz Workshop
   mentors:
-  - Saul Goodman
-  - Elden (Buster) Bailey
-  - Mike Renzi
+    - Saul Goodman
+    - Elden (Buster) Bailey
+    - Mike Renzi
 spotify_data:
   followers: 1945
   id: 18AQ9nxWckf5yw7XuEvten
   popularity: 15
-  url: https://open.spotify.com/artist/18AQ9nxWckf5yw7XuEvten
+  url: 'https://open.spotify.com/artist/18AQ9nxWckf5yw7XuEvten'
 discography_enriched: true
 top_tracks:
-- Ev'rytime We Say Goodbye (My Other Voice)
-- For EH (Bright Light)
-- Phrases (Explorations in Space and Time)
-- Mar Vista
-- Stank (Explorations in Space and Time)
-- This I Dig for You (Other Side)
-- Afternoon In Paris (Audiophile Piano Collection)
-- Phrases - Binaural (Explorations in Space and Time (Binaural))
-- Fillmore Street
-- Sonora Pass
+  - Ev'rytime We Say Goodbye (My Other Voice)
+  - For EH (Bright Light)
+  - Phrases (Explorations in Space and Time)
+  - Mar Vista
+  - Stank (Explorations in Space and Time)
+  - This I Dig for You (Other Side)
+  - Afternoon In Paris (Audiophile Piano Collection)
+  - Phrases - Binaural (Explorations in Space and Time (Binaural))
+  - Fillmore Street
+  - Sonora Pass
 external_urls:
-  spotify: https://open.spotify.com/artist/18AQ9nxWckf5yw7XuEvten
-  wikipedia: https://en.wikipedia.org/wiki/Mark_Sherman_(musician)
+  spotify: 'https://open.spotify.com/artist/18AQ9nxWckf5yw7XuEvten'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mark_Sherman_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/mark_sherman.jpg
 biography_enhanced_at: '2025-11-08T21:51:42.419293'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Mark_Sherman_(musician)
-- https://www.last.fm/music/Mark+Sherman/+wiki
-- https://www.allaboutjazz.com/musicians/mark-sherman/
-- https://www.juilliard.edu/music/faculty/sherman-mark
+  - 'https://en.wikipedia.org/wiki/Mark_Sherman_(musician)'
+  - 'https://www.last.fm/music/Mark+Sherman/+wiki'
+  - 'https://www.allaboutjazz.com/musicians/mark-sherman/'
+  - 'https://www.juilliard.edu/music/faculty/sherman-mark'
 network_extracted: true
 entry_created: '2025-11-08T21:51:42.419310'
 last_updated: '2025-12-23T08:16:12.715535'
+birth_date: '1957-04-17'
+artist_type: person
 ---
 
 ![](mark_sherman.jpg)

@@ -1,17 +1,17 @@
 ---
-title: TAMI LYN
+title: Tami Lyn
 wiki_slug: tami-lyn
 schema_version: 2
 status: active
-birth_place: Gert Town, New Orleans, Louisiana, United States
+birth_place: 'Gert Town, New Orleans, Louisiana, United States'
 genres:
-- northern soul
-- motown
+  - northern soul
+  - motown
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/tami_lyn.jpg
   caption: TAMI LYN
   background: solo_singer
-  origin: Gert Town, New Orleans, Louisiana, United States
+  origin: 'Gert Town, New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 125.3
   energy_avg: 0.58
@@ -27,51 +27,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dr. John (Mac Rebennack)
-  - The Rolling Stones
-  - King Floyd
-  - Wilson Pickett
-  - Sonny & Cher
-  - Sam Cooke
-  - Randy Jackson
+    - Dr. John (Mac Rebennack)
+    - The Rolling Stones
+    - King Floyd
+    - Wilson Pickett
+    - Sonny & Cher
+    - Sam Cooke
+    - Randy Jackson
   influenced: []
   mentors:
-  - Alvin "Red" Tyler
-  - Harold Battiste
-  - Mahalia Jackson
-  - Jerry Wexler
+    - Alvin "Red" Tyler
+    - Harold Battiste
+    - Mahalia Jackson
+    - Jerry Wexler
 spotify_data:
   followers: 3639
   id: 5K7ajGVh8S6bCjRjlhRVIl
   popularity: 21
-  url: https://open.spotify.com/artist/5K7ajGVh8S6bCjRjlhRVIl
+  url: 'https://open.spotify.com/artist/5K7ajGVh8S6bCjRjlhRVIl'
 discography_enriched: true
 top_tracks:
-- I'm Gonna Run Away from You (Love Is Here And Now You're Gone)
-- I'm Gonna Run Away from You (100 Greatest Soul)
-- 'I''m Gonna Run Away from You (Northern Soul: The Collection)'
-- Mojo Hannah (Love Is Here And Now You're Gone)
-- Mojo Hannah (100 Greatest Soul)
-- 'I''m Gonna Run Away from You (After Hours The Collection: Northern Soul Masters)'
-- I'm Gonna Run Away from You - 2012 Collection Remaster (Oh What A Night - 70's Classics)
-- I'm Gonna Run Away from You (70 Hits of the 70s)
-- I'm Gonna Run Away from You (Temazos Soul Clásico)
-- Light My Fire (Get Me Back on Time / Light My Fire)
+  - I'm Gonna Run Away from You (Love Is Here And Now You're Gone)
+  - I'm Gonna Run Away from You (100 Greatest Soul)
+  - 'I''m Gonna Run Away from You (Northern Soul: The Collection)'
+  - Mojo Hannah (Love Is Here And Now You're Gone)
+  - Mojo Hannah (100 Greatest Soul)
+  - >-
+    I'm Gonna Run Away from You (After Hours The Collection: Northern Soul
+    Masters)
+  - >-
+    I'm Gonna Run Away from You - 2012 Collection Remaster (Oh What A Night -
+    70's Classics)
+  - I'm Gonna Run Away from You (70 Hits of the 70s)
+  - I'm Gonna Run Away from You (Temazos Soul Clásico)
+  - Light My Fire (Get Me Back on Time / Light My Fire)
 external_urls:
-  spotify: https://open.spotify.com/artist/5K7ajGVh8S6bCjRjlhRVIl
-  wikipedia: https://en.wikipedia.org/wiki/Tami_Lynn
+  spotify: 'https://open.spotify.com/artist/5K7ajGVh8S6bCjRjlhRVIl'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tami_Lynn'
 image_path: 03_Resources/source_material/ArtistPortraits/tami_lyn.jpg
 biography_enhanced_at: '2025-11-05T12:58:14.194474'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Tami_Lynn
-- https://www.offbeat.com/news/tami-lynn/
-- https://homeofthegroove.blogspot.com/2008/02/tami-lynns-unlikely-hit-had-funky-flip.html
+  - 'https://en.wikipedia.org/wiki/Tami_Lynn'
+  - 'https://www.offbeat.com/news/tami-lynn/'
+  - >-
+    https://homeofthegroove.blogspot.com/2008/02/tami-lynns-unlikely-hit-had-funky-flip.html
 network_extracted: true
 entry_created: '2025-11-05T12:58:14.194494'
 last_updated: '2025-12-23T08:16:16.378351'
-
+birth_date: '1939-01-25'
+death_date: '2020-06-26'
+artist_type: person
 ---
 
 ![](tami_lyn.jpg)

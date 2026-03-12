@@ -1,52 +1,60 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-01-08T01:45:10.045867'
 birth_date: '2013'
 enhancement_provider: perplexity
 entry_created: '2026-01-08T01:45:10.045872'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/037de8e9-8069-4efd-8768-7d5da1db3190
-  spotify: https://open.spotify.com/artist/0IrmYMJwv1AcmVVbszfQ3x
+  musicbrainz: 'https://musicbrainz.org/artist/037de8e9-8069-4efd-8768-7d5da1db3190'
+  spotify: 'https://open.spotify.com/artist/0IrmYMJwv1AcmVVbszfQ3x'
   wikipedia: ''
 genres:
-- punk
-- garage rock
+  - punk
+  - garage rock
 image_path: 03_Resources/source_material/ArtistPortraits/sick_thoughts.jpg
 last_updated: '2026-01-08T01:45:10.045873'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6387aa5b-847c-4e9c-918c-7ce739697875
-  name: Drew Owen
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6387aa5b-847c-4e9c-918c-7ce739697875
+    name: Drew Owen
 musical_connections:
   collaborators:
-  - Goodbye Boozy, Ken Rock, Zaxxon, Goner Records, Slovenly/Black Gladiator (record labels)
+    - >-
+      Goodbye Boozy, Ken Rock, Zaxxon, Goner Records, Slovenly/Black Gladiator
+      (record labels)
   influenced:
-  - Younger DIY lo‑fi punk and ‘egg punk’ solo artists (various, not individually documented)
+    - >-
+      Younger DIY lo‑fi punk and ‘egg punk’ solo artists (various, not
+      individually documented)
   mentors:
-  - GG Allin & the Jabbers
-  - Japanese noise and noise‑punk artists (various)
-  - The Mummies / “budget rock” tradition
+    - GG Allin & the Jabbers
+    - Japanese noise and noise‑punk artists (various)
+    - The Mummies / “budget rock” tradition
 musicbrainz_id: 037de8e9-8069-4efd-8768-7d5da1db3190
 network_extracted: true
-origin: Hanover, Pennsylvania, United States (born); later based in Baltimore, Maryland, United States, and New Orleans, Louisiana, United States
+origin: >-
+  Hanover, Pennsylvania, United States (born); later based in Baltimore,
+  Maryland, United States, and New Orleans, Louisiana, United States
 primary_source: perplexity
 research_sources:
-- https://www.slovenly.com/artist/sick-thoughts/
-- https://swampbooking.com/sick-thoughts/
-- https://theduckclub.com/artist/sick-thoughts/
-- https://wknc.org/2022/07/30/praising-pentagrams-with-sick-thoughts-new-single/
-- https://www.maximumrocknroll.com/band/sick-thoughts/
-- https://www.psychedelicbabymag.com/2014/01/sick-thoughts-interview-with-drew-owen.html
+  - 'https://www.slovenly.com/artist/sick-thoughts/'
+  - 'https://swampbooking.com/sick-thoughts/'
+  - 'https://theduckclub.com/artist/sick-thoughts/'
+  - >-
+    https://wknc.org/2022/07/30/praising-pentagrams-with-sick-thoughts-new-single/
+  - 'https://www.maximumrocknroll.com/band/sick-thoughts/'
+  - >-
+    https://www.psychedelicbabymag.com/2014/01/sick-thoughts-interview-with-drew-owen.html
 spotify_data:
   followers: 5661
   id: 0IrmYMJwv1AcmVVbszfQ3x
   popularity: 16
-  url: https://open.spotify.com/artist/0IrmYMJwv1AcmVVbszfQ3x
+  url: 'https://open.spotify.com/artist/0IrmYMJwv1AcmVVbszfQ3x'
 status: active
 title: Sick Thoughts
-
+birth_place: 'Hanover, Pennsylvania, United States'
 ---
 
 ![](sick_thoughts.jpg)

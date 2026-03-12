@@ -6,32 +6,32 @@ status: deceased
 birth_name: Edward Ory
 aliases: []
 birth_date: '1886-12-25'
-birth_place: LaPlace, Louisiana, United States
+birth_place: 'LaPlace, Louisiana, United States'
 death_date: '1973-01-23'
 years_active: 1910–1966
 genres: []
 instruments:
-- trombone
+  - trombone
 occupation:
-- bandleader
-- conductor
-- jazz musician
-- composer
-- banjoist
+  - bandleader
+  - conductor
+  - jazz musician
+  - composer
+  - banjoist
 record_labels:
-- Columbia Records
-- Philips Records
-- Verve Records
+  - Columbia Records
+  - Philips Records
+  - Verve Records
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Kid_Ory.jpg
   caption: Kid Ory's Sunshine Band
   background: non_vocal_instrumentalist
   birth_name: Edward Ory
   born: '1886-12-25'
-  origin: LaPlace, Louisiana, United States
+  origin: 'LaPlace, Louisiana, United States'
   died: '1973-01-23'
 audio_profile:
-  tempo_avg: 103.0
+  tempo_avg: 103
   energy_avg: 0.315
   valence_avg: 0.934
   danceability_avg: 0.683
@@ -45,55 +45,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Louis Armstrong
-  - King Oliver
-  - Jelly Roll Morton
-  - Sidney Bechet
-  - Bunk Johnson
-  - Barney Bigard
+    - Louis Armstrong
+    - King Oliver
+    - Jelly Roll Morton
+    - Sidney Bechet
+    - Bunk Johnson
+    - Barney Bigard
   influenced:
-  - Trummy Young
-  - Jack Teagarden
-  - New Orleans Revivalists
+    - Trummy Young
+    - Jack Teagarden
+    - New Orleans Revivalists
   mentors:
-  - Buddy Bolden
+    - Buddy Bolden
 related_artists: []
 spotify_data:
   followers: 51
   id: 4NZdYuSlqlg56KtQCeTb5W
   popularity: 2
-  url: https://open.spotify.com/artist/4NZdYuSlqlg56KtQCeTb5W
+  url: 'https://open.spotify.com/artist/4NZdYuSlqlg56KtQCeTb5W'
   verified: false
 discography_enriched: true
 albums_count: 0
 singles_count: 0
 top_tracks:
-- 'Ory''s Creole Trombone (1920s: The Jazz Age In New Orleans)'
-- Society Blues (New Orleans Jazz Of The 1920s)
-- Ory's Creole Trombone (New Orleans Jazz Of The 1920s)
-- Ory S Creole Trombone - Original Mix (New Orleans Jazz)
-- 'Ory''s Creole Trombone (1920s: The Jazz Age In New Orleans)'
-- Ory's Creole Trombone (Essential Jazz Songs)
-- Society Blues (Essential Jazz Songs)
+  - 'Ory''s Creole Trombone (1920s: The Jazz Age In New Orleans)'
+  - Society Blues (New Orleans Jazz Of The 1920s)
+  - Ory's Creole Trombone (New Orleans Jazz Of The 1920s)
+  - Ory S Creole Trombone - Original Mix (New Orleans Jazz)
+  - 'Ory''s Creole Trombone (1920s: The Jazz Age In New Orleans)'
+  - Ory's Creole Trombone (Essential Jazz Songs)
+  - Society Blues (Essential Jazz Songs)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/4NZdYuSlqlg56KtQCeTb5W
-  wikipedia: https://en.wikipedia.org/wiki/Kid_Ory
+  spotify: 'https://open.spotify.com/artist/4NZdYuSlqlg56KtQCeTb5W'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kid_Ory'
 image_path: null
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:20:50.626330'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.britannica.com/biography/Kid-Ory
-- https://veritenews.org/2024/05/08/bitd-edward-kid-ory-jazz/
-- https://en.wikipedia.org/wiki/Kid_Ory
-- https://www.explorelouisiana.com/music/kid-ory
-- https://syncopatedtimes.com/profiles-in-jazz-kid-ory/
+  - 'https://www.britannica.com/biography/Kid-Ory'
+  - 'https://veritenews.org/2024/05/08/bitd-edward-kid-ory-jazz/'
+  - 'https://en.wikipedia.org/wiki/Kid_Ory'
+  - 'https://www.explorelouisiana.com/music/kid-ory'
+  - 'https://syncopatedtimes.com/profiles-in-jazz-kid-ory/'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:48:27.980629
+entry_created: 2025-09-22T21:48:27.980Z
 last_updated: '2025-12-23T08:16:02.852862'
+is_active: false
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![]()

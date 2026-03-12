@@ -1,90 +1,92 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 74955830-1c43-4d57-b85e-b0fd52ae876e
-  name: Benny Goodman and His Boys
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 9b87c1f6-23ae-469b-b710-ea5da2d3f848
-  name: Glenn Miller and His Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ac2ae864-33c3-4dd8-872d-6c516cfc9db2
-  name: California Ramblers
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 2e53f872-3f85-4023-80d9-454bdf120895
-  name: Glenn Miller and the Army Air Force Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 74955830-1c43-4d57-b85e-b0fd52ae876e
+    name: Benny Goodman and His Boys
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 9b87c1f6-23ae-469b-b710-ea5da2d3f848
+    name: Glenn Miller and His Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ac2ae864-33c3-4dd8-872d-6c516cfc9db2
+    name: California Ramblers
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 2e53f872-3f85-4023-80d9-454bdf120895
+    name: Glenn Miller and the Army Air Force Band
 biography_enhanced_at: '2026-01-04T01:53:35.934417'
 birth_date: '1904-03-01'
-birth_place: Clarinda
+birth_place: 'Clarinda, Iowa, United States'
 death_date: '1944-12-15'
 disambiguation: jazz band leader
 enhancement_provider: perplexity
 entry_created: '2026-01-04T01:53:35.934422'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7b353d3c-2bd9-40e3-a21d-b7da3f941339
-  spotify: https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc
-  wikipedia: https://en.wikipedia.org/wiki/Glenn_Miller
+  musicbrainz: 'https://musicbrainz.org/artist/7b353d3c-2bd9-40e3-a21d-b7da3f941339'
+  spotify: 'https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc'
+  wikipedia: 'https://en.wikipedia.org/wiki/Glenn_Miller'
 gender: Male
 genres:
-- big band
-- swing music
-- jazz
+  - big band
+  - swing music
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/glenn_miller.jpg
 instruments:
-- original
-- eponymous
-- other vocals
-- spoken vocals
+  - original
+  - eponymous
+  - other vocals
+  - spoken vocals
 last_updated: '2026-01-04T01:53:35.934423'
 musical_connections:
   collaborators:
-  - Benny Goodman
-  - Tommy Dorsey
-  - Ray Noble
-  - Johnny Desmond
-  - Peanuts Hucko
-  - Ray McKinley
+    - Benny Goodman
+    - Tommy Dorsey
+    - Ray Noble
+    - Johnny Desmond
+    - Peanuts Hucko
+    - Ray McKinley
   influenced:
-  - Modern U.S. Military Bands
-  - Swing and Big Band Musicians Worldwide
+    - Modern U.S. Military Bands
+    - Swing and Big Band Musicians Worldwide
   mentors:
-  - Joseph Schillinger
-  - Ben Pollack
-  - Victor Young
+    - Joseph Schillinger
+    - Ben Pollack
+    - Victor Young
 musicbrainz_id: 7b353d3c-2bd9-40e3-a21d-b7da3f941339
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://mus-col.com/en/the-authors/33475/
-- https://www.imdb.com/name/nm0001895/bio/
-- https://en.wikipedia.org/wiki/Glenn_Miller
-- https://mgleatherwork.com/blogs/news/glenn-miller-s-biography-career-and-legacy
-- https://www.windrep.org/Glenn_Miller
-- https://syncopatedtimes.com/glenn-miller-profiles-in-jazz/
-- https://cmhof.org/inductees/glenn-miller/
-- https://www.allaboutjazz.com/musicians/glenn-miller/
+  - 'https://mus-col.com/en/the-authors/33475/'
+  - 'https://www.imdb.com/name/nm0001895/bio/'
+  - 'https://en.wikipedia.org/wiki/Glenn_Miller'
+  - >-
+    https://mgleatherwork.com/blogs/news/glenn-miller-s-biography-career-and-legacy
+  - 'https://www.windrep.org/Glenn_Miller'
+  - 'https://syncopatedtimes.com/glenn-miller-profiles-in-jazz/'
+  - 'https://cmhof.org/inductees/glenn-miller/'
+  - 'https://www.allaboutjazz.com/musicians/glenn-miller/'
 spotify_data:
   followers: 583893
   id: 2aAHdB5HweT3mFcRzm0swc
   popularity: 58
-  url: https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc
+  url: 'https://open.spotify.com/artist/2aAHdB5HweT3mFcRzm0swc'
 status: active
 tags:
-- american
-- big band
-- jazz
+  - american
+  - big band
+  - jazz
 title: Glenn Miller
+is_active: false
 ---
 
 ![](glenn_miller.jpg)

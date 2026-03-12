@@ -1,46 +1,49 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-15T01:17:21.651999'
-birth_place: Roosevelt, Long Island, New York, USA
+birth_place: 'Roosevelt, Long Island, New York, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-15T01:17:21.652011'
 external_urls:
-  spotify: https://open.spotify.com/artist/2mlmkyddTwhEYoapNvQsmK
+  spotify: 'https://open.spotify.com/artist/2mlmkyddTwhEYoapNvQsmK'
   wikipedia: ''
 genres:
-- ragtime
+  - ragtime
 image_path: 03_Resources/source_material/ArtistPortraits/miff_moles_molers.jpg
 last_updated: '2026-01-15T01:17:21.652014'
 musical_connections:
   collaborators:
-  - Red Nichols
-  - Phil Napoleon
-  - Sophie Tucker
-  - Jimmy Dorsey
-  - Eddie Lang
-  - Paul Whiteman
-  - Benny Goodman
+    - Red Nichols
+    - Phil Napoleon
+    - Sophie Tucker
+    - Jimmy Dorsey
+    - Eddie Lang
+    - Paul Whiteman
+    - Benny Goodman
   influenced:
-  - Tommy Dorsey
-  - Jack Teagarden
+    - Tommy Dorsey
+    - Jack Teagarden
   mentors:
-  - Jack Teagarden
+    - Jack Teagarden
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://syncopatedtimes.com/miff-mole/
-- https://fromthevaults-boppinbob.blogspot.com/2019/03/miff-mole-born-11-march-1898.html
-- https://www.allaboutjazz.com/musicians/miff-mole/
-- https://cerra.substack.com/p/miff-mole-pioneer-of-melodic-improvisation
-- https://www.last.fm/music/Miff+Mole/+wiki
-- https://syncopatedtimes.com/miff-mole-and-his-little-molers/
+  - 'https://syncopatedtimes.com/miff-mole/'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2019/03/miff-mole-born-11-march-1898.html
+  - 'https://www.allaboutjazz.com/musicians/miff-mole/'
+  - 'https://cerra.substack.com/p/miff-mole-pioneer-of-melodic-improvisation'
+  - 'https://www.last.fm/music/Miff+Mole/+wiki'
+  - 'https://syncopatedtimes.com/miff-mole-and-his-little-molers/'
 spotify_data:
   followers: 245
   id: 2mlmkyddTwhEYoapNvQsmK
   popularity: 10
-  url: https://open.spotify.com/artist/2mlmkyddTwhEYoapNvQsmK
+  url: 'https://open.spotify.com/artist/2mlmkyddTwhEYoapNvQsmK'
 status: active
-title: MIFF MOLE'S MOLERS
+title: Miff Mole's Molers
+birth_date: '1898-03-11'
+death_date: '1961-04-29'
 ---
 
 ![](miff_moles_molers.jpg)

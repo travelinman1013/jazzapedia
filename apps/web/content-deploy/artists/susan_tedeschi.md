@@ -3,16 +3,16 @@ title: Susan Tedeschi
 wiki_slug: susan-tedeschi
 schema_version: 2
 status: active
-birth_place: Boston, Massachusetts, USA
+birth_place: 'Boston, Massachusetts, USA'
 genres:
-- modern blues
-- blues
-- blues rock
+  - modern blues
+  - blues
+  - blues rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/susan_tedeschi.jpg
   caption: Susan Tedeschi
   background: solo_singer
-  origin: Boston, Massachusetts, USA
+  origin: 'Boston, Massachusetts, USA'
 audio_profile:
   tempo_avg: 122.4
   energy_avg: 0.613
@@ -20,7 +20,7 @@ audio_profile:
   danceability_avg: 0.528
   acousticness_avg: 0.39
   instrumentalness_avg: 0.001
-  loudness_avg: -7.0
+  loudness_avg: -7
   speechiness_avg: 0.053
   liveness_avg: 0.381
   track_count: 61
@@ -28,47 +28,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Derek Trucks
-  - Sean Costello
-  - Adrienne Hayes
-  - Chris Layton and Tommy Shannon
+    - Derek Trucks
+    - Sean Costello
+    - Adrienne Hayes
+    - Chris Layton and Tommy Shannon
   influenced:
-  - Contemporary blues and roots musicians
+    - Contemporary blues and roots musicians
   mentors:
-  - Tim Gearan
-  - Toni Lynn Washington
+    - Tim Gearan
+    - Toni Lynn Washington
 spotify_data:
   followers: 227962
   id: 5Ws3s6lSP4Un8kQf8CrAta
   popularity: 50
-  url: https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta
+  url: 'https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta'
 discography_enriched: true
 top_tracks:
-- Mixed Drinks About Feelings (Mr. Misunderstood)
-- Will The Circle Be Unbroken - Live
-- You Got The Silver (Hope And Desire)
-- It Hurt So Bad (Just Won't Burn (25th Anniversary Deluxe Edition))
-- Don't Think Twice, It's All Right - Live (Live From Austin, TX)
-- Angel from Montgomery - Live (Live From Austin, TX)
-- Angel From Montgomery (Just Won't Burn (25th Anniversary Deluxe Edition))
-- Color of the Blues (For Better, Or Worse)
-- You Need To Be With Me (Just Won't Burn (25th Anniversary Deluxe Edition))
-- Little By Little (Just Won't Burn (25th Anniversary Deluxe Edition))
+  - Mixed Drinks About Feelings (Mr. Misunderstood)
+  - Will The Circle Be Unbroken - Live
+  - You Got The Silver (Hope And Desire)
+  - It Hurt So Bad (Just Won't Burn (25th Anniversary Deluxe Edition))
+  - 'Don''t Think Twice, It''s All Right - Live (Live From Austin, TX)'
+  - 'Angel from Montgomery - Live (Live From Austin, TX)'
+  - Angel From Montgomery (Just Won't Burn (25th Anniversary Deluxe Edition))
+  - 'Color of the Blues (For Better, Or Worse)'
+  - You Need To Be With Me (Just Won't Burn (25th Anniversary Deluxe Edition))
+  - Little By Little (Just Won't Burn (25th Anniversary Deluxe Edition))
 external_urls:
-  spotify: https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta
-  wikipedia: https://en.wikipedia.org/wiki/Susan_Tedeschi
+  spotify: 'https://open.spotify.com/artist/5Ws3s6lSP4Un8kQf8CrAta'
+  wikipedia: 'https://en.wikipedia.org/wiki/Susan_Tedeschi'
 image_path: 03_Resources/source_material/ArtistPortraits/susan_tedeschi.jpg
 biography_enhanced_at: '2025-11-03T07:42:35.291405'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Susan_Tedeschi
-- https://mabumbe.com/people/susan-tedeschis-life-story-career-relationships-net-worth-more/
-- https://www.allamericanspeakers.com/celebritytalentbios/Susan+Tedeschi/464240
-- https://briandambrosio.substack.com/p/born-of-the-beauty-of-the-blues-a
+  - 'https://en.wikipedia.org/wiki/Susan_Tedeschi'
+  - >-
+    https://mabumbe.com/people/susan-tedeschis-life-story-career-relationships-net-worth-more/
+  - >-
+    https://www.allamericanspeakers.com/celebritytalentbios/Susan+Tedeschi/464240
+  - 'https://briandambrosio.substack.com/p/born-of-the-beauty-of-the-blues-a'
 network_extracted: true
 entry_created: '2025-11-03T07:42:35.291425'
 last_updated: '2025-12-23T08:16:16.265253'
+birth_date: '1970-11-09'
+artist_type: person
 ---
 
 ![](susan_tedeschi.jpg)

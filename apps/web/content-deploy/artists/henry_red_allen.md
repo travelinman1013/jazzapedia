@@ -3,16 +3,16 @@ title: Henry Red Allen
 wiki_slug: henry-red-allen
 schema_version: 2
 status: active
-birth_place: Algiers, Louisiana, United States
+birth_place: 'Algiers, Louisiana, United States'
 genres:
-- swing music
-- jazz
-- big band
+  - swing music
+  - jazz
+  - big band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/henry_red_allen.jpg
   caption: Henry Red Allen
   background: solo_singer
-  origin: Algiers, Louisiana, United States
+  origin: 'Algiers, Louisiana, United States'
 audio_profile:
   tempo_avg: 118.8
   energy_avg: 0.295
@@ -28,51 +28,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Luis Russell
-  - Fletcher Henderson
-  - J. C. Higginbotham
-  - Louis Armstrong
-  - Coleman Hawkins
+    - Luis Russell
+    - Fletcher Henderson
+    - J. C. Higginbotham
+    - Louis Armstrong
+    - Coleman Hawkins
   influenced:
-  - Harry James
-  - Roy Eldridge
+    - Harry James
+    - Roy Eldridge
   mentors:
-  - Henry Allen Sr.
-  - Fate Marable
-  - Louis Armstrong
+    - Henry Allen Sr.
+    - Fate Marable
+    - Louis Armstrong
 spotify_data:
   followers: 3494
   id: 1kEniOVLhKw78gS0myngEf
   popularity: 18
-  url: https://open.spotify.com/artist/1kEniOVLhKw78gS0myngEf
+  url: 'https://open.spotify.com/artist/1kEniOVLhKw78gS0myngEf'
 discography_enriched: true
 top_tracks:
-- Just a Closer Walk with Thee (Midnight Blue)
-- You're Gonna Lose Your Gal (Everybody Shout)
-- You're Gonna Lose Your Gal (Swing Out)
-- A Sheridan "Square" (07-22-41) (Complete Jazz Series 1937 - 1941)
-- 'There''s a House in Harlem for Sale (The Incomparable Henry Red Allen, Vol. 1: The Golden Years)'
-- Whose Honey Are You (Midnight Blue)
-- The Mood That I'm In (Everybody Shout)
-- Canal Street Blues (Everybody Shout)
-- 'Whose Honey Are You? (Red Allen: Original 1933-1941 Recordings)'
-- 'College Holiday: I Adore You (Red Allen: Original 1933-1941 Recordings)'
+  - Just a Closer Walk with Thee (Midnight Blue)
+  - You're Gonna Lose Your Gal (Everybody Shout)
+  - You're Gonna Lose Your Gal (Swing Out)
+  - A Sheridan "Square" (07-22-41) (Complete Jazz Series 1937 - 1941)
+  - >-
+    There's a House in Harlem for Sale (The Incomparable Henry Red Allen, Vol.
+    1: The Golden Years)
+  - Whose Honey Are You (Midnight Blue)
+  - The Mood That I'm In (Everybody Shout)
+  - Canal Street Blues (Everybody Shout)
+  - 'Whose Honey Are You? (Red Allen: Original 1933-1941 Recordings)'
+  - 'College Holiday: I Adore You (Red Allen: Original 1933-1941 Recordings)'
 external_urls:
-  spotify: https://open.spotify.com/artist/1kEniOVLhKw78gS0myngEf
+  spotify: 'https://open.spotify.com/artist/1kEniOVLhKw78gS0myngEf'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/henry_red_allen.jpg
 biography_enhanced_at: '2025-12-13T10:49:47.534407'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://jazzprofiles.blogspot.com/2018/05/henry-red-allen.html
-- https://syncopatedtimes.com/profiles-in-jazz-henry-red-allen/
-- https://www.britannica.com/biography/Henry-Allen
-- http://www.jazzarcheology.com/artists/henry_red_allen.pdf
-- https://storyvillerecords.com/product-category/henry-james-red-allen/
+  - 'https://jazzprofiles.blogspot.com/2018/05/henry-red-allen.html'
+  - 'https://syncopatedtimes.com/profiles-in-jazz-henry-red-allen/'
+  - 'https://www.britannica.com/biography/Henry-Allen'
+  - 'http://www.jazzarcheology.com/artists/henry_red_allen.pdf'
+  - 'https://storyvillerecords.com/product-category/henry-james-red-allen/'
 network_extracted: true
 entry_created: '2025-12-13T10:49:47.534418'
 last_updated: '2025-12-23T08:16:09.568604'
+artist_type: person
 ---
 
 ![](henry_red_allen.jpg)

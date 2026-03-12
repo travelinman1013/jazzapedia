@@ -1,43 +1,45 @@
 ---
 biography_enhanced_at: '2026-01-19T01:04:54.590436'
-birth_place: Grand Rapids, Michigan, United States
+birth_place: 'Grand Rapids, Michigan, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-19T01:04:54.590441'
 external_urls:
-  spotify: https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo
-  wikipedia: https://en.wikipedia.org/wiki/Marvin_Sapp
+  spotify: 'https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo'
+  wikipedia: 'https://en.wikipedia.org/wiki/Marvin_Sapp'
 genres:
-- gospel
-- worship
-- traditional gospel
+  - gospel
+  - worship
+  - traditional gospel
 image_path: 03_Resources/source_material/ArtistPortraits/marvin_sapp.jpg
 last_updated: '2026-01-19T01:04:54.590441'
 musical_connections:
   collaborators:
-  - Aaron Lindsey
-  - Myron Butler
-  - Levi (choir)
-  - New Breed
+    - Aaron Lindsey
+    - Myron Butler
+    - Levi (choir)
+    - New Breed
   influenced: []
   mentors:
-  - Commissioned (gospel group)
+    - Commissioned (gospel group)
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Marvin_Sapp
-- https://www.messiahfm1.websiteradio.co/artists/marvin-sapp-149
-- http://www.christianmusic.com/marvin_sapp/marvin_sapp.htm
-- https://www.marvinsapp.com/about
-- https://pyramid-ent.com/artist/marvin-sapp/
-- https://www.aceshowbiz.com/celebrity/marvin_sapp/biography.html
-- https://www.iheart.com/artist/marvin-sapp-114259/
+  - 'https://en.wikipedia.org/wiki/Marvin_Sapp'
+  - 'https://www.messiahfm1.websiteradio.co/artists/marvin-sapp-149'
+  - 'http://www.christianmusic.com/marvin_sapp/marvin_sapp.htm'
+  - 'https://www.marvinsapp.com/about'
+  - 'https://pyramid-ent.com/artist/marvin-sapp/'
+  - 'https://www.aceshowbiz.com/celebrity/marvin_sapp/biography.html'
+  - 'https://www.iheart.com/artist/marvin-sapp-114259/'
 spotify_data:
   followers: 875621
   id: 5r0KYGxdIZEHZ6z6XbkVbo
   popularity: 53
-  url: https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo
+  url: 'https://open.spotify.com/artist/5r0KYGxdIZEHZ6z6XbkVbo'
 status: active
 title: Marvin Sapp
+birth_date: '1967-01-28'
+artist_type: person
 ---
 
 ![](marvin_sapp.jpg)

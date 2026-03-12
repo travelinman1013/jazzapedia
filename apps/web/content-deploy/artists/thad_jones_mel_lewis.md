@@ -1,50 +1,52 @@
 ---
-artist_type: band
+artist_type: person
 biography_enhanced_at: '2026-01-12T02:03:45.615012'
 enhancement_provider: perplexity
 entry_created: '2026-01-12T02:03:45.615019'
 external_urls:
-  spotify: https://open.spotify.com/artist/5ilr4cgnVQgSBwyLO0Nhgt
-  wikipedia: https://en.wikipedia.org/wiki/The_Thad_Jones/Mel_Lewis_Orchestra
+  spotify: 'https://open.spotify.com/artist/5ilr4cgnVQgSBwyLO0Nhgt'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Thad_Jones/Mel_Lewis_Orchestra'
 genres:
-- big band
+  - big band
 image_path: ''
 is_active: true
 last_updated: '2026-01-12T02:03:45.615020'
 musical_connections:
   collaborators:
-  - Village Vanguard (Max Gordon, club owner)
-  - Danish Radio Big Band
-  - Vanguard Jazz Orchestra (successor ensemble)
+    - 'Village Vanguard (Max Gordon, club owner)'
+    - Danish Radio Big Band
+    - Vanguard Jazz Orchestra (successor ensemble)
   influenced:
-  - Maria Schneider
-  - Bob Brookmeyer
-  - Jim McNeely
-  - Bob Mintzer
+    - Maria Schneider
+    - Bob Brookmeyer
+    - Jim McNeely
+    - Bob Mintzer
   mentors:
-  - Count Basie
-  - Benny Goodman
-  - Stan Kenton
+    - Count Basie
+    - Benny Goodman
+    - Stan Kenton
 network_extracted: true
-origin: New York City, New York, United States
+origin: 'New York, New York, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Thad_Jones/Mel_Lewis_Orchestra
-- https://www.bluenote.com/artist/thad-jones-mel-lewis/
-- https://www.allaboutjazz.com/musicians/the-thad-jones-mel-lewis-orchestra/
-- https://www.nationaljazzarchive.org.uk/explore/interviews/1634251-thad-jones-and-mel-lewis-interview-1
-- https://www.ejazzlines.com/big-band-arrangements/by-performer/thad-jones-village-vanguard-big-band-arrangements/
-- https://iverson.substack.com/p/tt-232-elusive-thad-jones-at-100
-- https://boyer.temple.edu/about/bcmd-records/centennial-music-thad-jones
-- https://isjac.org/hall-of-fame-new/thad-jones
-- https://livingjazzarchives.org/archives/thad-jones-archive/
+  - 'https://en.wikipedia.org/wiki/The_Thad_Jones/Mel_Lewis_Orchestra'
+  - 'https://www.bluenote.com/artist/thad-jones-mel-lewis/'
+  - 'https://www.allaboutjazz.com/musicians/the-thad-jones-mel-lewis-orchestra/'
+  - >-
+    https://www.nationaljazzarchive.org.uk/explore/interviews/1634251-thad-jones-and-mel-lewis-interview-1
+  - >-
+    https://www.ejazzlines.com/big-band-arrangements/by-performer/thad-jones-village-vanguard-big-band-arrangements/
+  - 'https://iverson.substack.com/p/tt-232-elusive-thad-jones-at-100'
+  - 'https://boyer.temple.edu/about/bcmd-records/centennial-music-thad-jones'
+  - 'https://isjac.org/hall-of-fame-new/thad-jones'
+  - 'https://livingjazzarchives.org/archives/thad-jones-archive/'
 spotify_data:
   followers: 0
   id: 5ilr4cgnVQgSBwyLO0Nhgt
   popularity: 10
-  url: https://open.spotify.com/artist/5ilr4cgnVQgSBwyLO0Nhgt
+  url: 'https://open.spotify.com/artist/5ilr4cgnVQgSBwyLO0Nhgt'
 status: active
-title: THAD JONES, MEL LEWIS
+title: 'Thad Jones, Mel Lewis'
 ---
 
 ![]()

@@ -5,18 +5,18 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1920-08-12'
-birth_place: Minden
+birth_place: 'Minden, Louisiana, United States'
 death_date: '1984-08-11'
 genres:
-- blues
-- classic blues
-- jazz blues
+  - blues
+  - classic blues
+  - jazz blues
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: dd823911-79a8-46be-bead-61dd49448d70
-  name: Percy Mayfield & Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: dd823911-79a8-46be-bead-61dd49448d70
+    name: Percy Mayfield & Orchestra
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/percy_mayfield.jpg
   caption: Percy Mayfield
@@ -39,53 +39,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ray Charles
-  - The Maytones
+    - Ray Charles
+    - The Maytones
   influenced:
-  - Ray Charles
-  - Johnny Adams
-  - Aaron Neville
+    - Ray Charles
+    - Johnny Adams
+    - Aaron Neville
   mentors:
-  - Church and Gospel Traditions
+    - Church and Gospel Traditions
 spotify_data:
   followers: 13828
   id: 4BfUHTiOoOcunsrw4mS2HU
   popularity: 23
-  url: https://open.spotify.com/artist/4BfUHTiOoOcunsrw4mS2HU
+  url: 'https://open.spotify.com/artist/4BfUHTiOoOcunsrw4mS2HU'
 discography_enriched: true
 top_tracks:
-- Louisiana (Poet Of The Blues)
-- Please Send Me Someone To Love (Poet Of The Blues)
-- 'Louisiana (The Voice Within: The Speciality Singles 1950-55)'
-- Hit The Road Jack (Memory Pain, Vol. 2)
-- Loose Lips (Poet Of The Blues)
-- 'Please Send Me Someone To Love (The Voice Within: The Speciality Singles 1950-55)'
-- 'The Voice Within (The Voice Within: The Speciality Singles 1950-55)'
-- Please Send Me Someone to Love (The Blues Collective - Percy Mayfield)
-- The River's Invitation (Poet Of The Blues)
-- 'Loose Lips (The Voice Within: The Speciality Singles 1950-55)'
+  - Louisiana (Poet Of The Blues)
+  - Please Send Me Someone To Love (Poet Of The Blues)
+  - 'Louisiana (The Voice Within: The Speciality Singles 1950-55)'
+  - 'Hit The Road Jack (Memory Pain, Vol. 2)'
+  - Loose Lips (Poet Of The Blues)
+  - >-
+    Please Send Me Someone To Love (The Voice Within: The Speciality Singles
+    1950-55)
+  - 'The Voice Within (The Voice Within: The Speciality Singles 1950-55)'
+  - Please Send Me Someone to Love (The Blues Collective - Percy Mayfield)
+  - The River's Invitation (Poet Of The Blues)
+  - 'Loose Lips (The Voice Within: The Speciality Singles 1950-55)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/21711e9c-3722-4b88-8cd4-5a1b6c9adba4
-  spotify: https://open.spotify.com/artist/4BfUHTiOoOcunsrw4mS2HU
-  wikipedia: https://en.wikipedia.org/wiki/Percy_Mayfield
+  musicbrainz: 'https://musicbrainz.org/artist/21711e9c-3722-4b88-8cd4-5a1b6c9adba4'
+  spotify: 'https://open.spotify.com/artist/4BfUHTiOoOcunsrw4mS2HU'
+  wikipedia: 'https://en.wikipedia.org/wiki/Percy_Mayfield'
 image_path: 03_Resources/source_material/ArtistPortraits/percy_mayfield.jpg
 biography_enhanced_at: '2025-10-23T07:28:09.205656'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://concord.com/artist/percy-mayfield/
-- https://wumb.org/the-poet-laureate-of-the-blues/
-- https://64parishes.org/entry/percy-mayfield
-- https://tims.blackcat.nl/messages/percy_mayfield.htm
+  - 'https://concord.com/artist/percy-mayfield/'
+  - 'https://wumb.org/the-poet-laureate-of-the-blues/'
+  - 'https://64parishes.org/entry/percy-mayfield'
+  - 'https://tims.blackcat.nl/messages/percy_mayfield.htm'
 network_extracted: true
 entry_created: '2025-10-23T07:28:09.205669'
 last_updated: '2025-12-23T08:16:14.191450'
 gender: Male
 musicbrainz_id: 21711e9c-3722-4b88-8cd4-5a1b6c9adba4
 tags:
-- 2008 universal fire victim
-- r&b
-- songwriter
+  - 2008 universal fire victim
+  - r&b
+  - songwriter
+is_active: false
+origin: 'Los Angeles, California, United States'
 ---
 
 ![](percy_mayfield.jpg)

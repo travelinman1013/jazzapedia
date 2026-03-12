@@ -3,17 +3,17 @@ title: Otis Rush
 wiki_slug: otis-rush
 schema_version: 2
 status: active
-birth_place: Philadelphia, Mississippi, United States
+birth_place: 'Philadelphia, Mississippi, United States'
 genres:
-- blues
-- classic blues
-- blues rock
-- soul blues
+  - blues
+  - classic blues
+  - blues rock
+  - soul blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/otis_rush.jpg
   caption: Otis Rush
   background: solo_singer
-  origin: Philadelphia, Mississippi, United States
+  origin: 'Philadelphia, Mississippi, United States'
 audio_profile:
   tempo_avg: 129.5
   energy_avg: 0.538
@@ -29,53 +29,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Willie Dixon
-  - Magic Sam
-  - Buddy Guy
+    - Willie Dixon
+    - Magic Sam
+    - Buddy Guy
   influenced:
-  - Eric Clapton
-  - Stevie Ray Vaughan
-  - Michael Bloomfield
-  - Peter Green
+    - Eric Clapton
+    - Stevie Ray Vaughan
+    - Michael Bloomfield
+    - Peter Green
   mentors:
-  - Muddy Waters
-  - Willie Dixon
-  - B.B. King
+    - Muddy Waters
+    - Willie Dixon
+    - B.B. King
 spotify_data:
   followers: 184534
   id: 1h0hOL3bVcYlg4xcSjU7fP
   popularity: 39
-  url: https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP
+  url: 'https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP'
 discography_enriched: true
 top_tracks:
-- All Your Love (I Miss Loving)
-- Working Man (Mourning In The Morning)
-- All Your Love (1956-1958 Cobra Recordings)
-- Double Trouble (1956-1958 Cobra Recordings)
-- I Can't Quit You Baby - Alternate Version (1956-1958 Cobra Recordings)
-- All Your Love - Mono (Blues Breakers)
-- Reap What You Sow (Mourning In The Morning)
-- Double Trouble
-- I Can't Quit You Baby
-- Gambler's Blues (Mourning In The Morning)
+  - All Your Love (I Miss Loving)
+  - Working Man (Mourning In The Morning)
+  - All Your Love (1956-1958 Cobra Recordings)
+  - Double Trouble (1956-1958 Cobra Recordings)
+  - I Can't Quit You Baby - Alternate Version (1956-1958 Cobra Recordings)
+  - All Your Love - Mono (Blues Breakers)
+  - Reap What You Sow (Mourning In The Morning)
+  - Double Trouble
+  - I Can't Quit You Baby
+  - Gambler's Blues (Mourning In The Morning)
 external_urls:
-  spotify: https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP
-  wikipedia: https://en.wikipedia.org/wiki/Otis_Rush
+  spotify: 'https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP'
+  wikipedia: 'https://en.wikipedia.org/wiki/Otis_Rush'
 image_path: 03_Resources/source_material/ArtistPortraits/otis_rush.jpg
 biography_enhanced_at: '2025-11-01T15:30:05.078001'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://msbluestrail.org/blues-trail-markers/otis-rush
-- https://www.alligator.com/artists/Otis-Rush/
-- https://en.wikipedia.org/wiki/Otis_Rush
-- https://www.elderly.com/pages/otis-rush-celebrating-black-history-month
-- https://www.afterglowatx.com/blog/2023/4/30/aural-history-the-slow-burning-soul-splitting-heartache-of-otis-rush
-- https://jasobrecht.substack.com/p/otis-rush-this-is-my-life-story
+  - 'https://msbluestrail.org/blues-trail-markers/otis-rush'
+  - 'https://www.alligator.com/artists/Otis-Rush/'
+  - 'https://en.wikipedia.org/wiki/Otis_Rush'
+  - 'https://www.elderly.com/pages/otis-rush-celebrating-black-history-month'
+  - >-
+    https://www.afterglowatx.com/blog/2023/4/30/aural-history-the-slow-burning-soul-splitting-heartache-of-otis-rush
+  - 'https://jasobrecht.substack.com/p/otis-rush-this-is-my-life-story'
 network_extracted: true
 entry_created: '2025-11-01T15:30:05.078009'
 last_updated: '2025-12-23T08:16:03.511864'
-
+origin: 'Chicago, Illinois, United States'
+artist_type: person
 ---
 
 ![](otis_rush.jpg)

@@ -2,49 +2,49 @@
 artist_type: person
 biography_enhanced_at: '2026-01-01T01:11:24.414717'
 birth_date: '1970-08-21'
-birth_place: New Orleans
+birth_place: 'New Orleans, Louisiana, United States'
 disambiguation: American jazz trumpeter
 enhancement_provider: perplexity
 entry_created: '2026-01-01T01:11:24.414729'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b3363d36-16d2-45d4-962a-10d5491849f6
-  spotify: https://open.spotify.com/artist/4GRcTJVf9DycXaXLAZOH5X
+  musicbrainz: 'https://musicbrainz.org/artist/b3363d36-16d2-45d4-962a-10d5491849f6'
+  spotify: 'https://open.spotify.com/artist/4GRcTJVf9DycXaXLAZOH5X'
   wikipedia: ''
 gender: Male
 genres:
-- free jazz
+  - free jazz
 image_path: 03_Resources/source_material/ArtistPortraits/marlon_jordan.jpg
 last_updated: '2026-01-01T01:11:24.414731'
 musical_connections:
   collaborators:
-  - Wynton Marsalis
-  - Terence Blanchard
-  - Miles Davis
-  - George Benson
+    - Wynton Marsalis
+    - Terence Blanchard
+    - Miles Davis
+    - George Benson
   influenced: []
   mentors:
-  - Edward 'Kidd' Jordan
-  - Kent Jordan
+    - Edward 'Kidd' Jordan
+    - Kent Jordan
 musicbrainz_id: b3363d36-16d2-45d4-962a-10d5491849f6
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.marlonjordan.net
-- https://www.allaboutjazz.com/musicians/marlon-jordan/
-- https://www.marlonjordanmusic.com
-- https://arabesquerecords.com/marlonjordan/
-- https://louisarmstrongjazzcamp.com/dt_team/jordan2/
-- https://www.allmusic.com/artist/marlon-jordan-mn0000848943
+  - 'https://www.marlonjordan.net'
+  - 'https://www.allaboutjazz.com/musicians/marlon-jordan/'
+  - 'https://www.marlonjordanmusic.com'
+  - 'https://arabesquerecords.com/marlonjordan/'
+  - 'https://louisarmstrongjazzcamp.com/dt_team/jordan2/'
+  - 'https://www.allmusic.com/artist/marlon-jordan-mn0000848943'
 spotify_data:
   followers: 186
   id: 4GRcTJVf9DycXaXLAZOH5X
   popularity: 4
-  url: https://open.spotify.com/artist/4GRcTJVf9DycXaXLAZOH5X
+  url: 'https://open.spotify.com/artist/4GRcTJVf9DycXaXLAZOH5X'
 status: active
 tags:
-- jazz
-- jazz instrument
-title: marlon jordan
+  - jazz
+  - jazz instrument
+title: Marlon Jordan
 ---
 
 ![](marlon_jordan.jpg)

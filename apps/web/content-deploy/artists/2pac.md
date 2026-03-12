@@ -5,47 +5,47 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1971-06-16'
-birth_place: East Harlem
+birth_place: 'East Harlem, Manhattan, New York, United States'
 death_date: '1996-09-13'
 genres:
-- gangster rap
-- west coast hip hop
-- g-funk
-- hip hop
+  - gangster rap
+  - west coast hip hop
+  - g-funk
+  - hip hop
 instruments:
-- original
-- lead vocals
-- spoken vocals
-- background vocals
-- other vocals
+  - original
+  - lead vocals
+  - spoken vocals
+  - background vocals
+  - other vocals
 associated_acts:
-- begin: '1989'
-  end: '1991'
-  instruments:
-  - original
-  mbid: a3405320-d962-4b6f-bc73-f79bb1d1522f
-  name: Strictly Dope
-- begin: '1991'
-  end: '1993'
-  instruments: []
-  mbid: ff6cb06c-a6e5-4ab9-a5ce-fa2095be45b9
-  name: Digital Underground
-- begin: '1992'
-  end: '1996-09-13'
-  instruments:
-  - original
-  mbid: 703f9c8c-32c8-482a-900d-a12fd8f20360
-  name: Thug Life
-- begin: ''
-  end: '1996-09-13'
-  instruments: []
-  mbid: 60f063f4-0ad9-4070-9801-3cf017728c44
-  name: Outlawz
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8091f377-a24e-4652-af73-7bbb2cf0b1cc
-  name: Thug Music
+  - begin: '1989'
+    end: '1991'
+    instruments:
+      - original
+    mbid: a3405320-d962-4b6f-bc73-f79bb1d1522f
+    name: Strictly Dope
+  - begin: '1991'
+    end: '1993'
+    instruments: []
+    mbid: ff6cb06c-a6e5-4ab9-a5ce-fa2095be45b9
+    name: Digital Underground
+  - begin: '1992'
+    end: '1996-09-13'
+    instruments:
+      - original
+    mbid: 703f9c8c-32c8-482a-900d-a12fd8f20360
+    name: Thug Life
+  - begin: ''
+    end: '1996-09-13'
+    instruments: []
+    mbid: 60f063f4-0ad9-4070-9801-3cf017728c44
+    name: Outlawz
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8091f377-a24e-4652-af73-7bbb2cf0b1cc
+    name: Thug Music
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/2pac.jpg
   caption: 2Pac
@@ -68,44 +68,44 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Digital Underground
-  - Mopreme Shakur
+    - Digital Underground
+    - Mopreme Shakur
   influenced:
-  - West Coast Hip-Hop Artists
+    - West Coast Hip-Hop Artists
   mentors:
-  - Leila Steinberg
-  - Atron Gregory
+    - Leila Steinberg
+    - Atron Gregory
 spotify_data:
   followers: 22797421
   id: 1ZwdS5xdxEREPySFridCfh
   popularity: 80
-  url: https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh
+  url: 'https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh'
 discography_enriched: true
 top_tracks:
-- Hit 'Em Up - Single Version
-- California Love - Original Version
-- All Eyez On Me (ft. Big Syke) (All Eyez On Me)
-- Ambitionz Az A Ridah (All Eyez On Me)
-- Do For Love (R U Still Down? [Remember Me])
-- Changes
-- How Do U Want It (ft. K-Ci & JoJo) (All Eyez On Me)
-- 2 Of Amerikaz Most Wanted (ft. Snoop Doggy Dogg) (All Eyez On Me)
-- Can't C Me (All Eyez On Me)
-- Dear Mama (Me Against The World)
+  - Hit 'Em Up - Single Version
+  - California Love - Original Version
+  - All Eyez On Me (ft. Big Syke) (All Eyez On Me)
+  - Ambitionz Az A Ridah (All Eyez On Me)
+  - 'Do For Love (R U Still Down? [Remember Me])'
+  - Changes
+  - How Do U Want It (ft. K-Ci & JoJo) (All Eyez On Me)
+  - 2 Of Amerikaz Most Wanted (ft. Snoop Doggy Dogg) (All Eyez On Me)
+  - Can't C Me (All Eyez On Me)
+  - Dear Mama (Me Against The World)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/382f1005-e9ab-4684-afd4-0bdae4ee37f2
-  spotify: https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh
-  wikipedia: https://en.wikipedia.org/wiki/Tupac_Shakur
+  musicbrainz: 'https://musicbrainz.org/artist/382f1005-e9ab-4684-afd4-0bdae4ee37f2'
+  spotify: 'https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tupac_Shakur'
 image_path: 03_Resources/source_material/ArtistPortraits/2pac.jpg
 biography_enhanced_at: '2025-12-04T08:04:00.157324'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Tupac Shakur
-- EBSCO Research Starters - Tupac Shakur
-- Britannica - Tupac Shakur Biography
-- Biography.com - Tupac Shakur
-- BlackPast.org - Tupac Shakur (1971-1996)
+  - Wikipedia - Tupac Shakur
+  - EBSCO Research Starters - Tupac Shakur
+  - Britannica - Tupac Shakur Biography
+  - Biography.com - Tupac Shakur
+  - BlackPast.org - Tupac Shakur (1971-1996)
 network_extracted: true
 entry_created: '2025-12-04T08:04:00.157330'
 last_updated: '2025-12-23T08:16:00.904148'
@@ -113,10 +113,11 @@ disambiguation: US rapper
 gender: Male
 musicbrainz_id: 382f1005-e9ab-4684-afd4-0bdae4ee37f2
 tags:
-- 90s
-- conscious hip hop
-- death by murder
-
+  - 90s
+  - conscious hip hop
+  - death by murder
+is_active: false
+origin: 'Marin City, California, United States'
 ---
 
 ![](2pac.jpg)

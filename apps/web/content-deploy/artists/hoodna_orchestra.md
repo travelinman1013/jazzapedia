@@ -4,7 +4,7 @@ wiki_slug: hoodna-orchestra
 schema_version: 2
 status: active
 genres:
-- ethiopian jazz
+  - ethiopian jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/hoodna_orchestra.jpg
   caption: Hoodna Orchestra
@@ -24,53 +24,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mulatu Astatke
-  - Tesfaye Negatu
-  - Neal Sugarman
-  - Ilan Smilan
-  - Eitan Drabkin
-  - Rani Birenbaum
+    - Mulatu Astatke
+    - Tesfaye Negatu
+    - Neal Sugarman
+    - Ilan Smilan
+    - Eitan Drabkin
+    - Rani Birenbaum
   influenced:
-  - Local Tel Aviv jazz and funk musicians
+    - Local Tel Aviv jazz and funk musicians
   mentors:
-  - Mulatu Astatke
-  - Adyabo Ensemble
+    - Mulatu Astatke
+    - Adyabo Ensemble
 spotify_data:
   followers: 4342
   id: 0W4SloMSD1yelzFsp1UkFk
   popularity: 21
-  url: https://open.spotify.com/artist/0W4SloMSD1yelzFsp1UkFk
+  url: 'https://open.spotify.com/artist/0W4SloMSD1yelzFsp1UkFk'
 discography_enriched: true
 top_tracks:
-- Tension (Tension)
-- Major (Tension)
-- Delilah (Tension)
-- Hatula (Tension)
-- Dung Gate (Tension)
-- Yashan (Tension)
-- Sof Layla (Ba Hoodna) (Sof Layla (Ba Hoodna))
-- Dung Gate (Dung Gate)
-- Tension (Tension)
-- Major (Major)
+  - Tension (Tension)
+  - Major (Tension)
+  - Delilah (Tension)
+  - Hatula (Tension)
+  - Dung Gate (Tension)
+  - Yashan (Tension)
+  - Sof Layla (Ba Hoodna) (Sof Layla (Ba Hoodna))
+  - Dung Gate (Dung Gate)
+  - Tension (Tension)
+  - Major (Major)
 external_urls:
-  spotify: https://open.spotify.com/artist/0W4SloMSD1yelzFsp1UkFk
+  spotify: 'https://open.spotify.com/artist/0W4SloMSD1yelzFsp1UkFk'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/hoodna_orchestra.jpg
 biography_enhanced_at: '2025-11-14T10:35:22.151835'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://worldmusiccentral.org/ethio-jazz-pioneer-mulatu-astatke-collaborates-with-hoodna-orchestra-on-new-album-tension/
-- https://batovrecords.com/tension-by-mulatu-astatke-hoodna-orchestra/
-- https://www.dublab.com/hoodna-orchestra-tradition-and-transition-dublab-goes-to-israel/
-- https://klofmag.com/2025/01/mulatu-astatke-hoodna-orchestra-tension/
-- https://www.last.fm/music/Hoodna+Afrobeat+Orchestra/+wiki
-- https://forcedexposure.com/Artists/ASTATKE.AND.HOODNA.ORCHESTRA.MULATU.html
+  - >-
+    https://worldmusiccentral.org/ethio-jazz-pioneer-mulatu-astatke-collaborates-with-hoodna-orchestra-on-new-album-tension/
+  - 'https://batovrecords.com/tension-by-mulatu-astatke-hoodna-orchestra/'
+  - >-
+    https://www.dublab.com/hoodna-orchestra-tradition-and-transition-dublab-goes-to-israel/
+  - 'https://klofmag.com/2025/01/mulatu-astatke-hoodna-orchestra-tension/'
+  - 'https://www.last.fm/music/Hoodna+Afrobeat+Orchestra/+wiki'
+  - 'https://forcedexposure.com/Artists/ASTATKE.AND.HOODNA.ORCHESTRA.MULATU.html'
 network_extracted: true
 entry_created: '2025-11-14T10:35:22.151843'
 last_updated: '2025-12-23T08:16:09.654559'
-origin: Florentin, Tel Aviv, Israel
-
+origin: 'Florentin, Tel Aviv, Israel'
+artist_type: band
 ---
 
 ![](hoodna_orchestra.jpg)

@@ -1,67 +1,67 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-09T01:56:30.573059'
-birth_date: '1965'
+birth_date: '1944-05-12'
 enhancement_provider: perplexity
 entry_created: '2026-01-09T01:56:30.573067'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b99517b8-307c-487d-b0b9-058216f3451b
-  spotify: https://open.spotify.com/artist/1qO2mRQM4zbksO586oM0W7
-  wikipedia: https://en.wikipedia.org/wiki/James_%26_Bobby_Purify
+  musicbrainz: 'https://musicbrainz.org/artist/b99517b8-307c-487d-b0b9-058216f3451b'
+  spotify: 'https://open.spotify.com/artist/1qO2mRQM4zbksO586oM0W7'
+  wikipedia: 'https://en.wikipedia.org/wiki/James_%26_Bobby_Purify'
 genres:
-- northern soul
-- motown
+  - northern soul
+  - motown
 image_path: 03_Resources/source_material/ArtistPortraits/james_and_bobby_purify.jpg
 last_updated: '2026-01-09T01:56:30.573075'
 members:
-- begin: '1965'
-  end: '1971'
-  instruments: []
-  mbid: 3ecfac6a-38d9-439e-b68a-b9204fbf4b8c
-  name: Bobby Purify
-- begin: '1971'
-  end: '1981'
-  instruments: []
-  mbid: 74e919ce-9dde-4124-96fb-40606e2a96bd
-  name: Bobby Purify
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: faf4c2ad-23e0-4cd4-806a-b6c0286ed7d8
-  name: James Purify
+  - begin: '1965'
+    end: '1971'
+    instruments: []
+    mbid: 3ecfac6a-38d9-439e-b68a-b9204fbf4b8c
+    name: Bobby Purify
+  - begin: '1971'
+    end: '1981'
+    instruments: []
+    mbid: 74e919ce-9dde-4124-96fb-40606e2a96bd
+    name: Bobby Purify
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: faf4c2ad-23e0-4cd4-806a-b6c0286ed7d8
+    name: James Purify
 musical_connections:
   collaborators:
-  - Robert Lee Dickey (original Bobby Purify)
-  - Ben Moore (second Bobby Purify)
-  - American Sound Studio house musicians
+    - Robert Lee Dickey (original Bobby Purify)
+    - Ben Moore (second Bobby Purify)
+    - American Sound Studio house musicians
   influenced:
-  - Northern soul and rare soul DJs/collectors in the UK
-  - Later soul and pop artists covering "I'm Your Puppet"
+    - Northern soul and rare soul DJs/collectors in the UK
+    - Later soul and pop artists covering "I'm Your Puppet"
   mentors:
-  - Papa Don Schroeder
-  - Dan Penn
-  - Spooner Oldham
+    - Papa Don Schroeder
+    - Dan Penn
+    - Spooner Oldham
 musicbrainz_id: b99517b8-307c-487d-b0b9-058216f3451b
 network_extracted: true
-origin: Pensacola
+origin: 'Pensacola, Florida, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/James_%26_Bobby_Purify
-- https://app.soulyears.com/artist-James+and+Bobby+Purify.htm
-- http://www.northernsoultrain.co.uk/artists/james&bobbypurify.html
-- https://www.deezer.com/us/artist/137256
-- https://www.bear-family.com/purify-bobby/
-- https://open.spotify.com/artist/1qO2mRQM4zbksO586oM0W7
+  - 'https://en.wikipedia.org/wiki/James_%26_Bobby_Purify'
+  - 'https://app.soulyears.com/artist-James+and+Bobby+Purify.htm'
+  - 'http://www.northernsoultrain.co.uk/artists/james&bobbypurify.html'
+  - 'https://www.deezer.com/us/artist/137256'
+  - 'https://www.bear-family.com/purify-bobby/'
+  - 'https://open.spotify.com/artist/1qO2mRQM4zbksO586oM0W7'
 spotify_data:
   followers: 34610
   id: 1qO2mRQM4zbksO586oM0W7
   popularity: 42
-  url: https://open.spotify.com/artist/1qO2mRQM4zbksO586oM0W7
+  url: 'https://open.spotify.com/artist/1qO2mRQM4zbksO586oM0W7'
 status: active
 tags:
-- classic pop and rock
-title: JAMES & BOBBY PURIFY
-
+  - classic pop and rock
+title: James & Bobby Purify
+birth_place: 'Pensacola, Florida, United States'
 ---
 
 ![](james_and_bobby_purify.jpg)

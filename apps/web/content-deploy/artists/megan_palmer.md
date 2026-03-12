@@ -3,13 +3,13 @@ title: Megan Palmer
 wiki_slug: megan-palmer
 schema_version: 2
 status: active
-birth_place: Ohio, United States
+birth_place: 'Ohio, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/megan_palmer.jpg
   caption: Megan Palmer
   background: solo_singer
-  origin: Ohio, United States
+  origin: 'Ohio, United States'
 audio_profile:
   tempo_avg: 123.3
   energy_avg: 0.459
@@ -25,51 +25,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Luther Wright & The Wrongs
-  - Andrija Tokic
-  - Jeff Ciampa
-  - Jack Lawrence
-  - Megan Coleman
-  - JJ Tourville
-  - Derry DeBorja
-  - Tim Easton
-  - Amy Speace
-  - Anne McCue
-  - Darrin Bradbury
+    - Luther Wright & The Wrongs
+    - Andrija Tokic
+    - Jeff Ciampa
+    - Jack Lawrence
+    - Megan Coleman
+    - JJ Tourville
+    - Derry DeBorja
+    - Tim Easton
+    - Amy Speace
+    - Anne McCue
+    - Darrin Bradbury
   influenced: []
   mentors: []
 spotify_data:
   followers: 292
   id: 4yxOsMjPnLanfxoHjQSMdS
   popularity: 1
-  url: https://open.spotify.com/artist/4yxOsMjPnLanfxoHjQSMdS
+  url: 'https://open.spotify.com/artist/4yxOsMjPnLanfxoHjQSMdS'
 discography_enriched: true
 top_tracks:
-- Valentine's Day in Nashville (Valentine's Day in Nashville)
-- Till the River Ends (Till the River Ends)
-- Give Me Love (Give Me Peace on Earth)
-- Running On Love
-- Heartbreak (Nothing Is Sweeter)
-- I'm Doin' Fine (Nothing Is Sweeter)
-- Ohio Song (Nothing Is Sweeter)
-- One Man Show (Nothing Is Sweeter)
-- Nothing Is Sweeter (Nothing Is Sweeter)
-- Broken Record (Nothing Is Sweeter)
+  - Valentine's Day in Nashville (Valentine's Day in Nashville)
+  - Till the River Ends (Till the River Ends)
+  - Give Me Love (Give Me Peace on Earth)
+  - Running On Love
+  - Heartbreak (Nothing Is Sweeter)
+  - I'm Doin' Fine (Nothing Is Sweeter)
+  - Ohio Song (Nothing Is Sweeter)
+  - One Man Show (Nothing Is Sweeter)
+  - Nothing Is Sweeter (Nothing Is Sweeter)
+  - Broken Record (Nothing Is Sweeter)
 external_urls:
-  spotify: https://open.spotify.com/artist/4yxOsMjPnLanfxoHjQSMdS
+  spotify: 'https://open.spotify.com/artist/4yxOsMjPnLanfxoHjQSMdS'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/megan_palmer.jpg
 biography_enhanced_at: '2025-10-28T08:56:31.333419'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.meganpalmer.com/about
-- https://www.thequietone.net/post/megan-palmer-forget-me-not
-- https://twangville.com/artist-q-and-a/megan-palmer-on-avoiding-hangry-and-prioritizing-quality-over-quantity/
-- https://canvasrebel.com/meet-megan-palmer/
+  - 'https://www.meganpalmer.com/about'
+  - 'https://www.thequietone.net/post/megan-palmer-forget-me-not'
+  - >-
+    https://twangville.com/artist-q-and-a/megan-palmer-on-avoiding-hangry-and-prioritizing-quality-over-quantity/
+  - 'https://canvasrebel.com/meet-megan-palmer/'
 network_extracted: true
 entry_created: '2025-10-28T08:56:31.333424'
 last_updated: '2025-12-23T08:16:12.909836'
+artist_type: person
 ---
 
 ![](megan_palmer.jpg)

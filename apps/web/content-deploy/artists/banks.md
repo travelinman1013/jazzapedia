@@ -1,37 +1,40 @@
 ---
 biography_enhanced_at: '2025-12-31T01:41:58.002112'
-birth_place: Orange County, California, United States
+birth_place: 'Orange County, California, United States'
 enhancement_provider: perplexity
 entry_created: '2025-12-31T01:41:58.002117'
 external_urls:
-  spotify: https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n
-  wikipedia: https://en.wikipedia.org/wiki/Banks_(singer)
+  spotify: 'https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n'
+  wikipedia: 'https://en.wikipedia.org/wiki/Banks_(singer)'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/banks.jpg
 last_updated: '2025-12-31T01:41:58.002118'
 musical_connections:
   collaborators:
-  - The Weeknd
-  - Francis and the Lights
-  - Sampha
-  - Doechii
+    - The Weeknd
+    - Francis and the Lights
+    - Sampha
+    - Doechii
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Banks_(singer)
-- https://www.last.fm/music/BANKS/+wiki
-- https://simple.wikipedia.org/wiki/Banks_(singer)
-- https://10magazine.com/ten-meets-banks-10-magazine-issue-74/
-- https://www.musicweek.com/talent/read/i-had-to-decide-do-i-want-to-do-this-or-not-inside-the-triumphant-independent-rebirth-of-banks/091477
+  - 'https://en.wikipedia.org/wiki/Banks_(singer)'
+  - 'https://www.last.fm/music/BANKS/+wiki'
+  - 'https://simple.wikipedia.org/wiki/Banks_(singer)'
+  - 'https://10magazine.com/ten-meets-banks-10-magazine-issue-74/'
+  - >-
+    https://www.musicweek.com/talent/read/i-had-to-decide-do-i-want-to-do-this-or-not-inside-the-triumphant-independent-rebirth-of-banks/091477
 spotify_data:
   followers: 1082077
   id: 2xe8IXgCTpwHE3eA9hTs4n
   popularity: 57
-  url: https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n
+  url: 'https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n'
 status: active
-title: BANKS
+title: Banks
+birth_date: '1988-06-16'
+artist_type: person
 ---
 
 ![](banks.jpg)

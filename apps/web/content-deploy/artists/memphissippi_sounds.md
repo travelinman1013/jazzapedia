@@ -1,8 +1,8 @@
 ---
-title: MEMPHISSIPPI SOUNDS
+title: Memphissippi Sounds
 wiki_slug: memphissippi-sounds
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres: []
 infobox:
@@ -24,45 +24,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Damion “Yella P” Pearson
-  - Aki Kumar
-  - Sean Apple
+    - Damion “Yella P” Pearson
+    - Aki Kumar
+    - Sean Apple
   influenced: []
   mentors:
-  - Junior Kimbrough
-  - Lightnin’ Malcolm
+    - Junior Kimbrough
+    - Lightnin’ Malcolm
 spotify_data:
   followers: 73
   id: 14c134oaSvkIvFXTxHihfG
   popularity: 0
-  url: https://open.spotify.com/artist/14c134oaSvkIvFXTxHihfG
+  url: 'https://open.spotify.com/artist/14c134oaSvkIvFXTxHihfG'
 discography_enriched: true
 top_tracks:
-- Leave It All Behind (Leave It All Behind)
+  - Leave It All Behind (Leave It All Behind)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e4e60c3c-7e45-4afd-bada-deb98629ebcc
-  spotify: https://open.spotify.com/artist/14c134oaSvkIvFXTxHihfG
+  musicbrainz: 'https://musicbrainz.org/artist/e4e60c3c-7e45-4afd-bada-deb98629ebcc'
+  spotify: 'https://open.spotify.com/artist/14c134oaSvkIvFXTxHihfG'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/memphissippi_sounds.jpg
 biography_enhanced_at: '2025-11-04T10:58:36.512910'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.memphissippisounds.com/about
-- https://abq.news/2023/01/from-memphissippi-to-burque/
-- https://blog.musoscribe.com/index.php/2025/08/28/memphissippi-sounds-free-to-be-cam-and-yella-p-part-1-of-2/
-- https://littlevillagefoundation.com/memphissippi-sounds/
-- https://downbeat.com/news/detail/memphissippi-sounds-blues-at-a-21st-century-crossroads
-- https://digital.livingblues.com/articles/breaking-out-memphissippi-sounds
-- https://www.theabsolutesound.com/articles/memphissippi-sounds-welcome-to-the-land/
-- https://www.bluesblastmagazine.com/memphissippi-sounds-welcome-to-the-land-album-review/
+  - 'https://www.memphissippisounds.com/about'
+  - 'https://abq.news/2023/01/from-memphissippi-to-burque/'
+  - >-
+    https://blog.musoscribe.com/index.php/2025/08/28/memphissippi-sounds-free-to-be-cam-and-yella-p-part-1-of-2/
+  - 'https://littlevillagefoundation.com/memphissippi-sounds/'
+  - >-
+    https://downbeat.com/news/detail/memphissippi-sounds-blues-at-a-21st-century-crossroads
+  - 'https://digital.livingblues.com/articles/breaking-out-memphissippi-sounds'
+  - >-
+    https://www.theabsolutesound.com/articles/memphissippi-sounds-welcome-to-the-land/
+  - >-
+    https://www.bluesblastmagazine.com/memphissippi-sounds-welcome-to-the-land-album-review/
 network_extracted: true
 entry_created: '2025-11-04T10:58:36.512919'
 last_updated: '2025-12-23T08:16:12.978302'
 musicbrainz_id: e4e60c3c-7e45-4afd-bada-deb98629ebcc
-origin: Memphis, Tennessee, United States (origin)
+origin: 'Memphis, Tennessee, United States (origin)'
 tags:
-- blues
+  - blues
 ---
 
 ![](memphissippi_sounds.jpg)

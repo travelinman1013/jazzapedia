@@ -1,16 +1,20 @@
 ---
-title: RUFUS THOMAS
+title: Rufus Thomas
 wiki_slug: rufus-thomas
 schema_version: 2
 status: active
-birth_place: Cayce, Mississippi, United States (birthplace); Memphis, Tennessee, United States (career base)
+birth_place: >-
+  Cayce, Mississippi, United States (birthplace); Memphis, Tennessee, United
+  States (career base)
 genres:
-- soul
+  - soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/rufus_thomas.jpg
   caption: RUFUS THOMAS
   background: solo_singer
-  origin: Cayce, Mississippi, United States (birthplace); Memphis, Tennessee, United States (career base)
+  origin: >-
+    Cayce, Mississippi, United States (birthplace); Memphis, Tennessee, United
+    States (career base)
 audio_profile:
   tempo_avg: 108.2
   energy_avg: 0.6
@@ -26,48 +30,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Carla Thomas
-  - Stax Records house musicians
+    - Carla Thomas
+    - Stax Records house musicians
   influenced:
-  - B.B. King
-  - The Rolling Stones
-  - Memphis soul and funk artists
+    - B.B. King
+    - The Rolling Stones
+    - Memphis soul and funk artists
   mentors:
-  - Rabbit Foot Minstrels
+    - Rabbit Foot Minstrels
 spotify_data:
   followers: 84121
   id: 3iRSHS3b4NUdjNbnw3Opg8
   popularity: 31
-  url: https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8
+  url: 'https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8'
 discography_enriched: true
 top_tracks:
-- Walking the Dog - Mono (Walking the Dog (Mono))
-- '(Do The) Push And Pull - Pt. 1 (Funkiest Man Alive: The Stax Funk Sessions 1967-1975)'
-- 'Do The Funky Chicken (Stax Profiles: Rufus Thomas)'
-- The Breakdown - Pt. 1 (Did You Heard Me?)
-- Do The Funky Penguin - Part 1 (Did You Heard Me?)
-- Bear Cat
-- The Funky Bird (Crown Prince Of Dance)
-- Do The Funky Chicken (Walkin' The Dog)
-- Sixty Minute Man (Do the Funky Chicken [Stax Remasters])
-- 'Itch And Scratch - Pt. 1 (Funkiest Man Alive: The Stax Funk Sessions 1967-1975)'
+  - Walking the Dog - Mono (Walking the Dog (Mono))
+  - >-
+    (Do The) Push And Pull - Pt. 1 (Funkiest Man Alive: The Stax Funk Sessions
+    1967-1975)
+  - 'Do The Funky Chicken (Stax Profiles: Rufus Thomas)'
+  - The Breakdown - Pt. 1 (Did You Heard Me?)
+  - Do The Funky Penguin - Part 1 (Did You Heard Me?)
+  - Bear Cat
+  - The Funky Bird (Crown Prince Of Dance)
+  - Do The Funky Chicken (Walkin' The Dog)
+  - 'Sixty Minute Man (Do the Funky Chicken [Stax Remasters])'
+  - >-
+    Itch And Scratch - Pt. 1 (Funkiest Man Alive: The Stax Funk Sessions
+    1967-1975)
 external_urls:
-  spotify: https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8
-  wikipedia: https://en.wikipedia.org/wiki/Rufus_Thomas
+  spotify: 'https://open.spotify.com/artist/3iRSHS3b4NUdjNbnw3Opg8'
+  wikipedia: 'https://en.wikipedia.org/wiki/Rufus_Thomas'
 image_path: 03_Resources/source_material/ArtistPortraits/rufus_thomas.jpg
 biography_enhanced_at: '2025-10-31T08:08:30.341522'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia
-- Stax Records
-- Sun Records
-- Mississippi Blues Trail
-- WRTC FM
+  - Wikipedia
+  - Stax Records
+  - Sun Records
+  - Mississippi Blues Trail
+  - WRTC FM
 network_extracted: true
 entry_created: '2025-10-31T08:08:30.341532'
 last_updated: '2025-12-23T08:16:15.204531'
-
+origin: 'Memphis, Tennessee, United States'
+birth_date: '1917-03-26'
+death_date: '2001-12-15'
+artist_type: person
 ---
 
 ![](rufus_thomas.jpg)

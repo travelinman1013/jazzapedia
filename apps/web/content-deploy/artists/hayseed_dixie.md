@@ -1,116 +1,118 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-05T07:55:08.364941'
 birth_date: '2000'
 enhancement_provider: perplexity
 entry_created: '2026-01-05T07:55:08.364947'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/fea8db99-8c38-4ee3-bd20-36fb5e3a0839
-  spotify: https://open.spotify.com/artist/7x1riqKyOjly8udO9DhPVi
-  wikipedia: https://en.wikipedia.org/wiki/Hayseed_Dixie
+  musicbrainz: 'https://musicbrainz.org/artist/fea8db99-8c38-4ee3-bd20-36fb5e3a0839'
+  spotify: 'https://open.spotify.com/artist/7x1riqKyOjly8udO9DhPVi'
+  wikipedia: 'https://en.wikipedia.org/wiki/Hayseed_Dixie'
 genres:
-- bluegrass
-- newgrass
+  - bluegrass
+  - newgrass
 image_path: 03_Resources/source_material/ArtistPortraits/hayseed_dixie.jpg
 instruments:
-- mandolin
-- banjo
-- background vocals
-- acoustic bass guitar
-- lead vocals
-- acoustic guitar
+  - mandolin
+  - banjo
+  - background vocals
+  - acoustic bass guitar
+  - lead vocals
+  - acoustic guitar
 last_updated: '2026-01-05T07:55:08.364948'
 members:
-- begin: ''
-  end: '2013'
-  instruments:
-  - mandolin
-  mbid: 94197daf-54f8-4002-bfa5-fe60bf499d41
-  name: Dale Reno
-- begin: ''
-  end: '2013'
-  instruments:
-  - banjo
-  mbid: d313bbc2-d8f9-44fb-832c-ce1eb3eb0a1b
-  name: Don Wayne Reno
-- begin: ''
-  end: ''
-  instruments:
-  - background vocals
-  mbid: 5fecc342-d071-4834-bd09-40aae8c12818
-  name: Jake Byers
-- begin: ''
-  end: ''
-  instruments:
-  - acoustic bass guitar
-  mbid: 5fecc342-d071-4834-bd09-40aae8c12818
-  name: Jake Byers
-- begin: ''
-  end: ''
-  instruments:
-  - background vocals
-  mbid: fe55d60f-1d46-42f5-9f2f-78ced12e1738
-  name: Tim Carter
-- begin: ''
-  end: ''
-  instruments:
-  - banjo
-  mbid: fe55d60f-1d46-42f5-9f2f-78ced12e1738
-  name: Tim Carter
-- begin: ''
-  end: ''
-  instruments:
-  - background vocals
-  mbid: b26ef81e-201a-490b-8641-d40af4e7f89e
-  name: Hippy Joe Hymas
-- begin: ''
-  end: ''
-  instruments:
-  - mandolin
-  mbid: b26ef81e-201a-490b-8641-d40af4e7f89e
-  name: Hippy Joe Hymas
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: 93e4ed74-d52d-4dcf-9048-122626af6f58
-  name: Barley Scotch
-- begin: ''
-  end: ''
-  instruments:
-  - acoustic guitar
-  mbid: 93e4ed74-d52d-4dcf-9048-122626af6f58
-  name: Barley Scotch
+  - begin: ''
+    end: '2013'
+    instruments:
+      - mandolin
+    mbid: 94197daf-54f8-4002-bfa5-fe60bf499d41
+    name: Dale Reno
+  - begin: ''
+    end: '2013'
+    instruments:
+      - banjo
+    mbid: d313bbc2-d8f9-44fb-832c-ce1eb3eb0a1b
+    name: Don Wayne Reno
+  - begin: ''
+    end: ''
+    instruments:
+      - background vocals
+    mbid: 5fecc342-d071-4834-bd09-40aae8c12818
+    name: Jake Byers
+  - begin: ''
+    end: ''
+    instruments:
+      - acoustic bass guitar
+    mbid: 5fecc342-d071-4834-bd09-40aae8c12818
+    name: Jake Byers
+  - begin: ''
+    end: ''
+    instruments:
+      - background vocals
+    mbid: fe55d60f-1d46-42f5-9f2f-78ced12e1738
+    name: Tim Carter
+  - begin: ''
+    end: ''
+    instruments:
+      - banjo
+    mbid: fe55d60f-1d46-42f5-9f2f-78ced12e1738
+    name: Tim Carter
+  - begin: ''
+    end: ''
+    instruments:
+      - background vocals
+    mbid: b26ef81e-201a-490b-8641-d40af4e7f89e
+    name: Hippy Joe Hymas
+  - begin: ''
+    end: ''
+    instruments:
+      - mandolin
+    mbid: b26ef81e-201a-490b-8641-d40af4e7f89e
+    name: Hippy Joe Hymas
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: 93e4ed74-d52d-4dcf-9048-122626af6f58
+    name: Barley Scotch
+  - begin: ''
+    end: ''
+    instruments:
+      - acoustic guitar
+    mbid: 93e4ed74-d52d-4dcf-9048-122626af6f58
+    name: Barley Scotch
 musical_connections:
   collaborators:
-  - Cliff Williams
-  - Dale Reno
-  - Don Wayne Reno
-  - Johnny Butten
-  - Hippy Joe Hymas
+    - Cliff Williams
+    - Dale Reno
+    - Don Wayne Reno
+    - Johnny Butten
+    - Hippy Joe Hymas
   influenced: []
   mentors:
-  - Roy Clark
+    - Roy Clark
 musicbrainz_id: fea8db99-8c38-4ee3-bd20-36fb5e3a0839
 network_extracted: true
-origin: Nashville
+origin: 'Nashville, Tennessee, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Hayseed_Dixie
-- https://www.democrazy.be/artiesten/hayseed-dixie-usa/
-- https://www.elsewhere.co.nz/weneedtotalkabout/2379/we-need-to-talk-about--hayseed-dixie-the-wacky-world-of-hillbilly-humour/
-- https://hayseed-dixie.com/the-band/
-- https://nataliesgrandview.com/events/hayseed-dixie/
+  - 'https://en.wikipedia.org/wiki/Hayseed_Dixie'
+  - 'https://www.democrazy.be/artiesten/hayseed-dixie-usa/'
+  - >-
+    https://www.elsewhere.co.nz/weneedtotalkabout/2379/we-need-to-talk-about--hayseed-dixie-the-wacky-world-of-hillbilly-humour/
+  - 'https://hayseed-dixie.com/the-band/'
+  - 'https://nataliesgrandview.com/events/hayseed-dixie/'
 spotify_data:
   followers: 60583
   id: 7x1riqKyOjly8udO9DhPVi
   popularity: 32
-  url: https://open.spotify.com/artist/7x1riqKyOjly8udO9DhPVi
+  url: 'https://open.spotify.com/artist/7x1riqKyOjly8udO9DhPVi'
 status: active
 tags:
-- bluegrass
-- country
+  - bluegrass
+  - country
 title: Hayseed Dixie
+birth_place: 'Nashville, Tennessee, United States'
 ---
 
 ![](hayseed_dixie.jpg)

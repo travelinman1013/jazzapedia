@@ -1,16 +1,16 @@
 ---
-title: Kenny Barron, Tyreek McDole
+title: 'Kenny Barron, Tyreek McDole'
 wiki_slug: kenny-barron-tyreek-mcdole
 schema_version: 2
 status: active
-birth_place: Kissimmee, Florida, USA
+birth_place: 'Kissimmee, Florida, United States'
 genres:
-- jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/kenny_barron_tyreek_mcdole.jpg
-  caption: Kenny Barron, Tyreek McDole
+  caption: 'Kenny Barron, Tyreek McDole'
   background: solo_singer
-  origin: Kissimmee, Florida, USA
+  origin: 'Kissimmee, Florida, USA'
 audio_profile:
   tempo_avg: 104.2
   energy_avg: 0.067
@@ -26,56 +26,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kenny Barron
-  - Sullivan Fortner
-  - Theo Croker
-  - Miki Yamanaka
-  - Mike King
-  - Rodney Whitaker
-  - Winard Harper
+    - Kenny Barron
+    - Sullivan Fortner
+    - Theo Croker
+    - Miki Yamanaka
+    - Mike King
+    - Rodney Whitaker
+    - Winard Harper
   influenced: []
   mentors:
-  - LaTanya Hall
-  - Gary Bartz
-  - Gerald Cannon
-  - Eddie Henderson
-  - Billy Hart
-  - Dan Wall
-  - Sullivan Fortner
-  - Weedie Braimah
+    - LaTanya Hall
+    - Gary Bartz
+    - Gerald Cannon
+    - Eddie Henderson
+    - Billy Hart
+    - Dan Wall
+    - Sullivan Fortner
+    - Weedie Braimah
 spotify_data:
   followers: 2919
   id: 7A2HZ5tabKcJjQFo959VgP
   popularity: 24
-  url: https://open.spotify.com/artist/7A2HZ5tabKcJjQFo959VgP
+  url: 'https://open.spotify.com/artist/7A2HZ5tabKcJjQFo959VgP'
 discography_enriched: true
 top_tracks:
-- Rain (The Art Of Conversation)
-- Rain (The Art Of Conversation)
-- The Oracle (The Art Of Conversation)
-- The Oracle (The Art Of Conversation)
-- Segment (The Art Of Conversation)
-- In Walked Bud (The Art Of Conversation)
-- Seascape (The Art Of Conversation)
-- The Only One (The Art Of Conversation)
-- Rain (The Art Of Conversation)
-- Waltz For Wheeler (Dedicated To Kenny Wheeler) (The Art Of Conversation)
+  - Rain (The Art Of Conversation)
+  - Rain (The Art Of Conversation)
+  - The Oracle (The Art Of Conversation)
+  - The Oracle (The Art Of Conversation)
+  - Segment (The Art Of Conversation)
+  - In Walked Bud (The Art Of Conversation)
+  - Seascape (The Art Of Conversation)
+  - The Only One (The Art Of Conversation)
+  - Rain (The Art Of Conversation)
+  - Waltz For Wheeler (Dedicated To Kenny Wheeler) (The Art Of Conversation)
 external_urls:
-  spotify: https://open.spotify.com/artist/7A2HZ5tabKcJjQFo959VgP
+  spotify: 'https://open.spotify.com/artist/7A2HZ5tabKcJjQFo959VgP'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/kenny_barron_tyreek_mcdole.jpg
 biography_enhanced_at: '2025-11-24T08:42:36.244325'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.allaboutjazz.com/musicians/tyreek-mcdole/
-- https://blog.roughtrade.com/on-the-rise-tyreek-mcdole/
-- https://www.tyreekmcdole.com/performances/k45csq2ah3ik5dfmv8n0jjth3a5zqg
-- https://montereyjazz.org/artist/tyreek-mcdole-quintet/
-- https://www.timesunion.com/music/article/tyreek-mcdole-jazz-schenectady-concert-21090874.php
+  - 'https://www.allaboutjazz.com/musicians/tyreek-mcdole/'
+  - 'https://blog.roughtrade.com/on-the-rise-tyreek-mcdole/'
+  - 'https://www.tyreekmcdole.com/performances/k45csq2ah3ik5dfmv8n0jjth3a5zqg'
+  - 'https://montereyjazz.org/artist/tyreek-mcdole-quintet/'
+  - >-
+    https://www.timesunion.com/music/article/tyreek-mcdole-jazz-schenectady-concert-21090874.php
 network_extracted: true
 entry_created: '2025-11-24T08:42:36.244343'
 last_updated: '2025-12-23T08:16:11.291286'
+artist_type: band
 ---
 
 ![](kenny_barron_tyreek_mcdole.jpg)

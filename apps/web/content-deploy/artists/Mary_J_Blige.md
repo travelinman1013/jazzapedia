@@ -3,14 +3,14 @@ title: Mary J Blige
 wiki_slug: mary-j-blige
 schema_version: 2
 status: active
-birth_place: The Bronx, New York City, New York, United States
+birth_place: 'The Bronx, New York City, New York, United States'
 genres:
-- r&b
+  - r&b
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Mary_J_Blige.jpg
   caption: Mary J Blige
   background: solo_singer
-  origin: The Bronx, New York City, New York, United States
+  origin: 'The Bronx, New York City, New York, United States'
 audio_profile:
   tempo_avg: 111.9
   energy_avg: 0.64
@@ -26,50 +26,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sean 'Diddy' Combs
-  - Method Man
-  - U2
-  - Kanye West
+    - Sean 'Diddy' Combs
+    - Method Man
+    - U2
+    - Kanye West
   influenced:
-  - Alicia Keys
-  - Beyoncé
-  - Kehlani
+    - Alicia Keys
+    - Beyoncé
+    - Kehlani
   mentors:
-  - Aretha Franklin
-  - Chaka Khan
+    - Aretha Franklin
+    - Chaka Khan
 spotify_data:
   followers: 4363299
   id: 1XkoF8ryArs86LZvFOkbyr
   popularity: 70
-  url: https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr
+  url: 'https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr'
 discography_enriched: true
 top_tracks:
-- Family Affair (No More Drama)
-- Be Without You - Kendu Mix (The Breakthrough)
-- I Can Love You (Share My World)
-- Mary Jane (All Night Long)
-- Real Love
-- One (The Breakthrough)
-- Now Or Never - Bonus Track (good kid, m.A.A.d city (Deluxe))
-- Now Or Never - Bonus Track (good kid, m.A.A.d city (Deluxe))
-- Just Fine
-- As
+  - Family Affair (No More Drama)
+  - Be Without You - Kendu Mix (The Breakthrough)
+  - I Can Love You (Share My World)
+  - Mary Jane (All Night Long)
+  - Real Love
+  - One (The Breakthrough)
+  - 'Now Or Never - Bonus Track (good kid, m.A.A.d city (Deluxe))'
+  - 'Now Or Never - Bonus Track (good kid, m.A.A.d city (Deluxe))'
+  - Just Fine
+  - As
 external_urls:
-  spotify: https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr
-  wikipedia: https://en.wikipedia.org/wiki/Mary_J._Blige
+  spotify: 'https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mary_J._Blige'
 image_path: 03_Resources/source_material/ArtistPortraits/Mary_J_Blige.jpg
 biography_enhanced_at: '2025-10-20T01:59:17.636000'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Mary_J._Blige
-- https://www.biography.com/musicians/mary-j-blige
-- https://www.britannica.com/biography/Mary-J-Blige
-- https://nationaltoday.com/birthday/mary-j-blige/
-- https://www.mylifetime.com/movies/mary-j-bliges-real-love/pages/mary-j-blige-facts
+  - 'https://en.wikipedia.org/wiki/Mary_J._Blige'
+  - 'https://www.biography.com/musicians/mary-j-blige'
+  - 'https://www.britannica.com/biography/Mary-J-Blige'
+  - 'https://nationaltoday.com/birthday/mary-j-blige/'
+  - >-
+    https://www.mylifetime.com/movies/mary-j-bliges-real-love/pages/mary-j-blige-facts
 network_extracted: true
 entry_created: '2025-10-20T01:59:17.636018'
 last_updated: '2025-12-23T08:16:03.220872'
+origin: 'Yonkers, New York, United States'
+birth_date: '1971-01-11'
+artist_type: person
 ---
 
 ![](Mary_J_Blige.jpg)

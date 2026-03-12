@@ -1,15 +1,15 @@
 ---
-title: wilbert harrison
+title: Wilbert Harrison
 wiki_slug: wilbert-harrison
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1929-01-05'
-birth_place: Charlotte
+birth_place: 'Charlotte, North Carolina, United States'
 death_date: '1994-10-26'
 genres:
-- doo-wop
-- rockabilly
+  - doo-wop
+  - rockabilly
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/wilbert_harrison.jpg
   caption: wilbert harrison
@@ -32,55 +32,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bobby Robinson
-  - Mickey Baker
-  - Bernard Purdie
+    - Bobby Robinson
+    - Mickey Baker
+    - Bernard Purdie
   influenced:
-  - Canned Heat
-  - Bryan Ferry
-  - The Kentucky Headhunters
+    - Canned Heat
+    - Bryan Ferry
+    - The Kentucky Headhunters
   mentors:
-  - Gospel and Country Traditions
+    - Gospel and Country Traditions
 spotify_data:
   followers: 11510
   id: 7rETVFaF9VOFPmmzsY3kO6
   popularity: 29
-  url: https://open.spotify.com/artist/7rETVFaF9VOFPmmzsY3kO6
+  url: 'https://open.spotify.com/artist/7rETVFaF9VOFPmmzsY3kO6'
 discography_enriched: true
 top_tracks:
-- Kansas City (An Introduction to Wilbert Harrison)
-- Let's Work Together (Let's Work Together)
-- Let's Stick Together (An Introduction to Wilbert Harrison)
-- Poison Ivy (An Introduction to Wilbert Harrison)
-- Let’s Work Together (Mixed) (All Back To (DJ Mix))
-- Stagger Lee (Let's Work Together)
-- Louie Louie (Let's Work Together)
-- Near to You (An Introduction to Wilbert Harrison)
-- 'C. C. Rider (King Curtis: Sideman)'
-- Kansas City
+  - Kansas City (An Introduction to Wilbert Harrison)
+  - Let's Work Together (Let's Work Together)
+  - Let's Stick Together (An Introduction to Wilbert Harrison)
+  - Poison Ivy (An Introduction to Wilbert Harrison)
+  - Let’s Work Together (Mixed) (All Back To (DJ Mix))
+  - Stagger Lee (Let's Work Together)
+  - Louie Louie (Let's Work Together)
+  - Near to You (An Introduction to Wilbert Harrison)
+  - 'C. C. Rider (King Curtis: Sideman)'
+  - Kansas City
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4d12dcc2-ab89-4f68-aa7b-0939a839a068
-  spotify: https://open.spotify.com/artist/7rETVFaF9VOFPmmzsY3kO6
-  wikipedia: https://en.wikipedia.org/wiki/Wilbert_Harrison
+  musicbrainz: 'https://musicbrainz.org/artist/4d12dcc2-ab89-4f68-aa7b-0939a839a068'
+  spotify: 'https://open.spotify.com/artist/7rETVFaF9VOFPmmzsY3kO6'
+  wikipedia: 'https://en.wikipedia.org/wiki/Wilbert_Harrison'
 image_path: 03_Resources/source_material/ArtistPortraits/wilbert_harrison.jpg
 biography_enhanced_at: '2025-11-14T10:44:08.063834'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.sunsetblvdrecords.com/blog/2021/1/29/wilbert-harrison-kansas-city-the-best-of-wilbert-harrison
-- https://www.last.fm/music/Wilbert+Harrison/+wiki
-- https://northcarolinamusichalloffame.org/inductee-item/wilbert-harrison/
-- https://www.bear-family.com/harrison-wilbert/
+  - >-
+    https://www.sunsetblvdrecords.com/blog/2021/1/29/wilbert-harrison-kansas-city-the-best-of-wilbert-harrison
+  - 'https://www.last.fm/music/Wilbert+Harrison/+wiki'
+  - 'https://northcarolinamusichalloffame.org/inductee-item/wilbert-harrison/'
+  - 'https://www.bear-family.com/harrison-wilbert/'
 network_extracted: true
 entry_created: '2025-11-14T10:44:08.063845'
 last_updated: '2025-12-23T08:16:18.129371'
 gender: Male
 musicbrainz_id: 4d12dcc2-ab89-4f68-aa7b-0939a839a068
 tags:
-- blues
-- r&b
-- rhythm & blues
-
+  - blues
+  - r&b
+  - rhythm & blues
+is_active: false
 ---
 
 ![](wilbert_harrison.jpg)

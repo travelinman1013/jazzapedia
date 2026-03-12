@@ -3,13 +3,14 @@ title: Louis Armstrong With Orchestra
 wiki_slug: louis-armstrong-with-orchestra
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/louis_armstrong_with_orchestra.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/louis_armstrong_with_orchestra.jpg
   caption: Louis Armstrong With Orchestra
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 124.2
   energy_avg: 0.584
@@ -17,7 +18,7 @@ audio_profile:
   danceability_avg: 0.501
   acousticness_avg: 0.541
   instrumentalness_avg: 0.043
-  loudness_avg: -11.0
+  loudness_avg: -11
   speechiness_avg: 0.058
   liveness_avg: 0.305
   track_count: 22
@@ -25,50 +26,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lil Hardin Armstrong
-  - Earl Hines
-  - Fletcher Henderson
-  - Luis Russell
+    - Lil Hardin Armstrong
+    - Earl Hines
+    - Fletcher Henderson
+    - Luis Russell
   influenced:
-  - Billie Holiday
-  - Bing Crosby
-  - Coleman Hawkins
+    - Billie Holiday
+    - Bing Crosby
+    - Coleman Hawkins
   mentors:
-  - Joe 'King' Oliver
-  - Fate Marable
+    - Joe 'King' Oliver
+    - Fate Marable
 spotify_data:
   followers: 924
   id: 3rXWeat3UmdJephXbiisut
   popularity: 19
-  url: https://open.spotify.com/artist/3rXWeat3UmdJephXbiisut
+  url: 'https://open.spotify.com/artist/3rXWeat3UmdJephXbiisut'
 discography_enriched: true
 top_tracks:
-- The Sunshine Of Love - Single Version (What A Wonderful World)
-- The Sunshine Of Love - Single Version (What A Wonderful World)
-- What A Wonderful World - The Orb Remix (Verve Remixed Christmas)
-- The Sunshine Of Love (Hello Louis - The Hit Years (1963-1969))
-- 'The Sunshine Of Love (Louis Armstrong: Verve Ultimate Cool)'
-- 'The Sunshine Of Love - Single Version (Legendary Recordings: Louis Armstrong)'
-- What A Wonderful World - The Orb Remix (Jazz Lounge)
-- The Sunshine Of Love - Single Version (A Night With Louis Armstrong)
-- The Sunshine Of Love (What A Wonderful World)
-- The Sunshine Of Love (Hello Louis - The Hit Years (1963-1969))
+  - The Sunshine Of Love - Single Version (What A Wonderful World)
+  - The Sunshine Of Love - Single Version (What A Wonderful World)
+  - What A Wonderful World - The Orb Remix (Verve Remixed Christmas)
+  - The Sunshine Of Love (Hello Louis - The Hit Years (1963-1969))
+  - 'The Sunshine Of Love (Louis Armstrong: Verve Ultimate Cool)'
+  - >-
+    The Sunshine Of Love - Single Version (Legendary Recordings: Louis
+    Armstrong)
+  - What A Wonderful World - The Orb Remix (Jazz Lounge)
+  - The Sunshine Of Love - Single Version (A Night With Louis Armstrong)
+  - The Sunshine Of Love (What A Wonderful World)
+  - The Sunshine Of Love (Hello Louis - The Hit Years (1963-1969))
 external_urls:
-  spotify: https://open.spotify.com/artist/3rXWeat3UmdJephXbiisut
-  wikipedia: https://en.wikipedia.org/wiki/Louis_Armstrong
+  spotify: 'https://open.spotify.com/artist/3rXWeat3UmdJephXbiisut'
+  wikipedia: 'https://en.wikipedia.org/wiki/Louis_Armstrong'
 image_path: ''
 biography_enhanced_at: '2025-10-26T12:24:42.698849'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Louis_Armstrong
-- https://www.britannica.com/biography/Louis-Armstrong
-- https://kgumusic.com/blogs/news/louis-armstrong-the-personal-and-musical-journey-of-the-king-of-jazz
-- https://www.louisarmstronghouse.org/biography/
-- https://prologue.blogs.archives.gov/2024/02/14/louis-armstrong-harlem-renaissance-pioneer/
+  - 'https://en.wikipedia.org/wiki/Louis_Armstrong'
+  - 'https://www.britannica.com/biography/Louis-Armstrong'
+  - >-
+    https://kgumusic.com/blogs/news/louis-armstrong-the-personal-and-musical-journey-of-the-king-of-jazz
+  - 'https://www.louisarmstronghouse.org/biography/'
+  - >-
+    https://prologue.blogs.archives.gov/2024/02/14/louis-armstrong-harlem-renaissance-pioneer/
 network_extracted: true
 entry_created: '2025-10-26T12:24:42.698860'
 last_updated: '2025-12-23T08:16:12.251882'
+birth_date: '1901-08-04'
+artist_type: band
 ---
 
 ![]()

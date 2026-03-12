@@ -1,14 +1,15 @@
 ---
-title: DUKE ELLINGTON AND HIS KENTUCKY CLUB ORCHESTRA
+title: Duke Ellington and His Kentucky Club Orchestra
 wiki_slug: duke-ellington-and-his-kentucky-club-orchestra
 schema_version: 2
 status: active
 genres:
-- big band
-- ragtime
-- jazz
+  - big band
+  - ragtime
+  - jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/duke_ellington_and_his_kentucky_club_orchestra.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/duke_ellington_and_his_kentucky_club_orchestra.jpg
   caption: DUKE ELLINGTON AND HIS KENTUCKY CLUB ORCHESTRA
   background: solo_singer
 audio_profile:
@@ -26,66 +27,91 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bubber Miley
-  - Joe "Tricky Sam" Nanton
-  - Cootie Williams
-  - Johnny Hodges
-  - Barney Bigard
-  - Harry Carney
-  - Lawrence Brown
-  - Wellman Braud
-  - Sonny Greer
-  - Otto Hardwick
-  - Arthur Whetsel
-  - Sidney Bechet
-  - Irving Mills
-  - Ben Webster
-  - Jimmy Blanton
-  - Billy Strayhorn
-  - Ray Nance
-  - Jo Trent
+    - Bubber Miley
+    - Joe "Tricky Sam" Nanton
+    - Cootie Williams
+    - Johnny Hodges
+    - Barney Bigard
+    - Harry Carney
+    - Lawrence Brown
+    - Wellman Braud
+    - Sonny Greer
+    - Otto Hardwick
+    - Arthur Whetsel
+    - Sidney Bechet
+    - Irving Mills
+    - Ben Webster
+    - Jimmy Blanton
+    - Billy Strayhorn
+    - Ray Nance
+    - Jo Trent
   influenced:
-  - Subsequent Big Band Leaders
-  - Jazz Composers and Arrangers
+    - Subsequent Big Band Leaders
+    - Jazz Composers and Arrangers
   mentors:
-  - Willie "The Lion" Smith
+    - Willie "The Lion" Smith
 spotify_data:
   followers: 2212
   id: 4stoeGPOqizZMXQc1qd5yk
   popularity: 6
-  url: https://open.spotify.com/artist/4stoeGPOqizZMXQc1qd5yk
+  url: 'https://open.spotify.com/artist/4stoeGPOqizZMXQc1qd5yk'
 discography_enriched: true
 top_tracks:
-- East St. Louis Toodle-Oo - 1st Version (Duke Ellington's Finest Hour)
-- 'New Orleans Low-Down (Early Ellington: The Complete Brunswick And Vocalion Recordings 1926-1931)'
-- 'Immigration Blues (Early Ellington: The Complete Brunswick And Vocalion Recordings 1926-1931)'
-- 'East St. Louis Toodle-Oo - 1st Version (Early Ellington: The Complete Brunswick And Vocalion Recordings 1926-1931)'
-- 'The Creeper - 1st Take (Early Ellington: The Complete Brunswick And Vocalion Recordings 1926-1931)'
-- 'Song Of The Cotton Field (Early Ellington: The Complete Brunswick And Vocalion Recordings 1926-1931)'
-- 'Birmingham Breakdown - 1st Version (Early Ellington: The Complete Brunswick And Vocalion Recordings 1926-1931)'
-- 'Birmingham Breakdown - 2nd Version (Early Ellington: The Complete Brunswick And Vocalion Recordings 1926-1931)'
-- 'The Creeper - 2nd Take (Early Ellington: The Complete Brunswick And Vocalion Recordings 1926-1931)'
-- 'East St. Louis Toodle-Oo - 2nd Version (Early Ellington: The Complete Brunswick And Vocalion Recordings 1926-1931)'
+  - East St. Louis Toodle-Oo - 1st Version (Duke Ellington's Finest Hour)
+  - >-
+    New Orleans Low-Down (Early Ellington: The Complete Brunswick And Vocalion
+    Recordings 1926-1931)
+  - >-
+    Immigration Blues (Early Ellington: The Complete Brunswick And Vocalion
+    Recordings 1926-1931)
+  - >-
+    East St. Louis Toodle-Oo - 1st Version (Early Ellington: The Complete
+    Brunswick And Vocalion Recordings 1926-1931)
+  - >-
+    The Creeper - 1st Take (Early Ellington: The Complete Brunswick And Vocalion
+    Recordings 1926-1931)
+  - >-
+    Song Of The Cotton Field (Early Ellington: The Complete Brunswick And
+    Vocalion Recordings 1926-1931)
+  - >-
+    Birmingham Breakdown - 1st Version (Early Ellington: The Complete Brunswick
+    And Vocalion Recordings 1926-1931)
+  - >-
+    Birmingham Breakdown - 2nd Version (Early Ellington: The Complete Brunswick
+    And Vocalion Recordings 1926-1931)
+  - >-
+    The Creeper - 2nd Take (Early Ellington: The Complete Brunswick And Vocalion
+    Recordings 1926-1931)
+  - >-
+    East St. Louis Toodle-Oo - 2nd Version (Early Ellington: The Complete
+    Brunswick And Vocalion Recordings 1926-1931)
 external_urls:
-  spotify: https://open.spotify.com/artist/4stoeGPOqizZMXQc1qd5yk
-  wikipedia: https://en.wikipedia.org/wiki/Duke_Ellington
+  spotify: 'https://open.spotify.com/artist/4stoeGPOqizZMXQc1qd5yk'
+  wikipedia: 'https://en.wikipedia.org/wiki/Duke_Ellington'
 image_path: ''
 biography_enhanced_at: '2025-12-04T07:21:15.749577'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://jazzfuel.com/duke-ellington-biography/
-- https://en.wikipedia.org/wiki/Duke_Ellington
-- https://oldtimeblues.net/2016/04/29/brunswick-6265-duke-ellington-and-his-famous-orchestra-1932/
-- https://www.columbia.edu/itc/music/popular/washburne/v2016/client_edit/dukebio1.html
-- https://syncopatedtimes.com/duke-ellington-and-his-kentucky-club-orchestra/
-- https://www.masterclass.com/articles/duke-ellingtons-life-and-music
-- https://cyso.org/blog/celebrating-the-duke-of-jazz-duke-ellingtons-life-legacy/
+  - 'https://jazzfuel.com/duke-ellington-biography/'
+  - 'https://en.wikipedia.org/wiki/Duke_Ellington'
+  - >-
+    https://oldtimeblues.net/2016/04/29/brunswick-6265-duke-ellington-and-his-famous-orchestra-1932/
+  - >-
+    https://www.columbia.edu/itc/music/popular/washburne/v2016/client_edit/dukebio1.html
+  - 'https://syncopatedtimes.com/duke-ellington-and-his-kentucky-club-orchestra/'
+  - 'https://www.masterclass.com/articles/duke-ellingtons-life-and-music'
+  - >-
+    https://cyso.org/blog/celebrating-the-duke-of-jazz-duke-ellingtons-life-legacy/
 network_extracted: true
 entry_created: '2025-12-04T07:21:15.749592'
 last_updated: '2025-12-23T08:16:08.046213'
-origin: Washington D.C., District of Columbia, United States (birthplace); New York, New York, United States (primary base
-  of operations)
+origin: >-
+  Washington D.C., District of Columbia, United States (birthplace); New York,
+  New York, United States (primary base of operations)
+birth_place: 'Washington D.C., District of Columbia, United States'
+birth_date: '1899-04-29'
+artist_type: band
 ---
 
 ![]()

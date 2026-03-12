@@ -5,11 +5,11 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1949-12-12'
-birth_place: Paraíba
+birth_place: 'Rio de Janeiro, Brazil'
 death_date: '2022-04-01'
 genres:
-- samba
-- axé
+  - samba
+  - axé
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ruy_maurity.jpg
   caption: Ruy Maurity
@@ -32,47 +32,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - José Jorge
+    - José Jorge
   influenced:
-  - Younger samba and axé musicians
+    - Younger samba and axé musicians
   mentors:
-  - Dorival Caymmi
+    - Dorival Caymmi
 spotify_data:
   followers: 5625
   id: 05EBR0pPcPKP6B2QKkHoDf
   popularity: 25
-  url: https://open.spotify.com/artist/05EBR0pPcPKP6B2QKkHoDf
+  url: 'https://open.spotify.com/artist/05EBR0pPcPKP6B2QKkHoDf'
 discography_enriched: true
 top_tracks:
-- Nem Ouro Nem Prata (Nem Ouro Nem Prata)
-- Xangô, O Vencedor (Nem Ouro Nem Prata)
-- Serafim e Seus Filhos (Nem Ouro Nem Prata)
-- Quizumba de Rei (Nem Ouro Nem Prata)
-- Pai João (Ganga Brasil)
-- Segunda Feira das Almas (Nem Ouro Nem Prata)
-- Artimanhas de Lourenço, Filho de Serafim (Natureza)
-- Menina do Mato (Nem Ouro Nem Prata)
-- O Verde É Maravilha (Fogo Sobre Terra)
-- Mãe Guerreira (Ruy Maurity)
+  - Nem Ouro Nem Prata (Nem Ouro Nem Prata)
+  - 'Xangô, O Vencedor (Nem Ouro Nem Prata)'
+  - Serafim e Seus Filhos (Nem Ouro Nem Prata)
+  - Quizumba de Rei (Nem Ouro Nem Prata)
+  - Pai João (Ganga Brasil)
+  - Segunda Feira das Almas (Nem Ouro Nem Prata)
+  - 'Artimanhas de Lourenço, Filho de Serafim (Natureza)'
+  - Menina do Mato (Nem Ouro Nem Prata)
+  - O Verde É Maravilha (Fogo Sobre Terra)
+  - Mãe Guerreira (Ruy Maurity)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/90d4967c-9cd1-4f68-b6a1-2ea6dc804f0f
-  spotify: https://open.spotify.com/artist/05EBR0pPcPKP6B2QKkHoDf
-  wikipedia: https://pt.wikipedia.org/wiki/Ruy_Maurity
+  musicbrainz: 'https://musicbrainz.org/artist/90d4967c-9cd1-4f68-b6a1-2ea6dc804f0f'
+  spotify: 'https://open.spotify.com/artist/05EBR0pPcPKP6B2QKkHoDf'
+  wikipedia: 'https://pt.wikipedia.org/wiki/Ruy_Maurity'
 image_path: 03_Resources/source_material/ArtistPortraits/ruy_maurity.jpg
 biography_enhanced_at: '2025-11-02T07:28:42.226956'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://bibliotecavirtual.clacso.org.ar/ar/libros/lasa97/prandi.pdf
-- https://pt.wikipedia.org/wiki/Ruy_Maurity
+  - 'https://bibliotecavirtual.clacso.org.ar/ar/libros/lasa97/prandi.pdf'
+  - 'https://pt.wikipedia.org/wiki/Ruy_Maurity'
 network_extracted: true
 entry_created: '2025-11-02T07:28:42.226973'
 last_updated: '2025-12-23T08:16:15.228705'
 gender: Male
 musicbrainz_id: 90d4967c-9cd1-4f68-b6a1-2ea6dc804f0f
 tags:
-- mpb
-- singer-songwriter
+  - mpb
+  - singer-songwriter
+is_active: false
 ---
 
 ![](ruy_maurity.jpg)

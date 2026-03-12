@@ -1,25 +1,25 @@
 ---
-title: bella shmurda
+title: Bella Shmurda
 wiki_slug: bella-shmurda
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1997-01-07'
-birth_place: Ikorodu, Lagos State, Nigeria
+birth_place: 'Ikorodu, Lagos State, Nigeria'
 genres:
-- afro adura
-- afrobeats
-- afrobeat
-- afropop
-- alté
-- afropiano
-- afro soul
+  - afro adura
+  - afrobeats
+  - afrobeat
+  - afropop
+  - alté
+  - afropiano
+  - afro soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bella_shmurda.jpg
   caption: bella shmurda
   background: solo_singer
   born: '1997-01-07'
-  origin: Ikorodu, Lagos State, Nigeria
+  origin: 'Ikorodu, Lagos State, Nigeria'
 audio_profile:
   tempo_avg: 112.4
   energy_avg: 0.669
@@ -35,52 +35,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Poco Lee
-  - Davido
-  - Zinoleesky
-  - Fireboy DML
+    - Poco Lee
+    - Davido
+    - Zinoleesky
+    - Fireboy DML
   influenced:
-  - Dangbana Republik members
+    - Dangbana Republik members
   mentors:
-  - Olamide
+    - Olamide
 spotify_data:
   followers: 2452963
   id: 7kK5badbqOjd8WlT2XWMeM
   popularity: 67
-  url: https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM
+  url: 'https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM'
 discography_enriched: true
 top_tracks:
-- who does that? (feat. Bella Shmurda)
-- 'Al-Jannah (Uncle K: Lemon Chase)'
-- OHEMA (with Crayon & Bella Shmurda)
-- Anytime (feat. Ayo Maff)
-- DOG EAT DOG II (feat. Cruel Santino and Bella Shmurda) (EZIOKWU)
-- HBP Remix (with Bella Shmurda) (Homeless)
-- Verily
-- Louder (feat. Ayo Maff & Bella Shmurda)
-- Triumphant (feat. Bella Shmurda) (Carpe Diem)
-- PARIWO (Blessed)
+  - who does that? (feat. Bella Shmurda)
+  - 'Al-Jannah (Uncle K: Lemon Chase)'
+  - OHEMA (with Crayon & Bella Shmurda)
+  - Anytime (feat. Ayo Maff)
+  - DOG EAT DOG II (feat. Cruel Santino and Bella Shmurda) (EZIOKWU)
+  - HBP Remix (with Bella Shmurda) (Homeless)
+  - Verily
+  - Louder (feat. Ayo Maff & Bella Shmurda)
+  - Triumphant (feat. Bella Shmurda) (Carpe Diem)
+  - PARIWO (Blessed)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e26bcbdf-8509-4a5d-9c0d-8accf921e474
-  spotify: https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM
-  wikipedia: https://simple.wikipedia.org/wiki/Bella_Shmurda
+  musicbrainz: 'https://musicbrainz.org/artist/e26bcbdf-8509-4a5d-9c0d-8accf921e474'
+  spotify: 'https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM'
+  wikipedia: 'https://simple.wikipedia.org/wiki/Bella_Shmurda'
 image_path: 03_Resources/source_material/ArtistPortraits/bella_shmurda.jpg
 biography_enhanced_at: '2025-10-19T12:32:00.352055'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://newswirengr.com/2022/08/20/musician-bella-shmurda-biography-education-songs-relationship-net-worth-and-controversies/
-- https://earth-agency.com/artist/bella-shmurda/
-- https://simple.wikipedia.org/wiki/Bella_Shmurda
-- https://nataal.com/bella-shmurda
-- https://steemit.com/music/@dyoungdj/history-music-career-journey-and-biography-of-bella-shmurda
+  - >-
+    https://newswirengr.com/2022/08/20/musician-bella-shmurda-biography-education-songs-relationship-net-worth-and-controversies/
+  - 'https://earth-agency.com/artist/bella-shmurda/'
+  - 'https://simple.wikipedia.org/wiki/Bella_Shmurda'
+  - 'https://nataal.com/bella-shmurda'
+  - >-
+    https://steemit.com/music/@dyoungdj/history-music-career-journey-and-biography-of-bella-shmurda
 network_extracted: true
 entry_created: '2025-10-19T12:32:00.352071'
 last_updated: '2025-12-23T08:16:05.215668'
 gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:48:58.596562'
 musicbrainz_id: e26bcbdf-8509-4a5d-9c0d-8accf921e474
-
 ---
 
 ![](bella_shmurda.jpg)

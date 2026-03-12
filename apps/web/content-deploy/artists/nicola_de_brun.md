@@ -3,13 +3,13 @@ title: Nicola de Brun
 wiki_slug: nicola-de-brun
 schema_version: 2
 status: active
-birth_place: Holzwickede, North Rhine-Westphalia, Germany
+birth_place: 'Holzwickede, North Rhine-Westphalia, Germany'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/nicola_de_brun.jpg
   caption: Nicola de Brun
   background: solo_singer
-  origin: Holzwickede, North Rhine-Westphalia, Germany
+  origin: 'Holzwickede, North Rhine-Westphalia, Germany'
 audio_profile:
   tempo_avg: 115.5
   energy_avg: 0.201
@@ -31,34 +31,36 @@ spotify_data:
   followers: 62
   id: 2rPsPttkqPubYz43aPIdrl
   popularity: 1
-  url: https://open.spotify.com/artist/2rPsPttkqPubYz43aPIdrl
+  url: 'https://open.spotify.com/artist/2rPsPttkqPubYz43aPIdrl'
 discography_enriched: true
 top_tracks:
-- Ballet Piano - Adagio 1 (Ballet Piano (1 - 30))
-- Ballet Piano - Grand Battement 1 (Ballet Piano (1 - 30))
-- Ballet Piano - Frappe 1 (Ballet Piano (1 - 30))
-- Ballet Piano - Jumps 1 (Ballet Piano (1 - 30))
-- Ballet Piano - Lullaby 1 (Ballet Piano (1 - 30))
-- Ballet Piano - Menuet 1 (Ballet Piano (1 - 30))
-- Frühling
-- Perfect Fourth Game - For Flute, Cor Anglais and Piano
-- 'Ballet Music for Dancers Nr. 60, Exercise 1: Walz - Piano Solo'
-- Pavane for Harp and Cor Anglais
+  - Ballet Piano - Adagio 1 (Ballet Piano (1 - 30))
+  - Ballet Piano - Grand Battement 1 (Ballet Piano (1 - 30))
+  - Ballet Piano - Frappe 1 (Ballet Piano (1 - 30))
+  - Ballet Piano - Jumps 1 (Ballet Piano (1 - 30))
+  - Ballet Piano - Lullaby 1 (Ballet Piano (1 - 30))
+  - Ballet Piano - Menuet 1 (Ballet Piano (1 - 30))
+  - Frühling
+  - 'Perfect Fourth Game - For Flute, Cor Anglais and Piano'
+  - 'Ballet Music for Dancers Nr. 60, Exercise 1: Walz - Piano Solo'
+  - Pavane for Harp and Cor Anglais
 external_urls:
-  spotify: https://open.spotify.com/artist/2rPsPttkqPubYz43aPIdrl
-  wikipedia: https://sv.wikipedia.org/wiki/Nicola_de_Brun
+  spotify: 'https://open.spotify.com/artist/2rPsPttkqPubYz43aPIdrl'
+  wikipedia: 'https://sv.wikipedia.org/wiki/Nicola_de_Brun'
 image_path: 03_Resources/source_material/ArtistPortraits/nicola_de_brun.jpg
 biography_enhanced_at: '2025-12-04T07:45:01.738803'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Feiyr - Klaus Bruengel Label
-- Wikipedia (Swedish) - Nicola de Brun
-- Wikipedia (English) - Klaus Bruengel
-- Barnes & Noble - Odyssey Suite Vol.1
+  - Feiyr - Klaus Bruengel Label
+  - Wikipedia (Swedish) - Nicola de Brun
+  - Wikipedia (English) - Klaus Bruengel
+  - Barnes & Noble - Odyssey Suite Vol.1
 network_extracted: true
 entry_created: '2025-12-04T07:45:01.738812'
 last_updated: '2025-12-23T08:16:13.575131'
+birth_date: '1949-10-02'
+artist_type: person
 ---
 
 ![](nicola_de_brun.jpg)

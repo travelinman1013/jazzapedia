@@ -4,14 +4,14 @@ wiki_slug: liz-barnez
 schema_version: 2
 artist_type: person
 status: active
-birth_place: New Orleans
+birth_place: 'New Orleans, Louisiana, United States'
 genres: []
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6d16a30b-556d-4297-a38e-94e18e6b5100
-  name: Mother Folkers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6d16a30b-556d-4297-a38e-94e18e6b5100
+    name: Mother Folkers
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/liz_barnez.jpg
   caption: Liz Barnez
@@ -32,47 +32,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Subdudes
-  - The Mother Folkers
-  - Lori Daigle
+    - The Subdudes
+    - The Mother Folkers
+    - Lori Daigle
   influenced:
-  - Rising generation of women musicians in Northern Colorado
+    - Rising generation of women musicians in Northern Colorado
   mentors:
-  - New Orleans Live Music Scene
+    - New Orleans Live Music Scene
 spotify_data:
   followers: 305
   id: 78kK8j88ITHLYacUWk3yQR
   popularity: 4
-  url: https://open.spotify.com/artist/78kK8j88ITHLYacUWk3yQR
+  url: 'https://open.spotify.com/artist/78kK8j88ITHLYacUWk3yQR'
 discography_enriched: true
 top_tracks:
-- Stay Strong (Stay Strong)
-- Listen to October (Welcome Back)
-- If I Had a Gun (Welcome Back)
-- Whiskey Bay (Revealed)
-- How Bout You? (How Bout You?)
-- Light Up (Wholehearted)
-- Wholehearted (Wholehearted)
-- The Perfect Revenge (Singer-Songwriter Heaven - The Songs Of Kevin Faherty)
-- Whiskey Bay (Live) (Meeting on the Mountain Live, Vol. 1)
-- Welcome Back (Welcome Back)
+  - Stay Strong (Stay Strong)
+  - Listen to October (Welcome Back)
+  - If I Had a Gun (Welcome Back)
+  - Whiskey Bay (Revealed)
+  - How Bout You? (How Bout You?)
+  - Light Up (Wholehearted)
+  - Wholehearted (Wholehearted)
+  - The Perfect Revenge (Singer-Songwriter Heaven - The Songs Of Kevin Faherty)
+  - 'Whiskey Bay (Live) (Meeting on the Mountain Live, Vol. 1)'
+  - Welcome Back (Welcome Back)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3092acd0-4fdf-414a-a45a-b13da17e4967
-  spotify: https://open.spotify.com/artist/78kK8j88ITHLYacUWk3yQR
+  musicbrainz: 'https://musicbrainz.org/artist/3092acd0-4fdf-414a-a45a-b13da17e4967'
+  spotify: 'https://open.spotify.com/artist/78kK8j88ITHLYacUWk3yQR'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/liz_barnez.jpg
 biography_enhanced_at: '2025-12-04T08:16:11.039841'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://focoma.org/artist/1068/liz-barnez
-- https://yellowscene.com/events/liz-barnez/
-- https://nocostyle.com/2025/08/29/murals-music-and-moves/
-- https://givebutter.com/LizBarnezLive
-- https://www.lizbarnezmusic.com
-- https://lizbarnez.bandcamp.com
-- https://coloradosound.org/interview-liz-barnez/
-- https://www.lizbarnezmusic.com/liz-barnez-bio
+  - 'https://focoma.org/artist/1068/liz-barnez'
+  - 'https://yellowscene.com/events/liz-barnez/'
+  - 'https://nocostyle.com/2025/08/29/murals-music-and-moves/'
+  - 'https://givebutter.com/LizBarnezLive'
+  - 'https://www.lizbarnezmusic.com'
+  - 'https://lizbarnez.bandcamp.com'
+  - 'https://coloradosound.org/interview-liz-barnez/'
+  - 'https://www.lizbarnezmusic.com/liz-barnez-bio'
 network_extracted: true
 entry_created: '2025-12-04T08:16:11.039852'
 last_updated: '2025-12-23T08:16:12.058120'

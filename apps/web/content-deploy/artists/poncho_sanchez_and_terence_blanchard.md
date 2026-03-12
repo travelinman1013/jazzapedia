@@ -1,12 +1,13 @@
 ---
-title: poncho sanchez and terence blanchard
+title: Poncho Sanchez and Terence Blanchard
 wiki_slug: poncho-sanchez-and-terence-blanchard
 schema_version: 2
 status: active
 genres:
-- latin jazz
+  - latin jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/poncho_sanchez_and_terence_blanchard.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/poncho_sanchez_and_terence_blanchard.jpg
   caption: poncho sanchez and terence blanchard
   background: solo_singer
 audio_profile:
@@ -24,51 +25,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Terence Blanchard
-  - Francisco Torres
-  - Donald Harrison
-  - Ron Blake, Rob Hardt, Andy Langham
+    - Terence Blanchard
+    - Francisco Torres
+    - Donald Harrison
+    - 'Ron Blake, Rob Hardt, Andy Langham'
   influenced:
-  - Christian McBride, Nicholas Payton, Roy Hargrove
+    - 'Christian McBride, Nicholas Payton, Roy Hargrove'
   mentors:
-  - Cal Tjader
-  - Art Blakey
-  - Mongo Santamaria, Tito Puente, Cal Tjader
+    - Cal Tjader
+    - Art Blakey
+    - 'Mongo Santamaria, Tito Puente, Cal Tjader'
 spotify_data:
   followers: 849
   id: 3HTtJCoUgkr9JBH2nMXApD
   popularity: 3
-  url: https://open.spotify.com/artist/3HTtJCoUgkr9JBH2nMXApD
+  url: 'https://open.spotify.com/artist/3HTtJCoUgkr9JBH2nMXApD'
 discography_enriched: true
 top_tracks:
-- Morning - Live (Live In Hollywood)
-- Poncho Sanchez Medley - Live (Live In Hollywood)
-- Mambo Inn / On Green Dolphin Street - Live (Live In Hollywood)
-- Crosscut Saw - Live (Live In Hollywood)
-- Promenade - Live (Live In Hollywood)
-- Afro Blue - Live (Live In Hollywood)
-- Son Son Charari - Live (Live In Hollywood)
-- Morning (Live in Hollywood)
-- A Ti Nama - Live (Live In Hollywood)
-- Poncho Sanchez Medley (Live in Hollywood)
+  - Morning - Live (Live In Hollywood)
+  - Poncho Sanchez Medley - Live (Live In Hollywood)
+  - Mambo Inn / On Green Dolphin Street - Live (Live In Hollywood)
+  - Crosscut Saw - Live (Live In Hollywood)
+  - Promenade - Live (Live In Hollywood)
+  - Afro Blue - Live (Live In Hollywood)
+  - Son Son Charari - Live (Live In Hollywood)
+  - Morning (Live in Hollywood)
+  - A Ti Nama - Live (Live In Hollywood)
+  - Poncho Sanchez Medley (Live in Hollywood)
 external_urls:
-  spotify: https://open.spotify.com/artist/3HTtJCoUgkr9JBH2nMXApD
-  wikipedia: https://en.wikipedia.org/wiki/Terence_Blanchard
-image_path: 03_Resources/source_material/ArtistPortraits/poncho_sanchez_and_terence_blanchard.jpg
+  spotify: 'https://open.spotify.com/artist/3HTtJCoUgkr9JBH2nMXApD'
+  wikipedia: 'https://en.wikipedia.org/wiki/Terence_Blanchard'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/poncho_sanchez_and_terence_blanchard.jpg
 biography_enhanced_at: '2025-12-16T03:20:05.875450'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://remo.com/profile/poncho-sanchez
-- https://www.bluenote.com/artist/terence-blanchard/
-- https://en.wikipedia.org/wiki/Terence_Blanchard
-- https://longbeachsymphony.org/musicians/poncho-sanchez/
-- https://theconrad.org/events/poncho-sanchez/
-- https://latinjazznet.com/reviews/albums/poncho-sanchez-and-terence-blanchard-chano-y-dizzy/
+  - 'https://remo.com/profile/poncho-sanchez'
+  - 'https://www.bluenote.com/artist/terence-blanchard/'
+  - 'https://en.wikipedia.org/wiki/Terence_Blanchard'
+  - 'https://longbeachsymphony.org/musicians/poncho-sanchez/'
+  - 'https://theconrad.org/events/poncho-sanchez/'
+  - >-
+    https://latinjazznet.com/reviews/albums/poncho-sanchez-and-terence-blanchard-chano-y-dizzy/
 network_extracted: true
 entry_created: '2025-12-16T03:20:05.875465'
 last_updated: '2025-12-23T08:16:14.400630'
-origin: 'Poncho Sanchez: Laredo, Texas, USA; Terence Blanchard: New Orleans, Louisiana, USA'
+origin: >-
+  Poncho Sanchez: Laredo, Texas, USA; Terence Blanchard: New Orleans, Louisiana,
+  USA
+birth_place: 'Laredo, Texas, United States'
+birth_date: '1951'
+artist_type: band
 ---
 
 ![](poncho_sanchez_and_terence_blanchard.jpg)

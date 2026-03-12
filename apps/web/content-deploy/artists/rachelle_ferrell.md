@@ -1,19 +1,19 @@
 ---
-title: rachelle ferrell
+title: Rachelle Ferrell
 wiki_slug: rachelle-ferrell
 schema_version: 2
 status: active
-birth_place: Berwyn, Pennsylvania, United States
+birth_place: 'Berwyn, Pennsylvania, United States'
 genres:
-- quiet storm
-- smooth jazz
-- vocal jazz
-- neo soul
+  - quiet storm
+  - smooth jazz
+  - vocal jazz
+  - neo soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/rachelle_ferrell.jpg
   caption: rachelle ferrell
   background: solo_singer
-  origin: Berwyn, Pennsylvania, United States
+  origin: 'Berwyn, Pennsylvania, United States'
 audio_profile:
   tempo_avg: 111.7
   energy_avg: 0.343
@@ -29,49 +29,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - George Duke
-  - Patti LaBelle
-  - Lou Rawls
-  - Vanessa Williams
-  - Will Downing
+    - George Duke
+    - Patti LaBelle
+    - Lou Rawls
+    - Vanessa Williams
+    - Will Downing
   influenced:
-  - Contemporary jazz and neo soul vocalists
+    - Contemporary jazz and neo soul vocalists
   mentors:
-  - Dizzy Gillespie
+    - Dizzy Gillespie
 spotify_data:
   followers: 108732
   id: 0YLuHRRzBIUH7PQW0JW7NJ
   popularity: 35
-  url: https://open.spotify.com/artist/0YLuHRRzBIUH7PQW0JW7NJ
+  url: 'https://open.spotify.com/artist/0YLuHRRzBIUH7PQW0JW7NJ'
 discography_enriched: true
 top_tracks:
-- Moody's Mood For Love (I'm In The Mood For Love) (Q's Jook Joint)
-- Nothing Has Ever Felt Like This (Rachelle Ferrell)
-- '''Til You Come Back to Me'
-- '''Til You Come Back To Me (Rachelle Ferrell)'
-- With Open Arms (Rachelle Ferrell)
-- I Gotta Go (Individuality (Can I Be Me?))
-- Gaia (Individuality (Can I Be Me?))
-- I'm Special (Rachelle Ferrell)
-- Welcome To My Love (Rachelle Ferrell)
-- I Forgive You (Individuality (Can I Be Me?))
+  - Moody's Mood For Love (I'm In The Mood For Love) (Q's Jook Joint)
+  - Nothing Has Ever Felt Like This (Rachelle Ferrell)
+  - '''Til You Come Back to Me'
+  - '''Til You Come Back To Me (Rachelle Ferrell)'
+  - With Open Arms (Rachelle Ferrell)
+  - I Gotta Go (Individuality (Can I Be Me?))
+  - Gaia (Individuality (Can I Be Me?))
+  - I'm Special (Rachelle Ferrell)
+  - Welcome To My Love (Rachelle Ferrell)
+  - I Forgive You (Individuality (Can I Be Me?))
 external_urls:
-  spotify: https://open.spotify.com/artist/0YLuHRRzBIUH7PQW0JW7NJ
-  wikipedia: https://en.wikipedia.org/wiki/Rachelle_Ferrell
+  spotify: 'https://open.spotify.com/artist/0YLuHRRzBIUH7PQW0JW7NJ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Rachelle_Ferrell'
 image_path: 03_Resources/source_material/ArtistPortraits/rachelle_ferrell.jpg
 biography_enhanced_at: '2025-11-14T11:09:16.478280'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/rachelle-ferrell
-- https://wbssmedia.com/artists/detail/1013
-- https://www.last.fm/music/Rachelle+Ferrell/+wiki
-- https://www.bluenote.com/artist/rachelle-ferrell/
-- https://library.berklee.edu/indexed-people/ferrell-rachelle
-- https://mabumbe.com/people/rachelle-ferrell-bio-age-net-worth-relationships-career-highlights/
+  - >-
+    https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/rachelle-ferrell
+  - 'https://wbssmedia.com/artists/detail/1013'
+  - 'https://www.last.fm/music/Rachelle+Ferrell/+wiki'
+  - 'https://www.bluenote.com/artist/rachelle-ferrell/'
+  - 'https://library.berklee.edu/indexed-people/ferrell-rachelle'
+  - >-
+    https://mabumbe.com/people/rachelle-ferrell-bio-age-net-worth-relationships-career-highlights/
 network_extracted: true
 entry_created: '2025-11-14T11:09:16.478291'
 last_updated: '2025-12-23T08:16:14.557244'
+birth_date: '1961-05-21'
+artist_type: person
 ---
 
 ![](rachelle_ferrell.jpg)

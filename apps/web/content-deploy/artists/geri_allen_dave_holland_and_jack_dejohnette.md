@@ -1,13 +1,14 @@
 ---
-title: Geri Allen, Dave Holland, & Jack DeJohnette
+title: 'Geri Allen, Dave Holland, & Jack DeJohnette'
 wiki_slug: geri-allen-dave-holland-jack-dejohnette
 schema_version: 2
 status: active
 genres:
-- vocal jazz
+  - vocal jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/geri_allen_dave_holland_and_jack_dejohnette.jpg
-  caption: Geri Allen, Dave Holland, & Jack DeJohnette
+  image: >-
+    03_Resources/source_material/ArtistPortraits/geri_allen_dave_holland_and_jack_dejohnette.jpg
+  caption: 'Geri Allen, Dave Holland, & Jack DeJohnette'
   background: solo_singer
 audio_profile:
   tempo_avg: 109.9
@@ -24,51 +25,69 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Betty Carter
-  - Ornette Coleman
-  - Charlie Haden and Paul Motian
-  - ECM and Telarc label communities
+    - Betty Carter
+    - Ornette Coleman
+    - Charlie Haden and Paul Motian
+    - ECM and Telarc label communities
   influenced:
-  - Younger jazz pianists and trio leaders
-  - Contemporary bassists and drummers in chamber‑like jazz trios
+    - Younger jazz pianists and trio leaders
+    - Contemporary bassists and drummers in chamber‑like jazz trios
   mentors:
-  - Marcus Belgrave
-  - Kenny Barron
-  - Miles Davis
-  - Charles Lloyd and Keith Jarrett
+    - Marcus Belgrave
+    - Kenny Barron
+    - Miles Davis
+    - Charles Lloyd and Keith Jarrett
 spotify_data:
   followers: 28
   id: 0RvURebdxtXPLIJTiJc2KA
   popularity: 3
-  url: https://open.spotify.com/artist/0RvURebdxtXPLIJTiJc2KA
+  url: 'https://open.spotify.com/artist/0RvURebdxtXPLIJTiJc2KA'
 discography_enriched: true
 top_tracks:
-- Nature Boy (Secret of the Wind)
-- Blues In Motian - Live At The International Jazz Festival, Montreal / 1989 (The Montreal Tapes Box Set)
-- Fiasco - Live At The International Jazz Festival, Montreal / 1989 (The Montreal Tapes Box Set)
-- First Song - Live At The International Jazz Festival, Montreal / 1989 (The Montreal Tapes Box Set)
-- Dolphy's Dance - Live At The International Jazz Festival, Montreal / 1989 (The Montreal Tapes Box Set)
-- For John Malachi - Live At The International Jazz Festival, Montreal / 1989 (The Montreal Tapes Box Set)
-- In The Year Of The Dragon - Live At The International Jazz Festival, Montreal / 1989 (The Montreal Tapes Box Set)
-- Houdini - Pt. 1 (Houdini)
-- The Sorcerer (Houdini)
-- Bellodgia Diva (Houdini)
+  - Nature Boy (Secret of the Wind)
+  - >-
+    Blues In Motian - Live At The International Jazz Festival, Montreal / 1989
+    (The Montreal Tapes Box Set)
+  - >-
+    Fiasco - Live At The International Jazz Festival, Montreal / 1989 (The
+    Montreal Tapes Box Set)
+  - >-
+    First Song - Live At The International Jazz Festival, Montreal / 1989 (The
+    Montreal Tapes Box Set)
+  - >-
+    Dolphy's Dance - Live At The International Jazz Festival, Montreal / 1989
+    (The Montreal Tapes Box Set)
+  - >-
+    For John Malachi - Live At The International Jazz Festival, Montreal / 1989
+    (The Montreal Tapes Box Set)
+  - >-
+    In The Year Of The Dragon - Live At The International Jazz Festival,
+    Montreal / 1989 (The Montreal Tapes Box Set)
+  - Houdini - Pt. 1 (Houdini)
+  - The Sorcerer (Houdini)
+  - Bellodgia Diva (Houdini)
 external_urls:
-  spotify: https://open.spotify.com/artist/0RvURebdxtXPLIJTiJc2KA
+  spotify: 'https://open.spotify.com/artist/0RvURebdxtXPLIJTiJc2KA'
   wikipedia: ''
 image_path: ''
 biography_enhanced_at: '2025-12-05T06:07:08.733867'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- General jazz reference knowledge and discographical information up to late 2024
-- Label and press materials describing the album "The Life of a Song" and the careers of Geri Allen, Dave Holland, and Jack
-  DeJohnette
+  - >-
+    General jazz reference knowledge and discographical information up to late
+    2024
+  - >-
+    Label and press materials describing the album "The Life of a Song" and the
+    careers of Geri Allen, Dave Holland, and Jack DeJohnette
 network_extracted: true
 entry_created: '2025-12-05T06:07:08.733882'
 last_updated: '2025-12-23T08:16:09.166002'
-origin: Detroit, Michigan, United States (Geri Allen’s birthplace; the trio itself does not have a single geographic "origin"
-  as a band, but Allen’s Detroit roots significantly shape the group’s musical identity)
+origin: >-
+  Detroit, Michigan, United States (Geri Allen’s birthplace; the trio itself
+  does not have a single geographic "origin" as a band, but Allen’s Detroit
+  roots significantly shape the group’s musical identity)
+artist_type: band
 ---
 
 ![]()

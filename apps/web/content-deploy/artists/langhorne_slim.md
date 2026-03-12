@@ -1,67 +1,67 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 04b00041-3211-4722-9143-c55507b0a086
-  name: Langhorne Slim & the Law
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: bb7626da-34df-4404-931e-11a9a267189e
-  name: Langhorne Slim & The War Eagles
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 04b00041-3211-4722-9143-c55507b0a086
+    name: Langhorne Slim & the Law
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: bb7626da-34df-4404-931e-11a9a267189e
+    name: Langhorne Slim & The War Eagles
 biography_enhanced_at: '2025-12-29T01:25:57.310679'
 birth_date: '1980-08-20'
-birth_place: Langhorne
+birth_place: 'Langhorne, Pennsylvania, United States'
 enhancement_provider: perplexity
 entry_created: '2025-12-29T01:25:57.310694'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/0bc5259b-bf08-40ad-9f6a-20462f652e83
-  spotify: https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy
-  wikipedia: https://en.wikipedia.org/wiki/Langhorne_Slim
+  musicbrainz: 'https://musicbrainz.org/artist/0bc5259b-bf08-40ad-9f6a-20462f652e83'
+  spotify: 'https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy'
+  wikipedia: 'https://en.wikipedia.org/wiki/Langhorne_Slim'
 gender: Male
 genres:
-- indie folk
-- americana
+  - indie folk
+  - americana
 image_path: 03_Resources/source_material/ArtistPortraits/langhorne_slim.jpg
 instruments:
-- original
+  - original
 last_updated: '2025-12-29T01:25:57.310696'
 musical_connections:
   collaborators:
-  - Malachi DeLorenzo
-  - Jeff Ratner
-  - David Moore
-  - Casey McAllister
-  - Mat Davidson
-  - Trachtenburg Family Slideshow Players
+    - Malachi DeLorenzo
+    - Jeff Ratner
+    - David Moore
+    - Casey McAllister
+    - Mat Davidson
+    - Trachtenburg Family Slideshow Players
   influenced:
-  - ''
+    - ''
   mentors:
-  - Unnamed head professor at Purchase College Conservatory of Music
+    - Unnamed head professor at Purchase College Conservatory of Music
 musicbrainz_id: 0bc5259b-bf08-40ad-9f6a-20462f652e83
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Langhorne_Slim
-- https://dinealonerecords.com/artists/langhorne-slim-the-law/
-- https://www.bluebirdreviews.com/interviews/162-an-interview-with-langhorne-slim-october-6th-2011
-- https://freemusicarchive.org/music/Langhorne_Slim/bio
-- https://alleyesmedia.com/clients/langhorne-slim/
-- https://www.last.fm/music/Langhorne+Slim/+wiki
+  - 'https://en.wikipedia.org/wiki/Langhorne_Slim'
+  - 'https://dinealonerecords.com/artists/langhorne-slim-the-law/'
+  - >-
+    https://www.bluebirdreviews.com/interviews/162-an-interview-with-langhorne-slim-october-6th-2011
+  - 'https://freemusicarchive.org/music/Langhorne_Slim/bio'
+  - 'https://alleyesmedia.com/clients/langhorne-slim/'
+  - 'https://www.last.fm/music/Langhorne+Slim/+wiki'
 spotify_data:
   followers: 176475
   id: 099toTcKJoywTosZr2hHjy
   popularity: 49
-  url: https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy
+  url: 'https://open.spotify.com/artist/099toTcKJoywTosZr2hHjy'
 status: active
 tags:
-- alternative country
+  - alternative country
 title: Langhorne Slim
-
 ---
 
 ![](langhorne_slim.jpg)

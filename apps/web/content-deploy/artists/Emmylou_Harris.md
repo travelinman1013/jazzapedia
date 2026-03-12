@@ -2,25 +2,25 @@
 title: Emmylou Harris
 wiki_slug: emmylou-harris
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1947-04-02'
-birth_place: Birmingham, Alabama, United States
+birth_place: 'Birmingham, Alabama, United States'
 genres:
-- country rock
-- americana
-- folk
-- alt country
-- bluegrass
+  - country rock
+  - americana
+  - folk
+  - alt country
+  - bluegrass
 instruments:
-- eponymous
-- original
+  - eponymous
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Emmylou_Harris.jpg
   caption: Emmylou Harris
   background: non_vocal_instrumentalist
   born: '1947-04-02'
-  origin: Birmingham, Alabama, United States
+  origin: 'Birmingham, Alabama, United States'
 audio_profile:
   tempo_avg: 116.8
   energy_avg: 0.439
@@ -36,47 +36,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Brian Ahern
-  - Rodney Crowell
-  - Albert Lee
-  - Linda Ronstadt
-  - Dolly Parton
-  - Daniel Lanois
-  - Bruce Springsteen
-  - Elvis Costello
+    - Brian Ahern
+    - Rodney Crowell
+    - Albert Lee
+    - Linda Ronstadt
+    - Dolly Parton
+    - Daniel Lanois
+    - Bruce Springsteen
+    - Elvis Costello
   influenced: []
   mentors:
-  - Gram Parsons
+    - Gram Parsons
 spotify_data:
   followers: 423615
   id: 5s6TJEuHTr9GR894wc6VfP
   popularity: 57
-  url: https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP
+  url: 'https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP'
 discography_enriched: true
 top_tracks:
-- Roll Me Up and Smoke Me When I Die - Live
-- On The Road Again - Live
-- Wildflowers - 2015 Remaster (Trio (2016 Remaster))
-- Didn't Leave Nobody But The Baby (O Brother, Where Art Thou? (Original Motion Picture Soundtrack))
-- Same Old Train
-- To Know Him Is to Love Him - 2015 Remaster (Trio (2016 Remaster))
-- Boulder to Birmingham - 2003 Remaster (Pieces of the Sky (Expanded & Remastered))
-- If This Is Goodbye (All The Roadrunning)
-- where will i be (ten days)
-- This Is Us (All The Roadrunning)
+  - Roll Me Up and Smoke Me When I Die - Live
+  - On The Road Again - Live
+  - Wildflowers - 2015 Remaster (Trio (2016 Remaster))
+  - >-
+    Didn't Leave Nobody But The Baby (O Brother, Where Art Thou? (Original
+    Motion Picture Soundtrack))
+  - Same Old Train
+  - To Know Him Is to Love Him - 2015 Remaster (Trio (2016 Remaster))
+  - >-
+    Boulder to Birmingham - 2003 Remaster (Pieces of the Sky (Expanded &
+    Remastered))
+  - If This Is Goodbye (All The Roadrunning)
+  - where will i be (ten days)
+  - This Is Us (All The Roadrunning)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/35ef61ca-43db-4772-ba27-0489e9ebcb69
-  spotify: https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP
-  wikipedia: https://en.wikipedia.org/wiki/Emmylou_Harris
+  musicbrainz: 'https://musicbrainz.org/artist/35ef61ca-43db-4772-ba27-0489e9ebcb69'
+  spotify: 'https://open.spotify.com/artist/5s6TJEuHTr9GR894wc6VfP'
+  wikipedia: 'https://en.wikipedia.org/wiki/Emmylou_Harris'
 image_path: 03_Resources/source_material/ArtistPortraits/Emmylou_Harris.jpg
 biography_enhanced_at: '2025-10-20T10:10:14.912149'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Emmylou_Harris
-- https://encyclopediaofalabama.org/article/emmylou-harris/
-- https://www.biography.com/musicians/emmylou-harris
-- https://www.britannica.com/biography/Emmylou-Harris
+  - 'https://en.wikipedia.org/wiki/Emmylou_Harris'
+  - 'https://encyclopediaofalabama.org/article/emmylou-harris/'
+  - 'https://www.biography.com/musicians/emmylou-harris'
+  - 'https://www.britannica.com/biography/Emmylou-Harris'
 network_extracted: true
 entry_created: '2025-10-20T10:10:14.912163'
 last_updated: '2025-12-23T08:16:01.910511'
@@ -84,10 +88,10 @@ gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:25:42.512953'
 musicbrainz_id: 35ef61ca-43db-4772-ba27-0489e9ebcb69
 tags:
-- americana
-- country
-- country rock
-
+  - americana
+  - country
+  - country rock
+origin: 'New York City, New York, United States'
 ---
 
 ![](Emmylou_Harris.jpg)

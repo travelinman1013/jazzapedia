@@ -4,14 +4,14 @@ wiki_slug: carrie-edwards
 schema_version: 2
 artist_type: person
 status: active
-birth_place: Washington, Georgia, United States
+birth_place: 'Washington, Georgia, United States'
 genres:
-- classic blues
+  - classic blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/carrie_edwards.jpg
   caption: Carrie Edwards
   background: solo_singer
-  origin: Washington, Georgia, United States
+  origin: 'Washington, Georgia, United States'
 audio_profile:
   tempo_avg: 109.8
   energy_avg: 0.097
@@ -27,45 +27,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Various regional blues bands
+    - Various regional blues bands
   influenced:
-  - Younger classic blues musicians in Georgia
+    - Younger classic blues musicians in Georgia
   mentors:
-  - Unknown early blues musicians
+    - Unknown early blues musicians
 spotify_data:
   followers: 24
   id: 0VRe1XGytHR8vjxWoCwS8R
   popularity: 0
-  url: https://open.spotify.com/artist/0VRe1XGytHR8vjxWoCwS8R
+  url: 'https://open.spotify.com/artist/0VRe1XGytHR8vjxWoCwS8R'
 discography_enriched: true
 top_tracks:
-- Gettin' Lots of Lovin' (Cliff Jackson 1926-1934)
-- Dirty Mistreater (Cliff Jackson 1926-1934)
-- Hard Time Blues (Hard Time Blues)
-- Gettin' Lots of Lovin' (Hard Time Blues)
-- Fattening Frogs for Snakes (Hard Time Blues)
-- Dirty Mistreater (Hard Time Blues)
-- Fattening Frogs For Snakes (Piano Blues Vol. 5 (1929-1936))
-- Hard Times Blues (Piano Blues Vol. 5 (1929-1936))
-- Gettin' Lots of Lovin' (Piano Blues Vol. 5 (1929-1936))
-- Dirty Mistreater (Piano Blues Vol. 5 (1929-1936))
+  - Gettin' Lots of Lovin' (Cliff Jackson 1926-1934)
+  - Dirty Mistreater (Cliff Jackson 1926-1934)
+  - Hard Time Blues (Hard Time Blues)
+  - Gettin' Lots of Lovin' (Hard Time Blues)
+  - Fattening Frogs for Snakes (Hard Time Blues)
+  - Dirty Mistreater (Hard Time Blues)
+  - Fattening Frogs For Snakes (Piano Blues Vol. 5 (1929-1936))
+  - Hard Times Blues (Piano Blues Vol. 5 (1929-1936))
+  - Gettin' Lots of Lovin' (Piano Blues Vol. 5 (1929-1936))
+  - Dirty Mistreater (Piano Blues Vol. 5 (1929-1936))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a15f3793-14aa-442d-9dcc-555a3b08c732
-  spotify: https://open.spotify.com/artist/0VRe1XGytHR8vjxWoCwS8R
+  musicbrainz: 'https://musicbrainz.org/artist/a15f3793-14aa-442d-9dcc-555a3b08c732'
+  spotify: 'https://open.spotify.com/artist/0VRe1XGytHR8vjxWoCwS8R'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/carrie_edwards.jpg
 biography_enhanced_at: '2025-11-14T11:00:28.602541'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://atlantabluessociety.org/legends/
-- https://sundayblues.org/?p=3826
-- https://www.allmusic.com/artist/carrie-edwards-mn0000152120
+  - 'https://atlantabluessociety.org/legends/'
+  - 'https://sundayblues.org/?p=3826'
+  - 'https://www.allmusic.com/artist/carrie-edwards-mn0000152120'
 network_extracted: true
 entry_created: '2025-11-14T11:00:28.602552'
 last_updated: '2025-12-23T08:16:06.510741'
 disambiguation: 1930's blues artist
 musicbrainz_id: a15f3793-14aa-442d-9dcc-555a3b08c732
+birth_date: '1909-03-20'
 ---
 
 ![](carrie_edwards.jpg)

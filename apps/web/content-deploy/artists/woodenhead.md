@@ -1,42 +1,42 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2025-12-30T01:22:28.414210'
 birth_date: '1975'
-disambiguation: rock,R&B,classical instrumental band
+disambiguation: 'rock,R&B,classical instrumental band'
 enhancement_provider: perplexity
 entry_created: '2025-12-30T01:22:28.414215'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/93e81dd4-4c00-4483-9cb0-b341817484eb
-  spotify: https://open.spotify.com/artist/2AKNkuPXzLAo3Q7Q3mn6Y1
+  musicbrainz: 'https://musicbrainz.org/artist/93e81dd4-4c00-4483-9cb0-b341817484eb'
+  spotify: 'https://open.spotify.com/artist/2AKNkuPXzLAo3Q7Q3mn6Y1'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/woodenhead.jpg
 last_updated: '2025-12-30T01:22:28.414216'
 musical_connections:
   collaborators:
-  - Danny Cassin
-  - Fran Cominsky
-  - Paul Clement
-  - Mark Whitaker
-  - Trombones From Hell (Mark Mullins, Brian O’Neil, Rick Trolsen)
+    - Danny Cassin
+    - Fran Cominsky
+    - Paul Clement
+    - Mark Whitaker
+    - 'Trombones From Hell (Mark Mullins, Brian O’Neil, Rick Trolsen)'
   influenced: []
   mentors: []
 musicbrainz_id: 93e81dd4-4c00-4483-9cb0-b341817484eb
 network_extracted: true
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- http://woodenheadmusic.com/page-2.html
-- https://jimmyrobinsonmusic.com/Bio.html
-- https://jambands.com/reviews/cds/2004/02/26/perseverance-woodenhead/
-- https://www.jazzmusicarchives.com/artist/woodenhead
-- https://www.progarchives.com/artist.asp?id=10946
-- http://woodenheadmusic.com
+  - 'http://woodenheadmusic.com/page-2.html'
+  - 'https://jimmyrobinsonmusic.com/Bio.html'
+  - 'https://jambands.com/reviews/cds/2004/02/26/perseverance-woodenhead/'
+  - 'https://www.jazzmusicarchives.com/artist/woodenhead'
+  - 'https://www.progarchives.com/artist.asp?id=10946'
+  - 'http://woodenheadmusic.com'
 spotify_data:
   followers: 131
   id: 2AKNkuPXzLAo3Q7Q3mn6Y1
   popularity: 1
-  url: https://open.spotify.com/artist/2AKNkuPXzLAo3Q7Q3mn6Y1
+  url: 'https://open.spotify.com/artist/2AKNkuPXzLAo3Q7Q3mn6Y1'
 status: active
 title: Woodenhead
 ---

@@ -1,24 +1,24 @@
 ---
-title: marcia griffiths
+title: Marcia Griffiths
 wiki_slug: marcia-griffiths
 schema_version: 2
-artist_type: Person
+artist_type: band
 status: active
 birth_date: '1949-11-23'
-birth_place: West Kingston, Kingston, Jamaica
+birth_place: 'West Kingston, Kingston, Jamaica'
 genres:
-- rocksteady
-- lovers rock
-- reggae
-- roots reggae
+  - rocksteady
+  - lovers rock
+  - reggae
+  - roots reggae
 instruments:
-- background vocals
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/marcia_griffiths.jpg
   caption: marcia griffiths
   background: solo_singer
   born: '1949-11-23'
-  origin: West Kingston, Kingston, Jamaica
+  origin: 'West Kingston, Kingston, Jamaica'
 audio_profile:
   tempo_avg: 119.9
   energy_avg: 0.583
@@ -34,50 +34,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bob Andy
-  - Rita Marley
-  - Judy Mowatt
-  - Bob Marley
-  - Byron Lee and the Dragonaires
-  - Cutty Ranks
+    - Bob Andy
+    - Rita Marley
+    - Judy Mowatt
+    - Bob Marley
+    - Byron Lee and the Dragonaires
+    - Cutty Ranks
   influenced:
-  - Etana
-  - Queen Ifrica
+    - Etana
+    - Queen Ifrica
   mentors:
-  - Phillip 'Boasie' James
-  - Clement 'Coxsone' Dodd
-  - Bob Andy
+    - Phillip 'Boasie' James
+    - Clement 'Coxsone' Dodd
+    - Bob Andy
 spotify_data:
   followers: 75040
   id: 4qLV9FR6ZVLS6W8drD78hM
   popularity: 44
-  url: https://open.spotify.com/artist/4qLV9FR6ZVLS6W8drD78hM
+  url: 'https://open.spotify.com/artist/4qLV9FR6ZVLS6W8drD78hM'
 discography_enriched: true
 top_tracks:
-- The Voices Of Sweet Jamaica - All Star Remix
-- Don't Let Me Down (Play Me Sweet and Nice)
-- 'Feel Like Jumping (Reggae Anthology: Melody Life)'
-- Electric Boogie (Carousel)
-- Reggae Rewind - Continuous Mix
-- Put a Little Love in Your Heart (Play Me Sweet and Nice)
-- All My Life (feat. Marcia Griffiths) (On My Mind)
-- 'Dreamland (Reggae Anthology: Melody Life)'
-- Feel Like Jumping
-- Feel Like Jumping
+  - The Voices Of Sweet Jamaica - All Star Remix
+  - Don't Let Me Down (Play Me Sweet and Nice)
+  - 'Feel Like Jumping (Reggae Anthology: Melody Life)'
+  - Electric Boogie (Carousel)
+  - Reggae Rewind - Continuous Mix
+  - Put a Little Love in Your Heart (Play Me Sweet and Nice)
+  - All My Life (feat. Marcia Griffiths) (On My Mind)
+  - 'Dreamland (Reggae Anthology: Melody Life)'
+  - Feel Like Jumping
+  - Feel Like Jumping
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f7fb3771-3dc1-4b7b-b144-7f0a43fa1422
-  spotify: https://open.spotify.com/artist/4qLV9FR6ZVLS6W8drD78hM
-  wikipedia: https://en.wikipedia.org/wiki/Marcia_Griffiths
+  musicbrainz: 'https://musicbrainz.org/artist/f7fb3771-3dc1-4b7b-b144-7f0a43fa1422'
+  spotify: 'https://open.spotify.com/artist/4qLV9FR6ZVLS6W8drD78hM'
+  wikipedia: 'https://en.wikipedia.org/wiki/Marcia_Griffiths'
 image_path: 03_Resources/source_material/ArtistPortraits/marcia_griffiths.jpg
 biography_enhanced_at: '2025-10-19T11:57:14.113699'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Marcia_Griffiths
-- https://marciagriffiths.com
-- https://www.last.fm/music/Marcia+Griffiths/+wiki
-- https://www.marciagriffiths.net/biography.html
-- https://wbssmedia.com/artists/detail/2933
+  - 'https://en.wikipedia.org/wiki/Marcia_Griffiths'
+  - 'https://marciagriffiths.com'
+  - 'https://www.last.fm/music/Marcia+Griffiths/+wiki'
+  - 'https://www.marciagriffiths.net/biography.html'
+  - 'https://wbssmedia.com/artists/detail/2933'
 network_extracted: true
 entry_created: '2025-10-19T11:57:14.113704'
 last_updated: '2025-12-23T08:16:12.616064'
@@ -86,9 +86,9 @@ gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:54:28.499051'
 musicbrainz_id: f7fb3771-3dc1-4b7b-b144-7f0a43fa1422
 tags:
-- background vocalist
-- contralto
-- female vocalist
+  - background vocalist
+  - contralto
+  - female vocalist
 ---
 
 ![](marcia_griffiths.jpg)

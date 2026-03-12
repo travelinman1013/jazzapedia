@@ -3,15 +3,15 @@ title: Chubby Carrier
 wiki_slug: chubby-carrier
 schema_version: 2
 status: active
-birth_place: Church Point, Louisiana, United States
+birth_place: 'Church Point, Louisiana, United States'
 genres:
-- zydeco
-- cajun
+  - zydeco
+  - cajun
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/chubby_carrier.jpg
   caption: Chubby Carrier
   background: solo_singer
-  origin: Church Point, Louisiana, United States
+  origin: 'Church Point, Louisiana, United States'
 audio_profile:
   tempo_avg: 135.6
   energy_avg: 0.857
@@ -27,51 +27,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Troy Carrier
-  - Kevin Carrier
-  - Tab Benoit
-  - Doug Kershaw
-  - Calvin Owens
-  - Jimmy Thackery
+    - Troy Carrier
+    - Kevin Carrier
+    - Tab Benoit
+    - Doug Kershaw
+    - Calvin Owens
+    - Jimmy Thackery
   influenced: []
   mentors:
-  - Roy Carrier Sr.
-  - Warren Carrier
-  - Terrance Simien
+    - Roy Carrier Sr.
+    - Warren Carrier
+    - Terrance Simien
 spotify_data:
   followers: 2635
   id: 3lbwPBln41G2m3d93rxA3T
   popularity: 14
-  url: https://open.spotify.com/artist/3lbwPBln41G2m3d93rxA3T
+  url: 'https://open.spotify.com/artist/3lbwPBln41G2m3d93rxA3T'
 discography_enriched: true
 top_tracks:
-- The Cisco Kid (Who Stole The Hot Sauce?)
-- My Zydeco Shoes (Zydeco Junkie)
-- Who Stole The Hot Sauce? (Who Stole The Hot Sauce?)
-- Jalapeno Lena (Zydeco Junkie)
-- I Wanna Go Back (Zydeco Stuff)
-- The Way I Feel (Cajun - Sweet Home Louisiana)
-- Zydeco Junkie (Zydeco Junkie)
-- Let the Meatball Roll (Zydeco Stuff)
-- Busy Body (Busy Body)
-- Make You Sweat Zydeco (Ultimate Zydeco)
+  - The Cisco Kid (Who Stole The Hot Sauce?)
+  - My Zydeco Shoes (Zydeco Junkie)
+  - Who Stole The Hot Sauce? (Who Stole The Hot Sauce?)
+  - Jalapeno Lena (Zydeco Junkie)
+  - I Wanna Go Back (Zydeco Stuff)
+  - The Way I Feel (Cajun - Sweet Home Louisiana)
+  - Zydeco Junkie (Zydeco Junkie)
+  - Let the Meatball Roll (Zydeco Stuff)
+  - Busy Body (Busy Body)
+  - Make You Sweat Zydeco (Ultimate Zydeco)
 external_urls:
-  spotify: https://open.spotify.com/artist/3lbwPBln41G2m3d93rxA3T
-  wikipedia: https://en.wikipedia.org/wiki/Chubby_Carrier
+  spotify: 'https://open.spotify.com/artist/3lbwPBln41G2m3d93rxA3T'
+  wikipedia: 'https://en.wikipedia.org/wiki/Chubby_Carrier'
 image_path: 03_Resources/source_material/ArtistPortraits/chubby_carrier.jpg
 biography_enhanced_at: '2025-11-28T07:33:01.542768'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Chubby Carrier
-- FolkWorks - Zydeco Grammy Winner Chubby Carrier Interview
-- Chubby Carrier Zydeco Official Website
-- Lafayette Travel - Chubby Carrier
-- WWOZ New Orleans - Chubby Carrier & The Bayou Swamp Band
-- Louisiana Cultural & Blues Society - Chubby Carrier and the Bayou Swamp Band
+  - Wikipedia - Chubby Carrier
+  - FolkWorks - Zydeco Grammy Winner Chubby Carrier Interview
+  - Chubby Carrier Zydeco Official Website
+  - Lafayette Travel - Chubby Carrier
+  - WWOZ New Orleans - Chubby Carrier & The Bayou Swamp Band
+  - Louisiana Cultural & Blues Society - Chubby Carrier and the Bayou Swamp Band
 network_extracted: true
 entry_created: '2025-11-28T07:33:01.542784'
 last_updated: '2025-12-23T08:16:06.962789'
+origin: 'Church Point, Louisiana, United States'
+birth_date: '1967-07-01'
+artist_type: person
 ---
 
 ![](chubby_carrier.jpg)

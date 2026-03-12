@@ -2,59 +2,61 @@
 artist_type: person
 biography_enhanced_at: '2026-01-08T01:43:53.110405'
 birth_date: '1991-04-21'
-birth_place: Dallas
+birth_place: 'Dallas, Texas, United States'
 disambiguation: US jazz singer and songwriter
 enhancement_provider: perplexity
 entry_created: '2026-01-08T01:43:53.110410'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4d66fdee-8db7-4f84-a98e-fbde2c582db7
-  spotify: https://open.spotify.com/artist/3sRX2AuJCF5rblkGm2wMSM
-  wikipedia: https://en.wikipedia.org/wiki/Jazzmeia_Horn
+  musicbrainz: 'https://musicbrainz.org/artist/4d66fdee-8db7-4f84-a98e-fbde2c582db7'
+  spotify: 'https://open.spotify.com/artist/3sRX2AuJCF5rblkGm2wMSM'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jazzmeia_Horn'
 gender: Female
 genres:
-- vocal jazz
-- jazz
+  - vocal jazz
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/jazzmeia_horn.jpg
 instruments:
-- lead vocals
+  - lead vocals
 last_updated: '2026-01-08T01:43:53.110411'
 musical_connections:
   collaborators:
-  - Javier Santiago
-  - Nadav Lachishe
-  - Cory Cox
-  - James Morrison
-  - Wycliffe Gordon
-  - Gordon Goodwin
-  - Ross Irwin
+    - Javier Santiago
+    - Nadav Lachishe
+    - Cory Cox
+    - James Morrison
+    - Wycliffe Gordon
+    - Gordon Goodwin
+    - Ross Irwin
   influenced:
-  - Emerging vocal jazz students in Newark youth programs
+    - Emerging vocal jazz students in Newark youth programs
   mentors:
-  - Betty Carter
-  - Abbey Lincoln
-  - Bobby McFerrin
+    - Betty Carter
+    - Abbey Lincoln
+    - Bobby McFerrin
 musicbrainz_id: 4d66fdee-8db7-4f84-a98e-fbde2c582db7
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.bmcc.cuny.edu/faculty/jazzmeia-horn/
-- https://www.sfcv.org/articles/artist-spotlight/jazzmeia-horn-making-her-mark-vocal-jazz
-- https://myeol.nccu.edu/sites/default/files/2024-04/Jazzmeia-Horn-Bio.pdf
-- https://concord.com/artist/jazzmeia-horn/
-- https://jazztimes.com/features/interviews/jazzmeia-horn-going-spirit-leads/
-- https://www.artistryofjazzhorn.com/press
-- https://mvjazzbluessummerfest.com/bands/jazzmia/
-- https://beacons.ai/jazzmeiahorn
-- https://en.wikipedia.org/wiki/Jazzmeia_Horn
+  - 'https://www.bmcc.cuny.edu/faculty/jazzmeia-horn/'
+  - >-
+    https://www.sfcv.org/articles/artist-spotlight/jazzmeia-horn-making-her-mark-vocal-jazz
+  - 'https://myeol.nccu.edu/sites/default/files/2024-04/Jazzmeia-Horn-Bio.pdf'
+  - 'https://concord.com/artist/jazzmeia-horn/'
+  - 'https://jazztimes.com/features/interviews/jazzmeia-horn-going-spirit-leads/'
+  - 'https://www.artistryofjazzhorn.com/press'
+  - 'https://mvjazzbluessummerfest.com/bands/jazzmia/'
+  - 'https://beacons.ai/jazzmeiahorn'
+  - 'https://en.wikipedia.org/wiki/Jazzmeia_Horn'
 spotify_data:
   followers: 43312
   id: 3sRX2AuJCF5rblkGm2wMSM
   popularity: 32
-  url: https://open.spotify.com/artist/3sRX2AuJCF5rblkGm2wMSM
+  url: 'https://open.spotify.com/artist/3sRX2AuJCF5rblkGm2wMSM'
 status: active
 tags:
-- vocal jazz
-title: jazzmeia horn
+  - vocal jazz
+title: Jazzmeia Horn
+origin: 'New York City, New York, United States'
 ---
 
 ![](jazzmeia_horn.jpg)

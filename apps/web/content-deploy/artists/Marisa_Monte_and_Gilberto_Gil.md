@@ -5,40 +5,40 @@ schema_version: 2
 status: active
 birth_name: Gilberto Passos Gil Moreira
 aliases: []
-birth_date: '1942-06-26'
-birth_place: Rio de Janeiro, Rio de Janeiro, Brazil
+birth_date: '1967-07-01'
+birth_place: 'Salvador, Bahia, Brazil'
 years_active: 1959–present
 genres:
-- mpb
-- bossa nova
-- samba
-- brazilian jazz
+  - mpb
+  - bossa nova
+  - samba
+  - brazilian jazz
 instruments:
-- guitar
-- voice
-- percussion instrument
+  - guitar
+  - voice
+  - percussion instrument
 occupation:
-- singer
-- guitarist
-- songwriter
-- composer
-- jazz guitarist
+  - singer
+  - guitarist
+  - songwriter
+  - composer
+  - jazz guitarist
 record_labels:
-- ACT Music
-- RCA Records
-- Philips Records
+  - ACT Music
+  - RCA Records
+  - Philips Records
 spouse:
-- Flora Gil
-- Nana Caymmi
+  - Flora Gil
+  - Nana Caymmi
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Gilberto_Gil.jpg
   caption: Gilberto Gil
   background: solo_singer
   birth_name: Gilberto Passos Gil Moreira
   born: '1942-06-26'
-  origin: Rio de Janeiro, Rio de Janeiro, Brazil
+  origin: 'Rio de Janeiro, Rio de Janeiro, Brazil'
 audio_profile:
-  tempo_avg: 116.0
+  tempo_avg: 116
   energy_avg: 0.513
   valence_avg: 0.621
   danceability_avg: 0.621
@@ -52,40 +52,40 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Arnaldo Antunes
-  - Carlinhos Brown
-  - Arto Lindsay
-  - Nando Reis
-  - Ryuichi Sakamoto
-  - Marc Ribot
+    - Arnaldo Antunes
+    - Carlinhos Brown
+    - Arto Lindsay
+    - Nando Reis
+    - Ryuichi Sakamoto
+    - Marc Ribot
   influenced: []
   mentors:
-  - Nelson Motta
-  - Carlos Monte
+    - Nelson Motta
+    - Carlos Monte
 related_artists: []
 spotify_data:
   followers: 1526061
   id: 7oEkUINVIj1Nr3Wnj8tzqr
   popularity: 68
-  url: https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr
+  url: 'https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr'
   verified: false
 discography_enriched: true
 albums_count: 74
 singles_count: 27
 top_tracks:
-- A Dança - Ao Vivo (Funk Superação (Ao Vivo))
-- Andar com fé (Um banda um)
-- Esperando na janela (As canções de eu, tu, eles)
-- A Dança - Ao Vivo
-- Palco (Luar)
-- Drão (Um banda um)
-- Aquele Abraço
-- Toda Menina Baiana (Realce)
-- Aos Pés da Cruz
-- Aquarela do Brasil (Participação especial de Gilberto Gil e Caetano Veloso)
+  - A Dança - Ao Vivo (Funk Superação (Ao Vivo))
+  - Andar com fé (Um banda um)
+  - 'Esperando na janela (As canções de eu, tu, eles)'
+  - A Dança - Ao Vivo
+  - Palco (Luar)
+  - Drão (Um banda um)
+  - Aquele Abraço
+  - Toda Menina Baiana (Realce)
+  - Aos Pés da Cruz
+  - Aquarela do Brasil (Participação especial de Gilberto Gil e Caetano Veloso)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr
+  spotify: 'https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/Gilberto_Gil.jpg
 biography_source: wikipedia
@@ -93,15 +93,15 @@ biography_enhanced_at: '2025-09-30T12:10:00.241588'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- brazilbeatblog.wordpress.com
-- globalartslive.org
-- bluenote.com
-- musicianguide.com
+  - brazilbeatblog.wordpress.com
+  - globalartslive.org
+  - bluenote.com
+  - musicianguide.com
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 15:22:03.896403
+entry_created: 2025-09-18T15:22:03.896Z
 last_updated: '2025-12-23T08:16:03.192434'
-
+artist_type: person
 ---
 
 ![](Gilberto_Gil.jpg)

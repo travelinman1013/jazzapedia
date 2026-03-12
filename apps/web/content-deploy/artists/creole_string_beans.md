@@ -1,12 +1,12 @@
 ---
-title: creole string beans
+title: Creole String Beans
 wiki_slug: creole-string-beans
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- zydeco
-- cajun
+  - zydeco
+  - cajun
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/creole_string_beans.jpg
   caption: creole string beans
@@ -26,52 +26,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Rob Savoy
-  - Rick Olivier
-  - Brian Rini
+    - Rob Savoy
+    - Rick Olivier
+    - Brian Rini
   influenced: []
   mentors:
-  - Classic New Orleans R&B Artists
+    - Classic New Orleans R&B Artists
 spotify_data:
   followers: 354
   id: 14uLfh7R8stlnm7cG5AHGZ
   popularity: 1
-  url: https://open.spotify.com/artist/14uLfh7R8stlnm7cG5AHGZ
+  url: 'https://open.spotify.com/artist/14uLfh7R8stlnm7cG5AHGZ'
 discography_enriched: true
 top_tracks:
-- Funky Spillway (Shrimp Boots & Vintage Suits)
-- Be My Guest (Shrimp Boots & Vintage Suits)
-- Hotline Baby (Golden Crown)
-- Sally Put a Spell On Me (Shrimp Boots & Vintage Suits)
-- What I Know Now (Shrimp Boots & Vintage Suits)
-- Here Come the Girls (Shrimp Boots & Vintage Suits)
-- Louisiana Fairytale (Shrimp Boots & Vintage Suits)
-- She's Got Me Hook, Line, and Sinker (Vieux Carré (The French Quarter) - Sounds of New Orleans)
-- Blues Cha Cha (Golden Crown)
-- Golden Crown (Golden Crown)
+  - Funky Spillway (Shrimp Boots & Vintage Suits)
+  - Be My Guest (Shrimp Boots & Vintage Suits)
+  - Hotline Baby (Golden Crown)
+  - Sally Put a Spell On Me (Shrimp Boots & Vintage Suits)
+  - What I Know Now (Shrimp Boots & Vintage Suits)
+  - Here Come the Girls (Shrimp Boots & Vintage Suits)
+  - Louisiana Fairytale (Shrimp Boots & Vintage Suits)
+  - >-
+    She's Got Me Hook, Line, and Sinker (Vieux Carré (The French Quarter) -
+    Sounds of New Orleans)
+  - Blues Cha Cha (Golden Crown)
+  - Golden Crown (Golden Crown)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/93f0ca1b-274f-4d89-ae71-7dd927f67c0e
-  spotify: https://open.spotify.com/artist/14uLfh7R8stlnm7cG5AHGZ
+  musicbrainz: 'https://musicbrainz.org/artist/93f0ca1b-274f-4d89-ae71-7dd927f67c0e'
+  spotify: 'https://open.spotify.com/artist/14uLfh7R8stlnm7cG5AHGZ'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/creole_string_beans.jpg
 biography_enhanced_at: '2025-11-01T15:36:41.670975'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://creolestringbeans.com/band-bio
-- https://creolestringbeans.com/about-us
-- https://www.neworleans.com/listing/creole-string-beans/47678/
+  - 'https://creolestringbeans.com/band-bio'
+  - 'https://creolestringbeans.com/about-us'
+  - 'https://www.neworleans.com/listing/creole-string-beans/47678/'
 network_extracted: true
 entry_created: '2025-11-01T15:36:41.670984'
 last_updated: '2025-12-23T08:16:07.293448'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 283eb0c4-af63-4946-a8f5-2988ef8d5fcc
-  name: Rick Olivier
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 283eb0c4-af63-4946-a8f5-2988ef8d5fcc
+    name: Rick Olivier
 musicbrainz_id: 93f0ca1b-274f-4d89-ae71-7dd927f67c0e
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](creole_string_beans.jpg)

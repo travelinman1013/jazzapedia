@@ -5,19 +5,19 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1944-07-30'
-birth_place: Adelphi
+birth_place: 'Somerton, Jamaica, United States'
 genres:
-- reggae
-- rocksteady
-- roots reggae
+  - reggae
+  - rocksteady
+  - roots reggae
 instruments:
-- lead vocals
+  - lead vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 51d41108-b038-4605-9026-bf37f4e48b8b
-  name: Engine Room
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 51d41108-b038-4605-9026-bf37f4e48b8b
+    name: Engine Room
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jimmy_cliff.jpg
   caption: Jimmy Cliff
@@ -39,55 +39,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ernest Ranglin
-  - Chris Blackwell
-  - Shakedown Sound (future Mott the Hoople members)
+    - Ernest Ranglin
+    - Chris Blackwell
+    - Shakedown Sound (future Mott the Hoople members)
   influenced:
-  - Paul Simon
-  - Bob Marley
-  - Desmond Dekker
+    - Paul Simon
+    - Bob Marley
+    - Desmond Dekker
   mentors:
-  - Leslie Kong
+    - Leslie Kong
 spotify_data:
   followers: 841024
   id: 3rJ3m1tM6vUgiWLjfV8sRf
   popularity: 56
-  url: https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf
+  url: 'https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf'
 discography_enriched: true
 top_tracks:
-- You Can Get It If You Really Want (The Harder They Come (Original Motion Picture Soundtrack))
-- I Can See Clearly Now
-- I Can See Clearly Now
-- The Harder They Come (The Harder They Come (Original Motion Picture Soundtrack))
-- Wonderful World, Beautiful People - Single Version (Wonderful World, Beautiful People)
-- Reggae Night (The Power And The Glory)
-- Reggae Night
-- Many Rivers To Cross (Wonderful World, Beautiful People)
-- Rebel In Me
-- I Can See Clearly Now (Sunshine In The Music)
+  - >-
+    You Can Get It If You Really Want (The Harder They Come (Original Motion
+    Picture Soundtrack))
+  - I Can See Clearly Now
+  - I Can See Clearly Now
+  - >-
+    The Harder They Come (The Harder They Come (Original Motion Picture
+    Soundtrack))
+  - >-
+    Wonderful World, Beautiful People - Single Version (Wonderful World,
+    Beautiful People)
+  - Reggae Night (The Power And The Glory)
+  - Reggae Night
+  - 'Many Rivers To Cross (Wonderful World, Beautiful People)'
+  - Rebel In Me
+  - I Can See Clearly Now (Sunshine In The Music)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2caa54a7-b08c-41da-b892-3a41abe778be
-  spotify: https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf
-  wikipedia: https://en.wikipedia.org/wiki/Jimmy_Cliff
+  musicbrainz: 'https://musicbrainz.org/artist/2caa54a7-b08c-41da-b892-3a41abe778be'
+  spotify: 'https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jimmy_Cliff'
 image_path: 03_Resources/source_material/ArtistPortraits/jimmy_cliff.jpg
 biography_enhanced_at: '2025-11-16T20:23:54.309619'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.britannica.com/biography/Jimmy-Cliff
-- https://magazine.waxpoetics.com/article/jimmy-cliff-island-ambassador/
-- https://jis.gov.jm/jamaica/jimmy-cliff/
-- https://www.reggaeville.com/artist-details/jimmy-cliff/about/
-- https://www.jimmycliff.com/bio/
+  - 'https://www.britannica.com/biography/Jimmy-Cliff'
+  - 'https://magazine.waxpoetics.com/article/jimmy-cliff-island-ambassador/'
+  - 'https://jis.gov.jm/jamaica/jimmy-cliff/'
+  - 'https://www.reggaeville.com/artist-details/jimmy-cliff/about/'
+  - 'https://www.jimmycliff.com/bio/'
 network_extracted: true
 entry_created: '2025-11-16T20:23:54.309629'
 last_updated: '2025-12-23T08:16:10.422487'
 gender: Male
 musicbrainz_id: 2caa54a7-b08c-41da-b892-3a41abe778be
 tags:
-- 2008 universal fire victim
-- classic pop and rock
-- jamaican ska
+  - 2008 universal fire victim
+  - classic pop and rock
+  - jamaican ska
+origin: 'Kingston, Jamaica, United States'
 ---
 
 ![](jimmy_cliff.jpg)

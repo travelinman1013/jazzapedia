@@ -3,53 +3,55 @@ biography_enhanced_at: '2026-01-10T01:08:22.998102'
 enhancement_provider: perplexity
 entry_created: '2026-01-10T01:08:22.998107'
 external_urls:
-  spotify: https://open.spotify.com/artist/5JzA5RES9AMM9bK3oDyulT
-  wikipedia: https://en.wikipedia.org/wiki/The_Headhunters
+  spotify: 'https://open.spotify.com/artist/5JzA5RES9AMM9bK3oDyulT'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Headhunters'
 genres:
-- jazz funk
-- jazz fusion
-- funk
+  - jazz funk
+  - jazz fusion
+  - funk
 image_path: 03_Resources/source_material/ArtistPortraits/the_headhunters.jpg
 last_updated: '2026-01-10T01:08:22.998107'
 musical_connections:
   collaborators:
-  - Herbie Hancock
-  - Bennie Maupin
-  - Harvey Mason
-  - Mike Clark
-  - Bill Summers
-  - Paul Jackson
-  - Donald Harrison
-  - Kyle Roussel
-  - Chris Severin
+    - Herbie Hancock
+    - Bennie Maupin
+    - Harvey Mason
+    - Mike Clark
+    - Bill Summers
+    - Paul Jackson
+    - Donald Harrison
+    - Kyle Roussel
+    - Chris Severin
   influenced:
-  - Hip‑hop producers and DJs (e.g., early sample‑based artists)
-  - Jazz‑funk and fusion bassists and rhythm sections
-  - Contemporary funk, jam‑band, and groove‑based jazz groups
+    - 'Hip‑hop producers and DJs (e.g., early sample‑based artists)'
+    - Jazz‑funk and fusion bassists and rhythm sections
+    - 'Contemporary funk, jam‑band, and groove‑based jazz groups'
   mentors:
-  - Herbie Hancock
-  - Miles Davis
-  - James Brown and 1960s–70s funk
+    - Herbie Hancock
+    - Miles Davis
+    - James Brown and 1960s–70s funk
 network_extracted: true
-origin: United States (formed in the U.S.; closely associated with Herbie Hancock’s
+origin: >-
+  United States (formed in the U.S.; closely associated with Herbie Hancock’s
   Los Angeles and New York recording activities)
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Headhunters
-- https://ragman.org/the-headhunters
-- https://jazzaspensnowmass.org/getting-to-know-the-headhunters/
-- https://www.allaboutjazz.com/musicians/the-headhunters/
-- https://www.innerviews.org/inner/the-headhunters
-- https://coltranejazzfest.com/the-headhunters/
-- https://summerfest.sanjosejazz.org/artists/the-headhunters
-- https://www.theheadhunters.band
+  - 'https://en.wikipedia.org/wiki/The_Headhunters'
+  - 'https://ragman.org/the-headhunters'
+  - 'https://jazzaspensnowmass.org/getting-to-know-the-headhunters/'
+  - 'https://www.allaboutjazz.com/musicians/the-headhunters/'
+  - 'https://www.innerviews.org/inner/the-headhunters'
+  - 'https://coltranejazzfest.com/the-headhunters/'
+  - 'https://summerfest.sanjosejazz.org/artists/the-headhunters'
+  - 'https://www.theheadhunters.band'
 spotify_data:
   followers: 19130
   id: 5JzA5RES9AMM9bK3oDyulT
   popularity: 27
-  url: https://open.spotify.com/artist/5JzA5RES9AMM9bK3oDyulT
+  url: 'https://open.spotify.com/artist/5JzA5RES9AMM9bK3oDyulT'
 status: active
 title: The Headhunters
+artist_type: band
 ---
 
 ![](the_headhunters.jpg)

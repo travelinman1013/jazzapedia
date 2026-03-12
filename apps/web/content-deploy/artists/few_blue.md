@@ -23,44 +23,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jack Miele
+    - Jack Miele
   influenced: []
   mentors:
-  - Jack Miele
-  - Local New Orleans Bands
+    - Jack Miele
+    - Local New Orleans Bands
 spotify_data:
   followers: 847
   id: 2LKG7HaSdE6vxJv77CigZh
   popularity: 1
-  url: https://open.spotify.com/artist/2LKG7HaSdE6vxJv77CigZh
+  url: 'https://open.spotify.com/artist/2LKG7HaSdE6vxJv77CigZh'
 discography_enriched: true
 top_tracks:
-- Oops (So Damn Wrong)
-- Call Me Crazy (So Damn Wrong)
-- So Damn Wrong (So Damn Wrong)
-- Forbidden Road (So Damn Wrong)
-- Song Why (So Damn Wrong)
-- Oops - Clean Version (Oops - Clean Version)
-- CALL ME CRAZY (CALL ME CRAZY)
-- Oops (So Damn Wrong)
-- Call Me Crazy (So Damn Wrong)
-- Forbidden Road (So Damn Wrong)
+  - Oops (So Damn Wrong)
+  - Call Me Crazy (So Damn Wrong)
+  - So Damn Wrong (So Damn Wrong)
+  - Forbidden Road (So Damn Wrong)
+  - Song Why (So Damn Wrong)
+  - Oops - Clean Version (Oops - Clean Version)
+  - CALL ME CRAZY (CALL ME CRAZY)
+  - Oops (So Damn Wrong)
+  - Call Me Crazy (So Damn Wrong)
+  - Forbidden Road (So Damn Wrong)
 external_urls:
-  spotify: https://open.spotify.com/artist/2LKG7HaSdE6vxJv77CigZh
+  spotify: 'https://open.spotify.com/artist/2LKG7HaSdE6vxJv77CigZh'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/few_blue.jpg
 biography_enhanced_at: '2025-11-04T10:54:02.891177'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://canvasrebel.com/meet-few-blue/
-- https://fewblue.com/about-us
-- https://fewblue.com/listen
-- https://tennesseehighlighter.com/meet-few-blue-band/
+  - 'https://canvasrebel.com/meet-few-blue/'
+  - 'https://fewblue.com/about-us'
+  - 'https://fewblue.com/listen'
+  - 'https://tennesseehighlighter.com/meet-few-blue-band/'
 network_extracted: true
 entry_created: '2025-11-04T10:54:02.891187'
 last_updated: '2025-12-23T08:16:08.644731'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![](few_blue.jpg)

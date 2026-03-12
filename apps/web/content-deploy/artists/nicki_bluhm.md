@@ -3,14 +3,18 @@ title: Nicki Bluhm
 wiki_slug: nicki-bluhm
 schema_version: 2
 status: active
-birth_place: San Francisco, California, United States (career origin in Cow Hollow; California native)
+birth_place: >-
+  San Francisco, California, United States (career origin in Cow Hollow;
+  California native)
 genres:
-- americana
+  - americana
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/nicki_bluhm.jpg
   caption: Nicki Bluhm
   background: solo_singer
-  origin: San Francisco, California, United States (career origin in Cow Hollow; California native)
+  origin: >-
+    San Francisco, California, United States (career origin in Cow Hollow;
+    California native)
 audio_profile:
   tempo_avg: 122.5
   energy_avg: 0.562
@@ -26,59 +30,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Nicki Bluhm and The Gramblers
-  - Phil Lesh
-  - Bob Weir
-  - The Infamous Stringdusters
-  - Matt Ross‑Spang
-  - Jesse Wilson
-  - Kai Welch
-  - A.J. Croce
-  - Erin Rae
-  - Jay Bellerose and Jennifer Condos
+    - Nicki Bluhm and The Gramblers
+    - Phil Lesh
+    - Bob Weir
+    - The Infamous Stringdusters
+    - Matt Ross‑Spang
+    - Jesse Wilson
+    - Kai Welch
+    - A.J. Croce
+    - Erin Rae
+    - Jay Bellerose and Jennifer Condos
   influenced:
-  - ''
+    - ''
   mentors:
-  - Tim Bluhm
-  - Linda Ronstadt
-  - Joni Mitchell
-  - Dan Penn
+    - Tim Bluhm
+    - Linda Ronstadt
+    - Joni Mitchell
+    - Dan Penn
 spotify_data:
   followers: 15154
   id: 0Ti7wMIMMaYKv582YN47Hh
   popularity: 33
-  url: https://open.spotify.com/artist/0Ti7wMIMMaYKv582YN47Hh
+  url: 'https://open.spotify.com/artist/0Ti7wMIMMaYKv582YN47Hh'
 discography_enriched: true
 top_tracks:
-- Morning Time (Respect the Van)
-- Danny's Song (Toby's Song)
-- Sugar Please (Ink, Dust & Luck)
-- To Rise You Gotta Fall (To Rise You Gotta Fall)
-- To Rise You Gotta Fall
-- Jetplane (Driftwood)
-- Morning Time (Ear Snacks)
-- TEXAS HOLD 'EM
-- Cumberland Banks
-- Nowhere
+  - Morning Time (Respect the Van)
+  - Danny's Song (Toby's Song)
+  - 'Sugar Please (Ink, Dust & Luck)'
+  - To Rise You Gotta Fall (To Rise You Gotta Fall)
+  - To Rise You Gotta Fall
+  - Jetplane (Driftwood)
+  - Morning Time (Ear Snacks)
+  - TEXAS HOLD 'EM
+  - Cumberland Banks
+  - Nowhere
 external_urls:
-  spotify: https://open.spotify.com/artist/0Ti7wMIMMaYKv582YN47Hh
-  wikipedia: https://en.wikipedia.org/wiki/Nicki_Bluhm
+  spotify: 'https://open.spotify.com/artist/0Ti7wMIMMaYKv582YN47Hh'
+  wikipedia: 'https://en.wikipedia.org/wiki/Nicki_Bluhm'
 image_path: 03_Resources/source_material/ArtistPortraits/nicki_bluhm.jpg
 biography_enhanced_at: '2025-12-20T01:16:58.068710'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.nickibluhm.com
-- https://americana-uk.com/interview-nicki-bluhm-on-writing-about-her-life-and-her-country-soul
-- https://www.philthymag.com/nicki-bluhm-soul-drifter/
-- https://thebluegrasssituation.com/read/at-your-service-a-conversation-with-nicki-bluhm/
-- https://www.rialtotheatre.com/tm-attraction/nicki-bluhm/
-- https://www.jambandfriendly.com/articles/43-interview-nicki-bluhm
-- https://www.palmspringslife.com/arts-culture/nicki-bluhm-bridges-the-gap-between-fashion-music/
-- https://en.wikipedia.org/wiki/Nicki_Bluhm
+  - 'https://www.nickibluhm.com'
+  - >-
+    https://americana-uk.com/interview-nicki-bluhm-on-writing-about-her-life-and-her-country-soul
+  - 'https://www.philthymag.com/nicki-bluhm-soul-drifter/'
+  - >-
+    https://thebluegrasssituation.com/read/at-your-service-a-conversation-with-nicki-bluhm/
+  - 'https://www.rialtotheatre.com/tm-attraction/nicki-bluhm/'
+  - 'https://www.jambandfriendly.com/articles/43-interview-nicki-bluhm'
+  - >-
+    https://www.palmspringslife.com/arts-culture/nicki-bluhm-bridges-the-gap-between-fashion-music/
+  - 'https://en.wikipedia.org/wiki/Nicki_Bluhm'
 network_extracted: true
 entry_created: '2025-12-20T01:16:58.068725'
 last_updated: '2025-12-23T08:16:13.571060'
+artist_type: person
 ---
 
 ![](nicki_bluhm.jpg)

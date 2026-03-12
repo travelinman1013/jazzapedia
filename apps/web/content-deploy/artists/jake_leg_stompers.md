@@ -1,11 +1,11 @@
 ---
-title: jake leg stompers
+title: The Jake Leg Stompers
 wiki_slug: jake-leg-stompers
 schema_version: 2
 status: active
 genres:
-- americana
-- jazz blues
+  - americana
+  - jazz blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jake_leg_stompers.jpg
   caption: jake leg stompers
@@ -25,46 +25,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ron Bombardi
-  - Bill Steber
+    - Ron Bombardi
+    - Bill Steber
   influenced: []
   mentors:
-  - Fats Waller
-  - Memphis Jug Bands
+    - Fats Waller
+    - Memphis Jug Bands
 spotify_data:
   followers: 206
   id: 1a9DjgH2DQ42KXYvTiBmoa
   popularity: 1
-  url: https://open.spotify.com/artist/1a9DjgH2DQ42KXYvTiBmoa
+  url: 'https://open.spotify.com/artist/1a9DjgH2DQ42KXYvTiBmoa'
 discography_enriched: true
 top_tracks:
-- Big Road Blues (Hill Country HooDoo)
-- Big Bad Bill (Hot Feet)
-- Beale Street Holiday (Hill Country HooDoo)
-- Goin' Down South (feat. Luther Dickinson) (Hill Country HooDoo)
-- KC Moan (feat. Jimbo Mathus) (Hill Country HooDoo)
-- Linin' Track (feat. the Rising Star Fife and Drum Band) (Hill Country HooDoo)
-- Keep It Clean (Hill Country HooDoo)
-- Field Mouse Stomp (Hill Country HooDoo)
-- Hurry Up Sunrise (feat. Luther Dickinson) (Hill Country HooDoo)
-- Aunt Caroline Dyer (Hill Country HooDoo)
+  - Big Road Blues (Hill Country HooDoo)
+  - Big Bad Bill (Hot Feet)
+  - Beale Street Holiday (Hill Country HooDoo)
+  - Goin' Down South (feat. Luther Dickinson) (Hill Country HooDoo)
+  - KC Moan (feat. Jimbo Mathus) (Hill Country HooDoo)
+  - >-
+    Linin' Track (feat. the Rising Star Fife and Drum Band) (Hill Country
+    HooDoo)
+  - Keep It Clean (Hill Country HooDoo)
+  - Field Mouse Stomp (Hill Country HooDoo)
+  - Hurry Up Sunrise (feat. Luther Dickinson) (Hill Country HooDoo)
+  - Aunt Caroline Dyer (Hill Country HooDoo)
 external_urls:
-  spotify: https://open.spotify.com/artist/1a9DjgH2DQ42KXYvTiBmoa
+  spotify: 'https://open.spotify.com/artist/1a9DjgH2DQ42KXYvTiBmoa'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/jake_leg_stompers.jpg
 biography_enhanced_at: '2025-11-20T07:28:16.473259'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Jake+Leg+Stompers/+wiki
-- http://www.jakelegstompers.com/about
-- https://mtsunews.com/mtsu-jake-leg-stompers-uncle-dave-macon-festival/
-- https://www.reverbnation.com/jakelegstompers
-- http://www.jakelegstompers.com/bios
+  - 'https://www.last.fm/music/Jake+Leg+Stompers/+wiki'
+  - 'http://www.jakelegstompers.com/about'
+  - 'https://mtsunews.com/mtsu-jake-leg-stompers-uncle-dave-macon-festival/'
+  - 'https://www.reverbnation.com/jakelegstompers'
+  - 'http://www.jakelegstompers.com/bios'
 network_extracted: true
 entry_created: '2025-11-20T07:28:16.473272'
 last_updated: '2025-12-23T08:16:10.132961'
-origin: Murfreesboro, Tennessee, United States
+origin: 'Murfreesboro, Tennessee, United States'
+artist_type: band
 ---
 
 ![](jake_leg_stompers.jpg)

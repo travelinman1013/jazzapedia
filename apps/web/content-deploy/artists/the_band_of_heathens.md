@@ -3,48 +3,51 @@ biography_enhanced_at: '2026-01-19T01:10:14.637899'
 enhancement_provider: perplexity
 entry_created: '2026-01-19T01:10:14.637905'
 external_urls:
-  spotify: https://open.spotify.com/artist/5K4gVy6DhNd39mSjuK95Y7
+  spotify: 'https://open.spotify.com/artist/5K4gVy6DhNd39mSjuK95Y7'
   wikipedia: Not found in search results
 genres:
-- red dirt
-- texas country
-- alt country
-- americana
-- outlaw country
-- southern rock
+  - red dirt
+  - texas country
+  - alt country
+  - americana
+  - outlaw country
+  - southern rock
 image_path: 03_Resources/source_material/ArtistPortraits/the_band_of_heathens.jpg
 last_updated: '2026-01-19T01:10:14.637906'
 musical_connections:
   collaborators:
-  - Colin Brooks
-  - Ed Jurdi
-  - Gordy Quist
-  - Trevor Nealon
-  - Richard Millsap
-  - Jesse Wilson
-  - Seth Whitney
-  - John Chipman
+    - Colin Brooks
+    - Ed Jurdi
+    - Gordy Quist
+    - Trevor Nealon
+    - Richard Millsap
+    - Jesse Wilson
+    - Seth Whitney
+    - John Chipman
   influenced: []
   mentors:
-  - Ray Wylie Hubbard
+    - Ray Wylie Hubbard
 network_extracted: true
-origin: Austin, Texas, United States
+origin: 'Austin, Texas, United States'
 primary_source: perplexity
 research_sources:
-- https://mokbpresents.com/artist/band-of-heathens/
-- https://www.allamericanspeakers.com/celebritytalentbios/The+Band+of+Heathens/465380
-- https://www.etown.org/broadcasts/etown-time-capsule-band-heathens-jaime-wyatt/
-- https://foundingaustin.com/2019/03/gordy-quist-of-band-of-heathens/
-- https://whatsup-magazine.com/2014/09/band-of-heathens/
-- https://freemusicarchive.org/music/Band_Of_Heathens/bio
-- https://lonestarmusicmagazine.com/qa-band-of-heathens/
+  - 'https://mokbpresents.com/artist/band-of-heathens/'
+  - >-
+    https://www.allamericanspeakers.com/celebritytalentbios/The+Band+of+Heathens/465380
+  - >-
+    https://www.etown.org/broadcasts/etown-time-capsule-band-heathens-jaime-wyatt/
+  - 'https://foundingaustin.com/2019/03/gordy-quist-of-band-of-heathens/'
+  - 'https://whatsup-magazine.com/2014/09/band-of-heathens/'
+  - 'https://freemusicarchive.org/music/Band_Of_Heathens/bio'
+  - 'https://lonestarmusicmagazine.com/qa-band-of-heathens/'
 spotify_data:
   followers: 147494
   id: 5K4gVy6DhNd39mSjuK95Y7
   popularity: 52
-  url: https://open.spotify.com/artist/5K4gVy6DhNd39mSjuK95Y7
+  url: 'https://open.spotify.com/artist/5K4gVy6DhNd39mSjuK95Y7'
 status: active
 title: The Band of Heathens
+artist_type: person
 ---
 
 ![](the_band_of_heathens.jpg)

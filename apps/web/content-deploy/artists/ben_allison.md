@@ -3,14 +3,14 @@ title: Ben Allison
 wiki_slug: ben-allison
 schema_version: 2
 status: active
-birth_place: New Haven, Connecticut, United States
+birth_place: 'New Haven, Connecticut, United States'
 genres:
-- jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ben_allison.jpg
   caption: Ben Allison
   background: solo_singer
-  origin: New Haven, Connecticut, United States
+  origin: 'New Haven, Connecticut, United States'
 audio_profile:
   tempo_avg: 120.3
   energy_avg: 0.222
@@ -26,57 +26,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ara Dinkjian
-  - Mamadou Diabate
-  - Lee Konitz
-  - Joe Lovano
-  - Kong Nay
-  - Chico Pinheiro
-  - Steve Cardenas
-  - Allan Mednard
-  - Jazz Sinfonica
+    - Ara Dinkjian
+    - Mamadou Diabate
+    - Lee Konitz
+    - Joe Lovano
+    - Kong Nay
+    - Chico Pinheiro
+    - Steve Cardenas
+    - Allan Mednard
+    - Jazz Sinfonica
   influenced:
-  - The New School students
+    - The New School students
   mentors:
-  - Thelonious Monk
-  - Wayne Shorter
-  - Miles Davis
-  - Herbie Nichols
+    - Thelonious Monk
+    - Wayne Shorter
+    - Miles Davis
+    - Herbie Nichols
 spotify_data:
   followers: 2823
   id: 5kLzbHcCf9EwkKmuc04zlE
   popularity: 9
-  url: https://open.spotify.com/artist/5kLzbHcCf9EwkKmuc04zlE
+  url: 'https://open.spotify.com/artist/5kLzbHcCf9EwkKmuc04zlE'
 discography_enriched: true
 top_tracks:
-- Safe Passage (Moments Inside)
-- 'Lawns (Healing Power: The Music of Carla Bley)'
-- 'She Insists (Tell the Birds I Said Hello: The Music of Herbie Nichols)'
-- 'That Moanin'' Blues (Tell the Birds I Said Hello: The Music of Herbie Nichols)'
-- 'The Afterbeat (Tell the Birds I Said Hello: The Music of Herbie Nichols)'
-- 'Tell the Birds I Said Hello (Tell the Birds I Said Hello: The Music of Herbie Nichols)'
-- 'Ida Lupino (Healing Power: The Music of Carla Bley)'
-- 'Enrapture (Tell the Birds I Said Hello: The Music of Herbie Nichols)'
-- 'Swan Song (Tell the Birds I Said Hello: The Music of Herbie Nichols)'
-- 'Van Allen Belt (Tell the Birds I Said Hello: The Music of Herbie Nichols)'
+  - Safe Passage (Moments Inside)
+  - 'Lawns (Healing Power: The Music of Carla Bley)'
+  - 'She Insists (Tell the Birds I Said Hello: The Music of Herbie Nichols)'
+  - >-
+    That Moanin' Blues (Tell the Birds I Said Hello: The Music of Herbie
+    Nichols)
+  - 'The Afterbeat (Tell the Birds I Said Hello: The Music of Herbie Nichols)'
+  - >-
+    Tell the Birds I Said Hello (Tell the Birds I Said Hello: The Music of
+    Herbie Nichols)
+  - 'Ida Lupino (Healing Power: The Music of Carla Bley)'
+  - 'Enrapture (Tell the Birds I Said Hello: The Music of Herbie Nichols)'
+  - 'Swan Song (Tell the Birds I Said Hello: The Music of Herbie Nichols)'
+  - 'Van Allen Belt (Tell the Birds I Said Hello: The Music of Herbie Nichols)'
 external_urls:
-  spotify: https://open.spotify.com/artist/5kLzbHcCf9EwkKmuc04zlE
+  spotify: 'https://open.spotify.com/artist/5kLzbHcCf9EwkKmuc04zlE'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/ben_allison.jpg
 biography_enhanced_at: '2025-11-27T06:25:27.457001'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- All About Jazz - Ben Allison Musician Profile
-- The New School - School of Jazz and Contemporary Music Faculty
-- My Music Masterclass - Ben Allison Artist Profile
-- Ben Allison Official Website
-- Centrum.org - Ben Allison Faculty Profile
-- SDPB - Bassist Ben Allison's Moments Inside
-- For Bass Players Only - Ben Allison Interview
+  - All About Jazz - Ben Allison Musician Profile
+  - The New School - School of Jazz and Contemporary Music Faculty
+  - My Music Masterclass - Ben Allison Artist Profile
+  - Ben Allison Official Website
+  - Centrum.org - Ben Allison Faculty Profile
+  - SDPB - Bassist Ben Allison's Moments Inside
+  - For Bass Players Only - Ben Allison Interview
 network_extracted: true
 entry_created: '2025-11-27T06:25:27.457016'
 last_updated: '2025-12-23T08:16:05.233797'
+artist_type: person
 ---
 
 ![](ben_allison.jpg)

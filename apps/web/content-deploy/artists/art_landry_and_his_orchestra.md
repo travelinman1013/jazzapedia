@@ -1,36 +1,38 @@
 ---
 biography_enhanced_at: '2026-01-22T07:07:13.616670'
-birth_place: Montréal, Quebec, Canada
+birth_place: 'Montréal, Quebec, Canada'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:07:13.616678'
 external_urls:
-  spotify: https://open.spotify.com/artist/09KLL7WwrW9e2FdU9xAjM8
+  spotify: 'https://open.spotify.com/artist/09KLL7WwrW9e2FdU9xAjM8'
   wikipedia: ''
 genres:
-- ragtime
+  - ragtime
 image_path: 03_Resources/source_material/ArtistPortraits/art_landry_and_his_orchestra.jpg
 last_updated: '2026-01-22T07:07:13.616679'
 musical_connections:
   collaborators:
-  - Al Marineau
+    - Al Marineau
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.early1900s.org/notes/page/6/
-- https://lewisporter.substack.com/p/listening-to-king-olivers-and-louis-6a8
-- https://music.fandom.com/wiki/Art_Landry
-- https://www.allmusic.com/artist/art-landry-mn0001248512
-- https://mwlandry.ca/landry_art.htm
-- https://adp.library.ucsb.edu/index.php/mastertalent/detail/302045/Art_Landry_Orchestra
+  - 'https://www.early1900s.org/notes/page/6/'
+  - 'https://lewisporter.substack.com/p/listening-to-king-olivers-and-louis-6a8'
+  - 'https://music.fandom.com/wiki/Art_Landry'
+  - 'https://www.allmusic.com/artist/art-landry-mn0001248512'
+  - 'https://mwlandry.ca/landry_art.htm'
+  - >-
+    https://adp.library.ucsb.edu/index.php/mastertalent/detail/302045/Art_Landry_Orchestra
 spotify_data:
   followers: 76
   id: 09KLL7WwrW9e2FdU9xAjM8
   popularity: 4
-  url: https://open.spotify.com/artist/09KLL7WwrW9e2FdU9xAjM8
+  url: 'https://open.spotify.com/artist/09KLL7WwrW9e2FdU9xAjM8'
 status: active
-title: ART LANDRY AND HIS ORCHESTRA
+title: Art Landry and His Orchestra
+artist_type: person
 ---
 
 ![](art_landry_and_his_orchestra.jpg)

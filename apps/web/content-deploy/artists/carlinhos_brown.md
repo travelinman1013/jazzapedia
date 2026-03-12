@@ -1,72 +1,75 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a27207ee-a79e-4887-aa65-e644d2702f5e
-  name: Tribalistas
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 79d12653-3918-4868-8da8-a0bf5febe38b
-  name: Bahia Black
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1a9c3ffa-e1b5-4cf2-a522-d8d7cd4a1bbe
-  name: Candyall Beat
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a27207ee-a79e-4887-aa65-e644d2702f5e
+    name: Tribalistas
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 79d12653-3918-4868-8da8-a0bf5febe38b
+    name: Bahia Black
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1a9c3ffa-e1b5-4cf2-a522-d8d7cd4a1bbe
+    name: Candyall Beat
 biography_enhanced_at: '2025-12-28T01:56:40.455778'
 birth_date: '1962-11-23'
-birth_place: Salvador
+birth_place: 'Salvador, Bahia, Brazil'
 enhancement_provider: perplexity
 entry_created: '2025-12-28T01:56:40.455792'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4c61c6e4-b8d2-45b5-b31a-ab064f5ef9f4
-  spotify: https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv
-  wikipedia: https://en.wikipedia.org/wiki/Carlinhos_Brown
+  musicbrainz: 'https://musicbrainz.org/artist/4c61c6e4-b8d2-45b5-b31a-ab064f5ef9f4'
+  spotify: 'https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv'
+  wikipedia: 'https://en.wikipedia.org/wiki/Carlinhos_Brown'
 gender: Male
 genres:
-- axé
+  - axé
 image_path: 03_Resources/source_material/ArtistPortraits/carlinhos_brown.jpg
 instruments:
-- acoustic guitar
-- guitar
-- steel guitar
-- piano
-- background vocals
-- lead vocals
-- other vocals
+  - acoustic guitar
+  - guitar
+  - steel guitar
+  - piano
+  - background vocals
+  - lead vocals
+  - other vocals
 last_updated: '2025-12-28T01:56:40.455794'
 musical_connections:
   collaborators:
-  - Luís Caldas
-  - Caetano Veloso
-  - Marisa Monte and Arnaldo Antunes
-  - Gilberto Gil, Gal Costa, Djavan
+    - Luís Caldas
+    - Caetano Veloso
+    - Marisa Monte and Arnaldo Antunes
+    - 'Gilberto Gil, Gal Costa, Djavan'
   influenced:
-  - Slipknot
-  - Timbalada members
+    - Slipknot
+    - Timbalada members
   mentors:
-  - Mestre Pintado do Bongô (Osvaldo Alves da Silva)
-  - Wesley Rangel
-  - Gilberto Gil
+    - Mestre Pintado do Bongô (Osvaldo Alves da Silva)
+    - Wesley Rangel
+    - Gilberto Gil
 musicbrainz_id: 4c61c6e4-b8d2-45b5-b31a-ab064f5ef9f4
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- http://www.carlinhosbrown.com.br/wp-content/uploads/2021/03/Carlinhos-Brown-_-Biografia_2021-_-Ingles.pdf
-- https://en.wikipedia.org/wiki/Carlinhos_Brown
-- https://princeclausfund.nl/awardees/carlinhos-brown
-- https://www.domestika.org/en/blog/7568-the-diverse-creative-universe-of-carlinhos-brown
-- https://www.rootsworld.com/rw/feature/brown.html
+  - >-
+    http://www.carlinhosbrown.com.br/wp-content/uploads/2021/03/Carlinhos-Brown-_-Biografia_2021-_-Ingles.pdf
+  - 'https://en.wikipedia.org/wiki/Carlinhos_Brown'
+  - 'https://princeclausfund.nl/awardees/carlinhos-brown'
+  - >-
+    https://www.domestika.org/en/blog/7568-the-diverse-creative-universe-of-carlinhos-brown
+  - 'https://www.rootsworld.com/rw/feature/brown.html'
 spotify_data:
   followers: 172331
   id: 5jvQoouPSDvUEwynz5KPpv
   popularity: 56
-  url: https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv
+  url: 'https://open.spotify.com/artist/5jvQoouPSDvUEwynz5KPpv'
 status: active
 title: Carlinhos Brown
+origin: 'Salvador, Bahia, Brazil'
 ---
 
 ![](carlinhos_brown.jpg)

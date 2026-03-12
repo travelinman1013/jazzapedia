@@ -1,17 +1,17 @@
 ---
-title: margie joseph
+title: Margie Joseph
 wiki_slug: margie-joseph
 schema_version: 2
 status: active
-birth_place: Pascagoula, Mississippi, United States
+birth_place: 'Pascagoula, Mississippi, United States'
 genres:
-- philly soul
-- soul
+  - philly soul
+  - soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/margie_joseph.jpg
   caption: margie joseph
   background: solo_singer
-  origin: Pascagoula, Mississippi, United States
+  origin: 'Pascagoula, Mississippi, United States'
 audio_profile:
   tempo_avg: 121.2
   energy_avg: 0.463
@@ -27,48 +27,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Blue Magic
-  - Freddy Briggs
-  - Larry McKinley
+    - Blue Magic
+    - Freddy Briggs
+    - Larry McKinley
   influenced:
-  - Contemporary Soul and Gospel Artists
+    - Contemporary Soul and Gospel Artists
   mentors:
-  - Aretha Franklin
-  - Church Choir Leaders
+    - Aretha Franklin
+    - Church Choir Leaders
 spotify_data:
   followers: 14428
   id: 5pq13QK3UcktjZaDw6dJEc
   popularity: 22
-  url: https://open.spotify.com/artist/5pq13QK3UcktjZaDw6dJEc
+  url: 'https://open.spotify.com/artist/5pq13QK3UcktjZaDw6dJEc'
 discography_enriched: true
 top_tracks:
-- Let's Stay Together (Margie Joseph)
-- I Can't Move No Mountains (Margie)
-- Come on Back to Me Lover (Feeling My Way)
-- Love Won't Let Me Wait - Live Version (Live!)
-- 'Medley: Try to Remember / Stop to Start (Live!)'
-- (Strange) I Still Love You (Sweet Surrender)
-- 'One More Chance (The Complete Stax / Volt Soul Singles, Vol. 2: 1968-1971)'
-- Is It Gonna Be Me & You (Ready for the Night)
-- I Been Down (Margie Joseph)
-- What's Come over Me - Single Version (What's Come Over Me / You And Me (Got A Good Thing Going))
+  - Let's Stay Together (Margie Joseph)
+  - I Can't Move No Mountains (Margie)
+  - Come on Back to Me Lover (Feeling My Way)
+  - Love Won't Let Me Wait - Live Version (Live!)
+  - 'Medley: Try to Remember / Stop to Start (Live!)'
+  - (Strange) I Still Love You (Sweet Surrender)
+  - 'One More Chance (The Complete Stax / Volt Soul Singles, Vol. 2: 1968-1971)'
+  - Is It Gonna Be Me & You (Ready for the Night)
+  - I Been Down (Margie Joseph)
+  - >-
+    What's Come over Me - Single Version (What's Come Over Me / You And Me (Got
+    A Good Thing Going))
 external_urls:
-  spotify: https://open.spotify.com/artist/5pq13QK3UcktjZaDw6dJEc
-  wikipedia: https://en.wikipedia.org/wiki/Margie_Joseph
+  spotify: 'https://open.spotify.com/artist/5pq13QK3UcktjZaDw6dJEc'
+  wikipedia: 'https://en.wikipedia.org/wiki/Margie_Joseph'
 image_path: 03_Resources/source_material/ArtistPortraits/margie_joseph.jpg
 biography_enhanced_at: '2025-10-20T09:51:06.346663'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.mswritersandmusicians.com/mississippi-musicians/margie-joseph
-- http://www.soulwalking.co.uk/Margie%20Joseph.html
-- https://stianeriksen.com/2013/10/27/margie-joseph-soul-musics-greatest-hidden-gem/
-- https://www.youtube.com/watch?v=hdRdU_ayXeU
-- https://app.soulyears.com/artist-Margie+Joseph.htm
+  - 'https://www.mswritersandmusicians.com/mississippi-musicians/margie-joseph'
+  - 'http://www.soulwalking.co.uk/Margie%20Joseph.html'
+  - >-
+    https://stianeriksen.com/2013/10/27/margie-joseph-soul-musics-greatest-hidden-gem/
+  - 'https://www.youtube.com/watch?v=hdRdU_ayXeU'
+  - 'https://app.soulyears.com/artist-Margie+Joseph.htm'
 network_extracted: true
 entry_created: '2025-10-20T09:51:06.346680'
 last_updated: '2025-12-23T08:16:12.642324'
-
+birth_date: '1950'
+artist_type: person
 ---
 
 ![](margie_joseph.jpg)

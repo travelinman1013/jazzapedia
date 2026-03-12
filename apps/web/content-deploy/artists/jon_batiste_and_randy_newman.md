@@ -1,11 +1,12 @@
 ---
-title: jon batiste & randy newman
+title: Jon Batiste & Randy Newman
 wiki_slug: jon-batiste-randy-newman
 schema_version: 2
 status: active
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/jon_batiste_and_randy_newman.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/jon_batiste_and_randy_newman.jpg
   caption: jon batiste & randy newman
   background: solo_singer
 audio_profile:
@@ -23,46 +24,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Randy Newman
-  - Jon Batiste
+    - Randy Newman
+    - Jon Batiste
   influenced:
-  - Jon Batiste
+    - Jon Batiste
   mentors:
-  - Ray Charles
+    - Ray Charles
 spotify_data:
   followers: 627119
   id: 0eRbECAGCLLiTyVXPBRexU
   popularity: 59
-  url: https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU
+  url: 'https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU'
 discography_enriched: true
 top_tracks:
-- Sunshine In The Room (feat. Jon Batiste)
-- Candy Necklace (feat. Jon Batiste) (Did you know that there's a tunnel under Ocean Blvd)
-- Dusklight Movement (Beethoven Blues)
-- FREEDOM (WE ARE)
-- Be Who You Are (Real Magic) (feat. JID, NewJeans & Camilo)
-- It's All Right
-- I NEED YOU (WE ARE)
-- MODERN TIMES (feat. Jon Batiste) (FATHER FIGURE)
-- Drink Water (feat. Jon Bellion and Fireboy DML) (World Music Radio)
-- Für Elise - Batiste (Beethoven Blues)
+  - Sunshine In The Room (feat. Jon Batiste)
+  - >-
+    Candy Necklace (feat. Jon Batiste) (Did you know that there's a tunnel under
+    Ocean Blvd)
+  - Dusklight Movement (Beethoven Blues)
+  - FREEDOM (WE ARE)
+  - 'Be Who You Are (Real Magic) (feat. JID, NewJeans & Camilo)'
+  - It's All Right
+  - I NEED YOU (WE ARE)
+  - MODERN TIMES (feat. Jon Batiste) (FATHER FIGURE)
+  - Drink Water (feat. Jon Bellion and Fireboy DML) (World Music Radio)
+  - Für Elise - Batiste (Beethoven Blues)
 external_urls:
-  spotify: https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU
-  wikipedia: https://en.wikipedia.org/wiki/Jon_Batiste
+  spotify: 'https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jon_Batiste'
 image_path: 03_Resources/source_material/ArtistPortraits/jon_batiste_and_randy_newman.jpg
 biography_enhanced_at: '2025-12-13T11:08:47.549114'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- AOL / Variety feature on Jon Batiste and Randy Newman’s “Lonely Avenue” collaboration.[1]
-- Interview with Jon Batiste on The Current discussing working with Randy Newman on *Big Money*.[2]
-- Wikipedia entry on Jon Batiste, including information on the album *Big Money* and its collaborators.[3]
-- Coverage noting Newman’s status as a legendary film composer collaborating with Batiste.[4]
+  - >-
+    AOL / Variety feature on Jon Batiste and Randy Newman’s “Lonely Avenue”
+    collaboration.[1]
+  - >-
+    Interview with Jon Batiste on The Current discussing working with Randy
+    Newman on *Big Money*.[2]
+  - >-
+    Wikipedia entry on Jon Batiste, including information on the album *Big
+    Money* and its collaborators.[3]
+  - >-
+    Coverage noting Newman’s status as a legendary film composer collaborating
+    with Batiste.[4]
 network_extracted: true
 entry_created: '2025-12-13T11:08:47.549120'
 last_updated: '2025-12-23T08:16:10.934002'
-origin: New Orleans, Louisiana, United States (Jon Batiste’s birthplace) / Los Angeles, California, United States (Randy Newman’s
-  primary base of operations)
+origin: >-
+  New Orleans, Louisiana, United States (Jon Batiste’s birthplace) / Los
+  Angeles, California, United States (Randy Newman’s primary base of operations)
+birth_place: 'New Orleans, Louisiana, United States'
+birth_date: '1943'
+artist_type: band
 ---
 
 ![](jon_batiste_and_randy_newman.jpg)

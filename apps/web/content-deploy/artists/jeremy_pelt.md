@@ -5,43 +5,43 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1976-11-04'
-birth_place: California
+birth_place: 'California, United States'
 genres:
-- jazz
+  - jazz
 instruments:
-- trumpet
-associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b75bcc41-bea4-4a44-ad7e-86ab9d581b3d
-  name: Gerald Cleaver's Violet Hour
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 99983412-c4d3-4ce0-90f7-e4611e5f706e
-  name: Vincent Herring's The Story of Jazz Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 20f80ec9-a6ab-4760-a059-15b0ec593f33
-  name: WiRED
-- begin: ''
-  end: ''
-  instruments:
   - trumpet
-  mbid: 39111b16-e4d6-40ed-acf8-37cd4311ce2d
-  name: Jimmy Cobb’s So What Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b486b900-a987-45e1-9e5f-78309e3f00e1
-  name: The Heavy Hitters
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ff0ee1d1-eb58-4cac-934f-bd2799176b7c
-  name: Something Else!
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b75bcc41-bea4-4a44-ad7e-86ab9d581b3d
+    name: Gerald Cleaver's Violet Hour
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 99983412-c4d3-4ce0-90f7-e4611e5f706e
+    name: Vincent Herring's The Story of Jazz Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 20f80ec9-a6ab-4760-a059-15b0ec593f33
+    name: WiRED
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: 39111b16-e4d6-40ed-acf8-37cd4311ce2d
+    name: Jimmy Cobb’s So What Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b486b900-a987-45e1-9e5f-78309e3f00e1
+    name: The Heavy Hitters
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ff0ee1d1-eb58-4cac-934f-bd2799176b7c
+    name: Something Else!
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jeremy_pelt.jpg
   caption: Jeremy Pelt
@@ -63,69 +63,70 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mingus Big Band
-  - Roy Hargrove Big Band
-  - Village Vanguard Orchestra
-  - Duke Ellington Big Band
-  - Lewis Nash Septet
-  - Louis Hayes’ Cannonball Adderley Legacy Band
-  - Cassandra Wilson
-  - Jimmy Heath
-  - Ravi Coltrane
-  - Greg Osby
-  - Lonnie Plaxico
-  - Gerald Cleaver
-  - Jim Snidero
+    - Mingus Big Band
+    - Roy Hargrove Big Band
+    - Village Vanguard Orchestra
+    - Duke Ellington Big Band
+    - Lewis Nash Septet
+    - Louis Hayes’ Cannonball Adderley Legacy Band
+    - Cassandra Wilson
+    - Jimmy Heath
+    - Ravi Coltrane
+    - Greg Osby
+    - Lonnie Plaxico
+    - Gerald Cleaver
+    - Jim Snidero
   influenced:
-  - ''
+    - ''
   mentors:
-  - Freddie Hubbard
-  - Booker Little
-  - Chet Baker
-  - Wayne Shorter
+    - Freddie Hubbard
+    - Booker Little
+    - Chet Baker
+    - Wayne Shorter
 spotify_data:
   followers: 13074
   id: 0ie9W9nN4iPymAkS9WW8nX
   popularity: 46
-  url: https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX
+  url: 'https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX'
 discography_enriched: true
 top_tracks:
-- Fair Weather
-- Little Girl Blue (The Art of Intimacy, Vol. 1)
-- 'There''ll Be Other Times (The Art of Intimacy, Vol. 2: His Muse)'
-- Slow Hot Wind
-- I Can't Escape from You
-- I Love Music
-- Afrofuturism (Woven)
-- Fair Weather (Woven)
-- 'Prologue: Invention #1 (Woven)'
-- 13/14 (Woven)
+  - Fair Weather
+  - 'Little Girl Blue (The Art of Intimacy, Vol. 1)'
+  - 'There''ll Be Other Times (The Art of Intimacy, Vol. 2: His Muse)'
+  - Slow Hot Wind
+  - I Can't Escape from You
+  - I Love Music
+  - Afrofuturism (Woven)
+  - Fair Weather (Woven)
+  - 'Prologue: Invention #1 (Woven)'
+  - 13/14 (Woven)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ccac0a71-2cf6-4f09-914a-9c29d5d23726
-  spotify: https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX
-  wikipedia: https://en.wikipedia.org/wiki/Jeremy_Pelt
+  musicbrainz: 'https://musicbrainz.org/artist/ccac0a71-2cf6-4f09-914a-9c29d5d23726'
+  spotify: 'https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jeremy_Pelt'
 image_path: 03_Resources/source_material/ArtistPortraits/jeremy_pelt.jpg
 biography_enhanced_at: '2025-12-13T10:49:10.533246'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jeremy_Pelt
-- https://jeremypelt.net/biography.html
-- https://www.allaboutjazz.com/musicians/jeremy-pelt
-- https://www.jazzempowers.org/new-page-6
-- https://jazztimes.com/archives/jeremy-pelt-profile/
-- https://www.freshsoundrecords.com/11110-jeremy-pelt-albums
-- https://www.jazz24.org/2023/04/jeremy-pelt-the-art-of-intimacy-vol-2-his-muse/
-- https://vtjazz.org/calendar/jeremy-pelt/
+  - 'https://en.wikipedia.org/wiki/Jeremy_Pelt'
+  - 'https://jeremypelt.net/biography.html'
+  - 'https://www.allaboutjazz.com/musicians/jeremy-pelt'
+  - 'https://www.jazzempowers.org/new-page-6'
+  - 'https://jazztimes.com/archives/jeremy-pelt-profile/'
+  - 'https://www.freshsoundrecords.com/11110-jeremy-pelt-albums'
+  - >-
+    https://www.jazz24.org/2023/04/jeremy-pelt-the-art-of-intimacy-vol-2-his-muse/
+  - 'https://vtjazz.org/calendar/jeremy-pelt/'
 network_extracted: true
 entry_created: '2025-12-13T10:49:10.533255'
 last_updated: '2025-12-23T08:16:10.340268'
 gender: Male
 musicbrainz_id: ccac0a71-2cf6-4f09-914a-9c29d5d23726
 tags:
-- contemporary jazz
-- jazz
-- jazz fusion
+  - contemporary jazz
+  - jazz
+  - jazz fusion
 ---
 
 ![](jeremy_pelt.jpg)

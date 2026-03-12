@@ -2,10 +2,10 @@
 title: Sunbear
 wiki_slug: sunbear
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 genres:
-- jazz funk
+  - jazz funk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sunbear.jpg
   caption: Sunbear
@@ -25,54 +25,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Don Cornelius
-  - Dick Griffey
-  - Greg Phillinganes
-  - John Parrish
-  - Carrie Lucas
-  - Walter Scott
+    - Don Cornelius
+    - Dick Griffey
+    - Greg Phillinganes
+    - John Parrish
+    - Carrie Lucas
+    - Walter Scott
   influenced:
-  - The Whispers
+    - The Whispers
   mentors:
-  - Earth, Wind & Fire
-  - Tower of Power
-  - El Chicano
+    - 'Earth, Wind & Fire'
+    - Tower of Power
+    - El Chicano
 spotify_data:
   followers: 5675
   id: 6PR1LVsphqrgunxIxhn3c9
   popularity: 31
-  url: https://open.spotify.com/artist/6PR1LVsphqrgunxIxhn3c9
+  url: 'https://open.spotify.com/artist/6PR1LVsphqrgunxIxhn3c9'
 discography_enriched: true
 top_tracks:
-- Let Love Flow for Peace (Sunbear)
-- Mood 1 "L.O.V.E. Love" (Sunbear)
-- Erika (Sunbear)
-- Rhythm of Our Souls (Sunbear)
-- I Heard the Voice of Music Say (Sunbear)
-- Fantasy (Sunbear)
-- So Long (Sunbear)
-- Mood 2 "Love At First Sight" (Sunbear)
-- Mood 3 "Oliver" (Sunbear)
-- Erika - Extended Mix (Sunbear)
+  - Let Love Flow for Peace (Sunbear)
+  - Mood 1 "L.O.V.E. Love" (Sunbear)
+  - Erika (Sunbear)
+  - Rhythm of Our Souls (Sunbear)
+  - I Heard the Voice of Music Say (Sunbear)
+  - Fantasy (Sunbear)
+  - So Long (Sunbear)
+  - Mood 2 "Love At First Sight" (Sunbear)
+  - Mood 3 "Oliver" (Sunbear)
+  - Erika - Extended Mix (Sunbear)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8abe9518-c373-43a3-922f-0db4827da291
-  spotify: https://open.spotify.com/artist/6PR1LVsphqrgunxIxhn3c9
+  musicbrainz: 'https://musicbrainz.org/artist/8abe9518-c373-43a3-922f-0db4827da291'
+  spotify: 'https://open.spotify.com/artist/6PR1LVsphqrgunxIxhn3c9'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/sunbear.jpg
 biography_enhanced_at: '2025-10-29T16:40:30.614535'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.sessiondays.com/2019/02/1977-sunbear-sunbear/
-- https://en.wikipedia.org/wiki/SOLAR_Records
-- https://www.last.fm/music/Sunbear/+wiki
-- https://www.allmusic.com/artist/sunbear-mn0001195785
+  - 'https://www.sessiondays.com/2019/02/1977-sunbear-sunbear/'
+  - 'https://en.wikipedia.org/wiki/SOLAR_Records'
+  - 'https://www.last.fm/music/Sunbear/+wiki'
+  - 'https://www.allmusic.com/artist/sunbear-mn0001195785'
 network_extracted: true
 entry_created: '2025-10-29T16:40:30.614551'
 last_updated: '2025-12-23T08:16:16.229187'
 disambiguation: Jazz/Funk/Soul
 musicbrainz_id: 8abe9518-c373-43a3-922f-0db4827da291
-origin: Los Angeles, California, United States
+origin: 'Los Angeles, California, United States'
 ---
 
 ![](sunbear.jpg)

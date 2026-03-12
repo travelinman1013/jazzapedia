@@ -4,12 +4,13 @@ wiki_slug: nightmares-on-wax-sadie-walker
 schema_version: 2
 status: active
 genres:
-- trip hop
-- downtempo
-- acid jazz
-- nu jazz
+  - trip hop
+  - downtempo
+  - acid jazz
+  - nu jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/Nightmares_ON_Wax_and_Sadie_Walker.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/Nightmares_ON_Wax_and_Sadie_Walker.jpg
   caption: Nightmares ON Wax & Sadie Walker
   background: solo_singer
 audio_profile:
@@ -27,51 +28,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sadie Walker
-  - Yasiin Bey
-  - Greentea Peng
-  - Liam Bailey
-  - Channel Tres
-  - Honey Dijon
+    - Sadie Walker
+    - Yasiin Bey
+    - Greentea Peng
+    - Liam Bailey
+    - Channel Tres
+    - Honey Dijon
   influenced:
-  - Greentea Peng
+    - Greentea Peng
   mentors:
-  - Erykah Badu
-  - Nina Simone
-  - Lauryn Hill
+    - Erykah Badu
+    - Nina Simone
+    - Lauryn Hill
 spotify_data:
   followers: 517660
   id: 4tNxq9NGKTKaX8OkZBLgf0
   popularity: 55
-  url: https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0
+  url: 'https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0'
 discography_enriched: true
 top_tracks:
-- You Wish (In A Space Outta Sound)
-- Flip Ya Lid (In A Space Outta Sound)
-- Les Nuits (Carboot Soul)
-- Typical (Shape The Future)
-- Da Feelin (Thought So…)
-- Morse (Carboot Soul)
-- Imagineering (Shout Out! To Freedom...)
-- Nights Introlude (Smokers Delight)
-- 30 Groove St.
-- Waiting A Minute
+  - You Wish (In A Space Outta Sound)
+  - Flip Ya Lid (In A Space Outta Sound)
+  - Les Nuits (Carboot Soul)
+  - Typical (Shape The Future)
+  - Da Feelin (Thought So…)
+  - Morse (Carboot Soul)
+  - Imagineering (Shout Out! To Freedom...)
+  - Nights Introlude (Smokers Delight)
+  - 30 Groove St.
+  - Waiting A Minute
 external_urls:
-  spotify: https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0
-  wikipedia: https://en.wikipedia.org/wiki/Nightmares_on_Wax
-image_path: 03_Resources/source_material/ArtistPortraits/Nightmares_ON_Wax_and_Sadie_Walker.jpg
+  spotify: 'https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0'
+  wikipedia: 'https://en.wikipedia.org/wiki/Nightmares_on_Wax'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/Nightmares_ON_Wax_and_Sadie_Walker.jpg
 biography_enhanced_at: '2025-10-20T09:36:58.409032'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.saladdaysmag.com/nightmares-on-wax-true-ft-sadie-walker/
-- https://warp.net/artists/nightmares-on-wax
-- https://www.wordplaymagazine.com/blog-1/2025/10/9/6rmsu7l6iezynwf2mrab3nef2hjz3r
-- https://www.frontview-magazine.be/en/news/nightmares-on-wax-releases-second-single-from-echo45-sound-system-mixtape-true-feat-sadie
-- https://www.vice.com/en/article/moodymann-nightmares-on-wax-deep-shadows-remix-stream/
+  - 'https://www.saladdaysmag.com/nightmares-on-wax-true-ft-sadie-walker/'
+  - 'https://warp.net/artists/nightmares-on-wax'
+  - >-
+    https://www.wordplaymagazine.com/blog-1/2025/10/9/6rmsu7l6iezynwf2mrab3nef2hjz3r
+  - >-
+    https://www.frontview-magazine.be/en/news/nightmares-on-wax-releases-second-single-from-echo45-sound-system-mixtape-true-feat-sadie
+  - >-
+    https://www.vice.com/en/article/moodymann-nightmares-on-wax-deep-shadows-remix-stream/
 network_extracted: true
 entry_created: '2025-10-20T09:36:58.409046'
 last_updated: '2025-12-23T08:16:03.458904'
+birth_place: 'Leeds, England, United Kingdom'
+origin: 'Leeds, England, United Kingdom'
+artist_type: band
 ---
 
 ![](Nightmares_ON_Wax_and_Sadie_Walker.jpg)

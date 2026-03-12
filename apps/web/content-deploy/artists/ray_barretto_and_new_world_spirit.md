@@ -1,64 +1,67 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-04T01:54:19.316346'
 enhancement_provider: perplexity
 entry_created: '2026-01-04T01:54:19.316350'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/690b2581-f190-4c33-bd9d-f5e697483e0b
-  spotify: https://open.spotify.com/artist/0KGhSjEQSe9g9qpDuN6vUg
-  wikipedia: https://en.wikipedia.org/wiki/Ray_Barretto
+  musicbrainz: 'https://musicbrainz.org/artist/690b2581-f190-4c33-bd9d-f5e697483e0b'
+  spotify: 'https://open.spotify.com/artist/0KGhSjEQSe9g9qpDuN6vUg'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ray_Barretto'
 genres:
-- latin jazz
-image_path: 03_Resources/source_material/ArtistPortraits/ray_barretto_and_new_world_spirit.jpg
+  - latin jazz
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/ray_barretto_and_new_world_spirit.jpg
 instruments:
-- eponymous
+  - eponymous
 last_updated: '2026-01-04T01:54:19.316351'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 169153fd-ba80-401a-8ccd-2825efaf9155
-  name: Ray Barretto
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 567ecfa4-ae0d-41ea-a9b7-e5182c59b64a
-  name: Jairo Moreno
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 169153fd-ba80-401a-8ccd-2825efaf9155
+    name: Ray Barretto
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 567ecfa4-ae0d-41ea-a9b7-e5182c59b64a
+    name: Jairo Moreno
 musical_connections:
   collaborators:
-  - Mongo Santamaria
-  - Adalberto Santiago
-  - Celia Cruz
-  - Herbie Mann
+    - Mongo Santamaria
+    - Adalberto Santiago
+    - Celia Cruz
+    - Herbie Mann
   influenced:
-  - Chris Barretto
-  - Urban Dance Squad
+    - Chris Barretto
+    - Urban Dance Squad
   mentors:
-  - Dizzy Gillespie
-  - Chano Pozo
-  - Tito Puente
+    - Dizzy Gillespie
+    - Chano Pozo
+    - Tito Puente
 musicbrainz_id: 690b2581-f190-4c33-bd9d-f5e697483e0b
 network_extracted: true
-origin: Brooklyn, New York, USA
+origin: 'Brooklyn, New York, USA'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Ray_Barretto
-- https://www.bluenote.com/artist/ray-barretto/
-- https://latinjazznet.com/reviews/albums/essentials/when-ray-barretto-took-the-road-less-traveled/
-- https://downbeat.com/news/detail/ray-barretto-dies
-- https://www.ebsco.com/research-starters/biography/ray-barretto
-- https://fania.com/record/ray-barretto-a-man-and-his-music-que-viva-la-musica/
-- https://concord.com/artist/ray-barretto/
-- https://jazztimes.com/archives/ray-barretto-hard-hands/
+  - 'https://en.wikipedia.org/wiki/Ray_Barretto'
+  - 'https://www.bluenote.com/artist/ray-barretto/'
+  - >-
+    https://latinjazznet.com/reviews/albums/essentials/when-ray-barretto-took-the-road-less-traveled/
+  - 'https://downbeat.com/news/detail/ray-barretto-dies'
+  - 'https://www.ebsco.com/research-starters/biography/ray-barretto'
+  - >-
+    https://fania.com/record/ray-barretto-a-man-and-his-music-que-viva-la-musica/
+  - 'https://concord.com/artist/ray-barretto/'
+  - 'https://jazztimes.com/archives/ray-barretto-hard-hands/'
 spotify_data:
   followers: 2990
   id: 0KGhSjEQSe9g9qpDuN6vUg
   popularity: 8
-  url: https://open.spotify.com/artist/0KGhSjEQSe9g9qpDuN6vUg
+  url: 'https://open.spotify.com/artist/0KGhSjEQSe9g9qpDuN6vUg'
 status: active
 title: Ray Barretto & New World Spirit
-
+birth_place: 'Brooklyn, New York, United States'
 ---
 
 ![](ray_barretto_and_new_world_spirit.jpg)

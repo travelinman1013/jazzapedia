@@ -2,11 +2,11 @@
 title: Tribo de Jah
 wiki_slug: tribo-de-jah
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- reggae
-- roots reggae
+  - reggae
+  - roots reggae
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/tribo_de_jah.jpg
   caption: Tribo de Jah
@@ -26,50 +26,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Fauzi Beydoun
-  - Four blind founding musicians of the Maranhão School for the Blind (collective)
+    - Fauzi Beydoun
+    - >-
+      Four blind founding musicians of the Maranhão School for the Blind
+      (collective)
   influenced:
-  - Brazilian reggae scene in São Luís and broader Brazil (collective)
+    - Brazilian reggae scene in São Luís and broader Brazil (collective)
   mentors:
-  - Jamaican roots reggae and Rastafarian artists (collective influence)
+    - Jamaican roots reggae and Rastafarian artists (collective influence)
 spotify_data:
   followers: 647953
   id: 6oAqyhJILwJf9S3Of2zTuv
   popularity: 47
-  url: https://open.spotify.com/artist/6oAqyhJILwJf9S3Of2zTuv
+  url: 'https://open.spotify.com/artist/6oAqyhJILwJf9S3Of2zTuv'
 discography_enriched: true
 top_tracks:
-- Uma onda que passou (E eu não dropei) - Ao vivo (15 Anos (Ao vivo))
-- Ruínas da Babilônia (Ruínas da Babilônia)
-- Regueiros Guerreiros (Roots Reggae)
-- Não basta ser rasta - Ao vivo (15 Anos (Ao vivo))
-- Azul da cor do mar - Ao vivo (2000 anos (Ao vivo))
-- Bora Chamegar
-- Morena Raiz (The Babylon Inside)
-- Breve sopro no ar (Ruínas da Babilônia)
-- Tudo nos É Dado, Só nos Falta a Fé - Ao Vivo (Tribo de Jah no Estúdio Showlivre (Ao Vivo))
-- Até Que o Bem Triunfe no Final (Até Que o Bem Triunfe no Final)
+  - Uma onda que passou (E eu não dropei) - Ao vivo (15 Anos (Ao vivo))
+  - Ruínas da Babilônia (Ruínas da Babilônia)
+  - Regueiros Guerreiros (Roots Reggae)
+  - Não basta ser rasta - Ao vivo (15 Anos (Ao vivo))
+  - Azul da cor do mar - Ao vivo (2000 anos (Ao vivo))
+  - Bora Chamegar
+  - Morena Raiz (The Babylon Inside)
+  - Breve sopro no ar (Ruínas da Babilônia)
+  - >-
+    Tudo nos É Dado, Só nos Falta a Fé - Ao Vivo (Tribo de Jah no Estúdio
+    Showlivre (Ao Vivo))
+  - Até Que o Bem Triunfe no Final (Até Que o Bem Triunfe no Final)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5f9bdf7a-933e-4059-a955-467f465e60a6
-  spotify: https://open.spotify.com/artist/6oAqyhJILwJf9S3Of2zTuv
+  musicbrainz: 'https://musicbrainz.org/artist/5f9bdf7a-933e-4059-a955-467f465e60a6'
+  spotify: 'https://open.spotify.com/artist/6oAqyhJILwJf9S3Of2zTuv'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/tribo_de_jah.jpg
 biography_enhanced_at: '2025-12-07T04:48:28.493349'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Reggaeville – Tribo de Jah biography/profile
-- AllMusic – Tribo de Jah artist biography
-- Music Gateway – Tribo de Jah profile
-- YouTube – Tribo de Jah (Topic) channel about section
-- Viberate – Tribo de Jah artist profile
-- RingosTrack – Tribo de Jah artist description
-- RecentMusic – Tribo de Jah overview
+  - Reggaeville – Tribo de Jah biography/profile
+  - AllMusic – Tribo de Jah artist biography
+  - Music Gateway – Tribo de Jah profile
+  - YouTube – Tribo de Jah (Topic) channel about section
+  - Viberate – Tribo de Jah artist profile
+  - RingosTrack – Tribo de Jah artist description
+  - RecentMusic – Tribo de Jah overview
 network_extracted: true
 entry_created: '2025-12-07T04:48:28.493381'
 last_updated: '2025-12-23T08:16:17.706183'
 musicbrainz_id: 5f9bdf7a-933e-4059-a955-467f465e60a6
-origin: São Luís, Maranhão, Brazil
+origin: 'São Luís, Maranhão, Brazil'
 ---
 
 ![](tribo_de_jah.jpg)

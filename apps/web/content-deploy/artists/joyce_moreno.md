@@ -1,51 +1,58 @@
 ---
 biography_enhanced_at: '2026-01-11T02:18:25.801560'
-birth_place: Rio de Janeiro, Rio de Janeiro, Brazil
+birth_place: 'Rio de Janeiro, Rio de Janeiro, Brazil'
 enhancement_provider: perplexity
 entry_created: '2026-01-11T02:18:25.801565'
 external_urls:
-  spotify: https://open.spotify.com/artist/5644bJMU3NkJN0edhyHV3v
-  wikipedia: https://en.wikipedia.org/wiki/Joyce_Moreno
+  spotify: 'https://open.spotify.com/artist/5644bJMU3NkJN0edhyHV3v'
+  wikipedia: 'https://en.wikipedia.org/wiki/Joyce_Moreno'
 genres:
-- bossa nova
-- brazilian jazz
-- mpb
+  - bossa nova
+  - brazilian jazz
+  - mpb
 image_path: 03_Resources/source_material/ArtistPortraits/joyce_moreno.jpg
 last_updated: '2026-01-11T02:18:25.801566'
 musical_connections:
   collaborators:
-  - Nelson Angelo
-  - Maurício Maestro
-  - Naná Vasconcelos
-  - João Donato
-  - Claus Ogerman, Michael Brecker, Buster Williams, Joe Farrell
-  - Edu Lobo
+    - Nelson Angelo
+    - Maurício Maestro
+    - Naná Vasconcelos
+    - João Donato
+    - 'Claus Ogerman, Michael Brecker, Buster Williams, Joe Farrell'
+    - Edu Lobo
   influenced:
-  - Younger Brazilian singer-songwriters, especially women in MPB and bossa nova
+    - >-
+      Younger Brazilian singer-songwriters, especially women in MPB and bossa
+      nova
   mentors:
-  - Roberto Menescal
-  - Luiz Eça
-  - Bossa nova pioneers (Tom Jobim, Vinicius de Moraes, Baden Powell, Carlos Lyra,
-    Marcos Valle)
+    - Roberto Menescal
+    - Luiz Eça
+    - >-
+      Bossa nova pioneers (Tom Jobim, Vinicius de Moraes, Baden Powell, Carlos
+      Lyra, Marcos Valle)
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.joycemoreno.com/en/joyce-moreno-%E2%80%93-biography.html
-- https://brazilbeatblog.wordpress.com/2022/10/25/joyce-moreno/
-- https://artsfuse.org/138729/fuse-music-feature-joyce-moreno-at-berklee/
-- https://wbssmedia.com/artists/detail/4083
-- https://college.berklee.edu/news/brazilian-music-icon-joyce-moreno-performs-berklee
-- https://www.faroutrecordings.com/artist/393695-joyce-moreno?lang=hu
-- https://nyfos.org/joyce-moreno/
-- https://www.jango.com/music/Joyce+Moreno/_full_bio,_Songs,_Videos
-- https://londonjazznews.com/2011/03/25/review-joyce-moreno/
+  - 'https://www.joycemoreno.com/en/joyce-moreno-%E2%80%93-biography.html'
+  - 'https://brazilbeatblog.wordpress.com/2022/10/25/joyce-moreno/'
+  - 'https://artsfuse.org/138729/fuse-music-feature-joyce-moreno-at-berklee/'
+  - 'https://wbssmedia.com/artists/detail/4083'
+  - >-
+    https://college.berklee.edu/news/brazilian-music-icon-joyce-moreno-performs-berklee
+  - 'https://www.faroutrecordings.com/artist/393695-joyce-moreno?lang=hu'
+  - 'https://nyfos.org/joyce-moreno/'
+  - 'https://www.jango.com/music/Joyce+Moreno/_full_bio,_Songs,_Videos'
+  - 'https://londonjazznews.com/2011/03/25/review-joyce-moreno/'
 spotify_data:
   followers: 56200
   id: 5644bJMU3NkJN0edhyHV3v
   popularity: 39
-  url: https://open.spotify.com/artist/5644bJMU3NkJN0edhyHV3v
+  url: 'https://open.spotify.com/artist/5644bJMU3NkJN0edhyHV3v'
 status: active
 title: Joyce Moreno
+origin: 'Rio de Janeiro, Rio de Janeiro, Brazil'
+birth_date: '1948-01-31'
+artist_type: person
 ---
 
 ![](joyce_moreno.jpg)

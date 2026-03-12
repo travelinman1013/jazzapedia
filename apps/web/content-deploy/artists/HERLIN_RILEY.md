@@ -5,11 +5,11 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1957-02-15'
-birth_place: New Orleans
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- jazz
+  - jazz
 instruments:
-- drums (drum set)
+  - drums (drum set)
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Herlin_Riley.jpg
   caption: Herlin Riley
@@ -31,55 +31,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ahmad Jamal
-  - Wynton Marsalis
-  - George Benson
-  - Harry Connick Jr.
-  - Dr. John
+    - Ahmad Jamal
+    - Wynton Marsalis
+    - George Benson
+    - Harry Connick Jr.
+    - Dr. John
   influenced:
-  - Students at Northwestern University
+    - Students at Northwestern University
   mentors:
-  - Ahmad Jamal
-  - Wynton Marsalis
+    - Ahmad Jamal
+    - Wynton Marsalis
 spotify_data:
   followers: 4271
   id: 5FuXrmOgtBTlGDUP1O41Ir
   popularity: 24
-  url: https://open.spotify.com/artist/5FuXrmOgtBTlGDUP1O41Ir
+  url: 'https://open.spotify.com/artist/5FuXrmOgtBTlGDUP1O41Ir'
 discography_enriched: true
 top_tracks:
-- 'The End Of A Love Affair (Standard Time Vol. 2: Intimacy Calling)'
-- Owl Song 1 (feat. Bill Frisell & Herlin Riley) (Owl Song)
-- The End Of A Love Affair (Intimacy Calling - Standard Time Vol. 2)
-- Weighted Corners (feat. Bill Frisell & Herlin Riley) (Owl Song)
-- Stella By Starlight (Perpetual Optimism)
-- Old Time Rock & Roll (Basie Rocks!)
-- Prelude in e Minor (New York Trio - Page 3)
-- Flux Fuelings (feat. Bill Frisell & Herlin Riley) (Owl Song)
-- Owl Song 2 (feat. Bill Frisell & Herlin Riley) (Owl Song)
-- I've got my love to keep me warm (New York Trio - Page 3)
+  - 'The End Of A Love Affair (Standard Time Vol. 2: Intimacy Calling)'
+  - Owl Song 1 (feat. Bill Frisell & Herlin Riley) (Owl Song)
+  - The End Of A Love Affair (Intimacy Calling - Standard Time Vol. 2)
+  - Weighted Corners (feat. Bill Frisell & Herlin Riley) (Owl Song)
+  - Stella By Starlight (Perpetual Optimism)
+  - Old Time Rock & Roll (Basie Rocks!)
+  - Prelude in e Minor (New York Trio - Page 3)
+  - Flux Fuelings (feat. Bill Frisell & Herlin Riley) (Owl Song)
+  - Owl Song 2 (feat. Bill Frisell & Herlin Riley) (Owl Song)
+  - I've got my love to keep me warm (New York Trio - Page 3)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a7328177-fe23-466c-9bb3-c7cea876f233
-  spotify: https://open.spotify.com/artist/5FuXrmOgtBTlGDUP1O41Ir
+  musicbrainz: 'https://musicbrainz.org/artist/a7328177-fe23-466c-9bb3-c7cea876f233'
+  spotify: 'https://open.spotify.com/artist/5FuXrmOgtBTlGDUP1O41Ir'
   wikipedia: Not available
 image_path: 03_Resources/source_material/ArtistPortraits/Herlin_Riley.jpg
 biography_enhanced_at: '2025-10-22T07:05:21.727839'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Modern Drummer Magazine
-- Zildjian.com
-- WBSS Media
-- NAMM.org
-- Drummerworld.com
+  - Modern Drummer Magazine
+  - Zildjian.com
+  - WBSS Media
+  - NAMM.org
+  - Drummerworld.com
 network_extracted: true
 entry_created: '2025-10-22T07:05:21.727857'
 last_updated: '2025-12-23T08:16:02.195103'
 gender: Male
 musicbrainz_id: a7328177-fe23-466c-9bb3-c7cea876f233
 tags:
-- jazz
-- post-bop
+  - jazz
+  - post-bop
 ---
 
 ![](Herlin_Riley.jpg)

@@ -2,18 +2,18 @@
 title: Shawn Camp
 wiki_slug: shawn-camp
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1966-08-29'
-birth_place: Perry County, Arkansas, United States
+birth_place: 'Perry County, Arkansas, United States'
 genres:
-- gothic country
+  - gothic country
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Shawn_Camp.jpg
   caption: Shawn Camp
   background: solo_singer
   born: '1966-08-29'
-  origin: Perry County, Arkansas, United States
+  origin: 'Perry County, Arkansas, United States'
 audio_profile:
   tempo_avg: 115.1
   energy_avg: 0.478
@@ -29,62 +29,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jerry Douglas
-  - Jeff White
-  - Charlie Cushman
-  - Johnny Warren
-  - Daniel Kimbro
-  - Verlon Thompson
-  - Tamara Saviano
-  - Willie Nelson
-  - John Prine
-  - Loretta Lynn
+    - Jerry Douglas
+    - Jeff White
+    - Charlie Cushman
+    - Johnny Warren
+    - Daniel Kimbro
+    - Verlon Thompson
+    - Tamara Saviano
+    - Willie Nelson
+    - John Prine
+    - Loretta Lynn
   influenced: []
   mentors:
-  - Sis Draper
-  - Guy Clark
+    - Sis Draper
+    - Guy Clark
 spotify_data:
   followers: 319158
   id: 2HPYUQ6GsPbZHvkyYe2jdm
   popularity: 49
-  url: https://open.spotify.com/artist/2HPYUQ6GsPbZHvkyYe2jdm
+  url: 'https://open.spotify.com/artist/2HPYUQ6GsPbZHvkyYe2jdm'
 discography_enriched: true
 top_tracks:
-- Through the Valley (Shadows)
-- Ain't No Sunshine
-- Flow (Shadows)
-- Burn the Witch (The Dark & The Light)
-- The Curse of the Fold (The Dark & The Light)
-- That's Life
-- The Thief and the Moon (Shadows)
-- The Guardian (Ellie's Song) (The Guardian Collection)
-- Orpheus (The Dark & The Light)
-- Through The Valley (The Guardian Collection)
+  - Through the Valley (Shadows)
+  - Ain't No Sunshine
+  - Flow (Shadows)
+  - Burn the Witch (The Dark & The Light)
+  - The Curse of the Fold (The Dark & The Light)
+  - That's Life
+  - The Thief and the Moon (Shadows)
+  - The Guardian (Ellie's Song) (The Guardian Collection)
+  - Orpheus (The Dark & The Light)
+  - Through The Valley (The Guardian Collection)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/41e03cbd-acbf-4d4e-8ed4-218c144de359
-  spotify: https://open.spotify.com/artist/2HPYUQ6GsPbZHvkyYe2jdm
-  wikipedia: https://en.wikipedia.org/wiki/Shawn_Camp_(singer)
+  musicbrainz: 'https://musicbrainz.org/artist/41e03cbd-acbf-4d4e-8ed4-218c144de359'
+  spotify: 'https://open.spotify.com/artist/2HPYUQ6GsPbZHvkyYe2jdm'
+  wikipedia: 'https://en.wikipedia.org/wiki/Shawn_Camp_(singer)'
 image_path: 03_Resources/source_material/ArtistPortraits/Shawn_Camp.jpg
 biography_enhanced_at: '2025-10-20T01:49:57.392459'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Shawn_Camp_(singer)
-- https://encyclopediaofarkansas.net/entries/shawn-camp-8300/
-- https://shawncamp.com/bio
-- https://www.visitstaugustine.com/musician/shawn-camp
-- https://thebluegrasssituation.com/read/shawn-camp-pays-homage-to-a-childhood-hero-on-the-ghost-of-sis-draper/
+  - 'https://en.wikipedia.org/wiki/Shawn_Camp_(singer)'
+  - 'https://encyclopediaofarkansas.net/entries/shawn-camp-8300/'
+  - 'https://shawncamp.com/bio'
+  - 'https://www.visitstaugustine.com/musician/shawn-camp'
+  - >-
+    https://thebluegrasssituation.com/read/shawn-camp-pays-homage-to-a-childhood-hero-on-the-ghost-of-sis-draper/
 network_extracted: true
 entry_created: '2025-10-20T01:49:57.392477'
 last_updated: '2025-12-23T08:16:03.865723'
-disambiguation: American country songwriter, musician and producer
+disambiguation: 'American country songwriter, musician and producer'
 gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:43:17.639029'
 musicbrainz_id: 41e03cbd-acbf-4d4e-8ed4-218c144de359
 tags:
-- country
-- folk
-
+  - country
+  - folk
 ---
 
 ![](Shawn_Camp.jpg)

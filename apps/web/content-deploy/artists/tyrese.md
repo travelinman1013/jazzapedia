@@ -5,36 +5,36 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1978-12-30'
-birth_place: Watts, Los Angeles
+birth_place: 'Watts, Los Angeles, California, United States'
 genres:
-- quiet storm
-- r&b
-- smooth r&b
+  - quiet storm
+  - r&b
+  - smooth r&b
 instruments:
-- background vocals
-- lead vocals
-- spoken vocals
-- vocal
-- other vocals
+  - background vocals
+  - lead vocals
+  - spoken vocals
+  - vocal
+  - other vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2476b735-9609-459c-8593-e8170c65465e
-  name: TGT
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2476b735-9609-459c-8593-e8170c65465e
+    name: TGT
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/tyrese.jpg
   caption: Tyrese
   background: solo_singer
   born: '1978-12-30'
-  origin: Watts, Los Angeles
+  origin: 'Watts, Los Angeles'
 audio_profile:
   tempo_avg: 107.5
   energy_avg: 0.536
   valence_avg: 0.458
   danceability_avg: 0.6
   acousticness_avg: 0.261
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -6.8
   speechiness_avg: 0.092
   liveness_avg: 0.146
@@ -43,50 +43,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Chingy
-  - Ginuwine and Tank (as TGT)
+    - Chingy
+    - Ginuwine and Tank (as TGT)
   influenced:
-  - August Alsina
+    - August Alsina
   mentors:
-  - Reggie Andrews
+    - Reggie Andrews
 spotify_data:
   followers: 2682704
   id: 08p7B5OtcUuVblvkQIlBhJ
   popularity: 56
-  url: https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ
+  url: 'https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ'
 discography_enriched: true
 top_tracks:
-- Pullin' Me Back (Hoodstar (Deluxe Edition))
-- How You Gonna Act Like That (I Wanna Go There)
-- Sweet Lady (Tyrese)
-- Signs of Love Makin' (I Wanna Go There)
-- Lately (Tyrese)
-- What'chu Like (feat. Tyrese) (Unrestricted)
-- What Am I Gonna Do (2000 Watts)
-- The Best Man I Can Be
-- Stay (Open Invitation)
-- Don't Think You Ever Loved Me (feat. Lenny Kravitz, Le'Andria Johnson) (Beautiful Pain)
+  - Pullin' Me Back (Hoodstar (Deluxe Edition))
+  - How You Gonna Act Like That (I Wanna Go There)
+  - Sweet Lady (Tyrese)
+  - Signs of Love Makin' (I Wanna Go There)
+  - Lately (Tyrese)
+  - What'chu Like (feat. Tyrese) (Unrestricted)
+  - What Am I Gonna Do (2000 Watts)
+  - The Best Man I Can Be
+  - Stay (Open Invitation)
+  - >-
+    Don't Think You Ever Loved Me (feat. Lenny Kravitz, Le'Andria Johnson)
+    (Beautiful Pain)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/975d94b4-7ca8-4eec-ae48-1aa4660995d3
-  spotify: https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ
-  wikipedia: https://en.wikipedia.org/wiki/Tyrese_Gibson
+  musicbrainz: 'https://musicbrainz.org/artist/975d94b4-7ca8-4eec-ae48-1aa4660995d3'
+  spotify: 'https://open.spotify.com/artist/08p7B5OtcUuVblvkQIlBhJ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tyrese_Gibson'
 image_path: 03_Resources/source_material/ArtistPortraits/tyrese.jpg
 biography_enhanced_at: '2025-11-12T14:44:54.818740'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Tyrese_Gibson
-- https://www.hellomagazine.com/profiles/20091008650/tyrese/
-- https://www.youtube.com/watch?v=-a0jsyX3e4U
+  - 'https://en.wikipedia.org/wiki/Tyrese_Gibson'
+  - 'https://www.hellomagazine.com/profiles/20091008650/tyrese/'
+  - 'https://www.youtube.com/watch?v=-a0jsyX3e4U'
 network_extracted: true
 entry_created: '2025-11-12T14:44:54.818749'
 last_updated: '2025-12-23T08:16:17.758943'
-disambiguation: Tyrese Darnell Gibson, American singer, songwriter, author, rapper, actor, model, VJ, and screenwriter
+disambiguation: >-
+  Tyrese Darnell Gibson, American singer, songwriter, author, rapper, actor,
+  model, VJ, and screenwriter
 gender: Male
 musicbrainz_id: 975d94b4-7ca8-4eec-ae48-1aa4660995d3
 tags:
-- contemporary r&b
-- rnb
+  - contemporary r&b
+  - rnb
 ---
 
 ![](tyrese.jpg)

@@ -1,17 +1,17 @@
 ---
-title: alice coltrane
+title: Alice Coltrane
 wiki_slug: alice-coltrane
 schema_version: 2
 status: active
-birth_place: Detroit, Michigan, United States
+birth_place: 'Detroit, Michigan, United States'
 genres:
-- free jazz
-- jazz
+  - free jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/alice_coltrane.jpg
   caption: alice coltrane
   background: solo_singer
-  origin: Detroit, Michigan, United States
+  origin: 'Detroit, Michigan, United States'
 audio_profile:
   tempo_avg: 100.5
   energy_avg: 0.356
@@ -27,50 +27,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John Coltrane
-  - Pharoah Sanders
-  - Carlos Santana
-  - Terry Pollard
-  - Terry Gibbs
+    - John Coltrane
+    - Pharoah Sanders
+    - Carlos Santana
+    - Terry Pollard
+    - Terry Gibbs
   influenced:
-  - Ravi Coltrane
-  - Kamasi Washington
-  - Flying Lotus
+    - Ravi Coltrane
+    - Kamasi Washington
+    - Flying Lotus
   mentors:
-  - Bud Powell
+    - Bud Powell
 spotify_data:
   followers: 227054
   id: 0oKYiTD5CdNbrofRvM1dIr
   popularity: 45
-  url: https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr
+  url: 'https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr'
 discography_enriched: true
 top_tracks:
-- Turiya & Ramakrishna (Ptah The El Daoud)
-- Journey In Satchidananda (Journey in Satchidananda)
-- Wisdom Eye (Eternity)
-- Blue Nile (Ptah The El Daoud)
-- Earth (The Elements)
-- Paramahansa Lake (Huntington Ashram Monastery)
-- Stopover Bombay (Journey in Satchidananda)
-- Shiva-Loka (Journey in Satchidananda)
-- Going Home (Lord Of Lords)
-- Something About John Coltrane (Journey in Satchidananda)
+  - Turiya & Ramakrishna (Ptah The El Daoud)
+  - Journey In Satchidananda (Journey in Satchidananda)
+  - Wisdom Eye (Eternity)
+  - Blue Nile (Ptah The El Daoud)
+  - Earth (The Elements)
+  - Paramahansa Lake (Huntington Ashram Monastery)
+  - Stopover Bombay (Journey in Satchidananda)
+  - Shiva-Loka (Journey in Satchidananda)
+  - Going Home (Lord Of Lords)
+  - Something About John Coltrane (Journey in Satchidananda)
 external_urls:
-  spotify: https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr
-  wikipedia: https://en.wikipedia.org/wiki/Alice_Coltrane
+  spotify: 'https://open.spotify.com/artist/0oKYiTD5CdNbrofRvM1dIr'
+  wikipedia: 'https://en.wikipedia.org/wiki/Alice_Coltrane'
 image_path: 03_Resources/source_material/ArtistPortraits/alice_coltrane.jpg
 biography_enhanced_at: '2025-11-26T07:44:32.994748'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Alice_Coltrane
-- https://thecoltranehome.org/alice-coltrane/
-- https://www.alicecoltrane.com/life
-- https://visit.mcachicago.org/events/music-talk-an-oral-history-of-alice-coltrane/
-- https://harvester.lib.uidaho.edu/posts/2024/05/02/alice.html
+  - 'https://en.wikipedia.org/wiki/Alice_Coltrane'
+  - 'https://thecoltranehome.org/alice-coltrane/'
+  - 'https://www.alicecoltrane.com/life'
+  - >-
+    https://visit.mcachicago.org/events/music-talk-an-oral-history-of-alice-coltrane/
+  - 'https://harvester.lib.uidaho.edu/posts/2024/05/02/alice.html'
 network_extracted: true
 entry_created: '2025-11-26T07:44:32.994756'
 last_updated: '2025-12-23T08:16:04.580470'
+artist_type: person
 ---
 
 ![](alice_coltrane.jpg)

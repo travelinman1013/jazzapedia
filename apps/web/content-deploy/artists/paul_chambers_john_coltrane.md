@@ -1,53 +1,59 @@
 ---
 biography_enhanced_at: '2026-01-10T01:15:15.863823'
-birth_place: Pittsburgh, Pennsylvania, United States (Paul Chambers birthplace) /
-  Hamlet, North Carolina, United States (John Coltrane birthplace)
+birth_place: >-
+  Pittsburgh, Pennsylvania, United States (Paul Chambers birthplace) / Hamlet,
+  North Carolina, United States (John Coltrane birthplace)
 enhancement_provider: perplexity
 entry_created: '2026-01-10T01:15:15.863830'
 external_urls:
-  spotify: https://open.spotify.com/artist/42ckVhl96fQSAXsR2Gm1My
-  wikipedia: https://en.wikipedia.org/wiki/Paul_Chambers
+  spotify: 'https://open.spotify.com/artist/42ckVhl96fQSAXsR2Gm1My'
+  wikipedia: 'https://en.wikipedia.org/wiki/Paul_Chambers'
 genres:
-- hard bop
-- jazz
-- bebop
+  - hard bop
+  - jazz
+  - bebop
 image_path: 03_Resources/source_material/ArtistPortraits/paul_chambers_john_coltrane.jpg
 last_updated: '2026-01-10T01:15:15.863830'
 musical_connections:
   collaborators:
-  - Miles Davis
-  - Red Garland
-  - Philly Joe Jones
-  - Wynton Kelly
-  - Jimmy Cobb
-  - McCoy Tyner
+    - Miles Davis
+    - Red Garland
+    - Philly Joe Jones
+    - Wynton Kelly
+    - Jimmy Cobb
+    - McCoy Tyner
   influenced:
-  - Ron Carter
-  - Wes Montgomery
-  - Archie Shepp
+    - Ron Carter
+    - Wes Montgomery
+    - Archie Shepp
   mentors:
-  - Miles Davis
-  - Dizzy Gillespie
-  - Earl Bostic
-  - J. J. Johnson
+    - Miles Davis
+    - Dizzy Gillespie
+    - Earl Bostic
+    - J. J. Johnson
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Paul_Chambers
-- https://en.wikipedia.org/wiki/John_Coltrane
-- http://www.columbia.edu/itc/music/popular/washburne/v2016/client_edit/coltranebio.html
-- https://coltranejazzfest.com/about-us/john-coltrane-bio/
-- https://newyorkjazzworkshop.com/celebrating-the-brilliance-of-bassist-paul-chambers/
-- https://www.bluenote.com/artist/paul-chambers/
-- https://mgleatherwork.com/blogs/news/paul-chambers-musical-career
-- https://jazzprofiles.blogspot.com/2018/11/mr-p-c-life-and-music-of-paul-chambers.html
+  - 'https://en.wikipedia.org/wiki/Paul_Chambers'
+  - 'https://en.wikipedia.org/wiki/John_Coltrane'
+  - >-
+    http://www.columbia.edu/itc/music/popular/washburne/v2016/client_edit/coltranebio.html
+  - 'https://coltranejazzfest.com/about-us/john-coltrane-bio/'
+  - >-
+    https://newyorkjazzworkshop.com/celebrating-the-brilliance-of-bassist-paul-chambers/
+  - 'https://www.bluenote.com/artist/paul-chambers/'
+  - 'https://mgleatherwork.com/blogs/news/paul-chambers-musical-career'
+  - >-
+    https://jazzprofiles.blogspot.com/2018/11/mr-p-c-life-and-music-of-paul-chambers.html
 spotify_data:
   followers: 9573
   id: 42ckVhl96fQSAXsR2Gm1My
   popularity: 26
-  url: https://open.spotify.com/artist/42ckVhl96fQSAXsR2Gm1My
+  url: 'https://open.spotify.com/artist/42ckVhl96fQSAXsR2Gm1My'
 status: active
 title: Paul Chambers John Coltrane
+birth_date: '1935-04-22'
+artist_type: person
 ---
 
 ![](paul_chambers_john_coltrane.jpg)

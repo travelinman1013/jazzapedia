@@ -2,13 +2,13 @@
 title: Treme Brass Band
 wiki_slug: treme-brass-band
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 instruments:
-- original
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Treme_Brass_Band.jpg
   caption: Treme Brass Band
@@ -28,56 +28,65 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lionel 'Uncle Lionel' Batiste
-  - Kermit Ruffins
-  - James Andrews
-  - Corey Henry
-  - Kirk Joseph
+    - Lionel 'Uncle Lionel' Batiste
+    - Kermit Ruffins
+    - James Andrews
+    - Corey Henry
+    - Kirk Joseph
   influenced:
-  - Rebirth Brass Band
-  - New Birth Brass Band
-  - Little Rascal Brass Band
+    - Rebirth Brass Band
+    - New Birth Brass Band
+    - Little Rascal Brass Band
   mentors:
-  - Chester Jones
+    - Chester Jones
 spotify_data:
   followers: 11247
   id: 5pEJ9A7P9xSUsiiWabAhmr
   popularity: 13
-  url: https://open.spotify.com/artist/5pEJ9A7P9xSUsiiWabAhmr
+  url: 'https://open.spotify.com/artist/5pEJ9A7P9xSUsiiWabAhmr'
 discography_enriched: true
 top_tracks:
-- 'Just A Closer Walk With Thee (Treme: Music From The HBO Original Series, Season 1)'
-- 'The Sheik of Araby (New Orleans Brass Bands: Through the Streets of the City)'
-- 'Grazing in the Grass (New Orleans Brass Bands: Through the Streets of the City)'
-- Grazing in the Grass (The Treme Brass Band)
-- Tuba Fats (The Treme Brass Band)
-- You Are My Sunshine (The Treme Brass Band)
-- 'We Shall Walk Through the Streets of the City (New Orleans Brass Bands: Through the Streets of the City)'
-- I'll Fly Away (The Treme Brass Band)
-- Saints / Mama Don't Allow (I Got a Big Fat Woman)
-- 'Amazing Grace (New Orleans Brass Bands: Through the Streets of the City)'
+  - >-
+    Just A Closer Walk With Thee (Treme: Music From The HBO Original Series,
+    Season 1)
+  - >-
+    The Sheik of Araby (New Orleans Brass Bands: Through the Streets of the
+    City)
+  - >-
+    Grazing in the Grass (New Orleans Brass Bands: Through the Streets of the
+    City)
+  - Grazing in the Grass (The Treme Brass Band)
+  - Tuba Fats (The Treme Brass Band)
+  - You Are My Sunshine (The Treme Brass Band)
+  - >-
+    We Shall Walk Through the Streets of the City (New Orleans Brass Bands:
+    Through the Streets of the City)
+  - I'll Fly Away (The Treme Brass Band)
+  - Saints / Mama Don't Allow (I Got a Big Fat Woman)
+  - 'Amazing Grace (New Orleans Brass Bands: Through the Streets of the City)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8f48d1d6-acfb-4529-b667-a7c6b9da92a0
-  spotify: https://open.spotify.com/artist/5pEJ9A7P9xSUsiiWabAhmr
-  wikipedia: https://en.wikipedia.org/wiki/Treme_Brass_Band
+  musicbrainz: 'https://musicbrainz.org/artist/8f48d1d6-acfb-4529-b667-a7c6b9da92a0'
+  spotify: 'https://open.spotify.com/artist/5pEJ9A7P9xSUsiiWabAhmr'
+  wikipedia: 'https://en.wikipedia.org/wiki/Treme_Brass_Band'
 image_path: 03_Resources/source_material/ArtistPortraits/Treme_Brass_Band.jpg
 biography_enhanced_at: '2025-10-22T07:03:46.825879'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Treme_Brass_Band
-- https://mattsakakeeny.com/roll-with-it/brass-bands/treme/
-- https://www.arts.gov/honors/heritage/treme-brass-band
-- https://64parishes.org/entry/treme-brass-band
-- https://www.richmondfolkfestival.org/2024-performers/2024/7/29/trem-brass-band
-- https://www.neworleans.com/listing/treme-brass-band/46568/
+  - 'https://en.wikipedia.org/wiki/Treme_Brass_Band'
+  - 'https://mattsakakeeny.com/roll-with-it/brass-bands/treme/'
+  - 'https://www.arts.gov/honors/heritage/treme-brass-band'
+  - 'https://64parishes.org/entry/treme-brass-band'
+  - >-
+    https://www.richmondfolkfestival.org/2024-performers/2024/7/29/trem-brass-band
+  - 'https://www.neworleans.com/listing/treme-brass-band/46568/'
 network_extracted: true
 entry_created: '2025-10-22T07:03:46.825890'
 last_updated: '2025-12-23T08:16:04.221735'
 musicbrainz_id: 8f48d1d6-acfb-4529-b667-a7c6b9da92a0
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 tags:
-- jazz
+  - jazz
 ---
 
 ![](Treme_Brass_Band.jpg)

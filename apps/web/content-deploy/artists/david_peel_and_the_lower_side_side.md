@@ -3,20 +3,21 @@ title: David Peel & The Lower Side Side
 wiki_slug: david-peel-the-lower-side-side
 schema_version: 2
 status: active
-birth_place: Brooklyn, New York, United States
+birth_place: 'Brooklyn, New York, United States'
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/david_peel_and_the_lower_side_side.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/david_peel_and_the_lower_side_side.jpg
   caption: David Peel & The Lower Side Side
   background: solo_singer
-  origin: Brooklyn, New York, United States
+  origin: 'Brooklyn, New York, United States'
 audio_profile:
   tempo_avg: 130.3
   energy_avg: 0.546
   valence_avg: 0.649
   danceability_avg: 0.486
   acousticness_avg: 0.766
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -8.7
   speechiness_avg: 0.098
   liveness_avg: 0.682
@@ -25,45 +26,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Harold Black
-  - Billy Joe White
-  - John Lennon & Yoko Ono
-  - AJ Weberman
+    - Harold Black
+    - Billy Joe White
+    - John Lennon & Yoko Ono
+    - AJ Weberman
   influenced:
-  - New York Dolls
-  - The Dictators
-  - Ramones
-  - Alan Vega (Suicide)
+    - New York Dolls
+    - The Dictators
+    - Ramones
+    - Alan Vega (Suicide)
   mentors:
-  - The Fugs
-  - Danny Fields
+    - The Fugs
+    - Danny Fields
 spotify_data:
   followers: 4
   id: 22GJv3acSHNKnqVi8GLAIt
   popularity: 8
-  url: https://open.spotify.com/artist/22GJv3acSHNKnqVi8GLAIt
+  url: 'https://open.spotify.com/artist/22GJv3acSHNKnqVi8GLAIt'
 discography_enriched: true
 top_tracks:
-- Attica State - Live At The Crisler Arena, Ann Arbor, Michigan (Power To The People (Live Jam))
-- The Luck Of The Irish - Live At The Crisler Arena, Ann Arbor, Michigan (Power To The People (Live Jam))
-- Sisters, O Sisters - Live At The Crisler Arena, Ann Arbor, Michigan (Power To The People (Live Jam))
-- John Sinclair - Live At The Crisler Arena, Ann Arbor, Michigan (Power To The People (Live Jam))
+  - >-
+    Attica State - Live At The Crisler Arena, Ann Arbor, Michigan (Power To The
+    People (Live Jam))
+  - >-
+    The Luck Of The Irish - Live At The Crisler Arena, Ann Arbor, Michigan
+    (Power To The People (Live Jam))
+  - >-
+    Sisters, O Sisters - Live At The Crisler Arena, Ann Arbor, Michigan (Power
+    To The People (Live Jam))
+  - >-
+    John Sinclair - Live At The Crisler Arena, Ann Arbor, Michigan (Power To The
+    People (Live Jam))
 external_urls:
-  spotify: https://open.spotify.com/artist/22GJv3acSHNKnqVi8GLAIt
-  wikipedia: https://en.wikipedia.org/wiki/David_Peel_(musician)
+  spotify: 'https://open.spotify.com/artist/22GJv3acSHNKnqVi8GLAIt'
+  wikipedia: 'https://en.wikipedia.org/wiki/David_Peel_(musician)'
 image_path: ''
 biography_enhanced_at: '2025-11-27T06:40:44.200950'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/David_Peel_(musician)
-- https://www.loudersound.com/features/the-tale-of-david-peel-the-dope-smoking-hippy-who-became-the-king-of-punk
-- https://ultimateclassicrock.com/david-peel-dies/
-- https://hozacrecords.com/bands/david-peel/
-- https://www.elsewhere.co.nz/fromthevaults/3760/david-peel-and-the-lower-east-side-up-against-the-wall-1968/
+  - 'https://en.wikipedia.org/wiki/David_Peel_(musician)'
+  - >-
+    https://www.loudersound.com/features/the-tale-of-david-peel-the-dope-smoking-hippy-who-became-the-king-of-punk
+  - 'https://ultimateclassicrock.com/david-peel-dies/'
+  - 'https://hozacrecords.com/bands/david-peel/'
+  - >-
+    https://www.elsewhere.co.nz/fromthevaults/3760/david-peel-and-the-lower-east-side-up-against-the-wall-1968/
 network_extracted: true
 entry_created: '2025-11-27T06:40:44.200967'
 last_updated: '2025-12-23T08:16:07.580285'
+birth_date: '1942-08-03'
+death_date: '2017-04-06'
+artist_type: person
 ---
 
 ![]()

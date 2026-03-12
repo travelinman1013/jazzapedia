@@ -5,18 +5,18 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1926-02-02'
-birth_place: Greensboro
+birth_place: 'Greensboro, North Carolina, United States'
 death_date: '1993-07-19'
 genres: []
 instruments:
-- tenor saxophone
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - tenor saxophone
-  mbid: 4359321d-7b88-4bba-8da4-c2e4d7dce177
-  name: Tiny Bradshaw's Orchestra
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: 4359321d-7b88-4bba-8da4-c2e4d7dce177
+    name: Tiny Bradshaw's Orchestra
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/red_prysock.jpg
   caption: Red Prysock
@@ -39,46 +39,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tiny Bradshaw
-  - Tiny Grimes and his Rocking Highlanders
-  - Roy Milton
-  - Cootie Williams
-  - Sil Austin
-  - Arthur Prysock
+    - Tiny Bradshaw
+    - Tiny Grimes and his Rocking Highlanders
+    - Roy Milton
+    - Cootie Williams
+    - Sil Austin
+    - Arthur Prysock
   influenced: []
   mentors:
-  - Coleman Hawkins
+    - Coleman Hawkins
 spotify_data:
   followers: 4
   id: 4dZrIZZ7EuAqL4XRPBf0TD
   popularity: 0
-  url: https://open.spotify.com/artist/4dZrIZZ7EuAqL4XRPBf0TD
+  url: 'https://open.spotify.com/artist/4dZrIZZ7EuAqL4XRPBf0TD'
 discography_enriched: true
 top_tracks:
-- Jump for George (The Red Robin R&B Story)
-- Jackpot (Rhythm & Blues Roots Hits from Harlem, NYC)
-- Crying My Heart Out (Rhythm & Blues Roots Hits from Harlem, NYC)
-- The Hammer (Rhythm & Blues Roots Hits from Harlem, NYC)
-- Hard Rock (Rhythm & Blues Roots Hits from Harlem, NYC)
-- Jackpot (The Red Robin R&B Story)
-- Hard Rock (The Red Robin R&B Story)
-- Wiggles (The Red Robin R&B Story)
-- Crying My Heart Out (The Red Robin R&B Story)
-- The Hammer (The Red Robin R&B Story)
+  - Jump for George (The Red Robin R&B Story)
+  - 'Jackpot (Rhythm & Blues Roots Hits from Harlem, NYC)'
+  - 'Crying My Heart Out (Rhythm & Blues Roots Hits from Harlem, NYC)'
+  - 'The Hammer (Rhythm & Blues Roots Hits from Harlem, NYC)'
+  - 'Hard Rock (Rhythm & Blues Roots Hits from Harlem, NYC)'
+  - Jackpot (The Red Robin R&B Story)
+  - Hard Rock (The Red Robin R&B Story)
+  - Wiggles (The Red Robin R&B Story)
+  - Crying My Heart Out (The Red Robin R&B Story)
+  - The Hammer (The Red Robin R&B Story)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1657d900-d7cf-4016-9cdc-2baba1cb037b
-  spotify: https://open.spotify.com/artist/4dZrIZZ7EuAqL4XRPBf0TD
-  wikipedia: https://en.wikipedia.org/wiki/Red_Prysock
+  musicbrainz: 'https://musicbrainz.org/artist/1657d900-d7cf-4016-9cdc-2baba1cb037b'
+  spotify: 'https://open.spotify.com/artist/4dZrIZZ7EuAqL4XRPBf0TD'
+  wikipedia: 'https://en.wikipedia.org/wiki/Red_Prysock'
 image_path: ''
 biography_enhanced_at: '2025-12-04T07:47:54.291807'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Red Prysock
-- Jango Radio - Red Prysock Full Bio
-- Bear Family Records - Red Prysock
-- Rocky Productions Discography Database
-- CafeSaxophone Forum
+  - Wikipedia - Red Prysock
+  - Jango Radio - Red Prysock Full Bio
+  - Bear Family Records - Red Prysock
+  - Rocky Productions Discography Database
+  - CafeSaxophone Forum
 network_extracted: true
 entry_created: '2025-12-04T07:47:54.291818'
 last_updated: '2025-12-23T08:16:14.741374'
@@ -86,7 +86,9 @@ disambiguation: US R&B tenor saxophonist
 gender: Male
 musicbrainz_id: 1657d900-d7cf-4016-9cdc-2baba1cb037b
 tags:
-- 2008 universal fire victim
+  - 2008 universal fire victim
+is_active: false
+origin: 'Buffalo, New York, United States'
 ---
 
 ![]()

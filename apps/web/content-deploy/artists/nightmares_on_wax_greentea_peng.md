@@ -3,17 +3,18 @@ title: Nightmares On Wax Greentea Peng
 wiki_slug: nightmares-on-wax-greentea-peng
 schema_version: 2
 status: active
-birth_place: London, England, United Kingdom
+birth_place: 'London, England, United Kingdom'
 genres:
-- trip hop
-- downtempo
-- acid jazz
-- nu jazz
+  - trip hop
+  - downtempo
+  - acid jazz
+  - nu jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/nightmares_on_wax_greentea_peng.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/nightmares_on_wax_greentea_peng.jpg
   caption: Nightmares On Wax Greentea Peng
   background: solo_singer
-  origin: London, England, United Kingdom
+  origin: 'London, England, United Kingdom'
 audio_profile:
   tempo_avg: 110.3
   energy_avg: 0.48
@@ -29,50 +30,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Earbuds
-  - Nightmares On Wax (George Evelyn)
-  - KESH
+    - Earbuds
+    - Nightmares On Wax (George Evelyn)
+    - KESH
   influenced:
-  - Emerging UK neo-soul and alternative R&B artists
+    - Emerging UK neo-soul and alternative R&B artists
   mentors:
-  - Lauryn Hill
-  - Erykah Badu
-  - Miss Dynamite
-  - Lily Allen
+    - Lauryn Hill
+    - Erykah Badu
+    - Miss Dynamite
+    - Lily Allen
 spotify_data:
   followers: 521744
   id: 4tNxq9NGKTKaX8OkZBLgf0
   popularity: 58
-  url: https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0
+  url: 'https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0'
 discography_enriched: true
 top_tracks:
-- You Wish (In A Space Outta Sound)
-- Flip Ya Lid (In A Space Outta Sound)
-- Les Nuits (Carboot Soul)
-- Typical (Shape The Future)
-- Da Feelin (Thought So…)
-- Morse (Carboot Soul)
-- Imagineering (Shout Out! To Freedom...)
-- Nights Introlude (Smokers Delight)
-- 30 Groove St.
-- Waiting A Minute
+  - You Wish (In A Space Outta Sound)
+  - Flip Ya Lid (In A Space Outta Sound)
+  - Les Nuits (Carboot Soul)
+  - Typical (Shape The Future)
+  - Da Feelin (Thought So…)
+  - Morse (Carboot Soul)
+  - Imagineering (Shout Out! To Freedom...)
+  - Nights Introlude (Smokers Delight)
+  - 30 Groove St.
+  - Waiting A Minute
 external_urls:
-  spotify: https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0
-  wikipedia: https://en.wikipedia.org/wiki/Greentea_Peng
-image_path: 03_Resources/source_material/ArtistPortraits/nightmares_on_wax_greentea_peng.jpg
+  spotify: 'https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0'
+  wikipedia: 'https://en.wikipedia.org/wiki/Greentea_Peng'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/nightmares_on_wax_greentea_peng.jpg
 biography_enhanced_at: '2025-11-20T06:54:33.000421'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Greentea_Peng
-- https://firebirdmagazine.com/music-you-need-to-know/greentea-peng
-- https://www.last.fm/music/Greentea+Peng/+wiki
-- https://kids.kiddle.co/Greentea_Peng
-- https://www.stereofox.com/greentea-peng-top-steppa-v2-feat-nightmares-on-wax-ft-nightmares-on-wax/
-- https://dmy.co/new-music/greentea-peng-and-nightmares-on-wax-join-forces-on-dubbed-out-remix-top-steppa-v2
+  - 'https://en.wikipedia.org/wiki/Greentea_Peng'
+  - 'https://firebirdmagazine.com/music-you-need-to-know/greentea-peng'
+  - 'https://www.last.fm/music/Greentea+Peng/+wiki'
+  - 'https://kids.kiddle.co/Greentea_Peng'
+  - >-
+    https://www.stereofox.com/greentea-peng-top-steppa-v2-feat-nightmares-on-wax-ft-nightmares-on-wax/
+  - >-
+    https://dmy.co/new-music/greentea-peng-and-nightmares-on-wax-join-forces-on-dubbed-out-remix-top-steppa-v2
 network_extracted: true
 entry_created: '2025-11-20T06:54:33.000428'
 last_updated: '2025-12-23T08:16:13.597152'
+birth_date: '1994-12-01'
+artist_type: person
 ---
 
 ![](nightmares_on_wax_greentea_peng.jpg)

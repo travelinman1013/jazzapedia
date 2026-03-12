@@ -1,40 +1,44 @@
 ---
 biography_enhanced_at: '2025-12-26T01:28:36.153498'
-birth_place: Snyder, Texas, USA
+birth_place: 'Snyder, Texas, USA'
 enhancement_provider: perplexity
 entry_created: '2025-12-26T01:28:36.153512'
 external_urls:
-  spotify: https://open.spotify.com/artist/0HF5JmBPRVKmHTs4fbt8ce
+  spotify: 'https://open.spotify.com/artist/0HF5JmBPRVKmHTs4fbt8ce'
   wikipedia: ''
 genres:
-- rockabilly
+  - rockabilly
 image_path: 03_Resources/source_material/ArtistPortraits/margaret_lewis.jpg
 last_updated: '2025-12-26T01:28:36.153514'
 musical_connections:
   collaborators:
-  - Dale Hawkins
-  - Johnny Winter
-  - Mira Smith
+    - Dale Hawkins
+    - Johnny Winter
+    - Mira Smith
   influenced: []
   mentors:
-  - Johnny Horton
+    - Johnny Horton
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://sunrecords.com/artists/margaret-lewis/
-- https://www.last.fm/music/Margaret+Lewis/+wiki
-- https://fromthevaults-boppinbob.blogspot.com/2022/01/margaret-lewis-born-circa-1941.html
-- https://www.marmosetmusic.com/artists/margaret-lewis
-- https://www.musicbed.com/artists/margaret-lewis/43540
-- https://tims.blackcat.nl/messages/margaret_lewis.htm
-- https://acerecords.co.uk/news/2019/margaret-lewis
+  - 'https://sunrecords.com/artists/margaret-lewis/'
+  - 'https://www.last.fm/music/Margaret+Lewis/+wiki'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2022/01/margaret-lewis-born-circa-1941.html
+  - 'https://www.marmosetmusic.com/artists/margaret-lewis'
+  - 'https://www.musicbed.com/artists/margaret-lewis/43540'
+  - 'https://tims.blackcat.nl/messages/margaret_lewis.htm'
+  - 'https://acerecords.co.uk/news/2019/margaret-lewis'
 spotify_data:
   followers: 556
   id: 0HF5JmBPRVKmHTs4fbt8ce
   popularity: 30
-  url: https://open.spotify.com/artist/0HF5JmBPRVKmHTs4fbt8ce
+  url: 'https://open.spotify.com/artist/0HF5JmBPRVKmHTs4fbt8ce'
 status: active
 title: Margaret Lewis
+birth_date: '1939-04-30'
+death_date: '2019-03-29'
+artist_type: person
 ---
 
 ![](margaret_lewis.jpg)

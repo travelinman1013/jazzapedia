@@ -1,64 +1,66 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7d262a3f-de25-4394-8c26-e09e5746be7c
-  name: The Jewels
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7d262a3f-de25-4394-8c26-e09e5746be7c
+    name: The Jewels
 biography_enhanced_at: '2026-01-11T02:23:21.548533'
 birth_date: '1945'
-birth_place: Victoria
+birth_place: 'Victoria, Virginia, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-11T02:23:21.548542'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/bd089aef-ef28-47ee-b434-6c719a73d272
-  spotify: https://open.spotify.com/artist/7JtFLTNxufY1pEKNVH0YXi
-  wikipedia: https://en.wikipedia.org/wiki/Martha_High
+  musicbrainz: 'https://musicbrainz.org/artist/bd089aef-ef28-47ee-b434-6c719a73d272'
+  spotify: 'https://open.spotify.com/artist/7JtFLTNxufY1pEKNVH0YXi'
+  wikipedia: 'https://en.wikipedia.org/wiki/Martha_High'
 gender: Female
 genres:
-- retro soul
+  - retro soul
 image_path: 03_Resources/source_material/ArtistPortraits/martha_high.jpg
 instruments:
-- background vocals
-- lead vocals
+  - background vocals
+  - lead vocals
 last_updated: '2026-01-11T02:23:21.548544'
 musical_connections:
   collaborators:
-  - Maceo Parker
-  - Speedometer
-  - Soulpower Allstars / Soulpower organization
-  - Luca Sapio
-  - Grey and the Hit Me Band / Michael Edell
-  - George Clinton and Bootsy Collins
-  - Lyn Collins and other “Funky Divas”
-  - Shaolin Temple Defenders, The T.C. Gang, Morblus Band, Martha High & Band
+    - Maceo Parker
+    - Speedometer
+    - Soulpower Allstars / Soulpower organization
+    - Luca Sapio
+    - Grey and the Hit Me Band / Michael Edell
+    - George Clinton and Bootsy Collins
+    - Lyn Collins and other “Funky Divas”
+    - 'Shaolin Temple Defenders, The T.C. Gang, Morblus Band, Martha High & Band'
   influenced:
-  - Various rising singers and students (workshops and master classes)
+    - Various rising singers and students (workshops and master classes)
   mentors:
-  - James Brown
-  - Trinity AME Zion Church community
+    - James Brown
+    - Trinity AME Zion Church community
 musicbrainz_id: bd089aef-ef28-47ee-b434-6c719a73d272
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://ropeadope.com/news/2022/8/12/welcome-miss-martha-high
-- https://en.wikipedia.org/wiki/Martha_High
-- https://www.eidenmusicagency.com/documents/BIO%20Martha%20High.pdf
-- https://www.citybeat.com/music/singer-martha-high-keeps-alive-the-legacy-of-james-brown-and-cincinnatis-king-records-13809076
-- https://www.marmosetmusic.com/artists/martha-high
-- https://www.fasching.se/en/martha-high-and-the-soul-cookers/
-- https://live.dox.amsterdam/artists/martha-high/
+  - 'https://ropeadope.com/news/2022/8/12/welcome-miss-martha-high'
+  - 'https://en.wikipedia.org/wiki/Martha_High'
+  - 'https://www.eidenmusicagency.com/documents/BIO%20Martha%20High.pdf'
+  - >-
+    https://www.citybeat.com/music/singer-martha-high-keeps-alive-the-legacy-of-james-brown-and-cincinnatis-king-records-13809076
+  - 'https://www.marmosetmusic.com/artists/martha-high'
+  - 'https://www.fasching.se/en/martha-high-and-the-soul-cookers/'
+  - 'https://live.dox.amsterdam/artists/martha-high/'
 spotify_data:
   followers: 3474
   id: 7JtFLTNxufY1pEKNVH0YXi
   popularity: 12
-  url: https://open.spotify.com/artist/7JtFLTNxufY1pEKNVH0YXi
+  url: 'https://open.spotify.com/artist/7JtFLTNxufY1pEKNVH0YXi'
 status: active
 tags:
-- funk
-- soul
+  - funk
+  - soul
 title: Martha High
+origin: 'Washington, D.C., District of Columbia, United States'
 ---
 
 ![](martha_high.jpg)

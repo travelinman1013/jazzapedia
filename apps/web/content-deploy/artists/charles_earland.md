@@ -1,29 +1,29 @@
 ---
-title: CHARLES EARLAND
+title: Charles Earland
 wiki_slug: charles-earland
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1941-05-24'
-birth_place: Philadelphia
+birth_place: 'Philadelphia, Pennsylvania, United States'
 death_date: '1999-12-11'
 genres:
-- jazz funk
-- soul jazz
-- hard bop
-- acid jazz
+  - jazz funk
+  - soul jazz
+  - hard bop
+  - acid jazz
 instruments:
-- Rhodes piano
-- electric piano
-- grand piano
-- background vocals
-- lead vocals
+  - Rhodes piano
+  - electric piano
+  - grand piano
+  - background vocals
+  - lead vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: be9f11f7-89d0-46bd-932c-bae3e601cb50
-  name: Saka Acquaye and His African Ensemble
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: be9f11f7-89d0-46bd-932c-bae3e601cb50
+    name: Saka Acquaye and His African Ensemble
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/charles_earland.jpg
   caption: CHARLES EARLAND
@@ -46,61 +46,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Pat Martino
-  - Lou Donaldson
-  - Grover Washington, Jr.
-  - Bobby Durham
-  - Sheryl Kendrick
-  - Houston Person
-  - Melvin Sparks
-  - Idris Muhammad
+    - Pat Martino
+    - Lou Donaldson
+    - 'Grover Washington, Jr.'
+    - Bobby Durham
+    - Sheryl Kendrick
+    - Houston Person
+    - Melvin Sparks
+    - Idris Muhammad
   influenced:
-  - Eric Alexander
-  - Jim Rotondi
-  - Acid Jazz artists
+    - Eric Alexander
+    - Jim Rotondi
+    - Acid Jazz artists
   mentors:
-  - Jimmy McGriff
+    - Jimmy McGriff
 spotify_data:
   followers: 17659
   id: 3ud1yQWO0eEL8hVcXyU0Oi
   popularity: 25
-  url: https://open.spotify.com/artist/3ud1yQWO0eEL8hVcXyU0Oi
+  url: 'https://open.spotify.com/artist/3ud1yQWO0eEL8hVcXyU0Oi'
 discography_enriched: true
 top_tracks:
-- The Mighty Burner - Rudy Van Gelder Remaster (Black Talk! (RVG Remaster))
-- Coming to You Live (Coming to You Live)
-- Happy 'Cause I'm Goin' Home (Intensity)
-- Black Talk - Rudy Van Gelder Remaster (Black Talk! (RVG Remaster))
-- More Today Than Yesterday - Instrumental (Black Talk! (RVG Remaster))
-- Raindrops Keep Falling On My Head - Instrumental (Black Drops)
-- Leaving This Planet - Vocal (Leaving This Planet)
-- Aquarius - Instrumental (Black Talk! (RVG Remaster))
-- '''Cause I Love Her (Intensity)'
-- Here Comes Charlie - Instrumental (Black Talk! (RVG Remaster))
+  - The Mighty Burner - Rudy Van Gelder Remaster (Black Talk! (RVG Remaster))
+  - Coming to You Live (Coming to You Live)
+  - Happy 'Cause I'm Goin' Home (Intensity)
+  - Black Talk - Rudy Van Gelder Remaster (Black Talk! (RVG Remaster))
+  - More Today Than Yesterday - Instrumental (Black Talk! (RVG Remaster))
+  - Raindrops Keep Falling On My Head - Instrumental (Black Drops)
+  - Leaving This Planet - Vocal (Leaving This Planet)
+  - Aquarius - Instrumental (Black Talk! (RVG Remaster))
+  - '''Cause I Love Her (Intensity)'
+  - Here Comes Charlie - Instrumental (Black Talk! (RVG Remaster))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/82a74a77-0349-48ea-b45f-ad61f2562fca
-  spotify: https://open.spotify.com/artist/3ud1yQWO0eEL8hVcXyU0Oi
-  wikipedia: https://en.wikipedia.org/wiki/Charles_Earland
+  musicbrainz: 'https://musicbrainz.org/artist/82a74a77-0349-48ea-b45f-ad61f2562fca'
+  spotify: 'https://open.spotify.com/artist/3ud1yQWO0eEL8hVcXyU0Oi'
+  wikipedia: 'https://en.wikipedia.org/wiki/Charles_Earland'
 image_path: 03_Resources/source_material/ArtistPortraits/charles_earland.jpg
 biography_enhanced_at: '2025-11-11T09:25:48.765833'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.bluenote.com/artist/charles-earland/
-- https://fromthevaults-boppinbob.blogspot.com/2023/05/charles-earland-born-24-may-1941.html
-- https://www.cc-seas.columbia.edu/wkcr/story/charles-earland-sunday-profile
-- https://concord.com/artist/charles-earland/
-- https://www.allaboutjazz.com/musicians/charles-earland/
+  - 'https://www.bluenote.com/artist/charles-earland/'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2023/05/charles-earland-born-24-may-1941.html
+  - 'https://www.cc-seas.columbia.edu/wkcr/story/charles-earland-sunday-profile'
+  - 'https://concord.com/artist/charles-earland/'
+  - 'https://www.allaboutjazz.com/musicians/charles-earland/'
 network_extracted: true
 entry_created: '2025-11-11T09:25:48.765836'
 last_updated: '2025-12-23T08:16:06.665384'
 gender: Male
 musicbrainz_id: 82a74a77-0349-48ea-b45f-ad61f2562fca
 tags:
-- hard bop
-- jazz
-- jazz and blues
-
+  - hard bop
+  - jazz
+  - jazz and blues
+is_active: false
+origin: 'Philadelphia, Pennsylvania, United States'
 ---
 
 ![](charles_earland.jpg)

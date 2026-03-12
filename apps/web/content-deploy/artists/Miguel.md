@@ -2,18 +2,18 @@
 title: Miguel
 wiki_slug: miguel
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1985-10-23'
-birth_place: San Pedro, California, United States
+birth_place: 'San Pedro, California, United States'
 genres:
-- r&b
+  - r&b
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Miguel.jpg
   caption: Miguel
   background: solo_singer
   born: '1985-10-23'
-  origin: San Pedro, California, United States
+  origin: 'San Pedro, California, United States'
 audio_profile:
   tempo_avg: 104.6
   energy_avg: 0.618
@@ -29,46 +29,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Travis Scott
-  - Wale
-  - Usher
-  - Rick Ross
+    - Travis Scott
+    - Wale
+    - Usher
+    - Rick Ross
   influenced:
-  - Khalid
-  - H.E.R.
+    - Khalid
+    - H.E.R.
   mentors:
-  - Prince
-  - Queen
-  - Lenny Kravitz
+    - Prince
+    - Queen
+    - Lenny Kravitz
 spotify_data:
   followers: 6110164
   id: 360IAlyVv4PCEVjgyMZrxK
   popularity: 77
-  url: https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK
+  url: 'https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK'
 discography_enriched: true
 top_tracks:
-- Sweet Dreams (feat. Miguel)
-- Sure Thing (All I Want Is You)
-- Everyday (feat. Rod Stewart, Miguel & Mark Ronson) (AT.LONG.LAST.A$AP)
-- Girl With The Tattoo Enter.lewd (All I Want Is You)
-- Power Trip (feat. Miguel) (Born Sinner (Deluxe Version))
-- Sweet Dreams (feat. Miguel)
-- Weekend (feat. Miguel) (GO:OD AM)
-- All I Want Is You (feat. J. Cole) (All I Want Is You)
-- Sky Walker (feat. Travis Scott) (War & Leisure)
-- Adorn (Kaleidoscope Dream)
+  - Sweet Dreams (feat. Miguel)
+  - Sure Thing (All I Want Is You)
+  - 'Everyday (feat. Rod Stewart, Miguel & Mark Ronson) (AT.LONG.LAST.A$AP)'
+  - Girl With The Tattoo Enter.lewd (All I Want Is You)
+  - Power Trip (feat. Miguel) (Born Sinner (Deluxe Version))
+  - Sweet Dreams (feat. Miguel)
+  - 'Weekend (feat. Miguel) (GO:OD AM)'
+  - All I Want Is You (feat. J. Cole) (All I Want Is You)
+  - Sky Walker (feat. Travis Scott) (War & Leisure)
+  - Adorn (Kaleidoscope Dream)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/285e1285-aecc-478f-a8da-0c8cf69e1217
-  spotify: https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK
-  wikipedia: https://en.wikipedia.org/wiki/Miguel_(singer)
+  musicbrainz: 'https://musicbrainz.org/artist/285e1285-aecc-478f-a8da-0c8cf69e1217'
+  spotify: 'https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK'
+  wikipedia: 'https://en.wikipedia.org/wiki/Miguel_(singer)'
 image_path: 03_Resources/source_material/ArtistPortraits/Miguel.jpg
 biography_enhanced_at: '2025-10-20T09:39:14.420179'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Miguel_(singer)
-- https://www.biography.com/musicians/miguel
-- https://teachrock.org/people/miguel/
+  - 'https://en.wikipedia.org/wiki/Miguel_(singer)'
+  - 'https://www.biography.com/musicians/miguel'
+  - 'https://teachrock.org/people/miguel/'
 network_extracted: true
 entry_created: '2025-10-20T09:39:14.420193'
 last_updated: '2025-12-23T08:16:03.317587'
@@ -77,9 +77,9 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:38:02.404545'
 musicbrainz_id: 285e1285-aecc-478f-a8da-0c8cf69e1217
 tags:
-- alternative r&b
-- contemporary r&b
-- psychedelic pop
+  - alternative r&b
+  - contemporary r&b
+  - psychedelic pop
 ---
 
 ![](Miguel.jpg)

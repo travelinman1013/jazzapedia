@@ -1,18 +1,18 @@
 ---
-title: ishman bracey
+title: Ishman Bracey
 wiki_slug: ishman-bracey
 schema_version: 2
 status: active
-birth_place: Byram, Mississippi, United States
+birth_place: 'Byram, Mississippi, United States'
 genres:
-- country blues
-- blues
-- classic blues
+  - country blues
+  - blues
+  - classic blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ishman_bracey.jpg
   caption: ishman bracey
   background: solo_singer
-  origin: Byram, Mississippi, United States
+  origin: 'Byram, Mississippi, United States'
 audio_profile:
   tempo_avg: 112.2
   energy_avg: 0.148
@@ -28,47 +28,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tommy Johnson
-  - Papa Charlie McCoy
-  - Charles Taylor
-  - Kid Ernest Michall
+    - Tommy Johnson
+    - Papa Charlie McCoy
+    - Charles Taylor
+    - Kid Ernest Michall
   influenced:
-  - Skip James
+    - Skip James
   mentors:
-  - Rubin Lacey
-  - Louis Cooper
+    - Rubin Lacey
+    - Louis Cooper
 spotify_data:
   followers: 2567
   id: 6jAZ0Vg8P52hUomLqMPXcS
   popularity: 3
-  url: https://open.spotify.com/artist/6jAZ0Vg8P52hUomLqMPXcS
+  url: 'https://open.spotify.com/artist/6jAZ0Vg8P52hUomLqMPXcS'
 discography_enriched: true
 top_tracks:
-- Saturday Blues (Mobile Stomp)
-- Saturday Blues (Suitcase Full of Blues 1928-1929)
-- Trouble Hearted Blues (Suitcase Full of Blues 1928-1929)
-- Saturday Blues
-- Saturday Blues - Remastered 2002 (First Time I Met the Blues (When the Sun Goes Down series))
-- Saturday Blues - Remastered (Canned Heat Blues)
-- Jake Liquor Blues (Suitcase Full of Blues 1928-1929)
-- Saturday Blues (Ishman Bracey (1928 - 1930))
-- Trouble Hearted Blues (Mobile Stomp)
-- Woman Woman Blues (Mobile Stomp)
+  - Saturday Blues (Mobile Stomp)
+  - Saturday Blues (Suitcase Full of Blues 1928-1929)
+  - Trouble Hearted Blues (Suitcase Full of Blues 1928-1929)
+  - Saturday Blues
+  - >-
+    Saturday Blues - Remastered 2002 (First Time I Met the Blues (When the Sun
+    Goes Down series))
+  - Saturday Blues - Remastered (Canned Heat Blues)
+  - Jake Liquor Blues (Suitcase Full of Blues 1928-1929)
+  - Saturday Blues (Ishman Bracey (1928 - 1930))
+  - Trouble Hearted Blues (Mobile Stomp)
+  - Woman Woman Blues (Mobile Stomp)
 external_urls:
-  spotify: https://open.spotify.com/artist/6jAZ0Vg8P52hUomLqMPXcS
-  wikipedia: https://en.wikipedia.org/wiki/Ishmon_Bracey
+  spotify: 'https://open.spotify.com/artist/6jAZ0Vg8P52hUomLqMPXcS'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ishmon_Bracey'
 image_path: 03_Resources/source_material/ArtistPortraits/ishman_bracey.jpg
 biography_enhanced_at: '2025-10-19T10:49:09.440901'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Ishmon_Bracey
-- https://msbluestrail.org/blues-trail-markers/ishmon-bracey
-- https://blinddogradio.blogspot.com/2017/09/ishman-bracey.html
+  - 'https://en.wikipedia.org/wiki/Ishmon_Bracey'
+  - 'https://msbluestrail.org/blues-trail-markers/ishmon-bracey'
+  - 'https://blinddogradio.blogspot.com/2017/09/ishman-bracey.html'
 network_extracted: true
 entry_created: '2025-10-19T10:49:09.440918'
 last_updated: '2025-12-23T08:16:09.933243'
-
+artist_type: person
 ---
 
 ![](ishman_bracey.jpg)

@@ -4,10 +4,11 @@ wiki_slug: jack-dejohnettes-new-direction
 schema_version: 2
 status: active
 genres:
-- free jazz
-- jazz fusion
+  - free jazz
+  - jazz fusion
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/jack_dejohnettes_new_direction.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/jack_dejohnettes_new_direction.jpg
   caption: Jack DeJohnette's New Direction
   background: solo_singer
 audio_profile:
@@ -25,48 +26,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lester Bowie
-  - Eddie Gomez
-  - John Abercrombie
+    - Lester Bowie
+    - Eddie Gomez
+    - John Abercrombie
   influenced:
-  - Brian Blade
-  - Antonio Sanchez
+    - Brian Blade
+    - Antonio Sanchez
   mentors:
-  - Ahmad Jamal Trio (Vernel Fournier)
-  - Muhal Richard Abrams
+    - Ahmad Jamal Trio (Vernel Fournier)
+    - Muhal Richard Abrams
 spotify_data:
   followers: 1856
   id: 3rmMhXGXtDkrvgEil94qsE
   popularity: 10
-  url: https://open.spotify.com/artist/3rmMhXGXtDkrvgEil94qsE
+  url: 'https://open.spotify.com/artist/3rmMhXGXtDkrvgEil94qsE'
 discography_enriched: true
 top_tracks:
-- Bayou Fever (New Directions)
-- Silver Hollow (New Directions)
-- Where Or Wayne (New Directions)
-- Dream Stalker (New Directions)
-- One Handed Woman (New Directions)
-- Bayou Fever (Works)
-- Salsa For Eddie G. (In Europe)
-- Where Or Wayne (In Europe)
-- Bayou Fever (In Europe)
-- Silver Hollow (Selected Recordings IX - XX)
+  - Bayou Fever (New Directions)
+  - Silver Hollow (New Directions)
+  - Where Or Wayne (New Directions)
+  - Dream Stalker (New Directions)
+  - One Handed Woman (New Directions)
+  - Bayou Fever (Works)
+  - Salsa For Eddie G. (In Europe)
+  - Where Or Wayne (In Europe)
+  - Bayou Fever (In Europe)
+  - Silver Hollow (Selected Recordings IX - XX)
 external_urls:
-  spotify: https://open.spotify.com/artist/3rmMhXGXtDkrvgEil94qsE
-  wikipedia: https://en.wikipedia.org/wiki/New_Directions_(Jack_DeJohnette_album)
-image_path: 03_Resources/source_material/ArtistPortraits/jack_dejohnettes_new_direction.jpg
+  spotify: 'https://open.spotify.com/artist/3rmMhXGXtDkrvgEil94qsE'
+  wikipedia: 'https://en.wikipedia.org/wiki/New_Directions_(Jack_DeJohnette_album)'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/jack_dejohnettes_new_direction.jpg
 biography_enhanced_at: '2025-10-31T08:02:36.191455'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://jazz-rock-fusion-guitar.blogspot.com/2021/01/jack-dejohnette-1978-2000-new-directions.html
-- https://pas.org/jack-dejohnette/
-- https://en.wikipedia.org/wiki/New_Directions_(Jack_DeJohnette_album)
-- https://ecmrecords.com/product/new-directions-jack-dejohnette-new-directions/
+  - >-
+    http://jazz-rock-fusion-guitar.blogspot.com/2021/01/jack-dejohnette-1978-2000-new-directions.html
+  - 'https://pas.org/jack-dejohnette/'
+  - 'https://en.wikipedia.org/wiki/New_Directions_(Jack_DeJohnette_album)'
+  - >-
+    https://ecmrecords.com/product/new-directions-jack-dejohnette-new-directions/
 network_extracted: true
 entry_created: '2025-10-31T08:02:36.191552'
 last_updated: '2025-12-23T08:16:10.002674'
-origin: Chicago, Illinois, United States
+origin: 'Chicago, Illinois, United States'
+birth_place: 'Chicago, Illinois, United States'
+birth_date: '1942'
+artist_type: person
 ---
 
 ![](jack_dejohnettes_new_direction.jpg)

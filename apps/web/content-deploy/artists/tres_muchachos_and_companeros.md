@@ -3,31 +3,32 @@ biography_enhanced_at: '2026-01-04T01:54:38.548655'
 enhancement_provider: perplexity
 entry_created: '2026-01-04T01:54:38.548662'
 external_urls:
-  spotify: https://open.spotify.com/artist/0PF6JGY5CO8G1RiiMqJcIF
+  spotify: 'https://open.spotify.com/artist/0PF6JGY5CO8G1RiiMqJcIF'
   wikipedia: ''
 genres:
-- son cubano
+  - son cubano
 image_path: ''
 last_updated: '2026-01-04T01:54:38.548662'
 musical_connections:
   collaborators:
-  - Jimmy Bosch
+    - Jimmy Bosch
   influenced: []
   mentors: []
 network_extracted: true
-origin: St. Petersburg, Russia
+origin: 'St. Petersburg, Russia, Country'
 primary_source: perplexity
 research_sources:
-- https://www.solarlatinclub.com/tres-muchachos-companeros-la-vida/
-- https://worldmusiccentral.org/putumayo-celebrates-timeless-rumba-mambo-cha-cha-cha/
+  - 'https://www.solarlatinclub.com/tres-muchachos-companeros-la-vida/'
+  - >-
+    https://worldmusiccentral.org/putumayo-celebrates-timeless-rumba-mambo-cha-cha-cha/
 spotify_data:
   followers: 111
   id: 0PF6JGY5CO8G1RiiMqJcIF
   popularity: 11
-  url: https://open.spotify.com/artist/0PF6JGY5CO8G1RiiMqJcIF
+  url: 'https://open.spotify.com/artist/0PF6JGY5CO8G1RiiMqJcIF'
 status: active
 title: Tres Muchachos & Companeros
-
+artist_type: band
 ---
 
 ![]()

@@ -3,13 +3,13 @@ title: Bruno Elisabetsky
 wiki_slug: bruno-elisabetsky
 schema_version: 2
 status: active
-birth_place: São Paulo, São Paulo, Brazil
+birth_place: 'São Paulo, São Paulo, Brazil'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Bruno_Elisabetsky.jpg
   caption: Bruno Elisabetsky
   background: solo_singer
-  origin: São Paulo, São Paulo, Brazil
+  origin: 'São Paulo, São Paulo, Brazil'
 audio_profile:
   tempo_avg: 115.9
   energy_avg: 0.405
@@ -25,59 +25,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Joyce Moreno
-  - Teco Cardoso
-  - Nailor Proveta (Azevedo)
-  - Toninho Ferraguti
-  - Julian Lee
-  - Pedro Segundo
-  - Lex Warshawsky
-  - Yusa
-  - Victor Campbell
-  - Scott Johnson
-  - Martin Masakowsky
+    - Joyce Moreno
+    - Teco Cardoso
+    - Nailor Proveta (Azevedo)
+    - Toninho Ferraguti
+    - Julian Lee
+    - Pedro Segundo
+    - Lex Warshawsky
+    - Yusa
+    - Victor Campbell
+    - Scott Johnson
+    - Martin Masakowsky
   influenced:
-  - Local New Orleans musicians and students
+    - Local New Orleans musicians and students
   mentors:
-  - Guinga
-  - Toninho Horta
-  - Baden Powell
-  - João Gilberto
+    - Guinga
+    - Toninho Horta
+    - Baden Powell
+    - João Gilberto
 spotify_data:
   followers: 242
   id: 4eMHMibKPrazzDOFNMTJTQ
   popularity: 5
-  url: https://open.spotify.com/artist/4eMHMibKPrazzDOFNMTJTQ
+  url: 'https://open.spotify.com/artist/4eMHMibKPrazzDOFNMTJTQ'
 discography_enriched: true
 top_tracks:
-- MIA (Acoustic Cover) (MIA (Acoustic Cover))
-- Clandestino (Acoustic Cover) (Clandestino (Acoustic Cover))
-- Rush Mental (Rush Mental)
-- Sacred Sun (Evolution of Light)
-- Salvador (Evolution of Light)
-- Rush Mental (Alcance)
-- Porro (Spanish Roots)
-- Porro (Porro)
-- Voando (Xadrez)
-- Espera (Xadrez)
+  - MIA (Acoustic Cover) (MIA (Acoustic Cover))
+  - Clandestino (Acoustic Cover) (Clandestino (Acoustic Cover))
+  - Rush Mental (Rush Mental)
+  - Sacred Sun (Evolution of Light)
+  - Salvador (Evolution of Light)
+  - Rush Mental (Alcance)
+  - Porro (Spanish Roots)
+  - Porro (Porro)
+  - Voando (Xadrez)
+  - Espera (Xadrez)
 external_urls:
-  spotify: https://open.spotify.com/artist/4eMHMibKPrazzDOFNMTJTQ
+  spotify: 'https://open.spotify.com/artist/4eMHMibKPrazzDOFNMTJTQ'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/Bruno_Elisabetsky.jpg
 biography_enhanced_at: '2025-10-19T12:29:36.867630'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://magnatune.com/artists/bruno_elisabetsky/
-- https://snugjazz.com/tm-attraction/bruno-elisabetsky/
-- https://jazzweekly.com/2025/05/bruno-elisabetsky-alcance/
-- https://soundbetter.com/profiles/17816-bruno-elisabetsky
-- https://www.allaboutjazz.com/musicians/bruno-elisabetsky/
-- https://www.nps.gov/planyourvisit/event-details.htm?id=B235DFF2-DEA9-7281-048B4B9953149FC6
-- https://www.nps.gov/planyourvisit/event-details.htm?id=E4F83124-E354-9CF5-09D5B2F6E68E2FC0
+  - 'http://magnatune.com/artists/bruno_elisabetsky/'
+  - 'https://snugjazz.com/tm-attraction/bruno-elisabetsky/'
+  - 'https://jazzweekly.com/2025/05/bruno-elisabetsky-alcance/'
+  - 'https://soundbetter.com/profiles/17816-bruno-elisabetsky'
+  - 'https://www.allaboutjazz.com/musicians/bruno-elisabetsky/'
+  - >-
+    https://www.nps.gov/planyourvisit/event-details.htm?id=B235DFF2-DEA9-7281-048B4B9953149FC6
+  - >-
+    https://www.nps.gov/planyourvisit/event-details.htm?id=E4F83124-E354-9CF5-09D5B2F6E68E2FC0
 network_extracted: true
 entry_created: '2025-10-19T12:29:36.867643'
 last_updated: '2025-12-23T08:16:01.379323'
+artist_type: person
 ---
 
 ![](Bruno_Elisabetsky.jpg)

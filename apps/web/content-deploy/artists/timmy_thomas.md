@@ -1,14 +1,14 @@
 ---
-title: timmy thomas
+title: Timmy Thomas
 wiki_slug: timmy-thomas
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1944-11-13'
-birth_place: Evansville
+birth_place: 'Evansville, Indiana, United States'
 death_date: '2022-03-11'
 genres:
-- classic soul
+  - classic soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/timmy_thomas.jpg
   caption: timmy thomas
@@ -31,52 +31,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Phillip Reynolds
-  - Betty Wright
-  - Joss Stone
+    - Phillip Reynolds
+    - Betty Wright
+    - Joss Stone
   influenced:
-  - Drake
-  - Sade
+    - Drake
+    - Sade
   mentors:
-  - Donald Byrd
-  - Cannonball Adderley
+    - Donald Byrd
+    - Cannonball Adderley
 spotify_data:
   followers: 22630
   id: 7JLwBH0X2G8tgHceqvOu5B
   popularity: 42
-  url: https://open.spotify.com/artist/7JLwBH0X2G8tgHceqvOu5B
+  url: 'https://open.spotify.com/artist/7JLwBH0X2G8tgHceqvOu5B'
 discography_enriched: true
 top_tracks:
-- Dying Inside to Hold You (Heart & Soul)
-- Why Can't We Live Together (Why Can't We Live Together)
-- Why Can't We Live Together
-- (Dying Inside) To Hold You - Heartbreak Radio Edit
-- (Dying Inside) To Hold You - Heartbreak Mix
-- I've Got to See You Tonight (You're the Song)
-- New York Eyes
-- Why Can't We Live Together - LNTG Rework
-- Why Can't We Live Together
-- Rainbow Power (Why Can't We Live Together)
+  - Dying Inside to Hold You (Heart & Soul)
+  - Why Can't We Live Together (Why Can't We Live Together)
+  - Why Can't We Live Together
+  - (Dying Inside) To Hold You - Heartbreak Radio Edit
+  - (Dying Inside) To Hold You - Heartbreak Mix
+  - I've Got to See You Tonight (You're the Song)
+  - New York Eyes
+  - Why Can't We Live Together - LNTG Rework
+  - Why Can't We Live Together
+  - Rainbow Power (Why Can't We Live Together)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7e092d19-6726-4b9a-a879-157065833481
-  spotify: https://open.spotify.com/artist/7JLwBH0X2G8tgHceqvOu5B
-  wikipedia: https://en.wikipedia.org/wiki/Timmy_Thomas
+  musicbrainz: 'https://musicbrainz.org/artist/7e092d19-6726-4b9a-a879-157065833481'
+  spotify: 'https://open.spotify.com/artist/7JLwBH0X2G8tgHceqvOu5B'
+  wikipedia: 'https://en.wikipedia.org/wiki/Timmy_Thomas'
 image_path: 03_Resources/source_material/ArtistPortraits/timmy_thomas.jpg
 biography_enhanced_at: '2025-10-24T07:52:13.356171'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://kids.kiddle.co/Timmy_Thomas
-- https://fromthevaults-boppinbob.blogspot.com/2021/11/timmy-thomas-born-13-november-1944.html
-- https://jointzoftheday.substack.com/p/timmy-thomas-born-november-13-1944-march-11-2022
-- http://www.soulwalking.co.uk/Timmy%20Thomas.html
+  - 'https://kids.kiddle.co/Timmy_Thomas'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2021/11/timmy-thomas-born-13-november-1944.html
+  - >-
+    https://jointzoftheday.substack.com/p/timmy-thomas-born-november-13-1944-march-11-2022
+  - 'http://www.soulwalking.co.uk/Timmy%20Thomas.html'
 network_extracted: true
 entry_created: '2025-10-24T07:52:13.356183'
 last_updated: '2025-12-23T08:16:17.456317'
 gender: Male
 musicbrainz_id: 7e092d19-6726-4b9a-a879-157065833481
 tags:
-- soul
+  - soul
+is_active: false
 ---
 
 ![](timmy_thomas.jpg)

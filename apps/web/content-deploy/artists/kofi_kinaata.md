@@ -1,23 +1,23 @@
 ---
-title: kofi kinaata
+title: Kofi Kinaata
 wiki_slug: kofi-kinaata
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
-birth_place: Effiakuma, Takoradi, Western Region, Ghana
+birth_place: 'Effiakuma, Takoradi, Western Region, Ghana'
 genres:
-- hiplife
-- highlife
-- azonto
-- afrobeats
-- afrobeat
-- asakaa
-- afropop
+  - hiplife
+  - highlife
+  - azonto
+  - afrobeats
+  - afrobeat
+  - asakaa
+  - afropop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/kofi_kinaata.jpg
   caption: kofi kinaata
   background: solo_singer
-  origin: Effiakuma, Takoradi, Western Region, Ghana
+  origin: 'Effiakuma, Takoradi, Western Region, Ghana'
 audio_profile:
   tempo_avg: 108.9
   energy_avg: 0.712
@@ -33,54 +33,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Castro
-  - Donzy
-  - Sarkodie
-  - Stonebwoy
-  - Shatta Wale
-  - Kwesi Arthur
+    - Castro
+    - Donzy
+    - Sarkodie
+    - Stonebwoy
+    - Shatta Wale
+    - Kwesi Arthur
   influenced:
-  - Donzy
-  - Young Fante rappers
+    - Donzy
+    - Young Fante rappers
   mentors:
-  - Samini
+    - Samini
 spotify_data:
   followers: 402371
   id: 6TQW172m1l4Tf4Hp55ZdDm
   popularity: 44
-  url: https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm
+  url: 'https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm'
 discography_enriched: true
 top_tracks:
-- Effiakuma Broken Heart
-- Things Fall Apart
-- Sweetie Pie
-- Adam and Eve
-- Auntie Ama
-- Never Again
-- Susuka
-- ChoCho Mucho
-- The Whole Show
-- Thy Grace
+  - Effiakuma Broken Heart
+  - Things Fall Apart
+  - Sweetie Pie
+  - Adam and Eve
+  - Auntie Ama
+  - Never Again
+  - Susuka
+  - ChoCho Mucho
+  - The Whole Show
+  - Thy Grace
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ff12b493-cfcb-4e18-b966-8fea341ed5f9
-  spotify: https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm
-  wikipedia: https://en.wikipedia.org/wiki/Kofi_Kinaata
+  musicbrainz: 'https://musicbrainz.org/artist/ff12b493-cfcb-4e18-b966-8fea341ed5f9'
+  spotify: 'https://open.spotify.com/artist/6TQW172m1l4Tf4Hp55ZdDm'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kofi_Kinaata'
 image_path: 03_Resources/source_material/ArtistPortraits/kofi_kinaata.jpg
 biography_enhanced_at: '2025-10-19T12:31:48.712060'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Kofi_Kinaata
-- https://www.ceek.com/kofikinaata/bio/
-- https://mdundo.com/news/26543
-- https://kontatv.com/kofi-kinaata/
+  - 'https://en.wikipedia.org/wiki/Kofi_Kinaata'
+  - 'https://www.ceek.com/kofikinaata/bio/'
+  - 'https://mdundo.com/news/26543'
+  - 'https://kontatv.com/kofi-kinaata/'
 network_extracted: true
 entry_created: '2025-10-19T12:31:48.712074'
 last_updated: '2025-12-23T08:16:11.465440'
 gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:54:06.047750'
 musicbrainz_id: ff12b493-cfcb-4e18-b966-8fea341ed5f9
-
+birth_date: '1990-04-15'
 ---
 
 ![](kofi_kinaata.jpg)

@@ -1,22 +1,22 @@
 ---
-title: Melvins
+title: The Melvins
 wiki_slug: melvins
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1983'
 genres:
-- sludge metal
-- grunge
-- stoner rock
-- doom metal
-- noise rock
-- post-grunge
+  - sludge metal
+  - grunge
+  - stoner rock
+  - doom metal
+  - noise rock
+  - post-grunge
 instruments:
-- bass
-- electric bass guitar
-- bass guitar
-- original
+  - bass
+  - electric bass guitar
+  - bass guitar
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/melvins.jpg
   caption: Melvins
@@ -37,137 +37,137 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dale Crover
-  - Steve McDonald
-  - Mike Patton
-  - Gene Simmons
-  - Tool
+    - Dale Crover
+    - Steve McDonald
+    - Mike Patton
+    - Gene Simmons
+    - Tool
   influenced:
-  - Nirvana
-  - Countless sludge metal bands
-  - Stoner rock and doom metal bands
+    - Nirvana
+    - Countless sludge metal bands
+    - Stoner rock and doom metal bands
   mentors:
-  - Black Sabbath
-  - Black Flag
-  - Jimi Hendrix
+    - Black Sabbath
+    - Black Flag
+    - Jimi Hendrix
 spotify_data:
   followers: 451655
   id: 6aVjo0xHSiuW5hkasoYSR3
   popularity: 49
-  url: https://open.spotify.com/artist/6aVjo0xHSiuW5hkasoYSR3
+  url: 'https://open.spotify.com/artist/6aVjo0xHSiuW5hkasoYSR3'
 discography_enriched: true
 top_tracks:
-- Honey Bucket (Houdini)
-- A History of Bad Men (A Senile Animal)
-- Night Goat (Houdini)
-- Goin' Blind (Houdini)
-- Hooch (Houdini)
-- A History of Bad Men (A Senile Animal)
-- Lizzy (Houdini)
-- The Bit (Stag)
-- King of Rome
-- I Fuck Around (Working with God)
+  - Honey Bucket (Houdini)
+  - A History of Bad Men (A Senile Animal)
+  - Night Goat (Houdini)
+  - Goin' Blind (Houdini)
+  - Hooch (Houdini)
+  - A History of Bad Men (A Senile Animal)
+  - Lizzy (Houdini)
+  - The Bit (Stag)
+  - King of Rome
+  - I Fuck Around (Working with God)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9ccfbc94-a4f4-42f7-b6f5-d903ab77cccb
-  spotify: https://open.spotify.com/artist/6aVjo0xHSiuW5hkasoYSR3
-  wikipedia: https://en.wikipedia.org/wiki/Melvins
+  musicbrainz: 'https://musicbrainz.org/artist/9ccfbc94-a4f4-42f7-b6f5-d903ab77cccb'
+  spotify: 'https://open.spotify.com/artist/6aVjo0xHSiuW5hkasoYSR3'
+  wikipedia: 'https://en.wikipedia.org/wiki/Melvins'
 image_path: 03_Resources/source_material/ArtistPortraits/melvins.jpg
 biography_enhanced_at: '2025-11-27T06:42:02.115755'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Melvins
-- https://consequence.net/2013/11/melvins-three-bastards-30-years/
-- https://visiblevibrations.com/the-melvins-how-they-got-their-name-and-backstory/
-- https://www.spin.com/2023/09/40-life-lessons-from-40-years-of-the-melvins/
-- https://ipecac.com/artists/melvins
+  - 'https://en.wikipedia.org/wiki/Melvins'
+  - 'https://consequence.net/2013/11/melvins-three-bastards-30-years/'
+  - >-
+    https://visiblevibrations.com/the-melvins-how-they-got-their-name-and-backstory/
+  - 'https://www.spin.com/2023/09/40-life-lessons-from-40-years-of-the-melvins/'
+  - 'https://ipecac.com/artists/melvins'
 network_extracted: true
 entry_created: '2025-11-27T06:42:02.115792'
 last_updated: '2025-12-23T08:16:12.944245'
 disambiguation: US band
 members:
-- begin: '1987'
-  end: '1991'
-  instruments:
-  - bass
-  mbid: 5a931325-c1f2-4772-840e-3141b9465793
-  name: Lori Black
-- begin: '1991'
-  end: '1992'
-  instruments:
-  - electric bass guitar
-  mbid: c0d6e5e6-4919-47c8-a966-b9bbfbaaec72
-  name: Joe Preston
-- begin: '1993'
-  end: '1993'
-  instruments:
-  - bass guitar
-  mbid: 971b4e51-2ed8-42f2-bfd6-5d0882a28715
-  name: Billy Anderson
-- begin: '1993'
-  end: '1998'
-  instruments:
-  - electric bass guitar
-  mbid: 85cf9aef-aa91-4d8a-9340-04b86ed174d6
-  name: Mark Deutrom
-- begin: '1998'
-  end: '2005'
-  instruments: []
-  mbid: 140e4f42-ff95-470b-af7b-bd4be6e96db7
-  name: Kevin Rutmanis
-- &id001
-  begin: '2006'
-  end: ''
-  instruments: []
-  mbid: 0bc59e8e-4911-4f0f-b851-3a638af30235
-  name: Jared Warren
-- &id002
-  begin: '2006'
-  end: ''
-  instruments: []
-  mbid: 3e4cad92-f9bf-4a70-8d9e-188aec7d87f2
-  name: Coady Willis
-- &id003
-  begin: '2013'
-  end: ''
-  instruments:
-  - electric bass guitar
-  mbid: e72f5512-49b1-498f-98ff-26e3e39322aa
-  name: JD Pinkus
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9b93a71b-1484-4bea-b096-f660c1161f8a
-  name: Dale Crover
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 82856c21-c448-4432-bc79-97009b7eb853
-  name: Adam Jones
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 9a911b22-f972-44ee-b2d3-d41297fe96e9
-  name: Buzz Osborne
-- begin: ''
-  end: ''
-  instruments:
-  - bass guitar
-  - original
-  mbid: 299e8c0a-63ad-4d49-b492-d3740364da84
-  name: Matt Lukin
+  - begin: '1987'
+    end: '1991'
+    instruments:
+      - bass
+    mbid: 5a931325-c1f2-4772-840e-3141b9465793
+    name: Lori Black
+  - begin: '1991'
+    end: '1992'
+    instruments:
+      - electric bass guitar
+    mbid: c0d6e5e6-4919-47c8-a966-b9bbfbaaec72
+    name: Joe Preston
+  - begin: '1993'
+    end: '1993'
+    instruments:
+      - bass guitar
+    mbid: 971b4e51-2ed8-42f2-bfd6-5d0882a28715
+    name: Billy Anderson
+  - begin: '1993'
+    end: '1998'
+    instruments:
+      - electric bass guitar
+    mbid: 85cf9aef-aa91-4d8a-9340-04b86ed174d6
+    name: Mark Deutrom
+  - begin: '1998'
+    end: '2005'
+    instruments: []
+    mbid: 140e4f42-ff95-470b-af7b-bd4be6e96db7
+    name: Kevin Rutmanis
+  - &ref_0
+    begin: '2006'
+    end: ''
+    instruments: []
+    mbid: 0bc59e8e-4911-4f0f-b851-3a638af30235
+    name: Jared Warren
+  - &ref_1
+    begin: '2006'
+    end: ''
+    instruments: []
+    mbid: 3e4cad92-f9bf-4a70-8d9e-188aec7d87f2
+    name: Coady Willis
+  - &ref_2
+    begin: '2013'
+    end: ''
+    instruments:
+      - electric bass guitar
+    mbid: e72f5512-49b1-498f-98ff-26e3e39322aa
+    name: JD Pinkus
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9b93a71b-1484-4bea-b096-f660c1161f8a
+    name: Dale Crover
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 82856c21-c448-4432-bc79-97009b7eb853
+    name: Adam Jones
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 9a911b22-f972-44ee-b2d3-d41297fe96e9
+    name: Buzz Osborne
+  - begin: ''
+    end: ''
+    instruments:
+      - bass guitar
+      - original
+    mbid: 299e8c0a-63ad-4d49-b492-d3740364da84
+    name: Matt Lukin
 musicbrainz_id: 9ccfbc94-a4f4-42f7-b6f5-d903ab77cccb
-origin: Montesano
+origin: 'Montesano, Washington, United States'
 original_members:
-- *id001
-- *id002
-- *id003
+  - *ref_0
+  - *ref_1
+  - *ref_2
 tags:
-- alternative rock
-- american
-- drone metal
-
+  - alternative rock
+  - american
+  - drone metal
 ---
 
 ![](melvins.jpg)

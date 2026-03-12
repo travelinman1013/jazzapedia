@@ -5,57 +5,57 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1915-07-01'
-birth_place: Vicksburg
+birth_place: 'Vicksburg, Mississippi, United States'
 death_date: '1992-01-29'
 genres:
-- blues
-- classic blues
+  - blues
+  - classic blues
 instruments:
-- original
-- bass
-- bass guitar
-- background vocals
-- spoken vocals
-- lead vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5562d4c9-76a3-4cc7-9523-5d4e4e702739
-  name: The Big Three Trio
-- begin: ''
-  end: ''
-  instruments:
   - original
-  mbid: 934c3b29-d0ec-4653-9e83-97d3b14088a2
-  name: The Willie Dixon Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 90c182f9-1433-4a72-b4d2-8d5d8304e112
-  name: Willie Dixon & The Big Wheels
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f0e44371-f2bd-4af8-8974-7fcdeea3c160
-  name: The Willie Dixon Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9d8d1997-f3fd-4c20-8f01-ed53df30b4f4
-  name: Nighthawks
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 58a67019-b026-4801-b761-2edfa90c6ab3
-  name: Willie Mabon and His Combo
-- begin: ''
-  end: ''
-  instruments:
   - bass
-  mbid: d47b6607-df52-45cd-8951-57c13f7343ba
-  name: Little Walter and His Jukes
+  - bass guitar
+  - background vocals
+  - spoken vocals
+  - lead vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5562d4c9-76a3-4cc7-9523-5d4e4e702739
+    name: The Big Three Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 934c3b29-d0ec-4653-9e83-97d3b14088a2
+    name: The Willie Dixon Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 90c182f9-1433-4a72-b4d2-8d5d8304e112
+    name: Willie Dixon & The Big Wheels
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f0e44371-f2bd-4af8-8974-7fcdeea3c160
+    name: The Willie Dixon Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9d8d1997-f3fd-4c20-8f01-ed53df30b4f4
+    name: Nighthawks
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 58a67019-b026-4801-b761-2edfa90c6ab3
+    name: Willie Mabon and His Combo
+  - begin: ''
+    end: ''
+    instruments:
+      - bass
+    mbid: d47b6607-df52-45cd-8951-57c13f7343ba
+    name: Little Walter and His Jukes
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/willie_dixon.jpg
   caption: Willie Dixon
@@ -78,70 +78,78 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Muddy Waters
-  - Howlin' Wolf
-  - Little Walter
-  - Chuck Berry
-  - Bo Diddley
-  - Koko Taylor
-  - Sonny Boy Williamson II
-  - Otis Rush
-  - Buddy Guy
-  - Magic Sam
-  - Big Three Trio
+    - Muddy Waters
+    - Howlin' Wolf
+    - Little Walter
+    - Chuck Berry
+    - Bo Diddley
+    - Koko Taylor
+    - Sonny Boy Williamson II
+    - Otis Rush
+    - Buddy Guy
+    - Magic Sam
+    - Big Three Trio
   influenced:
-  - The Rolling Stones
-  - Led Zeppelin
-  - Cream
-  - The Doors
-  - Jimi Hendrix
-  - Elvis Presley
-  - Jeff Beck Group
+    - The Rolling Stones
+    - Led Zeppelin
+    - Cream
+    - The Doors
+    - Jimi Hendrix
+    - Elvis Presley
+    - Jeff Beck Group
   mentors:
-  - Theo Phelps
-  - Eurreal 'Little Brother' Montgomery
+    - Theo Phelps
+    - Eurreal 'Little Brother' Montgomery
 spotify_data:
   followers: 163873
   id: 5v8WPpMk60cqZbuZLdXjKY
   popularity: 36
-  url: https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY
+  url: 'https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY'
 discography_enriched: true
 top_tracks:
-- I Can't Quit You Baby (Poet Of the Blues (Mojo Workin'- Blues For The Next Generation))
-- Spoonful (The Blues History - Willie Dixon)
-- Little Red Rooster (Poet Of the Blues (Mojo Workin'- Blues For The Next Generation))
-- I Can't Quit You, Baby (I Am The Blues)
-- Spoonful (Poet Of the Blues (Mojo Workin'- Blues For The Next Generation))
-- Back Door Man (Poet Of the Blues (Mojo Workin'- Blues For The Next Generation))
-- Insane Asylum - Single Version (Koko Taylor)
-- The Little Red Rooster (I Am The Blues)
-- Sittin' And Cryin' The Blues (Willie's Blues)
-- You Shook Me (I Am The Blues)
+  - >-
+    I Can't Quit You Baby (Poet Of the Blues (Mojo Workin'- Blues For The Next
+    Generation))
+  - Spoonful (The Blues History - Willie Dixon)
+  - >-
+    Little Red Rooster (Poet Of the Blues (Mojo Workin'- Blues For The Next
+    Generation))
+  - 'I Can''t Quit You, Baby (I Am The Blues)'
+  - Spoonful (Poet Of the Blues (Mojo Workin'- Blues For The Next Generation))
+  - >-
+    Back Door Man (Poet Of the Blues (Mojo Workin'- Blues For The Next
+    Generation))
+  - Insane Asylum - Single Version (Koko Taylor)
+  - The Little Red Rooster (I Am The Blues)
+  - Sittin' And Cryin' The Blues (Willie's Blues)
+  - You Shook Me (I Am The Blues)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ff4c8d42-4871-4778-885b-d41b01245133
-  spotify: https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY
-  wikipedia: https://en.wikipedia.org/wiki/Willie_Dixon
+  musicbrainz: 'https://musicbrainz.org/artist/ff4c8d42-4871-4778-885b-d41b01245133'
+  spotify: 'https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY'
+  wikipedia: 'https://en.wikipedia.org/wiki/Willie_Dixon'
 image_path: 03_Resources/source_material/ArtistPortraits/willie_dixon.jpg
 biography_enhanced_at: '2025-12-04T07:26:32.009407'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Willie Dixon
-- EBSCO Research Starters - Willie Dixon
-- Mississippi Blues Trail - Willie Dixon
-- Britannica - Willie Dixon
-- Willie Dixon Official Website
-- Rock and Roll Hall of Fame - Willie Dixon
-- BlackPast.org - William James Dixon
+  - Wikipedia - Willie Dixon
+  - EBSCO Research Starters - Willie Dixon
+  - Mississippi Blues Trail - Willie Dixon
+  - Britannica - Willie Dixon
+  - Willie Dixon Official Website
+  - Rock and Roll Hall of Fame - Willie Dixon
+  - BlackPast.org - William James Dixon
 network_extracted: true
 entry_created: '2025-12-04T07:26:32.009419'
 last_updated: '2025-12-23T08:16:18.179709'
 gender: Male
 musicbrainz_id: ff4c8d42-4871-4778-885b-d41b01245133
 tags:
-- 2008 universal fire victim
-- blues
-- chicago blues
+  - 2008 universal fire victim
+  - blues
+  - chicago blues
+is_active: false
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](willie_dixon.jpg)

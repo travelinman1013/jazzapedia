@@ -1,59 +1,64 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d88fe11f-4951-4dcb-a68d-c8604a081bae
-  name: Eddy Duchin & His Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d88fe11f-4951-4dcb-a68d-c8604a081bae
+    name: Eddy Duchin & His Orchestra
 biography_enhanced_at: '2026-01-12T01:54:18.435004'
 birth_date: '1909-04-01'
-birth_place: Cambridge
+birth_place: 'Cambridge, Massachusetts, United States'
 death_date: '1951-02-09'
 enhancement_provider: perplexity
 entry_created: '2026-01-12T01:54:18.435009'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/45eaadf7-39de-48c6-a469-c8001c901164
-  spotify: https://open.spotify.com/artist/4NMlon6w1HmlQGMjxUlOT2
-  wikipedia: https://en.wikipedia.org/wiki/Eddy_Duchin
+  musicbrainz: 'https://musicbrainz.org/artist/45eaadf7-39de-48c6-a469-c8001c901164'
+  spotify: 'https://open.spotify.com/artist/4NMlon6w1HmlQGMjxUlOT2'
+  wikipedia: 'https://en.wikipedia.org/wiki/Eddy_Duchin'
 gender: Male
 genres:
-- big band
+  - big band
 image_path: 03_Resources/source_material/ArtistPortraits/eddy_duchin.jpg
 instruments:
-- piano
+  - piano
 last_updated: '2026-01-12T01:54:18.435010'
 musical_connections:
   collaborators:
-  - Leo Reisman Orchestra / Central Park Casino Orchestra
-  - Lew Sherwood
+    - Leo Reisman Orchestra / Central Park Casino Orchestra
+    - Lew Sherwood
   influenced:
-  - Carmen Cavallaro
-  - Liberace
-  - Henry King, Joe Reichman, Nat Brandwynne, Dick Gasparre, Little Jack Little
+    - Carmen Cavallaro
+    - Liberace
+    - >-
+      Henry King, Joe Reichman, Nat Brandwynne, Dick Gasparre, Little Jack
+      Little
   mentors:
-  - Leo Reisman
+    - Leo Reisman
 musicbrainz_id: 45eaadf7-39de-48c6-a469-c8001c901164
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Eddy_Duchin
-- https://rsa.fau.edu/eddy-duchin
-- https://fromthevaults-boppinbob.blogspot.com/2019/04/eddy-duchin-born-4-april-1900.html
-- https://sentirelblues.blogspot.com/2021/04/eddy-duchin.html
-- https://jewishcurrents.org/feb-9-eddy-duchins-sweet-music
-- https://adp.library.ucsb.edu/index.php/mastertalent/detail/104863/Duchin_Eddy
-- https://www.allaboutjazz.com/musicians/eddy-duchin/
-- https://geezermusicclub.com/2010/10/31/the-real-eddy-duchin-story/
+  - 'https://en.wikipedia.org/wiki/Eddy_Duchin'
+  - 'https://rsa.fau.edu/eddy-duchin'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2019/04/eddy-duchin-born-4-april-1900.html
+  - 'https://sentirelblues.blogspot.com/2021/04/eddy-duchin.html'
+  - 'https://jewishcurrents.org/feb-9-eddy-duchins-sweet-music'
+  - >-
+    https://adp.library.ucsb.edu/index.php/mastertalent/detail/104863/Duchin_Eddy
+  - 'https://www.allaboutjazz.com/musicians/eddy-duchin/'
+  - 'https://geezermusicclub.com/2010/10/31/the-real-eddy-duchin-story/'
 spotify_data:
   followers: 2082
   id: 4NMlon6w1HmlQGMjxUlOT2
   popularity: 22
-  url: https://open.spotify.com/artist/4NMlon6w1HmlQGMjxUlOT2
+  url: 'https://open.spotify.com/artist/4NMlon6w1HmlQGMjxUlOT2'
 status: active
 tags:
-- jazz
+  - jazz
 title: Eddy Duchin
+is_active: false
 ---
 2026-01-22 05:54:58.051 | 2026-01-22 05:54:58 [INFO] Artist Discovery Service initialized.
 2026-01-22 05:54:58.051 | 2026-01-22 05:54:58 [INFO] Playlist Archiver initialized.

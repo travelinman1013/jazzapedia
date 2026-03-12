@@ -4,9 +4,10 @@ wiki_slug: johnny-sketch-the-dirty-notes
 schema_version: 2
 status: active
 genres:
-- cajun
+  - cajun
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/johnny_sketch_and_the_dirty_notes.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/johnny_sketch_and_the_dirty_notes.jpg
   caption: Johnny Sketch & The Dirty Notes
   background: solo_singer
 audio_profile:
@@ -24,48 +25,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dave Pomerleau (Busta Gnutt)
-  - Andre Bohren (Dirty Johnny)
-  - Omar Ramirez (Johnny Rico)
-  - Sage Newell (Sage Rouge)
-  - Josh Paxton
-  - Rory Danger and the Danger Dangers
-  - ABBA Cover Band (unspecified name)
+    - Dave Pomerleau (Busta Gnutt)
+    - Andre Bohren (Dirty Johnny)
+    - Omar Ramirez (Johnny Rico)
+    - Sage Newell (Sage Rouge)
+    - Josh Paxton
+    - Rory Danger and the Danger Dangers
+    - ABBA Cover Band (unspecified name)
   influenced: []
   mentors:
-  - Classical Music Teachers (unspecified)
+    - Classical Music Teachers (unspecified)
 spotify_data:
   followers: 2667
   id: 4euiFJVFE4gijlrQl4b7DF
   popularity: 5
-  url: https://open.spotify.com/artist/4euiFJVFE4gijlrQl4b7DF
+  url: 'https://open.spotify.com/artist/4euiFJVFE4gijlrQl4b7DF'
 discography_enriched: true
 top_tracks:
-- New Dixieland (The Big Awesome)
-- Going On (Sketch)
-- Why Try (Sketch)
-- Vieux Caribe (Sketch)
-- Cora Lee (The Big Awesome)
-- Club Fabulous (2,000 Days)
-- Stop It (Sketch)
-- Night Man (Sketch)
-- Do You No Good (Sketch)
-- Break Me (2,000 Days)
+  - New Dixieland (The Big Awesome)
+  - Going On (Sketch)
+  - Why Try (Sketch)
+  - Vieux Caribe (Sketch)
+  - Cora Lee (The Big Awesome)
+  - 'Club Fabulous (2,000 Days)'
+  - Stop It (Sketch)
+  - Night Man (Sketch)
+  - Do You No Good (Sketch)
+  - 'Break Me (2,000 Days)'
 external_urls:
-  spotify: https://open.spotify.com/artist/4euiFJVFE4gijlrQl4b7DF
+  spotify: 'https://open.spotify.com/artist/4euiFJVFE4gijlrQl4b7DF'
   wikipedia: null
-image_path: 03_Resources/source_material/ArtistPortraits/johnny_sketch_and_the_dirty_notes.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/johnny_sketch_and_the_dirty_notes.jpg
 biography_enhanced_at: '2025-10-23T07:26:31.149076'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.johnnysketch.com/bio
-- https://www.johnnysketch.com/about
-- https://www.btdfoundation.org/johnny-sketch-and-the-dirty-notes/
+  - 'https://www.johnnysketch.com/bio'
+  - 'https://www.johnnysketch.com/about'
+  - 'https://www.btdfoundation.org/johnny-sketch-and-the-dirty-notes/'
 network_extracted: true
 entry_created: '2025-10-23T07:26:31.149091'
 last_updated: '2025-12-23T08:16:02.694041'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![](johnny_sketch_and_the_dirty_notes.jpg)

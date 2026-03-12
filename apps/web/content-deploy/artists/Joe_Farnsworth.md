@@ -3,14 +3,14 @@ title: Joe Farnsworth
 wiki_slug: joe-farnsworth
 schema_version: 2
 status: active
-birth_place: South Hadley, Massachusetts, USA
+birth_place: 'South Hadley, Massachusetts, USA'
 genres:
-- jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/joe_farnsworth.jpg
   caption: Joe Farnsworth
   background: solo_singer
-  origin: South Hadley, Massachusetts, USA
+  origin: 'South Hadley, Massachusetts, USA'
 audio_profile:
   tempo_avg: 113.1
   energy_avg: 0.315
@@ -26,51 +26,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Eric Alexander
-  - Harold Mabern
-  - Pharoah Sanders
-  - Cedar Walton
-  - Diana Krall
-  - One for All Quintet
+    - Eric Alexander
+    - Harold Mabern
+    - Pharoah Sanders
+    - Cedar Walton
+    - Diana Krall
+    - One for All Quintet
   influenced:
-  - Younger jazz drummers and students
+    - Younger jazz drummers and students
   mentors:
-  - Alan Dawson
-  - Arthur Taylor
-  - Harold Mabern
+    - Alan Dawson
+    - Arthur Taylor
+    - Harold Mabern
 spotify_data:
   followers: 3640
   id: 42ICgxJl0MTeVV8IeFGuP4
   popularity: 34
-  url: https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4
+  url: 'https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4'
 discography_enriched: true
 top_tracks:
-- Moonlight in Vermont (City of Sounds)
-- Ojos Cariñosos (City of Sounds)
-- Softly, as in a Morning Sunrise (City of Sounds)
-- 'Daily Battles (feat. Joe Farnsworth, Russell Hall, Isaiah J. Thompson & Jerry Weldon) - Jazz Arrangement (Daily Battles
-  (From Motherless Brooklyn: Original Motion Picture Soundtrack))'
-- Composition 4
-- Dear Ruth (I Remember Cedar)
-- Blues For Gilad (Brian Lynch Meets Bill Charlap)
-- You Don't Know What Love Is (Close To You)
-- City of Sounds (City of Sounds)
-- Daily Battles (feat. Joe Farnsworth, Russell Hall, Isaiah J. Thompson & Jerry Weldon) - Jazz Arrangement
+  - Moonlight in Vermont (City of Sounds)
+  - Ojos Cariñosos (City of Sounds)
+  - 'Softly, as in a Morning Sunrise (City of Sounds)'
+  - >-
+    Daily Battles (feat. Joe Farnsworth, Russell Hall, Isaiah J. Thompson &
+    Jerry Weldon) - Jazz Arrangement (Daily Battles (From Motherless Brooklyn:
+    Original Motion Picture Soundtrack))
+  - Composition 4
+  - Dear Ruth (I Remember Cedar)
+  - Blues For Gilad (Brian Lynch Meets Bill Charlap)
+  - You Don't Know What Love Is (Close To You)
+  - City of Sounds (City of Sounds)
+  - >-
+    Daily Battles (feat. Joe Farnsworth, Russell Hall, Isaiah J. Thompson &
+    Jerry Weldon) - Jazz Arrangement
 external_urls:
-  spotify: https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4
-  wikipedia: https://en.wikipedia.org/wiki/Joe_Farnsworth
+  spotify: 'https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4'
+  wikipedia: 'https://en.wikipedia.org/wiki/Joe_Farnsworth'
 image_path: 03_Resources/source_material/ArtistPortraits/joe_farnsworth.jpg
 biography_enhanced_at: '2025-10-25T09:49:35.916000'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.joefarnsworthdrums.com/bio
-- https://en.wikipedia.org/wiki/Joe_Farnsworth
-- https://www.allaboutjazz.com/musicians/joe-farnsworth/
-- https://www.liveatthefalcon.com/shows/joe-farnsworth-2
+  - 'https://www.joefarnsworthdrums.com/bio'
+  - 'https://en.wikipedia.org/wiki/Joe_Farnsworth'
+  - 'https://www.allaboutjazz.com/musicians/joe-farnsworth/'
+  - 'https://www.liveatthefalcon.com/shows/joe-farnsworth-2'
 network_extracted: true
 entry_created: '2025-10-25T09:49:35.916020'
 last_updated: '2025-12-23T08:16:02.576842'
+birth_date: '1968-02-21'
+artist_type: band
 ---
 
 ![](joe_farnsworth.jpg)

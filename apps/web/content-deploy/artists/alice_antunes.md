@@ -29,15 +29,15 @@ spotify_data:
   followers: 73
   id: 1wVMDVLgcYmSXUF4qFxlgh
   popularity: 0
-  url: https://open.spotify.com/artist/1wVMDVLgcYmSXUF4qFxlgh
+  url: 'https://open.spotify.com/artist/1wVMDVLgcYmSXUF4qFxlgh'
 discography_enriched: true
 top_tracks:
-- Sweet Child O'mine (Meu Amanhã)
-- Das Duas, Uma (Das Duas, Uma)
-- Batucada na Favela (Batucada na Favela)
-- Dezembro (Dezembro)
+  - Sweet Child O'mine (Meu Amanhã)
+  - 'Das Duas, Uma (Das Duas, Uma)'
+  - Batucada na Favela (Batucada na Favela)
+  - Dezembro (Dezembro)
 external_urls:
-  spotify: https://open.spotify.com/artist/1wVMDVLgcYmSXUF4qFxlgh
+  spotify: 'https://open.spotify.com/artist/1wVMDVLgcYmSXUF4qFxlgh'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/alice_antunes.jpg
 biography_enhanced_at: '2025-12-07T04:45:50.702529'
@@ -47,6 +47,7 @@ research_sources: []
 network_extracted: true
 entry_created: '2025-12-07T04:45:50.702546'
 last_updated: '2025-12-23T08:16:04.573266'
+artist_type: person
 ---
 
 ![](alice_antunes.jpg)

@@ -1,56 +1,58 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '1961'
-  end: ''
-  instruments: []
-  mbid: c4944d00-5c92-4345-a838-e611bc023b6e
-  name: S & H Scamps
+  - begin: '1961'
+    end: ''
+    instruments: []
+    mbid: c4944d00-5c92-4345-a838-e611bc023b6e
+    name: S & H Scamps
 biography_enhanced_at: '2026-01-01T01:08:29.879646'
 birth_date: '1929-07-09'
-birth_place: Mannford
+birth_place: 'Mannford, Oklahoma, United States'
 death_date: '2007-08-04'
 enhancement_provider: perplexity
 entry_created: '2026-01-01T01:08:29.879667'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/56d9908f-548e-40c1-837f-cd006d79d3a0
-  spotify: https://open.spotify.com/artist/2aVHDjRHRM7dcFkGwahXLG
-  wikipedia: https://en.wikipedia.org/wiki/Lee_Hazlewood
+  musicbrainz: 'https://musicbrainz.org/artist/56d9908f-548e-40c1-837f-cd006d79d3a0'
+  spotify: 'https://open.spotify.com/artist/2aVHDjRHRM7dcFkGwahXLG'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lee_Hazlewood'
 gender: Male
 genres:
-- baroque pop
+  - baroque pop
 image_path: 03_Resources/source_material/ArtistPortraits/lee_hazlewood.jpg
 last_updated: '2026-01-01T01:08:29.879669'
 musical_connections:
   collaborators:
-  - Duane Eddy
-  - Nancy Sinatra
-  - Billy Strange
-  - Sanford Clark
-  - Al Casey
-  - Lester Sill
+    - Duane Eddy
+    - Nancy Sinatra
+    - Billy Strange
+    - Sanford Clark
+    - Al Casey
+    - Lester Sill
   influenced:
-  - Phil Spector
-  - Jack Nitzsche
+    - Phil Spector
+    - Jack Nitzsche
   mentors:
-  - Hubert Sumlin
+    - Hubert Sumlin
 musicbrainz_id: 56d9908f-548e-40c1-837f-cd006d79d3a0
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Lee_Hazlewood
-- https://acerecords.co.uk/features/artist-profiles/lee-hazlewood
-- http://leehazlewood.free.fr/?Page=Biography
-- https://www.latimes.com/archives/la-xpm-2007-jan-21-ca-hazlewood21-story.html
+  - 'https://en.wikipedia.org/wiki/Lee_Hazlewood'
+  - 'https://acerecords.co.uk/features/artist-profiles/lee-hazlewood'
+  - 'http://leehazlewood.free.fr/?Page=Biography'
+  - >-
+    https://www.latimes.com/archives/la-xpm-2007-jan-21-ca-hazlewood21-story.html
 spotify_data:
   followers: 83932
   id: 2aVHDjRHRM7dcFkGwahXLG
   popularity: 50
-  url: https://open.spotify.com/artist/2aVHDjRHRM7dcFkGwahXLG
+  url: 'https://open.spotify.com/artist/2aVHDjRHRM7dcFkGwahXLG'
 status: active
 tags:
-- country
+  - country
 title: Lee Hazlewood
+is_active: false
 ---
 
 ![](lee_hazlewood.jpg)

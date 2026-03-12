@@ -2,10 +2,10 @@
 title: Say She She
 wiki_slug: say-she-she
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- retro soul
+  - retro soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/say_she_she.jpg
   caption: Say She She
@@ -25,63 +25,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Orgōne
-  - The Dap-Kings
-  - Chicano Batman
-  - Thee Sacred Souls
+    - Orgōne
+    - The Dap-Kings
+    - Chicano Batman
+    - Thee Sacred Souls
   influenced:
-  - Lambrini Girls
+    - Lambrini Girls
   mentors:
-  - Nile Rodgers
-  - Minnie Riperton
+    - Nile Rodgers
+    - Minnie Riperton
 spotify_data:
   followers: 81932
   id: 1WGb8nCPGJA0RyriSDIQfC
   popularity: 47
-  url: https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC
+  url: 'https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC'
 discography_enriched: true
 top_tracks:
-- Prism (Prism)
-- Forget Me Not (Silver)
-- Trouble (Trouble / In My Head)
-- Astral Plane (Silver)
-- Fortune Teller (Prism)
-- Need You Again (feat. Say She She) (Return To Zero)
-- Broken Glass (feat. Say She She) (Return To Zero)
-- Broken Glass (feat. Say She She) (Broken Glass)
-- Don’t Wait (feat. Say She She) (Return To Zero)
-- Broken Glass (Return To Zero)
+  - Prism (Prism)
+  - Forget Me Not (Silver)
+  - Trouble (Trouble / In My Head)
+  - Astral Plane (Silver)
+  - Fortune Teller (Prism)
+  - Need You Again (feat. Say She She) (Return To Zero)
+  - Broken Glass (feat. Say She She) (Return To Zero)
+  - Broken Glass (feat. Say She She) (Broken Glass)
+  - Don’t Wait (feat. Say She She) (Return To Zero)
+  - Broken Glass (Return To Zero)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/64dad611-8ada-4696-ac5f-ecb8bf73d51b
-  spotify: https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC
-  wikipedia: https://en.wikipedia.org/wiki/Say_She_She
+  musicbrainz: 'https://musicbrainz.org/artist/64dad611-8ada-4696-ac5f-ecb8bf73d51b'
+  spotify: 'https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC'
+  wikipedia: 'https://en.wikipedia.org/wiki/Say_She_She'
 image_path: 03_Resources/source_material/ArtistPortraits/say_she_she.jpg
 biography_enhanced_at: '2025-11-05T12:44:27.856865'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Say_She_She
-- https://bristolbeacon.org/blog/spotlight-on-say-she-she/
-- https://www.bkmag.com/2023/11/20/say-she-she-2/
-- https://www.saysheshe.com/bio
-- https://femmusic.com/2025/09/03/say-she-she-disco-life/
-- https://wfuv.org/content/say-she-she-qa
-- https://www.hollywoodbowl.com/musicdb/artists/8751/say-she-she
+  - 'https://en.wikipedia.org/wiki/Say_She_She'
+  - 'https://bristolbeacon.org/blog/spotlight-on-say-she-she/'
+  - 'https://www.bkmag.com/2023/11/20/say-she-she-2/'
+  - 'https://www.saysheshe.com/bio'
+  - 'https://femmusic.com/2025/09/03/say-she-she-disco-life/'
+  - 'https://wfuv.org/content/say-she-she-qa'
+  - 'https://www.hollywoodbowl.com/musicdb/artists/8751/say-she-she'
 network_extracted: true
 entry_created: '2025-11-05T12:44:27.856885'
 last_updated: '2025-12-23T08:16:15.414452'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 902037e5-5102-4e0d-956c-fbac7ac5d9f9
-  name: Piya Malik
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 902037e5-5102-4e0d-956c-fbac7ac5d9f9
+    name: Piya Malik
 musicbrainz_id: 64dad611-8ada-4696-ac5f-ecb8bf73d51b
-origin: Brooklyn
+origin: 'Brooklyn, New York, United States'
 tags:
-- disco
-- funk
-- soul
+  - disco
+  - funk
+  - soul
 ---
 
 ![](say_she_she.jpg)

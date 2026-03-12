@@ -3,17 +3,17 @@ title: Barney Kessell
 wiki_slug: barney-kessell
 schema_version: 2
 status: active
-birth_place: Muskogee, Oklahoma, United States
+birth_place: 'Muskogee, Oklahoma, United States'
 genres:
-- cool jazz
-- bebop
-- jazz
-- hard bop
+  - cool jazz
+  - bebop
+  - jazz
+  - hard bop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/barney_kessell.jpg
   caption: Barney Kessell
   background: solo_singer
-  origin: Muskogee, Oklahoma, United States
+  origin: 'Muskogee, Oklahoma, United States'
 audio_profile:
   tempo_avg: 102.7
   energy_avg: 0.163
@@ -29,51 +29,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Oscar Peterson
-  - Ray Brown
-  - Shelly Manne
-  - Herb Ellis
-  - Charlie Byrd
-  - The Wrecking Crew
+    - Oscar Peterson
+    - Ray Brown
+    - Shelly Manne
+    - Herb Ellis
+    - Charlie Byrd
+    - The Wrecking Crew
   influenced:
-  - Phil Spector
-  - Larry Coryell
-  - Countless jazz guitarists
+    - Phil Spector
+    - Larry Coryell
+    - Countless jazz guitarists
   mentors:
-  - Charlie Christian
+    - Charlie Christian
 spotify_data:
   followers: 38671
   id: 6pVkGhtBvjj1P52yn0tNLG
   popularity: 38
-  url: https://open.spotify.com/artist/6pVkGhtBvjj1P52yn0tNLG
+  url: 'https://open.spotify.com/artist/6pVkGhtBvjj1P52yn0tNLG'
 discography_enriched: true
 top_tracks:
-- Custard Puff (The Poll Winners Ride Again!)
-- A Foggy Day (Kessel Plays Standards)
-- Lison
-- Custard Puff (The Poll Winners Ride Again!)
-- Love Is Here To Stay (Kessel Plays Standards)
-- Moon River Cha Cha (Breakfast At Tiffany's)
-- On Green Dolphin Street (The Poll Winners)
-- The Look Of Love (Blue Guitar)
-- Jordu (The Poll Winners)
-- Satin Doll (The Poll Winners)
+  - Custard Puff (The Poll Winners Ride Again!)
+  - A Foggy Day (Kessel Plays Standards)
+  - Lison
+  - Custard Puff (The Poll Winners Ride Again!)
+  - Love Is Here To Stay (Kessel Plays Standards)
+  - Moon River Cha Cha (Breakfast At Tiffany's)
+  - On Green Dolphin Street (The Poll Winners)
+  - The Look Of Love (Blue Guitar)
+  - Jordu (The Poll Winners)
+  - Satin Doll (The Poll Winners)
 external_urls:
-  spotify: https://open.spotify.com/artist/6pVkGhtBvjj1P52yn0tNLG
-  wikipedia: https://en.wikipedia.org/wiki/Barney_Kessel
+  spotify: 'https://open.spotify.com/artist/6pVkGhtBvjj1P52yn0tNLG'
+  wikipedia: 'https://en.wikipedia.org/wiki/Barney_Kessel'
 image_path: 03_Resources/source_material/ArtistPortraits/barney_kessell.jpg
 biography_enhanced_at: '2025-11-17T10:52:45.615417'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://sandiegotroubadour.com/barney-kessel-a-jazz-guitar-legend-in-his-own-right/
-- https://exhibits.library.umkc.edu/s/kessel/page/about
-- https://www.okhistory.org/publications/enc/entry?entry=KE012
-- https://concord.com/artist/barney-kessel/
-- https://en.wikipedia.org/wiki/Barney_Kessel
+  - >-
+    https://sandiegotroubadour.com/barney-kessel-a-jazz-guitar-legend-in-his-own-right/
+  - 'https://exhibits.library.umkc.edu/s/kessel/page/about'
+  - 'https://www.okhistory.org/publications/enc/entry?entry=KE012'
+  - 'https://concord.com/artist/barney-kessel/'
+  - 'https://en.wikipedia.org/wiki/Barney_Kessel'
 network_extracted: true
 entry_created: '2025-11-17T10:52:45.615428'
 last_updated: '2025-12-23T08:16:05.117702'
+artist_type: person
 ---
 
 ![](barney_kessell.jpg)

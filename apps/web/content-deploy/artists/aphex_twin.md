@@ -5,11 +5,11 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1971-08-18'
-birth_place: Limerick
+birth_place: 'Limerick, Ireland, United Kingdom'
 genres:
-- idm
-- ambient
-- electronica
+  - idm
+  - ambient
+  - electronica
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/aphex_twin.jpg
   caption: Aphex Twin
@@ -31,51 +31,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Grant Wilson-Claridge
-  - Tom Middleton
-  - Chris Cunningham
+    - Grant Wilson-Claridge
+    - Tom Middleton
+    - Chris Cunningham
   influenced:
-  - Autechre
+    - Autechre
   mentors:
-  - BBC Radiophonic Workshop
+    - BBC Radiophonic Workshop
 spotify_data:
   followers: 1852977
   id: 6kBDZFXuLrZgHnvmPu9NsG
   popularity: 67
-  url: https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG
+  url: 'https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG'
 discography_enriched: true
 top_tracks:
-- QKThr (Drukqs)
-- Xtal (Selected Ambient Works 85-92)
-- '#3 (Selected Ambient Works Volume II)'
-- Avril 14th (Drukqs)
-- Flim (Come To Daddy)
-- aisatsana [102] (Syro)
-- Pulsewidth (Selected Ambient Works 85-92)
-- Ageispolis (Selected Ambient Works 85-92)
-- Alberto Balsalm (...I Care Because You Do)
-- 180db_ [130] (Syro)
+  - QKThr (Drukqs)
+  - Xtal (Selected Ambient Works 85-92)
+  - '#3 (Selected Ambient Works Volume II)'
+  - Avril 14th (Drukqs)
+  - Flim (Come To Daddy)
+  - 'aisatsana [102] (Syro)'
+  - Pulsewidth (Selected Ambient Works 85-92)
+  - Ageispolis (Selected Ambient Works 85-92)
+  - Alberto Balsalm (...I Care Because You Do)
+  - '180db_ [130] (Syro)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f22942a1-6f70-4f48-866e-238cb2308fbd
-  spotify: https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG
-  wikipedia: https://en.wikipedia.org/wiki/Aphex_Twin
+  musicbrainz: 'https://musicbrainz.org/artist/f22942a1-6f70-4f48-866e-238cb2308fbd'
+  spotify: 'https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG'
+  wikipedia: 'https://en.wikipedia.org/wiki/Aphex_Twin'
 image_path: 03_Resources/source_material/ArtistPortraits/aphex_twin.jpg
 biography_enhanced_at: '2025-12-23T01:58:09.355495'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Aphex_Twin [3]
-- https://www.last.fm/music/Aphex+Twin/+wiki [2]
-- http://www.aphextwin.nu/learn/9812915742512.shtml [1]
+  - 'https://en.wikipedia.org/wiki/Aphex_Twin [3]'
+  - 'https://www.last.fm/music/Aphex+Twin/+wiki [2]'
+  - 'http://www.aphextwin.nu/learn/9812915742512.shtml [1]'
 network_extracted: true
 entry_created: '2025-12-23T01:58:09.355506'
 last_updated: '2025-12-23T08:16:04.861785'
 gender: Male
 musicbrainz_id: f22942a1-6f70-4f48-866e-238cb2308fbd
 tags:
-- acid breaks
-- acid techno
-- ambient
+  - acid breaks
+  - acid techno
+  - ambient
+origin: 'Cornwall, England, United Kingdom'
 ---
 
 ![](aphex_twin.jpg)

@@ -5,21 +5,21 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1942-10-26'
-birth_place: Rio de Janeiro
+birth_place: 'Rio de Janeiro, Rio de Janeiro, Brazil'
 genres:
-- mpb
-- bossa nova
-- brazilian jazz
+  - mpb
+  - bossa nova
+  - brazilian jazz
 instruments:
-- acoustic guitar
-- piano
-- guitar
-- classical guitar
-- lead vocals
-- countertenor vocals
-- other vocals
-- background vocals
-- spoken vocals
+  - acoustic guitar
+  - piano
+  - guitar
+  - classical guitar
+  - lead vocals
+  - countertenor vocals
+  - other vocals
+  - background vocals
+  - spoken vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/milton_nascimento.jpg
   caption: Milton Nascimento
@@ -41,53 +41,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Elis Regina
-  - Wayne Shorter
-  - Paul Simon
-  - Lô Borges
+    - Elis Regina
+    - Wayne Shorter
+    - Paul Simon
+    - Lô Borges
   influenced:
-  - Björk
-  - Pat Metheny
+    - Björk
+    - Pat Metheny
   mentors:
-  - Lília Silva Campos
+    - Lília Silva Campos
 spotify_data:
   followers: 1145755
   id: 3Bnq7jiU506HcPjRgQ43TM
   popularity: 60
-  url: https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM
+  url: 'https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM'
 discography_enriched: true
 top_tracks:
-- Ninguém Vai Tirar Minha Paz (Diamantes, Lágrimas e Rostos para Esquecer)
-- Quem Sabe Isso Quer Dizer Amor (Pietá)
-- DEMORO A DORMIR (Quanto Mais Eu Como, Mais Fome Eu Sinto !)
-- Cálice (Chico Buarque)
-- O Que Será (A Flor Da Terra) (Meus Caros Amigos)
-- Tudo O Que Você Podia Ser (Clube Da Esquina)
-- Maria Maria (Clube Da Esquina 2)
-- Clube Da Esquina Nº2 - Acústico
-- Mais Bonito Não Há
-- Cantar Será Buscar o Caminho Que Vai Dar no Sol – Uma Homenagem a Milton Nascimento (Sambas de Enredo Rio Carnaval 2025)
+  - 'Ninguém Vai Tirar Minha Paz (Diamantes, Lágrimas e Rostos para Esquecer)'
+  - Quem Sabe Isso Quer Dizer Amor (Pietá)
+  - 'DEMORO A DORMIR (Quanto Mais Eu Como, Mais Fome Eu Sinto !)'
+  - Cálice (Chico Buarque)
+  - O Que Será (A Flor Da Terra) (Meus Caros Amigos)
+  - Tudo O Que Você Podia Ser (Clube Da Esquina)
+  - Maria Maria (Clube Da Esquina 2)
+  - Clube Da Esquina Nº2 - Acústico
+  - Mais Bonito Não Há
+  - >-
+    Cantar Será Buscar o Caminho Que Vai Dar no Sol – Uma Homenagem a Milton
+    Nascimento (Sambas de Enredo Rio Carnaval 2025)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1bfa27e3-0376-4206-a772-4586e25a64f5
-  spotify: https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM
-  wikipedia: https://en.wikipedia.org/wiki/Milton_Nascimento
+  musicbrainz: 'https://musicbrainz.org/artist/1bfa27e3-0376-4206-a772-4586e25a64f5'
+  spotify: 'https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM'
+  wikipedia: 'https://en.wikipedia.org/wiki/Milton_Nascimento'
 image_path: 03_Resources/source_material/ArtistPortraits/milton_nascimento.jpg
 biography_enhanced_at: '2025-10-26T12:31:04.728140'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.faroutrecordings.com/artist/398838-milton-nascimento?lang=hu
-- https://www.bluenote.com/artist/milton-nascimento/
-- https://www.latinolife.co.uk/articles/milton-nascimentos-fantasy-island-tracks
+  - 'https://www.faroutrecordings.com/artist/398838-milton-nascimento?lang=hu'
+  - 'https://www.bluenote.com/artist/milton-nascimento/'
+  - >-
+    https://www.latinolife.co.uk/articles/milton-nascimentos-fantasy-island-tracks
 network_extracted: true
 entry_created: '2025-10-26T12:31:04.728150'
 last_updated: '2025-12-23T08:16:13.172437'
 gender: Male
 musicbrainz_id: 1bfa27e3-0376-4206-a772-4586e25a64f5
 tags:
-- 2008 universal fire victim
-- brazil
-- clube da esquina
+  - 2008 universal fire victim
+  - brazil
+  - clube da esquina
+origin: 'Belo Horizonte, Minas Gerais, Brazil'
 ---
 
 ![](milton_nascimento.jpg)

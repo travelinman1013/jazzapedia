@@ -23,54 +23,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Danny Hutton
-  - Cory Wells
-  - Chuck Negron
-  - Jimmy Greenspoon
-  - Joe Schermie
-  - Michael Allsup
-  - Floyd Sneed
-  - Gabriel Mekler
-  - Songwriters Paul Williams, Hoyt Axton, Russ Ballard, Leo Sayer
+    - Danny Hutton
+    - Cory Wells
+    - Chuck Negron
+    - Jimmy Greenspoon
+    - Joe Schermie
+    - Michael Allsup
+    - Floyd Sneed
+    - Gabriel Mekler
+    - 'Songwriters Paul Williams, Hoyt Axton, Russ Ballard, Leo Sayer'
   influenced:
-  - Songwriters such as Paul Williams and Hoyt Axton
-  - Later pop‑rock and soft‑rock vocal groups
+    - Songwriters such as Paul Williams and Hoyt Axton
+    - Later pop‑rock and soft‑rock vocal groups
   mentors:
-  - Brian Wilson
-  - Doo‑wop and close‑harmony vocal groups
+    - Brian Wilson
+    - Doo‑wop and close‑harmony vocal groups
 spotify_data:
   followers: 1091514
   id: 4FAEZeJcsYYBkNq2D3KGTV
   popularity: 56
-  url: https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV
+  url: 'https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV'
 discography_enriched: true
 top_tracks:
-- Joy To The World (Naturally)
-- Mama Told Me (Not To Come) - Single Version (It Ain't Easy)
-- Shambala - Single Version (Cyan)
-- Never Been To Spain - Single Version (Harmony)
-- One - Single Version (Three Dog Night)
-- One
-- Out In The Country (It Ain't Easy)
-- Shambala
-- Never Been To Spain
-- 'An Old Fashioned Love Song (Celebrate: The Three Dog Night Story, 1965–1975)'
+  - Joy To The World (Naturally)
+  - Mama Told Me (Not To Come) - Single Version (It Ain't Easy)
+  - Shambala - Single Version (Cyan)
+  - Never Been To Spain - Single Version (Harmony)
+  - One - Single Version (Three Dog Night)
+  - One
+  - Out In The Country (It Ain't Easy)
+  - Shambala
+  - Never Been To Spain
+  - 'An Old Fashioned Love Song (Celebrate: The Three Dog Night Story, 1965–1975)'
 external_urls:
-  spotify: https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV
-  wikipedia: https://en.wikipedia.org/wiki/Three_Dog_Night
+  spotify: 'https://open.spotify.com/artist/4FAEZeJcsYYBkNq2D3KGTV'
+  wikipedia: 'https://en.wikipedia.org/wiki/Three_Dog_Night'
 image_path: 03_Resources/source_material/ArtistPortraits/three_dog_night.jpg
 biography_enhanced_at: '2025-12-08T04:26:00.038632'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Top40Weekly artist biography on Three Dog Night[1]
-- uDiscover Music profile of Three Dog Night[2]
-- ClassicBands.com in‑depth history of Three Dog Night[3]
-- Official Three Dog Night website biography page[5]
+  - 'Top40Weekly artist biography on Three Dog Night[1]'
+  - 'uDiscover Music profile of Three Dog Night[2]'
+  - 'ClassicBands.com in‑depth history of Three Dog Night[3]'
+  - 'Official Three Dog Night website biography page[5]'
 network_extracted: true
 entry_created: '2025-12-08T04:26:00.038642'
 last_updated: '2025-12-23T08:16:17.388200'
-origin: Los Angeles, California, United States
+origin: 'Los Angeles, California, United States'
+artist_type: band
 ---
 
 ![](three_dog_night.jpg)

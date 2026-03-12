@@ -1,42 +1,42 @@
 ---
-title: sam doores
+title: Sam Doores
 wiki_slug: sam-doores
 schema_version: 2
 artist_type: person
 status: active
-birth_place: San Francisco Bay Area, California, United States
+birth_place: 'San Francisco Bay Area, California, United States'
 genres:
-- americana
-- alt country
+  - americana
+  - alt country
 instruments:
-- guitar
-- harmonica
-- lead vocals
-- original
-- acoustic guitar
-- slide guitar
-- electric guitar
-- background vocals
-associated_acts:
-- begin: 2013-08
-  end: ''
-  instruments:
   - guitar
   - harmonica
   - lead vocals
   - original
-  mbid: 47b6dee1-f2d8-47cc-b8b3-e54fc1ce763c
-  name: The Deslondes
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3c47236f-9ec9-46ed-a7a1-468a80ec2bee
-  name: Sam Doores & The Tumbleweed
+  - acoustic guitar
+  - slide guitar
+  - electric guitar
+  - background vocals
+associated_acts:
+  - begin: 2013-08
+    end: ''
+    instruments:
+      - guitar
+      - harmonica
+      - lead vocals
+      - original
+    mbid: 47b6dee1-f2d8-47cc-b8b3-e54fc1ce763c
+    name: The Deslondes
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3c47236f-9ec9-46ed-a7a1-468a80ec2bee
+    name: Sam Doores & The Tumbleweed
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sam_doores.jpg
   caption: sam doores
   background: solo_singer
-  origin: San Francisco Bay Area, California, United States
+  origin: 'San Francisco Bay Area, California, United States'
 audio_profile:
   tempo_avg: 124.6
   energy_avg: 0.483
@@ -52,47 +52,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Alynda Segarra / Hurray for the Riff Raff
-  - Riley Downing
-  - The Deslondes
-  - Anders Christopherson
-  - Mashed Potato Records circle of New Orleans musicians
+    - Alynda Segarra / Hurray for the Riff Raff
+    - Riley Downing
+    - The Deslondes
+    - Anders Christopherson
+    - Mashed Potato Records circle of New Orleans musicians
   influenced:
-  - Younger New Orleans roots and Americana artists (general group)
+    - Younger New Orleans roots and Americana artists (general group)
   mentors:
-  - New Orleans traditional and street musicians
-  - American folk, country, and rock songwriters
-  - Global roots styles (e.g., Cambodian rock, gospel choirs, South African choral traditions)
+    - New Orleans traditional and street musicians
+    - 'American folk, country, and rock songwriters'
+    - >-
+      Global roots styles (e.g., Cambodian rock, gospel choirs, South African
+      choral traditions)
 spotify_data:
   followers: 8665
   id: 7eL3G7djTXKmQ6AUmOwhkj
   popularity: 39
-  url: https://open.spotify.com/artist/7eL3G7djTXKmQ6AUmOwhkj
+  url: 'https://open.spotify.com/artist/7eL3G7djTXKmQ6AUmOwhkj'
 discography_enriched: true
 top_tracks:
-- Those Were (Could've Been) the Days (The Deslondes)
-- Heavenly Home (The Deslondes)
-- Drifter’s Wife (Roll It Out)
-- Low Down & Lonesome (Holy Cross Blues)
-- What Are They Doing In Heaven Today? (Tres Grand Serpent / What Are They Doing In Heaven Today?)
-- Silver & Gold (Holy Cross Blues)
-- Windmills (Sam Doores)
-- Take Me Back (Roll It Out)
-- I Got Found (Holy Cross Blues)
-- Depression Blues (Holy Cross Blues)
+  - Those Were (Could've Been) the Days (The Deslondes)
+  - Heavenly Home (The Deslondes)
+  - Drifter’s Wife (Roll It Out)
+  - Low Down & Lonesome (Holy Cross Blues)
+  - >-
+    What Are They Doing In Heaven Today? (Tres Grand Serpent / What Are They
+    Doing In Heaven Today?)
+  - Silver & Gold (Holy Cross Blues)
+  - Windmills (Sam Doores)
+  - Take Me Back (Roll It Out)
+  - I Got Found (Holy Cross Blues)
+  - Depression Blues (Holy Cross Blues)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2d722774-8ab7-4861-8869-de13f1789007
-  spotify: https://open.spotify.com/artist/7eL3G7djTXKmQ6AUmOwhkj
+  musicbrainz: 'https://musicbrainz.org/artist/2d722774-8ab7-4861-8869-de13f1789007'
+  spotify: 'https://open.spotify.com/artist/7eL3G7djTXKmQ6AUmOwhkj'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/sam_doores.jpg
 biography_enhanced_at: '2025-12-05T06:11:40.255845'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- General biographical and career information from music and feature articles about Sam Doores, his work with Hurray for the
-  Riff Raff, The Deslondes, and his solo album.
-- Album and label descriptions outlining the history of Sam Doores + Riley Downing & The Tumbleweeds, the recording of “Holy
-  Cross Blues,” and his later solo work and collaborations in New Orleans and Berlin.
+  - >-
+    General biographical and career information from music and feature articles
+    about Sam Doores, his work with Hurray for the Riff Raff, The Deslondes, and
+    his solo album.
+  - >-
+    Album and label descriptions outlining the history of Sam Doores + Riley
+    Downing & The Tumbleweeds, the recording of “Holy Cross Blues,” and his
+    later solo work and collaborations in New Orleans and Berlin.
 network_extracted: true
 entry_created: '2025-12-05T06:11:40.255852'
 last_updated: '2025-12-23T08:16:15.308718'

@@ -1,19 +1,19 @@
 ---
-title: garrett t capps
+title: Garrett T Capps
 wiki_slug: garrett-t-capps
 schema_version: 2
 status: active
-birth_place: San Antonio, Texas, United States
+birth_place: 'San Antonio, Texas, United States'
 genres:
-- alt country
-- americana
+  - alt country
+  - americana
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/garrett_t_capps.jpg
   caption: garrett t capps
   background: solo_singer
-  origin: San Antonio, Texas, United States
+  origin: 'San Antonio, Texas, United States'
 audio_profile:
-  tempo_avg: 126.0
+  tempo_avg: 126
   energy_avg: 0.689
   valence_avg: 0.618
   danceability_avg: 0.477
@@ -27,50 +27,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Augie Meyers
-  - Jamie Lin Wilson
-  - Danny Delgado
-  - Sarah Shook
+    - Augie Meyers
+    - Jamie Lin Wilson
+    - Danny Delgado
+    - Sarah Shook
   influenced:
-  - San Antonio alt-country artists
+    - San Antonio alt-country artists
   mentors:
-  - John Baumann
-  - Robert Earl Keen
-  - Guy Clark
-  - Rusty Kershaw
+    - John Baumann
+    - Robert Earl Keen
+    - Guy Clark
+    - Rusty Kershaw
 spotify_data:
   followers: 9346
   id: 3UfahkMdvHMVKfRJAxA4Tv
   popularity: 23
-  url: https://open.spotify.com/artist/3UfahkMdvHMVKfRJAxA4Tv
+  url: 'https://open.spotify.com/artist/3UfahkMdvHMVKfRJAxA4Tv'
 discography_enriched: true
 top_tracks:
-- Toxic Serenity (Life Is Strange)
-- I'm Afraid to Go Outside (Life Is Strange)
-- Losin' my Mind (Life Is Strange)
-- Time Ain't Nuthin' (Life Is Strange)
-- Endless Hole (Life Is Strange)
-- Floatin' (Life Is Strange)
-- Life Is Strange (Life Is Strange)
-- 7.4.22 (Life Is Strange)
-- Alone with You (All Right, All Night)
-- Out to Dance (Out to Dance)
+  - Toxic Serenity (Life Is Strange)
+  - I'm Afraid to Go Outside (Life Is Strange)
+  - Losin' my Mind (Life Is Strange)
+  - Time Ain't Nuthin' (Life Is Strange)
+  - Endless Hole (Life Is Strange)
+  - Floatin' (Life Is Strange)
+  - Life Is Strange (Life Is Strange)
+  - 7.4.22 (Life Is Strange)
+  - 'Alone with You (All Right, All Night)'
+  - Out to Dance (Out to Dance)
 external_urls:
-  spotify: https://open.spotify.com/artist/3UfahkMdvHMVKfRJAxA4Tv
+  spotify: 'https://open.spotify.com/artist/3UfahkMdvHMVKfRJAxA4Tv'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/garrett_t_capps.jpg
 biography_enhanced_at: '2025-11-08T22:04:43.592965'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://artsalivesa.com/garrett-t-capps-love-san-antone/
-- https://sanantonioreport.org/beauty-in-the-horizon-sa-songwriter-garrett-t-capps-takes-to-the-road/
-- https://petalmotel.com/garrett-t-capps-interview/
-- https://www.theselfportraitgospel.com/interviews/the-garrett-t-capps-interview
-- https://garretttcapps.com
+  - 'https://artsalivesa.com/garrett-t-capps-love-san-antone/'
+  - >-
+    https://sanantonioreport.org/beauty-in-the-horizon-sa-songwriter-garrett-t-capps-takes-to-the-road/
+  - 'https://petalmotel.com/garrett-t-capps-interview/'
+  - >-
+    https://www.theselfportraitgospel.com/interviews/the-garrett-t-capps-interview
+  - 'https://garretttcapps.com'
 network_extracted: true
 entry_created: '2025-11-08T22:04:43.592976'
 last_updated: '2025-12-23T08:16:08.996379'
+origin: 'San Antonio, Texas, United States'
+artist_type: person
 ---
 
 ![](garrett_t_capps.jpg)

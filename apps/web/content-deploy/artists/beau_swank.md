@@ -9,7 +9,7 @@ infobox:
   caption: Beau Swank
   background: solo_singer
 audio_profile:
-  tempo_avg: 134.0
+  tempo_avg: 134
   energy_avg: 0.566
   valence_avg: 0.701
   danceability_avg: 0.566
@@ -23,42 +23,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bob Richardson
+    - Bob Richardson
   influenced: []
   mentors: []
 spotify_data:
   followers: 5
   id: 2xRwqbORkGZWlTFQ7muDkV
   popularity: 0
-  url: https://open.spotify.com/artist/2xRwqbORkGZWlTFQ7muDkV
+  url: 'https://open.spotify.com/artist/2xRwqbORkGZWlTFQ7muDkV'
 discography_enriched: true
 top_tracks:
-- The Livin' is Easy (Down in New Orleans) (Looziana Wing Dang Doo)
-- Marigny Mambo (The Frenchman Scene) (Looziana Wing Dang Doo)
-- The New New Orleans (Katrina Song) (Looziana Wing Dang Doo)
-- Dauphine (Creole Lady) (Looziana Wing Dang Doo)
-- Batture Girl (River Road and Oak) (Looziana Wing Dang Doo)
-- Bridge City (Gumbo Fest) (Looziana Wing Dang Doo)
-- Paradis (Down Along 90) (Looziana Wing Dang Doo)
-- Back in Thibodaux (Down La. 1) (Looziana Wing Dang Doo)
-- Lafayette Waltz (Evangeline) (Looziana Wing Dang Doo)
-- Looziana Wing Dang Do (Pass a Good Time) (Looziana Wing Dang Doo)
+  - The Livin' is Easy (Down in New Orleans) (Looziana Wing Dang Doo)
+  - Marigny Mambo (The Frenchman Scene) (Looziana Wing Dang Doo)
+  - The New New Orleans (Katrina Song) (Looziana Wing Dang Doo)
+  - Dauphine (Creole Lady) (Looziana Wing Dang Doo)
+  - Batture Girl (River Road and Oak) (Looziana Wing Dang Doo)
+  - Bridge City (Gumbo Fest) (Looziana Wing Dang Doo)
+  - Paradis (Down Along 90) (Looziana Wing Dang Doo)
+  - Back in Thibodaux (Down La. 1) (Looziana Wing Dang Doo)
+  - Lafayette Waltz (Evangeline) (Looziana Wing Dang Doo)
+  - Looziana Wing Dang Do (Pass a Good Time) (Looziana Wing Dang Doo)
 external_urls:
-  spotify: https://open.spotify.com/artist/2xRwqbORkGZWlTFQ7muDkV
+  spotify: 'https://open.spotify.com/artist/2xRwqbORkGZWlTFQ7muDkV'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/beau_swank.jpg
 biography_enhanced_at: '2025-12-16T03:16:44.268472'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- 'iPhone J.D. blog post: “Beau Swank” (2013) – personal account by Jeff Richardson describing his father Bob Richardson’s
-  role in writing the songs and creating the project.[5]'
-- 'iPhone J.D. blog post: “Great music from Beau Swank” (2025) – describes Beau Swank as a cast of well-seasoned musicians
-  founded by New Orleans musician Bob Richardson.[1]'
+  - >-
+    iPhone J.D. blog post: “Beau Swank” (2013) – personal account by Jeff
+    Richardson describing his father Bob Richardson’s role in writing the songs
+    and creating the project.[5]
+  - >-
+    iPhone J.D. blog post: “Great music from Beau Swank” (2025) – describes Beau
+    Swank as a cast of well-seasoned musicians founded by New Orleans musician
+    Bob Richardson.[1]
 network_extracted: true
 entry_created: '2025-12-16T03:16:44.268487'
 last_updated: '2025-12-23T08:16:05.172123'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![](beau_swank.jpg)

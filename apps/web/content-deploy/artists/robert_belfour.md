@@ -1,18 +1,18 @@
 ---
-title: ROBERT BELFOUR
+title: Robert Belfour
 wiki_slug: robert-belfour
 schema_version: 2
 status: active
-birth_place: Red Banks, Mississippi, United States
+birth_place: 'Red Banks, Mississippi, United States'
 genres:
-- country blues
-- blues
-- classic blues
+  - country blues
+  - blues
+  - classic blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/robert_belfour.jpg
   caption: ROBERT BELFOUR
   background: solo_singer
-  origin: Red Banks, Mississippi, United States
+  origin: 'Red Banks, Mississippi, United States'
 audio_profile:
   tempo_avg: 124.3
   energy_avg: 0.434
@@ -28,48 +28,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mose Vinson
-  - David Evans
+    - Mose Vinson
+    - David Evans
   influenced:
-  - Younger Hill Country blues musicians
+    - Younger Hill Country blues musicians
   mentors:
-  - Grant Belfour
-  - Otha Turner
-  - R. L. Burnside
-  - Junior Kimbrough
+    - Grant Belfour
+    - Otha Turner
+    - R. L. Burnside
+    - Junior Kimbrough
 spotify_data:
   followers: 8527
   id: 288ptwBqLrqmD6Z2622eLp
   popularity: 20
-  url: https://open.spotify.com/artist/288ptwBqLrqmD6Z2622eLp
+  url: 'https://open.spotify.com/artist/288ptwBqLrqmD6Z2622eLp'
 discography_enriched: true
 top_tracks:
-- Hill Stomp (Pushin' My Luck)
-- Pushin' My Luck (Pushin' My Luck)
-- My Baby's Gone (What's Wrong with You)
-- Breaking My Heart (Pushin' My Luck)
-- I Got My Eyes on You (Pushin' My Luck)
-- Go Ahead On (Pushin' My Luck)
-- You Got Me Crying (Pushin' My Luck)
-- Black Mattie (What's Wrong with You)
-- Sweet Brown Sugar (Pushin' My Luck)
-- What's Wrong with You (What's Wrong with You)
+  - Hill Stomp (Pushin' My Luck)
+  - Pushin' My Luck (Pushin' My Luck)
+  - My Baby's Gone (What's Wrong with You)
+  - Breaking My Heart (Pushin' My Luck)
+  - I Got My Eyes on You (Pushin' My Luck)
+  - Go Ahead On (Pushin' My Luck)
+  - You Got Me Crying (Pushin' My Luck)
+  - Black Mattie (What's Wrong with You)
+  - Sweet Brown Sugar (Pushin' My Luck)
+  - What's Wrong with You (What's Wrong with You)
 external_urls:
-  spotify: https://open.spotify.com/artist/288ptwBqLrqmD6Z2622eLp
-  wikipedia: https://en.wikipedia.org/wiki/Robert_Belfour
+  spotify: 'https://open.spotify.com/artist/288ptwBqLrqmD6Z2622eLp'
+  wikipedia: 'https://en.wikipedia.org/wiki/Robert_Belfour'
 image_path: 03_Resources/source_material/ArtistPortraits/robert_belfour.jpg
 biography_enhanced_at: '2025-11-20T07:22:07.509094'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Robert_Belfour
-- https://bigtrainblues.com/robert-wolfman-belfour/
-- https://www.thecountryblues.com/artist-reviews/robert-wolfman-belfour/
-- https://tnfolklife.org/programs/awards/tennessee-folklife-heritage-award/robert-belfour/
-- https://www.deltabluesmuseum.org/news-rip-robert-belfour.aspx
+  - 'https://en.wikipedia.org/wiki/Robert_Belfour'
+  - 'https://bigtrainblues.com/robert-wolfman-belfour/'
+  - 'https://www.thecountryblues.com/artist-reviews/robert-wolfman-belfour/'
+  - >-
+    https://tnfolklife.org/programs/awards/tennessee-folklife-heritage-award/robert-belfour/
+  - 'https://www.deltabluesmuseum.org/news-rip-robert-belfour.aspx'
 network_extracted: true
 entry_created: '2025-11-20T07:22:07.509103'
 last_updated: '2025-12-23T08:16:14.880461'
+birth_date: '1940-09-11'
+death_date: '2015-02-24'
+artist_type: person
 ---
 
 ![](robert_belfour.jpg)

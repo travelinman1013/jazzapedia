@@ -4,31 +4,32 @@ birth_place: Unknown
 enhancement_provider: perplexity
 entry_created: '2025-12-28T01:52:26.999240'
 external_urls:
-  spotify: https://open.spotify.com/artist/6z4nQDhbq2EqVYDNuwxw3m
+  spotify: 'https://open.spotify.com/artist/6z4nQDhbq2EqVYDNuwxw3m'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/papalatube.jpg
 last_updated: '2025-12-28T01:52:26.999241'
 musical_connections:
   collaborators:
-  - Papala
-  - Kassio Beluco
-  - BEGUI
+    - Papala
+    - Kassio Beluco
+    - BEGUI
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.youtube.com/watch?v=X2N84WGej_U[3]
-- https://www.wwoz.org/programs/playlists[4]
-- Spotify Context
+  - 'https://www.youtube.com/watch?v=X2N84WGej_U[3]'
+  - 'https://www.wwoz.org/programs/playlists[4]'
+  - Spotify Context
 spotify_data:
   followers: 33
   id: 6z4nQDhbq2EqVYDNuwxw3m
   popularity: 0
-  url: https://open.spotify.com/artist/6z4nQDhbq2EqVYDNuwxw3m
+  url: 'https://open.spotify.com/artist/6z4nQDhbq2EqVYDNuwxw3m'
 status: active
 title: PapalaTube
+artist_type: band
 ---
 
 ![](papalatube.jpg)

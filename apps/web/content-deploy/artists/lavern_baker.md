@@ -1,19 +1,19 @@
 ---
-title: lavern baker
+title: Lavern Baker
 wiki_slug: lavern-baker
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1929-11-11'
-birth_place: Chicago
+birth_place: 'Chicago, Illinois, United States'
 death_date: '1997-03-10'
 genres:
-- swing music
-- boogie-woogie
-- doo-wop
-- rockabilly
+  - swing music
+  - boogie-woogie
+  - doo-wop
+  - rockabilly
 instruments:
-- lead vocals
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lavern_baker.jpg
   caption: lavern baker
@@ -27,7 +27,7 @@ audio_profile:
   valence_avg: 0.821
   danceability_avg: 0.649
   acousticness_avg: 0.705
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -9.3
   speechiness_avg: 0.07
   liveness_avg: 0.22
@@ -36,46 +36,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Todd Rhodes
-  - Ahmet Ertegun & Jerry Wexler
-  - Freddie Mitchell
+    - Todd Rhodes
+    - Ahmet Ertegun & Jerry Wexler
+    - Freddie Mitchell
   influenced:
-  - Ruth Brown
-  - Chaka Khan
+    - Ruth Brown
+    - Chaka Khan
   mentors:
-  - Memphis Minnie
+    - Memphis Minnie
 spotify_data:
   followers: 54622
   id: 0V6zo2mJw9FdwWLClKC9yw
   popularity: 38
-  url: https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw
+  url: 'https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw'
 discography_enriched: true
 top_tracks:
-- Tweedle Dee (LaVern Baker)
-- Love Me Right (Blues Ballads)
-- See See Rider (See See Rider)
-- Jim Dandy (LaVern Baker)
-- On Revival Day - Mono (Sings Bessie Smith)
-- See See Rider
-- Soul on Fire (LaVern Baker)
-- You'd Better Find Yourself Another Fool
-- Bumble Bee (Saved)
-- Tweedle Dee
+  - Tweedle Dee (LaVern Baker)
+  - Love Me Right (Blues Ballads)
+  - See See Rider (See See Rider)
+  - Jim Dandy (LaVern Baker)
+  - On Revival Day - Mono (Sings Bessie Smith)
+  - See See Rider
+  - Soul on Fire (LaVern Baker)
+  - You'd Better Find Yourself Another Fool
+  - Bumble Bee (Saved)
+  - Tweedle Dee
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/affa0adf-7be7-4944-b30d-a09baeb7dd28
-  spotify: https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw
-  wikipedia: https://en.wikipedia.org/wiki/LaVern_Baker
+  musicbrainz: 'https://musicbrainz.org/artist/affa0adf-7be7-4944-b30d-a09baeb7dd28'
+  spotify: 'https://open.spotify.com/artist/0V6zo2mJw9FdwWLClKC9yw'
+  wikipedia: 'https://en.wikipedia.org/wiki/LaVern_Baker'
 image_path: 03_Resources/source_material/ArtistPortraits/lavern_baker.jpg
 biography_enhanced_at: '2025-10-31T08:22:07.972137'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- TeachRock.org
-- African American Registry
-- Britannica
-- Rock & Roll Hall of Fame
-- Vintage Rock Magazine
-- BlackPast.org
+  - TeachRock.org
+  - African American Registry
+  - Britannica
+  - Rock & Roll Hall of Fame
+  - Vintage Rock Magazine
+  - BlackPast.org
 network_extracted: true
 entry_created: '2025-10-31T08:22:07.972144'
 last_updated: '2025-12-23T08:16:11.638802'
@@ -83,8 +83,9 @@ disambiguation: US rhythm & blues singer
 gender: Female
 musicbrainz_id: affa0adf-7be7-4944-b30d-a09baeb7dd28
 tags:
-- r&b
-- vocal jazz
+  - r&b
+  - vocal jazz
+is_active: false
 ---
 
 ![](lavern_baker.jpg)

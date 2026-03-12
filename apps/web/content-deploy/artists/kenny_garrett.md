@@ -1,17 +1,17 @@
 ---
-title: kenny garrett
+title: Kenny Garrett
 wiki_slug: kenny-garrett
 schema_version: 2
 status: active
-birth_place: Detroit, Michigan, United States
+birth_place: 'Detroit, Michigan, United States'
 genres:
-- jazz
-- jazz fusion
+  - jazz
+  - jazz fusion
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/kenny_garrett.jpg
   caption: kenny garrett
   background: solo_singer
-  origin: Detroit, Michigan, United States
+  origin: 'Detroit, Michigan, United States'
 audio_profile:
   tempo_avg: 110.6
   energy_avg: 0.523
@@ -27,52 +27,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Nat Reeves
-  - Brian Blade
-  - Ron Carter
-  - Bobby Hutcherson
-  - Mulgrew Miller
+    - Nat Reeves
+    - Brian Blade
+    - Ron Carter
+    - Bobby Hutcherson
+    - Mulgrew Miller
   influenced:
-  - Chris Dave
-  - Eric Harland
-  - Brian Blade
+    - Chris Dave
+    - Eric Harland
+    - Brian Blade
   mentors:
-  - Marcus Belgrave
-  - Art Blakey
-  - Miles Davis
-  - Pharoah Sanders
-  - Joe Henderson
+    - Marcus Belgrave
+    - Art Blakey
+    - Miles Davis
+    - Pharoah Sanders
+    - Joe Henderson
 spotify_data:
   followers: 73115
   id: 0Vz0vgVrclNJlHBLrgjklY
   popularity: 34
-  url: https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY
+  url: 'https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY'
 discography_enriched: true
 top_tracks:
-- Before It's Time to Say Goodbye (Songbook)
-- Hargrove (Sounds from the Ancestors)
-- Sing a Song of Song (Songbook)
-- Bossa (Do Your Dance!)
-- 'For You (Jazzmatazz Volume II: The New Reality)'
-- Happy People (Happy People)
-- 'Young Ladies (Jazzmatazz Volume II: The New Reality)'
-- Ascendence (Who Killed AI?)
-- Night and Day (Triology)
-- Wayne's Thang (Triology)
+  - Before It's Time to Say Goodbye (Songbook)
+  - Hargrove (Sounds from the Ancestors)
+  - Sing a Song of Song (Songbook)
+  - Bossa (Do Your Dance!)
+  - 'For You (Jazzmatazz Volume II: The New Reality)'
+  - Happy People (Happy People)
+  - 'Young Ladies (Jazzmatazz Volume II: The New Reality)'
+  - Ascendence (Who Killed AI?)
+  - Night and Day (Triology)
+  - Wayne's Thang (Triology)
 external_urls:
-  spotify: https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY
-  wikipedia: https://en.wikipedia.org/wiki/Kenny_Garrett
+  spotify: 'https://open.spotify.com/artist/0Vz0vgVrclNJlHBLrgjklY'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kenny_Garrett'
 image_path: 03_Resources/source_material/ArtistPortraits/kenny_garrett.jpg
 biography_enhanced_at: '2025-10-20T09:31:22.289114'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- All About Jazz
-- JazzTimes
-- National Endowment for the Arts
+  - All About Jazz
+  - JazzTimes
+  - National Endowment for the Arts
 network_extracted: true
 entry_created: '2025-10-20T09:31:22.289133'
 last_updated: '2025-12-23T08:16:11.323937'
+artist_type: person
 ---
 
 ![](kenny_garrett.jpg)

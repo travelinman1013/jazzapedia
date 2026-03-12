@@ -2,21 +2,21 @@
 title: Soulive
 wiki_slug: soulive
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1999'
 genres:
-- jazz funk
-- acid jazz
-- soul jazz
-- jazz fusion
+  - jazz funk
+  - acid jazz
+  - soul jazz
+  - jazz fusion
 instruments:
-- membranophone
-- clavinet
-- Hammond organ
-- keyboard bass
-- guitar
-- lead vocals
+  - membranophone
+  - clavinet
+  - Hammond organ
+  - keyboard bass
+  - guitar
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/soulive.jpg
   caption: Soulive
@@ -37,95 +37,95 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Eric Krasno
-  - Alan Evans
-  - Neal Evans
-  - Sam Kininger
-  - John Scofield
-  - Fred Wesley
-  - Dave Matthews
-  - Talib Kweli
-  - Black Thought
-  - Chaka Khan
-  - Ivan Neville
-  - Robert Randolph
+    - Eric Krasno
+    - Alan Evans
+    - Neal Evans
+    - Sam Kininger
+    - John Scofield
+    - Fred Wesley
+    - Dave Matthews
+    - Talib Kweli
+    - Black Thought
+    - Chaka Khan
+    - Ivan Neville
+    - Robert Randolph
   influenced:
-  - Lettuce
-  - Modern jam bands and jazz fusion artists
+    - Lettuce
+    - Modern jam bands and jazz fusion artists
   mentors:
-  - Soul jazz artists of the 1960s and 1970s
+    - Soul jazz artists of the 1960s and 1970s
 spotify_data:
   followers: 67241
   id: 6mWEaOFdcN3s30GuFWruGO
   popularity: 34
-  url: https://open.spotify.com/artist/6mWEaOFdcN3s30GuFWruGO
+  url: 'https://open.spotify.com/artist/6mWEaOFdcN3s30GuFWruGO'
 discography_enriched: true
 top_tracks:
-- Romantic (feat. Soulive) (Even Closer)
-- Sidekick
-- Joyful Girl
-- Waves
-- Millers Last Stand
-- One In Seven (Doin' Something)
-- Eleanor Rigby (Rubber Soulive)
-- Doin' Something (Doin' Something)
-- Kings March
-- Drive My Car (Rubber Soulive)
+  - Romantic (feat. Soulive) (Even Closer)
+  - Sidekick
+  - Joyful Girl
+  - Waves
+  - Millers Last Stand
+  - One In Seven (Doin' Something)
+  - Eleanor Rigby (Rubber Soulive)
+  - Doin' Something (Doin' Something)
+  - Kings March
+  - Drive My Car (Rubber Soulive)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8b1bdf8a-69dc-4c73-b6f9-0ae6f9cdcd31
-  spotify: https://open.spotify.com/artist/6mWEaOFdcN3s30GuFWruGO
-  wikipedia: https://en.wikipedia.org/wiki/Soulive
+  musicbrainz: 'https://musicbrainz.org/artist/8b1bdf8a-69dc-4c73-b6f9-0ae6f9cdcd31'
+  spotify: 'https://open.spotify.com/artist/6mWEaOFdcN3s30GuFWruGO'
+  wikipedia: 'https://en.wikipedia.org/wiki/Soulive'
 image_path: 03_Resources/source_material/ArtistPortraits/soulive.jpg
 biography_enhanced_at: '2025-10-29T16:38:46.049671'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Soulive
-- https://jazztimes.com/artists/soulive/
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/soulive
-- https://concord.com/artist/soulive/
+  - 'https://en.wikipedia.org/wiki/Soulive'
+  - 'https://jazztimes.com/artists/soulive/'
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/soulive
+  - 'https://concord.com/artist/soulive/'
 network_extracted: true
 entry_created: '2025-10-29T16:38:46.049688'
 last_updated: '2025-12-23T08:16:15.947452'
 members:
-- &id001
-  begin: '1999'
-  end: ''
-  instruments:
-  - membranophone
-  mbid: 3ed32f87-5e28-4350-a9b9-e2919d28008c
-  name: Alan Evans
-- &id002
-  begin: '1999'
-  end: ''
-  instruments:
-  - clavinet
-  - Hammond organ
-  - keyboard bass
-  mbid: d0cdac22-e125-45bc-9dce-53434e4cd495
-  name: Neal Evans
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: d54865e4-a10b-4dcc-ad49-e0de066ea07a
-  name: Eric Krasno
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: 22ee99a7-84a5-4fb5-9a2b-0a14883c1bc3
-  name: Toussaint the Liberator
+  - &ref_0
+    begin: '1999'
+    end: ''
+    instruments:
+      - membranophone
+    mbid: 3ed32f87-5e28-4350-a9b9-e2919d28008c
+    name: Alan Evans
+  - &ref_1
+    begin: '1999'
+    end: ''
+    instruments:
+      - clavinet
+      - Hammond organ
+      - keyboard bass
+    mbid: d0cdac22-e125-45bc-9dce-53434e4cd495
+    name: Neal Evans
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: d54865e4-a10b-4dcc-ad49-e0de066ea07a
+    name: Eric Krasno
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: 22ee99a7-84a5-4fb5-9a2b-0a14883c1bc3
+    name: Toussaint the Liberator
 musicbrainz_id: 8b1bdf8a-69dc-4c73-b6f9-0ae6f9cdcd31
-origin: Woodstock
+origin: 'Woodstock, New York, United States'
 original_members:
-- *id001
-- *id002
+  - *ref_0
+  - *ref_1
 tags:
-- acid jazz
-- jazz
-- jazz-funk
-
+  - acid jazz
+  - jazz
+  - jazz-funk
 ---
 
 ![](soulive.jpg)

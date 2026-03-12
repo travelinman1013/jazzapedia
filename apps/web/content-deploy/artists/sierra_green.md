@@ -3,15 +3,15 @@ title: Sierra Green
 wiki_slug: sierra-green
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sierra_green.jpg
   caption: Sierra Green
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
-  tempo_avg: 133.0
+  tempo_avg: 133
   energy_avg: 0.502
   valence_avg: 0.609
   danceability_avg: 0.491
@@ -25,44 +25,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dave Torkanowsky
-  - William West
-  - Mike Perez
-  - Paul Provosty
-  - Brandon Nater
-  - Maurice Cade
-  - David Ludman
+    - Dave Torkanowsky
+    - William West
+    - Mike Perez
+    - Paul Provosty
+    - Brandon Nater
+    - Maurice Cade
+    - David Ludman
   influenced: []
   mentors:
-  - Whitney Houston
-  - Dave Torkanowsky
+    - Whitney Houston
+    - Dave Torkanowsky
 spotify_data:
   followers: 51
   id: 7EvenvCPZQ6BBGwRwlYXIk
   popularity: 4
-  url: https://open.spotify.com/artist/7EvenvCPZQ6BBGwRwlYXIk
+  url: 'https://open.spotify.com/artist/7EvenvCPZQ6BBGwRwlYXIk'
 discography_enriched: true
 top_tracks:
-- Real Love (The Blues Summit)
-- Break In (Break In)
+  - Real Love (The Blues Summit)
+  - Break In (Break In)
 external_urls:
-  spotify: https://open.spotify.com/artist/7EvenvCPZQ6BBGwRwlYXIk
+  spotify: 'https://open.spotify.com/artist/7EvenvCPZQ6BBGwRwlYXIk'
   wikipedia: null
 image_path: ''
 biography_enhanced_at: '2025-10-28T09:04:02.420868'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://greenarrowradio.com/a-rising-star-in-sierra-green/
-- https://sierragreenandthegiants.com/about/
-- https://www.bluesblastmagazine.com/sierra-green-the-giants-here-we-are-album-review/
-- https://voyageatl.com/interview/meet-sierra-green-of-new-orleans/
-- https://sierragreenandthegiants.com
-- https://www.thesoundcafe.com/post/sierra-green-revered-as-the-queen-of-frenchmen-street-set-to-release-new-album-here-we-are
-- https://www.neworleans.com/listing/sierra-green/46545/
+  - 'http://greenarrowradio.com/a-rising-star-in-sierra-green/'
+  - 'https://sierragreenandthegiants.com/about/'
+  - >-
+    https://www.bluesblastmagazine.com/sierra-green-the-giants-here-we-are-album-review/
+  - 'https://voyageatl.com/interview/meet-sierra-green-of-new-orleans/'
+  - 'https://sierragreenandthegiants.com'
+  - >-
+    https://www.thesoundcafe.com/post/sierra-green-revered-as-the-queen-of-frenchmen-street-set-to-release-new-album-here-we-are
+  - 'https://www.neworleans.com/listing/sierra-green/46545/'
 network_extracted: true
 entry_created: '2025-10-28T09:04:02.420879'
 last_updated: '2025-12-23T08:16:15.633824'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![]()

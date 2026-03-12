@@ -4,9 +4,9 @@ wiki_slug: the-pharcyde
 schema_version: 2
 status: active
 genres:
-- jazz rap
-- west coast hip hop
-- hip hop
+  - jazz rap
+  - west coast hip hop
+  - hip hop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_pharcyde.jpg
   caption: The Pharcyde
@@ -26,55 +26,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - J Dilla
-  - DJ Mark Luv
-  - Brand New Heavies
-  - DJ Nu-Mark (Jurassic 5)
-  - Amerigo Gazaway
-  - Ozomatli
+    - J Dilla
+    - DJ Mark Luv
+    - Brand New Heavies
+    - DJ Nu-Mark (Jurassic 5)
+    - Amerigo Gazaway
+    - Ozomatli
   influenced: []
   mentors:
-  - J-Swift
-  - Paul Stewart
-  - Mike Ross (Delicious Vinyl)
+    - J-Swift
+    - Paul Stewart
+    - Mike Ross (Delicious Vinyl)
 spotify_data:
   followers: 870243
   id: 7yk35uHNQclPXFGFoTU44w
   popularity: 59
-  url: https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w
+  url: 'https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w'
 discography_enriched: true
 top_tracks:
-- Passin' Me By (Bizarre Ride II The Pharcyde)
-- Runnin' (Labcabincalifornia (Deluxe Edition))
-- Drop (Labcabincalifornia (Deluxe Edition))
-- Moment In Time (Labcabincalifornia (Deluxe Edition))
-- Oh Shit (Bizarre Ride II The Pharcyde)
-- Otha Fish (Bizarre Ride II The Pharcyde)
-- Runnin' (Phroduced By J Dilla)
-- I'm That Type Of Nigga (Bizarre Ride II The Pharcyde)
-- Ya Mama (Bizarre Ride II The Pharcyde)
-- Runnin'
+  - Passin' Me By (Bizarre Ride II The Pharcyde)
+  - Runnin' (Labcabincalifornia (Deluxe Edition))
+  - Drop (Labcabincalifornia (Deluxe Edition))
+  - Moment In Time (Labcabincalifornia (Deluxe Edition))
+  - Oh Shit (Bizarre Ride II The Pharcyde)
+  - Otha Fish (Bizarre Ride II The Pharcyde)
+  - Runnin' (Phroduced By J Dilla)
+  - I'm That Type Of Nigga (Bizarre Ride II The Pharcyde)
+  - Ya Mama (Bizarre Ride II The Pharcyde)
+  - Runnin'
 external_urls:
-  spotify: https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w
-  wikipedia: https://en.wikipedia.org/wiki/The_Pharcyde
+  spotify: 'https://open.spotify.com/artist/7yk35uHNQclPXFGFoTU44w'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Pharcyde'
 image_path: 03_Resources/source_material/ArtistPortraits/the_pharcyde.jpg
 biography_enhanced_at: '2025-11-26T07:39:16.910337'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/The+Pharcyde/+wiki
-- https://www.youtube.com/watch?v=x7e6_MfccuA
-- https://www.hiphopscriptures.com/the-pharcyde
-- https://kcr.sdsu.edu/still-passin-me-by-the-pharcyde-celebrates-30-years-of-hip-hop-excellence/
-- https://concord.com/artist/the-pharcyde/
-- http://www.daveyd.com/pharcydeinterview.html
-- https://en.wikipedia.org/wiki/The_Pharcyde
-- https://www.allaboutjazz.com/musicians/the-pharcyde/
+  - 'https://www.last.fm/music/The+Pharcyde/+wiki'
+  - 'https://www.youtube.com/watch?v=x7e6_MfccuA'
+  - 'https://www.hiphopscriptures.com/the-pharcyde'
+  - >-
+    https://kcr.sdsu.edu/still-passin-me-by-the-pharcyde-celebrates-30-years-of-hip-hop-excellence/
+  - 'https://concord.com/artist/the-pharcyde/'
+  - 'http://www.daveyd.com/pharcydeinterview.html'
+  - 'https://en.wikipedia.org/wiki/The_Pharcyde'
+  - 'https://www.allaboutjazz.com/musicians/the-pharcyde/'
 network_extracted: true
 entry_created: '2025-11-26T07:39:16.910351'
 last_updated: '2025-12-23T08:16:17.045849'
-origin: South Central Los Angeles, California, United States
-
+origin: 'South Central Los Angeles, California, United States'
+artist_type: band
 ---
 
 ![](the_pharcyde.jpg)

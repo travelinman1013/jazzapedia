@@ -3,11 +3,11 @@ title: AfaMoo
 wiki_slug: afamoo
 schema_version: 2
 status: active
-birth_place: Japan
+birth_place: 'Japan, Japan, Asia'
 genres:
-- j-dance
-- jazz house
-- lo-fi house
+  - j-dance
+  - jazz house
+  - lo-fi house
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/afamoo.jpg
   caption: AfaMoo
@@ -34,34 +34,36 @@ spotify_data:
   followers: 957
   id: 3A45aBAjydAM6h6iic8GOl
   popularity: 3
-  url: https://open.spotify.com/artist/3A45aBAjydAM6h6iic8GOl
+  url: 'https://open.spotify.com/artist/3A45aBAjydAM6h6iic8GOl'
 discography_enriched: true
 top_tracks:
-- Utopia (Different)
-- Cell Division (Cell Division)
-- Nature (Newcomer AFAMoo)
-- The Lonely Guy (Do What You Want)
-- Tokyo Highway (Newcomer AFAMoo)
-- Utopia - Pee J Anderson Remix (Different)
-- Jazz In My House
-- Different - Black Loops Remix (Different)
-- Sunset
-- Different (Different)
+  - Utopia (Different)
+  - Cell Division (Cell Division)
+  - Nature (Newcomer AFAMoo)
+  - The Lonely Guy (Do What You Want)
+  - Tokyo Highway (Newcomer AFAMoo)
+  - Utopia - Pee J Anderson Remix (Different)
+  - Jazz In My House
+  - Different - Black Loops Remix (Different)
+  - Sunset
+  - Different (Different)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/da1065f8-4389-42f9-8f82-0c62f2f515b9
-  spotify: https://open.spotify.com/artist/3A45aBAjydAM6h6iic8GOl
+  musicbrainz: 'https://musicbrainz.org/artist/da1065f8-4389-42f9-8f82-0c62f2f515b9'
+  spotify: 'https://open.spotify.com/artist/3A45aBAjydAM6h6iic8GOl'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/afamoo.jpg
 biography_enhanced_at: '2025-11-26T08:00:39.822962'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.onlygoodvibesmusic.com/interviews/afamoo-
-- Spotify artist profile
+  - 'https://www.onlygoodvibesmusic.com/interviews/afamoo-'
+  - Spotify artist profile
 network_extracted: true
 entry_created: '2025-11-26T08:00:39.822969'
 last_updated: '2025-12-23T08:16:04.399559'
 musicbrainz_id: da1065f8-4389-42f9-8f82-0c62f2f515b9
+birth_date: '1995'
+artist_type: person
 ---
 
 ![](afamoo.jpg)

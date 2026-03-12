@@ -23,49 +23,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Rachael Price
-  - Mike 'McDuck' Olson
-  - Bridget Kearney
-  - Mike Calabrese
-  - Akie Bermiss
-  - James Cornelison
+    - Rachael Price
+    - Mike 'McDuck' Olson
+    - Bridget Kearney
+    - Mike Calabrese
+    - Akie Bermiss
+    - James Cornelison
   influenced:
-  - Emerging indie and jazz-pop bands
+    - Emerging indie and jazz-pop bands
   mentors:
-  - New England Conservatory Faculty
+    - New England Conservatory Faculty
 spotify_data:
   followers: 720002
   id: 3nuc29fYGlQbIrwh4yrNWd
   popularity: 62
-  url: https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd
+  url: 'https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd'
 discography_enriched: true
 top_tracks:
-- Better Than (Bad Self Portraits)
-- Hypotheticals (Obviously)
-- Rich Girl (Fun Machine EP)
-- Good Kisser (Free Yourself Up)
-- What I'm Doing Here
-- I Can Change (Free Yourself Up)
-- Bad Self Portraits (Bad Self Portraits)
-- I Want You Back (Fun Machine EP)
-- Know That I Know (Obviously)
-- You Go Down Smooth (Bad Self Portraits)
+  - Better Than (Bad Self Portraits)
+  - Hypotheticals (Obviously)
+  - Rich Girl (Fun Machine EP)
+  - Good Kisser (Free Yourself Up)
+  - What I'm Doing Here
+  - I Can Change (Free Yourself Up)
+  - Bad Self Portraits (Bad Self Portraits)
+  - I Want You Back (Fun Machine EP)
+  - Know That I Know (Obviously)
+  - You Go Down Smooth (Bad Self Portraits)
 external_urls:
-  spotify: https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd
-  wikipedia: https://en.wikipedia.org/wiki/Lake_Street_Dive
+  spotify: 'https://open.spotify.com/artist/3nuc29fYGlQbIrwh4yrNWd'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lake_Street_Dive'
 image_path: 03_Resources/source_material/ArtistPortraits/lake_st_dive.jpg
 biography_enhanced_at: '2025-11-14T10:48:01.062614'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Lake_Street_Dive
-- https://www.last.fm/music/Lake+Street+Dive/+wiki
-- https://concord.com/artist/lake-street-dive/
-- https://backstage.ravinia.org/posts/making-it-obvious-lake-street-dive-rings-the-changes-with-songs-for-feeling-strong
+  - 'https://en.wikipedia.org/wiki/Lake_Street_Dive'
+  - 'https://www.last.fm/music/Lake+Street+Dive/+wiki'
+  - 'https://concord.com/artist/lake-street-dive/'
+  - >-
+    https://backstage.ravinia.org/posts/making-it-obvious-lake-street-dive-rings-the-changes-with-songs-for-feeling-strong
 network_extracted: true
 entry_created: '2025-11-14T10:48:01.062621'
 last_updated: '2025-12-23T08:16:11.571766'
-origin: Boston, Massachusetts, United States
+origin: 'Boston, Massachusetts, United States'
+artist_type: band
 ---
 
 ![](lake_st_dive.jpg)

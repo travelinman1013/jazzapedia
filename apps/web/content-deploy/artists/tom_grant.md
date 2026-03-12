@@ -3,14 +3,14 @@ title: Tom Grant
 wiki_slug: tom-grant
 schema_version: 2
 status: active
-birth_place: Portland, Oregon, United States
+birth_place: 'Portland, Oregon, United States'
 genres:
-- smooth jazz
+  - smooth jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/tom_grant.jpg
   caption: Tom Grant
   background: solo_singer
-  origin: Portland, Oregon, United States
+  origin: 'Portland, Oregon, United States'
 audio_profile:
   tempo_avg: 115.5
   energy_avg: 0.553
@@ -26,52 +26,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Woody Shaw
-  - Joe Henderson
-  - Charles Lloyd
-  - Tony Williams
-  - Phil Baker
+    - Woody Shaw
+    - Joe Henderson
+    - Charles Lloyd
+    - Tony Williams
+    - Phil Baker
   influenced:
-  - Smooth jazz and “new adult contemporary” artists (general)
+    - Smooth jazz and “new adult contemporary” artists (general)
   mentors:
-  - Michael Grant / Mukunda Goswami
-  - Jim Pepper
+    - Michael Grant / Mukunda Goswami
+    - Jim Pepper
 spotify_data:
   followers: 6683
   id: 01TbmnDD4d5XDUl5Kr3iQB
   popularity: 32
-  url: https://open.spotify.com/artist/01TbmnDD4d5XDUl5Kr3iQB
+  url: 'https://open.spotify.com/artist/01TbmnDD4d5XDUl5Kr3iQB'
 discography_enriched: true
 top_tracks:
-- Fantasy (Instinct)
-- Blue Voyage (Instinct)
-- Aint Nobody (Lip Service)
-- Delicioso (Delicioso)
-- Heaven Is Waiting - Radio Mix (You Hardly Know Me)
-- Heaven Is Waiting - Extended Edit (You Hardly Know Me)
-- Firefly (Tune It In)
-- Heaven Is Waiting - 12" Mix (You Hardly Know Me)
-- Regarding You (Life Is Good)
-- One of These Days (Reprise)
+  - Fantasy (Instinct)
+  - Blue Voyage (Instinct)
+  - Aint Nobody (Lip Service)
+  - Delicioso (Delicioso)
+  - Heaven Is Waiting - Radio Mix (You Hardly Know Me)
+  - Heaven Is Waiting - Extended Edit (You Hardly Know Me)
+  - Firefly (Tune It In)
+  - Heaven Is Waiting - 12" Mix (You Hardly Know Me)
+  - Regarding You (Life Is Good)
+  - One of These Days (Reprise)
 external_urls:
-  spotify: https://open.spotify.com/artist/01TbmnDD4d5XDUl5Kr3iQB
-  wikipedia: https://en.wikipedia.org/wiki/Tom_Grant_(jazz_musician)
+  spotify: 'https://open.spotify.com/artist/01TbmnDD4d5XDUl5Kr3iQB'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tom_Grant_(jazz_musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/tom_grant.jpg
 biography_enhanced_at: '2025-12-16T03:14:33.803644'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Tom_Grant_(jazz_musician)
-- https://www.yamaha.com/artists/tomgrant.html
-- https://www.ci.oswego.or.us/parksrec/artist-bio-tom-grant
-- https://jazzweekly.com/2022/10/tom-grant-interview-the-secret-life-with-tony-williams/
-- https://www.jango.com/music/Tom+Grant/_full_bio
-- https://www.festivalphoto.se/info&textID=1934&artist=tom-grant
-- https://www.allmusic.com/artist/tom-grant-mn0000604650
+  - 'https://en.wikipedia.org/wiki/Tom_Grant_(jazz_musician)'
+  - 'https://www.yamaha.com/artists/tomgrant.html'
+  - 'https://www.ci.oswego.or.us/parksrec/artist-bio-tom-grant'
+  - >-
+    https://jazzweekly.com/2022/10/tom-grant-interview-the-secret-life-with-tony-williams/
+  - 'https://www.jango.com/music/Tom+Grant/_full_bio'
+  - 'https://www.festivalphoto.se/info&textID=1934&artist=tom-grant'
+  - 'https://www.allmusic.com/artist/tom-grant-mn0000604650'
 network_extracted: true
 entry_created: '2025-12-16T03:14:33.803658'
 last_updated: '2025-12-23T08:16:17.509244'
-
+origin: 'Portland, Oregon, United States'
+birth_date: '1946-02-22'
+artist_type: person
 ---
 
 ![](tom_grant.jpg)

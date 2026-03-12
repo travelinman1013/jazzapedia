@@ -1,49 +1,52 @@
 ---
 artist_type: person
 biography_enhanced_at: '2025-12-29T01:23:07.445290'
-birth_place: Redbank, New Jersey, USA
+birth_place: 'Redbank, New Jersey, USA'
 enhancement_provider: perplexity
 entry_created: '2025-12-29T01:23:07.445305'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/84957363-216a-49e3-80f4-4feefaacc7a3
-  spotify: https://open.spotify.com/artist/3qp2x3V8TKROAYg3OlYceu
+  musicbrainz: 'https://musicbrainz.org/artist/84957363-216a-49e3-80f4-4feefaacc7a3'
+  spotify: 'https://open.spotify.com/artist/3qp2x3V8TKROAYg3OlYceu'
   wikipedia: ''
 gender: Male
 genres:
-- dub
-- roots reggae
-- reggae
+  - dub
+  - roots reggae
+  - reggae
 image_path: 03_Resources/source_material/ArtistPortraits/addis_pablo.jpg
 last_updated: '2025-12-29T01:23:07.445307'
 musical_connections:
   collaborators:
-  - Chinna Smith
-  - Style Scott
-  - Ras Jammy
-  - Green Lion Crew
-  - Earl Sixteen
+    - Chinna Smith
+    - Style Scott
+    - Ras Jammy
+    - Green Lion Crew
+    - Earl Sixteen
   influenced:
-  - Isis Pablo
+    - Isis Pablo
   mentors:
-  - Augustus Pablo
-  - Earl Chinna Smith
-  - King Tubby
+    - Augustus Pablo
+    - Earl Chinna Smith
+    - King Tubby
 musicbrainz_id: 84957363-216a-49e3-80f4-4feefaacc7a3
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://jamaicans.com/in-his-fathers-house-addis-pablo-on-the-life-and-legacy-of-augustus-pablo/
-- https://unitedreggae.com/articles/n1967/100915/interview-addis-pablo
-- https://vprecords.com/carrying-the-legacy-forward-addis-pablo/
-- https://www.youtube.com/channel/UCMJGZAl9WRl8Q-JMgufBV_w/about
-- https://www.rockersinternational.com/releases/2021/5/15/addis-pablo-x-green-lion-crew-micah-shemiah-mr-williamz-jah-bami-and-medi-sun
+  - >-
+    https://jamaicans.com/in-his-fathers-house-addis-pablo-on-the-life-and-legacy-of-augustus-pablo/
+  - 'https://unitedreggae.com/articles/n1967/100915/interview-addis-pablo'
+  - 'https://vprecords.com/carrying-the-legacy-forward-addis-pablo/'
+  - 'https://www.youtube.com/channel/UCMJGZAl9WRl8Q-JMgufBV_w/about'
+  - >-
+    https://www.rockersinternational.com/releases/2021/5/15/addis-pablo-x-green-lion-crew-micah-shemiah-mr-williamz-jah-bami-and-medi-sun
 spotify_data:
   followers: 9453
   id: 3qp2x3V8TKROAYg3OlYceu
   popularity: 32
-  url: https://open.spotify.com/artist/3qp2x3V8TKROAYg3OlYceu
+  url: 'https://open.spotify.com/artist/3qp2x3V8TKROAYg3OlYceu'
 status: active
 title: Addis Pablo
+birth_date: '1989-08-18'
 ---
 
 ![](addis_pablo.jpg)

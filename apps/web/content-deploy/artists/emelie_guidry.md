@@ -1,10 +1,10 @@
 ---
 biography_enhanced_at: '2025-12-24T01:40:29.371039'
-birth_place: Lafayette, Louisiana, United States
+birth_place: 'Lafayette, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2025-12-24T01:40:29.371055'
 external_urls:
-  spotify: https://open.spotify.com/artist/5WjxEiqId0swzfD6DdZCsc
+  spotify: 'https://open.spotify.com/artist/5WjxEiqId0swzfD6DdZCsc'
   wikipedia: null
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/emelie_guidry.jpg
@@ -16,17 +16,18 @@ musical_connections:
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.reverbnation.com/emelieguidry/song/20621741-what-love-is
-- https://www.frenchquarter.com/artists/page/16/
-- https://www.reverbnation.com/emelieguidry?popup_bio=true
-- https://wwoz.org/programs/playlists
+  - 'https://www.reverbnation.com/emelieguidry/song/20621741-what-love-is'
+  - 'https://www.frenchquarter.com/artists/page/16/'
+  - 'https://www.reverbnation.com/emelieguidry?popup_bio=true'
+  - 'https://wwoz.org/programs/playlists'
 spotify_data:
   followers: 33
   id: 5WjxEiqId0swzfD6DdZCsc
   popularity: 0
-  url: https://open.spotify.com/artist/5WjxEiqId0swzfD6DdZCsc
+  url: 'https://open.spotify.com/artist/5WjxEiqId0swzfD6DdZCsc'
 status: active
-title: EMELIE GUIDRY
+title: Emelie Guidry
+artist_type: person
 ---
 
 ![](emelie_guidry.jpg)

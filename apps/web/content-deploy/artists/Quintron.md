@@ -5,15 +5,15 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1967-09-15'
-birth_place: Bitburg
+birth_place: 'Bitburg, Germany, N/A'
 genres:
-- dark trap
+  - dark trap
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8f04902b-ac58-47f5-a192-d1ddc7ea7ac1
-  name: Quintron & Miss Pussycat
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8f04902b-ac58-47f5-a192-d1ddc7ea7ac1
+    name: Quintron & Miss Pussycat
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/quintron.jpg
   caption: Quintron
@@ -35,55 +35,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Miss Pussycat (Panacea Theriac)
-  - Ernie K-Doe
-  - MC Trachiotomy
-  - XBXRX
-  - Bobby Conn
-  - Zeek Sheck
+    - Miss Pussycat (Panacea Theriac)
+    - Ernie K-Doe
+    - MC Trachiotomy
+    - XBXRX
+    - Bobby Conn
+    - Zeek Sheck
   influenced:
-  - Laurie Anderson
-  - Sean Lennon
+    - Laurie Anderson
+    - Sean Lennon
   mentors:
-  - Jodie Mechanic
+    - Jodie Mechanic
 spotify_data:
   followers: 9625
   id: 24x1LJJqp10KZHkTMumIev
   popularity: 47
-  url: https://open.spotify.com/artist/24x1LJJqp10KZHkTMumIev
+  url: 'https://open.spotify.com/artist/24x1LJJqp10KZHkTMumIev'
 discography_enriched: true
 top_tracks:
-- PRESSURE GAUGE (GARAGE PUNK)
-- TOP DEAD CENTER (GARAGE PUNK)
-- Cars & Coffee (Cars & Coffee)
-- HOONIGAN (GARAGE PUNK)
-- DAMN WELL (RUDE DOG)
-- RUN THE WALL (GARAGE PUNK)
-- TROPHY BOYZ (RUDE DOG)
-- THE MANAGER (GARAGE PUNK)
-- Cross Cuttin (Cross Cuttin)
-- Ask Me if I Care (Ask Me if I Care)
+  - PRESSURE GAUGE (GARAGE PUNK)
+  - TOP DEAD CENTER (GARAGE PUNK)
+  - Cars & Coffee (Cars & Coffee)
+  - HOONIGAN (GARAGE PUNK)
+  - DAMN WELL (RUDE DOG)
+  - RUN THE WALL (GARAGE PUNK)
+  - TROPHY BOYZ (RUDE DOG)
+  - THE MANAGER (GARAGE PUNK)
+  - Cross Cuttin (Cross Cuttin)
+  - Ask Me if I Care (Ask Me if I Care)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/814ce4bc-bd78-4885-991f-b3cc90eee817
-  spotify: https://open.spotify.com/artist/24x1LJJqp10KZHkTMumIev
-  wikipedia: https://en.wikipedia.org/wiki/Quintron
+  musicbrainz: 'https://musicbrainz.org/artist/814ce4bc-bd78-4885-991f-b3cc90eee817'
+  spotify: 'https://open.spotify.com/artist/24x1LJJqp10KZHkTMumIev'
+  wikipedia: 'https://en.wikipedia.org/wiki/Quintron'
 image_path: 03_Resources/source_material/ArtistPortraits/quintron.jpg
 biography_enhanced_at: '2025-11-12T14:49:11.519965'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Quintron
-- https://astudiointhewoods.org/artist/quintron-miss-pussycat/
-- https://www.popsci.com/maestro-who-built-weather-sensing-synth/
-- https://littlevillagemag.com/innovative-and-absurd-an-interview-with-quintron/
-- https://open.spotify.com/artist/7oYKm5OvA9Z2TZZWCoqMz1
-- https://www.westword.com/music/mr-quintron-and-miss-pussycat-5079809/
+  - 'https://en.wikipedia.org/wiki/Quintron'
+  - 'https://astudiointhewoods.org/artist/quintron-miss-pussycat/'
+  - 'https://www.popsci.com/maestro-who-built-weather-sensing-synth/'
+  - >-
+    https://littlevillagemag.com/innovative-and-absurd-an-interview-with-quintron/
+  - 'https://open.spotify.com/artist/7oYKm5OvA9Z2TZZWCoqMz1'
+  - 'https://www.westword.com/music/mr-quintron-and-miss-pussycat-5079809/'
 network_extracted: true
 entry_created: '2025-11-12T14:49:11.519976'
 last_updated: '2025-12-23T08:16:03.636417'
 disambiguation: alias of US musician Robert Rolston
 gender: Male
 musicbrainz_id: 814ce4bc-bd78-4885-991f-b3cc90eee817
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](quintron.jpg)

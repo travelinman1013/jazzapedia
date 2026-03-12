@@ -1,18 +1,19 @@
 ---
-title: Crosby, Stills, Nash & Young
+title: 'Crosby, Stills, Nash & Young'
 wiki_slug: crosby-stills-nash-young
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 birth_date: '1969'
 genres:
-- folk rock
-- classic rock
+  - folk rock
+  - classic rock
 instruments:
-- eponymous
+  - eponymous
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/Crosby_Stills_Nash_and_Young.jpg
-  caption: Crosby, Stills, Nash & Young
+  image: >-
+    03_Resources/source_material/ArtistPortraits/Crosby_Stills_Nash_and_Young.jpg
+  caption: 'Crosby, Stills, Nash & Young'
   background: non_vocal_instrumentalist
   born: '1969'
 audio_profile:
@@ -30,56 +31,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Joni Mitchell
-  - Dallas Taylor
-  - Greg Reeves
+    - Joni Mitchell
+    - Dallas Taylor
+    - Greg Reeves
   influenced:
-  - Eagles
-  - Fleetwood Mac
-  - Wilco
+    - Eagles
+    - Fleetwood Mac
+    - Wilco
   mentors:
-  - The Byrds
-  - Buffalo Springfield
-  - The Hollies
+    - The Byrds
+    - Buffalo Springfield
+    - The Hollies
 spotify_data:
   followers: 1936894
   id: 1CYsQCypByMVgnv17qsSbQ
   popularity: 59
-  url: https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ
+  url: 'https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ'
 discography_enriched: true
 top_tracks:
-- Our House (Deja Vu)
-- Ohio
-- Carry On (Deja Vu)
-- Teach Your Children (Deja Vu)
-- Almost Cut My Hair (Deja Vu)
-- Helpless (Deja Vu)
-- Woodstock (Deja Vu)
-- 4 + 20 (Deja Vu)
-- Helplessly Hoping
-- Deja Vu (Deja Vu)
+  - Our House (Deja Vu)
+  - Ohio
+  - Carry On (Deja Vu)
+  - Teach Your Children (Deja Vu)
+  - Almost Cut My Hair (Deja Vu)
+  - Helpless (Deja Vu)
+  - Woodstock (Deja Vu)
+  - 4 + 20 (Deja Vu)
+  - Helplessly Hoping
+  - Deja Vu (Deja Vu)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/46a782ea-4308-476b-abd1-a91b197f3037
-  spotify: https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ
-  wikipedia: https://en.wikipedia.org/wiki/Crosby,_Stills,_Nash_&_Young
+  musicbrainz: 'https://musicbrainz.org/artist/46a782ea-4308-476b-abd1-a91b197f3037'
+  spotify: 'https://open.spotify.com/artist/1CYsQCypByMVgnv17qsSbQ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Crosby,_Stills,_Nash_&_Young'
 image_path: 03_Resources/source_material/ArtistPortraits/Crosby_Stills_Nash_and_Young.jpg
 biography_enhanced_at: '2025-10-20T01:52:55.874232'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Crosby,_Stills,_Nash_&_Young
-- https://aaep1600.osu.edu/book/08_CSNY.php
-- https://www.ebsco.com/research-starters/music/crosby-stills-nash-young
+  - 'https://en.wikipedia.org/wiki/Crosby,_Stills,_Nash_&_Young'
+  - 'https://aaep1600.osu.edu/book/08_CSNY.php'
+  - 'https://www.ebsco.com/research-starters/music/crosby-stills-nash-young'
 network_extracted: true
 entry_created: '2025-10-20T01:52:55.874249'
 last_updated: '2025-12-23T08:16:01.575035'
 musicbrainz_enriched_at: '2025-10-21T09:22:58.883926'
 musicbrainz_id: 46a782ea-4308-476b-abd1-a91b197f3037
-origin: Los Angeles, California, United States
+origin: 'Los Angeles, California, United States'
 tags:
-- acoustic rock
-- country rock
-- folk pop
+  - acoustic rock
+  - country rock
+  - folk pop
+birth_place: 'Bethel, New York, United States'
 ---
 
 ![](Crosby_Stills_Nash_and_Young.jpg)

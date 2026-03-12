@@ -3,18 +3,18 @@ title: Cannonball Adderly
 wiki_slug: cannonball-adderly
 schema_version: 2
 status: active
-birth_place: Tampa, Florida, United States
+birth_place: 'Tampa, Florida, United States'
 genres:
-- hard bop
-- jazz
-- bebop
-- cool jazz
-- jazz blues
+  - hard bop
+  - jazz
+  - bebop
+  - cool jazz
+  - jazz blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/cannonball_adderly.jpg
   caption: Cannonball Adderly
   background: solo_singer
-  origin: Tampa, Florida, United States
+  origin: 'Tampa, Florida, United States'
 audio_profile:
   tempo_avg: 113.6
   energy_avg: 0.372
@@ -30,53 +30,69 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Miles Davis
-  - John Coltrane
-  - Nat Adderley
-  - Bobby Timmons
-  - Joe Zawinul
-  - Quincy Jones
+    - Miles Davis
+    - John Coltrane
+    - Nat Adderley
+    - Bobby Timmons
+    - Joe Zawinul
+    - Quincy Jones
   influenced:
-  - The Buckinghams
+    - The Buckinghams
   mentors:
-  - Charlie Parker
-  - Duke Ellington
-  - Count Basie
-  - Oscar Pettiford
+    - Charlie Parker
+    - Duke Ellington
+    - Count Basie
+    - Oscar Pettiford
 spotify_data:
   followers: 243371
   id: 5v74mT11KGJqadf9sLw4dA
   popularity: 58
-  url: https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA
+  url: 'https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA'
 discography_enriched: true
 top_tracks:
-- So What (feat. John Coltrane, Cannonball Adderley & Bill Evans) (Kind Of Blue (Legacy Edition))
-- Milestones (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones) (Milestones)
-- Autumn Leaves (Somethin' Else (Rudy Van Gelder Edition))
-- Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly & Paul Chambers) (Kind Of Blue)
-- The Masquerade Is Over (Nancy Wilson/Cannonball Adderley)
-- Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly & Paul Chambers) (Kind Of Blue (Legacy Edition))
-- So What (feat. John Coltrane, Cannonball Adderley & Bill Evans) (Kind Of Blue)
-- Dancing In The Dark (Somethin' Else (Rudy Van Gelder Edition))
-- All Blues (feat. John Coltrane, Cannonball Adderley & Bill Evans) (Kind Of Blue (Legacy Edition))
-- Flamenco Sketches (feat. John Coltrane, Cannonball Adderley & Bill Evans) (Kind Of Blue (Legacy Edition))
+  - >-
+    So What (feat. John Coltrane, Cannonball Adderley & Bill Evans) (Kind Of
+    Blue (Legacy Edition))
+  - >-
+    Milestones (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul
+    Chambers & Philly Joe Jones) (Milestones)
+  - Autumn Leaves (Somethin' Else (Rudy Van Gelder Edition))
+  - >-
+    Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly &
+    Paul Chambers) (Kind Of Blue)
+  - The Masquerade Is Over (Nancy Wilson/Cannonball Adderley)
+  - >-
+    Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly &
+    Paul Chambers) (Kind Of Blue (Legacy Edition))
+  - >-
+    So What (feat. John Coltrane, Cannonball Adderley & Bill Evans) (Kind Of
+    Blue)
+  - Dancing In The Dark (Somethin' Else (Rudy Van Gelder Edition))
+  - >-
+    All Blues (feat. John Coltrane, Cannonball Adderley & Bill Evans) (Kind Of
+    Blue (Legacy Edition))
+  - >-
+    Flamenco Sketches (feat. John Coltrane, Cannonball Adderley & Bill Evans)
+    (Kind Of Blue (Legacy Edition))
 external_urls:
-  spotify: https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA
-  wikipedia: https://en.wikipedia.org/wiki/Cannonball_Adderley
+  spotify: 'https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA'
+  wikipedia: 'https://en.wikipedia.org/wiki/Cannonball_Adderley'
 image_path: 03_Resources/source_material/ArtistPortraits/cannonball_adderly.jpg
 biography_enhanced_at: '2025-12-04T08:05:14.548058'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- EBSCO Research Starters - Cannonball Adderley
-- Wikipedia - Cannonball Adderley
-- Blue Note Records - Cannonball Adderley Artist Page
-- Cannonball Adderley Official Biography
-- Smithsonian American History - Julian 'Cannonball' Adderley's Saxophone
-- Jerry Jazz Musician - The Music and Life of Julian 'Cannonball' Adderley
+  - EBSCO Research Starters - Cannonball Adderley
+  - Wikipedia - Cannonball Adderley
+  - Blue Note Records - Cannonball Adderley Artist Page
+  - Cannonball Adderley Official Biography
+  - Smithsonian American History - Julian 'Cannonball' Adderley's Saxophone
+  - Jerry Jazz Musician - The Music and Life of Julian 'Cannonball' Adderley
 network_extracted: true
 entry_created: '2025-12-04T08:05:14.548067'
 last_updated: '2025-12-23T08:16:06.379096'
+birth_date: '1928-09-15'
+artist_type: person
 ---
 
 ![](cannonball_adderly.jpg)

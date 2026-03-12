@@ -2,23 +2,23 @@
 title: Jacob Fred Jazz Odyssey
 wiki_slug: jacob-fred-jazz-odyssey
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1994'
 genres:
-- acid jazz
-- free jazz
-- jazz funk
-- nu jazz
+  - acid jazz
+  - free jazz
+  - jazz funk
+  - nu jazz
 instruments:
-- original
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jacob_fred_jazz_odyssey.jpg
   caption: Jacob Fred Jazz Odyssey
   background: group_or_band
   born: '1994'
 audio_profile:
-  tempo_avg: 113.0
+  tempo_avg: 113
   energy_avg: 0.539
   valence_avg: 0.464
   danceability_avg: 0.511
@@ -32,61 +32,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Chris Combs
-  - Jeff Harshbarger
-  - Josh Raymer
+    - Chris Combs
+    - Jeff Harshbarger
+    - Josh Raymer
   influenced:
-  - Chris Combs
-  - Josh Raymer
+    - Chris Combs
+    - Josh Raymer
   mentors:
-  - Brian Haas
+    - Brian Haas
 spotify_data:
   followers: 4022
   id: 0Ol6j669eSIMiClmrydbyx
   popularity: 4
-  url: https://open.spotify.com/artist/0Ol6j669eSIMiClmrydbyx
+  url: 'https://open.spotify.com/artist/0Ol6j669eSIMiClmrydbyx'
 discography_enriched: true
 top_tracks:
-- Oklahoma Stomp (Winterwood)
-- Crazy Fingers (Winterwood)
-- New Bird (Worker)
-- Dove’s Army Of Love (Winterwood)
-- Song Of The Vipers (Winterwood)
-- Walking Before Daylight (Winterwood)
-- Have You Ever Been To Electric Ladyland (The Sameness Of Difference)
-- Happiness Is A Warm Gun - Live (The Sameness Of Difference)
-- Betamax (Worker)
-- 'Improv Seattle - Live (Nine Improvisations: Tour ''05 (Live))'
+  - Oklahoma Stomp (Winterwood)
+  - Crazy Fingers (Winterwood)
+  - New Bird (Worker)
+  - Dove’s Army Of Love (Winterwood)
+  - Song Of The Vipers (Winterwood)
+  - Walking Before Daylight (Winterwood)
+  - Have You Ever Been To Electric Ladyland (The Sameness Of Difference)
+  - Happiness Is A Warm Gun - Live (The Sameness Of Difference)
+  - Betamax (Worker)
+  - 'Improv Seattle - Live (Nine Improvisations: Tour ''05 (Live))'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/28b020fa-d9b8-4d92-805c-54cd1b0197b7
-  spotify: https://open.spotify.com/artist/0Ol6j669eSIMiClmrydbyx
-  wikipedia: https://en.wikipedia.org/wiki/Jacob_Fred_Jazz_Odyssey
+  musicbrainz: 'https://musicbrainz.org/artist/28b020fa-d9b8-4d92-805c-54cd1b0197b7'
+  spotify: 'https://open.spotify.com/artist/0Ol6j669eSIMiClmrydbyx'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jacob_Fred_Jazz_Odyssey'
 image_path: 03_Resources/source_material/ArtistPortraits/jacob_fred_jazz_odyssey.jpg
 biography_enhanced_at: '2025-11-21T07:11:49.615130'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://martyrslive.com/jacob-fred-jazz-odyssey
-- https://jfjo.com/about/
-- https://jazztimes.com/features/profiles/jacob-fred-jazz-odysseys-riotous-ambition/
-- https://wexarts.org/performing-arts/jacob-fred-jazz-odyssey-race-riot-suite
-- https://royalpotatofamily.com/artist/jacob-fred-jazz-odyssey/
+  - 'https://martyrslive.com/jacob-fred-jazz-odyssey'
+  - 'https://jfjo.com/about/'
+  - >-
+    https://jazztimes.com/features/profiles/jacob-fred-jazz-odysseys-riotous-ambition/
+  - 'https://wexarts.org/performing-arts/jacob-fred-jazz-odyssey-race-riot-suite'
+  - 'https://royalpotatofamily.com/artist/jacob-fred-jazz-odyssey/'
 network_extracted: true
 entry_created: '2025-11-21T07:11:49.615143'
 last_updated: '2025-12-23T08:16:10.100547'
 members:
-- begin: '1994'
-  end: '2008'
-  instruments:
-  - original
-  mbid: 21df1bc6-72b1-47d7-b90b-6dda5b048447
-  name: Reed Mathis
+  - begin: '1994'
+    end: '2008'
+    instruments:
+      - original
+    mbid: 21df1bc6-72b1-47d7-b90b-6dda5b048447
+    name: Reed Mathis
 musicbrainz_id: 28b020fa-d9b8-4d92-805c-54cd1b0197b7
-origin: Tulsa, Oklahoma, United States
+origin: 'Tulsa, Oklahoma, United States'
 tags:
-- free jazz
-- jazz
-- jazz fusion
+  - free jazz
+  - jazz
+  - jazz fusion
 ---
 
 ![](jacob_fred_jazz_odyssey.jpg)

@@ -4,20 +4,20 @@ wiki_slug: jordan-rakei
 schema_version: 2
 artist_type: person
 status: active
-birth_place: New Zealand
+birth_place: 'Tokoroa, New Zealand, United States'
 genres:
-- neo soul
+  - neo soul
 instruments:
-- guitar
-- piano
-- background vocals
+  - guitar
+  - piano
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Jordan_Rakei.jpg
   caption: Jordan Rakei
   background: solo_singer
   origin: New Zealand
 audio_profile:
-  tempo_avg: 112.0
+  tempo_avg: 112
   energy_avg: 0.512
   valence_avg: 0.396
   danceability_avg: 0.614
@@ -31,61 +31,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tom Misch
-  - Loyle Carner
-  - Jorja Smith
-  - Common
-  - Bradley Zero
+    - Tom Misch
+    - Loyle Carner
+    - Jorja Smith
+    - Common
+    - Bradley Zero
   influenced:
-  - Dan Kye
+    - Dan Kye
   mentors:
-  - Stevie Wonder
-  - Bill Withers
-  - Curtis Mayfield
-  - D’Angelo
+    - Stevie Wonder
+    - Bill Withers
+    - Curtis Mayfield
+    - D’Angelo
 spotify_data:
   followers: 404869
   id: 24icoQNJSEWNu3XvqKBR68
   popularity: 55
-  url: https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68
+  url: 'https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68'
 discography_enriched: true
 top_tracks:
-- Ottolenghi (Not Waving, But Drowning)
-- Celebrate
-- Shadows (Fragments)
-- Borderline (Origin (Deluxe Edition))
-- Midnight Mischief (Tom Misch Remix)
-- Trust (The Loop)
-- Typical (Shape The Future)
-- Learn to Fly
-- Wake Up This Day (Beat Tape 2)
-- Shadows
+  - 'Ottolenghi (Not Waving, But Drowning)'
+  - Celebrate
+  - Shadows (Fragments)
+  - Borderline (Origin (Deluxe Edition))
+  - Midnight Mischief (Tom Misch Remix)
+  - Trust (The Loop)
+  - Typical (Shape The Future)
+  - Learn to Fly
+  - Wake Up This Day (Beat Tape 2)
+  - Shadows
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/812c46e5-3d65-4e80-ada8-269450c5621b
-  spotify: https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68
-  wikipedia: https://en.wikipedia.org/wiki/Jordan_Rakei
+  musicbrainz: 'https://musicbrainz.org/artist/812c46e5-3d65-4e80-ada8-269450c5621b'
+  spotify: 'https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jordan_Rakei'
 image_path: 03_Resources/source_material/ArtistPortraits/Jordan_Rakei.jpg
 biography_enhanced_at: '2025-10-22T06:42:05.488249'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jordan_Rakei
-- https://www.redlightmanagement.com/artists/jordan-rakei/
-- https://daily.bandcamp.com/features/jordan-rakei-what-we-call-life-feature
-- https://www.audioculture.co.nz/profile/jordan-rakei
-- https://sacksco.com/pr/jordan_rakei_040524.html
-- https://www.popmatters.com/jordan-rakei-the-loop-review
-- https://www.onestowatch.com/en/blog/jordan-rakei-transports-us-to-a-dystopian-future
+  - 'https://en.wikipedia.org/wiki/Jordan_Rakei'
+  - 'https://www.redlightmanagement.com/artists/jordan-rakei/'
+  - 'https://daily.bandcamp.com/features/jordan-rakei-what-we-call-life-feature'
+  - 'https://www.audioculture.co.nz/profile/jordan-rakei'
+  - 'https://sacksco.com/pr/jordan_rakei_040524.html'
+  - 'https://www.popmatters.com/jordan-rakei-the-loop-review'
+  - >-
+    https://www.onestowatch.com/en/blog/jordan-rakei-transports-us-to-a-dystopian-future
 network_extracted: true
 entry_created: '2025-10-22T06:42:05.488269'
 last_updated: '2025-12-23T08:16:02.726352'
 gender: Male
 musicbrainz_id: 812c46e5-3d65-4e80-ada8-269450c5621b
 tags:
-- alternative r&b
-- neosoul
-- r&b
-
+  - alternative r&b
+  - neosoul
+  - r&b
+origin: 'Brisbane, Queensland, Australia'
+birth_date: '1992-05-23'
 ---
 
 ![](Jordan_Rakei.jpg)

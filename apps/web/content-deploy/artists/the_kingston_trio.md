@@ -1,14 +1,14 @@
 ---
-title: THE KINGSTON TRIO
+title: The Kingston Trio
 wiki_slug: the-kingston-trio
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1957'
 genres:
-- folk
+  - folk
 instruments:
-- original
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_kingston_trio.jpg
   caption: THE KINGSTON TRIO
@@ -29,93 +29,94 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dave Guard
-  - Bob Shane
-  - Nick Reynolds
-  - John Stewart
-  - George Grove
-  - Frank Werber
+    - Dave Guard
+    - Bob Shane
+    - Nick Reynolds
+    - John Stewart
+    - George Grove
+    - Frank Werber
   influenced:
-  - Joan Baez
-  - Peter, Paul and Mary
-  - Bob Dylan
+    - Joan Baez
+    - 'Peter, Paul and Mary'
+    - Bob Dylan
   mentors:
-  - Woody Guthrie
-  - The Weavers
-  - Pete Seeger
+    - Woody Guthrie
+    - The Weavers
+    - Pete Seeger
 spotify_data:
   followers: 123693
   id: 3qtcbDvdIgQOXkPbtRvBaQ
   popularity: 39
-  url: https://open.spotify.com/artist/3qtcbDvdIgQOXkPbtRvBaQ
+  url: 'https://open.spotify.com/artist/3qtcbDvdIgQOXkPbtRvBaQ'
 discography_enriched: true
 top_tracks:
-- Where Have All The Flowers Gone? - Remastered (The Capitol Collector's Series)
-- Tom Dooley (The Kingston Trio)
-- Greenback Dollar (New Frontier)
-- M.T.A. (Kingston Trio At Large)
-- Scotch And Soda (The Kingston Trio)
-- Sloop John B (The Kingston Trio)
-- Tom Dooley - Remastered (The Capitol Collector's Series)
-- Chilly Winds - Live
-- The Tijuana Jail - 1990 Digital Remaster (The Capitol Collector's Series)
-- Try To Remember (#16)
+  - >-
+    Where Have All The Flowers Gone? - Remastered (The Capitol Collector's
+    Series)
+  - Tom Dooley (The Kingston Trio)
+  - Greenback Dollar (New Frontier)
+  - M.T.A. (Kingston Trio At Large)
+  - Scotch And Soda (The Kingston Trio)
+  - Sloop John B (The Kingston Trio)
+  - Tom Dooley - Remastered (The Capitol Collector's Series)
+  - Chilly Winds - Live
+  - The Tijuana Jail - 1990 Digital Remaster (The Capitol Collector's Series)
+  - Try To Remember (#16)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/78977492-5888-4c7a-92b3-95293e90a653
-  spotify: https://open.spotify.com/artist/3qtcbDvdIgQOXkPbtRvBaQ
+  musicbrainz: 'https://musicbrainz.org/artist/78977492-5888-4c7a-92b3-95293e90a653'
+  spotify: 'https://open.spotify.com/artist/3qtcbDvdIgQOXkPbtRvBaQ'
   wikipedia: Not provided in search results
 image_path: 03_Resources/source_material/ArtistPortraits/the_kingston_trio.jpg
 biography_enhanced_at: '2025-11-24T08:36:56.545230'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- spclarke.com
-- vocalgroup.org - The Vocal Group Hall of Fame
-- sausalitohistoricalsociety.com
-- acousticguitar.com
-- britannica.com
-- kingstontrio.com
-- study.com
-- wisc.edu - UW Digital Collections
+  - spclarke.com
+  - vocalgroup.org - The Vocal Group Hall of Fame
+  - sausalitohistoricalsociety.com
+  - acousticguitar.com
+  - britannica.com
+  - kingstontrio.com
+  - study.com
+  - wisc.edu - UW Digital Collections
 network_extracted: true
 entry_created: '2025-11-24T08:36:56.545246'
 last_updated: '2025-12-23T08:16:16.892527'
 members:
-- begin: '1957'
-  end: '1961'
-  instruments:
-  - original
-  mbid: 1bc02b91-bd9b-464b-9c2a-c75e7580912a
-  name: Dave Guard
-- begin: '1957'
-  end: '1967'
-  instruments:
-  - original
-  mbid: 834bedb9-6e72-4314-b98c-d7408b123377
-  name: Nick Reynolds
-- begin: '1957'
-  end: '1967'
-  instruments:
-  - original
-  mbid: 9901f770-0a2f-4970-a985-6c71f266be76
-  name: Bob Shane
-- begin: '1961'
-  end: '1967'
-  instruments: []
-  mbid: 775f55c0-1ea8-43fd-a5d0-0817a5085575
-  name: John Stewart
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 06291a82-c731-43fa-9c0a-ec4daf5d4dd4
-  name: George Grove
+  - begin: '1957'
+    end: '1961'
+    instruments:
+      - original
+    mbid: 1bc02b91-bd9b-464b-9c2a-c75e7580912a
+    name: Dave Guard
+  - begin: '1957'
+    end: '1967'
+    instruments:
+      - original
+    mbid: 834bedb9-6e72-4314-b98c-d7408b123377
+    name: Nick Reynolds
+  - begin: '1957'
+    end: '1967'
+    instruments:
+      - original
+    mbid: 9901f770-0a2f-4970-a985-6c71f266be76
+    name: Bob Shane
+  - begin: '1961'
+    end: '1967'
+    instruments: []
+    mbid: 775f55c0-1ea8-43fd-a5d0-0817a5085575
+    name: John Stewart
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 06291a82-c731-43fa-9c0a-ec4daf5d4dd4
+    name: George Grove
 musicbrainz_id: 78977492-5888-4c7a-92b3-95293e90a653
-origin: Palo Alto, California, United States
+origin: 'Palo Alto, California, United States'
 tags:
-- american folk music
-- american folk revival
-- contemporary folk
-
+  - american folk music
+  - american folk revival
+  - contemporary folk
 ---
 
 ![](the_kingston_trio.jpg)

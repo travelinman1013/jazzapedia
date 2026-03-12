@@ -3,21 +3,21 @@ title: Jo Jones
 wiki_slug: jo-jones
 schema_version: 2
 status: active
-birth_place: Chicago, Illinois, United States
+birth_place: 'Chicago, Illinois, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jo_jones.jpg
   caption: Jo Jones
   background: solo_singer
-  origin: Chicago, Illinois, United States
+  origin: 'Chicago, Illinois, United States'
 audio_profile:
   tempo_avg: 114.1
   energy_avg: 0.715
   valence_avg: 0.507
   danceability_avg: 0.642
   acousticness_avg: 0.17
-  instrumentalness_avg: 0.0
-  loudness_avg: -6.0
+  instrumentalness_avg: 0
+  loudness_avg: -6
   speechiness_avg: 0.305
   liveness_avg: 0.222
   track_count: 50
@@ -25,62 +25,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Count Basie
-  - Freddie Green
-  - Billie Holiday
-  - Duke Ellington
-  - Lester Young
-  - Art Tatum
-  - Benny Goodman
-  - Johnny Hodges
-  - Teddy Wilson
+    - Count Basie
+    - Freddie Green
+    - Billie Holiday
+    - Duke Ellington
+    - Lester Young
+    - Art Tatum
+    - Benny Goodman
+    - Johnny Hodges
+    - Teddy Wilson
   influenced:
-  - Max Roach
-  - Roy Haynes
-  - Kenny Clarke
-  - Art Blakey
-  - Philly Joe Jones
-  - Elvin Jones
+    - Max Roach
+    - Roy Haynes
+    - Kenny Clarke
+    - Art Blakey
+    - Philly Joe Jones
+    - Elvin Jones
   mentors:
-  - Walter Page
-  - Lloyd Hunter
+    - Walter Page
+    - Lloyd Hunter
 spotify_data:
   followers: 728430
   id: 6AMa1VFQ7qCi61tCRtVWXe
   popularity: 53
-  url: https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe
+  url: 'https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe'
 discography_enriched: true
 top_tracks:
-- We Fly High (Hustler's P.O.M.E. (Product Of My Environment))
-- We Set The Trends (feat. Migos & ‎Juelz Santana) - Remix
-- Throw Some D's Remix (Rich Boy)
-- We Fly High - Ballin'
-- Opp Thot (At the Church Steps)
-- We Set The Trends
-- Genesis (At the Church Steps)
-- Make It Out (At the Church Steps)
-- Jomo (At the Church Steps)
-- Walking On Business (At the Church Steps)
+  - We Fly High (Hustler's P.O.M.E. (Product Of My Environment))
+  - We Set The Trends (feat. Migos & ‎Juelz Santana) - Remix
+  - Throw Some D's Remix (Rich Boy)
+  - We Fly High - Ballin'
+  - Opp Thot (At the Church Steps)
+  - We Set The Trends
+  - Genesis (At the Church Steps)
+  - Make It Out (At the Church Steps)
+  - Jomo (At the Church Steps)
+  - Walking On Business (At the Church Steps)
 external_urls:
-  spotify: https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe
-  wikipedia: https://en.wikipedia.org/wiki/Jo_Jones
+  spotify: 'https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jo_Jones'
 image_path: 03_Resources/source_material/ArtistPortraits/jo_jones.jpg
 biography_enhanced_at: '2025-12-04T08:18:15.797636'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Percussive Arts Society - Jo Jones
-- Wikipedia - Jo Jones
-- Britannica - Jo Jones
-- National Endowment for the Arts - Jonathan 'Jo' Jones
-- All About Jazz - Jo Jones
-- Jazz Profiles Blog - Papa Jo Jones
-- Modern Drummer - Papa Jo Jones
-- Gretsch Drums - Papa Jo Jones
-- Jango Music - Jo Jones
+  - Percussive Arts Society - Jo Jones
+  - Wikipedia - Jo Jones
+  - Britannica - Jo Jones
+  - National Endowment for the Arts - Jonathan 'Jo' Jones
+  - All About Jazz - Jo Jones
+  - Jazz Profiles Blog - Papa Jo Jones
+  - Modern Drummer - Papa Jo Jones
+  - Gretsch Drums - Papa Jo Jones
+  - Jango Music - Jo Jones
 network_extracted: true
 entry_created: '2025-12-04T08:18:15.797655'
 last_updated: '2025-12-23T08:16:10.553269'
+birth_date: '1911-10-07'
+artist_type: person
 ---
 
 ![](jo_jones.jpg)

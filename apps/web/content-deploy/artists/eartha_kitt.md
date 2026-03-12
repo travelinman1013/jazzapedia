@@ -5,19 +5,19 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1927-01-17'
-birth_place: North
+birth_place: 'North, South Carolina, United States'
 death_date: '2008-12-25'
 genres:
-- christmas
+  - christmas
 instruments:
-- spoken vocals
-- lead vocals
+  - spoken vocals
+  - lead vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 30be4eb7-e2c7-4022-8072-2924307f385b
-  name: We Are Family Collective
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 30be4eb7-e2c7-4022-8072-2924307f385b
+    name: We Are Family Collective
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/eartha_kitt.jpg
   caption: Eartha Kitt
@@ -40,54 +40,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Katherine Dunham Dance Troupe
-  - Orson Welles
+    - Katherine Dunham Dance Troupe
+    - Orson Welles
   influenced:
-  - Vanessa Williams
-  - Beyoncé
+    - Vanessa Williams
+    - Beyoncé
   mentors:
-  - Katherine Dunham
-  - Orson Welles
+    - Katherine Dunham
+    - Orson Welles
 spotify_data:
   followers: 213570
   id: 1AwO9pWEBSBoWdEZu28XDC
   popularity: 55
-  url: https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC
+  url: 'https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC'
 discography_enriched: true
 top_tracks:
-- Santa Baby (with Henri René & His Orchestra) (Heavenly Eartha)
-- Je Cherche Un Homme (Miss Kitt To You)
-- Let's Do It (That Bad Eartha)
-- C'est Si Bon (That Bad Eartha)
-- Let's Do It (That Bad Eartha)
-- My Heart Belongs to Daddy (That Bad Eartha)
-- C'est Si Bon
-- Santa Baby
-- C'est Si Bon (That Bad Eartha)
-- I Want to Be Evil (That Bad Eartha)
+  - Santa Baby (with Henri René & His Orchestra) (Heavenly Eartha)
+  - Je Cherche Un Homme (Miss Kitt To You)
+  - Let's Do It (That Bad Eartha)
+  - C'est Si Bon (That Bad Eartha)
+  - Let's Do It (That Bad Eartha)
+  - My Heart Belongs to Daddy (That Bad Eartha)
+  - C'est Si Bon
+  - Santa Baby
+  - C'est Si Bon (That Bad Eartha)
+  - I Want to Be Evil (That Bad Eartha)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/02b4a39e-04c0-4eb7-a0eb-c919f3d14154
-  spotify: https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC
-  wikipedia: https://en.wikipedia.org/wiki/Eartha_Kitt
+  musicbrainz: 'https://musicbrainz.org/artist/02b4a39e-04c0-4eb7-a0eb-c919f3d14154'
+  spotify: 'https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC'
+  wikipedia: 'https://en.wikipedia.org/wiki/Eartha_Kitt'
 image_path: 03_Resources/source_material/ArtistPortraits/eartha_kitt.jpg
 biography_enhanced_at: '2025-11-11T09:15:33.184832'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Eartha_Kitt
-- https://guides.loc.gov/chronicling-america-eartha-kitt
-- https://scmuseum.org/learn/deeper-dive-series/south-carolina-superheroes-eartha-kitt
-- https://www.thehistorymakers.org/biography/eartha-kitt-41
-- https://www.britannica.com/biography/Eartha-Kitt
+  - 'https://en.wikipedia.org/wiki/Eartha_Kitt'
+  - 'https://guides.loc.gov/chronicling-america-eartha-kitt'
+  - >-
+    https://scmuseum.org/learn/deeper-dive-series/south-carolina-superheroes-eartha-kitt
+  - 'https://www.thehistorymakers.org/biography/eartha-kitt-41'
+  - 'https://www.britannica.com/biography/Eartha-Kitt'
 network_extracted: true
 entry_created: '2025-11-11T09:15:33.184842'
 last_updated: '2025-12-23T08:16:08.127272'
 gender: Female
 musicbrainz_id: 02b4a39e-04c0-4eb7-a0eb-c919f3d14154
 tags:
-- 2008 universal fire victim
-- american
-- death by cancer
+  - 2008 universal fire victim
+  - american
+  - death by cancer
+is_active: false
+origin: 'Harlem, New York, United States'
 ---
 
 ![](eartha_kitt.jpg)

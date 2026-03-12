@@ -5,20 +5,20 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1926-12-11'
-birth_place: Ariton
+birth_place: 'Ariton, Alabama, United States'
 death_date: '1984-07-25'
 genres:
-- blues
-- classic blues
+  - blues
+  - classic blues
 instruments:
-- lead vocals
-- vocal
+  - lead vocals
+  - vocal
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f9f3aa04-b083-436f-84bf-d234f27f81bc
-  name: Harlem Stars
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f9f3aa04-b083-436f-84bf-d234f27f81bc
+    name: Harlem Stars
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/big_mama_thornton.jpg
   caption: Big Mama Thornton
@@ -33,7 +33,7 @@ audio_profile:
   danceability_avg: 0.563
   acousticness_avg: 0.577
   instrumentalness_avg: 0.038
-  loudness_avg: -11.0
+  loudness_avg: -11
   speechiness_avg: 0.054
   liveness_avg: 0.235
   track_count: 52
@@ -41,62 +41,69 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jerry Leiber and Mike Stoller
-  - Muddy Waters
-  - Chicago Blues Band members (Sammy Lawhorn, James Cotton, Otis Spann, Luther Johnson, Francis Clay)
-  - B.B. King, Eddie 'Cleanhead' Vinson
+    - Jerry Leiber and Mike Stoller
+    - Muddy Waters
+    - >-
+      Chicago Blues Band members (Sammy Lawhorn, James Cotton, Otis Spann,
+      Luther Johnson, Francis Clay)
+    - 'B.B. King, Eddie ''Cleanhead'' Vinson'
   influenced:
-  - Elvis Presley
-  - Janis Joplin
-  - Early rock and roll and blues artists
+    - Elvis Presley
+    - Janis Joplin
+    - Early rock and roll and blues artists
   mentors:
-  - Sammy Green
-  - Johnny Otis
-  - Don Robey
-  - Lightnin' Hopkins, Lowell Fulson, Junior Parker, Clarence 'Gatemouth' Brown
+    - Sammy Green
+    - Johnny Otis
+    - Don Robey
+    - >-
+      Lightnin' Hopkins, Lowell Fulson, Junior Parker, Clarence 'Gatemouth'
+      Brown
 spotify_data:
   followers: 206500
   id: 6bR0cgMtkCVpm0I5yrDNzO
   popularity: 41
-  url: https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO
+  url: 'https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO'
 discography_enriched: true
 top_tracks:
-- Hound Dog (Ball n' Chain)
-- Ball N' Chain (Ball n' Chain)
-- Sweet Little Angel (Ball n' Chain)
-- Hound Dog - Single Version (Hound Dog / The Peacock Recordings)
-- I'm Feeling Alright (Big Mama Thornton with the Muddy Waters Blues Band - 1966)
-- 'Hound Dog (Precious & Rare: Big Mama Thornton)'
-- Watermelon Man (Sassy Mama)
-- Gonna Leave You (The Complete Vanguard Recordings)
-- They Call Me Big Mama (Hound Dog / The Peacock Recordings)
-- Let's Go Get Stoned (Stronger Than Dirt)
+  - Hound Dog (Ball n' Chain)
+  - Ball N' Chain (Ball n' Chain)
+  - Sweet Little Angel (Ball n' Chain)
+  - Hound Dog - Single Version (Hound Dog / The Peacock Recordings)
+  - >-
+    I'm Feeling Alright (Big Mama Thornton with the Muddy Waters Blues Band -
+    1966)
+  - 'Hound Dog (Precious & Rare: Big Mama Thornton)'
+  - Watermelon Man (Sassy Mama)
+  - Gonna Leave You (The Complete Vanguard Recordings)
+  - They Call Me Big Mama (Hound Dog / The Peacock Recordings)
+  - Let's Go Get Stoned (Stronger Than Dirt)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2993f855-403f-4c6a-bea9-088cd5d354dc
-  spotify: https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO
-  wikipedia: https://en.wikipedia.org/wiki/Big_Mama_Thornton
+  musicbrainz: 'https://musicbrainz.org/artist/2993f855-403f-4c6a-bea9-088cd5d354dc'
+  spotify: 'https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO'
+  wikipedia: 'https://en.wikipedia.org/wiki/Big_Mama_Thornton'
 image_path: 03_Resources/source_material/ArtistPortraits/big_mama_thornton.jpg
 biography_enhanced_at: '2025-12-04T07:25:08.519955'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Encyclopedia of Alabama
-- Alabama Music Hall of Fame
-- Celina City Schools
-- Wikipedia
-- Britannica
-- Rock & Roll Hall of Fame
-- Texas State Historical Association
+  - Encyclopedia of Alabama
+  - Alabama Music Hall of Fame
+  - Celina City Schools
+  - Wikipedia
+  - Britannica
+  - Rock & Roll Hall of Fame
+  - Texas State Historical Association
 network_extracted: true
 entry_created: '2025-12-04T07:25:08.519967'
 last_updated: '2025-12-23T08:16:05.462757'
 gender: Female
 musicbrainz_id: 2993f855-403f-4c6a-bea9-088cd5d354dc
 tags:
-- 2008 universal fire victim
-- electric blues
-- r&b
-
+  - 2008 universal fire victim
+  - electric blues
+  - r&b
+is_active: false
+origin: 'Houston, Texas, United States'
 ---
 
 ![](big_mama_thornton.jpg)

@@ -3,13 +3,13 @@ title: Charles Stepney
 wiki_slug: charles-stepney
 schema_version: 2
 status: active
-birth_place: Chicago, Illinois, United States
+birth_place: 'Chicago, Illinois, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Charles_Stepney.jpg
   caption: Charles Stepney
   background: solo_singer
-  origin: Chicago, Illinois, United States
+  origin: 'Chicago, Illinois, United States'
 audio_profile:
   tempo_avg: 113.2
   energy_avg: 0.562
@@ -25,52 +25,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Marshall Chess
-  - Minnie Riperton
-  - The Dells
-  - Earth, Wind & Fire
-  - Ramsey Lewis
+    - Marshall Chess
+    - Minnie Riperton
+    - The Dells
+    - 'Earth, Wind & Fire'
+    - Ramsey Lewis
   influenced:
-  - Kanye West
-  - The Fugees
-  - A Tribe Called Quest
-  - Contemporary R&B and soul producers
+    - Kanye West
+    - The Fugees
+    - A Tribe Called Quest
+    - Contemporary R&B and soul producers
   mentors:
-  - Richard Evans
+    - Richard Evans
 spotify_data:
   followers: 8137
   id: 1kGgLfwxUWUuggbxjF29Ds
   popularity: 18
-  url: https://open.spotify.com/artist/1kGgLfwxUWUuggbxjF29Ds
+  url: 'https://open.spotify.com/artist/1kGgLfwxUWUuggbxjF29Ds'
 discography_enriched: true
 top_tracks:
-- On Your Face (Step on Step)
-- Daddy's Diddies (Step on Step)
-- On Your Face (Step on Step)
-- Daddy's Diddies (Step on Step)
-- Step on Step (Step on Step)
-- Gimme Some Sugar (Step on Step)
-- Gimme Some Sugar (Step on Step)
-- No Credit For This (Step on Step)
-- That's the Way of the World (Step on Step)
-- That's The Way Of The World (Step on Step)
+  - On Your Face (Step on Step)
+  - Daddy's Diddies (Step on Step)
+  - On Your Face (Step on Step)
+  - Daddy's Diddies (Step on Step)
+  - Step on Step (Step on Step)
+  - Gimme Some Sugar (Step on Step)
+  - Gimme Some Sugar (Step on Step)
+  - No Credit For This (Step on Step)
+  - That's the Way of the World (Step on Step)
+  - That's The Way Of The World (Step on Step)
 external_urls:
-  spotify: https://open.spotify.com/artist/1kGgLfwxUWUuggbxjF29Ds
-  wikipedia: https://en.wikipedia.org/wiki/Charles_Stepney
+  spotify: 'https://open.spotify.com/artist/1kGgLfwxUWUuggbxjF29Ds'
+  wikipedia: 'https://en.wikipedia.org/wiki/Charles_Stepney'
 image_path: 03_Resources/source_material/ArtistPortraits/Charles_Stepney.jpg
 biography_enhanced_at: '2025-10-20T09:41:37.334039'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Charles_Stepney
-- https://visit.mcachicago.org/stepney/
-- https://www.intlanthem.com/artists/charles-stepney
-- https://www.afterglowatx.com/blog/2023/4/22/aural-history-the-underappreciated-legacy-of-charles-stepney
-- https://www.udiscovermusic.com/stories/richard-evans-charles-stepney-feature/
-- https://complexdistractions.blog/2022/09/30/charles-stepney-step-on-step/
+  - 'https://en.wikipedia.org/wiki/Charles_Stepney'
+  - 'https://visit.mcachicago.org/stepney/'
+  - 'https://www.intlanthem.com/artists/charles-stepney'
+  - >-
+    https://www.afterglowatx.com/blog/2023/4/22/aural-history-the-underappreciated-legacy-of-charles-stepney
+  - >-
+    https://www.udiscovermusic.com/stories/richard-evans-charles-stepney-feature/
+  - 'https://complexdistractions.blog/2022/09/30/charles-stepney-step-on-step/'
 network_extracted: true
 entry_created: '2025-10-20T09:41:37.334054'
 last_updated: '2025-12-23T08:16:01.493267'
+origin: 'Chicago, Illinois, United States'
+artist_type: person
 ---
 
 ![](Charles_Stepney.jpg)

@@ -1,23 +1,23 @@
 ---
-title: the black keys
+title: The Black Keys
 wiki_slug: the-black-keys
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '2001'
 genres:
-- blues rock
-- garage rock
-- modern blues
-- rock
+  - blues rock
+  - garage rock
+  - modern blues
+  - rock
 instruments:
-- bass guitar
-- guitar
-- keyboard
-- lead vocals
-- original
-- drums (drum set)
-- percussion
+  - bass guitar
+  - guitar
+  - keyboard
+  - lead vocals
+  - original
+  - drums (drum set)
+  - percussion
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_black_keys.jpg
   caption: the black keys
@@ -38,80 +38,80 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Patrick Carney
-  - Kenny Brown
-  - Eric Deaton
-  - Danger Mouse (Brian Burton)
+    - Patrick Carney
+    - Kenny Brown
+    - Eric Deaton
+    - Danger Mouse (Brian Burton)
   influenced:
-  - Royal Blood
-  - Greta Van Fleet
+    - Royal Blood
+    - Greta Van Fleet
   mentors:
-  - Junior Kimbrough
-  - R.L. Burnside
-  - Howlin’ Wolf
+    - Junior Kimbrough
+    - R.L. Burnside
+    - Howlin’ Wolf
 spotify_data:
   followers: 4137404
   id: 7mnBLXK823vNxN3UWB7Gfz
   popularity: 68
-  url: https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz
+  url: 'https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz'
 discography_enriched: true
 top_tracks:
-- Lonely Boy - 2021 Remaster (El Camino (2021 Remaster))
-- Lonely Boy (El Camino)
-- Howlin' for You (Brothers)
-- Gold on the Ceiling - 2021 Remaster (El Camino (2021 Remaster))
-- Howlin' for You (Brothers (Deluxe Remastered Anniversary Edition))
-- Fever (Turn Blue)
-- No Rain, No Flowers
-- Wild Child (Dropout Boogie)
-- Tighten Up (Brothers)
-- Gold on the Ceiling (El Camino)
+  - Lonely Boy - 2021 Remaster (El Camino (2021 Remaster))
+  - Lonely Boy (El Camino)
+  - Howlin' for You (Brothers)
+  - Gold on the Ceiling - 2021 Remaster (El Camino (2021 Remaster))
+  - Howlin' for You (Brothers (Deluxe Remastered Anniversary Edition))
+  - Fever (Turn Blue)
+  - 'No Rain, No Flowers'
+  - Wild Child (Dropout Boogie)
+  - Tighten Up (Brothers)
+  - Gold on the Ceiling (El Camino)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d15721d8-56b4-453d-b506-fc915b14cba2
-  spotify: https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz
-  wikipedia: https://simple.wikipedia.org/wiki/The_Black_Keys
+  musicbrainz: 'https://musicbrainz.org/artist/d15721d8-56b4-453d-b506-fc915b14cba2'
+  spotify: 'https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz'
+  wikipedia: 'https://simple.wikipedia.org/wiki/The_Black_Keys'
 image_path: 03_Resources/source_material/ArtistPortraits/the_black_keys.jpg
 biography_enhanced_at: '2025-10-24T07:54:43.038873'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://americansongwriter.com/behind-the-band-name-the-black-keys/
-- https://jbonamassa.com/the-black-keys-american-rock-band/
-- https://simple.wikipedia.org/wiki/The_Black_Keys
-- https://www.last.fm/music/The+Black+Keys/+wiki
+  - 'https://americansongwriter.com/behind-the-band-name-the-black-keys/'
+  - 'https://jbonamassa.com/the-black-keys-american-rock-band/'
+  - 'https://simple.wikipedia.org/wiki/The_Black_Keys'
+  - 'https://www.last.fm/music/The+Black+Keys/+wiki'
 network_extracted: true
 entry_created: '2025-10-24T07:54:43.038882'
 last_updated: '2025-12-23T08:16:16.570653'
 members:
-- &id001
-  begin: '2001'
-  end: ''
-  instruments:
-  - bass guitar
-  - guitar
-  - keyboard
-  - lead vocals
-  - original
-  mbid: fa4f4b89-3ddc-4e97-88fa-0e30121f986a
-  name: Dan Auerbach
-- &id002
-  begin: '2001'
-  end: ''
-  instruments:
-  - drums (drum set)
-  - original
-  - percussion
-  mbid: 49619623-d031-4cec-8893-c2025ab45256
-  name: Patrick Carney
+  - &ref_0
+    begin: '2001'
+    end: ''
+    instruments:
+      - bass guitar
+      - guitar
+      - keyboard
+      - lead vocals
+      - original
+    mbid: fa4f4b89-3ddc-4e97-88fa-0e30121f986a
+    name: Dan Auerbach
+  - &ref_1
+    begin: '2001'
+    end: ''
+    instruments:
+      - drums (drum set)
+      - original
+      - percussion
+    mbid: 49619623-d031-4cec-8893-c2025ab45256
+    name: Patrick Carney
 musicbrainz_id: d15721d8-56b4-453d-b506-fc915b14cba2
-origin: Akron
+origin: 'Akron, Ohio, United States'
 original_members:
-- *id001
-- *id002
+  - *ref_0
+  - *ref_1
 tags:
-- alternative rock
-- blues
-- blues rock
+  - alternative rock
+  - blues
+  - blues rock
 ---
 
 ![](the_black_keys.jpg)

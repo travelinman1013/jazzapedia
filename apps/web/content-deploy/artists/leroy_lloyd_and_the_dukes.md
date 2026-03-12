@@ -1,5 +1,5 @@
 ---
-title: leroy lloyd & the dukes
+title: Leroy Lloyd & the Dukes
 wiki_slug: leroy-lloyd-the-dukes
 schema_version: 2
 status: active
@@ -23,40 +23,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - James Brown
-  - Jackie Wilson
-  - Finley Duncan
-  - Newton Collier
+    - James Brown
+    - Jackie Wilson
+    - Finley Duncan
+    - Newton Collier
   influenced: []
   mentors: []
 spotify_data:
   followers: 1
   id: 44Gy44vbmeULjjYd950hs7
   popularity: 0
-  url: https://open.spotify.com/artist/44Gy44vbmeULjjYd950hs7
+  url: 'https://open.spotify.com/artist/44Gy44vbmeULjjYd950hs7'
 discography_enriched: true
 top_tracks:
-- 'A Taste Of The Blues (Blue Diamonds: Southern Soul Gems)'
+  - 'A Taste Of The Blues (Blue Diamonds: Southern Soul Gems)'
 external_urls:
-  spotify: https://open.spotify.com/artist/44Gy44vbmeULjjYd950hs7
+  spotify: 'https://open.spotify.com/artist/44Gy44vbmeULjjYd950hs7'
   wikipedia: Not found
 image_path: ''
 biography_enhanced_at: '2025-12-04T07:51:19.675390'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- 'Middle Georgia Informer - Jammin'' Again: Newton Collier''s Comeback'
-- 'Augusta Chronicle - Ramblin'' Rhodes: R&B pioneer Leroy Lloyd remembered by local fans'
-- Augusta Chronicle - The color of music
-- Musicbed - Leroy Lloyd Artist Profile
-- YouTube - Leroy Lloyd & The Swinging Dukes Live Concert 1994
-- 'PopDose - Soul Serenade: The South Side of Soul Street'
-- Legacy.com - Leroy Lloyd Obituary
-- YouTube - I've Got To Tell You - Count Willie with Leroy Lloyd And The Dukes
+  - 'Middle Georgia Informer - Jammin'' Again: Newton Collier''s Comeback'
+  - >-
+    Augusta Chronicle - Ramblin' Rhodes: R&B pioneer Leroy Lloyd remembered by
+    local fans
+  - Augusta Chronicle - The color of music
+  - Musicbed - Leroy Lloyd Artist Profile
+  - YouTube - Leroy Lloyd & The Swinging Dukes Live Concert 1994
+  - 'PopDose - Soul Serenade: The South Side of Soul Street'
+  - Legacy.com - Leroy Lloyd Obituary
+  - YouTube - I've Got To Tell You - Count Willie with Leroy Lloyd And The Dukes
 network_extracted: true
 entry_created: '2025-12-04T07:51:19.675397'
 last_updated: '2025-12-23T08:16:11.830241'
-origin: South Carolina, United States (origin); Augusta, Georgia, United States (primary base of operations)
+origin: >-
+  South Carolina, United States (origin); Augusta, Georgia, United States
+  (primary base of operations)
+artist_type: band
 ---
 
 ![]()

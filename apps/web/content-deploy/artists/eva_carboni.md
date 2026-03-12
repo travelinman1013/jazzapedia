@@ -1,48 +1,51 @@
 ---
 biography_enhanced_at: '2026-01-22T07:15:18.012719'
-birth_place: Sassari, Sardinia, Italy
+birth_place: 'Sassari, Sardinia, Italy'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:15:18.012727'
 external_urls:
-  spotify: https://open.spotify.com/artist/734ivR7PaIHzshAx6KqmEN
+  spotify: 'https://open.spotify.com/artist/734ivR7PaIHzshAx6KqmEN'
   wikipedia: Not found in search results
 genres:
-- blues
+  - blues
 image_path: 03_Resources/source_material/ArtistPortraits/eva_carboni.jpg
 last_updated: '2026-01-22T07:15:18.012728'
 musical_connections:
   collaborators:
-  - Andy Littlewood
-  - Mick Simpson
-  - Pete Nelson
-  - Vic Martin
-  - Chris Booth
-  - Rene Lacko
-  - Dave Hunt
-  - Andreus Linsdell
+    - Andy Littlewood
+    - Mick Simpson
+    - Pete Nelson
+    - Vic Martin
+    - Chris Booth
+    - Rene Lacko
+    - Dave Hunt
+    - Andreus Linsdell
   influenced:
-  - Janis Joplin
-  - Tina Turner
+    - Janis Joplin
+    - Tina Turner
   mentors:
-  - Elisabeth Howard
-  - Andy Littlewood
+    - Elisabeth Howard
+    - Andy Littlewood
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://bluestownmusic.nl/new-release-eva-carboni-blues-siren/
-- https://www.donstunes.com/eva-carboni/
-- https://www.evacarboni.com/index.html
-- https://blues.gr/profiles/blogs/q-a-with-italian-gifted-singer-and-songwriter-eva-carboni-explore
-- https://www.bluesblastmagazine.com/eva-carboni-the-blues-archives-album-review/
-- https://www.scribd.com/document/497625680/Eva-Carboni-Biog
-- https://www.newportcityradio.org/in-conversation-with-colin-eva-carboni/
+  - 'https://bluestownmusic.nl/new-release-eva-carboni-blues-siren/'
+  - 'https://www.donstunes.com/eva-carboni/'
+  - 'https://www.evacarboni.com/index.html'
+  - >-
+    https://blues.gr/profiles/blogs/q-a-with-italian-gifted-singer-and-songwriter-eva-carboni-explore
+  - >-
+    https://www.bluesblastmagazine.com/eva-carboni-the-blues-archives-album-review/
+  - 'https://www.scribd.com/document/497625680/Eva-Carboni-Biog'
+  - 'https://www.newportcityradio.org/in-conversation-with-colin-eva-carboni/'
 spotify_data:
   followers: 3239
   id: 734ivR7PaIHzshAx6KqmEN
   popularity: 31
-  url: https://open.spotify.com/artist/734ivR7PaIHzshAx6KqmEN
+  url: 'https://open.spotify.com/artist/734ivR7PaIHzshAx6KqmEN'
 status: active
 title: Eva Carboni
+artist_type: person
 ---
 
 ![](eva_carboni.jpg)

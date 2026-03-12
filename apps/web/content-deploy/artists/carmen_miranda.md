@@ -5,7 +5,7 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1909-02-09'
-birth_place: Marco de Canaveses
+birth_place: 'Marco de Canaveses, Portugal, Portugal'
 death_date: '1955-08-05'
 genres: []
 infobox:
@@ -30,56 +30,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bando da Lua
-  - Lee Shubert
+    - Bando da Lua
+    - Lee Shubert
   influenced:
-  - Celia Cruz
-  - Olga San Juan
+    - Celia Cruz
+    - Olga San Juan
   mentors:
-  - Josué de Barros
+    - Josué de Barros
 spotify_data:
   followers: 37219
   id: 7iSJhi05cFvFylzw921y3H
   popularity: 30
-  url: https://open.spotify.com/artist/7iSJhi05cFvFylzw921y3H
+  url: 'https://open.spotify.com/artist/7iSJhi05cFvFylzw921y3H'
 discography_enriched: true
 top_tracks:
-- Disseram Que Eu Voltei Americanizada (Carmen Miranda (Vol. 5))
-- Chica Chica Boom Chic (That Is!)
-- Tico Tico (No Fubá) (That Is!)
-- South American Way (That Is!)
-- Mama Eu Quero (That Is!)
-- Tic Tic Tac do Meu Coracao (South American Way)
-- Chica Chica Boom Chic
-- Ta-Hi (Pra Você Gostar De Mim) (Carmen Miranda Vol. 1, 2 E 3)
-- O Que É Que A Baiana Tem (O Que E Que A Baiana Tem?)
-- O Que E Que A Baiana Tem? (What Is It The Bahiana Has?) (The Extraordinary Girl)
+  - Disseram Que Eu Voltei Americanizada (Carmen Miranda (Vol. 5))
+  - Chica Chica Boom Chic (That Is!)
+  - Tico Tico (No Fubá) (That Is!)
+  - South American Way (That Is!)
+  - Mama Eu Quero (That Is!)
+  - Tic Tic Tac do Meu Coracao (South American Way)
+  - Chica Chica Boom Chic
+  - 'Ta-Hi (Pra Você Gostar De Mim) (Carmen Miranda Vol. 1, 2 E 3)'
+  - O Que É Que A Baiana Tem (O Que E Que A Baiana Tem?)
+  - >-
+    O Que E Que A Baiana Tem? (What Is It The Bahiana Has?) (The Extraordinary
+    Girl)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8aee107e-f22b-40cf-95cb-67fce8fa5fbd
-  spotify: https://open.spotify.com/artist/7iSJhi05cFvFylzw921y3H
-  wikipedia: https://en.wikipedia.org/wiki/Carmen_Miranda
+  musicbrainz: 'https://musicbrainz.org/artist/8aee107e-f22b-40cf-95cb-67fce8fa5fbd'
+  spotify: 'https://open.spotify.com/artist/7iSJhi05cFvFylzw921y3H'
+  wikipedia: 'https://en.wikipedia.org/wiki/Carmen_Miranda'
 image_path: 03_Resources/source_material/ArtistPortraits/carmen_miranda.jpg
 biography_enhanced_at: '2025-11-23T06:30:26.662675'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.connectbrazil.com/carmen-miranda-and-her-amazing-techincolor-life/
-- https://walkoffame.com/carmen-miranda/
-- https://artsandculture.google.com/story/from-little-remarkable-to-brazilian-bombshell-museu-carmen-miranda/GAUxHYIFTZlWJg?hl=en
-- https://www.ebsco.com/research-starters/history/carmen-miranda
-- https://www.britannica.com/biography/Carmen-Miranda
-- https://www.imdb.com/name/nm0000544/bio/
-- https://en.wikipedia.org/wiki/Carmen_Miranda
-- https://www.si.edu/spotlight/latin-music-legends-stamps/carmen-miranda
+  - >-
+    https://www.connectbrazil.com/carmen-miranda-and-her-amazing-techincolor-life/
+  - 'https://walkoffame.com/carmen-miranda/'
+  - >-
+    https://artsandculture.google.com/story/from-little-remarkable-to-brazilian-bombshell-museu-carmen-miranda/GAUxHYIFTZlWJg?hl=en
+  - 'https://www.ebsco.com/research-starters/history/carmen-miranda'
+  - 'https://www.britannica.com/biography/Carmen-Miranda'
+  - 'https://www.imdb.com/name/nm0000544/bio/'
+  - 'https://en.wikipedia.org/wiki/Carmen_Miranda'
+  - 'https://www.si.edu/spotlight/latin-music-legends-stamps/carmen-miranda'
 network_extracted: true
 entry_created: '2025-11-23T06:30:26.662688'
 last_updated: '2025-12-23T08:16:06.486569'
 gender: Female
 musicbrainz_id: 8aee107e-f22b-40cf-95cb-67fce8fa5fbd
 tags:
-- latin
-- marchinha
-- samba
+  - latin
+  - marchinha
+  - samba
+is_active: false
+origin: 'Rio de Janeiro, Brazil, Brazil'
 ---
 
 ![](carmen_miranda.jpg)

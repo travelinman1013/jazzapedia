@@ -3,39 +3,44 @@ biography_enhanced_at: '2026-01-05T07:56:01.905764'
 enhancement_provider: perplexity
 entry_created: '2026-01-05T07:56:01.905770'
 external_urls:
-  spotify: https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU
+  spotify: 'https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU'
   wikipedia: ''
 genres: []
-image_path: 03_Resources/source_material/ArtistPortraits/jon_batiste_leon_bridges_gary_clark_jr.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/jon_batiste_leon_bridges_gary_clark_jr.jpg
 last_updated: '2026-01-05T07:56:01.905770'
 musical_connections:
   collaborators:
-  - Leon Bridges
-  - Stay Human
-  - Gary Clark Jr.
-  - The Dap-Kings
+    - Leon Bridges
+    - Stay Human
+    - Gary Clark Jr.
+    - The Dap-Kings
   influenced: []
   mentors:
-  - Clifford Antone
-  - Jimmie Vaughan
-  - Lionel Batiste and Harold Battiste
+    - Clifford Antone
+    - Jimmie Vaughan
+    - Lionel Batiste and Harold Battiste
 network_extracted: true
-origin: 'Multiple: Kenner, Louisiana, USA (Batiste); Austin, Texas, USA (Clark); Fort
-  Worth, Texas, USA (Bridges)'
+origin: >-
+  Multiple: Kenner, Louisiana, USA (Batiste); Austin, Texas, USA (Clark); Fort
+  Worth, Texas, USA (Bridges)
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Gary_Clark_Jr.
-- https://en.wikipedia.org/wiki/Jon_Batiste
-- https://www.last.fm/music/Jon+Batiste/+wiki
-- https://relix.com/articles/detail/cover-story-jon-batiste-man-of-the-world/
-- https://acltv.com/2021/10/14/episode-recap-jon-batiste/
+  - 'https://en.wikipedia.org/wiki/Gary_Clark_Jr.'
+  - 'https://en.wikipedia.org/wiki/Jon_Batiste'
+  - 'https://www.last.fm/music/Jon+Batiste/+wiki'
+  - 'https://relix.com/articles/detail/cover-story-jon-batiste-man-of-the-world/'
+  - 'https://acltv.com/2021/10/14/episode-recap-jon-batiste/'
 spotify_data:
   followers: 631709
   id: 0eRbECAGCLLiTyVXPBRexU
   popularity: 59
-  url: https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU
+  url: 'https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU'
 status: active
-title: Jon Batiste, Leon Bridges, Gary Clark Jr.
+title: 'Jon Batiste, Leon Bridges, Gary Clark Jr.'
+birth_place: 'Kenner, Louisiana, United States'
+birth_date: '1986-11-11'
+artist_type: band
 ---
 
 ![](jon_batiste_leon_bridges_gary_clark_jr.jpg)

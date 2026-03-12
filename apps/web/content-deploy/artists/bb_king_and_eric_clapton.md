@@ -4,11 +4,11 @@ wiki_slug: bb-king-eric-clapton
 schema_version: 2
 status: active
 genres:
-- blues
-- classic blues
-- jazz blues
-- soul blues
-- blues rock
+  - blues
+  - classic blues
+  - jazz blues
+  - soul blues
+  - blues rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bb_king_and_eric_clapton.jpg
   caption: BB King & Eric Clapton
@@ -28,50 +28,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Simon Climie
-  - John Mayall
-  - Cream
+    - Simon Climie
+    - John Mayall
+    - Cream
   influenced:
-  - Stevie Ray Vaughan
-  - John Mayer
-  - Gary Clark Jr.
+    - Stevie Ray Vaughan
+    - John Mayer
+    - Gary Clark Jr.
   mentors:
-  - T-Bone Walker
-  - B.B. King
+    - T-Bone Walker
+    - B.B. King
 spotify_data:
   followers: 2853993
   id: 5xLSa7l4IV1gsQfhAMvl0U
   popularity: 60
-  url: https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U
+  url: 'https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U'
 discography_enriched: true
 top_tracks:
-- The Thrill Is Gone (Completely Well)
-- The Thrill Is Gone (Deuces Wild)
-- When Love Comes To Town (Rattle And Hum)
-- We Are The World - Live (B.B. King - Featuring)
-- Riding With the King (Riding With The King)
-- Bring It On Home To Me (Deuces Wild)
-- Chains And Things (Indianola Mississippi Seeds)
-- Blues Boys Tune (Blues On The Bayou)
-- Why I Sing The Blues (Live And Well)
-- The Thrill Is Gone (B.B. King & Friends - 80)
+  - The Thrill Is Gone (Completely Well)
+  - The Thrill Is Gone (Deuces Wild)
+  - When Love Comes To Town (Rattle And Hum)
+  - We Are The World - Live (B.B. King - Featuring)
+  - Riding With the King (Riding With The King)
+  - Bring It On Home To Me (Deuces Wild)
+  - Chains And Things (Indianola Mississippi Seeds)
+  - Blues Boys Tune (Blues On The Bayou)
+  - Why I Sing The Blues (Live And Well)
+  - The Thrill Is Gone (B.B. King & Friends - 80)
 external_urls:
-  spotify: https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U
-  wikipedia: https://en.wikipedia.org/wiki/Riding_with_the_King_(B.B._King_and_Eric_Clapton_album)
+  spotify: 'https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U'
+  wikipedia: >-
+    https://en.wikipedia.org/wiki/Riding_with_the_King_(B.B._King_and_Eric_Clapton_album)
 image_path: 03_Resources/source_material/ArtistPortraits/bb_king_and_eric_clapton.jpg
 biography_enhanced_at: '2025-10-30T11:56:33.848623'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://entertainment.time.com/2011/08/09/top-10-musical-collaborations/slide/eric-clapton-and-b-b-king/
-- https://bluesrockreview.com/2024/12/10-blues-rock-collaborations-that-made-history.html
-- https://earofnewt.com/2015/02/01/b-b-king-says-that-eric-clapton-was-like-his-girlfriend-on-riding-with-the-king/
-- https://www.goldminemag.com/reviews/album-reviews/the-20th-anniversary-edition-of-b-b-king-and-eric-clapton-collaboration-riding-with-the-king-comes-with-the-right-extras/
+  - >-
+    https://entertainment.time.com/2011/08/09/top-10-musical-collaborations/slide/eric-clapton-and-b-b-king/
+  - >-
+    https://bluesrockreview.com/2024/12/10-blues-rock-collaborations-that-made-history.html
+  - >-
+    https://earofnewt.com/2015/02/01/b-b-king-says-that-eric-clapton-was-like-his-girlfriend-on-riding-with-the-king/
+  - >-
+    https://www.goldminemag.com/reviews/album-reviews/the-20th-anniversary-edition-of-b-b-king-and-eric-clapton-collaboration-riding-with-the-king-comes-with-the-right-extras/
 network_extracted: true
 entry_created: '2025-10-30T11:56:33.848638'
 last_updated: '2025-12-23T08:16:05.155000'
-origin: 'United States (B.B. King: Itta Bena, Mississippi, USA; Eric Clapton: Ripley, Surrey, England, UK; collaboration based
-  in USA/UK studios)'
+origin: >-
+  United States (B.B. King: Itta Bena, Mississippi, USA; Eric Clapton: Ripley,
+  Surrey, England, UK; collaboration based in USA/UK studios)
+birth_place: 'Itta Bena, Mississippi, United States'
+death_date: '2015-05-14'
+artist_type: band
 ---
 
 ![](bb_king_and_eric_clapton.jpg)

@@ -1,29 +1,29 @@
 ---
-title: blind willie mctell
+title: Blind Willie McTell
 wiki_slug: blind-willie-mctell
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1901-05-05'
-birth_place: Thomson
+birth_place: 'Thomson, Georgia, United States'
 death_date: '1959-08-19'
 genres:
-- blues
-- country blues
-- classic blues
-- ragtime
+  - blues
+  - country blues
+  - classic blues
+  - ragtime
 instruments:
-- guitar
-- 12 string guitar
-- spoken vocals
-- other vocals
-- lead vocals
+  - guitar
+  - 12 string guitar
+  - spoken vocals
+  - other vocals
+  - lead vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bb8dc8ed-1693-426b-b722-fefee9cb5cd0
-  name: Georgia Browns
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bb8dc8ed-1693-426b-b722-fefee9cb5cd0
+    name: Georgia Browns
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/blind_willie_mctell.jpg
   caption: blind willie mctell
@@ -46,54 +46,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Curley Weaver
-  - Ruth Kate Williams (McTell's wife)
+    - Curley Weaver
+    - Ruth Kate Williams (McTell's wife)
   influenced:
-  - The Allman Brothers Band
-  - Bob Dylan
-  - Taj Mahal
+    - The Allman Brothers Band
+    - Bob Dylan
+    - Taj Mahal
   mentors:
-  - His mother, relatives, and neighbors
-  - Family (parents and uncle)
+    - 'His mother, relatives, and neighbors'
+    - Family (parents and uncle)
 spotify_data:
   followers: 61412
   id: 4vRyd1UZ8Eq98EppbwOBg6
   popularity: 27
-  url: https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6
+  url: 'https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6'
 discography_enriched: true
 top_tracks:
-- Statesboro Blues (Blind Willie McTell -Statesboro Blues - The Early Years 1927-1935)
-- I Got the Cross the River Jordan (Atlanta Twelve String)
-- Statesboro Blues (Dark Night Blues)
-- Dying Crapshooters Blues (Atlanta Twelve String)
-- You Was Born To Die (Dark Night Blues)
-- Broke Down Engine Blues (Last Session)
-- Mr. McTell Got the Blues - 2003 Remastered (Statesboro Blues - When The Sun Goes Down Series)
-- Delia (Blind Willie McTell 1940)
-- Searchin' the Desert for the Blues (The Ultimate Collection)
-- You Got to Die (Atlanta Twelve String)
+  - >-
+    Statesboro Blues (Blind Willie McTell -Statesboro Blues - The Early Years
+    1927-1935)
+  - I Got the Cross the River Jordan (Atlanta Twelve String)
+  - Statesboro Blues (Dark Night Blues)
+  - Dying Crapshooters Blues (Atlanta Twelve String)
+  - You Was Born To Die (Dark Night Blues)
+  - Broke Down Engine Blues (Last Session)
+  - >-
+    Mr. McTell Got the Blues - 2003 Remastered (Statesboro Blues - When The Sun
+    Goes Down Series)
+  - Delia (Blind Willie McTell 1940)
+  - Searchin' the Desert for the Blues (The Ultimate Collection)
+  - You Got to Die (Atlanta Twelve String)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/81e02e29-e46a-49cb-bf13-d204cbe86daa
-  spotify: https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6
-  wikipedia: https://en.wikipedia.org/wiki/Blind_Willie_McTell
+  musicbrainz: 'https://musicbrainz.org/artist/81e02e29-e46a-49cb-bf13-d204cbe86daa'
+  spotify: 'https://open.spotify.com/artist/4vRyd1UZ8Eq98EppbwOBg6'
+  wikipedia: 'https://en.wikipedia.org/wiki/Blind_Willie_McTell'
 image_path: 03_Resources/source_material/ArtistPortraits/blind_willie_mctell.jpg
 biography_enhanced_at: '2025-10-31T08:22:46.306226'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Blind_Willie_McTell
-- https://aaregistry.org/story/blind-willie-mctell-folk-and-blues-musician-born/
-- https://www.georgiaencyclopedia.org/articles/arts-culture/blind-willie-mctell-1898-1959/
-- https://www.georgiahistory.com/marker-monday-blind-willie-mctell-musician/
+  - 'https://en.wikipedia.org/wiki/Blind_Willie_McTell'
+  - >-
+    https://aaregistry.org/story/blind-willie-mctell-folk-and-blues-musician-born/
+  - >-
+    https://www.georgiaencyclopedia.org/articles/arts-culture/blind-willie-mctell-1898-1959/
+  - 'https://www.georgiahistory.com/marker-monday-blind-willie-mctell-musician/'
 network_extracted: true
 entry_created: '2025-10-31T08:22:46.306235'
 last_updated: '2025-12-23T08:16:05.743248'
 gender: Male
 musicbrainz_id: 81e02e29-e46a-49cb-bf13-d204cbe86daa
 tags:
-- acoustic blues
-- blues
-- country blues
+  - acoustic blues
+  - blues
+  - country blues
+is_active: false
 ---
 
 ![](blind_willie_mctell.jpg)

@@ -1,18 +1,18 @@
 ---
-title: john campbell
+title: John Campbell
 wiki_slug: john-campbell
 schema_version: 2
 status: active
-birth_place: Shreveport, Louisiana, United States
+birth_place: 'Shreveport, Louisiana, United States'
 genres:
-- blues
-- blues rock
-- modern blues
+  - blues
+  - blues rock
+  - modern blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/john_campbell.jpg
   caption: john campbell
   background: solo_singer
-  origin: Shreveport, Louisiana, United States
+  origin: 'Shreveport, Louisiana, United States'
 audio_profile:
   tempo_avg: 125.5
   energy_avg: 0.531
@@ -28,45 +28,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ronnie Earl
-  - Alexander Kennedy
-  - Tim Delaney and Jack 'Satch' Haupt
+    - Ronnie Earl
+    - Alexander Kennedy
+    - Tim Delaney and Jack 'Satch' Haupt
   influenced:
-  - Modern blues revivalists (e.g., Joe Bonamassa, contemporary slide guitarists)
+    - >-
+      Modern blues revivalists (e.g., Joe Bonamassa, contemporary slide
+      guitarists)
   mentors:
-  - Lightnin’ Hopkins
-  - John Lee Hooker
+    - Lightnin’ Hopkins
+    - John Lee Hooker
 spotify_data:
   followers: 10139
   id: 10lsnqrWnGo0X3Kgn1nWIS
   popularity: 23
-  url: https://open.spotify.com/artist/10lsnqrWnGo0X3Kgn1nWIS
+  url: 'https://open.spotify.com/artist/10lsnqrWnGo0X3Kgn1nWIS'
 discography_enriched: true
 top_tracks:
-- Way Down in the Hole (Howlin Mercy)
-- Love's Name (Howlin Mercy)
-- Wild Streak (One Believer)
-- One Believer (One Believer)
-- Devil in My Closet (One Believer)
-- Angel of Sorrow (One Believer)
-- World of Trouble (One Believer)
-- Voodoo Edge (One Believer)
-- Wiseblood (Howlin Mercy)
-- Ain't Afraid of Midnight (Howlin Mercy)
+  - Way Down in the Hole (Howlin Mercy)
+  - Love's Name (Howlin Mercy)
+  - Wild Streak (One Believer)
+  - One Believer (One Believer)
+  - Devil in My Closet (One Believer)
+  - Angel of Sorrow (One Believer)
+  - World of Trouble (One Believer)
+  - Voodoo Edge (One Believer)
+  - Wiseblood (Howlin Mercy)
+  - Ain't Afraid of Midnight (Howlin Mercy)
 external_urls:
-  spotify: https://open.spotify.com/artist/10lsnqrWnGo0X3Kgn1nWIS
-  wikipedia: https://en.wikipedia.org/wiki/John_Campbell_(blues_guitarist)
+  spotify: 'https://open.spotify.com/artist/10lsnqrWnGo0X3Kgn1nWIS'
+  wikipedia: 'https://en.wikipedia.org/wiki/John_Campbell_(blues_guitarist)'
 image_path: 03_Resources/source_material/ArtistPortraits/john_campbell.jpg
 biography_enhanced_at: '2025-10-25T10:13:38.746053'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/John_Campbell_(blues_guitarist)
-- https://thehelplessdancer.wordpress.com/2010/03/07/john-campbell/
-- https://www.dali-speakers.com/en-gb/sound-academy/albums/dali-cd-1/john-campbell
+  - 'https://en.wikipedia.org/wiki/John_Campbell_(blues_guitarist)'
+  - 'https://thehelplessdancer.wordpress.com/2010/03/07/john-campbell/'
+  - >-
+    https://www.dali-speakers.com/en-gb/sound-academy/albums/dali-cd-1/john-campbell
 network_extracted: true
 entry_created: '2025-10-25T10:13:38.746063'
 last_updated: '2025-12-23T08:16:10.701175'
+artist_type: person
 ---
 
 ![](john_campbell.jpg)

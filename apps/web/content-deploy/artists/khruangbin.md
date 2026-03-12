@@ -2,14 +2,14 @@
 title: Khruangbin
 wiki_slug: khruangbin
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 birth_date: '2004'
 genres:
-- neo-psychedelic
+  - neo-psychedelic
 instruments:
-- drums (drum set)
-- bass guitar
+  - drums (drum set)
+  - bass guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/khruangbin.jpg
   caption: Khruangbin
@@ -30,74 +30,74 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mark Speer
-  - Laura Lee
-  - Donald 'DJ' Johnson
-  - Bonobo
-  - Yppah
+    - Mark Speer
+    - Laura Lee
+    - Donald 'DJ' Johnson
+    - Bonobo
+    - Yppah
   influenced:
-  - Emerging global psychedelic and instrumental bands
+    - Emerging global psychedelic and instrumental bands
   mentors:
-  - The Shadows
-  - Thai Funk and Shadow Music Artists
+    - The Shadows
+    - Thai Funk and Shadow Music Artists
 spotify_data:
   followers: 2200037
   id: 2mVVjNmdjXZZDvhgQWiakk
   popularity: 72
-  url: https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk
+  url: 'https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk'
 discography_enriched: true
 top_tracks:
-- Texas Sun
-- Mariella
-- May Ninth (A LA SALA)
-- People Everywhere (Still Alive) (The Universe Smiles Upon You)
-- White Gloves (The Universe Smiles Upon You)
-- B-Side
-- So We Won't Forget (Mordechai)
-- Time (You and I) (Mordechai)
-- Midnight
-- Pon Pón (A LA SALA)
+  - Texas Sun
+  - Mariella
+  - May Ninth (A LA SALA)
+  - People Everywhere (Still Alive) (The Universe Smiles Upon You)
+  - White Gloves (The Universe Smiles Upon You)
+  - B-Side
+  - So We Won't Forget (Mordechai)
+  - Time (You and I) (Mordechai)
+  - Midnight
+  - Pon Pón (A LA SALA)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/aea4c9b9-9f8d-49dc-b2ca-57d6f26e8634
-  spotify: https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk
-  wikipedia: https://en.wikipedia.org/wiki/Khruangbin
+  musicbrainz: 'https://musicbrainz.org/artist/aea4c9b9-9f8d-49dc-b2ca-57d6f26e8634'
+  spotify: 'https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk'
+  wikipedia: 'https://en.wikipedia.org/wiki/Khruangbin'
 image_path: 03_Resources/source_material/ArtistPortraits/khruangbin.jpg
 biography_enhanced_at: '2025-11-26T07:42:08.081842'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://liveforlivemusic.com/features/khruangbin-interview-2019/
-- https://cmaprinceton.org/2024/10/07/rhythms-and-roots-khruangbin/
-- https://musicmil.com/blog/khruangbin-a-texas-trio-thats-out-of-this-world
-- https://www.theransomnote.com/music/interviews/introducing-khruangbin/
-- https://www.youtube.com/watch?v=a8DDID3-rP4
+  - 'https://liveforlivemusic.com/features/khruangbin-interview-2019/'
+  - 'https://cmaprinceton.org/2024/10/07/rhythms-and-roots-khruangbin/'
+  - 'https://musicmil.com/blog/khruangbin-a-texas-trio-thats-out-of-this-world'
+  - 'https://www.theransomnote.com/music/interviews/introducing-khruangbin/'
+  - 'https://www.youtube.com/watch?v=a8DDID3-rP4'
 network_extracted: true
 entry_created: '2025-11-26T07:42:08.081850'
 last_updated: '2025-12-23T08:16:11.341883'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: b7302840-e802-4c1d-ac8e-dd9af04633b2
-  name: Donald Johnson, Jr.
-- begin: ''
-  end: ''
-  instruments:
-  - bass guitar
-  mbid: 50ef58c4-a61a-4b83-9e54-ad66cd4672c7
-  name: Laura Lee
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ef526c5f-4b23-4fd1-a109-9158f3b58f1b
-  name: Mark Speer
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: b7302840-e802-4c1d-ac8e-dd9af04633b2
+    name: 'Donald Johnson, Jr.'
+  - begin: ''
+    end: ''
+    instruments:
+      - bass guitar
+    mbid: 50ef58c4-a61a-4b83-9e54-ad66cd4672c7
+    name: Laura Lee
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ef526c5f-4b23-4fd1-a109-9158f3b58f1b
+    name: Mark Speer
 musicbrainz_id: aea4c9b9-9f8d-49dc-b2ca-57d6f26e8634
-origin: Houston, Texas, United States
+origin: 'Houston, Texas, United States'
 tags:
-- alternative rock
-- blues
-- dub
+  - alternative rock
+  - blues
+  - dub
 ---
 
 ![](khruangbin.jpg)

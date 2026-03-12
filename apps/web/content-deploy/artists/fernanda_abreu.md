@@ -5,29 +5,29 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1961-09-08'
-birth_place: Rio de Janeiro, Rio de Janeiro, Brazil
+birth_place: 'Rio de Janeiro, Rio de Janeiro, Brazil'
 genres:
-- samba
-- mpb
-- brazilian pop
-- brazilian rock
+  - samba
+  - mpb
+  - brazilian pop
+  - brazilian rock
 instruments:
-- background vocals
-- original
-associated_acts:
-- begin: '1982'
-  end: '1985'
-  instruments:
   - background vocals
   - original
-  mbid: bff62973-f210-47a9-84bf-0f2ddfb42561
-  name: BLITZ
+associated_acts:
+  - begin: '1982'
+    end: '1985'
+    instruments:
+      - background vocals
+      - original
+    mbid: bff62973-f210-47a9-84bf-0f2ddfb42561
+    name: BLITZ
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/fernanda_abreu.jpg
   caption: Fernanda Abreu
   background: solo_singer
   born: '1961-09-08'
-  origin: Rio de Janeiro, Rio de Janeiro, Brazil
+  origin: 'Rio de Janeiro, Rio de Janeiro, Brazil'
 audio_profile:
   tempo_avg: 126.3
   energy_avg: 0.729
@@ -43,52 +43,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Fábio Fonseca
-  - Luiz Stein
-  - Will Mowat
-  - Fausto Fawcett
-  - Chico Science & Nação Zumbi
-  - Planet Hemp, Marcelo D2, Lenine, Gilberto Gil, João Donato, Eumir Deodato, Martinho da Vila, Jorge Benjor, DJ Marlboro,
-    Afrika Bambaataa
+    - Fábio Fonseca
+    - Luiz Stein
+    - Will Mowat
+    - Fausto Fawcett
+    - Chico Science & Nação Zumbi
+    - >-
+      Planet Hemp, Marcelo D2, Lenine, Gilberto Gil, João Donato, Eumir Deodato,
+      Martinho da Vila, Jorge Benjor, DJ Marlboro, Afrika Bambaataa
   influenced:
-  - Emerging Brazilian funk and dance-pop artists
+    - Emerging Brazilian funk and dance-pop artists
   mentors:
-  - Herbert Vianna
+    - Herbert Vianna
 spotify_data:
   followers: 188600
   id: 23T5kuXiRZWsH5w1lxowMh
   popularity: 45
-  url: https://open.spotify.com/artist/23T5kuXiRZWsH5w1lxowMh
+  url: 'https://open.spotify.com/artist/23T5kuXiRZWsH5w1lxowMh'
 discography_enriched: true
 top_tracks:
-- PASSE A RESPEITAR (MPC (Música Popular Carioca))
-- É Hoje - Ao Vivo (Monobloco (Ao Vivo))
-- Zerovinteum (feat. Fernanda Abreu) (Os Cães Ladram Mas a Caravana Não Pára)
-- Azul - JAH-VAN
-- Um Amor, Um Lugar (Raio X)
-- PASSE A RESPEITAR
-- Speed Racer (Sla Radical Dance Disco Club)
-- Você Pra Mim (Sla Radical Dance Disco Club)
-- Rio 40 Graus (feat. Fausto Fawcett) - Medley (SLA² ~ Be Sample)
-- Rio 40 Graus (Raio X)
+  - PASSE A RESPEITAR (MPC (Música Popular Carioca))
+  - É Hoje - Ao Vivo (Monobloco (Ao Vivo))
+  - Zerovinteum (feat. Fernanda Abreu) (Os Cães Ladram Mas a Caravana Não Pára)
+  - Azul - JAH-VAN
+  - 'Um Amor, Um Lugar (Raio X)'
+  - PASSE A RESPEITAR
+  - Speed Racer (Sla Radical Dance Disco Club)
+  - Você Pra Mim (Sla Radical Dance Disco Club)
+  - Rio 40 Graus (feat. Fausto Fawcett) - Medley (SLA² ~ Be Sample)
+  - Rio 40 Graus (Raio X)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1c75ad67-f542-4d55-a893-f1732cb26ac6
-  spotify: https://open.spotify.com/artist/23T5kuXiRZWsH5w1lxowMh
-  wikipedia: https://en.wikipedia.org/wiki/Fernanda_Abreu
+  musicbrainz: 'https://musicbrainz.org/artist/1c75ad67-f542-4d55-a893-f1732cb26ac6'
+  spotify: 'https://open.spotify.com/artist/23T5kuXiRZWsH5w1lxowMh'
+  wikipedia: 'https://en.wikipedia.org/wiki/Fernanda_Abreu'
 image_path: 03_Resources/source_material/ArtistPortraits/fernanda_abreu.jpg
 biography_enhanced_at: '2025-11-10T03:40:13.137178'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Fernanda_Abreu
-- https://fernandaabreu.com.br/abreugrafia/english/
-- https://brazilianfestival.org/attractions/history/
-- https://musicabrasileira.org/fernanda-abreu-entidade-urbana/
+  - 'https://en.wikipedia.org/wiki/Fernanda_Abreu'
+  - 'https://fernandaabreu.com.br/abreugrafia/english/'
+  - 'https://brazilianfestival.org/attractions/history/'
+  - 'https://musicabrasileira.org/fernanda-abreu-entidade-urbana/'
 network_extracted: true
 entry_created: '2025-11-10T03:40:13.137192'
 last_updated: '2025-12-23T08:16:08.618405'
 gender: Female
 musicbrainz_id: 1c75ad67-f542-4d55-a893-f1732cb26ac6
+origin: 'Rio de Janeiro, Rio de Janeiro, Brazil'
 ---
 
 ![](fernanda_abreu.jpg)

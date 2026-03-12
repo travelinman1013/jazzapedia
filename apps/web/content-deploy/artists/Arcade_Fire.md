@@ -4,8 +4,8 @@ wiki_slug: arcade-fire
 schema_version: 2
 status: active
 genres:
-- indie rock
-- baroque pop
+  - indie rock
+  - baroque pop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Arcade_Fire.jpg
   caption: Arcade Fire
@@ -25,48 +25,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - James Murphy (LCD Soundsystem)
-  - Richard Reed Parry
-  - Will Butler
+    - James Murphy (LCD Soundsystem)
+    - Richard Reed Parry
+    - Will Butler
   influenced:
-  - Florence + The Machine
-  - The Lumineers
+    - Florence + The Machine
+    - The Lumineers
   mentors:
-  - David Bowie
-  - Talking Heads (David Byrne)
+    - David Bowie
+    - Talking Heads (David Byrne)
 spotify_data:
   followers: 2396347
   id: 3kjuyTCjPG1WMFCiyc5IuB
   popularity: 62
-  url: https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB
+  url: 'https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB'
 discography_enriched: true
 top_tracks:
-- Wake Up (Funeral)
-- The Suburbs (The Suburbs (Deluxe))
-- Dimensions (Her (Original Score))
-- Rebellion (Lies) (Funeral)
-- Everything Now (Everything Now)
-- Ready to Start (The Suburbs (Deluxe))
-- Song on the Beach (Her (Original Score))
-- Sprawl II (Mountains Beyond Mountains) (The Suburbs (Deluxe))
-- No Cars Go (Neon Bible)
-- My Body Is a Cage (Neon Bible)
+  - Wake Up (Funeral)
+  - The Suburbs (The Suburbs (Deluxe))
+  - Dimensions (Her (Original Score))
+  - Rebellion (Lies) (Funeral)
+  - Everything Now (Everything Now)
+  - Ready to Start (The Suburbs (Deluxe))
+  - Song on the Beach (Her (Original Score))
+  - Sprawl II (Mountains Beyond Mountains) (The Suburbs (Deluxe))
+  - No Cars Go (Neon Bible)
+  - My Body Is a Cage (Neon Bible)
 external_urls:
-  spotify: https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB
-  wikipedia: https://en.wikipedia.org/wiki/Arcade_Fire
+  spotify: 'https://open.spotify.com/artist/3kjuyTCjPG1WMFCiyc5IuB'
+  wikipedia: 'https://en.wikipedia.org/wiki/Arcade_Fire'
 image_path: 03_Resources/source_material/ArtistPortraits/Arcade_Fire.jpg
 biography_enhanced_at: '2025-10-20T09:53:31.659786'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Arcade_Fire
-- https://www.britannica.com/topic/Arcade-Fire
-- https://americansongwriter.com/behind-the-band-name-arcade-fire/
-- https://poeticwax.substack.com/p/how-arcade-fire-changed-indie-rock
+  - 'https://en.wikipedia.org/wiki/Arcade_Fire'
+  - 'https://www.britannica.com/topic/Arcade-Fire'
+  - 'https://americansongwriter.com/behind-the-band-name-arcade-fire/'
+  - 'https://poeticwax.substack.com/p/how-arcade-fire-changed-indie-rock'
 network_extracted: true
 entry_created: '2025-10-20T09:53:31.659801'
 last_updated: '2025-12-23T08:16:01.029942'
-origin: Montreal, Quebec, Canada
+origin: 'Montreal, Quebec, Canada'
+artist_type: band
 ---
 
 ![](Arcade_Fire.jpg)

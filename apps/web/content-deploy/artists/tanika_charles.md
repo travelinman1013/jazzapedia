@@ -4,18 +4,18 @@ wiki_slug: tanika-charles
 schema_version: 2
 status: active
 also_known_as:
-- Ms. Chawlz
+  - Ms. Chawlz
 aliases:
-- Ms. Chawlz
+  - Ms. Chawlz
 birth_date: '1987-12-07'
 birth_place: Toronto
 years_active: 2008–present
 genres:
-- retro soul
+  - retro soul
 instruments:
-- voice
+  - voice
 occupation:
-- singer
+  - singer
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Tanika_Charles.jpg
   caption: Tanika Charles
@@ -40,31 +40,33 @@ spotify_data:
   followers: 8417
   id: 0BYgmolIl2cU1K2XZa7N7I
   popularity: 27
-  url: https://open.spotify.com/artist/0BYgmolIl2cU1K2XZa7N7I
+  url: 'https://open.spotify.com/artist/0BYgmolIl2cU1K2XZa7N7I'
   verified: false
 discography_enriched: true
 albums_count: 5
 singles_count: 15
 top_tracks:
-- Don't Like You Anymore
-- Reasons To Stay (Reasons To Stay)
-- Consistency (Reasons To Stay)
-- Tell Me Something (The Gumption)
-- Here When You're Ready
-- Don't Let Go (Reasons To Stay)
-- Reasons To Stay (Reasons To Stay)
-- No More (Reasons To Stay)
-- How Long Will It Take (Reasons To Stay)
-- Talk To Me Nice
+  - Don't Like You Anymore
+  - Reasons To Stay (Reasons To Stay)
+  - Consistency (Reasons To Stay)
+  - Tell Me Something (The Gumption)
+  - Here When You're Ready
+  - Don't Let Go (Reasons To Stay)
+  - Reasons To Stay (Reasons To Stay)
+  - No More (Reasons To Stay)
+  - How Long Will It Take (Reasons To Stay)
+  - Talk To Me Nice
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/0BYgmolIl2cU1K2XZa7N7I
-  wikipedia: https://en.wikipedia.org/wiki/Tanika_Charles
+  spotify: 'https://open.spotify.com/artist/0BYgmolIl2cU1K2XZa7N7I'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tanika_Charles'
 image_path: 03_Resources/source_material/ArtistPortraits/Tanika_Charles.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-22T21:52:13.436261'
-entry_created: 2025-09-22 21:48:07.562054
+entry_created: 2025-09-22T21:48:07.562Z
 last_updated: '2025-12-23T08:16:16.388052'
+origin: 'Edmonton, Alberta, Canada'
+artist_type: person
 ---
 
 ![](Tanika_Charles.jpg)

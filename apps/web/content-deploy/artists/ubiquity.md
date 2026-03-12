@@ -1,53 +1,56 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-18T07:53:34.489437'
 disambiguation: US late 1970s funk group
 enhancement_provider: perplexity
 entry_created: '2026-01-18T07:53:34.489444'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/31a8d586-e2ad-4f86-8789-5460229688f9
-  spotify: https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7
-  wikipedia: https://en.wikipedia.org/wiki/Roy_Ayers
+  musicbrainz: 'https://musicbrainz.org/artist/31a8d586-e2ad-4f86-8789-5460229688f9'
+  spotify: 'https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7'
+  wikipedia: 'https://en.wikipedia.org/wiki/Roy_Ayers'
 genres:
-- jazz funk
+  - jazz funk
 image_path: 03_Resources/source_material/ArtistPortraits/ubiquity.jpg
 last_updated: '2026-01-18T07:53:34.489445'
 musical_connections:
   collaborators:
-  - Bernard 'Pretty' Purdie
-  - Dennis Davis
-  - Charles Tolliver
-  - Sonny Fortune
-  - Ron Carter
-  - Dee Dee Bridgewater
-  - Fela Kuti
+    - Bernard 'Pretty' Purdie
+    - Dennis Davis
+    - Charles Tolliver
+    - Sonny Fortune
+    - Ron Carter
+    - Dee Dee Bridgewater
+    - Fela Kuti
   influenced:
-  - British Acid Jazz Scene
-  - Hip-hop producers and artists
-  - Neo-soul artists
+    - British Acid Jazz Scene
+    - Hip-hop producers and artists
+    - Neo-soul artists
   mentors:
-  - Lionel Hampton
-  - Herbie Mann
-  - Miles Davis
+    - Lionel Hampton
+    - Herbie Mann
+    - Miles Davis
 musicbrainz_id: 31a8d586-e2ad-4f86-8789-5460229688f9
 network_extracted: true
-origin: Los Angeles, California, United States
+origin: 'Los Angeles, California, United States'
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Roy+Ayers+Ubiquity/+wiki
-- https://nicksvinylpicks.wordpress.com/2019/01/30/roy-ayers-ubiquity-red-black-green/
-- https://www.jazz24.org/2025-03-05/roy-ayers-whose-everybody-loves-the-sunshine-charmed-generations-dies-at-84
-- https://www.allaboutjazz.com/musicians/roy-ayers/
-- https://equipboard.com/band/roy-ayers-ubiquity
-- https://www.becauseofthemwecan.com/blogs/news/roy-ayers-legendary-jazz-funk-pioneer-godfather-of-neo-soul-has-joined-the-ancestors
-- https://en.wikipedia.org/wiki/Roy_Ayers
-- https://newdirectionsinmusic.substack.com/p/the-music-according-to-roy-ayers
-- https://www.thevinylfactory.com/features/introduction-roy-ayers-10-records
+  - 'https://www.last.fm/music/Roy+Ayers+Ubiquity/+wiki'
+  - >-
+    https://nicksvinylpicks.wordpress.com/2019/01/30/roy-ayers-ubiquity-red-black-green/
+  - >-
+    https://www.jazz24.org/2025-03-05/roy-ayers-whose-everybody-loves-the-sunshine-charmed-generations-dies-at-84
+  - 'https://www.allaboutjazz.com/musicians/roy-ayers/'
+  - 'https://equipboard.com/band/roy-ayers-ubiquity'
+  - >-
+    https://www.becauseofthemwecan.com/blogs/news/roy-ayers-legendary-jazz-funk-pioneer-godfather-of-neo-soul-has-joined-the-ancestors
+  - 'https://en.wikipedia.org/wiki/Roy_Ayers'
+  - 'https://newdirectionsinmusic.substack.com/p/the-music-according-to-roy-ayers'
+  - 'https://www.thevinylfactory.com/features/introduction-roy-ayers-10-records'
 spotify_data:
   followers: 166378
   id: 3WbeZvDk1COiO2dEokZqn7
   popularity: 52
-  url: https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7
+  url: 'https://open.spotify.com/artist/3WbeZvDk1COiO2dEokZqn7'
 status: active
 title: Ubiquity
 ---

@@ -2,25 +2,25 @@
 title: The Human League
 wiki_slug: the-human-league
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1977'
 genres:
-- new wave
-- synthpop
+  - new wave
+  - synthpop
 instruments:
-- keyboard
-- lead vocals
-- bass guitar
-- guitar
-- drums (drum set)
+  - keyboard
+  - lead vocals
+  - bass guitar
+  - guitar
+  - drums (drum set)
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_human_league.jpg
   caption: The Human League
   background: group_or_band
   born: '1977'
 audio_profile:
-  tempo_avg: 116.0
+  tempo_avg: 116
   energy_avg: 0.647
   valence_avg: 0.624
   danceability_avg: 0.685
@@ -34,135 +34,135 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Martyn Ware
-  - Ian Craig Marsh
-  - Philip Adrian Wright
-  - Joanne Catherall
-  - Susanne Sulley
-  - Jo Callis
-  - Ian Burden
+    - Martyn Ware
+    - Ian Craig Marsh
+    - Philip Adrian Wright
+    - Joanne Catherall
+    - Susanne Sulley
+    - Jo Callis
+    - Ian Burden
   influenced:
-  - Trent Reznor / Nine Inch Nails
-  - Madonna
-  - Pet Shop Boys
-  - Moby
+    - Trent Reznor / Nine Inch Nails
+    - Madonna
+    - Pet Shop Boys
+    - Moby
   mentors:
-  - Martin Rushent
-  - Jimmy Jam and Terry Lewis
+    - Martin Rushent
+    - Jimmy Jam and Terry Lewis
 spotify_data:
   followers: 1286755
   id: 1aX2dmV8XoHYCOQRxjPESG
   popularity: 63
-  url: https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG
+  url: 'https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG'
 discography_enriched: true
 top_tracks:
-- Don't You Want Me (Dare!)
-- Human - Edit
-- Human (Crash)
-- Love Action (I Believe In Love) (Dare!)
-- Don't You Want Me - Purple Disco Machine Remix
-- (Keep Feeling) Fascination
-- Human (Crash)
-- Mirror Man (Fascination!)
-- Human - Edit
-- The Lebanon (Hysteria)
+  - Don't You Want Me (Dare!)
+  - Human - Edit
+  - Human (Crash)
+  - Love Action (I Believe In Love) (Dare!)
+  - Don't You Want Me - Purple Disco Machine Remix
+  - (Keep Feeling) Fascination
+  - Human (Crash)
+  - Mirror Man (Fascination!)
+  - Human - Edit
+  - The Lebanon (Hysteria)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7adaabfb-acfb-47bc-8c7c-59471c2f0db8
-  spotify: https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG
+  musicbrainz: 'https://musicbrainz.org/artist/7adaabfb-acfb-47bc-8c7c-59471c2f0db8'
+  spotify: 'https://open.spotify.com/artist/1aX2dmV8XoHYCOQRxjPESG'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/the_human_league.jpg
 biography_enhanced_at: '2025-11-27T06:42:57.811366'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- last.fm/music/The+Human+League
-- stefanlohmann.com/human-league-artist-information
-- americansongwriter.com/behind-the-band-name-the-human-league
-- humanleague.dk/biography
-- udiscovermusic.com/artist/the-human-league
-- you.radio/station/exclusiveradio-human-league
-- pop-culture-scrapbook.fandom.com/wiki/The_Human_League
-- the-black-hit-of-space.dk/timeline
+  - last.fm/music/The+Human+League
+  - stefanlohmann.com/human-league-artist-information
+  - americansongwriter.com/behind-the-band-name-the-human-league
+  - humanleague.dk/biography
+  - udiscovermusic.com/artist/the-human-league
+  - you.radio/station/exclusiveradio-human-league
+  - pop-culture-scrapbook.fandom.com/wiki/The_Human_League
+  - the-black-hit-of-space.dk/timeline
 network_extracted: true
 entry_created: '2025-11-27T06:42:57.811382'
 last_updated: '2025-12-23T08:16:16.848168'
 members:
-- begin: '1977'
-  end: '1980'
-  instruments:
-  - keyboard
-  mbid: ee3a1766-93e4-43cf-a397-2b32e7b984b5
-  name: Ian Craig Marsh
-- begin: '1977'
-  end: '1980'
-  instruments:
-  - keyboard
-  mbid: 76dc89a8-ab82-450a-a062-1ccb6209e348
-  name: Martyn Ware
-- &id001
-  begin: '1977'
-  end: ''
-  instruments:
-  - keyboard
-  - lead vocals
-  mbid: 90df1c5c-0c89-44cd-8552-0273007dfd27
-  name: Philip Oakey
-- begin: '1980'
-  end: '1986'
-  instruments:
-  - keyboard
-  mbid: 6c7fc9af-07ee-41af-9ef7-2eb9665f2cbb
-  name: Philip Adrian Wright
-- begin: '1980'
-  end: '1987'
-  instruments:
-  - bass guitar
-  - keyboard
-  mbid: 95a2490e-6579-49aa-ad31-4896f646131e
-  name: Ian Burden
-- &id002
-  begin: '1980'
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: 9ba46b46-6ef4-4606-8366-bee751c4103f
-  name: Joanne Catherall
-- &id003
-  begin: '1980'
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: a6e6e7a6-a830-481f-92d2-71114c7aa76b
-  name: Susan Ann Sulley
-- begin: '1981'
-  end: '1985'
-  instruments:
-  - guitar
-  - keyboard
-  mbid: d45e5fba-2475-4c2a-ad8a-085a53b83f87
-  name: Jo Callis
-- begin: '1983'
-  end: '1987'
-  instruments:
-  - drums (drum set)
-  - guitar
-  mbid: f45ddedc-8ef1-459e-871d-133b4f5b39a8
-  name: Jim Russell
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 95a2490e-6579-49aa-ad31-4896f646131e
-  name: Ian Burden
+  - begin: '1977'
+    end: '1980'
+    instruments:
+      - keyboard
+    mbid: ee3a1766-93e4-43cf-a397-2b32e7b984b5
+    name: Ian Craig Marsh
+  - begin: '1977'
+    end: '1980'
+    instruments:
+      - keyboard
+    mbid: 76dc89a8-ab82-450a-a062-1ccb6209e348
+    name: Martyn Ware
+  - &ref_0
+    begin: '1977'
+    end: ''
+    instruments:
+      - keyboard
+      - lead vocals
+    mbid: 90df1c5c-0c89-44cd-8552-0273007dfd27
+    name: Philip Oakey
+  - begin: '1980'
+    end: '1986'
+    instruments:
+      - keyboard
+    mbid: 6c7fc9af-07ee-41af-9ef7-2eb9665f2cbb
+    name: Philip Adrian Wright
+  - begin: '1980'
+    end: '1987'
+    instruments:
+      - bass guitar
+      - keyboard
+    mbid: 95a2490e-6579-49aa-ad31-4896f646131e
+    name: Ian Burden
+  - &ref_1
+    begin: '1980'
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: 9ba46b46-6ef4-4606-8366-bee751c4103f
+    name: Joanne Catherall
+  - &ref_2
+    begin: '1980'
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: a6e6e7a6-a830-481f-92d2-71114c7aa76b
+    name: Susan Ann Sulley
+  - begin: '1981'
+    end: '1985'
+    instruments:
+      - guitar
+      - keyboard
+    mbid: d45e5fba-2475-4c2a-ad8a-085a53b83f87
+    name: Jo Callis
+  - begin: '1983'
+    end: '1987'
+    instruments:
+      - drums (drum set)
+      - guitar
+    mbid: f45ddedc-8ef1-459e-871d-133b4f5b39a8
+    name: Jim Russell
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 95a2490e-6579-49aa-ad31-4896f646131e
+    name: Ian Burden
 musicbrainz_id: 7adaabfb-acfb-47bc-8c7c-59471c2f0db8
-origin: Sheffield
+origin: 'Sheffield, England, United Kingdom'
 original_members:
-- *id001
-- *id002
-- *id003
+  - *ref_0
+  - *ref_1
+  - *ref_2
 tags:
-- electronic
-- minimal synth
-- new romantic
+  - electronic
+  - minimal synth
+  - new romantic
 ---
 
 ![](the_human_league.jpg)

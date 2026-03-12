@@ -1,13 +1,13 @@
 ---
-title: LEWIS FAMILY
+title: The Lewis Family
 wiki_slug: lewis-family
 schema_version: 2
 status: active
 genres:
-- southern gospel
-- christian country
-- bluegrass
-- gospel
+  - southern gospel
+  - christian country
+  - bluegrass
+  - gospel
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lewis_family.jpg
   caption: LEWIS FAMILY
@@ -27,50 +27,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lester Flatt
-  - Dolly Parton and Carol Burnett
-  - Jeff Easter and Sherri (Polly's daughter)
+    - Lester Flatt
+    - Dolly Parton and Carol Burnett
+    - Jeff Easter and Sherri (Polly's daughter)
   influenced:
-  - Lewis Phillips
-  - Travis Lewis
+    - Lewis Phillips
+    - Travis Lewis
   mentors:
-  - Johnnie Bailes
+    - Johnnie Bailes
 spotify_data:
   followers: 1563
   id: 2zC8ZBry2QRgV8R8ybn6HX
   popularity: 18
-  url: https://open.spotify.com/artist/2zC8ZBry2QRgV8R8ybn6HX
+  url: 'https://open.spotify.com/artist/2zC8ZBry2QRgV8R8ybn6HX'
 discography_enriched: true
 top_tracks:
-- The Purple Robe (Angels Gathering Flowers)
-- I Stand Alone At God's Door (Bluegrass Country Club)
-- This Flight That Is Leavin' Soon - What A Time Album Version (What A Time)
-- Joshua (50th Anniversary Celebration)
-- When I Reach That City (Mountain Homecoming)
-- Honey In The Rock
-- Old Family Table (50th Anniversary Celebration)
-- This Flight That Is Leaving Soon (The Lewis Bunch)
-- Away In A Manger
-- Slippers With Wings
+  - The Purple Robe (Angels Gathering Flowers)
+  - I Stand Alone At God's Door (Bluegrass Country Club)
+  - This Flight That Is Leavin' Soon - What A Time Album Version (What A Time)
+  - Joshua (50th Anniversary Celebration)
+  - When I Reach That City (Mountain Homecoming)
+  - Honey In The Rock
+  - Old Family Table (50th Anniversary Celebration)
+  - This Flight That Is Leaving Soon (The Lewis Bunch)
+  - Away In A Manger
+  - Slippers With Wings
 external_urls:
-  spotify: https://open.spotify.com/artist/2zC8ZBry2QRgV8R8ybn6HX
-  wikipedia: https://en.wikipedia.org/wiki/The_Lewis_Family
+  spotify: 'https://open.spotify.com/artist/2zC8ZBry2QRgV8R8ybn6HX'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Lewis_Family'
 image_path: 03_Resources/source_material/ArtistPortraits/lewis_family.jpg
 biography_enhanced_at: '2025-12-22T01:37:14.217197'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - The Lewis Family
-- Gospel Music Hall of Fame
-- Bluegrass Music Hall of Fame & Museum
-- Blue Ridge Music Hall of Fame
-- Country Road TV
-- Bluegrass Unlimited
+  - Wikipedia - The Lewis Family
+  - Gospel Music Hall of Fame
+  - Bluegrass Music Hall of Fame & Museum
+  - Blue Ridge Music Hall of Fame
+  - Country Road TV
+  - Bluegrass Unlimited
 network_extracted: true
 entry_created: '2025-12-22T01:37:14.217202'
 last_updated: '2025-12-23T08:16:11.884787'
-origin: Lincolnton, Georgia, United States
-
+origin: 'Lincolnton, Georgia, United States'
+artist_type: band
 ---
 
 ![](lewis_family.jpg)

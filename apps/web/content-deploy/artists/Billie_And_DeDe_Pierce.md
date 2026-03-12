@@ -23,50 +23,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Alphonse Picou
-  - Emile Barnes
-  - George Lewis
-  - Kid Thomas Valentine
-  - Preservation Hall Jazz Band
+    - Alphonse Picou
+    - Emile Barnes
+    - George Lewis
+    - Kid Thomas Valentine
+    - Preservation Hall Jazz Band
   influenced:
-  - Preservation Hall musicians
+    - Preservation Hall musicians
   mentors:
-  - Professor Paul Chaligny
-  - Kid Rena
+    - Professor Paul Chaligny
+    - Kid Rena
 spotify_data:
   followers: 158
   id: 4XduyDDaaJlNlBAmHUA6L8
   popularity: 1
-  url: https://open.spotify.com/artist/4XduyDDaaJlNlBAmHUA6L8
+  url: 'https://open.spotify.com/artist/4XduyDDaaJlNlBAmHUA6L8'
 discography_enriched: true
 top_tracks:
-- Freight Train Blues (Music from the Motion Picture The Curious Case of Benjamin Button)
-- Careless Love (Round 'Bout Midnight)
-- St Louis Blues (Round 'Bout Midnight)
-- Careless Love (Strollin')
-- Swanee River (Rare Cuts - Well Done, Vol. 1)
-- Sallee Dame (Rare Cuts - Well Done, Vol. 1)
-- Every Woman's Blues (Rare Cuts - Well Done, Vol. 1)
-- Eh! La Bas (Rare Cuts - Well Done, Vol. 1)
-- Careless Love (Rare Cuts - Well Done, Vol. 1)
-- Honky Tonk Town (Rare Cuts - Well Done, Vol. 1)
+  - >-
+    Freight Train Blues (Music from the Motion Picture The Curious Case of
+    Benjamin Button)
+  - Careless Love (Round 'Bout Midnight)
+  - St Louis Blues (Round 'Bout Midnight)
+  - Careless Love (Strollin')
+  - 'Swanee River (Rare Cuts - Well Done, Vol. 1)'
+  - 'Sallee Dame (Rare Cuts - Well Done, Vol. 1)'
+  - 'Every Woman''s Blues (Rare Cuts - Well Done, Vol. 1)'
+  - 'Eh! La Bas (Rare Cuts - Well Done, Vol. 1)'
+  - 'Careless Love (Rare Cuts - Well Done, Vol. 1)'
+  - 'Honky Tonk Town (Rare Cuts - Well Done, Vol. 1)'
 external_urls:
-  spotify: https://open.spotify.com/artist/4XduyDDaaJlNlBAmHUA6L8
-  wikipedia: https://en.wikipedia.org/wiki/Billie_Pierce
+  spotify: 'https://open.spotify.com/artist/4XduyDDaaJlNlBAmHUA6L8'
+  wikipedia: 'https://en.wikipedia.org/wiki/Billie_Pierce'
 image_path: 03_Resources/source_material/ArtistPortraits/Billie_And_DeDe_Pierce.jpg
 biography_enhanced_at: '2025-10-19T10:30:05.800044'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Billie_Pierce
-- https://en.wikipedia.org/wiki/De_De_Pierce
-- https://64parishes.org/entry/billie-and-dede-pierce
-- https://salon726.com/home/2017/10/17/ladiesofpreshall-billie-pierce-biography
-- http://bonjourqui.blogspot.com/2007/01/billie-pierce-was-born-wilhelmina.html
+  - 'https://en.wikipedia.org/wiki/Billie_Pierce'
+  - 'https://en.wikipedia.org/wiki/De_De_Pierce'
+  - 'https://64parishes.org/entry/billie-and-dede-pierce'
+  - >-
+    https://salon726.com/home/2017/10/17/ladiesofpreshall-billie-pierce-biography
+  - >-
+    http://bonjourqui.blogspot.com/2007/01/billie-pierce-was-born-wilhelmina.html
 network_extracted: true
 entry_created: '2025-10-19T10:30:05.800059'
 last_updated: '2025-12-23T08:16:01.223026'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](Billie_And_DeDe_Pierce.jpg)

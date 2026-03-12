@@ -3,17 +3,17 @@ title: Blu Lu Barker
 wiki_slug: blu-lu-barker
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- swing music
-- blues
+  - swing music
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/blu_lu_barker.jpg
   caption: Blu Lu Barker
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
-  tempo_avg: 119.0
+  tempo_avg: 119
   energy_avg: 0.249
   valence_avg: 0.63
   danceability_avg: 0.662
@@ -27,47 +27,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Danny Barker
-  - Jelly Roll Morton
-  - Cab Calloway
-  - Charlie Parker
+    - Danny Barker
+    - Jelly Roll Morton
+    - Cab Calloway
+    - Charlie Parker
   influenced:
-  - Billie Holiday
-  - Maria Muldaur
+    - Billie Holiday
+    - Maria Muldaur
   mentors:
-  - Danny Barker
+    - Danny Barker
 spotify_data:
   followers: 1113
   id: 3VkdiA1x4W2ISeJPWHswtQ
   popularity: 9
-  url: https://open.spotify.com/artist/3VkdiA1x4W2ISeJPWHswtQ
+  url: 'https://open.spotify.com/artist/3VkdiA1x4W2ISeJPWHswtQ'
 discography_enriched: true
 top_tracks:
-- A Little Bird Told Me (10-26-48) (Complete Jazz Series 1946 - 1949)
-- 'A Little Bird Told Me (Capitol Records From The Vaults: "Vine Street Divas")'
-- A little bird told me so (Blue Lu Barker, A famous jazz and blues singer from New Orleans)
-- A Little Bird Told Me (Call Me Blue Lu)
-- Here's A Little Girl From Jacksonville (10-26-48) (Complete Jazz Series 1946 - 1949)
-- Loan Me Your Husband (Call Me Blue Lu)
-- Don't You Make Me High - Single Version (Men Are Like Street Cars - Women Blues Singers 1928 - 1969)
-- Don't You Feel My Leg (New Orleans Lady)
-- Don't You Feel My Leg (08-25-46) (Complete Jazz Series 1946 - 1949)
-- Trombone Man Blues (ABC Of The Blues Vol 4)
+  - A Little Bird Told Me (10-26-48) (Complete Jazz Series 1946 - 1949)
+  - 'A Little Bird Told Me (Capitol Records From The Vaults: "Vine Street Divas")'
+  - >-
+    A little bird told me so (Blue Lu Barker, A famous jazz and blues singer
+    from New Orleans)
+  - A Little Bird Told Me (Call Me Blue Lu)
+  - >-
+    Here's A Little Girl From Jacksonville (10-26-48) (Complete Jazz Series 1946
+    - 1949)
+  - Loan Me Your Husband (Call Me Blue Lu)
+  - >-
+    Don't You Make Me High - Single Version (Men Are Like Street Cars - Women
+    Blues Singers 1928 - 1969)
+  - Don't You Feel My Leg (New Orleans Lady)
+  - Don't You Feel My Leg (08-25-46) (Complete Jazz Series 1946 - 1949)
+  - Trombone Man Blues (ABC Of The Blues Vol 4)
 external_urls:
-  spotify: https://open.spotify.com/artist/3VkdiA1x4W2ISeJPWHswtQ
-  wikipedia: https://en.wikipedia.org/wiki/Blue_Lu_Barker
+  spotify: 'https://open.spotify.com/artist/3VkdiA1x4W2ISeJPWHswtQ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Blue_Lu_Barker'
 image_path: 03_Resources/source_material/ArtistPortraits/blu_lu_barker.jpg
 biography_enhanced_at: '2025-11-02T07:24:33.612863'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://fromthevaults-boppinbob.blogspot.com/2015/11/blue-lu-barker-born-13-november-1913.html
-- https://www.allaboutjazz.com/musicians/blue-lu-barker/
-- https://64parishes.org/entry/danny-and-blue-lu-barker
-- https://syncopatedtimes.com/louisa-blue-lu-barker-was-more-than-a-blues-singer/
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2015/11/blue-lu-barker-born-13-november-1913.html
+  - 'https://www.allaboutjazz.com/musicians/blue-lu-barker/'
+  - 'https://64parishes.org/entry/danny-and-blue-lu-barker'
+  - >-
+    https://syncopatedtimes.com/louisa-blue-lu-barker-was-more-than-a-blues-singer/
 network_extracted: true
 entry_created: '2025-11-02T07:24:33.612874'
 last_updated: '2025-12-23T08:16:05.755726'
+birth_date: '1913-11-13'
+artist_type: person
 ---
 
 ![](blu_lu_barker.jpg)

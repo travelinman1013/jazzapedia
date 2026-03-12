@@ -1,15 +1,15 @@
 ---
-title: TOM HOOK
+title: Tom Hook
 wiki_slug: tom-hook
 schema_version: 2
 status: active
-birth_place: Kansas City, Missouri, USA
+birth_place: 'Kansas City, Missouri, USA'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/tom_hook.jpg
   caption: TOM HOOK
   background: solo_singer
-  origin: Kansas City, Missouri, USA
+  origin: 'Kansas City, Missouri, USA'
 audio_profile:
   tempo_avg: 111.7
   energy_avg: 0.331
@@ -25,48 +25,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bill Allred
-  - Wendell Brunious
-  - Tom Fischer
-  - Danny Caron
-  - Bobby Durham
-  - Ed Metz
+    - Bill Allred
+    - Wendell Brunious
+    - Tom Fischer
+    - Danny Caron
+    - Bobby Durham
+    - Ed Metz
   influenced: []
   mentors: []
 spotify_data:
   followers: 7030
   id: 5784JqAJvI24V2Kr3xhoX6
   popularity: 43
-  url: https://open.spotify.com/artist/5784JqAJvI24V2Kr3xhoX6
+  url: 'https://open.spotify.com/artist/5784JqAJvI24V2Kr3xhoX6'
 discography_enriched: true
 top_tracks:
-- 'Frightening Fishes - Main Title Theme from "Shrinking" (Shrinking: Season 1 (Apple TV+ Original Series Soundtrack))'
-- 'Ted Lasso Theme (Ted Lasso: Season 1 (Apple TV+ Original Series Soundtrack))'
-- Roger That (Dog Man (Original Motion Picture Soundtrack))
-- Big Jump (Dog Man (Original Motion Picture Soundtrack))
-- Doghouse Memories (Dog Man (Original Motion Picture Soundtrack))
-- Best Friends (Dog Man (Original Motion Picture Soundtrack))
-- Reporting on Dogman (Dog Man (Original Motion Picture Soundtrack))
-- Arresting Petey (Dog Man (Original Motion Picture Soundtrack))
-- Bomb Squad (Dog Man (Original Motion Picture Soundtrack))
-- Off the Case (Dog Man (Original Motion Picture Soundtrack))
+  - >-
+    Frightening Fishes - Main Title Theme from "Shrinking" (Shrinking: Season 1
+    (Apple TV+ Original Series Soundtrack))
+  - 'Ted Lasso Theme (Ted Lasso: Season 1 (Apple TV+ Original Series Soundtrack))'
+  - Roger That (Dog Man (Original Motion Picture Soundtrack))
+  - Big Jump (Dog Man (Original Motion Picture Soundtrack))
+  - Doghouse Memories (Dog Man (Original Motion Picture Soundtrack))
+  - Best Friends (Dog Man (Original Motion Picture Soundtrack))
+  - Reporting on Dogman (Dog Man (Original Motion Picture Soundtrack))
+  - Arresting Petey (Dog Man (Original Motion Picture Soundtrack))
+  - Bomb Squad (Dog Man (Original Motion Picture Soundtrack))
+  - Off the Case (Dog Man (Original Motion Picture Soundtrack))
 external_urls:
-  spotify: https://open.spotify.com/artist/5784JqAJvI24V2Kr3xhoX6
+  spotify: 'https://open.spotify.com/artist/5784JqAJvI24V2Kr3xhoX6'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/tom_hook.jpg
 biography_enhanced_at: '2025-12-19T01:46:41.867813'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://tomhook.com
-- https://syncopatedtimes.com/tom-hooks-unusual-dream-project/
-- https://www.youtube.com/watch?v=pobTcMzVWuc
-- https://www.neworleans.com/listing/tom-hook/46631/
-- https://viking.tv/my-viking/tom-hook
-- https://positive-feedback.com/reviews/music-reviews/tom-hook-62/
+  - 'https://tomhook.com'
+  - 'https://syncopatedtimes.com/tom-hooks-unusual-dream-project/'
+  - 'https://www.youtube.com/watch?v=pobTcMzVWuc'
+  - 'https://www.neworleans.com/listing/tom-hook/46631/'
+  - 'https://viking.tv/my-viking/tom-hook'
+  - 'https://positive-feedback.com/reviews/music-reviews/tom-hook-62/'
 network_extracted: true
 entry_created: '2025-12-19T01:46:41.867833'
 last_updated: '2025-12-23T08:16:17.512855'
+artist_type: person
 ---
 
 ![](tom_hook.jpg)

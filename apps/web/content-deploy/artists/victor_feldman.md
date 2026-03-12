@@ -1,39 +1,39 @@
 ---
-title: VICTOR FELDMAN
+title: Victor Feldman
 wiki_slug: victor-feldman
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1934-04-07'
-birth_place: Edgware
+birth_place: 'Edgware, Middlesex, England'
 death_date: '1987-05-12'
 genres:
-- hard bop
-- cool jazz
-- bebop
-- jazz
+  - hard bop
+  - cool jazz
+  - bebop
+  - jazz
 instruments:
-- piano
-- electric piano
-- Rhodes piano
-- grand piano
-associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 32385c7d-1bcc-4efc-b676-6ab1e94b3b86
-  name: The Victor Feldman All Stars
-- begin: ''
-  end: ''
-  instruments:
   - piano
-  mbid: 767721c1-3155-4681-a5b7-6923c4db167d
-  name: Ben Tucker and His Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 91720f2b-270b-406b-8ba6-fe2d6ee517aa
-  name: Shelly Manne & His Men
+  - electric piano
+  - Rhodes piano
+  - grand piano
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 32385c7d-1bcc-4efc-b676-6ab1e94b3b86
+    name: The Victor Feldman All Stars
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: 767721c1-3155-4681-a5b7-6923c4db167d
+    name: Ben Tucker and His Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 91720f2b-270b-406b-8ba6-fe2d6ee517aa
+    name: Shelly Manne & His Men
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/victor_feldman.jpg
   caption: VICTOR FELDMAN
@@ -56,49 +56,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Woody Herman
-  - Cannonball Adderley
-  - Miles Davis
-  - Steely Dan
-  - Frank Zappa
-  - Tom Waits
-  - Joe Walsh
+    - Woody Herman
+    - Cannonball Adderley
+    - Miles Davis
+    - Steely Dan
+    - Frank Zappa
+    - Tom Waits
+    - Joe Walsh
   influenced:
-  - Tom Scott
-  - Robben Ford
+    - Tom Scott
+    - Robben Ford
   mentors:
-  - Carlo Krahmer
-  - Glenn Miller
+    - Carlo Krahmer
+    - Glenn Miller
 spotify_data:
   followers: 3248
   id: 53TjTwCEnkdeTkNUO0qivk
   popularity: 16
-  url: https://open.spotify.com/artist/53TjTwCEnkdeTkNUO0qivk
+  url: 'https://open.spotify.com/artist/53TjTwCEnkdeTkNUO0qivk'
 discography_enriched: true
 top_tracks:
-- L.O.V.E. And You And I (In Between)
-- Caper at the Coffee House (Pop and Tv Themes Go Jazz)
-- Serpent's Tooth (Evening in Paris)
-- With Your Love - Piano and Guitar
-- Waltz for Scotty (A Major Waltz) (To Chopin With Love)
-- Serpent's Tooth (The Arrival of Victor Feldman)
-- Skippin'
-- Woody 'N You (Latinsville!)
-- Rio
-- Flamingo (The Arrival of Victor Feldman)
+  - L.O.V.E. And You And I (In Between)
+  - Caper at the Coffee House (Pop and Tv Themes Go Jazz)
+  - Serpent's Tooth (Evening in Paris)
+  - With Your Love - Piano and Guitar
+  - Waltz for Scotty (A Major Waltz) (To Chopin With Love)
+  - Serpent's Tooth (The Arrival of Victor Feldman)
+  - Skippin'
+  - Woody 'N You (Latinsville!)
+  - Rio
+  - Flamingo (The Arrival of Victor Feldman)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c648f7ba-cee7-4f04-aaec-03299409682c
-  spotify: https://open.spotify.com/artist/53TjTwCEnkdeTkNUO0qivk
-  wikipedia: https://en.wikipedia.org/wiki/Victor_Feldman
+  musicbrainz: 'https://musicbrainz.org/artist/c648f7ba-cee7-4f04-aaec-03299409682c'
+  spotify: 'https://open.spotify.com/artist/53TjTwCEnkdeTkNUO0qivk'
+  wikipedia: 'https://en.wikipedia.org/wiki/Victor_Feldman'
 image_path: 03_Resources/source_material/ArtistPortraits/victor_feldman.jpg
 biography_enhanced_at: '2025-11-03T07:47:07.297511'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.allaboutjazz.com/musicians/victor-feldman/
-- https://concord.com/artist/victor-feldman/
-- http://www.victorfeldman.com/VF_biography.html
-- https://en.wikipedia.org/wiki/Victor_Feldman
+  - 'https://www.allaboutjazz.com/musicians/victor-feldman/'
+  - 'https://concord.com/artist/victor-feldman/'
+  - 'http://www.victorfeldman.com/VF_biography.html'
+  - 'https://en.wikipedia.org/wiki/Victor_Feldman'
 network_extracted: true
 entry_created: '2025-11-03T07:47:07.297521'
 last_updated: '2025-12-23T08:16:17.850039'
@@ -106,9 +106,10 @@ disambiguation: jazz musician
 gender: Male
 musicbrainz_id: c648f7ba-cee7-4f04-aaec-03299409682c
 tags:
-- cool jazz
-- hard bop
-- jazz
+  - cool jazz
+  - hard bop
+  - jazz
+is_active: false
 ---
 
 ![](victor_feldman.jpg)

@@ -3,14 +3,14 @@ title: DAn Auerbach
 wiki_slug: dan-auerbach
 schema_version: 2
 status: active
-birth_place: Akron, Ohio, United States
+birth_place: 'Akron, Ohio, United States'
 genres:
-- blues rock
+  - blues rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/dan_auerbach.jpg
   caption: DAn Auerbach
   background: solo_singer
-  origin: Akron, Ohio, United States
+  origin: 'Akron, Ohio, United States'
 audio_profile:
   tempo_avg: 117.9
   energy_avg: 0.69
@@ -26,52 +26,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Patrick Carney
-  - Danger Mouse (Brian Burton)
-  - Dr. John
-  - The Pretenders (Chrissie Hynde & band)
-  - Lana Del Rey
-  - Jessica Lea Mayfield
-  - Patrick Sweany
-  - The Arcs
+    - Patrick Carney
+    - Danger Mouse (Brian Burton)
+    - Dr. John
+    - The Pretenders (Chrissie Hynde & band)
+    - Lana Del Rey
+    - Jessica Lea Mayfield
+    - Patrick Sweany
+    - The Arcs
   influenced:
-  - Modern American roots and blues-rock artists (various on Easy Eye Sound, including contemporary blues performers on "Tell
-    Everybody! (21st Century Juke Joint Blues)")
+    - >-
+      Modern American roots and blues-rock artists (various on Easy Eye Sound,
+      including contemporary blues performers on "Tell Everybody! (21st Century
+      Juke Joint Blues)")
   mentors:
-  - Chuck Auerbach
+    - Chuck Auerbach
 spotify_data:
   followers: 374952
   id: 6YWdHD3R863Apw1hkx3BwC
   popularity: 55
-  url: https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC
+  url: 'https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC'
 discography_enriched: true
 top_tracks:
-- Tres Hermanos (El Bueno Y El Malo)
-- Never in My Wildest Dreams (Waiting on a Song)
-- Heartbroken, In Disrepair (Keep It Hid)
-- Run That Race
-- King of a One Horse Town (Waiting on a Song)
-- Standing in the Rain (with Mark Ronson & Dan Auerbach)
-- The Prowl (Keep It Hid)
-- I Want Some More (Keep It Hid)
-- Standing in the Rain (with Mark Ronson & Dan Auerbach)
-- Shine on Me (Waiting on a Song)
+  - Tres Hermanos (El Bueno Y El Malo)
+  - Never in My Wildest Dreams (Waiting on a Song)
+  - 'Heartbroken, In Disrepair (Keep It Hid)'
+  - Run That Race
+  - King of a One Horse Town (Waiting on a Song)
+  - Standing in the Rain (with Mark Ronson & Dan Auerbach)
+  - The Prowl (Keep It Hid)
+  - I Want Some More (Keep It Hid)
+  - Standing in the Rain (with Mark Ronson & Dan Auerbach)
+  - Shine on Me (Waiting on a Song)
 external_urls:
-  spotify: https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC
-  wikipedia: https://en.wikipedia.org/wiki/Dan_Auerbach
+  spotify: 'https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dan_Auerbach'
 image_path: 03_Resources/source_material/ArtistPortraits/dan_auerbach.jpg
 biography_enhanced_at: '2025-12-20T01:15:59.692123'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Tape Op – Dan Auerbach interview[1]
-- Shore Fire Media – Dan Auerbach bio[2]
-- 'Rough Trade – In Profile: Dan Auerbach[3]'
-- 'The Current – Today in Music History: Happy 40th, Dan Auerbach[6]'
-- DownBeat – Dan Auerbach Tells Everybody![7]
+  - 'Tape Op – Dan Auerbach interview[1]'
+  - 'Shore Fire Media – Dan Auerbach bio[2]'
+  - 'Rough Trade – In Profile: Dan Auerbach[3]'
+  - 'The Current – Today in Music History: Happy 40th, Dan Auerbach[6]'
+  - 'DownBeat – Dan Auerbach Tells Everybody![7]'
 network_extracted: true
 entry_created: '2025-12-20T01:15:59.692138'
 last_updated: '2025-12-23T08:16:07.411246'
+origin: 'Akron, Ohio, United States'
+birth_date: '1979-05-14'
+artist_type: person
 ---
 
 ![](dan_auerbach.jpg)

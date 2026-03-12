@@ -1,25 +1,25 @@
 ---
-title: SONNY ROLLINS
+title: Sonny Rollins
 wiki_slug: sonny-rollins
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1930-09-07'
-birth_place: New York City, New York, United States
+birth_place: 'New York City, New York, United States'
 genres:
-- hard bop
-- jazz
-- bebop
-- cool jazz
+  - hard bop
+  - jazz
+  - bebop
+  - cool jazz
 instruments:
-- eponymous
-- original
+  - eponymous
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/SONNY_ROLLINS.jpg
   caption: SONNY ROLLINS
   background: non_vocal_instrumentalist
   born: '1930-09-07'
-  origin: New York City, New York, United States
+  origin: 'New York City, New York, United States'
 audio_profile:
   tempo_avg: 109.5
   energy_avg: 0.376
@@ -35,47 +35,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Miles Davis
-  - Clifford Brown & Max Roach
-  - Thelonious Monk
-  - Bud Powell
+    - Miles Davis
+    - Clifford Brown & Max Roach
+    - Thelonious Monk
+    - Bud Powell
   influenced:
-  - John Coltrane
-  - Joe Henderson
-  - Joshua Redman
+    - John Coltrane
+    - Joe Henderson
+    - Joshua Redman
   mentors:
-  - Coleman Hawkins
-  - Louis Jordan
+    - Coleman Hawkins
+    - Louis Jordan
 spotify_data:
   followers: 372617
   id: 1VEzN9lxvG6KPR3QQGsebR
   popularity: 47
-  url: https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR
+  url: 'https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR'
 discography_enriched: true
 top_tracks:
-- On The Sunny Side Of The Street (Dizzy 100)
-- In A Sentimental Mood (Sonny Rollins With The Modern Jazz Quartet)
-- God Bless the Child (The Bridge)
-- Where Are You - Remastered (The Bridge)
-- St. Thomas (Saxophone Colossus)
-- He's Younger Than You Are - From "Alfie" Score (Alfie)
-- Solitude (Way Out West (OJC Remaster))
-- St. Thomas (Saxophone Colossus)
-- I'm an Old Cowhand (Way Out West (OJC Remaster))
-- You Don't Know What Love Is - Rudy Van Gelder Rudy Van Gelder Remastered 2006 / Shared ISRC (Saxophone Colossus)
+  - On The Sunny Side Of The Street (Dizzy 100)
+  - In A Sentimental Mood (Sonny Rollins With The Modern Jazz Quartet)
+  - God Bless the Child (The Bridge)
+  - Where Are You - Remastered (The Bridge)
+  - St. Thomas (Saxophone Colossus)
+  - He's Younger Than You Are - From "Alfie" Score (Alfie)
+  - Solitude (Way Out West (OJC Remaster))
+  - St. Thomas (Saxophone Colossus)
+  - I'm an Old Cowhand (Way Out West (OJC Remaster))
+  - >-
+    You Don't Know What Love Is - Rudy Van Gelder Rudy Van Gelder Remastered
+    2006 / Shared ISRC (Saxophone Colossus)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3b47247e-5b57-49b6-a0ed-bad80243802a
-  spotify: https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR
-  wikipedia: https://en.wikipedia.org/wiki/Sonny_Rollins
+  musicbrainz: 'https://musicbrainz.org/artist/3b47247e-5b57-49b6-a0ed-bad80243802a'
+  spotify: 'https://open.spotify.com/artist/1VEzN9lxvG6KPR3QQGsebR'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sonny_Rollins'
 image_path: 03_Resources/source_material/ArtistPortraits/SONNY_ROLLINS.jpg
 biography_enhanced_at: '2025-10-20T10:03:48.969638'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Sonny_Rollins
-- https://achievement.org/achiever/sonny-rollins/
-- https://www.britannica.com/biography/Sonny-Rollins
-- https://www.arts.gov/honors/jazz/sonny-rollins
+  - 'https://en.wikipedia.org/wiki/Sonny_Rollins'
+  - 'https://achievement.org/achiever/sonny-rollins/'
+  - 'https://www.britannica.com/biography/Sonny-Rollins'
+  - 'https://www.arts.gov/honors/jazz/sonny-rollins'
 network_extracted: true
 entry_created: '2025-10-20T10:03:48.969654'
 last_updated: '2025-12-23T08:16:03.926874'
@@ -83,10 +85,9 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:43:59.232416'
 musicbrainz_id: 3b47247e-5b57-49b6-a0ed-bad80243802a
 tags:
-- 2008 universal fire victim
-- avant-garde jazz
-- bebop
-
+  - 2008 universal fire victim
+  - avant-garde jazz
+  - bebop
 ---
 
 ![](SONNY_ROLLINS.jpg)

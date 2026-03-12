@@ -3,21 +3,21 @@ title: Paul Thorn
 wiki_slug: paul-thorn
 schema_version: 2
 status: active
-birth_place: Kenosha, Wisconsin, USA (birthplace); Tupelo, Mississippi, USA (raised)
+birth_place: 'Kenosha, Wisconsin, USA (birthplace); Tupelo, Mississippi, USA (raised)'
 genres:
-- americana
-- roots rock
-- red dirt
-- alt country
-- texas country
-- southern rock
+  - americana
+  - roots rock
+  - red dirt
+  - alt country
+  - texas country
+  - southern rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/paul_thorn.jpg
   caption: Paul Thorn
   background: solo_singer
-  origin: Kenosha, Wisconsin, USA (birthplace); Tupelo, Mississippi, USA (raised)
+  origin: 'Kenosha, Wisconsin, USA (birthplace); Tupelo, Mississippi, USA (raised)'
 audio_profile:
-  tempo_avg: 122.0
+  tempo_avg: 122
   energy_avg: 0.47
   valence_avg: 0.67
   danceability_avg: 0.649
@@ -31,49 +31,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Billy Maddox
-  - Paul Thorn Band
-  - Miles Copeland
+    - Billy Maddox
+    - Paul Thorn Band
+    - Miles Copeland
   influenced:
-  - Emerging Americana and Southern roots artists
+    - Emerging Americana and Southern roots artists
   mentors:
-  - Wayne Thorn
-  - Merle Thorn
-  - Billy Maddox
+    - Wayne Thorn
+    - Merle Thorn
+    - Billy Maddox
 spotify_data:
   followers: 28292
   id: 20GkA5r78JwVBtZ4tNtriJ
   popularity: 31
-  url: https://open.spotify.com/artist/20GkA5r78JwVBtZ4tNtriJ
+  url: 'https://open.spotify.com/artist/20GkA5r78JwVBtZ4tNtriJ'
 discography_enriched: true
 top_tracks:
-- It's a Great Day to Whup Somebody's Ass (A Long Way from Tupelo)
-- Pimps & Preachers (Pimps & Preachers)
-- I Don't Like Half The Folks I Love (Pimps & Preachers)
-- Bull Mountain Bridge (What The Hell Is Goin' On)
-- Everything's Gonna Be Alright (Too Blessed to Be Stressed)
-- Mission Temple Fireworks Stand (Mission Temple Fireworks Stand)
-- Tough Times Don't Last (Life Is Just A Vapor)
-- Courage My Love (Life Is Just A Vapor)
-- I Have A Good Day (Aint Love Strange)
-- You Might Be Wrong (Pimps & Preachers)
+  - It's a Great Day to Whup Somebody's Ass (A Long Way from Tupelo)
+  - Pimps & Preachers (Pimps & Preachers)
+  - I Don't Like Half The Folks I Love (Pimps & Preachers)
+  - Bull Mountain Bridge (What The Hell Is Goin' On)
+  - Everything's Gonna Be Alright (Too Blessed to Be Stressed)
+  - Mission Temple Fireworks Stand (Mission Temple Fireworks Stand)
+  - Tough Times Don't Last (Life Is Just A Vapor)
+  - Courage My Love (Life Is Just A Vapor)
+  - I Have A Good Day (Aint Love Strange)
+  - You Might Be Wrong (Pimps & Preachers)
 external_urls:
-  spotify: https://open.spotify.com/artist/20GkA5r78JwVBtZ4tNtriJ
-  wikipedia: https://en.wikipedia.org/wiki/Paul_Thorn
+  spotify: 'https://open.spotify.com/artist/20GkA5r78JwVBtZ4tNtriJ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Paul_Thorn'
 image_path: 03_Resources/source_material/ArtistPortraits/paul_thorn.jpg
 biography_enhanced_at: '2025-10-27T02:36:47.788329'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://jbonamassa.com/paul-thorn-from-boxer-to-musician-and-beyond/
-- https://mainstreetcrossing.com/a-man-of-many-talents-appreciating-paul-thorn-2/
-- https://www.blog-waltonartscenter.org/wacblog/2018/9/20/behind-the-revival-paul-thorns-music-story
-- https://en.wikipedia.org/wiki/Paul_Thorn
-- http://www.paulthorn.com/bio
+  - 'https://jbonamassa.com/paul-thorn-from-boxer-to-musician-and-beyond/'
+  - >-
+    https://mainstreetcrossing.com/a-man-of-many-talents-appreciating-paul-thorn-2/
+  - >-
+    https://www.blog-waltonartscenter.org/wacblog/2018/9/20/behind-the-revival-paul-thorns-music-story
+  - 'https://en.wikipedia.org/wiki/Paul_Thorn'
+  - 'http://www.paulthorn.com/bio'
 network_extracted: true
 entry_created: '2025-10-27T02:36:47.788346'
 last_updated: '2025-12-23T08:16:14.109144'
-
+origin: 'Tupelo, Mississippi, United States'
+birth_date: '1964'
+artist_type: person
 ---
 
 ![](paul_thorn.jpg)

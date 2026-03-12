@@ -2,57 +2,59 @@
 artist_type: person
 biography_enhanced_at: '2026-01-22T07:23:19.187970'
 birth_date: '1933-02-21'
-birth_place: Tryon
+birth_place: 'Tryon, North Carolina, United States'
 death_date: '2003-04-21'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:23:19.187977'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2944824d-4c26-476f-a981-be849081942f
-  spotify: https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO
+  musicbrainz: 'https://musicbrainz.org/artist/2944824d-4c26-476f-a981-be849081942f'
+  spotify: 'https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO'
   wikipedia: Not provided in search results
 gender: Female
 genres:
-- vocal jazz
-- soul jazz
-- soul
-- jazz
-- blues
+  - vocal jazz
+  - soul jazz
+  - soul
+  - jazz
+  - blues
 image_path: 03_Resources/source_material/ArtistPortraits/nina_simone.jpg
 instruments:
-- piano
-- lead vocals
+  - piano
+  - lead vocals
 last_updated: '2026-01-22T07:23:19.187978'
 musical_connections:
   collaborators:
-  - Jerry Fields
-  - Syd Nathan
+    - Jerry Fields
+    - Syd Nathan
   influenced: []
   mentors:
-  - Muriel Mazzanovich
-  - Vladmir Sokoloff
-  - Family benefactors and patrons
+    - Muriel Mazzanovich
+    - Vladmir Sokoloff
+    - Family benefactors and patrons
 musicbrainz_id: 2944824d-4c26-476f-a981-be849081942f
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.biography.com/musicians/nina-simone
-- https://www.womenshistory.org/education-resources/biographies/nina-simone
-- https://nmaahc.si.edu/nina-simone
-- https://www.k-state.edu/musiceducation/symposium/10/index10/June_7_files/Nina%20Simeone%20Biography.pdf
-- https://westportlibrary.libguides.com/NinaSimone
-- https://www.ninasimone.com/biography/
-- https://pianoinspires.com/this-week-in-piano-history-april-16/
+  - 'https://www.biography.com/musicians/nina-simone'
+  - 'https://www.womenshistory.org/education-resources/biographies/nina-simone'
+  - 'https://nmaahc.si.edu/nina-simone'
+  - >-
+    https://www.k-state.edu/musiceducation/symposium/10/index10/June_7_files/Nina%20Simeone%20Biography.pdf
+  - 'https://westportlibrary.libguides.com/NinaSimone'
+  - 'https://www.ninasimone.com/biography/'
+  - 'https://pianoinspires.com/this-week-in-piano-history-april-16/'
 spotify_data:
   followers: 3299477
   id: 7G1GBhoKtEPnP86X2PvEYO
   popularity: 71
-  url: https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO
+  url: 'https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO'
 status: active
 tags:
-- african american singers
-- african american women civil rights workers
-- blues
-title: nina simone
+  - african american singers
+  - african american women civil rights workers
+  - blues
+title: Nina Simone
+is_active: false
 ---
 
 ![](nina_simone.jpg)

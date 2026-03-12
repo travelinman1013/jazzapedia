@@ -1,20 +1,20 @@
 ---
-title: JOHNNY OTIS
+title: Johnny Otis
 wiki_slug: johnny-otis
 schema_version: 2
 status: active
-birth_place: Vallejo, California, United States
+birth_place: 'Vallejo, California, United States'
 genres:
-- doo-wop
-- rockabilly
-- jazz blues
+  - doo-wop
+  - rockabilly
+  - jazz blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/johnny_otis.jpg
   caption: JOHNNY OTIS
   background: solo_singer
-  origin: Vallejo, California, United States
+  origin: 'Vallejo, California, United States'
 audio_profile:
-  tempo_avg: 108.0
+  tempo_avg: 108
   energy_avg: 0.508
   valence_avg: 0.731
   danceability_avg: 0.649
@@ -28,51 +28,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Big Mama Thornton
-  - Etta James
-  - Esther Phillips (Little Esther)
-  - Shuggie Otis
-  - Preston Love
+    - Big Mama Thornton
+    - Etta James
+    - Esther Phillips (Little Esther)
+    - Shuggie Otis
+    - Preston Love
   influenced:
-  - Jackie Wilson
-  - Hank Ballard
-  - Shuggie Otis
-  - Etta James
+    - Jackie Wilson
+    - Hank Ballard
+    - Shuggie Otis
+    - Etta James
   mentors:
-  - Jo Jones
-  - Nat King Cole
+    - Jo Jones
+    - Nat King Cole
 spotify_data:
   followers: 19298
   id: 5PGt6fQNjLKhYYeGLWKWcM
   popularity: 33
-  url: https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM
+  url: 'https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM'
 discography_enriched: true
 top_tracks:
-- Pledging My Love (The Complete Duke Recordings)
-- Willie And The Hand Jive (Ring A Ling)
-- Willie and the Hand Jive
-- Willie And The Hand Jive (The Classic Collection)
-- Castin' My Spell
-- Telephone Baby (Ring A Ling)
-- I'm the Midnight Creeper (feat.Shuggie Otis) (Pioneers of Rhythm & Blues Volume 7)
-- Good Golly
-- Cupid's Boogie (Johnny Otis And The Good Time Blues, Vol. 1)
-- Ma (He's Makin' Eyes At Me) (Ring A Ling)
+  - Pledging My Love (The Complete Duke Recordings)
+  - Willie And The Hand Jive (Ring A Ling)
+  - Willie and the Hand Jive
+  - Willie And The Hand Jive (The Classic Collection)
+  - Castin' My Spell
+  - Telephone Baby (Ring A Ling)
+  - >-
+    I'm the Midnight Creeper (feat.Shuggie Otis) (Pioneers of Rhythm & Blues
+    Volume 7)
+  - Good Golly
+  - 'Cupid''s Boogie (Johnny Otis And The Good Time Blues, Vol. 1)'
+  - Ma (He's Makin' Eyes At Me) (Ring A Ling)
 external_urls:
-  spotify: https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM
-  wikipedia: https://en.wikipedia.org/wiki/Johnny_Otis
+  spotify: 'https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM'
+  wikipedia: 'https://en.wikipedia.org/wiki/Johnny_Otis'
 image_path: 03_Resources/source_material/ArtistPortraits/johnny_otis.jpg
 biography_enhanced_at: '2025-10-31T08:06:56.167070'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.ebsco.com/research-starters/biography/johnny-otis
-- https://www.britannica.com/biography/Johnny-Otis
-- https://en.wikipedia.org/wiki/Johnny_Otis
-- https://blackpast.org/african-american-history/otis-johnny-1921-2012/
+  - 'https://www.ebsco.com/research-starters/biography/johnny-otis'
+  - 'https://www.britannica.com/biography/Johnny-Otis'
+  - 'https://en.wikipedia.org/wiki/Johnny_Otis'
+  - 'https://blackpast.org/african-american-history/otis-johnny-1921-2012/'
 network_extracted: true
 entry_created: '2025-10-31T08:06:56.167086'
 last_updated: '2025-12-23T08:16:10.888784'
+birth_date: '1921-12-28'
+artist_type: person
 ---
 
 ![](johnny_otis.jpg)

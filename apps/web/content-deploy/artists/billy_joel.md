@@ -1,38 +1,38 @@
 ---
-title: billy Joel
+title: Billy Joel
 wiki_slug: billy-joel
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1949-05-09'
-birth_place: The Bronx
+birth_place: 'The Bronx, New York, United States'
 genres:
-- soft rock
+  - soft rock
 instruments:
-- piano
-- electric piano
-- Rhodes piano
-- electric guitar
-- guitar
-- background vocals
-- lead vocals
-- spoken vocals
+  - piano
+  - electric piano
+  - Rhodes piano
+  - electric guitar
+  - guitar
+  - background vocals
+  - lead vocals
+  - spoken vocals
 associated_acts:
-- begin: '1964'
-  end: '1967'
-  instruments: []
-  mbid: 23d7cd16-42a5-49c7-aa9d-a1d8133d83a5
-  name: The Lost Souls
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 642b2331-8a7d-400f-be66-9c2bbdb30d7c
-  name: The Hassles
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9d2246b1-a3c5-4b08-b644-fd89e1a242c1
-  name: Attila
+  - begin: '1964'
+    end: '1967'
+    instruments: []
+    mbid: 23d7cd16-42a5-49c7-aa9d-a1d8133d83a5
+    name: The Lost Souls
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 642b2331-8a7d-400f-be66-9c2bbdb30d7c
+    name: The Hassles
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9d2246b1-a3c5-4b08-b644-fd89e1a242c1
+    name: Attila
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/billy_joel.jpg
   caption: billy Joel
@@ -45,7 +45,7 @@ audio_profile:
   valence_avg: 0.572
   danceability_avg: 0.56
   acousticness_avg: 0.339
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -8.4
   speechiness_avg: 0.057
   liveness_avg: 0.19
@@ -54,48 +54,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Don Evans
-  - Doug Stegmeyer
-  - Jon Small
-  - Tony Bennett
-  - Elton John
+    - Don Evans
+    - Doug Stegmeyer
+    - Jon Small
+    - Tony Bennett
+    - Elton John
   influenced: []
   mentors:
-  - The Beatles
-  - Ray Charles
+    - The Beatles
+    - Ray Charles
 spotify_data:
   followers: 7507281
   id: 6zFYqv1mOsgBRQbae3JJ9e
   popularity: 80
-  url: https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e
+  url: 'https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e'
 discography_enriched: true
 top_tracks:
-- Uptown Girl (An Innocent Man)
-- Vienna (The Stranger (Legacy Edition))
-- Piano Man (Piano Man (Legacy Edition))
-- She's Always a Woman (The Stranger (Legacy Edition))
-- We Didn't Start the Fire (Storm Front)
-- Just the Way You Are (The Stranger (Legacy Edition))
-- My Life (52nd Street)
-- Movin' Out (Anthony's Song) (The Stranger (Legacy Edition))
-- It's Still Rock and Roll to Me (Glass Houses)
-- Only the Good Die Young (The Stranger (Legacy Edition))
+  - Uptown Girl (An Innocent Man)
+  - Vienna (The Stranger (Legacy Edition))
+  - Piano Man (Piano Man (Legacy Edition))
+  - She's Always a Woman (The Stranger (Legacy Edition))
+  - We Didn't Start the Fire (Storm Front)
+  - Just the Way You Are (The Stranger (Legacy Edition))
+  - My Life (52nd Street)
+  - Movin' Out (Anthony's Song) (The Stranger (Legacy Edition))
+  - It's Still Rock and Roll to Me (Glass Houses)
+  - Only the Good Die Young (The Stranger (Legacy Edition))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/64b94289-9474-4d43-8c93-918ccc1920d1
-  spotify: https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e
-  wikipedia: https://en.wikipedia.org/wiki/Billy_Joel
+  musicbrainz: 'https://musicbrainz.org/artist/64b94289-9474-4d43-8c93-918ccc1920d1'
+  spotify: 'https://open.spotify.com/artist/6zFYqv1mOsgBRQbae3JJ9e'
+  wikipedia: 'https://en.wikipedia.org/wiki/Billy_Joel'
 image_path: 03_Resources/source_material/ArtistPortraits/billy_joel.jpg
 biography_enhanced_at: '2025-12-04T08:04:50.586701'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.billyjoel.com/biography/
-- https://www.biography.com/musicians/billy-joel
-- https://www.billyjoel.com/timeline/
-- https://en.wikipedia.org/wiki/Billy_Joel
-- https://www.britannica.com/biography/Billy-Joel
-- https://www.ebsco.com/research-starters/music/billy-joel
-- https://calendar.songfacts.com/timeline/billy-joel/
+  - 'https://www.billyjoel.com/biography/'
+  - 'https://www.biography.com/musicians/billy-joel'
+  - 'https://www.billyjoel.com/timeline/'
+  - 'https://en.wikipedia.org/wiki/Billy_Joel'
+  - 'https://www.britannica.com/biography/Billy-Joel'
+  - 'https://www.ebsco.com/research-starters/music/billy-joel'
+  - 'https://calendar.songfacts.com/timeline/billy-joel/'
 network_extracted: true
 entry_created: '2025-12-04T08:04:50.586710'
 last_updated: '2025-12-23T08:16:05.609501'
@@ -103,9 +103,9 @@ disambiguation: American singer-songwriter and pianist
 gender: Male
 musicbrainz_id: 64b94289-9474-4d43-8c93-918ccc1920d1
 tags:
-- american
-- classic rock
-- piano rock
+  - american
+  - classic rock
+  - piano rock
 ---
 
 ![](billy_joel.jpg)

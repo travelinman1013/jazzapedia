@@ -1,22 +1,22 @@
 ---
-title: mark james
+title: Mark James
 wiki_slug: mark-james
 schema_version: 2
 status: active
-birth_place: Houston, Texas, United States
+birth_place: 'Houston, Texas, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/mark_james.jpg
   caption: mark james
   background: solo_singer
-  origin: Houston, Texas, United States
+  origin: 'Houston, Texas, United States'
 audio_profile:
   tempo_avg: 113.2
   energy_avg: 0.507
   valence_avg: 0.674
   danceability_avg: 0.526
   acousticness_avg: 0.149
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -8.2
   speechiness_avg: 0.029
   liveness_avg: 0.437
@@ -25,47 +25,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Johnny Christopher
-  - Wayne Carson Thompson
-  - Elvis Presley
-  - Willie Nelson
+    - Johnny Christopher
+    - Wayne Carson Thompson
+    - Elvis Presley
+    - Willie Nelson
   influenced:
-  - Blue Swede
-  - Fine Young Cannibals
-  - Pet Shop Boys
-  - Brenda Lee
-  - Anne Murray
+    - Blue Swede
+    - Fine Young Cannibals
+    - Pet Shop Boys
+    - Brenda Lee
+    - Anne Murray
   mentors:
-  - Chips Moman
-  - B.J. Thomas
+    - Chips Moman
+    - B.J. Thomas
 spotify_data:
   followers: 198
   id: 0w39j8Zw550ydT50deT98U
   popularity: 4
-  url: https://open.spotify.com/artist/0w39j8Zw550ydT50deT98U
+  url: 'https://open.spotify.com/artist/0w39j8Zw550ydT50deT98U'
 discography_enriched: true
 top_tracks:
-- Suspicious Minds (Suspicious Minds / A Taste of Heaven)
-- A Taste of Heaven (Suspicious Minds / A Taste of Heaven)
+  - Suspicious Minds (Suspicious Minds / A Taste of Heaven)
+  - A Taste of Heaven (Suspicious Minds / A Taste of Heaven)
 external_urls:
-  spotify: https://open.spotify.com/artist/0w39j8Zw550ydT50deT98U
+  spotify: 'https://open.spotify.com/artist/0w39j8Zw550ydT50deT98U'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/mark_james.jpg
 biography_enhanced_at: '2025-11-20T07:31:06.360338'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Songwriters Hall of Fame - Mark James Profile
-- Taste of Country - Legendary Nashville Hitmaker Mark James Dead at 83
-- Songwriters Hall of Fame - Remembering Mark James
-- 'Elvis.com.au - Mark James: Caught in a Trap: Suspicious Minds'
-- Nashville Songwriters Hall of Fame - Mark James
-- Texas Heritage Songwriters' Association - Mark James
-- Vintage Rock Magazine - Suspicious Minds Songwriter Mark James Dies
-- Colorado Music - Mark James, Writer of Suspicious Minds and Always On My Mind
+  - Songwriters Hall of Fame - Mark James Profile
+  - Taste of Country - Legendary Nashville Hitmaker Mark James Dead at 83
+  - Songwriters Hall of Fame - Remembering Mark James
+  - 'Elvis.com.au - Mark James: Caught in a Trap: Suspicious Minds'
+  - Nashville Songwriters Hall of Fame - Mark James
+  - Texas Heritage Songwriters' Association - Mark James
+  - Vintage Rock Magazine - Suspicious Minds Songwriter Mark James Dies
+  - >-
+    Colorado Music - Mark James, Writer of Suspicious Minds and Always On My
+    Mind
 network_extracted: true
 entry_created: '2025-11-20T07:31:06.360347'
 last_updated: '2025-12-23T08:16:12.692278'
+birth_date: '1940-11-29'
+death_date: '2024-06-08'
+artist_type: person
 ---
 
 ![](mark_james.jpg)

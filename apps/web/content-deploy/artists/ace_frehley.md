@@ -1,27 +1,27 @@
 ---
-title: ace frehley
+title: Ace Frehley
 wiki_slug: ace-frehley
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1951-04-27'
-birth_place: The Bronx, New York City, New York, United States
+birth_place: 'The Bronx, New York City, New York, United States'
 death_date: '2025-10-16'
 genres:
-- glam metal
-- glam rock
+  - glam metal
+  - glam rock
 instruments:
-- background vocals
-- guitar
-- original
-- eponymous
-- lead vocals
+  - background vocals
+  - guitar
+  - original
+  - eponymous
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ace_frehley.jpg
   caption: ace frehley
   background: solo_singer
   born: '1951-04-27'
-  origin: The Bronx, New York City, New York, United States
+  origin: 'The Bronx, New York City, New York, United States'
   died: '2025-10-16'
 audio_profile:
   tempo_avg: 127.1
@@ -38,48 +38,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Gene Simmons
-  - Paul Stanley
-  - Peter Criss
-  - John Regan
-  - Anton Fig
+    - Gene Simmons
+    - Paul Stanley
+    - Peter Criss
+    - John Regan
+    - Anton Fig
   influenced:
-  - Dimebag Darrell
-  - Dave Grohl
-  - Slash
+    - Dimebag Darrell
+    - Dave Grohl
+    - Slash
   mentors:
-  - The Rolling Stones
-  - Jimi Hendrix
-  - Led Zeppelin
+    - The Rolling Stones
+    - Jimi Hendrix
+    - Led Zeppelin
 spotify_data:
   followers: 239794
   id: 62olK5zZHSgFUXGDykgBL8
   popularity: 48
-  url: https://open.spotify.com/artist/62olK5zZHSgFUXGDykgBL8
+  url: 'https://open.spotify.com/artist/62olK5zZHSgFUXGDykgBL8'
 discography_enriched: true
 top_tracks:
-- 'New York Groove (Kiss: Ace Frehley)'
-- 'Rip It Out (Kiss: Ace Frehley)'
-- Into the Night (Frehley's Comet)
-- 'New York Groove (Kiss: Ace Frehley)'
-- Rock Soldiers (Frehley's Comet)
-- 'Speedin'' Back To My Baby (Kiss: Ace Frehley)'
-- 10,000 Volts (10,000 Volts)
-- New York Groove
-- Do Ya (Trouble Walkin')
-- 'Snow Blind (Kiss: Ace Frehley)'
+  - 'New York Groove (Kiss: Ace Frehley)'
+  - 'Rip It Out (Kiss: Ace Frehley)'
+  - Into the Night (Frehley's Comet)
+  - 'New York Groove (Kiss: Ace Frehley)'
+  - Rock Soldiers (Frehley's Comet)
+  - 'Speedin'' Back To My Baby (Kiss: Ace Frehley)'
+  - '10,000 Volts (10,000 Volts)'
+  - New York Groove
+  - Do Ya (Trouble Walkin')
+  - 'Snow Blind (Kiss: Ace Frehley)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/33d700ce-064f-44f6-ab9e-60f9eed0fca1
-  spotify: https://open.spotify.com/artist/62olK5zZHSgFUXGDykgBL8
-  wikipedia: https://en.wikipedia.org/wiki/Ace_Frehley
+  musicbrainz: 'https://musicbrainz.org/artist/33d700ce-064f-44f6-ab9e-60f9eed0fca1'
+  spotify: 'https://open.spotify.com/artist/62olK5zZHSgFUXGDykgBL8'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ace_Frehley'
 image_path: 03_Resources/source_material/ArtistPortraits/ace_frehley.jpg
 biography_enhanced_at: '2025-10-19T10:54:10.250244'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Ace_Frehley
-- https://www.kissinuk.com/bio/ace.htm
-- https://www.imdb.com/name/nm0293719/bio/
+  - 'https://en.wikipedia.org/wiki/Ace_Frehley'
+  - 'https://www.kissinuk.com/bio/ace.htm'
+  - 'https://www.imdb.com/name/nm0293719/bio/'
 network_extracted: true
 entry_created: '2025-10-19T10:54:10.250259'
 last_updated: '2025-12-23T08:16:04.382371'
@@ -88,9 +88,11 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:48:26.246166'
 musicbrainz_id: 33d700ce-064f-44f6-ab9e-60f9eed0fca1
 tags:
-- 1970s
-- blues rock
-- classic rock
+  - 1970s
+  - blues rock
+  - classic rock
+is_active: false
+origin: 'The Bronx, New York City, New York, United States'
 ---
 
 ![](ace_frehley.jpg)

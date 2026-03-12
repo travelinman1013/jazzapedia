@@ -5,29 +5,29 @@ schema_version: 2
 status: deceased
 aliases: []
 birth_date: '1921-09-23'
-birth_place: Raines, Tennessee, United States
+birth_place: 'Raines, Tennessee, United States'
 death_date: '1957-08-05'
 years_active: 1940s–1957
 genres:
-- classic blues
-- blues
+  - classic blues
+  - blues
 instruments:
-- guitar
-- harmonica
-- voice
+  - guitar
+  - harmonica
+  - voice
 occupation:
-- musician
-- singer
+  - musician
+  - singer
 record_labels:
-- Meteor Records
-- Checker
-- Sam Phillips
+  - Meteor Records
+  - Checker
+  - Sam Phillips
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Joe_Hill_Louis.jpg
   caption: Joe Hill Louis
   background: solo_singer
   born: '1921-09-23'
-  origin: Raines, Tennessee, United States
+  origin: 'Raines, Tennessee, United States'
   died: '1957-08-05'
 audio_profile:
   tempo_avg: 129.6
@@ -44,53 +44,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sam Phillips
-  - Walter Horton
-  - Rufus Thomas
+    - Sam Phillips
+    - Walter Horton
+    - Rufus Thomas
   influenced:
-  - Doctor Ross
-  - Elvis Presley
+    - Doctor Ross
+    - Elvis Presley
   mentors:
-  - B.B. King
+    - B.B. King
 related_artists: []
 spotify_data:
   followers: 2062
   id: 2mHjgjT2OgAL8vUxTPQYav
   popularity: 11
-  url: https://open.spotify.com/artist/2mHjgjT2OgAL8vUxTPQYav
+  url: 'https://open.spotify.com/artist/2mHjgjT2OgAL8vUxTPQYav'
   verified: false
 discography_enriched: true
 albums_count: 1
 singles_count: 1
 top_tracks:
-- We All Gotta Go Sometime
-- 'I''m A Poor Boy (Sun Records Originals: We All Gotta Go Sometime)'
-- Gotta Go Baby (Gotta Let You Go) (Best of Harmonica Blues)
-- 'Boogie in the Park (Sun Records Originals: We All Gotta Go Sometime)'
-- Gotta Go Baby (Gotta Let You Go)
-- 'We All Gotta Go Sometime (Sun Records Originals: We All Gotta Go Sometime)'
-- She May Be Yours (But She Comes to See Me Sometimes)
-- She May Be Yours (But She Comes To See Me Sometime)
-- 'Dorothy Mae (Sun Records Originals: We All Gotta Go Sometime)'
-- 'Hydramatic Woman (Sun Records Originals: We All Gotta Go Sometime)'
+  - We All Gotta Go Sometime
+  - 'I''m A Poor Boy (Sun Records Originals: We All Gotta Go Sometime)'
+  - Gotta Go Baby (Gotta Let You Go) (Best of Harmonica Blues)
+  - 'Boogie in the Park (Sun Records Originals: We All Gotta Go Sometime)'
+  - Gotta Go Baby (Gotta Let You Go)
+  - 'We All Gotta Go Sometime (Sun Records Originals: We All Gotta Go Sometime)'
+  - She May Be Yours (But She Comes to See Me Sometimes)
+  - She May Be Yours (But She Comes To See Me Sometime)
+  - 'Dorothy Mae (Sun Records Originals: We All Gotta Go Sometime)'
+  - 'Hydramatic Woman (Sun Records Originals: We All Gotta Go Sometime)'
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/2mHjgjT2OgAL8vUxTPQYav
-  wikipedia: https://en.wikipedia.org/wiki/Joe_Hill_Louis
+  spotify: 'https://open.spotify.com/artist/2mHjgjT2OgAL8vUxTPQYav'
+  wikipedia: 'https://en.wikipedia.org/wiki/Joe_Hill_Louis'
 image_path: 03_Resources/source_material/ArtistPortraits/Joe_Hill_Louis.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:57:33.518872'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Joe_Hill_Louis
-- https://sunrecords.com/artists/joe-hill-louis/
-- https://aaregistry.org/story/joe-hill-louis-an-instrumentalist-whose-life-was-cut-short/
-- https://wbssmedia.com/artists/detail/2308
+  - 'https://en.wikipedia.org/wiki/Joe_Hill_Louis'
+  - 'https://sunrecords.com/artists/joe-hill-louis/'
+  - >-
+    https://aaregistry.org/story/joe-hill-louis-an-instrumentalist-whose-life-was-cut-short/
+  - 'https://wbssmedia.com/artists/detail/2308'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:51:08.887076
+entry_created: 2025-09-22T21:51:08.887Z
 last_updated: '2025-12-23T08:16:02.355858'
+is_active: false
+origin: 'Memphis, Tennessee, United States'
+artist_type: band
 ---
 
 ![](Joe_Hill_Louis.jpg)

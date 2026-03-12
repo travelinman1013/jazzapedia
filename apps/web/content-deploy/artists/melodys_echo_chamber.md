@@ -3,16 +3,16 @@ title: Melody's Echo Chamber
 wiki_slug: melodys-echo-chamber
 schema_version: 2
 status: active
-birth_place: Paris, Île-de-France, France
+birth_place: 'Paris, Île-de-France, France'
 genres:
-- dream pop
-- psychedelic pop
-- psychedelic rock
+  - dream pop
+  - psychedelic pop
+  - psychedelic rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/melodys_echo_chamber.jpg
   caption: Melody's Echo Chamber
   background: solo_singer
-  origin: Paris, Île-de-France, France
+  origin: 'Paris, Île-de-France, France'
 audio_profile:
   tempo_avg: 109.8
   energy_avg: 0.749
@@ -28,50 +28,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kevin Parker
-  - Jérôme Pichon
-  - Members of Dungen
-  - Pond
+    - Kevin Parker
+    - Jérôme Pichon
+    - Members of Dungen
+    - Pond
   influenced:
-  - Modern French dream pop and neo-psychedelic artists
+    - Modern French dream pop and neo-psychedelic artists
   mentors:
-  - Kevin Parker
-  - Jean Michel Jarre
-  - Vangelis
+    - Kevin Parker
+    - Jean Michel Jarre
+    - Vangelis
 spotify_data:
   followers: 291864
   id: 1S0vL284jxZYKtZQ2jsQ2X
   popularity: 48
-  url: https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X
+  url: 'https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X'
 discography_enriched: true
 top_tracks:
-- I Follow You (Melody's Echo Chamber)
-- Shirim (Bon Voyage)
-- I Follow You (Melody's Echo Chamber)
-- Some Time Alone, Alone (Melody's Echo Chamber)
-- Le Temple Volant
-- Quand Vas Tu Rentrer (Melody's Echo Chamber)
-- Shirim (Bon Voyage)
-- Some Time Alone, Alone (Melody's Echo Chamber)
-- Unfold (Unfold)
-- Quand Vas Tu Rentrer ? (Melody's Echo Chamber)
+  - I Follow You (Melody's Echo Chamber)
+  - Shirim (Bon Voyage)
+  - I Follow You (Melody's Echo Chamber)
+  - 'Some Time Alone, Alone (Melody''s Echo Chamber)'
+  - Le Temple Volant
+  - Quand Vas Tu Rentrer (Melody's Echo Chamber)
+  - Shirim (Bon Voyage)
+  - 'Some Time Alone, Alone (Melody''s Echo Chamber)'
+  - Unfold (Unfold)
+  - Quand Vas Tu Rentrer ? (Melody's Echo Chamber)
 external_urls:
-  spotify: https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X
-  wikipedia: https://en.wikipedia.org/wiki/Melody's_Echo_Chamber
+  spotify: 'https://open.spotify.com/artist/1S0vL284jxZYKtZQ2jsQ2X'
+  wikipedia: 'https://en.wikipedia.org/wiki/Melody''s_Echo_Chamber'
 image_path: 03_Resources/source_material/ArtistPortraits/melodys_echo_chamber.jpg
 biography_enhanced_at: '2025-11-20T06:53:16.687812'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Melody's_Echo_Chamber
-- https://www.brooklynvegan.com/an-interview-wi-74/
-- https://www.pbsfm.org.au/news/melodys-echo-chamber
-- https://spaceecho.chromewaves.net/2023/04/03/melodys-echo-chamber-crystallized/
-- https://francerocks.com/artist/melodys-echo-chamber/
+  - 'https://en.wikipedia.org/wiki/Melody''s_Echo_Chamber'
+  - 'https://www.brooklynvegan.com/an-interview-wi-74/'
+  - 'https://www.pbsfm.org.au/news/melodys-echo-chamber'
+  - >-
+    https://spaceecho.chromewaves.net/2023/04/03/melodys-echo-chamber-crystallized/
+  - 'https://francerocks.com/artist/melodys-echo-chamber/'
 network_extracted: true
 entry_created: '2025-11-20T06:53:16.687827'
 last_updated: '2025-12-23T08:16:12.934325'
-
+artist_type: person
 ---
 
 ![](melodys_echo_chamber.jpg)

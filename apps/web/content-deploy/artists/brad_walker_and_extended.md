@@ -23,46 +23,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Oscar Rossignoli
-  - Matt Booth
-  - Brad Webb
-  - Sturgill Simpson
+    - Oscar Rossignoli
+    - Matt Booth
+    - Brad Webb
+    - Sturgill Simpson
   influenced:
-  - Emerging New Orleans jazz saxophonists
+    - Emerging New Orleans jazz saxophonists
   mentors:
-  - Louisiana State University Faculty
+    - Louisiana State University Faculty
 spotify_data:
   followers: 23
   id: 5oavjjAApzBeDzft4mY0CS
   popularity: 4
-  url: https://open.spotify.com/artist/5oavjjAApzBeDzft4mY0CS
+  url: 'https://open.spotify.com/artist/5oavjjAApzBeDzft4mY0CS'
 discography_enriched: true
 top_tracks:
-- High From Low (High From Low)
-- Everything - Cut Version (Flow Dance Deep House Mix Vol.2)
-- My Sunday Loo - Radio Edit (Deep House Vibes Flow)
-- Minders - Radio Edit (Deep House Vibes Flow)
-- Electrical Love - Radio Edit (Deep House Vibes Flow 2 (Radio Edit))
-- Enveloped - Radio Edit (Deep House Vibes Flow 2 (Radio Edit))
-- Usa Girls - Instrumental Mix (Usa Girls)
-- Everything - Hme Mix (Hit Mania Dance Estate 2024)
-- High From Low - Radio Edit
-- High From Low - Radio Edit (High From Low)
+  - High From Low (High From Low)
+  - Everything - Cut Version (Flow Dance Deep House Mix Vol.2)
+  - My Sunday Loo - Radio Edit (Deep House Vibes Flow)
+  - Minders - Radio Edit (Deep House Vibes Flow)
+  - Electrical Love - Radio Edit (Deep House Vibes Flow 2 (Radio Edit))
+  - Enveloped - Radio Edit (Deep House Vibes Flow 2 (Radio Edit))
+  - Usa Girls - Instrumental Mix (Usa Girls)
+  - Everything - Hme Mix (Hit Mania Dance Estate 2024)
+  - High From Low - Radio Edit
+  - High From Low - Radio Edit (High From Low)
 external_urls:
-  spotify: https://open.spotify.com/artist/5oavjjAApzBeDzft4mY0CS
+  spotify: 'https://open.spotify.com/artist/5oavjjAApzBeDzft4mY0CS'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/brad_walker_and_extended.jpg
 biography_enhanced_at: '2025-10-24T07:36:45.238137'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://bradwalker.me/bio-press-kit
-- https://www.offbeat.com/music/brad-walker-extended-side-by-side-independent/
-- https://www.neworleans.com/listing/brad-walker/46319/
+  - 'https://bradwalker.me/bio-press-kit'
+  - 'https://www.offbeat.com/music/brad-walker-extended-side-by-side-independent/'
+  - 'https://www.neworleans.com/listing/brad-walker/46319/'
 network_extracted: true
 entry_created: '2025-10-24T07:36:45.238153'
 last_updated: '2025-12-23T08:16:06.002852'
-origin: New Orleans, Louisiana, USA
+origin: 'New Orleans, Louisiana, USA'
+artist_type: person
 ---
 
 ![](brad_walker_and_extended.jpg)

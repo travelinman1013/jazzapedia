@@ -1,19 +1,19 @@
 ---
-title: TONY JOE WHITE
+title: Tony Joe White
 wiki_slug: tony-joe-white
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1943-07-23'
-birth_place: Oak Grove
+birth_place: 'Oak Grove, Louisiana, United States'
 death_date: '2018-10-24'
 genres:
-- blues
-- blues rock
+  - blues
+  - blues rock
 instruments:
-- electric guitar
-- guitar
-- lead vocals
+  - electric guitar
+  - guitar
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/tony_joe_white.jpg
   caption: TONY JOE WHITE
@@ -36,54 +36,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tina Turner
-  - Mark Knopfler
-  - Jody White
+    - Tina Turner
+    - Mark Knopfler
+    - Jody White
   influenced:
-  - Elvis Presley
-  - Tom Jones
-  - Joe Bonamassa
+    - Elvis Presley
+    - Tom Jones
+    - Joe Bonamassa
   mentors:
-  - Lightnin' Hopkins
+    - Lightnin' Hopkins
 spotify_data:
   followers: 155275
   id: 6QvgWa4x3Ij4tvBpFMo11P
   popularity: 53
-  url: https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P
+  url: 'https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P'
 discography_enriched: true
 top_tracks:
-- You're Gonna Look Good in Blues (Closer to the Truth)
-- Ain't Going Down This Time (Closer to the Truth)
-- Polk Salad Annie (Black & White)
-- Closer to the Truth (Closer to the Truth)
-- Keep Going (Dust My Broom)
-- Tunica Motel (Closer to the Truth)
-- Steamy Windows (Closer to the Truth)
-- Who You Gonna Hoodoo Now? (Hoodoo)
-- The Guitar Don't Lie (Lake Placid Blues)
-- Lake Placid Blues (Lake Placid Blues)
+  - You're Gonna Look Good in Blues (Closer to the Truth)
+  - Ain't Going Down This Time (Closer to the Truth)
+  - Polk Salad Annie (Black & White)
+  - Closer to the Truth (Closer to the Truth)
+  - Keep Going (Dust My Broom)
+  - Tunica Motel (Closer to the Truth)
+  - Steamy Windows (Closer to the Truth)
+  - Who You Gonna Hoodoo Now? (Hoodoo)
+  - The Guitar Don't Lie (Lake Placid Blues)
+  - Lake Placid Blues (Lake Placid Blues)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/810af667-6a1f-40df-87a9-27f726cba4f3
-  spotify: https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P
-  wikipedia: https://en.wikipedia.org/wiki/Tony_Joe_White
+  musicbrainz: 'https://musicbrainz.org/artist/810af667-6a1f-40df-87a9-27f726cba4f3'
+  spotify: 'https://open.spotify.com/artist/6QvgWa4x3Ij4tvBpFMo11P'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tony_Joe_White'
 image_path: 03_Resources/source_material/ArtistPortraits/tony_joe_white.jpg
 biography_enhanced_at: '2025-10-31T08:06:29.679662'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://mabumbe.com/people/tony-joe-white-biography-early-life-net-worth-legacy/
-- https://en.wikipedia.org/wiki/Tony_Joe_White
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/white-tony-joe
-- https://robertdoerschuk.substack.com/p/tony-joe-white
+  - >-
+    https://mabumbe.com/people/tony-joe-white-biography-early-life-net-worth-legacy/
+  - 'https://en.wikipedia.org/wiki/Tony_Joe_White'
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/white-tony-joe
+  - 'https://robertdoerschuk.substack.com/p/tony-joe-white'
 network_extracted: true
 entry_created: '2025-10-31T08:06:29.679671'
 last_updated: '2025-12-23T08:16:17.615232'
 gender: Male
 musicbrainz_id: 810af667-6a1f-40df-87a9-27f726cba4f3
 tags:
-- bare necessities
-- blues rock
-- country
+  - bare necessities
+  - blues rock
+  - country
+is_active: false
 ---
 
 ![](tony_joe_white.jpg)

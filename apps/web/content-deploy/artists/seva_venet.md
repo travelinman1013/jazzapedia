@@ -3,13 +3,17 @@ title: Seva Venet
 wiki_slug: seva-venet
 schema_version: 2
 status: active
-birth_place: Los Angeles, California, USA (birthplace); New Orleans, Louisiana, USA (primary artistic base)
+birth_place: >-
+  Los Angeles, California, USA (birthplace); New Orleans, Louisiana, USA
+  (primary artistic base)
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/seva_venet.jpg
   caption: Seva Venet
   background: solo_singer
-  origin: Los Angeles, California, USA (birthplace); New Orleans, Louisiana, USA (primary artistic base)
+  origin: >-
+    Los Angeles, California, USA (birthplace); New Orleans, Louisiana, USA
+    (primary artistic base)
 audio_profile:
   tempo_avg: 114.4
   energy_avg: 0.289
@@ -25,52 +29,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dr. Michael White
-  - Treme Brass Band
-  - Greg Stafford and the Jazz Hounds
-  - Tommy Sancton, Clive Wilson, Lars Edegran
-  - Storyville String Band
+    - Dr. Michael White
+    - Treme Brass Band
+    - Greg Stafford and the Jazz Hounds
+    - 'Tommy Sancton, Clive Wilson, Lars Edegran'
+    - Storyville String Band
   influenced:
-  - Numerous New Orleans public school students
+    - Numerous New Orleans public school students
   mentors:
-  - Bill Harkleroad (Zoot Horn Rollo)
-  - Ted Greene
-  - Nik Venet
-  - Steve Venet
-  - Tuba Fats
+    - Bill Harkleroad (Zoot Horn Rollo)
+    - Ted Greene
+    - Nik Venet
+    - Steve Venet
+    - Tuba Fats
 spotify_data:
   followers: 112
   id: 33KMH80JxhdNwwCYzSNQCX
   popularity: 1
-  url: https://open.spotify.com/artist/33KMH80JxhdNwwCYzSNQCX
+  url: 'https://open.spotify.com/artist/33KMH80JxhdNwwCYzSNQCX'
 discography_enriched: true
 top_tracks:
-- Limehouse Blues (Mens Working)
-- I'm Alone Because I Love You (Romantic New Orleans)
-- Jazz Me Blues (Seva Venet presents the Storyville Stringband of New Orleans)
-- Struttin' With Some Barbeque (Romantic New Orleans)
-- Exactly Like You (Romantic New Orleans)
-- Girl Of My Dreams (Romantic New Orleans)
-- Sugar Blues (Romantic New Orleans)
-- I'm Gonna Sit Right Down (Romantic New Orleans)
-- Big Butter And Egg Man (Romantic New Orleans)
-- The Preacher (Romantic New Orleans)
+  - Limehouse Blues (Mens Working)
+  - I'm Alone Because I Love You (Romantic New Orleans)
+  - Jazz Me Blues (Seva Venet presents the Storyville Stringband of New Orleans)
+  - Struttin' With Some Barbeque (Romantic New Orleans)
+  - Exactly Like You (Romantic New Orleans)
+  - Girl Of My Dreams (Romantic New Orleans)
+  - Sugar Blues (Romantic New Orleans)
+  - I'm Gonna Sit Right Down (Romantic New Orleans)
+  - Big Butter And Egg Man (Romantic New Orleans)
+  - The Preacher (Romantic New Orleans)
 external_urls:
-  spotify: https://open.spotify.com/artist/33KMH80JxhdNwwCYzSNQCX
+  spotify: 'https://open.spotify.com/artist/33KMH80JxhdNwwCYzSNQCX'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/seva_venet.jpg
 biography_enhanced_at: '2025-11-08T21:53:18.904593'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://sevavenet.com/bio.htm
-- https://www.wwoz.org/media/182876-thats-plenty-seva-venet
-- https://www.thebash.com/jazz-guitar/seva-venet-new-orleans-guitar-banjo
-- https://www.deeringbanjos.com/blogs/deering-artists/18108632-seva-venet
-- https://sevavenet.com/article.htm
+  - 'https://sevavenet.com/bio.htm'
+  - 'https://www.wwoz.org/media/182876-thats-plenty-seva-venet'
+  - 'https://www.thebash.com/jazz-guitar/seva-venet-new-orleans-guitar-banjo'
+  - 'https://www.deeringbanjos.com/blogs/deering-artists/18108632-seva-venet'
+  - 'https://sevavenet.com/article.htm'
 network_extracted: true
 entry_created: '2025-11-08T21:53:18.904608'
 last_updated: '2025-12-23T08:16:15.519217'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](seva_venet.jpg)

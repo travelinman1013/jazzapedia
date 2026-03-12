@@ -5,11 +5,11 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1975-08-12'
-birth_place: Chicago
+birth_place: 'Chicago, Illinois, United States'
 genres:
-- slowcore
+  - slowcore
 instruments:
-- background vocals
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sparkle.jpg
   caption: Sparkle
@@ -31,44 +31,44 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - R. Kelly
-  - Mary J. Blige
-  - Aaliyah
-  - Avant
+    - R. Kelly
+    - Mary J. Blige
+    - Aaliyah
+    - Avant
   influenced: []
   mentors:
-  - R. Kelly
+    - R. Kelly
 spotify_data:
   followers: 189667
   id: 64tVHZVSAZhDEiOJxnb6hE
   popularity: 46
-  url: https://open.spotify.com/artist/64tVHZVSAZhDEiOJxnb6hE
+  url: 'https://open.spotify.com/artist/64tVHZVSAZhDEiOJxnb6hE'
 discography_enriched: true
 top_tracks:
-- Piano Fire (It's A Wonderful Life)
-- Gold Day (It's A Wonderful Life)
-- It's A Wonderful Life (It's A Wonderful Life)
-- Little Girl (feat. Julian Casablancas) (Dark Night of The Soul)
-- Shade And Honey (Dreamt For Light Years In The Belly Of A Mountain)
-- Revenge (feat. The Flaming Lips) (Dark Night of The Soul)
-- Heart Of Darkness (Vivadixiesubmarinetransmissionplot)
-- Sad And Beautiful World (Vivadixiesubmarinetransmissionplot)
-- Sea Of Teeth (It's A Wonderful Life)
-- Little Girl (feat. Julian Casablancas) (Dark Night of The Soul)
+  - Piano Fire (It's A Wonderful Life)
+  - Gold Day (It's A Wonderful Life)
+  - It's A Wonderful Life (It's A Wonderful Life)
+  - Little Girl (feat. Julian Casablancas) (Dark Night of The Soul)
+  - Shade And Honey (Dreamt For Light Years In The Belly Of A Mountain)
+  - Revenge (feat. The Flaming Lips) (Dark Night of The Soul)
+  - Heart Of Darkness (Vivadixiesubmarinetransmissionplot)
+  - Sad And Beautiful World (Vivadixiesubmarinetransmissionplot)
+  - Sea Of Teeth (It's A Wonderful Life)
+  - Little Girl (feat. Julian Casablancas) (Dark Night of The Soul)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9580bb00-dda9-40e9-bb96-4b5d4ca36f9a
-  spotify: https://open.spotify.com/artist/64tVHZVSAZhDEiOJxnb6hE
-  wikipedia: https://en.wikipedia.org/wiki/Sparkle_(singer)
+  musicbrainz: 'https://musicbrainz.org/artist/9580bb00-dda9-40e9-bb96-4b5d4ca36f9a'
+  spotify: 'https://open.spotify.com/artist/64tVHZVSAZhDEiOJxnb6hE'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sparkle_(singer)'
 image_path: 03_Resources/source_material/ArtistPortraits/sparkle.jpg
 biography_enhanced_at: '2025-11-23T06:34:58.809460'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Sparkle_(singer)
-- https://www.last.fm/music/Sparkle/+wiki
-- http://soulinstereo.com/2014/08/what-ever-happened-to-sparkle.html
-- https://www.allmusic.com/artist/sparkle-mn0000744199
-- https://www.theaudiodb.com/artist/153664-Sparkle
+  - 'https://en.wikipedia.org/wiki/Sparkle_(singer)'
+  - 'https://www.last.fm/music/Sparkle/+wiki'
+  - 'http://soulinstereo.com/2014/08/what-ever-happened-to-sparkle.html'
+  - 'https://www.allmusic.com/artist/sparkle-mn0000744199'
+  - 'https://www.theaudiodb.com/artist/153664-Sparkle'
 network_extracted: true
 entry_created: '2025-11-23T06:34:58.809466'
 last_updated: '2025-12-23T08:16:15.974996'

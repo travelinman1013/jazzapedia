@@ -1,143 +1,144 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: b1a2acf2-f076-4bb1-bb85-fda238ae2e85
-  name: Wayne Shorter Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: ad45a94c-8afb-4091-afc4-829b6d52c3c1
-  name: Brian Blade Fellowship
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0d27e9ce-90a4-460e-ab3c-9748a9160e18
-  name: Sam Yahel Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: db661e12-95a6-4755-9e6c-8e652466653f
-  name: Black Dub
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: dc21e71d-4699-4cb3-8f39-d2d8d5dd6538
-  name: Joshua Redman Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - membranophone
-  - original
-  mbid: ab376561-99c5-4635-91cf-ef8d3ba28629
-  name: John Patitucci Electric Guitar Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - membranophone
-  - original
-  mbid: 37037ee4-8477-4cd8-be64-5949b43cc84f
-  name: Yaya³
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3c9646eb-aecb-43be-bf07-a09b57d9fac5
-  name: MDH Band
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 955bab7c-755e-46c2-af13-cd84c85f1779
-  name: Kenny Garrett Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: fb13a15b-689d-471a-9ec2-790f79c22dc1
-  name: Lifecycles
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ecd1bbb5-4165-408b-bf21-d5721d7557bb
-  name: The Jon Cowherd Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f01f8a9d-2f18-44eb-b3bd-5f9f4f638fdb
-  name: John Patitucci Trio
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 881276cd-360e-4ca6-94b4-05524ddf1bcf
-  name: Three Visitors
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  - original
-  mbid: 2b7c3be9-354d-4e99-9fc9-b493644b4385
-  name: Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: b1a2acf2-f076-4bb1-bb85-fda238ae2e85
+    name: Wayne Shorter Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: ad45a94c-8afb-4091-afc4-829b6d52c3c1
+    name: Brian Blade Fellowship
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0d27e9ce-90a4-460e-ab3c-9748a9160e18
+    name: Sam Yahel Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: db661e12-95a6-4755-9e6c-8e652466653f
+    name: Black Dub
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: dc21e71d-4699-4cb3-8f39-d2d8d5dd6538
+    name: Joshua Redman Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - membranophone
+      - original
+    mbid: ab376561-99c5-4635-91cf-ef8d3ba28629
+    name: John Patitucci Electric Guitar Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - membranophone
+      - original
+    mbid: 37037ee4-8477-4cd8-be64-5949b43cc84f
+    name: Yaya³
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3c9646eb-aecb-43be-bf07-a09b57d9fac5
+    name: MDH Band
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 955bab7c-755e-46c2-af13-cd84c85f1779
+    name: Kenny Garrett Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: fb13a15b-689d-471a-9ec2-790f79c22dc1
+    name: Lifecycles
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ecd1bbb5-4165-408b-bf21-d5721d7557bb
+    name: The Jon Cowherd Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f01f8a9d-2f18-44eb-b3bd-5f9f4f638fdb
+    name: John Patitucci Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 881276cd-360e-4ca6-94b4-05524ddf1bcf
+    name: Three Visitors
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+      - original
+    mbid: 2b7c3be9-354d-4e99-9fc9-b493644b4385
+    name: Trio
 biography_enhanced_at: '2026-01-02T01:22:51.528483'
 birth_date: '1970-07-25'
-birth_place: Shreveport
-disambiguation: US jazz drummer, composer, and session musician
+birth_place: 'Shreveport, Louisiana, United States'
+disambiguation: 'US jazz drummer, composer, and session musician'
 enhancement_provider: perplexity
 entry_created: '2026-01-02T01:22:51.528487'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4d54e19b-f78d-4d2b-bdcd-a8d0348d6e6f
-  spotify: https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu
-  wikipedia: https://en.wikipedia.org/wiki/Brian_Blade
+  musicbrainz: 'https://musicbrainz.org/artist/4d54e19b-f78d-4d2b-bdcd-a8d0348d6e6f'
+  spotify: 'https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu'
+  wikipedia: 'https://en.wikipedia.org/wiki/Brian_Blade'
 gender: Male
 genres:
-- jazz
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/brian_blade.jpg
 instruments:
-- drums (drum set)
-- eponymous
-- original
-- membranophone
-- acoustic guitar
-- guitar
-- piano
-- choir vocals
+  - drums (drum set)
+  - eponymous
+  - original
+  - membranophone
+  - acoustic guitar
+  - guitar
+  - piano
+  - choir vocals
 last_updated: '2026-01-02T01:22:51.528488'
 musical_connections:
   collaborators:
-  - Wayne Shorter
-  - Jon Cowherd
-  - Chick Corea
-  - Joshua Redman
-  - Joni Mitchell
+    - Wayne Shorter
+    - Jon Cowherd
+    - Chick Corea
+    - Joshua Redman
+    - Joni Mitchell
   influenced: []
   mentors:
-  - Dorsey Summerfield Jr.
-  - Elvin Jones
-  - Art Blakey
+    - Dorsey Summerfield Jr.
+    - Elvin Jones
+    - Art Blakey
 musicbrainz_id: 4d54e19b-f78d-4d2b-bdcd-a8d0348d6e6f
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Brian_Blade
-- https://martyrslive.com/brian-blade-drums
-- https://www.jazzempowers.org/brian-blade
-- https://www.bluenote.com/artist/brian-blade/
-- https://jazztimes.com/features/profiles/brian-blade-the-sharpest-blade/
+  - 'https://en.wikipedia.org/wiki/Brian_Blade'
+  - 'https://martyrslive.com/brian-blade-drums'
+  - 'https://www.jazzempowers.org/brian-blade'
+  - 'https://www.bluenote.com/artist/brian-blade/'
+  - 'https://jazztimes.com/features/profiles/brian-blade-the-sharpest-blade/'
 spotify_data:
   followers: 39509
   id: 0nXwIc4NAbu2K881ealRDu
   popularity: 37
-  url: https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu
+  url: 'https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu'
 status: active
 tags:
-- alternative rock
-- blues rock
-- contemporary jazz
+  - alternative rock
+  - blues rock
+  - contemporary jazz
 title: Brian Blade
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](brian_blade.jpg)

@@ -1,35 +1,35 @@
 ---
-title: roosevelt sykes
+title: Roosevelt Sykes
 wiki_slug: roosevelt-sykes
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1906-01-31'
-birth_place: Arkansas
+birth_place: 'Elmar, Arkansas, United States'
 death_date: '1983-07-17'
 genres:
-- blues
-- classic blues
-- boogie-woogie
-- jazz blues
-- ragtime
+  - blues
+  - classic blues
+  - boogie-woogie
+  - jazz blues
+  - ragtime
 instruments:
-- eponymous
-- original
-- piano
-- guitar
-- acoustic guitar
-- lead vocals
-- spoken vocals
-- vocal
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
-  mbid: 20f63222-cadf-45c5-a906-cef778c91bf3
-  name: Roosevelt Sykes with His Original Honeydrippers
+  - piano
+  - guitar
+  - acoustic guitar
+  - lead vocals
+  - spoken vocals
+  - vocal
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 20f63222-cadf-45c5-a906-cef778c91bf3
+    name: Roosevelt Sykes with His Original Honeydrippers
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/roosevelt_sykes.jpg
   caption: roosevelt sykes
@@ -52,60 +52,65 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - St. Louis Jimmy Oden
-  - Robert “Washboard Sam” Brown
-  - The Honeydrippers (Sykes’s band)
-  - Various blues and jazz singers (c. 30+ artists)
+    - St. Louis Jimmy Oden
+    - Robert “Washboard Sam” Brown
+    - The Honeydrippers (Sykes’s band)
+    - Various blues and jazz singers (c. 30+ artists)
   influenced:
-  - Modern blues and boogie‑woogie pianists (e.g., Otis Spann, Memphis Slim, and later urban blues players)
-  - Blues revival performers and festival pianists
+    - >-
+      Modern blues and boogie‑woogie pianists (e.g., Otis Spann, Memphis Slim,
+      and later urban blues players)
+    - Blues revival performers and festival pianists
   mentors:
-  - Leothus Lee “Pork Chop” Green
-  - Red‑Eye Jesse Bell
-  - Joe Crump and Baby Sneed
+    - Leothus Lee “Pork Chop” Green
+    - Red‑Eye Jesse Bell
+    - Joe Crump and Baby Sneed
 spotify_data:
   followers: 8808
   id: 0K0qr72ojMFr5dMkUKgbW5
   popularity: 19
-  url: https://open.spotify.com/artist/0K0qr72ojMFr5dMkUKgbW5
+  url: 'https://open.spotify.com/artist/0K0qr72ojMFr5dMkUKgbW5'
 discography_enriched: true
 top_tracks:
-- Hey Big Momma (The Return Of Roosevelt Sykes)
-- Pocketful Of Money (The Honeydripper)
-- Hey Big Momma (Night Time Is the Right Time)
-- Pocketful of Money
-- Sputnik Baby (Roosevelt Sykes Vol. 10 (1951-1957))
-- Satellite Baby (The Honeydripper)
-- Rockin' On 83 Highway (Chicago Blues Festival '70 (Blues Reference))
-- 44 Blues (Roosevelt Sykes Vol. 1 (1929-1930))
-- Music Is My Business (Music Is My Business)
-- Nasty but It's Clean (Nasty but It's Clean)
+  - Hey Big Momma (The Return Of Roosevelt Sykes)
+  - Pocketful Of Money (The Honeydripper)
+  - Hey Big Momma (Night Time Is the Right Time)
+  - Pocketful of Money
+  - Sputnik Baby (Roosevelt Sykes Vol. 10 (1951-1957))
+  - Satellite Baby (The Honeydripper)
+  - Rockin' On 83 Highway (Chicago Blues Festival '70 (Blues Reference))
+  - 44 Blues (Roosevelt Sykes Vol. 1 (1929-1930))
+  - Music Is My Business (Music Is My Business)
+  - Nasty but It's Clean (Nasty but It's Clean)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/99ab25d6-7c8e-4f0a-b168-44e0db6860c1
-  spotify: https://open.spotify.com/artist/0K0qr72ojMFr5dMkUKgbW5
-  wikipedia: https://en.wikipedia.org/wiki/Roosevelt_Sykes
+  musicbrainz: 'https://musicbrainz.org/artist/99ab25d6-7c8e-4f0a-b168-44e0db6860c1'
+  spotify: 'https://open.spotify.com/artist/0K0qr72ojMFr5dMkUKgbW5'
+  wikipedia: 'https://en.wikipedia.org/wiki/Roosevelt_Sykes'
 image_path: 03_Resources/source_material/ArtistPortraits/roosevelt_sykes.jpg
 biography_enhanced_at: '2025-12-06T06:05:32.449197'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Roosevelt_Sykes
-- https://encyclopediaofarkansas.net/entries/roosevelt-the-honeydripper-sykes-5881/
-- https://64parishes.org/entry/roosevelt-sykes
-- https://starrgennettfoundation.org/roosevelt-sykes
-- https://aaregistry.org/story/roosevelt-sykes-could-play-those-88s/
-- https://blues.org/blues_hof_inductee/roosevelt-sykes/
-- https://www.imdb.com/name/nm1032984/bio/
-- https://kids.kiddle.co/Roosevelt_Sykes
+  - 'https://en.wikipedia.org/wiki/Roosevelt_Sykes'
+  - >-
+    https://encyclopediaofarkansas.net/entries/roosevelt-the-honeydripper-sykes-5881/
+  - 'https://64parishes.org/entry/roosevelt-sykes'
+  - 'https://starrgennettfoundation.org/roosevelt-sykes'
+  - 'https://aaregistry.org/story/roosevelt-sykes-could-play-those-88s/'
+  - 'https://blues.org/blues_hof_inductee/roosevelt-sykes/'
+  - 'https://www.imdb.com/name/nm1032984/bio/'
+  - 'https://kids.kiddle.co/Roosevelt_Sykes'
 network_extracted: true
 entry_created: '2025-12-06T06:05:32.449205'
 last_updated: '2025-12-23T08:16:15.054377'
 gender: Male
 musicbrainz_id: 99ab25d6-7c8e-4f0a-b168-44e0db6860c1
 tags:
-- blues
-- boogie-woogie
-- new orleans blues
+  - blues
+  - boogie-woogie
+  - new orleans blues
+is_active: false
+origin: 'St. Louis, Missouri, United States'
 ---
 
 ![](roosevelt_sykes.jpg)

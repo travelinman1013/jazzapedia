@@ -4,7 +4,7 @@ wiki_slug: mal-waldronsteve-lacy
 schema_version: 2
 status: active
 genres:
-- free jazz
+  - free jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/mal_waldronsteve_lacy.jpg
   caption: Mal Waldron/Steve Lacy
@@ -24,54 +24,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Steve Lacy
-  - Charles Mingus
-  - Billie Holiday
-  - Eric Dolphy
-  - Jackie McLean
-  - John Coltrane
+    - Steve Lacy
+    - Charles Mingus
+    - Billie Holiday
+    - Eric Dolphy
+    - Jackie McLean
+    - John Coltrane
   influenced:
-  - Contemporary avant-garde and free jazz musicians
+    - Contemporary avant-garde and free jazz musicians
   mentors:
-  - Thelonious Monk
-  - Charlie Parker
+    - Thelonious Monk
+    - Charlie Parker
 spotify_data:
   followers: 1681
   id: 3WC6DeoB98XE2wt3GdPptX
   popularity: 9
-  url: https://open.spotify.com/artist/3WC6DeoB98XE2wt3GdPptX
+  url: 'https://open.spotify.com/artist/3WC6DeoB98XE2wt3GdPptX'
 discography_enriched: true
 top_tracks:
-- I'm Left Alone (feat. Jackie McLean) (Left Alone (Remastered 2014))
-- Boo (Free At Last)
-- Catwalk (Left Alone (Remastered 2014))
-- Rat Now (Free At Last (Extended Edition))
-- Rat Now (Free At Last)
-- Balladina (Free At Last)
-- Rock My Soul (Free At Last (Extended Edition))
-- You Don't Know What Love Is (Left Alone (Remastered 2014))
-- Desillusion (Set Me Free)
-- Rock My Soul (Free At Last)
+  - I'm Left Alone (feat. Jackie McLean) (Left Alone (Remastered 2014))
+  - Boo (Free At Last)
+  - Catwalk (Left Alone (Remastered 2014))
+  - Rat Now (Free At Last (Extended Edition))
+  - Rat Now (Free At Last)
+  - Balladina (Free At Last)
+  - Rock My Soul (Free At Last (Extended Edition))
+  - You Don't Know What Love Is (Left Alone (Remastered 2014))
+  - Desillusion (Set Me Free)
+  - Rock My Soul (Free At Last)
 external_urls:
-  spotify: https://open.spotify.com/artist/3WC6DeoB98XE2wt3GdPptX
-  wikipedia: https://en.wikipedia.org/wiki/Mal_Waldron
+  spotify: 'https://open.spotify.com/artist/3WC6DeoB98XE2wt3GdPptX'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mal_Waldron'
 image_path: 03_Resources/source_material/ArtistPortraits/mal_waldronsteve_lacy.jpg
 biography_enhanced_at: '2025-12-04T07:43:33.037699'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Mal Waldron
-- Wikipedia - Steve Lacy (saxophonist)
-- The Necessary Blues - A New Look at the Musical Partnership of Mal Waldron and Steve Lacy
-- JazzStandards.com - Mal Waldron Biography
-- Erasing Clouds - Mal Waldron and Steve Lacy Review
-- All About Jazz - The Mighty Warriors Review
-- 'Point of Departure - Mal Waldron: My Minimalism'
+  - Wikipedia - Mal Waldron
+  - Wikipedia - Steve Lacy (saxophonist)
+  - >-
+    The Necessary Blues - A New Look at the Musical Partnership of Mal Waldron
+    and Steve Lacy
+  - JazzStandards.com - Mal Waldron Biography
+  - Erasing Clouds - Mal Waldron and Steve Lacy Review
+  - All About Jazz - The Mighty Warriors Review
+  - 'Point of Departure - Mal Waldron: My Minimalism'
 network_extracted: true
 entry_created: '2025-12-04T07:43:33.037709'
 last_updated: '2025-12-23T08:16:12.543798'
-origin: New York, New York, United States (Waldron birthplace); New York, New York, United States (Lacy birthplace)
-
+origin: >-
+  New York, New York, United States (Waldron birthplace); New York, New York,
+  United States (Lacy birthplace)
+birth_place: 'New York, New York, United States'
+birth_date: '1925-08-16'
+death_date: '2002-12-02'
+artist_type: person
 ---
 
 ![](mal_waldronsteve_lacy.jpg)

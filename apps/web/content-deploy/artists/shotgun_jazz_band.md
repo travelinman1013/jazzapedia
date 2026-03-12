@@ -2,19 +2,19 @@
 title: Shotgun Jazz Band
 wiki_slug: shotgun-jazz-band
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 birth_date: '2011-04-02'
 genres:
-- swing music
-- ragtime
+  - swing music
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/shotgun_jazz_band.jpg
   caption: Shotgun Jazz Band
   background: group_or_band
   born: '2011-04-02'
 audio_profile:
-  tempo_avg: 127.0
+  tempo_avg: 127
   energy_avg: 0.374
   valence_avg: 0.563
   danceability_avg: 0.581
@@ -28,54 +28,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John Dixon
-  - Ben Polcer
-  - James Evans
-  - Tyler Thomson
-  - Charlie Halloran
-  - Justin Peake
+    - John Dixon
+    - Ben Polcer
+    - James Evans
+    - Tyler Thomson
+    - Charlie Halloran
+    - Justin Peake
   influenced:
-  - Shake 'Em Up Jazz Band
+    - Shake 'Em Up Jazz Band
   mentors:
-  - Orange Kellin
+    - Orange Kellin
 spotify_data:
   followers: 4046
   id: 4garLkCA2e70RRz6NQPsa7
   popularity: 14
-  url: https://open.spotify.com/artist/4garLkCA2e70RRz6NQPsa7
+  url: 'https://open.spotify.com/artist/4garLkCA2e70RRz6NQPsa7'
 discography_enriched: true
 top_tracks:
-- Creole Song (C'est L'autre Cancan) (Don't Give Up the Ship)
-- All the Whores (Don't Give Up the Ship)
-- I Believe I Can Make It By Myself (Yearning)
-- Old Man Mose (Don't Give Up the Ship)
-- Weed Smoker's Dream (Don't Give Up the Ship)
-- Nobody Knows You When You're Down and Out (Don't Give Up the Ship)
-- White Ghost Shivers (Steppin' on the Gas)
-- Down by the Riverside (Steppin' on the Gas)
-- You Always Hurt the One You Love (Yearning)
-- Over in the Glory Land (Yearning)
+  - Creole Song (C'est L'autre Cancan) (Don't Give Up the Ship)
+  - All the Whores (Don't Give Up the Ship)
+  - I Believe I Can Make It By Myself (Yearning)
+  - Old Man Mose (Don't Give Up the Ship)
+  - Weed Smoker's Dream (Don't Give Up the Ship)
+  - Nobody Knows You When You're Down and Out (Don't Give Up the Ship)
+  - White Ghost Shivers (Steppin' on the Gas)
+  - Down by the Riverside (Steppin' on the Gas)
+  - You Always Hurt the One You Love (Yearning)
+  - Over in the Glory Land (Yearning)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3d72f0f1-c861-43f6-93ef-b0a1323dd615
-  spotify: https://open.spotify.com/artist/4garLkCA2e70RRz6NQPsa7
+  musicbrainz: 'https://musicbrainz.org/artist/3d72f0f1-c861-43f6-93ef-b0a1323dd615'
+  spotify: 'https://open.spotify.com/artist/4garLkCA2e70RRz6NQPsa7'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/shotgun_jazz_band.jpg
 biography_enhanced_at: '2025-11-01T15:21:08.921681'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://syncopatedtimes.com/marla-dixon/
-- https://www.shotgunjazzband.com/the-shotgun-jazz-band-moves-on-up
-- http://playing-traditional-jazz.blogspot.com/2015/05/traditional-jazz-meeting-shotgun-jazz.html
-- https://www.neworleans.com/listing/shotgun-jazz-band/46544/
-- https://www.shotgunjazzband.com
-- https://www.offbeat.com/music/shotgun-jazz-band-steppin-gas-independent/
-- https://doorcountypulse.com/bringing-new-orleans-sound-to-door-county/
+  - 'https://syncopatedtimes.com/marla-dixon/'
+  - 'https://www.shotgunjazzband.com/the-shotgun-jazz-band-moves-on-up'
+  - >-
+    http://playing-traditional-jazz.blogspot.com/2015/05/traditional-jazz-meeting-shotgun-jazz.html
+  - 'https://www.neworleans.com/listing/shotgun-jazz-band/46544/'
+  - 'https://www.shotgunjazzband.com'
+  - 'https://www.offbeat.com/music/shotgun-jazz-band-steppin-gas-independent/'
+  - 'https://doorcountypulse.com/bringing-new-orleans-sound-to-door-county/'
 network_extracted: true
 entry_created: '2025-11-01T15:21:08.923718'
 last_updated: '2025-12-23T08:16:15.606716'
 musicbrainz_id: 3d72f0f1-c861-43f6-93ef-b0a1323dd615
-origin: New Orleans
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](shotgun_jazz_band.jpg)

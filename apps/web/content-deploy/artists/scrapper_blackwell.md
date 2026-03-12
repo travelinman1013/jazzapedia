@@ -1,22 +1,22 @@
 ---
-title: scrapper blackwell
+title: Scrapper Blackwell
 wiki_slug: scrapper-blackwell
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1903-02-21'
-birth_place: Darlington County
+birth_place: 'Syracuse, South Carolina, United States'
 death_date: '1962-10-07'
 genres:
-- country blues
-- blues
-- classic blues
-- ragtime
+  - country blues
+  - blues
+  - classic blues
+  - ragtime
 instruments:
-- guitar
-- piano
-- spoken vocals
-- lead vocals
+  - guitar
+  - piano
+  - spoken vocals
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/scrapper_blackwell.jpg
   caption: scrapper blackwell
@@ -39,51 +39,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Leroy Carr
-  - Dot Rice
+    - Leroy Carr
+    - Dot Rice
   influenced:
-  - Robert Johnson
-  - Bob Dylan
+    - Robert Johnson
+    - Bob Dylan
   mentors:
-  - Payton Blackwell
+    - Payton Blackwell
 spotify_data:
   followers: 11110
   id: 0gMar0N7i60iQ6BFTvoXl0
   popularity: 19
-  url: https://open.spotify.com/artist/0gMar0N7i60iQ6BFTvoXl0
+  url: 'https://open.spotify.com/artist/0gMar0N7i60iQ6BFTvoXl0'
 discography_enriched: true
 top_tracks:
-- Nobody Knows You When You're Down And Out (Mr. Scrapper's Blues)
-- Nobody Knows You When You're Down And Out - Remastered 2025 (Mr. Scrapper's Blues (Remastered 2025))
-- Goin' Where The Monon Crosses The Yellow Dog (Mr. Scrapper's Blues)
-- Goin' Where The Monon Crosses The Yellow Dog - Remastered 2025 (Mr. Scrapper's Blues (Remastered 2025))
-- Life of a Millionaire (Vintage Delta Guitar)
-- '"A" Blues (Mr. Scrapper''s Blues)'
-- No Good Woman Blues (Vintage Delta Guitar)
-- Blues Before Sunrise (Mr. Scrapper's Blues)
-- Little Boy Blue (Mr. Scrapper's Blues)
-- Bad Liquor Blues (Vintage Delta Guitar)
+  - Nobody Knows You When You're Down And Out (Mr. Scrapper's Blues)
+  - >-
+    Nobody Knows You When You're Down And Out - Remastered 2025 (Mr. Scrapper's
+    Blues (Remastered 2025))
+  - Goin' Where The Monon Crosses The Yellow Dog (Mr. Scrapper's Blues)
+  - >-
+    Goin' Where The Monon Crosses The Yellow Dog - Remastered 2025 (Mr.
+    Scrapper's Blues (Remastered 2025))
+  - Life of a Millionaire (Vintage Delta Guitar)
+  - '"A" Blues (Mr. Scrapper''s Blues)'
+  - No Good Woman Blues (Vintage Delta Guitar)
+  - Blues Before Sunrise (Mr. Scrapper's Blues)
+  - Little Boy Blue (Mr. Scrapper's Blues)
+  - Bad Liquor Blues (Vintage Delta Guitar)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/158db858-7cca-434f-ab06-f67615ac833e
-  spotify: https://open.spotify.com/artist/0gMar0N7i60iQ6BFTvoXl0
-  wikipedia: https://en.wikipedia.org/wiki/Scrapper_Blackwell
+  musicbrainz: 'https://musicbrainz.org/artist/158db858-7cca-434f-ab06-f67615ac833e'
+  spotify: 'https://open.spotify.com/artist/0gMar0N7i60iQ6BFTvoXl0'
+  wikipedia: 'https://en.wikipedia.org/wiki/Scrapper_Blackwell'
 image_path: 03_Resources/source_material/ArtistPortraits/scrapper_blackwell.jpg
 biography_enhanced_at: '2025-11-20T07:28:36.646256'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Scrapper_Blackwell
-- https://americanahighways.org/2025/05/21/review-scrapper-blackwell-mr-scrappers-blues/
-- https://blues.org/blues_hof_inductee/scrapper-blackwell/
+  - 'https://en.wikipedia.org/wiki/Scrapper_Blackwell'
+  - >-
+    https://americanahighways.org/2025/05/21/review-scrapper-blackwell-mr-scrappers-blues/
+  - 'https://blues.org/blues_hof_inductee/scrapper-blackwell/'
 network_extracted: true
 entry_created: '2025-11-20T07:28:36.646267'
 last_updated: '2025-12-23T08:16:15.436240'
 gender: Male
 musicbrainz_id: 158db858-7cca-434f-ab06-f67615ac833e
 tags:
-- acoustic blues
-- acoustic chicago blues
-- blues
+  - acoustic blues
+  - acoustic chicago blues
+  - blues
+is_active: false
+origin: 'Indianapolis, Indiana, United States'
 ---
 
 ![](scrapper_blackwell.jpg)

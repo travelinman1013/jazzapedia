@@ -1,19 +1,19 @@
 ---
-title: otis taylor
+title: Otis Taylor
 wiki_slug: otis-taylor
 schema_version: 2
 status: active
-birth_place: Chicago, Illinois, United States
+birth_place: 'Chicago, Illinois, United States'
 genres:
-- blues
-- country blues
-- blues rock
-- modern blues
+  - blues
+  - country blues
+  - blues rock
+  - modern blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/otis_taylor.jpg
   caption: otis taylor
   background: solo_singer
-  origin: Chicago, Illinois, United States
+  origin: 'Chicago, Illinois, United States'
 audio_profile:
   tempo_avg: 114.2
   energy_avg: 0.423
@@ -29,58 +29,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tommy Bolin
-  - Kenny Passarelli
-  - Eddie Turner
-  - Gary Moore
-  - Keb’ Mo’
-  - Alvin Youngblood Hart
-  - Don Vappie
-  - Guy Davis
-  - Corey Harris
+    - Tommy Bolin
+    - Kenny Passarelli
+    - Eddie Turner
+    - Gary Moore
+    - Keb’ Mo’
+    - Alvin Youngblood Hart
+    - Don Vappie
+    - Guy Davis
+    - Corey Harris
   influenced: []
   mentors:
-  - Son House
-  - Muddy Waters
-  - Mississippi Fred McDowell
-  - Harry Tuft
+    - Son House
+    - Muddy Waters
+    - Mississippi Fred McDowell
+    - Harry Tuft
 spotify_data:
   followers: 69173
   id: 5Y1mtkFXBCx0dyL93Wt54T
   popularity: 42
-  url: https://open.spotify.com/artist/5Y1mtkFXBCx0dyL93Wt54T
+  url: 'https://open.spotify.com/artist/5Y1mtkFXBCx0dyL93Wt54T'
 discography_enriched: true
 top_tracks:
-- Ten Million Slaves (Recapturing The Banjo)
-- Ten Million Slaves (Otis Taylor Collection)
-- Nasty Letter (Otis Taylor Collection)
-- Nasty Letter (Truth Is Not Fiction)
-- Resurrection Blues (White African)
-- Buy Myself Some Freedom (Otis Taylor Collection)
-- Hey Joe (A) (Hey Joe Opus Red Meat)
-- Hey Joe (Recapturing The Banjo)
-- Live Your Life (Recapturing The Banjo)
-- My World Is Gone (My World Is Gone)
+  - Ten Million Slaves (Recapturing The Banjo)
+  - Ten Million Slaves (Otis Taylor Collection)
+  - Nasty Letter (Otis Taylor Collection)
+  - Nasty Letter (Truth Is Not Fiction)
+  - Resurrection Blues (White African)
+  - Buy Myself Some Freedom (Otis Taylor Collection)
+  - Hey Joe (A) (Hey Joe Opus Red Meat)
+  - Hey Joe (Recapturing The Banjo)
+  - Live Your Life (Recapturing The Banjo)
+  - My World Is Gone (My World Is Gone)
 external_urls:
-  spotify: https://open.spotify.com/artist/5Y1mtkFXBCx0dyL93Wt54T
+  spotify: 'https://open.spotify.com/artist/5Y1mtkFXBCx0dyL93Wt54T'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/otis_taylor.jpg
 biography_enhanced_at: '2025-12-19T01:52:25.414258'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://otistaylor.com/about/
-- https://www.fretboardjournal.com/features/otis-taylor-home/
-- https://aaregistry.org/story/otis-taylor-musician-born/
-- https://libraries.colorado.edu/2024/03/19/materials-renowned-blues-banjo-player-otis-taylor-now-part-cus-american-music-research
-- https://mojohand.com/glossary/otis-taylor/
-- https://blues.gr/profiles/blogs/q-a-with-multi-instrumentalist-otis-taylor-one-of-the-best-blues-
-- https://trancebluesfestival.com/about-2/
-- https://cmhof.org/inductees/otis-taylor/
-- https://www.americanbluesscene.com/2023/03/a-qa-with-otis-taylor-new-album-banjo-out-now/
+  - 'https://otistaylor.com/about/'
+  - 'https://www.fretboardjournal.com/features/otis-taylor-home/'
+  - 'https://aaregistry.org/story/otis-taylor-musician-born/'
+  - >-
+    https://libraries.colorado.edu/2024/03/19/materials-renowned-blues-banjo-player-otis-taylor-now-part-cus-american-music-research
+  - 'https://mojohand.com/glossary/otis-taylor/'
+  - >-
+    https://blues.gr/profiles/blogs/q-a-with-multi-instrumentalist-otis-taylor-one-of-the-best-blues-
+  - 'https://trancebluesfestival.com/about-2/'
+  - 'https://cmhof.org/inductees/otis-taylor/'
+  - >-
+    https://www.americanbluesscene.com/2023/03/a-qa-with-otis-taylor-new-album-banjo-out-now/
 network_extracted: true
 entry_created: '2025-12-19T01:52:25.414266'
 last_updated: '2025-12-23T08:16:13.880389'
+birth_date: '1948'
+artist_type: person
 ---
 
 ![](otis_taylor.jpg)

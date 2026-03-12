@@ -3,14 +3,14 @@ title: Bruce Hornsby
 wiki_slug: bruce-hornsby
 schema_version: 2
 status: active
-birth_place: Williamsburg, Virginia, United States
+birth_place: 'Williamsburg, Virginia, United States'
 genres:
-- bluegrass
+  - bluegrass
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bruce_hornsby.jpg
   caption: Bruce Hornsby
   background: solo_singer
-  origin: Williamsburg, Virginia, United States
+  origin: 'Williamsburg, Virginia, United States'
 audio_profile:
   tempo_avg: 112.7
   energy_avg: 0.6
@@ -26,49 +26,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John Hornsby
-  - Grateful Dead
-  - Don Henley
-  - Bonnie Raitt
-  - Ricky Skaggs
+    - John Hornsby
+    - Grateful Dead
+    - Don Henley
+    - Bonnie Raitt
+    - Ricky Skaggs
   influenced:
-  - Tupac Shakur
-  - Bon Iver (Justin Vernon)
-  - E-40
+    - Tupac Shakur
+    - Bon Iver (Justin Vernon)
+    - E-40
   mentors:
-  - Lois Hornsby
-  - University of Miami Faculty
+    - Lois Hornsby
+    - University of Miami Faculty
 spotify_data:
   followers: 414039
   id: 2iM28IgKg89v1o7BTQAVPo
   popularity: 37
-  url: https://open.spotify.com/artist/2iM28IgKg89v1o7BTQAVPo
+  url: 'https://open.spotify.com/artist/2iM28IgKg89v1o7BTQAVPo'
 discography_enriched: true
 top_tracks:
-- The Way It Is
-- The Way It Is
-- Cast-Off (feat. Justin Vernon) (Absolute Zero)
-- Black Muddy River
-- The Way It Is
-- Fields Of Gray - Remastered 2003
-- Mandolin Rain (Ricky Skaggs & Bruce Hornsby)
-- Deep Blue
-- Walk In The Sun
-- Gonna Be Some Changes Made - New Album Version (Halcyon Days (Expanded Edition))
+  - The Way It Is
+  - The Way It Is
+  - Cast-Off (feat. Justin Vernon) (Absolute Zero)
+  - Black Muddy River
+  - The Way It Is
+  - Fields Of Gray - Remastered 2003
+  - Mandolin Rain (Ricky Skaggs & Bruce Hornsby)
+  - Deep Blue
+  - Walk In The Sun
+  - >-
+    Gonna Be Some Changes Made - New Album Version (Halcyon Days (Expanded
+    Edition))
 external_urls:
-  spotify: https://open.spotify.com/artist/2iM28IgKg89v1o7BTQAVPo
-  wikipedia: https://en.wikipedia.org/wiki/Bruce_Hornsby
+  spotify: 'https://open.spotify.com/artist/2iM28IgKg89v1o7BTQAVPo'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bruce_Hornsby'
 image_path: 03_Resources/source_material/ArtistPortraits/bruce_hornsby.jpg
 biography_enhanced_at: '2025-11-01T15:24:55.422140'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Bruce_Hornsby
-- https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/bruce-hornsby
-- https://www.brucehornsby.com/bio
+  - 'https://en.wikipedia.org/wiki/Bruce_Hornsby'
+  - >-
+    https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/bruce-hornsby
+  - 'https://www.brucehornsby.com/bio'
 network_extracted: true
 entry_created: '2025-11-01T15:24:55.422163'
 last_updated: '2025-12-23T08:16:06.133552'
+birth_date: '1954-11-23'
+artist_type: person
 ---
 
 ![](bruce_hornsby.jpg)

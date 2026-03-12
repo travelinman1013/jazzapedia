@@ -1,118 +1,119 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-09T02:08:34.829187'
 birth_date: '1966'
 enhancement_provider: perplexity
 entry_created: '2026-01-09T02:08:34.829196'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3b7698a3-7ab2-4481-8425-f5ab45f91a75
-  spotify: https://open.spotify.com/artist/3dGTi4MZZo4zXdQaKAS1va
-  wikipedia: https://en.wikipedia.org/wiki/Rotary_Connection
+  musicbrainz: 'https://musicbrainz.org/artist/3b7698a3-7ab2-4481-8425-f5ab45f91a75'
+  spotify: 'https://open.spotify.com/artist/3dGTi4MZZo4zXdQaKAS1va'
+  wikipedia: 'https://en.wikipedia.org/wiki/Rotary_Connection'
 genres:
-- classic soul
+  - classic soul
 image_path: 03_Resources/source_material/ArtistPortraits/rotary_connection.jpg
 instruments:
-- additional
-- drums (drum set)
+  - additional
+  - drums (drum set)
 last_updated: '2026-01-09T02:08:34.829198'
 members:
-- begin: '1967'
-  end: '1974'
-  instruments: []
-  mbid: e2232fab-c508-4cce-a1c6-6932f8ef5466
-  name: Mitch Aliotta
-- begin: '1967'
-  end: '1974'
-  instruments: []
-  mbid: 19fa64e2-b141-4357-8953-b21dccdc505d
-  name: Sidney Barnes
-- begin: '1967'
-  end: '1974'
-  instruments: []
-  mbid: c96aa20e-2d14-48d5-8001-c65ea038add5
-  name: Judy Hauff
-- begin: '1967'
-  end: '1974'
-  instruments: []
-  mbid: e842abf7-8a63-4602-8879-75958c2884a1
-  name: Minnie Riperton
-- begin: '1967'
-  end: '1974'
-  instruments: []
-  mbid: 49e968e9-a7b2-4674-a8df-ea904dfa79a4
-  name: Bobby Simms
-- begin: '1967'
-  end: '1974'
-  instruments: []
-  mbid: 1bc69d11-fd48-4866-8999-adeeb283f08c
-  name: Charles Stepney
-- begin: '1967'
-  end: '1974'
-  instruments: []
-  mbid: 8a37c677-a2d5-4050-b8f8-7dad53b4840d
-  name: Kenny Venegas
-- begin: ''
-  end: '1974'
-  instruments:
-  - additional
-  mbid: d13a070d-32e3-4abd-8ed8-fefc88c30485
-  name: Phil Upchurch
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 6b4998ce-5b40-4dca-847a-11259d657d76
-  name: Tom Donlinger
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a2019d89-9898-45db-9847-efc7c52384b2
-  name: Donald Simmons
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1f8ce3cc-67d2-4bd4-b566-4ab313dc117e
-  name: Jon Stocklin
+  - begin: '1967'
+    end: '1974'
+    instruments: []
+    mbid: e2232fab-c508-4cce-a1c6-6932f8ef5466
+    name: Mitch Aliotta
+  - begin: '1967'
+    end: '1974'
+    instruments: []
+    mbid: 19fa64e2-b141-4357-8953-b21dccdc505d
+    name: Sidney Barnes
+  - begin: '1967'
+    end: '1974'
+    instruments: []
+    mbid: c96aa20e-2d14-48d5-8001-c65ea038add5
+    name: Judy Hauff
+  - begin: '1967'
+    end: '1974'
+    instruments: []
+    mbid: e842abf7-8a63-4602-8879-75958c2884a1
+    name: Minnie Riperton
+  - begin: '1967'
+    end: '1974'
+    instruments: []
+    mbid: 49e968e9-a7b2-4674-a8df-ea904dfa79a4
+    name: Bobby Simms
+  - begin: '1967'
+    end: '1974'
+    instruments: []
+    mbid: 1bc69d11-fd48-4866-8999-adeeb283f08c
+    name: Charles Stepney
+  - begin: '1967'
+    end: '1974'
+    instruments: []
+    mbid: 8a37c677-a2d5-4050-b8f8-7dad53b4840d
+    name: Kenny Venegas
+  - begin: ''
+    end: '1974'
+    instruments:
+      - additional
+    mbid: d13a070d-32e3-4abd-8ed8-fefc88c30485
+    name: Phil Upchurch
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 6b4998ce-5b40-4dca-847a-11259d657d76
+    name: Tom Donlinger
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a2019d89-9898-45db-9847-efc7c52384b2
+    name: Donald Simmons
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1f8ce3cc-67d2-4bd4-b566-4ab313dc117e
+    name: Jon Stocklin
 musical_connections:
   collaborators:
-  - Minnie Riperton
-  - Sidney Barnes
-  - The Proper Strangers (Bobby Simms, Mitch Aliotta, Ken Venegas)
-  - Phil Upchurch
-  - Morris Jennings
-  - Muddy Waters (Electric Mud project)
-  - Howlin’ Wolf
-  - Jim Donlinger and Jim Nyeholt
+    - Minnie Riperton
+    - Sidney Barnes
+    - 'The Proper Strangers (Bobby Simms, Mitch Aliotta, Ken Venegas)'
+    - Phil Upchurch
+    - Morris Jennings
+    - Muddy Waters (Electric Mud project)
+    - Howlin’ Wolf
+    - Jim Donlinger and Jim Nyeholt
   influenced:
-  - Minnie Riperton (solo career)
-  - Earth, Wind & Fire
-  - Hip‑hop and electronic artists who sampled Rotary Connection
+    - Minnie Riperton (solo career)
+    - 'Earth, Wind & Fire'
+    - Hip‑hop and electronic artists who sampled Rotary Connection
   mentors:
-  - Marshall Chess
-  - Charles Stepney
+    - Marshall Chess
+    - Charles Stepney
 musicbrainz_id: 3b7698a3-7ab2-4481-8425-f5ab45f91a75
 network_extracted: true
-origin: Chicago
+origin: 'Chicago, Illinois, United States'
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Rotary+Connection/+wiki
-- https://techwebsound.com/artist/?artist=764
-- http://www.soulwalking.co.uk/Rotary%20Connection.html
-- https://www.jango.com/music/Rotary+Connection/_full_bio
-- https://www.allmusic.com/artist/rotary-connection-mn0000852405
-- https://dangerousminds.net/music/rotary-connection-psychedelic-turned-down-woodstock/
-- http://badcatrecords.com/rotaryCONNECTION.htm
-- https://thestrangebrew.co.uk/interviews/rotary-connection/
+  - 'https://www.last.fm/music/Rotary+Connection/+wiki'
+  - 'https://techwebsound.com/artist/?artist=764'
+  - 'http://www.soulwalking.co.uk/Rotary%20Connection.html'
+  - 'https://www.jango.com/music/Rotary+Connection/_full_bio'
+  - 'https://www.allmusic.com/artist/rotary-connection-mn0000852405'
+  - >-
+    https://dangerousminds.net/music/rotary-connection-psychedelic-turned-down-woodstock/
+  - 'http://badcatrecords.com/rotaryCONNECTION.htm'
+  - 'https://thestrangebrew.co.uk/interviews/rotary-connection/'
 spotify_data:
   followers: 22575
   id: 3dGTi4MZZo4zXdQaKAS1va
   popularity: 33
-  url: https://open.spotify.com/artist/3dGTi4MZZo4zXdQaKAS1va
+  url: 'https://open.spotify.com/artist/3dGTi4MZZo4zXdQaKAS1va'
 status: active
 tags:
-- 2008 universal fire victim
-- christmas music
-- pop soul
+  - 2008 universal fire victim
+  - christmas music
+  - pop soul
 title: Rotary Connection
 ---
 

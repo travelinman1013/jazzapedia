@@ -2,31 +2,31 @@
 title: Lankum
 wiki_slug: lankum
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- folk
-- neofolk
+  - folk
+  - neofolk
 instruments:
-- violin
-- original
-- percussion
-- piano
-- guitar
-- double bass
-- fiddle
-- viola
-- banjo
-- vibraphone
-- concertina
-- uilleann pipes
-- tin whistle
-- harmonium
-- harp
-- mellotron
-- organ
-- bayan
-- electronic organ
+  - violin
+  - original
+  - percussion
+  - piano
+  - guitar
+  - double bass
+  - fiddle
+  - viola
+  - banjo
+  - vibraphone
+  - concertina
+  - uilleann pipes
+  - tin whistle
+  - harmonium
+  - harp
+  - mellotron
+  - organ
+  - bayan
+  - electronic organ
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lankum.jpg
   caption: Lankum
@@ -38,7 +38,7 @@ audio_profile:
   danceability_avg: 0.339
   acousticness_avg: 0.571
   instrumentalness_avg: 0.25
-  loudness_avg: -11.0
+  loudness_avg: -11
   speechiness_avg: 0.053
   liveness_avg: 0.237
   track_count: 50
@@ -46,215 +46,214 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ian Lynch
-  - Daragh Lynch
-  - Radie Peat
-  - Cormac MacDiarmada
-  - John 'Spud' Murphy
-  - Danny Diamond
+    - Ian Lynch
+    - Daragh Lynch
+    - Radie Peat
+    - Cormac MacDiarmada
+    - John 'Spud' Murphy
+    - Danny Diamond
   influenced: []
   mentors:
-  - Planxty
-  - The Bothy Band
-  - Joe Heaney
+    - Planxty
+    - The Bothy Band
+    - Joe Heaney
 spotify_data:
   followers: 97116
   id: 2zPm4XzwKuPidtfKh92H2Z
   popularity: 40
-  url: https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z
+  url: 'https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z'
 discography_enriched: true
 top_tracks:
-- Master Crowley's (False Lankum)
-- Go Dig My Grave (False Lankum)
-- The Wild Rover (The Livelong Day)
-- Bear Creek (The Livelong Day)
-- The Young People (The Livelong Day)
-- Newcastle (False Lankum)
-- Cold Old Fire (Cold Old Fire)
-- What Will We Do When We Have No Money? (Between the Earth and Sky)
-- Clear Away in the Morning (False Lankum)
-- Netta Perseus (False Lankum)
+  - Master Crowley's (False Lankum)
+  - Go Dig My Grave (False Lankum)
+  - The Wild Rover (The Livelong Day)
+  - Bear Creek (The Livelong Day)
+  - The Young People (The Livelong Day)
+  - Newcastle (False Lankum)
+  - Cold Old Fire (Cold Old Fire)
+  - What Will We Do When We Have No Money? (Between the Earth and Sky)
+  - Clear Away in the Morning (False Lankum)
+  - Netta Perseus (False Lankum)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/0898de3e-7045-478b-a5af-c7de9c66c86e
-  spotify: https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z
-  wikipedia: https://en.wikipedia.org/wiki/Lankum
+  musicbrainz: 'https://musicbrainz.org/artist/0898de3e-7045-478b-a5af-c7de9c66c86e'
+  spotify: 'https://open.spotify.com/artist/2zPm4XzwKuPidtfKh92H2Z'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lankum'
 image_path: 03_Resources/source_material/ArtistPortraits/lankum.jpg
 biography_enhanced_at: '2025-11-20T07:05:06.507322'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Lankum
-- Last.fm - Lankum
-- Living Tradition - Lankum
-- Loud and Quiet - Lankum Interview
-- RE:VIVE - Lankum and the New Irish Voice
-- Node Depression - Lankum's The Livelong Day
-- The Attic Magazine - Chasing the Irish Folk Tradition with Lankum
-- Le Monde - Lankum puts the metal in Irish folk music
-- Culture Matters - Lankum
+  - Wikipedia - Lankum
+  - Last.fm - Lankum
+  - Living Tradition - Lankum
+  - Loud and Quiet - Lankum Interview
+  - 'RE:VIVE - Lankum and the New Irish Voice'
+  - Node Depression - Lankum's The Livelong Day
+  - The Attic Magazine - Chasing the Irish Folk Tradition with Lankum
+  - Le Monde - Lankum puts the metal in Irish folk music
+  - Culture Matters - Lankum
 network_extracted: true
 entry_created: '2025-11-20T07:05:06.507335'
 last_updated: '2025-12-23T08:16:11.588048'
 disambiguation: formerly Lynched
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - violin
-  mbid: 871dbb11-5349-40c0-ad1a-de237fcde411
-  name: Linda Badgley
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  - percussion
-  mbid: 90ebeab5-2485-4f0d-af50-2b025490711e
-  name: Daragh Lynch
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  - piano
-  mbid: 90ebeab5-2485-4f0d-af50-2b025490711e
-  name: Daragh Lynch
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  - original
-  mbid: 90ebeab5-2485-4f0d-af50-2b025490711e
-  name: Daragh Lynch
-- begin: ''
-  end: ''
-  instruments:
-  - double bass
-  mbid: 21aae74d-998f-4424-bd43-b95e10de4758
-  name: Cormac Mac Diarmada
-- begin: ''
-  end: ''
-  instruments:
-  - fiddle
-  mbid: 21aae74d-998f-4424-bd43-b95e10de4758
-  name: Cormac Mac Diarmada
-- begin: ''
-  end: ''
-  instruments:
-  - viola
-  mbid: 21aae74d-998f-4424-bd43-b95e10de4758
-  name: Cormac Mac Diarmada
-- begin: ''
-  end: ''
-  instruments:
-  - banjo
-  mbid: 21aae74d-998f-4424-bd43-b95e10de4758
-  name: Cormac Mac Diarmada
-- begin: ''
-  end: ''
-  instruments:
-  - percussion
-  mbid: 21aae74d-998f-4424-bd43-b95e10de4758
-  name: Cormac Mac Diarmada
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: 21aae74d-998f-4424-bd43-b95e10de4758
-  name: Cormac Mac Diarmada
-- begin: ''
-  end: ''
-  instruments:
-  - vibraphone
-  mbid: 21aae74d-998f-4424-bd43-b95e10de4758
-  name: Cormac Mac Diarmada
-- begin: ''
-  end: ''
-  instruments:
-  - concertina
-  - original
-  mbid: 51001185-1085-4f86-9583-1d41f102ef50
-  name: Ian Lynch
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  - percussion
-  mbid: 51001185-1085-4f86-9583-1d41f102ef50
-  name: Ian Lynch
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  - uilleann pipes
-  mbid: 51001185-1085-4f86-9583-1d41f102ef50
-  name: Ian Lynch
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  - tin whistle
-  mbid: 51001185-1085-4f86-9583-1d41f102ef50
-  name: Ian Lynch
-- begin: ''
-  end: ''
-  instruments:
-  - harmonium
-  mbid: 6962228f-b6b4-4635-a3b2-d6df75c5e490
-  name: Radie Peat
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: 6962228f-b6b4-4635-a3b2-d6df75c5e490
-  name: Radie Peat
-- begin: ''
-  end: ''
-  instruments:
-  - concertina
-  mbid: 6962228f-b6b4-4635-a3b2-d6df75c5e490
-  name: Radie Peat
-- begin: ''
-  end: ''
-  instruments:
-  - harp
-  mbid: 6962228f-b6b4-4635-a3b2-d6df75c5e490
-  name: Radie Peat
-- begin: ''
-  end: ''
-  instruments:
-  - mellotron
-  mbid: 6962228f-b6b4-4635-a3b2-d6df75c5e490
-  name: Radie Peat
-- begin: ''
-  end: ''
-  instruments:
-  - organ
-  mbid: 6962228f-b6b4-4635-a3b2-d6df75c5e490
-  name: Radie Peat
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: 6962228f-b6b4-4635-a3b2-d6df75c5e490
-  name: Radie Peat
-- begin: ''
-  end: ''
-  instruments:
-  - bayan
-  mbid: 6962228f-b6b4-4635-a3b2-d6df75c5e490
-  name: Radie Peat
-- begin: ''
-  end: ''
-  instruments:
-  - electronic organ
-  mbid: 6962228f-b6b4-4635-a3b2-d6df75c5e490
-  name: Radie Peat
+  - begin: ''
+    end: ''
+    instruments:
+      - violin
+    mbid: 871dbb11-5349-40c0-ad1a-de237fcde411
+    name: Linda Badgley
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - percussion
+    mbid: 90ebeab5-2485-4f0d-af50-2b025490711e
+    name: Daragh Lynch
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - piano
+    mbid: 90ebeab5-2485-4f0d-af50-2b025490711e
+    name: Daragh Lynch
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+      - original
+    mbid: 90ebeab5-2485-4f0d-af50-2b025490711e
+    name: Daragh Lynch
+  - begin: ''
+    end: ''
+    instruments:
+      - double bass
+    mbid: 21aae74d-998f-4424-bd43-b95e10de4758
+    name: Cormac Mac Diarmada
+  - begin: ''
+    end: ''
+    instruments:
+      - fiddle
+    mbid: 21aae74d-998f-4424-bd43-b95e10de4758
+    name: Cormac Mac Diarmada
+  - begin: ''
+    end: ''
+    instruments:
+      - viola
+    mbid: 21aae74d-998f-4424-bd43-b95e10de4758
+    name: Cormac Mac Diarmada
+  - begin: ''
+    end: ''
+    instruments:
+      - banjo
+    mbid: 21aae74d-998f-4424-bd43-b95e10de4758
+    name: Cormac Mac Diarmada
+  - begin: ''
+    end: ''
+    instruments:
+      - percussion
+    mbid: 21aae74d-998f-4424-bd43-b95e10de4758
+    name: Cormac Mac Diarmada
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: 21aae74d-998f-4424-bd43-b95e10de4758
+    name: Cormac Mac Diarmada
+  - begin: ''
+    end: ''
+    instruments:
+      - vibraphone
+    mbid: 21aae74d-998f-4424-bd43-b95e10de4758
+    name: Cormac Mac Diarmada
+  - begin: ''
+    end: ''
+    instruments:
+      - concertina
+      - original
+    mbid: 51001185-1085-4f86-9583-1d41f102ef50
+    name: Ian Lynch
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - percussion
+    mbid: 51001185-1085-4f86-9583-1d41f102ef50
+    name: Ian Lynch
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - uilleann pipes
+    mbid: 51001185-1085-4f86-9583-1d41f102ef50
+    name: Ian Lynch
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - tin whistle
+    mbid: 51001185-1085-4f86-9583-1d41f102ef50
+    name: Ian Lynch
+  - begin: ''
+    end: ''
+    instruments:
+      - harmonium
+    mbid: 6962228f-b6b4-4635-a3b2-d6df75c5e490
+    name: Radie Peat
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 6962228f-b6b4-4635-a3b2-d6df75c5e490
+    name: Radie Peat
+  - begin: ''
+    end: ''
+    instruments:
+      - concertina
+    mbid: 6962228f-b6b4-4635-a3b2-d6df75c5e490
+    name: Radie Peat
+  - begin: ''
+    end: ''
+    instruments:
+      - harp
+    mbid: 6962228f-b6b4-4635-a3b2-d6df75c5e490
+    name: Radie Peat
+  - begin: ''
+    end: ''
+    instruments:
+      - mellotron
+    mbid: 6962228f-b6b4-4635-a3b2-d6df75c5e490
+    name: Radie Peat
+  - begin: ''
+    end: ''
+    instruments:
+      - organ
+    mbid: 6962228f-b6b4-4635-a3b2-d6df75c5e490
+    name: Radie Peat
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: 6962228f-b6b4-4635-a3b2-d6df75c5e490
+    name: Radie Peat
+  - begin: ''
+    end: ''
+    instruments:
+      - bayan
+    mbid: 6962228f-b6b4-4635-a3b2-d6df75c5e490
+    name: Radie Peat
+  - begin: ''
+    end: ''
+    instruments:
+      - electronic organ
+    mbid: 6962228f-b6b4-4635-a3b2-d6df75c5e490
+    name: Radie Peat
 musicbrainz_id: 0898de3e-7045-478b-a5af-c7de9c66c86e
-origin: Dublin
+origin: 'Dublin, Ireland'
 tags:
-- alternative/indie rock
-- celtic
-- celtic punk
-
+  - alternative/indie rock
+  - celtic
+  - celtic punk
 ---
 
 ![](lankum.jpg)

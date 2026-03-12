@@ -2,12 +2,12 @@
 artist_type: person
 biography_enhanced_at: '2026-01-04T01:55:02.154895'
 birth_date: '1923'
-birth_place: Puerto Plata
+birth_place: 'Puerto Plata, Dominican Republic, Dominican Republic'
 enhancement_provider: perplexity
 entry_created: '2026-01-04T01:55:02.154900'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f8f34f03-5179-4c35-b09c-04bdd67001ff
-  spotify: https://open.spotify.com/artist/6atUP3xUpCWPZ1w0ugioB5
+  musicbrainz: 'https://musicbrainz.org/artist/f8f34f03-5179-4c35-b09c-04bdd67001ff'
+  spotify: 'https://open.spotify.com/artist/6atUP3xUpCWPZ1w0ugioB5'
   wikipedia: Not found in search results
 gender: Male
 genres: []
@@ -15,33 +15,34 @@ image_path: 03_Resources/source_material/ArtistPortraits/puerto_plata.jpg
 last_updated: '2026-01-04T01:55:02.154901'
 musical_connections:
   collaborators:
-  - Daniel Rodriguez
-  - Ernesto Almonte (Sanabia)
-  - Edilio Paredes
-  - Frank Mendez
-  - Pablo Rosario
+    - Daniel Rodriguez
+    - Ernesto Almonte (Sanabia)
+    - Edilio Paredes
+    - Frank Mendez
+    - Pablo Rosario
   influenced: []
   mentors:
-  - Juan Lockward
-  - Eduardo Brito
-  - Bienvenido Troncoso
+    - Juan Lockward
+    - Eduardo Brito
+    - Bienvenido Troncoso
 musicbrainz_id: f8f34f03-5179-4c35-b09c-04bdd67001ff
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- iASO Records - Puerto Plata artist page
-- World Music - Puerto Plata 'Casita de Campo' review
-- WYPR - A Dominican Guitar Legend's Historic Debut
-- Dominican Today - Remembering José 'Puerto Plata' Cobles
-- Last.fm - Puerto Plata biography
-- WOMEX - Puerto Plata
+  - iASO Records - Puerto Plata artist page
+  - World Music - Puerto Plata 'Casita de Campo' review
+  - WYPR - A Dominican Guitar Legend's Historic Debut
+  - Dominican Today - Remembering José 'Puerto Plata' Cobles
+  - Last.fm - Puerto Plata biography
+  - WOMEX - Puerto Plata
 spotify_data:
   followers: 386
   id: 6atUP3xUpCWPZ1w0ugioB5
   popularity: 2
-  url: https://open.spotify.com/artist/6atUP3xUpCWPZ1w0ugioB5
+  url: 'https://open.spotify.com/artist/6atUP3xUpCWPZ1w0ugioB5'
 status: active
 title: Puerto Plata
+origin: 'Santiago, Dominican Republic, Dominican Republic'
 ---
 
 ![](puerto_plata.jpg)

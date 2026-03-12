@@ -1,16 +1,16 @@
 ---
-title: JIMMY DEBERRY
+title: Jimmy Deberry
 wiki_slug: jimmy-deberry
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1911-11-17'
-birth_place: Arkansas
+birth_place: 'Gumwood, Arkansas, United States'
 death_date: '1985-01-17'
 genres:
-- classic blues
+  - classic blues
 instruments:
-- guitar
+  - guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jimmy_deberry.jpg
   caption: JIMMY DEBERRY
@@ -33,52 +33,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Walter Horton
-  - Willie Nix
-  - Memphis Playboys
+    - Walter Horton
+    - Willie Nix
+    - Memphis Playboys
   influenced:
-  - Local Memphis blues musicians
+    - Local Memphis blues musicians
   mentors:
-  - Memphis blues community
+    - Memphis blues community
 spotify_data:
   followers: 117
   id: 2HgQWRJTICheAqBgaiykBv
   popularity: 0
-  url: https://open.spotify.com/artist/2HgQWRJTICheAqBgaiykBv
+  url: 'https://open.spotify.com/artist/2HgQWRJTICheAqBgaiykBv'
 discography_enriched: true
 top_tracks:
-- Take a Little Chance (Take a Little Chance / Time Has Made a Change)
-- Time Has Made a Change (Take a Little Chance / Time Has Made a Change)
-- 'Party Line Blues (Sun Records Originals: 52 Buried Blues Treasures)'
-- 'Time Has Made a Change (A Beginners Guide to: Memphis Blues)'
-- Time Has Made A Change (Best of Memphis Blues)
-- Take A Little Chance
-- Time Has Made A Change
-- Time Has Made a Change (Best of Piano Blues)
-- Before Long - Original
-- Take A Little Chance - Original
+  - Take a Little Chance (Take a Little Chance / Time Has Made a Change)
+  - Time Has Made a Change (Take a Little Chance / Time Has Made a Change)
+  - 'Party Line Blues (Sun Records Originals: 52 Buried Blues Treasures)'
+  - 'Time Has Made a Change (A Beginners Guide to: Memphis Blues)'
+  - Time Has Made A Change (Best of Memphis Blues)
+  - Take A Little Chance
+  - Time Has Made A Change
+  - Time Has Made a Change (Best of Piano Blues)
+  - Before Long - Original
+  - Take A Little Chance - Original
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c8aec0d5-fdaf-4c39-a9df-94aec6375d83
-  spotify: https://open.spotify.com/artist/2HgQWRJTICheAqBgaiykBv
+  musicbrainz: 'https://musicbrainz.org/artist/c8aec0d5-fdaf-4c39-a9df-94aec6375d83'
+  spotify: 'https://open.spotify.com/artist/2HgQWRJTICheAqBgaiykBv'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/jimmy_deberry.jpg
 biography_enhanced_at: '2025-11-20T07:17:04.870769'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://music.metason.net/artistinfo?name=Jimmy+DeBerry
-- https://secondhandsongs.com/artist/223251/all
-- https://www.iheart.com/artist/jimmy-deberry-150901/
-- https://www.instagram.com/p/DRJS9sgjiLt/
-- https://www.allmusic.com/artist/jimmy-deberry-mn0000296658
-- https://sunrecords.com/artists/jimmy-deberry/
+  - 'https://music.metason.net/artistinfo?name=Jimmy+DeBerry'
+  - 'https://secondhandsongs.com/artist/223251/all'
+  - 'https://www.iheart.com/artist/jimmy-deberry-150901/'
+  - 'https://www.instagram.com/p/DRJS9sgjiLt/'
+  - 'https://www.allmusic.com/artist/jimmy-deberry-mn0000296658'
+  - 'https://sunrecords.com/artists/jimmy-deberry/'
 network_extracted: true
 entry_created: '2025-11-20T07:17:04.870778'
 last_updated: '2025-12-23T08:16:10.457910'
 gender: Male
 musicbrainz_id: c8aec0d5-fdaf-4c39-a9df-94aec6375d83
 tags:
-- blues
+  - blues
+is_active: false
+origin: 'Memphis, Tennessee, United States'
 ---
 
 ![](jimmy_deberry.jpg)

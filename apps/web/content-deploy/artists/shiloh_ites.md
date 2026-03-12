@@ -1,43 +1,44 @@
 ---
-artist_type: person
+artist_type: band
 biography_enhanced_at: '2025-12-29T01:18:46.080000'
-birth_place: Amsterdam, Netherlands
+birth_place: 'Amsterdam, Netherlands'
 enhancement_provider: perplexity
 entry_created: '2025-12-29T01:18:46.080021'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/75c1c7ae-4157-4f0a-866f-f9bf56aff08f
-  spotify: https://open.spotify.com/artist/6B1cdS5truj8pH6icrmSZB
+  musicbrainz: 'https://musicbrainz.org/artist/75c1c7ae-4157-4f0a-866f-f9bf56aff08f'
+  spotify: 'https://open.spotify.com/artist/6B1cdS5truj8pH6icrmSZB'
   wikipedia: ''
 genres:
-- dub
+  - dub
 image_path: ''
 last_updated: '2025-12-29T01:18:46.080024'
 musical_connections:
   collaborators:
-  - Jah Melodie
-  - Bagga T (Jah Melodie)
-  - Indica Dubs
+    - Jah Melodie
+    - Bagga T (Jah Melodie)
+    - Indica Dubs
   influenced: []
   mentors:
-  - King Shiloh Soundsystem
-  - Studio One
-  - Augustus Pablo
+    - King Shiloh Soundsystem
+    - Studio One
+    - Augustus Pablo
 musicbrainz_id: 75c1c7ae-4157-4f0a-866f-f9bf56aff08f
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://daily.redbullmusicacademy.com/2019/05/king-shiloh-soundsystem/
-- https://soundsystemculture.org/king-shiloh-soundsystem-interview/
-- https://shilohites.bandcamp.com
-- https://www.youtube.com/watch?v=LCkEgNJAV-o
-- https://www.youtube.com/watch?v=aXuTxO2FF9Q
+  - 'https://daily.redbullmusicacademy.com/2019/05/king-shiloh-soundsystem/'
+  - 'https://soundsystemculture.org/king-shiloh-soundsystem-interview/'
+  - 'https://shilohites.bandcamp.com'
+  - 'https://www.youtube.com/watch?v=LCkEgNJAV-o'
+  - 'https://www.youtube.com/watch?v=aXuTxO2FF9Q'
 spotify_data:
   followers: 119
   id: 6B1cdS5truj8pH6icrmSZB
   popularity: 2
-  url: https://open.spotify.com/artist/6B1cdS5truj8pH6icrmSZB
+  url: 'https://open.spotify.com/artist/6B1cdS5truj8pH6icrmSZB'
 status: active
 title: Shiloh Ites
+origin: 'Amsterdam, Netherlands'
 ---
 
 ![]()

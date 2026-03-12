@@ -1,16 +1,16 @@
 ---
-title: al urban
+title: Al Urban
 wiki_slug: al-urban
 schema_version: 2
 status: active
-birth_place: Gonzales, Texas, United States
+birth_place: 'Gonzales, Texas, United States'
 genres:
-- rockabilly
+  - rockabilly
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/al_urban.jpg
   caption: al urban
   background: solo_singer
-  origin: Gonzales, Texas, United States
+  origin: 'Gonzales, Texas, United States'
 audio_profile:
   tempo_avg: 102.1
   energy_avg: 0.711
@@ -26,44 +26,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Daybreakers
+    - The Daybreakers
   influenced:
-  - Texas Rockabilly Collectors and Revivalists
+    - Texas Rockabilly Collectors and Revivalists
   mentors:
-  - Texas Country and Rockabilly Scene
+    - Texas Country and Rockabilly Scene
 spotify_data:
   followers: 49
   id: 6cOpsUJXLXhvwGTpXJb07y
   popularity: 1
-  url: https://open.spotify.com/artist/6cOpsUJXLXhvwGTpXJb07y
+  url: 'https://open.spotify.com/artist/6cOpsUJXLXhvwGTpXJb07y'
 discography_enriched: true
 top_tracks:
-- Gonna Be Better Times (Cool Cats)
-- Won't You Yell Me Her Name (The Rarest Rockabilly Album In The World Ever)
-- Gonna Be Better Times (The Rarest Rockabilly Album In The World Ever Vol.2)
-- Won't You Tell Me Her Name (Rednecks & Greasers Vol. 9)
-- Lookin' for Money ("Sarg" Rockers Vol. 1)
-- Gonna Be Better Times (Sin Alley Vol. 5)
-- Won't Tell You Her Name (Rockabilly's Rarest, Vol. 6)
-- Lookin' for Money (The Sarg Records Anthology)
-- I Don't Want to Be Alone (The Sarg Records Anthology)
-- Gonna Be Better Times (The Sarg Records Anthology)
+  - Gonna Be Better Times (Cool Cats)
+  - Won't You Yell Me Her Name (The Rarest Rockabilly Album In The World Ever)
+  - Gonna Be Better Times (The Rarest Rockabilly Album In The World Ever Vol.2)
+  - Won't You Tell Me Her Name (Rednecks & Greasers Vol. 9)
+  - Lookin' for Money ("Sarg" Rockers Vol. 1)
+  - Gonna Be Better Times (Sin Alley Vol. 5)
+  - 'Won''t Tell You Her Name (Rockabilly''s Rarest, Vol. 6)'
+  - Lookin' for Money (The Sarg Records Anthology)
+  - I Don't Want to Be Alone (The Sarg Records Anthology)
+  - Gonna Be Better Times (The Sarg Records Anthology)
 external_urls:
-  spotify: https://open.spotify.com/artist/6cOpsUJXLXhvwGTpXJb07y
+  spotify: 'https://open.spotify.com/artist/6cOpsUJXLXhvwGTpXJb07y'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/al_urban.jpg
 biography_enhanced_at: '2025-11-04T11:00:54.511681'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.rocky-52.net/chanteursu/urban_a.htm
-- https://www.last.fm/music/Al+Urban
-- https://www.last.fm/music/Al+Urban/+wiki
-- https://music.apple.com/au/artist/al-urban/301269393
-- https://secondhandsongs.com/artist/97438
+  - 'https://www.rocky-52.net/chanteursu/urban_a.htm'
+  - 'https://www.last.fm/music/Al+Urban'
+  - 'https://www.last.fm/music/Al+Urban/+wiki'
+  - 'https://music.apple.com/au/artist/al-urban/301269393'
+  - 'https://secondhandsongs.com/artist/97438'
 network_extracted: true
 entry_created: '2025-11-04T11:00:54.511693'
 last_updated: '2025-12-23T08:16:04.465012'
+birth_date: '1935-03-01'
+artist_type: person
 ---
 
 ![](al_urban.jpg)

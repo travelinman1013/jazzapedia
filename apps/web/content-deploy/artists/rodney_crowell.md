@@ -1,88 +1,95 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '1980'
-  end: '1980'
-  instruments:
-  - original
-  mbid: 3c8255a7-abaa-4c7a-864c-d610d0304c54
-  name: The Notorious Cherry Bombs
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 62d70a05-4b82-49f7-9d42-fa53b7455676
-  name: The Cicadas
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6f6ce604-91d8-4446-9d85-0ce56675f207
-  name: Los Super Seven
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 8bf5499f-3889-4548-98d2-00e81992955a
-  name: The Dixie Pearls
+  - begin: '1980'
+    end: '1980'
+    instruments:
+      - original
+    mbid: 3c8255a7-abaa-4c7a-864c-d610d0304c54
+    name: The Notorious Cherry Bombs
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 62d70a05-4b82-49f7-9d42-fa53b7455676
+    name: The Cicadas
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6f6ce604-91d8-4446-9d85-0ce56675f207
+    name: Los Super Seven
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 8bf5499f-3889-4548-98d2-00e81992955a
+    name: The Dixie Pearls
 biography_enhanced_at: '2026-01-08T01:37:01.989048'
 birth_date: '1950-08-07'
-birth_place: Crosby
+birth_place: 'Crosby, Texas, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-08T01:37:01.989053'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a201fa9d-5896-423d-b629-327228c62a7c
-  spotify: https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY
-  wikipedia: https://en.wikipedia.org/wiki/Rodney_Crowell
+  musicbrainz: 'https://musicbrainz.org/artist/a201fa9d-5896-423d-b629-327228c62a7c'
+  spotify: 'https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY'
+  wikipedia: 'https://en.wikipedia.org/wiki/Rodney_Crowell'
 gender: Male
 genres:
-- americana
-- alt country
-- rockabilly
+  - americana
+  - alt country
+  - rockabilly
 image_path: 03_Resources/source_material/ArtistPortraits/rodney_crowell.jpg
 instruments:
-- original
-- guitar
-- acoustic guitar
-- background vocals
-- lead vocals
+  - original
+  - guitar
+  - acoustic guitar
+  - background vocals
+  - lead vocals
 last_updated: '2026-01-08T01:37:01.989054'
 musical_connections:
   collaborators:
-  - Emmylou Harris
-  - Rosanne Cash
-  - Vince Gill
-  - Tony Brown
-  - Booker T. Jones
-  - Steuart Smith
-  - Ringo Starr, Willie Nelson, Ronnie Dunn, Steve Earle (and others on *Texas*)
+    - Emmylou Harris
+    - Rosanne Cash
+    - Vince Gill
+    - Tony Brown
+    - Booker T. Jones
+    - Steuart Smith
+    - >-
+      Ringo Starr, Willie Nelson, Ronnie Dunn, Steve Earle (and others on
+      *Texas*)
   influenced:
-  - Alt‑country and Americana singer‑songwriters (e.g., Steve Earle, later Nashville writers)
-  - Mainstream Nashville artists recording his songs (e.g., Keith Urban, Brooks & Dunn, Patty Loveless)
+    - >-
+      Alt‑country and Americana singer‑songwriters (e.g., Steve Earle, later
+      Nashville writers)
+    - >-
+      Mainstream Nashville artists recording his songs (e.g., Keith Urban,
+      Brooks & Dunn, Patty Loveless)
   mentors:
-  - Guy Clark
-  - Jerry Reed
-  - Emmylou Harris
+    - Guy Clark
+    - Jerry Reed
+    - Emmylou Harris
 musicbrainz_id: a201fa9d-5896-423d-b629-327228c62a7c
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Rodney_Crowell
-- https://nashvillesongwritersfoundation.com/Site/inductee?entry_id=3137
-- https://rodneycrowell.com/about/
-- https://www.highroadtouring.com/downloads/1024128/
-- https://www.countrystandardtime.com/d/article.asp?xid=1247
-- https://www.theheightstheater.com/bands/rodney-crowell/
-- https://www.countrymusichalloffame.org/calendar/online-program-live-at-the-hall-poets-and-prophets-salute-to-songwriter-rodney-crowell
+  - 'https://en.wikipedia.org/wiki/Rodney_Crowell'
+  - 'https://nashvillesongwritersfoundation.com/Site/inductee?entry_id=3137'
+  - 'https://rodneycrowell.com/about/'
+  - 'https://www.highroadtouring.com/downloads/1024128/'
+  - 'https://www.countrystandardtime.com/d/article.asp?xid=1247'
+  - 'https://www.theheightstheater.com/bands/rodney-crowell/'
+  - >-
+    https://www.countrymusichalloffame.org/calendar/online-program-live-at-the-hall-poets-and-prophets-salute-to-songwriter-rodney-crowell
 spotify_data:
   followers: 107782
   id: 4QIJ2i8I6urte2scKgkVoY
   popularity: 47
-  url: https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY
+  url: 'https://open.spotify.com/artist/4QIJ2i8I6urte2scKgkVoY'
 status: active
 tags:
-- 2008 universal fire victim
-- folk
+  - 2008 universal fire victim
+  - folk
 title: Rodney Crowell
-
+origin: 'Houston, Texas, United States'
 ---
 
 ![](rodney_crowell.jpg)

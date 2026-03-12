@@ -1,12 +1,13 @@
 ---
-title: gerald french & the original tuxedo jazz band
+title: Gerald French & the Original Tuxedo Jazz Band
 wiki_slug: gerald-french-the-original-tuxedo-jazz-band
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/gerald_french_and_the_original_tuxedo_jazz_band.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/gerald_french_and_the_original_tuxedo_jazz_band.jpg
   caption: gerald french & the original tuxedo jazz band
   background: group_or_band
 audio_profile:
@@ -24,54 +25,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Charmaine Neville
-  - The Dixie Cups
-  - Harry Connick Jr.
-  - Dr. John, Dr. Michael White, Lillian Boutté, Jeremy Davenport, Big Chief Bo Dollis, The Wild Magnolias, Preservation Hall
-    Jazz Band
-  - Larry Sieberth
+    - Charmaine Neville
+    - The Dixie Cups
+    - Harry Connick Jr.
+    - >-
+      Dr. John, Dr. Michael White, Lillian Boutté, Jeremy Davenport, Big Chief
+      Bo Dollis, The Wild Magnolias, Preservation Hall Jazz Band
+    - Larry Sieberth
   influenced:
-  - Younger New Orleans jazz musicians
+    - Younger New Orleans jazz musicians
   mentors:
-  - Albert French
-  - Bob French
-  - David Lee
-  - Ernie Elly, Smokey Johnson, Zigaboo Modeliste, Russell Batiste, Raymond Weber
+    - Albert French
+    - Bob French
+    - David Lee
+    - >-
+      Ernie Elly, Smokey Johnson, Zigaboo Modeliste, Russell Batiste, Raymond
+      Weber
 spotify_data:
   followers: 178
   id: 2fVZ8zLJodC9QPyb21CPGj
   popularity: 1
-  url: https://open.spotify.com/artist/2fVZ8zLJodC9QPyb21CPGj
+  url: 'https://open.spotify.com/artist/2fVZ8zLJodC9QPyb21CPGj'
 discography_enriched: true
 top_tracks:
-- Bogalusa Strutt (A Tribute to Bob French)
-- Lord, Lord, Lord... Sure Been Good To Me (A Tribute to Bob French)
-- Darktown Strutter's Ball (A Tribute to Bob French)
-- Muskrat Ramble (A Tribute to Bob French)
-- Mood Indigo (A Tribute to Bob French)
-- Dinah (A Tribute to Bob French)
-- Basin Street Blues (A Tribute to Bob French)
-- Do You Know What It Means to Miss New Orleans (A Tribute to Bob French)
-- Hindustan (A Tribute to Bob French)
-- Weary Blues (Shake It & Break It) (A Tribute to Bob French)
+  - Bogalusa Strutt (A Tribute to Bob French)
+  - 'Lord, Lord, Lord... Sure Been Good To Me (A Tribute to Bob French)'
+  - Darktown Strutter's Ball (A Tribute to Bob French)
+  - Muskrat Ramble (A Tribute to Bob French)
+  - Mood Indigo (A Tribute to Bob French)
+  - Dinah (A Tribute to Bob French)
+  - Basin Street Blues (A Tribute to Bob French)
+  - Do You Know What It Means to Miss New Orleans (A Tribute to Bob French)
+  - Hindustan (A Tribute to Bob French)
+  - Weary Blues (Shake It & Break It) (A Tribute to Bob French)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f5981218-a874-4340-bdaf-ffec08899b69
-  spotify: https://open.spotify.com/artist/2fVZ8zLJodC9QPyb21CPGj
+  musicbrainz: 'https://musicbrainz.org/artist/f5981218-a874-4340-bdaf-ffec08899b69'
+  spotify: 'https://open.spotify.com/artist/2fVZ8zLJodC9QPyb21CPGj'
   wikipedia: ''
-image_path: 03_Resources/source_material/ArtistPortraits/gerald_french_and_the_original_tuxedo_jazz_band.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/gerald_french_and_the_original_tuxedo_jazz_band.jpg
 biography_enhanced_at: '2025-11-20T07:07:00.043064'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.geraldfrench.com/aboutme
-- https://sabian.com/gerald-french-qa/
-- https://jazztimes.com/artists/gerald-french-the-original-tuxedo-jazz-band/
-- https://www.mps-music.com/releases/the-original-tuxedo-jass-band/
+  - 'https://www.geraldfrench.com/aboutme'
+  - 'https://sabian.com/gerald-french-qa/'
+  - 'https://jazztimes.com/artists/gerald-french-the-original-tuxedo-jazz-band/'
+  - 'https://www.mps-music.com/releases/the-original-tuxedo-jass-band/'
 network_extracted: true
 entry_created: '2025-11-20T07:07:00.043071'
 last_updated: '2025-12-23T08:16:09.146221'
 musicbrainz_id: f5981218-a874-4340-bdaf-ffec08899b69
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](gerald_french_and_the_original_tuxedo_jazz_band.jpg)

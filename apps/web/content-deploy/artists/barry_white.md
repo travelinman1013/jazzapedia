@@ -5,28 +5,28 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1944-09-12'
-birth_place: Galveston
+birth_place: 'Galveston, Texas, United States'
 death_date: '2003-07-04'
 genres:
-- disco
-- soul
-- quiet storm
-- philly soul
+  - disco
+  - soul
+  - quiet storm
+  - philly soul
 instruments:
-- original
-- spoken vocals
-associated_acts:
-- begin: '1972'
-  end: '2003-07-04'
-  instruments:
   - original
-  mbid: 8c92cef7-52ae-49cd-bf5d-97078a977d58
-  name: Love Unlimited Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 29cad8a0-22d4-4ae3-95b4-e9d5204ccba5
-  name: Barry White and His Orchestra
+  - spoken vocals
+associated_acts:
+  - begin: '1972'
+    end: '2003-07-04'
+    instruments:
+      - original
+    mbid: 8c92cef7-52ae-49cd-bf5d-97078a977d58
+    name: Love Unlimited Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 29cad8a0-22d4-4ae3-95b4-e9d5204ccba5
+    name: Barry White and His Orchestra
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/barry_white.jpg
   caption: Barry White
@@ -49,57 +49,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Love Unlimited
-  - The Love Unlimited Orchestra
-  - Glodean White
+    - Love Unlimited
+    - The Love Unlimited Orchestra
+    - Glodean White
   influenced:
-  - Isaac Hayes
-  - Will Downing
-  - Bruno Mars
+    - Isaac Hayes
+    - Will Downing
+    - Bruno Mars
   mentors:
-  - Elvis Presley
-  - His mother, Sadie Marie Carter
+    - Elvis Presley
+    - 'His mother, Sadie Marie Carter'
 spotify_data:
   followers: 2254947
   id: 3rfgbfpPSfXY40lzRK7Syt
   popularity: 65
-  url: https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt
+  url: 'https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt'
 discography_enriched: true
 top_tracks:
-- Can't Get Enough Of Your Love, Babe (Can't Get Enough)
-- You're The First, The Last, My Everything - Edit
-- You're The First, The Last, My Everything (Can't Get Enough)
-- Just The Way You Are
-- Let The Music Play - Single Version (Let The Music Play (Expanded Edition))
-- Never, Never Gonna Give Ya Up
-- Can't Get Enough Of Your Love, Babe
-- You're The One I Need (The Message is Love)
-- I'm Gonna Love You Just A Little More Baby (I've Got So Much To Give)
-- You See The Trouble With Me (Let The Music Play)
+  - 'Can''t Get Enough Of Your Love, Babe (Can''t Get Enough)'
+  - 'You''re The First, The Last, My Everything - Edit'
+  - 'You''re The First, The Last, My Everything (Can''t Get Enough)'
+  - Just The Way You Are
+  - Let The Music Play - Single Version (Let The Music Play (Expanded Edition))
+  - 'Never, Never Gonna Give Ya Up'
+  - 'Can''t Get Enough Of Your Love, Babe'
+  - You're The One I Need (The Message is Love)
+  - I'm Gonna Love You Just A Little More Baby (I've Got So Much To Give)
+  - You See The Trouble With Me (Let The Music Play)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b904d624-9e05-4398-8f4f-88fbcf022f79
-  spotify: https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt
-  wikipedia: https://en.wikipedia.org/wiki/Barry_White
+  musicbrainz: 'https://musicbrainz.org/artist/b904d624-9e05-4398-8f4f-88fbcf022f79'
+  spotify: 'https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt'
+  wikipedia: 'https://en.wikipedia.org/wiki/Barry_White'
 image_path: 03_Resources/source_material/ArtistPortraits/barry_white.jpg
 biography_enhanced_at: '2025-11-02T07:39:41.142584'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Barry_White
-- https://www.udiscovermusic.com/stories/barry-white-soul-romantic-music/
-- https://top40weekly.com/barry-white/
-- https://www.imdb.com/name/nm0924489/bio/
-- https://blackpast.org/african-american-history/carter-barry-eugene-barry-white-1944-2003/
+  - 'https://en.wikipedia.org/wiki/Barry_White'
+  - 'https://www.udiscovermusic.com/stories/barry-white-soul-romantic-music/'
+  - 'https://top40weekly.com/barry-white/'
+  - 'https://www.imdb.com/name/nm0924489/bio/'
+  - >-
+    https://blackpast.org/african-american-history/carter-barry-eugene-barry-white-1944-2003/
 network_extracted: true
 entry_created: '2025-11-02T07:39:41.142593'
 last_updated: '2025-12-23T08:16:05.122422'
 gender: Male
 musicbrainz_id: b904d624-9e05-4398-8f4f-88fbcf022f79
 tags:
-- 2008 universal fire victim
-- 70s
-- disco
-
+  - 2008 universal fire victim
+  - 70s
+  - disco
+is_active: false
+origin: 'Los Angeles, California, United States'
 ---
 
 ![](barry_white.jpg)

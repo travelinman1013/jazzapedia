@@ -5,33 +5,33 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1913-05-18'
-birth_place: Narbonne
+birth_place: 'Narbonne, Aude, France'
 death_date: '2001-02-19'
 genres:
-- chanson
-- french jazz
-- variété française
+  - chanson
+  - french jazz
+  - variété française
 instruments:
-- eponymous
-- original
-- spoken vocals
-- tenor vocals
-- lead vocals
+  - eponymous
+  - original
+  - spoken vocals
+  - tenor vocals
+  - lead vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: da07a431-64b3-45b7-b9d2-7d89ba1db112
-  name: Charles Trenet et son orchestre
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: da25691b-c63d-4b3a-ad26-abb2625fdbbb
-  name: Charles & Johnny
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: da07a431-64b3-45b7-b9d2-7d89ba1db112
+    name: Charles Trenet et son orchestre
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: da25691b-c63d-4b3a-ad26-abb2625fdbbb
+    name: Charles & Johnny
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/charles_trenet.jpg
   caption: Charles Trenet
@@ -54,50 +54,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Johnny Hess
-  - Michel Emer
-  - Léo Chauliac
+    - Johnny Hess
+    - Michel Emer
+    - Léo Chauliac
   influenced:
-  - Bobby Darin
+    - Bobby Darin
   mentors: []
 spotify_data:
   followers: 148943
   id: 4a16JEaHldo5vZuRojtGTZ
   popularity: 48
-  url: https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ
+  url: 'https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ'
 discography_enriched: true
 top_tracks:
-- La mer (Disque D'or)
-- Douce France (Disque D'or)
-- 'Si tu vas à Paris - Remasterisé en 2017 (Chansons sans époques: 1964 - 1968 (Remasterisé en 2017))'
-- Que reste-t-il de nos amours ? (Disque D'or)
-- La mer
-- La mer - Remasterisé en 2017 (1943 - 1948 (Remasterisé en 2017))
-- Boum ! (Disque D'or)
-- Ménilmontant (Anthologie)
-- Verlaine - Remasterisé en 2017 (1940 - 1942 (Remasterisé en 2017))
-- Y'a d'la joie (Disque D'or)
+  - La mer (Disque D'or)
+  - Douce France (Disque D'or)
+  - >-
+    Si tu vas à Paris - Remasterisé en 2017 (Chansons sans époques: 1964 - 1968
+    (Remasterisé en 2017))
+  - Que reste-t-il de nos amours ? (Disque D'or)
+  - La mer
+  - La mer - Remasterisé en 2017 (1943 - 1948 (Remasterisé en 2017))
+  - Boum ! (Disque D'or)
+  - Ménilmontant (Anthologie)
+  - Verlaine - Remasterisé en 2017 (1940 - 1942 (Remasterisé en 2017))
+  - Y'a d'la joie (Disque D'or)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/cf97f8c4-f287-4c0c-a07e-6ca2fdd8e8c2
-  spotify: https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ
-  wikipedia: https://en.wikipedia.org/wiki/Charles_Trenet
+  musicbrainz: 'https://musicbrainz.org/artist/cf97f8c4-f287-4c0c-a07e-6ca2fdd8e8c2'
+  spotify: 'https://open.spotify.com/artist/4a16JEaHldo5vZuRojtGTZ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Charles_Trenet'
 image_path: 03_Resources/source_material/ArtistPortraits/charles_trenet.jpg
 biography_enhanced_at: '2025-12-19T02:03:51.016099'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.imdb.com/name/nm0872081/bio/
-- https://en.wikipedia.org/wiki/Charles_Trenet
-- https://thegoodlifefrance.com/french-music-charles-trenet-2/
-- https://keithchristiansen.substack.com/p/charles-trenet-and-frances-start
+  - 'https://www.imdb.com/name/nm0872081/bio/'
+  - 'https://en.wikipedia.org/wiki/Charles_Trenet'
+  - 'https://thegoodlifefrance.com/french-music-charles-trenet-2/'
+  - 'https://keithchristiansen.substack.com/p/charles-trenet-and-frances-start'
 network_extracted: true
 entry_created: '2025-12-19T02:03:51.016118'
 last_updated: '2025-12-23T08:16:06.699706'
 gender: Male
 musicbrainz_id: cf97f8c4-f287-4c0c-a07e-6ca2fdd8e8c2
 tags:
-- chanson
-- french singer
+  - chanson
+  - french singer
+is_active: false
 ---
 
 ![](charles_trenet.jpg)

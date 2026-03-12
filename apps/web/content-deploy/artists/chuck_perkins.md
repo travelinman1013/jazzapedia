@@ -3,20 +3,20 @@ title: Chuck Perkins
 wiki_slug: chuck-perkins
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, USA'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/chuck_perkins.jpg
   caption: Chuck Perkins
   background: solo_singer
-  origin: New Orleans, Louisiana, USA
+  origin: 'New Orleans, Louisiana, USA'
 audio_profile:
   tempo_avg: 104.9
   energy_avg: 0.652
   valence_avg: 0.628
   danceability_avg: 0.56
   acousticness_avg: 0.439
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -8.5
   speechiness_avg: 0.272
   liveness_avg: 0.21
@@ -25,47 +25,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Amiri Baraka
-  - Kevin Flanagan Quartet
-  - Sheila Donohue
+    - Amiri Baraka
+    - Kevin Flanagan Quartet
+    - Sheila Donohue
   influenced:
-  - Young Identity (Manchester poets collective)
+    - Young Identity (Manchester poets collective)
   mentors:
-  - Gil Scott-Heron
-  - Kwame Ture (Stokely Carmichael)
+    - Gil Scott-Heron
+    - Kwame Ture (Stokely Carmichael)
 spotify_data:
   followers: 96
   id: 2gH8VxYK5TwLrSwqBDSmNn
   popularity: 4
-  url: https://open.spotify.com/artist/2gH8VxYK5TwLrSwqBDSmNn
+  url: 'https://open.spotify.com/artist/2gH8VxYK5TwLrSwqBDSmNn'
 discography_enriched: true
 top_tracks:
-- One Time Thing (End the Wars)
-- Jazz Funeral (Raiding the Crates)
-- Beauty (Beauty)
-- Lil Liza Jane (Melody Makers) (A Love Song For Nola)
-- We Don't Fear The Water (A Love Song For Nola)
-- We Ain't Done Yet (On My Way Back Home)
-- Jazz Funeral (Raiding the Crates)
-- Jazz Funeral (A Love Song For Nola)
-- Whoa Lil Brother (A Love Song For Nola)
-- I Like Ya Flow (A Love Song For Nola)
+  - One Time Thing (End the Wars)
+  - Jazz Funeral (Raiding the Crates)
+  - Beauty (Beauty)
+  - Lil Liza Jane (Melody Makers) (A Love Song For Nola)
+  - We Don't Fear The Water (A Love Song For Nola)
+  - We Ain't Done Yet (On My Way Back Home)
+  - Jazz Funeral (Raiding the Crates)
+  - Jazz Funeral (A Love Song For Nola)
+  - Whoa Lil Brother (A Love Song For Nola)
+  - I Like Ya Flow (A Love Song For Nola)
 external_urls:
-  spotify: https://open.spotify.com/artist/2gH8VxYK5TwLrSwqBDSmNn
+  spotify: 'https://open.spotify.com/artist/2gH8VxYK5TwLrSwqBDSmNn'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/chuck_perkins.jpg
 biography_enhanced_at: '2025-11-08T21:54:33.631054'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://voices.e-poets.net/PerkinsC/bio.shtml
-- https://www.unlikelystories.org/u5/creators/chuck-perkins
-- https://grevel.co.uk/poetry/new-orleans-jazz-poetry-with-chuck-perkins/
-- https://64parishes.org/poetry-by-chuck-perkins
-- https://foxsoundi.com/artist/19336614/chuck-perkins
+  - 'https://voices.e-poets.net/PerkinsC/bio.shtml'
+  - 'https://www.unlikelystories.org/u5/creators/chuck-perkins'
+  - 'https://grevel.co.uk/poetry/new-orleans-jazz-poetry-with-chuck-perkins/'
+  - 'https://64parishes.org/poetry-by-chuck-perkins'
+  - 'https://foxsoundi.com/artist/19336614/chuck-perkins'
 network_extracted: true
 entry_created: '2025-11-08T21:54:33.631068'
 last_updated: '2025-12-23T08:16:06.978700'
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1965-08-25'
+artist_type: person
 ---
 
 ![](chuck_perkins.jpg)

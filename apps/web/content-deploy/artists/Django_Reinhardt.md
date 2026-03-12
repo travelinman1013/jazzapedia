@@ -2,27 +2,27 @@
 title: Django Reinhardt
 wiki_slug: django-reinhardt
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1910-01-23'
-birth_place: Liberchies, Walloon Brabant, Belgium
+birth_place: 'Liberchies, Walloon Brabant, Belgium'
 death_date: '1953-05-16'
 genres:
-- swing music
-- jazz
-- french jazz
-- ragtime
-- big band
+  - swing music
+  - jazz
+  - french jazz
+  - ragtime
+  - big band
 instruments:
-- original
-- eponymous
-- guitar
+  - original
+  - eponymous
+  - guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Django_Reinhardt.jpg
   caption: Django Reinhardt
   background: non_vocal_instrumentalist
   born: '1910-01-23'
-  origin: Liberchies, Walloon Brabant, Belgium
+  origin: 'Liberchies, Walloon Brabant, Belgium'
   died: '1953-05-16'
 audio_profile:
   tempo_avg: 121.3
@@ -39,48 +39,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Stéphane Grappelli
-  - Coleman Hawkins
-  - Benny Carter
-  - Duke Ellington
-  - Hubert Rostaing
+    - Stéphane Grappelli
+    - Coleman Hawkins
+    - Benny Carter
+    - Duke Ellington
+    - Hubert Rostaing
   influenced:
-  - Frank Vignola
-  - Henri Salvador
-  - Nearly every major popular music guitarist
+    - Frank Vignola
+    - Henri Salvador
+    - Nearly every major popular music guitarist
   mentors:
-  - Louis Armstrong
+    - Louis Armstrong
 spotify_data:
   followers: 432482
   id: 5Z1XZyEFY0dewG8faEIiEx
   popularity: 49
-  url: https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx
+  url: 'https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx'
 discography_enriched: true
 top_tracks:
-- Minor Swing (Djangologie Vol6 / 1937)
-- 'Brazil (Django Reinhardt: Legendary Recordings)'
-- I'll See You in My Dreams (Djangologie Vol9 / 1939 - 1940)
-- Out of Nowhere (All Star Sessions)
-- Beyond The Sea (La Mer) (Djangology 49)
-- Django's Tiger (Djangologie Vol15 / 1946 - 1947)
-- Honeysuckle Rose (Djangologie Vol.4 / 1937)
-- Improvisation on Tchaikowsky's "Pathétique" Andante (The Essential Django Reinhardt)
-- 'Anniversary Song (Django Reinhardt: Legendary Recordings)'
-- 'All of Me (Django Reinhardt: Legendary Recordings)'
+  - Minor Swing (Djangologie Vol6 / 1937)
+  - 'Brazil (Django Reinhardt: Legendary Recordings)'
+  - I'll See You in My Dreams (Djangologie Vol9 / 1939 - 1940)
+  - Out of Nowhere (All Star Sessions)
+  - Beyond The Sea (La Mer) (Djangology 49)
+  - Django's Tiger (Djangologie Vol15 / 1946 - 1947)
+  - Honeysuckle Rose (Djangologie Vol.4 / 1937)
+  - >-
+    Improvisation on Tchaikowsky's "Pathétique" Andante (The Essential Django
+    Reinhardt)
+  - 'Anniversary Song (Django Reinhardt: Legendary Recordings)'
+  - 'All of Me (Django Reinhardt: Legendary Recordings)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/650bf385-6f6d-4992-a3b9-779d144920a4
-  spotify: https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx
-  wikipedia: https://en.wikipedia.org/wiki/Django_Reinhardt
+  musicbrainz: 'https://musicbrainz.org/artist/650bf385-6f6d-4992-a3b9-779d144920a4'
+  spotify: 'https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx'
+  wikipedia: 'https://en.wikipedia.org/wiki/Django_Reinhardt'
 image_path: 03_Resources/source_material/ArtistPortraits/Django_Reinhardt.jpg
 biography_enhanced_at: '2025-10-19T11:29:32.574649'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Django_Reinhardt
-- https://www.jazzstandards.com/biographies/biography_713.htm
-- https://www.britannica.com/biography/Django-Reinhardt
-- https://syncopatedtimes.com/profiles-in-jazz-django-reinhardt/
-- https://www.selmer.fr/en/blogs/artistes/django-reinhardt
+  - 'https://en.wikipedia.org/wiki/Django_Reinhardt'
+  - 'https://www.jazzstandards.com/biographies/biography_713.htm'
+  - 'https://www.britannica.com/biography/Django-Reinhardt'
+  - 'https://syncopatedtimes.com/profiles-in-jazz-django-reinhardt/'
+  - 'https://www.selmer.fr/en/blogs/artistes/django-reinhardt'
 network_extracted: true
 entry_created: '2025-10-19T11:29:32.574653'
 last_updated: '2025-12-23T08:16:01.735104'
@@ -89,9 +91,11 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:24:20.718234'
 musicbrainz_id: 650bf385-6f6d-4992-a3b9-779d144920a4
 tags:
-- belgian
-- continental jazz
-- guitar
+  - belgian
+  - continental jazz
+  - guitar
+is_active: false
+origin: France
 ---
 
 ![](Django_Reinhardt.jpg)

@@ -23,48 +23,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Andre Williams
-  - The Gnarltones
+    - Andre Williams
+    - The Gnarltones
   influenced: []
   mentors:
-  - King Oliver
-  - Tom Waits
-  - Jon Spencer
+    - King Oliver
+    - Tom Waits
+    - Jon Spencer
 spotify_data:
   followers: 4
   id: 4fRvpCl8X2aVtABHbNFnp7
   popularity: 0
-  url: https://open.spotify.com/artist/4fRvpCl8X2aVtABHbNFnp7
+  url: 'https://open.spotify.com/artist/4fRvpCl8X2aVtABHbNFnp7'
 discography_enriched: true
 top_tracks:
-- Can You Deal With It? (Can You Deal With It?)
-- Hear Ya Dance (Can You Deal With It?)
-- Never Had a Problem (Can You Deal With It?)
-- Pray For Your Daughter (Can You Deal With It?)
-- If You Leave Me (Can You Deal With It?)
-- Rosalie (Can You Deal With It?)
-- If It Wasn't for You (Can You Deal With It?)
-- Your Woman (Can You Deal With It?)
-- Can't Take 'Em Off (Can You Deal With It?)
+  - Can You Deal With It? (Can You Deal With It?)
+  - Hear Ya Dance (Can You Deal With It?)
+  - Never Had a Problem (Can You Deal With It?)
+  - Pray For Your Daughter (Can You Deal With It?)
+  - If You Leave Me (Can You Deal With It?)
+  - Rosalie (Can You Deal With It?)
+  - If It Wasn't for You (Can You Deal With It?)
+  - Your Woman (Can You Deal With It?)
+  - Can't Take 'Em Off (Can You Deal With It?)
 external_urls:
-  spotify: https://open.spotify.com/artist/4fRvpCl8X2aVtABHbNFnp7
-  wikipedia: https://en.wikipedia.org/wiki/Morning_40_Federation
+  spotify: 'https://open.spotify.com/artist/4fRvpCl8X2aVtABHbNFnp7'
+  wikipedia: 'https://en.wikipedia.org/wiki/Morning_40_Federation'
 image_path: ''
 biography_enhanced_at: '2025-11-27T06:39:01.989783'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Morning 40 Federation
-- Wikipedia - Andre Williams (musician)
-- Top 40 Weekly - Andre Williams Biography
-- 'PopMatters - Andre Williams & The New Orleans Hellhounds: Can You Deal With It?'
-- Space City Rock - Andre Williams & The New Orleans Hellhounds, Can You Deal With It?
-- Exclaim! - Andre Williams and the New Orleans Hellhounds
-- Offbeat Magazine - Andre Williams and the New Orleans Hellhounds, Can You Deal With It?
+  - Wikipedia - Morning 40 Federation
+  - Wikipedia - Andre Williams (musician)
+  - Top 40 Weekly - Andre Williams Biography
+  - >-
+    PopMatters - Andre Williams & The New Orleans Hellhounds: Can You Deal With
+    It?
+  - >-
+    Space City Rock - Andre Williams & The New Orleans Hellhounds, Can You Deal
+    With It?
+  - Exclaim! - Andre Williams and the New Orleans Hellhounds
+  - >-
+    Offbeat Magazine - Andre Williams and the New Orleans Hellhounds, Can You
+    Deal With It?
 network_extracted: true
 entry_created: '2025-11-27T06:39:01.989801'
 last_updated: '2025-12-23T08:16:13.527516'
-origin: New Orleans, Louisiana, United States (Ninth Ward)
+origin: 'New Orleans, Louisiana, United States (Ninth Ward)'
+artist_type: band
 ---
 
 ![]()

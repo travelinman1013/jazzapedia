@@ -1,10 +1,10 @@
 ---
-title: THE UNIVERSITY SIX
+title: The University Six
 wiki_slug: the-university-six
 schema_version: 2
 status: active
 genres:
-- ragtime
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_university_six.jpg
   caption: THE UNIVERSITY SIX
@@ -24,46 +24,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Red Nichols
-  - Miff Mole
-  - Jimmy Dorsey
-  - Vic Berton
+    - Red Nichols
+    - Miff Mole
+    - Jimmy Dorsey
+    - Vic Berton
   influenced:
-  - Benny Goodman
+    - Benny Goodman
   mentors:
-  - Jean Goldkette
+    - Jean Goldkette
 spotify_data:
   followers: 155
   id: 7pdCRPVcX8MstPABCiFZ8j
   popularity: 1
-  url: https://open.spotify.com/artist/7pdCRPVcX8MstPABCiFZ8j
+  url: 'https://open.spotify.com/artist/7pdCRPVcX8MstPABCiFZ8j'
 discography_enriched: true
 top_tracks:
-- 'I Wish I Could Shimmy Like My Sister Kate (The Roaring 20s: Rare Original 1920s Recordings)'
-- The Camel Walk (Dimestore 1920's Vol. 1)
-- 'Nobody But My Baby (The University Six: 1925-1927)'
-- Tiger Rag (Dimestore 1920's Vol. 3)
-- 'So Long Pal (The University Six: 1925-1927)'
-- Then I'll Be Happy (We Call It Jazz!, Vol. 8)
-- Beale Street Blues (My Favorite Songs)
-- The Camel Walk (Hot 1920s Harmony Label Recordings)
-- Tiger Rag (Hot 1920s Harmony Label Recordings)
-- I Wish I Could Shimmy Like My Sister Kate (Adrian Rollini Groups 1924-27)
+  - >-
+    I Wish I Could Shimmy Like My Sister Kate (The Roaring 20s: Rare Original
+    1920s Recordings)
+  - The Camel Walk (Dimestore 1920's Vol. 1)
+  - 'Nobody But My Baby (The University Six: 1925-1927)'
+  - Tiger Rag (Dimestore 1920's Vol. 3)
+  - 'So Long Pal (The University Six: 1925-1927)'
+  - 'Then I''ll Be Happy (We Call It Jazz!, Vol. 8)'
+  - Beale Street Blues (My Favorite Songs)
+  - The Camel Walk (Hot 1920s Harmony Label Recordings)
+  - Tiger Rag (Hot 1920s Harmony Label Recordings)
+  - I Wish I Could Shimmy Like My Sister Kate (Adrian Rollini Groups 1924-27)
 external_urls:
-  spotify: https://open.spotify.com/artist/7pdCRPVcX8MstPABCiFZ8j
-  wikipedia: https://en.wikipedia.org/wiki/Red_Nichols
+  spotify: 'https://open.spotify.com/artist/7pdCRPVcX8MstPABCiFZ8j'
+  wikipedia: 'https://en.wikipedia.org/wiki/Red_Nichols'
 image_path: 03_Resources/source_material/ArtistPortraits/the_university_six.jpg
 biography_enhanced_at: '2025-11-20T06:37:37.249835'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Red_Nichols
-- https://syncopatedtimes.com/university-six/
-- https://www.discogs.com/artist/3532269-The-University-Six
+  - 'https://en.wikipedia.org/wiki/Red_Nichols'
+  - 'https://syncopatedtimes.com/university-six/'
+  - 'https://www.discogs.com/artist/3532269-The-University-Six'
 network_extracted: true
 entry_created: '2025-11-20T06:37:37.249845'
 last_updated: '2025-12-23T08:16:17.242955'
-origin: New York City, New York, USA
+origin: 'New York City, New York, USA'
+artist_type: band
 ---
 
 ![](the_university_six.jpg)

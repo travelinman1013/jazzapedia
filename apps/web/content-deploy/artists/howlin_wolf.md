@@ -3,16 +3,16 @@ title: Howlin' Wolf
 wiki_slug: howlin-wolf
 schema_version: 2
 status: active
-birth_place: White Station, Mississippi, United States
+birth_place: 'White Station, Mississippi, United States'
 genres:
-- blues
-- classic blues
-- blues rock
+  - blues
+  - classic blues
+  - blues rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/howlin_wolf.jpg
   caption: Howlin' Wolf
   background: solo_singer
-  origin: White Station, Mississippi, United States
+  origin: 'White Station, Mississippi, United States'
 audio_profile:
   tempo_avg: 122.5
   energy_avg: 0.521
@@ -20,7 +20,7 @@ audio_profile:
   danceability_avg: 0.599
   acousticness_avg: 0.535
   instrumentalness_avg: 0.029
-  loudness_avg: -12.0
+  loudness_avg: -12
   speechiness_avg: 0.052
   liveness_avg: 0.186
   track_count: 54
@@ -28,52 +28,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Hubert Sumlin
-  - Willie Johnson
-  - James Cotton
-  - Little Junior Parker
+    - Hubert Sumlin
+    - Willie Johnson
+    - James Cotton
+    - Little Junior Parker
   influenced:
-  - The Rolling Stones
-  - Jimi Hendrix
-  - Eric Clapton
-  - Led Zeppelin
+    - The Rolling Stones
+    - Jimi Hendrix
+    - Eric Clapton
+    - Led Zeppelin
   mentors:
-  - Charley Patton
-  - Sonny Boy Williamson (Rice Miller)
-  - Tommy Johnson
+    - Charley Patton
+    - Sonny Boy Williamson (Rice Miller)
+    - Tommy Johnson
 spotify_data:
   followers: 555433
   id: 0Wxy5Qka8BN9crcFkiAxSR
   popularity: 49
-  url: https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR
+  url: 'https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR'
 discography_enriched: true
 top_tracks:
-- Smokestack Lightnin' (Moanin' In The Moonlight)
-- Spoonful (Howlin' Wolf)
-- Killing Floor (The Real Folk Blues)
-- Evil (Is Going On) (Moanin' In The Moonlight)
-- Little Red Rooster (Howlin' Wolf)
-- How Many More Years (Moanin' In The Moonlight)
-- I Ain't Superstitious (The London Howlin’ Wolf Sessions (Deluxe Edition))
-- Back Door Man (Howlin' Wolf)
-- Moanin' At Midnight (Moanin' In The Moonlight)
-- Sitting On Top Of The World (The Real Folk Blues)
+  - Smokestack Lightnin' (Moanin' In The Moonlight)
+  - Spoonful (Howlin' Wolf)
+  - Killing Floor (The Real Folk Blues)
+  - Evil (Is Going On) (Moanin' In The Moonlight)
+  - Little Red Rooster (Howlin' Wolf)
+  - How Many More Years (Moanin' In The Moonlight)
+  - I Ain't Superstitious (The London Howlin’ Wolf Sessions (Deluxe Edition))
+  - Back Door Man (Howlin' Wolf)
+  - Moanin' At Midnight (Moanin' In The Moonlight)
+  - Sitting On Top Of The World (The Real Folk Blues)
 external_urls:
-  spotify: https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR
-  wikipedia: https://en.wikipedia.org/wiki/Howlin'_Wolf
+  spotify: 'https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR'
+  wikipedia: 'https://en.wikipedia.org/wiki/Howlin''_Wolf'
 image_path: 03_Resources/source_material/ArtistPortraits/howlin_wolf.jpg
 biography_enhanced_at: '2025-10-24T07:58:22.708235'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Howlin'_Wolf
-- https://www.thecurrent.org/feature/2024/06/14/classic-americana-howlin-wolf
-- https://teachrock.org/people/howlin-wolf/
-- https://www.britannica.com/biography/Howlin-Wolf
-- https://www.wpnet.org/howlin-wolf-blues-society-bios-and-photos/
+  - 'https://en.wikipedia.org/wiki/Howlin''_Wolf'
+  - 'https://www.thecurrent.org/feature/2024/06/14/classic-americana-howlin-wolf'
+  - 'https://teachrock.org/people/howlin-wolf/'
+  - 'https://www.britannica.com/biography/Howlin-Wolf'
+  - 'https://www.wpnet.org/howlin-wolf-blues-society-bios-and-photos/'
 network_extracted: true
 entry_created: '2025-10-24T07:58:22.708239'
 last_updated: '2025-12-23T08:16:09.718148'
+origin: 'Chicago, Illinois, United States'
+birth_date: '1910-06-10'
+artist_type: person
 ---
 
 ![](howlin_wolf.jpg)

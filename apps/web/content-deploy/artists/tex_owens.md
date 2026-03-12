@@ -1,15 +1,15 @@
 ---
-title: tex owens
+title: Tex Owens
 wiki_slug: tex-owens
 schema_version: 2
 status: active
-birth_place: Killeen, Texas, USA
+birth_place: 'Killeen, Texas, USA'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/tex_owens.jpg
   caption: tex owens
   background: solo_singer
-  origin: Killeen, Texas, USA
+  origin: 'Killeen, Texas, USA'
 audio_profile:
   tempo_avg: 141.8
   energy_avg: 0.294
@@ -25,47 +25,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Original Texas Rangers
-  - Prairie Pioneers
-  - Prairie Pirates
-  - Dolpha (Jane) and Laura Lee (Joy) Owens
+    - The Original Texas Rangers
+    - Prairie Pioneers
+    - Prairie Pirates
+    - Dolpha (Jane) and Laura Lee (Joy) Owens
   influenced:
-  - Eddy Arnold
-  - Laura Lee Owens
+    - Eddy Arnold
+    - Laura Lee Owens
   mentors: []
 spotify_data:
   followers: 93
   id: 1OyG1YbB984X2oQ6yzrMoS
   popularity: 1
-  url: https://open.spotify.com/artist/1OyG1YbB984X2oQ6yzrMoS
+  url: 'https://open.spotify.com/artist/1OyG1YbB984X2oQ6yzrMoS'
 discography_enriched: true
 top_tracks:
-- Cattle Call (Singing in the Saddle)
-- Porcupine Serenade (Slew Foot Boppin' Billies)
-- Porcupine Serenade - inst. (Wheeling Boogie)
-- Porcupine Serenade (Slew Foot Boppin' Billies)
-- 'The Cattle call (America, Vol. 9: Country - Country & Western)'
-- Cattle Call (Cowboy Classics, Vol. 2)
-- Cattle Call (Maverick Country)
-- Cattle Call (101 Country Hits)
-- Cattle Call (101 Country)
-- Cattle Call (Yodeller's Dream)
+  - Cattle Call (Singing in the Saddle)
+  - Porcupine Serenade (Slew Foot Boppin' Billies)
+  - Porcupine Serenade - inst. (Wheeling Boogie)
+  - Porcupine Serenade (Slew Foot Boppin' Billies)
+  - 'The Cattle call (America, Vol. 9: Country - Country & Western)'
+  - 'Cattle Call (Cowboy Classics, Vol. 2)'
+  - Cattle Call (Maverick Country)
+  - Cattle Call (101 Country Hits)
+  - Cattle Call (101 Country)
+  - Cattle Call (Yodeller's Dream)
 external_urls:
-  spotify: https://open.spotify.com/artist/1OyG1YbB984X2oQ6yzrMoS
-  wikipedia: https://en.wikipedia.org/wiki/Tex_Owens
+  spotify: 'https://open.spotify.com/artist/1OyG1YbB984X2oQ6yzrMoS'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tex_Owens'
 image_path: ''
 biography_enhanced_at: '2025-11-22T07:39:26.289904'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://fromthevaults-boppinbob.blogspot.com/2025/06/tex-owens-born-15-june-1892.html
-- https://www.tshaonline.org/handbook/entries/owens-doie-hensley-tex
-- https://nashvillesongwritersfoundation.com/Site/inductee?entry_id=4813
-- https://texoso66.com/2023/09/07/tex-owens-and-his-musical-family/
-- https://www.imdb.com/name/nm0654470/bio/
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2025/06/tex-owens-born-15-june-1892.html
+  - 'https://www.tshaonline.org/handbook/entries/owens-doie-hensley-tex'
+  - 'https://nashvillesongwritersfoundation.com/Site/inductee?entry_id=4813'
+  - 'https://texoso66.com/2023/09/07/tex-owens-and-his-musical-family/'
+  - 'https://www.imdb.com/name/nm0654470/bio/'
 network_extracted: true
 entry_created: '2025-11-22T07:39:26.289921'
 last_updated: '2025-12-23T08:16:16.506164'
+birth_date: '1892-06-15'
+death_date: '1962'
+artist_type: person
 ---
 
 ![]()

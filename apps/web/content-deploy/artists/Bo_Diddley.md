@@ -2,22 +2,22 @@
 title: Bo Diddley
 wiki_slug: bo-diddley
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1928-12-30'
-birth_place: McComb, Mississippi, United States
+birth_place: 'McComb, Mississippi, United States'
 death_date: '2008-06-02'
 genres:
-- blues
-- classic blues
-- rock and roll
-- rockabilly
+  - blues
+  - classic blues
+  - rock and roll
+  - rockabilly
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Bo_Diddley.jpg
   caption: Bo Diddley
   background: solo_singer
   born: '1928-12-30'
-  origin: McComb, Mississippi, United States
+  origin: 'McComb, Mississippi, United States'
   died: '2008-06-02'
 audio_profile:
   tempo_avg: 116.4
@@ -34,61 +34,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jerome Green
-  - Billy Boy Arnold
-  - Roosevelt Jackson
-  - Clifton James
-  - Jody Williams
-  - Otis Spann
-  - Earl Hooker
+    - Jerome Green
+    - Billy Boy Arnold
+    - Roosevelt Jackson
+    - Clifton James
+    - Jody Williams
+    - Otis Spann
+    - Earl Hooker
   influenced: []
   mentors:
-  - O. W. Frederick
-  - John Lee Hooker
-  - Louis Jordan
-  - Muddy Waters
+    - O. W. Frederick
+    - John Lee Hooker
+    - Louis Jordan
+    - Muddy Waters
 spotify_data:
   followers: 333166
   id: 2bmixwMZXlkl2sbIbOfviq
   popularity: 44
-  url: https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq
+  url: 'https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq'
 discography_enriched: true
 top_tracks:
-- I'm A Man (Bo Diddley)
-- Bo Diddley (Bo Diddley)
-- Pretty Thing (Bo Diddley)
-- Road Runner (In The Spotlight)
-- Who Do You Love (Bo Diddley)
-- You Can't Judge A Book By Its Cover
-- 'Our Love Will Never Go (I''m A Man: The Chess Masters, 1955-1958)'
-- Hit Or Miss (Big Bad Bo)
-- Ooh Baby
-- Goin' Down Slow
+  - I'm A Man (Bo Diddley)
+  - Bo Diddley (Bo Diddley)
+  - Pretty Thing (Bo Diddley)
+  - Road Runner (In The Spotlight)
+  - Who Do You Love (Bo Diddley)
+  - You Can't Judge A Book By Its Cover
+  - 'Our Love Will Never Go (I''m A Man: The Chess Masters, 1955-1958)'
+  - Hit Or Miss (Big Bad Bo)
+  - Ooh Baby
+  - Goin' Down Slow
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/bf659d74-0b61-488c-8a7d-594f43bed9e0
-  spotify: https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq
-  wikipedia: https://en.wikipedia.org/wiki/Bo_Diddley
+  musicbrainz: 'https://musicbrainz.org/artist/bf659d74-0b61-488c-8a7d-594f43bed9e0'
+  spotify: 'https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bo_Diddley'
 image_path: 03_Resources/source_material/ArtistPortraits/Bo_Diddley.jpg
 biography_enhanced_at: '2025-10-20T08:54:57.921783'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Bo_Diddley
-- https://www.ebsco.com/research-starters/biography/bo-diddley
-- https://www.newworldencyclopedia.org/entry/Bo_Diddley
-- https://dos.fl.gov/cultural/programs/florida-artists-hall-of-fame/bo-diddley/
-- https://blackpast.org/african-american-history/diddley-bo-1928-2008/
+  - 'https://en.wikipedia.org/wiki/Bo_Diddley'
+  - 'https://www.ebsco.com/research-starters/biography/bo-diddley'
+  - 'https://www.newworldencyclopedia.org/entry/Bo_Diddley'
+  - >-
+    https://dos.fl.gov/cultural/programs/florida-artists-hall-of-fame/bo-diddley/
+  - 'https://blackpast.org/african-american-history/diddley-bo-1928-2008/'
 network_extracted: true
 entry_created: '2025-10-20T08:54:57.921801'
 last_updated: '2025-12-23T08:16:01.261456'
-disambiguation: American singer, guitarist, songwriter and music producer
+disambiguation: 'American singer, guitarist, songwriter and music producer'
 gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:09:09.147995'
 musicbrainz_id: bf659d74-0b61-488c-8a7d-594f43bed9e0
 tags:
-- 2008 universal fire victim
-- blues
-- blues rock
+  - 2008 universal fire victim
+  - blues
+  - blues rock
+is_active: false
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](Bo_Diddley.jpg)

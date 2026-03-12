@@ -3,40 +3,41 @@ biography_enhanced_at: '2026-01-20T01:19:40.477128'
 enhancement_provider: perplexity
 entry_created: '2026-01-20T01:19:40.477134'
 external_urls:
-  spotify: https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY
+  spotify: 'https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY'
   wikipedia: ''
 genres:
-- dream pop
+  - dream pop
 image_path: 03_Resources/source_material/ArtistPortraits/beach_house.jpg
 last_updated: '2026-01-20T01:19:40.477134'
 musical_connections:
   collaborators:
-  - Victoria Legrand
-  - Alex Scally
-  - James Barone
-  - Sonic Boom (Peter Kember)
+    - Victoria Legrand
+    - Alex Scally
+    - James Barone
+    - Sonic Boom (Peter Kember)
   influenced: []
   mentors:
-  - Cocteau Twins
-  - My Bloody Valentine
+    - Cocteau Twins
+    - My Bloody Valentine
 network_extracted: true
-origin: Baltimore, Maryland, United States
+origin: 'Baltimore, Maryland, United States'
 primary_source: perplexity
 research_sources:
-- https://www.youtube.com/watch?v=5X8bmpC0_iQ
-- https://www.last.fm/music/Beach+House/+wiki
-- https://the-avocado.org/2016/02/18/artist-spotlight-beach-house/
-- https://tsl.news/beach-house-once-twice-melody/
-- https://www.nhpr.org/2015-08-06/beach-house-dream-pop-from-baltimore
-- https://districtfray.com/articles/beach-house-the-anthem/
-- https://www.subpop.com/artists/beach_house
+  - 'https://www.youtube.com/watch?v=5X8bmpC0_iQ'
+  - 'https://www.last.fm/music/Beach+House/+wiki'
+  - 'https://the-avocado.org/2016/02/18/artist-spotlight-beach-house/'
+  - 'https://tsl.news/beach-house-once-twice-melody/'
+  - 'https://www.nhpr.org/2015-08-06/beach-house-dream-pop-from-baltimore'
+  - 'https://districtfray.com/articles/beach-house-the-anthem/'
+  - 'https://www.subpop.com/artists/beach_house'
 spotify_data:
   followers: 2920545
   id: 56ZTgzPBDge0OvCGgMO3OY
   popularity: 75
-  url: https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY
+  url: 'https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY'
 status: active
 title: Beach House
+artist_type: person
 ---
 
 ![](beach_house.jpg)

@@ -1,22 +1,22 @@
 ---
-title: jimmy anderson
+title: Jimmy Anderson
 wiki_slug: jimmy-anderson
 schema_version: 2
 status: active
-birth_place: Natchez, Mississippi, United States
+birth_place: 'Natchez, Mississippi, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jimmy_anderson.jpg
   caption: jimmy anderson
   background: solo_singer
-  origin: Natchez, Mississippi, United States
+  origin: 'Natchez, Mississippi, United States'
 audio_profile:
   tempo_avg: 117.2
   energy_avg: 0.642
   valence_avg: 0.513
   danceability_avg: 0.601
   acousticness_avg: 0.183
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -8.1
   speechiness_avg: 0.047
   liveness_avg: 0.182
@@ -25,47 +25,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jimmy Anderson & the Joy Jumpers
-  - Oscar Hogan, Jr.
-  - Johnnie Allen
-  - Mojo Blues Band
+    - Jimmy Anderson & the Joy Jumpers
+    - 'Oscar Hogan, Jr.'
+    - Johnnie Allen
+    - Mojo Blues Band
   influenced: []
   mentors:
-  - Alexander 'Papa George' Lightfoot
-  - Jimmy Reed
-  - Slim Harpo
-  - Silas Hogan
+    - Alexander 'Papa George' Lightfoot
+    - Jimmy Reed
+    - Slim Harpo
+    - Silas Hogan
 spotify_data:
   followers: 62
   id: 5OiJvhLC6rKsiwh5Mqy4zU
   popularity: 0
-  url: https://open.spotify.com/artist/5OiJvhLC6rKsiwh5Mqy4zU
+  url: 'https://open.spotify.com/artist/5OiJvhLC6rKsiwh5Mqy4zU'
 discography_enriched: true
 top_tracks:
-- Turn Down the Noise (Turn Down the Noise)
-- Dry (Dry)
-- You're Not Alone (You're Not Alone)
-- Six Pack Pretty (Sonic Sail)
-- Bad Man (Sonic Sail)
-- Don't Go in the Water (Sonic Sail)
-- Strut (Sonic Sail)
-- I Took a Pill in Ibiza (Sonic Sail)
-- Bend Don't Break (Sonic Sail)
-- Dirty Diana (Sonic Sail)
+  - Turn Down the Noise (Turn Down the Noise)
+  - Dry (Dry)
+  - You're Not Alone (You're Not Alone)
+  - Six Pack Pretty (Sonic Sail)
+  - Bad Man (Sonic Sail)
+  - Don't Go in the Water (Sonic Sail)
+  - Strut (Sonic Sail)
+  - I Took a Pill in Ibiza (Sonic Sail)
+  - Bend Don't Break (Sonic Sail)
+  - Dirty Diana (Sonic Sail)
 external_urls:
-  spotify: https://open.spotify.com/artist/5OiJvhLC6rKsiwh5Mqy4zU
+  spotify: 'https://open.spotify.com/artist/5OiJvhLC6rKsiwh5Mqy4zU'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/jimmy_anderson.jpg
 biography_enhanced_at: '2025-11-27T06:33:25.450819'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Mississippi Folklife Directory - Jimmy Anderson biography
-- Big Road Blues - Jimmy Anderson article
-- JSTOR - Jimmy Anderson blues singer documentation
+  - Mississippi Folklife Directory - Jimmy Anderson biography
+  - Big Road Blues - Jimmy Anderson article
+  - JSTOR - Jimmy Anderson blues singer documentation
 network_extracted: true
 entry_created: '2025-11-27T06:33:25.450836'
 last_updated: '2025-12-23T08:16:10.414823'
+birth_date: '1934-11-21'
+artist_type: person
 ---
 
 ![](jimmy_anderson.jpg)

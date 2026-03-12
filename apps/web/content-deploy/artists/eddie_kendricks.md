@@ -5,21 +5,21 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1939-12-17'
-birth_place: Union Springs
+birth_place: 'Union Springs, Alabama, United States'
 death_date: '1992-10-05'
 genres:
-- motown
-- soul
-- philly soul
+  - motown
+  - soul
+  - philly soul
 instruments:
-- lead vocals
-- background vocals
+  - lead vocals
+  - background vocals
 associated_acts:
-- begin: ''
-  end: '1971'
-  instruments: []
-  mbid: d8df96ae-8fcf-4997-b3e6-e5d1aaf0f69e
-  name: The Temptations
+  - begin: ''
+    end: '1971'
+    instruments: []
+    mbid: d8df96ae-8fcf-4997-b3e6-e5d1aaf0f69e
+    name: The Temptations
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/eddie_kendricks.jpg
   caption: Eddie Kendricks
@@ -34,7 +34,7 @@ audio_profile:
   danceability_avg: 0.549
   acousticness_avg: 0.381
   instrumentalness_avg: 0.031
-  loudness_avg: -11.0
+  loudness_avg: -11
   speechiness_avg: 0.051
   liveness_avg: 0.198
   track_count: 50
@@ -42,55 +42,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Temptations (Otis Williams, Paul Williams, Melvin Franklin, David Ruffin, Al Bryant, Dennis Edwards)
-  - David Ruffin
-  - Frank Wilson and Leonard Caston
+    - >-
+      The Temptations (Otis Williams, Paul Williams, Melvin Franklin, David
+      Ruffin, Al Bryant, Dennis Edwards)
+    - David Ruffin
+    - Frank Wilson and Leonard Caston
   influenced:
-  - Daryl Hall (of Hall & Oates)
-  - Philip Bailey (of Earth, Wind & Fire)
-  - Countless modern R&B and neo-soul artists
+    - Daryl Hall (of Hall & Oates)
+    - 'Philip Bailey (of Earth, Wind & Fire)'
+    - Countless modern R&B and neo-soul artists
   mentors:
-  - Smokey Robinson
+    - Smokey Robinson
 spotify_data:
   followers: 326069
   id: 2Uuon75BhnuuxdKLYn4wHn
   popularity: 37
-  url: https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn
+  url: 'https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn'
 discography_enriched: true
 top_tracks:
-- Intimate Friends (Slick)
-- Girl You Need A Change Of Mind (People... Hold On)
-- Keep On Truckin' (Eddie Kendricks)
-- Boogie Down
-- Date With The Rain (People... Hold On)
-- Keep On Truckin' - Pt. 1 / Single Version (Motown Greatest Hits)
-- Boogie Down - Single Version (Hitsville USA, The Motown Collection 1972-1992)
-- Keep On Truckin'
-- My People...Hold On (People... Hold On)
-- Keep On Truckin' - Pt. 1 / Single Version (Hitsville USA, The Motown Collection 1972-1992)
+  - Intimate Friends (Slick)
+  - Girl You Need A Change Of Mind (People... Hold On)
+  - Keep On Truckin' (Eddie Kendricks)
+  - Boogie Down
+  - Date With The Rain (People... Hold On)
+  - Keep On Truckin' - Pt. 1 / Single Version (Motown Greatest Hits)
+  - >-
+    Boogie Down - Single Version (Hitsville USA, The Motown Collection
+    1972-1992)
+  - Keep On Truckin'
+  - My People...Hold On (People... Hold On)
+  - >-
+    Keep On Truckin' - Pt. 1 / Single Version (Hitsville USA, The Motown
+    Collection 1972-1992)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/cf3ea6e9-c856-4737-a988-6b64cc9f2bf2
-  spotify: https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn
-  wikipedia: https://en.wikipedia.org/wiki/Eddie_Kendricks
+  musicbrainz: 'https://musicbrainz.org/artist/cf3ea6e9-c856-4737-a988-6b64cc9f2bf2'
+  spotify: 'https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn'
+  wikipedia: 'https://en.wikipedia.org/wiki/Eddie_Kendricks'
 image_path: 03_Resources/source_material/ArtistPortraits/eddie_kendricks.jpg
 biography_enhanced_at: '2025-11-16T20:27:13.013027'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.imdb.com/name/nm0447704/bio/
-- https://www.angelfire.com/music/DennisEdwards/EddiesB.html
-- https://encyclopediaofalabama.org/article/eddie-kendricks/
-- https://www.udiscovermusic.com/stories/eddie-kendricks-tribute/
+  - 'https://www.imdb.com/name/nm0447704/bio/'
+  - 'https://www.angelfire.com/music/DennisEdwards/EddiesB.html'
+  - 'https://encyclopediaofalabama.org/article/eddie-kendricks/'
+  - 'https://www.udiscovermusic.com/stories/eddie-kendricks-tribute/'
 network_extracted: true
 entry_created: '2025-11-16T20:27:13.013034'
 last_updated: '2025-12-23T08:16:08.176662'
 gender: Male
 musicbrainz_id: cf3ea6e9-c856-4737-a988-6b64cc9f2bf2
 tags:
-- motown
-- rock and indie
-- soul
-
+  - motown
+  - rock and indie
+  - soul
+is_active: false
+origin: 'Detroit, Michigan, United States'
 ---
 
 ![](eddie_kendricks.jpg)

@@ -1,5 +1,5 @@
 ---
-title: JUNIE COBB'S HOMETOWN BAND
+title: Junie Cobb's Hometown Band
 wiki_slug: junie-cobbs-hometown-band
 schema_version: 2
 status: active
@@ -23,51 +23,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Johnny Dunn
-  - King Oliver
-  - Jimmie Noone
-  - Annabelle Calhoun
-  - Johnny Dodds
-  - Tiny Parham
-  - Eustern Woodfork
-  - Jimmy Cobb
+    - Johnny Dunn
+    - King Oliver
+    - Jimmie Noone
+    - Annabelle Calhoun
+    - Johnny Dodds
+    - Tiny Parham
+    - Eustern Woodfork
+    - Jimmy Cobb
   influenced:
-  - Chicago jazz musicians
+    - Chicago jazz musicians
   mentors:
-  - Cobb's mother
+    - Cobb's mother
 spotify_data:
   followers: 27
   id: 5vYoQ8duLRo35kz4qerjgn
   popularity: 0
-  url: https://open.spotify.com/artist/5vYoQ8duLRo35kz4qerjgn
+  url: 'https://open.spotify.com/artist/5vYoQ8duLRo35kz4qerjgn'
 discography_enriched: true
 top_tracks:
-- Chicago Buzz (Johnny Dodds on Paramount)
-- East Coast Trot (Johnny Dodds on Paramount)
-- East coast trot (Chicago South Side 1923-1930)
-- East Coast Trot (Classic Jazz Gold Collection (Johnny Dodds ?' Group Recordings 1926))
-- Chicago Buzz (Classic Jazz Gold Collection (Johnny Dodds ?' Group Recordings 1926))
-- East Coast Trot (Christmas Ballads)
-- Chicago Buzz (Christmas Ballads)
-- East Coast Trot (Ultimate Sessions)
-- Chicago Buzz (Ultimate Sessions)
-- Chicago Buzz (Tune in to)
+  - Chicago Buzz (Johnny Dodds on Paramount)
+  - East Coast Trot (Johnny Dodds on Paramount)
+  - East coast trot (Chicago South Side 1923-1930)
+  - >-
+    East Coast Trot (Classic Jazz Gold Collection (Johnny Dodds ?' Group
+    Recordings 1926))
+  - >-
+    Chicago Buzz (Classic Jazz Gold Collection (Johnny Dodds ?' Group Recordings
+    1926))
+  - East Coast Trot (Christmas Ballads)
+  - Chicago Buzz (Christmas Ballads)
+  - East Coast Trot (Ultimate Sessions)
+  - Chicago Buzz (Ultimate Sessions)
+  - Chicago Buzz (Tune in to)
 external_urls:
-  spotify: https://open.spotify.com/artist/5vYoQ8duLRo35kz4qerjgn
-  wikipedia: https://en.wikipedia.org/wiki/Junie_Cobb
+  spotify: 'https://open.spotify.com/artist/5vYoQ8duLRo35kz4qerjgn'
+  wikipedia: 'https://en.wikipedia.org/wiki/Junie_Cobb'
 image_path: 03_Resources/source_material/ArtistPortraits/junie_cobbs_hometown_band.jpg
 biography_enhanced_at: '2025-10-23T07:21:26.333978'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Junie_Cobb
-- https://www.encyclopedia.com/arts/dictionaries-thesauruses-pictures-and-press-releases/cobb-junie-actually-junius-c
-- https://syncopatedtimes.com/junie-cobbs-hometown-band/
-- https://syncopatedtimes.com/junie-cobb-1896-1970/
+  - 'https://en.wikipedia.org/wiki/Junie_Cobb'
+  - >-
+    https://www.encyclopedia.com/arts/dictionaries-thesauruses-pictures-and-press-releases/cobb-junie-actually-junius-c
+  - 'https://syncopatedtimes.com/junie-cobbs-hometown-band/'
+  - 'https://syncopatedtimes.com/junie-cobb-1896-1970/'
 network_extracted: true
 entry_created: '2025-10-23T07:21:26.333990'
 last_updated: '2025-12-23T08:16:11.064475'
-origin: Hot Springs, Arkansas, United States
+origin: 'Hot Springs, Arkansas, United States'
+birth_place: 'Hot Springs, Arkansas, United States'
+birth_date: '1896-12-31'
+artist_type: person
 ---
 
 ![](junie_cobbs_hometown_band.jpg)

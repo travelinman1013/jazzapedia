@@ -3,38 +3,43 @@ biography_enhanced_at: '2026-01-05T07:53:38.783003'
 enhancement_provider: perplexity
 entry_created: '2026-01-05T07:53:38.783010'
 external_urls:
-  spotify: https://open.spotify.com/artist/7hklSq7IArDjS7ZlXUzRw8
+  spotify: 'https://open.spotify.com/artist/7hklSq7IArDjS7ZlXUzRw8'
   wikipedia: ''
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 image_path: 03_Resources/source_material/ArtistPortraits/les_quatre_vieux_garcons.jpg
 last_updated: '2026-01-05T07:53:38.783011'
 musical_connections:
   collaborators:
-  - Dewey Balfa
-  - Tony Balfa
-  - Tracy Schwarz
-  - Peter Schwarz
+    - Dewey Balfa
+    - Tony Balfa
+    - Tracy Schwarz
+    - Peter Schwarz
   influenced: []
   mentors: []
 network_extracted: true
-origin: Southwest Louisiana, USA
+origin: 'Southwest Louisiana, USA'
 primary_source: perplexity
 research_sources:
-- https://folkways.si.edu/dewey-and-tony-balfa-and-tracy-and-peter-schwarz/les-quatre-vieux-garcons/cajun/music/album/smithsonian
-- https://onesearch.library.wwu.edu/discovery/fulldisplay?docid=alma9992885729001453&context=L&vid=01ALLIANCE_WWU%3AWWU&lang=en&adaptor=Local+Search+Engine
-- https://folkways.si.edu/dewey-balfa-peter-schwarz-and-tony-balfa/les-quatre-vieux-garcons/track/smithsonian
-- https://en.wikipedia.org/wiki/Dewey_Balfa
-- https://folkways.si.edu/dewey-balfa/cajun/music/video/smithsonian
-- https://seesharppress.wordpress.com/2014/05/07/a-very-brief-history-of-cajun-and-zydeco-music/
+  - >-
+    https://folkways.si.edu/dewey-and-tony-balfa-and-tracy-and-peter-schwarz/les-quatre-vieux-garcons/cajun/music/album/smithsonian
+  - >-
+    https://onesearch.library.wwu.edu/discovery/fulldisplay?docid=alma9992885729001453&context=L&vid=01ALLIANCE_WWU%3AWWU&lang=en&adaptor=Local+Search+Engine
+  - >-
+    https://folkways.si.edu/dewey-balfa-peter-schwarz-and-tony-balfa/les-quatre-vieux-garcons/track/smithsonian
+  - 'https://en.wikipedia.org/wiki/Dewey_Balfa'
+  - 'https://folkways.si.edu/dewey-balfa/cajun/music/video/smithsonian'
+  - >-
+    https://seesharppress.wordpress.com/2014/05/07/a-very-brief-history-of-cajun-and-zydeco-music/
 spotify_data:
   followers: 4
   id: 7hklSq7IArDjS7ZlXUzRw8
   popularity: 0
-  url: https://open.spotify.com/artist/7hklSq7IArDjS7ZlXUzRw8
+  url: 'https://open.spotify.com/artist/7hklSq7IArDjS7ZlXUzRw8'
 status: active
 title: Les Quatre Vieux Garcons
+artist_type: band
 ---
 
 ![](les_quatre_vieux_garcons.jpg)

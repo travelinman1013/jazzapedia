@@ -5,25 +5,25 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1918-01-27'
-birth_place: Richland
+birth_place: 'Richland, Mississippi, United States'
 death_date: '1963-05-24'
 genres:
-- blues
-- classic blues
-- blues rock
+  - blues
+  - classic blues
+  - blues rock
 instruments:
-- eponymous
-- slide guitar
-- guitar
-- lead vocals
-- spoken vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
-  mbid: b56ffb46-69ae-4acf-80ca-3f111d61e5e1
-  name: Elmore James & His Broom Dusters
+  - slide guitar
+  - guitar
+  - lead vocals
+  - spoken vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: b56ffb46-69ae-4acf-80ca-3f111d61e5e1
+    name: Elmore James & His Broom Dusters
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/elmore_james.jpg
   caption: Elmore James
@@ -38,7 +38,7 @@ audio_profile:
   danceability_avg: 0.515
   acousticness_avg: 0.492
   instrumentalness_avg: 0.149
-  loudness_avg: -7.0
+  loudness_avg: -7
   speechiness_avg: 0.044
   liveness_avg: 0.197
   track_count: 47
@@ -46,61 +46,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - '"Little" Johnny Jones'
-  - Odie Payne
-  - Willie Love
-  - Robert Holston
+    - '"Little" Johnny Jones'
+    - Odie Payne
+    - Willie Love
+    - Robert Holston
   influenced:
-  - Hound Dog Taylor
-  - B.B. King
-  - Stevie Ray Vaughan
-  - The Rolling Stones
-  - Fleetwood Mac (Jeremy Spencer)
-  - Allman Brothers Band
+    - Hound Dog Taylor
+    - B.B. King
+    - Stevie Ray Vaughan
+    - The Rolling Stones
+    - Fleetwood Mac (Jeremy Spencer)
+    - Allman Brothers Band
   mentors:
-  - Robert Johnson
-  - Tampa Red
-  - Sonny Boy Williamson II (Rice Miller)
+    - Robert Johnson
+    - Tampa Red
+    - Sonny Boy Williamson II (Rice Miller)
 spotify_data:
   followers: 204996
   id: 0q9kpdDkEA3H17gcRMjgVS
   popularity: 42
-  url: https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS
+  url: 'https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS'
 discography_enriched: true
 top_tracks:
-- The Sky Is Crying
-- Dust My Broom
-- Dust My Broom
-- The Sky Is Crying
-- The Sky Is Crying (Elmore James Blues Legends)
-- Dust My Broom (Dust My Broom)
-- It Hurts Me Too (Street Talkin')
-- Dust My Broom (Whose Muddy Shoes)
-- Shake Your Money Maker (Dust My Broom)
-- Madison Blues (Whose Muddy Shoes)
+  - The Sky Is Crying
+  - Dust My Broom
+  - Dust My Broom
+  - The Sky Is Crying
+  - The Sky Is Crying (Elmore James Blues Legends)
+  - Dust My Broom (Dust My Broom)
+  - It Hurts Me Too (Street Talkin')
+  - Dust My Broom (Whose Muddy Shoes)
+  - Shake Your Money Maker (Dust My Broom)
+  - Madison Blues (Whose Muddy Shoes)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6fbd2cfb-5f9c-497c-8e06-3c6668367681
-  spotify: https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS
-  wikipedia: https://en.wikipedia.org/wiki/Elmore_James
+  musicbrainz: 'https://musicbrainz.org/artist/6fbd2cfb-5f9c-497c-8e06-3c6668367681'
+  spotify: 'https://open.spotify.com/artist/0q9kpdDkEA3H17gcRMjgVS'
+  wikipedia: 'https://en.wikipedia.org/wiki/Elmore_James'
 image_path: 03_Resources/source_material/ArtistPortraits/elmore_james.jpg
 biography_enhanced_at: '2025-11-01T15:29:36.785190'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.britannica.com/biography/Elmore-James
-- https://mississippiencyclopedia.org/entries/elmore-james/
-- https://en.wikipedia.org/wiki/Elmore_James
-- https://elderly.com/pages/elmore-james-celebrating-black-history-month
-- https://msbluestrail.org/blues-trail-markers/elmore-james
+  - 'https://www.britannica.com/biography/Elmore-James'
+  - 'https://mississippiencyclopedia.org/entries/elmore-james/'
+  - 'https://en.wikipedia.org/wiki/Elmore_James'
+  - 'https://elderly.com/pages/elmore-james-celebrating-black-history-month'
+  - 'https://msbluestrail.org/blues-trail-markers/elmore-james'
 network_extracted: true
 entry_created: '2025-11-01T15:29:36.785214'
 last_updated: '2025-12-23T08:16:01.884708'
 gender: Male
 musicbrainz_id: 6fbd2cfb-5f9c-497c-8e06-3c6668367681
 tags:
-- 2008 universal fire victim
-- blues
-- chicago blues
+  - 2008 universal fire victim
+  - blues
+  - chicago blues
+is_active: false
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](elmore_james.jpg)

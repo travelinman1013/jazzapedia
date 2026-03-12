@@ -1,78 +1,78 @@
 ---
-title: SLIM GAILLARD
+title: Slim Gaillard
 wiki_slug: slim-gaillard
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1916-01-04'
-birth_place: Detroit
+birth_place: 'Detroit, Michigan, United States'
 death_date: '1991-02-26'
 genres:
-- swing music
-- bebop
+  - swing music
+  - bebop
 instruments:
-- eponymous
-- original
-- guitar
-- piano
-- electric guitar
-- bass guitar
-- tack piano
-- spoken vocals
-- other vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b38c27ca-c76c-41e2-aaa2-c4a84aa06b86
-  name: Slim & Slam
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: dd506590-5c5e-4ef2-8a29-81d4e38a6ec4
-  name: Slim Gaillard Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 682301f9-778d-4882-ab71-93e544a2a6b5
-  name: Slim Gaillard and His Boogiereeners
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 98144055-840f-48c0-97a7-161a4c1d52d8
-  name: Slim Gaillard and His Flat-Foot-Floogee-Boys
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 97210fdd-779e-4b66-b8e3-0fc6b79c8198
-  name: Slim Gaillard Quartette
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2c887099-7161-4d52-bdad-5253bb113a7b
-  name: Slim & Bam
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bcd201c8-3868-4f02-9c40-abcc563cb8fc
-  name: Slim Gaillard and His Baker's Dozen
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 63e49eb7-c0c2-468d-ae69-d14eec531da9
-  name: Slim Gaillard and His Middle Europeans
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9e40ae8d-8701-47a0-9073-0f33e6566f8f
-  name: Slim Gaillard and His Musical Aggregation, Whenever He Maybe
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
-  mbid: 8e26fd37-0207-49f2-b16d-df62db9fe202
-  name: Slim Gaillard and His All Stars
+  - guitar
+  - piano
+  - electric guitar
+  - bass guitar
+  - tack piano
+  - spoken vocals
+  - other vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b38c27ca-c76c-41e2-aaa2-c4a84aa06b86
+    name: Slim & Slam
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: dd506590-5c5e-4ef2-8a29-81d4e38a6ec4
+    name: Slim Gaillard Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 682301f9-778d-4882-ab71-93e544a2a6b5
+    name: Slim Gaillard and His Boogiereeners
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 98144055-840f-48c0-97a7-161a4c1d52d8
+    name: Slim Gaillard and His Flat-Foot-Floogee-Boys
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 97210fdd-779e-4b66-b8e3-0fc6b79c8198
+    name: Slim Gaillard Quartette
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2c887099-7161-4d52-bdad-5253bb113a7b
+    name: Slim & Bam
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bcd201c8-3868-4f02-9c40-abcc563cb8fc
+    name: Slim Gaillard and His Baker's Dozen
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 63e49eb7-c0c2-468d-ae69-d14eec531da9
+    name: Slim Gaillard and His Middle Europeans
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9e40ae8d-8701-47a0-9073-0f33e6566f8f
+    name: 'Slim Gaillard and His Musical Aggregation, Whenever He Maybe'
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 8e26fd37-0207-49f2-b16d-df62db9fe202
+    name: Slim Gaillard and His All Stars
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/slim_gaillard.jpg
   caption: SLIM GAILLARD
@@ -87,7 +87,7 @@ audio_profile:
   danceability_avg: 0.712
   acousticness_avg: 0.802
   instrumentalness_avg: 0.185
-  loudness_avg: -12.0
+  loudness_avg: -12
   speechiness_avg: 0.169
   liveness_avg: 0.192
   track_count: 46
@@ -95,55 +95,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Leroy "Slam" Stewart
-  - Charlie Parker
-  - Dizzy Gillespie
-  - Dodo Marmarosa
+    - Leroy "Slam" Stewart
+    - Charlie Parker
+    - Dizzy Gillespie
+    - Dodo Marmarosa
   influenced:
-  - Dream Warriors
-  - Louis Jordan
+    - Dream Warriors
+    - Louis Jordan
   mentors:
-  - Cab Calloway
+    - Cab Calloway
 spotify_data:
   followers: 21118
   id: 4aKlL2BE2kPNNtruAQqRA1
   popularity: 28
-  url: https://open.spotify.com/artist/4aKlL2BE2kPNNtruAQqRA1
+  url: 'https://open.spotify.com/artist/4aKlL2BE2kPNNtruAQqRA1'
 discography_enriched: true
 top_tracks:
-- 'Communications (Groove Juice: The Norman Granz Recordings + More)'
-- Potato Chips (Slim Gaillard Cavorts)
-- 'Atomic Cocktail - Remastered (Anthology: The Complete McVouty (Remastered))'
-- Atomic Cocktail
-- Thunderbird (Slim Gaillard Rides Again)
-- The Flat Foot Floogie (Slim's Jam)
-- 'Momma''s In The Kitchen But We''ve Got "Pop" On Ice (Groove Juice: The Norman Granz Recordings + More)'
-- 'Potato Chips (Groove Juice: The Norman Granz Recordings + More)'
-- Jump Session (Jump Session)
-- Atomic Cocktail
+  - 'Communications (Groove Juice: The Norman Granz Recordings + More)'
+  - Potato Chips (Slim Gaillard Cavorts)
+  - 'Atomic Cocktail - Remastered (Anthology: The Complete McVouty (Remastered))'
+  - Atomic Cocktail
+  - Thunderbird (Slim Gaillard Rides Again)
+  - The Flat Foot Floogie (Slim's Jam)
+  - >-
+    Momma's In The Kitchen But We've Got "Pop" On Ice (Groove Juice: The Norman
+    Granz Recordings + More)
+  - 'Potato Chips (Groove Juice: The Norman Granz Recordings + More)'
+  - Jump Session (Jump Session)
+  - Atomic Cocktail
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/48b82408-3db2-4a96-bd97-129fbdeddfc4
-  spotify: https://open.spotify.com/artist/4aKlL2BE2kPNNtruAQqRA1
-  wikipedia: https://en.wikipedia.org/wiki/Slim_Gaillard
+  musicbrainz: 'https://musicbrainz.org/artist/48b82408-3db2-4a96-bd97-129fbdeddfc4'
+  spotify: 'https://open.spotify.com/artist/4aKlL2BE2kPNNtruAQqRA1'
+  wikipedia: 'https://en.wikipedia.org/wiki/Slim_Gaillard'
 image_path: 03_Resources/source_material/ArtistPortraits/slim_gaillard.jpg
 biography_enhanced_at: '2025-10-28T09:21:11.659139'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://musicianguide.com/biographies/1608002798/Slim-Gaillard.html
-- https://nationaljazzarchive.org.uk/explore/interviews/1634236-slim-gaillard
-- https://wbssmedia.com/artists/detail/3394
-- https://artmusiclounge.wordpress.com/2023/07/15/who-was-slim-gaillard-really/
-- https://syncopatedtimes.com/bulee-slim-gaillard/
-- https://www.allmusic.com/artist/slim-gaillard-mn0000750203
+  - 'https://musicianguide.com/biographies/1608002798/Slim-Gaillard.html'
+  - 'https://nationaljazzarchive.org.uk/explore/interviews/1634236-slim-gaillard'
+  - 'https://wbssmedia.com/artists/detail/3394'
+  - >-
+    https://artmusiclounge.wordpress.com/2023/07/15/who-was-slim-gaillard-really/
+  - 'https://syncopatedtimes.com/bulee-slim-gaillard/'
+  - 'https://www.allmusic.com/artist/slim-gaillard-mn0000750203'
 network_extracted: true
 entry_created: '2025-10-28T09:21:11.659148'
 last_updated: '2025-12-23T08:16:15.745942'
 gender: Male
 musicbrainz_id: 48b82408-3db2-4a96-bd97-129fbdeddfc4
 tags:
-- jazz
-
+  - jazz
+is_active: false
 ---
 
 ![](slim_gaillard.jpg)

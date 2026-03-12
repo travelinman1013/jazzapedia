@@ -5,50 +5,50 @@ schema_version: 2
 status: deceased
 birth_name: Lucien Ginsburg
 also_known_as:
-- Gainsbarre
-- Julien Gris
-- Julien Grix
-- L'homme à tête de chou
+  - Gainsbarre
+  - Julien Gris
+  - Julien Grix
+  - L'homme à tête de chou
 aliases:
-- Gainsbarre
-- Julien Gris
-- Julien Grix
-- L'homme à tête de chou
+  - Gainsbarre
+  - Julien Gris
+  - Julien Grix
+  - L'homme à tête de chou
 birth_date: '1928-04-02'
-birth_place: Paris, France
+birth_place: '4th arrondissement of Paris, Ile-de-France, France'
 death_date: '1991-03-02'
 years_active: 1957–1991
 genres:
-- chanson
-- variété française
-- french pop
-- french jazz
-- french house
+  - chanson
+  - variété française
+  - french pop
+  - french jazz
+  - french house
 instruments:
-- accordion
-- bass guitar
-- guitar
-- piano
-- voice
+  - accordion
+  - bass guitar
+  - guitar
+  - piano
+  - voice
 occupation:
-- actor
-- composer
-- poet
-- film director
-- writer
+  - actor
+  - composer
+  - poet
+  - film director
+  - writer
 record_labels:
-- Mercury Records
-- Philips Records
+  - Mercury Records
+  - Philips Records
 spouse:
-- Lise Levitzky
-- Caroline von Paulus
+  - Lise Levitzky
+  - Caroline von Paulus
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Serge_Gainsbourg.jpg
   caption: Serge Gainsbourg
   background: solo_singer
   birth_name: Lucien Ginsburg
   born: '1928-04-02'
-  origin: Paris, France
+  origin: 'Paris, France'
   died: '1991-03-02'
 audio_profile:
   tempo_avg: 112.7
@@ -65,52 +65,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Michèle Arnaud
-  - Juliette Gréco
-  - Jane Birkin
-  - Vanessa Paradis
+    - Michèle Arnaud
+    - Juliette Gréco
+    - Jane Birkin
+    - Vanessa Paradis
   influenced:
-  - Various artists
+    - Various artists
   mentors:
-  - Boris Vian
-  - Django Reinhardt
+    - Boris Vian
+    - Django Reinhardt
 related_artists: []
 spotify_data:
   followers: 611282
   id: 01C9OoXDvCKkGcf735Tcfo
   popularity: 57
-  url: https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo
+  url: 'https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo'
   verified: false
 discography_enriched: true
 albums_count: 40
 singles_count: 24
 top_tracks:
-- Bonnie And Clyde (Bubble Gum)
-- Je t'aime moi non plus (Comic Strip)
-- Je suis venu te dire que je m'en vais (Vu de l'extérieur)
-- La javanaise (N°4)
-- Je t'aime moi non plus (Bubble Gum)
-- La chanson de Prévert (L'étonnant Serge Gainsbourg (N°3))
-- Baudelaire (N°4)
-- Couleur café (Gainsbourg percussions)
-- Initials B.B. (Initials B.B.)
-- Je t'aime moi non plus (Jane Birkin & Serge Gainsbourg)
+  - Bonnie And Clyde (Bubble Gum)
+  - Je t'aime moi non plus (Comic Strip)
+  - Je suis venu te dire que je m'en vais (Vu de l'extérieur)
+  - La javanaise (N°4)
+  - Je t'aime moi non plus (Bubble Gum)
+  - La chanson de Prévert (L'étonnant Serge Gainsbourg (N°3))
+  - Baudelaire (N°4)
+  - Couleur café (Gainsbourg percussions)
+  - Initials B.B. (Initials B.B.)
+  - Je t'aime moi non plus (Jane Birkin & Serge Gainsbourg)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo
-  wikipedia: https://en.wikipedia.org/wiki/Serge_Gainsbourg
+  spotify: 'https://open.spotify.com/artist/01C9OoXDvCKkGcf735Tcfo'
+  wikipedia: 'https://en.wikipedia.org/wiki/Serge_Gainsbourg'
 image_path: 03_Resources/source_material/ArtistPortraits/Serge_Gainsbourg.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:11:56.610630'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Serge_Gainsbourg
-- https://www.tabletmag.com/sections/arts-letters/articles/histoire-de-serge-gainsbourg
+  - 'https://en.wikipedia.org/wiki/Serge_Gainsbourg'
+  - >-
+    https://www.tabletmag.com/sections/arts-letters/articles/histoire-de-serge-gainsbourg
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:47:56.983893
+entry_created: 2025-09-22T21:47:56.983Z
 last_updated: '2025-12-23T08:16:15.494244'
+is_active: false
+artist_type: person
 ---
 
 ![](Serge_Gainsbourg.jpg)

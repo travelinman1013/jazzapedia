@@ -3,14 +3,15 @@ title: George Lewis Ragtime Jazz Band O
 wiki_slug: george-lewis-ragtime-jazz-band-o
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- ragtime
+  - ragtime
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/george_lewis_ragtime_jazz_band_o.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/george_lewis_ragtime_jazz_band_o.jpg
   caption: George Lewis Ragtime Jazz Band O
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 116.6
   energy_avg: 0.752
@@ -26,48 +27,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bunk Johnson
-  - Lawrence Marrero
-  - Alcide Pavageau
-  - Jim Robinson
-  - Ken Colyer
+    - Bunk Johnson
+    - Lawrence Marrero
+    - Alcide Pavageau
+    - Jim Robinson
+    - Ken Colyer
   influenced:
-  - Monty Sunshine
-  - Acker Bilk
-  - Preservation Hall Jazz Band members
+    - Monty Sunshine
+    - Acker Bilk
+    - Preservation Hall Jazz Band members
   mentors:
-  - Isadore Fritz
+    - Isadore Fritz
 spotify_data:
   followers: 31
   id: 2SlbptrxDQH2D6w1tfckwx
   popularity: 0
-  url: https://open.spotify.com/artist/2SlbptrxDQH2D6w1tfckwx
+  url: 'https://open.spotify.com/artist/2SlbptrxDQH2D6w1tfckwx'
 discography_enriched: true
 top_tracks:
-- It's A Long, Long Way To Tipperary (Jazz In The Classic New Orleans Tradition)
-- 'Weary Blues (Birthright: A Black Roots Music Compendium)'
-- 'Weary Blues (Birthright: A Black Roots Music Compendium (Traditional Jazz Sampler))'
-- Panama - Live (Live at Boston Mass Arts Festival 1963)
-- Just a Closer Walk with Thee - Live (Live at Boston Mass Arts Festival 1963)
-- Washington & Lee Swing - Live (Live at Boston Mass Arts Festival 1963)
-- Walking with the King - Live (Live at Boston Mass Arts Festival 1963)
-- Burgundy Street Blues - Live (Live at Boston Mass Arts Festival 1963)
-- Ice Cream - Live (Live at Boston Mass Arts Festival 1963)
-- Chinatown, My Chinatown - Live (Live at Boston Mass Arts Festival 1963)
+  - >-
+    It's A Long, Long Way To Tipperary (Jazz In The Classic New Orleans
+    Tradition)
+  - 'Weary Blues (Birthright: A Black Roots Music Compendium)'
+  - >-
+    Weary Blues (Birthright: A Black Roots Music Compendium (Traditional Jazz
+    Sampler))
+  - Panama - Live (Live at Boston Mass Arts Festival 1963)
+  - Just a Closer Walk with Thee - Live (Live at Boston Mass Arts Festival 1963)
+  - Washington & Lee Swing - Live (Live at Boston Mass Arts Festival 1963)
+  - Walking with the King - Live (Live at Boston Mass Arts Festival 1963)
+  - Burgundy Street Blues - Live (Live at Boston Mass Arts Festival 1963)
+  - Ice Cream - Live (Live at Boston Mass Arts Festival 1963)
+  - 'Chinatown, My Chinatown - Live (Live at Boston Mass Arts Festival 1963)'
 external_urls:
-  spotify: https://open.spotify.com/artist/2SlbptrxDQH2D6w1tfckwx
-  wikipedia: https://en.wikipedia.org/wiki/George_Lewis_(clarinetist)
-image_path: 03_Resources/source_material/ArtistPortraits/george_lewis_ragtime_jazz_band_o.jpg
+  spotify: 'https://open.spotify.com/artist/2SlbptrxDQH2D6w1tfckwx'
+  wikipedia: 'https://en.wikipedia.org/wiki/George_Lewis_(clarinetist)'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/george_lewis_ragtime_jazz_band_o.jpg
 biography_enhanced_at: '2025-10-25T09:52:31.300531'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/George_Lewis_(clarinetist)
-- https://64parishes.org/entry/george-lewis
-- https://hnoc.org/events/19th-annual-bill-russell-lecture-life-and-music-new-orleans-legend-george-lewis
+  - 'https://en.wikipedia.org/wiki/George_Lewis_(clarinetist)'
+  - 'https://64parishes.org/entry/george-lewis'
+  - >-
+    https://hnoc.org/events/19th-annual-bill-russell-lecture-life-and-music-new-orleans-legend-george-lewis
 network_extracted: true
 entry_created: '2025-10-25T09:52:31.300540'
 last_updated: '2025-12-23T08:16:09.104419'
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1900-07-13'
+artist_type: person
 ---
 
 ![](george_lewis_ragtime_jazz_band_o.jpg)

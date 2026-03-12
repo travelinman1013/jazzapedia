@@ -5,12 +5,12 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1958-05-13'
-birth_place: Lubumbashi
+birth_place: 'Lubumbashi, Democratic Republic of the Congo'
 death_date: '2022-12-10'
 genres:
-- rumba congolaise
-- salsa romantica
-- azonto
+  - rumba congolaise
+  - salsa romantica
+  - azonto
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/tshala_muana.jpg
   caption: Tshala Muana
@@ -33,53 +33,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Aladji Touré
-  - Rigo Star Bamundele
-  - Mbilia Bel
+    - Aladji Touré
+    - Rigo Star Bamundele
+    - Mbilia Bel
   influenced:
-  - Mbilia Bel
-  - Younger Congolese female artists
+    - Mbilia Bel
+    - Younger Congolese female artists
   mentors:
-  - M'Pongo Love
-  - Abeti Masikini
+    - M'Pongo Love
+    - Abeti Masikini
 spotify_data:
   followers: 34082
   id: 7Eg9NJC0jFmuEtqT1N5Bdv
   popularity: 33
-  url: https://open.spotify.com/artist/7Eg9NJC0jFmuEtqT1N5Bdv
+  url: 'https://open.spotify.com/artist/7Eg9NJC0jFmuEtqT1N5Bdv'
 discography_enriched: true
 top_tracks:
-- Lekela Muadi (Mutuashi)
-- Malu (Menteurs)
-- Man wenu (Tshala muana)
-- Karibou Yangu
-- Malu deux (Sikila)
-- Nasi-Nabali (Soukous Siren)
-- Karibou Yangu
-- Karibou Yangu
-- Lwa Touye
-- Nasi - Nabali
+  - Lekela Muadi (Mutuashi)
+  - Malu (Menteurs)
+  - Man wenu (Tshala muana)
+  - Karibou Yangu
+  - Malu deux (Sikila)
+  - Nasi-Nabali (Soukous Siren)
+  - Karibou Yangu
+  - Karibou Yangu
+  - Lwa Touye
+  - Nasi - Nabali
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6cb2bc33-6e78-4154-8005-04eec75608ef
-  spotify: https://open.spotify.com/artist/7Eg9NJC0jFmuEtqT1N5Bdv
-  wikipedia: https://en.wikipedia.org/wiki/Tshala_Muana
+  musicbrainz: 'https://musicbrainz.org/artist/6cb2bc33-6e78-4154-8005-04eec75608ef'
+  spotify: 'https://open.spotify.com/artist/7Eg9NJC0jFmuEtqT1N5Bdv'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tshala_Muana'
 image_path: 03_Resources/source_material/ArtistPortraits/tshala_muana.jpg
 biography_enhanced_at: '2025-11-16T20:23:14.902889'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Tshala_Muana
-- http://afroriginal.blogspot.com/2021/04/tshala-muana.html
-- https://www.last.fm/music/Tshala+Muana/+wiki
-- https://jabulaniradio.com/news/tshala-muana-the-songbird-of-drc-137
+  - 'https://en.wikipedia.org/wiki/Tshala_Muana'
+  - 'http://afroriginal.blogspot.com/2021/04/tshala-muana.html'
+  - 'https://www.last.fm/music/Tshala+Muana/+wiki'
+  - 'https://jabulaniradio.com/news/tshala-muana-the-songbird-of-drc-137'
 network_extracted: true
 entry_created: '2025-11-16T20:23:14.902901'
 last_updated: '2025-12-23T08:16:17.730539'
 gender: Female
 musicbrainz_id: 6cb2bc33-6e78-4154-8005-04eec75608ef
 tags:
-- soukous
-
+  - soukous
+is_active: false
 ---
 
 ![](tshala_muana.jpg)

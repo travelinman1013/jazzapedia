@@ -5,16 +5,16 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1902-04-01'
-birth_place: Rio de Janeiro
+birth_place: 'Rio de Janeiro, Rio de Janeiro, Brazil'
 death_date: '2000-06-06'
 genres:
-- samba
+  - samba
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6006f3ee-3848-4bf6-b78b-93413e1cf659
-  name: Moreira, Bezerra e Dicró
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6006f3ee-3848-4bf6-b78b-93413e1cf659
+    name: 'Moreira, Bezerra e Dicró'
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/moreira_da_silva.jpg
   caption: Moreira da Silva
@@ -28,7 +28,7 @@ audio_profile:
   valence_avg: 0.887
   danceability_avg: 0.676
   acousticness_avg: 0.638
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -11.4
   speechiness_avg: 0.327
   liveness_avg: 0.188
@@ -37,51 +37,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Various Rio de Janeiro samba musicians and ensembles
+    - Various Rio de Janeiro samba musicians and ensembles
   influenced:
-  - Later samba-de-breque and narrative samba artists
+    - Later samba-de-breque and narrative samba artists
   mentors:
-  - Rio de Janeiro urban samba tradition
+    - Rio de Janeiro urban samba tradition
 spotify_data:
   followers: 64157
   id: 73gbBVz7ei7Pg9TCCsm3xB
   popularity: 31
-  url: https://open.spotify.com/artist/73gbBVz7ei7Pg9TCCsm3xB
+  url: 'https://open.spotify.com/artist/73gbBVz7ei7Pg9TCCsm3xB'
 discography_enriched: true
 top_tracks:
-- 3 Malandros in Concert (Os 3 Malandros In Concert)
-- Ressucita Ele (Os 3 Malandros In Concert)
-- Conversa De Botequim (Conversa De Botequim)
-- Rei Do Gatilho (O Rei Do Gatilho)
-- Ópera do Morro (Os 3 Malandros In Concert)
-- Piston De Gafieira (Conversa De Botequim)
-- Acertei No Milhar (O Rei Do Gatilho)
-- Os Três Pagodeiros do Rio (Os 3 Malandros In Concert)
-- O Recital (Os 3 Malandros In Concert)
-- Um Gago Apaixonado (O Jovem Moreira)
+  - 3 Malandros in Concert (Os 3 Malandros In Concert)
+  - Ressucita Ele (Os 3 Malandros In Concert)
+  - Conversa De Botequim (Conversa De Botequim)
+  - Rei Do Gatilho (O Rei Do Gatilho)
+  - Ópera do Morro (Os 3 Malandros In Concert)
+  - Piston De Gafieira (Conversa De Botequim)
+  - Acertei No Milhar (O Rei Do Gatilho)
+  - Os Três Pagodeiros do Rio (Os 3 Malandros In Concert)
+  - O Recital (Os 3 Malandros In Concert)
+  - Um Gago Apaixonado (O Jovem Moreira)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e54ff3e3-8e59-47c8-822b-5cd366a25c3e
-  spotify: https://open.spotify.com/artist/73gbBVz7ei7Pg9TCCsm3xB
-  wikipedia: https://en.wikipedia.org/wiki/Moreira_da_Silva
+  musicbrainz: 'https://musicbrainz.org/artist/e54ff3e3-8e59-47c8-822b-5cd366a25c3e'
+  spotify: 'https://open.spotify.com/artist/73gbBVz7ei7Pg9TCCsm3xB'
+  wikipedia: 'https://en.wikipedia.org/wiki/Moreira_da_Silva'
 image_path: 03_Resources/source_material/ArtistPortraits/moreira_da_silva.jpg
 biography_enhanced_at: '2025-12-21T01:25:54.889074'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://musicabrasilis.org.br/en/compositores/16478/
-- https://www.last.fm/music/Moreira+da+Silva
-- https://adp.library.ucsb.edu/index.php/mastertalent/detail/107353/Silva_Antonio_Moreira_da
-- https://www.wikidata.org/wiki/Q3891609
-- https://www.wisdomlib.org/names/moreira-da-silva
+  - 'https://musicabrasilis.org.br/en/compositores/16478/'
+  - 'https://www.last.fm/music/Moreira+da+Silva'
+  - >-
+    https://adp.library.ucsb.edu/index.php/mastertalent/detail/107353/Silva_Antonio_Moreira_da
+  - 'https://www.wikidata.org/wiki/Q3891609'
+  - 'https://www.wisdomlib.org/names/moreira-da-silva'
 network_extracted: true
 entry_created: '2025-12-21T01:25:54.889078'
 last_updated: '2025-12-23T08:16:13.270020'
 gender: Male
 musicbrainz_id: e54ff3e3-8e59-47c8-822b-5cd366a25c3e
 tags:
-- samba
-- samba de breque
-- samba-canção
+  - samba
+  - samba de breque
+  - samba-canção
+is_active: false
+origin: 'Rio de Janeiro, Rio de Janeiro, Brazil'
 ---
 
 ![](moreira_da_silva.jpg)

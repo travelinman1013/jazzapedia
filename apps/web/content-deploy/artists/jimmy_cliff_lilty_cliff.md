@@ -1,18 +1,18 @@
 ---
-title: Jimmy Cliff, Lilty Cliff
+title: 'Jimmy Cliff, Lilty Cliff'
 wiki_slug: jimmy-cliff-lilty-cliff
 schema_version: 2
 status: active
-birth_place: Somerton, St. James Parish, Jamaica
+birth_place: 'Somerton, St. James Parish, Jamaica'
 genres:
-- reggae
-- rocksteady
-- roots reggae
+  - reggae
+  - rocksteady
+  - roots reggae
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jimmy_cliff_lilty_cliff.jpg
-  caption: Jimmy Cliff, Lilty Cliff
+  caption: 'Jimmy Cliff, Lilty Cliff'
   background: solo_singer
-  origin: Somerton, St. James Parish, Jamaica
+  origin: 'Somerton, St. James Parish, Jamaica'
 audio_profile:
   tempo_avg: 118.2
   energy_avg: 0.511
@@ -28,47 +28,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tim Armstrong
-  - The Harder They Come film production
+    - Tim Armstrong
+    - The Harder They Come film production
   influenced:
-  - Paul Simon
-  - Lucky Dube
+    - Paul Simon
+    - Lucky Dube
   mentors:
-  - Leslie Kong
-  - Joe (Trench Town musician)
-  - Chris Blackwell
+    - Leslie Kong
+    - Joe (Trench Town musician)
+    - Chris Blackwell
 spotify_data:
   followers: 869926
   id: 3rJ3m1tM6vUgiWLjfV8sRf
   popularity: 63
-  url: https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf
+  url: 'https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf'
 discography_enriched: true
 top_tracks:
-- You Can Get It If You Really Want (The Harder They Come (Original Motion Picture Soundtrack))
-- I Can See Clearly Now
-- I Can See Clearly Now
-- The Harder They Come (The Harder They Come (Original Motion Picture Soundtrack))
-- Wonderful World, Beautiful People - Single Version (Wonderful World, Beautiful People)
-- Reggae Night (The Power And The Glory)
-- Reggae Night
-- Many Rivers To Cross (Wonderful World, Beautiful People)
-- Rebel In Me
-- I Can See Clearly Now (Sunshine In The Music)
+  - >-
+    You Can Get It If You Really Want (The Harder They Come (Original Motion
+    Picture Soundtrack))
+  - I Can See Clearly Now
+  - I Can See Clearly Now
+  - >-
+    The Harder They Come (The Harder They Come (Original Motion Picture
+    Soundtrack))
+  - >-
+    Wonderful World, Beautiful People - Single Version (Wonderful World,
+    Beautiful People)
+  - Reggae Night (The Power And The Glory)
+  - Reggae Night
+  - 'Many Rivers To Cross (Wonderful World, Beautiful People)'
+  - Rebel In Me
+  - I Can See Clearly Now (Sunshine In The Music)
 external_urls:
-  spotify: https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf
+  spotify: 'https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf'
   wikipedia: Not provided in search results
 image_path: 03_Resources/source_material/ArtistPortraits/jimmy_cliff_lilty_cliff.jpg
 biography_enhanced_at: '2025-12-04T08:19:04.637651'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.britannica.com/biography/Jimmy-Cliff
-- https://jis.gov.jm/jamaica/jimmy-cliff/
-- https://www.jimmycliff.com/bio/
-- 'YouTube: Story of Jimmy Cliff: Reggae''s First King'
+  - 'https://www.britannica.com/biography/Jimmy-Cliff'
+  - 'https://jis.gov.jm/jamaica/jimmy-cliff/'
+  - 'https://www.jimmycliff.com/bio/'
+  - 'YouTube: Story of Jimmy Cliff: Reggae''s First King'
 network_extracted: true
 entry_created: '2025-12-04T08:19:04.637662'
 last_updated: '2025-12-23T08:16:10.430405'
+birth_date: '1944-07-30'
+artist_type: person
 ---
 
 ![](jimmy_cliff_lilty_cliff.jpg)

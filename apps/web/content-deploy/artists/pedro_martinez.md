@@ -1,20 +1,20 @@
 ---
-title: pedro martinez
+title: Pedro Martinez
 wiki_slug: pedro-martinez
 schema_version: 2
 status: active
-birth_place: Havana, Cuba
+birth_place: 'Havana, Cuba, Cuba'
 genres:
-- latin jazz
-- timba
-- son cubano
+  - latin jazz
+  - timba
+  - son cubano
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/pedro_martinez.jpg
   caption: pedro martinez
   background: solo_singer
-  origin: Havana, Cuba
+  origin: 'Havana, Cuba'
 audio_profile:
-  tempo_avg: 115.0
+  tempo_avg: 115
   energy_avg: 0.696
   valence_avg: 0.698
   danceability_avg: 0.696
@@ -28,52 +28,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Yerba Buena
-  - Wynton Marsalis
-  - Paul Simon
-  - Paquito D’Rivera
+    - Yerba Buena
+    - Wynton Marsalis
+    - Paul Simon
+    - Paquito D’Rivera
   influenced:
-  - Román Díaz
-  - Younger Latin jazz percussionists
+    - Román Díaz
+    - Younger Latin jazz percussionists
   mentors:
-  - Tata Güines
-  - Changuito (José Luis Quintana)
+    - Tata Güines
+    - Changuito (José Luis Quintana)
 spotify_data:
   followers: 29479
   id: 3Ik2TovwBiWawoShYwa4Hh
   popularity: 31
-  url: https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh
+  url: 'https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh'
 discography_enriched: true
 top_tracks:
-- Cuba Isla Bella (feat. Gente de Zona, Leoni Torres, Isaac Delgado, Buena Fe, Descemer Bueno, Laritza Bacallao, Waldo Mendoza
-  & Pedrito Martinez)
-- River Rises (Look out Now!)
-- Ilusión Óptica
-- Loco Amor
-- Nos Volveremos a Encontrar (Ilusión Óptica)
-- La Luna (The Pedrito Martinez Group)
-- Yo Vivo Enamorao (Ilusión Óptica)
-- Ayuda (Ilusión Óptica)
-- Paint It, Black
-- Yo Sí Quiero (Acertijos)
+  - >-
+    Cuba Isla Bella (feat. Gente de Zona, Leoni Torres, Isaac Delgado, Buena Fe,
+    Descemer Bueno, Laritza Bacallao, Waldo Mendoza & Pedrito Martinez)
+  - River Rises (Look out Now!)
+  - Ilusión Óptica
+  - Loco Amor
+  - Nos Volveremos a Encontrar (Ilusión Óptica)
+  - La Luna (The Pedrito Martinez Group)
+  - Yo Vivo Enamorao (Ilusión Óptica)
+  - Ayuda (Ilusión Óptica)
+  - 'Paint It, Black'
+  - Yo Sí Quiero (Acertijos)
 external_urls:
-  spotify: https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh
-  wikipedia: https://en.wikipedia.org/wiki/Pedrito_Martinez
+  spotify: 'https://open.spotify.com/artist/3Ik2TovwBiWawoShYwa4Hh'
+  wikipedia: 'https://en.wikipedia.org/wiki/Pedrito_Martinez'
 image_path: 03_Resources/source_material/ArtistPortraits/pedro_martinez.jpg
 biography_enhanced_at: '2025-11-02T07:33:00.859125'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://zildjian.com/blogs/artist/pedro-martinez
-- https://www.allaboutjazz.com/musicians/pedrito-martinez/
-- https://groundupmusic.net/artists/pedritomartinez
-- https://www.hollywoodbowl.com/musicdb/artists/9855/pedrito-martinez
-- https://www.thekurlandagency.com/artist/pedrito-martinez/
-- https://www.latinpulsemusic.com/artists/show/153
-- https://www.jazzalley.com/www-home/artist.jsp?shownum=3894
+  - 'https://zildjian.com/blogs/artist/pedro-martinez'
+  - 'https://www.allaboutjazz.com/musicians/pedrito-martinez/'
+  - 'https://groundupmusic.net/artists/pedritomartinez'
+  - 'https://www.hollywoodbowl.com/musicdb/artists/9855/pedrito-martinez'
+  - 'https://www.thekurlandagency.com/artist/pedrito-martinez/'
+  - 'https://www.latinpulsemusic.com/artists/show/153'
+  - 'https://www.jazzalley.com/www-home/artist.jsp?shownum=3894'
 network_extracted: true
 entry_created: '2025-11-02T07:33:00.859136'
 last_updated: '2025-12-23T08:16:14.149916'
+birth_date: '1973-09-12'
+artist_type: person
 ---
 
 ![](pedro_martinez.jpg)

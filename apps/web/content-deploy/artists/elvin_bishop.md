@@ -5,41 +5,41 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1942-10-21'
-birth_place: Glendale
+birth_place: 'Glendale, California, United States'
 genres:
-- southern rock
+  - southern rock
 instruments:
-- eponymous
-- original
-- guitar
-- lead vocals
-- slide guitar
-- electric guitar
-associated_acts:
-- begin: '1963'
-  end: '1968'
-  instruments: []
-  mbid: 20dcf3aa-c313-4f24-acd4-461327a76a73
-  name: The Paul Butterfield Blues Band
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
-  mbid: 69584db0-66b2-4fc1-a72a-6e90e2d47f0c
-  name: The Elvin Bishop Group
-- begin: ''
-  end: ''
-  instruments:
   - original
-  mbid: a87abe94-dc4d-4d12-9311-55e1dcdf694b
-  name: The Elvin Bishop Band
-- begin: ''
-  end: ''
-  instruments:
   - guitar
   - lead vocals
-  mbid: 469f3588-f9d1-4534-930f-beb5e1653ba3
-  name: Elvin Bishop’s Big Fun Trio
+  - slide guitar
+  - electric guitar
+associated_acts:
+  - begin: '1963'
+    end: '1968'
+    instruments: []
+    mbid: 20dcf3aa-c313-4f24-acd4-461327a76a73
+    name: The Paul Butterfield Blues Band
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 69584db0-66b2-4fc1-a72a-6e90e2d47f0c
+    name: The Elvin Bishop Group
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: a87abe94-dc4d-4d12-9311-55e1dcdf694b
+    name: The Elvin Bishop Band
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+      - lead vocals
+    mbid: 469f3588-f9d1-4534-930f-beb5e1653ba3
+    name: Elvin Bishop’s Big Fun Trio
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/elvin_bishop.jpg
   caption: Elvin Bishop
@@ -61,56 +61,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Paul Butterfield
-  - Mike Bloomfield
-  - Mickey Thomas
-  - B.B. King
-  - Charlie Musselwhite
+    - Paul Butterfield
+    - Mike Bloomfield
+    - Mickey Thomas
+    - B.B. King
+    - Charlie Musselwhite
   influenced:
-  - The Allman Brothers Band
-  - Derek and the Dominos
+    - The Allman Brothers Band
+    - Derek and the Dominos
   mentors:
-  - Smokey Smothers
+    - Smokey Smothers
 spotify_data:
   followers: 113866
   id: 2G1yVp387GlUf9yvLk6V11
   popularity: 48
-  url: https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11
+  url: 'https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11'
 discography_enriched: true
 top_tracks:
-- Fooled Around And Fell In Love (Struttin' My Stuff)
-- Fooled Around And Fell In Love
-- Fooled Around And Fell In Love
-- Travelin' Shoes (Let It Flow)
-- Devil's Slide (Don't Let The Bossman Get You Down!)
-- Fooled Around And Fell In Love
-- She Puts Me In The Mood (Big Fun)
-- Sure Feels Good (Juke Joint Jump)
-- Fooled Around And Fell In Love
-- Keep On Rollin' (Elvin Bishop's Big Fun Trio)
+  - Fooled Around And Fell In Love (Struttin' My Stuff)
+  - Fooled Around And Fell In Love
+  - Fooled Around And Fell In Love
+  - Travelin' Shoes (Let It Flow)
+  - Devil's Slide (Don't Let The Bossman Get You Down!)
+  - Fooled Around And Fell In Love
+  - She Puts Me In The Mood (Big Fun)
+  - Sure Feels Good (Juke Joint Jump)
+  - Fooled Around And Fell In Love
+  - Keep On Rollin' (Elvin Bishop's Big Fun Trio)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b1768592-294e-4e15-a892-eb8837dec3e4
-  spotify: https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11
-  wikipedia: https://en.wikipedia.org/wiki/Elvin_Bishop
+  musicbrainz: 'https://musicbrainz.org/artist/b1768592-294e-4e15-a892-eb8837dec3e4'
+  spotify: 'https://open.spotify.com/artist/2G1yVp387GlUf9yvLk6V11'
+  wikipedia: 'https://en.wikipedia.org/wiki/Elvin_Bishop'
 image_path: 03_Resources/source_material/ArtistPortraits/elvin_bishop.jpg
 biography_enhanced_at: '2025-10-30T11:55:08.453758'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Elvin_Bishop
-- https://www.elvinbishopmusic.com/about
-- https://www.imdb.com/name/nm1485919/bio/
-- https://backstage.ravinia.org/posts/elvin-bishop-digs-blues-in-his-old-school-shoes
+  - 'https://en.wikipedia.org/wiki/Elvin_Bishop'
+  - 'https://www.elvinbishopmusic.com/about'
+  - 'https://www.imdb.com/name/nm1485919/bio/'
+  - >-
+    https://backstage.ravinia.org/posts/elvin-bishop-digs-blues-in-his-old-school-shoes
 network_extracted: true
 entry_created: '2025-10-30T11:55:08.453776'
 last_updated: '2025-12-23T08:16:08.352533'
 gender: Male
 musicbrainz_id: b1768592-294e-4e15-a892-eb8837dec3e4
 tags:
-- blue-eyed soul
-- blues
-- blues rock
-
+  - blue-eyed soul
+  - blues
+  - blues rock
+origin: 'San Francisco, California, United States'
 ---
 
 ![](elvin_bishop.jpg)

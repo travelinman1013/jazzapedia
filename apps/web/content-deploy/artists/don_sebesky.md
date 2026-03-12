@@ -5,20 +5,20 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1937-12-10'
-birth_place: Perth Amboy
+birth_place: 'Perth Amboy, New Jersey, United States'
 death_date: '2023-04-29'
 genres:
-- big band
-- swing music
+  - big band
+  - swing music
 instruments:
-- piano
-- electric piano
+  - piano
+  - electric piano
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1b9f09e5-a9e8-4bbd-951a-f7ecc5e8350a
-  name: Maynard Ferguson and His Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1b9f09e5-a9e8-4bbd-951a-f7ecc5e8350a
+    name: Maynard Ferguson and His Orchestra
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/don_sebesky.jpg
   caption: Don Sebesky
@@ -41,57 +41,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Wes Montgomery
-  - George Benson
-  - Freddie Hubbard
-  - Creed Taylor
-  - Carlos Santana
+    - Wes Montgomery
+    - George Benson
+    - Freddie Hubbard
+    - Creed Taylor
+    - Carlos Santana
   influenced:
-  - Contemporary jazz arrangers and orchestrators
+    - Contemporary jazz arrangers and orchestrators
   mentors:
-  - Kai Winding
-  - Claude Thornhill
-  - Maynard Ferguson
+    - Kai Winding
+    - Claude Thornhill
+    - Maynard Ferguson
 spotify_data:
   followers: 1835
   id: 4yr0fHJhSr7ZWlsoZIbg44
   popularity: 32
-  url: https://open.spotify.com/artist/4yr0fHJhSr7ZWlsoZIbg44
+  url: 'https://open.spotify.com/artist/4yr0fHJhSr7ZWlsoZIbg44'
 discography_enriched: true
 top_tracks:
-- Snowfall (Let's Share Christmas)
-- When I'm 64 (John Pizzarelli Meets The Beatles)
-- Yesterday's Dreams (First Light (CTI Records 40th Anniversary Edition))
-- The Rite Of Spring (Three Works For Jazz Soloists & Symphony Orchestra)
-- Things We Said Today (John Pizzarelli Meets The Beatles)
-- Get Back (John Pizzarelli Meets The Beatles)
-- You've Got To Hide Your Love Away (John Pizzarelli Meets The Beatles)
-- Oh Darling (John Pizzarelli Meets The Beatles)
-- For No One (John Pizzarelli Meets The Beatles)
-- (I've Got A Gal In) Kalamazoo (Our Love Is Here To Stay)
+  - Snowfall (Let's Share Christmas)
+  - When I'm 64 (John Pizzarelli Meets The Beatles)
+  - Yesterday's Dreams (First Light (CTI Records 40th Anniversary Edition))
+  - The Rite Of Spring (Three Works For Jazz Soloists & Symphony Orchestra)
+  - Things We Said Today (John Pizzarelli Meets The Beatles)
+  - Get Back (John Pizzarelli Meets The Beatles)
+  - You've Got To Hide Your Love Away (John Pizzarelli Meets The Beatles)
+  - Oh Darling (John Pizzarelli Meets The Beatles)
+  - For No One (John Pizzarelli Meets The Beatles)
+  - (I've Got A Gal In) Kalamazoo (Our Love Is Here To Stay)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7524bc67-cdc8-4210-ac74-dc6b1d94d788
-  spotify: https://open.spotify.com/artist/4yr0fHJhSr7ZWlsoZIbg44
-  wikipedia: https://en.wikipedia.org/wiki/Don_Sebesky
+  musicbrainz: 'https://musicbrainz.org/artist/7524bc67-cdc8-4210-ac74-dc6b1d94d788'
+  spotify: 'https://open.spotify.com/artist/4yr0fHJhSr7ZWlsoZIbg44'
+  wikipedia: 'https://en.wikipedia.org/wiki/Don_Sebesky'
 image_path: 03_Resources/source_material/ArtistPortraits/don_sebesky.jpg
 biography_enhanced_at: '2025-12-11T03:46:47.719064'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- WRTI obituary and career overview[1]
-- ROVR artist biography[2]
-- KNKX remembrance feature[3]
-- LeDor Publishing biography[4]
-- All About Jazz profile on Don Sebesky[5]
-- Manhattan School of Music planned giving profile[6]
-- Living Jazz Archives – Don Sebesky Collection biography[7]
+  - 'WRTI obituary and career overview[1]'
+  - 'ROVR artist biography[2]'
+  - 'KNKX remembrance feature[3]'
+  - 'LeDor Publishing biography[4]'
+  - 'All About Jazz profile on Don Sebesky[5]'
+  - 'Manhattan School of Music planned giving profile[6]'
+  - 'Living Jazz Archives – Don Sebesky Collection biography[7]'
 network_extracted: true
 entry_created: '2025-12-11T03:46:47.719074'
 last_updated: '2025-12-23T08:16:07.910036'
 gender: Male
 musicbrainz_id: 7524bc67-cdc8-4210-ac74-dc6b1d94d788
 tags:
-- jazz
+  - jazz
+is_active: false
 ---
 
 ![](don_sebesky.jpg)

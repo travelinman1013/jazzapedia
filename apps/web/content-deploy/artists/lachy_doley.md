@@ -1,33 +1,33 @@
 ---
-title: lachy doley
+title: Lachy Doley
 wiki_slug: lachy-doley
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1978'
-birth_place: Adelaide, South Australia, Australia
+birth_place: 'Adelaide, South Australia, Australia'
 genres:
-- blues rock
+  - blues rock
 instruments:
-- clavinet
-- Hammond organ
-- lead vocals
-- piano
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - clavinet
   - Hammond organ
   - lead vocals
-  mbid: 88798062-2e5f-4589-bb30-c4e443805fc5
-  name: The Lachy Doley Group
+  - piano
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - clavinet
+      - Hammond organ
+      - lead vocals
+    mbid: 88798062-2e5f-4589-bb30-c4e443805fc5
+    name: The Lachy Doley Group
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lachy_doley.jpg
   caption: lachy doley
   background: solo_singer
   born: '1978'
-  origin: Adelaide, South Australia, Australia
+  origin: 'Adelaide, South Australia, Australia'
 audio_profile:
   tempo_avg: 127.2
   energy_avg: 0.703
@@ -43,52 +43,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Powderfinger
-  - Joe Bonamassa
-  - Glenn Hughes
-  - Jimmy Barnes
-  - Steve Vai
-  - Bootsy Collins
-  - Billy Thorpe
-  - The Beautiful Girls
+    - Powderfinger
+    - Joe Bonamassa
+    - Glenn Hughes
+    - Jimmy Barnes
+    - Steve Vai
+    - Bootsy Collins
+    - Billy Thorpe
+    - The Beautiful Girls
   influenced: []
   mentors:
-  - Clayton Doley
+    - Clayton Doley
 spotify_data:
   followers: 17990
   id: 5ep1j3SaxtyVV4lLHHkjfI
   popularity: 26
-  url: https://open.spotify.com/artist/5ep1j3SaxtyVV4lLHHkjfI
+  url: 'https://open.spotify.com/artist/5ep1j3SaxtyVV4lLHHkjfI'
 discography_enriched: true
 top_tracks:
-- What A Night (What A Night)
-- Get out Your Ear's Way (A World Worth Fighting For)
-- Gimme Some Lovin' (Double Figures)
-- Voodoo Child (Slight Return) (Voodoo Child (Slight Return))
-- Get out Your Ear's Way (Get out Your Ear's Way)
-- Don't Beat Yourself Up (A World Worth Fighting For)
-- I'm a Man (Studios 301 Sessions)
-- Stop Listening to the Blues (Double Figures)
-- Betcha I'll Getcha (Studios 301 Sessions)
-- Gimme Some Lovin' (Gimme Some Lovin')
+  - What A Night (What A Night)
+  - Get out Your Ear's Way (A World Worth Fighting For)
+  - Gimme Some Lovin' (Double Figures)
+  - Voodoo Child (Slight Return) (Voodoo Child (Slight Return))
+  - Get out Your Ear's Way (Get out Your Ear's Way)
+  - Don't Beat Yourself Up (A World Worth Fighting For)
+  - I'm a Man (Studios 301 Sessions)
+  - Stop Listening to the Blues (Double Figures)
+  - Betcha I'll Getcha (Studios 301 Sessions)
+  - Gimme Some Lovin' (Gimme Some Lovin')
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6ffa8b98-078e-4dcd-a7ab-2f9bf529fd27
-  spotify: https://open.spotify.com/artist/5ep1j3SaxtyVV4lLHHkjfI
-  wikipedia: https://en.wikipedia.org/wiki/Lachy_Doley
+  musicbrainz: 'https://musicbrainz.org/artist/6ffa8b98-078e-4dcd-a7ab-2f9bf529fd27'
+  spotify: 'https://open.spotify.com/artist/5ep1j3SaxtyVV4lLHHkjfI'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lachy_Doley'
 image_path: 03_Resources/source_material/ArtistPortraits/lachy_doley.jpg
 biography_enhanced_at: '2025-11-29T07:01:45.069942'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Lachy Doley
-- MOKB Presents
-- Mountain Town Music
-- Duck Club Presents
-- Ruth Eckerd Hall
-- Joe's Place
-- musicfestnews.com
-- Australian Music Radio Airplay project
-- lachydoley.com
+  - Wikipedia - Lachy Doley
+  - MOKB Presents
+  - Mountain Town Music
+  - Duck Club Presents
+  - Ruth Eckerd Hall
+  - Joe's Place
+  - musicfestnews.com
+  - Australian Music Radio Airplay project
+  - lachydoley.com
 network_extracted: true
 entry_created: '2025-11-29T07:01:45.069954'
 last_updated: '2025-12-23T08:16:11.550194'

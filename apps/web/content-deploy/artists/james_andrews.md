@@ -1,46 +1,50 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-16T01:40:02.573205'
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-16T01:40:02.573211'
 external_urls:
-  spotify: https://open.spotify.com/artist/0a64NyXnMUydRlOi1V8J7Z
+  spotify: 'https://open.spotify.com/artist/0a64NyXnMUydRlOi1V8J7Z'
   wikipedia: ''
 genres:
-- brass band
-- cajun
-- zydeco
+  - brass band
+  - cajun
+  - zydeco
 image_path: 03_Resources/source_material/ArtistPortraits/james_andrews.jpg
 last_updated: '2026-01-16T01:40:02.573212'
 musical_connections:
   collaborators:
-  - Troy 'Trombone Shorty' Andrews
-  - Danny Barker
-  - Dizzy Gillespie
-  - Dr. John
-  - Crescent City All-Stars members (e.g., Kevin O’Day, Chris Severin, Richard Anderson)
+    - Troy 'Trombone Shorty' Andrews
+    - Danny Barker
+    - Dizzy Gillespie
+    - Dr. John
+    - >-
+      Crescent City All-Stars members (e.g., Kevin O’Day, Chris Severin, Richard
+      Anderson)
   influenced:
-  - Troy 'Trombone Shorty' Andrews
+    - Troy 'Trombone Shorty' Andrews
   mentors:
-  - Jesse Hill
-  - Allen Toussaint
+    - Jesse Hill
+    - Allen Toussaint
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://frenchquarterly.com/music/andrews-family-new-orleans-legacy
-- https://louisarmstrongjazzcamp.com/our-alumni/wonderful-world-of-louis-armstrong-band/james-andrew-bio/
-- https://www.offbeat.com/news/jazz-fest-focus-james-andrews/
-- https://www.crescentcityallstars.com
-- https://www.neworleans.com/listing/james-andrews/46408/
-- https://slamminmedia.ca/artist/jamesandrews/
+  - 'https://frenchquarterly.com/music/andrews-family-new-orleans-legacy'
+  - >-
+    https://louisarmstrongjazzcamp.com/our-alumni/wonderful-world-of-louis-armstrong-band/james-andrew-bio/
+  - 'https://www.offbeat.com/news/jazz-fest-focus-james-andrews/'
+  - 'https://www.crescentcityallstars.com'
+  - 'https://www.neworleans.com/listing/james-andrews/46408/'
+  - 'https://slamminmedia.ca/artist/jamesandrews/'
 spotify_data:
   followers: 2926
   id: 0a64NyXnMUydRlOi1V8J7Z
   popularity: 25
-  url: https://open.spotify.com/artist/0a64NyXnMUydRlOi1V8J7Z
+  url: 'https://open.spotify.com/artist/0a64NyXnMUydRlOi1V8J7Z'
 status: active
 title: James Andrews
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](james_andrews.jpg)

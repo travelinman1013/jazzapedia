@@ -1,19 +1,19 @@
 ---
-title: toots & the maytals
+title: Toots & the Maytals
 wiki_slug: toots-the-maytals
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1963'
 genres:
-- reggae
-- rocksteady
-- ska
-- roots reggae
-- dub
+  - reggae
+  - rocksteady
+  - ska
+  - roots reggae
+  - dub
 instruments:
-- background vocals
-- lead vocals
+  - background vocals
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/toots_and_the_maytals.jpg
   caption: toots & the maytals
@@ -34,89 +34,89 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Leslie Kong
-  - Chris Blackwell / Island Records
-  - Jackie Jackson, Hux Brown, Radcliffe "Dougie"/Rad Bryan, Paul Douglas
-  - Steve Winwood, Rico Rodriguez, Tommy McCook, Dudu Pukwana, Eddie Quansah
+    - Leslie Kong
+    - Chris Blackwell / Island Records
+    - 'Jackie Jackson, Hux Brown, Radcliffe "Dougie"/Rad Bryan, Paul Douglas'
+    - 'Steve Winwood, Rico Rodriguez, Tommy McCook, Dudu Pukwana, Eddie Quansah'
   influenced:
-  - Bob Marley & the Wailers (contemporary influence)
-  - Sister Nancy & Yellowman
-  - Multiple international rock, ska, and punk artists
+    - Bob Marley & the Wailers (contemporary influence)
+    - Sister Nancy & Yellowman
+    - 'Multiple international rock, ska, and punk artists'
   mentors:
-  - Clement "Coxsone" Dodd
-  - Prince Buster
-  - Byron Lee
+    - Clement "Coxsone" Dodd
+    - Prince Buster
+    - Byron Lee
 spotify_data:
   followers: 495432
   id: 6ZFv3wQwwWPiVDWhv0mjQK
   popularity: 56
-  url: https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK
+  url: 'https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK'
 discography_enriched: true
 top_tracks:
-- 54-46 Was My Number (In The Dark)
-- Pressure Drop - Single Version (Reggae Greats - Toots & The Maytals)
-- Country Road (Funky Kingston)
-- Funky Kingston (Funky Kingston)
-- Beautiful Woman (Knockout)
-- Time Tough (Funky Kingston)
-- Let Down (Radiodread)
-- Take Me Home, Country Roads
-- Sunshine on my Shoulders
-- Pressure Drop (Sweet and Dandy)
+  - 54-46 Was My Number (In The Dark)
+  - Pressure Drop - Single Version (Reggae Greats - Toots & The Maytals)
+  - Country Road (Funky Kingston)
+  - Funky Kingston (Funky Kingston)
+  - Beautiful Woman (Knockout)
+  - Time Tough (Funky Kingston)
+  - Let Down (Radiodread)
+  - 'Take Me Home, Country Roads'
+  - Sunshine on my Shoulders
+  - Pressure Drop (Sweet and Dandy)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/29730ee3-e1c7-4e28-9ccd-3a0e6b0e8103
-  spotify: https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK
-  wikipedia: https://en.wikipedia.org/wiki/Toots_and_the_Maytals
+  musicbrainz: 'https://musicbrainz.org/artist/29730ee3-e1c7-4e28-9ccd-3a0e6b0e8103'
+  spotify: 'https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK'
+  wikipedia: 'https://en.wikipedia.org/wiki/Toots_and_the_Maytals'
 image_path: 03_Resources/source_material/ArtistPortraits/toots_and_the_maytals.jpg
 biography_enhanced_at: '2025-12-07T04:51:17.480906'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.tootsandthemaytals.net/extended-toots-bio/
-- https://en.wikipedia.org/wiki/Toots_and_the_Maytals
-- https://www.reggaeville.com/artist-details/toots-the-maytals/about/
-- https://www.britannica.com/topic/Toots-and-the-Maytals
-- https://www.uvm.edu/~debate/dreadlibrary/sherman.html
+  - 'https://www.tootsandthemaytals.net/extended-toots-bio/'
+  - 'https://en.wikipedia.org/wiki/Toots_and_the_Maytals'
+  - 'https://www.reggaeville.com/artist-details/toots-the-maytals/about/'
+  - 'https://www.britannica.com/topic/Toots-and-the-Maytals'
+  - 'https://www.uvm.edu/~debate/dreadlibrary/sherman.html'
 network_extracted: true
 entry_created: '2025-12-07T04:51:17.480923'
 last_updated: '2025-12-23T08:16:17.634162'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 92249b72-2c62-4846-9a9c-1b03dcd72837
-  name: Harold Butler
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1a3b8eb8-8457-408c-925f-070ee6f59271
-  name: Paul Douglas
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6b42374d-d7b1-4065-b2b9-337a2faa1ca1
-  name: Henry "Raleigh" Gordon
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c4aaadaf-da28-4136-a888-f0008c710d58
-  name: Toots Hibbert
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c01388d6-b71c-4fc0-80bf-467cfe2fb4e9
-  name: Jackie Jackson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1f5710c6-0f74-44fa-a3a3-ee5c8e61953e
-  name: Nathaniel "Jerry" Mathias
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 92249b72-2c62-4846-9a9c-1b03dcd72837
+    name: Harold Butler
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1a3b8eb8-8457-408c-925f-070ee6f59271
+    name: Paul Douglas
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6b42374d-d7b1-4065-b2b9-337a2faa1ca1
+    name: Henry "Raleigh" Gordon
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c4aaadaf-da28-4136-a888-f0008c710d58
+    name: Toots Hibbert
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c01388d6-b71c-4fc0-80bf-467cfe2fb4e9
+    name: Jackie Jackson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1f5710c6-0f74-44fa-a3a3-ee5c8e61953e
+    name: Nathaniel "Jerry" Mathias
 musicbrainz_id: 29730ee3-e1c7-4e28-9ccd-3a0e6b0e8103
-origin: Kingston
+origin: 'Kingston, Jamaica, United States'
 tags:
-- jamaican ska
-- pop reggae
-- reggae
+  - jamaican ska
+  - pop reggae
+  - reggae
 ---
 
 ![](toots_and_the_maytals.jpg)

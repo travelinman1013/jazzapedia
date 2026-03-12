@@ -1,45 +1,53 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-12T01:54:49.478906'
-birth_place: Likely near Wheatland, Loudoun County, Virginia, United States
+birth_place: 'Likely near Wheatland, Loudoun County, Virginia, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-12T01:54:49.478911'
 external_urls:
-  spotify: https://open.spotify.com/artist/3WVC10fc1nCCQnXS1T9N7t
-  wikipedia: https://en.wikipedia.org/wiki/George_W._Johnson_(singer)
+  spotify: 'https://open.spotify.com/artist/3WVC10fc1nCCQnXS1T9N7t'
+  wikipedia: 'https://en.wikipedia.org/wiki/George_W._Johnson_(singer)'
 genres:
-- country christian
-- spoken word
-- southern gospel
+  - country christian
+  - spoken word
+  - southern gospel
 image_path: 03_Resources/source_material/ArtistPortraits/george_johnson.jpg
 last_updated: '2026-01-12T01:54:49.478912'
 musical_connections:
   collaborators:
-  - Len Spencer
-  - Charles Marshall (New York Phonograph Company) and Victor Emerson (New Jersey
-    Phonograph Company)
-  - Thomas A. Edison’s laboratory engineers and North American Phonograph Company
-    staff
+    - Len Spencer
+    - >-
+      Charles Marshall (New York Phonograph Company) and Victor Emerson (New
+      Jersey Phonograph Company)
+    - >-
+      Thomas A. Edison’s laboratory engineers and North American Phonograph
+      Company staff
   influenced:
-  - Later African American recording artists in the early 20th century (collective)
-  - John Wilfahrt (as “Whoopee” adaptation of “The Laughing Song”)
+    - >-
+      Later African American recording artists in the early 20th century
+      (collective)
+    - John Wilfahrt (as “Whoopee” adaptation of “The Laughing Song”)
   mentors:
-  - Unnamed white farmer’s family near Wheatland, Virginia
+    - 'Unnamed white farmer’s family near Wheatland, Virginia'
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/George_W._Johnson_(singer)
-- https://aaregistry.org/story/george-w-johnson-a-pioneer-in-american-recorded-music/
-- https://www.afropop.org/articles/afropop-gallery-of-talent-george-johnson-first-african-american-recording-artist-1891
-- https://travsd.wordpress.com/2021/02/24/george-w-johnson-first-black-recording-artist/
-- https://secondhandsongs.com/artist/74441/all
+  - 'https://en.wikipedia.org/wiki/George_W._Johnson_(singer)'
+  - >-
+    https://aaregistry.org/story/george-w-johnson-a-pioneer-in-american-recorded-music/
+  - >-
+    https://www.afropop.org/articles/afropop-gallery-of-talent-george-johnson-first-african-american-recording-artist-1891
+  - >-
+    https://travsd.wordpress.com/2021/02/24/george-w-johnson-first-black-recording-artist/
+  - 'https://secondhandsongs.com/artist/74441/all'
 spotify_data:
   followers: 328
   id: 3WVC10fc1nCCQnXS1T9N7t
   popularity: 7
-  url: https://open.spotify.com/artist/3WVC10fc1nCCQnXS1T9N7t
+  url: 'https://open.spotify.com/artist/3WVC10fc1nCCQnXS1T9N7t'
 status: active
 title: George Johnson
+origin: 'New York City, New York, United States'
 ---
 
 ![](george_johnson.jpg)

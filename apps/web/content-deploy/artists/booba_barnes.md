@@ -1,16 +1,16 @@
 ---
-title: booba barnes
+title: Booba Barnes
 wiki_slug: booba-barnes
 schema_version: 2
 status: active
-birth_place: Longwood, Mississippi, United States
+birth_place: 'Longwood, Mississippi, United States'
 genres:
-- blues
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/booba_barnes.jpg
   caption: booba barnes
   background: solo_singer
-  origin: Longwood, Mississippi, United States
+  origin: 'Longwood, Mississippi, United States'
 audio_profile:
   tempo_avg: 137.4
   energy_avg: 0.841
@@ -32,31 +32,46 @@ spotify_data:
   followers: 153
   id: 6uyNFLuFLTtgVwmmt8kG0o
   popularity: 1
-  url: https://open.spotify.com/artist/6uyNFLuFLTtgVwmmt8kG0o
+  url: 'https://open.spotify.com/artist/6uyNFLuFLTtgVwmmt8kG0o'
 discography_enriched: true
 top_tracks:
-- Heartbroken Man - Remastered 2022 (Deep Blues (Original Motion Picture Soundtrack) [Remastered 2022])
-- Ain't Gonna Worry About Tomorrow - Remastered 2022 (Deep Blues (Original Motion Picture Soundtrack) [Remastered 2022])
-- Love Like I Wanna - Remastered 2022 (Deep Blues (Original Motion Picture Soundtrack) [Remastered 2022])
-- Louise (Chicago's Best West & South Side Blues Singers Vol.1)
-- Booba Barnes - Heartbroken Man (Chicago's Best West & South Side Blues Singers Vol.1)
-- Booba Barnes - How Many More Years (Chicago's Best West & South Side Blues Singers Vol.1)
-- Booba Barnes - Heartbroken Man (Long Version) (Chicago's Best West & South Side Blues Singers Vol.1)
+  - >-
+    Heartbroken Man - Remastered 2022 (Deep Blues (Original Motion Picture
+    Soundtrack) [Remastered 2022])
+  - >-
+    Ain't Gonna Worry About Tomorrow - Remastered 2022 (Deep Blues (Original
+    Motion Picture Soundtrack) [Remastered 2022])
+  - >-
+    Love Like I Wanna - Remastered 2022 (Deep Blues (Original Motion Picture
+    Soundtrack) [Remastered 2022])
+  - Louise (Chicago's Best West & South Side Blues Singers Vol.1)
+  - >-
+    Booba Barnes - Heartbroken Man (Chicago's Best West & South Side Blues
+    Singers Vol.1)
+  - >-
+    Booba Barnes - How Many More Years (Chicago's Best West & South Side Blues
+    Singers Vol.1)
+  - >-
+    Booba Barnes - Heartbroken Man (Long Version) (Chicago's Best West & South
+    Side Blues Singers Vol.1)
 external_urls:
-  spotify: https://open.spotify.com/artist/6uyNFLuFLTtgVwmmt8kG0o
-  wikipedia: https://en.wikipedia.org/wiki/Booba_Barnes
+  spotify: 'https://open.spotify.com/artist/6uyNFLuFLTtgVwmmt8kG0o'
+  wikipedia: 'https://en.wikipedia.org/wiki/Booba_Barnes'
 image_path: ''
 biography_enhanced_at: '2025-11-27T06:34:00.418550'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Los Angeles Times Archives
-- Mississippi Writers and Musicians
-- Wikipedia - Booba Barnes
-- Encyclopedia.com
+  - Los Angeles Times Archives
+  - Mississippi Writers and Musicians
+  - Wikipedia - Booba Barnes
+  - Encyclopedia.com
 network_extracted: true
 entry_created: '2025-11-27T06:34:00.418568'
 last_updated: '2025-12-23T08:16:05.938573'
+birth_date: '1936-09-25'
+death_date: '1996-04-02'
+artist_type: person
 ---
 
 ![]()

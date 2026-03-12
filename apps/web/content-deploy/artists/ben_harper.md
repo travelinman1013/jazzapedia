@@ -1,89 +1,92 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '2010'
-  end: ''
-  instruments:
-  - original
-  mbid: a6e70253-7f00-4347-8cda-652f34526ebb
-  name: Fistful of Mercy
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 63ef369f-5a88-4a95-ae58-7803160b08b7
-  name: Ben Harper & The Innocent Criminals
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 78a8b409-89cc-4ec4-ba07-e41b8870fb4a
-  name: Ben Harper and Relentless7
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 860c6dab-3355-49f7-b916-0ebcab831768
-  name: HeyMike!
+  - begin: '2010'
+    end: ''
+    instruments:
+      - original
+    mbid: a6e70253-7f00-4347-8cda-652f34526ebb
+    name: Fistful of Mercy
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 63ef369f-5a88-4a95-ae58-7803160b08b7
+    name: Ben Harper & The Innocent Criminals
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 78a8b409-89cc-4ec4-ba07-e41b8870fb4a
+    name: Ben Harper and Relentless7
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 860c6dab-3355-49f7-b916-0ebcab831768
+    name: HeyMike!
 biography_enhanced_at: '2026-01-19T01:09:50.971312'
 birth_date: '1969-10-28'
-birth_place: Pomona
-disambiguation: singer, Weissenborn guitar player, The Innocent Criminals
+birth_place: 'Pomona, California, United States'
+disambiguation: 'singer, Weissenborn guitar player, The Innocent Criminals'
 enhancement_provider: perplexity
 entry_created: '2026-01-19T01:09:50.971318'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1582a5b8-538e-45e7-9ae4-4099439a0e79
-  spotify: https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN
-  wikipedia: https://en.wikipedia.org/wiki/Ben_Harper
+  musicbrainz: 'https://musicbrainz.org/artist/1582a5b8-538e-45e7-9ae4-4099439a0e79'
+  spotify: 'https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ben_Harper'
 gender: Male
 genres:
-- surf rock
+  - surf rock
 image_path: 03_Resources/source_material/ArtistPortraits/ben_harper.jpg
 instruments:
-- original
-- lap steel guitar
-- guitar
-- guitar family
-- acoustic guitar
-- classical guitar
-- slide guitar
-- Wurlitzer electric piano
-- electric guitar
-- background vocals
-- vocal
-- lead vocals
+  - original
+  - lap steel guitar
+  - guitar
+  - guitar family
+  - acoustic guitar
+  - classical guitar
+  - slide guitar
+  - Wurlitzer electric piano
+  - electric guitar
+  - background vocals
+  - vocal
+  - lead vocals
 last_updated: '2026-01-19T01:09:50.971319'
 musical_connections:
   collaborators:
-  - The Innocent Criminals (Leon Mobley, Juan Nelson, Oliver Charles)
-  - Tom Freund
-  - The Blind Boys of Alabama
-  - Dhani Harrison and Joseph Arthur
-  - Charlie Musselwhite
-  - Relentless7
+    - 'The Innocent Criminals (Leon Mobley, Juan Nelson, Oliver Charles)'
+    - Tom Freund
+    - The Blind Boys of Alabama
+    - Dhani Harrison and Joseph Arthur
+    - Charlie Musselwhite
+    - Relentless7
   influenced:
-  - Mavis Staples, The Blind Boys of Alabama, Natalie Maines, Rickie Lee Jones
+    - 'Mavis Staples, The Blind Boys of Alabama, Natalie Maines, Rickie Lee Jones'
   mentors:
-  - Taj Mahal
-  - Brownie McGhee, Sonny Terry, Doc Watson, John Fahey, Leonard Cohen, Jackson Browne
-  - Robert Johnson
+    - Taj Mahal
+    - >-
+      Brownie McGhee, Sonny Terry, Doc Watson, John Fahey, Leonard Cohen,
+      Jackson Browne
+    - Robert Johnson
 musicbrainz_id: 1582a5b8-538e-45e7-9ae4-4099439a0e79
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://morriscenter.org/event/ben-harper-the-innocent-criminals/
-- https://playingforchange.com/artists/ben-harper
-- https://www.famousafricanamericans.org/ben-harper
-- https://www.anti.com/artists/ben-harper/
-- https://www.lifegate.com/ben-harper-biography
+  - 'https://morriscenter.org/event/ben-harper-the-innocent-criminals/'
+  - 'https://playingforchange.com/artists/ben-harper'
+  - 'https://www.famousafricanamericans.org/ben-harper'
+  - 'https://www.anti.com/artists/ben-harper/'
+  - 'https://www.lifegate.com/ben-harper-biography'
 spotify_data:
   followers: 1060859
   id: 45lorWzrKLxfKlWpV7r9CN
   popularity: 61
-  url: https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN
+  url: 'https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN'
 status: active
 tags:
-- alternative pop
-- folk rock
-- rock
+  - alternative pop
+  - folk rock
+  - rock
 title: Ben Harper
+origin: 'Los Angeles, California, United States'
 ---
 
 ![](ben_harper.jpg)

@@ -3,13 +3,17 @@ title: Iman Europe
 wiki_slug: iman-europe
 schema_version: 2
 status: active
-birth_place: Los Angeles, California, United States (raised); New York, New York, United States (birthplace)
+birth_place: >-
+  Los Angeles, California, United States (raised); New York, New York, United
+  States (birthplace)
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/iman_europe.jpg
   caption: Iman Europe
   background: solo_singer
-  origin: Los Angeles, California, United States (raised); New York, New York, United States (birthplace)
+  origin: >-
+    Los Angeles, California, United States (raised); New York, New York, United
+    States (birthplace)
 audio_profile:
   tempo_avg: 119.8
   energy_avg: 0.593
@@ -25,46 +29,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Latashá Alcindor
+    - Latashá Alcindor
   influenced:
-  - Independent musicians in Web3
+    - Independent musicians in Web3
   mentors:
-  - Her father
-  - Her mother
+    - Her father
+    - Her mother
 spotify_data:
   followers: 12290
   id: 6adkmtXg0Qlmahg9SxNVl0
   popularity: 30
-  url: https://open.spotify.com/artist/6adkmtXg0Qlmahg9SxNVl0
+  url: 'https://open.spotify.com/artist/6adkmtXg0Qlmahg9SxNVl0'
 discography_enriched: true
 top_tracks:
-- masterpiece.
-- and so it's so.
-- moneymorphosis. (Moneymorphosis)
-- Mantra (feat. Iman Europe) (Bad Influence)
-- get widdit!
-- 'Divine Assignment (Mantra Loops Vol. 2: Embodied)'
-- MearlGo 10
-- come and get me
-- Blessing
-- 'Lowkey Lovesong (feat. Iman Europe) (Father Figure 2: Flourish)'
+  - masterpiece.
+  - and so it's so.
+  - moneymorphosis. (Moneymorphosis)
+  - Mantra (feat. Iman Europe) (Bad Influence)
+  - get widdit!
+  - 'Divine Assignment (Mantra Loops Vol. 2: Embodied)'
+  - MearlGo 10
+  - come and get me
+  - Blessing
+  - 'Lowkey Lovesong (feat. Iman Europe) (Father Figure 2: Flourish)'
 external_urls:
-  spotify: https://open.spotify.com/artist/6adkmtXg0Qlmahg9SxNVl0
+  spotify: 'https://open.spotify.com/artist/6adkmtXg0Qlmahg9SxNVl0'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/iman_europe.jpg
 biography_enhanced_at: '2025-11-21T07:07:22.426887'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.stereofox.com/artists/iman-europe/
-- https://zine.zora.co/iman-europe-latasha
-- https://accidentalentertainment.com/team/iman-europe/
-- https://voyagela.com/interview/meet-iman-europe-iman-europe-baldwin-hills/
-- http://www.imaneurope.com/presskit
-- https://purplemistress.com/2024/04/27/iman-europe-bridging-coasts-with-melodic-raps-and-lyrical-harmonies/
+  - 'https://www.stereofox.com/artists/iman-europe/'
+  - 'https://zine.zora.co/iman-europe-latasha'
+  - 'https://accidentalentertainment.com/team/iman-europe/'
+  - 'https://voyagela.com/interview/meet-iman-europe-iman-europe-baldwin-hills/'
+  - 'http://www.imaneurope.com/presskit'
+  - >-
+    https://purplemistress.com/2024/04/27/iman-europe-bridging-coasts-with-melodic-raps-and-lyrical-harmonies/
 network_extracted: true
 entry_created: '2025-11-21T07:07:22.426900'
 last_updated: '2025-12-23T08:16:09.829797'
+origin: 'Los Angeles, California, United States'
+artist_type: person
 ---
 
 ![](iman_europe.jpg)

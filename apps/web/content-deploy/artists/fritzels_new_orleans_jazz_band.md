@@ -1,45 +1,45 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2025-12-31T01:47:21.963518'
 enhancement_provider: perplexity
 entry_created: '2025-12-31T01:47:21.963522'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/578b0a5f-bc87-4223-a784-a0cae78c446f
-  spotify: https://open.spotify.com/artist/25gACRVudUjh4SPo9du9nK
+  musicbrainz: 'https://musicbrainz.org/artist/578b0a5f-bc87-4223-a784-a0cae78c446f'
+  spotify: 'https://open.spotify.com/artist/25gACRVudUjh4SPo9du9nK'
   wikipedia: ''
 genres:
-- ragtime
-image_path: 03_Resources/source_material/ArtistPortraits/fritzels_new_orleans_jazz_band.jpg
+  - ragtime
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/fritzels_new_orleans_jazz_band.jpg
 last_updated: '2025-12-31T01:47:21.963523'
 musical_connections:
   collaborators:
-  - Chuck Brackman
-  - Tom Fischer
-  - Barry Foulon
-  - Richard Scott
-  - Bradford Truby
-  - Brian Bess
-  - Gerald French
-  - Jamil Sharif
+    - Chuck Brackman
+    - Tom Fischer
+    - Barry Foulon
+    - Richard Scott
+    - Bradford Truby
+    - Brian Bess
+    - Gerald French
+    - Jamil Sharif
   influenced: []
   mentors: []
 musicbrainz_id: 578b0a5f-bc87-4223-a784-a0cae78c446f
 network_extracted: true
-origin: French Quarter, New Orleans, Louisiana, USA
+origin: 'French Quarter, New Orleans, Louisiana, USA'
 primary_source: perplexity
 research_sources:
-- https://www.allaboutjazz.com/fritzels-new-orleans-jazz-band-by-wade-luquet
-- https://fritzelsjazz.com/about/
-- https://fritzelsjazz.com
-- https://www.neworleans.com/listing/fritzels-all-star-band/46388/
+  - 'https://www.allaboutjazz.com/fritzels-new-orleans-jazz-band-by-wade-luquet'
+  - 'https://fritzelsjazz.com/about/'
+  - 'https://fritzelsjazz.com'
+  - 'https://www.neworleans.com/listing/fritzels-all-star-band/46388/'
 spotify_data:
   followers: 2369
   id: 25gACRVudUjh4SPo9du9nK
   popularity: 12
-  url: https://open.spotify.com/artist/25gACRVudUjh4SPo9du9nK
+  url: 'https://open.spotify.com/artist/25gACRVudUjh4SPo9du9nK'
 status: active
 title: Fritzel's New Orleans Jazz Band
-
 ---
 
 ![](fritzels_new_orleans_jazz_band.jpg)

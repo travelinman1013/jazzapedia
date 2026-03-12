@@ -3,37 +3,41 @@ biography_enhanced_at: '2026-01-01T01:04:28.153895'
 enhancement_provider: perplexity
 entry_created: '2026-01-01T01:04:28.153906'
 external_urls:
-  spotify: https://open.spotify.com/artist/6kClxEibflIbA231B95OYX
-  wikipedia: https://en.wikipedia.org/wiki/Erik_Jekabson
+  spotify: 'https://open.spotify.com/artist/6kClxEibflIbA231B95OYX'
+  wikipedia: 'https://en.wikipedia.org/wiki/Erik_Jekabson'
 genres:
-- orchestra
-image_path: 03_Resources/source_material/ArtistPortraits/daggerboard_and_erik_jekabson_orchestra.jpg
+  - orchestra
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/daggerboard_and_erik_jekabson_orchestra.jpg
 last_updated: '2026-01-01T01:04:28.153908'
 musical_connections:
   collaborators:
-  - Gregory Howe
-  - Mads Tolling
-  - Dayna Stephens
-  - John Santos
-  - Kenny Washington
-  - Art Lande
+    - Gregory Howe
+    - Mads Tolling
+    - Dayna Stephens
+    - John Santos
+    - Kenny Washington
+    - Art Lande
   influenced: []
   mentors: []
 network_extracted: true
-origin: San Francisco Bay Area, California, USA
+origin: 'San Francisco Bay Area, California, USA'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Erik_Jekabson [3]
-- https://www.paris-move.com/reviews/daggerboard-erik-jekabson-orchestra-summer-solstice/ [1]
-- https://widehive.com/discography/daggerboarderikjekabsonorchestraaxes2 [2]
+  - 'https://en.wikipedia.org/wiki/Erik_Jekabson [3]'
+  - >-
+    https://www.paris-move.com/reviews/daggerboard-erik-jekabson-orchestra-summer-solstice/
+    [1]
+  - 'https://widehive.com/discography/daggerboarderikjekabsonorchestraaxes2 [2]'
 spotify_data:
   followers: 37782
   id: 6kClxEibflIbA231B95OYX
   popularity: 52
-  url: https://open.spotify.com/artist/6kClxEibflIbA231B95OYX
+  url: 'https://open.spotify.com/artist/6kClxEibflIbA231B95OYX'
 status: active
 title: Daggerboard & Erik Jekabson Orchestra
-
+birth_date: '1973-03-23'
+artist_type: person
 ---
 
 ![](daggerboard_and_erik_jekabson_orchestra.jpg)

@@ -5,46 +5,46 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1956-06-08'
-birth_place: Philadelphia
+birth_place: 'Philadelphia, Pennsylvania, United States'
 genres:
-- free jazz
-- jazz
-- philly soul
+  - free jazz
+  - jazz
+  - philly soul
 instruments:
-- eponymous
-- piano
-- Rhodes piano
-- electric piano
-- grand piano
-- fortepiano
-- background vocals
-associated_acts:
-- begin: '2001-09-25'
-  end: '2001-09-28'
-  instruments: []
-  mbid: 9488a59e-19be-4579-8f2b-5943fe365fc1
-  name: The Philadelphia Experiment
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7ad9f10e-076c-4fcc-94fe-3636dcf9d5cd
-  name: Uri Caine Trio
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
-  mbid: 25595b01-1869-4d97-bd65-cfe95581e4dc
-  name: Uri Caine Ensemble
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 69c6effe-7d06-476d-b132-cede9925885c
-  name: Masada Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 91f1af1c-fec1-49c8-9e62-21304e4aa3af
-  name: Gerry Gibbs Sextet
+  - piano
+  - Rhodes piano
+  - electric piano
+  - grand piano
+  - fortepiano
+  - background vocals
+associated_acts:
+  - begin: '2001-09-25'
+    end: '2001-09-28'
+    instruments: []
+    mbid: 9488a59e-19be-4579-8f2b-5943fe365fc1
+    name: The Philadelphia Experiment
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7ad9f10e-076c-4fcc-94fe-3636dcf9d5cd
+    name: Uri Caine Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 25595b01-1869-4d97-bd65-cfe95581e4dc
+    name: Uri Caine Ensemble
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 69c6effe-7d06-476d-b132-cede9925885c
+    name: Masada Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 91f1af1c-fec1-49c8-9e62-21304e4aa3af
+    name: Gerry Gibbs Sextet
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/uri_caine.jpg
   caption: Uri Caine
@@ -66,59 +66,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Don Byron
-  - Dave Douglas
-  - Zach Danziger
-  - Ahmir 'Questlove' Thompson
-  - Christian McBride
-  - Han Bennink
+    - Don Byron
+    - Dave Douglas
+    - Zach Danziger
+    - Ahmir 'Questlove' Thompson
+    - Christian McBride
+    - Han Bennink
   influenced: []
   mentors:
-  - Bernard Peiffer
-  - George Crumb
-  - George Rochberg
+    - Bernard Peiffer
+    - George Crumb
+    - George Rochberg
 spotify_data:
   followers: 8309
   id: 1l10UPSXfbHFvNnDN7kgbA
   popularity: 23
-  url: https://open.spotify.com/artist/1l10UPSXfbHFvNnDN7kgbA
+  url: 'https://open.spotify.com/artist/1l10UPSXfbHFvNnDN7kgbA'
 discography_enriched: true
 top_tracks:
-- Soar Away (Present Joys)
-- Supplication (Present Joys)
-- Beltà poi che t'assenti (Arr. for 2 Pianos) (The Spirio Sessions)
-- Symphony No. 5 Adagietto (Introducing Uri Caine - Shortlist 1992-2015)
-- ANTRACITE (LEGACY)
-- Beltà poi che t'assenti (Arr. for 2 Pianos) (The Spirio Sessions)
-- L'AMANTE BUGIARDO (LEGACY)
-- TANNO (LEGACY)
-- ORO (LEGACY)
-- Symphony No. 5, Adagietto (Gustav Mahler in Toblach)
+  - Soar Away (Present Joys)
+  - Supplication (Present Joys)
+  - Beltà poi che t'assenti (Arr. for 2 Pianos) (The Spirio Sessions)
+  - Symphony No. 5 Adagietto (Introducing Uri Caine - Shortlist 1992-2015)
+  - ANTRACITE (LEGACY)
+  - Beltà poi che t'assenti (Arr. for 2 Pianos) (The Spirio Sessions)
+  - L'AMANTE BUGIARDO (LEGACY)
+  - TANNO (LEGACY)
+  - ORO (LEGACY)
+  - 'Symphony No. 5, Adagietto (Gustav Mahler in Toblach)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/75f0db0e-12c5-4c86-be14-5b87008a7967
-  spotify: https://open.spotify.com/artist/1l10UPSXfbHFvNnDN7kgbA
-  wikipedia: https://en.wikipedia.org/wiki/Uri_Caine
+  musicbrainz: 'https://musicbrainz.org/artist/75f0db0e-12c5-4c86-be14-5b87008a7967'
+  spotify: 'https://open.spotify.com/artist/1l10UPSXfbHFvNnDN7kgbA'
+  wikipedia: 'https://en.wikipedia.org/wiki/Uri_Caine'
 image_path: 03_Resources/source_material/ArtistPortraits/uri_caine.jpg
 biography_enhanced_at: '2025-12-19T01:41:07.517485'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Uri_Caine
-- https://www.unitedstatesartists.org/artists/uri-caine
-- https://www.ojaifestival.org/uri-caine-pianocomposer/
-- https://www.allaboutjazz.com/musicians/uri-caine/
-- https://jazzfc.org/event/uri-caine/
-- https://jazztimes.com/features/profiles/citizen-caine/
-- https://www.wrti.org/arts-desk/2021-04-04/jazz-philadelphias-hometown-heroes-spotlight-on-pianist-uri-caine
+  - 'https://en.wikipedia.org/wiki/Uri_Caine'
+  - 'https://www.unitedstatesartists.org/artists/uri-caine'
+  - 'https://www.ojaifestival.org/uri-caine-pianocomposer/'
+  - 'https://www.allaboutjazz.com/musicians/uri-caine/'
+  - 'https://jazzfc.org/event/uri-caine/'
+  - 'https://jazztimes.com/features/profiles/citizen-caine/'
+  - >-
+    https://www.wrti.org/arts-desk/2021-04-04/jazz-philadelphias-hometown-heroes-spotlight-on-pianist-uri-caine
 network_extracted: true
 entry_created: '2025-12-19T01:41:07.517495'
 last_updated: '2025-12-23T08:16:17.798853'
 gender: Male
 musicbrainz_id: 75f0db0e-12c5-4c86-be14-5b87008a7967
 tags:
-- classical
-- composer
-- jazz
+  - classical
+  - composer
+  - jazz
 ---
 
 ![](uri_caine.jpg)

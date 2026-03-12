@@ -1,57 +1,62 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2025-12-25T01:09:05.266931'
 enhancement_provider: perplexity
 entry_created: '2025-12-25T01:09:05.266944'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/37686b73-bf64-4d5c-8ed7-b48de2b9eb6f
-  spotify: https://open.spotify.com/artist/7x8h8nMdamj4hpSrAuwN9I
-  wikipedia: https://en.wikipedia.org/wiki/Butterbeans_and_Susie
+  musicbrainz: 'https://musicbrainz.org/artist/37686b73-bf64-4d5c-8ed7-b48de2b9eb6f'
+  spotify: 'https://open.spotify.com/artist/7x8h8nMdamj4hpSrAuwN9I'
+  wikipedia: 'https://en.wikipedia.org/wiki/Butterbeans_and_Susie'
 genres:
-- ragtime
-- country blues
+  - ragtime
+  - country blues
 image_path: 03_Resources/source_material/ArtistPortraits/butterbeans_and_susie.jpg
 last_updated: '2025-12-25T01:09:05.266948'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7e03b631-f68b-4a56-88cf-81e41d54d1a2
-  name: Butterbeans
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 26c0df25-b61e-45f5-8681-cb74478721a9
-  name: Susie Hawthorne
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7e03b631-f68b-4a56-88cf-81e41d54d1a2
+    name: Butterbeans
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 26c0df25-b61e-45f5-8681-cb74478721a9
+    name: Susie Hawthorne
 musical_connections:
   collaborators:
-  - Sara Martin
-  - Clarence Williams
-  - King Oliver
-  - Louis Armstrong's Hot Five
+    - Sara Martin
+    - Clarence Williams
+    - King Oliver
+    - Louis Armstrong's Hot Five
   influenced:
-  - Jackie 'Moms' Mabley
+    - Jackie 'Moms' Mabley
   mentors:
-  - Butler 'Stringbeans' May
-  - Sweetie May (Sweetie Matthews)
+    - Butler 'Stringbeans' May
+    - Sweetie May (Sweetie Matthews)
 musicbrainz_id: 37686b73-bf64-4d5c-8ed7-b48de2b9eb6f
 network_extracted: true
-origin: Marietta, Georgia and Pensacola, Florida, USA
+origin: 'Marietta, Georgia and Pensacola, Florida, USA'
 primary_source: perplexity
 research_sources:
-- https://aaregistry.org/story/butterbeans-and-susie-vaudeville-pioneer-performers/
-- https://en.wikipedia.org/wiki/Butterbeans_and_Susie
-- https://www.jazzology.com/jazzbeat.php?id=36
-- https://www.elsewhere.co.nz/weneedtotalkabout/9106/we-need-to-talk-about-butterbeans-and-susie-dat-ol-black-magic/
+  - >-
+    https://aaregistry.org/story/butterbeans-and-susie-vaudeville-pioneer-performers/
+  - 'https://en.wikipedia.org/wiki/Butterbeans_and_Susie'
+  - 'https://www.jazzology.com/jazzbeat.php?id=36'
+  - >-
+    https://www.elsewhere.co.nz/weneedtotalkabout/9106/we-need-to-talk-about-butterbeans-and-susie-dat-ol-black-magic/
 spotify_data:
   followers: 372
   id: 7x8h8nMdamj4hpSrAuwN9I
   popularity: 6
-  url: https://open.spotify.com/artist/7x8h8nMdamj4hpSrAuwN9I
+  url: 'https://open.spotify.com/artist/7x8h8nMdamj4hpSrAuwN9I'
 status: active
 tags:
-- blues
-title: BUTTERBEANS AND SUSIE
+  - blues
+title: Butterbeans and Susie
+birth_place: 'Marietta, Georgia, United States'
+birth_date: '1893-07-19'
+death_date: '1967-10-28'
 ---
 
 ![](butterbeans_and_susie.jpg)

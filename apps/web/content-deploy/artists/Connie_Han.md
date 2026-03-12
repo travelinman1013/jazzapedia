@@ -5,14 +5,14 @@ schema_version: 2
 status: active
 aliases: []
 birth_date: '1996-02-04'
-birth_place: Los Angeles
+birth_place: 'Los Angeles, California, United States'
 genres:
-- jazz
+  - jazz
 instruments:
-- piano
+  - piano
 occupation:
-- pianist
-- composer
+  - pianist
+  - composer
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Connie_Han.jpg
   caption: Connie Han
@@ -37,31 +37,32 @@ spotify_data:
   followers: 8374
   id: 05u1DXPSD35OnIBPXFogTG
   popularity: 28
-  url: https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG
+  url: 'https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG'
   verified: false
 discography_enriched: true
 albums_count: 4
 singles_count: 0
 top_tracks:
-- Captain’s Song (Iron Starlet)
-- Pretty Women (Crime Zone)
-- The Gallû Pursuit (Secrets of Inanna)
-- Ereshkigal of the Underworld (Secrets of Inanna)
-- He Was Too Good to Me (The Richard Rodgers Songbook)
-- Iron Starlet (Iron Starlet)
-- Prima Materia (Secrets of Inanna)
-- Morning Star (Secrets of Inanna)
-- For the O.G. (Iron Starlet)
-- Gilgamesh and the Celestial Bull (Secrets of Inanna)
+  - Captain’s Song (Iron Starlet)
+  - Pretty Women (Crime Zone)
+  - The Gallû Pursuit (Secrets of Inanna)
+  - Ereshkigal of the Underworld (Secrets of Inanna)
+  - He Was Too Good to Me (The Richard Rodgers Songbook)
+  - Iron Starlet (Iron Starlet)
+  - Prima Materia (Secrets of Inanna)
+  - Morning Star (Secrets of Inanna)
+  - For the O.G. (Iron Starlet)
+  - Gilgamesh and the Celestial Bull (Secrets of Inanna)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG
-  wikipedia: https://en.wikipedia.org/wiki/Connie_Han
+  spotify: 'https://open.spotify.com/artist/05u1DXPSD35OnIBPXFogTG'
+  wikipedia: 'https://en.wikipedia.org/wiki/Connie_Han'
 image_path: 03_Resources/source_material/ArtistPortraits/Connie_Han.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-18T16:26:31.170845'
-entry_created: 2025-09-18 11:47:43.663768
+entry_created: 2025-09-18T11:47:43.663Z
 last_updated: '2025-12-23T08:16:01.552272'
+artist_type: person
 ---
 
 ![](Connie_Han.jpg)

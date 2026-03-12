@@ -1,17 +1,17 @@
 ---
-title: alien sex fiend
+title: Alien Sex Fiend
 wiki_slug: alien-sex-fiend
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1982'
 genres:
-- deathrock
-- post-punk
-- darkwave
-- cold wave
-- industrial
-- gothic metal
+  - deathrock
+  - post-punk
+  - darkwave
+  - cold wave
+  - industrial
+  - gothic metal
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/alien_sex_fiend.jpg
   caption: alien sex fiend
@@ -32,95 +32,95 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Nik Fiend (Nik Wade)
-  - Mrs. Fiend (Christine Wade)
-  - Yaxi Highrizer (David James)
-  - Johnny Ha Ha (John Freshwater)
-  - Youth (Martin Glover, of Killing Joke)
+    - Nik Fiend (Nik Wade)
+    - Mrs. Fiend (Christine Wade)
+    - Yaxi Highrizer (David James)
+    - Johnny Ha Ha (John Freshwater)
+    - 'Youth (Martin Glover, of Killing Joke)'
   influenced:
-  - Nine Inch Nails
-  - Marilyn Manson
-  - The Horrors
+    - Nine Inch Nails
+    - Marilyn Manson
+    - The Horrors
   mentors:
-  - David Bowie
-  - The Sweet
+    - David Bowie
+    - The Sweet
 spotify_data:
   followers: 151954
   id: 6WVnBgqJfj9Iw9gpBed9fJ
   popularity: 34
-  url: https://open.spotify.com/artist/6WVnBgqJfj9Iw9gpBed9fJ
+  url: 'https://open.spotify.com/artist/6WVnBgqJfj9Iw9gpBed9fJ'
 discography_enriched: true
 top_tracks:
-- I Walk the Line (The Singles 1983-1995)
-- She's A Killer (Acid Bath)
-- Now I'm Feeling Zombiefied
-- Dead & Buried - 12" Version (The Singles 1983-1995)
-- Ignore the Machine (Who's Been Sleeping in My Brain)
-- E.S.T. (Trip to the Moon) (Acid Bath)
-- Smells Like... (It The Album)
-- In God We Trust (In Cars You Rust?) - Live (Acid Bath)
-- Hurricane Fighter Plane (It The Album)
-- New Christian Music (The Singles 1983-1995)
+  - I Walk the Line (The Singles 1983-1995)
+  - She's A Killer (Acid Bath)
+  - Now I'm Feeling Zombiefied
+  - Dead & Buried - 12" Version (The Singles 1983-1995)
+  - Ignore the Machine (Who's Been Sleeping in My Brain)
+  - E.S.T. (Trip to the Moon) (Acid Bath)
+  - Smells Like... (It The Album)
+  - In God We Trust (In Cars You Rust?) - Live (Acid Bath)
+  - Hurricane Fighter Plane (It The Album)
+  - New Christian Music (The Singles 1983-1995)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3580a118-49e3-4aa1-972a-f5f0ff750dd2
-  spotify: https://open.spotify.com/artist/6WVnBgqJfj9Iw9gpBed9fJ
-  wikipedia: https://en.wikipedia.org/wiki/Alien_Sex_Fiend
+  musicbrainz: 'https://musicbrainz.org/artist/3580a118-49e3-4aa1-972a-f5f0ff750dd2'
+  spotify: 'https://open.spotify.com/artist/6WVnBgqJfj9Iw9gpBed9fJ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Alien_Sex_Fiend'
 image_path: 03_Resources/source_material/ArtistPortraits/alien_sex_fiend.jpg
 biography_enhanced_at: '2025-11-01T15:38:09.741498'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.roughtrade.com/en-us/artist/alien-sex-fiend
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/alien-sex-fiend
-- https://www.loudersound.com/features/flash-metal-suicide-alien-sex-fiend
-- https://www.asf-13thmoon.com/discs/lp028biog.html
-- https://peel.fandom.com/wiki/Alien_Sex_Fiend
+  - 'https://www.roughtrade.com/en-us/artist/alien-sex-fiend'
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/alien-sex-fiend
+  - 'https://www.loudersound.com/features/flash-metal-suicide-alien-sex-fiend'
+  - 'https://www.asf-13thmoon.com/discs/lp028biog.html'
+  - 'https://peel.fandom.com/wiki/Alien_Sex_Fiend'
 network_extracted: true
 entry_created: '2025-11-01T15:38:09.741511'
 last_updated: '2025-12-23T08:16:04.591875'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 720a8ccc-1678-4a02-9901-75ea1c530c0c
-  name: Mrs Fiend
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 344f1dec-dc4b-4d3a-947b-e713954b903c
-  name: Nik Fiend
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e546fc54-05f8-47bd-b65d-7ac369cc568d
-  name: Rat Fink
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 72412712-6c76-4a14-b339-92ba90b18aae
-  name: Johnnie Ha Ha
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 37f843ea-35e3-4170-8efa-8fdfb9a78542
-  name: Yaxi Highriser
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: df5596a3-6c34-48dc-84c5-83951d9e6d25
-  name: Doc Milton
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 52ff300a-4062-4c1e-abd7-32881d637219
-  name: Matt Rowlands
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 720a8ccc-1678-4a02-9901-75ea1c530c0c
+    name: Mrs Fiend
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 344f1dec-dc4b-4d3a-947b-e713954b903c
+    name: Nik Fiend
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e546fc54-05f8-47bd-b65d-7ac369cc568d
+    name: Rat Fink
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 72412712-6c76-4a14-b339-92ba90b18aae
+    name: Johnnie Ha Ha
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 37f843ea-35e3-4170-8efa-8fdfb9a78542
+    name: Yaxi Highriser
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: df5596a3-6c34-48dc-84c5-83951d9e6d25
+    name: Doc Milton
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 52ff300a-4062-4c1e-abd7-32881d637219
+    name: Matt Rowlands
 musicbrainz_id: 3580a118-49e3-4aa1-972a-f5f0ff750dd2
-origin: London
+origin: 'London, England, United Kingdom'
 tags:
-- british
-- deathrock
-- electro
-
+  - british
+  - deathrock
+  - electro
 ---
 
 ![](alien_sex_fiend.jpg)

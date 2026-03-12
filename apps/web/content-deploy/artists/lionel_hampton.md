@@ -5,119 +5,119 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1908-04-20'
-birth_place: Louisville
+birth_place: 'Louisville, Kentucky, United States'
 death_date: '2002-08-31'
 genres:
-- swing music
-- big band
-- jazz
+  - swing music
+  - big band
+  - jazz
 instruments:
-- vibraphone
-- original
-- eponymous
-- piano
-- spoken vocals
-- lead vocals
+  - vibraphone
+  - original
+  - eponymous
+  - piano
+  - spoken vocals
+  - lead vocals
 associated_acts:
-- begin: '1936'
-  end: ''
-  instruments:
-  - vibraphone
-  mbid: 82eb0cc2-84be-44b2-8b5d-543e3a1a4003
-  name: The Benny Goodman Sextet
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  - vibraphone
-  mbid: 584a391e-d19a-4da8-8890-bc19f6824956
-  name: The Benny Goodman Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: e0da639b-0bfb-4ac3-b128-5eb46dfe0b9a
-  name: Lionel Hampton and His Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: c4d39d07-493b-41f3-8ddc-460d0d693a0f
-  name: The Lionel Hampton Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 6b44edf1-a3c3-4ddc-b725-cd2d7034ccb3
-  name: Lionel Hampton Big Band
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: ff37a5fa-82d3-43dc-8a57-f9b7b53b0c4a
-  name: Lionel Hampton Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 8a7c1508-85a2-43cf-9acf-346c7e3e8f97
-  name: Lionel Hampton Sextet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 716421fe-4dcc-40d0-af54-e04f2da98a41
-  name: Lionel Hampton Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b64da661-c3ed-4da7-b027-951590fd7ed8
-  name: Louis Armstrong & His Sebastian New Cotton Club Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 5fa7fe2d-656d-42de-93e0-87c12d1312c8
-  name: Lionel Hampton and His All-Stars
-- begin: ''
-  end: ''
-  instruments:
-  - vibraphone
-  mbid: a68b87ea-55f1-4b0e-8f9c-db74d772a70c
-  name: The Hampton Rhythm Boys
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: cc082efb-e299-41e8-ac34-cdd9e38dea70
-  name: Lionel Hampton & His Jazz Inner Circle
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 4a9f0d57-7663-4ad1-b24c-27e54cf67bae
-  name: Lionel Hampton & His Septet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 84771102-7538-4bae-952c-88ce5f2fc2e6
-  name: Lionel Hampton with Reeds & Rhythm
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4a9f0d57-7663-4ad1-b24c-27e54cf67bae
-  name: Lionel Hampton & His Septet
+  - begin: '1936'
+    end: ''
+    instruments:
+      - vibraphone
+    mbid: 82eb0cc2-84be-44b2-8b5d-543e3a1a4003
+    name: The Benny Goodman Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - vibraphone
+    mbid: 584a391e-d19a-4da8-8890-bc19f6824956
+    name: The Benny Goodman Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: e0da639b-0bfb-4ac3-b128-5eb46dfe0b9a
+    name: Lionel Hampton and His Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: c4d39d07-493b-41f3-8ddc-460d0d693a0f
+    name: The Lionel Hampton Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 6b44edf1-a3c3-4ddc-b725-cd2d7034ccb3
+    name: Lionel Hampton Big Band
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: ff37a5fa-82d3-43dc-8a57-f9b7b53b0c4a
+    name: Lionel Hampton Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 8a7c1508-85a2-43cf-9acf-346c7e3e8f97
+    name: Lionel Hampton Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 716421fe-4dcc-40d0-af54-e04f2da98a41
+    name: Lionel Hampton Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b64da661-c3ed-4da7-b027-951590fd7ed8
+    name: Louis Armstrong & His Sebastian New Cotton Club Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 5fa7fe2d-656d-42de-93e0-87c12d1312c8
+    name: Lionel Hampton and His All-Stars
+  - begin: ''
+    end: ''
+    instruments:
+      - vibraphone
+    mbid: a68b87ea-55f1-4b0e-8f9c-db74d772a70c
+    name: The Hampton Rhythm Boys
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: cc082efb-e299-41e8-ac34-cdd9e38dea70
+    name: Lionel Hampton & His Jazz Inner Circle
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 4a9f0d57-7663-4ad1-b24c-27e54cf67bae
+    name: Lionel Hampton & His Septet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 84771102-7538-4bae-952c-88ce5f2fc2e6
+    name: Lionel Hampton with Reeds & Rhythm
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4a9f0d57-7663-4ad1-b24c-27e54cf67bae
+    name: Lionel Hampton & His Septet
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lionel_hampton.jpg
   caption: Lionel Hampton
@@ -140,68 +140,72 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Benny Goodman
-  - Teddy Wilson
-  - Gene Krupa
-  - Illinois Jacquet
-  - Wes Montgomery
-  - Clifford Brown
-  - Dexter Gordon
-  - Quincy Jones
-  - Dinah Washington
-  - Aretha Franklin
-  - Charlie Parker
-  - Charles Mingus
-  - Johnny Griffin
-  - Dizzy Gillespie
-  - Cat Anderson
+    - Benny Goodman
+    - Teddy Wilson
+    - Gene Krupa
+    - Illinois Jacquet
+    - Wes Montgomery
+    - Clifford Brown
+    - Dexter Gordon
+    - Quincy Jones
+    - Dinah Washington
+    - Aretha Franklin
+    - Charlie Parker
+    - Charles Mingus
+    - Johnny Griffin
+    - Dizzy Gillespie
+    - Cat Anderson
   influenced:
-  - Red Norvo
+    - Red Norvo
   mentors:
-  - Jimmy Bertrand
-  - Louis Armstrong
+    - Jimmy Bertrand
+    - Louis Armstrong
 spotify_data:
   followers: 72879
   id: 2PjgZkwAEk7UTin4jP6HLP
   popularity: 43
-  url: https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP
+  url: 'https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP'
 discography_enriched: true
 top_tracks:
-- A Taste Of Honey (You Better Know It!!!)
-- Louise (Hamp & Getz)
-- 'Moonglow (Essential Classics, Vol. 24: Teddy Wilson)'
-- Moonglow - Take 1 (The Fabulous Benny Goodman)
-- Hot Mallets
-- Love For Sale
-- Lavender Coffin
-- Exactly Like You (After You've Gone:The Original Benny Goodman Trio And Quartet)
-- Rag Mop (Hamp The Legendary Decca Recordings Of Lionel Hampton)
-- Ballad Medley (Hamp & Getz)
+  - A Taste Of Honey (You Better Know It!!!)
+  - Louise (Hamp & Getz)
+  - 'Moonglow (Essential Classics, Vol. 24: Teddy Wilson)'
+  - Moonglow - Take 1 (The Fabulous Benny Goodman)
+  - Hot Mallets
+  - Love For Sale
+  - Lavender Coffin
+  - >-
+    Exactly Like You (After You've Gone:The Original Benny Goodman Trio And
+    Quartet)
+  - Rag Mop (Hamp The Legendary Decca Recordings Of Lionel Hampton)
+  - Ballad Medley (Hamp & Getz)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/17cf2413-99c1-441d-ba92-700e811daf56
-  spotify: https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP
-  wikipedia: https://en.wikipedia.org/wiki/Lionel_Hampton
+  musicbrainz: 'https://musicbrainz.org/artist/17cf2413-99c1-441d-ba92-700e811daf56'
+  spotify: 'https://open.spotify.com/artist/2PjgZkwAEk7UTin4jP6HLP'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lionel_Hampton'
 image_path: 03_Resources/source_material/ArtistPortraits/lionel_hampton.jpg
 biography_enhanced_at: '2025-11-26T07:46:29.300948'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.britannica.com/biography/Lionel-Hampton
-- https://walkoffame.com/lionel-hampton/
-- https://www.arts.gov/honors/jazz/lionel-hampton
-- https://www.ijc.uidaho.edu/hampton_collection/bio.html
-- https://pas.org/lionel-hampton/
-- https://syncopatedtimes.com/lionel-hampton/
-- https://uidaho.pressbooks.pub/blackhistory/chapter/024-lionel-hampton/
+  - 'https://www.britannica.com/biography/Lionel-Hampton'
+  - 'https://walkoffame.com/lionel-hampton/'
+  - 'https://www.arts.gov/honors/jazz/lionel-hampton'
+  - 'https://www.ijc.uidaho.edu/hampton_collection/bio.html'
+  - 'https://pas.org/lionel-hampton/'
+  - 'https://syncopatedtimes.com/lionel-hampton/'
+  - 'https://uidaho.pressbooks.pub/blackhistory/chapter/024-lionel-hampton/'
 network_extracted: true
 entry_created: '2025-11-26T07:46:29.300955'
 last_updated: '2025-12-23T08:16:11.983694'
 gender: Male
 musicbrainz_id: 17cf2413-99c1-441d-ba92-700e811daf56
 tags:
-- 2008 universal fire victim
-- american
-- big band
+  - 2008 universal fire victim
+  - american
+  - big band
+is_active: false
+origin: 'California, United States'
 ---
 
 ![](lionel_hampton.jpg)

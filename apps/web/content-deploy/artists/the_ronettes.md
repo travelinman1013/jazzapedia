@@ -1,16 +1,16 @@
 ---
-title: THE RONETTES
+title: The Ronettes
 wiki_slug: the-ronettes
 schema_version: 2
 status: active
 genres:
-- christmas
+  - christmas
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_ronettes.jpg
   caption: THE RONETTES
   background: solo_singer
 audio_profile:
-  tempo_avg: 124.0
+  tempo_avg: 124
   energy_avg: 0.718
   valence_avg: 0.651
   danceability_avg: 0.465
@@ -24,52 +24,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Estelle Bennett
-  - Nedra Talley
-  - Phil Spector
-  - Jeff Barry
+    - Estelle Bennett
+    - Nedra Talley
+    - Phil Spector
+    - Jeff Barry
   influenced:
-  - The Beatles
-  - The Rolling Stones
-  - Eddie Money
+    - The Beatles
+    - The Rolling Stones
+    - Eddie Money
   mentors:
-  - Phil Spector
-  - Grandmother (unnamed)
-  - Phillip Halikus
+    - Phil Spector
+    - Grandmother (unnamed)
+    - Phillip Halikus
 spotify_data:
   followers: 463061
   id: 7CyeXFnOrfC1N6z4naIpgo
   popularity: 78
-  url: https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo
+  url: 'https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo'
 discography_enriched: true
 top_tracks:
-- Be My Baby (Presenting the Fabulous Ronettes Featuring Veronica)
-- Be My Baby
-- Sleigh Ride
-- Sleigh Ride
-- Be My Baby
-- Baby, I Love You (Presenting the Fabulous Ronettes Featuring Veronica)
-- Frosty the Snowman
-- Be My Baby
-- Baby, I Love You
-- I Saw Mommy Kissing Santa Claus
+  - Be My Baby (Presenting the Fabulous Ronettes Featuring Veronica)
+  - Be My Baby
+  - Sleigh Ride
+  - Sleigh Ride
+  - Be My Baby
+  - 'Baby, I Love You (Presenting the Fabulous Ronettes Featuring Veronica)'
+  - Frosty the Snowman
+  - Be My Baby
+  - 'Baby, I Love You'
+  - I Saw Mommy Kissing Santa Claus
 external_urls:
-  spotify: https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo
+  spotify: 'https://open.spotify.com/artist/7CyeXFnOrfC1N6z4naIpgo'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/the_ronettes.jpg
 biography_enhanced_at: '2025-12-16T03:57:06.241805'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://teachrock.org/people/ronettes/
-- https://www.biography.com/musicians/ronnie-spector
-- https://www.history-of-rock.com/ronettes.htm
-- https://www.britannica.com/topic/the-Ronettes
-- https://www.rhino.com/article/the-ronettes
+  - 'https://teachrock.org/people/ronettes/'
+  - 'https://www.biography.com/musicians/ronnie-spector'
+  - 'https://www.history-of-rock.com/ronettes.htm'
+  - 'https://www.britannica.com/topic/the-Ronettes'
+  - 'https://www.rhino.com/article/the-ronettes'
 network_extracted: true
 entry_created: '2025-12-16T03:57:06.241811'
 last_updated: '2025-12-23T08:16:17.120657'
-origin: Spanish Harlem (Washington Heights area), New York City, New York, USA
+origin: 'Spanish Harlem (Washington Heights area), New York City, New York, USA'
+death_date: '2022'
+artist_type: band
 ---
 
 ![](the_ronettes.jpg)

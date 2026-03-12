@@ -1,17 +1,17 @@
 ---
-title: jerry mccain
+title: Jerry McCain
 wiki_slug: jerry-mccain
 schema_version: 2
 status: active
-birth_place: Gadsden, Alabama, United States
+birth_place: 'Gadsden, Alabama, United States'
 genres:
-- classic blues
-- blues
+  - classic blues
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jerry_mccain.jpg
   caption: jerry mccain
   background: solo_singer
-  origin: Gadsden, Alabama, United States
+  origin: 'Gadsden, Alabama, United States'
 audio_profile:
   tempo_avg: 110.2
   energy_avg: 0.479
@@ -27,48 +27,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Walter McCain
-  - Christopher Collins
-  - Floyd Cramer, Grady Martin, Boots Randolph
-  - Muscle Shoals Horns
-  - Johnnie Johnson, John Primer, Anson Funderburgh, Jimmie Vaughan, Tommy Shannon, Chris Layton
+    - Walter McCain
+    - Christopher Collins
+    - 'Floyd Cramer, Grady Martin, Boots Randolph'
+    - Muscle Shoals Horns
+    - >-
+      Johnnie Johnson, John Primer, Anson Funderburgh, Jimmie Vaughan, Tommy
+      Shannon, Chris Layton
   influenced:
-  - Kim Wilson (The Fabulous Thunderbirds)
+    - Kim Wilson (The Fabulous Thunderbirds)
   mentors:
-  - Little Walter Jacobs
-  - '"Chick" and "Shorty" (local musicians)'
+    - Little Walter Jacobs
+    - '"Chick" and "Shorty" (local musicians)'
 spotify_data:
   followers: 222
   id: 22WonIh1thXGx7eE3frBJT
   popularity: 1
-  url: https://open.spotify.com/artist/22WonIh1thXGx7eE3frBJT
+  url: 'https://open.spotify.com/artist/22WonIh1thXGx7eE3frBJT'
 discography_enriched: true
 top_tracks:
-- She's Tough (Ace Story (Vol. 3))
-- Steady (Ace Story (Vol. 3))
-- She's Tough (She's Tough)
-- Twist '62' (She's Tough)
-- That's What They Want (The Devil's Jukebox Vol. 1 (36 Black and Evil Blues Songs))
-- Stay Out of Automobiles (She's Tough)
-- Courtin' In a Cadillac (She's Tough)
-- That's What They Want (She's Tough)
-- The Jig's Up (She's Tough)
-- Steady (She's Tough)
+  - She's Tough (Ace Story (Vol. 3))
+  - Steady (Ace Story (Vol. 3))
+  - She's Tough (She's Tough)
+  - Twist '62' (She's Tough)
+  - >-
+    That's What They Want (The Devil's Jukebox Vol. 1 (36 Black and Evil Blues
+    Songs))
+  - Stay Out of Automobiles (She's Tough)
+  - Courtin' In a Cadillac (She's Tough)
+  - That's What They Want (She's Tough)
+  - The Jig's Up (She's Tough)
+  - Steady (She's Tough)
 external_urls:
-  spotify: https://open.spotify.com/artist/22WonIh1thXGx7eE3frBJT
-  wikipedia: https://en.wikipedia.org/wiki/Jerry_McCain
+  spotify: 'https://open.spotify.com/artist/22WonIh1thXGx7eE3frBJT'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jerry_McCain'
 image_path: 03_Resources/source_material/ArtistPortraits/jerry_mccain.jpg
 biography_enhanced_at: '2025-10-29T16:54:22.377247'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jerry_McCain
-- https://www.musicmaker.org/artist/jerry-boogie-mccain/
-- https://fromthevaults-boppinbob.blogspot.com/2020/06/jerry-mccain-born-18-june-1930.html
-- https://tims.blackcat.nl/messages/jerry_mccain.htm
+  - 'https://en.wikipedia.org/wiki/Jerry_McCain'
+  - 'https://www.musicmaker.org/artist/jerry-boogie-mccain/'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2020/06/jerry-mccain-born-18-june-1930.html
+  - 'https://tims.blackcat.nl/messages/jerry_mccain.htm'
 network_extracted: true
 entry_created: '2025-10-29T16:54:22.377259'
 last_updated: '2025-12-23T08:16:10.362010'
+birth_date: '1930-06-18'
+artist_type: person
 ---
 
 ![](jerry_mccain.jpg)

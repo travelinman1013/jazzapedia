@@ -5,42 +5,42 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1953-03-23'
-birth_place: Chicago
+birth_place: 'Chicago, Illinois, United States'
 genres: []
 instruments:
-- lead vocals
-- original
-- background vocals
-- vocal
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - lead vocals
   - original
-  mbid: 29ef7b9d-8222-4f98-85f7-1b30570a6c79
-  name: Echoes of an Era
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 817c0792-e06d-44ce-870f-40b8ec6a54d8
-  name: Artists United for Nature
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 72c36290-532b-4deb-9665-dfd12d99f3b8
-  name: The Queens
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: ec6b11b5-d6a6-4c77-af55-8076a160cc94
-  name: Rufus
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ec6b11b5-d6a6-4c77-af55-8076a160cc94
-  name: Rufus
+  - background vocals
+  - vocal
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+      - original
+    mbid: 29ef7b9d-8222-4f98-85f7-1b30570a6c79
+    name: Echoes of an Era
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 817c0792-e06d-44ce-870f-40b8ec6a54d8
+    name: Artists United for Nature
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 72c36290-532b-4deb-9665-dfd12d99f3b8
+    name: The Queens
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: ec6b11b5-d6a6-4c77-af55-8076a160cc94
+    name: Rufus
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ec6b11b5-d6a6-4c77-af55-8076a160cc94
+    name: Rufus
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/chaka_khan.jpg
   caption: Chaka Khan
@@ -62,56 +62,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Rufus (band)
-  - Tony Maiden
-  - Ray Charles
-  - Mary J. Blige
-  - Prince
+    - Rufus (band)
+    - Tony Maiden
+    - Ray Charles
+    - Mary J. Blige
+    - Prince
   influenced:
-  - Whitney Houston
-  - Mary J. Blige
-  - Erykah Badu
+    - Whitney Houston
+    - Mary J. Blige
+    - Erykah Badu
   mentors:
-  - Stevie Wonder
+    - Stevie Wonder
 spotify_data:
   followers: 1803081
   id: 6mQfAAqZGBzIfrmlZCeaYT
   popularity: 63
-  url: https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT
+  url: 'https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT'
 discography_enriched: true
 top_tracks:
-- Ain't Nobody (Stompin' At The Savoy)
-- I'm Every Woman (Chaka)
-- Ain't Nobody
-- Through the Fire (I Feel for You)
-- I Feel for You (I Feel for You)
-- Sweet Thing (Rufus Featuring Chaka Khan)
-- I'm Every Woman
-- Like Sugar (Hello Happiness)
-- 'All Good? (Art Official Intelligence: Mosaic Thump)'
-- What Cha' Gonna Do for Me (What Cha' Gonna Do for Me)
+  - Ain't Nobody (Stompin' At The Savoy)
+  - I'm Every Woman (Chaka)
+  - Ain't Nobody
+  - Through the Fire (I Feel for You)
+  - I Feel for You (I Feel for You)
+  - Sweet Thing (Rufus Featuring Chaka Khan)
+  - I'm Every Woman
+  - Like Sugar (Hello Happiness)
+  - 'All Good? (Art Official Intelligence: Mosaic Thump)'
+  - What Cha' Gonna Do for Me (What Cha' Gonna Do for Me)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/900e9144-019d-4043-86cb-ec0e127c39d0
-  spotify: https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT
-  wikipedia: https://en.wikipedia.org/wiki/Chaka_Khan
+  musicbrainz: 'https://musicbrainz.org/artist/900e9144-019d-4043-86cb-ec0e127c39d0'
+  spotify: 'https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT'
+  wikipedia: 'https://en.wikipedia.org/wiki/Chaka_Khan'
 image_path: 03_Resources/source_material/ArtistPortraits/chaka_khan.jpg
 biography_enhanced_at: '2025-11-15T18:12:24.535317'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Chaka_Khan
-- https://hellorayo.co.uk/greatest-hits/entertainment/music/chaka-khan-career
-- https://www.britannica.com/biography/Chaka-Khan
-- https://www.biography.com/musicians/chaka-khan
+  - 'https://en.wikipedia.org/wiki/Chaka_Khan'
+  - 'https://hellorayo.co.uk/greatest-hits/entertainment/music/chaka-khan-career'
+  - 'https://www.britannica.com/biography/Chaka-Khan'
+  - 'https://www.biography.com/musicians/chaka-khan'
 network_extracted: true
 entry_created: '2025-11-15T18:12:24.535327'
 last_updated: '2025-12-23T08:16:06.628612'
 gender: Female
 musicbrainz_id: 900e9144-019d-4043-86cb-ec0e127c39d0
 tags:
-- 1970s
-- 1980s
-- 2008 universal fire victim
+  - 1970s
+  - 1980s
+  - 2008 universal fire victim
 ---
 
 ![](chaka_khan.jpg)

@@ -3,16 +3,16 @@ title: Al Basile
 wiki_slug: al-basile
 schema_version: 2
 status: active
-birth_place: Haverhill, Massachusetts, United States
+birth_place: 'Haverhill, Massachusetts, United States'
 genres:
-- blues
-- blues rock
-- modern blues
+  - blues
+  - blues rock
+  - modern blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/al_basile.jpg
   caption: Al Basile
   background: solo_singer
-  origin: Haverhill, Massachusetts, United States
+  origin: 'Haverhill, Massachusetts, United States'
 audio_profile:
   tempo_avg: 124.9
   energy_avg: 0.493
@@ -28,52 +28,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Roomful of Blues
-  - Duke Robillard Band
-  - Blind Boys of Alabama
-  - Former Roomful of Blues members
+    - Roomful of Blues
+    - Duke Robillard Band
+    - Blind Boys of Alabama
+    - Former Roomful of Blues members
   influenced:
-  - Emerging poets and songwriters (various)
+    - Emerging poets and songwriters (various)
   mentors:
-  - Duke Robillard
+    - Duke Robillard
 spotify_data:
   followers: 407
   id: 7gKea6wcItfoWjxQbIPrZr
   popularity: 5
-  url: https://open.spotify.com/artist/7gKea6wcItfoWjxQbIPrZr
+  url: 'https://open.spotify.com/artist/7gKea6wcItfoWjxQbIPrZr'
 discography_enriched: true
 top_tracks:
-- I Got to be the Boss (Groovin' in the Mood Room)
-- So-Called Storyteller (B's Hot House)
-- St. James Infirmary
-- Take My Word For It (Groovin' in the Mood Room)
-- What Your Kisses Say
-- All Your Lies (Blues in Hand)
-- Give Me That Look (B's Hot House)
-- While We're Dancing (The Tinge)
-- The Show Must Go On (Groovin' in the Mood Room)
-- Hooray For Me (And to Hell With You)
+  - I Got to be the Boss (Groovin' in the Mood Room)
+  - So-Called Storyteller (B's Hot House)
+  - St. James Infirmary
+  - Take My Word For It (Groovin' in the Mood Room)
+  - What Your Kisses Say
+  - All Your Lies (Blues in Hand)
+  - Give Me That Look (B's Hot House)
+  - While We're Dancing (The Tinge)
+  - The Show Must Go On (Groovin' in the Mood Room)
+  - Hooray For Me (And to Hell With You)
 external_urls:
-  spotify: https://open.spotify.com/artist/7gKea6wcItfoWjxQbIPrZr
+  spotify: 'https://open.spotify.com/artist/7gKea6wcItfoWjxQbIPrZr'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/al_basile.jpg
 biography_enhanced_at: '2025-12-11T03:56:08.488846'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://albasile.com
-- https://albasile.com/about
-- https://www.wcupa.edu/arts-humanities/poetry/documents/Poet_Bios.pdf
-- https://www.last.fm/music/Al+Basile/+wiki
-- https://www.thetransformationnetwork.com/ttrevelution/guest/al-basil-5519/
-- https://www.americanbluesscene.com/2017/01/al-basils-mid-century-modern-something-everyone/
-- https://blues.gr/profiles/blogs/q-a-with-poet-singer-cornetist-al-basile-build-the-story-of
-- https://www.bear-family.com/basile-al/
-- https://www.boomerocity.com/interviews/1491-al-basile-is-totally-through-with-cool.html
-- http://arthursgazette.blogspot.com/2009/03/since-then-he-has-taken-his-musical.html
+  - 'https://albasile.com'
+  - 'https://albasile.com/about'
+  - 'https://www.wcupa.edu/arts-humanities/poetry/documents/Poet_Bios.pdf'
+  - 'https://www.last.fm/music/Al+Basile/+wiki'
+  - 'https://www.thetransformationnetwork.com/ttrevelution/guest/al-basil-5519/'
+  - >-
+    https://www.americanbluesscene.com/2017/01/al-basils-mid-century-modern-something-everyone/
+  - >-
+    https://blues.gr/profiles/blogs/q-a-with-poet-singer-cornetist-al-basile-build-the-story-of
+  - 'https://www.bear-family.com/basile-al/'
+  - >-
+    https://www.boomerocity.com/interviews/1491-al-basile-is-totally-through-with-cool.html
+  - >-
+    http://arthursgazette.blogspot.com/2009/03/since-then-he-has-taken-his-musical.html
 network_extracted: true
 entry_created: '2025-12-11T03:56:08.488855'
 last_updated: '2025-12-23T08:16:04.426805'
+artist_type: person
 ---
 
 ![](al_basile.jpg)

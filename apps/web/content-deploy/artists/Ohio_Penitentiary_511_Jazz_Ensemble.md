@@ -4,9 +4,10 @@ wiki_slug: ohio-penitentiary-511-jazz-ensemble
 schema_version: 2
 status: active
 genres:
-- free jazz
+  - free jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/Ohio_Penitentiary_511_Jazz_Ensemble.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/Ohio_Penitentiary_511_Jazz_Ensemble.jpg
   caption: Ohio Penitentiary 511 Jazz Ensemble
   background: solo_singer
 audio_profile:
@@ -15,7 +16,7 @@ audio_profile:
   valence_avg: 0.558
   danceability_avg: 0.514
   acousticness_avg: 0.711
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -7.9
   speechiness_avg: 0.037
   liveness_avg: 0.098
@@ -24,43 +25,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Reynard Birtha
-  - Logan Rollins
-  - John W. Grady
-  - Ohio State University Band members
+    - Reynard Birtha
+    - Logan Rollins
+    - John W. Grady
+    - Ohio State University Band members
   influenced: []
   mentors:
-  - Art Blakey
-  - Kai Winding
-  - Sonny Rollins
+    - Art Blakey
+    - Kai Winding
+    - Sonny Rollins
 spotify_data:
   followers: 131
   id: 5mWYBzJPbfJfabgZ6TfsBx
   popularity: 0
-  url: https://open.spotify.com/artist/5mWYBzJPbfJfabgZ6TfsBx
+  url: 'https://open.spotify.com/artist/5mWYBzJPbfJfabgZ6TfsBx'
 discography_enriched: true
 top_tracks:
-- Psych City (Spiritual Jazz)
-- Psych City (Spiritual Jazz - Esoteric, Modal + Deep Jazz From The Underground 1968-77)
-- Psych City (Spiritual Jazz)
+  - Psych City (Spiritual Jazz)
+  - >-
+    Psych City (Spiritual Jazz - Esoteric, Modal + Deep Jazz From The
+    Underground 1968-77)
+  - Psych City (Spiritual Jazz)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/440eb4fc-e9fa-43ba-a15d-5bba394eacfd
-  spotify: https://open.spotify.com/artist/5mWYBzJPbfJfabgZ6TfsBx
+  musicbrainz: 'https://musicbrainz.org/artist/440eb4fc-e9fa-43ba-a15d-5bba394eacfd'
+  spotify: 'https://open.spotify.com/artist/5mWYBzJPbfJfabgZ6TfsBx'
   wikipedia: null
 image_path: ''
 biography_enhanced_at: '2025-10-22T06:55:47.565149'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.elsewhere.co.nz/weneedtotalkabout/11659/we-need-to-talk-about-the-ohio-penitentiary-511-ensemble-free-from-the-ties-that-bind/
-- https://highwatersinhell.wordpress.com/2012/11/20/jail-birds-sing-ohio-penitentiary-511-jazz-ensemble/
-- https://aquariumdrunkard.com/2012/12/19/ohio-penitentiary-511-jazz-ensemble-hard-luck-soul/
-- https://www.last.fm/music/Ohio+Penitentiary+511+Jazz+Ensemble
+  - >-
+    https://www.elsewhere.co.nz/weneedtotalkabout/11659/we-need-to-talk-about-the-ohio-penitentiary-511-ensemble-free-from-the-ties-that-bind/
+  - >-
+    https://highwatersinhell.wordpress.com/2012/11/20/jail-birds-sing-ohio-penitentiary-511-jazz-ensemble/
+  - >-
+    https://aquariumdrunkard.com/2012/12/19/ohio-penitentiary-511-jazz-ensemble-hard-luck-soul/
+  - 'https://www.last.fm/music/Ohio+Penitentiary+511+Jazz+Ensemble'
 network_extracted: true
 entry_created: '2025-10-22T06:55:47.565172'
 last_updated: '2025-12-23T08:16:03.478136'
 musicbrainz_id: 440eb4fc-e9fa-43ba-a15d-5bba394eacfd
-origin: Columbus, Ohio, United States
+origin: 'Columbus, Ohio, United States'
+artist_type: band
 ---
 
 ![]()

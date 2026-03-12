@@ -4,11 +4,12 @@ wiki_slug: count-basie-and-his-orchestra
 schema_version: 2
 status: active
 genres:
-- big band
-- swing music
-- jazz
+  - big band
+  - swing music
+  - jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/count_basie_and_his_orchestra.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/count_basie_and_his_orchestra.jpg
   caption: Count Basie and His Orchestra
   background: solo_singer
 audio_profile:
@@ -26,54 +27,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jimmy Rushing
-  - Frank Sinatra
-  - Ella Fitzgerald
-  - Neal Hefti
-  - Quincy Jones
-  - Joe Williams
+    - Jimmy Rushing
+    - Frank Sinatra
+    - Ella Fitzgerald
+    - Neal Hefti
+    - Quincy Jones
+    - Joe Williams
   influenced:
-  - Thad Jones
-  - Frank Wess
-  - Snooky Young
+    - Thad Jones
+    - Frank Wess
+    - Snooky Young
   mentors:
-  - Walter Page
-  - Bennie Moten
-  - John Hammond
+    - Walter Page
+    - Bennie Moten
+    - John Hammond
 spotify_data:
   followers: 64202
   id: 2Hn9fch2OLB5jZuEAVjTCe
   popularity: 49
-  url: https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe
+  url: 'https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe'
 discography_enriched: true
 top_tracks:
-- Lil' Darlin' (The Atomic Mr Basie)
-- Whirly-Bird (The Atomic Mr Basie)
-- I'm A Woman
-- Baby, I Love Your Way
-- Jumpin' At The Woodside
-- The Lady Is a Tramp (High Voltage)
-- Paint It, Black
-- It’s The Holiday Season (A Very Swingin’ Basie Christmas!)
-- Good “Swing” Wenceslas (A Very Swingin’ Basie Christmas!)
-- The Christmas Song (A Very Swingin’ Basie Christmas!)
+  - Lil' Darlin' (The Atomic Mr Basie)
+  - Whirly-Bird (The Atomic Mr Basie)
+  - I'm A Woman
+  - 'Baby, I Love Your Way'
+  - Jumpin' At The Woodside
+  - The Lady Is a Tramp (High Voltage)
+  - 'Paint It, Black'
+  - It’s The Holiday Season (A Very Swingin’ Basie Christmas!)
+  - Good “Swing” Wenceslas (A Very Swingin’ Basie Christmas!)
+  - The Christmas Song (A Very Swingin’ Basie Christmas!)
 external_urls:
-  spotify: https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe
-  wikipedia: https://en.wikipedia.org/wiki/Count_Basie_Orchestra
+  spotify: 'https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe'
+  wikipedia: 'https://en.wikipedia.org/wiki/Count_Basie_Orchestra'
 image_path: 03_Resources/source_material/ArtistPortraits/count_basie_and_his_orchestra.jpg
 biography_enhanced_at: '2025-12-14T01:44:46.003671'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Count_Basie_Orchestra
-- https://countbasie.rutgers.edu/biography/
-- https://thebasie.org/countbasiebio/
-- https://www.laphil.com/musicdb/artists/8188/the-count-basie-orchestra
-- https://grammymuseum.org/exhibit/count-basie-the-king-of-swing/
+  - 'https://en.wikipedia.org/wiki/Count_Basie_Orchestra'
+  - 'https://countbasie.rutgers.edu/biography/'
+  - 'https://thebasie.org/countbasiebio/'
+  - 'https://www.laphil.com/musicdb/artists/8188/the-count-basie-orchestra'
+  - 'https://grammymuseum.org/exhibit/count-basie-the-king-of-swing/'
 network_extracted: true
 entry_created: '2025-12-14T01:44:46.003683'
 last_updated: '2025-12-23T08:16:07.216767'
-origin: Red Bank, New Jersey, United States (birthplace of Count Basie; Kansas City, Missouri origin of orchestra)
+origin: >-
+  Red Bank, New Jersey, United States (birthplace of Count Basie; Kansas City,
+  Missouri origin of orchestra)
+birth_place: 'Red Bank, New Jersey, United States'
+birth_date: '1904-08-21'
+artist_type: band
 ---
 
 ![](count_basie_and_his_orchestra.jpg)

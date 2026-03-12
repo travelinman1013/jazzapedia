@@ -3,13 +3,13 @@ title: Chris Barber
 wiki_slug: chris-barber
 schema_version: 2
 status: active
-birth_place: Welwyn Garden City, Hertfordshire, England
+birth_place: 'Welwyn Garden City, Hertfordshire, England'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/chris_barber.jpg
   caption: Chris Barber
   background: solo_singer
-  origin: Welwyn Garden City, Hertfordshire, England
+  origin: 'Welwyn Garden City, Hertfordshire, England'
 audio_profile:
   tempo_avg: 138.4
   energy_avg: 0.596
@@ -17,7 +17,7 @@ audio_profile:
   danceability_avg: 0.607
   acousticness_avg: 0.657
   instrumentalness_avg: 0.201
-  loudness_avg: -8.0
+  loudness_avg: -8
   speechiness_avg: 0.122
   liveness_avg: 0.54
   track_count: 23
@@ -25,48 +25,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lonnie Donegan
-  - Ottilie Patterson
-  - Alexis Korner
-  - Ken Colyer
+    - Lonnie Donegan
+    - Ottilie Patterson
+    - Alexis Korner
+    - Ken Colyer
   influenced:
-  - John Lennon
-  - Paul McCartney
-  - The Rolling Stones
+    - John Lennon
+    - Paul McCartney
+    - The Rolling Stones
   mentors:
-  - Coleman Hawkins
+    - Coleman Hawkins
 spotify_data:
   followers: 7
   id: 1A9S5uEWJLxS9a5xMmYJrW
   popularity: 15
-  url: https://open.spotify.com/artist/1A9S5uEWJLxS9a5xMmYJrW
+  url: 'https://open.spotify.com/artist/1A9S5uEWJLxS9a5xMmYJrW'
 discography_enriched: true
 top_tracks:
-- 'It Takes a Worried Man (Live) (The Skiffle Sessions: Live In Belfast)'
-- 'Lost John (Live) (The Skiffle Sessions: Live In Belfast)'
-- 'Goin'' Home (Live) (The Skiffle Sessions: Live In Belfast)'
-- 'Good Morning Blues (Live) (The Skiffle Sessions: Live In Belfast)'
-- 'Outskirts of Town (Live) (The Skiffle Sessions: Live In Belfast)'
-- 'Don''t You Rock Me Daddy-O (Live) (The Skiffle Sessions: Live In Belfast)'
-- 'Midnight Special (Live) (The Skiffle Sessions: Live In Belfast)'
-- 'Dead or Alive (Live) (The Skiffle Sessions: Live In Belfast)'
-- 'Frankie and Johnny (Live) (The Skiffle Sessions: Live In Belfast)'
-- 'Goodnight Irene (Live) (The Skiffle Sessions: Live In Belfast)'
+  - 'It Takes a Worried Man (Live) (The Skiffle Sessions: Live In Belfast)'
+  - 'Lost John (Live) (The Skiffle Sessions: Live In Belfast)'
+  - 'Goin'' Home (Live) (The Skiffle Sessions: Live In Belfast)'
+  - 'Good Morning Blues (Live) (The Skiffle Sessions: Live In Belfast)'
+  - 'Outskirts of Town (Live) (The Skiffle Sessions: Live In Belfast)'
+  - 'Don''t You Rock Me Daddy-O (Live) (The Skiffle Sessions: Live In Belfast)'
+  - 'Midnight Special (Live) (The Skiffle Sessions: Live In Belfast)'
+  - 'Dead or Alive (Live) (The Skiffle Sessions: Live In Belfast)'
+  - 'Frankie and Johnny (Live) (The Skiffle Sessions: Live In Belfast)'
+  - 'Goodnight Irene (Live) (The Skiffle Sessions: Live In Belfast)'
 external_urls:
-  spotify: https://open.spotify.com/artist/1A9S5uEWJLxS9a5xMmYJrW
-  wikipedia: https://en.wikipedia.org/wiki/Chris_Barber
+  spotify: 'https://open.spotify.com/artist/1A9S5uEWJLxS9a5xMmYJrW'
+  wikipedia: 'https://en.wikipedia.org/wiki/Chris_Barber'
 image_path: 03_Resources/source_material/ArtistPortraits/chris_barber.jpg
 biography_enhanced_at: '2025-11-26T07:51:45.781210'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://jazztimes.com/features/tributes-and-obituaries/chris-barber-1930-2021/
-- https://en.wikipedia.org/wiki/Chris_Barber
-- https://syncopatedtimes.com/profiles-in-jazz-chris-barber/
-- https://allerlei2013riffmaster.wordpress.com/2024/02/19/the-chris-barber-jazz-blues-band-down-on-the-bayou-feat-dr-john-2008/
+  - >-
+    https://jazztimes.com/features/tributes-and-obituaries/chris-barber-1930-2021/
+  - 'https://en.wikipedia.org/wiki/Chris_Barber'
+  - 'https://syncopatedtimes.com/profiles-in-jazz-chris-barber/'
+  - >-
+    https://allerlei2013riffmaster.wordpress.com/2024/02/19/the-chris-barber-jazz-blues-band-down-on-the-bayou-feat-dr-john-2008/
 network_extracted: true
 entry_created: '2025-11-26T07:51:45.781221'
 last_updated: '2025-12-23T08:16:06.869404'
+birth_date: '1930-04-17'
+artist_type: person
 ---
 
 ![](chris_barber.jpg)

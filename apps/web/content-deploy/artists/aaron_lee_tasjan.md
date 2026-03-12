@@ -5,27 +5,27 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1986-08-24'
-birth_place: Wilmington
+birth_place: 'Wilmington, Delaware, United States'
 genres:
-- americana
-- alt country
+  - americana
+  - alt country
 instruments:
-- original
-- guitar
-- piano
-- vocal
-associated_acts:
-- begin: '1986'
-  end: ''
-  instruments: []
-  mbid: 03f41e2e-6281-4712-937e-ef68666656ae
-  name: Drivin’ n’ Cryin’
-- begin: ''
-  end: ''
-  instruments:
   - original
-  mbid: c175679b-b04d-401f-aacb-dc34974110a9
-  name: The Madison Square Gardeners
+  - guitar
+  - piano
+  - vocal
+associated_acts:
+  - begin: '1986'
+    end: ''
+    instruments: []
+    mbid: 03f41e2e-6281-4712-937e-ef68666656ae
+    name: Drivin’ n’ Cryin’
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: c175679b-b04d-401f-aacb-dc34974110a9
+    name: The Madison Square Gardeners
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/aaron_lee_tasjan.jpg
   caption: Aaron Lee Tasjan
@@ -47,55 +47,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Justin Tranter, Cole Whittle, Dan Crean
-  - New York Dolls
-  - Yola
-  - Mya Byrne
-  - Natalie Hemby
+    - 'Justin Tranter, Cole Whittle, Dan Crean'
+    - New York Dolls
+    - Yola
+    - Mya Byrne
+    - Natalie Hemby
   influenced:
-  - Mya Byrne
+    - Mya Byrne
   mentors:
-  - Kevn Kinney
+    - Kevn Kinney
 spotify_data:
   followers: 24115
   id: 4PztbfCny3X9gBjlpgvjYo
   popularity: 27
-  url: https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo
+  url: 'https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo'
 discography_enriched: true
 top_tracks:
-- Little Movies (Silver Tears)
-- Hard Life (Silver Tears)
-- Till The Town Goes Dark (Silver Tears)
-- 12 Bar Blues (Silver Tears)
-- Memphis Rain (Silver Tears)
-- The Trouble With Drinkin' (In the Blazes)
-- Up All Night (Tasjan! Tasjan! Tasjan!)
-- Heart Slows Down (Karma For Cheap)
-- Don't Overthink It (Tasjan! Tasjan! Tasjan!)
-- Another Lonely Day (Tasjan! Tasjan! Tasjan!)
+  - Little Movies (Silver Tears)
+  - Hard Life (Silver Tears)
+  - Till The Town Goes Dark (Silver Tears)
+  - 12 Bar Blues (Silver Tears)
+  - Memphis Rain (Silver Tears)
+  - The Trouble With Drinkin' (In the Blazes)
+  - Up All Night (Tasjan! Tasjan! Tasjan!)
+  - Heart Slows Down (Karma For Cheap)
+  - Don't Overthink It (Tasjan! Tasjan! Tasjan!)
+  - Another Lonely Day (Tasjan! Tasjan! Tasjan!)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/20227147-c3aa-44e5-aaf4-4bc5baa1ffaf
-  spotify: https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo
-  wikipedia: https://en.wikipedia.org/wiki/Aaron_Lee_Tasjan
+  musicbrainz: 'https://musicbrainz.org/artist/20227147-c3aa-44e5-aaf4-4bc5baa1ffaf'
+  spotify: 'https://open.spotify.com/artist/4PztbfCny3X9gBjlpgvjYo'
+  wikipedia: 'https://en.wikipedia.org/wiki/Aaron_Lee_Tasjan'
 image_path: 03_Resources/source_material/ArtistPortraits/aaron_lee_tasjan.jpg
 biography_enhanced_at: '2025-10-27T02:38:38.116113'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Aaron_Lee_Tasjan
-- https://www.3rdandlindsley.com/tm-attraction/aaron-lee-tasjan
-- https://www.aaronleetasjan.com/bio
-- https://www.songwritingmagazine.co.uk/interviews/interview-aaron-lee-tasjan
-- https://www.wmot.org/roots-radio-news/2025-05-25/roots-on-the-rivers-catching-up-with-aaron-lee-tasjan
+  - 'https://en.wikipedia.org/wiki/Aaron_Lee_Tasjan'
+  - 'https://www.3rdandlindsley.com/tm-attraction/aaron-lee-tasjan'
+  - 'https://www.aaronleetasjan.com/bio'
+  - 'https://www.songwritingmagazine.co.uk/interviews/interview-aaron-lee-tasjan'
+  - >-
+    https://www.wmot.org/roots-radio-news/2025-05-25/roots-on-the-rivers-catching-up-with-aaron-lee-tasjan
 network_extracted: true
 entry_created: '2025-10-27T02:38:38.116122'
 last_updated: '2025-12-23T08:16:04.344314'
 gender: Male
 musicbrainz_id: 20227147-c3aa-44e5-aaf4-4bc5baa1ffaf
 tags:
-- americana
-- folk
-- folk rock
+  - americana
+  - folk
+  - folk rock
+origin: 'Nashville, Tennessee, United States'
 ---
 
 ![](aaron_lee_tasjan.jpg)

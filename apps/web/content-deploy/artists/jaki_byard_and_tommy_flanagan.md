@@ -4,22 +4,23 @@ wiki_slug: jaki-byard-tommy-flanagan
 schema_version: 2
 status: active
 genres:
-- jazz
-- hard bop
-- cool jazz
-- bebop
+  - jazz
+  - hard bop
+  - cool jazz
+  - bebop
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/jaki_byard_and_tommy_flanagan.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/jaki_byard_and_tommy_flanagan.jpg
   caption: Jaki Byard & Tommy Flanagan
   background: solo_singer
 audio_profile:
-  tempo_avg: 113.0
+  tempo_avg: 113
   energy_avg: 0.363
   valence_avg: 0.492
   danceability_avg: 0.502
   acousticness_avg: 0.721
   instrumentalness_avg: 0.603
-  loudness_avg: -15.0
+  loudness_avg: -15
   speechiness_avg: 0.073
   liveness_avg: 0.274
   track_count: 51
@@ -27,47 +28,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Charles Mingus
-  - Ella Fitzgerald
-  - Each Other
+    - Charles Mingus
+    - Ella Fitzgerald
+    - Each Other
   influenced:
-  - Jason Moran
-  - Fred Hersch
+    - Jason Moran
+    - Fred Hersch
   mentors:
-  - Earl Hines
+    - Earl Hines
 spotify_data:
   followers: 10646
   id: 5N8jNQsfW9SHBkhVqqnXbU
   popularity: 46
-  url: https://open.spotify.com/artist/5N8jNQsfW9SHBkhVqqnXbU
+  url: 'https://open.spotify.com/artist/5N8jNQsfW9SHBkhVqqnXbU'
 discography_enriched: true
 top_tracks:
-- Born To Be Blue (Tommy Flanagan Trio)
-- Chelsea Bridge (Overseas)
-- In The Blue Of The Evening (Tommy Flanagan Trio)
-- Velvet Moon (Tommy Flanagan Trio)
-- Willow Weep for Me (Overseas)
-- In A Sentimental Mood (Tommy Flanagan Trio)
-- Skål Brothers (Overseas)
-- You Go To My Head (Tommy Flanagan Trio)
-- Relaxin' at Camarillo (Overseas)
-- Willow Weep for Me (Love for Sale)
+  - Born To Be Blue (Tommy Flanagan Trio)
+  - Chelsea Bridge (Overseas)
+  - In The Blue Of The Evening (Tommy Flanagan Trio)
+  - Velvet Moon (Tommy Flanagan Trio)
+  - Willow Weep for Me (Overseas)
+  - In A Sentimental Mood (Tommy Flanagan Trio)
+  - Skål Brothers (Overseas)
+  - You Go To My Head (Tommy Flanagan Trio)
+  - Relaxin' at Camarillo (Overseas)
+  - Willow Weep for Me (Love for Sale)
 external_urls:
-  spotify: https://open.spotify.com/artist/5N8jNQsfW9SHBkhVqqnXbU
-  wikipedia: https://en.wikipedia.org/wiki/The_Magic_of_2
+  spotify: 'https://open.spotify.com/artist/5N8jNQsfW9SHBkhVqqnXbU'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Magic_of_2'
 image_path: 03_Resources/source_material/ArtistPortraits/jaki_byard_and_tommy_flanagan.jpg
 biography_enhanced_at: '2025-11-11T09:14:49.103365'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jaki_Byard
-- https://www.stlpr.org/show/jazz-unlimited/2014-05-31/the-career-of-tommy-flanagan
-- https://resonancerecords.org/artists/tommy-flanagan-and-jaki-byard/
-- https://en.wikipedia.org/wiki/The_Magic_of_2
+  - 'https://en.wikipedia.org/wiki/Jaki_Byard'
+  - >-
+    https://www.stlpr.org/show/jazz-unlimited/2014-05-31/the-career-of-tommy-flanagan
+  - 'https://resonancerecords.org/artists/tommy-flanagan-and-jaki-byard/'
+  - 'https://en.wikipedia.org/wiki/The_Magic_of_2'
 network_extracted: true
 entry_created: '2025-11-11T09:14:49.103377'
 last_updated: '2025-12-23T08:16:10.141003'
-origin: Worcester, Massachusetts, USA (Jaki Byard); Detroit, Michigan, USA (Tommy Flanagan)
+origin: >-
+  Worcester, Massachusetts, USA (Jaki Byard); Detroit, Michigan, USA (Tommy
+  Flanagan)
+birth_place: 'Worcester, Massachusetts, United States'
+birth_date: '1922'
+artist_type: person
 ---
 
 ![](jaki_byard_and_tommy_flanagan.jpg)

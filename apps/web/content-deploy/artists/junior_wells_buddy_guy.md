@@ -1,17 +1,17 @@
 ---
-title: Junior Wells, Buddy Guy
+title: 'Junior Wells, Buddy Guy'
 wiki_slug: junior-wells-buddy-guy
 schema_version: 2
 status: active
-birth_place: Memphis, Tennessee, United States
+birth_place: 'Memphis, Tennessee, United States'
 genres:
-- blues
-- classic blues
+  - blues
+  - classic blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/junior_wells_buddy_guy.jpg
-  caption: Junior Wells, Buddy Guy
+  caption: 'Junior Wells, Buddy Guy'
   background: solo_singer
-  origin: Memphis, Tennessee, United States
+  origin: 'Memphis, Tennessee, United States'
 audio_profile:
   tempo_avg: 109.6
   energy_avg: 0.309
@@ -27,49 +27,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Buddy Guy
-  - Muddy Waters
-  - Eric Clapton
+    - Buddy Guy
+    - Muddy Waters
+    - Eric Clapton
   influenced:
-  - Eric Clapton
-  - Jimi Hendrix
-  - Stevie Ray Vaughan
+    - Eric Clapton
+    - Jimi Hendrix
+    - Stevie Ray Vaughan
   mentors:
-  - Little Walter
-  - Muddy Waters
+    - Little Walter
+    - Muddy Waters
 spotify_data:
   followers: 4644
   id: 3M9QUu7NXaZrssCdFlrA5t
   popularity: 6
-  url: https://open.spotify.com/artist/3M9QUu7NXaZrssCdFlrA5t
+  url: 'https://open.spotify.com/artist/3M9QUu7NXaZrssCdFlrA5t'
 discography_enriched: true
 top_tracks:
-- Rollin' and Tumblin' (Guitar Blues 101)
-- Every Day I Have The Blues
-- Messing With The Kid (Prime Chops)
-- Don't Leave Me
-- Rollin' and Tumblin' (Harmonica Blues)
-- Catfish Blues (101 Delta Blues)
-- I'm In the Mood
-- Catfish Blues
-- Buddy's Blues
-- Baby What You Want Me to Do/That's Allright
+  - Rollin' and Tumblin' (Guitar Blues 101)
+  - Every Day I Have The Blues
+  - Messing With The Kid (Prime Chops)
+  - Don't Leave Me
+  - Rollin' and Tumblin' (Harmonica Blues)
+  - Catfish Blues (101 Delta Blues)
+  - I'm In the Mood
+  - Catfish Blues
+  - Buddy's Blues
+  - Baby What You Want Me to Do/That's Allright
 external_urls:
-  spotify: https://open.spotify.com/artist/3M9QUu7NXaZrssCdFlrA5t
-  wikipedia: https://en.wikipedia.org/wiki/Junior_Wells
+  spotify: 'https://open.spotify.com/artist/3M9QUu7NXaZrssCdFlrA5t'
+  wikipedia: 'https://en.wikipedia.org/wiki/Junior_Wells'
 image_path: 03_Resources/source_material/ArtistPortraits/junior_wells_buddy_guy.jpg
 biography_enhanced_at: '2025-11-01T15:17:16.553876'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Junior_Wells
-- https://en.wikipedia.org/wiki/Buddy_Guy
-- https://www.explorelouisiana.com/music/buddy-guys-birthplace
-- https://www.allaboutjazz.com/musicians/junior-wells/
-- https://www.britannica.com/biography/Junior-Wells
+  - 'https://en.wikipedia.org/wiki/Junior_Wells'
+  - 'https://en.wikipedia.org/wiki/Buddy_Guy'
+  - 'https://www.explorelouisiana.com/music/buddy-guys-birthplace'
+  - 'https://www.allaboutjazz.com/musicians/junior-wells/'
+  - 'https://www.britannica.com/biography/Junior-Wells'
 network_extracted: true
 entry_created: '2025-11-01T15:17:16.553890'
 last_updated: '2025-12-23T08:16:11.106248'
+origin: 'Chicago, Illinois, United States'
+birth_date: '1934'
+artist_type: person
 ---
 
 ![](junior_wells_buddy_guy.jpg)

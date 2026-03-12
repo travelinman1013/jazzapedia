@@ -1,45 +1,45 @@
 ---
-artist_type: band
+artist_type: person
 biography_enhanced_at: '2026-01-16T01:39:30.034967'
 birth_date: '1971'
 enhancement_provider: perplexity
 entry_created: '2026-01-16T01:39:30.034972'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/39f3855d-dd7b-49f2-a0ab-0cd57848fab9
-  spotify: https://open.spotify.com/artist/7jWpE4ZlClMpc0Kr5xSX34
+  musicbrainz: 'https://musicbrainz.org/artist/39f3855d-dd7b-49f2-a0ab-0cd57848fab9'
+  spotify: 'https://open.spotify.com/artist/7jWpE4ZlClMpc0Kr5xSX34'
   wikipedia: ''
 formation_year: 1971
 genres:
-- blues rock
-- modern blues
-- blues
+  - blues rock
+  - modern blues
+  - blues
 image_path: 03_Resources/source_material/ArtistPortraits/back_door.jpg
 is_active: true
 last_updated: '2026-01-16T01:39:30.034973'
 musical_connections:
   collaborators:
-  - Colin Hodgkinson
-  - Ron Aspery
-  - Tony Hicks
+    - Colin Hodgkinson
+    - Ron Aspery
+    - Tony Hicks
   influenced: []
   mentors: []
 musicbrainz_id: 39f3855d-dd7b-49f2-a0ab-0cd57848fab9
 network_extracted: true
-origin: Redcar
+origin: 'Redcar, North Yorkshire, England'
 primary_source: perplexity
 research_sources:
-- https://www.progarchives.com/artist.asp?id=5095
-- https://jazzrocksoul.com/artists/back-door/
-- https://www.allmusic.com/artist/back-door-mn0000764660
-- https://www.scaruffi.com/vol3/backdoor.html
+  - 'https://www.progarchives.com/artist.asp?id=5095'
+  - 'https://jazzrocksoul.com/artists/back-door/'
+  - 'https://www.allmusic.com/artist/back-door-mn0000764660'
+  - 'https://www.scaruffi.com/vol3/backdoor.html'
 spotify_data:
   followers: 9586
   id: 7jWpE4ZlClMpc0Kr5xSX34
   popularity: 30
-  url: https://open.spotify.com/artist/7jWpE4ZlClMpc0Kr5xSX34
+  url: 'https://open.spotify.com/artist/7jWpE4ZlClMpc0Kr5xSX34'
 status: active
 tags:
-- jazz
+  - jazz
 title: Back Door
 ---
 

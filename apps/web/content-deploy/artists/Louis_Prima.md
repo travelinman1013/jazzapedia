@@ -2,23 +2,23 @@
 title: Louis Prima
 wiki_slug: louis-prima
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1910-12-07'
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 death_date: '1978-08-24'
 genres:
-- swing music
-- big band
+  - swing music
+  - big band
 instruments:
-- eponymous
-- original
+  - eponymous
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Louis_Prima.jpg
   caption: Louis Prima
   background: non_vocal_instrumentalist
   born: '1910-12-07'
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
   died: '1978-08-24'
 audio_profile:
   tempo_avg: 125.4
@@ -35,49 +35,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Keely Smith
-  - Sam Butera
-  - The Witnesses
-  - Pee Wee Russell
+    - Keely Smith
+    - Sam Butera
+    - The Witnesses
+    - Pee Wee Russell
   influenced:
-  - Brian Setzer
-  - David Lee Roth
-  - Swing and rock & roll musicians
+    - Brian Setzer
+    - David Lee Roth
+    - Swing and rock & roll musicians
   mentors:
-  - Louis Armstrong
-  - King Oliver
-  - Guy Lombardo
+    - Louis Armstrong
+    - King Oliver
+    - Guy Lombardo
 spotify_data:
   followers: 227582
   id: 52lBOxCxbJg0ttXEW9CQpW
   popularity: 55
-  url: https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW
+  url: 'https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW'
 discography_enriched: true
 top_tracks:
-- 4th Dimension (KIDS SEE GHOSTS)
-- I Wan'na Be Like You (The Monkey Song)
-- Pennies From Heaven (The Call Of The Wildest (Expanded Edition))
-- Che La Luna (Angelina)
-- Just A Gigolo / I Ain't Got Nobody - Medley / Remastered 2002 (The Wildest! (Expanded Edition))
-- Buona Sera - Remastered 2002 (The Wildest! (Expanded Edition))
-- I Wan'na Be Like You (The Monkey Song) - From "The Jungle Book" / Soundtrack Version
-- Just A Gigolo - Remastered
-- Buona Sera - Remastered
-- Pennies From Heaven - Remastered
+  - 4th Dimension (KIDS SEE GHOSTS)
+  - I Wan'na Be Like You (The Monkey Song)
+  - Pennies From Heaven (The Call Of The Wildest (Expanded Edition))
+  - Che La Luna (Angelina)
+  - >-
+    Just A Gigolo / I Ain't Got Nobody - Medley / Remastered 2002 (The Wildest!
+    (Expanded Edition))
+  - Buona Sera - Remastered 2002 (The Wildest! (Expanded Edition))
+  - >-
+    I Wan'na Be Like You (The Monkey Song) - From "The Jungle Book" / Soundtrack
+    Version
+  - Just A Gigolo - Remastered
+  - Buona Sera - Remastered
+  - Pennies From Heaven - Remastered
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b5997eef-2516-491a-a10e-5cee842bbcdc
-  spotify: https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW
-  wikipedia: https://en.wikipedia.org/wiki/Louis_Prima
+  musicbrainz: 'https://musicbrainz.org/artist/b5997eef-2516-491a-a10e-5cee842bbcdc'
+  spotify: 'https://open.spotify.com/artist/52lBOxCxbJg0ttXEW9CQpW'
+  wikipedia: 'https://en.wikipedia.org/wiki/Louis_Prima'
 image_path: 03_Resources/source_material/ArtistPortraits/Louis_Prima.jpg
 biography_enhanced_at: '2025-10-21T06:38:06.361662'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Louis_Prima
-- https://syncopatedtimes.com/louis-prima-profiles-in-jazz/
-- https://frenchquarterly.com/music/louis-prima-king-swing
-- https://joesplace.online/louis_prima_the_wildest_king_of_the_swingers/
-- https://www.reservoir-media.com/listing/louis-prima/
+  - 'https://en.wikipedia.org/wiki/Louis_Prima'
+  - 'https://syncopatedtimes.com/louis-prima-profiles-in-jazz/'
+  - 'https://frenchquarterly.com/music/louis-prima-king-swing'
+  - 'https://joesplace.online/louis_prima_the_wildest_king_of_the_swingers/'
+  - 'https://www.reservoir-media.com/listing/louis-prima/'
 network_extracted: true
 entry_created: '2025-10-21T06:38:06.361675'
 last_updated: '2025-12-23T08:16:03.106835'
@@ -85,9 +89,11 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:36:04.911367'
 musicbrainz_id: b5997eef-2516-491a-a10e-5cee842bbcdc
 tags:
-- big band
-- jazz
-- standards
+  - big band
+  - jazz
+  - standards
+is_active: false
+origin: 'New York City, New York, United States'
 ---
 
 ![](Louis_Prima.jpg)

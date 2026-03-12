@@ -1,15 +1,16 @@
 ---
-title: Prince Lincoln, The Royal Rasses
+title: 'Prince Lincoln, The Royal Rasses'
 wiki_slug: prince-lincoln-the-royal-rasses
 schema_version: 2
 status: active
-birth_place: Jonestown, Kingston, Jamaica
+birth_place: 'Jonestown, Kingston, Jamaica'
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/prince_lincoln_the_royal_rasses.jpg
-  caption: Prince Lincoln, The Royal Rasses
+  image: >-
+    03_Resources/source_material/ArtistPortraits/prince_lincoln_the_royal_rasses.jpg
+  caption: 'Prince Lincoln, The Royal Rasses'
   background: solo_singer
-  origin: Jonestown, Kingston, Jamaica
+  origin: 'Jonestown, Kingston, Jamaica'
 audio_profile:
   tempo_avg: 113.2
   energy_avg: 0.629
@@ -25,46 +26,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Cedric Myton
-  - Clinton Hall
-  - Keith Peterkin
-  - Joe Jackson
-  - Pablo Black
+    - Cedric Myton
+    - Clinton Hall
+    - Keith Peterkin
+    - Joe Jackson
+    - Pablo Black
   influenced:
-  - John Legend
+    - John Legend
   mentors:
-  - Coxsone Dodd
+    - Coxsone Dodd
 spotify_data:
   followers: 338
   id: 5My9Kn25GhwWtXrjxYVVHr
   popularity: 0
-  url: https://open.spotify.com/artist/5My9Kn25GhwWtXrjxYVVHr
+  url: 'https://open.spotify.com/artist/5My9Kn25GhwWtXrjxYVVHr'
 discography_enriched: true
 top_tracks:
-- Revelation (The Songs of Bob Andy)
-- Space Ship (Truly Feel Good Reggae)
-- Mechanical Devices Dub (Jamaican Me Crazy)
-- Mechanical Devices DUB (49 Great Reggae Hits Vol. 1)
-- Mechanical Devices (Best Of Reggae Volume 19)
-- Natural Wide Dub (Vintage Reggae, Vol. 1)
-- Interstella Overdub (Harder Na Ras)
-- Second Sight (Harder Na Ras)
-- Nebular Dub (Harder Na Ras)
-- Time Warp (Harder Na Ras)
+  - Revelation (The Songs of Bob Andy)
+  - Space Ship (Truly Feel Good Reggae)
+  - Mechanical Devices Dub (Jamaican Me Crazy)
+  - Mechanical Devices DUB (49 Great Reggae Hits Vol. 1)
+  - Mechanical Devices (Best Of Reggae Volume 19)
+  - 'Natural Wide Dub (Vintage Reggae, Vol. 1)'
+  - Interstella Overdub (Harder Na Ras)
+  - Second Sight (Harder Na Ras)
+  - Nebular Dub (Harder Na Ras)
+  - Time Warp (Harder Na Ras)
 external_urls:
-  spotify: https://open.spotify.com/artist/5My9Kn25GhwWtXrjxYVVHr
-  wikipedia: https://en.wikipedia.org/wiki/Lincoln_Thompson
+  spotify: 'https://open.spotify.com/artist/5My9Kn25GhwWtXrjxYVVHr'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lincoln_Thompson'
 image_path: ''
 biography_enhanced_at: '2025-10-27T02:51:44.140913'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Lincoln_Thompson
-- https://www.reggaereggaereggae.com/the-prince-lincoln-biography/
-- https://unitedreggae.com/news/n454/012309/prince-lincoln-ten-years-on
+  - 'https://en.wikipedia.org/wiki/Lincoln_Thompson'
+  - 'https://www.reggaereggaereggae.com/the-prince-lincoln-biography/'
+  - 'https://unitedreggae.com/news/n454/012309/prince-lincoln-ten-years-on'
 network_extracted: true
 entry_created: '2025-10-27T02:51:44.140933'
 last_updated: '2025-12-23T08:16:14.458401'
+birth_date: '1949-07-10'
+artist_type: band
 ---
 
 ![]()

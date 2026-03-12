@@ -1,14 +1,14 @@
 ---
-title: famous pluto & zerrydl
+title: Famous Pluto & Zerrydl
 wiki_slug: famous-pluto-zerrydl
 schema_version: 2
 status: active
 genres:
-- amapiano
-- afropiano
-- afrobeat
-- afrobeats
-- afro adura
+  - amapiano
+  - afropiano
+  - afrobeat
+  - afrobeats
+  - afro adura
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/famous_pluto_and_zerrydl.jpg
   caption: famous pluto & zerrydl
@@ -28,45 +28,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Shallipopi
-  - Zerrydl
-  - Jeriq
+    - Shallipopi
+    - Zerrydl
+    - Jeriq
   influenced: []
   mentors:
-  - Shallipopi
-  - Wizkid
+    - Shallipopi
+    - Wizkid
 spotify_data:
   followers: 418193
   id: 2hg21aqtw66FhKSo3Uzbne
   popularity: 63
-  url: https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne
+  url: 'https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne'
 discography_enriched: true
 top_tracks:
-- Na Scra (Na Scra)
-- 1 WORK - Remix (1 WORK (Remix))
-- Ewo (Uzama The 3rd)
-- Feel D Mood (Feel D Mood)
-- Osusu (Uzama The 3rd)
-- Runs Am (Uzama The 3rd)
-- Gbese (Uzama The 3rd)
-- Na Scra (Uzama The 3rd)
-- 1 WORK - Remix (1 WORK (Remix))
-- Ten Toes (Ten Toes)
+  - Na Scra (Na Scra)
+  - 1 WORK - Remix (1 WORK (Remix))
+  - Ewo (Uzama The 3rd)
+  - Feel D Mood (Feel D Mood)
+  - Osusu (Uzama The 3rd)
+  - Runs Am (Uzama The 3rd)
+  - Gbese (Uzama The 3rd)
+  - Na Scra (Uzama The 3rd)
+  - 1 WORK - Remix (1 WORK (Remix))
+  - Ten Toes (Ten Toes)
 external_urls:
-  spotify: https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne
-  wikipedia: https://en.wikipedia.org/wiki/Zerrydl, https://en.wikipedia.org/wiki/Famous_Pluto
+  spotify: 'https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne'
+  wikipedia: >-
+    https://en.wikipedia.org/wiki/Zerrydl,
+    https://en.wikipedia.org/wiki/Famous_Pluto
 image_path: 03_Resources/source_material/ArtistPortraits/famous_pluto_and_zerrydl.jpg
 biography_enhanced_at: '2025-12-14T01:51:11.537433'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Zerrydl
-- https://en.wikipedia.org/wiki/Famous_Pluto
-- https://www.youtube.com/watch?v=1LC1SW9P0Gw
+  - 'https://en.wikipedia.org/wiki/Zerrydl'
+  - 'https://en.wikipedia.org/wiki/Famous_Pluto'
+  - 'https://www.youtube.com/watch?v=1LC1SW9P0Gw'
 network_extracted: true
 entry_created: '2025-12-14T01:51:11.537442'
 last_updated: '2025-12-23T08:16:08.565796'
-origin: Benin City, Edo State, Nigeria
+origin: 'Benin City, Edo State, Nigeria'
+birth_place: 'Benin City, Edo State, Nigeria'
+birth_date: '2006-08-14'
+artist_type: band
 ---
 
 ![](famous_pluto_and_zerrydl.jpg)

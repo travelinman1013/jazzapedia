@@ -1,15 +1,15 @@
 ---
-title: SON THOMAS
+title: Son Thomas
 wiki_slug: son-thomas
 schema_version: 2
 status: active
-birth_place: Eden, Mississippi, United States
+birth_place: 'Eden, Mississippi, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/SON_THOMAS.jpg
   caption: SON THOMAS
   background: solo_singer
-  origin: Eden, Mississippi, United States
+  origin: 'Eden, Mississippi, United States'
 audio_profile:
   tempo_avg: 119.5
   energy_avg: 0.588
@@ -25,48 +25,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - William Ferris
-  - Pat Thomas
+    - William Ferris
+    - Pat Thomas
   influenced:
-  - Pat Thomas
-  - Contemporary Delta blues musicians
+    - Pat Thomas
+    - Contemporary Delta blues musicians
   mentors:
-  - Elmore Davis
-  - Arthur "Big Boy" Crudup
-  - Thomas's uncle and grandfather
+    - Elmore Davis
+    - Arthur "Big Boy" Crudup
+    - Thomas's uncle and grandfather
 spotify_data:
   followers: 716947
   id: 0nnBZ8FXWjG9wZgM2cpfeb
   popularity: 73
-  url: https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb
+  url: 'https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb'
 discography_enriched: true
 top_tracks:
-- MUTT (MUTT)
-- MUTT
-- MUTT (feat. Chris Brown) [CB REMIX]
-- YES IT IS (MUTT)
-- Treasure In The Hills (Electric Dusk)
-- VIBES DON'T LIE (MUTT)
-- LUCID DREAMS (feat. Masego) (MUTT)
-- 'MUTT (feat. Chris Brown) [CB REMIX] (MUTT Deluxe: HEEL)'
-- MUTT (feat. Freddie Gibbs) [Remix] (MUTT)
-- Here We Go (Uh Oh) [Remix] (feat. Leon Thomas)
+  - MUTT (MUTT)
+  - MUTT
+  - 'MUTT (feat. Chris Brown) [CB REMIX]'
+  - YES IT IS (MUTT)
+  - Treasure In The Hills (Electric Dusk)
+  - VIBES DON'T LIE (MUTT)
+  - LUCID DREAMS (feat. Masego) (MUTT)
+  - 'MUTT (feat. Chris Brown) [CB REMIX] (MUTT Deluxe: HEEL)'
+  - 'MUTT (feat. Freddie Gibbs) [Remix] (MUTT)'
+  - 'Here We Go (Uh Oh) [Remix] (feat. Leon Thomas)'
 external_urls:
-  spotify: https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb
-  wikipedia: https://en.wikipedia.org/wiki/James_Thomas_(blues_musician)
+  spotify: 'https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb'
+  wikipedia: 'https://en.wikipedia.org/wiki/James_Thomas_(blues_musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/SON_THOMAS.jpg
 biography_enhanced_at: '2025-10-21T06:58:32.080198'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/James_Thomas_(blues_musician)
-- https://mississippiencyclopedia.org/entries/james-son-ford-thomas/
-- https://www.antonhaardtgallery.com/pages/son-ford-thomas
-- http://www.antonart.com/bio-thom.htm
-- https://www.littletobywalker.com/james-son-thomas.html
+  - 'https://en.wikipedia.org/wiki/James_Thomas_(blues_musician)'
+  - 'https://mississippiencyclopedia.org/entries/james-son-ford-thomas/'
+  - 'https://www.antonhaardtgallery.com/pages/son-ford-thomas'
+  - 'http://www.antonart.com/bio-thom.htm'
+  - 'https://www.littletobywalker.com/james-son-thomas.html'
 network_extracted: true
 entry_created: '2025-10-21T06:58:32.080214'
 last_updated: '2025-12-23T08:16:03.790715'
+birth_date: '1926-10-14'
+death_date: '1993-06-26'
+artist_type: person
 ---
 
 ![](SON_THOMAS.jpg)

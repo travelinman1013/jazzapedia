@@ -2,22 +2,22 @@
 title: Fiona Apple
 wiki_slug: fiona-apple
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1977-09-13'
-birth_place: Manhattan, New York, New York, United States
+birth_place: 'Manhattan, New York, New York, United States'
 genres:
-- art pop
-- chamber pop
+  - art pop
+  - chamber pop
 instruments:
-- background vocals
-- lead vocals
+  - background vocals
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Fiona_Apple.jpg
   caption: Fiona Apple
   background: solo_singer
   born: '1977-09-13'
-  origin: Manhattan, New York, New York, United States
+  origin: 'Manhattan, New York, New York, United States'
 audio_profile:
   tempo_avg: 125.9
   energy_avg: 0.463
@@ -33,45 +33,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jon Brion
-  - Andrew Slater
-  - Maude Maggart
+    - Jon Brion
+    - Andrew Slater
+    - Maude Maggart
   influenced:
-  - Lorde
-  - Phoebe Bridgers
-  - Regina Spektor
+    - Lorde
+    - Phoebe Bridgers
+    - Regina Spektor
   mentors:
-  - Billie Holiday
-  - Ella Fitzgerald
+    - Billie Holiday
+    - Ella Fitzgerald
 spotify_data:
   followers: 1794964
   id: 3g2kUQ6tHLLbmkV7T4GPtL
   popularity: 62
-  url: https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL
+  url: 'https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL'
 discography_enriched: true
 top_tracks:
-- Paper Bag (When The Pawn...)
-- Criminal (Tidal)
-- I Want You To Love Me (Fetch The Bolt Cutters)
-- I Know (When The Pawn...)
-- Across the Universe
-- Get Gone (When The Pawn...)
-- The First Taste (Tidal)
-- Shadowboxer (Tidal)
-- Sleep to Dream (Tidal)
-- Fast As You Can (When The Pawn...)
+  - Paper Bag (When The Pawn...)
+  - Criminal (Tidal)
+  - I Want You To Love Me (Fetch The Bolt Cutters)
+  - I Know (When The Pawn...)
+  - Across the Universe
+  - Get Gone (When The Pawn...)
+  - The First Taste (Tidal)
+  - Shadowboxer (Tidal)
+  - Sleep to Dream (Tidal)
+  - Fast As You Can (When The Pawn...)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a9ee533f-8871-4f62-a6bb-91eb264abc90
-  spotify: https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL
-  wikipedia: https://en.wikipedia.org/wiki/Fiona_Apple
+  musicbrainz: 'https://musicbrainz.org/artist/a9ee533f-8871-4f62-a6bb-91eb264abc90'
+  spotify: 'https://open.spotify.com/artist/3g2kUQ6tHLLbmkV7T4GPtL'
+  wikipedia: 'https://en.wikipedia.org/wiki/Fiona_Apple'
 image_path: 03_Resources/source_material/ArtistPortraits/Fiona_Apple.jpg
 biography_enhanced_at: '2025-10-20T01:58:41.205184'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Fiona_Apple
-- https://www.britannica.com/biography/Fiona-Apple
-- https://www.last.fm/music/Fiona+Apple/+wiki
+  - 'https://en.wikipedia.org/wiki/Fiona_Apple'
+  - 'https://www.britannica.com/biography/Fiona-Apple'
+  - 'https://www.last.fm/music/Fiona+Apple/+wiki'
 network_extracted: true
 entry_created: '2025-10-20T01:58:41.205214'
 last_updated: '2025-12-23T08:16:02.014217'
@@ -80,9 +80,10 @@ gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:26:35.370146'
 musicbrainz_id: a9ee533f-8871-4f62-a6bb-91eb264abc90
 tags:
-- 1990s
-- 2000s
-- alternative pop
+  - 1990s
+  - 2000s
+  - alternative pop
+origin: 'Los Angeles, California, United States'
 ---
 
 ![](Fiona_Apple.jpg)

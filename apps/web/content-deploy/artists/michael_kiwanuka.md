@@ -5,20 +5,20 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1987-05-03'
-birth_place: Muswell Hill
+birth_place: 'Muswell Hill, North London, England'
 genres:
-- soul
+  - soul
 instruments:
-- acoustic guitar
-- electric guitar
-- bass guitar
-- guitar
-- piano
-- Rhodes piano
-- electric bass guitar
-- Wurlitzer electric piano
-- lead vocals
-- background vocals
+  - acoustic guitar
+  - electric guitar
+  - bass guitar
+  - guitar
+  - piano
+  - Rhodes piano
+  - electric bass guitar
+  - Wurlitzer electric piano
+  - lead vocals
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/michael_kiwanuka.jpg
   caption: Michael Kiwanuka
@@ -40,56 +40,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Chipmunk
-  - Bashy
-  - Adele
-  - Karen O
-  - SAULT
+    - Chipmunk
+    - Bashy
+    - Adele
+    - Karen O
+    - SAULT
   influenced: []
   mentors:
-  - Paul Butler
-  - Danger Mouse
-  - Inflo
+    - Paul Butler
+    - Danger Mouse
+    - Inflo
 spotify_data:
   followers: 1677687
   id: 0bzfPKdbXL5ezYW2z3UGQj
   popularity: 68
-  url: https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj
+  url: 'https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj'
 discography_enriched: true
 top_tracks:
-- Cold Little Heart - Radio Edit
-- Home Again (Home Again (Deluxe Version))
-- Love & Hate (Love & Hate)
-- One More Night (Love & Hate)
-- Cold Little Heart (Love & Hate)
-- Solid Ground (KIWANUKA)
-- Floating Parade (Small Changes)
-- Rest (Home Again (Deluxe Version))
-- One And Only (Small Changes)
-- The Rest Of Me (Small Changes)
+  - Cold Little Heart - Radio Edit
+  - Home Again (Home Again (Deluxe Version))
+  - Love & Hate (Love & Hate)
+  - One More Night (Love & Hate)
+  - Cold Little Heart (Love & Hate)
+  - Solid Ground (KIWANUKA)
+  - Floating Parade (Small Changes)
+  - Rest (Home Again (Deluxe Version))
+  - One And Only (Small Changes)
+  - The Rest Of Me (Small Changes)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/11f570ff-44d9-4e9c-8812-e6d56103c5c1
-  spotify: https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj
-  wikipedia: https://en.wikipedia.org/wiki/Michael_Kiwanuka
+  musicbrainz: 'https://musicbrainz.org/artist/11f570ff-44d9-4e9c-8812-e6d56103c5c1'
+  spotify: 'https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj'
+  wikipedia: 'https://en.wikipedia.org/wiki/Michael_Kiwanuka'
 image_path: 03_Resources/source_material/ArtistPortraits/michael_kiwanuka.jpg
 biography_enhanced_at: '2025-12-17T02:18:34.570724'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://musiclyrics.com/artist/michael-kiwanuka/
-- https://www.last.fm/music/Michael+Kiwanuka/+wiki
-- https://darrenfarnsworth.com/music/playlist/bands/michael-kiwanuka/
-- https://en.wikipedia.org/wiki/Michael_Kiwanuka
-- https://www.redlightmanagement.com/artists/michael-kiwanuka/
-- https://umusic.co.nz/moments/get-to-know-michael-kiwanuka/
-- https://www.heartofcool.com/hoc-music-mondays-meet-michael-kiwanuka-black-man-white-world/
+  - 'https://musiclyrics.com/artist/michael-kiwanuka/'
+  - 'https://www.last.fm/music/Michael+Kiwanuka/+wiki'
+  - 'https://darrenfarnsworth.com/music/playlist/bands/michael-kiwanuka/'
+  - 'https://en.wikipedia.org/wiki/Michael_Kiwanuka'
+  - 'https://www.redlightmanagement.com/artists/michael-kiwanuka/'
+  - 'https://umusic.co.nz/moments/get-to-know-michael-kiwanuka/'
+  - >-
+    https://www.heartofcool.com/hoc-music-mondays-meet-michael-kiwanuka-black-man-white-world/
 network_extracted: true
 entry_created: '2025-12-17T02:18:34.570739'
 last_updated: '2025-12-23T08:16:13.052534'
 gender: Male
 musicbrainz_id: 11f570ff-44d9-4e9c-8812-e6d56103c5c1
 tags:
-- soul
+  - soul
 ---
 
 ![](michael_kiwanuka.jpg)

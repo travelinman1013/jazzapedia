@@ -1,27 +1,27 @@
 ---
-title: sade
+title: Sade
 wiki_slug: sade
 schema_version: 2
-artist_type: Group
+artist_type: person
 status: active
 birth_date: '1982'
-birth_place: Ibadan, Oyo State, Nigeria
+birth_place: 'Ibadan, Oyo State, Nigeria'
 genres: []
 instruments:
-- drums (drum set)
-- original
-- eponymous
-- lead vocals
-- bass guitar
-- guitar
-- saxophone
-- keyboard
+  - drums (drum set)
+  - original
+  - eponymous
+  - lead vocals
+  - bass guitar
+  - guitar
+  - saxophone
+  - keyboard
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sade.jpg
   caption: sade
   background: solo_singer
   born: '1982'
-  origin: Ibadan, Oyo State, Nigeria
+  origin: 'Ibadan, Oyo State, Nigeria'
 audio_profile:
   tempo_avg: 116.2
   energy_avg: 0.633
@@ -37,46 +37,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Stuart Matthewman
-  - Andrew Hale
-  - Paul Spencer Denman
-  - Ray St. John
+    - Stuart Matthewman
+    - Andrew Hale
+    - Paul Spencer Denman
+    - Ray St. John
   influenced:
-  - Maxwell
-  - Alicia Keys
-  - Drake
+    - Maxwell
+    - Alicia Keys
+    - Drake
   mentors:
-  - Ray Charles, Nina Simone, Al Green, Aretha Franklin, Billie Holiday
+    - 'Ray Charles, Nina Simone, Al Green, Aretha Franklin, Billie Holiday'
 spotify_data:
   followers: 213037
   id: 1PgsdK1Ll4oK28g6KLPOg1
   popularity: 35
-  url: https://open.spotify.com/artist/1PgsdK1Ll4oK28g6KLPOg1
+  url: 'https://open.spotify.com/artist/1PgsdK1Ll4oK28g6KLPOg1'
 discography_enriched: true
 top_tracks:
-- Shaba (Shaba, Radepa, Tanhaei)
-- Baraye (Baraye)
-- Deli (Deli)
-- Radepa (Shaba, Radepa, Tanhaei)
-- Tanhaei (Shaba, Radepa, Tanhaei)
-- Sangin (Sobh Bekheir Iran)
-- Kalameye Oboor (Kalameye Oboor)
-- Bordo Bakht (Kasi Be Name Khoda)
-- Bikhabi (Bikhabi)
-- Khalesane (Parvaresh)
+  - 'Shaba (Shaba, Radepa, Tanhaei)'
+  - Baraye (Baraye)
+  - Deli (Deli)
+  - 'Radepa (Shaba, Radepa, Tanhaei)'
+  - 'Tanhaei (Shaba, Radepa, Tanhaei)'
+  - Sangin (Sobh Bekheir Iran)
+  - Kalameye Oboor (Kalameye Oboor)
+  - Bordo Bakht (Kasi Be Name Khoda)
+  - Bikhabi (Bikhabi)
+  - Khalesane (Parvaresh)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/67930b3e-e00b-469f-8c74-fd69f20522ec
-  spotify: https://open.spotify.com/artist/1PgsdK1Ll4oK28g6KLPOg1
-  wikipedia: https://en.wikipedia.org/wiki/Sade_(singer)
+  musicbrainz: 'https://musicbrainz.org/artist/67930b3e-e00b-469f-8c74-fd69f20522ec'
+  spotify: 'https://open.spotify.com/artist/1PgsdK1Ll4oK28g6KLPOg1'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sade_(singer)'
 image_path: 03_Resources/source_material/ArtistPortraits/sade.jpg
 biography_enhanced_at: '2025-10-20T10:33:34.645767'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.sade.com/biography
-- https://www.britannica.com/biography/Sade
-- https://www.last.fm/music/Sade/+wiki
-- https://www.thefourthfloor.co.uk/culture/the-soulful-seduction-and-private-life-of-sade
+  - 'https://www.sade.com/biography'
+  - 'https://www.britannica.com/biography/Sade'
+  - 'https://www.last.fm/music/Sade/+wiki'
+  - >-
+    https://www.thefourthfloor.co.uk/culture/the-soulful-seduction-and-private-life-of-sade
 network_extracted: true
 entry_created: '2025-10-20T10:33:34.645782'
 last_updated: '2025-12-23T08:16:15.265121'
@@ -84,9 +85,10 @@ disambiguation: group w/ singer of same performance name
 musicbrainz_enriched_at: '2025-10-21T09:55:34.845459'
 musicbrainz_id: 67930b3e-e00b-469f-8c74-fd69f20522ec
 tags:
-- am
-- contemporary r&b
-- downtempo
+  - am
+  - contemporary r&b
+  - downtempo
+origin: 'Essex, England, United Kingdom'
 ---
 
 ![](sade.jpg)

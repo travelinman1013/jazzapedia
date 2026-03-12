@@ -5,10 +5,10 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1939-01-30'
-birth_place: Vallejo
+birth_place: 'Vallejo, California, United States'
 death_date: '2019-12-29'
 genres:
-- southern gothic
+  - southern gothic
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/norma_tanega.jpg
   caption: Norma Tanega
@@ -31,59 +31,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dusty Springfield
-  - Herb Bernstein
-  - Bob Crewe
-  - Brian Ransom
-  - Mike Henderson
-  - Robert Grajeda
+    - Dusty Springfield
+    - Herb Bernstein
+    - Bob Crewe
+    - Brian Ransom
+    - Mike Henderson
+    - Robert Grajeda
   influenced:
-  - Barry McGuire
-  - Art Blakey and the Jazz Crusaders
-  - Contemporary LGBTQ and experimental musicians
+    - Barry McGuire
+    - Art Blakey and the Jazz Crusaders
+    - Contemporary LGBTQ and experimental musicians
   mentors:
-  - Joan Baez
-  - Aaron Copland
+    - Joan Baez
+    - Aaron Copland
 spotify_data:
   followers: 70630
   id: 4nlQA3jNE8cukTo6CdyCWP
   popularity: 42
-  url: https://open.spotify.com/artist/4nlQA3jNE8cukTo6CdyCWP
+  url: 'https://open.spotify.com/artist/4nlQA3jNE8cukTo6CdyCWP'
 discography_enriched: true
 top_tracks:
-- You're Dead (Walkin' My Cat Named Dog)
-- Walkin' My Cat Named Dog (Walkin' My Cat Named Dog)
-- A Street That Rhymes at 6am (Walkin' My Cat Named Dog)
-- Jubilation (Walkin' My Cat Named Dog)
-- Treat Me Right (Walkin' My Cat Named Dog)
-- I'm the Sky (Walkin' My Cat Named Dog)
-- Maggie My Dog (Maggie My Dog)
-- Hey Girl (Walkin' My Cat Named Dog)
-- Now is the Time (I Don't Think It Will Hurt If You Smile)
-- Run, On the Run (In the Shadows)
+  - You're Dead (Walkin' My Cat Named Dog)
+  - Walkin' My Cat Named Dog (Walkin' My Cat Named Dog)
+  - A Street That Rhymes at 6am (Walkin' My Cat Named Dog)
+  - Jubilation (Walkin' My Cat Named Dog)
+  - Treat Me Right (Walkin' My Cat Named Dog)
+  - I'm the Sky (Walkin' My Cat Named Dog)
+  - Maggie My Dog (Maggie My Dog)
+  - Hey Girl (Walkin' My Cat Named Dog)
+  - Now is the Time (I Don't Think It Will Hurt If You Smile)
+  - 'Run, On the Run (In the Shadows)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6afd770e-8d2a-4243-b1fc-d9c22f11e428
-  spotify: https://open.spotify.com/artist/4nlQA3jNE8cukTo6CdyCWP
-  wikipedia: https://en.wikipedia.org/wiki/Norma_Tanega
+  musicbrainz: 'https://musicbrainz.org/artist/6afd770e-8d2a-4243-b1fc-d9c22f11e428'
+  spotify: 'https://open.spotify.com/artist/4nlQA3jNE8cukTo6CdyCWP'
+  wikipedia: 'https://en.wikipedia.org/wiki/Norma_Tanega'
 image_path: 03_Resources/source_material/ArtistPortraits/norma_tanega.jpg
 biography_enhanced_at: '2025-10-30T12:07:23.631217'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://fromthevaults-boppinbob.blogspot.com/2022/01/norma-tanega-born-26-january-1939.html
-- https://en.wikipedia.org/wiki/Norma_Tanega
-- https://nevermind.fm/episodes/norma-tanega-biography-history-music-art/
-- https://klofmag.com/2022/05/norma-tanega-anthology-and-book/
-- https://treasuryofclaremontmusic.com/norma-tanega
-- https://xtramagazine.com/culture/music/norma-tanega-folk-music-retrospective-221984
-- https://www.8asians.com/2023/10/30/asian-americans-in-pop-music-history-norma-tanega/
-- https://www.benmclane.com/tanega.htm
-- https://www.advocate.com/exclusives/2022/7/20/how-lesbian-singer-norma-tanega-took-hollywood-storm
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2022/01/norma-tanega-born-26-january-1939.html
+  - 'https://en.wikipedia.org/wiki/Norma_Tanega'
+  - 'https://nevermind.fm/episodes/norma-tanega-biography-history-music-art/'
+  - 'https://klofmag.com/2022/05/norma-tanega-anthology-and-book/'
+  - 'https://treasuryofclaremontmusic.com/norma-tanega'
+  - >-
+    https://xtramagazine.com/culture/music/norma-tanega-folk-music-retrospective-221984
+  - >-
+    https://www.8asians.com/2023/10/30/asian-americans-in-pop-music-history-norma-tanega/
+  - 'https://www.benmclane.com/tanega.htm'
+  - >-
+    https://www.advocate.com/exclusives/2022/7/20/how-lesbian-singer-norma-tanega-took-hollywood-storm
 network_extracted: true
 entry_created: '2025-10-30T12:07:23.631229'
 last_updated: '2025-12-23T08:16:13.643675'
 gender: Female
 musicbrainz_id: 6afd770e-8d2a-4243-b1fc-d9c22f11e428
+is_active: false
 ---
 
 ![](norma_tanega.jpg)

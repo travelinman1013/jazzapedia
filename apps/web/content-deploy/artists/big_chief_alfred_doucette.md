@@ -1,16 +1,16 @@
 ---
-title: BIG CHIEF ALFRED DOUCETTE
+title: Big Chief Alfred Doucette
 wiki_slug: big-chief-alfred-doucette
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- soul blues
+  - soul blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/big_chief_alfred_doucette.jpg
   caption: BIG CHIEF ALFRED DOUCETTE
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 124.5
   energy_avg: 0.743
@@ -26,50 +26,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lani Ramos (Big Pearl)
-  - Rick Whitfield
-  - Roland Doucette
-  - Sterling Doucette
+    - Lani Ramos (Big Pearl)
+    - Rick Whitfield
+    - Roland Doucette
+    - Sterling Doucette
   influenced:
-  - Local students and community members
+    - Local students and community members
   mentors:
-  - Native American tribal traditions
+    - Native American tribal traditions
 spotify_data:
   followers: 103
   id: 4HLb71GBsYAoX6fDz2sbKs
   popularity: 0
-  url: https://open.spotify.com/artist/4HLb71GBsYAoX6fDz2sbKs
+  url: 'https://open.spotify.com/artist/4HLb71GBsYAoX6fDz2sbKs'
 discography_enriched: true
 top_tracks:
-- Marie Laveau (Rollin' Wit Da Legends & Marie Laveau)
-- Fire on the Bayou (Rollin' Wit Da Legends & Marie Laveau)
-- Louisiana Pray (Rollin' Wit Da Legends & Marie Laveau)
-- Three in the Morning (Rollin' Wit Da Legends & Marie Laveau)
-- If You Want Me To Stay (Rollin' Wit Da Legends & Marie Laveau)
-- Ooh Poo Pa Doo (Rollin' Wit Da Legends & Marie Laveau)
-- Let the Good Times Roll (Rollin' Wit Da Legends & Marie Laveau)
-- Roll Ya Belly (Rollin' Wit Da Legends & Marie Laveau)
-- Use Me (Rollin' Wit Da Legends & Marie Laveau)
-- Stagger Lee (Rollin' Wit Da Legends & Marie Laveau)
+  - Marie Laveau (Rollin' Wit Da Legends & Marie Laveau)
+  - Fire on the Bayou (Rollin' Wit Da Legends & Marie Laveau)
+  - Louisiana Pray (Rollin' Wit Da Legends & Marie Laveau)
+  - Three in the Morning (Rollin' Wit Da Legends & Marie Laveau)
+  - If You Want Me To Stay (Rollin' Wit Da Legends & Marie Laveau)
+  - Ooh Poo Pa Doo (Rollin' Wit Da Legends & Marie Laveau)
+  - Let the Good Times Roll (Rollin' Wit Da Legends & Marie Laveau)
+  - Roll Ya Belly (Rollin' Wit Da Legends & Marie Laveau)
+  - Use Me (Rollin' Wit Da Legends & Marie Laveau)
+  - Stagger Lee (Rollin' Wit Da Legends & Marie Laveau)
 external_urls:
-  spotify: https://open.spotify.com/artist/4HLb71GBsYAoX6fDz2sbKs
+  spotify: 'https://open.spotify.com/artist/4HLb71GBsYAoX6fDz2sbKs'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/big_chief_alfred_doucette.jpg
 biography_enhanced_at: '2025-11-05T12:59:15.759304'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- KCRW Events - Mardi Gras Rock Show of New Orleans
-- YouTube - Roland and Alfred Doucette oral history with David Kunian and Jordan Hirsch
-- YouTube - Big Chief Alfred Doucette // History of Violence Among Mardi Gras Indians
-- YouTube - Big Chief Alfred Doucette
-- Last.fm - Big Chief Alfred Doucette biography
-- Where y'at? The New Orleans Course - Big Chief Alfred Doucette
-- Offbeat Magazine - Big Chief Alfred Doucette, Rollin' Wit Da Legends & Marie Laveau
+  - KCRW Events - Mardi Gras Rock Show of New Orleans
+  - >-
+    YouTube - Roland and Alfred Doucette oral history with David Kunian and
+    Jordan Hirsch
+  - >-
+    YouTube - Big Chief Alfred Doucette // History of Violence Among Mardi Gras
+    Indians
+  - YouTube - Big Chief Alfred Doucette
+  - Last.fm - Big Chief Alfred Doucette biography
+  - Where y'at? The New Orleans Course - Big Chief Alfred Doucette
+  - >-
+    Offbeat Magazine - Big Chief Alfred Doucette, Rollin' Wit Da Legends & Marie
+    Laveau
 network_extracted: true
 entry_created: '2025-11-05T12:59:15.759314'
 last_updated: '2025-12-23T08:16:05.423679'
-
+birth_date: '1940-10-27'
+artist_type: person
 ---
 
 ![](big_chief_alfred_doucette.jpg)

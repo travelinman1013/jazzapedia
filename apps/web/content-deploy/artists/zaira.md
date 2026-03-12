@@ -1,20 +1,20 @@
 ---
-title: Zaira
+title: Zaira Meneses
 wiki_slug: zaira
 schema_version: 2
 status: active
-birth_place: Mexico (birthplace); Boston, Massachusetts, USA (career base)
+birth_place: 'Mexico (birthplace); Boston, Massachusetts, USA (career base)'
 genres:
-- deathcore
-- death metal
-- metal
-- metalcore
-- djent
+  - deathcore
+  - death metal
+  - metal
+  - metalcore
+  - djent
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/zaira.jpg
   caption: Zaira
   background: solo_singer
-  origin: Mexico (birthplace); Boston, Massachusetts, USA (career base)
+  origin: 'Mexico (birthplace); Boston, Massachusetts, USA (career base)'
 audio_profile:
   tempo_avg: 132.7
   energy_avg: 0.97
@@ -30,42 +30,44 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Various orchestras
+    - Various orchestras
   influenced:
-  - Women in classical guitar
+    - Women in classical guitar
   mentors:
-  - Leo Brouwer
+    - Leo Brouwer
 spotify_data:
   followers: 518615
   id: 3et9upNERQI5IYt5jEDTxM
   popularity: 49
-  url: https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM
+  url: 'https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM'
 discography_enriched: true
 top_tracks:
-- Reign of Darkness (Hate)
-- Holy War (Holy War)
-- Death Squad Anthem (Human Target)
-- Make America Hate Again (Human Target)
-- Puppet Master (Dear Desolation)
-- Killing Season
-- Keres (Godlike)
-- The Purest Strain of Hate (Hate)
-- Slaves Beyond Death (Dear Desolation)
-- Dear Desolation (Dear Desolation)
+  - Reign of Darkness (Hate)
+  - Holy War (Holy War)
+  - Death Squad Anthem (Human Target)
+  - Make America Hate Again (Human Target)
+  - Puppet Master (Dear Desolation)
+  - Killing Season
+  - Keres (Godlike)
+  - The Purest Strain of Hate (Hate)
+  - Slaves Beyond Death (Dear Desolation)
+  - Dear Desolation (Dear Desolation)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/dae83841-74bb-432a-923c-7929fef55bb8
-  spotify: https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM
+  musicbrainz: 'https://musicbrainz.org/artist/dae83841-74bb-432a-923c-7929fef55bb8'
+  spotify: 'https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/zaira.jpg
 biography_enhanced_at: '2025-11-10T03:38:47.042649'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://zairameneses.com/about-zaira-meneses/
+  - 'https://zairameneses.com/about-zaira-meneses/'
 network_extracted: true
 entry_created: '2025-11-10T03:38:47.042666'
 last_updated: '2025-12-23T08:16:18.407983'
 musicbrainz_id: dae83841-74bb-432a-923c-7929fef55bb8
+origin: 'Boston, Massachusetts, USA'
+artist_type: person
 ---
 
 ![](zaira.jpg)

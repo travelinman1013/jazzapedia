@@ -2,17 +2,17 @@
 title: Tedeschi Trucks Band
 wiki_slug: tedeschi-trucks-band
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 birth_date: '2010'
 genres:
-- modern blues
-- blues rock
-- blues
-- southern rock
+  - modern blues
+  - blues rock
+  - blues
+  - southern rock
 instruments:
-- original
-- saxophone
+  - original
+  - saxophone
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/tedeschi_trucks_band.jpg
   caption: Tedeschi Trucks Band
@@ -33,125 +33,125 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Susan Tedeschi
-  - Derek Trucks
-  - Mike Mattison
-  - Gabe Dixon
-  - Brandon Boone
-  - Tyler Greenwell
-  - Mark Rivers and Alecia Chakour
-  - Kebbi Williams, Ephraim Owens, Elizabeth Lea
+    - Susan Tedeschi
+    - Derek Trucks
+    - Mike Mattison
+    - Gabe Dixon
+    - Brandon Boone
+    - Tyler Greenwell
+    - Mark Rivers and Alecia Chakour
+    - 'Kebbi Williams, Ephraim Owens, Elizabeth Lea'
   influenced:
-  - Contemporary blues‑rock and jam‑band artists (general category)
+    - Contemporary blues‑rock and jam‑band artists (general category)
   mentors:
-  - The Allman Brothers Band
-  - B.B. King, Buddy Guy, Taj Mahal, Otis Rush, Magic Sam
-  - John Coltrane, Miles Davis, Wayne Shorter
+    - The Allman Brothers Band
+    - 'B.B. King, Buddy Guy, Taj Mahal, Otis Rush, Magic Sam'
+    - 'John Coltrane, Miles Davis, Wayne Shorter'
 spotify_data:
   followers: 491972
   id: 2gFsmDBM0hkoZPmrO5EdyO
   popularity: 54
-  url: https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO
+  url: 'https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO'
 discography_enriched: true
 top_tracks:
-- Midnight in Harlem (Revelator)
-- Part of Me (Made Up Mind)
-- Hear Me (Let Me Get By (Deluxe Edition))
-- Anyhow (Let Me Get By (Deluxe Edition))
-- 'Soul Sweet Song (I Am The Moon: IV. Farewell)'
-- Don't Know What It Means (Let Me Get By (Deluxe Edition))
-- Do I Look Worried (Made Up Mind)
-- Bound for Glory (Revelator)
-- Just As Strange (Let Me Get By (Deluxe Edition))
-- 'Hear My Dear (I Am The Moon: I. Crescent)'
+  - Midnight in Harlem (Revelator)
+  - Part of Me (Made Up Mind)
+  - Hear Me (Let Me Get By (Deluxe Edition))
+  - Anyhow (Let Me Get By (Deluxe Edition))
+  - 'Soul Sweet Song (I Am The Moon: IV. Farewell)'
+  - Don't Know What It Means (Let Me Get By (Deluxe Edition))
+  - Do I Look Worried (Made Up Mind)
+  - Bound for Glory (Revelator)
+  - Just As Strange (Let Me Get By (Deluxe Edition))
+  - 'Hear My Dear (I Am The Moon: I. Crescent)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e33e1ccf-a3b9-4449-a66a-0091e8f55a60
-  spotify: https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO
-  wikipedia: https://en.wikipedia.org/wiki/Tedeschi_Trucks_Band
+  musicbrainz: 'https://musicbrainz.org/artist/e33e1ccf-a3b9-4449-a66a-0091e8f55a60'
+  spotify: 'https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tedeschi_Trucks_Band'
 image_path: 03_Resources/source_material/ArtistPortraits/tedeschi_trucks_band.jpg
 biography_enhanced_at: '2025-12-13T12:44:44.829391'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.laphil.com/musicdb/artists/5208/tedeschi-trucks-band
-- https://wfuv.org/content/susan-tedeschi-and-derek-trucks
-- https://shorefire.com/roster/tedeschi-trucks-band/bio
-- https://www.tedeschitrucksband.com/the-band
-- https://flamingomag.com/2023/07/13/tedeschi-trucks-band-american-music/
-- https://www.loud.global/blog-posts/tedeschi-trucks-band
+  - 'https://www.laphil.com/musicdb/artists/5208/tedeschi-trucks-band'
+  - 'https://wfuv.org/content/susan-tedeschi-and-derek-trucks'
+  - 'https://shorefire.com/roster/tedeschi-trucks-band/bio'
+  - 'https://www.tedeschitrucksband.com/the-band'
+  - 'https://flamingomag.com/2023/07/13/tedeschi-trucks-band-american-music/'
+  - 'https://www.loud.global/blog-posts/tedeschi-trucks-band'
 network_extracted: true
 entry_created: '2025-12-13T12:44:44.829397'
 last_updated: '2025-12-23T08:16:16.461286'
 members:
-- &id001
-  begin: '2010'
-  end: ''
-  instruments:
-  - original
-  mbid: deabe097-2a03-49ce-9ae3-c9645bc778c7
-  name: Susan Tedeschi
-- &id002
-  begin: '2010'
-  end: ''
-  instruments:
-  - original
-  mbid: 954a45e0-5e21-44ae-8d56-44b79b4f1cb3
-  name: Derek Trucks
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 71f1a4fb-7e65-4e50-b3cf-5fffc7df2669
-  name: Maurice Brown
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3635cfef-0584-4340-a026-97db441350a2
-  name: Kofi Burbridge
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 93b14f95-6a98-46ae-820e-9997fac5f26b
-  name: Oteil Burbridge
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 82e0015a-73fd-4918-8e94-e5e5ddc4772d
-  name: Tyler Greenwell
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e0a50e7d-79a7-4414-899a-9b6f790fad56
-  name: Tim Lefebvre
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5ec580ff-0bc2-4e4c-8438-6d51c2f548c9
-  name: Mark Rivers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c86f0838-4ba7-4169-bb77-de6317fc3e4c
-  name: Saunders Sermons
-- begin: ''
-  end: ''
-  instruments:
-  - saxophone
-  mbid: 76ee59d4-d190-40dd-a445-f0eb1b3b3ea2
-  name: Kebbi Williams
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f4c81776-18d1-4722-8e1c-aab2be63ca47
-  name: J.J. Johnson
+  - &ref_0
+    begin: '2010'
+    end: ''
+    instruments:
+      - original
+    mbid: deabe097-2a03-49ce-9ae3-c9645bc778c7
+    name: Susan Tedeschi
+  - &ref_1
+    begin: '2010'
+    end: ''
+    instruments:
+      - original
+    mbid: 954a45e0-5e21-44ae-8d56-44b79b4f1cb3
+    name: Derek Trucks
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 71f1a4fb-7e65-4e50-b3cf-5fffc7df2669
+    name: Maurice Brown
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3635cfef-0584-4340-a026-97db441350a2
+    name: Kofi Burbridge
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 93b14f95-6a98-46ae-820e-9997fac5f26b
+    name: Oteil Burbridge
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 82e0015a-73fd-4918-8e94-e5e5ddc4772d
+    name: Tyler Greenwell
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e0a50e7d-79a7-4414-899a-9b6f790fad56
+    name: Tim Lefebvre
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5ec580ff-0bc2-4e4c-8438-6d51c2f548c9
+    name: Mark Rivers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c86f0838-4ba7-4169-bb77-de6317fc3e4c
+    name: Saunders Sermons
+  - begin: ''
+    end: ''
+    instruments:
+      - saxophone
+    mbid: 76ee59d4-d190-40dd-a445-f0eb1b3b3ea2
+    name: Kebbi Williams
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f4c81776-18d1-4722-8e1c-aab2be63ca47
+    name: J.J. Johnson
 musicbrainz_id: e33e1ccf-a3b9-4449-a66a-0091e8f55a60
-origin: Jacksonville
+origin: 'Jacksonville, Florida, United States'
 original_members:
-- *id001
-- *id002
+  - *ref_0
+  - *ref_1
 tags:
-- blue-eyed soul
-- blues rock
-- rock
+  - blue-eyed soul
+  - blues rock
+  - rock
 ---
 
 ![](tedeschi_trucks_band.jpg)

@@ -1,41 +1,42 @@
 ---
-artist_type: band
+artist_type: person
 biography_enhanced_at: '2026-01-15T01:18:39.186878'
 enhancement_provider: perplexity
 entry_created: '2026-01-15T01:18:39.186891'
 external_urls:
-  spotify: https://open.spotify.com/artist/1YLKfkbWHiXsn5Jsy1BgzV
-  wikipedia: https://en.wikipedia.org/wiki/Vance_Dixon
+  spotify: 'https://open.spotify.com/artist/1YLKfkbWHiXsn5Jsy1BgzV'
+  wikipedia: 'https://en.wikipedia.org/wiki/Vance_Dixon'
 genres:
-- ragtime
+  - ragtime
 image_path: 03_Resources/source_material/ArtistPortraits/dixons_jazz_maniacs.jpg
 is_active: true
 last_updated: '2026-01-15T01:18:39.186893'
 musical_connections:
   collaborators:
-  - Kline Tyndall
-  - Lawrence Dixon
-  - Hattie McDaniels
-  - Frankie Jaxon
+    - Kline Tyndall
+    - Lawrence Dixon
+    - Hattie McDaniels
+    - Frankie Jaxon
   influenced: []
   mentors:
-  - Erskine Tate
-  - Kline Tyndall
+    - Erskine Tate
+    - Kline Tyndall
 network_extracted: true
-origin: Chicago, Illinois, United States (recording location); Parkersburg, West Virginia,
-  United States (leader's birthplace)
+origin: 'Chicago, Illinois, United States'
 primary_source: perplexity
 research_sources:
-- https://syncopatedtimes.com/legends-the-lost-rare-and-hot-jazz-1925-1930/
-- https://en.wikipedia.org/wiki/Vance_Dixon
-- https://www.youtube.com/watch?v=DtSR8vXetek
+  - 'https://syncopatedtimes.com/legends-the-lost-rare-and-hot-jazz-1925-1930/'
+  - 'https://en.wikipedia.org/wiki/Vance_Dixon'
+  - 'https://www.youtube.com/watch?v=DtSR8vXetek'
 spotify_data:
   followers: 47
   id: 1YLKfkbWHiXsn5Jsy1BgzV
   popularity: 0
-  url: https://open.spotify.com/artist/1YLKfkbWHiXsn5Jsy1BgzV
+  url: 'https://open.spotify.com/artist/1YLKfkbWHiXsn5Jsy1BgzV'
 status: active
-title: DIXON'S JAZZ MANIACS
+title: Dixon's Jazz Maniacs
+birth_place: 'Parkersburg, West Virginia, United States'
+birth_date: '1901-09-12'
 ---
 
 ![](dixons_jazz_maniacs.jpg)

@@ -9,7 +9,7 @@ infobox:
   caption: The Courtyard Kings
   background: solo_singer
 audio_profile:
-  tempo_avg: 118.0
+  tempo_avg: 118
   energy_avg: 0.365
   valence_avg: 0.699
   danceability_avg: 0.662
@@ -29,33 +29,34 @@ spotify_data:
   followers: 264
   id: 0lmVWQ1lajB7VoVQtPMOmt
   popularity: 0
-  url: https://open.spotify.com/artist/0lmVWQ1lajB7VoVQtPMOmt
+  url: 'https://open.spotify.com/artist/0lmVWQ1lajB7VoVQtPMOmt'
 discography_enriched: true
 top_tracks:
-- Songe d'automne (Douces Wild)
-- Brazil (Douces Wild)
-- Si tu savais (Douces Wild)
-- Douce Ambiance (Douces Wild)
-- Corcovado (Quiet Nights of Quiet Stars) (Douces Wild)
-- Douce Joie (Douces Wild)
-- Exactly Like You (Douces Wild)
-- Manoir de mes reves (Douces Wild)
-- My Funny Valentine (Douces Wild)
-- St. Thomas (Douces Wild)
+  - Songe d'automne (Douces Wild)
+  - Brazil (Douces Wild)
+  - Si tu savais (Douces Wild)
+  - Douce Ambiance (Douces Wild)
+  - Corcovado (Quiet Nights of Quiet Stars) (Douces Wild)
+  - Douce Joie (Douces Wild)
+  - Exactly Like You (Douces Wild)
+  - Manoir de mes reves (Douces Wild)
+  - My Funny Valentine (Douces Wild)
+  - St. Thomas (Douces Wild)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/365e2ab1-a2e9-4c4e-8f0d-b7cadd18d89c
-  spotify: https://open.spotify.com/artist/0lmVWQ1lajB7VoVQtPMOmt
+  musicbrainz: 'https://musicbrainz.org/artist/365e2ab1-a2e9-4c4e-8f0d-b7cadd18d89c'
+  spotify: 'https://open.spotify.com/artist/0lmVWQ1lajB7VoVQtPMOmt'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/the_courtyard_kings.jpg
 biography_enhanced_at: '2025-10-28T09:01:41.360716'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Spotify[3]
+  - 'Spotify[3]'
 network_extracted: true
 entry_created: '2025-10-28T09:01:41.360732'
 last_updated: '2025-12-23T08:16:16.673140'
 musicbrainz_id: 365e2ab1-a2e9-4c4e-8f0d-b7cadd18d89c
+artist_type: band
 ---
 
 ![](the_courtyard_kings.jpg)

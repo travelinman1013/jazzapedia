@@ -1,17 +1,17 @@
 ---
-title: dr john
+title: DR John
 wiki_slug: dr-john
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/dr_john.jpg
   caption: dr john
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 112.8
   energy_avg: 0.569
@@ -27,49 +27,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Harold Battiste
-  - Johnny Adams
-  - Bobby Charles
-  - Eric Clapton, Willie Nelson, Ani DiFranco, Terence Blanchard
+    - Harold Battiste
+    - Johnny Adams
+    - Bobby Charles
+    - 'Eric Clapton, Willie Nelson, Ani DiFranco, Terence Blanchard'
   influenced:
-  - The Neville Brothers
-  - Trombone Shorty
-  - Jon Batiste
+    - The Neville Brothers
+    - Trombone Shorty
+    - Jon Batiste
   mentors:
-  - Walter 'Papoose' Nelson
-  - Roy Montrell
-  - Professor Longhair (Roy Byrd)
+    - Walter 'Papoose' Nelson
+    - Roy Montrell
+    - Professor Longhair (Roy Byrd)
 spotify_data:
   followers: 258871
   id: 320TrJub4arztwXRm7kqVO
   popularity: 48
-  url: https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO
+  url: 'https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO'
 discography_enriched: true
 top_tracks:
-- Right Place Wrong Time (In The Right Place)
-- Down in New Orleans
-- Such a Night (In The Right Place)
-- Will The Circle Be Unbroken - Live
-- Iko Iko (Dr. John's Gumbo)
-- Six Strings Down (The Essential Jimmie Vaughan)
-- Cold Cold Cold (In The Right Place)
-- Mama Roux (Gris Gris)
-- (Everybody Wanna Get Rich) Rite Away (Desitively Bonnaroo)
-- Curious George Theme Song
+  - Right Place Wrong Time (In The Right Place)
+  - Down in New Orleans
+  - Such a Night (In The Right Place)
+  - Will The Circle Be Unbroken - Live
+  - Iko Iko (Dr. John's Gumbo)
+  - Six Strings Down (The Essential Jimmie Vaughan)
+  - Cold Cold Cold (In The Right Place)
+  - Mama Roux (Gris Gris)
+  - (Everybody Wanna Get Rich) Rite Away (Desitively Bonnaroo)
+  - Curious George Theme Song
 external_urls:
-  spotify: https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO
-  wikipedia: https://en.wikipedia.org/wiki/Dr._John
+  spotify: 'https://open.spotify.com/artist/320TrJub4arztwXRm7kqVO'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dr._John'
 image_path: 03_Resources/source_material/ArtistPortraits/dr_john.jpg
 biography_enhanced_at: '2025-10-20T08:55:30.022083'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://musicrising.tulane.edu/discover/people/malcolm-dr-john-rebennack/
-- https://en.wikipedia.org/wiki/Dr._John
-- https://www.explorelouisiana.com/music/dr-john
+  - 'https://musicrising.tulane.edu/discover/people/malcolm-dr-john-rebennack/'
+  - 'https://en.wikipedia.org/wiki/Dr._John'
+  - 'https://www.explorelouisiana.com/music/dr-john'
 network_extracted: true
 entry_created: '2025-10-20T08:55:30.022106'
 last_updated: '2025-12-23T08:16:08.026772'
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1941-11-20'
+death_date: '2019-06-06'
+artist_type: person
 ---
 
 ![](dr_john.jpg)

@@ -2,43 +2,43 @@
 artist_type: person
 biography_enhanced_at: '2025-12-26T01:25:15.972268'
 birth_date: '1941-06-21'
-birth_place: Birmingham
+birth_place: 'Birmingham, Alabama, United States'
 enhancement_provider: perplexity
 entry_created: '2025-12-26T01:25:15.972283'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1f6949e2-f257-40f3-851e-e2e02271e398
-  spotify: https://open.spotify.com/artist/0nDEW2hmRliyOfxJwO2CL9
-  wikipedia: https://en.wikipedia.org/wiki/Mitty_Collier
+  musicbrainz: 'https://musicbrainz.org/artist/1f6949e2-f257-40f3-851e-e2e02271e398'
+  spotify: 'https://open.spotify.com/artist/0nDEW2hmRliyOfxJwO2CL9'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mitty_Collier'
 gender: Female
 genres:
-- northern soul
-- soul
+  - northern soul
+  - soul
 image_path: 03_Resources/source_material/ArtistPortraits/mitty_collier.jpg
 last_updated: '2025-12-26T01:25:15.972284'
 musical_connections:
   collaborators:
-  - Hayes Ensemble
+    - Hayes Ensemble
   influenced: []
   mentors:
-  - Ralph Bass
+    - Ralph Bass
 musicbrainz_id: 1f6949e2-f257-40f3-851e-e2e02271e398
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.bhamwiki.com/w/Mitty_Collier
-- https://en.wikipedia.org/wiki/Mitty_Collier
-- http://www.soulwalking.co.uk/Mitty%20Collier.html
-- https://www.bear-family.com/collier-mitty/
-- http://xpngospelroots.org/a-conversation-with-pastor-mitty-collier/
+  - 'https://www.bhamwiki.com/w/Mitty_Collier'
+  - 'https://en.wikipedia.org/wiki/Mitty_Collier'
+  - 'http://www.soulwalking.co.uk/Mitty%20Collier.html'
+  - 'https://www.bear-family.com/collier-mitty/'
+  - 'http://xpngospelroots.org/a-conversation-with-pastor-mitty-collier/'
 spotify_data:
   followers: 11031
   id: 0nDEW2hmRliyOfxJwO2CL9
   popularity: 20
-  url: https://open.spotify.com/artist/0nDEW2hmRliyOfxJwO2CL9
+  url: 'https://open.spotify.com/artist/0nDEW2hmRliyOfxJwO2CL9'
 status: active
 tags:
-- 2008 universal fire victim
-- soul
+  - 2008 universal fire victim
+  - soul
 title: Mitty Collier
 ---
 

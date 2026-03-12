@@ -1,19 +1,19 @@
 ---
-title: PERCY SLEDGE
+title: Percy Sledge
 wiki_slug: percy-sledge
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1940-11-25'
-birth_place: Leighton
+birth_place: 'Leighton, Alabama, United States'
 death_date: '2015-04-14'
 genres:
-- motown
-- soul
+  - motown
+  - soul
 instruments:
-- background vocals
-- lead vocals
-- spoken vocals
+  - background vocals
+  - lead vocals
+  - spoken vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/percy_sledge.jpg
   caption: PERCY SLEDGE
@@ -36,53 +36,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Quin Ivy
-  - Marlin Greene
-  - Spooner Oldham & Dan Penn
-  - Muscle Shoals Rhythm Section
+    - Quin Ivy
+    - Marlin Greene
+    - Spooner Oldham & Dan Penn
+    - Muscle Shoals Rhythm Section
   influenced:
-  - Michael Bolton
-  - Artists of the Muscle Shoals sound
+    - Michael Bolton
+    - Artists of the Muscle Shoals sound
   mentors:
-  - Grand Ole Opry country artists
+    - Grand Ole Opry country artists
 spotify_data:
   followers: 563833
   id: 3rRmDmzPcAFwcUDvG5gBqO
   popularity: 52
-  url: https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO
+  url: 'https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO'
 discography_enriched: true
 top_tracks:
-- When a Man Loves a Woman (When a Man Loves a Woman)
-- When a Man Loves a Woman (When a Man Loves a Woman)
-- My Special Prayer (The Percy Sledge Way)
-- You Really Got a Hold on Me (Warm & Tender Soul)
-- When a Man Loves a Woman - 2000 Remaster (The Atlantic Recordings)
-- When a Man Loves a Woman - Mono (When a Man Loves a Woman (Mono))
-- Warm and Tender Love - Single Version (Warm & Tender Soul)
-- Dark End of the Street (The Percy Sledge Way)
-- Take Time to Know Her (Take Time to Know Her)
-- Love Me Tender (Warm & Tender Soul)
+  - When a Man Loves a Woman (When a Man Loves a Woman)
+  - When a Man Loves a Woman (When a Man Loves a Woman)
+  - My Special Prayer (The Percy Sledge Way)
+  - You Really Got a Hold on Me (Warm & Tender Soul)
+  - When a Man Loves a Woman - 2000 Remaster (The Atlantic Recordings)
+  - When a Man Loves a Woman - Mono (When a Man Loves a Woman (Mono))
+  - Warm and Tender Love - Single Version (Warm & Tender Soul)
+  - Dark End of the Street (The Percy Sledge Way)
+  - Take Time to Know Her (Take Time to Know Her)
+  - Love Me Tender (Warm & Tender Soul)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c2f37fdf-5e8f-4d9c-9a03-219a8239cf5f
-  spotify: https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO
-  wikipedia: https://en.wikipedia.org/wiki/Percy_Sledge
+  musicbrainz: 'https://musicbrainz.org/artist/c2f37fdf-5e8f-4d9c-9a03-219a8239cf5f'
+  spotify: 'https://open.spotify.com/artist/3rRmDmzPcAFwcUDvG5gBqO'
+  wikipedia: 'https://en.wikipedia.org/wiki/Percy_Sledge'
 image_path: 03_Resources/source_material/ArtistPortraits/percy_sledge.jpg
 biography_enhanced_at: '2025-10-28T09:18:41.712371'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://encyclopediaofalabama.org/article/percy-sledge/
-- https://64parishes.org/entry/percy-sledge
-- https://www.alamhof.org/percysledge
-- https://www.britannica.com/biography/Percy-Sledge
+  - 'https://encyclopediaofalabama.org/article/percy-sledge/'
+  - 'https://64parishes.org/entry/percy-sledge'
+  - 'https://www.alamhof.org/percysledge'
+  - 'https://www.britannica.com/biography/Percy-Sledge'
 network_extracted: true
 entry_created: '2025-10-28T09:18:41.712375'
 last_updated: '2025-12-23T08:16:14.198331'
 gender: Male
 musicbrainz_id: c2f37fdf-5e8f-4d9c-9a03-219a8239cf5f
 tags:
-- soul
-
+  - soul
+is_active: false
+origin: 'Sheffield, Alabama, United States'
 ---
 
 ![](percy_sledge.jpg)

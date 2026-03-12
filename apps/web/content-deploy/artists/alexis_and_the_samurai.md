@@ -2,7 +2,7 @@
 title: Alexis & the Samurai
 wiki_slug: alexis-the-samurai
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 birth_date: '2012'
 genres: []
@@ -26,61 +26,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Alexis Marceaux
-  - Sam Craft
+    - Alexis Marceaux
+    - Sam Craft
   influenced: []
   mentors:
-  - New Orleans Music Community
+    - New Orleans Music Community
 spotify_data:
   followers: 944
   id: 0CC5YOzGmoRI0rmRqHZTfq
   popularity: 1
-  url: https://open.spotify.com/artist/0CC5YOzGmoRI0rmRqHZTfq
+  url: 'https://open.spotify.com/artist/0CC5YOzGmoRI0rmRqHZTfq'
 discography_enriched: true
 top_tracks:
-- Pots and Pans (Move into View)
-- Parlez-Nous À Boire (Move into View)
-- Brains (Orange Moon)
-- Swamp Fire (Move into View)
-- Shut Up (Move into View)
-- I'm Gonna Sit Right Down and Write Myself a Letter (Move into View)
-- Stuck (Move into View)
-- Leila and the Orange Moon (Orange Moon)
-- Stars (Orange Moon)
-- Fox (Orange Moon)
+  - Pots and Pans (Move into View)
+  - Parlez-Nous À Boire (Move into View)
+  - Brains (Orange Moon)
+  - Swamp Fire (Move into View)
+  - Shut Up (Move into View)
+  - I'm Gonna Sit Right Down and Write Myself a Letter (Move into View)
+  - Stuck (Move into View)
+  - Leila and the Orange Moon (Orange Moon)
+  - Stars (Orange Moon)
+  - Fox (Orange Moon)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/cef4cd87-98b2-4f1c-96d1-742aa7d52979
-  spotify: https://open.spotify.com/artist/0CC5YOzGmoRI0rmRqHZTfq
+  musicbrainz: 'https://musicbrainz.org/artist/cef4cd87-98b2-4f1c-96d1-742aa7d52979'
+  spotify: 'https://open.spotify.com/artist/0CC5YOzGmoRI0rmRqHZTfq'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/alexis_and_the_samurai.jpg
 biography_enhanced_at: '2025-11-21T07:17:02.943596'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.myspiltmilk.com/articles/alexis-and-the-samurai-change-their-name-sound
-- https://www.highroadtouring.com/artists/alexis-the-sanity/
-- https://www.myspiltmilk.com/articles/alexis-and-the-samurai-move-into-view
-- https://www.iheartnola.com/entertainment-alexis-the-samurai-move-into-view/
-- https://tulanehullabaloo.com/23419/arcade/23419/
-- https://www.outalldaynola.com/alexis-and-the-sanity-interview.html
-- https://www.offbeat.com/music/alexis-samurai-move-view-independent/
+  - >-
+    https://www.myspiltmilk.com/articles/alexis-and-the-samurai-change-their-name-sound
+  - 'https://www.highroadtouring.com/artists/alexis-the-sanity/'
+  - 'https://www.myspiltmilk.com/articles/alexis-and-the-samurai-move-into-view'
+  - 'https://www.iheartnola.com/entertainment-alexis-the-samurai-move-into-view/'
+  - 'https://tulanehullabaloo.com/23419/arcade/23419/'
+  - 'https://www.outalldaynola.com/alexis-and-the-sanity-interview.html'
+  - 'https://www.offbeat.com/music/alexis-samurai-move-view-independent/'
 network_extracted: true
 entry_created: '2025-11-21T07:17:02.943607'
 last_updated: '2025-12-23T08:16:04.553856'
 disambiguation: Alexis Marceaux & Sam Craft
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8129fabf-9894-4ff3-a271-df004a444fd8
-  name: Sam Craft
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9d7d5e78-1008-4cff-8917-ca7e42034832
-  name: Alexis Marceaux
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8129fabf-9894-4ff3-a271-df004a444fd8
+    name: Sam Craft
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9d7d5e78-1008-4cff-8917-ca7e42034832
+    name: Alexis Marceaux
 musicbrainz_id: cef4cd87-98b2-4f1c-96d1-742aa7d52979
-origin: New Orleans
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](alexis_and_the_samurai.jpg)

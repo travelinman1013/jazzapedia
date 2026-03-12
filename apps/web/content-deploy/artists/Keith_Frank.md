@@ -3,15 +3,15 @@ title: Keith Frank
 wiki_slug: keith-frank
 schema_version: 2
 status: active
-birth_place: Soileau, Louisiana, United States
+birth_place: 'Soileau, Louisiana, United States'
 genres:
-- zydeco
-- cajun
+  - zydeco
+  - cajun
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/keith_frank.jpg
   caption: Keith Frank
   background: solo_singer
-  origin: Soileau, Louisiana, United States
+  origin: 'Soileau, Louisiana, United States'
 audio_profile:
   tempo_avg: 123.1
   energy_avg: 0.742
@@ -27,44 +27,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jennifer Frank
-  - Brad Frank
+    - Jennifer Frank
+    - Brad Frank
   influenced:
-  - Nouveau Zydeco artists
+    - Nouveau Zydeco artists
   mentors:
-  - Preston Frank
+    - Preston Frank
 spotify_data:
   followers: 21379
   id: 0bHBHjR650qOW4vgWU4E4L
   popularity: 32
-  url: https://open.spotify.com/artist/0bHBHjR650qOW4vgWU4E4L
+  url: 'https://open.spotify.com/artist/0bHBHjR650qOW4vgWU4E4L'
 discography_enriched: true
 top_tracks:
-- Haterz (feat. Lil Boosie) (Haterz (feat. Lil Boosie))
-- Casanova (Loved. Feared. Respected.)
-- Haterz (Loved. Feared. Respected.)
-- Hey 'Tite Fille (Hey 'Tite Fille)
-- Good Music (Sweet Soul Music) (Only the Strong Survive)
-- Overcome (Loved. Feared. Respected.)
-- Teddy Bear (Live At Slim's Y Ki Ki, Vol. II)
-- Come on Home (feat. Keith Frank) (Come on Home (feat. Keith Frank))
-- Don't Start No Sh** (Follow the Leader)
-- Watch My Step / Movin' on Up - Medley (Movin' on Up!)
+  - Haterz (feat. Lil Boosie) (Haterz (feat. Lil Boosie))
+  - Casanova (Loved. Feared. Respected.)
+  - Haterz (Loved. Feared. Respected.)
+  - Hey 'Tite Fille (Hey 'Tite Fille)
+  - Good Music (Sweet Soul Music) (Only the Strong Survive)
+  - Overcome (Loved. Feared. Respected.)
+  - 'Teddy Bear (Live At Slim''s Y Ki Ki, Vol. II)'
+  - Come on Home (feat. Keith Frank) (Come on Home (feat. Keith Frank))
+  - Don't Start No Sh** (Follow the Leader)
+  - Watch My Step / Movin' on Up - Medley (Movin' on Up!)
 external_urls:
-  spotify: https://open.spotify.com/artist/0bHBHjR650qOW4vgWU4E4L
-  wikipedia: https://en.wikipedia.org/wiki/Keith_Frank
+  spotify: 'https://open.spotify.com/artist/0bHBHjR650qOW4vgWU4E4L'
+  wikipedia: 'https://en.wikipedia.org/wiki/Keith_Frank'
 image_path: 03_Resources/source_material/ArtistPortraits/keith_frank.jpg
 biography_enhanced_at: '2025-10-23T07:45:03.745804'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Keith_Frank
-- https://www.bear-family.com/frank-keith/
-- https://montanafolkfestival.com/keith-frank-the-soileau-zydeco-band/
-- https://flattownmusic.com/artist/keith-frank/
+  - 'https://en.wikipedia.org/wiki/Keith_Frank'
+  - 'https://www.bear-family.com/frank-keith/'
+  - 'https://montanafolkfestival.com/keith-frank-the-soileau-zydeco-band/'
+  - 'https://flattownmusic.com/artist/keith-frank/'
 network_extracted: true
 entry_created: '2025-10-23T07:45:03.745823'
 last_updated: '2025-12-23T08:16:02.812857'
+birth_date: '1972-10-09'
+artist_type: person
 ---
 
 ![](keith_frank.jpg)

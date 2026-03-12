@@ -1,17 +1,17 @@
 ---
-title: PAUL SPECHT
+title: Paul Specht
 wiki_slug: paul-specht
 schema_version: 2
 status: active
-birth_place: Sinking Spring, Pennsylvania, United States
+birth_place: 'Sinking Spring, Pennsylvania, United States'
 genres:
-- ragtime
-- big band
+  - ragtime
+  - big band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/paul_specht.jpg
   caption: PAUL SPECHT
   background: solo_singer
-  origin: Sinking Spring, Pennsylvania, United States
+  origin: 'Sinking Spring, Pennsylvania, United States'
 audio_profile:
   tempo_avg: 142.8
   energy_avg: 0.363
@@ -27,55 +27,70 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Frank Guarente
-  - Arthur Schutt
-  - Chauncey Morehouse
-  - Charlie Spivak
-  - Sylvester Ahola
-  - The Three X Sisters
-  - Harl Smith
-  - Don Redman
-  - Hank D’Amico, Russ Morgan, Joe Tarto, Art Christmas, Lou Calabrese and others
+    - Frank Guarente
+    - Arthur Schutt
+    - Chauncey Morehouse
+    - Charlie Spivak
+    - Sylvester Ahola
+    - The Three X Sisters
+    - Harl Smith
+    - Don Redman
+    - >-
+      Hank D’Amico, Russ Morgan, Joe Tarto, Art Christmas, Lou Calabrese and
+      others
   influenced:
-  - Benny Goodman
-  - Artie Shaw
-  - California Ramblers and other dance bands
+    - Benny Goodman
+    - Artie Shaw
+    - California Ramblers and other dance bands
   mentors:
-  - Charles G. Specht
+    - Charles G. Specht
 spotify_data:
   followers: 205
   id: 1tCrPspkGQyLDhWFmTZanI
   popularity: 2
-  url: https://open.spotify.com/artist/1tCrPspkGQyLDhWFmTZanI
+  url: 'https://open.spotify.com/artist/1tCrPspkGQyLDhWFmTZanI'
 discography_enriched: true
 top_tracks:
-- Hot Feet (Roll up the Carpets - Everybody Dance!)
-- I Found A Million Dollar Baby (Top 70 Classics - The Very Best of Paul Specht)
-- 'Ten Little Miles from Town (Static Strut: Hot Dance Rarities 1922-1930)'
-- 'Static Strut (Static Strut: Hot Dance Rarities 1922-1930)'
-- Hittin the Ceiling - Original Mix (Jazz Classics 1928, Vol. 2)
-- Static Strut (Roll up the Carpets - Everybody Dance!)
-- Roll up the Carpets (Roll up the Carpets - Everybody Dance!)
-- St. Louis Shuffle (Roll up the Carpets - Everybody Dance!)
-- Cornfed! (Roll up the Carpets - Everybody Dance!)
-- The Things That Were Made for Love (Roll up the Carpets - Everybody Dance!)
+  - Hot Feet (Roll up the Carpets - Everybody Dance!)
+  - >-
+    I Found A Million Dollar Baby (Top 70 Classics - The Very Best of Paul
+    Specht)
+  - 'Ten Little Miles from Town (Static Strut: Hot Dance Rarities 1922-1930)'
+  - 'Static Strut (Static Strut: Hot Dance Rarities 1922-1930)'
+  - 'Hittin the Ceiling - Original Mix (Jazz Classics 1928, Vol. 2)'
+  - Static Strut (Roll up the Carpets - Everybody Dance!)
+  - Roll up the Carpets (Roll up the Carpets - Everybody Dance!)
+  - St. Louis Shuffle (Roll up the Carpets - Everybody Dance!)
+  - Cornfed! (Roll up the Carpets - Everybody Dance!)
+  - The Things That Were Made for Love (Roll up the Carpets - Everybody Dance!)
 external_urls:
-  spotify: https://open.spotify.com/artist/1tCrPspkGQyLDhWFmTZanI
-  wikipedia: https://en.wikipedia.org/wiki/Paul_Specht
+  spotify: 'https://open.spotify.com/artist/1tCrPspkGQyLDhWFmTZanI'
+  wikipedia: 'https://en.wikipedia.org/wiki/Paul_Specht'
 image_path: 03_Resources/source_material/ArtistPortraits/paul_specht.jpg
 biography_enhanced_at: '2025-12-11T03:48:29.977274'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- The 78 RPM Record Spins – Paul Specht artist profile and biographical sketch.[3]
-- From the Vaults (Boppin’ Bob) – Extended biographical article on Paul Specht and his recordings.[1]
-- Electrical Moonlight Records – Paul Specht notes and discographical context.[2]
-- The Syncopated Times – Article on The Georgians and the band‑within‑a‑band concept.[4]
-- JazzAge1920s.com – Paul Specht short biography and career overview.[6]
-- M.G. Thomas Dance Bands site – Biographical notes on Paul Specht and his background.[7]
+  - >-
+    The 78 RPM Record Spins – Paul Specht artist profile and biographical
+    sketch.[3]
+  - >-
+    From the Vaults (Boppin’ Bob) – Extended biographical article on Paul Specht
+    and his recordings.[1]
+  - >-
+    Electrical Moonlight Records – Paul Specht notes and discographical
+    context.[2]
+  - >-
+    The Syncopated Times – Article on The Georgians and the band‑within‑a‑band
+    concept.[4]
+  - 'JazzAge1920s.com – Paul Specht short biography and career overview.[6]'
+  - >-
+    M.G. Thomas Dance Bands site – Biographical notes on Paul Specht and his
+    background.[7]
 network_extracted: true
 entry_created: '2025-12-11T03:48:29.977286'
 last_updated: '2025-12-23T08:16:14.103401'
+artist_type: person
 ---
 
 ![](paul_specht.jpg)

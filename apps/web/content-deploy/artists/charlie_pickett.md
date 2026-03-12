@@ -3,17 +3,17 @@ title: Charlie Pickett
 wiki_slug: charlie-pickett
 schema_version: 2
 status: active
-birth_place: Meigs County, Ohio, USA (birthplace); Dania, Florida, USA (raised)
+birth_place: 'Meigs County, Ohio, USA (birthplace); Dania, Florida, USA (raised)'
 genres:
-- blues
-- classic blues
-- country blues
-- jangle pop
+  - blues
+  - classic blues
+  - country blues
+  - jangle pop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/charlie_pickett.jpg
   caption: Charlie Pickett
   background: solo_singer
-  origin: Meigs County, Ohio, USA (birthplace); Dania, Florida, USA (raised)
+  origin: 'Meigs County, Ohio, USA (birthplace); Dania, Florida, USA (raised)'
 audio_profile:
   tempo_avg: 121.3
   energy_avg: 0.329
@@ -29,48 +29,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Eggs
-  - Jim Duckworth
-  - Chris Osgood
-  - Maureen Tucker
-  - Eric Hohn
+    - The Eggs
+    - Jim Duckworth
+    - Chris Osgood
+    - Maureen Tucker
+    - Eric Hohn
   influenced:
-  - South Florida rock and punk musicians
+    - South Florida rock and punk musicians
   mentors:
-  - Rolling Stones
-  - Howlin’ Wolf
+    - Rolling Stones
+    - Howlin’ Wolf
 spotify_data:
   followers: 428
   id: 6WyZ2DRcupLnpSlIANxGjB
   popularity: 2
-  url: https://open.spotify.com/artist/6WyZ2DRcupLnpSlIANxGjB
+  url: 'https://open.spotify.com/artist/6WyZ2DRcupLnpSlIANxGjB'
 discography_enriched: true
 top_tracks:
-- Regrets (Adventures in Songwriting (Music from Season 1))
-- 'Marlboro Country (Bar Band Americanus: The Best of Charlie Pickett and…)'
-- 'If This is Love, Can I Get My Money Back? (Bar Band Americanus: The Best of Charlie Pickett and…)'
-- 'All Love All Gone (Bar Band Americanus: The Best of Charlie Pickett and…)'
-- 'Get Off on Your Porch (Bar Band Americanus: The Best of Charlie Pickett and…)'
-- 'Death Letter (Bar Band Americanus: The Best of Charlie Pickett and…)'
-- Trembling Blues (Got the Blues for You)
-- Let Me Squeeze Your Lemons (Elevator Papa, Switchboard Mama (Risque Songs 1920's-1950's))
-- What I Like About Miami (What I Like About Miami)
-- Too Good To End (Unreleased - DHMC6 Companion)
+  - Regrets (Adventures in Songwriting (Music from Season 1))
+  - 'Marlboro Country (Bar Band Americanus: The Best of Charlie Pickett and…)'
+  - >-
+    If This is Love, Can I Get My Money Back? (Bar Band Americanus: The Best of
+    Charlie Pickett and…)
+  - 'All Love All Gone (Bar Band Americanus: The Best of Charlie Pickett and…)'
+  - >-
+    Get Off on Your Porch (Bar Band Americanus: The Best of Charlie Pickett
+    and…)
+  - 'Death Letter (Bar Band Americanus: The Best of Charlie Pickett and…)'
+  - Trembling Blues (Got the Blues for You)
+  - >-
+    Let Me Squeeze Your Lemons (Elevator Papa, Switchboard Mama (Risque Songs
+    1920's-1950's))
+  - What I Like About Miami (What I Like About Miami)
+  - Too Good To End (Unreleased - DHMC6 Companion)
 external_urls:
-  spotify: https://open.spotify.com/artist/6WyZ2DRcupLnpSlIANxGjB
+  spotify: 'https://open.spotify.com/artist/6WyZ2DRcupLnpSlIANxGjB'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/charlie_pickett.jpg
 biography_enhanced_at: '2025-11-15T18:12:01.466948'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.twintonedigital.com/picket
-- https://www.browardpalmbeach.com/music/charlie-pickett-6327937
-- https://www.last.fm/music/Charlie+Pickett/+wiki
-- https://www.youtube.com/watch?v=-geZ4dTJEG8
+  - 'https://www.twintonedigital.com/picket'
+  - 'https://www.browardpalmbeach.com/music/charlie-pickett-6327937'
+  - 'https://www.last.fm/music/Charlie+Pickett/+wiki'
+  - 'https://www.youtube.com/watch?v=-geZ4dTJEG8'
 network_extracted: true
 entry_created: '2025-11-15T18:12:01.466954'
 last_updated: '2025-12-23T08:16:06.760243'
+artist_type: person
 ---
 
 ![](charlie_pickett.jpg)

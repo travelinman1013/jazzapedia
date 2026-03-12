@@ -5,19 +5,19 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1976-11-12'
-birth_place: Waxahachie
+birth_place: 'Waxahachie, Texas, United States'
 genres:
-- new jack swing
-- quiet storm
+  - new jack swing
+  - quiet storm
 instruments:
-- background vocals
-- lead vocals
+  - background vocals
+  - lead vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 95ae22a9-66dd-4c85-8130-8a8924415615
-  name: Black Men United
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 95ae22a9-66dd-4c85-8130-8a8924415615
+    name: Black Men United
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/tevin_campbell.jpg
   caption: Tevin Campbell
@@ -31,7 +31,7 @@ audio_profile:
   danceability_avg: 0.652
   acousticness_avg: 0.135
   instrumentalness_avg: 0.001
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.052
   liveness_avg: 0.149
   track_count: 50
@@ -39,59 +39,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Quincy Jones
-  - Prince
-  - Narada Michael Walden
-  - Babyface
-  - Al B. Sure
-  - Siedah Garrett
+    - Quincy Jones
+    - Prince
+    - Narada Michael Walden
+    - Babyface
+    - Al B. Sure
+    - Siedah Garrett
   influenced: []
   mentors:
-  - Bobbi Humphrey
-  - Quincy Jones
-  - Benny Medina
+    - Bobbi Humphrey
+    - Quincy Jones
+    - Benny Medina
 spotify_data:
   followers: 1254353
   id: 5VfqJBmXcf6ZqXoGij5qTE
   popularity: 58
-  url: https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE
+  url: 'https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE'
 discography_enriched: true
 top_tracks:
-- Can We Talk (I'm Ready)
-- Can We Talk
-- I2I
-- I'm Ready (I'm Ready)
-- Stand Out
-- Tell Me What You Want Me to Do (T.E.V.I.N.)
-- Dandelion (Tevin Campbell)
-- Always in My Heart (I'm Ready)
-- Alone With You (T.E.V.I.N.)
-- I'm Ready
+  - Can We Talk (I'm Ready)
+  - Can We Talk
+  - I2I
+  - I'm Ready (I'm Ready)
+  - Stand Out
+  - Tell Me What You Want Me to Do (T.E.V.I.N.)
+  - Dandelion (Tevin Campbell)
+  - Always in My Heart (I'm Ready)
+  - Alone With You (T.E.V.I.N.)
+  - I'm Ready
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f368568b-1f9f-4d29-99e7-89a2125d0cfe
-  spotify: https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE
-  wikipedia: https://en.wikipedia.org/wiki/Tevin_Campbell
+  musicbrainz: 'https://musicbrainz.org/artist/f368568b-1f9f-4d29-99e7-89a2125d0cfe'
+  spotify: 'https://open.spotify.com/artist/5VfqJBmXcf6ZqXoGij5qTE'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tevin_Campbell'
 image_path: 03_Resources/source_material/ArtistPortraits/tevin_campbell.jpg
 biography_enhanced_at: '2025-11-20T06:51:46.082207'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://kids.kiddle.co/Tevin_Campbell
-- https://en.wikipedia.org/wiki/Tevin_Campbell
-- https://www.rnbhaven.com/music-articles/173
-- https://blackpast.org/african-american-history/tevin-campbell-1976/
-- https://www.allmusic.com/artist/tevin-campbell-mn0000030928
-- https://www.youtube.com/watch?v=ISJjFR-570A
-- https://www.imdb.com/name/nm0004796/
+  - 'https://kids.kiddle.co/Tevin_Campbell'
+  - 'https://en.wikipedia.org/wiki/Tevin_Campbell'
+  - 'https://www.rnbhaven.com/music-articles/173'
+  - 'https://blackpast.org/african-american-history/tevin-campbell-1976/'
+  - 'https://www.allmusic.com/artist/tevin-campbell-mn0000030928'
+  - 'https://www.youtube.com/watch?v=ISJjFR-570A'
+  - 'https://www.imdb.com/name/nm0004796/'
 network_extracted: true
 entry_created: '2025-11-20T06:51:46.082211'
 last_updated: '2025-12-23T08:16:16.501886'
 gender: Male
 musicbrainz_id: f368568b-1f9f-4d29-99e7-89a2125d0cfe
 tags:
-- american
-- contemporary r&b
-- dance-pop
+  - american
+  - contemporary r&b
+  - dance-pop
+origin: 'Encino, Los Angeles, United States'
 ---
 
 ![](tevin_campbell.jpg)

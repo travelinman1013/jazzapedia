@@ -4,9 +4,9 @@ wiki_slug: black-slate
 schema_version: 2
 status: active
 genres:
-- lovers rock
-- roots reggae
-- reggae
+  - lovers rock
+  - roots reggae
+  - reggae
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/black_slate.jpg
   caption: Black Slate
@@ -26,52 +26,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Anthony Brightly
-  - Chris Hanson
-  - Desmond Mahoney
-  - Colin McNeish
-  - Jesse Brade
+    - Anthony Brightly
+    - Chris Hanson
+    - Desmond Mahoney
+    - Colin McNeish
+    - Jesse Brade
   influenced:
-  - British reggae bands and UK roots/lovers rock acts (general scene)
+    - British reggae bands and UK roots/lovers rock acts (general scene)
   mentors:
-  - Delroy Wilson
-  - Ken Boothe
-  - Dennis Brown
+    - Delroy Wilson
+    - Ken Boothe
+    - Dennis Brown
 spotify_data:
   followers: 6816
   id: 4huwZ2KmII41Er1kEdaVOR
   popularity: 28
-  url: https://open.spotify.com/artist/4huwZ2KmII41Er1kEdaVOR
+  url: 'https://open.spotify.com/artist/4huwZ2KmII41Er1kEdaVOR'
 discography_enriched: true
 top_tracks:
-- Amigo (Amigo)
-- Amigo - 2013 Remaster (Amigo)
-- Boom Boom (Amigo)
-- Losing Game - 2013 Remaster (Amigo)
-- This Is Reggae Music (Amigo)
-- Reggae Every Time (feat. Keith Drummond) (Now and Then)
-- Freedom Time (Black Star Liner) - 2013 Remaster (Amigo)
-- Live a Life (feat. Keith Drummond) (Now and Then)
-- Mind Your Motion (Amigo)
-- Boom Boom - 2013 Remaster (Amigo)
+  - Amigo (Amigo)
+  - Amigo - 2013 Remaster (Amigo)
+  - Boom Boom (Amigo)
+  - Losing Game - 2013 Remaster (Amigo)
+  - This Is Reggae Music (Amigo)
+  - Reggae Every Time (feat. Keith Drummond) (Now and Then)
+  - Freedom Time (Black Star Liner) - 2013 Remaster (Amigo)
+  - Live a Life (feat. Keith Drummond) (Now and Then)
+  - Mind Your Motion (Amigo)
+  - Boom Boom - 2013 Remaster (Amigo)
 external_urls:
-  spotify: https://open.spotify.com/artist/4huwZ2KmII41Er1kEdaVOR
-  wikipedia: https://en.wikipedia.org/wiki/Black_Slate_(band)
+  spotify: 'https://open.spotify.com/artist/4huwZ2KmII41Er1kEdaVOR'
+  wikipedia: 'https://en.wikipedia.org/wiki/Black_Slate_(band)'
 image_path: 03_Resources/source_material/ArtistPortraits/black_slate.jpg
 biography_enhanced_at: '2025-12-15T01:36:09.111290'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- 'Reggaeville – Biography: Black Slate'
-- Black History Month UK – Interview with Anthony Brightly (Black Slate)
-- Reggae Fraternity UK – Black Slate profile
-- Stockade Royal Blend Radio – Black Slate artist bio
-- 'Classic Pop Magazine – One Hit Wonders: Black Slate – Amigo'
-- Music In Africa – Black Slate profile
+  - 'Reggaeville – Biography: Black Slate'
+  - Black History Month UK – Interview with Anthony Brightly (Black Slate)
+  - Reggae Fraternity UK – Black Slate profile
+  - Stockade Royal Blend Radio – Black Slate artist bio
+  - 'Classic Pop Magazine – One Hit Wonders: Black Slate – Amigo'
+  - Music In Africa – Black Slate profile
 network_extracted: true
 entry_created: '2025-12-15T01:36:09.111297'
 last_updated: '2025-12-23T08:16:05.685819'
-origin: Hackney, London, England, United Kingdom
+origin: 'Hackney, London, England, United Kingdom'
+artist_type: band
 ---
 
 ![](black_slate.jpg)

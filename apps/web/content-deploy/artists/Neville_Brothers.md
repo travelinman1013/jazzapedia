@@ -1,11 +1,11 @@
 ---
-title: Neville Brothers
+title: The Neville Brothers
 wiki_slug: neville-brothers
 schema_version: 2
 status: active
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/neville_brothers.jpg
   caption: Neville Brothers
@@ -25,52 +25,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Allen Toussaint
-  - The Meters
-  - Grateful Dead
-  - Daniel Lanois
+    - Allen Toussaint
+    - The Meters
+    - Grateful Dead
+    - Daniel Lanois
   influenced:
-  - Trombone Shorty
-  - Ivan Neville
-  - Galactic
+    - Trombone Shorty
+    - Ivan Neville
+    - Galactic
   mentors:
-  - George 'Big Chief Jolly' Landry
-  - Smiley Lewis
-  - Professor Longhair
+    - George 'Big Chief Jolly' Landry
+    - Smiley Lewis
+    - Professor Longhair
 spotify_data:
   followers: 81050
   id: 3d1olqhURDe8e5HOta1Qxg
   popularity: 39
-  url: https://open.spotify.com/artist/3d1olqhURDe8e5HOta1Qxg
+  url: 'https://open.spotify.com/artist/3d1olqhURDe8e5HOta1Qxg'
 discography_enriched: true
 top_tracks:
-- Yellow Moon (Yellow Moon)
-- Voodoo (Yellow Moon)
-- Bird On A Wire (Brother's Keeper)
-- A Change Is Gonna Come (Yellow Moon)
-- Brother John / Iko Iko (Fiyo On The Bayou)
-- Hey Pocky Way (Fiyo On The Bayou)
-- Mona Lisa (feat. The Neville Brothers) (Wyclef Jean presents The Carnival featuring Refugee Allstars (feat. Refugee All
-  Stars))
-- With God On Our Side (Yellow Moon)
-- Bird On A Wire (Brother's Keeper)
-- Drift Away (Uptown)
+  - Yellow Moon (Yellow Moon)
+  - Voodoo (Yellow Moon)
+  - Bird On A Wire (Brother's Keeper)
+  - A Change Is Gonna Come (Yellow Moon)
+  - Brother John / Iko Iko (Fiyo On The Bayou)
+  - Hey Pocky Way (Fiyo On The Bayou)
+  - >-
+    Mona Lisa (feat. The Neville Brothers) (Wyclef Jean presents The Carnival
+    featuring Refugee Allstars (feat. Refugee All Stars))
+  - With God On Our Side (Yellow Moon)
+  - Bird On A Wire (Brother's Keeper)
+  - Drift Away (Uptown)
 external_urls:
-  spotify: https://open.spotify.com/artist/3d1olqhURDe8e5HOta1Qxg
-  wikipedia: https://en.wikipedia.org/wiki/The_Neville_Brothers
+  spotify: 'https://open.spotify.com/artist/3d1olqhURDe8e5HOta1Qxg'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Neville_Brothers'
 image_path: 03_Resources/source_material/ArtistPortraits/neville_brothers.jpg
 biography_enhanced_at: '2025-10-23T07:30:51.443574'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://dirtycoast.com/blogs/the-dirt/the-neville-brothers
-- https://64parishes.org/entry/neville-brothers
-- https://musicrising.tulane.edu/discover/people/the-neville-brothers/
-- https://en.wikipedia.org/wiki/The_Neville_Brothers
+  - 'https://dirtycoast.com/blogs/the-dirt/the-neville-brothers'
+  - 'https://64parishes.org/entry/neville-brothers'
+  - 'https://musicrising.tulane.edu/discover/people/the-neville-brothers/'
+  - 'https://en.wikipedia.org/wiki/The_Neville_Brothers'
 network_extracted: true
 entry_created: '2025-10-23T07:30:51.443586'
 last_updated: '2025-12-23T08:16:03.421755'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![](neville_brothers.jpg)

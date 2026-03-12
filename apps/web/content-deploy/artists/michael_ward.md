@@ -3,14 +3,14 @@ title: Michael Ward
 wiki_slug: michael-ward
 schema_version: 2
 status: active
-birth_place: Minneapolis, Minnesota, USA
+birth_place: 'Minneapolis, Minnesota, USA'
 genres:
-- smooth jazz
+  - smooth jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/michael_ward.jpg
   caption: Michael Ward
   background: solo_singer
-  origin: Minneapolis, Minnesota, USA
+  origin: 'Minneapolis, Minnesota, USA'
 audio_profile:
   tempo_avg: 106.8
   energy_avg: 0.542
@@ -26,46 +26,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jakob Dylan
-  - Ben Harper
-  - John Hiatt
-  - Matt Wallace
-  - Mark Endert
-  - The Blind Boys of Alabama
+    - Jakob Dylan
+    - Ben Harper
+    - John Hiatt
+    - Matt Wallace
+    - Mark Endert
+    - The Blind Boys of Alabama
   influenced: []
   mentors: []
 spotify_data:
   followers: 352
   id: 6e6KS4HEDlpnHjE1MnJKAp
   popularity: 6
-  url: https://open.spotify.com/artist/6e6KS4HEDlpnHjE1MnJKAp
+  url: 'https://open.spotify.com/artist/6e6KS4HEDlpnHjE1MnJKAp'
 discography_enriched: true
 top_tracks:
-- 'Prayer of St. Francis (Journeysongs Third Edition: Volume 23)'
-- In The Breaking Of The Bread (Open Our Hearts)
-- I'll Take Care Of You / Lonely Avenue (Ronnie Earl And Friends)
-- New Vietnam Blues (Ronnie Earl And Friends)
-- 'Pastores, A Belén (Flor y Canto Tercera Edición: Disco 8)'
-- Making Love (After The Kiss)
-- Baby-Faced Assassin (Drum Nation Volume Two)
-- Hotel California (After The Kiss)
-- After The Kiss (After The Kiss)
-- Two For Two (After The Kiss)
+  - 'Prayer of St. Francis (Journeysongs Third Edition: Volume 23)'
+  - In The Breaking Of The Bread (Open Our Hearts)
+  - I'll Take Care Of You / Lonely Avenue (Ronnie Earl And Friends)
+  - New Vietnam Blues (Ronnie Earl And Friends)
+  - 'Pastores, A Belén (Flor y Canto Tercera Edición: Disco 8)'
+  - Making Love (After The Kiss)
+  - Baby-Faced Assassin (Drum Nation Volume Two)
+  - Hotel California (After The Kiss)
+  - After The Kiss (After The Kiss)
+  - Two For Two (After The Kiss)
 external_urls:
-  spotify: https://open.spotify.com/artist/6e6KS4HEDlpnHjE1MnJKAp
-  wikipedia: https://en.wikipedia.org/wiki/Michael_Ward_(musician)
+  spotify: 'https://open.spotify.com/artist/6e6KS4HEDlpnHjE1MnJKAp'
+  wikipedia: 'https://en.wikipedia.org/wiki/Michael_Ward_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/michael_ward.jpg
 biography_enhanced_at: '2025-12-19T01:48:46.440519'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Michael_Ward_(musician)
-- https://womeninjazz.org/performer/michael-ward/
-- https://musicrising.tulane.edu/discover/people/michael-ward/
-- https://jazztimes.com/archives/michael-ward-laid-back/
+  - 'https://en.wikipedia.org/wiki/Michael_Ward_(musician)'
+  - 'https://womeninjazz.org/performer/michael-ward/'
+  - 'https://musicrising.tulane.edu/discover/people/michael-ward/'
+  - 'https://jazztimes.com/archives/michael-ward-laid-back/'
 network_extracted: true
 entry_created: '2025-12-19T01:48:46.440531'
 last_updated: '2025-12-23T08:16:13.069751'
+birth_date: '1967-02-21'
+death_date: '2024-04-01'
+artist_type: person
 ---
 
 ![](michael_ward.jpg)

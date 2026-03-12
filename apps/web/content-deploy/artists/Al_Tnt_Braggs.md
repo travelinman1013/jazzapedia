@@ -2,19 +2,19 @@
 title: Al Tnt Braggs
 wiki_slug: al-tnt-braggs
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1938-05-23'
-birth_place: Dallas, Texas, USA
+birth_place: 'Dallas, Texas, USA'
 death_date: '2003-12-03'
 genres:
-- northern soul
+  - northern soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Al_Tnt_Braggs.jpg
   caption: Al Tnt Braggs
   background: solo_singer
   born: '1938-05-23'
-  origin: Dallas, Texas, USA
+  origin: 'Dallas, Texas, USA'
   died: '2003-12-03'
 audio_profile:
   tempo_avg: 121.8
@@ -23,7 +23,7 @@ audio_profile:
   danceability_avg: 0.462
   acousticness_avg: 0.534
   instrumentalness_avg: 0.002
-  loudness_avg: -7.0
+  loudness_avg: -7
   speechiness_avg: 0.07
   liveness_avg: 0.263
   track_count: 10
@@ -31,52 +31,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Floyd Braggs
-  - James Braggs
-  - Rhetta Kelly
-  - Mary Jackson
-  - Chuck Donaway
+    - Floyd Braggs
+    - James Braggs
+    - Rhetta Kelly
+    - Mary Jackson
+    - Chuck Donaway
   influenced:
-  - Bobby Bland
-  - Sam Cooke
+    - Bobby Bland
+    - Sam Cooke
   mentors:
-  - Joe Scott
-  - Jackie Wilson
-  - James Brown
+    - Joe Scott
+    - Jackie Wilson
+    - James Brown
 spotify_data:
   followers: 22
   id: 7MEQw2irtu4dx7ruQgmiZv
   popularity: 0
-  url: https://open.spotify.com/artist/7MEQw2irtu4dx7ruQgmiZv
+  url: 'https://open.spotify.com/artist/7MEQw2irtu4dx7ruQgmiZv'
 discography_enriched: true
 top_tracks:
-- Cigarettes and Coffee - Remastered (Giving You R'n'B! (Remastered))
-- An Angel (You Belong to Me) - Remastered (Giving You R'n'B! (Remastered))
-- A Little Bit Closer - Remastered (Giving You R'n'B! (Remastered))
-- Chase 'Em Tom Cat - Remastered (Giving You R'n'B! (Remastered))
-- Listen to Me Baby - Remastered (Giving You R'n'B! (Remastered))
-- There - Remastered (Giving You R'n'B! (Remastered))
-- I Don't Think I Can Make It - Remastered (Giving You R'n'B! (Remastered))
-- We Belong Together - Remastered (Giving You R'n'B! (Remastered))
-- Easy Rock - Remastered (Giving You R'n'B! (Remastered))
-- You're Something Else - Remastered (Giving You R'n'B! (Remastered))
+  - Cigarettes and Coffee - Remastered (Giving You R'n'B! (Remastered))
+  - An Angel (You Belong to Me) - Remastered (Giving You R'n'B! (Remastered))
+  - A Little Bit Closer - Remastered (Giving You R'n'B! (Remastered))
+  - Chase 'Em Tom Cat - Remastered (Giving You R'n'B! (Remastered))
+  - Listen to Me Baby - Remastered (Giving You R'n'B! (Remastered))
+  - There - Remastered (Giving You R'n'B! (Remastered))
+  - I Don't Think I Can Make It - Remastered (Giving You R'n'B! (Remastered))
+  - We Belong Together - Remastered (Giving You R'n'B! (Remastered))
+  - Easy Rock - Remastered (Giving You R'n'B! (Remastered))
+  - You're Something Else - Remastered (Giving You R'n'B! (Remastered))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/90e72a94-c768-43c4-81d5-141e48d71ef1
-  spotify: https://open.spotify.com/artist/7MEQw2irtu4dx7ruQgmiZv
+  musicbrainz: 'https://musicbrainz.org/artist/90e72a94-c768-43c4-81d5-141e48d71ef1'
+  spotify: 'https://open.spotify.com/artist/7MEQw2irtu4dx7ruQgmiZv'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/Al_Tnt_Braggs.jpg
 biography_enhanced_at: '2025-10-19T10:40:36.477123'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://pressbooks.library.yorku.ca/soulmusicodyssey/chapter/houston/
-- https://www.imdb.com/name/nm0103920/bio/
+  - 'https://pressbooks.library.yorku.ca/soulmusicodyssey/chapter/houston/'
+  - 'https://www.imdb.com/name/nm0103920/bio/'
 network_extracted: true
 entry_created: '2025-10-19T10:40:36.477133'
 last_updated: '2025-12-23T08:16:00.960344'
 gender: Male
 musicbrainz_enriched_at: '2025-10-21T08:07:12.865637'
 musicbrainz_id: 90e72a94-c768-43c4-81d5-141e48d71ef1
+is_active: false
 ---
 
 ![](Al_Tnt_Braggs.jpg)

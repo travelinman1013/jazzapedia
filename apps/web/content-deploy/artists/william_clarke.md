@@ -1,18 +1,18 @@
 ---
-title: william clarke
+title: William Clarke
 wiki_slug: william-clarke
 schema_version: 2
 status: active
-birth_place: Inglewood, California, United States
+birth_place: 'Inglewood, California, United States'
 genres:
-- blues
-- boogie-woogie
-- classic blues
+  - blues
+  - boogie-woogie
+  - classic blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/william_clarke.jpg
   caption: william clarke
   background: solo_singer
-  origin: Inglewood, California, United States
+  origin: 'Inglewood, California, United States'
 audio_profile:
   tempo_avg: 122.3
   energy_avg: 0.653
@@ -28,47 +28,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Hollywood Fats
-  - Junior Watson
-  - Fred Kaplan
-  - Smokey Wilson
+    - Hollywood Fats
+    - Junior Watson
+    - Fred Kaplan
+    - Smokey Wilson
   influenced:
-  - Contemporary blues harmonica players
+    - Contemporary blues harmonica players
   mentors:
-  - George 'Harmonica' Smith
+    - George 'Harmonica' Smith
 spotify_data:
   followers: 13296
   id: 2eECVTTCHnDwsBirJPiDke
   popularity: 28
-  url: https://open.spotify.com/artist/2eECVTTCHnDwsBirJPiDke
+  url: 'https://open.spotify.com/artist/2eECVTTCHnDwsBirJPiDke'
 discography_enriched: true
 top_tracks:
-- Lonesome Bedroom Blues (Blowin' Like Hell)
-- Lollipop Mama (Blowin' Like Hell)
-- Cash Money (Blowin' Like Hell)
-- Pawnshop Bound (Deluxe Edition)
-- Blowin' The Family Jewels (Groove Time)
-- Drinking By Myself (Blowin' Like Hell)
-- This Is My Last Goodbye (Groove Time)
-- Evil (The Hard Way)
-- Greasy Gravy (Blowin' Like Hell)
-- Looking To The Future (Blowin' Like Hell)
+  - Lonesome Bedroom Blues (Blowin' Like Hell)
+  - Lollipop Mama (Blowin' Like Hell)
+  - Cash Money (Blowin' Like Hell)
+  - Pawnshop Bound (Deluxe Edition)
+  - Blowin' The Family Jewels (Groove Time)
+  - Drinking By Myself (Blowin' Like Hell)
+  - This Is My Last Goodbye (Groove Time)
+  - Evil (The Hard Way)
+  - Greasy Gravy (Blowin' Like Hell)
+  - Looking To The Future (Blowin' Like Hell)
 external_urls:
-  spotify: https://open.spotify.com/artist/2eECVTTCHnDwsBirJPiDke
-  wikipedia: https://en.wikipedia.org/wiki/William_Clarke_(musician)
+  spotify: 'https://open.spotify.com/artist/2eECVTTCHnDwsBirJPiDke'
+  wikipedia: 'https://en.wikipedia.org/wiki/William_Clarke_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/william_clarke.jpg
 biography_enhanced_at: '2025-11-06T13:26:28.526087'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.latimes.com/archives/la-xpm-1996-11-06-mn-61870-story.html
-- https://www.alligator.com/artists/William-Clarke/
-- http://www.bluesaccess.com/No_28/Clarke.html
-- https://www.harmonica.com/a-tribute-to-william-clarke-harmonica-virtuoso-from-california/
-- https://www.allmusic.com/artist/william-clarke-mn0000678459
+  - 'https://www.latimes.com/archives/la-xpm-1996-11-06-mn-61870-story.html'
+  - 'https://www.alligator.com/artists/William-Clarke/'
+  - 'http://www.bluesaccess.com/No_28/Clarke.html'
+  - >-
+    https://www.harmonica.com/a-tribute-to-william-clarke-harmonica-virtuoso-from-california/
+  - 'https://www.allmusic.com/artist/william-clarke-mn0000678459'
 network_extracted: true
 entry_created: '2025-11-06T13:26:28.526105'
 last_updated: '2025-12-23T08:16:18.142213'
+birth_date: '1951-03-29'
+death_date: '1996-11-02'
+artist_type: band
 ---
 
 ![](william_clarke.jpg)

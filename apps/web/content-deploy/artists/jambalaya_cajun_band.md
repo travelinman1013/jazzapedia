@@ -1,14 +1,14 @@
 ---
-title: Jambalaya cajun band
+title: Jambalaya Cajun Band
 wiki_slug: jambalaya-cajun-band
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 instruments:
-- original
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jambalaya_cajun_band.jpg
   caption: Jambalaya cajun band
@@ -28,73 +28,76 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Terry Huval
-  - Tony Huval
-  - Reggie Matte
+    - Terry Huval
+    - Tony Huval
+    - Reggie Matte
   influenced: []
   mentors:
-  - Aldus Roger
-  - Lawrence Walker
+    - Aldus Roger
+    - Lawrence Walker
 spotify_data:
   followers: 654
   id: 6MuRzjTcJgxRRRIf8AY4OP
   popularity: 5
-  url: https://open.spotify.com/artist/6MuRzjTcJgxRRRIf8AY4OP
+  url: 'https://open.spotify.com/artist/6MuRzjTcJgxRRRIf8AY4OP'
 discography_enriched: true
 top_tracks:
-- Mamou Mardi Gras Hot Step - Instrumental (Cajun and Zydeco Mardi Gras)
-- Jambalaya - Instrumental (Instrumental Collection)
-- Chanson de Mardi Gras - Instrumental (Cajun and Zydeco Mardi Gras)
-- Hathaway Two Step - Instrumental (Instrumental Collection)
-- Mamou Hot Step - Instrumental (Instrumental Collection)
-- Le chanson de Mardi Gras - Instrumental (Instrumental Collection)
-- Quoi faire - Instrumental (Instrumental Collection)
-- '''Tit galop pour la pointe aux pins (C''est Fun!)'
-- Hey Rock (C'est Fun!)
-- Bon wisky (C'est Fun!)
+  - Mamou Mardi Gras Hot Step - Instrumental (Cajun and Zydeco Mardi Gras)
+  - Jambalaya - Instrumental (Instrumental Collection)
+  - Chanson de Mardi Gras - Instrumental (Cajun and Zydeco Mardi Gras)
+  - Hathaway Two Step - Instrumental (Instrumental Collection)
+  - Mamou Hot Step - Instrumental (Instrumental Collection)
+  - Le chanson de Mardi Gras - Instrumental (Instrumental Collection)
+  - Quoi faire - Instrumental (Instrumental Collection)
+  - '''Tit galop pour la pointe aux pins (C''est Fun!)'
+  - Hey Rock (C'est Fun!)
+  - Bon wisky (C'est Fun!)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d9a24df0-4822-4798-8407-14efc8943208
-  spotify: https://open.spotify.com/artist/6MuRzjTcJgxRRRIf8AY4OP
+  musicbrainz: 'https://musicbrainz.org/artist/d9a24df0-4822-4798-8407-14efc8943208'
+  spotify: 'https://open.spotify.com/artist/6MuRzjTcJgxRRRIf8AY4OP'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/jambalaya_cajun_band.jpg
 biography_enhanced_at: '2025-11-24T08:29:36.379171'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.bear-family.com/jambalaya-cajun-band-the/
-- https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/jambalaya.htm.html
-- https://festivalsacadiens.com/artists/jambalaya-cajun-band-with-special-guest/
-- https://www.acadianmuseum.com/living-legend/terry-huval/
-- https://www.hideawayonlee.com/events/jambalaya-cajun-band-45-year-anniversary
-- https://documentproviderviewer.nsula.edu/?id=7603
-- https://cajunandzydeco.wordpress.com/tag/jambalaya-cajun-band/
+  - 'https://www.bear-family.com/jambalaya-cajun-band-the/'
+  - >-
+    https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/jambalaya.htm.html
+  - >-
+    https://festivalsacadiens.com/artists/jambalaya-cajun-band-with-special-guest/
+  - 'https://www.acadianmuseum.com/living-legend/terry-huval/'
+  - >-
+    https://www.hideawayonlee.com/events/jambalaya-cajun-band-45-year-anniversary
+  - 'https://documentproviderviewer.nsula.edu/?id=7603'
+  - 'https://cajunandzydeco.wordpress.com/tag/jambalaya-cajun-band/'
 network_extracted: true
 entry_created: '2025-11-24T08:29:36.379178'
 last_updated: '2025-12-23T08:16:10.152616'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 37e5de59-8232-47f1-9b3c-2aa0be8195d1
-  name: Kenneth David
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4a7b80cd-0504-49a7-b906-a4c17dd64248
-  name: Bobby Dumatrait
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: c33a6790-a3bb-4a8f-a1e5-65033eaebae7
-  name: Terry Huval
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2573f775-912d-4bdb-a10d-ffa5f4e5b7bb
-  name: Tony Huval
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 37e5de59-8232-47f1-9b3c-2aa0be8195d1
+    name: Kenneth David
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4a7b80cd-0504-49a7-b906-a4c17dd64248
+    name: Bobby Dumatrait
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: c33a6790-a3bb-4a8f-a1e5-65033eaebae7
+    name: Terry Huval
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2573f775-912d-4bdb-a10d-ffa5f4e5b7bb
+    name: Tony Huval
 musicbrainz_id: d9a24df0-4822-4798-8407-14efc8943208
-origin: Breaux Bridge, Louisiana, United States
+origin: 'Breaux Bridge, Louisiana, United States'
 ---
 
 ![](jambalaya_cajun_band.jpg)

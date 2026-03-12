@@ -1,17 +1,17 @@
 ---
-title: steep canyon rangers
+title: Steep Canyon Rangers
 wiki_slug: steep-canyon-rangers
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '2000'
 genres:
-- bluegrass
-- newgrass
-- americana
+  - bluegrass
+  - newgrass
+  - americana
 instruments:
-- vocal
-- background vocals
+  - vocal
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/steep_canyon_rangers.jpg
   caption: steep canyon rangers
@@ -24,7 +24,7 @@ audio_profile:
   danceability_avg: 0.539
   acousticness_avg: 0.597
   instrumentalness_avg: 0.096
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.056
   liveness_avg: 0.23
   track_count: 50
@@ -32,93 +32,93 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Steve Martin
-  - Paul McCartney
-  - The Dixie Chicks
-  - Edie Brickell
-  - Darrell Scott
+    - Steve Martin
+    - Paul McCartney
+    - The Dixie Chicks
+    - Edie Brickell
+    - Darrell Scott
   influenced: []
   mentors:
-  - Ricky Skaggs
-  - Jerry Douglas
-  - Del McCoury
+    - Ricky Skaggs
+    - Jerry Douglas
+    - Del McCoury
 spotify_data:
   followers: 63388
   id: 1a6tqLJPUs4DBAnNUZkr2O
   popularity: 40
-  url: https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O
+  url: 'https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O'
 discography_enriched: true
 top_tracks:
-- Honey on My Tongue (Arm in Arm)
-- The Great Remember (for Nancy) (Rare Bird Alert)
-- Call The Captain (Lovin' Pretty Women)
-- On The Water (“The Long-Awaited Album”)
-- You (Rare Bird Alert)
-- In the Next Life (Arm in Arm)
-- Rare Bird Alert (Rare Bird Alert)
-- So Familiar (“The Long-Awaited Album”)
-- Yellow-Backed Fly (Rare Bird Alert)
-- The Mountain's Gonna Sing (Deep In The Shade)
+  - Honey on My Tongue (Arm in Arm)
+  - The Great Remember (for Nancy) (Rare Bird Alert)
+  - Call The Captain (Lovin' Pretty Women)
+  - On The Water (“The Long-Awaited Album”)
+  - You (Rare Bird Alert)
+  - In the Next Life (Arm in Arm)
+  - Rare Bird Alert (Rare Bird Alert)
+  - So Familiar (“The Long-Awaited Album”)
+  - Yellow-Backed Fly (Rare Bird Alert)
+  - The Mountain's Gonna Sing (Deep In The Shade)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4b53774a-8c4f-4c58-a4f9-c9d331f6b0a4
-  spotify: https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O
-  wikipedia: https://en.wikipedia.org/wiki/Steep_Canyon_Rangers
+  musicbrainz: 'https://musicbrainz.org/artist/4b53774a-8c4f-4c58-a4f9-c9d331f6b0a4'
+  spotify: 'https://open.spotify.com/artist/1a6tqLJPUs4DBAnNUZkr2O'
+  wikipedia: 'https://en.wikipedia.org/wiki/Steep_Canyon_Rangers'
 image_path: 03_Resources/source_material/ArtistPortraits/steep_canyon_rangers.jpg
 biography_enhanced_at: '2025-12-04T08:14:53.095218'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Steep Canyon Rangers
-- North Carolina Music Hall of Fame
-- LA Phil Music Database
-- Holler Country
-- Steep Canyon Rangers Official Website
-- The Freight
-- Lyric Theatre
-- Pinecone
+  - Wikipedia - Steep Canyon Rangers
+  - North Carolina Music Hall of Fame
+  - LA Phil Music Database
+  - Holler Country
+  - Steep Canyon Rangers Official Website
+  - The Freight
+  - Lyric Theatre
+  - Pinecone
 network_extracted: true
 entry_created: '2025-12-04T08:14:53.095230'
 last_updated: '2025-12-23T08:16:16.059323'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4992bb35-5d0c-4e2b-91b6-f551fd64e5e4
-  name: Mike Ashworth
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3e592613-66cb-4c8f-bc7b-1cd876669ccc
-  name: Mike Guggino
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: fc549a3d-2037-41de-b97d-f945b484d02e
-  name: Charles R. Humphrey III
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0da08c43-c04c-4016-968d-b9d3eb9b7751
-  name: Steve Martin
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 401e201e-55c0-4796-9b49-2cce8dd6ea01
-  name: Woody Platt
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: af6e31ef-d74c-4604-9f77-42ed79c7f659
-  name: Nicky Sanders
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: edcfbd8f-e1a0-4177-887a-dbc6b01f6b90
-  name: Graham Sharp
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4992bb35-5d0c-4e2b-91b6-f551fd64e5e4
+    name: Mike Ashworth
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3e592613-66cb-4c8f-bc7b-1cd876669ccc
+    name: Mike Guggino
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: fc549a3d-2037-41de-b97d-f945b484d02e
+    name: Charles R. Humphrey III
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0da08c43-c04c-4016-968d-b9d3eb9b7751
+    name: Steve Martin
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 401e201e-55c0-4796-9b49-2cce8dd6ea01
+    name: Woody Platt
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: af6e31ef-d74c-4604-9f77-42ed79c7f659
+    name: Nicky Sanders
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: edcfbd8f-e1a0-4177-887a-dbc6b01f6b90
+    name: Graham Sharp
 musicbrainz_id: 4b53774a-8c4f-4c58-a4f9-c9d331f6b0a4
-origin: Brevard
+origin: 'Brevard, North Carolina, United States'
 tags:
-- bluegrass
+  - bluegrass
 ---
 
 ![](steep_canyon_rangers.jpg)

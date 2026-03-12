@@ -5,25 +5,25 @@ schema_version: 2
 status: active
 aliases: []
 birth_date: '1984-07-23'
-birth_place: New Orleans, Louisiana, USA (current residence)
+birth_place: 'New Orleans, Louisiana, USA (current residence)'
 years_active: 2006-present
 genres:
-- modern blues
-- blues rock
-- blues
+  - modern blues
+  - blues rock
+  - blues
 instruments:
-- voice
+  - voice
 occupation:
-- singer-songwriter
-- composer
-- entertainer
-- singer
+  - singer-songwriter
+  - composer
+  - entertainer
+  - singer
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Dean_Zucchero.jpg
   caption: Dean Zucchero
   background: solo_singer
   born: '1984-07-23'
-  origin: New Orleans, Louisiana, USA (current residence)
+  origin: 'New Orleans, Louisiana, USA (current residence)'
 audio_profile:
   tempo_avg: 124.1
   energy_avg: 0.689
@@ -39,54 +39,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ghalia Volt
-  - Cyril Neville
-  - Johnny Sansone
-  - Jason Ricci
-  - John Fohl
-  - Johnny Burgin
+    - Ghalia Volt
+    - Cyril Neville
+    - Johnny Sansone
+    - Jason Ricci
+    - John Fohl
+    - Johnny Burgin
   influenced: []
   mentors:
-  - Michael Powers
-  - Popa Chubby
+    - Michael Powers
+    - Popa Chubby
 related_artists: []
 spotify_data:
   followers: 317
   id: 5jLOyT1g9DAkEPLWe3MggV
   popularity: 4
-  url: https://open.spotify.com/artist/5jLOyT1g9DAkEPLWe3MggV
+  url: 'https://open.spotify.com/artist/5jLOyT1g9DAkEPLWe3MggV'
   verified: false
 discography_enriched: true
 albums_count: 2
 singles_count: 3
 top_tracks:
-- South Side (feat. Glen David Andrews) (Song For The Sinners)
-- Never Fade Away (feat. John Németh, Tiffany Pollack) (Song For The Sinners)
-- Lullaby (feat. Jerry Dugger, Bobby Rush) (Song For The Sinners)
-- Biting Through (feat. Jimmy Vivino) (Song For The Sinners)
-- Tone of the City (feat. Mike Zito) (Song For The Sinners)
-- Crawfish No More (feat. John Boutté) (Song For The Sinners)
-- Fowl Play (feat. Little Freddie King) (Song For The Sinners)
-- Biting Through (feat. Jimmy Vivino) (Biting Through (feat. Jimmy Vivino))
-- She’s Saturday Night (feat. Victor Wainwright) (Song For The Sinners)
-- Cold Shot (feat. Joey Houck) (Song For The Sinners)
+  - South Side (feat. Glen David Andrews) (Song For The Sinners)
+  - 'Never Fade Away (feat. John Németh, Tiffany Pollack) (Song For The Sinners)'
+  - 'Lullaby (feat. Jerry Dugger, Bobby Rush) (Song For The Sinners)'
+  - Biting Through (feat. Jimmy Vivino) (Song For The Sinners)
+  - Tone of the City (feat. Mike Zito) (Song For The Sinners)
+  - Crawfish No More (feat. John Boutté) (Song For The Sinners)
+  - Fowl Play (feat. Little Freddie King) (Song For The Sinners)
+  - Biting Through (feat. Jimmy Vivino) (Biting Through (feat. Jimmy Vivino))
+  - She’s Saturday Night (feat. Victor Wainwright) (Song For The Sinners)
+  - Cold Shot (feat. Joey Houck) (Song For The Sinners)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/5jLOyT1g9DAkEPLWe3MggV
-  wikipedia: https://en.wikipedia.org/wiki/Justina_Lee_Brown
+  spotify: 'https://open.spotify.com/artist/5jLOyT1g9DAkEPLWe3MggV'
+  wikipedia: 'https://en.wikipedia.org/wiki/Justina_Lee_Brown'
 image_path: 03_Resources/source_material/ArtistPortraits/Dean_Zucchero.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:23:10.284602'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://neworleansmusicians.com/blog/dean-zucchero/
-- https://www.offbeat.com/music/dean-zucchero-electric-church-for-the-spiritually-misguided-pugnacious-records/
-- https://americanahighways.org/2023/04/27/review-dean-zucchero-gives-a-tour-of-new-orleans-blues-in-electric-church-for-the-spiritually-misguided/
+  - 'https://neworleansmusicians.com/blog/dean-zucchero/'
+  - >-
+    https://www.offbeat.com/music/dean-zucchero-electric-church-for-the-spiritually-misguided-pugnacious-records/
+  - >-
+    https://americanahighways.org/2023/04/27/review-dean-zucchero-gives-a-tour-of-new-orleans-blues-in-electric-church-for-the-spiritually-misguided/
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 12:58:44.821853
+entry_created: 2025-09-18T12:58:44.821Z
 last_updated: '2025-12-23T08:16:01.707321'
+origin: 'New York City, New York, United States'
+artist_type: person
 ---
 
 ![](Dean_Zucchero.jpg)

@@ -4,13 +4,13 @@ wiki_slug: romare
 schema_version: 2
 artist_type: person
 status: active
-birth_place: Kent, England, United Kingdom
+birth_place: 'Kent, England, United Kingdom'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/romare.jpg
   caption: Romare
   background: solo_singer
-  origin: Kent, England, United Kingdom
+  origin: 'Kent, England, United Kingdom'
 audio_profile:
   tempo_avg: 113.5
   energy_avg: 0.51
@@ -26,46 +26,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ninja Tune
+    - Ninja Tune
   influenced:
-  - Emerging electronic producers
+    - Emerging electronic producers
   mentors:
-  - Romare Bearden
+    - Romare Bearden
 spotify_data:
   followers: 179128
   id: 6d1HqiWNEKV9zFqQM9WeYo
   popularity: 46
-  url: https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo
+  url: 'https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo'
 discography_enriched: true
 top_tracks:
-- Hey Now - When I Give You All My Lovin' (Love Songs, Pt. 1)
-- 'All Night (Love Songs: Part Two)'
-- Down the Line - It Takes a Number (Meditations on Afrocentrism)
-- Motherless Child (Projections)
-- Quiet Corners Of My Mind (Quiet Corners Of My Mind)
-- The Blues - It Began in Africa (Meditations on Afrocentrism)
-- Quiet Corners Of My Mind (Fantasy)
-- 'Come Close To Me (Love Songs: Part Two)'
-- 'Je T’aime (Love Songs: Part Two)'
-- Deliverance (Home)
+  - 'Hey Now - When I Give You All My Lovin'' (Love Songs, Pt. 1)'
+  - 'All Night (Love Songs: Part Two)'
+  - Down the Line - It Takes a Number (Meditations on Afrocentrism)
+  - Motherless Child (Projections)
+  - Quiet Corners Of My Mind (Quiet Corners Of My Mind)
+  - The Blues - It Began in Africa (Meditations on Afrocentrism)
+  - Quiet Corners Of My Mind (Fantasy)
+  - 'Come Close To Me (Love Songs: Part Two)'
+  - 'Je T’aime (Love Songs: Part Two)'
+  - Deliverance (Home)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b014d579-b549-4b21-b90d-5264e0433988
-  spotify: https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo
+  musicbrainz: 'https://musicbrainz.org/artist/b014d579-b549-4b21-b90d-5264e0433988'
+  spotify: 'https://open.spotify.com/artist/6d1HqiWNEKV9zFqQM9WeYo'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/romare.jpg
 biography_enhanced_at: '2025-11-20T06:58:40.285278'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Romare/+wiki
-- https://emerged-agency.com/portfolio/romare
-- https://www.huckmag.com/article/romare-love-song-ninja-tune
-- https://notion.online/selected-by-romare/
+  - 'https://www.last.fm/music/Romare/+wiki'
+  - 'https://emerged-agency.com/portfolio/romare'
+  - 'https://www.huckmag.com/article/romare-love-song-ninja-tune'
+  - 'https://notion.online/selected-by-romare/'
 network_extracted: true
 entry_created: '2025-11-20T06:58:40.285287'
 last_updated: '2025-12-23T08:16:14.997103'
 gender: Male
 musicbrainz_id: b014d579-b549-4b21-b90d-5264e0433988
+origin: 'England, United Kingdom'
 ---
 
 ![](romare.jpg)

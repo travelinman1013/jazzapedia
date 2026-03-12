@@ -1,19 +1,19 @@
 ---
-title: merry clayton
+title: Merry Clayton
 wiki_slug: merry-clayton
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1948-12-25'
-birth_place: Gert Town, New Orleans, Louisiana, United States
+birth_place: 'Gert Town, New Orleans, Louisiana, United States'
 genres:
-- classic soul
+  - classic soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/merry_clayton.jpg
   caption: merry clayton
   background: solo_singer
   born: '1948-12-25'
-  origin: Gert Town, New Orleans, Louisiana, United States
+  origin: 'Gert Town, New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 121.9
   energy_avg: 0.645
@@ -29,48 +29,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ray Charles
-  - Mick Jagger / The Rolling Stones
-  - Bobby Darin
-  - Neil Young
-  - Carole King
-  - Curtis Amy
+    - Ray Charles
+    - Mick Jagger / The Rolling Stones
+    - Bobby Darin
+    - Neil Young
+    - Carole King
+    - Curtis Amy
   influenced:
-  - Lisa Fischer
-  - Contemporary soul and gospel singers
+    - Lisa Fischer
+    - Contemporary soul and gospel singers
   mentors:
-  - Eddie Kendrix
-  - The Blossoms (Darlene Love, Fanita James, Jean King)
+    - Eddie Kendrix
+    - 'The Blossoms (Darlene Love, Fanita James, Jean King)'
 spotify_data:
   followers: 32060
   id: 71cyZ6pH0KrM2MdtO8RGmy
   popularity: 35
-  url: https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy
+  url: 'https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy'
 discography_enriched: true
 top_tracks:
-- Yes - From "Dirty Dancing" Soundtrack
-- Southern Man (Merry Clayton)
-- Gimme Shelter (Gimme Shelter)
-- Black Coffee (feat. Merry Clayton) (Eat At Whitey's)
-- 'Yes'
-- The Times They Are a Changing (Dylan's Gospel)
-- Mystery of Love
-- One Night Romance (Sugar)
-- After All This Time (Merry Clayton)
-- Grandma's Hands (Merry Clayton)
+  - Yes - From "Dirty Dancing" Soundtrack
+  - Southern Man (Merry Clayton)
+  - Gimme Shelter (Gimme Shelter)
+  - Black Coffee (feat. Merry Clayton) (Eat At Whitey's)
+  - 'Yes'
+  - The Times They Are a Changing (Dylan's Gospel)
+  - Mystery of Love
+  - One Night Romance (Sugar)
+  - After All This Time (Merry Clayton)
+  - Grandma's Hands (Merry Clayton)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f086b523-e6eb-4159-8705-e408cae53170
-  spotify: https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy
-  wikipedia: https://en.wikipedia.org/wiki/Merry_Clayton
+  musicbrainz: 'https://musicbrainz.org/artist/f086b523-e6eb-4159-8705-e408cae53170'
+  spotify: 'https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy'
+  wikipedia: 'https://en.wikipedia.org/wiki/Merry_Clayton'
 image_path: 03_Resources/source_material/ArtistPortraits/merry_clayton.jpg
 biography_enhanced_at: '2025-10-20T09:02:14.880690'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://aaregistry.org/story/merry-clayton-singer-born/
-- https://www.laphil.com/musicdb/artists/1151/merry-clayton
-- https://jointzoftheday.substack.com/p/merry-clayton-born-december-25-1948-soul-singer
-- https://www.holican.io/artist-wiki/merry-clayton
+  - 'https://aaregistry.org/story/merry-clayton-singer-born/'
+  - 'https://www.laphil.com/musicdb/artists/1151/merry-clayton'
+  - >-
+    https://jointzoftheday.substack.com/p/merry-clayton-born-december-25-1948-soul-singer
+  - 'https://www.holican.io/artist-wiki/merry-clayton'
 network_extracted: true
 entry_created: '2025-10-20T09:02:14.880707'
 last_updated: '2025-12-23T08:16:12.989002'
@@ -78,8 +79,8 @@ gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:54:41.495784'
 musicbrainz_id: f086b523-e6eb-4159-8705-e408cae53170
 tags:
-- 2008 universal fire victim
-- soul
+  - 2008 universal fire victim
+  - soul
 ---
 
 ![](merry_clayton.jpg)

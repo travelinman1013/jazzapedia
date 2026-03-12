@@ -1,90 +1,89 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-04T02:00:07.919821'
 birth_date: '1981'
 disambiguation: 1980s English electronic music group
 enhancement_provider: perplexity
 entry_created: '2026-01-04T02:00:07.919826'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/adbd993c-fd28-4885-ad2d-0349546119ab
-  spotify: https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im
-  wikipedia: https://en.wikipedia.org/wiki/Freeez
+  musicbrainz: 'https://musicbrainz.org/artist/adbd993c-fd28-4885-ad2d-0349546119ab'
+  spotify: 'https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im'
+  wikipedia: 'https://en.wikipedia.org/wiki/Freeez'
 genres:
-- drill
+  - drill
 image_path: 03_Resources/source_material/ArtistPortraits/freeez.jpg
 instruments:
-- background vocals
-- soprano vocals
-- electric bass guitar
-- drums (drum set)
-- keyboard
-last_updated: '2026-01-04T02:00:07.919826'
-members:
-- begin: '1983'
-  end: '1983'
-  instruments:
   - background vocals
   - soprano vocals
-  mbid: 5866975a-7702-4a1f-ab51-281b03144452
-  name: Elaine Thomas
-- begin: ''
-  end: ''
-  instruments:
   - electric bass guitar
-  mbid: 50b0252b-10cd-45c5-ab0f-8cf58422e1e1
-  name: Peter Maas
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bbec7835-aba6-47d0-8f00-736305e28287
-  name: Everton McCalla
-- begin: ''
-  end: ''
-  instruments:
   - drums (drum set)
-  mbid: 0aa0b078-f076-40c4-bf53-2e56669706c7
-  name: Paul Morgan
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d963d928-1e9e-465e-8b30-122d18e2daf4
-  name: John Rocca
-- begin: ''
-  end: ''
-  instruments:
   - keyboard
-  mbid: 962dcdfb-5efa-431c-afef-93dca94b9978
-  name: Andy Stennett
+last_updated: '2026-01-04T02:00:07.919826'
+members:
+  - begin: '1983'
+    end: '1983'
+    instruments:
+      - background vocals
+      - soprano vocals
+    mbid: 5866975a-7702-4a1f-ab51-281b03144452
+    name: Elaine Thomas
+  - begin: ''
+    end: ''
+    instruments:
+      - electric bass guitar
+    mbid: 50b0252b-10cd-45c5-ab0f-8cf58422e1e1
+    name: Peter Maas
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bbec7835-aba6-47d0-8f00-736305e28287
+    name: Everton McCalla
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 0aa0b078-f076-40c4-bf53-2e56669706c7
+    name: Paul Morgan
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d963d928-1e9e-465e-8b30-122d18e2daf4
+    name: John Rocca
+  - begin: ''
+    end: ''
+    instruments:
+      - keyboard
+    mbid: 962dcdfb-5efa-431c-afef-93dca94b9978
+    name: Andy Stennett
 musical_connections:
   collaborators:
-  - John Rocca
-  - Andy Stennett
-  - Peter Maas
-  - Elaine Thomas
-  - Ingrid Mansfield
+    - John Rocca
+    - Andy Stennett
+    - Peter Maas
+    - Elaine Thomas
+    - Ingrid Mansfield
   influenced: []
   mentors: []
 musicbrainz_id: adbd993c-fd28-4885-ad2d-0349546119ab
 network_extracted: true
-origin: London
+origin: 'London, England, United Kingdom'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Freeez
-- https://www.last.fm/music/Freeez/+wiki
-- https://peel.fandom.com/wiki/Freeez
-- https://www.imdb.com/name/nm6892296/
+  - 'https://en.wikipedia.org/wiki/Freeez'
+  - 'https://www.last.fm/music/Freeez/+wiki'
+  - 'https://peel.fandom.com/wiki/Freeez'
+  - 'https://www.imdb.com/name/nm6892296/'
 spotify_data:
   followers: 1298629
   id: 76Pl0epAMXVXJspaSuz8im
   popularity: 63
-  url: https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im
+  url: 'https://open.spotify.com/artist/76Pl0epAMXVXJspaSuz8im'
 status: active
 tags:
-- brit funk
-- funk
-- jazz-funk
+  - brit funk
+  - funk
+  - jazz-funk
 title: Freeez
-
 ---
 
 ![](freeez.jpg)

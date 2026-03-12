@@ -2,54 +2,54 @@
 artist_type: person
 biography_enhanced_at: '2026-01-05T07:56:25.632678'
 birth_date: '1967-09-06'
-birth_place: Canton
+birth_place: 'Canton, Ohio, United States'
 disambiguation: American singer and actor
 enhancement_provider: perplexity
 entry_created: '2026-01-05T07:56:25.632683'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/48772747-4cda-4ba8-b470-cfd5a32e05f7
-  spotify: https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa
-  wikipedia: https://en.wikipedia.org/wiki/Macy_Gray
+  musicbrainz: 'https://musicbrainz.org/artist/48772747-4cda-4ba8-b470-cfd5a32e05f7'
+  spotify: 'https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa'
+  wikipedia: 'https://en.wikipedia.org/wiki/Macy_Gray'
 gender: Female
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/macy_gray.jpg
 instruments:
-- lead vocals
-- background vocals
+  - lead vocals
+  - background vocals
 last_updated: '2026-01-05T07:56:25.632684'
 musical_connections:
   collaborators:
-  - Joe Solo
-  - Andrew Slater
-  - Jon Brion
-  - Tricky
-  - The Roots
+    - Joe Solo
+    - Andrew Slater
+    - Jon Brion
+    - Tricky
+    - The Roots
   influenced: []
   mentors:
-  - Billie Holiday
-  - Tom Carolan
-  - Jeff Blue
+    - Billie Holiday
+    - Tom Carolan
+    - Jeff Blue
 musicbrainz_id: 48772747-4cda-4ba8-b470-cfd5a32e05f7
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Macy_Gray
-- https://macygrayworld.com/pages/bio
-- https://www.allamericanspeakers.com/celebritytalentbios/Macy+Gray/384116
-- https://www.last.fm/music/Macy+Gray/+wiki
-- https://www.imdb.com/name/nm0004975/bio/
-- https://blackpast.org/african-american-history/macy-gray-1967/
-- https://dancingwiththestars.fandom.com/wiki/Macy_Gray
+  - 'https://en.wikipedia.org/wiki/Macy_Gray'
+  - 'https://macygrayworld.com/pages/bio'
+  - 'https://www.allamericanspeakers.com/celebritytalentbios/Macy+Gray/384116'
+  - 'https://www.last.fm/music/Macy+Gray/+wiki'
+  - 'https://www.imdb.com/name/nm0004975/bio/'
+  - 'https://blackpast.org/african-american-history/macy-gray-1967/'
+  - 'https://dancingwiththestars.fandom.com/wiki/Macy_Gray'
 spotify_data:
   followers: 768535
   id: 4ylR3zwA0zaapAu94fktwa
   popularity: 61
-  url: https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa
+  url: 'https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa'
 status: active
 tags:
-- contemporary r&b
-- neo soul
-- neo-soul
+  - contemporary r&b
+  - neo soul
+  - neo-soul
 title: Macy Gray
 ---
 

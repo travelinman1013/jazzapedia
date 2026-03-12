@@ -2,20 +2,20 @@
 title: Betty Carter
 wiki_slug: betty-carter
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1929-05-16'
-birth_place: Flint, Michigan, United States
+birth_place: 'Flint, Michigan, United States'
 death_date: '1998-09-26'
 genres:
-- vocal jazz
-- jazz
+  - vocal jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Betty_Carter.jpg
   caption: Betty Carter
   background: solo_singer
   born: '1929-05-16'
-  origin: Flint, Michigan, United States
+  origin: 'Flint, Michigan, United States'
   died: '1998-09-26'
 audio_profile:
   tempo_avg: 107.4
@@ -32,49 +32,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lionel Hampton
-  - Ray Charles
-  - Miles Davis
-  - Carmen McRae
+    - Lionel Hampton
+    - Ray Charles
+    - Miles Davis
+    - Carmen McRae
   influenced:
-  - Geri Allen
-  - Regina Carter
-  - Cyrus Chestnut
+    - Geri Allen
+    - Regina Carter
+    - Cyrus Chestnut
   mentors:
-  - Charlie Parker
-  - Billie Holiday
-  - Sarah Vaughan
+    - Charlie Parker
+    - Billie Holiday
+    - Sarah Vaughan
 spotify_data:
   followers: 81518
   id: 6HB1MchEEMg40EisSJuenZ
   popularity: 42
-  url: https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ
+  url: 'https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ'
 discography_enriched: true
 top_tracks:
-- This Is Always (Inside Betty Carter)
-- Every Time We Say Goodbye - Remastered (Avant-Garde Jazz (Remastered))
-- It's A Big Wide Wonderful World (Inside Betty Carter)
-- I Could Write a Book (Social Call)
-- Jazz (Ain't Nothin' But Soul) (The Modern Sound Of Betty Carter)
-- Stormy Weather (Keeps Rainin' All The Time) (The Modern Sound Of Betty Carter)
-- '''Round Midnight (''Round Midnight)'
-- Gone With the Wind (Social Call)
-- Cocktails for Two - Remastered (Avant-Garde Jazz (Remastered))
-- Ev'ry Time We Say Goodbye (Evr’y Time We Say Goodbye - All-Time Romantic Duets)
+  - This Is Always (Inside Betty Carter)
+  - Every Time We Say Goodbye - Remastered (Avant-Garde Jazz (Remastered))
+  - It's A Big Wide Wonderful World (Inside Betty Carter)
+  - I Could Write a Book (Social Call)
+  - Jazz (Ain't Nothin' But Soul) (The Modern Sound Of Betty Carter)
+  - >-
+    Stormy Weather (Keeps Rainin' All The Time) (The Modern Sound Of Betty
+    Carter)
+  - '''Round Midnight (''Round Midnight)'
+  - Gone With the Wind (Social Call)
+  - Cocktails for Two - Remastered (Avant-Garde Jazz (Remastered))
+  - >-
+    Ev'ry Time We Say Goodbye (Evr’y Time We Say Goodbye - All-Time Romantic
+    Duets)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ce407e9f-de68-4c8e-b966-43a1b3356191
-  spotify: https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ
-  wikipedia: https://en.wikipedia.org/wiki/Betty_Carter
+  musicbrainz: 'https://musicbrainz.org/artist/ce407e9f-de68-4c8e-b966-43a1b3356191'
+  spotify: 'https://open.spotify.com/artist/6HB1MchEEMg40EisSJuenZ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Betty_Carter'
 image_path: 03_Resources/source_material/ArtistPortraits/Betty_Carter.jpg
 biography_enhanced_at: '2025-10-21T07:02:52.298471'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Betty_Carter
-- https://www.arts.gov/honors/jazz/betty-carter
-- https://www.britannica.com/biography/Betty-Carter
-- https://wncu.org/artist-of-the-month/betty-carter/
-- https://walkerart.org/collections/publications/jazz/betty-carter
+  - 'https://en.wikipedia.org/wiki/Betty_Carter'
+  - 'https://www.arts.gov/honors/jazz/betty-carter'
+  - 'https://www.britannica.com/biography/Betty-Carter'
+  - 'https://wncu.org/artist-of-the-month/betty-carter/'
+  - 'https://walkerart.org/collections/publications/jazz/betty-carter'
 network_extracted: true
 entry_created: '2025-10-21T07:02:52.298912'
 last_updated: '2025-12-23T08:16:01.185093'
@@ -82,9 +86,11 @@ gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:01:46.786188'
 musicbrainz_id: ce407e9f-de68-4c8e-b966-43a1b3356191
 tags:
-- 2008 universal fire victim
-- bebop
-- hard bop
+  - 2008 universal fire victim
+  - bebop
+  - hard bop
+is_active: false
+origin: 'Detroit, Michigan, United States'
 ---
 
 ![](Betty_Carter.jpg)

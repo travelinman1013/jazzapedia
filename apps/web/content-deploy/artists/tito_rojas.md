@@ -5,23 +5,23 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1955-06-14'
-birth_place: Humacao
+birth_place: 'Humacao, Puerto Rico, United States'
 death_date: '2020-12-26'
 genres:
-- merengue
-- salsa
-- salsa romantica
+  - merengue
+  - salsa
+  - salsa romantica
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4b61339a-4074-43a6-bf6b-7f9d0d5d530f
-  name: Fania All-Stars
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1750e95b-deba-40c1-be8c-e261b50ffe3c
-  name: Conjunto Borincuba
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4b61339a-4074-43a6-bf6b-7f9d0d5d530f
+    name: Fania All-Stars
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1750e95b-deba-40c1-be8c-e261b50ffe3c
+    name: Conjunto Borincuba
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/tito_rojas.jpg
   caption: Tito Rojas
@@ -35,7 +35,7 @@ audio_profile:
   valence_avg: 0.872
   danceability_avg: 0.681
   acousticness_avg: 0.417
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -9.5
   speechiness_avg: 0.044
   liveness_avg: 0.177
@@ -44,52 +44,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Pedro Conga
-  - Justo Betancourt
-  - Fania All-Stars
-  - Puerto Rican Power
-  - Gilberto Santa Rosa
-  - Ivy Queen
+    - Pedro Conga
+    - Justo Betancourt
+    - Fania All-Stars
+    - Puerto Rican Power
+    - Gilberto Santa Rosa
+    - Ivy Queen
   influenced: []
   mentors: []
 spotify_data:
   followers: 1801702
   id: 2kgCV0fFS0wt3q6M5B39nH
   popularity: 63
-  url: https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH
+  url: 'https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH'
 discography_enriched: true
 top_tracks:
-- Siempre Sere (Sensual)
-- Ella Se Hizo Deseo (Sensual)
-- Usted (Por Derecho Propio)
-- Señora De Madrugada (A Mi Estilo...)
-- Siempre Seré (Exitos y Más)
-- Condename A Tu Amor (Condename)
-- A Ti Volvere (Condename)
-- Dímelo (Perseverancia)
-- Es Mi Mujer (Pal Pueblo)
-- Lo Que Te Queda (A Mi Estilo...)
+  - Siempre Sere (Sensual)
+  - Ella Se Hizo Deseo (Sensual)
+  - Usted (Por Derecho Propio)
+  - Señora De Madrugada (A Mi Estilo...)
+  - Siempre Seré (Exitos y Más)
+  - Condename A Tu Amor (Condename)
+  - A Ti Volvere (Condename)
+  - Dímelo (Perseverancia)
+  - Es Mi Mujer (Pal Pueblo)
+  - Lo Que Te Queda (A Mi Estilo...)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/22bab6e2-1332-4eca-b07d-f12b9b038051
-  spotify: https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH
-  wikipedia: https://en.wikipedia.org/wiki/Tito_Rojas
+  musicbrainz: 'https://musicbrainz.org/artist/22bab6e2-1332-4eca-b07d-f12b9b038051'
+  spotify: 'https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tito_Rojas'
 image_path: 03_Resources/source_material/ArtistPortraits/tito_rojas.jpg
 biography_enhanced_at: '2025-12-21T01:23:18.300555'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Tito_Rojas
-- https://www.famousbirthdays.com/people/tito-rojas.html
-- https://www.viberate.com/artist/tito-rojas/
-- https://salsagoogle.com/search/Tito+Rojas/page/9/
+  - 'https://en.wikipedia.org/wiki/Tito_Rojas'
+  - 'https://www.famousbirthdays.com/people/tito-rojas.html'
+  - 'https://www.viberate.com/artist/tito-rojas/'
+  - 'https://salsagoogle.com/search/Tito+Rojas/page/9/'
 network_extracted: true
 entry_created: '2025-12-21T01:23:18.300559'
 last_updated: '2025-12-23T08:16:17.498445'
 gender: Male
 musicbrainz_id: 22bab6e2-1332-4eca-b07d-f12b9b038051
 tags:
-- latin
-- salsa
+  - latin
+  - salsa
+is_active: false
 ---
 
 ![](tito_rojas.jpg)

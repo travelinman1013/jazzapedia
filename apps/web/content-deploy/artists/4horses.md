@@ -3,11 +3,11 @@ biography_enhanced_at: '2025-12-29T01:13:32.661750'
 enhancement_provider: perplexity
 entry_created: '2025-12-29T01:13:32.661765'
 external_urls:
-  spotify: https://open.spotify.com/artist/3P5NW1wQjcWpR0VsT1m0xr
+  spotify: 'https://open.spotify.com/artist/3P5NW1wQjcWpR0VsT1m0xr'
   wikipedia: ''
 genres:
-- blues rock
-- modern blues
+  - blues rock
+  - modern blues
 image_path: 03_Resources/source_material/ArtistPortraits/4horses.jpg
 last_updated: '2025-12-29T01:13:32.661767'
 musical_connections:
@@ -15,19 +15,21 @@ musical_connections:
   influenced: []
   mentors: []
 network_extracted: true
-origin: Louisiana, United States
+origin: 'Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://flattownmusic.com/artist/4horses/
-- 'Spotify context: Genres - blues rock, modern blues; Popularity - 45 (note: genre
-  mismatch with Cajun style may indicate tagging variance)'
+  - 'https://flattownmusic.com/artist/4horses/'
+  - >-
+    Spotify context: Genres - blues rock, modern blues; Popularity - 45 (note:
+    genre mismatch with Cajun style may indicate tagging variance)
 spotify_data:
   followers: 30163
   id: 3P5NW1wQjcWpR0VsT1m0xr
   popularity: 45
-  url: https://open.spotify.com/artist/3P5NW1wQjcWpR0VsT1m0xr
+  url: 'https://open.spotify.com/artist/3P5NW1wQjcWpR0VsT1m0xr'
 status: active
 title: 4Horses
+artist_type: band
 ---
 
 ![](4horses.jpg)

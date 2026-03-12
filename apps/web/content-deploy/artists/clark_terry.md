@@ -1,21 +1,21 @@
 ---
-title: clark terry
+title: Clark Terry
 wiki_slug: clark-terry
 schema_version: 2
 status: active
-birth_place: St. Louis, Missouri, United States
+birth_place: 'St. Louis, Missouri, United States'
 genres:
-- hard bop
-- latin jazz
-- jazz
-- bebop
-- cool jazz
-- big band
+  - hard bop
+  - latin jazz
+  - jazz
+  - bebop
+  - cool jazz
+  - big band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/clark_terry.jpg
   caption: clark terry
   background: solo_singer
-  origin: St. Louis, Missouri, United States
+  origin: 'St. Louis, Missouri, United States'
 audio_profile:
   tempo_avg: 114.2
   energy_avg: 0.369
@@ -31,61 +31,66 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Count Basie
-  - Duke Ellington
-  - Charlie Barnet
-  - Oscar Peterson
-  - Bob Brookmeyer
-  - Johnny Carson
-  - Ella Fitzgerald
-  - Dizzy Gillespie
-  - Aretha Franklin
-  - Quincy Jones
+    - Count Basie
+    - Duke Ellington
+    - Charlie Barnet
+    - Oscar Peterson
+    - Bob Brookmeyer
+    - Johnny Carson
+    - Ella Fitzgerald
+    - Dizzy Gillespie
+    - Aretha Franklin
+    - Quincy Jones
   influenced:
-  - Miles Davis
-  - Herbie Hancock
-  - Wynton Marsalis
-  - Pat Metheny
-  - Dianne Reeves
-  - Terri Lyne Carrington
-  - Art Farmer
+    - Miles Davis
+    - Herbie Hancock
+    - Wynton Marsalis
+    - Pat Metheny
+    - Dianne Reeves
+    - Terri Lyne Carrington
+    - Art Farmer
   mentors:
-  - Billy Taylor
+    - Billy Taylor
 spotify_data:
   followers: 29407
   id: 62xdwGEOLoGQxKUqoJusyU
   popularity: 38
-  url: https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU
+  url: 'https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU'
 discography_enriched: true
 top_tracks:
-- Mumbles (Oscar Peterson's Finest Hour)
-- Mack The Knife (Oscar Peterson Trio Plus One)
-- In A Mist (The Happy Horns Of Clark Terry)
-- Spanish Rice (Spanish Rice)
-- Tin Tin Deo (Spanish Rice)
-- Rockin' In Rhythm (The Happy Horns Of Clark Terry)
-- Ba-Lue Bolivar Ba-Lues-Are (Brilliant Corners)
-- Brotherhood Of Man (Oscar Peterson Trio Plus One)
-- Do Nothing Till You Hear From Me (The Happy Horns Of Clark Terry)
-- Jim (Oscar Peterson Trio Plus One)
+  - Mumbles (Oscar Peterson's Finest Hour)
+  - Mack The Knife (Oscar Peterson Trio Plus One)
+  - In A Mist (The Happy Horns Of Clark Terry)
+  - Spanish Rice (Spanish Rice)
+  - Tin Tin Deo (Spanish Rice)
+  - Rockin' In Rhythm (The Happy Horns Of Clark Terry)
+  - Ba-Lue Bolivar Ba-Lues-Are (Brilliant Corners)
+  - Brotherhood Of Man (Oscar Peterson Trio Plus One)
+  - Do Nothing Till You Hear From Me (The Happy Horns Of Clark Terry)
+  - Jim (Oscar Peterson Trio Plus One)
 external_urls:
-  spotify: https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU
-  wikipedia: https://en.wikipedia.org/wiki/Clark_Terry
+  spotify: 'https://open.spotify.com/artist/62xdwGEOLoGQxKUqoJusyU'
+  wikipedia: 'https://en.wikipedia.org/wiki/Clark_Terry'
 image_path: 03_Resources/source_material/ArtistPortraits/clark_terry.jpg
 biography_enhanced_at: '2025-11-27T06:38:35.077292'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Clark_Terry
-- https://kgumusic.com/blogs/news/clark-terry-jazz-musician-s-biography-discography-famous-songs-and-awards
-- https://www.selmer.fr/en/blogs/artistes/clark-terry
-- https://www.arts.gov/honors/jazz/clark-terry
-- https://livingjazzarchives.org/archives/clark-terry-archive/
-- https://www.namm.org/library/oral-history/clark-terry
-- https://www.wpunj.edu/cohss/departments/music/undergraduate/clark-terry-tribute
+  - 'https://en.wikipedia.org/wiki/Clark_Terry'
+  - >-
+    https://kgumusic.com/blogs/news/clark-terry-jazz-musician-s-biography-discography-famous-songs-and-awards
+  - 'https://www.selmer.fr/en/blogs/artistes/clark-terry'
+  - 'https://www.arts.gov/honors/jazz/clark-terry'
+  - 'https://livingjazzarchives.org/archives/clark-terry-archive/'
+  - 'https://www.namm.org/library/oral-history/clark-terry'
+  - >-
+    https://www.wpunj.edu/cohss/departments/music/undergraduate/clark-terry-tribute
 network_extracted: true
 entry_created: '2025-11-27T06:38:35.077303'
 last_updated: '2025-12-23T08:16:07.051348'
+birth_date: '1920-12-14'
+death_date: '2015-02-21'
+artist_type: person
 ---
 
 ![](clark_terry.jpg)

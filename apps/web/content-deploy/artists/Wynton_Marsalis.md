@@ -3,17 +3,17 @@ title: Wynton Marsalis
 wiki_slug: wynton-marsalis
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- jazz
-- latin jazz
-- big band
-- cool jazz
+  - jazz
+  - latin jazz
+  - big band
+  - cool jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Wynton_Marsalis.jpg
   caption: Wynton Marsalis
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 111.8
   energy_avg: 0.309
@@ -29,50 +29,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Branford Marsalis
-  - Jazz at Lincoln Center Orchestra
-  - Art Blakey
+    - Branford Marsalis
+    - Jazz at Lincoln Center Orchestra
+    - Art Blakey
   influenced:
-  - Roy Hargrove
-  - Christian McBride
-  - Harry Connick Jr.
+    - Roy Hargrove
+    - Christian McBride
+    - Harry Connick Jr.
   mentors:
-  - Ellis Marsalis Jr.
-  - Al Hirt
-  - Art Blakey
+    - Ellis Marsalis Jr.
+    - Al Hirt
+    - Art Blakey
 spotify_data:
   followers: 248913
   id: 375zxMmh2cSgUzFFnva0O7
   popularity: 45
-  url: https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7
+  url: 'https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7'
 discography_enriched: true
 top_tracks:
-- 'Where or When (Standard Time Vol. 3: The Resolution Of Romance)'
-- 'Where or When (Standard time volume 3: The revolution of romance)'
-- 'When It''s Sleepytime Down South (Standard Time Vol. 2: Intimacy Calling)'
-- I'm Gonna Find Another You (I'm Gonna Find Another You (feat. John Mayer))
-- 'The Very Thought of You (Standard Time Vol. 3: The Resolution Of Romance)'
-- Where or When (Standards & Ballads)
-- 'Come Rain Or Come Shine - Live (Here We Go Again: Celebrating The Genius Of Ray Charles)'
-- When It's Sleepytime Down South (Standards & Ballads)
-- Pedro Navaja (Una Noche Con Rubén Blades)
-- 'Daily Battles (feat. Joe Farnsworth, Russell Hall, Isaiah J. Thompson & Jerry Weldon) - Jazz Arrangement (Daily Battles
-  (From Motherless Brooklyn: Original Motion Picture Soundtrack))'
+  - 'Where or When (Standard Time Vol. 3: The Resolution Of Romance)'
+  - 'Where or When (Standard time volume 3: The revolution of romance)'
+  - 'When It''s Sleepytime Down South (Standard Time Vol. 2: Intimacy Calling)'
+  - I'm Gonna Find Another You (I'm Gonna Find Another You (feat. John Mayer))
+  - 'The Very Thought of You (Standard Time Vol. 3: The Resolution Of Romance)'
+  - Where or When (Standards & Ballads)
+  - >-
+    Come Rain Or Come Shine - Live (Here We Go Again: Celebrating The Genius Of
+    Ray Charles)
+  - When It's Sleepytime Down South (Standards & Ballads)
+  - Pedro Navaja (Una Noche Con Rubén Blades)
+  - >-
+    Daily Battles (feat. Joe Farnsworth, Russell Hall, Isaiah J. Thompson &
+    Jerry Weldon) - Jazz Arrangement (Daily Battles (From Motherless Brooklyn:
+    Original Motion Picture Soundtrack))
 external_urls:
-  spotify: https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7
-  wikipedia: https://en.wikipedia.org/wiki/Wynton_Marsalis
+  spotify: 'https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7'
+  wikipedia: 'https://en.wikipedia.org/wiki/Wynton_Marsalis'
 image_path: 03_Resources/source_material/ArtistPortraits/Wynton_Marsalis.jpg
 biography_enhanced_at: '2025-10-21T06:43:19.819198'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Wynton_Marsalis
-- https://wyntonmarsalis.org/about/bio
-- https://theconrad.org/bio/wynton-marsalis/
-- https://cso.org/about/performers/visiting-artists/brass/wynton-marsalis/
+  - 'https://en.wikipedia.org/wiki/Wynton_Marsalis'
+  - 'https://wyntonmarsalis.org/about/bio'
+  - 'https://theconrad.org/bio/wynton-marsalis/'
+  - 'https://cso.org/about/performers/visiting-artists/brass/wynton-marsalis/'
 network_extracted: true
 entry_created: '2025-10-21T06:43:19.819216'
 last_updated: '2025-12-23T08:16:04.310381'
+birth_date: '1961-10-18'
+artist_type: person
 ---
 
 ![](Wynton_Marsalis.jpg)

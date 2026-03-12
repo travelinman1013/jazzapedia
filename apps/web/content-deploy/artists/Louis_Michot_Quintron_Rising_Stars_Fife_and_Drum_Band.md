@@ -1,17 +1,18 @@
 ---
-title: Louis Michot, Quintron, Rising Stars Fife and Drum Band
+title: 'Louis Michot, Quintron, Rising Stars Fife and Drum Band'
 wiki_slug: louis-michot-quintron-rising-stars-fife-and-drum-band
 schema_version: 2
 status: active
-birth_place: Arnaudville, Louisiana, United States
+birth_place: 'Arnaudville, Louisiana, United States'
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/Louis_Michot_Quintron_Rising_Stars_Fife_and_Drum_Band.jpg
-  caption: Louis Michot, Quintron, Rising Stars Fife and Drum Band
+  image: >-
+    03_Resources/source_material/ArtistPortraits/Louis_Michot_Quintron_Rising_Stars_Fife_and_Drum_Band.jpg
+  caption: 'Louis Michot, Quintron, Rising Stars Fife and Drum Band'
   background: solo_singer
-  origin: Arnaudville, Louisiana, United States
+  origin: 'Arnaudville, Louisiana, United States'
 audio_profile:
   tempo_avg: 115.5
   energy_avg: 0.497
@@ -19,7 +20,7 @@ audio_profile:
   danceability_avg: 0.556
   acousticness_avg: 0.602
   instrumentalness_avg: 0.195
-  loudness_avg: -10.0
+  loudness_avg: -10
   speechiness_avg: 0.068
   liveness_avg: 0.172
   track_count: 49
@@ -27,51 +28,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Andre Michot
-  - Bryan Webre
-  - Kirkland Middleton
-  - Quintron
-  - Shardé Thomas
-  - Leyla McCalla
-  - Bombino
+    - Andre Michot
+    - Bryan Webre
+    - Kirkland Middleton
+    - Quintron
+    - Shardé Thomas
+    - Leyla McCalla
+    - Bombino
   influenced:
-  - Younger Louisiana French musicians
+    - Younger Louisiana French musicians
   mentors:
-  - David Michot
-  - Louis Michot Sr.
+    - David Michot
+    - Louis Michot Sr.
 spotify_data:
   followers: 1003
   id: 7gPlS4Nc3Ozgkux568aeNN
   popularity: 11
-  url: https://open.spotify.com/artist/7gPlS4Nc3Ozgkux568aeNN
+  url: 'https://open.spotify.com/artist/7gPlS4Nc3Ozgkux568aeNN'
 discography_enriched: true
 top_tracks:
-- laisse le bon temps rouler (laisse le bon temps rouler)
-- Blue Moon Special (Bayou Perdu)
-- Meche Perdu (SEAUXLEAUX)
-- Amourette (Rêve du troubadour)
-- laisse le bon temps rouler (BABY DON'T)
-- 'Jole Blon (with Louis Michot) (American Epic: The Soundtrack)'
-- Boscoyo Fleaux (SEAUXLEAUX)
-- L’Abandonne (SEAUXLEAUX)
-- Rêve du troubadour (Rêve du troubadour)
-- Souvenir de Porto Rico (Rêve du troubadour)
+  - laisse le bon temps rouler (laisse le bon temps rouler)
+  - Blue Moon Special (Bayou Perdu)
+  - Meche Perdu (SEAUXLEAUX)
+  - Amourette (Rêve du troubadour)
+  - laisse le bon temps rouler (BABY DON'T)
+  - 'Jole Blon (with Louis Michot) (American Epic: The Soundtrack)'
+  - Boscoyo Fleaux (SEAUXLEAUX)
+  - L’Abandonne (SEAUXLEAUX)
+  - Rêve du troubadour (Rêve du troubadour)
+  - Souvenir de Porto Rico (Rêve du troubadour)
 external_urls:
-  spotify: https://open.spotify.com/artist/7gPlS4Nc3Ozgkux568aeNN
+  spotify: 'https://open.spotify.com/artist/7gPlS4Nc3Ozgkux568aeNN'
   wikipedia: ''
-image_path: 03_Resources/source_material/ArtistPortraits/Louis_Michot_Quintron_Rising_Stars_Fife_and_Drum_Band.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/Louis_Michot_Quintron_Rising_Stars_Fife_and_Drum_Band.jpg
 biography_enhanced_at: '2025-10-20T09:34:25.755670'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.louismichot.com/about
-- https://americana-uk.com/interview-louis-michot-on-why-it-has-taken-over-20-years-to-release-a-solo-album
-- https://americanahighways.org/2023/11/20/interview-louis-michot-dreams-new-dreams-for-reve-du-troubadour/
-- https://www.nps.gov/jela/learn/photosmultimedia/golden-hour-louis-michot.htm
-- https://antigravitymagazine.com/feature/the-history-within-louis-michot-of-the-lost-bayou-ramblers-melody-makers-more/
+  - 'https://www.louismichot.com/about'
+  - >-
+    https://americana-uk.com/interview-louis-michot-on-why-it-has-taken-over-20-years-to-release-a-solo-album
+  - >-
+    https://americanahighways.org/2023/11/20/interview-louis-michot-dreams-new-dreams-for-reve-du-troubadour/
+  - 'https://www.nps.gov/jela/learn/photosmultimedia/golden-hour-louis-michot.htm'
+  - >-
+    https://antigravitymagazine.com/feature/the-history-within-louis-michot-of-the-lost-bayou-ramblers-melody-makers-more/
 network_extracted: true
 entry_created: '2025-10-20T09:34:25.755692'
 last_updated: '2025-12-23T08:16:03.102292'
+artist_type: person
 ---
 
 ![](Louis_Michot_Quintron_Rising_Stars_Fife_and_Drum_Band.jpg)

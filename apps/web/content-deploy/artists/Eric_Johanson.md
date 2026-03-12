@@ -3,13 +3,13 @@ title: Eric Johanson
 wiki_slug: eric-johanson
 schema_version: 2
 status: active
-birth_place: Alexandria, Louisiana, United States
+birth_place: 'Alexandria, Louisiana, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Eric_Johanson.jpg
   caption: Eric Johanson
   background: solo_singer
-  origin: Alexandria, Louisiana, United States
+  origin: 'Alexandria, Louisiana, United States'
 audio_profile:
   tempo_avg: 113.5
   energy_avg: 0.633
@@ -25,50 +25,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tab Benoit
-  - Luther Dickinson
-  - Tiffany Pollack
-  - Cyril Neville, Anders Osborne, Neville Brothers, Terrance Simien, Corey Henry's Treme Funktet, JJ Grey, Eric Lindell,
-    Mike Zito
+    - Tab Benoit
+    - Luther Dickinson
+    - Tiffany Pollack
+    - >-
+      Cyril Neville, Anders Osborne, Neville Brothers, Terrance Simien, Corey
+      Henry's Treme Funktet, JJ Grey, Eric Lindell, Mike Zito
   influenced:
-  - No widely documented direct proteges as of 2024
+    - No widely documented direct proteges as of 2024
   mentors:
-  - Family friend (unnamed)
-  - Older New Orleans blues musicians
-  - Tab Benoit
+    - Family friend (unnamed)
+    - Older New Orleans blues musicians
+    - Tab Benoit
 spotify_data:
   followers: 271139
   id: 4CxobvwTpmfpIEbkYh4pAb
   popularity: 44
-  url: https://open.spotify.com/artist/4CxobvwTpmfpIEbkYh4pAb
+  url: 'https://open.spotify.com/artist/4CxobvwTpmfpIEbkYh4pAb'
 discography_enriched: true
 top_tracks:
-- Cliffs Of Dover - Instrumental (Ah Via Musicom)
-- Manhattan (Venus Isle)
-- S.R.V. (Venus Isle)
-- Song For Irene (EJ)
-- Trademark - Instrumental (Ah Via Musicom)
-- Cliffs Of Dover - Live (Europe Live)
-- Born to Be Wild - G3 Reunion Live (G3 Reunion Live)
-- Desert Rose (Ah Via Musicom)
-- Cliffs Of Dover - Instrumental
-- Song For George - Instrumental (Ah Via Musicom)
+  - Cliffs Of Dover - Instrumental (Ah Via Musicom)
+  - Manhattan (Venus Isle)
+  - S.R.V. (Venus Isle)
+  - Song For Irene (EJ)
+  - Trademark - Instrumental (Ah Via Musicom)
+  - Cliffs Of Dover - Live (Europe Live)
+  - Born to Be Wild - G3 Reunion Live (G3 Reunion Live)
+  - Desert Rose (Ah Via Musicom)
+  - Cliffs Of Dover - Instrumental
+  - Song For George - Instrumental (Ah Via Musicom)
 external_urls:
-  spotify: https://open.spotify.com/artist/4CxobvwTpmfpIEbkYh4pAb
-  wikipedia: https://en.wikipedia.org/wiki/Eric_Johanson
+  spotify: 'https://open.spotify.com/artist/4CxobvwTpmfpIEbkYh4pAb'
+  wikipedia: 'https://en.wikipedia.org/wiki/Eric_Johanson'
 image_path: 03_Resources/source_material/ArtistPortraits/Eric_Johanson.jpg
 biography_enhanced_at: '2025-10-19T10:37:29.491144'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Eric_Johanson
-- https://ellanola.org/ellanotes/eric-johanson-born-to-be-a-musician
-- https://www.lyrictheatre.com/past-show/10932-eric-johanson
-- https://www.ericjohanson.com/about
-- https://www.americanbluesscene.com/2023/07/eric-johanson-its-all-about-the-sound/
+  - 'https://en.wikipedia.org/wiki/Eric_Johanson'
+  - 'https://ellanola.org/ellanotes/eric-johanson-born-to-be-a-musician'
+  - 'https://www.lyrictheatre.com/past-show/10932-eric-johanson'
+  - 'https://www.ericjohanson.com/about'
+  - >-
+    https://www.americanbluesscene.com/2023/07/eric-johanson-its-all-about-the-sound/
 network_extracted: true
 entry_created: '2025-10-19T10:37:29.491156'
 last_updated: '2025-12-23T08:16:01.935630'
+artist_type: person
 ---
 
 ![](Eric_Johanson.jpg)

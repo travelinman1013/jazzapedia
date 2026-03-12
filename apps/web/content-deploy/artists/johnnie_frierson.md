@@ -4,13 +4,13 @@ wiki_slug: johnnie-frierson
 schema_version: 2
 artist_type: person
 status: active
-birth_place: Memphis, Tennessee, United States
+birth_place: 'Memphis, Tennessee, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/johnnie_frierson.jpg
   caption: Johnnie Frierson
   background: solo_singer
-  origin: Memphis, Tennessee, United States
+  origin: 'Memphis, Tennessee, United States'
 audio_profile:
   tempo_avg: 100.5
   energy_avg: 0.274
@@ -26,48 +26,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sister (The Drapels)
-  - Stax Records
+    - Sister (The Drapels)
+    - Stax Records
   influenced: []
   mentors:
-  - Church of God In Christ
+    - Church of God In Christ
 spotify_data:
   followers: 8447
   id: 2hWD9jbxq2spqxPTuNyuVN
   popularity: 21
-  url: https://open.spotify.com/artist/2hWD9jbxq2spqxPTuNyuVN
+  url: 'https://open.spotify.com/artist/2hWD9jbxq2spqxPTuNyuVN'
 discography_enriched: true
 top_tracks:
-- Have You Been Good to Yourself (Have You Been Good to Yourself)
-- Miracles (Have You Been Good to Yourself)
-- Heavenly Father, You've Been Good (Have You Been Good to Yourself)
-- Have You Been Good to Yourself (Have You Been Good to Yourself)
-- You Were Sent to This World (Have You Been Good to Yourself)
-- Out Here on Your Word (Have You Been Good to Yourself)
-- Woke up This Morning (Have You Been Good to Yourself)
-- Trust in the Lord (Have You Been Good to Yourself)
-- Have You Been Good to Yourself (Have You Been Good to Yourself)
-- Miracles (Have You Been Good to Yourself)
+  - Have You Been Good to Yourself (Have You Been Good to Yourself)
+  - Miracles (Have You Been Good to Yourself)
+  - 'Heavenly Father, You''ve Been Good (Have You Been Good to Yourself)'
+  - Have You Been Good to Yourself (Have You Been Good to Yourself)
+  - You Were Sent to This World (Have You Been Good to Yourself)
+  - Out Here on Your Word (Have You Been Good to Yourself)
+  - Woke up This Morning (Have You Been Good to Yourself)
+  - Trust in the Lord (Have You Been Good to Yourself)
+  - Have You Been Good to Yourself (Have You Been Good to Yourself)
+  - Miracles (Have You Been Good to Yourself)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/cf519730-940d-44e1-979c-410f810c6b9d
-  spotify: https://open.spotify.com/artist/2hWD9jbxq2spqxPTuNyuVN
+  musicbrainz: 'https://musicbrainz.org/artist/cf519730-940d-44e1-979c-410f810c6b9d'
+  spotify: 'https://open.spotify.com/artist/2hWD9jbxq2spqxPTuNyuVN'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/johnnie_frierson.jpg
 biography_enhanced_at: '2025-11-28T07:41:47.749088'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- True Stories in Sound - Johnnie Frierson's Message
-- AllMusic - Johnnie Frierson Biography
-- NTS - Johnnie Frierson Artist Profile
-- Radiostats - Johnnie Frierson
-- Light in the Attic - Johnnie Frierson Collection
+  - True Stories in Sound - Johnnie Frierson's Message
+  - AllMusic - Johnnie Frierson Biography
+  - NTS - Johnnie Frierson Artist Profile
+  - Radiostats - Johnnie Frierson
+  - Light in the Attic - Johnnie Frierson Collection
 network_extracted: true
 entry_created: '2025-11-28T07:41:47.749100'
 last_updated: '2025-12-23T08:16:10.810508'
 disambiguation: gospel
 gender: Male
 musicbrainz_id: cf519730-940d-44e1-979c-410f810c6b9d
+origin: 'Memphis, Tennessee, United States'
+birth_date: '1945-06-25'
+death_date: '2010-04-20'
 ---
 
 ![](johnnie_frierson.jpg)

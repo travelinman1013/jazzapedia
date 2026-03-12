@@ -1,23 +1,23 @@
 ---
-title: Kevin Bacon, Old 97s
+title: 'Kevin Bacon, Old 97s'
 wiki_slug: kevin-bacon-old-97s
 schema_version: 2
 status: active
-birth_place: Philadelphia, Pennsylvania, United States
+birth_place: 'Philadelphia, Pennsylvania, United States'
 genres:
-- christmas
+  - christmas
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/kevin_bacon_old_97s.jpg
-  caption: Kevin Bacon, Old 97s
+  caption: 'Kevin Bacon, Old 97s'
   background: solo_singer
-  origin: Philadelphia, Pennsylvania, United States
+  origin: 'Philadelphia, Pennsylvania, United States'
 audio_profile:
   tempo_avg: 108.3
   energy_avg: 0.485
   valence_avg: 0.393
   danceability_avg: 0.496
   acousticness_avg: 0.38
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -12.9
   speechiness_avg: 0.212
   liveness_avg: 0.256
@@ -26,43 +26,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Michael Bacon
-  - Old 97's
+    - Michael Bacon
+    - Old 97's
   influenced: []
   mentors: []
 spotify_data:
   followers: 3939
   id: 2Uw2gtRwPwKH9QVy4Km1uz
   popularity: 40
-  url: https://open.spotify.com/artist/2Uw2gtRwPwKH9QVy4Km1uz
+  url: 'https://open.spotify.com/artist/2Uw2gtRwPwKH9QVy4Km1uz'
 discography_enriched: true
 top_tracks:
-- Here It Is Christmastime (The Guardians of the Galaxy Holiday Special (Original Soundtrack))
-- 'Hell And Back (The Bondsman: Hell And Back)'
-- 'Will The Circle Be Unbroken (The Bondsman: Hell And Back)'
-- 'Our Highway (The Bondsman: Hell And Back)'
-- 'Red Flags (The Bondsman: Hell And Back)'
-- 'Hell and Back Again (The Bondsman: Hell And Back)'
-- 'Digging (The Bondsman: Hell And Back)'
-- 'Special Kind Of Crazy (The Bondsman: Hell And Back)'
-- House Cleaning/Houston, We Have A Problem - From "Apollo 13" Original Motion Picture Soundtrack (Apollo 13 (Original Motion
-  Picture Soundtrack))
-- Out Of Time/Shut Her Down - From "Apollo 13" Original Motion Picture Soundtrack (Apollo 13 (Original Motion Picture Soundtrack))
+  - >-
+    Here It Is Christmastime (The Guardians of the Galaxy Holiday Special
+    (Original Soundtrack))
+  - 'Hell And Back (The Bondsman: Hell And Back)'
+  - 'Will The Circle Be Unbroken (The Bondsman: Hell And Back)'
+  - 'Our Highway (The Bondsman: Hell And Back)'
+  - 'Red Flags (The Bondsman: Hell And Back)'
+  - 'Hell and Back Again (The Bondsman: Hell And Back)'
+  - 'Digging (The Bondsman: Hell And Back)'
+  - 'Special Kind Of Crazy (The Bondsman: Hell And Back)'
+  - >-
+    House Cleaning/Houston, We Have A Problem - From "Apollo 13" Original Motion
+    Picture Soundtrack (Apollo 13 (Original Motion Picture Soundtrack))
+  - >-
+    Out Of Time/Shut Her Down - From "Apollo 13" Original Motion Picture
+    Soundtrack (Apollo 13 (Original Motion Picture Soundtrack))
 external_urls:
-  spotify: https://open.spotify.com/artist/2Uw2gtRwPwKH9QVy4Km1uz
-  wikipedia: https://en.wikipedia.org/wiki/Kevin_Bacon
+  spotify: 'https://open.spotify.com/artist/2Uw2gtRwPwKH9QVy4Km1uz'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kevin_Bacon'
 image_path: 03_Resources/source_material/ArtistPortraits/kevin_bacon_old_97s.jpg
 biography_enhanced_at: '2025-12-22T01:51:38.953580'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Kevin_Bacon
-- https://www.baconbros.com/bio
-- https://www.dmagazine.com/publications/d-magazine/2022/december/old-97s-guardians-of-the-galaxy/
-- https://www.guitarworld.com/features/the-bacon-brothers-ballad-of-the-brothers
+  - 'https://en.wikipedia.org/wiki/Kevin_Bacon'
+  - 'https://www.baconbros.com/bio'
+  - >-
+    https://www.dmagazine.com/publications/d-magazine/2022/december/old-97s-guardians-of-the-galaxy/
+  - >-
+    https://www.guitarworld.com/features/the-bacon-brothers-ballad-of-the-brothers
 network_extracted: true
 entry_created: '2025-12-22T01:51:38.953589'
 last_updated: '2025-12-23T08:16:11.333219'
+artist_type: person
 ---
 
 ![](kevin_bacon_old_97s.jpg)

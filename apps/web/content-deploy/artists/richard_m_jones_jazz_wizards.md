@@ -1,16 +1,17 @@
 ---
-title: RICHARD M JONES JAZZ WIZARDS
+title: Richard M Jones Jazz Wizards
 wiki_slug: richard-m-jones-jazz-wizards
 schema_version: 2
 status: active
-birth_place: Donaldsonville, Louisiana, United States
+birth_place: 'Donaldsonville, Louisiana, United States'
 genres:
-- ragtime
+  - ragtime
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/richard_m_jones_jazz_wizards.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/richard_m_jones_jazz_wizards.jpg
   caption: RICHARD M JONES JAZZ WIZARDS
   background: solo_singer
-  origin: Donaldsonville, Louisiana, United States
+  origin: 'Donaldsonville, Louisiana, United States'
 audio_profile:
   tempo_avg: 113.9
   energy_avg: 0.388
@@ -26,49 +27,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Joe "King" Oliver
-  - Johnny St. Cyr
-  - Albert Nicholas
-  - Clarence Williams
-  - Louis Armstrong
+    - Joe "King" Oliver
+    - Johnny St. Cyr
+    - Albert Nicholas
+    - Clarence Williams
+    - Louis Armstrong
   influenced:
-  - Louis Armstrong
-  - Lillie Delk Christian
+    - Louis Armstrong
+    - Lillie Delk Christian
   mentors:
-  - John Robichaux
-  - Armand J. Piron
-  - Papa Celestin
+    - John Robichaux
+    - Armand J. Piron
+    - Papa Celestin
 spotify_data:
   followers: 2
   id: 2yzEtHgl5RDFi2xQ57JFfI
   popularity: 0
-  url: https://open.spotify.com/artist/2yzEtHgl5RDFi2xQ57JFfI
+  url: 'https://open.spotify.com/artist/2yzEtHgl5RDFi2xQ57JFfI'
 discography_enriched: true
 top_tracks:
-- Sports Model Mama (Chicago Urban Blues)
-- Jazzin' babies blues (Chicago South Side 1923-1930)
-- 29th & Dearborn (Rare Cuts - Well Done, Vol. 1)
-- 29th & Dearborn - Alternate Take (Rare Cuts - Well Done, Vol. 1)
-- New Orleans Hop Scop Blues - Take 1 (Rare Cuts - Well Done, Vol. 1)
-- New Orleans Hop Scop Blues - Take 2 (Rare Cuts - Well Done, Vol. 1)
-- Jazzin' Babies' Blues (Rare Cuts - Well Done, Vol. 1)
-- Canal Street Blues (Rare Cuts - Well Done, Vol. 1)
+  - Sports Model Mama (Chicago Urban Blues)
+  - Jazzin' babies blues (Chicago South Side 1923-1930)
+  - '29th & Dearborn (Rare Cuts - Well Done, Vol. 1)'
+  - '29th & Dearborn - Alternate Take (Rare Cuts - Well Done, Vol. 1)'
+  - 'New Orleans Hop Scop Blues - Take 1 (Rare Cuts - Well Done, Vol. 1)'
+  - 'New Orleans Hop Scop Blues - Take 2 (Rare Cuts - Well Done, Vol. 1)'
+  - 'Jazzin'' Babies'' Blues (Rare Cuts - Well Done, Vol. 1)'
+  - 'Canal Street Blues (Rare Cuts - Well Done, Vol. 1)'
 external_urls:
-  spotify: https://open.spotify.com/artist/2yzEtHgl5RDFi2xQ57JFfI
-  wikipedia: https://en.wikipedia.org/wiki/Richard_M._Jones
+  spotify: 'https://open.spotify.com/artist/2yzEtHgl5RDFi2xQ57JFfI'
+  wikipedia: 'https://en.wikipedia.org/wiki/Richard_M._Jones'
 image_path: ''
 biography_enhanced_at: '2025-11-14T11:01:51.560922'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Richard_M._Jones
-- https://syncopatedtimes.com/richard-m-jones-1889-1945/
-- https://geographicus.com/P/ctgy&Category_Code=jonesrichardm
-- https://wbssmedia.com/artists/detail/1252
-- https://syncopatedtimes.com/richard-m-jones-three-jazz-wizards/
+  - 'https://en.wikipedia.org/wiki/Richard_M._Jones'
+  - 'https://syncopatedtimes.com/richard-m-jones-1889-1945/'
+  - 'https://geographicus.com/P/ctgy&Category_Code=jonesrichardm'
+  - 'https://wbssmedia.com/artists/detail/1252'
+  - 'https://syncopatedtimes.com/richard-m-jones-three-jazz-wizards/'
 network_extracted: true
 entry_created: '2025-11-14T11:01:51.560934'
 last_updated: '2025-12-23T08:16:14.842617'
+origin: 'Chicago, Illinois, United States'
+birth_date: '1892-06-13'
+artist_type: person
 ---
 
 ![]()

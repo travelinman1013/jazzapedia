@@ -1,16 +1,16 @@
 ---
-title: labi siffre
+title: Labi Siffre
 wiki_slug: labi-siffre
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1945-06-25'
-birth_place: Hammersmith
+birth_place: 'Hammersmith, London, England'
 genres: []
 instruments:
-- guitar
-- acoustic guitar
-- electric piano
+  - guitar
+  - acoustic guitar
+  - electric piano
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/labi_siffre.jpg
   caption: labi siffre
@@ -32,64 +32,68 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Annie Ross / Annie’s Room house band
-  - Bob James
-  - Madness
-  - Eminem and Dr. Dre
+    - Annie Ross / Annie’s Room house band
+    - Bob James
+    - Madness
+    - Eminem and Dr. Dre
   influenced:
-  - Madness
-  - Eminem
-  - Kanye West
-  - Later generations of soul, pop, and hip‑hop artists
+    - Madness
+    - Eminem
+    - Kanye West
+    - 'Later generations of soul, pop, and hip‑hop artists'
   mentors:
-  - Thelonious Monk
-  - Miles Davis
-  - Charles Mingus
-  - Billie Holiday
-  - Mel Tormé
-  - Little Richard and Muddy Waters
+    - Thelonious Monk
+    - Miles Davis
+    - Charles Mingus
+    - Billie Holiday
+    - Mel Tormé
+    - Little Richard and Muddy Waters
 spotify_data:
   followers: 363935
   id: 5CzlICF8GCY0pRC82MKrhX
   popularity: 65
-  url: https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX
+  url: 'https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX'
 discography_enriched: true
 top_tracks:
-- Cannock Chase (Crying, Laughing, Loving, Lying)
-- Bless the Telephone (The Singer & The Song)
-- My Song (Crying, Laughing, Loving, Lying)
-- Crying, Laughing, Loving, Lying (Crying, Laughing, Loving, Lying)
-- I Got The... - 2006 Remaster (Remember My Song)
-- Watch Me (Crying, Laughing, Loving, Lying (Deluxe Edition))
-- It Must Be Love (Crying, Laughing, Loving, Lying)
-- (Something Inside) So Strong (So Strong)
-- I Got The...
-- '''Till Forever (Crying, Laughing, Loving, Lying)'
+  - 'Cannock Chase (Crying, Laughing, Loving, Lying)'
+  - Bless the Telephone (The Singer & The Song)
+  - 'My Song (Crying, Laughing, Loving, Lying)'
+  - 'Crying, Laughing, Loving, Lying (Crying, Laughing, Loving, Lying)'
+  - I Got The... - 2006 Remaster (Remember My Song)
+  - 'Watch Me (Crying, Laughing, Loving, Lying (Deluxe Edition))'
+  - 'It Must Be Love (Crying, Laughing, Loving, Lying)'
+  - (Something Inside) So Strong (So Strong)
+  - I Got The...
+  - '''Till Forever (Crying, Laughing, Loving, Lying)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6838ca8e-da88-436c-a0fd-6d3a7e832f1f
-  spotify: https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX
-  wikipedia: https://en.wikipedia.org/wiki/Labi_Siffre
+  musicbrainz: 'https://musicbrainz.org/artist/6838ca8e-da88-436c-a0fd-6d3a7e832f1f'
+  spotify: 'https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX'
+  wikipedia: 'https://en.wikipedia.org/wiki/Labi_Siffre'
 image_path: 03_Resources/source_material/ArtistPortraits/labi_siffre.jpg
 biography_enhanced_at: '2025-12-05T06:13:40.472032'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Labi+Siffre/+wiki
-- https://www.queerportraits.com/bio/siffre
-- https://www.bigissue.com/culture/music/labi-siffre-music-life-career-gay-black-husbands/
-- https://www.riseupsinging.org/artistcomposer/labi-siffre
-- https://kulturedchild.com/in-appreciation-of-labi-siffre/
-- https://magazine.waxpoetics.com/connections/pride/rediscovery/labi-siffre-happy/
-- https://www.lbhf.gov.uk/celebrating-hf/heritage-trails/black-music-history-trail/labi-siffres-birthplace-goldhawk-road
+  - 'https://www.last.fm/music/Labi+Siffre/+wiki'
+  - 'https://www.queerportraits.com/bio/siffre'
+  - >-
+    https://www.bigissue.com/culture/music/labi-siffre-music-life-career-gay-black-husbands/
+  - 'https://www.riseupsinging.org/artistcomposer/labi-siffre'
+  - 'https://kulturedchild.com/in-appreciation-of-labi-siffre/'
+  - >-
+    https://magazine.waxpoetics.com/connections/pride/rediscovery/labi-siffre-happy/
+  - >-
+    https://www.lbhf.gov.uk/celebrating-hf/heritage-trails/black-music-history-trail/labi-siffres-birthplace-goldhawk-road
 network_extracted: true
 entry_created: '2025-12-05T06:13:40.472040'
 last_updated: '2025-12-23T08:16:11.545226'
 gender: Male
 musicbrainz_id: 6838ca8e-da88-436c-a0fd-6d3a7e832f1f
 tags:
-- british
-- english
-- rock and indie
+  - british
+  - english
+  - rock and indie
+origin: 'London, England'
 ---
 
 ![](labi_siffre.jpg)

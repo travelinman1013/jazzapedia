@@ -1,68 +1,68 @@
 ---
-title: jimi hendrix
+title: Jimi Hendrix
 wiki_slug: jimi-hendrix
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1942-11-27'
-birth_place: Seattle
+birth_place: 'Seattle, Washington, United States'
 death_date: '1970-09-18'
 genres:
-- psychedelic rock
-- classic rock
-- acid rock
-- blues rock
+  - psychedelic rock
+  - classic rock
+  - acid rock
+  - blues rock
 instruments:
-- eponymous
-- guitar
-- lead vocals
-- original
-- electric guitar
-- piano
-- 12 string guitar
-- electric bass guitar
-- bass guitar
-- acoustic guitar
-- spoken vocals
-- background vocals
-- other vocals
-associated_acts:
-- begin: '1964'
-  end: '1964'
-  instruments: []
-  mbid: 5aa80c0d-70b6-4bf7-9ea5-a4e43b182aa2
-  name: Little Richard Show
-- begin: '1965'
-  end: '1966'
-  instruments: []
-  mbid: 941b4ff9-3330-4315-8b23-d31f06424dfe
-  name: Curtis Knight and The Squires
-- begin: '1966'
-  end: 1969-06
-  instruments:
   - eponymous
   - guitar
   - lead vocals
   - original
-  mbid: 33b3c323-77c2-417c-a5b4-af7e6a111cc9
-  name: The Jimi Hendrix Experience
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: ca8c28db-561b-4772-827f-bdb29d106395
-  name: Band of Gypsys
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 2adf849a-a413-4b5e-a09a-b4379cec90a3
-  name: Gypsy Sun and Rainbows
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1a2e3dad-4b85-4d9f-b6df-c435e95d2359
-  name: Johnny Jones & The King Casuals
+  - electric guitar
+  - piano
+  - 12 string guitar
+  - electric bass guitar
+  - bass guitar
+  - acoustic guitar
+  - spoken vocals
+  - background vocals
+  - other vocals
+associated_acts:
+  - begin: '1964'
+    end: '1964'
+    instruments: []
+    mbid: 5aa80c0d-70b6-4bf7-9ea5-a4e43b182aa2
+    name: Little Richard Show
+  - begin: '1965'
+    end: '1966'
+    instruments: []
+    mbid: 941b4ff9-3330-4315-8b23-d31f06424dfe
+    name: Curtis Knight and The Squires
+  - begin: '1966'
+    end: 1969-06
+    instruments:
+      - eponymous
+      - guitar
+      - lead vocals
+      - original
+    mbid: 33b3c323-77c2-417c-a5b4-af7e6a111cc9
+    name: The Jimi Hendrix Experience
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: ca8c28db-561b-4772-827f-bdb29d106395
+    name: Band of Gypsys
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 2adf849a-a413-4b5e-a09a-b4379cec90a3
+    name: Gypsy Sun and Rainbows
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1a2e3dad-4b85-4d9f-b6df-c435e95d2359
+    name: Johnny Jones & The King Casuals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jimi_hendrix.jpg
   caption: jimi hendrix
@@ -85,58 +85,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Noel Redding
-  - Mitch Mitchell
-  - Billy Cox
-  - Chas Chandler
+    - Noel Redding
+    - Mitch Mitchell
+    - Billy Cox
+    - Chas Chandler
   influenced:
-  - Stevie Ray Vaughan
-  - Prince
-  - Eddie Van Halen
-  - John Mayer
+    - Stevie Ray Vaughan
+    - Prince
+    - Eddie Van Halen
+    - John Mayer
   mentors:
-  - Muddy Waters
-  - B.B. King
+    - Muddy Waters
+    - B.B. King
 spotify_data:
   followers: 7360695
   id: 776Uo845nYHJpNaStv1Ds4
   popularity: 66
-  url: https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4
+  url: 'https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4'
 discography_enriched: true
 top_tracks:
-- All Along the Watchtower (Electric Ladyland)
-- Purple Haze (Are You Experienced)
-- 'Little Wing (Axis: Bold As Love)'
-- Hey Joe (Are You Experienced)
-- Voodoo Child (Slight Return) (Electric Ladyland)
-- The Wind Cries Mary (Are You Experienced)
-- Foxey Lady (Are You Experienced)
-- 'Castles Made of Sand (Axis: Bold As Love)'
-- Crosstown Traffic (Electric Ladyland)
-- Red House (Are You Experienced)
+  - All Along the Watchtower (Electric Ladyland)
+  - Purple Haze (Are You Experienced)
+  - 'Little Wing (Axis: Bold As Love)'
+  - Hey Joe (Are You Experienced)
+  - Voodoo Child (Slight Return) (Electric Ladyland)
+  - The Wind Cries Mary (Are You Experienced)
+  - Foxey Lady (Are You Experienced)
+  - 'Castles Made of Sand (Axis: Bold As Love)'
+  - Crosstown Traffic (Electric Ladyland)
+  - Red House (Are You Experienced)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/06fb1c8b-566e-4cb2-985b-b467c90781d4
-  spotify: https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4
-  wikipedia: https://en.wikipedia.org/wiki/Jimi_Hendrix
+  musicbrainz: 'https://musicbrainz.org/artist/06fb1c8b-566e-4cb2-985b-b467c90781d4'
+  spotify: 'https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jimi_Hendrix'
 image_path: 03_Resources/source_material/ArtistPortraits/jimi_hendrix.jpg
 biography_enhanced_at: '2025-10-25T10:04:33.331522'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.masterclass.com/articles/jimi-hendrix-biography
-- https://www.biography.com/musicians/jimi-hendrix
-- https://en.wikipedia.org/wiki/Jimi_Hendrix
-- https://www.ebsco.com/research-starters/history/jimi-hendrix
-- https://www.jimihendrix.com/biography/
+  - 'https://www.masterclass.com/articles/jimi-hendrix-biography'
+  - 'https://www.biography.com/musicians/jimi-hendrix'
+  - 'https://en.wikipedia.org/wiki/Jimi_Hendrix'
+  - 'https://www.ebsco.com/research-starters/history/jimi-hendrix'
+  - 'https://www.jimihendrix.com/biography/'
 network_extracted: true
 entry_created: '2025-10-25T10:04:33.331539'
 last_updated: '2025-12-23T08:16:10.398376'
 gender: Male
 musicbrainz_id: 06fb1c8b-566e-4cb2-985b-b467c90781d4
 tags:
-- 27 club
-- 60's
-- acid rock
+  - 27 club
+  - 60's
+  - acid rock
+is_active: false
 ---
 
 ![](jimi_hendrix.jpg)

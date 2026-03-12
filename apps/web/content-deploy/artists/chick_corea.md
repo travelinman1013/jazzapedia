@@ -3,17 +3,17 @@ title: Chick Corea
 wiki_slug: chick-corea
 schema_version: 2
 status: active
-birth_place: Chelsea, Massachusetts, United States
+birth_place: 'Chelsea, Massachusetts, United States'
 genres:
-- jazz fusion
-- jazz
-- latin jazz
-- free jazz
+  - jazz fusion
+  - jazz
+  - latin jazz
+  - free jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/chick_corea.jpg
   caption: Chick Corea
   background: solo_singer
-  origin: Chelsea, Massachusetts, United States
+  origin: 'Chelsea, Massachusetts, United States'
 audio_profile:
   tempo_avg: 116.7
   energy_avg: 0.387
@@ -29,56 +29,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Herbie Hancock
-  - Gary Burton
-  - Béla Fleck
-  - Stanley Clarke
-  - Roy Haynes
-  - John McLaughlin
+    - Herbie Hancock
+    - Gary Burton
+    - Béla Fleck
+    - Stanley Clarke
+    - Roy Haynes
+    - John McLaughlin
   influenced:
-  - Brad Mehldau
-  - Hiromi Uehara
-  - Danilo Pérez
-  - Jacob Collier
+    - Brad Mehldau
+    - Hiromi Uehara
+    - Danilo Pérez
+    - Jacob Collier
   mentors:
-  - Horace Silver
-  - Bud Powell
-  - Miles Davis
+    - Horace Silver
+    - Bud Powell
+    - Miles Davis
 spotify_data:
   followers: 410366
   id: 5olDKSsFhhmwh8UCWwKtpq
   popularity: 49
-  url: https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq
+  url: 'https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq'
 discography_enriched: true
 top_tracks:
-- My One And Only Love (Now He Sings, Now He Sobs (Expanded Edition))
-- Windows (Now He Sings, Now He Sobs (Expanded Edition))
-- Crystal Silence (Return To Forever)
-- Children's Song No. 1 (Arr. for guitar by Forbes Henderson) - Classical Session
-- Spain (Light As A Feather)
-- Windows
-- Senor Mouse (Crystal Silence)
-- Spain (Light As A Feather (Deluxe Edition))
-- Got A Match? (The Chick Corea Elektric Band)
-- Armando's Rhumba (My Spanish Heart)
+  - 'My One And Only Love (Now He Sings, Now He Sobs (Expanded Edition))'
+  - 'Windows (Now He Sings, Now He Sobs (Expanded Edition))'
+  - Crystal Silence (Return To Forever)
+  - >-
+    Children's Song No. 1 (Arr. for guitar by Forbes Henderson) - Classical
+    Session
+  - Spain (Light As A Feather)
+  - Windows
+  - Senor Mouse (Crystal Silence)
+  - Spain (Light As A Feather (Deluxe Edition))
+  - Got A Match? (The Chick Corea Elektric Band)
+  - Armando's Rhumba (My Spanish Heart)
 external_urls:
-  spotify: https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq
-  wikipedia: https://en.wikipedia.org/wiki/Chick_Corea
+  spotify: 'https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq'
+  wikipedia: 'https://en.wikipedia.org/wiki/Chick_Corea'
 image_path: 03_Resources/source_material/ArtistPortraits/chick_corea.jpg
 biography_enhanced_at: '2025-10-25T09:48:59.342554'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.deutschegrammophon.com/en/artists/chickcorea/biography
-- https://pianowithjonny.com/piano-lessons/chick-corea-a-legend-of-creativity-and-jazz/
-- https://www.britannica.com/biography/Chick-Corea
-- https://www.arts.gov/honors/jazz/chick-corea
-- https://en.wikipedia.org/wiki/Chick_Corea
-- https://chickcorea.com/about-chick/
-- https://chickcorea.com/bio/1941-71/
+  - 'https://www.deutschegrammophon.com/en/artists/chickcorea/biography'
+  - >-
+    https://pianowithjonny.com/piano-lessons/chick-corea-a-legend-of-creativity-and-jazz/
+  - 'https://www.britannica.com/biography/Chick-Corea'
+  - 'https://www.arts.gov/honors/jazz/chick-corea'
+  - 'https://en.wikipedia.org/wiki/Chick_Corea'
+  - 'https://chickcorea.com/about-chick/'
+  - 'https://chickcorea.com/bio/1941-71/'
 network_extracted: true
 entry_created: '2025-10-25T09:48:59.342569'
 last_updated: '2025-12-23T08:16:06.818639'
+birth_date: '1941-06-12'
+death_date: '2021-02-09'
+artist_type: person
 ---
 
 ![](chick_corea.jpg)

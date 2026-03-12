@@ -1,15 +1,16 @@
 ---
-title: WALTER WOLFMAN WASHINGTON & THE ROADMASTERS
+title: Walter Wolfman Washington & the Roadmasters
 wiki_slug: walter-wolfman-washington-the-roadmasters
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/walter_wolfman_washington_and_the_roadmasters.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/walter_wolfman_washington_and_the_roadmasters.jpg
   caption: WALTER WOLFMAN WASHINGTON & THE ROADMASTERS
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 125.2
   energy_avg: 0.708
@@ -25,50 +26,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Roadmasters
-  - Joe Krown
-  - Russell Batiste Jr.
-  - Jon Cleary
-  - Ben Ellman
+    - The Roadmasters
+    - Joe Krown
+    - Russell Batiste Jr.
+    - Jon Cleary
+    - Ben Ellman
   influenced: []
   mentors:
-  - Irma Thomas
-  - Ernie K-Doe
-  - Johnny Adams
-  - Lee Dorsey
+    - Irma Thomas
+    - Ernie K-Doe
+    - Johnny Adams
+    - Lee Dorsey
 spotify_data:
   followers: 599
   id: 0FQlqalf0xZMmacIcE4Cdw
   popularity: 2
-  url: https://open.spotify.com/artist/0FQlqalf0xZMmacIcE4Cdw
+  url: 'https://open.spotify.com/artist/0FQlqalf0xZMmacIcE4Cdw'
 discography_enriched: true
 top_tracks:
-- Funkyard (Funk Is In The House)
-- Funkyard (Live) (Howlin' Live At Dba New Orleans)
-- Wolf Funk (Funk Is In The House)
-- Funk Is In The House (Funk Is In The House)
-- Trials And Tribulations (Funk Is In The House)
-- Mary Ann (Funk Is In The House)
-- Please Come Back To Me (Funk Is In The House)
-- Close The Door (Funk Is In The House)
-- The Big Easy (Funk Is In The House)
-- Blue Moon Risin' (Live) (Howlin' Live At Dba New Orleans)
+  - Funkyard (Funk Is In The House)
+  - Funkyard (Live) (Howlin' Live At Dba New Orleans)
+  - Wolf Funk (Funk Is In The House)
+  - Funk Is In The House (Funk Is In The House)
+  - Trials And Tribulations (Funk Is In The House)
+  - Mary Ann (Funk Is In The House)
+  - Please Come Back To Me (Funk Is In The House)
+  - Close The Door (Funk Is In The House)
+  - The Big Easy (Funk Is In The House)
+  - Blue Moon Risin' (Live) (Howlin' Live At Dba New Orleans)
 external_urls:
-  spotify: https://open.spotify.com/artist/0FQlqalf0xZMmacIcE4Cdw
-  wikipedia: https://en.wikipedia.org/wiki/Walter_%22Wolfman%22_Washington
-image_path: 03_Resources/source_material/ArtistPortraits/walter_wolfman_washington_and_the_roadmasters.jpg
+  spotify: 'https://open.spotify.com/artist/0FQlqalf0xZMmacIcE4Cdw'
+  wikipedia: 'https://en.wikipedia.org/wiki/Walter_%22Wolfman%22_Washington'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/walter_wolfman_washington_and_the_roadmasters.jpg
 biography_enhanced_at: '2025-12-04T07:39:01.843044'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://walterwolfmanwashington.com
-- https://en.wikipedia.org/wiki/Walter_%22Wolfman%22_Washington
-- https://www.richmondfolkfestival.org/2020-performers/2020/8/13/walter-wolfman-washington-amp-the-roadmasters
-- https://musicinsideout.wwno.org/walter-wolfman-washington-2/
-- https://www.neworleans.com/listing/walter-wolfman-washington/48218/
+  - 'https://walterwolfmanwashington.com'
+  - 'https://en.wikipedia.org/wiki/Walter_%22Wolfman%22_Washington'
+  - >-
+    https://www.richmondfolkfestival.org/2020-performers/2020/8/13/walter-wolfman-washington-amp-the-roadmasters
+  - 'https://musicinsideout.wwno.org/walter-wolfman-washington-2/'
+  - 'https://www.neworleans.com/listing/walter-wolfman-washington/48218/'
 network_extracted: true
 entry_created: '2025-12-04T07:39:01.843054'
 last_updated: '2025-12-23T08:16:17.982204'
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1943-12-20'
+death_date: '2022-12-22'
+artist_type: person
 ---
 
 ![](walter_wolfman_washington_and_the_roadmasters.jpg)

@@ -2,18 +2,18 @@
 title: Ruby Rushton
 wiki_slug: ruby-rushton
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- nu jazz
-- indie jazz
-- jazz
-- jazz funk
+  - nu jazz
+  - indie jazz
+  - jazz
+  - jazz funk
 instruments:
-- drums (drum set)
-- trumpet
-- keyboard
-- flute
+  - drums (drum set)
+  - trumpet
+  - keyboard
+  - flute
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ruby_rushton.jpg
   caption: Ruby Rushton
@@ -33,89 +33,89 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ed Cawthorne (Tenderlonious)
-  - Nick Walters
-  - Aidan Shepherd
-  - Yussef Dayes
-  - Tim Carnegie
-  - Fergus Ireland
-  - Eddie Hick
-  - Joseph Deenmamode (aka Mo Kolours)
-  - Tom Marriott
-  - Ben Kelly
+    - Ed Cawthorne (Tenderlonious)
+    - Nick Walters
+    - Aidan Shepherd
+    - Yussef Dayes
+    - Tim Carnegie
+    - Fergus Ireland
+    - Eddie Hick
+    - Joseph Deenmamode (aka Mo Kolours)
+    - Tom Marriott
+    - Ben Kelly
   influenced:
-  - Contemporary UK ‘new jazz’ scene (various artists)
+    - Contemporary UK ‘new jazz’ scene (various artists)
   mentors:
-  - Yusef Lateef
-  - John Coltrane
+    - Yusef Lateef
+    - John Coltrane
 spotify_data:
   followers: 25845
   id: 6DO2Eyazl6ToBSvp7OGLuF
   popularity: 34
-  url: https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF
+  url: 'https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF'
 discography_enriched: true
 top_tracks:
-- Trudi's Mood (Trudi's Songbook, Vol. 1)
-- Sun Khosi (Sun Khosi)
-- Yardley Suite (Yardley Suite)
-- Chrysalis (Sun Khosi)
-- The Target (Ironside)
-- Triceratops / The Caller (Ironside)
-- Trudi's Mood, Pt. 2 (Trudi's Songbook, Vol. 2)
-- One Mo' Dram (Ironside)
-- Gideon's Way (Gideon's Way)
-- Ironside (Ironside)
+  - 'Trudi''s Mood (Trudi''s Songbook, Vol. 1)'
+  - Sun Khosi (Sun Khosi)
+  - Yardley Suite (Yardley Suite)
+  - Chrysalis (Sun Khosi)
+  - The Target (Ironside)
+  - Triceratops / The Caller (Ironside)
+  - 'Trudi''s Mood, Pt. 2 (Trudi''s Songbook, Vol. 2)'
+  - One Mo' Dram (Ironside)
+  - Gideon's Way (Gideon's Way)
+  - Ironside (Ironside)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/673647b3-723a-49d0-af81-921f3972ee77
-  spotify: https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF
-  wikipedia: https://en.wikipedia.org/wiki/Ruby_Rushton
+  musicbrainz: 'https://musicbrainz.org/artist/673647b3-723a-49d0-af81-921f3972ee77'
+  spotify: 'https://open.spotify.com/artist/6DO2Eyazl6ToBSvp7OGLuF'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ruby_Rushton'
 image_path: 03_Resources/source_material/ArtistPortraits/ruby_rushton.jpg
 biography_enhanced_at: '2025-12-09T04:21:08.299104'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Ruby+Rushton/+wiki
-- https://en.wikipedia.org/wiki/Ruby_Rushton
-- https://bandonthewall.org/2019/03/ruby-rushtons-nick-walters-interview/
-- https://jazzviews.net/ruby-rushton-legacy/
-- https://www.clashmusic.com/features/tenderlonious-on-10-years-of-22a/
-- https://www.allaboutjazz.com/legacy-ruby-rushton-22a
-- https://www.jazzmusicarchives.com/artist/ruby-rushton
-- https://ukvibe.org/album_reviews/ruby-rushton/
-- https://www.redbull.com/us-en/ruby-rushton-exclusive-jazz-music-session
+  - 'https://www.last.fm/music/Ruby+Rushton/+wiki'
+  - 'https://en.wikipedia.org/wiki/Ruby_Rushton'
+  - 'https://bandonthewall.org/2019/03/ruby-rushtons-nick-walters-interview/'
+  - 'https://jazzviews.net/ruby-rushton-legacy/'
+  - 'https://www.clashmusic.com/features/tenderlonious-on-10-years-of-22a/'
+  - 'https://www.allaboutjazz.com/legacy-ruby-rushton-22a'
+  - 'https://www.jazzmusicarchives.com/artist/ruby-rushton'
+  - 'https://ukvibe.org/album_reviews/ruby-rushton/'
+  - 'https://www.redbull.com/us-en/ruby-rushton-exclusive-jazz-music-session'
 network_extracted: true
 entry_created: '2025-12-09T04:21:08.299114'
 last_updated: '2025-12-23T08:16:15.178859'
 disambiguation: London-based jazz outfit
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: a6e5e0bc-15fb-47d5-97b2-dd2c28a70f96
-  name: Tim Carnegie
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: 91d65962-874c-4a22-800c-b6b5d2546753
-  name: Nick Walters
-- begin: ''
-  end: ''
-  instruments:
-  - keyboard
-  mbid: b3e099e8-40a7-45c5-a6fa-4163b8c118a0
-  name: Aidan Shepherd
-- begin: ''
-  end: ''
-  instruments:
-  - flute
-  mbid: 30e659f6-fc6d-4f86-96a5-650de1997e2f
-  name: Tenderlonious
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: a6e5e0bc-15fb-47d5-97b2-dd2c28a70f96
+    name: Tim Carnegie
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: 91d65962-874c-4a22-800c-b6b5d2546753
+    name: Nick Walters
+  - begin: ''
+    end: ''
+    instruments:
+      - keyboard
+    mbid: b3e099e8-40a7-45c5-a6fa-4163b8c118a0
+    name: Aidan Shepherd
+  - begin: ''
+    end: ''
+    instruments:
+      - flute
+    mbid: 30e659f6-fc6d-4f86-96a5-650de1997e2f
+    name: Tenderlonious
 musicbrainz_id: 673647b3-723a-49d0-af81-921f3972ee77
-origin: South London, England, United Kingdom
+origin: 'South London, England, United Kingdom'
 tags:
-- jazz
+  - jazz
 ---
 
 ![](ruby_rushton.jpg)

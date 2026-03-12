@@ -1,11 +1,11 @@
 ---
-title: COCO ROBICHEAUX
+title: Coco Robicheaux
 wiki_slug: coco-robicheaux
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1947-10-25'
-birth_place: Louisiana
+birth_place: 'Merced, California, United States'
 death_date: '2011-11-25'
 genres: []
 infobox:
@@ -30,45 +30,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Spiritland label musicians
+    - Spiritland label musicians
   influenced:
-  - New Orleans blues and roots musicians
+    - New Orleans blues and roots musicians
   mentors:
-  - Dr. John (Mac Rebennack)
+    - Dr. John (Mac Rebennack)
 spotify_data:
   followers: 1149
   id: 3uDXZ54IJR72vYy3XvHGi6
   popularity: 3
-  url: https://open.spotify.com/artist/3uDXZ54IJR72vYy3XvHGi6
+  url: 'https://open.spotify.com/artist/3uDXZ54IJR72vYy3XvHGi6'
 discography_enriched: true
 top_tracks:
-- Walking with the Spirit (Spiritland)
-- '3: 33 Blues (Louisiana Medicine Man)'
-- Louisiana Medecine Man (Louisiana Medicine Man)
-- Spiritland (Spiritland)
-- Cottonmouth (Louisiana Medicine Man)
-- Pit Bull (Spiritland)
-- Broken String (Spiritland)
-- Working Man (Spiritland)
-- Saturday Night Before Christmas (Spiritland)
-- St. John's Eve (Spiritland)
+  - Walking with the Spirit (Spiritland)
+  - '3: 33 Blues (Louisiana Medicine Man)'
+  - Louisiana Medecine Man (Louisiana Medicine Man)
+  - Spiritland (Spiritland)
+  - Cottonmouth (Louisiana Medicine Man)
+  - Pit Bull (Spiritland)
+  - Broken String (Spiritland)
+  - Working Man (Spiritland)
+  - Saturday Night Before Christmas (Spiritland)
+  - St. John's Eve (Spiritland)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/686375e8-72fe-49f8-91f8-dab9c066b6d5
-  spotify: https://open.spotify.com/artist/3uDXZ54IJR72vYy3XvHGi6
-  wikipedia: https://en.wikipedia.org/wiki/Coco_Robicheaux
+  musicbrainz: 'https://musicbrainz.org/artist/686375e8-72fe-49f8-91f8-dab9c066b6d5'
+  spotify: 'https://open.spotify.com/artist/3uDXZ54IJR72vYy3XvHGi6'
+  wikipedia: 'https://en.wikipedia.org/wiki/Coco_Robicheaux'
 image_path: 03_Resources/source_material/ArtistPortraits/COCO_ROBICHEAUX.jpg
 biography_enhanced_at: '2025-10-22T07:04:36.966496'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://fromthevaults-boppinbob.blogspot.com/2018/10/coco-robicheaux-born-25-october-1947.html
-- https://en.wikipedia.org/wiki/Coco_Robicheaux
-- https://www.churchofneworleans.com/church-of-new-orleans-blog/2020/6/30/celebrating-the-birthday-of-coco-robicheaux-klas2
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2018/10/coco-robicheaux-born-25-october-1947.html
+  - 'https://en.wikipedia.org/wiki/Coco_Robicheaux'
+  - >-
+    https://www.churchofneworleans.com/church-of-new-orleans-blog/2020/6/30/celebrating-the-birthday-of-coco-robicheaux-klas2
 network_extracted: true
 entry_created: '2025-10-22T07:04:36.966511'
 last_updated: '2025-12-23T08:16:01.548696'
 gender: Male
 musicbrainz_id: 686375e8-72fe-49f8-91f8-dab9c066b6d5
+is_active: false
+origin: 'Ascension Parish, Louisiana, United States'
 ---
 
 ![](COCO_ROBICHEAUX.jpg)

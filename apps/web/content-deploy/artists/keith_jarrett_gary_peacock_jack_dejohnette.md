@@ -1,13 +1,14 @@
 ---
-title: Keith Jarrett, Gary Peacock, Jack DeJohnette
+title: 'Keith Jarrett, Gary Peacock, Jack DeJohnette'
 wiki_slug: keith-jarrett-gary-peacock-jack-dejohnette
 schema_version: 2
 status: active
 genres:
-- jazz
+  - jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/keith_jarrett_gary_peacock_jack_dejohnette.jpg
-  caption: Keith Jarrett, Gary Peacock, Jack DeJohnette
+  image: >-
+    03_Resources/source_material/ArtistPortraits/keith_jarrett_gary_peacock_jack_dejohnette.jpg
+  caption: 'Keith Jarrett, Gary Peacock, Jack DeJohnette'
   background: solo_singer
 audio_profile:
   tempo_avg: 119.8
@@ -24,51 +25,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Charles Lloyd
-  - Dewey Redman
-  - Jan Garbarek
+    - Charles Lloyd
+    - Dewey Redman
+    - Jan Garbarek
   influenced:
-  - Brad Mehldau
-  - Vijay Iyer
-  - Ethan Iverson
+    - Brad Mehldau
+    - Vijay Iyer
+    - Ethan Iverson
   mentors:
-  - Art Blakey
-  - Paul Bley
-  - Miles Davis
+    - Art Blakey
+    - Paul Bley
+    - Miles Davis
 spotify_data:
   followers: 61587
   id: 3OJGG2blZ0c3YTOMSKZaHj
   popularity: 36
-  url: https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj
+  url: 'https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj'
 discography_enriched: true
 top_tracks:
-- Never Let Me Go (Tokyo '96)
-- Bye Bye Blackbird (Bye Bye Blackbird)
-- I Thought About You (Bye Bye Blackbird)
-- Smoke Gets In Your Eyes - Live (Tribute)
-- Ballad Of The Sad Young Men - Live (Tribute)
-- You've Changed (The Out-Of-Towners)
-- My Back Pages (Somewhere Before)
-- Pretty Ballad
-- Blame It On My Youth (The Cure)
-- I Love You (The Out-Of-Towners)
+  - Never Let Me Go (Tokyo '96)
+  - Bye Bye Blackbird (Bye Bye Blackbird)
+  - I Thought About You (Bye Bye Blackbird)
+  - Smoke Gets In Your Eyes - Live (Tribute)
+  - Ballad Of The Sad Young Men - Live (Tribute)
+  - You've Changed (The Out-Of-Towners)
+  - My Back Pages (Somewhere Before)
+  - Pretty Ballad
+  - Blame It On My Youth (The Cure)
+  - I Love You (The Out-Of-Towners)
 external_urls:
-  spotify: https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj
-  wikipedia: https://en.wikipedia.org/wiki/Standards,_Vol._1
-image_path: 03_Resources/source_material/ArtistPortraits/keith_jarrett_gary_peacock_jack_dejohnette.jpg
+  spotify: 'https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj'
+  wikipedia: 'https://en.wikipedia.org/wiki/Standards,_Vol._1'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/keith_jarrett_gary_peacock_jack_dejohnette.jpg
 biography_enhanced_at: '2025-11-14T10:57:34.470206'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://calperformances.org/learn/program_notes/2013/pn_jarrett.pdf
-- https://jazztimes.com/features/profiles/keith-jarrett-jack-dejohnette-gary-peacock-standard-bearers/
-- https://www.udiscovermusic.com/stories/keith-jarrett-gary-peacock-jack-dejohnette-standards-feature/
-- https://ecmrecords.com/gary-peacock-1935-2020/
-- https://en.wikipedia.org/wiki/Standards,_Vol._1
+  - 'https://calperformances.org/learn/program_notes/2013/pn_jarrett.pdf'
+  - >-
+    https://jazztimes.com/features/profiles/keith-jarrett-jack-dejohnette-gary-peacock-standard-bearers/
+  - >-
+    https://www.udiscovermusic.com/stories/keith-jarrett-gary-peacock-jack-dejohnette-standards-feature/
+  - 'https://ecmrecords.com/gary-peacock-1935-2020/'
+  - 'https://en.wikipedia.org/wiki/Standards,_Vol._1'
 network_extracted: true
 entry_created: '2025-11-14T10:57:34.470211'
 last_updated: '2025-12-23T08:16:11.241551'
-origin: Allentown, Pennsylvania, USA (Jarrett); Burley, Idaho, USA (Peacock); Chicago, Illinois, USA (DeJohnette)
+origin: >-
+  Allentown, Pennsylvania, USA (Jarrett); Burley, Idaho, USA (Peacock); Chicago,
+  Illinois, USA (DeJohnette)
+birth_place: 'Allentown, Pennsylvania, United States'
+birth_date: '1945'
+death_date: '2020'
+artist_type: band
 ---
 
 ![](keith_jarrett_gary_peacock_jack_dejohnette.jpg)

@@ -1,45 +1,48 @@
 ---
 biography_enhanced_at: '2026-01-06T02:05:29.996051'
-birth_place: Whitehaven, Tennessee, United States
+birth_place: 'Whitehaven, Tennessee, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-06T02:05:29.996058'
 external_urls:
-  spotify: https://open.spotify.com/artist/3dahhupQzKVXptEwFBsodc
-  wikipedia: https://en.wikipedia.org/wiki/Frank_Stokes_(musician)
+  spotify: 'https://open.spotify.com/artist/3dahhupQzKVXptEwFBsodc'
+  wikipedia: 'https://en.wikipedia.org/wiki/Frank_Stokes_(musician)'
 genres:
-- country blues
-- blues
-- classic blues
-- ragtime
+  - country blues
+  - blues
+  - classic blues
+  - ragtime
 image_path: 03_Resources/source_material/ArtistPortraits/frank_stokes.jpg
 last_updated: '2026-01-06T02:05:29.996059'
 musical_connections:
   collaborators:
-  - Dan Sane
-  - Will Batts
-  - Jack Kelly
-  - Bukka White
-  - Furry Lewis
+    - Dan Sane
+    - Will Batts
+    - Jack Kelly
+    - Bukka White
+    - Furry Lewis
   influenced:
-  - Memphis Minnie
+    - Memphis Minnie
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://memphismusichalloffame.com/inductee/frankstokes/
-- https://admiredlife.com/memorials/2177/life-story/
-- https://en.wikipedia.org/wiki/Frank_Stokes_(musician)
-- https://www.mswritersandmusicians.com/mississippi-musicians/frank-stokes
-- https://sandiegotroubadour.com/the-best-damn-blues-singer-in-memphis-2/
-- https://mojohand.com/glossary/frank-stokes/
-- https://blues.org/blues_hof_inductee/frank-stokes/
+  - 'https://memphismusichalloffame.com/inductee/frankstokes/'
+  - 'https://admiredlife.com/memorials/2177/life-story/'
+  - 'https://en.wikipedia.org/wiki/Frank_Stokes_(musician)'
+  - 'https://www.mswritersandmusicians.com/mississippi-musicians/frank-stokes'
+  - 'https://sandiegotroubadour.com/the-best-damn-blues-singer-in-memphis-2/'
+  - 'https://mojohand.com/glossary/frank-stokes/'
+  - 'https://blues.org/blues_hof_inductee/frank-stokes/'
 spotify_data:
   followers: 8654
   id: 3dahhupQzKVXptEwFBsodc
   popularity: 11
-  url: https://open.spotify.com/artist/3dahhupQzKVXptEwFBsodc
+  url: 'https://open.spotify.com/artist/3dahhupQzKVXptEwFBsodc'
 status: active
-title: FRANK STOKES
+title: Frank Stokes
+birth_date: '1888-01-01'
+death_date: '1955-09-12'
+artist_type: person
 ---
 
 ![](frank_stokes.jpg)

@@ -2,11 +2,11 @@
 title: Monty & Marsha Brown
 wiki_slug: monty-marsha-brown
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/monty_and_marsha_brown.jpg
   caption: Monty & Marsha Brown
@@ -32,37 +32,38 @@ spotify_data:
   followers: 34
   id: 3oQdhd3Dcjp3q2KqU5TJud
   popularity: 7
-  url: https://open.spotify.com/artist/3oQdhd3Dcjp3q2KqU5TJud
+  url: 'https://open.spotify.com/artist/3oQdhd3Dcjp3q2KqU5TJud'
 discography_enriched: true
 top_tracks:
-- Cajun Christmas (Merry Cajun Christmas)
-- I Pass by Your Door (Dancing Cajun)
-- Would You Fly? (Dancing Cajun)
-- Cajun Christmas (Dancing Cajun)
-- Rockabilly Joe (Dancing Cajun)
-- Kalinda (Dancing Cajun)
-- Flames of Hell (Dancing Cajun)
-- Joli Blonde (Dancing Cajun)
-- Big Mamou (Dancing Cajun)
-- Dark Lonely Nights (Dancing Cajun)
+  - Cajun Christmas (Merry Cajun Christmas)
+  - I Pass by Your Door (Dancing Cajun)
+  - Would You Fly? (Dancing Cajun)
+  - Cajun Christmas (Dancing Cajun)
+  - Rockabilly Joe (Dancing Cajun)
+  - Kalinda (Dancing Cajun)
+  - Flames of Hell (Dancing Cajun)
+  - Joli Blonde (Dancing Cajun)
+  - Big Mamou (Dancing Cajun)
+  - Dark Lonely Nights (Dancing Cajun)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/813b3aab-b754-4cfc-b1f8-54c810e60632
-  spotify: https://open.spotify.com/artist/3oQdhd3Dcjp3q2KqU5TJud
+  musicbrainz: 'https://musicbrainz.org/artist/813b3aab-b754-4cfc-b1f8-54c810e60632'
+  spotify: 'https://open.spotify.com/artist/3oQdhd3Dcjp3q2KqU5TJud'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/monty_and_marsha_brown.jpg
 biography_enhanced_at: '2025-12-15T01:25:41.403825'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://music.apple.com/us/artist/monty-marsha-brown/609390405[1]
-- https://flattownmusic.com/artist/monty-marsha-brown/[2]
-- https://www.shazam.com/song/609390563/cajun-christmas/music-video[3]
-- http://leadbellyhuddie.blogspot.com/2010/06/hello-louisiana-musical-travel-film.html[4]
+  - 'https://music.apple.com/us/artist/monty-marsha-brown/609390405[1]'
+  - 'https://flattownmusic.com/artist/monty-marsha-brown/[2]'
+  - 'https://www.shazam.com/song/609390563/cajun-christmas/music-video[3]'
+  - >-
+    http://leadbellyhuddie.blogspot.com/2010/06/hello-louisiana-musical-travel-film.html[4]
 network_extracted: true
 entry_created: '2025-12-15T01:25:41.403840'
 last_updated: '2025-12-23T08:16:13.258932'
 musicbrainz_id: 813b3aab-b754-4cfc-b1f8-54c810e60632
-origin: Louisiana, USA (artistic base)
+origin: 'Louisiana, USA (artistic base)'
 ---
 
 ![](monty_and_marsha_brown.jpg)

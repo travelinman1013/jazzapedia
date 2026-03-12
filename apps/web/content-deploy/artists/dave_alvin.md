@@ -5,57 +5,57 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1955-11-11'
-birth_place: Downey
+birth_place: 'Downey, California, United States'
 genres:
-- alt country
-- americana
-- roots rock
+  - alt country
+  - americana
+  - roots rock
 instruments:
-- guitar
-- acoustic guitar
-- steel guitar
-- electric guitar
-- 12 string guitar
-- baritone guitar
-- background vocals
-- lead vocals
-- vocal
+  - guitar
+  - acoustic guitar
+  - steel guitar
+  - electric guitar
+  - 12 string guitar
+  - baritone guitar
+  - background vocals
+  - lead vocals
+  - vocal
 associated_acts:
-- begin: '1979'
-  end: '1986'
-  instruments: []
-  mbid: ce0a5b20-7485-4074-85c8-bdb6a3668d12
-  name: The Blasters
-- begin: '1986'
-  end: '1987'
-  instruments: []
-  mbid: ddd553d4-977e-416c-8f57-e4b72c0fc746
-  name: X
-- begin: '1987'
-  end: ''
-  instruments: []
-  mbid: 7100b936-9bd4-4abe-9877-49109e9bd68f
-  name: All-Nighters
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ef06d4b0-8f38-4059-af25-b772135455cf
-  name: The Knitters
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 01585ac5-601a-4c83-842a-877b92d62a0b
-  name: Dave Alvin and The Guilty Men
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 268e8934-f4e2-4a51-b4ad-d746b76bd1c9
-  name: The Third Mind
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9b71f55b-9e36-4527-ac7f-ab8c676c40f2
-  name: The Flesh Eaters
+  - begin: '1979'
+    end: '1986'
+    instruments: []
+    mbid: ce0a5b20-7485-4074-85c8-bdb6a3668d12
+    name: The Blasters
+  - begin: '1986'
+    end: '1987'
+    instruments: []
+    mbid: ddd553d4-977e-416c-8f57-e4b72c0fc746
+    name: X
+  - begin: '1987'
+    end: ''
+    instruments: []
+    mbid: 7100b936-9bd4-4abe-9877-49109e9bd68f
+    name: All-Nighters
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ef06d4b0-8f38-4059-af25-b772135455cf
+    name: The Knitters
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 01585ac5-601a-4c83-842a-877b92d62a0b
+    name: Dave Alvin and The Guilty Men
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 268e8934-f4e2-4a51-b4ad-d746b76bd1c9
+    name: The Third Mind
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9b71f55b-9e36-4527-ac7f-ab8c676c40f2
+    name: The Flesh Eaters
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/dave_alvin.jpg
   caption: Dave Alvin
@@ -77,56 +77,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Phil Alvin
-  - Jimmie Dale Gilmore
-  - John Doe and Exene Cervenka
-  - X
+    - Phil Alvin
+    - Jimmie Dale Gilmore
+    - John Doe and Exene Cervenka
+    - X
   influenced:
-  - Los Lobos
-  - Dwight Yoakam
+    - Los Lobos
+    - Dwight Yoakam
   mentors:
-  - T-Bone Walker
-  - Big Joe Turner
+    - T-Bone Walker
+    - Big Joe Turner
 spotify_data:
   followers: 40282
   id: 1QSEKTN8PPjVzniAkpJ90p
   popularity: 34
-  url: https://open.spotify.com/artist/1QSEKTN8PPjVzniAkpJ90p
+  url: 'https://open.spotify.com/artist/1QSEKTN8PPjVzniAkpJ90p'
 discography_enriched: true
 top_tracks:
-- Harlan County Line (Eleven Eleven)
-- King Of California (King Of California)
-- 'Highway 61 Revisited (From an Old Guitar: Rare and Unreleased Recordings)'
-- Johnny Ace Is Dead (Eleven Eleven)
-- Downey to Lubbock (Downey to Lubbock)
-- Ashgrove (Ashgrove)
-- Here in California (West of the West)
-- Fourth Of July (King Of California)
-- Harlan County Line
-- Gary, Indiana 1959 (Eleven Eleven)
+  - Harlan County Line (Eleven Eleven)
+  - King Of California (King Of California)
+  - 'Highway 61 Revisited (From an Old Guitar: Rare and Unreleased Recordings)'
+  - Johnny Ace Is Dead (Eleven Eleven)
+  - Downey to Lubbock (Downey to Lubbock)
+  - Ashgrove (Ashgrove)
+  - Here in California (West of the West)
+  - Fourth Of July (King Of California)
+  - Harlan County Line
+  - 'Gary, Indiana 1959 (Eleven Eleven)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/306ebc54-d11c-4bf4-9f37-27adc37d00b4
-  spotify: https://open.spotify.com/artist/1QSEKTN8PPjVzniAkpJ90p
-  wikipedia: https://en.wikipedia.org/wiki/Dave_Alvin
+  musicbrainz: 'https://musicbrainz.org/artist/306ebc54-d11c-4bf4-9f37-27adc37d00b4'
+  spotify: 'https://open.spotify.com/artist/1QSEKTN8PPjVzniAkpJ90p'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dave_Alvin'
 image_path: 03_Resources/source_material/ArtistPortraits/dave_alvin.jpg
 biography_enhanced_at: '2025-10-23T07:34:47.285301'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.davealvin.net/home
-- https://borntolisten.com/2020/11/11/november-11-dave-alvin-was-born-in-1955/
-- https://www.rocky-52.net/chanteurs/alvin_dave.htm
+  - 'https://www.davealvin.net/home'
+  - 'https://borntolisten.com/2020/11/11/november-11-dave-alvin-was-born-in-1955/'
+  - 'https://www.rocky-52.net/chanteurs/alvin_dave.htm'
 network_extracted: true
 entry_created: '2025-10-23T07:34:47.285317'
 last_updated: '2025-12-23T08:16:07.469010'
-disambiguation: singer-songwriter, guitarist
+disambiguation: 'singer-songwriter, guitarist'
 gender: Male
 musicbrainz_id: 306ebc54-d11c-4bf4-9f37-27adc37d00b4
 tags:
-- alvin
-- americana
-- blues
-
+  - alvin
+  - americana
+  - blues
+origin: 'Los Angeles, California, United States'
 ---
 
 ![](dave_alvin.jpg)

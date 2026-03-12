@@ -5,17 +5,17 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1945-08-14'
-birth_place: Rio de Janeiro
+birth_place: 'Rio de Janeiro, Brazil, United States'
 genres:
-- bossa nova
-- brazilian jazz
-- latin house
+  - bossa nova
+  - brazilian jazz
+  - latin house
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 34c50ae1-4556-4b64-b4a2-248247c570f5
-  name: Pérolas Negras
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 34c50ae1-4556-4b64-b4a2-248247c570f5
+    name: Pérolas Negras
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/eliana_pittman.jpg
   caption: Eliana Pittman
@@ -37,46 +37,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Booker Pittman
-  - Sacha Distel
-  - Astor Silva
-  - Renato de Oliveira
-  - Trio 3D
+    - Booker Pittman
+    - Sacha Distel
+    - Astor Silva
+    - Renato de Oliveira
+    - Trio 3D
   influenced: []
   mentors:
-  - Booker Pittman
+    - Booker Pittman
 spotify_data:
   followers: 10904
   id: 0N3LJDrESNQKDwr48hYAjE
   popularity: 28
-  url: https://open.spotify.com/artist/0N3LJDrESNQKDwr48hYAjE
+  url: 'https://open.spotify.com/artist/0N3LJDrESNQKDwr48hYAjE'
 discography_enriched: true
 top_tracks:
-- Vou Pular Nêste Carnaval (Eliana Pittman)
-- Nem Saudade (Eliana Pittman)
-- Quem Vai Querer (Aroop Roy Rework)
-- Loucuras de uma Paixão (Nem Lágrima, Nem Dor)
-- Meu amigo Cartola (feat. Cartola) (Minha Melhor Melodia)
-- Vicioso (Escuro Brilhante, Último Dia no Orfanato Tia Guga)
-- Nós E O Mar (News from Brazil - Bossa Nova!)
-- Minta Meu Sonho (Nem Lágrima, Nem Dor)
-- Sinhá Pureza / Carimbó do Mato (Tô Chegando, Já Cheguei)
-- Bezouro Manganga (Eliana Pittman)
+  - Vou Pular Nêste Carnaval (Eliana Pittman)
+  - Nem Saudade (Eliana Pittman)
+  - Quem Vai Querer (Aroop Roy Rework)
+  - 'Loucuras de uma Paixão (Nem Lágrima, Nem Dor)'
+  - Meu amigo Cartola (feat. Cartola) (Minha Melhor Melodia)
+  - 'Vicioso (Escuro Brilhante, Último Dia no Orfanato Tia Guga)'
+  - Nós E O Mar (News from Brazil - Bossa Nova!)
+  - 'Minta Meu Sonho (Nem Lágrima, Nem Dor)'
+  - 'Sinhá Pureza / Carimbó do Mato (Tô Chegando, Já Cheguei)'
+  - Bezouro Manganga (Eliana Pittman)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2a261097-7b5b-4846-9a84-efec8c7490ab
-  spotify: https://open.spotify.com/artist/0N3LJDrESNQKDwr48hYAjE
-  wikipedia: https://en.wikipedia.org/wiki/Eliana_Pittman
+  musicbrainz: 'https://musicbrainz.org/artist/2a261097-7b5b-4846-9a84-efec8c7490ab'
+  spotify: 'https://open.spotify.com/artist/0N3LJDrESNQKDwr48hYAjE'
+  wikipedia: 'https://en.wikipedia.org/wiki/Eliana_Pittman'
 image_path: 03_Resources/source_material/ArtistPortraits/eliana_pittman.jpg
 biography_enhanced_at: '2025-12-21T01:23:52.623805'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Eliana_Pittman
-- https://snapshot.apple.com/us/person/6621247251
-- https://www.slipcue.com/music/brazil/pittman_eliana_01.html
-- https://www.aaemusic.com/artist/eliana-pittman
-- https://www.imdb.com/name/nm0685931/bio/
-- https://agenciacenarium.com.br/success-in-the-1970s-with-amazonian-carimbo-eliana-pittman-recalls-her-career-with-an-iconic-video/?lang=en
+  - 'https://en.wikipedia.org/wiki/Eliana_Pittman'
+  - 'https://snapshot.apple.com/us/person/6621247251'
+  - 'https://www.slipcue.com/music/brazil/pittman_eliana_01.html'
+  - 'https://www.aaemusic.com/artist/eliana-pittman'
+  - 'https://www.imdb.com/name/nm0685931/bio/'
+  - >-
+    https://agenciacenarium.com.br/success-in-the-1970s-with-amazonian-carimbo-eliana-pittman-recalls-her-career-with-an-iconic-video/?lang=en
 network_extracted: true
 entry_created: '2025-12-21T01:23:52.623809'
 last_updated: '2025-12-23T08:16:08.285681'

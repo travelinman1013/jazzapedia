@@ -3,17 +3,17 @@ title: Diamond Joe
 wiki_slug: diamond-joe
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- afropiano
-- afro adura
-- afrobeats
-- afrobeat
+  - afropiano
+  - afro adura
+  - afrobeats
+  - afrobeat
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/diamond_joe.jpg
   caption: Diamond Joe
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 136.5
   energy_avg: 0.798
@@ -35,32 +35,35 @@ spotify_data:
   followers: 2532
   id: 2Mr8ln1UwCpIFb1KeeS5TE
   popularity: 47
-  url: https://open.spotify.com/artist/2Mr8ln1UwCpIFb1KeeS5TE
+  url: 'https://open.spotify.com/artist/2Mr8ln1UwCpIFb1KeeS5TE'
 discography_enriched: true
 top_tracks:
-- Ali (Ali)
-- Lost (Lost)
-- OLD TAKER (OLD TAKER)
-- Wise (Wise)
-- Wetin Go Be (Wetin Go Be)
-- Chant (Chant)
-- Prayer of Jabeze (Part 2) (Prayer of Jabeze)
-- Prayer (Prayer)
-- Hero (feat. Danni Da Ros) - Diamond Boy Remix Edit (90's Reloaded (Mixed by Samus Jay))
-- Super Bass (Diamond Boy Radio Mix)
+  - Ali (Ali)
+  - Lost (Lost)
+  - OLD TAKER (OLD TAKER)
+  - Wise (Wise)
+  - Wetin Go Be (Wetin Go Be)
+  - Chant (Chant)
+  - Prayer of Jabeze (Part 2) (Prayer of Jabeze)
+  - Prayer (Prayer)
+  - >-
+    Hero (feat. Danni Da Ros) - Diamond Boy Remix Edit (90's Reloaded (Mixed by
+    Samus Jay))
+  - Super Bass (Diamond Boy Radio Mix)
 external_urls:
-  spotify: https://open.spotify.com/artist/2Mr8ln1UwCpIFb1KeeS5TE
+  spotify: 'https://open.spotify.com/artist/2Mr8ln1UwCpIFb1KeeS5TE'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/diamond_joe.jpg
 biography_enhanced_at: '2025-12-06T05:44:45.293904'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://funky16corners.com/?p=850
-- https://recentmusic.com/artist/7FQkKL5GaSvsWAuzMQjUut/
+  - 'https://funky16corners.com/?p=850'
+  - 'https://recentmusic.com/artist/7FQkKL5GaSvsWAuzMQjUut/'
 network_extracted: true
 entry_created: '2025-12-06T05:44:45.293912'
 last_updated: '2025-12-23T08:16:07.737606'
+artist_type: person
 ---
 
 ![](diamond_joe.jpg)

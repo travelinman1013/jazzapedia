@@ -3,43 +3,46 @@ biography_enhanced_at: '2026-01-20T01:17:48.270255'
 enhancement_provider: perplexity
 entry_created: '2026-01-20T01:17:48.270261'
 external_urls:
-  spotify: https://open.spotify.com/artist/1Nj9dLuiwh4DHn8AIkQyqs
+  spotify: 'https://open.spotify.com/artist/1Nj9dLuiwh4DHn8AIkQyqs'
   wikipedia: ''
 genres:
-- retro pop
+  - retro pop
 image_path: 03_Resources/source_material/ArtistPortraits/the_hamiltones.jpg
 last_updated: '2026-01-20T01:17:48.270262'
 musical_connections:
   collaborators:
-  - Anthony Hamilton
-  - PJ Morton
-  - Jonathan McReynolds
-  - Tori Kelly
+    - Anthony Hamilton
+    - PJ Morton
+    - Jonathan McReynolds
+    - Tori Kelly
   influenced: []
   mentors:
-  - Anthony Hamilton
-  - Ry Cooder
-  - Kenny Leonard
-  - Lavan Anderson
+    - Anthony Hamilton
+    - Ry Cooder
+    - Kenny Leonard
+    - Lavan Anderson
 network_extracted: true
-origin: Charlotte, North Carolina, USA
+origin: 'Charlotte, North Carolina, USA'
 primary_source: perplexity
 research_sources:
-- https://dollartone.com/the-hamiltones
-- https://www.twilightentertainments.co.nz/the-hamiltones.html
-- https://archive.musicmaker.org/the-hamiltones-bring-the-love/
-- https://clture.org/the-hamiltones/
-- https://www.ncarts.org/blog/2019/12/06/anthony-hamiltons-background-singers-viral-superstars-meet-hamiltones
-- https://www.allmusic.com/artist/the-hamiltones-mn0003496717
-- https://pyramid-ent.com/artist/the-hamiltones/
-- https://www.wfae.org/podcast/amplifier/2021-03-01/grammy-nominees-the-hamiltones-on-finding-musical-joy-and-creating-soulful-harmony
+  - 'https://dollartone.com/the-hamiltones'
+  - 'https://www.twilightentertainments.co.nz/the-hamiltones.html'
+  - 'https://archive.musicmaker.org/the-hamiltones-bring-the-love/'
+  - 'https://clture.org/the-hamiltones/'
+  - >-
+    https://www.ncarts.org/blog/2019/12/06/anthony-hamiltons-background-singers-viral-superstars-meet-hamiltones
+  - 'https://www.allmusic.com/artist/the-hamiltones-mn0003496717'
+  - 'https://pyramid-ent.com/artist/the-hamiltones/'
+  - >-
+    https://www.wfae.org/podcast/amplifier/2021-03-01/grammy-nominees-the-hamiltones-on-finding-musical-joy-and-creating-soulful-harmony
 spotify_data:
   followers: 14145
   id: 1Nj9dLuiwh4DHn8AIkQyqs
   popularity: 30
-  url: https://open.spotify.com/artist/1Nj9dLuiwh4DHn8AIkQyqs
+  url: 'https://open.spotify.com/artist/1Nj9dLuiwh4DHn8AIkQyqs'
 status: active
 title: The HamilTones
+artist_type: band
 ---
 
 ![](the_hamiltones.jpg)

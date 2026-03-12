@@ -3,33 +3,36 @@ biography_enhanced_at: '2026-01-20T01:24:20.979866'
 enhancement_provider: perplexity
 entry_created: '2026-01-20T01:24:20.979873'
 external_urls:
-  spotify: https://open.spotify.com/artist/0WnaCO8UtlmfO1ry1Rbp79
+  spotify: 'https://open.spotify.com/artist/0WnaCO8UtlmfO1ry1Rbp79'
   wikipedia: ''
 genres: []
 image_path: ''
 last_updated: '2026-01-20T01:24:20.979874'
 musical_connections:
   collaborators:
-  - Blues Rockers
+    - Blues Rockers
   influenced: []
   mentors: []
 network_extracted: true
-origin: Lexington, MS, United States
+origin: 'Lexington, MS, United States'
 primary_source: perplexity
 research_sources:
-- https://www.shazam.com/artist/james-scott-jr/697712007
-- https://sundayblues.org/?tag=junior-parker
-- https://www.youtube.com/watch?v=cY4GiEJW5Tw
-- https://open.spotify.com/track/0L9g6PXiucUqnB0hII37Xe
-- https://www.youtube.com/watch?v=mboC0oy7IMo
-- https://www.allmusic.com/artist/james-scott-jr-mn0000807309
+  - 'https://www.shazam.com/artist/james-scott-jr/697712007'
+  - 'https://sundayblues.org/?tag=junior-parker'
+  - 'https://www.youtube.com/watch?v=cY4GiEJW5Tw'
+  - 'https://open.spotify.com/track/0L9g6PXiucUqnB0hII37Xe'
+  - 'https://www.youtube.com/watch?v=mboC0oy7IMo'
+  - 'https://www.allmusic.com/artist/james-scott-jr-mn0000807309'
 spotify_data:
   followers: 1
   id: 0WnaCO8UtlmfO1ry1Rbp79
   popularity: 0
-  url: https://open.spotify.com/artist/0WnaCO8UtlmfO1ry1Rbp79
+  url: 'https://open.spotify.com/artist/0WnaCO8UtlmfO1ry1Rbp79'
 status: active
-title: LB LAWSON & JAMES SCOTT JR.
+title: LB Lawson & James Scott Jr.
+birth_place: 'Lexington, Mississippi, United States'
+death_date: '1983-00-00'
+artist_type: band
 ---
 
 ![]()

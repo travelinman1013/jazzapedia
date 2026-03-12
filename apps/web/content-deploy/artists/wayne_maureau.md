@@ -3,14 +3,14 @@ title: Wayne Maureau
 wiki_slug: wayne-maureau
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- latin jazz
+  - latin jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/wayne_maureau.jpg
   caption: Wayne Maureau
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 119.8
   energy_avg: 0.566
@@ -26,44 +26,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jon Cristian Duque
-  - Wanda Joseph
+    - Jon Cristian Duque
+    - Wanda Joseph
   influenced:
-  - Emerging New Orleans drummers
+    - Emerging New Orleans drummers
   mentors:
-  - New Orleans musical community
+    - New Orleans musical community
 spotify_data:
   followers: 60
   id: 79aJT3TNEl6MeXUmmyMrqC
   popularity: 0
-  url: https://open.spotify.com/artist/79aJT3TNEl6MeXUmmyMrqC
+  url: 'https://open.spotify.com/artist/79aJT3TNEl6MeXUmmyMrqC'
 discography_enriched: true
 top_tracks:
-- 'Soul Understanding - Live (The Immunofunk Vaccination: Fridays from the Funky Uncle, Vol. 1 (Live))'
-- The Avenue (Home Grown)
-- Tomorrow Never Comes (Home Grown)
-- Drop a Street Beat (Home Grown)
-- Denial (Home Grown)
-- Parading in the Quarter (Home Grown)
-- Wake Up (Home Grown)
-- Island Life (At the Water's Edge)
-- Go with the Flow (At the Water's Edge)
-- A Day in Paraty (At the Water's Edge)
+  - >-
+    Soul Understanding - Live (The Immunofunk Vaccination: Fridays from the
+    Funky Uncle, Vol. 1 (Live))
+  - The Avenue (Home Grown)
+  - Tomorrow Never Comes (Home Grown)
+  - Drop a Street Beat (Home Grown)
+  - Denial (Home Grown)
+  - Parading in the Quarter (Home Grown)
+  - Wake Up (Home Grown)
+  - Island Life (At the Water's Edge)
+  - Go with the Flow (At the Water's Edge)
+  - A Day in Paraty (At the Water's Edge)
 external_urls:
-  spotify: https://open.spotify.com/artist/79aJT3TNEl6MeXUmmyMrqC
+  spotify: 'https://open.spotify.com/artist/79aJT3TNEl6MeXUmmyMrqC'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/wayne_maureau.jpg
 biography_enhanced_at: '2025-10-25T10:01:36.152924'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.allaboutjazz.com/musicians/wayne-maureau/
-- https://www.waynegrooves.com/biography/
-- https://soulprojectnola.com/bio
-- https://www.offbeat.com/music/wayne-maureau-at-the-waters-edge-independent/
+  - 'https://www.allaboutjazz.com/musicians/wayne-maureau/'
+  - 'https://www.waynegrooves.com/biography/'
+  - 'https://soulprojectnola.com/bio'
+  - 'https://www.offbeat.com/music/wayne-maureau-at-the-waters-edge-independent/'
 network_extracted: true
 entry_created: '2025-10-25T10:01:36.152936'
 last_updated: '2025-12-23T08:16:18.040197'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](wayne_maureau.jpg)

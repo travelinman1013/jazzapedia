@@ -3,13 +3,13 @@ title: DJ Slowz
 wiki_slug: dj-slowz
 schema_version: 2
 status: active
-birth_place: Hanoi, Vietnam
+birth_place: 'Hanoi, Vietnam'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/dj_slowz.jpg
   caption: DJ Slowz
   background: solo_singer
-  origin: Hanoi, Vietnam
+  origin: 'Hanoi, Vietnam'
 audio_profile:
   tempo_avg: 118.7
   energy_avg: 0.676
@@ -25,41 +25,44 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Various Vietnamese Electronic Artists
+    - Various Vietnamese Electronic Artists
   influenced:
-  - Emerging Vietnamese DJs and B-boys
+    - Emerging Vietnamese DJs and B-boys
   mentors:
-  - Local Hanoi Hip Hop Community
+    - Local Hanoi Hip Hop Community
 spotify_data:
   followers: 1825
   id: 5tJXocazGVCO56ZOkG5aVN
   popularity: 22
-  url: https://open.spotify.com/artist/5tJXocazGVCO56ZOkG5aVN
+  url: 'https://open.spotify.com/artist/5tJXocazGVCO56ZOkG5aVN'
 discography_enriched: true
 top_tracks:
-- 60 Năm - Radio Dub (60 Năm)
-- Di Sản (Di Sản)
-- 60 Năm - Full Dub (60 Năm)
-- Đám Cưới Nhà Em - DJ Slowz Remix (Đám Cưới Nhà Em)
-- Đám Cưới Nhà Em - DJ Slowz Remix Instrumental (Đám Cưới Nhà Em)
-- 60 Năm - Version (60 Năm)
-- Temujin's Blue Note - DJ Slowz Flooding Basement Remix (Temujin's Blue Note)
-- Lament (Still Natured)
-- Đám Cưới Nhà Em - DJ Slowz Remix (Đám Cưới Nhà Em (DJ Slowz Remix))
-- Đám Cưới Nhà Em - DJ Slowz Remix Instrumental (Đám Cưới Nhà Em (DJ Slowz Remix))
+  - 60 Năm - Radio Dub (60 Năm)
+  - Di Sản (Di Sản)
+  - 60 Năm - Full Dub (60 Năm)
+  - Đám Cưới Nhà Em - DJ Slowz Remix (Đám Cưới Nhà Em)
+  - Đám Cưới Nhà Em - DJ Slowz Remix Instrumental (Đám Cưới Nhà Em)
+  - 60 Năm - Version (60 Năm)
+  - Temujin's Blue Note - DJ Slowz Flooding Basement Remix (Temujin's Blue Note)
+  - Lament (Still Natured)
+  - Đám Cưới Nhà Em - DJ Slowz Remix (Đám Cưới Nhà Em (DJ Slowz Remix))
+  - >-
+    Đám Cưới Nhà Em - DJ Slowz Remix Instrumental (Đám Cưới Nhà Em (DJ Slowz
+    Remix))
 external_urls:
-  spotify: https://open.spotify.com/artist/5tJXocazGVCO56ZOkG5aVN
+  spotify: 'https://open.spotify.com/artist/5tJXocazGVCO56ZOkG5aVN'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/dj_slowz.jpg
 biography_enhanced_at: '2025-11-12T14:42:21.845423'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://sesh.sx/artists/slowz
-- https://www.youtube.com/channel/UCVZbtPLw2M8DffHGT8T_uIQ
+  - 'https://sesh.sx/artists/slowz'
+  - 'https://www.youtube.com/channel/UCVZbtPLw2M8DffHGT8T_uIQ'
 network_extracted: true
 entry_created: '2025-11-12T14:42:21.845440'
 last_updated: '2025-12-23T08:16:07.820917'
+artist_type: person
 ---
 
 ![](dj_slowz.jpg)

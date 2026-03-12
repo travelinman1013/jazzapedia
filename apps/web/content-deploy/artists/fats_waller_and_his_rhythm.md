@@ -1,16 +1,16 @@
 ---
-title: FATS WALLER AND HIS RHYTHM
+title: Fats Waller and His Rhythm
 wiki_slug: fats-waller-and-his-rhythm
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 genres:
-- swing music
-- ragtime
-- big band
-- jazz
+  - swing music
+  - ragtime
+  - big band
+  - jazz
 instruments:
-- eponymous
+  - eponymous
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/fats_waller_and_his_rhythm.jpg
   caption: FATS WALLER AND HIS RHYTHM
@@ -30,90 +30,96 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Andy Razaf
-  - Fats Waller and His Rhythm
+    - Andy Razaf
+    - Fats Waller and His Rhythm
   influenced:
-  - Art Tatum
-  - Count Basie
-  - Oscar Peterson
+    - Art Tatum
+    - Count Basie
+    - Oscar Peterson
   mentors:
-  - James P. Johnson
-  - Leopold Godowsky
+    - James P. Johnson
+    - Leopold Godowsky
 spotify_data:
   followers: 139026
   id: 0DYWCXTkNqGFZIf67SrWEa
   popularity: 41
-  url: https://open.spotify.com/artist/0DYWCXTkNqGFZIf67SrWEa
+  url: 'https://open.spotify.com/artist/0DYWCXTkNqGFZIf67SrWEa'
 discography_enriched: true
 top_tracks:
-- Ain't Misbehavin' (If You Got To Ask, You Ain't Got It!)
-- Two Sleepy People (If You Got To Ask, You Ain't Got It!)
-- Until the Real Thing Comes Along (The Essential Fats Waller)
-- Honeysuckle Rose (Taking A Chance On Love)
-- Ain't Misbehavin' (At The Piano (Bluebird's Best Series))
-- Ain't Misbehavin'
-- Honeysuckle Rose (If You Got To Ask, You Ain't Got It!)
-- When Somebody Thinks You're Wonderful - Remastered (The Essential Fats Waller)
-- Ain't Missbehavin' (Fats Waller & Bessie Smith)
-- I Can't Give You Anything but Love (If You Got To Ask, You Ain't Got It!)
+  - 'Ain''t Misbehavin'' (If You Got To Ask, You Ain''t Got It!)'
+  - 'Two Sleepy People (If You Got To Ask, You Ain''t Got It!)'
+  - Until the Real Thing Comes Along (The Essential Fats Waller)
+  - Honeysuckle Rose (Taking A Chance On Love)
+  - Ain't Misbehavin' (At The Piano (Bluebird's Best Series))
+  - Ain't Misbehavin'
+  - 'Honeysuckle Rose (If You Got To Ask, You Ain''t Got It!)'
+  - >-
+    When Somebody Thinks You're Wonderful - Remastered (The Essential Fats
+    Waller)
+  - Ain't Missbehavin' (Fats Waller & Bessie Smith)
+  - 'I Can''t Give You Anything but Love (If You Got To Ask, You Ain''t Got It!)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/dee95bdd-55a3-48af-8735-1c61baee5089
-  spotify: https://open.spotify.com/artist/0DYWCXTkNqGFZIf67SrWEa
-  wikipedia: https://en.wikipedia.org/wiki/Fats_Waller
+  musicbrainz: 'https://musicbrainz.org/artist/dee95bdd-55a3-48af-8735-1c61baee5089'
+  spotify: 'https://open.spotify.com/artist/0DYWCXTkNqGFZIf67SrWEa'
+  wikipedia: 'https://en.wikipedia.org/wiki/Fats_Waller'
 image_path: 03_Resources/source_material/ArtistPortraits/fats_waller_and_his_rhythm.jpg
 biography_enhanced_at: '2025-11-06T11:41:54.670061'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Fats_Waller
-- https://www.biography.com/musicians/fats-waller
-- https://pianowithjonny.com/piano-lessons/fats-waller-and-his-contributions-to-stride-piano/
-- https://courses.dcs.wisc.edu/wp/musicalperformers/thomas-fats-waller/
-- https://www.pcs.org/features/fats-waller-giant-of-jazz
+  - 'https://en.wikipedia.org/wiki/Fats_Waller'
+  - 'https://www.biography.com/musicians/fats-waller'
+  - >-
+    https://pianowithjonny.com/piano-lessons/fats-waller-and-his-contributions-to-stride-piano/
+  - 'https://courses.dcs.wisc.edu/wp/musicalperformers/thomas-fats-waller/'
+  - 'https://www.pcs.org/features/fats-waller-giant-of-jazz'
 network_extracted: true
 entry_created: '2025-11-06T11:41:54.670065'
 last_updated: '2025-12-23T08:16:08.596770'
 members:
-- begin: '1935'
-  end: '1936'
-  instruments: []
-  mbid: 617062cc-4fa2-4eb4-a9c6-e6d044c5033b
-  name: James Smith
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ff2a798f-fac7-4eb2-8b2c-a157289ea615
-  name: Al Casey
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e8d148d7-7e8e-456d-9781-bac5e3535f8d
-  name: Harry Dial
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4b948f21-42d2-4ad0-8143-9b709e1e8b23
-  name: John Hamilton
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 33c62bc0-6b34-42f5-a6d2-eb7abff73f6a
-  name: Charles Turner
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 82bc3fdb-79ff-4c22-b55d-0902d962b5ca
-  name: Cedric Wallace
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 569fc5bf-bcb6-4bc5-9a00-bd0d258e34f1
-  name: Fats Waller
+  - begin: '1935'
+    end: '1936'
+    instruments: []
+    mbid: 617062cc-4fa2-4eb4-a9c6-e6d044c5033b
+    name: James Smith
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ff2a798f-fac7-4eb2-8b2c-a157289ea615
+    name: Al Casey
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e8d148d7-7e8e-456d-9781-bac5e3535f8d
+    name: Harry Dial
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4b948f21-42d2-4ad0-8143-9b709e1e8b23
+    name: John Hamilton
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 33c62bc0-6b34-42f5-a6d2-eb7abff73f6a
+    name: Charles Turner
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 82bc3fdb-79ff-4c22-b55d-0902d962b5ca
+    name: Cedric Wallace
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 569fc5bf-bcb6-4bc5-9a00-bd0d258e34f1
+    name: Fats Waller
 musicbrainz_id: dee95bdd-55a3-48af-8735-1c61baee5089
-origin: New York City, New York, United States
+origin: 'New York City, New York, United States'
 tags:
-- jazz
+  - jazz
+birth_place: 'New York City, New York, United States'
+birth_date: '1904-05-21'
+death_date: '1943-12-15'
 ---
 
 ![](fats_waller_and_his_rhythm.jpg)

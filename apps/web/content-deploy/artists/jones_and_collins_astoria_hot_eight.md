@@ -3,45 +3,48 @@ biography_enhanced_at: '2026-01-08T01:35:15.414186'
 enhancement_provider: perplexity
 entry_created: '2026-01-08T01:35:15.414192'
 external_urls:
-  spotify: https://open.spotify.com/artist/7CFVbSBpnAzNu19Qjzc2io
-  wikipedia: https://en.wikipedia.org/wiki/Jones_and_Collins_Astoria_Hot_Eight
+  spotify: 'https://open.spotify.com/artist/7CFVbSBpnAzNu19Qjzc2io'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jones_and_Collins_Astoria_Hot_Eight'
 genres: []
 image_path: ''
 last_updated: '2026-01-08T01:35:15.414193'
 musical_connections:
   collaborators:
-  - Lee Collins
-  - David Jones
-  - Sidney Arodin
-  - Big Eye Louis Nelson
-  - Nat Story
-  - Theodore Purnell
-  - Joseph Robichaux
-  - Emanuel Sayles
-  - Al Morgan
-  - Joe Strode (Joe Stouger)
+    - Lee Collins
+    - David Jones
+    - Sidney Arodin
+    - Big Eye Louis Nelson
+    - Nat Story
+    - Theodore Purnell
+    - Joseph Robichaux
+    - Emanuel Sayles
+    - Al Morgan
+    - Joe Strode (Joe Stouger)
   influenced:
-  - Later New Orleans jazz revivalists and historians
+    - Later New Orleans jazz revivalists and historians
   mentors:
-  - Earlier New Orleans brass band and dance‑hall traditions
+    - Earlier New Orleans brass band and dance‑hall traditions
 network_extracted: true
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jones_and_Collins_Astoria_Hot_Eight
-- https://www.allmusic.com/artist/jones-collins-astoria-hot-eight-mn0000222721
-- https://music.apple.com/ca/artist/jones-and-collins-astoria-hot-eight/281453218
-- https://www.iheart.com/artist/jones-collins-astoria-hot-eight-154059/
-- https://adp.library.ucsb.edu/names/116233
-- https://syncopatedtimes.com/jones-and-collins-astoria-hot-eight/
-- https://the78rpmrecordspins.wordpress.com/tag/jones-collins-astoria-hot-eight/
+  - 'https://en.wikipedia.org/wiki/Jones_and_Collins_Astoria_Hot_Eight'
+  - 'https://www.allmusic.com/artist/jones-collins-astoria-hot-eight-mn0000222721'
+  - >-
+    https://music.apple.com/ca/artist/jones-and-collins-astoria-hot-eight/281453218
+  - 'https://www.iheart.com/artist/jones-collins-astoria-hot-eight-154059/'
+  - 'https://adp.library.ucsb.edu/names/116233'
+  - 'https://syncopatedtimes.com/jones-and-collins-astoria-hot-eight/'
+  - >-
+    https://the78rpmrecordspins.wordpress.com/tag/jones-collins-astoria-hot-eight/
 spotify_data:
   followers: 4
   id: 7CFVbSBpnAzNu19Qjzc2io
   popularity: 0
-  url: https://open.spotify.com/artist/7CFVbSBpnAzNu19Qjzc2io
+  url: 'https://open.spotify.com/artist/7CFVbSBpnAzNu19Qjzc2io'
 status: active
-title: JONES AND COLLINS ASTORIA HOT EIGHT
+title: Jones and Collins Astoria Hot Eight
+artist_type: band
 ---
 
 ![]()

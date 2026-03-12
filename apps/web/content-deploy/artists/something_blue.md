@@ -25,38 +25,39 @@ musical_connections:
   collaborators: []
   influenced: []
   mentors:
-  - Hard Bop and Post-Bop Jazz Traditions
+    - Hard Bop and Post-Bop Jazz Traditions
 spotify_data:
   followers: 23
   id: 1kMTxzxsTsy4YPjyEzsfbG
   popularity: 0
-  url: https://open.spotify.com/artist/1kMTxzxsTsy4YPjyEzsfbG
+  url: 'https://open.spotify.com/artist/1kMTxzxsTsy4YPjyEzsfbG'
 discography_enriched: true
 top_tracks:
-- Pieke met kerst (Dao kriege v`r zeik mit)
-- Vleddig Kerstfees (Vleddig Kerstfees)
-- Big Night Out (As Easy as Riding a Bike)
-- Be a Friend (As Easy as Riding a Bike)
-- As Easy as Riding a Bike (As Easy as Riding a Bike)
-- Queens (As Easy as Riding a Bike)
-- A Sunny Day (As Easy as Riding a Bike)
-- Science Theater (As Easy as Riding a Bike)
-- Stalker (As Easy as Riding a Bike)
-- At the Seashore (As Easy as Riding a Bike)
+  - Pieke met kerst (Dao kriege v`r zeik mit)
+  - Vleddig Kerstfees (Vleddig Kerstfees)
+  - Big Night Out (As Easy as Riding a Bike)
+  - Be a Friend (As Easy as Riding a Bike)
+  - As Easy as Riding a Bike (As Easy as Riding a Bike)
+  - Queens (As Easy as Riding a Bike)
+  - A Sunny Day (As Easy as Riding a Bike)
+  - Science Theater (As Easy as Riding a Bike)
+  - Stalker (As Easy as Riding a Bike)
+  - At the Seashore (As Easy as Riding a Bike)
 external_urls:
-  spotify: https://open.spotify.com/artist/1kMTxzxsTsy4YPjyEzsfbG
+  spotify: 'https://open.spotify.com/artist/1kMTxzxsTsy4YPjyEzsfbG'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/something_blue.jpg
 biography_enhanced_at: '2025-10-25T09:49:10.201810'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.jazzmusicarchives.com/artist/something-blue
-- https://www.allmusic.com/artist/something-blue-mn0003799621
+  - 'https://www.jazzmusicarchives.com/artist/something-blue'
+  - 'https://www.allmusic.com/artist/something-blue-mn0003799621'
 network_extracted: true
 entry_created: '2025-10-25T09:49:10.201824'
 last_updated: '2025-12-23T08:16:15.852367'
 origin: United States (specific city or state not documented)
+artist_type: band
 ---
 
 ![](something_blue.jpg)

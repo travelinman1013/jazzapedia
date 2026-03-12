@@ -1,18 +1,18 @@
 ---
-title: esther phillips
+title: Esther Phillips
 wiki_slug: esther-phillips
 schema_version: 2
 status: active
-birth_place: Galveston, Texas, United States
+birth_place: 'Galveston, Texas, United States'
 genres:
-- northern soul
-- jazz blues
-- soul
+  - northern soul
+  - jazz blues
+  - soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/esther_phillips.jpg
   caption: esther phillips
   background: solo_singer
-  origin: Galveston, Texas, United States
+  origin: 'Galveston, Texas, United States'
 audio_profile:
   tempo_avg: 114.6
   energy_avg: 0.415
@@ -28,48 +28,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Johnny Otis Orchestra
-  - The Robins
-  - Creed Taylor
+    - Johnny Otis Orchestra
+    - The Robins
+    - Creed Taylor
   influenced:
-  - Aretha Franklin
-  - Etta James
+    - Aretha Franklin
+    - Etta James
   mentors:
-  - Johnny Otis
-  - Dinah Washington
+    - Johnny Otis
+    - Dinah Washington
 spotify_data:
   followers: 67287
   id: 0WZ7IgzdjPvwFdjDjjuZm7
   popularity: 37
-  url: https://open.spotify.com/artist/0WZ7IgzdjPvwFdjDjjuZm7
+  url: 'https://open.spotify.com/artist/0WZ7IgzdjPvwFdjDjjuZm7'
 discography_enriched: true
 top_tracks:
-- No Headstone on My Grave (The Country Side Of Esther)
-- And I Love Him (And I Love Him)
-- Try Me (And I Love Him)
-- Use Me (Alone Again, Naturally (Expanded Edition))
-- Home Is Where the Hatred Is (Jazz Moods - Hot)
-- 'Try Me (Brand New Day: The Lenox / Alantic & Roulette Recordings (1962-1970))'
-- Alone Again (Naturally) (Alone Again, Naturally (Expanded Edition))
-- Just Say Goodbye (Esther Phillips Sings)
-- What a Diff'rence a Day Makes (Jazz Moods - Hot)
-- Release Me (The Country Side Of Esther)
+  - No Headstone on My Grave (The Country Side Of Esther)
+  - And I Love Him (And I Love Him)
+  - Try Me (And I Love Him)
+  - 'Use Me (Alone Again, Naturally (Expanded Edition))'
+  - Home Is Where the Hatred Is (Jazz Moods - Hot)
+  - >-
+    Try Me (Brand New Day: The Lenox / Alantic & Roulette Recordings
+    (1962-1970))
+  - 'Alone Again (Naturally) (Alone Again, Naturally (Expanded Edition))'
+  - Just Say Goodbye (Esther Phillips Sings)
+  - What a Diff'rence a Day Makes (Jazz Moods - Hot)
+  - Release Me (The Country Side Of Esther)
 external_urls:
-  spotify: https://open.spotify.com/artist/0WZ7IgzdjPvwFdjDjjuZm7
-  wikipedia: https://en.wikipedia.org/wiki/Esther_Phillips
+  spotify: 'https://open.spotify.com/artist/0WZ7IgzdjPvwFdjDjjuZm7'
+  wikipedia: 'https://en.wikipedia.org/wiki/Esther_Phillips'
 image_path: 03_Resources/source_material/ArtistPortraits/esther_phillips.jpg
 biography_enhanced_at: '2025-10-22T09:32:16.817971'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://wbssmedia.com/artists/detail/3219
-- https://blues.org/blues_hof_inductee/esther-phillips/
-- https://bluesforabigtown.wordpress.com/2021/06/13/esther-phillips-from-little-esther-to-esther-phillips/
-- https://aaregistry.org/story/esther-phillips-a-unique-soulful-singer/
-- https://www.allmusic.com/artist/mn0000271029
+  - 'https://wbssmedia.com/artists/detail/3219'
+  - 'https://blues.org/blues_hof_inductee/esther-phillips/'
+  - >-
+    https://bluesforabigtown.wordpress.com/2021/06/13/esther-phillips-from-little-esther-to-esther-phillips/
+  - 'https://aaregistry.org/story/esther-phillips-a-unique-soulful-singer/'
+  - 'https://www.allmusic.com/artist/mn0000271029'
 network_extracted: true
 entry_created: '2025-10-22T09:32:16.817985'
 last_updated: '2025-12-23T08:16:08.485821'
+artist_type: person
 ---
 
 ![](esther_phillips.jpg)

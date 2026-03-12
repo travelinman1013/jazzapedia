@@ -3,14 +3,14 @@ title: Aurelio
 wiki_slug: aurelio
 schema_version: 2
 status: active
-birth_place: Plaplaya, Honduras
+birth_place: 'Plaplaya, Honduras, United States'
 genres:
-- punta
+  - punta
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/aurelio.jpg
   caption: Aurelio
   background: solo_singer
-  origin: Plaplaya, Honduras
+  origin: 'Plaplaya, Honduras'
 audio_profile:
   tempo_avg: 123.3
   energy_avg: 0.606
@@ -18,7 +18,7 @@ audio_profile:
   danceability_avg: 0.638
   acousticness_avg: 0.647
   instrumentalness_avg: 0.068
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.108
   liveness_avg: 0.148
   track_count: 50
@@ -26,49 +26,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ivan Duran
-  - Andy Palacio
-  - The Garifuna Collective
-  - Paul Nabor (Nabi)
-  - Akira Tomita
+    - Ivan Duran
+    - Andy Palacio
+    - The Garifuna Collective
+    - Paul Nabor (Nabi)
+    - Akira Tomita
   influenced: []
   mentors:
-  - His Father
-  - His Mother
-  - Youssou N'Dour
+    - His Father
+    - His Mother
+    - Youssou N'Dour
 spotify_data:
   followers: 8089
   id: 1N1LP4R1T5AIr33dtUB00h
   popularity: 19
-  url: https://open.spotify.com/artist/1N1LP4R1T5AIr33dtUB00h
+  url: 'https://open.spotify.com/artist/1N1LP4R1T5AIr33dtUB00h'
 discography_enriched: true
 top_tracks:
-- Nando (Lándini)
-- Nafagua (Lándini)
-- Lándini (Lándini)
-- Dondo (Darandi)
-- Yalifu (Garifuna Soul)
-- Lubara Wanwa (Laru Beya)
-- Santo Negro (Garifuna Soul)
-- Lubara Wanwa (Laru Beya)
-- Sañanaru (Lándini)
-- Yalifu (Darandi)
+  - Nando (Lándini)
+  - Nafagua (Lándini)
+  - Lándini (Lándini)
+  - Dondo (Darandi)
+  - Yalifu (Garifuna Soul)
+  - Lubara Wanwa (Laru Beya)
+  - Santo Negro (Garifuna Soul)
+  - Lubara Wanwa (Laru Beya)
+  - Sañanaru (Lándini)
+  - Yalifu (Darandi)
 external_urls:
-  spotify: https://open.spotify.com/artist/1N1LP4R1T5AIr33dtUB00h
-  wikipedia: https://en.wikipedia.org/wiki/Aurelio_Mart%C3%ADnez
+  spotify: 'https://open.spotify.com/artist/1N1LP4R1T5AIr33dtUB00h'
+  wikipedia: 'https://en.wikipedia.org/wiki/Aurelio_Mart%C3%ADnez'
 image_path: 03_Resources/source_material/ArtistPortraits/aurelio.jpg
 biography_enhanced_at: '2025-11-28T07:39:37.637476'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Aurelio_Mart%C3%ADnez
-- https://realworldrecords.com/features/long-reads/aurelio-darandi-feature/
-- https://www.aureliomusic.net/bio
-- https://www.greaterbelize.com/remembering-aurelio-martinez-a-true-parandero/
-- https://remezcla.com/music/garifuna-ambassador-music-legend-aurelio-martinez-dies-at-age-55/
+  - 'https://en.wikipedia.org/wiki/Aurelio_Mart%C3%ADnez'
+  - 'https://realworldrecords.com/features/long-reads/aurelio-darandi-feature/'
+  - 'https://www.aureliomusic.net/bio'
+  - 'https://www.greaterbelize.com/remembering-aurelio-martinez-a-true-parandero/'
+  - >-
+    https://remezcla.com/music/garifuna-ambassador-music-legend-aurelio-martinez-dies-at-age-55/
 network_extracted: true
 entry_created: '2025-11-28T07:39:37.637494'
 last_updated: '2025-12-23T08:16:05.003807'
+birth_date: '1969-09-26'
+death_date: '2025-03-17'
+artist_type: person
 ---
 
 ![](aurelio.jpg)

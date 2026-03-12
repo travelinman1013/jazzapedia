@@ -2,17 +2,17 @@
 title: Liz Phair
 wiki_slug: liz-phair
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1967-04-17'
-birth_place: New Haven, Connecticut, United States
+birth_place: 'New Haven, Connecticut, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Liz_Phair.jpg
   caption: Liz Phair
   background: solo_singer
   born: '1967-04-17'
-  origin: New Haven, Connecticut, United States
+  origin: 'New Haven, Connecticut, United States'
 audio_profile:
   tempo_avg: 115.8
   energy_avg: 0.612
@@ -20,7 +20,7 @@ audio_profile:
   danceability_avg: 0.532
   acousticness_avg: 0.306
   instrumentalness_avg: 0.146
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.035
   liveness_avg: 0.184
   track_count: 50
@@ -28,46 +28,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Brad Wood
-  - Chris Brokaw
-  - Doc Dauer & Evan Frankfort
+    - Brad Wood
+    - Chris Brokaw
+    - Doc Dauer & Evan Frankfort
   influenced:
-  - Courtney Barnett
-  - Soccer Mommy
-  - Snail Mail
+    - Courtney Barnett
+    - Soccer Mommy
+    - Snail Mail
   mentors:
-  - The Rolling Stones
+    - The Rolling Stones
 spotify_data:
   followers: 200158
   id: 2LXeJdQVcFkhkWydphLI74
   popularity: 44
-  url: https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74
+  url: 'https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74'
 discography_enriched: true
 top_tracks:
-- Why Can't I? (Liz Phair)
-- Supernova (Whip-Smart)
-- Fuck and Run - 2018 Remaster (Exile In Guyville (2018 Remaster))
-- Never Said - 2018 Remaster (Exile In Guyville (2018 Remaster))
-- Extraordinary (Liz Phair)
-- Polyester Bride (Whitechocolatespaceegg)
-- 6'1" - 2018 Remaster (Exile In Guyville (2018 Remaster))
-- Glory - 2018 Remaster (Exile In Guyville (2018 Remaster))
-- Divorce Song - 2018 Remaster (Exile In Guyville (2018 Remaster))
-- Go West (Whip-Smart)
+  - Why Can't I? (Liz Phair)
+  - Supernova (Whip-Smart)
+  - Fuck and Run - 2018 Remaster (Exile In Guyville (2018 Remaster))
+  - Never Said - 2018 Remaster (Exile In Guyville (2018 Remaster))
+  - Extraordinary (Liz Phair)
+  - Polyester Bride (Whitechocolatespaceegg)
+  - 6'1" - 2018 Remaster (Exile In Guyville (2018 Remaster))
+  - Glory - 2018 Remaster (Exile In Guyville (2018 Remaster))
+  - Divorce Song - 2018 Remaster (Exile In Guyville (2018 Remaster))
+  - Go West (Whip-Smart)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/149326c2-b8a3-48e3-b3d2-9b5b9593127f
-  spotify: https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74
-  wikipedia: https://en.wikipedia.org/wiki/Liz_Phair
+  musicbrainz: 'https://musicbrainz.org/artist/149326c2-b8a3-48e3-b3d2-9b5b9593127f'
+  spotify: 'https://open.spotify.com/artist/2LXeJdQVcFkhkWydphLI74'
+  wikipedia: 'https://en.wikipedia.org/wiki/Liz_Phair'
 image_path: 03_Resources/source_material/ArtistPortraits/Liz_Phair.jpg
 biography_enhanced_at: '2025-10-20T01:58:03.071608'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Liz_Phair
-- https://www.britannica.com/biography/Liz-Phair
-- https://www.last.fm/music/Liz+Phair/+wiki
-- https://themoth.org/storytellers/liz-phair
-- https://calendar.songfacts.com/april/17/9777
+  - 'https://en.wikipedia.org/wiki/Liz_Phair'
+  - 'https://www.britannica.com/biography/Liz-Phair'
+  - 'https://www.last.fm/music/Liz+Phair/+wiki'
+  - 'https://themoth.org/storytellers/liz-phair'
+  - 'https://calendar.songfacts.com/april/17/9777'
 network_extracted: true
 entry_created: '2025-10-20T01:58:03.071627'
 last_updated: '2025-12-23T08:16:03.055830'
@@ -75,9 +75,10 @@ gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:35:45.492804'
 musicbrainz_id: 149326c2-b8a3-48e3-b3d2-9b5b9593127f
 tags:
-- alternative
-- alternative rock
-- indie rock
+  - alternative
+  - alternative rock
+  - indie rock
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](Liz_Phair.jpg)

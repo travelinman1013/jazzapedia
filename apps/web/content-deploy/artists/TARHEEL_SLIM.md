@@ -5,13 +5,13 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1923-09-24'
-birth_place: Nash County
+birth_place: 'Bailey, North Carolina, United States'
 death_date: '1977-08-21'
 genres:
-- classic blues
-- rockabilly
+  - classic blues
+  - rockabilly
 instruments:
-- guitar
+  - guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/tarheel_slim.jpg
   caption: Tarheel Slim
@@ -34,58 +34,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Larks
-  - Anna Lee Sandford (Little Ann)
-  - Sonny Terry
-  - Big Chief Ellis
-  - John Cephas
+    - The Larks
+    - Anna Lee Sandford (Little Ann)
+    - Sonny Terry
+    - Big Chief Ellis
+    - John Cephas
   influenced: []
   mentors:
-  - Thermon Ruth
-  - Blind Boy Fuller
-  - Brownie McGhee
-  - Bobby Robinson
+    - Thermon Ruth
+    - Blind Boy Fuller
+    - Brownie McGhee
+    - Bobby Robinson
 spotify_data:
   followers: 899
   id: 22QO070GdZ09S1OUp8xZSi
   popularity: 7
-  url: https://open.spotify.com/artist/22QO070GdZ09S1OUp8xZSi
+  url: 'https://open.spotify.com/artist/22QO070GdZ09S1OUp8xZSi'
 discography_enriched: true
 top_tracks:
-- Can't Stay Away From You (Can't Stay Away From You)
-- Number 9 Train (Tarheel's Essentials)
-- Wildcat Tamer (Wildcat Tamer / Number 9 Train)
-- Number Nine Train (An Introduction To New York Blues)
-- Wildcat Tamer (Tarheel's Essentials)
-- Let's Have a Ball (Tarheel's Essentials)
-- Security (Tarheel's Essentials)
-- Number 9 Train (Can't Stay Away From You)
-- Tell Me (Tarheel's Essentials)
-- No 9 Train (Rare, Raw, Rock & Roll, Vol. 3)
+  - Can't Stay Away From You (Can't Stay Away From You)
+  - Number 9 Train (Tarheel's Essentials)
+  - Wildcat Tamer (Wildcat Tamer / Number 9 Train)
+  - Number Nine Train (An Introduction To New York Blues)
+  - Wildcat Tamer (Tarheel's Essentials)
+  - Let's Have a Ball (Tarheel's Essentials)
+  - Security (Tarheel's Essentials)
+  - Number 9 Train (Can't Stay Away From You)
+  - Tell Me (Tarheel's Essentials)
+  - 'No 9 Train (Rare, Raw, Rock & Roll, Vol. 3)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d12c3212-afe9-4407-bf88-921499fc3bf6
-  spotify: https://open.spotify.com/artist/22QO070GdZ09S1OUp8xZSi
-  wikipedia: https://en.wikipedia.org/wiki/Tarheel_Slim
+  musicbrainz: 'https://musicbrainz.org/artist/d12c3212-afe9-4407-bf88-921499fc3bf6'
+  spotify: 'https://open.spotify.com/artist/22QO070GdZ09S1OUp8xZSi'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tarheel_Slim'
 image_path: 03_Resources/source_material/ArtistPortraits/tarheel_slim.jpg
 biography_enhanced_at: '2025-11-15T18:39:00.107501'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Tarheel Slim
-- Seven45rpm.com - Tarheel Slim discography
-- Blue Eye Juke - Tarheel Slim Complete Recordings
-- 'The Current - Classic Americana: Tarheel Slim'
-- The Hound NYC - Tarheel Slim biography
-- Sue Records UK - Tarheel Slim discography
+  - Wikipedia - Tarheel Slim
+  - Seven45rpm.com - Tarheel Slim discography
+  - Blue Eye Juke - Tarheel Slim Complete Recordings
+  - 'The Current - Classic Americana: Tarheel Slim'
+  - The Hound NYC - Tarheel Slim biography
+  - Sue Records UK - Tarheel Slim discography
 network_extracted: true
 entry_created: '2025-11-15T18:39:00.107512'
 last_updated: '2025-12-23T08:16:03.994206'
 gender: Male
 musicbrainz_id: d12c3212-afe9-4407-bf88-921499fc3bf6
 tags:
-- blues
-- r&b
-
+  - blues
+  - r&b
+is_active: false
 ---
 
 ![](tarheel_slim.jpg)

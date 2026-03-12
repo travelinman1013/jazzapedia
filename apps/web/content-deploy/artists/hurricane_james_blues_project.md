@@ -1,38 +1,38 @@
 ---
 biography_enhanced_at: '2025-12-25T01:11:04.569617'
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2025-12-25T01:11:04.569633'
 external_urls:
-  spotify: https://open.spotify.com/artist/1gb14bhpHaxpD0WmQE7G3y
+  spotify: 'https://open.spotify.com/artist/1gb14bhpHaxpD0WmQE7G3y'
   wikipedia: ''
 genres:
-- blues
+  - blues
 image_path: 03_Resources/source_material/ArtistPortraits/hurricane_james_blues_project.jpg
 last_updated: '2025-12-25T01:11:04.569635'
 musical_connections:
   collaborators:
-  - John Allan Holmes
-  - Jon Kinyon
+    - John Allan Holmes
+    - Jon Kinyon
   influenced:
-  - John Allan Holmes
+    - John Allan Holmes
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- Spotify Artist Page[4]
-- Chartmetric Artist Page[5]
-- 'YouTube: Billionaire Boy Blues[7]'
-- 'Bandcamp: Blues For Christmas[8]'
-- 'YouTube: I''m Superman[9]'
+  - 'Spotify Artist Page[4]'
+  - 'Chartmetric Artist Page[5]'
+  - 'YouTube: Billionaire Boy Blues[7]'
+  - 'Bandcamp: Blues For Christmas[8]'
+  - 'YouTube: I''m Superman[9]'
 spotify_data:
   followers: 1171
   id: 1gb14bhpHaxpD0WmQE7G3y
   popularity: 36
-  url: https://open.spotify.com/artist/1gb14bhpHaxpD0WmQE7G3y
+  url: 'https://open.spotify.com/artist/1gb14bhpHaxpD0WmQE7G3y'
 status: active
 title: Hurricane James Blues Project
-
+artist_type: person
 ---
 
 ![](hurricane_james_blues_project.jpg)

@@ -1,17 +1,18 @@
 ---
-title: famous pluto, shallipopi & zerrydl
+title: 'Famous Pluto, Shallipopi & Zerrydl'
 wiki_slug: famous-pluto-shallipopi-zerrydl
 schema_version: 2
 status: active
 genres:
-- amapiano
-- afropiano
-- afrobeat
-- afrobeats
-- afro adura
+  - amapiano
+  - afropiano
+  - afrobeat
+  - afrobeats
+  - afro adura
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/famous_pluto_shallipopi_and_zerrydl.jpg
-  caption: famous pluto, shallipopi & zerrydl
+  image: >-
+    03_Resources/source_material/ArtistPortraits/famous_pluto_shallipopi_and_zerrydl.jpg
+  caption: 'famous pluto, shallipopi & zerrydl'
   background: solo_singer
 audio_profile:
   tempo_avg: 108.5
@@ -28,51 +29,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Shallipopi
-  - Outsyd DJ
-  - Plutomania Records roster (family collaborations)
+    - Shallipopi
+    - Outsyd DJ
+    - Plutomania Records roster (family collaborations)
   influenced:
-  - Emerging Benin City and TikTok‑based Afrobeats artists (collective)
+    - Emerging Benin City and TikTok‑based Afrobeats artists (collective)
   mentors:
-  - Shallipopi
-  - Wizkid
+    - Shallipopi
+    - Wizkid
 spotify_data:
   followers: 418193
   id: 2hg21aqtw66FhKSo3Uzbne
   popularity: 63
-  url: https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne
+  url: 'https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne'
 discography_enriched: true
 top_tracks:
-- Na Scra (Na Scra)
-- 1 WORK - Remix (1 WORK (Remix))
-- Ewo (Uzama The 3rd)
-- Feel D Mood (Feel D Mood)
-- Osusu (Uzama The 3rd)
-- Runs Am (Uzama The 3rd)
-- Gbese (Uzama The 3rd)
-- Na Scra (Uzama The 3rd)
-- 1 WORK - Remix (1 WORK (Remix))
-- Ten Toes (Ten Toes)
+  - Na Scra (Na Scra)
+  - 1 WORK - Remix (1 WORK (Remix))
+  - Ewo (Uzama The 3rd)
+  - Feel D Mood (Feel D Mood)
+  - Osusu (Uzama The 3rd)
+  - Runs Am (Uzama The 3rd)
+  - Gbese (Uzama The 3rd)
+  - Na Scra (Uzama The 3rd)
+  - 1 WORK - Remix (1 WORK (Remix))
+  - Ten Toes (Ten Toes)
 external_urls:
-  spotify: https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne
-  wikipedia: https://en.wikipedia.org/wiki/Zerrydl
-image_path: 03_Resources/source_material/ArtistPortraits/famous_pluto_shallipopi_and_zerrydl.jpg
+  spotify: 'https://open.spotify.com/artist/2hg21aqtw66FhKSo3Uzbne'
+  wikipedia: 'https://en.wikipedia.org/wiki/Zerrydl'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/famous_pluto_shallipopi_and_zerrydl.jpg
 biography_enhanced_at: '2025-12-14T01:51:34.553154'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Zerrydl
-- https://en.wikipedia.org/wiki/Famous_Pluto
-- https://www.nairaland.com/7877880/zerry-dl-biography-hidden-story
-- https://www.africanmusiclibrary.org/person/cb3fd96b-9240-42c1-b63e-8422a07ec0df
-- https://www.legit.ng/ask-legit/biographies/1651798-meet-shallipopis-brother-zerry-dl-sibling-synergy-uzama-brothers/
-- https://www.youtube.com/watch?v=1LC1SW9P0Gw
-- https://www.youtube.com/channel/UCCYMxzTUTpJ0Tpx5_iKfvuA/about
-- https://www.dockaysworld.com.ng/famous-pluto-age-biography-net-worth/
+  - 'https://en.wikipedia.org/wiki/Zerrydl'
+  - 'https://en.wikipedia.org/wiki/Famous_Pluto'
+  - 'https://www.nairaland.com/7877880/zerry-dl-biography-hidden-story'
+  - >-
+    https://www.africanmusiclibrary.org/person/cb3fd96b-9240-42c1-b63e-8422a07ec0df
+  - >-
+    https://www.legit.ng/ask-legit/biographies/1651798-meet-shallipopis-brother-zerry-dl-sibling-synergy-uzama-brothers/
+  - 'https://www.youtube.com/watch?v=1LC1SW9P0Gw'
+  - 'https://www.youtube.com/channel/UCCYMxzTUTpJ0Tpx5_iKfvuA/about'
+  - 'https://www.dockaysworld.com.ng/famous-pluto-age-biography-net-worth/'
 network_extracted: true
 entry_created: '2025-12-14T01:51:34.553164'
 last_updated: '2025-12-23T08:16:08.568689'
-origin: Benin City, Edo State, Nigeria
+origin: 'Benin City, Edo State, Nigeria'
+birth_place: 'Benin City, Edo State, Nigeria'
+artist_type: band
 ---
 
 ![](famous_pluto_shallipopi_and_zerrydl.jpg)

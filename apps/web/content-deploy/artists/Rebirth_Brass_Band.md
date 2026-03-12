@@ -2,15 +2,15 @@
 title: Rebirth Brass Band
 wiki_slug: rebirth-brass-band
 schema_version: 2
-artist_type: Group
+artist_type: person
 status: active
 birth_date: '1983'
 genres:
-- zydeco
-- new orleans bounce
-- cajun
+  - zydeco
+  - new orleans bounce
+  - cajun
 instruments:
-- original
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Rebirth_Brass_Band.jpg
   caption: Rebirth Brass Band
@@ -31,57 +31,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kermit Ruffins
-  - Philip Frazier
-  - Keith Frazier
-  - Derrick Tabb, Chadrick Honore, Glenn Hall, Gregory Veals, Stafford Agee, Vincent Broussard
+    - Kermit Ruffins
+    - Philip Frazier
+    - Keith Frazier
+    - >-
+      Derrick Tabb, Chadrick Honore, Glenn Hall, Gregory Veals, Stafford Agee,
+      Vincent Broussard
   influenced:
-  - Hot 8 Brass Band
-  - Treme Brass Band
-  - Younger New Orleans brass musicians
+    - Hot 8 Brass Band
+    - Treme Brass Band
+    - Younger New Orleans brass musicians
   mentors:
-  - Dirty Dozen Brass Band
+    - Dirty Dozen Brass Band
 spotify_data:
   followers: 64925
   id: 6p9Qy71KocWwjmpUcHUTda
   popularity: 33
-  url: https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda
+  url: 'https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda'
 discography_enriched: true
 top_tracks:
-- Do Whatcha Wanna (25th Anniversary)
-- 'Feel Like Funkin'' It Up - Live Street Mix (Treme: Music From The HBO Original Series, Season 1)'
-- I Feel Like Funkin' It Up - Extended Mix (Do Watcha Wanna)
-- Buckjump (For True)
-- Cassanova (Ultimate Rebirth Brass Band)
-- Do Whatcha Wanna, Pt. 3 (Meet Me At Mardi Gras)
-- Just A Closer Walk With Thee (Throwback)
-- I Like It Like That (Rebirth of New Orleans)
-- Exactly Like You (Rebirth of New Orleans)
-- Mardi Gras Day (Throwback)
+  - Do Whatcha Wanna (25th Anniversary)
+  - >-
+    Feel Like Funkin' It Up - Live Street Mix (Treme: Music From The HBO
+    Original Series, Season 1)
+  - I Feel Like Funkin' It Up - Extended Mix (Do Watcha Wanna)
+  - Buckjump (For True)
+  - Cassanova (Ultimate Rebirth Brass Band)
+  - 'Do Whatcha Wanna, Pt. 3 (Meet Me At Mardi Gras)'
+  - Just A Closer Walk With Thee (Throwback)
+  - I Like It Like That (Rebirth of New Orleans)
+  - Exactly Like You (Rebirth of New Orleans)
+  - Mardi Gras Day (Throwback)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/73701a01-07e2-44f7-8935-e094bdc22892
-  spotify: https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda
-  wikipedia: https://en.wikipedia.org/wiki/Rebirth_Brass_Band
+  musicbrainz: 'https://musicbrainz.org/artist/73701a01-07e2-44f7-8935-e094bdc22892'
+  spotify: 'https://open.spotify.com/artist/6p9Qy71KocWwjmpUcHUTda'
+  wikipedia: 'https://en.wikipedia.org/wiki/Rebirth_Brass_Band'
 image_path: 03_Resources/source_material/ArtistPortraits/Rebirth_Brass_Band.jpg
 biography_enhanced_at: '2025-10-21T06:36:57.917272'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://musicrising.tulane.edu/discover/people/rebirth-brass-band/
-- https://gasparillamusic.com/2012-lineup/rebirth-brass-band-2012-grammy-award-winner/
-- https://news.cegpresents.com/2017/06/27/spotlight-rebirth-brass-band/
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/rebirth-brass-band
-- https://rebirthbrassband.com/about/
-- https://www.neworleans.com/listing/rebirth-brass-band/46524/
+  - 'https://musicrising.tulane.edu/discover/people/rebirth-brass-band/'
+  - >-
+    https://gasparillamusic.com/2012-lineup/rebirth-brass-band-2012-grammy-award-winner/
+  - 'https://news.cegpresents.com/2017/06/27/spotlight-rebirth-brass-band/'
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/rebirth-brass-band
+  - 'https://rebirthbrassband.com/about/'
+  - 'https://www.neworleans.com/listing/rebirth-brass-band/46524/'
 network_extracted: true
 entry_created: '2025-10-21T06:36:57.917279'
 last_updated: '2025-12-23T08:16:03.661342'
 musicbrainz_enriched_at: '2025-10-21T09:42:05.033589'
 musicbrainz_id: 73701a01-07e2-44f7-8935-e094bdc22892
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 tags:
-- brass band
-- jazz
+  - brass band
+  - jazz
+birth_place: New Orleans
 ---
 
 ![](Rebirth_Brass_Band.jpg)

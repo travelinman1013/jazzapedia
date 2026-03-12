@@ -1,12 +1,13 @@
 ---
-title: GRANDMASTER FLASH AND THE FURIOUS FIVE
+title: Grandmaster Flash and the Furious Five
 wiki_slug: grandmaster-flash-and-the-furious-five
 schema_version: 2
 status: active
 genres:
-- old school hip hop
+  - old school hip hop
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/GRANDMASTER_FLASH_AND_THE_FURIOUS_FIVE.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/GRANDMASTER_FLASH_AND_THE_FURIOUS_FIVE.jpg
   caption: GRANDMASTER FLASH AND THE FURIOUS FIVE
   background: solo_singer
 audio_profile:
@@ -24,54 +25,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Melle Mel
-  - Kidd Creole
-  - Rahiem
-  - Cowboy
-  - Scorpio (Mr. Ness)
+    - Melle Mel
+    - Kidd Creole
+    - Rahiem
+    - Cowboy
+    - Scorpio (Mr. Ness)
   influenced:
-  - Public Enemy (Chuck D)
-  - KRS-One / Boogie Down Productions
-  - Run-DMC
+    - Public Enemy (Chuck D)
+    - KRS-One / Boogie Down Productions
+    - Run-DMC
   mentors:
-  - DJ Kool Herc
-  - Afrika Bambaataa
+    - DJ Kool Herc
+    - Afrika Bambaataa
 spotify_data:
   followers: 144875
   id: 5hQCwevTf03u1rECrRMeop
   popularity: 40
-  url: https://open.spotify.com/artist/5hQCwevTf03u1rECrRMeop
+  url: 'https://open.spotify.com/artist/5hQCwevTf03u1rECrRMeop'
 discography_enriched: true
 top_tracks:
-- The Message - Extended Version (The Message (Expanded Edition))
-- The Message (feat. Melle Mel & Duke Bootee) (The Message)
-- White Lines (White Lines)
-- 'The Message (feat. Melle Mel & Duke Bootee) (Hi-Five: Hip Hop Blender)'
-- White Lines (Long Version) [Re-Recorded]
-- The Adventures of Grandmaster Flash on the Wheels of Steel (The Message - EP)
-- The Adventures of Grandmaster Flash on the Wheel of Steel (The Message)
-- The Message (Re-Recorded)
-- Scorpio (The Message)
-- Scorpio (The Message (Expanded Edition))
+  - The Message - Extended Version (The Message (Expanded Edition))
+  - The Message (feat. Melle Mel & Duke Bootee) (The Message)
+  - White Lines (White Lines)
+  - 'The Message (feat. Melle Mel & Duke Bootee) (Hi-Five: Hip Hop Blender)'
+  - 'White Lines (Long Version) [Re-Recorded]'
+  - >-
+    The Adventures of Grandmaster Flash on the Wheels of Steel (The Message -
+    EP)
+  - The Adventures of Grandmaster Flash on the Wheel of Steel (The Message)
+  - The Message (Re-Recorded)
+  - Scorpio (The Message)
+  - Scorpio (The Message (Expanded Edition))
 external_urls:
-  spotify: https://open.spotify.com/artist/5hQCwevTf03u1rECrRMeop
-  wikipedia: https://en.wikipedia.org/wiki/Grandmaster_Flash_and_the_Furious_Five
-image_path: 03_Resources/source_material/ArtistPortraits/GRANDMASTER_FLASH_AND_THE_FURIOUS_FIVE.jpg
+  spotify: 'https://open.spotify.com/artist/5hQCwevTf03u1rECrRMeop'
+  wikipedia: 'https://en.wikipedia.org/wiki/Grandmaster_Flash_and_the_Furious_Five'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/GRANDMASTER_FLASH_AND_THE_FURIOUS_FIVE.jpg
 biography_enhanced_at: '2025-10-19T11:36:18.742628'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.bronxwalkoffame.com/inductees/grandmaster-flash-the-furious-five
-- https://www.hiphopgods.com/grandmaster-flash-and-the-furious-five/
-- https://www.britannica.com/topic/Grandmaster-Flash-and-the-Furious-Five
-- https://top40weekly.com/grandmaster-flash-the-furious-five/
-- http://hiphopgoldenage.com/artists/grandmaster-flash-the-furious-five/
-- https://teachrock.org/people/grandmaster-flash-and-the-furious-five/
-- https://rockhall.com/inductees/grandmaster-flash-and-furious-five/
+  - 'https://www.bronxwalkoffame.com/inductees/grandmaster-flash-the-furious-five'
+  - 'https://www.hiphopgods.com/grandmaster-flash-and-the-furious-five/'
+  - 'https://www.britannica.com/topic/Grandmaster-Flash-and-the-Furious-Five'
+  - 'https://top40weekly.com/grandmaster-flash-the-furious-five/'
+  - 'http://hiphopgoldenage.com/artists/grandmaster-flash-the-furious-five/'
+  - 'https://teachrock.org/people/grandmaster-flash-and-the-furious-five/'
+  - 'https://rockhall.com/inductees/grandmaster-flash-and-furious-five/'
 network_extracted: true
 entry_created: '2025-10-19T11:36:18.742641'
 last_updated: '2025-12-23T08:16:02.077184'
-origin: South Bronx, New York City, New York, USA
+origin: 'South Bronx, New York City, New York, USA'
+artist_type: band
 ---
 
 ![](GRANDMASTER_FLASH_AND_THE_FURIOUS_FIVE.jpg)

@@ -5,7 +5,8 @@ schema_version: 2
 status: active
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/rhiannon_giddens_with_francesco_turrisi.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/rhiannon_giddens_with_francesco_turrisi.jpg
   caption: Rhiannon Giddens with Francesco Turrisi
   background: solo_singer
 audio_profile:
@@ -23,46 +24,74 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Carolina Chocolate Drops
-  - Silkroad ensemble and related projects
-  - Early‑music and world‑music ensembles associated with Turrisi
+    - Carolina Chocolate Drops
+    - Silkroad ensemble and related projects
+    - Early‑music and world‑music ensembles associated with Turrisi
   influenced:
-  - Contemporary roots and folk artists engaging with historical recovery
+    - Contemporary roots and folk artists engaging with historical recovery
   mentors:
-  - African American string band and banjo traditions
-  - Mediterranean and early‑music traditions
+    - African American string band and banjo traditions
+    - Mediterranean and early‑music traditions
 spotify_data:
   followers: 2545
   id: 4ds2NOrovBxUtTi29RWIBC
   popularity: 29
-  url: https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC
+  url: 'https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC'
 discography_enriched: true
 top_tracks:
-- Wayfaring Stranger (with Francesco Turrisi) (there is no Other (with Francesco Turrisi) [Deluxe Version])
-- Calling Me Home (with Francesco Turrisi) (They're Calling Me Home (with Francesco Turrisi))
-- O Death (with Francesco Turrisi) (They're Calling Me Home (with Francesco Turrisi))
-- I Shall Not Be Moved (with Francesco Turrisi) (They're Calling Me Home (with Francesco Turrisi))
-- I'm On My Way (with Francesco Turrisi) (there is no Other (with Francesco Turrisi) [Deluxe Version])
-- Waterbound (with Francesco Turrisi) (They're Calling Me Home (with Francesco Turrisi))
-- Niwel Goes to Town (with Francesco Turrisi) (They're Calling Me Home (with Francesco Turrisi))
-- there is no Other (with Francesco Turrisi) (there is no Other (with Francesco Turrisi) [Deluxe Version])
-- Build A House (with Yo-Yo Ma & Francesco Turrisi) (Build A House (with Yo-Yo Ma & Francesco Turrisi))
-- Black as Crow (with Francesco Turrisi) (They're Calling Me Home (with Francesco Turrisi))
+  - >-
+    Wayfaring Stranger (with Francesco Turrisi) (there is no Other (with
+    Francesco Turrisi) [Deluxe Version])
+  - >-
+    Calling Me Home (with Francesco Turrisi) (They're Calling Me Home (with
+    Francesco Turrisi))
+  - >-
+    O Death (with Francesco Turrisi) (They're Calling Me Home (with Francesco
+    Turrisi))
+  - >-
+    I Shall Not Be Moved (with Francesco Turrisi) (They're Calling Me Home (with
+    Francesco Turrisi))
+  - >-
+    I'm On My Way (with Francesco Turrisi) (there is no Other (with Francesco
+    Turrisi) [Deluxe Version])
+  - >-
+    Waterbound (with Francesco Turrisi) (They're Calling Me Home (with Francesco
+    Turrisi))
+  - >-
+    Niwel Goes to Town (with Francesco Turrisi) (They're Calling Me Home (with
+    Francesco Turrisi))
+  - >-
+    there is no Other (with Francesco Turrisi) (there is no Other (with
+    Francesco Turrisi) [Deluxe Version])
+  - >-
+    Build A House (with Yo-Yo Ma & Francesco Turrisi) (Build A House (with Yo-Yo
+    Ma & Francesco Turrisi))
+  - >-
+    Black as Crow (with Francesco Turrisi) (They're Calling Me Home (with
+    Francesco Turrisi))
 external_urls:
-  spotify: https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC
-  wikipedia: https://en.wikipedia.org/wiki/Rhiannon_Giddens
-image_path: 03_Resources/source_material/ArtistPortraits/rhiannon_giddens_with_francesco_turrisi.jpg
+  spotify: 'https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC'
+  wikipedia: 'https://en.wikipedia.org/wiki/Rhiannon_Giddens'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/rhiannon_giddens_with_francesco_turrisi.jpg
 biography_enhanced_at: '2025-12-05T06:23:39.431138'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Official and promotional biographies of Rhiannon Giddens and Francesco Turrisi
-- Press coverage and liner‑note style descriptions of the duo’s albums and performances
+  - >-
+    Official and promotional biographies of Rhiannon Giddens and Francesco
+    Turrisi
+  - >-
+    Press coverage and liner‑note style descriptions of the duo’s albums and
+    performances
 network_extracted: true
 entry_created: '2025-12-05T06:23:39.431146'
 last_updated: '2025-12-23T08:16:14.821695'
-origin: Greensboro, North Carolina, United States (Giddens’ origin) and Turin/Sicily, Italy (Turrisi’s origin), with a major
-  collaborative base in Ireland
+origin: >-
+  Greensboro, North Carolina, United States (Giddens’ origin) and Turin/Sicily,
+  Italy (Turrisi’s origin), with a major collaborative base in Ireland
+birth_place: 'Greensboro, North Carolina, United States'
+artist_type: band
 ---
 
 ![](rhiannon_giddens_with_francesco_turrisi.jpg)

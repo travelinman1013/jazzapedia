@@ -1,64 +1,67 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 624c8c9c-10c0-47cf-b5de-b62303741ea8
-  name: Danny & The Fat Boys
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 624c8c9c-10c0-47cf-b5de-b62303741ea8
+    name: Danny & The Fat Boys
 biography_enhanced_at: '2026-01-22T07:04:52.832265'
 birth_date: '1945-09-04'
-birth_place: Washington, D.C.
+birth_place: 'Washington, D.C., United States'
 death_date: '1994-10-04'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:04:52.832272'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/bd38cc7b-dc36-4a39-86cb-3579ba936f82
-  spotify: https://open.spotify.com/artist/1IiBarn43LaqM1QInB6G7M
+  musicbrainz: 'https://musicbrainz.org/artist/bd38cc7b-dc36-4a39-86cb-3579ba936f82'
+  spotify: 'https://open.spotify.com/artist/1IiBarn43LaqM1QInB6G7M'
   wikipedia: ''
 gender: Male
 genres:
-- blues
+  - blues
 image_path: 03_Resources/source_material/ArtistPortraits/danny_gatton.jpg
 instruments:
-- guitar
+  - guitar
 last_updated: '2026-01-22T07:04:52.832273'
 musical_connections:
   collaborators:
-  - Buddy Emmons
-  - John Previti
-  - Roger Miller
-  - Robert Gordon
-  - Liz Meyer
-  - Vince Gill
-  - Albert Lee
-  - Delbert McClinton
+    - Buddy Emmons
+    - John Previti
+    - Roger Miller
+    - Robert Gordon
+    - Liz Meyer
+    - Vince Gill
+    - Albert Lee
+    - Delbert McClinton
   influenced:
-  - John Sebastian
+    - John Sebastian
   mentors:
-  - Les Paul
-  - Hank Garland
+    - Les Paul
+    - Hank Garland
 musicbrainz_id: bd38cc7b-dc36-4a39-86cb-3579ba936f82
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://thehumblermovie.com/danny-gatton-through-the-cracks-2/
-- https://www.culturesonar.com/danny-gatton-worlds-greatest-unknown-guitarist/
-- https://www.guitarplayer.com/players/four-reasons-danny-gatton-remains-a-guitar-legend
-- https://www.vintageguitar.com/2813/danny-gatton/
-- https://www.elsewhere.co.nz/weneedtotalkabout/9546/we-need-to-talk-about-danny-gatton-known-unto-god-and-guitarists/
-- https://www.youtube.com/watch?v=NnhWCRv0nvY
+  - 'https://thehumblermovie.com/danny-gatton-through-the-cracks-2/'
+  - 'https://www.culturesonar.com/danny-gatton-worlds-greatest-unknown-guitarist/'
+  - >-
+    https://www.guitarplayer.com/players/four-reasons-danny-gatton-remains-a-guitar-legend
+  - 'https://www.vintageguitar.com/2813/danny-gatton/'
+  - >-
+    https://www.elsewhere.co.nz/weneedtotalkabout/9546/we-need-to-talk-about-danny-gatton-known-unto-god-and-guitarists/
+  - 'https://www.youtube.com/watch?v=NnhWCRv0nvY'
 spotify_data:
   followers: 23708
   id: 1IiBarn43LaqM1QInB6G7M
   popularity: 28
-  url: https://open.spotify.com/artist/1IiBarn43LaqM1QInB6G7M
+  url: 'https://open.spotify.com/artist/1IiBarn43LaqM1QInB6G7M'
 status: active
 tags:
-- electric blues
-- jazz blues
-- rockabilly
+  - electric blues
+  - jazz blues
+  - rockabilly
 title: Danny Gatton
+is_active: false
 ---
 
 ![](danny_gatton.jpg)

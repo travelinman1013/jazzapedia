@@ -3,14 +3,14 @@ title: Art Neville
 wiki_slug: art-neville
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- blues
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/art_neville.jpg
   caption: Art Neville
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 120.7
   energy_avg: 0.473
@@ -26,57 +26,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Aaron Neville
-  - Cyril Neville
-  - Charles Neville
-  - George Porter Jr.
-  - Leo Nocentelli
-  - Ziggy Modeliste
-  - Allen Toussaint
-  - Paul McCartney
-  - Dr. John
-  - LaBelle
+    - Aaron Neville
+    - Cyril Neville
+    - Charles Neville
+    - George Porter Jr.
+    - Leo Nocentelli
+    - Ziggy Modeliste
+    - Allen Toussaint
+    - Paul McCartney
+    - Dr. John
+    - LaBelle
   influenced:
-  - Phish
-  - Galactic
-  - Red Hot Chili Peppers
+    - Phish
+    - Galactic
+    - Red Hot Chili Peppers
   mentors:
-  - Professor Longhair
-  - James Booker
-  - Allen Toussaint
+    - Professor Longhair
+    - James Booker
+    - Allen Toussaint
 spotify_data:
   followers: 7786
   id: 4f9WzVkgm5FoJW8lGGmHkG
   popularity: 28
-  url: https://open.spotify.com/artist/4f9WzVkgm5FoJW8lGGmHkG
+  url: 'https://open.spotify.com/artist/4f9WzVkgm5FoJW8lGGmHkG'
 discography_enriched: true
 top_tracks:
-- Six Strings Down (The Essential Jimmie Vaughan)
-- 'Cha Dooky-Doo (Art Neville: His Specialty Recordings, 1956-58)'
-- 'Zing Zing (Art Neville: His Specialty Recordings, 1956-58)'
-- 'What''s Going On (Art Neville: His Specialty Recordings, 1956-58)'
-- 'Arabian Love Call (Art Neville: His Specialty Recordings, 1956-58)'
-- All These Things - Remastered (Artist • Producer • Songwriter (Deluxe Edition))
-- All These Things (Everything I Do Gonh Be Funky (The Hit Songs & Productions 1957-1978))
-- Twilight of Romance (Romantic Moods)
-- 'When My Baby Went Away (Art Neville: His Specialty Recordings, 1956-58)'
-- Go To The Mardi Gras - Live
+  - Six Strings Down (The Essential Jimmie Vaughan)
+  - 'Cha Dooky-Doo (Art Neville: His Specialty Recordings, 1956-58)'
+  - 'Zing Zing (Art Neville: His Specialty Recordings, 1956-58)'
+  - 'What''s Going On (Art Neville: His Specialty Recordings, 1956-58)'
+  - 'Arabian Love Call (Art Neville: His Specialty Recordings, 1956-58)'
+  - >-
+    All These Things - Remastered (Artist • Producer • Songwriter (Deluxe
+    Edition))
+  - >-
+    All These Things (Everything I Do Gonh Be Funky (The Hit Songs & Productions
+    1957-1978))
+  - Twilight of Romance (Romantic Moods)
+  - 'When My Baby Went Away (Art Neville: His Specialty Recordings, 1956-58)'
+  - Go To The Mardi Gras - Live
 external_urls:
-  spotify: https://open.spotify.com/artist/4f9WzVkgm5FoJW8lGGmHkG
-  wikipedia: https://en.wikipedia.org/wiki/Art_Neville
+  spotify: 'https://open.spotify.com/artist/4f9WzVkgm5FoJW8lGGmHkG'
+  wikipedia: 'https://en.wikipedia.org/wiki/Art_Neville'
 image_path: 03_Resources/source_material/ArtistPortraits/art_neville.jpg
 biography_enhanced_at: '2025-10-28T09:02:59.074903'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://veritenews.org/2025/02/12/art-neville-the-meters-new-orleans-funk/
-- https://musicrising.tulane.edu/discover/people/the-neville-brothers/
-- https://acltv.com/2019/07/23/r-i-p-art-neville-of-the-neville-brothers/
-- https://en.wikipedia.org/wiki/Art_Neville
-- https://www.american-music.org/page/ArtNeville
+  - 'https://veritenews.org/2025/02/12/art-neville-the-meters-new-orleans-funk/'
+  - 'https://musicrising.tulane.edu/discover/people/the-neville-brothers/'
+  - 'https://acltv.com/2019/07/23/r-i-p-art-neville-of-the-neville-brothers/'
+  - 'https://en.wikipedia.org/wiki/Art_Neville'
+  - 'https://www.american-music.org/page/ArtNeville'
 network_extracted: true
 entry_created: '2025-10-28T09:02:59.074914'
 last_updated: '2025-12-23T08:16:04.936612'
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1937'
+artist_type: person
 ---
 
 ![](art_neville.jpg)

@@ -1,27 +1,27 @@
 ---
-title: shawn colvin
+title: Shawn Colvin
 wiki_slug: shawn-colvin
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1956-01-10'
-birth_place: Vermillion
+birth_place: 'Vermillion, South Dakota, United States'
 genres: []
 instruments:
-- guitar
-- acoustic guitar
-- piano
-- 12 string guitar
-- electric guitar
-- background vocals
-- lead vocals
-- vocal
+  - guitar
+  - acoustic guitar
+  - piano
+  - 12 string guitar
+  - electric guitar
+  - background vocals
+  - lead vocals
+  - vocal
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bb7cb8c0-102d-4a91-a55a-931d8cd84d4d
-  name: Colvin & Earle
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bb7cb8c0-102d-4a91-a55a-931d8cd84d4d
+    name: Colvin & Earle
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/shawn_colvin.jpg
   caption: shawn colvin
@@ -43,53 +43,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Suzanne Vega
-  - Buddy Miller
-  - John Leventhal
+    - Suzanne Vega
+    - Buddy Miller
+    - John Leventhal
   influenced:
-  - Sara Bareilles
+    - Sara Bareilles
   mentors:
-  - John Leventhal
-  - Joni Mitchell
+    - John Leventhal
+    - Joni Mitchell
 spotify_data:
   followers: 148641
   id: 0K7VN4aHxHcEb7PqkfoIVA
   popularity: 43
-  url: https://open.spotify.com/artist/0K7VN4aHxHcEb7PqkfoIVA
+  url: 'https://open.spotify.com/artist/0K7VN4aHxHcEb7PqkfoIVA'
 discography_enriched: true
 top_tracks:
-- Sunny Came Home (A Few Small Repairs)
-- Boulder To Birmingham - Live
-- Sunny Came Home (A FEW SMALL REPAIRS)
-- All Would Envy (feat. Shawn Colvin) (Night Sessions)
-- Baker Street (Uncovered)
-- When You Know (Serendipity - Music From The Miramax Motion Picture)
-- Tougher Than The Rest (Uncovered)
-- Shotgun Down The Avalanche (Steady On)
-- Wild Horses (Cayamo Sessions At Sea)
-- When You Know
+  - Sunny Came Home (A Few Small Repairs)
+  - Boulder To Birmingham - Live
+  - Sunny Came Home (A FEW SMALL REPAIRS)
+  - All Would Envy (feat. Shawn Colvin) (Night Sessions)
+  - Baker Street (Uncovered)
+  - When You Know (Serendipity - Music From The Miramax Motion Picture)
+  - Tougher Than The Rest (Uncovered)
+  - Shotgun Down The Avalanche (Steady On)
+  - Wild Horses (Cayamo Sessions At Sea)
+  - When You Know
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/42222090-c5e5-4243-8582-c29bc8b63ec6
-  spotify: https://open.spotify.com/artist/0K7VN4aHxHcEb7PqkfoIVA
-  wikipedia: https://en.wikipedia.org/wiki/Shawn_Colvin
+  musicbrainz: 'https://musicbrainz.org/artist/42222090-c5e5-4243-8582-c29bc8b63ec6'
+  spotify: 'https://open.spotify.com/artist/0K7VN4aHxHcEb7PqkfoIVA'
+  wikipedia: 'https://en.wikipedia.org/wiki/Shawn_Colvin'
 image_path: 03_Resources/source_material/ArtistPortraits/shawn_colvin.jpg
 biography_enhanced_at: '2025-11-04T11:07:34.118394'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/shawn-colvin
-- https://en.wikipedia.org/wiki/Shawn_Colvin
-- https://www.shawncolvinmusic.com/about
-- https://www.infoplease.com/biographies/art-entertainment/shawn-colvin
+  - >-
+    https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/shawn-colvin
+  - 'https://en.wikipedia.org/wiki/Shawn_Colvin'
+  - 'https://www.shawncolvinmusic.com/about'
+  - 'https://www.infoplease.com/biographies/art-entertainment/shawn-colvin'
 network_extracted: true
 entry_created: '2025-11-04T11:07:34.118405'
 last_updated: '2025-12-23T08:16:15.542399'
 gender: Female
 musicbrainz_id: 42222090-c5e5-4243-8582-c29bc8b63ec6
 tags:
-- contemporary folk
-- folk
-- rock
+  - contemporary folk
+  - folk
+  - rock
 ---
 
 ![](shawn_colvin.jpg)

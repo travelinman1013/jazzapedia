@@ -2,57 +2,63 @@
 artist_type: person
 biography_enhanced_at: '2025-12-28T01:53:49.335115'
 birth_date: '1980-01-24'
-birth_place: Rio Grande do Sul
+birth_place: 'Passo Fundo, Rio Grande do Sul, Brazil'
 enhancement_provider: perplexity
 entry_created: '2025-12-28T01:53:49.335125'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b0288f97-71d3-4fa2-8379-e482c4d97e95
-  spotify: https://open.spotify.com/artist/3xnqS3i4fWn0P30qIlnWYV
-  wikipedia: https://en.wikipedia.org/wiki/Yamandu_Costa
+  musicbrainz: 'https://musicbrainz.org/artist/b0288f97-71d3-4fa2-8379-e482c4d97e95'
+  spotify: 'https://open.spotify.com/artist/3xnqS3i4fWn0P30qIlnWYV'
+  wikipedia: 'https://en.wikipedia.org/wiki/Yamandu_Costa'
 gender: Male
 genres:
-- brazilian jazz
-- samba
+  - brazilian jazz
+  - samba
 image_path: 03_Resources/source_material/ArtistPortraits/yamandu_costa.jpg
 instruments:
-- guitar
-- acoustic guitar
+  - guitar
+  - acoustic guitar
 last_updated: '2025-12-28T01:53:49.335126'
 musical_connections:
   collaborators:
-  - Toquinho
-  - Alessandro Penezzi
-  - Armandinho Macedo
-  - Brazilian Symphony Orchestra
-  - São Paulo Symphony Orchestra (Orquestra Sinfônica do Estado de São Paulo)
-  - Calgary Philharmonic Orchestra
-  - Orchestre National de France
+    - Toquinho
+    - Alessandro Penezzi
+    - Armandinho Macedo
+    - Brazilian Symphony Orchestra
+    - São Paulo Symphony Orchestra (Orquestra Sinfônica do Estado de São Paulo)
+    - Calgary Philharmonic Orchestra
+    - Orchestre National de France
   influenced:
-  - Younger generation of Brazilian and international guitarists (various, not individually
-    documented in sources)
+    - >-
+      Younger generation of Brazilian and international guitarists (various, not
+      individually documented in sources)
   mentors:
-  - Algacir Costa
-  - Lúcio Yanel
-  - Raphael Rabello
+    - Algacir Costa
+    - Lúcio Yanel
+    - Raphael Rabello
 musicbrainz_id: b0288f97-71d3-4fa2-8379-e482c4d97e95
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Yamandu_Costa
-- https://migf.fiu.edu/2021/portfolio/yamandu-costa/
-- https://www.knkx.org/jazz-and-blues/2018-10-19/jazz-caliente-the-brilliant-brazilian-guitar-of-yamandu-costa
-- https://vailjazz.org/2019/07/03/7-reasons-why-this-brazilian-guitarist-loves-what-he-does/
-- https://villageview.nyc/2024/12/04/yamandu-costa-brazilian-guitar-virtuoso-defies-logic-with-masterclass-performance-at-joes-pub/
-- https://differentmusic.net/yamandu-costa-samba-pro-rafa/
-- https://www.braziliannites.com/event/yamandu-costa-urbana/
-- https://www.sfcv.org/events/omni-foundation-performing-arts/yamandu-costa-w-richard-scofano
+  - 'https://en.wikipedia.org/wiki/Yamandu_Costa'
+  - 'https://migf.fiu.edu/2021/portfolio/yamandu-costa/'
+  - >-
+    https://www.knkx.org/jazz-and-blues/2018-10-19/jazz-caliente-the-brilliant-brazilian-guitar-of-yamandu-costa
+  - >-
+    https://vailjazz.org/2019/07/03/7-reasons-why-this-brazilian-guitarist-loves-what-he-does/
+  - >-
+    https://villageview.nyc/2024/12/04/yamandu-costa-brazilian-guitar-virtuoso-defies-logic-with-masterclass-performance-at-joes-pub/
+  - 'https://differentmusic.net/yamandu-costa-samba-pro-rafa/'
+  - 'https://www.braziliannites.com/event/yamandu-costa-urbana/'
+  - >-
+    https://www.sfcv.org/events/omni-foundation-performing-arts/yamandu-costa-w-richard-scofano
 spotify_data:
   followers: 122334
   id: 3xnqS3i4fWn0P30qIlnWYV
   popularity: 40
-  url: https://open.spotify.com/artist/3xnqS3i4fWn0P30qIlnWYV
+  url: 'https://open.spotify.com/artist/3xnqS3i4fWn0P30qIlnWYV'
 status: active
 title: Yamandu Costa
+origin: 'São Paulo, São Paulo, Brazil'
 ---
 
 ![](yamandu_costa.jpg)

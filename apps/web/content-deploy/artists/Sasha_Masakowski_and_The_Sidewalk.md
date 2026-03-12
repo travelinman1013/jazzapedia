@@ -6,7 +6,8 @@ status: active
 aliases: []
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/Sasha_Masakowski_and_the_Sidewalk_Strutters.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/Sasha_Masakowski_and_the_Sidewalk_Strutters.jpg
   caption: Sasha Masakowski & the Sidewalk Strutters
   background: solo_singer
 audio_profile:
@@ -25,7 +26,7 @@ similar_artists: []
 related_artists: []
 spotify_data:
   id: 6DmCnV5ct6Cn0GRDUVTfIg
-  url: https://open.spotify.com/artist/6DmCnV5ct6Cn0GRDUVTfIg
+  url: 'https://open.spotify.com/artist/6DmCnV5ct6Cn0GRDUVTfIg'
   popularity: 0
   followers: 362
   verified: false
@@ -33,24 +34,26 @@ discography_enriched: true
 albums_count: 1
 singles_count: 0
 top_tracks:
-- Too Bad (Old Green River)
-- St. James Infirmary (Old Green River)
-- Old Green River (Old Green River)
-- Wait Till the Sun Shines Nelly (Old Green River)
-- Joshua Fit the Battle of Jericho (Old Green River)
-- Until the Real Thing Comes Along (Old Green River)
-- Lucky Little Devil (Old Green River)
-- Russian Lullaby (Old Green River)
-- I'm Getting Sentimental Over You (Old Green River)
-- Les Oignons (Old Green River)
+  - Too Bad (Old Green River)
+  - St. James Infirmary (Old Green River)
+  - Old Green River (Old Green River)
+  - Wait Till the Sun Shines Nelly (Old Green River)
+  - Joshua Fit the Battle of Jericho (Old Green River)
+  - Until the Real Thing Comes Along (Old Green River)
+  - Lucky Little Devil (Old Green River)
+  - Russian Lullaby (Old Green River)
+  - I'm Getting Sentimental Over You (Old Green River)
+  - Les Oignons (Old Green River)
 external_urls:
-  spotify: https://open.spotify.com/artist/6DmCnV5ct6Cn0GRDUVTfIg
+  spotify: 'https://open.spotify.com/artist/6DmCnV5ct6Cn0GRDUVTfIg'
   wikipedia: null
   musicbrainz: null
-image_path: 03_Resources/source_material/ArtistPortraits/Sasha_Masakowski_and_the_Sidewalk_Strutters.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/Sasha_Masakowski_and_the_Sidewalk_Strutters.jpg
 biography_source: none
-entry_created: 2025-09-18 12:58:50.623913
+entry_created: 2025-09-18T12:58:50.623Z
 last_updated: '2025-12-23T08:16:03.820219'
+artist_type: band
 ---
 
 ![](Sasha_Masakowski_and_the_Sidewalk_Strutters.jpg)

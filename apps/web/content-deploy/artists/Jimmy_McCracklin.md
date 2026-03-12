@@ -2,25 +2,25 @@
 title: Jimmy McCracklin
 wiki_slug: jimmy-mccracklin
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1921-08-13'
-birth_place: Helena, Arkansas, United States
+birth_place: 'Helena, Arkansas, United States'
 death_date: '2012-12-20'
 genres:
-- boogie-woogie
-- soul blues
-- blues
-- classic blues
-- rockabilly
+  - boogie-woogie
+  - soul blues
+  - blues
+  - classic blues
+  - rockabilly
 instruments:
-- original
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Jimmy_McCracklin.jpg
   caption: Jimmy McCracklin
   background: non_vocal_instrumentalist
   born: '1921-08-13'
-  origin: Helena, Arkansas, United States
+  origin: 'Helena, Arkansas, United States'
   died: '2012-12-20'
 audio_profile:
   tempo_avg: 104.7
@@ -29,7 +29,7 @@ audio_profile:
   danceability_avg: 0.667
   acousticness_avg: 0.662
   instrumentalness_avg: 0.013
-  loudness_avg: -11.0
+  loudness_avg: -11
   speechiness_avg: 0.11
   liveness_avg: 0.191
   track_count: 50
@@ -37,55 +37,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lafayette Thomas
-  - Lowell Fulson
-  - B.B. King
+    - Lafayette Thomas
+    - Lowell Fulson
+    - B.B. King
   influenced:
-  - Otis Redding & Carla Thomas
-  - Salt-N-Pepa
-  - Elvin Bishop
+    - Otis Redding & Carla Thomas
+    - Salt-N-Pepa
+    - Elvin Bishop
   mentors:
-  - Walter Davis
+    - Walter Davis
 spotify_data:
   followers: 7297
   id: 58CohJpaPmE4H0fXEAnt4i
   popularity: 16
-  url: https://open.spotify.com/artist/58CohJpaPmE4H0fXEAnt4i
+  url: 'https://open.spotify.com/artist/58CohJpaPmE4H0fXEAnt4i'
 discography_enriched: true
 top_tracks:
-- The Walk
-- The Walk (The Walk)
-- The Walk - (Alternate Take) (He Knows the Rules)
-- The Walk (He Knows the Rules)
-- She Felt Too Good (He Knows the Rules)
-- Let's Do It (The Chicken Scratch) [Mercury 71516]
-- Let's Do It (The Chicken Scratch) (He Knows the Rules)
-- The Walk (Hits That Jumped!)
-- Think
-- The Walk
+  - The Walk
+  - The Walk (The Walk)
+  - The Walk - (Alternate Take) (He Knows the Rules)
+  - The Walk (He Knows the Rules)
+  - She Felt Too Good (He Knows the Rules)
+  - 'Let''s Do It (The Chicken Scratch) [Mercury 71516]'
+  - Let's Do It (The Chicken Scratch) (He Knows the Rules)
+  - The Walk (Hits That Jumped!)
+  - Think
+  - The Walk
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/497acfd9-091f-4405-a603-0623d099cc1d
-  spotify: https://open.spotify.com/artist/58CohJpaPmE4H0fXEAnt4i
-  wikipedia: https://en.wikipedia.org/wiki/Jimmy_McCracklin
+  musicbrainz: 'https://musicbrainz.org/artist/497acfd9-091f-4405-a603-0623d099cc1d'
+  spotify: 'https://open.spotify.com/artist/58CohJpaPmE4H0fXEAnt4i'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jimmy_McCracklin'
 image_path: 03_Resources/source_material/ArtistPortraits/Jimmy_McCracklin.jpg
 biography_enhanced_at: '2025-10-19T10:39:48.587709'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://encyclopediaofarkansas.net/entries/jimmy-mccracklin-7361/
-- https://blues.org/blues_hof_inductee/jimmy-mccracklin/
-- https://fromthevaults-boppinbob.blogspot.com/2025/08/jimmy-mccracklin-born-13-august-1921.html
+  - 'https://encyclopediaofarkansas.net/entries/jimmy-mccracklin-7361/'
+  - 'https://blues.org/blues_hof_inductee/jimmy-mccracklin/'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2025/08/jimmy-mccracklin-born-13-august-1921.html
 network_extracted: true
 entry_created: '2025-10-19T10:39:48.587718'
 last_updated: '2025-12-23T08:16:02.565137'
-disambiguation: blues singer, songwriter
+disambiguation: 'blues singer, songwriter'
 gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:31:25.045890'
 musicbrainz_id: 497acfd9-091f-4405-a603-0623d099cc1d
 tags:
-- 2008 universal fire victim
-- blues
-- r&b
+  - 2008 universal fire victim
+  - blues
+  - r&b
+is_active: false
+origin: 'St. Louis, Missouri, United States'
 ---
 
 ![](Jimmy_McCracklin.jpg)

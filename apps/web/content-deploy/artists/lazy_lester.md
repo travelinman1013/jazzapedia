@@ -1,21 +1,21 @@
 ---
-title: lazy lester
+title: Lazy Lester
 wiki_slug: lazy-lester
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1933-06-20'
-birth_place: Torras, Louisiana, United States
+birth_place: 'Torras, Louisiana, United States'
 death_date: '2018-08-22'
 genres:
-- blues
-- classic blues
+  - blues
+  - classic blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lazy_lester.jpg
   caption: lazy lester
   background: solo_singer
   born: '1933-06-20'
-  origin: Torras, Louisiana, United States
+  origin: 'Torras, Louisiana, United States'
   died: '2018-08-22'
 audio_profile:
   tempo_avg: 120.6
@@ -32,54 +32,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jay Miller
-  - Slim Harpo
-  - Katie Webster
-  - Lonesome Sundown
-  - Clifton Chenier
-  - Mike Buck
-  - Sue Foley
-  - Kenny Neal
-  - Jimmie Vaughan
+    - Jay Miller
+    - Slim Harpo
+    - Katie Webster
+    - Lonesome Sundown
+    - Clifton Chenier
+    - Mike Buck
+    - Sue Foley
+    - Kenny Neal
+    - Jimmie Vaughan
   influenced:
-  - The Kinks
-  - The Fabulous Thunderbirds
-  - Dwight Yoakam
-  - Dave Edmunds
-  - Anson Funderburgh
+    - The Kinks
+    - The Fabulous Thunderbirds
+    - Dwight Yoakam
+    - Dave Edmunds
+    - Anson Funderburgh
   mentors:
-  - Jimmy Reed
-  - Little Walter
-  - Lightnin' Slim
+    - Jimmy Reed
+    - Little Walter
+    - Lightnin' Slim
 spotify_data:
   followers: 25956
   id: 72D581Szg2z107f9qlLvjV
   popularity: 28
-  url: https://open.spotify.com/artist/72D581Szg2z107f9qlLvjV
+  url: 'https://open.spotify.com/artist/72D581Szg2z107f9qlLvjV'
 discography_enriched: true
 top_tracks:
-- I'm A Man (Harp & Soul)
-- You're Gonna Ruin Me Baby (All Over You)
-- I Done Got Over It (Harp & Soul)
-- Strange Things Happen (All Over You)
-- The Sun Is Shinning (All Over You)
-- I'm A Lover Not A Fighter (I Hear You Knockin'!)
-- Raining In My Heart (Harp & Soul)
-- Alligator Shuffle (Harp & Soul)
-- Rooster Blues (You Better Listen)
-- If You Think I've Lost You (All Over You)
+  - I'm A Man (Harp & Soul)
+  - You're Gonna Ruin Me Baby (All Over You)
+  - I Done Got Over It (Harp & Soul)
+  - Strange Things Happen (All Over You)
+  - The Sun Is Shinning (All Over You)
+  - I'm A Lover Not A Fighter (I Hear You Knockin'!)
+  - Raining In My Heart (Harp & Soul)
+  - Alligator Shuffle (Harp & Soul)
+  - Rooster Blues (You Better Listen)
+  - If You Think I've Lost You (All Over You)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/50a9fe53-938c-4067-95ff-0243cea9ef66
-  spotify: https://open.spotify.com/artist/72D581Szg2z107f9qlLvjV
-  wikipedia: https://en.wikipedia.org/wiki/Lazy_Lester
+  musicbrainz: 'https://musicbrainz.org/artist/50a9fe53-938c-4067-95ff-0243cea9ef66'
+  spotify: 'https://open.spotify.com/artist/72D581Szg2z107f9qlLvjV'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lazy_Lester'
 image_path: 03_Resources/source_material/ArtistPortraits/lazy_lester.jpg
 biography_enhanced_at: '2025-10-20T10:19:05.954617'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Lazy_Lester
-- https://blues.org/blues_hof_inductee/lazy-lester/
-- https://www.alligator.com/artists/Lazy-Lester/
+  - 'https://en.wikipedia.org/wiki/Lazy_Lester'
+  - 'https://blues.org/blues_hof_inductee/lazy-lester/'
+  - 'https://www.alligator.com/artists/Lazy-Lester/'
 network_extracted: true
 entry_created: '2025-10-20T10:19:05.954635'
 last_updated: '2025-12-23T08:16:11.667315'
@@ -87,10 +87,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:54:11.089269'
 musicbrainz_id: 50a9fe53-938c-4067-95ff-0243cea9ef66
 tags:
-- blues
-- louisiana blues
-- swamp blues
-
+  - blues
+  - louisiana blues
+  - swamp blues
+is_active: false
 ---
 
 ![](lazy_lester.jpg)

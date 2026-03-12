@@ -1,70 +1,72 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - saxophone
-  mbid: f9871008-4847-4b4c-a89c-ab94cc6e2525
-  name: Monterey Jazz Festival on Tour
-- begin: ''
-  end: ''
-  instruments:
-  - tenor saxophone
-  mbid: e43154ac-3bd3-4003-b3ba-980b4120624e
-  name: ARTEMIS
+  - begin: ''
+    end: ''
+    instruments:
+      - saxophone
+    mbid: f9871008-4847-4b4c-a89c-ab94cc6e2525
+    name: Monterey Jazz Festival on Tour
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: e43154ac-3bd3-4003-b3ba-980b4120624e
+    name: ARTEMIS
 biography_enhanced_at: '2026-01-12T02:13:06.991298'
 birth_date: '1988-12-03'
-birth_place: Santiago
+birth_place: 'Santiago, Chile, Country'
 enhancement_provider: perplexity
 entry_created: '2026-01-12T02:13:06.991303'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/faa21ccf-f0d3-4a84-95d4-ae596aa40744
-  spotify: https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz
-  wikipedia: https://en.wikipedia.org/wiki/Melissa_Aldana
+  musicbrainz: 'https://musicbrainz.org/artist/faa21ccf-f0d3-4a84-95d4-ae596aa40744'
+  spotify: 'https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz'
+  wikipedia: 'https://en.wikipedia.org/wiki/Melissa_Aldana'
 gender: Female
 genres:
-- jazz
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/melissa_aldana.jpg
 instruments:
-- saxophone
-- tenor saxophone
+  - saxophone
+  - tenor saxophone
 last_updated: '2026-01-12T02:13:06.991304'
 musical_connections:
   collaborators:
-  - Pablo Menares
-  - Francisco Mela
-  - Jochen Rueckert
+    - Pablo Menares
+    - Francisco Mela
+    - Jochen Rueckert
   influenced: []
   mentors:
-  - Marcos Aldana
-  - Danilo Pérez
-  - George Garzone
-  - Joe Lovano
-  - George Coleman
+    - Marcos Aldana
+    - Danilo Pérez
+    - George Garzone
+    - Joe Lovano
+    - George Coleman
 musicbrainz_id: faa21ccf-f0d3-4a84-95d4-ae596aa40744
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Melissa_Aldana
-- https://www.bluenote.com/artist/melissa-aldana/
-- https://www.originsjazz.org/shows/melissa-aldana
-- https://college.berklee.edu/people/melissa-aldana
-- https://www.jazzempowers.org/melissa-aldana
-- https://www.conservatoriumvanamsterdam.nl/en/study/jazz/artists-in-residence-projects/keep-an-eye-summer-jazz-workshop/faculty/melissa-aldana-saxophone-ensembles-guest-soloist/
-- https://www.detroitjazzfest.org/artist/melissa-aldana-quartet/
-- https://bnatural.nyc/artists/melissa-aldana/
-- https://canariasjazz.com/en/artista/melissa-aldana-quartet/
+  - 'https://en.wikipedia.org/wiki/Melissa_Aldana'
+  - 'https://www.bluenote.com/artist/melissa-aldana/'
+  - 'https://www.originsjazz.org/shows/melissa-aldana'
+  - 'https://college.berklee.edu/people/melissa-aldana'
+  - 'https://www.jazzempowers.org/melissa-aldana'
+  - >-
+    https://www.conservatoriumvanamsterdam.nl/en/study/jazz/artists-in-residence-projects/keep-an-eye-summer-jazz-workshop/faculty/melissa-aldana-saxophone-ensembles-guest-soloist/
+  - 'https://www.detroitjazzfest.org/artist/melissa-aldana-quartet/'
+  - 'https://bnatural.nyc/artists/melissa-aldana/'
+  - 'https://canariasjazz.com/en/artista/melissa-aldana-quartet/'
 spotify_data:
   followers: 22242
   id: 56qrzp61GEif1i0UjqkHrz
   popularity: 27
-  url: https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz
+  url: 'https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz'
 status: active
 tags:
-- jazz
-- post-bop
+  - jazz
+  - post-bop
 title: Melissa Aldana
+origin: 'New York City, New York, United States'
 ---
 
 ![](melissa_aldana.jpg)

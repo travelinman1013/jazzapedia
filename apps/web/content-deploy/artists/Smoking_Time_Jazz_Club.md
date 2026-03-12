@@ -2,7 +2,7 @@
 title: Smoking Time Jazz Club
 wiki_slug: smoking-time-jazz-club
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 genres: []
 infobox:
@@ -24,55 +24,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sarah Peterson
-  - Jack Pritchett
-  - John Joyce
-  - Mike Voelker
-  - Russell Ramirez
-  - Joe Goldberg
-  - Brett Gardner
+    - Sarah Peterson
+    - Jack Pritchett
+    - John Joyce
+    - Mike Voelker
+    - Russell Ramirez
+    - Joe Goldberg
+    - Brett Gardner
   influenced: []
   mentors:
-  - Louis Armstrong
-  - Duke Ellington
-  - Jelly Roll Morton
-  - Bessie Smith
+    - Louis Armstrong
+    - Duke Ellington
+    - Jelly Roll Morton
+    - Bessie Smith
 spotify_data:
   followers: 1737
   id: 39eKoaG3eEpq8eKbX5jgUI
   popularity: 4
-  url: https://open.spotify.com/artist/39eKoaG3eEpq8eKbX5jgUI
+  url: 'https://open.spotify.com/artist/39eKoaG3eEpq8eKbX5jgUI'
 discography_enriched: true
 top_tracks:
-- Christmas Morning Blues (Best of Street New Orleans Xmas)
-- Dreaming the Hours Away (Six Blueses, Five Joys and a Stomp)
-- My Slow and Easy Man (Six Blueses, Five Joys and a Stomp)
-- Tia Juana Man (Six Blueses, Five Joys and a Stomp)
-- Kansas City Stomps (Six Blueses, Five Joys and a Stomp)
-- Tight Like That (Six Blueses, Five Joys and a Stomp)
-- Come and Get Me Poppa (Six Blueses, Five Joys and a Stomp)
-- Am I Blue (Six Blueses, Five Joys and a Stomp)
-- Don't You Leave Me Here (Six Blueses, Five Joys and a Stomp)
-- Take Me for a Buggy Ride (Six Blueses, Five Joys and a Stomp)
+  - Christmas Morning Blues (Best of Street New Orleans Xmas)
+  - 'Dreaming the Hours Away (Six Blueses, Five Joys and a Stomp)'
+  - 'My Slow and Easy Man (Six Blueses, Five Joys and a Stomp)'
+  - 'Tia Juana Man (Six Blueses, Five Joys and a Stomp)'
+  - 'Kansas City Stomps (Six Blueses, Five Joys and a Stomp)'
+  - 'Tight Like That (Six Blueses, Five Joys and a Stomp)'
+  - 'Come and Get Me Poppa (Six Blueses, Five Joys and a Stomp)'
+  - 'Am I Blue (Six Blueses, Five Joys and a Stomp)'
+  - 'Don''t You Leave Me Here (Six Blueses, Five Joys and a Stomp)'
+  - 'Take Me for a Buggy Ride (Six Blueses, Five Joys and a Stomp)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8eba3172-b765-46e3-8cf7-25f0c493bc5b
-  spotify: https://open.spotify.com/artist/39eKoaG3eEpq8eKbX5jgUI
+  musicbrainz: 'https://musicbrainz.org/artist/8eba3172-b765-46e3-8cf7-25f0c493bc5b'
+  spotify: 'https://open.spotify.com/artist/39eKoaG3eEpq8eKbX5jgUI'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/Smoking_Time_Jazz_Club.jpg
 biography_enhanced_at: '2025-10-20T08:59:24.230225'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://www.smokingtimejazzclub.com
-- https://syncopatedtimes.com/smoking-time-jazz-club-contrapuntal-stomp/
-- https://www.youtube.com/watch?v=4Zxzuy0Geiw
-- https://www.wwoz.org/blog/3485
+  - 'http://www.smokingtimejazzclub.com'
+  - 'https://syncopatedtimes.com/smoking-time-jazz-club-contrapuntal-stomp/'
+  - 'https://www.youtube.com/watch?v=4Zxzuy0Geiw'
+  - 'https://www.wwoz.org/blog/3485'
 network_extracted: true
 entry_created: '2025-10-20T08:59:24.230239'
 last_updated: '2025-12-23T08:16:03.913743'
 musicbrainz_enriched_at: '2025-10-21T09:43:47.892008'
 musicbrainz_id: 8eba3172-b765-46e3-8cf7-25f0c493bc5b
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](Smoking_Time_Jazz_Club.jpg)

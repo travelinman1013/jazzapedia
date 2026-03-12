@@ -3,17 +3,17 @@ title: Johnny Ventura
 wiki_slug: johnny-ventura
 schema_version: 2
 status: active
-birth_place: Santo Domingo, Distrito Nacional, Dominican Republic
+birth_place: 'Santo Domingo, Distrito Nacional, Dominican Republic'
 genres:
-- merengue
-- tropical music
-- cha cha cha
-- salsa
+  - merengue
+  - tropical music
+  - cha cha cha
+  - salsa
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/johnny_ventura.jpg
   caption: Johnny Ventura
   background: solo_singer
-  origin: Santo Domingo, Distrito Nacional, Dominican Republic
+  origin: 'Santo Domingo, Distrito Nacional, Dominican Republic'
 audio_profile:
   tempo_avg: 118.4
   energy_avg: 0.723
@@ -29,46 +29,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - El Combo Show
+    - El Combo Show
   influenced:
-  - Modern merengue and salsa bandleaders in the Dominican Republic and Caribbean (various)
+    - >-
+      Modern merengue and salsa bandleaders in the Dominican Republic and
+      Caribbean (various)
   mentors:
-  - Early Dominican bandleaders and radio orchestras (various)
+    - Early Dominican bandleaders and radio orchestras (various)
 spotify_data:
   followers: 227206
   id: 7fvEDuYk5vkKKZGpv6Knus
   popularity: 42
-  url: https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus
+  url: 'https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus'
 discography_enriched: true
 top_tracks:
-- Patacón Pisao
-- ¿Pitaste?
-- Dilema (Happy Hour Tropical)
-- Merenguero Hasta la Tambora - Radio Version
-- Guajira con Soul
-- Dominicano Alza La Mano
-- Soy Dominicana (feat. Diomaris 'La Mala', Pavel Nuñez, Techy Fatule, Manny Cruz, Johnny Ventura, Frank Ceara & Mark B.)
-- De Moca A Paris (Todo Tiene Su Hora)
-- El Negrito del Batey (with Johnny Ventura)
-- Lo Que Te Gusta (Lo Que te Gusta)
+  - Patacón Pisao
+  - ¿Pitaste?
+  - Dilema (Happy Hour Tropical)
+  - Merenguero Hasta la Tambora - Radio Version
+  - Guajira con Soul
+  - Dominicano Alza La Mano
+  - >-
+    Soy Dominicana (feat. Diomaris 'La Mala', Pavel Nuñez, Techy Fatule, Manny
+    Cruz, Johnny Ventura, Frank Ceara & Mark B.)
+  - De Moca A Paris (Todo Tiene Su Hora)
+  - El Negrito del Batey (with Johnny Ventura)
+  - Lo Que Te Gusta (Lo Que te Gusta)
 external_urls:
-  spotify: https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus
-  wikipedia: https://en.wikipedia.org/wiki/Johnny_Ventura
+  spotify: 'https://open.spotify.com/artist/7fvEDuYk5vkKKZGpv6Knus'
+  wikipedia: 'https://en.wikipedia.org/wiki/Johnny_Ventura'
 image_path: 03_Resources/source_material/ArtistPortraits/johnny_ventura.jpg
 biography_enhanced_at: '2025-12-07T04:40:24.645924'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Dominican Embassy in India – “Johnny Ventura, the father of modern Merengue”[1]
-- Jango – Johnny Ventura full bio[2]
-- ExploreEverywhere – “Dominican Republic — Johnny Ventura’s Patacón Pisao”[3]
-- TankersInternational profile – Johnny Ventura bio[4]
-- IMDb – Johnny Ventura Biography[5]
-- Kiddle – Johnny Ventura Facts for Kids[6]
-- Wikipedia – Johnny Ventura
+  - >-
+    Dominican Embassy in India – “Johnny Ventura, the father of modern
+    Merengue”[1]
+  - 'Jango – Johnny Ventura full bio[2]'
+  - 'ExploreEverywhere – “Dominican Republic — Johnny Ventura’s Patacón Pisao”[3]'
+  - 'TankersInternational profile – Johnny Ventura bio[4]'
+  - 'IMDb – Johnny Ventura Biography[5]'
+  - 'Kiddle – Johnny Ventura Facts for Kids[6]'
+  - Wikipedia – Johnny Ventura
 network_extracted: true
 entry_created: '2025-12-07T04:40:24.645960'
 last_updated: '2025-12-23T08:16:10.909669'
+artist_type: person
 ---
 
 ![](johnny_ventura.jpg)

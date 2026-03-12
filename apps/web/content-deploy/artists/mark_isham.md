@@ -5,30 +5,30 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1951-09-07'
-birth_place: New York
+birth_place: 'New York City, New York, United States'
 genres:
-- soundtrack
+  - soundtrack
 instruments:
-- trumpet
-- piano
+  - trumpet
+  - piano
 associated_acts:
-- begin: '1972'
-  end: '1974'
-  instruments: []
-  mbid: 6f04b3e9-000e-4208-bb72-cdccf868dcdf
-  name: The Sons of Champlin
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: 189b00ee-8866-48ca-bae3-08939d13ef5e
-  name: Mark Levine Nonet
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: 76205cc9-9811-49ad-b07e-c457c9826d88
-  name: Group 87
+  - begin: '1972'
+    end: '1974'
+    instruments: []
+    mbid: 6f04b3e9-000e-4208-bb72-cdccf868dcdf
+    name: The Sons of Champlin
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: 189b00ee-8866-48ca-bae3-08939d13ef5e
+    name: Mark Levine Nonet
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: 76205cc9-9811-49ad-b07e-c457c9826d88
+    name: Group 87
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/mark_isham.jpg
   caption: Mark Isham
@@ -50,54 +50,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bruce Springsteen
-  - Willie Nelson
-  - Van Morrison
-  - Joni Mitchell
-  - The Rolling Stones
-  - Chick Corea
-  - Herbie Hancock
-  - Bobby McFerrin
-  - Hans Zimmer
-  - Kate Ceberano
-  - Sage Francis
+    - Bruce Springsteen
+    - Willie Nelson
+    - Van Morrison
+    - Joni Mitchell
+    - The Rolling Stones
+    - Chick Corea
+    - Herbie Hancock
+    - Bobby McFerrin
+    - Hans Zimmer
+    - Kate Ceberano
+    - Sage Francis
   influenced: []
   mentors:
-  - Carroll Ballard
+    - Carroll Ballard
 spotify_data:
   followers: 39791
   id: 5qlzaXu4riV8YLrL97cwyI
   popularity: 42
-  url: https://open.spotify.com/artist/5qlzaXu4riV8YLrL97cwyI
+  url: 'https://open.spotify.com/artist/5qlzaXu4riV8YLrL97cwyI'
 discography_enriched: true
 top_tracks:
-- Building A Family (Life As A House (Original Motion Picture Soundtrack))
-- 'Time Passing II (Black Mirror: Arkangel (Original Score))'
-- A River Runs Through It (A River Runs Through It (Original Motion Picture Soundtrack))
-- Frank Gehry (A Family Man (Original Motion Picture Soundtrack))
-- The Trial of Solomon Grundy (The Accountant (Original Motion Picture Soundtrack))
-- Luck Dries Up (Togo (Original Soundtrack))
-- 'Leaving Storybrooke (Once Upon a Time: Season 7 (Original Score))'
-- Tribune Tower (A Family Man (Original Motion Picture Soundtrack))
-- Daniel and Ruth (The Longest Ride (Original Score Album))
-- A Promise (Life As A House (Original Motion Picture Soundtrack))
+  - Building A Family (Life As A House (Original Motion Picture Soundtrack))
+  - 'Time Passing II (Black Mirror: Arkangel (Original Score))'
+  - >-
+    A River Runs Through It (A River Runs Through It (Original Motion Picture
+    Soundtrack))
+  - Frank Gehry (A Family Man (Original Motion Picture Soundtrack))
+  - >-
+    The Trial of Solomon Grundy (The Accountant (Original Motion Picture
+    Soundtrack))
+  - Luck Dries Up (Togo (Original Soundtrack))
+  - 'Leaving Storybrooke (Once Upon a Time: Season 7 (Original Score))'
+  - Tribune Tower (A Family Man (Original Motion Picture Soundtrack))
+  - Daniel and Ruth (The Longest Ride (Original Score Album))
+  - A Promise (Life As A House (Original Motion Picture Soundtrack))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/56d6a50f-4be2-4796-9709-7eb88c45b63b
-  spotify: https://open.spotify.com/artist/5qlzaXu4riV8YLrL97cwyI
-  wikipedia: https://en.wikipedia.org/wiki/Mark_Isham
+  musicbrainz: 'https://musicbrainz.org/artist/56d6a50f-4be2-4796-9709-7eb88c45b63b'
+  spotify: 'https://open.spotify.com/artist/5qlzaXu4riV8YLrL97cwyI'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mark_Isham'
 image_path: 03_Resources/source_material/ArtistPortraits/mark_isham.jpg
 biography_enhanced_at: '2025-12-04T13:09:21.413080'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Mark_Isham
-- https://www.popdisciple.com/interviews/mark-isham
-- https://www.soundonsound.com/people/mark-isham-film-music-hollywood
-- https://isham.com/bio/
-- https://www.yellowbrick.co/blog/music/the-melodic-brilliance-of-mark-isham-a-composers-journey
-- https://www.imdb.com/name/nm0006142/bio/
-- https://filmtalk.org/2022/11/06/mark-isham/
-- https://www.fandango.com/people/mark-isham-315504/biography
+  - 'https://en.wikipedia.org/wiki/Mark_Isham'
+  - 'https://www.popdisciple.com/interviews/mark-isham'
+  - 'https://www.soundonsound.com/people/mark-isham-film-music-hollywood'
+  - 'https://isham.com/bio/'
+  - >-
+    https://www.yellowbrick.co/blog/music/the-melodic-brilliance-of-mark-isham-a-composers-journey
+  - 'https://www.imdb.com/name/nm0006142/bio/'
+  - 'https://filmtalk.org/2022/11/06/mark-isham/'
+  - 'https://www.fandango.com/people/mark-isham-315504/biography'
 network_extracted: true
 entry_created: '2025-12-04T13:09:21.413089'
 last_updated: '2025-12-23T08:16:12.687867'
@@ -105,9 +110,10 @@ disambiguation: American musician and score composer
 gender: Male
 musicbrainz_id: 56d6a50f-4be2-4796-9709-7eb88c45b63b
 tags:
-- american composer
-- composer
-- contemporary jazz
+  - american composer
+  - composer
+  - contemporary jazz
+origin: 'San Francisco, California, United States'
 ---
 
 ![](mark_isham.jpg)

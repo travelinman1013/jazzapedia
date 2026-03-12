@@ -4,9 +4,9 @@ wiki_slug: galactic-irma-thomas
 schema_version: 2
 status: active
 genres:
-- jazz funk
-- funk rock
-- acid jazz
+  - jazz funk
+  - funk rock
+  - acid jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/galactic_and_irma_thomas.jpg
   caption: Galactic & Irma Thomas
@@ -26,52 +26,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ben Ellman
-  - Robert Mercurio
-  - Sean Carey
-  - Stanton Moore
+    - Ben Ellman
+    - Robert Mercurio
+    - Sean Carey
+    - Stanton Moore
   influenced:
-  - The Rolling Stones
-  - Contemporary New Orleans musicians
+    - The Rolling Stones
+    - Contemporary New Orleans musicians
   mentors:
-  - Allen Toussaint
+    - Allen Toussaint
 spotify_data:
   followers: 134897
   id: 4rMUtWPGbE6waga7PQO0oQ
   popularity: 40
-  url: https://open.spotify.com/artist/4rMUtWPGbE6waga7PQO0oQ
+  url: 'https://open.spotify.com/artist/4rMUtWPGbE6waga7PQO0oQ'
 discography_enriched: true
 top_tracks:
-- Into The Deep (Into The Deep (Deluxe Edition))
-- Does It Really Make A Difference (Into The Deep (Deluxe Edition))
-- Where I Belong
-- How Glad I Am
-- Church (Coolin' Off)
-- Cineramascope (Ya-Ka-May (Deluxe Edition))
-- Joy (Monster (Deluxe))
-- Lady Liberty
-- Going Straight Crazy (feat. Princess Shaw) (Already Ready Already)
-- Domino (Into The Deep (Deluxe Edition))
+  - Into The Deep (Into The Deep (Deluxe Edition))
+  - Does It Really Make A Difference (Into The Deep (Deluxe Edition))
+  - Where I Belong
+  - How Glad I Am
+  - Church (Coolin' Off)
+  - Cineramascope (Ya-Ka-May (Deluxe Edition))
+  - Joy (Monster (Deluxe))
+  - Lady Liberty
+  - Going Straight Crazy (feat. Princess Shaw) (Already Ready Already)
+  - Domino (Into The Deep (Deluxe Edition))
 external_urls:
-  spotify: https://open.spotify.com/artist/4rMUtWPGbE6waga7PQO0oQ
-  wikipedia: https://en.wikipedia.org/wiki/Irma_Thomas
+  spotify: 'https://open.spotify.com/artist/4rMUtWPGbE6waga7PQO0oQ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Irma_Thomas'
 image_path: 03_Resources/source_material/ArtistPortraits/galactic_and_irma_thomas.jpg
 biography_enhanced_at: '2025-10-25T09:59:03.520086'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://relix.com/articles/detail/galactic-irma-thomas-where-i-belong/
-- https://relix.com/reviews/detail/galactic-and-irma-thomas-audience-with-the-queen/
-- https://bighassle.com/galactic
-- https://xpn.org/2025/07/07/wc-galactic-irma-thomas/
-- https://galacticfunk.com/about
-- https://www.kaxe.org/2025-04-22/album-of-the-week-audience-with-the-queen-galactic-irma-thomas
-- https://en.wikipedia.org/wiki/Irma_Thomas
+  - 'https://relix.com/articles/detail/galactic-irma-thomas-where-i-belong/'
+  - >-
+    https://relix.com/reviews/detail/galactic-and-irma-thomas-audience-with-the-queen/
+  - 'https://bighassle.com/galactic'
+  - 'https://xpn.org/2025/07/07/wc-galactic-irma-thomas/'
+  - 'https://galacticfunk.com/about'
+  - >-
+    https://www.kaxe.org/2025-04-22/album-of-the-week-audience-with-the-queen-galactic-irma-thomas
+  - 'https://en.wikipedia.org/wiki/Irma_Thomas'
 network_extracted: true
 entry_created: '2025-10-25T09:59:03.520103'
 last_updated: '2025-12-23T08:16:08.957030'
-origin: New Orleans, Louisiana, USA
-
+origin: 'New Orleans, Louisiana, USA'
+birth_place: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![](galactic_and_irma_thomas.jpg)

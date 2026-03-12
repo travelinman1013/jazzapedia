@@ -3,15 +3,15 @@ title: Precious Bryant
 wiki_slug: precious-bryant
 schema_version: 2
 status: active
-birth_place: Talbot County, Georgia, United States
+birth_place: 'Talbot County, Georgia, United States'
 genres:
-- country blues
-- blues
+  - country blues
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Precious_Bryant.jpg
   caption: Precious Bryant
   background: solo_singer
-  origin: Talbot County, Georgia, United States
+  origin: 'Talbot County, Georgia, United States'
 audio_profile:
   tempo_avg: 107.3
   energy_avg: 0.332
@@ -27,46 +27,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tony Bryant
-  - Tim Duffy
-  - Neal Pattman and Cootie Stark
+    - Tony Bryant
+    - Tim Duffy
+    - Neal Pattman and Cootie Stark
   influenced:
-  - Contemporary Georgia blues musicians
+    - Contemporary Georgia blues musicians
   mentors:
-  - George Henry Bussey
-  - Her father (unnamed)
+    - George Henry Bussey
+    - Her father (unnamed)
 spotify_data:
   followers: 3533
   id: 2NmmldHtbkBjOe7NbUK4tf
   popularity: 12
-  url: https://open.spotify.com/artist/2NmmldHtbkBjOe7NbUK4tf
+  url: 'https://open.spotify.com/artist/2NmmldHtbkBjOe7NbUK4tf'
 discography_enriched: true
 top_tracks:
-- The Truth (The Truth)
-- Morning Train (The Truth)
-- 'Morning Train (Black Snake Moan: Original Motion Picture Soundtrack)'
-- It's Alright (My Name Is Precious)
-- Broke And Ain't Got A Dime (Fool Me Good)
-- Fever (Fool Me Good)
-- Georgia Buck (Fool Me Good)
-- My Chauffeur (The Truth)
-- Black Rat Swing (Fool Me Good)
-- Dark Angel (The Truth)
+  - The Truth (The Truth)
+  - Morning Train (The Truth)
+  - 'Morning Train (Black Snake Moan: Original Motion Picture Soundtrack)'
+  - It's Alright (My Name Is Precious)
+  - Broke And Ain't Got A Dime (Fool Me Good)
+  - Fever (Fool Me Good)
+  - Georgia Buck (Fool Me Good)
+  - My Chauffeur (The Truth)
+  - Black Rat Swing (Fool Me Good)
+  - Dark Angel (The Truth)
 external_urls:
-  spotify: https://open.spotify.com/artist/2NmmldHtbkBjOe7NbUK4tf
-  wikipedia: https://en.wikipedia.org/wiki/Precious_Bryant
+  spotify: 'https://open.spotify.com/artist/2NmmldHtbkBjOe7NbUK4tf'
+  wikipedia: 'https://en.wikipedia.org/wiki/Precious_Bryant'
 image_path: 03_Resources/source_material/ArtistPortraits/Precious_Bryant.jpg
 biography_enhanced_at: '2025-10-19T12:24:40.268475'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Precious_Bryant
-- https://www.georgiaencyclopedia.org/articles/arts-culture/precious-bryant-1942-2013/
-- https://archive.musicmaker.org/artists/precious-bryant/
-- https://www.musicmaker.org/artist/precious-bryant/
+  - 'https://en.wikipedia.org/wiki/Precious_Bryant'
+  - >-
+    https://www.georgiaencyclopedia.org/articles/arts-culture/precious-bryant-1942-2013/
+  - 'https://archive.musicmaker.org/artists/precious-bryant/'
+  - 'https://www.musicmaker.org/artist/precious-bryant/'
 network_extracted: true
 entry_created: '2025-10-19T12:24:40.268481'
 last_updated: '2025-12-23T08:16:03.601992'
+birth_date: '1942-01-04'
+death_date: '2013-01-12'
+artist_type: person
 ---
 
 ![](Precious_Bryant.jpg)

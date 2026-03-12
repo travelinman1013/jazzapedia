@@ -16,7 +16,7 @@ audio_profile:
   valence_avg: 0.345
   danceability_avg: 0.581
   acousticness_avg: 0.696
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -6.8
   speechiness_avg: 0.037
   liveness_avg: 0.166
@@ -25,39 +25,41 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Duda Beat
+    - Duda Beat
   influenced: []
   mentors: []
 spotify_data:
   followers: 99
   id: 6nDdExixcAGMd3kcrxR1Bp
   popularity: 1
-  url: https://open.spotify.com/artist/6nDdExixcAGMd3kcrxR1Bp
+  url: 'https://open.spotify.com/artist/6nDdExixcAGMd3kcrxR1Bp'
 discography_enriched: true
 top_tracks:
-- Serra do Espinhaço (Ubuntu)
-- A Voz (Ubuntu)
-- Gente Que Vem de Lisboa (Ubuntu)
-- Sentinela (Ubuntu)
-- Ponto de Partida (Ubuntu)
-- Viver de Amor (Ubuntu)
-- Ciranda de Maria (Ubuntu)
-- Nossa Espera (Ubuntu)
-- Maria Três Filhos (Ubuntu)
-- Nem Nada (Ubuntu)
+  - Serra do Espinhaço (Ubuntu)
+  - A Voz (Ubuntu)
+  - Gente Que Vem de Lisboa (Ubuntu)
+  - Sentinela (Ubuntu)
+  - Ponto de Partida (Ubuntu)
+  - Viver de Amor (Ubuntu)
+  - Ciranda de Maria (Ubuntu)
+  - Nossa Espera (Ubuntu)
+  - Maria Três Filhos (Ubuntu)
+  - Nem Nada (Ubuntu)
 external_urls:
-  spotify: https://open.spotify.com/artist/6nDdExixcAGMd3kcrxR1Bp
+  spotify: 'https://open.spotify.com/artist/6nDdExixcAGMd3kcrxR1Bp'
   wikipedia: Not available
 image_path: ''
 biography_enhanced_at: '2025-10-26T12:31:12.786438'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Recent Music
-- Metason
+  - Recent Music
+  - Metason
 network_extracted: true
 entry_created: '2025-10-26T12:31:12.786448'
 last_updated: '2025-12-23T08:16:05.356199'
+artist_type: person
+origin: 'Brazil, Brazil, Brazil'
 ---
 
 ![]()

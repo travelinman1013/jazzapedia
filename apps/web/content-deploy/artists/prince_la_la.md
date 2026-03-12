@@ -1,16 +1,16 @@
 ---
-title: prince la la
+title: Prince La La
 wiki_slug: prince-la-la
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- northern soul
+  - northern soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/prince_la_la.jpg
   caption: prince la la
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 130.9
   energy_avg: 0.572
@@ -26,44 +26,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jessie Hill
-  - Harold Battiste
-  - AFO Studio Combo (Red Tyler, John Boudreaux, Melvin Lastie, Peter 'Chuck' Badie)
+    - Jessie Hill
+    - Harold Battiste
+    - >-
+      AFO Studio Combo (Red Tyler, John Boudreaux, Melvin Lastie, Peter 'Chuck'
+      Badie)
   influenced:
-  - Dr. John (Mac Rebennack)
-  - Oliver Morgan
+    - Dr. John (Mac Rebennack)
+    - Oliver Morgan
   mentors:
-  - Walter Nelson
+    - Walter Nelson
 spotify_data:
   followers: 319
   id: 5luJER4km8jajUxHlIH9R5
   popularity: 1
-  url: https://open.spotify.com/artist/5luJER4km8jajUxHlIH9R5
+  url: 'https://open.spotify.com/artist/5luJER4km8jajUxHlIH9R5'
 discography_enriched: true
 top_tracks:
-- Things Have Changed (Gumbo Stew)
-- Need You (More Gumbo Stew)
-- 'She Put The Hurt On Me (The Sue Records Story: The Sound Of Soul)'
-- She Put the Hurt on Me (Come Back to Me)
-- 'Gettin'' Married Soon (The Sue Records Story: The Sound Of Soul)'
-- 'Come Back To Me (The Sue Records Story: The Sound Of Soul)'
-- She Put the Hurt on Me (Chills & Fever)
-- 'She Put the Hurt on Me (Soul City New Orleans: Big Easy Gems from the Dawn of Soul Music)'
-- Come Back to Me (Best Of Stacks, Vol. 1 - Soul Music Collected)
-- She Put The Hurt On Me (Sue Records' Greatest Hits)
+  - Things Have Changed (Gumbo Stew)
+  - Need You (More Gumbo Stew)
+  - 'She Put The Hurt On Me (The Sue Records Story: The Sound Of Soul)'
+  - She Put the Hurt on Me (Come Back to Me)
+  - 'Gettin'' Married Soon (The Sue Records Story: The Sound Of Soul)'
+  - 'Come Back To Me (The Sue Records Story: The Sound Of Soul)'
+  - She Put the Hurt on Me (Chills & Fever)
+  - >-
+    She Put the Hurt on Me (Soul City New Orleans: Big Easy Gems from the Dawn
+    of Soul Music)
+  - 'Come Back to Me (Best Of Stacks, Vol. 1 - Soul Music Collected)'
+  - She Put The Hurt On Me (Sue Records' Greatest Hits)
 external_urls:
-  spotify: https://open.spotify.com/artist/5luJER4km8jajUxHlIH9R5
-  wikipedia: https://en.wikipedia.org/wiki/Prince_La_La
+  spotify: 'https://open.spotify.com/artist/5luJER4km8jajUxHlIH9R5'
+  wikipedia: 'https://en.wikipedia.org/wiki/Prince_La_La'
 image_path: 03_Resources/source_material/ArtistPortraits/prince_la_la.jpg
 biography_enhanced_at: '2025-10-22T09:24:45.274087'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Prince_La_La
-- https://homeofthegroove.blogspot.com/2005/08/how-la-la-became-prince.html
+  - 'https://en.wikipedia.org/wiki/Prince_La_La'
+  - 'https://homeofthegroove.blogspot.com/2005/08/how-la-la-became-prince.html'
 network_extracted: true
 entry_created: '2025-10-22T09:24:45.274103'
 last_updated: '2025-12-23T08:16:14.454842'
+origin: 'New Orleans, Louisiana, United States'
+death_date: '1963'
+artist_type: person
 ---
 
 ![](prince_la_la.jpg)

@@ -2,22 +2,22 @@
 title: Johnathan Blake
 wiki_slug: johnathan-blake
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1976-06-01'
-birth_place: Philadelphia, Pennsylvania, USA
+birth_place: 'Philadelphia, Pennsylvania, USA'
 genres:
-- jazz
+  - jazz
 instruments:
-- congas
-- original
-- drums (drum set)
+  - congas
+  - original
+  - drums (drum set)
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Johnathan_Blake.jpg
   caption: Johnathan Blake
   background: non_vocal_instrumentalist
   born: '1976-06-01'
-  origin: Philadelphia, Pennsylvania, USA
+  origin: 'Philadelphia, Pennsylvania, USA'
 audio_profile:
   tempo_avg: 112.2
   energy_avg: 0.308
@@ -33,50 +33,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kenny Barron
-  - Tom Harrell
-  - Maria Schneider
-  - Dr. Lonnie Smith
-  - Immanuel Wilkins, Joel Ross, David Virelles, Dezron Douglas
-  - Pharoah Sanders, Ravi Coltrane, Donny McCaslin, Bill Frisell
+    - Kenny Barron
+    - Tom Harrell
+    - Maria Schneider
+    - Dr. Lonnie Smith
+    - 'Immanuel Wilkins, Joel Ross, David Virelles, Dezron Douglas'
+    - 'Pharoah Sanders, Ravi Coltrane, Donny McCaslin, Bill Frisell'
   influenced:
-  - Immanuel Wilkins
+    - Immanuel Wilkins
   mentors:
-  - John Blake, Jr.
-  - Lovett Hines
-  - Rufus Reid
-  - John Riley
-  - Stanley Cowell
+    - 'John Blake, Jr.'
+    - Lovett Hines
+    - Rufus Reid
+    - John Riley
+    - Stanley Cowell
 spotify_data:
   followers: 8719
   id: 5FzOdzC3xUlGuFNNOQ4Xms
   popularity: 36
-  url: https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms
+  url: 'https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms'
 discography_enriched: true
 top_tracks:
-- The Lion Turtle
-- Abiyoyo (Homeward Bound)
-- The Nearness of You
-- Isabela (Isabela)
-- Tears I Cannot Hide (Passage)
-- The Lion Turtle (Isabela)
-- Out of Sight, Out of Mind (Passage)
-- TIGER MARCH (DANSE MACABRE)
-- Groundhog Day (Passage)
-- The Nearness of You (Beyond This Place)
+  - The Lion Turtle
+  - Abiyoyo (Homeward Bound)
+  - The Nearness of You
+  - Isabela (Isabela)
+  - Tears I Cannot Hide (Passage)
+  - The Lion Turtle (Isabela)
+  - 'Out of Sight, Out of Mind (Passage)'
+  - TIGER MARCH (DANSE MACABRE)
+  - Groundhog Day (Passage)
+  - The Nearness of You (Beyond This Place)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/11b75b19-1265-4ee6-85a3-b68a7dfa9b9b
-  spotify: https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms
-  wikipedia: https://en.wikipedia.org/wiki/Johnathan_Blake
+  musicbrainz: 'https://musicbrainz.org/artist/11b75b19-1265-4ee6-85a3-b68a7dfa9b9b'
+  spotify: 'https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms'
+  wikipedia: 'https://en.wikipedia.org/wiki/Johnathan_Blake'
 image_path: 03_Resources/source_material/ArtistPortraits/Johnathan_Blake.jpg
 biography_enhanced_at: '2025-10-19T10:27:41.314536'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.bluenote.com/artist/johnathan-blake/
-- https://www.charlesmingus.com/johnathan-blake
-- https://www.sfjazz.org/onthecorner/articles/5-things-you-should-know-about-johnathan-blake/
-- https://www.jazzhot.net/PBCPPlayer.asp?ID=1548294
+  - 'https://www.bluenote.com/artist/johnathan-blake/'
+  - 'https://www.charlesmingus.com/johnathan-blake'
+  - >-
+    https://www.sfjazz.org/onthecorner/articles/5-things-you-should-know-about-johnathan-blake/
+  - 'https://www.jazzhot.net/PBCPPlayer.asp?ID=1548294'
 network_extracted: true
 entry_created: '2025-10-19T10:27:41.314542'
 last_updated: '2025-12-23T08:16:02.666832'
@@ -84,8 +85,8 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:32:15.533689'
 musicbrainz_id: 11b75b19-1265-4ee6-85a3-b68a7dfa9b9b
 tags:
-- jazz
-- post-bop
+  - jazz
+  - post-bop
 ---
 
 ![](Johnathan_Blake.jpg)

@@ -2,24 +2,24 @@
 title: Todd Snider
 wiki_slug: todd-snider
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1966-10-11'
-birth_place: Portland, Oregon, United States
+birth_place: 'Portland, Oregon, United States'
 genres:
-- alt country
-- americana
-- red dirt
-- texas country
+  - alt country
+  - americana
+  - red dirt
+  - texas country
 instruments:
-- lead vocals
-- original
+  - lead vocals
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Todd_Snider.jpg
   caption: Todd Snider
   background: solo_singer
   born: '1966-10-11'
-  origin: Portland, Oregon, United States
+  origin: 'Portland, Oregon, United States'
 audio_profile:
   tempo_avg: 115.1
   energy_avg: 0.476
@@ -35,52 +35,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Will Kimbrough
-  - Dave Jacques
-  - Patty Griffin
-  - Keith Sykes
-  - Eric McConnell
+    - Will Kimbrough
+    - Dave Jacques
+    - Patty Griffin
+    - Keith Sykes
+    - Eric McConnell
   influenced:
-  - Hayes Carll
-  - Sierra Ferrell
+    - Hayes Carll
+    - Sierra Ferrell
   mentors:
-  - John Prine
-  - Jerry Jeff Walker
-  - Kris Kristofferson
-  - Jimmy Buffett
-  - Guy Clark
+    - John Prine
+    - Jerry Jeff Walker
+    - Kris Kristofferson
+    - Jimmy Buffett
+    - Guy Clark
 spotify_data:
   followers: 91248
   id: 6uXJm6sZx9IVPrN2laTOP5
   popularity: 36
-  url: https://open.spotify.com/artist/6uXJm6sZx9IVPrN2laTOP5
+  url: 'https://open.spotify.com/artist/6uXJm6sZx9IVPrN2laTOP5'
 discography_enriched: true
 top_tracks:
-- Beer Run (New Connection)
-- I Can't Complain - Live (Near Truths and Hotel Rooms Live)
-- Fortunate Son (Peace Queer)
-- Alright Guy (Songs For The Daily Planet)
-- Beer Run (Extended) - Live (Near Truths and Hotel Rooms Live)
-- Statistician's Blues - Live (Near Truths and Hotel Rooms Live)
-- The Ballad of the Kingsmen (East Nashville Skyline)
-- Play a Train Song (East Nashville Skyline)
-- Conservative, Christian, Right Wing Republican, Straight, White, American Males (East Nashville Skyline)
-- Enjoy Yourself (East Nashville Skyline)
+  - Beer Run (New Connection)
+  - I Can't Complain - Live (Near Truths and Hotel Rooms Live)
+  - Fortunate Son (Peace Queer)
+  - Alright Guy (Songs For The Daily Planet)
+  - Beer Run (Extended) - Live (Near Truths and Hotel Rooms Live)
+  - Statistician's Blues - Live (Near Truths and Hotel Rooms Live)
+  - The Ballad of the Kingsmen (East Nashville Skyline)
+  - Play a Train Song (East Nashville Skyline)
+  - >-
+    Conservative, Christian, Right Wing Republican, Straight, White, American
+    Males (East Nashville Skyline)
+  - Enjoy Yourself (East Nashville Skyline)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/25c13ec7-fad4-4da4-8d98-9607ff615d68
-  spotify: https://open.spotify.com/artist/6uXJm6sZx9IVPrN2laTOP5
-  wikipedia: https://en.wikipedia.org/wiki/Todd_Snider
+  musicbrainz: 'https://musicbrainz.org/artist/25c13ec7-fad4-4da4-8d98-9607ff615d68'
+  spotify: 'https://open.spotify.com/artist/6uXJm6sZx9IVPrN2laTOP5'
+  wikipedia: 'https://en.wikipedia.org/wiki/Todd_Snider'
 image_path: 03_Resources/source_material/ArtistPortraits/Todd_Snider.jpg
 biography_enhanced_at: '2025-10-20T01:48:46.211938'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Todd_Snider
-- https://toddsnider.net/bio/
-- https://downtownflagstaff.org/do/todd-snider-1
-- https://mokbpresents.com/artist/todd-snider/
-- https://lonestarmusicmagazine.com/mr-record-man-todd-snider/
-- https://www.nashvillescene.com/news/how-todd-snider-a-freewheeling-barefoot-hippie-became-one-of-nashville-s-most-respected-musical/article_00f26740-f543-5720-92b8-f0083f425da6.html
+  - 'https://en.wikipedia.org/wiki/Todd_Snider'
+  - 'https://toddsnider.net/bio/'
+  - 'https://downtownflagstaff.org/do/todd-snider-1'
+  - 'https://mokbpresents.com/artist/todd-snider/'
+  - 'https://lonestarmusicmagazine.com/mr-record-man-todd-snider/'
+  - >-
+    https://www.nashvillescene.com/news/how-todd-snider-a-freewheeling-barefoot-hippie-became-one-of-nashville-s-most-respected-musical/article_00f26740-f543-5720-92b8-f0083f425da6.html
 network_extracted: true
 entry_created: '2025-10-20T01:48:46.211948'
 last_updated: '2025-12-23T08:16:04.180197'
@@ -88,10 +91,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:47:01.947158'
 musicbrainz_id: 25c13ec7-fad4-4da4-8d98-9607ff615d68
 tags:
-- alternative country
-- americana
-- folk
-
+  - alternative country
+  - americana
+  - folk
+origin: 'San Marcos, Texas, United States'
 ---
 
 ![](Todd_Snider.jpg)

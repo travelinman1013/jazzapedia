@@ -1,15 +1,15 @@
 ---
-title: Slim PIckens
+title: Slim Pickens
 wiki_slug: slim-pickens
 schema_version: 2
 status: active
-birth_place: Byron Bay, New South Wales, Australia
+birth_place: 'Byron Bay, New South Wales, Australia'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/slim_pickens.jpg
   caption: Slim PIckens
   background: solo_singer
-  origin: Byron Bay, New South Wales, Australia
+  origin: 'Byron Bay, New South Wales, Australia'
 audio_profile:
   tempo_avg: 93.2
   energy_avg: 0.792
@@ -25,40 +25,43 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dr. Baz
-  - Neil McCann
-  - Dougie Bull
-  - Ray Cullen
-  - Gleny Rae
-  - Warren Earl
+    - Dr. Baz
+    - Neil McCann
+    - Dougie Bull
+    - Ray Cullen
+    - Gleny Rae
+    - Warren Earl
   influenced: []
   mentors:
-  - Woody Guthrie
-  - Ramblin' Jack Elliott
-  - Ry Cooder
-  - Hank Williams
+    - Woody Guthrie
+    - Ramblin' Jack Elliott
+    - Ry Cooder
+    - Hank Williams
 spotify_data:
   followers: 0
   id: 6lVpla5kLYTA50u8WXBoPD
   popularity: 0
-  url: https://open.spotify.com/artist/6lVpla5kLYTA50u8WXBoPD
+  url: 'https://open.spotify.com/artist/6lVpla5kLYTA50u8WXBoPD'
 discography_enriched: true
 top_tracks:
-- Go Nuts (A Moment To Reflect, Vol. 3)
+  - 'Go Nuts (A Moment To Reflect, Vol. 3)'
 external_urls:
-  spotify: https://open.spotify.com/artist/6lVpla5kLYTA50u8WXBoPD
+  spotify: 'https://open.spotify.com/artist/6lVpla5kLYTA50u8WXBoPD'
   wikipedia: Not found for this artist
 image_path: ''
 biography_enhanced_at: '2025-12-09T05:18:11.412211'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://slimandbaz.bandcamp.com
-- https://onepagelink.com/slimpickens
-- https://www.steveterrellmusic.com/2023/06/throwback-thursday-musical-salute-to.html
+  - 'https://slimandbaz.bandcamp.com'
+  - 'https://onepagelink.com/slimpickens'
+  - >-
+    https://www.steveterrellmusic.com/2023/06/throwback-thursday-musical-salute-to.html
 network_extracted: true
 entry_created: '2025-12-09T05:18:11.412221'
 last_updated: '2025-12-23T08:16:15.753873'
+origin: 'Byron Bay, New South Wales, Australia'
+artist_type: person
 ---
 
 ![]()

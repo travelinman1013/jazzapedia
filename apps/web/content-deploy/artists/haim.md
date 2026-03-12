@@ -2,20 +2,20 @@
 title: Haim
 wiki_slug: haim
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '2006'
 genres: []
 instruments:
-- drums (drum set)
-- guitar
-- keyboard
-- lead vocals
-- original
-- percussion
-- bass guitar
-- background vocals
-- other vocals
+  - drums (drum set)
+  - guitar
+  - keyboard
+  - lead vocals
+  - original
+  - percussion
+  - bass guitar
+  - background vocals
+  - other vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/haim.jpg
   caption: Haim
@@ -36,88 +36,88 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Taylor Swift
-  - Julian Casablancas
-  - Jenny Lewis
+    - Taylor Swift
+    - Julian Casablancas
+    - Jenny Lewis
   influenced:
-  - Boygenius
-  - The Marías
+    - Boygenius
+    - The Marías
   mentors:
-  - Moti Haim
-  - Fleetwood Mac
+    - Moti Haim
+    - Fleetwood Mac
 spotify_data:
   followers: 1435924
   id: 4Ui2kfOqGujY81UcPrb5KE
   popularity: 65
-  url: https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE
+  url: 'https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE'
 discography_enriched: true
 top_tracks:
-- Relationships
-- Relationships
-- no body, no crime (feat. HAIM) (evermore)
-- Pray to God (feat. HAIM) (Motion)
-- no body, no crime (feat. HAIM) (evermore (deluxe version))
-- All over me (I quit)
-- All over me (I quit)
-- Gasoline (feat. Taylor Swift) (Women In Music Pt III (Expanded Edition))
-- The Wire (Days Are Gone (Deluxe Edition))
-- no body, no crime (feat. HAIM) (evermore)
+  - Relationships
+  - Relationships
+  - 'no body, no crime (feat. HAIM) (evermore)'
+  - Pray to God (feat. HAIM) (Motion)
+  - 'no body, no crime (feat. HAIM) (evermore (deluxe version))'
+  - All over me (I quit)
+  - All over me (I quit)
+  - Gasoline (feat. Taylor Swift) (Women In Music Pt III (Expanded Edition))
+  - The Wire (Days Are Gone (Deluxe Edition))
+  - 'no body, no crime (feat. HAIM) (evermore)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/aef06569-098f-4218-a577-b413944d9493
-  spotify: https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE
-  wikipedia: https://en.wikipedia.org/wiki/Haim_(band)
+  musicbrainz: 'https://musicbrainz.org/artist/aef06569-098f-4218-a577-b413944d9493'
+  spotify: 'https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE'
+  wikipedia: 'https://en.wikipedia.org/wiki/Haim_(band)'
 image_path: 03_Resources/source_material/ArtistPortraits/haim.jpg
 biography_enhanced_at: '2025-10-26T12:42:16.340713'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/HAIM/+wiki
-- https://www.thealinemag.com/features/haim
-- https://www.heyalma.com/haims-origin-story-wonderfully-jewish/
-- https://numero.com/en/culture-en/how-did-the-band-haim-conquer-pop-culture/
+  - 'https://www.last.fm/music/HAIM/+wiki'
+  - 'https://www.thealinemag.com/features/haim'
+  - 'https://www.heyalma.com/haims-origin-story-wonderfully-jewish/'
+  - 'https://numero.com/en/culture-en/how-did-the-band-haim-conquer-pop-culture/'
 network_extracted: true
 entry_created: '2025-10-26T12:42:16.340722'
 last_updated: '2025-12-23T08:16:09.441033'
 disambiguation: US pop‐rock trio
 members:
-- begin: '2012'
-  end: '2017'
-  instruments:
-  - drums (drum set)
-  mbid: 73669ef9-9276-49d3-81d9-154f44ce3f85
-  name: Dash Hutton
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  - keyboard
-  - lead vocals
-  - original
-  - percussion
-  mbid: 3e308b4a-c8d0-4883-8c38-e2953002a882
-  name: Alana Haim
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  - lead vocals
-  - original
-  mbid: de250d68-9b30-4cfd-8c48-5cf288733bee
-  name: Danielle Haim
-- begin: ''
-  end: ''
-  instruments:
-  - bass guitar
-  - lead vocals
-  - original
-  mbid: 85de81eb-23d1-4536-b757-e0dda9c57129
-  name: Este Haim
+  - begin: '2012'
+    end: '2017'
+    instruments:
+      - drums (drum set)
+    mbid: 73669ef9-9276-49d3-81d9-154f44ce3f85
+    name: Dash Hutton
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+      - keyboard
+      - lead vocals
+      - original
+      - percussion
+    mbid: 3e308b4a-c8d0-4883-8c38-e2953002a882
+    name: Alana Haim
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+      - lead vocals
+      - original
+    mbid: de250d68-9b30-4cfd-8c48-5cf288733bee
+    name: Danielle Haim
+  - begin: ''
+    end: ''
+    instruments:
+      - bass guitar
+      - lead vocals
+      - original
+    mbid: 85de81eb-23d1-4536-b757-e0dda9c57129
+    name: Este Haim
 musicbrainz_id: aef06569-098f-4218-a577-b413944d9493
-origin: Los Angeles
+origin: 'Los Angeles, California, United States'
 tags:
-- alternative rock
-- indie pop
-- indie rock
+  - alternative rock
+  - indie pop
+  - indie rock
 ---
 
 ![](haim.jpg)

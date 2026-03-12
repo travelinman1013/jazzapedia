@@ -1,20 +1,20 @@
 ---
-title: shaunmusiq & young stunna
+title: Shaunmusiq & Young Stunna
 wiki_slug: shaunmusiq-young-stunna
 schema_version: 2
 status: active
-birth_place: Daveyton, Gauteng, South Africa
+birth_place: 'Daveyton, Gauteng, South Africa'
 genres:
-- amapiano
-- gqom
-- afropiano
-- bacardi
-- private school piano
+  - amapiano
+  - gqom
+  - afropiano
+  - bacardi
+  - private school piano
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/shaunmusiq_and_young_stunna.jpg
   caption: shaunmusiq & young stunna
   background: solo_singer
-  origin: Daveyton, Gauteng, South Africa
+  origin: 'Daveyton, Gauteng, South Africa'
 audio_profile:
   tempo_avg: 113.8
   energy_avg: 0.604
@@ -30,49 +30,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - DJ Maphorisa
-  - Kabza De Small
-  - Blxckie
-  - Sizwe Alakine
-  - Felo Le Tee & Mellow & Sleazy
+    - DJ Maphorisa
+    - Kabza De Small
+    - Blxckie
+    - Sizwe Alakine
+    - Felo Le Tee & Mellow & Sleazy
   influenced:
-  - Emerging Amapiano Artists
+    - Emerging Amapiano Artists
   mentors:
-  - Focalistic
-  - DJ Maphorisa
-  - Kabza De Small
+    - Focalistic
+    - DJ Maphorisa
+    - Kabza De Small
 spotify_data:
   followers: 185575
   id: 5fds40CKwV1XZgn3IH89Gd
   popularity: 47
-  url: https://open.spotify.com/artist/5fds40CKwV1XZgn3IH89Gd
+  url: 'https://open.spotify.com/artist/5fds40CKwV1XZgn3IH89Gd'
 discography_enriched: true
 top_tracks:
-- Bhebha (feat. Myztro, Mellow & Sleazy, QuayR Musiq & Matuteboy)
-- Beke le Beke (feat. Bontle Smith) (Cishe Nga Posta)
-- Thata Ahh (feat. Young Stunna, Madumane & Tyla)
-- Cishe Nga Posta (Cishe Nga Posta)
-- Phezulu (feat. Xduppy, CowBoii, Scotts Maphuma & ShaunMusiQ & Ftears)
-- Kunkra (feat. Xduppy & ShaunMusiq & Ftears)
-- AMAPHUTHA (feat. Shaunmusiq & Ftears) (PIATO (A Different Chapter))
-- uShaka (feat. DJ Maphorisa & Visca)
-- Bana Ba (feat. Tyla & Shaunmusiq & Ftears) (DALI DALI)
-- Welile (cula) (feat. Leemckrazy) (Welile)
+  - 'Bhebha (feat. Myztro, Mellow & Sleazy, QuayR Musiq & Matuteboy)'
+  - Beke le Beke (feat. Bontle Smith) (Cishe Nga Posta)
+  - 'Thata Ahh (feat. Young Stunna, Madumane & Tyla)'
+  - Cishe Nga Posta (Cishe Nga Posta)
+  - 'Phezulu (feat. Xduppy, CowBoii, Scotts Maphuma & ShaunMusiQ & Ftears)'
+  - Kunkra (feat. Xduppy & ShaunMusiq & Ftears)
+  - AMAPHUTHA (feat. Shaunmusiq & Ftears) (PIATO (A Different Chapter))
+  - uShaka (feat. DJ Maphorisa & Visca)
+  - Bana Ba (feat. Tyla & Shaunmusiq & Ftears) (DALI DALI)
+  - Welile (cula) (feat. Leemckrazy) (Welile)
 external_urls:
-  spotify: https://open.spotify.com/artist/5fds40CKwV1XZgn3IH89Gd
-  wikipedia: https://en.wikipedia.org/wiki/Young_Stunna
+  spotify: 'https://open.spotify.com/artist/5fds40CKwV1XZgn3IH89Gd'
+  wikipedia: 'https://en.wikipedia.org/wiki/Young_Stunna'
 image_path: 03_Resources/source_material/ArtistPortraits/shaunmusiq_and_young_stunna.jpg
 biography_enhanced_at: '2025-10-19T12:34:32.669320'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Young_Stunna
-- https://www.studocu.com/en-za/document/university-of-south-africa/historical-foundations-of-south-african-law/young-stunna-biography/103074087
-- https://www.gq.co.za/culture/entertainment/young-stunna-is-the-golden-boy-of-amapiano-8fbe2c33-9464-4382-be55-4462093fba2b
-- https://www.africanmusiclibrary.org/person/45454b00-ad42-4712-b1cd-ace1781613db
+  - 'https://en.wikipedia.org/wiki/Young_Stunna'
+  - >-
+    https://www.studocu.com/en-za/document/university-of-south-africa/historical-foundations-of-south-african-law/young-stunna-biography/103074087
+  - >-
+    https://www.gq.co.za/culture/entertainment/young-stunna-is-the-golden-boy-of-amapiano-8fbe2c33-9464-4382-be55-4462093fba2b
+  - >-
+    https://www.africanmusiclibrary.org/person/45454b00-ad42-4712-b1cd-ace1781613db
 network_extracted: true
 entry_created: '2025-10-19T12:34:32.669340'
 last_updated: '2025-12-23T08:16:15.537761'
+artist_type: person
 ---
 
 ![](shaunmusiq_and_young_stunna.jpg)

@@ -1,43 +1,45 @@
 ---
 biography_enhanced_at: '2026-01-21T01:18:29.272895'
-birth_place: Milwaukee, Wisconsin, United States
+birth_place: 'Milwaukee, Wisconsin, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-21T01:18:29.272901'
 external_urls:
-  spotify: https://open.spotify.com/artist/44gLY8zUnF4xRzi4X0zl1n
-  wikipedia: https://en.wikipedia.org/wiki/Carl_Allen_(drummer)
+  spotify: 'https://open.spotify.com/artist/44gLY8zUnF4xRzi4X0zl1n'
+  wikipedia: 'https://en.wikipedia.org/wiki/Carl_Allen_(drummer)'
 genres:
-- jazz
-- jazz ballads
+  - jazz
+  - jazz ballads
 image_path: 03_Resources/source_material/ArtistPortraits/carl_allen.jpg
 last_updated: '2026-01-21T01:18:29.272901'
 musical_connections:
   collaborators:
-  - Freddie Hubbard
-  - Christian McBride
-  - Vincent Herring
-  - Sonny Stitt
-  - James Moody
+    - Freddie Hubbard
+    - Christian McBride
+    - Vincent Herring
+    - Sonny Stitt
+    - James Moody
   influenced: []
   mentors:
-  - Benny Carter
+    - Benny Carter
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://multiculturalartscenter.org/carlallen/
-- https://conservatory.umkc.edu/profiles/carl-allen.html
-- https://en.wikipedia.org/wiki/Carl_Allen_(drummer)
-- https://jazzleadsheets.com/artists/carl-allen-artist.html
-- https://zildjian.com/blogs/artist/carl-allen
-- https://www.midwestclinic.org/2025_clinician_Carl_Allen
-- https://www.downtownakron.com/event/carl-allen-masterclass
+  - 'https://multiculturalartscenter.org/carlallen/'
+  - 'https://conservatory.umkc.edu/profiles/carl-allen.html'
+  - 'https://en.wikipedia.org/wiki/Carl_Allen_(drummer)'
+  - 'https://jazzleadsheets.com/artists/carl-allen-artist.html'
+  - 'https://zildjian.com/blogs/artist/carl-allen'
+  - 'https://www.midwestclinic.org/2025_clinician_Carl_Allen'
+  - 'https://www.downtownakron.com/event/carl-allen-masterclass'
 spotify_data:
   followers: 1461
   id: 44gLY8zUnF4xRzi4X0zl1n
   popularity: 26
-  url: https://open.spotify.com/artist/44gLY8zUnF4xRzi4X0zl1n
+  url: 'https://open.spotify.com/artist/44gLY8zUnF4xRzi4X0zl1n'
 status: active
-title: carl allen
+title: Carl Allen
+birth_date: '1961-04-25'
+artist_type: person
 ---
 
 ![](carl_allen.jpg)

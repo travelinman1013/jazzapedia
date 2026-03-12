@@ -4,9 +4,10 @@ wiki_slug: durand-jones-the-indications-aaron-frazer
 schema_version: 2
 status: active
 genres:
-- retro soul
+  - retro soul
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/durand_jones_and_the_indications_and_aaron_frazer.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/durand_jones_and_the_indications_and_aaron_frazer.jpg
   caption: Durand Jones & The Indications & Aaron Frazer
   background: solo_singer
 audio_profile:
@@ -16,7 +17,7 @@ audio_profile:
   danceability_avg: 0.634
   acousticness_avg: 0.422
   instrumentalness_avg: 0.123
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.051
   liveness_avg: 0.139
   track_count: 50
@@ -24,50 +25,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Durand Jones
-  - Blake Rhein
-  - Steve Okonski
-  - Dan Auerbach
-  - Joel Ross
+    - Durand Jones
+    - Blake Rhein
+    - Steve Okonski
+    - Dan Auerbach
+    - Joel Ross
   influenced:
-  - '79.5'
+    - '79.5'
   mentors:
-  - Mississippi John Hurt
-  - Jerry Butler
+    - Mississippi John Hurt
+    - Jerry Butler
 spotify_data:
   followers: 495468
   id: 6TVVIyd0fsRDGg6WzHKyTP
   popularity: 63
-  url: https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP
+  url: 'https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP'
 discography_enriched: true
 top_tracks:
-- Sea Gets Hotter (American Love Call)
-- Witchoo (Private Space)
-- Is It Any Wonder? (Durand Jones & The Indications)
-- Cruisin to the Park (Cruisin to the Park)
-- Been So Long (Been So Long)
-- The Way That I Do (Private Space)
-- Love Will Work It Out (Private Space)
-- Circles (American Love Call)
-- Too Many Tears (American Love Call)
-- Ride or Die (Private Space)
+  - Sea Gets Hotter (American Love Call)
+  - Witchoo (Private Space)
+  - Is It Any Wonder? (Durand Jones & The Indications)
+  - Cruisin to the Park (Cruisin to the Park)
+  - Been So Long (Been So Long)
+  - The Way That I Do (Private Space)
+  - Love Will Work It Out (Private Space)
+  - Circles (American Love Call)
+  - Too Many Tears (American Love Call)
+  - Ride or Die (Private Space)
 external_urls:
-  spotify: https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP
-  wikipedia: https://en.wikipedia.org/wiki/Durand_Jones_%26_The_Indications
-image_path: 03_Resources/source_material/ArtistPortraits/durand_jones_and_the_indications_and_aaron_frazer.jpg
+  spotify: 'https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP'
+  wikipedia: 'https://en.wikipedia.org/wiki/Durand_Jones_%26_The_Indications'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/durand_jones_and_the_indications_and_aaron_frazer.jpg
 biography_enhanced_at: '2025-11-20T06:52:07.487685'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Durand_Jones_%26_The_Indications
-- https://www.blogowitz.com/2024/06/qa-with-aaron-frazer-of-durand-jones-the-indications/
-- https://www.last.fm/music/Aaron+Frazer/+wiki
-- https://aaronfrazermusic.com
-- https://durandjonesandtheindications.com/about/
+  - 'https://en.wikipedia.org/wiki/Durand_Jones_%26_The_Indications'
+  - >-
+    https://www.blogowitz.com/2024/06/qa-with-aaron-frazer-of-durand-jones-the-indications/
+  - 'https://www.last.fm/music/Aaron+Frazer/+wiki'
+  - 'https://aaronfrazermusic.com'
+  - 'https://durandjonesandtheindications.com/about/'
 network_extracted: true
 entry_created: '2025-11-20T06:52:07.487727'
 last_updated: '2025-12-23T08:16:08.084136'
-origin: Bloomington, Indiana, United States (band origin); Baltimore, Maryland, United States (Aaron Frazer birthplace)
+origin: >-
+  Bloomington, Indiana, United States (band origin); Baltimore, Maryland, United
+  States (Aaron Frazer birthplace)
+birth_place: 'Baltimore, Maryland, United States'
+artist_type: person
 ---
 
 ![](durand_jones_and_the_indications_and_aaron_frazer.jpg)

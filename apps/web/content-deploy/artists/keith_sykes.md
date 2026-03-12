@@ -3,13 +3,17 @@ title: Keith Sykes
 wiki_slug: keith-sykes
 schema_version: 2
 status: active
-birth_place: Murray, Kentucky, USA (birthplace); Memphis, Tennessee, USA (primary residence and career base)
+birth_place: >-
+  Murray, Kentucky, USA (birthplace); Memphis, Tennessee, USA (primary residence
+  and career base)
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/keith_sykes.jpg
   caption: Keith Sykes
   background: solo_singer
-  origin: Murray, Kentucky, USA (birthplace); Memphis, Tennessee, USA (primary residence and career base)
+  origin: >-
+    Murray, Kentucky, USA (birthplace); Memphis, Tennessee, USA (primary
+    residence and career base)
 audio_profile:
   tempo_avg: 120.8
   energy_avg: 0.515
@@ -25,49 +29,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mark (bass player)
-  - Larry Raspberry
-  - Phillip Rauls
-  - Todd Snider
-  - Kelcy Warren
+    - Mark (bass player)
+    - Larry Raspberry
+    - Phillip Rauls
+    - Todd Snider
+    - Kelcy Warren
   influenced:
-  - Rosanne Cash
-  - George Thorogood
+    - Rosanne Cash
+    - George Thorogood
   mentors:
-  - Bob Dylan
+    - Bob Dylan
 spotify_data:
   followers: 1257
   id: 5PQLzkmgugGrIl2v7yWiBk
   popularity: 12
-  url: https://open.spotify.com/artist/5PQLzkmgugGrIl2v7yWiBk
+  url: 'https://open.spotify.com/artist/5PQLzkmgugGrIl2v7yWiBk'
 discography_enriched: true
 top_tracks:
-- Come as You Are Beach Bar (Single Mix)
-- Little Beach Town
-- Country Morning Music (Don't Count Us Out)
-- Let's Put It Off
-- 'Love to Ride (Retrospective: Vol. 1)'
-- Lavender Blue (with Iris Dement) (Don't Count Us Out)
-- 'I''m Not Strange, I''m Just Like You (Retrospective: Vol. 1)'
-- Come as You Are Beach Bar (Single Mix)
-- Country Morning Music (Don't Count Us Out)
-- High Time
+  - Come as You Are Beach Bar (Single Mix)
+  - Little Beach Town
+  - Country Morning Music (Don't Count Us Out)
+  - Let's Put It Off
+  - 'Love to Ride (Retrospective: Vol. 1)'
+  - Lavender Blue (with Iris Dement) (Don't Count Us Out)
+  - 'I''m Not Strange, I''m Just Like You (Retrospective: Vol. 1)'
+  - Come as You Are Beach Bar (Single Mix)
+  - Country Morning Music (Don't Count Us Out)
+  - High Time
 external_urls:
-  spotify: https://open.spotify.com/artist/5PQLzkmgugGrIl2v7yWiBk
+  spotify: 'https://open.spotify.com/artist/5PQLzkmgugGrIl2v7yWiBk'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/keith_sykes.jpg
 biography_enhanced_at: '2025-11-24T08:33:51.697684'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- keithsykes.com/about/
-- fatpete.com/artists/keith-sykes/
-- keithsykes.com
-- allmusic.com/artist/keith-sykes-mn0000767115
-- grokipedia.com/page/Keith_Sykes_(musician)
+  - keithsykes.com/about/
+  - fatpete.com/artists/keith-sykes/
+  - keithsykes.com
+  - allmusic.com/artist/keith-sykes-mn0000767115
+  - grokipedia.com/page/Keith_Sykes_(musician)
 network_extracted: true
 entry_created: '2025-11-24T08:33:51.697688'
 last_updated: '2025-12-23T08:16:11.260810'
+origin: 'Memphis, Tennessee, United States'
+birth_date: '1948-10-24'
+artist_type: person
 ---
 
 ![](keith_sykes.jpg)

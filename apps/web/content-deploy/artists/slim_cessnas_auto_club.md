@@ -1,12 +1,12 @@
 ---
-title: slim cessna's auto club
+title: Slim Cessna's Auto Club
 wiki_slug: slim-cessnas-auto-club
 schema_version: 2
 status: active
 genres:
-- gothic country
-- alt country
-- americana
+  - gothic country
+  - alt country
+  - americana
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/slim_cessnas_auto_club.jpg
   caption: slim cessna's auto club
@@ -26,52 +26,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Munly Munly
-  - Lord Dwight Pentacost
-  - Rebecca Vera
-  - George Cessna
-  - Wayfarer
+    - Munly Munly
+    - Lord Dwight Pentacost
+    - Rebecca Vera
+    - George Cessna
+    - Wayfarer
   influenced:
-  - Wayfarer
-  - Denver music scene artists
+    - Wayfarer
+    - Denver music scene artists
   mentors:
-  - Traditional Country and Folk Musicians
+    - Traditional Country and Folk Musicians
 spotify_data:
   followers: 17580
   id: 4hadRvyBwQwfETFBEUUaru
   popularity: 19
-  url: https://open.spotify.com/artist/4hadRvyBwQwfETFBEUUaru
+  url: 'https://open.spotify.com/artist/4hadRvyBwQwfETFBEUUaru'
 discography_enriched: true
 top_tracks:
-- This Is How We Do Things In The Country (The Bloudy Tenent Truth Peace)
-- Last Song About Satan (Always Say Please And Thank You)
-- All About The Bullfrog In Three Verses (Cipher)
-- Cranston (Buried Behind The Barn)
-- Pine Box (Always Say Please And Thank You)
-- This Land Is Our Land Redux (Cipher)
-- Children Of The Lord (Cipher)
-- A Smashing Indictment Of Character (Unentitled)
-- 'Goddamn Blue Yodel #7 (Always Say Please And Thank You)'
-- Magalina Hagalina Boom Boom (Cipher)
+  - This Is How We Do Things In The Country (The Bloudy Tenent Truth Peace)
+  - Last Song About Satan (Always Say Please And Thank You)
+  - All About The Bullfrog In Three Verses (Cipher)
+  - Cranston (Buried Behind The Barn)
+  - Pine Box (Always Say Please And Thank You)
+  - This Land Is Our Land Redux (Cipher)
+  - Children Of The Lord (Cipher)
+  - A Smashing Indictment Of Character (Unentitled)
+  - 'Goddamn Blue Yodel #7 (Always Say Please And Thank You)'
+  - Magalina Hagalina Boom Boom (Cipher)
 external_urls:
-  spotify: https://open.spotify.com/artist/4hadRvyBwQwfETFBEUUaru
-  wikipedia: https://en.wikipedia.org/wiki/Slim_Cessna%27s_Auto_Club
+  spotify: 'https://open.spotify.com/artist/4hadRvyBwQwfETFBEUUaru'
+  wikipedia: 'https://en.wikipedia.org/wiki/Slim_Cessna%27s_Auto_Club'
 image_path: 03_Resources/source_material/ArtistPortraits/slim_cessnas_auto_club.jpg
 biography_enhanced_at: '2025-11-22T07:41:15.135406'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.westword.com/music/the-gospel-of-denver-band-slim-cessnas-auto-club-18519313/
-- https://narcmagazine.com/slim-cessnas-auto-club/
-- https://www.lonesomehighway.com/interviewsold/2017/10/3/slim-cessna-interview.html
-- https://www.thepunksite.com/interviews/slim-cessnas-auto-club/
-- https://thestrangebrew.co.uk/slim-cessnas-auto-club/
-- https://en.wikipedia.org/wiki/Slim_Cessna%27s_Auto_Club
+  - >-
+    https://www.westword.com/music/the-gospel-of-denver-band-slim-cessnas-auto-club-18519313/
+  - 'https://narcmagazine.com/slim-cessnas-auto-club/'
+  - >-
+    https://www.lonesomehighway.com/interviewsold/2017/10/3/slim-cessna-interview.html
+  - 'https://www.thepunksite.com/interviews/slim-cessnas-auto-club/'
+  - 'https://thestrangebrew.co.uk/slim-cessnas-auto-club/'
+  - 'https://en.wikipedia.org/wiki/Slim_Cessna%27s_Auto_Club'
 network_extracted: true
 entry_created: '2025-11-22T07:41:15.135417'
 last_updated: '2025-12-23T08:16:15.740133'
-origin: Denver, Colorado, United States
-
+origin: 'Denver, Colorado, United States'
+artist_type: band
 ---
 
 ![](slim_cessnas_auto_club.jpg)

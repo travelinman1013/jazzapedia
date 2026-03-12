@@ -1,15 +1,15 @@
 ---
 biography_enhanced_at: '2026-01-02T01:26:34.712504'
-birth_place: Goliad, Texas, USA
+birth_place: 'Goliad, Texas, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-02T01:26:34.712510'
 external_urls:
-  spotify: https://open.spotify.com/artist/2w9Z4TS6UQ51hnFIMn3CSx
+  spotify: 'https://open.spotify.com/artist/2w9Z4TS6UQ51hnFIMn3CSx'
   wikipedia: ''
 genres:
-- country blues
-- modern blues
-- classic blues
+  - country blues
+  - modern blues
+  - classic blues
 image_path: ''
 last_updated: '2026-01-02T01:26:34.712511'
 musical_connections:
@@ -19,20 +19,22 @@ musical_connections:
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://sundayblues.org/?tag=james-tisdom
-- https://sentirelblues.blogspot.com/2023/08/james-tisdom.html
-- https://jukegh.blogspot.com/2024/04/
-- https://www.wirz.de/music/tisdom.htm
-- http://oldtimeblues.net/2019/06/
-- https://sundayblues.org/?p=16572
+  - 'https://sundayblues.org/?tag=james-tisdom'
+  - 'https://sentirelblues.blogspot.com/2023/08/james-tisdom.html'
+  - 'https://jukegh.blogspot.com/2024/04/'
+  - 'https://www.wirz.de/music/tisdom.htm'
+  - 'http://oldtimeblues.net/2019/06/'
+  - 'https://sundayblues.org/?p=16572'
 spotify_data:
   followers: 10
   id: 2w9Z4TS6UQ51hnFIMn3CSx
   popularity: 0
-  url: https://open.spotify.com/artist/2w9Z4TS6UQ51hnFIMn3CSx
+  url: 'https://open.spotify.com/artist/2w9Z4TS6UQ51hnFIMn3CSx'
 status: active
 title: James Tisdom
-
+birth_date: '1912-03-17'
+death_date: '1995-11-15'
+artist_type: person
 ---
 
 ![]()

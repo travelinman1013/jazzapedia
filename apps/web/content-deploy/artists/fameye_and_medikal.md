@@ -1,22 +1,22 @@
 ---
-title: fameye & medikal
+title: Fameye & Medikal
 wiki_slug: fameye-medikal
 schema_version: 2
 status: active
-birth_place: Bogoso, Western Region, Ghana (Fameye); Sowutuom, Accra, Ghana (Medikal)
+birth_place: 'Bogoso, Western Region, Ghana (Fameye); Sowutuom, Accra, Ghana (Medikal)'
 genres:
-- asakaa
-- hiplife
-- azonto
-- afrobeats
-- afrobeat
-- highlife
-- afropop
+  - asakaa
+  - hiplife
+  - azonto
+  - afrobeats
+  - afrobeat
+  - highlife
+  - afropop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/fameye_and_medikal.jpg
   caption: fameye & medikal
   background: solo_singer
-  origin: Bogoso, Western Region, Ghana (Fameye); Sowutuom, Accra, Ghana (Medikal)
+  origin: 'Bogoso, Western Region, Ghana (Fameye); Sowutuom, Accra, Ghana (Medikal)'
 audio_profile:
   tempo_avg: 117.4
   energy_avg: 0.701
@@ -32,48 +32,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Medikal
-  - Kuami Eugene
-  - Article Wan
-  - Liquidbeatz
+    - Medikal
+    - Kuami Eugene
+    - Article Wan
+    - Liquidbeatz
   influenced:
-  - Emerging Ghanaian rappers (e.g., Asakaa artists)
+    - 'Emerging Ghanaian rappers (e.g., Asakaa artists)'
   mentors:
-  - Okomfour Kwadee
+    - Okomfour Kwadee
 spotify_data:
   followers: 222862
   id: 0pPz4oYqGp2Co2Sx7ORiYL
   popularity: 47
-  url: https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL
+  url: 'https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL'
 discography_enriched: true
 top_tracks:
-- Tesco (Feat. Medikal) (The Big 6)
-- Shoulder
-- Kpo K3K3
-- NLF (Breakfast) (feat. Lyrical Joe, Medikal & Beeztrap KOTM) - Remix
-- Grind Day (Remix) [feat. Sarkodie & Medikal]
-- Boys Kasa (Site 15)
-- Gyae Me
-- DIFFERENT
-- This Year
-- WELCOME TO AFRICA
+  - Tesco (Feat. Medikal) (The Big 6)
+  - Shoulder
+  - Kpo K3K3
+  - 'NLF (Breakfast) (feat. Lyrical Joe, Medikal & Beeztrap KOTM) - Remix'
+  - 'Grind Day (Remix) [feat. Sarkodie & Medikal]'
+  - Boys Kasa (Site 15)
+  - Gyae Me
+  - DIFFERENT
+  - This Year
+  - WELCOME TO AFRICA
 external_urls:
-  spotify: https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL
-  wikipedia: https://en.wikipedia.org/wiki/Fameye
+  spotify: 'https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL'
+  wikipedia: 'https://en.wikipedia.org/wiki/Fameye'
 image_path: 03_Resources/source_material/ArtistPortraits/fameye_and_medikal.jpg
 biography_enhanced_at: '2025-10-19T12:33:57.080018'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Fameye
-- https://mdundo.com/news/19376
-- https://www.boomplay.com/buzz/1859374
-- https://en.wikipedia.org/wiki/Medikal
-- https://kexp.fmspins.com/fameye/history
+  - 'https://en.wikipedia.org/wiki/Fameye'
+  - 'https://mdundo.com/news/19376'
+  - 'https://www.boomplay.com/buzz/1859374'
+  - 'https://en.wikipedia.org/wiki/Medikal'
+  - 'https://kexp.fmspins.com/fameye/history'
 network_extracted: true
 entry_created: '2025-10-19T12:33:57.080027'
 last_updated: '2025-12-23T08:16:08.562826'
-
+birth_date: '1994-09-11'
+artist_type: person
 ---
 
 ![](fameye_and_medikal.jpg)

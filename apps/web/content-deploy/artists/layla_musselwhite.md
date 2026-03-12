@@ -1,17 +1,17 @@
 ---
-title: layla musselwhite
+title: Layla Musselwhite
 wiki_slug: layla-musselwhite
 schema_version: 2
 artist_type: person
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- footwork
+  - footwork
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/layla_musselwhite.jpg
   caption: layla musselwhite
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 122.6
   energy_avg: 0.368
@@ -27,46 +27,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jimbo Mathus
-  - Mike Napoletano
-  - Jimmy Robinson
+    - Jimbo Mathus
+    - Mike Napoletano
+    - Jimmy Robinson
   influenced: []
   mentors:
-  - Charlie Musselwhite
+    - Charlie Musselwhite
 spotify_data:
   followers: 144
   id: 0nCZWGyjpO0IJ75Yk8kcrS
   popularity: 0
-  url: https://open.spotify.com/artist/0nCZWGyjpO0IJ75Yk8kcrS
+  url: 'https://open.spotify.com/artist/0nCZWGyjpO0IJ75Yk8kcrS'
 discography_enriched: true
 top_tracks:
-- Days Are Filled with Dancing (American Primitive)
-- Juke Joint Blues (American Primitive)
-- Winter Wheat (American Primitive)
-- Sunflower River Blues (American Primitive)
-- Mississippi Chill (American Primitive)
-- Seachange (American Primitive)
-- Stingaree (American Primitive)
-- La Belle (American Primitive)
-- Heaven (American Primitive)
+  - Days Are Filled with Dancing (American Primitive)
+  - Juke Joint Blues (American Primitive)
+  - Winter Wheat (American Primitive)
+  - Sunflower River Blues (American Primitive)
+  - Mississippi Chill (American Primitive)
+  - Seachange (American Primitive)
+  - Stingaree (American Primitive)
+  - La Belle (American Primitive)
+  - Heaven (American Primitive)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/fc712152-68f2-4f21-be24-4aa9e9d72464
-  spotify: https://open.spotify.com/artist/0nCZWGyjpO0IJ75Yk8kcrS
+  musicbrainz: 'https://musicbrainz.org/artist/fc712152-68f2-4f21-be24-4aa9e9d72464'
+  spotify: 'https://open.spotify.com/artist/0nCZWGyjpO0IJ75Yk8kcrS'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/layla_musselwhite.jpg
 biography_enhanced_at: '2025-11-15T18:38:10.959473'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.laylamusselwhite.com
-- https://www.neworleans.com/listing/layla-musselwhite/46455/
-- https://troubledmenpodcast.castos.com/episodes/tmp239-layla-musselwhite-sings-the-blues
-- https://www.offbeat.com/articles/shes-got-it-new-orleans-helped-layla-musselwhite-play-the-blues/
+  - 'https://www.laylamusselwhite.com'
+  - 'https://www.neworleans.com/listing/layla-musselwhite/46455/'
+  - >-
+    https://troubledmenpodcast.castos.com/episodes/tmp239-layla-musselwhite-sings-the-blues
+  - >-
+    https://www.offbeat.com/articles/shes-got-it-new-orleans-helped-layla-musselwhite-play-the-blues/
 network_extracted: true
 entry_created: '2025-11-15T18:38:10.959484'
 last_updated: '2025-12-23T08:16:11.663088'
 gender: Female
 musicbrainz_id: fc712152-68f2-4f21-be24-4aa9e9d72464
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](layla_musselwhite.jpg)

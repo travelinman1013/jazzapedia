@@ -1,18 +1,18 @@
 ---
-title: jay randall
+title: Jay Randall
 wiki_slug: jay-randall
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
-birth_place: South Louisiana, USA
+birth_place: 'South Louisiana, USA'
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jay_randall.jpg
   caption: jay randall
   background: solo_singer
-  origin: South Louisiana, USA
+  origin: 'South Louisiana, USA'
 audio_profile:
   tempo_avg: 122.4
   energy_avg: 0.514
@@ -28,43 +28,44 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Swamp Gold Band
-  - Louisiana Swamp Pop Legends
+    - The Swamp Gold Band
+    - Louisiana Swamp Pop Legends
   influenced:
-  - Regional Louisiana Musicians
+    - Regional Louisiana Musicians
   mentors:
-  - Swamp Pop Pioneers (general)
+    - Swamp Pop Pioneers (general)
 spotify_data:
   followers: 172
   id: 0FoRSrqmcJwTELABocPVCl
   popularity: 1
-  url: https://open.spotify.com/artist/0FoRSrqmcJwTELABocPVCl
+  url: 'https://open.spotify.com/artist/0FoRSrqmcJwTELABocPVCl'
 discography_enriched: true
 top_tracks:
-- Oh Darling (The Best of Swamp Pop Classics)
-- Cherry Pie (Swamp Gold, Vol. 2)
-- Tell Her One More Time (The Best of Swamp Pop Classics)
-- Bad Bad Leroy Brown (Jay Walking - [The Dave Cash Collection])
-- I Want to Be Free (Best of Swamp Pop Classics Vol. 3)
-- One Night of Sin (Best of Swamp Pop Classics Vol. 3)
-- Never Have I (Super-Rare Teenage Bop, Vol. 4)
-- The Conversation (Swamp Music, Vol. 2)
-- Baby Scratch My Back (Jay Walking - [The Dave Cash Collection])
-- Haunted House (Jay Walking - [The Dave Cash Collection])
+  - Oh Darling (The Best of Swamp Pop Classics)
+  - 'Cherry Pie (Swamp Gold, Vol. 2)'
+  - Tell Her One More Time (The Best of Swamp Pop Classics)
+  - 'Bad Bad Leroy Brown (Jay Walking - [The Dave Cash Collection])'
+  - I Want to Be Free (Best of Swamp Pop Classics Vol. 3)
+  - One Night of Sin (Best of Swamp Pop Classics Vol. 3)
+  - 'Never Have I (Super-Rare Teenage Bop, Vol. 4)'
+  - 'The Conversation (Swamp Music, Vol. 2)'
+  - 'Baby Scratch My Back (Jay Walking - [The Dave Cash Collection])'
+  - 'Haunted House (Jay Walking - [The Dave Cash Collection])'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a9c1b29a-0db9-4c2f-bf73-1cef81339a51
-  spotify: https://open.spotify.com/artist/0FoRSrqmcJwTELABocPVCl
+  musicbrainz: 'https://musicbrainz.org/artist/a9c1b29a-0db9-4c2f-bf73-1cef81339a51'
+  spotify: 'https://open.spotify.com/artist/0FoRSrqmcJwTELABocPVCl'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/jay_randall.jpg
 biography_enhanced_at: '2025-10-19T11:56:58.288770'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.theadvertiser.com/story/entertainment/music/2015/09/17/museum-shines-spotlight-swamp-pop/32523729/
-- https://archive.evangelinetoday.com/local/swampy-gathering
-- https://kpel965.com/louisiana-swamp-pop-music-history/
-- https://flattownmusic.com/artist/page/14/
-- https://www.bear-family.com/randall-jay-the-swamp-gold-band/
+  - >-
+    https://www.theadvertiser.com/story/entertainment/music/2015/09/17/museum-shines-spotlight-swamp-pop/32523729/
+  - 'https://archive.evangelinetoday.com/local/swampy-gathering'
+  - 'https://kpel965.com/louisiana-swamp-pop-music-history/'
+  - 'https://flattownmusic.com/artist/page/14/'
+  - 'https://www.bear-family.com/randall-jay-the-swamp-gold-band/'
 network_extracted: true
 entry_created: '2025-10-19T11:56:58.288774'
 last_updated: '2025-12-23T08:16:10.262693'

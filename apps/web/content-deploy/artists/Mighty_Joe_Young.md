@@ -2,21 +2,21 @@
 title: Mighty Joe Young
 wiki_slug: mighty-joe-young
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 aliases: []
 birth_date: '1927-09-23'
-birth_place: Shreveport, Louisiana, United States
+birth_place: 'Shreveport, Louisiana, United States'
 death_date: '1999-03-27'
 genres:
-- blues
-- classic blues
+  - blues
+  - classic blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Mighty_Joe_Young.jpg
   caption: Mighty Joe Young
   background: solo_singer
   born: '1927-09-23'
-  origin: Shreveport, Louisiana, United States
+  origin: 'Shreveport, Louisiana, United States'
   died: '1999-03-27'
 audio_profile:
   tempo_avg: 128.2
@@ -25,7 +25,7 @@ audio_profile:
   danceability_avg: 0.558
   acousticness_avg: 0.42
   instrumentalness_avg: 0.087
-  loudness_avg: -11.0
+  loudness_avg: -11
   speechiness_avg: 0.06
   liveness_avg: 0.245
   track_count: 50
@@ -33,66 +33,66 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Otis Rush
-  - Magic Sam
-  - Billy Boy Arnold
-  - Willie Dixon
-  - Koko Taylor
-  - Jimmy Rogers
-  - Tyrone Davis
-  - Jimmy Dawkins
+    - Otis Rush
+    - Magic Sam
+    - Billy Boy Arnold
+    - Willie Dixon
+    - Koko Taylor
+    - Jimmy Rogers
+    - Tyrone Davis
+    - Jimmy Dawkins
   influenced:
-  - Contemporary Chicago blues guitarists
+    - Contemporary Chicago blues guitarists
   mentors:
-  - Muddy Waters
+    - Muddy Waters
 related_artists: []
 spotify_data:
   followers: 6927
   id: 3s5c2rjSE7v4KbMsGb5qaL
   popularity: 31
-  url: https://open.spotify.com/artist/3s5c2rjSE7v4KbMsGb5qaL
+  url: 'https://open.spotify.com/artist/3s5c2rjSE7v4KbMsGb5qaL'
   verified: false
 discography_enriched: true
 albums_count: 9
 singles_count: 5
 top_tracks:
-- Rock Me Baby (The Sonet Blues Story)
-- That's All I Need (West Side Soul (Deluxe Edition))
-- Sweet Home Chicago (West Side Soul (Deluxe Edition))
-- Lookin' Good (West Side Soul (Deluxe Edition))
-- I Need You So Bad (West Side Soul (Deluxe Edition))
-- All Of Your Love (West Side Soul (Deluxe Edition))
-- I Feel So Good (I Wanna Boogie) (West Side Soul (Deluxe Edition))
-- Mama, Mama -Talk to Your Daughter (West Side Soul (Deluxe Edition))
-- Baby, Please (The Sonet Blues Story)
-- As The Years Go Passing By (Mighty Joe Young)
+  - Rock Me Baby (The Sonet Blues Story)
+  - That's All I Need (West Side Soul (Deluxe Edition))
+  - Sweet Home Chicago (West Side Soul (Deluxe Edition))
+  - Lookin' Good (West Side Soul (Deluxe Edition))
+  - I Need You So Bad (West Side Soul (Deluxe Edition))
+  - All Of Your Love (West Side Soul (Deluxe Edition))
+  - I Feel So Good (I Wanna Boogie) (West Side Soul (Deluxe Edition))
+  - 'Mama, Mama -Talk to Your Daughter (West Side Soul (Deluxe Edition))'
+  - 'Baby, Please (The Sonet Blues Story)'
+  - As The Years Go Passing By (Mighty Joe Young)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3963264b-1af2-49b5-be47-beeb815992de
-  spotify: https://open.spotify.com/artist/3s5c2rjSE7v4KbMsGb5qaL
-  wikipedia: https://en.wikipedia.org/wiki/Mighty_Joe_Young_(musician)
+  musicbrainz: 'https://musicbrainz.org/artist/3963264b-1af2-49b5-be47-beeb815992de'
+  spotify: 'https://open.spotify.com/artist/3s5c2rjSE7v4KbMsGb5qaL'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mighty_Joe_Young_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/Mighty_Joe_Young.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:25:19.705714'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Mighty_Joe_Young_(musician)
-- https://www.allaboutjazz.com/musicians/mighty-joe-young/
-- https://www.kunc.org/music/2012-09-22/nine-oclock-blues-mighty-joe-young
-- https://syntaxcreative.com/music/mighty-joe-young-voo-doo-dust/
+  - 'https://en.wikipedia.org/wiki/Mighty_Joe_Young_(musician)'
+  - 'https://www.allaboutjazz.com/musicians/mighty-joe-young/'
+  - 'https://www.kunc.org/music/2012-09-22/nine-oclock-blues-mighty-joe-young'
+  - 'https://syntaxcreative.com/music/mighty-joe-young-voo-doo-dust/'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 11:43:06.151510
+entry_created: 2025-09-18T11:43:06.151Z
 last_updated: '2025-12-23T08:16:03.312978'
 disambiguation: US blues guitarist
 gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:37:57.764480'
 musicbrainz_id: 3963264b-1af2-49b5-be47-beeb815992de
 tags:
-- blues
-- chicago blues
-- electric blues
-
+  - blues
+  - chicago blues
+  - electric blues
+is_active: false
 ---
 
 ![](Mighty_Joe_Young.jpg)

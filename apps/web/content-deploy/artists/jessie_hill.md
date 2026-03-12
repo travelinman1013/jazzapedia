@@ -1,18 +1,18 @@
 ---
-title: jessie hill
+title: Jessie Hill
 wiki_slug: jessie-hill
 schema_version: 2
 status: active
-birth_place: Wellington, New Zealand
+birth_place: 'Wellington, New Zealand, New Zealand'
 genres:
-- nz reggae
+  - nz reggae
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jessie_hill.jpg
   caption: jessie hill
   background: solo_singer
-  origin: Wellington, New Zealand
+  origin: 'Wellington, New Zealand'
 audio_profile:
-  tempo_avg: 108.0
+  tempo_avg: 108
   energy_avg: 0.617
   valence_avg: 0.549
   danceability_avg: 0.697
@@ -26,44 +26,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Fractures
-  - DJ Noiz
-  - Jalmar
+    - Fractures
+    - DJ Noiz
+    - Jalmar
   influenced:
-  - Emerging New Zealand pop and reggae artists
+    - Emerging New Zealand pop and reggae artists
   mentors:
-  - Local music teachers (NZ)
+    - Local music teachers (NZ)
 spotify_data:
   followers: 526
   id: 3i76swsyukYkuE5pLpmKOg
   popularity: 28
-  url: https://open.spotify.com/artist/3i76swsyukYkuE5pLpmKOg
+  url: 'https://open.spotify.com/artist/3i76swsyukYkuE5pLpmKOg'
 discography_enriched: true
 top_tracks:
-- From This Moment (From This Moment)
-- Motions (Motions)
-- GMT (GMT)
-- The Garden (The Garden)
-- Motions - sped up (Motions)
-- Folded (Folded)
-- Fever Dream (Fever Dream)
-- Motions (with Balan Kash) (Motions (with Balan Kash))
-- Santorini (Santorini)
-- Motions (Motions (with Balan Kash))
+  - From This Moment (From This Moment)
+  - Motions (Motions)
+  - GMT (GMT)
+  - The Garden (The Garden)
+  - Motions - sped up (Motions)
+  - Folded (Folded)
+  - Fever Dream (Fever Dream)
+  - Motions (with Balan Kash) (Motions (with Balan Kash))
+  - Santorini (Santorini)
+  - Motions (Motions (with Balan Kash))
 external_urls:
-  spotify: https://open.spotify.com/artist/3i76swsyukYkuE5pLpmKOg
-  wikipedia: https://en.wikipedia.org/wiki/Jessie_Hillel
+  spotify: 'https://open.spotify.com/artist/3i76swsyukYkuE5pLpmKOg'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jessie_Hillel'
 image_path: 03_Resources/source_material/ArtistPortraits/jessie_hill.jpg
 biography_enhanced_at: '2025-11-02T07:25:56.891479'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jessie_Hillel
-- https://musicboard.app/artist/jessie-hill/
-- https://www.wikidata.org/wiki/Q32540073
+  - 'https://en.wikipedia.org/wiki/Jessie_Hillel'
+  - 'https://musicboard.app/artist/jessie-hill/'
+  - 'https://www.wikidata.org/wiki/Q32540073'
 network_extracted: true
 entry_created: '2025-11-02T07:25:56.891486'
 last_updated: '2025-12-23T08:16:10.389262'
+artist_type: person
 ---
 
 ![](jessie_hill.jpg)

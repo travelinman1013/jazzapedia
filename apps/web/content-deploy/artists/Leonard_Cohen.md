@@ -2,19 +2,19 @@
 title: Leonard Cohen
 wiki_slug: leonard-cohen
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1934-09-21'
-birth_place: Montreal, Quebec, Canada
+birth_place: 'Montreal, Quebec, Canada'
 death_date: '2016-11-07'
 genres:
-- singer-songwriter
+  - singer-songwriter
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Leonard_Cohen.jpg
   caption: Leonard Cohen
   background: solo_singer
   born: '1934-09-21'
-  origin: Montreal, Quebec, Canada
+  origin: 'Montreal, Quebec, Canada'
   died: '2016-11-07'
 audio_profile:
   tempo_avg: 119.8
@@ -31,47 +31,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Judy Collins
-  - Phil Spector
-  - Sharon Robinson
-  - Anjani Thomas
+    - Judy Collins
+    - Phil Spector
+    - Sharon Robinson
+    - Anjani Thomas
   influenced:
-  - Nick Cave
-  - Jeff Buckley
-  - Suzanne Vega
+    - Nick Cave
+    - Jeff Buckley
+    - Suzanne Vega
   mentors:
-  - Federico García Lorca
-  - Irwin Gage
+    - Federico García Lorca
+    - Irwin Gage
 spotify_data:
   followers: 3695129
   id: 5l8VQNuIg0turYE1VtM9zV
   popularity: 63
-  url: https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV
+  url: 'https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV'
 discography_enriched: true
 top_tracks:
-- Suzanne (Songs Of Leonard Cohen)
-- Dance Me to the End of Love (Various Positions)
-- Hallelujah (Various Positions)
-- You Want It Darker (You Want It Darker)
-- Famous Blue Raincoat (Songs Of Love And Hate)
-- So Long, Marianne (Songs Of Leonard Cohen)
-- I'm Your Man (I'm Your Man)
-- Hey, That's No Way to Say Goodbye (Songs Of Leonard Cohen)
-- Everybody Knows (I'm Your Man)
-- Who by Fire (New Skin For The Old Ceremony)
+  - Suzanne (Songs Of Leonard Cohen)
+  - Dance Me to the End of Love (Various Positions)
+  - Hallelujah (Various Positions)
+  - You Want It Darker (You Want It Darker)
+  - Famous Blue Raincoat (Songs Of Love And Hate)
+  - 'So Long, Marianne (Songs Of Leonard Cohen)'
+  - I'm Your Man (I'm Your Man)
+  - 'Hey, That''s No Way to Say Goodbye (Songs Of Leonard Cohen)'
+  - Everybody Knows (I'm Your Man)
+  - Who by Fire (New Skin For The Old Ceremony)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/65314b12-0e08-43fa-ba33-baaa7b874c15
-  spotify: https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV
-  wikipedia: https://en.wikipedia.org/wiki/Leonard_Cohen
+  musicbrainz: 'https://musicbrainz.org/artist/65314b12-0e08-43fa-ba33-baaa7b874c15'
+  spotify: 'https://open.spotify.com/artist/5l8VQNuIg0turYE1VtM9zV'
+  wikipedia: 'https://en.wikipedia.org/wiki/Leonard_Cohen'
 image_path: 03_Resources/source_material/ArtistPortraits/Leonard_Cohen.jpg
 biography_enhanced_at: '2025-10-20T10:08:35.763993'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Leonard_Cohen
-- https://www.biography.com/musicians/leonard-cohen
-- https://www.songhall.org/profiles/leonard-cohen
-- https://www.ebsco.com/research-starters/music/leonard-cohen
+  - 'https://en.wikipedia.org/wiki/Leonard_Cohen'
+  - 'https://www.biography.com/musicians/leonard-cohen'
+  - 'https://www.songhall.org/profiles/leonard-cohen'
+  - 'https://www.ebsco.com/research-starters/music/leonard-cohen'
 network_extracted: true
 entry_created: '2025-10-20T10:08:35.764006'
 last_updated: '2025-12-23T08:16:02.998098'
@@ -80,9 +80,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:35:05.283323'
 musicbrainz_id: 65314b12-0e08-43fa-ba33-baaa7b874c15
 tags:
-- blues rock
-- composers
-- contemporary folk
+  - blues rock
+  - composers
+  - contemporary folk
+is_active: false
 ---
 
 ![](Leonard_Cohen.jpg)

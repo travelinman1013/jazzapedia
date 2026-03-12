@@ -5,20 +5,20 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1959-02-18'
-birth_place: Socorro
+birth_place: 'Socorro, São Paulo, Brazil'
 genres:
-- brazilian jazz
+  - brazilian jazz
 instruments:
-- accordion
-- original
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - accordion
   - original
-  mbid: cd18dd94-b838-4181-925d-70e7ebbe0ad7
-  name: Trio 202
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - accordion
+      - original
+    mbid: cd18dd94-b838-4181-925d-70e7ebbe0ad7
+    name: Trio 202
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/toninho_ferragutti.jpg
   caption: Toninho Ferragutti
@@ -40,52 +40,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Maria Schneider Orchestra
-  - Mônica Salmaso
-  - Gilberto Gil
-  - Nelson Ayres & Ulisses Rocha (Trio 202)
-  - Celine Rudolph
+    - Maria Schneider Orchestra
+    - Mônica Salmaso
+    - Gilberto Gil
+    - Nelson Ayres & Ulisses Rocha (Trio 202)
+    - Celine Rudolph
   influenced:
-  - Contemporary Brazilian accordionists
+    - Contemporary Brazilian accordionists
   mentors:
-  - Pedro Ferragutti
-  - Dante D'Alonzo
-  - Claudio Leal Ferreira
+    - Pedro Ferragutti
+    - Dante D'Alonzo
+    - Claudio Leal Ferreira
 spotify_data:
   followers: 4958
   id: 1sb2zB905K1ugrhiyd4Y6B
   popularity: 21
-  url: https://open.spotify.com/artist/1sb2zB905K1ugrhiyd4Y6B
+  url: 'https://open.spotify.com/artist/1sb2zB905K1ugrhiyd4Y6B'
 discography_enriched: true
 top_tracks:
-- Valse d'Amelie (Verde)
-- Mira Mansa
-- Boiadeiro Errante (Festa Na Roça)
-- Flamenta (Comum de Dois)
-- Amargurado (Festa Na Roça)
-- Santa Gafieira (Panorama do Choro Paulistano Contemporâneo)
-- Xote (O Sol de Oslo)
-- Alegria Outra Vez (QuarenteMa 8) (QuarenteMas)
-- Tocando Em Frente (Encontro das Águas - Filarmônica de Violas Convida Solistas)
-- Tatá Engenho Novo (O Sol de Oslo)
+  - Valse d'Amelie (Verde)
+  - Mira Mansa
+  - Boiadeiro Errante (Festa Na Roça)
+  - Flamenta (Comum de Dois)
+  - Amargurado (Festa Na Roça)
+  - Santa Gafieira (Panorama do Choro Paulistano Contemporâneo)
+  - Xote (O Sol de Oslo)
+  - Alegria Outra Vez (QuarenteMa 8) (QuarenteMas)
+  - >-
+    Tocando Em Frente (Encontro das Águas - Filarmônica de Violas Convida
+    Solistas)
+  - Tatá Engenho Novo (O Sol de Oslo)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/34308535-ee30-426d-9926-35892356d5cd
-  spotify: https://open.spotify.com/artist/1sb2zB905K1ugrhiyd4Y6B
+  musicbrainz: 'https://musicbrainz.org/artist/34308535-ee30-426d-9926-35892356d5cd'
+  spotify: 'https://open.spotify.com/artist/1sb2zB905K1ugrhiyd4Y6B'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/toninho_ferragutti.jpg
 biography_enhanced_at: '2025-11-10T03:38:10.880139'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://editora.osesp.com.br/en/compositores/toninho-ferragutti-2/
-- https://charlestoncitypaper.com/2011/05/25/the-accordion-gets-its-day-in-the-brazilian-sun-with-ferragutti-and-matuto/
-- https://www.womex.com/virtual/boranda_brasil/toninho_ferragutti
-- https://toninhoferragutti.com.br/en/about/
+  - 'https://editora.osesp.com.br/en/compositores/toninho-ferragutti-2/'
+  - >-
+    https://charlestoncitypaper.com/2011/05/25/the-accordion-gets-its-day-in-the-brazilian-sun-with-ferragutti-and-matuto/
+  - 'https://www.womex.com/virtual/boranda_brasil/toninho_ferragutti'
+  - 'https://toninhoferragutti.com.br/en/about/'
 network_extracted: true
 entry_created: '2025-11-10T03:38:10.880156'
 last_updated: '2025-12-23T08:16:17.587259'
 gender: Male
 musicbrainz_id: 34308535-ee30-426d-9926-35892356d5cd
+origin: 'Campinas, São Paulo, Brazil'
 ---
 
 ![](toninho_ferragutti.jpg)

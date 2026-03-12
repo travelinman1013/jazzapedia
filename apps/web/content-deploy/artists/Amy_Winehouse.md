@@ -2,10 +2,10 @@
 title: Amy Winehouse
 wiki_slug: amy-winehouse
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1983-09-14'
-birth_place: London, England, United Kingdom
+birth_place: 'London, England, United Kingdom'
 death_date: '2011-07-23'
 genres: []
 infobox:
@@ -13,7 +13,7 @@ infobox:
   caption: Amy Winehouse
   background: solo_singer
   born: '1983-09-14'
-  origin: London, England, United Kingdom
+  origin: 'London, England, United Kingdom'
   died: '2011-07-23'
 audio_profile:
   tempo_avg: 109.3
@@ -22,7 +22,7 @@ audio_profile:
   danceability_avg: 0.627
   acousticness_avg: 0.263
   instrumentalness_avg: 0.003
-  loudness_avg: -8.0
+  loudness_avg: -8
   speechiness_avg: 0.06
   liveness_avg: 0.169
   track_count: 50
@@ -30,47 +30,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mark Ronson
-  - The Dap-Kings
-  - Salaam Remi
+    - Mark Ronson
+    - The Dap-Kings
+    - Salaam Remi
   influenced:
-  - Adele
-  - Dua Lipa
-  - Sam Smith
+    - Adele
+    - Dua Lipa
+    - Sam Smith
   mentors:
-  - Sarah Vaughan
-  - Dinah Washington
-  - Salaam Remi
+    - Sarah Vaughan
+    - Dinah Washington
+    - Salaam Remi
 spotify_data:
   followers: 9734712
   id: 6Q192DXotxtaysaqNPy5yR
   popularity: 75
-  url: https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR
+  url: 'https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR'
 discography_enriched: true
 top_tracks:
-- Valerie (feat. Amy Winehouse) - Version Revisited (Version)
-- Back To Black (Back To Black (Deluxe Edition))
-- You Know I'm No Good (Back To Black (Deluxe Edition))
-- Valerie - Live At BBC Radio 1 Live Lounge, London / 2007 (Back To Black (Deluxe Edition))
-- Rehab (Back To Black (Deluxe Edition))
-- Tears Dry On Their Own (Back To Black (Deluxe Edition))
-- Back To Black (Back To Black)
-- Love Is A Losing Game (Back To Black (Deluxe Edition))
-- Stronger Than Me (AMY (Original Motion Picture Soundtrack))
-- Me & Mr Jones (Back To Black (Deluxe Edition))
+  - Valerie (feat. Amy Winehouse) - Version Revisited (Version)
+  - Back To Black (Back To Black (Deluxe Edition))
+  - You Know I'm No Good (Back To Black (Deluxe Edition))
+  - >-
+    Valerie - Live At BBC Radio 1 Live Lounge, London / 2007 (Back To Black
+    (Deluxe Edition))
+  - Rehab (Back To Black (Deluxe Edition))
+  - Tears Dry On Their Own (Back To Black (Deluxe Edition))
+  - Back To Black (Back To Black)
+  - Love Is A Losing Game (Back To Black (Deluxe Edition))
+  - Stronger Than Me (AMY (Original Motion Picture Soundtrack))
+  - Me & Mr Jones (Back To Black (Deluxe Edition))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/dfe9a7c4-8cf2-47f4-9dcb-d233c2b86ec3
-  spotify: https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR
-  wikipedia: https://en.wikipedia.org/wiki/Amy_Winehouse
+  musicbrainz: 'https://musicbrainz.org/artist/dfe9a7c4-8cf2-47f4-9dcb-d233c2b86ec3'
+  spotify: 'https://open.spotify.com/artist/6Q192DXotxtaysaqNPy5yR'
+  wikipedia: 'https://en.wikipedia.org/wiki/Amy_Winehouse'
 image_path: 03_Resources/source_material/ArtistPortraits/Amy_Winehouse.jpg
 biography_enhanced_at: '2025-10-20T09:07:21.616577'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Amy_Winehouse
-- https://www.britannica.com/biography/Amy-Winehouse
-- https://www.timetoast.com/timelines/amy-winehouse--GEXLIFHZ
-- https://www.biography.com/musicians/amy-winehouse
+  - 'https://en.wikipedia.org/wiki/Amy_Winehouse'
+  - 'https://www.britannica.com/biography/Amy-Winehouse'
+  - 'https://www.timetoast.com/timelines/amy-winehouse--GEXLIFHZ'
+  - 'https://www.biography.com/musicians/amy-winehouse'
 network_extracted: true
 entry_created: '2025-10-20T09:07:21.616590'
 last_updated: '2025-12-23T08:16:00.996428'
@@ -78,9 +80,10 @@ gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:10:53.196358'
 musicbrainz_id: dfe9a7c4-8cf2-47f4-9dcb-d233c2b86ec3
 tags:
-- 27 club
-- contemporary r&b
-- crossover jazz
+  - 27 club
+  - contemporary r&b
+  - crossover jazz
+is_active: false
 ---
 
 ![](Amy_Winehouse.jpg)

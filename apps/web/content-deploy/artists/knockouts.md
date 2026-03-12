@@ -6,17 +6,17 @@ status: active
 aliases: []
 years_active: 1996–present
 genres:
-- rockabilly
-- surf rock
-- doo-wop
+  - rockabilly
+  - surf rock
+  - doo-wop
 associated_acts:
-- Johan Frandsen
+  - Johan Frandsen
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/The_Knockouts.jpg
   caption: The Knockouts
   background: solo_singer
 audio_profile:
-  tempo_avg: 106.0
+  tempo_avg: 106
   energy_avg: 0.703
   valence_avg: 0.691
   danceability_avg: 0.585
@@ -30,52 +30,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The GoGetters
-  - Stray Cats
-  - Mad Sin
-  - Guana Batz
+    - The GoGetters
+    - Stray Cats
+    - Mad Sin
+    - Guana Batz
   influenced: []
   mentors:
-  - Thomas Skogsberg
-  - The Hellacopters
+    - Thomas Skogsberg
+    - The Hellacopters
 related_artists: []
 spotify_data:
   followers: 488
   id: 2qoBhcd2StGWOswi80vfxF
   popularity: 1
-  url: https://open.spotify.com/artist/2qoBhcd2StGWOswi80vfxF
+  url: 'https://open.spotify.com/artist/2qoBhcd2StGWOswi80vfxF'
   verified: false
 discography_enriched: true
 albums_count: 1
 singles_count: 1
 top_tracks:
-- 'Darling Lorraine (Goodies Old Is New: Rare Singles From The Golden Age of Rock and Roll)'
-- Riot in Room 3C (Rock and Roll For Kids)
-- 'Riot In Room 3C (Goodies Old Is New: Come Dance With Me)'
-- 'Stormy Weather (Goodies Old Is New: Rare Singles From The Golden Age of Rock and Roll)'
-- 'Nobody But You (Goodies Old Is New: Rare Singles From The Golden Age of Rock and Roll)'
-- Nobody But You (Rock and Roll For Kids)
-- 'Riot In Room 3C (Rock And Roll Instrumentals: 50''s-60''s)'
-- Riot in Room 3C (Loco Drive - In)
-- 'Darling Lorraine (Northern Soul Roots: Doo Wop Edition)'
-- Fever (A Whole Lotta Soul, Vol. 1)
+  - >-
+    Darling Lorraine (Goodies Old Is New: Rare Singles From The Golden Age of
+    Rock and Roll)
+  - Riot in Room 3C (Rock and Roll For Kids)
+  - 'Riot In Room 3C (Goodies Old Is New: Come Dance With Me)'
+  - >-
+    Stormy Weather (Goodies Old Is New: Rare Singles From The Golden Age of Rock
+    and Roll)
+  - >-
+    Nobody But You (Goodies Old Is New: Rare Singles From The Golden Age of Rock
+    and Roll)
+  - Nobody But You (Rock and Roll For Kids)
+  - 'Riot In Room 3C (Rock And Roll Instrumentals: 50''s-60''s)'
+  - Riot in Room 3C (Loco Drive - In)
+  - 'Darling Lorraine (Northern Soul Roots: Doo Wop Edition)'
+  - 'Fever (A Whole Lotta Soul, Vol. 1)'
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/2qoBhcd2StGWOswi80vfxF
-  wikipedia: https://en.wikipedia.org/wiki/The_Knockouts
+  spotify: 'https://open.spotify.com/artist/2qoBhcd2StGWOswi80vfxF'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Knockouts'
 image_path: 03_Resources/source_material/ArtistPortraits/The_Knockouts.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:00:48.413109'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - The Knockouts
-- Wikipedia - Johan Frandsen
+  - Wikipedia - The Knockouts
+  - Wikipedia - Johan Frandsen
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:59:56.071435
+entry_created: 2025-09-22T21:59:56.071Z
 last_updated: '2025-12-23T08:16:11.460880'
-origin: Stockholm, Sweden
+origin: 'Stockholm, Sweden, Sweden'
+artist_type: band
 ---
 
 ![](The_Knockouts.jpg)

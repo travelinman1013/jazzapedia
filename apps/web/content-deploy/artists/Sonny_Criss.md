@@ -5,27 +5,27 @@ schema_version: 2
 status: deceased
 aliases: []
 birth_date: '1927-10-23'
-birth_place: Memphis, Tennessee, United States
+birth_place: 'Memphis, Tennessee, United States'
 death_date: '1977-11-19'
 years_active: 1947-1977
 genres:
-- hard bop
-- bebop
-- jazz
-- cool jazz
+  - hard bop
+  - bebop
+  - jazz
+  - cool jazz
 instruments:
-- saxophone
+  - saxophone
 occupation:
-- jazz musician
-- saxophonist
+  - jazz musician
+  - saxophonist
 record_labels:
-- Savoy Records
+  - Savoy Records
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Sonny_Criss.jpg
   caption: Sonny Criss
   background: non_vocal_instrumentalist
   born: '1927-10-23'
-  origin: Memphis, Tennessee, United States
+  origin: 'Memphis, Tennessee, United States'
   died: '1977-11-19'
 audio_profile:
   tempo_avg: 119.8
@@ -42,42 +42,42 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Buddy Rich
-  - Wynton Kelly
-  - Howard McGhee
-  - Johnny Otis
-  - Billy Eckstine
-  - Sonny Clark
-  - Horace Tapscott
+    - Buddy Rich
+    - Wynton Kelly
+    - Howard McGhee
+    - Johnny Otis
+    - Billy Eckstine
+    - Sonny Clark
+    - Horace Tapscott
   influenced:
-  - Jackie Kelso
+    - Jackie Kelso
   mentors:
-  - Charlie Parker
-  - Johnny Hodges
+    - Charlie Parker
+    - Johnny Hodges
 related_artists: []
 spotify_data:
   followers: 10669
   id: 5HL4KA3y1IyeAD2TbgaoYe
   popularity: 35
-  url: https://open.spotify.com/artist/5HL4KA3y1IyeAD2TbgaoYe
+  url: 'https://open.spotify.com/artist/5HL4KA3y1IyeAD2TbgaoYe'
   verified: false
 discography_enriched: true
 albums_count: 17
 singles_count: 0
 top_tracks:
-- Willow Weep For Me (Jazz - U.S.A.)
-- We'll Be Together Again (Mr Blues Pour Flirter)
-- My Ideal (Out Of Nowhere)
-- Summertime (Go Man)
-- Black Coffee (Mr Blues Pour Flirter)
-- Don't Blame Me (Mr Blues Pour Flirter)
-- Sunrise Sunset - Remastered 2008/Rudy Van Gelder Edition (This Is Criss!)
-- How High The Moon (Go Man)
-- Anything Goes (Sonny Criss Plays Cole Porter)
-- Brother, Can You Spare A Dime? (Out Of Nowhere)
+  - Willow Weep For Me (Jazz - U.S.A.)
+  - We'll Be Together Again (Mr Blues Pour Flirter)
+  - My Ideal (Out Of Nowhere)
+  - Summertime (Go Man)
+  - Black Coffee (Mr Blues Pour Flirter)
+  - Don't Blame Me (Mr Blues Pour Flirter)
+  - Sunrise Sunset - Remastered 2008/Rudy Van Gelder Edition (This Is Criss!)
+  - How High The Moon (Go Man)
+  - Anything Goes (Sonny Criss Plays Cole Porter)
+  - 'Brother, Can You Spare A Dime? (Out Of Nowhere)'
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/5HL4KA3y1IyeAD2TbgaoYe
+  spotify: 'https://open.spotify.com/artist/5HL4KA3y1IyeAD2TbgaoYe'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/Sonny_Criss.jpg
 biography_source: wikipedia
@@ -85,14 +85,17 @@ biography_enhanced_at: '2025-09-30T11:35:59.498116'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- All About Jazz
-- Jazz Profiles
-- NEPM Jazz World
-- Kiddle Facts
+  - All About Jazz
+  - Jazz Profiles
+  - NEPM Jazz World
+  - Kiddle Facts
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:43:53.465053
+entry_created: 2025-09-22T21:43:53.465Z
 last_updated: '2025-12-23T08:16:03.922515'
+is_active: false
+origin: 'Los Angeles, California, United States'
+artist_type: person
 ---
 
 ![](Sonny_Criss.jpg)

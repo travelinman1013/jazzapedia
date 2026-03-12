@@ -2,16 +2,16 @@
 title: Novos Baianos
 wiki_slug: novos-baianos
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1969'
 genres:
-- mpb
-- samba
-- bossa nova
+  - mpb
+  - samba
+  - bossa nova
 instruments:
-- original
-- double bass
+  - original
+  - double bass
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/novos_baianos.jpg
   caption: Novos Baianos
@@ -32,96 +32,98 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Paulinho Boca de Cantor
-  - Moraes Moreira
-  - Baby Consuelo (Baby do Brasil)
-  - Luiz Galvão
-  - Pepeu Gomes
-  - Dadi (Arnaldo Brandão/Dadi Carvalho – commonly known as Dadi)
-  - Jorginho Gomes
-  - Pedro Baby
+    - Paulinho Boca de Cantor
+    - Moraes Moreira
+    - Baby Consuelo (Baby do Brasil)
+    - Luiz Galvão
+    - Pepeu Gomes
+    - Dadi (Arnaldo Brandão/Dadi Carvalho – commonly known as Dadi)
+    - Jorginho Gomes
+    - Pedro Baby
   influenced:
-  - Jorge Ben’s band members (via Dadi) and 1970s MPB/samba‑rock scene
-  - Later Brazilian MPB and indie artists (various, e.g., contemporary fusion bands)
+    - Jorge Ben’s band members (via Dadi) and 1970s MPB/samba‑rock scene
+    - >-
+      Later Brazilian MPB and indie artists (various, e.g., contemporary fusion
+      bands)
   mentors:
-  - João Gilberto
-  - Tom Zé
-  - Gilberto Gil and Caetano Veloso
+    - João Gilberto
+    - Tom Zé
+    - Gilberto Gil and Caetano Veloso
 spotify_data:
   followers: 497859
   id: 2ohBjgFT9V0LRDWO2wF9DJ
   popularity: 53
-  url: https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ
+  url: 'https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ'
 discography_enriched: true
 top_tracks:
-- Mistério do Planeta (Acabou Chorare)
-- Brasil pandeiro (Enciclopédia Musical Brasileira)
-- A Menina Dança (Acabou Chorare)
-- Preta pretinha (Enciclopédia Musical Brasileira)
-- Brasil Pandeiro (Acabou Chorare)
-- Swing de Campo Grande (Acabou Chorare)
-- Preta Pretinha (Acabou Chorare)
-- Acabou Chorare (Acabou Chorare)
-- Na Cadência Do Samba (Vamos Pro Mundo)
-- Mistério do Planeta (Acabou Chorare)
+  - Mistério do Planeta (Acabou Chorare)
+  - Brasil pandeiro (Enciclopédia Musical Brasileira)
+  - A Menina Dança (Acabou Chorare)
+  - Preta pretinha (Enciclopédia Musical Brasileira)
+  - Brasil Pandeiro (Acabou Chorare)
+  - Swing de Campo Grande (Acabou Chorare)
+  - Preta Pretinha (Acabou Chorare)
+  - Acabou Chorare (Acabou Chorare)
+  - Na Cadência Do Samba (Vamos Pro Mundo)
+  - Mistério do Planeta (Acabou Chorare)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7b543eba-995a-4c30-a37e-f8cac424f167
-  spotify: https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ
-  wikipedia: https://en.wikipedia.org/wiki/Novos_Baianos
+  musicbrainz: 'https://musicbrainz.org/artist/7b543eba-995a-4c30-a37e-f8cac424f167'
+  spotify: 'https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Novos_Baianos'
 image_path: 03_Resources/source_material/ArtistPortraits/novos_baianos.jpg
 biography_enhanced_at: '2025-12-14T01:48:40.928032'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://bahia.ws/en/biografia-novos-baianos/
-- https://voices.uchicago.edu/vaeranda/2021/04/21/novos-baianos/
-- https://joeyaltruda.com/tom-ze-lit-the-fire-of-novos-baianos/
-- https://spaceagencybooking.com/novos-baianos
-- https://eatrio.net/2012/08/novos-baianos.html
-- https://international.ucla.edu/lai/article/123226
+  - 'https://bahia.ws/en/biografia-novos-baianos/'
+  - 'https://voices.uchicago.edu/vaeranda/2021/04/21/novos-baianos/'
+  - 'https://joeyaltruda.com/tom-ze-lit-the-fire-of-novos-baianos/'
+  - 'https://spaceagencybooking.com/novos-baianos'
+  - 'https://eatrio.net/2012/08/novos-baianos.html'
+  - 'https://international.ucla.edu/lai/article/123226'
 network_extracted: true
 entry_created: '2025-12-14T01:48:40.928047'
 last_updated: '2025-12-23T08:16:13.666712'
 members:
-- begin: '1969'
-  end: '1975'
-  instruments:
-  - original
-  mbid: 5b5d63ac-e78e-459e-abab-5e90e3dddbb5
-  name: Moraes Moreira
-- begin: '1970'
-  end: '1975'
-  instruments:
-  - double bass
-  mbid: 035d24dc-a4e4-4963-9efa-5c394355a25b
-  name: Dadi
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 040981f0-5b0b-496f-8dcb-7a70595e3b4a
-  name: Baby do Brasil
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: a81e7ba3-9a10-4396-9719-64d73b5131f4
-  name: Luiz Galvão
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f347f58c-d35f-40e3-80a7-582bd3e95f00
-  name: Jorginho Gomes
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 68862d2c-b642-4575-8c6e-71309f7402a1
-  name: Pepeu Gomes
+  - begin: '1969'
+    end: '1975'
+    instruments:
+      - original
+    mbid: 5b5d63ac-e78e-459e-abab-5e90e3dddbb5
+    name: Moraes Moreira
+  - begin: '1970'
+    end: '1975'
+    instruments:
+      - double bass
+    mbid: 035d24dc-a4e4-4963-9efa-5c394355a25b
+    name: Dadi
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 040981f0-5b0b-496f-8dcb-7a70595e3b4a
+    name: Baby do Brasil
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: a81e7ba3-9a10-4396-9719-64d73b5131f4
+    name: Luiz Galvão
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f347f58c-d35f-40e3-80a7-582bd3e95f00
+    name: Jorginho Gomes
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 68862d2c-b642-4575-8c6e-71309f7402a1
+    name: Pepeu Gomes
 musicbrainz_id: 7b543eba-995a-4c30-a37e-f8cac424f167
-origin: Salvador
+origin: 'Salvador, Bahia, Brazil'
 tags:
-- mpb
+  - mpb
 ---
 
 ![](novos_baianos.jpg)

@@ -1,10 +1,10 @@
 ---
-title: FIVE HARMANIACS
+title: Five Harmaniacs
 wiki_slug: five-harmaniacs
 schema_version: 2
 status: active
 genres:
-- ragtime
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/five_harmaniacs.jpg
   caption: FIVE HARMANIACS
@@ -25,45 +25,65 @@ similar_artists: []
 musical_connections:
   collaborators: []
   influenced:
-  - Jim Kweskin Jug Band
+    - Jim Kweskin Jug Band
   mentors: []
 spotify_data:
   followers: 169
   id: 5H2OsWSS1GKFzhvi36JOIp
   popularity: 1
-  url: https://open.spotify.com/artist/5H2OsWSS1GKFzhvi36JOIp
+  url: 'https://open.spotify.com/artist/5H2OsWSS1GKFzhvi36JOIp'
 discography_enriched: true
 top_tracks:
-- What Makes My Baby Cry (Ruckus Juice & Chittlins, Vol. 2)
-- What Did Romie-O-Juliet (The First Days of Jazz)
-- Sadie Green the Vamp of New Orleans (Jugs, Washboards & Kazoos)
-- Coney Island Washboard (Coney Island Washboard)
-- Sadie Green Vamp of New Orleans (Coney Island Washboard)
-- 'Carolina Bound (Jazz Mad, Vol. 5: Hot Dance and Jazz)'
-- Coney Island Washboard (Recorded 1926) (Popular 1920's Jazz Bands (Encore 8) [Recorded 1926-1930])
-- Sadie Green, The Vamp of New Orleans (Recorded 1926) (Popular 1920's Jazz Bands (Encore 8) [Recorded 1926-1930])
-- Carolina Band (Recorded 1927) (Popular 1920's Jazz Bands (Encore 8) [Recorded 1926-1930])
-- Coney Island Washboard (Jugs, Washboards & Kazoos)
+  - 'What Makes My Baby Cry (Ruckus Juice & Chittlins, Vol. 2)'
+  - What Did Romie-O-Juliet (The First Days of Jazz)
+  - 'Sadie Green the Vamp of New Orleans (Jugs, Washboards & Kazoos)'
+  - Coney Island Washboard (Coney Island Washboard)
+  - Sadie Green Vamp of New Orleans (Coney Island Washboard)
+  - 'Carolina Bound (Jazz Mad, Vol. 5: Hot Dance and Jazz)'
+  - >-
+    Coney Island Washboard (Recorded 1926) (Popular 1920's Jazz Bands (Encore 8)
+    [Recorded 1926-1930])
+  - >-
+    Sadie Green, The Vamp of New Orleans (Recorded 1926) (Popular 1920's Jazz
+    Bands (Encore 8) [Recorded 1926-1930])
+  - >-
+    Carolina Band (Recorded 1927) (Popular 1920's Jazz Bands (Encore 8)
+    [Recorded 1926-1930])
+  - 'Coney Island Washboard (Jugs, Washboards & Kazoos)'
 external_urls:
-  spotify: https://open.spotify.com/artist/5H2OsWSS1GKFzhvi36JOIp
+  spotify: 'https://open.spotify.com/artist/5H2OsWSS1GKFzhvi36JOIp'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/five_harmaniacs.jpg
 biography_enhanced_at: '2025-12-11T03:50:52.880286'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Haddock’s Main Collection – That Banjo Business (Victor 20293 discographical listing)[1]
-- 'Old Time Blues: “Victor 20293 & 20507 – Five Harmaniacs – 1926/1927” (historical notes and description of the group as
-  a novelty jug band)[2]'
-- Elijah Wald, song blog discussing “Coney Island Washboard” and identifying the Five Harmaniacs’ 1926 recording as the model
-  for the Jim Kweskin Jug Band arrangement[3]
-- 'JSTOR: “Negro Music: Reissues” (mentions of Five Harmaniacs in context of early jug‑band reissues)[4]'
-- Spotify user playlist featuring historic Western swing, honky‑tonk, and related early recordings, including the Five Harmaniacs[5]
-- Lonesome Lefty’s Scratchy Attic blog, referencing discovery of Five Harmaniacs records among 78 rpm collections[6]
+  - >-
+    Haddock’s Main Collection – That Banjo Business (Victor 20293 discographical
+    listing)[1]
+  - >-
+    Old Time Blues: “Victor 20293 & 20507 – Five Harmaniacs – 1926/1927”
+    (historical notes and description of the group as a novelty jug band)[2]
+  - >-
+    Elijah Wald, song blog discussing “Coney Island Washboard” and identifying
+    the Five Harmaniacs’ 1926 recording as the model for the Jim Kweskin Jug
+    Band arrangement[3]
+  - >-
+    JSTOR: “Negro Music: Reissues” (mentions of Five Harmaniacs in context of
+    early jug‑band reissues)[4]
+  - >-
+    Spotify user playlist featuring historic Western swing, honky‑tonk, and
+    related early recordings, including the Five Harmaniacs[5]
+  - >-
+    Lonesome Lefty’s Scratchy Attic blog, referencing discovery of Five
+    Harmaniacs records among 78 rpm collections[6]
 network_extracted: true
 entry_created: '2025-12-11T03:50:52.880295'
 last_updated: '2025-12-23T08:16:08.656577'
-origin: United States (exact city and state of origin not reliably documented in accessible sources)
+origin: >-
+  United States (exact city and state of origin not reliably documented in
+  accessible sources)
+artist_type: band
 ---
 
 ![](five_harmaniacs.jpg)

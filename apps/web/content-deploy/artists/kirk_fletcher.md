@@ -3,24 +3,24 @@ title: Kirk Fletcher
 wiki_slug: kirk-fletcher
 schema_version: 2
 status: active
-birth_place: Bellflower, California, United States
+birth_place: 'Bellflower, California, United States'
 genres:
-- modern blues
-- blues
-- blues rock
+  - modern blues
+  - blues
+  - blues rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/kirk_fletcher.jpg
   caption: Kirk Fletcher
   background: solo_singer
-  origin: Bellflower, California, United States
+  origin: 'Bellflower, California, United States'
 audio_profile:
-  tempo_avg: 122.0
+  tempo_avg: 122
   energy_avg: 0.686
   valence_avg: 0.607
   danceability_avg: 0.578
   acousticness_avg: 0.171
   instrumentalness_avg: 0.191
-  loudness_avg: -7.0
+  loudness_avg: -7
   speechiness_avg: 0.055
   liveness_avg: 0.195
   track_count: 50
@@ -28,56 +28,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Fabulous Thunderbirds
-  - Kim Wilson’s Blues Revue
-  - Joe Bonamassa
-  - Richard Cousins
-  - The Mannish Boys
-  - Eros Ramazzotti
-  - Cyndi Lauper and Michelle Branch
+    - The Fabulous Thunderbirds
+    - Kim Wilson’s Blues Revue
+    - Joe Bonamassa
+    - Richard Cousins
+    - The Mannish Boys
+    - Eros Ramazzotti
+    - Cyndi Lauper and Michelle Branch
   influenced:
-  - Contemporary blues and guitar students (general)
+    - Contemporary blues and guitar students (general)
   mentors:
-  - Walter Fletcher
-  - Al Blake
-  - Kim Wilson
-  - B.B. King, Albert Collins, Stevie Ray Vaughan and other classic blues artists
+    - Walter Fletcher
+    - Al Blake
+    - Kim Wilson
+    - >-
+      B.B. King, Albert Collins, Stevie Ray Vaughan and other classic blues
+      artists
 spotify_data:
   followers: 26390
   id: 77wBCkU4gTMCceSWHtWjxq
   popularity: 35
-  url: https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq
+  url: 'https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq'
 discography_enriched: true
 top_tracks:
-- Struggle for Grace (My Blues Pathway)
-- Out Of Sight
-- Dance Monkey
-- Silver Spoon (I'm Here And I'm Gone)
-- Heartache by the Pound (Heartache by the Pound)
-- Get Lucky
-- Afraid to Die,Too Scared to Live (Heartache by the Pound)
-- The Answer (Hold On)
-- Wrong Kind of Love (Heartache by the Pound)
-- Keep On Loving My Baby (Heartbreak City)
+  - Struggle for Grace (My Blues Pathway)
+  - Out Of Sight
+  - Dance Monkey
+  - Silver Spoon (I'm Here And I'm Gone)
+  - Heartache by the Pound (Heartache by the Pound)
+  - Get Lucky
+  - 'Afraid to Die,Too Scared to Live (Heartache by the Pound)'
+  - The Answer (Hold On)
+  - Wrong Kind of Love (Heartache by the Pound)
+  - Keep On Loving My Baby (Heartbreak City)
 external_urls:
-  spotify: https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq
-  wikipedia: https://en.wikipedia.org/wiki/Kirk_Fletcher
+  spotify: 'https://open.spotify.com/artist/77wBCkU4gTMCceSWHtWjxq'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kirk_Fletcher'
 image_path: 03_Resources/source_material/ArtistPortraits/kirk_fletcher.jpg
 biography_enhanced_at: '2025-12-11T03:55:30.289154'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Kirk Fletcher official bio – kirkfletcherband.com/bio[1]
-- 'Interview and career overview – blues.gr: “Interview with bluesman Kirk Fletcher”[2]'
-- MusoScribe feature – “Kirk Fletcher’s Pathway to (and Through) the Blues”[3]
-- 'Boss Artists profile – BOSS Artists: Kirk Fletcher[4]'
-- Brett Papa course description – “Making Your Blues Come Alive with Kirk Fletcher”[5]
-- Kirk Fletcher YouTube channel biography[6]
-- Coffee House Guitars artist profile[7]
-- Keeping the Blues Alive at Sea feature – jbonamassa.com on Kirk Fletcher[8]
+  - 'Kirk Fletcher official bio – kirkfletcherband.com/bio[1]'
+  - >-
+    Interview and career overview – blues.gr: “Interview with bluesman Kirk
+    Fletcher”[2]
+  - 'MusoScribe feature – “Kirk Fletcher’s Pathway to (and Through) the Blues”[3]'
+  - 'Boss Artists profile – BOSS Artists: Kirk Fletcher[4]'
+  - >-
+    Brett Papa course description – “Making Your Blues Come Alive with Kirk
+    Fletcher”[5]
+  - 'Kirk Fletcher YouTube channel biography[6]'
+  - 'Coffee House Guitars artist profile[7]'
+  - 'Keeping the Blues Alive at Sea feature – jbonamassa.com on Kirk Fletcher[8]'
 network_extracted: true
 entry_created: '2025-12-11T03:55:30.289164'
 last_updated: '2025-12-23T08:16:11.434885'
+artist_type: person
 ---
 
 ![](kirk_fletcher.jpg)

@@ -2,52 +2,52 @@
 artist_type: person
 biography_enhanced_at: '2026-01-07T01:15:09.202495'
 birth_date: '1983-06-06'
-birth_place: Washington, D.C.
+birth_place: 'Washington, D.C., United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-07T01:15:09.202500'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/045494aa-e913-4e62-bf4e-dcc276e0075a
-  spotify: https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60
+  musicbrainz: 'https://musicbrainz.org/artist/045494aa-e913-4e62-bf4e-dcc276e0075a'
+  spotify: 'https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60'
   wikipedia: ''
 gender: Female
 genres:
-- alternative r&b
+  - alternative r&b
 image_path: 03_Resources/source_material/ArtistPortraits/kelela.jpg
 instruments:
-- background vocals
-- lead vocals
+  - background vocals
+  - lead vocals
 last_updated: '2026-01-07T01:15:09.202501'
 musical_connections:
   collaborators:
-  - Teengirl Fantasy
-  - Kingdom
-  - Solange Knowles
-  - Tosin Abasi
-  - Danny Brown
+    - Teengirl Fantasy
+    - Kingdom
+    - Solange Knowles
+    - Tosin Abasi
+    - Danny Brown
   influenced: []
   mentors:
-  - Prince William (Fade to Mind)
-  - Total Freedom
+    - Prince William (Fade to Mind)
+    - Total Freedom
 musicbrainz_id: 045494aa-e913-4e62-bf4e-dcc276e0075a
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Kelela/+wiki
-- https://crackmagazine.net/article/long-reads/kelela/
-- https://coogradio.com/2022/01/artist-spotlight-kelela/
-- https://daily.redbullmusicacademy.com/2016/07/kelela-interview/
-- https://warp.net/artists/kelela
-- https://www.glamcult.com/articles/in-conversation-with-kelela/
+  - 'https://www.last.fm/music/Kelela/+wiki'
+  - 'https://crackmagazine.net/article/long-reads/kelela/'
+  - 'https://coogradio.com/2022/01/artist-spotlight-kelela/'
+  - 'https://daily.redbullmusicacademy.com/2016/07/kelela-interview/'
+  - 'https://warp.net/artists/kelela'
+  - 'https://www.glamcult.com/articles/in-conversation-with-kelela/'
 spotify_data:
   followers: 410640
   id: 1U0sIzpRtDkvu1hXXzxh60
   popularity: 53
-  url: https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60
+  url: 'https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60'
 status: active
 tags:
-- alternative r&b
-- grime
-- pbr&b
+  - alternative r&b
+  - grime
+  - pbr&b
 title: Kelela
 ---
 

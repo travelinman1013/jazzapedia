@@ -1,14 +1,14 @@
 ---
-title: redbone
+title: Redbone
 wiki_slug: redbone
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
-birth_date: '1968'
+birth_date: '1969'
 genres:
-- native american music
+  - native american music
 instruments:
-- original
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/redbone.jpg
   caption: redbone
@@ -29,79 +29,85 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lolly Vegas
-  - Tony Bellamy
-  - Peter DePoe
+    - Lolly Vegas
+    - Tony Bellamy
+    - Peter DePoe
   influenced:
-  - The Doors
-  - Contemporary Native American musicians
+    - The Doors
+    - Contemporary Native American musicians
   mentors:
-  - Los Angeles studio musicians
+    - Los Angeles studio musicians
 spotify_data:
   followers: 370016
   id: 0w7HLMvZOHatWVbAKee1zF
   popularity: 63
-  url: https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF
+  url: 'https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF'
 discography_enriched: true
 top_tracks:
-- Come and Get Your Love - Single Version
-- Come and Get Your Love (Rerecorded)
-- Come and Get Your Love
-- Come and Get Your Love (Wovoka)
-- Come And Get Your Love (Re-Recorded - 2024 Remaster)
-- The Witch Queen of New Orleans (The Witch Queen of New Orleans (aka Message from a Drum) [Expanded Edition])
-- I've Got to Find the Right Woman - Single Version (Beaded Dreams Through Turquoise Eyes (Expanded Edition))
-- We Were All Wounded at Wounded Knee (Already Here (Expanded Edition))
-- Come and Get Your Love - Single Version
-- Come and Get Your Love
+  - Come and Get Your Love - Single Version
+  - Come and Get Your Love (Rerecorded)
+  - Come and Get Your Love
+  - Come and Get Your Love (Wovoka)
+  - Come And Get Your Love (Re-Recorded - 2024 Remaster)
+  - >-
+    The Witch Queen of New Orleans (The Witch Queen of New Orleans (aka Message
+    from a Drum) [Expanded Edition])
+  - >-
+    I've Got to Find the Right Woman - Single Version (Beaded Dreams Through
+    Turquoise Eyes (Expanded Edition))
+  - We Were All Wounded at Wounded Knee (Already Here (Expanded Edition))
+  - Come and Get Your Love - Single Version
+  - Come and Get Your Love
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b3fa0e6f-93db-4aa5-b76e-393e24de35ba
-  spotify: https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF
-  wikipedia: https://en.wikipedia.org/wiki/Redbone_(band)
+  musicbrainz: 'https://musicbrainz.org/artist/b3fa0e6f-93db-4aa5-b76e-393e24de35ba'
+  spotify: 'https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF'
+  wikipedia: 'https://en.wikipedia.org/wiki/Redbone_(band)'
 image_path: 03_Resources/source_material/ArtistPortraits/redbone.jpg
 biography_enhanced_at: '2025-10-30T11:50:57.725740'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Redbone_(band)
-- https://wsash.com/redbone-pioneers-of-native-american-rock/
-- https://redbone-band.com/bio
-- https://en.wikipedia.org/wiki/Pat_Vegas
-- https://preview.houstonchronicle.com/music/beyond-come-and-get-your-love-why-redbone-15672998
-- https://thentvs.com/shop/redbone-the-true-story-of-a-native-american-rock-band
+  - 'https://en.wikipedia.org/wiki/Redbone_(band)'
+  - 'https://wsash.com/redbone-pioneers-of-native-american-rock/'
+  - 'https://redbone-band.com/bio'
+  - 'https://en.wikipedia.org/wiki/Pat_Vegas'
+  - >-
+    https://preview.houstonchronicle.com/music/beyond-come-and-get-your-love-why-redbone-15672998
+  - >-
+    https://thentvs.com/shop/redbone-the-true-story-of-a-native-american-rock-band
 network_extracted: true
 entry_created: '2025-10-30T11:50:57.725748'
 last_updated: '2025-12-23T08:16:14.774763'
 disambiguation: 1970s rock band
 members:
-- begin: ''
-  end: '1977'
-  instruments: []
-  mbid: df0ac619-baac-4f92-88cd-da8542a4ed53
-  name: Tony Bellamy
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ab0b00fb-665b-47ed-85a5-cd958f94bda5
-  name: Pete DePoe
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: f4dcd235-811b-49be-a597-f0a356b2d454
-  name: Lolly Vegas
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 2963eed5-5a81-48f0-b99d-e384d62ff47a
-  name: Pat Vegas
+  - begin: ''
+    end: '1977'
+    instruments: []
+    mbid: df0ac619-baac-4f92-88cd-da8542a4ed53
+    name: Tony Bellamy
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ab0b00fb-665b-47ed-85a5-cd958f94bda5
+    name: Pete DePoe
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: f4dcd235-811b-49be-a597-f0a356b2d454
+    name: Lolly Vegas
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 2963eed5-5a81-48f0-b99d-e384d62ff47a
+    name: Pat Vegas
 musicbrainz_id: b3fa0e6f-93db-4aa5-b76e-393e24de35ba
-origin: Los Angeles
+origin: 'Los Angeles, California, United States'
 tags:
-- american
-- funk rock
-- pop rock
+  - american
+  - funk rock
+  - pop rock
 ---
 
 ![](redbone.jpg)

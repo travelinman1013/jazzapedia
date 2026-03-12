@@ -3,14 +3,14 @@ title: Bob Seger
 wiki_slug: bob-seger
 schema_version: 2
 status: active
-birth_place: Dearborn, Michigan, United States
+birth_place: 'Dearborn, Michigan, United States'
 genres:
-- classic rock
+  - classic rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bob_seger.jpg
   caption: Bob Seger
   background: solo_singer
-  origin: Dearborn, Michigan, United States
+  origin: 'Dearborn, Michigan, United States'
 audio_profile:
   tempo_avg: 126.8
   energy_avg: 0.764
@@ -26,48 +26,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Silver Bullet Band
-  - Don Henley
-  - Glenn Frey
-  - Craig Frost
-  - Drew Abbott
+    - Silver Bullet Band
+    - Don Henley
+    - Glenn Frey
+    - Craig Frost
+    - Drew Abbott
   influenced:
-  - Eagles
+    - Eagles
   mentors:
-  - Muscle Shoals Rhythm Section
+    - Muscle Shoals Rhythm Section
 spotify_data:
   followers: 2914588
   id: 485uL27bPomh29R4JmQehQ
   popularity: 70
-  url: https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ
+  url: 'https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ'
 discography_enriched: true
 top_tracks:
-- Old Time Rock & Roll (Stranger In Town)
-- Night Moves (Night Moves)
-- Still The Same (Stranger In Town)
-- Against The Wind (Against The Wind)
-- Hollywood Nights (Stranger In Town)
-- Mainstreet (Night Moves)
-- We've Got Tonight (Stranger In Town)
-- Turn The Page - Live
-- Ramblin' Gamblin' Man (Ramblin' Gamblin' Man)
-- You'll Accomp'ny Me (Against The Wind)
+  - Old Time Rock & Roll (Stranger In Town)
+  - Night Moves (Night Moves)
+  - Still The Same (Stranger In Town)
+  - Against The Wind (Against The Wind)
+  - Hollywood Nights (Stranger In Town)
+  - Mainstreet (Night Moves)
+  - We've Got Tonight (Stranger In Town)
+  - Turn The Page - Live
+  - Ramblin' Gamblin' Man (Ramblin' Gamblin' Man)
+  - You'll Accomp'ny Me (Against The Wind)
 external_urls:
-  spotify: https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ
-  wikipedia: https://en.wikipedia.org/wiki/Bob_Seger
+  spotify: 'https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bob_Seger'
 image_path: 03_Resources/source_material/ArtistPortraits/bob_seger.jpg
 biography_enhanced_at: '2025-12-09T05:16:52.787912'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Bob Seger
-- IMDb - Bob Seger Biography
-- Britannica - Bob Seger
-- Last.fm - Bob Seger
-- Top40Weekly - Bob Seger Biography
+  - Wikipedia - Bob Seger
+  - IMDb - Bob Seger Biography
+  - Britannica - Bob Seger
+  - Last.fm - Bob Seger
+  - Top40Weekly - Bob Seger Biography
 network_extracted: true
 entry_created: '2025-12-09T05:16:52.787921'
 last_updated: '2025-12-23T08:16:05.832283'
+origin: 'Detroit, Michigan, United States'
+birth_date: '1945-05-06'
+artist_type: person
 ---
 
 ![](bob_seger.jpg)

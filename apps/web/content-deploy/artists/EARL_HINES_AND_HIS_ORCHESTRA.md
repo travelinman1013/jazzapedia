@@ -1,18 +1,19 @@
 ---
-title: EARL HINES AND HIS ORCHESTRA
+title: Earl Hines and His Orchestra
 wiki_slug: earl-hines-and-his-orchestra
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 genres:
-- big band
-- swing music
-- ragtime
+  - big band
+  - swing music
+  - ragtime
 instruments:
-- trombone
-- reeds
+  - trombone
+  - reeds
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/earl_hines_and_his_orchestra.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/earl_hines_and_his_orchestra.jpg
   caption: EARL HINES AND HIS ORCHESTRA
   background: group_or_band
 audio_profile:
@@ -30,100 +31,101 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Louis Armstrong
-  - Billy Eckstine
-  - Sarah Vaughan
-  - Dizzy Gillespie
-  - Charlie Parker
-  - Omer Simeon
-  - Trummy Young
+    - Louis Armstrong
+    - Billy Eckstine
+    - Sarah Vaughan
+    - Dizzy Gillespie
+    - Charlie Parker
+    - Omer Simeon
+    - Trummy Young
   influenced:
-  - Nat King Cole
-  - Art Tatum
-  - Jay McShann
-  - Jess Stacy
-  - Joe Sullivan
+    - Nat King Cole
+    - Art Tatum
+    - Jay McShann
+    - Jess Stacy
+    - Joe Sullivan
   mentors:
-  - Earl Hines's father (Joseph Hines)
-  - Lois Deppe
+    - Earl Hines's father (Joseph Hines)
+    - Lois Deppe
 spotify_data:
   followers: 3090
   id: 4hyzrSm7dyB8tKiR1LqxvB
   popularity: 10
-  url: https://open.spotify.com/artist/4hyzrSm7dyB8tKiR1LqxvB
+  url: 'https://open.spotify.com/artist/4hyzrSm7dyB8tKiR1LqxvB'
 discography_enriched: true
 top_tracks:
-- Boogie Woogie On St. Louis Blues (The Very Best Of Boogie Woogie)
-- Skylark (Stardust Melody)
-- Call Me Happy (Classic Earl Hines Sessions (1928-1945) - Vol. 5 & 6)
-- Up Jumped the Devil (Classic Earl Hines Sessions (1928-1945) - Vol. 5 & 6)
-- Riff Medley (Classic Earl Hines Sessions (1928-1945) - Vol. 5 & 6)
-- Ridin' And Jivin' (Afternoon Tunes)
-- Lightly and Politely (Classic Earl Hines Sessions (1928-1945) - Vol. 5 & 6)
-- Number 19 (Classic Earl Hines Sessions (1928-1945) - Vol. 5 & 6)
-- You Can Depend On Me (Treasury Of Jazz)
-- 'Ridin'' and Jivin'' (Essential Classics, Vol. 830: Earl Hines & His Orchestra)'
+  - Boogie Woogie On St. Louis Blues (The Very Best Of Boogie Woogie)
+  - Skylark (Stardust Melody)
+  - Call Me Happy (Classic Earl Hines Sessions (1928-1945) - Vol. 5 & 6)
+  - Up Jumped the Devil (Classic Earl Hines Sessions (1928-1945) - Vol. 5 & 6)
+  - Riff Medley (Classic Earl Hines Sessions (1928-1945) - Vol. 5 & 6)
+  - Ridin' And Jivin' (Afternoon Tunes)
+  - Lightly and Politely (Classic Earl Hines Sessions (1928-1945) - Vol. 5 & 6)
+  - Number 19 (Classic Earl Hines Sessions (1928-1945) - Vol. 5 & 6)
+  - You Can Depend On Me (Treasury Of Jazz)
+  - 'Ridin'' and Jivin'' (Essential Classics, Vol. 830: Earl Hines & His Orchestra)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/47f92138-70a5-40f0-9dda-7767b618f407
-  spotify: https://open.spotify.com/artist/4hyzrSm7dyB8tKiR1LqxvB
-  wikipedia: https://en.wikipedia.org/wiki/Earl_Hines
+  musicbrainz: 'https://musicbrainz.org/artist/47f92138-70a5-40f0-9dda-7767b618f407'
+  spotify: 'https://open.spotify.com/artist/4hyzrSm7dyB8tKiR1LqxvB'
+  wikipedia: 'https://en.wikipedia.org/wiki/Earl_Hines'
 image_path: 03_Resources/source_material/ArtistPortraits/earl_hines_and_his_orchestra.jpg
 biography_enhanced_at: '2025-10-23T07:20:19.670175'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Earl_Hines
-- https://www.britannica.com/biography/Earl-Hines
-- https://syncopatedtimes.com/profiles-in-jazz-earl-fatha-hines/
-- https://mosaicrecords.com/the-great-jazz-artists/earl-hines/
-- https://concord.com/artist/earl-fatha-hines/
+  - 'https://en.wikipedia.org/wiki/Earl_Hines'
+  - 'https://www.britannica.com/biography/Earl-Hines'
+  - 'https://syncopatedtimes.com/profiles-in-jazz-earl-fatha-hines/'
+  - 'https://mosaicrecords.com/the-great-jazz-artists/earl-hines/'
+  - 'https://concord.com/artist/earl-fatha-hines/'
 network_extracted: true
 entry_created: '2025-10-23T07:20:19.670192'
 last_updated: '2025-12-23T08:16:01.814054'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 51108278-a1d0-48a8-81a9-b974a46e52b0
-  name: Wallace Bishop
-- begin: ''
-  end: ''
-  instruments:
-  - trombone
-  mbid: f0ebd6be-8230-4bdb-936a-6da6fa17ab1e
-  name: Gus Chappell
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3034b1b0-59a0-4072-983a-bf6a49b09223
-  name: Lawrence Dixon
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 88180511-06b4-44ed-8af6-264d08b32e39
-  name: Alex Hill
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5d7df598-bb80-4d73-a6f8-9ed1a4374052
-  name: Earl Hines
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5adf09b0-0cc8-4fcb-8352-ed924ea94e92
-  name: Kenneth Stuart
-- begin: ''
-  end: ''
-  instruments:
-  - reeds
-  mbid: 639ef8ab-3440-4c5b-be36-cf040489f978
-  name: Toby Turner
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 51108278-a1d0-48a8-81a9-b974a46e52b0
+    name: Wallace Bishop
+  - begin: ''
+    end: ''
+    instruments:
+      - trombone
+    mbid: f0ebd6be-8230-4bdb-936a-6da6fa17ab1e
+    name: Gus Chappell
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3034b1b0-59a0-4072-983a-bf6a49b09223
+    name: Lawrence Dixon
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 88180511-06b4-44ed-8af6-264d08b32e39
+    name: Alex Hill
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5d7df598-bb80-4d73-a6f8-9ed1a4374052
+    name: Earl Hines
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5adf09b0-0cc8-4fcb-8352-ed924ea94e92
+    name: Kenneth Stuart
+  - begin: ''
+    end: ''
+    instruments:
+      - reeds
+    mbid: 639ef8ab-3440-4c5b-be36-cf040489f978
+    name: Toby Turner
 musicbrainz_id: 47f92138-70a5-40f0-9dda-7767b618f407
-origin: Duquesne, Pennsylvania, United States
+origin: 'Duquesne, Pennsylvania, United States'
 tags:
-- big band
-- jazz
-- swing
+  - big band
+  - jazz
+  - swing
+birth_place: 'Duquesne, Pennsylvania, United States'
 ---
 
 ![](earl_hines_and_his_orchestra.jpg)

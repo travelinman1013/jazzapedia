@@ -2,16 +2,16 @@
 title: Manu Dibango
 wiki_slug: manu-dibango
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 aliases: []
 birth_date: '1933-12-12'
-birth_place: Douala
+birth_place: 'Douala, Cameroon, Country'
 death_date: '2020-03-24'
 genres:
-- afrobeat
-- afropop
-- afro soul
+  - afrobeat
+  - afropop
+  - afro soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Manu_Dibango.jpg
   caption: Manu Dibango
@@ -37,37 +37,38 @@ spotify_data:
   followers: 107573
   id: 30UIjoCGuL3Fa5BOc3ayNW
   popularity: 47
-  url: https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW
+  url: 'https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW'
   verified: false
 discography_enriched: true
 albums_count: 41
 singles_count: 4
 top_tracks:
-- Soul Makossa
-- Coconut (African Voodoo)
-- Groovy Flute (African Voodoo)
-- Anbessa (Sost)
-- The Panther (Africadelic)
-- Bessoka - Version courte (B Sides)
-- Besoka on Salsa (Manu 76)
-- African Carnaval (Africadelic)
-- Quizas, Quizas, Quizas (Cubafrica)
-- Quizas Quizas (Cubafrica)
+  - Soul Makossa
+  - Coconut (African Voodoo)
+  - Groovy Flute (African Voodoo)
+  - Anbessa (Sost)
+  - The Panther (Africadelic)
+  - Bessoka - Version courte (B Sides)
+  - Besoka on Salsa (Manu 76)
+  - African Carnaval (Africadelic)
+  - 'Quizas, Quizas, Quizas (Cubafrica)'
+  - Quizas Quizas (Cubafrica)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/826b488f-5164-45ca-abc4-ab11b3c321eb
-  spotify: https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW
+  musicbrainz: 'https://musicbrainz.org/artist/826b488f-5164-45ca-abc4-ab11b3c321eb'
+  spotify: 'https://open.spotify.com/artist/30UIjoCGuL3Fa5BOc3ayNW'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/Manu_Dibango.jpg
 biography_source: none
-entry_created: 2025-09-22 21:46:00.938628
+entry_created: 2025-09-22T21:46:00.938Z
 last_updated: '2025-12-23T08:16:04.419264'
 gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:48:31.395142'
 musicbrainz_id: 826b488f-5164-45ca-abc4-ab11b3c321eb
 tags:
-- african rumba
-- afrobeat
-- afrofunk
+  - african rumba
+  - afrobeat
+  - afrofunk
+is_active: false
 ---
 
 ![](Manu_Dibango.jpg)

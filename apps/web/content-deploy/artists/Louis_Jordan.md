@@ -5,34 +5,34 @@ schema_version: 2
 status: deceased
 aliases: []
 birth_date: '1908-07-08'
-birth_place: Brinkley, Arkansas, United States
+birth_place: 'Brinkley, Arkansas, United States'
 death_date: '1975-02-04'
 years_active: 1932–1974
 genres:
-- swing music
-- boogie-woogie
-- big band
-- blues
+  - swing music
+  - boogie-woogie
+  - big band
+  - blues
 instruments:
-- saxophone
-- voice
-- clarinet
+  - saxophone
+  - voice
+  - clarinet
 occupation:
-- singer
-- actor
-- saxophonist
-- jazz musician
-- musician
+  - singer
+  - actor
+  - saxophonist
+  - jazz musician
+  - musician
 record_labels:
-- Decca
-- Mercury Records
-- Aladdin
+  - Decca
+  - Mercury Records
+  - Aladdin
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Louis_Jordan.jpg
   caption: Louis Jordan
   background: solo_singer
   born: '1908-07-08'
-  origin: Brinkley, Arkansas, United States
+  origin: 'Brinkley, Arkansas, United States'
   died: '1975-02-04'
 audio_profile:
   tempo_avg: 118.9
@@ -49,40 +49,42 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Chick Webb
-  - Ella Fitzgerald
-  - The Tympany Five
+    - Chick Webb
+    - Ella Fitzgerald
+    - The Tympany Five
   influenced:
-  - Chuck Berry
-  - Little Richard
-  - James Brown
+    - Chuck Berry
+    - Little Richard
+    - James Brown
   mentors:
-  - James Aaron Jordan
-  - Lester Young
+    - James Aaron Jordan
+    - Lester Young
 related_artists: []
 spotify_data:
   followers: 56235
   id: 2nRbxpnBMMbtMBWH5QdqH2
   popularity: 37
-  url: https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2
+  url: 'https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2'
   verified: false
 discography_enriched: true
 albums_count: 10
 singles_count: 4
 top_tracks:
-- Is You Is Or Is You Ain't (My Baby) (Somebody Up There Digs Me)
-- Is You Is Or Is You Ain't (My Baby)
-- 'Is You Is or Is You Ain''t My Baby (Saga Jazz: Father of Rhythm''n Blues & Rock''n Roll)'
-- Caldonia Boogie (BD Music Presents Louis Jordan)
-- Choo Choo Ch'Boogie (Somebody Up There Digs Me)
-- Let The Good Times Roll (Somebody Up There Digs Me)
-- Saturday Night Fish Fry, Pts. 1 & 2 (BD Music Presents Louis Jordan)
-- Salt Pork West Virginia (Somebody Up There Digs Me)
-- Ain't Nobody Here But Us Chickens (Somebody Up There Digs Me)
-- Is You Is Or Is You Ain't, My Baby? (Rock Doc!)
+  - Is You Is Or Is You Ain't (My Baby) (Somebody Up There Digs Me)
+  - Is You Is Or Is You Ain't (My Baby)
+  - >-
+    Is You Is or Is You Ain't My Baby (Saga Jazz: Father of Rhythm'n Blues &
+    Rock'n Roll)
+  - Caldonia Boogie (BD Music Presents Louis Jordan)
+  - Choo Choo Ch'Boogie (Somebody Up There Digs Me)
+  - Let The Good Times Roll (Somebody Up There Digs Me)
+  - 'Saturday Night Fish Fry, Pts. 1 & 2 (BD Music Presents Louis Jordan)'
+  - Salt Pork West Virginia (Somebody Up There Digs Me)
+  - Ain't Nobody Here But Us Chickens (Somebody Up There Digs Me)
+  - 'Is You Is Or Is You Ain''t, My Baby? (Rock Doc!)'
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2
+  spotify: 'https://open.spotify.com/artist/2nRbxpnBMMbtMBWH5QdqH2'
   wikipedia: Not directly provided in search results; no Wikipedia URL found in sources.
 image_path: 03_Resources/source_material/ArtistPortraits/Louis_Jordan.jpg
 biography_source: wikipedia
@@ -90,14 +92,16 @@ biography_enhanced_at: '2025-09-30T12:06:44.034893'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- EBSCO Research Starters
-- The Syncopated Times
-- Encyclopedia of Arkansas
-- Britannica
+  - EBSCO Research Starters
+  - The Syncopated Times
+  - Encyclopedia of Arkansas
+  - Britannica
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:44:14.167153
+entry_created: 2025-09-22T21:44:14.167Z
 last_updated: '2025-12-23T08:16:03.098013'
+is_active: false
+artist_type: person
 ---
 
 ![](Louis_Jordan.jpg)

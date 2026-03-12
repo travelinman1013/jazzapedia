@@ -1,45 +1,47 @@
 ---
 biography_enhanced_at: '2026-01-03T01:48:28.521664'
-birth_place: Akron, Ohio, United States
+birth_place: 'Akron, Ohio, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-03T01:48:28.521671'
 external_urls:
-  spotify: https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6
+  spotify: 'https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6'
   wikipedia: ''
 genres:
-- country
-- honky tonk
+  - country
+  - honky tonk
 image_path: 03_Resources/source_material/ArtistPortraits/david_allen_coe.jpg
 last_updated: '2026-01-03T01:48:28.521672'
 musical_connections:
   collaborators:
-  - Shelby Singleton
-  - Tanya Tucker
-  - Tyler Coe
-  - Warren Hayes
+    - Shelby Singleton
+    - Tanya Tucker
+    - Tyler Coe
+    - Warren Hayes
   influenced:
-  - Kid Rock
+    - Kid Rock
   mentors:
-  - Screamin’ Jay Hawkins
-  - Hank Ballard
-  - Merle Haggard
+    - Screamin’ Jay Hawkins
+    - Hank Ballard
+    - Merle Haggard
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.legendarydavidallancoe.com
-- https://www.legendsofcountrymusic.com/artists-biographies/david-allan-coe
-- https://augustatoday.com/2025/06/14/walking-the-floor-coe-is-an-outlaw-among-outlaws/
-- https://www.last.fm/music/David+Allan+Coe/+wiki
-- https://sunrecords.com/artists/david-allan-coe/
-- http://swampland.com/articles/view/title:david_allan_coe
+  - 'https://www.legendarydavidallancoe.com'
+  - 'https://www.legendsofcountrymusic.com/artists-biographies/david-allan-coe'
+  - >-
+    https://augustatoday.com/2025/06/14/walking-the-floor-coe-is-an-outlaw-among-outlaws/
+  - 'https://www.last.fm/music/David+Allan+Coe/+wiki'
+  - 'https://sunrecords.com/artists/david-allan-coe/'
+  - 'http://swampland.com/articles/view/title:david_allan_coe'
 spotify_data:
   followers: 1076957
   id: 6nwh8AhPpbwOUnHZJWrHT6
   popularity: 60
-  url: https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6
+  url: 'https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6'
 status: active
-title: david allen coe
-
+title: David Allan Coe
+birth_date: '1939-09-06'
+artist_type: person
 ---
 
 ![](david_allen_coe.jpg)

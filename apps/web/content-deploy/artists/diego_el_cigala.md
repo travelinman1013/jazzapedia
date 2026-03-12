@@ -5,16 +5,16 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1968-12-27'
-birth_place: Madrid
+birth_place: 'Madrid, Madrid, Spain'
 genres:
-- flamenco
-- bolero
-- flamenco pop
-- latin jazz
-- tango
-- son cubano
+  - flamenco
+  - bolero
+  - flamenco pop
+  - latin jazz
+  - tango
+  - son cubano
 instruments:
-- lead vocals
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/diego_el_cigala.jpg
   caption: Diego El Cigala
@@ -28,7 +28,7 @@ audio_profile:
   danceability_avg: 0.587
   acousticness_avg: 0.615
   instrumentalness_avg: 0.004
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.069
   liveness_avg: 0.322
   track_count: 50
@@ -36,59 +36,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bebo Valdés
-  - Jerry González
-  - Tomatito
-  - Vicente Amigo
-  - Paco de Lucía
-  - Niño Josele
+    - Bebo Valdés
+    - Jerry González
+    - Tomatito
+    - Vicente Amigo
+    - Paco de Lucía
+    - Niño Josele
   influenced:
-  - Rosalía
+    - Rosalía
   mentors:
-  - José de Córdoba
-  - Rafael Farina
+    - José de Córdoba
+    - Rafael Farina
 spotify_data:
   followers: 327192
   id: 7mLYMGXg84miYydKwi2aRi
   popularity: 56
-  url: https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi
+  url: 'https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi'
 discography_enriched: true
 top_tracks:
-- Te Quiero Te Quiero (Parte De Mí)
-- Pero a tu lado 2020
-- Lágrimas Negras (Lágrimas Negras)
-- Corazón Loco (Lágrimas Negras)
-- Inolvidable (Lágrimas Negras)
-- Historia de un amor (Dos Lágrimas (Bonus Track Version))
-- Se Me Olvidó Que Te Olvidé (Lágrimas Negras)
-- Veinte Años (Lágrimas Negras)
-- Si Tú Me Dices Ven (Cigala Canta a México)
-- Lagrimas Negras (with Diego "El Cigala") (Gracias A Vosotros)
+  - Te Quiero Te Quiero (Parte De Mí)
+  - Pero a tu lado 2020
+  - Lágrimas Negras (Lágrimas Negras)
+  - Corazón Loco (Lágrimas Negras)
+  - Inolvidable (Lágrimas Negras)
+  - Historia de un amor (Dos Lágrimas (Bonus Track Version))
+  - Se Me Olvidó Que Te Olvidé (Lágrimas Negras)
+  - Veinte Años (Lágrimas Negras)
+  - Si Tú Me Dices Ven (Cigala Canta a México)
+  - Lagrimas Negras (with Diego "El Cigala") (Gracias A Vosotros)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ff84fb01-b472-45e4-b2cd-94d4970e2ed8
-  spotify: https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi
-  wikipedia: https://en.wikipedia.org/wiki/Diego_El_Cigala
+  musicbrainz: 'https://musicbrainz.org/artist/ff84fb01-b472-45e4-b2cd-94d4970e2ed8'
+  spotify: 'https://open.spotify.com/artist/7mLYMGXg84miYydKwi2aRi'
+  wikipedia: 'https://en.wikipedia.org/wiki/Diego_El_Cigala'
 image_path: 03_Resources/source_material/ArtistPortraits/diego_el_cigala.jpg
 biography_enhanced_at: '2025-11-23T06:25:31.303702'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.andalucia.com/flamenco/musicians/el-cigala.htm
-- https://latinjazznet.com/artist-profiles/artist-profile-diego-el-cigala/
-- http://diegoelcigala.squarespace.com/bio
-- https://www.laphil.com/musicdb/artists/14/diego-el-cigala
-- https://www.womex.com/virtual/la_bikina/diego_el_cigala
-- https://www.spainculture.us/city/washington-dc/diego-el-cigala-in-washington-dc/
-- https://chancentre.com/events/diego-el-cigala/
+  - 'https://www.andalucia.com/flamenco/musicians/el-cigala.htm'
+  - 'https://latinjazznet.com/artist-profiles/artist-profile-diego-el-cigala/'
+  - 'http://diegoelcigala.squarespace.com/bio'
+  - 'https://www.laphil.com/musicdb/artists/14/diego-el-cigala'
+  - 'https://www.womex.com/virtual/la_bikina/diego_el_cigala'
+  - >-
+    https://www.spainculture.us/city/washington-dc/diego-el-cigala-in-washington-dc/
+  - 'https://chancentre.com/events/diego-el-cigala/'
 network_extracted: true
 entry_created: '2025-11-23T06:25:31.303713'
 last_updated: '2025-12-23T08:16:07.768084'
 gender: Male
 musicbrainz_id: ff84fb01-b472-45e4-b2cd-94d4970e2ed8
 tags:
-- flamenco music
-- flamenco pop
-- regional mexicano
+  - flamenco music
+  - flamenco pop
+  - regional mexicano
 ---
 
 ![](diego_el_cigala.jpg)

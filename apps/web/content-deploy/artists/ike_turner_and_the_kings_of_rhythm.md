@@ -1,11 +1,12 @@
 ---
-title: ike turner and the kings of rhythm
+title: Ike Turner and the Kings of Rhythm
 wiki_slug: ike-turner-and-the-kings-of-rhythm
 schema_version: 2
 status: active
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/ike_turner_and_the_kings_of_rhythm.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/ike_turner_and_the_kings_of_rhythm.jpg
   caption: ike turner and the kings of rhythm
   background: solo_singer
 audio_profile:
@@ -23,47 +24,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jackie Brenston
-  - Tina Turner
-  - The Ikettes
+    - Jackie Brenston
+    - Tina Turner
+    - The Ikettes
   influenced:
-  - Tina Turner
-  - The Rolling Stones
-  - Subsequent R&B and soul showbands
+    - Tina Turner
+    - The Rolling Stones
+    - Subsequent R&B and soul showbands
   mentors:
-  - Pinetop Perkins
-  - Sam Phillips
+    - Pinetop Perkins
+    - Sam Phillips
 spotify_data:
   followers: 9145
   id: 47V7QCymL7BMSADw2RrKdD
   popularity: 25
-  url: https://open.spotify.com/artist/47V7QCymL7BMSADw2RrKdD
+  url: 'https://open.spotify.com/artist/47V7QCymL7BMSADw2RrKdD'
 discography_enriched: true
 top_tracks:
-- Getting Nasty (A Black Man's Soul)
-- Thinking Black (A Black Man's Soul)
-- Black Angel (A Black Man's Soul)
-- Ghetto Funk (A Black Man's Soul)
-- Funky Mule (A Black Man's Soul)
-- Black's Alley (A Black Man's Soul)
-- Black Beauty (A Black Man's Soul)
-- Philly Dog (A Black Man's Soul)
-- No More Doggin' (A Black Man's Soul)
-- Nuttin' Up (A Black Man's Soul)
+  - Getting Nasty (A Black Man's Soul)
+  - Thinking Black (A Black Man's Soul)
+  - Black Angel (A Black Man's Soul)
+  - Ghetto Funk (A Black Man's Soul)
+  - Funky Mule (A Black Man's Soul)
+  - Black's Alley (A Black Man's Soul)
+  - Black Beauty (A Black Man's Soul)
+  - Philly Dog (A Black Man's Soul)
+  - No More Doggin' (A Black Man's Soul)
+  - Nuttin' Up (A Black Man's Soul)
 external_urls:
-  spotify: https://open.spotify.com/artist/47V7QCymL7BMSADw2RrKdD
-  wikipedia: https://en.wikipedia.org/wiki/Ike_Turner
-image_path: 03_Resources/source_material/ArtistPortraits/ike_turner_and_the_kings_of_rhythm.jpg
+  spotify: 'https://open.spotify.com/artist/47V7QCymL7BMSADw2RrKdD'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ike_Turner'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/ike_turner_and_the_kings_of_rhythm.jpg
 biography_enhanced_at: '2025-12-05T06:15:34.316700'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- General music history references on Ike Turner, the Kings of Rhythm, and early rock and roll.
-- Biographical and critical overviews of Ike Turner’s career that discuss the formation and evolution of the Kings of Rhythm.
+  - >-
+    General music history references on Ike Turner, the Kings of Rhythm, and
+    early rock and roll.
+  - >-
+    Biographical and critical overviews of Ike Turner’s career that discuss the
+    formation and evolution of the Kings of Rhythm.
 network_extracted: true
 entry_created: '2025-12-05T06:15:34.316707'
 last_updated: '2025-12-23T08:16:09.802501'
-origin: Clarksdale, Mississippi, United States
+origin: 'Clarksdale, Mississippi, United States'
+artist_type: band
 ---
 
 ![](ike_turner_and_the_kings_of_rhythm.jpg)

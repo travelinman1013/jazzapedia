@@ -3,14 +3,14 @@ title: Mary Lane
 wiki_slug: mary-lane
 schema_version: 2
 status: active
-birth_place: Clarendon, Arkansas, United States
+birth_place: 'Clarendon, Arkansas, United States'
 genres:
-- gothic country
+  - gothic country
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/mary_lane.jpg
   caption: Mary Lane
   background: solo_singer
-  origin: Clarendon, Arkansas, United States
+  origin: 'Clarendon, Arkansas, United States'
 audio_profile:
   tempo_avg: 118.9
   energy_avg: 0.509
@@ -18,7 +18,7 @@ audio_profile:
   danceability_avg: 0.459
   acousticness_avg: 0.338
   instrumentalness_avg: 0.195
-  loudness_avg: -10.0
+  loudness_avg: -10
   speechiness_avg: 0.042
   liveness_avg: 0.159
   track_count: 51
@@ -26,46 +26,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Women of the Blues
+    - Women of the Blues
   influenced:
-  - Emerging Chicago Blues Artists
+    - Emerging Chicago Blues Artists
   mentors:
-  - Chicago West Side Blues Community
+    - Chicago West Side Blues Community
 spotify_data:
   followers: 282418
   id: 1fpXM23IoNckJ7NDAm8YJQ
   popularity: 48
-  url: https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ
+  url: 'https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ'
 discography_enriched: true
 top_tracks:
-- Nànnuflày (Elwan)
-- Snake Song (Hawk)
-- Come Undone (Hawk)
-- Strange Religion (Bubblegum)
-- Hit the City (Bubblegum)
-- Crystalised
-- The Lonely Night - Reprise Version (Reprise)
-- One Hundred Days (Bubblegum)
-- Looking for the Rain (The Road, Pt. 1)
-- Come on Over (Turn Me On) (Sunday at Devil Dirt)
+  - Nànnuflày (Elwan)
+  - Snake Song (Hawk)
+  - Come Undone (Hawk)
+  - Strange Religion (Bubblegum)
+  - Hit the City (Bubblegum)
+  - Crystalised
+  - The Lonely Night - Reprise Version (Reprise)
+  - One Hundred Days (Bubblegum)
+  - 'Looking for the Rain (The Road, Pt. 1)'
+  - Come on Over (Turn Me On) (Sunday at Devil Dirt)
 external_urls:
-  spotify: https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ
+  spotify: 'https://open.spotify.com/artist/1fpXM23IoNckJ7NDAm8YJQ'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/mary_lane.jpg
 biography_enhanced_at: '2025-11-20T07:08:51.648227'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.allmusic.com/artist/mary-lane-mn0000319087
-- https://archive.musicmaker.org/artists/mary-lane/
-- https://www.chicagobluesguide.com/post/mary-lane-has-been-singing-the-blues-for-over-60-years-with-little-recognition
-- https://www.ormanmusicmedia.com/mary-lane
-- https://news.wttw.com/2022/11/11/feelin-blues-chicago-legend-mary-lane-blues-life
-- https://www.bluesblastmagazine.com/featured-artist-mary-lane/
+  - 'https://www.allmusic.com/artist/mary-lane-mn0000319087'
+  - 'https://archive.musicmaker.org/artists/mary-lane/'
+  - >-
+    https://www.chicagobluesguide.com/post/mary-lane-has-been-singing-the-blues-for-over-60-years-with-little-recognition
+  - 'https://www.ormanmusicmedia.com/mary-lane'
+  - >-
+    https://news.wttw.com/2022/11/11/feelin-blues-chicago-legend-mary-lane-blues-life
+  - 'https://www.bluesblastmagazine.com/featured-artist-mary-lane/'
 network_extracted: true
 entry_created: '2025-11-20T07:08:51.648239'
 last_updated: '2025-12-23T08:16:12.783842'
-
+birth_date: '1935-11-23'
+artist_type: person
 ---
 
 ![](mary_lane.jpg)

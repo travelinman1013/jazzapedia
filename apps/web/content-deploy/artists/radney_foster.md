@@ -1,32 +1,32 @@
 ---
-title: radney foster
+title: Radney Foster
 wiki_slug: radney-foster
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1959-07-20'
-birth_place: Del Rio
+birth_place: 'Del Rio, Texas, United States'
 genres:
-- texas country
-- red dirt
+  - texas country
+  - red dirt
 instruments:
-- electric guitar
-- acoustic guitar
-- guitar
-- background vocals
-- lead vocals
-- other vocals
+  - electric guitar
+  - acoustic guitar
+  - guitar
+  - background vocals
+  - lead vocals
+  - other vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1557aa68-2a50-4266-8911-ccbf23006213
-  name: Foster and Lloyd
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 46ae106d-fe60-4fdc-a5a9-026c05ce3f09
-  name: Radney Foster and the Confessions
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1557aa68-2a50-4266-8911-ccbf23006213
+    name: Foster and Lloyd
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 46ae106d-fe60-4fdc-a5a9-026c05ce3f09
+    name: Radney Foster and the Confessions
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/radney_foster.jpg
   caption: radney foster
@@ -48,54 +48,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bill Lloyd
-  - Randy Rogers Band
-  - Jack Ingram
+    - Bill Lloyd
+    - Randy Rogers Band
+    - Jack Ingram
   influenced:
-  - Darius Rucker
-  - Randy Rogers
-  - Cody Johnson
+    - Darius Rucker
+    - Randy Rogers
+    - Cody Johnson
   mentors:
-  - Guy Clark
+    - Guy Clark
 spotify_data:
   followers: 35559
   id: 5g9qBduN6VR3dzHA8eCTEW
   popularity: 36
-  url: https://open.spotify.com/artist/5g9qBduN6VR3dzHA8eCTEW
+  url: 'https://open.spotify.com/artist/5g9qBduN6VR3dzHA8eCTEW'
 discography_enriched: true
 top_tracks:
-- Nobody Wins (Del Rio, Tx 1959)
-- Just Call Me Lonesome (Del Rio, Tx 1959)
-- Texas in 1880 - Live at the Continental Club, Austin, TX, September 2000 (Are You Ready For the Big Show? (Live))
-- Texas In 1880
-- Just Call Me Lonesome (Del Rio)
-- Louisiana Blue (Del Rio, Tx 1959)
-- Don't Say Goodbye (Del Rio, Tx 1959)
-- Closing Time (Del Rio, Tx 1959)
-- Sycamore Creek (For You to See the Stars)
-- Half of My Mistakes (This World We Live In)
+  - 'Nobody Wins (Del Rio, Tx 1959)'
+  - 'Just Call Me Lonesome (Del Rio, Tx 1959)'
+  - >-
+    Texas in 1880 - Live at the Continental Club, Austin, TX, September 2000
+    (Are You Ready For the Big Show? (Live))
+  - Texas In 1880
+  - Just Call Me Lonesome (Del Rio)
+  - 'Louisiana Blue (Del Rio, Tx 1959)'
+  - 'Don''t Say Goodbye (Del Rio, Tx 1959)'
+  - 'Closing Time (Del Rio, Tx 1959)'
+  - Sycamore Creek (For You to See the Stars)
+  - Half of My Mistakes (This World We Live In)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c22de376-80d0-466e-bc06-ec1a00e9aad9
-  spotify: https://open.spotify.com/artist/5g9qBduN6VR3dzHA8eCTEW
-  wikipedia: https://en.wikipedia.org/wiki/Radney_Foster
+  musicbrainz: 'https://musicbrainz.org/artist/c22de376-80d0-466e-bc06-ec1a00e9aad9'
+  spotify: 'https://open.spotify.com/artist/5g9qBduN6VR3dzHA8eCTEW'
+  wikipedia: 'https://en.wikipedia.org/wiki/Radney_Foster'
 image_path: 03_Resources/source_material/ArtistPortraits/radney_foster.jpg
 biography_enhanced_at: '2025-11-11T09:36:26.047444'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://wildflowerfestival.com/texas-native-radney-foster-brings-country-flair-back-home/
-- https://www.tennessean.com/story/entertainment/music/2025/02/14/radney-foster-chiefs-nashville-singer-songwriter/78515148007/
-- https://texassongwriters.com/inductee/radney-foster/
-- https://www.radneyfoster.com/bio
-- https://swco-ir.tdl.org/bitstreams/ead95e84-7ef3-4c50-a006-aa9d8af7133f/download
+  - >-
+    https://wildflowerfestival.com/texas-native-radney-foster-brings-country-flair-back-home/
+  - >-
+    https://www.tennessean.com/story/entertainment/music/2025/02/14/radney-foster-chiefs-nashville-singer-songwriter/78515148007/
+  - 'https://texassongwriters.com/inductee/radney-foster/'
+  - 'https://www.radneyfoster.com/bio'
+  - >-
+    https://swco-ir.tdl.org/bitstreams/ead95e84-7ef3-4c50-a006-aa9d8af7133f/download
 network_extracted: true
 entry_created: '2025-11-11T09:36:26.047455'
 last_updated: '2025-12-23T08:16:14.577760'
 gender: Male
 musicbrainz_id: c22de376-80d0-466e-bc06-ec1a00e9aad9
 tags:
-- country
-
+  - country
 ---
 
 ![](radney_foster.jpg)

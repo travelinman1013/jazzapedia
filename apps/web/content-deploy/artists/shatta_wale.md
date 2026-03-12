@@ -2,53 +2,52 @@
 artist_type: person
 biography_enhanced_at: '2026-01-04T01:58:57.206345'
 birth_date: '1984-10-17'
-birth_place: Accra
+birth_place: 'Accra, Ghana, Country'
 enhancement_provider: perplexity
 entry_created: '2026-01-04T01:58:57.206350'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/387def2a-4309-4007-a51c-dfb1bc2c2962
-  spotify: https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI
-  wikipedia: https://en.wikipedia.org/wiki/Shatta_Wale
+  musicbrainz: 'https://musicbrainz.org/artist/387def2a-4309-4007-a51c-dfb1bc2c2962'
+  spotify: 'https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI'
+  wikipedia: 'https://en.wikipedia.org/wiki/Shatta_Wale'
 gender: Male
 genres:
-- hiplife
-- azonto
-- shatta
-- afrobeats
-- afrobeat
-- asakaa
-- afropop
-- highlife
-- dancehall
+  - hiplife
+  - azonto
+  - shatta
+  - afrobeats
+  - afrobeat
+  - asakaa
+  - afropop
+  - highlife
+  - dancehall
 image_path: 03_Resources/source_material/ArtistPortraits/shatta_wale.jpg
 instruments:
-- lead vocals
+  - lead vocals
 last_updated: '2026-01-04T01:58:57.206351'
 musical_connections:
   collaborators:
-  - Sarkodie
-  - Jah Vinci
-  - Davido
-  - Beyoncé
-  - Major Lazer
+    - Sarkodie
+    - Jah Vinci
+    - Davido
+    - Beyoncé
+    - Major Lazer
   influenced: []
   mentors: []
 musicbrainz_id: 387def2a-4309-4007-a51c-dfb1bc2c2962
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Shatta_Wale
-- https://whoswhoghana.com/ghanas-power-influencers/shatta-wale/
-- https://www.famousbirthdays.com/people/shatta-wale.html
-- https://www.ghanaweb.com/person/Shatta-Wale-1246
+  - 'https://en.wikipedia.org/wiki/Shatta_Wale'
+  - 'https://whoswhoghana.com/ghanas-power-influencers/shatta-wale/'
+  - 'https://www.famousbirthdays.com/people/shatta-wale.html'
+  - 'https://www.ghanaweb.com/person/Shatta-Wale-1246'
 spotify_data:
   followers: 659401
   id: 42q0rYXtR561ypg1Fcw1PI
   popularity: 60
-  url: https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI
+  url: 'https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI'
 status: active
-title: shatta wale
-
+title: Shatta Wale
 ---
 
 ![](shatta_wale.jpg)

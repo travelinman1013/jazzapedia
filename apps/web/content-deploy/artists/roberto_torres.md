@@ -5,12 +5,12 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1940-02-10'
-birth_place: Cuba
+birth_place: 'Güines, Cuba, United States'
 genres:
-- cumbia
-- salsa
-- salsa romantica
-- son cubano
+  - cumbia
+  - salsa
+  - salsa romantica
+  - son cubano
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/roberto_torres.jpg
   caption: Roberto Torres
@@ -32,49 +32,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sonora Matancera
-  - Arturo Sandoval
-  - Celia Cruz
+    - Sonora Matancera
+    - Arturo Sandoval
+    - Celia Cruz
   influenced:
-  - Younger generations of salsa and son musicians
+    - Younger generations of salsa and son musicians
   mentors:
-  - Traditional Cuban son musicians
+    - Traditional Cuban son musicians
 spotify_data:
   followers: 53103
   id: 0tMEHta5p06GCSdnSPNS8B
   popularity: 40
-  url: https://open.spotify.com/artist/0tMEHta5p06GCSdnSPNS8B
+  url: 'https://open.spotify.com/artist/0tMEHta5p06GCSdnSPNS8B'
 discography_enriched: true
 top_tracks:
-- Caballo Viejo (Roberto Torres y su Charanga Vallenata, Vol. 2)
-- Caballo Viejo (Grandes Soneros de la Epoca)
-- Juliana (Grandes Soneros de la Epoca)
-- Vuelve (Grandes Soneros de la Epoca)
-- Nació Varón (Grandes Soneros de la Epoca)
-- El Tractor Amarillo (Roberto Torres con Charanga de la 4)
-- Caballo Viejo (Lo Mejor De Roberto Torres)
-- Para Que Aprendas (Lo Mejor De Roberto Torres)
-- La Muy, Muy (Lo Mejor De Roberto Torres)
-- Corazón de Acero (Grandes Soneros de la Epoca)
+  - 'Caballo Viejo (Roberto Torres y su Charanga Vallenata, Vol. 2)'
+  - Caballo Viejo (Grandes Soneros de la Epoca)
+  - Juliana (Grandes Soneros de la Epoca)
+  - Vuelve (Grandes Soneros de la Epoca)
+  - Nació Varón (Grandes Soneros de la Epoca)
+  - El Tractor Amarillo (Roberto Torres con Charanga de la 4)
+  - Caballo Viejo (Lo Mejor De Roberto Torres)
+  - Para Que Aprendas (Lo Mejor De Roberto Torres)
+  - 'La Muy, Muy (Lo Mejor De Roberto Torres)'
+  - Corazón de Acero (Grandes Soneros de la Epoca)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a3bbee3c-ef45-43e7-bf4f-ba0f871ea716
-  spotify: https://open.spotify.com/artist/0tMEHta5p06GCSdnSPNS8B
-  wikipedia: https://en.wikipedia.org/wiki/Roberto_Torres_(musician)
+  musicbrainz: 'https://musicbrainz.org/artist/a3bbee3c-ef45-43e7-bf4f-ba0f871ea716'
+  spotify: 'https://open.spotify.com/artist/0tMEHta5p06GCSdnSPNS8B'
+  wikipedia: 'https://en.wikipedia.org/wiki/Roberto_Torres_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/roberto_torres.jpg
 biography_enhanced_at: '2025-11-10T03:33:52.534599'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Roberto+Torres/+wiki
-- https://recentmusic.com/artist/0tMEHta5p06GCSdnSPNS8B/
-- https://www.allmusic.com/artist/roberto-torres-mn0000247004
-- http://www.donaldclarkemusicbox.com/encyclopedia/detail.php?s=3562
-- https://www.jazzmusicarchives.com/artist/roberto-torres
+  - 'https://www.last.fm/music/Roberto+Torres/+wiki'
+  - 'https://recentmusic.com/artist/0tMEHta5p06GCSdnSPNS8B/'
+  - 'https://www.allmusic.com/artist/roberto-torres-mn0000247004'
+  - 'http://www.donaldclarkemusicbox.com/encyclopedia/detail.php?s=3562'
+  - 'https://www.jazzmusicarchives.com/artist/roberto-torres'
 network_extracted: true
 entry_created: '2025-11-10T03:33:52.534614'
 last_updated: '2025-12-23T08:16:14.936791'
 gender: Male
 musicbrainz_id: a3bbee3c-ef45-43e7-bf4f-ba0f871ea716
+origin: 'Miami, Florida, United States'
 ---
 
 ![](roberto_torres.jpg)

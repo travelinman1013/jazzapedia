@@ -1,10 +1,10 @@
 ---
-title: zydeco playboys
+title: Zydeco Playboys
 wiki_slug: zydeco-playboys
 schema_version: 2
 status: active
 genres:
-- zydeco
+  - zydeco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/zydeco_playboys.jpg
   caption: zydeco playboys
@@ -24,37 +24,43 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Morris Ledet
-  - Mike Lachney
+    - Morris Ledet
+    - Mike Lachney
   influenced: []
   mentors:
-  - Boozoo Chavis
-  - Morris Ledet
+    - Boozoo Chavis
+    - Morris Ledet
 spotify_data:
   followers: 0
   id: 6Z54hmkl9j9ko6IQ0oGAcd
   popularity: 0
-  url: https://open.spotify.com/artist/6Z54hmkl9j9ko6IQ0oGAcd
+  url: 'https://open.spotify.com/artist/6Z54hmkl9j9ko6IQ0oGAcd'
 discography_enriched: true
 top_tracks:
-- Move On Down The Line - Live (Zydeco Shootout At El Sid O's (Live))
+  - Move On Down The Line - Live (Zydeco Shootout At El Sid O's (Live))
 external_urls:
-  spotify: https://open.spotify.com/artist/6Z54hmkl9j9ko6IQ0oGAcd
-  wikipedia: https://en.wikipedia.org/wiki/Rosie_Ledet
+  spotify: 'https://open.spotify.com/artist/6Z54hmkl9j9ko6IQ0oGAcd'
+  wikipedia: 'https://en.wikipedia.org/wiki/Rosie_Ledet'
 image_path: ''
 biography_enhanced_at: '2025-10-30T11:49:53.512774'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Rosie_Ledet
-- https://www.louisianafolklife.org/resources/lalegendarymusicianslist-sla.html
-- https://cotatifest.com/2019/01/30/rosie-ledet-the-zydeco-playboys/
-- https://www.houstonpress.com/music/rosie-ledet-and-the-zydeco-playboys-6545983/
+  - 'https://en.wikipedia.org/wiki/Rosie_Ledet'
+  - >-
+    https://www.louisianafolklife.org/resources/lalegendarymusicianslist-sla.html
+  - 'https://cotatifest.com/2019/01/30/rosie-ledet-the-zydeco-playboys/'
+  - >-
+    https://www.houstonpress.com/music/rosie-ledet-and-the-zydeco-playboys-6545983/
 network_extracted: true
 entry_created: '2025-10-30T11:49:53.512789'
 last_updated: '2025-12-23T08:16:18.502596'
-origin: Church Point, Louisiana, United States (Rosie Ledet's birthplace); Iota, Louisiana, United States (current residence
-  and band origin)
+origin: >-
+  Church Point, Louisiana, United States (Rosie Ledet's birthplace); Iota,
+  Louisiana, United States (current residence and band origin)
+birth_place: 'Church Point, Louisiana, United States'
+birth_date: '1971'
+artist_type: band
 ---
 
 ![]()

@@ -3,41 +3,46 @@ biography_enhanced_at: '2026-01-09T02:12:34.383489'
 enhancement_provider: perplexity
 entry_created: '2026-01-09T02:12:34.383498'
 external_urls:
-  spotify: https://open.spotify.com/artist/2MLCA5LxOACoZRdTn8ThmI
+  spotify: 'https://open.spotify.com/artist/2MLCA5LxOACoZRdTn8ThmI'
   wikipedia: ''
 genres:
-- funk gospel
-image_path: 03_Resources/source_material/ArtistPortraits/willie_scott_and_the_birmingham_spirituals.jpg
+  - funk gospel
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/willie_scott_and_the_birmingham_spirituals.jpg
 last_updated: '2026-01-09T02:12:34.383500'
 musical_connections:
   collaborators:
-  - Willie Scott
-  - Members of The Birmingham Spirituals (e.g., Butler, Lofton, Curry)
-  - Manager who recruited Willie Scott
-  - Senoj Records
-  - Luaka Bop
+    - Willie Scott
+    - 'Members of The Birmingham Spirituals (e.g., Butler, Lofton, Curry)'
+    - Manager who recruited Willie Scott
+    - Senoj Records
+    - Luaka Bop
   influenced:
-  - Modern collectors and DJs of spiritual soul and gospel (various)
-  - Listeners and artists exploring "secular" or socially conscious gospel
+    - Modern collectors and DJs of spiritual soul and gospel (various)
+    - Listeners and artists exploring "secular" or socially conscious gospel
   mentors:
-  - Local Birmingham gospel quartets (various groups)
-  - Soul and funk artists of the 1960s–1970s (various)
+    - Local Birmingham gospel quartets (various groups)
+    - Soul and funk artists of the 1960s–1970s (various)
 network_extracted: true
-origin: Birmingham, Alabama, United States
+origin: 'Birmingham, Alabama, United States'
 primary_source: perplexity
 research_sources:
-- https://www.flaunt.com/blog/willie-scott-the-birmingham-spirituals
-- https://www.tracklib.com/music/artists/willie-scott-the-birmingham-spirituals
-- https://coolhunting.com/culture/willie-scott-the-birmingham-spirituals-keep-your-faith-to-the-sky/
-- https://www.youtube.com/watch?v=PVzkXkqENaE
-- https://www.luakabop.com/news/the-time-for-peace-is-now-soul-gospel-of-the-1970s
+  - 'https://www.flaunt.com/blog/willie-scott-the-birmingham-spirituals'
+  - >-
+    https://www.tracklib.com/music/artists/willie-scott-the-birmingham-spirituals
+  - >-
+    https://coolhunting.com/culture/willie-scott-the-birmingham-spirituals-keep-your-faith-to-the-sky/
+  - 'https://www.youtube.com/watch?v=PVzkXkqENaE'
+  - >-
+    https://www.luakabop.com/news/the-time-for-peace-is-now-soul-gospel-of-the-1970s
 spotify_data:
   followers: 869
   id: 2MLCA5LxOACoZRdTn8ThmI
   popularity: 18
-  url: https://open.spotify.com/artist/2MLCA5LxOACoZRdTn8ThmI
+  url: 'https://open.spotify.com/artist/2MLCA5LxOACoZRdTn8ThmI'
 status: active
 title: Willie Scott & The Birmingham Spirituals
+artist_type: band
 ---
 
 ![](willie_scott_and_the_birmingham_spirituals.jpg)

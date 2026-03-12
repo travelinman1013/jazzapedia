@@ -1,5 +1,5 @@
 ---
-title: GARDEN DISTRICT TRIO
+title: Garden District Trio
 wiki_slug: garden-district-trio
 schema_version: 2
 status: active
@@ -15,7 +15,7 @@ audio_profile:
   danceability_avg: 0.533
   acousticness_avg: 0.693
   instrumentalness_avg: 0.656
-  loudness_avg: -14.0
+  loudness_avg: -14
   speechiness_avg: 0.043
   liveness_avg: 0.212
   track_count: 50
@@ -23,48 +23,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jordan Baker
-  - Brian Quezergue
-  - Roland Guerin
+    - Jordan Baker
+    - Brian Quezergue
+    - Roland Guerin
   influenced: []
   mentors:
-  - Smokey Johnson
-  - Wardell Quezergue
-  - Horace Silver
+    - Smokey Johnson
+    - Wardell Quezergue
+    - Horace Silver
 spotify_data:
   followers: 103
   id: 64vb4h1R3ahFU8pljL0Yb2
   popularity: 0
-  url: https://open.spotify.com/artist/64vb4h1R3ahFU8pljL0Yb2
+  url: 'https://open.spotify.com/artist/64vb4h1R3ahFU8pljL0Yb2'
 discography_enriched: true
 top_tracks:
-- It's so Clear to Me (Upward)
-- Things Ain't What They Used To Be (Back In New Orleans)
-- If I Had You (Back In New Orleans)
-- Canadian Sunset (Back In New Orleans)
-- Jitterbug Waltz (Back In New Orleans)
-- Summer Samba (Back In New Orleans)
-- Chelsea Bridge (Back In New Orleans)
-- Dinah (Back In New Orleans)
-- I Loves You Porgy (Back In New Orleans)
-- Emily (Back In New Orleans)
+  - It's so Clear to Me (Upward)
+  - Things Ain't What They Used To Be (Back In New Orleans)
+  - If I Had You (Back In New Orleans)
+  - Canadian Sunset (Back In New Orleans)
+  - Jitterbug Waltz (Back In New Orleans)
+  - Summer Samba (Back In New Orleans)
+  - Chelsea Bridge (Back In New Orleans)
+  - Dinah (Back In New Orleans)
+  - I Loves You Porgy (Back In New Orleans)
+  - Emily (Back In New Orleans)
 external_urls:
-  spotify: https://open.spotify.com/artist/64vb4h1R3ahFU8pljL0Yb2
+  spotify: 'https://open.spotify.com/artist/64vb4h1R3ahFU8pljL0Yb2'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/garden_district_trio.jpg
 biography_enhanced_at: '2025-11-11T09:24:55.671370'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://alvasshowroom.com/event/garden-district-band-new-orleans/
-- https://gardendistrictband.com/biography/
-- https://www.offbeat.com/music/garden-district-trio-upward-dhmp-records/
-- https://www.allaboutjazz.com/musicians/hansens-garden-district-band/
-- https://gardendistrictband.bandcamp.com/album/live-in-new-orleans
+  - 'https://alvasshowroom.com/event/garden-district-band-new-orleans/'
+  - 'https://gardendistrictband.com/biography/'
+  - 'https://www.offbeat.com/music/garden-district-trio-upward-dhmp-records/'
+  - 'https://www.allaboutjazz.com/musicians/hansens-garden-district-band/'
+  - 'https://gardendistrictband.bandcamp.com/album/live-in-new-orleans'
 network_extracted: true
 entry_created: '2025-11-11T09:24:55.671373'
 last_updated: '2025-12-23T08:16:08.965627'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](garden_district_trio.jpg)

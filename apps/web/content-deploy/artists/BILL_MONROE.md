@@ -1,28 +1,28 @@
 ---
-title: BILL MONROE
+title: Bill Monroe
 wiki_slug: bill-monroe
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1911-09-13'
-birth_place: Rosine, Kentucky, United States
+birth_place: 'Rosine, Kentucky, United States'
 death_date: '1996-09-09'
 genres:
-- bluegrass
-- christian country
-- traditional country
-- newgrass
-- southern gospel
+  - bluegrass
+  - christian country
+  - traditional country
+  - newgrass
+  - southern gospel
 instruments:
-- eponymous
-- mandolin
-- original
+  - eponymous
+  - mandolin
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/BILL_MONROE.jpg
   caption: BILL MONROE
   background: non_vocal_instrumentalist
   born: '1911-09-13'
-  origin: Rosine, Kentucky, United States
+  origin: 'Rosine, Kentucky, United States'
   died: '1996-09-09'
 audio_profile:
   tempo_avg: 126.4
@@ -39,49 +39,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Charlie Monroe
-  - Birch Monroe
-  - Lester Flatt
-  - Earl Scruggs
+    - Charlie Monroe
+    - Birch Monroe
+    - Lester Flatt
+    - Earl Scruggs
   influenced:
-  - The Stanley Brothers
-  - Lester Flatt & Earl Scruggs
-  - Ricky Skaggs
-  - Del McCoury
+    - The Stanley Brothers
+    - Lester Flatt & Earl Scruggs
+    - Ricky Skaggs
+    - Del McCoury
   mentors:
-  - Arnold Schultz
-  - James Pendleton 'Uncle Pen' Vandiver
+    - Arnold Schultz
+    - James Pendleton 'Uncle Pen' Vandiver
 spotify_data:
   followers: 82816
   id: 5CWbfANRpZbnxdstzcNg5H
   popularity: 32
-  url: https://open.spotify.com/artist/5CWbfANRpZbnxdstzcNg5H
+  url: 'https://open.spotify.com/artist/5CWbfANRpZbnxdstzcNg5H'
 discography_enriched: true
 top_tracks:
-- Foggy Mountain Breakdown (Foggy Mountain Breakdown)
-- Orange Blossom Special (Foggy Mountain Breakdown)
-- Kentucky Waltz (Columbia Historic Edition)
-- White House Blues (Country Music Hall Of Fame)
-- Just Over In The Glory Land (Cryin' Holy Unto The Lord)
-- Just A Little Talk With Jesus (Cryin' Holy Unto The Lord)
-- Jerusalem's Ridge
-- I Saw The Light (The Essential Collection)
-- Nine Pound Hammer Is too Heavy (Bill Monroe Bluegrass Legends)
-- Blue Moon Of Kentucky (Foggy Mountain Breakdown)
+  - Foggy Mountain Breakdown (Foggy Mountain Breakdown)
+  - Orange Blossom Special (Foggy Mountain Breakdown)
+  - Kentucky Waltz (Columbia Historic Edition)
+  - White House Blues (Country Music Hall Of Fame)
+  - Just Over In The Glory Land (Cryin' Holy Unto The Lord)
+  - Just A Little Talk With Jesus (Cryin' Holy Unto The Lord)
+  - Jerusalem's Ridge
+  - I Saw The Light (The Essential Collection)
+  - Nine Pound Hammer Is too Heavy (Bill Monroe Bluegrass Legends)
+  - Blue Moon Of Kentucky (Foggy Mountain Breakdown)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2a2be593-6984-4640-8cf1-717ec7a6e18b
-  spotify: https://open.spotify.com/artist/5CWbfANRpZbnxdstzcNg5H
-  wikipedia: https://en.wikipedia.org/wiki/Bill_Monroe
+  musicbrainz: 'https://musicbrainz.org/artist/2a2be593-6984-4640-8cf1-717ec7a6e18b'
+  spotify: 'https://open.spotify.com/artist/5CWbfANRpZbnxdstzcNg5H'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bill_Monroe'
 image_path: 03_Resources/source_material/ArtistPortraits/BILL_MONROE.jpg
 biography_enhanced_at: '2025-10-20T01:43:56.165442'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Smithsonian Folkways Recordings[1]
-- Britannica[2]
-- Wikipedia[3]
-- Bluegrass Hall of Fame & Museum[4]
-- Country Music Hall of Fame[5]
+  - 'Smithsonian Folkways Recordings[1]'
+  - 'Britannica[2]'
+  - 'Wikipedia[3]'
+  - 'Bluegrass Hall of Fame & Museum[4]'
+  - 'Country Music Hall of Fame[5]'
 network_extracted: true
 entry_created: '2025-10-20T01:43:56.165461'
 last_updated: '2025-12-23T08:16:01.112945'
@@ -90,10 +90,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:00:59.814695'
 musicbrainz_id: 2a2be593-6984-4640-8cf1-717ec7a6e18b
 tags:
-- 1970s
-- 2008 universal fire victim
-- americana
-
+  - 1970s
+  - 2008 universal fire victim
+  - americana
+is_active: false
 ---
 
 ![](BILL_MONROE.jpg)

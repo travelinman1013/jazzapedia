@@ -3,13 +3,13 @@ title: Nick Sanders
 wiki_slug: nick-sanders
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/nick_sanders.jpg
   caption: Nick Sanders
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 129.6
   energy_avg: 0.688
@@ -25,46 +25,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Henry Fraser
-  - Connor Baker
-  - Sunnyside Records
+    - Henry Fraser
+    - Connor Baker
+    - Sunnyside Records
   influenced:
-  - ''
+    - ''
   mentors:
-  - Fred Hersch
-  - Thelonious Monk
-  - Bill Evans
+    - Fred Hersch
+    - Thelonious Monk
+    - Bill Evans
 spotify_data:
   followers: 4
   id: 1v0nrFChVfSCkxILJHpyFm
   popularity: 11
-  url: https://open.spotify.com/artist/1v0nrFChVfSCkxILJHpyFm
+  url: 'https://open.spotify.com/artist/1v0nrFChVfSCkxILJHpyFm'
 discography_enriched: true
 top_tracks:
-- Santa Monica - Live (Thanksforgrassgiving (Live 11/26/16 Richmond, VA))
-- Ripped Six Pack > Eyes of the World - Live (Thanksforgrassgiving (Live 11/26/16 Richmond, VA))
-- Samson and Delilah - Live (Thanksforgrassgiving (Live 11/26/16 Richmond, VA))
-- New Horizons - Live (Thanksforgrassgiving (Live 11/26/16 Richmond, VA))
-- Best Feeling - Live (Thanksforgrassgiving (Live 11/26/16 Richmond, VA))
-- Island in the Sun - Live (Thanksforgrassgiving (Live 11/26/16 Richmond, VA))
-- Closer - Live (Thanksforgrassgiving (Live 11/26/16 Richmond, VA))
-- No Expectations - Live (Thanksforgrassgiving (Live 11/26/16 Richmond, VA))
-- Lonesome L.A. Cowboy - Live (Thanksforgrassgiving (Live 11/26/16 Richmond, VA))
-- Get off This - Live (Thanksforgrassgiving (Live 11/26/16 Richmond, VA))
+  - 'Santa Monica - Live (Thanksforgrassgiving (Live 11/26/16 Richmond, VA))'
+  - >-
+    Ripped Six Pack > Eyes of the World - Live (Thanksforgrassgiving (Live
+    11/26/16 Richmond, VA))
+  - >-
+    Samson and Delilah - Live (Thanksforgrassgiving (Live 11/26/16 Richmond,
+    VA))
+  - 'New Horizons - Live (Thanksforgrassgiving (Live 11/26/16 Richmond, VA))'
+  - 'Best Feeling - Live (Thanksforgrassgiving (Live 11/26/16 Richmond, VA))'
+  - 'Island in the Sun - Live (Thanksforgrassgiving (Live 11/26/16 Richmond, VA))'
+  - 'Closer - Live (Thanksforgrassgiving (Live 11/26/16 Richmond, VA))'
+  - 'No Expectations - Live (Thanksforgrassgiving (Live 11/26/16 Richmond, VA))'
+  - >-
+    Lonesome L.A. Cowboy - Live (Thanksforgrassgiving (Live 11/26/16 Richmond,
+    VA))
+  - 'Get off This - Live (Thanksforgrassgiving (Live 11/26/16 Richmond, VA))'
 external_urls:
-  spotify: https://open.spotify.com/artist/1v0nrFChVfSCkxILJHpyFm
+  spotify: 'https://open.spotify.com/artist/1v0nrFChVfSCkxILJHpyFm'
   wikipedia: ''
 image_path: ''
 biography_enhanced_at: '2025-12-06T05:52:04.217161'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Neon Jazz interview with Nick Sanders (YouTube, 2015).
-- Nick Sanders official site – artist description and biography.
-- All About Jazz – Nick Sanders musician page and discography.
+  - 'Neon Jazz interview with Nick Sanders (YouTube, 2015).'
+  - Nick Sanders official site – artist description and biography.
+  - All About Jazz – Nick Sanders musician page and discography.
 network_extracted: true
 entry_created: '2025-12-06T05:52:04.217172'
 last_updated: '2025-12-23T08:16:13.564825'
+artist_type: person
 ---
 
 ![]()

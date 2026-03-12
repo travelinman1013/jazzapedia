@@ -1,20 +1,20 @@
 ---
-title: earl gaines
+title: Earl Gaines
 wiki_slug: earl-gaines
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1935-08-19'
-birth_place: Decatur
+birth_place: 'Decatur, Alabama, United States'
 death_date: '2009-12-31'
 genres:
-- soul blues
+  - soul blues
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6b695df2-1a50-4557-b938-3c75b01b12ec
-  name: Excello Legends
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6b695df2-1a50-4557-b938-3c75b01b12ec
+    name: Excello Legends
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/earl_gaines.jpg
   caption: earl gaines
@@ -37,50 +37,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Louis Brooks & His Hi-Toppers
-  - Bill Doggett
-  - Freddy Robinson Orchestra
-  - Clifford Curry and Roscoe Shelton
-  - Fred James
+    - Louis Brooks & His Hi-Toppers
+    - Bill Doggett
+    - Freddy Robinson Orchestra
+    - Clifford Curry and Roscoe Shelton
+    - Fred James
   influenced:
-  - Nashville R&B and soul artists
+    - Nashville R&B and soul artists
   mentors:
-  - Ted Jarrett
+    - Ted Jarrett
 spotify_data:
   followers: 445
   id: 1anpk5f2aFVtEXRql4Ly6X
   popularity: 3
-  url: https://open.spotify.com/artist/1anpk5f2aFVtEXRql4Ly6X
+  url: 'https://open.spotify.com/artist/1anpk5f2aFVtEXRql4Ly6X'
 discography_enriched: true
 top_tracks:
-- The Best Of Luck To You (Don't Take My Kindness For A Weakness)
-- You Are My Sunshine
-- It's Love Baby (24 Hours A Day) - Single Version (The Best Of Excello Records)
-- Meat And Potatoes Man
-- Good Old Country Boy
-- Every Day I Have The Blues (Lovin' Blues)
-- Turn On Your Lovelight - Live (Jazz Beat, Vol.5 (Live))
-- Best of Luck to You (Hoss Allen's 1966 Rhythm & Blues Revue)
-- 24 Hours a Day (Hoss Allen's 1966 Rhythm & Blues Revue)
-- Best of Luck to You
+  - The Best Of Luck To You (Don't Take My Kindness For A Weakness)
+  - You Are My Sunshine
+  - >-
+    It's Love Baby (24 Hours A Day) - Single Version (The Best Of Excello
+    Records)
+  - Meat And Potatoes Man
+  - Good Old Country Boy
+  - Every Day I Have The Blues (Lovin' Blues)
+  - 'Turn On Your Lovelight - Live (Jazz Beat, Vol.5 (Live))'
+  - Best of Luck to You (Hoss Allen's 1966 Rhythm & Blues Revue)
+  - 24 Hours a Day (Hoss Allen's 1966 Rhythm & Blues Revue)
+  - Best of Luck to You
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a43a124a-92e6-4b2d-9e7b-8b9de3a8c0b8
-  spotify: https://open.spotify.com/artist/1anpk5f2aFVtEXRql4Ly6X
-  wikipedia: https://en.wikipedia.org/wiki/Earl_Gaines
+  musicbrainz: 'https://musicbrainz.org/artist/a43a124a-92e6-4b2d-9e7b-8b9de3a8c0b8'
+  spotify: 'https://open.spotify.com/artist/1anpk5f2aFVtEXRql4Ly6X'
+  wikipedia: 'https://en.wikipedia.org/wiki/Earl_Gaines'
 image_path: 03_Resources/source_material/ArtistPortraits/earl_gaines.jpg
 biography_enhanced_at: '2025-11-11T09:34:47.456957'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.nashvillescene.com/news/the-great-earl-gaines-lived-to-take-his-rightful-place-in-nashville-r-b-history/article_d87a72b8-c570-52c4-a7a3-6743531d9306.html
-- https://en.wikipedia.org/wiki/Earl_Gaines
-- https://musicrow.com/2010/01/nashville-rb-star-earl-gaines-1935-2009/
-- https://a-nickel-and-a-nail.myshopify.com/blogs/news/earl-gaines-by-e-mark-windle
+  - >-
+    https://www.nashvillescene.com/news/the-great-earl-gaines-lived-to-take-his-rightful-place-in-nashville-r-b-history/article_d87a72b8-c570-52c4-a7a3-6743531d9306.html
+  - 'https://en.wikipedia.org/wiki/Earl_Gaines'
+  - 'https://musicrow.com/2010/01/nashville-rb-star-earl-gaines-1935-2009/'
+  - >-
+    https://a-nickel-and-a-nail.myshopify.com/blogs/news/earl-gaines-by-e-mark-windle
 network_extracted: true
 entry_created: '2025-11-11T09:34:47.456971'
 last_updated: '2025-12-23T08:16:08.108437'
 gender: Male
 musicbrainz_id: a43a124a-92e6-4b2d-9e7b-8b9de3a8c0b8
+is_active: false
 ---
 
 ![](earl_gaines.jpg)

@@ -1,19 +1,19 @@
 ---
-title: dan weiss trio
+title: Dan Weiss Trio
 wiki_slug: dan-weiss-trio
 schema_version: 2
 status: active
 aliases: []
 birth_date: '1977-03-04'
-birth_place: New Jersey
+birth_place: 'New Jersey, United States'
 genres:
-- free jazz
-- avant-garde
+  - free jazz
+  - avant-garde
 instruments:
-- drum kit
+  - drum kit
 occupation:
-- musician
-- percussionist
+  - musician
+  - percussionist
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Dan_Weiss_Trio.jpg
   caption: dan weiss trio
@@ -21,7 +21,7 @@ infobox:
   born: '1977-03-04'
   origin: New Jersey
 audio_profile:
-  tempo_avg: 117.0
+  tempo_avg: 117
   energy_avg: 0.303
   valence_avg: 0.394
   danceability_avg: 0.465
@@ -35,60 +35,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jacob Sacks
-  - Thomas Morgan
-  - Craig Taborn
-  - Matt Mitchell
-  - Ben Monder
-  - Trevor Dunn
-  - David Binney, Lee Konitz, Rudresh Mahanthappa, Miguel Zenon, Kenny Werner
+    - Jacob Sacks
+    - Thomas Morgan
+    - Craig Taborn
+    - Matt Mitchell
+    - Ben Monder
+    - Trevor Dunn
+    - 'David Binney, Lee Konitz, Rudresh Mahanthappa, Miguel Zenon, Kenny Werner'
   influenced:
-  - Rudresh Mahanthappa
-  - Younger jazz drummers and improvisers
+    - Rudresh Mahanthappa
+    - Younger jazz drummers and improvisers
   mentors:
-  - Pandit Samir Chatterjee
-  - Jeff Krause
+    - Pandit Samir Chatterjee
+    - Jeff Krause
 related_artists: []
 spotify_data:
   followers: 172
   id: 30cq7trXBYEc1OycJYtS7m
   popularity: 0
-  url: https://open.spotify.com/artist/30cq7trXBYEc1OycJYtS7m
+  url: 'https://open.spotify.com/artist/30cq7trXBYEc1OycJYtS7m'
   verified: false
 discography_enriched: true
 albums_count: 0
 singles_count: 0
 top_tracks:
-- For Samirji (Now Yes When)
-- Chakradar 1 (Now Yes When)
-- Not Yet (Now Yes When)
-- Wizards (Now Yes When)
-- The Day After Tomorrow (Now Yes When)
-- Chakradar 2 (Now Yes When)
-- Richard Dawson (Now Yes When)
-- Granollers Slayer (Now Yes When)
-- Ode to Meshuggah (Now Yes When)
-- Chakradar 3 (Now Yes When)
+  - For Samirji (Now Yes When)
+  - Chakradar 1 (Now Yes When)
+  - Not Yet (Now Yes When)
+  - Wizards (Now Yes When)
+  - The Day After Tomorrow (Now Yes When)
+  - Chakradar 2 (Now Yes When)
+  - Richard Dawson (Now Yes When)
+  - Granollers Slayer (Now Yes When)
+  - Ode to Meshuggah (Now Yes When)
+  - Chakradar 3 (Now Yes When)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/30cq7trXBYEc1OycJYtS7m
-  wikipedia: https://en.wikipedia.org/wiki/Dan_Weiss_(musician)
+  spotify: 'https://open.spotify.com/artist/30cq7trXBYEc1OycJYtS7m'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dan_Weiss_(musician)'
 image_path: null
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:28:16.468056'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://firehouse12.com/jazz-series/2023/8/21/dan-weiss
-- https://www.allaboutjazz.com/musicians/dan-weiss/
-- https://www.mymusicmasterclass.com/artist/artists/dan-weiss/
-- https://www.arsnovaworkshop.org/programs/dan-weiss-trio/
-- https://www.allaboutjazz.com/dan-weiss-the-creative-absence-of-egotism-dan-weiss-by-lloyd-n-peterson-jr
+  - 'http://firehouse12.com/jazz-series/2023/8/21/dan-weiss'
+  - 'https://www.allaboutjazz.com/musicians/dan-weiss/'
+  - 'https://www.mymusicmasterclass.com/artist/artists/dan-weiss/'
+  - 'https://www.arsnovaworkshop.org/programs/dan-weiss-trio/'
+  - >-
+    https://www.allaboutjazz.com/dan-weiss-the-creative-absence-of-egotism-dan-weiss-by-lloyd-n-peterson-jr
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:40:22.449457
+entry_created: 2025-09-22T21:40:22.449Z
 last_updated: '2025-12-23T08:16:01.640856'
-origin: Brooklyn, New York, United States
+origin: 'Brooklyn, New York, United States'
+artist_type: band
 ---
 
 ![]()

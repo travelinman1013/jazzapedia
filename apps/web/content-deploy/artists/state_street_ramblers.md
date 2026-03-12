@@ -1,10 +1,10 @@
 ---
-title: STATE STREET RAMBLERS
+title: State Street Ramblers
 wiki_slug: state-street-ramblers
 schema_version: 2
 status: active
 genres:
-- ragtime
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/state_street_ramblers.jpg
   caption: STATE STREET RAMBLERS
@@ -24,48 +24,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Johnny Dodds
-  - Ma Rainey (Gertrude Rainey)
-  - Sodarisa Miller
-  - Alex J. Robinson
+    - Johnny Dodds
+    - Ma Rainey (Gertrude Rainey)
+    - Sodarisa Miller
+    - Alex J. Robinson
   influenced:
-  - Clarence 'Pine Top' Smith
-  - Albert Ammons
+    - Clarence 'Pine Top' Smith
+    - Albert Ammons
   mentors:
-  - Clarence M. Jones
+    - Clarence M. Jones
 spotify_data:
   followers: 177
   id: 2SCudgfx7M1t3MbzN98LVU
   popularity: 1
-  url: https://open.spotify.com/artist/2SCudgfx7M1t3MbzN98LVU
+  url: 'https://open.spotify.com/artist/2SCudgfx7M1t3MbzN98LVU'
 discography_enriched: true
 top_tracks:
-- Oriental Man (State Street Ramblers Vol. 1 (1927-1931))
-- Tuxedo Stomp (State Street Ramblers Vol. 1 (1927-1931))
-- Tiger Moan (State Street Ramblers Vol. 1 (1927-1931))
-- Tuxedo Stomp - Original Mix (Jazz Classics 1928, Vol. 2)
-- Tell Me Cutie - Original Mix (Jazz Classics 1928, Vol. 2)
-- There Ll Come a Day - Original Mix (Jazz Classics 1928, Vol. 2)
-- Barrel House Stomp (Just About as Good as It Gets! Great British Skiffle Vol. 3)
-- Cootie Stomp - Original Mix
-- Do Right Blues - Original Mix
-- Barrel House Stomp - Original Mix
+  - Oriental Man (State Street Ramblers Vol. 1 (1927-1931))
+  - Tuxedo Stomp (State Street Ramblers Vol. 1 (1927-1931))
+  - Tiger Moan (State Street Ramblers Vol. 1 (1927-1931))
+  - 'Tuxedo Stomp - Original Mix (Jazz Classics 1928, Vol. 2)'
+  - 'Tell Me Cutie - Original Mix (Jazz Classics 1928, Vol. 2)'
+  - 'There Ll Come a Day - Original Mix (Jazz Classics 1928, Vol. 2)'
+  - >-
+    Barrel House Stomp (Just About as Good as It Gets! Great British Skiffle
+    Vol. 3)
+  - Cootie Stomp - Original Mix
+  - Do Right Blues - Original Mix
+  - Barrel House Stomp - Original Mix
 external_urls:
-  spotify: https://open.spotify.com/artist/2SCudgfx7M1t3MbzN98LVU
-  wikipedia: https://de.wikipedia.org/wiki/Jimmy_Blythe
+  spotify: 'https://open.spotify.com/artist/2SCudgfx7M1t3MbzN98LVU'
+  wikipedia: 'https://de.wikipedia.org/wiki/Jimmy_Blythe'
 image_path: 03_Resources/source_material/ArtistPortraits/state_street_ramblers.jpg
 biography_enhanced_at: '2025-12-04T07:22:19.956398'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Jazz Music Archives - State Street Ramblers
-- Ragpiano.com - James (Jimmy) Blythe biography
-- Old Time Blues - State Street Boys and Swing
-- Syncopated Times - The Stompin' Style of Pianist Frank Melrose
+  - Jazz Music Archives - State Street Ramblers
+  - Ragpiano.com - James (Jimmy) Blythe biography
+  - Old Time Blues - State Street Boys and Swing
+  - Syncopated Times - The Stompin' Style of Pianist Frank Melrose
 network_extracted: true
 entry_created: '2025-12-04T07:22:19.956409'
 last_updated: '2025-12-23T08:16:16.039777'
-origin: Chicago, Illinois, United States (recording sessions based in Chicago; Jimmy Blythe born in Louisville, Kentucky)
+origin: >-
+  Chicago, Illinois, United States (recording sessions based in Chicago; Jimmy
+  Blythe born in Louisville, Kentucky)
+birth_place: 'Louisville, Kentucky, United States'
+birth_date: '1901-05-20'
+death_date: '1931-06-21'
+artist_type: person
 ---
 
 ![](state_street_ramblers.jpg)

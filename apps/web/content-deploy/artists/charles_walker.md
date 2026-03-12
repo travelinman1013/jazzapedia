@@ -1,15 +1,15 @@
 ---
-title: charles walker
+title: Charles Walker
 wiki_slug: charles-walker
 schema_version: 2
 status: active
-birth_place: Nashville, Tennessee, USA
+birth_place: 'Nashville, Tennessee, USA'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/charles_walker.jpg
   caption: charles walker
   background: solo_singer
-  origin: Nashville, Tennessee, USA
+  origin: 'Nashville, Tennessee, USA'
 audio_profile:
   tempo_avg: 128.9
   energy_avg: 0.514
@@ -17,7 +17,7 @@ audio_profile:
   danceability_avg: 0.49
   acousticness_avg: 0.368
   instrumentalness_avg: 0.024
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.04
   liveness_avg: 0.194
   track_count: 50
@@ -25,43 +25,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - J.C. Davis
-  - Lloyd Price
-  - The Dynamites
+    - J.C. Davis
+    - Lloyd Price
+    - The Dynamites
   influenced:
-  - Younger Nashville soul musicians
+    - Younger Nashville soul musicians
   mentors:
-  - James Brown
+    - James Brown
 spotify_data:
   followers: 1084
   id: 5Sz8ZxAgOOf7cCqIt5KrUi
   popularity: 22
-  url: https://open.spotify.com/artist/5Sz8ZxAgOOf7cCqIt5KrUi
+  url: 'https://open.spotify.com/artist/5Sz8ZxAgOOf7cCqIt5KrUi'
 discography_enriched: true
 top_tracks:
-- Caught in the Current - Acoustic (Caught in the Current (Acoustic))
-- Stay for a While (Stay for a While)
-- Still In Carolina - Acoustic (Still In Carolina (Acoustic))
-- Rosalie (Charles Walker)
-- Still in Carolina (Still in Carolina)
-- Caught in the Current (Caught in the Current)
-- Since I Sank the Ship (Since I Sank the Ship)
-- Sober I Love You (Whole Again)
-- I Used to Think I Was (Charles Walker)
-- Crutch (Ben Trickey / Charles Walker Split)
+  - Caught in the Current - Acoustic (Caught in the Current (Acoustic))
+  - Stay for a While (Stay for a While)
+  - Still In Carolina - Acoustic (Still In Carolina (Acoustic))
+  - Rosalie (Charles Walker)
+  - Still in Carolina (Still in Carolina)
+  - Caught in the Current (Caught in the Current)
+  - Since I Sank the Ship (Since I Sank the Ship)
+  - Sober I Love You (Whole Again)
+  - I Used to Think I Was (Charles Walker)
+  - Crutch (Ben Trickey / Charles Walker Split)
 external_urls:
-  spotify: https://open.spotify.com/artist/5Sz8ZxAgOOf7cCqIt5KrUi
+  spotify: 'https://open.spotify.com/artist/5Sz8ZxAgOOf7cCqIt5KrUi'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/charles_walker.jpg
 biography_enhanced_at: '2025-10-29T16:54:06.196396'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://charleswiggwalker.com
-- https://www.last.fm/music/Charles+Walker/+wiki
+  - 'https://charleswiggwalker.com'
+  - 'https://www.last.fm/music/Charles+Walker/+wiki'
 network_extracted: true
 entry_created: '2025-10-29T16:54:06.196416'
 last_updated: '2025-12-23T08:16:06.703823'
+birth_date: '1940-07-12'
+artist_type: person
 ---
 
 ![](charles_walker.jpg)

@@ -1,36 +1,39 @@
 ---
 biography_enhanced_at: '2026-01-02T01:25:09.476380'
-birth_place: Chapel Hill, North Carolina, USA
+birth_place: 'Chapel Hill, North Carolina, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-02T01:25:09.476386'
 external_urls:
-  spotify: https://open.spotify.com/artist/01h9rgUzmeQbQvkftHGUG0
-  wikipedia: https://en.wikipedia.org/wiki/Elizabeth_Cotten
+  spotify: 'https://open.spotify.com/artist/01h9rgUzmeQbQvkftHGUG0'
+  wikipedia: 'https://en.wikipedia.org/wiki/Elizabeth_Cotten'
 genres: []
-image_path: 03_Resources/source_material/ArtistPortraits/elizabeth_cotten_and_brenda_evans.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/elizabeth_cotten_and_brenda_evans.jpg
 last_updated: '2026-01-02T01:25:09.476387'
 musical_connections:
   collaborators:
-  - Mike Seeger
-  - Brenda Joyce Evans
-  - Peggy Seeger
+    - Mike Seeger
+    - Brenda Joyce Evans
+    - Peggy Seeger
   influenced:
-  - Pete Seeger
+    - Pete Seeger
   mentors:
-  - Ruth Crawford Seeger and Charles Seeger family
+    - Ruth Crawford Seeger and Charles Seeger family
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://amouthfulofpennies.wordpress.com/tag/brenda-evans/
-- https://abcnews.go.com/GMA/Culture/black-female-musician-written-songs/story?id=69078752
-- https://en.wikipedia.org/wiki/Elizabeth_Cotten
+  - 'https://amouthfulofpennies.wordpress.com/tag/brenda-evans/'
+  - >-
+    https://abcnews.go.com/GMA/Culture/black-female-musician-written-songs/story?id=69078752
+  - 'https://en.wikipedia.org/wiki/Elizabeth_Cotten'
 spotify_data:
   followers: 1786
   id: 01h9rgUzmeQbQvkftHGUG0
   popularity: 2
-  url: https://open.spotify.com/artist/01h9rgUzmeQbQvkftHGUG0
+  url: 'https://open.spotify.com/artist/01h9rgUzmeQbQvkftHGUG0'
 status: active
-title: elizabeth cotten and brenda evans
+title: Elizabeth Cotten and Brenda Evans
+artist_type: person
 ---
 
 ![](elizabeth_cotten_and_brenda_evans.jpg)

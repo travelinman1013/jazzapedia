@@ -5,18 +5,18 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1976-01-09'
-birth_place: The Woodlands
+birth_place: 'The Woodlands, Texas, United States'
 genres:
-- texas country
-- red dirt
-- alt country
-- americana
+  - texas country
+  - red dirt
+  - alt country
+  - americana
 instruments:
-- acoustic guitar
-- baritone guitar
-- guitar
-- guitar family
-- lead vocals
+  - acoustic guitar
+  - baritone guitar
+  - guitar
+  - guitar family
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/hayes_carll.jpg
   caption: Hayes Carll
@@ -30,7 +30,7 @@ audio_profile:
   danceability_avg: 0.533
   acousticness_avg: 0.358
   instrumentalness_avg: 0.002
-  loudness_avg: -7.0
+  loudness_avg: -7
   speechiness_avg: 0.041
   liveness_avg: 0.16
   track_count: 51
@@ -38,59 +38,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lisa Morales
-  - R.S. Field
-  - Wrecks Bell
+    - Lisa Morales
+    - R.S. Field
+    - Wrecks Bell
   influenced:
-  - Kenny Chesney
-  - Lee Ann Womack
-  - Brothers Osborne
+    - Kenny Chesney
+    - Lee Ann Womack
+    - Brothers Osborne
   mentors:
-  - Bob Dylan
-  - John Prine
-  - Kris Kristofferson
-  - Townes Van Zandt
-  - Guy Clark
-  - Ray Wylie Hubbard
+    - Bob Dylan
+    - John Prine
+    - Kris Kristofferson
+    - Townes Van Zandt
+    - Guy Clark
+    - Ray Wylie Hubbard
 spotify_data:
   followers: 139426
   id: 6UWifcscEdbjPgmbevBxZV
   popularity: 44
-  url: https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV
+  url: 'https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV'
 discography_enriched: true
 top_tracks:
-- Drunken Poet's Dream (Trouble In Mind)
-- Down The Road Tonight (Little Rock)
-- Bible on the Dash (Cabin Fever)
-- KMAG YOYO (KMAG YOYO (& Other American Stories))
-- The Love That We Need (Lovers and Leavers)
-- You Get It All (You Get It All)
-- Beaumont (Trouble In Mind)
-- Happy Hour (You Get It All (Deluxe Edition))
-- To Keep From Being Found (You Get It All)
-- Another Like You (KMAG YOYO (& Other American Stories))
+  - Drunken Poet's Dream (Trouble In Mind)
+  - Down The Road Tonight (Little Rock)
+  - Bible on the Dash (Cabin Fever)
+  - KMAG YOYO (KMAG YOYO (& Other American Stories))
+  - The Love That We Need (Lovers and Leavers)
+  - You Get It All (You Get It All)
+  - Beaumont (Trouble In Mind)
+  - Happy Hour (You Get It All (Deluxe Edition))
+  - To Keep From Being Found (You Get It All)
+  - Another Like You (KMAG YOYO (& Other American Stories))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/89c83caa-7f08-4e0d-bee9-db0139044e38
-  spotify: https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV
-  wikipedia: https://en.wikipedia.org/wiki/Hayes_Carll
+  musicbrainz: 'https://musicbrainz.org/artist/89c83caa-7f08-4e0d-bee9-db0139044e38'
+  spotify: 'https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV'
+  wikipedia: 'https://en.wikipedia.org/wiki/Hayes_Carll'
 image_path: 03_Resources/source_material/ArtistPortraits/hayes_carll.jpg
 biography_enhanced_at: '2025-10-27T02:33:34.809038'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Hayes_Carll
-- https://thefestival.bc.ca/artists/hayes-carll/
-- https://lonestarmusicmagazine.com/lsm-cover-story-hayes-carll/
+  - 'https://en.wikipedia.org/wiki/Hayes_Carll'
+  - 'https://thefestival.bc.ca/artists/hayes-carll/'
+  - 'https://lonestarmusicmagazine.com/lsm-cover-story-hayes-carll/'
 network_extracted: true
 entry_created: '2025-10-27T02:33:34.809055'
 last_updated: '2025-12-23T08:16:09.544248'
 gender: Male
 musicbrainz_id: 89c83caa-7f08-4e0d-bee9-db0139044e38
 tags:
-- americana
-- country
-- folk
-
+  - americana
+  - country
+  - folk
+origin: 'Texas, United States'
 ---
 
 ![](hayes_carll.jpg)

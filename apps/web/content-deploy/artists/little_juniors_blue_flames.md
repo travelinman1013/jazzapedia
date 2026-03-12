@@ -3,43 +3,47 @@ biography_enhanced_at: '2026-01-06T02:07:40.222704'
 enhancement_provider: perplexity
 entry_created: '2026-01-06T02:07:40.222711'
 external_urls:
-  spotify: https://open.spotify.com/artist/1pCBsU3mVlXCMbwhE2LRVl
-  wikipedia: https://en.wikipedia.org/wiki/Junior_Parker
+  spotify: 'https://open.spotify.com/artist/1pCBsU3mVlXCMbwhE2LRVl'
+  wikipedia: 'https://en.wikipedia.org/wiki/Junior_Parker'
 genres: []
 image_path: ''
 last_updated: '2026-01-06T02:07:40.222712'
 musical_connections:
   collaborators:
-  - Pat Hare
-  - Floyd Murphy
-  - Matt Murphy
-  - Bobby 'Blue' Bland
-  - B.B. King
-  - Ike Turner
+    - Pat Hare
+    - Floyd Murphy
+    - Matt Murphy
+    - Bobby 'Blue' Bland
+    - B.B. King
+    - Ike Turner
   influenced:
-  - Elvis Presley
-  - Al Green
+    - Elvis Presley
+    - Al Green
   mentors:
-  - Sonny Boy Williamson II (Rice Miller)
-  - Howlin' Wolf
+    - Sonny Boy Williamson II (Rice Miller)
+    - Howlin' Wolf
 network_extracted: true
-origin: Bobo near Clarksdale, Mississippi / West Memphis, Arkansas, USA
+origin: 'Bobo near Clarksdale, Mississippi / West Memphis, Arkansas, USA'
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Little+Junior's+Blue+Flames/+wiki
-- https://www.rocky-52.net/chanteursp/parker_j.htm
-- https://en.wikipedia.org/wiki/Junior_Parker
-- https://magicmenagerie.wordpress.com/2021/02/25/my-pop-life-251-feelin-good-little-junior-parker/
-- https://blues.org/blues_hof_inductee/junior-parker/
-- https://kids.kiddle.co/Junior_Parker
-- http://bluesjunctionproductions.com/re-visited_little_junior_parker
+  - 'https://www.last.fm/music/Little+Junior''s+Blue+Flames/+wiki'
+  - 'https://www.rocky-52.net/chanteursp/parker_j.htm'
+  - 'https://en.wikipedia.org/wiki/Junior_Parker'
+  - >-
+    https://magicmenagerie.wordpress.com/2021/02/25/my-pop-life-251-feelin-good-little-junior-parker/
+  - 'https://blues.org/blues_hof_inductee/junior-parker/'
+  - 'https://kids.kiddle.co/Junior_Parker'
+  - 'http://bluesjunctionproductions.com/re-visited_little_junior_parker'
 spotify_data:
   followers: 6
   id: 1pCBsU3mVlXCMbwhE2LRVl
   popularity: 0
-  url: https://open.spotify.com/artist/1pCBsU3mVlXCMbwhE2LRVl
+  url: 'https://open.spotify.com/artist/1pCBsU3mVlXCMbwhE2LRVl'
 status: active
 title: Little Juniors Blue Flames
+birth_date: '1932-03-27'
+death_date: '1971-11-18'
+artist_type: band
 ---
 
 ![]()

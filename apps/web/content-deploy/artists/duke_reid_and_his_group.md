@@ -3,16 +3,16 @@ title: Duke Reid & His Group
 wiki_slug: duke-reid-his-group
 schema_version: 2
 status: active
-birth_place: Portland, Jamaica
+birth_place: 'Portland, Jamaica, United States'
 genres:
-- rocksteady
-- ska
-- calypso
+  - rocksteady
+  - ska
+  - calypso
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/duke_reid_and_his_group.jpg
   caption: Duke Reid & His Group
   background: solo_singer
-  origin: Portland, Jamaica
+  origin: 'Portland, Jamaica'
 audio_profile:
   tempo_avg: 126.7
   energy_avg: 0.543
@@ -28,48 +28,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Stranger Cole
-  - Alton Ellis
-  - The Techniques
-  - U-Roy
+    - Stranger Cole
+    - Alton Ellis
+    - The Techniques
+    - U-Roy
   influenced:
-  - Justin Hinds
-  - Sonia Pottinger
+    - Justin Hinds
+    - Sonia Pottinger
   mentors:
-  - American Jazz and Blues Artists
+    - American Jazz and Blues Artists
 spotify_data:
   followers: 97
   id: 5VmmTeXeGavyWxHXakTS0F
   popularity: 2
-  url: https://open.spotify.com/artist/5VmmTeXeGavyWxHXakTS0F
+  url: 'https://open.spotify.com/artist/5VmmTeXeGavyWxHXakTS0F'
 discography_enriched: true
 top_tracks:
-- Hill and Gully Ride - aka Hill an' Gully Rider - with Baba Brooks & His Band (Treasure Isle Ska Rarities)
-- Till the End of Time
-- Lollipop Girl (The Treasure Isle Story)
-- Use Your Head (Take 2) (Treasure Isle Ska Rarities)
-- Lover Boy (The Evolution of Ska - Calypso, Mento, Jamaican R & B & Bluebeat)
-- Dukes Cookies - Remastered (What Makes Money / Dukes Cookies)
-- Lover Boy (100 Roots of Reggae & Ska, Vol. 1)
-- Use Your Head - Take 2 (Treasure Isle Ska Rarities)
-- Sing Ting Bury Yuh (aka Burial) ( Alternate Take) (Treasure Isle Ska Rarities)
-- Till The End Of Time
+  - >-
+    Hill and Gully Ride - aka Hill an' Gully Rider - with Baba Brooks & His Band
+    (Treasure Isle Ska Rarities)
+  - Till the End of Time
+  - Lollipop Girl (The Treasure Isle Story)
+  - Use Your Head (Take 2) (Treasure Isle Ska Rarities)
+  - 'Lover Boy (The Evolution of Ska - Calypso, Mento, Jamaican R & B & Bluebeat)'
+  - Dukes Cookies - Remastered (What Makes Money / Dukes Cookies)
+  - 'Lover Boy (100 Roots of Reggae & Ska, Vol. 1)'
+  - Use Your Head - Take 2 (Treasure Isle Ska Rarities)
+  - >-
+    Sing Ting Bury Yuh (aka Burial) ( Alternate Take) (Treasure Isle Ska
+    Rarities)
+  - Till The End Of Time
 external_urls:
-  spotify: https://open.spotify.com/artist/5VmmTeXeGavyWxHXakTS0F
-  wikipedia: https://en.wikipedia.org/wiki/Duke_Reid
+  spotify: 'https://open.spotify.com/artist/5VmmTeXeGavyWxHXakTS0F'
+  wikipedia: 'https://en.wikipedia.org/wiki/Duke_Reid'
 image_path: 03_Resources/source_material/ArtistPortraits/duke_reid_and_his_group.jpg
 biography_enhanced_at: '2025-11-26T07:47:21.392219'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Duke_Reid
-- https://www.yaawdmedia.com/post/duke-reid-part-1
-- https://ska2soul.net/duke_reid.htm
-- https://jamaica-gleaner.com/article/entertainment/20141109/duke-reid-trojan
-- https://skabook.com/2014/01/10/duke-reid-trojan/
+  - 'https://en.wikipedia.org/wiki/Duke_Reid'
+  - 'https://www.yaawdmedia.com/post/duke-reid-part-1'
+  - 'https://ska2soul.net/duke_reid.htm'
+  - 'https://jamaica-gleaner.com/article/entertainment/20141109/duke-reid-trojan'
+  - 'https://skabook.com/2014/01/10/duke-reid-trojan/'
 network_extracted: true
 entry_created: '2025-11-26T07:47:21.392240'
 last_updated: '2025-12-23T08:16:08.076285'
+birth_date: '1915-07-21'
+death_date: '1975'
+artist_type: person
 ---
 
 ![](duke_reid_and_his_group.jpg)

@@ -1,65 +1,66 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '1972'
-  end: '1978'
-  instruments: []
-  mbid: e6d9e13a-36d1-4d7e-839b-2f9aaad90545
-  name: The Harlettes
+  - begin: '1972'
+    end: '1978'
+    instruments: []
+    mbid: e6d9e13a-36d1-4d7e-839b-2f9aaad90545
+    name: The Harlettes
 biography_enhanced_at: '2026-01-18T07:53:07.724664'
 birth_date: '1945-10-19'
-birth_place: Norfolk
+birth_place: 'Norfolk, Virginia, United States'
 death_date: '1992-05-01'
 enhancement_provider: perplexity
 entry_created: '2026-01-18T07:53:07.724669'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/642489a8-a6b2-4bc9-8b41-6bf9613812ae
-  spotify: https://open.spotify.com/artist/2kUUaHnVe0rRarZqRZgHEY
-  wikipedia: https://en.wikipedia.org/wiki/Sharon_Redd
+  musicbrainz: 'https://musicbrainz.org/artist/642489a8-a6b2-4bc9-8b41-6bf9613812ae'
+  spotify: 'https://open.spotify.com/artist/2kUUaHnVe0rRarZqRZgHEY'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sharon_Redd'
 gender: Female
 genres:
-- post-disco
-- boogie
-- disco
-- chicago house
-- funk
+  - post-disco
+  - boogie
+  - disco
+  - chicago house
+  - funk
 image_path: 03_Resources/source_material/ArtistPortraits/sharon_redd.jpg
 instruments:
-- vocal
-- background vocals
-- choir vocals
+  - vocal
+  - background vocals
+  - choir vocals
 last_updated: '2026-01-18T07:53:07.724670'
 musical_connections:
   collaborators:
-  - Bette Midler
-  - Pennye Ford
-  - Luther Vandross
-  - Jocelyn Brown
-  - Gene Redd Jr.
+    - Bette Midler
+    - Pennye Ford
+    - Luther Vandross
+    - Jocelyn Brown
+    - Gene Redd Jr.
   influenced:
-  - House and disco DJs
+    - House and disco DJs
   mentors:
-  - Bobby Susser
+    - Bobby Susser
 musicbrainz_id: 642489a8-a6b2-4bc9-8b41-6bf9613812ae
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://rareandobscuremusic.wordpress.com/2009/12/20/sharon-redd/
-- https://www.youtube.com/watch?v=zlbIufbvL28
-- https://music.fandom.com/wiki/Sharon_Redd
-- https://music.apple.com/ie/artist/sharon-redd/5278610
-- https://en.wikipedia.org/wiki/Sharon_Redd
+  - 'https://rareandobscuremusic.wordpress.com/2009/12/20/sharon-redd/'
+  - 'https://www.youtube.com/watch?v=zlbIufbvL28'
+  - 'https://music.fandom.com/wiki/Sharon_Redd'
+  - 'https://music.apple.com/ie/artist/sharon-redd/5278610'
+  - 'https://en.wikipedia.org/wiki/Sharon_Redd'
 spotify_data:
   followers: 37951
   id: 2kUUaHnVe0rRarZqRZgHEY
   popularity: 36
-  url: https://open.spotify.com/artist/2kUUaHnVe0rRarZqRZgHEY
+  url: 'https://open.spotify.com/artist/2kUUaHnVe0rRarZqRZgHEY'
 status: active
 tags:
-- disco
-- electro-disco
-- r&b
+  - disco
+  - electro-disco
+  - r&b
 title: Sharon Redd
+is_active: false
 ---
 
 ![](sharon_redd.jpg)

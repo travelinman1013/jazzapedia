@@ -23,47 +23,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Band members (unnamed trio/quartet)
+    - Band members (unnamed trio/quartet)
   influenced:
-  - Gilles Peterson
-  - Jayda G
+    - Gilles Peterson
+    - Jayda G
   mentors:
-  - Ravi Shankar
+    - Ravi Shankar
 spotify_data:
   followers: 517613
   id: 1LTFJvVvRw7ghAyThxYmnF
   popularity: 49
-  url: https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF
+  url: 'https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF'
 discography_enriched: true
 top_tracks:
-- Mahal (Mahal)
-- Black Sand (Mahal)
-- 'Taurus - Mixed (DJ-Kicks: Jayda G)'
-- Orb (Mahal)
-- Snake Oil (Mahal)
-- Mirage (Mirage)
-- Horizon (Mahal)
-- Mahal (Mahal)
-- Kong (Mirage)
-- Rattlesnake (Mirage)
+  - Mahal (Mahal)
+  - Black Sand (Mahal)
+  - 'Taurus - Mixed (DJ-Kicks: Jayda G)'
+  - Orb (Mahal)
+  - Snake Oil (Mahal)
+  - Mirage (Mirage)
+  - Horizon (Mahal)
+  - Mahal (Mahal)
+  - Kong (Mirage)
+  - Rattlesnake (Mirage)
 external_urls:
-  spotify: https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF
-  wikipedia: https://en.wikipedia.org/wiki/Glass_Beams
+  spotify: 'https://open.spotify.com/artist/1LTFJvVvRw7ghAyThxYmnF'
+  wikipedia: 'https://en.wikipedia.org/wiki/Glass_Beams'
 image_path: 03_Resources/source_material/ArtistPortraits/Glass_Beams.jpg
 biography_enhanced_at: '2025-10-22T06:57:18.901937'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Glass_Beams
-- https://ninjatune.net/artist/glass-beams
-- https://www.redlightmanagement.com/artists/glass-beams/
-- https://www.watartists.com/glass-beams
-- https://rollingstoneindia.com/glass-beams-india-interview-rajan-silva/
-- https://audiophix.com/glass-beams-mysterious-band-obsess-this-year
+  - 'https://en.wikipedia.org/wiki/Glass_Beams'
+  - 'https://ninjatune.net/artist/glass-beams'
+  - 'https://www.redlightmanagement.com/artists/glass-beams/'
+  - 'https://www.watartists.com/glass-beams'
+  - 'https://rollingstoneindia.com/glass-beams-india-interview-rajan-silva/'
+  - 'https://audiophix.com/glass-beams-mysterious-band-obsess-this-year'
 network_extracted: true
 entry_created: '2025-10-22T06:57:18.901954'
 last_updated: '2025-12-23T08:16:02.133285'
-origin: Melbourne, Victoria, Australia
+origin: 'Melbourne, Victoria, Australia'
+artist_type: person
 ---
 
 ![](Glass_Beams.jpg)

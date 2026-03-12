@@ -3,18 +3,20 @@ title: Brandon Santini
 wiki_slug: brandon-santini
 schema_version: 2
 status: active
-birth_place: Burlington or Chapel Hill, North Carolina, USA (birthplace); Memphis, Tennessee (formative years); Springfield,
-  Illinois (current residence)
+birth_place: >-
+  Burlington or Chapel Hill, North Carolina, USA (birthplace); Memphis,
+  Tennessee (formative years); Springfield, Illinois (current residence)
 genres:
-- modern blues
-- blues
-- blues rock
+  - modern blues
+  - blues
+  - blues rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/brandon_santini.jpg
   caption: Brandon Santini
   background: solo_singer
-  origin: Burlington or Chapel Hill, North Carolina, USA (birthplace); Memphis, Tennessee (formative years); Springfield,
-    Illinois (current residence)
+  origin: >-
+    Burlington or Chapel Hill, North Carolina, USA (birthplace); Memphis,
+    Tennessee (formative years); Springfield, Illinois (current residence)
 audio_profile:
   tempo_avg: 124.9
   energy_avg: 0.694
@@ -30,51 +32,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Delta Highway
-  - Tennessee Redemption
-  - Jeff Jensen
-  - Sam the Sham
-  - Buddy Guy, Gary Clark Jr., Beth Hart
+    - Delta Highway
+    - Tennessee Redemption
+    - Jeff Jensen
+    - Sam the Sham
+    - 'Buddy Guy, Gary Clark Jr., Beth Hart'
   influenced:
-  - No widely documented direct proteges or students
+    - No widely documented direct proteges or students
   mentors:
-  - John Popper
-  - Paul Butterfield
-  - James Cotton
+    - John Popper
+    - Paul Butterfield
+    - James Cotton
 spotify_data:
   followers: 2537
   id: 2PiiA5Yu3FDwoy5Nlg3M1T
   popularity: 16
-  url: https://open.spotify.com/artist/2PiiA5Yu3FDwoy5Nlg3M1T
+  url: 'https://open.spotify.com/artist/2PiiA5Yu3FDwoy5Nlg3M1T'
 discography_enriched: true
 top_tracks:
-- Which Way Do We Go?
-- Got Good Lovin' (This Time Another Year)
-- What You Doing to Me (feat. Victor Wainwright) (This Time Another Year)
-- Don't Shake the Devil's Hand
-- Fish is Bitin' (This Time Another Year)
-- Working on a Mystery
-- Hanging Out To Dry (Joel Gragg & The Filaments)
-- Leavin Trunk (I'm Just Getting Started!)
-- Back to You (The Longshot)
-- Somebody's Gotta Go (The Longshot)
+  - Which Way Do We Go?
+  - Got Good Lovin' (This Time Another Year)
+  - What You Doing to Me (feat. Victor Wainwright) (This Time Another Year)
+  - Don't Shake the Devil's Hand
+  - Fish is Bitin' (This Time Another Year)
+  - Working on a Mystery
+  - Hanging Out To Dry (Joel Gragg & The Filaments)
+  - Leavin Trunk (I'm Just Getting Started!)
+  - Back to You (The Longshot)
+  - Somebody's Gotta Go (The Longshot)
 external_urls:
-  spotify: https://open.spotify.com/artist/2PiiA5Yu3FDwoy5Nlg3M1T
+  spotify: 'https://open.spotify.com/artist/2PiiA5Yu3FDwoy5Nlg3M1T'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/brandon_santini.jpg
 biography_enhanced_at: '2025-10-23T07:33:20.759884'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.brandonsantini.com/epk
-- https://www.nysbluesfest.com/artist-brandon-santini/
-- https://blues.gr/profiles/blogs/q-a-with-brandon-santini-fuels-his-high-energy-blend-of-tradition
-- https://bluesrockreview.com/2025/03/brandon-santini-to-release-which-way-do-we-go.html
-- https://www.memphisbluessociety.com/content.aspx?page_id=22&club_id=539640&module_id=190171
-- https://www.americanbluesscene.com/2024/08/brandon-santini-an-intense-blues-artists-struggle-to-the-top/
+  - 'https://www.brandonsantini.com/epk'
+  - 'https://www.nysbluesfest.com/artist-brandon-santini/'
+  - >-
+    https://blues.gr/profiles/blogs/q-a-with-brandon-santini-fuels-his-high-energy-blend-of-tradition
+  - >-
+    https://bluesrockreview.com/2025/03/brandon-santini-to-release-which-way-do-we-go.html
+  - >-
+    https://www.memphisbluessociety.com/content.aspx?page_id=22&club_id=539640&module_id=190171
+  - >-
+    https://www.americanbluesscene.com/2024/08/brandon-santini-an-intense-blues-artists-struggle-to-the-top/
 network_extracted: true
 entry_created: '2025-10-23T07:33:20.759900'
 last_updated: '2025-12-23T08:16:06.021034'
+artist_type: person
 ---
 
 ![](brandon_santini.jpg)

@@ -1,16 +1,16 @@
 ---
-title: Medeski, Martin & Wood
+title: 'Medeski, Martin & Wood'
 wiki_slug: medeski-martin-wood
 schema_version: 2
 status: active
 genres:
-- jazz funk
-- acid jazz
-- jazz fusion
-- jazz
+  - jazz funk
+  - acid jazz
+  - jazz fusion
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/medeski_martin_and_wood.jpg
-  caption: Medeski, Martin & Wood
+  caption: 'Medeski, Martin & Wood'
   background: solo_singer
 audio_profile:
   tempo_avg: 110.2
@@ -27,54 +27,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - DJ Logic
-  - John Scofield
-  - Phish
-  - A Tribe Called Quest
-  - The Roots
-  - Iggy Pop
-  - Robert Randolph / The Word
-  - Vernon Reid
+    - DJ Logic
+    - John Scofield
+    - Phish
+    - A Tribe Called Quest
+    - The Roots
+    - Iggy Pop
+    - Robert Randolph / The Word
+    - Vernon Reid
   influenced:
-  - Contemporary B‑3 organ trios and jam‑jazz ensembles (e.g., Soulive, Garage A Trois – representative, not formally documented
-    as direct proteges)
+    - >-
+      Contemporary B‑3 organ trios and jam‑jazz ensembles (e.g., Soulive, Garage
+      A Trois – representative, not formally documented as direct proteges)
   mentors:
-  - Bob Moses
+    - Bob Moses
 spotify_data:
   followers: 136888
   id: 2Hg4SUNDuIn8xIidz9GxFw
   popularity: 41
-  url: https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw
+  url: 'https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw'
 discography_enriched: true
 top_tracks:
-- Shine It (End Of The World Party (Just In Case))
-- I Wanna Ride You (Uninvisible)
-- Uninvisible (Uninvisible)
-- Mami Gato (End Of The World Party (Just In Case))
-- Just Like I Pictured It (Combustication)
-- Bubblehouse (Shack-man)
-- Where's the Music (Let's Go Everywhere)
-- Pappy Check (Uninvisible)
-- Fuck You Guys (First Take) (20)
-- Hey-Hee-Hi-Ho (Combustication)
+  - Shine It (End Of The World Party (Just In Case))
+  - I Wanna Ride You (Uninvisible)
+  - Uninvisible (Uninvisible)
+  - Mami Gato (End Of The World Party (Just In Case))
+  - Just Like I Pictured It (Combustication)
+  - Bubblehouse (Shack-man)
+  - Where's the Music (Let's Go Everywhere)
+  - Pappy Check (Uninvisible)
+  - Fuck You Guys (First Take) (20)
+  - Hey-Hee-Hi-Ho (Combustication)
 external_urls:
-  spotify: https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw
-  wikipedia: https://en.wikipedia.org/wiki/Medeski_Martin_%26_Wood
+  spotify: 'https://open.spotify.com/artist/2Hg4SUNDuIn8xIidz9GxFw'
+  wikipedia: 'https://en.wikipedia.org/wiki/Medeski_Martin_%26_Wood'
 image_path: 03_Resources/source_material/ArtistPortraits/medeski_martin_and_wood.jpg
 biography_enhanced_at: '2025-12-16T03:15:25.590444'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Blue Note Records artist biography for Medeski, Martin & Wood
-- Official Medeski, Martin & Wood website – About page
-- 'Relix oral history: “Yes, No and Maybe: Celebrating 20 Years of Medeski, Martin & Wood’s Musical Adventures”'
-- 'LA Phil artist profile: Medeski Martin & Wood'
-- 'All About Jazz musician profile: Medeski Martin & Wood'
-- 'Jango / radio bio: Medeski Martin and Wood'
+  - 'Blue Note Records artist biography for Medeski, Martin & Wood'
+  - 'Official Medeski, Martin & Wood website – About page'
+  - >-
+    Relix oral history: “Yes, No and Maybe: Celebrating 20 Years of Medeski,
+    Martin & Wood’s Musical Adventures”
+  - 'LA Phil artist profile: Medeski Martin & Wood'
+  - 'All About Jazz musician profile: Medeski Martin & Wood'
+  - 'Jango / radio bio: Medeski Martin and Wood'
 network_extracted: true
 entry_created: '2025-12-16T03:15:25.590457'
 last_updated: '2025-12-23T08:16:12.906125'
-origin: New York City, New York, United States
+origin: 'New York City, New York, United States'
+artist_type: person
 ---
 
 ![](medeski_martin_and_wood.jpg)

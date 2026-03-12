@@ -2,13 +2,13 @@
 title: Calexico
 wiki_slug: calexico
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 birth_date: '1996'
 genres:
-- alt country
-- americana
-- roots rock
+  - alt country
+  - americana
+  - roots rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/calexico.jpg
   caption: Calexico
@@ -29,101 +29,105 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Iron & Wine (Sam Beam)
-  - Amos Lee
-  - Wilco
-  - Pavement
-  - Arcade Fire
-  - Andrew Bird
-  - Jacob Valenzuela
-  - Martin Wenk
-  - Volker Zander
-  - Paul Niehaus
+    - Iron & Wine (Sam Beam)
+    - Amos Lee
+    - Wilco
+    - Pavement
+    - Arcade Fire
+    - Andrew Bird
+    - Jacob Valenzuela
+    - Martin Wenk
+    - Volker Zander
+    - Paul Niehaus
   influenced:
-  - Later Americana and indie bands blending Latin and Southwestern sounds (e.g., ‘desert noir’ and border‑music scenes)
+    - >-
+      Later Americana and indie bands blending Latin and Southwestern sounds
+      (e.g., ‘desert noir’ and border‑music scenes)
   mentors:
-  - Howe Gelb
-  - Friends of Dean Martinez (via Bill Elm and ensemble)
-  - Traditional Latin and border music (mariachi, conjunto, cumbia, tejano)
+    - Howe Gelb
+    - Friends of Dean Martinez (via Bill Elm and ensemble)
+    - 'Traditional Latin and border music (mariachi, conjunto, cumbia, tejano)'
 spotify_data:
   followers: 217967
   id: 1OmdWpAh1pucAuZPzJaxIJ
   popularity: 47
-  url: https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ
+  url: 'https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ'
 discography_enriched: true
 top_tracks:
-- Goin' to Acapulco
-- He Lays In The Reins (In The Reins)
-- Alone Again Or (Feast of Wire (20th Anniversary Remastered Deluxe Edition))
-- 16, Maybe Less (In The Reins)
-- History of Lovers (In The Reins)
-- Alone Again Or - Remastered (Feast of Wire (20th Anniversary Deluxe Edition))
-- Ballad of Cable Hogue (Hot Rail)
-- Banderilla (Even My Sure Things Fall Through)
-- Two Parts In One (Cruce de Caminos)
-- Minas de Cobre (for Better Metal) (The Black Light)
+  - Goin' to Acapulco
+  - He Lays In The Reins (In The Reins)
+  - Alone Again Or (Feast of Wire (20th Anniversary Remastered Deluxe Edition))
+  - '16, Maybe Less (In The Reins)'
+  - History of Lovers (In The Reins)
+  - >-
+    Alone Again Or - Remastered (Feast of Wire (20th Anniversary Deluxe
+    Edition))
+  - Ballad of Cable Hogue (Hot Rail)
+  - Banderilla (Even My Sure Things Fall Through)
+  - Two Parts In One (Cruce de Caminos)
+  - Minas de Cobre (for Better Metal) (The Black Light)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5e372a49-5672-4fb8-ba14-18c90780c4f9
-  spotify: https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ
-  wikipedia: https://en.wikipedia.org/wiki/Calexico_(band)
+  musicbrainz: 'https://musicbrainz.org/artist/5e372a49-5672-4fb8-ba14-18c90780c4f9'
+  spotify: 'https://open.spotify.com/artist/1OmdWpAh1pucAuZPzJaxIJ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Calexico_(band)'
 image_path: 03_Resources/source_material/ArtistPortraits/calexico.jpg
 biography_enhanced_at: '2025-12-19T02:03:35.000796'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Calexico_(band)
-- https://spunk.com.au/artists/calexico/
-- https://ponderosa.it/en/artist/calexico/
-- https://touchandgorecords.com/bands/band.php?id=5
-- https://aarongilbreath.substack.com/p/calexicos-early-days
-- https://azpbs.org/artin48/2021/01/the-arizona-indie-rock-band-calexico/
-- https://www.casadecalexico.com/about/
-- https://www.anti.com/artists/calexico/
+  - 'https://en.wikipedia.org/wiki/Calexico_(band)'
+  - 'https://spunk.com.au/artists/calexico/'
+  - 'https://ponderosa.it/en/artist/calexico/'
+  - 'https://touchandgorecords.com/bands/band.php?id=5'
+  - 'https://aarongilbreath.substack.com/p/calexicos-early-days'
+  - 'https://azpbs.org/artin48/2021/01/the-arizona-indie-rock-band-calexico/'
+  - 'https://www.casadecalexico.com/about/'
+  - 'https://www.anti.com/artists/calexico/'
 network_extracted: true
 entry_created: '2025-12-19T02:03:35.000811'
 last_updated: '2025-12-23T08:16:06.299021'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a48bf6cf-6dd1-4d81-8976-373fe54ca791
-  name: Joey Burns
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7c7da0cb-c1e0-48ce-aaec-f2f6c67dde53
-  name: John Convertino
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 208ba498-398a-4bb4-8e84-11bf28af616a
-  name: Depedro
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f84893b8-2c33-4218-adc4-4169954610d8
-  name: Paul Niehaus
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 79278a18-d848-4288-ba89-c2359b29da87
-  name: Jacob Valenzuela
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2ca607a0-7bb3-4fd1-a2af-d342d99087b9
-  name: Martin Wenk
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2b904662-78eb-48b7-a9f2-3fa8829ced6e
-  name: Volker Zander
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a48bf6cf-6dd1-4d81-8976-373fe54ca791
+    name: Joey Burns
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7c7da0cb-c1e0-48ce-aaec-f2f6c67dde53
+    name: John Convertino
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 208ba498-398a-4bb4-8e84-11bf28af616a
+    name: Depedro
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f84893b8-2c33-4218-adc4-4169954610d8
+    name: Paul Niehaus
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 79278a18-d848-4288-ba89-c2359b29da87
+    name: Jacob Valenzuela
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2ca607a0-7bb3-4fd1-a2af-d342d99087b9
+    name: Martin Wenk
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2b904662-78eb-48b7-a9f2-3fa8829ced6e
+    name: Volker Zander
 musicbrainz_id: 5e372a49-5672-4fb8-ba14-18c90780c4f9
-origin: Tucson
+origin: 'Tucson, Arizona, United States'
 tags:
-- american
-- americana
-- américain
+  - american
+  - americana
+  - américain
 ---
 
 ![](calexico.jpg)

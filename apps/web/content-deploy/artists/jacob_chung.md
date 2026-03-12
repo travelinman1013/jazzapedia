@@ -3,13 +3,13 @@ title: Jacob Chung
 wiki_slug: jacob-chung
 schema_version: 2
 status: active
-birth_place: Toronto, Ontario, Canada
+birth_place: 'Toronto, Ontario, Canada'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jacob_chung.jpg
   caption: Jacob Chung
   background: solo_singer
-  origin: Toronto, Ontario, Canada
+  origin: 'Toronto, Ontario, Canada'
 audio_profile:
   tempo_avg: 113.5
   energy_avg: 0.497
@@ -25,54 +25,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tyler Henderson
-  - Joe Farnsworth
-  - Erena Terakubo
-  - Chris Byars
-  - James Sarno
-  - Rodney Green
-  - Mingus Big Band
-  - John Pizzarelli Big Band
-  - Emmet Cohen
+    - Tyler Henderson
+    - Joe Farnsworth
+    - Erena Terakubo
+    - Chris Byars
+    - James Sarno
+    - Rodney Green
+    - Mingus Big Band
+    - John Pizzarelli Big Band
+    - Emmet Cohen
   influenced: []
   mentors:
-  - Vincent Herring
-  - Grant Stewart
-  - Ken Peplowski
+    - Vincent Herring
+    - Grant Stewart
+    - Ken Peplowski
 spotify_data:
   followers: 452
   id: 0HMaTCDiKbVx1x6kzzAywv
   popularity: 8
-  url: https://open.spotify.com/artist/0HMaTCDiKbVx1x6kzzAywv
+  url: 'https://open.spotify.com/artist/0HMaTCDiKbVx1x6kzzAywv'
 discography_enriched: true
 top_tracks:
-- The Touch Of Your Lips - Live (The Touch Of Your Lips (Live))
-- Jeannine (The Sage)
-- The Sage (The Sage)
-- Embraceable You (The Sage)
-- Dim Sum (The Sage)
-- My Aspiration (The Sage)
-- Thompson's Pulpit (The Sage)
-- Imminent Parousia (The Sage)
-- Bouncin' At Bonafide (Epistle)
-- Vincent's Place (The Sage)
+  - The Touch Of Your Lips - Live (The Touch Of Your Lips (Live))
+  - Jeannine (The Sage)
+  - The Sage (The Sage)
+  - Embraceable You (The Sage)
+  - Dim Sum (The Sage)
+  - My Aspiration (The Sage)
+  - Thompson's Pulpit (The Sage)
+  - Imminent Parousia (The Sage)
+  - Bouncin' At Bonafide (Epistle)
+  - Vincent's Place (The Sage)
 external_urls:
-  spotify: https://open.spotify.com/artist/0HMaTCDiKbVx1x6kzzAywv
+  spotify: 'https://open.spotify.com/artist/0HMaTCDiKbVx1x6kzzAywv'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/jacob_chung.jpg
 biography_enhanced_at: '2025-11-29T06:58:34.621377'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- thedjangonyc.com - Jacob Chung Quartet event page
-- jacobchungmusic.com - Official biography
-- tprrecords.ca - Jacob Chung artist profile
-- winniesnyc.com - Jacob Chung biography
-- rhythmchanges.ca - Epistle album review
-- niagarajazzfestival.com - Jacob Chung artist profile
+  - thedjangonyc.com - Jacob Chung Quartet event page
+  - jacobchungmusic.com - Official biography
+  - tprrecords.ca - Jacob Chung artist profile
+  - winniesnyc.com - Jacob Chung biography
+  - rhythmchanges.ca - Epistle album review
+  - niagarajazzfestival.com - Jacob Chung artist profile
 network_extracted: true
 entry_created: '2025-11-29T06:58:34.621392'
 last_updated: '2025-12-23T08:16:10.096902'
+origin: 'Toronto, Ontario, Canada'
+artist_type: person
 ---
 
 ![](jacob_chung.jpg)

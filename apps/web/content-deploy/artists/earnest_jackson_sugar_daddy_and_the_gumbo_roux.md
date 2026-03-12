@@ -1,39 +1,45 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-16T01:42:46.472096'
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-16T01:42:46.472102'
 external_urls:
-  spotify: https://open.spotify.com/artist/17P966QkX81svuN6uqOjj6
+  spotify: 'https://open.spotify.com/artist/17P966QkX81svuN6uqOjj6'
   wikipedia: ''
 genres:
-- classic blues
-- blues
-image_path: 03_Resources/source_material/ArtistPortraits/earnest_jackson_sugar_daddy_and_the_gumbo_roux.jpg
+  - classic blues
+  - blues
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/earnest_jackson_sugar_daddy_and_the_gumbo_roux.jpg
 last_updated: '2026-01-16T01:42:46.472102'
 musical_connections:
   collaborators:
-  - Sugar Daddy and the Gumbo Roux
-  - Kinny Landrum
-  - Randy Jackson
+    - Sugar Daddy and the Gumbo Roux
+    - Kinny Landrum
+    - Randy Jackson
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.ongoinghistoryofprotestsongs.com/2022/11/22/daily-dose-of-protest-inflation-earnest-jackson-and-sugar-daddy-and-the-gumbo-roux/
-- https://www.wunc.org/2022-10-29/how-does-the-music-industry-work-planet-money-started-a-record-label-to-find-out
-- https://kinnylandrum.com/blog-3/
-- https://www.wbur.org/npr/1131313436/planet-money-records-earnest-jackson-inflation-song
-- https://www.mainepublic.org/2022-11-02/this-song-is-nearly-5-decades-long-but-its-subject-still-hits-home
+  - >-
+    https://www.ongoinghistoryofprotestsongs.com/2022/11/22/daily-dose-of-protest-inflation-earnest-jackson-and-sugar-daddy-and-the-gumbo-roux/
+  - >-
+    https://www.wunc.org/2022-10-29/how-does-the-music-industry-work-planet-money-started-a-record-label-to-find-out
+  - 'https://kinnylandrum.com/blog-3/'
+  - >-
+    https://www.wbur.org/npr/1131313436/planet-money-records-earnest-jackson-inflation-song
+  - >-
+    https://www.mainepublic.org/2022-11-02/this-song-is-nearly-5-decades-long-but-its-subject-still-hits-home
 spotify_data:
   followers: 739
   id: 17P966QkX81svuN6uqOjj6
   popularity: 10
-  url: https://open.spotify.com/artist/17P966QkX81svuN6uqOjj6
+  url: 'https://open.spotify.com/artist/17P966QkX81svuN6uqOjj6'
 status: active
-title: earnest jackson, sugar daddy and the gumbo roux
+title: 'Earnest Jackson, Sugar Daddy and the Gumbo Roux'
+origin: 'Baton Rouge, Louisiana, United States'
 ---
 
 ![](earnest_jackson_sugar_daddy_and_the_gumbo_roux.jpg)

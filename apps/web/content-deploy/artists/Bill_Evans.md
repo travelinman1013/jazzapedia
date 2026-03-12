@@ -5,19 +5,19 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1929-08-16'
-birth_place: Plainfield
+birth_place: 'Plainfield, New Jersey, United States'
 death_date: '1980-09-15'
 genres:
-- jazz
-- cool jazz
-- bebop
-- hard bop
+  - jazz
+  - cool jazz
+  - bebop
+  - hard bop
 instruments:
-- piano
-- eponymous
-- original
-- electric piano
-- spoken vocals
+  - piano
+  - eponymous
+  - original
+  - electric piano
+  - spoken vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Bill_Evans.jpg
   caption: Bill Evans
@@ -26,7 +26,7 @@ infobox:
   origin: Plainfield
   died: '1980-09-15'
 audio_profile:
-  tempo_avg: 107.0
+  tempo_avg: 107
   energy_avg: 0.189
   valence_avg: 0.321
   danceability_avg: 0.475
@@ -40,48 +40,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Miles Davis
-  - Scott LaFaro
-  - Paul Motian
-  - John Coltrane
-  - Cannonball Adderley
-  - Chuck Israels
-  - Eddie Gómez
-  - Tony Bennett
-  - Tony Scott
+    - Miles Davis
+    - Scott LaFaro
+    - Paul Motian
+    - John Coltrane
+    - Cannonball Adderley
+    - Chuck Israels
+    - Eddie Gómez
+    - Tony Bennett
+    - Tony Scott
   influenced: []
   mentors:
-  - George Russell
+    - George Russell
 spotify_data:
   followers: 774142
   id: 4jXfFzeP66Zy67HM2mvIIF
   popularity: 61
-  url: https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF
+  url: 'https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF'
 discography_enriched: true
 top_tracks:
-- Blue in Green (feat. John Coltrane & Bill Evans) (Kind Of Blue (Legacy Edition))
-- So What (feat. John Coltrane, Cannonball Adderley & Bill Evans) (Kind Of Blue (Legacy Edition))
-- Gary's Theme - Remastered 2003 (You Must Believe In Spring (Remastered Version))
-- But Beautiful (Stan Getz & Bill Evans)
-- B Minor Waltz - Remastered 2003 (You Must Believe In Spring (Remastered Version))
-- Blue In Green (Take 3) (Portrait In Jazz [Keepnews Collection])
-- Stella By Starlight (feat. John Coltrane & Bill Evans) (Kind Of Blue (Legacy Edition))
-- So What (feat. John Coltrane, Cannonball Adderley & Bill Evans) (Kind Of Blue)
-- Peace Piece (Everybody Digs Bill Evans)
-- All Blues (feat. John Coltrane, Cannonball Adderley & Bill Evans) (Kind Of Blue (Legacy Edition))
+  - >-
+    Blue in Green (feat. John Coltrane & Bill Evans) (Kind Of Blue (Legacy
+    Edition))
+  - >-
+    So What (feat. John Coltrane, Cannonball Adderley & Bill Evans) (Kind Of
+    Blue (Legacy Edition))
+  - >-
+    Gary's Theme - Remastered 2003 (You Must Believe In Spring (Remastered
+    Version))
+  - But Beautiful (Stan Getz & Bill Evans)
+  - >-
+    B Minor Waltz - Remastered 2003 (You Must Believe In Spring (Remastered
+    Version))
+  - 'Blue In Green (Take 3) (Portrait In Jazz [Keepnews Collection])'
+  - >-
+    Stella By Starlight (feat. John Coltrane & Bill Evans) (Kind Of Blue (Legacy
+    Edition))
+  - >-
+    So What (feat. John Coltrane, Cannonball Adderley & Bill Evans) (Kind Of
+    Blue)
+  - Peace Piece (Everybody Digs Bill Evans)
+  - >-
+    All Blues (feat. John Coltrane, Cannonball Adderley & Bill Evans) (Kind Of
+    Blue (Legacy Edition))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8247a3f2-3a8e-4256-b322-6c57b03a4e36
-  spotify: https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF
-  wikipedia: https://en.wikipedia.org/wiki/Bill_Evans
+  musicbrainz: 'https://musicbrainz.org/artist/8247a3f2-3a8e-4256-b322-6c57b03a4e36'
+  spotify: 'https://open.spotify.com/artist/4jXfFzeP66Zy67HM2mvIIF'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bill_Evans'
 image_path: 03_Resources/source_material/ArtistPortraits/Bill_Evans.jpg
 biography_enhanced_at: '2025-10-22T06:58:56.917888'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Bill_Evans
-- https://www.britannica.com/biography/Bill-Evans
-- https://billevansofficial.com/about/
-- https://64parishes.org/entry/bill-evans
+  - 'https://en.wikipedia.org/wiki/Bill_Evans'
+  - 'https://www.britannica.com/biography/Bill-Evans'
+  - 'https://billevansofficial.com/about/'
+  - 'https://64parishes.org/entry/bill-evans'
 network_extracted: true
 entry_created: '2025-10-22T06:58:56.917903'
 last_updated: '2025-12-23T08:16:01.209300'
@@ -89,9 +103,11 @@ disambiguation: pianist
 gender: Male
 musicbrainz_id: 8247a3f2-3a8e-4256-b322-6c57b03a4e36
 tags:
-- 1950s
-- 1960s
-- 1970s
+  - 1950s
+  - 1960s
+  - 1970s
+is_active: false
+origin: 'New York City, New York, United States'
 ---
 
 ![](Bill_Evans.jpg)

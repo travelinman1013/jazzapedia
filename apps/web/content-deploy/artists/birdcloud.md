@@ -1,12 +1,12 @@
 ---
-title: birdcloud
+title: Birdcloud
 wiki_slug: birdcloud
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 birth_date: '2009'
 genres:
-- folk punk
+  - folk punk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/birdcloud.jpg
   caption: birdcloud
@@ -18,7 +18,7 @@ audio_profile:
   valence_avg: 0.392
   danceability_avg: 0.586
   acousticness_avg: 0.67
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -6.9
   speechiness_avg: 0.037
   liveness_avg: 0.15
@@ -27,52 +27,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jordan Lehning
+    - Jordan Lehning
   influenced:
-  - No widely documented direct proteges
+    - No widely documented direct proteges
   mentors:
-  - Kyle Lehning
-  - Roger Miller
-  - Tom T. Hall
+    - Kyle Lehning
+    - Roger Miller
+    - Tom T. Hall
 spotify_data:
   followers: 28779
   id: 4jMnk0SNvD42VxO4WpFuoo
   popularity: 23
-  url: https://open.spotify.com/artist/4jMnk0SNvD42VxO4WpFuoo
+  url: 'https://open.spotify.com/artist/4jMnk0SNvD42VxO4WpFuoo'
 discography_enriched: true
 top_tracks:
-- Springwater (Singles Only)
-- Washin' My Big Ol' Pussy (Singles Only)
-- Saving Myself for Jesus (Singles Only)
-- Vodkasodaburg (Singles Only)
-- Indianer (Singles Only)
-- Fuck You Cop (Singles Only)
-- Damn Dumb (Singles Only)
-- Wild Turkey 101 (Wild Turkey 101)
-- Do What I Want (Singles Only)
-- Humbleberry Pie (Singles Only)
+  - Springwater (Singles Only)
+  - Washin' My Big Ol' Pussy (Singles Only)
+  - Saving Myself for Jesus (Singles Only)
+  - Vodkasodaburg (Singles Only)
+  - Indianer (Singles Only)
+  - Fuck You Cop (Singles Only)
+  - Damn Dumb (Singles Only)
+  - Wild Turkey 101 (Wild Turkey 101)
+  - Do What I Want (Singles Only)
+  - Humbleberry Pie (Singles Only)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/85b3baa3-054b-4cfa-998a-5533d8f13db2
-  spotify: https://open.spotify.com/artist/4jMnk0SNvD42VxO4WpFuoo
-  wikipedia: https://en.wikipedia.org/wiki/Birdcloud
+  musicbrainz: 'https://musicbrainz.org/artist/85b3baa3-054b-4cfa-998a-5533d8f13db2'
+  spotify: 'https://open.spotify.com/artist/4jMnk0SNvD42VxO4WpFuoo'
+  wikipedia: 'https://en.wikipedia.org/wiki/Birdcloud'
 image_path: 03_Resources/source_material/ArtistPortraits/birdcloud.jpg
 biography_enhanced_at: '2025-10-19T10:55:00.717731'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Birdcloud
-- https://www.vice.com/en/article/birdcloud-nashville-profile/
-- https://americansongwriter.com/birdcloud-birds-feather/
-- http://www.birdcloudamerica.com/bio
-- https://partybowling.wordpress.com/2019/11/18/a-birdcloud-history-through-songs-part-1-2009-2011/
-- https://www.unratedmag.com/birdcloud-an-fun-band-to-watch/
+  - 'https://en.wikipedia.org/wiki/Birdcloud'
+  - 'https://www.vice.com/en/article/birdcloud-nashville-profile/'
+  - 'https://americansongwriter.com/birdcloud-birds-feather/'
+  - 'http://www.birdcloudamerica.com/bio'
+  - >-
+    https://partybowling.wordpress.com/2019/11/18/a-birdcloud-history-through-songs-part-1-2009-2011/
+  - 'https://www.unratedmag.com/birdcloud-an-fun-band-to-watch/'
 network_extracted: true
 entry_created: '2025-10-19T10:55:00.717749'
 last_updated: '2025-12-23T08:16:05.635888'
 musicbrainz_enriched_at: '2025-10-21T09:49:22.961789'
 musicbrainz_id: 85b3baa3-054b-4cfa-998a-5533d8f13db2
-origin: Nashville, Tennessee, United States
-
+origin: 'Nashville, Tennessee, United States'
 ---
 
 ![](birdcloud.jpg)

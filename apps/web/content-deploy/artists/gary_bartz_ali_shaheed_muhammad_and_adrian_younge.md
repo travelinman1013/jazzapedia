@@ -1,14 +1,15 @@
 ---
-title: GARY BARTZ, ALI SHAHEED MUHAMMAD & ADRIAN YOUNGE
+title: 'Gary Bartz, Ali Shaheed Muhammad & Adrian Younge'
 wiki_slug: gary-bartz-ali-shaheed-muhammad-adrian-younge
 schema_version: 2
 status: active
 genres:
-- brazilian jazz
-- jazz fusion
+  - brazilian jazz
+  - jazz fusion
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/gary_bartz_ali_shaheed_muhammad_and_adrian_younge.jpg
-  caption: GARY BARTZ, ALI SHAHEED MUHAMMAD & ADRIAN YOUNGE
+  image: >-
+    03_Resources/source_material/ArtistPortraits/gary_bartz_ali_shaheed_muhammad_and_adrian_younge.jpg
+  caption: 'GARY BARTZ, ALI SHAHEED MUHAMMAD & ADRIAN YOUNGE'
   background: solo_singer
 audio_profile:
   tempo_avg: 115.7
@@ -25,60 +26,68 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Adrian Younge
-  - Ali Shaheed Muhammad
-  - Abbey Lincoln
-  - Eric Dolphy
-  - McCoy Tyner
-  - Miles Davis
+    - Adrian Younge
+    - Ali Shaheed Muhammad
+    - Abbey Lincoln
+    - Eric Dolphy
+    - McCoy Tyner
+    - Miles Davis
   influenced:
-  - Ali Shaheed Muhammad
-  - Adrian Younge
-  - Maisha
+    - Ali Shaheed Muhammad
+    - Adrian Younge
+    - Maisha
   mentors:
-  - Charlie Parker
-  - Max Roach
-  - Charles Mingus
-  - Art Blakey
+    - Charlie Parker
+    - Max Roach
+    - Charles Mingus
+    - Art Blakey
 spotify_data:
   followers: 21
   id: 6d1UM3Zf8z2wkEDx99jmOF
   popularity: 1
-  url: https://open.spotify.com/artist/6d1UM3Zf8z2wkEDx99jmOF
+  url: 'https://open.spotify.com/artist/6d1UM3Zf8z2wkEDx99jmOF'
 discography_enriched: true
 top_tracks:
-- Ballad of the Matador (Frank Strazzeri. Strazzatonic. Taurus / Frames / View from Within)
-- Injun-Jo (Frank Strazzeri. Strazzatonic. Taurus / Frames / View from Within)
-- Jo Gee (Frank Strazzeri. Strazzatonic. Taurus / Frames / View from Within)
-- La Mosca (Frank Strazzeri. Strazzatonic. Taurus / Frames / View from Within)
-- Frames (Frank Strazzeri. Strazzatonic. Taurus / Frames / View from Within)
-- Evening in Madrid (Frank Strazzeri. Strazzatonic. Taurus / Frames / View from Within)
-- Lets Pretend (Ancient Kings)
-- Early Morning Rises (Ancient Kings)
-- Islands (Ancient Kings)
-- DR. Jackal (Four to Go (feat. John Gross, Gary Barone, Alan Jones))
+  - >-
+    Ballad of the Matador (Frank Strazzeri. Strazzatonic. Taurus / Frames / View
+    from Within)
+  - Injun-Jo (Frank Strazzeri. Strazzatonic. Taurus / Frames / View from Within)
+  - Jo Gee (Frank Strazzeri. Strazzatonic. Taurus / Frames / View from Within)
+  - La Mosca (Frank Strazzeri. Strazzatonic. Taurus / Frames / View from Within)
+  - Frames (Frank Strazzeri. Strazzatonic. Taurus / Frames / View from Within)
+  - >-
+    Evening in Madrid (Frank Strazzeri. Strazzatonic. Taurus / Frames / View
+    from Within)
+  - Lets Pretend (Ancient Kings)
+  - Early Morning Rises (Ancient Kings)
+  - Islands (Ancient Kings)
+  - 'DR. Jackal (Four to Go (feat. John Gross, Gary Barone, Alan Jones))'
 external_urls:
-  spotify: https://open.spotify.com/artist/6d1UM3Zf8z2wkEDx99jmOF
-  wikipedia: https://en.wikipedia.org/wiki/Gary_Bartz
-image_path: 03_Resources/source_material/ArtistPortraits/gary_bartz_ali_shaheed_muhammad_and_adrian_younge.jpg
+  spotify: 'https://open.spotify.com/artist/6d1UM3Zf8z2wkEDx99jmOF'
+  wikipedia: 'https://en.wikipedia.org/wiki/Gary_Bartz'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/gary_bartz_ali_shaheed_muhammad_and_adrian_younge.jpg
 biography_enhanced_at: '2025-11-11T09:25:20.107133'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://scratchedvinyl.com/reviews/gary-bartz-jid006/
-- https://horizonrecords.net/legendary-saxophonist-gary-bartz-effortlessly-interfaces-with-the-next-generation-and-collaborates-with-jazz-is-deads-adrian-younge-ali-shaheed-muhammad-on-gary-bartz-jid006-in/
-- https://en.wikipedia.org/wiki/Ali_Shaheed_Muhammad
-- https://www.arts.gov/honors/jazz/gary-bartz
-- https://jazztimes.com/features/profiles/gary-bartz-jazz-is-dead/
-- https://www.jazzisdead.com/garybartz
-- https://garybartz.bandcamp.com/album/gary-bartz-jid006
-- https://www.oberlin.edu/gary-bartz
-- https://rochesterjazz.com/artists/nea-jazz-master-gary-bartz/
-- https://downbeat.com/archives/artist/ali-shaheed-muhammad
+  - 'https://scratchedvinyl.com/reviews/gary-bartz-jid006/'
+  - >-
+    https://horizonrecords.net/legendary-saxophonist-gary-bartz-effortlessly-interfaces-with-the-next-generation-and-collaborates-with-jazz-is-deads-adrian-younge-ali-shaheed-muhammad-on-gary-bartz-jid006-in/
+  - 'https://en.wikipedia.org/wiki/Ali_Shaheed_Muhammad'
+  - 'https://www.arts.gov/honors/jazz/gary-bartz'
+  - 'https://jazztimes.com/features/profiles/gary-bartz-jazz-is-dead/'
+  - 'https://www.jazzisdead.com/garybartz'
+  - 'https://garybartz.bandcamp.com/album/gary-bartz-jid006'
+  - 'https://www.oberlin.edu/gary-bartz'
+  - 'https://rochesterjazz.com/artists/nea-jazz-master-gary-bartz/'
+  - 'https://downbeat.com/archives/artist/ali-shaheed-muhammad'
 network_extracted: true
 entry_created: '2025-11-11T09:25:20.107136'
 last_updated: '2025-12-23T08:16:09.005988'
-origin: Baltimore, Maryland, United States
+origin: 'Baltimore, Maryland, United States'
+birth_place: 'Baltimore, Maryland, United States'
+artist_type: person
 ---
 
 ![](gary_bartz_ali_shaheed_muhammad_and_adrian_younge.jpg)

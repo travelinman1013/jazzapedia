@@ -1,47 +1,49 @@
 ---
 biography_enhanced_at: '2026-01-21T01:10:52.932934'
-birth_place: Queens, New York, United States
+birth_place: 'Queens, New York, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-21T01:10:52.932940'
 external_urls:
-  spotify: https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw
+  spotify: 'https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw'
   wikipedia: Not found in search results
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/lil_yachty_diana_gordon.jpg
 last_updated: '2026-01-21T01:10:52.932941'
 musical_connections:
   collaborators:
-  - Beyoncé
-  - Lil Yachty
-  - Mary J. Blige
-  - Flo Rida
-  - Jennifer Lopez
-  - David Guetta
-  - Mark Ronson & Romy (The XX)
-  - Steve Lacy
-  - Brent Faiyaz
-  - Danity Kane
+    - Beyoncé
+    - Lil Yachty
+    - Mary J. Blige
+    - Flo Rida
+    - Jennifer Lopez
+    - David Guetta
+    - Mark Ronson & Romy (The XX)
+    - Steve Lacy
+    - Brent Faiyaz
+    - Danity Kane
   influenced: []
   mentors:
-  - D'Mile
-  - Hugh Maskela
+    - D'Mile
+    - Hugh Maskela
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://kids.kiddle.co/Diana_Gordon
-- https://www.tastemakersmag.com/articles/lets-start-here-lil-yachty
-- http://juniorhighlosangeles.com/featured/dianagordon
-- https://coveteur.com/diana-gordon-music
-- https://www.udiscovermusic.com/news/lil-yachty-saturday-night-live/
-- https://www.shazam.com/en-us/artist/diana-gordon/130318076
-- https://www.viberate.com/artist/diana-gordon/
+  - 'https://kids.kiddle.co/Diana_Gordon'
+  - 'https://www.tastemakersmag.com/articles/lets-start-here-lil-yachty'
+  - 'http://juniorhighlosangeles.com/featured/dianagordon'
+  - 'https://coveteur.com/diana-gordon-music'
+  - 'https://www.udiscovermusic.com/news/lil-yachty-saturday-night-live/'
+  - 'https://www.shazam.com/en-us/artist/diana-gordon/130318076'
+  - 'https://www.viberate.com/artist/diana-gordon/'
 spotify_data:
   followers: 11034498
   id: 6icQOAFXDZKsumw3YXyusw
   popularity: 78
-  url: https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw
+  url: 'https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw'
 status: active
-title: Lil Yachty, Diana Gordon
+title: 'Lil Yachty, Diana Gordon'
+birth_date: '1985-08-25'
+artist_type: person
 ---
 
 ![](lil_yachty_diana_gordon.jpg)

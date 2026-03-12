@@ -1,70 +1,71 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2ae4dbdb-3ac2-4e9d-a5b8-f6e9b1b084d3
-  name: The Teen Town Singers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 110976c9-58a1-412a-8d34-befd33a83a01
-  name: Carla & Rufus
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2ae4dbdb-3ac2-4e9d-a5b8-f6e9b1b084d3
+    name: The Teen Town Singers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 110976c9-58a1-412a-8d34-befd33a83a01
+    name: Carla & Rufus
 biography_enhanced_at: '2026-01-07T01:19:34.049438'
 birth_date: '1942-12-21'
-birth_place: Memphis
+birth_place: 'Memphis, Tennessee, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-07T01:19:34.049444'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/66e2a444-5303-4cdf-b20f-d377ecf465ed
-  spotify: https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj
-  wikipedia: https://en.wikipedia.org/wiki/Carla_Thomas
+  musicbrainz: 'https://musicbrainz.org/artist/66e2a444-5303-4cdf-b20f-d377ecf465ed'
+  spotify: 'https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj'
+  wikipedia: 'https://en.wikipedia.org/wiki/Carla_Thomas'
 gender: Female
 genres:
-- soul
-- motown
-- northern soul
+  - soul
+  - motown
+  - northern soul
 image_path: 03_Resources/source_material/ArtistPortraits/carla_thomas.jpg
 instruments:
-- background vocals
-- lead vocals
+  - background vocals
+  - lead vocals
 last_updated: '2026-01-07T01:19:34.049445'
 musical_connections:
   collaborators:
-  - Otis Redding
-  - Rufus Thomas
-  - Marvell Thomas
-  - Vaneese Thomas
+    - Otis Redding
+    - Rufus Thomas
+    - Marvell Thomas
+    - Vaneese Thomas
   influenced:
-  - Valerie June
-  - Generations of singers
+    - Valerie June
+    - Generations of singers
   mentors:
-  - Rufus Thomas
-  - Jackie Wilson
-  - Brenda Lee
+    - Rufus Thomas
+    - Jackie Wilson
+    - Brenda Lee
 musicbrainz_id: 66e2a444-5303-4cdf-b20f-d377ecf465ed
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Carla_Thomas
-- https://digitalscholarship.tnstate.edu/cgi/viewcontent.cgi?article=1000&context=notable-alumni
-- https://concord.com/artist/carla-thomas/
-- https://staxrecords.com/artist/carla-thomas/
-- https://wers.org/the-vault-of-soul-carla-thomas/
-- https://memphismusichalloffame.com/inductee/carlathomas/
-- https://riggsentertainmentllc.com/entertainers/carla-thomas/
+  - 'https://en.wikipedia.org/wiki/Carla_Thomas'
+  - >-
+    https://digitalscholarship.tnstate.edu/cgi/viewcontent.cgi?article=1000&context=notable-alumni
+  - 'https://concord.com/artist/carla-thomas/'
+  - 'https://staxrecords.com/artist/carla-thomas/'
+  - 'https://wers.org/the-vault-of-soul-carla-thomas/'
+  - 'https://memphismusichalloffame.com/inductee/carlathomas/'
+  - 'https://riggsentertainmentllc.com/entertainers/carla-thomas/'
 spotify_data:
   followers: 76231
   id: 1QAGLCom3FHTTiuRFsjzOj
   popularity: 49
-  url: https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj
+  url: 'https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj'
 status: active
 tags:
-- r&b
-- soul
+  - r&b
+  - soul
 title: Carla Thomas
-
+origin: 'Memphis, Tennessee, United States'
 ---
 
 ![](carla_thomas.jpg)

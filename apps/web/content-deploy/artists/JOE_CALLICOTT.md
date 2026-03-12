@@ -1,15 +1,15 @@
 ---
-title: JOE CALLICOTT
+title: Joe Callicott
 wiki_slug: joe-callicott
 schema_version: 2
 status: active
-birth_place: Nesbit, Mississippi, United States
+birth_place: 'Nesbit, Mississippi, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/JOE_CALLICOTT.jpg
   caption: JOE CALLICOTT
   background: solo_singer
-  origin: Nesbit, Mississippi, United States
+  origin: 'Nesbit, Mississippi, United States'
 audio_profile:
   tempo_avg: 130.2
   energy_avg: 0.823
@@ -25,44 +25,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Garfield Akers
-  - George Mitchell
+    - Garfield Akers
+    - George Mitchell
   influenced:
-  - Kenny Brown
+    - Kenny Brown
   mentors:
-  - Jim Jackson
+    - Jim Jackson
 spotify_data:
   followers: 3665
   id: 5Nbg0g30EwMpYD6jQ2xcfX
   popularity: 33
-  url: https://open.spotify.com/artist/5Nbg0g30EwMpYD6jQ2xcfX
+  url: 'https://open.spotify.com/artist/5Nbg0g30EwMpYD6jQ2xcfX'
 discography_enriched: true
 top_tracks:
-- Maybe It’s Time (feat. Corey Taylor, Joe Elliott, Brantley Gilbert, Ivan Moody, Slash, AWOLNATION, Tommy Vext)
-- Spillways [Feat. Joe Elliott]
-- I Hate How Much I Want You (with Phil Collen & Joe Elliott of Def Leppard) (Strange Days)
-- Spillways [Feat. Joe Elliott]
-- Better Than Saturday Night (Wrong Side of Paradise)
-- 'People (Defiance Part 2: Fiction (Deluxe Edition))'
-- 'Precious (Defiance Part 2: Fiction (Deluxe Edition))'
-- Cowboys In Pinstriped Suits (Cowboys In Pinstriped Suits)
-- 'How''d Ya Like To Meet Henry (Defiance Part 2: Fiction (Deluxe Edition))'
-- You're the Voice
+  - >-
+    Maybe It’s Time (feat. Corey Taylor, Joe Elliott, Brantley Gilbert, Ivan
+    Moody, Slash, AWOLNATION, Tommy Vext)
+  - 'Spillways [Feat. Joe Elliott]'
+  - >-
+    I Hate How Much I Want You (with Phil Collen & Joe Elliott of Def Leppard)
+    (Strange Days)
+  - 'Spillways [Feat. Joe Elliott]'
+  - Better Than Saturday Night (Wrong Side of Paradise)
+  - 'People (Defiance Part 2: Fiction (Deluxe Edition))'
+  - 'Precious (Defiance Part 2: Fiction (Deluxe Edition))'
+  - Cowboys In Pinstriped Suits (Cowboys In Pinstriped Suits)
+  - 'How''d Ya Like To Meet Henry (Defiance Part 2: Fiction (Deluxe Edition))'
+  - You're the Voice
 external_urls:
-  spotify: https://open.spotify.com/artist/5Nbg0g30EwMpYD6jQ2xcfX
-  wikipedia: https://en.wikipedia.org/wiki/Joe_Callicott
+  spotify: 'https://open.spotify.com/artist/5Nbg0g30EwMpYD6jQ2xcfX'
+  wikipedia: 'https://en.wikipedia.org/wiki/Joe_Callicott'
 image_path: 03_Resources/source_material/ArtistPortraits/JOE_CALLICOTT.jpg
 biography_enhanced_at: '2025-10-21T06:58:53.679608'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://msbluestrail.org/blues-trail-markers/joe-callicott
-- https://biglegalmessrecords.com/collections/john-callicott
-- https://bigtrainblues.com/b-b-king/
-- https://eng.richardaseguin.com/?p=2033
+  - 'https://msbluestrail.org/blues-trail-markers/joe-callicott'
+  - 'https://biglegalmessrecords.com/collections/john-callicott'
+  - 'https://bigtrainblues.com/b-b-king/'
+  - 'https://eng.richardaseguin.com/?p=2033'
 network_extracted: true
 entry_created: '2025-10-21T06:58:53.679624'
 last_updated: '2025-12-23T08:16:02.340780'
+artist_type: person
 ---
 
 ![](JOE_CALLICOTT.jpg)

@@ -23,52 +23,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Joe Goddard
-  - Barry Can't Swim
-  - Mike Lindsay
-  - Ghost Culture
-  - Johan Hugo
-  - Alexis Taylor
-  - Al Doyle
+    - Joe Goddard
+    - Barry Can't Swim
+    - Mike Lindsay
+    - Ghost Culture
+    - Johan Hugo
+    - Alexis Taylor
+    - Al Doyle
   influenced: []
   mentors:
-  - Oumou Sangaré
-  - Bob Marley
-  - Sory Kandia Kouyaté
+    - Oumou Sangaré
+    - Bob Marley
+    - Sory Kandia Kouyaté
 spotify_data:
   followers: 14708
   id: 2WIUWjEtviW09sdJlb2G1J
   popularity: 35
-  url: https://open.spotify.com/artist/2WIUWjEtviW09sdJlb2G1J
+  url: 'https://open.spotify.com/artist/2WIUWjEtviW09sdJlb2G1J'
 discography_enriched: true
 top_tracks:
-- I Won’t Let You Down (When Will We Land?)
-- Sibomandi (Come With Fierce Grace)
-- Drum & Bolong (Drum & Bolong)
-- Sibomandi (Come With Fierce Grace)
-- Leywole
-- Heaviness (Heaviness)
-- Bolingo Malenbè
-- Wonama yo ema
-- Wonama yo ema
-- The Children of Shaka - Digital UK Session (Digital UK Session)
+  - I Won’t Let You Down (When Will We Land?)
+  - Sibomandi (Come With Fierce Grace)
+  - Drum & Bolong (Drum & Bolong)
+  - Sibomandi (Come With Fierce Grace)
+  - Leywole
+  - Heaviness (Heaviness)
+  - Bolingo Malenbè
+  - Wonama yo ema
+  - Wonama yo ema
+  - The Children of Shaka - Digital UK Session (Digital UK Session)
 external_urls:
-  spotify: https://open.spotify.com/artist/2WIUWjEtviW09sdJlb2G1J
-  wikipedia: https://en.wikipedia.org/wiki/Joe_Goddard_(musician)
+  spotify: 'https://open.spotify.com/artist/2WIUWjEtviW09sdJlb2G1J'
+  wikipedia: 'https://en.wikipedia.org/wiki/Joe_Goddard_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/falle_nioke_and_joe_goddard.jpg
 biography_enhanced_at: '2025-12-10T04:46:00.961157'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Joe Goddard (musician)
-- 'Song Bar - Song of the Day: Falle Nioke - Falle Le Le Le'
-- Clash Music - Falle Nioke Announces Debut Album 'Love From The Sea'
-- Greco-Roman Records - N'Dekho
-- 'The Line of Best Fit - Pigeons: Falle Nioke and Joe Goddard of Hot Chip share their debut single as N''Dekho'
-- Northern Transmissions - Joe Goddard Announces Harmonics Album
+  - Wikipedia - Joe Goddard (musician)
+  - 'Song Bar - Song of the Day: Falle Nioke - Falle Le Le Le'
+  - Clash Music - Falle Nioke Announces Debut Album 'Love From The Sea'
+  - Greco-Roman Records - N'Dekho
+  - >-
+    The Line of Best Fit - Pigeons: Falle Nioke and Joe Goddard of Hot Chip
+    share their debut single as N'Dekho
+  - Northern Transmissions - Joe Goddard Announces Harmonics Album
 network_extracted: true
 entry_created: '2025-12-10T04:46:00.961167'
 last_updated: '2025-12-23T08:16:08.558790'
+birth_place: 'Conakry, Guinea, Guinea'
+origin: >-
+  Falle Nioke: Conakry, Guinea (birthplace) / Margate, England, United Kingdom
+  (current); Joe Goddard: London, England, United Kingdom
+birth_date: '1979-09-12'
+artist_type: person
 ---
 
 ![](falle_nioke_and_joe_goddard.jpg)

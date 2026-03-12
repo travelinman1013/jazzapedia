@@ -5,9 +5,9 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1965-04-20'
-birth_place: San Francisco
+birth_place: 'New York City, New York, United States'
 genres:
-- french pop
+  - french pop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/april_march.jpg
   caption: April March
@@ -29,57 +29,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Pussywillows
-  - The Shitbirds
-  - The Makers
-  - Petra Haden
-  - Los Cincos
-  - Bertrand Burgalat
-  - Jonathan Richman
-  - Olivia Jean
+    - The Pussywillows
+    - The Shitbirds
+    - The Makers
+    - Petra Haden
+    - Los Cincos
+    - Bertrand Burgalat
+    - Jonathan Richman
+    - Olivia Jean
   influenced: []
   mentors:
-  - Serge Gainsbourg
-  - France Gall
+    - Serge Gainsbourg
+    - France Gall
 spotify_data:
   followers: 65599
   id: 0bbvrSsm0Dh4erBbE1dhHD
   popularity: 45
-  url: https://open.spotify.com/artist/0bbvrSsm0Dh4erBbE1dhHD
+  url: 'https://open.spotify.com/artist/0bbvrSsm0Dh4erBbE1dhHD'
 discography_enriched: true
 top_tracks:
-- Chick Habit (Chick Habit)
-- Laisse Tomber Les Filles (Chick Habit)
-- Le Temps De L`Amour (Chick Habit)
-- While We're Young (Paris In April)
-- Deux Garçons Pour Une Fille (Chick Habit)
-- Tu Mens (Chick Habit)
-- Chick Habit (Gainsbourgsion)
-- Caribou (Chick Habit)
-- Cet Air-La (Chick Habit)
-- Surfing Castafiore
+  - Chick Habit (Chick Habit)
+  - Laisse Tomber Les Filles (Chick Habit)
+  - Le Temps De L`Amour (Chick Habit)
+  - While We're Young (Paris In April)
+  - Deux Garçons Pour Une Fille (Chick Habit)
+  - Tu Mens (Chick Habit)
+  - Chick Habit (Gainsbourgsion)
+  - Caribou (Chick Habit)
+  - Cet Air-La (Chick Habit)
+  - Surfing Castafiore
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e77b7ecf-c417-4124-b255-a3a927bb604e
-  spotify: https://open.spotify.com/artist/0bbvrSsm0Dh4erBbE1dhHD
-  wikipedia: https://en.wikipedia.org/wiki/April_March
+  musicbrainz: 'https://musicbrainz.org/artist/e77b7ecf-c417-4124-b255-a3a927bb604e'
+  spotify: 'https://open.spotify.com/artist/0bbvrSsm0Dh4erBbE1dhHD'
+  wikipedia: 'https://en.wikipedia.org/wiki/April_March'
 image_path: 03_Resources/source_material/ArtistPortraits/april_march.jpg
 biography_enhanced_at: '2025-11-26T07:59:43.339678'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - April March
-- Pantheon.world - April March Biography
-- Last.fm - April March
-- Jango Radio - April March
-- Amplify Music Magazine - April March Interview
-- Big Hassle Records - April March
+  - Wikipedia - April March
+  - Pantheon.world - April March Biography
+  - Last.fm - April March
+  - Jango Radio - April March
+  - Amplify Music Magazine - April March Interview
+  - Big Hassle Records - April March
 network_extracted: true
 entry_created: '2025-11-26T07:59:43.339686'
 last_updated: '2025-12-23T08:16:04.866326'
 gender: Female
 musicbrainz_id: e77b7ecf-c417-4124-b255-a3a927bb604e
 tags:
-- yé-yé
+  - yé-yé
 ---
 
 ![](april_march.jpg)

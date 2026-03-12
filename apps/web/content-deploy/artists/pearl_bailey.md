@@ -3,21 +3,21 @@ title: Pearl Bailey
 wiki_slug: pearl-bailey
 schema_version: 2
 status: active
-birth_place: Newport News, Virginia, United States
+birth_place: 'Newport News, Virginia, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/pearl_bailey.jpg
   caption: Pearl Bailey
   background: solo_singer
-  origin: Newport News, Virginia, United States
+  origin: 'Newport News, Virginia, United States'
 audio_profile:
   tempo_avg: 115.1
   energy_avg: 0.254
   valence_avg: 0.579
   danceability_avg: 0.579
   acousticness_avg: 0.845
-  instrumentalness_avg: 0.0
-  loudness_avg: -14.0
+  instrumentalness_avg: 0
+  loudness_avg: -14
   speechiness_avg: 0.112
   liveness_avg: 0.262
   track_count: 52
@@ -25,50 +25,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Cootie Williams
-  - Count Basie
-  - Cab Calloway
-  - Duke Ellington
-  - Louie Bellson
+    - Cootie Williams
+    - Count Basie
+    - Cab Calloway
+    - Duke Ellington
+    - Louie Bellson
   influenced:
-  - Black Broadway and musical theatre performers (later generations)
+    - Black Broadway and musical theatre performers (later generations)
   mentors:
-  - Rev. Joseph James Bailey
+    - Rev. Joseph James Bailey
 spotify_data:
   followers: 9062
   id: 2cskX7NGnrWMjA4PRSxVPL
   popularity: 30
-  url: https://open.spotify.com/artist/2cskX7NGnrWMjA4PRSxVPL
+  url: 'https://open.spotify.com/artist/2cskX7NGnrWMjA4PRSxVPL'
 discography_enriched: true
 top_tracks:
-- Best of Friends - From "The Fox & The Hound" / Soundtrack
-- Bill Bailey, Won't You Please Come Home? (Won't You Come Home, Pearly Bailey?)
-- It;s A Woman's Prerogative (Sings The Songs She Loves By Her Favourite Composer Harold Arlen)
-- Best of Friends - From "The Fox and the Hound"
-- Ain't She Sweet (For Adults Only)
-- Takes Two to Tango (At Her Best)
-- Zing Went The Strings (Won't You Come Home, Pearly Bailey?)
-- Solid Gold Cadillac (Won't You Come Home, Pearly Bailey?)
-- Ain't She Sweet (16 Most requested Songs)
-- Dat's Love (Habanera) (from "Carmen Jones") (Carmen Jones (Original Cast Recording))
+  - Best of Friends - From "The Fox & The Hound" / Soundtrack
+  - >-
+    Bill Bailey, Won't You Please Come Home? (Won't You Come Home, Pearly
+    Bailey?)
+  - >-
+    It;s A Woman's Prerogative (Sings The Songs She Loves By Her Favourite
+    Composer Harold Arlen)
+  - Best of Friends - From "The Fox and the Hound"
+  - Ain't She Sweet (For Adults Only)
+  - Takes Two to Tango (At Her Best)
+  - 'Zing Went The Strings (Won''t You Come Home, Pearly Bailey?)'
+  - 'Solid Gold Cadillac (Won''t You Come Home, Pearly Bailey?)'
+  - Ain't She Sweet (16 Most requested Songs)
+  - >-
+    Dat's Love (Habanera) (from "Carmen Jones") (Carmen Jones (Original Cast
+    Recording))
 external_urls:
-  spotify: https://open.spotify.com/artist/2cskX7NGnrWMjA4PRSxVPL
-  wikipedia: https://en.wikipedia.org/wiki/Pearl_Bailey
+  spotify: 'https://open.spotify.com/artist/2cskX7NGnrWMjA4PRSxVPL'
+  wikipedia: 'https://en.wikipedia.org/wiki/Pearl_Bailey'
 image_path: 03_Resources/source_material/ArtistPortraits/pearl_bailey.jpg
 biography_enhanced_at: '2025-12-10T05:24:55.577143'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.britannica.com/biography/Pearl-Bailey
-- https://en.wikipedia.org/wiki/Pearl_Bailey
-- https://edu.lva.virginia.gov/changemakers/items/show/158
-- https://blackpast.org/african-american-history/bailey-pearl-mae-1918-1990/
-- https://thephiladelphiacitizen.org/pearl-bailey-biography/
-- https://thenationaldcleadingladies.org/pearl-bailey/
-- https://www.edsullivan.com/artists/pearl-bailey/
+  - 'https://www.britannica.com/biography/Pearl-Bailey'
+  - 'https://en.wikipedia.org/wiki/Pearl_Bailey'
+  - 'https://edu.lva.virginia.gov/changemakers/items/show/158'
+  - 'https://blackpast.org/african-american-history/bailey-pearl-mae-1918-1990/'
+  - 'https://thephiladelphiacitizen.org/pearl-bailey-biography/'
+  - 'https://thenationaldcleadingladies.org/pearl-bailey/'
+  - 'https://www.edsullivan.com/artists/pearl-bailey/'
 network_extracted: true
 entry_created: '2025-12-10T05:24:55.577154'
 last_updated: '2025-12-23T08:16:14.134617'
+birth_date: '1918-03-29'
+death_date: '1990-08-17'
+artist_type: person
 ---
 
 ![](pearl_bailey.jpg)

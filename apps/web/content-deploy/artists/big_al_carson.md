@@ -3,15 +3,15 @@ title: Big Al Carson
 wiki_slug: big-al-carson
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- zydeco
-- cajun
+  - zydeco
+  - cajun
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/big_al_carson.jpg
   caption: Big Al Carson
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 125.2
   energy_avg: 0.548
@@ -27,45 +27,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Blues Masters
-  - Various New Orleans brass and jazz bands
+    - The Blues Masters
+    - Various New Orleans brass and jazz bands
   influenced:
-  - Emerging New Orleans blues and jazz singers
+    - Emerging New Orleans blues and jazz singers
   mentors:
-  - Local New Orleans brass band musicians
+    - Local New Orleans brass band musicians
 spotify_data:
   followers: 1070
   id: 3VXbeF4J3VmeD2bnYdk7QQ
   popularity: 9
-  url: https://open.spotify.com/artist/3VXbeF4J3VmeD2bnYdk7QQ
+  url: 'https://open.spotify.com/artist/3VXbeF4J3VmeD2bnYdk7QQ'
 discography_enriched: true
 top_tracks:
-- All In a Mardi Gras Day (Ultimate Mardi Gras)
-- Take Your Drunken Ass Home (Take Your Drunken Ass Home)
-- Back To My Roots (Spirit Of New Orleans)
-- King Cake (Super Mardi Gras)
-- Because I Got High (Take Your Drunken Ass Home)
-- Because I Got High (Ultimate Mardi Gras)
-- Take Your Drunken Ass Home (Big Easy Tailgate Party!)
-- Bourbon Street Parade (New Orleans Heartbreakers Meet "Big Al" Carson)
-- Meet Me With Your Black Drawers On (Take Your Drunken Ass Home)
-- Jambalaya (New Orleans Heartbreakers Meet "Big Al" Carson)
+  - All In a Mardi Gras Day (Ultimate Mardi Gras)
+  - Take Your Drunken Ass Home (Take Your Drunken Ass Home)
+  - Back To My Roots (Spirit Of New Orleans)
+  - King Cake (Super Mardi Gras)
+  - Because I Got High (Take Your Drunken Ass Home)
+  - Because I Got High (Ultimate Mardi Gras)
+  - Take Your Drunken Ass Home (Big Easy Tailgate Party!)
+  - Bourbon Street Parade (New Orleans Heartbreakers Meet "Big Al" Carson)
+  - Meet Me With Your Black Drawers On (Take Your Drunken Ass Home)
+  - Jambalaya (New Orleans Heartbreakers Meet "Big Al" Carson)
 external_urls:
-  spotify: https://open.spotify.com/artist/3VXbeF4J3VmeD2bnYdk7QQ
-  wikipedia: https://en.wikipedia.org/wiki/Big_Al_Carson
+  spotify: 'https://open.spotify.com/artist/3VXbeF4J3VmeD2bnYdk7QQ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Big_Al_Carson'
 image_path: 03_Resources/source_material/ArtistPortraits/big_al_carson.jpg
 biography_enhanced_at: '2025-11-14T10:40:00.671669'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Big_Al_Carson
-- https://www.offbeat.com/news/alton-big-al-carson-dies/
-- https://thequarterrat.com/2020/04/28/big-al-carson-longtime-bourbon-street-blues-and-jazz-singer-passes-away-at-66/
-- https://www.whereyat.com/big-al-carson
-- https://wwoz.org/blog/640101
+  - 'https://en.wikipedia.org/wiki/Big_Al_Carson'
+  - 'https://www.offbeat.com/news/alton-big-al-carson-dies/'
+  - >-
+    https://thequarterrat.com/2020/04/28/big-al-carson-longtime-bourbon-street-blues-and-jazz-singer-passes-away-at-66/
+  - 'https://www.whereyat.com/big-al-carson'
+  - 'https://wwoz.org/blog/640101'
 network_extracted: true
 entry_created: '2025-11-14T10:40:00.671680'
 last_updated: '2025-12-23T08:16:05.393059'
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1953-10-02'
+death_date: '2020-04-26'
+artist_type: person
 ---
 
 ![](big_al_carson.jpg)

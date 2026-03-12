@@ -3,18 +3,18 @@ title: George Russell
 wiki_slug: george-russell
 schema_version: 2
 status: active
-birth_place: Cincinnati, Ohio, United States
+birth_place: 'Cincinnati, Ohio, United States'
 genres:
-- free jazz
-- hard bop
-- jazz
-- bebop
-- cool jazz
+  - free jazz
+  - hard bop
+  - jazz
+  - bebop
+  - cool jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/george_russell.jpg
   caption: George Russell
   background: solo_singer
-  origin: Cincinnati, Ohio, United States
+  origin: 'Cincinnati, Ohio, United States'
 audio_profile:
   tempo_avg: 115.5
   energy_avg: 0.404
@@ -30,52 +30,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Miles Davis
-  - Bill Evans
-  - Art Farmer
-  - Jan Garbarek
-  - Terje Rypdal
+    - Miles Davis
+    - Bill Evans
+    - Art Farmer
+    - Jan Garbarek
+    - Terje Rypdal
   influenced:
-  - Miles Davis
-  - John Coltrane
-  - Eric Dolphy
+    - Miles Davis
+    - John Coltrane
+    - Eric Dolphy
   mentors:
-  - Thelonious Monk
-  - Benny Carter
-  - Gunther Schuller
+    - Thelonious Monk
+    - Benny Carter
+    - Gunther Schuller
 spotify_data:
   followers: 9409
   id: 1CkthcIyaPjnbHLcwhbU7c
   popularity: 12
-  url: https://open.spotify.com/artist/1CkthcIyaPjnbHLcwhbU7c
+  url: 'https://open.spotify.com/artist/1CkthcIyaPjnbHLcwhbU7c'
 discography_enriched: true
 top_tracks:
-- Concerto for Billy the Kid (The Jazz Workshop)
-- Ye Hypocrite, Ye Beelzebub (The Jazz Workshop)
-- Jack's Blues (The Jazz Workshop)
-- Nardis (Ezz-thetics)
-- Livingstone, I Presume (The Jazz Workshop)
-- Ezz-Thetic (Ezz-thetics)
-- '''Round Midnight (Ezz-thetics)'
-- Ezz-Thetic (The Jazz Workshop)
-- Night Sound (The Jazz Workshop)
-- Ezz-Thetic (Essential Jazz Masters)
+  - Concerto for Billy the Kid (The Jazz Workshop)
+  - 'Ye Hypocrite, Ye Beelzebub (The Jazz Workshop)'
+  - Jack's Blues (The Jazz Workshop)
+  - Nardis (Ezz-thetics)
+  - 'Livingstone, I Presume (The Jazz Workshop)'
+  - Ezz-Thetic (Ezz-thetics)
+  - '''Round Midnight (Ezz-thetics)'
+  - Ezz-Thetic (The Jazz Workshop)
+  - Night Sound (The Jazz Workshop)
+  - Ezz-Thetic (Essential Jazz Masters)
 external_urls:
-  spotify: https://open.spotify.com/artist/1CkthcIyaPjnbHLcwhbU7c
-  wikipedia: https://en.wikipedia.org/wiki/George_Russell_(composer)
+  spotify: 'https://open.spotify.com/artist/1CkthcIyaPjnbHLcwhbU7c'
+  wikipedia: 'https://en.wikipedia.org/wiki/George_Russell_(composer)'
 image_path: 03_Resources/source_material/ArtistPortraits/george_russell.jpg
 biography_enhanced_at: '2025-12-15T01:18:47.965050'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.ebsco.com/research-starters/history/george-russell
-- https://en.wikipedia.org/wiki/George_Russell_(composer)
-- https://www.arts.gov/honors/jazz/george-russell
-- https://georgerussell.com/about-george-russell
-- https://www.bluenote.com/artist/george-russell/
+  - 'https://www.ebsco.com/research-starters/history/george-russell'
+  - 'https://en.wikipedia.org/wiki/George_Russell_(composer)'
+  - 'https://www.arts.gov/honors/jazz/george-russell'
+  - 'https://georgerussell.com/about-george-russell'
+  - 'https://www.bluenote.com/artist/george-russell/'
 network_extracted: true
 entry_created: '2025-12-15T01:18:47.965070'
 last_updated: '2025-12-23T08:16:09.120175'
+birth_date: '1923-06-23'
+death_date: '2009-07-27'
+artist_type: person
 ---
 
 ![](george_russell.jpg)

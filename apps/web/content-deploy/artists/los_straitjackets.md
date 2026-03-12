@@ -2,13 +2,13 @@
 title: Los Straitjackets
 wiki_slug: los-straitjackets
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1988'
 genres:
-- surf rock
-- rockabilly
-- psychobilly
+  - surf rock
+  - rockabilly
+  - psychobilly
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/los_straitjackets.jpg
   caption: Los Straitjackets
@@ -29,109 +29,110 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Nick Lowe
-  - Eddy 'The Chief' Clearwater
-  - Big Sandy
-  - Deke Dickerson
-  - Band Members
+    - Nick Lowe
+    - Eddy 'The Chief' Clearwater
+    - Big Sandy
+    - Deke Dickerson
+    - Band Members
   influenced:
-  - Modern surf and instrumental bands
+    - Modern surf and instrumental bands
   mentors:
-  - Link Wray
-  - Dick Dale
-  - The Ventures
+    - Link Wray
+    - Dick Dale
+    - The Ventures
 spotify_data:
   followers: 51617
   id: 5a1rrmsSJwko0HqT6HvteB
   popularity: 39
-  url: https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB
+  url: 'https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB'
 discography_enriched: true
 top_tracks:
-- A Monster's Holiday
-- Que Monstruos Son (feat. Keith Streng & Mary Huff) (Mondo Zombie Boogaloo)
-- Different Kind of Blue (Indoor Safari)
-- La Hiedra Venenosa (Rock en Espanol, Vol. 1)
-- High Wire Act
-- New Siberia (Jet Set)
-- Went to a Party (Indoor Safari)
-- Blue on Blue (Indoor Safari)
-- Jet Pac Boomerang (Indoor Safari)
-- Hey Lupe (Rock en Espanol, Vol. 1)
+  - A Monster's Holiday
+  - Que Monstruos Son (feat. Keith Streng & Mary Huff) (Mondo Zombie Boogaloo)
+  - Different Kind of Blue (Indoor Safari)
+  - 'La Hiedra Venenosa (Rock en Espanol, Vol. 1)'
+  - High Wire Act
+  - New Siberia (Jet Set)
+  - Went to a Party (Indoor Safari)
+  - Blue on Blue (Indoor Safari)
+  - Jet Pac Boomerang (Indoor Safari)
+  - 'Hey Lupe (Rock en Espanol, Vol. 1)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7cc2afb9-9be7-463c-a9eb-3bd08140e9c8
-  spotify: https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB
-  wikipedia: https://en.wikipedia.org/wiki/Los_Straitjackets
+  musicbrainz: 'https://musicbrainz.org/artist/7cc2afb9-9be7-463c-a9eb-3bd08140e9c8'
+  spotify: 'https://open.spotify.com/artist/5a1rrmsSJwko0HqT6HvteB'
+  wikipedia: 'https://en.wikipedia.org/wiki/Los_Straitjackets'
 image_path: 03_Resources/source_material/ArtistPortraits/los_straitjackets.jpg
 biography_enhanced_at: '2025-10-31T08:14:04.836238'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.sixthman.net/today/view/artist/los-straitjackets/event/376
-- https://rockandrollglobe.com/surf/revisiting-the-utterly-fantastic-and-totally-unbelievable-sound-of-los-straitjackets/
-- https://www.vintageguitar.com/2970/los-straitjackets/
+  - 'https://www.sixthman.net/today/view/artist/los-straitjackets/event/376'
+  - >-
+    https://rockandrollglobe.com/surf/revisiting-the-utterly-fantastic-and-totally-unbelievable-sound-of-los-straitjackets/
+  - 'https://www.vintageguitar.com/2970/los-straitjackets/'
 network_extracted: true
 entry_created: '2025-10-31T08:14:04.836244'
 last_updated: '2025-12-23T08:16:12.162983'
 members:
-- begin: '1988'
-  end: 2005-04
-  instruments: []
-  mbid: 569984b2-3b9b-42a3-b690-9e63f5879751
-  name: Jimmy Lester
-- &id001
-  begin: '1988'
-  end: ''
-  instruments: []
-  mbid: 82a9442e-9536-4c6e-9e47-4d5a96f1cd8a
-  name: Danny Amis
-- &id002
-  begin: '1988'
-  end: ''
-  instruments: []
-  mbid: 0c7e0507-cb17-4c86-aab8-f5c096196c32
-  name: Eddie Angel
-- begin: 1994-05
-  end: 1998-10
-  instruments: []
-  mbid: 3e5aa61f-b236-43cb-803d-db4ff5e177d6
-  name: Scott Esbeck
-- &id003
-  begin: 1998-12
-  end: ''
-  instruments: []
-  mbid: 3e26d717-4b7e-4698-ba5c-04599a91a96d
-  name: Pete Curry
-- &id004
-  begin: 2005-04
-  end: ''
-  instruments: []
-  mbid: 71b6382b-b458-4fb4-b79f-ca06b9f61afb
-  name: Jason "Teen Beat" Smay
-- &id005
-  begin: '2010'
-  end: ''
-  instruments: []
-  mbid: a71cc6cb-40e9-4b4b-9171-5ee467d15632
-  name: Greg Townson
-- &id006
-  begin: '2012'
-  end: ''
-  instruments: []
-  mbid: 08cffec5-2d9b-4d95-881d-17d4c749bfe9
-  name: Chris "Sugarballs" Sprague
+  - begin: '1988'
+    end: 2005-04
+    instruments: []
+    mbid: 569984b2-3b9b-42a3-b690-9e63f5879751
+    name: Jimmy Lester
+  - &ref_0
+    begin: '1988'
+    end: ''
+    instruments: []
+    mbid: 82a9442e-9536-4c6e-9e47-4d5a96f1cd8a
+    name: Danny Amis
+  - &ref_1
+    begin: '1988'
+    end: ''
+    instruments: []
+    mbid: 0c7e0507-cb17-4c86-aab8-f5c096196c32
+    name: Eddie Angel
+  - begin: 1994-05
+    end: 1998-10
+    instruments: []
+    mbid: 3e5aa61f-b236-43cb-803d-db4ff5e177d6
+    name: Scott Esbeck
+  - &ref_2
+    begin: 1998-12
+    end: ''
+    instruments: []
+    mbid: 3e26d717-4b7e-4698-ba5c-04599a91a96d
+    name: Pete Curry
+  - &ref_3
+    begin: 2005-04
+    end: ''
+    instruments: []
+    mbid: 71b6382b-b458-4fb4-b79f-ca06b9f61afb
+    name: Jason "Teen Beat" Smay
+  - &ref_4
+    begin: '2010'
+    end: ''
+    instruments: []
+    mbid: a71cc6cb-40e9-4b4b-9171-5ee467d15632
+    name: Greg Townson
+  - &ref_5
+    begin: '2012'
+    end: ''
+    instruments: []
+    mbid: 08cffec5-2d9b-4d95-881d-17d4c749bfe9
+    name: Chris "Sugarballs" Sprague
 musicbrainz_id: 7cc2afb9-9be7-463c-a9eb-3bd08140e9c8
-origin: Nashville
+origin: 'Nashville, Tennessee, United States'
 original_members:
-- *id001
-- *id002
-- *id003
-- *id004
-- *id005
-- *id006
+  - *ref_0
+  - *ref_1
+  - *ref_2
+  - *ref_3
+  - *ref_4
+  - *ref_5
 tags:
-- garage rock
-- instrumental rock
-- rock and roll
+  - garage rock
+  - instrumental rock
+  - rock and roll
 ---
 
 ![](los_straitjackets.jpg)

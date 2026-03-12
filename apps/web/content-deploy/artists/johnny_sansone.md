@@ -1,48 +1,53 @@
 ---
 biography_enhanced_at: '2026-01-22T07:12:43.176464'
-birth_place: West Orange, New Jersey, United States (birthplace); New Orleans, Louisiana,
+birth_place: >-
+  West Orange, New Jersey, United States (birthplace); New Orleans, Louisiana,
   United States (primary residence since 1990)
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:12:43.176472'
 external_urls:
-  spotify: https://open.spotify.com/artist/1qg7deYxX4ZhSFDP9h64TT
-  wikipedia: https://en.wikipedia.org/wiki/Johnny_Sansone
+  spotify: 'https://open.spotify.com/artist/1qg7deYxX4ZhSFDP9h64TT'
+  wikipedia: 'https://en.wikipedia.org/wiki/Johnny_Sansone'
 genres:
-- modern blues
-- blues
-- cajun
+  - modern blues
+  - blues
+  - cajun
 image_path: 03_Resources/source_material/ArtistPortraits/johnny_sansone.jpg
 last_updated: '2026-01-22T07:12:43.176473'
 musical_connections:
   collaborators:
-  - Joe Krown
-  - John Fohl
-  - Anders Osborne
-  - Mike Zito
-  - Voice of the Wetlands Allstars
+    - Joe Krown
+    - John Fohl
+    - Anders Osborne
+    - Mike Zito
+    - Voice of the Wetlands Allstars
   influenced: []
   mentors:
-  - James Cotton
-  - Jr. Wells
-  - Honeyboy Edwards
-  - Clifton Chenier
+    - James Cotton
+    - Jr. Wells
+    - Honeyboy Edwards
+    - Clifton Chenier
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Johnny_Sansone
-- https://www.johnnysansone.com/bio
-- https://color-red.com/pages/johnny-sansone
-- https://accordionamericana.com/2019/11/01/johnny-sansone-blues-for-the-big-easy/
-- https://www.bluesblastmagazine.com/featured-interview-johnny-sansone-2/
-- https://kgnu.org/music-posts/interview-johnny-sansone/
-- https://www.neworleans.com/listing/johnny-sansone/46434/
+  - 'https://en.wikipedia.org/wiki/Johnny_Sansone'
+  - 'https://www.johnnysansone.com/bio'
+  - 'https://color-red.com/pages/johnny-sansone'
+  - >-
+    https://accordionamericana.com/2019/11/01/johnny-sansone-blues-for-the-big-easy/
+  - 'https://www.bluesblastmagazine.com/featured-interview-johnny-sansone-2/'
+  - 'https://kgnu.org/music-posts/interview-johnny-sansone/'
+  - 'https://www.neworleans.com/listing/johnny-sansone/46434/'
 spotify_data:
   followers: 1416
   id: 1qg7deYxX4ZhSFDP9h64TT
   popularity: 5
-  url: https://open.spotify.com/artist/1qg7deYxX4ZhSFDP9h64TT
+  url: 'https://open.spotify.com/artist/1qg7deYxX4ZhSFDP9h64TT'
 status: active
 title: Johnny Sansone
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1957-09-27'
+artist_type: person
 ---
 
 ![](johnny_sansone.jpg)

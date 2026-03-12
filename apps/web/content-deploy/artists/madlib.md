@@ -1,170 +1,171 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b37baf72-c053-4d85-82e5-3705fb5893e4
-  name: Jaylib
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 64084edd-4467-4b84-aae6-3206b6e348bb
-  name: Sound Directions
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: cd1d4874-f8f8-4152-8fee-632e50fe8ff2
-  name: Monk Hughes & The Outer Realm
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 900e5f8c-7f98-4ed7-941a-1ca22c5d9ee3
-  name: Joe McDuphrey Experience
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c0f286bf-b427-4a0e-b5f5-f46ae900a486
-  name: Yesterdays New Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c55d7605-030a-4086-aba5-c39a6849af4e
-  name: Lootpack
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2164781e-43f5-4136-ab4f-ecd18979f8f0
-  name: Trouble Knows Me
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: dd6d9ab7-cf20-4e15-be61-f6da26acbb35
-  name: The Professionals
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f2122032-465e-4b5b-8dd4-06134e7c22d7
-  name: Likwit Crew
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8f715335-ffbf-4ab3-94ab-a76fbd98409b
-  name: Kamala Walker and The Soul Tribe
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 10e2c144-8782-4fd5-a0ba-3a7125266695
-  name: Otis Jackson Jr. Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8ccc6c00-c7aa-4194-ab6d-0b43703251b4
-  name: The Eddie Prince Fusion Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e34447d5-2a5c-48af-b19b-7b0924d3c7db
-  name: The Jazzistics
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 24cbcbb7-5bf3-4db8-9b7d-9ca40b94080e
-  name: Yesterday’s Universe All Stars
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f934cfeb-27a0-4f6f-a798-eb4a3bfd8130
-  name: The Last Electro‐Acoustic Space Jazz & Percussion Ensemble
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e8b36748-1f1e-4d5b-9340-b5344d0cf691
-  name: Liberation
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d2619d4e-bd64-4bdc-8d68-5a9a9afec8fb
-  name: OJ Simpson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0484fabd-f28c-42f7-96da-eed13f032387
-  name: Jahari Massamba Unit
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 86a72042-acb4-4558-8f5b-f5b61ba47e9a
-  name: The Crate Diggas Sextet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f9e8ef24-2773-4f9e-97e5-f4c0cb850ed4
-  name: Morgan Adams Quartet Plus Two
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 15fd3efd-fe34-4497-94a8-07317b8df5de
-  name: MadGibbs
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bb637e2e-64a8-4ecb-81ac-bf492fb48f04
-  name: Madvillainz
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b37baf72-c053-4d85-82e5-3705fb5893e4
+    name: Jaylib
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 64084edd-4467-4b84-aae6-3206b6e348bb
+    name: Sound Directions
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: cd1d4874-f8f8-4152-8fee-632e50fe8ff2
+    name: Monk Hughes & The Outer Realm
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 900e5f8c-7f98-4ed7-941a-1ca22c5d9ee3
+    name: Joe McDuphrey Experience
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c0f286bf-b427-4a0e-b5f5-f46ae900a486
+    name: Yesterdays New Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c55d7605-030a-4086-aba5-c39a6849af4e
+    name: Lootpack
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2164781e-43f5-4136-ab4f-ecd18979f8f0
+    name: Trouble Knows Me
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: dd6d9ab7-cf20-4e15-be61-f6da26acbb35
+    name: The Professionals
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f2122032-465e-4b5b-8dd4-06134e7c22d7
+    name: Likwit Crew
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8f715335-ffbf-4ab3-94ab-a76fbd98409b
+    name: Kamala Walker and The Soul Tribe
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 10e2c144-8782-4fd5-a0ba-3a7125266695
+    name: Otis Jackson Jr. Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8ccc6c00-c7aa-4194-ab6d-0b43703251b4
+    name: The Eddie Prince Fusion Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e34447d5-2a5c-48af-b19b-7b0924d3c7db
+    name: The Jazzistics
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 24cbcbb7-5bf3-4db8-9b7d-9ca40b94080e
+    name: Yesterday’s Universe All Stars
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f934cfeb-27a0-4f6f-a798-eb4a3bfd8130
+    name: The Last Electro‐Acoustic Space Jazz & Percussion Ensemble
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e8b36748-1f1e-4d5b-9340-b5344d0cf691
+    name: Liberation
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d2619d4e-bd64-4bdc-8d68-5a9a9afec8fb
+    name: OJ Simpson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0484fabd-f28c-42f7-96da-eed13f032387
+    name: Jahari Massamba Unit
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 86a72042-acb4-4558-8f5b-f5b61ba47e9a
+    name: The Crate Diggas Sextet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f9e8ef24-2773-4f9e-97e5-f4c0cb850ed4
+    name: Morgan Adams Quartet Plus Two
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 15fd3efd-fe34-4497-94a8-07317b8df5de
+    name: MadGibbs
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bb637e2e-64a8-4ecb-81ac-bf492fb48f04
+    name: Madvillainz
 biography_enhanced_at: '2026-01-07T01:15:43.560096'
 birth_date: '1973-10-24'
-birth_place: Oxnard
+birth_place: 'Oxnard, California, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-07T01:15:43.560101'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ea9078ef-20ca-4506-81ea-2ae5fe3a42e8
-  spotify: https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf
-  wikipedia: https://en.wikipedia.org/wiki/Madlib
+  musicbrainz: 'https://musicbrainz.org/artist/ea9078ef-20ca-4506-81ea-2ae5fe3a42e8'
+  spotify: 'https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf'
+  wikipedia: 'https://en.wikipedia.org/wiki/Madlib'
 gender: Male
 genres:
-- experimental hip hop
-- alternative hip hop
-- jazz rap
+  - experimental hip hop
+  - alternative hip hop
+  - jazz rap
 image_path: 03_Resources/source_material/ArtistPortraits/madlib.jpg
 last_updated: '2026-01-07T01:15:43.560102'
 musical_connections:
   collaborators:
-  - MF Doom
-  - J Dilla
-  - Freddie Gibbs
-  - Lootpack (DJ Romes, Wildchild)
-  - Oh No
-  - Talib Kweli
-  - Erykah Badu
+    - MF Doom
+    - J Dilla
+    - Freddie Gibbs
+    - 'Lootpack (DJ Romes, Wildchild)'
+    - Oh No
+    - Talib Kweli
+    - Erykah Badu
   influenced:
-  - Strong Arm Steady
-  - Guilty Simpson
+    - Strong Arm Steady
+    - Guilty Simpson
   mentors:
-  - Otis Jackson Sr.
-  - Jon Faddis
-  - Peanut Butter Wolf
+    - Otis Jackson Sr.
+    - Jon Faddis
+    - Peanut Butter Wolf
 musicbrainz_id: ea9078ef-20ca-4506-81ea-2ae5fe3a42e8
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Madlib
-- https://www.last.fm/music/Madlib/+wiki
-- https://create.routenote.com/blog/producer-profile-madlib/
-- https://wgsac.wordpress.com/african-american-composers-series-madlib/
-- https://glidemagazine.com/279379/a-brief-history-of-madlibs-brave-jazz-project-yesterdays-new-quintet/
-- https://www.stonesthrow.com/artist/madlib/
+  - 'https://en.wikipedia.org/wiki/Madlib'
+  - 'https://www.last.fm/music/Madlib/+wiki'
+  - 'https://create.routenote.com/blog/producer-profile-madlib/'
+  - 'https://wgsac.wordpress.com/african-american-composers-series-madlib/'
+  - >-
+    https://glidemagazine.com/279379/a-brief-history-of-madlibs-brave-jazz-project-yesterdays-new-quintet/
+  - 'https://www.stonesthrow.com/artist/madlib/'
 spotify_data:
   followers: 571250
   id: 5LhTec3c7dcqBvpLRWbMcf
   popularity: 66
-  url: https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf
+  url: 'https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf'
 status: active
 tags:
-- abstract hip hop
-- boom bap
-- gangsta rap
+  - abstract hip hop
+  - boom bap
+  - gangsta rap
 title: Madlib
-
+origin: 'Oxnard, California, United States'
 ---
 
 ![](madlib.jpg)

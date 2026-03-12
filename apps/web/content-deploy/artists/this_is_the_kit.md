@@ -2,22 +2,22 @@
 title: This Is The Kit
 wiki_slug: this-is-the-kit
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '2003'
 genres:
-- indie folk
+  - indie folk
 instruments:
-- guitar
-- original
-- drums (drum set)
+  - guitar
+  - original
+  - drums (drum set)
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/this_is_the_kit.jpg
   caption: This Is The Kit
   background: group_or_band
   born: '2003'
 audio_profile:
-  tempo_avg: 118.0
+  tempo_avg: 118
   energy_avg: 0.385
   valence_avg: 0.403
   danceability_avg: 0.53
@@ -31,79 +31,80 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jesse D. Vernon
-  - Rozi Plain
-  - Aaron Dessner
-  - Gruff Rhys
-  - Neil Smith
-  - Jamie Whitby-Coles
+    - Jesse D. Vernon
+    - Rozi Plain
+    - Aaron Dessner
+    - Gruff Rhys
+    - Neil Smith
+    - Jamie Whitby-Coles
   influenced:
-  - Sharon Van Etten
+    - Sharon Van Etten
   mentors:
-  - John Parish
+    - John Parish
 spotify_data:
   followers: 123696
   id: 0ZUyFEafMwocvApBjTXvdo
   popularity: 43
-  url: https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo
+  url: 'https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo'
 discography_enriched: true
 top_tracks:
-- Bashed Out (Bashed Out)
-- Earthquake (Wriggle Out the Restless)
-- Two Wooden Spoons (Where It Lives)
-- Keep Going (Off Off On)
-- Our Socks Forever More (Krülle Bol)
-- Two Wooden Spoons (Krülle Bol)
-- The South Atlantic (The Last Flight)
-- Moonshine Freeze (Moonshine Freeze)
-- Bullet Proof (Moonshine Freeze)
-- The South Atlantic (The Last Flight)
+  - Bashed Out (Bashed Out)
+  - Earthquake (Wriggle Out the Restless)
+  - Two Wooden Spoons (Where It Lives)
+  - Keep Going (Off Off On)
+  - Our Socks Forever More (Krülle Bol)
+  - Two Wooden Spoons (Krülle Bol)
+  - The South Atlantic (The Last Flight)
+  - Moonshine Freeze (Moonshine Freeze)
+  - Bullet Proof (Moonshine Freeze)
+  - The South Atlantic (The Last Flight)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c7a4dcf7-61f8-4126-bec8-3bfa3b18284a
-  spotify: https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo
-  wikipedia: https://en.wikipedia.org/wiki/This_Is_the_Kit
+  musicbrainz: 'https://musicbrainz.org/artist/c7a4dcf7-61f8-4126-bec8-3bfa3b18284a'
+  spotify: 'https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo'
+  wikipedia: 'https://en.wikipedia.org/wiki/This_Is_the_Kit'
 image_path: 03_Resources/source_material/ArtistPortraits/this_is_the_kit.jpg
 biography_enhanced_at: '2025-11-10T03:42:36.950410'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/This_Is_the_Kit
-- https://www.thelineofbestfit.com/features/interviews/kate-stables-this-is-the-kit-personal-best
-- https://www.purbeckvalleyfolkfestival.co.uk/artists/this-is-the-kit/
-- https://bristolbeacon.org/blog/have-you-heard-6-titk/
+  - 'https://en.wikipedia.org/wiki/This_Is_the_Kit'
+  - >-
+    https://www.thelineofbestfit.com/features/interviews/kate-stables-this-is-the-kit-personal-best
+  - 'https://www.purbeckvalleyfolkfestival.co.uk/artists/this-is-the-kit/'
+  - 'https://bristolbeacon.org/blog/have-you-heard-6-titk/'
 network_extracted: true
 entry_created: '2025-11-10T03:42:36.950425'
 last_updated: '2025-12-23T08:16:17.375481'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: 9536efa4-2f89-401c-8f38-bc03c3ababfa
-  name: Neil Smith
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: b045bba7-7ed0-42be-a056-b8fcbe10e55b
-  name: Kate Stables
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 79d672a9-437c-48bf-a691-2db48946723f
-  name: Jesse D. Vernon
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 1c76a901-becd-45b0-b101-03af6610ab0c
-  name: Jamie Whitby-Coles
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 9536efa4-2f89-401c-8f38-bc03c3ababfa
+    name: Neil Smith
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: b045bba7-7ed0-42be-a056-b8fcbe10e55b
+    name: Kate Stables
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 79d672a9-437c-48bf-a691-2db48946723f
+    name: Jesse D. Vernon
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 1c76a901-becd-45b0-b101-03af6610ab0c
+    name: Jamie Whitby-Coles
 musicbrainz_id: c7a4dcf7-61f8-4126-bec8-3bfa3b18284a
-origin: Winchester
+origin: 'Winchester, England, United Kingdom'
 tags:
-- alternative rock
-- indie folk
-- indie rock
+  - alternative rock
+  - indie folk
+  - indie rock
 ---
 
 ![](this_is_the_kit.jpg)

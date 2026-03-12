@@ -3,17 +3,17 @@ title: Tommy Flanagan
 wiki_slug: tommy-flanagan
 schema_version: 2
 status: active
-birth_place: Detroit, Michigan, United States
+birth_place: 'Detroit, Michigan, United States'
 genres:
-- jazz
-- hard bop
-- bebop
-- cool jazz
+  - jazz
+  - hard bop
+  - bebop
+  - cool jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/tommy_flanagan.jpg
   caption: Tommy Flanagan
   background: solo_singer
-  origin: Detroit, Michigan, United States
+  origin: 'Detroit, Michigan, United States'
 audio_profile:
   tempo_avg: 109.7
   energy_avg: 0.271
@@ -29,54 +29,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ella Fitzgerald
-  - John Coltrane
-  - Sonny Rollins
-  - Wes Montgomery
-  - Miles Davis
-  - George Mraz
-  - Elvin Jones
+    - Ella Fitzgerald
+    - John Coltrane
+    - Sonny Rollins
+    - Wes Montgomery
+    - Miles Davis
+    - George Mraz
+    - Elvin Jones
   influenced:
-  - Barry Harris
-  - Geri Allen
-  - Brad Mehldau
+    - Barry Harris
+    - Geri Allen
+    - Brad Mehldau
   mentors:
-  - Art Tatum
-  - Bud Powell
-  - Nat King Cole
+    - Art Tatum
+    - Bud Powell
+    - Nat King Cole
 spotify_data:
   followers: 48239
   id: 6dUZplQfg5blo0h9HiJ94d
   popularity: 42
-  url: https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d
+  url: 'https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d'
 discography_enriched: true
 top_tracks:
-- St. Thomas (Saxophone Colossus)
-- Skal Brothers
-- St. Thomas (Saxophone Colossus)
-- Angel Eyes - Studio (Master Trio)
-- You Don't Know What Love Is - Rudy Van Gelder Rudy Van Gelder Remastered 2006 / Shared ISRC (Saxophone Colossus)
-- You Don't Know What Love Is - Rudy Van Gelder Rudy Van Gelder Remastered 2006 / Shared ISRC (Saxophone Colossus)
-- Delarna (Take 2) (Beats up in Stockholm! Tommy Flanagan, August 1957)
-- Willow Weep for Me (Little Rock)
-- Blue 7 - Rudy Van Gelder Remaster 1956 (Saxophone Colossus)
-- Strode Rode - Remastered 2006 / Shared ISRC (Saxophone Colossus)
+  - St. Thomas (Saxophone Colossus)
+  - Skal Brothers
+  - St. Thomas (Saxophone Colossus)
+  - Angel Eyes - Studio (Master Trio)
+  - >-
+    You Don't Know What Love Is - Rudy Van Gelder Rudy Van Gelder Remastered
+    2006 / Shared ISRC (Saxophone Colossus)
+  - >-
+    You Don't Know What Love Is - Rudy Van Gelder Rudy Van Gelder Remastered
+    2006 / Shared ISRC (Saxophone Colossus)
+  - 'Delarna (Take 2) (Beats up in Stockholm! Tommy Flanagan, August 1957)'
+  - Willow Weep for Me (Little Rock)
+  - Blue 7 - Rudy Van Gelder Remaster 1956 (Saxophone Colossus)
+  - Strode Rode - Remastered 2006 / Shared ISRC (Saxophone Colossus)
 external_urls:
-  spotify: https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d
-  wikipedia: https://en.wikipedia.org/wiki/Tommy_Flanagan_(musician)
+  spotify: 'https://open.spotify.com/artist/6dUZplQfg5blo0h9HiJ94d'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tommy_Flanagan_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/tommy_flanagan.jpg
 biography_enhanced_at: '2025-11-14T10:55:22.480944'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Tommy_Flanagan_(musician)
-- https://aaregistry.org/story/tommy-flanagan-pianist-born/
-- https://www.arts.gov/honors/jazz/tommy-flanagan
-- https://concord.com/artist/tommy-flanagan/
-- https://steinway.com/artists/tommy-flanagan
+  - 'https://en.wikipedia.org/wiki/Tommy_Flanagan_(musician)'
+  - 'https://aaregistry.org/story/tommy-flanagan-pianist-born/'
+  - 'https://www.arts.gov/honors/jazz/tommy-flanagan'
+  - 'https://concord.com/artist/tommy-flanagan/'
+  - 'https://steinway.com/artists/tommy-flanagan'
 network_extracted: true
 entry_created: '2025-11-14T10:55:22.480955'
 last_updated: '2025-12-23T08:16:17.563081'
+birth_date: '1930-03-16'
+death_date: '2001-11-16'
+artist_type: person
 ---
 
 ![](tommy_flanagan.jpg)

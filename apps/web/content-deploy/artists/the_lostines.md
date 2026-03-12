@@ -23,50 +23,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sam Doores
-  - Ross Farbe
-  - Howe Pearson
-  - Gina Leslie
-  - Skyway Man
-  - Chris Acker
+    - Sam Doores
+    - Ross Farbe
+    - Howe Pearson
+    - Gina Leslie
+    - Skyway Man
+    - Chris Acker
   influenced:
-  - New Orleans indie folk scene
+    - New Orleans indie folk scene
   mentors:
-  - Musical families
+    - Musical families
 spotify_data:
   followers: 15982
   id: 6CCO9MZMPsTgqJ3uYEqx9l
   popularity: 35
-  url: https://open.spotify.com/artist/6CCO9MZMPsTgqJ3uYEqx9l
+  url: 'https://open.spotify.com/artist/6CCO9MZMPsTgqJ3uYEqx9l'
 discography_enriched: true
 top_tracks:
-- A Tear (Meet the Lostines)
-- Faith in Love (The Lostines EP)
-- Playing the Fool (Mashed Potato Records Vol. 1)
-- Dreaming of Your Touch (The Lostines EP)
-- Southwest Texas (Meet the Lostines)
-- Who's Your Love (The Lostines EP)
-- Full Moon Night (Meet the Lostines)
-- Come Back To My Arms (Meet the Lostines)
-- It's Been Wrong (It's Been Wrong)
-- Neon Lights (Meet the Lostines)
+  - A Tear (Meet the Lostines)
+  - Faith in Love (The Lostines EP)
+  - Playing the Fool (Mashed Potato Records Vol. 1)
+  - Dreaming of Your Touch (The Lostines EP)
+  - Southwest Texas (Meet the Lostines)
+  - Who's Your Love (The Lostines EP)
+  - Full Moon Night (Meet the Lostines)
+  - Come Back To My Arms (Meet the Lostines)
+  - It's Been Wrong (It's Been Wrong)
+  - Neon Lights (Meet the Lostines)
 external_urls:
-  spotify: https://open.spotify.com/artist/6CCO9MZMPsTgqJ3uYEqx9l
+  spotify: 'https://open.spotify.com/artist/6CCO9MZMPsTgqJ3uYEqx9l'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/the_lostines.jpg
 biography_enhanced_at: '2025-11-04T10:49:24.870049'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.pastemagazine.com/music/the-lostines/the-lostines-have-arrived
-- https://addtowantlist.com/index.php/2024/05/02/new-album-the-lostines-meet-the-lostines/
-- https://garholerecords.com/collections/the-lostines
-- https://klofmag.com/2024/04/the-lostines-meet-the-lostines/
-- https://thelostines.bandcamp.com/album/meet-the-lostines
+  - 'https://www.pastemagazine.com/music/the-lostines/the-lostines-have-arrived'
+  - >-
+    https://addtowantlist.com/index.php/2024/05/02/new-album-the-lostines-meet-the-lostines/
+  - 'https://garholerecords.com/collections/the-lostines'
+  - 'https://klofmag.com/2024/04/the-lostines-meet-the-lostines/'
+  - 'https://thelostines.bandcamp.com/album/meet-the-lostines'
 network_extracted: true
 entry_created: '2025-11-04T10:49:24.870059'
 last_updated: '2025-12-23T08:16:16.914104'
-origin: New Orleans, Louisiana, USA (origin); Oregon, USA (roots)
+origin: 'New Orleans, Louisiana, USA (origin); Oregon, USA (roots)'
+artist_type: band
 ---
 
 ![](the_lostines.jpg)

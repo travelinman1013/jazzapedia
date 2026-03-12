@@ -1,24 +1,24 @@
 ---
-title: billy boy arnold
+title: Billy Boy Arnold
 wiki_slug: billy-boy-arnold
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1935-09-16'
-birth_place: Chicago
+birth_place: 'Chicago, Illinois, United States'
 genres:
-- blues
-- blues rock
-- classic blues
-- modern blues
+  - blues
+  - blues rock
+  - classic blues
+  - modern blues
 instruments:
-- lead vocals
+  - lead vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 40104ee9-6a2a-48c4-926f-48c460feb065
-  name: 'Chicago Blues: A Living History'
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 40104ee9-6a2a-48c4-926f-48c460feb065
+    name: 'Chicago Blues: A Living History'
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/billy_boy_arnold.jpg
   caption: billy boy arnold
@@ -40,61 +40,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bo Diddley
-  - Junior Wells
-  - Duke Robillard
+    - Bo Diddley
+    - Junior Wells
+    - Duke Robillard
   influenced:
-  - The Yardbirds
-  - The Animals
-  - David Bowie
-  - Paul Butterfield
+    - The Yardbirds
+    - The Animals
+    - David Bowie
+    - Paul Butterfield
   mentors:
-  - John Lee 'Sonny Boy' Williamson
-  - Blind John Davis
-  - Big Bill Broonzy
+    - John Lee 'Sonny Boy' Williamson
+    - Blind John Davis
+    - Big Bill Broonzy
 spotify_data:
   followers: 16706
   id: 16vIA3JDwbJiQugWKimd2o
   popularity: 23
-  url: https://open.spotify.com/artist/16vIA3JDwbJiQugWKimd2o
+  url: 'https://open.spotify.com/artist/16vIA3JDwbJiQugWKimd2o'
 discography_enriched: true
 top_tracks:
-- I Wish You Would (Back Where I Belong)
-- Left My Happy Home (Goin' To Chicago)
-- Worried Life Blues (Back Where I Belong)
-- Shake Your Hips (Back Where I Belong)
-- I Ain't Got You (Eldorado Cadillac)
-- Move On Down The Road (Back Where I Belong)
-- Shake The Boogie (Back Where I Belong)
-- Rub-A-Dub (Billy Boy Sings Sonny Boy)
-- Don't Stay Out All Night (Checkin' It Out)
-- You Got Me Wrong (Back Where I Belong)
+  - I Wish You Would (Back Where I Belong)
+  - Left My Happy Home (Goin' To Chicago)
+  - Worried Life Blues (Back Where I Belong)
+  - Shake Your Hips (Back Where I Belong)
+  - I Ain't Got You (Eldorado Cadillac)
+  - Move On Down The Road (Back Where I Belong)
+  - Shake The Boogie (Back Where I Belong)
+  - Rub-A-Dub (Billy Boy Sings Sonny Boy)
+  - Don't Stay Out All Night (Checkin' It Out)
+  - You Got Me Wrong (Back Where I Belong)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c67fa84e-f846-4f49-b0b2-3c2d2ceeb773
-  spotify: https://open.spotify.com/artist/16vIA3JDwbJiQugWKimd2o
-  wikipedia: https://en.wikipedia.org/wiki/Billy_Boy_Arnold
+  musicbrainz: 'https://musicbrainz.org/artist/c67fa84e-f846-4f49-b0b2-3c2d2ceeb773'
+  spotify: 'https://open.spotify.com/artist/16vIA3JDwbJiQugWKimd2o'
+  wikipedia: 'https://en.wikipedia.org/wiki/Billy_Boy_Arnold'
 image_path: 03_Resources/source_material/ArtistPortraits/billy_boy_arnold.jpg
 biography_enhanced_at: '2025-11-14T10:45:28.328677'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.alligator.com/artists/Billy-Boy-Arnold/
-- https://www.kimfield.com/the-blues-dream-of-billy-boy-arnold
-- https://bluesfestivalguide.com/billy-boy-arnold-the-blues-soul-of-billy-boy-arnold/
-- https://press.uchicago.edu/ucp/books/book/chicago/B/bo119945396.html
-- https://rra.mvbs.org/artists/billy-boy-arnold/
-- http://www.richieunterberger.com/arnold.html
-- https://blues.org/blues_hof_inductee/billy-boy-arnold/
-- https://bluesblastmagazine.com/featured-interview-billy-boy-arnold-2/
+  - 'https://www.alligator.com/artists/Billy-Boy-Arnold/'
+  - 'https://www.kimfield.com/the-blues-dream-of-billy-boy-arnold'
+  - >-
+    https://bluesfestivalguide.com/billy-boy-arnold-the-blues-soul-of-billy-boy-arnold/
+  - 'https://press.uchicago.edu/ucp/books/book/chicago/B/bo119945396.html'
+  - 'https://rra.mvbs.org/artists/billy-boy-arnold/'
+  - 'http://www.richieunterberger.com/arnold.html'
+  - 'https://blues.org/blues_hof_inductee/billy-boy-arnold/'
+  - 'https://bluesblastmagazine.com/featured-interview-billy-boy-arnold-2/'
 network_extracted: true
 entry_created: '2025-11-14T10:45:28.328688'
 last_updated: '2025-12-23T08:16:05.542405'
-disambiguation: US blues harmonica player, singer and songwriter
+disambiguation: 'US blues harmonica player, singer and songwriter'
 gender: Male
 musicbrainz_id: c67fa84e-f846-4f49-b0b2-3c2d2ceeb773
 tags:
-- blues
-- chicago blues
+  - blues
+  - chicago blues
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](billy_boy_arnold.jpg)

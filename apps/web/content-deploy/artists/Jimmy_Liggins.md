@@ -2,22 +2,22 @@
 title: Jimmy Liggins
 wiki_slug: jimmy-liggins
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1922-10-14'
-birth_place: Newby, Oklahoma, United States
+birth_place: 'Newby, Oklahoma, United States'
 death_date: '1983-07-18'
 genres:
-- boogie-woogie
+  - boogie-woogie
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Jimmy_Liggins.jpg
   caption: Jimmy Liggins
   background: solo_singer
   born: '1922-10-14'
-  origin: Newby, Oklahoma, United States
+  origin: 'Newby, Oklahoma, United States'
   died: '1983-07-18'
 audio_profile:
-  tempo_avg: 123.0
+  tempo_avg: 123
   energy_avg: 0.422
   valence_avg: 0.772
   danceability_avg: 0.569
@@ -31,46 +31,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Maxwell Davis
-  - Harold Land
-  - Charlie 'Little Jazz' Ferguson
+    - Maxwell Davis
+    - Harold Land
+    - Charlie 'Little Jazz' Ferguson
   influenced:
-  - Little Richard
-  - Chuck Berry
-  - Bill Haley
-  - Elvis Presley
+    - Little Richard
+    - Chuck Berry
+    - Bill Haley
+    - Elvis Presley
   mentors:
-  - Joe Liggins
+    - Joe Liggins
 spotify_data:
   followers: 2321
   id: 5vBfHviQ6oBuIJw4yZ1NNF
   popularity: 7
-  url: https://open.spotify.com/artist/5vBfHviQ6oBuIJw4yZ1NNF
+  url: 'https://open.spotify.com/artist/5vBfHviQ6oBuIJw4yZ1NNF'
 discography_enriched: true
 top_tracks:
-- I Ain't Drunk - Remastered (Golden Selection (Remastered))
-- 'I Ain''t Drunk (Jump Blue: Rockin'' The Jukes)'
-- I Ain't Drunk (Boogie Woogie King)
-- 'Boogie Woogie King (Jumpin'' Like Mad: Cool Cats & Hip Chicks Non-Stop Dancin'')'
-- 'I Ain''t Drunk (Jumpin'' Like Mad: Cool Cats & Hip Chicks Non-Stop Dancin'')'
-- That's What's Knockin' Me Out (I Can't Stop It)
-- No More Alcohol (Boogie Woogie King)
-- Drunk (Drunk)
-- No More Alcohol - Remastered (Golden Selection (Remastered))
-- Drunk - Remastered (Golden Selection (Remastered))
+  - I Ain't Drunk - Remastered (Golden Selection (Remastered))
+  - 'I Ain''t Drunk (Jump Blue: Rockin'' The Jukes)'
+  - I Ain't Drunk (Boogie Woogie King)
+  - >-
+    Boogie Woogie King (Jumpin' Like Mad: Cool Cats & Hip Chicks Non-Stop
+    Dancin')
+  - 'I Ain''t Drunk (Jumpin'' Like Mad: Cool Cats & Hip Chicks Non-Stop Dancin'')'
+  - That's What's Knockin' Me Out (I Can't Stop It)
+  - No More Alcohol (Boogie Woogie King)
+  - Drunk (Drunk)
+  - No More Alcohol - Remastered (Golden Selection (Remastered))
+  - Drunk - Remastered (Golden Selection (Remastered))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f448ed44-68f4-49d0-ba18-972f421a6060
-  spotify: https://open.spotify.com/artist/5vBfHviQ6oBuIJw4yZ1NNF
-  wikipedia: https://en.wikipedia.org/wiki/Jimmy_Liggins
+  musicbrainz: 'https://musicbrainz.org/artist/f448ed44-68f4-49d0-ba18-972f421a6060'
+  spotify: 'https://open.spotify.com/artist/5vBfHviQ6oBuIJw4yZ1NNF'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jimmy_Liggins'
 image_path: 03_Resources/source_material/ArtistPortraits/Jimmy_Liggins.jpg
 biography_enhanced_at: '2025-10-21T06:51:48.165923'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jimmy_Liggins
-- https://samepassage.org/jimmy-liggins/
-- https://wbssmedia.com/artists/detail/2553
-- https://oakiedog.substack.com/p/evolution-and-the-cadillac-boogieman
+  - 'https://en.wikipedia.org/wiki/Jimmy_Liggins'
+  - 'https://samepassage.org/jimmy-liggins/'
+  - 'https://wbssmedia.com/artists/detail/2553'
+  - 'https://oakiedog.substack.com/p/evolution-and-the-cadillac-boogieman'
 network_extracted: true
 entry_created: '2025-10-21T06:51:48.165941'
 last_updated: '2025-12-23T08:16:02.561178'
@@ -78,8 +80,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:31:19.967751'
 musicbrainz_id: f448ed44-68f4-49d0-ba18-972f421a6060
 tags:
-- jump blues
-- r&b
+  - jump blues
+  - r&b
+is_active: false
+origin: 'San Diego, California, United States'
 ---
 
 ![](Jimmy_Liggins.jpg)

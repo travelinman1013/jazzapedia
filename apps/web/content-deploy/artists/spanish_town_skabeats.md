@@ -2,11 +2,11 @@
 title: Spanish Town Skabeats
 wiki_slug: spanish-town-skabeats
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- rocksteady
-- ska
+  - rocksteady
+  - ska
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/spanish_town_skabeats.jpg
   caption: Spanish Town Skabeats
@@ -26,48 +26,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Keith & Tex
-  - Winston Jones
-  - Cynthia Webber
-  - Merlene Webber
+    - Keith & Tex
+    - Winston Jones
+    - Cynthia Webber
+    - Merlene Webber
   influenced:
-  - Scotty
-  - Big Youth
-  - Beastie Boys
-  - Vanilla Ice
-  - Clint Eastwood & General Saint
-  - Don Campbell & General Saint
-  - Bim Sherman
-  - Style Scott with Dub Syndicate
+    - Scotty
+    - Big Youth
+    - Beastie Boys
+    - Vanilla Ice
+    - Clint Eastwood & General Saint
+    - Don Campbell & General Saint
+    - Bim Sherman
+    - Style Scott with Dub Syndicate
   mentors: []
 spotify_data:
   followers: 33
   id: 1xLknVfyPJbjeZPWN15m5g
   popularity: 0
-  url: https://open.spotify.com/artist/1xLknVfyPJbjeZPWN15m5g
+  url: 'https://open.spotify.com/artist/1xLknVfyPJbjeZPWN15m5g'
 discography_enriched: true
 top_tracks:
-- Stop That Train (Roll On Charles Street - Prince Buster Ska Selection)
-- Stop That Train (Roll On Charles Street - Prince Buster Ska Selection)
+  - Stop That Train (Roll On Charles Street - Prince Buster Ska Selection)
+  - Stop That Train (Roll On Charles Street - Prince Buster Ska Selection)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/35e475bc-ff33-4b76-ba8a-8bd8672affdd
-  spotify: https://open.spotify.com/artist/1xLknVfyPJbjeZPWN15m5g
-  wikipedia: https://en.wikipedia.org/wiki/Stop_That_Train_(The_Spanishtonians_song)
+  musicbrainz: 'https://musicbrainz.org/artist/35e475bc-ff33-4b76-ba8a-8bd8672affdd'
+  spotify: 'https://open.spotify.com/artist/1xLknVfyPJbjeZPWN15m5g'
+  wikipedia: 'https://en.wikipedia.org/wiki/Stop_That_Train_(The_Spanishtonians_song)'
 image_path: ''
 biography_enhanced_at: '2025-12-22T01:48:17.980608'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Stop That Train (The Spanishtonians song)
-- YouTube - Stop That Train Spanish Town Skabeats
-- JazzTimes - Jazz to Ska Mania
-- Relisten.be - Spanish Town Skabeats
+  - Wikipedia - Stop That Train (The Spanishtonians song)
+  - YouTube - Stop That Train Spanish Town Skabeats
+  - JazzTimes - Jazz to Ska Mania
+  - Relisten.be - Spanish Town Skabeats
 network_extracted: true
 entry_created: '2025-12-22T01:48:17.980614'
 last_updated: '2025-12-23T08:16:15.971469'
 disambiguation: 1960s ska
 musicbrainz_id: 35e475bc-ff33-4b76-ba8a-8bd8672affdd
-origin: Spanish Town, Jamaica
+origin: 'Spanish Town, Jamaica'
 ---
 
 ![]()

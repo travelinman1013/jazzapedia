@@ -1,34 +1,36 @@
 ---
 biography_enhanced_at: '2026-01-07T01:18:03.697939'
-birth_place: Shreveport, Louisiana, USA
+birth_place: 'Shreveport, Louisiana, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-07T01:18:03.697944'
 external_urls:
-  spotify: https://open.spotify.com/artist/6QCYs125VG4LZm0DMZWljv
-  wikipedia: https://en.wikipedia.org/wiki/Kenny_Wayne_Shepherd
+  spotify: 'https://open.spotify.com/artist/6QCYs125VG4LZm0DMZWljv'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kenny_Wayne_Shepherd'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/vic_shepherd.jpg
 last_updated: '2026-01-07T01:18:03.697945'
 musical_connections:
   collaborators:
-  - Noah Hunt
-  - Chris Layton
-  - Stephen Stills
+    - Noah Hunt
+    - Chris Layton
+    - Stephen Stills
   influenced: []
   mentors:
-  - Stevie Ray Vaughan
+    - Stevie Ray Vaughan
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Kenny_Wayne_Shepherd
-- https://www.kennywayneshepherd.net/band
+  - 'https://en.wikipedia.org/wiki/Kenny_Wayne_Shepherd'
+  - 'https://www.kennywayneshepherd.net/band'
 spotify_data:
   followers: 15
   id: 6QCYs125VG4LZm0DMZWljv
   popularity: 0
-  url: https://open.spotify.com/artist/6QCYs125VG4LZm0DMZWljv
+  url: 'https://open.spotify.com/artist/6QCYs125VG4LZm0DMZWljv'
 status: active
 title: Vic Shepherd
+birth_date: '1977-06-12'
+artist_type: person
 ---
 
 ![](vic_shepherd.jpg)

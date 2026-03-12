@@ -2,13 +2,13 @@
 title: Brass-A-Holics
 wiki_slug: brass-a-holics
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 genres:
-- new orleans bounce
-- go-go
+  - new orleans bounce
+  - go-go
 instruments:
-- original
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/brass-a-holics.jpg
   caption: Brass-A-Holics
@@ -28,71 +28,75 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tannon 'FisH' Williams
-  - Matt Clark
-  - Jason Slack
-  - Keiko Komaki
-  - Robin Clabby
-  - Ricky Ceasar
-  - Dwayne Muhammad
+    - Tannon 'FisH' Williams
+    - Matt Clark
+    - Jason Slack
+    - Keiko Komaki
+    - Robin Clabby
+    - Ricky Ceasar
+    - Dwayne Muhammad
   influenced:
-  - Contemporary New Orleans brass musicians
+    - Contemporary New Orleans brass musicians
   mentors:
-  - Soul Rebels Brass Band
-  - St. Augustine High School Marching 100
+    - Soul Rebels Brass Band
+    - St. Augustine High School Marching 100
 spotify_data:
   followers: 2509
   id: 2Fikf2sYndnUMolo6adXSZ
   popularity: 7
-  url: https://open.spotify.com/artist/2Fikf2sYndnUMolo6adXSZ
+  url: 'https://open.spotify.com/artist/2Fikf2sYndnUMolo6adXSZ'
 discography_enriched: true
 top_tracks:
-- Outtaspace Connection (A Galactic Love Supreme)
-- Mardi Gras in New Orleans (Bar Room) Bounce (Mardi Gras in New Orleans (Bar Room) Bounce)
-- Alien Love Factory (I Am a Brass-a-Holic)
-- Can we talk Gogo Bounce (Can we talk Gogo Bounce)
-- True (Gogo Bounce) (True (Gogo Bounce))
-- Get It In (I Am a Brass-a-Holic)
-- A Good Night (I Am a Brass-a-Holic)
-- Let's stay together Smith) - GoGo Bounce (Let's stay together Smith) (GoGo Bounce))
-- No one in the World Gogo Bounce (No one in the World Gogo Bounce)
-- Runnin (I Am a Brass-a-Holic)
+  - Outtaspace Connection (A Galactic Love Supreme)
+  - >-
+    Mardi Gras in New Orleans (Bar Room) Bounce (Mardi Gras in New Orleans (Bar
+    Room) Bounce)
+  - Alien Love Factory (I Am a Brass-a-Holic)
+  - Can we talk Gogo Bounce (Can we talk Gogo Bounce)
+  - True (Gogo Bounce) (True (Gogo Bounce))
+  - Get It In (I Am a Brass-a-Holic)
+  - A Good Night (I Am a Brass-a-Holic)
+  - >-
+    Let's stay together Smith) - GoGo Bounce (Let's stay together Smith) (GoGo
+    Bounce))
+  - No one in the World Gogo Bounce (No one in the World Gogo Bounce)
+  - Runnin (I Am a Brass-a-Holic)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e7aaa017-b68a-4eb7-a451-f7cc13b8c697
-  spotify: https://open.spotify.com/artist/2Fikf2sYndnUMolo6adXSZ
+  musicbrainz: 'https://musicbrainz.org/artist/e7aaa017-b68a-4eb7-a451-f7cc13b8c697'
+  spotify: 'https://open.spotify.com/artist/2Fikf2sYndnUMolo6adXSZ'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/brass-a-holics.jpg
 biography_enhanced_at: '2025-10-23T07:25:59.295556'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.whereyat.com/brass-a-holics
-- https://tipitinas.com/e/13868884/brass-a-holics/
-- https://www.allaboutjazz.com/musicians/brass-a-holics-go-go-brass-funk-band/
-- https://artist.degy.com/major-acts/brass-a-holics
-- https://www.neworleans.com/listing/brass-a-holics/46320/
+  - 'https://www.whereyat.com/brass-a-holics'
+  - 'https://tipitinas.com/e/13868884/brass-a-holics/'
+  - 'https://www.allaboutjazz.com/musicians/brass-a-holics-go-go-brass-funk-band/'
+  - 'https://artist.degy.com/major-acts/brass-a-holics'
+  - 'https://www.neworleans.com/listing/brass-a-holics/46320/'
 network_extracted: true
 entry_created: '2025-10-23T07:25:59.295638'
 last_updated: '2025-12-23T08:16:06.035475'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6003ed22-5a17-4a3c-abb2-6653b114df81
-  name: Robin Clabby
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 61224a8f-fd3b-4e62-a2c5-45b2c32ec8e9
-  name: Winston Turner
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 297a830f-d95c-46ca-8532-a90cf9a0bbd5
-  name: Tannon "Fish" Williams
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6003ed22-5a17-4a3c-abb2-6653b114df81
+    name: Robin Clabby
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 61224a8f-fd3b-4e62-a2c5-45b2c32ec8e9
+    name: Winston Turner
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 297a830f-d95c-46ca-8532-a90cf9a0bbd5
+    name: Tannon "Fish" Williams
 musicbrainz_id: e7aaa017-b68a-4eb7-a451-f7cc13b8c697
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](brass-a-holics.jpg)

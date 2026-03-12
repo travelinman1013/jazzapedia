@@ -1,13 +1,13 @@
 ---
-title: doug/jean carn
+title: Doug/Jean Carn
 wiki_slug: dougjean-carn
 schema_version: 2
 status: active
 genres:
-- jazz funk
-- free jazz
-- jazz
-- soul jazz
+  - jazz funk
+  - free jazz
+  - jazz
+  - soul jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/dougjean_carn.jpg
   caption: doug/jean carn
@@ -27,59 +27,68 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jean Carn
-  - Michael Carvin
-  - Calvin Keys
-  - Henry Franklin
-  - Ari Brown
-  - Steve Galloway
-  - Earth, Wind & Fire
-  - Charles Tolliver
-  - Alphonse Mouzon
-  - Olu Dara
+    - Jean Carn
+    - Michael Carvin
+    - Calvin Keys
+    - Henry Franklin
+    - Ari Brown
+    - Steve Galloway
+    - 'Earth, Wind & Fire'
+    - Charles Tolliver
+    - Alphonse Mouzon
+    - Olu Dara
   influenced:
-  - Jean Carn (solo career)
-  - Spiritual Jazz and Rare Groove Communities
+    - Jean Carn (solo career)
+    - Spiritual Jazz and Rare Groove Communities
   mentors:
-  - Aaron Copland
-  - Nat Adderley
-  - Maurice White
+    - Aaron Copland
+    - Nat Adderley
+    - Maurice White
 spotify_data:
   followers: 6778
   id: 1PWbiGBEBaiLJI0Lvhnoha
   popularity: 17
-  url: https://open.spotify.com/artist/1PWbiGBEBaiLJI0Lvhnoha
+  url: 'https://open.spotify.com/artist/1PWbiGBEBaiLJI0Lvhnoha'
 discography_enriched: true
 top_tracks:
-- Desert Rain (Doug Carn JID005)
-- Freedom At Sunset (Doug Carn JID005)
-- Windfall (Doug Carn JID005)
-- Dimensions (Doug Carn JID005)
-- Down Deep (Doug Carn JID005)
-- Welcome (Infant Eyes)
-- Lions Walk (Doug Carn JID005)
-- Little B's Poem (Infant Eyes)
-- Moon Child (Infant Eyes)
-- Tropic Sons (Al Rahman! Cry of the Floridian Tropic Son)
+  - Desert Rain (Doug Carn JID005)
+  - Freedom At Sunset (Doug Carn JID005)
+  - Windfall (Doug Carn JID005)
+  - Dimensions (Doug Carn JID005)
+  - Down Deep (Doug Carn JID005)
+  - Welcome (Infant Eyes)
+  - Lions Walk (Doug Carn JID005)
+  - Little B's Poem (Infant Eyes)
+  - Moon Child (Infant Eyes)
+  - Tropic Sons (Al Rahman! Cry of the Floridian Tropic Son)
 external_urls:
-  spotify: https://open.spotify.com/artist/1PWbiGBEBaiLJI0Lvhnoha
+  spotify: 'https://open.spotify.com/artist/1PWbiGBEBaiLJI0Lvhnoha'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/dougjean_carn.jpg
 biography_enhanced_at: '2025-11-20T06:42:30.468936'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://magazine.waxpoetics.com/article/the-messenger-visionary-organist-doug-carn/
-- https://www.jawfamily.com/black-jazz-all-stars
-- https://www.jazzisdead.com/dougcarn
-- https://jointzoftheday.substack.com/p/jean-carn-born-march-15-1947-singer
-- https://www.allaboutjazz.com/musicians/doug-carn/
-- https://www.last.fm/music/Doug+Carn/+wiki
-- https://www.connectsavannah.com/music-and-clubs/doug-and-jean-carn-the-first-couple-of-black-jazz-2299715/
-- https://playthellscommentaries.wordpress.com/category/doug-carn-ancient-city-maestro/
+  - >-
+    https://magazine.waxpoetics.com/article/the-messenger-visionary-organist-doug-carn/
+  - 'https://www.jawfamily.com/black-jazz-all-stars'
+  - 'https://www.jazzisdead.com/dougcarn'
+  - 'https://jointzoftheday.substack.com/p/jean-carn-born-march-15-1947-singer'
+  - 'https://www.allaboutjazz.com/musicians/doug-carn/'
+  - 'https://www.last.fm/music/Doug+Carn/+wiki'
+  - >-
+    https://www.connectsavannah.com/music-and-clubs/doug-and-jean-carn-the-first-couple-of-black-jazz-2299715/
+  - >-
+    https://playthellscommentaries.wordpress.com/category/doug-carn-ancient-city-maestro/
 network_extracted: true
 entry_created: '2025-11-20T06:42:30.468942'
 last_updated: '2025-12-23T08:16:08.001911'
+birth_place: 'St. Augustine, Florida, United States'
+origin: >-
+  St. Augustine, Florida, United States (Doug Carn); Columbus, Georgia, United
+  States (Jean Carn)
+birth_date: '1948-07-14'
+artist_type: person
 ---
 
 ![](dougjean_carn.jpg)

@@ -3,16 +3,16 @@ title: Sweet Emma
 wiki_slug: sweet-emma
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- ragtime
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sweet_emma.jpg
   caption: Sweet Emma
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
-  tempo_avg: 127.0
+  tempo_avg: 127
   energy_avg: 0.444
   valence_avg: 0.682
   danceability_avg: 0.563
@@ -26,52 +26,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - William Ridgely
-  - Armand Piron
-  - John Robichaux
-  - Sidney Desvigne
-  - Percy Humphrey
-  - Israel Gorman
-  - Emmanuel Sayles
-  - Placide Adams
-  - Paul Barbarin
+    - William Ridgely
+    - Armand Piron
+    - John Robichaux
+    - Sidney Desvigne
+    - Percy Humphrey
+    - Israel Gorman
+    - Emmanuel Sayles
+    - Placide Adams
+    - Paul Barbarin
   influenced:
-  - Preservation Hall Jazz Band members
+    - Preservation Hall Jazz Band members
   mentors:
-  - Oscar 'Papa' Celestin
+    - Oscar 'Papa' Celestin
 spotify_data:
   followers: 3732
   id: 0YLo7NrjjafYk8rbapwCZk
   popularity: 13
-  url: https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk
+  url: 'https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk'
 discography_enriched: true
 top_tracks:
-- A Good Man Is Hard To Find (Sweet Emma Barrett And Her New Orleans Music)
-- None of My Jelly Roll (Her New Orleans Music)
-- Jelly Roll Blues (Sweet Emma Barrett And Her New Orleans Music)
-- When I Grow Too Old to Dream (Her New Orleans Music)
-- Big Butter And Egg Man (Sweet Emma Barrett And Her New Orleans Music)
-- A Good Man Is Hard to Find (Her New Orleans Music)
-- Bill Bailey (Her New Orleans Music)
-- That's A Plenty (Sweet Emma Barrett And Her New Orleans Music)
-- Pagan Love Song (Sweet Emma Barrett And Her New Orleans Music)
-- Take Me Out To The Ball (Sweet Emma Barrett And Her New Orleans Music)
+  - A Good Man Is Hard To Find (Sweet Emma Barrett And Her New Orleans Music)
+  - None of My Jelly Roll (Her New Orleans Music)
+  - Jelly Roll Blues (Sweet Emma Barrett And Her New Orleans Music)
+  - When I Grow Too Old to Dream (Her New Orleans Music)
+  - Big Butter And Egg Man (Sweet Emma Barrett And Her New Orleans Music)
+  - A Good Man Is Hard to Find (Her New Orleans Music)
+  - Bill Bailey (Her New Orleans Music)
+  - That's A Plenty (Sweet Emma Barrett And Her New Orleans Music)
+  - Pagan Love Song (Sweet Emma Barrett And Her New Orleans Music)
+  - Take Me Out To The Ball (Sweet Emma Barrett And Her New Orleans Music)
 external_urls:
-  spotify: https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk
-  wikipedia: https://en.wikipedia.org/wiki/Sweet_Emma_Barrett
+  spotify: 'https://open.spotify.com/artist/0YLo7NrjjafYk8rbapwCZk'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sweet_Emma_Barrett'
 image_path: 03_Resources/source_material/ArtistPortraits/sweet_emma.jpg
 biography_enhanced_at: '2025-11-14T10:37:20.418861'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Sweet_Emma_Barrett
-- https://musicrising.tulane.edu/discover/people/sweet-emma-barrett/
-- https://gallatinstreetrecords.squarespace.com/sweet-emma-barret
-- https://64parishes.org/entry/sweet-emma-barrett
-- https://www.loc.gov/static/programs/national-recording-preservation-board/documents/SweetEmmaBarrett.pdf
+  - 'https://en.wikipedia.org/wiki/Sweet_Emma_Barrett'
+  - 'https://musicrising.tulane.edu/discover/people/sweet-emma-barrett/'
+  - 'https://gallatinstreetrecords.squarespace.com/sweet-emma-barret'
+  - 'https://64parishes.org/entry/sweet-emma-barrett'
+  - >-
+    https://www.loc.gov/static/programs/national-recording-preservation-board/documents/SweetEmmaBarrett.pdf
 network_extracted: true
 entry_created: '2025-11-14T10:37:20.418881'
 last_updated: '2025-12-23T08:16:16.292565'
+birth_date: '1897-03-25'
+artist_type: person
 ---
 
 ![](sweet_emma.jpg)

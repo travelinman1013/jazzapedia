@@ -1,15 +1,15 @@
 ---
-title: ernestine anderson
+title: Ernestine Anderson
 wiki_slug: ernestine-anderson
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1928-11-11'
-birth_place: Houston
+birth_place: 'Houston, Texas, United States'
 death_date: '2016-03-10'
 genres:
-- vocal jazz
-- jazz
+  - vocal jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ernestine_anderson.jpg
   caption: ernestine anderson
@@ -32,53 +32,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Quincy Jones
-  - Ray Charles
-  - Lionel Hampton
-  - Johnny Otis
-  - Gigi Gryce
-  - Ray Brown
+    - Quincy Jones
+    - Ray Charles
+    - Lionel Hampton
+    - Johnny Otis
+    - Gigi Gryce
+    - Ray Brown
   influenced:
-  - Seattle jazz vocalists
+    - Seattle jazz vocalists
   mentors:
-  - Bumps Blackwell
+    - Bumps Blackwell
 spotify_data:
   followers: 32651
   id: 7yNele4jnVhZJ2GE7Kg25T
   popularity: 39
-  url: https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T
+  url: 'https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T'
 discography_enriched: true
 top_tracks:
-- It Don't Mean A Thing (If It Ain't Got That Swing) (My Kinda Swing)
-- See See Rider (My Kinda Swing)
-- Moonlight In Vermont (My Kinda Swing)
-- Love for Sale (It's Time For Ernestine)
-- I Love Being Here With You (When The Sun Goes Down)
-- Mad About the Boy (It's Time For Ernestine)
-- They Didn't Believe Me (My Kinda Swing)
-- My Kinda Love (My Kinda Swing)
-- That Old Feeling (It's Time For Ernestine)
-- Wrap Your Troubles in Dreams (It's Time For Ernestine)
+  - It Don't Mean A Thing (If It Ain't Got That Swing) (My Kinda Swing)
+  - See See Rider (My Kinda Swing)
+  - Moonlight In Vermont (My Kinda Swing)
+  - Love for Sale (It's Time For Ernestine)
+  - I Love Being Here With You (When The Sun Goes Down)
+  - Mad About the Boy (It's Time For Ernestine)
+  - They Didn't Believe Me (My Kinda Swing)
+  - My Kinda Love (My Kinda Swing)
+  - That Old Feeling (It's Time For Ernestine)
+  - Wrap Your Troubles in Dreams (It's Time For Ernestine)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d4fed395-5b9d-4b70-b45a-c6cbb0b46c9e
-  spotify: https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T
-  wikipedia: https://en.wikipedia.org/wiki/Ernestine_Anderson
+  musicbrainz: 'https://musicbrainz.org/artist/d4fed395-5b9d-4b70-b45a-c6cbb0b46c9e'
+  spotify: 'https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ernestine_Anderson'
 image_path: 03_Resources/source_material/ArtistPortraits/ernestine_anderson.jpg
 biography_enhanced_at: '2025-10-30T11:58:41.183061'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Ernestine_Anderson
-- https://blackartslegacies.cascadepbs.org/articles/ernestine-anderson
-- https://www.earshot.org/passings-ernestine-anderson/
-- https://oldsite.stgpresents.org/blog/ernestine-anderson?tmpl=component&print=1&format=print
+  - 'https://en.wikipedia.org/wiki/Ernestine_Anderson'
+  - 'https://blackartslegacies.cascadepbs.org/articles/ernestine-anderson'
+  - 'https://www.earshot.org/passings-ernestine-anderson/'
+  - >-
+    https://oldsite.stgpresents.org/blog/ernestine-anderson?tmpl=component&print=1&format=print
 network_extracted: true
 entry_created: '2025-10-30T11:58:41.183079'
 last_updated: '2025-12-23T08:16:08.431170'
 gender: Female
 musicbrainz_id: d4fed395-5b9d-4b70-b45a-c6cbb0b46c9e
 tags:
-- jazz
+  - jazz
+is_active: false
 ---
 
 ![](ernestine_anderson.jpg)

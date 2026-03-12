@@ -5,18 +5,18 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1904-05-21'
-birth_place: New York
+birth_place: 'Harlem, New York City, United States'
 death_date: '1943-12-15'
 genres:
-- swing music
-- ragtime
-- big band
-- jazz
+  - swing music
+  - ragtime
+  - big band
+  - jazz
 instruments:
-- eponymous
-- piano
-- spoken vocals
-- lead vocals
+  - eponymous
+  - piano
+  - spoken vocals
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Fats_Waller.jpg
   caption: Fats Waller
@@ -39,57 +39,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Andy Razaf
-  - Fats Waller and His Rhythm
-  - Erskine Tate
-  - Bessie Smith
+    - Andy Razaf
+    - Fats Waller and His Rhythm
+    - Erskine Tate
+    - Bessie Smith
   influenced:
-  - Art Tatum
-  - Count Basie
-  - Thelonious Monk
+    - Art Tatum
+    - Count Basie
+    - Thelonious Monk
   mentors:
-  - James P. Johnson
-  - Russell Brooks
+    - James P. Johnson
+    - Russell Brooks
 spotify_data:
   followers: 138894
   id: 0DYWCXTkNqGFZIf67SrWEa
   popularity: 40
-  url: https://open.spotify.com/artist/0DYWCXTkNqGFZIf67SrWEa
+  url: 'https://open.spotify.com/artist/0DYWCXTkNqGFZIf67SrWEa'
 discography_enriched: true
 top_tracks:
-- Ain't Misbehavin' (If You Got To Ask, You Ain't Got It!)
-- Two Sleepy People (If You Got To Ask, You Ain't Got It!)
-- Until the Real Thing Comes Along (The Essential Fats Waller)
-- Honeysuckle Rose (Taking A Chance On Love)
-- Ain't Misbehavin' (At The Piano (Bluebird's Best Series))
-- Ain't Misbehavin'
-- Honeysuckle Rose (If You Got To Ask, You Ain't Got It!)
-- When Somebody Thinks You're Wonderful - Remastered (The Essential Fats Waller)
-- Ain't Missbehavin' (Fats Waller & Bessie Smith)
-- I Can't Give You Anything but Love (If You Got To Ask, You Ain't Got It!)
+  - 'Ain''t Misbehavin'' (If You Got To Ask, You Ain''t Got It!)'
+  - 'Two Sleepy People (If You Got To Ask, You Ain''t Got It!)'
+  - Until the Real Thing Comes Along (The Essential Fats Waller)
+  - Honeysuckle Rose (Taking A Chance On Love)
+  - Ain't Misbehavin' (At The Piano (Bluebird's Best Series))
+  - Ain't Misbehavin'
+  - 'Honeysuckle Rose (If You Got To Ask, You Ain''t Got It!)'
+  - >-
+    When Somebody Thinks You're Wonderful - Remastered (The Essential Fats
+    Waller)
+  - Ain't Missbehavin' (Fats Waller & Bessie Smith)
+  - 'I Can''t Give You Anything but Love (If You Got To Ask, You Ain''t Got It!)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/569fc5bf-bcb6-4bc5-9a00-bd0d258e34f1
-  spotify: https://open.spotify.com/artist/0DYWCXTkNqGFZIf67SrWEa
-  wikipedia: https://en.wikipedia.org/wiki/Fats_Waller
+  musicbrainz: 'https://musicbrainz.org/artist/569fc5bf-bcb6-4bc5-9a00-bd0d258e34f1'
+  spotify: 'https://open.spotify.com/artist/0DYWCXTkNqGFZIf67SrWEa'
+  wikipedia: 'https://en.wikipedia.org/wiki/Fats_Waller'
 image_path: 03_Resources/source_material/ArtistPortraits/Fats_Waller.jpg
 biography_enhanced_at: '2025-10-22T07:00:39.407394'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Britannica
-- Wikipedia
-- Goodman Theatre
-- Piano With Jonny
-- 'Learn the Legends: Musical Performers of the 20th Century'
+  - Britannica
+  - Wikipedia
+  - Goodman Theatre
+  - Piano With Jonny
+  - 'Learn the Legends: Musical Performers of the 20th Century'
 network_extracted: true
 entry_created: '2025-10-22T07:00:39.407410'
 last_updated: '2025-12-23T08:16:02.000425'
 gender: Male
 musicbrainz_id: 569fc5bf-bcb6-4bc5-9a00-bd0d258e34f1
 tags:
-- american
-- jazz
-- stride
+  - american
+  - jazz
+  - stride
+is_active: false
 ---
 
 ![](Fats_Waller.jpg)

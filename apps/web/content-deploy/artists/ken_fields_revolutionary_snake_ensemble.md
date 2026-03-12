@@ -4,47 +4,49 @@ biography_enhanced_at: '2026-01-13T01:07:50.744685'
 enhancement_provider: perplexity
 entry_created: '2026-01-13T01:07:50.744693'
 external_urls:
-  spotify: https://open.spotify.com/artist/0Ce7VierT2MFRui2McDN1A
-  wikipedia: https://en.wikipedia.org/wiki/Revolutionary_Snake_Ensemble
+  spotify: 'https://open.spotify.com/artist/0Ce7VierT2MFRui2McDN1A'
+  wikipedia: 'https://en.wikipedia.org/wiki/Revolutionary_Snake_Ensemble'
 genres:
-- brass band
-- cajun
-image_path: 03_Resources/source_material/ArtistPortraits/ken_fields_revolutionary_snake_ensemble.jpg
+  - brass band
+  - cajun
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/ken_fields_revolutionary_snake_ensemble.jpg
 is_active: true
 last_updated: '2026-01-13T01:07:50.744693'
 musical_connections:
   collaborators:
-  - Scott Getchell
-  - Birdsongs of the Mesozoic
-  - Tom Hall
-  - Jerry Sabatini
-  - Jim Gray
-  - Phil Neighbors
-  - Trombone Shorty
-  - Charles Neville
-  - Peter Wolf
+    - Scott Getchell
+    - Birdsongs of the Mesozoic
+    - Tom Hall
+    - Jerry Sabatini
+    - Jim Gray
+    - Phil Neighbors
+    - Trombone Shorty
+    - Charles Neville
+    - Peter Wolf
   influenced: []
   mentors:
-  - Joe Viola
-  - Charlie Banacos
-  - Jerry Bergonzi
+    - Joe Viola
+    - Charlie Banacos
+    - Jerry Bergonzi
 network_extracted: true
-origin: Boston, Massachusetts, USA
+origin: 'Boston, Massachusetts, United States'
 primary_source: perplexity
 research_sources:
-- https://revolutionarysnakeensemble.org/full-band-bio/
-- https://kenfield.org/bio.html
-- https://bostonvoyager.com/interview/meet-ken-field-revolutionary-snake-ensemble-cambridge/
-- https://revels.org/artist-spotlight-ken-field/
-- https://en.wikipedia.org/wiki/Revolutionary_Snake_Ensemble
-- https://www.kios.org/show/last-call/2025-12-09/an-interview-with-ken-field
-- https://www.dansr.com/resources/vandoren-artist-profile-ken-field
-- http://birdsongsofthemesozoic.org/ken-field-2/
+  - 'https://revolutionarysnakeensemble.org/full-band-bio/'
+  - 'https://kenfield.org/bio.html'
+  - >-
+    https://bostonvoyager.com/interview/meet-ken-field-revolutionary-snake-ensemble-cambridge/
+  - 'https://revels.org/artist-spotlight-ken-field/'
+  - 'https://en.wikipedia.org/wiki/Revolutionary_Snake_Ensemble'
+  - 'https://www.kios.org/show/last-call/2025-12-09/an-interview-with-ken-field'
+  - 'https://www.dansr.com/resources/vandoren-artist-profile-ken-field'
+  - 'http://birdsongsofthemesozoic.org/ken-field-2/'
 spotify_data:
   followers: 245
   id: 0Ce7VierT2MFRui2McDN1A
   popularity: 1
-  url: https://open.spotify.com/artist/0Ce7VierT2MFRui2McDN1A
+  url: 'https://open.spotify.com/artist/0Ce7VierT2MFRui2McDN1A'
 status: active
 title: Ken Field's Revolutionary Snake Ensemble
 ---

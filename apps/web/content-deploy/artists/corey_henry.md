@@ -3,15 +3,15 @@ title: Corey Henry
 wiki_slug: corey-henry
 schema_version: 2
 status: active
-birth_place: Brooklyn, New York, United States
+birth_place: 'Brooklyn, New York, United States'
 genres:
-- retro soul
-- jazz fusion
+  - retro soul
+  - jazz fusion
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/corey_henry.jpg
   caption: Corey Henry
   background: solo_singer
-  origin: Brooklyn, New York, United States
+  origin: 'Brooklyn, New York, United States'
 audio_profile:
   tempo_avg: 113.3
   energy_avg: 0.598
@@ -19,7 +19,7 @@ audio_profile:
   danceability_avg: 0.633
   acousticness_avg: 0.293
   instrumentalness_avg: 0.205
-  loudness_avg: -8.0
+  loudness_avg: -8
   speechiness_avg: 0.098
   liveness_avg: 0.237
   track_count: 52
@@ -27,50 +27,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Snarky Puppy
-  - The Funk Apostles
-  - Kanye West
-  - Rosalía
-  - Imagine Dragons
+    - Snarky Puppy
+    - The Funk Apostles
+    - Kanye West
+    - Rosalía
+    - Imagine Dragons
   influenced:
-  - Marc E. Bassy
-  - Students at Brown University
+    - Marc E. Bassy
+    - Students at Brown University
   mentors:
-  - Kenny Garrett
+    - Kenny Garrett
 spotify_data:
   followers: 200487
   id: 21SOnTj5ECwVXeBUTRcP3s
   popularity: 43
-  url: https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s
+  url: 'https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s'
 discography_enriched: true
 top_tracks:
-- Settle Down (with Cory Henry, Ravyn Lenae) (Luv 4 Rent)
-- Continual (feat. Cory Henry) (Mercury - Acts 1 & 2)
-- God Makes a Way
-- Happy Days (Something to Say)
-- Switch (Something to Say)
-- Butterfly [Feat. Cory Henry and Marcus Miller]
-- Fighting for Peace
-- Good To Be Alone
-- ADAM & EVE - Instrumental (DIAMONDS & FREAKS (Instrumentals))
-- Free Like Me (Little Men)
+  - 'Settle Down (with Cory Henry, Ravyn Lenae) (Luv 4 Rent)'
+  - Continual (feat. Cory Henry) (Mercury - Acts 1 & 2)
+  - God Makes a Way
+  - Happy Days (Something to Say)
+  - Switch (Something to Say)
+  - 'Butterfly [Feat. Cory Henry and Marcus Miller]'
+  - Fighting for Peace
+  - Good To Be Alone
+  - ADAM & EVE - Instrumental (DIAMONDS & FREAKS (Instrumentals))
+  - Free Like Me (Little Men)
 external_urls:
-  spotify: https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s
-  wikipedia: https://en.wikipedia.org/wiki/Cory_Henry
+  spotify: 'https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s'
+  wikipedia: 'https://en.wikipedia.org/wiki/Cory_Henry'
 image_path: 03_Resources/source_material/ArtistPortraits/corey_henry.jpg
 biography_enhanced_at: '2025-11-16T20:13:20.106332'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Cory_Henry
-- https://coryhenry.com/bio/
-- https://playingforchange.com/artists/cory-henry
-- https://jbonamassa.com/cory-henry-multi-instrumentalist/
-- https://jazzaspensnowmass.org/getting-to-know-cory-henry/
-- https://last.fm/music/Cory+Henry/+wiki
+  - 'https://en.wikipedia.org/wiki/Cory_Henry'
+  - 'https://coryhenry.com/bio/'
+  - 'https://playingforchange.com/artists/cory-henry'
+  - 'https://jbonamassa.com/cory-henry-multi-instrumentalist/'
+  - 'https://jazzaspensnowmass.org/getting-to-know-cory-henry/'
+  - 'https://last.fm/music/Cory+Henry/+wiki'
 network_extracted: true
 entry_created: '2025-11-16T20:13:20.106342'
 last_updated: '2025-12-23T08:16:07.204973'
+birth_date: '1987-02-27'
+artist_type: person
 ---
 
 ![](corey_henry.jpg)

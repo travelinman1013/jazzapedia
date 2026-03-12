@@ -1,46 +1,45 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-03T01:40:45.060093'
-birth_place: California, United States
+birth_place: 'California, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-03T01:40:45.060108'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/26772b25-dde6-4112-aca6-01b31482f441
-  spotify: https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt
+  musicbrainz: 'https://musicbrainz.org/artist/26772b25-dde6-4112-aca6-01b31482f441'
+  spotify: 'https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt'
   wikipedia: ''
 gender: Male
 genres:
-- lo-fi
-- lo-fi beats
+  - lo-fi
+  - lo-fi beats
 image_path: 03_Resources/source_material/ArtistPortraits/jinsang.jpg
 last_updated: '2026-01-03T01:40:45.060109'
 musical_connections:
   collaborators:
-  - Idealism
-  - Two Sleepy
-  - SwuM
+    - Idealism
+    - Two Sleepy
+    - SwuM
   influenced: []
   mentors: []
 musicbrainz_id: 26772b25-dde6-4112-aca6-01b31482f441
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://synergyfm.net/interview-with-jinsang/
-- https://lo-ficulture.com/2018/05/31/lo-fi-culture-jinsang/
-- https://www.viberate.com/artist/jinsang/
-- https://www.stereofox.com/artists/jinsang/
+  - 'https://synergyfm.net/interview-with-jinsang/'
+  - 'https://lo-ficulture.com/2018/05/31/lo-fi-culture-jinsang/'
+  - 'https://www.viberate.com/artist/jinsang/'
+  - 'https://www.stereofox.com/artists/jinsang/'
 spotify_data:
   followers: 218475
   id: 5FsfZj0Mp6YwEWytuJUcWt
   popularity: 51
-  url: https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt
+  url: 'https://open.spotify.com/artist/5FsfZj0Mp6YwEWytuJUcWt'
 status: active
 tags:
-- boom bap
-- hip hop
-- instrumental
-title: jinsang
-
+  - boom bap
+  - hip hop
+  - instrumental
+title: Jinsang
 ---
 
 ![](jinsang.jpg)

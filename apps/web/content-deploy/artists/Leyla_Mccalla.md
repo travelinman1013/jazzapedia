@@ -1,20 +1,20 @@
 ---
-title: Leyla Mccalla
+title: Leyla McCalla
 wiki_slug: leyla-mccalla
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1985-10-03'
-birth_place: Bayside, Queens, New York City, New York, USA
+birth_place: 'Bayside, Queens, New York City, New York, USA'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Leyla_Mccalla.jpg
   caption: Leyla Mccalla
   background: solo_singer
   born: '1985-10-03'
-  origin: Bayside, Queens, New York City, New York, USA
+  origin: 'Bayside, Queens, New York City, New York, USA'
 audio_profile:
-  tempo_avg: 115.0
+  tempo_avg: 115
   energy_avg: 0.397
   valence_avg: 0.542
   danceability_avg: 0.586
@@ -28,44 +28,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Carolina Chocolate Drops
-  - Our Native Daughters (Rhiannon Giddens, Amythyst Kiah, Allison Russell)
-  - Taj Mahal
+    - Carolina Chocolate Drops
+    - 'Our Native Daughters (Rhiannon Giddens, Amythyst Kiah, Allison Russell)'
+    - Taj Mahal
   influenced:
-  - Emerging Black string musicians
+    - Emerging Black string musicians
   mentors:
-  - Rufus Cappadocia
-  - Marion Feldman
+    - Rufus Cappadocia
+    - Marion Feldman
 spotify_data:
   followers: 47758
   id: 2Roq56H3IIvY3DZUKrGO7Y
   popularity: 28
-  url: https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y
+  url: 'https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y'
 discography_enriched: true
 top_tracks:
-- Quasheba, Quasheba (Songs of Our Native Daughters)
-- The Capitalist Blues (The Capitalist Blues)
-- Vini Wè (Breaking The Thermometer)
-- I Knew I Could Fly (Songs of Our Native Daughters)
-- Money Is King (The Capitalist Blues)
-- Little sparrow (A day for the hunter, a day for the prey)
-- Mesi Bondye (Vari-colored Songs)
-- A day for the hunter, a day for the prey (A day for the hunter, a day for the prey)
-- Mèsi Bondye
-- Black Myself (Songs of Our Native Daughters)
+  - 'Quasheba, Quasheba (Songs of Our Native Daughters)'
+  - The Capitalist Blues (The Capitalist Blues)
+  - Vini Wè (Breaking The Thermometer)
+  - I Knew I Could Fly (Songs of Our Native Daughters)
+  - Money Is King (The Capitalist Blues)
+  - 'Little sparrow (A day for the hunter, a day for the prey)'
+  - Mesi Bondye (Vari-colored Songs)
+  - >-
+    A day for the hunter, a day for the prey (A day for the hunter, a day for
+    the prey)
+  - Mèsi Bondye
+  - Black Myself (Songs of Our Native Daughters)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/dda5815a-fd69-4c18-81f0-f11dcaee5641
-  spotify: https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y
-  wikipedia: https://en.wikipedia.org/wiki/Leyla_McCalla
+  musicbrainz: 'https://musicbrainz.org/artist/dda5815a-fd69-4c18-81f0-f11dcaee5641'
+  spotify: 'https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y'
+  wikipedia: 'https://en.wikipedia.org/wiki/Leyla_McCalla'
 image_path: 03_Resources/source_material/ArtistPortraits/Leyla_Mccalla.jpg
 biography_enhanced_at: '2025-10-19T10:41:37.798601'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://leylamccalla.com/about
-- https://m.richmondfreepress.com/news/2025/mar/27/personality-leyla-mccalla/
-- https://steinhardt.nyu.edu/news/2025-graduation-alumni-speaker-leyla-mccalla-bm-07
-- https://knkx.org/blues/2025-04-02/leyla-mccalla-banjo-roots-music-taj-mahal-meany-hall-seattle
+  - 'https://leylamccalla.com/about'
+  - 'https://m.richmondfreepress.com/news/2025/mar/27/personality-leyla-mccalla/'
+  - >-
+    https://steinhardt.nyu.edu/news/2025-graduation-alumni-speaker-leyla-mccalla-bm-07
+  - >-
+    https://knkx.org/blues/2025-04-02/leyla-mccalla-banjo-roots-music-taj-mahal-meany-hall-seattle
 network_extracted: true
 entry_created: '2025-10-19T10:41:37.798610'
 last_updated: '2025-12-23T08:16:03.008395'
@@ -73,7 +77,7 @@ gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:35:11.244337'
 musicbrainz_id: dda5815a-fd69-4c18-81f0-f11dcaee5641
 tags:
-- folk
+  - folk
 ---
 
 ![](Leyla_Mccalla.jpg)

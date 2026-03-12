@@ -1,69 +1,78 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2025-12-28T01:54:55.908675'
 birth_date: '1979-04-25'
 enhancement_provider: perplexity
 entry_created: '2025-12-28T01:54:55.908716'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6171965e-3875-4101-bf19-688e1317d90d
-  spotify: https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw
-  wikipedia: https://en.wikipedia.org/wiki/Olodum
+  musicbrainz: 'https://musicbrainz.org/artist/6171965e-3875-4101-bf19-688e1317d90d'
+  spotify: 'https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw'
+  wikipedia: 'https://en.wikipedia.org/wiki/Olodum'
 genres:
-- axé
-- pagode baiano
+  - axé
+  - pagode baiano
 image_path: 03_Resources/source_material/ArtistPortraits/olodum.jpg
 last_updated: '2025-12-28T01:54:55.908718'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 40392156-1921-4892-b874-9bd1e9e6abb1
-  name: Magaita
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d3b4bf60-feed-4a1c-bcd7-c9de01c59447
-  name: Germano Meneghel
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 40392156-1921-4892-b874-9bd1e9e6abb1
+    name: Magaita
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d3b4bf60-feed-4a1c-bcd7-c9de01c59447
+    name: Germano Meneghel
 musical_connections:
   collaborators:
-  - Paul Simon
-  - Michael Jackson
-  - Sepultura
-  - Simone
-  - Spike Lee
+    - Paul Simon
+    - Michael Jackson
+    - Sepultura
+    - Simone
+    - Spike Lee
   influenced:
-  - Axé music artists and Bahian trio elétrico bands
-  - Afro‑Brazilian blocos and percussion groups (e.g., other blocos‑afro in Salvador)
-  - Youth percussion ensembles and social projects in Salvador
+    - Axé music artists and Bahian trio elétrico bands
+    - >-
+      Afro‑Brazilian blocos and percussion groups (e.g., other blocos‑afro in
+      Salvador)
+    - Youth percussion ensembles and social projects in Salvador
   mentors:
-  - Neguinho do Samba
-  - Mestre Jackson (Jackson do Pandeiro / Mestre Jackson from Bahia, as cited in sources)
-  - Pan‑African and Afro‑diasporic artists (e.g., Fela Kuti, Michael Jackson as rhythmic
-    and stylistic references)
+    - Neguinho do Samba
+    - >-
+      Mestre Jackson (Jackson do Pandeiro / Mestre Jackson from Bahia, as cited
+      in sources)
+    - >-
+      Pan‑African and Afro‑diasporic artists (e.g., Fela Kuti, Michael Jackson
+      as rhythmic and stylistic references)
 musicbrainz_id: 6171965e-3875-4101-bf19-688e1317d90d
 network_extracted: true
-origin: Salvador
+origin: 'Salvador, Bahia, Brazil'
 primary_source: perplexity
 research_sources:
-- Last.fm artist biography for Olodum[1]
-- Wikipedia article on Olodum[4]
-- Michael Pluznick – All About Olodum[2]
-- Agência Brasil English feature on Olodum’s 35th anniversary[3]
-- Brazilian Percussion Blog – Olodum da Bahia, a History of Cultural Inclusion[5]
-- WOMEX artist profile for Olodum[6]
-- The Urban Detective – How the Brazilian carnival's band Olodum became a massive
-  social movement[7]
-- 'Utah Public Radio – Roots of Brazil: Street Drumming Group ''Olodum'' Teaches Culture
-  Through Discipline and Music[8]'
+  - 'Last.fm artist biography for Olodum[1]'
+  - 'Wikipedia article on Olodum[4]'
+  - 'Michael Pluznick – All About Olodum[2]'
+  - 'Agência Brasil English feature on Olodum’s 35th anniversary[3]'
+  - >-
+    Brazilian Percussion Blog – Olodum da Bahia, a History of Cultural
+    Inclusion[5]
+  - 'WOMEX artist profile for Olodum[6]'
+  - >-
+    The Urban Detective – How the Brazilian carnival's band Olodum became a
+    massive social movement[7]
+  - >-
+    Utah Public Radio – Roots of Brazil: Street Drumming Group 'Olodum' Teaches
+    Culture Through Discipline and Music[8]
 spotify_data:
   followers: 234043
   id: 3tJ9PkBOrG7hFkHeNM2tbw
   popularity: 52
-  url: https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw
+  url: 'https://open.spotify.com/artist/3tJ9PkBOrG7hFkHeNM2tbw'
 status: active
 tags:
-- afoxê
-- samba-reggae
+  - afoxê
+  - samba-reggae
 title: Olodum
 ---
 

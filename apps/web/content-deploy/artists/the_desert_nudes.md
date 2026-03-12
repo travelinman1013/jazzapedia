@@ -1,8 +1,8 @@
 ---
-title: the desert nudes
+title: The Desert Nudes
 wiki_slug: the-desert-nudes
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 genres: []
 infobox:
@@ -24,55 +24,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Johnny Sketch and the Dirty Skirts
+    - Johnny Sketch and the Dirty Skirts
   influenced: []
   mentors: []
 spotify_data:
   followers: 174
   id: 0rdbisHLzwuFbWapZqdpBL
   popularity: 1
-  url: https://open.spotify.com/artist/0rdbisHLzwuFbWapZqdpBL
+  url: 'https://open.spotify.com/artist/0rdbisHLzwuFbWapZqdpBL'
 discography_enriched: true
 top_tracks:
-- Blues Stay Away from Me (Keep a-Movin, Dan)
-- Cool Water (Keep a-Movin, Dan)
-- Saddle Tramp (Keep a-Movin, Dan)
-- Don't Fence Me In (Keep a-Movin, Dan)
-- Still in Texas...Again (Keep a-Movin, Dan)
-- A Hundred and Sixty Acres (Keep a-Movin, Dan)
-- Red River Valley (Keep a-Movin, Dan)
-- Haven't Driven Since El Paso (Keep a-Movin, Dan)
-- Prairie Fire (Keep a-Movin, Dan)
-- Home on the Range (Keep a-Movin, Dan)
+  - 'Blues Stay Away from Me (Keep a-Movin, Dan)'
+  - 'Cool Water (Keep a-Movin, Dan)'
+  - 'Saddle Tramp (Keep a-Movin, Dan)'
+  - 'Don''t Fence Me In (Keep a-Movin, Dan)'
+  - 'Still in Texas...Again (Keep a-Movin, Dan)'
+  - 'A Hundred and Sixty Acres (Keep a-Movin, Dan)'
+  - 'Red River Valley (Keep a-Movin, Dan)'
+  - 'Haven''t Driven Since El Paso (Keep a-Movin, Dan)'
+  - 'Prairie Fire (Keep a-Movin, Dan)'
+  - 'Home on the Range (Keep a-Movin, Dan)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2b8734c4-a7d3-4427-966f-770f7d8491cf
-  spotify: https://open.spotify.com/artist/0rdbisHLzwuFbWapZqdpBL
+  musicbrainz: 'https://musicbrainz.org/artist/2b8734c4-a7d3-4427-966f-770f7d8491cf'
+  spotify: 'https://open.spotify.com/artist/0rdbisHLzwuFbWapZqdpBL'
   wikipedia: Not found
 image_path: 03_Resources/source_material/ArtistPortraits/the_desert_nudes.jpg
 biography_enhanced_at: '2025-12-04T07:24:08.760883'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Louisiana Music Factory - The Desert Nudes album page
-- Burnwood Tonite blog - Keep A'Movin, Dan review
-- ARTCORE Wyoming - The Desert Nudes event listing
-- Offbeat Magazine - The Desert Nudes album review
+  - Louisiana Music Factory - The Desert Nudes album page
+  - 'Burnwood Tonite blog - Keep A''Movin, Dan review'
+  - ARTCORE Wyoming - The Desert Nudes event listing
+  - Offbeat Magazine - The Desert Nudes album review
 network_extracted: true
 entry_created: '2025-12-04T07:24:08.760897'
 last_updated: '2025-12-23T08:16:16.715357'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 77a6c727-9c2e-4820-a699-337923c5b6ba
-  name: Andre Bohren
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c557e9bf-9aff-44d7-bc92-22fe31e06694
-  name: David Pomerleau
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 77a6c727-9c2e-4820-a699-337923c5b6ba
+    name: Andre Bohren
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c557e9bf-9aff-44d7-bc92-22fe31e06694
+    name: David Pomerleau
 musicbrainz_id: 2b8734c4-a7d3-4427-966f-770f7d8491cf
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](the_desert_nudes.jpg)

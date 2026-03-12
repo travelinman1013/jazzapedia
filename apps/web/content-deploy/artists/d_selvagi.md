@@ -31,32 +31,33 @@ spotify_data:
   followers: 160
   id: 0HJo2DQTyjLWndrthvcDnA
   popularity: 0
-  url: https://open.spotify.com/artist/0HJo2DQTyjLWndrthvcDnA
+  url: 'https://open.spotify.com/artist/0HJo2DQTyjLWndrthvcDnA'
 discography_enriched: true
 top_tracks:
-- Vazio Existencial (Colapso Interior)
-- Vazio Existencial (Vazio Existencial)
-- Tão Oco (On the Road to Ixtlan)
-- Cafeína Amarga (On the Road to Ixtlan)
-- On the Road to Ixtlan (On the Road to Ixtlan)
-- Inseto Sentimento (On the Road to Ixtlan)
-- Rainha Ranheta (On the Road to Ixtlan)
-- Linha Onze (Trem Lotado) (On the Road to Ixtlan)
-- Interlúdico (instrumental) (On the Road to Ixtlan)
-- Carmen Gata (On the Road to Ixtlan)
+  - Vazio Existencial (Colapso Interior)
+  - Vazio Existencial (Vazio Existencial)
+  - Tão Oco (On the Road to Ixtlan)
+  - Cafeína Amarga (On the Road to Ixtlan)
+  - On the Road to Ixtlan (On the Road to Ixtlan)
+  - Inseto Sentimento (On the Road to Ixtlan)
+  - Rainha Ranheta (On the Road to Ixtlan)
+  - Linha Onze (Trem Lotado) (On the Road to Ixtlan)
+  - Interlúdico (instrumental) (On the Road to Ixtlan)
+  - Carmen Gata (On the Road to Ixtlan)
 external_urls:
-  spotify: https://open.spotify.com/artist/0HJo2DQTyjLWndrthvcDnA
+  spotify: 'https://open.spotify.com/artist/0HJo2DQTyjLWndrthvcDnA'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/d_selvagi.jpg
 biography_enhanced_at: '2025-12-23T02:06:55.207957'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://tinnitist.com/2020/09/04/groover-playlist-35-from-belgium-to-brazil/
-- 'Spotify context: Genres unknown, Popularity 0'
+  - 'https://tinnitist.com/2020/09/04/groover-playlist-35-from-belgium-to-brazil/'
+  - 'Spotify context: Genres unknown, Popularity 0'
 network_extracted: true
 entry_created: '2025-12-23T02:06:55.207978'
 last_updated: '2025-12-23T08:16:07.373468'
+artist_type: person
 ---
 
 ![](d_selvagi.jpg)

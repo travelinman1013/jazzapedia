@@ -1,22 +1,22 @@
 ---
-title: gillian welch
+title: Gillian Welch
 wiki_slug: gillian-welch
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1967-10-02'
-birth_place: New York City, New York, United States
+birth_place: 'New York City, New York, United States'
 genres:
-- americana
-- bluegrass
-- alt country
-- folk
+  - americana
+  - bluegrass
+  - alt country
+  - folk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/gillian_welch.jpg
   caption: gillian welch
   background: solo_singer
   born: '1967-10-02'
-  origin: New York City, New York, United States
+  origin: 'New York City, New York, United States'
 audio_profile:
   tempo_avg: 115.1
   energy_avg: 0.265
@@ -32,47 +32,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - David Rawlings
-  - T Bone Burnett
-  - Alison Krauss
+    - David Rawlings
+    - T Bone Burnett
+    - Alison Krauss
   influenced:
-  - Joan Baez
-  - Grace Potter
-  - Modern Americana and alt-country artists
+    - Joan Baez
+    - Grace Potter
+    - Modern Americana and alt-country artists
   mentors:
-  - Bob Dylan
-  - The Stanley Brothers
-  - Woody Guthrie
+    - Bob Dylan
+    - The Stanley Brothers
+    - Woody Guthrie
 spotify_data:
   followers: 261538
   id: 2H5elA2mJKrHmqkN9GSfkz
   popularity: 49
-  url: https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz
+  url: 'https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz'
 discography_enriched: true
 top_tracks:
-- I'll Fly Away (O Brother, Where Art Thou? (Original Motion Picture Soundtrack))
-- Didn't Leave Nobody But The Baby (O Brother, Where Art Thou? (Original Motion Picture Soundtrack))
-- Look At Miss Ohio (Soul Journey)
-- Look At Miss Ohio (Soul Journey)
-- Everything Is Free (Time (The Revelator))
-- Wayside/Back in Time (Soul Journey)
-- Everything Is Free (Time (The Revelator))
-- Wayside/Back in Time (Soul Journey)
-- The Way It Goes (The Harrow & The Harvest)
-- Empty Trainload Of Sky (Woodland)
+  - >-
+    I'll Fly Away (O Brother, Where Art Thou? (Original Motion Picture
+    Soundtrack))
+  - >-
+    Didn't Leave Nobody But The Baby (O Brother, Where Art Thou? (Original
+    Motion Picture Soundtrack))
+  - Look At Miss Ohio (Soul Journey)
+  - Look At Miss Ohio (Soul Journey)
+  - Everything Is Free (Time (The Revelator))
+  - Wayside/Back in Time (Soul Journey)
+  - Everything Is Free (Time (The Revelator))
+  - Wayside/Back in Time (Soul Journey)
+  - The Way It Goes (The Harrow & The Harvest)
+  - Empty Trainload Of Sky (Woodland)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2ff49515-1701-4bac-a53a-04345893f3f3
-  spotify: https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz
-  wikipedia: https://en.wikipedia.org/wiki/Gillian_Welch
+  musicbrainz: 'https://musicbrainz.org/artist/2ff49515-1701-4bac-a53a-04345893f3f3'
+  spotify: 'https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz'
+  wikipedia: 'https://en.wikipedia.org/wiki/Gillian_Welch'
 image_path: 03_Resources/source_material/ArtistPortraits/gillian_welch.jpg
 biography_enhanced_at: '2025-10-19T10:55:31.958025'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Gillian_Welch
-- https://kids.kiddle.co/Gillian_Welch
-- https://www.last.fm/music/Gillian+Welch/+wiki
-- https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/gillian-welch
+  - 'https://en.wikipedia.org/wiki/Gillian_Welch'
+  - 'https://kids.kiddle.co/Gillian_Welch'
+  - 'https://www.last.fm/music/Gillian+Welch/+wiki'
+  - >-
+    https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/gillian-welch
 network_extracted: true
 entry_created: '2025-10-19T10:55:31.958033'
 last_updated: '2025-12-23T08:16:09.211516'
@@ -80,10 +85,9 @@ gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:52:28.344329'
 musicbrainz_id: 2ff49515-1701-4bac-a53a-04345893f3f3
 tags:
-- alternative country
-- americana
-- contemporary folk
-
+  - alternative country
+  - americana
+  - contemporary folk
 ---
 
 ![](gillian_welch.jpg)

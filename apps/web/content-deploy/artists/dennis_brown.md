@@ -5,18 +5,18 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1957-02-01'
-birth_place: Kingston
+birth_place: 'Kingston, Jamaica'
 death_date: '1999-07-01'
 genres:
-- lovers rock
-- reggae
-- roots reggae
-- rocksteady
-- dub
-- ragga
+  - lovers rock
+  - reggae
+  - roots reggae
+  - rocksteady
+  - dub
+  - ragga
 instruments:
-- lead vocals
-- vocal
+  - lead vocals
+  - vocal
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/dennis_brown.jpg
   caption: Dennis Brown
@@ -39,47 +39,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Joe Gibbs
-  - Gregory Isaacs
-  - The Fabulous Falcons
+    - Joe Gibbs
+    - Gregory Isaacs
+    - The Fabulous Falcons
   influenced:
-  - Luciano
-  - Junior Reid
-  - Barrington Levy
+    - Luciano
+    - Junior Reid
+    - Barrington Levy
   mentors:
-  - Clement 'Coxsone' Dodd
-  - Nat King Cole
+    - Clement 'Coxsone' Dodd
+    - Nat King Cole
 spotify_data:
   followers: 338514
   id: 0UmBaQJflaHddKtf1lrA6F
   popularity: 50
-  url: https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F
+  url: 'https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F'
 discography_enriched: true
 top_tracks:
-- Revolution
-- Lips of Wine
-- Love Has Found Its Way (Love Has Found Its Way)
-- Reggae Hits Collection - Continuous Mix
-- Revolution
-- Land Of Promise (Distant Relatives)
-- Things In Life
-- Should I (Words Of Wisdom)
-- Money In My Pocket
-- Here I Come / Love & Hate - Extended (Satisfaction Feeling (Deluxe Edition))
+  - Revolution
+  - Lips of Wine
+  - Love Has Found Its Way (Love Has Found Its Way)
+  - Reggae Hits Collection - Continuous Mix
+  - Revolution
+  - Land Of Promise (Distant Relatives)
+  - Things In Life
+  - Should I (Words Of Wisdom)
+  - Money In My Pocket
+  - Here I Come / Love & Hate - Extended (Satisfaction Feeling (Deluxe Edition))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/24c0aaf3-4ac2-4f9a-9ce6-a1545a96f017
-  spotify: https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F
-  wikipedia: https://en.wikipedia.org/wiki/Dennis_Brown
+  musicbrainz: 'https://musicbrainz.org/artist/24c0aaf3-4ac2-4f9a-9ce6-a1545a96f017'
+  spotify: 'https://open.spotify.com/artist/0UmBaQJflaHddKtf1lrA6F'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dennis_Brown'
 image_path: 03_Resources/source_material/ArtistPortraits/dennis_brown.jpg
 biography_enhanced_at: '2025-10-27T02:49:49.418064'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- VP Records[1]
-- National Library of Jamaica[3]
-- Reggae.University[4]
-- Colourful[5]
-- A Tribute to 'The Crown Prince of Reggae', Dennis Brown (UVM)[2]
+  - 'VP Records[1]'
+  - 'National Library of Jamaica[3]'
+  - 'Reggae.University[4]'
+  - 'Colourful[5]'
+  - 'A Tribute to ''The Crown Prince of Reggae'', Dennis Brown (UVM)[2]'
 network_extracted: true
 entry_created: '2025-10-27T02:49:49.418080'
 last_updated: '2025-12-23T08:16:07.702495'
@@ -87,8 +87,9 @@ disambiguation: Jamaican reggae singer Dennis Emmanuel Brown
 gender: Male
 musicbrainz_id: 24c0aaf3-4ac2-4f9a-9ce6-a1545a96f017
 tags:
-- lovers rock
-- reggae
+  - lovers rock
+  - reggae
+is_active: false
 ---
 
 ![](dennis_brown.jpg)

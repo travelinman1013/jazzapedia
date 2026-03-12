@@ -4,10 +4,10 @@ wiki_slug: royal-southern-brotherhood
 schema_version: 2
 status: active
 genres:
-- modern blues
-- blues rock
-- southern rock
-- blues
+  - modern blues
+  - blues rock
+  - southern rock
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/royal_southern_brotherhood.jpg
   caption: Royal Southern Brotherhood
@@ -27,56 +27,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Devon Allman
-  - Cyril Neville
-  - Mike Zito
-  - Charlie Wooton
-  - Yonrico Scott
-  - David Z
+    - Devon Allman
+    - Cyril Neville
+    - Mike Zito
+    - Charlie Wooton
+    - Yonrico Scott
+    - David Z
   influenced: []
   mentors:
-  - The Allman Brothers Band
-  - The Neville Brothers
-  - The Meters
-  - Jim Gaines
+    - The Allman Brothers Band
+    - The Neville Brothers
+    - The Meters
+    - Jim Gaines
 spotify_data:
   followers: 1611
   id: 17Rery2JyEYwOiykbfuQvn
   popularity: 28
-  url: https://open.spotify.com/artist/17Rery2JyEYwOiykbfuQvn
+  url: 'https://open.spotify.com/artist/17Rery2JyEYwOiykbfuQvn'
 discography_enriched: true
 top_tracks:
-- Where There's Smoke There's Fire (The Royal Gospel)
-- Trapped (Heartsoulblood)
-- I'm Comin' Home (The Royal Gospel)
-- I've Seen Enough to Know (The Royal Gospel)
-- Hard Blues (Don't Look Back)
-- Moonlight over the Mississippi (Royal Southern Brotherhood)
-- World Blues (Heartsoulblood)
-- Blood Is Thicker Than Water (The Royal Gospel)
-- I Wanna Be Free (Don't Look Back)
-- I Wonder Why (The Royal Gospel)
+  - Where There's Smoke There's Fire (The Royal Gospel)
+  - Trapped (Heartsoulblood)
+  - I'm Comin' Home (The Royal Gospel)
+  - I've Seen Enough to Know (The Royal Gospel)
+  - Hard Blues (Don't Look Back)
+  - Moonlight over the Mississippi (Royal Southern Brotherhood)
+  - World Blues (Heartsoulblood)
+  - Blood Is Thicker Than Water (The Royal Gospel)
+  - I Wanna Be Free (Don't Look Back)
+  - I Wonder Why (The Royal Gospel)
 external_urls:
-  spotify: https://open.spotify.com/artist/17Rery2JyEYwOiykbfuQvn
+  spotify: 'https://open.spotify.com/artist/17Rery2JyEYwOiykbfuQvn'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/royal_southern_brotherhood.jpg
 biography_enhanced_at: '2025-12-09T04:43:33.074403'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.aspenpublicradio.org/music/2015-01-04/royal-southern-brotherhood
-- https://rocklegendscruise.com/rlc13/artists/royal-southern-brotherhood/
-- https://plazerna.blogspot.com/2022/02/royal-southern-brotherhood.html
-- https://wordpress.rufrecords.de/en/royal-southern-brotherhood-e/
-- https://rhythmandroots.com/artists/royal-southern-brotherhood/
-- https://americansongwriter.com/royal-southern-brotherhood-the-royal-gospel/
-- https://www.loudersound.com/features/royal-southern-brotherhood-the-first-family-of-blues-rock
-- https://ramonamainstage.com/royal-southern-brotherhood/
-- https://www.aarondavismusic.com/news-vault/royal-southern-brotherhood-melds-two-legendary-family-names-ajtwf
+  - 'https://www.aspenpublicradio.org/music/2015-01-04/royal-southern-brotherhood'
+  - 'https://rocklegendscruise.com/rlc13/artists/royal-southern-brotherhood/'
+  - 'https://plazerna.blogspot.com/2022/02/royal-southern-brotherhood.html'
+  - 'https://wordpress.rufrecords.de/en/royal-southern-brotherhood-e/'
+  - 'https://rhythmandroots.com/artists/royal-southern-brotherhood/'
+  - 'https://americansongwriter.com/royal-southern-brotherhood-the-royal-gospel/'
+  - >-
+    https://www.loudersound.com/features/royal-southern-brotherhood-the-first-family-of-blues-rock
+  - 'https://ramonamainstage.com/royal-southern-brotherhood/'
+  - >-
+    https://www.aarondavismusic.com/news-vault/royal-southern-brotherhood-melds-two-legendary-family-names-ajtwf
 network_extracted: true
 entry_created: '2025-12-09T04:43:33.074408'
 last_updated: '2025-12-23T08:16:15.148335'
-origin: Louisiana, United States (primary recording location and origin)
+origin: 'Louisiana, United States (primary recording location and origin)'
+artist_type: band
 ---
 
 ![](royal_southern_brotherhood.jpg)

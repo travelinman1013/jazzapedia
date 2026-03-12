@@ -1,28 +1,28 @@
 ---
-title: ruth brown
+title: Ruth Brown
 wiki_slug: ruth-brown
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1928-01-30'
-birth_place: Portsmouth
+birth_place: 'Portsmouth, Virginia, United States'
 death_date: '2006-11-17'
 genres:
-- boogie-woogie
-- jazz blues
-- swing music
-- rockabilly
-- blues
+  - boogie-woogie
+  - jazz blues
+  - swing music
+  - rockabilly
+  - blues
 instruments:
-- eponymous
-- lead vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
-  mbid: fddbabd3-4455-42d1-a350-aea3a2879661
-  name: Ruth Brown and Her Rhythmakers
+  - lead vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: fddbabd3-4455-42d1-a350-aea3a2879661
+    name: Ruth Brown and Her Rhythmakers
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ruth_brown.jpg
   caption: ruth brown
@@ -31,7 +31,7 @@ infobox:
   origin: Portsmouth
   died: '2006-11-17'
 audio_profile:
-  tempo_avg: 121.0
+  tempo_avg: 121
   energy_avg: 0.383
   valence_avg: 0.697
   danceability_avg: 0.659
@@ -45,58 +45,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Herb Abramson
-  - Rudy Toombs
-  - Jimmy Brown
+    - Herb Abramson
+    - Rudy Toombs
+    - Jimmy Brown
   influenced:
-  - Aretha Franklin
-  - Bonnie Raitt
-  - Rakim
+    - Aretha Franklin
+    - Bonnie Raitt
+    - Rakim
   mentors:
-  - Billie Holiday
-  - Dinah Washington
-  - Sarah Vaughan
+    - Billie Holiday
+    - Dinah Washington
+    - Sarah Vaughan
 spotify_data:
   followers: 53516
   id: 4EYVgfZJ8wKXWmIvCx3gOY
   popularity: 39
-  url: https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY
+  url: 'https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY'
 discography_enriched: true
 top_tracks:
-- 'I Don''t Know (The Essentials: Ruth Brown)'
-- 5-10-15 Hours (Ruth Brown)
-- Lucky Lips (Ruth Brown)
-- As Long as I'm Moving (Ruth Brown)
-- Sweet Baby of Mine (I Don't Know)
-- Mama He Treats Your Daughter Mean (Ruth Brown)
-- Sweet Baby of Mine
-- Wild Wild Young Men (Ruth Brown)
-- Mambo Baby (Ruth Brown)
-- 'Lucky Lips (The Essentials: Ruth Brown)'
+  - 'I Don''t Know (The Essentials: Ruth Brown)'
+  - 5-10-15 Hours (Ruth Brown)
+  - Lucky Lips (Ruth Brown)
+  - As Long as I'm Moving (Ruth Brown)
+  - Sweet Baby of Mine (I Don't Know)
+  - Mama He Treats Your Daughter Mean (Ruth Brown)
+  - Sweet Baby of Mine
+  - Wild Wild Young Men (Ruth Brown)
+  - Mambo Baby (Ruth Brown)
+  - 'Lucky Lips (The Essentials: Ruth Brown)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/948137e5-783e-4386-bd7c-a56c2666d1e2
-  spotify: https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY
-  wikipedia: https://en.wikipedia.org/wiki/Ruth_Brown
+  musicbrainz: 'https://musicbrainz.org/artist/948137e5-783e-4386-bd7c-a56c2666d1e2'
+  spotify: 'https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ruth_Brown'
 image_path: 03_Resources/source_material/ArtistPortraits/ruth_brown.jpg
 biography_enhanced_at: '2025-11-04T11:07:10.488266'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Ruth_Brown
-- https://www.britannica.com/biography/Ruth-Brown
-- https://concord.com/artist/ruth-brown/
-- https://wers.org/vault-of-soul-ruth-brown/
-- https://www.vintageinn.ca/2024/03/ruth-brown-the-rb-singer-who-built-atlantic-records/
-- https://study.com/learn/lesson/ruth-brown-biography-songs.html
+  - 'https://en.wikipedia.org/wiki/Ruth_Brown'
+  - 'https://www.britannica.com/biography/Ruth-Brown'
+  - 'https://concord.com/artist/ruth-brown/'
+  - 'https://wers.org/vault-of-soul-ruth-brown/'
+  - >-
+    https://www.vintageinn.ca/2024/03/ruth-brown-the-rb-singer-who-built-atlantic-records/
+  - 'https://study.com/learn/lesson/ruth-brown-biography-songs.html'
 network_extracted: true
 entry_created: '2025-11-04T11:07:10.488275'
 last_updated: '2025-12-23T08:16:15.223216'
 gender: Female
 musicbrainz_id: 948137e5-783e-4386-bd7c-a56c2666d1e2
 tags:
-- blues
-- jazz
-- jump-blues
+  - blues
+  - jazz
+  - jump-blues
+is_active: false
 ---
 
 ![](ruth_brown.jpg)

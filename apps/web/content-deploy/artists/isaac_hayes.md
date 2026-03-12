@@ -5,70 +5,70 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1942-08-20'
-birth_place: Covington
+birth_place: 'Covington, Tennessee, United States'
 death_date: '2008-08-10'
 genres:
-- soul
+  - soul
 instruments:
-- original
-- piano
-- electric piano
-- Rhodes piano
-- lead vocals
-- vocal
-- spoken vocals
-associated_acts:
-- begin: '1997'
-  end: '2006'
-  instruments: []
-  mbid: dd119c0c-5e15-4bd5-a16e-23bfb99c707b
-  name: South Park
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 84aaa60d-bcd0-4d3a-b40d-55f125b7af02
-  name: Isaac Hayes Movement
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d22d23e8-0ad3-4779-a043-0c566d9a2fef
-  name: The Louisiana Gator Boys
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1d0e964a-2b91-4dd9-8100-a5a184870382
-  name: Delaney & Bonnie
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: afbb9b08-8d51-4df5-b8a3-d2c5a8b86f35
-  name: The Mar‐Keys
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b53d3cfb-248d-409a-9f99-bd1026bf7db9
-  name: Hayes & Porter
-- begin: ''
-  end: ''
-  instruments:
   - original
-  mbid: 9846736d-bfaa-4c23-9278-e4fc3e33fcff
-  name: Isaac Hayes Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 097bb294-7ba9-425a-8e7d-dc20555b44b9
-  name: The Stax Staff
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ee918171-2c47-404b-87db-43d653ee76be
-  name: The Baracudas
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2ae4dbdb-3ac2-4e9d-a5b8-f6e9b1b084d3
-  name: The Teen Town Singers
+  - piano
+  - electric piano
+  - Rhodes piano
+  - lead vocals
+  - vocal
+  - spoken vocals
+associated_acts:
+  - begin: '1997'
+    end: '2006'
+    instruments: []
+    mbid: dd119c0c-5e15-4bd5-a16e-23bfb99c707b
+    name: South Park
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 84aaa60d-bcd0-4d3a-b40d-55f125b7af02
+    name: Isaac Hayes Movement
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d22d23e8-0ad3-4779-a043-0c566d9a2fef
+    name: The Louisiana Gator Boys
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1d0e964a-2b91-4dd9-8100-a5a184870382
+    name: Delaney & Bonnie
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: afbb9b08-8d51-4df5-b8a3-d2c5a8b86f35
+    name: The Mar‐Keys
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b53d3cfb-248d-409a-9f99-bd1026bf7db9
+    name: Hayes & Porter
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 9846736d-bfaa-4c23-9278-e4fc3e33fcff
+    name: Isaac Hayes Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 097bb294-7ba9-425a-8e7d-dc20555b44b9
+    name: The Stax Staff
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ee918171-2c47-404b-87db-43d653ee76be
+    name: The Baracudas
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2ae4dbdb-3ac2-4e9d-a5b8-f6e9b1b084d3
+    name: The Teen Town Singers
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/isaac_hayes.jpg
   caption: Isaac Hayes
@@ -91,53 +91,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - David Porter
-  - Sam & Dave
+    - David Porter
+    - Sam & Dave
   influenced:
-  - Curtis Mayfield
-  - Norman Whitfield
+    - Curtis Mayfield
+    - Norman Whitfield
   mentors:
-  - None prominently documented
+    - None prominently documented
 spotify_data:
   followers: 755630
   id: 3IKV7o6WPphDB7cCWXaG3E
   popularity: 50
-  url: https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E
+  url: 'https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E'
 discography_enriched: true
 top_tracks:
-- Theme From Shaft - Remastered 2009 (Shaft (Deluxe Edition))
-- Hung Up On My Baby (Tough Guys)
-- Walk On By (Hot Buttered Soul)
-- Walk On By (Stax Records Presents)
-- Theme From Shaft (Stax Records Presents)
-- I Can't Go to Sleep (feat. Ghostface Killah, RZA & Issac Hayes) (The W)
-- Walk On By - Remastered 1991 Album Version
-- Dark And Lovely (You Over There)
-- Run Fay Run
-- You Never Cross My Mind (Royal Rappin's)
+  - Theme From Shaft - Remastered 2009 (Shaft (Deluxe Edition))
+  - Hung Up On My Baby (Tough Guys)
+  - Walk On By (Hot Buttered Soul)
+  - Walk On By (Stax Records Presents)
+  - Theme From Shaft (Stax Records Presents)
+  - 'I Can''t Go to Sleep (feat. Ghostface Killah, RZA & Issac Hayes) (The W)'
+  - Walk On By - Remastered 1991 Album Version
+  - Dark And Lovely (You Over There)
+  - Run Fay Run
+  - You Never Cross My Mind (Royal Rappin's)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a2361c7d-ddb6-41c1-a9a0-be09fbbb8d21
-  spotify: https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E
+  musicbrainz: 'https://musicbrainz.org/artist/a2361c7d-ddb6-41c1-a9a0-be09fbbb8d21'
+  spotify: 'https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/isaac_hayes.jpg
 biography_enhanced_at: '2025-12-23T01:58:24.341867'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.britannica.com/biography/Isaac-Hayes
-- https://concord.com/artist/isaac-hayes/
-- https://www.thehistorymakers.org/biography/isaac-hayes-39
-- https://staxrecords.com/artist/isaac-hayes/
+  - 'https://www.britannica.com/biography/Isaac-Hayes'
+  - 'https://concord.com/artist/isaac-hayes/'
+  - 'https://www.thehistorymakers.org/biography/isaac-hayes-39'
+  - 'https://staxrecords.com/artist/isaac-hayes/'
 network_extracted: true
 entry_created: '2025-12-23T01:58:24.341879'
 last_updated: '2025-12-23T08:16:09.915727'
 gender: Male
 musicbrainz_id: a2361c7d-ddb6-41c1-a9a0-be09fbbb8d21
 tags:
-- disco
-- film score
-- film soundtrack
-
+  - disco
+  - film score
+  - film soundtrack
+is_active: false
+origin: 'Memphis, Tennessee, United States'
 ---
 
 ![](isaac_hayes.jpg)

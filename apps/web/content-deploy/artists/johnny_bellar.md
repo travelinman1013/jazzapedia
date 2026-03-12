@@ -1,38 +1,44 @@
 ---
 biography_enhanced_at: '2025-12-28T02:01:42.521726'
-birth_place: Springfield, Tennessee, United States
+birth_place: 'Springfield, Tennessee, United States'
 enhancement_provider: perplexity
 entry_created: '2025-12-28T02:01:42.521737'
 external_urls:
-  spotify: https://open.spotify.com/artist/0INETKNJYPVfrzAnOuo9H4
+  spotify: 'https://open.spotify.com/artist/0INETKNJYPVfrzAnOuo9H4'
   wikipedia: null
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/johnny_bellar.jpg
 last_updated: '2025-12-28T02:01:42.521739'
 musical_connections:
   collaborators:
-  - Cumberland Valley Boys
-  - Various Nashville studio and touring artists
+    - Cumberland Valley Boys
+    - Various Nashville studio and touring artists
   influenced:
-  - David Gipson
+    - David Gipson
   mentors:
-  - Traditional country and bluegrass musicians of Middle Tennessee
+    - Traditional country and bluegrass musicians of Middle Tennessee
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- ResoGat Honorees – Johnny Bellar (resogat.org)[1]
-- 'Tennessee Arts Commission Folklife Program – Bellar and Gipson: Resonator Guitar
-  (tnfolklife.org)[3]'
-- 'Country Music Hall of Fame and Museum – Musicians Spotlight: Johnny Bellar (digi.countrymusichalloffame.org)[2]'
-- AllMusic – Johnny Bellar artist page (allmusic.com)[4]
-- 'Nashville Musicians Association – Member profile: Johnny Bellar (nashvillemusicians.org)[5]'
+  - 'ResoGat Honorees – Johnny Bellar (resogat.org)[1]'
+  - >-
+    Tennessee Arts Commission Folklife Program – Bellar and Gipson: Resonator
+    Guitar (tnfolklife.org)[3]
+  - >-
+    Country Music Hall of Fame and Museum – Musicians Spotlight: Johnny Bellar
+    (digi.countrymusichalloffame.org)[2]
+  - 'AllMusic – Johnny Bellar artist page (allmusic.com)[4]'
+  - >-
+    Nashville Musicians Association – Member profile: Johnny Bellar
+    (nashvillemusicians.org)[5]
 spotify_data:
   followers: 24631
   id: 0INETKNJYPVfrzAnOuo9H4
   popularity: 43
-  url: https://open.spotify.com/artist/0INETKNJYPVfrzAnOuo9H4
+  url: 'https://open.spotify.com/artist/0INETKNJYPVfrzAnOuo9H4'
 status: active
 title: Johnny Bellar
+artist_type: person
 ---
 
 ![](johnny_bellar.jpg)

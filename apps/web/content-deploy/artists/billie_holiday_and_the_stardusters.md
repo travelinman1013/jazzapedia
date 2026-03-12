@@ -1,15 +1,16 @@
 ---
-title: billie holiday and the stardusters
+title: Billie Holiday and the Stardusters
 wiki_slug: billie-holiday-and-the-stardusters
 schema_version: 2
 status: active
 genres:
-- big band
-- jazz
-- jazz blues
-- vocal jazz
+  - big band
+  - jazz
+  - jazz blues
+  - vocal jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/billie_holiday_and_the_stardusters.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/billie_holiday_and_the_stardusters.jpg
   caption: billie holiday and the stardusters
   background: solo_singer
 audio_profile:
@@ -27,44 +28,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Charlie Spivak
-  - June Hutton
-  - Billie Holiday
-  - Evelyn Knight
+    - Charlie Spivak
+    - June Hutton
+    - Billie Holiday
+    - Evelyn Knight
   influenced: []
   mentors: []
 spotify_data:
   followers: 2088861
   id: 1YzCsTRb22dQkh9lghPIrp
   popularity: 66
-  url: https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp
+  url: 'https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp'
 discography_enriched: true
 top_tracks:
-- I'll Be Seeing You (Billie Holiday)
-- Blue Moon (Solitude)
-- Solitude (Solitude)
-- All of Me
-- April In Paris (All Or Nothing At All)
-- As Time Goes By (The Complete Commodore Recordings)
-- Strange Fruit (Billie Holiday)
-- Autumn In New York (Recital)
-- Crazy He Calls Me (Lover Man)
-- You Go To My Head (Solitude)
+  - I'll Be Seeing You (Billie Holiday)
+  - Blue Moon (Solitude)
+  - Solitude (Solitude)
+  - All of Me
+  - April In Paris (All Or Nothing At All)
+  - As Time Goes By (The Complete Commodore Recordings)
+  - Strange Fruit (Billie Holiday)
+  - Autumn In New York (Recital)
+  - Crazy He Calls Me (Lover Man)
+  - You Go To My Head (Solitude)
 external_urls:
-  spotify: https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp
+  spotify: 'https://open.spotify.com/artist/1YzCsTRb22dQkh9lghPIrp'
   wikipedia: ''
-image_path: 03_Resources/source_material/ArtistPortraits/billie_holiday_and_the_stardusters.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/billie_holiday_and_the_stardusters.jpg
 biography_enhanced_at: '2025-12-19T01:55:49.853217'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://bandchirps.com/vocalgroup/stardusters/
-- https://www.billieholidaysongs.com/recording-sessions/1948-sessions/
-- https://www.imdb.com/name/nm1898770/bio/
+  - 'https://bandchirps.com/vocalgroup/stardusters/'
+  - 'https://www.billieholidaysongs.com/recording-sessions/1948-sessions/'
+  - 'https://www.imdb.com/name/nm1898770/bio/'
 network_extracted: true
 entry_created: '2025-12-19T01:55:49.853231'
 last_updated: '2025-12-23T08:16:05.526899'
-origin: Springfield, Illinois, USA
+origin: 'Springfield, Illinois, USA'
+artist_type: band
 ---
 
 ![](billie_holiday_and_the_stardusters.jpg)

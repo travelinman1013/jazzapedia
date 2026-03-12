@@ -1,15 +1,15 @@
 ---
-title: BLUE LU BARKER
+title: Blue Lu Barker
 wiki_slug: blue-lu-barker
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1913-11-13'
-birth_place: New Orleans
+birth_place: 'New Orleans, Louisiana, United States'
 death_date: '1998-05-07'
 genres:
-- swing music
-- blues
+  - swing music
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/blue_lu_barker.jpg
   caption: BLUE LU BARKER
@@ -18,7 +18,7 @@ infobox:
   origin: New Orleans
   died: '1998-05-07'
 audio_profile:
-  tempo_avg: 119.0
+  tempo_avg: 119
   energy_avg: 0.249
   valence_avg: 0.63
   danceability_avg: 0.662
@@ -32,53 +32,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Danny Barker
-  - Charlie Parker
-  - Erskine Butterfield Trio
+    - Danny Barker
+    - Charlie Parker
+    - Erskine Butterfield Trio
   influenced:
-  - Billie Holiday
-  - Maria Muldaur
+    - Billie Holiday
+    - Maria Muldaur
   mentors:
-  - New Orleans street musicians
+    - New Orleans street musicians
 spotify_data:
   followers: 1121
   id: 3VkdiA1x4W2ISeJPWHswtQ
   popularity: 10
-  url: https://open.spotify.com/artist/3VkdiA1x4W2ISeJPWHswtQ
+  url: 'https://open.spotify.com/artist/3VkdiA1x4W2ISeJPWHswtQ'
 discography_enriched: true
 top_tracks:
-- A Little Bird Told Me (10-26-48) (Complete Jazz Series 1946 - 1949)
-- 'A Little Bird Told Me (Capitol Records From The Vaults: "Vine Street Divas")'
-- A little bird told me so (Blue Lu Barker, A famous jazz and blues singer from New Orleans)
-- A Little Bird Told Me (Call Me Blue Lu)
-- Here's A Little Girl From Jacksonville (10-26-48) (Complete Jazz Series 1946 - 1949)
-- Loan Me Your Husband (Call Me Blue Lu)
-- Don't You Make Me High - Single Version (Men Are Like Street Cars - Women Blues Singers 1928 - 1969)
-- Don't You Feel My Leg (New Orleans Lady)
-- Don't You Feel My Leg (08-25-46) (Complete Jazz Series 1946 - 1949)
-- Trombone Man Blues (ABC Of The Blues Vol 4)
+  - A Little Bird Told Me (10-26-48) (Complete Jazz Series 1946 - 1949)
+  - 'A Little Bird Told Me (Capitol Records From The Vaults: "Vine Street Divas")'
+  - >-
+    A little bird told me so (Blue Lu Barker, A famous jazz and blues singer
+    from New Orleans)
+  - A Little Bird Told Me (Call Me Blue Lu)
+  - >-
+    Here's A Little Girl From Jacksonville (10-26-48) (Complete Jazz Series 1946
+    - 1949)
+  - Loan Me Your Husband (Call Me Blue Lu)
+  - >-
+    Don't You Make Me High - Single Version (Men Are Like Street Cars - Women
+    Blues Singers 1928 - 1969)
+  - Don't You Feel My Leg (New Orleans Lady)
+  - Don't You Feel My Leg (08-25-46) (Complete Jazz Series 1946 - 1949)
+  - Trombone Man Blues (ABC Of The Blues Vol 4)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/184552a6-774a-4f9f-9946-dc2162049992
-  spotify: https://open.spotify.com/artist/3VkdiA1x4W2ISeJPWHswtQ
-  wikipedia: https://en.wikipedia.org/wiki/Blue_Lu_Barker
+  musicbrainz: 'https://musicbrainz.org/artist/184552a6-774a-4f9f-9946-dc2162049992'
+  spotify: 'https://open.spotify.com/artist/3VkdiA1x4W2ISeJPWHswtQ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Blue_Lu_Barker'
 image_path: 03_Resources/source_material/ArtistPortraits/blue_lu_barker.jpg
 biography_enhanced_at: '2025-11-11T09:22:06.947557'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://fromthevaults-boppinbob.blogspot.com/2015/11/blue-lu-barker-born-13-november-1913.html
-- https://www.allaboutjazz.com/musicians/blue-lu-barker/
-- https://64parishes.org/entry/danny-and-blue-lu-barker
-- https://syncopatedtimes.com/louisa-blue-lu-barker-was-more-than-a-blues-singer/
-- https://www.allmusic.com/artist/blue-lu-barker-mn0000058315
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2015/11/blue-lu-barker-born-13-november-1913.html
+  - 'https://www.allaboutjazz.com/musicians/blue-lu-barker/'
+  - 'https://64parishes.org/entry/danny-and-blue-lu-barker'
+  - >-
+    https://syncopatedtimes.com/louisa-blue-lu-barker-was-more-than-a-blues-singer/
+  - 'https://www.allmusic.com/artist/blue-lu-barker-mn0000058315'
 network_extracted: true
 entry_created: '2025-11-11T09:22:06.947570'
 last_updated: '2025-12-23T08:16:05.763655'
 gender: Female
 musicbrainz_id: 184552a6-774a-4f9f-9946-dc2162049992
 tags:
-- jazz
-- vocal jazz
+  - jazz
+  - vocal jazz
+is_active: false
 ---
 
 ![](blue_lu_barker.jpg)

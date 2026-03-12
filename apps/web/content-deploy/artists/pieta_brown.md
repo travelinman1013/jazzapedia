@@ -1,24 +1,24 @@
 ---
-title: pieta brown
+title: Pieta Brown
 wiki_slug: pieta-brown
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1973'
-birth_place: Iowa City
+birth_place: 'Iowa City, Iowa, United States'
 genres:
-- americana
-- alt country
+  - americana
+  - alt country
 instruments:
-- guitar
-- resonator guitar
-- background vocals
+  - guitar
+  - resonator guitar
+  - background vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3577978f-33f8-4304-ae8d-277bff091d51
-  name: Love Over Gold
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3577978f-33f8-4304-ae8d-277bff091d51
+    name: Love Over Gold
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/pieta_brown.jpg
   caption: pieta brown
@@ -40,58 +40,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bo Ramsey
-  - Mark Knopfler
-  - Justin Vernon (Bon Iver)
-  - Amos Lee
-  - Calexico
-  - Ani DiFranco
-  - Brandi Carlile
-  - S. Carey
+    - Bo Ramsey
+    - Mark Knopfler
+    - Justin Vernon (Bon Iver)
+    - Amos Lee
+    - Calexico
+    - Ani DiFranco
+    - Brandi Carlile
+    - S. Carey
   influenced:
-  - No widely documented direct proteges or students
+    - No widely documented direct proteges or students
   mentors:
-  - Greg Brown
-  - Bo Ramsey
+    - Greg Brown
+    - Bo Ramsey
 spotify_data:
   followers: 14492
   id: 43NpjLskaVb5j2Jgt6fdbP
   popularity: 32
-  url: https://open.spotify.com/artist/43NpjLskaVb5j2Jgt6fdbP
+  url: 'https://open.spotify.com/artist/43NpjLskaVb5j2Jgt6fdbP'
 discography_enriched: true
 top_tracks:
-- Do You Know? (Paradise Outlaw)
-- Street Tracker (Postcards)
-- Wondering How (Paradise Outlaw)
-- Speed of the Sound of Loneliness (feat. Pieta Brown & Marlon Williams) (Sunday Morning)
-- No Not Me (Paradise Outlaw)
-- In the Light (Postcards)
-- Station Blues (Postcards)
-- Before Gas and TV (Paradise Outlaw)
-- Letter in Hand (Paradise Outlaw)
-- Flowers of Love (Paradise Outlaw)
+  - Do You Know? (Paradise Outlaw)
+  - Street Tracker (Postcards)
+  - Wondering How (Paradise Outlaw)
+  - >-
+    Speed of the Sound of Loneliness (feat. Pieta Brown & Marlon Williams)
+    (Sunday Morning)
+  - No Not Me (Paradise Outlaw)
+  - In the Light (Postcards)
+  - Station Blues (Postcards)
+  - Before Gas and TV (Paradise Outlaw)
+  - Letter in Hand (Paradise Outlaw)
+  - Flowers of Love (Paradise Outlaw)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8d1e1f75-ddc2-4a45-a63f-e8ea61bb4175
-  spotify: https://open.spotify.com/artist/43NpjLskaVb5j2Jgt6fdbP
-  wikipedia: https://en.wikipedia.org/wiki/Pieta_Brown
+  musicbrainz: 'https://musicbrainz.org/artist/8d1e1f75-ddc2-4a45-a63f-e8ea61bb4175'
+  spotify: 'https://open.spotify.com/artist/43NpjLskaVb5j2Jgt6fdbP'
+  wikipedia: 'https://en.wikipedia.org/wiki/Pieta_Brown'
 image_path: 03_Resources/source_material/ArtistPortraits/pieta_brown.jpg
 biography_enhanced_at: '2025-10-25T10:14:58.111212'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Pieta_Brown
-- https://pietabrown.com/about
-- https://experiencelife.lifetime.life/article/grace-notes/
-- https://first-avenue.com/performer/pieta-brown/
-- https://www.thegazette.com/music/pieta-brown-born-of-songwriting-royalty-carries-on-tradition/
+  - 'https://en.wikipedia.org/wiki/Pieta_Brown'
+  - 'https://pietabrown.com/about'
+  - 'https://experiencelife.lifetime.life/article/grace-notes/'
+  - 'https://first-avenue.com/performer/pieta-brown/'
+  - >-
+    https://www.thegazette.com/music/pieta-brown-born-of-songwriting-royalty-carries-on-tradition/
 network_extracted: true
 entry_created: '2025-10-25T10:14:58.111227'
 last_updated: '2025-12-23T08:16:14.294934'
 gender: Female
 musicbrainz_id: 8d1e1f75-ddc2-4a45-a63f-e8ea61bb4175
 tags:
-- country
-- folk
+  - country
+  - folk
 ---
 
 ![](pieta_brown.jpg)

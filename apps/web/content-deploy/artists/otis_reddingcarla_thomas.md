@@ -1,48 +1,53 @@
 ---
 biography_enhanced_at: '2026-01-07T01:19:16.954064'
-birth_place: Memphis, Tennessee, United States
+birth_place: 'Memphis, Tennessee, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-07T01:19:16.954069'
 external_urls:
-  spotify: https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm
-  wikipedia: https://en.wikipedia.org/wiki/Carla_Thomas
+  spotify: 'https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm'
+  wikipedia: 'https://en.wikipedia.org/wiki/Carla_Thomas'
 genres:
-- soul
-- motown
-- soul blues
+  - soul
+  - motown
+  - soul blues
 image_path: 03_Resources/source_material/ArtistPortraits/otis_reddingcarla_thomas.jpg
 last_updated: '2026-01-07T01:19:16.954069'
 musical_connections:
   collaborators:
-  - Otis Redding
-  - Rufus Thomas
-  - Marvell Thomas
+    - Otis Redding
+    - Rufus Thomas
+    - Marvell Thomas
   influenced:
-  - Aretha Franklin
-  - Gladys Knight
+    - Aretha Franklin
+    - Gladys Knight
   mentors:
-  - Rufus Thomas
-  - A.C. Williams
-  - Brenda Lee
+    - Rufus Thomas
+    - A.C. Williams
+    - Brenda Lee
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://tnartscommission.org/governors-arts-awards/2021-award-winners/carla-thomas/
-- https://en.wikipedia.org/wiki/Carla_Thomas
-- https://www.rhino.com/article/5-things-you-may-not-have-known-about-carla-thomas
-- https://en.wikipedia.org/wiki/Otis_Redding
-- https://digitalscholarship.tnstate.edu/cgi/viewcontent.cgi?article=1000&context=notable-alumni
-- https://wers.org/the-vault-of-soul-carla-thomas/
-- https://teachrock.org/people/redding-otis/
-- https://memphismusichalloffame.com/inductee/carlathomas/
+  - >-
+    https://tnartscommission.org/governors-arts-awards/2021-award-winners/carla-thomas/
+  - 'https://en.wikipedia.org/wiki/Carla_Thomas'
+  - >-
+    https://www.rhino.com/article/5-things-you-may-not-have-known-about-carla-thomas
+  - 'https://en.wikipedia.org/wiki/Otis_Redding'
+  - >-
+    https://digitalscholarship.tnstate.edu/cgi/viewcontent.cgi?article=1000&context=notable-alumni
+  - 'https://wers.org/the-vault-of-soul-carla-thomas/'
+  - 'https://teachrock.org/people/redding-otis/'
+  - 'https://memphismusichalloffame.com/inductee/carlathomas/'
 spotify_data:
   followers: 2581606
   id: 60df5JBRRPcnSpsIMxxwQm
   popularity: 71
-  url: https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm
+  url: 'https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm'
 status: active
 title: Otis Redding/Carla Thomas
-
+origin: 'Memphis, Tennessee, United States'
+birth_date: '1942-12-21'
+artist_type: band
 ---
 
 ![](otis_reddingcarla_thomas.jpg)

@@ -5,13 +5,13 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1938-02-12'
-birth_place: Rio de Janeiro
+birth_place: 'Duas Barras, Rio de Janeiro, Brazil'
 genres:
-- samba
-- pagode
-- mpb
+  - samba
+  - pagode
+  - mpb
 instruments:
-- lead vocals
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/martinho_da_vila.jpg
   caption: Martinho da Vila
@@ -24,7 +24,7 @@ audio_profile:
   valence_avg: 0.809
   danceability_avg: 0.659
   acousticness_avg: 0.457
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -10.3
   speechiness_avg: 0.139
   liveness_avg: 0.309
@@ -33,55 +33,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Unidos de Vila Isabel
-  - Silvio Barbato
-  - Maestro Bruno (Leonardo Bruno)
-  - Zeca Pagodinho
-  - Chico Buarque
-  - Beth Carvalho, Alcione, Arlindo Cruz (and other sambistas)
+    - Unidos de Vila Isabel
+    - Silvio Barbato
+    - Maestro Bruno (Leonardo Bruno)
+    - Zeca Pagodinho
+    - Chico Buarque
+    - 'Beth Carvalho, Alcione, Arlindo Cruz (and other sambistas)'
   influenced:
-  - Tonico da Vila
-  - Zeca Pagodinho (representative of younger pagode generation)
-  - Contemporary Brazilian sambistas and MPB artists
+    - Tonico da Vila
+    - Zeca Pagodinho (representative of younger pagode generation)
+    - Contemporary Brazilian sambistas and MPB artists
   mentors:
-  - Unidos de Vila Isabel & Aprendizes da Boca do Mato (samba schools)
-  - Noel Rosa
+    - Unidos de Vila Isabel & Aprendizes da Boca do Mato (samba schools)
+    - Noel Rosa
 spotify_data:
   followers: 903535
   id: 6rM2yY0GnVcOHMU5GD3y9E
   popularity: 62
-  url: https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E
+  url: 'https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E'
 discography_enriched: true
 top_tracks:
-- Sonho Meu
-- Disritmia (Martinho da Vila)
-- Vou Festejar
-- Canta Canta, Minha Gente (Martinho da Vila)
-- Mulheres (Tá Delícia, Tá Gostoso)
-- Canta, Canta Minha Gente
-- Clube do Samba
-- Canta Canta, Minha Gente (Série Acervo - Martinho Da Vila)
-- Roda Ciranda / Segure Tudo / Casa De Bamba - Ao Vivo
-- Casa de Bamba (4.5 Atual)
+  - Sonho Meu
+  - Disritmia (Martinho da Vila)
+  - Vou Festejar
+  - 'Canta Canta, Minha Gente (Martinho da Vila)'
+  - 'Mulheres (Tá Delícia, Tá Gostoso)'
+  - 'Canta, Canta Minha Gente'
+  - Clube do Samba
+  - 'Canta Canta, Minha Gente (Série Acervo - Martinho Da Vila)'
+  - Roda Ciranda / Segure Tudo / Casa De Bamba - Ao Vivo
+  - Casa de Bamba (4.5 Atual)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/88a13d24-7915-4b51-8d95-c8de00ab79ea
-  spotify: https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E
-  wikipedia: https://en.wikipedia.org/wiki/Martinho_Da_Vila
+  musicbrainz: 'https://musicbrainz.org/artist/88a13d24-7915-4b51-8d95-c8de00ab79ea'
+  spotify: 'https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E'
+  wikipedia: 'https://en.wikipedia.org/wiki/Martinho_Da_Vila'
 image_path: 03_Resources/source_material/ArtistPortraits/martinho_da_vila.jpg
 biography_enhanced_at: '2025-12-21T01:26:48.644148'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Martinho_Da_Vila
-- https://pt.wikipedia.org/wiki/Martinho_da_Vila
-- https://www.letras.mus.br/blog/martinho-da-vila-biografia/
-- https://soundsandcolours.com/articles/brazil/the-many-lives-of-martinho-da-vila-33000/
-- https://pt.jango.com/music/Martinho+da+Vila
+  - 'https://en.wikipedia.org/wiki/Martinho_Da_Vila'
+  - 'https://pt.wikipedia.org/wiki/Martinho_da_Vila'
+  - 'https://www.letras.mus.br/blog/martinho-da-vila-biografia/'
+  - >-
+    https://soundsandcolours.com/articles/brazil/the-many-lives-of-martinho-da-vila-33000/
+  - 'https://pt.jango.com/music/Martinho+da+Vila'
 network_extracted: true
 entry_created: '2025-12-21T01:26:48.644153'
 last_updated: '2025-12-23T08:16:12.741012'
 gender: Male
 musicbrainz_id: 88a13d24-7915-4b51-8d95-c8de00ab79ea
+origin: 'Rio de Janeiro, State of Rio de Janeiro, Brazil'
 ---
 
 ![](martinho_da_vila.jpg)

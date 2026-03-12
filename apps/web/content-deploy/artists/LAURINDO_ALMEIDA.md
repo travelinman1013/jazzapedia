@@ -1,24 +1,24 @@
 ---
-title: LAURINDO ALMEIDA
+title: Laurindo Almeida
 wiki_slug: laurindo-almeida
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1917-09-02'
-birth_place: Prainha, São Paulo, Brazil
+birth_place: 'Prainha, São Paulo, Brazil'
 death_date: '1995-07-26'
 genres:
-- brazilian jazz
-- bossa nova
-- exotica
+  - brazilian jazz
+  - bossa nova
+  - exotica
 instruments:
-- guitar
+  - guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/LAURINDO_ALMEIDA.jpg
   caption: LAURINDO ALMEIDA
   background: non_vocal_instrumentalist
   born: '1917-09-02'
-  origin: Prainha, São Paulo, Brazil
+  origin: 'Prainha, São Paulo, Brazil'
   died: '1995-07-26'
 audio_profile:
   tempo_avg: 108.2
@@ -35,46 +35,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bud Shank
-  - Stan Kenton
-  - Modern Jazz Quartet
-  - Salli Terri and Martin Ruderman
-  - Charlie Byrd, Baden Powell, Stan Getz, Herbie Mann
+    - Bud Shank
+    - Stan Kenton
+    - Modern Jazz Quartet
+    - Salli Terri and Martin Ruderman
+    - 'Charlie Byrd, Baden Powell, Stan Getz, Herbie Mann'
   influenced:
-  - Linda Ronstadt
-  - Generations of jazz and classical guitarists
+    - Linda Ronstadt
+    - Generations of jazz and classical guitarists
   mentors:
-  - Django Reinhardt
-  - Heitor Villa-Lobos
+    - Django Reinhardt
+    - Heitor Villa-Lobos
 spotify_data:
   followers: 64984
   id: 5PkDpzWMZR7Id1vldhF8Qk
   popularity: 48
-  url: https://open.spotify.com/artist/5PkDpzWMZR7Id1vldhF8Qk
+  url: 'https://open.spotify.com/artist/5PkDpzWMZR7Id1vldhF8Qk'
 discography_enriched: true
 top_tracks:
-- The Lamp Is Low (Classical Current)
-- My Reverie (Classical Current)
-- The Breeze and I (Classical Current)
-- Once Again (feat. Laurindo Almeida) (Stan Getz With Guest Artist Laurindo Almeida)
-- Baubles, Bangles and Beads (Classical Current)
-- 'Tea For Two (Brazilliance (feat. Bud Shank): Concert Creations For Guitar)'
-- Menina Moca (feat. Laurindo Almeida) (Stan Getz With Guest Artist Laurindo Almeida)
-- Till the End of Time (Classical Current)
-- Full Moon and Empty Arms (Classical Current)
-- The Girl From Ipanema / Manha De Carnaval (Medley)
+  - The Lamp Is Low (Classical Current)
+  - My Reverie (Classical Current)
+  - The Breeze and I (Classical Current)
+  - >-
+    Once Again (feat. Laurindo Almeida) (Stan Getz With Guest Artist Laurindo
+    Almeida)
+  - 'Baubles, Bangles and Beads (Classical Current)'
+  - 'Tea For Two (Brazilliance (feat. Bud Shank): Concert Creations For Guitar)'
+  - >-
+    Menina Moca (feat. Laurindo Almeida) (Stan Getz With Guest Artist Laurindo
+    Almeida)
+  - Till the End of Time (Classical Current)
+  - Full Moon and Empty Arms (Classical Current)
+  - The Girl From Ipanema / Manha De Carnaval (Medley)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c23280a8-abc8-4435-ab44-43762ce0c89c
-  spotify: https://open.spotify.com/artist/5PkDpzWMZR7Id1vldhF8Qk
-  wikipedia: https://en.wikipedia.org/wiki/Laurindo_Almeida
+  musicbrainz: 'https://musicbrainz.org/artist/c23280a8-abc8-4435-ab44-43762ce0c89c'
+  spotify: 'https://open.spotify.com/artist/5PkDpzWMZR7Id1vldhF8Qk'
+  wikipedia: 'https://en.wikipedia.org/wiki/Laurindo_Almeida'
 image_path: 03_Resources/source_material/ArtistPortraits/LAURINDO_ALMEIDA.jpg
 biography_enhanced_at: '2025-10-20T01:54:27.203157'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://nationaljazzarchive.org.uk/explore/interviews/1633445-laurindo-almeida
-- https://jazzin.lv/issues/i-23/laurindo-almeida-forgotten-founder-of-bossa-nova/
-- https://fromthevaults-boppinbob.blogspot.com/2018/09/laurindo-almeida-born-2-september-1917.html
+  - >-
+    https://nationaljazzarchive.org.uk/explore/interviews/1633445-laurindo-almeida
+  - >-
+    https://jazzin.lv/issues/i-23/laurindo-almeida-forgotten-founder-of-bossa-nova/
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2018/09/laurindo-almeida-born-2-september-1917.html
 network_extracted: true
 entry_created: '2025-10-20T01:54:27.203174'
 last_updated: '2025-12-23T08:16:02.921543'
@@ -82,9 +89,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:34:20.029180'
 musicbrainz_id: c23280a8-abc8-4435-ab44-43762ce0c89c
 tags:
-- guitar
-- jazz
-- latin jazz
+  - guitar
+  - jazz
+  - latin jazz
+is_active: false
 ---
 
 ![](LAURINDO_ALMEIDA.jpg)

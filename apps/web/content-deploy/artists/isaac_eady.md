@@ -3,14 +3,18 @@ title: Isaac Eady
 wiki_slug: isaac-eady
 schema_version: 2
 status: active
-birth_place: Tullahoma, Tennessee, USA (birthplace); New Orleans, Louisiana, USA (current base/origin)
+birth_place: >-
+  Tullahoma, Tennessee, USA (birthplace); New Orleans, Louisiana, USA (current
+  base/origin)
 genres:
-- soul
+  - soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/isaac_eady.jpg
   caption: Isaac Eady
   background: solo_singer
-  origin: Tullahoma, Tennessee, USA (birthplace); New Orleans, Louisiana, USA (current base/origin)
+  origin: >-
+    Tullahoma, Tennessee, USA (birthplace); New Orleans, Louisiana, USA (current
+    base/origin)
 audio_profile:
   tempo_avg: 123.8
   energy_avg: 0.551
@@ -26,46 +30,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tedeschi Trucks Band
-  - Third Moon
+    - Tedeschi Trucks Band
+    - Third Moon
   influenced: []
   mentors:
-  - Walter Hamilton Sr.
-  - Tyler 'Falcon' Greenwell
+    - Walter Hamilton Sr.
+    - Tyler 'Falcon' Greenwell
 spotify_data:
   followers: 749159
   id: 3IKV7o6WPphDB7cCWXaG3E
   popularity: 48
-  url: https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E
+  url: 'https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E'
 discography_enriched: true
 top_tracks:
-- Theme From Shaft - Remastered 2009 (Shaft (Deluxe Edition))
-- Hung Up On My Baby (Tough Guys)
-- Walk On By (Hot Buttered Soul)
-- Walk On By (Stax Records Presents)
-- Theme From Shaft (Stax Records Presents)
-- I Can't Go to Sleep (feat. Ghostface Killah, RZA & Issac Hayes) (The W)
-- Walk On By - Remastered 1991 Album Version
-- Dark And Lovely (You Over There)
-- Run Fay Run
-- You Never Cross My Mind (Royal Rappin's)
+  - Theme From Shaft - Remastered 2009 (Shaft (Deluxe Edition))
+  - Hung Up On My Baby (Tough Guys)
+  - Walk On By (Hot Buttered Soul)
+  - Walk On By (Stax Records Presents)
+  - Theme From Shaft (Stax Records Presents)
+  - 'I Can''t Go to Sleep (feat. Ghostface Killah, RZA & Issac Hayes) (The W)'
+  - Walk On By - Remastered 1991 Album Version
+  - Dark And Lovely (You Over There)
+  - Run Fay Run
+  - You Never Cross My Mind (Royal Rappin's)
 external_urls:
-  spotify: https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E
+  spotify: 'https://open.spotify.com/artist/3IKV7o6WPphDB7cCWXaG3E'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/isaac_eady.jpg
 biography_enhanced_at: '2025-10-29T16:46:27.393334'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.isaaceady.com/about
-- https://www.newschannel5.com/news/tullahoma-native-isaac-eady-makes-his-mother-church-debut
-- https://jambands.com/features/2024/04/09/drumming-on-the-moon-isaac-eady-finds-his-groove-with-tedeschi-trucks-band-and-beyond/
-- https://shorefire.com/roster/tedeschi-trucks-band/bio
-- https://www.mapleleafbar.com/events/isaac-eady-11pm-10-2
+  - 'https://www.isaaceady.com/about'
+  - >-
+    https://www.newschannel5.com/news/tullahoma-native-isaac-eady-makes-his-mother-church-debut
+  - >-
+    https://jambands.com/features/2024/04/09/drumming-on-the-moon-isaac-eady-finds-his-groove-with-tedeschi-trucks-band-and-beyond/
+  - 'https://shorefire.com/roster/tedeschi-trucks-band/bio'
+  - 'https://www.mapleleafbar.com/events/isaac-eady-11pm-10-2'
 network_extracted: true
 entry_created: '2025-10-29T16:46:27.393343'
 last_updated: '2025-12-23T08:16:09.910211'
-
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](isaac_eady.jpg)

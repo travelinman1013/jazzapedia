@@ -2,24 +2,24 @@
 title: Masta Ace
 wiki_slug: masta-ace
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1966-12-04'
-birth_place: Brooklyn, New York, United States
+birth_place: 'Brooklyn, New York, United States'
 genres:
-- east coast hip hop
-- underground hip hop
-- hip hop
-- boom bap
+  - east coast hip hop
+  - underground hip hop
+  - hip hop
+  - boom bap
 instruments:
-- eponymous
-- original
+  - eponymous
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Masta_Ace.jpg
   caption: Masta Ace
   background: non_vocal_instrumentalist
   born: '1966-12-04'
-  origin: Brooklyn, New York, United States
+  origin: 'Brooklyn, New York, United States'
 audio_profile:
   tempo_avg: 102.9
   energy_avg: 0.699
@@ -35,59 +35,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Big Daddy Kane
-  - Biz Markie
-  - Lord Digga
-  - Paula Perry
-  - Special Ed and Buckshot
-  - Ed O.G.
-  - eMC (Stricklin, Wordsworth, Punchline)
+    - Big Daddy Kane
+    - Biz Markie
+    - Lord Digga
+    - Paula Perry
+    - Special Ed and Buckshot
+    - Ed O.G.
+    - 'eMC (Stricklin, Wordsworth, Punchline)'
   influenced:
-  - Eminem
-  - J. Cole
+    - Eminem
+    - J. Cole
   mentors:
-  - Marley Marl
+    - Marley Marl
 spotify_data:
   followers: 218503
   id: 1wo9h8DP7M0M1orKuGZgWv
   popularity: 44
-  url: https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv
+  url: 'https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv'
 discography_enriched: true
 top_tracks:
-- Think I Am - Melodiesinfonie Remix (Son of Yvonne (Remixes))
-- Unruly
-- Good Ol Love (A Long Hot Summer)
-- Da Grind (Featuring Apocalypse) (A Long Hot Summer)
-- Acknowledge (Disposable Arts)
-- Think I Am - Dead Rabbit Remix (Son of Yvonne (Remixes))
-- Take a Walk (Disposable Arts)
-- Beautiful (A Long Hot Summer)
-- Kill Too Hard (Chamber Music)
-- Mr Bus Driver (The Falling Season)
+  - Think I Am - Melodiesinfonie Remix (Son of Yvonne (Remixes))
+  - Unruly
+  - Good Ol Love (A Long Hot Summer)
+  - Da Grind (Featuring Apocalypse) (A Long Hot Summer)
+  - Acknowledge (Disposable Arts)
+  - Think I Am - Dead Rabbit Remix (Son of Yvonne (Remixes))
+  - Take a Walk (Disposable Arts)
+  - Beautiful (A Long Hot Summer)
+  - Kill Too Hard (Chamber Music)
+  - Mr Bus Driver (The Falling Season)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ceef10f5-324d-4a04-8db7-1a4181e19ab3
-  spotify: https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv
-  wikipedia: https://en.wikipedia.org/wiki/Masta_Ace
+  musicbrainz: 'https://musicbrainz.org/artist/ceef10f5-324d-4a04-8db7-1a4181e19ab3'
+  spotify: 'https://open.spotify.com/artist/1wo9h8DP7M0M1orKuGZgWv'
+  wikipedia: 'https://en.wikipedia.org/wiki/Masta_Ace'
 image_path: 03_Resources/source_material/ArtistPortraits/Masta_Ace.jpg
 biography_enhanced_at: '2025-10-20T10:33:09.051860'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/ace-masta
-- https://www.mastaace.com/about/
-- https://en.wikipedia.org/wiki/Masta_Ace
-- https://magazine.waxpoetics.com/article/masta-ace-indispensible-arts/
-- https://www.uri.edu/magazine/issues/fall-2018/from-masta-to-legend/
-- https://www.mssociety.org.uk/support-and-community/community-blog/standing-firm-power-and-pride-masta-ace-life-ms-and-music
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/ace-masta
+  - 'https://www.mastaace.com/about/'
+  - 'https://en.wikipedia.org/wiki/Masta_Ace'
+  - 'https://magazine.waxpoetics.com/article/masta-ace-indispensible-arts/'
+  - 'https://www.uri.edu/magazine/issues/fall-2018/from-masta-to-legend/'
+  - >-
+    https://www.mssociety.org.uk/support-and-community/community-blog/standing-firm-power-and-pride-masta-ace-life-ms-and-music
 network_extracted: true
 entry_created: '2025-10-20T10:33:09.051872'
 last_updated: '2025-12-23T08:16:03.238384'
-disambiguation: the person, US rapper
+disambiguation: 'the person, US rapper'
 gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:37:23.270792'
 musicbrainz_id: ceef10f5-324d-4a04-8db7-1a4181e19ab3
 tags:
-- hip hop
+  - hip hop
 ---
 
 ![](Masta_Ace.jpg)

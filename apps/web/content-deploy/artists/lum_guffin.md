@@ -1,17 +1,17 @@
 ---
-title: lum guffin
+title: Lum Guffin
 wiki_slug: lum-guffin
 schema_version: 2
 status: active
-birth_place: Bartlett, Shelby County, Tennessee, United States
+birth_place: 'Bartlett, Shelby County, Tennessee, United States'
 genres:
-- country blues
-- blues
+  - country blues
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lum_guffin.jpg
   caption: lum guffin
   background: solo_singer
-  origin: Bartlett, Shelby County, Tennessee, United States
+  origin: 'Bartlett, Shelby County, Tennessee, United States'
 audio_profile:
   tempo_avg: 111.3
   energy_avg: 0.23
@@ -33,39 +33,46 @@ spotify_data:
   followers: 133
   id: 1Gm6BQ04073ylfwVfQhWrV
   popularity: 0
-  url: https://open.spotify.com/artist/1Gm6BQ04073ylfwVfQhWrV
+  url: 'https://open.spotify.com/artist/1Gm6BQ04073ylfwVfQhWrV'
 discography_enriched: true
 top_tracks:
-- Train I Ride 18 Coaches Long (Blues At Home 13)
-- Jack Of Diamonds (Old Country Blues Vol. 1)
-- Louise (I Got the Blues This Morning)
-- Baby Please Don't Go (I Got the Blues This Morning)
-- Baby Please Don't Go, No. 2 (Take 1) (Blues At Home 13)
-- Baby Please Don't Go, No. 2 (Take 2) (Blues At Home 13)
-- Rolling and Tumbling (Blues At Home 13)
-- Casey Jones (Blues At Home 13)
-- Louise Blues (Blues At Home 13)
-- Catfish Blues (Blues At Home 13)
+  - Train I Ride 18 Coaches Long (Blues At Home 13)
+  - Jack Of Diamonds (Old Country Blues Vol. 1)
+  - Louise (I Got the Blues This Morning)
+  - Baby Please Don't Go (I Got the Blues This Morning)
+  - 'Baby Please Don''t Go, No. 2 (Take 1) (Blues At Home 13)'
+  - 'Baby Please Don''t Go, No. 2 (Take 2) (Blues At Home 13)'
+  - Rolling and Tumbling (Blues At Home 13)
+  - Casey Jones (Blues At Home 13)
+  - Louise Blues (Blues At Home 13)
+  - Catfish Blues (Blues At Home 13)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6301103a-1359-4173-a68a-039c20a53c67
-  spotify: https://open.spotify.com/artist/1Gm6BQ04073ylfwVfQhWrV
+  musicbrainz: 'https://musicbrainz.org/artist/6301103a-1359-4173-a68a-039c20a53c67'
+  spotify: 'https://open.spotify.com/artist/1Gm6BQ04073ylfwVfQhWrV'
   wikipedia: ''
 image_path: ''
 biography_enhanced_at: '2025-12-12T12:06:40.866768'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- The Delta Review – “On the Trail of Lum Guffin, Bartlett’s Elusive Bluesman”[1]
-- The Delta Review – “A Car Show on Lum Guffin’s Homestead”[5]
-- Last.fm – Lum Guffin biography page[3]
-- Stefan Wirz – Illustrated Lum Guffin Discography[6]
-- University Press of Mississippi / JSTOR chapter on fife-and-drum traditions mentioning Lum Guffin and the American Old Time Festival Tour[4]
-- YouTube – archival tape and interview material related to Lum Guffin and fife-and-drum music[2]
+  - >-
+    The Delta Review – “On the Trail of Lum Guffin, Bartlett’s Elusive
+    Bluesman”[1]
+  - 'The Delta Review – “A Car Show on Lum Guffin’s Homestead”[5]'
+  - 'Last.fm – Lum Guffin biography page[3]'
+  - 'Stefan Wirz – Illustrated Lum Guffin Discography[6]'
+  - >-
+    University Press of Mississippi / JSTOR chapter on fife-and-drum traditions
+    mentioning Lum Guffin and the American Old Time Festival Tour[4]
+  - >-
+    YouTube – archival tape and interview material related to Lum Guffin and
+    fife-and-drum music[2]
 network_extracted: true
 entry_created: '2025-12-12T12:06:40.866787'
 last_updated: '2025-12-23T08:16:12.370021'
 musicbrainz_id: 6301103a-1359-4173-a68a-039c20a53c67
-
+birth_date: '1902-04-22'
+artist_type: person
 ---
 
 ![]()

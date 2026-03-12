@@ -5,23 +5,23 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1952-08-24'
-birth_place: Chapelton
+birth_place: 'Chapelton, Clarendon, Jamaica'
 genres:
-- dub
-- reggae
-- roots reggae
-- rocksteady
-- ragga
+  - dub
+  - reggae
+  - roots reggae
+  - rocksteady
+  - ragga
 instruments:
-- original
-- lead vocals
-associated_acts:
-- begin: '1977'
-  end: '1978'
-  instruments:
   - original
-  mbid: 750c4a2d-aad9-4a9f-ba53-1ea5e1b4f66b
-  name: Poet and the Roots
+  - lead vocals
+associated_acts:
+  - begin: '1977'
+    end: '1978'
+    instruments:
+      - original
+    mbid: 750c4a2d-aad9-4a9f-ba53-1ea5e1b4f66b
+    name: Poet and the Roots
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/linton_kwesi_johnson.jpg
   caption: Linton Kwesi Johnson
@@ -43,54 +43,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dennis Bovell
-  - Rasta Love
-  - Jean ‘Binta’ Breeze
-  - Shake Keane
+    - Dennis Bovell
+    - Rasta Love
+    - Jean ‘Binta’ Breeze
+    - Shake Keane
   influenced:
-  - Benjamin Zephaniah
-  - Jean ‘Binta’ Breeze
-  - Various British reggae and spoken word artists
+    - Benjamin Zephaniah
+    - Jean ‘Binta’ Breeze
+    - Various British reggae and spoken word artists
   mentors:
-  - Lindsay Barrett
+    - Lindsay Barrett
 spotify_data:
   followers: 58930
   id: 0bvRYuXRvd14RYEE7c0PRW
   popularity: 34
-  url: https://open.spotify.com/artist/0bvRYuXRvd14RYEE7c0PRW
+  url: 'https://open.spotify.com/artist/0bvRYuXRvd14RYEE7c0PRW'
 discography_enriched: true
 top_tracks:
-- Inglan Is A Bitch (Bass Culture)
-- Want Fi Goh Rave (Forces Of Victory)
-- Sonny's Lettah (Anti-Sus Poem) (Forces Of Victory)
-- Iron Bar - Dub (LKJ In Dub)
-- Fite Dem Back (Forces Of Victory)
-- Street 66 (Bass Culture)
-- Loraine (Bass Culture)
-- Reggae Sounds (Bass Culture)
-- It Noh Funny (Forces Of Victory)
-- Bass Culture (Bass Culture)
+  - Inglan Is A Bitch (Bass Culture)
+  - Want Fi Goh Rave (Forces Of Victory)
+  - Sonny's Lettah (Anti-Sus Poem) (Forces Of Victory)
+  - Iron Bar - Dub (LKJ In Dub)
+  - Fite Dem Back (Forces Of Victory)
+  - Street 66 (Bass Culture)
+  - Loraine (Bass Culture)
+  - Reggae Sounds (Bass Culture)
+  - It Noh Funny (Forces Of Victory)
+  - Bass Culture (Bass Culture)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f27042c2-3a42-4529-876c-3aa0b4fd53fe
-  spotify: https://open.spotify.com/artist/0bvRYuXRvd14RYEE7c0PRW
-  wikipedia: https://en.wikipedia.org/wiki/Linton_Kwesi_Johnson
+  musicbrainz: 'https://musicbrainz.org/artist/f27042c2-3a42-4529-876c-3aa0b4fd53fe'
+  spotify: 'https://open.spotify.com/artist/0bvRYuXRvd14RYEE7c0PRW'
+  wikipedia: 'https://en.wikipedia.org/wiki/Linton_Kwesi_Johnson'
 image_path: 03_Resources/source_material/ArtistPortraits/linton_kwesi_johnson.jpg
 biography_enhanced_at: '2025-10-27T02:48:06.225489'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.reggaeville.com/artist-details/linton-kwesi-johnson/about/
-- https://en.wikipedia.org/wiki/Linton_Kwesi_Johnson
-- https://www.blackhistorymonth.org.uk/article/section/poets/linton-kwesi-johnson/
+  - 'https://www.reggaeville.com/artist-details/linton-kwesi-johnson/about/'
+  - 'https://en.wikipedia.org/wiki/Linton_Kwesi_Johnson'
+  - >-
+    https://www.blackhistorymonth.org.uk/article/section/poets/linton-kwesi-johnson/
 network_extracted: true
 entry_created: '2025-10-27T02:48:06.225512'
 last_updated: '2025-12-23T08:16:11.976464'
 gender: Male
 musicbrainz_id: f27042c2-3a42-4529-876c-3aa0b4fd53fe
 tags:
-- dub
-- dub poetry
-- reggae
+  - dub
+  - dub poetry
+  - reggae
+origin: 'London, England, United Kingdom'
 ---
 
 ![](linton_kwesi_johnson.jpg)

@@ -4,13 +4,13 @@ wiki_slug: carlos-galhardo
 schema_version: 2
 artist_type: person
 status: active
-birth_place: Buenos Aires, Argentina
+birth_place: 'Buenos Aires, Argentina, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/carlos_galhardo.jpg
   caption: Carlos Galhardo
   background: solo_singer
-  origin: Buenos Aires, Argentina
+  origin: 'Buenos Aires, Argentina'
 audio_profile:
   tempo_avg: 110.9
   energy_avg: 0.306
@@ -26,49 +26,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Carmen Miranda
-  - Dalva de Oliveira
-  - Assis Valente
+    - Carmen Miranda
+    - Dalva de Oliveira
+    - Assis Valente
   influenced: []
   mentors:
-  - Francisco Alves
+    - Francisco Alves
 spotify_data:
   followers: 22045
   id: 60T8gH8DDda6HA4MlUgam3
   popularity: 26
-  url: https://open.spotify.com/artist/60T8gH8DDda6HA4MlUgam3
+  url: 'https://open.spotify.com/artist/60T8gH8DDda6HA4MlUgam3'
 discography_enriched: true
 top_tracks:
-- Allah-Lá-Ô
-- Fascinação (Fascination) (Carrossel de Melodias)
-- E O Destino Desfolhou (O Rei da Valsa)
-- Maringá (In Memoriam)
-- Eu Sonhei Que Tu Estavas Tão Linda (Uma Voz e um Violão)
-- Ingênuo (Benê, O Flautista)
-- Bodas De Prata (In Memoriam)
-- Sofres Porque Queres (Benê, O Flautista)
-- Cara Bem Boa (Benê, O Flautista)
-- Descendo a Serra (Benê, O Flautista)
+  - Allah-Lá-Ô
+  - Fascinação (Fascination) (Carrossel de Melodias)
+  - E O Destino Desfolhou (O Rei da Valsa)
+  - Maringá (In Memoriam)
+  - Eu Sonhei Que Tu Estavas Tão Linda (Uma Voz e um Violão)
+  - 'Ingênuo (Benê, O Flautista)'
+  - Bodas De Prata (In Memoriam)
+  - 'Sofres Porque Queres (Benê, O Flautista)'
+  - 'Cara Bem Boa (Benê, O Flautista)'
+  - 'Descendo a Serra (Benê, O Flautista)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5cc15cef-dec3-49d3-aca4-93aed3dc071b
-  spotify: https://open.spotify.com/artist/60T8gH8DDda6HA4MlUgam3
-  wikipedia: https://pt.wikipedia.org/wiki/Carlos_Galhardo
+  musicbrainz: 'https://musicbrainz.org/artist/5cc15cef-dec3-49d3-aca4-93aed3dc071b'
+  spotify: 'https://open.spotify.com/artist/60T8gH8DDda6HA4MlUgam3'
+  wikipedia: 'https://pt.wikipedia.org/wiki/Carlos_Galhardo'
 image_path: 03_Resources/source_material/ArtistPortraits/carlos_galhardo.jpg
 biography_enhanced_at: '2025-12-21T01:26:11.368458'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://pt.wikipedia.org/wiki/Carlos_Galhardo
-- https://www.wikidata.org/wiki/Q112003
-- https://www.last.fm/music/Carlos+Galhardo
-- https://www.allmusic.com/artist/carlos-galhardo-mn0000795513
-- https://secondhandsongs.com/artist/104413/all
-- https://www.imdb.com/name/nm0302038/bio/
-- https://adp.library.ucsb.edu/index.php/mastertalent/detail/100646/Galhardo_Carlos
+  - 'https://pt.wikipedia.org/wiki/Carlos_Galhardo'
+  - 'https://www.wikidata.org/wiki/Q112003'
+  - 'https://www.last.fm/music/Carlos+Galhardo'
+  - 'https://www.allmusic.com/artist/carlos-galhardo-mn0000795513'
+  - 'https://secondhandsongs.com/artist/104413/all'
+  - 'https://www.imdb.com/name/nm0302038/bio/'
+  - >-
+    https://adp.library.ucsb.edu/index.php/mastertalent/detail/100646/Galhardo_Carlos
 network_extracted: true
 entry_created: '2025-12-21T01:26:11.368464'
 last_updated: '2025-12-23T08:16:06.450620'
 musicbrainz_id: 5cc15cef-dec3-49d3-aca4-93aed3dc071b
+birth_date: '1913-04-24'
+death_date: '1985-07-25'
 ---
 
 ![](carlos_galhardo.jpg)

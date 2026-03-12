@@ -3,40 +3,41 @@ biography_enhanced_at: '2026-01-01T01:10:09.900559'
 enhancement_provider: perplexity
 entry_created: '2026-01-01T01:10:09.900565'
 external_urls:
-  spotify: https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP
-  wikipedia: https://en.wikipedia.org/wiki/The_Animals
+  spotify: 'https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Animals'
 genres:
-- classic rock
+  - classic rock
 image_path: 03_Resources/source_material/ArtistPortraits/the_animals.jpg
 last_updated: '2026-01-01T01:10:09.900567'
 musical_connections:
   collaborators:
-  - Alan Price
-  - Hilton Valentine
-  - Chas Chandler
-  - John Steel
-  - Dave Rowberry
-  - Barry Jenkins
+    - Alan Price
+    - Hilton Valentine
+    - Chas Chandler
+    - John Steel
+    - Dave Rowberry
+    - Barry Jenkins
   influenced:
-  - Bob Dylan
+    - Bob Dylan
   mentors:
-  - American Blues Artists
+    - American Blues Artists
 network_extracted: true
-origin: Newcastle upon Tyne, England, United Kingdom
+origin: 'Newcastle upon Tyne, England, United Kingdom'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Animals
-- https://www.edsullivan.com/artists/the-animals/
-- https://animaltracks.uk/history-of-the-band.php
-- https://www.britannica.com/topic/The-Animals
-- https://rockhall.com/inductees/animals/
+  - 'https://en.wikipedia.org/wiki/The_Animals'
+  - 'https://www.edsullivan.com/artists/the-animals/'
+  - 'https://animaltracks.uk/history-of-the-band.php'
+  - 'https://www.britannica.com/topic/The-Animals'
+  - 'https://rockhall.com/inductees/animals/'
 spotify_data:
   followers: 2687310
   id: 3ICflSq6ZgYAIrm2CTkfVP
   popularity: 68
-  url: https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP
+  url: 'https://open.spotify.com/artist/3ICflSq6ZgYAIrm2CTkfVP'
 status: active
 title: The Animals
+artist_type: band
 ---
 
 ![](the_animals.jpg)

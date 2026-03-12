@@ -3,31 +3,33 @@ biography_enhanced_at: '2026-01-03T01:41:31.195641'
 enhancement_provider: perplexity
 entry_created: '2026-01-03T01:41:31.195655'
 external_urls:
-  spotify: https://open.spotify.com/artist/290J3L04iIembqb083Y0uK
+  spotify: 'https://open.spotify.com/artist/290J3L04iIembqb083Y0uK'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/prey_for_neighbors.jpg
 last_updated: '2026-01-03T01:41:31.195657'
 musical_connections:
   collaborators:
-  - Fantasy Non Fiction
-  - Malevitus
+    - Fantasy Non Fiction
+    - Malevitus
   influenced: []
   mentors: []
 network_extracted: true
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://antigravitymagazine.com/listing/prey-for-neighbors-with-fantasy-non-fiction-and-malevitus/
-- https://preyforneighbors.bandcamp.com
-- https://crescentcitysounds.org/artists/prey-for-neighbors
+  - >-
+    https://antigravitymagazine.com/listing/prey-for-neighbors-with-fantasy-non-fiction-and-malevitus/
+  - 'https://preyforneighbors.bandcamp.com'
+  - 'https://crescentcitysounds.org/artists/prey-for-neighbors'
 spotify_data:
   followers: 15
   id: 290J3L04iIembqb083Y0uK
   popularity: 0
-  url: https://open.spotify.com/artist/290J3L04iIembqb083Y0uK
+  url: 'https://open.spotify.com/artist/290J3L04iIembqb083Y0uK'
 status: active
 title: Prey For Neighbors
+artist_type: band
 ---
 
 ![](prey_for_neighbors.jpg)

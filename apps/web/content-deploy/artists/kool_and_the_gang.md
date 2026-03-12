@@ -2,20 +2,20 @@
 title: Kool & the Gang
 wiki_slug: kool-the-gang
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1964'
 genres:
-- disco
-- funk
+  - disco
+  - funk
 instruments:
-- keyboard
-- original
-- saxophone
-- percussion
-- bass
-- lead vocals
-- trombone
+  - keyboard
+  - original
+  - saxophone
+  - percussion
+  - bass
+  - lead vocals
+  - trombone
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/kool_and_the_gang.jpg
   caption: Kool & the Gang
@@ -36,169 +36,171 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - James "J.T." Taylor
-  - Eumir Deodato
-  - Original core members (Robert "Kool" Bell, Ronald Bell, Dennis "Dee Tee" Thomas, Robert "Spike" Mickens, Charles Smith,
-    George Brown, Woodrow "Woody" Sparrow, Ricky Westfield)
+    - James "J.T." Taylor
+    - Eumir Deodato
+    - >-
+      Original core members (Robert "Kool" Bell, Ronald Bell, Dennis "Dee Tee"
+      Thomas, Robert "Spike" Mickens, Charles Smith, George Brown, Woodrow
+      "Woody" Sparrow, Ricky Westfield)
   influenced:
-  - Hip‑hop artists (e.g., samples by multiple rap acts)
-  - Subsequent funk, R&B, and party‑anthem songwriters
-  - Self‑contained R&B/funk bands
+    - 'Hip‑hop artists (e.g., samples by multiple rap acts)'
+    - 'Subsequent funk, R&B, and party‑anthem songwriters'
+    - Self‑contained R&B/funk bands
   mentors:
-  - Gene Redd
-  - Motown/Soul Town revue tradition
-  - Jazz and hard bop artists (general influence)
+    - Gene Redd
+    - Motown/Soul Town revue tradition
+    - Jazz and hard bop artists (general influence)
 spotify_data:
   followers: 2841396
   id: 3VNITwohbvU5Wuy5PC6dsI
   popularity: 69
-  url: https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI
+  url: 'https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI'
 discography_enriched: true
 top_tracks:
-- Celebration (Celebrate!)
-- Get Down On It - Single Version (Collected)
-- Cherish - Single Version (Collected)
-- Get Down On It (Something Special)
-- Fresh (Emergency (Reissue))
-- Celebration - Single Version (Collected)
-- Ladies Night - Single Version (Collected)
-- Jungle Boogie (Wild And Peaceful)
-- Get Down On It - Single Version
-- Summer Madness (Light Of Worlds)
+  - Celebration (Celebrate!)
+  - Get Down On It - Single Version (Collected)
+  - Cherish - Single Version (Collected)
+  - Get Down On It (Something Special)
+  - Fresh (Emergency (Reissue))
+  - Celebration - Single Version (Collected)
+  - Ladies Night - Single Version (Collected)
+  - Jungle Boogie (Wild And Peaceful)
+  - Get Down On It - Single Version
+  - Summer Madness (Light Of Worlds)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2469950a-f0ca-425a-bfbc-baf55ea3afde
-  spotify: https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI
-  wikipedia: https://en.wikipedia.org/wiki/Kool_%26_the_Gang
+  musicbrainz: 'https://musicbrainz.org/artist/2469950a-f0ca-425a-bfbc-baf55ea3afde'
+  spotify: 'https://open.spotify.com/artist/3VNITwohbvU5Wuy5PC6dsI'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kool_%26_the_Gang'
 image_path: 03_Resources/source_material/ArtistPortraits/kool_and_the_gang.jpg
 biography_enhanced_at: '2025-12-07T04:58:42.392516'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Kool_%26_the_Gang
-- https://www.last.fm/music/Kool+&+the+Gang/+wiki
-- https://blackpast.org/african-american-history/kool-and-gang-1964/
-- https://www.britannica.com/topic/Kool-and-the-Gang
-- https://rockhall.com/inductees/kool-and-the-gang/
-- https://shorefire.com/roster/kool-and-the-gang/bio
+  - 'https://en.wikipedia.org/wiki/Kool_%26_the_Gang'
+  - 'https://www.last.fm/music/Kool+&+the+Gang/+wiki'
+  - 'https://blackpast.org/african-american-history/kool-and-gang-1964/'
+  - 'https://www.britannica.com/topic/Kool-and-the-Gang'
+  - 'https://rockhall.com/inductees/kool-and-the-gang/'
+  - 'https://shorefire.com/roster/kool-and-the-gang/bio'
 network_extracted: true
 entry_created: '2025-12-07T04:58:42.392527'
 last_updated: '2025-12-23T08:16:11.479560'
 members:
-- begin: '1964'
-  end: '2021'
-  instruments:
-  - keyboard
-  - original
-  - saxophone
-  mbid: 343e5377-7a0c-4252-a830-b0d495ea3888
-  name: Dennis “D.T.” Thomas
-- begin: '1964'
-  end: '2023'
-  instruments:
-  - original
-  - percussion
-  mbid: e7be80ec-af74-4e8b-b1e1-32e5fb4a5038
-  name: George Brown
-- &id001
-  begin: '1964'
-  end: ''
-  instruments:
-  - bass
-  - original
-  mbid: ecfc4ffa-eaa4-499c-8297-fcf4b6c71a11
-  name: Robert “Kool” Bell
-- begin: '1978'
-  end: '1988'
-  instruments:
-  - lead vocals
-  mbid: 621fed91-db8d-4cc7-b358-4493b045462c
-  name: James “J.T.” Taylor
-- begin: ''
-  end: ''
-  instruments:
-  - trombone
-  mbid: 817dee2e-2c07-4a31-b29d-738e9c781093
-  name: Clifford Adams
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: fad6202d-9eb5-4db4-936c-2e183a0cb5a0
-  name: Kevin Bell
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 2eba96b1-2469-410c-becd-41dca42f1d31
-  name: Ronald Bell
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0e66797d-0960-46cb-99e8-a4a78b733e87
-  name: Don Boyce
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 126eaba3-8e55-4abd-95d0-1b5cd9b91851
-  name: Shawn McQuiller
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7f70114d-77bf-4a0a-b7a3-fd92909b3cd8
-  name: Robert Spike Mickens
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9b2ced67-2906-4d09-b80d-9c93a715951a
-  name: Mohamed Moretta
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 99c8425e-c114-41e5-9932-76f304a1c466
-  name: Al Paris
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 03719ed6-5a26-43ec-8f01-79802a435500
-  name: Michael Ray
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2e5124d4-42bf-4a72-b4f1-0e44d04f8127
-  name: Claydes Smith
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e427395a-3355-46e8-ac64-15ee62f30cba
-  name: Woody Sparrow
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c8dd8f32-1b39-4526-b7d2-e99ee09c06c8
-  name: Earl Toon, Jr.
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a285d32b-8a86-47b9-ae99-5d2cb9d89cad
-  name: Ricky West
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f1a82220-1cc7-47dc-bbb4-a2aad6d8650d
-  name: Curtis “Fitz” Williams
-- begin: ''
-  end: ''
-  instruments:
-  - keyboard
-  mbid: ee82684f-dcc4-4efa-b82b-b1a37cf45896
-  name: Odeen Mays
+  - begin: '1964'
+    end: '2021'
+    instruments:
+      - keyboard
+      - original
+      - saxophone
+    mbid: 343e5377-7a0c-4252-a830-b0d495ea3888
+    name: Dennis “D.T.” Thomas
+  - begin: '1964'
+    end: '2023'
+    instruments:
+      - original
+      - percussion
+    mbid: e7be80ec-af74-4e8b-b1e1-32e5fb4a5038
+    name: George Brown
+  - &ref_0
+    begin: '1964'
+    end: ''
+    instruments:
+      - bass
+      - original
+    mbid: ecfc4ffa-eaa4-499c-8297-fcf4b6c71a11
+    name: Robert “Kool” Bell
+  - begin: '1978'
+    end: '1988'
+    instruments:
+      - lead vocals
+    mbid: 621fed91-db8d-4cc7-b358-4493b045462c
+    name: James “J.T.” Taylor
+  - begin: ''
+    end: ''
+    instruments:
+      - trombone
+    mbid: 817dee2e-2c07-4a31-b29d-738e9c781093
+    name: Clifford Adams
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: fad6202d-9eb5-4db4-936c-2e183a0cb5a0
+    name: Kevin Bell
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 2eba96b1-2469-410c-becd-41dca42f1d31
+    name: Ronald Bell
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0e66797d-0960-46cb-99e8-a4a78b733e87
+    name: Don Boyce
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 126eaba3-8e55-4abd-95d0-1b5cd9b91851
+    name: Shawn McQuiller
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7f70114d-77bf-4a0a-b7a3-fd92909b3cd8
+    name: Robert Spike Mickens
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9b2ced67-2906-4d09-b80d-9c93a715951a
+    name: Mohamed Moretta
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 99c8425e-c114-41e5-9932-76f304a1c466
+    name: Al Paris
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 03719ed6-5a26-43ec-8f01-79802a435500
+    name: Michael Ray
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2e5124d4-42bf-4a72-b4f1-0e44d04f8127
+    name: Claydes Smith
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e427395a-3355-46e8-ac64-15ee62f30cba
+    name: Woody Sparrow
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c8dd8f32-1b39-4526-b7d2-e99ee09c06c8
+    name: 'Earl Toon, Jr.'
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a285d32b-8a86-47b9-ae99-5d2cb9d89cad
+    name: Ricky West
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f1a82220-1cc7-47dc-bbb4-a2aad6d8650d
+    name: Curtis “Fitz” Williams
+  - begin: ''
+    end: ''
+    instruments:
+      - keyboard
+    mbid: ee82684f-dcc4-4efa-b82b-b1a37cf45896
+    name: Odeen Mays
 musicbrainz_id: 2469950a-f0ca-425a-bfbc-baf55ea3afde
-origin: Jersey City
+origin: 'Jersey City, New Jersey, United States'
 original_members:
-- *id001
+  - *ref_0
 tags:
-- contemporary r&b
-- disco
-- electronic
+  - contemporary r&b
+  - disco
+  - electronic
 ---
 
 ![](kool_and_the_gang.jpg)

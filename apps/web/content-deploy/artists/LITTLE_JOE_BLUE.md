@@ -5,27 +5,27 @@ schema_version: 2
 status: deceased
 aliases: []
 birth_date: '1934-09-23'
-birth_place: Vicksburg, Mississippi, United States
+birth_place: 'Vicksburg, Mississippi, United States'
 death_date: '1990-04-22'
 years_active: Late 1950s–1990
 genres:
-- blues
-- soul blues
-- classic blues
+  - blues
+  - soul blues
+  - classic blues
 instruments:
-- guitar
-- voice
+  - guitar
+  - voice
 occupation:
-- singer
+  - singer
 record_labels:
-- Checker
-- Kent
+  - Checker
+  - Kent
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Little_Joe_Blue.jpg
   caption: Little Joe Blue
   background: solo_singer
   born: '1934-09-23'
-  origin: Vicksburg, Mississippi, United States
+  origin: 'Vicksburg, Mississippi, United States'
   died: '1990-04-22'
 audio_profile:
   tempo_avg: 123.1
@@ -44,46 +44,53 @@ musical_connections:
   collaborators: []
   influenced: []
   mentors:
-  - B.B. King
+    - B.B. King
 related_artists: []
 spotify_data:
   followers: 1104
   id: 3y33b5UVyqYQeP821eODgO
   popularity: 5
-  url: https://open.spotify.com/artist/3y33b5UVyqYQeP821eODgO
+  url: 'https://open.spotify.com/artist/3y33b5UVyqYQeP821eODgO'
   verified: false
 discography_enriched: true
 albums_count: 3
 singles_count: 14
 top_tracks:
-- Joe's Soul Thang (Introducing Little Joe Blue b/w Joe’s Soul Thang)
-- Dirty Work Goin' On (Dirty work goin' on (Blues Reference))
-- You're Breaking My Heart (Dirty work goin' on (Blues Reference))
-- Dirty Work Goin' On (The Chess Story 1965-1975)
-- Been Nowhere & Don't Care (Been Nowhere & Don’t Care b/w Wasn’t Born Yesterday)
-- Doin' Some Serious Living - Part I (Doin’ Some Serious Living)
-- If You Love Me Like You Say (Loose the Funk - Rarities from the Jewel/Paula Vaults)
-- Five Long Years
-- Dirty Work Goin' On (Chess Blues)
-- Me And My Guitar (Dirty work goin' on (Blues Reference))
+  - Joe's Soul Thang (Introducing Little Joe Blue b/w Joe’s Soul Thang)
+  - Dirty Work Goin' On (Dirty work goin' on (Blues Reference))
+  - You're Breaking My Heart (Dirty work goin' on (Blues Reference))
+  - Dirty Work Goin' On (The Chess Story 1965-1975)
+  - >-
+    Been Nowhere & Don't Care (Been Nowhere & Don’t Care b/w Wasn’t Born
+    Yesterday)
+  - Doin' Some Serious Living - Part I (Doin’ Some Serious Living)
+  - >-
+    If You Love Me Like You Say (Loose the Funk - Rarities from the Jewel/Paula
+    Vaults)
+  - Five Long Years
+  - Dirty Work Goin' On (Chess Blues)
+  - Me And My Guitar (Dirty work goin' on (Blues Reference))
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/3y33b5UVyqYQeP821eODgO
-  wikipedia: https://en.wikipedia.org/wiki/Little_Joe_Blue
+  spotify: 'https://open.spotify.com/artist/3y33b5UVyqYQeP821eODgO'
+  wikipedia: 'https://en.wikipedia.org/wiki/Little_Joe_Blue'
 image_path: 03_Resources/source_material/ArtistPortraits/Little_Joe_Blue.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:04:50.584128'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Texas State Historical Association
-- WBSS Media
-- AllMusic
-- Last.fm
+  - Texas State Historical Association
+  - WBSS Media
+  - AllMusic
+  - Last.fm
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:50:44.099522
+entry_created: 2025-09-22T21:50:44.099Z
 last_updated: '2025-12-23T08:16:02.930215'
+is_active: false
+origin: 'Detroit, Michigan, United States'
+artist_type: person
 ---
 
 ![](Little_Joe_Blue.jpg)

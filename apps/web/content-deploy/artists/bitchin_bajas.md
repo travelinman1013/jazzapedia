@@ -2,14 +2,14 @@
 title: Bitchin Bajas
 wiki_slug: bitchin-bajas
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '2010'
 genres:
-- space rock
-- krautrock
-- drone
-- ambient
+  - space rock
+  - krautrock
+  - drone
+  - ambient
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bitchin_bajas.jpg
   caption: Bitchin Bajas
@@ -30,73 +30,73 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dan Quinlivan
-  - Rob Frye
-  - Bonnie “Prince” Billy (Will Oldham)
-  - Natural Information Society
-  - Olivia Wyatt
+    - Dan Quinlivan
+    - Rob Frye
+    - Bonnie “Prince” Billy (Will Oldham)
+    - Natural Information Society
+    - Olivia Wyatt
   influenced: []
   mentors:
-  - Robert Fripp
-  - Sun Ra
+    - Robert Fripp
+    - Sun Ra
 spotify_data:
   followers: 17221
   id: 57ZB0kMmW6JLQAIaCzMG7I
   popularity: 31
-  url: https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I
+  url: 'https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I'
 discography_enriched: true
 top_tracks:
-- Outer Spaceways Incorporated (Switched On Ra)
-- Clock no Clock (Clock no Clock)
-- Skylarking
-- Amorpha (Bajascillators)
-- Angels and Demons at Play (Bajas Fresh)
-- Asian Carp (Bitchin Bajas)
-- Moon Dance (Switched On Ra)
-- Quakenbrück - version
-- Floating With an Intimate Stranger (The Separatist Party)
-- Lanquidity (Switched On Ra)
+  - Outer Spaceways Incorporated (Switched On Ra)
+  - Clock no Clock (Clock no Clock)
+  - Skylarking
+  - Amorpha (Bajascillators)
+  - Angels and Demons at Play (Bajas Fresh)
+  - Asian Carp (Bitchin Bajas)
+  - Moon Dance (Switched On Ra)
+  - Quakenbrück - version
+  - Floating With an Intimate Stranger (The Separatist Party)
+  - Lanquidity (Switched On Ra)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6243b9cb-63ad-438d-88f9-50c35d3f1088
-  spotify: https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I
+  musicbrainz: 'https://musicbrainz.org/artist/6243b9cb-63ad-438d-88f9-50c35d3f1088'
+  spotify: 'https://open.spotify.com/artist/57ZB0kMmW6JLQAIaCzMG7I'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/bitchin_bajas.jpg
 biography_enhanced_at: '2025-12-19T01:39:42.316875'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://metrobmore.com/artist/bitchin-bajas/
-- https://www.ballroommarfa.org/program/bitchin-bajas/
-- https://www.arsnovaworkshop.org/programs/bitchin-bajas/
-- https://www.dragcity.com/news/2025-07-22-bajas-head-inland
-- https://www.progarchives.com/artist.asp?id=11795
-- https://www.memphisflyer.com/bitchin-bajas-at-murphys-tuesday
+  - 'https://metrobmore.com/artist/bitchin-bajas/'
+  - 'https://www.ballroommarfa.org/program/bitchin-bajas/'
+  - 'https://www.arsnovaworkshop.org/programs/bitchin-bajas/'
+  - 'https://www.dragcity.com/news/2025-07-22-bajas-head-inland'
+  - 'https://www.progarchives.com/artist.asp?id=11795'
+  - 'https://www.memphisflyer.com/bitchin-bajas-at-murphys-tuesday'
 network_extracted: true
 entry_created: '2025-12-19T01:39:42.316890'
 last_updated: '2025-12-23T08:16:05.640263'
 disambiguation: progressive electronic/ambient group
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 889452cf-b293-480d-9b1d-1959490530c7
-  name: Cooper Crain
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 989e0ecd-b3ab-4bdb-9d8f-4064afd1e6ed
-  name: Rob Frye
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8c1b6d23-7516-4cc3-9b54-41f2d1dbf29d
-  name: Dan Quinlivan
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 889452cf-b293-480d-9b1d-1959490530c7
+    name: Cooper Crain
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 989e0ecd-b3ab-4bdb-9d8f-4064afd1e6ed
+    name: Rob Frye
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8c1b6d23-7516-4cc3-9b54-41f2d1dbf29d
+    name: Dan Quinlivan
 musicbrainz_id: 6243b9cb-63ad-438d-88f9-50c35d3f1088
-origin: Chicago
+origin: 'Chicago, Illinois, United States'
 tags:
-- ambient
-- avant
-- drone
+  - ambient
+  - avant
+  - drone
 ---
 
 ![](bitchin_bajas.jpg)

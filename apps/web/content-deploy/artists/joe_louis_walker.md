@@ -5,44 +5,44 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1949-12-25'
-birth_place: San Francisco
+birth_place: 'San Francisco, California, United States'
 death_date: '2025-04-30'
 genres:
-- blues
-- modern blues
-- blues rock
-- classic blues
-- soul blues
+  - blues
+  - modern blues
+  - blues rock
+  - classic blues
+  - soul blues
 instruments:
-- eponymous
-- guitar
-- acoustic guitar
-- electric guitar
-- slide guitar
-- steel guitar
-- lead vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d5836a53-dd1c-490e-a200-d414ead1fa5b
-  name: The Joe Louis Walker Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5aa8b4de-5e87-40c1-b230-e29e415578ec
-  name: The Soul Stirrers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6d1c3698-6ef2-4f67-b626-fa16e2c69c8e
-  name: Mark Knopfler’s Guitar Heroes
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
-  mbid: 8667b0bd-48a9-41aa-9ad1-47b74bd99d5d
-  name: Joe Louis Walker and The Boss Talkers
+  - guitar
+  - acoustic guitar
+  - electric guitar
+  - slide guitar
+  - steel guitar
+  - lead vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d5836a53-dd1c-490e-a200-d414ead1fa5b
+    name: The Joe Louis Walker Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5aa8b4de-5e87-40c1-b230-e29e415578ec
+    name: The Soul Stirrers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6d1c3698-6ef2-4f67-b626-fa16e2c69c8e
+    name: Mark Knopfler’s Guitar Heroes
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 8667b0bd-48a9-41aa-9ad1-47b74bd99d5d
+    name: Joe Louis Walker and The Boss Talkers
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/joe_louis_walker.jpg
   caption: Joe Louis Walker
@@ -57,7 +57,7 @@ audio_profile:
   danceability_avg: 0.623
   acousticness_avg: 0.284
   instrumentalness_avg: 0.1
-  loudness_avg: -8.0
+  loudness_avg: -8
   speechiness_avg: 0.066
   liveness_avg: 0.226
   track_count: 52
@@ -65,64 +65,67 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - B.B. King
-  - James Cotton
-  - Branford Marsalis
-  - Tower of Power horn section
-  - Bonnie Raitt
-  - Taj Mahal
-  - Ike Turner
-  - Steve Cropper
-  - Buddy Guy
-  - Clarence “Gatemouth” Brown
-  - Duke Robillard
-  - Kevin Eubanks
-  - Bruce Katz and Giles Robson
+    - B.B. King
+    - James Cotton
+    - Branford Marsalis
+    - Tower of Power horn section
+    - Bonnie Raitt
+    - Taj Mahal
+    - Ike Turner
+    - Steve Cropper
+    - Buddy Guy
+    - Clarence “Gatemouth” Brown
+    - Duke Robillard
+    - Kevin Eubanks
+    - Bruce Katz and Giles Robson
   influenced:
-  - Younger modern blues and roots artists (e.g., contemporary blues-rock bands cited alongside him by critics)
+    - >-
+      Younger modern blues and roots artists (e.g., contemporary blues-rock
+      bands cited alongside him by critics)
   mentors:
-  - T-Bone Walker
-  - B.B. King
-  - Meade Lux Lewis, Amos Milburn, Pete Johnson
-  - Mike Bloomfield
+    - T-Bone Walker
+    - B.B. King
+    - 'Meade Lux Lewis, Amos Milburn, Pete Johnson'
+    - Mike Bloomfield
 spotify_data:
   followers: 45952
   id: 5MPJKwuEzyWgfueKrogllD
   popularity: 31
-  url: https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD
+  url: 'https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD'
 discography_enriched: true
 top_tracks:
-- Too Drunk To Drive Drunk (Hellfire)
-- Old Time Used to Be (Blues Comin' On)
-- Stick A Fork In Me (Hornet's Nest)
-- I Won't Do That (Hellfire)
-- Don't Walk Out That Door
-- Waking Up the Dead (Weight of the World)
-- Going To Canada (J.L.W.)
-- Don't Walk Out That Door (Weight of the World)
-- Pickin' The Blues (Playin' Dirty)
-- 'Brother, Go Ahead and Take Her: Reimagined (Cold is the Night: Reimagined)'
+  - Too Drunk To Drive Drunk (Hellfire)
+  - Old Time Used to Be (Blues Comin' On)
+  - Stick A Fork In Me (Hornet's Nest)
+  - I Won't Do That (Hellfire)
+  - Don't Walk Out That Door
+  - Waking Up the Dead (Weight of the World)
+  - Going To Canada (J.L.W.)
+  - Don't Walk Out That Door (Weight of the World)
+  - Pickin' The Blues (Playin' Dirty)
+  - 'Brother, Go Ahead and Take Her: Reimagined (Cold is the Night: Reimagined)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7c83dbe6-097d-4d4c-9353-9f772a4f756c
-  spotify: https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD
-  wikipedia: https://en.wikipedia.org/wiki/Joe_Louis_Walker
+  musicbrainz: 'https://musicbrainz.org/artist/7c83dbe6-097d-4d4c-9353-9f772a4f756c'
+  spotify: 'https://open.spotify.com/artist/5MPJKwuEzyWgfueKrogllD'
+  wikipedia: 'https://en.wikipedia.org/wiki/Joe_Louis_Walker'
 image_path: 03_Resources/source_material/ArtistPortraits/joe_louis_walker.jpg
 biography_enhanced_at: '2025-12-13T11:10:54.209604'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Joe_Louis_Walker
-- https://www.joelouiswalker.com/bio
-- https://www.unitedstatesartists.org/artists/joe-louis-walker
+  - 'https://en.wikipedia.org/wiki/Joe_Louis_Walker'
+  - 'https://www.joelouiswalker.com/bio'
+  - 'https://www.unitedstatesartists.org/artists/joe-louis-walker'
 network_extracted: true
 entry_created: '2025-12-13T11:10:54.209621'
 last_updated: '2025-12-23T08:16:10.618105'
 gender: Male
 musicbrainz_id: 7c83dbe6-097d-4d4c-9353-9f772a4f756c
 tags:
-- blues
-- electric blues
-- gospel
+  - blues
+  - electric blues
+  - gospel
+is_active: false
 ---
 
 ![](joe_louis_walker.jpg)

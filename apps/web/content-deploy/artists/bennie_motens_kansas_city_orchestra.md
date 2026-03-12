@@ -1,14 +1,15 @@
 ---
-title: BENNIE MOTEN'S KANSAS CITY ORCHESTRA
+title: Bennie Moten's Kansas City Orchestra
 wiki_slug: bennie-motens-kansas-city-orchestra
 schema_version: 2
 status: active
 genres:
-- swing music
-- ragtime
-- big band
+  - swing music
+  - ragtime
+  - big band
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/bennie_motens_kansas_city_orchestra.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/bennie_motens_kansas_city_orchestra.jpg
   caption: BENNIE MOTEN'S KANSAS CITY ORCHESTRA
   background: solo_singer
 audio_profile:
@@ -26,50 +27,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Count Basie
-  - Walter Page
-  - Thamon Hayes
-  - Lamar Wright
+    - Count Basie
+    - Walter Page
+    - Thamon Hayes
+    - Lamar Wright
   influenced:
-  - Count Basie
-  - Kansas City jazz musicians
-  - Swing era big bands
+    - Count Basie
+    - Kansas City jazz musicians
+    - Swing era big bands
   mentors:
-  - Scott Joplin's former students
+    - Scott Joplin's former students
 spotify_data:
   followers: 3370
   id: 3xAhVQy6rxezeQvrUVrN9k
   popularity: 14
-  url: https://open.spotify.com/artist/3xAhVQy6rxezeQvrUVrN9k
+  url: 'https://open.spotify.com/artist/3xAhVQy6rxezeQvrUVrN9k'
 discography_enriched: true
 top_tracks:
-- Lafayette (Milenberg Joys (Original Aufnahmen 1930 - 1932))
-- South 2
-- Moten's Stomp (Roaring 20's Revue Vol. 1)
-- 'South (Jazz Mad Vol. 2: Hot Dance, Jazz and Instrumental Blues 1926-1930)'
-- Moten Swing
-- Kansas City Shuffle 2
-- Rumba Negro (Spanish Stomp) (Rumba Negro (Spanish Stomp) [Original Aufnahmen 1929 - 1930])
-- Kansas City Shuffle (Justrite)
-- Moten's Stomp
-- 'Slow Motion (Really the Blues?: A Blues History (1893-1959), Vol. 1 (1893-1929))'
+  - Lafayette (Milenberg Joys (Original Aufnahmen 1930 - 1932))
+  - South 2
+  - Moten's Stomp (Roaring 20's Revue Vol. 1)
+  - 'South (Jazz Mad Vol. 2: Hot Dance, Jazz and Instrumental Blues 1926-1930)'
+  - Moten Swing
+  - Kansas City Shuffle 2
+  - >-
+    Rumba Negro (Spanish Stomp) (Rumba Negro (Spanish Stomp) [Original Aufnahmen
+    1929 - 1930])
+  - Kansas City Shuffle (Justrite)
+  - Moten's Stomp
+  - >-
+    Slow Motion (Really the Blues?: A Blues History (1893-1959), Vol. 1
+    (1893-1929))
 external_urls:
-  spotify: https://open.spotify.com/artist/3xAhVQy6rxezeQvrUVrN9k
-  wikipedia: https://en.wikipedia.org/wiki/Bennie_Moten
-image_path: 03_Resources/source_material/ArtistPortraits/bennie_motens_kansas_city_orchestra.jpg
+  spotify: 'https://open.spotify.com/artist/3xAhVQy6rxezeQvrUVrN9k'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bennie_Moten'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/bennie_motens_kansas_city_orchestra.jpg
 biography_enhanced_at: '2025-10-23T07:18:50.925705'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://pendergastkc.org/articles/bennie-moten
-- https://syncopatedtimes.com/bennie-moten/
-- https://libweb.umkc.edu/spec-col/local627/text/bands/moten.htm
-- https://www.britannica.com/biography/Bennie-Moten
-- https://en.wikipedia.org/wiki/Bennie_Moten
+  - 'https://pendergastkc.org/articles/bennie-moten'
+  - 'https://syncopatedtimes.com/bennie-moten/'
+  - 'https://libweb.umkc.edu/spec-col/local627/text/bands/moten.htm'
+  - 'https://www.britannica.com/biography/Bennie-Moten'
+  - 'https://en.wikipedia.org/wiki/Bennie_Moten'
 network_extracted: true
 entry_created: '2025-10-23T07:18:50.925716'
 last_updated: '2025-12-23T08:16:05.282788'
-origin: Kansas City, Missouri, United States
+origin: 'Kansas City, Missouri, United States'
+birth_place: 'Kansas City, Missouri, United States'
+artist_type: band
 ---
 
 ![](bennie_motens_kansas_city_orchestra.jpg)

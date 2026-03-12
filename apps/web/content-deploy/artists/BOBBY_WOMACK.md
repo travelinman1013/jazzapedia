@@ -1,20 +1,20 @@
 ---
-title: BOBBY WOMACK
+title: Bobby Womack
 wiki_slug: bobby-womack
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1944-03-04'
-birth_place: Cleveland, Ohio, United States
+birth_place: 'Cleveland, Ohio, United States'
 death_date: '2014-06-27'
 genres:
-- soul
+  - soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/BOBBY_WOMACK.jpg
   caption: BOBBY WOMACK
   background: solo_singer
   born: '1944-03-04'
-  origin: Cleveland, Ohio, United States
+  origin: 'Cleveland, Ohio, United States'
   died: '2014-06-27'
 audio_profile:
   tempo_avg: 112.8
@@ -31,50 +31,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Womack Brothers / The Valentinos
-  - Aretha Franklin
-  - Wilson Pickett
-  - Janis Joplin
-  - Sly and the Family Stone
-  - Damon Albarn / Gorillaz
-  - Patti LaBelle
+    - The Womack Brothers / The Valentinos
+    - Aretha Franklin
+    - Wilson Pickett
+    - Janis Joplin
+    - Sly and the Family Stone
+    - Damon Albarn / Gorillaz
+    - Patti LaBelle
   influenced:
-  - The Rolling Stones
-  - Ron Wood
-  - Contemporary R&B and hip-hop artists
+    - The Rolling Stones
+    - Ron Wood
+    - Contemporary R&B and hip-hop artists
   mentors:
-  - Sam Cooke
+    - Sam Cooke
 spotify_data:
   followers: 759309
   id: 0vqkz1b2qBkoYrGMj2CUWq
   popularity: 56
-  url: https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq
+  url: 'https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq'
 discography_enriched: true
 top_tracks:
-- Stylo (feat. Mos Def and Bobby Womack) (Plastic Beach)
-- California Dreamin' (Fly Me To The Moon)
-- Across 110th Street
-- Fly Me To The Moon (In Other Words) (Fly Me To The Moon)
-- If You Think You're Lonely Now (The Poet)
-- Cloud of Unknowing (feat. Bobby Womack and Sinfonia ViVA) (Plastic Beach)
-- Across 110th Street
-- Woman's Gotta Have It
-- Fly Me To The Moon (In Other Words)
-- California Dreamin'
+  - Stylo (feat. Mos Def and Bobby Womack) (Plastic Beach)
+  - California Dreamin' (Fly Me To The Moon)
+  - Across 110th Street
+  - Fly Me To The Moon (In Other Words) (Fly Me To The Moon)
+  - If You Think You're Lonely Now (The Poet)
+  - Cloud of Unknowing (feat. Bobby Womack and Sinfonia ViVA) (Plastic Beach)
+  - Across 110th Street
+  - Woman's Gotta Have It
+  - Fly Me To The Moon (In Other Words)
+  - California Dreamin'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/48e78462-2f0b-4a1a-9fa4-0585e2991e80
-  spotify: https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq
-  wikipedia: https://en.wikipedia.org/wiki/Bobby_Womack
+  musicbrainz: 'https://musicbrainz.org/artist/48e78462-2f0b-4a1a-9fa4-0585e2991e80'
+  spotify: 'https://open.spotify.com/artist/0vqkz1b2qBkoYrGMj2CUWq'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bobby_Womack'
 image_path: 03_Resources/source_material/ArtistPortraits/BOBBY_WOMACK.jpg
 biography_enhanced_at: '2025-10-19T11:40:19.884844'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.imdb.com/name/nm0938810/bio/
-- https://en.wikipedia.org/wiki/Bobby_Womack
-- https://www.britannica.com/biography/Bobby-Womack
-- https://blackpast.org/african-american-history/womack-bobby-1944-2014/
-- https://magazine.waxpoetics.com/article/bobby-womack-sewn-up/
+  - 'https://www.imdb.com/name/nm0938810/bio/'
+  - 'https://en.wikipedia.org/wiki/Bobby_Womack'
+  - 'https://www.britannica.com/biography/Bobby-Womack'
+  - 'https://blackpast.org/african-american-history/womack-bobby-1944-2014/'
+  - 'https://magazine.waxpoetics.com/article/bobby-womack-sewn-up/'
 network_extracted: true
 entry_created: '2025-10-19T11:40:19.884853'
 last_updated: '2025-12-23T08:16:01.124329'
@@ -82,10 +82,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:01:07.115821'
 musicbrainz_id: 48e78462-2f0b-4a1a-9fa4-0585e2991e80
 tags:
-- 2008 universal fire victim
-- funk
-- r&b
-
+  - 2008 universal fire victim
+  - funk
+  - r&b
+is_active: false
 ---
 
 ![](BOBBY_WOMACK.jpg)

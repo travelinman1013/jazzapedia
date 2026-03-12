@@ -1,33 +1,36 @@
 ---
 biography_enhanced_at: '2025-12-26T01:17:50.822395'
-birth_place: United States
+birth_place: 'United States, United States, United States'
 enhancement_provider: perplexity
 entry_created: '2025-12-26T01:17:50.822410'
 external_urls:
-  spotify: https://open.spotify.com/artist/0bSQ1vf1etEHdxnhwxd1pS
+  spotify: 'https://open.spotify.com/artist/0bSQ1vf1etEHdxnhwxd1pS'
   wikipedia: ''
 genres:
-- ragtime
-image_path: 03_Resources/source_material/ArtistPortraits/savion_glover_jim_cullum_jazz_band.jpg
+  - ragtime
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/savion_glover_jim_cullum_jazz_band.jpg
 last_updated: '2025-12-26T01:17:50.822411'
 musical_connections:
   collaborators:
-  - Jim Cullum Jazz Band
+    - Jim Cullum Jazz Band
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://oac.cdlib.org/findaid/ark:/13030/c8222vcv_ref1189[1]
-- https://music.apple.com/us/artist/savion-glover/579964[2]
-- https://en.wikipedia.org/wiki/Riverwalk_Jazz[3]
+  - 'https://oac.cdlib.org/findaid/ark:/13030/c8222vcv_ref1189[1]'
+  - 'https://music.apple.com/us/artist/savion-glover/579964[2]'
+  - 'https://en.wikipedia.org/wiki/Riverwalk_Jazz[3]'
 spotify_data:
   followers: 1067
   id: 0bSQ1vf1etEHdxnhwxd1pS
   popularity: 3
-  url: https://open.spotify.com/artist/0bSQ1vf1etEHdxnhwxd1pS
+  url: 'https://open.spotify.com/artist/0bSQ1vf1etEHdxnhwxd1pS'
 status: active
-title: Savion Glover, Jim Cullum Jazz Band
+title: 'Savion Glover, Jim Cullum Jazz Band'
+birth_date: '1973-11-19'
+artist_type: person
 ---
 
 ![](savion_glover_jim_cullum_jazz_band.jpg)

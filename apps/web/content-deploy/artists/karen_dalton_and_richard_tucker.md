@@ -1,16 +1,21 @@
 ---
-title: karen dalton & richard tucker
+title: Karen Dalton & Richard Tucker
 wiki_slug: karen-dalton-richard-tucker
 schema_version: 2
 status: active
-birth_place: Bonham, Texas, United States (Karen Dalton); New York City, New York, United States (Greenwich Village folk scene origin)
+birth_place: >-
+  Bonham, Texas, United States (Karen Dalton); New York City, New York, United
+  States (Greenwich Village folk scene origin)
 genres:
-- folk
+  - folk
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/karen_dalton_and_richard_tucker.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/karen_dalton_and_richard_tucker.jpg
   caption: karen dalton & richard tucker
   background: solo_singer
-  origin: Bonham, Texas, United States (Karen Dalton); New York City, New York, United States (Greenwich Village folk scene origin)
+  origin: >-
+    Bonham, Texas, United States (Karen Dalton); New York City, New York, United
+    States (Greenwich Village folk scene origin)
 audio_profile:
   tempo_avg: 112.3
   energy_avg: 0.299
@@ -26,48 +31,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Richard Tucker
-  - Tim Hardin
-  - Fred Neil
+    - Richard Tucker
+    - Tim Hardin
+    - Fred Neil
   influenced:
-  - Bob Dylan
-  - Lucinda Williams
-  - Nick Cave
+    - Bob Dylan
+    - Lucinda Williams
+    - Nick Cave
   mentors:
-  - Tim Hardin
+    - Tim Hardin
 spotify_data:
   followers: 160466
   id: 5O5V29YvM6AzAQ0rNt59fy
   popularity: 42
-  url: https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy
+  url: 'https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy'
 discography_enriched: true
 top_tracks:
-- Something On Your Mind (In My Own Time)
-- Little Bit Of Rain (It's So Hard To Tell Who's Going To Love You The Best)
-- It Hurts Me Too (It's So Hard To Tell Who's Going To Love You The Best)
-- Reason to Believe (1966)
-- Are You Leaving For The Country (In My Own Time)
-- Something on Your Mind (In My Own Time)
-- Sweet Substitute (It's So Hard To Tell Who's Going To Love You The Best)
-- Take Me (In My Own Time)
-- Something on Your Mind (In My Own Time)
-- I Love You More Than Words Can Say (It's So Hard To Tell Who's Going To Love You The Best)
+  - Something On Your Mind (In My Own Time)
+  - Little Bit Of Rain (It's So Hard To Tell Who's Going To Love You The Best)
+  - It Hurts Me Too (It's So Hard To Tell Who's Going To Love You The Best)
+  - Reason to Believe (1966)
+  - Are You Leaving For The Country (In My Own Time)
+  - Something on Your Mind (In My Own Time)
+  - Sweet Substitute (It's So Hard To Tell Who's Going To Love You The Best)
+  - Take Me (In My Own Time)
+  - Something on Your Mind (In My Own Time)
+  - >-
+    I Love You More Than Words Can Say (It's So Hard To Tell Who's Going To Love
+    You The Best)
 external_urls:
-  spotify: https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy
-  wikipedia: https://en.wikipedia.org/wiki/Karen_Dalton
-image_path: 03_Resources/source_material/ArtistPortraits/karen_dalton_and_richard_tucker.jpg
+  spotify: 'https://open.spotify.com/artist/5O5V29YvM6AzAQ0rNt59fy'
+  wikipedia: 'https://en.wikipedia.org/wiki/Karen_Dalton'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/karen_dalton_and_richard_tucker.jpg
 biography_enhanced_at: '2025-11-08T22:05:53.935425'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Karen_Dalton
-- https://daily.bandcamp.com/features/richard-cam-bert-somewhere-in-the-stars-interview
-- https://theboot.com/remembering-karen-dalton/
-- https://buzzyjackson.substack.com/p/karen-dalton
+  - 'https://en.wikipedia.org/wiki/Karen_Dalton'
+  - >-
+    https://daily.bandcamp.com/features/richard-cam-bert-somewhere-in-the-stars-interview
+  - 'https://theboot.com/remembering-karen-dalton/'
+  - 'https://buzzyjackson.substack.com/p/karen-dalton'
 network_extracted: true
 entry_created: '2025-11-08T22:05:53.935441'
 last_updated: '2025-12-23T08:16:11.179119'
-
+artist_type: band
 ---
 
 ![](karen_dalton_and_richard_tucker.jpg)

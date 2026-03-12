@@ -5,23 +5,23 @@ schema_version: 2
 status: active
 aliases: []
 birth_date: '1973-06-10'
-birth_place: Lakeland
+birth_place: 'Lakeland, Florida, United States'
 years_active: 1994–present
 genres: []
 instruments:
-- voice
+  - voice
 occupation:
-- singer
-- actor
-- singer-songwriter
-- composer
-- model
+  - singer
+  - actor
+  - singer-songwriter
+  - composer
+  - model
 record_labels:
-- Bad Boy Records
-- Capitol Records
+  - Bad Boy Records
+  - Capitol Records
 spouse:
-- The Notorious B.I.G.
-- Stevie J
+  - The Notorious B.I.G.
+  - Stevie J
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/The_Prolifics.jpg
   caption: The Prolifics
@@ -50,37 +50,38 @@ spotify_data:
   followers: 461
   id: 06xhroYsj0EgmhYpUmIjer
   popularity: 4
-  url: https://open.spotify.com/artist/06xhroYsj0EgmhYpUmIjer
+  url: 'https://open.spotify.com/artist/06xhroYsj0EgmhYpUmIjer'
   verified: false
 discography_enriched: true
 albums_count: 1
 singles_count: 2
 top_tracks:
-- Keep On Raining Rain (Magic)
-- If I Could Fly (Magic)
-- Boy Child - Felix Dickinson Discomix (Boy Child)
-- Oh How I Love Those Songs (Oh How I love Those Songs)
-- You Got To Me (Boy Child)
-- Back From The Bushes (Senator Jones' Funky Funky New Orleans)
-- Guts (New Orleans Rhythm & Blues - Hep Me Records Vol. 2)
-- Boy Child (Boy Child)
-- Who's Loving You? (New Orleans Rhythm & Blues - Hep Me Records Vol. 3)
-- A Place Called Home - Stereo (The AVCO Singles)
+  - Keep On Raining Rain (Magic)
+  - If I Could Fly (Magic)
+  - Boy Child - Felix Dickinson Discomix (Boy Child)
+  - Oh How I Love Those Songs (Oh How I love Those Songs)
+  - You Got To Me (Boy Child)
+  - Back From The Bushes (Senator Jones' Funky Funky New Orleans)
+  - Guts (New Orleans Rhythm & Blues - Hep Me Records Vol. 2)
+  - Boy Child (Boy Child)
+  - Who's Loving You? (New Orleans Rhythm & Blues - Hep Me Records Vol. 3)
+  - A Place Called Home - Stereo (The AVCO Singles)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/06xhroYsj0EgmhYpUmIjer
-  wikipedia: https://en.wikipedia.org/wiki/Faith_Evans
+  spotify: 'https://open.spotify.com/artist/06xhroYsj0EgmhYpUmIjer'
+  wikipedia: 'https://en.wikipedia.org/wiki/Faith_Evans'
 image_path: 03_Resources/source_material/ArtistPortraits/The_Prolifics.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:42:25.966725'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Search results did not contain information about 'The Prolifics'
+  - Search results did not contain information about 'The Prolifics'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 15:22:54.981857
+entry_created: 2025-09-18T15:22:54.981Z
 last_updated: '2025-12-23T08:16:04.107970'
+artist_type: band
 ---
 
 ![](The_Prolifics.jpg)

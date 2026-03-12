@@ -3,38 +3,41 @@ biography_enhanced_at: '2026-01-05T07:56:40.437496'
 enhancement_provider: perplexity
 entry_created: '2026-01-05T07:56:40.437503'
 external_urls:
-  spotify: https://open.spotify.com/artist/5I6MzhNEMk27cZsCqGAIYo
+  spotify: 'https://open.spotify.com/artist/5I6MzhNEMk27cZsCqGAIYo'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/the_youngbloods.jpg
 last_updated: '2026-01-05T07:56:40.437503'
 musical_connections:
   collaborators:
-  - Jerry Corbitt
-  - Lowell 'Banana' Levinger
-  - Joe Bauer
-  - Charlie Daniels
-  - Michael Kane
+    - Jerry Corbitt
+    - Lowell 'Banana' Levinger
+    - Joe Bauer
+    - Charlie Daniels
+    - Michael Kane
   influenced: []
   mentors:
-  - Bobby Scott
+    - Bobby Scott
 network_extracted: true
-origin: New York, New York, United States
+origin: 'New York, New York, United States'
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/The+Youngbloods/+wiki
-- https://dereksmusicblog.com/2019/03/16/the-rise-and-fall-of-the-youngbloods/
-- https://jambands.com/columns/mike-gruenberg-in-my-life/2002/01/22/the-youngbloods/
-- https://bestclassicbands.com/jesse-colin-young-youngbloods-interview-2-23-19/
-- https://www.classicbands.com/youngbloods.html
-- https://www.therealeasyed.com/the-youngbloods-earth-music-a-1967-flashback/
+  - 'https://www.last.fm/music/The+Youngbloods/+wiki'
+  - 'https://dereksmusicblog.com/2019/03/16/the-rise-and-fall-of-the-youngbloods/'
+  - >-
+    https://jambands.com/columns/mike-gruenberg-in-my-life/2002/01/22/the-youngbloods/
+  - >-
+    https://bestclassicbands.com/jesse-colin-young-youngbloods-interview-2-23-19/
+  - 'https://www.classicbands.com/youngbloods.html'
+  - 'https://www.therealeasyed.com/the-youngbloods-earth-music-a-1967-flashback/'
 spotify_data:
   followers: 169426
   id: 5I6MzhNEMk27cZsCqGAIYo
   popularity: 41
-  url: https://open.spotify.com/artist/5I6MzhNEMk27cZsCqGAIYo
+  url: 'https://open.spotify.com/artist/5I6MzhNEMk27cZsCqGAIYo'
 status: active
 title: The Youngbloods
+artist_type: person
 ---
 
 ![](the_youngbloods.jpg)

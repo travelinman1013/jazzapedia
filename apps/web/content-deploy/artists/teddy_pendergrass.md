@@ -1,31 +1,31 @@
 ---
-title: TEDDY PENDERGRASS
+title: Teddy Pendergrass
 wiki_slug: teddy-pendergrass
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1950-03-26'
-birth_place: Philadelphia
+birth_place: 'Kingstree, South Carolina, United States'
 death_date: '2010-01-13'
 genres:
-- philly soul
-- quiet storm
-- soul
-- smooth soul
+  - philly soul
+  - quiet storm
+  - soul
+  - smooth soul
 instruments:
-- background vocals
-- lead vocals
+  - background vocals
+  - lead vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b93d8790-a18b-4c1b-80bf-2a53102ae4d5
-  name: Philadelphia International All Stars
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4ef24a03-45e8-40b3-b780-955bec848555
-  name: Harold Melvin & The Blue Notes
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b93d8790-a18b-4c1b-80bf-2a53102ae4d5
+    name: Philadelphia International All Stars
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4ef24a03-45e8-40b3-b780-955bec848555
+    name: Harold Melvin & The Blue Notes
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/teddy_pendergrass.jpg
   caption: TEDDY PENDERGRASS
@@ -48,55 +48,68 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Harold Melvin
-  - Whitney Houston
-  - Stephanie Mills
+    - Harold Melvin
+    - Whitney Houston
+    - Stephanie Mills
   influenced:
-  - Luther Vandross
+    - Luther Vandross
   mentors:
-  - Kenny Gamble & Leon Huff
+    - Kenny Gamble & Leon Huff
 spotify_data:
   followers: 1656554
   id: 68kACMx6A3D2BYiO056MeQ
   popularity: 57
-  url: https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ
+  url: 'https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ'
 discography_enriched: true
 top_tracks:
-- Love T.K.O. (TP (Expanded Edition))
-- If You Don't Know Me by Now (feat. Teddy Pendergrass) (Harold Melvin & The Blue Notes (feat. Teddy Pendergrass))
-- The Love I Lost (feat. Teddy Pendergrass) (Black & Blue (Expanded Edition) (feat. Teddy Pendergrass))
-- Wake Up Everybody (feat. Teddy Pendergrass) (Wake Up Everybody (feat. Teddy Pendergrass))
-- Don't Leave Me This Way (feat. Teddy Pendergrass) (Wake Up Everybody (feat. Teddy Pendergrass))
-- Close the Door (Life Is A Song Worth Singing (Expanded Edition))
-- When Somebody Loves You Back (Life Is A Song Worth Singing (Expanded Edition))
-- Turn off the Lights (Teddy (Expanded Edition))
-- I Miss You (feat. Teddy Pendergrass) (Harold Melvin & The Blue Notes (feat. Teddy Pendergrass))
-- Can We Be Lovers (Joy)
+  - Love T.K.O. (TP (Expanded Edition))
+  - >-
+    If You Don't Know Me by Now (feat. Teddy Pendergrass) (Harold Melvin & The
+    Blue Notes (feat. Teddy Pendergrass))
+  - >-
+    The Love I Lost (feat. Teddy Pendergrass) (Black & Blue (Expanded Edition)
+    (feat. Teddy Pendergrass))
+  - >-
+    Wake Up Everybody (feat. Teddy Pendergrass) (Wake Up Everybody (feat. Teddy
+    Pendergrass))
+  - >-
+    Don't Leave Me This Way (feat. Teddy Pendergrass) (Wake Up Everybody (feat.
+    Teddy Pendergrass))
+  - Close the Door (Life Is A Song Worth Singing (Expanded Edition))
+  - >-
+    When Somebody Loves You Back (Life Is A Song Worth Singing (Expanded
+    Edition))
+  - Turn off the Lights (Teddy (Expanded Edition))
+  - >-
+    I Miss You (feat. Teddy Pendergrass) (Harold Melvin & The Blue Notes (feat.
+    Teddy Pendergrass))
+  - Can We Be Lovers (Joy)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/293029f7-ac9e-4a8b-bb50-67935b373c47
-  spotify: https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ
-  wikipedia: https://en.wikipedia.org/wiki/Teddy_Pendergrass
+  musicbrainz: 'https://musicbrainz.org/artist/293029f7-ac9e-4a8b-bb50-67935b373c47'
+  spotify: 'https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Teddy_Pendergrass'
 image_path: 03_Resources/source_material/ArtistPortraits/teddy_pendergrass.jpg
 biography_enhanced_at: '2025-11-14T10:39:45.658776'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.britannica.com/biography/Teddy-Pendergrass
-- https://en.wikipedia.org/wiki/Teddy_Pendergrass
-- https://aaregistry.org/story/teddy-pendergrass-deep-and-sexy/
-- https://wers.org/vault-of-soul-teddy-pendergrass/
-- https://teddyandjoanpendergrassfoundation.com/teddy-pendergrass-biography/
-- https://teddypendergrassofficial.com/bio/
+  - 'https://www.britannica.com/biography/Teddy-Pendergrass'
+  - 'https://en.wikipedia.org/wiki/Teddy_Pendergrass'
+  - 'https://aaregistry.org/story/teddy-pendergrass-deep-and-sexy/'
+  - 'https://wers.org/vault-of-soul-teddy-pendergrass/'
+  - 'https://teddyandjoanpendergrassfoundation.com/teddy-pendergrass-biography/'
+  - 'https://teddypendergrassofficial.com/bio/'
 network_extracted: true
 entry_created: '2025-11-14T10:39:45.658786'
 last_updated: '2025-12-23T08:16:16.433332'
 gender: Male
 musicbrainz_id: 293029f7-ac9e-4a8b-bb50-67935b373c47
 tags:
-- classic pop and rock
-- quiet storm
-- r&b
-
+  - classic pop and rock
+  - quiet storm
+  - r&b
+is_active: false
+origin: 'North Philadelphia, Pennsylvania, United States'
 ---
 
 ![](teddy_pendergrass.jpg)

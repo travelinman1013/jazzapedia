@@ -2,15 +2,15 @@
 title: The Replacements
 wiki_slug: the-replacements
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1979'
 genres:
-- power pop
-- jangle pop
+  - power pop
+  - jangle pop
 instruments:
-- drums (drum set)
-- additional
+  - drums (drum set)
+  - additional
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_replacements.jpg
   caption: The Replacements
@@ -31,101 +31,102 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Paul Westerberg
-  - Bob Stinson
-  - Tommy Stinson
-  - Chris Mars
-  - Slim Dunlap
-  - Steve Foley
+    - Paul Westerberg
+    - Bob Stinson
+    - Tommy Stinson
+    - Chris Mars
+    - Slim Dunlap
+    - Steve Foley
   influenced:
-  - Nirvana
-  - Goo Goo Dolls
-  - The Hold Steady
-  - Green Day
+    - Nirvana
+    - Goo Goo Dolls
+    - The Hold Steady
+    - Green Day
   mentors:
-  - The Rolling Stones
-  - Big Star
-  - The Ramones
+    - The Rolling Stones
+    - Big Star
+    - The Ramones
 spotify_data:
   followers: 323172
   id: 4WPY0N74T3KUja57xMQTZ3
   popularity: 50
-  url: https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3
+  url: 'https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3'
 discography_enriched: true
 top_tracks:
-- Swingin Party - 2008 Remaster (Tim (Expanded))
-- Can't Hardly Wait - 2008 Remaster (Pleased to Meet Me (Expanded))
-- I Will Dare (Let It Be (Expanded))
-- Bastards of Young - 2008 Remaster (Tim (Expanded))
-- Alex Chilton - 2008 Remaster (Pleased to Meet Me (Expanded))
-- Androgynous (Let It Be (Expanded))
-- I'll Be You - 2008 Remaster (Don't Tell a Soul (Expanded))
-- Unsatisfied (Let It Be (Expanded))
-- Left of the Dial - 2008 Remaster (Tim (Expanded))
-- Here Comes a Regular - 2008 Remaster (Tim (Expanded))
+  - Swingin Party - 2008 Remaster (Tim (Expanded))
+  - Can't Hardly Wait - 2008 Remaster (Pleased to Meet Me (Expanded))
+  - I Will Dare (Let It Be (Expanded))
+  - Bastards of Young - 2008 Remaster (Tim (Expanded))
+  - Alex Chilton - 2008 Remaster (Pleased to Meet Me (Expanded))
+  - Androgynous (Let It Be (Expanded))
+  - I'll Be You - 2008 Remaster (Don't Tell a Soul (Expanded))
+  - Unsatisfied (Let It Be (Expanded))
+  - Left of the Dial - 2008 Remaster (Tim (Expanded))
+  - Here Comes a Regular - 2008 Remaster (Tim (Expanded))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/dc0d05ce-2f47-4962-b4fa-8631a0a51987
-  spotify: https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3
-  wikipedia: https://en.wikipedia.org/wiki/The_Replacements_(band)
+  musicbrainz: 'https://musicbrainz.org/artist/dc0d05ce-2f47-4962-b4fa-8631a0a51987'
+  spotify: 'https://open.spotify.com/artist/4WPY0N74T3KUja57xMQTZ3'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Replacements_(band)'
 image_path: 03_Resources/source_material/ArtistPortraits/the_replacements.jpg
 biography_enhanced_at: '2025-10-26T12:35:57.214672'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Replacements_(band)
-- https://www.twintonedigital.com/mats
-- https://www.britannica.com/topic/The-Replacements
-- https://www.thecurrent.org/feature/2013/08/20/the-currents-guide-to-the-replacements
+  - 'https://en.wikipedia.org/wiki/The_Replacements_(band)'
+  - 'https://www.twintonedigital.com/mats'
+  - 'https://www.britannica.com/topic/The-Replacements'
+  - >-
+    https://www.thecurrent.org/feature/2013/08/20/the-currents-guide-to-the-replacements
 network_extracted: true
 entry_created: '2025-10-26T12:35:57.214682'
 last_updated: '2025-12-23T08:16:17.105477'
 members:
-- begin: '1979'
-  end: '1990'
-  instruments:
-  - drums (drum set)
-  mbid: b0fefe3c-b393-4498-9b33-255b02d75716
-  name: Chris Mars
-- begin: '1987'
-  end: '1991'
-  instruments: []
-  mbid: 0e10e22b-2a2f-48f8-b54f-cc1523312dce
-  name: Slim Dunlap
-- begin: '2006'
-  end: '2006'
-  instruments:
-  - additional
-  - drums (drum set)
-  mbid: 1ba97964-8d70-4b33-a361-d1a4ed222672
-  name: Josh Freese
-- begin: '2012'
-  end: '2015'
-  instruments:
-  - additional
-  - drums (drum set)
-  mbid: 1ba97964-8d70-4b33-a361-d1a4ed222672
-  name: Josh Freese
-- begin: ''
-  end: '1986'
-  instruments: []
-  mbid: 49771251-1082-4a3d-b48f-ba39e3be4a2b
-  name: Bob Stinson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3182bda5-2f4a-49e4-9fa3-cf7e5ebbff24
-  name: Tommy Stinson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d558f844-4db0-4bc3-ba22-49ad2ca2722e
-  name: Paul Westerberg
+  - begin: '1979'
+    end: '1990'
+    instruments:
+      - drums (drum set)
+    mbid: b0fefe3c-b393-4498-9b33-255b02d75716
+    name: Chris Mars
+  - begin: '1987'
+    end: '1991'
+    instruments: []
+    mbid: 0e10e22b-2a2f-48f8-b54f-cc1523312dce
+    name: Slim Dunlap
+  - begin: '2006'
+    end: '2006'
+    instruments:
+      - additional
+      - drums (drum set)
+    mbid: 1ba97964-8d70-4b33-a361-d1a4ed222672
+    name: Josh Freese
+  - begin: '2012'
+    end: '2015'
+    instruments:
+      - additional
+      - drums (drum set)
+    mbid: 1ba97964-8d70-4b33-a361-d1a4ed222672
+    name: Josh Freese
+  - begin: ''
+    end: '1986'
+    instruments: []
+    mbid: 49771251-1082-4a3d-b48f-ba39e3be4a2b
+    name: Bob Stinson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3182bda5-2f4a-49e4-9fa3-cf7e5ebbff24
+    name: Tommy Stinson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d558f844-4db0-4bc3-ba22-49ad2ca2722e
+    name: Paul Westerberg
 musicbrainz_id: dc0d05ce-2f47-4962-b4fa-8631a0a51987
-origin: Minneapolis
+origin: 'Minneapolis, Minnesota, United States'
 tags:
-- alternative rock
-- hardcore punk
-- jangle pop
+  - alternative rock
+  - hardcore punk
+  - jangle pop
 ---
 
 ![](the_replacements.jpg)

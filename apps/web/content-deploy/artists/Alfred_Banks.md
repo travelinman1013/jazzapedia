@@ -2,21 +2,21 @@
 title: Alfred Banks
 wiki_slug: alfred-banks
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 aliases: []
 birth_date: '1901-03-17'
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 death_date: '1970-02-17'
 genres: []
 instruments:
-- eponymous
+  - eponymous
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Alfred_Banks.jpg
   caption: Alfred Banks
   background: non_vocal_instrumentalist
   born: '1901-03-17'
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
   died: '1970-02-17'
 audio_profile:
   tempo_avg: 119.6
@@ -24,7 +24,7 @@ audio_profile:
   valence_avg: 0.527
   danceability_avg: 0.675
   acousticness_avg: 0.157
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -8.1
   speechiness_avg: 0.301
   liveness_avg: 0.208
@@ -33,11 +33,11 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Alfred Allenback
-  - CZA
-  - G-Eazy
-  - Mickey Factz
-  - MegaRan
+    - Alfred Allenback
+    - CZA
+    - G-Eazy
+    - Mickey Factz
+    - MegaRan
   influenced: []
   mentors: []
 related_artists: []
@@ -45,47 +45,49 @@ spotify_data:
   followers: 1908
   id: 486X9xbMecCjCRPOhUXpuE
   popularity: 14
-  url: https://open.spotify.com/artist/486X9xbMecCjCRPOhUXpuE
+  url: 'https://open.spotify.com/artist/486X9xbMecCjCRPOhUXpuE'
   verified: false
 discography_enriched: true
 albums_count: 4
 singles_count: 31
 top_tracks:
-- Greatness (Poetry in Motion)
-- G Wagon
-- Somebody
-- Sunday Drive
-- On That
-- Underdogcentral (Remastered)
-- Blessing
-- What's That Sound?
-- Mardi Gras (Brass & Ass)
-- Homecoming
+  - Greatness (Poetry in Motion)
+  - G Wagon
+  - Somebody
+  - Sunday Drive
+  - On That
+  - Underdogcentral (Remastered)
+  - Blessing
+  - What's That Sound?
+  - Mardi Gras (Brass & Ass)
+  - Homecoming
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/dbe22c4f-6a21-4b7c-ad09-e4048d1065bc
-  spotify: https://open.spotify.com/artist/486X9xbMecCjCRPOhUXpuE
-  wikipedia: https://en.wikipedia.org/wiki/Nobel_Memorial_Prize_in_Economic_Sciences
+  musicbrainz: 'https://musicbrainz.org/artist/dbe22c4f-6a21-4b7c-ad09-e4048d1065bc'
+  spotify: 'https://open.spotify.com/artist/486X9xbMecCjCRPOhUXpuE'
+  wikipedia: 'https://en.wikipedia.org/wiki/Nobel_Memorial_Prize_in_Economic_Sciences'
 image_path: 03_Resources/source_material/ArtistPortraits/Alfred_Banks.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:48:53.237068'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- nolalibrary.org
-- masqueradeatlanta.com
-- respectmyregion.com
-- baltimoretimes-online.com
+  - nolalibrary.org
+  - masqueradeatlanta.com
+  - respectmyregion.com
+  - baltimoretimes-online.com
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 13:07:09.223308
+entry_created: 2025-09-18T13:07:09.223Z
 last_updated: '2025-12-23T08:16:00.974630'
 gender: Male
 musicbrainz_enriched_at: '2025-10-21T08:07:24.106725'
 musicbrainz_id: dbe22c4f-6a21-4b7c-ad09-e4048d1065bc
 tags:
-- film composer
-- score
-- soundtrack
+  - film composer
+  - score
+  - soundtrack
+is_active: false
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](Alfred_Banks.jpg)

@@ -1,107 +1,106 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-07T01:19:03.413826'
 birth_date: '1976'
 disambiguation: southern rock / jazz rock
 enhancement_provider: perplexity
 entry_created: '2026-01-07T01:19:03.413831'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/84db3721-9824-4010-a396-504177e154a8
-  spotify: https://open.spotify.com/artist/3VqsPf2lM6ulJ5fjCJquyP
+  musicbrainz: 'https://musicbrainz.org/artist/84db3721-9824-4010-a396-504177e154a8'
+  spotify: 'https://open.spotify.com/artist/3VqsPf2lM6ulJ5fjCJquyP'
   wikipedia: ''
 genres:
-- southern rock
-- jazz fusion
+  - southern rock
+  - jazz fusion
 image_path: 03_Resources/source_material/ArtistPortraits/sea_level.jpg
 instruments:
-- drums (drum set)
-- guitar
-- original
+  - drums (drum set)
+  - guitar
+  - original
 last_updated: '2026-01-07T01:19:03.413832'
 members:
-- begin: '1977'
-  end: '1978'
-  instruments:
-  - drums (drum set)
-  mbid: 47e0fa87-fc25-4c29-8a98-3f3b713e57f3
-  name: George Weaver
-- begin: '1977'
-  end: '1980'
-  instruments:
-  - guitar
-  mbid: 690c0198-8d4a-4805-bdd3-9c41a3c5fb57
-  name: Davis Causey
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e7a1e962-c6f2-48a0-8125-8da99fb6a406
-  name: Randall Bramblett
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ad4502a7-ef7e-4e82-987f-8e4c3854f5f7
-  name: Matt Greeley
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c77c62d3-f025-429c-bcae-91e83dd3f516
-  name: Chuck Leavell
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e4395ac6-ca39-4937-aa66-7d3fe4378269
-  name: Jimmy Nalls
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e7da059f-038d-4169-b1b0-1985c9a36c9b
-  name: Lamar Williams
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e6f94b0f-2ef6-4186-81fe-3e6209f9a253
-  name: Joe English
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 01c8bfb6-6846-43d6-ae97-9041a6470dee
-  name: Jai Johanny Johanson
+  - begin: '1977'
+    end: '1978'
+    instruments:
+      - drums (drum set)
+    mbid: 47e0fa87-fc25-4c29-8a98-3f3b713e57f3
+    name: George Weaver
+  - begin: '1977'
+    end: '1980'
+    instruments:
+      - guitar
+    mbid: 690c0198-8d4a-4805-bdd3-9c41a3c5fb57
+    name: Davis Causey
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e7a1e962-c6f2-48a0-8125-8da99fb6a406
+    name: Randall Bramblett
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ad4502a7-ef7e-4e82-987f-8e4c3854f5f7
+    name: Matt Greeley
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c77c62d3-f025-429c-bcae-91e83dd3f516
+    name: Chuck Leavell
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e4395ac6-ca39-4937-aa66-7d3fe4378269
+    name: Jimmy Nalls
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e7da059f-038d-4169-b1b0-1985c9a36c9b
+    name: Lamar Williams
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e6f94b0f-2ef6-4186-81fe-3e6209f9a253
+    name: Joe English
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 01c8bfb6-6846-43d6-ae97-9041a6470dee
+    name: Jai Johanny Johanson
 musical_connections:
   collaborators:
-  - Chuck Leavell
-  - Lamar Williams
-  - Jaimoe (Jai Johanny Johanson)
-  - Jimmy Nalls
-  - Randall Bramblett
-  - Davis Causey
+    - Chuck Leavell
+    - Lamar Williams
+    - Jaimoe (Jai Johanny Johanson)
+    - Jimmy Nalls
+    - Randall Bramblett
+    - Davis Causey
   influenced:
-  - Chuck Leavell
+    - Chuck Leavell
   mentors:
-  - Allman Brothers Band
+    - Allman Brothers Band
 musicbrainz_id: 84db3721-9824-4010-a396-504177e154a8
 network_extracted: true
-origin: Macon, Georgia, United States
+origin: 'Macon, Georgia, United States'
 primary_source: perplexity
 research_sources:
-- https://www.westcoast.dk/artists/s/sea-level/
-- https://dereksmusicblog.com/2019/02/22/the-life-and-music-of-sea-level/
-- https://chuckleavell.com/2025/03/20/sea-level/
-- https://www.allmusic.com/artist/sea-level-mn0000314372
-- https://www.kshe95.com/artist/84db3721-9824-4010-a396-504177e154a8
-- https://musicbrainz.org/artist/84db3721-9824-4010-a396-504177e154a8
+  - 'https://www.westcoast.dk/artists/s/sea-level/'
+  - 'https://dereksmusicblog.com/2019/02/22/the-life-and-music-of-sea-level/'
+  - 'https://chuckleavell.com/2025/03/20/sea-level/'
+  - 'https://www.allmusic.com/artist/sea-level-mn0000314372'
+  - 'https://www.kshe95.com/artist/84db3721-9824-4010-a396-504177e154a8'
+  - 'https://musicbrainz.org/artist/84db3721-9824-4010-a396-504177e154a8'
 spotify_data:
   followers: 20195
   id: 3VqsPf2lM6ulJ5fjCJquyP
   popularity: 32
-  url: https://open.spotify.com/artist/3VqsPf2lM6ulJ5fjCJquyP
+  url: 'https://open.spotify.com/artist/3VqsPf2lM6ulJ5fjCJquyP'
 status: active
 tags:
-- jazz
-- jazz rock
-- southern rock
+  - jazz
+  - jazz rock
+  - southern rock
 title: Sea Level
-
 ---
 
 ![](sea_level.jpg)

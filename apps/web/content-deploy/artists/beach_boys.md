@@ -3,41 +3,43 @@ biography_enhanced_at: '2025-12-31T01:47:38.319271'
 enhancement_provider: perplexity
 entry_created: '2025-12-31T01:47:38.319275'
 external_urls:
-  spotify: https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV
-  wikipedia: https://en.wikipedia.org/wiki/The_Beach_Boys
+  spotify: 'https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Beach_Boys'
 genres:
-- baroque pop
+  - baroque pop
 image_path: 03_Resources/source_material/ArtistPortraits/beach_boys.jpg
 last_updated: '2025-12-31T01:47:38.319276'
 musical_connections:
   collaborators:
-  - Brian Wilson
-  - Dennis Wilson
-  - Carl Wilson
-  - Mike Love
-  - Al Jardine
-  - Bruce Johnston
-  - David Marks
+    - Brian Wilson
+    - Dennis Wilson
+    - Carl Wilson
+    - Mike Love
+    - Al Jardine
+    - Bruce Johnston
+    - David Marks
   influenced:
-  - Psychedelic rock movement
+    - Psychedelic rock movement
   mentors:
-  - Murry Wilson
+    - Murry Wilson
 network_extracted: true
-origin: Hawthorne, California, United States
+origin: 'Hawthorne, California, United States'
 primary_source: perplexity
 research_sources:
-- https://thehistoryofrockandroll.net/the-beach-boys/
-- https://study.com/academy/lesson/the-beach-boys-members-albums-songs.html
-- https://en.wikipedia.org/wiki/The_Beach_Boys
-- https://www.biography.com/musicians/a65036824/beach-boys-history-brian-wilson
-- https://www.britannica.com/topic/the-Beach-Boys
+  - 'https://thehistoryofrockandroll.net/the-beach-boys/'
+  - 'https://study.com/academy/lesson/the-beach-boys-members-albums-songs.html'
+  - 'https://en.wikipedia.org/wiki/The_Beach_Boys'
+  - >-
+    https://www.biography.com/musicians/a65036824/beach-boys-history-brian-wilson
+  - 'https://www.britannica.com/topic/the-Beach-Boys'
 spotify_data:
   followers: 5154210
   id: 3oDbviiivRWhXwIE8hxkVV
   popularity: 78
-  url: https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV
+  url: 'https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV'
 status: active
-title: Beach Boys
+title: The Beach Boys
+artist_type: band
 ---
 
 ![](beach_boys.jpg)

@@ -1,13 +1,14 @@
 ---
-title: JOHNNY HARTMAN & JOHN COLTRANE
+title: Johnny Hartman & John Coltrane
 wiki_slug: johnny-hartman-john-coltrane
 schema_version: 2
 status: active
 genres:
-- jazz
-- vocal jazz
+  - jazz
+  - vocal jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/johnny_hartman_and_john_coltrane.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/johnny_hartman_and_john_coltrane.jpg
   caption: JOHNNY HARTMAN & JOHN COLTRANE
   background: solo_singer
 audio_profile:
@@ -17,7 +18,7 @@ audio_profile:
   danceability_avg: 0.429
   acousticness_avg: 0.927
   instrumentalness_avg: 0.029
-  loudness_avg: -19.0
+  loudness_avg: -19
   speechiness_avg: 0.039
   liveness_avg: 0.136
   track_count: 50
@@ -25,51 +26,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John Coltrane
-  - McCoy Tyner
-  - Elvin Jones
-  - Jimmy Garrison
-  - Art Blakey
+    - John Coltrane
+    - McCoy Tyner
+    - Elvin Jones
+    - Jimmy Garrison
+    - Art Blakey
   influenced:
-  - Kurt Elling
-  - Gregory Porter
+    - Kurt Elling
+    - Gregory Porter
   mentors:
-  - Billy Eckstine
+    - Billy Eckstine
 spotify_data:
   followers: 90224
   id: 7qVvIFc9DktkAc0HKzRhNo
   popularity: 53
-  url: https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo
+  url: 'https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo'
 discography_enriched: true
 top_tracks:
-- My One And Only Love (John Coltrane And Johnny Hartman)
-- You Are Too Beautiful (John Coltrane And Johnny Hartman)
-- Dedicated To You (John Coltrane And Johnny Hartman)
-- They Say It's Wonderful (John Coltrane And Johnny Hartman)
-- Lush Life (John Coltrane And Johnny Hartman)
-- In The Wee Small Hours Of The Morning (I Just Dropped By To Say Hello)
-- I Just Dropped By To Say Hello (I Just Dropped By To Say Hello)
-- Don't You Know I Care (I Just Dropped By To Say Hello)
-- Autumn Serenade (John Coltrane And Johnny Hartman)
-- Ain't Misbehavin' (The Complete Gus Wildi Recordings)
+  - My One And Only Love (John Coltrane And Johnny Hartman)
+  - You Are Too Beautiful (John Coltrane And Johnny Hartman)
+  - Dedicated To You (John Coltrane And Johnny Hartman)
+  - They Say It's Wonderful (John Coltrane And Johnny Hartman)
+  - Lush Life (John Coltrane And Johnny Hartman)
+  - In The Wee Small Hours Of The Morning (I Just Dropped By To Say Hello)
+  - I Just Dropped By To Say Hello (I Just Dropped By To Say Hello)
+  - Don't You Know I Care (I Just Dropped By To Say Hello)
+  - Autumn Serenade (John Coltrane And Johnny Hartman)
+  - Ain't Misbehavin' (The Complete Gus Wildi Recordings)
 external_urls:
-  spotify: https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo
-  wikipedia: https://en.wikipedia.org/wiki/John_Coltrane_and_Johnny_Hartman
-image_path: 03_Resources/source_material/ArtistPortraits/johnny_hartman_and_john_coltrane.jpg
+  spotify: 'https://open.spotify.com/artist/7qVvIFc9DktkAc0HKzRhNo'
+  wikipedia: 'https://en.wikipedia.org/wiki/John_Coltrane_and_Johnny_Hartman'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/johnny_hartman_and_john_coltrane.jpg
 biography_enhanced_at: '2025-11-11T09:41:14.378169'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- JazzStandards.com biography
-- JazzTimes feature
-- Dohmann Audio article
-- 'Wikipedia: John Coltrane and Johnny Hartman'
-- SFJAZZ retrospective
-- Jango full bio
+  - JazzStandards.com biography
+  - JazzTimes feature
+  - Dohmann Audio article
+  - 'Wikipedia: John Coltrane and Johnny Hartman'
+  - SFJAZZ retrospective
+  - Jango full bio
 network_extracted: true
 entry_created: '2025-11-11T09:41:14.378178'
 last_updated: '2025-12-23T08:16:10.840638'
-origin: Louisiana, United States (Hartman’s birthplace); Philadelphia, Pennsylvania, United States (Coltrane’s birthplace)
+origin: >-
+  Louisiana, United States (Hartman’s birthplace); Philadelphia, Pennsylvania,
+  United States (Coltrane’s birthplace)
+birth_place: 'Louisiana, United States'
+artist_type: person
 ---
 
 ![](johnny_hartman_and_john_coltrane.jpg)

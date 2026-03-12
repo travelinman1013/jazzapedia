@@ -1,16 +1,16 @@
 ---
-title: LENNY ZENITH
+title: Lenny Zenith
 wiki_slug: lenny-zenith
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- children's music
+  - children's music
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lenny_zenith.jpg
   caption: LENNY ZENITH
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 134.6
   energy_avg: 0.84
@@ -26,49 +26,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - James Murphy
-  - Wharton Tiers
-  - Steven Fisher, Rick Nick, Gary Parky
-  - Tom Stern
-  - James Pertusi
+    - James Murphy
+    - Wharton Tiers
+    - 'Steven Fisher, Rick Nick, Gary Parky'
+    - Tom Stern
+    - James Pertusi
   influenced:
-  - Transgender and LGBTQ+ musicians
+    - Transgender and LGBTQ+ musicians
   mentors:
-  - Lillian Robinson
+    - Lillian Robinson
 spotify_data:
   followers: 292780
   id: 7uIJwRIdyBYonDeoFJCqh8
   popularity: 57
-  url: https://open.spotify.com/artist/7uIJwRIdyBYonDeoFJCqh8
+  url: 'https://open.spotify.com/artist/7uIJwRIdyBYonDeoFJCqh8'
 discography_enriched: true
 top_tracks:
-- The Wheels On The Bus (TECHNO) (The Wheels On The Bus (TECHNO))
-- Macarena (Macarena)
-- Five Little Ducks (TODDLER TECHNO) (Five Little Ducks (TODDLER TECHNO))
-- Excavator - Techno Version (Excavator (Techno Version))
-- Head, Shoulders, Knees & Toes (Head, Shoulders, Knees & Toes)
-- 'Henry the Octopus - The Wiggles Sound System Remix (The Wiggles Sound System: Rave of Innocence)'
-- 'Five Little Ducks - The Wiggles Sound System Remix (The Wiggles Sound System: Rave of Innocence)'
-- Skinnamarink (TECHNO) (Skinnamarink (TECHNO))
-- Bleeding Love (Bleeding Love)
-- Hop Little Bunnies (TODDLER TECHNO) (Lenny's Toddler Techno (Vol1))
+  - The Wheels On The Bus (TECHNO) (The Wheels On The Bus (TECHNO))
+  - Macarena (Macarena)
+  - Five Little Ducks (TODDLER TECHNO) (Five Little Ducks (TODDLER TECHNO))
+  - Excavator - Techno Version (Excavator (Techno Version))
+  - 'Head, Shoulders, Knees & Toes (Head, Shoulders, Knees & Toes)'
+  - >-
+    Henry the Octopus - The Wiggles Sound System Remix (The Wiggles Sound
+    System: Rave of Innocence)
+  - >-
+    Five Little Ducks - The Wiggles Sound System Remix (The Wiggles Sound
+    System: Rave of Innocence)
+  - Skinnamarink (TECHNO) (Skinnamarink (TECHNO))
+  - Bleeding Love (Bleeding Love)
+  - Hop Little Bunnies (TODDLER TECHNO) (Lenny's Toddler Techno (Vol1))
 external_urls:
-  spotify: https://open.spotify.com/artist/7uIJwRIdyBYonDeoFJCqh8
+  spotify: 'https://open.spotify.com/artist/7uIJwRIdyBYonDeoFJCqh8'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/lenny_zenith.jpg
 biography_enhanced_at: '2025-11-21T07:16:44.789615'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://lennyzenith.com/home/
-- https://www.transmasculinepodcast.com/episodes/lenny
-- https://www.vice.com/en/article/meet-the-transgender-pop-punk-musician-who-opened-for-iggy-pop-and-u2/
-- https://lennyzenith.com/about/
-- https://www.out.com/out-exclusives/2018/4/12/lenny-zenith-has-spent-decades-bringing-trans-visibility-rock-roll
-- https://www.advocate.com/music/2022/5/27/trans-rocker-lenny-zenith-debuts-single-supporting-transgender-youth
+  - 'https://lennyzenith.com/home/'
+  - 'https://www.transmasculinepodcast.com/episodes/lenny'
+  - >-
+    https://www.vice.com/en/article/meet-the-transgender-pop-punk-musician-who-opened-for-iggy-pop-and-u2/
+  - 'https://lennyzenith.com/about/'
+  - >-
+    https://www.out.com/out-exclusives/2018/4/12/lenny-zenith-has-spent-decades-bringing-trans-visibility-rock-roll
+  - >-
+    https://www.advocate.com/music/2022/5/27/trans-rocker-lenny-zenith-debuts-single-supporting-transgender-youth
 network_extracted: true
 entry_created: '2025-11-21T07:16:44.789628'
 last_updated: '2025-12-23T08:16:11.786032'
+artist_type: person
 ---
 
 ![](lenny_zenith.jpg)

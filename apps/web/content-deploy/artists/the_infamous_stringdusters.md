@@ -2,26 +2,26 @@
 title: The Infamous Stringdusters
 wiki_slug: the-infamous-stringdusters
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '2006'
 genres:
-- newgrass
-- bluegrass
-- americana
+  - newgrass
+  - bluegrass
+  - americana
 instruments:
-- double bass
-- guitar
-- resonator guitar
-- fiddle
-- banjo
+  - double bass
+  - guitar
+  - resonator guitar
+  - fiddle
+  - banjo
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_infamous_stringdusters.jpg
   caption: The Infamous Stringdusters
   background: group_or_band
   born: '2006'
 audio_profile:
-  tempo_avg: 125.0
+  tempo_avg: 125
   energy_avg: 0.626
   valence_avg: 0.662
   danceability_avg: 0.531
@@ -35,89 +35,94 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Yonder Mountain String Band
-  - Leftover Salmon
-  - Molly Tuttle
-  - Band members (Andy Hall, Andy Falco, Chris Pandolfi, Jeremy Garrett, Travis Book)
+    - Yonder Mountain String Band
+    - Leftover Salmon
+    - Molly Tuttle
+    - >-
+      Band members (Andy Hall, Andy Falco, Chris Pandolfi, Jeremy Garrett,
+      Travis Book)
   influenced:
-  - Emerging progressive bluegrass and jamgrass bands
+    - Emerging progressive bluegrass and jamgrass bands
   mentors:
-  - Traditional bluegrass artists (e.g., Bill Monroe, J.D. Crowe)
+    - 'Traditional bluegrass artists (e.g., Bill Monroe, J.D. Crowe)'
 spotify_data:
   followers: 112693
   id: 7yTltkMBvChBkA86Tz8WfW
   popularity: 39
-  url: https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW
+  url: 'https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW'
 discography_enriched: true
 top_tracks:
-- Just Like Heaven
-- Walking on the Moon (Silver Sky)
-- Jessica
-- Colorado (Let It Go)
-- Scarlet Begonias - Washington DC 4/2/16 (The L&G Tapes LIVE)
-- Gravity (Laws Of Gravity)
-- What's Going On
-- Get Lucky
-- Working Man Blues
-- As It Was
+  - Just Like Heaven
+  - Walking on the Moon (Silver Sky)
+  - Jessica
+  - Colorado (Let It Go)
+  - Scarlet Begonias - Washington DC 4/2/16 (The L&G Tapes LIVE)
+  - Gravity (Laws Of Gravity)
+  - What's Going On
+  - Get Lucky
+  - Working Man Blues
+  - As It Was
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/43e088bd-2520-4a84-bb8e-827c86d2cf84
-  spotify: https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW
-  wikipedia: https://en.wikipedia.org/wiki/The_Infamous_Stringdusters
+  musicbrainz: 'https://musicbrainz.org/artist/43e088bd-2520-4a84-bb8e-827c86d2cf84'
+  spotify: 'https://open.spotify.com/artist/7yTltkMBvChBkA86Tz8WfW'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Infamous_Stringdusters'
 image_path: 03_Resources/source_material/ArtistPortraits/the_infamous_stringdusters.jpg
 biography_enhanced_at: '2025-10-27T02:35:15.570205'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://thebluegrasssituation.com/read/the-infamous-stringdusters-travis-book-and-jeremy-garrett-take-the-long-view/
-- https://www.wmot.org/roots-radio-news/2022-01-13/how-the-infamous-stringdusters-found-the-jam-in-their-grass
-- https://www.etown.org/broadcasts/etown-time-capsule-infamous-stringdusters-molly-tuttle/
-- https://scifidelity.com/artists/the-infamous-stringdusters/
-- https://www.thestringdusters.com/about
-- https://www.jango.com/music/The+Infamous+Stringdusters/_full_bio
+  - >-
+    https://thebluegrasssituation.com/read/the-infamous-stringdusters-travis-book-and-jeremy-garrett-take-the-long-view/
+  - >-
+    https://www.wmot.org/roots-radio-news/2022-01-13/how-the-infamous-stringdusters-found-the-jam-in-their-grass
+  - >-
+    https://www.etown.org/broadcasts/etown-time-capsule-infamous-stringdusters-molly-tuttle/
+  - 'https://scifidelity.com/artists/the-infamous-stringdusters/'
+  - 'https://www.thestringdusters.com/about'
+  - 'https://www.jango.com/music/The+Infamous+Stringdusters/_full_bio'
 network_extracted: true
 entry_created: '2025-10-27T02:35:15.570224'
 last_updated: '2025-12-23T08:16:16.855214'
 members:
-- begin: '2006'
-  end: '2011'
-  instruments: []
-  mbid: 6ee4dbbd-2d69-4363-85b9-f6412eff4d0e
-  name: Jesse Cobb
-- begin: ''
-  end: ''
-  instruments:
-  - double bass
-  mbid: 0bfab56e-ce3c-4204-8513-ec8ad1a49f90
-  name: Travis Book
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: 18d61b5e-862e-4354-a85f-63d720e9b39d
-  name: Andy Falco
-- begin: ''
-  end: ''
-  instruments:
-  - resonator guitar
-  mbid: 7738b50b-d8d9-447d-905a-f2b9a7b61fca
-  name: Andy Hall
-- begin: ''
-  end: ''
-  instruments:
-  - fiddle
-  mbid: e2942d21-1742-455f-9b19-51574d7515ec
-  name: Jeremy Garrett
-- begin: ''
-  end: ''
-  instruments:
-  - banjo
-  mbid: 18d0a45d-9902-4769-99a6-8afec27e9506
-  name: Chris Pandolfi
+  - begin: '2006'
+    end: '2011'
+    instruments: []
+    mbid: 6ee4dbbd-2d69-4363-85b9-f6412eff4d0e
+    name: Jesse Cobb
+  - begin: ''
+    end: ''
+    instruments:
+      - double bass
+    mbid: 0bfab56e-ce3c-4204-8513-ec8ad1a49f90
+    name: Travis Book
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 18d61b5e-862e-4354-a85f-63d720e9b39d
+    name: Andy Falco
+  - begin: ''
+    end: ''
+    instruments:
+      - resonator guitar
+    mbid: 7738b50b-d8d9-447d-905a-f2b9a7b61fca
+    name: Andy Hall
+  - begin: ''
+    end: ''
+    instruments:
+      - fiddle
+    mbid: e2942d21-1742-455f-9b19-51574d7515ec
+    name: Jeremy Garrett
+  - begin: ''
+    end: ''
+    instruments:
+      - banjo
+    mbid: 18d0a45d-9902-4769-99a6-8afec27e9506
+    name: Chris Pandolfi
 musicbrainz_id: 43e088bd-2520-4a84-bb8e-827c86d2cf84
-origin: Nashville
+origin: 'Nashville, Tennessee, United States'
 tags:
-- folk
+  - folk
 ---
 
 ![](the_infamous_stringdusters.jpg)

@@ -3,17 +3,17 @@ title: Jorge Ben
 wiki_slug: jorge-ben
 schema_version: 2
 status: active
-birth_place: Rio de Janeiro, RJ, Brazil
+birth_place: 'Rio de Janeiro, RJ, Brazil'
 genres:
-- mpb
-- bossa nova
-- samba
-- brazilian jazz
+  - mpb
+  - bossa nova
+  - samba
+  - brazilian jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jorge_ben.jpg
   caption: Jorge Ben
   background: solo_singer
-  origin: Rio de Janeiro, RJ, Brazil
+  origin: 'Rio de Janeiro, RJ, Brazil'
 audio_profile:
   tempo_avg: 112.9
   energy_avg: 0.634
@@ -21,7 +21,7 @@ audio_profile:
   danceability_avg: 0.564
   acousticness_avg: 0.533
   instrumentalness_avg: 0.003
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.077
   liveness_avg: 0.293
   track_count: 51
@@ -29,48 +29,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Meirelles e os Copa Cinco
-  - Sérgio Mendes
-  - Roberto Carlos and Erasmo Carlos
-  - Gilberto Gil and Caetano Veloso
+    - Meirelles e os Copa Cinco
+    - Sérgio Mendes
+    - Roberto Carlos and Erasmo Carlos
+    - Gilberto Gil and Caetano Veloso
   influenced:
-  - Mundo Livre S/A, Os Paralamas do Sucesso, Skank, Fernanda Abreu, Racionais MC's, Belô Velloso
-  - Elis Regina, Os Mutantes, Wilson Simonal
+    - >-
+      Mundo Livre S/A, Os Paralamas do Sucesso, Skank, Fernanda Abreu, Racionais
+      MC's, Belô Velloso
+    - 'Elis Regina, Os Mutantes, Wilson Simonal'
   mentors:
-  - João Gilberto
+    - João Gilberto
 spotify_data:
   followers: 1233334
   id: 5JYtpnUKxAzXfHEYpOeeit
   popularity: 67
-  url: https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit
+  url: 'https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit'
 discography_enriched: true
 top_tracks:
-- Chove Chuva (Samba Esquema Novo)
-- Oba, Lá Vem Ela (Força Bruta)
-- Mas, Que Nada! (Samba Esquema Novo)
-- Carolina, Carol Bela
-- O Telefone Tocou Novamente (Força Bruta)
-- Menina Mulher Da Pele Preta (A Tabua De Esmeralda)
-- Solitário Surfista / Surfista Solitário (Sem Crise)
-- Ogum - Ao Vivo (Zeca Pagodinho - Uma Prova De Amor Ao Vivo (Deluxe))
-- País Tropical (Jorge Ben)
-- Amante Amado (A Banda do Zé Pretinho)
+  - Chove Chuva (Samba Esquema Novo)
+  - 'Oba, Lá Vem Ela (Força Bruta)'
+  - 'Mas, Que Nada! (Samba Esquema Novo)'
+  - 'Carolina, Carol Bela'
+  - O Telefone Tocou Novamente (Força Bruta)
+  - Menina Mulher Da Pele Preta (A Tabua De Esmeralda)
+  - Solitário Surfista / Surfista Solitário (Sem Crise)
+  - Ogum - Ao Vivo (Zeca Pagodinho - Uma Prova De Amor Ao Vivo (Deluxe))
+  - País Tropical (Jorge Ben)
+  - Amante Amado (A Banda do Zé Pretinho)
 external_urls:
-  spotify: https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit
-  wikipedia: https://en.wikipedia.org/wiki/Jorge_Ben
+  spotify: 'https://open.spotify.com/artist/5JYtpnUKxAzXfHEYpOeeit'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jorge_Ben'
 image_path: 03_Resources/source_material/ArtistPortraits/jorge_ben.jpg
 biography_enhanced_at: '2025-12-23T02:05:52.726949'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Jorge+Ben/+wiki
-- https://brazilbeatblog.wordpress.com/2018/03/01/jorge-ben-jor-part-one-introduction/
-- https://www.audiosnobbery.com/tripping-out-on-jorge-ben-jor/
-- https://en.wikipedia.org/wiki/Jorge_Ben
-- https://www.allaboutjazz.com/musicians/jorge-ben/
+  - 'https://www.last.fm/music/Jorge+Ben/+wiki'
+  - >-
+    https://brazilbeatblog.wordpress.com/2018/03/01/jorge-ben-jor-part-one-introduction/
+  - 'https://www.audiosnobbery.com/tripping-out-on-jorge-ben-jor/'
+  - 'https://en.wikipedia.org/wiki/Jorge_Ben'
+  - 'https://www.allaboutjazz.com/musicians/jorge-ben/'
 network_extracted: true
 entry_created: '2025-12-23T02:05:52.726963'
 last_updated: '2025-12-23T08:16:10.959708'
+origin: 'Rio de Janeiro, RJ, Brazil'
+birth_date: '1939-03-22'
+artist_type: person
 ---
 
 ![](jorge_ben.jpg)

@@ -5,22 +5,22 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1925-06-25'
-birth_place: Opelousas
+birth_place: 'Opelousas, Louisiana, United States'
 death_date: '1987-12-12'
 genres:
-- zydeco
-- cajun
+  - zydeco
+  - cajun
 instruments:
-- eponymous
-- piano accordion
-- spoken vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
-  mbid: 0fa64acf-5007-4cbd-9cf7-d039fcb503be
-  name: Clifton Chenier and his Red Hot Louisiana Band
+  - piano accordion
+  - spoken vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 0fa64acf-5007-4cbd-9cf7-d039fcb503be
+    name: Clifton Chenier and his Red Hot Louisiana Band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/clifton_chenier.jpg
   caption: Clifton Chenier
@@ -43,60 +43,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Cleveland Chenier
-  - Lonnie Brooks
-  - Phillip Walker
-  - Lonesome Sundown
-  - C.J. Chenier
+    - Cleveland Chenier
+    - Lonnie Brooks
+    - Phillip Walker
+    - Lonesome Sundown
+    - C.J. Chenier
   influenced:
-  - C.J. Chenier
-  - Queen Ida
-  - Buckwheat Zydeco
+    - C.J. Chenier
+    - Queen Ida
+    - Buckwheat Zydeco
   mentors:
-  - Joseph Chenier
-  - Professor Longhair
+    - Joseph Chenier
+    - Professor Longhair
 spotify_data:
   followers: 16236
   id: 3LzQVHowQWbzJBwBBNRPfY
   popularity: 23
-  url: https://open.spotify.com/artist/3LzQVHowQWbzJBwBBNRPfY
+  url: 'https://open.spotify.com/artist/3LzQVHowQWbzJBwBBNRPfY'
 discography_enriched: true
 top_tracks:
-- I'm Coming Home (To See My Mother)
-- I'm The Zydeco Man (The Alligator Records 20th Anniversary Collection)
-- Boppin' The Rock (Zodico Blues & Boogie)
-- Zydeco et Pas Sale - Take 1 (Louisiana Blues and Zydeco)
-- Eh, Petite Fille (Zodico Blues & Boogie)
-- Zodico Stomp (Cajun Spring - The Zydeco Magic of Clifton Chenier)
-- I'm The Zydeco Man (I'm Here)
-- 'Release Me (King of the Bayous: I''m Coming Home)'
-- The Things I Did For You - Take 1 (Zodico Blues & Boogie)
-- My Soul (Down on the Bayou)
+  - I'm Coming Home (To See My Mother)
+  - I'm The Zydeco Man (The Alligator Records 20th Anniversary Collection)
+  - Boppin' The Rock (Zodico Blues & Boogie)
+  - Zydeco et Pas Sale - Take 1 (Louisiana Blues and Zydeco)
+  - 'Eh, Petite Fille (Zodico Blues & Boogie)'
+  - Zodico Stomp (Cajun Spring - The Zydeco Magic of Clifton Chenier)
+  - I'm The Zydeco Man (I'm Here)
+  - 'Release Me (King of the Bayous: I''m Coming Home)'
+  - The Things I Did For You - Take 1 (Zodico Blues & Boogie)
+  - My Soul (Down on the Bayou)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/db1a3066-1586-495d-a09c-1312cabab5be
-  spotify: https://open.spotify.com/artist/3LzQVHowQWbzJBwBBNRPfY
-  wikipedia: https://en.wikipedia.org/wiki/Clifton_Chenier
+  musicbrainz: 'https://musicbrainz.org/artist/db1a3066-1586-495d-a09c-1312cabab5be'
+  spotify: 'https://open.spotify.com/artist/3LzQVHowQWbzJBwBBNRPfY'
+  wikipedia: 'https://en.wikipedia.org/wiki/Clifton_Chenier'
 image_path: 03_Resources/source_material/ArtistPortraits/clifton_chenier.jpg
 biography_enhanced_at: '2025-10-23T07:44:48.640332'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Alligator Records artist page[1]
-- Smithsonian Folkways Recordings[2]
-- KUTX Texas Music History[3]
-- Explore Louisiana[4]
-- Wikipedia[5]
-- National Endowment for the Arts[6]
-- Texas State Historical Association[7]
+  - 'Alligator Records artist page[1]'
+  - 'Smithsonian Folkways Recordings[2]'
+  - 'KUTX Texas Music History[3]'
+  - 'Explore Louisiana[4]'
+  - 'Wikipedia[5]'
+  - 'National Endowment for the Arts[6]'
+  - 'Texas State Historical Association[7]'
 network_extracted: true
 entry_created: '2025-10-23T07:44:48.640341'
 last_updated: '2025-12-23T08:16:07.098388'
 gender: Male
 musicbrainz_id: db1a3066-1586-495d-a09c-1312cabab5be
 tags:
-- jazz
-- r&b
-- zydeco
+  - jazz
+  - r&b
+  - zydeco
+is_active: false
 ---
 
 ![](clifton_chenier.jpg)

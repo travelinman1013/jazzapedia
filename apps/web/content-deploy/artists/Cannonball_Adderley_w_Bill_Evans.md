@@ -4,13 +4,14 @@ wiki_slug: cannonball-adderley-w-bill-evans
 schema_version: 2
 status: active
 genres:
-- hard bop
-- jazz
-- bebop
-- cool jazz
-- jazz blues
+  - hard bop
+  - jazz
+  - bebop
+  - cool jazz
+  - jazz blues
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/Cannonball_Adderley_w_Bill_Evans.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/Cannonball_Adderley_w_Bill_Evans.jpg
   caption: Cannonball Adderley w/ Bill Evans
   background: solo_singer
 audio_profile:
@@ -28,53 +29,74 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Percy Heath
-  - Connie Kay
-  - Blue Mitchell
-  - Sam Jones
-  - Philly Joe Jones
+    - Percy Heath
+    - Connie Kay
+    - Blue Mitchell
+    - Sam Jones
+    - Philly Joe Jones
   influenced:
-  - Herbie Hancock
-  - Chick Corea
-  - David Sanborn
+    - Herbie Hancock
+    - Chick Corea
+    - David Sanborn
   mentors:
-  - Miles Davis
+    - Miles Davis
 spotify_data:
   followers: 239937
   id: 5v74mT11KGJqadf9sLw4dA
   popularity: 55
-  url: https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA
+  url: 'https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA'
 discography_enriched: true
 top_tracks:
-- So What (feat. John Coltrane, Cannonball Adderley & Bill Evans) (Kind Of Blue (Legacy Edition))
-- Milestones (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones) (Milestones)
-- Autumn Leaves (Somethin' Else (Rudy Van Gelder Edition))
-- Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly & Paul Chambers) (Kind Of Blue)
-- The Masquerade Is Over (Nancy Wilson/Cannonball Adderley)
-- Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly & Paul Chambers) (Kind Of Blue (Legacy Edition))
-- So What (feat. John Coltrane, Cannonball Adderley & Bill Evans) (Kind Of Blue)
-- Dancing In The Dark (Somethin' Else (Rudy Van Gelder Edition))
-- All Blues (feat. John Coltrane, Cannonball Adderley & Bill Evans) (Kind Of Blue (Legacy Edition))
-- Flamenco Sketches (feat. John Coltrane, Cannonball Adderley & Bill Evans) (Kind Of Blue (Legacy Edition))
+  - >-
+    So What (feat. John Coltrane, Cannonball Adderley & Bill Evans) (Kind Of
+    Blue (Legacy Edition))
+  - >-
+    Milestones (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul
+    Chambers & Philly Joe Jones) (Milestones)
+  - Autumn Leaves (Somethin' Else (Rudy Van Gelder Edition))
+  - >-
+    Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly &
+    Paul Chambers) (Kind Of Blue)
+  - The Masquerade Is Over (Nancy Wilson/Cannonball Adderley)
+  - >-
+    Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly &
+    Paul Chambers) (Kind Of Blue (Legacy Edition))
+  - >-
+    So What (feat. John Coltrane, Cannonball Adderley & Bill Evans) (Kind Of
+    Blue)
+  - Dancing In The Dark (Somethin' Else (Rudy Van Gelder Edition))
+  - >-
+    All Blues (feat. John Coltrane, Cannonball Adderley & Bill Evans) (Kind Of
+    Blue (Legacy Edition))
+  - >-
+    Flamenco Sketches (feat. John Coltrane, Cannonball Adderley & Bill Evans)
+    (Kind Of Blue (Legacy Edition))
 external_urls:
-  spotify: https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA
-  wikipedia: https://en.wikipedia.org/wiki/Know_What_I_Mean%3F
-image_path: 03_Resources/source_material/ArtistPortraits/Cannonball_Adderley_w_Bill_Evans.jpg
+  spotify: 'https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA'
+  wikipedia: 'https://en.wikipedia.org/wiki/Know_What_I_Mean%3F'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/Cannonball_Adderley_w_Bill_Evans.jpg
 biography_enhanced_at: '2025-10-19T11:24:08.753587'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.jazzmessengers.com/en/64858/cannonball-adderley/the-legendary-quartet-quintet-sessions
-- https://www.listeningsessions.ca/p/cannonball-adderley-bill-evans-and
-- https://en.wikipedia.org/wiki/Know_What_I_Mean%3F
-- https://en.wikipedia.org/wiki/Nardis_(composition)
-- https://burningambulance.com/2011/06/13/bill-evans-cannonball-adderley/
-- https://www.thevinyldistrict.com/storefront/graded-on-a-curve-cannonball-adderley-with-bill-evans-know-what-i-mean/
-- https://thevinylpress.com/know-what-i-mean-adderley-evans-et-al-shoot-out/
+  - >-
+    https://www.jazzmessengers.com/en/64858/cannonball-adderley/the-legendary-quartet-quintet-sessions
+  - 'https://www.listeningsessions.ca/p/cannonball-adderley-bill-evans-and'
+  - 'https://en.wikipedia.org/wiki/Know_What_I_Mean%3F'
+  - 'https://en.wikipedia.org/wiki/Nardis_(composition)'
+  - 'https://burningambulance.com/2011/06/13/bill-evans-cannonball-adderley/'
+  - >-
+    https://www.thevinyldistrict.com/storefront/graded-on-a-curve-cannonball-adderley-with-bill-evans-know-what-i-mean/
+  - 'https://thevinylpress.com/know-what-i-mean-adderley-evans-et-al-shoot-out/'
 network_extracted: true
 entry_created: '2025-10-19T11:24:08.753598'
 last_updated: '2025-12-23T08:16:01.455260'
-origin: New York City, New York, USA (primary recording location and jazz scene for collaborations)
+origin: >-
+  New York City, New York, USA (primary recording location and jazz scene for
+  collaborations)
+death_date: '1975-08-08'
+artist_type: band
 ---
 
 ![](Cannonball_Adderley_w_Bill_Evans.jpg)

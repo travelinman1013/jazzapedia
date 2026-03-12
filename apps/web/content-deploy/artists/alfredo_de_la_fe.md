@@ -3,20 +3,20 @@ title: Alfredo De La Fe
 wiki_slug: alfredo-de-la-fe
 schema_version: 2
 status: active
-birth_place: Havana, Cuba
+birth_place: 'Havana, Cuba, United States'
 genres:
-- salsa
-- latin jazz
-- son cubano
-- salsa romantica
-- tropical music
+  - salsa
+  - latin jazz
+  - son cubano
+  - salsa romantica
+  - tropical music
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/alfredo_de_la_fe.jpg
   caption: Alfredo De La Fe
   background: solo_singer
-  origin: Havana, Cuba
+  origin: 'Havana, Cuba'
 audio_profile:
-  tempo_avg: 107.0
+  tempo_avg: 107
   energy_avg: 0.717
   valence_avg: 0.874
   danceability_avg: 0.64
@@ -30,50 +30,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Eddie Palmieri
-  - Tito Puente
-  - Celia Cruz
-  - Santana
-  - Fania All Stars
-  - Tipica 73
+    - Eddie Palmieri
+    - Tito Puente
+    - Celia Cruz
+    - Santana
+    - Fania All Stars
+    - Tipica 73
   influenced:
-  - Latin violinists in salsa and tropical music
+    - Latin violinists in salsa and tropical music
   mentors:
-  - Alfredo De La Fé Sr.
-  - Jose Fajardo
+    - Alfredo De La Fé Sr.
+    - Jose Fajardo
 spotify_data:
   followers: 20050
   id: 5lr20svxz2IYxCnKGPO0sY
   popularity: 28
-  url: https://open.spotify.com/artist/5lr20svxz2IYxCnKGPO0sY
+  url: 'https://open.spotify.com/artist/5lr20svxz2IYxCnKGPO0sY'
 discography_enriched: true
 top_tracks:
-- Preso (Preso de Tu Amor) (La Salsa Mundial de Alfredo de la Fe)
-- Preso (De Tú Amor)
-- Somos los Reyes del Mundo (Triunfo)
-- Excelente Amante (Lo Mejor de Alfredo de la Fe)
-- Anhelos (La Llave de la Salsa)
-- Ritmo Sabroso (La Llave de la Salsa)
-- Preso (Preso de Tu Amor) (La Salsa Mundial de Alfredo de la Fe)
-- Son de la Loma (La Salsa Mundial de Alfredo de la Fe)
-- Guantanamera (La Salsa Mundial de Alfredo de la Fe)
-- Bonito y Sabroso (La Salsa Mundial de Alfredo de la Fe)
+  - Preso (Preso de Tu Amor) (La Salsa Mundial de Alfredo de la Fe)
+  - Preso (De Tú Amor)
+  - Somos los Reyes del Mundo (Triunfo)
+  - Excelente Amante (Lo Mejor de Alfredo de la Fe)
+  - Anhelos (La Llave de la Salsa)
+  - Ritmo Sabroso (La Llave de la Salsa)
+  - Preso (Preso de Tu Amor) (La Salsa Mundial de Alfredo de la Fe)
+  - Son de la Loma (La Salsa Mundial de Alfredo de la Fe)
+  - Guantanamera (La Salsa Mundial de Alfredo de la Fe)
+  - Bonito y Sabroso (La Salsa Mundial de Alfredo de la Fe)
 external_urls:
-  spotify: https://open.spotify.com/artist/5lr20svxz2IYxCnKGPO0sY
-  wikipedia: https://en.wikipedia.org/wiki/Alfredo_De_La_F%C3%A9
+  spotify: 'https://open.spotify.com/artist/5lr20svxz2IYxCnKGPO0sY'
+  wikipedia: 'https://en.wikipedia.org/wiki/Alfredo_De_La_F%C3%A9'
 image_path: 03_Resources/source_material/ArtistPortraits/alfredo_de_la_fe.jpg
 biography_enhanced_at: '2025-11-10T03:34:30.074952'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://www.salsablvd.com/biographies/alfredo-de-la-fe.htm
-- https://worldmusiccentral.org/artist-profiles-alfredo-de-la-fe/
-- https://www.allaboutjazz.com/musicians/alfredo-de-la-fe/
-- https://musicbrainz.org/artist/ae7fc9ee-06c9-49da-a77b-1469cd853cb3
+  - 'http://www.salsablvd.com/biographies/alfredo-de-la-fe.htm'
+  - 'https://worldmusiccentral.org/artist-profiles-alfredo-de-la-fe/'
+  - 'https://www.allaboutjazz.com/musicians/alfredo-de-la-fe/'
+  - 'https://musicbrainz.org/artist/ae7fc9ee-06c9-49da-a77b-1469cd853cb3'
 network_extracted: true
 entry_created: '2025-11-10T03:34:30.074968'
 last_updated: '2025-12-23T08:16:04.569982'
-
+birth_date: '1954-02-06'
+artist_type: person
 ---
 
 ![](alfredo_de_la_fe.jpg)

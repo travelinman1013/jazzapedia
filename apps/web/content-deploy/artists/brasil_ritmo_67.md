@@ -29,32 +29,33 @@ spotify_data:
   followers: 13
   id: 48hxSi0XP304D1yh6htfdB
   popularity: 0
-  url: https://open.spotify.com/artist/48hxSi0XP304D1yh6htfdB
+  url: 'https://open.spotify.com/artist/48hxSi0XP304D1yh6htfdB'
 discography_enriched: true
 top_tracks:
-- Ritmo (Nem Todo Crioulo É Doido)
-- Quem Vai Tocar Meu Tamborim? (Jorginho É Samba Certo)
-- Cinderela do Morro (Jorginho É Samba Certo)
-- Quero Viver Feliz (Jorginho É Samba Certo)
-- O Morro e a Viola (Jorginho É Samba Certo)
-- Favela (Jorginho É Samba Certo)
-- Ah, Se Ela Voltasse (Jorginho É Samba Certo)
-- Dia de Tristeza (Jorginho É Samba Certo)
-- Nem Vem (Jorginho É Samba Certo)
-- Não Chore Amor (Jorginho É Samba Certo)
+  - Ritmo (Nem Todo Crioulo É Doido)
+  - Quem Vai Tocar Meu Tamborim? (Jorginho É Samba Certo)
+  - Cinderela do Morro (Jorginho É Samba Certo)
+  - Quero Viver Feliz (Jorginho É Samba Certo)
+  - O Morro e a Viola (Jorginho É Samba Certo)
+  - Favela (Jorginho É Samba Certo)
+  - 'Ah, Se Ela Voltasse (Jorginho É Samba Certo)'
+  - Dia de Tristeza (Jorginho É Samba Certo)
+  - Nem Vem (Jorginho É Samba Certo)
+  - Não Chore Amor (Jorginho É Samba Certo)
 external_urls:
-  spotify: https://open.spotify.com/artist/48hxSi0XP304D1yh6htfdB
+  spotify: 'https://open.spotify.com/artist/48hxSi0XP304D1yh6htfdB'
   wikipedia: null
 image_path: ''
 biography_enhanced_at: '2025-11-02T07:27:34.144912'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Samba
-- https://www.youtube.com/watch?v=Va9Ruo83YNA
+  - 'https://en.wikipedia.org/wiki/Samba'
+  - 'https://www.youtube.com/watch?v=Va9Ruo83YNA'
 network_extracted: true
 entry_created: '2025-11-02T07:27:34.144949'
 last_updated: '2025-12-23T08:16:06.031440'
+artist_type: band
 ---
 
 ![]()

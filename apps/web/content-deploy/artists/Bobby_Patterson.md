@@ -4,15 +4,15 @@ wiki_slug: bobby-patterson
 schema_version: 2
 status: active
 aliases: []
-birth_place: Dallas, Texas, United States
+birth_place: 'Dallas, Texas, United States'
 genres:
-- northern soul
-- soul
+  - northern soul
+  - soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Bobby_Patterson.jpg
   caption: Bobby Patterson
   background: solo_singer
-  origin: Dallas, Texas, United States
+  origin: 'Dallas, Texas, United States'
 audio_profile:
   tempo_avg: 120.8
   energy_avg: 0.584
@@ -28,58 +28,67 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Fontella Bass
-  - Little Johnny Taylor
-  - Zach Ernst
-  - The Mustangs
+    - Fontella Bass
+    - Little Johnny Taylor
+    - Zach Ernst
+    - The Mustangs
   influenced:
-  - Albert King
-  - The Fabulous Thunderbirds
-  - Jeff Tweedy (Golden Smog)
+    - Albert King
+    - The Fabulous Thunderbirds
+    - Jeff Tweedy (Golden Smog)
   mentors:
-  - Bobby 'Blue' Bland
-  - Otis Redding
-  - Wilson Pickett
+    - Bobby 'Blue' Bland
+    - Otis Redding
+    - Wilson Pickett
 related_artists: []
 spotify_data:
   followers: 5083
   id: 6gCa8F8P0PSVNYUMtoQOgk
   popularity: 19
-  url: https://open.spotify.com/artist/6gCa8F8P0PSVNYUMtoQOgk
+  url: 'https://open.spotify.com/artist/6gCa8F8P0PSVNYUMtoQOgk'
   verified: false
 discography_enriched: true
 albums_count: 6
 singles_count: 4
 top_tracks:
-- 'I''m in Love With You (My Thing Is Your Thing: Jetstar Strut From Bobby Patterson)'
-- How Do You Spell Love (It's Just a Matter of Time)
-- 'T.C.B. or T.Y.A. (My Thing Is Your Thing: Jetstar Strut From Bobby Patterson)'
-- I Get My Groove From You (Soul Of The Man)
-- 'Let Them Talk (Soul Is My Music: The Best of Bobby Patterson)'
-- 'Sourwood Mountain (Legends of Old-Time Music: Fifty Years of County Records)'
-- 'Till You Give In (My Thing Is Your Thing: Jetstar Strut From Bobby Patterson)'
-- 'Sail Away Ladies (Legends of Old-Time Music: Fifty Years of County Records)'
-- I Get My Groove from You (It's Just a Matter of Time)
-- How Do You Spell Love? (Soul Of The Man)
+  - >-
+    I'm in Love With You (My Thing Is Your Thing: Jetstar Strut From Bobby
+    Patterson)
+  - How Do You Spell Love (It's Just a Matter of Time)
+  - >-
+    T.C.B. or T.Y.A. (My Thing Is Your Thing: Jetstar Strut From Bobby
+    Patterson)
+  - I Get My Groove From You (Soul Of The Man)
+  - 'Let Them Talk (Soul Is My Music: The Best of Bobby Patterson)'
+  - 'Sourwood Mountain (Legends of Old-Time Music: Fifty Years of County Records)'
+  - >-
+    Till You Give In (My Thing Is Your Thing: Jetstar Strut From Bobby
+    Patterson)
+  - 'Sail Away Ladies (Legends of Old-Time Music: Fifty Years of County Records)'
+  - I Get My Groove from You (It's Just a Matter of Time)
+  - How Do You Spell Love? (Soul Of The Man)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/6gCa8F8P0PSVNYUMtoQOgk
-  wikipedia: https://en.wikipedia.org/wiki/Bobby_Patterson
+  spotify: 'https://open.spotify.com/artist/6gCa8F8P0PSVNYUMtoQOgk'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bobby_Patterson'
 image_path: 03_Resources/source_material/ArtistPortraits/Bobby_Patterson.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:26:21.775277'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://kutx.org/song-of-the-day/bobby-patterson-i-got-more-soul/
-- http://www.soulwalking.co.uk/Bobby%20Patterson.html
-- https://kxt.org/2023/10/dallas-bluesman-bobby-patterson-has-more-soul/
-- https://www.last.fm/music/Bobby+Patterson/+wiki
-- https://www.allmusic.com/artist/bobby-patterson-mn0000075779
+  - 'https://kutx.org/song-of-the-day/bobby-patterson-i-got-more-soul/'
+  - 'http://www.soulwalking.co.uk/Bobby%20Patterson.html'
+  - 'https://kxt.org/2023/10/dallas-bluesman-bobby-patterson-has-more-soul/'
+  - 'https://www.last.fm/music/Bobby+Patterson/+wiki'
+  - 'https://www.allmusic.com/artist/bobby-patterson-mn0000075779'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 15:23:02.058334
+entry_created: 2025-09-18T15:23:02.058Z
 last_updated: '2025-12-23T08:16:01.289931'
+origin: 'Dallas, Texas, United States'
+birth_date: '1944-03-13'
+artist_type: person
 ---
 
 ![](Bobby_Patterson.jpg)

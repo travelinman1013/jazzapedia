@@ -5,18 +5,18 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1941-08-01'
-birth_place: Mato Grosso do Sul
+birth_place: 'Bela Vista, Mato Grosso do Sul, Brazil'
 genres:
-- mpb
-- samba
+  - mpb
+  - samba
 instruments:
-- lead vocals
+  - lead vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6840dcbe-3aca-4057-8d16-4799c3730e3a
-  name: Secos & Molhados
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6840dcbe-3aca-4057-8d16-4799c3730e3a
+    name: Secos & Molhados
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ney_matogrosso.jpg
   caption: Ney Matogrosso
@@ -30,7 +30,7 @@ audio_profile:
   danceability_avg: 0.58
   acousticness_avg: 0.523
   instrumentalness_avg: 0.005
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.042
   liveness_avg: 0.194
   track_count: 50
@@ -38,55 +38,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Secos & Molhados
-  - Chico Buarque
-  - Cazuza
-  - Caetano Veloso
-  - Itamar Assumpção
+    - Secos & Molhados
+    - Chico Buarque
+    - Cazuza
+    - Caetano Veloso
+    - Itamar Assumpção
   influenced:
-  - Liniker
-  - Johnny Hooker
+    - Liniker
+    - Johnny Hooker
   mentors:
-  - His mother (pianist)
+    - His mother (pianist)
 spotify_data:
   followers: 970649
   id: 2SFIMUkCdZowbeisskDdhn
   popularity: 59
-  url: https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn
+  url: 'https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn'
 discography_enriched: true
 top_tracks:
-- Poema (Olhos De Farol)
-- Homem Com H (Ney Matogrosso)
-- Sorte
-- Algoritmo Íntimo
-- Sangue latino (Pecado (1977))
-- Pássaro Branco
-- Ex-Amor
-- Balada Do Louco (Bugre (1986))
-- Tanto Amar (Mato Grosso (1982))
-- Pro Dia Nascer Feliz (feat. Ney Matogrosso) - Ao Vivo (Multishow ao Vivo - Jota Quest - Folia & Caos)
+  - Poema (Olhos De Farol)
+  - Homem Com H (Ney Matogrosso)
+  - Sorte
+  - Algoritmo Íntimo
+  - Sangue latino (Pecado (1977))
+  - Pássaro Branco
+  - Ex-Amor
+  - Balada Do Louco (Bugre (1986))
+  - Tanto Amar (Mato Grosso (1982))
+  - >-
+    Pro Dia Nascer Feliz (feat. Ney Matogrosso) - Ao Vivo (Multishow ao Vivo -
+    Jota Quest - Folia & Caos)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/67e97898-3bb5-412a-a51e-95a7b59a1bef
-  spotify: https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn
-  wikipedia: https://en.wikipedia.org/wiki/Ney_Matogrosso
+  musicbrainz: 'https://musicbrainz.org/artist/67e97898-3bb5-412a-a51e-95a7b59a1bef'
+  spotify: 'https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ney_Matogrosso'
 image_path: 03_Resources/source_material/ArtistPortraits/ney_matogrosso.jpg
 biography_enhanced_at: '2025-11-23T06:29:36.649466'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Ney_Matogrosso
-- https://notthesamo.com/en/zine/coragem-arte-e-reinven%C3%A7%C3%A3o-a-hist%C3%B3ria-de-ney-matogrosso
-- https://www.aaemusic.com/artist/ney-matogrosso
-- https://recentmusic.com/artist/2SFIMUkCdZowbeisskDdhn/
-- https://www.hercampus.com/school/casper-libero/ney-matogrosso-get-to-know-the-82-year-old-legend-that-made-his-name-at-the-town/
+  - 'https://en.wikipedia.org/wiki/Ney_Matogrosso'
+  - >-
+    https://notthesamo.com/en/zine/coragem-arte-e-reinven%C3%A7%C3%A3o-a-hist%C3%B3ria-de-ney-matogrosso
+  - 'https://www.aaemusic.com/artist/ney-matogrosso'
+  - 'https://recentmusic.com/artist/2SFIMUkCdZowbeisskDdhn/'
+  - >-
+    https://www.hercampus.com/school/casper-libero/ney-matogrosso-get-to-know-the-82-year-old-legend-that-made-his-name-at-the-town/
 network_extracted: true
 entry_created: '2025-11-23T06:29:36.649474'
 last_updated: '2025-12-23T08:16:13.550028'
 gender: Male
 musicbrainz_id: 67e97898-3bb5-412a-a51e-95a7b59a1bef
 tags:
-- mpb
-- pop
+  - mpb
+  - pop
+origin: 'São Paulo, São Paulo, Brazil'
 ---
 
 ![](ney_matogrosso.jpg)

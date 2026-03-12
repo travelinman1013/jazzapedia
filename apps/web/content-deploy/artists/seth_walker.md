@@ -1,50 +1,51 @@
 ---
 biography_enhanced_at: '2026-01-22T07:14:06.068366'
-birth_place: Rural North Carolina, USA
+birth_place: 'Rural North Carolina, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:14:06.068372'
 external_urls:
-  spotify: https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9
+  spotify: 'https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9'
   wikipedia: ''
 genres:
-- blues
-- modern blues
+  - blues
+  - modern blues
 image_path: 03_Resources/source_material/ArtistPortraits/seth_walker.jpg
 last_updated: '2026-01-22T07:14:06.068373'
 musical_connections:
   collaborators:
-  - Jano Rix
-  - The Wood Brothers
-  - The Mavericks
-  - Raul Malo
-  - Paul Thorn
-  - Ruthie Foster
-  - Robert Plant
-  - Zac Brown Band
+    - Jano Rix
+    - The Wood Brothers
+    - The Mavericks
+    - Raul Malo
+    - Paul Thorn
+    - Ruthie Foster
+    - Robert Plant
+    - Zac Brown Band
   influenced: []
   mentors:
-  - Landon Walker
-  - T-Bone Walker
-  - Snooks Eaglin
-  - B.B. King
+    - Landon Walker
+    - T-Bone Walker
+    - Snooks Eaglin
+    - B.B. King
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://treshombres.be/roster/seth-walker
-- https://mutotix.umich.edu/5898/5899
-- https://www.greennote.co.uk/production/seth-walker/
-- https://www.moabfolkfestival.com/sethwalker
-- https://kgnu.org/music-posts/interview-seth-walker/
-- https://americana-uk.com/more-people-should-really-know-about-seth-walker
-- https://thekessler.org/bands/seth-walker/
-- https://sethwalker.com/bio/
+  - 'https://treshombres.be/roster/seth-walker'
+  - 'https://mutotix.umich.edu/5898/5899'
+  - 'https://www.greennote.co.uk/production/seth-walker/'
+  - 'https://www.moabfolkfestival.com/sethwalker'
+  - 'https://kgnu.org/music-posts/interview-seth-walker/'
+  - 'https://americana-uk.com/more-people-should-really-know-about-seth-walker'
+  - 'https://thekessler.org/bands/seth-walker/'
+  - 'https://sethwalker.com/bio/'
 spotify_data:
   followers: 10929
   id: 3Bl4eNAFJkXXi0ewcjgGP9
   popularity: 27
-  url: https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9
+  url: 'https://open.spotify.com/artist/3Bl4eNAFJkXXi0ewcjgGP9'
 status: active
 title: Seth Walker
+artist_type: person
 ---
 
 ![](seth_walker.jpg)

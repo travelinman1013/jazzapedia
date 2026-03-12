@@ -1,16 +1,16 @@
 ---
-title: HI RHYTHM
+title: HI Rhythm
 wiki_slug: hi-rhythm
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- blues
-- modern blues
-- soul blues
-- blues rock
+  - blues
+  - modern blues
+  - soul blues
+  - blues rock
 instruments:
-- original
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/hi_rhythm.jpg
   caption: HI RHYTHM
@@ -22,7 +22,7 @@ audio_profile:
   danceability_avg: 0.637
   acousticness_avg: 0.187
   instrumentalness_avg: 0.094
-  loudness_avg: -7.0
+  loudness_avg: -7
   speechiness_avg: 0.04
   liveness_avg: 0.132
   track_count: 30
@@ -30,75 +30,76 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Al Green
-  - Ann Peebles
-  - O.V. Wright
-  - Cat Power (Chan Marshall)
-  - Syl Johnson
+    - Al Green
+    - Ann Peebles
+    - O.V. Wright
+    - Cat Power (Chan Marshall)
+    - Syl Johnson
   influenced:
-  - Mark Ronson
-  - The Dap-Kings
+    - Mark Ronson
+    - The Dap-Kings
   mentors:
-  - Willie Mitchell
+    - Willie Mitchell
 spotify_data:
   followers: 291
   id: 6htrlAemvAdGtPAzm0OMk6
   popularity: 18
-  url: https://open.spotify.com/artist/6htrlAemvAdGtPAzm0OMk6
+  url: 'https://open.spotify.com/artist/6htrlAemvAdGtPAzm0OMk6'
 discography_enriched: true
 top_tracks:
-- The Same Love That Made Me Laugh (Robert Cray & Hi Rhythm)
-- You Must Believe in Yourself (Robert Cray & Hi Rhythm)
-- I Don't Care (Robert Cray & Hi Rhythm)
-- You Had My Heart (Robert Cray & Hi Rhythm)
-- Aspen, Colorado (Robert Cray & Hi Rhythm)
-- Honey Bad (Robert Cray & Hi Rhythm)
-- Don't Steal My Love (Robert Cray & Hi Rhythm)
-- The Way We Are (Robert Cray & Hi Rhythm)
-- Just How Low (Robert Cray & Hi Rhythm)
-- I'm with You, Pt. 1 (Robert Cray & Hi Rhythm)
+  - The Same Love That Made Me Laugh (Robert Cray & Hi Rhythm)
+  - You Must Believe in Yourself (Robert Cray & Hi Rhythm)
+  - I Don't Care (Robert Cray & Hi Rhythm)
+  - You Had My Heart (Robert Cray & Hi Rhythm)
+  - 'Aspen, Colorado (Robert Cray & Hi Rhythm)'
+  - Honey Bad (Robert Cray & Hi Rhythm)
+  - Don't Steal My Love (Robert Cray & Hi Rhythm)
+  - The Way We Are (Robert Cray & Hi Rhythm)
+  - Just How Low (Robert Cray & Hi Rhythm)
+  - 'I''m with You, Pt. 1 (Robert Cray & Hi Rhythm)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/46b80cfb-c78d-4dac-bdc2-42c0ef413dca
-  spotify: https://open.spotify.com/artist/6htrlAemvAdGtPAzm0OMk6
-  wikipedia: https://en.wikipedia.org/wiki/Hi_Rhythm_Section
+  musicbrainz: 'https://musicbrainz.org/artist/46b80cfb-c78d-4dac-bdc2-42c0ef413dca'
+  spotify: 'https://open.spotify.com/artist/6htrlAemvAdGtPAzm0OMk6'
+  wikipedia: 'https://en.wikipedia.org/wiki/Hi_Rhythm_Section'
 image_path: 03_Resources/source_material/ArtistPortraits/hi_rhythm.jpg
 biography_enhanced_at: '2025-11-20T07:17:56.556748'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://memphismusichalloffame.com/inductee/hirhythmsection/
-- https://en.wikipedia.org/wiki/Hi_Rhythm_Section
-- https://archive.commercialappeal.com/entertainment/back-in-the-hi-life-ep-398187539-323986661.html/
+  - 'https://memphismusichalloffame.com/inductee/hirhythmsection/'
+  - 'https://en.wikipedia.org/wiki/Hi_Rhythm_Section'
+  - >-
+    https://archive.commercialappeal.com/entertainment/back-in-the-hi-life-ep-398187539-323986661.html/
 network_extracted: true
 entry_created: '2025-11-20T07:17:56.556758'
 last_updated: '2025-12-23T08:16:09.602867'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: c5c6c5b6-0809-49d8-ba51-627a862b3395
-  name: Howard Grimes
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: f6b260bf-2522-4911-9a3f-ef818e0df350
-  name: Charles Hodges
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 63d123c4-441b-4830-a4f8-a8154a28d350
-  name: Leroy Hodges
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 2d1e278a-61d6-44c0-8d21-9145a810bfbf
-  name: Mabon Hodges
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: c5c6c5b6-0809-49d8-ba51-627a862b3395
+    name: Howard Grimes
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: f6b260bf-2522-4911-9a3f-ef818e0df350
+    name: Charles Hodges
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 63d123c4-441b-4830-a4f8-a8154a28d350
+    name: Leroy Hodges
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 2d1e278a-61d6-44c0-8d21-9145a810bfbf
+    name: Mabon Hodges
 musicbrainz_id: 46b80cfb-c78d-4dac-bdc2-42c0ef413dca
-origin: Memphis, Tennessee, United States
+origin: 'Memphis, Tennessee, United States'
 ---
 
 ![](hi_rhythm.jpg)

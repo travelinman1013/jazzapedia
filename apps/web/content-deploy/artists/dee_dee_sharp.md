@@ -1,21 +1,21 @@
 ---
-title: dee dee sharp
+title: Dee Dee Sharp
 wiki_slug: dee-dee-sharp
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1945-09-09'
-birth_place: Philadelphia
+birth_place: 'Philadelphia, Pennsylvania, United States'
 genres:
-- philly soul
-- doo-wop
-- northern soul
+  - philly soul
+  - doo-wop
+  - northern soul
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b93d8790-a18b-4c1b-80bf-2a53102ae4d5
-  name: Philadelphia International All Stars
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b93d8790-a18b-4c1b-80bf-2a53102ae4d5
+    name: Philadelphia International All Stars
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/dee_dee_sharp.jpg
   caption: dee dee sharp
@@ -37,56 +37,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Chubby Checker
-  - Kenny Gamble
-  - Leon Huff
-  - Philadelphia International All Stars
-  - Bunny Sigler
+    - Chubby Checker
+    - Kenny Gamble
+    - Leon Huff
+    - Philadelphia International All Stars
+    - Bunny Sigler
   influenced: []
   mentors:
-  - Chubby Checker
-  - Bernie Lowe
-  - Kal Mann
+    - Chubby Checker
+    - Bernie Lowe
+    - Kal Mann
 spotify_data:
   followers: 39976
   id: 2NtGOVTuHBMDfR5PMNPBGT
   popularity: 36
-  url: https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT
+  url: 'https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT'
 discography_enriched: true
 top_tracks:
-- Mashed Potato Time (It's Mashed Potato Time/Do The Bird)
-- I Really Love You
-- Gravy (For My Mashed Potatoes) (It's Mashed Potato Time/Do The Bird)
-- 'Gravy - 2024 Remastered (Essential Classics, Vol. 246: Dee Dee Sharp)'
-- Gravy (For My Mashed Potatoes)
-- Gravy (For My Mashed Potatoes)
-- Slow Twistin' (It's Mashed Potato Time/Do The Bird)
-- Do The Bird (It's Mashed Potato Time/Do The Bird)
-- I Believe in Love (What Color Is Love)
-- Love Buddies (Happy 'Bout The Whole Thing)
+  - Mashed Potato Time (It's Mashed Potato Time/Do The Bird)
+  - I Really Love You
+  - Gravy (For My Mashed Potatoes) (It's Mashed Potato Time/Do The Bird)
+  - 'Gravy - 2024 Remastered (Essential Classics, Vol. 246: Dee Dee Sharp)'
+  - Gravy (For My Mashed Potatoes)
+  - Gravy (For My Mashed Potatoes)
+  - Slow Twistin' (It's Mashed Potato Time/Do The Bird)
+  - Do The Bird (It's Mashed Potato Time/Do The Bird)
+  - I Believe in Love (What Color Is Love)
+  - Love Buddies (Happy 'Bout The Whole Thing)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f578244c-6054-4eca-96ec-41fcae83d8f1
-  spotify: https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT
-  wikipedia: https://en.wikipedia.org/wiki/Dee_Dee_Sharp
+  musicbrainz: 'https://musicbrainz.org/artist/f578244c-6054-4eca-96ec-41fcae83d8f1'
+  spotify: 'https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dee_Dee_Sharp'
 image_path: 03_Resources/source_material/ArtistPortraits/dee_dee_sharp.jpg
 biography_enhanced_at: '2025-11-28T07:35:35.776482'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Dee Dee Sharp
-- Philadelphia Music Alliance - Walk of Fame
-- Rocky-52.net - Dee Dee Sharp Biography
-- Jango Radio - Dee Dee Sharp
-- IMDb - Dee Dee Sharp
+  - Wikipedia - Dee Dee Sharp
+  - Philadelphia Music Alliance - Walk of Fame
+  - Rocky-52.net - Dee Dee Sharp Biography
+  - Jango Radio - Dee Dee Sharp
+  - IMDb - Dee Dee Sharp
 network_extracted: true
 entry_created: '2025-11-28T07:35:35.776494'
 last_updated: '2025-12-23T08:16:07.665998'
 gender: Female
 musicbrainz_id: f578244c-6054-4eca-96ec-41fcae83d8f1
 tags:
-- mezzo-soprano
-- philly soul
-- pop
+  - mezzo-soprano
+  - philly soul
+  - pop
 ---
 
 ![](dee_dee_sharp.jpg)

@@ -3,17 +3,17 @@ title: Bobby Blue Bland
 wiki_slug: bobby-blue-bland
 schema_version: 2
 status: active
-birth_place: Rosemark, Tennessee, United States
+birth_place: 'Rosemark, Tennessee, United States'
 genres:
-- blues
-- soul blues
-- classic blues
-- soul
+  - blues
+  - soul blues
+  - classic blues
+  - soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Bobby_Blue_Bland.jpg
   caption: Bobby Blue Bland
   background: solo_singer
-  origin: Rosemark, Tennessee, United States
+  origin: 'Rosemark, Tennessee, United States'
 audio_profile:
   tempo_avg: 124.9
   energy_avg: 0.421
@@ -29,52 +29,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - B.B. King
-  - Joe Scott
-  - Wayne Bennett
-  - Johnny Ace
+    - B.B. King
+    - Joe Scott
+    - Wayne Bennett
+    - Johnny Ace
   influenced:
-  - Jay-Z
-  - Whitesnake
-  - Van Morrison
+    - Jay-Z
+    - Whitesnake
+    - Van Morrison
   mentors:
-  - Rev. C.L. Franklin
-  - Andy Williams
+    - Rev. C.L. Franklin
+    - Andy Williams
 spotify_data:
   followers: 178283
   id: 48nwxUvPJZkm8uPa7xMzmj
   popularity: 49
-  url: https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj
+  url: 'https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj'
 discography_enriched: true
 top_tracks:
-- Ain't No Love In The Heart Of The City - Single Version (Dreamer)
-- Ain't No Love In The Heart Of The City - Single Version (Music For Groovin')
-- 'I''ll Take Care Of You (I Pity The Fool: The Duke Recordings, Vol. One)'
-- I Wouldn't Treat A Dog (The Way You Treated Me) - Single Version (Dreamer)
-- Ain't No Sunshine When She's Gone (Midnight Run)
-- 'Stormy Monday Blues - Single Version (Turn On Your Love Light: The Duke Recordings Volume 2)'
-- Driftin' Blues - Single Version (That's It! / Duke Recordings Vol. III)
-- Members Only (Members Only)
-- 'Turn On Your Love Light (Turn On Your Love Light: The Duke Recordings Volume 2)'
-- 'Farther Up The Road (I Pity The Fool: The Duke Recordings, Vol. One)'
+  - Ain't No Love In The Heart Of The City - Single Version (Dreamer)
+  - Ain't No Love In The Heart Of The City - Single Version (Music For Groovin')
+  - 'I''ll Take Care Of You (I Pity The Fool: The Duke Recordings, Vol. One)'
+  - I Wouldn't Treat A Dog (The Way You Treated Me) - Single Version (Dreamer)
+  - Ain't No Sunshine When She's Gone (Midnight Run)
+  - >-
+    Stormy Monday Blues - Single Version (Turn On Your Love Light: The Duke
+    Recordings Volume 2)
+  - Driftin' Blues - Single Version (That's It! / Duke Recordings Vol. III)
+  - Members Only (Members Only)
+  - >-
+    Turn On Your Love Light (Turn On Your Love Light: The Duke Recordings Volume
+    2)
+  - 'Farther Up The Road (I Pity The Fool: The Duke Recordings, Vol. One)'
 external_urls:
-  spotify: https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj
-  wikipedia: https://en.wikipedia.org/wiki/Bobby_Bland
+  spotify: 'https://open.spotify.com/artist/48nwxUvPJZkm8uPa7xMzmj'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bobby_Bland'
 image_path: 03_Resources/source_material/ArtistPortraits/Bobby_Blue_Bland.jpg
 biography_enhanced_at: '2025-10-19T11:38:43.599904'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.britannica.com/biography/Bobby-Blue-Bland
-- https://blackpast.org/african-american-history/bland-bobby-blue-1930/
-- https://memphismusichalloffame.com/inductee/bobbybluebland/
-- https://rockhall.com/inductees/bobby-blue-bland/
-- https://georgelamplugh.com/2014/02/01/blues-stories-13-the-voice-of-the-urban-blues-bobby-blue-bland-1930-2013/
-- https://www.americanbluesscene.com/2013/06/bobby-blue-bland/
+  - 'https://www.britannica.com/biography/Bobby-Blue-Bland'
+  - 'https://blackpast.org/african-american-history/bland-bobby-blue-1930/'
+  - 'https://memphismusichalloffame.com/inductee/bobbybluebland/'
+  - 'https://rockhall.com/inductees/bobby-blue-bland/'
+  - >-
+    https://georgelamplugh.com/2014/02/01/blues-stories-13-the-voice-of-the-urban-blues-bobby-blue-bland-1930-2013/
+  - 'https://www.americanbluesscene.com/2013/06/bobby-blue-bland/'
 network_extracted: true
 entry_created: '2025-10-19T11:38:43.599911'
 last_updated: '2025-12-23T08:16:01.274640'
-
+birth_date: '1930-01-27'
+artist_type: person
 ---
 
 ![](Bobby_Blue_Bland.jpg)

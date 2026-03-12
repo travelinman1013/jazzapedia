@@ -4,7 +4,7 @@ wiki_slug: quito-ribeiro
 schema_version: 2
 status: active
 genres:
-- indonesian pop
+  - indonesian pop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/quito_ribeiro.jpg
   caption: Quito Ribeiro
@@ -30,31 +30,32 @@ spotify_data:
   followers: 173
   id: 32Ema9TqnFzaYvpW8MyHcO
   popularity: 0
-  url: https://open.spotify.com/artist/32Ema9TqnFzaYvpW8MyHcO
+  url: 'https://open.spotify.com/artist/32Ema9TqnFzaYvpW8MyHcO'
 discography_enriched: true
 top_tracks:
-- Artificial (Uma Coisa Só)
-- Nêga (Uma Coisa Só)
-- Santinha (Uma Coisa Só)
-- Água e Sal (Uma Coisa Só)
-- Rumbeira Kundun (Uma Coisa Só)
-- Braço de Mar (Uma Coisa Só)
-- Neuroeuropeu (Uma Coisa Só)
-- Infinitésimo (Uma Coisa Só)
-- Bembé (Uma Coisa Só)
-- Warm (Uma Coisa Só)
+  - Artificial (Uma Coisa Só)
+  - Nêga (Uma Coisa Só)
+  - Santinha (Uma Coisa Só)
+  - Água e Sal (Uma Coisa Só)
+  - Rumbeira Kundun (Uma Coisa Só)
+  - Braço de Mar (Uma Coisa Só)
+  - Neuroeuropeu (Uma Coisa Só)
+  - Infinitésimo (Uma Coisa Só)
+  - Bembé (Uma Coisa Só)
+  - Warm (Uma Coisa Só)
 external_urls:
-  spotify: https://open.spotify.com/artist/32Ema9TqnFzaYvpW8MyHcO
+  spotify: 'https://open.spotify.com/artist/32Ema9TqnFzaYvpW8MyHcO'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/quito_ribeiro.jpg
 biography_enhanced_at: '2025-11-02T07:30:25.481100'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Spotify artist profile[2]
+  - 'Spotify artist profile[2]'
 network_extracted: true
 entry_created: '2025-11-02T07:30:25.481111'
 last_updated: '2025-12-23T08:16:14.527922'
+artist_type: person
 ---
 
 ![](quito_ribeiro.jpg)

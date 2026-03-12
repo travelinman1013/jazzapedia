@@ -3,16 +3,16 @@ title: Calvin Johnson
 wiki_slug: calvin-johnson
 schema_version: 2
 status: active
-birth_place: Olympia, Washington, United States
+birth_place: 'Olympia, Washington, United States'
 genres:
-- jangle pop
+  - jangle pop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/calvin_johnson.jpg
   caption: Calvin Johnson
   background: solo_singer
-  origin: Olympia, Washington, United States
+  origin: 'Olympia, Washington, United States'
 audio_profile:
-  tempo_avg: 114.0
+  tempo_avg: 114
   energy_avg: 0.471
   valence_avg: 0.453
   danceability_avg: 0.579
@@ -26,54 +26,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Heather Lewis
-  - Bret Lunsford
-  - Tobi Vail
-  - Doug Martsch
-  - Beth Ditto
-  - Mirah
-  - Patrick Carney
-  - Kurt Cobain
+    - Heather Lewis
+    - Bret Lunsford
+    - Tobi Vail
+    - Doug Martsch
+    - Beth Ditto
+    - Mirah
+    - Patrick Carney
+    - Kurt Cobain
   influenced:
-  - Kurt Cobain
-  - Beck
-  - Modest Mouse
-  - Riot Grrrl movement (e.g., Bikini Kill)
+    - Kurt Cobain
+    - Beck
+    - Modest Mouse
+    - 'Riot Grrrl movement (e.g., Bikini Kill)'
   mentors:
-  - Sun Studio and Stax Records artists
+    - Sun Studio and Stax Records artists
 spotify_data:
   followers: 5259
   id: 4L0x6V9ckwc4QhR069mk9M
   popularity: 17
-  url: https://open.spotify.com/artist/4L0x6V9ckwc4QhR069mk9M
+  url: 'https://open.spotify.com/artist/4L0x6V9ckwc4QhR069mk9M'
 discography_enriched: true
 top_tracks:
-- C Is The Heavenly Option (Le Jardin De Heavenly)
-- Pet Monkey (Operation Heavenly)
-- Love Will Come Back Again (What Was Me)
-- Dance of Love
-- Can We Kiss? (What Was Me)
-- Sorry Entertainer
-- Wherefore Art Thou (A Wonderful Beast)
-- A Wonderful Beast (A Wonderful Beast)
-- The Past Comes Back to Haunt Me (What Was Me)
-- Ode to St. Valentine (What Was Me)
+  - C Is The Heavenly Option (Le Jardin De Heavenly)
+  - Pet Monkey (Operation Heavenly)
+  - Love Will Come Back Again (What Was Me)
+  - Dance of Love
+  - Can We Kiss? (What Was Me)
+  - Sorry Entertainer
+  - Wherefore Art Thou (A Wonderful Beast)
+  - A Wonderful Beast (A Wonderful Beast)
+  - The Past Comes Back to Haunt Me (What Was Me)
+  - Ode to St. Valentine (What Was Me)
 external_urls:
-  spotify: https://open.spotify.com/artist/4L0x6V9ckwc4QhR069mk9M
-  wikipedia: https://en.wikipedia.org/wiki/Calvin_Johnson_(musician)
+  spotify: 'https://open.spotify.com/artist/4L0x6V9ckwc4QhR069mk9M'
+  wikipedia: 'https://en.wikipedia.org/wiki/Calvin_Johnson_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/calvin_johnson.jpg
 biography_enhanced_at: '2025-11-05T12:54:34.877768'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Calvin_Johnson_(musician)
-- https://exclaim.ca/music/article/beat_happening-music_for_everyone
-- https://jivetimerecords.com/2024/10/beat-happening-beat-happening-k-1985/
-- https://cccb.org/en/participants/file/calvin-johnson/45909
-- https://kexp.org/read/2022/7/15/wipe-the-slate-clean-for-the-umpteenth-time-a-beat-happening-critical-overview/
+  - 'https://en.wikipedia.org/wiki/Calvin_Johnson_(musician)'
+  - 'https://exclaim.ca/music/article/beat_happening-music_for_everyone'
+  - 'https://jivetimerecords.com/2024/10/beat-happening-beat-happening-k-1985/'
+  - 'https://cccb.org/en/participants/file/calvin-johnson/45909'
+  - >-
+    https://kexp.org/read/2022/7/15/wipe-the-slate-clean-for-the-umpteenth-time-a-beat-happening-critical-overview/
 network_extracted: true
 entry_created: '2025-11-05T12:54:34.877784'
 last_updated: '2025-12-23T08:16:06.307239'
+birth_date: '1962-11-01'
+artist_type: person
 ---
 
 ![](calvin_johnson.jpg)

@@ -3,16 +3,16 @@ title: Adoniran Barbosa
 wiki_slug: adoniran-barbosa
 schema_version: 2
 status: active
-birth_place: Valinhos, São Paulo, Brazil
+birth_place: 'Valinhos, São Paulo, Brazil'
 genres:
-- samba
-- mpb
-- bossa nova
+  - samba
+  - mpb
+  - bossa nova
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/adoniran_barbosa.jpg
   caption: Adoniran Barbosa
   background: solo_singer
-  origin: Valinhos, São Paulo, Brazil
+  origin: 'Valinhos, São Paulo, Brazil'
 audio_profile:
   tempo_avg: 106.9
   energy_avg: 0.587
@@ -28,47 +28,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Demônios da Garoa
-  - Elis Regina
-  - Gonzaguinha
-  - Carlinhos Vergueiro
+    - Demônios da Garoa
+    - Elis Regina
+    - Gonzaguinha
+    - Carlinhos Vergueiro
   influenced:
-  - Chico Buarque
-  - Paulinho da Viola
-  - Demônios da Garoa
+    - Chico Buarque
+    - Paulinho da Viola
+    - Demônios da Garoa
   mentors:
-  - Italian immigrant community of São Paulo
+    - Italian immigrant community of São Paulo
 spotify_data:
   followers: 399959
   id: 7vTlV3ajnMxl5l0ahupUeP
   popularity: 53
-  url: https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP
+  url: 'https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP'
 discography_enriched: true
 top_tracks:
-- Trem Das Onze (Adoniran Barbosa)
-- Tiro Ao Álvaro (Vento De Maio)
-- Saudosa Maloca (Adoniran Barbosa)
-- Tiro Ao Álvaro
-- Samba do Arnesto (Adoniran Barbosa)
-- Trem Das Onze (Para Sempre)
-- Iracema (Adoniran Barbosa)
-- Prova De Carinho (Adoniran Barbosa)
-- Abrigo De Vagabundo (Adoniran Barbosa)
-- Samba do Arnesto (Saudosa Maloca)
+  - Trem Das Onze (Adoniran Barbosa)
+  - Tiro Ao Álvaro (Vento De Maio)
+  - Saudosa Maloca (Adoniran Barbosa)
+  - Tiro Ao Álvaro
+  - Samba do Arnesto (Adoniran Barbosa)
+  - Trem Das Onze (Para Sempre)
+  - Iracema (Adoniran Barbosa)
+  - Prova De Carinho (Adoniran Barbosa)
+  - Abrigo De Vagabundo (Adoniran Barbosa)
+  - Samba do Arnesto (Saudosa Maloca)
 external_urls:
-  spotify: https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP
-  wikipedia: https://en.wikipedia.org/wiki/Adoniran_Barbosa
+  spotify: 'https://open.spotify.com/artist/7vTlV3ajnMxl5l0ahupUeP'
+  wikipedia: 'https://en.wikipedia.org/wiki/Adoniran_Barbosa'
 image_path: 03_Resources/source_material/ArtistPortraits/adoniran_barbosa.jpg
 biography_enhanced_at: '2025-11-02T07:29:57.552087'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Adoniran_Barbosa
-- https://www.last.fm/music/Adoniran+Barbosa/+wiki
-- https://www.viberate.com/artist/adoniran-barbosa/
+  - 'https://en.wikipedia.org/wiki/Adoniran_Barbosa'
+  - 'https://www.last.fm/music/Adoniran+Barbosa/+wiki'
+  - 'https://www.viberate.com/artist/adoniran-barbosa/'
 network_extracted: true
 entry_created: '2025-11-02T07:29:57.552104'
 last_updated: '2025-12-23T08:16:04.395407'
+origin: 'São Paulo, State/Region, Brazil'
+birth_date: '1910-08-06'
+death_date: '1982-11-23'
+artist_type: person
 ---
 
 ![](adoniran_barbosa.jpg)

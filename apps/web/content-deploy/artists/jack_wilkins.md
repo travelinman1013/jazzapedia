@@ -1,74 +1,80 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6ea113e4-b304-4e8c-9c58-2f7b2e091620
-  name: Mingus Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6ea113e4-b304-4e8c-9c58-2f7b2e091620
+    name: Mingus Orchestra
 biography_enhanced_at: '2026-01-06T02:04:46.547532'
 birth_date: '1944-06-03'
-birth_place: Brooklyn
+birth_place: 'Brooklyn, New York, United States'
 death_date: '2023-05-05'
 disambiguation: US jazz guitarist
 enhancement_provider: perplexity
 entry_created: '2026-01-06T02:04:46.547538'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a9044a89-5199-4516-9ac3-9eb4385c97d9
-  spotify: https://open.spotify.com/artist/6oalE1Ov29U9WBDn63puSu
+  musicbrainz: 'https://musicbrainz.org/artist/a9044a89-5199-4516-9ac3-9eb4385c97d9'
+  spotify: 'https://open.spotify.com/artist/6oalE1Ov29U9WBDn63puSu'
   wikipedia: ''
 gender: Male
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/jack_wilkins.jpg
 instruments:
-- guitar
-- electric guitar
+  - guitar
+  - electric guitar
 last_updated: '2026-01-06T02:04:46.547539'
 musical_connections:
   collaborators:
-  - Buddy Rich
-  - Eddie Gómez
-  - Steve LaSpina
-  - Chet Baker
-  - Randy Brecker
-  - Michael Brecker
-  - Jack DeJohnette
-  - Manhattan Transfer
-  - Sarah Vaughan
-  - Mel Tormé
-  - Ray Charles
+    - Buddy Rich
+    - Eddie Gómez
+    - Steve LaSpina
+    - Chet Baker
+    - Randy Brecker
+    - Michael Brecker
+    - Jack DeJohnette
+    - Manhattan Transfer
+    - Sarah Vaughan
+    - Mel Tormé
+    - Ray Charles
   influenced: []
   mentors:
-  - Johnny Smith
-  - Django Reinhardt
-  - Charlie Christian
-  - Joe Pass
-  - Tal Farlow
-  - Sid Margolis
-  - John Mehegan
-  - Rodrigo Riera
+    - Johnny Smith
+    - Django Reinhardt
+    - Charlie Christian
+    - Joe Pass
+    - Tal Farlow
+    - Sid Margolis
+    - John Mehegan
+    - Rodrigo Riera
 musicbrainz_id: a9044a89-5199-4516-9ac3-9eb4385c97d9
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.jackwilkins.com/bio/view?id=1
-- https://billmilkowski.substack.com/p/a-sad-farewell-to-guitar-great-jack-wilkins-1944-2023
-- https://www.wbgo.org/music/2023-05-24/capturing-a-life-lived-in-jazz-a-remembrance-of-guitarist-jack-wilkins
-- https://www.vintageguitar.com/64906/fretprints-jack-wilkins/
-- https://jazzguitartoday.com/2023/05/honoring-jack-wilkins/
-- https://www.allaboutjazz.com/a-life-lived-in-jazz-a-remembrance-of-jack-wilkins-june-1944-may-2023-jack-wilkins
-- https://truefire.com/jazz-guitar-lessons/nyc-jazz-summit/right-hand-technique-jack-wilkins/v972
-- https://themusicalheritagesociety.com/blogs/exploring-music/jack-wilkins-a-jazz-guitar-virtuoso-s-legacy-with-the-jazz-heritage-society
+  - 'https://www.jackwilkins.com/bio/view?id=1'
+  - >-
+    https://billmilkowski.substack.com/p/a-sad-farewell-to-guitar-great-jack-wilkins-1944-2023
+  - >-
+    https://www.wbgo.org/music/2023-05-24/capturing-a-life-lived-in-jazz-a-remembrance-of-guitarist-jack-wilkins
+  - 'https://www.vintageguitar.com/64906/fretprints-jack-wilkins/'
+  - 'https://jazzguitartoday.com/2023/05/honoring-jack-wilkins/'
+  - >-
+    https://www.allaboutjazz.com/a-life-lived-in-jazz-a-remembrance-of-jack-wilkins-june-1944-may-2023-jack-wilkins
+  - >-
+    https://truefire.com/jazz-guitar-lessons/nyc-jazz-summit/right-hand-technique-jack-wilkins/v972
+  - >-
+    https://themusicalheritagesociety.com/blogs/exploring-music/jack-wilkins-a-jazz-guitar-virtuoso-s-legacy-with-the-jazz-heritage-society
 spotify_data:
   followers: 14604
   id: 6oalE1Ov29U9WBDn63puSu
   popularity: 28
-  url: https://open.spotify.com/artist/6oalE1Ov29U9WBDn63puSu
+  url: 'https://open.spotify.com/artist/6oalE1Ov29U9WBDn63puSu'
 status: active
 tags:
-- contemporary jazz
-- jazz
+  - contemporary jazz
+  - jazz
 title: Jack Wilkins
+is_active: false
 ---
 
 ![](jack_wilkins.jpg)

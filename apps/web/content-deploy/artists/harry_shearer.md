@@ -3,15 +3,15 @@ title: Harry Shearer
 wiki_slug: harry-shearer
 schema_version: 2
 status: active
-birth_place: Los Angeles, California, United States
+birth_place: 'Los Angeles, California, United States'
 genres:
-- spoken word
-- comedy
+  - spoken word
+  - comedy
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/harry_shearer.jpg
   caption: Harry Shearer
   background: solo_singer
-  origin: Los Angeles, California, United States
+  origin: 'Los Angeles, California, United States'
 audio_profile:
   tempo_avg: 117.4
   energy_avg: 0.54
@@ -27,47 +27,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Michael McKean
-  - Christopher Guest
-  - Albert Brooks
+    - Michael McKean
+    - Christopher Guest
+    - Albert Brooks
   influenced:
-  - Modern musical comedians and satirists
+    - Modern musical comedians and satirists
   mentors:
-  - Jack Benny
+    - Jack Benny
 spotify_data:
   followers: 727
   id: 3WFliGjZmPWbfwpq44tN52
   popularity: 1
-  url: https://open.spotify.com/artist/3WFliGjZmPWbfwpq44tN52
+  url: 'https://open.spotify.com/artist/3WFliGjZmPWbfwpq44tN52'
 discography_enriched: true
 top_tracks:
-- Autumn in New Orleans (feat. Dr. John and Nicholas Payton) (Can't Take a Hint)
-- A Few Bad Apples (feat. Jamie Cullum) (Can't Take a Hint)
-- Corn Wine (Songs Pointed and Pointless)
-- A Fine Romance (Let's Face The Music And Dance)
-- How Very Like Sweet Anne - feat. Kevin Griffin, Harry Shearer, Arséne DeLay, Barbara Davis, Tara Brewer & John Rankin (Nine
-  Lives - a Musical Story of New Orleans (The Complete Set))
-- The King of Mardi Gras - feat. Harry Shearer, Barbara Davis & Kevin Griffin (Nine Lives - a Musical Story of New Orleans
-  (The Complete Set))
-- Celebrity Booze Endorser (feat. Fountains of Wayne) (Can't Take a Hint)
-- Macondo (feat. Rob Brydon) (Can't Take a Hint)
-- Trillion Dollar Bargain (feat. Alice Russell and Tommy Malone) (Can't Take a Hint)
-- Deaf Boys (Can't Take a Hint)
+  - >-
+    Autumn in New Orleans (feat. Dr. John and Nicholas Payton) (Can't Take a
+    Hint)
+  - A Few Bad Apples (feat. Jamie Cullum) (Can't Take a Hint)
+  - Corn Wine (Songs Pointed and Pointless)
+  - A Fine Romance (Let's Face The Music And Dance)
+  - >-
+    How Very Like Sweet Anne - feat. Kevin Griffin, Harry Shearer, Arséne DeLay,
+    Barbara Davis, Tara Brewer & John Rankin (Nine Lives - a Musical Story of
+    New Orleans (The Complete Set))
+  - >-
+    The King of Mardi Gras - feat. Harry Shearer, Barbara Davis & Kevin Griffin
+    (Nine Lives - a Musical Story of New Orleans (The Complete Set))
+  - Celebrity Booze Endorser (feat. Fountains of Wayne) (Can't Take a Hint)
+  - Macondo (feat. Rob Brydon) (Can't Take a Hint)
+  - >-
+    Trillion Dollar Bargain (feat. Alice Russell and Tommy Malone) (Can't Take a
+    Hint)
+  - Deaf Boys (Can't Take a Hint)
 external_urls:
-  spotify: https://open.spotify.com/artist/3WFliGjZmPWbfwpq44tN52
-  wikipedia: https://en.wikipedia.org/wiki/Harry_Shearer
+  spotify: 'https://open.spotify.com/artist/3WFliGjZmPWbfwpq44tN52'
+  wikipedia: 'https://en.wikipedia.org/wiki/Harry_Shearer'
 image_path: 03_Resources/source_material/ArtistPortraits/harry_shearer.jpg
 biography_enhanced_at: '2025-11-26T07:59:17.072338'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Harry_Shearer
-- https://kids.kiddle.co/Harry_Shearer
-- https://www.imdb.com/name/nm0733427/bio/
-- https://americanarchive.org/exhibits/le-show/2-harry-shearer-creative-life
+  - 'https://en.wikipedia.org/wiki/Harry_Shearer'
+  - 'https://kids.kiddle.co/Harry_Shearer'
+  - 'https://www.imdb.com/name/nm0733427/bio/'
+  - 'https://americanarchive.org/exhibits/le-show/2-harry-shearer-creative-life'
 network_extracted: true
 entry_created: '2025-11-26T07:59:17.072345'
 last_updated: '2025-12-23T08:16:09.525199'
+birth_date: '1943-12-23'
+artist_type: person
 ---
 
 ![](harry_shearer.jpg)

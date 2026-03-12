@@ -1,15 +1,15 @@
 ---
-title: PATTI LUPONE
+title: Patti LuPone
 wiki_slug: patti-lupone
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1949-04-21'
-birth_place: Northport
+birth_place: 'Northport, Long Island, New York, United States'
 genres:
-- musicals
+  - musicals
 instruments:
-- lead vocals
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/patti_lupone.jpg
   caption: PATTI LUPONE
@@ -31,48 +31,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Stephen Sondheim
-  - Andrew Lloyd Webber
-  - Mandy Patinkin
+    - Stephen Sondheim
+    - Andrew Lloyd Webber
+    - Mandy Patinkin
   influenced:
-  - Audra McDonald
-  - Ben Platt
+    - Audra McDonald
+    - Ben Platt
   mentors:
-  - John Houseman
-  - Michel Saint-Denis
+    - John Houseman
+    - Michel Saint-Denis
 spotify_data:
   followers: 48075
   id: 5VHtlZ44YzNmJY3G7nF944
   popularity: 50
-  url: https://open.spotify.com/artist/5VHtlZ44YzNmJY3G7nF944
+  url: 'https://open.spotify.com/artist/5VHtlZ44YzNmJY3G7nF944'
 discography_enriched: true
 top_tracks:
-- The Ballad of the Witches' Road (Sacred Chant Version)
-- Let Us Adore You (feat. Christine Ebersole, Lisa Hannigan, Patti LuPone & Sarah Stiles) - Reprise (Steven Universe The Movie
-  (Original Soundtrack))
-- The Ballad of the Witches' Road (Cover Version)
-- What's the Use of Feeling (Blue)? [feat. Patti LuPone & Deedee Magno Hall] (Steven Universe, Vol. 1 (Original Soundtrack))
-- Let Us Adore You (feat. Christine Ebersole, Lisa Hannigan, Patti LuPone & Zach Callison) (Steven Universe The Movie (Original
-  Soundtrack))
-- The Ballad of the Witches' Road (Agatha Through Time Version)
-- I Dreamed A Dream (Les Misérables (Original 1985 London Cast Recording))
-- The Tale of Steven (feat. Christine Ebersole, Lisa Hannigan & Patti LuPone) (Steven Universe The Movie (Original Soundtrack))
-- Anything Goes (Anything Goes (New Broadway Cast Recording (1987)))
-- Men R Trash (Extended Version) - Bonus Track (Why Am I So Single? (Original London Cast Recording))
+  - The Ballad of the Witches' Road (Sacred Chant Version)
+  - >-
+    Let Us Adore You (feat. Christine Ebersole, Lisa Hannigan, Patti LuPone &
+    Sarah Stiles) - Reprise (Steven Universe The Movie (Original Soundtrack))
+  - The Ballad of the Witches' Road (Cover Version)
+  - >-
+    What's the Use of Feeling (Blue)? [feat. Patti LuPone & Deedee Magno Hall]
+    (Steven Universe, Vol. 1 (Original Soundtrack))
+  - >-
+    Let Us Adore You (feat. Christine Ebersole, Lisa Hannigan, Patti LuPone &
+    Zach Callison) (Steven Universe The Movie (Original Soundtrack))
+  - The Ballad of the Witches' Road (Agatha Through Time Version)
+  - I Dreamed A Dream (Les Misérables (Original 1985 London Cast Recording))
+  - >-
+    The Tale of Steven (feat. Christine Ebersole, Lisa Hannigan & Patti LuPone)
+    (Steven Universe The Movie (Original Soundtrack))
+  - Anything Goes (Anything Goes (New Broadway Cast Recording (1987)))
+  - >-
+    Men R Trash (Extended Version) - Bonus Track (Why Am I So Single? (Original
+    London Cast Recording))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/508963b8-c4d4-489f-a03a-26e323cb0cf9
-  spotify: https://open.spotify.com/artist/5VHtlZ44YzNmJY3G7nF944
-  wikipedia: https://en.wikipedia.org/wiki/Patti_LuPone
+  musicbrainz: 'https://musicbrainz.org/artist/508963b8-c4d4-489f-a03a-26e323cb0cf9'
+  spotify: 'https://open.spotify.com/artist/5VHtlZ44YzNmJY3G7nF944'
+  wikipedia: 'https://en.wikipedia.org/wiki/Patti_LuPone'
 image_path: 03_Resources/source_material/ArtistPortraits/patti_lupone.jpg
 biography_enhanced_at: '2025-11-11T09:39:28.612941'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Patti_LuPone
-- https://www.britannica.com/biography/Patti-LuPone
-- https://www.allamericanspeakers.com/celebritytalentbios/Patti+LuPone/403984
-- https://www.broadway.com/buzz/stars/patti-lupone/profile/
-- https://www.imdb.com/name/nm0526985/bio/
+  - 'https://en.wikipedia.org/wiki/Patti_LuPone'
+  - 'https://www.britannica.com/biography/Patti-LuPone'
+  - 'https://www.allamericanspeakers.com/celebritytalentbios/Patti+LuPone/403984'
+  - 'https://www.broadway.com/buzz/stars/patti-lupone/profile/'
+  - 'https://www.imdb.com/name/nm0526985/bio/'
 network_extracted: true
 entry_created: '2025-11-11T09:39:28.612950'
 last_updated: '2025-12-23T08:16:14.028552'

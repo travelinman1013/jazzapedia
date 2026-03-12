@@ -1,16 +1,20 @@
 ---
-title: coleman hawkins/clark terry
+title: Coleman Hawkins/Clark Terry
 wiki_slug: coleman-hawkinsclark-terry
 schema_version: 2
 status: active
-birth_place: Saint Joseph, Missouri, United States (Coleman Hawkins); St. Louis, Missouri, United States (Clark Terry)
+birth_place: >-
+  Saint Joseph, Missouri, United States (Coleman Hawkins); St. Louis, Missouri,
+  United States (Clark Terry)
 genres:
-- jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/coleman_hawkinsclark_terry.jpg
   caption: coleman hawkins/clark terry
   background: solo_singer
-  origin: Saint Joseph, Missouri, United States (Coleman Hawkins); St. Louis, Missouri, United States (Clark Terry)
+  origin: >-
+    Saint Joseph, Missouri, United States (Coleman Hawkins); St. Louis,
+    Missouri, United States (Clark Terry)
 audio_profile:
   tempo_avg: 115.4
   energy_avg: 0.248
@@ -26,54 +30,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Duke Ellington
-  - Count Basie
-  - Quincy Jones
-  - Tommy Flanagan
-  - Major Holley
-  - Dave Bailey
+    - Duke Ellington
+    - Count Basie
+    - Quincy Jones
+    - Tommy Flanagan
+    - Major Holley
+    - Dave Bailey
   influenced:
-  - John Coltrane
-  - Miles Davis
-  - Quincy Jones
-  - Dianne Reeves
+    - John Coltrane
+    - Miles Davis
+    - Quincy Jones
+    - Dianne Reeves
   mentors:
-  - Fletcher Henderson
-  - Dr. Billy Taylor
+    - Fletcher Henderson
+    - Dr. Billy Taylor
 spotify_data:
   followers: 14245
   id: 4dW1iedUigtloIFhrGK5uC
   popularity: 43
-  url: https://open.spotify.com/artist/4dW1iedUigtloIFhrGK5uC
+  url: 'https://open.spotify.com/artist/4dW1iedUigtloIFhrGK5uC'
 discography_enriched: true
 top_tracks:
-- Love Song From "Apache" (Today And Now)
-- Quintessence (Today And Now)
-- Don't Love Me (Today And Now)
-- Don't Sit Under The Apple Tree (Today And Now)
-- Go Li'l Liza (Today And Now)
-- Put On Your Old Grey Bonnet (Today And Now)
-- Swingin' Scotch (Today And Now)
-- Foolin' Around - Live (Body & Soul Revisited)
-- 'Love Song From "Apache" (Coleman Hawkins: Verve Ultimate Cool)'
-- Smoke Gets in Your Eyes (The Complete Jazz Sessions, 1962)
+  - Love Song From "Apache" (Today And Now)
+  - Quintessence (Today And Now)
+  - Don't Love Me (Today And Now)
+  - Don't Sit Under The Apple Tree (Today And Now)
+  - Go Li'l Liza (Today And Now)
+  - Put On Your Old Grey Bonnet (Today And Now)
+  - Swingin' Scotch (Today And Now)
+  - Foolin' Around - Live (Body & Soul Revisited)
+  - 'Love Song From "Apache" (Coleman Hawkins: Verve Ultimate Cool)'
+  - 'Smoke Gets in Your Eyes (The Complete Jazz Sessions, 1962)'
 external_urls:
-  spotify: https://open.spotify.com/artist/4dW1iedUigtloIFhrGK5uC
-  wikipedia: https://en.wikipedia.org/wiki/Coleman_Hawkins
+  spotify: 'https://open.spotify.com/artist/4dW1iedUigtloIFhrGK5uC'
+  wikipedia: 'https://en.wikipedia.org/wiki/Coleman_Hawkins'
 image_path: 03_Resources/source_material/ArtistPortraits/coleman_hawkinsclark_terry.jpg
 biography_enhanced_at: '2025-10-30T12:00:59.294783'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://clarkterry.com/biography/
-- https://livingjazzarchives.org/archives/clark-terry-archive/
-- https://en.wikipedia.org/wiki/Back_in_Bean's_Bag
-- https://en.wikipedia.org/wiki/Coleman_Hawkins
-- https://mosaicrecords.com/the-great-jazz-artists/coleman-hawkins/
-- https://ontherecord.co/2021/02/13/coleman-hawkins-and-clark-terry-back-in-beans-bag/
+  - 'https://clarkterry.com/biography/'
+  - 'https://livingjazzarchives.org/archives/clark-terry-archive/'
+  - 'https://en.wikipedia.org/wiki/Back_in_Bean''s_Bag'
+  - 'https://en.wikipedia.org/wiki/Coleman_Hawkins'
+  - 'https://mosaicrecords.com/the-great-jazz-artists/coleman-hawkins/'
+  - >-
+    https://ontherecord.co/2021/02/13/coleman-hawkins-and-clark-terry-back-in-beans-bag/
 network_extracted: true
 entry_created: '2025-10-30T12:00:59.294922'
 last_updated: '2025-12-23T08:16:07.146294'
+artist_type: person
 ---
 
 ![](coleman_hawkinsclark_terry.jpg)

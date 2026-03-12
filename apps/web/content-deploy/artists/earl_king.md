@@ -3,15 +3,15 @@ title: Earl King
 wiki_slug: earl-king
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- classic blues
-- blues
+  - classic blues
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/earl_king.jpg
   caption: Earl King
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 126.8
   energy_avg: 0.564
@@ -27,48 +27,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Professor Longhair
-  - Dr. John (Mac Rebennack)
-  - The Meters
+    - Professor Longhair
+    - Dr. John (Mac Rebennack)
+    - The Meters
   influenced:
-  - Jimi Hendrix
-  - Stevie Ray Vaughan
-  - Allen Toussaint
+    - Jimi Hendrix
+    - Stevie Ray Vaughan
+    - Allen Toussaint
   mentors:
-  - Guitar Slim
+    - Guitar Slim
 spotify_data:
   followers: 14876
   id: 76ox7koAGPytUmTZGU6zWn
   popularity: 27
-  url: https://open.spotify.com/artist/76ox7koAGPytUmTZGU6zWn
+  url: 'https://open.spotify.com/artist/76ox7koAGPytUmTZGU6zWn'
 discography_enriched: true
 top_tracks:
-- Big Chief - Complete Version (Ultimate Mardi Gras)
-- Mother's Love (Street Parade)
-- Mama and Papa (Street Parade)
-- Let the Good Times Roll (Let the Good Times Roll)
-- Come On, Pt. 1 (Let the Good Times Roll)
-- Trick Bag (The Sonet Blues Story)
-- Street Parade (New Orleans Blues)
-- Those Lonely, Lonely Nights (Let the Good Times Roll)
-- Mother's Love (New Orleans Blues)
-- COME ON, PT. 1
+  - Big Chief - Complete Version (Ultimate Mardi Gras)
+  - Mother's Love (Street Parade)
+  - Mama and Papa (Street Parade)
+  - Let the Good Times Roll (Let the Good Times Roll)
+  - 'Come On, Pt. 1 (Let the Good Times Roll)'
+  - Trick Bag (The Sonet Blues Story)
+  - Street Parade (New Orleans Blues)
+  - 'Those Lonely, Lonely Nights (Let the Good Times Roll)'
+  - Mother's Love (New Orleans Blues)
+  - 'COME ON, PT. 1'
 external_urls:
-  spotify: https://open.spotify.com/artist/76ox7koAGPytUmTZGU6zWn
-  wikipedia: https://en.wikipedia.org/wiki/Earl_King
+  spotify: 'https://open.spotify.com/artist/76ox7koAGPytUmTZGU6zWn'
+  wikipedia: 'https://en.wikipedia.org/wiki/Earl_King'
 image_path: 03_Resources/source_material/ArtistPortraits/earl_king.jpg
 biography_enhanced_at: '2025-11-05T12:49:38.165789'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Earl_King
-- https://kids.kiddle.co/Earl_King
-- https://www.latimes.com/archives/la-xpm-2003-apr-23-me-king23-story.html
-- https://www.allaboutjazz.com/musicians/earl-king/
+  - 'https://en.wikipedia.org/wiki/Earl_King'
+  - 'https://kids.kiddle.co/Earl_King'
+  - 'https://www.latimes.com/archives/la-xpm-2003-apr-23-me-king23-story.html'
+  - 'https://www.allaboutjazz.com/musicians/earl-king/'
 network_extracted: true
 entry_created: '2025-11-05T12:49:38.165814'
 last_updated: '2025-12-23T08:16:08.123106'
-
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1934-02-07'
+artist_type: person
 ---
 
 ![](earl_king.jpg)

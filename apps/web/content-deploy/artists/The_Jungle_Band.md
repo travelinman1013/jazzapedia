@@ -1,46 +1,46 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2025-12-28T01:44:47.399678'
 disambiguation: 80s/90s soul/funk band
 enhancement_provider: perplexity
 entry_created: '2025-12-28T01:44:47.399694'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f5fe8c7e-c4f2-449b-bb6a-754880b32a45
-  spotify: https://open.spotify.com/artist/1gsQNuSa1ymxLkrbOl4W2A
+  musicbrainz: 'https://musicbrainz.org/artist/f5fe8c7e-c4f2-449b-bb6a-754880b32a45'
+  spotify: 'https://open.spotify.com/artist/1gsQNuSa1ymxLkrbOl4W2A'
   wikipedia: ''
 genres:
-- big band
-- swing music
-- ragtime
-- jazz
+  - big band
+  - swing music
+  - ragtime
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/the_jungle_band.jpg
 instruments:
-- flugelhorn
+  - flugelhorn
 last_updated: '2025-12-28T01:44:47.399695'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - flugelhorn
-  mbid: b0f22c99-7e8f-4f4f-8784-4e05905d9031
-  name: George Dickerson
+  - begin: ''
+    end: ''
+    instruments:
+      - flugelhorn
+    mbid: b0f22c99-7e8f-4f4f-8784-4e05905d9031
+    name: George Dickerson
 musical_connections:
   collaborators:
-  - Duke Ellington
+    - Duke Ellington
   influenced: []
   mentors: []
 musicbrainz_id: f5fe8c7e-c4f2-449b-bb6a-754880b32a45
 network_extracted: true
-origin: New York City, New York, United States
+origin: 'New York City, New York, United States'
 primary_source: perplexity
 research_sources:
-- https://syncopatedtimes.com/the-jungle-band/
-- https://www.last.fm/music/Jungle/+wiki
+  - 'https://syncopatedtimes.com/the-jungle-band/'
+  - 'https://www.last.fm/music/Jungle/+wiki'
 spotify_data:
   followers: 847
   id: 1gsQNuSa1ymxLkrbOl4W2A
   popularity: 13
-  url: https://open.spotify.com/artist/1gsQNuSa1ymxLkrbOl4W2A
+  url: 'https://open.spotify.com/artist/1gsQNuSa1ymxLkrbOl4W2A'
 status: active
 title: The Jungle Band
 ---

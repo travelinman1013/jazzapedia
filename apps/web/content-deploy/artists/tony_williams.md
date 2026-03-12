@@ -1,20 +1,20 @@
 ---
-title: Tony WIlliams
+title: Tony Williams
 wiki_slug: tony-williams
 schema_version: 2
 status: active
-birth_place: Chicago, Illinois, United States
+birth_place: 'Chicago, Illinois, United States'
 genres:
-- jazz fusion
-- jazz
-- jazz funk
-- hard bop
-- free jazz
+  - jazz fusion
+  - jazz
+  - jazz funk
+  - hard bop
+  - free jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/tony_williams.jpg
   caption: Tony WIlliams
   background: solo_singer
-  origin: Chicago, Illinois, United States
+  origin: 'Chicago, Illinois, United States'
 audio_profile:
   tempo_avg: 113.5
   energy_avg: 0.543
@@ -30,52 +30,65 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Miles Davis
-  - Herbie Hancock
-  - Ron Carter
-  - Larry Young
-  - John McLaughlin
-  - Jackie McLean
-  - Sam Rivers
+    - Miles Davis
+    - Herbie Hancock
+    - Ron Carter
+    - Larry Young
+    - John McLaughlin
+    - Jackie McLean
+    - Sam Rivers
   influenced:
-  - Vinnie Colaiuta
-  - Cindy Blackman Santana
-  - Jack DeJohnette
+    - Vinnie Colaiuta
+    - Cindy Blackman Santana
+    - Jack DeJohnette
   mentors:
-  - Alan Dawson
+    - Alan Dawson
 spotify_data:
   followers: 53301
   id: 1TW90GjShgkjySrxBxcwQe
   popularity: 29
-  url: https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe
+  url: 'https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe'
 discography_enriched: true
 top_tracks:
-- Angel Eyes - Studio (Master Trio)
-- The Sorcerer (feat. Wayne Shorter, Herbie Hancock, Ron Carter & Tony Williams) (Sorcerer)
-- Geo Rose (Civilization)
-- Pee Wee (feat. Wayne Shorter, Herbie Hancock, Ron Carter & Tony Williams) (Sorcerer)
-- 'Snake Oil (Lifetime: The Collection)'
-- 'Fred (Lifetime: The Collection)'
-- Prince of Darkness (feat. Wayne Shorter, Herbie Hancock, Ron Carter & Tony Williams) (Sorcerer)
-- 'Proto-Cosmos (Lifetime: The Collection)'
-- Masqualero (feat. Wayne Shorter, Herbie Hancock, Ron Carter & Tony Williams) (Sorcerer)
-- Vonetta (feat. Wayne Shorter, Herbie Hancock, Ron Carter & Tony Williams) (Sorcerer)
+  - Angel Eyes - Studio (Master Trio)
+  - >-
+    The Sorcerer (feat. Wayne Shorter, Herbie Hancock, Ron Carter & Tony
+    Williams) (Sorcerer)
+  - Geo Rose (Civilization)
+  - >-
+    Pee Wee (feat. Wayne Shorter, Herbie Hancock, Ron Carter & Tony Williams)
+    (Sorcerer)
+  - 'Snake Oil (Lifetime: The Collection)'
+  - 'Fred (Lifetime: The Collection)'
+  - >-
+    Prince of Darkness (feat. Wayne Shorter, Herbie Hancock, Ron Carter & Tony
+    Williams) (Sorcerer)
+  - 'Proto-Cosmos (Lifetime: The Collection)'
+  - >-
+    Masqualero (feat. Wayne Shorter, Herbie Hancock, Ron Carter & Tony Williams)
+    (Sorcerer)
+  - >-
+    Vonetta (feat. Wayne Shorter, Herbie Hancock, Ron Carter & Tony Williams)
+    (Sorcerer)
 external_urls:
-  spotify: https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe
-  wikipedia: https://en.wikipedia.org/wiki/Tony_Williams_(drummer)
+  spotify: 'https://open.spotify.com/artist/1TW90GjShgkjySrxBxcwQe'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tony_Williams_(drummer)'
 image_path: 03_Resources/source_material/ArtistPortraits/tony_williams.jpg
 biography_enhanced_at: '2025-11-01T15:23:25.637685'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.jazzempowers.org/tony-williams
-- https://jazzfuel.com/tony-williams-jazz-drummer/
-- https://www.bluenote.com/artist/anthony-williams-tony-williams/
-- https://downbeat.com/archives/detail/tony-williams-two-decades-of-drum-innovation
-- http://www.drummerworld.com/drummers/Tony_Williams.html
+  - 'https://www.jazzempowers.org/tony-williams'
+  - 'https://jazzfuel.com/tony-williams-jazz-drummer/'
+  - 'https://www.bluenote.com/artist/anthony-williams-tony-williams/'
+  - >-
+    https://downbeat.com/archives/detail/tony-williams-two-decades-of-drum-innovation
+  - 'http://www.drummerworld.com/drummers/Tony_Williams.html'
 network_extracted: true
 entry_created: '2025-11-01T15:23:25.637707'
 last_updated: '2025-12-23T08:16:17.625210'
+birth_date: '1945-12-12'
+artist_type: person
 ---
 
 ![](tony_williams.jpg)

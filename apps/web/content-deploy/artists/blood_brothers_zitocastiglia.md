@@ -3,45 +3,49 @@ biography_enhanced_at: '2026-01-22T07:16:02.450985'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:16:02.450992'
 external_urls:
-  spotify: https://open.spotify.com/artist/3BvzLWwZbfcCSp2CatxUwP
+  spotify: 'https://open.spotify.com/artist/3BvzLWwZbfcCSp2CatxUwP'
   wikipedia: null
 genres:
-- blues rock
-- modern blues
-- blues
+  - blues rock
+  - modern blues
+  - blues
 image_path: 03_Resources/source_material/ArtistPortraits/blood_brothers_zitocastiglia.jpg
 last_updated: '2026-01-22T07:16:02.450992'
 musical_connections:
   collaborators:
-  - Joe Bonamassa
-  - Josh Smith
-  - Cyril Neville
-  - Devon Allman
-  - Matt Johnson
-  - Lewis Stephens
+    - Joe Bonamassa
+    - Josh Smith
+    - Cyril Neville
+    - Devon Allman
+    - Matt Johnson
+    - Lewis Stephens
   influenced: []
   mentors:
-  - Junior Wells
+    - Junior Wells
 network_extracted: true
-origin: 'Gulf Coast region (based on Gulf Coast Records label and recording at Dockside
-  Studio in Maurice, Louisiana); Mike Zito: St. Louis, Missouri (birthplace), Beaumont,
-  Texas (current base); Albert Castiglia: New York City (birthplace), Miami, Florida
-  (raised)'
+origin: >-
+  Gulf Coast region (based on Gulf Coast Records label and recording at Dockside
+  Studio in Maurice, Louisiana); Mike Zito: St. Louis, Missouri (birthplace),
+  Beaumont, Texas (current base); Albert Castiglia: New York City (birthplace),
+  Miami, Florida (raised)
 primary_source: perplexity
 research_sources:
-- https://www.bloodbrothersband.com
-- https://twangville.com/2023/11/15/mike-zito-albert-castiglia-blood-brothers-life-in-canada/
-- https://curacaoblueseasfestival.com/blood-brothers-featuring-mike-zito-albert-castiglia/
-- https://bigbluesbender.com/artists/blood-brothers/
-- https://www.makingascene.org/the-blood-brothers-help-yourself/
-- https://www.nysbluesfest.com/artist-profile-blood-brothers/
+  - 'https://www.bloodbrothersband.com'
+  - >-
+    https://twangville.com/2023/11/15/mike-zito-albert-castiglia-blood-brothers-life-in-canada/
+  - >-
+    https://curacaoblueseasfestival.com/blood-brothers-featuring-mike-zito-albert-castiglia/
+  - 'https://bigbluesbender.com/artists/blood-brothers/'
+  - 'https://www.makingascene.org/the-blood-brothers-help-yourself/'
+  - 'https://www.nysbluesfest.com/artist-profile-blood-brothers/'
 spotify_data:
   followers: 515
   id: 3BvzLWwZbfcCSp2CatxUwP
   popularity: 20
-  url: https://open.spotify.com/artist/3BvzLWwZbfcCSp2CatxUwP
+  url: 'https://open.spotify.com/artist/3BvzLWwZbfcCSp2CatxUwP'
 status: active
 title: Blood Brothers (Zito/Castiglia)
+artist_type: person
 ---
 
 ![](blood_brothers_zitocastiglia.jpg)

@@ -3,14 +3,14 @@ title: Emahoy Tsege Mariam Gebru
 wiki_slug: emahoy-tsege-mariam-gebru
 schema_version: 2
 status: active
-birth_place: Addis Ababa, Ethiopia
+birth_place: 'Addis Ababa, Ethiopia, United States'
 genres:
-- ethiopian jazz
+  - ethiopian jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/emahoy_tsege_mariam_gebru.jpg
   caption: Emahoy Tsege Mariam Gebru
   background: solo_singer
-  origin: Addis Ababa, Ethiopia
+  origin: 'Addis Ababa, Ethiopia'
 audio_profile:
   tempo_avg: 82.6
   energy_avg: 0.137
@@ -26,46 +26,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Emperor Haile Selassie
-  - Brother-in-law (unspecified name)
+    - Emperor Haile Selassie
+    - Brother-in-law (unspecified name)
   influenced:
-  - Contemporary Ethiopian and international pianists and composers
+    - Contemporary Ethiopian and international pianists and composers
   mentors:
-  - Alexander Kontorowicz
-  - Saint Yared
+    - Alexander Kontorowicz
+    - Saint Yared
 spotify_data:
   followers: 94971
   id: 1D86M7ewUQH1vS0QsXCmI9
   popularity: 49
-  url: https://open.spotify.com/artist/1D86M7ewUQH1vS0QsXCmI9
+  url: 'https://open.spotify.com/artist/1D86M7ewUQH1vS0QsXCmI9'
 discography_enriched: true
 top_tracks:
-- 'Song of Abayi (Ethiopiques, vol. 21: Emahoy (Piano Solo))'
-- 'Mother''s Love (Ethiopiques, vol. 21: Emahoy (Piano Solo))'
-- 'Homesickness (Ethiopiques, vol. 21: Emahoy (Piano Solo))'
-- The Homeless Wanderer (Spielt Eigen Kompositionen)
-- 'Evening Breeze (Ethiopiques, vol. 21: Emahoy (Piano Solo))'
-- 'The Homeless Wanderer (Ethiopiques, vol. 21: Emahoy (Piano Solo))'
-- 'The Story of the Wind (Ethiopiques, vol. 21: Emahoy (Piano Solo))'
-- 'Ballad of the Spirits (Ethiopiques, vol. 21: Emahoy (Piano Solo))'
-- The Storm (Church of Kidane Mehret)
-- 'The Jordan River Song (Ethiopiques, vol. 21: Emahoy (Piano Solo))'
+  - 'Song of Abayi (Ethiopiques, vol. 21: Emahoy (Piano Solo))'
+  - 'Mother''s Love (Ethiopiques, vol. 21: Emahoy (Piano Solo))'
+  - 'Homesickness (Ethiopiques, vol. 21: Emahoy (Piano Solo))'
+  - The Homeless Wanderer (Spielt Eigen Kompositionen)
+  - 'Evening Breeze (Ethiopiques, vol. 21: Emahoy (Piano Solo))'
+  - 'The Homeless Wanderer (Ethiopiques, vol. 21: Emahoy (Piano Solo))'
+  - 'The Story of the Wind (Ethiopiques, vol. 21: Emahoy (Piano Solo))'
+  - 'Ballad of the Spirits (Ethiopiques, vol. 21: Emahoy (Piano Solo))'
+  - The Storm (Church of Kidane Mehret)
+  - 'The Jordan River Song (Ethiopiques, vol. 21: Emahoy (Piano Solo))'
 external_urls:
-  spotify: https://open.spotify.com/artist/1D86M7ewUQH1vS0QsXCmI9
-  wikipedia: https://en.wikipedia.org/wiki/Emahoy_Tsegu%C3%A9-Maryam_Gu%C3%A8brou
+  spotify: 'https://open.spotify.com/artist/1D86M7ewUQH1vS0QsXCmI9'
+  wikipedia: 'https://en.wikipedia.org/wiki/Emahoy_Tsegu%C3%A9-Maryam_Gu%C3%A8brou'
 image_path: 03_Resources/source_material/ArtistPortraits/emahoy_tsege_mariam_gebru.jpg
 biography_enhanced_at: '2025-12-09T04:20:35.953382'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Emahoy_Tsegu%C3%A9-Maryam_Gu%C3%A8brou
-- https://www.thetonearm.com/emahoy-tsegue-maryam-guebrous-century-of-longing/
-- https://4columns.org/holiday-harmony/emahoy-tsege-mariam-gebru
-- https://jazztimes.com/reviews/albums/emahoy-tsege-mariam-gebru-songs-for-the-children/
-- https://daily.bandcamp.com/features/emahoy-tsege-mariam-gebru-souvenirs-feature
+  - 'https://en.wikipedia.org/wiki/Emahoy_Tsegu%C3%A9-Maryam_Gu%C3%A8brou'
+  - 'https://www.thetonearm.com/emahoy-tsegue-maryam-guebrous-century-of-longing/'
+  - 'https://4columns.org/holiday-harmony/emahoy-tsege-mariam-gebru'
+  - >-
+    https://jazztimes.com/reviews/albums/emahoy-tsege-mariam-gebru-songs-for-the-children/
+  - >-
+    https://daily.bandcamp.com/features/emahoy-tsege-mariam-gebru-souvenirs-feature
 network_extracted: true
 entry_created: '2025-12-09T04:20:35.953391'
 last_updated: '2025-12-23T08:16:08.370727'
+birth_date: '1923-12-12'
+death_date: '2023-03-26'
+artist_type: person
 ---
 
 ![](emahoy_tsege_mariam_gebru.jpg)

@@ -3,13 +3,13 @@ title: John Craigie
 wiki_slug: john-craigie
 schema_version: 2
 status: active
-birth_place: Los Angeles, California, United States
+birth_place: 'Los Angeles, California, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/john_craigie.jpg
   caption: John Craigie
   background: solo_singer
-  origin: Los Angeles, California, United States
+  origin: 'Los Angeles, California, United States'
 audio_profile:
   tempo_avg: 118.6
   energy_avg: 0.426
@@ -25,55 +25,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - TK & The Holy Know-Nothings (three members)
-  - Shook Twins
-  - Jack Johnson
-  - Langhorne Slim
-  - Brett Dennen
-  - Bella White
+    - TK & The Holy Know-Nothings (three members)
+    - Shook Twins
+    - Jack Johnson
+    - Langhorne Slim
+    - Brett Dennen
+    - Bella White
   influenced:
-  - ''
+    - ''
   mentors:
-  - John Prine
-  - Woody Guthrie
-  - Arlo Guthrie
-  - Todd Snider
+    - John Prine
+    - Woody Guthrie
+    - Arlo Guthrie
+    - Todd Snider
 spotify_data:
   followers: 78424
   id: 7ytgyYmtUPfxXHsXEvgObK
   popularity: 48
-  url: https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK
+  url: 'https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK'
 discography_enriched: true
 top_tracks:
-- I Am California (No Rain, No Rose)
-- Highway Blood (No Rain, No Rose)
-- Don't Ask (Asterisk The Universe)
-- Microdose (Mermaid Salt)
-- Rough Johns (No Rain, No Rose)
-- Dissect the Bird (Live) (Opening for Steinbeck (Live))
-- Laurie Rolled Me a J
-- Part Wolf (Asterisk The Universe)
-- Virgin Guitar (No Rain, No Rose)
-- Nomads (Asterisk The Universe)
+  - 'I Am California (No Rain, No Rose)'
+  - 'Highway Blood (No Rain, No Rose)'
+  - Don't Ask (Asterisk The Universe)
+  - Microdose (Mermaid Salt)
+  - 'Rough Johns (No Rain, No Rose)'
+  - Dissect the Bird (Live) (Opening for Steinbeck (Live))
+  - Laurie Rolled Me a J
+  - Part Wolf (Asterisk The Universe)
+  - 'Virgin Guitar (No Rain, No Rose)'
+  - Nomads (Asterisk The Universe)
 external_urls:
-  spotify: https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK
-  wikipedia: https://en.wikipedia.org/wiki/John_Craigie_(musician)
+  spotify: 'https://open.spotify.com/artist/7ytgyYmtUPfxXHsXEvgObK'
+  wikipedia: 'https://en.wikipedia.org/wiki/John_Craigie_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/john_craigie.jpg
 biography_enhanced_at: '2025-12-08T04:28:02.221931'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://sandiegotroubadour.com/john-craigie-millennial-storyteller/
-- https://johncraigie.com/about
-- https://magazine.ucsc.edu/2024/02/john-craigie-modern-day-troubadour/
-- https://folkalley.com/a-q-a-with-john-craigie/
-- https://marinmagazine.com/community/local-news/an-interview-with-folk-musician-john-craigie/
-- https://zerototravel.com/john-craigie/
-- https://visitswva.org/john-craigie/
-- https://listeningthroughthelens.com/2024/03/21/we-talk-with-john-craigie/
+  - 'https://sandiegotroubadour.com/john-craigie-millennial-storyteller/'
+  - 'https://johncraigie.com/about'
+  - 'https://magazine.ucsc.edu/2024/02/john-craigie-modern-day-troubadour/'
+  - 'https://folkalley.com/a-q-a-with-john-craigie/'
+  - >-
+    https://marinmagazine.com/community/local-news/an-interview-with-folk-musician-john-craigie/
+  - 'https://zerototravel.com/john-craigie/'
+  - 'https://visitswva.org/john-craigie/'
+  - 'https://listeningthroughthelens.com/2024/03/21/we-talk-with-john-craigie/'
 network_extracted: true
 entry_created: '2025-12-08T04:28:02.221940'
 last_updated: '2025-12-23T08:16:10.718244'
+artist_type: person
 ---
 
 ![](john_craigie.jpg)

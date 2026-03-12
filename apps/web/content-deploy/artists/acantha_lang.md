@@ -1,49 +1,52 @@
 ---
 artist_type: person
 biography_enhanced_at: '2025-12-29T01:24:10.683498'
-birth_place: New Orleans
+birth_place: 'New Orleans, Louisiana, United States'
 disambiguation: US soul & blues vocalist from New Orleans
 enhancement_provider: perplexity
 entry_created: '2025-12-29T01:24:10.683503'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f3112bfb-6be7-4173-9a2f-87b3530651f3
-  spotify: https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO
+  musicbrainz: 'https://musicbrainz.org/artist/f3112bfb-6be7-4173-9a2f-87b3530651f3'
+  spotify: 'https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO'
   wikipedia: ''
 gender: Female
 genres:
-- retro soul
-- soul blues
-- acid jazz
+  - retro soul
+  - soul blues
+  - acid jazz
 image_path: 03_Resources/source_material/ArtistPortraits/acantha_lang.jpg
 last_updated: '2025-12-29T01:24:10.683504'
 musical_connections:
   collaborators:
-  - Robert Randolph & The Family Band
-  - Jimmy Bralower
+    - Robert Randolph & The Family Band
+    - Jimmy Bralower
   influenced: []
   mentors:
-  - Gladys Knight
-  - Aretha Franklin
-  - Mavis Staples
+    - Gladys Knight
+    - Aretha Franklin
+    - Mavis Staples
 musicbrainz_id: f3112bfb-6be7-4173-9a2f-87b3530651f3
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.shesaid.so/blog/2025/8/19/-grammy-nominated-soul-artist-acantha-lang-on-building-a-sustainable-music-career
-- https://www.passionweiss.com/2023/08/07/acantha-lang-interview-beautiful-dreams/
-- https://www.ronniescotts.co.uk/find-a-show/acantha-lang
-- https://www.blackhistorymonth.org.uk/article/listings/region/camden/acantha-lang/
-- https://www.606club.co.uk/events/view/acantha-lang/
-- https://americansongwriter.com/acantha-lang/
-- https://www.last.fm/music/Acantha+Lang/+wiki
-- https://www.soulexpress.net/acanthalang2023.htm
+  - >-
+    https://www.shesaid.so/blog/2025/8/19/-grammy-nominated-soul-artist-acantha-lang-on-building-a-sustainable-music-career
+  - >-
+    https://www.passionweiss.com/2023/08/07/acantha-lang-interview-beautiful-dreams/
+  - 'https://www.ronniescotts.co.uk/find-a-show/acantha-lang'
+  - >-
+    https://www.blackhistorymonth.org.uk/article/listings/region/camden/acantha-lang/
+  - 'https://www.606club.co.uk/events/view/acantha-lang/'
+  - 'https://americansongwriter.com/acantha-lang/'
+  - 'https://www.last.fm/music/Acantha+Lang/+wiki'
+  - 'https://www.soulexpress.net/acanthalang2023.htm'
 spotify_data:
   followers: 17123
   id: 6WrjOtCau0UPAB3QSeOWzO
   popularity: 37
-  url: https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO
+  url: 'https://open.spotify.com/artist/6WrjOtCau0UPAB3QSeOWzO'
 status: active
-title: ACANTHA LANG
+title: Acantha Lang
 ---
 
 ![](acantha_lang.jpg)

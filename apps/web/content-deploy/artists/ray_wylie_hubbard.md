@@ -5,20 +5,20 @@ schema_version: 2
 status: active
 aliases: []
 birth_date: '1946-11-13'
-birth_place: Soper
+birth_place: 'Soper, Oklahoma, United States'
 years_active: 1965–present
 genres:
-- red dirt
-- texas country
-- alt country
-- americana
-- roots rock
+  - red dirt
+  - texas country
+  - alt country
+  - americana
+  - roots rock
 instruments:
-- '{{hlist'
+  - '{{hlist'
 occupation:
-- musician
-- songwriter
-- singer
+  - musician
+  - songwriter
+  - singer
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Ray_Wylie_Hubbard.jpg
   caption: Ray Wylie Hubbard
@@ -43,32 +43,37 @@ spotify_data:
   followers: 131613
   id: 4gQ8biCMcMrOuBdJx639Q0
   popularity: 47
-  url: https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0
+  url: 'https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0'
   verified: false
 discography_enriched: true
 albums_count: 15
 singles_count: 6
 top_tracks:
-- Snake Farm (Snake Farm)
-- Conversation With The Devil (Crusades Of The Restless Knights)
-- Choctaw Bingo (Delirium Tremolos)
-- 'Drunken Poet''s Dream (A: Enlightenment B: Endarkenment (Hint: There Is No C))'
-- Mother Blues (The Grifter's Hymnal)
-- Screw You, We're From Texas (Growl)
-- Redneck Mother (Live at Cibolo Creek Country Club)
-- Tell the Devil I'm Gettin' there as Fast as I Can (Tell the Devil I'm Gettin' there as Fast as I Can)
-- Bad on Fords (Ruffian's Misfortune)
-- Rabbit (Snake Farm)
+  - Snake Farm (Snake Farm)
+  - Conversation With The Devil (Crusades Of The Restless Knights)
+  - Choctaw Bingo (Delirium Tremolos)
+  - >-
+    Drunken Poet's Dream (A: Enlightenment B: Endarkenment (Hint: There Is No
+    C))
+  - Mother Blues (The Grifter's Hymnal)
+  - 'Screw You, We''re From Texas (Growl)'
+  - Redneck Mother (Live at Cibolo Creek Country Club)
+  - >-
+    Tell the Devil I'm Gettin' there as Fast as I Can (Tell the Devil I'm
+    Gettin' there as Fast as I Can)
+  - Bad on Fords (Ruffian's Misfortune)
+  - Rabbit (Snake Farm)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0
-  wikipedia: https://en.wikipedia.org/wiki/Ray_Wylie_Hubbard
+  spotify: 'https://open.spotify.com/artist/4gQ8biCMcMrOuBdJx639Q0'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ray_Wylie_Hubbard'
 image_path: 03_Resources/source_material/ArtistPortraits/Ray_Wylie_Hubbard.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-18T15:39:26.400642'
-entry_created: 2025-09-18 11:52:43.137394
+entry_created: 2025-09-18T11:52:43.137Z
 last_updated: '2025-12-23T08:16:14.700453'
-
+artist_type: person
+origin: 'Dallas, Texas, United States'
 ---
 
 ![](Ray_Wylie_Hubbard.jpg)

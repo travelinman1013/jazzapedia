@@ -5,9 +5,9 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1999-01-22'
-birth_place: Chicago
+birth_place: 'Chicago, Illinois, United States'
 genres:
-- alternative r&b
+  - alternative r&b
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ravyn_lenae.jpg
   caption: Ravyn Lenae
@@ -21,7 +21,7 @@ audio_profile:
   danceability_avg: 0.633
   acousticness_avg: 0.315
   instrumentalness_avg: 0.08
-  loudness_avg: -8.0
+  loudness_avg: -8
   speechiness_avg: 0.11
   liveness_avg: 0.144
   track_count: 50
@@ -29,64 +29,68 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Monte Booker
-  - Smino
-  - Steve Lacy
-  - Noname
-  - SZA
-  - KAYTRANADA, Fousheé, Mereba, Sango, IAMNOBODI, Phoelix, Luke Titus, Teo Halm
-  - Mick Jenkins
+    - Monte Booker
+    - Smino
+    - Steve Lacy
+    - Noname
+    - SZA
+    - >-
+      KAYTRANADA, Fousheé, Mereba, Sango, IAMNOBODI, Phoelix, Luke Titus, Teo
+      Halm
+    - Mick Jenkins
   influenced:
-  - ''
+    - ''
   mentors:
-  - Monte Booker
-  - India.Arie
-  - OutKast
-  - Classical composers (e.g., Antonio Vivaldi, Reynaldo Hahn)
+    - Monte Booker
+    - India.Arie
+    - OutKast
+    - 'Classical composers (e.g., Antonio Vivaldi, Reynaldo Hahn)'
 spotify_data:
   followers: 907278
   id: 5RTLRtXjbXI2lSXc6jxlAz
   popularity: 78
-  url: https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz
+  url: 'https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz'
 discography_enriched: true
 top_tracks:
-- Love Me Not
-- Love Me Not (Bird's Eye)
-- Love Me Not (feat. Rex Orange County)
-- Genius (Bird's Eye)
-- Love Me Not
-- Skin Tight (feat. Steve Lacy) (HYPNOS)
-- One Wish (feat. Childish Gambino) (Bird's Eye)
-- Dream Girl (Bird's Eye)
-- Xtasy (Remix) [feat. Doechii]
-- From Scratch (Bird's Eye)
+  - Love Me Not
+  - Love Me Not (Bird's Eye)
+  - Love Me Not (feat. Rex Orange County)
+  - Genius (Bird's Eye)
+  - Love Me Not
+  - Skin Tight (feat. Steve Lacy) (HYPNOS)
+  - One Wish (feat. Childish Gambino) (Bird's Eye)
+  - Dream Girl (Bird's Eye)
+  - 'Xtasy (Remix) [feat. Doechii]'
+  - From Scratch (Bird's Eye)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/94c64122-dbd4-4927-b2fa-f204b0b4b0c2
-  spotify: https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz
-  wikipedia: https://en.wikipedia.org/wiki/Ravyn_Lenae
+  musicbrainz: 'https://musicbrainz.org/artist/94c64122-dbd4-4927-b2fa-f204b0b4b0c2'
+  spotify: 'https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ravyn_Lenae'
 image_path: 03_Resources/source_material/ArtistPortraits/ravyn_lenae.jpg
 biography_enhanced_at: '2025-12-17T02:17:13.755129'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Ravyn+Lenae/+wiki
-- https://kids.kiddle.co/Ravyn_Lenae
-- https://press.atlanticrecords.com/sites/g/files/g2000014001/files/2022-03/Ravyn-Lenae-Press-Clips-2017.pdf
-- https://intothegloss.com/2019/08/ravyn-lenae-beauty-routine/
-- https://asiapop40.com/articles/interview-ravynlenae-2025/
-- https://grammymuseum.org/event/spotlight-ravyn-lenae/
-- https://www.theculturecrypt.com/posts/ravyn-lenaes-career-explored
-- https://www.refinery29.com/en-us/2023/03/11304918/ravyn-lenae-hypnos-albums-interview
+  - 'https://www.last.fm/music/Ravyn+Lenae/+wiki'
+  - 'https://kids.kiddle.co/Ravyn_Lenae'
+  - >-
+    https://press.atlanticrecords.com/sites/g/files/g2000014001/files/2022-03/Ravyn-Lenae-Press-Clips-2017.pdf
+  - 'https://intothegloss.com/2019/08/ravyn-lenae-beauty-routine/'
+  - 'https://asiapop40.com/articles/interview-ravynlenae-2025/'
+  - 'https://grammymuseum.org/event/spotlight-ravyn-lenae/'
+  - 'https://www.theculturecrypt.com/posts/ravyn-lenaes-career-explored'
+  - >-
+    https://www.refinery29.com/en-us/2023/03/11304918/ravyn-lenae-hypnos-albums-interview
 network_extracted: true
 entry_created: '2025-12-17T02:17:13.755133'
 last_updated: '2025-12-23T08:16:14.664384'
 gender: Female
 musicbrainz_id: 94c64122-dbd4-4927-b2fa-f204b0b4b0c2
 tags:
-- 2020s
-- alternative r&b
-- contemporary r&b
-
+  - 2020s
+  - alternative r&b
+  - contemporary r&b
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](ravyn_lenae.jpg)

@@ -3,44 +3,49 @@ biography_enhanced_at: '2025-12-28T02:00:16.824120'
 enhancement_provider: perplexity
 entry_created: '2025-12-28T02:00:16.824134'
 external_urls:
-  spotify: https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a
-  wikipedia: https://en.wikipedia.org/wiki/DJ_Tunez
+  spotify: 'https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a'
+  wikipedia: 'https://en.wikipedia.org/wiki/DJ_Tunez'
 genres:
-- afrobeats
-- afrobeat
-- afropop
-- afropiano
-- alté
-- afroswing
-- azonto
+  - afrobeats
+  - afrobeat
+  - afropop
+  - afropiano
+  - alté
+  - afroswing
+  - azonto
 image_path: 03_Resources/source_material/ArtistPortraits/dj_tunez_wizkid_and_fola.jpg
 last_updated: '2025-12-28T02:00:16.824135'
 musical_connections:
   collaborators:
-  - Wizkid
-  - Wande Coal
-  - Bella Shmurda
-  - Kizz Daniel
+    - Wizkid
+    - Wande Coal
+    - Bella Shmurda
+    - Kizz Daniel
   influenced:
-  - Fola
+    - Fola
   mentors:
-  - Wizkid
-  - 2Baba, Wande Coal, Naeto C
+    - Wizkid
+    - '2Baba, Wande Coal, Naeto C'
 network_extracted: true
-origin: 'DJ Tunez: Brooklyn, New York, United States (raised; Nigerian heritage)[2]; Fola: Ibadan, Oyo State, Nigeria (birthplace)[3]'
+origin: >-
+  DJ Tunez: Brooklyn, New York, United States (raised; Nigerian heritage); Fola:
+  Ibadan, Oyo State, Nigeria (birthplace)
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/DJ_Tunez
-- https://www.peopleinfobox.com/fola/
-- https://notjustok.com/news/fola-shares-behind-the-scenes-story-of-linking-up-with-wizkid-dj-tunez-and-his-surprise-encounter-with-davido/
+  - 'https://en.wikipedia.org/wiki/DJ_Tunez'
+  - 'https://www.peopleinfobox.com/fola/'
+  - >-
+    https://notjustok.com/news/fola-shares-behind-the-scenes-story-of-linking-up-with-wizkid-dj-tunez-and-his-surprise-encounter-with-davido/
 spotify_data:
   followers: 672718
   id: 64oW4P0vsDhlorOxZKQi6a
   popularity: 68
-  url: https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a
+  url: 'https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a'
 status: active
-title: dj tunez, wizkid & fola
-
+title: 'DJ Tunez, Wizkid & Fola'
+birth_place: 'South Brooklyn, New York, United States'
+birth_date: '1989-05-10'
+artist_type: band
 ---
 
 ![](dj_tunez_wizkid_and_fola.jpg)

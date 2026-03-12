@@ -5,28 +5,28 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1943-11-07'
-birth_place: Fort Macleod
+birth_place: 'Fort Macleod, Alberta, Canada'
 genres:
-- folk
-- singer-songwriter
-- folk rock
+  - folk
+  - singer-songwriter
+  - folk rock
 instruments:
-- acoustic guitar
-- electric guitar
-- piano
-- guitar
-- guitar family
-- electric piano
-- lead vocals
-- spoken vocals
-- background vocals
-- other vocals
+  - acoustic guitar
+  - electric guitar
+  - piano
+  - guitar
+  - guitar family
+  - electric piano
+  - lead vocals
+  - spoken vocals
+  - background vocals
+  - other vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 00e5df03-d3e3-4aaa-8139-1d1b2e31b03c
-  name: The Mitchell / Taylor Boy-and-Girl Choir
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 00e5df03-d3e3-4aaa-8139-1d1b2e31b03c
+    name: The Mitchell / Taylor Boy-and-Girl Choir
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/joni_mitchell.jpg
   caption: Joni Mitchell
@@ -34,7 +34,7 @@ infobox:
   born: '1943-11-07'
   origin: Fort Macleod
 audio_profile:
-  tempo_avg: 110.0
+  tempo_avg: 110
   energy_avg: 0.316
   valence_avg: 0.477
   danceability_avg: 0.542
@@ -48,61 +48,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - David Crosby
-  - Jaco Pastorius
-  - Charles Mingus
-  - Wayne Shorter
-  - Herbie Hancock
+    - David Crosby
+    - Jaco Pastorius
+    - Charles Mingus
+    - Wayne Shorter
+    - Herbie Hancock
   influenced:
-  - Prince
-  - Taylor Swift
-  - Brandi Carlile
-  - Courtney Barnett
+    - Prince
+    - Taylor Swift
+    - Brandi Carlile
+    - Courtney Barnett
   mentors:
-  - Pete Seeger
-  - Bob Dylan
-  - Eric Andersen
+    - Pete Seeger
+    - Bob Dylan
+    - Eric Andersen
 spotify_data:
   followers: 1635387
   id: 5hW4L92KnC6dX9t7tYM4Ve
   popularity: 60
-  url: https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve
+  url: 'https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve'
 discography_enriched: true
 top_tracks:
-- California (Blue)
-- Big Yellow Taxi (Ladies of the Canyon)
-- Got 'Til It's Gone (The Velvet Rope)
-- A Case of You (Blue)
-- Both Sides Now (Clouds)
-- Both Sides Now (Both Sides Now)
-- Help Me (Court and Spark)
-- River (Blue)
-- All I Want (Blue)
-- Carey (Blue)
+  - California (Blue)
+  - Big Yellow Taxi (Ladies of the Canyon)
+  - Got 'Til It's Gone (The Velvet Rope)
+  - A Case of You (Blue)
+  - Both Sides Now (Clouds)
+  - Both Sides Now (Both Sides Now)
+  - Help Me (Court and Spark)
+  - River (Blue)
+  - All I Want (Blue)
+  - Carey (Blue)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a6de8ef9-b1a1-4756-97aa-481bbb8a4069
-  spotify: https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve
-  wikipedia: https://en.wikipedia.org/wiki/Joni_Mitchell
+  musicbrainz: 'https://musicbrainz.org/artist/a6de8ef9-b1a1-4756-97aa-481bbb8a4069'
+  spotify: 'https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve'
+  wikipedia: 'https://en.wikipedia.org/wiki/Joni_Mitchell'
 image_path: 03_Resources/source_material/ArtistPortraits/joni_mitchell.jpg
 biography_enhanced_at: '2025-10-26T12:45:20.240222'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.britannica.com/biography/Joni-Mitchell
-- https://en.wikipedia.org/wiki/Joni_Mitchell
-- https://www.biography.com/musicians/joni-mitchell
-- https://jonimitchell.com/library/view.cfm?id=1993
-- https://jonimitchell.com/library/view.cfm?id=2033
-- https://www.wbur.org/hereandnow/2024/06/11/joni-mitchell-traveling
+  - 'https://www.britannica.com/biography/Joni-Mitchell'
+  - 'https://en.wikipedia.org/wiki/Joni_Mitchell'
+  - 'https://www.biography.com/musicians/joni-mitchell'
+  - 'https://jonimitchell.com/library/view.cfm?id=1993'
+  - 'https://jonimitchell.com/library/view.cfm?id=2033'
+  - 'https://www.wbur.org/hereandnow/2024/06/11/joni-mitchell-traveling'
 network_extracted: true
 entry_created: '2025-10-26T12:45:20.240230'
 last_updated: '2025-12-23T08:16:10.951771'
 gender: Female
 musicbrainz_id: a6de8ef9-b1a1-4756-97aa-481bbb8a4069
 tags:
-- 2008 universal fire victim
-- composer
-- contemporary folk
+  - 2008 universal fire victim
+  - composer
+  - contemporary folk
 ---
 
 ![](joni_mitchell.jpg)

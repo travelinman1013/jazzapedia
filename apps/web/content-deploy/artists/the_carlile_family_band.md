@@ -2,7 +2,7 @@
 title: The Carlile Family Band
 wiki_slug: the-carlile-family-band
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 birth_date: '2019'
 genres: []
@@ -12,7 +12,7 @@ infobox:
   background: group_or_band
   born: '2019'
 audio_profile:
-  tempo_avg: 121.0
+  tempo_avg: 121
   energy_avg: 0.387
   valence_avg: 0.376
   danceability_avg: 0.416
@@ -26,50 +26,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Caroline Carlile
-  - Jay Carlile
-  - Wynonna Judd
+    - Caroline Carlile
+    - Jay Carlile
+    - Wynonna Judd
   influenced: []
   mentors:
-  - Brandi Carlile
-  - Jay Carlile (father)
+    - Brandi Carlile
+    - Jay Carlile (father)
 spotify_data:
   followers: 1218
   id: 6GWXEmbbBOSmiKJSL7kKAC
   popularity: 5
-  url: https://open.spotify.com/artist/6GWXEmbbBOSmiKJSL7kKAC
+  url: 'https://open.spotify.com/artist/6GWXEmbbBOSmiKJSL7kKAC'
 discography_enriched: true
 top_tracks:
-- Get Back To The Garden (Get Back To The Garden)
-- Dream Again (The Carlile Family Band)
-- South Leredo (The Carlile Family Band)
-- Leftover Sentences (Leftover Sentences)
-- Time Is on Your Side (Time Is on Your Side)
-- Time Is on Your Side (The Carlile Family Band)
-- Angeline (Angeline)
-- Angeline (The Carlile Family Band)
-- Leftover Sentences (The Carlile Family Band)
-- A Man In A Million (A Man In A Million)
+  - Get Back To The Garden (Get Back To The Garden)
+  - Dream Again (The Carlile Family Band)
+  - South Leredo (The Carlile Family Band)
+  - Leftover Sentences (Leftover Sentences)
+  - Time Is on Your Side (Time Is on Your Side)
+  - Time Is on Your Side (The Carlile Family Band)
+  - Angeline (Angeline)
+  - Angeline (The Carlile Family Band)
+  - Leftover Sentences (The Carlile Family Band)
+  - A Man In A Million (A Man In A Million)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2b572248-1dde-40c2-a65e-336417fda12a
-  spotify: https://open.spotify.com/artist/6GWXEmbbBOSmiKJSL7kKAC
+  musicbrainz: 'https://musicbrainz.org/artist/2b572248-1dde-40c2-a65e-336417fda12a'
+  spotify: 'https://open.spotify.com/artist/6GWXEmbbBOSmiKJSL7kKAC'
   wikipedia: Not found
 image_path: 03_Resources/source_material/ArtistPortraits/the_carlile_family_band.jpg
 biography_enhanced_at: '2025-11-21T07:23:56.858753'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://thecarlilefamilyband.com
-- https://www.starrhilltysons.com/events/the-carlile-family-band
-- https://tworivertimes.com/thefamilythattravelstogetherandentertainstogether/
-- https://allisonrapp.substack.com/p/a-conversation-with-the-carlile-family
-- https://thecarlilefamilyband.com/meet-the-band
+  - 'https://thecarlilefamilyband.com'
+  - 'https://www.starrhilltysons.com/events/the-carlile-family-band'
+  - 'https://tworivertimes.com/thefamilythattravelstogetherandentertainstogether/'
+  - 'https://allisonrapp.substack.com/p/a-conversation-with-the-carlile-family'
+  - 'https://thecarlilefamilyband.com/meet-the-band'
 network_extracted: true
 entry_created: '2025-11-21T07:23:56.858772'
 last_updated: '2025-12-23T08:16:16.627131'
-disambiguation: Folk, Americana, Indie band from WA, formerly SmallTown Strings
+disambiguation: 'Folk, Americana, Indie band from WA, formerly SmallTown Strings'
 musicbrainz_id: 2b572248-1dde-40c2-a65e-336417fda12a
-origin: Curlew, Washington, United States
+origin: 'Curlew, Washington, United States'
 ---
 
 ![](the_carlile_family_band.jpg)

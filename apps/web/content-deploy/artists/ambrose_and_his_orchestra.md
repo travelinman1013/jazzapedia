@@ -3,40 +3,43 @@ biography_enhanced_at: '2026-01-04T01:51:52.762900'
 enhancement_provider: perplexity
 entry_created: '2026-01-04T01:51:52.762905'
 external_urls:
-  spotify: https://open.spotify.com/artist/46ifTQBZKor5EggRUIHQy1
-  wikipedia: https://en.wikipedia.org/wiki/Ambrose_(bandleader)
+  spotify: 'https://open.spotify.com/artist/46ifTQBZKor5EggRUIHQy1'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ambrose_(bandleader)'
 genres:
-- big band
-- swing music
-- ragtime
+  - big band
+  - swing music
+  - ragtime
 image_path: 03_Resources/source_material/ArtistPortraits/ambrose_and_his_orchestra.jpg
 last_updated: '2026-01-04T01:51:52.762905'
 musical_connections:
   collaborators:
-  - Sid Phillips
-  - Ted Heath
-  - Danny Polo
-  - Richard Rodgers and Lorenz Hart
-  - Kathy Kirby
+    - Sid Phillips
+    - Ted Heath
+    - Danny Polo
+    - Richard Rodgers and Lorenz Hart
+    - Kathy Kirby
   influenced:
-  - Squadronaires
+    - Squadronaires
   mentors:
-  - Emil Coleman
+    - Emil Coleman
 network_extracted: true
-origin: London, England
+origin: 'London, England, United Kingdom'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Ambrose_(bandleader)
-- https://www.wyastone.co.uk/ambrose-his-orchestra-when-day-is-done-his-51-finest-1928-1944.html
-- http://www.mgthomas.co.uk/dancebands/musicians/musicianpages/ambrose.htm
-- https://fromthevaults-boppinbob.blogspot.com/2013/09/bert-ambrose-born-15-september-1896.html
+  - 'https://en.wikipedia.org/wiki/Ambrose_(bandleader)'
+  - >-
+    https://www.wyastone.co.uk/ambrose-his-orchestra-when-day-is-done-his-51-finest-1928-1944.html
+  - 'http://www.mgthomas.co.uk/dancebands/musicians/musicianpages/ambrose.htm'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2013/09/bert-ambrose-born-15-september-1896.html
 spotify_data:
   followers: 5137
   id: 46ifTQBZKor5EggRUIHQy1
   popularity: 28
-  url: https://open.spotify.com/artist/46ifTQBZKor5EggRUIHQy1
+  url: 'https://open.spotify.com/artist/46ifTQBZKor5EggRUIHQy1'
 status: active
 title: Ambrose & HIs Orchestra
+artist_type: person
 ---
 
 ![](ambrose_and_his_orchestra.jpg)

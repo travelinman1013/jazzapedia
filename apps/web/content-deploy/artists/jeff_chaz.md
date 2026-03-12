@@ -1,54 +1,56 @@
 ---
 biography_enhanced_at: '2026-01-08T01:37:33.166147'
-birth_place: Lake Charles / Creole, Louisiana, United States
+birth_place: 'Lake Charles / Creole, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-08T01:37:33.166152'
 external_urls:
-  spotify: https://open.spotify.com/artist/2dw80Uni5l7wd9zZFn7Ltu
+  spotify: 'https://open.spotify.com/artist/2dw80Uni5l7wd9zZFn7Ltu'
   wikipedia: ''
 genres:
-- mandopop
-- taiwanese pop
-- c-pop
-- gufeng
-- cantopop
+  - mandopop
+  - taiwanese pop
+  - c-pop
+  - gufeng
+  - cantopop
 image_path: 03_Resources/source_material/ArtistPortraits/jeff_chaz.jpg
 last_updated: '2026-01-08T01:37:33.166153'
 musical_connections:
   collaborators:
-  - Albert King
-  - Jerry Lee Lewis
-  - Cab Calloway
-  - Doug Belote
-  - Doug Therrien
-  - A.J. Pittman
-  - Ellis Pailet (Ellis Paillet)
-  - John Wehner
+    - Albert King
+    - Jerry Lee Lewis
+    - Cab Calloway
+    - Doug Belote
+    - Doug Therrien
+    - A.J. Pittman
+    - Ellis Pailet (Ellis Paillet)
+    - John Wehner
   influenced:
-  - ''
+    - ''
   mentors:
-  - Tommy Dorsey
-  - Jack Teagarden
-  - B.B. King
-  - Albert King
-  - Little Milton
+    - Tommy Dorsey
+    - Jack Teagarden
+    - B.B. King
+    - Albert King
+    - Little Milton
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://blues.gr/profiles/blogs/an-interview-with-electrifying-guitarist-singer-jeff-chaz-known
-- https://www.last.fm/music/Jeff+Chaz/+wiki
-- https://www.makingascene.org/jeff-chaz-is-making-a-scene/
-- https://www.imdb.com/name/nm9344684/
-- https://www.americanbluesscene.com/2017/01/jeff-chaz-scores-silence-killing/
-- https://kreolmagazine.com/jeff-chaz-born-survivor-in-a-world-of-blues/
-- https://lahoradelblues.com/en/jeff-chaz-sounds-like-the-blues-to-me/
+  - >-
+    https://blues.gr/profiles/blogs/an-interview-with-electrifying-guitarist-singer-jeff-chaz-known
+  - 'https://www.last.fm/music/Jeff+Chaz/+wiki'
+  - 'https://www.makingascene.org/jeff-chaz-is-making-a-scene/'
+  - 'https://www.imdb.com/name/nm9344684/'
+  - 'https://www.americanbluesscene.com/2017/01/jeff-chaz-scores-silence-killing/'
+  - 'https://kreolmagazine.com/jeff-chaz-born-survivor-in-a-world-of-blues/'
+  - 'https://lahoradelblues.com/en/jeff-chaz-sounds-like-the-blues-to-me/'
 spotify_data:
   followers: 365731
   id: 2dw80Uni5l7wd9zZFn7Ltu
   popularity: 54
-  url: https://open.spotify.com/artist/2dw80Uni5l7wd9zZFn7Ltu
+  url: 'https://open.spotify.com/artist/2dw80Uni5l7wd9zZFn7Ltu'
 status: active
 title: Jeff Chaz
+artist_type: person
 ---
 
 ![](jeff_chaz.jpg)

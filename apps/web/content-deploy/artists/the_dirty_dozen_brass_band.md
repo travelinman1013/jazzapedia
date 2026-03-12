@@ -2,12 +2,12 @@
 title: The Dirty Dozen Brass Band
 wiki_slug: the-dirty-dozen-brass-band
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1977'
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_dirty_dozen_brass_band.jpg
   caption: The Dirty Dozen Brass Band
@@ -28,151 +28,153 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Norah Jones
-  - Widespread Panic
-  - Elvis Costello
-  - David Bowie
-  - Dr. John
-  - 'Band Members (not exhaustive): Gregory Davis, Roger Lewis, Kirk Joseph, Charles Joseph, Kevin Harris, Efrem Townes, Benny
-    Jones, Jenell Marshall, Trevarri Huff-Boone, Stephen Walker, Julian Addison, Takeshi Shimmura'
+    - Norah Jones
+    - Widespread Panic
+    - Elvis Costello
+    - David Bowie
+    - Dr. John
+    - >-
+      Band Members (not exhaustive): Gregory Davis, Roger Lewis, Kirk Joseph,
+      Charles Joseph, Kevin Harris, Efrem Townes, Benny Jones, Jenell Marshall,
+      Trevarri Huff-Boone, Stephen Walker, Julian Addison, Takeshi Shimmura
   influenced:
-  - Rebirth Brass Band
-  - Soul Rebels Brass Band
+    - Rebirth Brass Band
+    - Soul Rebels Brass Band
   mentors:
-  - Danny Barker
-  - Edward “Kidd” Jordan
+    - Danny Barker
+    - Edward “Kidd” Jordan
 spotify_data:
   followers: 49180
   id: 6F6lawSnwGWWgdXFN7LXO7
   popularity: 26
-  url: https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7
+  url: 'https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7'
 discography_enriched: true
 top_tracks:
-- 'It''s All Over Now (This is Jazz 30: The Dirty Dozen Brass Band)'
-- Superstition (Another Joyous Occasion)
-- Do It Fluid (My Feet Can't Fail Me Now)
-- Blackbird Special (My Feet Can't Fail Me Now)
-- I'll Fly Away (Funeral for a Friend)
-- My Feet Can't Fail Me Now (My Feet Can't Fail Me Now)
-- Arleen (Another Joyous Occasion)
-- Stompin' Ground
-- Caravan (My Feet Can't Fail Me Now)
-- Coconuts (Another Joyous Occasion)
+  - 'It''s All Over Now (This is Jazz 30: The Dirty Dozen Brass Band)'
+  - Superstition (Another Joyous Occasion)
+  - Do It Fluid (My Feet Can't Fail Me Now)
+  - Blackbird Special (My Feet Can't Fail Me Now)
+  - I'll Fly Away (Funeral for a Friend)
+  - My Feet Can't Fail Me Now (My Feet Can't Fail Me Now)
+  - Arleen (Another Joyous Occasion)
+  - Stompin' Ground
+  - Caravan (My Feet Can't Fail Me Now)
+  - Coconuts (Another Joyous Occasion)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/29bdc1d0-dc34-4f5d-9c22-8b2d66421f49
-  spotify: https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7
-  wikipedia: https://en.wikipedia.org/wiki/Dirty_Dozen_Brass_Band
+  musicbrainz: 'https://musicbrainz.org/artist/29bdc1d0-dc34-4f5d-9c22-8b2d66421f49'
+  spotify: 'https://open.spotify.com/artist/6F6lawSnwGWWgdXFN7LXO7'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dirty_Dozen_Brass_Band'
 image_path: 03_Resources/source_material/ArtistPortraits/the_dirty_dozen_brass_band.jpg
 biography_enhanced_at: '2025-11-11T09:20:52.572173'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://musicrising.tulane.edu/discover/people/dirty-dozen-brass-band/
-- https://discoverfortmose.com/the-lineup-2025/the-dirty-dozen-brass-band/
-- https://64parishes.org/entry/dirty-dozen-brass-band
-- https://www.grandperformances.org/events/the-dirty-dozen-brass-band
-- https://en.wikipedia.org/wiki/Dirty_Dozen_Brass_Band
+  - 'https://musicrising.tulane.edu/discover/people/dirty-dozen-brass-band/'
+  - 'https://discoverfortmose.com/the-lineup-2025/the-dirty-dozen-brass-band/'
+  - 'https://64parishes.org/entry/dirty-dozen-brass-band'
+  - 'https://www.grandperformances.org/events/the-dirty-dozen-brass-band'
+  - 'https://en.wikipedia.org/wiki/Dirty_Dozen_Brass_Band'
 network_extracted: true
 entry_created: '2025-11-11T09:20:52.572184'
 last_updated: '2025-12-23T08:16:16.734183'
 members:
-- begin: '1977'
-  end: '1991'
-  instruments: []
-  mbid: 96c192d1-28b3-4a53-8c66-7511345330b9
-  name: Charles Joseph
-- begin: '1977'
-  end: '1991'
-  instruments: []
-  mbid: 85e6119d-06f4-481c-8e33-65789edc0ddf
-  name: Kirk Joseph
-- begin: '1977'
-  end: '1994'
-  instruments: []
-  mbid: 896a0c7c-77b4-4a7b-9308-b8b913cd84f9
-  name: Jenell Marshall
-- &id001
-  begin: '1977'
-  end: ''
-  instruments: []
-  mbid: 1c680f6b-2f78-41ba-b08c-0badc3803b8b
-  name: Gregory Davis
-- &id002
-  begin: '1977'
-  end: ''
-  instruments: []
-  mbid: fe43866a-6590-41ba-8a76-5ef8b1034d22
-  name: Kevin Harris
-- &id003
-  begin: '1977'
-  end: ''
-  instruments: []
-  mbid: 4e2a9156-f707-4e88-905f-1b2b00fddef7
-  name: Benny Jones
-- &id004
-  begin: '1977'
-  end: ''
-  instruments: []
-  mbid: 88402c96-c6fb-4ca7-839f-357ecb1a83a3
-  name: Roger Lewis
-- &id005
-  begin: '1977'
-  end: ''
-  instruments: []
-  mbid: 7e5cfc0d-06a8-4573-a1e4-1380df3fa38f
-  name: Efrem Towns
-- begin: ''
-  end: '1994'
-  instruments: []
-  mbid: 903092cd-92f1-4e2d-b484-7573ca0744f1
-  name: Lionel Batiste
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8ca458e5-ee27-413c-b355-d6da7be10b5b
-  name: Keith Anderson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 932a8602-59f3-4617-8d31-65f32296b4be
-  name: Revert Andrews
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e94fcca9-d9a6-4ea3-9fad-862b5f4365e2
-  name: Jake Eckert
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f66d7310-b6be-4997-8417-af34ad82ac19
-  name: Terence Higgins
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7ee5a5e3-7979-464b-8e23-f4035152f9da
-  name: Julius McKee
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 189c9c97-b0d6-448a-9221-c6efbc0e8a71
-  name: Sammie Williams
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9c3747ca-1ecd-4dc9-97c0-1e3c91bcdcce
-  name: Jamie McLean
+  - begin: '1977'
+    end: '1991'
+    instruments: []
+    mbid: 96c192d1-28b3-4a53-8c66-7511345330b9
+    name: Charles Joseph
+  - begin: '1977'
+    end: '1991'
+    instruments: []
+    mbid: 85e6119d-06f4-481c-8e33-65789edc0ddf
+    name: Kirk Joseph
+  - begin: '1977'
+    end: '1994'
+    instruments: []
+    mbid: 896a0c7c-77b4-4a7b-9308-b8b913cd84f9
+    name: Jenell Marshall
+  - &ref_0
+    begin: '1977'
+    end: ''
+    instruments: []
+    mbid: 1c680f6b-2f78-41ba-b08c-0badc3803b8b
+    name: Gregory Davis
+  - &ref_1
+    begin: '1977'
+    end: ''
+    instruments: []
+    mbid: fe43866a-6590-41ba-8a76-5ef8b1034d22
+    name: Kevin Harris
+  - &ref_2
+    begin: '1977'
+    end: ''
+    instruments: []
+    mbid: 4e2a9156-f707-4e88-905f-1b2b00fddef7
+    name: Benny Jones
+  - &ref_3
+    begin: '1977'
+    end: ''
+    instruments: []
+    mbid: 88402c96-c6fb-4ca7-839f-357ecb1a83a3
+    name: Roger Lewis
+  - &ref_4
+    begin: '1977'
+    end: ''
+    instruments: []
+    mbid: 7e5cfc0d-06a8-4573-a1e4-1380df3fa38f
+    name: Efrem Towns
+  - begin: ''
+    end: '1994'
+    instruments: []
+    mbid: 903092cd-92f1-4e2d-b484-7573ca0744f1
+    name: Lionel Batiste
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8ca458e5-ee27-413c-b355-d6da7be10b5b
+    name: Keith Anderson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 932a8602-59f3-4617-8d31-65f32296b4be
+    name: Revert Andrews
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e94fcca9-d9a6-4ea3-9fad-862b5f4365e2
+    name: Jake Eckert
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f66d7310-b6be-4997-8417-af34ad82ac19
+    name: Terence Higgins
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7ee5a5e3-7979-464b-8e23-f4035152f9da
+    name: Julius McKee
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 189c9c97-b0d6-448a-9221-c6efbc0e8a71
+    name: Sammie Williams
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9c3747ca-1ecd-4dc9-97c0-1e3c91bcdcce
+    name: Jamie McLean
 musicbrainz_id: 29bdc1d0-dc34-4f5d-9c22-8b2d66421f49
-origin: New Orleans
+origin: 'New Orleans, Louisiana, United States'
 original_members:
-- *id001
-- *id002
-- *id003
-- *id004
-- *id005
+  - *ref_0
+  - *ref_1
+  - *ref_2
+  - *ref_3
+  - *ref_4
 tags:
-- brass band
-- funk
-- jam band
+  - brass band
+  - funk
+  - jam band
 ---
 
 ![](the_dirty_dozen_brass_band.jpg)

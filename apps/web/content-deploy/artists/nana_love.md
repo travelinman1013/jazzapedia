@@ -25,39 +25,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Reindorf Oppong
+    - Reindorf Oppong
   influenced: []
   mentors: []
 spotify_data:
   followers: 754
   id: 4POWP9WWShkchWbUaiCmrB
   popularity: 4
-  url: https://open.spotify.com/artist/4POWP9WWShkchWbUaiCmrB
+  url: 'https://open.spotify.com/artist/4POWP9WWShkchWbUaiCmrB'
 discography_enriched: true
 top_tracks:
-- I'm in Love (Disco Documentary - Full of Funk)
-- Talking About Music (Disco Documentary - Full of Funk)
-- Hang on Baby (Disco Documentary - Full of Funk)
-- Disco Lover (Disco Documentary - Full of Funk)
-- We Gonna Stay for the Party (Disco Documentary - Full of Funk)
-- When the Heart Decides (Disco Documentary - Full of Funk)
-- Loving Feeling - Instrumental (Disco Documentary - Full of Funk)
-- Hip Hip Hip (Angel Love Obataan Pa)
-- Reach out My Hand (Disco Documentary - Full of Funk)
-- Loving Feeling - Dance Mix (Disco Documentary - Full of Funk)
+  - I'm in Love (Disco Documentary - Full of Funk)
+  - Talking About Music (Disco Documentary - Full of Funk)
+  - Hang on Baby (Disco Documentary - Full of Funk)
+  - Disco Lover (Disco Documentary - Full of Funk)
+  - We Gonna Stay for the Party (Disco Documentary - Full of Funk)
+  - When the Heart Decides (Disco Documentary - Full of Funk)
+  - Loving Feeling - Instrumental (Disco Documentary - Full of Funk)
+  - Hip Hip Hip (Angel Love Obataan Pa)
+  - Reach out My Hand (Disco Documentary - Full of Funk)
+  - Loving Feeling - Dance Mix (Disco Documentary - Full of Funk)
 external_urls:
-  spotify: https://open.spotify.com/artist/4POWP9WWShkchWbUaiCmrB
+  spotify: 'https://open.spotify.com/artist/4POWP9WWShkchWbUaiCmrB'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/nana_love.jpg
 biography_enhanced_at: '2025-12-14T01:51:48.517188'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- BBE Music – artist page for Nana Love, describing her role as singer/songwriter and the production by Reindorf Oppong.[3]
-- NTS Radio – artist page showing repeated plays and features of Nana Love’s tracks on specialist shows.[4]
+  - >-
+    BBE Music – artist page for Nana Love, describing her role as
+    singer/songwriter and the production by Reindorf Oppong.[3]
+  - >-
+    NTS Radio – artist page showing repeated plays and features of Nana Love’s
+    tracks on specialist shows.[4]
 network_extracted: true
 entry_created: '2025-12-14T01:51:48.517198'
 last_updated: '2025-12-23T08:16:13.413737'
+artist_type: person
+origin: 'Ghana, Ghana, Africa'
 ---
 
 ![](nana_love.jpg)

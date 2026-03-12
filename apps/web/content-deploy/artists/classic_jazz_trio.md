@@ -4,7 +4,7 @@ wiki_slug: classic-jazz-trio
 schema_version: 2
 status: active
 genres:
-- jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/classic_jazz_trio.jpg
   caption: Classic Jazz Trio
@@ -24,46 +24,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Keith Jarrett
-  - Bill Evans
+    - Keith Jarrett
+    - Bill Evans
   influenced:
-  - Brad Mehldau
-  - Vijay Iyer
+    - Brad Mehldau
+    - Vijay Iyer
   mentors:
-  - Bud Powell
-  - Oscar Peterson
+    - Bud Powell
+    - Oscar Peterson
 spotify_data:
   followers: 737
   id: 4nFofMNAntqM5p8Q4ha2YA
   popularity: 40
-  url: https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA
+  url: 'https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA'
 discography_enriched: true
 top_tracks:
-- I Still Miss You (I Still Miss You)
-- Fools Rush In (Fools Rush In)
-- Days Of Wine And Roses (Days Of Wine And Roses)
-- Days of Hope (Days of Hope)
-- Secret Love (All The Things You Are)
-- By The River (By The River)
-- Days Of Wine And Roses (Someday My Prince Will Come)
-- For Keith Jarrett (All The Things You Are)
-- Downstairs (Downstairs)
-- What A Difference A Day Made (What A Difference A Day Made)
+  - I Still Miss You (I Still Miss You)
+  - Fools Rush In (Fools Rush In)
+  - Days Of Wine And Roses (Days Of Wine And Roses)
+  - Days of Hope (Days of Hope)
+  - Secret Love (All The Things You Are)
+  - By The River (By The River)
+  - Days Of Wine And Roses (Someday My Prince Will Come)
+  - For Keith Jarrett (All The Things You Are)
+  - Downstairs (Downstairs)
+  - What A Difference A Day Made (What A Difference A Day Made)
 external_urls:
-  spotify: https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA
+  spotify: 'https://open.spotify.com/artist/4nFofMNAntqM5p8Q4ha2YA'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/classic_jazz_trio.jpg
 biography_enhanced_at: '2025-10-24T07:38:20.309096'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://jazzfuel.com/famous-jazz-trio-albums/
-- https://www.everythingjazz.com/story/how-the-piano-trio-democratised-jazz/
-- https://en.wikipedia.org/wiki/Jazz_trio
+  - 'https://jazzfuel.com/famous-jazz-trio-albums/'
+  - 'https://www.everythingjazz.com/story/how-the-piano-trio-democratised-jazz/'
+  - 'https://en.wikipedia.org/wiki/Jazz_trio'
 network_extracted: true
 entry_created: '2025-10-24T07:38:20.309108'
 last_updated: '2025-12-23T08:16:07.055443'
-origin: New Orleans, Louisiana, United States (origin of jazz trio format)
+origin: 'New Orleans, Louisiana, United States (origin of jazz trio format)'
+artist_type: band
 ---
 
 ![](classic_jazz_trio.jpg)

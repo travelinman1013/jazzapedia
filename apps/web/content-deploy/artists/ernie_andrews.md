@@ -3,16 +3,16 @@ title: Ernie Andrews
 wiki_slug: ernie-andrews
 schema_version: 2
 status: active
-birth_place: Philadelphia, Pennsylvania, United States
+birth_place: 'Philadelphia, Pennsylvania, United States'
 genres:
-- vocal jazz
-- hard bop
-- jazz
+  - vocal jazz
+  - hard bop
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ernie_andrews.jpg
   caption: Ernie Andrews
   background: solo_singer
-  origin: Philadelphia, Pennsylvania, United States
+  origin: 'Philadelphia, Pennsylvania, United States'
 audio_profile:
   tempo_avg: 114.7
   energy_avg: 0.364
@@ -28,53 +28,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Joe Greene
-  - Harry James
-  - Gene Harris and the Philip Morris Superband
-  - Ray Brown
-  - Clayton-Hamilton Jazz Orchestra
-  - Kenny Burrell
+    - Joe Greene
+    - Harry James
+    - Gene Harris and the Philip Morris Superband
+    - Ray Brown
+    - Clayton-Hamilton Jazz Orchestra
+    - Kenny Burrell
   influenced:
-  - Barbara Morrison
-  - Younger LA jazz and session musicians (e.g., Rickey Minor’s generation)
+    - Barbara Morrison
+    - 'Younger LA jazz and session musicians (e.g., Rickey Minor’s generation)'
   mentors:
-  - Bunk Johnson
+    - Bunk Johnson
 spotify_data:
   followers: 630
   id: 5R3uLWUbgzb8o7TO6l5n3G
   popularity: 8
-  url: https://open.spotify.com/artist/5R3uLWUbgzb8o7TO6l5n3G
+  url: 'https://open.spotify.com/artist/5R3uLWUbgzb8o7TO6l5n3G'
 discography_enriched: true
 top_tracks:
-- I'm Always Drunk In San Francisco (And I Don't Drink At All) (Live Session!)
-- Big City (Live Session!)
-- Next Time I See You (Live Session!)
-- Since I Fell For You (Live Session!)
-- Work Song (Live Session!)
-- Ten Years Of Tears (Live Session!)
-- Bill Bailey (Live Session!)
-- Green Door (Live Session!)
-- The Jug and I (L.A. Treasures Project)
-- I'm A Born World Shaker (Live Session!)
+  - I'm Always Drunk In San Francisco (And I Don't Drink At All) (Live Session!)
+  - Big City (Live Session!)
+  - Next Time I See You (Live Session!)
+  - Since I Fell For You (Live Session!)
+  - Work Song (Live Session!)
+  - Ten Years Of Tears (Live Session!)
+  - Bill Bailey (Live Session!)
+  - Green Door (Live Session!)
+  - The Jug and I (L.A. Treasures Project)
+  - I'm A Born World Shaker (Live Session!)
 external_urls:
-  spotify: https://open.spotify.com/artist/5R3uLWUbgzb8o7TO6l5n3G
-  wikipedia: https://en.wikipedia.org/wiki/Ernie_Andrews
+  spotify: 'https://open.spotify.com/artist/5R3uLWUbgzb8o7TO6l5n3G'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ernie_Andrews'
 image_path: 03_Resources/source_material/ArtistPortraits/ernie_andrews.jpg
 biography_enhanced_at: '2025-12-08T04:18:09.214998'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Los Angeles Times obituary and profile of Ernie Andrews (2022).
-- 'JAZZ.FM91 obituary: “Ernie Andrews, soulful, charismatic jazz singer, dies at 94.”'
-- 'Los Angeles Sentinel feature: “The Best of Jazz Told Through the Life of Ernie Andrews.”'
-- LA Phil artist biography for Ernie Andrews.
-- 'WBGO tribute: “Ernie Andrews, suave and soulful jazz singer, is dead at 94.”'
-- 'JazzTimes obituary: “In Memoriam: Ernie Andrews.”'
-- 'JazzWax feature: “Ernie Andrews (1927–2022).”'
-- San Francisco Classical Voice feature on LA jazz vocalists referencing Ernie Andrews.
+  - Los Angeles Times obituary and profile of Ernie Andrews (2022).
+  - >-
+    JAZZ.FM91 obituary: “Ernie Andrews, soulful, charismatic jazz singer, dies
+    at 94.”
+  - >-
+    Los Angeles Sentinel feature: “The Best of Jazz Told Through the Life of
+    Ernie Andrews.”
+  - LA Phil artist biography for Ernie Andrews.
+  - 'WBGO tribute: “Ernie Andrews, suave and soulful jazz singer, is dead at 94.”'
+  - 'JazzTimes obituary: “In Memoriam: Ernie Andrews.”'
+  - 'JazzWax feature: “Ernie Andrews (1927–2022).”'
+  - >-
+    San Francisco Classical Voice feature on LA jazz vocalists referencing Ernie
+    Andrews.
 network_extracted: true
 entry_created: '2025-12-08T04:18:09.215013'
 last_updated: '2025-12-23T08:16:08.435339'
+birth_date: '1927-12-25'
+death_date: '2022-02-21'
+artist_type: person
 ---
 
 ![](ernie_andrews.jpg)

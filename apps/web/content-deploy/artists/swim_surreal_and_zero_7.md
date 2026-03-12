@@ -1,36 +1,37 @@
 ---
-artist_type: band
+artist_type: person
 biography_enhanced_at: '2026-01-14T01:06:42.430131'
 enhancement_provider: perplexity
 entry_created: '2026-01-14T01:06:42.430142'
 external_urls:
-  spotify: https://open.spotify.com/artist/7t2rIgCnHoQ836kFShZd6B
-  wikipedia: https://en.wikipedia.org/wiki/Zero_7
+  spotify: 'https://open.spotify.com/artist/7t2rIgCnHoQ836kFShZd6B'
+  wikipedia: 'https://en.wikipedia.org/wiki/Zero_7'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/swim_surreal_and_zero_7.jpg
 is_active: true
 last_updated: '2026-01-14T01:06:42.430144'
 musical_connections:
   collaborators:
-  - Zero 7 (Henry Binns and Sam Hardaker)
+    - Zero 7 (Henry Binns and Sam Hardaker)
   influenced: []
   mentors: []
 network_extracted: true
-origin: California, USA (Swim Surreal); London, UK (Zero 7)
+origin: 'London, England, United Kingdom'
 primary_source: perplexity
 research_sources:
-- https://www.bighassle.com/swim-surreal
-- https://en.wikipedia.org/wiki/Zero_7
-- https://www.last.fm/music/Swim+Surreal/_/Don't+Call+It+Love
-- https://livinglifefearless.co/2024/latest-buzz/cas-swim-surreal-release-sultry-new-single-dont-call-it-love/
-- https://www.zero7.co.uk
-- https://www.youtube.com/watch?v=8wb1qInP3BI
-- https://www.allmusic.com/artist/swim-surreal-mn0004619040
+  - 'https://www.bighassle.com/swim-surreal'
+  - 'https://en.wikipedia.org/wiki/Zero_7'
+  - 'https://www.last.fm/music/Swim+Surreal/_/Don''t+Call+It+Love'
+  - >-
+    https://livinglifefearless.co/2024/latest-buzz/cas-swim-surreal-release-sultry-new-single-dont-call-it-love/
+  - 'https://www.zero7.co.uk'
+  - 'https://www.youtube.com/watch?v=8wb1qInP3BI'
+  - 'https://www.allmusic.com/artist/swim-surreal-mn0004619040'
 spotify_data:
   followers: 9234
   id: 7t2rIgCnHoQ836kFShZd6B
   popularity: 35
-  url: https://open.spotify.com/artist/7t2rIgCnHoQ836kFShZd6B
+  url: 'https://open.spotify.com/artist/7t2rIgCnHoQ836kFShZd6B'
 status: active
 title: Swim Surreal & Zero 7
 ---

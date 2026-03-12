@@ -1,111 +1,114 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '2005'
-  end: '2009'
-  instruments:
-  - guitar
-  - original
-  mbid: 87b9b3b8-ab93-426c-a200-4012d667a626
-  name: The War on Drugs
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 3f033575-6f68-4456-8f5e-f35c86594dbb
-  name: Courtney Barnett and Kurt Vile
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - lead vocals
-  mbid: 2cc71cd1-6f49-4fe4-ac0b-36ff6aee172d
-  name: Kurt Vile & the Violators
-- begin: ''
-  end: ''
-  instruments:
-  - electric guitar
-  - eponymous
-  mbid: 2cc71cd1-6f49-4fe4-ac0b-36ff6aee172d
-  name: Kurt Vile & the Violators
-- begin: ''
-  end: ''
-  instruments:
-  - banjo
-  - eponymous
-  mbid: 2cc71cd1-6f49-4fe4-ac0b-36ff6aee172d
-  name: Kurt Vile & the Violators
-- begin: ''
-  end: ''
-  instruments:
-  - additional
-  mbid: 4ec4a033-ba44-41ca-8e09-3bf94fc08523
-  name: Swirlies
+  - begin: '2005'
+    end: '2009'
+    instruments:
+      - guitar
+      - original
+    mbid: 87b9b3b8-ab93-426c-a200-4012d667a626
+    name: The War on Drugs
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 3f033575-6f68-4456-8f5e-f35c86594dbb
+    name: Courtney Barnett and Kurt Vile
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - lead vocals
+    mbid: 2cc71cd1-6f49-4fe4-ac0b-36ff6aee172d
+    name: Kurt Vile & the Violators
+  - begin: ''
+    end: ''
+    instruments:
+      - electric guitar
+      - eponymous
+    mbid: 2cc71cd1-6f49-4fe4-ac0b-36ff6aee172d
+    name: Kurt Vile & the Violators
+  - begin: ''
+    end: ''
+    instruments:
+      - banjo
+      - eponymous
+    mbid: 2cc71cd1-6f49-4fe4-ac0b-36ff6aee172d
+    name: Kurt Vile & the Violators
+  - begin: ''
+    end: ''
+    instruments:
+      - additional
+    mbid: 4ec4a033-ba44-41ca-8e09-3bf94fc08523
+    name: Swirlies
 biography_enhanced_at: '2026-01-01T01:08:47.067748'
 birth_date: '1980-01-03'
-birth_place: Lansdowne
+birth_place: 'Lansdowne, Delaware County, Pennsylvania, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-01T01:08:47.067768'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e07a111e-4e8a-4651-a849-01ac60551ab2
-  spotify: https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2
+  musicbrainz: 'https://musicbrainz.org/artist/e07a111e-4e8a-4651-a849-01ac60551ab2'
+  spotify: 'https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2'
   wikipedia: ''
 gender: Male
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/kurt_vile.jpg
 instruments:
-- guitar
-- original
-- eponymous
-- lead vocals
-- electric guitar
-- banjo
-- additional
-- Wurlitzer electric piano
-- acoustic guitar
-- baritone guitar
-- piano
-- resonator guitar
-- slide guitar
-- electric bass guitar
-- spoken vocals
-- background vocals
+  - guitar
+  - original
+  - eponymous
+  - lead vocals
+  - electric guitar
+  - banjo
+  - additional
+  - Wurlitzer electric piano
+  - acoustic guitar
+  - baritone guitar
+  - piano
+  - resonator guitar
+  - slide guitar
+  - electric bass guitar
+  - spoken vocals
+  - background vocals
 last_updated: '2026-01-01T01:08:47.067770'
 musical_connections:
   collaborators:
-  - Adam Granduciel
-  - The Violators
-  - Courtney Barnett
-  - J Mascis
-  - John Prine
+    - Adam Granduciel
+    - The Violators
+    - Courtney Barnett
+    - J Mascis
+    - John Prine
   influenced: []
   mentors:
-  - Neil Young
-  - Bob Dylan
-  - Bruce Springsteen
-  - Pavement
+    - Neil Young
+    - Bob Dylan
+    - Bruce Springsteen
+    - Pavement
 musicbrainz_id: e07a111e-4e8a-4651-a849-01ac60551ab2
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.ohjeanrecords.com/blogs/news/kurt-vile-biography
-- https://www.last.fm/music/Kurt+Vile/+wiki
-- https://www.soundsummit.net/kurt-vile-violators/
-- https://notion.online/kurt-vile/
-- https://nbhap.com/stories/moments-of-zen-and-adult-life-kurt-vile-reflecting-on-watch-my-moves
-- https://www.jango.com/music/Kurt+Vile/_full_bio
-- https://www.thecurrent.org/feature/2019/12/26/today-in-music-history-remembering-phil-everly
+  - 'https://www.ohjeanrecords.com/blogs/news/kurt-vile-biography'
+  - 'https://www.last.fm/music/Kurt+Vile/+wiki'
+  - 'https://www.soundsummit.net/kurt-vile-violators/'
+  - 'https://notion.online/kurt-vile/'
+  - >-
+    https://nbhap.com/stories/moments-of-zen-and-adult-life-kurt-vile-reflecting-on-watch-my-moves
+  - 'https://www.jango.com/music/Kurt+Vile/_full_bio'
+  - >-
+    https://www.thecurrent.org/feature/2019/12/26/today-in-music-history-remembering-phil-everly
 spotify_data:
   followers: 542995
   id: 5gspAQIAH8nJUrMYgXjCJ2
   popularity: 53
-  url: https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2
+  url: 'https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2'
 status: active
 tags:
-- indie
-- indie folk
-- indie rock
+  - indie
+  - indie folk
+  - indie rock
 title: Kurt Vile
+origin: 'Philadelphia, Pennsylvania, United States'
 ---
 
 ![](kurt_vile.jpg)

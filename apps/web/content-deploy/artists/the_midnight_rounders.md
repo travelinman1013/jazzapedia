@@ -1,8 +1,8 @@
 ---
-title: THE MIDNIGHT ROUNDERS
+title: The Midnight Rounders
 wiki_slug: the-midnight-rounders
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres: []
 infobox:
@@ -30,31 +30,38 @@ spotify_data:
   followers: 38
   id: 6BbC6I0Ui1nuhVS29v13R2
   popularity: 0
-  url: https://open.spotify.com/artist/6BbC6I0Ui1nuhVS29v13R2
+  url: 'https://open.spotify.com/artist/6BbC6I0Ui1nuhVS29v13R2'
 discography_enriched: true
 top_tracks:
-- Shake Your Shimmy (Gennett Jazz - Good Time Mama)
-- Bull Fiddle Rag - Take 1 (Gennett Jazz - Good Time Mama)
-- Bull Fiddle Rag - Take 2 (Gennett Jazz - Good Time Mama)
-- Shake Your Shimmy (Shake Your Shimmy)
-- Bull Fiddle Rag (Shake Your Shimmy)
-- 'Bull Fiddle Rag (On the Road to Chicago: The Black Small Bands)'
-- 'Shake Your Shimmy (How Low Can You Go?: Anthology of the String Bass, Vol. 3)'
-- 'Bull Fiddle Rag (take A) (How Low Can You Go?: Anthology of the String Bass, Vol. 3)'
-- 'Bull Fiddle Rag (take B) (How Low Can You Go?: Anthology of the String Bass, Vol. 3)'
-- Bull Fiddle Rag (Chicago Black Small Bands)
+  - Shake Your Shimmy (Gennett Jazz - Good Time Mama)
+  - Bull Fiddle Rag - Take 1 (Gennett Jazz - Good Time Mama)
+  - Bull Fiddle Rag - Take 2 (Gennett Jazz - Good Time Mama)
+  - Shake Your Shimmy (Shake Your Shimmy)
+  - Bull Fiddle Rag (Shake Your Shimmy)
+  - 'Bull Fiddle Rag (On the Road to Chicago: The Black Small Bands)'
+  - >-
+    Shake Your Shimmy (How Low Can You Go?: Anthology of the String Bass, Vol.
+    3)
+  - >-
+    Bull Fiddle Rag (take A) (How Low Can You Go?: Anthology of the String Bass,
+    Vol. 3)
+  - >-
+    Bull Fiddle Rag (take B) (How Low Can You Go?: Anthology of the String Bass,
+    Vol. 3)
+  - Bull Fiddle Rag (Chicago Black Small Bands)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5439d1ef-5fa0-45b3-8b7d-6c13c0156e4d
-  spotify: https://open.spotify.com/artist/6BbC6I0Ui1nuhVS29v13R2
+  musicbrainz: 'https://musicbrainz.org/artist/5439d1ef-5fa0-45b3-8b7d-6c13c0156e4d'
+  spotify: 'https://open.spotify.com/artist/6BbC6I0Ui1nuhVS29v13R2'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/the_midnight_rounders.jpg
 biography_enhanced_at: '2025-12-18T02:36:02.724598'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://lifeforcearts.org/an-interview-with-murpheys-midnight-rounders/
-- http://www.thegreenalbum.net/murphey-s-midnight-rounders.html
-- https://www.patheos.com/blogs/pantheon/2012/09/pagan-americana-murpheys-midnight-rounders/
+  - 'https://lifeforcearts.org/an-interview-with-murpheys-midnight-rounders/'
+  - 'http://www.thegreenalbum.net/murphey-s-midnight-rounders.html'
+  - >-
+    https://www.patheos.com/blogs/pantheon/2012/09/pagan-americana-murpheys-midnight-rounders/
 network_extracted: true
 entry_created: '2025-12-18T02:36:02.724606'
 last_updated: '2025-12-23T08:16:16.955321'

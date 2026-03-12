@@ -1,51 +1,55 @@
 ---
 biography_enhanced_at: '2026-01-19T01:14:27.009333'
-birth_place: St. Elizabeth, Jamaica (birthplace); raised in Greenwich Town/Denham
-  Town, West Kingston, Jamaica
+birth_place: >-
+  St. Elizabeth, Jamaica (birthplace); raised in Greenwich Town/Denham Town,
+  West Kingston, Jamaica
 enhancement_provider: perplexity
 entry_created: '2026-01-19T01:14:27.009339'
 external_urls:
-  spotify: https://open.spotify.com/artist/4B4xNaBe6u9iNPsDkJC8I2
+  spotify: 'https://open.spotify.com/artist/4B4xNaBe6u9iNPsDkJC8I2'
   wikipedia: Not found in search results
 genres:
-- roots reggae
-- dub
-- reggae
-- lovers rock
-- rocksteady
+  - roots reggae
+  - dub
+  - reggae
+  - lovers rock
+  - rocksteady
 image_path: 03_Resources/source_material/ArtistPortraits/prince_alla.jpg
 last_updated: '2026-01-19T01:14:27.009340'
 musical_connections:
   collaborators:
-  - Bertram Brown
-  - Tappa Zukie
-  - King Tubby
-  - Soul Syndicate Band
-  - Roy "Soft" Palmer
+    - Bertram Brown
+    - Tappa Zukie
+    - King Tubby
+    - Soul Syndicate Band
+    - Roy "Soft" Palmer
   influenced:
-  - New generation of reggae enthusiasts
+    - New generation of reggae enthusiasts
   mentors:
-  - Milton Henry
-  - Joe Gibbs
-  - Earl Chinna Smith
-  - Prince Emmanuel Edwards
+    - Milton Henry
+    - Joe Gibbs
+    - Earl Chinna Smith
+    - Prince Emmanuel Edwards
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://pauzeradio.com/prince-alla/
-- https://unitedreggae.com/articles/n420/071210/interview-prince-alla-part-1
-- https://soundsystemculture.org/interview-with-prince-alla/
-- https://musicbrainz.org/artist/e2b60aeb-ee20-410a-82f9-e6d273af0e45
-- https://reggaeeurope.com/upcoming-reggae-artists/prince-alla/
-- https://www.reggaeville.com/artist-details/prince-alla/details/
-- https://rebelbase.be/interviews/detail/prince-alla---riders-park-032008
+  - 'https://pauzeradio.com/prince-alla/'
+  - 'https://unitedreggae.com/articles/n420/071210/interview-prince-alla-part-1'
+  - 'https://soundsystemculture.org/interview-with-prince-alla/'
+  - 'https://musicbrainz.org/artist/e2b60aeb-ee20-410a-82f9-e6d273af0e45'
+  - 'https://reggaeeurope.com/upcoming-reggae-artists/prince-alla/'
+  - 'https://www.reggaeville.com/artist-details/prince-alla/details/'
+  - 'https://rebelbase.be/interviews/detail/prince-alla---riders-park-032008'
 spotify_data:
   followers: 21436
   id: 4B4xNaBe6u9iNPsDkJC8I2
   popularity: 29
-  url: https://open.spotify.com/artist/4B4xNaBe6u9iNPsDkJC8I2
+  url: 'https://open.spotify.com/artist/4B4xNaBe6u9iNPsDkJC8I2'
 status: active
 title: Prince Alla
+origin: 'West Kingston, Jamaica, United States'
+birth_date: '1950-05-10'
+artist_type: person
 ---
 
 ![](prince_alla.jpg)

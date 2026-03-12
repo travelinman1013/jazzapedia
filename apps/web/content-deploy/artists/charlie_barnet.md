@@ -5,33 +5,33 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1913-10-26'
-birth_place: New York
+birth_place: 'New York City, New York, United States'
 death_date: '1991-09-04'
 genres:
-- big band
-- swing music
-- ragtime
-- jazz
+  - big band
+  - swing music
+  - ragtime
+  - jazz
 instruments:
-- tenor saxophone
-- lead vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: da1f70b3-b063-4b49-b152-36cca016cbb4
-  name: Charlie Barnet and His Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ac2ae864-33c3-4dd8-872d-6c516cfc9db2
-  name: California Ramblers
-- begin: ''
-  end: ''
-  instruments:
   - tenor saxophone
-  mbid: 99759298-1e5a-4c7a-8532-fabe8f2955ac
-  name: Art Tatum’s All Stars
+  - lead vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: da1f70b3-b063-4b49-b152-36cca016cbb4
+    name: Charlie Barnet and His Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ac2ae864-33c3-4dd8-872d-6c516cfc9db2
+    name: California Ramblers
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: 99759298-1e5a-4c7a-8532-fabe8f2955ac
+    name: Art Tatum’s All Stars
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/charlie_barnet.jpg
   caption: Charlie Barnet
@@ -46,7 +46,7 @@ audio_profile:
   danceability_avg: 0.606
   acousticness_avg: 0.87
   instrumentalness_avg: 0.471
-  loudness_avg: -10.0
+  loudness_avg: -10
   speechiness_avg: 0.06
   liveness_avg: 0.166
   track_count: 50
@@ -54,59 +54,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Billy May
-  - Doc Severinsen
-  - Maynard Ferguson
-  - Eddie Bert
-  - Bernie Glow
+    - Billy May
+    - Doc Severinsen
+    - Maynard Ferguson
+    - Eddie Bert
+    - Bernie Glow
   influenced:
-  - Doc Severinsen
-  - Maynard Ferguson
+    - Doc Severinsen
+    - Maynard Ferguson
   mentors:
-  - Coleman Hawkins
+    - Coleman Hawkins
 spotify_data:
   followers: 16863
   id: 4SPws2VXOmZIiRTp75mzsb
   popularity: 29
-  url: https://open.spotify.com/artist/4SPws2VXOmZIiRTp75mzsb
+  url: 'https://open.spotify.com/artist/4SPws2VXOmZIiRTp75mzsb'
 discography_enriched: true
 top_tracks:
-- Skyliner (Alternate Take) (Hop on the Skyliner)
-- Skyliner (Hop on the Skyliner)
-- Drop Me Off In Harlem (Drop Me Off In Harlem)
-- Spanish Kick (Hop on the Skyliner)
-- West End Blues (Drop Me Off In Harlem)
-- Shake Rattle and Roll (Hop on the Skyliner)
-- The Right Idea (Hop on the Skyliner)
-- Wichita Windstorm (Hop on the Skyliner)
-- Shake, Rattle 'N Roll (Afternoon of a Moax) (Hop on the Skyliner)
-- Between 18Th and 19Th on Chestnut Street (Hop on the Skyliner)
+  - Skyliner (Alternate Take) (Hop on the Skyliner)
+  - Skyliner (Hop on the Skyliner)
+  - Drop Me Off In Harlem (Drop Me Off In Harlem)
+  - Spanish Kick (Hop on the Skyliner)
+  - West End Blues (Drop Me Off In Harlem)
+  - Shake Rattle and Roll (Hop on the Skyliner)
+  - The Right Idea (Hop on the Skyliner)
+  - Wichita Windstorm (Hop on the Skyliner)
+  - 'Shake, Rattle ''N Roll (Afternoon of a Moax) (Hop on the Skyliner)'
+  - Between 18Th and 19Th on Chestnut Street (Hop on the Skyliner)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/da28dc95-f911-4bb3-9863-167c2505a485
-  spotify: https://open.spotify.com/artist/4SPws2VXOmZIiRTp75mzsb
-  wikipedia: https://en.wikipedia.org/wiki/Charlie_Barnet
+  musicbrainz: 'https://musicbrainz.org/artist/da28dc95-f911-4bb3-9863-167c2505a485'
+  spotify: 'https://open.spotify.com/artist/4SPws2VXOmZIiRTp75mzsb'
+  wikipedia: 'https://en.wikipedia.org/wiki/Charlie_Barnet'
 image_path: 03_Resources/source_material/ArtistPortraits/charlie_barnet.jpg
 biography_enhanced_at: '2025-11-02T07:23:31.226307'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://shermanjazzmuseum.com/exhibit-page/charlie-barnet/
-- https://en.wikipedia.org/wiki/Charlie_Barnet
-- https://syncopatedtimes.com/profiles-in-jazz-charlie-barnet/
-- https://www.theamericanflaneur.com/blog/the-mad-mab-the-life-times-of-charlie-barnet-the-music
-- https://www.swingstreetradio.org/charlie-barnet-leader-of-the-blackest-white-band-of-them-all/
-- https://bandchirps.com/band/charlie-barnet/
-- https://www.allaboutjazz.com/musicians/charlie-barnet/
-- https://gregpoppleton.wordpress.com/2025/09/27/swing-saxophonist-charlie-barnet-married-11-times-phantom-dancer-30-september-2025/
+  - 'https://shermanjazzmuseum.com/exhibit-page/charlie-barnet/'
+  - 'https://en.wikipedia.org/wiki/Charlie_Barnet'
+  - 'https://syncopatedtimes.com/profiles-in-jazz-charlie-barnet/'
+  - >-
+    https://www.theamericanflaneur.com/blog/the-mad-mab-the-life-times-of-charlie-barnet-the-music
+  - >-
+    https://www.swingstreetradio.org/charlie-barnet-leader-of-the-blackest-white-band-of-them-all/
+  - 'https://bandchirps.com/band/charlie-barnet/'
+  - 'https://www.allaboutjazz.com/musicians/charlie-barnet/'
+  - >-
+    https://gregpoppleton.wordpress.com/2025/09/27/swing-saxophonist-charlie-barnet-married-11-times-phantom-dancer-30-september-2025/
 network_extracted: true
 entry_created: '2025-11-02T07:23:31.226325'
 last_updated: '2025-12-23T08:16:06.712467'
-disambiguation: saxophonist, bandleader
+disambiguation: 'saxophonist, bandleader'
 gender: Male
 musicbrainz_id: da28dc95-f911-4bb3-9863-167c2505a485
 tags:
-- jazz
-- swing
+  - jazz
+  - swing
+is_active: false
 ---
 
 ![](charlie_barnet.jpg)

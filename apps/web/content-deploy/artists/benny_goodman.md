@@ -5,135 +5,135 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1909-05-30'
-birth_place: Chicago
+birth_place: 'Chicago, Illinois, United States'
 death_date: '1986-06-13'
 genres:
-- big band
-- swing music
-- jazz
-- ragtime
+  - big band
+  - swing music
+  - jazz
+  - ragtime
 instruments:
-- eponymous
-- original
-- clarinet
-- spoken vocals
+  - eponymous
+  - original
+  - clarinet
+  - spoken vocals
 associated_acts:
-- begin: 1925-08
-  end: ''
-  instruments: []
-  mbid: 31c7f851-528d-47ce-a254-fb7057bcafdc
-  name: Ben Pollack & His Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 584a391e-d19a-4da8-8890-bc19f6824956
-  name: The Benny Goodman Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 74955830-1c43-4d57-b85e-b0fd52ae876e
-  name: Benny Goodman and His Boys
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 65c64286-3541-4c00-8f46-b76c5bdf3c4a
-  name: The Benny Goodman Septet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 815fc2fe-4ec7-4a9a-995a-3a7f5d64eb17
-  name: The Benny Goodman Trio
-- begin: ''
-  end: ''
-  instruments:
-  - clarinet
-  - eponymous
-  mbid: 82eb0cc2-84be-44b2-8b5d-543e3a1a4003
-  name: The Benny Goodman Sextet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: a2019e51-9ce1-4c14-98d0-25428761e9f0
-  name: Benny Goodman and His Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - clarinet
-  mbid: 3cd95572-1af4-466f-a7f2-a65f15c934b3
-  name: Teddy Wilson and His Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - clarinet
-  mbid: f0a78192-185a-43fd-806b-b9c7d0e3776c
-  name: Gene Krupa’s Swing Band
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 6686e27c-bf6b-43b6-a763-f49e900879d9
-  name: Benny Goodman Big Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7831fe28-27ea-414a-a5de-c28c1625f28c
-  name: Lee Morse and Her Blue Grass Boys
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 6f9636bb-7f8b-4d06-8df4-7a9d08c07981
-  name: Benny Goodman Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5d3e2ce5-5e18-4751-ac6f-60d7f44ca719
-  name: Adrian Rollini and His Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - clarinet
-  mbid: e1be9f6c-37a5-4e42-8655-89e64687cb38
-  name: Buck and His Band
-- begin: ''
-  end: ''
-  instruments:
-  - clarinet
-  mbid: 7991789e-5af7-4cec-b281-973ff2b334f2
-  name: Hollywood Hucksters
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 4df36ae9-e472-417d-9af4-01441d55b2c2
-  name: The V‐Disc All Stars
-- begin: ''
-  end: ''
-  instruments:
-  - clarinet
-  mbid: 4eda93b0-2b5a-4259-94d8-e3b7085324fc
-  name: Rhythm Makers Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1449770f-43d9-4ad3-993c-a810324d8375
-  name: Bill Dodge and His All-Star Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 70201083-3102-4f49-af0f-00975a65a473
-  name: Benny Goodman & His Music Hall Orchestra
+  - begin: 1925-08
+    end: ''
+    instruments: []
+    mbid: 31c7f851-528d-47ce-a254-fb7057bcafdc
+    name: Ben Pollack & His Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 584a391e-d19a-4da8-8890-bc19f6824956
+    name: The Benny Goodman Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 74955830-1c43-4d57-b85e-b0fd52ae876e
+    name: Benny Goodman and His Boys
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 65c64286-3541-4c00-8f46-b76c5bdf3c4a
+    name: The Benny Goodman Septet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 815fc2fe-4ec7-4a9a-995a-3a7f5d64eb17
+    name: The Benny Goodman Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - clarinet
+      - eponymous
+    mbid: 82eb0cc2-84be-44b2-8b5d-543e3a1a4003
+    name: The Benny Goodman Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: a2019e51-9ce1-4c14-98d0-25428761e9f0
+    name: Benny Goodman and His Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - clarinet
+    mbid: 3cd95572-1af4-466f-a7f2-a65f15c934b3
+    name: Teddy Wilson and His Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - clarinet
+    mbid: f0a78192-185a-43fd-806b-b9c7d0e3776c
+    name: Gene Krupa’s Swing Band
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 6686e27c-bf6b-43b6-a763-f49e900879d9
+    name: Benny Goodman Big Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7831fe28-27ea-414a-a5de-c28c1625f28c
+    name: Lee Morse and Her Blue Grass Boys
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 6f9636bb-7f8b-4d06-8df4-7a9d08c07981
+    name: Benny Goodman Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5d3e2ce5-5e18-4751-ac6f-60d7f44ca719
+    name: Adrian Rollini and His Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - clarinet
+    mbid: e1be9f6c-37a5-4e42-8655-89e64687cb38
+    name: Buck and His Band
+  - begin: ''
+    end: ''
+    instruments:
+      - clarinet
+    mbid: 7991789e-5af7-4cec-b281-973ff2b334f2
+    name: Hollywood Hucksters
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 4df36ae9-e472-417d-9af4-01441d55b2c2
+    name: The V‐Disc All Stars
+  - begin: ''
+    end: ''
+    instruments:
+      - clarinet
+    mbid: 4eda93b0-2b5a-4259-94d8-e3b7085324fc
+    name: Rhythm Makers Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1449770f-43d9-4ad3-993c-a810324d8375
+    name: Bill Dodge and His All-Star Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 70201083-3102-4f49-af0f-00975a65a473
+    name: Benny Goodman & His Music Hall Orchestra
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/benny_goodman.jpg
   caption: Benny Goodman
@@ -156,49 +156,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Fletcher Henderson
-  - Gene Krupa
-  - Teddy Wilson
-  - Lionel Hampton
-  - John Hammond
+    - Fletcher Henderson
+    - Gene Krupa
+    - Teddy Wilson
+    - Lionel Hampton
+    - John Hammond
   influenced:
-  - Harry James
-  - Ziggy Elman
-  - Jess Stacy
+    - Harry James
+    - Ziggy Elman
+    - Jess Stacy
   mentors:
-  - Franz Schoepp
-  - Ben Pollack
+    - Franz Schoepp
+    - Ben Pollack
 spotify_data:
   followers: 419419
   id: 1pBuKaLHJlIlqYxQQaflve
   popularity: 54
-  url: https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve
+  url: 'https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve'
 discography_enriched: true
 top_tracks:
-- Stompin At The Savoy (B. G. In Hi Fi)
-- Sing, Sing, Sing (The Essential Benny Goodman)
-- Sing, Sing, Sing (Ken Burns Jazz-Benny Goodman)
-- 'Where Or When (Small Groups: 1941-1945)'
-- Chicago (Late Night Benny Goodman)
-- 'Moonglow (Essential Classics, Vol. 24: Teddy Wilson)'
-- Moonglow - Take 1 (The Fabulous Benny Goodman)
-- Chicago
-- Sing, Sing, Sing - Remastered (Collection of the Best Big Bands - Benny Goodman, Vol. 1 (Remastered))
-- All The Cats Join In
+  - Stompin At The Savoy (B. G. In Hi Fi)
+  - 'Sing, Sing, Sing (The Essential Benny Goodman)'
+  - 'Sing, Sing, Sing (Ken Burns Jazz-Benny Goodman)'
+  - 'Where Or When (Small Groups: 1941-1945)'
+  - Chicago (Late Night Benny Goodman)
+  - 'Moonglow (Essential Classics, Vol. 24: Teddy Wilson)'
+  - Moonglow - Take 1 (The Fabulous Benny Goodman)
+  - Chicago
+  - >-
+    Sing, Sing, Sing - Remastered (Collection of the Best Big Bands - Benny
+    Goodman, Vol. 1 (Remastered))
+  - All The Cats Join In
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b09ae88f-4156-4caa-b129-1cacb5e1632e
-  spotify: https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve
-  wikipedia: https://en.wikipedia.org/wiki/Benny_Goodman
+  musicbrainz: 'https://musicbrainz.org/artist/b09ae88f-4156-4caa-b129-1cacb5e1632e'
+  spotify: 'https://open.spotify.com/artist/1pBuKaLHJlIlqYxQQaflve'
+  wikipedia: 'https://en.wikipedia.org/wiki/Benny_Goodman'
 image_path: 03_Resources/source_material/ArtistPortraits/benny_goodman.jpg
 biography_enhanced_at: '2025-12-14T01:45:07.032898'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://mds.marshall.edu/etd/517/
-- https://www.biography.com/musicians/benny-goodman
-- https://www.britannica.com/biography/Benny-Goodman
-- https://www.allaboutjazz.com/musicians/benny-goodman/
-- https://en.wikipedia.org/wiki/Benny_Goodman
+  - 'https://mds.marshall.edu/etd/517/'
+  - 'https://www.biography.com/musicians/benny-goodman'
+  - 'https://www.britannica.com/biography/Benny-Goodman'
+  - 'https://www.allaboutjazz.com/musicians/benny-goodman/'
+  - 'https://en.wikipedia.org/wiki/Benny_Goodman'
 network_extracted: true
 entry_created: '2025-12-14T01:45:07.032933'
 last_updated: '2025-12-23T08:16:05.298385'
@@ -206,9 +208,11 @@ disambiguation: clarinetist and bandleader
 gender: Male
 musicbrainz_id: b09ae88f-4156-4caa-b129-1cacb5e1632e
 tags:
-- american composer
-- big band
-- clarinet
+  - american composer
+  - big band
+  - clarinet
+is_active: false
+origin: 'New York, New York, United States'
 ---
 
 ![](benny_goodman.jpg)

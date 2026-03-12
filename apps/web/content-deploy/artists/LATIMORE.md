@@ -1,19 +1,19 @@
 ---
-title: LATIMORE
+title: Latimore
 wiki_slug: latimore
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1939-09-07'
-birth_place: Charleston, Tennessee, United States
+birth_place: 'Charleston, Tennessee, United States'
 genres:
-- blues
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/LATIMORE.jpg
   caption: LATIMORE
   background: solo_singer
   born: '1939-09-07'
-  origin: Charleston, Tennessee, United States
+  origin: 'Charleston, Tennessee, United States'
 audio_profile:
   tempo_avg: 108.3
   energy_avg: 0.534
@@ -29,46 +29,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Henry Stone
-  - Steve Alaimo
-  - Joss Stone
+    - Henry Stone
+    - Steve Alaimo
+    - Joss Stone
   influenced:
-  - Joss Stone
+    - Joss Stone
   mentors:
-  - T-Bone Walker
+    - T-Bone Walker
 spotify_data:
   followers: 105556
   id: 0nVQLK3LSM9SFP5xp64D7a
   popularity: 44
-  url: https://open.spotify.com/artist/0nVQLK3LSM9SFP5xp64D7a
+  url: 'https://open.spotify.com/artist/0nVQLK3LSM9SFP5xp64D7a'
 discography_enriched: true
 top_tracks:
-- Let Me Go (It Ain't Where You Been)
-- Just One Step (Latimore III)
-- Let's Straighten It Out (I'll Do Anything For You)
-- Sweet Vibrations (It Ain't Where You Been)
-- She Don't Ever Lose Her Groove (Latimore III)
-- Long Distance Love (Dig a Little Deeper)
-- Out to Get'cha (Dig a Little Deeper)
-- It Ain't Where You Been (It Ain't Where You Been)
-- My Give A Damn Gave Out (A Long Time Ago) (Back 'Atcha)
-- Keep the Home Fires Burning (Latimore III)
+  - Let Me Go (It Ain't Where You Been)
+  - Just One Step (Latimore III)
+  - Let's Straighten It Out (I'll Do Anything For You)
+  - Sweet Vibrations (It Ain't Where You Been)
+  - She Don't Ever Lose Her Groove (Latimore III)
+  - Long Distance Love (Dig a Little Deeper)
+  - Out to Get'cha (Dig a Little Deeper)
+  - It Ain't Where You Been (It Ain't Where You Been)
+  - My Give A Damn Gave Out (A Long Time Ago) (Back 'Atcha)
+  - Keep the Home Fires Burning (Latimore III)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/59e33321-b398-4bbc-8923-7a993700fa84
-  spotify: https://open.spotify.com/artist/0nVQLK3LSM9SFP5xp64D7a
-  wikipedia: https://en.wikipedia.org/wiki/Latimore_(musician)
+  musicbrainz: 'https://musicbrainz.org/artist/59e33321-b398-4bbc-8923-7a993700fa84'
+  spotify: 'https://open.spotify.com/artist/0nVQLK3LSM9SFP5xp64D7a'
+  wikipedia: 'https://en.wikipedia.org/wiki/Latimore_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/LATIMORE.jpg
 biography_enhanced_at: '2025-10-19T11:38:28.089928'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://kids.kiddle.co/Latimore_(musician)
-- https://floridamusictours.com/musicians/benny-latimore/
-- https://henrystonemusic.com/get-to-know-latimore-soul-and-blues-music-pioneer/
+  - 'https://kids.kiddle.co/Latimore_(musician)'
+  - 'https://floridamusictours.com/musicians/benny-latimore/'
+  - >-
+    https://henrystonemusic.com/get-to-know-latimore-soul-and-blues-music-pioneer/
 network_extracted: true
 entry_created: '2025-10-19T11:38:28.089946'
 last_updated: '2025-12-23T08:16:02.917404'
-disambiguation: US blues/R&B singer, songwriter and pianist
+disambiguation: 'US blues/R&B singer, songwriter and pianist'
 gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:34:14.418965'
 musicbrainz_id: 59e33321-b398-4bbc-8923-7a993700fa84

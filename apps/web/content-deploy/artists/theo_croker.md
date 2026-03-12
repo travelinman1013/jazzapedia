@@ -5,24 +5,24 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1985-07-18'
-birth_place: Leesburg
+birth_place: 'Leesburg, Florida, United States'
 genres:
-- nu jazz
-- soul jazz
-- jazz
+  - nu jazz
+  - soul jazz
+  - jazz
 instruments:
-- original
-- principal
-- trumpet
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - original
   - principal
   - trumpet
-  mbid: b9028b05-c3b9-4e78-8aca-5b7f60581ef1
-  name: Theo Croker Quartet
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - principal
+      - trumpet
+    mbid: b9028b05-c3b9-4e78-8aca-5b7f60581ef1
+    name: Theo Croker Quartet
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/theo_croker.jpg
   caption: Theo Croker
@@ -44,66 +44,65 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - J. Cole
-  - Ari Lennox
-  - Jill Scott
-  - Wyclef Jean
-  - Theo Croker Sextet
-  - Afrosonic Orchestra & Collective
+    - J. Cole
+    - Ari Lennox
+    - Jill Scott
+    - Wyclef Jean
+    - Theo Croker Sextet
+    - Afrosonic Orchestra & Collective
   influenced: []
   mentors:
-  - Doc Cheatham
-  - Donald Byrd
-  - Gary Bartz
-  - Dee Dee Bridgewater
-  - Billy Hart
-  - Marcus Belgrave
+    - Doc Cheatham
+    - Donald Byrd
+    - Gary Bartz
+    - Dee Dee Bridgewater
+    - Billy Hart
+    - Marcus Belgrave
 spotify_data:
   followers: 47453
   id: 7iUF39q93Xixo33E6IvNYm
   popularity: 43
-  url: https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm
+  url: 'https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm'
 discography_enriched: true
 top_tracks:
-- 6 Feet Down (Speak In The Dark)
-- one pillow (Dream Manifest)
-- crystal waterfalls
-- 6 Feet Down (Speak In The Dark)
-- Everybody Loves the Sunshine (Between Days)
-- Drive Slow
-- GOOD DAY
-- THEO SAYS
-- Limoux (Home)
-- Não Tem Nada Não (The Sounds Of Afrotronica)
+  - 6 Feet Down (Speak In The Dark)
+  - one pillow (Dream Manifest)
+  - crystal waterfalls
+  - 6 Feet Down (Speak In The Dark)
+  - Everybody Loves the Sunshine (Between Days)
+  - Drive Slow
+  - GOOD DAY
+  - THEO SAYS
+  - Limoux (Home)
+  - Não Tem Nada Não (The Sounds Of Afrotronica)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2c7bc024-3d96-4051-b0ec-b65229df1419
-  spotify: https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm
+  musicbrainz: 'https://musicbrainz.org/artist/2c7bc024-3d96-4051-b0ec-b65229df1419'
+  spotify: 'https://open.spotify.com/artist/7iUF39q93Xixo33E6IvNYm'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/theo_croker.jpg
 biography_enhanced_at: '2025-12-04T07:38:23.963995'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Detroit Jazz Fest official artist page
-- Tape Op interview on jazz production
-- San Jose Jazz Summer Fest artist profile
-- Jazz Machine biography document
-- EuroArts Sound of New York profile
-- Latin Jazz Network album review
-- B Natural Inc. biography PDF
-- Textura Five Questions interview
-- DownBeat Archives
+  - Detroit Jazz Fest official artist page
+  - Tape Op interview on jazz production
+  - San Jose Jazz Summer Fest artist profile
+  - Jazz Machine biography document
+  - EuroArts Sound of New York profile
+  - Latin Jazz Network album review
+  - B Natural Inc. biography PDF
+  - Textura Five Questions interview
+  - DownBeat Archives
 network_extracted: true
 entry_created: '2025-12-04T07:38:23.964005'
 last_updated: '2025-12-23T08:16:17.361509'
-disambiguation: US jazz trumpeter, composer, producer and vocalist
+disambiguation: 'US jazz trumpeter, composer, producer and vocalist'
 gender: Male
 musicbrainz_id: 2c7bc024-3d96-4051-b0ec-b65229df1419
 tags:
-- contemporary jazz
-- jazz
-- jazz fusion
-
+  - contemporary jazz
+  - jazz
+  - jazz fusion
 ---
 
 ![](theo_croker.jpg)

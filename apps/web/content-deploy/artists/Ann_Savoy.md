@@ -5,31 +5,31 @@ schema_version: 2
 status: active
 aliases: []
 birth_date: '1952-01-20'
-birth_place: Eunice, Louisiana, United States (current residence); St. Louis, Missouri, United States (birthplace); Richmond,
-  Virginia, United States (raised)
+birth_place: 'St. Louis, Missouri, United States'
 years_active: 1980–present
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 instruments:
-- voice
+  - voice
 occupation:
-- historian
-- singer
-- music historian
-- record producer
-- composer
+  - historian
+  - singer
+  - music historian
+  - record producer
+  - composer
 record_labels:
-- Vanguard Records
+  - Vanguard Records
 spouse:
-- Marc Savoy
+  - Marc Savoy
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Ann_Savoy.jpg
   caption: Ann Savoy
   background: solo_singer
   born: '1952-01-20'
-  origin: Eunice, Louisiana, United States (current residence); St. Louis, Missouri, United States (birthplace); Richmond,
-    Virginia, United States (raised)
+  origin: >-
+    Eunice, Louisiana, United States (current residence); St. Louis, Missouri,
+    United States (birthplace); Richmond, Virginia, United States (raised)
 audio_profile:
   tempo_avg: 120.8
   energy_avg: 0.424
@@ -45,58 +45,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Marc Savoy
-  - Michael Doucet
-  - Linda Ronstadt
-  - John Fogerty
-  - Nick Lowe
-  - The Magnolia Sisters
-  - Joel Savoy
-  - Wilson Savoy
+    - Marc Savoy
+    - Michael Doucet
+    - Linda Ronstadt
+    - John Fogerty
+    - Nick Lowe
+    - The Magnolia Sisters
+    - Joel Savoy
+    - Wilson Savoy
   influenced:
-  - Cajun and Zydeco musicians
-  - Linda Ronstadt
+    - Cajun and Zydeco musicians
+    - Linda Ronstadt
   mentors:
-  - Marc Savoy
-  - Michael Doucet
+    - Marc Savoy
+    - Michael Doucet
 related_artists: []
 spotify_data:
   followers: 1130
   id: 3bK9ROfCCo2WEKo2QtD6T7
   popularity: 19
-  url: https://open.spotify.com/artist/3bK9ROfCCo2WEKo2QtD6T7
+  url: 'https://open.spotify.com/artist/3bK9ROfCCo2WEKo2QtD6T7'
   verified: false
 discography_enriched: true
 albums_count: 3
 singles_count: 2
 top_tracks:
-- Walk Away Renee (Adieu False Heart)
-- Adieu False Heart (Adieu False Heart)
-- I Can't Get Over You (Adieu False Heart)
-- Les clos de coton (The Cotton Fields) (Love's Lies)
-- Marie Mouri (Adieu False Heart)
-- Parlez-Moi D'amour (Adieu False Heart)
-- Too Old To Die Young (Adieu False Heart)
-- Go Away From My Window (Adieu False Heart)
-- The One I Love Is Gone (Adieu False Heart)
-- Rattle My Cage (Adieu False Heart)
+  - Walk Away Renee (Adieu False Heart)
+  - Adieu False Heart (Adieu False Heart)
+  - I Can't Get Over You (Adieu False Heart)
+  - Les clos de coton (The Cotton Fields) (Love's Lies)
+  - Marie Mouri (Adieu False Heart)
+  - Parlez-Moi D'amour (Adieu False Heart)
+  - Too Old To Die Young (Adieu False Heart)
+  - Go Away From My Window (Adieu False Heart)
+  - The One I Love Is Gone (Adieu False Heart)
+  - Rattle My Cage (Adieu False Heart)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/3bK9ROfCCo2WEKo2QtD6T7
-  wikipedia: https://en.wikipedia.org/wiki/Ann_Savoy
+  spotify: 'https://open.spotify.com/artist/3bK9ROfCCo2WEKo2QtD6T7'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ann_Savoy'
 image_path: 03_Resources/source_material/ArtistPortraits/Ann_Savoy.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:13:21.471996'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Smithsonian Folkways Recordings
-- Wikipedia
-- Arhoolie Foundation
+  - Smithsonian Folkways Recordings
+  - Wikipedia
+  - Arhoolie Foundation
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:42:59.042971
+entry_created: 2025-09-22T21:42:59.042Z
 last_updated: '2025-12-23T08:16:01.022213'
+origin: 'Louisiana, United States'
+artist_type: person
 ---
 
 ![](Ann_Savoy.jpg)

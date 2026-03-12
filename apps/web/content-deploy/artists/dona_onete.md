@@ -4,23 +4,23 @@ wiki_slug: dona-onete
 schema_version: 2
 artist_type: person
 status: active
-birth_place: Cachoeira do Arari, Pará, Brazil
+birth_place: 'Cachoeira do Arari, Pará, Brazil'
 genres:
-- tecnobrega
-- brega
+  - tecnobrega
+  - brega
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/dona_onete.jpg
   caption: Dona Onete
   background: solo_singer
-  origin: Cachoeira do Arari, Pará, Brazil
+  origin: 'Cachoeira do Arari, Pará, Brazil'
 audio_profile:
-  tempo_avg: 115.0
+  tempo_avg: 115
   energy_avg: 0.698
   valence_avg: 0.704
   danceability_avg: 0.735
   acousticness_avg: 0.326
   instrumentalness_avg: 0.009
-  loudness_avg: -7.0
+  loudness_avg: -7
   speechiness_avg: 0.082
   liveness_avg: 0.206
   track_count: 48
@@ -28,51 +28,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Marco André
-  - Local Carimbó Bands
+    - Marco André
+    - Local Carimbó Bands
   influenced:
-  - Young Amazonian Musicians
+    - Young Amazonian Musicians
   mentors:
-  - Marajoara Cowboys
+    - Marajoara Cowboys
 spotify_data:
   followers: 59812
   id: 5A70LBFCFtNwOmbPj5g5uc
   popularity: 39
-  url: https://open.spotify.com/artist/5A70LBFCFtNwOmbPj5g5uc
+  url: 'https://open.spotify.com/artist/5A70LBFCFtNwOmbPj5g5uc'
 discography_enriched: true
 top_tracks:
-- No Meio do Pitiú (Banzeiro)
-- Eminência Parda (feat. Dona Onete, Jé Santiago & Papillon) (AmarElo)
-- Jamburana (Feitiço Caboclo)
-- Boto Namorador
-- Banzeiro (Banzeiro)
-- Faceira (Banzeiro)
-- Quatro Contas
-- Moreno Morenado (Feitiço Caboclo)
-- Eu Te Amei (Amo!) (ft (pt. 1))
-- No Meio do Pitiú (Banzeiro)
+  - No Meio do Pitiú (Banzeiro)
+  - 'Eminência Parda (feat. Dona Onete, Jé Santiago & Papillon) (AmarElo)'
+  - Jamburana (Feitiço Caboclo)
+  - Boto Namorador
+  - Banzeiro (Banzeiro)
+  - Faceira (Banzeiro)
+  - Quatro Contas
+  - Moreno Morenado (Feitiço Caboclo)
+  - Eu Te Amei (Amo!) (ft (pt. 1))
+  - No Meio do Pitiú (Banzeiro)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/077f12c5-a52c-40f9-b024-a01fe3330d5c
-  spotify: https://open.spotify.com/artist/5A70LBFCFtNwOmbPj5g5uc
-  wikipedia: https://en.wikipedia.org/wiki/Dona_Onete
+  musicbrainz: 'https://musicbrainz.org/artist/077f12c5-a52c-40f9-b024-a01fe3330d5c'
+  spotify: 'https://open.spotify.com/artist/5A70LBFCFtNwOmbPj5g5uc'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dona_Onete'
 image_path: 03_Resources/source_material/ArtistPortraits/dona_onete.jpg
 biography_enhanced_at: '2025-11-16T20:16:03.672092'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Dona_Onete
-- https://revistaeducacao.com.br/2023/04/24/dona-onete-professora/
-- https://pt.wikipedia.org/wiki/Dona_Onete
-- https://worldmusiccentral.org/artist-profiles-dona-onete/
-- https://www.terra.com.br/noticias/mundo/dona-onete-mudou-a-musica-do-para-mas-antes-teve-de-se-livrar-de-um-marido-abusivo,35eb92e6d48920cfd8fddaaa454d16501nawbr2t.html
+  - 'https://en.wikipedia.org/wiki/Dona_Onete'
+  - 'https://revistaeducacao.com.br/2023/04/24/dona-onete-professora/'
+  - 'https://pt.wikipedia.org/wiki/Dona_Onete'
+  - 'https://worldmusiccentral.org/artist-profiles-dona-onete/'
+  - >-
+    https://www.terra.com.br/noticias/mundo/dona-onete-mudou-a-musica-do-para-mas-antes-teve-de-se-livrar-de-um-marido-abusivo,35eb92e6d48920cfd8fddaaa454d16501nawbr2t.html
 network_extracted: true
 entry_created: '2025-11-16T20:16:03.672103'
 last_updated: '2025-12-23T08:16:07.921292'
 gender: Female
 musicbrainz_id: 077f12c5-a52c-40f9-b024-a01fe3330d5c
 tags:
-- carimbo
-- carimbó
+  - carimbo
+  - carimbó
+origin: 'Igarapé-Miri, Pará, Brazil'
+birth_date: '1939-06-18'
 ---
 
 ![](dona_onete.jpg)

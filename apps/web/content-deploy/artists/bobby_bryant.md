@@ -1,16 +1,16 @@
 ---
-title: bobby bryant
+title: Bobby Bryant
 wiki_slug: bobby-bryant
 schema_version: 2
 status: active
-birth_place: Hattiesburg, Mississippi, USA
+birth_place: 'Hattiesburg, Mississippi, USA'
 genres:
-- hard bop
+  - hard bop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bobby_bryant.jpg
   caption: bobby bryant
   background: solo_singer
-  origin: Hattiesburg, Mississippi, USA
+  origin: 'Hattiesburg, Mississippi, USA'
 audio_profile:
   tempo_avg: 113.3
   energy_avg: 0.532
@@ -26,48 +26,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Charles Mingus
-  - Oliver Nelson
-  - Gerald Wilson
-  - Frank Capp/Nat Pierce Juggernaut
-  - Nat King Cole
-  - Ernie Watts, Pete Christlieb, Herman Riley, Buddy Childers, Freddie Hill, Paul Hubinon
+    - Charles Mingus
+    - Oliver Nelson
+    - Gerald Wilson
+    - Frank Capp/Nat Pierce Juggernaut
+    - Nat King Cole
+    - >-
+      Ernie Watts, Pete Christlieb, Herman Riley, Buddy Childers, Freddie Hill,
+      Paul Hubinon
   influenced:
-  - Los Angeles jazz musicians
+    - Los Angeles jazz musicians
   mentors:
-  - Red Saunders
+    - Red Saunders
 spotify_data:
   followers: 305
   id: 26hwDu8AvbR31I8tLqY1Ub
   popularity: 2
-  url: https://open.spotify.com/artist/26hwDu8AvbR31I8tLqY1Ub
+  url: 'https://open.spotify.com/artist/26hwDu8AvbR31I8tLqY1Ub'
 discography_enriched: true
 top_tracks:
-- Don't Let the Sun Catch You Cryin' (Bobby Bryant Chicago Years)
-- Happiness Is A Warm Gun (Earth Dance)
-- Earth Dance (Earth Dance)
-- While My Guitar Gently Weeps (Earth Dance)
-- '''Round Midnight (Bobby Bryant Chicago Years)'
-- Nocturne (The Big Sound of Larry 'Wild' Wrice)
-- Cristo Redentor (Earth Dance)
-- Blues Excerpt (Bobby Bryant Chicago Years)
-- Secret Love (Bobby Bryant Chicago Years)
-- Love for Sale (Bobby Bryant Chicago Years)
+  - Don't Let the Sun Catch You Cryin' (Bobby Bryant Chicago Years)
+  - Happiness Is A Warm Gun (Earth Dance)
+  - Earth Dance (Earth Dance)
+  - While My Guitar Gently Weeps (Earth Dance)
+  - '''Round Midnight (Bobby Bryant Chicago Years)'
+  - Nocturne (The Big Sound of Larry 'Wild' Wrice)
+  - Cristo Redentor (Earth Dance)
+  - Blues Excerpt (Bobby Bryant Chicago Years)
+  - Secret Love (Bobby Bryant Chicago Years)
+  - Love for Sale (Bobby Bryant Chicago Years)
 external_urls:
-  spotify: https://open.spotify.com/artist/26hwDu8AvbR31I8tLqY1Ub
-  wikipedia: https://en.wikipedia.org/wiki/Bobby_Bryant
+  spotify: 'https://open.spotify.com/artist/26hwDu8AvbR31I8tLqY1Ub'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bobby_Bryant'
 image_path: 03_Resources/source_material/ArtistPortraits/bobby_bryant.jpg
 biography_enhanced_at: '2025-10-19T11:56:30.579201'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://fromthevaults-boppinbob.blogspot.com/2021/05/bobby-bryant-born-19-may-1934.html
-- https://www.freshsoundrecords.com/13162-bobby-bryant-albums
-- https://www.last.fm/music/Bobby+Bryant/+wiki
-- https://www.allmusic.com/artist/bobby-bryant-mn0000070655
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2021/05/bobby-bryant-born-19-may-1934.html
+  - 'https://www.freshsoundrecords.com/13162-bobby-bryant-albums'
+  - 'https://www.last.fm/music/Bobby+Bryant/+wiki'
+  - 'https://www.allmusic.com/artist/bobby-bryant-mn0000070655'
 network_extracted: true
 entry_created: '2025-10-19T11:56:30.579207'
 last_updated: '2025-12-23T08:16:05.859935'
+birth_date: '1934-05-19'
+death_date: '1998-06-10'
+artist_type: person
 ---
 
 ![](bobby_bryant.jpg)

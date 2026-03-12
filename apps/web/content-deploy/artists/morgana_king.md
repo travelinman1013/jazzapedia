@@ -3,15 +3,15 @@ title: Morgana King
 wiki_slug: morgana-king
 schema_version: 2
 status: active
-birth_place: Pleasantville, New York, United States
+birth_place: 'Pleasantville, New York, United States'
 genres:
-- vocal jazz
-- jazz
+  - vocal jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/morgana_king.jpg
   caption: Morgana King
   background: solo_singer
-  origin: Pleasantville, New York, United States
+  origin: 'Pleasantville, New York, United States'
 audio_profile:
   tempo_avg: 104.9
   energy_avg: 0.184
@@ -27,49 +27,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tony Fruscella
-  - Willie Dennis
-  - Francis Ford Coppola
-  - Vince Mauro
+    - Tony Fruscella
+    - Willie Dennis
+    - Francis Ford Coppola
+    - Vince Mauro
   influenced: []
   mentors:
-  - Dinah Washington
-  - Charlie Parker and Billie Holiday
-  - Helen Morgan
-  - Frank Sinatra
+    - Dinah Washington
+    - Charlie Parker and Billie Holiday
+    - Helen Morgan
+    - Frank Sinatra
 spotify_data:
   followers: 18137
   id: 6OBKNqNkRe1Z5VA1TBvMuH
   popularity: 36
-  url: https://open.spotify.com/artist/6OBKNqNkRe1Z5VA1TBvMuH
+  url: 'https://open.spotify.com/artist/6OBKNqNkRe1Z5VA1TBvMuH'
 discography_enriched: true
 top_tracks:
-- It's Only A Paper Moon (Sings The Blues)
-- Everything I Love (For You, For Me, Forevermore)
-- Sunny (Gemini Changes)
-- If You Could See Me Now (For You, For Me, Forevermore)
-- For You, For Me, For Evermore (For You, For Me, Forevermore)
-- Body And Soul (Sings The Blues)
-- Bill (Sings The Blues)
-- Down In The Depths (For You, For Me, Forevermore)
-- The Look of Love (From "Casino Royale") (Gemini Changes)
-- Frankie And Johnny (Sings The Blues)
+  - It's Only A Paper Moon (Sings The Blues)
+  - 'Everything I Love (For You, For Me, Forevermore)'
+  - Sunny (Gemini Changes)
+  - 'If You Could See Me Now (For You, For Me, Forevermore)'
+  - 'For You, For Me, For Evermore (For You, For Me, Forevermore)'
+  - Body And Soul (Sings The Blues)
+  - Bill (Sings The Blues)
+  - 'Down In The Depths (For You, For Me, Forevermore)'
+  - The Look of Love (From "Casino Royale") (Gemini Changes)
+  - Frankie And Johnny (Sings The Blues)
 external_urls:
-  spotify: https://open.spotify.com/artist/6OBKNqNkRe1Z5VA1TBvMuH
-  wikipedia: https://en.wikipedia.org/wiki/Morgana_King
+  spotify: 'https://open.spotify.com/artist/6OBKNqNkRe1Z5VA1TBvMuH'
+  wikipedia: 'https://en.wikipedia.org/wiki/Morgana_King'
 image_path: 03_Resources/source_material/ArtistPortraits/morgana_king.jpg
 biography_enhanced_at: '2025-12-04T08:06:57.833312'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Morgana King
-- The Independent - Morgana King obituary
-- 'JazzTimes - Overdue Ovation: Morgana King'
-- From the Vaults - Morgana King biography
-- IMDb - Morgana King biography
+  - Wikipedia - Morgana King
+  - The Independent - Morgana King obituary
+  - 'JazzTimes - Overdue Ovation: Morgana King'
+  - From the Vaults - Morgana King biography
+  - IMDb - Morgana King biography
 network_extracted: true
 entry_created: '2025-12-04T08:06:57.833326'
 last_updated: '2025-12-23T08:16:13.281174'
+birth_date: '1930-06-04'
+death_date: '2018-03-22'
+artist_type: person
 ---
 
 ![](morgana_king.jpg)

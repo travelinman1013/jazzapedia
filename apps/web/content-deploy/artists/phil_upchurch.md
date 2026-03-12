@@ -5,55 +5,55 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1941-07-19'
-birth_place: Chicago
+birth_place: 'Chicago, Illinois, United States'
 genres:
-- jazz funk
-- soul jazz
-- jazz blues
+  - jazz funk
+  - soul jazz
+  - jazz blues
 instruments:
-- additional
-- original
-- guitar
-- electric bass guitar
-- bass guitar
-- electric guitar
-- guitar family
-- acoustic guitar
-- background vocals
-- lead vocals
-associated_acts:
-- begin: ''
-  end: '1974'
-  instruments:
   - additional
-  mbid: 3b7698a3-7ab2-4481-8425-f5ab45f91a75
-  name: Rotary Connection
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a787922f-4a7b-4cf1-afc7-8c5ceef697cf
-  name: Phil Upchurch Combo
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3424bc7a-a8d0-48f0-985e-c721240e12b3
-  name: The V.I.P. Club
-- begin: ''
-  end: ''
-  instruments:
   - original
-  mbid: 7765c5a1-ca9c-4a4c-adda-a6841d3f5d09
-  name: Jazz Soul Seven
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f0dec7be-99f5-49a0-9717-03addef4ab6f
-  name: Spirit Traveler
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d23a3d0f-569f-4b40-9b70-dd07d1f76bbc
-  name: The Clinton Administration
+  - guitar
+  - electric bass guitar
+  - bass guitar
+  - electric guitar
+  - guitar family
+  - acoustic guitar
+  - background vocals
+  - lead vocals
+associated_acts:
+  - begin: ''
+    end: '1974'
+    instruments:
+      - additional
+    mbid: 3b7698a3-7ab2-4481-8425-f5ab45f91a75
+    name: Rotary Connection
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a787922f-4a7b-4cf1-afc7-8c5ceef697cf
+    name: Phil Upchurch Combo
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3424bc7a-a8d0-48f0-985e-c721240e12b3
+    name: The V.I.P. Club
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 7765c5a1-ca9c-4a4c-adda-a6841d3f5d09
+    name: Jazz Soul Seven
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f0dec7be-99f5-49a0-9717-03addef4ab6f
+    name: Spirit Traveler
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d23a3d0f-569f-4b40-9b70-dd07d1f76bbc
+    name: The Clinton Administration
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/phil_upchurch.jpg
   caption: Phil Upchurch
@@ -75,63 +75,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - George Benson
-  - Donny Hathaway
-  - Tennyson Stephens
-  - Rotary Connection
-  - Ramsey Lewis
-  - Quincy Jones
-  - Muddy Waters, Etta James, The Dells
-  - Grover Washington Jr., The Crusaders
-  - Michael Jackson
+    - George Benson
+    - Donny Hathaway
+    - Tennyson Stephens
+    - Rotary Connection
+    - Ramsey Lewis
+    - Quincy Jones
+    - 'Muddy Waters, Etta James, The Dells'
+    - 'Grover Washington Jr., The Crusaders'
+    - Michael Jackson
   influenced:
-  - George Benson
-  - Younger jazz and soul guitarists
+    - George Benson
+    - Younger jazz and soul guitarists
   mentors:
-  - Self-taught
+    - Self-taught
 spotify_data:
   followers: 5775
   id: 11LAePIczpCSQBSEXw22qK
   popularity: 15
-  url: https://open.spotify.com/artist/11LAePIczpCSQBSEXw22qK
+  url: 'https://open.spotify.com/artist/11LAePIczpCSQBSEXw22qK'
 discography_enriched: true
 top_tracks:
-- Cyrenna (Phil Upchurch)
-- You Can't Sit Down, Pt. One (You Can't Sit Down, Pt. 2)
-- Strawberry Letter 23 (Phil Upchurch)
-- Darkness, Darkness (Darkness Darkness)
-- Black Gold (Upchurch)
-- Crosstown Traffic (Upchurch)
-- Superfly (Impressions of Curtis Mayfield)
-- Cosmic Slop (Drum Nation Volume Two)
-- Warm Breeze (Music)
-- Free (Phil Upchurch)
+  - Cyrenna (Phil Upchurch)
+  - 'You Can''t Sit Down, Pt. One (You Can''t Sit Down, Pt. 2)'
+  - Strawberry Letter 23 (Phil Upchurch)
+  - 'Darkness, Darkness (Darkness Darkness)'
+  - Black Gold (Upchurch)
+  - Crosstown Traffic (Upchurch)
+  - Superfly (Impressions of Curtis Mayfield)
+  - Cosmic Slop (Drum Nation Volume Two)
+  - Warm Breeze (Music)
+  - Free (Phil Upchurch)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d13a070d-32e3-4abd-8ed8-fefc88c30485
-  spotify: https://open.spotify.com/artist/11LAePIczpCSQBSEXw22qK
-  wikipedia: https://en.wikipedia.org/wiki/Phil_Upchurch
+  musicbrainz: 'https://musicbrainz.org/artist/d13a070d-32e3-4abd-8ed8-fefc88c30485'
+  spotify: 'https://open.spotify.com/artist/11LAePIczpCSQBSEXw22qK'
+  wikipedia: 'https://en.wikipedia.org/wiki/Phil_Upchurch'
 image_path: 03_Resources/source_material/ArtistPortraits/phil_upchurch.jpg
 biography_enhanced_at: '2025-11-21T07:12:43.297838'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://philupchurch.com/about.htm
-- https://en.wikipedia.org/wiki/Phil_Upchurch
-- https://wncu.org/artist-of-the-month/phil-upchurch/
-- https://www.labella.com/artists/phil-upchurch/
-- https://allaboutjazz.com/musicians/phil-upchurch/
-- https://wbssmedia.com/artists/detail/1631
-- https://thejazzvnu.com/phil-upchurch-instrumental-classic-smooth-jazz/
-- https://allmusic.com/artist/phil-upchurch-mn0000286479
+  - 'https://philupchurch.com/about.htm'
+  - 'https://en.wikipedia.org/wiki/Phil_Upchurch'
+  - 'https://wncu.org/artist-of-the-month/phil-upchurch/'
+  - 'https://www.labella.com/artists/phil-upchurch/'
+  - 'https://allaboutjazz.com/musicians/phil-upchurch/'
+  - 'https://wbssmedia.com/artists/detail/1631'
+  - 'https://thejazzvnu.com/phil-upchurch-instrumental-classic-smooth-jazz/'
+  - 'https://allmusic.com/artist/phil-upchurch-mn0000286479'
 network_extracted: true
 entry_created: '2025-11-21T07:12:43.297853'
 last_updated: '2025-12-23T08:16:14.269217'
 gender: Male
 musicbrainz_id: d13a070d-32e3-4abd-8ed8-fefc88c30485
 tags:
-- 2008 universal fire victim
-- contemporary jazz
-- jazz
+  - 2008 universal fire victim
+  - contemporary jazz
+  - jazz
 ---
 
 ![](phil_upchurch.jpg)

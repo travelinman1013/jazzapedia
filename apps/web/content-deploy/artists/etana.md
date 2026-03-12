@@ -5,13 +5,13 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1983-05-22'
-birth_place: Kingston
+birth_place: 'Kingston, Jamaica, United States'
 genres:
-- lovers rock
-- reggae
-- roots reggae
-- riddim
-- ragga
+  - lovers rock
+  - reggae
+  - roots reggae
+  - riddim
+  - ragga
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/etana.jpg
   caption: Etana
@@ -25,7 +25,7 @@ audio_profile:
   danceability_avg: 0.681
   acousticness_avg: 0.196
   instrumentalness_avg: 0.015
-  loudness_avg: -5.0
+  loudness_avg: -5
   speechiness_avg: 0.124
   liveness_avg: 0.147
   track_count: 50
@@ -33,48 +33,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - 5th Element Management
-  - VP Records
+    - 5th Element Management
+    - VP Records
   influenced:
-  - Contemporary Female Reggae Artists
+    - Contemporary Female Reggae Artists
   mentors:
-  - Richie Spice
-  - Clive Hunt
+    - Richie Spice
+    - Clive Hunt
 spotify_data:
   followers: 157898
   id: 6oF8gXhgD5ZTQ0biyaw4Cm
   popularity: 45
-  url: https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm
+  url: 'https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm'
 discography_enriched: true
 top_tracks:
-- If Tomorrow Never Comes (Lucky Man)
-- Blessings (feat. Etana) (Specialist Presents Alborosie & Friends)
-- Jamrock Vibes
-- Bubble (Gemini)
-- Inna Di Ghetto (Nectar of the Gods)
-- I Am Not Afraid (The Strong One)
-- Truly (Gemini)
-- Blessing (feat. Alborosie) (The Strong One)
-- Guide Over Us
-- Shadows After Dark (feat. Etana, Romain Virgo, Morgan Heritage, Kabaka Pyramid, Duane Stephenson, Sandy Smith, Raging Fyah,
-  Kumar & Dean Fraser)
+  - If Tomorrow Never Comes (Lucky Man)
+  - Blessings (feat. Etana) (Specialist Presents Alborosie & Friends)
+  - Jamrock Vibes
+  - Bubble (Gemini)
+  - Inna Di Ghetto (Nectar of the Gods)
+  - I Am Not Afraid (The Strong One)
+  - Truly (Gemini)
+  - Blessing (feat. Alborosie) (The Strong One)
+  - Guide Over Us
+  - >-
+    Shadows After Dark (feat. Etana, Romain Virgo, Morgan Heritage, Kabaka
+    Pyramid, Duane Stephenson, Sandy Smith, Raging Fyah, Kumar & Dean Fraser)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/012387c5-d780-469e-993a-5b67a723c672
-  spotify: https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm
+  musicbrainz: 'https://musicbrainz.org/artist/012387c5-d780-469e-993a-5b67a723c672'
+  spotify: 'https://open.spotify.com/artist/6oF8gXhgD5ZTQ0biyaw4Cm'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/etana.jpg
 biography_enhanced_at: '2025-12-04T08:22:09.273040'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://jamadio.co/etana/
-- https://www.reggaeville.com/artist-details/etana/about/
-- https://caribbeanentertainment.com/
-- https://first-avenue.com/performer/etana/
-- https://etanamusic.com
-- https://nodoprod.com/artists/etana/
-- https://www.emusic.com/artist/rs_34978/Etana/bio
-- https://reggae.today/
+  - 'https://jamadio.co/etana/'
+  - 'https://www.reggaeville.com/artist-details/etana/about/'
+  - 'https://caribbeanentertainment.com/'
+  - 'https://first-avenue.com/performer/etana/'
+  - 'https://etanamusic.com'
+  - 'https://nodoprod.com/artists/etana/'
+  - 'https://www.emusic.com/artist/rs_34978/Etana/bio'
+  - 'https://reggae.today/'
 network_extracted: true
 entry_created: '2025-12-04T08:22:09.273051'
 last_updated: '2025-12-23T08:16:08.494458'
@@ -82,8 +83,8 @@ disambiguation: Jamaican reggae singer
 gender: Female
 musicbrainz_id: 012387c5-d780-469e-993a-5b67a723c672
 tags:
-- hip hop rnb and dance hall
-- reggae
+  - hip hop rnb and dance hall
+  - reggae
 ---
 
 ![](etana.jpg)

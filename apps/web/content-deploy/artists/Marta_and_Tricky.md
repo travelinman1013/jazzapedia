@@ -14,7 +14,7 @@ audio_profile:
   valence_avg: 0.326
   danceability_avg: 0.614
   acousticness_avg: 0.189
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -6.9
   speechiness_avg: 0.051
   liveness_avg: 0.242
@@ -23,41 +23,43 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tricky
-  - Lee Scratch Perry
+    - Tricky
+    - Lee Scratch Perry
   influenced: []
   mentors:
-  - Tricky (Adrian Thaws)
+    - Tricky (Adrian Thaws)
 spotify_data:
   followers: 29
   id: 2j8pbT44Cw7yiFt11m0QVn
   popularity: 5
-  url: https://open.spotify.com/artist/2j8pbT44Cw7yiFt11m0QVn
+  url: 'https://open.spotify.com/artist/2j8pbT44Cw7yiFt11m0QVn'
 discography_enriched: true
 top_tracks:
-- Ой лети (Ой лети)
-- Дай бог (Дай бог)
-- Спи собі сама (Спи собі сама)
-- На леді (На леді)
-- Дай мені remix (Дай мені remix)
-- Чому (Чому)
-- Дай мені (Дай мені)
-- House of the Rising Sun (House of the Rising Sun)
+  - Ой лети (Ой лети)
+  - Дай бог (Дай бог)
+  - Спи собі сама (Спи собі сама)
+  - На леді (На леді)
+  - Дай мені remix (Дай мені remix)
+  - Чому (Чому)
+  - Дай мені (Дай мені)
+  - House of the Rising Sun (House of the Rising Sun)
 external_urls:
-  spotify: https://open.spotify.com/artist/2j8pbT44Cw7yiFt11m0QVn
+  spotify: 'https://open.spotify.com/artist/2j8pbT44Cw7yiFt11m0QVn'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/Marta_and_Tricky.jpg
 biography_enhanced_at: '2025-10-22T06:44:42.444927'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- decodedmagazine.com
-- polskieradio.pl
-- falseidols.bandcamp.com
+  - decodedmagazine.com
+  - polskieradio.pl
+  - falseidols.bandcamp.com
 network_extracted: true
 entry_created: '2025-10-22T06:44:42.444942'
 last_updated: '2025-12-23T08:16:03.200673'
-origin: Płock, Mazovia, Poland (Marta Złakowska); Bristol, England, UK (Tricky)
+origin: 'Płock, Mazovia, Poland (Marta Złakowska); Bristol, England, UK (Tricky)'
+birth_place: 'Płock, Mazovia, Poland'
+artist_type: person
 ---
 
 ![](Marta_and_Tricky.jpg)

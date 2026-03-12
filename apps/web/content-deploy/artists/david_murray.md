@@ -1,333 +1,333 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '1977'
-  end: '2016'
-  instruments:
-  - bass clarinet
-  - original
-  mbid: 211787f9-5b93-415a-8213-62e5df03be7b
-  name: World Saxophone Quartet
-- begin: '1977'
-  end: '2016'
-  instruments:
-  - original
-  - tenor saxophone
-  mbid: 211787f9-5b93-415a-8213-62e5df03be7b
-  name: World Saxophone Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 6a33413b-0e85-4b3f-bff5-2f673ae14a5b
-  name: David Murray Octet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  - tenor saxophone
-  mbid: 0b87f371-4765-4d55-bbf0-95e66428a8ec
-  name: David Murray Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  - tenor saxophone
-  mbid: a19fdd90-2633-4354-b6ef-03ac0d107a49
-  name: David Murray Cuban Ensemble
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 849017de-1166-4f3b-b219-58b7da3b488d
-  name: Andrew Cyrille Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: df5cd29d-55c6-4613-9242-0b5ff86d6d4a
-  name: David Murray Big Band
-- begin: ''
-  end: ''
-  instruments:
-  - bass clarinet
-  - tenor saxophone
-  mbid: f8cd4935-957e-45f5-b65b-496e8a0f92df
-  name: Kahil El’Zabar Trio
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  - reeds
-  mbid: 9834cbe2-4612-4122-836f-75825f29ae8d
-  name: Murray, Allen & Carrington Power Trio
-- begin: ''
-  end: ''
-  instruments:
-  - bass clarinet
-  - original
-  mbid: 0d5ef96a-b897-426f-b076-258d23eb8155
-  name: The Clarinet Summit
-- begin: ''
-  end: ''
-  instruments:
-  - bass clarinet
-  - eponymous
-  - original
-  mbid: 02a48768-ed75-40ed-962b-88fef9798813
-  name: David Murray Trio
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  - tenor saxophone
-  mbid: 0f3d7be6-61f1-42f3-afee-5b3bbd77e6ca
-  name: David Murray and Friends
-- begin: ''
-  end: ''
-  instruments:
-  - tenor saxophone
-  mbid: b9289723-b8a6-4420-8bb7-c640d1d326a6
-  name: Bobby Battle Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - bass clarinet
-  - eponymous
-  - original
-  mbid: 31594b7d-0e00-47be-996b-15fe8b6ac7d6
-  name: David Murray Brave New World Trio
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  - tenor saxophone
-  mbid: 31594b7d-0e00-47be-996b-15fe8b6ac7d6
-  name: David Murray Brave New World Trio
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  - tenor saxophone
-  mbid: 20a01e0d-5682-4806-9edb-b7152830ecc9
-  name: David Murray Infinity Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - bass clarinet
-  - eponymous
-  - original
-  mbid: 7d4549c5-c38c-4ba8-800a-208fefa85226
-  name: David Murray Black Saint Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  - tenor saxophone
-  mbid: 7d4549c5-c38c-4ba8-800a-208fefa85226
-  name: David Murray Black Saint Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  - tenor saxophone
-  mbid: f317b988-4b52-404a-91e9-3dd60cc67453
-  name: David Murray Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - bass clarinet
-  - eponymous
-  - original
-  mbid: 1591eeb6-9ba8-4287-a917-7ee685a4610d
-  name: David Murray Power Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  - tenor saxophone
-  mbid: 1591eeb6-9ba8-4287-a917-7ee685a4610d
-  name: David Murray Power Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  - tenor saxophone
-  mbid: b3eb35ab-4162-4e42-988a-744d8d46a4ad
-  name: David Murray Latin Big Band
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  - tenor saxophone
-  mbid: 5589ee4c-25b4-442f-a470-8c57977d1e39
-  name: David Murray 4tet & Strings
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  - tenor saxophone
-  mbid: 31c858bb-0fbb-4957-a80d-4ec1b2916afc
-  name: David Murray & Low Class Conspiracy
-- begin: ''
-  end: ''
-  instruments:
-  - bass clarinet
-  - eponymous
-  - original
-  mbid: bb21f185-0be7-4b1c-8632-1e02acd95f33
-  name: David Murray Chamber Jazz Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  - tenor saxophone
-  mbid: bb21f185-0be7-4b1c-8632-1e02acd95f33
-  name: David Murray Chamber Jazz Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - bass clarinet
-  - original
-  mbid: f0b4b53e-4c98-43de-bc07-65ab18985903
-  name: Last of the Hipmen
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  - tenor saxophone
-  mbid: f0b4b53e-4c98-43de-bc07-65ab18985903
-  name: Last of the Hipmen
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f86fa8ff-dc99-4724-9665-361fd07e62eb
-  name: The Bob Thiele Collective
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: 3f09b245-099e-445f-a2dc-a3b44caffbaf
-  name: Ishmael Reed Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - bass clarinet
-  mbid: 3f09b245-099e-445f-a2dc-a3b44caffbaf
-  name: Ishmael Reed Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - tenor saxophone
-  mbid: 3f09b245-099e-445f-a2dc-a3b44caffbaf
-  name: Ishmael Reed Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - bass clarinet
-  - original
-  mbid: cc1f9df3-4b32-4d8f-bfd4-73e9dd0f1305
-  name: African Love Supreme
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  - tenor saxophone
-  mbid: cc1f9df3-4b32-4d8f-bfd4-73e9dd0f1305
-  name: African Love Supreme
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  - tenor saxophone
-  mbid: 02a48768-ed75-40ed-962b-88fef9798813
-  name: David Murray Trio
-- begin: ''
-  end: ''
-  instruments:
-  - bass clarinet
-  mbid: 3bdcb9fe-cda9-4d3a-a826-86cfdd0c0725
-  name: Henry Grimes Trio
-- begin: ''
-  end: ''
-  instruments:
-  - tenor saxophone
-  mbid: 3bdcb9fe-cda9-4d3a-a826-86cfdd0c0725
-  name: Henry Grimes Trio
+  - begin: '1977'
+    end: '2016'
+    instruments:
+      - bass clarinet
+      - original
+    mbid: 211787f9-5b93-415a-8213-62e5df03be7b
+    name: World Saxophone Quartet
+  - begin: '1977'
+    end: '2016'
+    instruments:
+      - original
+      - tenor saxophone
+    mbid: 211787f9-5b93-415a-8213-62e5df03be7b
+    name: World Saxophone Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 6a33413b-0e85-4b3f-bff5-2f673ae14a5b
+    name: David Murray Octet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - tenor saxophone
+    mbid: 0b87f371-4765-4d55-bbf0-95e66428a8ec
+    name: David Murray Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - tenor saxophone
+    mbid: a19fdd90-2633-4354-b6ef-03ac0d107a49
+    name: David Murray Cuban Ensemble
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 849017de-1166-4f3b-b219-58b7da3b488d
+    name: Andrew Cyrille Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: df5cd29d-55c6-4613-9242-0b5ff86d6d4a
+    name: David Murray Big Band
+  - begin: ''
+    end: ''
+    instruments:
+      - bass clarinet
+      - tenor saxophone
+    mbid: f8cd4935-957e-45f5-b65b-496e8a0f92df
+    name: Kahil El’Zabar Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - reeds
+    mbid: 9834cbe2-4612-4122-836f-75825f29ae8d
+    name: 'Murray, Allen & Carrington Power Trio'
+  - begin: ''
+    end: ''
+    instruments:
+      - bass clarinet
+      - original
+    mbid: 0d5ef96a-b897-426f-b076-258d23eb8155
+    name: The Clarinet Summit
+  - begin: ''
+    end: ''
+    instruments:
+      - bass clarinet
+      - eponymous
+      - original
+    mbid: 02a48768-ed75-40ed-962b-88fef9798813
+    name: David Murray Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - tenor saxophone
+    mbid: 0f3d7be6-61f1-42f3-afee-5b3bbd77e6ca
+    name: David Murray and Friends
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: b9289723-b8a6-4420-8bb7-c640d1d326a6
+    name: Bobby Battle Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - bass clarinet
+      - eponymous
+      - original
+    mbid: 31594b7d-0e00-47be-996b-15fe8b6ac7d6
+    name: David Murray Brave New World Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - tenor saxophone
+    mbid: 31594b7d-0e00-47be-996b-15fe8b6ac7d6
+    name: David Murray Brave New World Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - tenor saxophone
+    mbid: 20a01e0d-5682-4806-9edb-b7152830ecc9
+    name: David Murray Infinity Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - bass clarinet
+      - eponymous
+      - original
+    mbid: 7d4549c5-c38c-4ba8-800a-208fefa85226
+    name: David Murray Black Saint Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - tenor saxophone
+    mbid: 7d4549c5-c38c-4ba8-800a-208fefa85226
+    name: David Murray Black Saint Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - tenor saxophone
+    mbid: f317b988-4b52-404a-91e9-3dd60cc67453
+    name: David Murray Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - bass clarinet
+      - eponymous
+      - original
+    mbid: 1591eeb6-9ba8-4287-a917-7ee685a4610d
+    name: David Murray Power Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - tenor saxophone
+    mbid: 1591eeb6-9ba8-4287-a917-7ee685a4610d
+    name: David Murray Power Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - tenor saxophone
+    mbid: b3eb35ab-4162-4e42-988a-744d8d46a4ad
+    name: David Murray Latin Big Band
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - tenor saxophone
+    mbid: 5589ee4c-25b4-442f-a470-8c57977d1e39
+    name: David Murray 4tet & Strings
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - tenor saxophone
+    mbid: 31c858bb-0fbb-4957-a80d-4ec1b2916afc
+    name: David Murray & Low Class Conspiracy
+  - begin: ''
+    end: ''
+    instruments:
+      - bass clarinet
+      - eponymous
+      - original
+    mbid: bb21f185-0be7-4b1c-8632-1e02acd95f33
+    name: David Murray Chamber Jazz Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - tenor saxophone
+    mbid: bb21f185-0be7-4b1c-8632-1e02acd95f33
+    name: David Murray Chamber Jazz Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - bass clarinet
+      - original
+    mbid: f0b4b53e-4c98-43de-bc07-65ab18985903
+    name: Last of the Hipmen
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - tenor saxophone
+    mbid: f0b4b53e-4c98-43de-bc07-65ab18985903
+    name: Last of the Hipmen
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f86fa8ff-dc99-4724-9665-361fd07e62eb
+    name: The Bob Thiele Collective
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: 3f09b245-099e-445f-a2dc-a3b44caffbaf
+    name: Ishmael Reed Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - bass clarinet
+    mbid: 3f09b245-099e-445f-a2dc-a3b44caffbaf
+    name: Ishmael Reed Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: 3f09b245-099e-445f-a2dc-a3b44caffbaf
+    name: Ishmael Reed Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - bass clarinet
+      - original
+    mbid: cc1f9df3-4b32-4d8f-bfd4-73e9dd0f1305
+    name: African Love Supreme
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - tenor saxophone
+    mbid: cc1f9df3-4b32-4d8f-bfd4-73e9dd0f1305
+    name: African Love Supreme
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - tenor saxophone
+    mbid: 02a48768-ed75-40ed-962b-88fef9798813
+    name: David Murray Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - bass clarinet
+    mbid: 3bdcb9fe-cda9-4d3a-a826-86cfdd0c0725
+    name: Henry Grimes Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: 3bdcb9fe-cda9-4d3a-a826-86cfdd0c0725
+    name: Henry Grimes Trio
 biography_enhanced_at: '2026-01-01T01:11:59.871129'
 birth_date: '1955-02-19'
-birth_place: Oakland
+birth_place: 'Oakland, California, United States'
 disambiguation: jazz saxophonist and clarinetist
 enhancement_provider: perplexity
 entry_created: '2026-01-01T01:11:59.871146'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/89380b6c-0961-44ad-a7fe-f9115d840aac
-  spotify: https://open.spotify.com/artist/4vT7SN0Ge2ATOebFDW3iv4
+  musicbrainz: 'https://musicbrainz.org/artist/89380b6c-0961-44ad-a7fe-f9115d840aac'
+  spotify: 'https://open.spotify.com/artist/4vT7SN0Ge2ATOebFDW3iv4'
   wikipedia: ''
 gender: Male
 genres:
-- free jazz
-- avant-garde
-- hard bop
+  - free jazz
+  - avant-garde
+  - hard bop
 image_path: 03_Resources/source_material/ArtistPortraits/david_murray.jpg
 instruments:
-- bass clarinet
-- original
-- tenor saxophone
-- eponymous
-- reeds
-- piano
+  - bass clarinet
+  - original
+  - tenor saxophone
+  - eponymous
+  - reeds
+  - piano
 last_updated: '2026-01-01T01:11:59.871148'
 musical_connections:
   collaborators:
-  - Oliver Lake
-  - Julius Hemphill
-  - Hamiet Bluiett
-  - Olu Dara
-  - John Hicks
+    - Oliver Lake
+    - Julius Hemphill
+    - Hamiet Bluiett
+    - Olu Dara
+    - John Hicks
   influenced:
-  - James Carter
-  - Arthur Blythe
+    - James Carter
+    - Arthur Blythe
   mentors:
-  - Stanley Crouch
-  - Dewey Redman
-  - Albert Ayler
+    - Stanley Crouch
+    - Dewey Redman
+    - Albert Ayler
 musicbrainz_id: 89380b6c-0961-44ad-a7fe-f9115d840aac
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://davidmurray.xyz/bio
-- https://aaregistry.org/story/david-murray-musician-and-composer-born/
-- https://www.selmer.fr/en/blogs/artistes/david-murray
-- https://jazztimes.com/features/profiles/bright-moments-david-murray/
-- https://jazzweekly.com/2016/08/david-murray-perfection/
+  - 'https://davidmurray.xyz/bio'
+  - 'https://aaregistry.org/story/david-murray-musician-and-composer-born/'
+  - 'https://www.selmer.fr/en/blogs/artistes/david-murray'
+  - 'https://jazztimes.com/features/profiles/bright-moments-david-murray/'
+  - 'https://jazzweekly.com/2016/08/david-murray-perfection/'
 spotify_data:
   followers: 1538
   id: 4vT7SN0Ge2ATOebFDW3iv4
   popularity: 10
-  url: https://open.spotify.com/artist/4vT7SN0Ge2ATOebFDW3iv4
+  url: 'https://open.spotify.com/artist/4vT7SN0Ge2ATOebFDW3iv4'
 status: active
 tags:
-- avant-garde jazz
-- bassclarinet
-- bigband
-title: david murray
-
+  - avant-garde jazz
+  - bassclarinet
+  - bigband
+title: David Murray
+origin: 'New York City, New York, United States'
 ---
 
 ![](david_murray.jpg)

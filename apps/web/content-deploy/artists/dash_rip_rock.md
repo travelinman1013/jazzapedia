@@ -1,22 +1,22 @@
 ---
-title: dash rip rock
+title: Dash Rip Rock
 wiki_slug: dash-rip-rock
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 birth_date: '1984'
 genres:
-- psychobilly
-- roots rock
-- rockabilly
-- go-go
-- southern rock
+  - psychobilly
+  - roots rock
+  - rockabilly
+  - go-go
+  - southern rock
 instruments:
-- drums (drum set)
-- original
-- electric bass guitar
-- guitar
-- principal
+  - drums (drum set)
+  - original
+  - electric bass guitar
+  - guitar
+  - principal
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/dash_rip_rock.jpg
   caption: dash rip rock
@@ -37,98 +37,98 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ned 'Hoaky' Hickel
-  - F. Clarke Martty
-  - Fred LeBlanc
-  - Cheryl Wagner
-  - Jello Biafra
+    - Ned 'Hoaky' Hickel
+    - F. Clarke Martty
+    - Fred LeBlanc
+    - Cheryl Wagner
+    - Jello Biafra
   influenced:
-  - Cowboy Mouth
+    - Cowboy Mouth
   mentors:
-  - Rank and File
-  - The LeRoi Brothers
-  - The Stray Cats
-  - Jason & the Scorchers
+    - Rank and File
+    - The LeRoi Brothers
+    - The Stray Cats
+    - Jason & the Scorchers
 spotify_data:
   followers: 6456
   id: 1IN2aZhF5WzfPWmv0b8KKS
   popularity: 17
-  url: https://open.spotify.com/artist/1IN2aZhF5WzfPWmv0b8KKS
+  url: 'https://open.spotify.com/artist/1IN2aZhF5WzfPWmv0b8KKS'
 discography_enriched: true
 top_tracks:
-- (Let's Go) Smoke Some Pot (Hits and Giggles)
-- I Saw The Light (Dash Rip Rock)
-- Rawhide (Hits and Giggles)
-- Jambalaya (Hits and Giggles)
-- Pussywhipped (Hits and Giggles)
-- Man Of Constant Sorrow (Hee Haw Hell)
-- Liquor Store (Dash Rip Rock's Gold Record)
-- Johnny Ace (Dash Rip Rock's Gold Record)
-- (Let's Go) Smoke Some Pot (Dash Rip Rock's Gold Record)
-- I Saw The Light (Hits and Giggles)
+  - (Let's Go) Smoke Some Pot (Hits and Giggles)
+  - I Saw The Light (Dash Rip Rock)
+  - Rawhide (Hits and Giggles)
+  - Jambalaya (Hits and Giggles)
+  - Pussywhipped (Hits and Giggles)
+  - Man Of Constant Sorrow (Hee Haw Hell)
+  - Liquor Store (Dash Rip Rock's Gold Record)
+  - Johnny Ace (Dash Rip Rock's Gold Record)
+  - (Let's Go) Smoke Some Pot (Dash Rip Rock's Gold Record)
+  - I Saw The Light (Hits and Giggles)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/fed971db-e87c-488d-99ca-8953ab5599ca
-  spotify: https://open.spotify.com/artist/1IN2aZhF5WzfPWmv0b8KKS
-  wikipedia: https://en.wikipedia.org/wiki/Dash_Rip_Rock
+  musicbrainz: 'https://musicbrainz.org/artist/fed971db-e87c-488d-99ca-8953ab5599ca'
+  spotify: 'https://open.spotify.com/artist/1IN2aZhF5WzfPWmv0b8KKS'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dash_Rip_Rock'
 image_path: 03_Resources/source_material/ArtistPortraits/dash_rip_rock.jpg
 biography_enhanced_at: '2025-11-01T15:28:53.482189'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Dash_Rip_Rock
-- https://riggsentertainmentllc.com/entertainers/dash-rip-rock/
-- https://antigravitymagazine.com/feature/dash-rip-rock/
-- https://dashriprock.net/bio
-- https://trouserpress.com/reviews/dash-rip-rock/
+  - 'https://en.wikipedia.org/wiki/Dash_Rip_Rock'
+  - 'https://riggsentertainmentllc.com/entertainers/dash-rip-rock/'
+  - 'https://antigravitymagazine.com/feature/dash-rip-rock/'
+  - 'https://dashriprock.net/bio'
+  - 'https://trouserpress.com/reviews/dash-rip-rock/'
 network_extracted: true
 entry_created: '2025-11-01T15:28:53.482209'
 last_updated: '2025-12-23T08:16:07.463255'
 members:
-- begin: '1984'
-  end: '1985'
-  instruments:
-  - drums (drum set)
-  - original
-  mbid: cf7b37e9-cb3c-4301-8e98-283afda2801b
-  name: F. Clarke Marty
-- begin: '1984'
-  end: '1999'
-  instruments:
-  - electric bass guitar
-  mbid: 0954c7bd-440b-499b-a482-91d75dd43c4a
-  name: Ned “Hoaky” Hickel
-- begin: '1985'
-  end: '1989'
-  instruments: []
-  mbid: be5aa865-b439-41fc-83da-12661fcb08db
-  name: Fred LeBlanc
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 501eda6c-6950-41c8-86d3-e5032237d0ae
-  name: Brian Broussard
-- begin: ''
-  end: ''
-  instruments:
-  - electric bass guitar
-  mbid: 2af24016-bb44-4468-8270-e78d9b5bfc34
-  name: Chance Casteel
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  - original
-  - principal
-  mbid: 2ab936b1-cff7-40a7-93ba-21fa726c9280
-  name: Bill Davis
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 9094c670-d2c1-429e-9457-345455856861
-  name: Wade Hymel
+  - begin: '1984'
+    end: '1985'
+    instruments:
+      - drums (drum set)
+      - original
+    mbid: cf7b37e9-cb3c-4301-8e98-283afda2801b
+    name: F. Clarke Marty
+  - begin: '1984'
+    end: '1999'
+    instruments:
+      - electric bass guitar
+    mbid: 0954c7bd-440b-499b-a482-91d75dd43c4a
+    name: Ned “Hoaky” Hickel
+  - begin: '1985'
+    end: '1989'
+    instruments: []
+    mbid: be5aa865-b439-41fc-83da-12661fcb08db
+    name: Fred LeBlanc
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 501eda6c-6950-41c8-86d3-e5032237d0ae
+    name: Brian Broussard
+  - begin: ''
+    end: ''
+    instruments:
+      - electric bass guitar
+    mbid: 2af24016-bb44-4468-8270-e78d9b5bfc34
+    name: Chance Casteel
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+      - original
+      - principal
+    mbid: 2ab936b1-cff7-40a7-93ba-21fa726c9280
+    name: Bill Davis
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 9094c670-d2c1-429e-9457-345455856861
+    name: Wade Hymel
 musicbrainz_id: fed971db-e87c-488d-99ca-8953ab5599ca
-origin: Baton Rouge
+origin: 'Baton Rouge, Louisiana, United States'
 ---
 
 ![](dash_rip_rock.jpg)

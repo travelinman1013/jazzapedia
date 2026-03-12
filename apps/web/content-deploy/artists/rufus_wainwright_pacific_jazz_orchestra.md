@@ -1,17 +1,18 @@
 ---
-title: Rufus Wainwright, Pacific Jazz Orchestra
+title: 'Rufus Wainwright, Pacific Jazz Orchestra'
 wiki_slug: rufus-wainwright-pacific-jazz-orchestra
 schema_version: 2
 status: active
-birth_place: Rhinebeck, New York, United States
+birth_place: 'Rhinebeck, New York, United States'
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/rufus_wainwright_pacific_jazz_orchestra.jpg
-  caption: Rufus Wainwright, Pacific Jazz Orchestra
+  image: >-
+    03_Resources/source_material/ArtistPortraits/rufus_wainwright_pacific_jazz_orchestra.jpg
+  caption: 'Rufus Wainwright, Pacific Jazz Orchestra'
   background: solo_singer
-  origin: Rhinebeck, New York, United States
+  origin: 'Rhinebeck, New York, United States'
 audio_profile:
   tempo_avg: 124.7
   energy_avg: 0.648
@@ -27,50 +28,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Pacific Jazz Orchestra
-  - Chris Walden
-  - Elton John, Burt Bacharach, Robert Wilson, David Byrne, Boy George, Joni Mitchell, Pet Shop Boys, Heart, Robbie Williams,
-    Jessye Norman, Billy Joel, Paul Simon, Sting, Mark Ronson
+    - Pacific Jazz Orchestra
+    - Chris Walden
+    - >-
+      Elton John, Burt Bacharach, Robert Wilson, David Byrne, Boy George, Joni
+      Mitchell, Pet Shop Boys, Heart, Robbie Williams, Jessye Norman, Billy
+      Joel, Paul Simon, Sting, Mark Ronson
   influenced:
-  - Martha Wainwright
+    - Martha Wainwright
   mentors:
-  - Loudon Wainwright III
-  - Kate McGarrigle
-  - Kurt Weill
+    - Loudon Wainwright III
+    - Kate McGarrigle
+    - Kurt Weill
 spotify_data:
   followers: 333
   id: 2OcOLIVOefSjJZKw1aYw6G
   popularity: 6
-  url: https://open.spotify.com/artist/2OcOLIVOefSjJZKw1aYw6G
+  url: 'https://open.spotify.com/artist/2OcOLIVOefSjJZKw1aYw6G'
 discography_enriched: true
 top_tracks:
-- Opelousas Sostan (The Opelousas Sostan Collection)
-- The Back Door (The Opelousas Sostan Collection)
-- Opelousas Sostan (Swamp Gold, Vol. 1)
-- Port Barre (The Opelousas Sostan Collection)
-- Dr. Juban Leleur (The Opelousas Sostan Collection)
-- Port Barre (Swamp Gold, Vol. 6)
-- Ridin' (The Opelousas Sostan Collection)
-- Lache pas la patate (The Opelousas Sostan Collection)
-- Haunted House (The Opelousas Sostan Collection)
-- You Know I Astya (The Opelousas Sostan Collection)
+  - Opelousas Sostan (The Opelousas Sostan Collection)
+  - The Back Door (The Opelousas Sostan Collection)
+  - 'Opelousas Sostan (Swamp Gold, Vol. 1)'
+  - Port Barre (The Opelousas Sostan Collection)
+  - Dr. Juban Leleur (The Opelousas Sostan Collection)
+  - 'Port Barre (Swamp Gold, Vol. 6)'
+  - Ridin' (The Opelousas Sostan Collection)
+  - Lache pas la patate (The Opelousas Sostan Collection)
+  - Haunted House (The Opelousas Sostan Collection)
+  - You Know I Astya (The Opelousas Sostan Collection)
 external_urls:
-  spotify: https://open.spotify.com/artist/2OcOLIVOefSjJZKw1aYw6G
-  wikipedia: https://en.wikipedia.org/wiki/I%27m_a_Stranger_Here_Myself:_Wainwright_Does_Weill
-image_path: 03_Resources/source_material/ArtistPortraits/rufus_wainwright_pacific_jazz_orchestra.jpg
+  spotify: 'https://open.spotify.com/artist/2OcOLIVOefSjJZKw1aYw6G'
+  wikipedia: >-
+    https://en.wikipedia.org/wiki/I%27m_a_Stranger_Here_Myself:_Wainwright_Does_Weill
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/rufus_wainwright_pacific_jazz_orchestra.jpg
 biography_enhanced_at: '2025-11-24T08:42:10.519885'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.bfmi.at/concert_wainwright_does_weill.html
-- https://www.pacificjazz.org/calendar/aaron-tveit-wh6pd
-- https://grammymuseum.org/event/the-drop-rufus-wainwright-chris-walden/
-- https://americana-uk.com/interview-rufus-wainwright-brings-kurt-weills-music-into-the-21st-century
-- https://onair.events/artist/rufus-wainwright
-- https://en.wikipedia.org/wiki/I%27m_a_Stranger_Here_Myself:_Wainwright_Does_Weill
+  - 'https://www.bfmi.at/concert_wainwright_does_weill.html'
+  - 'https://www.pacificjazz.org/calendar/aaron-tveit-wh6pd'
+  - 'https://grammymuseum.org/event/the-drop-rufus-wainwright-chris-walden/'
+  - >-
+    https://americana-uk.com/interview-rufus-wainwright-brings-kurt-weills-music-into-the-21st-century
+  - 'https://onair.events/artist/rufus-wainwright'
+  - >-
+    https://en.wikipedia.org/wiki/I%27m_a_Stranger_Here_Myself:_Wainwright_Does_Weill
 network_extracted: true
 entry_created: '2025-11-24T08:42:10.519897'
 last_updated: '2025-12-23T08:16:15.212557'
+birth_date: '1973'
+artist_type: person
 ---
 
 ![](rufus_wainwright_pacific_jazz_orchestra.jpg)

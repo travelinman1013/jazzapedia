@@ -1,33 +1,33 @@
 ---
-title: lou donaldson
+title: Lou Donaldson
 wiki_slug: lou-donaldson
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1926-11-01'
-birth_place: Badin
+birth_place: 'Badin, North Carolina, United States'
 death_date: '2024-11-09'
 genres:
-- hard bop
-- jazz
-- soul jazz
-- bebop
-- jazz funk
-- cool jazz
-- jazz blues
+  - hard bop
+  - jazz
+  - soul jazz
+  - bebop
+  - jazz funk
+  - cool jazz
+  - jazz blues
 instruments:
-- alto saxophone
-- eponymous
-- original
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - alto saxophone
   - eponymous
   - original
-  mbid: 67c59b31-5041-4378-acc9-e578ebbbe534
-  name: The Lou Donaldson Quartet
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - alto saxophone
+      - eponymous
+      - original
+    mbid: 67c59b31-5041-4378-acc9-e578ebbbe534
+    name: The Lou Donaldson Quartet
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lou_donaldson.jpg
   caption: lou donaldson
@@ -42,7 +42,7 @@ audio_profile:
   danceability_avg: 0.626
   acousticness_avg: 0.718
   instrumentalness_avg: 0.273
-  loudness_avg: -13.0
+  loudness_avg: -13
   speechiness_avg: 0.043
   liveness_avg: 0.117
   track_count: 52
@@ -50,60 +50,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Art Blakey
-  - Jimmy Smith
-  - Thelonious Monk
-  - Clifford Brown
-  - Milt Jackson
-  - Lonnie Smith
-  - George Benson
+    - Art Blakey
+    - Jimmy Smith
+    - Thelonious Monk
+    - Clifford Brown
+    - Milt Jackson
+    - Lonnie Smith
+    - George Benson
   influenced:
-  - Grant Green
-  - John Patton
-  - Leon Spencer
-  - Akiko Tsuruga
+    - Grant Green
+    - John Patton
+    - Leon Spencer
+    - Akiko Tsuruga
   mentors:
-  - Charlie Parker
+    - Charlie Parker
 spotify_data:
   followers: 62237
   id: 063xkuRULzZu8fcoPR2rKR
   popularity: 46
-  url: https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR
+  url: 'https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR'
 discography_enriched: true
 top_tracks:
-- Autumn Nocturne (Blues Walk)
-- Over The Rainbow (Everything I Play Is Funky)
-- Blues Walk (Blues Walk)
-- Green Eyes (Light-Foot)
-- Play Ray (Blues Walk)
-- Old Folks (Wailing With Lou)
-- Lou's Blues (Quartet / Quintet / Sextet)
-- There Is No Greater Love (Wailing With Lou)
-- Alligator Bogaloo (Alligator Bogaloo)
-- Jump Up (LD+3)
+  - Autumn Nocturne (Blues Walk)
+  - Over The Rainbow (Everything I Play Is Funky)
+  - Blues Walk (Blues Walk)
+  - Green Eyes (Light-Foot)
+  - Play Ray (Blues Walk)
+  - Old Folks (Wailing With Lou)
+  - Lou's Blues (Quartet / Quintet / Sextet)
+  - There Is No Greater Love (Wailing With Lou)
+  - Alligator Bogaloo (Alligator Bogaloo)
+  - Jump Up (LD+3)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/db147d97-f5cf-4e80-9e1a-08ddcb1d0bf8
-  spotify: https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR
-  wikipedia: https://en.wikipedia.org/wiki/Lou_Donaldson
+  musicbrainz: 'https://musicbrainz.org/artist/db147d97-f5cf-4e80-9e1a-08ddcb1d0bf8'
+  spotify: 'https://open.spotify.com/artist/063xkuRULzZu8fcoPR2rKR'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lou_Donaldson'
 image_path: 03_Resources/source_material/ArtistPortraits/lou_donaldson.jpg
 biography_enhanced_at: '2025-11-20T06:44:59.010991'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Lou_Donaldson
-- https://northcarolinamusichalloffame.org/inductee-item/lou-donaldson/
-- https://www.wrti.org/arts-desk/2024-11-11/lou-donaldson-saxophonist-who-bridged-bebop-and-soul-dies-at-98
-- https://loudonaldson.com/press/bio/
-- https://www.arts.gov/honors/jazz/lou-donaldson
+  - 'https://en.wikipedia.org/wiki/Lou_Donaldson'
+  - 'https://northcarolinamusichalloffame.org/inductee-item/lou-donaldson/'
+  - >-
+    https://www.wrti.org/arts-desk/2024-11-11/lou-donaldson-saxophonist-who-bridged-bebop-and-soul-dies-at-98
+  - 'https://loudonaldson.com/press/bio/'
+  - 'https://www.arts.gov/honors/jazz/lou-donaldson'
 network_extracted: true
 entry_created: '2025-11-20T06:44:59.010997'
 last_updated: '2025-12-23T08:16:12.181423'
 gender: Male
 musicbrainz_id: db147d97-f5cf-4e80-9e1a-08ddcb1d0bf8
 tags:
-- hard bop
-- jazz
-- soul jazz
+  - hard bop
+  - jazz
+  - soul jazz
+is_active: false
+origin: 'New York, New York, United States'
 ---
 
 ![](lou_donaldson.jpg)

@@ -4,12 +4,12 @@ birth_place: Unknown - not specified in available sources
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:18:41.637982'
 external_urls:
-  spotify: https://open.spotify.com/artist/3f3zEEHq7cUg8Frn3kkONC
+  spotify: 'https://open.spotify.com/artist/3f3zEEHq7cUg8Frn3kkONC'
   wikipedia: null
 genres:
-- country christian
-- christian rock
-- outlaw country
+  - country christian
+  - christian rock
+  - outlaw country
 image_path: 03_Resources/source_material/ArtistPortraits/hammer_to_the_cross.jpg
 last_updated: '2026-01-22T07:18:41.637983'
 musical_connections:
@@ -19,16 +19,17 @@ musical_connections:
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.youtube.com/watch?v=3o-ajvdEgXM
-- https://www.youtube.com/watch?v=eAtRvG_7BNw
-- https://www.youtube.com/channel/UCIu0CEVihU0YznopX8Tahxg
+  - 'https://www.youtube.com/watch?v=3o-ajvdEgXM'
+  - 'https://www.youtube.com/watch?v=eAtRvG_7BNw'
+  - 'https://www.youtube.com/channel/UCIu0CEVihU0YznopX8Tahxg'
 spotify_data:
   followers: 1230
   id: 3f3zEEHq7cUg8Frn3kkONC
   popularity: 33
-  url: https://open.spotify.com/artist/3f3zEEHq7cUg8Frn3kkONC
+  url: 'https://open.spotify.com/artist/3f3zEEHq7cUg8Frn3kkONC'
 status: active
 title: Hammer To The Cross
+artist_type: person
 ---
 
 ![](hammer_to_the_cross.jpg)

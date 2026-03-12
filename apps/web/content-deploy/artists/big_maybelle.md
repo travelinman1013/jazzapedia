@@ -1,19 +1,19 @@
 ---
-title: big maybelle
+title: Big Maybelle
 wiki_slug: big-maybelle
 schema_version: 2
 status: active
-birth_place: Jackson, Tennessee, United States
+birth_place: 'Jackson, Tennessee, United States'
 genres:
-- doo-wop
-- blues
-- northern soul
-- classic blues
+  - doo-wop
+  - blues
+  - northern soul
+  - classic blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/big_maybelle.jpg
   caption: big maybelle
   background: solo_singer
-  origin: Jackson, Tennessee, United States
+  origin: 'Jackson, Tennessee, United States'
 audio_profile:
   tempo_avg: 119.9
   energy_avg: 0.584
@@ -29,49 +29,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - International Sweethearts of Rhythm
-  - Oran 'Hot Lips' Page
-  - Tiny Bradshaw
-  - Quincy Jones
-  - Jimmy Witherspoon
+    - International Sweethearts of Rhythm
+    - Oran 'Hot Lips' Page
+    - Tiny Bradshaw
+    - Quincy Jones
+    - Jimmy Witherspoon
   influenced: []
   mentors:
-  - Dave Clark
-  - Fred Mendelsohn
-  - Christine Chatman
+    - Dave Clark
+    - Fred Mendelsohn
+    - Christine Chatman
 spotify_data:
   followers: 42028
   id: 7yJXicqUOMPY5Iofua29C0
   popularity: 32
-  url: https://open.spotify.com/artist/7yJXicqUOMPY5Iofua29C0
+  url: 'https://open.spotify.com/artist/7yJXicqUOMPY5Iofua29C0'
 discography_enriched: true
 top_tracks:
-- Whole Lotta Shakin' Goin' On
-- That's A Pretty Good Love (Blues, Candy & Big Maybelle)
-- 96 Tears ("America's Queen Mother Of Soul" Got A Brand New Bag)
-- Whole Lotta Shakin' Goin' On (I've Got a Feelin' - Okeh & Savoy Recordings 1952-56)
-- Blues Early, Early, Pts. 1 & 2 (Candy!)
-- Goin' Home Baby - Alternate (Blues, Candy & Big Maybelle)
-- New Kind of Mambo (I've Got a Feelin' - Okeh & Savoy Recordings 1952-56)
-- Maybelle's Blues (I've Got a Feelin' - Okeh & Savoy Recordings 1952-56)
-- I've Got a Feelin' (I've Got a Feelin' - Okeh & Savoy Recordings 1952-56)
-- One Monkey Don't Stop No Show (I've Got a Feelin' - Okeh & Savoy Recordings 1952-56)
+  - Whole Lotta Shakin' Goin' On
+  - 'That''s A Pretty Good Love (Blues, Candy & Big Maybelle)'
+  - 96 Tears ("America's Queen Mother Of Soul" Got A Brand New Bag)
+  - >-
+    Whole Lotta Shakin' Goin' On (I've Got a Feelin' - Okeh & Savoy Recordings
+    1952-56)
+  - 'Blues Early, Early, Pts. 1 & 2 (Candy!)'
+  - 'Goin'' Home Baby - Alternate (Blues, Candy & Big Maybelle)'
+  - New Kind of Mambo (I've Got a Feelin' - Okeh & Savoy Recordings 1952-56)
+  - Maybelle's Blues (I've Got a Feelin' - Okeh & Savoy Recordings 1952-56)
+  - I've Got a Feelin' (I've Got a Feelin' - Okeh & Savoy Recordings 1952-56)
+  - >-
+    One Monkey Don't Stop No Show (I've Got a Feelin' - Okeh & Savoy Recordings
+    1952-56)
 external_urls:
-  spotify: https://open.spotify.com/artist/7yJXicqUOMPY5Iofua29C0
+  spotify: 'https://open.spotify.com/artist/7yJXicqUOMPY5Iofua29C0'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/big_maybelle.jpg
 biography_enhanced_at: '2025-11-04T11:02:30.012653'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Blues Foundation - Big Maybelle Hall of Fame Profile
-- WBSS Media - Big Maybelle Biography
-- Top 40 Weekly - Big Maybelle Biography
-- African American Registry - Big Maybelle Profile
-- From the Vaults - Big Maybelle Born 1 May 1924
+  - Blues Foundation - Big Maybelle Hall of Fame Profile
+  - WBSS Media - Big Maybelle Biography
+  - Top 40 Weekly - Big Maybelle Biography
+  - African American Registry - Big Maybelle Profile
+  - From the Vaults - Big Maybelle Born 1 May 1924
 network_extracted: true
 entry_created: '2025-11-04T11:02:30.012664'
 last_updated: '2025-12-23T08:16:05.466836'
+birth_date: '1924-05-01'
+death_date: '1972-01-23'
+artist_type: person
 ---
 
 ![](big_maybelle.jpg)

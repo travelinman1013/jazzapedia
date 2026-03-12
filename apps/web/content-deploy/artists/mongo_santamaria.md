@@ -1,48 +1,51 @@
 ---
 biography_enhanced_at: '2025-12-26T01:21:43.666095'
-birth_place: Havana, Cuba
+birth_place: 'Havana, Cuba, United States'
 enhancement_provider: perplexity
 entry_created: '2025-12-26T01:21:43.666108'
 external_urls:
-  spotify: https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0
+  spotify: 'https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0'
   wikipedia: ''
 genres:
-- latin jazz
-- cha cha cha
-- son cubano
-- mambo
+  - latin jazz
+  - cha cha cha
+  - son cubano
+  - mambo
 image_path: 03_Resources/source_material/ArtistPortraits/mongo_santamaria.jpg
 last_updated: '2025-12-26T01:21:43.666109'
 musical_connections:
   collaborators:
-  - Pérez Prado
-  - Tito Puente
-  - Cal Tjader
-  - Herbie Hancock
-  - Fania All-Stars
+    - Pérez Prado
+    - Tito Puente
+    - Cal Tjader
+    - Herbie Hancock
+    - Fania All-Stars
   influenced:
-  - John Coltrane
-  - Dizzy Gillespie
-  - Chick Corea
+    - John Coltrane
+    - Dizzy Gillespie
+    - Chick Corea
   mentors:
-  - Conjunto Matamoros
+    - Conjunto Matamoros
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://fania.com/artist/mongo-santamaria/
-- https://www.allaboutjazz.com/musicians/mongo-santamaria/
-- https://nmaahc.si.edu/latinx/mongo-santamaria
-- https://concord.com/artist/mongo-santamaria/
-- https://latinjazznet.com/reviews/albums/essentials/mongo-santamaria-man-havana/
-- https://rockandrollglobe.com/soul/mongo-santamaria-in-summer-of-soul/
+  - 'https://fania.com/artist/mongo-santamaria/'
+  - 'https://www.allaboutjazz.com/musicians/mongo-santamaria/'
+  - 'https://nmaahc.si.edu/latinx/mongo-santamaria'
+  - 'https://concord.com/artist/mongo-santamaria/'
+  - >-
+    https://latinjazznet.com/reviews/albums/essentials/mongo-santamaria-man-havana/
+  - 'https://rockandrollglobe.com/soul/mongo-santamaria-in-summer-of-soul/'
 spotify_data:
   followers: 85172
   id: 2oVwztjpHpJlAvlVVuqVa0
   popularity: 44
-  url: https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0
+  url: 'https://open.spotify.com/artist/2oVwztjpHpJlAvlVVuqVa0'
 status: active
 title: Mongo Santamaria
-
+birth_date: '1917-04-07'
+death_date: '2003-02-01'
+artist_type: person
 ---
 
 ![](mongo_santamaria.jpg)

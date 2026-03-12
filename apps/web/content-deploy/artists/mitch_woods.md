@@ -2,60 +2,61 @@
 artist_type: person
 biography_enhanced_at: '2026-01-21T01:16:43.765802'
 birth_date: '1951-04-03'
-birth_place: Brooklyn, New York, United States
+birth_place: 'Brooklyn, New York, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-21T01:16:43.765808'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b5521839-774a-48f8-8c50-f4b47e8edefc
-  spotify: https://open.spotify.com/artist/5vwOfZK3EWWRS8JPtuz74s
-  wikipedia: https://en.wikipedia.org/wiki/Mitch_Woods
+  musicbrainz: 'https://musicbrainz.org/artist/b5521839-774a-48f8-8c50-f4b47e8edefc'
+  spotify: 'https://open.spotify.com/artist/5vwOfZK3EWWRS8JPtuz74s'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mitch_Woods'
 gender: Male
 genres:
-- boogie-woogie
-- blues
-- boogie
-- modern blues
-- rockabilly
+  - boogie-woogie
+  - blues
+  - boogie
+  - modern blues
+  - rockabilly
 image_path: 03_Resources/source_material/ArtistPortraits/mitch_woods.jpg
 instruments:
-- piano
+  - piano
 last_updated: '2026-01-21T01:16:43.765809'
 musical_connections:
   collaborators:
-  - HiTide Harris
-  - John Firmin
-  - Earl Palmer
-  - Fats Domino Band Members
-  - Charlie Musselwhite
-  - Danny Caron
+    - HiTide Harris
+    - John Firmin
+    - Earl Palmer
+    - Fats Domino Band Members
+    - Charlie Musselwhite
+    - Danny Caron
   influenced:
-  - Modern blues and boogie-woogie musicians
+    - Modern blues and boogie-woogie musicians
   mentors:
-  - Louis Jordan
-  - Fats Domino
-  - Professor Longhair
-  - Bebop Teacher (unnamed)
+    - Louis Jordan
+    - Fats Domino
+    - Professor Longhair
+    - Bebop Teacher (unnamed)
 musicbrainz_id: b5521839-774a-48f8-8c50-f4b47e8edefc
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.foapom.com/event/mitch-woods/
-- https://en.wikipedia.org/wiki/Mitch_Woods
-- https://www.umbriajazz.it/en/eventi/mitch-woods/
-- https://www.bluesblastmagazine.com/featured-interview-mitch-woods/
-- https://mitchwoods.com/big-city-blues-magazine-cover-story/
-- https://www.sfjazz.org/tickets/productions/mitch-woods-ss22/
-- https://www.old.barikada.com/rock_biografije/2006-08_04_mitch_woods.php
-- https://jazzascona.ch/en/project/mitch-woods-3/
+  - 'https://www.foapom.com/event/mitch-woods/'
+  - 'https://en.wikipedia.org/wiki/Mitch_Woods'
+  - 'https://www.umbriajazz.it/en/eventi/mitch-woods/'
+  - 'https://www.bluesblastmagazine.com/featured-interview-mitch-woods/'
+  - 'https://mitchwoods.com/big-city-blues-magazine-cover-story/'
+  - 'https://www.sfjazz.org/tickets/productions/mitch-woods-ss22/'
+  - 'https://www.old.barikada.com/rock_biografije/2006-08_04_mitch_woods.php'
+  - 'https://jazzascona.ch/en/project/mitch-woods-3/'
 spotify_data:
   followers: 1514
   id: 5vwOfZK3EWWRS8JPtuz74s
   popularity: 10
-  url: https://open.spotify.com/artist/5vwOfZK3EWWRS8JPtuz74s
+  url: 'https://open.spotify.com/artist/5vwOfZK3EWWRS8JPtuz74s'
 status: active
 tags:
-- blues
+  - blues
 title: Mitch Woods
+origin: 'San Francisco, California, United States'
 ---
 
 ![](mitch_woods.jpg)

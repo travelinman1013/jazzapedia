@@ -2,11 +2,11 @@
 title: Slave
 wiki_slug: slave
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1975'
 genres:
-- post-hardcore
+  - post-hardcore
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/slave.jpg
   caption: Slave
@@ -27,134 +27,134 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jonny Craig
-  - Alex Lyman
-  - Christopher Kim
-  - Tai Wright
+    - Jonny Craig
+    - Alex Lyman
+    - Christopher Kim
+    - Tai Wright
   influenced:
-  - Rain City Drive
-  - Awaken I Am
+    - Rain City Drive
+    - Awaken I Am
   mentors:
-  - Dance Gavin Dance
+    - Dance Gavin Dance
 spotify_data:
   followers: 80129
   id: 0QF3SelvOph6yRhKH8jRxU
   popularity: 51
-  url: https://open.spotify.com/artist/0QF3SelvOph6yRhKH8jRxU
+  url: 'https://open.spotify.com/artist/0QF3SelvOph6yRhKH8jRxU'
 discography_enriched: true
 top_tracks:
-- I'd Rather See Your Star Explode (Beautiful Death)
-- True Colors (Beautiful Death)
-- Let This Haunt You (Beautiful Death)
-- Patience Is the Virtue (Beautiful Death)
-- Warning from My Demons (Beautiful Death)
-- My Soul Is Empty and Full of White Girls (Through Art We Are All Equals)
-- Starving for Friends (Through Art We Are All Equals)
-- Petty Trappin (Beautiful Death)
-- The Pact (Beautiful Death)
-- I Know a Lot of Artists (Beautiful Death)
+  - I'd Rather See Your Star Explode (Beautiful Death)
+  - True Colors (Beautiful Death)
+  - Let This Haunt You (Beautiful Death)
+  - Patience Is the Virtue (Beautiful Death)
+  - Warning from My Demons (Beautiful Death)
+  - My Soul Is Empty and Full of White Girls (Through Art We Are All Equals)
+  - Starving for Friends (Through Art We Are All Equals)
+  - Petty Trappin (Beautiful Death)
+  - The Pact (Beautiful Death)
+  - I Know a Lot of Artists (Beautiful Death)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/29da6ed6-2501-40bf-83e9-9f22d872dd5a
-  spotify: https://open.spotify.com/artist/0QF3SelvOph6yRhKH8jRxU
-  wikipedia: https://en.wikipedia.org/wiki/Rain_City_Drive
+  musicbrainz: 'https://musicbrainz.org/artist/29da6ed6-2501-40bf-83e9-9f22d872dd5a'
+  spotify: 'https://open.spotify.com/artist/0QF3SelvOph6yRhKH8jRxU'
+  wikipedia: 'https://en.wikipedia.org/wiki/Rain_City_Drive'
 image_path: 03_Resources/source_material/ArtistPortraits/slave.jpg
 biography_enhanced_at: '2025-11-02T07:40:32.588364'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Rain_City_Drive
-- https://www.last.fm/music/Slaves/+wiki
-- https://www.spirit-of-metal.com/en/band/Slaves_(USA)
-- https://www.allmusic.com/artist/slaves-mn0003277841
+  - 'https://en.wikipedia.org/wiki/Rain_City_Drive'
+  - 'https://www.last.fm/music/Slaves/+wiki'
+  - 'https://www.spirit-of-metal.com/en/band/Slaves_(USA)'
+  - 'https://www.allmusic.com/artist/slaves-mn0003277841'
 network_extracted: true
 entry_created: '2025-11-02T07:40:32.588383'
 last_updated: '2025-12-23T08:16:15.729621'
 disambiguation: 70s/80s US funk band
 members:
-- begin: '1975'
-  end: '1996'
-  instruments: []
-  mbid: c9efd47d-6cc2-45aa-be67-ca59ebac6553
-  name: Mark Adams
-- begin: '1975'
-  end: '1996'
-  instruments: []
-  mbid: f259adb9-13df-4aed-bb46-df162df41567
-  name: Mark Hicks
-- begin: '1975'
-  end: '1996'
-  instruments: []
-  mbid: f52ef150-1988-4a23-8fbc-780802f11d18
-  name: Tom Lockett
-- begin: '1975'
-  end: '1996'
-  instruments: []
-  mbid: 72a7ae58-d1fa-493d-8f4b-1bf43e6479c6
-  name: Daniel Webster
-- begin: '1978'
-  end: '1996'
-  instruments: []
-  mbid: fdfa5368-9962-4d41-b332-1180dead02eb
-  name: Ray Turner
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0df4ba7d-f65d-48ee-a6db-e9c0821d04f4
-  name: Steve Arrington
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: dcb579d1-fa09-4a60-b7b3-de75db30c998
-  name: Sam Carter
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3f26a3f5-d856-45f3-bd78-35b2eae8a68f
-  name: Kenni Hairston
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1c3646bc-3553-4772-a669-be7e393bf9f6
-  name: Buddy Hankerson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: da805b95-20f5-423e-b074-7ec51f4e47c0
-  name: Curt Jones
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 48565054-5ae8-413f-849b-234d79cab230
-  name: Floyd Miller
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 93ccdcec-efab-4277-9d88-a4d554985063
-  name: Keith Nash
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3c8009bd-8c14-4ebb-985a-1473faaf179f
-  name: Delbert Taylor
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bf992f64-5c05-46c5-af86-2267727246b9
-  name: Stephen C. Washington
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ed36bc02-4bc9-48b7-ad13-efea6e4e4324
-  name: Starleana Young
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3ffc9ed7-3339-4f2b-b7da-2183a4507684
-  name: Roger Parker
+  - begin: '1975'
+    end: '1996'
+    instruments: []
+    mbid: c9efd47d-6cc2-45aa-be67-ca59ebac6553
+    name: Mark Adams
+  - begin: '1975'
+    end: '1996'
+    instruments: []
+    mbid: f259adb9-13df-4aed-bb46-df162df41567
+    name: Mark Hicks
+  - begin: '1975'
+    end: '1996'
+    instruments: []
+    mbid: f52ef150-1988-4a23-8fbc-780802f11d18
+    name: Tom Lockett
+  - begin: '1975'
+    end: '1996'
+    instruments: []
+    mbid: 72a7ae58-d1fa-493d-8f4b-1bf43e6479c6
+    name: Daniel Webster
+  - begin: '1978'
+    end: '1996'
+    instruments: []
+    mbid: fdfa5368-9962-4d41-b332-1180dead02eb
+    name: Ray Turner
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0df4ba7d-f65d-48ee-a6db-e9c0821d04f4
+    name: Steve Arrington
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: dcb579d1-fa09-4a60-b7b3-de75db30c998
+    name: Sam Carter
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3f26a3f5-d856-45f3-bd78-35b2eae8a68f
+    name: Kenni Hairston
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1c3646bc-3553-4772-a669-be7e393bf9f6
+    name: Buddy Hankerson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: da805b95-20f5-423e-b074-7ec51f4e47c0
+    name: Curt Jones
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 48565054-5ae8-413f-849b-234d79cab230
+    name: Floyd Miller
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 93ccdcec-efab-4277-9d88-a4d554985063
+    name: Keith Nash
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3c8009bd-8c14-4ebb-985a-1473faaf179f
+    name: Delbert Taylor
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bf992f64-5c05-46c5-af86-2267727246b9
+    name: Stephen C. Washington
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ed36bc02-4bc9-48b7-ad13-efea6e4e4324
+    name: Starleana Young
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3ffc9ed7-3339-4f2b-b7da-2183a4507684
+    name: Roger Parker
 musicbrainz_id: 29da6ed6-2501-40bf-83e9-9f22d872dd5a
-origin: Dayton
+origin: 'Dayton, Ohio, United States'
 tags:
-- funk
+  - funk
 ---
 
 ![](slave.jpg)

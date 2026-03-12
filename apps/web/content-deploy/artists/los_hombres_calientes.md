@@ -1,12 +1,12 @@
 ---
-title: los hombres calientes
+title: Los Hombres Calientes
 wiki_slug: los-hombres-calientes
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 birth_date: '1998'
 genres:
-- latin jazz
+  - latin jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/los_hombres_calientes.jpg
   caption: los hombres calientes
@@ -27,80 +27,92 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jason Marsalis
-  - Victor "Red" Atkins
-  - Edwin Livingston
-  - Yvette Bostic-Summers
-  - Louisiana Philharmonic String Quartet
-  - Leon "Kid Chocolate" Brown
+    - Jason Marsalis
+    - Victor "Red" Atkins
+    - Edwin Livingston
+    - Yvette Bostic-Summers
+    - Louisiana Philharmonic String Quartet
+    - Leon "Kid Chocolate" Brown
   influenced: []
   mentors:
-  - Jeff "Tain" Watts
-  - Herbie Hancock's Headhunters
+    - Jeff "Tain" Watts
+    - Herbie Hancock's Headhunters
 spotify_data:
   followers: 1656
   id: 1O9q4yWaDd0F6iVAXj3Nfr
   popularity: 7
-  url: https://open.spotify.com/artist/1O9q4yWaDd0F6iVAXj3Nfr
+  url: 'https://open.spotify.com/artist/1O9q4yWaDd0F6iVAXj3Nfr'
 discography_enriched: true
 top_tracks:
-- Mardi Gras Second Line (feat. Troy "Trombone Shorty" Andrews, Kermit Ruffins, Rebirth Brass Band, John Boutté) (A Love Letter to New Orleans)
-- 'New Second Line - Mardi Gras 2001 (feat. Kermit Ruffins) (Vol. 3: New Congo Square)'
-- El Barrio (feat. Cyril Neville, Gaynielle Housey-Neville, And Phillip Manuel) (Los Hombres Calientes)
-- 'The Mardi Gras Second Line (feat. Kermit Ruffins, Rebirth Brass Band, & Trombone Shorty) (Vol. 5: Carnival)'
-- 'Cubacajun Carnival (Vol. 5: Carnival)'
-- 'Foforo fo Firi (feat. Issac Delgado) (Vol. 3: New Congo Square)'
-- James Booker (feat. Carlos Henriquez) (A Love Letter to New Orleans)
-- 'James Booker (Vol. 5: Carnival)'
-- 'The Mardi Gras Second Line - with Kermit Ruffins, Rebirth Brass Band, Trombone Shorty (Nothing But A Party: Basin Street Records'' New Orleans Mardi Gras Collection)'
-- Latin Tinge II (A Love Letter to New Orleans)
+  - >-
+    Mardi Gras Second Line (feat. Troy "Trombone Shorty" Andrews, Kermit
+    Ruffins, Rebirth Brass Band, John Boutté) (A Love Letter to New Orleans)
+  - >-
+    New Second Line - Mardi Gras 2001 (feat. Kermit Ruffins) (Vol. 3: New Congo
+    Square)
+  - >-
+    El Barrio (feat. Cyril Neville, Gaynielle Housey-Neville, And Phillip
+    Manuel) (Los Hombres Calientes)
+  - >-
+    The Mardi Gras Second Line (feat. Kermit Ruffins, Rebirth Brass Band, &
+    Trombone Shorty) (Vol. 5: Carnival)
+  - 'Cubacajun Carnival (Vol. 5: Carnival)'
+  - 'Foforo fo Firi (feat. Issac Delgado) (Vol. 3: New Congo Square)'
+  - James Booker (feat. Carlos Henriquez) (A Love Letter to New Orleans)
+  - 'James Booker (Vol. 5: Carnival)'
+  - >-
+    The Mardi Gras Second Line - with Kermit Ruffins, Rebirth Brass Band,
+    Trombone Shorty (Nothing But A Party: Basin Street Records' New Orleans
+    Mardi Gras Collection)
+  - Latin Tinge II (A Love Letter to New Orleans)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a3c93d6c-321b-4ee3-9004-8bf8ce2311a3
-  spotify: https://open.spotify.com/artist/1O9q4yWaDd0F6iVAXj3Nfr
-  wikipedia: https://en.wikipedia.org/wiki/Los_Hombres_Calientes
+  musicbrainz: 'https://musicbrainz.org/artist/a3c93d6c-321b-4ee3-9004-8bf8ce2311a3'
+  spotify: 'https://open.spotify.com/artist/1O9q4yWaDd0F6iVAXj3Nfr'
+  wikipedia: 'https://en.wikipedia.org/wiki/Los_Hombres_Calientes'
 image_path: 03_Resources/source_material/ArtistPortraits/los_hombres_calientes.jpg
 biography_enhanced_at: '2025-11-27T06:37:50.002831'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://jazztimes.com/features/profiles/los-hombres-calientes-big-bad-voodoo-daddies/
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/los-hombres-calientes
-- https://en.wikipedia.org/wiki/Los_Hombres_Calientes
-- https://www.hollywoodbowl.com/musicdb/artists/3223/los-hombres-calientes
+  - >-
+    https://jazztimes.com/features/profiles/los-hombres-calientes-big-bad-voodoo-daddies/
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/los-hombres-calientes
+  - 'https://en.wikipedia.org/wiki/Los_Hombres_Calientes'
+  - 'https://www.hollywoodbowl.com/musicdb/artists/3223/los-hombres-calientes'
 network_extracted: true
 entry_created: '2025-11-27T06:37:50.002847'
 last_updated: '2025-12-23T08:16:12.148529'
 members:
-- &id001
-  begin: '1998'
-  end: ''
-  instruments: []
-  mbid: 4aa93ee7-7a97-41e8-8940-565c1a3e7bae
-  name: Irvin Mayfield
-- &id002
-  begin: '1998'
-  end: ''
-  instruments: []
-  mbid: 85c62467-5f87-4f81-aeae-f02f7a67ee71
-  name: Bill Summers
-- begin: ''
-  end: '2000'
-  instruments: []
-  mbid: dee32178-b8fc-4c8f-b435-112c57a9175a
-  name: Jason Marsalis
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 48d3d483-c6e7-4a2b-9ef6-a85e785a50c3
-  name: Victor Atkins
+  - &ref_0
+    begin: '1998'
+    end: ''
+    instruments: []
+    mbid: 4aa93ee7-7a97-41e8-8940-565c1a3e7bae
+    name: Irvin Mayfield
+  - &ref_1
+    begin: '1998'
+    end: ''
+    instruments: []
+    mbid: 85c62467-5f87-4f81-aeae-f02f7a67ee71
+    name: Bill Summers
+  - begin: ''
+    end: '2000'
+    instruments: []
+    mbid: dee32178-b8fc-4c8f-b435-112c57a9175a
+    name: Jason Marsalis
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 48d3d483-c6e7-4a2b-9ef6-a85e785a50c3
+    name: Victor Atkins
 musicbrainz_id: a3c93d6c-321b-4ee3-9004-8bf8ce2311a3
-origin: New Orleans
+origin: 'New Orleans, Louisiana, United States'
 original_members:
-- *id001
-- *id002
+  - *ref_0
+  - *ref_1
 tags:
-- jazz
-
+  - jazz
 ---
 
 ![](los_hombres_calientes.jpg)

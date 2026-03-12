@@ -2,21 +2,22 @@
 title: Sonny Terry & Brownie McGhee
 wiki_slug: sonny-terry-brownie-mcghee
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
-birth_date: '1942'
+birth_date: '1911-10-24'
 genres:
-- blues
-- country blues
-- classic blues
+  - blues
+  - country blues
+  - classic blues
 instruments:
-- eponymous
-- guitar
-- lead vocals
-- original
-- harmonica
+  - eponymous
+  - guitar
+  - lead vocals
+  - original
+  - harmonica
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/sonny_terry_and_brownie_mcghee.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/sonny_terry_and_brownie_mcghee.jpg
   caption: Sonny Terry & Brownie McGhee
   background: group_or_band
   born: '1942'
@@ -35,74 +36,78 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Brownie McGhee
-  - Woody Guthrie
-  - Pete Seeger
-  - Leadbelly
-  - Lightnin’ Hopkins
+    - Brownie McGhee
+    - Woody Guthrie
+    - Pete Seeger
+    - Leadbelly
+    - Lightnin’ Hopkins
   influenced:
-  - Paul Butterfield
-  - John Sebastian
-  - Taj Mahal
+    - Paul Butterfield
+    - John Sebastian
+    - Taj Mahal
   mentors:
-  - Blind Boy Fuller
-  - DeFord Bailey
+    - Blind Boy Fuller
+    - DeFord Bailey
 spotify_data:
   followers: 20172
   id: 7GQR0UJuWkRH8TTrdmteEw
   popularity: 19
-  url: https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw
+  url: 'https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw'
 discography_enriched: true
 top_tracks:
-- Better Day (Brownie McGhee and Sonny Terry Sing)
-- 'Walk On (Absolutely The Best: Sonny Terry and Brownie McGhee)'
-- Robbie-Doby Boogie (Greatest Country Blues)
-- Walk On (An Introduction To Sonny Terry & Brownie McGhee)
-- Key To The Highway (Hometown Blues)
-- 'Down By The Riverside (Absolutely The Best: Sonny Terry and Brownie McGhee)'
-- John Henry (Brownie McGhee and Sonny Terry Sing)
-- Walk On
-- Sittin' On Top Of The World (Hometown Blues)
-- Preachin' the Blues (Brownie McGhee and Sonny Terry Sing)
+  - Better Day (Brownie McGhee and Sonny Terry Sing)
+  - 'Walk On (Absolutely The Best: Sonny Terry and Brownie McGhee)'
+  - Robbie-Doby Boogie (Greatest Country Blues)
+  - Walk On (An Introduction To Sonny Terry & Brownie McGhee)
+  - Key To The Highway (Hometown Blues)
+  - 'Down By The Riverside (Absolutely The Best: Sonny Terry and Brownie McGhee)'
+  - John Henry (Brownie McGhee and Sonny Terry Sing)
+  - Walk On
+  - Sittin' On Top Of The World (Hometown Blues)
+  - Preachin' the Blues (Brownie McGhee and Sonny Terry Sing)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5ad7dfd8-b8db-47c3-b380-208aed55c3f3
-  spotify: https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw
-  wikipedia: https://en.wikipedia.org/wiki/Sonny_Terry
-image_path: 03_Resources/source_material/ArtistPortraits/sonny_terry_and_brownie_mcghee.jpg
+  musicbrainz: 'https://musicbrainz.org/artist/5ad7dfd8-b8db-47c3-b380-208aed55c3f3'
+  spotify: 'https://open.spotify.com/artist/7GQR0UJuWkRH8TTrdmteEw'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sonny_Terry'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/sonny_terry_and_brownie_mcghee.jpg
 biography_enhanced_at: '2025-10-23T07:37:51.650288'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://concord.com/artist/sonny-terry/
-- https://www.britannica.com/biography/Sonny-Terry
-- https://earlyblues.org/british-blues-articles-and-essays-sonny-terry-brownie-mcghee/
-- https://en.wikipedia.org/wiki/Sonny_Terry
-- https://www.arts.gov/honors/heritage/sanders-sonny-terry
-- https://folkways.si.edu/brownie-mcghee-and-sonny-terry-sing
+  - 'https://concord.com/artist/sonny-terry/'
+  - 'https://www.britannica.com/biography/Sonny-Terry'
+  - >-
+    https://earlyblues.org/british-blues-articles-and-essays-sonny-terry-brownie-mcghee/
+  - 'https://en.wikipedia.org/wiki/Sonny_Terry'
+  - 'https://www.arts.gov/honors/heritage/sanders-sonny-terry'
+  - 'https://folkways.si.edu/brownie-mcghee-and-sonny-terry-sing'
 network_extracted: true
 entry_created: '2025-10-23T07:37:51.650304'
 last_updated: '2025-12-23T08:16:15.929139'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - guitar
-  - lead vocals
-  - original
-  mbid: 9d48cb68-cd4d-49fe-b7a8-d31deb678fe8
-  name: Brownie McGhee
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - harmonica
-  - lead vocals
-  - original
-  mbid: 3e07fca6-2c7f-4fc1-a138-ec6cd7e4be8a
-  name: Sonny Terry
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - guitar
+      - lead vocals
+      - original
+    mbid: 9d48cb68-cd4d-49fe-b7a8-d31deb678fe8
+    name: Brownie McGhee
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - harmonica
+      - lead vocals
+      - original
+    mbid: 3e07fca6-2c7f-4fc1-a138-ec6cd7e4be8a
+    name: Sonny Terry
 musicbrainz_id: 5ad7dfd8-b8db-47c3-b380-208aed55c3f3
-origin: New York
+origin: 'New York, New York, United States'
+birth_place: 'Greensboro, Georgia, United States'
+death_date: '1986'
 ---
 
 ![](sonny_terry_and_brownie_mcghee.jpg)

@@ -1,22 +1,22 @@
 ---
-title: wizkid
+title: Wizkid
 wiki_slug: wizkid
 schema_version: 2
 status: active
-birth_place: Surulere, Lagos, Nigeria
+birth_place: 'Surulere, Lagos, Nigeria'
 genres:
-- afrobeats
-- afrobeat
-- afropop
-- azonto
-- afroswing
-- afropiano
-- dancehall
+  - afrobeats
+  - afrobeat
+  - afropop
+  - azonto
+  - afroswing
+  - afropiano
+  - dancehall
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/wizkid.jpg
   caption: wizkid
   background: solo_singer
-  origin: Surulere, Lagos, Nigeria
+  origin: 'Surulere, Lagos, Nigeria'
 audio_profile:
   tempo_avg: 110.7
   energy_avg: 0.677
@@ -32,53 +32,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Drake
-  - Beyoncé
-  - Major Lazer
-  - Naeto C
+    - Drake
+    - Beyoncé
+    - Major Lazer
+    - Naeto C
   influenced:
-  - Burna Boy
-  - Davido
-  - Tems
+    - Burna Boy
+    - Davido
+    - Tems
   mentors:
-  - OJB Jezreel
-  - Banky W
-  - 2 Face Idibia
-  - Sound Sultan
+    - OJB Jezreel
+    - Banky W
+    - 2 Face Idibia
+    - Sound Sultan
 spotify_data:
   followers: 9647857
   id: 3tVQdUvClmAT7URs9V3rsp
   popularity: 81
-  url: https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp
+  url: 'https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp'
 discography_enriched: true
 top_tracks:
-- One Dance (Views)
-- Essence (feat. Tems) (Made In Lagos)
-- MMS (Lungu Boy)
-- Billionaires Club (Olamidé)
-- Kese (Dance) (Morayo)
-- Bad Girl (feat. Asake) (Morayo)
-- Piece of My Heart (feat. Brent Faiyaz) (Morayo)
-- Slow (feat. Anaïs Cardot) (Morayo)
-- Lighter
-- Après Minuit (feat. Tiakola) (Morayo)
+  - One Dance (Views)
+  - Essence (feat. Tems) (Made In Lagos)
+  - MMS (Lungu Boy)
+  - Billionaires Club (Olamidé)
+  - Kese (Dance) (Morayo)
+  - Bad Girl (feat. Asake) (Morayo)
+  - Piece of My Heart (feat. Brent Faiyaz) (Morayo)
+  - Slow (feat. Anaïs Cardot) (Morayo)
+  - Lighter
+  - Après Minuit (feat. Tiakola) (Morayo)
 external_urls:
-  spotify: https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp
-  wikipedia: https://en.wikipedia.org/wiki/Wizkid
+  spotify: 'https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp'
+  wikipedia: 'https://en.wikipedia.org/wiki/Wizkid'
 image_path: 03_Resources/source_material/ArtistPortraits/wizkid.jpg
 biography_enhanced_at: '2025-11-23T06:33:42.060450'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Wizkid
-- https://musiclyrics.com/artist/wizkid/
-- https://www.ghanawebbers.com/person/Wizkid-5599
-- https://www.dockaysworld.com.ng/wizkid-biography-age-wife-and-children/
-- https://nationaltoday.com/birthday/wizkid/
+  - 'https://en.wikipedia.org/wiki/Wizkid'
+  - 'https://musiclyrics.com/artist/wizkid/'
+  - 'https://www.ghanawebbers.com/person/Wizkid-5599'
+  - 'https://www.dockaysworld.com.ng/wizkid-biography-age-wife-and-children/'
+  - 'https://nationaltoday.com/birthday/wizkid/'
 network_extracted: true
 entry_created: '2025-11-23T06:33:42.060458'
 last_updated: '2025-12-23T08:16:18.259993'
-
+birth_date: '1990-07-16'
+artist_type: person
 ---
 
 ![](wizkid.jpg)

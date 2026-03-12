@@ -1,15 +1,15 @@
 ---
-title: PAUL CORNISH
+title: Paul Cornish
 wiki_slug: paul-cornish
 schema_version: 2
 status: active
-birth_place: Houston, Texas, USA
+birth_place: 'Houston, Texas, USA'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/PAUL_CORNISH.jpg
   caption: PAUL CORNISH
   background: solo_singer
-  origin: Houston, Texas, USA
+  origin: 'Houston, Texas, USA'
 audio_profile:
   tempo_avg: 113.9
   energy_avg: 0.518
@@ -25,46 +25,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Joshua Redman
-  - Kanye West
-  - Louis Cole
-  - HAIM
+    - Joshua Redman
+    - Kanye West
+    - Louis Cole
+    - HAIM
   influenced: []
   mentors:
-  - Herbie Hancock
-  - Wayne Shorter
-  - Robert Glasper
+    - Herbie Hancock
+    - Wayne Shorter
+    - Robert Glasper
 spotify_data:
   followers: 7
   id: 5Q0eMcdJs94WKKEz6DS1Zk
   popularity: 1
-  url: https://open.spotify.com/artist/5Q0eMcdJs94WKKEz6DS1Zk
+  url: 'https://open.spotify.com/artist/5Q0eMcdJs94WKKEz6DS1Zk'
 discography_enriched: true
 top_tracks:
-- Golden Age (Outside World 3)
-- Fall In Fall Out (Outside World 3)
-- Breathing Wish (Outside World 3)
-- Outro (Outside World 3)
-- Second to None (Tomorrow's Journey)
-- Where Within (Floor Plans)
-- Spiders (Floor Plans)
-- Tomorrow's Journey (Tomorrow's Journey)
-- DSP (Floor Plans)
-- Reminisce (Reminisce)
+  - Golden Age (Outside World 3)
+  - Fall In Fall Out (Outside World 3)
+  - Breathing Wish (Outside World 3)
+  - Outro (Outside World 3)
+  - Second to None (Tomorrow's Journey)
+  - Where Within (Floor Plans)
+  - Spiders (Floor Plans)
+  - Tomorrow's Journey (Tomorrow's Journey)
+  - DSP (Floor Plans)
+  - Reminisce (Reminisce)
 external_urls:
-  spotify: https://open.spotify.com/artist/5Q0eMcdJs94WKKEz6DS1Zk
+  spotify: 'https://open.spotify.com/artist/5Q0eMcdJs94WKKEz6DS1Zk'
   wikipedia: Not available
 image_path: ''
 biography_enhanced_at: '2025-10-20T10:03:31.758398'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.everythingjazz.com/story/paul-cornish-truth-is-everything/
-- https://www.paulcornishmusic.com/about/
-- https://www.yamaha.com/yasi/artists/details.html?CNTID=7207816&type=jazz
+  - 'https://www.everythingjazz.com/story/paul-cornish-truth-is-everything/'
+  - 'https://www.paulcornishmusic.com/about/'
+  - 'https://www.yamaha.com/yasi/artists/details.html?CNTID=7207816&type=jazz'
 network_extracted: true
 entry_created: '2025-10-20T10:03:31.758412'
 last_updated: '2025-12-23T08:16:03.518068'
+artist_type: person
 ---
 
 ![]()

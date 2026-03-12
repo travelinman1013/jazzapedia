@@ -1,23 +1,23 @@
 ---
-title: JOHN PRINE
+title: John Prine
 wiki_slug: john-prine
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1946-10-10'
-birth_place: Maywood, Illinois, United States
+birth_place: 'Maywood, Illinois, United States'
 death_date: '2020-04-07'
 genres:
-- americana
-- folk
-- singer-songwriter
-- alt country
+  - americana
+  - folk
+  - singer-songwriter
+  - alt country
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/JOHN_PRINE.jpg
   caption: JOHN PRINE
   background: solo_singer
   born: '1946-10-10'
-  origin: Maywood, Illinois, United States
+  origin: 'Maywood, Illinois, United States'
   died: '2020-04-07'
 audio_profile:
   tempo_avg: 130.2
@@ -34,49 +34,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Howie Epstein
-  - Roger Cook
-  - Iris DeMent
-  - Margo Timmins
-  - Lucinda Williams
-  - Emmylou Harris
+    - Howie Epstein
+    - Roger Cook
+    - Iris DeMent
+    - Margo Timmins
+    - Lucinda Williams
+    - Emmylou Harris
   influenced:
-  - Nanci Griffith
-  - Todd Snider
-  - Alternative country musicians
+    - Nanci Griffith
+    - Todd Snider
+    - Alternative country musicians
   mentors:
-  - Dave Prine
-  - Kris Kristofferson
-  - Steve Goodman
+    - Dave Prine
+    - Kris Kristofferson
+    - Steve Goodman
 spotify_data:
   followers: 624637
   id: 0nJUwPwC9Ti4vvuJ0q3MfT
   popularity: 57
-  url: https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT
+  url: 'https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT'
 discography_enriched: true
 top_tracks:
-- In Spite of Ourselves (In Spite Of Ourselves)
-- Clay Pigeons (Fair and Square)
-- Angel from Montgomery (John Prine)
-- That's the Way That the World Goes 'Round (Bruised Orange)
-- How Lucky
-- Paradise (John Prine)
-- Long Monday (Fair and Square)
-- Fish and Whistle (Bruised Orange)
-- Summer's End (The Tree of Forgiveness)
-- Spanish Pipedream (John Prine)
+  - In Spite of Ourselves (In Spite Of Ourselves)
+  - Clay Pigeons (Fair and Square)
+  - Angel from Montgomery (John Prine)
+  - That's the Way That the World Goes 'Round (Bruised Orange)
+  - How Lucky
+  - Paradise (John Prine)
+  - Long Monday (Fair and Square)
+  - Fish and Whistle (Bruised Orange)
+  - Summer's End (The Tree of Forgiveness)
+  - Spanish Pipedream (John Prine)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e86492c1-0376-4df0-8042-8ba058c83960
-  spotify: https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT
-  wikipedia: https://en.wikipedia.org/wiki/John_Prine
+  musicbrainz: 'https://musicbrainz.org/artist/e86492c1-0376-4df0-8042-8ba058c83960'
+  spotify: 'https://open.spotify.com/artist/0nJUwPwC9Ti4vvuJ0q3MfT'
+  wikipedia: 'https://en.wikipedia.org/wiki/John_Prine'
 image_path: 03_Resources/source_material/ArtistPortraits/JOHN_PRINE.jpg
 biography_enhanced_at: '2025-10-21T06:55:21.871682'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/John_Prine
-- https://www.ebsco.com/research-starters/biography/john-prine
-- https://bittersoutherner.com/the-big-old-goofy-world-of-john-prine
+  - 'https://en.wikipedia.org/wiki/John_Prine'
+  - 'https://www.ebsco.com/research-starters/biography/john-prine'
+  - 'https://bittersoutherner.com/the-big-old-goofy-world-of-john-prine'
 network_extracted: true
 entry_created: '2025-10-21T06:55:21.871700'
 last_updated: '2025-12-23T08:16:02.649919'
@@ -84,9 +84,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:32:08.930168'
 musicbrainz_id: e86492c1-0376-4df0-8042-8ba058c83960
 tags:
-- american singer
-- american songwriter
-- classic pop and rock
+  - american singer
+  - american songwriter
+  - classic pop and rock
+is_active: false
 ---
 
 ![](JOHN_PRINE.jpg)

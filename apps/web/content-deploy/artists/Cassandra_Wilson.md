@@ -6,30 +6,30 @@ status: active
 birth_name: Cassandra Wilson
 aliases: []
 birth_date: '1955-12-04'
-birth_place: Jackson, Mississippi, United States
+birth_place: 'Jackson, Mississippi, United States'
 years_active: 1985–present
 genres:
-- vocal jazz
-- jazz
+  - vocal jazz
+  - jazz
 instruments:
-- voice
+  - voice
 occupation:
-- jazz singer
-- songwriter
-- jazz musician
-- recording artist
-- singer
+  - jazz singer
+  - songwriter
+  - jazz musician
+  - recording artist
+  - singer
 record_labels:
-- JMT Records
+  - JMT Records
 spouse:
-- Isaach de Bankolé
+  - Isaach de Bankolé
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Cassandra_Wilson.jpg
   caption: Cassandra Wilson
   background: solo_singer
   birth_name: Cassandra Wilson
   born: '1955-12-04'
-  origin: Jackson, Mississippi, United States
+  origin: 'Jackson, Mississippi, United States'
 audio_profile:
   tempo_avg: 114.1
   energy_avg: 0.307
@@ -45,55 +45,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Steve Coleman
-  - Dave Holland
-  - Abbey Lincoln
-  - Wynton Marsalis
-  - Fabrizio Sotti
+    - Steve Coleman
+    - Dave Holland
+    - Abbey Lincoln
+    - Wynton Marsalis
+    - Fabrizio Sotti
   influenced:
-  - Lizz Wright
-  - Norah Jones
+    - Lizz Wright
+    - Norah Jones
   mentors:
-  - Ellis Marsalis
-  - Alvin Batiste
-  - Earl Turbinton
+    - Ellis Marsalis
+    - Alvin Batiste
+    - Earl Turbinton
 related_artists: []
 spotify_data:
   followers: 90340
   id: 6TZ5t4kclsmGWHqb3mGyha
   popularity: 41
-  url: https://open.spotify.com/artist/6TZ5t4kclsmGWHqb3mGyha
+  url: 'https://open.spotify.com/artist/6TZ5t4kclsmGWHqb3mGyha'
   verified: false
 discography_enriched: true
 albums_count: 12
 singles_count: 5
 top_tracks:
-- Fragile (Glamoured)
-- Harvest Moon (New Moon Daughter)
-- You Don't Know What Love Is (Blue Light 'Til Dawn)
-- Death Letter (New Moon Daughter)
-- Sign Of The Judgment - From The HBO Series True Detective
-- I'm Only Human (I Know)
-- The Way You Look Tonight (Coming Forth by Day)
-- Time After Time (Traveling Miles)
-- Sky And Sea (Blue In Green) (Traveling Miles)
-- Lover Come Back To Me (Loverly)
+  - Fragile (Glamoured)
+  - Harvest Moon (New Moon Daughter)
+  - You Don't Know What Love Is (Blue Light 'Til Dawn)
+  - Death Letter (New Moon Daughter)
+  - Sign Of The Judgment - From The HBO Series True Detective
+  - I'm Only Human (I Know)
+  - The Way You Look Tonight (Coming Forth by Day)
+  - Time After Time (Traveling Miles)
+  - Sky And Sea (Blue In Green) (Traveling Miles)
+  - Lover Come Back To Me (Loverly)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/6TZ5t4kclsmGWHqb3mGyha
-  wikipedia: https://en.wikipedia.org/wiki/Cassandra_Wilson
+  spotify: 'https://open.spotify.com/artist/6TZ5t4kclsmGWHqb3mGyha'
+  wikipedia: 'https://en.wikipedia.org/wiki/Cassandra_Wilson'
 image_path: 03_Resources/source_material/ArtistPortraits/Cassandra_Wilson.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:32:56.964375'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Cassandra_Wilson
-- https://www.bluenote.com/artist/cassandra-wilson/
+  - 'https://en.wikipedia.org/wiki/Cassandra_Wilson'
+  - 'https://www.bluenote.com/artist/cassandra-wilson/'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:45:27.171066
+entry_created: 2025-09-22T21:45:27.171Z
 last_updated: '2025-12-23T08:16:01.471570'
+artist_type: person
 ---
 
 ![](Cassandra_Wilson.jpg)

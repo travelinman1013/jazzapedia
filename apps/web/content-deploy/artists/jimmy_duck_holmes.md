@@ -1,45 +1,51 @@
 ---
 biography_enhanced_at: '2025-12-26T01:29:04.628999'
-birth_place: Bentonia, Mississippi, USA
+birth_place: 'Bentonia, Mississippi, USA'
 enhancement_provider: perplexity
 entry_created: '2025-12-26T01:29:04.629013'
 external_urls:
-  spotify: https://open.spotify.com/artist/366oWbbebUqu4ovO0F0V5D
+  spotify: 'https://open.spotify.com/artist/366oWbbebUqu4ovO0F0V5D'
   wikipedia: ''
 genres:
-- blues
-- classic blues
-- modern blues
-- country blues
+  - blues
+  - classic blues
+  - modern blues
+  - country blues
 image_path: 03_Resources/source_material/ArtistPortraits/jimmy_duck_holmes.jpg
 last_updated: '2025-12-26T01:29:04.629014'
 musical_connections:
   collaborators:
-  - Jack Owens
-  - Cornelius Bright
-  - Cleo Pullum
-  - Lightnin' Malcolm
+    - Jack Owens
+    - Cornelius Bright
+    - Cleo Pullum
+    - Lightnin' Malcolm
   influenced: []
   mentors:
-  - Henry Stuckey
-  - Jack Owens
-  - Bud
-  - Tommy West
+    - Henry Stuckey
+    - Jack Owens
+    - Bud
+    - Tommy West
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://thebluegrasssituation.com/read/counsel-of-elders-jimmy-duck-holmes-on-learning-the-blues/
-- https://www.allaboutjazz.com/musicians/jimmy-duck-holmes/
-- https://www.richmondfolkfestival.org/2022-performers-b/2022/8/8/jimmy-duck-holmes
-- https://www.nationalfolkfestival.com/folklife/jimmy-duck-holmes
-- https://www.wwno.org/show/american-routes/2024-10-18/american-routes-shortcuts-jimmy-duck-holmes
+  - >-
+    https://thebluegrasssituation.com/read/counsel-of-elders-jimmy-duck-holmes-on-learning-the-blues/
+  - 'https://www.allaboutjazz.com/musicians/jimmy-duck-holmes/'
+  - >-
+    https://www.richmondfolkfestival.org/2022-performers-b/2022/8/8/jimmy-duck-holmes
+  - 'https://www.nationalfolkfestival.com/folklife/jimmy-duck-holmes'
+  - >-
+    https://www.wwno.org/show/american-routes/2024-10-18/american-routes-shortcuts-jimmy-duck-holmes
 spotify_data:
   followers: 11185
   id: 366oWbbebUqu4ovO0F0V5D
   popularity: 24
-  url: https://open.spotify.com/artist/366oWbbebUqu4ovO0F0V5D
+  url: 'https://open.spotify.com/artist/366oWbbebUqu4ovO0F0V5D'
 status: active
 title: Jimmy 'Duck' Holmes
+origin: 'Bentonia, Mississippi, United States'
+birth_date: '1947-07-28'
+artist_type: person
 ---
 
 ![](jimmy_duck_holmes.jpg)

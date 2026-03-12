@@ -23,43 +23,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mike “Soulman” Baptiste & The Soul Mystics
+    - Mike “Soulman” Baptiste & The Soul Mystics
   influenced: []
   mentors: []
 spotify_data:
   followers: 1122
   id: 0SCOlruE5uDk5wPW5GPQMa
   popularity: 13
-  url: https://open.spotify.com/artist/0SCOlruE5uDk5wPW5GPQMa
+  url: 'https://open.spotify.com/artist/0SCOlruE5uDk5wPW5GPQMa'
 discography_enriched: true
 top_tracks:
-- 'Yemaya: Yemaya Olodo (Spirit of the Orisha)'
-- 'Oshun: Ide Were Were (Spirit of the Orisha)'
-- 'Esu: Alaroye (Spirit of the Orisha)'
-- 'Orunmila: Orunmila Talade (Spirit of the Orisha)'
-- 'Esu: Ase'' Mojuba Orisa (Spirit of the Orisha)'
-- 'Esu: Elegua Go Anya (Spirit of the Orisha)'
-- 'Nana Buruku: A Kama Olodo (Spirit of the Orisha)'
-- 'Ochosi: O Mu Mi (Spirit of the Orisha)'
-- 'Esu: Reso (Bara Su Wa Yo) (Spirit of the Orisha)'
-- 'Esu: Aso Kere Kere (Spirit of the Orisha)'
+  - 'Yemaya: Yemaya Olodo (Spirit of the Orisha)'
+  - 'Oshun: Ide Were Were (Spirit of the Orisha)'
+  - 'Esu: Alaroye (Spirit of the Orisha)'
+  - 'Orunmila: Orunmila Talade (Spirit of the Orisha)'
+  - 'Esu: Ase'' Mojuba Orisa (Spirit of the Orisha)'
+  - 'Esu: Elegua Go Anya (Spirit of the Orisha)'
+  - 'Nana Buruku: A Kama Olodo (Spirit of the Orisha)'
+  - 'Ochosi: O Mu Mi (Spirit of the Orisha)'
+  - 'Esu: Reso (Bara Su Wa Yo) (Spirit of the Orisha)'
+  - 'Esu: Aso Kere Kere (Spirit of the Orisha)'
 external_urls:
-  spotify: https://open.spotify.com/artist/0SCOlruE5uDk5wPW5GPQMa
+  spotify: 'https://open.spotify.com/artist/0SCOlruE5uDk5wPW5GPQMa'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/zion_trinity.jpg
 biography_enhanced_at: '2025-12-15T01:36:23.532509'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Mid-City Messenger – “Friday Nights at NOMA to feature music by Zion Trinity” (2015-06-11)[2]
-- Qwest TV – “New Orleans Live Ep. 8 – Mike Soulman Baptiste & The Soul Mystics ft. The New Orleans Suspects, Zion Trinity”
-  description[1]
-- Spotify artist page – Zion Trinity[4]
-- ReverbNation – ZION TRINITY BAND profile[5]
+  - >-
+    Mid-City Messenger – “Friday Nights at NOMA to feature music by Zion
+    Trinity” (2015-06-11)[2]
+  - >-
+    Qwest TV – “New Orleans Live Ep. 8 – Mike Soulman Baptiste & The Soul
+    Mystics ft. The New Orleans Suspects, Zion Trinity” description[1]
+  - 'Spotify artist page – Zion Trinity[4]'
+  - 'ReverbNation – ZION TRINITY BAND profile[5]'
 network_extracted: true
 entry_created: '2025-12-15T01:36:23.532524'
 last_updated: '2025-12-23T08:16:18.462880'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![](zion_trinity.jpg)

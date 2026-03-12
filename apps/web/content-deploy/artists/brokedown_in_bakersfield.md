@@ -2,11 +2,11 @@
 title: Brokedown in Bakersfield
 wiki_slug: brokedown-in-bakersfield
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- alt country
-- americana
+  - alt country
+  - americana
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/brokedown_in_bakersfield.jpg
   caption: Brokedown in Bakersfield
@@ -26,59 +26,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Nicki Bluhm
-  - Tim Bluhm
-  - Scott Law
-  - Dan "Lebo" Lebowitz
-  - Steve Adams
-  - Dave Brogan
-  - Dan Prothero
+    - Nicki Bluhm
+    - Tim Bluhm
+    - Scott Law
+    - Dan "Lebo" Lebowitz
+    - Steve Adams
+    - Dave Brogan
+    - Dan Prothero
   influenced:
-  - ''
+    - ''
   mentors:
-  - Merle Haggard
-  - Buck Owens
-  - George Jones
-  - Gram Parsons
-  - Wynn Stewart
+    - Merle Haggard
+    - Buck Owens
+    - George Jones
+    - Gram Parsons
+    - Wynn Stewart
 spotify_data:
   followers: 665
   id: 6J1m8JWSdM66fLPhfHxIJl
   popularity: 2
-  url: https://open.spotify.com/artist/6J1m8JWSdM66fLPhfHxIJl
+  url: 'https://open.spotify.com/artist/6J1m8JWSdM66fLPhfHxIJl'
 discography_enriched: true
 top_tracks:
-- Workin' Man Blues (Live!)
-- Squeaky Wheel (Live!)
-- California Cotton Fields (Live!)
-- Cash on the Barrelhead (Live!)
-- You're Still On My Mind (Live!)
-- My Baby's Gone (Live!)
-- Where I Parked My Mind (Live!)
-- Sing A Sad Song (Live!)
-- Swinging Doors (Live!)
-- Luxury Liner (Live!)
+  - Workin' Man Blues (Live!)
+  - Squeaky Wheel (Live!)
+  - California Cotton Fields (Live!)
+  - Cash on the Barrelhead (Live!)
+  - You're Still On My Mind (Live!)
+  - My Baby's Gone (Live!)
+  - Where I Parked My Mind (Live!)
+  - Sing A Sad Song (Live!)
+  - Swinging Doors (Live!)
+  - Luxury Liner (Live!)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c6b994bb-0074-48df-a6ab-b67fd0123ffa
-  spotify: https://open.spotify.com/artist/6J1m8JWSdM66fLPhfHxIJl
+  musicbrainz: 'https://musicbrainz.org/artist/c6b994bb-0074-48df-a6ab-b67fd0123ffa'
+  spotify: 'https://open.spotify.com/artist/6J1m8JWSdM66fLPhfHxIJl'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/brokedown_in_bakersfield.jpg
 biography_enhanced_at: '2025-12-20T01:16:29.810413'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Jambands.com – "Brokedown in Bakersfield Once Again"[1]
-- Royal Artist Group – "Brokedown in Bakersfield" artist page[2]
-- Wikipedia – Tim Bluhm biography (mentions membership in Brokedown in Bakersfield)[3]
-- JamBase – "Brokedown In Bakersfield Live!" article and dates[4]
-- Hardly Strictly Bluegrass – Artist listing for Brokedown in Bakersfield (featuring Nicki & Tim Bluhm, Scott Law, Lebo, Steve
-  Adams, Dave Brogan)[5]
-- Dolger Artist Stores – "Brokedown in Bakersfield - Live!" vinyl product page with track list and production credits[6]
+  - 'Jambands.com – "Brokedown in Bakersfield Once Again"[1]'
+  - 'Royal Artist Group – "Brokedown in Bakersfield" artist page[2]'
+  - >-
+    Wikipedia – Tim Bluhm biography (mentions membership in Brokedown in
+    Bakersfield)[3]
+  - 'JamBase – "Brokedown In Bakersfield Live!" article and dates[4]'
+  - >-
+    Hardly Strictly Bluegrass – Artist listing for Brokedown in Bakersfield
+    (featuring Nicki & Tim Bluhm, Scott Law, Lebo, Steve Adams, Dave Brogan)[5]
+  - >-
+    Dolger Artist Stores – "Brokedown in Bakersfield - Live!" vinyl product page
+    with track list and production credits[6]
 network_extracted: true
 entry_created: '2025-12-20T01:16:29.810428'
 last_updated: '2025-12-23T08:16:06.105594'
 musicbrainz_id: c6b994bb-0074-48df-a6ab-b67fd0123ffa
-origin: San Francisco Bay Area, California, United States
+origin: 'San Francisco Bay Area, California, United States'
 ---
 
 ![](brokedown_in_bakersfield.jpg)

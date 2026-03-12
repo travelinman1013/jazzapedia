@@ -1,62 +1,65 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-01-06T02:03:14.539975'
 enhancement_provider: perplexity
 entry_created: '2026-01-06T02:03:14.539982'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/296c43d5-37ae-46bf-8855-dcdf239de6bb
-  spotify: https://open.spotify.com/artist/1y1JZLLn5IQghcaGkttlqj
-  wikipedia: https://en.wikipedia.org/wiki/Krzysztof_Komeda
+  musicbrainz: 'https://musicbrainz.org/artist/296c43d5-37ae-46bf-8855-dcdf239de6bb'
+  spotify: 'https://open.spotify.com/artist/1y1JZLLn5IQghcaGkttlqj'
+  wikipedia: 'https://en.wikipedia.org/wiki/Krzysztof_Komeda'
 genres:
-- free jazz
-- hard bop
-- bebop
+  - free jazz
+  - hard bop
+  - bebop
 image_path: ''
 instruments:
-- eponymous
-- original
-last_updated: '2026-01-06T02:03:14.539983'
-members:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
-  mbid: 85e45b31-ec89-4afc-8b21-2aaa82594478
-  name: Krzysztof Komeda
+last_updated: '2026-01-06T02:03:14.539983'
+members:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 85e45b31-ec89-4afc-8b21-2aaa82594478
+    name: Krzysztof Komeda
 musical_connections:
   collaborators:
-  - Jan "Ptaszyn" Wróblewski
-  - Jerzy Milian
-  - Tomasz Stańko
-  - Zbigniew Namysłowski
-  - Roman Polanski
-  - Michał Urbaniak
+    - Jan "Ptaszyn" Wróblewski
+    - Jerzy Milian
+    - Tomasz Stańko
+    - Zbigniew Namysłowski
+    - Roman Polanski
+    - Michał Urbaniak
   influenced:
-  - Tomasz Stańko
-  - Polish jazz musicians generally
+    - Tomasz Stańko
+    - Polish jazz musicians generally
   mentors:
-  - Andrzej Trzaskowski
-  - Jerzy Dudus Matuszkiewicz
+    - Andrzej Trzaskowski
+    - Jerzy Dudus Matuszkiewicz
 musicbrainz_id: 296c43d5-37ae-46bf-8855-dcdf239de6bb
 network_extracted: true
-origin: Poznań, Greater Poland, Poland
+origin: 'Poznań, Greater Poland, Poland'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Krzysztof_Komeda
-- https://jazzforum.com.pl/main/artykul/krzysztof-komeda-the-lost-leader
-- https://jazzlocal32.com/2023/08/21/komeda-a-private-life-in-jazz/
-- https://www.allaboutjazz.com/komeda-a-private-life-in-jazz-krzysztof-komeda
-- https://culture.pl/en/article/the-unknown-side-of-krzysztof-komeda
+  - 'https://en.wikipedia.org/wiki/Krzysztof_Komeda'
+  - 'https://jazzforum.com.pl/main/artykul/krzysztof-komeda-the-lost-leader'
+  - 'https://jazzlocal32.com/2023/08/21/komeda-a-private-life-in-jazz/'
+  - 'https://www.allaboutjazz.com/komeda-a-private-life-in-jazz-krzysztof-komeda'
+  - 'https://culture.pl/en/article/the-unknown-side-of-krzysztof-komeda'
 spotify_data:
   followers: 1087
   id: 1y1JZLLn5IQghcaGkttlqj
   popularity: 9
-  url: https://open.spotify.com/artist/1y1JZLLn5IQghcaGkttlqj
+  url: 'https://open.spotify.com/artist/1y1JZLLn5IQghcaGkttlqj'
 status: active
 tags:
-- jazz
+  - jazz
 title: Krzysztof Komeda Trio
+birth_place: 'Poznań, Greater Poland, Poland'
+birth_date: '1931-04-27'
+death_date: '1969-04-23'
 ---
 
 ![]()

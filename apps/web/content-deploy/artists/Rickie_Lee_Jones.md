@@ -5,31 +5,31 @@ schema_version: 2
 status: active
 aliases: []
 birth_date: '1954-11-08'
-birth_place: Chicago, Illinois, United States
+birth_place: 'Chicago, Illinois, United States'
 years_active: 1979–present
 genres:
-- singer-songwriter
+  - singer-songwriter
 instruments:
-- guitar
-- voice
-- musical keyboard
-- piano
-- synthesizer
+  - guitar
+  - voice
+  - musical keyboard
+  - piano
+  - synthesizer
 occupation:
-- singer
-- songwriter
-- singer-songwriter
-- composer
-- jazz musician
+  - singer
+  - songwriter
+  - singer-songwriter
+  - composer
+  - jazz musician
 record_labels:
-- Warner Bros. Records
-- Warner Records
+  - Warner Bros. Records
+  - Warner Records
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Rickie_Lee_Jones.jpg
   caption: Rickie Lee Jones
   background: solo_singer
   born: '1954-11-08'
-  origin: Chicago, Illinois, United States
+  origin: 'Chicago, Illinois, United States'
 audio_profile:
   tempo_avg: 113.1
   energy_avg: 0.272
@@ -45,55 +45,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tom Waits
-  - Chuck E. Weiss
-  - Dr. John
-  - Pascal Nabet-Meyer
+    - Tom Waits
+    - Chuck E. Weiss
+    - Dr. John
+    - Pascal Nabet-Meyer
   influenced:
-  - Tori Amos
-  - Fiona Apple
-  - Norah Jones
+    - Tori Amos
+    - Fiona Apple
+    - Norah Jones
   mentors:
-  - Richard Jones
-  - Lowell George
+    - Richard Jones
+    - Lowell George
 related_artists: []
 spotify_data:
   followers: 210613
   id: 0dYkMe3wK29DulSa0uR8Rq
   popularity: 47
-  url: https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq
+  url: 'https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq'
   verified: false
 discography_enriched: true
 albums_count: 18
 singles_count: 9
 top_tracks:
-- The Moon Is Made of Gold (Balm in Gilead)
-- Chuck E's in Love (Rickie Lee Jones)
-- Chuck E's in Love - 45 Version
-- Chuck E's in Love (Rickie Lee Jones)
-- Easy Money (Rickie Lee Jones)
-- Makin' Whoopee! (with Rickie Lee Jones) (In A Sentimental Mood)
-- On Saturday Afternoons in 1963 (Rickie Lee Jones)
-- The Horses (Flying Cowboys)
-- Dat Dere (Pop Pop)
-- Night Train (Rickie Lee Jones)
+  - The Moon Is Made of Gold (Balm in Gilead)
+  - Chuck E's in Love (Rickie Lee Jones)
+  - Chuck E's in Love - 45 Version
+  - Chuck E's in Love (Rickie Lee Jones)
+  - Easy Money (Rickie Lee Jones)
+  - Makin' Whoopee! (with Rickie Lee Jones) (In A Sentimental Mood)
+  - On Saturday Afternoons in 1963 (Rickie Lee Jones)
+  - The Horses (Flying Cowboys)
+  - Dat Dere (Pop Pop)
+  - Night Train (Rickie Lee Jones)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq
-  wikipedia: https://en.wikipedia.org/wiki/Rickie_Lee_Jones
+  spotify: 'https://open.spotify.com/artist/0dYkMe3wK29DulSa0uR8Rq'
+  wikipedia: 'https://en.wikipedia.org/wiki/Rickie_Lee_Jones'
 image_path: 03_Resources/source_material/ArtistPortraits/Rickie_Lee_Jones.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:48:01.549652'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Rickie_Lee_Jones
-- https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/rickie-lee-jones
-- https://www.last.fm/music/Rickie+Lee+Jones/+wiki
+  - 'https://en.wikipedia.org/wiki/Rickie_Lee_Jones'
+  - >-
+    https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/rickie-lee-jones
+  - 'https://www.last.fm/music/Rickie+Lee+Jones/+wiki'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:39:26.982035
+entry_created: 2025-09-22T21:39:26.982Z
 last_updated: '2025-12-23T08:16:03.697354'
+origin: 'Los Angeles, California, United States'
+artist_type: person
 ---
 
 ![](Rickie_Lee_Jones.jpg)

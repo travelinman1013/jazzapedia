@@ -1,44 +1,47 @@
 ---
 biography_enhanced_at: '2025-12-27T01:33:06.083785'
-birth_place: Unknown, United Kingdom
+birth_place: 'Unknown, United Kingdom'
 enhancement_provider: perplexity
 entry_created: '2025-12-27T01:33:06.083811'
 external_urls:
-  spotify: https://open.spotify.com/artist/6xOXG2fABxAX5SAUNZx480
-  wikipedia: https://en.wikipedia.org/wiki/Mike_Hurst_(producer)
+  spotify: 'https://open.spotify.com/artist/6xOXG2fABxAX5SAUNZx480'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mike_Hurst_(producer)'
 genres: []
 image_path: ''
 last_updated: '2025-12-27T01:33:06.083815'
 musical_connections:
   collaborators:
-  - Dusty Springfield
-  - Tom Springfield
-  - Jimmy Page
-  - Albert Lee
-  - Tony Ashton
-  - Cat Stevens
-  - Showaddywaddy
-  - Shakin' Stevens
-  - Mary Hopkin
+    - Dusty Springfield
+    - Tom Springfield
+    - Jimmy Page
+    - Albert Lee
+    - Tony Ashton
+    - Cat Stevens
+    - Showaddywaddy
+    - Shakin' Stevens
+    - Mary Hopkin
   influenced:
-  - Jonas Hurst
+    - Jonas Hurst
   mentors:
-  - Eddie Cochran
+    - Eddie Cochran
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- http://www.mikehurst.co.uk/content/biography.htm
-- https://en.wikipedia.org/wiki/Mike_Hurst_(producer)
-- http://rock-legacy.blogspot.com/p/producers.html
-- https://www.palatinate.org.uk/you-believed-you-could-do-anything-mike-hurst-and-the-magic-of-the-60s/
-- http://forgottenbands.blogspot.com/2009/12/mike-hurst-method.html
+  - 'http://www.mikehurst.co.uk/content/biography.htm'
+  - 'https://en.wikipedia.org/wiki/Mike_Hurst_(producer)'
+  - 'http://rock-legacy.blogspot.com/p/producers.html'
+  - >-
+    https://www.palatinate.org.uk/you-believed-you-could-do-anything-mike-hurst-and-the-magic-of-the-60s/
+  - 'http://forgottenbands.blogspot.com/2009/12/mike-hurst-method.html'
 spotify_data:
   followers: 0
   id: 6xOXG2fABxAX5SAUNZx480
   popularity: 12
-  url: https://open.spotify.com/artist/6xOXG2fABxAX5SAUNZx480
+  url: 'https://open.spotify.com/artist/6xOXG2fABxAX5SAUNZx480'
 status: active
-title: mike hurst
+title: Mike Hurst
+origin: United Kingdom
+artist_type: person
 ---
 
 ![]()

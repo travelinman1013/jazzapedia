@@ -1,47 +1,50 @@
 ---
 biography_enhanced_at: '2026-01-03T01:45:19.671230'
-birth_place: South Philadelphia, Pennsylvania, USA
+birth_place: 'South Philadelphia, Pennsylvania, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-03T01:45:19.671254'
 external_urls:
-  spotify: https://open.spotify.com/artist/66H00sDbVohXGP2HUvILDX
+  spotify: 'https://open.spotify.com/artist/66H00sDbVohXGP2HUvILDX'
   wikipedia: ''
 genres: []
 image_path: ''
 last_updated: '2026-01-03T01:45:19.671257'
 musical_connections:
   collaborators:
-  - Charles Earland
-  - Freddie Hubbard
-  - Randy Weston
-  - James Moody
-  - Jimmy Heath
-  - Pat Bianchi
-  - Paul Bollenback
-  - Justin Jones
+    - Charles Earland
+    - Freddie Hubbard
+    - Randy Weston
+    - James Moody
+    - Jimmy Heath
+    - Pat Bianchi
+    - Paul Bollenback
+    - Justin Jones
   influenced:
-  - Justin Jones
+    - Justin Jones
   mentors:
-  - Don Patterson
-  - Charles Earland
+    - Don Patterson
+    - Charles Earland
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.wbgo.org/music/2023-04-04/organ-trios-and-funky-rhythms-the-philadelphia-roots-of-vince-ector
-- https://www.moderndrummer.com/2008/08/vince-ector/
-- https://vicfirth.com/blogs/artist/vince-ector-vf
-- https://www.montclairjazzfestival.org/post/vince-ector-organatomy
-- https://www.allaboutjazz.com/musicians/vince-ector/
-- https://ctexaminer.com/2020/01/06/vince-ectors-south-philly-groove-at-the-side-door/
-- https://jazztimes.com/archives/vince-ector-rhythm-master/
-- https://downbeat.com/news/detail/vince-ector-takes-it-live
+  - >-
+    https://www.wbgo.org/music/2023-04-04/organ-trios-and-funky-rhythms-the-philadelphia-roots-of-vince-ector
+  - 'https://www.moderndrummer.com/2008/08/vince-ector/'
+  - 'https://vicfirth.com/blogs/artist/vince-ector-vf'
+  - 'https://www.montclairjazzfestival.org/post/vince-ector-organatomy'
+  - 'https://www.allaboutjazz.com/musicians/vince-ector/'
+  - >-
+    https://ctexaminer.com/2020/01/06/vince-ectors-south-philly-groove-at-the-side-door/
+  - 'https://jazztimes.com/archives/vince-ector-rhythm-master/'
+  - 'https://downbeat.com/news/detail/vince-ector-takes-it-live'
 spotify_data:
   followers: 0
   id: 66H00sDbVohXGP2HUvILDX
   popularity: 0
-  url: https://open.spotify.com/artist/66H00sDbVohXGP2HUvILDX
+  url: 'https://open.spotify.com/artist/66H00sDbVohXGP2HUvILDX'
 status: active
 title: Vince Ector
+artist_type: person
 ---
 
 ![]()

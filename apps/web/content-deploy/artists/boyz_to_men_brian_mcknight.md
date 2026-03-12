@@ -1,17 +1,17 @@
 ---
-title: Boyz to men/ Brian McKnight
+title: Brian McKnight
 wiki_slug: boyz-to-men-brian-mcknight
 schema_version: 2
 status: active
-birth_place: Buffalo, New York, United States
+birth_place: 'Buffalo, New York, United States'
 genres:
-- quiet storm
-- r&b
+  - quiet storm
+  - r&b
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/boyz_to_men_brian_mcknight.jpg
   caption: Boyz to men/ Brian McKnight
   background: solo_singer
-  origin: Buffalo, New York, United States
+  origin: 'Buffalo, New York, United States'
 audio_profile:
   tempo_avg: 113.7
   energy_avg: 0.44
@@ -27,51 +27,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Boyz II Men
-  - Vanessa Williams
-  - Mase
-  - Mariah Carey, Mary J. Blige, Az Yet, Philip Bailey, Dave Koz
+    - Boyz II Men
+    - Vanessa Williams
+    - Mase
+    - 'Mariah Carey, Mary J. Blige, Az Yet, Philip Bailey, Dave Koz'
   influenced:
-  - Alicia Keys
+    - Alicia Keys
   mentors:
-  - Claude McKnight
-  - Ed Eckstine
-  - Sean 'Puffy' Combs
+    - Claude McKnight
+    - Ed Eckstine
+    - Sean 'Puffy' Combs
 spotify_data:
   followers: 1733443
   id: 6k0IBR0lU42s2GYpNX7kA9
   popularity: 62
-  url: https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9
+  url: 'https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9'
 discography_enriched: true
 top_tracks:
-- Back At One (Back At One)
-- One Last Cry (Brian McKnight)
-- 6, 8, 12 (Back At One)
-- Anytime (Anytime)
-- Still (Superhero)
-- 'Whenever You Call (Butterfly: 25th Anniversary Expanded Edition)'
-- The Only One For Me (1989-2002 From There To Here)
-- Anytime (Anytime (Deluxe Edition))
-- Love Of My Life (Superhero)
-- Crazy Love (I Remember You)
+  - Back At One (Back At One)
+  - One Last Cry (Brian McKnight)
+  - '6, 8, 12 (Back At One)'
+  - Anytime (Anytime)
+  - Still (Superhero)
+  - 'Whenever You Call (Butterfly: 25th Anniversary Expanded Edition)'
+  - The Only One For Me (1989-2002 From There To Here)
+  - Anytime (Anytime (Deluxe Edition))
+  - Love Of My Life (Superhero)
+  - Crazy Love (I Remember You)
 external_urls:
-  spotify: https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9
+  spotify: 'https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/boyz_to_men_brian_mcknight.jpg
 biography_enhanced_at: '2025-12-04T08:05:38.147650'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- M&M Group Entertainment - Brian McKnight artist profile
-- Brian McKnight Fans - Biography
-- YouTube - The Life of Brian McKnight Explained
-- Gérard Drouot Productions - Brian McKnight
-- AXS TV - Brian McKnight
-- iHeart - Brian McKnight
-- WHUR - Brian McKnight Interview
+  - M&M Group Entertainment - Brian McKnight artist profile
+  - Brian McKnight Fans - Biography
+  - YouTube - The Life of Brian McKnight Explained
+  - Gérard Drouot Productions - Brian McKnight
+  - AXS TV - Brian McKnight
+  - iHeart - Brian McKnight
+  - WHUR - Brian McKnight Interview
 network_extracted: true
 entry_created: '2025-12-04T08:05:38.147660'
 last_updated: '2025-12-23T08:16:05.989780'
+artist_type: person
 ---
 
 ![](boyz_to_men_brian_mcknight.jpg)

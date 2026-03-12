@@ -2,19 +2,19 @@
 title: Kid Creole And The Coconuts
 wiki_slug: kid-creole-and-the-coconuts
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 aliases: []
 birth_date: '1980'
 years_active: 1980–present
 genres: []
 instruments:
-- eponymous
+  - eponymous
 record_labels:
-- ZE Records
-- Island Records
+  - ZE Records
+  - Island Records
 associated_acts:
-- August Darnell
+  - August Darnell
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Kid_Creole_And_The_Coconuts.jpg
   caption: Kid Creole And The Coconuts
@@ -38,37 +38,38 @@ spotify_data:
   followers: 29246
   id: 6KPWnJouOHhX0ZhscJsIU1
   popularity: 38
-  url: https://open.spotify.com/artist/6KPWnJouOHhX0ZhscJsIU1
+  url: 'https://open.spotify.com/artist/6KPWnJouOHhX0ZhscJsIU1'
   verified: false
 discography_enriched: true
 albums_count: 21
 singles_count: 24
 top_tracks:
-- Annie, I'm Not Your Daddy
-- Stool Pigeon
-- I'm A Wonderful Thing, Baby (Tropical Gangsters)
-- Endicott (In Praise Of Older Women And Other Crimes)
-- My Male Curiosity (Anthology Vol. 1 & 2)
-- I'm Corrupt (Tropical Gangsters)
-- I'm A Wonderful Thing, Baby
-- I'm a Wonderful Thing Baby
-- Lambada (Private Waters In the Great Divide (Expanded Edition))
-- I'm A Wonderful Thing, Baby (Kid Creole Redux)
+  - 'Annie, I''m Not Your Daddy'
+  - Stool Pigeon
+  - 'I''m A Wonderful Thing, Baby (Tropical Gangsters)'
+  - Endicott (In Praise Of Older Women And Other Crimes)
+  - My Male Curiosity (Anthology Vol. 1 & 2)
+  - I'm Corrupt (Tropical Gangsters)
+  - 'I''m A Wonderful Thing, Baby'
+  - I'm a Wonderful Thing Baby
+  - Lambada (Private Waters In the Great Divide (Expanded Edition))
+  - 'I''m A Wonderful Thing, Baby (Kid Creole Redux)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/72b867e3-139a-44a4-b1ee-a311d648c4e6
-  spotify: https://open.spotify.com/artist/6KPWnJouOHhX0ZhscJsIU1
-  wikipedia: https://en.wikipedia.org/wiki/Kid_Creole_and_the_Coconuts
+  musicbrainz: 'https://musicbrainz.org/artist/72b867e3-139a-44a4-b1ee-a311d648c4e6'
+  spotify: 'https://open.spotify.com/artist/6KPWnJouOHhX0ZhscJsIU1'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kid_Creole_and_the_Coconuts'
 image_path: 03_Resources/source_material/ArtistPortraits/Kid_Creole_And_The_Coconuts.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-18T15:58:02.184682'
-entry_created: 2025-09-18 15:25:28.861860
+entry_created: 2025-09-18T15:25:28.861Z
 last_updated: '2025-12-23T08:16:02.848427'
 musicbrainz_enriched_at: '2025-10-21T09:33:56.732301'
 musicbrainz_id: 72b867e3-139a-44a4-b1ee-a311d648c4e6
 tags:
-- boogie
-- disco
-- latin disco
+  - boogie
+  - disco
+  - latin disco
+birth_place: 'Bronx, New York City, United States'
 ---
 
 ![](Kid_Creole_And_The_Coconuts.jpg)

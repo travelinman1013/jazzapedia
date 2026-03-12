@@ -7,10 +7,10 @@ status: active
 birth_date: '1981-06-14'
 birth_place: Saint Elizabeth
 genres:
-- reggae
-- roots reggae
-- ragga
-- dancehall
+  - reggae
+  - roots reggae
+  - ragga
+  - dancehall
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/protoje.jpg
   caption: Protoje
@@ -23,7 +23,7 @@ audio_profile:
   valence_avg: 0.668
   danceability_avg: 0.75
   acousticness_avg: 0.163
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -5.8
   speechiness_avg: 0.16
   liveness_avg: 0.175
@@ -32,64 +32,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Chronixx
-  - Winta James
-  - Ky-Mani Marley
-  - The Indiggnation
-  - Lila Iké, Sevana, Jaz Elise
-  - Jorja Smith, Alicia Keys, Pa Salieu, Wiz Khalifa
+    - Chronixx
+    - Winta James
+    - Ky-Mani Marley
+    - The Indiggnation
+    - 'Lila Iké, Sevana, Jaz Elise'
+    - 'Jorja Smith, Alicia Keys, Pa Salieu, Wiz Khalifa'
   influenced:
-  - Lila Iké
-  - Sevana
-  - Jaz Elise
+    - Lila Iké
+    - Sevana
+    - Jaz Elise
   mentors:
-  - Lorna Bennett
-  - Mike Ollivierre
-  - Buju Banton
+    - Lorna Bennett
+    - Mike Ollivierre
+    - Buju Banton
 spotify_data:
   followers: 471068
   id: 7BGR8y1VZAWK2oR4zD9COr
   popularity: 59
-  url: https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr
+  url: 'https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr'
 discography_enriched: true
 top_tracks:
-- Who Knows (Ancient Future)
-- Rasta Love Feat. Ky-Mani Marley (The Seven Year Itch)
-- Who Knows (Ancient Future)
-- BIG 45
-- Feel It
-- Inhale Exhale (feat. Protoje) (Falling into Place)
-- Switch It Up (feat. Koffee) (In Search Of Lost Time)
-- Who Knows (feat. Chronixx) - SHY FX Remix
-- Kingston Be Wise (The 8 Year Affair)
-- Resist Not Evil
+  - Who Knows (Ancient Future)
+  - Rasta Love Feat. Ky-Mani Marley (The Seven Year Itch)
+  - Who Knows (Ancient Future)
+  - BIG 45
+  - Feel It
+  - Inhale Exhale (feat. Protoje) (Falling into Place)
+  - Switch It Up (feat. Koffee) (In Search Of Lost Time)
+  - Who Knows (feat. Chronixx) - SHY FX Remix
+  - Kingston Be Wise (The 8 Year Affair)
+  - Resist Not Evil
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/eb9ad275-dc6b-4d00-9dea-e60b02313a72
-  spotify: https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr
-  wikipedia: https://en.wikipedia.org/wiki/Protoje
+  musicbrainz: 'https://musicbrainz.org/artist/eb9ad275-dc6b-4d00-9dea-e60b02313a72'
+  spotify: 'https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr'
+  wikipedia: 'https://en.wikipedia.org/wiki/Protoje'
 image_path: 03_Resources/source_material/ArtistPortraits/protoje.jpg
 biography_enhanced_at: '2025-12-08T04:50:58.736417'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.reggaeville.com/artist-details/protoje/about/
-- https://www.sonymusic.co.uk/artist/protoje/
-- https://easystar.com/artists/protoje/
-- http://www.protoje.com/about
-- https://www.wessexstudent.co.uk/music/protoje/
-- https://unitedreggae.com/articles/n559/021011/interview-protoje
-- https://www.laketahoereggaefest.com/protoje/
-- https://www.masqueradeatlanta.com/events/protoje-3/
+  - 'https://www.reggaeville.com/artist-details/protoje/about/'
+  - 'https://www.sonymusic.co.uk/artist/protoje/'
+  - 'https://easystar.com/artists/protoje/'
+  - 'http://www.protoje.com/about'
+  - 'https://www.wessexstudent.co.uk/music/protoje/'
+  - 'https://unitedreggae.com/articles/n559/021011/interview-protoje'
+  - 'https://www.laketahoereggaefest.com/protoje/'
+  - 'https://www.masqueradeatlanta.com/events/protoje-3/'
 network_extracted: true
 entry_created: '2025-12-08T04:50:58.736428'
 last_updated: '2025-12-23T08:16:14.467010'
-disambiguation: Jamaican musican, reggae
+disambiguation: 'Jamaican musican, reggae'
 gender: Male
 musicbrainz_id: eb9ad275-dc6b-4d00-9dea-e60b02313a72
 tags:
-- dub
-- jamaica
-- rasta
+  - dub
+  - jamaica
+  - rasta
 ---
 
 ![](protoje.jpg)

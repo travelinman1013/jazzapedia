@@ -2,20 +2,20 @@
 title: New Orleans Jazz Vipers
 wiki_slug: new-orleans-jazz-vipers
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1999'
 genres:
-- swing music
+  - swing music
 instruments:
-- alto saxophone
-- original
-- double bass
-- trombone
-- baritone saxophone
-- cornet
-- trumpet
-- guitar
+  - alto saxophone
+  - original
+  - double bass
+  - trombone
+  - baritone saxophone
+  - cornet
+  - trumpet
+  - guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/New_Orleans_Jazz_Vipers.jpg
   caption: New Orleans Jazz Vipers
@@ -36,62 +36,66 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jack Fine
-  - John Rodli
-  - Clay Windham
-  - A.P. Gonzalez
-  - Genvieve Duvale
-  - Craig Klein
-  - Molly Reeves
-  - Earl Bonie
-  - Steve DeTroy
-  - Mitchell Player
+    - Jack Fine
+    - John Rodli
+    - Clay Windham
+    - A.P. Gonzalez
+    - Genvieve Duvale
+    - Craig Klein
+    - Molly Reeves
+    - Earl Bonie
+    - Steve DeTroy
+    - Mitchell Player
   influenced:
-  - Frenchmen Street swing bands
+    - Frenchmen Street swing bands
   mentors:
-  - Tuba Fats
-  - Uncle Lionel Batiste
-  - Andrews/Hill family
+    - Tuba Fats
+    - Uncle Lionel Batiste
+    - Andrews/Hill family
 spotify_data:
   followers: 8243
   id: 579BZ7xklVACACeGT98e6j
   popularity: 22
-  url: https://open.spotify.com/artist/579BZ7xklVACACeGT98e6j
+  url: 'https://open.spotify.com/artist/579BZ7xklVACACeGT98e6j'
 discography_enriched: true
 top_tracks:
-- 'I Hope Your Comin'' Back To New Orleans (Treme: Music From The HBO Original Series, Season 1)'
-- All That Meat & No Potatoes (Going, Going, Gone)
-- I Hope You're Comin' Back to New Orleans (feat. Irma Thomas) (Going, Going, Gone)
-- Please Don't Talk About Me When I'm Gone (Going, Going, Gone)
-- Going! Going! Gone (Going, Going, Gone)
-- I Can't Believe You're in Love With Me (Going, Going, Gone)
-- Hummin' to Myself (Going, Going, Gone)
-- Keeping Out of Mischief Now (Going, Going, Gone)
-- Way Down Yonder in New Orleans (Going, Going, Gone)
-- One O'Clock Jump (Going, Going, Gone)
+  - >-
+    I Hope Your Comin' Back To New Orleans (Treme: Music From The HBO Original
+    Series, Season 1)
+  - 'All That Meat & No Potatoes (Going, Going, Gone)'
+  - >-
+    I Hope You're Comin' Back to New Orleans (feat. Irma Thomas) (Going, Going,
+    Gone)
+  - 'Please Don''t Talk About Me When I''m Gone (Going, Going, Gone)'
+  - 'Going! Going! Gone (Going, Going, Gone)'
+  - 'I Can''t Believe You''re in Love With Me (Going, Going, Gone)'
+  - 'Hummin'' to Myself (Going, Going, Gone)'
+  - 'Keeping Out of Mischief Now (Going, Going, Gone)'
+  - 'Way Down Yonder in New Orleans (Going, Going, Gone)'
+  - 'One O''Clock Jump (Going, Going, Gone)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/12e2506a-4e6c-4e59-bccd-7dde5fd08461
-  spotify: https://open.spotify.com/artist/579BZ7xklVACACeGT98e6j
-  wikipedia: https://en.wikipedia.org/wiki/New_Orleans_Jazz_Vipers
+  musicbrainz: 'https://musicbrainz.org/artist/12e2506a-4e6c-4e59-bccd-7dde5fd08461'
+  spotify: 'https://open.spotify.com/artist/579BZ7xklVACACeGT98e6j'
+  wikipedia: 'https://en.wikipedia.org/wiki/New_Orleans_Jazz_Vipers'
 image_path: 03_Resources/source_material/ArtistPortraits/New_Orleans_Jazz_Vipers.jpg
 biography_enhanced_at: '2025-10-22T07:03:10.965588'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.neworleansjazzvipers.com/about
-- https://en.wikipedia.org/wiki/New_Orleans_Jazz_Vipers
-- https://www.last.fm/music/New+Orleans+Jazz+Vipers/+wiki
-- https://www.neworleansvinylclub.com/library/new-orleans-jazz-vipers/
-- https://www.youtube.com/watch?v=MbcWDvvzAIE
+  - 'https://www.neworleansjazzvipers.com/about'
+  - 'https://en.wikipedia.org/wiki/New_Orleans_Jazz_Vipers'
+  - 'https://www.last.fm/music/New+Orleans+Jazz+Vipers/+wiki'
+  - 'https://www.neworleansvinylclub.com/library/new-orleans-jazz-vipers/'
+  - 'https://www.youtube.com/watch?v=MbcWDvvzAIE'
 network_extracted: true
 entry_created: '2025-10-22T07:03:10.965611'
 last_updated: '2025-12-23T08:16:03.425637'
 musicbrainz_id: 12e2506a-4e6c-4e59-bccd-7dde5fd08461
-origin: New Orleans
+origin: 'New Orleans, Louisiana, United States'
 tags:
-- jazz
-- new orleans
-- swing
+  - jazz
+  - new orleans
+  - swing
 ---
 
 ![](New_Orleans_Jazz_Vipers.jpg)

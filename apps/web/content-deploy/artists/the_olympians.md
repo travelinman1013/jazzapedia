@@ -4,7 +4,7 @@ wiki_slug: the-olympians
 schema_version: 2
 status: active
 genres:
-- retro soul
+  - retro soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_olympians.jpg
   caption: The Olympians
@@ -16,7 +16,7 @@ audio_profile:
   danceability_avg: 0.539
   acousticness_avg: 0.238
   instrumentalness_avg: 0.637
-  loudness_avg: -8.0
+  loudness_avg: -8
   speechiness_avg: 0.036
   liveness_avg: 0.154
   track_count: 50
@@ -24,54 +24,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Leon Michels
-  - Dave Guy
-  - Homer Steinweiss
-  - Neal Sugarman
-  - Michael Leonhart
-  - Aaron Johnson
-  - Nicholas Movshon
-  - Gabriel Roth
+    - Leon Michels
+    - Dave Guy
+    - Homer Steinweiss
+    - Neal Sugarman
+    - Michael Leonhart
+    - Aaron Johnson
+    - Nicholas Movshon
+    - Gabriel Roth
   influenced: []
   mentors:
-  - Isaac Hayes
-  - Curtis Mayfield
-  - Mickey and the Soul Generation
+    - Isaac Hayes
+    - Curtis Mayfield
+    - Mickey and the Soul Generation
 spotify_data:
   followers: 78999
   id: 0ZPqGxW2iwZz7vGJWzuTUi
   popularity: 46
-  url: https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi
+  url: 'https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi'
 discography_enriched: true
 top_tracks:
-- Pluto's Lament (The Olympians)
-- Apollo's Mood (The Olympians)
-- Sirens of Jupiter (The Olympians)
-- Mercury's Odyssey (The Olympians)
-- Sagittarius By Moonlight (The Olympians)
-- The Rain Song (Midnight Movement / The Rain Song)
-- Venus (The Olympians)
-- Mars (The Olympians)
-- Saturn (The Olympians)
-- Stand Tall (How Can I Love (Now That You're Gone) / Stand Tall)
+  - Pluto's Lament (The Olympians)
+  - Apollo's Mood (The Olympians)
+  - Sirens of Jupiter (The Olympians)
+  - Mercury's Odyssey (The Olympians)
+  - Sagittarius By Moonlight (The Olympians)
+  - The Rain Song (Midnight Movement / The Rain Song)
+  - Venus (The Olympians)
+  - Mars (The Olympians)
+  - Saturn (The Olympians)
+  - Stand Tall (How Can I Love (Now That You're Gone) / Stand Tall)
 external_urls:
-  spotify: https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi
+  spotify: 'https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/the_olympians.jpg
 biography_enhanced_at: '2025-11-20T06:52:59.436592'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Last.fm - The Olympians biography
-- Daptone Records - The Olympians artist page
-- The Vinyl District - Self-titled debut album review
-- American Songwriter - The Olympians review
-- Viberate - The Olympians artist profile
-- AllMusic - The Olympians biography
+  - Last.fm - The Olympians biography
+  - Daptone Records - The Olympians artist page
+  - The Vinyl District - Self-titled debut album review
+  - American Songwriter - The Olympians review
+  - Viberate - The Olympians artist profile
+  - AllMusic - The Olympians biography
 network_extracted: true
 entry_created: '2025-11-20T06:52:59.436599'
 last_updated: '2025-12-23T08:16:17.028289'
-origin: Brooklyn, New York, United States
+origin: 'Brooklyn, New York, United States'
+artist_type: person
 ---
 
 ![](the_olympians.jpg)

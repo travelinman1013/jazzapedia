@@ -3,16 +3,19 @@ title: The Bug
 wiki_slug: the-bug
 schema_version: 2
 status: active
-birth_place: Weymouth, Dorset, England (birthplace); London, England (origin of The Bug project); Berlin, Germany (current
-  residence)
+birth_place: >-
+  Weymouth, Dorset, England (birthplace); London, England (origin of The Bug
+  project); Berlin, Germany (current residence)
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_bug.jpg
   caption: The Bug
   background: solo_singer
-  origin: Weymouth, Dorset, England (birthplace); London, England (origin of The Bug project); Berlin, Germany (current residence)
+  origin: >-
+    Weymouth, Dorset, England (birthplace); London, England (origin of The Bug
+    project); Berlin, Germany (current residence)
 audio_profile:
-  tempo_avg: 135.0
+  tempo_avg: 135
   energy_avg: 0.755
   valence_avg: 0.465
   danceability_avg: 0.674
@@ -26,60 +29,69 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Justin Broadrick
-  - Roger Robinson
-  - Kiki Hitomi
-  - DJ Vadim
-  - The Rootsman
-  - Loefah
-  - Dylan Carlson
-  - Miss Red
+    - Justin Broadrick
+    - Roger Robinson
+    - Kiki Hitomi
+    - DJ Vadim
+    - The Rootsman
+    - Loefah
+    - Dylan Carlson
+    - Miss Red
   influenced:
-  - Burial
-  - Flowdan
-  - Kode9
+    - Burial
+    - Flowdan
+    - Kode9
   mentors:
-  - King Tubby
-  - Lee Perry
-  - Adrian Sherwood
-  - John Peel
+    - King Tubby
+    - Lee Perry
+    - Adrian Sherwood
+    - John Peel
 spotify_data:
   followers: 152396
   id: 057gc1fxmJ2vkctjQJ7Tal
   popularity: 55
-  url: https://open.spotify.com/artist/057gc1fxmJ2vkctjQJ7Tal
+  url: 'https://open.spotify.com/artist/057gc1fxmJ2vkctjQJ7Tal'
 discography_enriched: true
 top_tracks:
-- Video Killed The Radio Star (The Age Of Plastic)
-- Video Killed The Radio Star (The Age Of Plastic)
-- Video Killed The Radio Star - Single Version (Video Killed The Radio Star / Kid Dynamo)
-- Video Killed The Radio Star
-- Video Killed The Radio Star
-- Video Killed The Radio Star (Video Killed The Radio Star)
-- The Plastic Age (The Age Of Plastic)
-- Elstree (The Age Of Plastic)
-- The Plastic Age (The Age Of Plastic)
-- Clean, Clean (The Age Of Plastic)
+  - Video Killed The Radio Star (The Age Of Plastic)
+  - Video Killed The Radio Star (The Age Of Plastic)
+  - >-
+    Video Killed The Radio Star - Single Version (Video Killed The Radio Star /
+    Kid Dynamo)
+  - Video Killed The Radio Star
+  - Video Killed The Radio Star
+  - Video Killed The Radio Star (Video Killed The Radio Star)
+  - The Plastic Age (The Age Of Plastic)
+  - Elstree (The Age Of Plastic)
+  - The Plastic Age (The Age Of Plastic)
+  - 'Clean, Clean (The Age Of Plastic)'
 external_urls:
-  spotify: https://open.spotify.com/artist/057gc1fxmJ2vkctjQJ7Tal
-  wikipedia: https://en.wikipedia.org/wiki/Kevin_Martin_(British_musician)
+  spotify: 'https://open.spotify.com/artist/057gc1fxmJ2vkctjQJ7Tal'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kevin_Martin_(British_musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/the_bug.jpg
 biography_enhanced_at: '2025-11-14T11:12:55.658263'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Kevin_Martin_(British_musician)
-- https://www.latimes.com/entertainment/la-ca-ms-the-bug-kevin-martin-20151227-story.html
-- https://www.redbullmusicacademy.com/lectures/the-bug-soundsystem/
-- https://shopmusicandriots.com/blogs/features-1/an-interview-with-the-bugs-kevin-richard-martin
-- https://theartsdesk.com/new-music/10-questions-musician-kevin-martin-aka-bug
-- https://blackrhinoradio.com/interviews/a-conversation-with-kevin-martin-the-man-behind-the-bug-project
-- https://nialler9.com/meditation-and-provocation-a-conversation-with-the-bug/
-- https://passionweiss.com/2025/07/17/the-bug-kevin-martin-influences-burials-mud/
-- https://sun-13.com/2024/10/03/future-shock-in-conversation-with-the-bugs-kevin-martin/
+  - 'https://en.wikipedia.org/wiki/Kevin_Martin_(British_musician)'
+  - >-
+    https://www.latimes.com/entertainment/la-ca-ms-the-bug-kevin-martin-20151227-story.html
+  - 'https://www.redbullmusicacademy.com/lectures/the-bug-soundsystem/'
+  - >-
+    https://shopmusicandriots.com/blogs/features-1/an-interview-with-the-bugs-kevin-richard-martin
+  - 'https://theartsdesk.com/new-music/10-questions-musician-kevin-martin-aka-bug'
+  - >-
+    https://blackrhinoradio.com/interviews/a-conversation-with-kevin-martin-the-man-behind-the-bug-project
+  - 'https://nialler9.com/meditation-and-provocation-a-conversation-with-the-bug/'
+  - >-
+    https://passionweiss.com/2025/07/17/the-bug-kevin-martin-influences-burials-mud/
+  - >-
+    https://sun-13.com/2024/10/03/future-shock-in-conversation-with-the-bugs-kevin-martin/
 network_extracted: true
 entry_created: '2025-11-14T11:12:55.658270'
 last_updated: '2025-12-23T08:16:16.613143'
+origin: 'London, England'
+artist_type: person
 ---
 
 ![](the_bug.jpg)

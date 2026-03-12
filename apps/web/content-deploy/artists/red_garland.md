@@ -1,19 +1,19 @@
 ---
-title: RED GARLAND
+title: Red Garland
 wiki_slug: red-garland
 schema_version: 2
 status: active
-birth_place: Dallas, Texas, United States
+birth_place: 'Dallas, Texas, United States'
 genres:
-- jazz
-- hard bop
-- cool jazz
-- bebop
+  - jazz
+  - hard bop
+  - cool jazz
+  - bebop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/red_garland.jpg
   caption: RED GARLAND
   background: solo_singer
-  origin: Dallas, Texas, United States
+  origin: 'Dallas, Texas, United States'
 audio_profile:
   tempo_avg: 105.3
   energy_avg: 0.288
@@ -29,50 +29,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Miles Davis
-  - John Coltrane
-  - Philly Joe Jones
-  - Paul Chambers
-  - Hot Lips Page
-  - Billy Eckstine
+    - Miles Davis
+    - John Coltrane
+    - Philly Joe Jones
+    - Paul Chambers
+    - Hot Lips Page
+    - Billy Eckstine
   influenced:
-  - Bill Evans
-  - Herbie Hancock
-  - McCoy Tyner
+    - Bill Evans
+    - Herbie Hancock
+    - McCoy Tyner
   mentors:
-  - Buster Smith
+    - Buster Smith
 spotify_data:
   followers: 72405
   id: 35iymrFS4VnsKn35ebHKX9
   popularity: 50
-  url: https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9
+  url: 'https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9'
 discography_enriched: true
 top_tracks:
-- Milestones (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones) (Milestones)
-- '''Round Midnight (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones) (''Round About Midnight)'
-- Almost Like Being In Love (Red Garland's Piano)
-- I Know Why (And So Do You) (Red Garland's Piano)
-- The Very Thought Of You (Red Garland's Piano)
-- Bye Bye Blackbird (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones) ('Round About Midnight)
-- Please Send Me Someone To Love (Red Garland's Piano)
-- All of You (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones) ('Round About Midnight)
-- Straight, No Chaser (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones) (Milestones)
-- Stompin' At The Savoy (Red Garland's Piano)
+  - >-
+    Milestones (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul
+    Chambers & Philly Joe Jones) (Milestones)
+  - >-
+    'Round Midnight (feat. John Coltrane, Red Garland, Paul Chambers & Philly
+    Joe Jones) ('Round About Midnight)
+  - Almost Like Being In Love (Red Garland's Piano)
+  - I Know Why (And So Do You) (Red Garland's Piano)
+  - The Very Thought Of You (Red Garland's Piano)
+  - >-
+    Bye Bye Blackbird (feat. John Coltrane, Red Garland, Paul Chambers & Philly
+    Joe Jones) ('Round About Midnight)
+  - Please Send Me Someone To Love (Red Garland's Piano)
+  - >-
+    All of You (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe
+    Jones) ('Round About Midnight)
+  - >-
+    Straight, No Chaser (feat. John Coltrane, Cannonball Adderley, Red Garland,
+    Paul Chambers & Philly Joe Jones) (Milestones)
+  - Stompin' At The Savoy (Red Garland's Piano)
 external_urls:
-  spotify: https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9
-  wikipedia: https://en.wikipedia.org/wiki/Red_Garland
+  spotify: 'https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9'
+  wikipedia: 'https://en.wikipedia.org/wiki/Red_Garland'
 image_path: 03_Resources/source_material/ArtistPortraits/red_garland.jpg
 biography_enhanced_at: '2025-11-03T07:48:01.754309'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.tshaonline.org/handbook/entries/garland-william-m-red
-- https://www.allaboutjazz.com/musicians/red-garland/
-- https://aaregistry.org/story/red-garland-jazz-pianist-born/
-- https://concord.com/artist/red-garland/
+  - 'https://www.tshaonline.org/handbook/entries/garland-william-m-red'
+  - 'https://www.allaboutjazz.com/musicians/red-garland/'
+  - 'https://aaregistry.org/story/red-garland-jazz-pianist-born/'
+  - 'https://concord.com/artist/red-garland/'
 network_extracted: true
 entry_created: '2025-11-03T07:48:01.754330'
 last_updated: '2025-12-23T08:16:14.714918'
+birth_date: '1923-03-13'
+artist_type: person
 ---
 
 ![](red_garland.jpg)

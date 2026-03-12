@@ -2,22 +2,22 @@
 title: Ellis Marsalis
 wiki_slug: ellis-marsalis
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1934-11-13'
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 death_date: '2020-04-01'
 genres:
-- jazz
+  - jazz
 instruments:
-- eponymous
-- original
+  - eponymous
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Ellis_Marsalis.jpg
   caption: Ellis Marsalis
   background: non_vocal_instrumentalist
   born: '1934-11-13'
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
   died: '2020-04-01'
 audio_profile:
   tempo_avg: 113.7
@@ -34,51 +34,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ed Blackwell
-  - Cannonball Adderley
-  - Al Hirt
-  - David 'Fathead' Newman
-  - Eddie Harris
+    - Ed Blackwell
+    - Cannonball Adderley
+    - Al Hirt
+    - David 'Fathead' Newman
+    - Eddie Harris
   influenced:
-  - Wynton Marsalis
-  - Branford Marsalis
-  - Delfeayo Marsalis
-  - Jason Marsalis
-  - Harry Connick Jr.
-  - Terence Blanchard
-  - Nicholas Payton
+    - Wynton Marsalis
+    - Branford Marsalis
+    - Delfeayo Marsalis
+    - Jason Marsalis
+    - Harry Connick Jr.
+    - Terence Blanchard
+    - Nicholas Payton
   mentors:
-  - Roger Dickerson
+    - Roger Dickerson
 spotify_data:
   followers: 15067
   id: 6gMW76a7vmuyUuAivTjFGj
   popularity: 28
-  url: https://open.spotify.com/artist/6gMW76a7vmuyUuAivTjFGj
+  url: 'https://open.spotify.com/artist/6gMW76a7vmuyUuAivTjFGj'
 discography_enriched: true
 top_tracks:
-- DO You Know What It Means To Miss New Orleans (Heart Of Gold)
-- I Can't Give You Anything But Love (Heart Of Gold)
-- My One and Only Love
-- The Little Drummer Boy (feat. Bill Huntington & Jason Marsalis) (A New Orleans Christmas Carol (Deluxe Edition))
-- Charlie Brown (Joe Cool's Blues)
-- Heart of Gold (Heart Of Gold)
-- Oh, Good Grief! (Joe Cool's Blues)
-- Drop Me Off In Harlem (Duke In Blue)
-- Buster's Tune (Return To The Wide Open Spaces)
-- Mo' Better Blues (feat. Ellis Marsalis) (A Love Letter to New Orleans)
+  - DO You Know What It Means To Miss New Orleans (Heart Of Gold)
+  - I Can't Give You Anything But Love (Heart Of Gold)
+  - My One and Only Love
+  - >-
+    The Little Drummer Boy (feat. Bill Huntington & Jason Marsalis) (A New
+    Orleans Christmas Carol (Deluxe Edition))
+  - Charlie Brown (Joe Cool's Blues)
+  - Heart of Gold (Heart Of Gold)
+  - 'Oh, Good Grief! (Joe Cool''s Blues)'
+  - Drop Me Off In Harlem (Duke In Blue)
+  - Buster's Tune (Return To The Wide Open Spaces)
+  - Mo' Better Blues (feat. Ellis Marsalis) (A Love Letter to New Orleans)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c28999ee-ff26-4825-be24-b466e7b32821
-  spotify: https://open.spotify.com/artist/6gMW76a7vmuyUuAivTjFGj
-  wikipedia: https://en.wikipedia.org/wiki/Ellis_Marsalis_Jr.
+  musicbrainz: 'https://musicbrainz.org/artist/c28999ee-ff26-4825-be24-b466e7b32821'
+  spotify: 'https://open.spotify.com/artist/6gMW76a7vmuyUuAivTjFGj'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ellis_Marsalis_Jr.'
 image_path: 03_Resources/source_material/ArtistPortraits/Ellis_Marsalis.jpg
 biography_enhanced_at: '2025-10-19T10:46:27.021499'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Ellis_Marsalis_Jr.
-- https://www.allaboutjazz.com/musicians/ellis-marsalis/
-- https://louisianamusichalloffame.org/ellis-marsalis/
-- https://njjs.org/ellis-marsalis-giant-musician-and-teacher-but-an-even-greater-father/
+  - 'https://en.wikipedia.org/wiki/Ellis_Marsalis_Jr.'
+  - 'https://www.allaboutjazz.com/musicians/ellis-marsalis/'
+  - 'https://louisianamusichalloffame.org/ellis-marsalis/'
+  - >-
+    https://njjs.org/ellis-marsalis-giant-musician-and-teacher-but-an-even-greater-father/
 network_extracted: true
 entry_created: '2025-10-19T10:46:27.021511'
 last_updated: '2025-12-23T08:16:01.879722'
@@ -87,9 +90,11 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:25:29.111115'
 musicbrainz_id: c28999ee-ff26-4825-be24-b466e7b32821
 tags:
-- death by covid-19
-- jazz
-- post-bop
+  - death by covid-19
+  - jazz
+  - post-bop
+is_active: false
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](Ellis_Marsalis.jpg)

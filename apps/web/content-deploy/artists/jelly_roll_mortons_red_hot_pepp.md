@@ -4,10 +4,11 @@ wiki_slug: jelly-roll-mortons-red-hot-pepp
 schema_version: 2
 status: active
 genres:
-- ragtime
-- jazz
+  - ragtime
+  - jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/jelly_roll_mortons_red_hot_pepp.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/jelly_roll_mortons_red_hot_pepp.jpg
   caption: Jelly Roll Morton's Red Hot Pepp
   background: solo_singer
 audio_profile:
@@ -25,57 +26,65 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - George Mitchell
-  - Kid Ory
-  - Omer Simeon
-  - Johnny Dodds
-  - Barney Bigard
-  - Johnny St. Cyr
-  - Bud Scott
-  - John Lindsay
-  - Andrew Hilaire
-  - Baby Dodds
-  - Darnell Howard
+    - George Mitchell
+    - Kid Ory
+    - Omer Simeon
+    - Johnny Dodds
+    - Barney Bigard
+    - Johnny St. Cyr
+    - Bud Scott
+    - John Lindsay
+    - Andrew Hilaire
+    - Baby Dodds
+    - Darnell Howard
   influenced:
-  - Swing‑era small jazz ensembles (e.g., early swing and traditional jazz bands broadly)
-  - Jazz arrangers and musicologists studying early jazz
+    - >-
+      Swing‑era small jazz ensembles (e.g., early swing and traditional jazz
+      bands broadly)
+    - Jazz arrangers and musicologists studying early jazz
   mentors:
-  - Jelly Roll Morton
+    - Jelly Roll Morton
 spotify_data:
   followers: 7777
   id: 5GHLXPkq5y7bu1BlLQ5hvO
   popularity: 12
-  url: https://open.spotify.com/artist/5GHLXPkq5y7bu1BlLQ5hvO
+  url: 'https://open.spotify.com/artist/5GHLXPkq5y7bu1BlLQ5hvO'
 discography_enriched: true
 top_tracks:
-- 'Sidewalk Blues (Jelly-Roll Morton: Original Recordings 1926-29)'
-- 'New Orleans Bump (Jelly-Roll Morton: Original Recordings 1926-29)'
-- 'Doctor Jazz (Jelly-Roll Morton: Original Recordings 1926-29)'
-- Dead Man Blues (Black Bottom Stomp (The Complete Victor Recordings 1926))
-- Dead Man Blues
-- 'Beale Street Blues (Jelly-Roll Morton: Original Recordings 1926-29)'
-- 'The Chant (Jelly-Roll Morton: Original Recordings 1926-29)'
-- Black Bottom Stomp (Black Bottom Stomp (The Complete Victor Recordings 1926))
-- Dead Man Blues (Rare Jazz Records - Jelly Roll Morton and His Red Hot Peppers, Vol. 3)
-- 'Dead Man''s Blues (Jelly-Roll Morton: Original Recordings 1926-29)'
+  - 'Sidewalk Blues (Jelly-Roll Morton: Original Recordings 1926-29)'
+  - 'New Orleans Bump (Jelly-Roll Morton: Original Recordings 1926-29)'
+  - 'Doctor Jazz (Jelly-Roll Morton: Original Recordings 1926-29)'
+  - Dead Man Blues (Black Bottom Stomp (The Complete Victor Recordings 1926))
+  - Dead Man Blues
+  - 'Beale Street Blues (Jelly-Roll Morton: Original Recordings 1926-29)'
+  - 'The Chant (Jelly-Roll Morton: Original Recordings 1926-29)'
+  - >-
+    Black Bottom Stomp (Black Bottom Stomp (The Complete Victor Recordings
+    1926))
+  - >-
+    Dead Man Blues (Rare Jazz Records - Jelly Roll Morton and His Red Hot
+    Peppers, Vol. 3)
+  - 'Dead Man''s Blues (Jelly-Roll Morton: Original Recordings 1926-29)'
 external_urls:
-  spotify: https://open.spotify.com/artist/5GHLXPkq5y7bu1BlLQ5hvO
-  wikipedia: https://en.wikipedia.org/wiki/Red_Hot_Peppers
-image_path: 03_Resources/source_material/ArtistPortraits/jelly_roll_mortons_red_hot_pepp.jpg
+  spotify: 'https://open.spotify.com/artist/5GHLXPkq5y7bu1BlLQ5hvO'
+  wikipedia: 'https://en.wikipedia.org/wiki/Red_Hot_Peppers'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/jelly_roll_mortons_red_hot_pepp.jpg
 biography_enhanced_at: '2025-12-06T05:40:17.640100'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.biography.com/musicians/jelly-roll-morton
-- https://musicalgeography.org/jelly-roll-morton/
-- https://en.wikipedia.org/wiki/Red_Hot_Peppers
-- https://en.wikipedia.org/wiki/Jelly_Roll_Morton
-- https://syncopatedtimes.com/jelly-roll-mortons-red-hot-peppers/
-- https://newdirectionsinmusic.substack.com/p/sketches-jelly-roll-morton
+  - 'https://www.biography.com/musicians/jelly-roll-morton'
+  - 'https://musicalgeography.org/jelly-roll-morton/'
+  - 'https://en.wikipedia.org/wiki/Red_Hot_Peppers'
+  - 'https://en.wikipedia.org/wiki/Jelly_Roll_Morton'
+  - 'https://syncopatedtimes.com/jelly-roll-mortons-red-hot-peppers/'
+  - 'https://newdirectionsinmusic.substack.com/p/sketches-jelly-roll-morton'
 network_extracted: true
 entry_created: '2025-12-06T05:40:17.640110'
 last_updated: '2025-12-23T08:16:10.324570'
-origin: Chicago, Illinois, United States
+origin: 'Chicago, Illinois, United States'
+artist_type: band
 ---
 
 ![](jelly_roll_mortons_red_hot_pepp.jpg)

@@ -3,37 +3,44 @@ biography_enhanced_at: '2026-01-22T07:21:35.693045'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:21:35.693051'
 external_urls:
-  spotify: https://open.spotify.com/artist/3OQwn0QzggJy8gFiCPKnqZ
-  wikipedia: https://en.wikipedia.org/wiki/Soul_Brothers
+  spotify: 'https://open.spotify.com/artist/3OQwn0QzggJy8gFiCPKnqZ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Soul_Brothers'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/ray_charles_and_milt_jackson.jpg
 last_updated: '2026-01-22T07:21:35.693052'
 musical_connections:
   collaborators:
-  - Milt Jackson
-  - Tom Dowd
-  - Nesuhi Ertegun
-  - Billy Mitchell
-  - Skeeter Best
-  - Oscar Pettiford
-  - Connie Kay
+    - Milt Jackson
+    - Tom Dowd
+    - Nesuhi Ertegun
+    - Billy Mitchell
+    - Skeeter Best
+    - Oscar Pettiford
+    - Connie Kay
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://goodsinginggum.com/2021/03/08/album-of-the-week-ray-charles-milt-jacksons-soul-brothers-soul-meeting-1958/
-- https://raggywaltz.com/2017/08/11/soul-brothers-milt-jackson-ray-charles-atlantic-1279/
-- https://www.rhino.com/article/deep-dive-ray-charles-milt-jackson-soul-brothers
-- https://www.arts.gov/honors/jazz/milt-jackson
-- https://en.wikipedia.org/wiki/Soul_Brothers
+  - >-
+    https://goodsinginggum.com/2021/03/08/album-of-the-week-ray-charles-milt-jacksons-soul-brothers-soul-meeting-1958/
+  - >-
+    https://raggywaltz.com/2017/08/11/soul-brothers-milt-jackson-ray-charles-atlantic-1279/
+  - >-
+    https://www.rhino.com/article/deep-dive-ray-charles-milt-jackson-soul-brothers
+  - 'https://www.arts.gov/honors/jazz/milt-jackson'
+  - 'https://en.wikipedia.org/wiki/Soul_Brothers'
 spotify_data:
   followers: 208
   id: 3OQwn0QzggJy8gFiCPKnqZ
   popularity: 11
-  url: https://open.spotify.com/artist/3OQwn0QzggJy8gFiCPKnqZ
+  url: 'https://open.spotify.com/artist/3OQwn0QzggJy8gFiCPKnqZ'
 status: active
-title: ray charles and milt jackson
+title: Ray Charles and Milt Jackson
+origin: 'New York City, New York, United States (recording location)'
+birth_date: '1930-09-23'
+death_date: '2004-06-10'
+artist_type: band
 ---
 
 ![](ray_charles_and_milt_jackson.jpg)

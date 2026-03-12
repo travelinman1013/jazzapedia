@@ -3,15 +3,15 @@ title: Youn Sun Nah
 wiki_slug: youn-sun-nah
 schema_version: 2
 status: active
-birth_place: Seoul, South Korea
+birth_place: 'Seoul, South Korea'
 genres:
-- vocal jazz
-- jazz
+  - vocal jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/youn_sun_nah.jpg
   caption: Youn Sun Nah
   background: solo_singer
-  origin: Seoul, South Korea
+  origin: 'Seoul, South Korea'
 audio_profile:
   tempo_avg: 113.1
   energy_avg: 0.23
@@ -27,50 +27,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ulf Wakenius
-  - Lars Danielsson
-  - Xavier Desandre-Navarre
-  - Niels Lan Doky
-  - Jon Cowherd
+    - Ulf Wakenius
+    - Lars Danielsson
+    - Xavier Desandre-Navarre
+    - Niels Lan Doky
+    - Jon Cowherd
   influenced:
-  - ''
+    - ''
   mentors:
-  - Faculty at CIM (École de jazz et musiques actuelles), Nadia and Lili Boulanger Conservatory, and Institut National de
-    Musique de Beauvais
-  - French chanson tradition (e.g., Edith Piaf) and iconic female vocalists (e.g., Nina Simone, Grace Jones)
+    - >-
+      Faculty at CIM (École de jazz et musiques actuelles), Nadia and Lili
+      Boulanger Conservatory, and Institut National de Musique de Beauvais
+    - >-
+      French chanson tradition (e.g., Edith Piaf) and iconic female vocalists
+      (e.g., Nina Simone, Grace Jones)
 spotify_data:
   followers: 53516
   id: 10tYA1kHmiT7kCfF6HX0Wj
   popularity: 36
-  url: https://open.spotify.com/artist/10tYA1kHmiT7kCfF6HX0Wj
+  url: 'https://open.spotify.com/artist/10tYA1kHmiT7kCfF6HX0Wj'
 discography_enriched: true
 top_tracks:
-- Jockey Full of Bourbon (Voyage)
-- Empty Dream (Lento)
-- Jockey Full of Bourbon (Magic Moments 4-Jazz Is Cool)
-- Feeling Good (Elles)
-- Asturias (Immersion)
-- Momento Magico (Lento)
-- I've Seen That Face Before (Libertango) (Elles)
-- Cocoon (Elles)
-- Calypso Blues (Voyage)
-- She Moves On (She Moves On (with Jamie Saft, Brad Jones & Dan Rieser))
+  - Jockey Full of Bourbon (Voyage)
+  - Empty Dream (Lento)
+  - Jockey Full of Bourbon (Magic Moments 4-Jazz Is Cool)
+  - Feeling Good (Elles)
+  - Asturias (Immersion)
+  - Momento Magico (Lento)
+  - I've Seen That Face Before (Libertango) (Elles)
+  - Cocoon (Elles)
+  - Calypso Blues (Voyage)
+  - 'She Moves On (She Moves On (with Jamie Saft, Brad Jones & Dan Rieser))'
 external_urls:
-  spotify: https://open.spotify.com/artist/10tYA1kHmiT7kCfF6HX0Wj
-  wikipedia: https://en.wikipedia.org/wiki/Na_Yoon-sun
+  spotify: 'https://open.spotify.com/artist/10tYA1kHmiT7kCfF6HX0Wj'
+  wikipedia: 'https://en.wikipedia.org/wiki/Na_Yoon-sun'
 image_path: 03_Resources/source_material/ArtistPortraits/youn_sun_nah.jpg
 biography_enhanced_at: '2025-12-09T04:18:51.948952'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- 'All About Jazz: Youn Sun Nah biography[1]'
-- IMN (International Music Network) artist profile[2]
-- Reston Community Center / ACT Music biographical PDF[3]
-- 15 Questions interview with Youn Sun Nah[4]
-- Wikipedia entry on Na Yoon-sun[5]
+  - 'All About Jazz: Youn Sun Nah biography[1]'
+  - 'IMN (International Music Network) artist profile[2]'
+  - 'Reston Community Center / ACT Music biographical PDF[3]'
+  - '15 Questions interview with Youn Sun Nah[4]'
+  - 'Wikipedia entry on Na Yoon-sun[5]'
 network_extracted: true
 entry_created: '2025-12-09T04:18:51.948961'
 last_updated: '2025-12-23T08:16:18.359778'
+birth_date: '1969-08-28'
+artist_type: person
 ---
 
 ![](youn_sun_nah.jpg)

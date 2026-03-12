@@ -4,7 +4,7 @@ wiki_slug: basin-street-six
 schema_version: 2
 status: active
 genres:
-- ragtime
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/basin_street_six.jpg
   caption: Basin Street Six
@@ -24,52 +24,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - George Girard
-  - Pete Fountain
-  - Joe Rotis
-  - Roy Zimmerman
-  - Bunny Franks
-  - Charlie Duke
-  - Johnny Edwards
+    - George Girard
+    - Pete Fountain
+    - Joe Rotis
+    - Roy Zimmerman
+    - Bunny Franks
+    - Charlie Duke
+    - Johnny Edwards
   influenced:
-  - Pete Fountain
-  - George Girard
+    - Pete Fountain
+    - George Girard
   mentors:
-  - Older New Orleans jazz musicians
+    - Older New Orleans jazz musicians
 spotify_data:
   followers: 64
   id: 1xveDCJRXRSU73b5AXDeHl
   popularity: 0
-  url: https://open.spotify.com/artist/1xveDCJRXRSU73b5AXDeHl
+  url: 'https://open.spotify.com/artist/1xveDCJRXRSU73b5AXDeHl'
 discography_enriched: true
 top_tracks:
-- 'My Inspiration (Pete Fountain Presents The Best Of Dixieland: Pete Fountain)'
-- 'Tin Roof Blues (Pete Fountain Presents The Best Of Dixieland: Pete Fountain)'
-- Margie (The Complete Circle Recordings)
-- Farewell Blues (The Complete Circle Recordings)
-- 'That''s a Plenty #1 (The Complete Circle Recordings)'
-- 'That''s a Plenty #2 (The Complete Circle Recordings)'
-- Up a Lazy River (The Complete Circle Recordings)
-- Jazz Me Blues (The Complete Circle Recordings)
-- I'm Going Home (The Complete Circle Recordings)
-- High Society (The Complete Circle Recordings)
+  - 'My Inspiration (Pete Fountain Presents The Best Of Dixieland: Pete Fountain)'
+  - 'Tin Roof Blues (Pete Fountain Presents The Best Of Dixieland: Pete Fountain)'
+  - Margie (The Complete Circle Recordings)
+  - Farewell Blues (The Complete Circle Recordings)
+  - 'That''s a Plenty #1 (The Complete Circle Recordings)'
+  - 'That''s a Plenty #2 (The Complete Circle Recordings)'
+  - Up a Lazy River (The Complete Circle Recordings)
+  - Jazz Me Blues (The Complete Circle Recordings)
+  - I'm Going Home (The Complete Circle Recordings)
+  - High Society (The Complete Circle Recordings)
 external_urls:
-  spotify: https://open.spotify.com/artist/1xveDCJRXRSU73b5AXDeHl
-  wikipedia: https://en.wikipedia.org/wiki/Basin_Street_Six
+  spotify: 'https://open.spotify.com/artist/1xveDCJRXRSU73b5AXDeHl'
+  wikipedia: 'https://en.wikipedia.org/wiki/Basin_Street_Six'
 image_path: 03_Resources/source_material/ArtistPortraits/basin_street_six.jpg
 biography_enhanced_at: '2025-10-22T09:22:21.014029'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Basin_Street_Six
-- http://petefountain.blogspot.com/2007/06/basin-street-six-complete-circle.html
-- http://petefountain.blogspot.com/2007/10/basin-street-six-americas-music-mercury.html
-- https://syncopatedtimes.com/pete-fountain-and-his-basin-street-six/
-- https://www.allmusic.com/artist/basin-street-six-mn0000037574
+  - 'https://en.wikipedia.org/wiki/Basin_Street_Six'
+  - >-
+    http://petefountain.blogspot.com/2007/06/basin-street-six-complete-circle.html
+  - >-
+    http://petefountain.blogspot.com/2007/10/basin-street-six-americas-music-mercury.html
+  - 'https://syncopatedtimes.com/pete-fountain-and-his-basin-street-six/'
+  - 'https://www.allmusic.com/artist/basin-street-six-mn0000037574'
 network_extracted: true
 entry_created: '2025-10-22T09:22:21.014047'
 last_updated: '2025-12-23T08:16:05.133919'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![](basin_street_six.jpg)

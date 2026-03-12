@@ -1,14 +1,14 @@
 ---
-title: elroy dietzel
+title: Elroy Dietzel
 wiki_slug: elroy-dietzel
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1936'
-birth_place: Seguin
+birth_place: 'Seguin, Texas, United States'
 death_date: 1990-05
 genres:
-- rockabilly
+  - rockabilly
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/elroy_dietzel.jpg
   caption: elroy dietzel
@@ -31,48 +31,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Joe Melson
-  - Dick Matlock
-  - Bill Chance
-  - Larry Parks
+    - Joe Melson
+    - Dick Matlock
+    - Bill Chance
+    - Larry Parks
   influenced: []
   mentors:
-  - Jack Rhodes
-  - Don Carter
+    - Jack Rhodes
+    - Don Carter
 spotify_data:
   followers: 107
   id: 50TxOv3mBtYXj3Nf58h87D
   popularity: 1
-  url: https://open.spotify.com/artist/50TxOv3mBtYXj3Nf58h87D
+  url: 'https://open.spotify.com/artist/50TxOv3mBtYXj3Nf58h87D'
 discography_enriched: true
 top_tracks:
-- Rock-n-Bones (This Is Elroy)
-- 'Rock-n-Bones (Gene Vincent Cut Our Songs: Primitive Texas Rockabilly & Honky Tonk)'
-- Rock-n-Bones (A Ball Tonight)
-- Teenage Ball (A Ball Tonight)
-- Teenage Ball (This Is Elroy)
-- 'Shang-Hai-Rock (Gene Vincent Cut Our Songs: Primitive Texas Rockabilly & Honky Tonk)'
-- Precious Desires (Best Of Untamed, Vol. 3 - Filthy Sleazey 50´S Rock´n´Roll)
-- Teenage Ball (Keb Darge and Little Edith's Legendary Wild Rockers 5)
-- Teenage Ball (Rock-A-Billy Dynamite, Vol. 24)
-- Rock'n'Bones (Rare, Raw, Rock & Roll, Vol. 1)
+  - Rock-n-Bones (This Is Elroy)
+  - >-
+    Rock-n-Bones (Gene Vincent Cut Our Songs: Primitive Texas Rockabilly & Honky
+    Tonk)
+  - Rock-n-Bones (A Ball Tonight)
+  - Teenage Ball (A Ball Tonight)
+  - Teenage Ball (This Is Elroy)
+  - >-
+    Shang-Hai-Rock (Gene Vincent Cut Our Songs: Primitive Texas Rockabilly &
+    Honky Tonk)
+  - 'Precious Desires (Best Of Untamed, Vol. 3 - Filthy Sleazey 50´S Rock´n´Roll)'
+  - Teenage Ball (Keb Darge and Little Edith's Legendary Wild Rockers 5)
+  - 'Teenage Ball (Rock-A-Billy Dynamite, Vol. 24)'
+  - 'Rock''n''Bones (Rare, Raw, Rock & Roll, Vol. 1)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ccc4b2af-9183-40d3-a620-c4aa9a9118e2
-  spotify: https://open.spotify.com/artist/50TxOv3mBtYXj3Nf58h87D
-  wikipedia: https://de.wikipedia.org/wiki/Elroy_Dietzel
+  musicbrainz: 'https://musicbrainz.org/artist/ccc4b2af-9183-40d3-a620-c4aa9a9118e2'
+  spotify: 'https://open.spotify.com/artist/50TxOv3mBtYXj3Nf58h87D'
+  wikipedia: 'https://de.wikipedia.org/wiki/Elroy_Dietzel'
 image_path: 03_Resources/source_material/ArtistPortraits/elroy_dietzel.jpg
 biography_enhanced_at: '2025-10-25T10:10:18.946369'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://privat.bahnhof.se/wb797242/gorock/singles-1957-1/elroy-dietzel--the-rhythm.html
-- https://de.wikipedia.org/wiki/Elroy_Dietzel
-- https://www.rocky-52.net/chanteursd/dietzel_h.htm
+  - >-
+    http://privat.bahnhof.se/wb797242/gorock/singles-1957-1/elroy-dietzel--the-rhythm.html
+  - 'https://de.wikipedia.org/wiki/Elroy_Dietzel'
+  - 'https://www.rocky-52.net/chanteursd/dietzel_h.htm'
 network_extracted: true
 entry_created: '2025-10-25T10:10:18.946379'
 last_updated: '2025-12-23T08:16:08.347798'
 gender: Male
 musicbrainz_id: ccc4b2af-9183-40d3-a620-c4aa9a9118e2
+is_active: false
 ---
 
 ![](elroy_dietzel.jpg)

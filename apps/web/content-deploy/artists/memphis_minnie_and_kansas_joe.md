@@ -3,54 +3,58 @@ biography_enhanced_at: '2026-01-09T02:03:34.350069'
 enhancement_provider: perplexity
 entry_created: '2026-01-09T02:03:34.350075'
 external_urls:
-  spotify: https://open.spotify.com/artist/2Dp1cq7ozeGAHEPlFVDksl
-  wikipedia: https://en.wikipedia.org/wiki/Memphis_Minnie
+  spotify: 'https://open.spotify.com/artist/2Dp1cq7ozeGAHEPlFVDksl'
+  wikipedia: 'https://en.wikipedia.org/wiki/Memphis_Minnie'
 genres:
-- country blues
-- blues
-- classic blues
+  - country blues
+  - blues
+  - classic blues
 image_path: 03_Resources/source_material/ArtistPortraits/memphis_minnie_and_kansas_joe.jpg
 last_updated: '2026-01-09T02:03:34.350076'
 musical_connections:
   collaborators:
-  - Memphis Minnie (Lizzie Douglas)
-  - Kansas Joe McCoy (Wilbur Joe McCoy)
-  - Casey Bill Weldon
-  - Papa Charlie McCoy
-  - Ernest “Little Son Joe” Lawlars (Lawlers)
-  - Harlem Hamfats
-  - Lester Melrose
+    - Memphis Minnie (Lizzie Douglas)
+    - Kansas Joe McCoy (Wilbur Joe McCoy)
+    - Casey Bill Weldon
+    - Papa Charlie McCoy
+    - Ernest “Little Son Joe” Lawlars (Lawlers)
+    - Harlem Hamfats
+    - Lester Melrose
   influenced:
-  - Led Zeppelin (especially Robert Plant & Jimmy Page)
-  - Robert Plant
-  - Modern blues and roots guitarists (e.g., Erin Harpe)
-  - Later electric Chicago blues players
+    - Led Zeppelin (especially Robert Plant & Jimmy Page)
+    - Robert Plant
+    - 'Modern blues and roots guitarists (e.g., Erin Harpe)'
+    - Later electric Chicago blues players
   mentors:
-  - Beale Street musicians (Memphis scene)
-  - Memphis jug band and small‑combo tradition
+    - Beale Street musicians (Memphis scene)
+    - Memphis jug band and small‑combo tradition
 network_extracted: true
-origin: 'Memphis Minnie: likely Algiers, Louisiana, United States (birthplace); Kansas
-  Joe McCoy: Raymond, Mississippi, United States (birthplace). The duo’s key origin
-  as an act was Memphis, Tennessee, United States, later based in Chicago, Illinois,
-  United States.'
+origin: >-
+  Memphis Minnie: likely Algiers, Louisiana, United States (birthplace); Kansas
+  Joe McCoy: Raymond, Mississippi, United States (birthplace). The duo’s key
+  origin as an act was Memphis, Tennessee, United States, later based in
+  Chicago, Illinois, United States.
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Memphis_Minnie
-- https://en.wikipedia.org/wiki/Kansas_Joe_McCoy
-- https://folkalley.com/black-history-month-spotlight-on-memphis-minnie-2/
-- https://blues.org/blues_hof_inductee/memphis-minnie/
-- https://64parishes.org/entry/memphis-minnie
-- https://www.guitarplayer.com/players/listen-to-memphis-minnie-and-kansas-joes-1929-original-when-the-levee-breaks
-- https://americansongwriter.com/kansas-joe-mccoy-memphis-minnie-levee-breaks/
-- https://memphismusichalloffame.com/inductee/memphisminnie/
-- https://www.bear-family.com/memphis-minnie-kansas-joe/
+  - 'https://en.wikipedia.org/wiki/Memphis_Minnie'
+  - 'https://en.wikipedia.org/wiki/Kansas_Joe_McCoy'
+  - 'https://folkalley.com/black-history-month-spotlight-on-memphis-minnie-2/'
+  - 'https://blues.org/blues_hof_inductee/memphis-minnie/'
+  - 'https://64parishes.org/entry/memphis-minnie'
+  - >-
+    https://www.guitarplayer.com/players/listen-to-memphis-minnie-and-kansas-joes-1929-original-when-the-levee-breaks
+  - 'https://americansongwriter.com/kansas-joe-mccoy-memphis-minnie-levee-breaks/'
+  - 'https://memphismusichalloffame.com/inductee/memphisminnie/'
+  - 'https://www.bear-family.com/memphis-minnie-kansas-joe/'
 spotify_data:
   followers: 1791
   id: 2Dp1cq7ozeGAHEPlFVDksl
   popularity: 5
-  url: https://open.spotify.com/artist/2Dp1cq7ozeGAHEPlFVDksl
+  url: 'https://open.spotify.com/artist/2Dp1cq7ozeGAHEPlFVDksl'
 status: active
-title: memphis minnie and kansas joe
+title: Memphis Minnie and Kansas Joe
+birth_place: 'Algiers, Louisiana, United States'
+artist_type: band
 ---
 
 ![](memphis_minnie_and_kansas_joe.jpg)

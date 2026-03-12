@@ -2,15 +2,15 @@
 title: Robert Jon & The Wreck
 wiki_slug: robert-jon-the-wreck
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '2011'
 genres:
-- southern rock
-- blues rock
-- modern blues
-- country rock
-- blues
+  - southern rock
+  - blues rock
+  - modern blues
+  - country rock
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/robert_jon_and_the_wreck.jpg
   caption: Robert Jon & The Wreck
@@ -31,48 +31,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Joe Bonamassa
-  - Peter Frampton
-  - Band Members
-  - Don Was, Kevin Shirley, Dave Cobb
+    - Joe Bonamassa
+    - Peter Frampton
+    - Band Members
+    - 'Don Was, Kevin Shirley, Dave Cobb'
   influenced:
-  - Emerging Southern Rock Bands
+    - Emerging Southern Rock Bands
   mentors:
-  - Warren Huart
+    - Warren Huart
 spotify_data:
   followers: 33802
   id: 4FXvPjJz57tIo23OpzHlYC
   popularity: 36
-  url: https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC
+  url: 'https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC'
 discography_enriched: true
 top_tracks:
-- Dark Angel (Dark Angel)
-- Long Gone (Long Gone)
-- Boss Man (Red Moon Rising (Deluxe Edition))
-- Oh Miss Carolina (Last Light on the Highway)
-- Sittin' Pretty (Sittin' Pretty)
-- Keep Myself Clean (Keep Myself Clean)
-- Heartbreak & Last Goodbye (Heartbreaks & Last Goodbyes)
-- Gold (Last Light on the Highway)
-- I Wanna Give It
-- Hold On (Red Moon Rising)
+  - Dark Angel (Dark Angel)
+  - Long Gone (Long Gone)
+  - Boss Man (Red Moon Rising (Deluxe Edition))
+  - Oh Miss Carolina (Last Light on the Highway)
+  - Sittin' Pretty (Sittin' Pretty)
+  - Keep Myself Clean (Keep Myself Clean)
+  - Heartbreak & Last Goodbye (Heartbreaks & Last Goodbyes)
+  - Gold (Last Light on the Highway)
+  - I Wanna Give It
+  - Hold On (Red Moon Rising)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6849f4e1-d94a-4efb-a6b9-2edb287aae8e
-  spotify: https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC
-  wikipedia: https://en.wikipedia.org/wiki/Robert_Jon_%26_the_Wreck
+  musicbrainz: 'https://musicbrainz.org/artist/6849f4e1-d94a-4efb-a6b9-2edb287aae8e'
+  spotify: 'https://open.spotify.com/artist/4FXvPjJz57tIo23OpzHlYC'
+  wikipedia: 'https://en.wikipedia.org/wiki/Robert_Jon_%26_the_Wreck'
 image_path: 03_Resources/source_material/ArtistPortraits/robert_jon_and_the_wreck.jpg
 biography_enhanced_at: '2025-10-30T11:54:14.635213'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Robert_Jon_%26_the_Wreck
-- https://robertjonandthewreck.com/about/
-- https://intrepidartists.com/artists/robert-jon-the-wreck/
+  - 'https://en.wikipedia.org/wiki/Robert_Jon_%26_the_Wreck'
+  - 'https://robertjonandthewreck.com/about/'
+  - 'https://intrepidartists.com/artists/robert-jon-the-wreck/'
 network_extracted: true
 entry_created: '2025-10-30T11:54:14.635221'
 last_updated: '2025-12-23T08:16:14.906469'
 musicbrainz_id: 6849f4e1-d94a-4efb-a6b9-2edb287aae8e
-origin: Orange County, California, United States
+origin: 'Orange County, California, United States'
 ---
 
 ![](robert_jon_and_the_wreck.jpg)

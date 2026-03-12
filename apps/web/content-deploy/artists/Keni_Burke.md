@@ -2,20 +2,20 @@
 title: Keni Burke
 wiki_slug: keni-burke
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1953-09-28'
-birth_place: Chicago, Illinois, United States
+birth_place: 'Chicago, Illinois, United States'
 genres:
-- post-disco
+  - post-disco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Keni_Burke.jpg
   caption: Keni Burke
   background: solo_singer
   born: '1953-09-28'
-  origin: Chicago, Illinois, United States
+  origin: 'Chicago, Illinois, United States'
 audio_profile:
-  tempo_avg: 120.0
+  tempo_avg: 120
   energy_avg: 0.662
   valence_avg: 0.723
   danceability_avg: 0.694
@@ -29,57 +29,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Five Stairsteps
-  - Sly & the Family Stone
-  - Natalie Cole
-  - Billy Preston
-  - Dusty Springfield
-  - Diana Ross
-  - Gladys Knight
-  - Peabo Bryson
-  - The O'Jays
-  - The Jones Girls
-  - Keith Sweat
+    - Five Stairsteps
+    - Sly & the Family Stone
+    - Natalie Cole
+    - Billy Preston
+    - Dusty Springfield
+    - Diana Ross
+    - Gladys Knight
+    - Peabo Bryson
+    - The O'Jays
+    - The Jones Girls
+    - Keith Sweat
   influenced:
-  - Doug E. Fresh
-  - Big Daddy Kane
-  - LL Cool J
-  - Pete Rock & CL Smooth
-  - Mary J. Blige
-  - O.C.
-  - Sean Price
+    - Doug E. Fresh
+    - Big Daddy Kane
+    - LL Cool J
+    - Pete Rock & CL Smooth
+    - Mary J. Blige
+    - O.C.
+    - Sean Price
   mentors:
-  - Curtis Mayfield
-  - Bill Withers
+    - Curtis Mayfield
+    - Bill Withers
 spotify_data:
   followers: 34948
   id: 1EVOoMiMrmOEYXHd36poF2
   popularity: 35
-  url: https://open.spotify.com/artist/1EVOoMiMrmOEYXHd36poF2
+  url: 'https://open.spotify.com/artist/1EVOoMiMrmOEYXHd36poF2'
 discography_enriched: true
 top_tracks:
-- Risin' to the Top (Changes (Expanded Edition))
-- Risin' to the Top - 7" Version (Changes (Expanded Edition))
-- So Real
-- Let Somebody Love You (You're the Best (Expanded))
-- Hang Tight (Changes (Expanded Edition))
-- Indigenous Love (Nothin' But Love)
-- All Night (Changes (Expanded Edition))
-- One Minute More (Changes (Expanded Edition))
-- Risin' to the Top
-- Tell Me You Want My Love (Nothin' But Love)
+  - Risin' to the Top (Changes (Expanded Edition))
+  - Risin' to the Top - 7" Version (Changes (Expanded Edition))
+  - So Real
+  - Let Somebody Love You (You're the Best (Expanded))
+  - Hang Tight (Changes (Expanded Edition))
+  - Indigenous Love (Nothin' But Love)
+  - All Night (Changes (Expanded Edition))
+  - One Minute More (Changes (Expanded Edition))
+  - Risin' to the Top
+  - Tell Me You Want My Love (Nothin' But Love)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e2d38070-361c-43f2-bca3-d08c54222761
-  spotify: https://open.spotify.com/artist/1EVOoMiMrmOEYXHd36poF2
-  wikipedia: https://en.wikipedia.org/wiki/Keni_Burke
+  musicbrainz: 'https://musicbrainz.org/artist/e2d38070-361c-43f2-bca3-d08c54222761'
+  spotify: 'https://open.spotify.com/artist/1EVOoMiMrmOEYXHd36poF2'
+  wikipedia: 'https://en.wikipedia.org/wiki/Keni_Burke'
 image_path: 03_Resources/source_material/ArtistPortraits/Keni_Burke.jpg
 biography_enhanced_at: '2025-10-20T10:26:56.554275'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Keni_Burke
-- https://historicalalbumsdatabase.wordpress.com/category/keni-burke/
-- http://www.nts.live/artists/4893-keni-burke
+  - 'https://en.wikipedia.org/wiki/Keni_Burke'
+  - 'https://historicalalbumsdatabase.wordpress.com/category/keni-burke/'
+  - 'http://www.nts.live/artists/4893-keni-burke'
 network_extracted: true
 entry_created: '2025-10-20T10:26:56.555370'
 last_updated: '2025-12-23T08:16:02.825182'
@@ -87,7 +87,7 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:33:39.404101'
 musicbrainz_id: e2d38070-361c-43f2-bca3-d08c54222761
 tags:
-- r&b
+  - r&b
 ---
 
 ![](Keni_Burke.jpg)

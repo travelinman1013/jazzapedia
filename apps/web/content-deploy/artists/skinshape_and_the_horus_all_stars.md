@@ -1,42 +1,45 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-14T01:07:43.435699'
-birth_place: Swanage, Dorset, England
+birth_place: 'Swanage, Dorset, England'
 enhancement_provider: perplexity
 entry_created: '2026-01-14T01:07:43.435713'
 external_urls:
-  spotify: https://open.spotify.com/artist/1kSaigOop5HwNYafuqVtHs
+  spotify: 'https://open.spotify.com/artist/1kSaigOop5HwNYafuqVtHs'
   wikipedia: ''
 genres:
-- dub
-image_path: 03_Resources/source_material/ArtistPortraits/skinshape_and_the_horus_all_stars.jpg
+  - dub
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/skinshape_and_the_horus_all_stars.jpg
 last_updated: '2026-01-14T01:07:43.435714'
 musical_connections:
   collaborators:
-  - Ben Bell
-  - Jon Moody (Franc Moody)
-  - Thomas Blunt
-  - Palace (band)
+    - Ben Bell
+    - Jon Moody (Franc Moody)
+    - Thomas Blunt
+    - Palace (band)
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.forcedexposure.com/Artists/SKINSHAPE.html
-- http://spaceagencybooking.com/skinshape-london
-- https://apeconcerts.com/attraction/skinshape/
-- https://www.youtube.com/watch?v=jILcayovELA
-- https://www.allmusic.com/artist/skinshape-mn0003406441
-- https://skinshape.bandcamp.com
-- https://rock.fandom.com/wiki/Skinshape
-- https://www.resident-music.com/product/skinshape-x-horus-skinshape-x-horus
+  - 'https://www.forcedexposure.com/Artists/SKINSHAPE.html'
+  - 'http://spaceagencybooking.com/skinshape-london'
+  - 'https://apeconcerts.com/attraction/skinshape/'
+  - 'https://www.youtube.com/watch?v=jILcayovELA'
+  - 'https://www.allmusic.com/artist/skinshape-mn0003406441'
+  - 'https://skinshape.bandcamp.com'
+  - 'https://rock.fandom.com/wiki/Skinshape'
+  - 'https://www.resident-music.com/product/skinshape-x-horus-skinshape-x-horus'
 spotify_data:
   followers: 875
   id: 1kSaigOop5HwNYafuqVtHs
   popularity: 41
-  url: https://open.spotify.com/artist/1kSaigOop5HwNYafuqVtHs
+  url: 'https://open.spotify.com/artist/1kSaigOop5HwNYafuqVtHs'
 status: active
 title: Skinshape & The Horus All Stars
+origin: 'North London, England'
+birth_date: '1991-06-20'
 ---
 
 ![](skinshape_and_the_horus_all_stars.jpg)

@@ -5,33 +5,33 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1925-12-08'
-birth_place: Norristown
+birth_place: 'Norristown, Pennsylvania, United States'
 death_date: '2005-02-08'
 genres:
-- hard bop
-- soul jazz
-- jazz
-- jazz blues
-- jazz funk
-- cool jazz
+  - hard bop
+  - soul jazz
+  - jazz
+  - jazz blues
+  - jazz funk
+  - cool jazz
 instruments:
-- organ
-- original
-- piano
-- spoken vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - organ
   - original
-  mbid: b0a417a4-e49f-4307-aa97-bebda12fe388
-  name: Jimmy Smith Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5d317f50-8e05-467c-9d0c-6964cb45a0cd
-  name: The Rhythm Doctors
+  - piano
+  - spoken vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - organ
+      - original
+    mbid: b0a417a4-e49f-4307-aa97-bebda12fe388
+    name: Jimmy Smith Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5d317f50-8e05-467c-9d0c-6964cb45a0cd
+    name: The Rhythm Doctors
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jimmy_smith.jpg
   caption: Jimmy Smith
@@ -54,52 +54,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Stanley Turrentine
-  - Kenny Burrell
-  - Quincy Jones
-  - Joey DeFrancesco
-  - B.B. King, Dr. John, Etta James
+    - Stanley Turrentine
+    - Kenny Burrell
+    - Quincy Jones
+    - Joey DeFrancesco
+    - 'B.B. King, Dr. John, Etta James'
   influenced:
-  - Joey DeFrancesco
-  - Jon Lord (Deep Purple)
-  - Booker T. Jones
-  - Larry Young
+    - Joey DeFrancesco
+    - Jon Lord (Deep Purple)
+    - Booker T. Jones
+    - Larry Young
   mentors:
-  - Wild Bill Davis
-  - Art Tatum
-  - Erroll Garner
-  - Bud Powell
+    - Wild Bill Davis
+    - Art Tatum
+    - Erroll Garner
+    - Bud Powell
 spotify_data:
   followers: 115261
   id: 5GXruybcLmXPjR9rKKFyS6
   popularity: 39
-  url: https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6
+  url: 'https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6'
 discography_enriched: true
 top_tracks:
-- Midnight Special - Remastered 2007/Rudy Van Gelder Edition (Midnight Special (Remastered))
-- The Cat (The Cat)
-- I Just Wanna Make Love To You (Dot Com Blues)
-- Back At The Chicken Shack (Back At The Chicken Shack)
-- Jumpin' The Blues - Remastered 2007/Rudy Van Gelder Edition (Midnight Special (Remastered))
-- Root Down (And Get It) - Live (Root Down)
-- Organ Grinder’s Swing (Organ Grinder Swing)
-- Got My Mojo Workin' (Got My Mojo Workin')
-- 8 Counts For Rita (Dot Com Blues)
-- Baby, It's Cold Outside (Christmas Cookin')
+  - >-
+    Midnight Special - Remastered 2007/Rudy Van Gelder Edition (Midnight Special
+    (Remastered))
+  - The Cat (The Cat)
+  - I Just Wanna Make Love To You (Dot Com Blues)
+  - Back At The Chicken Shack (Back At The Chicken Shack)
+  - >-
+    Jumpin' The Blues - Remastered 2007/Rudy Van Gelder Edition (Midnight
+    Special (Remastered))
+  - Root Down (And Get It) - Live (Root Down)
+  - Organ Grinder’s Swing (Organ Grinder Swing)
+  - Got My Mojo Workin' (Got My Mojo Workin')
+  - 8 Counts For Rita (Dot Com Blues)
+  - 'Baby, It''s Cold Outside (Christmas Cookin'')'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4f8a0d9b-5777-40da-b29a-e9753d5ae693
-  spotify: https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6
-  wikipedia: https://en.wikipedia.org/wiki/Jimmy_Smith_(musician)
+  musicbrainz: 'https://musicbrainz.org/artist/4f8a0d9b-5777-40da-b29a-e9753d5ae693'
+  spotify: 'https://open.spotify.com/artist/5GXruybcLmXPjR9rKKFyS6'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jimmy_Smith_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/jimmy_smith.jpg
 biography_enhanced_at: '2025-10-25T10:02:48.937656'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.britannica.com/biography/Jimmy-Smith
-- https://en.wikipedia.org/wiki/Jimmy_Smith_(musician)
-- https://www.arts.gov/honors/jazz/jimmy-smith
-- https://blackpast.org/african-american-history/jimmy-smith-1928-2005/
-- https://aaregistry.org/story/jimmy-smith-made-the-organ-a-legitimate-jazz-instrument/
+  - 'https://www.britannica.com/biography/Jimmy-Smith'
+  - 'https://en.wikipedia.org/wiki/Jimmy_Smith_(musician)'
+  - 'https://www.arts.gov/honors/jazz/jimmy-smith'
+  - 'https://blackpast.org/african-american-history/jimmy-smith-1928-2005/'
+  - >-
+    https://aaregistry.org/story/jimmy-smith-made-the-organ-a-legitimate-jazz-instrument/
 network_extracted: true
 entry_created: '2025-10-25T10:02:48.937661'
 last_updated: '2025-12-23T08:16:10.501872'
@@ -107,9 +112,10 @@ disambiguation: US jazz organist
 gender: Male
 musicbrainz_id: 4f8a0d9b-5777-40da-b29a-e9753d5ae693
 tags:
-- hard bop
-- jazz
-- jazz musicians
+  - hard bop
+  - jazz
+  - jazz musicians
+is_active: false
 ---
 
 ![](jimmy_smith.jpg)

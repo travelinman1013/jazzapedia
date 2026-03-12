@@ -1,5 +1,5 @@
 ---
-title: desert nudes
+title: The Desert Nudes
 wiki_slug: desert-nudes
 schema_version: 2
 status: active
@@ -23,45 +23,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Johnny Sketch and the Dirty Notes
-  - The Radiators
+    - Johnny Sketch and the Dirty Notes
+    - The Radiators
   influenced: []
   mentors:
-  - Spencer Bohren
-  - Dave Malone
+    - Spencer Bohren
+    - Dave Malone
 spotify_data:
   followers: 168
   id: 0rdbisHLzwuFbWapZqdpBL
   popularity: 0
-  url: https://open.spotify.com/artist/0rdbisHLzwuFbWapZqdpBL
+  url: 'https://open.spotify.com/artist/0rdbisHLzwuFbWapZqdpBL'
 discography_enriched: true
 top_tracks:
-- Blues Stay Away from Me (Keep a-Movin, Dan)
-- Cool Water (Keep a-Movin, Dan)
-- Saddle Tramp (Keep a-Movin, Dan)
-- Don't Fence Me In (Keep a-Movin, Dan)
-- Still in Texas...Again (Keep a-Movin, Dan)
-- A Hundred and Sixty Acres (Keep a-Movin, Dan)
-- Red River Valley (Keep a-Movin, Dan)
-- Haven't Driven Since El Paso (Keep a-Movin, Dan)
-- Prairie Fire (Keep a-Movin, Dan)
-- Home on the Range (Keep a-Movin, Dan)
+  - 'Blues Stay Away from Me (Keep a-Movin, Dan)'
+  - 'Cool Water (Keep a-Movin, Dan)'
+  - 'Saddle Tramp (Keep a-Movin, Dan)'
+  - 'Don''t Fence Me In (Keep a-Movin, Dan)'
+  - 'Still in Texas...Again (Keep a-Movin, Dan)'
+  - 'A Hundred and Sixty Acres (Keep a-Movin, Dan)'
+  - 'Red River Valley (Keep a-Movin, Dan)'
+  - 'Haven''t Driven Since El Paso (Keep a-Movin, Dan)'
+  - 'Prairie Fire (Keep a-Movin, Dan)'
+  - 'Home on the Range (Keep a-Movin, Dan)'
 external_urls:
-  spotify: https://open.spotify.com/artist/0rdbisHLzwuFbWapZqdpBL
+  spotify: 'https://open.spotify.com/artist/0rdbisHLzwuFbWapZqdpBL'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/desert_nudes.jpg
 biography_enhanced_at: '2025-10-30T11:49:09.498382'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.offbeat.com/music/the-desert-nudes-keep-a-movin-dan-lazy-day-records/
-- https://www.louisianamusicfactory.com/product/the-desert-nudes-keep-a-movin-dan-cd/
-- https://www.youtube.com/watch?v=qpGmIbcAGgo
-- https://www.neworleans.com/listing/the-desert-nudes/48366/
+  - >-
+    https://www.offbeat.com/music/the-desert-nudes-keep-a-movin-dan-lazy-day-records/
+  - >-
+    https://www.louisianamusicfactory.com/product/the-desert-nudes-keep-a-movin-dan-cd/
+  - 'https://www.youtube.com/watch?v=qpGmIbcAGgo'
+  - 'https://www.neworleans.com/listing/the-desert-nudes/48366/'
 network_extracted: true
 entry_created: '2025-10-30T11:49:09.498572'
 last_updated: '2025-12-23T08:16:07.721319'
-origin: New Orleans, Louisiana, USA
+origin: 'New Orleans, Louisiana, USA'
+artist_type: band
 ---
 
 ![](desert_nudes.jpg)

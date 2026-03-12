@@ -5,7 +5,8 @@ schema_version: 2
 status: active
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/ben_webster_and_harry_edison.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/ben_webster_and_harry_edison.jpg
   caption: Ben Webster and Harry Edison
   background: solo_singer
 audio_profile:
@@ -23,48 +24,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Duke Ellington
-  - Oscar Peterson
-  - Frank Sinatra
-  - Billie Holiday
-  - Gerry Mulligan
-  - Norman Granz
+    - Duke Ellington
+    - Oscar Peterson
+    - Frank Sinatra
+    - Billie Holiday
+    - Gerry Mulligan
+    - Norman Granz
   influenced:
-  - Stan Getz
-  - Scott Hamilton
-  - Clark Terry
+    - Stan Getz
+    - Scott Hamilton
+    - Clark Terry
   mentors:
-  - Lester Young
-  - Budd Johnson
-  - Count Basie
+    - Lester Young
+    - Budd Johnson
+    - Count Basie
 spotify_data:
   followers: 16
   id: 1hwT6wsCgoG3LBSUzy50aX
   popularity: 1
-  url: https://open.spotify.com/artist/1hwT6wsCgoG3LBSUzy50aX
+  url: 'https://open.spotify.com/artist/1hwT6wsCgoG3LBSUzy50aX'
 discography_enriched: true
 top_tracks:
-- My Romance (The Jazz Masters - 27 Classic Performances From The Columbia Masterpieces Series)
-- My Romance (Schmuse Jazz Vol. 3)
-- My Romance (The Jazz Masters - 27 Classic Performances From The Columbia Masterpieces Series)
+  - >-
+    My Romance (The Jazz Masters - 27 Classic Performances From The Columbia
+    Masterpieces Series)
+  - My Romance (Schmuse Jazz Vol. 3)
+  - >-
+    My Romance (The Jazz Masters - 27 Classic Performances From The Columbia
+    Masterpieces Series)
 external_urls:
-  spotify: https://open.spotify.com/artist/1hwT6wsCgoG3LBSUzy50aX
-  wikipedia: https://en.wikipedia.org/wiki/Ben_Webster
+  spotify: 'https://open.spotify.com/artist/1hwT6wsCgoG3LBSUzy50aX'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ben_Webster'
 image_path: ''
 biography_enhanced_at: '2025-11-17T10:38:03.739396'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Ben_Webster
-- https://www.allaboutjazz.com/musicians/harry-sweets-edison/
-- https://jazzfuel.com/harry-sweets-edison/
-- https://www.ebsco.com/research-starters/music/ben-webster
-- https://nationaljazzarchive.org.uk/explore/interviews/1635310-ben-webster
-- https://thequietone.net/post/harry-edison-and-his-orchestra-sweets
+  - 'https://en.wikipedia.org/wiki/Ben_Webster'
+  - 'https://www.allaboutjazz.com/musicians/harry-sweets-edison/'
+  - 'https://jazzfuel.com/harry-sweets-edison/'
+  - 'https://www.ebsco.com/research-starters/music/ben-webster'
+  - 'https://nationaljazzarchive.org.uk/explore/interviews/1635310-ben-webster'
+  - 'https://thequietone.net/post/harry-edison-and-his-orchestra-sweets'
 network_extracted: true
 entry_created: '2025-11-17T10:38:03.739406'
 last_updated: '2025-12-23T08:16:05.278657'
-origin: Kansas City, Missouri, United States (Ben Webster); Columbus, Ohio, United States (Harry Edison)
+origin: >-
+  Kansas City, Missouri, United States (Ben Webster); Columbus, Ohio, United
+  States (Harry Edison)
+birth_place: 'Kansas City, Missouri, United States'
+birth_date: '1909'
+death_date: '1973'
+artist_type: person
 ---
 
 ![]()

@@ -1,13 +1,13 @@
 ---
-title: CHARMAINE NEVILLE BAND
+title: Charmaine Neville Band
 wiki_slug: charmaine-neville-band
 schema_version: 2
-artist_type: Group
+artist_type: person
 status: active
 genres: []
 instruments:
-- eponymous
-- original
+  - eponymous
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/CHARMAINE_NEVILLE_BAND.jpg
   caption: CHARMAINE NEVILLE BAND
@@ -27,55 +27,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Amasa Miller
-  - Detroit Brooks
-  - Gerald French
-  - Jesse Boyd
-  - The Neville Brothers
-  - Harry Connick Jr. and Bobby McFerrin
+    - Amasa Miller
+    - Detroit Brooks
+    - Gerald French
+    - Jesse Boyd
+    - The Neville Brothers
+    - Harry Connick Jr. and Bobby McFerrin
   influenced:
-  - New Orleans musicians and vocalists
+    - New Orleans musicians and vocalists
   mentors:
-  - Charles Neville
+    - Charles Neville
 spotify_data:
   followers: 701
   id: 6WEhRLxdlOFux8JxeKp6kj
   popularity: 1
-  url: https://open.spotify.com/artist/6WEhRLxdlOFux8JxeKp6kj
+  url: 'https://open.spotify.com/artist/6WEhRLxdlOFux8JxeKp6kj'
 discography_enriched: true
 top_tracks:
-- second line (Queen of the Mardi Gras)
-- the right key but the wrong keyhole (it's about time)
-- it ain't my fault (Queen of the Mardi Gras)
-- iko iko (Queen of the Mardi Gras)
-- Da Rhythm (Before the Storm)
-- softly , as in a morning sunrise (it's about time)
-- mardi gras in new orleans (Queen of the Mardi Gras)
-- clean up (Queen of the Mardi Gras)
-- 'Indian Medley: Shoo Fly / Fire Water / Iko Iko / Indian Red (Before the Storm)'
-- dance (it's about time)
+  - second line (Queen of the Mardi Gras)
+  - the right key but the wrong keyhole (it's about time)
+  - it ain't my fault (Queen of the Mardi Gras)
+  - iko iko (Queen of the Mardi Gras)
+  - Da Rhythm (Before the Storm)
+  - 'softly , as in a morning sunrise (it''s about time)'
+  - mardi gras in new orleans (Queen of the Mardi Gras)
+  - clean up (Queen of the Mardi Gras)
+  - >-
+    Indian Medley: Shoo Fly / Fire Water / Iko Iko / Indian Red (Before the
+    Storm)
+  - dance (it's about time)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/27d461aa-3be5-4bc3-ae5b-3ff32e7a21db
-  spotify: https://open.spotify.com/artist/6WEhRLxdlOFux8JxeKp6kj
-  wikipedia: https://kids.kiddle.co/Charmaine_Neville
+  musicbrainz: 'https://musicbrainz.org/artist/27d461aa-3be5-4bc3-ae5b-3ff32e7a21db'
+  spotify: 'https://open.spotify.com/artist/6WEhRLxdlOFux8JxeKp6kj'
+  wikipedia: 'https://kids.kiddle.co/Charmaine_Neville'
 image_path: 03_Resources/source_material/ArtistPortraits/CHARMAINE_NEVILLE_BAND.jpg
 biography_enhanced_at: '2025-10-20T09:50:50.203172'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://kids.kiddle.co/Charmaine_Neville
-- https://nowim.dreamhosters.com/wp/?p=144
-- https://mistergsongs.com/profile/charmaine-neville/
-- https://www.offbeat.com/music/charmaine-neville-band-before-the-storm-independent/
-- https://www.thesexismproject.com/charmaine-neville
+  - 'https://kids.kiddle.co/Charmaine_Neville'
+  - 'https://nowim.dreamhosters.com/wp/?p=144'
+  - 'https://mistergsongs.com/profile/charmaine-neville/'
+  - >-
+    https://www.offbeat.com/music/charmaine-neville-band-before-the-storm-independent/
+  - 'https://www.thesexismproject.com/charmaine-neville'
 network_extracted: true
 entry_created: '2025-10-20T09:50:50.203187'
 last_updated: '2025-12-23T08:16:01.413149'
 musicbrainz_enriched_at: '2025-10-21T09:20:58.676014'
 musicbrainz_id: 27d461aa-3be5-4bc3-ae5b-3ff32e7a21db
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 tags:
-- jazz
+  - jazz
+birth_place: 'New Orleans, Louisiana, United States'
+birth_date: '1956-03-31'
 ---
 
 ![](CHARMAINE_NEVILLE_BAND.jpg)

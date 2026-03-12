@@ -1,38 +1,41 @@
 ---
 biography_enhanced_at: '2026-01-03T01:44:12.671194'
-birth_place: Lower 9th Ward, New Orleans, Louisiana, USA
+birth_place: 'Lower 9th Ward, New Orleans, Louisiana, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-03T01:44:12.671209'
 external_urls:
-  spotify: https://open.spotify.com/artist/7rfTAFWGEBwzluEGizTi7h
+  spotify: 'https://open.spotify.com/artist/7rfTAFWGEBwzluEGizTi7h'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/robin_barnes.jpg
 last_updated: '2026-01-03T01:44:12.671210'
 musical_connections:
   collaborators:
-  - Pat Casey
-  - Fiya Birds
-  - family band
+    - Pat Casey
+    - Fiya Birds
+    - family band
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://robinbarnesmusic.com
-- https://test.wwoz.org/acts/robin-barnes
-- https://musicinsideout.wwno.org/robin-barnes/
-- https://www.neworleans.com/blog/post/my-new-orleans-20-questions-with-robin-barnes/
-- https://www.btdfoundation.org/robin-barnes/
-- https://robinbarnesmusic.com/modern-funky-jazz-music
-- https://nolafamily.com/mom-about-town-robin-barnes/
+  - 'https://robinbarnesmusic.com'
+  - 'https://test.wwoz.org/acts/robin-barnes'
+  - 'https://musicinsideout.wwno.org/robin-barnes/'
+  - >-
+    https://www.neworleans.com/blog/post/my-new-orleans-20-questions-with-robin-barnes/
+  - 'https://www.btdfoundation.org/robin-barnes/'
+  - 'https://robinbarnesmusic.com/modern-funky-jazz-music'
+  - 'https://nolafamily.com/mom-about-town-robin-barnes/'
 spotify_data:
   followers: 1367
   id: 7rfTAFWGEBwzluEGizTi7h
   popularity: 6
-  url: https://open.spotify.com/artist/7rfTAFWGEBwzluEGizTi7h
+  url: 'https://open.spotify.com/artist/7rfTAFWGEBwzluEGizTi7h'
 status: active
 title: Robin Barnes
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](robin_barnes.jpg)

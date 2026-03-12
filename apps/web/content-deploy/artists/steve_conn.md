@@ -1,25 +1,25 @@
 ---
-title: steve conn
+title: Steve Conn
 wiki_slug: steve-conn
 schema_version: 2
 status: active
-birth_place: Pineville, Louisiana, United States
+birth_place: 'Pineville, Louisiana, United States'
 genres:
-- zydeco
-- cajun
+  - zydeco
+  - cajun
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/steve_conn.jpg
   caption: steve conn
   background: solo_singer
-  origin: Pineville, Louisiana, United States
+  origin: 'Pineville, Louisiana, United States'
 audio_profile:
-  tempo_avg: 121.0
+  tempo_avg: 121
   energy_avg: 0.498
   valence_avg: 0.475
   danceability_avg: 0.585
   acousticness_avg: 0.53
   instrumentalness_avg: 0.015
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.037
   liveness_avg: 0.169
   track_count: 50
@@ -27,55 +27,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sonny Landreth
-  - Bonnie Raitt
-  - Kris Kristofferson
-  - Albert King
-  - Sheena Easton
-  - Shemekia Copeland
-  - BeauSoleil
-  - Arlo Guthrie
-  - Nanci Griffith
-  - Kenny Loggins
+    - Sonny Landreth
+    - Bonnie Raitt
+    - Kris Kristofferson
+    - Albert King
+    - Sheena Easton
+    - Shemekia Copeland
+    - BeauSoleil
+    - Arlo Guthrie
+    - Nanci Griffith
+    - Kenny Loggins
   influenced:
-  - Miss Louisiana
-  - Bonnie Bramlett
+    - Miss Louisiana
+    - Bonnie Bramlett
   mentors:
-  - Father (unnamed)
-  - Michael Doucet
+    - Father (unnamed)
+    - Michael Doucet
 spotify_data:
   followers: 234
   id: 532RiYXTgcUEnJkKyKSTk3
   popularity: 2
-  url: https://open.spotify.com/artist/532RiYXTgcUEnJkKyKSTk3
+  url: 'https://open.spotify.com/artist/532RiYXTgcUEnJkKyKSTk3'
 discography_enriched: true
 top_tracks:
-- That's What The Doctor Said (Stomping Ground)
-- Sing Me To the Other Side (Flesh and Bone)
-- Satisfied (Flesh and Bone)
-- Beautiful Dream (Beautiful Dream)
-- Somebody Gotta Make A Move (Steve Conn)
-- Eliana (Steve Conn)
-- Down On Rigolette (Steve Conn)
-- Mardi Gras Morning (River of Madness)
-- The One and Only Truth (River of Madness)
-- In The Bleak Midwinter (Holiday Winterlude)
+  - That's What The Doctor Said (Stomping Ground)
+  - Sing Me To the Other Side (Flesh and Bone)
+  - Satisfied (Flesh and Bone)
+  - Beautiful Dream (Beautiful Dream)
+  - Somebody Gotta Make A Move (Steve Conn)
+  - Eliana (Steve Conn)
+  - Down On Rigolette (Steve Conn)
+  - Mardi Gras Morning (River of Madness)
+  - The One and Only Truth (River of Madness)
+  - In The Bleak Midwinter (Holiday Winterlude)
 external_urls:
-  spotify: https://open.spotify.com/artist/532RiYXTgcUEnJkKyKSTk3
+  spotify: 'https://open.spotify.com/artist/532RiYXTgcUEnJkKyKSTk3'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/steve_conn.jpg
 biography_enhanced_at: '2025-11-06T13:25:11.516509'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Miss Jill PR
-- Boulder Weekly
-- Blues.gr interview
-- Steve Conn official website
-- Yamaha Artists
+  - Miss Jill PR
+  - Boulder Weekly
+  - Blues.gr interview
+  - Steve Conn official website
+  - Yamaha Artists
 network_extracted: true
 entry_created: '2025-11-06T13:25:11.516534'
 last_updated: '2025-12-23T08:16:16.079807'
+artist_type: person
 ---
 
 ![](steve_conn.jpg)

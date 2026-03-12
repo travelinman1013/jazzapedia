@@ -5,45 +5,45 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1983-06-17'
-birth_place: Huntington
+birth_place: 'Huntington, New York, United States'
 death_date: '2022-08-22'
 genres:
-- free jazz
-- jazz
+  - free jazz
+  - jazz
 instruments:
-- trumpet
-- original
-associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2fc61b8f-63c4-432e-adfe-c3b6c0ecd8ea
-  name: Anteloper
-- begin: ''
-  end: ''
-  instruments:
   - trumpet
-  mbid: d0e60f31-910b-4073-9f4b-afbcc08eb905
-  name: Medicine Singers
-- begin: ''
-  end: ''
-  instruments:
   - original
-  - trumpet
-  mbid: 0978ec4f-68d8-4b7f-aa64-eefdd1884949
-  name: The Band of Guardian Angels
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: d782afec-7b3d-4aa8-a294-45f31ccc9d0b
-  name: Galactic Unity Ensemble
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: f894b920-0d90-46db-aa29-8997dbac4570
-  name: New Fracture Quartet
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2fc61b8f-63c4-432e-adfe-c3b6c0ecd8ea
+    name: Anteloper
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: d0e60f31-910b-4073-9f4b-afbcc08eb905
+    name: Medicine Singers
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - trumpet
+    mbid: 0978ec4f-68d8-4b7f-aa64-eefdd1884949
+    name: The Band of Guardian Angels
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: d782afec-7b3d-4aa8-a294-45f31ccc9d0b
+    name: Galactic Unity Ensemble
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: f894b920-0d90-46db-aa29-8997dbac4570
+    name: New Fracture Quartet
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jaimie_branch.jpg
   caption: Jaimie Branch
@@ -66,68 +66,68 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tomeka Reid
-  - Jason Ajemian
-  - Chad Taylor
-  - Lester St. Louis
-  - Jason Nazary
-  - Keefe Jackson
-  - Tim Daisy
-  - Ken Vandermark
-  - William Parker
-  - David Murray
-  - Rob Mazurek
-  - Alabaster dePlume
-  - The Bug (Kevin Martin)
-  - Medicine Singers
-  - Local H
-  - Never Enough Hope
-  - Wolf Eyes
-  - Elza Soares
+    - Tomeka Reid
+    - Jason Ajemian
+    - Chad Taylor
+    - Lester St. Louis
+    - Jason Nazary
+    - Keefe Jackson
+    - Tim Daisy
+    - Ken Vandermark
+    - William Parker
+    - David Murray
+    - Rob Mazurek
+    - Alabaster dePlume
+    - The Bug (Kevin Martin)
+    - Medicine Singers
+    - Local H
+    - Never Enough Hope
+    - Wolf Eyes
+    - Elza Soares
   influenced:
-  - Younger Chicago and Brooklyn free-jazz/improv trumpet players (various)
+    - Younger Chicago and Brooklyn free-jazz/improv trumpet players (various)
   mentors:
-  - Steve Lacy
-  - Joe Morris
-  - John McNeil
-  - Charles Schlueter
-  - Don Cherry
-  - Miles Davis
-  - Axel Dörner
-  - Booker Little
-  - Evan Parker
+    - Steve Lacy
+    - Joe Morris
+    - John McNeil
+    - Charles Schlueter
+    - Don Cherry
+    - Miles Davis
+    - Axel Dörner
+    - Booker Little
+    - Evan Parker
 spotify_data:
   followers: 28371
   id: 54T6Gso8zGPk4czyWlnUw5
   popularity: 27
-  url: https://open.spotify.com/artist/54T6Gso8zGPk4czyWlnUw5
+  url: 'https://open.spotify.com/artist/54T6Gso8zGPk4czyWlnUw5'
 discography_enriched: true
 top_tracks:
-- 'birds of paradise (FLY or DIE II: bird dogs of paradise)'
-- 'simple silver surfer (FLY or DIE II: bird dogs of paradise)'
-- 'simple silver surfer (FLY or DIE II: bird dogs of paradise)'
-- Theme 001 (Fly or Die)
-- Theme 001 (Fly or Die)
-- 'birds of paradise (FLY or DIE II: bird dogs of paradise)'
-- theme 001 (FLY or DIE LIVE)
-- borealis dancing (Fly or Die Fly or Die Fly or Die ((world war)))
-- birds of paradise (FLY or DIE LIVE)
-- Theme 002 (Fly or Die)
+  - 'birds of paradise (FLY or DIE II: bird dogs of paradise)'
+  - 'simple silver surfer (FLY or DIE II: bird dogs of paradise)'
+  - 'simple silver surfer (FLY or DIE II: bird dogs of paradise)'
+  - Theme 001 (Fly or Die)
+  - Theme 001 (Fly or Die)
+  - 'birds of paradise (FLY or DIE II: bird dogs of paradise)'
+  - theme 001 (FLY or DIE LIVE)
+  - borealis dancing (Fly or Die Fly or Die Fly or Die ((world war)))
+  - birds of paradise (FLY or DIE LIVE)
+  - Theme 002 (Fly or Die)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8ff2bf9c-d1b6-4134-ae14-b837913c3dfd
-  spotify: https://open.spotify.com/artist/54T6Gso8zGPk4czyWlnUw5
-  wikipedia: https://en.wikipedia.org/wiki/Jaimie_Branch
+  musicbrainz: 'https://musicbrainz.org/artist/8ff2bf9c-d1b6-4134-ae14-b837913c3dfd'
+  spotify: 'https://open.spotify.com/artist/54T6Gso8zGPk4czyWlnUw5'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jaimie_Branch'
 image_path: 03_Resources/source_material/ArtistPortraits/jaimie_branch.jpg
 biography_enhanced_at: '2025-12-09T04:22:04.769571'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jaimie_Branch
-- https://www.allaboutjazz.com/musicians/jaimie-branch/
-- https://www.intlanthem.com/artists/jaimie-branch
-- https://www.frontporchproductions.org/artists/jaimie-branch
-- https://www.freejazzblog.org/2022/08/jaimie-branch-1983-2022.html
-- https://jazztimes.com/features/profiles/jaimie-branch-chicago-trumpet/
+  - 'https://en.wikipedia.org/wiki/Jaimie_Branch'
+  - 'https://www.allaboutjazz.com/musicians/jaimie-branch/'
+  - 'https://www.intlanthem.com/artists/jaimie-branch'
+  - 'https://www.frontporchproductions.org/artists/jaimie-branch'
+  - 'https://www.freejazzblog.org/2022/08/jaimie-branch-1983-2022.html'
+  - 'https://jazztimes.com/features/profiles/jaimie-branch-chicago-trumpet/'
 network_extracted: true
 entry_created: '2025-12-09T04:22:04.769579'
 last_updated: '2025-12-23T08:16:10.123082'
@@ -135,9 +135,10 @@ disambiguation: American trumpeter
 gender: Female
 musicbrainz_id: 8ff2bf9c-d1b6-4134-ae14-b837913c3dfd
 tags:
-- free jazz
-- jazz
-
+  - free jazz
+  - jazz
+is_active: false
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](jaimie_branch.jpg)

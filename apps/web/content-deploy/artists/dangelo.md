@@ -3,14 +3,14 @@ title: D'Angelo
 wiki_slug: dangelo
 schema_version: 2
 status: active
-birth_place: Richmond, Virginia, United States
+birth_place: 'Richmond, Virginia, United States'
 genres:
-- neo soul
+  - neo soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/dangelo.jpg
   caption: D'Angelo
   background: solo_singer
-  origin: Richmond, Virginia, United States
+  origin: 'Richmond, Virginia, United States'
 audio_profile:
   tempo_avg: 92.4
   energy_avg: 0.476
@@ -26,50 +26,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Angie Stone
-  - Raphael Saadiq
-  - Questlove (Ahmir Thompson)
-  - Lauryn Hill
+    - Angie Stone
+    - Raphael Saadiq
+    - Questlove (Ahmir Thompson)
+    - Lauryn Hill
   influenced:
-  - Frank Ocean
-  - John Legend
-  - Anderson .Paak
+    - Frank Ocean
+    - John Legend
+    - Anderson .Paak
   mentors:
-  - Stevie Wonder
-  - Prince
-  - Miles Davis
+    - Stevie Wonder
+    - Prince
+    - Miles Davis
 spotify_data:
   followers: 1418763
   id: 336vr2M3Va0FjyvB55lJEd
   popularity: 68
-  url: https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd
+  url: 'https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd'
 discography_enriched: true
 top_tracks:
-- Nothing Even Matters (feat. D'Angelo) (The Miseducation of Lauryn Hill)
-- Lady (Brown Sugar)
-- Brown Sugar (Brown Sugar)
-- Untitled (How Does It Feel) (Voodoo)
-- Unshaken
-- Send It On (Voodoo)
-- Cruisin' (Brown Sugar)
-- Really Love (Black Messiah)
-- Spanish Joint (Voodoo)
-- Feel Like Makin' Love (Voodoo)
+  - Nothing Even Matters (feat. D'Angelo) (The Miseducation of Lauryn Hill)
+  - Lady (Brown Sugar)
+  - Brown Sugar (Brown Sugar)
+  - Untitled (How Does It Feel) (Voodoo)
+  - Unshaken
+  - Send It On (Voodoo)
+  - Cruisin' (Brown Sugar)
+  - Really Love (Black Messiah)
+  - Spanish Joint (Voodoo)
+  - Feel Like Makin' Love (Voodoo)
 external_urls:
-  spotify: https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd
-  wikipedia: https://en.wikipedia.org/wiki/D'Angelo
+  spotify: 'https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd'
+  wikipedia: 'https://en.wikipedia.org/wiki/D''Angelo'
 image_path: 03_Resources/source_material/ArtistPortraits/dangelo.jpg
 biography_enhanced_at: '2025-10-23T07:45:23.431739'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/D'Angelo
-- https://saintlouvent.com/blog/d-angelo-a-look-back
-- https://www.okayplayer.com/the-origin-story-of-dangelo/606372
-- https://blackpast.org/african-american-history/dangelo-1974/
+  - 'https://en.wikipedia.org/wiki/D''Angelo'
+  - 'https://saintlouvent.com/blog/d-angelo-a-look-back'
+  - 'https://www.okayplayer.com/the-origin-story-of-dangelo/606372'
+  - 'https://blackpast.org/african-american-history/dangelo-1974/'
 network_extracted: true
 entry_created: '2025-10-23T07:45:23.431749'
 last_updated: '2025-12-23T08:16:07.426696'
+birth_date: '1974-02-11'
+artist_type: person
 ---
 
 ![](dangelo.jpg)

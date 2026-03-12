@@ -5,7 +5,7 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1920-02-24'
-birth_place: Atlanta
+birth_place: 'Atlanta, Georgia, United States'
 death_date: '1999-05-01'
 genres: []
 infobox:
@@ -22,7 +22,7 @@ audio_profile:
   danceability_avg: 0.573
   acousticness_avg: 0.734
   instrumentalness_avg: 0.387
-  loudness_avg: -12.0
+  loudness_avg: -12
   speechiness_avg: 0.053
   liveness_avg: 0.148
   track_count: 50
@@ -30,57 +30,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sonny Thompson
-  - Dinah Washington
-  - The Four Blazes
-  - Prestige Records house rhythm sections
+    - Sonny Thompson
+    - Dinah Washington
+    - The Four Blazes
+    - Prestige Records house rhythm sections
   influenced:
-  - Post‑war R&B and rock & roll tenor sax stylists (general)
+    - Post‑war R&B and rock & roll tenor sax stylists (general)
   mentors:
-  - Chicago South Side jazz and R&B community
+    - Chicago South Side jazz and R&B community
 spotify_data:
   followers: 207
   id: 6TcYalOdyirptqbZwsxxJU
   popularity: 2
-  url: https://open.spotify.com/artist/6TcYalOdyirptqbZwsxxJU
+  url: 'https://open.spotify.com/artist/6TcYalOdyirptqbZwsxxJU'
 discography_enriched: true
 top_tracks:
-- New Green Onions (Blowing In Paris [The Definitive Black & Blue Sessions (Paris & Toulouse, France 1976)])
-- Sweet Lucy (Last Call)
-- Back Street (Wailin' Saxophone Legends)
-- Flat Beer (Chamblee Music)
-- Tea For Two (Chamblee Music)
-- Chamblee Special (Chamblee Music)
-- Back Street
-- Walkin' Home (Ham Hocks & Cornbread, Vol. B)
-- Southern Comfort (Wailin' Saxophone Legends)
-- Long Gone, Pt.2 (The Big Horn)
+  - >-
+    New Green Onions (Blowing In Paris [The Definitive Black & Blue Sessions
+    (Paris & Toulouse, France 1976)])
+  - Sweet Lucy (Last Call)
+  - Back Street (Wailin' Saxophone Legends)
+  - Flat Beer (Chamblee Music)
+  - Tea For Two (Chamblee Music)
+  - Chamblee Special (Chamblee Music)
+  - Back Street
+  - 'Walkin'' Home (Ham Hocks & Cornbread, Vol. B)'
+  - Southern Comfort (Wailin' Saxophone Legends)
+  - 'Long Gone, Pt.2 (The Big Horn)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d848d2fa-f9a1-4a80-828a-c32020e561c8
-  spotify: https://open.spotify.com/artist/6TcYalOdyirptqbZwsxxJU
-  wikipedia: https://en.wikipedia.org/wiki/Eddie_Chamblee
+  musicbrainz: 'https://musicbrainz.org/artist/d848d2fa-f9a1-4a80-828a-c32020e561c8'
+  spotify: 'https://open.spotify.com/artist/6TcYalOdyirptqbZwsxxJU'
+  wikipedia: 'https://en.wikipedia.org/wiki/Eddie_Chamblee'
 image_path: 03_Resources/source_material/ArtistPortraits/eddie_chamblee.jpg
 biography_enhanced_at: '2025-12-15T01:20:08.309236'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Eddie_Chamblee
-- https://www.allmusic.com/artist/eddie-chamblee-mn0000168675
-- https://www.allaboutjazz.com/musicians/eddie-chamblee/
-- https://flophousemagazine.com/2019/01/16/eddie-chamblee-the-rocking-tenor-sax-of-eddie-chamblee-prestige-1964/
-- https://www.freshsoundrecords.com/10193-eddie-chamblee-albums
-- https://showmelyrics.com/artist/eddie-chamblee
-- https://www.iheart.com/artist/eddie-chamblee-42894/
-- https://egrojworld.blogspot.com/2018/05/eddie-chamblee-chamblee-music.html
-- https://www.youtube.com/watch?v=5FmseXmCA60
+  - 'https://en.wikipedia.org/wiki/Eddie_Chamblee'
+  - 'https://www.allmusic.com/artist/eddie-chamblee-mn0000168675'
+  - 'https://www.allaboutjazz.com/musicians/eddie-chamblee/'
+  - >-
+    https://flophousemagazine.com/2019/01/16/eddie-chamblee-the-rocking-tenor-sax-of-eddie-chamblee-prestige-1964/
+  - 'https://www.freshsoundrecords.com/10193-eddie-chamblee-albums'
+  - 'https://showmelyrics.com/artist/eddie-chamblee'
+  - 'https://www.iheart.com/artist/eddie-chamblee-42894/'
+  - 'https://egrojworld.blogspot.com/2018/05/eddie-chamblee-chamblee-music.html'
+  - 'https://www.youtube.com/watch?v=5FmseXmCA60'
 network_extracted: true
 entry_created: '2025-12-15T01:20:08.309256'
 last_updated: '2025-12-23T08:16:08.157028'
 gender: Male
 musicbrainz_id: d848d2fa-f9a1-4a80-828a-c32020e561c8
 tags:
-- jazz
-- swing
+  - jazz
+  - swing
+is_active: false
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](eddie_chamblee.jpg)

@@ -5,14 +5,14 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1943-11-28'
-birth_place: Los Angeles
+birth_place: 'Los Angeles, California, United States'
 genres: []
 instruments:
-- piano
-- Rhodes piano
-- background vocals
-- lead vocals
-- spoken vocals
+  - piano
+  - Rhodes piano
+  - background vocals
+  - lead vocals
+  - spoken vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/randy_newman.jpg
   caption: Randy Newman
@@ -20,7 +20,7 @@ infobox:
   born: '1943-11-28'
   origin: Los Angeles
 audio_profile:
-  tempo_avg: 115.0
+  tempo_avg: 115
   energy_avg: 0.334
   valence_avg: 0.347
   danceability_avg: 0.447
@@ -34,41 +34,43 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Pixar Animation Studios / Disney
-  - David Newman
+    - Pixar Animation Studios / Disney
+    - David Newman
   influenced: []
   mentors:
-  - Newman family musicians
+    - Newman family musicians
 spotify_data:
   followers: 275996
   id: 3HQyFCFFfJO3KKBlUfZsyW
   popularity: 61
-  url: https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW
+  url: 'https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW'
 discography_enriched: true
 top_tracks:
-- You've Got a Friend in Me (Toy Story (Original Motion Picture Soundtrack))
-- Monsters, Inc. (Monsters, Inc. (Original Motion Picture Soundtrack))
-- Strange Things (Toy Story (Original Motion Picture Soundtrack))
-- I Can't Let You Throw Yourself Away (Toy Story 4 (Original Motion Picture Soundtrack))
-- You've Got a Friend in Me (Toy Story 4 (Original Motion Picture Soundtrack))
-- McQueen and Sally
-- Opening Race
-- I Will Go Sailing No More (Toy Story (Original Motion Picture Soundtrack))
-- We Belong Together
-- Short People (Little Criminals)
+  - You've Got a Friend in Me (Toy Story (Original Motion Picture Soundtrack))
+  - 'Monsters, Inc. (Monsters, Inc. (Original Motion Picture Soundtrack))'
+  - Strange Things (Toy Story (Original Motion Picture Soundtrack))
+  - >-
+    I Can't Let You Throw Yourself Away (Toy Story 4 (Original Motion Picture
+    Soundtrack))
+  - You've Got a Friend in Me (Toy Story 4 (Original Motion Picture Soundtrack))
+  - McQueen and Sally
+  - Opening Race
+  - I Will Go Sailing No More (Toy Story (Original Motion Picture Soundtrack))
+  - We Belong Together
+  - Short People (Little Criminals)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/da7bb7d8-557d-4635-9ca1-e6e985525bd5
-  spotify: https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW
-  wikipedia: https://en.wikipedia.org/wiki/Randy_Newman
+  musicbrainz: 'https://musicbrainz.org/artist/da7bb7d8-557d-4635-9ca1-e6e985525bd5'
+  spotify: 'https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW'
+  wikipedia: 'https://en.wikipedia.org/wiki/Randy_Newman'
 image_path: 03_Resources/source_material/ArtistPortraits/randy_newman.jpg
 biography_enhanced_at: '2025-12-12T12:15:04.617769'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Randy_Newman
-- https://www.britannica.com/biography/Randy-Newman
-- https://www.randynewman.com/2016/08/biography/
-- https://www.songhall.org/profiles/randy-newman
+  - 'https://en.wikipedia.org/wiki/Randy_Newman'
+  - 'https://www.britannica.com/biography/Randy-Newman'
+  - 'https://www.randynewman.com/2016/08/biography/'
+  - 'https://www.songhall.org/profiles/randy-newman'
 network_extracted: true
 entry_created: '2025-12-12T12:15:04.617782'
 last_updated: '2025-12-23T08:16:14.635700'
@@ -76,9 +78,9 @@ disambiguation: American singer‐songwriter and score composer
 gender: Male
 musicbrainz_id: da7bb7d8-557d-4635-9ca1-e6e985525bd5
 tags:
-- americana
-- children's music
-- cinematic classical
+  - americana
+  - children's music
+  - cinematic classical
 ---
 
 ![](randy_newman.jpg)

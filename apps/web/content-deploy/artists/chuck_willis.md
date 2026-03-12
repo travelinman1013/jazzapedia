@@ -1,17 +1,17 @@
 ---
-title: chuck willis
+title: Chuck Willis
 wiki_slug: chuck-willis
 schema_version: 2
 status: active
-birth_place: Atlanta, Georgia, United States
+birth_place: 'Atlanta, Georgia, United States'
 genres:
-- doo-wop
-- boogie-woogie
+  - doo-wop
+  - boogie-woogie
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/chuck_willis.jpg
   caption: chuck willis
   background: solo_singer
-  origin: Atlanta, Georgia, United States
+  origin: 'Atlanta, Georgia, United States'
 audio_profile:
   tempo_avg: 122.5
   energy_avg: 0.491
@@ -27,49 +27,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Roy Gaines
-  - Screamin' Jay Hawkins
-  - Tom Dowd
+    - Roy Gaines
+    - Screamin' Jay Hawkins
+    - Tom Dowd
   influenced:
-  - Little Richard
-  - James Brown
-  - Ruth Brown
-  - Screamin' Jay Hawkins
-  - Delaney and Bonnie
+    - Little Richard
+    - James Brown
+    - Ruth Brown
+    - Screamin' Jay Hawkins
+    - Delaney and Bonnie
   mentors:
-  - Zenas Sears
+    - Zenas Sears
 spotify_data:
   followers: 16836
   id: 21uawITknPcgjwdJuvpcGE
   popularity: 25
-  url: https://open.spotify.com/artist/21uawITknPcgjwdJuvpcGE
+  url: 'https://open.spotify.com/artist/21uawITknPcgjwdJuvpcGE'
 discography_enriched: true
 top_tracks:
-- Hang up My Rock and Roll Shoes (I Remember Chuck Willis (US Internet Release))
-- What'cha Gonna Do (When Your Baby Leaves You) (The King Of The Stroll)
-- What Am I Living For (I Remember Chuck Willis (US Internet Release))
-- C.C. Rider (I Remember Chuck Willis (US Internet Release))
-- Hang Up My Rock and Roll Shoes (From the Bottom of My Heart)
-- Hang up My Rock and Roll Shoes (Gone Too Soon - Remembering Chuck Willis)
-- Sugar Sugar (I Remember Chuck Willis (US Internet Release))
-- I Feel So Bad (The Complete Okeh Recordings 1951-1956)
-- It's Too Late (The King Of The Stroll)
-- Betty and Dupree (I Remember Chuck Willis (US Internet Release))
+  - >-
+    Hang up My Rock and Roll Shoes (I Remember Chuck Willis (US Internet
+    Release))
+  - What'cha Gonna Do (When Your Baby Leaves You) (The King Of The Stroll)
+  - What Am I Living For (I Remember Chuck Willis (US Internet Release))
+  - C.C. Rider (I Remember Chuck Willis (US Internet Release))
+  - Hang Up My Rock and Roll Shoes (From the Bottom of My Heart)
+  - Hang up My Rock and Roll Shoes (Gone Too Soon - Remembering Chuck Willis)
+  - Sugar Sugar (I Remember Chuck Willis (US Internet Release))
+  - I Feel So Bad (The Complete Okeh Recordings 1951-1956)
+  - It's Too Late (The King Of The Stroll)
+  - Betty and Dupree (I Remember Chuck Willis (US Internet Release))
 external_urls:
-  spotify: https://open.spotify.com/artist/21uawITknPcgjwdJuvpcGE
-  wikipedia: https://en.wikipedia.org/wiki/Chuck_Willis
+  spotify: 'https://open.spotify.com/artist/21uawITknPcgjwdJuvpcGE'
+  wikipedia: 'https://en.wikipedia.org/wiki/Chuck_Willis'
 image_path: 03_Resources/source_material/ArtistPortraits/chuck_willis.jpg
 biography_enhanced_at: '2025-11-20T07:27:52.910535'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Chuck_Willis
-- https://aaregistry.org/story/chuck-willis-born/
-- https://top40weekly.com/chuck-willis/
-- https://wbssmedia.com/artists/detail/3656
+  - 'https://en.wikipedia.org/wiki/Chuck_Willis'
+  - 'https://aaregistry.org/story/chuck-willis-born/'
+  - 'https://top40weekly.com/chuck-willis/'
+  - 'https://wbssmedia.com/artists/detail/3656'
 network_extracted: true
 entry_created: '2025-11-20T07:27:52.910544'
 last_updated: '2025-12-23T08:16:06.982584'
+birth_date: '1926-01-31'
+artist_type: person
 ---
 
 ![](chuck_willis.jpg)

@@ -3,14 +3,14 @@ title: Creole George Guesnon
 wiki_slug: creole-george-guesnon
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- ragtime
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/creole_george_guesnon.jpg
   caption: Creole George Guesnon
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 108.5
   energy_avg: 0.278
@@ -26,51 +26,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Papa Celestin
-  - Willie Pajeaud
-  - Sam Morgan
-  - Little Brother Montgomery
-  - Jelly Roll Morton
-  - George Lewis
-  - Kid Thomas Valentine
-  - The Mighty Four
+    - Papa Celestin
+    - Willie Pajeaud
+    - Sam Morgan
+    - Little Brother Montgomery
+    - Jelly Roll Morton
+    - George Lewis
+    - Kid Thomas Valentine
+    - The Mighty Four
   influenced:
-  - Preservation Hall musicians
+    - Preservation Hall musicians
   mentors:
-  - John Marrero
-  - Uncle (unnamed)
+    - John Marrero
+    - Uncle (unnamed)
 spotify_data:
   followers: 96
   id: 4Ujvr4G5Rywx14YvfZxTUL
   popularity: 1
-  url: https://open.spotify.com/artist/4Ujvr4G5Rywx14YvfZxTUL
+  url: 'https://open.spotify.com/artist/4Ujvr4G5Rywx14YvfZxTUL'
 discography_enriched: true
 top_tracks:
-- Basin Street Blues, Pt. 2 (A New Orleans Jazz Party)
-- Closer Walk With Thee / When The Saints Go Marching In (A New Orleans Jazz Party)
-- Mississippi Town (Jackson Blues) (Take B) (Too Late, Too Late Vol. 13 (1921-1940))
-- Struttin' with Some Barbecue (The Best of Jazz Crusade)
-- Lil Liza Jane (The Best of Jazz Crusade)
-- My Blue Heaven (The Best of Jazz Crusade)
-- Milenburg Joys (A New Orleans Jazz Party)
-- 2.19 Blues (A New Orleans Jazz Party)
-- Grandpa's Spells (A New Orleans Jazz Party)
-- Wolverine Blues (A New Orleans Jazz Party)
+  - 'Basin Street Blues, Pt. 2 (A New Orleans Jazz Party)'
+  - >-
+    Closer Walk With Thee / When The Saints Go Marching In (A New Orleans Jazz
+    Party)
+  - >-
+    Mississippi Town (Jackson Blues) (Take B) (Too Late, Too Late Vol. 13
+    (1921-1940))
+  - Struttin' with Some Barbecue (The Best of Jazz Crusade)
+  - Lil Liza Jane (The Best of Jazz Crusade)
+  - My Blue Heaven (The Best of Jazz Crusade)
+  - Milenburg Joys (A New Orleans Jazz Party)
+  - 2.19 Blues (A New Orleans Jazz Party)
+  - Grandpa's Spells (A New Orleans Jazz Party)
+  - Wolverine Blues (A New Orleans Jazz Party)
 external_urls:
-  spotify: https://open.spotify.com/artist/4Ujvr4G5Rywx14YvfZxTUL
-  wikipedia: https://en.wikipedia.org/wiki/George_Guesnon
+  spotify: 'https://open.spotify.com/artist/4Ujvr4G5Rywx14YvfZxTUL'
+  wikipedia: 'https://en.wikipedia.org/wiki/George_Guesnon'
 image_path: 03_Resources/source_material/ArtistPortraits/creole_george_guesnon.jpg
 biography_enhanced_at: '2025-11-08T21:57:14.272092'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/George_Guesnon
-- https://64parishes.org/entry/creole-george-guesnon
-- https://musicrising.tulane.edu/discover/people/george-guesnon/
-- https://sites.duke.edu/banjology/banjo-and-jazz/jazz-banjo-ists-of-new-orleans/george-guesnon/
+  - 'https://en.wikipedia.org/wiki/George_Guesnon'
+  - 'https://64parishes.org/entry/creole-george-guesnon'
+  - 'https://musicrising.tulane.edu/discover/people/george-guesnon/'
+  - >-
+    https://sites.duke.edu/banjology/banjo-and-jazz/jazz-banjo-ists-of-new-orleans/george-guesnon/
 network_extracted: true
 entry_created: '2025-11-08T21:57:14.272103'
 last_updated: '2025-12-23T08:16:07.289960'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](creole_george_guesnon.jpg)

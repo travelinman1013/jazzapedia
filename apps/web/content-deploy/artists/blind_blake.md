@@ -1,20 +1,20 @@
 ---
-title: blind blake
+title: Blind Blake
 wiki_slug: blind-blake
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1896'
-birth_place: Newport News
+birth_place: 'Newport News, Virginia, United States'
 death_date: '1934-12-01'
 genres:
-- ragtime
-- country blues
-- blues
-- classic blues
+  - ragtime
+  - country blues
+  - blues
+  - classic blues
 instruments:
-- guitar
-- spoken vocals
+  - guitar
+  - spoken vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/blind_blake.jpg
   caption: blind blake
@@ -37,51 +37,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Charlie Spand
-  - Ma Rainey
-  - Leola Wilson
-  - Bertha Henderson
-  - Chocolate Brown
+    - Charlie Spand
+    - Ma Rainey
+    - Leola Wilson
+    - Bertha Henderson
+    - Chocolate Brown
   influenced:
-  - Rev. Gary Davis
-  - Ry Cooder
-  - Stefan Grossman
-  - Jorma Kaukonen
+    - Rev. Gary Davis
+    - Ry Cooder
+    - Stefan Grossman
+    - Jorma Kaukonen
   mentors:
-  - Traditional ragtime and blues musicians
+    - Traditional ragtime and blues musicians
 spotify_data:
   followers: 32988
   id: 49KZvkEWchga5D1uhNo1yd
   popularity: 28
-  url: https://open.spotify.com/artist/49KZvkEWchga5D1uhNo1yd
+  url: 'https://open.spotify.com/artist/49KZvkEWchga5D1uhNo1yd'
 discography_enriched: true
 top_tracks:
-- Police Dog Blues (Ragtime Guitar's Foremost Fingerpicker)
-- Southern Rag (Georgia Bound)
-- Police Dog Blues (One Time Blues)
-- Diddie Wah Diddie (Georgia Bound)
-- Too Tight Blues No. 2 (Georgia Bound)
-- Rope Stretching Blues, Pt. 1 (Georgia Bound)
-- Come on Boys, Let's Do That Messin' Around (Georgia Bound)
-- Hastings St (One Time Blues)
-- They’re Red Hot (Rough Guide To Blind Blake)
-- Police Dog Blues
+  - Police Dog Blues (Ragtime Guitar's Foremost Fingerpicker)
+  - Southern Rag (Georgia Bound)
+  - Police Dog Blues (One Time Blues)
+  - Diddie Wah Diddie (Georgia Bound)
+  - Too Tight Blues No. 2 (Georgia Bound)
+  - 'Rope Stretching Blues, Pt. 1 (Georgia Bound)'
+  - 'Come on Boys, Let''s Do That Messin'' Around (Georgia Bound)'
+  - Hastings St (One Time Blues)
+  - They’re Red Hot (Rough Guide To Blind Blake)
+  - Police Dog Blues
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/437af2e8-28cf-438a-b6dd-7809071b8694
-  spotify: https://open.spotify.com/artist/49KZvkEWchga5D1uhNo1yd
-  wikipedia: https://en.wikipedia.org/wiki/Blind_Blake
+  musicbrainz: 'https://musicbrainz.org/artist/437af2e8-28cf-438a-b6dd-7809071b8694'
+  spotify: 'https://open.spotify.com/artist/49KZvkEWchga5D1uhNo1yd'
+  wikipedia: 'https://en.wikipedia.org/wiki/Blind_Blake'
 image_path: 03_Resources/source_material/ArtistPortraits/blind_blake.jpg
 biography_enhanced_at: '2025-11-20T06:40:25.601396'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://thedocumentrecordsstore.com/arthur-blind-blake-king-of-ragtime-guitar/
-- https://blueskc.org/blind-arthur-blake/
-- https://www.kunc.org/music/2015-10-10/blind-blake-is-something-of-a-mystery-his-mastery-of-the-guitar-is-not
-- https://milwaukeerecord.com/music/remembering-blind-blake-milwaukees-king-of-ragtime-guitar/
-- https://www.africanbluegrass.com/content/blind-blake-0
-- https://elijahwald.com/songblog/southern-rag/
-- https://eng.richardaseguin.com/?p=1837
+  - >-
+    https://thedocumentrecordsstore.com/arthur-blind-blake-king-of-ragtime-guitar/
+  - 'https://blueskc.org/blind-arthur-blake/'
+  - >-
+    https://www.kunc.org/music/2015-10-10/blind-blake-is-something-of-a-mystery-his-mastery-of-the-guitar-is-not
+  - >-
+    https://milwaukeerecord.com/music/remembering-blind-blake-milwaukees-king-of-ragtime-guitar/
+  - 'https://www.africanbluegrass.com/content/blind-blake-0'
+  - 'https://elijahwald.com/songblog/southern-rag/'
+  - 'https://eng.richardaseguin.com/?p=1837'
 network_extracted: true
 entry_created: '2025-11-20T06:40:25.601405'
 last_updated: '2025-12-23T08:16:05.712856'
@@ -89,9 +92,11 @@ disambiguation: 1920s blues singer
 gender: Male
 musicbrainz_id: 437af2e8-28cf-438a-b6dd-7809071b8694
 tags:
-- blues
-- country blues
-- piedmont blues
+  - blues
+  - country blues
+  - piedmont blues
+is_active: false
+origin: 'Jacksonville, Florida, United States'
 ---
 
 ![](blind_blake.jpg)

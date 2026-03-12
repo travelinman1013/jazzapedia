@@ -1,11 +1,11 @@
 ---
-title: drivin' & cryin'
+title: Drivin' & Cryin'
 wiki_slug: drivin-cryin
 schema_version: 2
 status: active
 genres:
-- southern rock
-- alt country
+  - southern rock
+  - alt country
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/drivin_and_cryin.jpg
   caption: drivin' & cryin'
@@ -17,7 +17,7 @@ audio_profile:
   danceability_avg: 0.497
   acousticness_avg: 0.04
   instrumentalness_avg: 0.004
-  loudness_avg: -10.0
+  loudness_avg: -10
   speechiness_avg: 0.043
   liveness_avg: 0.169
   track_count: 50
@@ -25,50 +25,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tim Nielsen
-  - Paul Lenz
-  - Jeff Sullivan
-  - Buren Fowler
-  - Joey Huffman
+    - Tim Nielsen
+    - Paul Lenz
+    - Jeff Sullivan
+    - Buren Fowler
+    - Joey Huffman
   influenced:
-  - The Black Crowes
-  - Jason Isbell
+    - The Black Crowes
+    - Jason Isbell
   mentors:
-  - Bob Dylan
+    - Bob Dylan
 spotify_data:
   followers: 33153
   id: 26yYgoh7hehqYix76g3LcS
   popularity: 35
-  url: https://open.spotify.com/artist/26yYgoh7hehqYix76g3LcS
+  url: 'https://open.spotify.com/artist/26yYgoh7hehqYix76g3LcS'
 discography_enriched: true
 top_tracks:
-- Fly Me Courageous (Fly Me Courageous)
-- Straight To Hell (Mystery Road)
-- Honeysuckle Blue (Mystery Road)
-- Let's Go Dancing (Fly Me Courageous)
-- Build A Fire (Fly Me Courageous)
-- The Innocent (Fly Me Courageous)
-- Scarred But Smarter (Scarred But Smarter)
-- Telling Stories (Wrapped In Sky)
-- With The People (Mystery Road)
-- Catch The Wind (Whisper Tames The Lion)
+  - Fly Me Courageous (Fly Me Courageous)
+  - Straight To Hell (Mystery Road)
+  - Honeysuckle Blue (Mystery Road)
+  - Let's Go Dancing (Fly Me Courageous)
+  - Build A Fire (Fly Me Courageous)
+  - The Innocent (Fly Me Courageous)
+  - Scarred But Smarter (Scarred But Smarter)
+  - Telling Stories (Wrapped In Sky)
+  - With The People (Mystery Road)
+  - Catch The Wind (Whisper Tames The Lion)
 external_urls:
-  spotify: https://open.spotify.com/artist/26yYgoh7hehqYix76g3LcS
-  wikipedia: https://en.wikipedia.org/wiki/Drivin_N_Cryin
+  spotify: 'https://open.spotify.com/artist/26yYgoh7hehqYix76g3LcS'
+  wikipedia: 'https://en.wikipedia.org/wiki/Drivin_N_Cryin'
 image_path: 03_Resources/source_material/ArtistPortraits/drivin_and_cryin.jpg
 biography_enhanced_at: '2025-11-22T07:41:56.073714'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Drivin_N_Cryin
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/drivin-n-cryin
-- https://www.drivinncryin.com/bio-1
-- https://earofnewt.com/2023/04/13/drivin-n-cryins-kevn-kinney-took-the-i-out-of-his-name-when-he-was-a-punk-rocker/
-- https://www.liveandlisten.com/blogs/news/the-unpredictable-journey-drivin-n-cryins-kevn-kinney
+  - 'https://en.wikipedia.org/wiki/Drivin_N_Cryin'
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/drivin-n-cryin
+  - 'https://www.drivinncryin.com/bio-1'
+  - >-
+    https://earofnewt.com/2023/04/13/drivin-n-cryins-kevn-kinney-took-the-i-out-of-his-name-when-he-was-a-punk-rocker/
+  - >-
+    https://www.liveandlisten.com/blogs/news/the-unpredictable-journey-drivin-n-cryins-kevn-kinney
 network_extracted: true
 entry_created: '2025-11-22T07:41:56.073728'
 last_updated: '2025-12-23T08:16:08.039180'
-origin: Atlanta, Georgia, United States
+origin: 'Atlanta, Georgia, United States'
+artist_type: person
 ---
 
 ![](drivin_and_cryin.jpg)

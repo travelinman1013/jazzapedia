@@ -5,32 +5,32 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1971-10-26'
-birth_place: Albany
+birth_place: 'Rochester, New York, United States'
 genres:
-- free jazz
-- jazz
+  - free jazz
+  - jazz
 instruments:
-- eponymous
-- original
-- piano
-- Rhodes piano
-- spoken vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 0b3ddc58-895c-4d92-b1b5-66696a0e4349
-  name: Vijay Iyer Sextet
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
   - piano
-  mbid: d922fda2-1d1c-4c26-b3f8-4eaff1eda85d
-  name: Vijay Iyer Trio
+  - Rhodes piano
+  - spoken vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 0b3ddc58-895c-4d92-b1b5-66696a0e4349
+    name: Vijay Iyer Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - piano
+    mbid: d922fda2-1d1c-4c26-b3f8-4eaff1eda85d
+    name: Vijay Iyer Trio
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/vijay_iyer.jpg
   caption: Vijay Iyer
@@ -52,58 +52,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Wadada Leo Smith
-  - Tyshawn Sorey
-  - Linda May Han Oh
-  - Craig Taborn
-  - Fieldwork (Steve Lehman, Tyshawn Sorey, formerly Elliot Humberto Kavee)
+    - Wadada Leo Smith
+    - Tyshawn Sorey
+    - Linda May Han Oh
+    - Craig Taborn
+    - 'Fieldwork (Steve Lehman, Tyshawn Sorey, formerly Elliot Humberto Kavee)'
   influenced:
-  - Immanuel Wilkins
-  - Ambrose Akinmusire
+    - Immanuel Wilkins
+    - Ambrose Akinmusire
   mentors:
-  - Thelonious Monk
-  - Cecil Taylor
+    - Thelonious Monk
+    - Cecil Taylor
 spotify_data:
   followers: 32075
   id: 27DeRe5LjIt9ZPXUjF90h6
   popularity: 26
-  url: https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6
+  url: 'https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6'
 discography_enriched: true
 top_tracks:
-- Saaqi (feat. Vijay Iyer) (Night Reign)
-- 'Prelude: Survival (Defiant Life)'
-- Floating River Requiem (for Patrice Lumumba) (Defiant Life)
-- Sumud (Defiant Life)
-- Compassion (Compassion)
-- Om Supreme (feat. Vijay Iyer & Immanuel Wilkins) (Daughter of a Temple)
-- Sajni (Love In Exile)
-- Kite (for Refaat Alareer) (Defiant Life)
-- Human Nature (Trio Extension) (Accelerando)
-- 'Prelude: Orison (Compassion)'
+  - Saaqi (feat. Vijay Iyer) (Night Reign)
+  - 'Prelude: Survival (Defiant Life)'
+  - Floating River Requiem (for Patrice Lumumba) (Defiant Life)
+  - Sumud (Defiant Life)
+  - Compassion (Compassion)
+  - Om Supreme (feat. Vijay Iyer & Immanuel Wilkins) (Daughter of a Temple)
+  - Sajni (Love In Exile)
+  - Kite (for Refaat Alareer) (Defiant Life)
+  - Human Nature (Trio Extension) (Accelerando)
+  - 'Prelude: Orison (Compassion)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ba2ff5ad-b5a4-499b-aac1-b31fd093112b
-  spotify: https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6
-  wikipedia: https://en.wikipedia.org/wiki/Vijay_Iyer
+  musicbrainz: 'https://musicbrainz.org/artist/ba2ff5ad-b5a4-499b-aac1-b31fd093112b'
+  spotify: 'https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6'
+  wikipedia: 'https://en.wikipedia.org/wiki/Vijay_Iyer'
 image_path: 03_Resources/source_material/ArtistPortraits/vijay_iyer.jpg
 biography_enhanced_at: '2025-11-15T18:14:13.481005'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.macfound.org/fellows/class-of-2013/vijay-iyer
-- https://jazztimes.com/features/profiles/vijay-iyer-othering/
-- https://www.eamdc.com/psny/composers/vijay-iyer/biography/
-- https://shorefire.com/roster/vijay-iyer/bio
-- https://vijay-iyer.com/about/
-- https://radioopensource.org/vijay-iyers-life-in-music-striving-is-the-back-story/
+  - 'https://www.macfound.org/fellows/class-of-2013/vijay-iyer'
+  - 'https://jazztimes.com/features/profiles/vijay-iyer-othering/'
+  - 'https://www.eamdc.com/psny/composers/vijay-iyer/biography/'
+  - 'https://shorefire.com/roster/vijay-iyer/bio'
+  - 'https://vijay-iyer.com/about/'
+  - >-
+    https://radioopensource.org/vijay-iyers-life-in-music-striving-is-the-back-story/
 network_extracted: true
 entry_created: '2025-11-15T18:14:13.481015'
 last_updated: '2025-12-23T08:16:17.876680'
 gender: Male
 musicbrainz_id: ba2ff5ad-b5a4-499b-aac1-b31fd093112b
 tags:
-- avant-garde jazz
-- free improvisation
-- free jazz
+  - avant-garde jazz
+  - free improvisation
+  - free jazz
 ---
 
 ![](vijay_iyer.jpg)

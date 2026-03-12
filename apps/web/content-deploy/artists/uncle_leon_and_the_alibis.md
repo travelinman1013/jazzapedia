@@ -3,10 +3,10 @@ biography_enhanced_at: '2026-01-03T01:49:06.689555'
 enhancement_provider: perplexity
 entry_created: '2026-01-03T01:49:06.689568'
 external_urls:
-  spotify: https://open.spotify.com/artist/1Y54OtewU2nEpe6TSsGpfX
+  spotify: 'https://open.spotify.com/artist/1Y54OtewU2nEpe6TSsGpfX'
   wikipedia: ''
 genres:
-- psychobilly
+  - psychobilly
 image_path: 03_Resources/source_material/ArtistPortraits/uncle_leon_and_the_alibis.jpg
 last_updated: '2026-01-03T01:49:06.689570'
 musical_connections:
@@ -14,20 +14,21 @@ musical_connections:
   influenced: []
   mentors: []
 network_extracted: true
-origin: Brooklyn, New York, United States
+origin: 'Brooklyn, New York, United States'
 primary_source: perplexity
 research_sources:
-- https://uncleleonandthealibis.bandcamp.com[2]
-- https://www.youtube.com/user/UncleLeonAlibis[5]
-- https://www.allmusic.com/album/drunk-mw0001568017[6]
-- https://en.wikipedia.org/wiki/Kings_of_Leon[1] (name origin reference only)
+  - 'https://uncleleonandthealibis.bandcamp.com[2]'
+  - 'https://www.youtube.com/user/UncleLeonAlibis[5]'
+  - 'https://www.allmusic.com/album/drunk-mw0001568017[6]'
+  - 'https://en.wikipedia.org/wiki/Kings_of_Leon[1] (name origin reference only)'
 spotify_data:
   followers: 109
   id: 1Y54OtewU2nEpe6TSsGpfX
   popularity: 1
-  url: https://open.spotify.com/artist/1Y54OtewU2nEpe6TSsGpfX
+  url: 'https://open.spotify.com/artist/1Y54OtewU2nEpe6TSsGpfX'
 status: active
-title: uncle leon & the alibis
+title: Uncle Leon & the Alibis
+artist_type: band
 ---
 
 ![](uncle_leon_and_the_alibis.jpg)

@@ -1,23 +1,23 @@
 ---
-title: CHARLES BROWN
+title: Charles Brown
 wiki_slug: charles-brown
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1922-09-13'
-birth_place: Texas City
+birth_place: 'Texas City, Texas, United States'
 death_date: '1999-01-21'
 genres:
-- christmas
+  - christmas
 instruments:
-- piano
-- vocal
+  - piano
+  - vocal
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 700b010b-489b-4b86-9ec1-9fbe57afd077
-  name: Johnny Moore’s Three Blazers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 700b010b-489b-4b86-9ec1-9fbe57afd077
+    name: Johnny Moore’s Three Blazers
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/charles_brown.jpg
   caption: CHARLES BROWN
@@ -40,48 +40,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Johnny Moore
-  - Eddie Williams
-  - Bonnie Raitt
-  - Fats Domino
+    - Johnny Moore
+    - Eddie Williams
+    - Bonnie Raitt
+    - Fats Domino
   influenced:
-  - Ray Charles
-  - Amos Milburn
-  - Floyd Dixon
+    - Ray Charles
+    - Amos Milburn
+    - Floyd Dixon
   mentors:
-  - Art Tatum
-  - Nat King Cole
+    - Art Tatum
+    - Nat King Cole
 spotify_data:
   followers: 15879
   id: 3trsSEaKM3UM2R9RBJwdtJ
   popularity: 47
-  url: https://open.spotify.com/artist/3trsSEaKM3UM2R9RBJwdtJ
+  url: 'https://open.spotify.com/artist/3trsSEaKM3UM2R9RBJwdtJ'
 discography_enriched: true
 top_tracks:
-- Please Come Home For Christmas
-- Please Come Home For Christmas (Charles Brown Sings Christmas Songs)
-- May I Never Love Again (These Blues)
-- Merry Christmas Baby
-- Merry Christmas, Baby
-- Black Night
-- Don't Look Back (feat. Van Morrison & Charles Brown)
-- Please Come Home For Christmas (Charles Brown Sings Chritmas Songs (Remastered Edition))
-- Driftin' Blues - Live
-- '''Round Midnight'
+  - Please Come Home For Christmas
+  - Please Come Home For Christmas (Charles Brown Sings Christmas Songs)
+  - May I Never Love Again (These Blues)
+  - Merry Christmas Baby
+  - 'Merry Christmas, Baby'
+  - Black Night
+  - Don't Look Back (feat. Van Morrison & Charles Brown)
+  - >-
+    Please Come Home For Christmas (Charles Brown Sings Chritmas Songs
+    (Remastered Edition))
+  - Driftin' Blues - Live
+  - '''Round Midnight'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/dbc9229a-6fb7-43b1-9763-df1e87112a93
-  spotify: https://open.spotify.com/artist/3trsSEaKM3UM2R9RBJwdtJ
+  musicbrainz: 'https://musicbrainz.org/artist/dbc9229a-6fb7-43b1-9763-df1e87112a93'
+  spotify: 'https://open.spotify.com/artist/3trsSEaKM3UM2R9RBJwdtJ'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/charles_brown.jpg
 biography_enhanced_at: '2025-12-12T12:04:36.732269'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.britannica.com/biography/Charles-Brown
-- https://aaregistry.org/story/charles-brown-was-a-smooth-blues-singer/
-- https://www.arts.gov/honors/heritage/charles-brown
-- https://www.alligator.com/artists/Charles-Brown/
-- https://rxmusic.com/editorial/unsung-musicians-charles-brown/
+  - 'https://www.britannica.com/biography/Charles-Brown'
+  - 'https://aaregistry.org/story/charles-brown-was-a-smooth-blues-singer/'
+  - 'https://www.arts.gov/honors/heritage/charles-brown'
+  - 'https://www.alligator.com/artists/Charles-Brown/'
+  - 'https://rxmusic.com/editorial/unsung-musicians-charles-brown/'
 network_extracted: true
 entry_created: '2025-12-12T12:04:36.732278'
 last_updated: '2025-12-23T08:16:06.656361'
@@ -89,10 +91,11 @@ disambiguation: blues musician
 gender: Male
 musicbrainz_id: dbc9229a-6fb7-43b1-9763-df1e87112a93
 tags:
-- blues
-- piano blues
-- r&b
-
+  - blues
+  - piano blues
+  - r&b
+is_active: false
+origin: 'Los Angeles, California, United States'
 ---
 
 ![](charles_brown.jpg)

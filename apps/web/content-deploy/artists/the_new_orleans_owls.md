@@ -4,41 +4,43 @@ biography_enhanced_at: '2026-01-15T01:16:23.290055'
 enhancement_provider: perplexity
 entry_created: '2026-01-15T01:16:23.290059'
 external_urls:
-  spotify: https://open.spotify.com/artist/1xIRFQAuuz1yrzI591EfVj
+  spotify: 'https://open.spotify.com/artist/1xIRFQAuuz1yrzI591EfVj'
   wikipedia: ''
 genres:
-- ragtime
+  - ragtime
 image_path: 03_Resources/source_material/ArtistPortraits/the_new_orleans_owls.jpg
 is_active: true
 last_updated: '2026-01-15T01:16:23.290059'
 musical_connections:
   collaborators:
-  - Benjie White
-  - Bill Padron
-  - Frank Netto
-  - Nappy Lamare
-  - Pinky Vidacovich
-  - Mose Farrar
-  - Dan LeBlanc
-  - Red Bowman
+    - Benjie White
+    - Bill Padron
+    - Frank Netto
+    - Nappy Lamare
+    - Pinky Vidacovich
+    - Mose Farrar
+    - Dan LeBlanc
+    - Red Bowman
   influenced: []
   mentors: []
 network_extracted: true
-origin: New Orleans, Louisiana, USA
+origin: 'New Orleans, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- http://playing-traditional-jazz.blogspot.com/2017/09/post-551-new-orleans-owls-1922-1929.html
-- https://syncopatedtimes.com/the-new-orleans-owls-part-two/
-- https://syncopatedtimes.com/new-orleans-owls/
-- https://syncopatedtimes.com/the-new-orleans-owls-part-one/
-- https://adp.library.ucsb.edu/index.php/mastertalent/detail/111351/New_Orleans_Owls
+  - >-
+    http://playing-traditional-jazz.blogspot.com/2017/09/post-551-new-orleans-owls-1922-1929.html
+  - 'https://syncopatedtimes.com/the-new-orleans-owls-part-two/'
+  - 'https://syncopatedtimes.com/new-orleans-owls/'
+  - 'https://syncopatedtimes.com/the-new-orleans-owls-part-one/'
+  - >-
+    https://adp.library.ucsb.edu/index.php/mastertalent/detail/111351/New_Orleans_Owls
 spotify_data:
   followers: 452
   id: 1xIRFQAuuz1yrzI591EfVj
   popularity: 12
-  url: https://open.spotify.com/artist/1xIRFQAuuz1yrzI591EfVj
+  url: 'https://open.spotify.com/artist/1xIRFQAuuz1yrzI591EfVj'
 status: active
-title: THE NEW ORLEANS OWLS
+title: The New Orleans Owls
 ---
 
 ![](the_new_orleans_owls.jpg)

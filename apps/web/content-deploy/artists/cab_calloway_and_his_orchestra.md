@@ -1,30 +1,31 @@
 ---
-title: CAB CALLOWAY AND HIS ORCHESTRA
+title: Cab Calloway and His Orchestra
 wiki_slug: cab-calloway-and-his-orchestra
 schema_version: 2
-artist_type: orchestra
+artist_type: band
 status: active
-birth_date: '1930'
+birth_date: '1907-12-25'
 genres:
-- big band
-- swing music
-- ragtime
+  - big band
+  - swing music
+  - ragtime
 instruments:
-- banjo
-- guitar
-- original
-- reeds
-- trumpet
-- drums (drum set)
-- piano
-- woodwind
-- trombone
-- double bass
-- saxophone
-- eponymous
-- tuba
+  - banjo
+  - guitar
+  - original
+  - reeds
+  - trumpet
+  - drums (drum set)
+  - piano
+  - woodwind
+  - trombone
+  - double bass
+  - saxophone
+  - eponymous
+  - tuba
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/cab_calloway_and_his_orchestra.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/cab_calloway_and_his_orchestra.jpg
   caption: CAB CALLOWAY AND HIS ORCHESTRA
   background: non_vocal_instrumentalist
   born: '1930'
@@ -35,7 +36,7 @@ audio_profile:
   danceability_avg: 0.649
   acousticness_avg: 0.908
   instrumentalness_avg: 0.186
-  loudness_avg: -11.0
+  loudness_avg: -11
   speechiness_avg: 0.129
   liveness_avg: 0.206
   track_count: 50
@@ -43,233 +44,236 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dizzy Gillespie
-  - Chu Berry
-  - Doc Cheatham
-  - Milt Hinton
-  - Cozy Cole
-  - Jonah Jones
+    - Dizzy Gillespie
+    - Chu Berry
+    - Doc Cheatham
+    - Milt Hinton
+    - Cozy Cole
+    - Jonah Jones
   influenced:
-  - Dizzy Gillespie
+    - Dizzy Gillespie
   mentors:
-  - Louis Armstrong
+    - Louis Armstrong
 spotify_data:
   followers: 32288
   id: 63F9pr5N3duAS7idUvkIwC
   popularity: 27
-  url: https://open.spotify.com/artist/63F9pr5N3duAS7idUvkIwC
+  url: 'https://open.spotify.com/artist/63F9pr5N3duAS7idUvkIwC'
 discography_enriched: true
 top_tracks:
-- Reefer Man
-- Happy Feet
-- Minnie the Moocher (Black Rhythm)
-- Everybody Eats When They Come to My House (Are You Hep To The Jive?)
-- Are You Hep to the Jive? (Yas, Yas) (Are You Hep To The Jive?)
-- St James Infirmary (Black Rhythm)
-- Happy Feet (Cab Calloway and His Orchestra 1930-1931)
-- Everybody Eats When They Come to My House (Black Rhythm)
-- Jumpin Jive (Black Rhythm)
-- Minnie The Moocher - (Alternate Take) (Black Rhythm)
+  - Reefer Man
+  - Happy Feet
+  - Minnie the Moocher (Black Rhythm)
+  - Everybody Eats When They Come to My House (Are You Hep To The Jive?)
+  - 'Are You Hep to the Jive? (Yas, Yas) (Are You Hep To The Jive?)'
+  - St James Infirmary (Black Rhythm)
+  - Happy Feet (Cab Calloway and His Orchestra 1930-1931)
+  - Everybody Eats When They Come to My House (Black Rhythm)
+  - Jumpin Jive (Black Rhythm)
+  - Minnie The Moocher - (Alternate Take) (Black Rhythm)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/803945e7-ebe5-4240-b82d-1754a338b7f8
-  spotify: https://open.spotify.com/artist/63F9pr5N3duAS7idUvkIwC
-  wikipedia: https://en.wikipedia.org/wiki/The_Cab_Calloway_Orchestra
-image_path: 03_Resources/source_material/ArtistPortraits/cab_calloway_and_his_orchestra.jpg
+  musicbrainz: 'https://musicbrainz.org/artist/803945e7-ebe5-4240-b82d-1754a338b7f8'
+  spotify: 'https://open.spotify.com/artist/63F9pr5N3duAS7idUvkIwC'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Cab_Calloway_Orchestra'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/cab_calloway_and_his_orchestra.jpg
 biography_enhanced_at: '2025-11-27T06:29:43.589750'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.britannica.com/biography/Cab-Calloway
-- https://en.wikipedia.org/wiki/The_Cab_Calloway_Orchestra
-- https://www.edsullivan.com/artists/cab-calloway/
-- https://www.operabaltimore.org/cab-calloway
-- https://www.namm.org/library/oral-history/cab-calloway
-- https://www.thecabcalloway.com
+  - 'https://www.britannica.com/biography/Cab-Calloway'
+  - 'https://en.wikipedia.org/wiki/The_Cab_Calloway_Orchestra'
+  - 'https://www.edsullivan.com/artists/cab-calloway/'
+  - 'https://www.operabaltimore.org/cab-calloway'
+  - 'https://www.namm.org/library/oral-history/cab-calloway'
+  - 'https://www.thecabcalloway.com'
 network_extracted: true
 entry_created: '2025-11-27T06:29:43.589766'
 last_updated: '2025-12-23T08:16:06.285699'
 members:
-- begin: '1930'
-  end: '1938'
-  instruments:
-  - banjo
-  - guitar
-  - original
-  mbid: ea3f6bf1-d6d8-4662-a640-db69b3674536
-  name: Morris White
-- &id001
-  begin: '1930'
-  end: ''
-  instruments:
-  - original
-  - reeds
-  mbid: b1e3b2bf-9149-4bfd-a4ae-fb929c02883d
-  name: Andrew Brown
-- &id002
-  begin: '1930'
-  end: ''
-  instruments:
-  - original
-  - trumpet
-  mbid: 900d1ab8-9276-45ab-8d29-9b30c43355d8
-  name: R.Q. Dickerson
-- &id003
-  begin: '1930'
-  end: ''
-  instruments:
-  - drums (drum set)
-  - original
-  mbid: 68b495f3-8ea0-4003-bbdb-0725f62509c8
-  name: Leroy Maxey
-- &id004
-  begin: '1930'
-  end: ''
-  instruments:
-  - original
-  - piano
-  mbid: 3786c790-d7e7-490c-bd7f-49c61782cbb8
-  name: Earres Prince
-- &id005
-  begin: '1930'
-  end: ''
-  instruments:
-  - original
-  - reeds
-  - woodwind
-  mbid: 1ef36960-782b-4908-9e88-cefe9c343cc1
-  name: Walter "Foots" Thomas
-- &id006
-  begin: '1930'
-  end: ''
-  instruments:
-  - original
-  - trombone
-  mbid: acc6efaa-6ada-422a-9d33-743c40eab33a
-  name: DePriest Wheeler
-- &id007
-  begin: '1930'
-  end: ''
-  instruments:
-  - original
-  - reeds
-  mbid: cc6660c0-a405-4eda-9474-2af637e42eb1
-  name: William Thornton Blue
-- &id008
-  begin: '1930'
-  end: ''
-  instruments:
-  - original
-  - trumpet
-  mbid: d553e75b-c1cc-4d75-9a1c-f0ec33670a66
-  name: Lammar Wright
-- begin: '1931'
-  end: '1936'
-  instruments:
-  - reeds
-  mbid: d0a89bc2-815f-47a5-831e-e12b5269584c
-  name: Arville Harris
-- begin: '1931'
-  end: '1943'
-  instruments:
-  - piano
-  mbid: f159c95e-8f26-4933-8c24-4d6b71b173fc
-  name: Benny Payne
-- begin: '1932'
-  end: '1935-01-31'
-  instruments:
-  - trumpet
-  mbid: f4e9e353-1144-413f-89fc-0d3515c3eb33
-  name: Edwin Swayze
-- begin: '1932'
-  end: '1939'
-  instruments:
-  - trumpet
-  mbid: 47e72e5b-a999-49fa-93df-951d04d0fbac
-  name: Doc Cheatham
-- &id009
-  begin: '1932'
-  end: ''
-  instruments:
-  - trombone
-  mbid: 431a13dc-cb55-45d1-919f-30303cb84ba9
-  name: Harry White
-- &id010
-  begin: '1933'
-  end: ''
-  instruments:
-  - reeds
-  mbid: 10576bcc-58bd-4830-9c6a-7e67860d5f9a
-  name: Eddie Barefield
-- &id011
-  begin: '1936'
-  end: ''
-  instruments:
-  - double bass
-  mbid: 4e525f48-6ebf-45fe-8d57-3fd730970725
-  name: Milt Hinton
-- begin: '1937'
-  end: '1941'
-  instruments:
-  - saxophone
-  mbid: bf4b276e-b71c-43d3-a943-1067706b7765
-  name: Leon “Chu” Berry
-- begin: '1939'
-  end: '1941'
-  instruments:
-  - trumpet
-  mbid: e9ba8ccb-505f-4e5c-b909-65998d0d35b5
-  name: Dizzy Gillespie
-- begin: '1939'
-  end: '1946'
-  instruments:
-  - guitar
-  mbid: d89e0eeb-97f9-476b-96d5-0318f0c1c298
-  name: Danny Barker
-- begin: '1940'
-  end: '1948'
-  instruments:
-  - trombone
-  mbid: cc53fdfe-b0ea-434b-a376-4ad546638531
-  name: Quentin Jackson
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 315bd083-892b-4e76-a9f0-91a7408168fc
-  name: Cab Calloway
-- begin: ''
-  end: ''
-  instruments:
-  - double bass
-  mbid: 7e35b807-155f-4357-a9e0-46e045ff8aec
-  name: Al Morgan
-- begin: ''
-  end: ''
-  instruments:
-  - double bass
-  - original
-  - tuba
-  mbid: bf9982e7-b535-4395-9328-388c9c1d97b0
-  name: Jimmy Smith
+  - begin: '1930'
+    end: '1938'
+    instruments:
+      - banjo
+      - guitar
+      - original
+    mbid: ea3f6bf1-d6d8-4662-a640-db69b3674536
+    name: Morris White
+  - &ref_0
+    begin: '1930'
+    end: ''
+    instruments:
+      - original
+      - reeds
+    mbid: b1e3b2bf-9149-4bfd-a4ae-fb929c02883d
+    name: Andrew Brown
+  - &ref_1
+    begin: '1930'
+    end: ''
+    instruments:
+      - original
+      - trumpet
+    mbid: 900d1ab8-9276-45ab-8d29-9b30c43355d8
+    name: R.Q. Dickerson
+  - &ref_2
+    begin: '1930'
+    end: ''
+    instruments:
+      - drums (drum set)
+      - original
+    mbid: 68b495f3-8ea0-4003-bbdb-0725f62509c8
+    name: Leroy Maxey
+  - &ref_3
+    begin: '1930'
+    end: ''
+    instruments:
+      - original
+      - piano
+    mbid: 3786c790-d7e7-490c-bd7f-49c61782cbb8
+    name: Earres Prince
+  - &ref_4
+    begin: '1930'
+    end: ''
+    instruments:
+      - original
+      - reeds
+      - woodwind
+    mbid: 1ef36960-782b-4908-9e88-cefe9c343cc1
+    name: Walter "Foots" Thomas
+  - &ref_5
+    begin: '1930'
+    end: ''
+    instruments:
+      - original
+      - trombone
+    mbid: acc6efaa-6ada-422a-9d33-743c40eab33a
+    name: DePriest Wheeler
+  - &ref_6
+    begin: '1930'
+    end: ''
+    instruments:
+      - original
+      - reeds
+    mbid: cc6660c0-a405-4eda-9474-2af637e42eb1
+    name: William Thornton Blue
+  - &ref_7
+    begin: '1930'
+    end: ''
+    instruments:
+      - original
+      - trumpet
+    mbid: d553e75b-c1cc-4d75-9a1c-f0ec33670a66
+    name: Lammar Wright
+  - begin: '1931'
+    end: '1936'
+    instruments:
+      - reeds
+    mbid: d0a89bc2-815f-47a5-831e-e12b5269584c
+    name: Arville Harris
+  - begin: '1931'
+    end: '1943'
+    instruments:
+      - piano
+    mbid: f159c95e-8f26-4933-8c24-4d6b71b173fc
+    name: Benny Payne
+  - begin: '1932'
+    end: '1935-01-31'
+    instruments:
+      - trumpet
+    mbid: f4e9e353-1144-413f-89fc-0d3515c3eb33
+    name: Edwin Swayze
+  - begin: '1932'
+    end: '1939'
+    instruments:
+      - trumpet
+    mbid: 47e72e5b-a999-49fa-93df-951d04d0fbac
+    name: Doc Cheatham
+  - &ref_8
+    begin: '1932'
+    end: ''
+    instruments:
+      - trombone
+    mbid: 431a13dc-cb55-45d1-919f-30303cb84ba9
+    name: Harry White
+  - &ref_9
+    begin: '1933'
+    end: ''
+    instruments:
+      - reeds
+    mbid: 10576bcc-58bd-4830-9c6a-7e67860d5f9a
+    name: Eddie Barefield
+  - &ref_10
+    begin: '1936'
+    end: ''
+    instruments:
+      - double bass
+    mbid: 4e525f48-6ebf-45fe-8d57-3fd730970725
+    name: Milt Hinton
+  - begin: '1937'
+    end: '1941'
+    instruments:
+      - saxophone
+    mbid: bf4b276e-b71c-43d3-a943-1067706b7765
+    name: Leon “Chu” Berry
+  - begin: '1939'
+    end: '1941'
+    instruments:
+      - trumpet
+    mbid: e9ba8ccb-505f-4e5c-b909-65998d0d35b5
+    name: Dizzy Gillespie
+  - begin: '1939'
+    end: '1946'
+    instruments:
+      - guitar
+    mbid: d89e0eeb-97f9-476b-96d5-0318f0c1c298
+    name: Danny Barker
+  - begin: '1940'
+    end: '1948'
+    instruments:
+      - trombone
+    mbid: cc53fdfe-b0ea-434b-a376-4ad546638531
+    name: Quentin Jackson
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 315bd083-892b-4e76-a9f0-91a7408168fc
+    name: Cab Calloway
+  - begin: ''
+    end: ''
+    instruments:
+      - double bass
+    mbid: 7e35b807-155f-4357-a9e0-46e045ff8aec
+    name: Al Morgan
+  - begin: ''
+    end: ''
+    instruments:
+      - double bass
+      - original
+      - tuba
+    mbid: bf9982e7-b535-4395-9328-388c9c1d97b0
+    name: Jimmy Smith
 musicbrainz_id: 803945e7-ebe5-4240-b82d-1754a338b7f8
-origin: Rochester, New York, United States
+origin: 'Rochester, New York, United States'
 original_members:
-- *id001
-- *id002
-- *id003
-- *id004
-- *id005
-- *id006
-- *id007
-- *id008
-- *id009
-- *id010
-- *id011
+  - *ref_0
+  - *ref_1
+  - *ref_2
+  - *ref_3
+  - *ref_4
+  - *ref_5
+  - *ref_6
+  - *ref_7
+  - *ref_8
+  - *ref_9
+  - *ref_10
 tags:
-- big band
-- cab calloway
-- jazz
+  - big band
+  - cab calloway
+  - jazz
+birth_place: 'Rochester, New York, United States'
+death_date: '1994-11-18'
 ---
 
 ![](cab_calloway_and_his_orchestra.jpg)

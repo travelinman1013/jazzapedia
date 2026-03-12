@@ -1,11 +1,11 @@
 ---
-title: SAM AND DAVE
+title: Sam and Dave
 wiki_slug: sam-and-dave
 schema_version: 2
 status: active
 genres:
-- motown
-- soul
+  - motown
+  - soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/SAM_AND_DAVE.jpg
   caption: SAM AND DAVE
@@ -25,51 +25,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Isaac Hayes
-  - David Porter
-  - Booker T. & the M.G.’s
+    - Isaac Hayes
+    - David Porter
+    - Booker T. & the M.G.’s
   influenced:
-  - The Blues Brothers (John Belushi & Dan Aykroyd)
-  - Bruce Springsteen
-  - Al Green
-  - Michael Jackson
+    - The Blues Brothers (John Belushi & Dan Aykroyd)
+    - Bruce Springsteen
+    - Al Green
+    - Michael Jackson
   mentors:
-  - Sam Cooke
-  - Nat King Cole
-  - Jerry Wexler
+    - Sam Cooke
+    - Nat King Cole
+    - Jerry Wexler
 spotify_data:
   followers: 369243
   id: 2BVYdY4PyfCF9z4NrkhEB2
   popularity: 55
-  url: https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2
+  url: 'https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2'
 discography_enriched: true
 top_tracks:
-- Hold On, I'm Comin' (Hold On, I'm Comin')
-- Soul Man (Soul Men)
-- Soothe Me
-- Hold On, I'm Comin' (Rerecorded) (Hits New Versions (Rerecorded))
-- 'Soul Man (Atlantic Top 60: Sweat-Soaked Soul Classics)'
-- When Something Is Wrong with My Baby
-- 'When Something Is Wrong with My Baby (Definitive Soul: Sam & Dave)'
-- I Thank You - LP / Single Version (I Thank You)
-- Hold On, I'm Comin'
-- Hold On, I'm Coming
+  - 'Hold On, I''m Comin'' (Hold On, I''m Comin'')'
+  - Soul Man (Soul Men)
+  - Soothe Me
+  - 'Hold On, I''m Comin'' (Rerecorded) (Hits New Versions (Rerecorded))'
+  - 'Soul Man (Atlantic Top 60: Sweat-Soaked Soul Classics)'
+  - When Something Is Wrong with My Baby
+  - 'When Something Is Wrong with My Baby (Definitive Soul: Sam & Dave)'
+  - I Thank You - LP / Single Version (I Thank You)
+  - 'Hold On, I''m Comin'''
+  - 'Hold On, I''m Coming'
 external_urls:
-  spotify: https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2
-  wikipedia: https://en.wikipedia.org/wiki/Sam_%26_Dave
+  spotify: 'https://open.spotify.com/artist/2BVYdY4PyfCF9z4NrkhEB2'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sam_%26_Dave'
 image_path: 03_Resources/source_material/ArtistPortraits/SAM_AND_DAVE.jpg
 biography_enhanced_at: '2025-10-21T06:54:48.856813'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Stax Records
-- Memphis Music Hall of Fame
-- Britannica
+  - Stax Records
+  - Memphis Music Hall of Fame
+  - Britannica
 network_extracted: true
 entry_created: '2025-10-21T06:54:48.856828'
 last_updated: '2025-12-23T08:16:03.771885'
-origin: Miami, Florida, USA (Sam Moore); Ocilla, Georgia, USA (Dave Prater); Memphis, Tennessee, USA (career peak)
-
+origin: >-
+  Miami, Florida, USA (Sam Moore); Ocilla, Georgia, USA (Dave Prater); Memphis,
+  Tennessee, USA (career peak)
+birth_place: 'Miami, Florida, United States'
+birth_date: '1935-10-12'
+artist_type: band
 ---
 
 ![](SAM_AND_DAVE.jpg)

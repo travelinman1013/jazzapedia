@@ -2,14 +2,14 @@
 title: The Bonzo Dog Band
 wiki_slug: the-bonzo-dog-band
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1962-09-25'
 genres:
-- acid rock
-- baroque pop
-- garage rock
-- psychedelic pop
+  - acid rock
+  - baroque pop
+  - garage rock
+  - psychedelic pop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_bonzo_dog_band.jpg
   caption: The Bonzo Dog Band
@@ -30,109 +30,109 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Vivian Stanshall
-  - Neil Innes
-  - Paul McCartney
-  - The Beatles
+    - Vivian Stanshall
+    - Neil Innes
+    - Paul McCartney
+    - The Beatles
   influenced:
-  - Monty Python
-  - Death Cab for Cutie
-  - Frank Zappa and the Mothers of Invention
+    - Monty Python
+    - Death Cab for Cutie
+    - Frank Zappa and the Mothers of Invention
   mentors:
-  - The Alberts
-  - Spike Jones and His City Slickers
-  - British 'Trad Jazz' movement
+    - The Alberts
+    - Spike Jones and His City Slickers
+    - British 'Trad Jazz' movement
 spotify_data:
   followers: 24886
   id: 6Q7D1oEccgTc8MAYdMgtIx
   popularity: 25
-  url: https://open.spotify.com/artist/6Q7D1oEccgTc8MAYdMgtIx
+  url: 'https://open.spotify.com/artist/6Q7D1oEccgTc8MAYdMgtIx'
 discography_enriched: true
 top_tracks:
-- I'm the Urban Spaceman - 2007 Remaster (Tadpoles)
-- Death Cab for Cutie - 2007 Remaster (Gorilla)
-- The Intro and the Outro - 2007 Remaster (Gorilla)
-- I Want to Be with You - 2007 Remaster (Keynsham)
-- Jollity Farm - 2007 Remaster (Gorilla)
-- Look Out, There's a Monster Coming - 2007 Remaster (Gorilla)
-- Hunting Tigers out in India - 2007 Remaster (Tadpoles)
-- The Equestrian Statue - 2007 Remaster (Gorilla)
-- Ali Baba's Camel - 2007 Remaster (Tadpoles)
-- Humanoid Boogie - 2007 Remaster (The Doughnut In Granny's Greenhouse)
+  - I'm the Urban Spaceman - 2007 Remaster (Tadpoles)
+  - Death Cab for Cutie - 2007 Remaster (Gorilla)
+  - The Intro and the Outro - 2007 Remaster (Gorilla)
+  - I Want to Be with You - 2007 Remaster (Keynsham)
+  - Jollity Farm - 2007 Remaster (Gorilla)
+  - 'Look Out, There''s a Monster Coming - 2007 Remaster (Gorilla)'
+  - Hunting Tigers out in India - 2007 Remaster (Tadpoles)
+  - The Equestrian Statue - 2007 Remaster (Gorilla)
+  - Ali Baba's Camel - 2007 Remaster (Tadpoles)
+  - Humanoid Boogie - 2007 Remaster (The Doughnut In Granny's Greenhouse)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2fe8f530-861d-40ff-ac74-51f7e2701965
-  spotify: https://open.spotify.com/artist/6Q7D1oEccgTc8MAYdMgtIx
-  wikipedia: https://en.wikipedia.org/wiki/Bonzo_Dog_Doo-Dah_Band
+  musicbrainz: 'https://musicbrainz.org/artist/2fe8f530-861d-40ff-ac74-51f7e2701965'
+  spotify: 'https://open.spotify.com/artist/6Q7D1oEccgTc8MAYdMgtIx'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bonzo_Dog_Doo-Dah_Band'
 image_path: 03_Resources/source_material/ArtistPortraits/the_bonzo_dog_band.jpg
 biography_enhanced_at: '2025-10-26T12:37:19.294001'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Encyclopedia.com (Bonzo Dog Doo-Dah Band)[2]
-- Scaruffi.com (Bonzo Dog Doo Dah Band)[1]
-- Zappa Wiki Jawaka (The Bonzo Dog Band)[4]
-- Nostalgia Central (Bonzo Dog Doo-Dah Band)[5]
-- Ian Kitching's Bonzo Dog Doo-Dah Band History[3]
+  - 'Encyclopedia.com (Bonzo Dog Doo-Dah Band)[2]'
+  - 'Scaruffi.com (Bonzo Dog Doo Dah Band)[1]'
+  - 'Zappa Wiki Jawaka (The Bonzo Dog Band)[4]'
+  - 'Nostalgia Central (Bonzo Dog Doo-Dah Band)[5]'
+  - 'Ian Kitching''s Bonzo Dog Doo-Dah Band History[3]'
 network_extracted: true
 entry_created: '2025-10-26T12:37:19.294010'
 last_updated: '2025-12-23T08:16:16.593851'
 members:
-- begin: '1962'
-  end: '1970'
-  instruments: []
-  mbid: 8dd437d0-3076-443c-abd9-07d00d94ef42
-  name: Roger Ruskin Spear
-- begin: '1962'
-  end: '1970'
-  instruments: []
-  mbid: 38ae5ae4-d652-4e2c-8c74-e078d6fe184b
-  name: Rodney Desborough Slater
-- begin: '1962'
-  end: '1970'
-  instruments: []
-  mbid: 1664a967-ed3e-4326-a18f-25df8d8e7a3c
-  name: Vivian Stanshall
-- begin: '1963'
-  end: '1970'
-  instruments: []
-  mbid: a7338d9c-aad3-46f2-be90-1084d51e7ebf
-  name: ‘Legs’ Larry Smith
-- begin: '1965'
-  end: '1970'
-  instruments: []
-  mbid: 888b9014-96eb-4794-8e7c-04385ff923ae
-  name: Neil Innes
-- begin: '1967'
-  end: '1968'
-  instruments: []
-  mbid: dd091bde-1ed2-4c45-a645-56356ba23b15
-  name: Dave Clague
-- begin: '1969'
-  end: '1970'
-  instruments: []
-  mbid: e130d8de-6275-45db-a214-5ebd8b3fa25f
-  name: Dennis Cowan
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2428dcc2-34d7-449f-93de-627dc185b056
-  name: John “Pazz” Parry
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: de18a7c6-3116-4fd9-9f63-04f22f941e44
-  name: Sam Spoons
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8638d7ce-7f93-45e9-ab75-8672f87c4020
-  name: Bob Kerr
+  - begin: '1962'
+    end: '1970'
+    instruments: []
+    mbid: 8dd437d0-3076-443c-abd9-07d00d94ef42
+    name: Roger Ruskin Spear
+  - begin: '1962'
+    end: '1970'
+    instruments: []
+    mbid: 38ae5ae4-d652-4e2c-8c74-e078d6fe184b
+    name: Rodney Desborough Slater
+  - begin: '1962'
+    end: '1970'
+    instruments: []
+    mbid: 1664a967-ed3e-4326-a18f-25df8d8e7a3c
+    name: Vivian Stanshall
+  - begin: '1963'
+    end: '1970'
+    instruments: []
+    mbid: a7338d9c-aad3-46f2-be90-1084d51e7ebf
+    name: ‘Legs’ Larry Smith
+  - begin: '1965'
+    end: '1970'
+    instruments: []
+    mbid: 888b9014-96eb-4794-8e7c-04385ff923ae
+    name: Neil Innes
+  - begin: '1967'
+    end: '1968'
+    instruments: []
+    mbid: dd091bde-1ed2-4c45-a645-56356ba23b15
+    name: Dave Clague
+  - begin: '1969'
+    end: '1970'
+    instruments: []
+    mbid: e130d8de-6275-45db-a214-5ebd8b3fa25f
+    name: Dennis Cowan
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2428dcc2-34d7-449f-93de-627dc185b056
+    name: John “Pazz” Parry
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: de18a7c6-3116-4fd9-9f63-04f22f941e44
+    name: Sam Spoons
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8638d7ce-7f93-45e9-ab75-8672f87c4020
+    name: Bob Kerr
 musicbrainz_id: 2fe8f530-861d-40ff-ac74-51f7e2701965
-origin: London
+origin: 'London, England, United Kingdom'
 tags:
-- classic pop and rock
-- comedy rock
-- music hall
+  - classic pop and rock
+  - comedy rock
+  - music hall
 ---
 
 ![](the_bonzo_dog_band.jpg)

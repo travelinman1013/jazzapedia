@@ -5,45 +5,45 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1933-03-14'
-birth_place: Chicago
+birth_place: 'Chicago, Illinois, United States'
 death_date: '2024-11-03'
 genres:
-- soul jazz
-- big band
-- quiet storm
+  - soul jazz
+  - big band
+  - quiet storm
 instruments:
-- original
-- eponymous
-- piano
-- electric piano
-- spoken vocals
-- background vocals
-- choir vocals
-- other vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - original
-  mbid: c49d862f-6b82-464a-a39f-b031533df784
-  name: Quincy Jones and His Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: c1432398-9ded-426b-a0fd-5faf38d29d5c
-  name: Quincy Jones and the All Stars
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 52deb6f1-ea74-4fb8-94b5-147c2d427f81
-  name: The Jones Boys
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
-  mbid: 79e24c96-bb53-4b9e-915c-9efef8ece925
-  name: Quincy Jones and His Swedish-American All-Stars
+  - piano
+  - electric piano
+  - spoken vocals
+  - background vocals
+  - choir vocals
+  - other vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: c49d862f-6b82-464a-a39f-b031533df784
+    name: Quincy Jones and His Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: c1432398-9ded-426b-a0fd-5faf38d29d5c
+    name: Quincy Jones and the All Stars
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 52deb6f1-ea74-4fb8-94b5-147c2d427f81
+    name: The Jones Boys
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 79e24c96-bb53-4b9e-915c-9efef8ece925
+    name: Quincy Jones and His Swedish-American All-Stars
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/quincy_jones.jpg
   caption: Quincy Jones
@@ -66,61 +66,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Michael Jackson
-  - Frank Sinatra
-  - Count Basie
-  - Lesley Gore
-  - Steven Spielberg
-  - Sidney Lumet
+    - Michael Jackson
+    - Frank Sinatra
+    - Count Basie
+    - Lesley Gore
+    - Steven Spielberg
+    - Sidney Lumet
   influenced:
-  - Contemporary Music Producers
-  - Film Composers
+    - Contemporary Music Producers
+    - Film Composers
   mentors:
-  - Nadia Boulanger
-  - Olivier Messiaen
-  - Dizzy Gillespie
-  - Lionel Hampton
+    - Nadia Boulanger
+    - Olivier Messiaen
+    - Dizzy Gillespie
+    - Lionel Hampton
 spotify_data:
   followers: 462438
   id: 3rxIQc9kWT6Ueg4BhnOwRK
   popularity: 58
-  url: https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK
+  url: 'https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK'
 discography_enriched: true
 top_tracks:
-- Just Once (The Dude)
-- Ai No Corrida (The Dude)
-- Soul Bossa Nova (Big Band Bossa Nova)
-- Summer In The City (You've Got It Bad Girl)
-- One Hundred Ways (The Dude)
-- The Secret Garden (Sweet Seduction Suite) (Back On The Block)
-- You Put A Move On My Heart (Q's Jook Joint)
-- Razzamatazz (The Dude)
-- Slow Jams (Q's Jook Joint)
-- Betcha Wouldn't Hurt Me
+  - Just Once (The Dude)
+  - Ai No Corrida (The Dude)
+  - Soul Bossa Nova (Big Band Bossa Nova)
+  - Summer In The City (You've Got It Bad Girl)
+  - One Hundred Ways (The Dude)
+  - The Secret Garden (Sweet Seduction Suite) (Back On The Block)
+  - You Put A Move On My Heart (Q's Jook Joint)
+  - Razzamatazz (The Dude)
+  - Slow Jams (Q's Jook Joint)
+  - Betcha Wouldn't Hurt Me
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5803c81e-739a-4057-9a5c-cf84e55db630
-  spotify: https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK
-  wikipedia: https://en.wikipedia.org/wiki/Quincy_Jones
+  musicbrainz: 'https://musicbrainz.org/artist/5803c81e-739a-4057-9a5c-cf84e55db630'
+  spotify: 'https://open.spotify.com/artist/3rxIQc9kWT6Ueg4BhnOwRK'
+  wikipedia: 'https://en.wikipedia.org/wiki/Quincy_Jones'
 image_path: 03_Resources/source_material/ArtistPortraits/quincy_jones.jpg
 biography_enhanced_at: '2025-12-04T08:03:05.299022'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- The HistoryMakers - Quincy Jones Biography
-- Qwest TV - Quincy Jones
-- We Are Family Foundation - Quincy Jones
-- Wikipedia - Quincy Jones
-- Academy of Achievement - Quincy Jones
-- National Endowment for the Arts - Quincy Jones
+  - The HistoryMakers - Quincy Jones Biography
+  - Qwest TV - Quincy Jones
+  - We Are Family Foundation - Quincy Jones
+  - Wikipedia - Quincy Jones
+  - Academy of Achievement - Quincy Jones
+  - National Endowment for the Arts - Quincy Jones
 network_extracted: true
 entry_created: '2025-12-04T08:03:05.299030'
 last_updated: '2025-12-23T08:16:14.516454'
 gender: Male
 musicbrainz_id: 5803c81e-739a-4057-9a5c-cf84e55db630
 tags:
-- 2008 universal fire victim
-- american
-- big band
+  - 2008 universal fire victim
+  - american
+  - big band
+is_active: false
 ---
 
 ![](quincy_jones.jpg)

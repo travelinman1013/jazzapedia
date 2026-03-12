@@ -1,96 +1,96 @@
 ---
-title: ARCHIE SHEPP
+title: Archie Shepp
 wiki_slug: archie-shepp
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1937-05-24'
-birth_place: Fort Lauderdale
+birth_place: 'Fort Lauderdale, Florida, United States'
 genres:
-- free jazz
-- jazz
-- avant-garde
-- hard bop
+  - free jazz
+  - jazz
+  - avant-garde
+  - hard bop
 instruments:
-- eponymous
-- original
-- tenor saxophone
-- saxophone
-- alto saxophone
-- piano
-- spoken vocals
-- lead vocals
-associated_acts:
-- begin: '1961'
-  end: 1963-06
-  instruments:
   - eponymous
   - original
   - tenor saxophone
-  mbid: 8887d181-dfc4-4b2d-806f-1e1db7f6a7df
-  name: Archie Shepp–Bill Dixon Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 24f26347-65da-4b51-8618-16ada0c0769e
-  name: Takashi Mizuhashi Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - tenor saxophone
-  mbid: 5edfc4e4-1beb-495a-8d9c-753bd7f93a4d
-  name: New York Contemporary Five
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 0ec7e7de-8233-4617-a475-22a8cb0976ba
-  name: Archie Shepp Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
   - saxophone
-  mbid: 30c87d60-094b-4522-b808-d7ff873bf5e3
-  name: Archie Shepp Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2bcad36b-fd68-49b1-826e-d16e404c7e1b
-  name: The Gil Evans Orchestra
-- begin: ''
-  end: ''
-  instruments:
   - alto saxophone
-  - tenor saxophone
-  mbid: 1f4ce030-5cc8-4136-bb38-714d33dfd616
-  name: Cecil Taylor Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 89efd371-dad0-439e-9995-dd25423868c0
-  name: Cecil Taylor Unit
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: adb4bb99-4d3c-4e16-94d4-ef3294c57ac9
-  name: The Jazz Composer’s Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - tenor saxophone
-  mbid: cf9054a3-a7b5-4a9b-a405-d200a1c4e0d5
-  name: The Don Cherry Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  - tenor saxophone
-  mbid: 51bb0fa7-c5ca-4a58-b5a3-ab00870eae00
-  name: The Archie Shepp Septet
+  - piano
+  - spoken vocals
+  - lead vocals
+associated_acts:
+  - begin: '1961'
+    end: 1963-06
+    instruments:
+      - eponymous
+      - original
+      - tenor saxophone
+    mbid: 8887d181-dfc4-4b2d-806f-1e1db7f6a7df
+    name: Archie Shepp–Bill Dixon Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 24f26347-65da-4b51-8618-16ada0c0769e
+    name: Takashi Mizuhashi Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: 5edfc4e4-1beb-495a-8d9c-753bd7f93a4d
+    name: New York Contemporary Five
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 0ec7e7de-8233-4617-a475-22a8cb0976ba
+    name: Archie Shepp Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - saxophone
+    mbid: 30c87d60-094b-4522-b808-d7ff873bf5e3
+    name: Archie Shepp Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2bcad36b-fd68-49b1-826e-d16e404c7e1b
+    name: The Gil Evans Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - alto saxophone
+      - tenor saxophone
+    mbid: 1f4ce030-5cc8-4136-bb38-714d33dfd616
+    name: Cecil Taylor Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 89efd371-dad0-439e-9995-dd25423868c0
+    name: Cecil Taylor Unit
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: adb4bb99-4d3c-4e16-94d4-ef3294c57ac9
+    name: The Jazz Composer’s Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: cf9054a3-a7b5-4a9b-a405-d200a1c4e0d5
+    name: The Don Cherry Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - tenor saxophone
+    mbid: 51bb0fa7-c5ca-4a58-b5a3-ab00870eae00
+    name: The Archie Shepp Septet
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/archie_shepp.jpg
   caption: ARCHIE SHEPP
@@ -112,56 +112,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Cecil Taylor
-  - John Coltrane
-  - Don Cherry
-  - Horace Parlan
-  - Mal Waldron
+    - Cecil Taylor
+    - John Coltrane
+    - Don Cherry
+    - Horace Parlan
+    - Mal Waldron
   influenced:
-  - David Murray
-  - James Brandon Lewis
+    - David Murray
+    - James Brandon Lewis
   mentors:
-  - John Coltrane
-  - Ben Webster
+    - John Coltrane
+    - Ben Webster
 spotify_data:
   followers: 56569
   id: 7C2DSqaNkh0w77O5Jz1FKh
   popularity: 30
-  url: https://open.spotify.com/artist/7C2DSqaNkh0w77O5Jz1FKh
+  url: 'https://open.spotify.com/artist/7C2DSqaNkh0w77O5Jz1FKh'
 discography_enriched: true
 top_tracks:
-- Farewell My Love (Uncaged)
-- Tulips
-- Better With Butter (Uncaged)
-- Goin' home (Goin' Home)
-- Nobody knows the troubles I've seen (Goin' Home)
-- Contracts (Mama Rose)
-- Attica Blues (Attica Blues)
-- Blues For Brother George Jackson (Attica Blues)
-- 'Souffle #1'
-- Dr. King, The Peaceful Warrior (Things Have Got To Change)
+  - Farewell My Love (Uncaged)
+  - Tulips
+  - Better With Butter (Uncaged)
+  - Goin' home (Goin' Home)
+  - Nobody knows the troubles I've seen (Goin' Home)
+  - Contracts (Mama Rose)
+  - Attica Blues (Attica Blues)
+  - Blues For Brother George Jackson (Attica Blues)
+  - 'Souffle #1'
+  - 'Dr. King, The Peaceful Warrior (Things Have Got To Change)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5ceff60b-8183-49bf-a855-328d3c172106
-  spotify: https://open.spotify.com/artist/7C2DSqaNkh0w77O5Jz1FKh
-  wikipedia: https://en.wikipedia.org/wiki/Archie_Shepp
+  musicbrainz: 'https://musicbrainz.org/artist/5ceff60b-8183-49bf-a855-328d3c172106'
+  spotify: 'https://open.spotify.com/artist/7C2DSqaNkh0w77O5Jz1FKh'
+  wikipedia: 'https://en.wikipedia.org/wiki/Archie_Shepp'
 image_path: 03_Resources/source_material/ArtistPortraits/archie_shepp.jpg
 biography_enhanced_at: '2025-10-28T09:14:09.777410'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.umass.edu/diversity/black-presence-project/archie-shepp
-- https://www.britannica.com/biography/Archie-Shepp
-- https://www.arts.gov/honors/jazz/archie-shepp
-- https://www.allaboutjazz.com/musicians/archie-shepp/
+  - 'https://www.umass.edu/diversity/black-presence-project/archie-shepp'
+  - 'https://www.britannica.com/biography/Archie-Shepp'
+  - 'https://www.arts.gov/honors/jazz/archie-shepp'
+  - 'https://www.allaboutjazz.com/musicians/archie-shepp/'
 network_extracted: true
 entry_created: '2025-10-28T09:14:09.777420'
 last_updated: '2025-12-23T08:16:04.901604'
 gender: Male
 musicbrainz_id: 5ceff60b-8183-49bf-a855-328d3c172106
 tags:
-- 2008 universal fire victim
-- avant-garde jazz
-- free jazz
+  - 2008 universal fire victim
+  - avant-garde jazz
+  - free jazz
+origin: 'Philadelphia, Pennsylvania, United States'
 ---
 
 ![](archie_shepp.jpg)

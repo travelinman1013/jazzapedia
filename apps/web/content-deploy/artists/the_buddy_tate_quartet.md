@@ -3,18 +3,18 @@ title: The Buddy Tate Quartet
 wiki_slug: the-buddy-tate-quartet
 schema_version: 2
 status: active
-birth_place: Near Sherman (Blue Creek Community), Texas, United States
+birth_place: 'Near Sherman (Blue Creek Community), Texas, United States'
 genres:
-- swing music
-- hard bop
-- jazz
+  - swing music
+  - hard bop
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_buddy_tate_quartet.jpg
   caption: The Buddy Tate Quartet
   background: solo_singer
-  origin: Near Sherman (Blue Creek Community), Texas, United States
+  origin: 'Near Sherman (Blue Creek Community), Texas, United States'
 audio_profile:
-  tempo_avg: 120.0
+  tempo_avg: 120
   energy_avg: 0.294
   valence_avg: 0.529
   danceability_avg: 0.53
@@ -28,55 +28,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Count Basie
-  - Tete Montoliu
-  - Wray Downes
-  - Dave Young
-  - Pete Magadini
-  - Jay McShann
-  - Benny Goodman
-  - James Carter
+    - Count Basie
+    - Tete Montoliu
+    - Wray Downes
+    - Dave Young
+    - Pete Magadini
+    - Jay McShann
+    - Benny Goodman
+    - James Carter
   influenced:
-  - James Carter
-  - Later “Texas tenor” saxophonists (e.g., those following Illinois Jacquet’s lineage)
+    - James Carter
+    - >-
+      Later “Texas tenor” saxophonists (e.g., those following Illinois Jacquet’s
+      lineage)
   mentors:
-  - Terrence Holder
-  - Andy Kirk
-  - Herschel Evans
+    - Terrence Holder
+    - Andy Kirk
+    - Herschel Evans
 spotify_data:
   followers: 2977
   id: 6epXhvywkJ2aWjO6e5LJ0U
   popularity: 24
-  url: https://open.spotify.com/artist/6epXhvywkJ2aWjO6e5LJ0U
+  url: 'https://open.spotify.com/artist/6epXhvywkJ2aWjO6e5LJ0U'
 discography_enriched: true
 top_tracks:
-- Lester Leaps In - Remastered 2007/Rudy Van Gelder Edition (Very Saxy (Rudy Van Gelder Remasters))
-- I Apologize - Instrumental (Swing Time)
-- Blue and Sentimental
-- Too Heavy Blues (When I'm Blue (Paris, France 1967) [The Definitive Black & Blue Sessions])
-- Very Saxy - Remastered 2007/Rudy Van Gelder Edition (Very Saxy (Rudy Van Gelder Remasters))
-- Talk Of The Town
-- I Loves You, Porgy (feat. Buddy Tate)
-- Centerpiece (Swing Summit)
-- Very Saxy - Remastered 2007/Rudy Van Gelder Edition (On Prestige)
-- Makin' Whoopee (High Life)
+  - >-
+    Lester Leaps In - Remastered 2007/Rudy Van Gelder Edition (Very Saxy (Rudy
+    Van Gelder Remasters))
+  - I Apologize - Instrumental (Swing Time)
+  - Blue and Sentimental
+  - >-
+    Too Heavy Blues (When I'm Blue (Paris, France 1967) [The Definitive Black &
+    Blue Sessions])
+  - >-
+    Very Saxy - Remastered 2007/Rudy Van Gelder Edition (Very Saxy (Rudy Van
+    Gelder Remasters))
+  - Talk Of The Town
+  - 'I Loves You, Porgy (feat. Buddy Tate)'
+  - Centerpiece (Swing Summit)
+  - Very Saxy - Remastered 2007/Rudy Van Gelder Edition (On Prestige)
+  - Makin' Whoopee (High Life)
 external_urls:
-  spotify: https://open.spotify.com/artist/6epXhvywkJ2aWjO6e5LJ0U
-  wikipedia: https://en.wikipedia.org/wiki/Buddy_Tate
+  spotify: 'https://open.spotify.com/artist/6epXhvywkJ2aWjO6e5LJ0U'
+  wikipedia: 'https://en.wikipedia.org/wiki/Buddy_Tate'
 image_path: 03_Resources/source_material/ArtistPortraits/the_buddy_tate_quartet.jpg
 biography_enhanced_at: '2025-12-15T01:18:15.749057'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Buddy Tate - Wikipedia[1]
-- 'The Buddy Tate Quartet: Texas Tenor - JazzTimes review[2]'
-- Buddy Tate oral history - NAMM.org[3]
-- KUTX feature on Buddy Tate and “Rock‑A‑Bye Basie”[4]
-- Buddy Tate biography - All About Jazz[5]
-- Texas State Historical Association entry on Buddy Tate[7]
+  - 'Buddy Tate - Wikipedia[1]'
+  - 'The Buddy Tate Quartet: Texas Tenor - JazzTimes review[2]'
+  - 'Buddy Tate oral history - NAMM.org[3]'
+  - 'KUTX feature on Buddy Tate and “Rock‑A‑Bye Basie”[4]'
+  - 'Buddy Tate biography - All About Jazz[5]'
+  - 'Texas State Historical Association entry on Buddy Tate[7]'
 network_extracted: true
 entry_created: '2025-12-15T01:18:15.749063'
 last_updated: '2025-12-23T08:16:16.602973'
+artist_type: person
 ---
 
 ![](the_buddy_tate_quartet.jpg)

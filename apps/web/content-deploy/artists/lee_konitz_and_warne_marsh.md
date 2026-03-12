@@ -1,51 +1,52 @@
 ---
 biography_enhanced_at: '2026-01-19T01:12:14.461447'
-birth_place: Chicago, Illinois, United States (birthplace)
+birth_place: 'Chicago, Illinois, United States (birthplace)'
 enhancement_provider: perplexity
 entry_created: '2026-01-19T01:12:14.461454'
 external_urls:
-  spotify: https://open.spotify.com/artist/6exGD0G8e4oLh2YeWqWmlL
-  wikipedia: https://en.wikipedia.org/wiki/Lee_Konitz
+  spotify: 'https://open.spotify.com/artist/6exGD0G8e4oLh2YeWqWmlL'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lee_Konitz'
 genres:
-- cool jazz
-- bebop
+  - cool jazz
+  - bebop
 image_path: 03_Resources/source_material/ArtistPortraits/lee_konitz_and_warne_marsh.jpg
 last_updated: '2026-01-19T01:12:14.461454'
 musical_connections:
   collaborators:
-  - Warne Marsh
-  - Miles Davis
-  - Gerry Mulligan
-  - Chet Baker
-  - Stan Kenton
-  - Elvin Jones
-  - Charles Mingus
-  - Dave Brubeck
-  - Ornette Coleman
-  - Brad Mehldau
-  - Paul Motian
+    - Warne Marsh
+    - Miles Davis
+    - Gerry Mulligan
+    - Chet Baker
+    - Stan Kenton
+    - Elvin Jones
+    - Charles Mingus
+    - Dave Brubeck
+    - Ornette Coleman
+    - Brad Mehldau
+    - Paul Motian
   influenced:
-  - Modern jazz alto saxophonists
+    - Modern jazz alto saxophonists
   mentors:
-  - Lennie Tristano
-  - Gil Evans
+    - Lennie Tristano
+    - Gil Evans
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.arts.gov/honors/jazz/lee-konitz
-- https://www.britannica.com/biography/Lee-Konitz
-- https://livingjazzarchives.org/lee-konitz-archive/
-- https://jazztimes.com/features/profiles/lee-konitz-new-school/
-- https://thebluemoment.com/2020/04/16/lee-konitz-1927-2020/
-- https://en.wikipedia.org/wiki/Lee_Konitz
-- http://www.companyofheaven.com/id15.html
+  - 'https://www.arts.gov/honors/jazz/lee-konitz'
+  - 'https://www.britannica.com/biography/Lee-Konitz'
+  - 'https://livingjazzarchives.org/lee-konitz-archive/'
+  - 'https://jazztimes.com/features/profiles/lee-konitz-new-school/'
+  - 'https://thebluemoment.com/2020/04/16/lee-konitz-1927-2020/'
+  - 'https://en.wikipedia.org/wiki/Lee_Konitz'
+  - 'http://www.companyofheaven.com/id15.html'
 spotify_data:
   followers: 302
   id: 6exGD0G8e4oLh2YeWqWmlL
   popularity: 0
-  url: https://open.spotify.com/artist/6exGD0G8e4oLh2YeWqWmlL
+  url: 'https://open.spotify.com/artist/6exGD0G8e4oLh2YeWqWmlL'
 status: active
 title: Lee Konitz & Warne Marsh
+artist_type: person
 ---
 
 ![](lee_konitz_and_warne_marsh.jpg)

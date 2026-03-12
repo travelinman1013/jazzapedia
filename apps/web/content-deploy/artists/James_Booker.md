@@ -1,19 +1,19 @@
 ---
-title: james booker
+title: James Booker
 wiki_slug: james-booker
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- boogie-woogie
-- jazz blues
-- ragtime
-- blues
+  - boogie-woogie
+  - jazz blues
+  - ragtime
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/james_booker.jpg
   caption: james booker
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 121.5
   energy_avg: 0.386
@@ -29,49 +29,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Art Neville
-  - Dr. John (Mac Rebennack)
-  - The Neville Brothers
+    - Art Neville
+    - Dr. John (Mac Rebennack)
+    - The Neville Brothers
   influenced:
-  - Harry Connick Jr.
-  - Jon Cleary
+    - Harry Connick Jr.
+    - Jon Cleary
   mentors:
-  - Edward Frank
-  - Isidore 'Tuts' Washington
+    - Edward Frank
+    - Isidore 'Tuts' Washington
 spotify_data:
   followers: 24779
   id: 0gxNgUdRvhVgeq4L3gFamF
   popularity: 23
-  url: https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF
+  url: 'https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF'
 discography_enriched: true
 top_tracks:
-- Junco Partner (Junco Partner)
-- One For The Highway (Classified (Remixed & Expanded Edition))
-- On the Sunny Side of the Street (Junco Partner)
-- One For The Highway (Classified (Remixed & Expanded Edition))
-- 'Junco Partner #2 (The Lost Paramount Tapes)'
-- 'Gonzo (Gonzo: More Than All The 45''s)'
-- African Gumbo (The Lost Paramount Tapes)
-- I'll Be Seeing You (Junco Partner)
-- Gonzo's Blue Dream - Live At The Maple Leaf Bar, New Orleans, LA / 1977-1982 (Spiders On The Keys (Live At The Maple Leaf Bar, New Orleans, LA / 1977-1982))
-- Too Much Blues (The Piano Prince of New Orleans)
+  - Junco Partner (Junco Partner)
+  - One For The Highway (Classified (Remixed & Expanded Edition))
+  - On the Sunny Side of the Street (Junco Partner)
+  - One For The Highway (Classified (Remixed & Expanded Edition))
+  - 'Junco Partner #2 (The Lost Paramount Tapes)'
+  - 'Gonzo (Gonzo: More Than All The 45''s)'
+  - African Gumbo (The Lost Paramount Tapes)
+  - I'll Be Seeing You (Junco Partner)
+  - >-
+    Gonzo's Blue Dream - Live At The Maple Leaf Bar, New Orleans, LA / 1977-1982
+    (Spiders On The Keys (Live At The Maple Leaf Bar, New Orleans, LA /
+    1977-1982))
+  - Too Much Blues (The Piano Prince of New Orleans)
 external_urls:
-  spotify: https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF
-  wikipedia: https://en.wikipedia.org/wiki/James_Booker
+  spotify: 'https://open.spotify.com/artist/0gxNgUdRvhVgeq4L3gFamF'
+  wikipedia: 'https://en.wikipedia.org/wiki/James_Booker'
 image_path: 03_Resources/source_material/ArtistPortraits/james_booker.jpg
 biography_enhanced_at: '2025-10-23T07:26:50.772169'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://musicrising.tulane.edu/discover/people/james-booker/
-- https://msmokemusic.com/blogs/mind-smoke-blog/posts/6870498/the-life-and-times-of-james-booker
-- https://en.wikipedia.org/wiki/James_Booker
-- http://www.bayoumaharajah.com/booker
-- https://veritenews.org/2023/11/08/this-week-in-history-musician-james-carroll-booker-iii-died/
+  - 'https://musicrising.tulane.edu/discover/people/james-booker/'
+  - >-
+    https://msmokemusic.com/blogs/mind-smoke-blog/posts/6870498/the-life-and-times-of-james-booker
+  - 'https://en.wikipedia.org/wiki/James_Booker'
+  - 'http://www.bayoumaharajah.com/booker'
+  - >-
+    https://veritenews.org/2023/11/08/this-week-in-history-musician-james-carroll-booker-iii-died/
 network_extracted: true
 entry_created: '2025-10-23T07:26:50.772191'
 last_updated: '2025-12-23T08:16:02.421193'
-
+birth_date: '1939-12-17'
+death_date: '1983-11-08'
+artist_type: person
 ---
 
 ![](james_booker.jpg)

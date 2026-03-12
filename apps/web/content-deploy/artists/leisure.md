@@ -2,10 +2,10 @@
 title: LEISURE
 wiki_slug: leisure
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- indie soul
+  - indie soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/leisure.jpg
   caption: LEISURE
@@ -25,58 +25,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - GoldLink
+    - GoldLink
   influenced: []
   mentors: []
 spotify_data:
   followers: 306087
   id: 7b04D0yLktCUpvxQBhmG7R
   popularity: 67
-  url: https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R
+  url: 'https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R'
 discography_enriched: true
 top_tracks:
-- Slipping Away (Sunsetter)
-- Got It Bad (Leisure)
-- Money (Twister)
-- Lonely Nights (Sunsetter)
-- Take You Higher (Sunsetter)
-- Be With You (Sunsetter)
-- Miles Away (Sunsetter)
-- Last Dance (Leisurevision)
-- Above Me (Leisurevision)
-- All over You (Leisure)
+  - Slipping Away (Sunsetter)
+  - Got It Bad (Leisure)
+  - Money (Twister)
+  - Lonely Nights (Sunsetter)
+  - Take You Higher (Sunsetter)
+  - Be With You (Sunsetter)
+  - Miles Away (Sunsetter)
+  - Last Dance (Leisurevision)
+  - Above Me (Leisurevision)
+  - All over You (Leisure)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f67d22da-7fe8-40f8-8495-b903e74fd094
-  spotify: https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R
-  wikipedia: https://en.wikipedia.org/wiki/Leisure_(band)
+  musicbrainz: 'https://musicbrainz.org/artist/f67d22da-7fe8-40f8-8495-b903e74fd094'
+  spotify: 'https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R'
+  wikipedia: 'https://en.wikipedia.org/wiki/Leisure_(band)'
 image_path: 03_Resources/source_material/ArtistPortraits/leisure.jpg
 biography_enhanced_at: '2025-12-10T05:00:16.290990'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Leisure_(band)
-- https://www.audioculture.co.nz/profile/leisure
-- https://www.wethebeat.com/blog/artist-radar-leisure
-- https://popmusic.life/2021/11/05/interview-with-mesmerizing-alt-rb-act-leisure/
-- https://www.last.fm/music/Leisure/+wiki
-- https://www.onestowatch.com/en/artist/leisure
-- https://www.allmusic.com/artist/leisure-mn0003101238
+  - 'https://en.wikipedia.org/wiki/Leisure_(band)'
+  - 'https://www.audioculture.co.nz/profile/leisure'
+  - 'https://www.wethebeat.com/blog/artist-radar-leisure'
+  - >-
+    https://popmusic.life/2021/11/05/interview-with-mesmerizing-alt-rb-act-leisure/
+  - 'https://www.last.fm/music/Leisure/+wiki'
+  - 'https://www.onestowatch.com/en/artist/leisure'
+  - 'https://www.allmusic.com/artist/leisure-mn0003101238'
 network_extracted: true
 entry_created: '2025-12-10T05:00:16.290995'
 last_updated: '2025-12-23T08:16:11.758925'
 disambiguation: New Zealand soul band
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: df83e319-ecbd-4551-9b56-ff645678fff8
-  name: Jordan Arts
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: df83e319-ecbd-4551-9b56-ff645678fff8
+    name: Jordan Arts
 musicbrainz_id: f67d22da-7fe8-40f8-8495-b903e74fd094
-origin: Auckland
+origin: 'Auckland, New Zealand'
 tags:
-- alternative pop
-- alternative rock
-- indie pop
+  - alternative pop
+  - alternative rock
+  - indie pop
 ---
 
 ![](leisure.jpg)

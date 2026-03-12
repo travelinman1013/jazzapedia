@@ -5,7 +5,7 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1952-12-01'
-birth_place: Cleveland
+birth_place: 'Cleveland, Ohio, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/liz_mccomb.jpg
@@ -20,7 +20,7 @@ audio_profile:
   danceability_avg: 0.551
   acousticness_avg: 0.5
   instrumentalness_avg: 0.002
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.103
   liveness_avg: 0.364
   track_count: 50
@@ -28,50 +28,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bessie Griffin
-  - Ray Charles
-  - James Brown
-  - Clarence Fountain & the Blind Boys of Alabama
-  - Dyapason Quartet
-  - Bishop Al Hobbs & Eastern Star Church Choir
-  - Nicolas Guiraud
-  - Cyril Barbessol
+    - Bessie Griffin
+    - Ray Charles
+    - James Brown
+    - Clarence Fountain & the Blind Boys of Alabama
+    - Dyapason Quartet
+    - Bishop Al Hobbs & Eastern Star Church Choir
+    - Nicolas Guiraud
+    - Cyril Barbessol
   influenced:
-  - Younger European gospel and soul artists
+    - Younger European gospel and soul artists
   mentors:
-  - Mahalia Jackson
-  - Sister Rosetta Tharpe
-  - Nat King Cole
+    - Mahalia Jackson
+    - Sister Rosetta Tharpe
+    - Nat King Cole
 spotify_data:
   followers: 1734
   id: 1GlVll15lXMHTvvJiUQaAB
   popularity: 7
-  url: https://open.spotify.com/artist/1GlVll15lXMHTvvJiUQaAB
+  url: 'https://open.spotify.com/artist/1GlVll15lXMHTvvJiUQaAB'
 discography_enriched: true
 top_tracks:
-- Give Him Up (Time Is Now)
-- Come On In This House - Live (A Praise And Worship Celebration)
-- 'Give Him Up (L''essentiel: The Soul of Gospel)'
-- I Need You (BrassLand)
-- I Told Jesus It Would Be Alright If He Changed My Name (Live) (Rock My Soul (Gospel Recital) [Live])
-- Come on in This House / If You Don't (Live) (Olympia 1998 (Live))
-- Joshua Fit the Battle of Jericho (BrassLand)
-- By the Rivers of Babylon (Soul, Peace & Love)
-- 'Stand by Me (L''essentiel: The Soul of Gospel)'
-- Children Go Where I Send Thee (Live) (Liz McComb Live)
+  - Give Him Up (Time Is Now)
+  - Come On In This House - Live (A Praise And Worship Celebration)
+  - 'Give Him Up (L''essentiel: The Soul of Gospel)'
+  - I Need You (BrassLand)
+  - >-
+    I Told Jesus It Would Be Alright If He Changed My Name (Live) (Rock My Soul
+    (Gospel Recital) [Live])
+  - Come on in This House / If You Don't (Live) (Olympia 1998 (Live))
+  - Joshua Fit the Battle of Jericho (BrassLand)
+  - 'By the Rivers of Babylon (Soul, Peace & Love)'
+  - 'Stand by Me (L''essentiel: The Soul of Gospel)'
+  - Children Go Where I Send Thee (Live) (Liz McComb Live)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2d25941e-eba5-4b6a-bf31-0293549a3f79
-  spotify: https://open.spotify.com/artist/1GlVll15lXMHTvvJiUQaAB
-  wikipedia: https://en.wikipedia.org/wiki/Liz_McComb
+  musicbrainz: 'https://musicbrainz.org/artist/2d25941e-eba5-4b6a-bf31-0293549a3f79'
+  spotify: 'https://open.spotify.com/artist/1GlVll15lXMHTvvJiUQaAB'
+  wikipedia: 'https://en.wikipedia.org/wiki/Liz_McComb'
 image_path: 03_Resources/source_material/ArtistPortraits/liz_mccomb.jpg
 biography_enhanced_at: '2025-10-31T08:04:37.710528'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.wwoz.org/acts/liz-mccomb
-- https://www.euronews.com/culture/2018/08/31/blues-and-gospel-diva-liz-mccomb-explores-the-world-of-symphony-orchestra
-- http://www.lizmccomb.com/spl/bookletus.htm
-- https://www.allmusic.com/artist/liz-mccomb-mn0000270200
+  - 'https://www.wwoz.org/acts/liz-mccomb'
+  - >-
+    https://www.euronews.com/culture/2018/08/31/blues-and-gospel-diva-liz-mccomb-explores-the-world-of-symphony-orchestra
+  - 'http://www.lizmccomb.com/spl/bookletus.htm'
+  - 'https://www.allmusic.com/artist/liz-mccomb-mn0000270200'
 network_extracted: true
 entry_created: '2025-10-31T08:04:37.710540'
 last_updated: '2025-12-23T08:16:12.062745'

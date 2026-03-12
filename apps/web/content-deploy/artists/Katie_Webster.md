@@ -2,21 +2,21 @@
 title: Katie Webster
 wiki_slug: katie-webster
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1936-01-11'
-birth_place: Houston, Texas, United States
+birth_place: 'Houston, Texas, United States'
 death_date: '1999-09-09'
 genres:
-- boogie-woogie
-- blues
-- boogie
+  - boogie-woogie
+  - blues
+  - boogie
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Katie_Webster.jpg
   caption: Katie Webster
   background: solo_singer
   born: '1936-01-11'
-  origin: Houston, Texas, United States
+  origin: 'Houston, Texas, United States'
   died: '1999-09-09'
 audio_profile:
   tempo_avg: 124.3
@@ -33,48 +33,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lightnin' Slim
-  - Lazy Lester
-  - Bonnie Raitt
-  - Robert Cray
-  - Gary Wiggins and Chris Rannenberg
+    - Lightnin' Slim
+    - Lazy Lester
+    - Bonnie Raitt
+    - Robert Cray
+    - Gary Wiggins and Chris Rannenberg
   influenced:
-  - Bonnie Raitt
-  - Robert Cray
+    - Bonnie Raitt
+    - Robert Cray
   mentors:
-  - Otis Redding
-  - Fats Domino
-  - Little Richard
+    - Otis Redding
+    - Fats Domino
+    - Little Richard
 spotify_data:
   followers: 13667
   id: 14c9svUXIslxxftYL6GqZe
   popularity: 30
-  url: https://open.spotify.com/artist/14c9svUXIslxxftYL6GqZe
+  url: 'https://open.spotify.com/artist/14c9svUXIslxxftYL6GqZe'
 discography_enriched: true
 top_tracks:
-- Pussycat Moan (Two-Fisted Mama!)
-- Two-Fisted Mama (Two-Fisted Mama!)
-- C.Q. Boogie (Two-Fisted Mama!)
-- I'm Still Leaving You (Two-Fisted Mama!)
-- A Little Meat On The Side (No Foolin'!)
-- The Katie Lee (Two-Fisted Mama!)
-- Sea Of Love (The Swamp Boogie Queen)
-- I'm Bad (No Foolin'!)
-- It's Mighty Hard (No Foolin'!)
-- Whoo-Wee Sweet Daddy
+  - Pussycat Moan (Two-Fisted Mama!)
+  - Two-Fisted Mama (Two-Fisted Mama!)
+  - C.Q. Boogie (Two-Fisted Mama!)
+  - I'm Still Leaving You (Two-Fisted Mama!)
+  - A Little Meat On The Side (No Foolin'!)
+  - The Katie Lee (Two-Fisted Mama!)
+  - Sea Of Love (The Swamp Boogie Queen)
+  - I'm Bad (No Foolin'!)
+  - It's Mighty Hard (No Foolin'!)
+  - Whoo-Wee Sweet Daddy
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8aa153b5-70fb-43bf-86cd-bad024e8b977
-  spotify: https://open.spotify.com/artist/14c9svUXIslxxftYL6GqZe
-  wikipedia: https://en.wikipedia.org/wiki/Katie_Webster
+  musicbrainz: 'https://musicbrainz.org/artist/8aa153b5-70fb-43bf-86cd-bad024e8b977'
+  spotify: 'https://open.spotify.com/artist/14c9svUXIslxxftYL6GqZe'
+  wikipedia: 'https://en.wikipedia.org/wiki/Katie_Webster'
 image_path: 03_Resources/source_material/ArtistPortraits/Katie_Webster.jpg
 biography_enhanced_at: '2025-10-20T09:50:25.117975'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Katie_Webster
-- https://kutx.org/this-week-in-texas-music-history/blues-pianist-katie-webster-is-born/
-- https://64parishes.org/entry/katie-webster
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/webster-katie-1936-1999
+  - 'https://en.wikipedia.org/wiki/Katie_Webster'
+  - >-
+    https://kutx.org/this-week-in-texas-music-history/blues-pianist-katie-webster-is-born/
+  - 'https://64parishes.org/entry/katie-webster'
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/webster-katie-1936-1999
 network_extracted: true
 entry_created: '2025-10-20T09:50:25.118000'
 last_updated: '2025-12-23T08:16:02.804942'
@@ -83,9 +85,10 @@ gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:33:28.336243'
 musicbrainz_id: 8aa153b5-70fb-43bf-86cd-bad024e8b977
 tags:
-- blues
-- boogie-woogie
-- jazz
+  - blues
+  - boogie-woogie
+  - jazz
+is_active: false
 ---
 
 ![](Katie_Webster.jpg)

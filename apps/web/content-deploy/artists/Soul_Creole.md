@@ -4,7 +4,7 @@ wiki_slug: soul-creole
 schema_version: 2
 status: active
 genres:
-- soul
+  - soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Soul_Creole.jpg
   caption: Soul Creole
@@ -15,7 +15,7 @@ audio_profile:
   valence_avg: 0.409
   danceability_avg: 0.442
   acousticness_avg: 0.289
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -10.1
   speechiness_avg: 0.075
   liveness_avg: 0.162
@@ -24,55 +24,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jacques Schwarz-Bart
-  - Brian Hogans
-  - Kris Bowers
-  - Ben Williams
-  - Obed Calvaire
-  - Erol Josué
-  - Alex Wintz
-  - Daniel Sadownick
-  - D'Achee
+    - Jacques Schwarz-Bart
+    - Brian Hogans
+    - Kris Bowers
+    - Ben Williams
+    - Obed Calvaire
+    - Erol Josué
+    - Alex Wintz
+    - Daniel Sadownick
+    - D'Achee
   influenced:
-  - Students at Michigan State University
+    - Students at Michigan State University
   mentors:
-  - Marcus Roberts
+    - Marcus Roberts
 spotify_data:
   followers: 37483
   id: 4iUTPMxJudyRqEL8Xou0ND
   popularity: 48
-  url: https://open.spotify.com/artist/4iUTPMxJudyRqEL8Xou0ND
+  url: 'https://open.spotify.com/artist/4iUTPMxJudyRqEL8Xou0ND'
 discography_enriched: true
 top_tracks:
-- Heartless - 1950's Soul Version (Heartless (1950's Soul Version))
-- Many Men - 1950's Soul Version (Many Men (1950's Soul Version))
-- Gangsta's Paradise - 1950's Soul Version (Gangsta's Paradise (1950's Soul Version))
-- Changes - 1950's Soul Version (Changes (1950's Soul Version))
-- Forgot About Dre - 1950's Soul Version (Forgot About Dre (1950's Soul Version))
-- Hit 'Em Up - 1950's Soul Version (Hit 'Em Up (1950's Soul Version))
-- Renegade - 1950's Soul Version (Renegade (1950's Soul Version))
-- I Got 5 On It - 1950's Soul Version (I Got 5 On It (1950's Soul Version))
-- Slippin' - 1950's Soul Version (Slippin' (1950's Soul Version))
-- 'Let It All Work Out - Blues Cover Best version: Most Perfect version (Let It All Work Out - Blues Cover Best version: Most
-  Perfect version)'
+  - Heartless - 1950's Soul Version (Heartless (1950's Soul Version))
+  - Many Men - 1950's Soul Version (Many Men (1950's Soul Version))
+  - >-
+    Gangsta's Paradise - 1950's Soul Version (Gangsta's Paradise (1950's Soul
+    Version))
+  - Changes - 1950's Soul Version (Changes (1950's Soul Version))
+  - >-
+    Forgot About Dre - 1950's Soul Version (Forgot About Dre (1950's Soul
+    Version))
+  - Hit 'Em Up - 1950's Soul Version (Hit 'Em Up (1950's Soul Version))
+  - Renegade - 1950's Soul Version (Renegade (1950's Soul Version))
+  - I Got 5 On It - 1950's Soul Version (I Got 5 On It (1950's Soul Version))
+  - Slippin' - 1950's Soul Version (Slippin' (1950's Soul Version))
+  - >-
+    Let It All Work Out - Blues Cover Best version: Most Perfect version (Let It
+    All Work Out - Blues Cover Best version: Most Perfect version)
 external_urls:
-  spotify: https://open.spotify.com/artist/4iUTPMxJudyRqEL8Xou0ND
+  spotify: 'https://open.spotify.com/artist/4iUTPMxJudyRqEL8Xou0ND'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/Soul_Creole.jpg
 biography_enhanced_at: '2025-10-20T09:34:02.385609'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://pittsburghjazzfest.org/artists/etienne-charles-creole-soul/
-- https://blogs.loc.gov/music/2015/05/etienne-charles-creole-soul/
-- https://scvtv.com/2016/05/17/etienne-charles-creole-soul/
-- https://www.caribbean-beat.com/issue-146/head-for-jazz-creole-soul
-- https://www.etiennecharles.com/about
-- https://latinjazznet.com/reviews/albums/etienne-charles-creole-soul/
+  - 'https://pittsburghjazzfest.org/artists/etienne-charles-creole-soul/'
+  - 'https://blogs.loc.gov/music/2015/05/etienne-charles-creole-soul/'
+  - 'https://scvtv.com/2016/05/17/etienne-charles-creole-soul/'
+  - 'https://www.caribbean-beat.com/issue-146/head-for-jazz-creole-soul'
+  - 'https://www.etiennecharles.com/about'
+  - 'https://latinjazznet.com/reviews/albums/etienne-charles-creole-soul/'
 network_extracted: true
 entry_created: '2025-10-20T09:34:02.385633'
 last_updated: '2025-12-23T08:16:03.931398'
-origin: Port of Spain, Trinidad and Tobago
+origin: 'Port of Spain, Trinidad and Tobago, United States'
+artist_type: band
 ---
 
 ![](Soul_Creole.jpg)

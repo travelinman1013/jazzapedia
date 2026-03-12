@@ -2,16 +2,16 @@
 title: A Tribe Called Quest
 wiki_slug: a-tribe-called-quest
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 birth_date: '1985'
 death_date: '2017'
 genres:
-- jazz rap
-- east coast hip hop
-- hip hop
+  - jazz rap
+  - east coast hip hop
+  - hip hop
 instruments:
-- original
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/A_Tribe_Called_Quest.jpg
   caption: A Tribe Called Quest
@@ -33,59 +33,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Q-Tip
-  - Phife Dawg
-  - Ali Shaheed Muhammad
-  - Jarobi White
-  - Busta Rhymes
+    - Q-Tip
+    - Phife Dawg
+    - Ali Shaheed Muhammad
+    - Jarobi White
+    - Busta Rhymes
   influenced:
-  - The Roots
-  - OutKast
-  - Kendrick Lamar
-  - J. Cole
+    - The Roots
+    - OutKast
+    - Kendrick Lamar
+    - J. Cole
   mentors:
-  - Jungle Brothers
-  - De La Soul
+    - Jungle Brothers
+    - De La Soul
 spotify_data:
   followers: 2398045
   id: 09hVIj6vWgoCDtT03h8ZCa
   popularity: 64
-  url: https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa
+  url: 'https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa'
 discography_enriched: true
 top_tracks:
-- Can I Kick It? (People's Instinctive Travels and the Paths of Rhythm (25th Anniversary Edition))
-- Electric Relaxation
-- Check the Rhime (The Low End Theory)
-- Jazz (We've Got) (The Low End Theory)
-- The Hop (Beats, Rhymes & Life)
-- Award Tour (feat. Trugoy The Dove) (Midnight Marauders)
-- Find a Way (The Love Movement)
-- Buggin' Out (The Low End Theory)
-- Excursions (The Low End Theory)
-- Scenario (feat. Busta Rhymes, Dinco D & Charlie Brown) - LP Mix (The Low End Theory)
+  - >-
+    Can I Kick It? (People's Instinctive Travels and the Paths of Rhythm (25th
+    Anniversary Edition))
+  - Electric Relaxation
+  - Check the Rhime (The Low End Theory)
+  - Jazz (We've Got) (The Low End Theory)
+  - 'The Hop (Beats, Rhymes & Life)'
+  - Award Tour (feat. Trugoy The Dove) (Midnight Marauders)
+  - Find a Way (The Love Movement)
+  - Buggin' Out (The Low End Theory)
+  - Excursions (The Low End Theory)
+  - >-
+    Scenario (feat. Busta Rhymes, Dinco D & Charlie Brown) - LP Mix (The Low End
+    Theory)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9689aa5a-4471-4fb4-9721-07cecda0fa9f
-  spotify: https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa
-  wikipedia: https://en.wikipedia.org/wiki/A_Tribe_Called_Quest
+  musicbrainz: 'https://musicbrainz.org/artist/9689aa5a-4471-4fb4-9721-07cecda0fa9f'
+  spotify: 'https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa'
+  wikipedia: 'https://en.wikipedia.org/wiki/A_Tribe_Called_Quest'
 image_path: 03_Resources/source_material/ArtistPortraits/A_Tribe_Called_Quest.jpg
 biography_enhanced_at: '2025-10-20T10:30:24.936370'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- BlackPast.org
-- Hip Hop Scriptures
-- Hip Hop Golden Age
+  - BlackPast.org
+  - Hip Hop Scriptures
+  - Hip Hop Golden Age
 network_extracted: true
 entry_created: '2025-10-20T10:30:24.936385'
 last_updated: '2025-12-23T08:16:00.942791'
 musicbrainz_enriched_at: '2025-10-21T09:10:17.881831'
 musicbrainz_id: 9689aa5a-4471-4fb4-9721-07cecda0fa9f
-origin: St. Albans, Queens, New York, United States
+origin: 'St. Albans, Queens, New York, United States'
 tags:
-- alternative hip hop
-- alternative rap
-- boom bap
-
+  - alternative hip hop
+  - alternative rap
+  - boom bap
+is_active: false
+birth_place: St. Albans
 ---
 
 ![](A_Tribe_Called_Quest.jpg)

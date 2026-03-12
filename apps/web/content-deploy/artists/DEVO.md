@@ -2,16 +2,16 @@
 title: DEVO
 wiki_slug: devo
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 birth_date: '1972'
 genres:
-- new wave
-- post-punk
-- synthpop
+  - new wave
+  - post-punk
+  - synthpop
 instruments:
-- guitar
-- drums (drum set)
+  - guitar
+  - drums (drum set)
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/DEVO.jpg
   caption: DEVO
@@ -32,60 +32,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mark Mothersbaugh
-  - Gerald Casale
-  - Bob Mothersbaugh
-  - Bob Casale
-  - Alan Myers
-  - Neil Young
+    - Mark Mothersbaugh
+    - Gerald Casale
+    - Bob Mothersbaugh
+    - Bob Casale
+    - Alan Myers
+    - Neil Young
   influenced:
-  - Nine Inch Nails (Trent Reznor)
-  - Beck
-  - The Flaming Lips
-  - Gorillaz (Damon Albarn)
+    - Nine Inch Nails (Trent Reznor)
+    - Beck
+    - The Flaming Lips
+    - Gorillaz (Damon Albarn)
   mentors:
-  - Brian Eno
-  - David Bowie
+    - Brian Eno
+    - David Bowie
 spotify_data:
   followers: 630213
   id: 0UKfenbZb15sqhfPC6zbt3
   popularity: 53
-  url: https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3
+  url: 'https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3'
 discography_enriched: true
 top_tracks:
-- Whip It (Freedom of Choice)
-- Puppet Boy (Shout)
-- 'Uncontrollable Urge (Q: Are We Not Men? A: We Are Devo!)'
-- Whip It
-- Girl U Want - 2009 Remaster (Freedom of Choice (2009 Remaster; Deluxe Edition))
-- '(I Can''t Get No) Satisfaction (Q: Are We Not Men? A: We Are Devo!)'
-- 'Gut Feeling / (Slap Your Mammy) (Q: Are We Not Men? A: We Are Devo!)'
-- 'Mongoloid (Q: Are We Not Men? A: We Are Devo!)'
-- That's Good (Oh No! It's Devo)
-- Beautiful World (New Traditionalists)
+  - Whip It (Freedom of Choice)
+  - Puppet Boy (Shout)
+  - 'Uncontrollable Urge (Q: Are We Not Men? A: We Are Devo!)'
+  - Whip It
+  - >-
+    Girl U Want - 2009 Remaster (Freedom of Choice (2009 Remaster; Deluxe
+    Edition))
+  - '(I Can''t Get No) Satisfaction (Q: Are We Not Men? A: We Are Devo!)'
+  - 'Gut Feeling / (Slap Your Mammy) (Q: Are We Not Men? A: We Are Devo!)'
+  - 'Mongoloid (Q: Are We Not Men? A: We Are Devo!)'
+  - That's Good (Oh No! It's Devo)
+  - Beautiful World (New Traditionalists)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d2db1078-c170-4e22-b261-14f3ad60a690
-  spotify: https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3
-  wikipedia: https://en.wikipedia.org/wiki/Devo
+  musicbrainz: 'https://musicbrainz.org/artist/d2db1078-c170-4e22-b261-14f3ad60a690'
+  spotify: 'https://open.spotify.com/artist/0UKfenbZb15sqhfPC6zbt3'
+  wikipedia: 'https://en.wikipedia.org/wiki/Devo'
 image_path: 03_Resources/source_material/ArtistPortraits/DEVO.jpg
 biography_enhanced_at: '2025-10-19T12:37:35.419760'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Devo
-- https://clubdevo.com/about/
-- http://profward.com/profward/web/devo/his_earlyyears.html
+  - 'https://en.wikipedia.org/wiki/Devo'
+  - 'https://clubdevo.com/about/'
+  - 'http://profward.com/profward/web/devo/his_earlyyears.html'
 network_extracted: true
 entry_created: '2025-10-19T12:37:35.419775'
 last_updated: '2025-12-23T08:16:01.603587'
 disambiguation: new wave/rock band
 musicbrainz_enriched_at: '2025-10-21T09:23:25.613155'
 musicbrainz_id: d2db1078-c170-4e22-b261-14f3ad60a690
-origin: Akron, Ohio, United States
+origin: 'Akron, Ohio, United States'
 tags:
-- american
-- art punk
-- classic pop and rock
+  - american
+  - art punk
+  - classic pop and rock
+birth_place: Akron
 ---
 
 ![](DEVO.jpg)

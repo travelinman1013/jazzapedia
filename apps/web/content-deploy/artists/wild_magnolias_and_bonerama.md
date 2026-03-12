@@ -1,12 +1,12 @@
 ---
-title: wild magnolias & bonerama
+title: Wild Magnolias & Bonerama
 wiki_slug: wild-magnolias-bonerama
 schema_version: 2
 status: active
 genres:
-- cajun
-- zydeco
-- brass band
+  - cajun
+  - zydeco
+  - brass band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/wild_magnolias_and_bonerama.jpg
   caption: wild magnolias & bonerama
@@ -26,45 +26,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Wild Magnolias
-  - Bonerama
-  - Willie Tee and the New Orleans Project
-  - ReBirth Brass Band
-  - Mark Mullins and Craig Klein
+    - The Wild Magnolias
+    - Bonerama
+    - Willie Tee and the New Orleans Project
+    - ReBirth Brass Band
+    - Mark Mullins and Craig Klein
   influenced:
-  - Younger Mardi Gras Indian and New Orleans funk artists
-  - Contemporary New Orleans brass‑funk ensembles
+    - Younger Mardi Gras Indian and New Orleans funk artists
+    - Contemporary New Orleans brass‑funk ensembles
   mentors:
-  - Theodore "Bo" Dollis Sr.
-  - New Orleans Mardi Gras Indian and street‑parade traditions
-  - New Orleans brass band and funk‑rock traditions
+    - Theodore "Bo" Dollis Sr.
+    - New Orleans Mardi Gras Indian and street‑parade traditions
+    - New Orleans brass band and funk‑rock traditions
 spotify_data:
   followers: 51
   id: 2WZu8RBRF1NSz82wMNE3pU
   popularity: 11
-  url: https://open.spotify.com/artist/2WZu8RBRF1NSz82wMNE3pU
+  url: 'https://open.spotify.com/artist/2WZu8RBRF1NSz82wMNE3pU'
 discography_enriched: true
 top_tracks:
-- Brother John Is Gone / Herc-Jolly-John (Our New Orleans (Expanded Edition))
+  - Brother John Is Gone / Herc-Jolly-John (Our New Orleans (Expanded Edition))
 external_urls:
-  spotify: https://open.spotify.com/artist/2WZu8RBRF1NSz82wMNE3pU
-  wikipedia: https://en.wikipedia.org/wiki/The_Wild_Magnolias
+  spotify: 'https://open.spotify.com/artist/2WZu8RBRF1NSz82wMNE3pU'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Wild_Magnolias'
 image_path: ''
 biography_enhanced_at: '2025-12-20T01:20:00.580866'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Wild_Magnolias
-- https://en.wikipedia.org/wiki/Bonerama
-- https://www.boneramabrass.com/bio/
-- https://rhythmandroots.com/artists/bonerama-25/
-- https://blues.gr/profiles/blogs/q-a-with-nola-based-musician-mark-mullins-of-bonerama-a-funky-roc
-- https://bodollisjrandthewildmagnolias.com/bio
-- https://www.gallatinstreetrecords.org/artists/wild-magnolias
+  - 'https://en.wikipedia.org/wiki/The_Wild_Magnolias'
+  - 'https://en.wikipedia.org/wiki/Bonerama'
+  - 'https://www.boneramabrass.com/bio/'
+  - 'https://rhythmandroots.com/artists/bonerama-25/'
+  - >-
+    https://blues.gr/profiles/blogs/q-a-with-nola-based-musician-mark-mullins-of-bonerama-a-funky-roc
+  - 'https://bodollisjrandthewildmagnolias.com/bio'
+  - 'https://www.gallatinstreetrecords.org/artists/wild-magnolias'
 network_extracted: true
 entry_created: '2025-12-20T01:20:00.580872'
 last_updated: '2025-12-23T08:16:18.133094'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![]()

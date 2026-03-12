@@ -1,68 +1,71 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4b61339a-4074-43a6-bf6b-7f9d0d5d530f
-  name: Fania All-Stars
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4b61339a-4074-43a6-bf6b-7f9d0d5d530f
+    name: Fania All-Stars
 biography_enhanced_at: '2026-01-18T07:47:03.126369'
 birth_date: '1935-07-03'
-birth_place: Ponce
+birth_place: 'Ponce, Puerto Rico, United States'
 death_date: '2014-04-17'
-disambiguation: José Feliciano, born 1935
+disambiguation: 'José Feliciano, born 1935'
 enhancement_provider: perplexity
 entry_created: '2026-01-18T07:47:03.126376'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/44401c2f-3e53-43a7-ab51-bfd32c676b9a
-  spotify: https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC
-  wikipedia: https://en.wikipedia.org/wiki/Cheo_Feliciano
+  musicbrainz: 'https://musicbrainz.org/artist/44401c2f-3e53-43a7-ab51-bfd32c676b9a'
+  spotify: 'https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC'
+  wikipedia: 'https://en.wikipedia.org/wiki/Cheo_Feliciano'
 gender: Male
 genres:
-- salsa
-- bolero
-- son cubano
-- latin jazz
-- cha cha cha
+  - salsa
+  - bolero
+  - son cubano
+  - latin jazz
+  - cha cha cha
 image_path: 03_Resources/source_material/ArtistPortraits/cheo_feliciano.jpg
 instruments:
-- lead vocals
+  - lead vocals
 last_updated: '2026-01-18T07:47:03.126377'
 musical_connections:
   collaborators:
-  - Joe Cuba Sextet
-  - Eddie Palmieri Orchestra
-  - Fania All-Stars
-  - Tite Curet
-  - Jorge Calandrelli
+    - Joe Cuba Sextet
+    - Eddie Palmieri Orchestra
+    - Fania All-Stars
+    - Tite Curet
+    - Jorge Calandrelli
   influenced:
-  - Rubén Blades
+    - Rubén Blades
   mentors:
-  - Tito Rodríguez
-  - Trio Los Panchos
+    - Tito Rodríguez
+    - Trio Los Panchos
 musicbrainz_id: 44401c2f-3e53-43a7-ab51-bfd32c676b9a
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Cheo_Feliciano
-- https://jazztimes.com/blog/salsa-singer-cheo-feliciano-dead-at-78/
-- http://www.salsablvd.com/biographies/cheo-feliciano.htm
-- https://fania.com/artist-essentials/cheo-feliciano/
-- https://www.jango.com/music/Cheo+Feliciano
-- https://www.salsaeddy.com/my-music-blog/salsa-legend-cheo-feliciano
-- https://fania.com/artist/cheo-feliciano/
-- https://latinomusiccafe.com/2020/02/10/cheo-feliciano-41-years-of-la-voz-sensual/
+  - 'https://en.wikipedia.org/wiki/Cheo_Feliciano'
+  - 'https://jazztimes.com/blog/salsa-singer-cheo-feliciano-dead-at-78/'
+  - 'http://www.salsablvd.com/biographies/cheo-feliciano.htm'
+  - 'https://fania.com/artist-essentials/cheo-feliciano/'
+  - 'https://www.jango.com/music/Cheo+Feliciano'
+  - 'https://www.salsaeddy.com/my-music-blog/salsa-legend-cheo-feliciano'
+  - 'https://fania.com/artist/cheo-feliciano/'
+  - >-
+    https://latinomusiccafe.com/2020/02/10/cheo-feliciano-41-years-of-la-voz-sensual/
 spotify_data:
   followers: 640572
   id: 1Ypa8o8muvDcgOt1YYtcOC
   popularity: 52
-  url: https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC
+  url: 'https://open.spotify.com/artist/1Ypa8o8muvDcgOt1YYtcOC'
 status: active
 tags:
-- bolero
-- latin
-- salsa
+  - bolero
+  - latin
+  - salsa
 title: Cheo Feliciano
+is_active: false
+origin: 'New York City, New York, United States'
 ---
 
 ![](cheo_feliciano.jpg)

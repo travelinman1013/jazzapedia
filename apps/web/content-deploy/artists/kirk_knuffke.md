@@ -1,62 +1,64 @@
 ---
 biography_enhanced_at: '2026-01-21T01:18:59.832403'
-birth_place: Colorado, United States (birthplace)
+birth_place: 'Colorado, United States (birthplace)'
 enhancement_provider: perplexity
 entry_created: '2026-01-21T01:18:59.832409'
 external_urls:
-  spotify: https://open.spotify.com/artist/5rLPOGAX2UQOdytJTLqPor
+  spotify: 'https://open.spotify.com/artist/5rLPOGAX2UQOdytJTLqPor'
   wikipedia: Not found in search results
 genres:
-- free jazz
-- avant-garde
-- experimental jazz
-- jazz
+  - free jazz
+  - avant-garde
+  - experimental jazz
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/kirk_knuffke.jpg
 last_updated: '2026-01-21T01:18:59.832410'
 musical_connections:
   collaborators:
-  - Matthew Shipp
-  - Michael Bisio
-  - Mark Helias
-  - Bill Goodwin
-  - Karl Berger
-  - Matt Wilson
-  - Bob Stewart
-  - Kenny Wollesen
-  - Cécile McLorin Salvant
-  - Mary Halvorson
-  - Charlie Hunter
-  - James Brandon Lewis
-  - Allison Miller
-  - Brian Drye
-  - Pierre Dørge
+    - Matthew Shipp
+    - Michael Bisio
+    - Mark Helias
+    - Bill Goodwin
+    - Karl Berger
+    - Matt Wilson
+    - Bob Stewart
+    - Kenny Wollesen
+    - Cécile McLorin Salvant
+    - Mary Halvorson
+    - Charlie Hunter
+    - James Brandon Lewis
+    - Allison Miller
+    - Brian Drye
+    - Pierre Dørge
   influenced:
-  - Students at international jazz camps and universities
-  - 50,000+ students in upstate New York
+    - Students at international jazz camps and universities
+    - '50,000+ students in upstate New York'
   mentors:
-  - Ornette Coleman
-  - Ron Miles
-  - Art Lande
-  - Butch Morris
+    - Ornette Coleman
+    - Ron Miles
+    - Art Lande
+    - Butch Morris
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.kirkknuffke.com
-- https://jazztimes.com/features/lists/before-after-with-kirk-knuffke/
-- https://royalpotatofamily.com/artist/kirk-knuffke/
-- https://www.pointofdeparture.org/PoD51/PoD51Knuffke.html
-- https://www.thevillagetrip.com/kirk-knuffke/
-- https://www.smallslive.com/artists/1748-kirk-knuffke/
-- https://www.youtube.com/watch?v=HMEbhvdgLUM
-- https://www.jazzmusicarchives.com/artist/kirk-knuffke
-- https://www.allaboutjazz.com/chew-your-food-kirk-knuffke-nobusiness-records-review-by-john-sharpe
+  - 'https://www.kirkknuffke.com'
+  - 'https://jazztimes.com/features/lists/before-after-with-kirk-knuffke/'
+  - 'https://royalpotatofamily.com/artist/kirk-knuffke/'
+  - 'https://www.pointofdeparture.org/PoD51/PoD51Knuffke.html'
+  - 'https://www.thevillagetrip.com/kirk-knuffke/'
+  - 'https://www.smallslive.com/artists/1748-kirk-knuffke/'
+  - 'https://www.youtube.com/watch?v=HMEbhvdgLUM'
+  - 'https://www.jazzmusicarchives.com/artist/kirk-knuffke'
+  - >-
+    https://www.allaboutjazz.com/chew-your-food-kirk-knuffke-nobusiness-records-review-by-john-sharpe
 spotify_data:
   followers: 1936
   id: 5rLPOGAX2UQOdytJTLqPor
   popularity: 13
-  url: https://open.spotify.com/artist/5rLPOGAX2UQOdytJTLqPor
+  url: 'https://open.spotify.com/artist/5rLPOGAX2UQOdytJTLqPor'
 status: active
-title: kirk knuffke
+title: Kirk Knuffke
+artist_type: person
 ---
 
 ![](kirk_knuffke.jpg)

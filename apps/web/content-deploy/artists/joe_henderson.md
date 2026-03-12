@@ -1,111 +1,113 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '1972'
-  end: '1972'
-  instruments:
-  - tenor saxophone
-  mbid: f81d592c-993f-4693-b53a-57db5a6257b9
-  name: Blood, Sweat & Tears
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 17052965-37e6-415f-bcc6-0a43ec2c14ca
-  name: The Joe Henderson Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  - tenor saxophone
-  mbid: 86f0ef7e-3c43-459d-a05c-de63bf62ef36
-  name: Joe Henderson Sextet
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  - tenor saxophone
-  mbid: 016b6d13-f4e5-4afb-877f-e4b1e2af5939
-  name: Joe Henderson Double Rainbow Brazil Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - tenor saxophone
-  mbid: fafe7a9e-ec8f-4198-bf28-98e4db8fad29
-  name: McCoy Tyner Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  - saxophone
-  mbid: 29ef7b9d-8222-4f98-85f7-1b30570a6c79
-  name: Echoes of an Era
-- begin: ''
-  end: ''
-  instruments:
-  - tenor saxophone
-  mbid: 94bf8694-2e38-4e60-bad3-3a8aedfe589b
-  name: Frank Morgan All Stars
+  - begin: '1972'
+    end: '1972'
+    instruments:
+      - tenor saxophone
+    mbid: f81d592c-993f-4693-b53a-57db5a6257b9
+    name: 'Blood, Sweat & Tears'
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 17052965-37e6-415f-bcc6-0a43ec2c14ca
+    name: The Joe Henderson Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - tenor saxophone
+    mbid: 86f0ef7e-3c43-459d-a05c-de63bf62ef36
+    name: Joe Henderson Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - tenor saxophone
+    mbid: 016b6d13-f4e5-4afb-877f-e4b1e2af5939
+    name: Joe Henderson Double Rainbow Brazil Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: fafe7a9e-ec8f-4198-bf28-98e4db8fad29
+    name: McCoy Tyner Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - saxophone
+    mbid: 29ef7b9d-8222-4f98-85f7-1b30570a6c79
+    name: Echoes of an Era
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: 94bf8694-2e38-4e60-bad3-3a8aedfe589b
+    name: Frank Morgan All Stars
 biography_enhanced_at: '2026-01-22T07:22:02.531786'
 birth_date: '1937-04-24'
-birth_place: Lima
+birth_place: 'Lima, Ohio, United States'
 death_date: '2001-06-30'
 disambiguation: US jazz tenor saxophonist
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:22:02.531794'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/bcab8301-c7e5-4689-a4ad-9ee947b4ce37
-  spotify: https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt
-  wikipedia: https://en.wikipedia.org/wiki/Joe_Henderson
+  musicbrainz: 'https://musicbrainz.org/artist/bcab8301-c7e5-4689-a4ad-9ee947b4ce37'
+  spotify: 'https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt'
+  wikipedia: 'https://en.wikipedia.org/wiki/Joe_Henderson'
 gender: Male
 genres:
-- hard bop
-- jazz
-- jazz ballads
-- bebop
-- free jazz
-- cool jazz
+  - hard bop
+  - jazz
+  - jazz ballads
+  - bebop
+  - free jazz
+  - cool jazz
 image_path: 03_Resources/source_material/ArtistPortraits/joe_henderson.jpg
 instruments:
-- tenor saxophone
-- original
-- saxophone
+  - tenor saxophone
+  - original
+  - saxophone
 last_updated: '2026-01-22T07:22:02.531795'
 musical_connections:
   collaborators:
-  - Horace Silver
-  - Andrew Hill
-  - Lee Morgan
-  - Grant Green
-  - Herbie Hancock
-  - Pete La Roca
-  - Blood, Sweat & Tears
-  - Dexter Gordon
+    - Horace Silver
+    - Andrew Hill
+    - Lee Morgan
+    - Grant Green
+    - Herbie Hancock
+    - Pete La Roca
+    - 'Blood, Sweat & Tears'
+    - Dexter Gordon
   influenced:
-  - San Francisco Jazz Community
+    - San Francisco Jazz Community
   mentors:
-  - Larry Teal
-  - Kenny Dorham
-  - Lester Young
+    - Larry Teal
+    - Kenny Dorham
+    - Lester Young
 musicbrainz_id: bcab8301-c7e5-4689-a4ad-9ee947b4ce37
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.allaboutjazz.com/musicians/joe-henderson/
-- https://en.wikipedia.org/wiki/Joe_Henderson
-- https://newyorkjazzworkshop.com/joe-henderson/
-- https://www.selmer.fr/en/blogs/artistes/joe-henderson
-- https://www.bluenote.com/artist/joe-henderson/
+  - 'https://www.allaboutjazz.com/musicians/joe-henderson/'
+  - 'https://en.wikipedia.org/wiki/Joe_Henderson'
+  - 'https://newyorkjazzworkshop.com/joe-henderson/'
+  - 'https://www.selmer.fr/en/blogs/artistes/joe-henderson'
+  - 'https://www.bluenote.com/artist/joe-henderson/'
 spotify_data:
   followers: 142622
   id: 3BG0nwVh3Gc7cuT4XdsLtt
   popularity: 43
-  url: https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt
+  url: 'https://open.spotify.com/artist/3BG0nwVh3Gc7cuT4XdsLtt'
 status: active
 tags:
-- avant-garde jazz
-- hard bop
-- jazz
-title: joe henderson
+  - avant-garde jazz
+  - hard bop
+  - jazz
+title: Joe Henderson
+is_active: false
+origin: 'Detroit, Michigan, United States'
 ---
 
 ![](joe_henderson.jpg)

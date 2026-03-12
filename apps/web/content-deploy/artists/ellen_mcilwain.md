@@ -3,20 +3,20 @@ title: Ellen McIlwain
 wiki_slug: ellen-mcilwain
 schema_version: 2
 status: active
-birth_place: Nashville, Tennessee, United States
+birth_place: 'Nashville, Tennessee, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ellen_mcilwain.jpg
   caption: Ellen McIlwain
   background: solo_singer
-  origin: Nashville, Tennessee, United States
+  origin: 'Nashville, Tennessee, United States'
 audio_profile:
   tempo_avg: 119.5
   energy_avg: 0.609
   valence_avg: 0.613
   danceability_avg: 0.768
   acousticness_avg: 0.336
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -7.9
   speechiness_avg: 0.094
   liveness_avg: 0.157
@@ -25,49 +25,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Fear Itself
-  - Jack Bruce
-  - Paul Wertico
-  - Cassius Khan
-  - Linsey Wellman
-  - Taj Mahal
-  - Patty Larkin
-  - Sue Foley
-  - Johnny Winter
-  - Margret RoadKnight
+    - Fear Itself
+    - Jack Bruce
+    - Paul Wertico
+    - Cassius Khan
+    - Linsey Wellman
+    - Taj Mahal
+    - Patty Larkin
+    - Sue Foley
+    - Johnny Winter
+    - Margret RoadKnight
   influenced:
-  - Australian music audiences
+    - Australian music audiences
   mentors:
-  - Patrick Sky
-  - Jimi Hendrix
-  - Muddy Waters, Sonny Terry, Brownie McGhee, Big Joe Williams
+    - Patrick Sky
+    - Jimi Hendrix
+    - 'Muddy Waters, Sonny Terry, Brownie McGhee, Big Joe Williams'
 spotify_data:
   followers: 1999
   id: 4FKNe0JIaMD5YBCEbMKeVw
   popularity: 35
-  url: https://open.spotify.com/artist/4FKNe0JIaMD5YBCEbMKeVw
+  url: 'https://open.spotify.com/artist/4FKNe0JIaMD5YBCEbMKeVw'
 discography_enriched: true
 top_tracks:
-- Count to Three (Count to Three)
-- You Wouldn't Know (feat. Ellen McLain) (You Wouldn't Know (feat. Ellen McLain))
+  - Count to Three (Count to Three)
+  - >-
+    You Wouldn't Know (feat. Ellen McLain) (You Wouldn't Know (feat. Ellen
+    McLain))
 external_urls:
-  spotify: https://open.spotify.com/artist/4FKNe0JIaMD5YBCEbMKeVw
+  spotify: 'https://open.spotify.com/artist/4FKNe0JIaMD5YBCEbMKeVw'
   wikipedia: Not found in search results
 image_path: ''
 biography_enhanced_at: '2025-11-29T07:08:20.008736'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://sentirelblues.blogspot.com/2021/03/ellen-mcllwaine.html
-- https://www.last.fm/music/Ellen+McIlwaine/+wiki
-- https://www.popmatters.com/ellen-mcilwaine-we-the-people-atr
-- https://www.nicholasjennings.com/ellen-mcilwaine-goddess-of-slide
-- http://www.laventure.net/tourist/ellenbio.htm
-- https://calgaryherald.com/entertainment/local-arts/ciff-montreal-filmmakers-documentary-chronicles-career-of-gifted-guitarist-ellen-mcilwaine
-- https://www.the-independent.com/news/obituaries/ellen-mcilwaine-rock-guitar-jimi-hendrix-obituary-b1875448.html
+  - 'https://sentirelblues.blogspot.com/2021/03/ellen-mcllwaine.html'
+  - 'https://www.last.fm/music/Ellen+McIlwaine/+wiki'
+  - 'https://www.popmatters.com/ellen-mcilwaine-we-the-people-atr'
+  - 'https://www.nicholasjennings.com/ellen-mcilwaine-goddess-of-slide'
+  - 'http://www.laventure.net/tourist/ellenbio.htm'
+  - >-
+    https://calgaryherald.com/entertainment/local-arts/ciff-montreal-filmmakers-documentary-chronicles-career-of-gifted-guitarist-ellen-mcilwaine
+  - >-
+    https://www.the-independent.com/news/obituaries/ellen-mcilwaine-rock-guitar-jimi-hendrix-obituary-b1875448.html
 network_extracted: true
 entry_created: '2025-11-29T07:08:20.008748'
 last_updated: '2025-12-23T08:16:08.324752'
+birth_date: '1945-10-01'
+death_date: '2021-06-23'
+artist_type: person
 ---
 
 ![]()

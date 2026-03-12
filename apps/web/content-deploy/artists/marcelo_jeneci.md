@@ -5,12 +5,12 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1982-04-07'
-birth_place: São Paulo
+birth_place: 'São Paulo, São Paulo, Brazil'
 genres:
-- mpb
-- nova mpb
+  - mpb
+  - nova mpb
 instruments:
-- piano
+  - piano
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/marcelo_jeneci.jpg
   caption: Marcelo Jeneci
@@ -18,7 +18,7 @@ infobox:
   born: '1982-04-07'
   origin: São Paulo
 audio_profile:
-  tempo_avg: 126.0
+  tempo_avg: 126
   energy_avg: 0.487
   valence_avg: 0.526
   danceability_avg: 0.597
@@ -32,52 +32,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Laura Lavieri
-  - Tulipa Ruiz
-  - Roberta Campos
-  - Marcelo Camelo
-  - MC Fioti
+    - Laura Lavieri
+    - Tulipa Ruiz
+    - Roberta Campos
+    - Marcelo Camelo
+    - MC Fioti
   influenced:
-  - Emerging MPB artists
+    - Emerging MPB artists
   mentors:
-  - Chico César
+    - Chico César
 spotify_data:
   followers: 307940
   id: 21LI2q2QDyaNjyfXaWWTOE
   popularity: 51
-  url: https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE
+  url: 'https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE'
 discography_enriched: true
 top_tracks:
-- Pra Sonhar (Feito Pra Acabar)
-- Felicidade (Feito Pra Acabar)
-- Dia a Dia, Lado a Lado
-- Lembrança de um Beijo (Caravana Sairé)
-- O Melhor da Vida (De Graça)
-- Amor de Que (Night Clube Forró Latino ( Volume I ))
-- Dar-te-ei (Feito Pra Acabar)
-- Corações Confusos
-- Ai Que Saudade de Oce (Caravana Sairé)
-- Veja (Margarida)
+  - Pra Sonhar (Feito Pra Acabar)
+  - Felicidade (Feito Pra Acabar)
+  - 'Dia a Dia, Lado a Lado'
+  - Lembrança de um Beijo (Caravana Sairé)
+  - O Melhor da Vida (De Graça)
+  - Amor de Que (Night Clube Forró Latino ( Volume I ))
+  - Dar-te-ei (Feito Pra Acabar)
+  - Corações Confusos
+  - Ai Que Saudade de Oce (Caravana Sairé)
+  - Veja (Margarida)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2cd7c5d2-2d5d-4753-91cb-e329ffa20f49
-  spotify: https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE
-  wikipedia: https://en.wikipedia.org/wiki/Marcelo_Jeneci
+  musicbrainz: 'https://musicbrainz.org/artist/2cd7c5d2-2d5d-4753-91cb-e329ffa20f49'
+  spotify: 'https://open.spotify.com/artist/21LI2q2QDyaNjyfXaWWTOE'
+  wikipedia: 'https://en.wikipedia.org/wiki/Marcelo_Jeneci'
 image_path: 03_Resources/source_material/ArtistPortraits/marcelo_jeneci.jpg
 biography_enhanced_at: '2025-11-10T03:36:17.655148'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.viberate.com/artist/marcelo-jeneci/
-- https://www.wikidata.org/wiki/Q10325120
-- https://www.famousbirthdays.com/people/marcelo-jeneci.html
-- https://www.tracklib.com/music/artists/marcelo-jeneci
+  - 'https://www.viberate.com/artist/marcelo-jeneci/'
+  - 'https://www.wikidata.org/wiki/Q10325120'
+  - 'https://www.famousbirthdays.com/people/marcelo-jeneci.html'
+  - 'https://www.tracklib.com/music/artists/marcelo-jeneci'
 network_extracted: true
 entry_created: '2025-11-10T03:36:17.655164'
 last_updated: '2025-12-23T08:16:12.606489'
 gender: Male
 musicbrainz_id: 2cd7c5d2-2d5d-4753-91cb-e329ffa20f49
 tags:
-- mpb
+  - mpb
 ---
 
 ![](marcelo_jeneci.jpg)

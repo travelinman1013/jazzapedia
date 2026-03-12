@@ -1,23 +1,24 @@
 ---
-title: dj maphorisa, dj tunez, wizkid & mavo
+title: 'DJ Maphorisa, DJ Tunez, Wizkid & Mavo'
 wiki_slug: dj-maphorisa-dj-tunez-wizkid-mavo
 schema_version: 2
 status: active
-birth_place: Soshanguve, Pretoria, South Africa
+birth_place: 'Soshanguve, Pretoria, South Africa'
 genres:
-- afro house
-- afrobeats
-- afropiano
-- afropop
-- amapiano
-- bacardi
-- gqom
-- private school piano
+  - afro house
+  - afrobeats
+  - afropiano
+  - afropop
+  - amapiano
+  - bacardi
+  - gqom
+  - private school piano
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/dj_maphorisa_dj_tunez_wizkid_and_mavo.jpg
-  caption: dj maphorisa, dj tunez, wizkid & mavo
+  image: >-
+    03_Resources/source_material/ArtistPortraits/dj_maphorisa_dj_tunez_wizkid_and_mavo.jpg
+  caption: 'dj maphorisa, dj tunez, wizkid & mavo'
   background: solo_singer
-  origin: Soshanguve, Pretoria, South Africa
+  origin: 'Soshanguve, Pretoria, South Africa'
 audio_profile:
   tempo_avg: 114.7
   energy_avg: 0.622
@@ -33,50 +34,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kabza De Small
-  - TRESOR
-  - Wizkid
-  - Uhuru
-  - Drake
+    - Kabza De Small
+    - TRESOR
+    - Wizkid
+    - Uhuru
+    - Drake
   influenced:
-  - Sha Sha
-  - Focalistic
-  - Tyler ICU
+    - Sha Sha
+    - Focalistic
+    - Tyler ICU
   mentors:
-  - Maphorisa's mother
+    - Maphorisa's mother
 spotify_data:
   followers: 3563261
   id: 0mMqD2uqwvCjFvlzo6ayGi
   popularity: 67
-  url: https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi
+  url: 'https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi'
 discography_enriched: true
 top_tracks:
-- Biri Marung (feat. Sje Konka, Focalistic, DJ Maphorisa, Scotts Maphuma & CowBoii)
-- Ngibolekeni (feat. Seun1401, LeeMcKrazy, Blxckie, Pcee, Madumane & Kabelo Sings)
-- Uyaphapha Marn (feat. Scotts Maphuma & Kabelo Sings)
-- Wishi Wishi (feat. Scotts Maphuma & Young Stunna)
-- Mnike (feat. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee)
-- Yebo Lapho (Gogo) (feat. DJ Maphorisa & Djy Biza)
-- Particula
-- Imithandazo (feat. Young Stunna, DJ Maphorisa, Sizwe Alakine & Umthakathi Kush) (Isimo)
-- A-Z (Yashi Moto)
-- Abalele
+  - >-
+    Biri Marung (feat. Sje Konka, Focalistic, DJ Maphorisa, Scotts Maphuma &
+    CowBoii)
+  - >-
+    Ngibolekeni (feat. Seun1401, LeeMcKrazy, Blxckie, Pcee, Madumane & Kabelo
+    Sings)
+  - Uyaphapha Marn (feat. Scotts Maphuma & Kabelo Sings)
+  - Wishi Wishi (feat. Scotts Maphuma & Young Stunna)
+  - 'Mnike (feat. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee)'
+  - Yebo Lapho (Gogo) (feat. DJ Maphorisa & Djy Biza)
+  - Particula
+  - >-
+    Imithandazo (feat. Young Stunna, DJ Maphorisa, Sizwe Alakine & Umthakathi
+    Kush) (Isimo)
+  - A-Z (Yashi Moto)
+  - Abalele
 external_urls:
-  spotify: https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi
-  wikipedia: https://en.wikipedia.org/wiki/DJ_Maphorisa
-image_path: 03_Resources/source_material/ArtistPortraits/dj_maphorisa_dj_tunez_wizkid_and_mavo.jpg
+  spotify: 'https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi'
+  wikipedia: 'https://en.wikipedia.org/wiki/DJ_Maphorisa'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/dj_maphorisa_dj_tunez_wizkid_and_mavo.jpg
 biography_enhanced_at: '2025-10-26T12:32:46.105233'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://mdundo.com/news/46996
-- https://en.wikipedia.org/wiki/DJ_Maphorisa
-- https://www.wikiwand.com/en/articles/DJ_Maphorisa
-- https://www.playup-za.com/articles-details-en?editoProduct=67e66bbe7f143ad247030f43&editoDocument=67eba68e6970244b850b39e4&dve_trk_id=4af9a599-6a07-4e37-af4e-3a09124dec4d
-- https://www.joro.coffee/blog/what-if-dj-maphorisa-half-nigerian-made-afrobeats-instead
+  - 'https://mdundo.com/news/46996'
+  - 'https://en.wikipedia.org/wiki/DJ_Maphorisa'
+  - 'https://www.wikiwand.com/en/articles/DJ_Maphorisa'
+  - >-
+    https://www.playup-za.com/articles-details-en?editoProduct=67e66bbe7f143ad247030f43&editoDocument=67eba68e6970244b850b39e4&dve_trk_id=4af9a599-6a07-4e37-af4e-3a09124dec4d
+  - >-
+    https://www.joro.coffee/blog/what-if-dj-maphorisa-half-nigerian-made-afrobeats-instead
 network_extracted: true
 entry_created: '2025-10-26T12:32:46.105243'
 last_updated: '2025-12-23T08:16:07.807648'
+birth_date: '1987-11-15'
+artist_type: person
 ---
 
 ![](dj_maphorisa_dj_tunez_wizkid_and_mavo.jpg)

@@ -2,25 +2,25 @@
 title: The Heptones
 wiki_slug: the-heptones
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1965'
 genres:
-- rocksteady
-- roots reggae
-- reggae
-- dub
-- lovers rock
-- ska
+  - rocksteady
+  - roots reggae
+  - reggae
+  - dub
+  - lovers rock
+  - ska
 instruments:
-- background vocals
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_heptones.jpg
   caption: The Heptones
   background: group_or_band
   born: '1965'
 audio_profile:
-  tempo_avg: 122.0
+  tempo_avg: 122
   energy_avg: 0.443
   valence_avg: 0.746
   danceability_avg: 0.776
@@ -34,72 +34,74 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Coxsone Dodd
-  - Jackie Mittoo
-  - Leroy Sibbles
-  - Joe Gibbs
-  - Harry J
-  - Toots & The Maytals
+    - Coxsone Dodd
+    - Jackie Mittoo
+    - Leroy Sibbles
+    - Joe Gibbs
+    - Harry J
+    - Toots & The Maytals
   influenced:
-  - Musical Youth
-  - The Abyssinians
+    - Musical Youth
+    - The Abyssinians
   mentors:
-  - Impressions
-  - Temptations
+    - Impressions
+    - Temptations
 spotify_data:
   followers: 102592
   id: 6b5Hxvp7SWlJY5uUrRlzx4
   popularity: 42
-  url: https://open.spotify.com/artist/6b5Hxvp7SWlJY5uUrRlzx4
+  url: 'https://open.spotify.com/artist/6b5Hxvp7SWlJY5uUrRlzx4'
 discography_enriched: true
 top_tracks:
-- Book Of Rules (Night Food)
-- Cool Rasta
-- Country Boy (Night Food)
-- Diana (Good Vibes)
-- Drift Away (Good Vibes)
-- Crystal Blue Persuasion (Better Days)
-- Can't Hide From Jah (Good Life)
-- Book Of Rules
-- Sha-La-La (Good Vibes)
-- Repatriation Is A Must (Good Life)
+  - Book Of Rules (Night Food)
+  - Cool Rasta
+  - Country Boy (Night Food)
+  - Diana (Good Vibes)
+  - Drift Away (Good Vibes)
+  - Crystal Blue Persuasion (Better Days)
+  - Can't Hide From Jah (Good Life)
+  - Book Of Rules
+  - Sha-La-La (Good Vibes)
+  - Repatriation Is A Must (Good Life)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/01bdd90c-59b7-4e18-8934-7db4ac00d094
-  spotify: https://open.spotify.com/artist/6b5Hxvp7SWlJY5uUrRlzx4
-  wikipedia: https://en.wikipedia.org/wiki/The_Heptones
+  musicbrainz: 'https://musicbrainz.org/artist/01bdd90c-59b7-4e18-8934-7db4ac00d094'
+  spotify: 'https://open.spotify.com/artist/6b5Hxvp7SWlJY5uUrRlzx4'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Heptones'
 image_path: 03_Resources/source_material/ArtistPortraits/the_heptones.jpg
 biography_enhanced_at: '2025-12-22T01:47:57.362741'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://olbyscreativehub.co.uk/event/the-heptones-a-celebration-of-black-history/
-- https://en.wikipedia.org/wiki/The_Heptones
-- https://jamaica-gleaner.com/gleaner/20131208/ent/ent4.html
+  - >-
+    https://olbyscreativehub.co.uk/event/the-heptones-a-celebration-of-black-history/
+  - 'https://en.wikipedia.org/wiki/The_Heptones'
+  - 'https://jamaica-gleaner.com/gleaner/20131208/ent/ent4.html'
 network_extracted: true
 entry_created: '2025-12-22T01:47:57.362746'
 last_updated: '2025-12-23T08:16:16.830929'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 71c9f6ae-6836-4e3c-8121-3c0fbb22befd
-  name: Glen Adams
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 509faf7a-29c4-46a6-a99f-f903997f611b
-  name: Barry Llewellyn
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f4ec94cd-2239-482b-8234-65a22ee9557c
-  name: Leroy Sibbles
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 71c9f6ae-6836-4e3c-8121-3c0fbb22befd
+    name: Glen Adams
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 509faf7a-29c4-46a6-a99f-f903997f611b
+    name: Barry Llewellyn
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f4ec94cd-2239-482b-8234-65a22ee9557c
+    name: Leroy Sibbles
 musicbrainz_id: 01bdd90c-59b7-4e18-8934-7db4ac00d094
-origin: Kingston
+origin: 'Kingston, Jamaica'
 tags:
-- reggae
-- rocksteady
-- soul and reggae
+  - reggae
+  - rocksteady
+  - soul and reggae
+death_date: '2011-07-24'
 ---
 
 ![](the_heptones.jpg)

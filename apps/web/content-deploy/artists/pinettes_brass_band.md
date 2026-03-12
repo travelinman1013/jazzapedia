@@ -1,5 +1,5 @@
 ---
-title: Pinettes Brass Band
+title: The Original Pinettes Brass Band
 wiki_slug: pinettes-brass-band
 schema_version: 2
 status: active
@@ -9,12 +9,12 @@ infobox:
   caption: Pinettes Brass Band
   background: solo_singer
 audio_profile:
-  tempo_avg: 194.0
+  tempo_avg: 194
   energy_avg: 0.745
   valence_avg: 0.393
   danceability_avg: 0.462
-  acousticness_avg: 0.0
-  instrumentalness_avg: 0.0
+  acousticness_avg: 0
+  instrumentalness_avg: 0
   loudness_avg: -8.2
   speechiness_avg: 0.215
   liveness_avg: 0.023
@@ -23,39 +23,40 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Christie Jourdain
-  - Demaries Holmes
-  - Arcade Fire
-  - Katy Perry
+    - Christie Jourdain
+    - Demaries Holmes
+    - Arcade Fire
+    - Katy Perry
   influenced:
-  - Women brass musicians in New Orleans and beyond
+    - Women brass musicians in New Orleans and beyond
   mentors:
-  - Jeffery C. Herbert
+    - Jeffery C. Herbert
 spotify_data:
   followers: 29
   id: 47dCxULixH3VUmQO49UBpQ
   popularity: 0
-  url: https://open.spotify.com/artist/47dCxULixH3VUmQO49UBpQ
+  url: 'https://open.spotify.com/artist/47dCxULixH3VUmQO49UBpQ'
 discography_enriched: true
 top_tracks:
-- Ladies Night (Mind Gone)
+  - Ladies Night (Mind Gone)
 external_urls:
-  spotify: https://open.spotify.com/artist/47dCxULixH3VUmQO49UBpQ
-  wikipedia: https://en.wikipedia.org/wiki/The_Original_Pinettes_Brass_Band
+  spotify: 'https://open.spotify.com/artist/47dCxULixH3VUmQO49UBpQ'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Original_Pinettes_Brass_Band'
 image_path: ''
 biography_enhanced_at: '2025-11-23T06:34:21.930340'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Original_Pinettes_Brass_Band
-- https://www.wbur.org/news/2016/10/04/original-pinettes-honk-fest
-- https://salon726.com/home/community-spotlight-original-pinettes-brass-band
-- https://artlitlab.org/artists/the-original-pinettes-brass-band
-- https://honkfest.org/bands/pinettes-brass-band/
+  - 'https://en.wikipedia.org/wiki/The_Original_Pinettes_Brass_Band'
+  - 'https://www.wbur.org/news/2016/10/04/original-pinettes-honk-fest'
+  - 'https://salon726.com/home/community-spotlight-original-pinettes-brass-band'
+  - 'https://artlitlab.org/artists/the-original-pinettes-brass-band'
+  - 'https://honkfest.org/bands/pinettes-brass-band/'
 network_extracted: true
 entry_created: '2025-11-23T06:34:21.930357'
 last_updated: '2025-12-23T08:16:14.312689'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![]()

@@ -15,7 +15,7 @@ audio_profile:
   danceability_avg: 0.516
   acousticness_avg: 0.42
   instrumentalness_avg: 0.573
-  loudness_avg: -15.0
+  loudness_avg: -15
   speechiness_avg: 0.097
   liveness_avg: 0.212
   track_count: 50
@@ -29,33 +29,36 @@ spotify_data:
   followers: 29930
   id: 164hs3x1Tsp3FgJWNHee1r
   popularity: 31
-  url: https://open.spotify.com/artist/164hs3x1Tsp3FgJWNHee1r
+  url: 'https://open.spotify.com/artist/164hs3x1Tsp3FgJWNHee1r'
 discography_enriched: true
 top_tracks:
-- Questo È Halloween
-- This is Halloween (From "The Nightmare Before Christmas")
-- L'Ossessione Di Jack
-- Assemblea Cittadina
-- Far Natale
-- Réunion Au Sommet
-- L’Obsession De Jack
-- Finale/Reprise
-- Laughing Witch (70 Scary Sounds & Songs)
-- 'Romeo & Juliet, Op. 64: Act I, Scene XIII, Dance of the Knights (Funeral March - Scary Halloween Classical Music)'
+  - Questo È Halloween
+  - This is Halloween (From "The Nightmare Before Christmas")
+  - L'Ossessione Di Jack
+  - Assemblea Cittadina
+  - Far Natale
+  - Réunion Au Sommet
+  - L’Obsession De Jack
+  - Finale/Reprise
+  - Laughing Witch (70 Scary Sounds & Songs)
+  - >-
+    Romeo & Juliet, Op. 64: Act I, Scene XIII, Dance of the Knights (Funeral
+    March - Scary Halloween Classical Music)
 external_urls:
-  spotify: https://open.spotify.com/artist/164hs3x1Tsp3FgJWNHee1r
+  spotify: 'https://open.spotify.com/artist/164hs3x1Tsp3FgJWNHee1r'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/the_citizens_of_halloween.jpg
 biography_enhanced_at: '2025-11-01T15:25:53.042823'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://musicchartsarchive.com/artists/citizens-of-halloween
-- https://www.xfdrmag.net/interview-the-citizens-of-halloween/
+  - 'https://musicchartsarchive.com/artists/citizens-of-halloween'
+  - 'https://www.xfdrmag.net/interview-the-citizens-of-halloween/'
 network_extracted: true
 entry_created: '2025-11-01T15:25:53.042834'
 last_updated: '2025-12-23T08:16:16.649125'
 origin: Unknown
+artist_type: band
 ---
 
 ![](the_citizens_of_halloween.jpg)

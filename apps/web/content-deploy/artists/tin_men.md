@@ -1,5 +1,5 @@
 ---
-title: tin men
+title: The Tin Men
 wiki_slug: tin-men
 schema_version: 2
 status: active
@@ -23,46 +23,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Washboard Chaz Leary
-  - Matt Perrine
-  - Alex McMurray
+    - Washboard Chaz Leary
+    - Matt Perrine
+    - Alex McMurray
   influenced: []
   mentors:
-  - New Orleans Musical Tradition
+    - New Orleans Musical Tradition
 spotify_data:
   followers: 573
   id: 0IPy8FvYv850tuBtq6HtKR
   popularity: 2
-  url: https://open.spotify.com/artist/0IPy8FvYv850tuBtq6HtKR
+  url: 'https://open.spotify.com/artist/0IPy8FvYv850tuBtq6HtKR'
 discography_enriched: true
 top_tracks:
-- Avocado Woo Woo (Avocado Woo Woo)
-- Livin' and Lovin' On the Westbank (Avocado Woo Woo)
-- Smoke My Peace Pipe (feat. Carlo Nuccio) (Smoke My Peace Pipe (feat. Carlo Nuccio))
-- I've Got Blood in My Eyes for You (Avocado Woo Woo)
-- Move Upstairs (Hit It!)
-- Hit It and Quit It (Hit It!)
-- Don’t Ever Let Me Go (Hit It!)
-- L’amour est Un Oiseau Rebelle (Hit It!)
-- Rascals (Hit It!)
-- Beautiful Shore (Hit It!)
+  - Avocado Woo Woo (Avocado Woo Woo)
+  - Livin' and Lovin' On the Westbank (Avocado Woo Woo)
+  - >-
+    Smoke My Peace Pipe (feat. Carlo Nuccio) (Smoke My Peace Pipe (feat. Carlo
+    Nuccio))
+  - I've Got Blood in My Eyes for You (Avocado Woo Woo)
+  - Move Upstairs (Hit It!)
+  - Hit It and Quit It (Hit It!)
+  - Don’t Ever Let Me Go (Hit It!)
+  - L’amour est Un Oiseau Rebelle (Hit It!)
+  - Rascals (Hit It!)
+  - Beautiful Shore (Hit It!)
 external_urls:
-  spotify: https://open.spotify.com/artist/0IPy8FvYv850tuBtq6HtKR
+  spotify: 'https://open.spotify.com/artist/0IPy8FvYv850tuBtq6HtKR'
   wikipedia: Not found
 image_path: 03_Resources/source_material/ArtistPortraits/tin_men.jpg
 biography_enhanced_at: '2025-12-04T07:23:49.321714'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- alexmcmurray.com
-- offbeat.com
-- bigeasycruise.com
-- tinmenmusic.com
-- neworleans.com
+  - alexmcmurray.com
+  - offbeat.com
+  - bigeasycruise.com
+  - tinmenmusic.com
+  - neworleans.com
 network_extracted: true
 entry_created: '2025-12-04T07:23:49.321723'
 last_updated: '2025-12-23T08:16:17.469538'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![](tin_men.jpg)

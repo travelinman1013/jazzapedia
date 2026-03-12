@@ -1,37 +1,37 @@
 ---
-title: BESSIE SMITH
+title: Bessie Smith
 wiki_slug: bessie-smith
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1894-04-15'
-birth_place: Chattanooga
+birth_place: 'Chattanooga, Tennessee, United States'
 death_date: '1937-09-26'
 genres:
-- blues
-- classic blues
-- jazz
-- jazz blues
-- ragtime
-- vocal jazz
+  - blues
+  - classic blues
+  - jazz
+  - jazz blues
+  - ragtime
+  - vocal jazz
 instruments:
-- eponymous
-- original
-- lead vocals
-- vocal
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
-  mbid: 72cdf1c4-610a-4622-b5f4-1d7cf4fbc8a8
-  name: Bessie Smith & Her Down Home Trio
-- begin: ''
-  end: ''
-  instruments:
   - original
-  mbid: 4dff7933-1b8c-4df8-af07-ca305d44f44a
-  name: Bessie Smith & Her Blue Boys
+  - lead vocals
+  - vocal
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 72cdf1c4-610a-4622-b5f4-1d7cf4fbc8a8
+    name: Bessie Smith & Her Down Home Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 4dff7933-1b8c-4df8-af07-ca305d44f44a
+    name: Bessie Smith & Her Blue Boys
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bessie_smith.jpg
   caption: BESSIE SMITH
@@ -46,7 +46,7 @@ audio_profile:
   danceability_avg: 0.62
   acousticness_avg: 0.961
   instrumentalness_avg: 0.039
-  loudness_avg: -13.0
+  loudness_avg: -13
   speechiness_avg: 0.054
   liveness_avg: 0.166
   track_count: 69
@@ -54,43 +54,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Louis Armstrong
-  - Fletcher Henderson
+    - Louis Armstrong
+    - Fletcher Henderson
   influenced:
-  - Billie Holiday
-  - Janis Joplin
+    - Billie Holiday
+    - Janis Joplin
   mentors:
-  - Ma Rainey
+    - Ma Rainey
 spotify_data:
   followers: 158510
   id: 5ESobCkc6JI4tIMxQttqeg
   popularity: 36
-  url: https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg
+  url: 'https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg'
 discography_enriched: true
 top_tracks:
-- Moaners (The Cuban Tapes)
-- Nobody Knows You When You're Down and Out - 78rpm Version (The Essential Bessie Smith)
-- Nobody Knows You When You're Down and Out
-- Nobody Knows You When You're Down and Out
-- Devil's Gonna Git You
-- 'St. Louis Blues (Louis Armstrong: Portrait Of The Artist As A Young Man 1923-1934)'
-- '''Tain''t Nobody''s Bizness If I Do'
-- I'm Wild About That Thing - 78 rpm Version
-- Baby Won't You Please Come Home (The Essential Bessie Smith)
-- '''Tain''t Nobody''s Bizness If I Do (The Collection)'
+  - Moaners (The Cuban Tapes)
+  - >-
+    Nobody Knows You When You're Down and Out - 78rpm Version (The Essential
+    Bessie Smith)
+  - Nobody Knows You When You're Down and Out
+  - Nobody Knows You When You're Down and Out
+  - Devil's Gonna Git You
+  - >-
+    St. Louis Blues (Louis Armstrong: Portrait Of The Artist As A Young Man
+    1923-1934)
+  - '''Tain''t Nobody''s Bizness If I Do'
+  - I'm Wild About That Thing - 78 rpm Version
+  - Baby Won't You Please Come Home (The Essential Bessie Smith)
+  - '''Tain''t Nobody''s Bizness If I Do (The Collection)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ffa28768-ecda-42c6-ac49-6ce5c7d33043
-  spotify: https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg
-  wikipedia: https://en.wikipedia.org/wiki/Bessie_Smith
+  musicbrainz: 'https://musicbrainz.org/artist/ffa28768-ecda-42c6-ac49-6ce5c7d33043'
+  spotify: 'https://open.spotify.com/artist/5ESobCkc6JI4tIMxQttqeg'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bessie_Smith'
 image_path: 03_Resources/source_material/ArtistPortraits/bessie_smith.jpg
 biography_enhanced_at: '2025-10-23T07:18:01.904305'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Bessie_Smith
-- https://www.ebsco.com/research-starters/history/bessie-smith
-- https://www.biography.com/musicians/bessie-smith
-- https://www.britannica.com/biography/Bessie-Smith
+  - 'https://en.wikipedia.org/wiki/Bessie_Smith'
+  - 'https://www.ebsco.com/research-starters/history/bessie-smith'
+  - 'https://www.biography.com/musicians/bessie-smith'
+  - 'https://www.britannica.com/biography/Bessie-Smith'
 network_extracted: true
 entry_created: '2025-10-23T07:18:01.904323'
 last_updated: '2025-12-23T08:16:05.348046'
@@ -98,9 +102,10 @@ disambiguation: Tennessee blues singer
 gender: Female
 musicbrainz_id: ffa28768-ecda-42c6-ac49-6ce5c7d33043
 tags:
-- blues
-- jazz
-- vaudeville blues
+  - blues
+  - jazz
+  - vaudeville blues
+is_active: false
 ---
 
 ![](bessie_smith.jpg)

@@ -1,15 +1,15 @@
 ---
-title: CAMEO
+title: Cameo
 wiki_slug: cameo
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1974'
 genres:
-- funk
+  - funk
 instruments:
-- bass guitar
-- lead vocals
+  - bass guitar
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/cameo.jpg
   caption: CAMEO
@@ -30,99 +30,99 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Larry Blackmon
-  - Nathan Leftenant
-  - Tomi Jenkins
-  - Aaron Mills
-  - Charlie Singleton
+    - Larry Blackmon
+    - Nathan Leftenant
+    - Tomi Jenkins
+    - Aaron Mills
+    - Charlie Singleton
   influenced:
-  - OutKast
-  - TLC
-  - Numerous hip hop artists
+    - OutKast
+    - TLC
+    - Numerous hip hop artists
   mentors:
-  - Parliament-Funkadelic
+    - Parliament-Funkadelic
 spotify_data:
   followers: 679449
   id: 545idYhdloaSlLGBY8E9u2
   popularity: 52
-  url: https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2
+  url: 'https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2'
 discography_enriched: true
 top_tracks:
-- Word Up (Word Up)
-- Candy (Word Up)
-- Sparkle (Secret Omen)
-- Single Life (Anthology)
-- Candy
-- Funk Funk (Cardiac Arrest)
-- Attack Me With Your Love (Single Life)
-- Loverboy (Glitter)
-- She's Strange (She's Strange)
-- Back And Forth (Word Up)
+  - Word Up (Word Up)
+  - Candy (Word Up)
+  - Sparkle (Secret Omen)
+  - Single Life (Anthology)
+  - Candy
+  - Funk Funk (Cardiac Arrest)
+  - Attack Me With Your Love (Single Life)
+  - Loverboy (Glitter)
+  - She's Strange (She's Strange)
+  - Back And Forth (Word Up)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ef4d808a-2113-44c3-9b44-1b31f026ef1e
-  spotify: https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2
-  wikipedia: https://en.wikipedia.org/wiki/Cameo_(band)
+  musicbrainz: 'https://musicbrainz.org/artist/ef4d808a-2113-44c3-9b44-1b31f026ef1e'
+  spotify: 'https://open.spotify.com/artist/545idYhdloaSlLGBY8E9u2'
+  wikipedia: 'https://en.wikipedia.org/wiki/Cameo_(band)'
 image_path: 03_Resources/source_material/ArtistPortraits/cameo.jpg
 biography_enhanced_at: '2025-11-14T10:40:29.065056'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Cameo_(band)
-- https://www.last.fm/music/Cameo/+wiki
-- https://www.youtube.com/watch?v=5--mngagdgY
-- https://blackpast.org/african-american-history/cameo-1974/
+  - 'https://en.wikipedia.org/wiki/Cameo_(band)'
+  - 'https://www.last.fm/music/Cameo/+wiki'
+  - 'https://www.youtube.com/watch?v=5--mngagdgY'
+  - 'https://blackpast.org/african-american-history/cameo-1974/'
 network_extracted: true
 entry_created: '2025-11-14T10:40:29.065076'
 last_updated: '2025-12-23T08:16:06.320113'
 disambiguation: American soul-influenced funk group
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5c4609aa-762c-4da4-904d-e754cde6ab11
-  name: William Seth Allen
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9564a2a8-2e0e-43bc-8a0e-12c3befadbe5
-  name: Larry Blackmon
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f27e3abd-fdff-4707-b1d4-5ec74dca51de
-  name: Jeryl Bright
-- begin: ''
-  end: ''
-  instruments:
-  - bass guitar
-  mbid: a094db31-9ec4-4be2-85bc-6149fa0679f2
-  name: Michael Burnett
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3b3b7f25-cda0-43a9-a3c0-e95e769eb08a
-  name: Tomi Jenkins
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 800d1c97-c7b1-4324-8952-4d375fa240d8
-  name: Nathan Leftenant
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c073719a-6481-498b-bc05-56ac5ef69ae3
-  name: Aaron Mills
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0bdfe088-b63f-4b94-be81-84fbdf8c6353
-  name: Charlie Singleton
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5c4609aa-762c-4da4-904d-e754cde6ab11
+    name: William Seth Allen
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9564a2a8-2e0e-43bc-8a0e-12c3befadbe5
+    name: Larry Blackmon
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f27e3abd-fdff-4707-b1d4-5ec74dca51de
+    name: Jeryl Bright
+  - begin: ''
+    end: ''
+    instruments:
+      - bass guitar
+    mbid: a094db31-9ec4-4be2-85bc-6149fa0679f2
+    name: Michael Burnett
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3b3b7f25-cda0-43a9-a3c0-e95e769eb08a
+    name: Tomi Jenkins
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 800d1c97-c7b1-4324-8952-4d375fa240d8
+    name: Nathan Leftenant
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c073719a-6481-498b-bc05-56ac5ef69ae3
+    name: Aaron Mills
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0bdfe088-b63f-4b94-be81-84fbdf8c6353
+    name: Charlie Singleton
 musicbrainz_id: ef4d808a-2113-44c3-9b44-1b31f026ef1e
-origin: New York
+origin: 'New York City, New York, United States'
 tags:
-- contemporary r&b
-- disco
-- funk
+  - contemporary r&b
+  - disco
+  - funk
 ---
 
 ![](cameo.jpg)

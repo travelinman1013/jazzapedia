@@ -1,48 +1,51 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-16T01:38:27.740209'
-birth_place: Eufaula, Oklahoma, USA
+birth_place: 'Eufaula, Oklahoma, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-16T01:38:27.740215'
 external_urls:
-  spotify: https://open.spotify.com/artist/5khQcscXYRDYvMM804iomp
-  wikipedia: https://en.wikipedia.org/wiki/Charles_Brackeen
+  spotify: 'https://open.spotify.com/artist/5khQcscXYRDYvMM804iomp'
+  wikipedia: 'https://en.wikipedia.org/wiki/Charles_Brackeen'
 genres:
-- free jazz
-- avant-garde
+  - free jazz
+  - avant-garde
 image_path: 03_Resources/source_material/ArtistPortraits/charles_brackeen.jpg
 last_updated: '2026-01-16T01:38:27.740216'
 musical_connections:
   collaborators:
-  - Paul Motian
-  - Don Cherry
-  - Charlie Haden
-  - Ed Blackwell
-  - David Izenzon
-  - J.F. Jenny-Clark
+    - Paul Motian
+    - Don Cherry
+    - Charlie Haden
+    - Ed Blackwell
+    - David Izenzon
+    - J.F. Jenny-Clark
   influenced: []
   mentors:
-  - Ornette Coleman
-  - Dewey Redman
+    - Ornette Coleman
+    - Dewey Redman
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.sputnikmusic.com/bands/Charles-Brackeen/26721/
-- https://www.last.fm/music/Charles+Brackeen
-- https://www.encyclopedia.com/arts/dictionaries-thesauruses-pictures-and-press-releases/brackeen-charles
-- https://ethaniverson.com/2022/01/09/charles-brackeen-and-mtume-r-i-p/
-- https://www.highresaudio.com/en/artist/view/78703ec3-5b22-4c1c-86f9-e0fd9d4ad5e1/charles-brackeen
-- https://en.wikipedia.org/wiki/Charles_Brackeen
-- https://music.apple.com/us/artist/charles-brackeen/193473723
-- https://kids.kiddle.co/Charles_Brackeen
-- https://jaz.fandom.com/wiki/Charles_Brackeen
+  - 'https://www.sputnikmusic.com/bands/Charles-Brackeen/26721/'
+  - 'https://www.last.fm/music/Charles+Brackeen'
+  - >-
+    https://www.encyclopedia.com/arts/dictionaries-thesauruses-pictures-and-press-releases/brackeen-charles
+  - 'https://ethaniverson.com/2022/01/09/charles-brackeen-and-mtume-r-i-p/'
+  - >-
+    https://www.highresaudio.com/en/artist/view/78703ec3-5b22-4c1c-86f9-e0fd9d4ad5e1/charles-brackeen
+  - 'https://en.wikipedia.org/wiki/Charles_Brackeen'
+  - 'https://music.apple.com/us/artist/charles-brackeen/193473723'
+  - 'https://kids.kiddle.co/Charles_Brackeen'
+  - 'https://jaz.fandom.com/wiki/Charles_Brackeen'
 spotify_data:
   followers: 303
   id: 5khQcscXYRDYvMM804iomp
   popularity: 1
-  url: https://open.spotify.com/artist/5khQcscXYRDYvMM804iomp
+  url: 'https://open.spotify.com/artist/5khQcscXYRDYvMM804iomp'
 status: active
 title: Charles Brackeen
+birth_date: '1940-03-13'
 ---
 
 ![](charles_brackeen.jpg)

@@ -2,17 +2,17 @@
 title: Israel Vibration
 wiki_slug: israel-vibration
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1977'
 genres:
-- roots reggae
-- reggae
-- dub
-- ragga
-- rocksteady
+  - roots reggae
+  - reggae
+  - dub
+  - ragga
+  - rocksteady
 instruments:
-- original
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/israel_vibration.jpg
   caption: Israel Vibration
@@ -33,69 +33,70 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tommy Cowan
-  - Inner Circle members
-  - Roots Radics
-  - Gary 'Dr. Dread' Himmelfarb
+    - Tommy Cowan
+    - Inner Circle members
+    - Roots Radics
+    - Gary 'Dr. Dread' Himmelfarb
   influenced: []
   mentors:
-  - Maurice 'Blacka Morwell' Wellington
-  - Errol 'Flabba' Holt
+    - Maurice 'Blacka Morwell' Wellington
+    - Errol 'Flabba' Holt
 spotify_data:
   followers: 549580
   id: 2Y06xyHPovQ8DWLyVIpSJK
   popularity: 50
-  url: https://open.spotify.com/artist/2Y06xyHPovQ8DWLyVIpSJK
+  url: 'https://open.spotify.com/artist/2Y06xyHPovQ8DWLyVIpSJK'
 discography_enriched: true
 top_tracks:
-- Cool and Calm (Strength of My Life)
-- Back Staba (Stamina)
-- My Master's Will (Reggae Knights)
-- Herb Is The Healing (Stamina)
-- Next Generation (Reggae Music Never Dies)
-- Natty Dread (Stamina)
-- The Same Song - Edit (The Same Song)
-- Original Riddim (One Rock)
-- Rude Boy Shufflin' (On the Rock)
-- Flood Water (Stamina)
+  - Cool and Calm (Strength of My Life)
+  - Back Staba (Stamina)
+  - My Master's Will (Reggae Knights)
+  - Herb Is The Healing (Stamina)
+  - Next Generation (Reggae Music Never Dies)
+  - Natty Dread (Stamina)
+  - The Same Song - Edit (The Same Song)
+  - Original Riddim (One Rock)
+  - Rude Boy Shufflin' (On the Rock)
+  - Flood Water (Stamina)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ffce4003-a756-46c0-b062-2e942de13d37
-  spotify: https://open.spotify.com/artist/2Y06xyHPovQ8DWLyVIpSJK
+  musicbrainz: 'https://musicbrainz.org/artist/ffce4003-a756-46c0-b062-2e942de13d37'
+  spotify: 'https://open.spotify.com/artist/2Y06xyHPovQ8DWLyVIpSJK'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/israel_vibration.jpg
 biography_enhanced_at: '2025-12-15T01:38:53.723930'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.reggaeville.com/artist-details/israel-vibration/about/
-- https://santafebrewing.com/event/israel-vibrations/
-- https://thecoachhouse.com/concert-schedule/11611225/israel-vibration/
-- https://www.laphil.com/musicdb/artists/2575/israel-vibration
-- https://moesalley.com/tm-attraction/israel-vibration/
+  - 'https://www.reggaeville.com/artist-details/israel-vibration/about/'
+  - 'https://santafebrewing.com/event/israel-vibrations/'
+  - 'https://thecoachhouse.com/concert-schedule/11611225/israel-vibration/'
+  - 'https://www.laphil.com/musicdb/artists/2575/israel-vibration'
+  - 'https://moesalley.com/tm-attraction/israel-vibration/'
 network_extracted: true
 entry_created: '2025-12-15T01:38:53.723939'
 last_updated: '2025-12-23T08:16:09.937811'
 members:
-- begin: '1975'
-  end: '1998'
-  instruments: []
-  mbid: 1a969c62-44c8-4311-b950-36ac88fd32fb
-  name: Apple Gabriel
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c1cf0d04-aeed-4a20-bc37-b47621ec257d
-  name: Lascelle Bulgin
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 702e8e6c-0208-4ac8-a004-ca471f53d3ce
-  name: Skelly
+  - begin: '1975'
+    end: '1998'
+    instruments: []
+    mbid: 1a969c62-44c8-4311-b950-36ac88fd32fb
+    name: Apple Gabriel
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c1cf0d04-aeed-4a20-bc37-b47621ec257d
+    name: Lascelle Bulgin
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 702e8e6c-0208-4ac8-a004-ca471f53d3ce
+    name: Skelly
 musicbrainz_id: ffce4003-a756-46c0-b062-2e942de13d37
-origin: Kingston, Jamaica
+origin: 'Kingston, Jamaica'
 tags:
-- reggae
+  - reggae
+birth_place: 'Kingston, Jamaica'
 ---
 
 ![](israel_vibration.jpg)

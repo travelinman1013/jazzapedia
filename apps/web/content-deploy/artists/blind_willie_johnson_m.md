@@ -1,18 +1,18 @@
 ---
-title: blind willie johnson m
+title: Blind Willie Johnson
 wiki_slug: blind-willie-johnson-m
 schema_version: 2
 status: active
-birth_place: Pendleton, Texas, United States
+birth_place: 'Pendleton, Texas, United States'
 genres:
-- blues
-- country blues
-- classic blues
+  - blues
+  - country blues
+  - classic blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/blind_willie_johnson_m.jpg
   caption: blind willie johnson m
   background: solo_singer
-  origin: Pendleton, Texas, United States
+  origin: 'Pendleton, Texas, United States'
 audio_profile:
   tempo_avg: 133.8
   energy_avg: 0.219
@@ -28,50 +28,71 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Blind Willie McTell
-  - Unknown female singer
-  - Billiken Johnson
-  - Coley Jones
+    - Blind Willie McTell
+    - Unknown female singer
+    - Billiken Johnson
+    - Coley Jones
   influenced:
-  - Texas bluesmen (collective)
-  - Generations of musicians
+    - Texas bluesmen (collective)
+    - Generations of musicians
   mentors:
-  - Angeline Johnson (wife)
+    - Angeline Johnson (wife)
 spotify_data:
   followers: 113895
   id: 5kO4xdEKLuHHHPreu3UmkZ
   popularity: 35
-  url: https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ
+  url: 'https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ'
 discography_enriched: true
 top_tracks:
-- Dark Was the Night, Cold Was the Ground (Dark Was The Night (Mojo Workin'- Blues For The Next Generation))
-- It's Nobody's Fault but Mine (Dark Was The Night (Mojo Workin'- Blues For The Next Generation))
-- Jesus Make Up My Dying Bed (Dark Was The Night (Mojo Workin'- Blues For The Next Generation))
-- John the Revelator (Dark Was The Night (Mojo Workin'- Blues For The Next Generation))
-- The Soul of a Man (Dark Was The Night (Mojo Workin'- Blues For The Next Generation))
-- Let Your Light Shine on Me (Dark Was The Night (Mojo Workin'- Blues For The Next Generation))
-- God Moves On the Water (Dark Was The Night (Mojo Workin'- Blues For The Next Generation))
-- Dark Is the Night
-- Lord I Just Can't Keep From Crying (Dark Was The Night (Mojo Workin'- Blues For The Next Generation))
-- If I Had My Way I'd Tear the Building Down (Dark Was The Night (Mojo Workin'- Blues For The Next Generation))
+  - >-
+    Dark Was the Night, Cold Was the Ground (Dark Was The Night (Mojo Workin'-
+    Blues For The Next Generation))
+  - >-
+    It's Nobody's Fault but Mine (Dark Was The Night (Mojo Workin'- Blues For
+    The Next Generation))
+  - >-
+    Jesus Make Up My Dying Bed (Dark Was The Night (Mojo Workin'- Blues For The
+    Next Generation))
+  - >-
+    John the Revelator (Dark Was The Night (Mojo Workin'- Blues For The Next
+    Generation))
+  - >-
+    The Soul of a Man (Dark Was The Night (Mojo Workin'- Blues For The Next
+    Generation))
+  - >-
+    Let Your Light Shine on Me (Dark Was The Night (Mojo Workin'- Blues For The
+    Next Generation))
+  - >-
+    God Moves On the Water (Dark Was The Night (Mojo Workin'- Blues For The Next
+    Generation))
+  - Dark Is the Night
+  - >-
+    Lord I Just Can't Keep From Crying (Dark Was The Night (Mojo Workin'- Blues
+    For The Next Generation))
+  - >-
+    If I Had My Way I'd Tear the Building Down (Dark Was The Night (Mojo
+    Workin'- Blues For The Next Generation))
 external_urls:
-  spotify: https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ
-  wikipedia: https://en.wikipedia.org/wiki/Blind_Willie_Johnson
+  spotify: 'https://open.spotify.com/artist/5kO4xdEKLuHHHPreu3UmkZ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Blind_Willie_Johnson'
 image_path: 03_Resources/source_material/ArtistPortraits/blind_willie_johnson_m.jpg
 biography_enhanced_at: '2025-12-04T07:51:04.544496'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Blind Willie Johnson
-- Blues Foundation - Blind Willie Johnson
-- Texas State Historical Association - Johnson, 'Blind Willie'
-- Mojo Hand - Blind Willie Johnson
-- 'No Depression - Dark Was the Night: The Life and Times of Blind Willie Johnson'
-- IMDb - Blind Willie Johnson Biography
-- 'Sandy Brown Jazz - The Story Is Told: Blind Willie Johnson'
+  - Wikipedia - Blind Willie Johnson
+  - Blues Foundation - Blind Willie Johnson
+  - 'Texas State Historical Association - Johnson, ''Blind Willie'''
+  - Mojo Hand - Blind Willie Johnson
+  - >-
+    No Depression - Dark Was the Night: The Life and Times of Blind Willie
+    Johnson
+  - IMDb - Blind Willie Johnson Biography
+  - 'Sandy Brown Jazz - The Story Is Told: Blind Willie Johnson'
 network_extracted: true
 entry_created: '2025-12-04T07:51:04.544503'
 last_updated: '2025-12-23T08:16:05.735442'
+artist_type: person
 ---
 
 ![](blind_willie_johnson_m.jpg)

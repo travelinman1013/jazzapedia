@@ -1,25 +1,27 @@
 ---
-title: Jesse Royal, Yohan Marley
+title: 'Jesse Royal, Yohan Marley'
 wiki_slug: jesse-royal-yohan-marley
 schema_version: 2
 status: active
-birth_place: Kingston, Jamaica (current base); Maroon Town and Orange District, St. James, Jamaica (birthplace)
+birth_place: 'Maroon Town and Orange District, St. James, Jamaica'
 genres:
-- reggae
-- roots reggae
-- ragga
+  - reggae
+  - roots reggae
+  - ragga
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jesse_royal_yohan_marley.jpg
-  caption: Jesse Royal, Yohan Marley
+  caption: 'Jesse Royal, Yohan Marley'
   background: solo_singer
-  origin: Kingston, Jamaica (current base); Maroon Town and Orange District, St. James, Jamaica (birthplace)
+  origin: >-
+    Kingston, Jamaica (current base); Maroon Town and Orange District, St.
+    James, Jamaica (birthplace)
 audio_profile:
   tempo_avg: 123.1
   energy_avg: 0.706
   valence_avg: 0.658
   danceability_avg: 0.706
   acousticness_avg: 0.169
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -5.5
   speechiness_avg: 0.165
   liveness_avg: 0.2
@@ -28,55 +30,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Protoje
-  - Yohan Marley
-  - Sean Paul
-  - Vybz Kartel
-  - Chronixx
-  - Damian Marley
-  - Major Lazer
-  - Romain Virgo
-  - Melanie Fiona
-  - Kabaka Pyramid
-  - Perfect Giddimani
-  - Curt 'Qban' White
+    - Protoje
+    - Yohan Marley
+    - Sean Paul
+    - Vybz Kartel
+    - Chronixx
+    - Damian Marley
+    - Major Lazer
+    - Romain Virgo
+    - Melanie Fiona
+    - Kabaka Pyramid
+    - Perfect Giddimani
+    - Curt 'Qban' White
   influenced: []
   mentors:
-  - Philip 'Fatis' Burrell
-  - Daniel 'Bambaata' Marley
+    - Philip 'Fatis' Burrell
+    - Daniel 'Bambaata' Marley
 spotify_data:
   followers: 81697
   id: 4aXUVIuNCDbLoRAYfuVDi1
   popularity: 44
-  url: https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1
+  url: 'https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1'
 discography_enriched: true
 top_tracks:
-- Modern Day Judas (Lily of da Valley)
-- The Kalling (The Kalling)
-- Throwing Shade (with Jesse Royal)
-- The Kalling
-- Love That Don't Change
-- Pressure (On the Lines Riddim)
-- Real Love (Lily of da Valley)
-- Marching On (Coming To Light)
-- Sudden Flight (feat. Jesse Royal & Sevana) (Ancient Future)
-- High Tide or Low (feat. Samory I) (Royal)
+  - Modern Day Judas (Lily of da Valley)
+  - The Kalling (The Kalling)
+  - Throwing Shade (with Jesse Royal)
+  - The Kalling
+  - Love That Don't Change
+  - Pressure (On the Lines Riddim)
+  - Real Love (Lily of da Valley)
+  - Marching On (Coming To Light)
+  - Sudden Flight (feat. Jesse Royal & Sevana) (Ancient Future)
+  - High Tide or Low (feat. Samory I) (Royal)
 external_urls:
-  spotify: https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1
+  spotify: 'https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/jesse_royal_yohan_marley.jpg
 biography_enhanced_at: '2025-12-04T08:25:54.042767'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Lake Tahoe Reggae Festival official website
-- Talowa Productions artist profile
-- Easy Star Records official website
-- Spotify artist profile
-- YouTube official channel
+  - Lake Tahoe Reggae Festival official website
+  - Talowa Productions artist profile
+  - Easy Star Records official website
+  - Spotify artist profile
+  - YouTube official channel
 network_extracted: true
 entry_created: '2025-12-04T08:25:54.042786'
 last_updated: '2025-12-23T08:16:10.373121'
+origin: 'Kingston, Jamaica'
+birth_date: '1989-04-29'
+artist_type: band
 ---
 
 ![](jesse_royal_yohan_marley.jpg)

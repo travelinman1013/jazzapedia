@@ -5,45 +5,45 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1961-08-06'
-birth_place: New Orleans
+birth_place: 'New Orleans, Louisiana, United States'
 genres: []
 instruments:
-- clarinet
-- bass clarinet
-- tenor saxophone
-- eponymous
-- original
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - clarinet
-  mbid: 6e420511-4beb-4205-8b66-74a29ed87e4a
-  name: Jazz at Lincoln Center Orchestra
-- begin: ''
-  end: ''
-  instruments:
   - bass clarinet
-  mbid: 6e420511-4beb-4205-8b66-74a29ed87e4a
-  name: Jazz at Lincoln Center Orchestra
-- begin: ''
-  end: ''
-  instruments:
   - tenor saxophone
-  mbid: 6e420511-4beb-4205-8b66-74a29ed87e4a
-  name: Jazz at Lincoln Center Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9f22dee3-6a58-4735-b547-48d649c3a181
-  name: Wynton Marsalis Septet
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
-  mbid: ce03487d-2102-4a9c-854f-ed162494404f
-  name: Victor Goines Quartet
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - clarinet
+    mbid: 6e420511-4beb-4205-8b66-74a29ed87e4a
+    name: Jazz at Lincoln Center Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - bass clarinet
+    mbid: 6e420511-4beb-4205-8b66-74a29ed87e4a
+    name: Jazz at Lincoln Center Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: 6e420511-4beb-4205-8b66-74a29ed87e4a
+    name: Jazz at Lincoln Center Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9f22dee3-6a58-4735-b547-48d649c3a181
+    name: Wynton Marsalis Septet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: ce03487d-2102-4a9c-854f-ed162494404f
+    name: Victor Goines Quartet
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/victor_goines.jpg
   caption: Victor Goines
@@ -57,7 +57,7 @@ audio_profile:
   danceability_avg: 0.588
   acousticness_avg: 0.228
   instrumentalness_avg: 0.124
-  loudness_avg: -10.0
+  loudness_avg: -10
   speechiness_avg: 0.077
   liveness_avg: 0.191
   track_count: 50
@@ -65,54 +65,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Wynton Marsalis Septet
-  - Terence Blanchard
-  - Branford Marsalis
-  - Dizzy Gillespie
+    - Wynton Marsalis Septet
+    - Terence Blanchard
+    - Branford Marsalis
+    - Dizzy Gillespie
   influenced:
-  - Juilliard Jazz Studies students
-  - Northwestern University jazz students
+    - Juilliard Jazz Studies students
+    - Northwestern University jazz students
   mentors:
-  - Wynton Marsalis
+    - Wynton Marsalis
 spotify_data:
   followers: 18660
   id: 3qWUrXaaCWw9NohGOAKCbD
   popularity: 40
-  url: https://open.spotify.com/artist/3qWUrXaaCWw9NohGOAKCbD
+  url: 'https://open.spotify.com/artist/3qWUrXaaCWw9NohGOAKCbD'
 discography_enriched: true
 top_tracks:
-- Mother Teresa (Mother Teresa)
-- White Fang Safari (White Fang Safari)
-- We Go to Russia (We Go to Russia)
-- The Baghdad Bengals (Zookeeper)
-- Do It for the Plot (Zookeeper)
-- Zookeeper (Zookeeper)
-- We Go to Russia (Zookeeper)
-- White Fang Safari - Remix (White Fang Safari (Remix))
-- We Go to Russia (White Fang Safari)
-- A Plan Begins to Form (Zookeeper)
+  - Mother Teresa (Mother Teresa)
+  - White Fang Safari (White Fang Safari)
+  - We Go to Russia (We Go to Russia)
+  - The Baghdad Bengals (Zookeeper)
+  - Do It for the Plot (Zookeeper)
+  - Zookeeper (Zookeeper)
+  - We Go to Russia (Zookeeper)
+  - White Fang Safari - Remix (White Fang Safari (Remix))
+  - We Go to Russia (White Fang Safari)
+  - A Plan Begins to Form (Zookeeper)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f328cab7-2284-4efd-a7b6-73b97ad6fbc2
-  spotify: https://open.spotify.com/artist/3qWUrXaaCWw9NohGOAKCbD
-  wikipedia: https://en.wikipedia.org/wiki/Victor_Goines
+  musicbrainz: 'https://musicbrainz.org/artist/f328cab7-2284-4efd-a7b6-73b97ad6fbc2'
+  spotify: 'https://open.spotify.com/artist/3qWUrXaaCWw9NohGOAKCbD'
+  wikipedia: 'https://en.wikipedia.org/wiki/Victor_Goines'
 image_path: 03_Resources/source_material/ArtistPortraits/victor_goines.jpg
 biography_enhanced_at: '2025-12-17T02:26:35.155061'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://verbierfestival.com/en/musician/goines-victor/
-- https://victorgoines.com/biography
-- https://en.wikipedia.org/wiki/Victor_Goines
-- https://jazzstl.org/victor/
-- https://www.stlmag.com/culture/music/meet-victor-goines-the-new-president-and-ceo-of-jazz-st-louis/
+  - 'https://verbierfestival.com/en/musician/goines-victor/'
+  - 'https://victorgoines.com/biography'
+  - 'https://en.wikipedia.org/wiki/Victor_Goines'
+  - 'https://jazzstl.org/victor/'
+  - >-
+    https://www.stlmag.com/culture/music/meet-victor-goines-the-new-president-and-ceo-of-jazz-st-louis/
 network_extracted: true
 entry_created: '2025-12-17T02:26:35.155076'
 last_updated: '2025-12-23T08:16:17.854899'
 gender: Male
 musicbrainz_id: f328cab7-2284-4efd-a7b6-73b97ad6fbc2
 tags:
-- jazz
-- post-bop
+  - jazz
+  - post-bop
 ---
 
 ![](victor_goines.jpg)

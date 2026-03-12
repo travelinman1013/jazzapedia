@@ -2,17 +2,17 @@
 title: Antibalas
 wiki_slug: antibalas
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
-birth_date: 1998-01
+birth_date: '1997'
 genres:
-- afrobeat
-- latin afrobeat
-- afro soul
+  - afrobeat
+  - latin afrobeat
+  - afro soul
 instruments:
-- original
-- trombone
-- guitar
+  - original
+  - trombone
+  - guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/antibalas.jpg
   caption: Antibalas
@@ -33,198 +33,198 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Martín Perna
-  - Duke Amayo
-  - Gabriel Roth (Bosco Mann)
-  - Sharon Jones & the Dap-Kings
-  - Aaron Johnson, Stuart Bogie, Jordan McLean
+    - Martín Perna
+    - Duke Amayo
+    - Gabriel Roth (Bosco Mann)
+    - Sharon Jones & the Dap-Kings
+    - 'Aaron Johnson, Stuart Bogie, Jordan McLean'
   influenced:
-  - TV on the Radio
-  - Dap-Kings
-  - Mark Ronson
+    - TV on the Radio
+    - Dap-Kings
+    - Mark Ronson
   mentors:
-  - Fela Kuti
-  - Eddie Palmieri
+    - Fela Kuti
+    - Eddie Palmieri
 spotify_data:
   followers: 79014
   id: 2KGF6IKZfVGCKfyqcNVGfh
   popularity: 36
-  url: https://open.spotify.com/artist/2KGF6IKZfVGCKfyqcNVGfh
+  url: 'https://open.spotify.com/artist/2KGF6IKZfVGCKfyqcNVGfh'
 discography_enriched: true
 top_tracks:
-- Dirty Money (Antibalas)
-- Go Je Je (Government Magic)
-- Gabes New Joint (Talkatif)
-- International Love Affair - Edit (Keleketla!)
-- Dub Je Je (Government Magic)
-- Gracias (Luces Fantasma)
-- 'Tattletale, Pt. 2 (Daptone Records Singles Collection: Volume 5)'
-- Che Che Cole (Government Magic)
-- La Ceiba
-- International Love Affair - Edit
+  - Dirty Money (Antibalas)
+  - Go Je Je (Government Magic)
+  - Gabes New Joint (Talkatif)
+  - International Love Affair - Edit (Keleketla!)
+  - Dub Je Je (Government Magic)
+  - Gracias (Luces Fantasma)
+  - 'Tattletale, Pt. 2 (Daptone Records Singles Collection: Volume 5)'
+  - Che Che Cole (Government Magic)
+  - La Ceiba
+  - International Love Affair - Edit
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/33c2a158-a788-44e5-81ab-142d544a165b
-  spotify: https://open.spotify.com/artist/2KGF6IKZfVGCKfyqcNVGfh
-  wikipedia: https://en.wikipedia.org/wiki/Antibalas
+  musicbrainz: 'https://musicbrainz.org/artist/33c2a158-a788-44e5-81ab-142d544a165b'
+  spotify: 'https://open.spotify.com/artist/2KGF6IKZfVGCKfyqcNVGfh'
+  wikipedia: 'https://en.wikipedia.org/wiki/Antibalas'
 image_path: 03_Resources/source_material/ArtistPortraits/antibalas.jpg
 biography_enhanced_at: '2025-11-12T14:48:51.520394'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://antibalas.com/bio
-- https://www.last.fm/music/Antibalas+Afrobeat+Orchestra/+wiki
-- https://downbeat.com/news/detail/the-deepening-power-of-antibalas
-- https://pan-african-music.com/en/antibalas-20-years-of-afrobeat-and-kung-fu-spirit-1-2/
-- https://antibalas.com/about
-- https://www.telluridejazz.org/antibalas
+  - 'https://antibalas.com/bio'
+  - 'https://www.last.fm/music/Antibalas+Afrobeat+Orchestra/+wiki'
+  - 'https://downbeat.com/news/detail/the-deepening-power-of-antibalas'
+  - >-
+    https://pan-african-music.com/en/antibalas-20-years-of-afrobeat-and-kung-fu-spirit-1-2/
+  - 'https://antibalas.com/about'
+  - 'https://www.telluridejazz.org/antibalas'
 network_extracted: true
 entry_created: '2025-11-12T14:48:51.520409'
 last_updated: '2025-12-23T08:16:04.847660'
 disambiguation: aka Antibalas Afrobeat Orchestra
 members:
-- &id001
-  begin: '1998'
-  end: ''
-  instruments:
-  - original
-  mbid: 059507f6-46a8-4467-9a99-a3ad127571c8
-  name: Martin Perna
-- begin: '1999-10-17'
-  end: '2021-11-05'
-  instruments: []
-  mbid: b3af5d54-2ad0-4c8b-98f0-8fcb2b6888e8
-  name: Duke Amayo
-- begin: '1999'
-  end: '2006'
-  instruments: []
-  mbid: e9ad4b9f-c94d-41af-a78f-e30572953509
-  name: Fernando "Boogaloo" Velez
-- begin: '1999'
-  end: 2021-11
-  instruments: []
-  mbid: ae680f6f-9ef4-426e-bfa1-6022f9d8f258
-  name: Amayo
-- &id002
-  begin: '1999'
-  end: ''
-  instruments: []
-  mbid: b34a4480-cbcc-43ff-8888-3f9df751f0c6
-  name: Victor Axelrod
-- &id003
-  begin: '2005'
-  end: ''
-  instruments: []
-  mbid: 3ed6dddd-45db-48d0-8e86-5484dc807335
-  name: Marcus Farrar
-- begin: '2010'
-  end: '2016'
-  instruments: []
-  mbid: 2ad3d0eb-3da8-494a-845a-9f051b4f103a
-  name: Miles Francis
-- &id004
-  begin: '2010'
-  end: ''
-  instruments: []
-  mbid: 98ede55c-d259-446c-85f5-4417b33ba6cc
-  name: Reinaldo DeJesus
-- &id005
-  begin: '2012'
-  end: ''
-  instruments: []
-  mbid: b92d3a78-a28c-4ae8-b2f6-12651807905d
-  name: Morgan Price
-- &id006
-  begin: '2021-06-01'
-  end: ''
-  instruments:
-  - trombone
-  mbid: 9b35c282-b591-487c-a3b2-8b3866c98e7d
-  name: Michael Pallas
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7252b184-68da-43b3-8030-025c72a980ea
-  name: Stuart Bogie
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d5141a70-6260-434e-923a-9e2aad6efd42
-  name: Binky Griptite
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c8ab51ff-25f2-48f2-b7e0-42621d4ff985
-  name: Michael Herbst
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 34e6d385-ac3c-471e-97f6-337c57104e66
-  name: Timothy J Allen
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6554ffb4-fa5a-4e46-9c03-53b04704cfd9
-  name: Aaron Johnson
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: 18cc1021-257a-4a40-b299-234030eec8ac
-  name: Raja Kassis
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: db6e2aec-00e0-476a-99a3-babf1e16b2b0
-  name: Chico Mann
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1d59e4ab-9046-45dd-8bd5-65103bc4e0cd
-  name: Jordan McLean
-- begin: ''
-  end: ''
-  instruments:
-  - trombone
-  mbid: 9b35c282-b591-487c-a3b2-8b3866c98e7d
-  name: Michael Pallas
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1e8b1935-e804-4d3f-894f-05ad6c058651
-  name: Kevin Raczka
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c1bdc39a-13d5-4a2a-8baa-ef7414acfb63
-  name: Todd Simon
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 47fccd47-f976-443b-92c0-9872147cdd22
-  name: Phil Ballman
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 38af734f-256d-427c-b760-8b18035aab5e
-  name: Luke O’Malley
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 97e36fd8-e736-42c8-b08d-a4f1aedbdf5d
-  name: Del Stribling
+  - &ref_0
+    begin: '1998'
+    end: ''
+    instruments:
+      - original
+    mbid: 059507f6-46a8-4467-9a99-a3ad127571c8
+    name: Martin Perna
+  - begin: '1999-10-17'
+    end: '2021-11-05'
+    instruments: []
+    mbid: b3af5d54-2ad0-4c8b-98f0-8fcb2b6888e8
+    name: Duke Amayo
+  - begin: '1999'
+    end: '2006'
+    instruments: []
+    mbid: e9ad4b9f-c94d-41af-a78f-e30572953509
+    name: Fernando "Boogaloo" Velez
+  - begin: '1999'
+    end: 2021-11
+    instruments: []
+    mbid: ae680f6f-9ef4-426e-bfa1-6022f9d8f258
+    name: Amayo
+  - &ref_1
+    begin: '1999'
+    end: ''
+    instruments: []
+    mbid: b34a4480-cbcc-43ff-8888-3f9df751f0c6
+    name: Victor Axelrod
+  - &ref_2
+    begin: '2005'
+    end: ''
+    instruments: []
+    mbid: 3ed6dddd-45db-48d0-8e86-5484dc807335
+    name: Marcus Farrar
+  - begin: '2010'
+    end: '2016'
+    instruments: []
+    mbid: 2ad3d0eb-3da8-494a-845a-9f051b4f103a
+    name: Miles Francis
+  - &ref_3
+    begin: '2010'
+    end: ''
+    instruments: []
+    mbid: 98ede55c-d259-446c-85f5-4417b33ba6cc
+    name: Reinaldo DeJesus
+  - &ref_4
+    begin: '2012'
+    end: ''
+    instruments: []
+    mbid: b92d3a78-a28c-4ae8-b2f6-12651807905d
+    name: Morgan Price
+  - &ref_5
+    begin: '2021-06-01'
+    end: ''
+    instruments:
+      - trombone
+    mbid: 9b35c282-b591-487c-a3b2-8b3866c98e7d
+    name: Michael Pallas
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7252b184-68da-43b3-8030-025c72a980ea
+    name: Stuart Bogie
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d5141a70-6260-434e-923a-9e2aad6efd42
+    name: Binky Griptite
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c8ab51ff-25f2-48f2-b7e0-42621d4ff985
+    name: Michael Herbst
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 34e6d385-ac3c-471e-97f6-337c57104e66
+    name: Timothy J Allen
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6554ffb4-fa5a-4e46-9c03-53b04704cfd9
+    name: Aaron Johnson
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 18cc1021-257a-4a40-b299-234030eec8ac
+    name: Raja Kassis
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: db6e2aec-00e0-476a-99a3-babf1e16b2b0
+    name: Chico Mann
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1d59e4ab-9046-45dd-8bd5-65103bc4e0cd
+    name: Jordan McLean
+  - begin: ''
+    end: ''
+    instruments:
+      - trombone
+    mbid: 9b35c282-b591-487c-a3b2-8b3866c98e7d
+    name: Michael Pallas
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1e8b1935-e804-4d3f-894f-05ad6c058651
+    name: Kevin Raczka
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c1bdc39a-13d5-4a2a-8baa-ef7414acfb63
+    name: Todd Simon
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 47fccd47-f976-443b-92c0-9872147cdd22
+    name: Phil Ballman
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 38af734f-256d-427c-b760-8b18035aab5e
+    name: Luke O’Malley
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 97e36fd8-e736-42c8-b08d-a4f1aedbdf5d
+    name: Del Stribling
 musicbrainz_id: 33c2a158-a788-44e5-81ab-142d544a165b
-origin: Brooklyn
+origin: 'Brooklyn, New York, United States'
 original_members:
-- *id001
-- *id002
-- *id003
-- *id004
-- *id005
-- *id006
+  - *ref_0
+  - *ref_1
+  - *ref_2
+  - *ref_3
+  - *ref_4
+  - *ref_5
 tags:
-- afrobeat
-- funk
-
+  - afrobeat
+  - funk
 ---
 
 ![](antibalas.jpg)

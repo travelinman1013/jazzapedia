@@ -2,15 +2,15 @@
 title: Pat Metheny Group
 wiki_slug: pat-metheny-group
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 birth_date: '1978'
 genres:
-- jazz fusion
-- jazz
-- smooth jazz
+  - jazz fusion
+  - jazz
+  - smooth jazz
 instruments:
-- original
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/pat_metheny_group.jpg
   caption: Pat Metheny Group
@@ -31,156 +31,157 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lyle Mays
-  - Steve Rodby
-  - Paul Wertico
-  - Antonio Sanchez
-  - Pedro Aznar
-  - Nana Vasconcelos
-  - Jaco Pastorius
-  - Eberhard Weber
+    - Lyle Mays
+    - Steve Rodby
+    - Paul Wertico
+    - Antonio Sanchez
+    - Pedro Aznar
+    - Nana Vasconcelos
+    - Jaco Pastorius
+    - Eberhard Weber
   influenced:
-  - Contemporary jazz and fusion musicians
+    - Contemporary jazz and fusion musicians
   mentors:
-  - Gary Burton
+    - Gary Burton
 spotify_data:
   followers: 242437
   id: 4uBSazM6snEc9wCG3jMlYt
   popularity: 50
-  url: https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt
+  url: 'https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt'
 discography_enriched: true
 top_tracks:
-- Last Train Home (Still Life (Talking))
-- Afternoon (Speaking of Now)
-- Are You Going With Me? (Offramp)
-- Always and Forever (Secret Story)
-- Follow Me (Imaginary Day)
-- Have You Heard (Letter from Home)
-- Letter From Home (Letter from Home)
-- Minuano (Six Eight) (Still Life (Talking))
-- James (Offramp)
-- So May It Secretly Begin (Still Life (Talking))
+  - Last Train Home (Still Life (Talking))
+  - Afternoon (Speaking of Now)
+  - Are You Going With Me? (Offramp)
+  - Always and Forever (Secret Story)
+  - Follow Me (Imaginary Day)
+  - Have You Heard (Letter from Home)
+  - Letter From Home (Letter from Home)
+  - Minuano (Six Eight) (Still Life (Talking))
+  - James (Offramp)
+  - So May It Secretly Begin (Still Life (Talking))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/66a7f1f8-0ad6-4e3a-9346-a643e2739a8c
-  spotify: https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt
-  wikipedia: https://en.wikipedia.org/wiki/Pat_Metheny_Group
+  musicbrainz: 'https://musicbrainz.org/artist/66a7f1f8-0ad6-4e3a-9346-a643e2739a8c'
+  spotify: 'https://open.spotify.com/artist/4uBSazM6snEc9wCG3jMlYt'
+  wikipedia: 'https://en.wikipedia.org/wiki/Pat_Metheny_Group'
 image_path: 03_Resources/source_material/ArtistPortraits/pat_metheny_group.jpg
 biography_enhanced_at: '2025-12-04T07:19:55.890834'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Pat Metheny Group
-- Last.fm - Pat Metheny Group
-- All About Jazz - Pat Metheny Group
-- Pat Metheny Official Website - Bio
-- In Sheep's Clothing HiFi - The Pat Metheny Method (1979)
-- Leonard Shea Music - Pat Metheny Biography (YouTube)
-- 'Mar Come - Pat Metheny Group: A Passion for Music & Perfection'
-- Royal Oak Music Theatre - Pat Metheny
+  - Wikipedia - Pat Metheny Group
+  - Last.fm - Pat Metheny Group
+  - All About Jazz - Pat Metheny Group
+  - Pat Metheny Official Website - Bio
+  - In Sheep's Clothing HiFi - The Pat Metheny Method (1979)
+  - Leonard Shea Music - Pat Metheny Biography (YouTube)
+  - 'Mar Come - Pat Metheny Group: A Passion for Music & Perfection'
+  - Royal Oak Music Theatre - Pat Metheny
 network_extracted: true
 entry_created: '2025-12-04T07:19:55.890843'
 last_updated: '2025-12-23T08:16:13.987125'
 members:
-- begin: '1977'
-  end: '1980'
-  instruments:
-  - original
-  mbid: 565b49f3-a67a-4a78-92fb-04784d9c7939
-  name: Mark Egan
-- begin: '1977'
-  end: '1982'
-  instruments:
-  - original
-  mbid: 111d9e6d-82a1-4b59-a69d-3945d82596c1
-  name: Danny Gottlieb
-- begin: '1977'
-  end: '2020-02-10'
-  instruments:
-  - original
-  mbid: 210b51ef-bece-44c6-aa94-0ad7756dd538
-  name: Lyle Mays
-- begin: '1981'
-  end: '1982'
-  instruments: []
-  mbid: e64fe830-fb77-462d-85d2-1d3265ae6ade
-  name: Naná Vasconcelos
-- &id001
-  begin: '1981'
-  end: ''
-  instruments: []
-  mbid: 6bebb1c9-df74-455b-a466-ed2608f6e27d
-  name: Steve Rodby
-- begin: '1983'
-  end: 2001-02
-  instruments: []
-  mbid: 3107647b-7bc5-4b33-aa07-2570e631b74a
-  name: Paul Wertico
-- begin: '1984'
-  end: '1993'
-  instruments: []
-  mbid: 21dcc3a2-9fc8-41d2-8736-cdcbde270f4c
-  name: Pedro Aznar
-- begin: '1986'
-  end: '1986'
-  instruments: []
-  mbid: e64fe830-fb77-462d-85d2-1d3265ae6ade
-  name: Naná Vasconcelos
-- begin: '1986'
-  end: '1996'
-  instruments: []
-  mbid: 86429550-5950-4037-bbc2-368d79cc4906
-  name: Armando Marçal
-- begin: '2002'
-  end: '2005'
-  instruments: []
-  mbid: 202936c9-063b-492a-a20e-cc15ce97aaa1
-  name: Richard Bona
-- begin: '2002'
-  end: '2005'
-  instruments: []
-  mbid: 622573f9-eb5f-418b-a8fe-85cc1e947797
-  name: Cuong Vu
-- &id002
-  begin: '2002'
-  end: ''
-  instruments: []
-  mbid: 3bb7845a-bc8a-4ac6-bc31-32046b604e47
-  name: Antonio Sánchez
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4cbf919b-1c21-4bce-9a0b-9d58829915d2
-  name: David Blamires
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2caeff7f-8b83-4a01-9d2c-dc1ac27c6934
-  name: Nando Lauria
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c0d5d82c-e965-462d-8647-a05215ca1c3c
-  name: Mark Ledford
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3d327269-38f8-4b57-b628-5542d2cd3140
-  name: Grégoire Maret
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 7daac7f9-8fcc-485f-a14f-f8091d98cf25
-  name: Pat Metheny
+  - begin: '1977'
+    end: '1980'
+    instruments:
+      - original
+    mbid: 565b49f3-a67a-4a78-92fb-04784d9c7939
+    name: Mark Egan
+  - begin: '1977'
+    end: '1982'
+    instruments:
+      - original
+    mbid: 111d9e6d-82a1-4b59-a69d-3945d82596c1
+    name: Danny Gottlieb
+  - begin: '1977'
+    end: '2020-02-10'
+    instruments:
+      - original
+    mbid: 210b51ef-bece-44c6-aa94-0ad7756dd538
+    name: Lyle Mays
+  - begin: '1981'
+    end: '1982'
+    instruments: []
+    mbid: e64fe830-fb77-462d-85d2-1d3265ae6ade
+    name: Naná Vasconcelos
+  - &ref_0
+    begin: '1981'
+    end: ''
+    instruments: []
+    mbid: 6bebb1c9-df74-455b-a466-ed2608f6e27d
+    name: Steve Rodby
+  - begin: '1983'
+    end: 2001-02
+    instruments: []
+    mbid: 3107647b-7bc5-4b33-aa07-2570e631b74a
+    name: Paul Wertico
+  - begin: '1984'
+    end: '1993'
+    instruments: []
+    mbid: 21dcc3a2-9fc8-41d2-8736-cdcbde270f4c
+    name: Pedro Aznar
+  - begin: '1986'
+    end: '1986'
+    instruments: []
+    mbid: e64fe830-fb77-462d-85d2-1d3265ae6ade
+    name: Naná Vasconcelos
+  - begin: '1986'
+    end: '1996'
+    instruments: []
+    mbid: 86429550-5950-4037-bbc2-368d79cc4906
+    name: Armando Marçal
+  - begin: '2002'
+    end: '2005'
+    instruments: []
+    mbid: 202936c9-063b-492a-a20e-cc15ce97aaa1
+    name: Richard Bona
+  - begin: '2002'
+    end: '2005'
+    instruments: []
+    mbid: 622573f9-eb5f-418b-a8fe-85cc1e947797
+    name: Cuong Vu
+  - &ref_1
+    begin: '2002'
+    end: ''
+    instruments: []
+    mbid: 3bb7845a-bc8a-4ac6-bc31-32046b604e47
+    name: Antonio Sánchez
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4cbf919b-1c21-4bce-9a0b-9d58829915d2
+    name: David Blamires
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2caeff7f-8b83-4a01-9d2c-dc1ac27c6934
+    name: Nando Lauria
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c0d5d82c-e965-462d-8647-a05215ca1c3c
+    name: Mark Ledford
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3d327269-38f8-4b57-b628-5542d2cd3140
+    name: Grégoire Maret
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 7daac7f9-8fcc-485f-a14f-f8091d98cf25
+    name: Pat Metheny
 musicbrainz_id: 66a7f1f8-0ad6-4e3a-9346-a643e2739a8c
-origin: Kansas City, Missouri, United States (origin/formation location)
+origin: 'Kansas City, Missouri, United States (origin/formation location)'
 original_members:
-- *id001
-- *id002
+  - *ref_0
+  - *ref_1
 tags:
-- contemporary jazz
-- ecm style jazz
-- instrumental jazz
+  - contemporary jazz
+  - ecm style jazz
+  - instrumental jazz
+birth_place: 'Kansas City, Missouri, United States'
 ---
 
 ![](pat_metheny_group.jpg)

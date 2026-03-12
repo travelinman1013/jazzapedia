@@ -3,14 +3,14 @@ title: N'dea Davenport
 wiki_slug: ndea-davenport
 schema_version: 2
 status: active
-birth_place: Atlanta, Georgia, United States
+birth_place: 'Atlanta, Georgia, United States'
 genres:
-- acid jazz
+  - acid jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ndea_davenport.jpg
   caption: N'dea Davenport
   background: solo_singer
-  origin: Atlanta, Georgia, United States
+  origin: 'Atlanta, Georgia, United States'
 audio_profile:
   tempo_avg: 106.7
   energy_avg: 0.695
@@ -26,51 +26,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Brand New Heavies
-  - Malcolm McLaren
-  - Guru
-  - Dallas Austin
-  - Natalie Merchant
-  - Madonna
+    - The Brand New Heavies
+    - Malcolm McLaren
+    - Guru
+    - Dallas Austin
+    - Natalie Merchant
+    - Madonna
   influenced:
-  - Estelle
-  - Jamiroquai
-  - Omar
+    - Estelle
+    - Jamiroquai
+    - Omar
   mentors:
-  - Bootsy Collins
+    - Bootsy Collins
 spotify_data:
   followers: 6634
   id: 2JrR5OwlQ3XXuDwozp9tYT
   popularity: 38
-  url: https://open.spotify.com/artist/2JrR5OwlQ3XXuDwozp9tYT
+  url: 'https://open.spotify.com/artist/2JrR5OwlQ3XXuDwozp9tYT'
 discography_enriched: true
 top_tracks:
-- When You're Near (Jazzmatazz Volume 1)
-- Trust Me (Jazzmatazz Volume 1)
-- Never Stop (Brand New Heavies (Deluxe))
-- Getaway (TBNH)
-- Another Chance - Afterlife Mix
-- Bullshittin' - Remix (Jay Deelicious 95-98 - The Delicious Vinyl Years (Originals, Remixes & Rarities))
-- Whatever You Want - Remix (Jay Deelicious 95-98 - The Delicious Vinyl Years (Originals, Remixes & Rarities))
-- Stay This Way (Brand New Heavies (Deluxe))
-- Love For Real (feat. N'Dea Davenport) (Eat At Whitey's)
-- Take This Ride (Take This Ride)
+  - When You're Near (Jazzmatazz Volume 1)
+  - Trust Me (Jazzmatazz Volume 1)
+  - Never Stop (Brand New Heavies (Deluxe))
+  - Getaway (TBNH)
+  - Another Chance - Afterlife Mix
+  - >-
+    Bullshittin' - Remix (Jay Deelicious 95-98 - The Delicious Vinyl Years
+    (Originals, Remixes & Rarities))
+  - >-
+    Whatever You Want - Remix (Jay Deelicious 95-98 - The Delicious Vinyl Years
+    (Originals, Remixes & Rarities))
+  - Stay This Way (Brand New Heavies (Deluxe))
+  - Love For Real (feat. N'Dea Davenport) (Eat At Whitey's)
+  - Take This Ride (Take This Ride)
 external_urls:
-  spotify: https://open.spotify.com/artist/2JrR5OwlQ3XXuDwozp9tYT
-  wikipedia: https://en.wikipedia.org/wiki/N%27Dea_Davenport
+  spotify: 'https://open.spotify.com/artist/2JrR5OwlQ3XXuDwozp9tYT'
+  wikipedia: 'https://en.wikipedia.org/wiki/N%27Dea_Davenport'
 image_path: 03_Resources/source_material/ArtistPortraits/ndea_davenport.jpg
 biography_enhanced_at: '2025-11-11T09:20:23.266813'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://www.justsoul.altervista.org/artists/ndeadavenport.htm
-- https://www.last.fm/music/N'Dea+Davenport/+wiki
-- https://www.myspiltmilk.com/articles/ndea-davenport-has-brand-new-life-with-brand-new-heavies-2
-- https://www.thecaviarspoon.com/uncategorized/ndea-davenport/
-- https://en.wikipedia.org/wiki/N%27Dea_Davenport
+  - 'http://www.justsoul.altervista.org/artists/ndeadavenport.htm'
+  - 'https://www.last.fm/music/N''Dea+Davenport/+wiki'
+  - >-
+    https://www.myspiltmilk.com/articles/ndea-davenport-has-brand-new-life-with-brand-new-heavies-2
+  - 'https://www.thecaviarspoon.com/uncategorized/ndea-davenport/'
+  - 'https://en.wikipedia.org/wiki/N%27Dea_Davenport'
 network_extracted: true
 entry_created: '2025-11-11T09:20:23.266825'
 last_updated: '2025-12-23T08:16:13.471139'
+artist_type: person
 ---
 
 ![](ndea_davenport.jpg)

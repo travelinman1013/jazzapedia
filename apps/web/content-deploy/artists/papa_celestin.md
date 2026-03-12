@@ -5,26 +5,26 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1884-01-01'
-birth_place: Louisiana
+birth_place: 'Napoleonville, Louisiana, United States'
 death_date: '1954-12-15'
 genres:
-- ragtime
+  - ragtime
 instruments:
-- eponymous
-- original
-associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 440ecab3-1ea3-45a8-a845-8c606ebf74f2
-  name: Papa Celestin and His New Orleans Jazz Band
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
-  mbid: 905dd2a4-b08d-48bd-baac-db988c659cb1
-  name: Oscar "Papa" Celestin and His Tuxedo Jazzband
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 440ecab3-1ea3-45a8-a845-8c606ebf74f2
+    name: Papa Celestin and His New Orleans Jazz Band
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 905dd2a4-b08d-48bd-baac-db988c659cb1
+    name: Oscar "Papa" Celestin and His Tuxedo Jazzband
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/papa_celestin.jpg
   caption: Papa Celestin
@@ -47,52 +47,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - William 'Baba' Ridgley
-  - Alphonse Picou
-  - Joe Oliver
+    - William 'Baba' Ridgley
+    - Alphonse Picou
+    - Joe Oliver
   influenced:
-  - Louis Armstrong
-  - Albert 'Papa' French
+    - Louis Armstrong
+    - Albert 'Papa' French
   mentors:
-  - Henry Allen Sr.
+    - Henry Allen Sr.
 spotify_data:
   followers: 1191
   id: 2Nn7FP7OOiT3NZEoBKhDHx
   popularity: 9
-  url: https://open.spotify.com/artist/2Nn7FP7OOiT3NZEoBKhDHx
+  url: 'https://open.spotify.com/artist/2Nn7FP7OOiT3NZEoBKhDHx'
 discography_enriched: true
 top_tracks:
-- Marie La Veau (Marie Laveau)
-- Savoy Blues (New Orleans Styles)
-- On A Persian Market (New Orleans Styles)
-- Short Dress Gal (The New Orleans Recordings)
-- Oh Didn't He Ramble (Marie Laveau)
-- Original Tuxedo Rag (Recorded in New Orleans 1925-1928)
-- Down by the Riverside (Marie Laveau)
-- Old Time Religion (Marie Laveau)
-- St. Louis Blues (Marie Laveau)
-- High Society (Sounds Of New Orleans, Vol. 2)
+  - Marie La Veau (Marie Laveau)
+  - Savoy Blues (New Orleans Styles)
+  - On A Persian Market (New Orleans Styles)
+  - Short Dress Gal (The New Orleans Recordings)
+  - Oh Didn't He Ramble (Marie Laveau)
+  - Original Tuxedo Rag (Recorded in New Orleans 1925-1928)
+  - Down by the Riverside (Marie Laveau)
+  - Old Time Religion (Marie Laveau)
+  - St. Louis Blues (Marie Laveau)
+  - 'High Society (Sounds Of New Orleans, Vol. 2)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1f4d662d-f5bd-4d8a-9e37-7ce7ea8d09ec
-  spotify: https://open.spotify.com/artist/2Nn7FP7OOiT3NZEoBKhDHx
-  wikipedia: https://en.wikipedia.org/wiki/Papa_Celestin
+  musicbrainz: 'https://musicbrainz.org/artist/1f4d662d-f5bd-4d8a-9e37-7ce7ea8d09ec'
+  spotify: 'https://open.spotify.com/artist/2Nn7FP7OOiT3NZEoBKhDHx'
+  wikipedia: 'https://en.wikipedia.org/wiki/Papa_Celestin'
 image_path: 03_Resources/source_material/ArtistPortraits/papa_celestin.jpg
 biography_enhanced_at: '2025-10-29T16:58:34.921192'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://64parishes.org/entry/papa-celestin
-- https://folkways-media.si.edu/docs/folkways/artwork/ARH07024.pdf
-- https://kids.kiddle.co/Papa_Celestin
-- https://flametreepro.com/personalities-papa-celestin-early-years-jazz-and-blues.html
-- https://musicrising.tulane.edu/discover/people/papa-celestin/
+  - 'https://64parishes.org/entry/papa-celestin'
+  - 'https://folkways-media.si.edu/docs/folkways/artwork/ARH07024.pdf'
+  - 'https://kids.kiddle.co/Papa_Celestin'
+  - >-
+    https://flametreepro.com/personalities-papa-celestin-early-years-jazz-and-blues.html
+  - 'https://musicrising.tulane.edu/discover/people/papa-celestin/'
 network_extracted: true
 entry_created: '2025-10-29T16:58:34.921201'
 last_updated: '2025-12-23T08:16:13.920387'
 gender: Male
 musicbrainz_id: 1f4d662d-f5bd-4d8a-9e37-7ce7ea8d09ec
 tags:
-- jazz
+  - jazz
+is_active: false
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](papa_celestin.jpg)

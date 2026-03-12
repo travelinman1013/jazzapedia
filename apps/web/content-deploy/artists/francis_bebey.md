@@ -1,14 +1,14 @@
 ---
-title: francis bebey
+title: Francis Bebey
 wiki_slug: francis-bebey
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1929-07-15'
-birth_place: Douala
+birth_place: 'Douala, Cameroon'
 death_date: '2001-05-28'
 genres:
-- bikutsi
+  - bikutsi
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/francis_bebey.jpg
   caption: francis bebey
@@ -31,51 +31,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Manu Dibango
+    - Manu Dibango
   influenced:
-  - Patrick Bebey
-  - Central African Pygmy musicians
+    - Patrick Bebey
+    - Central African Pygmy musicians
   mentors:
-  - Andrés Segovia
+    - Andrés Segovia
 spotify_data:
   followers: 63525
   id: 0mdmrbu5UZ32uRcRp2z6mr
   popularity: 32
-  url: https://open.spotify.com/artist/0mdmrbu5UZ32uRcRp2z6mr
+  url: 'https://open.spotify.com/artist/0mdmrbu5UZ32uRcRp2z6mr'
 discography_enriched: true
 top_tracks:
-- The Coffee Cola Song (African Electronic Music 1975 - 1982)
-- Pygmy Love Song (African Electronic Music 1975 - 1982)
-- Forest Nativity (Psychedelic Zanzu 1982-1984)
-- Sanza Nocturne (Psychedelic Zanzu 1982-1984)
-- Sanza Tristesse (Psychedelic Zanzu 1982-1984)
-- Forest Nativity (Extended Version) (Trésor Magnétique)
-- Fleur Tropical (African Electronic Music 1975 - 1982)
-- Sanza Nocturne (Sanza Nocturne)
-- Le Grand Soleil De Dieu (Trésor Magnétique)
-- La Condition Masculine (English Version) (Trésor Magnétique)
+  - The Coffee Cola Song (African Electronic Music 1975 - 1982)
+  - Pygmy Love Song (African Electronic Music 1975 - 1982)
+  - Forest Nativity (Psychedelic Zanzu 1982-1984)
+  - Sanza Nocturne (Psychedelic Zanzu 1982-1984)
+  - Sanza Tristesse (Psychedelic Zanzu 1982-1984)
+  - Forest Nativity (Extended Version) (Trésor Magnétique)
+  - Fleur Tropical (African Electronic Music 1975 - 1982)
+  - Sanza Nocturne (Sanza Nocturne)
+  - Le Grand Soleil De Dieu (Trésor Magnétique)
+  - La Condition Masculine (English Version) (Trésor Magnétique)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/fab6adab-b46f-45f8-8700-bc44408ba583
-  spotify: https://open.spotify.com/artist/0mdmrbu5UZ32uRcRp2z6mr
-  wikipedia: https://en.wikipedia.org/wiki/Francis_Bebey
+  musicbrainz: 'https://musicbrainz.org/artist/fab6adab-b46f-45f8-8700-bc44408ba583'
+  spotify: 'https://open.spotify.com/artist/0mdmrbu5UZ32uRcRp2z6mr'
+  wikipedia: 'https://en.wikipedia.org/wiki/Francis_Bebey'
 image_path: 03_Resources/source_material/ArtistPortraits/francis_bebey.jpg
 biography_enhanced_at: '2025-11-14T10:45:50.672246'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Francis_Bebey
-- https://www.vermontpublic.org/podcast/timeline/2021-11-01/timeline-francis-bebey-1929-2001
-- https://www.britannica.com/biography/Francis-Bebey
-- https://bibliolore.org/2025/06/18/francis-bebey-globalizes-african-music/
-- https://www.ascleiden.nl/content/library-weekly/francis-bebey
-- https://daily.bandcamp.com/features/francis-bebey-tresor-magnetique-interview
-- https://afropop.org/articles/new-revelations-from-the-late-francis-bebey
-- https://centerforcassettestudies.com/2018/10/17/the-prolific-life-genius-of-francis-bebey
+  - 'https://en.wikipedia.org/wiki/Francis_Bebey'
+  - >-
+    https://www.vermontpublic.org/podcast/timeline/2021-11-01/timeline-francis-bebey-1929-2001
+  - 'https://www.britannica.com/biography/Francis-Bebey'
+  - 'https://bibliolore.org/2025/06/18/francis-bebey-globalizes-african-music/'
+  - 'https://www.ascleiden.nl/content/library-weekly/francis-bebey'
+  - >-
+    https://daily.bandcamp.com/features/francis-bebey-tresor-magnetique-interview
+  - 'https://afropop.org/articles/new-revelations-from-the-late-francis-bebey'
+  - >-
+    https://centerforcassettestudies.com/2018/10/17/the-prolific-life-genius-of-francis-bebey
 network_extracted: true
 entry_created: '2025-11-14T10:45:50.672253'
 last_updated: '2025-12-23T08:16:08.742418'
 gender: Male
 musicbrainz_id: fab6adab-b46f-45f8-8700-bc44408ba583
+is_active: false
 ---
 
 ![](francis_bebey.jpg)

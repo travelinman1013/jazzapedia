@@ -4,15 +4,15 @@ wiki_slug: charles-mann
 schema_version: 2
 status: active
 aliases: []
-birth_place: Welsh, Louisiana, United States
+birth_place: 'Welsh, Louisiana, United States'
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Charles_Mann.jpg
   caption: Charles Mann
   background: solo_singer
-  origin: Welsh, Louisiana, United States
+  origin: 'Welsh, Louisiana, United States'
 audio_profile:
   tempo_avg: 113.9
   energy_avg: 0.542
@@ -28,52 +28,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Eltradoors
-  - Ricky and the Hound Dogs
-  - Timmy Broussard
+    - The Eltradoors
+    - Ricky and the Hound Dogs
+    - Timmy Broussard
   influenced:
-  - Swamp Pop Genre Artists
+    - Swamp Pop Genre Artists
   mentors:
-  - Lee Lanor
+    - Lee Lanor
 related_artists: []
 spotify_data:
   followers: 950
   id: 1nz6N5zLoFiAHC2jXHIHGC
   popularity: 13
-  url: https://open.spotify.com/artist/1nz6N5zLoFiAHC2jXHIHGC
+  url: 'https://open.spotify.com/artist/1nz6N5zLoFiAHC2jXHIHGC'
   verified: false
 discography_enriched: true
 albums_count: 3
 singles_count: 0
 top_tracks:
-- Red Red Wine (The Best of Swamp Pop Classics)
-- Walk of Life (The Best of Swamp Pop Classics)
-- Keep Your Arms Around Me (The Best of Swamp Pop Classics)
-- Got You on My Mind (Swamp Poppin')
-- Sho Nuff No Funny Stuff (Meat Me Down The Disco (Mixed by Horse Meat Disco))
-- Hey Baby (Swamp Pop King, Vol. 1)
-- Walk of Life (Swamp Pop King, Vol. 1)
-- Red Red Wine (Swamp Pop King, Vol. 1)
-- Mathilda (Swamp Poppin')
-- Keep Your Arms Around Me (Swamp Pop King, Vol. 1)
+  - Red Red Wine (The Best of Swamp Pop Classics)
+  - Walk of Life (The Best of Swamp Pop Classics)
+  - Keep Your Arms Around Me (The Best of Swamp Pop Classics)
+  - Got You on My Mind (Swamp Poppin')
+  - Sho Nuff No Funny Stuff (Meat Me Down The Disco (Mixed by Horse Meat Disco))
+  - 'Hey Baby (Swamp Pop King, Vol. 1)'
+  - 'Walk of Life (Swamp Pop King, Vol. 1)'
+  - 'Red Red Wine (Swamp Pop King, Vol. 1)'
+  - Mathilda (Swamp Poppin')
+  - 'Keep Your Arms Around Me (Swamp Pop King, Vol. 1)'
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/1nz6N5zLoFiAHC2jXHIHGC
-  wikipedia: https://en.wikipedia.org/wiki/Charles_Mann_(singer)
+  spotify: 'https://open.spotify.com/artist/1nz6N5zLoFiAHC2jXHIHGC'
+  wikipedia: 'https://en.wikipedia.org/wiki/Charles_Mann_(singer)'
 image_path: 03_Resources/source_material/ArtistPortraits/Charles_Mann.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:12:16.634059'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia
-- Dire Straits Blog
-- Official Charles Mann Website
-- Flat Town Music
+  - Wikipedia
+  - Dire Straits Blog
+  - Official Charles Mann Website
+  - Flat Town Music
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 15:23:21.311456
+entry_created: 2025-09-18T15:23:21.311Z
 last_updated: '2025-12-23T08:16:01.489803'
+artist_type: person
 ---
 
 ![](Charles_Mann.jpg)

@@ -1,11 +1,11 @@
 ---
-title: les Freres Michot
+title: Les Freres Michot
 wiki_slug: les-freres-michot
 schema_version: 2
 status: active
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/les_freres_michot.jpg
   caption: les Freres Michot
@@ -25,49 +25,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - André Michot
-  - Louis Michot
-  - Patrick Michot
+    - André Michot
+    - Louis Michot
+    - Patrick Michot
   influenced:
-  - Lost Bayou Ramblers
-  - Michot's Melody Makers
+    - Lost Bayou Ramblers
+    - Michot's Melody Makers
   mentors:
-  - Dewey Balfa
-  - Zachary Richard
+    - Dewey Balfa
+    - Zachary Richard
 spotify_data:
   followers: 199
   id: 4LxSEfChEqY0XJdtQGz8vb
   popularity: 1
-  url: https://open.spotify.com/artist/4LxSEfChEqY0XJdtQGz8vb
+  url: 'https://open.spotify.com/artist/4LxSEfChEqY0XJdtQGz8vb'
 discography_enriched: true
 top_tracks:
-- Danse De Mardi Gras (Elevés à Pilette)
-- Le Reel a Patrick (Elevés à Pilette)
-- La jument de Michot (La roue qui pend)
-- J'irais la voir un jour (La roue qui pend)
-- J'etais Au Bal (Elevés à Pilette)
-- La Valse a Howard Hebert (Elevés à Pilette)
-- Two-step De Ste. Marie (Elevés à Pilette)
-- Une Livre De Tabac (Elevés à Pilette)
-- Two-step De Cote Gelee (Elevés à Pilette)
-- Two-step De Pilette (Elevés à Pilette)
+  - Danse De Mardi Gras (Elevés à Pilette)
+  - Le Reel a Patrick (Elevés à Pilette)
+  - La jument de Michot (La roue qui pend)
+  - J'irais la voir un jour (La roue qui pend)
+  - J'etais Au Bal (Elevés à Pilette)
+  - La Valse a Howard Hebert (Elevés à Pilette)
+  - Two-step De Ste. Marie (Elevés à Pilette)
+  - Une Livre De Tabac (Elevés à Pilette)
+  - Two-step De Cote Gelee (Elevés à Pilette)
+  - Two-step De Pilette (Elevés à Pilette)
 external_urls:
-  spotify: https://open.spotify.com/artist/4LxSEfChEqY0XJdtQGz8vb
+  spotify: 'https://open.spotify.com/artist/4LxSEfChEqY0XJdtQGz8vb'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/les_freres_michot.jpg
 biography_enhanced_at: '2025-10-27T02:30:37.207961'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://tcmichot.wixsite.com/lesfreresmichot/history
-- https://www.hideawayonlee.com/events/les-freres-michot
-- https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/lesfreresmichot.htm.html
-- https://rockandrollglobe.com/blues/deep-in-the-heart-of-cajun-country-with-michots-melody-makers/
-- https://kreolmagazine.com/music-entertainment/musicians/louis-michot-a-true-creole-musician/
+  - 'https://tcmichot.wixsite.com/lesfreresmichot/history'
+  - 'https://www.hideawayonlee.com/events/les-freres-michot'
+  - >-
+    https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/lesfreresmichot.htm.html
+  - >-
+    https://rockandrollglobe.com/blues/deep-in-the-heart-of-cajun-country-with-michots-melody-makers/
+  - >-
+    https://kreolmagazine.com/music-entertainment/musicians/louis-michot-a-true-creole-musician/
 network_extracted: true
 entry_created: '2025-10-27T02:30:37.207975'
 last_updated: '2025-12-23T08:16:11.843594'
-origin: Pilette, Lafayette Parish, Louisiana, USA
+origin: 'Pilette, Lafayette Parish, Louisiana, USA'
+artist_type: band
 ---
 
 ![](les_freres_michot.jpg)

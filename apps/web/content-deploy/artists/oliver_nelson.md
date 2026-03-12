@@ -1,41 +1,43 @@
 ---
 biography_enhanced_at: '2025-12-26T01:21:56.204070'
-birth_place: St. Louis, Missouri, United States
+birth_place: 'St. Louis, Missouri, United States'
 enhancement_provider: perplexity
 entry_created: '2025-12-26T01:21:56.204077'
 external_urls:
-  spotify: https://open.spotify.com/artist/4QAp87iZerUP9PKxtLhmW1
-  wikipedia: https://en.wikipedia.org/wiki/Oliver_Nelson
+  spotify: 'https://open.spotify.com/artist/4QAp87iZerUP9PKxtLhmW1'
+  wikipedia: 'https://en.wikipedia.org/wiki/Oliver_Nelson'
 genres:
-- nu disco
+  - nu disco
 image_path: 03_Resources/source_material/ArtistPortraits/oliver_nelson.jpg
 last_updated: '2025-12-26T01:21:56.204077'
 musical_connections:
   collaborators:
-  - Eric Dolphy
-  - Bill Evans
-  - Freddie Hubbard
-  - Quincy Jones
-  - Count Basie
-  - Duke Ellington
+    - Eric Dolphy
+    - Bill Evans
+    - Freddie Hubbard
+    - Quincy Jones
+    - Count Basie
+    - Duke Ellington
   influenced: []
   mentors:
-  - Elliott Carter
-  - Robert Wykes
-  - George Tremblay
+    - Elliott Carter
+    - Robert Wykes
+    - George Tremblay
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Oliver_Nelson
-- https://www.allmusic.com/artist/oliver-nelson-mn0000398615
-- https://nightisalive.com/who-was-oliver-nelson-a-look-at-a-great-jazz-saxophone-players-life/
+  - 'https://en.wikipedia.org/wiki/Oliver_Nelson'
+  - 'https://www.allmusic.com/artist/oliver-nelson-mn0000398615'
+  - >-
+    https://nightisalive.com/who-was-oliver-nelson-a-look-at-a-great-jazz-saxophone-players-life/
 spotify_data:
   followers: 33520
   id: 4QAp87iZerUP9PKxtLhmW1
   popularity: 48
-  url: https://open.spotify.com/artist/4QAp87iZerUP9PKxtLhmW1
+  url: 'https://open.spotify.com/artist/4QAp87iZerUP9PKxtLhmW1'
 status: active
 title: Oliver Nelson
+artist_type: person
 ---
 
 ![](oliver_nelson.jpg)

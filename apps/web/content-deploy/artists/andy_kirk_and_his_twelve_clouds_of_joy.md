@@ -1,18 +1,19 @@
 ---
-title: ANDY KIRK AND HIS TWELVE CLOUDS OF JOY
+title: Andy Kirk and His Twelve Clouds OF Joy
 wiki_slug: andy-kirk-and-his-twelve-clouds-of-joy
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
-birth_date: '1929'
+birth_date: '1898-05-28'
 genres:
-- swing music
-- big band
+  - swing music
+  - big band
 instruments:
-- eponymous
-- original
+  - eponymous
+  - original
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/andy_kirk_and_his_twelve_clouds_of_joy.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/andy_kirk_and_his_twelve_clouds_of_joy.jpg
   caption: ANDY KIRK AND HIS TWELVE CLOUDS OF JOY
   background: group_or_band
   born: '1929'
@@ -23,7 +24,7 @@ audio_profile:
   danceability_avg: 0.7
   acousticness_avg: 0.935
   instrumentalness_avg: 0.561
-  loudness_avg: -12.0
+  loudness_avg: -12
   speechiness_avg: 0.078
   liveness_avg: 0.149
   track_count: 49
@@ -31,138 +32,143 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mary Lou Williams
-  - Pha Terrell
-  - John Williams
-  - Claude Williams
-  - Edgar "Puddinghead" Battle
-  - Ben Thigpen
-  - Howard McGhee
-  - Dick Wilson
-  - Floyd Smith
-  - Shorty Baker
-  - Jimmy Forrest
-  - Don Byas
-  - Fats Navarro
-  - Charlie Parker
+    - Mary Lou Williams
+    - Pha Terrell
+    - John Williams
+    - Claude Williams
+    - Edgar "Puddinghead" Battle
+    - Ben Thigpen
+    - Howard McGhee
+    - Dick Wilson
+    - Floyd Smith
+    - Shorty Baker
+    - Jimmy Forrest
+    - Don Byas
+    - Fats Navarro
+    - Charlie Parker
   influenced:
-  - Mary Lou Williams
-  - Kansas City jazz musicians
-  - Count Basie
+    - Mary Lou Williams
+    - Kansas City jazz musicians
+    - Count Basie
   mentors:
-  - Wilberforce Whiteman
+    - Wilberforce Whiteman
 spotify_data:
   followers: 773
   id: 5BLxI2VvgXQtMp8N4k54N8
   popularity: 10
-  url: https://open.spotify.com/artist/5BLxI2VvgXQtMp8N4k54N8
+  url: 'https://open.spotify.com/artist/5BLxI2VvgXQtMp8N4k54N8'
 discography_enriched: true
 top_tracks:
-- Mess-a-Stomp (The Mary Lou Williams Collection 1927-59)
-- Walkin' And Swingin' (1930-1941)
-- All the Jive Is Gone (The Ultimate 30's & 40's Reefer Songs)
-- Cloudy (Clouds of Rhythm)
-- Corky Stomp (Clouds of Rhythm)
-- Dallas Blues (Clouds of Rhythm)
-- Bearcat Shuffle (1930-1941)
-- Little Joe From Chicago (1930-1941)
-- Blue Clarinet Stomp (Clouds of Rhythm)
-- Once or Twice (Clouds of Rhythm)
+  - Mess-a-Stomp (The Mary Lou Williams Collection 1927-59)
+  - Walkin' And Swingin' (1930-1941)
+  - All the Jive Is Gone (The Ultimate 30's & 40's Reefer Songs)
+  - Cloudy (Clouds of Rhythm)
+  - Corky Stomp (Clouds of Rhythm)
+  - Dallas Blues (Clouds of Rhythm)
+  - Bearcat Shuffle (1930-1941)
+  - Little Joe From Chicago (1930-1941)
+  - Blue Clarinet Stomp (Clouds of Rhythm)
+  - Once or Twice (Clouds of Rhythm)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1fcd85ee-73b8-41bc-b359-68392d0dec6b
-  spotify: https://open.spotify.com/artist/5BLxI2VvgXQtMp8N4k54N8
-  wikipedia: https://en.wikipedia.org/wiki/Andy_Kirk_(musician)
-image_path: 03_Resources/source_material/ArtistPortraits/andy_kirk_and_his_twelve_clouds_of_joy.jpg
+  musicbrainz: 'https://musicbrainz.org/artist/1fcd85ee-73b8-41bc-b359-68392d0dec6b'
+  spotify: 'https://open.spotify.com/artist/5BLxI2VvgXQtMp8N4k54N8'
+  wikipedia: 'https://en.wikipedia.org/wiki/Andy_Kirk_(musician)'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/andy_kirk_and_his_twelve_clouds_of_joy.jpg
 biography_enhanced_at: '2025-11-20T06:33:47.687291'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Andy_Kirk_(musician)
-- https://kcblackhistory.org/articles/andy-kirk
-- https://www.arts.gov/honors/jazz/andy-kirk
-- https://allaboutjazz.com/musicians/andy-kirk/
-- https://syncopatedtimes.com/andy-kirk-and-his-twelve-clouds-of-joy-1929-1931/
+  - 'https://en.wikipedia.org/wiki/Andy_Kirk_(musician)'
+  - 'https://kcblackhistory.org/articles/andy-kirk'
+  - 'https://www.arts.gov/honors/jazz/andy-kirk'
+  - 'https://allaboutjazz.com/musicians/andy-kirk/'
+  - >-
+    https://syncopatedtimes.com/andy-kirk-and-his-twelve-clouds-of-joy-1929-1931/
 network_extracted: true
 entry_created: '2025-11-20T06:33:47.687302'
 last_updated: '2025-12-23T08:16:04.799072'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2fb02e8b-9478-4c3b-94b6-5243eeaa9656
-  name: Johnny Burris
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1c499bdb-bd61-4ce4-9b23-0378c4a05926
-  name: William Dirvin
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 97d35cb5-2ce6-4fb5-adae-a3b5b262fb87
-  name: Allen Durham
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b29a71b6-46db-4547-b568-8db87bc80fc1
-  name: Lawrence Freeman
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 10a7aaa5-992e-41c0-b217-ac82ceec9190
-  name: John Harrington
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 13e6015e-569c-4cf6-bf45-d4e6253675e4
-  name: Harry Lawson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: acb569cb-52b7-4638-ad82-0502fcfbfcf7
-  name: Edward McNeil
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f2b57e78-05d0-46dc-890f-81145514666e
-  name: Gene Prince
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ee7cfffd-ad22-438f-a597-36681ac0c706
-  name: Milton Robinson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1c933c78-9a82-4110-adfe-c1fa0ffc0da9
-  name: Ben Smith
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b11f8d09-f197-4abe-88b9-1dd9f1821311
-  name: Claude Williams
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 47a7bb01-92cb-4999-9886-117a7c3f76a6
-  name: John Williams
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4a0c1055-ec66-47a0-a668-c60f48477ed2
-  name: Mary Lou Williams
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: ad248993-817e-4e86-a267-000b19b8820c
-  name: Andy Kirk
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2fb02e8b-9478-4c3b-94b6-5243eeaa9656
+    name: Johnny Burris
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1c499bdb-bd61-4ce4-9b23-0378c4a05926
+    name: William Dirvin
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 97d35cb5-2ce6-4fb5-adae-a3b5b262fb87
+    name: Allen Durham
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b29a71b6-46db-4547-b568-8db87bc80fc1
+    name: Lawrence Freeman
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 10a7aaa5-992e-41c0-b217-ac82ceec9190
+    name: John Harrington
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 13e6015e-569c-4cf6-bf45-d4e6253675e4
+    name: Harry Lawson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: acb569cb-52b7-4638-ad82-0502fcfbfcf7
+    name: Edward McNeil
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f2b57e78-05d0-46dc-890f-81145514666e
+    name: Gene Prince
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ee7cfffd-ad22-438f-a597-36681ac0c706
+    name: Milton Robinson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1c933c78-9a82-4110-adfe-c1fa0ffc0da9
+    name: Ben Smith
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b11f8d09-f197-4abe-88b9-1dd9f1821311
+    name: Claude Williams
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 47a7bb01-92cb-4999-9886-117a7c3f76a6
+    name: John Williams
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4a0c1055-ec66-47a0-a668-c60f48477ed2
+    name: Mary Lou Williams
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: ad248993-817e-4e86-a267-000b19b8820c
+    name: Andy Kirk
 musicbrainz_id: 1fcd85ee-73b8-41bc-b359-68392d0dec6b
-origin: Kansas City, Missouri, USA (band origin); Newport, Kentucky, USA (Kirk's birthplace)
+origin: >-
+  Kansas City, Missouri, USA (band origin); Newport, Kentucky, USA (Kirk's
+  birthplace)
 tags:
-- big band
-- jazz
+  - big band
+  - jazz
+birth_place: 'Newport, Kentucky, United States'
 ---
 
 ![](andy_kirk_and_his_twelve_clouds_of_joy.jpg)

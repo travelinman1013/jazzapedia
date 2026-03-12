@@ -1,27 +1,27 @@
 ---
-title: luther allison
+title: Luther Allison
 wiki_slug: luther-allison
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1939-08-17'
-birth_place: Widener
+birth_place: 'Widener, Arkansas, United States'
 death_date: '1997-08-12'
 genres:
-- blues
-- classic blues
-- modern blues
-- blues rock
+  - blues
+  - classic blues
+  - modern blues
+  - blues rock
 instruments:
-- guitar
-- acoustic guitar
-- lead vocals
+  - guitar
+  - acoustic guitar
+  - lead vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: fdfbf047-c6a7-4a29-b4ed-fb35f8052adb
-  name: Luther Allison and The Blue Nebulae
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: fdfbf047-c6a7-4a29-b4ed-fb35f8052adb
+    name: Luther Allison and The Blue Nebulae
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/luther_allison.jpg
   caption: luther allison
@@ -44,57 +44,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Magic Sam
-  - Otis Rush
-  - James Cotton
-  - Shakey Jake Harris
-  - Sunnyland Slim
+    - Magic Sam
+    - Otis Rush
+    - James Cotton
+    - Shakey Jake Harris
+    - Sunnyland Slim
   influenced:
-  - Bernard Allison
+    - Bernard Allison
   mentors:
-  - Freddie King
-  - Muddy Waters
-  - Howlin' Wolf
+    - Freddie King
+    - Muddy Waters
+    - Howlin' Wolf
 spotify_data:
   followers: 86137
   id: 7EynH3keqfKUmauyaeZoxv
   popularity: 36
-  url: https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv
+  url: 'https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv'
 discography_enriched: true
 top_tracks:
-- Bad News Is Coming (Bad News Is Coming)
-- Life Is A Bitch (Serious)
-- You Can't Always Get What You Want
-- Living in the House of Blues - Live (Songs from the Road)
-- Should I Wait (The Alligator Records Years)
-- It's Been A Long Time (Bad News Is Coming)
-- Bad News Is Coming - Live (Live in Montreux 1976-1994)
-- Let's Try Again (Serious)
-- Sweet Home Chicago (Bad News Is Coming)
-- Part Time Love (The Motown Years 1972-1976)
+  - Bad News Is Coming (Bad News Is Coming)
+  - Life Is A Bitch (Serious)
+  - You Can't Always Get What You Want
+  - Living in the House of Blues - Live (Songs from the Road)
+  - Should I Wait (The Alligator Records Years)
+  - It's Been A Long Time (Bad News Is Coming)
+  - Bad News Is Coming - Live (Live in Montreux 1976-1994)
+  - Let's Try Again (Serious)
+  - Sweet Home Chicago (Bad News Is Coming)
+  - Part Time Love (The Motown Years 1972-1976)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/11cb567e-ecac-4226-8944-f862440e8bca
-  spotify: https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv
-  wikipedia: https://en.wikipedia.org/wiki/Luther_Allison
+  musicbrainz: 'https://musicbrainz.org/artist/11cb567e-ecac-4226-8944-f862440e8bca'
+  spotify: 'https://open.spotify.com/artist/7EynH3keqfKUmauyaeZoxv'
+  wikipedia: 'https://en.wikipedia.org/wiki/Luther_Allison'
 image_path: 03_Resources/source_material/ArtistPortraits/luther_allison.jpg
 biography_enhanced_at: '2025-10-29T16:51:41.305832'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Luther_Allison
-- https://blues.org/blues_hof_inductee/luther-allison/
-- https://mojohand.com/glossary/luther-allison/
-- https://wordpress.rufrecords.de/en/luther-allison-e-2/
-- https://www.alligator.com/artists/Luther-Allison/
+  - 'https://en.wikipedia.org/wiki/Luther_Allison'
+  - 'https://blues.org/blues_hof_inductee/luther-allison/'
+  - 'https://mojohand.com/glossary/luther-allison/'
+  - 'https://wordpress.rufrecords.de/en/luther-allison-e-2/'
+  - 'https://www.alligator.com/artists/Luther-Allison/'
 network_extracted: true
 entry_created: '2025-10-29T16:51:41.305841'
 last_updated: '2025-12-23T08:16:12.383400'
 gender: Male
 musicbrainz_id: 11cb567e-ecac-4226-8944-f862440e8bca
 tags:
-- blues
-- blues rock
-- chicago blues
+  - blues
+  - blues rock
+  - chicago blues
+is_active: false
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](luther_allison.jpg)

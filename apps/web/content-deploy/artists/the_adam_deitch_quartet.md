@@ -4,7 +4,7 @@ wiki_slug: the-adam-deitch-quartet
 schema_version: 2
 status: active
 genres:
-- jazz funk
+  - jazz funk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_adam_deitch_quartet.jpg
   caption: The Adam Deitch Quartet
@@ -24,51 +24,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Wil Blades
-  - Ryan Zoidis
-  - Eric “Benny” Bloom
-  - John Scofield
-  - Lettuce
+    - Wil Blades
+    - Ryan Zoidis
+    - Eric “Benny” Bloom
+    - John Scofield
+    - Lettuce
   influenced:
-  - Younger funk and jam‑scene drummers (general category)
+    - Younger funk and jam‑scene drummers (general category)
   mentors:
-  - John Scofield
+    - John Scofield
 spotify_data:
   followers: 3366
   id: 2nISQyjriLnuUWKZ4zS2fK
   popularity: 7
-  url: https://open.spotify.com/artist/2nISQyjriLnuUWKZ4zS2fK
+  url: 'https://open.spotify.com/artist/2nISQyjriLnuUWKZ4zS2fK'
 discography_enriched: true
 top_tracks:
-- Mushroom Gravy (Roll The Tape)
-- Lay It Back (Roll The Tape)
-- Roll The Tape (Roll The Tape)
-- Play on Playa (Roll The Tape)
-- The Way You Make Me Feel (Egyptian Secrets)
-- The Green Light (Roll The Tape)
-- Alone Together (Roll The Tape)
-- Have Faith (Roll The Tape)
-- Egyptian Secrets (Egyptian Secrets)
-- Fear of the Blades (Egyptian Secrets)
+  - Mushroom Gravy (Roll The Tape)
+  - Lay It Back (Roll The Tape)
+  - Roll The Tape (Roll The Tape)
+  - Play on Playa (Roll The Tape)
+  - The Way You Make Me Feel (Egyptian Secrets)
+  - The Green Light (Roll The Tape)
+  - Alone Together (Roll The Tape)
+  - Have Faith (Roll The Tape)
+  - Egyptian Secrets (Egyptian Secrets)
+  - Fear of the Blades (Egyptian Secrets)
 external_urls:
-  spotify: https://open.spotify.com/artist/2nISQyjriLnuUWKZ4zS2fK
-  wikipedia: https://en.wikipedia.org/wiki/Adam_Deitch
+  spotify: 'https://open.spotify.com/artist/2nISQyjriLnuUWKZ4zS2fK'
+  wikipedia: 'https://en.wikipedia.org/wiki/Adam_Deitch'
 image_path: 03_Resources/source_material/ArtistPortraits/the_adam_deitch_quartet.jpg
 biography_enhanced_at: '2025-12-13T10:47:24.725284'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Adam_Deitch
-- https://www.moderndrummer.com/2018/10/on-the-beat-adam-deitch-of-lettuce-talks-new-project-album-and-tour/
-- https://www.allaboutjazz.com/scary-goldings-and-the-adam-deitch-quartet-funky-but-chic
-- https://relix.com/reviews/detail/the-adam-deitch-quartet-egyptian-secrets/
-- https://vicfirth.com/blogs/artist/adam-deitch-vf
-- https://college.berklee.edu/bt/192/alum_profile1.html
-- https://www.kuvo.org/events/the-adam-deitch-quartet-1
+  - 'https://en.wikipedia.org/wiki/Adam_Deitch'
+  - >-
+    https://www.moderndrummer.com/2018/10/on-the-beat-adam-deitch-of-lettuce-talks-new-project-album-and-tour/
+  - >-
+    https://www.allaboutjazz.com/scary-goldings-and-the-adam-deitch-quartet-funky-but-chic
+  - 'https://relix.com/reviews/detail/the-adam-deitch-quartet-egyptian-secrets/'
+  - 'https://vicfirth.com/blogs/artist/adam-deitch-vf'
+  - 'https://college.berklee.edu/bt/192/alum_profile1.html'
+  - 'https://www.kuvo.org/events/the-adam-deitch-quartet-1'
 network_extracted: true
 entry_created: '2025-12-13T10:47:24.725295'
 last_updated: '2025-12-23T08:16:16.511602'
-origin: Denver, Colorado, United States (base of bandleader Adam Deitch; project’s working origin)
+origin: >-
+  Denver, Colorado, United States (base of bandleader Adam Deitch; project’s
+  working origin)
+artist_type: band
 ---
 
 ![](the_adam_deitch_quartet.jpg)

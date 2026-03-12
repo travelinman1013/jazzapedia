@@ -1,15 +1,16 @@
 ---
-title: WES MONTGOMERY & MILT JACKSON
+title: Wes Montgomery & Milt Jackson
 wiki_slug: wes-montgomery-milt-jackson
 schema_version: 2
 status: active
 genres:
-- jazz blues
-- jazz
-- hard bop
-- cool jazz
+  - jazz blues
+  - jazz
+  - hard bop
+  - cool jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/wes_montgomery_and_milt_jackson.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/wes_montgomery_and_milt_jackson.jpg
   caption: WES MONTGOMERY & MILT JACKSON
   background: solo_singer
 audio_profile:
@@ -27,51 +28,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Milt Jackson
-  - Buddy Montgomery
-  - Monk Montgomery
-  - Melvin Rhyne
+    - Milt Jackson
+    - Buddy Montgomery
+    - Monk Montgomery
+    - Melvin Rhyne
   influenced:
-  - Pat Metheny
-  - George Benson
-  - Jimi Hendrix
+    - Pat Metheny
+    - George Benson
+    - Jimi Hendrix
   mentors:
-  - Charlie Christian
+    - Charlie Christian
 spotify_data:
   followers: 45455
   id: 6WbUlW1uuChmQumXueDmgp
   popularity: 40
-  url: https://open.spotify.com/artist/6WbUlW1uuChmQumXueDmgp
+  url: 'https://open.spotify.com/artist/6WbUlW1uuChmQumXueDmgp'
 discography_enriched: true
 top_tracks:
-- '''Round Midnight (The Wes Montgomery Trio (Expanded Edition))'
-- Mi Cosa - Take 1 (Guitar On The Go)
-- Satin Doll - Take 7 (The Wes Montgomery Trio (Expanded Edition))
-- Dreamsville (Guitar On The Go)
-- Yesterdays (The Wes Montgomery Trio (Expanded Edition))
-- Geno (Guitar On The Go)
-- The End Of A Love Affair (The Wes Montgomery Trio (Expanded Edition))
-- Ecaroh (The Wes Montgomery Trio (Expanded Edition))
-- For All We Know (Guitar On The Go)
-- Whisper Not (The Wes Montgomery Trio (Expanded Edition))
+  - '''Round Midnight (The Wes Montgomery Trio (Expanded Edition))'
+  - Mi Cosa - Take 1 (Guitar On The Go)
+  - Satin Doll - Take 7 (The Wes Montgomery Trio (Expanded Edition))
+  - Dreamsville (Guitar On The Go)
+  - Yesterdays (The Wes Montgomery Trio (Expanded Edition))
+  - Geno (Guitar On The Go)
+  - The End Of A Love Affair (The Wes Montgomery Trio (Expanded Edition))
+  - Ecaroh (The Wes Montgomery Trio (Expanded Edition))
+  - For All We Know (Guitar On The Go)
+  - Whisper Not (The Wes Montgomery Trio (Expanded Edition))
 external_urls:
-  spotify: https://open.spotify.com/artist/6WbUlW1uuChmQumXueDmgp
-  wikipedia: https://en.wikipedia.org/wiki/Bags_Meets_Wes!
-image_path: 03_Resources/source_material/ArtistPortraits/wes_montgomery_and_milt_jackson.jpg
+  spotify: 'https://open.spotify.com/artist/6WbUlW1uuChmQumXueDmgp'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bags_Meets_Wes!'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/wes_montgomery_and_milt_jackson.jpg
 biography_enhanced_at: '2025-11-11T09:26:38.080278'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://jazzatelier.com/2011/09/25/wes-montgomery-biogaphy/
-- https://en.wikipedia.org/wiki/Wes_Montgomery
-- https://en.wikipedia.org/wiki/Bags_Meets_Wes!
-- https://newyorkjazzworkshop.com/wes-montgomery-1925-1968/
-- https://londonjazzcollector.wordpress.com/2012/03/26/wes-montgomery-milt-jackson-bags-meets-wes-1961/
-- https://www.jazzstandards.com/biographies/biography_656.htm
+  - 'https://jazzatelier.com/2011/09/25/wes-montgomery-biogaphy/'
+  - 'https://en.wikipedia.org/wiki/Wes_Montgomery'
+  - 'https://en.wikipedia.org/wiki/Bags_Meets_Wes!'
+  - 'https://newyorkjazzworkshop.com/wes-montgomery-1925-1968/'
+  - >-
+    https://londonjazzcollector.wordpress.com/2012/03/26/wes-montgomery-milt-jackson-bags-meets-wes-1961/
+  - 'https://www.jazzstandards.com/biographies/biography_656.htm'
 network_extracted: true
 entry_created: '2025-11-11T09:26:38.080282'
 last_updated: '2025-12-23T08:16:18.082273'
-origin: Indianapolis, Indiana, United States (Wes Montgomery); Detroit, Michigan, United States (Milt Jackson)
+origin: >-
+  Indianapolis, Indiana, United States (Wes Montgomery); Detroit, Michigan,
+  United States (Milt Jackson)
+birth_place: 'Indianapolis, Indiana, United States'
+artist_type: person
 ---
 
 ![](wes_montgomery_and_milt_jackson.jpg)

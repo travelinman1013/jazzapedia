@@ -5,25 +5,25 @@ schema_version: 2
 status: deceased
 aliases: []
 birth_date: '1955-09-02'
-birth_place: Weaverville, North Carolina, United States
+birth_place: 'Weaverville, North Carolina, United States'
 death_date: '2024-03-09'
 years_active: 1984–2024
 genres:
-- americana
-- alt country
+  - americana
+  - alt country
 instruments:
-- guitar
-- voice
+  - guitar
+  - voice
 occupation:
-- guitarist
-- singer-songwriter
-- singer
+  - guitarist
+  - singer-songwriter
+  - singer
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Malcolm_Holcombe.jpg
   caption: Malcolm Holcombe
   background: solo_singer
   born: '1955-09-02'
-  origin: Weaverville, North Carolina, United States
+  origin: 'Weaverville, North Carolina, United States'
   died: '2024-03-09'
 audio_profile:
   tempo_avg: 114.9
@@ -40,56 +40,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jared Tyler
-  - Sam Milner
-  - Ray Sisk
-  - Dallas Taylor
+    - Jared Tyler
+    - Sam Milner
+    - Ray Sisk
+    - Dallas Taylor
   influenced:
-  - Jared Tyler
-  - Lucinda Williams
+    - Jared Tyler
+    - Lucinda Williams
   mentors:
-  - Woody Guthrie
-  - Tom Paxton
+    - Woody Guthrie
+    - Tom Paxton
 related_artists: []
 spotify_data:
   followers: 12719
   id: 32ywq93L2q60xzB5kwCvcZ
   popularity: 33
-  url: https://open.spotify.com/artist/32ywq93L2q60xzB5kwCvcZ
+  url: 'https://open.spotify.com/artist/32ywq93L2q60xzB5kwCvcZ'
   verified: false
 discography_enriched: true
 albums_count: 13
 singles_count: 8
 top_tracks:
-- Not Forgotten (Not Forgotten)
-- Pitiful Blues (Pitiful Blues)
-- Black Bitter Moon (Come Hell or High Water)
-- To Get By (Another Black Hole)
-- Goin' Home (Not Forgotten)
-- Into the Sunlight (Tricks of the Trade)
-- Who Carried You (The Rca Sessions)
-- Savannah Blues (Pitiful Blues)
-- Sweet Georgia (Another Black Hole)
-- Shaky Ground (Tricks of the Trade)
+  - Not Forgotten (Not Forgotten)
+  - Pitiful Blues (Pitiful Blues)
+  - Black Bitter Moon (Come Hell or High Water)
+  - To Get By (Another Black Hole)
+  - Goin' Home (Not Forgotten)
+  - Into the Sunlight (Tricks of the Trade)
+  - Who Carried You (The Rca Sessions)
+  - Savannah Blues (Pitiful Blues)
+  - Sweet Georgia (Another Black Hole)
+  - Shaky Ground (Tricks of the Trade)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/32ywq93L2q60xzB5kwCvcZ
-  wikipedia: https://en.wikipedia.org/wiki/Malcolm_Holcombe
+  spotify: 'https://open.spotify.com/artist/32ywq93L2q60xzB5kwCvcZ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Malcolm_Holcombe'
 image_path: 03_Resources/source_material/ArtistPortraits/Malcolm_Holcombe.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:14:01.175608'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://americana-uk.com/the-song-remains-malcolm-holcombe-1955-2024
-- https://savingcountrymusic.com/iconic-and-elemental-songwriter-malcolm-holcombe-has-died/
-- https://www.wmot.org/roots-radio-news/2024-03-12/remembering-electrifying-and-mercurial-songwriter-malcolm-holcombe-gone-at-68
-- https://www.knoxnews.com/story/entertainment/music/2017/04/13/malcolm-holcombe-songwriters-songwriter/100350458/
+  - 'https://americana-uk.com/the-song-remains-malcolm-holcombe-1955-2024'
+  - >-
+    https://savingcountrymusic.com/iconic-and-elemental-songwriter-malcolm-holcombe-has-died/
+  - >-
+    https://www.wmot.org/roots-radio-news/2024-03-12/remembering-electrifying-and-mercurial-songwriter-malcolm-holcombe-gone-at-68
+  - >-
+    https://www.knoxnews.com/story/entertainment/music/2017/04/13/malcolm-holcombe-songwriters-songwriter/100350458/
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 11:52:53.631767
+entry_created: 2025-09-18T11:52:53.631Z
 last_updated: '2025-12-23T08:16:12.560428'
-
+is_active: false
+artist_type: person
 ---
 
 ![](Malcolm_Holcombe.jpg)

@@ -4,7 +4,7 @@ wiki_slug: george-lewis-ragtime-band
 schema_version: 2
 status: active
 genres:
-- ragtime
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/george_lewis_ragtime_band.jpg
   caption: George Lewis Ragtime Band
@@ -24,49 +24,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lawrence Marrero
-  - Alcide Pavageau
-  - Jim Robinson
+    - Lawrence Marrero
+    - Alcide Pavageau
+    - Jim Robinson
   influenced:
-  - Monty Sunshine
-  - Acker Bilk
-  - Ken Colyer
+    - Monty Sunshine
+    - Acker Bilk
+    - Ken Colyer
   mentors:
-  - Bunk Johnson
+    - Bunk Johnson
 spotify_data:
   followers: 32
   id: 2SlbptrxDQH2D6w1tfckwx
   popularity: 0
-  url: https://open.spotify.com/artist/2SlbptrxDQH2D6w1tfckwx
+  url: 'https://open.spotify.com/artist/2SlbptrxDQH2D6w1tfckwx'
 discography_enriched: true
 top_tracks:
-- It's A Long, Long Way To Tipperary (Jazz In The Classic New Orleans Tradition)
-- 'Weary Blues (Birthright: A Black Roots Music Compendium)'
-- 'Weary Blues (Birthright: A Black Roots Music Compendium (Traditional Jazz Sampler))'
-- Panama - Live (Live at Boston Mass Arts Festival 1963)
-- Just a Closer Walk with Thee - Live (Live at Boston Mass Arts Festival 1963)
-- Washington & Lee Swing - Live (Live at Boston Mass Arts Festival 1963)
-- Walking with the King - Live (Live at Boston Mass Arts Festival 1963)
-- Burgundy Street Blues - Live (Live at Boston Mass Arts Festival 1963)
-- Ice Cream - Live (Live at Boston Mass Arts Festival 1963)
-- Chinatown, My Chinatown - Live (Live at Boston Mass Arts Festival 1963)
+  - >-
+    It's A Long, Long Way To Tipperary (Jazz In The Classic New Orleans
+    Tradition)
+  - 'Weary Blues (Birthright: A Black Roots Music Compendium)'
+  - >-
+    Weary Blues (Birthright: A Black Roots Music Compendium (Traditional Jazz
+    Sampler))
+  - Panama - Live (Live at Boston Mass Arts Festival 1963)
+  - Just a Closer Walk with Thee - Live (Live at Boston Mass Arts Festival 1963)
+  - Washington & Lee Swing - Live (Live at Boston Mass Arts Festival 1963)
+  - Walking with the King - Live (Live at Boston Mass Arts Festival 1963)
+  - Burgundy Street Blues - Live (Live at Boston Mass Arts Festival 1963)
+  - Ice Cream - Live (Live at Boston Mass Arts Festival 1963)
+  - 'Chinatown, My Chinatown - Live (Live at Boston Mass Arts Festival 1963)'
 external_urls:
-  spotify: https://open.spotify.com/artist/2SlbptrxDQH2D6w1tfckwx
-  wikipedia: https://en.wikipedia.org/wiki/George_Lewis_(clarinetist)
+  spotify: 'https://open.spotify.com/artist/2SlbptrxDQH2D6w1tfckwx'
+  wikipedia: 'https://en.wikipedia.org/wiki/George_Lewis_(clarinetist)'
 image_path: 03_Resources/source_material/ArtistPortraits/george_lewis_ragtime_band.jpg
 biography_enhanced_at: '2025-11-15T18:15:48.438963'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/George_Lewis_(clarinetist)
-- https://64parishes.org/entry/george-lewis
-- https://concord.com/artist/george-lewis/
-- https://hnoc.org/events/19th-annual-bill-russell-lecture-life-and-music-new-orleans-legend-george-lewis
-- https://www.barrymartynjazz.com/the-fabulous-george-lewis-band-the-inside-story/
+  - 'https://en.wikipedia.org/wiki/George_Lewis_(clarinetist)'
+  - 'https://64parishes.org/entry/george-lewis'
+  - 'https://concord.com/artist/george-lewis/'
+  - >-
+    https://hnoc.org/events/19th-annual-bill-russell-lecture-life-and-music-new-orleans-legend-george-lewis
+  - >-
+    https://www.barrymartynjazz.com/the-fabulous-george-lewis-band-the-inside-story/
 network_extracted: true
 entry_created: '2025-11-15T18:15:48.438973'
 last_updated: '2025-12-23T08:16:09.100902'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+birth_place: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![](george_lewis_ragtime_band.jpg)

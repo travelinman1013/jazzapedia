@@ -1,11 +1,11 @@
 ---
 biography_enhanced_at: '2026-01-10T01:20:20.480409'
-birth_place: Covington, Louisiana, United States
+birth_place: 'Covington, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-10T01:20:20.480414'
 external_urls:
-  spotify: https://open.spotify.com/artist/37lJvq4muqNHSJqPs51Qw9
-  wikipedia: https://www.encyclopedia.com/children/scholarly-magazines/artell-mike-1948
+  spotify: 'https://open.spotify.com/artist/37lJvq4muqNHSJqPs51Qw9'
+  wikipedia: 'https://www.encyclopedia.com/children/scholarly-magazines/artell-mike-1948'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/mike_artell.jpg
 last_updated: '2026-01-10T01:20:20.480415'
@@ -16,19 +16,20 @@ musical_connections:
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://mikeartell.com/about
-- https://mikeartell.com
-- https://sdhumanities.org/mike-artell/
-- https://thuprai.com/author/mike-artell/
-- https://www.encyclopedia.com/children/scholarly-magazines/artell-mike-1948
-- https://mikeartell.com/school-and-library-visits
+  - 'https://mikeartell.com/about'
+  - 'https://mikeartell.com'
+  - 'https://sdhumanities.org/mike-artell/'
+  - 'https://thuprai.com/author/mike-artell/'
+  - 'https://www.encyclopedia.com/children/scholarly-magazines/artell-mike-1948'
+  - 'https://mikeartell.com/school-and-library-visits'
 spotify_data:
   followers: 152
   id: 37lJvq4muqNHSJqPs51Qw9
   popularity: 20
-  url: https://open.spotify.com/artist/37lJvq4muqNHSJqPs51Qw9
+  url: 'https://open.spotify.com/artist/37lJvq4muqNHSJqPs51Qw9'
 status: active
-title: mike artell
+title: Mike Artell
+artist_type: person
 ---
 
 ![](mike_artell.jpg)

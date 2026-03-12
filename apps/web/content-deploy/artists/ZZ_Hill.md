@@ -1,19 +1,19 @@
 ---
-title: ZZ HILL
+title: ZZ Hill
 wiki_slug: zz-hill
 schema_version: 2
 status: active
-birth_place: Naples, Texas, United States
+birth_place: 'Naples, Texas, United States'
 genres:
-- blues
-- soul blues
-- footwork
-- northern soul
+  - blues
+  - soul blues
+  - footwork
+  - northern soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ZZ_HILL.jpg
   caption: ZZ HILL
   background: solo_singer
-  origin: Naples, Texas, United States
+  origin: 'Naples, Texas, United States'
 audio_profile:
   tempo_avg: 120.6
   energy_avg: 0.522
@@ -29,51 +29,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Matt Hill
-  - George Jackson
-  - Bert de Coteaux
+    - Matt Hill
+    - George Jackson
+    - Bert de Coteaux
   influenced:
-  - Denise LaSalle
-  - ZZ Top
-  - Contemporary soul blues artists
+    - Denise LaSalle
+    - ZZ Top
+    - Contemporary soul blues artists
   mentors:
-  - Sam Cooke
-  - B.B. King
-  - Bobby Bland
+    - Sam Cooke
+    - B.B. King
+    - Bobby Bland
 spotify_data:
   followers: 91682
   id: 1gdaEBrH99AfhsiQNbaSBp
   popularity: 31
-  url: https://open.spotify.com/artist/1gdaEBrH99AfhsiQNbaSBp
+  url: 'https://open.spotify.com/artist/1gdaEBrH99AfhsiQNbaSBp'
 discography_enriched: true
 top_tracks:
-- That Ain't The Way You Make Love (The Complete Hill Records Collection/United Artists Recordings, 1972-1975)
-- Down Home Blues (Down Home)
-- Cheating In The Next Room (Down Home)
-- Someone Else Is Steppin' In (The Rhythm and the Blues)
-- I Think I'd Do It (The Brand New Z.Z. Hill)
-- Clean Up America (The Complete Hill Records Collection/United Artists Recordings, 1972-1975)
-- Chokin' Kind (The Brand New Z.Z. Hill)
-- 'Love Is So Good When You''re Stealing It - Single Version (This Time They Told The Truth: The Columbia Years)'
-- Cheatin' In the Next Room
-- Shade Tree Mechanic (I'm A Blues Man)
+  - >-
+    That Ain't The Way You Make Love (The Complete Hill Records
+    Collection/United Artists Recordings, 1972-1975)
+  - Down Home Blues (Down Home)
+  - Cheating In The Next Room (Down Home)
+  - Someone Else Is Steppin' In (The Rhythm and the Blues)
+  - I Think I'd Do It (The Brand New Z.Z. Hill)
+  - >-
+    Clean Up America (The Complete Hill Records Collection/United Artists
+    Recordings, 1972-1975)
+  - Chokin' Kind (The Brand New Z.Z. Hill)
+  - >-
+    Love Is So Good When You're Stealing It - Single Version (This Time They
+    Told The Truth: The Columbia Years)
+  - Cheatin' In the Next Room
+  - Shade Tree Mechanic (I'm A Blues Man)
 external_urls:
-  spotify: https://open.spotify.com/artist/1gdaEBrH99AfhsiQNbaSBp
-  wikipedia: https://en.wikipedia.org/wiki/Z._Z._Hill
+  spotify: 'https://open.spotify.com/artist/1gdaEBrH99AfhsiQNbaSBp'
+  wikipedia: 'https://en.wikipedia.org/wiki/Z._Z._Hill'
 image_path: 03_Resources/source_material/ArtistPortraits/ZZ_HILL.jpg
 biography_enhanced_at: '2025-10-21T07:01:28.767928'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.allaboutjazz.com/musicians/zz-hill/
-- https://blues.org/blues_hof_inductee/down-home-blues-z-z-hill-malaco-album-track-1982/
-- https://kids.kiddle.co/Z._Z._Hill
-- https://kutx.org/this-week-in-texas-music-history/this-week-in-texas-music-history-we-settle-down-home-with-a-dallas-blues-singer-z-z-hill/
-- https://www.tshaonline.org/handbook/entries/hill-arzell-zz
+  - 'https://www.allaboutjazz.com/musicians/zz-hill/'
+  - >-
+    https://blues.org/blues_hof_inductee/down-home-blues-z-z-hill-malaco-album-track-1982/
+  - 'https://kids.kiddle.co/Z._Z._Hill'
+  - >-
+    https://kutx.org/this-week-in-texas-music-history/this-week-in-texas-music-history-we-settle-down-home-with-a-dallas-blues-singer-z-z-hill/
+  - 'https://www.tshaonline.org/handbook/entries/hill-arzell-zz'
 network_extracted: true
 entry_created: '2025-10-21T07:01:28.767945'
 last_updated: '2025-12-23T08:16:04.327699'
-
+death_date: '1984-04-27'
+artist_type: person
 ---
 
 ![](ZZ_HILL.jpg)

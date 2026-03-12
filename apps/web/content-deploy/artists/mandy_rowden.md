@@ -1,19 +1,19 @@
 ---
-title: MANDY ROWDEN
+title: Mandy Rowden
 wiki_slug: mandy-rowden
 schema_version: 2
 artist_type: person
 status: active
-birth_place: East Texas, USA
+birth_place: 'East Texas, USA'
 genres:
-- ccm
+  - ccm
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/mandy_rowden.jpg
   caption: MANDY ROWDEN
   background: solo_singer
-  origin: East Texas, USA
+  origin: 'East Texas, USA'
 audio_profile:
-  tempo_avg: 124.0
+  tempo_avg: 124
   energy_avg: 0.446
   valence_avg: 0.431
   danceability_avg: 0.549
@@ -33,39 +33,41 @@ spotify_data:
   followers: 480
   id: 6rmv9eJiqRPvpGQeJ7e6Nk
   popularity: 0
-  url: https://open.spotify.com/artist/6rmv9eJiqRPvpGQeJ7e6Nk
+  url: 'https://open.spotify.com/artist/6rmv9eJiqRPvpGQeJ7e6Nk'
 discography_enriched: true
 top_tracks:
-- Mannequin (Better Angels)
-- Gypsy Wheels (Prayers in the Wind)
-- Breaks (feat. Brad Rice) (These Bad Habits)
-- Kansas City (feat. Redd Volkaert) (These Bad Habits)
-- Radio (feat. Redd Volkaert) (These Bad Habits)
-- Am I Ever (These Bad Habits)
-- Bad Habits (feat. Lloyd Maines) (These Bad Habits)
-- Borrowed Time (feat. Redd Volkaert) (These Bad Habits)
-- Shame (feat. Lloyd Maines) (These Bad Habits)
-- Haunt You (feat. Lloyd Maines) (These Bad Habits)
+  - Mannequin (Better Angels)
+  - Gypsy Wheels (Prayers in the Wind)
+  - Breaks (feat. Brad Rice) (These Bad Habits)
+  - Kansas City (feat. Redd Volkaert) (These Bad Habits)
+  - Radio (feat. Redd Volkaert) (These Bad Habits)
+  - Am I Ever (These Bad Habits)
+  - Bad Habits (feat. Lloyd Maines) (These Bad Habits)
+  - Borrowed Time (feat. Redd Volkaert) (These Bad Habits)
+  - Shame (feat. Lloyd Maines) (These Bad Habits)
+  - Haunt You (feat. Lloyd Maines) (These Bad Habits)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d60c4029-62c8-48dc-8d27-d9e0d8becea6
-  spotify: https://open.spotify.com/artist/6rmv9eJiqRPvpGQeJ7e6Nk
+  musicbrainz: 'https://musicbrainz.org/artist/d60c4029-62c8-48dc-8d27-d9e0d8becea6'
+  spotify: 'https://open.spotify.com/artist/6rmv9eJiqRPvpGQeJ7e6Nk'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/mandy_rowden.jpg
 biography_enhanced_at: '2025-12-15T01:21:27.357361'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://luckystarartcamp.com/mandy-rowden/
-- https://mandyrowden.com/epk
-- https://texaslifestylemag.com/entertainment/five-minutes-with-mandy-rowden-east-texas-singer-songwriter-founder-girl-guitar/
-- https://guitargirlmag.com/interviews/tone-talk/tone-talk-with-mandy-rowden/
-- https://mandyrowden.com/bio
-- https://www.howlindogrecords.com/artists/mandy-rowden
+  - 'https://luckystarartcamp.com/mandy-rowden/'
+  - 'https://mandyrowden.com/epk'
+  - >-
+    https://texaslifestylemag.com/entertainment/five-minutes-with-mandy-rowden-east-texas-singer-songwriter-founder-girl-guitar/
+  - 'https://guitargirlmag.com/interviews/tone-talk/tone-talk-with-mandy-rowden/'
+  - 'https://mandyrowden.com/bio'
+  - 'https://www.howlindogrecords.com/artists/mandy-rowden'
 network_extracted: true
 entry_created: '2025-12-15T01:21:27.357375'
 last_updated: '2025-12-23T08:16:12.588910'
 gender: Female
 musicbrainz_id: d60c4029-62c8-48dc-8d27-d9e0d8becea6
+origin: 'Austin, Texas, United States'
 ---
 
 ![](mandy_rowden.jpg)

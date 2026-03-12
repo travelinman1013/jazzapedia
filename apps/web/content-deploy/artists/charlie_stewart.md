@@ -3,13 +3,13 @@ title: Charlie Stewart
 wiki_slug: charlie-stewart
 schema_version: 2
 status: active
-birth_place: Scotland, United Kingdom
+birth_place: 'Scotland, United Kingdom'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/charlie_stewart.jpg
   caption: Charlie Stewart
   background: solo_singer
-  origin: Scotland, United Kingdom
+  origin: 'Scotland, United Kingdom'
 audio_profile:
   tempo_avg: 126.1
   energy_avg: 0.617
@@ -25,39 +25,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Rebecca Hill
+    - Rebecca Hill
   influenced: []
   mentors: []
 spotify_data:
   followers: 79
   id: 48mQF3GUdrcUyIl0oD2rdu
   popularity: 8
-  url: https://open.spotify.com/artist/48mQF3GUdrcUyIl0oD2rdu
+  url: 'https://open.spotify.com/artist/48mQF3GUdrcUyIl0oD2rdu'
 discography_enriched: true
 top_tracks:
-- 'Mammoth Cave Secret (Hillbillies in Hell: Select Curios from the Dank Hayseed Dungeon, Vol. 3)'
-- Santa Claus Won't Come This Year (Santa Claus Won't Come This Year b/w Santa Claus Ain't A Hippie)
-- 'Santa Claus Won''t Come This Year (Christmas Dreamers: Yuletide Country (1960-1972))'
-- 'Santa Claus Ain''t A Hippie (Christmas Dreamers: Yuletide Country (1960-1972))'
-- Santa Claus Ain't A Hippie (Santa Claus Won't Come This Year b/w Santa Claus Ain't A Hippie)
-- Old Age and Rough Treatment (I Got a Baby)
-- Santa Claus Won't Come This Year (Indiana Rockabilly Vol. 1)
-- Old Age and Rough Treatment (Indiana Rockabilly Vol. 3)
-- Hey! Castro (Thers's Gold in Them There Hills, Vol. 10)
-- A Diamond Waltz for Waverley (A Diamond Waltz for Waverley)
+  - >-
+    Mammoth Cave Secret (Hillbillies in Hell: Select Curios from the Dank
+    Hayseed Dungeon, Vol. 3)
+  - >-
+    Santa Claus Won't Come This Year (Santa Claus Won't Come This Year b/w Santa
+    Claus Ain't A Hippie)
+  - >-
+    Santa Claus Won't Come This Year (Christmas Dreamers: Yuletide Country
+    (1960-1972))
+  - >-
+    Santa Claus Ain't A Hippie (Christmas Dreamers: Yuletide Country
+    (1960-1972))
+  - >-
+    Santa Claus Ain't A Hippie (Santa Claus Won't Come This Year b/w Santa Claus
+    Ain't A Hippie)
+  - Old Age and Rough Treatment (I Got a Baby)
+  - Santa Claus Won't Come This Year (Indiana Rockabilly Vol. 1)
+  - Old Age and Rough Treatment (Indiana Rockabilly Vol. 3)
+  - 'Hey! Castro (Thers''s Gold in Them There Hills, Vol. 10)'
+  - A Diamond Waltz for Waverley (A Diamond Waltz for Waverley)
 external_urls:
-  spotify: https://open.spotify.com/artist/48mQF3GUdrcUyIl0oD2rdu
+  spotify: 'https://open.spotify.com/artist/48mQF3GUdrcUyIl0oD2rdu'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/charlie_stewart.jpg
 biography_enhanced_at: '2025-12-09T05:19:16.522985'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://jazzscotland.com/blogs/lijf24-musicians/charlie-stewart
-- https://www.viberate.com/artist/charlie-stewart/
+  - 'https://jazzscotland.com/blogs/lijf24-musicians/charlie-stewart'
+  - 'https://www.viberate.com/artist/charlie-stewart/'
 network_extracted: true
 entry_created: '2025-12-09T05:19:16.522994'
 last_updated: '2025-12-23T08:16:06.767676'
+artist_type: person
 ---
 
 ![](charlie_stewart.jpg)

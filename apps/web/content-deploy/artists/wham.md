@@ -2,20 +2,20 @@
 title: Wham!
 wiki_slug: wham
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1981'
 genres:
-- christmas
+  - christmas
 instruments:
-- additional
+  - additional
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/wham.jpg
   caption: Wham!
   background: group_or_band
   born: '1981'
 audio_profile:
-  tempo_avg: 115.0
+  tempo_avg: 115
   energy_avg: 0.655
   valence_avg: 0.798
   danceability_avg: 0.725
@@ -29,105 +29,105 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - George Michael
-  - Elton John
-  - Shirlie Holliman and Pepsi DeMacque
+    - George Michael
+    - Elton John
+    - Shirlie Holliman and Pepsi DeMacque
   influenced: []
   mentors:
-  - Simon Napier-Bell
+    - Simon Napier-Bell
 spotify_data:
   followers: 3210138
   id: 5lpH0xAS4fVfLkACg9DAuM
   popularity: 82
-  url: https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM
+  url: 'https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM'
 discography_enriched: true
 top_tracks:
-- Wake Me Up Before You Go-Go (Make It Big)
-- Last Christmas
-- Everything She Wants (Make It Big)
-- Club Tropicana (Fantastic)
-- Freedom (Make It Big)
-- I'm Your Man
-- Last Christmas - Remastered
-- The Edge of Heaven (Music From The Edge Of Heaven)
-- Wake Me Up Before You Go-Go
-- Last Christmas
+  - Wake Me Up Before You Go-Go (Make It Big)
+  - Last Christmas
+  - Everything She Wants (Make It Big)
+  - Club Tropicana (Fantastic)
+  - Freedom (Make It Big)
+  - I'm Your Man
+  - Last Christmas - Remastered
+  - The Edge of Heaven (Music From The Edge Of Heaven)
+  - Wake Me Up Before You Go-Go
+  - Last Christmas
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d570bb31-b9ca-45a4-a2d9-11b186d9c159
-  spotify: https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM
-  wikipedia: https://en.wikipedia.org/wiki/Andrew_Ridgeley
+  musicbrainz: 'https://musicbrainz.org/artist/d570bb31-b9ca-45a4-a2d9-11b186d9c159'
+  spotify: 'https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM'
+  wikipedia: 'https://en.wikipedia.org/wiki/Andrew_Ridgeley'
 image_path: 03_Resources/source_material/ArtistPortraits/wham.jpg
 biography_enhanced_at: '2025-12-22T01:51:12.982189'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Andrew Ridgeley
-- Gutter Bookshop - Wham! George and Me
-- 'Beatles-Freak.com - Book Review: Wham! George and Me'
-- Goodreads - Wham! George & Me
+  - Wikipedia - Andrew Ridgeley
+  - Gutter Bookshop - Wham! George and Me
+  - 'Beatles-Freak.com - Book Review: Wham! George and Me'
+  - Goodreads - Wham! George & Me
 network_extracted: true
 entry_created: '2025-12-22T01:51:12.982198'
 last_updated: '2025-12-23T08:16:18.095543'
 disambiguation: British pop-duo
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - additional
-  mbid: 879d2b62-9c23-4d7d-a45a-aa16563db99d
-  name: Hugh Burns
-- begin: ''
-  end: ''
-  instruments:
-  - additional
-  mbid: 429c1c1a-f211-4dee-8b4d-624db60079d6
-  name: Danny Cummings
-- begin: ''
-  end: ''
-  instruments:
-  - additional
-  mbid: 1209bc25-dcb9-4c96-a1b0-b62a084c1165
-  name: Pepsi DeMacque
-- begin: ''
-  end: ''
-  instruments:
-  - additional
-  mbid: 4b66082d-36a3-4418-a80c-ea7773e46bf6
-  name: Deon Estus
-- begin: ''
-  end: ''
-  instruments:
-  - additional
-  mbid: 2cf63b2a-7265-4634-9eb1-14e4cc0b625d
-  name: Mark Fisher
-- begin: ''
-  end: ''
-  instruments:
-  - additional
-  mbid: c72e3490-0e41-4c81-8c61-bf8a2c700144
-  name: Shirlie Holliman
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ccb8f30e-4d71-40c4-8b1d-846dafe73e2c
-  name: George Michael
-- begin: ''
-  end: ''
-  instruments:
-  - additional
-  mbid: 354a632e-878f-4165-8f92-c818df3f2087
-  name: Trevor Murrell
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6a07c595-3096-43c2-99f2-509c0762b822
-  name: Andrew Ridgeley
+  - begin: ''
+    end: ''
+    instruments:
+      - additional
+    mbid: 879d2b62-9c23-4d7d-a45a-aa16563db99d
+    name: Hugh Burns
+  - begin: ''
+    end: ''
+    instruments:
+      - additional
+    mbid: 429c1c1a-f211-4dee-8b4d-624db60079d6
+    name: Danny Cummings
+  - begin: ''
+    end: ''
+    instruments:
+      - additional
+    mbid: 1209bc25-dcb9-4c96-a1b0-b62a084c1165
+    name: Pepsi DeMacque
+  - begin: ''
+    end: ''
+    instruments:
+      - additional
+    mbid: 4b66082d-36a3-4418-a80c-ea7773e46bf6
+    name: Deon Estus
+  - begin: ''
+    end: ''
+    instruments:
+      - additional
+    mbid: 2cf63b2a-7265-4634-9eb1-14e4cc0b625d
+    name: Mark Fisher
+  - begin: ''
+    end: ''
+    instruments:
+      - additional
+    mbid: c72e3490-0e41-4c81-8c61-bf8a2c700144
+    name: Shirlie Holliman
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ccb8f30e-4d71-40c4-8b1d-846dafe73e2c
+    name: George Michael
+  - begin: ''
+    end: ''
+    instruments:
+      - additional
+    mbid: 354a632e-878f-4165-8f92-c818df3f2087
+    name: Trevor Murrell
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6a07c595-3096-43c2-99f2-509c0762b822
+    name: Andrew Ridgeley
 musicbrainz_id: d570bb31-b9ca-45a4-a2d9-11b186d9c159
-origin: Bushey
+origin: 'Bushey, England, United Kingdom'
 tags:
-- christmas music
-- dance-pop
-- pop
+  - christmas music
+  - dance-pop
+  - pop
 ---
 
 ![](wham.jpg)

@@ -1,21 +1,25 @@
 ---
-title: BOOGIE WOOGIE RED
+title: Boogie Woogie Red
 wiki_slug: boogie-woogie-red
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1925-10-18'
-birth_place: Rayville, Louisiana, USA (birthplace); Detroit, Michigan, USA (origin and main career base)
+birth_place: >-
+  Rayville, Louisiana, USA (birthplace); Detroit, Michigan, USA (origin and main
+  career base)
 death_date: '1992-07-02'
 genres:
-- boogie-woogie
-- boogie
+  - boogie-woogie
+  - boogie
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/BOOGIE_WOOGIE_RED.jpg
   caption: BOOGIE WOOGIE RED
   background: solo_singer
   born: '1925-10-18'
-  origin: Rayville, Louisiana, USA (birthplace); Detroit, Michigan, USA (origin and main career base)
+  origin: >-
+    Rayville, Louisiana, USA (birthplace); Detroit, Michigan, USA (origin and
+    main career base)
   died: '1992-07-02'
 audio_profile:
   tempo_avg: 116.8
@@ -24,7 +28,7 @@ audio_profile:
   danceability_avg: 0.566
   acousticness_avg: 0.687
   instrumentalness_avg: 0.653
-  loudness_avg: -12.0
+  loudness_avg: -12
   speechiness_avg: 0.06
   liveness_avg: 0.189
   track_count: 9
@@ -32,53 +36,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John Lee Hooker
-  - Lonnie Johnson
-  - Tampa Red
-  - Memphis Slim
-  - Elmore James
-  - Sonny Boy Williamson
+    - John Lee Hooker
+    - Lonnie Johnson
+    - Tampa Red
+    - Memphis Slim
+    - Elmore James
+    - Sonny Boy Williamson
   influenced:
-  - Detroit blues pianists
+    - Detroit blues pianists
   mentors:
-  - Big Maceo Merriweather
-  - Dr. Clayton
+    - Big Maceo Merriweather
+    - Dr. Clayton
 spotify_data:
   followers: 517
   id: 0h36YGRiDkU9g37124dxjd
   popularity: 0
-  url: https://open.spotify.com/artist/0h36YGRiDkU9g37124dxjd
+  url: 'https://open.spotify.com/artist/0h36YGRiDkU9g37124dxjd'
 discography_enriched: true
 top_tracks:
-- Red's Boogie (American Blues Legends '73)
-- Old Time Shuffle - Instrumental (Blue Ivory)
-- Viper Song (American Blues Legends '73)
-- After Hours (American Blues Legends '73)
-- Red's Rhumba - Instrumental (Blue Ivory)
-- Red's Boogie - Instrumental (Blue Ivory)
-- Pump Jockey Blues (Too Many Bad Habits)
-- Hootie Blues (Too Many Bad Habits)
-- Soon Forgotten (Too Many Bad Habits)
+  - Red's Boogie (American Blues Legends '73)
+  - Old Time Shuffle - Instrumental (Blue Ivory)
+  - Viper Song (American Blues Legends '73)
+  - After Hours (American Blues Legends '73)
+  - Red's Rhumba - Instrumental (Blue Ivory)
+  - Red's Boogie - Instrumental (Blue Ivory)
+  - Pump Jockey Blues (Too Many Bad Habits)
+  - Hootie Blues (Too Many Bad Habits)
+  - Soon Forgotten (Too Many Bad Habits)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c518e99a-c908-410e-a436-60fc3541ea7c
-  spotify: https://open.spotify.com/artist/0h36YGRiDkU9g37124dxjd
+  musicbrainz: 'https://musicbrainz.org/artist/c518e99a-c908-410e-a436-60fc3541ea7c'
+  spotify: 'https://open.spotify.com/artist/0h36YGRiDkU9g37124dxjd'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/BOOGIE_WOOGIE_RED.jpg
 biography_enhanced_at: '2025-10-21T07:00:38.724100'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://aadl.org/node/197562
-- https://bluestourdatabase.com/artists/boogie-woogie-red
-- https://bluesinsight.com/2017/08/25/the-serious-side-of-the-blues-according-to-blues-funnyman-boogie-woogie-red/
-- https://aadl.org/node/196951
-- https://www.iheart.com/artist/boogie-woogie-red-137202/
+  - 'https://aadl.org/node/197562'
+  - 'https://bluestourdatabase.com/artists/boogie-woogie-red'
+  - >-
+    https://bluesinsight.com/2017/08/25/the-serious-side-of-the-blues-according-to-blues-funnyman-boogie-woogie-red/
+  - 'https://aadl.org/node/196951'
+  - 'https://www.iheart.com/artist/boogie-woogie-red-137202/'
 network_extracted: true
 entry_created: '2025-10-21T07:00:38.724115'
 last_updated: '2025-12-23T08:16:01.132761'
 gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:01:12.765449'
 musicbrainz_id: c518e99a-c908-410e-a436-60fc3541ea7c
+is_active: false
+origin: 'Detroit, Michigan, United States'
 ---
 
 ![](BOOGIE_WOOGIE_RED.jpg)

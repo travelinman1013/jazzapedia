@@ -2,13 +2,13 @@
 title: Banda Favela
 wiki_slug: banda-favela
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- banda
-- sierreño
-- norteño
-- mariachi
+  - banda
+  - sierreño
+  - norteño
+  - mariachi
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/banda_favela.jpg
   caption: Banda Favela
@@ -19,7 +19,7 @@ audio_profile:
   valence_avg: 0.676
   danceability_avg: 0.659
   acousticness_avg: 0.467
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -6.2
   speechiness_avg: 0.061
   liveness_avg: 0.177
@@ -34,35 +34,35 @@ spotify_data:
   followers: 1471336
   id: 0EocQPg9ycs21gcvaVm9hh
   popularity: 61
-  url: https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh
+  url: 'https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh'
 discography_enriched: true
 top_tracks:
-- Eres
-- Con Todo Respetillo
-- Me Hubieras Dicho (Caminando)
-- Cuando Fuimos Nada (Hecho a Mano)
-- Sin Filtro (Sin Llorar)
-- Nuestro Camino (HAASHVILLE)
-- Cosas Mágicas
-- Pensando Positivo
-- Con Todo Respetillo
-- La Magia de Tus Ojos (Caminando)
+  - Eres
+  - Con Todo Respetillo
+  - Me Hubieras Dicho (Caminando)
+  - Cuando Fuimos Nada (Hecho a Mano)
+  - Sin Filtro (Sin Llorar)
+  - Nuestro Camino (HAASHVILLE)
+  - Cosas Mágicas
+  - Pensando Positivo
+  - Con Todo Respetillo
+  - La Magia de Tus Ojos (Caminando)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c2573b37-2c4a-4717-876d-a671bfd1c0aa
-  spotify: https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh
+  musicbrainz: 'https://musicbrainz.org/artist/c2573b37-2c4a-4717-876d-a671bfd1c0aa'
+  spotify: 'https://open.spotify.com/artist/0EocQPg9ycs21gcvaVm9hh'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/banda_favela.jpg
 biography_enhanced_at: '2025-11-02T07:29:23.870586'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- AllMusic[9]
-- 'Wikipedia: Favela[3]'
+  - 'AllMusic[9]'
+  - 'Wikipedia: Favela[3]'
 network_extracted: true
 entry_created: '2025-11-02T07:29:23.870608'
 last_updated: '2025-12-23T08:16:05.071541'
 musicbrainz_id: c2573b37-2c4a-4717-876d-a671bfd1c0aa
-origin: Mexico (origin)
+origin: 'Mexico, Mexico, Mexico'
 ---
 
 ![](banda_favela.jpg)

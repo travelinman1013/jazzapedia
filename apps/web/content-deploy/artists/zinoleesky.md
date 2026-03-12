@@ -1,23 +1,23 @@
 ---
-title: zinoleesky
+title: Zinoleesky
 wiki_slug: zinoleesky
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
-birth_place: Agege, Lagos State, Nigeria (birthplace); Ogun State, Nigeria (origin)
+birth_place: 'Agege, Lagos State, Nigeria (birthplace); Ogun State, Nigeria (origin)'
 genres:
-- afro adura
-- afrobeat
-- afrobeats
-- afropiano
-- afropop
-- afroswing
-- amapiano
+  - afro adura
+  - afrobeat
+  - afrobeats
+  - afropiano
+  - afropop
+  - afroswing
+  - amapiano
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/zinoleesky.jpg
   caption: zinoleesky
   background: solo_singer
-  origin: Agege, Lagos State, Nigeria (birthplace); Ogun State, Nigeria (origin)
+  origin: 'Agege, Lagos State, Nigeria (birthplace); Ogun State, Nigeria (origin)'
 audio_profile:
   tempo_avg: 116.7
   energy_avg: 0.709
@@ -33,54 +33,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lil Frosh
-  - Ibradosky
-  - Zlatan Ibile
-  - Mayorkun
-  - Busiswa
-  - Lyta
-  - Mohbad
+    - Lil Frosh
+    - Ibradosky
+    - Zlatan Ibile
+    - Mayorkun
+    - Busiswa
+    - Lyta
+    - Mohbad
   influenced:
-  - Emerging Nigerian street pop artists
+    - Emerging Nigerian street pop artists
   mentors:
-  - Naira Marley
-  - Kizz Daniel
+    - Naira Marley
+    - Kizz Daniel
 spotify_data:
   followers: 2404486
   id: 6Kp3KWPiVgi33DkJqo9T4g
   popularity: 64
-  url: https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g
+  url: 'https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g'
 discography_enriched: true
 top_tracks:
-- Party No Dey Stop (with Zinoleesky) (Tequila Ever After)
-- Abanikanda
-- Good Vibes
-- Jo Vibe Remix
-- Sunny Ade
-- Party No Dey Stop
-- Many Things
-- Kowope
-- Last Time (Grit & Lust)
-- Close To Me (feat. Bnxn)
+  - Party No Dey Stop (with Zinoleesky) (Tequila Ever After)
+  - Abanikanda
+  - Good Vibes
+  - Jo Vibe Remix
+  - Sunny Ade
+  - Party No Dey Stop
+  - Many Things
+  - Kowope
+  - Last Time (Grit & Lust)
+  - Close To Me (feat. Bnxn)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/bf6a133c-0939-4a47-938a-8285a96a5f60
-  spotify: https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g
-  wikipedia: https://en.wikipedia.org/wiki/Zinoleesky
+  musicbrainz: 'https://musicbrainz.org/artist/bf6a133c-0939-4a47-938a-8285a96a5f60'
+  spotify: 'https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g'
+  wikipedia: 'https://en.wikipedia.org/wiki/Zinoleesky'
 image_path: 03_Resources/source_material/ArtistPortraits/zinoleesky.jpg
 biography_enhanced_at: '2025-10-19T12:35:12.153161'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Zinoleesky
-- https://www.legit.ng/ask-legit/biographies/1463753-zinoleeskys-biography-age-girlfriend-net-worth-house-music/
-- https://thethirdeye.substack.com/p/zinoleesky-the-gifted-street-pop
+  - 'https://en.wikipedia.org/wiki/Zinoleesky'
+  - >-
+    https://www.legit.ng/ask-legit/biographies/1463753-zinoleeskys-biography-age-girlfriend-net-worth-house-music/
+  - 'https://thethirdeye.substack.com/p/zinoleesky-the-gifted-street-pop'
 network_extracted: true
 entry_created: '2025-10-19T12:35:12.153171'
 last_updated: '2025-12-23T08:16:18.457567'
-disambiguation: Nigerian songwriter, singer and rapper
+disambiguation: 'Nigerian songwriter, singer and rapper'
 gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:57:07.796083'
 musicbrainz_id: bf6a133c-0939-4a47-938a-8285a96a5f60
+origin: 'Ogun State, Nigeria'
+birth_date: '2000-04-21'
 ---
 
 ![](zinoleesky.jpg)

@@ -2,23 +2,23 @@
 title: Gary Burton
 wiki_slug: gary-burton
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1943-01-23'
-birth_place: Anderson, Indiana, United States
+birth_place: 'Anderson, Indiana, United States'
 genres:
-- jazz
-- jazz fusion
+  - jazz
+  - jazz fusion
 instruments:
-- eponymous
-- original
-- vibraphone
+  - eponymous
+  - original
+  - vibraphone
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Gary_Burton.jpg
   caption: Gary Burton
   background: non_vocal_instrumentalist
   born: '1943-01-23'
-  origin: Anderson, Indiana, United States
+  origin: 'Anderson, Indiana, United States'
 audio_profile:
   tempo_avg: 110.4
   energy_avg: 0.287
@@ -34,52 +34,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Chick Corea
-  - Pat Metheny
-  - Larry Coryell
-  - Steve Swallow
-  - Astor Piazzolla
+    - Chick Corea
+    - Pat Metheny
+    - Larry Coryell
+    - Steve Swallow
+    - Astor Piazzolla
   influenced:
-  - Pat Metheny
-  - Julian Lage
-  - Evelyn Glennie
+    - Pat Metheny
+    - Julian Lage
+    - Evelyn Glennie
   mentors:
-  - Marian McPartland
-  - George Shearing
-  - Stan Getz
+    - Marian McPartland
+    - George Shearing
+    - Stan Getz
 spotify_data:
   followers: 57232
   id: 4iovNkf44dsELmo3E7XSKX
   popularity: 33
-  url: https://open.spotify.com/artist/4iovNkf44dsELmo3E7XSKX
+  url: 'https://open.spotify.com/artist/4iovNkf44dsELmo3E7XSKX'
 discography_enriched: true
 top_tracks:
-- Senor Mouse (Crystal Silence)
-- Blue in Green (Paris Encounter)
-- Question And Answer
-- Reunion (Reunion)
-- I'm Your Pal (Crystal Silence)
-- Crystal Silence (Crystal Silence)
-- Falling Grace (Crystal Silence)
-- 'Children''s Song: No. 6 (Duet)'
-- Elucidation
-- What Game Shall We Play Today (Crystal Silence)
+  - Senor Mouse (Crystal Silence)
+  - Blue in Green (Paris Encounter)
+  - Question And Answer
+  - Reunion (Reunion)
+  - I'm Your Pal (Crystal Silence)
+  - Crystal Silence (Crystal Silence)
+  - Falling Grace (Crystal Silence)
+  - 'Children''s Song: No. 6 (Duet)'
+  - Elucidation
+  - What Game Shall We Play Today (Crystal Silence)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7b5b8b1b-414b-44e8-862f-b1f20fcef5dc
-  spotify: https://open.spotify.com/artist/4iovNkf44dsELmo3E7XSKX
-  wikipedia: https://en.wikipedia.org/wiki/Gary_Burton
+  musicbrainz: 'https://musicbrainz.org/artist/7b5b8b1b-414b-44e8-862f-b1f20fcef5dc'
+  spotify: 'https://open.spotify.com/artist/4iovNkf44dsELmo3E7XSKX'
+  wikipedia: 'https://en.wikipedia.org/wiki/Gary_Burton'
 image_path: 03_Resources/source_material/ArtistPortraits/Gary_Burton.jpg
 biography_enhanced_at: '2025-10-19T11:12:35.775884'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://nationaljazzarchive.org.uk/explore/interviews/1622798-gary-burton-interview-2
-- https://www.arts.gov/honors/jazz/gary-burton
-- https://pas.org/gary-burton/
-- https://berkleepress.com/berklee-authors/gary-burton/
-- https://en.wikipedia.org/wiki/Gary_Burton
-- https://mmusicmag.com/m/2014/06/gary-burton/
-- https://online.berklee.edu/instructors/gary-burton
+  - >-
+    https://nationaljazzarchive.org.uk/explore/interviews/1622798-gary-burton-interview-2
+  - 'https://www.arts.gov/honors/jazz/gary-burton'
+  - 'https://pas.org/gary-burton/'
+  - 'https://berkleepress.com/berklee-authors/gary-burton/'
+  - 'https://en.wikipedia.org/wiki/Gary_Burton'
+  - 'https://mmusicmag.com/m/2014/06/gary-burton/'
+  - 'https://online.berklee.edu/instructors/gary-burton'
 network_extracted: true
 entry_created: '2025-10-19T11:12:35.775893'
 last_updated: '2025-12-23T08:16:02.090815'
@@ -88,9 +89,9 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:27:18.608188'
 musicbrainz_id: 7b5b8b1b-414b-44e8-862f-b1f20fcef5dc
 tags:
-- avant-garde jazz
-- contemporary jazz
-- jazz
+  - avant-garde jazz
+  - contemporary jazz
+  - jazz
 ---
 
 ![](Gary_Burton.jpg)

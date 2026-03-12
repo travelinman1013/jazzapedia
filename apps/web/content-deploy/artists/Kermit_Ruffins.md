@@ -2,21 +2,21 @@
 title: Kermit Ruffins
 wiki_slug: kermit-ruffins
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1964-12-19'
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- cajun
+  - cajun
 instruments:
-- original
-- eponymous
+  - original
+  - eponymous
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Kermit_Ruffins.jpg
   caption: Kermit Ruffins
   background: non_vocal_instrumentalist
   born: '1964-12-19'
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 118.1
   energy_avg: 0.598
@@ -32,61 +32,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Rebirth Brass Band
-  - Barbeque Swingers
-  - Danny Barker
-  - Ellis Marsalis
-  - Walter Payton
-  - Lucien Barbarin
-  - Shannon Powell
+    - Rebirth Brass Band
+    - Barbeque Swingers
+    - Danny Barker
+    - Ellis Marsalis
+    - Walter Payton
+    - Lucien Barbarin
+    - Shannon Powell
   influenced:
-  - Younger New Orleans jazz musicians
+    - Younger New Orleans jazz musicians
   mentors:
-  - Louis Armstrong
-  - Louis Jordan
-  - Eddie Jefferson
+    - Louis Armstrong
+    - Louis Jordan
+    - Eddie Jefferson
 spotify_data:
   followers: 25480
   id: 31jfl8olSWuzzR8ABt6Bdk
   popularity: 32
-  url: https://open.spotify.com/artist/31jfl8olSWuzzR8ABt6Bdk
+  url: 'https://open.spotify.com/artist/31jfl8olSWuzzR8ABt6Bdk'
 discography_enriched: true
 top_tracks:
-- The Bare Necessities (The Jungle Book (Original Motion Picture Soundtrack))
-- Just A Closer Walk With Thee (Throwback)
-- Drop Me Off In New Orleans (Live At Vaughan's)
-- Mardi Gras Day (Throwback)
-- 'Rebirth Medley: My Song, Pie Pt. 2, Mexican (Throwback)'
-- Don't Worry Be Happy (A Beautiful World)
-- Tremé Mardi Gras (Livin' A Tremé Life)
-- Didn't He Ramble (Livin' A Tremé Life)
-- Down for My City (Poetry in Motion)
-- Beautiful World [for Imani] (A Beautiful World)
+  - The Bare Necessities (The Jungle Book (Original Motion Picture Soundtrack))
+  - Just A Closer Walk With Thee (Throwback)
+  - Drop Me Off In New Orleans (Live At Vaughan's)
+  - Mardi Gras Day (Throwback)
+  - 'Rebirth Medley: My Song, Pie Pt. 2, Mexican (Throwback)'
+  - Don't Worry Be Happy (A Beautiful World)
+  - Tremé Mardi Gras (Livin' A Tremé Life)
+  - Didn't He Ramble (Livin' A Tremé Life)
+  - Down for My City (Poetry in Motion)
+  - 'Beautiful World [for Imani] (A Beautiful World)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/debaa9d9-a391-4dcb-b74a-fcc7de830cfb
-  spotify: https://open.spotify.com/artist/31jfl8olSWuzzR8ABt6Bdk
-  wikipedia: https://en.wikipedia.org/wiki/Kermit_Ruffins
+  musicbrainz: 'https://musicbrainz.org/artist/debaa9d9-a391-4dcb-b74a-fcc7de830cfb'
+  spotify: 'https://open.spotify.com/artist/31jfl8olSWuzzR8ABt6Bdk'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kermit_Ruffins'
 image_path: 03_Resources/source_material/ArtistPortraits/Kermit_Ruffins.jpg
 biography_enhanced_at: '2025-10-19T11:28:40.710006'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Kermit_Ruffins
-- https://64parishes.org/entry/kermit-ruffins
-- https://frenchquarterly.com/music/kermit-ruffins-new-orleans-music-ambassador
-- https://www.allaboutjazz.com/musicians/kermit-ruffins
-- https://kids.kiddle.co/Kermit_Ruffins
+  - 'https://en.wikipedia.org/wiki/Kermit_Ruffins'
+  - 'https://64parishes.org/entry/kermit-ruffins'
+  - >-
+    https://frenchquarterly.com/music/kermit-ruffins-new-orleans-music-ambassador
+  - 'https://www.allaboutjazz.com/musicians/kermit-ruffins'
+  - 'https://kids.kiddle.co/Kermit_Ruffins'
 network_extracted: true
 entry_created: '2025-10-19T11:28:40.710015'
 last_updated: '2025-12-23T08:16:02.843742'
-disambiguation: US jazz trumpeter, singer, composer, and actor
+disambiguation: 'US jazz trumpeter, singer, composer, and actor'
 gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:33:51.572710'
 musicbrainz_id: debaa9d9-a391-4dcb-b74a-fcc7de830cfb
 tags:
-- dixieland
-- jazz
-- rhythm and blues
+  - dixieland
+  - jazz
+  - rhythm and blues
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](Kermit_Ruffins.jpg)

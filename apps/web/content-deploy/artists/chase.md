@@ -3,10 +3,10 @@ biography_enhanced_at: '2026-01-10T01:07:01.097722'
 enhancement_provider: perplexity
 entry_created: '2026-01-10T01:07:01.097727'
 external_urls:
-  spotify: https://open.spotify.com/artist/3thDBmUSpn79NNnN8P1fzo
+  spotify: 'https://open.spotify.com/artist/3thDBmUSpn79NNnN8P1fzo'
   wikipedia: ''
 genres:
-- midwest emo
+  - midwest emo
 image_path: 03_Resources/source_material/ArtistPortraits/chase.jpg
 last_updated: '2026-01-10T01:07:01.097728'
 musical_connections:
@@ -14,20 +14,22 @@ musical_connections:
   influenced: []
   mentors: []
 network_extracted: true
-origin: Long Beach, California, United States (for Chase Petra, the only verifiable
+origin: >-
+  Long Beach, California, United States (for Chase Petra, the only verifiable
   midwest‑emo act closely matching the name/genre)
 primary_source: perplexity
 research_sources:
-- https://toutpartout.be/artist/chase-petra/
-- https://open.spotify.com
-- https://en.wikipedia.org/wiki/Chase_Icon
+  - 'https://toutpartout.be/artist/chase-petra/'
+  - 'https://open.spotify.com'
+  - 'https://en.wikipedia.org/wiki/Chase_Icon'
 spotify_data:
   followers: 12859
   id: 3thDBmUSpn79NNnN8P1fzo
   popularity: 44
-  url: https://open.spotify.com/artist/3thDBmUSpn79NNnN8P1fzo
+  url: 'https://open.spotify.com/artist/3thDBmUSpn79NNnN8P1fzo'
 status: active
-title: Chase
+title: Chase Petra
+artist_type: band
 ---
 
 ![](chase.jpg)

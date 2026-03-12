@@ -1,15 +1,15 @@
 ---
-title: smokey johnson
+title: Smokey Johnson
 wiki_slug: smokey-johnson
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/smokey_johnson.jpg
   caption: smokey johnson
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 131.7
   energy_avg: 0.667
@@ -25,44 +25,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Various New Orleans session musicians
+    - Various New Orleans session musicians
   influenced:
-  - New Orleans brass band drummers
+    - New Orleans brass band drummers
   mentors:
-  - School music teachers (Craig School, Clark High)
+    - 'School music teachers (Craig School, Clark High)'
 spotify_data:
   followers: 456
   id: 0oNXydINWNrad1WaX28qHK
   popularity: 3
-  url: https://open.spotify.com/artist/0oNXydINWNrad1WaX28qHK
+  url: 'https://open.spotify.com/artist/0oNXydINWNrad1WaX28qHK'
 discography_enriched: true
 top_tracks:
-- It Ain't My Fault (It Ain't My Fault)
-- I Can't Help It (It Ain't My Fault)
-- Tippin' Lightly (New Orleans Funkiest Delicacies)
-- The Funkie Moon (It Ain't My Fault)
-- Tippin' Lightly (It Ain't My Fault)
-- Tippin' Lightly - Vinyl Edit (New Orleans Funkiest Delicacies)
-- Did You Heard What I Saw (It Ain't My Fault)
-- Whip It (It Ain't My Fault)
-- Dirty Red (It Ain't My Fault)
-- Smokestack (It Ain't My Fault)
+  - It Ain't My Fault (It Ain't My Fault)
+  - I Can't Help It (It Ain't My Fault)
+  - Tippin' Lightly (New Orleans Funkiest Delicacies)
+  - The Funkie Moon (It Ain't My Fault)
+  - Tippin' Lightly (It Ain't My Fault)
+  - Tippin' Lightly - Vinyl Edit (New Orleans Funkiest Delicacies)
+  - Did You Heard What I Saw (It Ain't My Fault)
+  - Whip It (It Ain't My Fault)
+  - Dirty Red (It Ain't My Fault)
+  - Smokestack (It Ain't My Fault)
 external_urls:
-  spotify: https://open.spotify.com/artist/0oNXydINWNrad1WaX28qHK
-  wikipedia: https://en.wikipedia.org/wiki/Smokey_Johnson
+  spotify: 'https://open.spotify.com/artist/0oNXydINWNrad1WaX28qHK'
+  wikipedia: 'https://en.wikipedia.org/wiki/Smokey_Johnson'
 image_path: 03_Resources/source_material/ArtistPortraits/smokey_johnson.jpg
 biography_enhanced_at: '2025-11-20T07:15:48.703751'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://kids.kiddle.co/Smokey_Johnson
-- https://drummerszone.com/artists/joseph-smokey-johnson/13451/profile/?language=5
-- https://offbeat.com/articles/joseph-smokey-johnson/
-- https://scottkfish.com/2018/05/25/nice-to-meet-and-hear-you-smokey-johnson/
-- https://drummerworld.com/forums/index.php?threads/smokey-johnson-dies.127837/
+  - 'https://kids.kiddle.co/Smokey_Johnson'
+  - >-
+    https://drummerszone.com/artists/joseph-smokey-johnson/13451/profile/?language=5
+  - 'https://offbeat.com/articles/joseph-smokey-johnson/'
+  - 'https://scottkfish.com/2018/05/25/nice-to-meet-and-hear-you-smokey-johnson/'
+  - >-
+    https://drummerworld.com/forums/index.php?threads/smokey-johnson-dies.127837/
 network_extracted: true
 entry_created: '2025-11-20T07:15:48.703758'
 last_updated: '2025-12-23T08:16:15.797605'
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1936-11-14'
+death_date: '2015-10-06'
+artist_type: person
 ---
 
 ![](smokey_johnson.jpg)

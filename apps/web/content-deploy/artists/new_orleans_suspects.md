@@ -3,46 +3,47 @@ biography_enhanced_at: '2026-01-21T01:16:16.970530'
 enhancement_provider: perplexity
 entry_created: '2026-01-21T01:16:16.970537'
 external_urls:
-  spotify: https://open.spotify.com/artist/72giGVybdVyHk8jim1UdRv
+  spotify: 'https://open.spotify.com/artist/72giGVybdVyHk8jim1UdRv'
   wikipedia: ''
 genres:
-- brass band
-- cajun
+  - brass band
+  - cajun
 image_path: 03_Resources/source_material/ArtistPortraits/new_orleans_suspects.jpg
 last_updated: '2026-01-21T01:16:16.970538'
 musical_connections:
   collaborators:
-  - Jake Eckert
-  - CR Gruver
-  - Reggie Scanlan
-  - Jeff Watkins
-  - Willie Green
-  - Dr. John
-  - Little Feat
+    - Jake Eckert
+    - CR Gruver
+    - Reggie Scanlan
+    - Jeff Watkins
+    - Willie Green
+    - Dr. John
+    - Little Feat
   influenced: []
   mentors:
-  - James Booker
-  - Professor Longhair
-  - Dr. John
-  - Allen Toussaint
+    - James Booker
+    - Professor Longhair
+    - Dr. John
+    - Allen Toussaint
 network_extracted: true
-origin: New Orleans, Louisiana, USA
+origin: 'New Orleans, Louisiana, USA'
 primary_source: perplexity
 research_sources:
-- https://neworleanssuspects.com
-- https://martyrslive.com/new-orleans-suspects
-- https://www.last.fm/music/The+New+Orleans+Suspects/+wiki
-- https://ragman.org/new-orleans-suspects
-- https://test.wwoz.org/acts/new-orleans-suspects
-- https://www.neworleans.com/listing/new-orleans-suspects/46502/
-- https://www.offbeat.com/music/new-orleans-suspects-funk-rock/
+  - 'https://neworleanssuspects.com'
+  - 'https://martyrslive.com/new-orleans-suspects'
+  - 'https://www.last.fm/music/The+New+Orleans+Suspects/+wiki'
+  - 'https://ragman.org/new-orleans-suspects'
+  - 'https://test.wwoz.org/acts/new-orleans-suspects'
+  - 'https://www.neworleans.com/listing/new-orleans-suspects/46502/'
+  - 'https://www.offbeat.com/music/new-orleans-suspects-funk-rock/'
 spotify_data:
   followers: 3072
   id: 72giGVybdVyHk8jim1UdRv
   popularity: 5
-  url: https://open.spotify.com/artist/72giGVybdVyHk8jim1UdRv
+  url: 'https://open.spotify.com/artist/72giGVybdVyHk8jim1UdRv'
 status: active
 title: New Orleans Suspects
+artist_type: band
 ---
 
 ![](new_orleans_suspects.jpg)

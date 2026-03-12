@@ -2,7 +2,7 @@
 title: Morphine
 wiki_slug: morphine
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1990'
 genres: []
@@ -26,55 +26,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mark Sandman
-  - Dana Colley
-  - Jerome Deupree
-  - Billy Conway
+    - Mark Sandman
+    - Dana Colley
+    - Jerome Deupree
+    - Billy Conway
   influenced:
-  - Vapors of Morphine
-  - Jeremy Lyons
+    - Vapors of Morphine
+    - Jeremy Lyons
   mentors:
-  - Russ Gershon
+    - Russ Gershon
 spotify_data:
   followers: 399454
   id: 3QgSmABpItIdj908ek80n5
   popularity: 48
-  url: https://open.spotify.com/artist/3QgSmABpItIdj908ek80n5
+  url: 'https://open.spotify.com/artist/3QgSmABpItIdj908ek80n5'
 discography_enriched: true
 top_tracks:
-- Buena (Cure for Pain)
-- Cure for Pain (Cure for Pain)
-- In Spite of Me (Cure for Pain)
-- You Look Like Rain (Good)
-- Good (Good)
-- The Night (The Night)
-- Thursday (Cure for Pain)
-- I'm Free Now (Cure for Pain)
-- Let's Take a Trip Together (Cure for Pain)
-- Scratch (Yes)
+  - Buena (Cure for Pain)
+  - Cure for Pain (Cure for Pain)
+  - In Spite of Me (Cure for Pain)
+  - You Look Like Rain (Good)
+  - Good (Good)
+  - The Night (The Night)
+  - Thursday (Cure for Pain)
+  - I'm Free Now (Cure for Pain)
+  - Let's Take a Trip Together (Cure for Pain)
+  - Scratch (Yes)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/42689657-cbec-4f66-a9ed-80f939ea23ed
-  spotify: https://open.spotify.com/artist/3QgSmABpItIdj908ek80n5
-  wikipedia: https://en.wikipedia.org/wiki/Morphine_(band)
+  musicbrainz: 'https://musicbrainz.org/artist/42689657-cbec-4f66-a9ed-80f939ea23ed'
+  spotify: 'https://open.spotify.com/artist/3QgSmABpItIdj908ek80n5'
+  wikipedia: 'https://en.wikipedia.org/wiki/Morphine_(band)'
 image_path: 03_Resources/source_material/ArtistPortraits/Morphine.jpg
 biography_enhanced_at: '2025-10-22T06:47:31.227575'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Morphine_(band)
-- https://morphineband.com/pages/morphine-biography
-- https://www.youtube.com/watch?v=VmPnBZUhuP0
-- https://music.apple.com/us/artist/morphine/3444725
+  - 'https://en.wikipedia.org/wiki/Morphine_(band)'
+  - 'https://morphineband.com/pages/morphine-biography'
+  - 'https://www.youtube.com/watch?v=VmPnBZUhuP0'
+  - 'https://music.apple.com/us/artist/morphine/3444725'
 network_extracted: true
 entry_created: '2025-10-22T06:47:31.227591'
 last_updated: '2025-12-23T08:16:03.139458'
 disambiguation: rock band
 musicbrainz_id: 42689657-cbec-4f66-a9ed-80f939ea23ed
-origin: Cambridge, Massachusetts, United States
+origin: 'Cambridge, Massachusetts, United States'
 tags:
-- alternative rock
-- blues rock
-- jazz rock
+  - alternative rock
+  - blues rock
+  - jazz rock
+death_date: '1999'
 ---
 
 ![](Morphine.jpg)

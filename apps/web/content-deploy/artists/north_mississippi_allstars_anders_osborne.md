@@ -4,13 +4,14 @@ wiki_slug: north-mississippi-allstars-anders-osborne
 schema_version: 2
 status: active
 genres:
-- southern rock
-- modern blues
-- blues rock
-- blues
-- roots rock
+  - southern rock
+  - modern blues
+  - blues rock
+  - blues
+  - roots rock
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/north_mississippi_allstars_anders_osborne.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/north_mississippi_allstars_anders_osborne.jpg
   caption: North Mississippi Allstars/ Anders Osborne
   background: solo_singer
 audio_profile:
@@ -20,7 +21,7 @@ audio_profile:
   danceability_avg: 0.676
   acousticness_avg: 0.364
   instrumentalness_avg: 0.12
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.056
   liveness_avg: 0.172
   track_count: 50
@@ -28,57 +29,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - North Mississippi Allstars (Luther and Cody Dickinson)
-  - Keb’ Mo’
-  - Tim McGraw
-  - Tab Benoit
-  - Johnny Sansone
-  - Mike Zito
-  - Phil Lesh
-  - Toots and the Maytals
-  - Dr. John
-  - Steve Earle
+    - North Mississippi Allstars (Luther and Cody Dickinson)
+    - Keb’ Mo’
+    - Tim McGraw
+    - Tab Benoit
+    - Johnny Sansone
+    - Mike Zito
+    - Phil Lesh
+    - Toots and the Maytals
+    - Dr. John
+    - Steve Earle
   influenced:
-  - Contemporary New Orleans roots and blues musicians
+    - Contemporary New Orleans roots and blues musicians
   mentors:
-  - Joni Mitchell
-  - New Orleans blues and roots tradition
+    - Joni Mitchell
+    - New Orleans blues and roots tradition
 spotify_data:
   followers: 115525
   id: 714osTgzZrkyf3SGjggpfY
   popularity: 40
-  url: https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY
+  url: 'https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY'
 discography_enriched: true
 top_tracks:
-- Up and Rolling (Up and Rolling)
-- Meet Me In the City (World Boogie Is Coming)
-- Set Sail part I (featuring Lamar Williams Jr.) (Set Sail)
-- See the Moon (featuring Lamar Williams Jr. and Sharisse Norman) (Set Sail)
-- Mean Old World (Up and Rolling)
-- What You Gonna Do? (Up and Rolling)
-- Dyin' days (Freedom & Dreams)
-- Catfish (Catfish)
-- Rollin 'N Tumblin (World Boogie Is Coming)
-- Shake 'Em On Down (Shake Hands With Shorty)
+  - Up and Rolling (Up and Rolling)
+  - Meet Me In the City (World Boogie Is Coming)
+  - Set Sail part I (featuring Lamar Williams Jr.) (Set Sail)
+  - See the Moon (featuring Lamar Williams Jr. and Sharisse Norman) (Set Sail)
+  - Mean Old World (Up and Rolling)
+  - What You Gonna Do? (Up and Rolling)
+  - Dyin' days (Freedom & Dreams)
+  - Catfish (Catfish)
+  - Rollin 'N Tumblin (World Boogie Is Coming)
+  - Shake 'Em On Down (Shake Hands With Shorty)
 external_urls:
-  spotify: https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY
-  wikipedia: https://en.wikipedia.org/wiki/Anders_Osborne
-image_path: 03_Resources/source_material/ArtistPortraits/north_mississippi_allstars_anders_osborne.jpg
+  spotify: 'https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY'
+  wikipedia: 'https://en.wikipedia.org/wiki/Anders_Osborne'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/north_mississippi_allstars_anders_osborne.jpg
 biography_enhanced_at: '2025-12-20T01:15:05.234918'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.andersosborne.com/about
-- https://www.last.fm/music/Anders+Osborne/+wiki
-- https://liveandlisten.com/blogs/news/a-conversation-with-anders-osborne
-- https://kalmusky.com/artists/anders-osborne/
-- https://www.sprucepeakarts.org/events/anders-osborne-duo/
-- https://www.neworleans.com/listing/anders-osborne/47805/
+  - 'https://www.andersosborne.com/about'
+  - 'https://www.last.fm/music/Anders+Osborne/+wiki'
+  - 'https://liveandlisten.com/blogs/news/a-conversation-with-anders-osborne'
+  - 'https://kalmusky.com/artists/anders-osborne/'
+  - 'https://www.sprucepeakarts.org/events/anders-osborne-duo/'
+  - 'https://www.neworleans.com/listing/anders-osborne/47805/'
 network_extracted: true
 entry_created: '2025-12-20T01:15:05.234930'
 last_updated: '2025-12-23T08:16:13.657881'
-origin: Uddevalla, Västra Götaland County, Sweden (birthplace of Anders Osborne) / North Mississippi, Mississippi, United States (origin of North Mississippi Allstars; joint project North Mississippi Osborne ties this to New Orleans, Louisiana, United States)
-
+origin: >-
+  Uddevalla, Västra Götaland County, Sweden (birthplace of Anders Osborne) /
+  North Mississippi, Mississippi, United States (origin of North Mississippi
+  Allstars; joint project North Mississippi Osborne ties this to New Orleans,
+  Louisiana, United States)
+birth_place: 'Uddevalla, Västra Götaland County, Sweden'
+birth_date: '1966-05-04'
+artist_type: band
 ---
 
 ![](north_mississippi_allstars_anders_osborne.jpg)

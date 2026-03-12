@@ -1,27 +1,27 @@
 ---
-title: JIMMY DAWKINS
+title: Jimmy Dawkins
 wiki_slug: jimmy-dawkins
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1936-10-24'
-birth_place: Holmes County
+birth_place: 'Tchula, Mississippi, United States'
 death_date: '2013-04-10'
 genres:
-- blues
-- classic blues
-- modern blues
-- blues rock
+  - blues
+  - classic blues
+  - modern blues
+  - blues rock
 instruments:
-- bass guitar
-- guitar
-associated_acts:
-- begin: '2015-07-01'
-  end: ''
-  instruments:
   - bass guitar
-  mbid: e963e0ab-5322-4cfb-9c96-e71dac6b7a25
-  name: Rhonda and the Great Unknown
+  - guitar
+associated_acts:
+  - begin: '2015-07-01'
+    end: ''
+    instruments:
+      - bass guitar
+    mbid: e963e0ab-5322-4cfb-9c96-e71dac6b7a25
+    name: Rhonda and the Great Unknown
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jimmy_dawkins.jpg
   caption: JIMMY DAWKINS
@@ -30,7 +30,7 @@ infobox:
   origin: Holmes County
   died: '2013-04-10'
 audio_profile:
-  tempo_avg: 129.0
+  tempo_avg: 129
   energy_avg: 0.547
   valence_avg: 0.648
   danceability_avg: 0.543
@@ -44,56 +44,66 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Andrew 'Big Voice' Odom
-  - Otis Rush
-  - Koko Taylor, Carey Bell, Luther Allison, Wild Child Butler, Johnny Young, Sleepy John Estes, Earl Hooker
+    - Andrew 'Big Voice' Odom
+    - Otis Rush
+    - >-
+      Koko Taylor, Carey Bell, Luther Allison, Wild Child Butler, Johnny Young,
+      Sleepy John Estes, Earl Hooker
   influenced:
-  - Taildragger
-  - Queen Sylvia Embry
-  - Little Johnny Christian
-  - Nora Jean Wallace
+    - Taildragger
+    - Queen Sylvia Embry
+    - Little Johnny Christian
+    - Nora Jean Wallace
   mentors:
-  - Magic Sam (Sam Maghett)
+    - Magic Sam (Sam Maghett)
 spotify_data:
   followers: 15910
   id: 69mMUlfVNVGQsw733rBShc
   popularity: 25
-  url: https://open.spotify.com/artist/69mMUlfVNVGQsw733rBShc
+  url: 'https://open.spotify.com/artist/69mMUlfVNVGQsw733rBShc'
 discography_enriched: true
 top_tracks:
-- Kold Actions (Hot Wire 81 (feat. Richard Kirch, Sylvester Boines, Jimmy Schutte) [Blues Power])
-- Little Angel Child (Fast Fingers)
-- Highway Man Blues (Feel the Blues 2014 Remix)
-- Ruff Times (Hot Wire 81 (feat. Richard Kirch, Sylvester Boines, Jimmy Schutte) [Blues Power])
-- Off Business (Born in Poverty (Recorded in France 1971-1974))
-- It Serves Me Right To Suffer (Fast Fingers)
-- Night Rock (Fast Fingers)
-- I Finally Learned A Lesson (Fast Fingers)
-- Welfare Blues (All For Business)
-- I Wonder Why (Fast Fingers)
+  - >-
+    Kold Actions (Hot Wire 81 (feat. Richard Kirch, Sylvester Boines, Jimmy
+    Schutte) [Blues Power])
+  - Little Angel Child (Fast Fingers)
+  - Highway Man Blues (Feel the Blues 2014 Remix)
+  - >-
+    Ruff Times (Hot Wire 81 (feat. Richard Kirch, Sylvester Boines, Jimmy
+    Schutte) [Blues Power])
+  - Off Business (Born in Poverty (Recorded in France 1971-1974))
+  - It Serves Me Right To Suffer (Fast Fingers)
+  - Night Rock (Fast Fingers)
+  - I Finally Learned A Lesson (Fast Fingers)
+  - Welfare Blues (All For Business)
+  - I Wonder Why (Fast Fingers)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/29b6466d-83d5-4011-83d8-1d432eaa6fc2
-  spotify: https://open.spotify.com/artist/69mMUlfVNVGQsw733rBShc
-  wikipedia: https://en.wikipedia.org/wiki/Jimmy_Dawkins
+  musicbrainz: 'https://musicbrainz.org/artist/29b6466d-83d5-4011-83d8-1d432eaa6fc2'
+  spotify: 'https://open.spotify.com/artist/69mMUlfVNVGQsw733rBShc'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jimmy_Dawkins'
 image_path: 03_Resources/source_material/ArtistPortraits/jimmy_dawkins.jpg
 biography_enhanced_at: '2025-10-28T09:09:14.652263'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Jimmy+Dawkins/+wiki
-- https://delmark.com/2020/10/legendary-jimmy-dawkins-birthday-october-24-1936-april-10-2013/
-- http://mississippibluesproject.org/2013/04/15/jimmy-dawkins-1936-2013-by-jonny-meister/
-- https://aadl.org/node/197547
-- https://www.thebestoffmusic.nl/blues/jimmy-dawkins/
+  - 'https://www.last.fm/music/Jimmy+Dawkins/+wiki'
+  - >-
+    https://delmark.com/2020/10/legendary-jimmy-dawkins-birthday-october-24-1936-april-10-2013/
+  - >-
+    http://mississippibluesproject.org/2013/04/15/jimmy-dawkins-1936-2013-by-jonny-meister/
+  - 'https://aadl.org/node/197547'
+  - 'https://www.thebestoffmusic.nl/blues/jimmy-dawkins/'
 network_extracted: true
 entry_created: '2025-10-28T09:09:14.652269'
 last_updated: '2025-12-23T08:16:10.453424'
 gender: Male
 musicbrainz_id: 29b6466d-83d5-4011-83d8-1d432eaa6fc2
 tags:
-- blues
-- chicago blues
-- electric blues
+  - blues
+  - chicago blues
+  - electric blues
+is_active: false
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](jimmy_dawkins.jpg)

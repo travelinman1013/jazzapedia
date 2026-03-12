@@ -1,48 +1,48 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-05T07:52:17.078663'
-birth_place: Brighton, England, United Kingdom
+birth_place: 'Brighton, England, United Kingdom'
 enhancement_provider: perplexity
 entry_created: '2026-01-05T07:52:17.078669'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/aebe4ee2-c870-48a6-82bd-3d05ef882202
-  spotify: https://open.spotify.com/artist/2WEbxWSk4dAuWu8E34CA8p
+  musicbrainz: 'https://musicbrainz.org/artist/aebe4ee2-c870-48a6-82bd-3d05ef882202'
+  spotify: 'https://open.spotify.com/artist/2WEbxWSk4dAuWu8E34CA8p'
   wikipedia: null
 gender: Male
 genres:
-- celtic
+  - celtic
 image_path: 03_Resources/source_material/ArtistPortraits/damh_the_bard.jpg
 last_updated: '2026-01-05T07:52:17.078669'
 musical_connections:
   collaborators:
-  - Robin Williamson
-  - Spiral Castle
-  - Eric Bogle
+    - Robin Williamson
+    - Spiral Castle
+    - Eric Bogle
   influenced: []
   mentors:
-  - Tim O'Leary
-  - Order of Bards, Ovates and Druids
+    - Tim O'Leary
+    - 'Order of Bards, Ovates and Druids'
 musicbrainz_id: aebe4ee2-c870-48a6-82bd-3d05ef882202
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Damh+the+Bard/+wiki
-- https://www.youtube.com/watch?v=G52GnsMzUAY
-- https://www.paganmusic.co.uk/biography/
-- https://damh.wordpress.com/about/biography/
-- https://www.electricmusicmagazine.com/damh-the-bard-exclusive-interview
-- https://www.aaemusic.com/artist/damh-the-bard
-- https://www.paganmusic.co.uk/about/
-- https://damh.wordpress.com/about/
+  - 'https://www.last.fm/music/Damh+the+Bard/+wiki'
+  - 'https://www.youtube.com/watch?v=G52GnsMzUAY'
+  - 'https://www.paganmusic.co.uk/biography/'
+  - 'https://damh.wordpress.com/about/biography/'
+  - 'https://www.electricmusicmagazine.com/damh-the-bard-exclusive-interview'
+  - 'https://www.aaemusic.com/artist/damh-the-bard'
+  - 'https://www.paganmusic.co.uk/about/'
+  - 'https://damh.wordpress.com/about/'
 spotify_data:
   followers: 26164
   id: 2WEbxWSk4dAuWu8E34CA8p
   popularity: 32
-  url: https://open.spotify.com/artist/2WEbxWSk4dAuWu8E34CA8p
+  url: 'https://open.spotify.com/artist/2WEbxWSk4dAuWu8E34CA8p'
 status: active
 tags:
-- folk
-title: DAMH THE BARD
+  - folk
+title: Damh the Bard
 ---
 
 ![](damh_the_bard.jpg)

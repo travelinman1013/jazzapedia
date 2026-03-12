@@ -4,8 +4,8 @@ wiki_slug: the-meatmen
 schema_version: 2
 status: active
 genres:
-- hardcore punk
-- punk
+  - hardcore punk
+  - punk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_meatmen.jpg
   caption: The Meatmen!
@@ -17,7 +17,7 @@ audio_profile:
   danceability_avg: 0.465
   acousticness_avg: 0.09
   instrumentalness_avg: 0.16
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.111
   liveness_avg: 0.253
   track_count: 50
@@ -25,47 +25,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Gang Green
-  - Flesheaters
+    - Gang Green
+    - Flesheaters
   influenced:
-  - Skate Punk and Hardcore Punk Scene
+    - Skate Punk and Hardcore Punk Scene
   mentors:
-  - Touch and Go Fanzine Community
+    - Touch and Go Fanzine Community
 spotify_data:
   followers: 20070
   id: 2Pu7FTzx1loEs7y6EWLljQ
   popularity: 21
-  url: https://open.spotify.com/artist/2Pu7FTzx1loEs7y6EWLljQ
+  url: 'https://open.spotify.com/artist/2Pu7FTzx1loEs7y6EWLljQ'
 discography_enriched: true
 top_tracks:
-- I'm Gonna Fuck You Up (Savage Sagas)
-- The Dwarves Are the 2nd Greatest Band in the World (Savage Sagas)
-- Men O Meat (Savage Sagas)
-- 1 Down 3 to Go (We're the Meatmen and You Suck)
-- It's Amateur Night at Uncle Bux Bikini Club (Savage Sagas)
-- Pope On A Rope (Pope On A Rope)
-- Pissed Hot for Weed (Savage Sagas)
-- I Want Drugs (Pope On A Rope)
-- We're The Meatmen And You Suck (Toilet Slave)
-- Tooling for Anus (We're the Meatmen and You Suck)
+  - I'm Gonna Fuck You Up (Savage Sagas)
+  - The Dwarves Are the 2nd Greatest Band in the World (Savage Sagas)
+  - Men O Meat (Savage Sagas)
+  - 1 Down 3 to Go (We're the Meatmen and You Suck)
+  - It's Amateur Night at Uncle Bux Bikini Club (Savage Sagas)
+  - Pope On A Rope (Pope On A Rope)
+  - Pissed Hot for Weed (Savage Sagas)
+  - I Want Drugs (Pope On A Rope)
+  - We're The Meatmen And You Suck (Toilet Slave)
+  - Tooling for Anus (We're the Meatmen and You Suck)
 external_urls:
-  spotify: https://open.spotify.com/artist/2Pu7FTzx1loEs7y6EWLljQ
+  spotify: 'https://open.spotify.com/artist/2Pu7FTzx1loEs7y6EWLljQ'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/the_meatmen.jpg
 biography_enhanced_at: '2025-12-04T07:43:50.694718'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- ideas.fandom.com/wiki/The_Meatmen
-- touchandgorecords.com/bands/band.php?id=80
-- 'dallasobserver.com - Q&A: The Meatmen''s Tesco Vee'
-- markprindle.com/meatmena.htm
-- music.apple.com/us/artist/the-meatmen
+  - ideas.fandom.com/wiki/The_Meatmen
+  - touchandgorecords.com/bands/band.php?id=80
+  - 'dallasobserver.com - Q&A: The Meatmen''s Tesco Vee'
+  - markprindle.com/meatmena.htm
+  - music.apple.com/us/artist/the-meatmen
 network_extracted: true
 entry_created: '2025-12-04T07:43:50.694727'
 last_updated: '2025-12-23T08:16:16.948025'
-origin: Lansing, Michigan, United States
-
+origin: 'Lansing, Michigan, United States'
+artist_type: band
 ---
 
 ![](the_meatmen.jpg)

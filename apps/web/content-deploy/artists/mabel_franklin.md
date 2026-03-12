@@ -1,5 +1,5 @@
 ---
-title: mabel franklin
+title: Mabel Franklin
 wiki_slug: mabel-franklin
 schema_version: 2
 status: active
@@ -29,24 +29,25 @@ spotify_data:
   followers: 4
   id: 1fl4fABLz6uLtbs6C8uXsI
   popularity: 0
-  url: https://open.spotify.com/artist/1fl4fABLz6uLtbs6C8uXsI
+  url: 'https://open.spotify.com/artist/1fl4fABLz6uLtbs6C8uXsI'
 discography_enriched: true
 top_tracks:
-- Let´s Do the Wiggle (Rare Rhythm´n´blues Vol.2, 20 R&B 45 Rpm Nuggets)
-- Lets Do The Wiggle (Move On)
-- Lets Do the Wiggle (Move On!)
+  - 'Let´s Do the Wiggle (Rare Rhythm´n´blues Vol.2, 20 R&B 45 Rpm Nuggets)'
+  - Lets Do The Wiggle (Move On)
+  - Lets Do the Wiggle (Move On!)
 external_urls:
-  spotify: https://open.spotify.com/artist/1fl4fABLz6uLtbs6C8uXsI
+  spotify: 'https://open.spotify.com/artist/1fl4fABLz6uLtbs6C8uXsI'
   wikipedia: ''
 image_path: ''
 biography_enhanced_at: '2025-10-29T16:50:53.891671'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.allmusic.com/artist/mabel-franklin-mn0001385338
+  - 'https://www.allmusic.com/artist/mabel-franklin-mn0001385338'
 network_extracted: true
 entry_created: '2025-10-29T16:50:53.891681'
 last_updated: '2025-12-23T08:16:12.436691'
+artist_type: person
 ---
 
 ![]()

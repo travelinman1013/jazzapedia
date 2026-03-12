@@ -2,16 +2,17 @@
 title: Gene Kardos and his Orchestra
 wiki_slug: gene-kardos-and-his-orchestra
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
-birth_date: '1931'
+birth_date: '1899-06-12'
 genres: []
 instruments:
-- eponymous
-- original
-- principal
+  - eponymous
+  - original
+  - principal
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/gene_kardos_and_his_orchestra.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/gene_kardos_and_his_orchestra.jpg
   caption: Gene Kardos and his Orchestra
   background: group_or_band
   born: '1931'
@@ -30,58 +31,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bernie Green
-  - Joel Shaw
-  - Bunny Berigan
-  - Smith Howard
+    - Bernie Green
+    - Joel Shaw
+    - Bunny Berigan
+    - Smith Howard
   influenced:
-  - No specific proteges documented
+    - No specific proteges documented
   mentors:
-  - None specifically documented
+    - None specifically documented
 spotify_data:
   followers: 21
   id: 55SnM0yu3mTJV9DQc3fdE0
   popularity: 1
-  url: https://open.spotify.com/artist/55SnM0yu3mTJV9DQc3fdE0
+  url: 'https://open.spotify.com/artist/55SnM0yu3mTJV9DQc3fdE0'
 discography_enriched: true
 top_tracks:
-- Zombie (Now's The Time To Fall In Love)
-- All I Do Is Dream Of You (Now's The Time To Fall In Love)
-- Don't Let Your Love Go Wrong (Now's The Time To Fall In Love)
-- Honeymoon Hotel (Now's The Time To Fall In Love)
-- I Like That Face You're Wearin' (Now's The Time To Fall In Love)
-- In Other Words, We're Through (Now's The Time To Fall In Love)
-- Love Locked Out (Now's The Time To Fall In Love)
-- Nothing's Blue But The Sky (Now's The Time To Fall In Love)
-- Oh! My Goodness (Now's The Time To Fall In Love)
-- Pettin' In The Park (Now's The Time To Fall In Love)
+  - Zombie (Now's The Time To Fall In Love)
+  - All I Do Is Dream Of You (Now's The Time To Fall In Love)
+  - Don't Let Your Love Go Wrong (Now's The Time To Fall In Love)
+  - Honeymoon Hotel (Now's The Time To Fall In Love)
+  - I Like That Face You're Wearin' (Now's The Time To Fall In Love)
+  - 'In Other Words, We''re Through (Now''s The Time To Fall In Love)'
+  - Love Locked Out (Now's The Time To Fall In Love)
+  - Nothing's Blue But The Sky (Now's The Time To Fall In Love)
+  - Oh! My Goodness (Now's The Time To Fall In Love)
+  - Pettin' In The Park (Now's The Time To Fall In Love)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/fb711add-882b-4c5f-a151-5f792dc14792
-  spotify: https://open.spotify.com/artist/55SnM0yu3mTJV9DQc3fdE0
+  musicbrainz: 'https://musicbrainz.org/artist/fb711add-882b-4c5f-a151-5f792dc14792'
+  spotify: 'https://open.spotify.com/artist/55SnM0yu3mTJV9DQc3fdE0'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/gene_kardos_and_his_orchestra.jpg
 biography_enhanced_at: '2025-10-26T12:24:27.247633'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.horntip.com/mp3/1930s/1930s_gene_kardos_and_joel_shaw_(CD)/vol_1/index.htm
-- https://oldtimeblues.net/2016/06/12/banner-32551-genes-merrymakers-1932/
-- http://oldtimeblues.net/tag/gene-kardos/
-- https://www.horntip.com/mp3/1930s/1930s_gene_kardos_and_joel_shaw_(CD)/vol_2/index.htm
+  - >-
+    https://www.horntip.com/mp3/1930s/1930s_gene_kardos_and_joel_shaw_(CD)/vol_1/index.htm
+  - 'https://oldtimeblues.net/2016/06/12/banner-32551-genes-merrymakers-1932/'
+  - 'http://oldtimeblues.net/tag/gene-kardos/'
+  - >-
+    https://www.horntip.com/mp3/1930s/1930s_gene_kardos_and_joel_shaw_(CD)/vol_2/index.htm
 network_extracted: true
 entry_created: '2025-10-26T12:24:27.247642'
 last_updated: '2025-12-23T08:16:09.049385'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  - principal
-  mbid: 91253ec9-16a4-4268-b4aa-616ffddb87e6
-  name: Gene Kardos
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - principal
+    mbid: 91253ec9-16a4-4268-b4aa-616ffddb87e6
+    name: Gene Kardos
 musicbrainz_id: fb711add-882b-4c5f-a151-5f792dc14792
-origin: New York City, New York, United States
+origin: 'New York City, New York, United States'
+birth_place: 'New York City, New York, United States'
 ---
 
 ![](gene_kardos_and_his_orchestra.jpg)

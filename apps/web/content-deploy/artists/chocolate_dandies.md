@@ -4,45 +4,46 @@ biography_enhanced_at: '2026-01-15T01:16:55.963789'
 enhancement_provider: perplexity
 entry_created: '2026-01-15T01:16:55.963804'
 external_urls:
-  spotify: https://open.spotify.com/artist/2wUHNI6waUw3HKwWHSsfgW
+  spotify: 'https://open.spotify.com/artist/2wUHNI6waUw3HKwWHSsfgW'
   wikipedia: ''
 genres:
-- big band
-- swing music
+  - big band
+  - swing music
 image_path: 03_Resources/source_material/ArtistPortraits/chocolate_dandies.jpg
 is_active: true
 last_updated: '2026-01-15T01:16:55.963807'
 musical_connections:
   collaborators:
-  - Rex Stewart
-  - J.C. Higginbotham
-  - Coleman Hawkins
-  - Fats Waller
-  - Benny Carter
-  - Leon 'Chu' Berry
-  - Buck Clayton
-  - Max Kaminsky
+    - Rex Stewart
+    - J.C. Higginbotham
+    - Coleman Hawkins
+    - Fats Waller
+    - Benny Carter
+    - Leon 'Chu' Berry
+    - Buck Clayton
+    - Max Kaminsky
   influenced: []
   mentors:
-  - Don Redman
-  - Benny Carter
+    - Don Redman
+    - Benny Carter
 network_extracted: true
 origin: United States
 primary_source: perplexity
 research_sources:
-- https://www.allaboutjazz.com/musicians/chocolate-dandies/
-- https://syncopation.de/music-scores/chocolate-dandies/
-- https://www.last.fm/music/The+Chocolate+Dandies/+wiki
-- https://musicbrainz.org/artist/f0cc5e2e-a2b3-4e38-b641-4dabe32c136d
-- https://syncopatedtimes.com/chocolate-dandies/
-- https://www.harlem-fuss.com/pdf/bands/harlem_fuss_bands_chocolate_dandies.pdf
+  - 'https://www.allaboutjazz.com/musicians/chocolate-dandies/'
+  - 'https://syncopation.de/music-scores/chocolate-dandies/'
+  - 'https://www.last.fm/music/The+Chocolate+Dandies/+wiki'
+  - 'https://musicbrainz.org/artist/f0cc5e2e-a2b3-4e38-b641-4dabe32c136d'
+  - 'https://syncopatedtimes.com/chocolate-dandies/'
+  - >-
+    https://www.harlem-fuss.com/pdf/bands/harlem_fuss_bands_chocolate_dandies.pdf
 spotify_data:
   followers: 1059
   id: 2wUHNI6waUw3HKwWHSsfgW
   popularity: 6
-  url: https://open.spotify.com/artist/2wUHNI6waUw3HKwWHSsfgW
+  url: 'https://open.spotify.com/artist/2wUHNI6waUw3HKwWHSsfgW'
 status: active
-title: CHOCOLATE DANDIES
+title: Chocolate Dandies
 ---
 
 ![](chocolate_dandies.jpg)

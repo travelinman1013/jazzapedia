@@ -2,22 +2,22 @@
 title: Gonzalo Rubalcaba
 wiki_slug: gonzalo-rubalcaba
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1963-05-27'
-birth_place: Havana, Cuba
+birth_place: 'Havana, Cuba, United States'
 genres:
-- latin jazz
-- jazz
+  - latin jazz
+  - jazz
 instruments:
-- eponymous
-- original
+  - eponymous
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Gonzalo_Rubalcaba.jpg
   caption: Gonzalo Rubalcaba
   background: non_vocal_instrumentalist
   born: '1963-05-27'
-  origin: Havana, Cuba
+  origin: 'Havana, Cuba'
 audio_profile:
   tempo_avg: 111.8
   energy_avg: 0.386
@@ -33,45 +33,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Charlie Haden
-  - Paul Motian
-  - Chucho Valdés
+    - Charlie Haden
+    - Paul Motian
+    - Chucho Valdés
   influenced:
-  - Yosvany Terry
+    - Yosvany Terry
   mentors:
-  - Guillermo Rubalcaba
-  - Dizzy Gillespie
+    - Guillermo Rubalcaba
+    - Dizzy Gillespie
 spotify_data:
   followers: 32966
   id: 0qEGZBnqUgcVlTE7EEjR2F
   popularity: 31
-  url: https://open.spotify.com/artist/0qEGZBnqUgcVlTE7EEjR2F
+  url: 'https://open.spotify.com/artist/0qEGZBnqUgcVlTE7EEjR2F'
 discography_enriched: true
 top_tracks:
-- De Miami a La Habana (From Miami a La Habana)
-- Turning I (Turning Point / Trio D'ete)
-- Quizás, Quizás, Quizás
-- Unforgettable (Fascination)
-- El Manisero (A Journey Through Cuban Music)
-- Rumba Callejera - En Vivo (Viento y Tiempo (Live at Blue Note Tokyo))
-- 'Cabanga (Cachao Vive: El Alma del Contrabajo)'
-- Cómo Fue (with Gonzalo Rubalcaba) (Indestructible)
-- 'Canta Contrabajo (Cachao Vive: El Alma del Contrabajo)'
-- En La Orilla Del Mundo (Tokyo Adagio)
+  - De Miami a La Habana (From Miami a La Habana)
+  - Turning I (Turning Point / Trio D'ete)
+  - 'Quizás, Quizás, Quizás'
+  - Unforgettable (Fascination)
+  - El Manisero (A Journey Through Cuban Music)
+  - Rumba Callejera - En Vivo (Viento y Tiempo (Live at Blue Note Tokyo))
+  - 'Cabanga (Cachao Vive: El Alma del Contrabajo)'
+  - Cómo Fue (with Gonzalo Rubalcaba) (Indestructible)
+  - 'Canta Contrabajo (Cachao Vive: El Alma del Contrabajo)'
+  - En La Orilla Del Mundo (Tokyo Adagio)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/70053535-a3ae-4aad-a6cd-68c55085b843
-  spotify: https://open.spotify.com/artist/0qEGZBnqUgcVlTE7EEjR2F
-  wikipedia: https://en.wikipedia.org/wiki/Gonzalo_Rubalcaba
+  musicbrainz: 'https://musicbrainz.org/artist/70053535-a3ae-4aad-a6cd-68c55085b843'
+  spotify: 'https://open.spotify.com/artist/0qEGZBnqUgcVlTE7EEjR2F'
+  wikipedia: 'https://en.wikipedia.org/wiki/Gonzalo_Rubalcaba'
 image_path: 03_Resources/source_material/ArtistPortraits/Gonzalo_Rubalcaba.jpg
 biography_enhanced_at: '2025-10-21T06:45:17.066855'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Blue Note Records artist page
-- Pula Summer of Culture
-- University of Miami People Directory
-- Chicago Symphony Orchestra article
-- Wikipedia
+  - Blue Note Records artist page
+  - Pula Summer of Culture
+  - University of Miami People Directory
+  - Chicago Symphony Orchestra article
+  - Wikipedia
 network_extracted: true
 entry_created: '2025-10-21T06:45:17.066868'
 last_updated: '2025-12-23T08:16:02.154450'
@@ -80,9 +80,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:28:06.468393'
 musicbrainz_id: 70053535-a3ae-4aad-a6cd-68c55085b843
 tags:
-- afro-cuban jazz
-- jazz
-- latin jazz
+  - afro-cuban jazz
+  - jazz
+  - latin jazz
+origin: 'Miami, Florida, United States'
 ---
 
 ![](Gonzalo_Rubalcaba.jpg)

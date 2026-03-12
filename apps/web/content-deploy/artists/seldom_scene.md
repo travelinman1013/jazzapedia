@@ -1,12 +1,12 @@
 ---
-title: Seldom Scene
+title: The Seldom Scene
 wiki_slug: seldom-scene
 schema_version: 2
 status: active
 genres:
-- bluegrass
-- newgrass
-- christian country
+  - bluegrass
+  - newgrass
+  - christian country
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/seldom_scene.jpg
   caption: Seldom Scene
@@ -26,52 +26,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John Starling
-  - Mike Auldridge
-  - Lou Reid
-  - Fred Travers
+    - John Starling
+    - Mike Auldridge
+    - Lou Reid
+    - Fred Travers
   influenced:
-  - Alison Krauss
-  - The Infamous Stringdusters
-  - D.C. Bluegrass Community
+    - Alison Krauss
+    - The Infamous Stringdusters
+    - D.C. Bluegrass Community
   mentors:
-  - The Country Gentlemen
-  - Paul Craft
+    - The Country Gentlemen
+    - Paul Craft
 spotify_data:
   followers: 32193
   id: 2oxmEjNo7UXIiZi7X7ovGq
   popularity: 32
-  url: https://open.spotify.com/artist/2oxmEjNo7UXIiZi7X7ovGq
+  url: 'https://open.spotify.com/artist/2oxmEjNo7UXIiZi7X7ovGq'
 discography_enriched: true
 top_tracks:
-- Wait A Minute (Old Train)
-- My Little Georgia Rose (Act 3)
-- Were You There? (Baptizing)
-- Farewell, Angelina
-- Last of the Steam-Powered Trains
-- A Good Time Man Like Me Ain't Got No Business (Singin' the Blues) (Remains to Be Scene)
-- Hard Travelin' (Remains to Be Scene)
-- It's All Over Now, Baby Blue (Long Time... Seldom Scene)
-- Working On A Building (Old Train)
-- Gospel Medley (Baptizing)
+  - Wait A Minute (Old Train)
+  - My Little Georgia Rose (Act 3)
+  - Were You There? (Baptizing)
+  - 'Farewell, Angelina'
+  - Last of the Steam-Powered Trains
+  - >-
+    A Good Time Man Like Me Ain't Got No Business (Singin' the Blues) (Remains
+    to Be Scene)
+  - Hard Travelin' (Remains to Be Scene)
+  - 'It''s All Over Now, Baby Blue (Long Time... Seldom Scene)'
+  - Working On A Building (Old Train)
+  - Gospel Medley (Baptizing)
 external_urls:
-  spotify: https://open.spotify.com/artist/2oxmEjNo7UXIiZi7X7ovGq
-  wikipedia: https://en.wikipedia.org/wiki/The_Seldom_Scene
+  spotify: 'https://open.spotify.com/artist/2oxmEjNo7UXIiZi7X7ovGq'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Seldom_Scene'
 image_path: 03_Resources/source_material/ArtistPortraits/seldom_scene.jpg
 biography_enhanced_at: '2025-11-01T15:20:46.922101'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://deepcreektimes.com/the-seldom-scene-2/
-- https://bluegrassunlimited.com/article/the-seldom-scene-all-this-and-fun-too/
-- https://www.seldomscene.com/band
-- https://bluegrassunlimited.com/article/the-stability-and-versatility-of-the-seldom-scene/
-- https://www.bluegrasshall.org/inductees/the-original-seldom-scene/
-- https://folkways.si.edu/wait-minute-studio-recording-long-time-seldom-scene/bluegrass-american-folk/music/video/smithsonian
+  - 'https://deepcreektimes.com/the-seldom-scene-2/'
+  - >-
+    https://bluegrassunlimited.com/article/the-seldom-scene-all-this-and-fun-too/
+  - 'https://www.seldomscene.com/band'
+  - >-
+    https://bluegrassunlimited.com/article/the-stability-and-versatility-of-the-seldom-scene/
+  - 'https://www.bluegrasshall.org/inductees/the-original-seldom-scene/'
+  - >-
+    https://folkways.si.edu/wait-minute-studio-recording-long-time-seldom-scene/bluegrass-american-folk/music/video/smithsonian
 network_extracted: true
 entry_created: '2025-11-01T15:20:46.922111'
 last_updated: '2025-12-23T08:16:15.462349'
-origin: Bethesda, Maryland, United States
+origin: 'Bethesda, Maryland, United States'
+artist_type: band
 ---
 
 ![](seldom_scene.jpg)

@@ -2,13 +2,13 @@
 title: Free Agents Brass Band
 wiki_slug: free-agents-brass-band
 schema_version: 2
-artist_type: Group
+artist_type: person
 status: active
 birth_date: 2005-09
 genres:
-- cajun
+  - cajun
 instruments:
-- original
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Free_Agents_Brass_Band.jpg
   caption: Free Agents Brass Band
@@ -29,47 +29,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ellis Joseph
-  - Former members of Rebirth Brass Band, Soul Rebels
+    - Ellis Joseph
+    - 'Former members of Rebirth Brass Band, Soul Rebels'
   influenced:
-  - New Orleans music scene
+    - New Orleans music scene
   mentors:
-  - New Orleans Brass Band Tradition
+    - New Orleans Brass Band Tradition
 spotify_data:
   followers: 720
   id: 7cgxJxjEzQnnexoKCkXUDg
   popularity: 4
-  url: https://open.spotify.com/artist/7cgxJxjEzQnnexoKCkXUDg
+  url: 'https://open.spotify.com/artist/7cgxJxjEzQnnexoKCkXUDg'
 discography_enriched: true
 top_tracks:
-- 'We Made It Through That Water (Treme: Music From The HBO Original Series, Season 1)'
-- Made It Through That Water (Made It Through That Water)
-- Move Something (Move Something)
-- Move Something (Made It Through That Water)
-- Music Is the Key (Made It Through That Water)
-- Feel Good Music (Made It Through That Water)
-- Fat Boy (Made It Through That Water)
-- Stop the Violence (Made It Through That Water)
-- 'We Made It Through That Water (Treme: Music From The HBO Original Series, Season 1)'
-- 'We Made It Through That Water (Treme: Music From The HBO Original Series, Season 1)'
+  - >-
+    We Made It Through That Water (Treme: Music From The HBO Original Series,
+    Season 1)
+  - Made It Through That Water (Made It Through That Water)
+  - Move Something (Move Something)
+  - Move Something (Made It Through That Water)
+  - Music Is the Key (Made It Through That Water)
+  - Feel Good Music (Made It Through That Water)
+  - Fat Boy (Made It Through That Water)
+  - Stop the Violence (Made It Through That Water)
+  - >-
+    We Made It Through That Water (Treme: Music From The HBO Original Series,
+    Season 1)
+  - >-
+    We Made It Through That Water (Treme: Music From The HBO Original Series,
+    Season 1)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a646e159-836c-424e-95ef-c36539e88240
-  spotify: https://open.spotify.com/artist/7cgxJxjEzQnnexoKCkXUDg
+  musicbrainz: 'https://musicbrainz.org/artist/a646e159-836c-424e-95ef-c36539e88240'
+  spotify: 'https://open.spotify.com/artist/7cgxJxjEzQnnexoKCkXUDg'
   wikipedia: Not found
 image_path: 03_Resources/source_material/ArtistPortraits/Free_Agents_Brass_Band.jpg
 biography_enhanced_at: '2025-10-21T06:52:44.018983'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://mattsakakeeny.com/roll-with-it/brass-bands/free-agents/
-- https://www.offbeat.com/news/free-agents-brass-band-to-reissue-album-for-hurricane-katrina-20th-anniversary/
-- https://www.mortontimesnews.com/story/entertainment/events/2013/06/11/free-agents-brass-band-to/45728569007/
+  - 'https://mattsakakeeny.com/roll-with-it/brass-bands/free-agents/'
+  - >-
+    https://www.offbeat.com/news/free-agents-brass-band-to-reissue-album-for-hurricane-katrina-20th-anniversary/
+  - >-
+    https://www.mortontimesnews.com/story/entertainment/events/2013/06/11/free-agents-brass-band-to/45728569007/
 network_extracted: true
 entry_created: '2025-10-21T06:52:44.018993'
 last_updated: '2025-12-23T08:16:02.061647'
 musicbrainz_enriched_at: '2025-10-21T09:27:04.487387'
 musicbrainz_id: a646e159-836c-424e-95ef-c36539e88240
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](Free_Agents_Brass_Band.jpg)

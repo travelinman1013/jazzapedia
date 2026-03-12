@@ -3,14 +3,14 @@ title: Kate Fagan
 wiki_slug: kate-fagan
 schema_version: 2
 status: active
-birth_place: New York, USA (early scene) / Chicago, Illinois, USA (career base)
+birth_place: 'New York, USA (early scene) / Chicago, Illinois, USA (career base)'
 genres:
-- egg punk
+  - egg punk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/kate_fagan.jpg
   caption: Kate Fagan
   background: solo_singer
-  origin: New York, USA (early scene) / Chicago, Illinois, USA (career base)
+  origin: 'New York, USA (early scene) / Chicago, Illinois, USA (career base)'
 audio_profile:
   tempo_avg: 146.2
   energy_avg: 0.702
@@ -26,47 +26,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Peter Tosh
-  - Donald Kinsey
-  - Heavy Manners band members
-  - BB Spin band members
+    - Peter Tosh
+    - Donald Kinsey
+    - Heavy Manners band members
+    - BB Spin band members
   influenced:
-  - Girls Camp of Rock participants
+    - Girls Camp of Rock participants
   mentors:
-  - Patti Smith
-  - Debbie Harry
+    - Patti Smith
+    - Debbie Harry
 spotify_data:
   followers: 6244
   id: 0RHqgb7Q8LeJzHxAZoKAyw
   popularity: 23
-  url: https://open.spotify.com/artist/0RHqgb7Q8LeJzHxAZoKAyw
+  url: 'https://open.spotify.com/artist/0RHqgb7Q8LeJzHxAZoKAyw'
 discography_enriched: true
 top_tracks:
-- I Don't Wanna Be Too Cool (I Don't Wanna Be Too Cool (Expanded Edition))
-- I Don't Wanna Be Too Cool (I Don't Wanna Be Too Cool)
-- Come Over (I Don't Wanna Be Too Cool (Expanded Edition))
-- Waiting For The Crisis (I Don't Wanna Be Too Cool (Expanded Edition))
-- Master Of Passion (I Don't Wanna Be Too Cool (Expanded Edition))
-- Say It (I Don't Wanna Be Too Cool (Expanded Edition))
-- Come Over (I Don't Wanna Be Too Cool)
-- Cover It Up (I Don't Wanna Be Too Cool (Expanded Edition))
-- Take Your Chances (I Don't Wanna Be Too Cool (Expanded Edition))
-- Something's Wrong (I Don't Wanna Be Too Cool (Expanded Edition))
+  - I Don't Wanna Be Too Cool (I Don't Wanna Be Too Cool (Expanded Edition))
+  - I Don't Wanna Be Too Cool (I Don't Wanna Be Too Cool)
+  - Come Over (I Don't Wanna Be Too Cool (Expanded Edition))
+  - Waiting For The Crisis (I Don't Wanna Be Too Cool (Expanded Edition))
+  - Master Of Passion (I Don't Wanna Be Too Cool (Expanded Edition))
+  - Say It (I Don't Wanna Be Too Cool (Expanded Edition))
+  - Come Over (I Don't Wanna Be Too Cool)
+  - Cover It Up (I Don't Wanna Be Too Cool (Expanded Edition))
+  - Take Your Chances (I Don't Wanna Be Too Cool (Expanded Edition))
+  - Something's Wrong (I Don't Wanna Be Too Cool (Expanded Edition))
 external_urls:
-  spotify: https://open.spotify.com/artist/0RHqgb7Q8LeJzHxAZoKAyw
+  spotify: 'https://open.spotify.com/artist/0RHqgb7Q8LeJzHxAZoKAyw'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/kate_fagan.jpg
 biography_enhanced_at: '2025-12-23T02:04:59.877512'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://capturedtracks.com/artist/kate-fagan/
-- https://www.katetoocoolfagan.com
-- https://www.talkhouse.com/kate-fagan-and-jen-b-larson-talk-i-dont-wanna-be-too-cool-40-years-later/
-- https://www.flaunt.com/blog/music-kate-fagan
+  - 'https://capturedtracks.com/artist/kate-fagan/'
+  - 'https://www.katetoocoolfagan.com'
+  - >-
+    https://www.talkhouse.com/kate-fagan-and-jen-b-larson-talk-i-dont-wanna-be-too-cool-40-years-later/
+  - 'https://www.flaunt.com/blog/music-kate-fagan'
 network_extracted: true
 entry_created: '2025-12-23T02:04:59.877533'
 last_updated: '2025-12-23T08:16:11.196651'
+origin: 'Chicago, Illinois, United States'
+artist_type: person
 ---
 
 ![](kate_fagan.jpg)

@@ -1,22 +1,22 @@
 ---
-title: robert earl keen
+title: Robert Earl Keen
 wiki_slug: robert-earl-keen
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1956-01-11'
-birth_place: Houston
+birth_place: 'Houston, Texas, United States'
 genres:
-- texas country
-- red dirt
-- alt country
-- americana
+  - texas country
+  - red dirt
+  - alt country
+  - americana
 instruments:
-- acoustic guitar
-- spoken vocals
-- background vocals
-- lead vocals
-- vocal
+  - acoustic guitar
+  - spoken vocals
+  - background vocals
+  - lead vocals
+  - vocal
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/robert_earl_keen.jpg
   caption: robert earl keen
@@ -38,54 +38,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lyle Lovett
-  - The Front Porch Boys
+    - Lyle Lovett
+    - The Front Porch Boys
   influenced:
-  - Pat Green
-  - Randy Rogers Band
+    - Pat Green
+    - Randy Rogers Band
   mentors:
-  - John A. Lomax, Jr.
-  - Willie Nelson
+    - 'John A. Lomax, Jr.'
+    - Willie Nelson
 spotify_data:
   followers: 196707
   id: 1jjpkAHC8bd9fRFfgKyYLP
   popularity: 46
-  url: https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP
+  url: 'https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP'
 discography_enriched: true
 top_tracks:
-- Feelin' Good Again (Walking Distance)
-- Corpus Christi Bay (A Bigger Piece Of Sky)
-- The Road Goes On Forever (West Textures)
-- I Gotta Go (Ready For Confetti)
-- Shade Of Gray - Live (Live Dinner Reunion)
-- The Front Porch Song (No Kinda Dancer)
-- Feeling Good Again (Live At The Ryman)
-- Gringo Honeymoon (Live At The Ryman)
-- Copenhagen (The Live Album)
-- I'm Comin' Home (Gringo Honeymoon)
+  - Feelin' Good Again (Walking Distance)
+  - Corpus Christi Bay (A Bigger Piece Of Sky)
+  - The Road Goes On Forever (West Textures)
+  - I Gotta Go (Ready For Confetti)
+  - Shade Of Gray - Live (Live Dinner Reunion)
+  - The Front Porch Song (No Kinda Dancer)
+  - Feeling Good Again (Live At The Ryman)
+  - Gringo Honeymoon (Live At The Ryman)
+  - Copenhagen (The Live Album)
+  - I'm Comin' Home (Gringo Honeymoon)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c81d48a8-5c86-4160-b3d4-1275e7ba3212
-  spotify: https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP
-  wikipedia: https://en.wikipedia.org/wiki/Robert_Earl_Keen
+  musicbrainz: 'https://musicbrainz.org/artist/c81d48a8-5c86-4160-b3d4-1275e7ba3212'
+  spotify: 'https://open.spotify.com/artist/1jjpkAHC8bd9fRFfgKyYLP'
+  wikipedia: 'https://en.wikipedia.org/wiki/Robert_Earl_Keen'
 image_path: 03_Resources/source_material/ArtistPortraits/robert_earl_keen.jpg
 biography_enhanced_at: '2025-11-22T07:43:22.433569'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.txst.edu/ctmh/publications/journal/issues/jtmh-vol-23/vol-23-robert-earl-keen.html
-- https://www.last.fm/music/Robert+Earl+Keen/+wiki
-- https://texashighways.com/culture/people/texas-singer-songwriter-robert-earl-keen-is-retiring-after-a-40-year-wild-ride/
-- https://www.robertearlkeen.com/about-robert
+  - >-
+    https://www.txst.edu/ctmh/publications/journal/issues/jtmh-vol-23/vol-23-robert-earl-keen.html
+  - 'https://www.last.fm/music/Robert+Earl+Keen/+wiki'
+  - >-
+    https://texashighways.com/culture/people/texas-singer-songwriter-robert-earl-keen-is-retiring-after-a-40-year-wild-ride/
+  - 'https://www.robertearlkeen.com/about-robert'
 network_extracted: true
 entry_created: '2025-11-22T07:43:22.433588'
 last_updated: '2025-12-23T08:16:14.884866'
 gender: Male
 musicbrainz_id: c81d48a8-5c86-4160-b3d4-1275e7ba3212
 tags:
-- americana
-- country
-- folk
-
+  - americana
+  - country
+  - folk
+origin: 'Austin, Texas, United States'
 ---
 
 ![](robert_earl_keen.jpg)

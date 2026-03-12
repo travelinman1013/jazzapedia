@@ -2,10 +2,10 @@
 title: Sunny Side
 wiki_slug: sunny-side
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- lo-fi hip hop
+  - lo-fi hip hop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sunny_side.jpg
   caption: Sunny Side
@@ -31,27 +31,27 @@ spotify_data:
   followers: 1
   id: 5czslLGNW0PurzrnZyucXs
   popularity: 25
-  url: https://open.spotify.com/artist/5czslLGNW0PurzrnZyucXs
+  url: 'https://open.spotify.com/artist/5czslLGNW0PurzrnZyucXs'
 discography_enriched: true
 top_tracks:
-- Lifestyle (Lifestyle)
-- Red leaves :) (Red leaves :))
-- Snuggle (Snuggle)
-- What a thing (What a thing)
-- Palm of your hand (Palm of your hand)
-- Lego nights (Lego nights)
-- right up your alley (right up your alley)
+  - Lifestyle (Lifestyle)
+  - 'Red leaves :) (Red leaves :))'
+  - Snuggle (Snuggle)
+  - What a thing (What a thing)
+  - Palm of your hand (Palm of your hand)
+  - Lego nights (Lego nights)
+  - right up your alley (right up your alley)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/35e9cf5b-3be0-4a12-89ff-60856df4447a
-  spotify: https://open.spotify.com/artist/5czslLGNW0PurzrnZyucXs
+  musicbrainz: 'https://musicbrainz.org/artist/35e9cf5b-3be0-4a12-89ff-60856df4447a'
+  spotify: 'https://open.spotify.com/artist/5czslLGNW0PurzrnZyucXs'
   wikipedia: Not found
 image_path: 03_Resources/source_material/ArtistPortraits/sunny_side.jpg
 biography_enhanced_at: '2025-12-04T07:50:40.889030'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- eclecticmusiclover.com - Andrew Neil discography
-- nvrcomehome.com - Lexa Gates live performance review
+  - eclecticmusiclover.com - Andrew Neil discography
+  - nvrcomehome.com - Lexa Gates live performance review
 network_extracted: true
 entry_created: '2025-12-04T07:50:40.889036'
 last_updated: '2025-12-23T08:16:16.232595'

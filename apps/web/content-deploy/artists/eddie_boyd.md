@@ -1,84 +1,86 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f4eb0541-099e-49e0-b6cb-a30a2664e510
-  name: Eddie Boyd Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: dc5ddad2-ed57-42eb-9b12-74f408b8c447
-  name: Eddie Boyd Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d81891cc-8e14-45a8-a5dd-d25d37fa931b
-  name: Eddie Boyd & His Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e279285d-9f46-4a25-917b-49518caea8b6
-  name: Eddie Boyd & His Chess Men
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f4eb0541-099e-49e0-b6cb-a30a2664e510
+    name: Eddie Boyd Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: dc5ddad2-ed57-42eb-9b12-74f408b8c447
+    name: Eddie Boyd Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d81891cc-8e14-45a8-a5dd-d25d37fa931b
+    name: Eddie Boyd & His Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e279285d-9f46-4a25-917b-49518caea8b6
+    name: Eddie Boyd & His Chess Men
 biography_enhanced_at: '2026-01-06T02:10:30.003711'
 birth_date: '1914-11-25'
-birth_place: Mississippi
+birth_place: 'Stovall, Mississippi, United States'
 death_date: '1994-07-13'
 disambiguation: blues pianist
 enhancement_provider: perplexity
 entry_created: '2026-01-06T02:10:30.003716'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8766468c-9a0f-41e2-8466-601d94d5098e
-  spotify: https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB
-  wikipedia: https://en.wikipedia.org/wiki/Eddie_Boyd
+  musicbrainz: 'https://musicbrainz.org/artist/8766468c-9a0f-41e2-8466-601d94d5098e'
+  spotify: 'https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB'
+  wikipedia: 'https://en.wikipedia.org/wiki/Eddie_Boyd'
 gender: Male
 genres:
-- blues
-- classic blues
-- boogie-woogie
+  - blues
+  - classic blues
+  - boogie-woogie
 image_path: 03_Resources/source_material/ArtistPortraits/eddie_boyd.jpg
 instruments:
-- piano
-- lead vocals
+  - piano
+  - lead vocals
 last_updated: '2026-01-06T02:10:30.003717'
 musical_connections:
   collaborators:
-  - Muddy Waters
-  - Sonny Boy Williamson
-  - Tampa Red
-  - Willie Dixon
-  - Buddy Guy
-  - Fleetwood Mac
-  - John Mayall & the Bluesbreakers
-  - Cuby and the Blizzards
-  - Peter Green
+    - Muddy Waters
+    - Sonny Boy Williamson
+    - Tampa Red
+    - Willie Dixon
+    - Buddy Guy
+    - Fleetwood Mac
+    - John Mayall & the Bluesbreakers
+    - Cuby and the Blizzards
+    - Peter Green
   influenced:
-  - Eric Clapton
+    - Eric Clapton
   mentors:
-  - Roosevelt Sykes
-  - Leroy Carr
+    - Roosevelt Sykes
+    - Leroy Carr
 musicbrainz_id: 8766468c-9a0f-41e2-8466-601d94d5098e
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Eddie_Boyd
-- https://mojohand.com/glossary/eddie-boyd/
-- https://www.allaboutjazz.com/musicians/eddie-boyd/
-- https://storyvillerecords.com/product-category/eddie-boyd/
-- https://blues.org/blues_hof_inductee/eddie-boyd/
-- https://www.mswritersandmusicians.com/mississippi-musicians/eddie-boyd
+  - 'https://en.wikipedia.org/wiki/Eddie_Boyd'
+  - 'https://mojohand.com/glossary/eddie-boyd/'
+  - 'https://www.allaboutjazz.com/musicians/eddie-boyd/'
+  - 'https://storyvillerecords.com/product-category/eddie-boyd/'
+  - 'https://blues.org/blues_hof_inductee/eddie-boyd/'
+  - 'https://www.mswritersandmusicians.com/mississippi-musicians/eddie-boyd'
 spotify_data:
   followers: 14510
   id: 6tlPbmYME3fjRkSBb3pjoB
   popularity: 23
-  url: https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB
+  url: 'https://open.spotify.com/artist/6tlPbmYME3fjRkSBb3pjoB'
 status: active
 tags:
-- 2008 universal fire victim
-- blues
-- chicago blues
+  - 2008 universal fire victim
+  - blues
+  - chicago blues
 title: Eddie Boyd
+is_active: false
+origin: 'Memphis, Tennessee, United States'
 ---
 
 ![](eddie_boyd.jpg)

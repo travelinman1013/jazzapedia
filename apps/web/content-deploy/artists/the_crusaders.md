@@ -1,23 +1,23 @@
 ---
-title: the crusaders
+title: The Crusaders
 wiki_slug: the-crusaders
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1971'
 genres:
-- jazz funk
-- jazz fusion
-- smooth jazz
-- soul jazz
+  - jazz funk
+  - jazz fusion
+  - smooth jazz
+  - soul jazz
 instruments:
-- saxophone
-- trombone
-- drums (drum set)
-- piano
-- original
-- guitar
-- keyboard
+  - saxophone
+  - trombone
+  - drums (drum set)
+  - piano
+  - original
+  - guitar
+  - keyboard
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_crusaders.jpg
   caption: the crusaders
@@ -38,120 +38,122 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Randy Crawford
-  - Larry Carlton
-  - Robert 'Pops' Popwell
-  - Hubert Laws
-  - Curtis Amy
+    - Randy Crawford
+    - Larry Carlton
+    - Robert 'Pops' Popwell
+    - Hubert Laws
+    - Curtis Amy
   influenced:
-  - Joni Mitchell
+    - Joni Mitchell
   mentors:
-  - Cannonball Adderley
-  - Art Blakey
-  - John Coltrane
+    - Cannonball Adderley
+    - Art Blakey
+    - John Coltrane
 spotify_data:
   followers: 141247
   id: 3Bhgbs9kIwl8SuU0eIqN6b
   popularity: 42
-  url: https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b
+  url: 'https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b'
 discography_enriched: true
 top_tracks:
-- Street Life - Single Edit (Gold)
-- Street Life (Street Life)
-- Soul Shadows - Edit (The Vocal Album)
-- Keep That Same Old Feeling (Those Southern Knights)
-- The Thrill Is Gone - Live (1981/Royal Festival Hall, London) (Royal Jam)
-- My Lady (Street Life)
-- Stomp And Buck Dance (Southern Comfort)
-- Put It Where You Want It (Way Back Home)
-- Night Life - Live At Royal Festival Hall, London/1981 (How Blue Can You Get? (Classic Live Performances 1964 - 1994))
-- Look Beyond The Hill (The 2nd Crusade)
+  - Street Life - Single Edit (Gold)
+  - Street Life (Street Life)
+  - Soul Shadows - Edit (The Vocal Album)
+  - Keep That Same Old Feeling (Those Southern Knights)
+  - 'The Thrill Is Gone - Live (1981/Royal Festival Hall, London) (Royal Jam)'
+  - My Lady (Street Life)
+  - Stomp And Buck Dance (Southern Comfort)
+  - Put It Where You Want It (Way Back Home)
+  - >-
+    Night Life - Live At Royal Festival Hall, London/1981 (How Blue Can You Get?
+    (Classic Live Performances 1964 - 1994))
+  - Look Beyond The Hill (The 2nd Crusade)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/fcb79f1a-d3a9-41fe-9cd7-d16537907337
-  spotify: https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b
+  musicbrainz: 'https://musicbrainz.org/artist/fcb79f1a-d3a9-41fe-9cd7-d16537907337'
+  spotify: 'https://open.spotify.com/artist/3Bhgbs9kIwl8SuU0eIqN6b'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/the_crusaders.jpg
 biography_enhanced_at: '2025-12-04T07:28:55.631274'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Texas State Historical Association (tshaonline.org)
-- Leonard Shea Music (youtube.com)
-- Everything Jazz (everythingjazz.com)
-- All About Jazz (allaboutjazz.com)
-- BlackPast.org
-- Session Days (sessiondays.com)
-- Grokipedia
+  - Texas State Historical Association (tshaonline.org)
+  - Leonard Shea Music (youtube.com)
+  - Everything Jazz (everythingjazz.com)
+  - All About Jazz (allaboutjazz.com)
+  - BlackPast.org
+  - Session Days (sessiondays.com)
+  - Grokipedia
 network_extracted: true
 entry_created: '2025-12-04T07:28:55.631285'
 last_updated: '2025-12-23T08:16:16.696243'
 disambiguation: US jazz group
 members:
-- begin: '1960'
-  end: '1971'
-  instruments:
-  - saxophone
-  mbid: 2825f90d-7c3b-467b-9a98-d66a5dc8ddca
-  name: Wilton Felder
-- begin: '1960'
-  end: '1971'
-  instruments:
-  - trombone
-  mbid: f20fd2b1-c3f0-4af7-b87f-153848a2f9a9
-  name: Wayne Henderson
-- begin: '1960'
-  end: '1971'
-  instruments:
-  - drums (drum set)
-  mbid: b24e2d4c-94d8-4067-852e-9f980095d113
-  name: Stix Hooper
-- begin: '1960'
-  end: '1971'
-  instruments:
-  - piano
-  mbid: 526a6127-7f4e-4797-8ae9-927a6e29e2d0
-  name: Joe Sample
-- begin: '1971'
-  end: '1975'
-  instruments:
-  - original
-  - trombone
-  mbid: f20fd2b1-c3f0-4af7-b87f-153848a2f9a9
-  name: Wayne Henderson
-- begin: '1971'
-  end: '1983'
-  instruments:
-  - drums (drum set)
-  - original
-  mbid: b24e2d4c-94d8-4067-852e-9f980095d113
-  name: Stix Hooper
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  - saxophone
-  mbid: 2825f90d-7c3b-467b-9a98-d66a5dc8ddca
-  name: Wilton Felder
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: e4f2a207-c92a-4e3a-a28b-76a92878f2e7
-  name: Billy Rogers
-- begin: ''
-  end: ''
-  instruments:
-  - keyboard
-  - original
-  - piano
-  mbid: 526a6127-7f4e-4797-8ae9-927a6e29e2d0
-  name: Joe Sample
+  - begin: '1960'
+    end: '1971'
+    instruments:
+      - saxophone
+    mbid: 2825f90d-7c3b-467b-9a98-d66a5dc8ddca
+    name: Wilton Felder
+  - begin: '1960'
+    end: '1971'
+    instruments:
+      - trombone
+    mbid: f20fd2b1-c3f0-4af7-b87f-153848a2f9a9
+    name: Wayne Henderson
+  - begin: '1960'
+    end: '1971'
+    instruments:
+      - drums (drum set)
+    mbid: b24e2d4c-94d8-4067-852e-9f980095d113
+    name: Stix Hooper
+  - begin: '1960'
+    end: '1971'
+    instruments:
+      - piano
+    mbid: 526a6127-7f4e-4797-8ae9-927a6e29e2d0
+    name: Joe Sample
+  - begin: '1971'
+    end: '1975'
+    instruments:
+      - original
+      - trombone
+    mbid: f20fd2b1-c3f0-4af7-b87f-153848a2f9a9
+    name: Wayne Henderson
+  - begin: '1971'
+    end: '1983'
+    instruments:
+      - drums (drum set)
+      - original
+    mbid: b24e2d4c-94d8-4067-852e-9f980095d113
+    name: Stix Hooper
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - saxophone
+    mbid: 2825f90d-7c3b-467b-9a98-d66a5dc8ddca
+    name: Wilton Felder
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: e4f2a207-c92a-4e3a-a28b-76a92878f2e7
+    name: Billy Rogers
+  - begin: ''
+    end: ''
+    instruments:
+      - keyboard
+      - original
+      - piano
+    mbid: 526a6127-7f4e-4797-8ae9-927a6e29e2d0
+    name: Joe Sample
 musicbrainz_id: fcb79f1a-d3a9-41fe-9cd7-d16537907337
-origin: Houston
+origin: 'Houston, Texas, United States'
 tags:
-- contemporary jazz
-- jazz
-- jazz fusion
+  - contemporary jazz
+  - jazz
+  - jazz fusion
 ---
 
 ![](the_crusaders.jpg)

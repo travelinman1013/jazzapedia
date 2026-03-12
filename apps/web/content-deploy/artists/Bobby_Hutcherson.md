@@ -2,29 +2,29 @@
 title: Bobby Hutcherson
 wiki_slug: bobby-hutcherson
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1941-01-27'
-birth_place: Los Angeles, California, United States
+birth_place: 'Los Angeles, California, United States'
 death_date: '2016-08-15'
 genres:
-- hard bop
-- jazz
-- free jazz
-- jazz funk
-- bebop
-- cool jazz
+  - hard bop
+  - jazz
+  - free jazz
+  - jazz funk
+  - bebop
+  - cool jazz
 instruments:
-- vibraphone
-- eponymous
-- original
-- marimba
+  - vibraphone
+  - eponymous
+  - original
+  - marimba
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Bobby_Hutcherson.jpg
   caption: Bobby Hutcherson
   background: non_vocal_instrumentalist
   born: '1941-01-27'
-  origin: Los Angeles, California, United States
+  origin: 'Los Angeles, California, United States'
   died: '2016-08-15'
 audio_profile:
   tempo_avg: 110.3
@@ -41,49 +41,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Eric Dolphy
-  - Jackie McLean
-  - Harold Land
-  - Joe Henderson
-  - Andrew Hill
-  - Woody Shaw
+    - Eric Dolphy
+    - Jackie McLean
+    - Harold Land
+    - Joe Henderson
+    - Andrew Hill
+    - Woody Shaw
   influenced:
-  - Stefon Harris
-  - Joel Ross
+    - Stefon Harris
+    - Joel Ross
   mentors:
-  - Milt Jackson
-  - Dave Pike
+    - Milt Jackson
+    - Dave Pike
 spotify_data:
   followers: 55202
   id: 3uO6HG2JwyP744sg4PMmg5
   popularity: 37
-  url: https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5
+  url: 'https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5'
 discography_enriched: true
 top_tracks:
-- Stardust (Candy)
-- Montara (Montara)
-- Tranquillity - Remastered 1994 (Components)
-- Little B's Poem - Remastered 1994 (Components)
-- Little Angel (Montara)
-- Manzanita (Linger Lane)
-- Goin' Down South (San Francisco)
-- Mountain Caravan (Linger Lane)
-- Prints Tie (San Francisco)
-- Ummh (San Francisco)
+  - Stardust (Candy)
+  - Montara (Montara)
+  - Tranquillity - Remastered 1994 (Components)
+  - Little B's Poem - Remastered 1994 (Components)
+  - Little Angel (Montara)
+  - Manzanita (Linger Lane)
+  - Goin' Down South (San Francisco)
+  - Mountain Caravan (Linger Lane)
+  - Prints Tie (San Francisco)
+  - Ummh (San Francisco)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/edbe5d7f-9511-4dfe-847a-8fe19080caaf
-  spotify: https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5
-  wikipedia: https://en.wikipedia.org/wiki/Bobby_Hutcherson
+  musicbrainz: 'https://musicbrainz.org/artist/edbe5d7f-9511-4dfe-847a-8fe19080caaf'
+  spotify: 'https://open.spotify.com/artist/3uO6HG2JwyP744sg4PMmg5'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bobby_Hutcherson'
 image_path: 03_Resources/source_material/ArtistPortraits/Bobby_Hutcherson.jpg
 biography_enhanced_at: '2025-10-19T11:24:29.310691'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.cc-seas.columbia.edu/wkcr/story/bobby-hutcherson-memorial-broadcast
-- https://www.arts.gov/honors/jazz/bobby-hutcherson
-- https://www.sfjazz.org/onthecorner/bobby-hutcherson
-- https://www.bluenote.com/artist/bobby-hutcherson/
-- https://nationaljazzarchive.org.uk/explore/interviews/1277680-bobby-hutcherson-and-harold-land
+  - >-
+    https://www.cc-seas.columbia.edu/wkcr/story/bobby-hutcherson-memorial-broadcast
+  - 'https://www.arts.gov/honors/jazz/bobby-hutcherson'
+  - 'https://www.sfjazz.org/onthecorner/bobby-hutcherson'
+  - 'https://www.bluenote.com/artist/bobby-hutcherson/'
+  - >-
+    https://nationaljazzarchive.org.uk/explore/interviews/1277680-bobby-hutcherson-and-harold-land
 network_extracted: true
 entry_created: '2025-10-19T11:24:29.310706'
 last_updated: '2025-12-23T08:16:01.285038'
@@ -91,9 +93,11 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:19:48.689633'
 musicbrainz_id: edbe5d7f-9511-4dfe-847a-8fe19080caaf
 tags:
-- hard bop
-- jazz
-- jazz fusion
+  - hard bop
+  - jazz
+  - jazz fusion
+is_active: false
+origin: 'Pasadena, California, United States'
 ---
 
 ![](Bobby_Hutcherson.jpg)

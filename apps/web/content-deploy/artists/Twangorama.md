@@ -5,18 +5,18 @@ schema_version: 2
 status: active
 aliases: []
 birth_date: '1959-05-20'
-birth_place: Canton
+birth_place: 'Canton, Ohio, United States'
 years_active: 1967–present
 genres:
-- avant-garde
+  - avant-garde
 instruments:
-- Vocals
-- Tambourine
-- Guitar
+  - Vocals
+  - Tambourine
+  - Guitar
 occupation:
-- singer-songwriter
+  - singer-songwriter
 record_labels:
-- MGM Records
+  - MGM Records
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Twangorama.jpg
   caption: Twangorama
@@ -38,7 +38,7 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Phil deGruy
+    - Phil deGruy
   influenced: []
   mentors: []
 related_artists: []
@@ -46,38 +46,39 @@ spotify_data:
   followers: 30
   id: 2OYWM1Y55zZCuVcsGcTROW
   popularity: 0
-  url: https://open.spotify.com/artist/2OYWM1Y55zZCuVcsGcTROW
+  url: 'https://open.spotify.com/artist/2OYWM1Y55zZCuVcsGcTROW'
   verified: false
 discography_enriched: true
 albums_count: 1
 singles_count: 0
 top_tracks:
-- Rat Dust (Twangorama)
-- New Wine (Twangorama)
-- Friday On My Mind (Twangorama)
-- Mode Rage (Twangorama)
-- Sew What? (Twangorama)
-- Big Blue (Twangorama)
-- Creature Of The House (Twangorama)
-- Whymn (Twangorama)
-- Who Can I Turn To - My Romance (Twangorama)
-- Son Of Samba (Twangorama)
+  - Rat Dust (Twangorama)
+  - New Wine (Twangorama)
+  - Friday On My Mind (Twangorama)
+  - Mode Rage (Twangorama)
+  - Sew What? (Twangorama)
+  - Big Blue (Twangorama)
+  - Creature Of The House (Twangorama)
+  - Whymn (Twangorama)
+  - Who Can I Turn To - My Romance (Twangorama)
+  - Son Of Samba (Twangorama)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/2OYWM1Y55zZCuVcsGcTROW
-  wikipedia: https://en.wikipedia.org/wiki/Susan_Cowsill
+  spotify: 'https://open.spotify.com/artist/2OYWM1Y55zZCuVcsGcTROW'
+  wikipedia: 'https://en.wikipedia.org/wiki/Susan_Cowsill'
 image_path: 03_Resources/source_material/ArtistPortraits/Twangorama.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:51:16.120707'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- twangorama.com
+  - twangorama.com
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 12:58:07.844075
+entry_created: 2025-09-18T12:58:07.844Z
 last_updated: '2025-12-23T08:16:04.233351'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![](Twangorama.jpg)

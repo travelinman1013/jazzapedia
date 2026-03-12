@@ -1,38 +1,42 @@
 ---
 biography_enhanced_at: '2025-12-27T01:31:15.032281'
-birth_place: Edmonton, Alberta, Canada
+birth_place: 'Edmonton, Alberta, Canada'
 enhancement_provider: perplexity
 entry_created: '2025-12-27T01:31:15.032291'
 external_urls:
-  spotify: https://open.spotify.com/artist/4PbHu0boysQmsc714KiRIt
-  wikipedia: https://en.wikipedia.org/wiki/Bruce_McCulloch
+  spotify: 'https://open.spotify.com/artist/4PbHu0boysQmsc714KiRIt'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bruce_McCulloch'
 genres:
-- comedy
+  - comedy
 image_path: 03_Resources/source_material/ArtistPortraits/bruce_mcculloch.jpg
 last_updated: '2025-12-27T01:31:15.032292'
 musical_connections:
   collaborators:
-  - Mark McKinney
-  - The Kids in the Hall (Dave Foley, Kevin McDonald, Scott Thompson, Mark McKinney)
-  - Bob Wiseman
+    - Mark McKinney
+    - >-
+      The Kids in the Hall (Dave Foley, Kevin McDonald, Scott Thompson, Mark
+      McKinney)
+    - Bob Wiseman
   influenced: []
   mentors:
-  - Loose Moose Theatre
+    - Loose Moose Theatre
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Bruce_McCulloch
-- https://www.tvinsider.com/people/bruce-mcculloch/
-- https://www.famousbirthdays.com/people/bruce-mcculloch.html
-- https://bruciomcculloch.com/about
-- https://www.imdb.com/name/nm0567126/
+  - 'https://en.wikipedia.org/wiki/Bruce_McCulloch'
+  - 'https://www.tvinsider.com/people/bruce-mcculloch/'
+  - 'https://www.famousbirthdays.com/people/bruce-mcculloch.html'
+  - 'https://bruciomcculloch.com/about'
+  - 'https://www.imdb.com/name/nm0567126/'
 spotify_data:
   followers: 1263
   id: 4PbHu0boysQmsc714KiRIt
   popularity: 7
-  url: https://open.spotify.com/artist/4PbHu0boysQmsc714KiRIt
+  url: 'https://open.spotify.com/artist/4PbHu0boysQmsc714KiRIt'
 status: active
-title: bruce mcculloch
+title: Bruce McCulloch
+birth_date: '1961-05-12'
+artist_type: person
 ---
 
 ![](bruce_mcculloch.jpg)

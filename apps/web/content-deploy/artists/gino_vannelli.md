@@ -5,14 +5,14 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1952-06-16'
-birth_place: Montréal
+birth_place: 'Montréal, Quebec, Canada'
 genres:
-- album rock
+  - album rock
 instruments:
-- acoustic guitar
-- piano
-- lead vocals
-- background vocals
+  - acoustic guitar
+  - piano
+  - lead vocals
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/gino_vannelli.jpg
   caption: Gino Vannelli
@@ -34,57 +34,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Joe Vannelli
-  - Ross Vannelli
-  - Stevie Wonder
-  - Brian McKnight
-  - Michael Phillips
+    - Joe Vannelli
+    - Ross Vannelli
+    - Stevie Wonder
+    - Brian McKnight
+    - Michael Phillips
   influenced:
-  - Buddy Rich
-  - Massimo Ranieri
+    - Buddy Rich
+    - Massimo Ranieri
   mentors:
-  - Russ Vannelli
-  - Gene Krupa
-  - Buddy Rich
+    - Russ Vannelli
+    - Gene Krupa
+    - Buddy Rich
 spotify_data:
   followers: 211269
   id: 6ltcwvni6HdZAJaWhmIvNR
   popularity: 49
-  url: https://open.spotify.com/artist/6ltcwvni6HdZAJaWhmIvNR
+  url: 'https://open.spotify.com/artist/6ltcwvni6HdZAJaWhmIvNR'
 discography_enriched: true
 top_tracks:
-- I Just Wanna Stop (Brother To Brother)
-- Living Inside Myself (Nightwalker)
-- Hurts to Be In Love - Rerecorded (The Best and Beyond)
-- I Just Wanna Stop - Rerecorded (The Best and Beyond)
-- Wild Horses - Rerecorded (The Best and Beyond)
-- People Gotta Move (Powerful People)
-- Wheels Of Life (Brother To Brother)
-- I Just Wanna Stop
-- Felicia (Powerful People)
-- Keep On Walking (Storm At Sunup)
+  - I Just Wanna Stop (Brother To Brother)
+  - Living Inside Myself (Nightwalker)
+  - Hurts to Be In Love - Rerecorded (The Best and Beyond)
+  - I Just Wanna Stop - Rerecorded (The Best and Beyond)
+  - Wild Horses - Rerecorded (The Best and Beyond)
+  - People Gotta Move (Powerful People)
+  - Wheels Of Life (Brother To Brother)
+  - I Just Wanna Stop
+  - Felicia (Powerful People)
+  - Keep On Walking (Storm At Sunup)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/747e5054-f50b-498c-bff3-85f7313aeb80
-  spotify: https://open.spotify.com/artist/6ltcwvni6HdZAJaWhmIvNR
-  wikipedia: https://en.wikipedia.org/wiki/Gino_Vannelli
+  musicbrainz: 'https://musicbrainz.org/artist/747e5054-f50b-498c-bff3-85f7313aeb80'
+  spotify: 'https://open.spotify.com/artist/6ltcwvni6HdZAJaWhmIvNR'
+  wikipedia: 'https://en.wikipedia.org/wiki/Gino_Vannelli'
 image_path: 03_Resources/source_material/ArtistPortraits/gino_vannelli.jpg
 biography_enhanced_at: '2025-11-04T11:12:54.631129'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://ginov.com/bio/
-- https://en.wikipedia.org/wiki/Gino_Vannelli
-- https://rockandromancecruise.com/artists/gino-vannelli/
+  - 'https://ginov.com/bio/'
+  - 'https://en.wikipedia.org/wiki/Gino_Vannelli'
+  - 'https://rockandromancecruise.com/artists/gino-vannelli/'
 network_extracted: true
 entry_created: '2025-11-04T11:12:54.631142'
 last_updated: '2025-12-23T08:16:09.231208'
 gender: Male
 musicbrainz_id: 747e5054-f50b-498c-bff3-85f7313aeb80
 tags:
-- 2008 universal fire victim
-- adult contemporary
-- blue-eyed soul
-
+  - 2008 universal fire victim
+  - adult contemporary
+  - blue-eyed soul
+origin: 'Los Angeles, California, United States'
 ---
 
 ![](gino_vannelli.jpg)

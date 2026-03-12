@@ -3,13 +3,13 @@ title: Lars Edegran's Jazz Band
 wiki_slug: lars-edegrans-jazz-band
 schema_version: 2
 status: active
-birth_place: Stockholm, Sweden
+birth_place: 'Stockholm, Sweden, Sweden'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lars_edegrans_jazz_band.jpg
   caption: Lars Edegran's Jazz Band
   background: solo_singer
-  origin: Stockholm, Sweden
+  origin: 'Stockholm, Sweden'
 audio_profile:
   tempo_avg: 121.6
   energy_avg: 0.278
@@ -25,51 +25,74 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Örjan 'Orange' Kellin
-  - Preservation Hall Jazz Band
-  - Dwayne Burns
-  - Tom Fischer
-  - Fred Lonzo
+    - Örjan 'Orange' Kellin
+    - Preservation Hall Jazz Band
+    - Dwayne Burns
+    - Tom Fischer
+    - Fred Lonzo
   influenced: []
   mentors:
-  - Johnny Wiggs
-  - Allan Jaffe
-  - Father Al Lewis
-  - Tuts Washington
+    - Johnny Wiggs
+    - Allan Jaffe
+    - Father Al Lewis
+    - Tuts Washington
 spotify_data:
   followers: 9
   id: 25Z1yATvaETukAos9VDuhj
   popularity: 5
-  url: https://open.spotify.com/artist/25Z1yATvaETukAos9VDuhj
+  url: 'https://open.spotify.com/artist/25Z1yATvaETukAos9VDuhj'
 discography_enriched: true
 top_tracks:
-- I Can't Believe That You're in Love with Me (feat. Lars Edegran's Jazz Band) (Doc Cheatham and Sammy Price in New Orleans)
-- That Da-Da Strain (feat. Lars Edegran's Jazz Band) (Doc Cheatham and Sammy Price in New Orleans)
-- Deed I Do (feat. Lars Edegran's Jazz Band) (Doc Cheatham and Sammy Price in New Orleans)
-- Please Don't Talk About Me When I'm Gone (feat. Lars Edegran's Jazz Band) (Doc Cheatham and Sammy Price in New Orleans)
-- Poor Butterfly (feat. Lars Edegran's Jazz Band) (Doc Cheatham and Sammy Price in New Orleans)
-- G.B. Boogie (feat. Lars Edegran's Jazz Band) (Doc Cheatham and Sammy Price in New Orleans)
-- My Blue Heaven (feat. Lars Edegran's Jazz Band) (Doc Cheatham and Sammy Price in New Orleans)
-- I Can't Get Started with You (feat. Lars Edegran's Jazz Band) (Doc Cheatham and Sammy Price in New Orleans)
-- These Foolish Things Remind Me of You (feat. Lars Edegran's Jazz Band) (Doc Cheatham and Sammy Price in New Orleans)
-- Sweet Lorraine (feat. Lars Edegran's Jazz Band) (Doc Cheatham and Sammy Price in New Orleans)
+  - >-
+    I Can't Believe That You're in Love with Me (feat. Lars Edegran's Jazz Band)
+    (Doc Cheatham and Sammy Price in New Orleans)
+  - >-
+    That Da-Da Strain (feat. Lars Edegran's Jazz Band) (Doc Cheatham and Sammy
+    Price in New Orleans)
+  - >-
+    Deed I Do (feat. Lars Edegran's Jazz Band) (Doc Cheatham and Sammy Price in
+    New Orleans)
+  - >-
+    Please Don't Talk About Me When I'm Gone (feat. Lars Edegran's Jazz Band)
+    (Doc Cheatham and Sammy Price in New Orleans)
+  - >-
+    Poor Butterfly (feat. Lars Edegran's Jazz Band) (Doc Cheatham and Sammy
+    Price in New Orleans)
+  - >-
+    G.B. Boogie (feat. Lars Edegran's Jazz Band) (Doc Cheatham and Sammy Price
+    in New Orleans)
+  - >-
+    My Blue Heaven (feat. Lars Edegran's Jazz Band) (Doc Cheatham and Sammy
+    Price in New Orleans)
+  - >-
+    I Can't Get Started with You (feat. Lars Edegran's Jazz Band) (Doc Cheatham
+    and Sammy Price in New Orleans)
+  - >-
+    These Foolish Things Remind Me of You (feat. Lars Edegran's Jazz Band) (Doc
+    Cheatham and Sammy Price in New Orleans)
+  - >-
+    Sweet Lorraine (feat. Lars Edegran's Jazz Band) (Doc Cheatham and Sammy
+    Price in New Orleans)
 external_urls:
-  spotify: https://open.spotify.com/artist/25Z1yATvaETukAos9VDuhj
-  wikipedia: Not directly available; referenced in source [1]
+  spotify: 'https://open.spotify.com/artist/25Z1yATvaETukAos9VDuhj'
+  wikipedia: 'Not directly available; referenced in source [1]'
 image_path: ''
 biography_enhanced_at: '2025-12-12T11:59:32.693789'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://musicrising.tulane.edu/discover/people/lars-edegran/
-- https://syncopatedtimes.com/lars-edegran-orange-kellin-and-lester-caliste-honored-by-preservation-hall/
-- https://salon726.com/home/2017/9/10/mr-lars-edegran
-- https://www.neworleans.com/listing/lars-edegran/46454/
-- https://www.offbeat.com/articles/french-quarter-fest-focus-lars-edegran/
-- https://www.jazzology.com/item_detail.php?id=BCD-411
+  - 'https://musicrising.tulane.edu/discover/people/lars-edegran/'
+  - >-
+    https://syncopatedtimes.com/lars-edegran-orange-kellin-and-lester-caliste-honored-by-preservation-hall/
+  - 'https://salon726.com/home/2017/9/10/mr-lars-edegran'
+  - 'https://www.neworleans.com/listing/lars-edegran/46454/'
+  - 'https://www.offbeat.com/articles/french-quarter-fest-focus-lars-edegran/'
+  - 'https://www.jazzology.com/item_detail.php?id=BCD-411'
 network_extracted: true
 entry_created: '2025-12-12T11:59:32.693812'
 last_updated: '2025-12-23T08:16:11.620298'
+birth_date: '1944'
+artist_type: band
 ---
 
 ![]()

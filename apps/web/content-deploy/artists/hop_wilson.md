@@ -3,14 +3,14 @@ title: Hop Wilson
 wiki_slug: hop-wilson
 schema_version: 2
 status: active
-birth_place: Grapeland, Texas, United States
+birth_place: 'Grapeland, Texas, United States'
 genres:
-- classic blues
+  - classic blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/hop_wilson.jpg
   caption: Hop Wilson
   background: solo_singer
-  origin: Grapeland, Texas, United States
+  origin: 'Grapeland, Texas, United States'
 audio_profile:
   tempo_avg: 120.1
   energy_avg: 0.49
@@ -26,51 +26,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ivory Lee Semien
-  - Lightnin' Hopkins
+    - Ivory Lee Semien
+    - Lightnin' Hopkins
   influenced:
-  - Sonny Rhodes
-  - Jimmie Vaughan
-  - Johnny Winter
-  - Ron Wood (The Rolling Stones)
-  - Peter Green (Fleetwood Mac founder)
+    - Sonny Rhodes
+    - Jimmie Vaughan
+    - Johnny Winter
+    - Ron Wood (The Rolling Stones)
+    - Peter Green (Fleetwood Mac founder)
   mentors:
-  - Blind Lemon Jefferson
-  - L.C. "Good Rockin" Robinson
+    - Blind Lemon Jefferson
+    - L.C. "Good Rockin" Robinson
 spotify_data:
   followers: 531
   id: 4ulzjatnu6sQpA8suJYJni
   popularity: 7
-  url: https://open.spotify.com/artist/4ulzjatnu6sQpA8suJYJni
+  url: 'https://open.spotify.com/artist/4ulzjatnu6sQpA8suJYJni'
 discography_enriched: true
 top_tracks:
-- Chicken Stuff (Goin' Down to Louisiana)
-- My Woman Has a Black Cat Bone (My Woman Has a Black Cat Bone)
-- My Woman Has a Black Cat Bone (Take 2) (Houston Ghetto Blues)
-- '3 O''clock Blues (Playing for the Man at the Door: Field Recordings from the Collection of Mack Mccormick, 1958–1971)'
-- Black Cat Bone (The Greatest Blues Duets)
-- Chicken Stuff (Koko-Mojo Diner, Vol. 3 - Southern Menu)
-- Rockin' In The Coconut Top
-- 'Dance To It (Chicken Stuff #2) (Houston Ghetto Blues)'
-- Rockin' In The Coconuts (Houston Ghetto Blues)
-- I Done Got Over (Houston Ghetto Blues)
+  - Chicken Stuff (Goin' Down to Louisiana)
+  - My Woman Has a Black Cat Bone (My Woman Has a Black Cat Bone)
+  - My Woman Has a Black Cat Bone (Take 2) (Houston Ghetto Blues)
+  - >-
+    3 O'clock Blues (Playing for the Man at the Door: Field Recordings from the
+    Collection of Mack Mccormick, 1958–1971)
+  - Black Cat Bone (The Greatest Blues Duets)
+  - 'Chicken Stuff (Koko-Mojo Diner, Vol. 3 - Southern Menu)'
+  - Rockin' In The Coconut Top
+  - 'Dance To It (Chicken Stuff #2) (Houston Ghetto Blues)'
+  - Rockin' In The Coconuts (Houston Ghetto Blues)
+  - I Done Got Over (Houston Ghetto Blues)
 external_urls:
-  spotify: https://open.spotify.com/artist/4ulzjatnu6sQpA8suJYJni
+  spotify: 'https://open.spotify.com/artist/4ulzjatnu6sQpA8suJYJni'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/hop_wilson.jpg
 biography_enhanced_at: '2025-12-23T02:01:05.961660'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://fromthevaults-boppinbob.blogspot.com/2022/04/hop-wilson-born-27-april-1921.html
-- https://michaelcorcoran.substack.com/p/hop-wilson-blue-steel-from-h-town
-- https://kutx.org/features/hop-wilson/
-- https://www.tshaonline.org/handbook/entries/wilson-harding-hop
-- https://artandseek.org/2013/08/30/this-week-in-texas-music-history-hop-wilson/
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2022/04/hop-wilson-born-27-april-1921.html
+  - 'https://michaelcorcoran.substack.com/p/hop-wilson-blue-steel-from-h-town'
+  - 'https://kutx.org/features/hop-wilson/'
+  - 'https://www.tshaonline.org/handbook/entries/wilson-harding-hop'
+  - >-
+    https://artandseek.org/2013/08/30/this-week-in-texas-music-history-hop-wilson/
 network_extracted: true
 entry_created: '2025-12-23T02:01:05.961666'
 last_updated: '2025-12-23T08:16:09.661934'
-
+birth_date: '1921-04-27'
+death_date: '1975-08-27'
+artist_type: person
 ---
 
 ![](hop_wilson.jpg)

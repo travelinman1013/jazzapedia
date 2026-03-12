@@ -1,21 +1,21 @@
 ---
-title: Jackie brenston
+title: Jackie Brenston
 wiki_slug: jackie-brenston
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1930-08-15'
-birth_place: Clarksdale
+birth_place: 'Clarksdale, Mississippi, United States'
 death_date: '1979-12-15'
 genres:
-- rock and roll
-- doo-wop
+  - rock and roll
+  - doo-wop
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f9f6f164-32ca-4cbc-9177-de57c4c484bb
-  name: Jackie Brenston & His Delta Cats
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f9f6f164-32ca-4cbc-9177-de57c4c484bb
+    name: Jackie Brenston & His Delta Cats
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jackie_brenston.jpg
   caption: Jackie brenston
@@ -38,52 +38,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ike Turner
-  - Jackie Brenston and His Delta Cats
+    - Ike Turner
+    - Jackie Brenston and His Delta Cats
   influenced:
-  - Early Rock and Roll Artists
+    - Early Rock and Roll Artists
   mentors:
-  - Ike Turner
+    - Ike Turner
 spotify_data:
   followers: 2992
   id: 5pEcgMFu5zKwK5NDdpEIIj
   popularity: 11
-  url: https://open.spotify.com/artist/5pEcgMFu5zKwK5NDdpEIIj
+  url: 'https://open.spotify.com/artist/5pEcgMFu5zKwK5NDdpEIIj'
 discography_enriched: true
 top_tracks:
-- Rocket 88 (Tuckered Out)
-- Rocket 88 - (Alternative Take) (I Ain't Drunk)
-- Rocket 88
-- Rocket 88
-- Rocket 88 - Remastered (Rocket 88)
-- 'Trouble Up The Road (The Sue Records Story: The Sound Of Soul)'
-- Much Later (Tuckered Out)
-- Rocket 88 - Alternate Take (Tuckered Out)
-- Much Later (Trail Blazer)
-- Rocket "88" (The Mistreater)
+  - Rocket 88 (Tuckered Out)
+  - Rocket 88 - (Alternative Take) (I Ain't Drunk)
+  - Rocket 88
+  - Rocket 88
+  - Rocket 88 - Remastered (Rocket 88)
+  - 'Trouble Up The Road (The Sue Records Story: The Sound Of Soul)'
+  - Much Later (Tuckered Out)
+  - Rocket 88 - Alternate Take (Tuckered Out)
+  - Much Later (Trail Blazer)
+  - Rocket "88" (The Mistreater)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ee9966ca-c0e8-459b-afcc-4e882dbfc599
-  spotify: https://open.spotify.com/artist/5pEcgMFu5zKwK5NDdpEIIj
-  wikipedia: https://en.wikipedia.org/wiki/Jackie_Brenston
+  musicbrainz: 'https://musicbrainz.org/artist/ee9966ca-c0e8-459b-afcc-4e882dbfc599'
+  spotify: 'https://open.spotify.com/artist/5pEcgMFu5zKwK5NDdpEIIj'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jackie_Brenston'
 image_path: 03_Resources/source_material/ArtistPortraits/jackie_brenston.jpg
 biography_enhanced_at: '2025-11-15T18:38:32.467868'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Jackie+Brenston+and+His+Delta+Cats/+wiki
-- https://www.allmusic.com/artist/jackie-brenston-mn0000782307
-- https://www.bear-family.com/brenston-jackie/
-- https://www.rocky-52.net/chanteursb/brenston_j.htm
+  - 'https://www.last.fm/music/Jackie+Brenston+and+His+Delta+Cats/+wiki'
+  - 'https://www.allmusic.com/artist/jackie-brenston-mn0000782307'
+  - 'https://www.bear-family.com/brenston-jackie/'
+  - 'https://www.rocky-52.net/chanteursb/brenston_j.htm'
 network_extracted: true
 entry_created: '2025-11-15T18:38:32.467879'
 last_updated: '2025-12-23T08:16:10.042393'
 gender: Male
 musicbrainz_id: ee9966ca-c0e8-459b-afcc-4e882dbfc599
 tags:
-- 2008 universal fire victim
-- r&b
-- rock and roll
-
+  - 2008 universal fire victim
+  - r&b
+  - rock and roll
+is_active: false
 ---
 
 ![](jackie_brenston.jpg)

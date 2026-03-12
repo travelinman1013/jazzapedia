@@ -3,14 +3,18 @@ title: Lafayette Harris Jr.
 wiki_slug: lafayette-harris-jr
 schema_version: 2
 status: active
-birth_place: Philadelphia, Pennsylvania, USA (birthplace); Baltimore, Maryland, USA (raised)
+birth_place: >-
+  Philadelphia, Pennsylvania, USA (birthplace); Baltimore, Maryland, USA
+  (raised)
 genres:
-- jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lafayette_harris_jr.jpg
   caption: Lafayette Harris Jr.
   background: solo_singer
-  origin: Philadelphia, Pennsylvania, USA (birthplace); Baltimore, Maryland, USA (raised)
+  origin: >-
+    Philadelphia, Pennsylvania, USA (birthplace); Baltimore, Maryland, USA
+    (raised)
 audio_profile:
   tempo_avg: 118.7
   energy_avg: 0.361
@@ -26,50 +30,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Max Roach
-  - Ernestine Anderson
-  - Houston Person
-  - Roswell Rudd
-  - Lonnie Plaxico
-  - Cindy Blackman
+    - Max Roach
+    - Ernestine Anderson
+    - Houston Person
+    - Roswell Rudd
+    - Lonnie Plaxico
+    - Cindy Blackman
   influenced:
-  - No widely documented individual proteges or students
+    - No widely documented individual proteges or students
   mentors:
-  - Kenny Barron
-  - Barry Harris
-  - Eubie Blake
+    - Kenny Barron
+    - Barry Harris
+    - Eubie Blake
 spotify_data:
   followers: 1375
   id: 53clI7NaUHryu3JxQ593PT
   popularity: 29
-  url: https://open.spotify.com/artist/53clI7NaUHryu3JxQ593PT
+  url: 'https://open.spotify.com/artist/53clI7NaUHryu3JxQ593PT'
 discography_enriched: true
 top_tracks:
-- Wonder Why (You Can't Lose with the Blues)
-- Blues for Barry Harris (You Can't Lose with the Blues)
-- I Love You, Yes I Do (You Can't Lose with the Blues)
-- Swingin' Up in Harlem (Swingin' Up in Harlem)
-- He's My Guy (You Can't Lose with the Blues)
-- The Juicy Blues (You Can't Lose with the Blues)
-- Swingin' Up in Harlem (Swingin' Up in Harlem)
-- Don't Let the Sun Catch You Crying (You Can't Lose with the Blues)
-- Ev'ry Time We Say Goodbye (You Can't Lose with the Blues)
-- You Can't Lose with the Blues (You Can't Lose with the Blues)
+  - Wonder Why (You Can't Lose with the Blues)
+  - Blues for Barry Harris (You Can't Lose with the Blues)
+  - 'I Love You, Yes I Do (You Can''t Lose with the Blues)'
+  - Swingin' Up in Harlem (Swingin' Up in Harlem)
+  - He's My Guy (You Can't Lose with the Blues)
+  - The Juicy Blues (You Can't Lose with the Blues)
+  - Swingin' Up in Harlem (Swingin' Up in Harlem)
+  - Don't Let the Sun Catch You Crying (You Can't Lose with the Blues)
+  - Ev'ry Time We Say Goodbye (You Can't Lose with the Blues)
+  - You Can't Lose with the Blues (You Can't Lose with the Blues)
 external_urls:
-  spotify: https://open.spotify.com/artist/53clI7NaUHryu3JxQ593PT
+  spotify: 'https://open.spotify.com/artist/53clI7NaUHryu3JxQ593PT'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/lafayette_harris_jr.jpg
 biography_enhanced_at: '2025-11-11T09:38:42.720369'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://music.apple.com/us/artist/lafayette-harris-jr/204322509
-- https://www.allaboutjazz.com/musicians/lafayette-harris-jr/
-- https://lafayetteharrisjr.com
-- https://bkcm.org/profile/lafayette-harris/
+  - 'https://music.apple.com/us/artist/lafayette-harris-jr/204322509'
+  - 'https://www.allaboutjazz.com/musicians/lafayette-harris-jr/'
+  - 'https://lafayetteharrisjr.com'
+  - 'https://bkcm.org/profile/lafayette-harris/'
 network_extracted: true
 entry_created: '2025-11-11T09:38:42.720373'
 last_updated: '2025-12-23T08:16:11.563149'
+origin: 'Baltimore, Maryland, United States'
+birth_date: '1963'
+artist_type: person
 ---
 
 ![](lafayette_harris_jr.jpg)

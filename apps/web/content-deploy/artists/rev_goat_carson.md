@@ -1,41 +1,44 @@
 ---
 biography_enhanced_at: '2025-12-27T01:31:41.406645'
-birth_place: New Orleans, Louisiana, USA (primary base; Cherokee affiliation)
+birth_place: 'New Orleans, Louisiana, USA (primary base; Cherokee affiliation)'
 enhancement_provider: perplexity
 entry_created: '2025-12-27T01:31:41.406658'
 external_urls:
-  spotify: https://open.spotify.com/artist/35w4n7OgNqXCipDLoJZHO3
+  spotify: 'https://open.spotify.com/artist/35w4n7OgNqXCipDLoJZHO3'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/rev_goat_carson.jpg
 last_updated: '2025-12-27T01:31:41.406662'
 musical_connections:
   collaborators:
-  - Dr. John
-  - Bob Dylan
-  - Willie Nelson
-  - Eric Clapton
-  - Ani DiFranco
-  - Terence Blanchard
-  - Joe Walsh
+    - Dr. John
+    - Bob Dylan
+    - Willie Nelson
+    - Eric Clapton
+    - Ani DiFranco
+    - Terence Blanchard
+    - Joe Walsh
   influenced: []
   mentors:
-  - Lightnin' Hopkins
-  - Dusty Hill
+    - Lightnin' Hopkins
+    - Dusty Hill
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://blues.gr/profiles/blogs/interview-with-reverend-goat-carson-the-embodiment-of-classic
-- http://www.louisianaweekly.com/only-in-new-orleansall-saints-day-is-a-special-time/
-- https://www.offbeat.com/news/reverend-goat-carson-death/
-- https://www.wwoz.org/events/406231-0
+  - >-
+    https://blues.gr/profiles/blogs/interview-with-reverend-goat-carson-the-embodiment-of-classic
+  - >-
+    http://www.louisianaweekly.com/only-in-new-orleansall-saints-day-is-a-special-time/
+  - 'https://www.offbeat.com/news/reverend-goat-carson-death/'
+  - 'https://www.wwoz.org/events/406231-0'
 spotify_data:
   followers: 4
   id: 35w4n7OgNqXCipDLoJZHO3
   popularity: 0
-  url: https://open.spotify.com/artist/35w4n7OgNqXCipDLoJZHO3
+  url: 'https://open.spotify.com/artist/35w4n7OgNqXCipDLoJZHO3'
 status: active
-title: rev goat carson
+title: Reverend Goat Carson
+artist_type: person
 ---
 
 ![](rev_goat_carson.jpg)

@@ -1,16 +1,16 @@
 ---
-title: Kenny Barron, Ekep Nkwelle
+title: 'Kenny Barron, Ekep Nkwelle'
 wiki_slug: kenny-barron-ekep-nkwelle
 schema_version: 2
 status: active
-birth_place: Philadelphia, Pennsylvania, United States
+birth_place: 'Philadelphia, Pennsylvania, United States'
 genres:
-- jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/kenny_barron_ekep_nkwelle.jpg
-  caption: Kenny Barron, Ekep Nkwelle
+  caption: 'Kenny Barron, Ekep Nkwelle'
   background: solo_singer
-  origin: Philadelphia, Pennsylvania, United States
+  origin: 'Philadelphia, Pennsylvania, United States'
 audio_profile:
   tempo_avg: 115.9
   energy_avg: 0.389
@@ -26,54 +26,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Stan Getz
-  - Buster Williams & Ben Riley
-  - Sphere (Charlie Rouse, Buster Williams, Ben Riley; later Gary Bartz)
-  - Ron Carter
-  - Regina Carter
+    - Stan Getz
+    - Buster Williams & Ben Riley
+    - 'Sphere (Charlie Rouse, Buster Williams, Ben Riley; later Gary Bartz)'
+    - Ron Carter
+    - Regina Carter
   influenced:
-  - David Sánchez
-  - Terence Blanchard
-  - Regina Belle
+    - David Sánchez
+    - Terence Blanchard
+    - Regina Belle
   mentors:
-  - Bill Barron
-  - Yusef Lateef
-  - Dizzy Gillespie
+    - Bill Barron
+    - Yusef Lateef
+    - Dizzy Gillespie
 spotify_data:
   followers: 1836
   id: 4fV8RoCy9P8JLEJirqs1MJ
   popularity: 11
-  url: https://open.spotify.com/artist/4fV8RoCy9P8JLEJirqs1MJ
+  url: 'https://open.spotify.com/artist/4fV8RoCy9P8JLEJirqs1MJ'
 discography_enriched: true
 top_tracks:
-- Blue Waters (Concentric Circles)
-- L's Bop (Concentric Circles)
-- DPW (Concentric Circles)
-- Aquele Frevo Axé (Concentric Circles)
-- Concentric Circles (Concentric Circles)
-- In the Dark (Concentric Circles)
-- Baile (Concentric Circles)
-- A Short Journey (Concentric Circles)
-- Von Hangman (Concentric Circles)
-- I'm Just Sayin' (Concentric Circles)
+  - Blue Waters (Concentric Circles)
+  - L's Bop (Concentric Circles)
+  - DPW (Concentric Circles)
+  - Aquele Frevo Axé (Concentric Circles)
+  - Concentric Circles (Concentric Circles)
+  - In the Dark (Concentric Circles)
+  - Baile (Concentric Circles)
+  - A Short Journey (Concentric Circles)
+  - Von Hangman (Concentric Circles)
+  - I'm Just Sayin' (Concentric Circles)
 external_urls:
-  spotify: https://open.spotify.com/artist/4fV8RoCy9P8JLEJirqs1MJ
-  wikipedia: https://en.wikipedia.org/wiki/Kenny_Barron
+  spotify: 'https://open.spotify.com/artist/4fV8RoCy9P8JLEJirqs1MJ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kenny_Barron'
 image_path: 03_Resources/source_material/ArtistPortraits/kenny_barron_ekep_nkwelle.jpg
 biography_enhanced_at: '2025-12-08T04:52:50.270911'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://kennybarron.com/biography/
-- https://www.bluenote.com/artist/kenny-barron/
-- https://www.laphil.com/musicdb/artists/6023/kenny-barron
-- https://www.jazzempowers.org/kenny-barron
-- https://atljazzfest.com/artists/kenny-barron-quartet/
-- https://www.wrti.org/wrti-spotlight/2024-04-25/kenny-barron-reflects-on-mastery-mentorship-and-his-philly-roots
-- http://kennybarron.com/cms/wp-content/uploads/2014/02/biography.pdf
+  - 'https://kennybarron.com/biography/'
+  - 'https://www.bluenote.com/artist/kenny-barron/'
+  - 'https://www.laphil.com/musicdb/artists/6023/kenny-barron'
+  - 'https://www.jazzempowers.org/kenny-barron'
+  - 'https://atljazzfest.com/artists/kenny-barron-quartet/'
+  - >-
+    https://www.wrti.org/wrti-spotlight/2024-04-25/kenny-barron-reflects-on-mastery-mentorship-and-his-philly-roots
+  - 'http://kennybarron.com/cms/wp-content/uploads/2014/02/biography.pdf'
 network_extracted: true
 entry_created: '2025-12-08T04:52:50.270919'
 last_updated: '2025-12-23T08:16:11.283080'
+birth_date: '1943-06-09'
+artist_type: person
 ---
 
 ![](kenny_barron_ekep_nkwelle.jpg)

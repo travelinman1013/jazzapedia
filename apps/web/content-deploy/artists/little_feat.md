@@ -2,16 +2,16 @@
 title: Little Feat
 wiki_slug: little-feat
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1969'
 genres:
-- country rock
-- roots rock
-- southern rock
+  - country rock
+  - roots rock
+  - southern rock
 instruments:
-- guitar
-- keyboard
+  - guitar
+  - keyboard
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/little_feat.jpg
   caption: Little Feat
@@ -32,130 +32,131 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lowell George
-  - Bill Payne
-  - Richie Hayward
-  - Paul Barrere
-  - Kenny Gradney
-  - Sam Clayton
-  - Roy Estrada
-  - Fred Tackett
+    - Lowell George
+    - Bill Payne
+    - Richie Hayward
+    - Paul Barrere
+    - Kenny Gradney
+    - Sam Clayton
+    - Roy Estrada
+    - Fred Tackett
   influenced:
-  - Linda Ronstadt
-  - Dave Matthews
-  - Emmylou Harris
-  - Jimmy Buffett
+    - Linda Ronstadt
+    - Dave Matthews
+    - Emmylou Harris
+    - Jimmy Buffett
   mentors:
-  - Frank Zappa
-  - Jimmy Carl Black
+    - Frank Zappa
+    - Jimmy Carl Black
 spotify_data:
   followers: 501616
   id: 0ZIwOAzDuGPspzK7yiTc4S
   popularity: 56
-  url: https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S
+  url: 'https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S'
 discography_enriched: true
 top_tracks:
-- Spanish Moon (Feats Don't Fail Me Now)
-- Willin' (Sailin' Shoes)
-- Dixie Chicken (Dixie Chicken)
-- Long Distance Love (The Last Record Album)
-- Skin It Back (Feats Don't Fail Me Now)
-- Two Trains (Dixie Chicken)
-- All That You Dream (with Linda Ronstadt) (The Last Record Album)
-- Roll Um Easy (Dixie Chicken)
-- On Your Way Down (Dixie Chicken)
-- Oh, Atlanta (Feats Don't Fail Me Now)
+  - Spanish Moon (Feats Don't Fail Me Now)
+  - Willin' (Sailin' Shoes)
+  - Dixie Chicken (Dixie Chicken)
+  - Long Distance Love (The Last Record Album)
+  - Skin It Back (Feats Don't Fail Me Now)
+  - Two Trains (Dixie Chicken)
+  - All That You Dream (with Linda Ronstadt) (The Last Record Album)
+  - Roll Um Easy (Dixie Chicken)
+  - On Your Way Down (Dixie Chicken)
+  - 'Oh, Atlanta (Feats Don''t Fail Me Now)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9b106beb-12b5-4525-8025-42e295a2b90a
-  spotify: https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S
-  wikipedia: https://en.wikipedia.org/wiki/Little_Feat
+  musicbrainz: 'https://musicbrainz.org/artist/9b106beb-12b5-4525-8025-42e295a2b90a'
+  spotify: 'https://open.spotify.com/artist/0ZIwOAzDuGPspzK7yiTc4S'
+  wikipedia: 'https://en.wikipedia.org/wiki/Little_Feat'
 image_path: 03_Resources/source_material/ArtistPortraits/little_feat.jpg
 biography_enhanced_at: '2025-12-15T01:31:08.919464'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.littlefeat.net/band-bio
-- https://americansongwriter.com/behind-the-band-name-little-feat/
-- https://www.last.fm/music/Little+Feat/+wiki
+  - 'https://www.littlefeat.net/band-bio'
+  - 'https://americansongwriter.com/behind-the-band-name-little-feat/'
+  - 'https://www.last.fm/music/Little+Feat/+wiki'
 network_extracted: true
 entry_created: '2025-12-15T01:31:08.919470'
 last_updated: '2025-12-23T08:16:12.005206'
 members:
-- begin: '1969'
-  end: '1979-06-29'
-  instruments:
-  - guitar
-  mbid: 9cd68445-d218-439b-8127-3de4e7df6cdb
-  name: Lowell George
-- begin: '1971'
-  end: '1972'
-  instruments: []
-  mbid: a56ffd42-eb7f-4400-9e8c-47351d03301b
-  name: Roy Estrada
-- begin: '1971'
-  end: '2010-08-12'
-  instruments: []
-  mbid: 841d81fc-71b4-41bc-b712-15ee8cae2bfb
-  name: Richie Hayward
-- &id001
-  begin: '1971'
-  end: ''
-  instruments:
-  - keyboard
-  mbid: cc8ab636-b753-4cd8-a3b3-e59e7d1bb3d0
-  name: Bill Payne
-- begin: '1972'
-  end: '2019-10-26'
-  instruments: []
-  mbid: 729a9a43-c259-4011-b70a-26351eabceec
-  name: Paul Barrère
-- &id002
-  begin: '1973'
-  end: ''
-  instruments: []
-  mbid: bff92f20-88b6-4597-925b-459ab2552bfe
-  name: Sam Clayton
-- &id003
-  begin: '1973'
-  end: ''
-  instruments: []
-  mbid: ae1285d5-59e0-4d85-913d-568a03357151
-  name: Kenny Gradney
-- &id004
-  begin: '1973'
-  end: ''
-  instruments: []
-  mbid: dd1f7a48-cc76-4bce-9259-c654a6ba9662
-  name: Fred Tackett
-- begin: '1988'
-  end: '1996'
-  instruments: []
-  mbid: 11c7d600-7d70-458c-b9d7-251609f9195b
-  name: Craig Fuller
-- &id005
-  begin: '1988'
-  end: ''
-  instruments: []
-  mbid: 26764053-7e0d-4947-b01d-ac304e0e0223
-  name: Shaun Murphy
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: 8eec186c-e809-4f55-a14f-df3d0e4cfd00
-  name: Phil Brown
+  - begin: '1969'
+    end: '1979-06-29'
+    instruments:
+      - guitar
+    mbid: 9cd68445-d218-439b-8127-3de4e7df6cdb
+    name: Lowell George
+  - begin: '1971'
+    end: '1972'
+    instruments: []
+    mbid: a56ffd42-eb7f-4400-9e8c-47351d03301b
+    name: Roy Estrada
+  - begin: '1971'
+    end: '2010-08-12'
+    instruments: []
+    mbid: 841d81fc-71b4-41bc-b712-15ee8cae2bfb
+    name: Richie Hayward
+  - &ref_0
+    begin: '1971'
+    end: ''
+    instruments:
+      - keyboard
+    mbid: cc8ab636-b753-4cd8-a3b3-e59e7d1bb3d0
+    name: Bill Payne
+  - begin: '1972'
+    end: '2019-10-26'
+    instruments: []
+    mbid: 729a9a43-c259-4011-b70a-26351eabceec
+    name: Paul Barrère
+  - &ref_1
+    begin: '1973'
+    end: ''
+    instruments: []
+    mbid: bff92f20-88b6-4597-925b-459ab2552bfe
+    name: Sam Clayton
+  - &ref_2
+    begin: '1973'
+    end: ''
+    instruments: []
+    mbid: ae1285d5-59e0-4d85-913d-568a03357151
+    name: Kenny Gradney
+  - &ref_3
+    begin: '1973'
+    end: ''
+    instruments: []
+    mbid: dd1f7a48-cc76-4bce-9259-c654a6ba9662
+    name: Fred Tackett
+  - begin: '1988'
+    end: '1996'
+    instruments: []
+    mbid: 11c7d600-7d70-458c-b9d7-251609f9195b
+    name: Craig Fuller
+  - &ref_4
+    begin: '1988'
+    end: ''
+    instruments: []
+    mbid: 26764053-7e0d-4947-b01d-ac304e0e0223
+    name: Shaun Murphy
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 8eec186c-e809-4f55-a14f-df3d0e4cfd00
+    name: Phil Brown
 musicbrainz_id: 9b106beb-12b5-4525-8025-42e295a2b90a
-origin: Los Angeles
+origin: 'Los Angeles, California, United States'
 original_members:
-- *id001
-- *id002
-- *id003
-- *id004
-- *id005
+  - *ref_0
+  - *ref_1
+  - *ref_2
+  - *ref_3
+  - *ref_4
 tags:
-- blues rock
-- boogie rock
-- classic pop and rock
+  - blues rock
+  - boogie rock
+  - classic pop and rock
+death_date: '1979-06-29'
 ---
 
 ![](little_feat.jpg)

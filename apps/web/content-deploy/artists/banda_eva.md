@@ -4,8 +4,8 @@ wiki_slug: banda-eva
 schema_version: 2
 status: active
 genres:
-- axé
-- pagode baiano
+  - axé
+  - pagode baiano
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/banda_eva.jpg
   caption: Banda Eva
@@ -16,7 +16,7 @@ audio_profile:
   valence_avg: 0.636
   danceability_avg: 0.584
   acousticness_avg: 0.272
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -7.9
   speechiness_avg: 0.087
   liveness_avg: 0.564
@@ -25,51 +25,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ivete Sangalo
-  - Emanuelle Araújo
-  - Saulo Fernandes
-  - Felipe Pezzoni
+    - Ivete Sangalo
+    - Emanuelle Araújo
+    - Saulo Fernandes
+    - Felipe Pezzoni
   influenced:
-  - Ivete Sangalo
-  - Emanuelle Araújo
-  - Saulo Fernandes
+    - Ivete Sangalo
+    - Emanuelle Araújo
+    - Saulo Fernandes
   mentors:
-  - Luiz Caldas
-  - Ilê Aiyê
+    - Luiz Caldas
+    - Ilê Aiyê
 spotify_data:
   followers: 402058
   id: 1wqkMc837HWUwdC8sOZ7lZ
   popularity: 51
-  url: https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ
+  url: 'https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ'
 discography_enriched: true
 top_tracks:
-- Vem Meu Amor - Ao Vivo (Ao Vivo)
-- Beleza Rara (Beleza Rara)
-- Arerê - Ao Vivo (Ao Vivo)
-- Eva - Ao Vivo (Veja Alto, Ouça Colorido - Ao Vivo)
-- Me Abraça (Hora H)
-- Levada Louca - Ao Vivo (Ao Vivo)
-- We Are The World Of Carnaval
-- Carro Velho (Você E Eu (Audio))
-- Eva (Eva) - Ao Vivo (Ao Vivo)
-- Alo Paixao - Ao Vivo (Ao Vivo)
+  - Vem Meu Amor - Ao Vivo (Ao Vivo)
+  - Beleza Rara (Beleza Rara)
+  - Arerê - Ao Vivo (Ao Vivo)
+  - 'Eva - Ao Vivo (Veja Alto, Ouça Colorido - Ao Vivo)'
+  - Me Abraça (Hora H)
+  - Levada Louca - Ao Vivo (Ao Vivo)
+  - We Are The World Of Carnaval
+  - Carro Velho (Você E Eu (Audio))
+  - Eva (Eva) - Ao Vivo (Ao Vivo)
+  - Alo Paixao - Ao Vivo (Ao Vivo)
 external_urls:
-  spotify: https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ
-  wikipedia: https://pt.wikipedia.org/wiki/Banda_Eva
+  spotify: 'https://open.spotify.com/artist/1wqkMc837HWUwdC8sOZ7lZ'
+  wikipedia: 'https://pt.wikipedia.org/wiki/Banda_Eva'
 image_path: 03_Resources/source_material/ArtistPortraits/banda_eva.jpg
 biography_enhanced_at: '2025-11-02T07:29:09.411199'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://pt.wikipedia.org/wiki/Banda_Eva
-- https://en.wikipedia.org/wiki/Banda_Eva
-- https://www.aaemusic.com/artist/banda-eva
-- https://mapadosfestivais.com.br/artista/banda-eva/
-- https://www.youtube.com/watch?v=Jhn3tkDqmvM
+  - 'https://pt.wikipedia.org/wiki/Banda_Eva'
+  - 'https://en.wikipedia.org/wiki/Banda_Eva'
+  - 'https://www.aaemusic.com/artist/banda-eva'
+  - 'https://mapadosfestivais.com.br/artista/banda-eva/'
+  - 'https://www.youtube.com/watch?v=Jhn3tkDqmvM'
 network_extracted: true
 entry_created: '2025-11-02T07:29:09.411209'
 last_updated: '2025-12-23T08:16:05.068242'
-origin: Salvador, Bahia, Brazil
+origin: 'Salvador, Bahia, Brazil'
+artist_type: band
 ---
 
 ![](banda_eva.jpg)

@@ -3,15 +3,15 @@ title: John Delafose
 wiki_slug: john-delafose
 schema_version: 2
 status: active
-birth_place: Duralde, Evangeline Parish, Louisiana, United States
+birth_place: 'Duralde, Evangeline Parish, Louisiana, United States'
 genres:
-- zydeco
-- cajun
+  - zydeco
+  - cajun
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/john_delafose.jpg
   caption: John Delafose
   background: solo_singer
-  origin: Duralde, Evangeline Parish, Louisiana, United States
+  origin: 'Duralde, Evangeline Parish, Louisiana, United States'
 audio_profile:
   tempo_avg: 141.7
   energy_avg: 0.684
@@ -19,7 +19,7 @@ audio_profile:
   danceability_avg: 0.56
   acousticness_avg: 0.298
   instrumentalness_avg: 0.063
-  loudness_avg: -12.0
+  loudness_avg: -12
   speechiness_avg: 0.159
   liveness_avg: 0.261
   track_count: 50
@@ -27,50 +27,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Eunice Playboys
-  - Geno Delafose
-  - John “T.T.” Delafose and Tony Delafose
-  - Charles Prudhomme and “Slim” Prudhomme
+    - The Eunice Playboys
+    - Geno Delafose
+    - John “T.T.” Delafose and Tony Delafose
+    - Charles Prudhomme and “Slim” Prudhomme
   influenced:
-  - Geno Delafose
-  - Contemporary zydeco accordionists (general)
+    - Geno Delafose
+    - Contemporary zydeco accordionists (general)
   mentors:
-  - Canray Fontenot
-  - Amédé Ardoin (stylistic influence)
-  - Bois Sec Ardoin, Dewey Balfa, Nathan Abshire (regional tradition)
+    - Canray Fontenot
+    - Amédé Ardoin (stylistic influence)
+    - 'Bois Sec Ardoin, Dewey Balfa, Nathan Abshire (regional tradition)'
 spotify_data:
   followers: 1443
   id: 4FUWfaBOkbbPUUivMD7M3w
   popularity: 3
-  url: https://open.spotify.com/artist/4FUWfaBOkbbPUUivMD7M3w
+  url: 'https://open.spotify.com/artist/4FUWfaBOkbbPUUivMD7M3w'
 discography_enriched: true
 top_tracks:
-- Joe Pete Got Two Women (Joe Pete Got Two Women)
-- Oh Negresse (PassionFish Original Soundtrack)
-- Oh, Negresse (Joe Pete Got Two Women)
-- Ka-Wann (Heartaches and Hot Steps)
-- Broken Hearted (Heartaches and Hot Steps)
-- Poor Man's Two Step (PassionFish Original Soundtrack)
-- One Hour Too Late (Joe Pete Got Two Women)
-- Rag Around Your Head (Joe Pete Got Two Women)
-- Mardi Gras Song (Joe Pete Got Two Women)
-- Rag Around Your Head (15 Louisiana Zydeco Classics)
+  - Joe Pete Got Two Women (Joe Pete Got Two Women)
+  - Oh Negresse (PassionFish Original Soundtrack)
+  - 'Oh, Negresse (Joe Pete Got Two Women)'
+  - Ka-Wann (Heartaches and Hot Steps)
+  - Broken Hearted (Heartaches and Hot Steps)
+  - Poor Man's Two Step (PassionFish Original Soundtrack)
+  - One Hour Too Late (Joe Pete Got Two Women)
+  - Rag Around Your Head (Joe Pete Got Two Women)
+  - Mardi Gras Song (Joe Pete Got Two Women)
+  - Rag Around Your Head (15 Louisiana Zydeco Classics)
 external_urls:
-  spotify: https://open.spotify.com/artist/4FUWfaBOkbbPUUivMD7M3w
-  wikipedia: https://en.wikipedia.org/wiki/John_Delafose
+  spotify: 'https://open.spotify.com/artist/4FUWfaBOkbbPUUivMD7M3w'
+  wikipedia: 'https://en.wikipedia.org/wiki/John_Delafose'
 image_path: 03_Resources/source_material/ArtistPortraits/john_delafose.jpg
 biography_enhanced_at: '2025-12-08T04:24:35.119323'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/John_Delafose
-- https://kids.kiddle.co/John_Delafose
-- https://arhoolie.org/john-delafose/
-- https://www.allmusic.com/artist/john-delafose-mn0000221165
-- https://flattownmusic.com/artist/john-delafose/
+  - 'https://en.wikipedia.org/wiki/John_Delafose'
+  - 'https://kids.kiddle.co/John_Delafose'
+  - 'https://arhoolie.org/john-delafose/'
+  - 'https://www.allmusic.com/artist/john-delafose-mn0000221165'
+  - 'https://flattownmusic.com/artist/john-delafose/'
 network_extracted: true
 entry_created: '2025-12-08T04:24:35.119333'
 last_updated: '2025-12-23T08:16:10.726761'
+birth_date: '1939-04-16'
+death_date: '1994-09-18'
+artist_type: person
 ---
 
 ![](john_delafose.jpg)

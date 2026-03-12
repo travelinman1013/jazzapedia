@@ -1,10 +1,10 @@
 ---
-title: los indios tabajaras
+title: Los Indios Tabajaras
 wiki_slug: los-indios-tabajaras
 schema_version: 2
 status: active
 genres:
-- latin folklore
+  - latin folklore
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/los_indios_tabajaras.jpg
   caption: los indios tabajaras
@@ -24,46 +24,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Chet Atkins
-  - Floyd Cramer
-  - Don Gibson
+    - Chet Atkins
+    - Floyd Cramer
+    - Don Gibson
   influenced:
-  - Latin American guitarists and instrumental duos
+    - Latin American guitarists and instrumental duos
   mentors:
-  - Various classical guitar teachers
+    - Various classical guitar teachers
 spotify_data:
   followers: 35974
   id: 1TKifb1r4wnGbY5CYIwjGb
   popularity: 39
-  url: https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb
+  url: 'https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb'
 discography_enriched: true
 top_tracks:
-- Maria Elena (Maria Elena)
-- Always in My Heart (Always in My Heart)
-- Siempre en Mi Corazón (Ecos del Llano)
-- Star Dust (Ecos del Llano)
-- Ave Maria No Morro (Ecos del Llano)
-- Luces en el Puerto
-- Solamente Una Vez - Voglio Amarti Così (Serie Platino)
-- Amapola (Always in My Heart)
-- Perfidia
-- 'Emanuelle (Guitarras Romanticas: En el Sonido de los Indios Tabajaras)'
+  - Maria Elena (Maria Elena)
+  - Always in My Heart (Always in My Heart)
+  - Siempre en Mi Corazón (Ecos del Llano)
+  - Star Dust (Ecos del Llano)
+  - Ave Maria No Morro (Ecos del Llano)
+  - Luces en el Puerto
+  - Solamente Una Vez - Voglio Amarti Così (Serie Platino)
+  - Amapola (Always in My Heart)
+  - Perfidia
+  - 'Emanuelle (Guitarras Romanticas: En el Sonido de los Indios Tabajaras)'
 external_urls:
-  spotify: https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb
-  wikipedia: https://en.wikipedia.org/wiki/Los_Indios_Tabajaras
+  spotify: 'https://open.spotify.com/artist/1TKifb1r4wnGbY5CYIwjGb'
+  wikipedia: 'https://en.wikipedia.org/wiki/Los_Indios_Tabajaras'
 image_path: 03_Resources/source_material/ArtistPortraits/los_indios_tabajaras.jpg
 biography_enhanced_at: '2025-10-26T12:32:03.866546'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Los_Indios_Tabajaras
-- https://elblogdelbolero.wordpress.com/2008/07/06/los-indios-tabajara-maria-elena/
-- https://whatfrankislisteningto.negstar.com/ethnic/los-indios-tabajaras-maria-elena-rca-1963/
-- https://www.last.fm/es/music/Los+indios+tabajaras/+wiki
+  - 'https://en.wikipedia.org/wiki/Los_Indios_Tabajaras'
+  - >-
+    https://elblogdelbolero.wordpress.com/2008/07/06/los-indios-tabajara-maria-elena/
+  - >-
+    https://whatfrankislisteningto.negstar.com/ethnic/los-indios-tabajaras-maria-elena-rca-1963/
+  - 'https://www.last.fm/es/music/Los+indios+tabajaras/+wiki'
 network_extracted: true
 entry_created: '2025-10-26T12:32:03.866554'
 last_updated: '2025-12-23T08:16:12.153165'
-origin: Tianguá, Ceará, Brazil
+origin: 'Tianguá, Ceará, Brazil'
+artist_type: band
 ---
 
 ![](los_indios_tabajaras.jpg)

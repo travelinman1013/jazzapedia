@@ -4,9 +4,9 @@ wiki_slug: otis-smith
 schema_version: 2
 status: active
 genres:
-- soul
-- motown
-- soul blues
+  - soul
+  - motown
+  - soul blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/otis_smith.jpg
   caption: Otis Smith
@@ -32,34 +32,38 @@ spotify_data:
   followers: 2559130
   id: 60df5JBRRPcnSpsIMxxwQm
   popularity: 70
-  url: https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm
+  url: 'https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm'
 discography_enriched: true
 top_tracks:
-- (Sittin' On) the Dock of the Bay (The Dock of the Bay (Mono))
-- Otis (Watch The Throne)
-- Stand by Me (Pain in My Heart)
-- 'Try a Little Tenderness (Complete & Unbelievable: The Otis Redding Dictionary of Soul)'
-- These Arms of Mine (Pain in My Heart)
-- Hard to Handle (Dock of the Bay Sessions)
-- 'I''ve Been Loving You Too Long (Otis Blue: Otis Redding Sings Soul (Collector''s Edition))'
-- 'My Girl (Otis Blue: Otis Redding Sings Soul (Collector''s Edition))'
-- Cigarettes and Coffee (The Soul Album)
-- Eye Know (3 Feet High and Rising)
+  - (Sittin' On) the Dock of the Bay (The Dock of the Bay (Mono))
+  - Otis (Watch The Throne)
+  - Stand by Me (Pain in My Heart)
+  - >-
+    Try a Little Tenderness (Complete & Unbelievable: The Otis Redding
+    Dictionary of Soul)
+  - These Arms of Mine (Pain in My Heart)
+  - Hard to Handle (Dock of the Bay Sessions)
+  - >-
+    I've Been Loving You Too Long (Otis Blue: Otis Redding Sings Soul
+    (Collector's Edition))
+  - 'My Girl (Otis Blue: Otis Redding Sings Soul (Collector''s Edition))'
+  - Cigarettes and Coffee (The Soul Album)
+  - Eye Know (3 Feet High and Rising)
 external_urls:
-  spotify: https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm
+  spotify: 'https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/otis_smith.jpg
 biography_enhanced_at: '2025-12-06T05:50:00.260401'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://thehotelalbert.com/rock_roll/otis_smith.html
-- https://www.allmusic.com/artist/otis-smith-mn0000411908
-- https://www.last.fm/music/Otis+Smith
+  - 'http://thehotelalbert.com/rock_roll/otis_smith.html'
+  - 'https://www.allmusic.com/artist/otis-smith-mn0000411908'
+  - 'https://www.last.fm/music/Otis+Smith'
 network_extracted: true
 entry_created: '2025-12-06T05:50:00.260406'
 last_updated: '2025-12-23T08:16:13.870139'
-
+artist_type: person
 ---
 
 ![](otis_smith.jpg)

@@ -2,12 +2,12 @@
 title: Con Funk Shun
 wiki_slug: con-funk-shun
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1969'
 genres:
-- funk
-- quiet storm
+  - funk
+  - quiet storm
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/con_funk_shun.jpg
   caption: Con Funk Shun
@@ -28,61 +28,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Soul Children
-  - Rufus Thomas
-  - M.C. Hammer
-  - Louis McCall
-  - Michael Cooper
-  - Felton Pilate
+    - The Soul Children
+    - Rufus Thomas
+    - M.C. Hammer
+    - Louis McCall
+    - Michael Cooper
+    - Felton Pilate
   influenced:
-  - Silk Sonic (Bruno Mars & Anderson .Paak)
+    - Silk Sonic (Bruno Mars & Anderson .Paak)
   mentors:
-  - NiteLiters
+    - NiteLiters
 spotify_data:
   followers: 417019
   id: 2hUkfSXyuDfQbUeNOShRiz
   popularity: 45
-  url: https://open.spotify.com/artist/2hUkfSXyuDfQbUeNOShRiz
+  url: 'https://open.spotify.com/artist/2hUkfSXyuDfQbUeNOShRiz'
 discography_enriched: true
 top_tracks:
-- Love's Train (To The Max (Expanded Edition))
-- Straight From The Heart (Con Funk Shun - 7)
-- Ffun (Secrets)
-- Love's Train
-- Got To Be Enough (Spirit Of Love)
-- Baby I'm Hooked (Right Into Your Love) (Fever)
-- By Your Side (Spirit Of Love)
-- Too Tight
-- Chase Me (Candy)
-- I'm Leaving Baby (Electric Lady)
+  - Love's Train (To The Max (Expanded Edition))
+  - Straight From The Heart (Con Funk Shun - 7)
+  - Ffun (Secrets)
+  - Love's Train
+  - Got To Be Enough (Spirit Of Love)
+  - Baby I'm Hooked (Right Into Your Love) (Fever)
+  - By Your Side (Spirit Of Love)
+  - Too Tight
+  - Chase Me (Candy)
+  - I'm Leaving Baby (Electric Lady)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/338f4067-57a8-46bc-8d56-50dc4e51e24a
-  spotify: https://open.spotify.com/artist/2hUkfSXyuDfQbUeNOShRiz
+  musicbrainz: 'https://musicbrainz.org/artist/338f4067-57a8-46bc-8d56-50dc4e51e24a'
+  spotify: 'https://open.spotify.com/artist/2hUkfSXyuDfQbUeNOShRiz'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/con_funk_shun.jpg
 biography_enhanced_at: '2025-12-14T01:53:35.318874'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Con+Funk+Shun/+wiki
-- https://seattlemedium.com/the-legendary-funk-band-con-funk-shun-talk-origins-music-success-and-legacy/
-- https://www.confunkshunusa.com/bio-1
+  - 'https://www.last.fm/music/Con+Funk+Shun/+wiki'
+  - >-
+    https://seattlemedium.com/the-legendary-funk-band-con-funk-shun-talk-origins-music-success-and-legacy/
+  - 'https://www.confunkshunusa.com/bio-1'
 network_extracted: true
 entry_created: '2025-12-14T01:53:35.318885'
 last_updated: '2025-12-23T08:16:07.166651'
 disambiguation: US R&B & funk band
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b40d32ff-99c0-44d5-8ef2-08643c7f20e7
-  name: Felton C. Pilate II
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b40d32ff-99c0-44d5-8ef2-08643c7f20e7
+    name: Felton C. Pilate II
 musicbrainz_id: 338f4067-57a8-46bc-8d56-50dc4e51e24a
-origin: Vallejo
+origin: 'Vallejo, California, United States'
 tags:
-- funk
-- r&b
-- soul
+  - funk
+  - r&b
+  - soul
 ---
 
 ![](con_funk_shun.jpg)

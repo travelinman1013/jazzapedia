@@ -2,48 +2,48 @@
 artist_type: person
 biography_enhanced_at: '2025-12-29T01:22:12.841757'
 birth_date: '1983-10-25'
-birth_place: Jamaica
+birth_place: 'King Weston District, St. Andrew, Jamaica'
 disambiguation: Jamaican reggae singer
 enhancement_provider: perplexity
 entry_created: '2025-12-29T01:22:12.841765'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c70a1a51-caf3-4667-b956-11e27a00fe37
-  spotify: https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi
-  wikipedia: https://en.wikipedia.org/wiki/Gyptian
+  musicbrainz: 'https://musicbrainz.org/artist/c70a1a51-caf3-4667-b956-11e27a00fe37'
+  spotify: 'https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi'
+  wikipedia: 'https://en.wikipedia.org/wiki/Gyptian'
 gender: Male
 genres:
-- dancehall
-- reggae
-- soca
-- lovers rock
-- ragga
+  - dancehall
+  - reggae
+  - soca
+  - lovers rock
+  - ragga
 image_path: 03_Resources/source_material/ArtistPortraits/gyptian.jpg
 last_updated: '2025-12-29T01:22:12.841767'
 musical_connections:
   collaborators:
-  - Nicki Minaj
+    - Nicki Minaj
   influenced: []
   mentors:
-  - Mr. Wong
-  - Earl 'Chinna' Smith
+    - Mr. Wong
+    - Earl 'Chinna' Smith
 musicbrainz_id: c70a1a51-caf3-4667-b956-11e27a00fe37
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Gyptian
-- https://www.reggaeville.com/artist-details/gyptian/about/
-- https://kids.kiddle.co/Gyptian
-- https://www.allamericanspeakers.com/celebritytalentbios/Gyptian/464945
+  - 'https://en.wikipedia.org/wiki/Gyptian'
+  - 'https://www.reggaeville.com/artist-details/gyptian/about/'
+  - 'https://kids.kiddle.co/Gyptian'
+  - 'https://www.allamericanspeakers.com/celebritytalentbios/Gyptian/464945'
 spotify_data:
   followers: 649069
   id: 2JX4h8xm0hNxCB0aNBWzyi
   popularity: 59
-  url: https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi
+  url: 'https://open.spotify.com/artist/2JX4h8xm0hNxCB0aNBWzyi'
 status: active
 tags:
-- dancehall
-- hip hop rnb and dance hall
-- reggae
+  - dancehall
+  - hip hop rnb and dance hall
+  - reggae
 title: Gyptian
 ---
 

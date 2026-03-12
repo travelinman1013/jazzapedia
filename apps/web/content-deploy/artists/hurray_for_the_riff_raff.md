@@ -2,17 +2,17 @@
 title: Hurray for the Riff Raff
 wiki_slug: hurray-for-the-riff-raff
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 birth_date: '2007'
 genres:
-- americana
-- alt country
+  - americana
+  - alt country
 instruments:
-- banjo
-- guitar
-- lead vocals
-- original
+  - banjo
+  - guitar
+  - lead vocals
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/hurray_for_the_riff_raff.jpg
   caption: Hurray for the Riff Raff
@@ -33,62 +33,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Andrija Tokic
-  - Dead Man Street Orchestra
+    - Andrija Tokic
+    - Dead Man Street Orchestra
   influenced: []
   mentors:
-  - Jesse Fuller
-  - The Band
+    - Jesse Fuller
+    - The Band
 spotify_data:
   followers: 144972
   id: 2xLEV2jDreAOcpJXFNoXyt
   popularity: 45
-  url: https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt
+  url: 'https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt'
 discography_enriched: true
 top_tracks:
-- Alibi (The Past Is Still Alive)
-- Jealous Guy (My Dearest Darkest Neighbor)
-- Pyramid Scheme
-- Thirteen
-- Hawkmoon (The Past Is Still Alive)
-- Buffalo (The Past Is Still Alive)
-- Snake Plant (The Past Is Still Alive) (The Past Is Still Alive)
-- Colossus of Roads (The Past Is Still Alive)
-- Black Jack Davey (My Dearest Darkest Neighbor)
-- Blue Ridge Mountain (Small Town Heroes)
+  - Alibi (The Past Is Still Alive)
+  - Jealous Guy (My Dearest Darkest Neighbor)
+  - Pyramid Scheme
+  - Thirteen
+  - Hawkmoon (The Past Is Still Alive)
+  - Buffalo (The Past Is Still Alive)
+  - Snake Plant (The Past Is Still Alive) (The Past Is Still Alive)
+  - Colossus of Roads (The Past Is Still Alive)
+  - Black Jack Davey (My Dearest Darkest Neighbor)
+  - Blue Ridge Mountain (Small Town Heroes)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b053efc9-e8ea-474a-981f-a3c6fffcc694
-  spotify: https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt
-  wikipedia: https://en.wikipedia.org/wiki/Hurray_for_the_Riff_Raff
+  musicbrainz: 'https://musicbrainz.org/artist/b053efc9-e8ea-474a-981f-a3c6fffcc694'
+  spotify: 'https://open.spotify.com/artist/2xLEV2jDreAOcpJXFNoXyt'
+  wikipedia: 'https://en.wikipedia.org/wiki/Hurray_for_the_Riff_Raff'
 image_path: 03_Resources/source_material/ArtistPortraits/hurray_for_the_riff_raff.jpg
 biography_enhanced_at: '2025-10-24T07:55:54.747542'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Hurray for the Riff Raff
-- Shore Fire Media
-- Acoustic Guitar Magazine
-- Please Kill Me
-- CityFolk Festival
+  - Wikipedia - Hurray for the Riff Raff
+  - Shore Fire Media
+  - Acoustic Guitar Magazine
+  - Please Kill Me
+  - CityFolk Festival
 network_extracted: true
 entry_created: '2025-10-24T07:55:54.747555'
 last_updated: '2025-12-23T08:16:09.781543'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - banjo
-  - guitar
-  - lead vocals
-  - original
-  mbid: ba02c9a2-ce26-4e86-8968-548e3510b50f
-  name: Alynda Mariposa Segarra
+  - begin: ''
+    end: ''
+    instruments:
+      - banjo
+      - guitar
+      - lead vocals
+      - original
+    mbid: ba02c9a2-ce26-4e86-8968-548e3510b50f
+    name: Alynda Mariposa Segarra
 musicbrainz_id: b053efc9-e8ea-474a-981f-a3c6fffcc694
-origin: New Orleans
+origin: 'New Orleans, Louisiana, United States'
 tags:
-- americana
-- country
-- folk
+  - americana
+  - country
+  - folk
+birth_place: 'Bronx, New York, United States'
 ---
 
 ![](hurray_for_the_riff_raff.jpg)

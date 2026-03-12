@@ -5,13 +5,13 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1990-12-01'
-birth_place: Nashville
+birth_place: 'Nashville, Tennessee, United States'
 genres:
-- folk punk
-- americana
+  - folk punk
+  - americana
 instruments:
-- acoustic guitar
-- electric guitar
+  - acoustic guitar
+  - electric guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sunny_war.jpg
   caption: Sunny War
@@ -33,50 +33,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Particle Kid
+    - Particle Kid
   influenced: []
   mentors:
-  - Elizabeth Cotten
-  - H.R. (Bad Brains)
-  - Robert Johnson
+    - Elizabeth Cotten
+    - H.R. (Bad Brains)
+    - Robert Johnson
 spotify_data:
   followers: 30046
   id: 01GKiTphQwz4guZQntMha8
   popularity: 32
-  url: https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8
+  url: 'https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8'
 discography_enriched: true
 top_tracks:
-- Lucid Lucy (Simple Syrup)
-- Ghosts (Armageddon In A Summer Dress)
-- No Reason (Anarchist Gospel)
-- Whole (Anarchist Gospel)
-- Cry Baby (Cry Baby (feat. Valerie June))
-- One Way Train (Armageddon In A Summer Dress)
-- Walking Contradiction - feat. Steve Ignorant (Armageddon In A Summer Dress)
-- Cry Baby - feat. Valerie June (Armageddon In A Summer Dress)
-- No One Calls Me Baby (Armageddon In A Summer Dress)
-- Bad Times (Armageddon In A Summer Dress)
+  - Lucid Lucy (Simple Syrup)
+  - Ghosts (Armageddon In A Summer Dress)
+  - No Reason (Anarchist Gospel)
+  - Whole (Anarchist Gospel)
+  - Cry Baby (Cry Baby (feat. Valerie June))
+  - One Way Train (Armageddon In A Summer Dress)
+  - Walking Contradiction - feat. Steve Ignorant (Armageddon In A Summer Dress)
+  - Cry Baby - feat. Valerie June (Armageddon In A Summer Dress)
+  - No One Calls Me Baby (Armageddon In A Summer Dress)
+  - Bad Times (Armageddon In A Summer Dress)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/db8451ab-9f03-4668-87c7-1dbb66aa1e6b
-  spotify: https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8
-  wikipedia: https://en.wikipedia.org/wiki/Sunny_War
+  musicbrainz: 'https://musicbrainz.org/artist/db8451ab-9f03-4668-87c7-1dbb66aa1e6b'
+  spotify: 'https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sunny_War'
 image_path: 03_Resources/source_material/ArtistPortraits/sunny_war.jpg
 biography_enhanced_at: '2025-11-03T07:42:54.229181'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia
-- Playing For Change
-- Document Journal
+  - Wikipedia
+  - Playing For Change
+  - Document Journal
 network_extracted: true
 entry_created: '2025-11-03T07:42:54.229190'
 last_updated: '2025-12-23T08:16:16.236213'
 gender: Female
 musicbrainz_id: db8451ab-9f03-4668-87c7-1dbb66aa1e6b
 tags:
-- folk pop
-- folk punk
-- folk rock
+  - folk pop
+  - folk punk
+  - folk rock
+origin: 'Venice Beach, California, United States'
 ---
 
 ![](sunny_war.jpg)

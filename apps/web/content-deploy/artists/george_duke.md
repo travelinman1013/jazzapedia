@@ -1,57 +1,59 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-13T01:16:05.178259'
-birth_place: San Francisco, California, United States
+birth_place: 'San Francisco, California, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-13T01:16:05.178265'
 external_urls:
-  spotify: https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl
-  wikipedia: https://en.wikipedia.org/wiki/George_Duke
+  spotify: 'https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl'
+  wikipedia: 'https://en.wikipedia.org/wiki/George_Duke'
 genres:
-- jazz funk
-- jazz fusion
-- smooth jazz
-- funk
+  - jazz funk
+  - jazz fusion
+  - smooth jazz
+  - funk
 image_path: 03_Resources/source_material/ArtistPortraits/george_duke.jpg
 last_updated: '2026-01-13T01:16:05.178266'
 musical_connections:
   collaborators:
-  - Frank Zappa
-  - Jean-Luc Ponty
-  - Cannonball Adderley
-  - Billy Cobham
-  - Stanley Clarke
-  - Al Jarreau
-  - Dianne Reeves
-  - A Taste of Honey
-  - Jeffrey Osborne
-  - Deniece Williams
+    - Frank Zappa
+    - Jean-Luc Ponty
+    - Cannonball Adderley
+    - Billy Cobham
+    - Stanley Clarke
+    - Al Jarreau
+    - Dianne Reeves
+    - A Taste of Honey
+    - Jeffrey Osborne
+    - Deniece Williams
   influenced:
-  - Dianne Reeves
-  - Rachelle Ferrell
+    - Dianne Reeves
+    - Rachelle Ferrell
   mentors:
-  - Duke Ellington
-  - Miles Davis
-  - Les McCann
-  - Cal Tjader
+    - Duke Ellington
+    - Miles Davis
+    - Les McCann
+    - Cal Tjader
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.georgedukemusic.com/bio
-- https://en.wikipedia.org/wiki/George_Duke
-- https://www.thehistorymakers.org/biography/george-duke-41
-- https://concord.com/artist/george-duke/
-- https://www.namm.org/library/oral-history/george-duke
-- https://jazztimes.com/features/tributes-and-obituaries/in-memory-of-george-duke/
-- https://blackpast.org/african-american-history/duke-george-1946-2013/
-- http://thejazzvnu.com/george-duke-instrumental-smooth-jazz/
+  - 'https://www.georgedukemusic.com/bio'
+  - 'https://en.wikipedia.org/wiki/George_Duke'
+  - 'https://www.thehistorymakers.org/biography/george-duke-41'
+  - 'https://concord.com/artist/george-duke/'
+  - 'https://www.namm.org/library/oral-history/george-duke'
+  - >-
+    https://jazztimes.com/features/tributes-and-obituaries/in-memory-of-george-duke/
+  - 'https://blackpast.org/african-american-history/duke-george-1946-2013/'
+  - 'http://thejazzvnu.com/george-duke-instrumental-smooth-jazz/'
 spotify_data:
   followers: 210032
   id: 3EB0uKE2lGw6BB1UFJrONl
   popularity: 49
-  url: https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl
+  url: 'https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl'
 status: active
 title: George Duke
+birth_date: '1946-01-12'
 ---
 
 ![](george_duke.jpg)

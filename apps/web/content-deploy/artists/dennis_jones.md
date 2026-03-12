@@ -1,45 +1,48 @@
 ---
 biography_enhanced_at: '2026-01-22T07:14:39.277713'
-birth_place: Monkton, Maryland, United States
+birth_place: 'Monkton, Maryland, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:14:39.277720'
 external_urls:
-  spotify: https://open.spotify.com/artist/5R9JVPbmqPkb1VENlbdeHy
-  wikipedia: https://en.wikipedia.org/wiki/Dennis_Jones_(musician)
+  spotify: 'https://open.spotify.com/artist/5R9JVPbmqPkb1VENlbdeHy'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dennis_Jones_(musician)'
 genres:
-- blues rock
-- modern blues
-- blues
+  - blues rock
+  - modern blues
+  - blues
 image_path: 03_Resources/source_material/ArtistPortraits/dennis_jones.jpg
 last_updated: '2026-01-22T07:14:39.277721'
 musical_connections:
   collaborators:
-  - Zac Harmon
-  - Cornelius Mims
-  - Brian O'Neal and the BusBoys
+    - Zac Harmon
+    - Cornelius Mims
+    - Brian O'Neal and the BusBoys
   influenced: []
   mentors:
-  - B.B. King
-  - Bobby Bland
+    - B.B. King
+    - Bobby Bland
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://kids.kiddle.co/Dennis_Jones_(musician)
-- https://dennisjonescentral.com/bio
-- https://en.wikipedia.org/wiki/Dennis_Jones_(musician)
-- https://dennisjonescentral.com/about-time
-- https://www.old.barikada.com/rock_biografije/2007-02-08_dennis_jones_band.php
-- https://blues.gr/profiles/blogs/an-interview-with-dennis-jones-a-hurricane-that-changing-the
-- https://dennisjonescentral.com/my-story/blog/my-story
-- https://dennisjonescentral.com/my-story
-- https://thecoachhouse.com/concert-schedule/12063525/dennis-jones-band/
+  - 'https://kids.kiddle.co/Dennis_Jones_(musician)'
+  - 'https://dennisjonescentral.com/bio'
+  - 'https://en.wikipedia.org/wiki/Dennis_Jones_(musician)'
+  - 'https://dennisjonescentral.com/about-time'
+  - >-
+    https://www.old.barikada.com/rock_biografije/2007-02-08_dennis_jones_band.php
+  - >-
+    https://blues.gr/profiles/blogs/an-interview-with-dennis-jones-a-hurricane-that-changing-the
+  - 'https://dennisjonescentral.com/my-story/blog/my-story'
+  - 'https://dennisjonescentral.com/my-story'
+  - 'https://thecoachhouse.com/concert-schedule/12063525/dennis-jones-band/'
 spotify_data:
   followers: 1449
   id: 5R9JVPbmqPkb1VENlbdeHy
   popularity: 12
-  url: https://open.spotify.com/artist/5R9JVPbmqPkb1VENlbdeHy
+  url: 'https://open.spotify.com/artist/5R9JVPbmqPkb1VENlbdeHy'
 status: active
 title: Dennis Jones
+artist_type: person
 ---
 
 ![](dennis_jones.jpg)

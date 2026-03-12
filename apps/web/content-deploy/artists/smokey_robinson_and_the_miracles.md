@@ -4,11 +4,12 @@ wiki_slug: smokey-robinson-the-miracles
 schema_version: 2
 status: active
 genres:
-- motown
-- northern soul
-- soul
+  - motown
+  - northern soul
+  - soul
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/smokey_robinson_and_the_miracles.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/smokey_robinson_and_the_miracles.jpg
   caption: Smokey Robinson & The Miracles
   background: solo_singer
 audio_profile:
@@ -26,56 +27,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Berry Gordy Jr.
-  - Ronnie White
-  - Warren “Pete” Moore
-  - Bobby Rogers
-  - Claudette Rogers Robinson
-  - Marv Tarplin
-  - Motown Records staff (e.g., Motown house band and staff writers)
+    - Berry Gordy Jr.
+    - Ronnie White
+    - Warren “Pete” Moore
+    - Bobby Rogers
+    - Claudette Rogers Robinson
+    - Marv Tarplin
+    - 'Motown Records staff (e.g., Motown house band and staff writers)'
   influenced:
-  - The Beatles
-  - The Supremes
-  - Later soul and pop vocal groups (e.g., Motown and R&B ensembles)
-  - Rock and R&B artists broadly
+    - The Beatles
+    - The Supremes
+    - 'Later soul and pop vocal groups (e.g., Motown and R&B ensembles)'
+    - Rock and R&B artists broadly
   mentors:
-  - Berry Gordy Jr.
+    - Berry Gordy Jr.
 spotify_data:
   followers: 1272553
   id: 6TKOZZDd5uV5KnyC5G4MUt
   popularity: 57
-  url: https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt
+  url: 'https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt'
 discography_enriched: true
 top_tracks:
-- Ooo Baby Baby (Going To A Go-Go)
-- The Tracks Of My Tears (Going To A Go-Go)
-- I Second That Emotion
-- The Tears Of A Clown (Make It Happen)
-- You've Really Got A Hold On Me - Alternate Stereo Mix
-- Much Better Off (Special Occasion)
-- You've Really Got A Hold On Me
-- The Tracks Of My Tears
-- Going To A Go-Go (Going To A Go-Go)
-- Baby, Baby Don't Cry - Stereo (Time Out For Smokey Robinson & The Miracles)
+  - Ooo Baby Baby (Going To A Go-Go)
+  - The Tracks Of My Tears (Going To A Go-Go)
+  - I Second That Emotion
+  - The Tears Of A Clown (Make It Happen)
+  - You've Really Got A Hold On Me - Alternate Stereo Mix
+  - Much Better Off (Special Occasion)
+  - You've Really Got A Hold On Me
+  - The Tracks Of My Tears
+  - Going To A Go-Go (Going To A Go-Go)
+  - 'Baby, Baby Don''t Cry - Stereo (Time Out For Smokey Robinson & The Miracles)'
 external_urls:
-  spotify: https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt
-  wikipedia: https://en.wikipedia.org/wiki/The_Miracles
-image_path: 03_Resources/source_material/ArtistPortraits/smokey_robinson_and_the_miracles.jpg
+  spotify: 'https://open.spotify.com/artist/6TKOZZDd5uV5KnyC5G4MUt'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Miracles'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/smokey_robinson_and_the_miracles.jpg
 biography_enhanced_at: '2025-12-08T04:01:41.218294'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Miracles
-- https://en.wikipedia.org/wiki/Smokey_Robinson
-- https://www.edsullivan.com/artists/smokey-robinson-and-the-miracles/
-- https://www.biography.com/musicians/smokey-robinson
-- https://www.history-of-rock.com/miracles.htm
-- https://wers.org/the-vault-of-soul-smokey-robinson/
+  - 'https://en.wikipedia.org/wiki/The_Miracles'
+  - 'https://en.wikipedia.org/wiki/Smokey_Robinson'
+  - 'https://www.edsullivan.com/artists/smokey-robinson-and-the-miracles/'
+  - 'https://www.biography.com/musicians/smokey-robinson'
+  - 'https://www.history-of-rock.com/miracles.htm'
+  - 'https://wers.org/the-vault-of-soul-smokey-robinson/'
 network_extracted: true
 entry_created: '2025-12-08T04:01:41.218301'
 last_updated: '2025-12-23T08:16:15.804554'
-origin: Detroit, Michigan, United States
-
+origin: 'Detroit, Michigan, United States'
+artist_type: band
 ---
 
 ![](smokey_robinson_and_the_miracles.jpg)

@@ -4,8 +4,8 @@ wiki_slug: sergio-alcantara
 schema_version: 2
 status: active
 genres:
-- fado
-- seresta
+  - fado
+  - seresta
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sergio_alcantara.jpg
   caption: Sergio Alcantara
@@ -25,43 +25,44 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Agostinho Silva
-  - Bival Faria
-  - Gilberto Nascimento
-  - Fraga
+    - Agostinho Silva
+    - Bival Faria
+    - Gilberto Nascimento
+    - Fraga
   influenced: []
   mentors: []
 spotify_data:
   followers: 153
   id: 0uZZgvrRxLfLKbTrWM1foj
   popularity: 15
-  url: https://open.spotify.com/artist/0uZZgvrRxLfLKbTrWM1foj
+  url: 'https://open.spotify.com/artist/0uZZgvrRxLfLKbTrWM1foj'
 discography_enriched: true
 top_tracks:
-- Manhã de Carnaval - Instrumental (A Bossa do Violão (Instrumental))
-- Bate o Sino (Natal Com Cavaquinho)
-- Águas de Março - Instrumental (A Bossa do Violão (Instrumental))
-- Wave - Instrumental (A Bossa do Violão (Instrumental))
-- 'Que queres tu de mim - Oferenda (Guimaraes: Seresta e CIA)'
-- 'O Ebrio (Guimaraes: Seresta e CIA)'
-- Ave Maria (Natal Com Cavaquinho)
-- Eu sei que vou te amar - Instrumental (A Bossa do Violão (Instrumental))
-- Desafinado - Instrumental (A Bossa do Violão (Instrumental))
-- Águas de Março - Instrumental (A Bossa do Violão (Instrumental))
+  - Manhã de Carnaval - Instrumental (A Bossa do Violão (Instrumental))
+  - Bate o Sino (Natal Com Cavaquinho)
+  - Águas de Março - Instrumental (A Bossa do Violão (Instrumental))
+  - Wave - Instrumental (A Bossa do Violão (Instrumental))
+  - 'Que queres tu de mim - Oferenda (Guimaraes: Seresta e CIA)'
+  - 'O Ebrio (Guimaraes: Seresta e CIA)'
+  - Ave Maria (Natal Com Cavaquinho)
+  - Eu sei que vou te amar - Instrumental (A Bossa do Violão (Instrumental))
+  - Desafinado - Instrumental (A Bossa do Violão (Instrumental))
+  - Águas de Março - Instrumental (A Bossa do Violão (Instrumental))
 external_urls:
-  spotify: https://open.spotify.com/artist/0uZZgvrRxLfLKbTrWM1foj
+  spotify: 'https://open.spotify.com/artist/0uZZgvrRxLfLKbTrWM1foj'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/sergio_alcantara.jpg
 biography_enhanced_at: '2025-12-21T01:25:23.498033'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.prestomusic.com/classical/labels/487/browse[6]
-- https://www.immsociety.com[1]
-- http://www.susanpalmanidel.com/projects[2]
+  - 'https://www.prestomusic.com/classical/labels/487/browse[6]'
+  - 'https://www.immsociety.com[1]'
+  - 'http://www.susanpalmanidel.com/projects[2]'
 network_extracted: true
 entry_created: '2025-12-21T01:25:23.498038'
 last_updated: '2025-12-23T08:16:15.498242'
+artist_type: person
 ---
 
 ![](sergio_alcantara.jpg)

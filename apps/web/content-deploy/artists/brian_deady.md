@@ -3,21 +3,21 @@ title: Brian Deady
 wiki_slug: brian-deady
 schema_version: 2
 status: active
-birth_place: Skibbereen, County Cork, Ireland
+birth_place: 'Skibbereen, County Cork, Ireland'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/brian_deady.jpg
   caption: Brian Deady
   background: solo_singer
-  origin: Skibbereen, County Cork, Ireland
+  origin: 'Skibbereen, County Cork, Ireland'
 audio_profile:
-  tempo_avg: 117.0
+  tempo_avg: 117
   energy_avg: 0.411
   valence_avg: 0.553
   danceability_avg: 0.731
   acousticness_avg: 0.463
   instrumentalness_avg: 0.021
-  loudness_avg: -11.0
+  loudness_avg: -11
   speechiness_avg: 0.06
   liveness_avg: 0.112
   track_count: 50
@@ -25,44 +25,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Deady's touring band
+    - Deady's touring band
   influenced:
-  - No specific artists documented
+    - No specific artists documented
   mentors:
-  - Nile Rodgers
+    - Nile Rodgers
 spotify_data:
   followers: 6778
   id: 4CMT1do3m86rMAlPUmvGbG
   popularity: 16
-  url: https://open.spotify.com/artist/4CMT1do3m86rMAlPUmvGbG
+  url: 'https://open.spotify.com/artist/4CMT1do3m86rMAlPUmvGbG'
 discography_enriched: true
 top_tracks:
-- Get on My Knees (Non-Fiction)
-- Get on My Knees (Get on My Knees)
-- Clap Both My Hands (Non-Fiction)
-- Eloise (Lean Into the Wave) (Eloise (Lean Into the Wave))
-- The 909 (The 909)
-- 9 Cents & 2 Dollars (Black Diamond)
-- Rodeo (Rodeo)
-- Dancing in the Moonlight (Voices (The Acapella Vaults))
-- September (Non-Fiction)
-- Down in the Disco (Down in the Disco)
+  - Get on My Knees (Non-Fiction)
+  - Get on My Knees (Get on My Knees)
+  - Clap Both My Hands (Non-Fiction)
+  - Eloise (Lean Into the Wave) (Eloise (Lean Into the Wave))
+  - The 909 (The 909)
+  - 9 Cents & 2 Dollars (Black Diamond)
+  - Rodeo (Rodeo)
+  - Dancing in the Moonlight (Voices (The Acapella Vaults))
+  - September (Non-Fiction)
+  - Down in the Disco (Down in the Disco)
 external_urls:
-  spotify: https://open.spotify.com/artist/4CMT1do3m86rMAlPUmvGbG
+  spotify: 'https://open.spotify.com/artist/4CMT1do3m86rMAlPUmvGbG'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/brian_deady.jpg
 biography_enhanced_at: '2025-11-10T03:42:14.299416'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.irishexaminer.com/lifestyle/arid-30993813.html
-- https://www.irishtimes.com/culture/music/brian-deady-my-job-is-not-to-be-famous-it-s-to-make-stuff-1.4217990
-- https://www.hotpress.com/music/deady-does-it-an-interview-with-brian-deady-19179270
-- https://www.limerickpost.ie/2018/03/15/live-show-and-new-music-from-brian-deady/
-- https://www.viberate.com/artist/brian-deady/
+  - 'https://www.irishexaminer.com/lifestyle/arid-30993813.html'
+  - >-
+    https://www.irishtimes.com/culture/music/brian-deady-my-job-is-not-to-be-famous-it-s-to-make-stuff-1.4217990
+  - >-
+    https://www.hotpress.com/music/deady-does-it-an-interview-with-brian-deady-19179270
+  - >-
+    https://www.limerickpost.ie/2018/03/15/live-show-and-new-music-from-brian-deady/
+  - 'https://www.viberate.com/artist/brian-deady/'
 network_extracted: true
 entry_created: '2025-11-10T03:42:14.299433'
 last_updated: '2025-12-23T08:16:06.083808'
+artist_type: person
 ---
 
 ![](brian_deady.jpg)

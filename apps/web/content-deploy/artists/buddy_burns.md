@@ -1,17 +1,17 @@
 ---
-title: BUDDY BURNS
+title: Buddy Burns
 wiki_slug: buddy-burns
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, USA'
 genres:
-- ragtime
-- french jazz
+  - ragtime
+  - french jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/buddy_burns.jpg
   caption: BUDDY BURNS
   background: solo_singer
-  origin: New Orleans, Louisiana, USA
+  origin: 'New Orleans, Louisiana, USA'
 audio_profile:
   tempo_avg: 128.7
   energy_avg: 0.43
@@ -27,43 +27,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Charlie Galloway
-  - Various unnamed bandmates
+    - Charlie Galloway
+    - Various unnamed bandmates
   influenced: []
   mentors:
-  - Manuel Hall
-  - Charlie Galloway
+    - Manuel Hall
+    - Charlie Galloway
 spotify_data:
   followers: 9
   id: 0dMvXZ2cVU1IpSdPwVP2Ni
   popularity: 0
-  url: https://open.spotify.com/artist/0dMvXZ2cVU1IpSdPwVP2Ni
+  url: 'https://open.spotify.com/artist/0dMvXZ2cVU1IpSdPwVP2Ni'
 discography_enriched: true
 top_tracks:
-- Indiana (French Quarter Jazz)
-- Alice Blue Gown (French Quarter Jazz)
-- Lou-Easy-an-I-A (French Quarter Jazz)
-- You Tell Me Your Dream (French Quarter Jazz)
-- Honeysuckle Rose (French Quarter Jazz)
-- Bourbon St. Parade (French Quarter Jazz)
-- Basin St. Blues (French Quarter Jazz)
-- Who's Sorry Now? (French Quarter Jazz)
-- Poor Butterfly (French Quarter Jazz)
-- Back Home in Indiana (French Quarter Jazz)
+  - Indiana (French Quarter Jazz)
+  - Alice Blue Gown (French Quarter Jazz)
+  - Lou-Easy-an-I-A (French Quarter Jazz)
+  - You Tell Me Your Dream (French Quarter Jazz)
+  - Honeysuckle Rose (French Quarter Jazz)
+  - Bourbon St. Parade (French Quarter Jazz)
+  - Basin St. Blues (French Quarter Jazz)
+  - Who's Sorry Now? (French Quarter Jazz)
+  - Poor Butterfly (French Quarter Jazz)
+  - Back Home in Indiana (French Quarter Jazz)
 external_urls:
-  spotify: https://open.spotify.com/artist/0dMvXZ2cVU1IpSdPwVP2Ni
+  spotify: 'https://open.spotify.com/artist/0dMvXZ2cVU1IpSdPwVP2Ni'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/buddy_burns.jpg
 biography_enhanced_at: '2025-12-20T01:12:46.544651'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- 'https://www.youtube.com/watch?v=_V0ZlsgKGZ4 (SYMHC Classics: Buddy Bolden and the Birth of Jazz)'
-- https://www.iheart.com/podcast/105-stuff-you-missed-in-histor-21124503/episode/buddy-bolden-and-the-birth-of-30321706/ (Stuff
-  You Missed in History Class podcast)
+  - >-
+    https://www.youtube.com/watch?v=_V0ZlsgKGZ4 (SYMHC Classics: Buddy Bolden
+    and the Birth of Jazz)
+  - >-
+    https://www.iheart.com/podcast/105-stuff-you-missed-in-histor-21124503/episode/buddy-bolden-and-the-birth-of-30321706/
+    (Stuff You Missed in History Class podcast)
 network_extracted: true
 entry_created: '2025-12-20T01:12:46.544658'
 last_updated: '2025-12-23T08:16:06.199657'
+birth_date: '1877-09-06'
+death_date: '1931-11-04'
+artist_type: person
 ---
 
 ![](buddy_burns.jpg)

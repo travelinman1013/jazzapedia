@@ -5,16 +5,16 @@ schema_version: 2
 status: active
 aliases: []
 birth_date: '1969-01-22'
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'Detroit, Michigan, United States'
 genres: []
 occupation:
-- serial killer
+  - serial killer
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Detroit_Brooks.jpg
   caption: Detroit Brooks
   background: solo_singer
   born: '1969-01-22'
-  origin: New Orleans, Louisiana, USA
+  origin: 'New Orleans, Louisiana, USA'
 audio_profile:
   tempo_avg: 144.5
   energy_avg: 0.429
@@ -30,46 +30,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Juanita Brooks
-  - Mark Brooks
-  - Ed Perkins
-  - Charmaine Neville Band
+    - Juanita Brooks
+    - Mark Brooks
+    - Ed Perkins
+    - Charmaine Neville Band
   influenced:
-  - Younger New Orleans jazz and banjo musicians
+    - Younger New Orleans jazz and banjo musicians
   mentors:
-  - Danny Barker
+    - Danny Barker
 related_artists: []
 spotify_data:
   followers: 27
   id: 1LWgwYbFlJPme7Px93Si4c
   popularity: 0
-  url: https://open.spotify.com/artist/1LWgwYbFlJPme7Px93Si4c
+  url: 'https://open.spotify.com/artist/1LWgwYbFlJPme7Px93Si4c'
   verified: false
 discography_enriched: true
 albums_count: 0
 singles_count: 1
 top_tracks:
-- Let Us Have a Very Merry Christmas This Year (Only At Christmas Time)
-- Only At Christmas Time (Only At Christmas Time)
+  - Let Us Have a Very Merry Christmas This Year (Only At Christmas Time)
+  - Only At Christmas Time (Only At Christmas Time)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/1LWgwYbFlJPme7Px93Si4c
-  wikipedia: https://en.wikipedia.org/wiki/Shelly_Brooks
+  spotify: 'https://open.spotify.com/artist/1LWgwYbFlJPme7Px93Si4c'
+  wikipedia: 'https://en.wikipedia.org/wiki/Shelly_Brooks'
 image_path: 03_Resources/source_material/ArtistPortraits/Detroit_Brooks.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:18:37.318915'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.offbeat.com/articles/my-music-with-detroit-brooks/
-- https://bigeasymagazine.com/2022/03/15/walking-talking-history-with-detroit-brooks/
-- https://www.neworleans.com/listing/detroit-brooks/47482/
-- https://www.deeringbanjos.com/blogs/deering-live/detroit-brooks-deering-live
-- https://charmainenevilleband.com/detroitbrooks.html
+  - 'https://www.offbeat.com/articles/my-music-with-detroit-brooks/'
+  - >-
+    https://bigeasymagazine.com/2022/03/15/walking-talking-history-with-detroit-brooks/
+  - 'https://www.neworleans.com/listing/detroit-brooks/47482/'
+  - 'https://www.deeringbanjos.com/blogs/deering-live/detroit-brooks-deering-live'
+  - 'https://charmainenevilleband.com/detroitbrooks.html'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 12:57:22.245425
+entry_created: 2025-09-18T12:57:22.245Z
 last_updated: '2025-12-23T08:16:01.724557'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](Detroit_Brooks.jpg)

@@ -1,16 +1,16 @@
 ---
-title: sly williams
+title: Sly Williams
 wiki_slug: sly-williams
 schema_version: 2
 status: active
-birth_place: Shamrock, Natchitoches Parish, Louisiana, United States
+birth_place: 'Shamrock, Natchitoches Parish, Louisiana, United States'
 genres:
-- blues
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sly_williams.jpg
   caption: sly williams
   background: solo_singer
-  origin: Shamrock, Natchitoches Parish, Louisiana, United States
+  origin: 'Shamrock, Natchitoches Parish, Louisiana, United States'
 audio_profile:
   tempo_avg: 116.3
   energy_avg: 0.743
@@ -26,46 +26,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ernest Johns
-  - Roy 'Happy' Easter
-  - Johnny Otis Orchestra
+    - Ernest Johns
+    - Roy 'Happy' Easter
+    - Johnny Otis Orchestra
   influenced:
-  - Johnny Winter
-  - Jimmie Vaughan
+    - Johnny Winter
+    - Jimmie Vaughan
   mentors:
-  - Johnny Otis
+    - Johnny Otis
 spotify_data:
   followers: 84
   id: 6tluK1ncwy0PWI722W7dc2
   popularity: 0
-  url: https://open.spotify.com/artist/6tluK1ncwy0PWI722W7dc2
+  url: 'https://open.spotify.com/artist/6tluK1ncwy0PWI722W7dc2'
 discography_enriched: true
 top_tracks:
-- I Believe In A Woman (Super Rare Electric Blues '60s Era)
-- Boot Hill (Super Rare Electric Blues '60s Era)
-- IJA JO (IJA JO)
-- Calabar (Calabar)
-- Oluwa Dey (Oluwa Dey)
-- Hear My Heart (Hear My Heart)
-- Boot Hill (Blues Guitar Blasters, Vol. 1)
-- I Believe in a Woman (Blues Guitar Blasters, Vol. 1)
-- Hear My Heart (Hear My Heart - Single)
-- I Believe in a Woman (Blues In D Natural)
+  - I Believe In A Woman (Super Rare Electric Blues '60s Era)
+  - Boot Hill (Super Rare Electric Blues '60s Era)
+  - IJA JO (IJA JO)
+  - Calabar (Calabar)
+  - Oluwa Dey (Oluwa Dey)
+  - Hear My Heart (Hear My Heart)
+  - 'Boot Hill (Blues Guitar Blasters, Vol. 1)'
+  - 'I Believe in a Woman (Blues Guitar Blasters, Vol. 1)'
+  - Hear My Heart (Hear My Heart - Single)
+  - I Believe in a Woman (Blues In D Natural)
 external_urls:
-  spotify: https://open.spotify.com/artist/6tluK1ncwy0PWI722W7dc2
-  wikipedia: https://en.wikipedia.org/wiki/Cleo_Page
+  spotify: 'https://open.spotify.com/artist/6tluK1ncwy0PWI722W7dc2'
+  wikipedia: 'https://en.wikipedia.org/wiki/Cleo_Page'
 image_path: 03_Resources/source_material/ArtistPortraits/sly_williams.jpg
 biography_enhanced_at: '2025-10-20T10:19:35.732547'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Cleo_Page
-- https://digital.livingblues.com/articles/lost-blues-files-the-mysterious-world-of-cleo-page
-- https://www.wirz.de/music/pagecleo.htm
-- https://jasobrecht.substack.com/p/the-wildest-blues-guitar-1958-1960
+  - 'https://en.wikipedia.org/wiki/Cleo_Page'
+  - >-
+    https://digital.livingblues.com/articles/lost-blues-files-the-mysterious-world-of-cleo-page
+  - 'https://www.wirz.de/music/pagecleo.htm'
+  - 'https://jasobrecht.substack.com/p/the-wildest-blues-guitar-1958-1960'
 network_extracted: true
 entry_created: '2025-10-20T10:19:35.732556'
 last_updated: '2025-12-23T08:16:15.763909'
+birth_date: '1928'
+artist_type: person
 ---
 
 ![](sly_williams.jpg)

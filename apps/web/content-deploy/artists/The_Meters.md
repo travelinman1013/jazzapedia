@@ -1,12 +1,12 @@
 ---
-title: THE METERS
+title: The Meters
 wiki_slug: the-meters
 schema_version: 2
 status: active
 genres:
-- funk
-- soul
-- jazz funk
+  - funk
+  - soul
+  - jazz funk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/THE_METERS.jpg
   caption: THE METERS
@@ -26,50 +26,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lee Dorsey
-  - Dr. John
-  - Paul McCartney
-  - Robert Palmer
-  - Labelle
-  - The Rolling Stones
-  - The Wild Tchoupitoulas
+    - Lee Dorsey
+    - Dr. John
+    - Paul McCartney
+    - Robert Palmer
+    - Labelle
+    - The Rolling Stones
+    - The Wild Tchoupitoulas
   influenced: []
   mentors:
-  - Allen Toussaint
-  - Professor Longhair
+    - Allen Toussaint
+    - Professor Longhair
 spotify_data:
   followers: 298435
   id: 2JRvXPGWiINrnJljNJhG5s
   popularity: 48
-  url: https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s
+  url: 'https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s'
 discography_enriched: true
 top_tracks:
-- Cissy Strut (The Meters)
-- Just Kissed My Baby (Rejuvenation)
-- 'Cissy Strut (Funkify Your Life: The Meters Anthology)'
-- Hey Pocky A-Way - 2002 Remaster (Rejuvenation)
-- Fire on the Bayou (Fire on the Bayou)
-- Hand Clapping Song (Struttin')
-- Stormy (The Meters)
-- People Say (Rejuvenation)
-- It Ain't No Use (Rejuvenation)
-- They All Ask'd for You (Fire on the Bayou)
+  - Cissy Strut (The Meters)
+  - Just Kissed My Baby (Rejuvenation)
+  - 'Cissy Strut (Funkify Your Life: The Meters Anthology)'
+  - Hey Pocky A-Way - 2002 Remaster (Rejuvenation)
+  - Fire on the Bayou (Fire on the Bayou)
+  - Hand Clapping Song (Struttin')
+  - Stormy (The Meters)
+  - People Say (Rejuvenation)
+  - It Ain't No Use (Rejuvenation)
+  - They All Ask'd for You (Fire on the Bayou)
 external_urls:
-  spotify: https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s
-  wikipedia: https://en.wikipedia.org/wiki/The_Meters
+  spotify: 'https://open.spotify.com/artist/2JRvXPGWiINrnJljNJhG5s'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Meters'
 image_path: 03_Resources/source_material/ArtistPortraits/THE_METERS.jpg
 biography_enhanced_at: '2025-10-21T06:59:49.958138'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Meters
-- https://www.last.fm/music/The+Meters/+wiki
-- https://musicrising.tulane.edu/discover/people/the-meters/
-- https://veritenews.org/2025/02/10/the-meters-new-orleans-funk-art-neville/
+  - 'https://en.wikipedia.org/wiki/The_Meters'
+  - 'https://www.last.fm/music/The+Meters/+wiki'
+  - 'https://musicrising.tulane.edu/discover/people/the-meters/'
+  - 'https://veritenews.org/2025/02/10/the-meters-new-orleans-funk-art-neville/'
 network_extracted: true
 entry_created: '2025-10-21T06:59:49.958153'
 last_updated: '2025-12-23T08:16:04.103265'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![](THE_METERS.jpg)

@@ -1,23 +1,23 @@
 ---
-title: IRIS DEMENT
+title: Iris Dement
 wiki_slug: iris-dement
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1961-01-05'
-birth_place: Paragould
+birth_place: 'Paragould, Arkansas, United States'
 genres:
-- americana
-- folk
-- alt country
-- singer-songwriter
+  - americana
+  - folk
+  - alt country
+  - singer-songwriter
 instruments:
-- guitar
-- acoustic guitar
-- piano
-- vocal
-- lead vocals
-- background vocals
+  - guitar
+  - acoustic guitar
+  - piano
+  - vocal
+  - lead vocals
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/iris_dement.jpg
   caption: IRIS DEMENT
@@ -39,57 +39,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John Prine
-  - Emmylou Harris
-  - Steve Earle
-  - Nanci Griffith
-  - Randy Scruggs
-  - The Nitty Gritty Dirt Band
+    - John Prine
+    - Emmylou Harris
+    - Steve Earle
+    - Nanci Griffith
+    - Randy Scruggs
+    - The Nitty Gritty Dirt Band
   influenced:
-  - Brandi Carlile
-  - Anaïs Mitchell
+    - Brandi Carlile
+    - Anaïs Mitchell
   mentors:
-  - Flora Mae DeMent
-  - Jim Rooney
+    - Flora Mae DeMent
+    - Jim Rooney
 spotify_data:
   followers: 97165
   id: 3NPZs8XgXtaWslUcnIw6rY
   popularity: 46
-  url: https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY
+  url: 'https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY'
 discography_enriched: true
 top_tracks:
-- In Spite of Ourselves (In Spite Of Ourselves)
-- Our Town (Infamous Angel)
-- Let the Mystery Be (Infamous Angel)
-- When My Mornin' Comes Around (The Way I Should)
-- Sweet Is the Melody (My Life)
-- Who's Gonna Take the Garbage Out (For Better, Or Worse)
-- Wasteland of the Free (The Way I Should)
-- 'Let the Mystery Be (Transatlantic Sessions - Series 1: Volume One)'
-- My Life (My Life)
-- Hotter Than Mojave in My Heart (Infamous Angel)
+  - In Spite of Ourselves (In Spite Of Ourselves)
+  - Our Town (Infamous Angel)
+  - Let the Mystery Be (Infamous Angel)
+  - When My Mornin' Comes Around (The Way I Should)
+  - Sweet Is the Melody (My Life)
+  - 'Who''s Gonna Take the Garbage Out (For Better, Or Worse)'
+  - Wasteland of the Free (The Way I Should)
+  - 'Let the Mystery Be (Transatlantic Sessions - Series 1: Volume One)'
+  - My Life (My Life)
+  - Hotter Than Mojave in My Heart (Infamous Angel)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e06aa44d-4c98-40c6-bf1d-d54637fa0bde
-  spotify: https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY
-  wikipedia: https://en.wikipedia.org/wiki/Iris_DeMent
+  musicbrainz: 'https://musicbrainz.org/artist/e06aa44d-4c98-40c6-bf1d-d54637fa0bde'
+  spotify: 'https://open.spotify.com/artist/3NPZs8XgXtaWslUcnIw6rY'
+  wikipedia: 'https://en.wikipedia.org/wiki/Iris_DeMent'
 image_path: 03_Resources/source_material/ArtistPortraits/iris_dement.jpg
 biography_enhanced_at: '2025-11-03T07:38:46.971449'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://encyclopediaofarkansas.net/entries/iris-dement-2968/
-- https://www.visitstaugustine.com/musician/iris-dement
-- https://irisdement.com/about
-- https://www.stlpr.org/2012-10-02/iris-dement-on-world-cafe
-- https://theshedd.org/divp/series.aspx?artist=4492&series=218&event=221
+  - 'https://encyclopediaofarkansas.net/entries/iris-dement-2968/'
+  - 'https://www.visitstaugustine.com/musician/iris-dement'
+  - 'https://irisdement.com/about'
+  - 'https://www.stlpr.org/2012-10-02/iris-dement-on-world-cafe'
+  - 'https://theshedd.org/divp/series.aspx?artist=4492&series=218&event=221'
 network_extracted: true
 entry_created: '2025-11-03T07:38:46.971466'
 last_updated: '2025-12-23T08:16:09.888730'
 gender: Female
 musicbrainz_id: e06aa44d-4c98-40c6-bf1d-d54637fa0bde
 tags:
-- country
-- folk
+  - country
+  - folk
 ---
 
 ![](iris_dement.jpg)

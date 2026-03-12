@@ -3,41 +3,45 @@ biography_enhanced_at: '2025-12-30T01:25:14.327793'
 enhancement_provider: perplexity
 entry_created: '2025-12-30T01:25:14.327800'
 external_urls:
-  spotify: https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH
+  spotify: 'https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH'
   wikipedia: ''
 genres:
-- traditional gospel
+  - traditional gospel
 image_path: 03_Resources/source_material/ArtistPortraits/blind_boys_of_alabama.jpg
 last_updated: '2025-12-30T01:25:14.327800'
 musical_connections:
   collaborators:
-  - Clarence Fountain
-  - George Scott
-  - Jimmy Carter (singer)
-  - Jamey Johnson
-  - Jackson Harmoneers (later Blind Boys of Mississippi)
+    - Clarence Fountain
+    - George Scott
+    - Jimmy Carter (singer)
+    - Jamey Johnson
+    - Jackson Harmoneers (later Blind Boys of Mississippi)
   influenced:
-  - Gospel, R&B, and rock 'n' roll artists
+    - 'Gospel, R&B, and rock ''n'' roll artists'
   mentors:
-  - Golden Gate Quartet
+    - Golden Gate Quartet
 network_extracted: true
-origin: Talladega, Alabama, USA
+origin: 'Talladega, Alabama, USA'
 primary_source: perplexity
 research_sources:
-- https://www.arts.gov/honors/heritage/clarence-fountain-blind-boys[1]
-- https://www.salvationsouth.com/the-last-man-standing-blind-boys-of-alabama-chuck-reece-jimmy-carter/[2]
-- https://www.alamhof.org/blindboysofalabama[3]
-- https://folkworks.org/blog/the-blind-boys-of-alabama-spirit-across-the-ages/[4]
-- https://civicmusic.org/blind-boys-of-alabama-bio/[5]
-- https://www.sfjazz.org/onthecorner/articles/five-things-you-should-know-about-the-blind-boys-of-alabama/[6]
-- https://realworldrecords.com/artists/the-blind-boys-of-alabama/[7]
+  - 'https://www.arts.gov/honors/heritage/clarence-fountain-blind-boys[1]'
+  - >-
+    https://www.salvationsouth.com/the-last-man-standing-blind-boys-of-alabama-chuck-reece-jimmy-carter/[2]
+  - 'https://www.alamhof.org/blindboysofalabama[3]'
+  - >-
+    https://folkworks.org/blog/the-blind-boys-of-alabama-spirit-across-the-ages/[4]
+  - 'https://civicmusic.org/blind-boys-of-alabama-bio/[5]'
+  - >-
+    https://www.sfjazz.org/onthecorner/articles/five-things-you-should-know-about-the-blind-boys-of-alabama/[6]
+  - 'https://realworldrecords.com/artists/the-blind-boys-of-alabama/[7]'
 spotify_data:
   followers: 59849
   id: 5TVL4FXEntBYZb3ujyt6fH
   popularity: 43
-  url: https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH
+  url: 'https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH'
 status: active
-title: BLIND BOYS OF ALABAMA
+title: Blind Boys OF Alabama
+artist_type: band
 ---
 
 ![](blind_boys_of_alabama.jpg)

@@ -3,14 +3,14 @@ title: Bill Doggett and His Combo
 wiki_slug: bill-doggett-and-his-combo
 schema_version: 2
 status: active
-birth_place: Philadelphia, Pennsylvania, United States
+birth_place: 'Philadelphia, Pennsylvania, United States'
 genres:
-- soul jazz
+  - soul jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bill_doggett_and_his_combo.jpg
   caption: Bill Doggett and His Combo
   background: solo_singer
-  origin: Philadelphia, Pennsylvania, United States
+  origin: 'Philadelphia, Pennsylvania, United States'
 audio_profile:
   tempo_avg: 110.9
   energy_avg: 0.535
@@ -26,59 +26,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Ink Spots
-  - Ella Fitzgerald
-  - Billy Butler
-  - Johnny Otis
-  - Wynonie Harris
-  - Louis Jordan
-  - Louis Armstrong
-  - Count Basie
-  - Lionel Hampton
-  - Helen Humes
-  - Willis Jackson
-  - Illinois Jacquet
-  - Eddie 'Lockjaw' Davis
+    - The Ink Spots
+    - Ella Fitzgerald
+    - Billy Butler
+    - Johnny Otis
+    - Wynonie Harris
+    - Louis Jordan
+    - Louis Armstrong
+    - Count Basie
+    - Lionel Hampton
+    - Helen Humes
+    - Willis Jackson
+    - Illinois Jacquet
+    - Eddie 'Lockjaw' Davis
   influenced:
-  - Rock and Roll Musicians
+    - Rock and Roll Musicians
   mentors:
-  - His Mother (Church Pianist)
-  - Lucky Millinder
+    - His Mother (Church Pianist)
+    - Lucky Millinder
 spotify_data:
   followers: 6507
   id: 6xGdsn4r7laoQDz0zbm1nY
   popularity: 26
-  url: https://open.spotify.com/artist/6xGdsn4r7laoQDz0zbm1nY
+  url: 'https://open.spotify.com/artist/6xGdsn4r7laoQDz0zbm1nY'
 discography_enriched: true
 top_tracks:
-- Honky Tonk Pt. 1 (Leaps And Bounds)
-- Honky Tonk Pt 2 (Leaps And Bounds)
-- Ram-Bunk-Shush (Doggett Beat for Dancing Feet)
-- Blip Blop (The EP Collection)
-- 'He May Be Your Man (Jump Blue: Rockin'' The Jukes)'
-- Hold It (The EP Collection)
-- Slow Walk (All His Hits)
-- Ram-Bunk-Shush (All His Hits)
-- Smokie, Pt. 2 (The EP Collection)
-- Honky Tonk, Pt 1. and 2 (Honky Tonking)
+  - Honky Tonk Pt. 1 (Leaps And Bounds)
+  - Honky Tonk Pt 2 (Leaps And Bounds)
+  - Ram-Bunk-Shush (Doggett Beat for Dancing Feet)
+  - Blip Blop (The EP Collection)
+  - 'He May Be Your Man (Jump Blue: Rockin'' The Jukes)'
+  - Hold It (The EP Collection)
+  - Slow Walk (All His Hits)
+  - Ram-Bunk-Shush (All His Hits)
+  - 'Smokie, Pt. 2 (The EP Collection)'
+  - 'Honky Tonk, Pt 1. and 2 (Honky Tonking)'
 external_urls:
-  spotify: https://open.spotify.com/artist/6xGdsn4r7laoQDz0zbm1nY
-  wikipedia: https://en.wikipedia.org/wiki/Bill_Doggett
+  spotify: 'https://open.spotify.com/artist/6xGdsn4r7laoQDz0zbm1nY'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bill_Doggett'
 image_path: 03_Resources/source_material/ArtistPortraits/bill_doggett_and_his_combo.jpg
 biography_enhanced_at: '2025-11-29T06:59:49.222719'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Bill Doggett
-- Vintage Inn - Meet Bill Doggett - The King of 1950s Jazz and R&B Organ
-- JazzTimes - Bill Doggett
-- Last.fm - Bill Doggett & His Combo
-- All About Jazz - Bill Doggett
-- Grokipedia - Bill Doggett
-- 'New Music Buff - The Anniversary That (almost) Everyone Missed: Bill Doggett (1916-1996)'
+  - Wikipedia - Bill Doggett
+  - Vintage Inn - Meet Bill Doggett - The King of 1950s Jazz and R&B Organ
+  - JazzTimes - Bill Doggett
+  - Last.fm - Bill Doggett & His Combo
+  - All About Jazz - Bill Doggett
+  - Grokipedia - Bill Doggett
+  - >-
+    New Music Buff - The Anniversary That (almost) Everyone Missed: Bill Doggett
+    (1916-1996)
 network_extracted: true
 entry_created: '2025-11-29T06:59:49.222734'
 last_updated: '2025-12-23T08:16:05.500203'
+birth_date: '1916-02-16'
+artist_type: band
 ---
 
 ![](bill_doggett_and_his_combo.jpg)

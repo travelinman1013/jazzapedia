@@ -1,16 +1,16 @@
 ---
-title: leftover salmon
+title: Leftover Salmon
 wiki_slug: leftover-salmon
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1989'
 genres:
-- newgrass
-- bluegrass
-- americana
+  - newgrass
+  - bluegrass
+  - americana
 instruments:
-- original
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/leftover_salmon.jpg
   caption: leftover salmon
@@ -31,119 +31,119 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Drew Emmitt
-  - Vince Herman
-  - Mark Vann
-  - Andy Thorn
-  - Greg Garrison
-  - Alwyn Robinson
-  - Jay Starling
-  - Waylon Jennings
-  - Béla Fleck
-  - Jerry Douglas
-  - David Lowery
-  - Johnny Hickman
+    - Drew Emmitt
+    - Vince Herman
+    - Mark Vann
+    - Andy Thorn
+    - Greg Garrison
+    - Alwyn Robinson
+    - Jay Starling
+    - Waylon Jennings
+    - Béla Fleck
+    - Jerry Douglas
+    - David Lowery
+    - Johnny Hickman
   influenced:
-  - Yonder Mountain String Band
-  - Greensky Bluegrass
-  - Billy Strings
+    - Yonder Mountain String Band
+    - Greensky Bluegrass
+    - Billy Strings
   mentors:
-  - The Seldom Scene
-  - Newgrass Revival
-  - Hot Rize
+    - The Seldom Scene
+    - Newgrass Revival
+    - Hot Rize
 spotify_data:
   followers: 106146
   id: 2dU9NlAClSjQtKoVgUQwdz
   popularity: 40
-  url: https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz
+  url: 'https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz'
 discography_enriched: true
 top_tracks:
-- Lovin' In My Baby's Eyes (The Nashville Sessions)
-- Gulf of Mexico (Aquatic Hitchhiker)
-- Midnight Blues (The Nashville Sessions)
-- River's Rising (Euphoria)
-- Liza (Aquatic Hitchhiker)
-- Let's Party About It (Let's Party About It)
-- Southern Belle (Something Higher)
-- Better Day (High Country)
-- Troubled Times (The Nashville Sessions)
-- Dance On Your Head (The Nashville Sessions)
+  - Lovin' In My Baby's Eyes (The Nashville Sessions)
+  - Gulf of Mexico (Aquatic Hitchhiker)
+  - Midnight Blues (The Nashville Sessions)
+  - River's Rising (Euphoria)
+  - Liza (Aquatic Hitchhiker)
+  - Let's Party About It (Let's Party About It)
+  - Southern Belle (Something Higher)
+  - Better Day (High Country)
+  - Troubled Times (The Nashville Sessions)
+  - Dance On Your Head (The Nashville Sessions)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3020be1d-3c41-4e42-911b-ca5e96489300
-  spotify: https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz
-  wikipedia: https://en.wikipedia.org/wiki/Leftover_Salmon
+  musicbrainz: 'https://musicbrainz.org/artist/3020be1d-3c41-4e42-911b-ca5e96489300'
+  spotify: 'https://open.spotify.com/artist/2dU9NlAClSjQtKoVgUQwdz'
+  wikipedia: 'https://en.wikipedia.org/wiki/Leftover_Salmon'
 image_path: 03_Resources/source_material/ArtistPortraits/leftover_salmon.jpg
 biography_enhanced_at: '2025-12-15T01:31:55.466668'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://kids.kiddle.co/Leftover_Salmon
-- https://www.leftoversalmon.com/band
-- https://slideandbanjo.com/2019/09/19/leftover-salmon-thirty-years-of-polyethnic-cajun-slamgrass-part-1/
-- https://archives.boulderweekly.com/entertainment/leftovers-legacy/
-- https://www.leftoversalmon.com/20th-year-anniversary
-- https://compassrecords.com/artist/leftover-salmon/
-- https://cmhof.org/inductees/leftover-salmon/
-- https://bluegrassunlimited.com/article/leftover-salmon/
+  - 'https://kids.kiddle.co/Leftover_Salmon'
+  - 'https://www.leftoversalmon.com/band'
+  - >-
+    https://slideandbanjo.com/2019/09/19/leftover-salmon-thirty-years-of-polyethnic-cajun-slamgrass-part-1/
+  - 'https://archives.boulderweekly.com/entertainment/leftovers-legacy/'
+  - 'https://www.leftoversalmon.com/20th-year-anniversary'
+  - 'https://compassrecords.com/artist/leftover-salmon/'
+  - 'https://cmhof.org/inductees/leftover-salmon/'
+  - 'https://bluegrassunlimited.com/article/leftover-salmon/'
 network_extracted: true
 entry_created: '2025-12-15T01:31:55.466684'
 last_updated: '2025-12-23T08:16:11.745019'
 members:
-- &id001
-  begin: '2022'
-  end: ''
-  instruments: []
-  mbid: 24825515-873b-4e34-bd1a-b310d261c1d0
-  name: Jay Starling
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4aafc34f-8866-41ef-8078-09c73c70693f
-  name: Erik Deutsch
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b8378993-a981-41c5-a567-96183a561491
-  name: Drew Emmitt
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 99009d96-dfc9-485f-88fc-371469778dea
-  name: Vince Herman
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 64aff698-21a2-4f27-ab0b-649ba31e7b30
-  name: Glenn Keefe
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 87469db6-d67d-45e1-996f-c406596f8cbe
-  name: Noam Pikelny
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a3ab798d-4e26-4126-9cb9-79810166ee02
-  name: Jeff Sipe
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 599b2bde-b0e5-487f-a1ad-00ed6d915577
-  name: Mark Vann
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: e3bc02f8-1818-45da-9924-db0c7521c5ef
-  name: Vince Herman & Drew Emmitt
+  - &ref_0
+    begin: '2022'
+    end: ''
+    instruments: []
+    mbid: 24825515-873b-4e34-bd1a-b310d261c1d0
+    name: Jay Starling
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4aafc34f-8866-41ef-8078-09c73c70693f
+    name: Erik Deutsch
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b8378993-a981-41c5-a567-96183a561491
+    name: Drew Emmitt
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 99009d96-dfc9-485f-88fc-371469778dea
+    name: Vince Herman
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 64aff698-21a2-4f27-ab0b-649ba31e7b30
+    name: Glenn Keefe
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 87469db6-d67d-45e1-996f-c406596f8cbe
+    name: Noam Pikelny
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a3ab798d-4e26-4126-9cb9-79810166ee02
+    name: Jeff Sipe
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 599b2bde-b0e5-487f-a1ad-00ed6d915577
+    name: Mark Vann
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: e3bc02f8-1818-45da-9924-db0c7521c5ef
+    name: Vince Herman & Drew Emmitt
 musicbrainz_id: 3020be1d-3c41-4e42-911b-ca5e96489300
-origin: Boulder, Colorado, United States
+origin: 'Boulder, Colorado, United States'
 original_members:
-- *id001
+  - *ref_0
 tags:
-- folk
-- progressive bluegrass
-
+  - folk
+  - progressive bluegrass
 ---
 
 ![](leftover_salmon.jpg)

@@ -3,14 +3,14 @@ title: Pell
 wiki_slug: pell
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- anime
+  - anime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/pell.jpg
   caption: Pell
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 143.8
   energy_avg: 0.835
@@ -26,48 +26,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - G-Eazy
-  - Glbl Wrmng
-  - Dawn Richard
-  - ANTWIGADEE!
-  - Doja Cat, Kehlani, PJ Morton, Ambré
+    - G-Eazy
+    - Glbl Wrmng
+    - Dawn Richard
+    - ANTWIGADEE!
+    - 'Doja Cat, Kehlani, PJ Morton, Ambré'
   influenced:
-  - Glbl Wrmng artists
+    - Glbl Wrmng artists
   mentors:
-  - Micah Pellerin
+    - Micah Pellerin
 spotify_data:
   followers: 179710
   id: 1qLwXsUtyW2Ba2Iotg4gE3
   popularity: 46
-  url: https://open.spotify.com/artist/1qLwXsUtyW2Ba2Iotg4gE3
+  url: 'https://open.spotify.com/artist/1qLwXsUtyW2Ba2Iotg4gE3'
 discography_enriched: true
 top_tracks:
-- Silhouette (From "Naruto Shippuden") (Anime Favorites)
-- Bink's Brew (A Sea Shanty from "One Piece")
-- Geunyang Sum Swieo
-- The Wellerman
-- Kimi ga Suki da to Sakebitai (From "Slam Dunk") (Covers, Vol. 28)
-- We Can (From "One Piece") (Covers, Vol. 25)
-- Ultra Relentless
-- Thawing Fates
-- Fork Me
-- Dan Dan Kokoro Hikareteku (From "Dragon Ball GT") (Covers, Vol. 33)
+  - Silhouette (From "Naruto Shippuden") (Anime Favorites)
+  - Bink's Brew (A Sea Shanty from "One Piece")
+  - Geunyang Sum Swieo
+  - The Wellerman
+  - 'Kimi ga Suki da to Sakebitai (From "Slam Dunk") (Covers, Vol. 28)'
+  - 'We Can (From "One Piece") (Covers, Vol. 25)'
+  - Ultra Relentless
+  - Thawing Fates
+  - Fork Me
+  - 'Dan Dan Kokoro Hikareteku (From "Dragon Ball GT") (Covers, Vol. 33)'
 external_urls:
-  spotify: https://open.spotify.com/artist/1qLwXsUtyW2Ba2Iotg4gE3
-  wikipedia: https://en.wikipedia.org/wiki/Pell_(musician)
+  spotify: 'https://open.spotify.com/artist/1qLwXsUtyW2Ba2Iotg4gE3'
+  wikipedia: 'https://en.wikipedia.org/wiki/Pell_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/pell.jpg
 biography_enhanced_at: '2025-10-29T16:46:50.041464'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Pell_(musician)
-- http://pellyeah.com
-- https://notion.online/pell/
-- https://www.youtube.com/c/Pell/about
-- https://www.youtube.com/watch?v=n9ab26xd-GE
+  - 'https://en.wikipedia.org/wiki/Pell_(musician)'
+  - 'http://pellyeah.com'
+  - 'https://notion.online/pell/'
+  - 'https://www.youtube.com/c/Pell/about'
+  - 'https://www.youtube.com/watch?v=n9ab26xd-GE'
 network_extracted: true
 entry_created: '2025-10-29T16:46:50.041472'
 last_updated: '2025-12-23T08:16:14.179916'
+birth_date: '1992-05-29'
+artist_type: person
 ---
 
 ![](pell.jpg)

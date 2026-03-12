@@ -1,37 +1,37 @@
 ---
-title: sonny landreth
+title: Sonny Landreth
 wiki_slug: sonny-landreth
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1951-02-01'
-birth_place: Canton
+birth_place: 'Canton, Mississippi, United States'
 genres:
-- blues
-- blues rock
-- modern blues
+  - blues
+  - blues rock
+  - modern blues
 instruments:
-- guitar
-- resonator guitar
-- slide guitar
-- electric guitar
-- acoustic guitar
-- steel guitar
-- lap steel guitar
-- guitar family
-- background vocals
-- lead vocals
+  - guitar
+  - resonator guitar
+  - slide guitar
+  - electric guitar
+  - acoustic guitar
+  - steel guitar
+  - lap steel guitar
+  - guitar family
+  - background vocals
+  - lead vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ec88f3a1-3711-4677-9db6-e12ce58238b7
-  name: John Hiatt & The Goners
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6d1c3698-6ef2-4f67-b626-fa16e2c69c8e
-  name: Mark Knopfler’s Guitar Heroes
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ec88f3a1-3711-4677-9db6-e12ce58238b7
+    name: John Hiatt & The Goners
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6d1c3698-6ef2-4f67-b626-fa16e2c69c8e
+    name: Mark Knopfler’s Guitar Heroes
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sonny_landreth.jpg
   caption: sonny landreth
@@ -53,57 +53,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John Hiatt
-  - John Mayall
-  - Eric Johnson
-  - Mark Knopfler
-  - Allen Toussaint
+    - John Hiatt
+    - John Mayall
+    - Eric Johnson
+    - Mark Knopfler
+    - Allen Toussaint
   influenced:
-  - Derek Trucks
-  - Warren Haynes
+    - Derek Trucks
+    - Warren Haynes
   mentors:
-  - Clifton Chenier
+    - Clifton Chenier
 spotify_data:
   followers: 60436
   id: 7aHLYoLUMdcl0HiT5k0Brz
   popularity: 36
-  url: https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz
+  url: 'https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz'
 discography_enriched: true
 top_tracks:
-- Somebody Gotta Make A Move (Blacktop Run)
-- Blue Tarp Blues (From the Reach)
-- The Milky Way Home (From the Reach)
-- Congo Square (South Of I-10)
-- The High Side (Bound By The Blues)
-- The Thrill Is Gone (All Blues)
-- Walkin' Blues (Bound By The Blues)
-- Bound By The Blues (Bound By The Blues)
-- Taylor's Rock
-- Blacktop Run (Blacktop Run)
+  - Somebody Gotta Make A Move (Blacktop Run)
+  - Blue Tarp Blues (From the Reach)
+  - The Milky Way Home (From the Reach)
+  - Congo Square (South Of I-10)
+  - The High Side (Bound By The Blues)
+  - The Thrill Is Gone (All Blues)
+  - Walkin' Blues (Bound By The Blues)
+  - Bound By The Blues (Bound By The Blues)
+  - Taylor's Rock
+  - Blacktop Run (Blacktop Run)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5ce64ed9-3015-4910-a2bb-1cd5c933de38
-  spotify: https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz
-  wikipedia: https://en.wikipedia.org/wiki/Sonny_Landreth
+  musicbrainz: 'https://musicbrainz.org/artist/5ce64ed9-3015-4910-a2bb-1cd5c933de38'
+  spotify: 'https://open.spotify.com/artist/7aHLYoLUMdcl0HiT5k0Brz'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sonny_Landreth'
 image_path: 03_Resources/source_material/ArtistPortraits/sonny_landreth.jpg
 biography_enhanced_at: '2025-11-06T13:24:49.959986'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://learnguitarcafe.com/sonny-landreth/
-- https://ww1.namm.org/library/oral-history/sonny-landreth
-- https://musicrising.tulane.edu/discover/people/sonny-landreth/
-- http://www.bluesaccess.com/No_24/landreth.html
-- https://www.sonnylandreth.com/bio.php
+  - 'https://learnguitarcafe.com/sonny-landreth/'
+  - 'https://ww1.namm.org/library/oral-history/sonny-landreth'
+  - 'https://musicrising.tulane.edu/discover/people/sonny-landreth/'
+  - 'http://www.bluesaccess.com/No_24/landreth.html'
+  - 'https://www.sonnylandreth.com/bio.php'
 network_extracted: true
 entry_created: '2025-11-06T13:24:49.960012'
 last_updated: '2025-12-23T08:16:15.910705'
 gender: Male
 musicbrainz_id: 5ce64ed9-3015-4910-a2bb-1cd5c933de38
 tags:
-- blues
-- electric blues
-- sonny landreth
-
+  - blues
+  - electric blues
+  - sonny landreth
+origin: 'Lafayette, Louisiana, United States'
 ---
 
 ![](sonny_landreth.jpg)

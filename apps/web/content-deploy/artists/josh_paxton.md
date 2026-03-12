@@ -3,13 +3,13 @@ title: Josh Paxton
 wiki_slug: josh-paxton
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/josh_paxton.jpg
   caption: Josh Paxton
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 112.9
   energy_avg: 0.369
@@ -25,45 +25,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Beth Patterson
-  - Debbie Davis
-  - Johnny Sketch and the Dirty Notes
-  - Bruce Hornsby
-  - Wild Magnolias
+    - Beth Patterson
+    - Debbie Davis
+    - Johnny Sketch and the Dirty Notes
+    - Bruce Hornsby
+    - Wild Magnolias
   influenced: []
   mentors:
-  - Ellis Marsalis
+    - Ellis Marsalis
 spotify_data:
   followers: 94
   id: 3AdZ3eRO4zyZueOvUfcodw
   popularity: 0
-  url: https://open.spotify.com/artist/3AdZ3eRO4zyZueOvUfcodw
+  url: 'https://open.spotify.com/artist/3AdZ3eRO4zyZueOvUfcodw'
 discography_enriched: true
 top_tracks:
-- 'Papa Was a Rascal (Patchwork: A Tribute to James Booker)'
-- 'When I''m Sixty-Four (Live) (Vices and Virtues: A Live Record)'
-- 'On the Sunny Side of the Street (Patchwork: A Tribute to James Booker)'
-- 'Minuet in Funk (Patchwork: A Tribute to James Booker)'
-- 'Deep South Aggression (That''s Nice) (The FuMP, Vol. 92: March - April 2022)'
-- Winin Boy Blues (feat. Josh Paxton) (Linger 'til Dawn)
-- 'On the Sunny Side of the Street (Live) (Vices and Virtues: A Live Record)'
-- 'Lulu''s Back in Town (Live) (Vices and Virtues: A Live Record)'
-- 'Caravan (Live) (Vices and Virtues: A Live Record)'
-- 'Intro for It''s Not the Years, It''s the Miles (Live) (Vices and Virtues: A Live Record)'
+  - 'Papa Was a Rascal (Patchwork: A Tribute to James Booker)'
+  - 'When I''m Sixty-Four (Live) (Vices and Virtues: A Live Record)'
+  - 'On the Sunny Side of the Street (Patchwork: A Tribute to James Booker)'
+  - 'Minuet in Funk (Patchwork: A Tribute to James Booker)'
+  - 'Deep South Aggression (That''s Nice) (The FuMP, Vol. 92: March - April 2022)'
+  - Winin Boy Blues (feat. Josh Paxton) (Linger 'til Dawn)
+  - 'On the Sunny Side of the Street (Live) (Vices and Virtues: A Live Record)'
+  - 'Lulu''s Back in Town (Live) (Vices and Virtues: A Live Record)'
+  - 'Caravan (Live) (Vices and Virtues: A Live Record)'
+  - >-
+    Intro for It's Not the Years, It's the Miles (Live) (Vices and Virtues: A
+    Live Record)
 external_urls:
-  spotify: https://open.spotify.com/artist/3AdZ3eRO4zyZueOvUfcodw
+  spotify: 'https://open.spotify.com/artist/3AdZ3eRO4zyZueOvUfcodw'
   wikipedia: Not found
 image_path: 03_Resources/source_material/ArtistPortraits/josh_paxton.jpg
 biography_enhanced_at: '2025-11-27T06:28:51.915704'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.neworleans.com/listing/josh-paxton/46442/
-- https://zoukeys.com/bio
-- https://www.youtube.com/watch?v=n6EQZPySyL4
+  - 'https://www.neworleans.com/listing/josh-paxton/46442/'
+  - 'https://zoukeys.com/bio'
+  - 'https://www.youtube.com/watch?v=n6EQZPySyL4'
 network_extracted: true
 entry_created: '2025-11-27T06:28:51.915719'
 last_updated: '2025-12-23T08:16:10.988478'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](josh_paxton.jpg)

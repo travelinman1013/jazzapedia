@@ -1,83 +1,87 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - lead vocals
-  mbid: 35f31ff3-d830-4377-a832-9b1c96cfc57d
-  name: Mildred Bailey & Her Oxford Greys
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - lead vocals
-  mbid: 2f12205a-43bc-403f-831e-ece7dbfd1d30
-  name: Mildred Bailey & Her Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - lead vocals
-  mbid: 64abe6bb-38ad-4d21-8e54-2e8932dcc8f7
-  name: Mildred Bailey & Her Alley Cats
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - lead vocals
+    mbid: 35f31ff3-d830-4377-a832-9b1c96cfc57d
+    name: Mildred Bailey & Her Oxford Greys
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - lead vocals
+    mbid: 2f12205a-43bc-403f-831e-ece7dbfd1d30
+    name: Mildred Bailey & Her Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - lead vocals
+    mbid: 64abe6bb-38ad-4d21-8e54-2e8932dcc8f7
+    name: Mildred Bailey & Her Alley Cats
 biography_enhanced_at: '2026-01-01T01:05:37.838635'
 birth_date: '1907-02-27'
-birth_place: Tekoa
+birth_place: 'Tekoa, Idaho, United States'
 death_date: '1951-12-12'
 enhancement_provider: perplexity
 entry_created: '2026-01-01T01:05:37.838667'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e079ff65-ad41-48e9-b6ce-8cdb0db64802
-  spotify: https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix
-  wikipedia: https://en.wikipedia.org/wiki/Mildred_Bailey
+  musicbrainz: 'https://musicbrainz.org/artist/e079ff65-ad41-48e9-b6ce-8cdb0db64802'
+  spotify: 'https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mildred_Bailey'
 gender: Female
 genres:
-- vocal jazz
-- big band
-- swing music
-- ragtime
-- jazz
+  - vocal jazz
+  - big band
+  - swing music
+  - ragtime
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/mildred_bailey.jpg
 instruments:
-- eponymous
-- lead vocals
+  - eponymous
+  - lead vocals
 last_updated: '2026-01-01T01:05:37.838669'
 musical_connections:
   collaborators:
-  - Paul Whiteman
-  - Red Norvo
-  - Benny Goodman
-  - Dorsey Brothers
-  - Bing Crosby
+    - Paul Whiteman
+    - Red Norvo
+    - Benny Goodman
+    - Dorsey Brothers
+    - Bing Crosby
   influenced:
-  - Bing Crosby
-  - Numerous swing vocalists
+    - Bing Crosby
+    - Numerous swing vocalists
   mentors:
-  - Bessie Smith
-  - Ethel Waters
-  - Louis Armstrong
+    - Bessie Smith
+    - Ethel Waters
+    - Louis Armstrong
 musicbrainz_id: e079ff65-ad41-48e9-b6ce-8cdb0db64802
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://syncopatedtimes.com/mildred-bailey/
-- https://en.wikipedia.org/wiki/Mildred_Bailey
-- https://wicn.org/wicn-artist-of-the-month-november-2025-mildred-bailey/
-- https://uidaho.pressbooks.pub/idahohistories/chapter/meet-the-queen-of-swing-mildred-rinker-bailey/
-- https://www.swingstreetradio.org/mrs-swing-rocks-the-house-the-story-of-mildred-bailey/
+  - 'https://syncopatedtimes.com/mildred-bailey/'
+  - 'https://en.wikipedia.org/wiki/Mildred_Bailey'
+  - 'https://wicn.org/wicn-artist-of-the-month-november-2025-mildred-bailey/'
+  - >-
+    https://uidaho.pressbooks.pub/idahohistories/chapter/meet-the-queen-of-swing-mildred-rinker-bailey/
+  - >-
+    https://www.swingstreetradio.org/mrs-swing-rocks-the-house-the-story-of-mildred-bailey/
 spotify_data:
   followers: 24885
   id: 0LyTHMstvqKiSoqdnnjqix
   popularity: 39
-  url: https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix
+  url: 'https://open.spotify.com/artist/0LyTHMstvqKiSoqdnnjqix'
 status: active
 tags:
-- jazz
-- swing
-- vocal jazz
-title: MILDRED BAILEY
+  - jazz
+  - swing
+  - vocal jazz
+title: Mildred Bailey
+is_active: false
+origin: 'Spokane, Washington, United States'
 ---
 
 ![](mildred_bailey.jpg)

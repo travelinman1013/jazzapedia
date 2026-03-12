@@ -1,61 +1,62 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-07T01:17:37.550430'
 enhancement_provider: perplexity
 entry_created: '2026-01-07T01:17:37.550435'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/514449ae-0dc4-4c1f-8e60-8422b08f5702
-  spotify: https://open.spotify.com/artist/2RXMyzpGchPeoh6jPBVU7l
+  musicbrainz: 'https://musicbrainz.org/artist/514449ae-0dc4-4c1f-8e60-8422b08f5702'
+  spotify: 'https://open.spotify.com/artist/2RXMyzpGchPeoh6jPBVU7l'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/silver_leaf_jazz_band.jpg
 last_updated: '2026-01-07T01:17:37.550436'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e85df525-7e4d-42f6-8b2c-3511adf87de4
-  name: Vince Giordano
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 183db1d8-0746-4e73-ac71-6bc22e61dafa
-  name: Orange Kellin
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f142fd7f-738f-4aa6-aa38-32a862c704ca
-  name: Chris Tyle
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e85df525-7e4d-42f6-8b2c-3511adf87de4
+    name: Vince Giordano
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 183db1d8-0746-4e73-ac71-6bc22e61dafa
+    name: Orange Kellin
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f142fd7f-738f-4aa6-aa38-32a862c704ca
+    name: Chris Tyle
 musical_connections:
   collaborators:
-  - Barry Wratten
-  - Orange Kellin
-  - Mike Owen
-  - Steve Pistorius
-  - Hal Smith
-  - David Sager
+    - Barry Wratten
+    - Orange Kellin
+    - Mike Owen
+    - Steve Pistorius
+    - Hal Smith
+    - David Sager
   influenced: []
   mentors:
-  - Turk Murphy
-  - Danny Barker
-  - Albert 'Pud' Brown
+    - Turk Murphy
+    - Danny Barker
+    - Albert 'Pud' Brown
 musicbrainz_id: 514449ae-0dc4-4c1f-8e60-8422b08f5702
 network_extracted: true
-origin: New Orleans, Louisiana, USA
+origin: 'New Orleans, Louisiana, USA'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Chris_Tyle
-- https://jazzlives.wordpress.com/2012/06/04/the-real-thing-chris-tyles-silver-leaf-jazz-band/
-- https://www.jazzology.com/jazzbeat.php?id=33
-- https://syncopatedtimes.com/chris-tyles-lifelong-musical-odyssey/
-- https://64parishes.org/entry/paul-barbarin
-- https://www.thebash.com/jazzband/thesilverleafjazzband
-- https://www.jazzstandards.com/about.personnel.htm
+  - 'https://en.wikipedia.org/wiki/Chris_Tyle'
+  - >-
+    https://jazzlives.wordpress.com/2012/06/04/the-real-thing-chris-tyles-silver-leaf-jazz-band/
+  - 'https://www.jazzology.com/jazzbeat.php?id=33'
+  - 'https://syncopatedtimes.com/chris-tyles-lifelong-musical-odyssey/'
+  - 'https://64parishes.org/entry/paul-barbarin'
+  - 'https://www.thebash.com/jazzband/thesilverleafjazzband'
+  - 'https://www.jazzstandards.com/about.personnel.htm'
 spotify_data:
   followers: 38
   id: 2RXMyzpGchPeoh6jPBVU7l
   popularity: 1
-  url: https://open.spotify.com/artist/2RXMyzpGchPeoh6jPBVU7l
+  url: 'https://open.spotify.com/artist/2RXMyzpGchPeoh6jPBVU7l'
 status: active
 title: Silver Leaf Jazz Band
 ---

@@ -1,49 +1,51 @@
 ---
 biography_enhanced_at: '2026-01-01T01:05:19.532110'
-birth_place: Geneva, Switzerland
+birth_place: 'Geneva, Switzerland, Switzerland'
 enhancement_provider: perplexity
 entry_created: '2026-01-01T01:05:19.532123'
 external_urls:
-  spotify: https://open.spotify.com/artist/24jNRyMv4IEPuL1qwmZuNW
-  wikipedia: https://en.wikipedia.org/wiki/Gr%C3%A9goire_Maret
+  spotify: 'https://open.spotify.com/artist/24jNRyMv4IEPuL1qwmZuNW'
+  wikipedia: 'https://en.wikipedia.org/wiki/Gr%C3%A9goire_Maret'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/gregoire_maret.jpg
 last_updated: '2026-01-01T01:05:19.532125'
 musical_connections:
   collaborators:
-  - Herbie Hancock
-  - Pat Metheny
-  - Marcus Miller
-  - Romain Collin
-  - Bill Frisell
-  - Edmar Castañeda
-  - Cassandra Wilson
-  - Harold Lopez Nussa
+    - Herbie Hancock
+    - Pat Metheny
+    - Marcus Miller
+    - Romain Collin
+    - Bill Frisell
+    - Edmar Castañeda
+    - Cassandra Wilson
+    - Harold Lopez Nussa
   influenced: []
   mentors:
-  - Sonny Williamson II
-  - Toots Thielemans
-  - Junior Wells
-  - James Cotton
-  - Stevie Wonder
+    - Sonny Williamson II
+    - Toots Thielemans
+    - Junior Wells
+    - James Cotton
+    - Stevie Wonder
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.thedjangonyc.com/stories/gregoire-maret-harmonica-virtuoso/
-- https://actmusic.com/en/artists-a-z/gregoire-maret/
-- https://festiwal.nifc.pl/en/1/artysta/7214
-- https://www.allaboutjazz.com/musicians/gregoire-maret/
-- https://www.brusselsphilharmonic.be/en/musicians/gr%C3%A9goire-maret-2
-- https://www.sennheiser.com/en-be/artists/gregoire-maret
-- https://litchfieldjazzfest.com/artwork/gregoire-maret-quartet-2/
-- https://en.wikipedia.org/wiki/Gr%C3%A9goire_Maret
+  - 'https://www.thedjangonyc.com/stories/gregoire-maret-harmonica-virtuoso/'
+  - 'https://actmusic.com/en/artists-a-z/gregoire-maret/'
+  - 'https://festiwal.nifc.pl/en/1/artysta/7214'
+  - 'https://www.allaboutjazz.com/musicians/gregoire-maret/'
+  - 'https://www.brusselsphilharmonic.be/en/musicians/gr%C3%A9goire-maret-2'
+  - 'https://www.sennheiser.com/en-be/artists/gregoire-maret'
+  - 'https://litchfieldjazzfest.com/artwork/gregoire-maret-quartet-2/'
+  - 'https://en.wikipedia.org/wiki/Gr%C3%A9goire_Maret'
 spotify_data:
   followers: 6564
   id: 24jNRyMv4IEPuL1qwmZuNW
   popularity: 27
-  url: https://open.spotify.com/artist/24jNRyMv4IEPuL1qwmZuNW
+  url: 'https://open.spotify.com/artist/24jNRyMv4IEPuL1qwmZuNW'
 status: active
 title: Gregoire Maret
+birth_date: '1975-05-13'
+artist_type: person
 ---
 
 ![](gregoire_maret.jpg)

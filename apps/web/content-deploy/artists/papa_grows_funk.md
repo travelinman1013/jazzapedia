@@ -1,14 +1,14 @@
 ---
-title: papa grows funk
+title: Papa Grows Funk
 wiki_slug: papa-grows-funk
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '2000'
 genres:
-- funk rock
-- jazz funk
-- funk
+  - funk rock
+  - jazz funk
+  - funk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/papa_grows_funk.jpg
   caption: papa grows funk
@@ -21,7 +21,7 @@ audio_profile:
   danceability_avg: 0.668
   acousticness_avg: 0.117
   instrumentalness_avg: 0.421
-  loudness_avg: -7.0
+  loudness_avg: -7
   speechiness_avg: 0.059
   liveness_avg: 0.311
   track_count: 50
@@ -29,85 +29,86 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - George Porter Jr.
-  - Russell Batiste
-  - Anders Osborne
-  - Better Than Ezra
+    - George Porter Jr.
+    - Russell Batiste
+    - Anders Osborne
+    - Better Than Ezra
   influenced: []
   mentors:
-  - George Porter Jr.
-  - Dr. John
-  - Allen Toussaint
+    - George Porter Jr.
+    - Dr. John
+    - Allen Toussaint
 spotify_data:
   followers: 18444
   id: 3HZGp40qZu7sjn5KswiU3Q
   popularity: 21
-  url: https://open.spotify.com/artist/3HZGp40qZu7sjn5KswiU3Q
+  url: 'https://open.spotify.com/artist/3HZGp40qZu7sjn5KswiU3Q'
 discography_enriched: true
 top_tracks:
-- Do U Want It? (Needle in the Groove)
-- Rollo (Needle in the Groove)
-- Red Spark (Needle in the Groove)
-- Planet of Love & Hate (Needle in the Groove)
-- Gorillafaceugmopotamus! (Mr Patterson's Hat)
-- My Man (Mr Patterson's Hat)
-- Stanky (Mr Patterson's Hat)
-- Out of the Mud (Needle in the Groove)
-- John Brown (Mr Patterson's Hat)
-- Make It Right Now (Needle in the Groove)
+  - Do U Want It? (Needle in the Groove)
+  - Rollo (Needle in the Groove)
+  - Red Spark (Needle in the Groove)
+  - Planet of Love & Hate (Needle in the Groove)
+  - Gorillafaceugmopotamus! (Mr Patterson's Hat)
+  - My Man (Mr Patterson's Hat)
+  - Stanky (Mr Patterson's Hat)
+  - Out of the Mud (Needle in the Groove)
+  - John Brown (Mr Patterson's Hat)
+  - Make It Right Now (Needle in the Groove)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5e7a227f-84bf-40b4-a30d-0363742b09db
-  spotify: https://open.spotify.com/artist/3HZGp40qZu7sjn5KswiU3Q
+  musicbrainz: 'https://musicbrainz.org/artist/5e7a227f-84bf-40b4-a30d-0363742b09db'
+  spotify: 'https://open.spotify.com/artist/3HZGp40qZu7sjn5KswiU3Q'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/papa_grows_funk.jpg
 biography_enhanced_at: '2025-12-18T02:38:02.811227'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.jango.com/music/Papa+Grows+Funk/_full_bio
-- https://bigeasycruise.com/news/get-to-know-john-papa-gros/
-- https://martyrslive.com/john-papa-gros-band
-- https://glidemagazine.com/240101/do-u-want-it-papa-grows-funk-documentary-serves-as-crumpled-up-love-letter-to-new-orleans-funk-film-review/
-- https://www.offbeat.com/articles/papa-grows-funk-history-explored/
+  - 'https://www.jango.com/music/Papa+Grows+Funk/_full_bio'
+  - 'https://bigeasycruise.com/news/get-to-know-john-papa-gros/'
+  - 'https://martyrslive.com/john-papa-gros-band'
+  - >-
+    https://glidemagazine.com/240101/do-u-want-it-papa-grows-funk-documentary-serves-as-crumpled-up-love-letter-to-new-orleans-funk-film-review/
+  - 'https://www.offbeat.com/articles/papa-grows-funk-history-explored/'
 network_extracted: true
 entry_created: '2025-12-18T02:38:02.811237'
 last_updated: '2025-12-23T08:16:13.930088'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2fb61b99-d415-48ed-9d44-6b7d529f9dba
-  name: Jeffery Alexander
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a8d9245c-669f-4d2a-9d7f-4774aeaf970f
-  name: John “Papa” Gros
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: debd4e9c-3d16-4133-96f2-0d9f4ea8c241
-  name: Jason Mingledorff
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5f963204-1cb8-4194-a11e-7686b43451b0
-  name: Marc Pero
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2c69c10e-0bdb-4518-954e-4f9bc81130f5
-  name: 山岸潤史
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 63c44310-bab3-41ad-865e-f239e80fd8df
-  name: Russell Batiste
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2fb61b99-d415-48ed-9d44-6b7d529f9dba
+    name: Jeffery Alexander
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a8d9245c-669f-4d2a-9d7f-4774aeaf970f
+    name: John “Papa” Gros
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: debd4e9c-3d16-4133-96f2-0d9f4ea8c241
+    name: Jason Mingledorff
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5f963204-1cb8-4194-a11e-7686b43451b0
+    name: Marc Pero
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2c69c10e-0bdb-4518-954e-4f9bc81130f5
+    name: 山岸潤史
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 63c44310-bab3-41ad-865e-f239e80fd8df
+    name: Russell Batiste
 musicbrainz_id: 5e7a227f-84bf-40b4-a30d-0363742b09db
-origin: New Orleans, Louisiana, USA
+origin: 'New Orleans, Louisiana, USA'
 tags:
-- funk
-
+  - funk
+birth_place: 'New Orleans, Louisiana, United States'
 ---
 
 ![](papa_grows_funk.jpg)

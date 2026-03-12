@@ -5,9 +5,9 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1972-05-27'
-birth_place: Evansville
+birth_place: 'Evansville, Indiana, United States'
 genres:
-- gothic country
+  - gothic country
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jace_everett.jpg
   caption: Jace Everett
@@ -29,49 +29,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Josh Turner
-  - CC Adcock
+    - Josh Turner
+    - CC Adcock
   influenced:
-  - True Blood soundtrack artists
+    - True Blood soundtrack artists
   mentors:
-  - Southern gospel and country traditions
+    - Southern gospel and country traditions
 spotify_data:
   followers: 46685
   id: 47DQBkDU2VieRG0aJUcPJs
   popularity: 39
-  url: https://open.spotify.com/artist/47DQBkDU2VieRG0aJUcPJs
+  url: 'https://open.spotify.com/artist/47DQBkDU2VieRG0aJUcPJs'
 discography_enriched: true
 top_tracks:
-- Bad Things (Jace Everett)
-- Bad Things (Jace Everett)
-- Bad Things - Soundtrack Version
-- Bad Things - Soundtrack Version
-- Bad Things (Old New Borrowed Blues)
-- Your Man (Old New Borrowed Blues)
-- Bad Things
-- One of Them (Red Revelations)
-- Bad Things - Soundtrack Version
-- I Gotta Have It (Jace Everett)
+  - Bad Things (Jace Everett)
+  - Bad Things (Jace Everett)
+  - Bad Things - Soundtrack Version
+  - Bad Things - Soundtrack Version
+  - Bad Things (Old New Borrowed Blues)
+  - Your Man (Old New Borrowed Blues)
+  - Bad Things
+  - One of Them (Red Revelations)
+  - Bad Things - Soundtrack Version
+  - I Gotta Have It (Jace Everett)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6c04cad1-bcb0-4542-a04a-14d4a7114ab2
-  spotify: https://open.spotify.com/artist/47DQBkDU2VieRG0aJUcPJs
-  wikipedia: https://en.wikipedia.org/wiki/Jace_Everett
+  musicbrainz: 'https://musicbrainz.org/artist/6c04cad1-bcb0-4542-a04a-14d4a7114ab2'
+  spotify: 'https://open.spotify.com/artist/47DQBkDU2VieRG0aJUcPJs'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jace_Everett'
 image_path: 03_Resources/source_material/ArtistPortraits/jace_everett.jpg
 biography_enhanced_at: '2025-10-25T09:56:20.338140'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jace_Everett
-- https://sylrmartin.com/portfolio/interviewing-jace-everett-red-revelations-true-blood/
-- https://trueblood.fandom.com/wiki/Jace_Everett
+  - 'https://en.wikipedia.org/wiki/Jace_Everett'
+  - >-
+    https://sylrmartin.com/portfolio/interviewing-jace-everett-red-revelations-true-blood/
+  - 'https://trueblood.fandom.com/wiki/Jace_Everett'
 network_extracted: true
 entry_created: '2025-10-25T09:56:20.338152'
 last_updated: '2025-12-23T08:16:09.980547'
 gender: Male
 musicbrainz_id: 6c04cad1-bcb0-4542-a04a-14d4a7114ab2
 tags:
-- country
-
+  - country
 ---
 
 ![](jace_everett.jpg)

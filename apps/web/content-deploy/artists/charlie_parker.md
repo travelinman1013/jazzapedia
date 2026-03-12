@@ -1,129 +1,129 @@
 ---
-title: charlie parker
+title: Charlie Parker
 wiki_slug: charlie-parker
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1920-08-29'
-birth_place: Kansas City
+birth_place: 'Kansas City, Kansas, United States'
 death_date: '1955-03-12'
 genres:
-- bebop
-- jazz
-- hard bop
-- cool jazz
-- jazz blues
+  - bebop
+  - jazz
+  - hard bop
+  - cool jazz
+  - jazz blues
 instruments:
-- eponymous
-- original
-- alto saxophone
-- spoken vocals
-- lead vocals
-- vocal
-associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 17df697d-197e-4a20-85a1-e09438305f5c
-  name: Dizzy Gillespie Sextet
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
-  mbid: 4fda3c6b-18a2-4a44-8de1-6174824409fb
-  name: Charlie Parker’s Ree Boppers
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 31cfcb82-0173-4995-b472-eb7400af17e1
-  name: Charlie Parker and His Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 83bb8401-71b5-4d70-8b4b-aba03a7de22e
-  name: Jay McShann & His Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: a94f0e68-6a5a-4a39-928d-5910e482d95c
-  name: Charlie Parker Sextet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: e02d4f5a-8bcf-4fd3-8410-57c680389748
-  name: Charlie Parker Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 636c40f9-864f-46eb-9b91-7e643a8e0a61
-  name: Red Norvo & His Selected Sextet
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: e495811a-f10c-4596-8b5e-7c0f3fc6f5db
-  name: Dizzy Gillespie Jazzmen
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 8d63d8f8-e743-48af-b45e-5d9639edcd1b
-  name: Charlie Parker Septet
-- begin: ''
-  end: ''
-  instruments:
   - alto saxophone
-  - original
-  mbid: 261c2e67-9feb-4f14-b2b0-89b890bff2fc
-  name: Dizzy Gillespie’s All‐Star Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 430dfeae-b5d7-4d36-a8a2-e9f0a8f025be
-  name: Charlie Parker Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 430dfeae-b5d7-4d36-a8a2-e9f0a8f025be
-  name: Charlie Parker Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 607d7275-2b92-49e5-a7ee-32f9cc29b076
-  name: Miles Davis All Stars
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 3e835c70-a8de-4a1b-9e1f-15161bdc457c
-  name: Charlie Parker Big Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a0d650b7-3836-4232-9900-62e21de47451
-  name: Red Norvo All-Stars
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 3db79d7c-aaee-4092-bbe0-da5b5fa8dcf3
-  name: Charlie Parker's Jazzers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 94124d94-aded-4aa0-89aa-2709b1a9f02b
-  name: Dizzy Gillespie’s Rebop Six
+  - spoken vocals
+  - lead vocals
+  - vocal
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 17df697d-197e-4a20-85a1-e09438305f5c
+    name: Dizzy Gillespie Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 4fda3c6b-18a2-4a44-8de1-6174824409fb
+    name: Charlie Parker’s Ree Boppers
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 31cfcb82-0173-4995-b472-eb7400af17e1
+    name: Charlie Parker and His Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 83bb8401-71b5-4d70-8b4b-aba03a7de22e
+    name: Jay McShann & His Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: a94f0e68-6a5a-4a39-928d-5910e482d95c
+    name: Charlie Parker Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: e02d4f5a-8bcf-4fd3-8410-57c680389748
+    name: Charlie Parker Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 636c40f9-864f-46eb-9b91-7e643a8e0a61
+    name: Red Norvo & His Selected Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: e495811a-f10c-4596-8b5e-7c0f3fc6f5db
+    name: Dizzy Gillespie Jazzmen
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 8d63d8f8-e743-48af-b45e-5d9639edcd1b
+    name: Charlie Parker Septet
+  - begin: ''
+    end: ''
+    instruments:
+      - alto saxophone
+      - original
+    mbid: 261c2e67-9feb-4f14-b2b0-89b890bff2fc
+    name: Dizzy Gillespie’s All‐Star Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 430dfeae-b5d7-4d36-a8a2-e9f0a8f025be
+    name: Charlie Parker Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 430dfeae-b5d7-4d36-a8a2-e9f0a8f025be
+    name: Charlie Parker Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 607d7275-2b92-49e5-a7ee-32f9cc29b076
+    name: Miles Davis All Stars
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 3e835c70-a8de-4a1b-9e1f-15161bdc457c
+    name: Charlie Parker Big Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a0d650b7-3836-4232-9900-62e21de47451
+    name: Red Norvo All-Stars
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 3db79d7c-aaee-4092-bbe0-da5b5fa8dcf3
+    name: Charlie Parker's Jazzers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 94124d94-aded-4aa0-89aa-2709b1a9f02b
+    name: Dizzy Gillespie’s Rebop Six
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/charlie_parker.jpg
   caption: charlie parker
@@ -138,7 +138,7 @@ audio_profile:
   danceability_avg: 0.512
   acousticness_avg: 0.698
   instrumentalness_avg: 0.29
-  loudness_avg: -10.0
+  loudness_avg: -10
   speechiness_avg: 0.06
   liveness_avg: 0.236
   track_count: 82
@@ -146,57 +146,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dizzy Gillespie
-  - Miles Davis
-  - Thelonious Monk
+    - Dizzy Gillespie
+    - Miles Davis
+    - Thelonious Monk
   influenced:
-  - John Coltrane
-  - Sonny Rollins
-  - Cannonball Adderley
-  - Ornette Coleman
+    - John Coltrane
+    - Sonny Rollins
+    - Cannonball Adderley
+    - Ornette Coleman
   mentors:
-  - Alonzo Lewis
-  - Robert Simpson
-  - Count Basie
+    - Alonzo Lewis
+    - Robert Simpson
+    - Count Basie
 spotify_data:
   followers: 676442
   id: 4Ww5mwS7BWYjoZTUIrMHfC
   popularity: 50
-  url: https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC
+  url: 'https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC'
 discography_enriched: true
 top_tracks:
-- 'Summertime (April In Paris: The Genius Of Charlie Parker #2)'
-- All the Things You Are
-- Out Of Nowhere (Jazz Masters)
-- 'Just Friends (April In Paris: The Genius Of Charlie Parker #2)'
-- 'April In Paris (April In Paris: The Genius Of Charlie Parker #2)'
-- Koko - Original Take 2 (The Charlie Parker Story)
-- Donna Lee (The Complete Savoy & Dial Master Takes)
-- Leap Frog - Take 11 / Take 6 / Master Take (Bird And Diz (Expanded Edition))
-- Scrapple From The Apple (Jazz Masters)
-- Yardbird Suite (The Genius Of Charlie Parker)
+  - 'Summertime (April In Paris: The Genius Of Charlie Parker #2)'
+  - All the Things You Are
+  - Out Of Nowhere (Jazz Masters)
+  - 'Just Friends (April In Paris: The Genius Of Charlie Parker #2)'
+  - 'April In Paris (April In Paris: The Genius Of Charlie Parker #2)'
+  - Koko - Original Take 2 (The Charlie Parker Story)
+  - Donna Lee (The Complete Savoy & Dial Master Takes)
+  - Leap Frog - Take 11 / Take 6 / Master Take (Bird And Diz (Expanded Edition))
+  - Scrapple From The Apple (Jazz Masters)
+  - Yardbird Suite (The Genius Of Charlie Parker)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c7356af9-9ea6-4a78-a55b-c73775716312
-  spotify: https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC
-  wikipedia: https://en.wikipedia.org/wiki/Charlie_Parker
+  musicbrainz: 'https://musicbrainz.org/artist/c7356af9-9ea6-4a78-a55b-c73775716312'
+  spotify: 'https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC'
+  wikipedia: 'https://en.wikipedia.org/wiki/Charlie_Parker'
 image_path: 03_Resources/source_material/ArtistPortraits/charlie_parker.jpg
 biography_enhanced_at: '2025-10-30T11:59:17.678473'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.nps.gov/people/charlie-parker.htm
-- https://historicmissourians.shsmo.org/charlie-parker/
-- https://en.wikipedia.org/wiki/Charlie_Parker
+  - 'https://www.nps.gov/people/charlie-parker.htm'
+  - 'https://historicmissourians.shsmo.org/charlie-parker/'
+  - 'https://en.wikipedia.org/wiki/Charlie_Parker'
 network_extracted: true
 entry_created: '2025-10-30T11:59:17.678482'
 last_updated: '2025-12-23T08:16:06.748433'
-disambiguation: aka “Bird”, jazz alto saxophonist
+disambiguation: 'aka “Bird”, jazz alto saxophonist'
 gender: Male
 musicbrainz_id: c7356af9-9ea6-4a78-a55b-c73775716312
 tags:
-- american
-- bebop
-- cool jazz
+  - american
+  - bebop
+  - cool jazz
+is_active: false
+origin: 'Kansas City, Missouri, United States'
 ---
 
 ![](charlie_parker.jpg)

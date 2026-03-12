@@ -3,14 +3,14 @@ title: Dil Fonseca
 wiki_slug: dil-fonseca
 schema_version: 2
 status: active
-birth_place: Salvador, Bahia, Brazil
+birth_place: 'Salvador, Bahia, Brazil'
 genres:
-- axé
+  - axé
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/dil_fonseca.jpg
   caption: Dil Fonseca
   background: solo_singer
-  origin: Salvador, Bahia, Brazil
+  origin: 'Salvador, Bahia, Brazil'
 audio_profile:
   tempo_avg: 118.3
   energy_avg: 0.479
@@ -26,43 +26,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lucinha Turnbull
+    - Lucinha Turnbull
   influenced:
-  - Pejigan Anderson de Bessen
+    - Pejigan Anderson de Bessen
   mentors:
-  - Moraes Moreira
+    - Moraes Moreira
 spotify_data:
   followers: 57
   id: 38GvCR8WjJqXOVzhdtAoWo
   popularity: 22
-  url: https://open.spotify.com/artist/38GvCR8WjJqXOVzhdtAoWo
+  url: 'https://open.spotify.com/artist/38GvCR8WjJqXOVzhdtAoWo'
 discography_enriched: true
 top_tracks:
-- Araáaye je nbo (O Banquete do Rei - Olubaje)
-- É ajeniniiya (O Banquete do Rei - Olubaje)
-- Opeéré ma dó péré (O Banquete do Rei - Olubaje)
-- Omulú kíí bé rú já (O Banquete do Rei - Olubaje)
-- Ó gbélé íko (O Banquete do Rei - Olubaje)
-- Olórí íjenííya a pádé (O Banquete do Rei - Olubaje)
-- Jó alé ijó (O Banquete do Rei - Olubaje)
-- Ágó n'ilé (O Banquete do Rei - Olubaje)
-- Ó ní a ló ijenííya (O Banquete do Rei - Olubaje)
-- Wúló ní wúló (O Banquete do Rei - Olubaje)
+  - Araáaye je nbo (O Banquete do Rei - Olubaje)
+  - É ajeniniiya (O Banquete do Rei - Olubaje)
+  - Opeéré ma dó péré (O Banquete do Rei - Olubaje)
+  - Omulú kíí bé rú já (O Banquete do Rei - Olubaje)
+  - Ó gbélé íko (O Banquete do Rei - Olubaje)
+  - Olórí íjenííya a pádé (O Banquete do Rei - Olubaje)
+  - Jó alé ijó (O Banquete do Rei - Olubaje)
+  - Ágó n'ilé (O Banquete do Rei - Olubaje)
+  - Ó ní a ló ijenííya (O Banquete do Rei - Olubaje)
+  - Wúló ní wúló (O Banquete do Rei - Olubaje)
 external_urls:
-  spotify: https://open.spotify.com/artist/38GvCR8WjJqXOVzhdtAoWo
+  spotify: 'https://open.spotify.com/artist/38GvCR8WjJqXOVzhdtAoWo'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/dil_fonseca.jpg
 biography_enhanced_at: '2025-11-16T20:19:48.577113'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://musicabrasileira.org/dil-fonseca-maruba/
-- https://www.offbeat.com/articles/katrina-genius/
-- https://open.spotify.com/artist/2zcTU9PWAke9u6ptYqAgfD
-- https://www.riotimesonline.com/brazil-news/rio-entertainment/the-story-of-axe-music-in-brazil/
+  - 'https://musicabrasileira.org/dil-fonseca-maruba/'
+  - 'https://www.offbeat.com/articles/katrina-genius/'
+  - 'https://open.spotify.com/artist/2zcTU9PWAke9u6ptYqAgfD'
+  - >-
+    https://www.riotimesonline.com/brazil-news/rio-entertainment/the-story-of-axe-music-in-brazil/
 network_extracted: true
 entry_created: '2025-11-16T20:19:48.577124'
 last_updated: '2025-12-23T08:16:07.774667'
+origin: 'Salvador, Bahia, Brazil'
+artist_type: person
 ---
 
 ![](dil_fonseca.jpg)

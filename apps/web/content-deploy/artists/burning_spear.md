@@ -2,58 +2,59 @@
 artist_type: person
 biography_enhanced_at: '2025-12-29T01:21:36.560770'
 birth_date: '1945-03-01'
-birth_place: Saint Ann's Bay
+birth_place: 'Saint Ann''s Bay, Saint Ann Parish, Jamaica'
 enhancement_provider: perplexity
 entry_created: '2025-12-29T01:21:36.560784'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/16dad944-c492-43dd-88ed-e0b7ac520c40
-  spotify: https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU
+  musicbrainz: 'https://musicbrainz.org/artist/16dad944-c492-43dd-88ed-e0b7ac520c40'
+  spotify: 'https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU'
   wikipedia: ''
 gender: Male
 genres:
-- roots reggae
-- reggae
-- dub
-- rocksteady
-- ragga
+  - roots reggae
+  - reggae
+  - dub
+  - rocksteady
+  - ragga
 image_path: 03_Resources/source_material/ArtistPortraits/burning_spear.jpg
 last_updated: '2025-12-29T01:21:36.560785'
 musical_connections:
   collaborators:
-  - Rupert Willington
-  - Delroy Hinds
-  - Cedric Brooks
-  - Aswad
-  - Black Disciples
+    - Rupert Willington
+    - Delroy Hinds
+    - Cedric Brooks
+    - Aswad
+    - Black Disciples
   influenced:
-  - Various roots reggae artists
+    - Various roots reggae artists
   mentors:
-  - Bob Marley
-  - Marcus Garvey
-  - Curtis Mayfield
-  - James Brown
+    - Bob Marley
+    - Marcus Garvey
+    - Curtis Mayfield
+    - James Brown
 musicbrainz_id: 16dad944-c492-43dd-88ed-e0b7ac520c40
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.gdp.fr/en/artistes/burning-spear
-- https://www.youtube.com/watch?v=bwjy5_pQfoI
-- https://www.last.fm/music/Burning+Spear/+wiki
-- https://primarywave.com/writer/burning-spear/
-- https://unitedreggae.com/artists/b/burning-spear,14/
-- https://www.udiscovermusic.com/artist/burning-spear/
-- https://vilarpac.org/blog/burning-spear/
-- https://reggaeneracija.me/2020/06/reggae-music-history-winston-rodney-burning-spear/
+  - 'https://www.gdp.fr/en/artistes/burning-spear'
+  - 'https://www.youtube.com/watch?v=bwjy5_pQfoI'
+  - 'https://www.last.fm/music/Burning+Spear/+wiki'
+  - 'https://primarywave.com/writer/burning-spear/'
+  - 'https://unitedreggae.com/artists/b/burning-spear,14/'
+  - 'https://www.udiscovermusic.com/artist/burning-spear/'
+  - 'https://vilarpac.org/blog/burning-spear/'
+  - >-
+    https://reggaeneracija.me/2020/06/reggae-music-history-winston-rodney-burning-spear/
 spotify_data:
   followers: 591378
   id: 6qaKS0nzGP4hfjl4aFZmEU
   popularity: 53
-  url: https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU
+  url: 'https://open.spotify.com/artist/6qaKS0nzGP4hfjl4aFZmEU'
 status: active
 tags:
-- 100th
-- classic pop and rock
-- reggae
+  - 100th
+  - classic pop and rock
+  - reggae
 title: Burning Spear
 ---
 

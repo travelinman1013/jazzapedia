@@ -1,58 +1,58 @@
 ---
-title: woody shaw
+title: Woody Shaw
 wiki_slug: woody-shaw
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1944-12-24'
-birth_place: Laurinburg
+birth_place: 'Laurinburg, North Carolina, United States'
 death_date: '1989-05-10'
 genres:
-- hard bop
-- jazz
-- latin jazz
-- bebop
+  - hard bop
+  - jazz
+  - latin jazz
+  - bebop
 instruments:
-- eponymous
-- flugelhorn
-- original
-- trumpet
-- spoken vocals
+  - eponymous
+  - flugelhorn
+  - original
+  - trumpet
+  - spoken vocals
 associated_acts:
-- begin: '1977'
-  end: '1989-05-10'
-  instruments:
-  - eponymous
-  - flugelhorn
-  - original
-  mbid: fdbbd097-5bd8-4fd8-ae76-f6d4f6308b71
-  name: Woody Shaw Quintet
-- begin: '1977'
-  end: '1989-05-10'
-  instruments:
-  - eponymous
-  - original
-  - trumpet
-  mbid: fdbbd097-5bd8-4fd8-ae76-f6d4f6308b71
-  name: Woody Shaw Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: 189b00ee-8866-48ca-bae3-08939d13ef5e
-  name: Mark Levine Nonet
-- begin: ''
-  end: ''
-  instruments:
-  - flugelhorn
-  mbid: 44e18e90-8151-48da-8fac-c2692a94e715
-  name: Woody Shaw Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: 44e18e90-8151-48da-8fac-c2692a94e715
-  name: Woody Shaw Quartet
+  - begin: '1977'
+    end: '1989-05-10'
+    instruments:
+      - eponymous
+      - flugelhorn
+      - original
+    mbid: fdbbd097-5bd8-4fd8-ae76-f6d4f6308b71
+    name: Woody Shaw Quintet
+  - begin: '1977'
+    end: '1989-05-10'
+    instruments:
+      - eponymous
+      - original
+      - trumpet
+    mbid: fdbbd097-5bd8-4fd8-ae76-f6d4f6308b71
+    name: Woody Shaw Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: 189b00ee-8866-48ca-bae3-08939d13ef5e
+    name: Mark Levine Nonet
+  - begin: ''
+    end: ''
+    instruments:
+      - flugelhorn
+    mbid: 44e18e90-8151-48da-8fac-c2692a94e715
+    name: Woody Shaw Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: 44e18e90-8151-48da-8fac-c2692a94e715
+    name: Woody Shaw Quartet
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/woody_shaw.jpg
   caption: woody shaw
@@ -75,59 +75,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Larry Young
-  - McCoy Tyner
-  - Art Blakey
-  - Herbie Hancock
-  - Willie Bobo
+    - Larry Young
+    - McCoy Tyner
+    - Art Blakey
+    - Herbie Hancock
+    - Willie Bobo
   influenced:
-  - Wynton Marsalis
-  - Terence Blanchard
-  - Brian Lynch
+    - Wynton Marsalis
+    - Terence Blanchard
+    - Brian Lynch
   mentors:
-  - Eric Dolphy
-  - Jerome Ziering
-  - Horace Silver
+    - Eric Dolphy
+    - Jerome Ziering
+    - Horace Silver
 spotify_data:
   followers: 26590
   id: 0yvEf1tqWWPiZu4ZbjyKGs
   popularity: 23
-  url: https://open.spotify.com/artist/0yvEf1tqWWPiZu4ZbjyKGs
+  url: 'https://open.spotify.com/artist/0yvEf1tqWWPiZu4ZbjyKGs'
 discography_enriched: true
 top_tracks:
-- 'Theme for Maxine - Live (Stepping Stones: Live At The Village Vanguard)'
-- Stormy Weather (Imagination)
-- There Will Never Be Another You (Solid)
-- Organ Grinder (Woody III)
-- From Moment To Moment (Time Is Right)
-- The Woody Woodpecker Song (Solid)
-- Rahsan's Run (Lotus Flower)
-- Katerina Ballerina (United)
-- Sandu (Double Take)
-- Theme for Maxine (Rosewood)
+  - 'Theme for Maxine - Live (Stepping Stones: Live At The Village Vanguard)'
+  - Stormy Weather (Imagination)
+  - There Will Never Be Another You (Solid)
+  - Organ Grinder (Woody III)
+  - From Moment To Moment (Time Is Right)
+  - The Woody Woodpecker Song (Solid)
+  - Rahsan's Run (Lotus Flower)
+  - Katerina Ballerina (United)
+  - Sandu (Double Take)
+  - Theme for Maxine (Rosewood)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5cdab4ea-500b-4bcf-a5fc-92e8eb2b6ad6
-  spotify: https://open.spotify.com/artist/0yvEf1tqWWPiZu4ZbjyKGs
-  wikipedia: https://en.wikipedia.org/wiki/Woody_Shaw
+  musicbrainz: 'https://musicbrainz.org/artist/5cdab4ea-500b-4bcf-a5fc-92e8eb2b6ad6'
+  spotify: 'https://open.spotify.com/artist/0yvEf1tqWWPiZu4ZbjyKGs'
+  wikipedia: 'https://en.wikipedia.org/wiki/Woody_Shaw'
 image_path: 03_Resources/source_material/ArtistPortraits/woody_shaw.jpg
 biography_enhanced_at: '2025-10-30T11:58:14.216331'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Woody_Shaw
-- https://www.bluenote.com/artist/woody-shaw/
-- https://wbssmedia.com/artists/detail/3227
-- https://jazzdiscography.com/Artists/Blakey/woody.htm
-- https://www.jazzline-leopard.de/index.php/en/jazzline-en-menu/jazzline-onkel-poe/51-woody-shaw
+  - 'https://en.wikipedia.org/wiki/Woody_Shaw'
+  - 'https://www.bluenote.com/artist/woody-shaw/'
+  - 'https://wbssmedia.com/artists/detail/3227'
+  - 'https://jazzdiscography.com/Artists/Blakey/woody.htm'
+  - >-
+    https://www.jazzline-leopard.de/index.php/en/jazzline-en-menu/jazzline-onkel-poe/51-woody-shaw
 network_extracted: true
 entry_created: '2025-10-30T11:58:14.216342'
 last_updated: '2025-12-23T08:16:18.291825'
 gender: Male
 musicbrainz_id: 5cdab4ea-500b-4bcf-a5fc-92e8eb2b6ad6
 tags:
-- avant-garde jazz
-- hard bop
-- jazz
+  - avant-garde jazz
+  - hard bop
+  - jazz
+is_active: false
+origin: 'Newark, New Jersey, United States'
 ---
 
 ![](woody_shaw.jpg)

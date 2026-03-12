@@ -23,47 +23,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Aaron Aranita
-  - David Yamasaki
-  - Scott Shafer
+    - Aaron Aranita
+    - David Yamasaki
+    - Scott Shafer
   influenced:
-  - Emerging Honolulu jazz musicians
+    - Emerging Honolulu jazz musicians
   mentors:
-  - Local Honolulu jazz educators
+    - Local Honolulu jazz educators
 spotify_data:
   followers: 33
   id: 1ja6jq4q82TCOtBCKGfMPE
   popularity: 7
-  url: https://open.spotify.com/artist/1ja6jq4q82TCOtBCKGfMPE
+  url: 'https://open.spotify.com/artist/1ja6jq4q82TCOtBCKGfMPE'
 discography_enriched: true
 top_tracks:
-- Make A Mill (Creatively Upset)
-- Humpty Dumpty
-- North Pole Strip Club
-- Jingle Balls
-- One Thing (Intro) (Concepts Of A Plan)
-- Meladelic (Concepts Of A Plan)
-- Passcode (Concepts Of A Plan)
-- Ready (Concepts Of A Plan)
-- Circles (Concepts Of A Plan)
-- If Life Was Chess (Concepts Of A Plan)
+  - Make A Mill (Creatively Upset)
+  - Humpty Dumpty
+  - North Pole Strip Club
+  - Jingle Balls
+  - One Thing (Intro) (Concepts Of A Plan)
+  - Meladelic (Concepts Of A Plan)
+  - Passcode (Concepts Of A Plan)
+  - Ready (Concepts Of A Plan)
+  - Circles (Concepts Of A Plan)
+  - If Life Was Chess (Concepts Of A Plan)
 external_urls:
-  spotify: https://open.spotify.com/artist/1ja6jq4q82TCOtBCKGfMPE
+  spotify: 'https://open.spotify.com/artist/1ja6jq4q82TCOtBCKGfMPE'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/groovology.jpg
 biography_enhanced_at: '2025-11-15T18:14:55.267269'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.groovologyhawaii.com
-- https://www.groovologyhawaii.com/about
-- https://www.paris-move.com/reviews/groovology-almost-home-eng-review/
-- https://www.makingascene.org/groovology-almost-home/
-- https://www.youtube.com/watch?v=SxqKn_Uq_hk
+  - 'https://www.groovologyhawaii.com'
+  - 'https://www.groovologyhawaii.com/about'
+  - 'https://www.paris-move.com/reviews/groovology-almost-home-eng-review/'
+  - 'https://www.makingascene.org/groovology-almost-home/'
+  - 'https://www.youtube.com/watch?v=SxqKn_Uq_hk'
 network_extracted: true
 entry_created: '2025-11-15T18:14:55.267280'
 last_updated: '2025-12-23T08:16:09.362729'
-origin: Honolulu, Hawaii, United States
+origin: 'Honolulu, Hawaii, United States'
+artist_type: band
 ---
 
 ![](groovology.jpg)

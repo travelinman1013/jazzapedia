@@ -1,21 +1,21 @@
 ---
-title: robert gordon
+title: Robert Gordon
 wiki_slug: robert-gordon
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1947-03-29'
-birth_place: Bethesda
+birth_place: 'Bethesda, Maryland, United States'
 death_date: '2022-10-18'
 genres:
-- rockabilly
-- psychobilly
-- boogie-woogie
-- rock and roll
+  - rockabilly
+  - psychobilly
+  - boogie-woogie
+  - rock and roll
 instruments:
-- guitar
-- lead vocals
-- background vocals
+  - guitar
+  - lead vocals
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/robert_gordon.jpg
   caption: robert gordon
@@ -38,50 +38,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Link Wray
-  - Richard Gottehrer
-  - Danny Gatton
-  - Marshall Crenshaw
-  - Chris Spedding
-  - Slim Jim Phantom
-  - Glen Matlock
+    - Link Wray
+    - Richard Gottehrer
+    - Danny Gatton
+    - Marshall Crenshaw
+    - Chris Spedding
+    - Slim Jim Phantom
+    - Glen Matlock
   influenced:
-  - Stray Cats
-  - Psychobilly artists
+    - Stray Cats
+    - Psychobilly artists
   mentors:
-  - Elvis Presley
-  - Gene Vincent
-  - Eddie Cochran
+    - Elvis Presley
+    - Gene Vincent
+    - Eddie Cochran
 spotify_data:
   followers: 27777
   id: 1coQ4GcxuazfjZ0MP9JnBF
   popularity: 31
-  url: https://open.spotify.com/artist/1coQ4GcxuazfjZ0MP9JnBF
+  url: 'https://open.spotify.com/artist/1coQ4GcxuazfjZ0MP9JnBF'
 discography_enriched: true
 top_tracks:
-- Rock Billy Boogie (Rock Billy Boogie)
-- But, But (Are You Gonna Be the One (Bonus Tracks))
-- The Way I Walk (Fresh Fish Special (with Link Wray))
-- It's Only Make Believe (Rock Billy Boogie)
-- Red Hot (Robert Gordon with Link Wray (with Link Wray))
-- Lover Boy (Are You Gonna Be the One (Bonus Tracks))
-- Born To Lose (Bad Boy)
-- Red Cadillac and a Black Moustache (with Link Wray) (Fresh Fish Special (with Link Wray))
-- Fire (Fresh Fish Special (with Link Wray))
-- Black Slacks (Rock Billy Boogie)
+  - Rock Billy Boogie (Rock Billy Boogie)
+  - 'But, But (Are You Gonna Be the One (Bonus Tracks))'
+  - The Way I Walk (Fresh Fish Special (with Link Wray))
+  - It's Only Make Believe (Rock Billy Boogie)
+  - Red Hot (Robert Gordon with Link Wray (with Link Wray))
+  - Lover Boy (Are You Gonna Be the One (Bonus Tracks))
+  - Born To Lose (Bad Boy)
+  - >-
+    Red Cadillac and a Black Moustache (with Link Wray) (Fresh Fish Special
+    (with Link Wray))
+  - Fire (Fresh Fish Special (with Link Wray))
+  - Black Slacks (Rock Billy Boogie)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/259a8d5f-d323-4b1c-897a-35ffdd7922c5
-  spotify: https://open.spotify.com/artist/1coQ4GcxuazfjZ0MP9JnBF
-  wikipedia: https://en.wikipedia.org/wiki/Robert_Gordon_(singer)
+  musicbrainz: 'https://musicbrainz.org/artist/259a8d5f-d323-4b1c-897a-35ffdd7922c5'
+  spotify: 'https://open.spotify.com/artist/1coQ4GcxuazfjZ0MP9JnBF'
+  wikipedia: 'https://en.wikipedia.org/wiki/Robert_Gordon_(singer)'
 image_path: 03_Resources/source_material/ArtistPortraits/robert_gordon.jpg
 biography_enhanced_at: '2025-11-20T07:25:09.531205'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.guitarplayer.com/players/robert-gordon-rockabilly-revival
-- https://en.wikipedia.org/wiki/Robert_Gordon_(singer)
-- https://www.imdb.com/name/nm0330561/bio/
-- https://postpunkmonk.com/2022/10/21/robert-gordon-1947-1922/
+  - 'https://www.guitarplayer.com/players/robert-gordon-rockabilly-revival'
+  - 'https://en.wikipedia.org/wiki/Robert_Gordon_(singer)'
+  - 'https://www.imdb.com/name/nm0330561/bio/'
+  - 'https://postpunkmonk.com/2022/10/21/robert-gordon-1947-1922/'
 network_extracted: true
 entry_created: '2025-11-20T07:25:09.531216'
 last_updated: '2025-12-23T08:16:14.897714'
@@ -89,8 +91,10 @@ disambiguation: US rockabilly singer
 gender: Male
 musicbrainz_id: 259a8d5f-d323-4b1c-897a-35ffdd7922c5
 tags:
-- rock & roll
-- rockabilly
+  - rock & roll
+  - rockabilly
+is_active: false
+origin: 'Washington, D.C., District of Columbia, United States'
 ---
 
 ![](robert_gordon.jpg)

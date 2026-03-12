@@ -3,15 +3,15 @@ title: Walter Wolfman Washington
 wiki_slug: walter-wolfman-washington
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, USA'
 genres:
-- soul blues
-- blues
+  - soul blues
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Walter_Wolfman_Washington.jpg
   caption: Walter Wolfman Washington
   background: solo_singer
-  origin: New Orleans, Louisiana, USA
+  origin: 'New Orleans, Louisiana, USA'
 audio_profile:
   tempo_avg: 116.7
   energy_avg: 0.521
@@ -27,48 +27,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lee Dorsey
-  - Irma Thomas
-  - Johnny Adams
-  - Joe Krown and Russell Batiste Jr.
+    - Lee Dorsey
+    - Irma Thomas
+    - Johnny Adams
+    - Joe Krown and Russell Batiste Jr.
   influenced:
-  - Not specified
+    - Not specified
   mentors:
-  - Guitar Slim and Lightnin' Slim
-  - Local radio station guitarist
+    - Guitar Slim and Lightnin' Slim
+    - Local radio station guitarist
 spotify_data:
   followers: 6634
   id: 60TxtNQBbDL8HKL0b6Gm3T
   popularity: 16
-  url: https://open.spotify.com/artist/60TxtNQBbDL8HKL0b6Gm3T
+  url: 'https://open.spotify.com/artist/60TxtNQBbDL8HKL0b6Gm3T'
 discography_enriched: true
 top_tracks:
-- You Can Stay But The Noise Must Go On (Out Of The Dark)
-- Landslide (Doin' The Funky Thing)
-- Steal Away (My Future Is My Past)
-- I Want To Know (Soul Gumbo)
-- Even Now (My Future Is My Past)
-- She's Everything To Me (My Future Is My Past)
-- It's Rainin' In My Life (The Wolfman's Songs - [The Dave Cash Collection])
-- Out Of The Dark (Out Of The Dark)
-- User Me (Blue Moon Risin')
-- Body And Fender Man (Room With A View Of The Blues)
+  - You Can Stay But The Noise Must Go On (Out Of The Dark)
+  - Landslide (Doin' The Funky Thing)
+  - Steal Away (My Future Is My Past)
+  - I Want To Know (Soul Gumbo)
+  - Even Now (My Future Is My Past)
+  - She's Everything To Me (My Future Is My Past)
+  - 'It''s Rainin'' In My Life (The Wolfman''s Songs - [The Dave Cash Collection])'
+  - Out Of The Dark (Out Of The Dark)
+  - User Me (Blue Moon Risin')
+  - Body And Fender Man (Room With A View Of The Blues)
 external_urls:
-  spotify: https://open.spotify.com/artist/60TxtNQBbDL8HKL0b6Gm3T
-  wikipedia: https://en.wikipedia.org/wiki/Walter_%22Wolfman%22_Washington
+  spotify: 'https://open.spotify.com/artist/60TxtNQBbDL8HKL0b6Gm3T'
+  wikipedia: 'https://en.wikipedia.org/wiki/Walter_%22Wolfman%22_Washington'
 image_path: 03_Resources/source_material/ArtistPortraits/Walter_Wolfman_Washington.jpg
 biography_enhanced_at: '2025-10-20T09:25:52.640013'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- 'Walter Wolfman Washington: HOME'
-- SoulBluesMusic.com
-- NAMM.org
-- Richmond Folk Festival
-- Music Inside Out
+  - 'Walter Wolfman Washington: HOME'
+  - SoulBluesMusic.com
+  - NAMM.org
+  - Richmond Folk Festival
+  - Music Inside Out
 network_extracted: true
 entry_created: '2025-10-20T09:25:52.640126'
 last_updated: '2025-12-23T08:16:04.268917'
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1943-12-21'
+death_date: '2022-12-22'
+artist_type: person
 ---
 
 ![](Walter_Wolfman_Washington.jpg)

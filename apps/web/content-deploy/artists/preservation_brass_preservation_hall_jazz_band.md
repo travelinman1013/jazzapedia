@@ -1,15 +1,16 @@
 ---
-title: Preservation Brass, Preservation Hall Jazz Band
+title: 'Preservation Brass, Preservation Hall Jazz Band'
 wiki_slug: preservation-brass-preservation-hall-jazz-band
 schema_version: 2
 status: active
 genres:
-- swing music
-- ragtime
-- jazz
+  - swing music
+  - ragtime
+  - jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/preservation_brass_preservation_hall_jazz_band.jpg
-  caption: Preservation Brass, Preservation Hall Jazz Band
+  image: >-
+    03_Resources/source_material/ArtistPortraits/preservation_brass_preservation_hall_jazz_band.jpg
+  caption: 'Preservation Brass, Preservation Hall Jazz Band'
   background: solo_singer
 audio_profile:
   tempo_avg: 122.4
@@ -26,52 +27,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sweet Emma Barrett
-  - Billie and De De Pierce
-  - Willie and Percy Humphrey
-  - Grateful Dead
-  - King of Thailand (Bhumibol Adulyadej)
+    - Sweet Emma Barrett
+    - Billie and De De Pierce
+    - Willie and Percy Humphrey
+    - Grateful Dead
+    - King of Thailand (Bhumibol Adulyadej)
   influenced:
-  - Wendell Brunious
-  - Michael White
-  - Benjamin Jaffe
+    - Wendell Brunious
+    - Michael White
+    - Benjamin Jaffe
   mentors:
-  - Buddy Bolden
-  - Jelly Roll Morton
-  - Louis Armstrong
+    - Buddy Bolden
+    - Jelly Roll Morton
+    - Louis Armstrong
 spotify_data:
   followers: 85990
   id: 2S0rCVs10P1Q0v51wmOrM5
   popularity: 40
-  url: https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5
+  url: 'https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5'
 discography_enriched: true
 top_tracks:
-- That's It! (That's It!)
-- Between The Devil & The Deep Blue Sea (An Album To Benefit Preservation Hall & The Preservation Hall Music Outreach Program)
-- Choko Mo Feel No Hey (New Orleans Preservation, Vol. 1)
-- Summertime (Songs of New Orleans)
-- Having A Party - Live (Live At Red Rocks)
-- Tootie Ma Is A Big Fine Thing (50th Anniversary Collection)
-- Short Dressed Gal (New Orleans Preservation, Vol. 1)
-- Bill Bailey Won't You Please Come Home (For Fat Man)
-- Kreyol (A Tuba to Cuba)
-- Basin Street Blues (Songs of New Orleans)
+  - That's It! (That's It!)
+  - >-
+    Between The Devil & The Deep Blue Sea (An Album To Benefit Preservation Hall
+    & The Preservation Hall Music Outreach Program)
+  - 'Choko Mo Feel No Hey (New Orleans Preservation, Vol. 1)'
+  - Summertime (Songs of New Orleans)
+  - Having A Party - Live (Live At Red Rocks)
+  - Tootie Ma Is A Big Fine Thing (50th Anniversary Collection)
+  - 'Short Dressed Gal (New Orleans Preservation, Vol. 1)'
+  - Bill Bailey Won't You Please Come Home (For Fat Man)
+  - Kreyol (A Tuba to Cuba)
+  - Basin Street Blues (Songs of New Orleans)
 external_urls:
-  spotify: https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5
-  wikipedia: https://en.wikipedia.org/wiki/Preservation_Hall_Jazz_Band
-image_path: 03_Resources/source_material/ArtistPortraits/preservation_brass_preservation_hall_jazz_band.jpg
+  spotify: 'https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5'
+  wikipedia: 'https://en.wikipedia.org/wiki/Preservation_Hall_Jazz_Band'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/preservation_brass_preservation_hall_jazz_band.jpg
 biography_enhanced_at: '2025-10-26T12:26:39.632990'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://musicrising.tulane.edu/discover/people/preservation-hall-jazz-band/
-- https://frenchquarterly.com/music/preservation-hall-preserving-new-orleans-jazz
-- https://www.arts.gov/honors/medals/preservation-hall-jazz-band
+  - 'https://musicrising.tulane.edu/discover/people/preservation-hall-jazz-band/'
+  - >-
+    https://frenchquarterly.com/music/preservation-hall-preserving-new-orleans-jazz
+  - 'https://www.arts.gov/honors/medals/preservation-hall-jazz-band'
 network_extracted: true
 entry_created: '2025-10-26T12:26:39.632999'
 last_updated: '2025-12-23T08:16:14.432251'
-origin: New Orleans, Louisiana, United States
-
+origin: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![](preservation_brass_preservation_hall_jazz_band.jpg)

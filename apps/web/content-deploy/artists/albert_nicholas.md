@@ -3,16 +3,16 @@ title: Albert Nicholas
 wiki_slug: albert-nicholas
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- ragtime
-- swing music
-- jazz
+  - ragtime
+  - swing music
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/albert_nicholas.jpg
   caption: Albert Nicholas
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 114.5
   energy_avg: 0.385
@@ -28,54 +28,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - King Oliver
-  - Luis Russell
-  - Louis Armstrong
-  - Jelly Roll Morton
-  - Bunk Johnson
-  - Kid Ory
-  - Art Hodes
-  - Ralph Sutton
+    - King Oliver
+    - Luis Russell
+    - Louis Armstrong
+    - Jelly Roll Morton
+    - Bunk Johnson
+    - Kid Ory
+    - Art Hodes
+    - Ralph Sutton
   influenced:
-  - Barry Martyn
-  - European traditional jazz musicians
+    - Barry Martyn
+    - European traditional jazz musicians
   mentors:
-  - Lorenzo Tio, Jr.
+    - 'Lorenzo Tio, Jr.'
 spotify_data:
   followers: 1149
   id: 6VeTIJi6Dlx8ywPfIwqALY
   popularity: 15
-  url: https://open.spotify.com/artist/6VeTIJi6Dlx8ywPfIwqALY
+  url: 'https://open.spotify.com/artist/6VeTIJi6Dlx8ywPfIwqALY'
 discography_enriched: true
 top_tracks:
-- Bechet's Fantasy
-- Blame It On The Blues - Alternate Take
-- Old Stack O'Lee Blues
-- Blame It On The Blues - Alternate Take (Jazz Classics)
-- Old Stack O'Lee Blues (Jazz Classics)
-- Saratoga Drag (The Luis Russell Story)
-- Ain't Misbehavin' - Live (Baden 1969)
-- The New Call Of The Freaks (The Luis Russell Story)
-- C Jam Blues - Live (Baden 1969)
-- Lover Come Back (Albert Nicholas with Alan Elsdon's Band, Vol. 1)
+  - Bechet's Fantasy
+  - Blame It On The Blues - Alternate Take
+  - Old Stack O'Lee Blues
+  - Blame It On The Blues - Alternate Take (Jazz Classics)
+  - Old Stack O'Lee Blues (Jazz Classics)
+  - Saratoga Drag (The Luis Russell Story)
+  - Ain't Misbehavin' - Live (Baden 1969)
+  - The New Call Of The Freaks (The Luis Russell Story)
+  - C Jam Blues - Live (Baden 1969)
+  - 'Lover Come Back (Albert Nicholas with Alan Elsdon''s Band, Vol. 1)'
 external_urls:
-  spotify: https://open.spotify.com/artist/6VeTIJi6Dlx8ywPfIwqALY
-  wikipedia: https://en.wikipedia.org/wiki/Albert_Nicholas
+  spotify: 'https://open.spotify.com/artist/6VeTIJi6Dlx8ywPfIwqALY'
+  wikipedia: 'https://en.wikipedia.org/wiki/Albert_Nicholas'
 image_path: 03_Resources/source_material/ArtistPortraits/albert_nicholas.jpg
 biography_enhanced_at: '2025-10-25T09:51:05.953695'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Albert_Nicholas
-- https://www.realbooksoftware.com/albert_nicholas/
-- https://fromthevaults-boppinbob.blogspot.com/2023/05/albert-nicholas-born-27-may.html
-- https://syncopatedtimes.com/albert-nicholas-alberts-blues-the-44-gerrard-st-session/
-- https://syncopatedtimes.com/albert-nicholas-alberts-back-in-town/
-- https://musicrising.tulane.edu/discover/people/albert-nicholas/
-- http://www.doctorjazz.co.uk/rogernich.html
+  - 'https://en.wikipedia.org/wiki/Albert_Nicholas'
+  - 'https://www.realbooksoftware.com/albert_nicholas/'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2023/05/albert-nicholas-born-27-may.html
+  - >-
+    https://syncopatedtimes.com/albert-nicholas-alberts-blues-the-44-gerrard-st-session/
+  - 'https://syncopatedtimes.com/albert-nicholas-alberts-back-in-town/'
+  - 'https://musicrising.tulane.edu/discover/people/albert-nicholas/'
+  - 'http://www.doctorjazz.co.uk/rogernich.html'
 network_extracted: true
 entry_created: '2025-10-25T09:51:05.953710'
 last_updated: '2025-12-23T08:16:04.507059'
+birth_date: '1900-05-27'
+death_date: '1973-09-03'
+artist_type: person
 ---
 
 ![](albert_nicholas.jpg)

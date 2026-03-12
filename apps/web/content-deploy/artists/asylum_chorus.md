@@ -1,5 +1,5 @@
 ---
-title: asylum chorus
+title: The Asylum Chorus
 wiki_slug: asylum-chorus
 schema_version: 2
 status: active
@@ -14,7 +14,7 @@ audio_profile:
   valence_avg: 0.546
   danceability_avg: 0.656
   acousticness_avg: 0.472
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -7.7
   speechiness_avg: 0.05
   liveness_avg: 0.18
@@ -23,46 +23,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Leon Russell
-  - Marc Benno
-  - Jesse Ed Davis
-  - Chuck Blackwell
-  - Carl Radle
-  - Donald Dunn
+    - Leon Russell
+    - Marc Benno
+    - Jesse Ed Davis
+    - Chuck Blackwell
+    - Carl Radle
+    - Donald Dunn
   influenced: []
   mentors: []
 spotify_data:
   followers: 62
   id: 1N0xPc4s09R1Wnffz7F17O
   popularity: 0
-  url: https://open.spotify.com/artist/1N0xPc4s09R1Wnffz7F17O
+  url: 'https://open.spotify.com/artist/1N0xPc4s09R1Wnffz7F17O'
 discography_enriched: true
 top_tracks:
-- Get That Get Back (Blue Sunshine)
-- Spot Removal (Blue Sunshine)
-- Calling (Blue Sunshine)
-- Leave That Phone Alone (Blue Sunshine)
-- Changing Time (Blue Sunshine)
-- Something to Burn (Blue Sunshine)
-- Sunshine (Blue Sunshine)
-- Make This World Better (Take a Piece)
-- Sway You (Take a Piece)
-- Take a Piece (Take a Piece)
+  - Get That Get Back (Blue Sunshine)
+  - Spot Removal (Blue Sunshine)
+  - Calling (Blue Sunshine)
+  - Leave That Phone Alone (Blue Sunshine)
+  - Changing Time (Blue Sunshine)
+  - Something to Burn (Blue Sunshine)
+  - Sunshine (Blue Sunshine)
+  - Make This World Better (Take a Piece)
+  - Sway You (Take a Piece)
+  - Take a Piece (Take a Piece)
 external_urls:
-  spotify: https://open.spotify.com/artist/1N0xPc4s09R1Wnffz7F17O
-  wikipedia: https://en.wikipedia.org/wiki/The_Asylum_Choir
+  spotify: 'https://open.spotify.com/artist/1N0xPc4s09R1Wnffz7F17O'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Asylum_Choir'
 image_path: 03_Resources/source_material/ArtistPortraits/asylum_chorus.jpg
 biography_enhanced_at: '2025-10-20T08:54:23.472745'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia
-- AllMusic
-- JazzRockSoul.com
+  - Wikipedia
+  - AllMusic
+  - JazzRockSoul.com
 network_extracted: true
 entry_created: '2025-10-20T08:54:23.472758'
 last_updated: '2025-12-23T08:16:04.985874'
-origin: Los Angeles, California, United States
+origin: 'Los Angeles, California, United States'
+artist_type: person
 ---
 
 ![](asylum_chorus.jpg)

@@ -1,22 +1,22 @@
 ---
-title: big sam's funky nation
+title: Big Sam's Funky Nation
 wiki_slug: big-sams-funky-nation
 schema_version: 2
 status: active
 genres:
-- jazz funk
+  - jazz funk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/big_sams_funky_nation.jpg
   caption: big sam's funky nation
   background: solo_singer
 audio_profile:
-  tempo_avg: 114.0
+  tempo_avg: 114
   energy_avg: 0.819
   valence_avg: 0.728
   danceability_avg: 0.68
   acousticness_avg: 0.154
   instrumentalness_avg: 0.177
-  loudness_avg: -6.0
+  loudness_avg: -6
   speechiness_avg: 0.103
   liveness_avg: 0.136
   track_count: 51
@@ -24,52 +24,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Allen Toussaint
-  - Elvis Costello
-  - Dirty Dozen Brass Band
-  - Stooges Brass Band
-  - Dave Matthews
-  - Widespread Panic
-  - Karl Denson
+    - Allen Toussaint
+    - Elvis Costello
+    - Dirty Dozen Brass Band
+    - Stooges Brass Band
+    - Dave Matthews
+    - Widespread Panic
+    - Karl Denson
   influenced:
-  - Troy "Trombone Shorty" Andrews
+    - Troy "Trombone Shorty" Andrews
   mentors:
-  - Kidd Jordan
+    - Kidd Jordan
 spotify_data:
   followers: 13565
   id: 6Ydc3Hjjy7W964wZm2NX7G
   popularity: 13
-  url: https://open.spotify.com/artist/6Ydc3Hjjy7W964wZm2NX7G
+  url: 'https://open.spotify.com/artist/6Ydc3Hjjy7W964wZm2NX7G'
 discography_enriched: true
 top_tracks:
-- Come Down To New Orleans (Take Me Back)
-- Funky Donkey (Funky Donkey)
-- New Funk (Birth Of A Nation)
-- Blessed be the Fruit (Blessed be the Fruit)
-- Tweet (Evolution)
-- Alegria (Birth Of A Nation)
-- Feet On The Floor (Feet On The Floor)
-- Big Ole Booty (King Of The Party)
-- Mardi Gras in New Orleans (Mardi Gras in New Orleans)
-- My Relationship (My Relationship)
+  - Come Down To New Orleans (Take Me Back)
+  - Funky Donkey (Funky Donkey)
+  - New Funk (Birth Of A Nation)
+  - Blessed be the Fruit (Blessed be the Fruit)
+  - Tweet (Evolution)
+  - Alegria (Birth Of A Nation)
+  - Feet On The Floor (Feet On The Floor)
+  - Big Ole Booty (King Of The Party)
+  - Mardi Gras in New Orleans (Mardi Gras in New Orleans)
+  - My Relationship (My Relationship)
 external_urls:
-  spotify: https://open.spotify.com/artist/6Ydc3Hjjy7W964wZm2NX7G
-  wikipedia: https://en.wikipedia.org/wiki/Big_Sam_(musician)
+  spotify: 'https://open.spotify.com/artist/6Ydc3Hjjy7W964wZm2NX7G'
+  wikipedia: 'https://en.wikipedia.org/wiki/Big_Sam_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/big_sams_funky_nation.jpg
 biography_enhanced_at: '2025-10-19T10:35:10.752327'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.thekurlandagency.com/materials/bios/BigSam'sFunkyNation.pdf
-- https://eguidemagazine.com/big-sams-funky-nation-with-liberty-and-funk-for-all/
-- https://en.wikipedia.org/wiki/Big_Sam_(musician)
-- https://rhythmandroots.com/artists/big-sams-funky-nation/
-- https://www.bigsamsfunkynation.com/home
+  - 'https://www.thekurlandagency.com/materials/bios/BigSam''sFunkyNation.pdf'
+  - >-
+    https://eguidemagazine.com/big-sams-funky-nation-with-liberty-and-funk-for-all/
+  - 'https://en.wikipedia.org/wiki/Big_Sam_(musician)'
+  - 'https://rhythmandroots.com/artists/big-sams-funky-nation/'
+  - 'https://www.bigsamsfunkynation.com/home'
 network_extracted: true
 entry_created: '2025-10-19T10:35:10.752345'
 last_updated: '2025-12-23T08:16:05.470969'
-origin: New Orleans, Louisiana, United States
-
+origin: 'New Orleans, Louisiana, United States'
+birth_place: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](big_sams_funky_nation.jpg)

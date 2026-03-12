@@ -1,10 +1,10 @@
 ---
-title: carter brothers
+title: Carter Brothers
 wiki_slug: carter-brothers
 schema_version: 2
 status: active
 genres:
-- northern soul
+  - northern soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/carter_brothers.jpg
   caption: carter brothers
@@ -30,33 +30,38 @@ spotify_data:
   followers: 205
   id: 37LGHQhWsBTZH5zDiw1CIi
   popularity: 3
-  url: https://open.spotify.com/artist/37LGHQhWsBTZH5zDiw1CIi
+  url: 'https://open.spotify.com/artist/37LGHQhWsBTZH5zDiw1CIi'
 discography_enriched: true
 top_tracks:
-- (She's So Fine) So Glad She's Mine ((She's so Fine) So Glad She's Mine / Booby Trap Baby)
-- Roast Possum (The Essential)
-- (She's so Fine) So Glad She's Mine (The Northern Soul Of Jewel-Paula-Ronn)
-- I'm Not to Blame (More Boss Black Rockers, Vol. 7 - Bim Bam Boom)
-- Don't Pity Me (The Jewel/Paula Soul Story)
-- Booze In The Bottle (Devil's Blues - New Edition)
-- Mississippi Low Down (The Most Underrated Blues Players Ever!)
-- Southern Country Boy (The Carter Brothers)
-- Why Baby Why (The Carter Brothers)
-- What You Say Big Mama (The Carter Brothers)
+  - >-
+    (She's So Fine) So Glad She's Mine ((She's so Fine) So Glad She's Mine /
+    Booby Trap Baby)
+  - Roast Possum (The Essential)
+  - (She's so Fine) So Glad She's Mine (The Northern Soul Of Jewel-Paula-Ronn)
+  - 'I''m Not to Blame (More Boss Black Rockers, Vol. 7 - Bim Bam Boom)'
+  - Don't Pity Me (The Jewel/Paula Soul Story)
+  - Booze In The Bottle (Devil's Blues - New Edition)
+  - Mississippi Low Down (The Most Underrated Blues Players Ever!)
+  - Southern Country Boy (The Carter Brothers)
+  - Why Baby Why (The Carter Brothers)
+  - What You Say Big Mama (The Carter Brothers)
 external_urls:
-  spotify: https://open.spotify.com/artist/37LGHQhWsBTZH5zDiw1CIi
+  spotify: 'https://open.spotify.com/artist/37LGHQhWsBTZH5zDiw1CIi'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/carter_brothers.jpg
 biography_enhanced_at: '2025-12-19T01:58:09.374457'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- 'AllMusic: https://www.allmusic.com/artist/the-carter-brothers-mn0000761779[3]'
-- 'Spotify Context (Genres: northern soul, Popularity: 3)'
+  - >-
+    AllMusic:
+    https://www.allmusic.com/artist/the-carter-brothers-mn0000761779[3]
+  - 'Spotify Context (Genres: northern soul, Popularity: 3)'
 network_extracted: true
 entry_created: '2025-12-19T01:58:09.374472'
 last_updated: '2025-12-23T08:16:06.530170'
-origin: Garland, Alabama, United States
+origin: 'Garland, Alabama, United States'
+artist_type: band
 ---
 
 ![](carter_brothers.jpg)

@@ -3,15 +3,15 @@ title: Silas Hogan
 wiki_slug: silas-hogan
 schema_version: 2
 status: active
-birth_place: Westover, West Baton Rouge Parish, Louisiana, United States
+birth_place: 'Westover, West Baton Rouge Parish, Louisiana, United States'
 genres:
-- blues
-- classic blues
+  - blues
+  - classic blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/silas_hogan.jpg
   caption: Silas Hogan
   background: solo_singer
-  origin: Westover, West Baton Rouge Parish, Louisiana, United States
+  origin: 'Westover, West Baton Rouge Parish, Louisiana, United States'
 audio_profile:
   tempo_avg: 109.5
   energy_avg: 0.521
@@ -27,45 +27,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Arthur "Guitar" Kelly
+    - Arthur "Guitar" Kelly
   influenced:
-  - Baton Rouge swamp blues musicians (collective influence)
+    - Baton Rouge swamp blues musicians (collective influence)
   mentors:
-  - Jimmy Reed
+    - Jimmy Reed
 spotify_data:
   followers: 555
   id: 6BVFYkEx0EB1HOW2ST8j3d
   popularity: 7
-  url: https://open.spotify.com/artist/6BVFYkEx0EB1HOW2ST8j3d
+  url: 'https://open.spotify.com/artist/6BVFYkEx0EB1HOW2ST8j3d'
 discography_enriched: true
 top_tracks:
-- Dark Clouds Rollin' (Louisiana Swamp Blues Vol. 6)
-- 'Lonesome La La (Trouble: The Best Of The Excello Masters)'
-- 'Just Give Me A Chance (Trouble: The Best Of The Excello Masters)'
-- Rats and Roaches in My Kitchen (Louisiana Blues)
-- I'm A Free Hearted Man (Louisiana Swamp Blues Vol. 6)
-- Hoo-Doo Blues (Louisiana Swamp Blues Vol. 6)
-- Mr. Charlie (Louisiana Swamp Blues Vol. 6)
-- Rats And Roaches In My Kitchen (Louisiana Swamp Blues Vol. 6)
-- Everybody Needs Somebody - Single Version (The Best Of Excello Records)
-- You're Too Late Baby (Louisiana Swamp Blues Vol. 6)
+  - Dark Clouds Rollin' (Louisiana Swamp Blues Vol. 6)
+  - 'Lonesome La La (Trouble: The Best Of The Excello Masters)'
+  - 'Just Give Me A Chance (Trouble: The Best Of The Excello Masters)'
+  - Rats and Roaches in My Kitchen (Louisiana Blues)
+  - I'm A Free Hearted Man (Louisiana Swamp Blues Vol. 6)
+  - Hoo-Doo Blues (Louisiana Swamp Blues Vol. 6)
+  - Mr. Charlie (Louisiana Swamp Blues Vol. 6)
+  - Rats And Roaches In My Kitchen (Louisiana Swamp Blues Vol. 6)
+  - Everybody Needs Somebody - Single Version (The Best Of Excello Records)
+  - You're Too Late Baby (Louisiana Swamp Blues Vol. 6)
 external_urls:
-  spotify: https://open.spotify.com/artist/6BVFYkEx0EB1HOW2ST8j3d
-  wikipedia: https://en.wikipedia.org/wiki/Silas_Hogan
+  spotify: 'https://open.spotify.com/artist/6BVFYkEx0EB1HOW2ST8j3d'
+  wikipedia: 'https://en.wikipedia.org/wiki/Silas_Hogan'
 image_path: 03_Resources/source_material/ArtistPortraits/silas_hogan.jpg
 biography_enhanced_at: '2025-12-06T05:44:07.420012'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- AllMusic artist biography for Silas Hogan[4]
-- Jango / other short bios referencing "Airport Blues" and "Lonesome La La"[1][3]
-- 'Louisiana Folklife article "Blues & Blacks in the Red Stick: Origins, Evolution, and Current Status" (sections on Silas Hogan and swamp blues)[5]'
-- Bear Family Records artist notes on Silas Hogan’s background in Westover and Irene, Louisiana[6]
-- Stefan Wirz illustrated Silas Hogan discography (release history and recording context)[2]
+  - 'AllMusic artist biography for Silas Hogan[4]'
+  - >-
+    Jango / other short bios referencing "Airport Blues" and "Lonesome La
+    La"[1][3]
+  - >-
+    Louisiana Folklife article "Blues & Blacks in the Red Stick: Origins,
+    Evolution, and Current Status" (sections on Silas Hogan and swamp blues)[5]
+  - >-
+    Bear Family Records artist notes on Silas Hogan’s background in Westover and
+    Irene, Louisiana[6]
+  - >-
+    Stefan Wirz illustrated Silas Hogan discography (release history and
+    recording context)[2]
 network_extracted: true
 entry_created: '2025-12-06T05:44:07.420031'
 last_updated: '2025-12-23T08:16:15.646301'
-
+birth_date: '1911-09-15'
+death_date: '1994-01-09'
+artist_type: person
 ---
 
 ![](silas_hogan.jpg)

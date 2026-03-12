@@ -2,26 +2,26 @@
 title: Fleetwood Mac
 wiki_slug: fleetwood-mac
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 birth_date: 1967-07
 genres:
-- classic rock
-- soft rock
+  - classic rock
+  - soft rock
 instruments:
-- bass guitar
-- guitar
-- harmonica
-- lead vocals
-- original
-- piano
-- drums (drum set)
-- eponymous
-- percussion
-- spoken vocals
-- background vocals
-- accordion
-- keyboard
+  - bass guitar
+  - guitar
+  - harmonica
+  - lead vocals
+  - original
+  - piano
+  - drums (drum set)
+  - eponymous
+  - percussion
+  - spoken vocals
+  - background vocals
+  - accordion
+  - keyboard
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/fleetwood_mac.jpg
   caption: Fleetwood Mac
@@ -42,326 +42,326 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Peter Green
-  - Mick Fleetwood
-  - John McVie
-  - Christine McVie
-  - Stevie Nicks
-  - Lindsey Buckingham
+    - Peter Green
+    - Mick Fleetwood
+    - John McVie
+    - Christine McVie
+    - Stevie Nicks
+    - Lindsey Buckingham
   influenced:
-  - Haim
-  - The War on Drugs
-  - Harry Styles
+    - Haim
+    - The War on Drugs
+    - Harry Styles
   mentors:
-  - John Mayall
+    - John Mayall
 spotify_data:
   followers: 14036491
   id: 08GQAI4eElDnROBrJRGE0X
   popularity: 84
-  url: https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X
+  url: 'https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X'
 discography_enriched: true
 top_tracks:
-- Dreams - 2004 Remaster (Rumours (Super Deluxe))
-- The Chain - 2004 Remaster (Rumours (Super Deluxe))
-- Everywhere - 2017 Remaster (Tango In the Night (Deluxe Edition))
-- Go Your Own Way - 2004 Remaster (Rumours)
-- Landslide (Fleetwood Mac)
-- Little Lies - 2017 Remaster (Tango In the Night (Deluxe Edition))
-- Gypsy
-- Silver Springs - 2004 Remaster (Rumours (Super Deluxe))
-- Rhiannon (Fleetwood Mac)
-- Don't Stop - 2004 Remaster (Rumours)
+  - Dreams - 2004 Remaster (Rumours (Super Deluxe))
+  - The Chain - 2004 Remaster (Rumours (Super Deluxe))
+  - Everywhere - 2017 Remaster (Tango In the Night (Deluxe Edition))
+  - Go Your Own Way - 2004 Remaster (Rumours)
+  - Landslide (Fleetwood Mac)
+  - Little Lies - 2017 Remaster (Tango In the Night (Deluxe Edition))
+  - Gypsy
+  - Silver Springs - 2004 Remaster (Rumours (Super Deluxe))
+  - Rhiannon (Fleetwood Mac)
+  - Don't Stop - 2004 Remaster (Rumours)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/bd13909f-1c29-4c27-a874-d4aaf27c5b1a
-  spotify: https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X
-  wikipedia: https://en.wikipedia.org/wiki/Fleetwood_Mac
+  musicbrainz: 'https://musicbrainz.org/artist/bd13909f-1c29-4c27-a874-d4aaf27c5b1a'
+  spotify: 'https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X'
+  wikipedia: 'https://en.wikipedia.org/wiki/Fleetwood_Mac'
 image_path: 03_Resources/source_material/ArtistPortraits/fleetwood_mac.jpg
 biography_enhanced_at: '2025-11-14T10:49:02.105363'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.britannica.com/topic/Fleetwood-Mac
-- https://www.elle.com/culture/music/a42977664/fleetwood-mac-timeline/
-- https://walkoffame.com/fleetwood-mac/
-- https://www.biography.com/musicians/a65439913/fleetwood-mac-rumours-album-history
+  - 'https://www.britannica.com/topic/Fleetwood-Mac'
+  - 'https://www.elle.com/culture/music/a42977664/fleetwood-mac-timeline/'
+  - 'https://walkoffame.com/fleetwood-mac/'
+  - >-
+    https://www.biography.com/musicians/a65439913/fleetwood-mac-rumours-album-history
 network_extracted: true
 entry_created: '2025-11-14T10:49:02.105374'
 last_updated: '2025-12-23T08:16:08.686562'
 members:
-- begin: '1967'
-  end: '1967'
-  instruments:
-  - bass guitar
-  mbid: ec166c16-75f7-4312-8308-135c4b6b9e5a
-  name: Bob Brunning
-- begin: '1967'
-  end: '1971'
-  instruments:
-  - guitar
-  - harmonica
-  - lead vocals
-  - original
-  mbid: 9a6adb63-10a9-417a-8cd9-3b0fcf5475c5
-  name: Peter Green
-- begin: '1967'
-  end: '1971'
-  instruments:
-  - guitar
-  - lead vocals
-  - original
-  - piano
-  mbid: 6e82e5d9-c7ae-4de1-8691-be6e870b294c
-  name: Jeremy Spencer
-- begin: '1967'
-  end: '1995'
-  instruments:
-  - drums (drum set)
-  - eponymous
-  - guitar
-  - percussion
-  - spoken vocals
-  mbid: 5191f332-8c44-4775-a070-d517cf7e5ecb
-  name: Mick Fleetwood
-- begin: '1967'
-  end: '1995'
-  instruments:
-  - background vocals
-  - bass guitar
-  - eponymous
-  mbid: c78f0746-ea5d-44c0-92ee-f32745951345
-  name: John McVie
-- begin: 1968-08
-  end: '1972'
-  instruments:
-  - guitar
-  - lead vocals
-  mbid: 2dd16885-93df-4893-85ad-18dca165be6b
-  name: Danny Kirwan
-- begin: '1970'
-  end: '1995'
-  instruments:
-  - accordion
-  - keyboard
-  - lead vocals
-  mbid: 21551f7d-93f2-4cb7-ba71-7f260058e923
-  name: Christine McVie
-- begin: '1971'
-  end: '1975'
-  instruments:
-  - guitar
-  - lead vocals
-  mbid: c7c6fc3e-4e50-4c43-b0c4-f18a66a1b3c0
-  name: Bob Welch
-- begin: '1972'
-  end: '1973'
-  instruments:
-  - harmonica
-  - lead vocals
-  mbid: ed02d3d7-5cf5-4c78-a35e-cda9e7b91581
-  name: Dave Walker
-- begin: '1972'
-  end: '1973'
-  instruments:
-  - guitar
-  - lead vocals
-  mbid: 24a89258-b86d-47be-9309-a066ee84a419
-  name: Bob Weston
-- begin: '1975'
-  end: '1987'
-  instruments:
-  - guitar
-  - keyboard
-  - lead vocals
-  - percussion
-  - piano
-  mbid: 5d12875c-a197-43b2-8f29-41dc0ad895c3
-  name: Lindsey Buckingham
-- begin: '1975'
-  end: '1990'
-  instruments:
-  - lead vocals
-  mbid: b7f2cca2-72c6-41fb-ae33-53370fc62fe7
-  name: Stevie Nicks
-- begin: '1987'
-  end: '1991'
-  instruments:
-  - guitar
-  - lead vocals
-  mbid: b17dafcb-d0cf-49b2-9fc8-42ed33bba355
-  name: Rick Vito
-- begin: '1987'
-  end: '1995'
-  instruments:
-  - guitar
-  - lead vocals
-  mbid: 45d9abda-e6db-4c4c-9f39-a3c8e48957ef
-  name: Billy Burnette
-- begin: '1993'
-  end: '1995'
-  instruments:
-  - lead vocals
-  mbid: fa41ce1d-f3ef-4bda-ad5a-a3c60eb60633
-  name: Bekka Bramlett
-- begin: '1993'
-  end: '1996'
-  instruments:
-  - guitar
-  - lead vocals
-  mbid: d70c2ae1-911a-4bea-8ef4-63564a150ff2
-  name: Dave Mason
-- begin: '1997'
-  end: '1998'
-  instruments:
-  - lead vocals
-  mbid: 21551f7d-93f2-4cb7-ba71-7f260058e923
-  name: Christine McVie
-- begin: '1997'
-  end: '1998'
-  instruments:
-  - accordion
-  mbid: 21551f7d-93f2-4cb7-ba71-7f260058e923
-  name: Christine McVie
-- begin: '1997'
-  end: '1998'
-  instruments:
-  - keyboard
-  mbid: 21551f7d-93f2-4cb7-ba71-7f260058e923
-  name: Christine McVie
-- begin: '1997'
-  end: '2018'
-  instruments:
-  - guitar
-  - keyboard
-  - lead vocals
-  - percussion
-  - piano
-  mbid: 5d12875c-a197-43b2-8f29-41dc0ad895c3
-  name: Lindsey Buckingham
-- begin: '1997'
-  end: '2022'
-  instruments:
-  - eponymous
-  - spoken vocals
-  mbid: 5191f332-8c44-4775-a070-d517cf7e5ecb
-  name: Mick Fleetwood
-- begin: '1997'
-  end: '2022'
-  instruments:
-  - eponymous
-  - percussion
-  mbid: 5191f332-8c44-4775-a070-d517cf7e5ecb
-  name: Mick Fleetwood
-- begin: '1997'
-  end: '2022'
-  instruments:
-  - drums (drum set)
-  - eponymous
-  mbid: 5191f332-8c44-4775-a070-d517cf7e5ecb
-  name: Mick Fleetwood
-- begin: '1997'
-  end: '2022'
-  instruments:
-  - eponymous
-  - guitar
-  mbid: 5191f332-8c44-4775-a070-d517cf7e5ecb
-  name: Mick Fleetwood
-- begin: '1997'
-  end: '2022'
-  instruments:
-  - background vocals
-  - eponymous
-  mbid: c78f0746-ea5d-44c0-92ee-f32745951345
-  name: John McVie
-- begin: '1997'
-  end: '2022'
-  instruments:
-  - eponymous
-  - spoken vocals
-  mbid: c78f0746-ea5d-44c0-92ee-f32745951345
-  name: John McVie
-- begin: '1997'
-  end: '2022'
-  instruments:
-  - eponymous
-  - percussion
-  mbid: c78f0746-ea5d-44c0-92ee-f32745951345
-  name: John McVie
-- begin: '1997'
-  end: '2022'
-  instruments:
-  - drums (drum set)
-  - eponymous
-  mbid: c78f0746-ea5d-44c0-92ee-f32745951345
-  name: John McVie
-- begin: '1997'
-  end: '2022'
-  instruments:
-  - eponymous
-  - guitar
-  mbid: c78f0746-ea5d-44c0-92ee-f32745951345
-  name: John McVie
-- begin: '1997'
-  end: '2022'
-  instruments:
-  - bass guitar
-  - eponymous
-  mbid: c78f0746-ea5d-44c0-92ee-f32745951345
-  name: John McVie
-- &id001
-  begin: '1997'
-  end: ''
-  instruments:
-  - keyboard
-  - lead vocals
-  mbid: b7f2cca2-72c6-41fb-ae33-53370fc62fe7
-  name: Stevie Nicks
-- begin: '2003'
-  end: '2003'
-  instruments:
-  - percussion
-  mbid: 8e4dde79-0025-4d06-bb41-39e660a1bca7
-  name: Taku Hirano
-- begin: '2014'
-  end: '2022-11-30'
-  instruments:
-  - lead vocals
-  mbid: 21551f7d-93f2-4cb7-ba71-7f260058e923
-  name: Christine McVie
-- begin: '2014'
-  end: '2022-11-30'
-  instruments:
-  - accordion
-  mbid: 21551f7d-93f2-4cb7-ba71-7f260058e923
-  name: Christine McVie
-- begin: '2014'
-  end: '2022-11-30'
-  instruments:
-  - keyboard
-  mbid: 21551f7d-93f2-4cb7-ba71-7f260058e923
-  name: Christine McVie
-- &id002
-  begin: '2018'
-  end: ''
-  instruments: []
-  mbid: 37ed89f2-c1e4-4836-8f68-190014a48034
-  name: Mike Campbell
-- &id003
-  begin: '2018'
-  end: ''
-  instruments: []
-  mbid: 3b7c93ab-40a5-4745-ab6b-eaafed2308bb
-  name: Neil Finn
+  - begin: '1967'
+    end: '1967'
+    instruments:
+      - bass guitar
+    mbid: ec166c16-75f7-4312-8308-135c4b6b9e5a
+    name: Bob Brunning
+  - begin: '1967'
+    end: '1971'
+    instruments:
+      - guitar
+      - harmonica
+      - lead vocals
+      - original
+    mbid: 9a6adb63-10a9-417a-8cd9-3b0fcf5475c5
+    name: Peter Green
+  - begin: '1967'
+    end: '1971'
+    instruments:
+      - guitar
+      - lead vocals
+      - original
+      - piano
+    mbid: 6e82e5d9-c7ae-4de1-8691-be6e870b294c
+    name: Jeremy Spencer
+  - begin: '1967'
+    end: '1995'
+    instruments:
+      - drums (drum set)
+      - eponymous
+      - guitar
+      - percussion
+      - spoken vocals
+    mbid: 5191f332-8c44-4775-a070-d517cf7e5ecb
+    name: Mick Fleetwood
+  - begin: '1967'
+    end: '1995'
+    instruments:
+      - background vocals
+      - bass guitar
+      - eponymous
+    mbid: c78f0746-ea5d-44c0-92ee-f32745951345
+    name: John McVie
+  - begin: 1968-08
+    end: '1972'
+    instruments:
+      - guitar
+      - lead vocals
+    mbid: 2dd16885-93df-4893-85ad-18dca165be6b
+    name: Danny Kirwan
+  - begin: '1970'
+    end: '1995'
+    instruments:
+      - accordion
+      - keyboard
+      - lead vocals
+    mbid: 21551f7d-93f2-4cb7-ba71-7f260058e923
+    name: Christine McVie
+  - begin: '1971'
+    end: '1975'
+    instruments:
+      - guitar
+      - lead vocals
+    mbid: c7c6fc3e-4e50-4c43-b0c4-f18a66a1b3c0
+    name: Bob Welch
+  - begin: '1972'
+    end: '1973'
+    instruments:
+      - harmonica
+      - lead vocals
+    mbid: ed02d3d7-5cf5-4c78-a35e-cda9e7b91581
+    name: Dave Walker
+  - begin: '1972'
+    end: '1973'
+    instruments:
+      - guitar
+      - lead vocals
+    mbid: 24a89258-b86d-47be-9309-a066ee84a419
+    name: Bob Weston
+  - begin: '1975'
+    end: '1987'
+    instruments:
+      - guitar
+      - keyboard
+      - lead vocals
+      - percussion
+      - piano
+    mbid: 5d12875c-a197-43b2-8f29-41dc0ad895c3
+    name: Lindsey Buckingham
+  - begin: '1975'
+    end: '1990'
+    instruments:
+      - lead vocals
+    mbid: b7f2cca2-72c6-41fb-ae33-53370fc62fe7
+    name: Stevie Nicks
+  - begin: '1987'
+    end: '1991'
+    instruments:
+      - guitar
+      - lead vocals
+    mbid: b17dafcb-d0cf-49b2-9fc8-42ed33bba355
+    name: Rick Vito
+  - begin: '1987'
+    end: '1995'
+    instruments:
+      - guitar
+      - lead vocals
+    mbid: 45d9abda-e6db-4c4c-9f39-a3c8e48957ef
+    name: Billy Burnette
+  - begin: '1993'
+    end: '1995'
+    instruments:
+      - lead vocals
+    mbid: fa41ce1d-f3ef-4bda-ad5a-a3c60eb60633
+    name: Bekka Bramlett
+  - begin: '1993'
+    end: '1996'
+    instruments:
+      - guitar
+      - lead vocals
+    mbid: d70c2ae1-911a-4bea-8ef4-63564a150ff2
+    name: Dave Mason
+  - begin: '1997'
+    end: '1998'
+    instruments:
+      - lead vocals
+    mbid: 21551f7d-93f2-4cb7-ba71-7f260058e923
+    name: Christine McVie
+  - begin: '1997'
+    end: '1998'
+    instruments:
+      - accordion
+    mbid: 21551f7d-93f2-4cb7-ba71-7f260058e923
+    name: Christine McVie
+  - begin: '1997'
+    end: '1998'
+    instruments:
+      - keyboard
+    mbid: 21551f7d-93f2-4cb7-ba71-7f260058e923
+    name: Christine McVie
+  - begin: '1997'
+    end: '2018'
+    instruments:
+      - guitar
+      - keyboard
+      - lead vocals
+      - percussion
+      - piano
+    mbid: 5d12875c-a197-43b2-8f29-41dc0ad895c3
+    name: Lindsey Buckingham
+  - begin: '1997'
+    end: '2022'
+    instruments:
+      - eponymous
+      - spoken vocals
+    mbid: 5191f332-8c44-4775-a070-d517cf7e5ecb
+    name: Mick Fleetwood
+  - begin: '1997'
+    end: '2022'
+    instruments:
+      - eponymous
+      - percussion
+    mbid: 5191f332-8c44-4775-a070-d517cf7e5ecb
+    name: Mick Fleetwood
+  - begin: '1997'
+    end: '2022'
+    instruments:
+      - drums (drum set)
+      - eponymous
+    mbid: 5191f332-8c44-4775-a070-d517cf7e5ecb
+    name: Mick Fleetwood
+  - begin: '1997'
+    end: '2022'
+    instruments:
+      - eponymous
+      - guitar
+    mbid: 5191f332-8c44-4775-a070-d517cf7e5ecb
+    name: Mick Fleetwood
+  - begin: '1997'
+    end: '2022'
+    instruments:
+      - background vocals
+      - eponymous
+    mbid: c78f0746-ea5d-44c0-92ee-f32745951345
+    name: John McVie
+  - begin: '1997'
+    end: '2022'
+    instruments:
+      - eponymous
+      - spoken vocals
+    mbid: c78f0746-ea5d-44c0-92ee-f32745951345
+    name: John McVie
+  - begin: '1997'
+    end: '2022'
+    instruments:
+      - eponymous
+      - percussion
+    mbid: c78f0746-ea5d-44c0-92ee-f32745951345
+    name: John McVie
+  - begin: '1997'
+    end: '2022'
+    instruments:
+      - drums (drum set)
+      - eponymous
+    mbid: c78f0746-ea5d-44c0-92ee-f32745951345
+    name: John McVie
+  - begin: '1997'
+    end: '2022'
+    instruments:
+      - eponymous
+      - guitar
+    mbid: c78f0746-ea5d-44c0-92ee-f32745951345
+    name: John McVie
+  - begin: '1997'
+    end: '2022'
+    instruments:
+      - bass guitar
+      - eponymous
+    mbid: c78f0746-ea5d-44c0-92ee-f32745951345
+    name: John McVie
+  - &ref_0
+    begin: '1997'
+    end: ''
+    instruments:
+      - keyboard
+      - lead vocals
+    mbid: b7f2cca2-72c6-41fb-ae33-53370fc62fe7
+    name: Stevie Nicks
+  - begin: '2003'
+    end: '2003'
+    instruments:
+      - percussion
+    mbid: 8e4dde79-0025-4d06-bb41-39e660a1bca7
+    name: Taku Hirano
+  - begin: '2014'
+    end: '2022-11-30'
+    instruments:
+      - lead vocals
+    mbid: 21551f7d-93f2-4cb7-ba71-7f260058e923
+    name: Christine McVie
+  - begin: '2014'
+    end: '2022-11-30'
+    instruments:
+      - accordion
+    mbid: 21551f7d-93f2-4cb7-ba71-7f260058e923
+    name: Christine McVie
+  - begin: '2014'
+    end: '2022-11-30'
+    instruments:
+      - keyboard
+    mbid: 21551f7d-93f2-4cb7-ba71-7f260058e923
+    name: Christine McVie
+  - &ref_1
+    begin: '2018'
+    end: ''
+    instruments: []
+    mbid: 37ed89f2-c1e4-4836-8f68-190014a48034
+    name: Mike Campbell
+  - &ref_2
+    begin: '2018'
+    end: ''
+    instruments: []
+    mbid: 3b7c93ab-40a5-4745-ab6b-eaafed2308bb
+    name: Neil Finn
 musicbrainz_id: bd13909f-1c29-4c27-a874-d4aaf27c5b1a
-origin: London
+origin: 'London, England, United Kingdom'
 original_members:
-- *id001
-- *id002
-- *id003
+  - *ref_0
+  - *ref_1
+  - *ref_2
 tags:
-- art pop
-- blues
-- blues rock
-
+  - art pop
+  - blues
+  - blues rock
 ---
 
 ![](fleetwood_mac.jpg)

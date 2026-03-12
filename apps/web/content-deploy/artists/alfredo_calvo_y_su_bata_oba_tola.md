@@ -1,23 +1,24 @@
 ---
-title: alfredo calvo y su bata oba tola
+title: Alfredo Calvo Y Su Bata Oba Tola
 wiki_slug: alfredo-calvo-y-su-bata-oba-tola
 schema_version: 2
 status: active
-birth_place: Matanzas, Matanzas Province, Cuba
+birth_place: 'Matanzas, Matanzas Province, Cuba'
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/alfredo_calvo_y_su_bata_oba_tola.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/alfredo_calvo_y_su_bata_oba_tola.jpg
   caption: alfredo calvo y su bata oba tola
   background: solo_singer
-  origin: Matanzas, Matanzas Province, Cuba
+  origin: 'Matanzas, Matanzas Province, Cuba'
 audio_profile:
   tempo_avg: 130.7
   energy_avg: 0.629
   valence_avg: 0.834
   danceability_avg: 0.525
   acousticness_avg: 0.719
-  instrumentalness_avg: 0.0
-  loudness_avg: -6.0
+  instrumentalness_avg: 0
+  loudness_avg: -6
   speechiness_avg: 0.197
   liveness_avg: 0.21
   track_count: 18
@@ -25,45 +26,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kabiosile collective
-  - Regla Calvo
+    - Kabiosile collective
+    - Regla Calvo
   influenced:
-  - Matanzas Santería and Abakuá communities
+    - Matanzas Santería and Abakuá communities
   mentors:
-  - Fermina Gómez (Ocha Bi)
+    - Fermina Gómez (Ocha Bi)
 spotify_data:
   followers: 185
   id: 3NaQoNLdo7dd4RUJxg1lak
   popularity: 1
-  url: https://open.spotify.com/artist/3NaQoNLdo7dd4RUJxg1lak
+  url: 'https://open.spotify.com/artist/3NaQoNLdo7dd4RUJxg1lak'
 discography_enriched: true
 top_tracks:
-- 'Orula (Bata y Bembe de Matanzas: la presentación de un Iyawo de Chango)'
-- 'Echu (Bata y Bembe de Matanzas: la presentación de un Iyawo de Chango)'
-- 'Ochosi (Bata y Bembe de Matanzas: la presentación de un Iyawo de Chango)'
-- 'Elegua (Bata y Bembe de Matanzas: la presentación de un Iyawo de Chango)'
-- 'Elegua (presentation of the Iyawo) (Bata y Bembe de Matanzas: la presentación de un Iyawo de Chango)'
-- 'Agayu (Bata y Bembe de Matanzas: la presentación de un Iyawo de Chango)'
-- 'Yewa (Bata y Bembe de Matanzas: la presentación de un Iyawo de Chango)'
-- 'Obba (Bata y Bembe de Matanzas: la presentación de un Iyawo de Chango)'
-- 'Oya (Bata y Bembe de Matanzas: la presentación de un Iyawo de Chango)'
-- 'Oshun (Bata y Bembe de Matanzas: la presentación de un Iyawo de Chango)'
+  - 'Orula (Bata y Bembe de Matanzas: la presentación de un Iyawo de Chango)'
+  - 'Echu (Bata y Bembe de Matanzas: la presentación de un Iyawo de Chango)'
+  - 'Ochosi (Bata y Bembe de Matanzas: la presentación de un Iyawo de Chango)'
+  - 'Elegua (Bata y Bembe de Matanzas: la presentación de un Iyawo de Chango)'
+  - >-
+    Elegua (presentation of the Iyawo) (Bata y Bembe de Matanzas: la
+    presentación de un Iyawo de Chango)
+  - 'Agayu (Bata y Bembe de Matanzas: la presentación de un Iyawo de Chango)'
+  - 'Yewa (Bata y Bembe de Matanzas: la presentación de un Iyawo de Chango)'
+  - 'Obba (Bata y Bembe de Matanzas: la presentación de un Iyawo de Chango)'
+  - 'Oya (Bata y Bembe de Matanzas: la presentación de un Iyawo de Chango)'
+  - 'Oshun (Bata y Bembe de Matanzas: la presentación de un Iyawo de Chango)'
 external_urls:
-  spotify: https://open.spotify.com/artist/3NaQoNLdo7dd4RUJxg1lak
+  spotify: 'https://open.spotify.com/artist/3NaQoNLdo7dd4RUJxg1lak'
   wikipedia: null
 image_path: ''
 biography_enhanced_at: '2025-11-02T07:32:29.928941'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://kabiosile.org/es/artista/alfredo-calvo/
-- https://ourstorian.wordpress.com/2013/07/03/la-santeria-en-matanzas-cuba-an-interview-with-alfredo-calvo/
-- https://www.youtube.com/watch?v=toTEiwZsI5U
-- https://kabiosile.org/es/video/la-santeria-en-matanzas-cuba-una-entrevista-con-alfredo-calvo/
-- https://scalar.chapman.edu/scalar/beginagain/la-santeria-en-matanzas-cuba-an-interview-with-alfredo-calvo
+  - 'https://kabiosile.org/es/artista/alfredo-calvo/'
+  - >-
+    https://ourstorian.wordpress.com/2013/07/03/la-santeria-en-matanzas-cuba-an-interview-with-alfredo-calvo/
+  - 'https://www.youtube.com/watch?v=toTEiwZsI5U'
+  - >-
+    https://kabiosile.org/es/video/la-santeria-en-matanzas-cuba-una-entrevista-con-alfredo-calvo/
+  - >-
+    https://scalar.chapman.edu/scalar/beginagain/la-santeria-en-matanzas-cuba-an-interview-with-alfredo-calvo
 network_extracted: true
 entry_created: '2025-11-02T07:32:29.928974'
 last_updated: '2025-12-23T08:16:04.561830'
+artist_type: person
 ---
 
 ![]()

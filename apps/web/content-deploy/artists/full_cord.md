@@ -3,47 +3,49 @@ biography_enhanced_at: '2026-01-19T01:06:50.946188'
 enhancement_provider: perplexity
 entry_created: '2026-01-19T01:06:50.946195'
 external_urls:
-  spotify: https://open.spotify.com/artist/0IfvCXwxVGv9Eh26bgmGFr
+  spotify: 'https://open.spotify.com/artist/0IfvCXwxVGv9Eh26bgmGFr'
   wikipedia: ''
 genres:
-- newgrass
-- bluegrass
+  - newgrass
+  - bluegrass
 image_path: 03_Resources/source_material/ArtistPortraits/full_cord.jpg
 last_updated: '2026-01-19T01:06:50.946196'
 musical_connections:
   collaborators:
-  - Brian Oberlin
-  - Grant Flick
-  - Todd Kirchner
-  - Eric Langejans
-  - Ricky Mier / Rick Meir
-  - Lloyd Douglas
-  - Luke Gitchel
-  - Billy Strings
-  - John McEuen
+    - Brian Oberlin
+    - Grant Flick
+    - Todd Kirchner
+    - Eric Langejans
+    - Ricky Mier / Rick Meir
+    - Lloyd Douglas
+    - Luke Gitchel
+    - Billy Strings
+    - John McEuen
   influenced: []
   mentors:
-  - Family (Kirchner)
-  - Frank Vignola, Mike Marshall, Julian Lage, Darol Anger
+    - Family (Kirchner)
+    - 'Frank Vignola, Mike Marshall, Julian Lage, Darol Anger'
 network_extracted: true
-origin: Grand Haven, Michigan, USA
+origin: 'Grand Haven, Michigan, USA'
 primary_source: perplexity
 research_sources:
-- https://bluegrassunlimited.com/article/full-cord-bluegrass/
-- https://ncbf.fun/fullcord/
-- https://bluegrasstoday.com/listings-directory/full-cord-bluegrass/
-- https://www.thebluegrassstandard.com/items/full-cord
-- https://localspins.com/full-cord-makes-magical-bluegrass-connection-with-old-school-to-newgrass-charm/
-- https://fullcord.net
-- https://darkshadowrecording.com/full-cord
-- https://thebluegrasssituation.com/read/watch-full-cord-bluegrass-downtown/
+  - 'https://bluegrassunlimited.com/article/full-cord-bluegrass/'
+  - 'https://ncbf.fun/fullcord/'
+  - 'https://bluegrasstoday.com/listings-directory/full-cord-bluegrass/'
+  - 'https://www.thebluegrassstandard.com/items/full-cord'
+  - >-
+    https://localspins.com/full-cord-makes-magical-bluegrass-connection-with-old-school-to-newgrass-charm/
+  - 'https://fullcord.net'
+  - 'https://darkshadowrecording.com/full-cord'
+  - 'https://thebluegrasssituation.com/read/watch-full-cord-bluegrass-downtown/'
 spotify_data:
   followers: 1690
   id: 0IfvCXwxVGv9Eh26bgmGFr
   popularity: 16
-  url: https://open.spotify.com/artist/0IfvCXwxVGv9Eh26bgmGFr
+  url: 'https://open.spotify.com/artist/0IfvCXwxVGv9Eh26bgmGFr'
 status: active
-title: FULL CORD
+title: Full Cord
+artist_type: person
 ---
 
 ![](full_cord.jpg)

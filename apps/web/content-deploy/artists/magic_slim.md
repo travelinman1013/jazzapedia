@@ -5,20 +5,20 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1937-08-07'
-birth_place: Mississippi
+birth_place: 'Torrance, Mississippi, United States'
 death_date: '2013-02-21'
 genres:
-- blues
-- classic blues
+  - blues
+  - classic blues
 instruments:
-- guitar
-- acoustic guitar
+  - guitar
+  - acoustic guitar
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 262a5fb0-4efa-471a-9a85-762921961f94
-  name: Magic Slim and the Teardrops
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 262a5fb0-4efa-471a-9a85-762921961f94
+    name: Magic Slim and the Teardrops
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/magic_slim.jpg
   caption: Magic Slim
@@ -41,60 +41,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Nick Holt
-  - Douglas "Lee Baby" Holt
-  - Shawn Holt
-  - Robert "Mr. Pitiful" Perkins
+    - Nick Holt
+    - Douglas "Lee Baby" Holt
+    - Shawn Holt
+    - Robert "Mr. Pitiful" Perkins
   influenced:
-  - Modern blues artists
-  - Modern rock musicians
+    - Modern blues artists
+    - Modern rock musicians
   mentors:
-  - Magic Sam
-  - Muddy Waters
-  - Howlin' Wolf
-  - Freddie King
-  - Otis Rush
+    - Magic Sam
+    - Muddy Waters
+    - Howlin' Wolf
+    - Freddie King
+    - Otis Rush
 spotify_data:
   followers: 35080
   id: 0uDA9BcTnKIPpNcZX6ZY3x
   popularity: 37
-  url: https://open.spotify.com/artist/0uDA9BcTnKIPpNcZX6ZY3x
+  url: 'https://open.spotify.com/artist/0uDA9BcTnKIPpNcZX6ZY3x'
 discography_enriched: true
 top_tracks:
-- How Unlucky Can One Man Be (You Can't Lose What You Ain't Never Had)
-- Cold Hearted Woman (Tin Pan Alley)
-- When The Levee Breaks (Part One)
-- Spider In My Stew
-- Crazy Woman (The Essential Magic Slim)
-- Don't Say That No More
-- So Easy to Love You (Slow Blues)
-- Driftin' Blues (You Can't Lose What You Ain't Never Had)
-- Before You Accuse Me (The Essential Magic Slim)
-- 'I''m a Bluesman (Live) (Blues Legends: Magic Slim)'
+  - How Unlucky Can One Man Be (You Can't Lose What You Ain't Never Had)
+  - Cold Hearted Woman (Tin Pan Alley)
+  - When The Levee Breaks (Part One)
+  - Spider In My Stew
+  - Crazy Woman (The Essential Magic Slim)
+  - Don't Say That No More
+  - So Easy to Love You (Slow Blues)
+  - Driftin' Blues (You Can't Lose What You Ain't Never Had)
+  - Before You Accuse Me (The Essential Magic Slim)
+  - 'I''m a Bluesman (Live) (Blues Legends: Magic Slim)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/175fc3ce-88ab-43d9-8d25-1c77ca2dd07d
-  spotify: https://open.spotify.com/artist/0uDA9BcTnKIPpNcZX6ZY3x
-  wikipedia: https://en.wikipedia.org/wiki/Magic_Slim
+  musicbrainz: 'https://musicbrainz.org/artist/175fc3ce-88ab-43d9-8d25-1c77ca2dd07d'
+  spotify: 'https://open.spotify.com/artist/0uDA9BcTnKIPpNcZX6ZY3x'
+  wikipedia: 'https://en.wikipedia.org/wiki/Magic_Slim'
 image_path: 03_Resources/source_material/ArtistPortraits/magic_slim.jpg
 biography_enhanced_at: '2025-12-04T07:25:36.140527'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Magic Slim
-- Mississippi Blues Trail
-- Big Train and the Loco Motives
-- Alligator Records
-- Curt's Blues Blog
-- Delta Blues Museum
-- River Road Awards
-- Blues Guitar Unleashed Blog
+  - Wikipedia - Magic Slim
+  - Mississippi Blues Trail
+  - Big Train and the Loco Motives
+  - Alligator Records
+  - Curt's Blues Blog
+  - Delta Blues Museum
+  - River Road Awards
+  - Blues Guitar Unleashed Blog
 network_extracted: true
 entry_created: '2025-12-04T07:25:36.140536'
 last_updated: '2025-12-23T08:16:12.504118'
 gender: Male
 musicbrainz_id: 175fc3ce-88ab-43d9-8d25-1c77ca2dd07d
 tags:
-- chicago blues
+  - chicago blues
+is_active: false
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](magic_slim.jpg)

@@ -5,14 +5,14 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1975-03-17'
-birth_place: São Paulo
+birth_place: 'São Paulo, São Paulo, Brazil'
 genres: []
 associated_acts:
-- begin: '1984'
-  end: '1986'
-  instruments: []
-  mbid: f2312749-e6ae-42d4-b18b-7cd8e275ef5d
-  name: A Turma do Balão Mágico
+  - begin: '1984'
+    end: '1986'
+    instruments: []
+    mbid: f2312749-e6ae-42d4-b18b-7cd8e275ef5d
+    name: A Turma do Balão Mágico
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jair_oliveira.jpg
   caption: Jair Oliveira
@@ -20,12 +20,12 @@ infobox:
   born: '1975-03-17'
   origin: São Paulo
 audio_profile:
-  tempo_avg: 114.0
+  tempo_avg: 114
   energy_avg: 0.681
   valence_avg: 0.872
   danceability_avg: 0.631
   acousticness_avg: 0.124
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -7.5
   speechiness_avg: 0.051
   liveness_avg: 0.075
@@ -34,45 +34,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Turma do Balão Mágico
-  - Luciana Mello
-  - Max de Castro
-  - Wilson Simoninha
-  - João Marcelo Bôscoli
-  - Pedro Mariano
-  - Daniel Carlomagno
-  - Uri Caine
+    - Turma do Balão Mágico
+    - Luciana Mello
+    - Max de Castro
+    - Wilson Simoninha
+    - João Marcelo Bôscoli
+    - Pedro Mariano
+    - Daniel Carlomagno
+    - Uri Caine
   influenced:
-  - ''
+    - ''
   mentors:
-  - Jair Rodrigues
+    - Jair Rodrigues
 spotify_data:
   followers: 4
   id: 7ojoVFnqyLFeORfPoWMdwA
   popularity: 2
-  url: https://open.spotify.com/artist/7ojoVFnqyLFeORfPoWMdwA
+  url: 'https://open.spotify.com/artist/7ojoVFnqyLFeORfPoWMdwA'
 discography_enriched: true
 top_tracks:
-- Mentira (6º Solo)
-- Temp ja Passa (Loving You)
+  - Mentira (6º Solo)
+  - Temp ja Passa (Loving You)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/42fd0db2-eb03-4ae1-86ad-daa2b2bda4d1
-  spotify: https://open.spotify.com/artist/7ojoVFnqyLFeORfPoWMdwA
-  wikipedia: https://en.wikipedia.org/wiki/Jair_Oliveira
+  musicbrainz: 'https://musicbrainz.org/artist/42fd0db2-eb03-4ae1-86ad-daa2b2bda4d1'
+  spotify: 'https://open.spotify.com/artist/7ojoVFnqyLFeORfPoWMdwA'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jair_Oliveira'
 image_path: ''
 biography_enhanced_at: '2025-12-07T04:42:27.872484'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jair_Oliveira
-- https://www.allmusic.com/artist/jair-oliveira-mn0000131011
-- https://muppet.fandom.com/wiki/Jair_Oliveira
-- https://tribecacitizen.com/2018/10/15/portrait-of-the-artist-jair-oliveira/
-- https://www.frigazzentertainment.com/artists/jair-oliveira/
-- https://www.browardcenter.org/about/press-room/news/detail/broward-center-presents-jair-oliveira-luciana-mello-guests-60-years-of-dois-na-bossa
-- https://www.americasquarterly.org/fulltextarticle/jair-oliveiras-isambazz-i/
-- https://www.viberate.com/artist/jair-oliveira/
-- https://brojure.com/brojure/memories/a/961/jair-rodrigues-de-oliveira-february-6-1939-may-8-2014
+  - 'https://en.wikipedia.org/wiki/Jair_Oliveira'
+  - 'https://www.allmusic.com/artist/jair-oliveira-mn0000131011'
+  - 'https://muppet.fandom.com/wiki/Jair_Oliveira'
+  - 'https://tribecacitizen.com/2018/10/15/portrait-of-the-artist-jair-oliveira/'
+  - 'https://www.frigazzentertainment.com/artists/jair-oliveira/'
+  - >-
+    https://www.browardcenter.org/about/press-room/news/detail/broward-center-presents-jair-oliveira-luciana-mello-guests-60-years-of-dois-na-bossa
+  - 'https://www.americasquarterly.org/fulltextarticle/jair-oliveiras-isambazz-i/'
+  - 'https://www.viberate.com/artist/jair-oliveira/'
+  - >-
+    https://brojure.com/brojure/memories/a/961/jair-rodrigues-de-oliveira-february-6-1939-may-8-2014
 network_extracted: true
 entry_created: '2025-12-07T04:42:27.872508'
 last_updated: '2025-12-23T08:16:10.127703'

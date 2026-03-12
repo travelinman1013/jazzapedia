@@ -3,17 +3,17 @@ title: Jabo Williams
 wiki_slug: jabo-williams
 schema_version: 2
 status: active
-birth_place: Birmingham, Alabama, United States
+birth_place: 'Birmingham, Alabama, United States'
 genres:
-- boogie-woogie
-- ragtime
+  - boogie-woogie
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jabo_williams.jpg
   caption: Jabo Williams
   background: solo_singer
-  origin: Birmingham, Alabama, United States
+  origin: 'Birmingham, Alabama, United States'
 audio_profile:
-  tempo_avg: 125.0
+  tempo_avg: 125
   energy_avg: 0.341
   valence_avg: 0.785
   danceability_avg: 0.441
@@ -27,45 +27,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Unknown session musicians
+    - Unknown session musicians
   influenced:
-  - Later boogie-woogie and blues pianists
+    - Later boogie-woogie and blues pianists
   mentors:
-  - Unknown
+    - Unknown
 spotify_data:
   followers: 197
   id: 27WaRjbLbCFcawKw6WceDB
   popularity: 0
-  url: https://open.spotify.com/artist/27WaRjbLbCFcawKw6WceDB
+  url: 'https://open.spotify.com/artist/27WaRjbLbCFcawKw6WceDB'
 discography_enriched: true
 top_tracks:
-- Polock Blues (Slip & Slide Blues, Vol.2)
-- Polock Blues (Alabama Blues Shakers & Makers)
-- Pratt City Blues (Picking the Blues - Compiled By John Mayall - Boogie Woogie Pioneers)
-- Pratt City Blues (Rough Guide to Barrelhouse Blues)
-- Polack Blues
-- Fat Mama Blues
-- Fat Mama Blues
-- Pratt City Blues (The Masters Of The Boogie Woogie Piano 1924-1939)
-- Ko Ko Mo Blues - Part 1 (Boogie and Barrelhouse Piano, Vol 1 (1928 - 1930))
-- Ko Ko Mo Blues - Part 2 (Boogie and Barrelhouse Piano, Vol 1 (1928 - 1930))
+  - 'Polock Blues (Slip & Slide Blues, Vol.2)'
+  - Polock Blues (Alabama Blues Shakers & Makers)
+  - >-
+    Pratt City Blues (Picking the Blues - Compiled By John Mayall - Boogie
+    Woogie Pioneers)
+  - Pratt City Blues (Rough Guide to Barrelhouse Blues)
+  - Polack Blues
+  - Fat Mama Blues
+  - Fat Mama Blues
+  - Pratt City Blues (The Masters Of The Boogie Woogie Piano 1924-1939)
+  - 'Ko Ko Mo Blues - Part 1 (Boogie and Barrelhouse Piano, Vol 1 (1928 - 1930))'
+  - 'Ko Ko Mo Blues - Part 2 (Boogie and Barrelhouse Piano, Vol 1 (1928 - 1930))'
 external_urls:
-  spotify: https://open.spotify.com/artist/27WaRjbLbCFcawKw6WceDB
-  wikipedia: https://en.wikipedia.org/wiki/Jabo_Williams
+  spotify: 'https://open.spotify.com/artist/27WaRjbLbCFcawKw6WceDB'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jabo_Williams'
 image_path: 03_Resources/source_material/ArtistPortraits/jabo_williams.jpg
 biography_enhanced_at: '2025-11-12T14:54:10.383920'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jabo_Williams
-- https://www.allmusic.com/artist/jabo-williams-mn0000897804
-- https://sundayblues.org/?tag=jabo-williams
-- https://www.last.fm/music/Jabo+Williams/+wiki
-- http://pianobluesreview.com/jabo-williams/
-- https://www.goldminemag.com/articles/lost-damaged-discs-are-the-regretful-reality-of-old-blues-78s/
+  - 'https://en.wikipedia.org/wiki/Jabo_Williams'
+  - 'https://www.allmusic.com/artist/jabo-williams-mn0000897804'
+  - 'https://sundayblues.org/?tag=jabo-williams'
+  - 'https://www.last.fm/music/Jabo+Williams/+wiki'
+  - 'http://pianobluesreview.com/jabo-williams/'
+  - >-
+    https://www.goldminemag.com/articles/lost-damaged-discs-are-the-regretful-reality-of-old-blues-78s/
 network_extracted: true
 entry_created: '2025-11-12T14:54:10.383935'
 last_updated: '2025-12-23T08:16:09.975901'
+artist_type: person
 ---
 
 ![](jabo_williams.jpg)

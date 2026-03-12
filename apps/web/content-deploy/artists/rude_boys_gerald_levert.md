@@ -3,38 +3,42 @@ biography_enhanced_at: '2025-12-30T01:27:46.947604'
 enhancement_provider: perplexity
 entry_created: '2025-12-30T01:27:46.947611'
 external_urls:
-  spotify: https://open.spotify.com/artist/70CpaIiQvC8u1r98wkqCKn
-  wikipedia: https://en.wikipedia.org/wiki/Gerald_Levert (for Gerald Levert; no dedicated
+  spotify: 'https://open.spotify.com/artist/70CpaIiQvC8u1r98wkqCKn'
+  wikipedia: >-
+    https://en.wikipedia.org/wiki/Gerald_Levert (for Gerald Levert; no dedicated
     Rude Boys page found in results)
 genres:
-- new jack swing
-- quiet storm
+  - new jack swing
+  - quiet storm
 image_path: ''
 last_updated: '2025-12-30T01:27:46.947611'
 musical_connections:
   collaborators:
-  - Gerald Levert
-  - Dwight Thompson
-  - Larry Marcus
+    - Gerald Levert
+    - Dwight Thompson
+    - Larry Marcus
   influenced:
-  - Men at Large
+    - Men at Large
   mentors:
-  - Gerald Levert
-  - Eddie Levert
+    - Gerald Levert
+    - Eddie Levert
 network_extracted: true
-origin: Cleveland, Ohio, United States (group origin; Gerald Levert birthplace)
+origin: 'Cleveland, Ohio, United States (group origin; Gerald Levert birthplace)'
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/The+Rude+Boys/+wiki
-- https://kids.kiddle.co/Gerald_Levert
-- https://soulinstereo.com/2009/12/whatever-happened-to-rude-boys.html
+  - 'https://www.last.fm/music/The+Rude+Boys/+wiki'
+  - 'https://kids.kiddle.co/Gerald_Levert'
+  - 'https://soulinstereo.com/2009/12/whatever-happened-to-rude-boys.html'
 spotify_data:
   followers: 4402
   id: 70CpaIiQvC8u1r98wkqCKn
   popularity: 31
-  url: https://open.spotify.com/artist/70CpaIiQvC8u1r98wkqCKn
+  url: 'https://open.spotify.com/artist/70CpaIiQvC8u1r98wkqCKn'
 status: active
 title: Rude Boys/ Gerald Levert
+birth_date: '1966-07-13'
+death_date: '2006-11-10'
+artist_type: band
 ---
 
 ![]()

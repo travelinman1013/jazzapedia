@@ -2,23 +2,23 @@
 title: Lee Hazlewood
 wiki_slug: lee-hazlewood
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 aliases: []
 birth_date: '1929-07-09'
-birth_place: Belfast area, Northern Ireland, United Kingdom
+birth_place: 'Belfast area, Northern Ireland, United Kingdom'
 death_date: '2007-08-04'
 genres:
-- baroque pop
+  - baroque pop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Lee_Hazlewood.jpg
   caption: Lee Hazlewood
   background: classical
   born: '1929-07-09'
-  origin: Belfast area, Northern Ireland, United Kingdom
+  origin: 'Belfast area, Northern Ireland, United Kingdom'
   died: '2007-08-04'
 audio_profile:
-  tempo_avg: 117.0
+  tempo_avg: 117
   energy_avg: 0.437
   valence_avg: 0.54
   danceability_avg: 0.489
@@ -32,8 +32,8 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Gareth Dunlop
-  - Jamie Neish
+    - Gareth Dunlop
+    - Jamie Neish
   influenced: []
   mentors: []
 related_artists: []
@@ -41,43 +41,46 @@ spotify_data:
   followers: 80815
   id: 2aVHDjRHRM7dcFkGwahXLG
   popularity: 50
-  url: https://open.spotify.com/artist/2aVHDjRHRM7dcFkGwahXLG
+  url: 'https://open.spotify.com/artist/2aVHDjRHRM7dcFkGwahXLG'
   verified: false
 discography_enriched: true
 albums_count: 25
 singles_count: 4
 top_tracks:
-- Summer Wine (Nancy & Lee)
-- Summer Wine (Start Walkin' 1965-1976)
-- Some Velvet Morning (Start Walkin' 1965-1976)
-- Your Sweet Love (The Very Special World Of Lee Hazlewood (Expanded Edition))
-- Lady Bird (Start Walkin' 1965-1976)
-- My Autumn's Done Come (The Very Special World Of Lee Hazlewood (Expanded Edition))
-- Jackson (Start Walkin' 1965-1976)
-- You've Lost That Lovin' Feelin' (Nancy & Lee)
-- Paris Summer (Start Walkin' 1965-1976)
-- Some Velvet Morning (Nancy & Lee)
+  - Summer Wine (Nancy & Lee)
+  - Summer Wine (Start Walkin' 1965-1976)
+  - Some Velvet Morning (Start Walkin' 1965-1976)
+  - Your Sweet Love (The Very Special World Of Lee Hazlewood (Expanded Edition))
+  - Lady Bird (Start Walkin' 1965-1976)
+  - >-
+    My Autumn's Done Come (The Very Special World Of Lee Hazlewood (Expanded
+    Edition))
+  - Jackson (Start Walkin' 1965-1976)
+  - You've Lost That Lovin' Feelin' (Nancy & Lee)
+  - Paris Summer (Start Walkin' 1965-1976)
+  - Some Velvet Morning (Nancy & Lee)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/56d9908f-548e-40c1-837f-cd006d79d3a0
-  spotify: https://open.spotify.com/artist/2aVHDjRHRM7dcFkGwahXLG
-  wikipedia: https://en.wikipedia.org/wiki/Lee_Rogers
+  musicbrainz: 'https://musicbrainz.org/artist/56d9908f-548e-40c1-837f-cd006d79d3a0'
+  spotify: 'https://open.spotify.com/artist/2aVHDjRHRM7dcFkGwahXLG'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lee_Rogers'
 image_path: 03_Resources/source_material/ArtistPortraits/Lee_Hazlewood.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:17:29.534344'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Psychedelic Baby Magazine
-- Sycamore Studios recording information
+  - Psychedelic Baby Magazine
+  - Sycamore Studios recording information
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 11:44:09.131591
+entry_created: 2025-09-18T11:44:09.131Z
 last_updated: '2025-12-23T08:16:02.974508'
 gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:34:51.927161'
 musicbrainz_id: 56d9908f-548e-40c1-837f-cd006d79d3a0
 tags:
-- country
+  - country
+is_active: false
 ---
 
 ![](Lee_Hazlewood.jpg)

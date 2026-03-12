@@ -1,46 +1,48 @@
 ---
 biography_enhanced_at: '2026-01-05T07:52:39.897479'
-birth_place: Chicago, Illinois, United States
+birth_place: 'Chicago, Illinois, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-05T07:52:39.897484'
 external_urls:
-  spotify: https://open.spotify.com/artist/5hfOHpGMsi8O3DA0ROLGqF
-  wikipedia: https://en.wikipedia.org/wiki/James_Kahn
+  spotify: 'https://open.spotify.com/artist/5hfOHpGMsi8O3DA0ROLGqF'
+  wikipedia: 'https://en.wikipedia.org/wiki/James_Kahn'
 genres:
-- classic rock
-- southern rock
+  - classic rock
+  - southern rock
 image_path: 03_Resources/source_material/ArtistPortraits/james_kahn.jpg
 last_updated: '2026-01-05T07:52:39.897485'
 musical_connections:
   collaborators:
-  - Gabe Witcher
-  - Matt Rollings
-  - John McFee
-  - Sharon Turmondt
-  - George Clooney
+    - Gabe Witcher
+    - Matt Rollings
+    - John McFee
+    - Sharon Turmondt
+    - George Clooney
   influenced: []
   mentors:
-  - Kate Wallace
-  - David West
-  - Jerome McGann
+    - Kate Wallace
+    - David West
+    - Jerome McGann
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://thatjameskahn.com/about/
-- https://en.wikipedia.org/wiki/James_Kahn
-- https://thatjameskahn.com
-- https://www.starwarsnewsnet.com/?p=172110
-- https://www.penguinrandomhouse.com/authors/14952/james-kahn/
-- https://www.babyrobotmedia.com/james-kahn/
-- http://georgegraham.com/reviews/james-kahn.html
-- https://www.musicconnection.com/new-music-critique-james-kahn/
+  - 'https://thatjameskahn.com/about/'
+  - 'https://en.wikipedia.org/wiki/James_Kahn'
+  - 'https://thatjameskahn.com'
+  - 'https://www.starwarsnewsnet.com/?p=172110'
+  - 'https://www.penguinrandomhouse.com/authors/14952/james-kahn/'
+  - 'https://www.babyrobotmedia.com/james-kahn/'
+  - 'http://georgegraham.com/reviews/james-kahn.html'
+  - 'https://www.musicconnection.com/new-music-critique-james-kahn/'
 spotify_data:
   followers: 401292
   id: 5hfOHpGMsi8O3DA0ROLGqF
   popularity: 46
-  url: https://open.spotify.com/artist/5hfOHpGMsi8O3DA0ROLGqF
+  url: 'https://open.spotify.com/artist/5hfOHpGMsi8O3DA0ROLGqF'
 status: active
-title: JAMES KAHN
+title: James Kahn
+birth_date: '1947'
+artist_type: person
 ---
 
 ![](james_kahn.jpg)

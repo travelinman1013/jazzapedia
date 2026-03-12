@@ -5,19 +5,19 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1973-07-22'
-birth_place: Rhinebeck
+birth_place: 'Rhinebeck, New York, United States'
 genres:
-- chamber pop
-- singer-songwriter
+  - chamber pop
+  - singer-songwriter
 instruments:
-- acoustic guitar
-- piano
-- guitar
-- Rhodes piano
-- lead vocals
-- background vocals
-- vocal
-- other vocals
+  - acoustic guitar
+  - piano
+  - guitar
+  - Rhodes piano
+  - lead vocals
+  - background vocals
+  - vocal
+  - other vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/rufus_wainwright.jpg
   caption: Rufus Wainwright
@@ -39,49 +39,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Martha Wainwright
-  - Mark Ronson
-  - Sean Lennon
-  - Teddy Thompson
+    - Martha Wainwright
+    - Mark Ronson
+    - Sean Lennon
+    - Teddy Thompson
   influenced:
-  - Brandi Carlile
-  - Sam Smith
+    - Brandi Carlile
+    - Sam Smith
   mentors:
-  - Kate McGarrigle
-  - Loudon Wainwright III
-  - Van Dyke Parks
+    - Kate McGarrigle
+    - Loudon Wainwright III
+    - Van Dyke Parks
 spotify_data:
   followers: 363136
   id: 2PfBzriIMRsCXPDtSy9vg8
   popularity: 54
-  url: https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8
+  url: 'https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8'
 discography_enriched: true
 top_tracks:
-- Hallelujah
-- Hallelujah
-- Another Believer
-- The Loneliest Time (feat. Rufus Wainwright) (The Loneliest Time)
-- Going To A Town (Release The Stars)
-- Across The Universe - Remix
-- Forget me not (Mon sang)
-- Oh What A World (Want One)
-- 'Old Tom Bombadil (feat. Rufus Wainwright) (The Lord of the Rings: The Rings of Power (Season 2: Amazon Original Series
-  Soundtrack))'
-- Cigarettes And Chocolate Milk (Poses (Expanded Edition))
+  - Hallelujah
+  - Hallelujah
+  - Another Believer
+  - The Loneliest Time (feat. Rufus Wainwright) (The Loneliest Time)
+  - Going To A Town (Release The Stars)
+  - Across The Universe - Remix
+  - Forget me not (Mon sang)
+  - Oh What A World (Want One)
+  - >-
+    Old Tom Bombadil (feat. Rufus Wainwright) (The Lord of the Rings: The Rings
+    of Power (Season 2: Amazon Original Series Soundtrack))
+  - Cigarettes And Chocolate Milk (Poses (Expanded Edition))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/78e46ae5-9bfd-433b-be3f-19e993d67ecc
-  spotify: https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8
-  wikipedia: https://en.wikipedia.org/wiki/Rufus_Wainwright
+  musicbrainz: 'https://musicbrainz.org/artist/78e46ae5-9bfd-433b-be3f-19e993d67ecc'
+  spotify: 'https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8'
+  wikipedia: 'https://en.wikipedia.org/wiki/Rufus_Wainwright'
 image_path: 03_Resources/source_material/ArtistPortraits/rufus_wainwright.jpg
 biography_enhanced_at: '2025-11-21T07:22:30.595747'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Rufus_Wainwright
-- https://www.rufuswainwright.com/about
-- https://sandiegotroubadour.com/rufus-wainwright-talent-comes-in-many-forms/
-- https://first-avenue.com/performer/rufus-wainwright/
-- https://www.steinway.com/news/features/the-throwback-rufus-wainwright
+  - 'https://en.wikipedia.org/wiki/Rufus_Wainwright'
+  - 'https://www.rufuswainwright.com/about'
+  - 'https://sandiegotroubadour.com/rufus-wainwright-talent-comes-in-many-forms/'
+  - 'https://first-avenue.com/performer/rufus-wainwright/'
+  - 'https://www.steinway.com/news/features/the-throwback-rufus-wainwright'
 network_extracted: true
 entry_created: '2025-11-21T07:22:30.595760'
 last_updated: '2025-12-23T08:16:15.208675'
@@ -89,9 +90,10 @@ disambiguation: Canadian‐American singer‐songwriter and composer
 gender: Male
 musicbrainz_id: 78e46ae5-9bfd-433b-be3f-19e993d67ecc
 tags:
-- 2008 universal fire victim
-- aln-sh
-- alternative rock
+  - 2008 universal fire victim
+  - aln-sh
+  - alternative rock
+origin: 'Montreal, Quebec, Canada'
 ---
 
 ![](rufus_wainwright.jpg)

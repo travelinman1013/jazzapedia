@@ -1,16 +1,16 @@
 ---
-title: BARBARA CARROLL
+title: Barbara Carroll
 wiki_slug: barbara-carroll
 schema_version: 2
 status: active
-birth_place: Worcester, Massachusetts, USA
+birth_place: 'Worcester, Massachusetts, USA'
 genres:
-- jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/barbara_carroll.jpg
   caption: BARBARA CARROLL
   background: solo_singer
-  origin: Worcester, Massachusetts, USA
+  origin: 'Worcester, Massachusetts, USA'
 audio_profile:
   tempo_avg: 112.3
   energy_avg: 0.145
@@ -26,49 +26,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Benny Goodman
-  - Paul Desmond
-  - Stan Getz
-  - Charlie Parker
-  - Billie Holiday
+    - Benny Goodman
+    - Paul Desmond
+    - Stan Getz
+    - Charlie Parker
+    - Billie Holiday
   influenced:
-  - Marian McPartland
+    - Marian McPartland
   mentors:
-  - Minner Gruber
-  - Martha Cantor
+    - Minner Gruber
+    - Martha Cantor
 spotify_data:
   followers: 836
   id: 3Nk5i5yzKcaBCo85U2wz9n
   popularity: 10
-  url: https://open.spotify.com/artist/3Nk5i5yzKcaBCo85U2wz9n
+  url: 'https://open.spotify.com/artist/3Nk5i5yzKcaBCo85U2wz9n'
 discography_enriched: true
 top_tracks:
-- '''Tis Autumn (Ladies Of Jazz)'
-- '''Tis Autumn (Ladies Of Jazz)'
-- Early Autumn (Old Friends)
-- My Funny Valentine (Ladies Of Jazz)
-- '''Tis Autumn'
-- They Can't Take That Away from Me (Ladies Of Jazz)
-- Autumn In New York (Ladies Of Jazz)
-- I Wanna Be Yours (This Heart Of Mine)
-- My Funny Valentine
-- My Funny Valentine (Ladies Of Jazz)
+  - '''Tis Autumn (Ladies Of Jazz)'
+  - '''Tis Autumn (Ladies Of Jazz)'
+  - Early Autumn (Old Friends)
+  - My Funny Valentine (Ladies Of Jazz)
+  - '''Tis Autumn'
+  - They Can't Take That Away from Me (Ladies Of Jazz)
+  - Autumn In New York (Ladies Of Jazz)
+  - I Wanna Be Yours (This Heart Of Mine)
+  - My Funny Valentine
+  - My Funny Valentine (Ladies Of Jazz)
 external_urls:
-  spotify: https://open.spotify.com/artist/3Nk5i5yzKcaBCo85U2wz9n
-  wikipedia: https://en.wikipedia.org/wiki/Barbara_Carroll
+  spotify: 'https://open.spotify.com/artist/3Nk5i5yzKcaBCo85U2wz9n'
+  wikipedia: 'https://en.wikipedia.org/wiki/Barbara_Carroll'
 image_path: 03_Resources/source_material/ArtistPortraits/barbara_carroll.jpg
 biography_enhanced_at: '2025-11-17T10:52:14.351577'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.jazzhistorydatabase.com/content/musicians/carroll_barbara/bio.php
-- https://en.wikipedia.org/wiki/Barbara_Carroll
-- https://www.bluenote.com/artist/barbara-carroll/
-- https://www.wnyc.org/story/barbara-carroll-birthday-gift/
-- https://www.wbgo.org/show/singers-unlimited/2017-02-13/jazz-pianist-and-vocalist-barbara-carroll-dies-at-92
+  - >-
+    https://www.jazzhistorydatabase.com/content/musicians/carroll_barbara/bio.php
+  - 'https://en.wikipedia.org/wiki/Barbara_Carroll'
+  - 'https://www.bluenote.com/artist/barbara-carroll/'
+  - 'https://www.wnyc.org/story/barbara-carroll-birthday-gift/'
+  - >-
+    https://www.wbgo.org/show/singers-unlimited/2017-02-13/jazz-pianist-and-vocalist-barbara-carroll-dies-at-92
 network_extracted: true
 entry_created: '2025-11-17T10:52:14.351589'
 last_updated: '2025-12-23T08:16:05.083784'
+birth_date: '1925-01-25'
+artist_type: person
 ---
 
 ![](barbara_carroll.jpg)

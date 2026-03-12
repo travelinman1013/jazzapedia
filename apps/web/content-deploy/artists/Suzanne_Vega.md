@@ -2,18 +2,18 @@
 title: Suzanne Vega
 wiki_slug: suzanne-vega
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1959-07-11'
-birth_place: Santa Monica, California, USA
+birth_place: 'Santa Monica, California, USA'
 genres:
-- singer-songwriter
+  - singer-songwriter
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Suzanne_Vega.jpg
   caption: Suzanne Vega
   background: solo_singer
   born: '1959-07-11'
-  origin: Santa Monica, California, USA
+  origin: 'Santa Monica, California, USA'
 audio_profile:
   tempo_avg: 122.2
   energy_avg: 0.428
@@ -21,7 +21,7 @@ audio_profile:
   danceability_avg: 0.606
   acousticness_avg: 0.425
   instrumentalness_avg: 0.116
-  loudness_avg: -13.0
+  loudness_avg: -13
   speechiness_avg: 0.076
   liveness_avg: 0.127
   track_count: 49
@@ -29,47 +29,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lenny Kaye
-  - Steve Addabbo
-  - Mitchell Froom
-  - Duncan Sheik
+    - Lenny Kaye
+    - Steve Addabbo
+    - Mitchell Froom
+    - Duncan Sheik
   influenced:
-  - Aimee Mann
-  - KT Tunstall
-  - Shawn Colvin
+    - Aimee Mann
+    - KT Tunstall
+    - Shawn Colvin
   mentors:
-  - Lou Reed
+    - Lou Reed
 spotify_data:
   followers: 553232
   id: 3X0tJzVYoWlfjLYI0Ridsw
   popularity: 58
-  url: https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw
+  url: 'https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw'
 discography_enriched: true
 top_tracks:
-- Tom's Diner - 7" Version
-- Luka (Solitude Standing)
-- Tom's Diner - 7" Version
-- Tom's Diner
-- Tom's Diner (Solitude Standing)
-- Tom's Diner
-- Luka (Close up, Vol. 2 - People & Places)
-- Marlene On The Wall (Suzanne Vega)
-- Tom's Diner
-- Caramel (Nine Objects Of Desire)
+  - Tom's Diner - 7" Version
+  - Luka (Solitude Standing)
+  - Tom's Diner - 7" Version
+  - Tom's Diner
+  - Tom's Diner (Solitude Standing)
+  - Tom's Diner
+  - 'Luka (Close up, Vol. 2 - People & Places)'
+  - Marlene On The Wall (Suzanne Vega)
+  - Tom's Diner
+  - Caramel (Nine Objects Of Desire)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/cf119120-7df5-47d7-9dec-49f8837a4e40
-  spotify: https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw
-  wikipedia: https://en.wikipedia.org/wiki/Suzanne_Vega
+  musicbrainz: 'https://musicbrainz.org/artist/cf119120-7df5-47d7-9dec-49f8837a4e40'
+  spotify: 'https://open.spotify.com/artist/3X0tJzVYoWlfjLYI0Ridsw'
+  wikipedia: 'https://en.wikipedia.org/wiki/Suzanne_Vega'
 image_path: 03_Resources/source_material/ArtistPortraits/Suzanne_Vega.jpg
 biography_enhanced_at: '2025-10-20T01:58:19.339975'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://learnwithspringreader.com/2024/01/03/post-137-suzanne-vega-the-voice-of-folk-and-modern-songwriting/
-- https://www.bluenote.com/artist/suzanne-vega/
-- https://www.suzannevega.com/bio
-- https://simple.wikipedia.org/wiki/Suzanne_Vega
-- https://www.highroadtouring.com/artists/suzanne-vega/
+  - >-
+    https://learnwithspringreader.com/2024/01/03/post-137-suzanne-vega-the-voice-of-folk-and-modern-songwriting/
+  - 'https://www.bluenote.com/artist/suzanne-vega/'
+  - 'https://www.suzannevega.com/bio'
+  - 'https://simple.wikipedia.org/wiki/Suzanne_Vega'
+  - 'https://www.highroadtouring.com/artists/suzanne-vega/'
 network_extracted: true
 entry_created: '2025-10-20T01:58:19.340082'
 last_updated: '2025-12-23T08:16:03.968713'
@@ -78,9 +79,9 @@ gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:44:33.968797'
 musicbrainz_id: cf119120-7df5-47d7-9dec-49f8837a4e40
 tags:
-- 2008 universal fire victim
-- alternative folk
-- art pop
+  - 2008 universal fire victim
+  - alternative folk
+  - art pop
 ---
 
 ![](Suzanne_Vega.jpg)

@@ -2,28 +2,28 @@
 title: Brennen Leigh
 wiki_slug: brennen-leigh
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1984'
-birth_place: North Dakota, USA
+birth_place: 'North Dakota, USA'
 genres:
-- americana
-- honky tonk
-- bluegrass
+  - americana
+  - honky tonk
+  - bluegrass
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Brennen_Leigh.jpg
   caption: Brennen Leigh
   background: solo_singer
   born: '1984'
-  origin: North Dakota, USA
+  origin: 'North Dakota, USA'
 audio_profile:
-  tempo_avg: 120.0
+  tempo_avg: 120
   energy_avg: 0.407
   valence_avg: 0.634
   danceability_avg: 0.577
   acousticness_avg: 0.645
   instrumentalness_avg: 0.001
-  loudness_avg: -10.0
+  loudness_avg: -10
   speechiness_avg: 0.036
   liveness_avg: 0.184
   track_count: 50
@@ -31,50 +31,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Noel McKay
-  - Jesse Dayton
-  - Sunny Sweeney
-  - Simon Flory
-  - Jenee Fleenor
+    - Noel McKay
+    - Jesse Dayton
+    - Sunny Sweeney
+    - Simon Flory
+    - Jenee Fleenor
   influenced:
-  - Charley Crockett
-  - Lee Ann Womack
-  - The Carper Family
+    - Charley Crockett
+    - Lee Ann Womack
+    - The Carper Family
   mentors:
-  - Guy Clark
-  - Melba Montgomery
+    - Guy Clark
+    - Melba Montgomery
 spotify_data:
   followers: 13133
   id: 5hoqqYuJtD3clexwJn5wWW
   popularity: 32
-  url: https://open.spotify.com/artist/5hoqqYuJtD3clexwJn5wWW
+  url: 'https://open.spotify.com/artist/5hoqqYuJtD3clexwJn5wWW'
 discography_enriched: true
 top_tracks:
-- If Tommy Duncan's Voice Was Booze (Obsessed With The West)
-- Running Out Of Hope, Arkansas - Acoustic
-- The North Dakota Cowboy (Prairie Love Letter)
-- But You Like Country Music
-- Running Out Of Hope, Arkansas (Ain’t Through Honky Tonkin’ Yet)
-- The Red Flags You Were Waving (Ain’t Through Honky Tonkin’ Yet)
-- Prairie Funeral (Prairie Love Letter)
-- Atlantic City - Western AF Version
-- In Texas With A Band (Obsessed With The West)
-- Tell Him I'm Dead (Obsessed With The West)
+  - If Tommy Duncan's Voice Was Booze (Obsessed With The West)
+  - 'Running Out Of Hope, Arkansas - Acoustic'
+  - The North Dakota Cowboy (Prairie Love Letter)
+  - But You Like Country Music
+  - 'Running Out Of Hope, Arkansas (Ain’t Through Honky Tonkin’ Yet)'
+  - The Red Flags You Were Waving (Ain’t Through Honky Tonkin’ Yet)
+  - Prairie Funeral (Prairie Love Letter)
+  - Atlantic City - Western AF Version
+  - In Texas With A Band (Obsessed With The West)
+  - Tell Him I'm Dead (Obsessed With The West)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/af6de278-905b-4aee-a893-99d1530ad395
-  spotify: https://open.spotify.com/artist/5hoqqYuJtD3clexwJn5wWW
+  musicbrainz: 'https://musicbrainz.org/artist/af6de278-905b-4aee-a893-99d1530ad395'
+  spotify: 'https://open.spotify.com/artist/5hoqqYuJtD3clexwJn5wWW'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/Brennen_Leigh.jpg
 biography_enhanced_at: '2025-10-20T01:50:46.975391'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.brennenleigh.net/biography
-- https://www.opry.com/artists/brennen-leigh
-- https://www.lonesomehighway.com/interviewsold/2023/5/30/brennen-leigh-interview
-- https://www.rocky-52.net/chanteursl/leigh_brennen.htm
-- https://first-avenue.com/performer/brennen-leigh/
-- https://www.last.fm/music/Brennen+Leigh/+wiki
+  - 'https://www.brennenleigh.net/biography'
+  - 'https://www.opry.com/artists/brennen-leigh'
+  - >-
+    https://www.lonesomehighway.com/interviewsold/2023/5/30/brennen-leigh-interview
+  - 'https://www.rocky-52.net/chanteursl/leigh_brennen.htm'
+  - 'https://first-avenue.com/performer/brennen-leigh/'
+  - 'https://www.last.fm/music/Brennen+Leigh/+wiki'
 network_extracted: true
 entry_created: '2025-10-20T01:50:46.975410'
 last_updated: '2025-12-23T08:16:01.353136'
@@ -82,7 +83,6 @@ disambiguation: US folk/country singer-songwriter
 gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:20:26.497982'
 musicbrainz_id: af6de278-905b-4aee-a893-99d1530ad395
-
 ---
 
 ![](Brennen_Leigh.jpg)

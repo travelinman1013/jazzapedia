@@ -1,72 +1,74 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: d70e959c-1528-4f41-b5f2-87d044c5833a
-  name: The Blues Giants
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: d70e959c-1528-4f41-b5f2-87d044c5833a
-  name: The Blues Giants
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ebd6c1dc-f6d6-43fe-a6ce-dd234b80929d
-  name: Bill Murray & His Blood Brothers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7270b2c4-0025-4d95-bd05-1d43b7cf10f1
-  name: Blood Brothers
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: d70e959c-1528-4f41-b5f2-87d044c5833a
+    name: The Blues Giants
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: d70e959c-1528-4f41-b5f2-87d044c5833a
+    name: The Blues Giants
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ebd6c1dc-f6d6-43fe-a6ce-dd234b80929d
+    name: Bill Murray & His Blood Brothers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7270b2c4-0025-4d95-bd05-1d43b7cf10f1
+    name: Blood Brothers
 biography_enhanced_at: '2025-12-25T01:13:37.332807'
 birth_date: '1969-08-12'
-birth_place: New York
+birth_place: 'New York City, New York, United States'
 enhancement_provider: perplexity
 entry_created: '2025-12-25T01:13:37.332819'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2a2fcfc5-0edf-4fa7-a79d-dbf4367b44b3
-  spotify: https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD
-  wikipedia: https://en.wikipedia.org/wiki/Albert_Castiglia
+  musicbrainz: 'https://musicbrainz.org/artist/2a2fcfc5-0edf-4fa7-a79d-dbf4367b44b3'
+  spotify: 'https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD'
+  wikipedia: 'https://en.wikipedia.org/wiki/Albert_Castiglia'
 gender: Male
 genres:
-- blues rock
-- modern blues
-- blues
+  - blues rock
+  - modern blues
+  - blues
 image_path: 03_Resources/source_material/ArtistPortraits/albert_castiglia.jpg
 instruments:
-- guitar
-- lead vocals
-- background vocals
+  - guitar
+  - lead vocals
+  - background vocals
 last_updated: '2025-12-25T01:13:37.332820'
 musical_connections:
   collaborators:
-  - Sandra Hall
-  - Mike Zito
-  - John Ginty
-  - Cliff Moore and Ray Hangen
+    - Sandra Hall
+    - Mike Zito
+    - John Ginty
+    - Cliff Moore and Ray Hangen
   influenced: []
   mentors:
-  - Junior Wells
+    - Junior Wells
 musicbrainz_id: 2a2fcfc5-0edf-4fa7-a79d-dbf4367b44b3
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Albert_Castiglia
-- https://www.chicagobluesguide.com/post/albert-castiglia-space-evanston-july-22-2025
-- https://wordpress.rufrecords.de/en/albert-castiglia-e/
-- https://www.albertcastiglia.net/bio
+  - 'https://en.wikipedia.org/wiki/Albert_Castiglia'
+  - >-
+    https://www.chicagobluesguide.com/post/albert-castiglia-space-evanston-july-22-2025
+  - 'https://wordpress.rufrecords.de/en/albert-castiglia-e/'
+  - 'https://www.albertcastiglia.net/bio'
 spotify_data:
   followers: 17693
   id: 5GYKbmLEAjDCaJ5IWxK3XD
   popularity: 34
-  url: https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD
+  url: 'https://open.spotify.com/artist/5GYKbmLEAjDCaJ5IWxK3XD'
 status: active
 title: Albert Castiglia
+origin: 'Miami, Florida, United States'
 ---
 
 ![](albert_castiglia.jpg)

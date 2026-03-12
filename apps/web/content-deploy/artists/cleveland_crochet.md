@@ -5,29 +5,29 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1919-01-30'
-birth_place: Jennings, Louisiana, USA (birthplace); Lake Charles, Louisiana, USA (origin)
+birth_place: 'Jennings, Louisiana, USA (birthplace); Lake Charles, Louisiana, USA (origin)'
 death_date: 2011-11
 genres:
-- cajun
-- zydeco
-- rockabilly
+  - cajun
+  - zydeco
+  - rockabilly
 instruments:
-- eponymous
-- original
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
-  mbid: acc791fe-d1e4-4de7-a993-57129cadf300
-  name: Cleveland Crochet and The Sugar Bees
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: acc791fe-d1e4-4de7-a993-57129cadf300
+    name: Cleveland Crochet and The Sugar Bees
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/cleveland_crochet.jpg
   caption: Cleveland Crochet
   background: non_vocal_instrumentalist
   born: '1919-01-30'
-  origin: Jennings, Louisiana, USA (birthplace); Lake Charles, Louisiana, USA (origin)
+  origin: 'Jennings, Louisiana, USA (birthplace); Lake Charles, Louisiana, USA (origin)'
   died: 2011-11
 audio_profile:
   tempo_avg: 136.1
@@ -44,48 +44,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Shorty 'Vorris' LeBlanc
-  - Jay Stutes
+    - Shorty 'Vorris' LeBlanc
+    - Jay Stutes
   influenced:
-  - Subsequent Cajun and swamp pop musicians
+    - Subsequent Cajun and swamp pop musicians
   mentors:
-  - Melina Trahan Crochet (mother)
+    - Melina Trahan Crochet (mother)
 spotify_data:
   followers: 173
   id: 6MAWwIG497ibsGvhFSAG82
   popularity: 3
-  url: https://open.spotify.com/artist/6MAWwIG497ibsGvhFSAG82
+  url: 'https://open.spotify.com/artist/6MAWwIG497ibsGvhFSAG82'
 discography_enriched: true
 top_tracks:
-- Sugar Bee (Sugar Bee)
-- 'Midnight Blues (Cajun Honky Tonk: The Khoury Recordings, Vol. 2)'
-- Sugar Bee (Swampland Jewels)
-- 'Sha Meon Waltz (Cajun Honky Tonk: The Khoury Recordings, Vol. 2)'
-- Sweet Thing (Swamp Blues 2)
-- Sugar Bee (Cajun Summer - Classic Artist Series, Vol. 9)
-- Midnight Blues (Pinch District Blue)
-- Hound Dog Baby (Best Of Hank Records, Vol. 2 - Vintage US Country And Hillbilly Heaven)
-- Sweet Thing (Best Of Hank Records, Vol. 1 - Vintage US Country And Hillbilly Heaven)
-- Midnight Blues (Bayou Two Step - Cajun Hits from Louisiana)
+  - Sugar Bee (Sugar Bee)
+  - 'Midnight Blues (Cajun Honky Tonk: The Khoury Recordings, Vol. 2)'
+  - Sugar Bee (Swampland Jewels)
+  - 'Sha Meon Waltz (Cajun Honky Tonk: The Khoury Recordings, Vol. 2)'
+  - Sweet Thing (Swamp Blues 2)
+  - 'Sugar Bee (Cajun Summer - Classic Artist Series, Vol. 9)'
+  - Midnight Blues (Pinch District Blue)
+  - >-
+    Hound Dog Baby (Best Of Hank Records, Vol. 2 - Vintage US Country And
+    Hillbilly Heaven)
+  - >-
+    Sweet Thing (Best Of Hank Records, Vol. 1 - Vintage US Country And Hillbilly
+    Heaven)
+  - Midnight Blues (Bayou Two Step - Cajun Hits from Louisiana)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b6e32c74-3425-4cea-8b4c-ea3f66f41b2b
-  spotify: https://open.spotify.com/artist/6MAWwIG497ibsGvhFSAG82
+  musicbrainz: 'https://musicbrainz.org/artist/b6e32c74-3425-4cea-8b4c-ea3f66f41b2b'
+  spotify: 'https://open.spotify.com/artist/6MAWwIG497ibsGvhFSAG82'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/cleveland_crochet.jpg
 biography_enhanced_at: '2025-11-20T06:46:29.984607'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://kimsloans.wordpress.com/2020/06/30/spotlight-cleveland-crochet/
-- https://www.bear-family.com/crochet-cleveland-hillbilly-ramblers-and-sugar-bees-2-cd.html
-- https://cajunradio.com/cleveland-crochet-dies-at-age-of-92/
-- https://www.johnsonfuneralhome.net/obituaries/cleveland-crochet
-- https://peel.fandom.com/wiki/Cleveland_Crochet
+  - 'https://kimsloans.wordpress.com/2020/06/30/spotlight-cleveland-crochet/'
+  - >-
+    https://www.bear-family.com/crochet-cleveland-hillbilly-ramblers-and-sugar-bees-2-cd.html
+  - 'https://cajunradio.com/cleveland-crochet-dies-at-age-of-92/'
+  - 'https://www.johnsonfuneralhome.net/obituaries/cleveland-crochet'
+  - 'https://peel.fandom.com/wiki/Cleveland_Crochet'
 network_extracted: true
 entry_created: '2025-11-20T06:46:29.984616'
 last_updated: '2025-12-23T08:16:07.075858'
 gender: Male
 musicbrainz_id: b6e32c74-3425-4cea-8b4c-ea3f66f41b2b
+is_active: false
+origin: 'Lake Charles, Louisiana, United States'
 ---
 
 ![](cleveland_crochet.jpg)

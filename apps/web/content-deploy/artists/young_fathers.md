@@ -2,21 +2,21 @@
 title: Young Fathers
 wiki_slug: young-fathers
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '2008'
 genres:
-- experimental hip hop
+  - experimental hip hop
 instruments:
-- keyboard
-- lap steel guitar
+  - keyboard
+  - lap steel guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/young_fathers.jpg
   caption: Young Fathers
   background: group_or_band
   born: '2008'
 audio_profile:
-  tempo_avg: 132.0
+  tempo_avg: 132
   energy_avg: 0.736
   valence_avg: 0.354
   danceability_avg: 0.527
@@ -30,76 +30,78 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Massive Attack
-  - Timothy London
-  - Black Sugar Records
+    - Massive Attack
+    - Timothy London
+    - Black Sugar Records
   influenced:
-  - Scottish indie and experimental hip hop scene (various artists)
+    - Scottish indie and experimental hip hop scene (various artists)
   mentors:
-  - Roots Manuva
-  - Blak Twang
-  - Sean Paul
+    - Roots Manuva
+    - Blak Twang
+    - Sean Paul
 spotify_data:
   followers: 262009
   id: 5mZC7ndY6oGMxJentRwsuV
   popularity: 48
-  url: https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV
+  url: 'https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV'
 discography_enriched: true
 top_tracks:
-- I Heard (TAPE TWO)
-- Voodoo In My Blood
-- Shame (White Men Are Black Men Too)
-- In My View (Cocoa Sugar)
-- I Saw (Heavy Heavy)
-- Toy (Cocoa Sugar)
-- Rice (Heavy Heavy)
-- Only God Knows
-- Tell Somebody (Heavy Heavy)
-- Geronimo (Heavy Heavy)
+  - I Heard (TAPE TWO)
+  - Voodoo In My Blood
+  - Shame (White Men Are Black Men Too)
+  - In My View (Cocoa Sugar)
+  - I Saw (Heavy Heavy)
+  - Toy (Cocoa Sugar)
+  - Rice (Heavy Heavy)
+  - Only God Knows
+  - Tell Somebody (Heavy Heavy)
+  - Geronimo (Heavy Heavy)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/24aa5c20-a275-468a-93a9-b3d96b344b6c
-  spotify: https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV
-  wikipedia: https://en.wikipedia.org/wiki/Young_Fathers
+  musicbrainz: 'https://musicbrainz.org/artist/24aa5c20-a275-468a-93a9-b3d96b344b6c'
+  spotify: 'https://open.spotify.com/artist/5mZC7ndY6oGMxJentRwsuV'
+  wikipedia: 'https://en.wikipedia.org/wiki/Young_Fathers'
 image_path: 03_Resources/source_material/ArtistPortraits/young_fathers.jpg
 biography_enhanced_at: '2025-12-17T02:15:50.446771'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Young+Fathers/+wiki
-- https://www.theaudiodb.com/artist/132152-Young-Fathers
-- https://www.prsformusic.com/m-magazine/features/young-fathers
-- https://kevinegperry.com/2015/03/24/in-the-name-of-the-fathers-young-fathers-nme-interview/
-- https://www.myp-magazine.com/interview/young-fathers-a-constant-tug-of-war/
-- https://daily.bandcamp.com/resonance/young-fathers-cocoa-sugar-essay
-- https://www.goodtroublemag.com/home/young-fathers
+  - 'https://www.last.fm/music/Young+Fathers/+wiki'
+  - 'https://www.theaudiodb.com/artist/132152-Young-Fathers'
+  - 'https://www.prsformusic.com/m-magazine/features/young-fathers'
+  - >-
+    https://kevinegperry.com/2015/03/24/in-the-name-of-the-fathers-young-fathers-nme-interview/
+  - 'https://www.myp-magazine.com/interview/young-fathers-a-constant-tug-of-war/'
+  - 'https://daily.bandcamp.com/resonance/young-fathers-cocoa-sugar-essay'
+  - 'https://www.goodtroublemag.com/home/young-fathers'
 network_extracted: true
 entry_created: '2025-12-17T02:15:50.446786'
 last_updated: '2025-12-23T08:16:18.364386'
 disambiguation: Scottish lo‐fi hip hop group
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - keyboard
-  mbid: 48a3d441-728d-4da4-9d23-a68657c860ec
-  name: Callum Easter
-- begin: ''
-  end: ''
-  instruments:
-  - lap steel guitar
-  mbid: 48a3d441-728d-4da4-9d23-a68657c860ec
-  name: Callum Easter
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 564bfa66-324c-4f7c-89d1-d012c67a151e
-  name: Graham Hastings
+  - begin: ''
+    end: ''
+    instruments:
+      - keyboard
+    mbid: 48a3d441-728d-4da4-9d23-a68657c860ec
+    name: Callum Easter
+  - begin: ''
+    end: ''
+    instruments:
+      - lap steel guitar
+    mbid: 48a3d441-728d-4da4-9d23-a68657c860ec
+    name: Callum Easter
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 564bfa66-324c-4f7c-89d1-d012c67a151e
+    name: Graham Hastings
 musicbrainz_id: 24aa5c20-a275-468a-93a9-b3d96b344b6c
-origin: Edinburgh
+origin: 'Edinburgh, Scotland, United Kingdom'
 tags:
-- alternative hip hop
-- breakbeat
-- breaks
+  - alternative hip hop
+  - breakbeat
+  - breaks
+birth_place: 'Liberia, null, null'
 ---
 
 ![](young_fathers.jpg)

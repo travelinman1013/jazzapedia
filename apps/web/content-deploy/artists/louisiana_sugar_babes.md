@@ -1,17 +1,17 @@
 ---
-title: LOUISIANA SUGAR BABES
+title: Louisiana Sugar Babes
 wiki_slug: louisiana-sugar-babes
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- ragtime
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/louisiana_sugar_babes.jpg
   caption: LOUISIANA SUGAR BABES
   background: group_or_band
 audio_profile:
-  tempo_avg: 115.0
+  tempo_avg: 115
   energy_avg: 0.183
   valence_avg: 0.584
   danceability_avg: 0.461
@@ -25,67 +25,67 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Fats Waller
-  - James P. Johnson
-  - Garvin Bushell
+    - Fats Waller
+    - James P. Johnson
+    - Garvin Bushell
   influenced:
-  - Countless jazz pianists and ensemble players
+    - Countless jazz pianists and ensemble players
   mentors:
-  - James P. Johnson
+    - James P. Johnson
 spotify_data:
   followers: 175
   id: 7v7kaJu9r56aWIC4JnfPp0
   popularity: 4
-  url: https://open.spotify.com/artist/7v7kaJu9r56aWIC4JnfPp0
+  url: 'https://open.spotify.com/artist/7v7kaJu9r56aWIC4JnfPp0'
 discography_enriched: true
 top_tracks:
-- '''Sippi (If You Got To Ask, You Ain''t Got It!)'
-- Thou Swell (If You Got To Ask, You Ain't Got It!)
-- Willow Tree - Remastered 2002 (At The Piano (Bluebird's Best Series))
-- Willow Tree (Classic Sessions Vol. 1)
-- Persian Rug (Classic Sessions Vol. 1)
-- 'Thou Swell (From "Connecticut Yankee") (Planet Jazz: Jazz Piano)'
-- '''Sippi (Classic Sessions Vol. 1)'
-- Thou Swell (Classic Sessions Vol. 1)
-- Willow Tree - Alternate Take (Classic Sessions Vol. 1)
-- '''Sippi - Alternate Take (Classic Sessions Vol. 1)'
+  - '''Sippi (If You Got To Ask, You Ain''t Got It!)'
+  - 'Thou Swell (If You Got To Ask, You Ain''t Got It!)'
+  - Willow Tree - Remastered 2002 (At The Piano (Bluebird's Best Series))
+  - Willow Tree (Classic Sessions Vol. 1)
+  - Persian Rug (Classic Sessions Vol. 1)
+  - 'Thou Swell (From "Connecticut Yankee") (Planet Jazz: Jazz Piano)'
+  - '''Sippi (Classic Sessions Vol. 1)'
+  - Thou Swell (Classic Sessions Vol. 1)
+  - Willow Tree - Alternate Take (Classic Sessions Vol. 1)
+  - '''Sippi - Alternate Take (Classic Sessions Vol. 1)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f826e76e-6d94-4703-9583-b5d33347295d
-  spotify: https://open.spotify.com/artist/7v7kaJu9r56aWIC4JnfPp0
+  musicbrainz: 'https://musicbrainz.org/artist/f826e76e-6d94-4703-9583-b5d33347295d'
+  spotify: 'https://open.spotify.com/artist/7v7kaJu9r56aWIC4JnfPp0'
   wikipedia: null
 image_path: ''
 biography_enhanced_at: '2025-11-20T06:34:48.266404'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://syncopatedtimes.com/louisiana-sugar-babes/
-- https://syncopatedtimes.com/fats-waller-profiles-in-jazz/
+  - 'https://syncopatedtimes.com/louisiana-sugar-babes/'
+  - 'https://syncopatedtimes.com/fats-waller-profiles-in-jazz/'
 network_extracted: true
 entry_created: '2025-11-20T06:34:48.266417'
 last_updated: '2025-12-23T08:16:12.278979'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5ccc84ff-788f-4b89-9b3c-904560235ad7
-  name: Garvin Bushell
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2a58b026-9659-4bfb-90c9-56c4ad9125f1
-  name: James P. Johnson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f785b7c7-83b3-46be-8eb6-31f7a6a6a89d
-  name: Jabbo Smith
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 569fc5bf-bcb6-4bc5-9a00-bd0d258e34f1
-  name: Fats Waller
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5ccc84ff-788f-4b89-9b3c-904560235ad7
+    name: Garvin Bushell
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2a58b026-9659-4bfb-90c9-56c4ad9125f1
+    name: James P. Johnson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f785b7c7-83b3-46be-8eb6-31f7a6a6a89d
+    name: Jabbo Smith
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 569fc5bf-bcb6-4bc5-9a00-bd0d258e34f1
+    name: Fats Waller
 musicbrainz_id: f826e76e-6d94-4703-9583-b5d33347295d
-origin: New York City, New York, USA
+origin: 'New York City, New York, USA'
 ---
 
 ![]()

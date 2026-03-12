@@ -5,66 +5,66 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1963-03-24'
-birth_place: Montclair
+birth_place: 'Montclair, New Jersey, United States'
 genres:
-- free jazz
-- jazz
+  - free jazz
+  - jazz
 instruments:
-- original
-- trumpet
-- eponymous
-- Rhodes piano
-associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e52ef1f8-ed25-490c-8e47-96b1d43c68b6
-  name: Masada
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1583dc8d-4f93-4fb9-ad1a-f21982e4e8a0
-  name: Dave Douglas & Keystone
-- begin: ''
-  end: ''
-  instruments:
   - original
-  mbid: a3d780d4-ec2b-43e9-9232-3fceae8f8cf2
-  name: Dave Douglas Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 69c6effe-7d06-476d-b132-cede9925885c
-  name: Masada Quintet
-- begin: ''
-  end: ''
-  instruments:
   - trumpet
-  mbid: 0fc63d49-f644-45c2-9f0f-1aa59604ffe8
-  name: The Same River, Twice
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 955c7232-9f15-4eb1-a29f-a4b8af1339d2
-  name: Blue Buddha
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8107b975-e33d-45a6-9821-7f4eee90d724
-  name: Tiny Bell Trio
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: 877e1082-6598-4522-a3ef-785865367355
-  name: Second Sight
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
-  - original
-  mbid: 47812ace-089e-40fb-b146-d6c38f2ff753
-  name: Misha Mengelberg and Dave Douglas Duo
+  - Rhodes piano
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e52ef1f8-ed25-490c-8e47-96b1d43c68b6
+    name: Masada
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1583dc8d-4f93-4fb9-ad1a-f21982e4e8a0
+    name: Dave Douglas & Keystone
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: a3d780d4-ec2b-43e9-9232-3fceae8f8cf2
+    name: Dave Douglas Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 69c6effe-7d06-476d-b132-cede9925885c
+    name: Masada Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: 0fc63d49-f644-45c2-9f0f-1aa59604ffe8
+    name: 'The Same River, Twice'
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 955c7232-9f15-4eb1-a29f-a4b8af1339d2
+    name: Blue Buddha
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8107b975-e33d-45a6-9821-7f4eee90d724
+    name: Tiny Bell Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: 877e1082-6598-4522-a3ef-785865367355
+    name: Second Sight
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 47812ace-089e-40fb-b146-d6c38f2ff753
+    name: Misha Mengelberg and Dave Douglas Duo
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/dave_douglas.jpg
   caption: Dave Douglas
@@ -86,49 +86,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mark Feldman
-  - Guy Klucevsek
-  - Greg Cohen
-  - Chris Potter
-  - Jim Black
-  - Brad Shepik
-  - John Zorn
-  - Joey Baron
+    - Mark Feldman
+    - Guy Klucevsek
+    - Greg Cohen
+    - Chris Potter
+    - Jim Black
+    - Brad Shepik
+    - John Zorn
+    - Joey Baron
   influenced: []
   mentors:
-  - Carmine Caruso
-  - Horace Silver
+    - Carmine Caruso
+    - Horace Silver
 spotify_data:
   followers: 14158
   id: 3SQrLX0O6RbBjmSIkwCgJb
   popularity: 23
-  url: https://open.spotify.com/artist/3SQrLX0O6RbBjmSIkwCgJb
+  url: 'https://open.spotify.com/artist/3SQrLX0O6RbBjmSIkwCgJb'
 discography_enriched: true
 top_tracks:
-- Soar Away (Present Joys)
-- The Godfather - Love Theme (Nino Rota)
-- Supplication (Present Joys)
-- Poses (The Infinite)
-- The Godfather - Waltz (Nino Rota)
-- Take The A Train (GIFTS)
-- Duo - Solo For Trumpet And Sampler
-- If I Should Fall Behind - Voice (Wait For Me)
-- 'The Big Hunt (fourth synopsis) (What We Live: Quintet For A Day)'
-- 'The Magician - Live (The Magician: Live in Jerusalem)'
+  - Soar Away (Present Joys)
+  - The Godfather - Love Theme (Nino Rota)
+  - Supplication (Present Joys)
+  - Poses (The Infinite)
+  - The Godfather - Waltz (Nino Rota)
+  - Take The A Train (GIFTS)
+  - Duo - Solo For Trumpet And Sampler
+  - If I Should Fall Behind - Voice (Wait For Me)
+  - 'The Big Hunt (fourth synopsis) (What We Live: Quintet For A Day)'
+  - 'The Magician - Live (The Magician: Live in Jerusalem)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c423b65c-2302-45dd-a3a4-ae10e519196a
-  spotify: https://open.spotify.com/artist/3SQrLX0O6RbBjmSIkwCgJb
-  wikipedia: https://en.wikipedia.org/wiki/Dave_Douglas_(trumpeter)
+  musicbrainz: 'https://musicbrainz.org/artist/c423b65c-2302-45dd-a3a4-ae10e519196a'
+  spotify: 'https://open.spotify.com/artist/3SQrLX0O6RbBjmSIkwCgJb'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dave_Douglas_(trumpeter)'
 image_path: 03_Resources/source_material/ArtistPortraits/dave_douglas.jpg
 biography_enhanced_at: '2025-12-04T08:00:24.351807'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Dave Douglas (trumpeter)
-- Jazz at the Library - Anacortes Public Library
-- Greenleaf Music official artist page
-- Blue Note Records artist biography
-- Dave Douglas official website
+  - Wikipedia - Dave Douglas (trumpeter)
+  - Jazz at the Library - Anacortes Public Library
+  - Greenleaf Music official artist page
+  - Blue Note Records artist biography
+  - Dave Douglas official website
 network_extracted: true
 entry_created: '2025-12-04T08:00:24.351817'
 last_updated: '2025-12-23T08:16:07.503824'
@@ -136,9 +136,10 @@ disambiguation: jazz trumpeter
 gender: Male
 musicbrainz_id: c423b65c-2302-45dd-a3a4-ae10e519196a
 tags:
-- avant-garde jazz
-- jazz
-- jazz and blues
+  - avant-garde jazz
+  - jazz
+  - jazz and blues
+origin: 'New York City, New York, United States'
 ---
 
 ![](dave_douglas.jpg)

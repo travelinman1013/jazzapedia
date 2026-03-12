@@ -8,15 +8,15 @@ birth_date: '1953-11-01'
 death_date: '1999-09-10'
 years_active: 1991–1999
 genres:
-- zydeco
-- cajun
+  - zydeco
+  - cajun
 instruments:
-- accordion
-- voice
+  - accordion
+  - voice
 occupation:
-- singer
+  - singer
 record_labels:
-- Rounder Records
+  - Rounder Records
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Beau_Jocque.jpg
   caption: Beau Jocque
@@ -41,31 +41,34 @@ spotify_data:
   followers: 3923
   id: 4yZdmbbfwA13DhD91iaZXc
   popularity: 16
-  url: https://open.spotify.com/artist/4yZdmbbfwA13DhD91iaZXc
+  url: 'https://open.spotify.com/artist/4yZdmbbfwA13DhD91iaZXc'
   verified: false
 discography_enriched: true
 albums_count: 0
 singles_count: 1
 top_tracks:
-- The Second Line (Zydeco Giant)
-- Pop That Coochie (This Is Beau Jocque!)
-- Beau Jocque Two-Step (This Is Beau Jocque!)
-- Suzy Q (Zydeco Giant)
-- Hot Tamale Baby (Zydeco Giant)
-- Tee Toe Hot Step (This Is Beau Jocque!)
-- Pine Point Trail Ride (Ultimate Zydeco)
-- My Name Is Beau Jocque (This Is Beau Jocque!)
-- I'm a Girl Watcher (Zydeco Giant)
-- No Good Woman (Ultimate Zydeco)
+  - The Second Line (Zydeco Giant)
+  - Pop That Coochie (This Is Beau Jocque!)
+  - Beau Jocque Two-Step (This Is Beau Jocque!)
+  - Suzy Q (Zydeco Giant)
+  - Hot Tamale Baby (Zydeco Giant)
+  - Tee Toe Hot Step (This Is Beau Jocque!)
+  - Pine Point Trail Ride (Ultimate Zydeco)
+  - My Name Is Beau Jocque (This Is Beau Jocque!)
+  - I'm a Girl Watcher (Zydeco Giant)
+  - No Good Woman (Ultimate Zydeco)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/4yZdmbbfwA13DhD91iaZXc
-  wikipedia: https://en.wikipedia.org/wiki/Beau_Jocque
+  spotify: 'https://open.spotify.com/artist/4yZdmbbfwA13DhD91iaZXc'
+  wikipedia: 'https://en.wikipedia.org/wiki/Beau_Jocque'
 image_path: 03_Resources/source_material/ArtistPortraits/Beau_Jocque.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-18T15:51:47.590879'
-entry_created: 2025-09-18 13:05:55.459301
+entry_created: 2025-09-18T13:05:55.459Z
 last_updated: '2025-12-23T08:16:05.159445'
+is_active: false
+birth_place: 'Duralde, Louisiana, United States'
+artist_type: person
 ---
 
 ![](Beau_Jocque.jpg)

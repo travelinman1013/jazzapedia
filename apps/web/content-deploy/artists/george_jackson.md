@@ -1,17 +1,17 @@
 ---
-title: george jackson
+title: George Jackson
 wiki_slug: george-jackson
 schema_version: 2
 status: active
-birth_place: Indianola, Mississippi, United States
+birth_place: 'Indianola, Mississippi, United States'
 genres:
-- northern soul
-- soul
+  - northern soul
+  - soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/george_jackson.jpg
   caption: george jackson
   background: solo_singer
-  origin: Indianola, Mississippi, United States
+  origin: 'Indianola, Mississippi, United States'
 audio_profile:
   tempo_avg: 123.2
   energy_avg: 0.544
@@ -27,50 +27,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dan Greer
-  - Louis Williams
-  - Clarence Carter
-  - Thomas Jones III
+    - Dan Greer
+    - Louis Williams
+    - Clarence Carter
+    - Thomas Jones III
   influenced:
-  - The Osmonds
-  - Bob Seger
-  - Z.Z. Hill
+    - The Osmonds
+    - Bob Seger
+    - Z.Z. Hill
   mentors:
-  - Sam Cooke
-  - Ike Turner
+    - Sam Cooke
+    - Ike Turner
 spotify_data:
   followers: 13264
   id: 5PmB2ZWfKuqLb60qZdi4ys
   popularity: 34
-  url: https://open.spotify.com/artist/5PmB2ZWfKuqLb60qZdi4ys
+  url: 'https://open.spotify.com/artist/5PmB2ZWfKuqLb60qZdi4ys'
 discography_enriched: true
 top_tracks:
-- I Can't Do Without You (The Soul Of George Jackson)
-- Aretha, Sing One for Me (The Blues Sessions)
-- Things Are Getting Better (George Jackson in Memphis 1972-1977)
-- How Can I Get Next To You (George Jackson in Memphis 1972-1977)
-- Walking the City Streets (George Jackson in Memphis 1972-1977)
-- Play Something Pretty (All Because of Your Love)
-- All Because of Your Love (All Because of Your Love)
-- All In My Mind (George Jackson in Memphis 1972-1977)
-- I Want You So Bad (The Soul Of George Jackson)
-- I Don't Need You No Moore (George Jackson in Memphis 1972-1977)
+  - I Can't Do Without You (The Soul Of George Jackson)
+  - 'Aretha, Sing One for Me (The Blues Sessions)'
+  - Things Are Getting Better (George Jackson in Memphis 1972-1977)
+  - How Can I Get Next To You (George Jackson in Memphis 1972-1977)
+  - Walking the City Streets (George Jackson in Memphis 1972-1977)
+  - Play Something Pretty (All Because of Your Love)
+  - All Because of Your Love (All Because of Your Love)
+  - All In My Mind (George Jackson in Memphis 1972-1977)
+  - I Want You So Bad (The Soul Of George Jackson)
+  - I Don't Need You No Moore (George Jackson in Memphis 1972-1977)
 external_urls:
-  spotify: https://open.spotify.com/artist/5PmB2ZWfKuqLb60qZdi4ys
-  wikipedia: https://en.wikipedia.org/wiki/George_Jackson_(songwriter)
+  spotify: 'https://open.spotify.com/artist/5PmB2ZWfKuqLb60qZdi4ys'
+  wikipedia: 'https://en.wikipedia.org/wiki/George_Jackson_(songwriter)'
 image_path: 03_Resources/source_material/ArtistPortraits/george_jackson.jpg
 biography_enhanced_at: '2025-11-21T07:20:33.559793'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/George_Jackson_(songwriter)
-- https://soulexpress.net/georgejackson_interview.htm
-- https://jointzoftheday.substack.com/p/george-jackson-1945-2013-unsung-soul-songwriter
-- https://www.last.fm/music/George+Jackson/+wiki
-- https://www.the-independent.com/news/obituaries/george-jackson-songwriter-who-penned-hundreds-of-soul-rock-and-r-n-b-tunes-8583563.html
+  - 'https://en.wikipedia.org/wiki/George_Jackson_(songwriter)'
+  - 'https://soulexpress.net/georgejackson_interview.htm'
+  - >-
+    https://jointzoftheday.substack.com/p/george-jackson-1945-2013-unsung-soul-songwriter
+  - 'https://www.last.fm/music/George+Jackson/+wiki'
+  - >-
+    https://www.the-independent.com/news/obituaries/george-jackson-songwriter-who-penned-hundreds-of-soul-rock-and-r-n-b-tunes-8583563.html
 network_extracted: true
 entry_created: '2025-11-21T07:20:33.559803'
 last_updated: '2025-12-23T08:16:09.091795'
+birth_date: '1945-03-12'
+death_date: '2013-04-14'
+artist_type: person
 ---
 
 ![](george_jackson.jpg)

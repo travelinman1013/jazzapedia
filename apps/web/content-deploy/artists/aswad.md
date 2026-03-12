@@ -1,101 +1,104 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-19T01:16:53.953848'
 birth_date: '1975'
 disambiguation: British reggae group
 enhancement_provider: perplexity
 entry_created: '2026-01-19T01:16:53.953853'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/617f2574-c2bd-4e39-9627-34fc9742a024
-  spotify: https://open.spotify.com/artist/55LyOQNIa9J8wX6y6eJfc0
+  musicbrainz: 'https://musicbrainz.org/artist/617f2574-c2bd-4e39-9627-34fc9742a024'
+  spotify: 'https://open.spotify.com/artist/55LyOQNIa9J8wX6y6eJfc0'
   wikipedia: ''
 genres:
-- reggae
-- roots reggae
-- lovers rock
-- dub
-- reggae pop
-- ragga
+  - reggae
+  - roots reggae
+  - lovers rock
+  - dub
+  - reggae pop
+  - ragga
 image_path: 03_Resources/source_material/ArtistPortraits/aswad.jpg
 last_updated: '2026-01-19T01:16:53.953853'
 members:
-- &id001
-  begin: '1980'
-  end: ''
-  instruments: []
-  mbid: 87a20ca3-98cc-4d6f-92be-ad8cbb8499da
-  name: Tony Gad
-- begin: ''
-  end: '1980'
-  instruments: []
-  mbid: 0bda7711-0b4d-4616-b053-af62cae3d1ab
-  name: George Oban
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3ee8ce8e-bdfa-4427-902a-aa31a361f9f9
-  name: Martin Augustine
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 29b7a065-b5fb-46da-ae08-d5ce0b313600
-  name: Brinsley Forde
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a6ef3168-b83f-4301-a297-94f555915804
-  name: Angus Gaye
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 00ce98ef-e7df-4b59-a640-11e2de23e1a3
-  name: Donald Griffiths
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1c455118-be21-4b18-ada2-83cdb5801c54
-  name: Jimmy Haynes
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c2866c5b-6f52-4e9e-aa68-84e08c3936e9
-  name: Clifton Morrison
+  - &ref_0
+    begin: '1980'
+    end: ''
+    instruments: []
+    mbid: 87a20ca3-98cc-4d6f-92be-ad8cbb8499da
+    name: Tony Gad
+  - begin: ''
+    end: '1980'
+    instruments: []
+    mbid: 0bda7711-0b4d-4616-b053-af62cae3d1ab
+    name: George Oban
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3ee8ce8e-bdfa-4427-902a-aa31a361f9f9
+    name: Martin Augustine
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 29b7a065-b5fb-46da-ae08-d5ce0b313600
+    name: Brinsley Forde
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a6ef3168-b83f-4301-a297-94f555915804
+    name: Angus Gaye
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 00ce98ef-e7df-4b59-a640-11e2de23e1a3
+    name: Donald Griffiths
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1c455118-be21-4b18-ada2-83cdb5801c54
+    name: Jimmy Haynes
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c2866c5b-6f52-4e9e-aa68-84e08c3936e9
+    name: Clifton Morrison
 musical_connections:
   collaborators:
-  - Brinsley Forde
-  - Drummie Zeb (Angus Gaye)
-  - George Oban
-  - Tony Gad Robinson
-  - Burning Spear
+    - Brinsley Forde
+    - Drummie Zeb (Angus Gaye)
+    - George Oban
+    - Tony Gad Robinson
+    - Burning Spear
   influenced:
-  - Steel Pulse
+    - Steel Pulse
   mentors:
-  - Bob Marley
-  - Chris Blackwell
+    - Bob Marley
+    - Chris Blackwell
 musicbrainz_id: 617f2574-c2bd-4e39-9627-34fc9742a024
 network_extracted: true
-origin: London
+origin: 'London, England, United Kingdom'
 original_members:
-- *id001
+  - *ref_0
 primary_source: perplexity
 research_sources:
-- https://www.reggaeville.com/artist-details/aswad/about/
-- https://www.last.fm/music/Aswad/+wiki
-- https://www.youtube.com/watch?v=uoGYnpff11E
-- https://www.udiscovermusic.com/stories/aswad-self-titled-debut-album-feature/
-- https://www.chilfest.co.uk/aswad
-- https://www.voice-online.co.uk/entertainment/music/2016/02/27/aswad-40-years-and-counting/
-- https://theoriginalentertainment.co.uk/entertainment-services/celebrity-talent/aswad/
+  - 'https://www.reggaeville.com/artist-details/aswad/about/'
+  - 'https://www.last.fm/music/Aswad/+wiki'
+  - 'https://www.youtube.com/watch?v=uoGYnpff11E'
+  - >-
+    https://www.udiscovermusic.com/stories/aswad-self-titled-debut-album-feature/
+  - 'https://www.chilfest.co.uk/aswad'
+  - >-
+    https://www.voice-online.co.uk/entertainment/music/2016/02/27/aswad-40-years-and-counting/
+  - >-
+    https://theoriginalentertainment.co.uk/entertainment-services/celebrity-talent/aswad/
 spotify_data:
   followers: 192323
   id: 55LyOQNIa9J8wX6y6eJfc0
   popularity: 46
-  url: https://open.spotify.com/artist/55LyOQNIa9J8wX6y6eJfc0
+  url: 'https://open.spotify.com/artist/55LyOQNIa9J8wX6y6eJfc0'
 status: active
 tags:
-- british
-- classic pop and rock
-- english
+  - british
+  - classic pop and rock
+  - english
 title: Aswad
 ---
 

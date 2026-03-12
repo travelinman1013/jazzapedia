@@ -5,13 +5,13 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1986-12-29'
-birth_place: New Orleans
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- jazz
+  - jazz
 instruments:
-- piano
-- Rhodes piano
-- background vocals
+  - piano
+  - Rhodes piano
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sullivan_fortner.jpg
   caption: Sullivan Fortner
@@ -33,60 +33,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Roy Hargrove
-  - Stefon Harris
-  - Cécile McLorin Salvant
-  - Samara Joy
-  - Justin Robinson
-  - Tivon Pennicott, Ameen Saleem, Jeremy "Bean" Clemons
-  - Paul Simon
-  - Etienne Charles and other contemporary jazz leaders
+    - Roy Hargrove
+    - Stefon Harris
+    - Cécile McLorin Salvant
+    - Samara Joy
+    - Justin Robinson
+    - 'Tivon Pennicott, Ameen Saleem, Jeremy "Bean" Clemons'
+    - Paul Simon
+    - Etienne Charles and other contemporary jazz leaders
   influenced:
-  - Students at Oberlin Conservatory and Oberlin jazz piano studio
-  - Students at Manhattan School of Music, NOCCA, Purdue University, Lafayette Summer Music Workshop, Belmont University
+    - Students at Oberlin Conservatory and Oberlin jazz piano studio
+    - >-
+      Students at Manhattan School of Music, NOCCA, Purdue University, Lafayette
+      Summer Music Workshop, Belmont University
   mentors:
-  - Barry Harris
-  - Faculty at New Orleans Center for Creative Arts (NOCCA)
-  - Oberlin Conservatory and Manhattan School of Music teachers
+    - Barry Harris
+    - Faculty at New Orleans Center for Creative Arts (NOCCA)
+    - Oberlin Conservatory and Manhattan School of Music teachers
 spotify_data:
   followers: 12727
   id: 2kQZjl1wnD42U6rKhAHmz5
   popularity: 39
-  url: https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5
+  url: 'https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5'
 discography_enriched: true
 top_tracks:
-- Flight
-- Vida
-- At Long Last Love - LIVE at Flux Studio
-- Don't You Worry About a Thing (Solo Game)
-- The Sweetest Sounds (Musa)
-- Protocol (Alma Oscura)
-- La Llegada
-- Love Is Here To Stay
-- Bold
-- Southern Nights (Southern Nights)
+  - Flight
+  - Vida
+  - At Long Last Love - LIVE at Flux Studio
+  - Don't You Worry About a Thing (Solo Game)
+  - The Sweetest Sounds (Musa)
+  - Protocol (Alma Oscura)
+  - La Llegada
+  - Love Is Here To Stay
+  - Bold
+  - Southern Nights (Southern Nights)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/23ce0f88-b868-42e4-8550-c2285808d24b
-  spotify: https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5
-  wikipedia: https://en.wikipedia.org/wiki/Sullivan_Fortner
+  musicbrainz: 'https://musicbrainz.org/artist/23ce0f88-b868-42e4-8550-c2285808d24b'
+  spotify: 'https://open.spotify.com/artist/2kQZjl1wnD42U6rKhAHmz5'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sullivan_Fortner'
 image_path: 03_Resources/source_material/ArtistPortraits/sullivan_fortner.jpg
 biography_enhanced_at: '2025-12-09T04:17:25.189427'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Sullivan_Fortner
-- https://www.sullivanfortnermusic.com/new-page
-- https://www.jazzempowers.org/sullivan-fortner
-- https://harwoodmuseum.org/events/sullivan-fortner-trio/
-- https://pennlivearts.org/blog/listenup-pianist-sullivan-fortner
-- https://jazztimes.com/features/profiles/sullivan-fortners-ongoing-ascent/
+  - 'https://en.wikipedia.org/wiki/Sullivan_Fortner'
+  - 'https://www.sullivanfortnermusic.com/new-page'
+  - 'https://www.jazzempowers.org/sullivan-fortner'
+  - 'https://harwoodmuseum.org/events/sullivan-fortner-trio/'
+  - 'https://pennlivearts.org/blog/listenup-pianist-sullivan-fortner'
+  - 'https://jazztimes.com/features/profiles/sullivan-fortners-ongoing-ascent/'
 network_extracted: true
 entry_created: '2025-12-09T04:17:25.189435'
 last_updated: '2025-12-23T08:16:16.211552'
 gender: Male
 musicbrainz_id: 23ce0f88-b868-42e4-8550-c2285808d24b
 tags:
-- jazz
+  - jazz
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](sullivan_fortner.jpg)

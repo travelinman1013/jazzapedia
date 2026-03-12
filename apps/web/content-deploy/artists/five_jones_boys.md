@@ -1,5 +1,5 @@
 ---
-title: five jones boys
+title: The Five Jones Boys
 wiki_slug: five-jones-boys
 schema_version: 2
 status: active
@@ -23,46 +23,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jimmy Springs
-  - David Patillo
-  - NBC Radio Network
-  - Keystone Broadcasting System
+    - Jimmy Springs
+    - David Patillo
+    - NBC Radio Network
+    - Keystone Broadcasting System
   influenced:
-  - Later vocal harmony groups
+    - Later vocal harmony groups
   mentors:
-  - The Mills Brothers
+    - The Mills Brothers
 spotify_data:
   followers: 222
   id: 2Jx3XBYNERzFbCmoUtTFgB
   popularity: 17
-  url: https://open.spotify.com/artist/2Jx3XBYNERzFbCmoUtTFgB
+  url: 'https://open.spotify.com/artist/2Jx3XBYNERzFbCmoUtTFgB'
 discography_enriched: true
 top_tracks:
-- 'Mr. Ghost Goes to Town (Halloween Classics: Songs That Scared The Bloomers Off Your Great-Grandma)'
-- 'Mr. Ghost Goes to Town (From The Sony Vault: Silly Scary Songs)'
-- Mr Ghost Goes To Town (The Ultimate Rockin' Halloween Party – American Horror Songs 1930s - 1950s)
-- Mr. Ghost Is Going to Town (30's & 40's Era Halloween, Vol. 1)
-- Mr. Ghost is Going to Town (feat. The Five Jones Boys) (Hipster Halloween)
-- Mr. Ghost is Going to Town (Haunting Halloween (20 Bloody Hits))
-- Mr. Ghost is Going to Town (Hipster Heebie Jeebies)
-- Mr Ghost Goes To Town (Halloween Hits)
-- Mr Ghost Goes To Town (Rockin' Halloween Party)
-- Mr Ghost Goes To Town (Happy Halloween Party)
+  - >-
+    Mr. Ghost Goes to Town (Halloween Classics: Songs That Scared The Bloomers
+    Off Your Great-Grandma)
+  - 'Mr. Ghost Goes to Town (From The Sony Vault: Silly Scary Songs)'
+  - >-
+    Mr Ghost Goes To Town (The Ultimate Rockin' Halloween Party – American
+    Horror Songs 1930s - 1950s)
+  - 'Mr. Ghost Is Going to Town (30''s & 40''s Era Halloween, Vol. 1)'
+  - Mr. Ghost is Going to Town (feat. The Five Jones Boys) (Hipster Halloween)
+  - Mr. Ghost is Going to Town (Haunting Halloween (20 Bloody Hits))
+  - Mr. Ghost is Going to Town (Hipster Heebie Jeebies)
+  - Mr Ghost Goes To Town (Halloween Hits)
+  - Mr Ghost Goes To Town (Rockin' Halloween Party)
+  - Mr Ghost Goes To Town (Happy Halloween Party)
 external_urls:
-  spotify: https://open.spotify.com/artist/2Jx3XBYNERzFbCmoUtTFgB
+  spotify: 'https://open.spotify.com/artist/2Jx3XBYNERzFbCmoUtTFgB'
   wikipedia: Not found in search results
 image_path: ''
 biography_enhanced_at: '2025-11-01T15:34:53.222539'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Marv Goldberg's R&B Notebooks - The Red Caps (uncamarvy.com)
-- The Vocal Group Harmony Web Site - The Five Jones Boys
-- The Vocal Group Harmony Web Site - The Jones Boys Sing Band
+  - Marv Goldberg's R&B Notebooks - The Red Caps (uncamarvy.com)
+  - The Vocal Group Harmony Web Site - The Five Jones Boys
+  - The Vocal Group Harmony Web Site - The Jones Boys Sing Band
 network_extracted: true
 entry_created: '2025-11-01T15:34:53.222578'
 last_updated: '2025-12-23T08:16:08.660211'
-origin: California, United States (relocated from Colorado/Mountain West region)
+origin: 'California, United States (relocated from Colorado/Mountain West region)'
+artist_type: band
 ---
 
 ![]()

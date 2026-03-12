@@ -1,10 +1,10 @@
 ---
-title: NOTHIN FANCY
+title: Nothin Fancy
 wiki_slug: nothin-fancy
 schema_version: 2
 status: active
 genres:
-- bluegrass
+  - bluegrass
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/nothin_fancy.jpg
   caption: NOTHIN FANCY
@@ -24,49 +24,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tom T. Hall & Dixie Hall
-  - Chris Sexton
+    - Tom T. Hall & Dixie Hall
+    - Chris Sexton
   influenced:
-  - Shenandoah Valley bluegrass musicians
+    - Shenandoah Valley bluegrass musicians
   mentors:
-  - Charlie Waller
-  - The Seldom Scene
+    - Charlie Waller
+    - The Seldom Scene
 spotify_data:
   followers: 2119
   id: 2bo7icS9IYSeZQkr1DxQPV
   popularity: 9
-  url: https://open.spotify.com/artist/2bo7icS9IYSeZQkr1DxQPV
+  url: 'https://open.spotify.com/artist/2bo7icS9IYSeZQkr1DxQPV'
 discography_enriched: true
 top_tracks:
-- 'The Touch Of Your Hand (Album #7)'
-- Lookin' Out My Back Door (Nothin' Fancy)
-- I Met My Baby In The Porta Jon Line (Reflections)
-- Do Not Pass Me By (Once Upon a Road)
-- Kiss an Angel Good Morning (It's A Good Feeling)
-- Once Upon a Road (Once Upon a Road)
-- Bus Fare (Where I Came From)
-- Simon Crutchfield's Grave (Where I Came From)
-- Darby's Castle (Field of Dreams)
-- Hot Corn Cold Corn (Field of Dreams)
+  - 'The Touch Of Your Hand (Album #7)'
+  - Lookin' Out My Back Door (Nothin' Fancy)
+  - I Met My Baby In The Porta Jon Line (Reflections)
+  - Do Not Pass Me By (Once Upon a Road)
+  - Kiss an Angel Good Morning (It's A Good Feeling)
+  - Once Upon a Road (Once Upon a Road)
+  - Bus Fare (Where I Came From)
+  - Simon Crutchfield's Grave (Where I Came From)
+  - Darby's Castle (Field of Dreams)
+  - Hot Corn Cold Corn (Field of Dreams)
 external_urls:
-  spotify: https://open.spotify.com/artist/2bo7icS9IYSeZQkr1DxQPV
+  spotify: 'https://open.spotify.com/artist/2bo7icS9IYSeZQkr1DxQPV'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/nothin_fancy.jpg
 biography_enhanced_at: '2025-11-03T07:40:08.476727'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://purplefiddle.com/bands/nothin-fancy/
-- https://pinecastlemusic.com/artists/legacy-artists/nothin-fancy/
-- https://bluegrassunlimited.com/article/virginias-pride-nothin-fancy-bluegrass-band/
-- https://www.nothinfancybluegrass.com/default.asp?loadpage=about
-- https://mountainfever.com/artists/nothin-fancy/
-- https://bluegrasstoday.com/here-we-go-again-nothin-fancy/
-- https://bluegrassunlimited.com/article/virginias-pride-nothin-fancy-bluegrass-band/
+  - 'https://purplefiddle.com/bands/nothin-fancy/'
+  - 'https://pinecastlemusic.com/artists/legacy-artists/nothin-fancy/'
+  - >-
+    https://bluegrassunlimited.com/article/virginias-pride-nothin-fancy-bluegrass-band/
+  - 'https://www.nothinfancybluegrass.com/default.asp?loadpage=about'
+  - 'https://mountainfever.com/artists/nothin-fancy/'
+  - 'https://bluegrasstoday.com/here-we-go-again-nothin-fancy/'
+  - >-
+    https://bluegrassunlimited.com/article/virginias-pride-nothin-fancy-bluegrass-band/
 network_extracted: true
 entry_created: '2025-11-03T07:40:08.476743'
 last_updated: '2025-12-23T08:16:13.661669'
-origin: Buena Vista, Virginia, United States
+origin: 'Buena Vista, Virginia, United States'
+artist_type: band
 ---
 
 ![](nothin_fancy.jpg)

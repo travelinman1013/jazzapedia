@@ -1,41 +1,43 @@
 ---
 biography_enhanced_at: '2026-01-20T01:19:55.468920'
-birth_place: Petersburg, Virginia, United States
+birth_place: 'Petersburg, Virginia, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-20T01:19:55.468926'
 external_urls:
-  spotify: https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94
+  spotify: 'https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94'
   wikipedia: ''
 genres:
-- deep house
+  - deep house
 image_path: 03_Resources/source_material/ArtistPortraits/harrison.jpg
 last_updated: '2026-01-20T01:19:55.468926'
 musical_connections:
   collaborators:
-  - Butcher Brown
-  - Corey Fonville
-  - Pink Siifu
-  - Kurt Elling
-  - Phonte
+    - Butcher Brown
+    - Corey Fonville
+    - Pink Siifu
+    - Kurt Elling
+    - Phonte
   influenced:
-  - Ohbliv
+    - Ohbliv
   mentors:
-  - Jason Morehouse
+    - Jason Morehouse
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://kexp.org/read/2022/1/20/midnight-perfect-world-dj-harrison/
-- https://www.stonesthrow.com/artist/djharrison/
-- https://microchop.substack.com/p/keep-multi-tracking-on-that-level
-- https://nothingstoogood.com/2022/02/dj-harrison-interview/
-- https://www.viberate.com/artist/harrison-bdp/
+  - 'https://kexp.org/read/2022/1/20/midnight-perfect-world-dj-harrison/'
+  - 'https://www.stonesthrow.com/artist/djharrison/'
+  - 'https://microchop.substack.com/p/keep-multi-tracking-on-that-level'
+  - 'https://nothingstoogood.com/2022/02/dj-harrison-interview/'
+  - 'https://www.viberate.com/artist/harrison-bdp/'
 spotify_data:
   followers: 32613
   id: 58O8UPrTdl4u2buM0skj94
   popularity: 62
-  url: https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94
+  url: 'https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94'
 status: active
-title: Harrison
+title: DJ Harrison
+birth_date: '1988'
+artist_type: person
 ---
 
 ![](harrison.jpg)

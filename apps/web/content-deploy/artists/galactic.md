@@ -1,13 +1,13 @@
 ---
-title: galactic
+title: Galactic
 wiki_slug: galactic
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1994'
 genres: []
 instruments:
-- additional
+  - additional
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/galactic.jpg
   caption: galactic
@@ -28,98 +28,98 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Cyril Neville
-  - Corey Glover
-  - Maggie Koerner
-  - Erica Falls
-  - Corey Henry
-  - Shamarr Allen
-  - Juvenile, Chali 2na, Boots Riley, Lyrics Born
-  - Anjelika 'Jelly' Joseph
-  - Macy Gray, Trombone Shorty, Irma Thomas, John Boutté, Big Freedia
+    - Cyril Neville
+    - Corey Glover
+    - Maggie Koerner
+    - Erica Falls
+    - Corey Henry
+    - Shamarr Allen
+    - 'Juvenile, Chali 2na, Boots Riley, Lyrics Born'
+    - Anjelika 'Jelly' Joseph
+    - 'Macy Gray, Trombone Shorty, Irma Thomas, John Boutté, Big Freedia'
   influenced:
-  - Local New Orleans musicians
+    - Local New Orleans musicians
   mentors:
-  - Theryl 'Houseman' DeClouet
-  - The Meters
-  - Professor Longhair
+    - Theryl 'Houseman' DeClouet
+    - The Meters
+    - Professor Longhair
 spotify_data:
   followers: 79547
   id: 07uYEzcM2ZbY0XacOINjUY
   popularity: 37
-  url: https://open.spotify.com/artist/07uYEzcM2ZbY0XacOINjUY
+  url: 'https://open.spotify.com/artist/07uYEzcM2ZbY0XacOINjUY'
 discography_enriched: true
 top_tracks:
-- The Imperial March (Galactic Empire)
-- Duel Of The Fates (Galactic Empire)
-- Superman (Superman)
-- Cantina Band (Galactic Empire)
-- Avengers (Avengers)
-- Main Theme (Galactic Empire)
-- The Force Theme (Galactic Empire)
-- The Mandalorian - Star Wars Metal (Special Edition)
-- Battle of The Heroes (Galactic Empire)
-- Jurassic Park Theme (Jurassic Park Theme)
+  - The Imperial March (Galactic Empire)
+  - Duel Of The Fates (Galactic Empire)
+  - Superman (Superman)
+  - Cantina Band (Galactic Empire)
+  - Avengers (Avengers)
+  - Main Theme (Galactic Empire)
+  - The Force Theme (Galactic Empire)
+  - The Mandalorian - Star Wars Metal (Special Edition)
+  - Battle of The Heroes (Galactic Empire)
+  - Jurassic Park Theme (Jurassic Park Theme)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/cabbdf87-5cb2-4f3c-be65-254655c87508
-  spotify: https://open.spotify.com/artist/07uYEzcM2ZbY0XacOINjUY
-  wikipedia: https://en.wikipedia.org/wiki/Galactic_(band)
+  musicbrainz: 'https://musicbrainz.org/artist/cabbdf87-5cb2-4f3c-be65-254655c87508'
+  spotify: 'https://open.spotify.com/artist/07uYEzcM2ZbY0XacOINjUY'
+  wikipedia: 'https://en.wikipedia.org/wiki/Galactic_(band)'
 image_path: 03_Resources/source_material/ArtistPortraits/galactic.jpg
 biography_enhanced_at: '2025-11-01T15:38:30.320673'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://musicrising.tulane.edu/discover/people/galactic/
-- https://www.last.fm/music/Galactic/+wiki
-- https://musicinsideout.wwno.org/galactic/
-- https://galacticfunk.com/about
+  - 'https://musicrising.tulane.edu/discover/people/galactic/'
+  - 'https://www.last.fm/music/Galactic/+wiki'
+  - 'https://musicinsideout.wwno.org/galactic/'
+  - 'https://galacticfunk.com/about'
 network_extracted: true
 entry_created: '2025-11-01T15:38:30.320680'
 last_updated: '2025-12-23T08:16:08.946977'
 disambiguation: New Orleans funk & jazz jam band
 members:
-- begin: ''
-  end: '2004'
-  instruments:
-  - additional
-  mbid: 825fbb5e-b72d-4a80-b743-261ebd00e6cf
-  name: Theryl de’Clouet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bd9cf25d-4299-4063-8d01-65336d0194b3
-  name: Ben Ellman
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5ffe5abc-036e-4383-a62e-abfe3337d466
-  name: Fiyapowa!
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f12cff38-118d-468c-9f3a-b3d43e8b7799
-  name: Robert Mercurio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8fcb7629-09ef-4def-b1e8-7ef7b57de9cb
-  name: Stanton Moore
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ae0bee80-c8e4-49e8-9405-60804e44c1a6
-  name: Jeff Raines
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: cce522c5-8875-4818-ae51-b36b8770ae24
-  name: Rich Vogel
+  - begin: ''
+    end: '2004'
+    instruments:
+      - additional
+    mbid: 825fbb5e-b72d-4a80-b743-261ebd00e6cf
+    name: Theryl de’Clouet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bd9cf25d-4299-4063-8d01-65336d0194b3
+    name: Ben Ellman
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5ffe5abc-036e-4383-a62e-abfe3337d466
+    name: Fiyapowa!
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f12cff38-118d-468c-9f3a-b3d43e8b7799
+    name: Robert Mercurio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8fcb7629-09ef-4def-b1e8-7ef7b57de9cb
+    name: Stanton Moore
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ae0bee80-c8e4-49e8-9405-60804e44c1a6
+    name: Jeff Raines
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: cce522c5-8875-4818-ae51-b36b8770ae24
+    name: Rich Vogel
 musicbrainz_id: cabbdf87-5cb2-4f3c-be65-254655c87508
-origin: New Orleans
+origin: 'New Orleans, Louisiana, United States'
 tags:
-- acid jazz
-- funk
-- hip hop rnb and dance hall
+  - acid jazz
+  - funk
+  - hip hop rnb and dance hall
 ---
 
 ![](galactic.jpg)

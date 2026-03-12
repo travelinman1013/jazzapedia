@@ -29,32 +29,33 @@ spotify_data:
   followers: 65
   id: 5u9jJEbs41lcIZXbzU4Yv6
   popularity: 0
-  url: https://open.spotify.com/artist/5u9jJEbs41lcIZXbzU4Yv6
+  url: 'https://open.spotify.com/artist/5u9jJEbs41lcIZXbzU4Yv6'
 discography_enriched: true
 top_tracks:
-- Rumors (FANTASIZE)
-- Rumors (Rumors)
-- Heaven (FANTASIZE)
-- Pillow Princess (FANTASIZE)
-- Beast (FANTASIZE)
-- Attention (FANTASIZE)
-- Breathe Deep (FANTASIZE)
-- What's Good (FANTASIZE)
-- Your Girl (FANTASIZE)
-- Beast (Beast)
+  - Rumors (FANTASIZE)
+  - Rumors (Rumors)
+  - Heaven (FANTASIZE)
+  - Pillow Princess (FANTASIZE)
+  - Beast (FANTASIZE)
+  - Attention (FANTASIZE)
+  - Breathe Deep (FANTASIZE)
+  - What's Good (FANTASIZE)
+  - Your Girl (FANTASIZE)
+  - Beast (Beast)
 external_urls:
-  spotify: https://open.spotify.com/artist/5u9jJEbs41lcIZXbzU4Yv6
+  spotify: 'https://open.spotify.com/artist/5u9jJEbs41lcIZXbzU4Yv6'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/she_would.jpg
 biography_enhanced_at: '2025-12-18T02:48:04.362417'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- 'Spotify context: Genres unknown, Popularity 0'
-- 'Search results [1-8]: No matching artist found'
+  - 'Spotify context: Genres unknown, Popularity 0'
+  - 'Search results [1-8]: No matching artist found'
 network_extracted: true
 entry_created: '2025-12-18T02:48:04.362426'
 last_updated: '2025-12-23T08:16:15.546470'
+artist_type: band
 ---
 
 ![](she_would.jpg)

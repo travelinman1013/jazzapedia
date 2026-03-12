@@ -4,8 +4,8 @@ wiki_slug: lettuce
 schema_version: 2
 status: active
 genres:
-- jazz funk
-- funk rock
+  - jazz funk
+  - funk rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lettuce.jpg
   caption: Lettuce
@@ -25,50 +25,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Neal Evans
-  - Eric Krasno
-  - Soul Rebels Brass Band
-  - Rashawn Ross
+    - Neal Evans
+    - Eric Krasno
+    - Soul Rebels Brass Band
+    - Rashawn Ross
   influenced: []
   mentors:
-  - Herbie Hancock
-  - Earth, Wind & Fire
-  - Tower of Power
+    - Herbie Hancock
+    - 'Earth, Wind & Fire'
+    - Tower of Power
 spotify_data:
   followers: 234389
   id: 1fZXjUQEkVbB0TvZX4qFR8
   popularity: 49
-  url: https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8
+  url: 'https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8'
 discography_enriched: true
 top_tracks:
-- Phyllis (Crush)
-- The Force (Crush)
-- Mt. Crushmore (Mt. Crushmore)
-- Madison Square (Fly)
-- Express Yourself (Rage!)
-- Everybody Wants to Rule the World (Elevate)
-- 116th St. (Mt. Crushmore)
-- Get Greasy (Crush)
-- Do It Like You Do (Fly)
-- Silence is Golden (Resonate)
+  - Phyllis (Crush)
+  - The Force (Crush)
+  - Mt. Crushmore (Mt. Crushmore)
+  - Madison Square (Fly)
+  - Express Yourself (Rage!)
+  - Everybody Wants to Rule the World (Elevate)
+  - 116th St. (Mt. Crushmore)
+  - Get Greasy (Crush)
+  - Do It Like You Do (Fly)
+  - Silence is Golden (Resonate)
 external_urls:
-  spotify: https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8
-  wikipedia: https://en.wikipedia.org/wiki/Lettuce_(band)
+  spotify: 'https://open.spotify.com/artist/1fZXjUQEkVbB0TvZX4qFR8'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lettuce_(band)'
 image_path: 03_Resources/source_material/ArtistPortraits/lettuce.jpg
 biography_enhanced_at: '2025-12-13T10:47:39.490887'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Lettuce_(band)
-- https://www.whirlwindusa.com/news/lettuce-joins-whirlwind-family-bands
-- https://rhythmandroots.com/artists/lettuce/
-- https://www.allaboutjazz.com/musicians/lettuce/
-- https://cityparksfoundation.org/events/lettuce-stylesp/
+  - 'https://en.wikipedia.org/wiki/Lettuce_(band)'
+  - 'https://www.whirlwindusa.com/news/lettuce-joins-whirlwind-family-bands'
+  - 'https://rhythmandroots.com/artists/lettuce/'
+  - 'https://www.allaboutjazz.com/musicians/lettuce/'
+  - 'https://cityparksfoundation.org/events/lettuce-stylesp/'
 network_extracted: true
 entry_created: '2025-12-13T10:47:39.490899'
 last_updated: '2025-12-23T08:16:11.880743'
-origin: Boston, Massachusetts, USA
-
+origin: 'Boston, Massachusetts, USA'
+artist_type: band
 ---
 
 ![](lettuce.jpg)

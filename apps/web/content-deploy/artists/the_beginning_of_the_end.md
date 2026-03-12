@@ -4,8 +4,8 @@ wiki_slug: the-beginning-of-the-end
 schema_version: 2
 status: active
 genres:
-- funk
-- jazz funk
+  - funk
+  - jazz funk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_beginning_of_the_end.jpg
   caption: The Beginning of the End
@@ -17,7 +17,7 @@ audio_profile:
   danceability_avg: 0.59
   acousticness_avg: 0.424
   instrumentalness_avg: 0.081
-  loudness_avg: -8.0
+  loudness_avg: -8
   speechiness_avg: 0.063
   liveness_avg: 0.235
   track_count: 43
@@ -25,49 +25,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Raphael 'Ray' Munnings
-  - Roy Munnings
-  - Frank Munnings
-  - Fred Henfield
-  - Livingston Colebrook
-  - Funky Nassau Horns
+    - Raphael 'Ray' Munnings
+    - Roy Munnings
+    - Frank Munnings
+    - Fred Henfield
+    - Livingston Colebrook
+    - Funky Nassau Horns
   influenced:
-  - Contemporary Funk and Disco Artists
+    - Contemporary Funk and Disco Artists
   mentors:
-  - American Funk and Soul Artists
+    - American Funk and Soul Artists
 spotify_data:
   followers: 18572
   id: 5dS6VBacLLPyLDAfK3B0OR
   popularity: 36
-  url: https://open.spotify.com/artist/5dS6VBacLLPyLDAfK3B0OR
+  url: 'https://open.spotify.com/artist/5dS6VBacLLPyLDAfK3B0OR'
 discography_enriched: true
 top_tracks:
-- Funky Nassau, Pt. 1 (Funky Nassau)
-- Funky Nassau, Pt. 2 (Funky Nassau)
-- Come Down (Funky Nassau)
-- When She Made Me Promise (Funky Nassau)
-- Monkey Tamarind (Funky Nassau)
-- Funky Nassau - Full Length Edit (Fishman)
-- Bluestrain (The Beginning Of The End)
-- Pretty Girl (Funky Nassau)
-- Sleep On Dream On (Funky Nassau)
-- Fishman - Original 45 Version (Fishman)
+  - 'Funky Nassau, Pt. 1 (Funky Nassau)'
+  - 'Funky Nassau, Pt. 2 (Funky Nassau)'
+  - Come Down (Funky Nassau)
+  - When She Made Me Promise (Funky Nassau)
+  - Monkey Tamarind (Funky Nassau)
+  - Funky Nassau - Full Length Edit (Fishman)
+  - Bluestrain (The Beginning Of The End)
+  - Pretty Girl (Funky Nassau)
+  - Sleep On Dream On (Funky Nassau)
+  - Fishman - Original 45 Version (Fishman)
 external_urls:
-  spotify: https://open.spotify.com/artist/5dS6VBacLLPyLDAfK3B0OR
-  wikipedia: https://en.wikipedia.org/wiki/The_Beginning_of_the_End_(band)
+  spotify: 'https://open.spotify.com/artist/5dS6VBacLLPyLDAfK3B0OR'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Beginning_of_the_End_(band)'
 image_path: 03_Resources/source_material/ArtistPortraits/the_beginning_of_the_end.jpg
 biography_enhanced_at: '2025-11-26T07:50:38.303740'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Beginning_of_the_End_(band)
-- https://www.last.fm/music/The+Beginning+Of+The+End
-- https://www.allmusic.com/artist/the-beginning-of-the-end-mn0000041134
-- https://thebeginningoftheend.bandcamp.com/album/the-beginning-of-the-end
+  - 'https://en.wikipedia.org/wiki/The_Beginning_of_the_End_(band)'
+  - 'https://www.last.fm/music/The+Beginning+Of+The+End'
+  - 'https://www.allmusic.com/artist/the-beginning-of-the-end-mn0000041134'
+  - 'https://thebeginningoftheend.bandcamp.com/album/the-beginning-of-the-end'
 network_extracted: true
 entry_created: '2025-11-26T07:50:38.303747'
 last_updated: '2025-12-23T08:16:16.552733'
-origin: Nassau, Bahamas
+origin: 'Nassau, Bahamas, Bahamas'
+artist_type: band
 ---
 
 ![](the_beginning_of_the_end.jpg)

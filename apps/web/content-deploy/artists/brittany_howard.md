@@ -3,13 +3,13 @@ title: Brittany Howard
 wiki_slug: brittany-howard
 schema_version: 2
 status: active
-birth_place: Athens, Alabama, United States
+birth_place: 'Athens, Alabama, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/brittany_howard.jpg
   caption: Brittany Howard
   background: solo_singer
-  origin: Athens, Alabama, United States
+  origin: 'Athens, Alabama, United States'
 audio_profile:
   tempo_avg: 113.6
   energy_avg: 0.661
@@ -25,53 +25,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Zac Cockrell
-  - Steve Johnson
-  - Heath Fogg
-  - Thunderbitch
-  - Bermuda Triangle
-  - Paul McCartney
+    - Zac Cockrell
+    - Steve Johnson
+    - Heath Fogg
+    - Thunderbitch
+    - Bermuda Triangle
+    - Paul McCartney
   influenced:
-  - Adia Victoria
-  - Yola
+    - Adia Victoria
+    - Yola
   mentors:
-  - Jaime Howard
-  - Dionne Warwick
-  - Elvis Presley
-  - Pink Floyd
+    - Jaime Howard
+    - Dionne Warwick
+    - Elvis Presley
+    - Pink Floyd
 spotify_data:
   followers: 317038
   id: 4XquDVA8pkg5Lx91No1JxB
   popularity: 49
-  url: https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB
+  url: 'https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB'
 discography_enriched: true
 top_tracks:
-- Walk of Fame (feat. Brittany Howard) - Edit
-- Stay High (Jaime)
-- Stay High (Jaime)
-- Stay High (Jaime (Reimagined))
-- I Don't (What Now)
-- What Now (What Now)
-- Stay High again.. (Fred again.. & Joy Anonymous Version) (Jaime (Reimagined))
-- Stay High (Childish Gambino Version) (Jaime (Reimagined))
-- Fire Inside - From the Netflix Film "Thelma the Unicorn"
-- Stay High again.. - Fred again.. & Joy Anonymous Version (Jaime (Reimagined))
+  - Walk of Fame (feat. Brittany Howard) - Edit
+  - Stay High (Jaime)
+  - Stay High (Jaime)
+  - Stay High (Jaime (Reimagined))
+  - I Don't (What Now)
+  - What Now (What Now)
+  - >-
+    Stay High again.. (Fred again.. & Joy Anonymous Version) (Jaime
+    (Reimagined))
+  - Stay High (Childish Gambino Version) (Jaime (Reimagined))
+  - Fire Inside - From the Netflix Film "Thelma the Unicorn"
+  - >-
+    Stay High again.. - Fred again.. & Joy Anonymous Version (Jaime
+    (Reimagined))
 external_urls:
-  spotify: https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB
-  wikipedia: https://en.wikipedia.org/wiki/Brittany_Howard
+  spotify: 'https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB'
+  wikipedia: 'https://en.wikipedia.org/wiki/Brittany_Howard'
 image_path: 03_Resources/source_material/ArtistPortraits/brittany_howard.jpg
 biography_enhanced_at: '2025-10-24T07:57:17.681264'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://thegentlewoman.co.uk/library/brittany-howard
-- https://highhowareyou.com/study-broad-brittany-howard/
-- https://www.thecurrent.org/feature/2021/02/10/musicheads-essential-artist-brittany-howard
-- https://sungenre.com/artist/brittany-howard/
-- https://kids.kiddle.co/Brittany_Howard
+  - 'https://thegentlewoman.co.uk/library/brittany-howard'
+  - 'https://highhowareyou.com/study-broad-brittany-howard/'
+  - >-
+    https://www.thecurrent.org/feature/2021/02/10/musicheads-essential-artist-brittany-howard
+  - 'https://sungenre.com/artist/brittany-howard/'
+  - 'https://kids.kiddle.co/Brittany_Howard'
 network_extracted: true
 entry_created: '2025-10-24T07:57:17.681275'
 last_updated: '2025-12-23T08:16:06.101667'
+birth_date: '1988-10-02'
+artist_type: person
 ---
 
 ![](brittany_howard.jpg)

@@ -1,124 +1,125 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-09T01:57:38.964420'
 birth_date: '1969'
 disambiguation: US funk/rock band
 enhancement_provider: perplexity
 entry_created: '2026-01-09T01:57:38.964425'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3e6bbdb8-66c8-439c-a3d9-87391ce88740
-  spotify: https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA
+  musicbrainz: 'https://musicbrainz.org/artist/3e6bbdb8-66c8-439c-a3d9-87391ce88740'
+  spotify: 'https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA'
   wikipedia: ''
 genres:
-- neofolk
-- celtic
-- medieval
-- folk metal
-- folk
+  - neofolk
+  - celtic
+  - medieval
+  - folk metal
+  - folk
 image_path: 03_Resources/source_material/ArtistPortraits/war.jpg
 instruments:
-- original
-- saxophone
+  - original
+  - saxophone
 last_updated: '2026-01-09T01:57:38.964426'
 members:
-- begin: '1969'
-  end: '1971'
-  instruments: []
-  mbid: 70ac2314-d7d8-4435-b56c-9bad9a516642
-  name: Eric Burdon
-- begin: '1969'
-  end: '1979'
-  instruments: []
-  mbid: f1f53999-8a59-4dd5-b260-e744c6fea307
-  name: B.B. Dickerson
-- begin: '1969'
-  end: '1979'
-  instruments: []
-  mbid: b202c59a-bee0-40f6-a982-2e17590fc2f7
-  name: Charles Miller
-- begin: '1969'
-  end: '1983'
-  instruments: []
-  mbid: f2965ab0-4b6b-4144-912c-01a51d25cc00
-  name: Harold Brown
-- begin: '1969'
-  end: '1988'
-  instruments: []
-  mbid: 93fa6e19-3dc2-41a3-9498-afda00c3994f
-  name: Papa Dee Allen
-- begin: '1969'
-  end: '1994'
-  instruments: []
-  mbid: e393f079-cc8d-4955-98bd-ccd82cec7524
-  name: Lee Oskar
-- begin: '1969'
-  end: '1994'
-  instruments: []
-  mbid: 38c95f64-0c08-4e05-a119-98506d13deaf
-  name: Howard E. Scott
-- &id001
-  begin: '1969'
-  end: ''
-  instruments: []
-  mbid: a8cd7b65-7d99-4288-989f-7b657e2316e1
-  name: Lonnie Jordan
-- begin: '1979'
-  end: '1984'
-  instruments:
-  - original
-  mbid: 8e1acabd-fde7-4845-be8d-944f9bca18f8
-  name: Luther Rabb
-- &id002
-  begin: '1990'
-  end: ''
-  instruments: []
-  mbid: 2a9a46c9-412d-4150-b559-7da06aade650
-  name: Sal Rodriguez
-- &id003
-  begin: '2011'
-  end: ''
-  instruments:
-  - saxophone
-  mbid: 032b97e0-6325-45fa-ac65-ce6615a43d22
-  name: David Urquidi
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ff68ee59-de7f-4fb0-917c-dc4f235bfe71
-  name: Charles Green
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5b17b9f6-a4be-4eb6-ac59-0a71d205a8a8
-  name: Marcos J. Reyes
+  - begin: '1969'
+    end: '1971'
+    instruments: []
+    mbid: 70ac2314-d7d8-4435-b56c-9bad9a516642
+    name: Eric Burdon
+  - begin: '1969'
+    end: '1979'
+    instruments: []
+    mbid: f1f53999-8a59-4dd5-b260-e744c6fea307
+    name: B.B. Dickerson
+  - begin: '1969'
+    end: '1979'
+    instruments: []
+    mbid: b202c59a-bee0-40f6-a982-2e17590fc2f7
+    name: Charles Miller
+  - begin: '1969'
+    end: '1983'
+    instruments: []
+    mbid: f2965ab0-4b6b-4144-912c-01a51d25cc00
+    name: Harold Brown
+  - begin: '1969'
+    end: '1988'
+    instruments: []
+    mbid: 93fa6e19-3dc2-41a3-9498-afda00c3994f
+    name: Papa Dee Allen
+  - begin: '1969'
+    end: '1994'
+    instruments: []
+    mbid: e393f079-cc8d-4955-98bd-ccd82cec7524
+    name: Lee Oskar
+  - begin: '1969'
+    end: '1994'
+    instruments: []
+    mbid: 38c95f64-0c08-4e05-a119-98506d13deaf
+    name: Howard E. Scott
+  - &ref_0
+    begin: '1969'
+    end: ''
+    instruments: []
+    mbid: a8cd7b65-7d99-4288-989f-7b657e2316e1
+    name: Lonnie Jordan
+  - begin: '1979'
+    end: '1984'
+    instruments:
+      - original
+    mbid: 8e1acabd-fde7-4845-be8d-944f9bca18f8
+    name: Luther Rabb
+  - &ref_1
+    begin: '1990'
+    end: ''
+    instruments: []
+    mbid: 2a9a46c9-412d-4150-b559-7da06aade650
+    name: Sal Rodriguez
+  - &ref_2
+    begin: '2011'
+    end: ''
+    instruments:
+      - saxophone
+    mbid: 032b97e0-6325-45fa-ac65-ce6615a43d22
+    name: David Urquidi
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ff68ee59-de7f-4fb0-917c-dc4f235bfe71
+    name: Charles Green
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5b17b9f6-a4be-4eb6-ac59-0a71d205a8a8
+    name: Marcos J. Reyes
 musical_connections:
   collaborators: []
   influenced: []
   mentors: []
 musicbrainz_id: 3e6bbdb8-66c8-439c-a3d9-87391ce88740
 network_extracted: true
-origin: Long Beach
+origin: 'Long Beach, California, United States'
 original_members:
-- *id001
-- *id002
-- *id003
+  - *ref_0
+  - *ref_1
+  - *ref_2
 primary_source: perplexity
 research_sources:
-- https://libcom.org/article/subculture-hegemony-transversal-strategies-new-right-neofolk-and-martial-industrial
-- https://antifascistneofolk.com/2019/04/11/apoliteic-music-neo-folk-martial-industrial-and-metapolitical-fascism/
-- https://aesthetics.fandom.com/wiki/Neofolk
+  - >-
+    https://libcom.org/article/subculture-hegemony-transversal-strategies-new-right-neofolk-and-martial-industrial
+  - >-
+    https://antifascistneofolk.com/2019/04/11/apoliteic-music-neo-folk-martial-industrial-and-metapolitical-fascism/
+  - 'https://aesthetics.fandom.com/wiki/Neofolk'
 spotify_data:
   followers: 785561
   id: 0NJ6wlOAsAJ1PN4VRdTPKA
   popularity: 57
-  url: https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA
+  url: 'https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA'
 status: active
 tags:
-- 2008 universal fire victim
-- classic pop and rock
-- funk
+  - 2008 universal fire victim
+  - classic pop and rock
+  - funk
 title: WAR
-
 ---
 
 ![](war.jpg)

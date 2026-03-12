@@ -2,19 +2,19 @@
 title: Injury Reserve
 wiki_slug: injury-reserve
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '2014'
 genres:
-- experimental hip hop
-- alternative hip hop
+  - experimental hip hop
+  - alternative hip hop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/injury_reserve.jpg
   caption: Injury Reserve
   background: group_or_band
   born: '2014'
 audio_profile:
-  tempo_avg: 116.0
+  tempo_avg: 116
   energy_avg: 0.672
   valence_avg: 0.469
   danceability_avg: 0.542
@@ -28,63 +28,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Stepa J. Groggs
-  - RiTchie (Ritchie With a T)
-  - Parker Corey
-  - JPEGMAFIA
-  - Code Orange
+    - Stepa J. Groggs
+    - RiTchie (Ritchie With a T)
+    - Parker Corey
+    - JPEGMAFIA
+    - Code Orange
   influenced:
-  - Backxwash
+    - Backxwash
   mentors:
-  - Kanye West
+    - Kanye West
 spotify_data:
   followers: 281882
   id: 3nf2EaHj8HikLNdaiW3v73
   popularity: 43
-  url: https://open.spotify.com/artist/3nf2EaHj8HikLNdaiW3v73
+  url: 'https://open.spotify.com/artist/3nf2EaHj8HikLNdaiW3v73'
 discography_enriched: true
 top_tracks:
-- Three Man Weave (Injury Reserve)
-- Campfire (Campfire)
-- S on Ya Chest (Floss)
-- Knees (By the Time I Get to Phoenix)
-- All This Money (Floss)
-- Jailbreak the Tesla (Feat. Aminé) (Injury Reserve)
-- Superman That (By the Time I Get to Phoenix)
-- Zig Zag (Zig Zag)
-- Outside (By the Time I Get to Phoenix)
-- Oh Shit!!! (Floss)
+  - Three Man Weave (Injury Reserve)
+  - Campfire (Campfire)
+  - S on Ya Chest (Floss)
+  - Knees (By the Time I Get to Phoenix)
+  - All This Money (Floss)
+  - Jailbreak the Tesla (Feat. Aminé) (Injury Reserve)
+  - Superman That (By the Time I Get to Phoenix)
+  - Zig Zag (Zig Zag)
+  - Outside (By the Time I Get to Phoenix)
+  - Oh Shit!!! (Floss)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4c4fa077-b351-4558-9013-b31e1fbd1d24
-  spotify: https://open.spotify.com/artist/3nf2EaHj8HikLNdaiW3v73
-  wikipedia: https://en.wikipedia.org/wiki/Injury_Reserve
+  musicbrainz: 'https://musicbrainz.org/artist/4c4fa077-b351-4558-9013-b31e1fbd1d24'
+  spotify: 'https://open.spotify.com/artist/3nf2EaHj8HikLNdaiW3v73'
+  wikipedia: 'https://en.wikipedia.org/wiki/Injury_Reserve'
 image_path: 03_Resources/source_material/ArtistPortraits/injury_reserve.jpg
 biography_enhanced_at: '2025-11-26T07:44:18.139127'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Injury+Reserve/+wiki
-- https://relentlessbeats.com/artists/injury-reserve/
-- https://www.youtube.com/watch?v=hKelmibU6WY
+  - 'https://www.last.fm/music/Injury+Reserve/+wiki'
+  - 'https://relentlessbeats.com/artists/injury-reserve/'
+  - 'https://www.youtube.com/watch?v=hKelmibU6WY'
 network_extracted: true
 entry_created: '2025-11-26T07:44:18.139139'
 last_updated: '2025-12-23T08:16:09.861350'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8d38ad42-04d7-43d9-b5c9-5d6466b5a059
-  name: Stepa J. Groggs
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0bc13a43-4be1-4cc3-a5f4-38ab254f9d53
-  name: RiTchie
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8d38ad42-04d7-43d9-b5c9-5d6466b5a059
+    name: Stepa J. Groggs
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0bc13a43-4be1-4cc3-a5f4-38ab254f9d53
+    name: RiTchie
 musicbrainz_id: 4c4fa077-b351-4558-9013-b31e1fbd1d24
-origin: Tempe
+origin: 'Tempe, Arizona, United States'
 tags:
-- experimental hip hop
-- hip hop
+  - experimental hip hop
+  - hip hop
+death_date: '2020'
 ---
 
 ![](injury_reserve.jpg)

@@ -1,38 +1,40 @@
 ---
 biography_enhanced_at: '2026-01-20T01:26:43.968993'
-birth_place: Batley, Yorkshire, England
+birth_place: 'Batley, Yorkshire, England'
 enhancement_provider: perplexity
 entry_created: '2026-01-20T01:26:43.968999'
 external_urls:
-  spotify: https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu
-  wikipedia: https://en.wikipedia.org/wiki/Robert_Palmer
+  spotify: 'https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu'
+  wikipedia: 'https://en.wikipedia.org/wiki/Robert_Palmer'
 genres:
-- yacht rock
+  - yacht rock
 image_path: 03_Resources/source_material/ArtistPortraits/robert_palmer.jpg
 last_updated: '2026-01-20T01:26:43.969000'
 musical_connections:
   collaborators:
-  - The Meters
-  - Elkie Brooks
-  - Andy Taylor
-  - John Taylor
+    - The Meters
+    - Elkie Brooks
+    - Andy Taylor
+    - John Taylor
   influenced: []
   mentors:
-  - Lowell George
+    - Lowell George
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.classicpopmag.com/features/robert-palmer/
-- https://www.udiscovermusic.com/artist/robert-palmer/
-- https://en.wikipedia.org/wiki/Robert_Palmer
-- https://peel.fandom.com/wiki/Robert_Palmer
+  - 'https://www.classicpopmag.com/features/robert-palmer/'
+  - 'https://www.udiscovermusic.com/artist/robert-palmer/'
+  - 'https://en.wikipedia.org/wiki/Robert_Palmer'
+  - 'https://peel.fandom.com/wiki/Robert_Palmer'
 spotify_data:
   followers: 1121937
   id: 530Sdm7eqqzWBdDmILMgnu
   popularity: 59
-  url: https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu
+  url: 'https://open.spotify.com/artist/530Sdm7eqqzWBdDmILMgnu'
 status: active
 title: Robert Palmer
+birth_date: '1949-01-19'
+artist_type: person
 ---
 
 ![](robert_palmer.jpg)

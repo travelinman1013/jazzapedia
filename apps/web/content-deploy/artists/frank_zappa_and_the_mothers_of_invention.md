@@ -3,48 +3,54 @@ biography_enhanced_at: '2026-01-05T07:55:31.813478'
 enhancement_provider: perplexity
 entry_created: '2026-01-05T07:55:31.813485'
 external_urls:
-  spotify: https://open.spotify.com/artist/3P2gYnypDVi90ZavnaAhfL
-  wikipedia: https://en.wikipedia.org/wiki/The_Mothers_of_Invention
+  spotify: 'https://open.spotify.com/artist/3P2gYnypDVi90ZavnaAhfL'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Mothers_of_Invention'
 genres:
-- progressive rock
-- psychedelic rock
-- art rock
-- avant-garde
-- acid rock
-image_path: 03_Resources/source_material/ArtistPortraits/frank_zappa_and_the_mothers_of_invention.jpg
+  - progressive rock
+  - psychedelic rock
+  - art rock
+  - avant-garde
+  - acid rock
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/frank_zappa_and_the_mothers_of_invention.jpg
 last_updated: '2026-01-05T07:55:31.813486'
 musical_connections:
   collaborators:
-  - Ray Collins
-  - Roy Estrada
-  - Jimmy Carl Black
-  - Ian Underwood
-  - George Duke
-  - Mark Volman and Howard Kaylan
-  - Don Preston
-  - Herbie Cohen
+    - Ray Collins
+    - Roy Estrada
+    - Jimmy Carl Black
+    - Ian Underwood
+    - George Duke
+    - Mark Volman and Howard Kaylan
+    - Don Preston
+    - Herbie Cohen
   influenced:
-  - Captain Beefheart (Don Van Vliet)
+    - Captain Beefheart (Don Van Vliet)
   mentors:
-  - His father (unnamed)
+    - His father (unnamed)
 network_extracted: true
-origin: Los Angeles, California, United States (Frank Zappa born in Baltimore, Maryland;
-  band formed in California)
+origin: >-
+  Los Angeles, California, United States (Frank Zappa born in Baltimore,
+  Maryland; band formed in California)
 primary_source: perplexity
 research_sources:
-- https://www.afka.net/Articles/1970-05_The_Baltimore_Sun.htm
-- https://www.bahrgallery.com/band-master/frank-zappa-and-the-mothers-of-invention
-- https://en.wikipedia.org/wiki/The_Mothers_of_Invention
-- https://top40weekly.com/frank-zappa-the-mothers-of-invention/
-- https://en.wikipedia.org/wiki/Frank_Zappa
-- https://www.britannica.com/topic/Mothers-of-Invention
+  - 'https://www.afka.net/Articles/1970-05_The_Baltimore_Sun.htm'
+  - >-
+    https://www.bahrgallery.com/band-master/frank-zappa-and-the-mothers-of-invention
+  - 'https://en.wikipedia.org/wiki/The_Mothers_of_Invention'
+  - 'https://top40weekly.com/frank-zappa-the-mothers-of-invention/'
+  - 'https://en.wikipedia.org/wiki/Frank_Zappa'
+  - 'https://www.britannica.com/topic/Mothers-of-Invention'
 spotify_data:
   followers: 133472
   id: 3P2gYnypDVi90ZavnaAhfL
   popularity: 43
-  url: https://open.spotify.com/artist/3P2gYnypDVi90ZavnaAhfL
+  url: 'https://open.spotify.com/artist/3P2gYnypDVi90ZavnaAhfL'
 status: active
 title: Frank Zappa & The Mothers Of Invention
+birth_place: 'Baltimore, Maryland, United States'
+birth_date: '1940-12-21'
+artist_type: person
 ---
 
 ![](frank_zappa_and_the_mothers_of_invention.jpg)

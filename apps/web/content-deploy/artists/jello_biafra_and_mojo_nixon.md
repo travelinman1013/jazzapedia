@@ -1,5 +1,5 @@
 ---
-title: jello biafra & mojo nixon
+title: Jello Biafra & Mojo Nixon
 wiki_slug: jello-biafra-mojo-nixon
 schema_version: 2
 status: active
@@ -19,38 +19,41 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jello Biafra
-  - Mojo Nixon
-  - The Toadliquors
+    - Jello Biafra
+    - Mojo Nixon
+    - The Toadliquors
   influenced:
-  - Political punk and alt‑country artists (general scene)
+    - Political punk and alt‑country artists (general scene)
   mentors:
-  - Ramones (especially Joey Ramone)
-  - Woody Guthrie
+    - Ramones (especially Joey Ramone)
+    - Woody Guthrie
 spotify_data:
   followers: 677
   id: 5KxVVY05xyL193kGUtvHFd
   popularity: 0
-  url: https://open.spotify.com/artist/5KxVVY05xyL193kGUtvHFd
+  url: 'https://open.spotify.com/artist/5KxVVY05xyL193kGUtvHFd'
 discography_enriched: true
 external_urls:
-  spotify: https://open.spotify.com/artist/5KxVVY05xyL193kGUtvHFd
+  spotify: 'https://open.spotify.com/artist/5KxVVY05xyL193kGUtvHFd'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/jello_biafra_and_mojo_nixon.jpg
 biography_enhanced_at: '2025-12-06T05:59:50.805046'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Mojo_Nixon
-- https://en.wikipedia.org/wiki/Jello_Biafra
-- https://www.leavehomebooking.com/jello-biafra
-- https://www.last.fm/music/Jello+Biafra/+wiki
-- https://alternativetentacles.com/blogs/news/mojo-nixon-unabashed-outlaw-cult-hero-dead-at-66
+  - 'https://en.wikipedia.org/wiki/Mojo_Nixon'
+  - 'https://en.wikipedia.org/wiki/Jello_Biafra'
+  - 'https://www.leavehomebooking.com/jello-biafra'
+  - 'https://www.last.fm/music/Jello+Biafra/+wiki'
+  - >-
+    https://alternativetentacles.com/blogs/news/mojo-nixon-unabashed-outlaw-cult-hero-dead-at-66
 network_extracted: true
 entry_created: '2025-12-06T05:59:50.805058'
 last_updated: '2025-12-23T08:16:10.316474'
-origin: Austin, Texas, United States (primary recording site and spiritual 'origin' of the Prairie Home Invasion collaboration
-  between Jello Biafra and Mojo Nixon)
+origin: >-
+  Austin, Texas, United States (primary recording site and spiritual 'origin' of
+  the Prairie Home Invasion collaboration between Jello Biafra and Mojo Nixon)
+artist_type: band
 ---
 
 ![](jello_biafra_and_mojo_nixon.jpg)

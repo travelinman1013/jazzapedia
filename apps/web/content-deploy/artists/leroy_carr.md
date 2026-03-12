@@ -5,23 +5,23 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1905-03-27'
-birth_place: Nashville
+birth_place: 'Nashville, Tennessee, United States'
 death_date: '1935-04-29'
 genres:
-- blues
-- classic blues
-- country blues
-- ragtime
-- boogie-woogie
+  - blues
+  - classic blues
+  - country blues
+  - ragtime
+  - boogie-woogie
 instruments:
-- piano
-- spoken vocals
+  - piano
+  - spoken vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9ad21668-ea70-4617-a290-7819989d349b
-  name: Pinewood Tom and His Blue Hounds
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9ad21668-ea70-4617-a290-7819989d349b
+    name: Pinewood Tom and His Blue Hounds
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/leroy_carr.jpg
   caption: Leroy Carr
@@ -44,58 +44,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Scrapper Blackwell
+    - Scrapper Blackwell
   influenced:
-  - Robert Johnson
-  - Ray Charles
-  - T-Bone Walker
-  - Charles Brown
-  - Amos Milburn
-  - Jimmy Witherspoon
-  - Count Basie
-  - Eric Clapton
+    - Robert Johnson
+    - Ray Charles
+    - T-Bone Walker
+    - Charles Brown
+    - Amos Milburn
+    - Jimmy Witherspoon
+    - Count Basie
+    - Eric Clapton
   mentors:
-  - Slick Jimmy Collins
-  - Tom Harding
-  - Phil Harding
+    - Slick Jimmy Collins
+    - Tom Harding
+    - Phil Harding
 spotify_data:
   followers: 11995
   id: 2FtoVJBkfbE89zyZJ0E9eR
   popularity: 20
-  url: https://open.spotify.com/artist/2FtoVJBkfbE89zyZJ0E9eR
+  url: 'https://open.spotify.com/artist/2FtoVJBkfbE89zyZJ0E9eR'
 discography_enriched: true
 top_tracks:
-- How Long, How Long Blues (The Essential Leroy Carr)
-- Papa's on the House Top (The Essential Leroy Carr)
-- When The Sun Goes Down (Let's Disagree)
-- Let's Disagree (Let's Disagree)
-- Suicide Blues (The Essential Leroy Carr)
-- Papa's on the House Top
-- Papa's on the House Top (Rocky Luck Blues)
-- Six Cold Feet of Ground (The Essential Leroy Carr)
-- When The Sun Goes Down (Leroy Carr Vol. 6 (1934-1935))
-- Blues Before Sunrise (Waiter, Ask the Man to Play the Blues)
+  - 'How Long, How Long Blues (The Essential Leroy Carr)'
+  - Papa's on the House Top (The Essential Leroy Carr)
+  - When The Sun Goes Down (Let's Disagree)
+  - Let's Disagree (Let's Disagree)
+  - Suicide Blues (The Essential Leroy Carr)
+  - Papa's on the House Top
+  - Papa's on the House Top (Rocky Luck Blues)
+  - Six Cold Feet of Ground (The Essential Leroy Carr)
+  - When The Sun Goes Down (Leroy Carr Vol. 6 (1934-1935))
+  - 'Blues Before Sunrise (Waiter, Ask the Man to Play the Blues)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a988fdd4-0499-477c-8ddc-355514e47d32
-  spotify: https://open.spotify.com/artist/2FtoVJBkfbE89zyZJ0E9eR
-  wikipedia: https://en.wikipedia.org/wiki/Leroy_Carr
+  musicbrainz: 'https://musicbrainz.org/artist/a988fdd4-0499-477c-8ddc-355514e47d32'
+  spotify: 'https://open.spotify.com/artist/2FtoVJBkfbE89zyZJ0E9eR'
+  wikipedia: 'https://en.wikipedia.org/wiki/Leroy_Carr'
 image_path: 03_Resources/source_material/ArtistPortraits/leroy_carr.jpg
 biography_enhanced_at: '2025-12-21T01:19:50.552606'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Leroy_Carr
-- https://tennesseeencyclopedia.net/entries/leroy-carr/
-- https://indyencyclopedia.org/leroy-carr/
-- https://blues.org/blues_hof_inductee/leroy-carr/
+  - 'https://en.wikipedia.org/wiki/Leroy_Carr'
+  - 'https://tennesseeencyclopedia.net/entries/leroy-carr/'
+  - 'https://indyencyclopedia.org/leroy-carr/'
+  - 'https://blues.org/blues_hof_inductee/leroy-carr/'
 network_extracted: true
 entry_created: '2025-12-21T01:19:50.552611'
 last_updated: '2025-12-23T08:16:11.826506'
 gender: Male
 musicbrainz_id: a988fdd4-0499-477c-8ddc-355514e47d32
 tags:
-- blues
-- piano blues
+  - blues
+  - piano blues
+is_active: false
+origin: 'Indianapolis, Indiana, United States'
 ---
 
 ![](leroy_carr.jpg)

@@ -5,18 +5,18 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1902-01-13'
-birth_place: Richmond
+birth_place: 'Richmond, Virginia, United States'
 death_date: '1946-02-15'
 genres:
-- swing music
+  - swing music
 instruments:
-- piano
+  - piano
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d4e42e02-c063-4660-8232-cbc81b1b3b42
-  name: Putney Dandridge and His Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d4e42e02-c063-4660-8232-cbc81b1b3b42
+    name: Putney Dandridge and His Orchestra
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/putney_dandridge.jpg
   caption: Putney Dandridge
@@ -39,55 +39,65 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bill 'Bojangles' Robinson
-  - Lonnie Johnson
-  - Roy Eldridge
-  - Teddy Wilson
-  - Henry 'Red' Allen
-  - Buster Bailey
-  - John Kirby
-  - Chu Berry
-  - Cozy Cole
-  - Adelaide Hall
+    - Bill 'Bojangles' Robinson
+    - Lonnie Johnson
+    - Roy Eldridge
+    - Teddy Wilson
+    - Henry 'Red' Allen
+    - Buster Bailey
+    - John Kirby
+    - Chu Berry
+    - Cozy Cole
+    - Adelaide Hall
   influenced: []
   mentors: []
 spotify_data:
   followers: 648
   id: 2DnslsAo1B2ADWUSYrJikS
   popularity: 15
-  url: https://open.spotify.com/artist/2DnslsAo1B2ADWUSYrJikS
+  url: 'https://open.spotify.com/artist/2DnslsAo1B2ADWUSYrJikS'
 discography_enriched: true
 top_tracks:
-- 'The Skeleton In The Closet (Halloween Classics: Songs That Scared The Bloomers Off Your Great-Grandma)'
-- Chasing Shadows (Complete Recordings Putney Dandridge 1935 - 1936)
-- 'The Skeleton In The Closet (Bioshock 2: The Official Soundtrack - Music From And Inspired By The Game (Special Edition))'
-- You Hit the Spot (Complete Recordings Putney Dandridge 1935 - 1936)
-- 'The Skeleton In The Closet (Bioshock 2: The Official Soundtrack - Music From And Inspired By The Game (Special Edition))'
-- 'The Skeleton In The Closet (From The Sony Vault: Silly Scary Songs)'
-- The Skeleton in the Closet (Complete Recordings Putney Dandridge 1935 - 1936)
-- You're a Heavenly Thing (Complete Recordings Putney Dandridge 1935 - 1936)
-- I'm in the Mood for Love (Complete Recordings Putney Dandridge 1935 - 1936)
-- Eeny Meeny Miney Mo (Complete Recordings Putney Dandridge 1935 - 1936)
+  - >-
+    The Skeleton In The Closet (Halloween Classics: Songs That Scared The
+    Bloomers Off Your Great-Grandma)
+  - Chasing Shadows (Complete Recordings Putney Dandridge 1935 - 1936)
+  - >-
+    The Skeleton In The Closet (Bioshock 2: The Official Soundtrack - Music From
+    And Inspired By The Game (Special Edition))
+  - You Hit the Spot (Complete Recordings Putney Dandridge 1935 - 1936)
+  - >-
+    The Skeleton In The Closet (Bioshock 2: The Official Soundtrack - Music From
+    And Inspired By The Game (Special Edition))
+  - 'The Skeleton In The Closet (From The Sony Vault: Silly Scary Songs)'
+  - >-
+    The Skeleton in the Closet (Complete Recordings Putney Dandridge 1935 -
+    1936)
+  - You're a Heavenly Thing (Complete Recordings Putney Dandridge 1935 - 1936)
+  - I'm in the Mood for Love (Complete Recordings Putney Dandridge 1935 - 1936)
+  - Eeny Meeny Miney Mo (Complete Recordings Putney Dandridge 1935 - 1936)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/bdb8c605-e5ac-4106-bf10-ae78fca25053
-  spotify: https://open.spotify.com/artist/2DnslsAo1B2ADWUSYrJikS
-  wikipedia: https://en.wikipedia.org/wiki/Putney_Dandridge
+  musicbrainz: 'https://musicbrainz.org/artist/bdb8c605-e5ac-4106-bf10-ae78fca25053'
+  spotify: 'https://open.spotify.com/artist/2DnslsAo1B2ADWUSYrJikS'
+  wikipedia: 'https://en.wikipedia.org/wiki/Putney_Dandridge'
 image_path: 03_Resources/source_material/ArtistPortraits/putney_dandridge.jpg
 biography_enhanced_at: '2025-12-21T01:20:19.252683'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Putney_Dandridge
-- http://www.jazzarcheology.com/artists/putney_dandridge.pdf
-- https://wbssmedia.com/artists/detail/3443
-- https://jazzlives.wordpress.com/2016/10/03/the-catalytic-mister-dandridge/
+  - 'https://en.wikipedia.org/wiki/Putney_Dandridge'
+  - 'http://www.jazzarcheology.com/artists/putney_dandridge.pdf'
+  - 'https://wbssmedia.com/artists/detail/3443'
+  - 'https://jazzlives.wordpress.com/2016/10/03/the-catalytic-mister-dandridge/'
 network_extracted: true
 entry_created: '2025-12-21T01:20:19.252688'
 last_updated: '2025-12-23T08:16:14.476756'
 gender: Male
 musicbrainz_id: bdb8c605-e5ac-4106-bf10-ae78fca25053
 tags:
-- jazz
+  - jazz
+is_active: false
+origin: 'Cleveland, Ohio, United States'
 ---
 
 ![](putney_dandridge.jpg)

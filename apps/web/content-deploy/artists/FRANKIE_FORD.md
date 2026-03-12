@@ -1,41 +1,44 @@
 ---
 biography_enhanced_at: '2025-12-26T01:18:48.377835'
-birth_place: Gretna, Louisiana, USA
+birth_place: 'Gretna, Louisiana, USA'
 enhancement_provider: perplexity
 entry_created: '2025-12-26T01:18:48.377851'
 external_urls:
-  spotify: https://open.spotify.com/artist/7nkIxnGUsFXm89JX9ijD4p
-  wikipedia: https://en.wikipedia.org/wiki/Frankie_Ford
+  spotify: 'https://open.spotify.com/artist/7nkIxnGUsFXm89JX9ijD4p'
+  wikipedia: 'https://en.wikipedia.org/wiki/Frankie_Ford'
 genres:
-- doo-wop
-- rockabilly
+  - doo-wop
+  - rockabilly
 image_path: 03_Resources/source_material/ArtistPortraits/frankie_ford.jpg
 last_updated: '2025-12-26T01:18:48.377853'
 musical_connections:
   collaborators:
-  - Huey 'Piano' Smith
-  - Mac Rebennack (Dr. John)
-  - Jerry Byrne
+    - Huey 'Piano' Smith
+    - Mac Rebennack (Dr. John)
+    - Jerry Byrne
   influenced:
-  - Ska musicians in Jamaica
+    - Ska musicians in Jamaica
   mentors:
-  - Johnny Vincent
-  - Joe Caronna
-  - Dave Bartholomew
+    - Johnny Vincent
+    - Joe Caronna
+    - Dave Bartholomew
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Frankie_Ford
-- https://www.imdb.com/name/nm0285647/bio/
-- https://www.eatsdrinksandleaves.com/frankie-ford-sea-cruise/
-- https://louisianamusichalloffame.org/frankie-ford/
+  - 'https://en.wikipedia.org/wiki/Frankie_Ford'
+  - 'https://www.imdb.com/name/nm0285647/bio/'
+  - 'https://www.eatsdrinksandleaves.com/frankie-ford-sea-cruise/'
+  - 'https://louisianamusichalloffame.org/frankie-ford/'
 spotify_data:
   followers: 9799
   id: 7nkIxnGUsFXm89JX9ijD4p
   popularity: 27
-  url: https://open.spotify.com/artist/7nkIxnGUsFXm89JX9ijD4p
+  url: 'https://open.spotify.com/artist/7nkIxnGUsFXm89JX9ijD4p'
 status: active
 title: Frankie Ford
+birth_date: '1939-08-04'
+death_date: '2015-09-28'
+artist_type: person
 ---
 
 ![](frankie_ford.jpg)

@@ -1,618 +1,619 @@
 ---
 artist_type: band
 biography_enhanced_at: '2026-01-13T01:15:45.829640'
-birth_date: '1966'
-disambiguation: US Latin, blues, & rock band
+birth_date: '1947-07-20'
+disambiguation: 'US Latin, blues, & rock band'
 enhancement_provider: perplexity
 entry_created: '2026-01-13T01:15:45.829646'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9a3bf45c-347d-4630-894d-7cf3e8e0b632
-  spotify: https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P
-  wikipedia: https://en.wikipedia.org/wiki/Carlos_Santana
+  musicbrainz: 'https://musicbrainz.org/artist/9a3bf45c-347d-4630-894d-7cf3e8e0b632'
+  spotify: 'https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P'
+  wikipedia: 'https://en.wikipedia.org/wiki/Carlos_Santana'
 formation_year: 1966
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/santana.jpg
 instruments:
-- original
-- eponymous
-- drums (drum set)
-- electric guitar
+  - original
+  - eponymous
+  - drums (drum set)
+  - electric guitar
 is_active: true
 last_updated: '2026-01-13T01:15:45.829647'
 members:
-- begin: '1966'
-  end: '1967'
-  instruments:
-  - original
-  mbid: 15100bf8-28ff-4175-bef2-bd832a2d150f
-  name: Michael Carabello
-- begin: '1966'
-  end: '1967'
-  instruments:
-  - original
-  mbid: 97288dd2-9d61-4b77-8fac-5d02d20f85f7
-  name: Tom Frazier
-- begin: '1966'
-  end: '1967'
-  instruments:
-  - original
-  mbid: fe0e2a42-f748-4b9c-affc-a980d2e74261
-  name: Rod Harper
-- begin: '1966'
-  end: '1967'
-  instruments:
-  - original
-  mbid: 082cbfb1-7ff2-4484-8788-af18578520df
-  name: Gus Rodriguez
-- begin: '1966'
-  end: '1972'
-  instruments:
-  - original
-  mbid: 34bef7d8-96b8-4d20-a529-f741fb414684
-  name: Gregg Rolie
-- &id001
-  begin: '1966'
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: f7fda030-0ba1-42e9-a385-3deebc939bc9
-  name: Carlos Santana
-- begin: '1967'
-  end: '1969'
-  instruments: []
-  mbid: a5a87c3f-3d4d-42b8-b438-546f477116b3
-  name: Bob Livingston
-- begin: '1967'
-  end: '1969'
-  instruments: []
-  mbid: f0611f4f-6f03-4603-8b92-1c24991c134b
-  name: Marcus Malone
-- begin: '1967'
-  end: '1971'
-  instruments: []
-  mbid: 4f2fcb69-1897-4520-8d5c-2c617fae8484
-  name: David Brown
-- begin: '1969'
-  end: '1971'
-  instruments: []
-  mbid: cb12d169-8615-4501-8d85-f2e655423251
-  name: Francisco Aguabella
-- begin: '1969'
-  end: '1971'
-  instruments: []
-  mbid: 15100bf8-28ff-4175-bef2-bd832a2d150f
-  name: Michael Carabello
-- begin: '1969'
-  end: '1974'
-  instruments: []
-  mbid: 3a0fbd71-4613-45e3-bbe2-40752a0b69aa
-  name: Michael Shrieve
-- begin: '1969'
-  end: '1977'
-  instruments: []
-  mbid: 33aa21c8-5081-4314-bcd9-89b5cdb827f4
-  name: José “Chepito” Áreas
-- begin: '1971'
-  end: '1971'
-  instruments: []
-  mbid: 0647b845-c442-4a61-8c2d-cdb22dcee253
-  name: Pete Escovedo
-- begin: '1971'
-  end: '1971'
-  instruments: []
-  mbid: f00700d2-7dfc-4766-924b-c437490bbf5b
-  name: Victor Pantoja
-- begin: '1971'
-  end: '1971'
-  instruments: []
-  mbid: 180618a6-8fbd-4e35-9277-67cc0be943e2
-  name: Rico Reyes
-- begin: '1971'
-  end: '1972'
-  instruments: []
-  mbid: 0bfe3534-7153-409f-a87d-b734cb853f25
-  name: Coke Escovedo
-- begin: '1971'
-  end: '1972'
-  instruments: []
-  mbid: 50e78f09-da79-451d-8adc-8bdcdf0db151
-  name: Tom Rutley
-- begin: '1971'
-  end: '1972'
-  instruments: []
-  mbid: 58325670-9323-464a-8b20-3e8d7b26df60
-  name: Neal Schon
-- begin: '1972'
-  end: '1972'
-  instruments: []
-  mbid: 481f67d8-1de2-46a9-88f0-444e48aef21a
-  name: James Mingo Lewis
-- begin: '1972'
-  end: '1972'
-  instruments: []
-  mbid: 180618a6-8fbd-4e35-9277-67cc0be943e2
-  name: Rico Reyes
-- begin: '1972'
-  end: '1973'
-  instruments: []
-  mbid: 7f587566-68c8-4a5b-97c2-92bd4832c6b8
-  name: Richard Kermode
-- begin: '1972'
-  end: '1973'
-  instruments: []
-  mbid: 4bf61555-5ba0-4dc2-91ca-16940ca6cd17
-  name: Doug Rauch
-- begin: '1972'
-  end: '1978'
-  instruments: []
-  mbid: aac85622-84a5-4e40-aea9-5c2cdf4f34ad
-  name: Tom Coster
-- begin: '1973'
-  end: '1973'
-  instruments: []
-  mbid: 46f70f03-d259-4314-b926-2db36c28d86f
-  name: Leon Thomas
-- begin: '1974'
-  end: '1975'
-  instruments: []
-  mbid: a9082d6d-b5b0-4724-a306-57ae72b1bfa4
-  name: Jules Broussard
-- begin: '1974'
-  end: '1975'
-  instruments: []
-  mbid: 2f598e2c-973a-4ec4-ab1a-9dc9deadc18b
-  name: Leon Patillo
-- begin: '1974'
-  end: '1976'
-  instruments: []
-  mbid: 4f2fcb69-1897-4520-8d5c-2c617fae8484
-  name: David Brown
-- begin: '1974'
-  end: '1976'
-  instruments: []
-  mbid: 138fe48e-9ae8-4cca-a712-76a67eef1dac
-  name: Leon Ndugu Chancler
-- begin: '1975'
-  end: '1976'
-  instruments: []
-  mbid: f99ea28d-99dc-4e50-9755-3d56dc23c7ce
-  name: Greg Walker
-- begin: '1976'
-  end: '1976'
-  instruments: []
-  mbid: 97eb7973-f86f-4767-9ff8-77d5ceaa6ccc
-  name: Joel Badie
-- begin: '1976'
-  end: '1976'
-  instruments: []
-  mbid: 07e975d9-67d5-4d20-8527-9e7cd89bf379
-  name: Gaylord Birch
-- begin: '1976'
-  end: '1976'
-  instruments: []
-  mbid: 4baf4153-5af2-45e3-be93-41083d2b6d37
-  name: Byron Miller
-- begin: '1976'
-  end: '1976'
-  instruments: []
-  mbid: a4fcb895-2a7f-48f0-8610-ffd96f97bf9f
-  name: Armando Peraza
-- begin: '1976'
-  end: '1976'
-  instruments: []
-  mbid: 8e1acabd-fde7-4845-be8d-944f9bca18f8
-  name: Luther Rabb
-- begin: '1976'
-  end: '1977'
-  instruments: []
-  mbid: ddb10b88-6b6a-45e3-a28c-e3aa27b269eb
-  name: Pablo Tellez
-- begin: '1976'
-  end: '1979'
-  instruments: []
-  mbid: f99ea28d-99dc-4e50-9755-3d56dc23c7ce
-  name: Greg Walker
-- begin: '1976'
-  end: '1984'
-  instruments: []
-  mbid: 7d27b1ec-ea9a-4c55-8e5c-4cd78fc3f33d
-  name: Graham Lear
-- begin: '1976'
-  end: '2013'
-  instruments: []
-  mbid: 1013f50d-4869-448a-a6fd-2581d9d11765
-  name: Raul Rekow
-- begin: '1977'
-  end: '1979'
-  instruments: []
-  mbid: 0647b845-c442-4a61-8c2d-cdb22dcee253
-  name: Pete Escovedo
-- begin: '1977'
-  end: '1982'
-  instruments: []
-  mbid: d6055067-c60d-4916-bd32-3a954fb1464e
-  name: David Margen
-- begin: '1977'
-  end: '1990'
-  instruments: []
-  mbid: a4fcb895-2a7f-48f0-8610-ffd96f97bf9f
-  name: Armando Peraza
-- begin: '1978'
-  end: '1978'
-  instruments: []
-  mbid: 58c3dc9f-7cb1-4387-bc4a-b1fab105fd46
-  name: Russell Tubbs
-- begin: '1978'
-  end: '1979'
-  instruments: []
-  mbid: d09258ca-06c8-4de4-8c23-589bd93f1611
-  name: Chris Rhyne
-- begin: '1978'
-  end: '1980'
-  instruments: []
-  mbid: 5242dbb4-0e12-47c4-a5ab-b791c1df1bab
-  name: Chris Solberg
-- begin: '1979'
-  end: '1980'
-  instruments: []
-  mbid: 6328a148-c428-41a0-90a8-44add9b3f40c
-  name: Alan Pasqua
-- begin: '1979'
-  end: '1983'
-  instruments: []
-  mbid: cde05af9-065c-455f-beb3-a7bde78c646b
-  name: Alex Ligertwood
-- begin: '1980'
-  end: '1982'
-  instruments: []
-  mbid: e1a614e0-190c-4ac4-bcfa-b28b75e8847f
-  name: Richard Baker
-- begin: '1980'
-  end: '1987'
-  instruments: []
-  mbid: 829a80fe-849f-4db6-b499-0cadab0b32f2
-  name: Orestes Vilató
-- begin: '1983'
-  end: '1984'
-  instruments: []
-  mbid: aac85622-84a5-4e40-aea9-5c2cdf4f34ad
-  name: Tom Coster
-- begin: '1983'
-  end: '1984'
-  instruments: []
-  mbid: aac11a8f-3859-4b97-9a6e-3132ba421caa
-  name: Keith Jones
-- begin: '1983'
-  end: '1985'
-  instruments: []
-  mbid: f99ea28d-99dc-4e50-9755-3d56dc23c7ce
-  name: Greg Walker
-- begin: '1983'
-  end: '2009'
-  instruments: []
-  mbid: 229f61e1-75f0-420f-8351-3ca121f72546
-  name: Chester Thompson
-- begin: '1984'
-  end: '1984'
-  instruments: []
-  mbid: 4401f986-51b8-407b-a898-500543df9dae
-  name: David Sancious
-- begin: '1984'
-  end: '1984'
-  instruments: []
-  mbid: e732fdb9-c480-45f9-8c1f-421f565b5dcd
-  name: Chester Thompson
-- begin: '1984'
-  end: '1985'
-  instruments: []
-  mbid: cde05af9-065c-455f-beb3-a7bde78c646b
-  name: Alex Ligertwood
-- begin: '1985'
-  end: '1985'
-  instruments: []
-  mbid: dabd5224-d890-4975-aba9-a3920f744cc9
-  name: Sterling Crew
-- begin: '1985'
-  end: '1987'
-  instruments: []
-  mbid: 7d27b1ec-ea9a-4c55-8e5c-4cd78fc3f33d
-  name: Graham Lear
-- begin: '1985'
-  end: '1989'
-  instruments: []
-  mbid: c8d789be-7b83-4147-afc3-1926517f2fdc
-  name: Alphonso Johnson
-- begin: '1986'
-  end: '1986'
-  instruments: []
-  mbid: 575ce447-e37e-4810-a4a2-c3a346455048
-  name: Buddy Miles
-- begin: '1987'
-  end: '1987'
-  instruments: []
-  mbid: cde05af9-065c-455f-beb3-a7bde78c646b
-  name: Alex Ligertwood
-- begin: '1987'
-  end: '1987'
-  instruments: []
-  mbid: 575ce447-e37e-4810-a4a2-c3a346455048
-  name: Buddy Miles
-- begin: '1988'
-  end: '1988'
-  instruments: []
-  mbid: 138fe48e-9ae8-4cca-a712-76a67eef1dac
-  name: Leon Ndugu Chancler
-- begin: '1988'
-  end: '1988'
-  instruments: []
-  mbid: 3a0fbd71-4613-45e3-bbe2-40752a0b69aa
-  name: Michael Shrieve
-- begin: '1988'
-  end: '1989'
-  instruments: []
-  mbid: 33aa21c8-5081-4314-bcd9-89b5cdb827f4
-  name: José “Chepito” Áreas
-- begin: '1989'
-  end: '1989'
-  instruments: []
-  mbid: aac11a8f-3859-4b97-9a6e-3132ba421caa
-  name: Keith Jones
-- begin: '1989'
-  end: '1991'
-  instruments: []
-  mbid: cde05af9-065c-455f-beb3-a7bde78c646b
-  name: Alex Ligertwood
-- begin: '1989'
-  end: '1991'
-  instruments: []
-  mbid: 1de395a1-43b3-4d62-8809-942113d84c15
-  name: Walfredo de los Reyes, Jr.
-- begin: '1990'
-  end: '1992'
-  instruments: []
-  mbid: a684c8d4-a979-44e8-9faa-bacaaa737a3a
-  name: Benny Rietveld
-- begin: '1991'
-  end: '1991'
-  instruments: []
-  mbid: 07e975d9-67d5-4d20-8527-9e7cd89bf379
-  name: Gaylord Birch
-- begin: '1991'
-  end: '1991'
-  instruments: []
-  mbid: 2ad9d368-9d19-42ae-8ff7-b391eaec740e
-  name: Billy Johnson
-- begin: '1991'
-  end: '1991'
-  instruments: []
-  mbid: cb6b3309-1812-453c-80dd-5341c12b01e8
-  name: Tony Lindsay
-- begin: '1991'
-  end: '2013'
-  instruments: []
-  mbid: 58c1a5a6-5271-48d4-89e6-651d8d127a06
-  name: Karl Perazzo
-- begin: '1992'
-  end: '1992'
-  instruments: []
-  mbid: f5cb5cd8-b89b-44b8-b7ef-08a9269c0952
-  name: Oran Coltrane
-- begin: '1992'
-  end: '1992'
-  instruments: []
-  mbid: c8d789be-7b83-4147-afc3-1926517f2fdc
-  name: Alphonso Johnson
-- begin: '1992'
-  end: '1993'
-  instruments: []
-  mbid: 1de395a1-43b3-4d62-8809-942113d84c15
-  name: Walfredo de los Reyes, Jr.
-- begin: '1992'
-  end: '1994'
-  instruments: []
-  mbid: cde05af9-065c-455f-beb3-a7bde78c646b
-  name: Alex Ligertwood
-- begin: '1992'
-  end: '1996'
-  instruments: []
-  mbid: 149b4a8e-477d-4bc9-8354-5642ba94b6ac
-  name: Myron Dove
-- begin: '1993'
-  end: '1993'
-  instruments: []
-  mbid: e75fccd4-160a-46ac-bab9-68046e9fa035
-  name: Vorriece Cooper
-- begin: '1993'
-  end: '1994'
-  instruments: []
-  mbid: d306681b-db52-470d-bf8c-5ad35305709e
-  name: Rodney Holmes
-- begin: '1993'
-  end: '1996'
-  instruments: []
-  mbid: 956293fd-7b1f-44e1-a98a-6bf0c61030a3
-  name: Jorge Santana
-- begin: '1994'
-  end: '1994'
-  instruments: []
-  mbid: fb2967c1-d471-4efd-b15b-93cf84173544
-  name: Tommie Bradford
-- begin: '1994'
-  end: '1994'
-  instruments: []
-  mbid: 2ad9d368-9d19-42ae-8ff7-b391eaec740e
-  name: Billy Johnson
-- begin: '1994'
-  end: '1998'
-  instruments: []
-  mbid: 7f7fcaab-6dc5-4182-83a8-224d66b651b8
-  name: Lawrence Rogers
-- begin: '1995'
-  end: '1995'
-  instruments: []
-  mbid: 7f12b47b-c76b-441a-b113-36992107ee62
-  name: Curtis Salgado
-- begin: '1995'
-  end: '2003'
-  instruments: []
-  mbid: cb6b3309-1812-453c-80dd-5341c12b01e8
-  name: Tony Lindsay
-- begin: '1997'
-  end: '1997'
-  instruments: []
-  mbid: 1b34a3aa-a6f7-4a63-a9e2-9514d4053a5d
-  name: Horacio ‘El Negro’ Hernández
-- begin: '1997'
-  end: '1997'
-  instruments: []
-  mbid: 56ca7dd7-3778-4752-a216-96cbf0a8e5a3
-  name: Ricky Wellman
-- begin: '1997'
-  end: '2000'
-  instruments: []
-  mbid: d306681b-db52-470d-bf8c-5ad35305709e
-  name: Rodney Holmes
-- &id002
-  begin: '1997'
-  end: ''
-  instruments: []
-  mbid: a684c8d4-a979-44e8-9faa-bacaaa737a3a
-  name: Benny Rietveld
-- begin: '2000'
-  end: '2001'
-  instruments: []
-  mbid: 2ad9d368-9d19-42ae-8ff7-b391eaec740e
-  name: Billy Johnson
-- begin: '2000'
-  end: '2013'
-  instruments: []
-  mbid: 46033400-740a-4d03-8bc8-3d005b3d9e43
-  name: Jeff Cressman
-- begin: '2000'
-  end: '2013'
-  instruments: []
-  mbid: b3dd520c-58de-4f2a-b0d3-1e7ad319d7dd
-  name: Bill Ortiz
-- begin: '2003'
-  end: '2005'
-  instruments: []
-  mbid: 149b4a8e-477d-4bc9-8354-5642ba94b6ac
-  name: Myron Dove
-- begin: '2004'
-  end: '2013'
-  instruments:
-  - drums (drum set)
-  mbid: 919553a3-2c2f-4b2e-b0ea-efe8e2573e9c
-  name: Dennis Chambers
-- begin: '2005'
-  end: '2013'
-  instruments: []
-  mbid: 7af76b81-3164-47c4-9fa3-5069a3281ea6
-  name: Tommy Anthony
-- begin: '2009'
-  end: '2010'
-  instruments: []
-  mbid: 5fca2e90-9dad-44d2-a5b2-b09d4c0e1046
-  name: Freddie Ravel
-- begin: '2011'
-  end: '2013'
-  instruments: []
-  mbid: 27c5c0a7-a59f-4e20-a896-245d34d2605c
-  name: David K. Mathews
-- begin: '2012'
-  end: '2013'
-  instruments: []
-  mbid: cb6b3309-1812-453c-80dd-5341c12b01e8
-  name: Tony Lindsay
-- begin: '2012'
-  end: '2013'
-  instruments: []
-  mbid: 77af261c-2ea1-4579-be84-cb702e08f035
-  name: Andy Vargas
-- &id003
-  begin: '2013'
-  end: ''
-  instruments: []
-  mbid: 15100bf8-28ff-4175-bef2-bd832a2d150f
-  name: Michael Carabello
-- &id004
-  begin: '2013'
-  end: ''
-  instruments: []
-  mbid: 34bef7d8-96b8-4d20-a529-f741fb414684
-  name: Gregg Rolie
-- &id005
-  begin: '2013'
-  end: ''
-  instruments: []
-  mbid: 58325670-9323-464a-8b20-3e8d7b26df60
-  name: Neal Schon
-- &id006
-  begin: '2013'
-  end: ''
-  instruments: []
-  mbid: 3a0fbd71-4613-45e3-bbe2-40752a0b69aa
-  name: Michael Shrieve
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b60e0204-078e-489c-9f67-a3b2cd74938c
-  name: David Brown
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bce4602d-abd3-411f-8522-fcd9c0fa0a07
-  name: Greg Errico
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0133a1b6-0d7d-440f-aa73-77f3cf2758ee
-  name: Thomas Escovedo
+  - begin: '1966'
+    end: '1967'
+    instruments:
+      - original
+    mbid: 15100bf8-28ff-4175-bef2-bd832a2d150f
+    name: Michael Carabello
+  - begin: '1966'
+    end: '1967'
+    instruments:
+      - original
+    mbid: 97288dd2-9d61-4b77-8fac-5d02d20f85f7
+    name: Tom Frazier
+  - begin: '1966'
+    end: '1967'
+    instruments:
+      - original
+    mbid: fe0e2a42-f748-4b9c-affc-a980d2e74261
+    name: Rod Harper
+  - begin: '1966'
+    end: '1967'
+    instruments:
+      - original
+    mbid: 082cbfb1-7ff2-4484-8788-af18578520df
+    name: Gus Rodriguez
+  - begin: '1966'
+    end: '1972'
+    instruments:
+      - original
+    mbid: 34bef7d8-96b8-4d20-a529-f741fb414684
+    name: Gregg Rolie
+  - &ref_0
+    begin: '1966'
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: f7fda030-0ba1-42e9-a385-3deebc939bc9
+    name: Carlos Santana
+  - begin: '1967'
+    end: '1969'
+    instruments: []
+    mbid: a5a87c3f-3d4d-42b8-b438-546f477116b3
+    name: Bob Livingston
+  - begin: '1967'
+    end: '1969'
+    instruments: []
+    mbid: f0611f4f-6f03-4603-8b92-1c24991c134b
+    name: Marcus Malone
+  - begin: '1967'
+    end: '1971'
+    instruments: []
+    mbid: 4f2fcb69-1897-4520-8d5c-2c617fae8484
+    name: David Brown
+  - begin: '1969'
+    end: '1971'
+    instruments: []
+    mbid: cb12d169-8615-4501-8d85-f2e655423251
+    name: Francisco Aguabella
+  - begin: '1969'
+    end: '1971'
+    instruments: []
+    mbid: 15100bf8-28ff-4175-bef2-bd832a2d150f
+    name: Michael Carabello
+  - begin: '1969'
+    end: '1974'
+    instruments: []
+    mbid: 3a0fbd71-4613-45e3-bbe2-40752a0b69aa
+    name: Michael Shrieve
+  - begin: '1969'
+    end: '1977'
+    instruments: []
+    mbid: 33aa21c8-5081-4314-bcd9-89b5cdb827f4
+    name: José “Chepito” Áreas
+  - begin: '1971'
+    end: '1971'
+    instruments: []
+    mbid: 0647b845-c442-4a61-8c2d-cdb22dcee253
+    name: Pete Escovedo
+  - begin: '1971'
+    end: '1971'
+    instruments: []
+    mbid: f00700d2-7dfc-4766-924b-c437490bbf5b
+    name: Victor Pantoja
+  - begin: '1971'
+    end: '1971'
+    instruments: []
+    mbid: 180618a6-8fbd-4e35-9277-67cc0be943e2
+    name: Rico Reyes
+  - begin: '1971'
+    end: '1972'
+    instruments: []
+    mbid: 0bfe3534-7153-409f-a87d-b734cb853f25
+    name: Coke Escovedo
+  - begin: '1971'
+    end: '1972'
+    instruments: []
+    mbid: 50e78f09-da79-451d-8adc-8bdcdf0db151
+    name: Tom Rutley
+  - begin: '1971'
+    end: '1972'
+    instruments: []
+    mbid: 58325670-9323-464a-8b20-3e8d7b26df60
+    name: Neal Schon
+  - begin: '1972'
+    end: '1972'
+    instruments: []
+    mbid: 481f67d8-1de2-46a9-88f0-444e48aef21a
+    name: James Mingo Lewis
+  - begin: '1972'
+    end: '1972'
+    instruments: []
+    mbid: 180618a6-8fbd-4e35-9277-67cc0be943e2
+    name: Rico Reyes
+  - begin: '1972'
+    end: '1973'
+    instruments: []
+    mbid: 7f587566-68c8-4a5b-97c2-92bd4832c6b8
+    name: Richard Kermode
+  - begin: '1972'
+    end: '1973'
+    instruments: []
+    mbid: 4bf61555-5ba0-4dc2-91ca-16940ca6cd17
+    name: Doug Rauch
+  - begin: '1972'
+    end: '1978'
+    instruments: []
+    mbid: aac85622-84a5-4e40-aea9-5c2cdf4f34ad
+    name: Tom Coster
+  - begin: '1973'
+    end: '1973'
+    instruments: []
+    mbid: 46f70f03-d259-4314-b926-2db36c28d86f
+    name: Leon Thomas
+  - begin: '1974'
+    end: '1975'
+    instruments: []
+    mbid: a9082d6d-b5b0-4724-a306-57ae72b1bfa4
+    name: Jules Broussard
+  - begin: '1974'
+    end: '1975'
+    instruments: []
+    mbid: 2f598e2c-973a-4ec4-ab1a-9dc9deadc18b
+    name: Leon Patillo
+  - begin: '1974'
+    end: '1976'
+    instruments: []
+    mbid: 4f2fcb69-1897-4520-8d5c-2c617fae8484
+    name: David Brown
+  - begin: '1974'
+    end: '1976'
+    instruments: []
+    mbid: 138fe48e-9ae8-4cca-a712-76a67eef1dac
+    name: Leon Ndugu Chancler
+  - begin: '1975'
+    end: '1976'
+    instruments: []
+    mbid: f99ea28d-99dc-4e50-9755-3d56dc23c7ce
+    name: Greg Walker
+  - begin: '1976'
+    end: '1976'
+    instruments: []
+    mbid: 97eb7973-f86f-4767-9ff8-77d5ceaa6ccc
+    name: Joel Badie
+  - begin: '1976'
+    end: '1976'
+    instruments: []
+    mbid: 07e975d9-67d5-4d20-8527-9e7cd89bf379
+    name: Gaylord Birch
+  - begin: '1976'
+    end: '1976'
+    instruments: []
+    mbid: 4baf4153-5af2-45e3-be93-41083d2b6d37
+    name: Byron Miller
+  - begin: '1976'
+    end: '1976'
+    instruments: []
+    mbid: a4fcb895-2a7f-48f0-8610-ffd96f97bf9f
+    name: Armando Peraza
+  - begin: '1976'
+    end: '1976'
+    instruments: []
+    mbid: 8e1acabd-fde7-4845-be8d-944f9bca18f8
+    name: Luther Rabb
+  - begin: '1976'
+    end: '1977'
+    instruments: []
+    mbid: ddb10b88-6b6a-45e3-a28c-e3aa27b269eb
+    name: Pablo Tellez
+  - begin: '1976'
+    end: '1979'
+    instruments: []
+    mbid: f99ea28d-99dc-4e50-9755-3d56dc23c7ce
+    name: Greg Walker
+  - begin: '1976'
+    end: '1984'
+    instruments: []
+    mbid: 7d27b1ec-ea9a-4c55-8e5c-4cd78fc3f33d
+    name: Graham Lear
+  - begin: '1976'
+    end: '2013'
+    instruments: []
+    mbid: 1013f50d-4869-448a-a6fd-2581d9d11765
+    name: Raul Rekow
+  - begin: '1977'
+    end: '1979'
+    instruments: []
+    mbid: 0647b845-c442-4a61-8c2d-cdb22dcee253
+    name: Pete Escovedo
+  - begin: '1977'
+    end: '1982'
+    instruments: []
+    mbid: d6055067-c60d-4916-bd32-3a954fb1464e
+    name: David Margen
+  - begin: '1977'
+    end: '1990'
+    instruments: []
+    mbid: a4fcb895-2a7f-48f0-8610-ffd96f97bf9f
+    name: Armando Peraza
+  - begin: '1978'
+    end: '1978'
+    instruments: []
+    mbid: 58c3dc9f-7cb1-4387-bc4a-b1fab105fd46
+    name: Russell Tubbs
+  - begin: '1978'
+    end: '1979'
+    instruments: []
+    mbid: d09258ca-06c8-4de4-8c23-589bd93f1611
+    name: Chris Rhyne
+  - begin: '1978'
+    end: '1980'
+    instruments: []
+    mbid: 5242dbb4-0e12-47c4-a5ab-b791c1df1bab
+    name: Chris Solberg
+  - begin: '1979'
+    end: '1980'
+    instruments: []
+    mbid: 6328a148-c428-41a0-90a8-44add9b3f40c
+    name: Alan Pasqua
+  - begin: '1979'
+    end: '1983'
+    instruments: []
+    mbid: cde05af9-065c-455f-beb3-a7bde78c646b
+    name: Alex Ligertwood
+  - begin: '1980'
+    end: '1982'
+    instruments: []
+    mbid: e1a614e0-190c-4ac4-bcfa-b28b75e8847f
+    name: Richard Baker
+  - begin: '1980'
+    end: '1987'
+    instruments: []
+    mbid: 829a80fe-849f-4db6-b499-0cadab0b32f2
+    name: Orestes Vilató
+  - begin: '1983'
+    end: '1984'
+    instruments: []
+    mbid: aac85622-84a5-4e40-aea9-5c2cdf4f34ad
+    name: Tom Coster
+  - begin: '1983'
+    end: '1984'
+    instruments: []
+    mbid: aac11a8f-3859-4b97-9a6e-3132ba421caa
+    name: Keith Jones
+  - begin: '1983'
+    end: '1985'
+    instruments: []
+    mbid: f99ea28d-99dc-4e50-9755-3d56dc23c7ce
+    name: Greg Walker
+  - begin: '1983'
+    end: '2009'
+    instruments: []
+    mbid: 229f61e1-75f0-420f-8351-3ca121f72546
+    name: Chester Thompson
+  - begin: '1984'
+    end: '1984'
+    instruments: []
+    mbid: 4401f986-51b8-407b-a898-500543df9dae
+    name: David Sancious
+  - begin: '1984'
+    end: '1984'
+    instruments: []
+    mbid: e732fdb9-c480-45f9-8c1f-421f565b5dcd
+    name: Chester Thompson
+  - begin: '1984'
+    end: '1985'
+    instruments: []
+    mbid: cde05af9-065c-455f-beb3-a7bde78c646b
+    name: Alex Ligertwood
+  - begin: '1985'
+    end: '1985'
+    instruments: []
+    mbid: dabd5224-d890-4975-aba9-a3920f744cc9
+    name: Sterling Crew
+  - begin: '1985'
+    end: '1987'
+    instruments: []
+    mbid: 7d27b1ec-ea9a-4c55-8e5c-4cd78fc3f33d
+    name: Graham Lear
+  - begin: '1985'
+    end: '1989'
+    instruments: []
+    mbid: c8d789be-7b83-4147-afc3-1926517f2fdc
+    name: Alphonso Johnson
+  - begin: '1986'
+    end: '1986'
+    instruments: []
+    mbid: 575ce447-e37e-4810-a4a2-c3a346455048
+    name: Buddy Miles
+  - begin: '1987'
+    end: '1987'
+    instruments: []
+    mbid: cde05af9-065c-455f-beb3-a7bde78c646b
+    name: Alex Ligertwood
+  - begin: '1987'
+    end: '1987'
+    instruments: []
+    mbid: 575ce447-e37e-4810-a4a2-c3a346455048
+    name: Buddy Miles
+  - begin: '1988'
+    end: '1988'
+    instruments: []
+    mbid: 138fe48e-9ae8-4cca-a712-76a67eef1dac
+    name: Leon Ndugu Chancler
+  - begin: '1988'
+    end: '1988'
+    instruments: []
+    mbid: 3a0fbd71-4613-45e3-bbe2-40752a0b69aa
+    name: Michael Shrieve
+  - begin: '1988'
+    end: '1989'
+    instruments: []
+    mbid: 33aa21c8-5081-4314-bcd9-89b5cdb827f4
+    name: José “Chepito” Áreas
+  - begin: '1989'
+    end: '1989'
+    instruments: []
+    mbid: aac11a8f-3859-4b97-9a6e-3132ba421caa
+    name: Keith Jones
+  - begin: '1989'
+    end: '1991'
+    instruments: []
+    mbid: cde05af9-065c-455f-beb3-a7bde78c646b
+    name: Alex Ligertwood
+  - begin: '1989'
+    end: '1991'
+    instruments: []
+    mbid: 1de395a1-43b3-4d62-8809-942113d84c15
+    name: 'Walfredo de los Reyes, Jr.'
+  - begin: '1990'
+    end: '1992'
+    instruments: []
+    mbid: a684c8d4-a979-44e8-9faa-bacaaa737a3a
+    name: Benny Rietveld
+  - begin: '1991'
+    end: '1991'
+    instruments: []
+    mbid: 07e975d9-67d5-4d20-8527-9e7cd89bf379
+    name: Gaylord Birch
+  - begin: '1991'
+    end: '1991'
+    instruments: []
+    mbid: 2ad9d368-9d19-42ae-8ff7-b391eaec740e
+    name: Billy Johnson
+  - begin: '1991'
+    end: '1991'
+    instruments: []
+    mbid: cb6b3309-1812-453c-80dd-5341c12b01e8
+    name: Tony Lindsay
+  - begin: '1991'
+    end: '2013'
+    instruments: []
+    mbid: 58c1a5a6-5271-48d4-89e6-651d8d127a06
+    name: Karl Perazzo
+  - begin: '1992'
+    end: '1992'
+    instruments: []
+    mbid: f5cb5cd8-b89b-44b8-b7ef-08a9269c0952
+    name: Oran Coltrane
+  - begin: '1992'
+    end: '1992'
+    instruments: []
+    mbid: c8d789be-7b83-4147-afc3-1926517f2fdc
+    name: Alphonso Johnson
+  - begin: '1992'
+    end: '1993'
+    instruments: []
+    mbid: 1de395a1-43b3-4d62-8809-942113d84c15
+    name: 'Walfredo de los Reyes, Jr.'
+  - begin: '1992'
+    end: '1994'
+    instruments: []
+    mbid: cde05af9-065c-455f-beb3-a7bde78c646b
+    name: Alex Ligertwood
+  - begin: '1992'
+    end: '1996'
+    instruments: []
+    mbid: 149b4a8e-477d-4bc9-8354-5642ba94b6ac
+    name: Myron Dove
+  - begin: '1993'
+    end: '1993'
+    instruments: []
+    mbid: e75fccd4-160a-46ac-bab9-68046e9fa035
+    name: Vorriece Cooper
+  - begin: '1993'
+    end: '1994'
+    instruments: []
+    mbid: d306681b-db52-470d-bf8c-5ad35305709e
+    name: Rodney Holmes
+  - begin: '1993'
+    end: '1996'
+    instruments: []
+    mbid: 956293fd-7b1f-44e1-a98a-6bf0c61030a3
+    name: Jorge Santana
+  - begin: '1994'
+    end: '1994'
+    instruments: []
+    mbid: fb2967c1-d471-4efd-b15b-93cf84173544
+    name: Tommie Bradford
+  - begin: '1994'
+    end: '1994'
+    instruments: []
+    mbid: 2ad9d368-9d19-42ae-8ff7-b391eaec740e
+    name: Billy Johnson
+  - begin: '1994'
+    end: '1998'
+    instruments: []
+    mbid: 7f7fcaab-6dc5-4182-83a8-224d66b651b8
+    name: Lawrence Rogers
+  - begin: '1995'
+    end: '1995'
+    instruments: []
+    mbid: 7f12b47b-c76b-441a-b113-36992107ee62
+    name: Curtis Salgado
+  - begin: '1995'
+    end: '2003'
+    instruments: []
+    mbid: cb6b3309-1812-453c-80dd-5341c12b01e8
+    name: Tony Lindsay
+  - begin: '1997'
+    end: '1997'
+    instruments: []
+    mbid: 1b34a3aa-a6f7-4a63-a9e2-9514d4053a5d
+    name: Horacio ‘El Negro’ Hernández
+  - begin: '1997'
+    end: '1997'
+    instruments: []
+    mbid: 56ca7dd7-3778-4752-a216-96cbf0a8e5a3
+    name: Ricky Wellman
+  - begin: '1997'
+    end: '2000'
+    instruments: []
+    mbid: d306681b-db52-470d-bf8c-5ad35305709e
+    name: Rodney Holmes
+  - &ref_1
+    begin: '1997'
+    end: ''
+    instruments: []
+    mbid: a684c8d4-a979-44e8-9faa-bacaaa737a3a
+    name: Benny Rietveld
+  - begin: '2000'
+    end: '2001'
+    instruments: []
+    mbid: 2ad9d368-9d19-42ae-8ff7-b391eaec740e
+    name: Billy Johnson
+  - begin: '2000'
+    end: '2013'
+    instruments: []
+    mbid: 46033400-740a-4d03-8bc8-3d005b3d9e43
+    name: Jeff Cressman
+  - begin: '2000'
+    end: '2013'
+    instruments: []
+    mbid: b3dd520c-58de-4f2a-b0d3-1e7ad319d7dd
+    name: Bill Ortiz
+  - begin: '2003'
+    end: '2005'
+    instruments: []
+    mbid: 149b4a8e-477d-4bc9-8354-5642ba94b6ac
+    name: Myron Dove
+  - begin: '2004'
+    end: '2013'
+    instruments:
+      - drums (drum set)
+    mbid: 919553a3-2c2f-4b2e-b0ea-efe8e2573e9c
+    name: Dennis Chambers
+  - begin: '2005'
+    end: '2013'
+    instruments: []
+    mbid: 7af76b81-3164-47c4-9fa3-5069a3281ea6
+    name: Tommy Anthony
+  - begin: '2009'
+    end: '2010'
+    instruments: []
+    mbid: 5fca2e90-9dad-44d2-a5b2-b09d4c0e1046
+    name: Freddie Ravel
+  - begin: '2011'
+    end: '2013'
+    instruments: []
+    mbid: 27c5c0a7-a59f-4e20-a896-245d34d2605c
+    name: David K. Mathews
+  - begin: '2012'
+    end: '2013'
+    instruments: []
+    mbid: cb6b3309-1812-453c-80dd-5341c12b01e8
+    name: Tony Lindsay
+  - begin: '2012'
+    end: '2013'
+    instruments: []
+    mbid: 77af261c-2ea1-4579-be84-cb702e08f035
+    name: Andy Vargas
+  - &ref_2
+    begin: '2013'
+    end: ''
+    instruments: []
+    mbid: 15100bf8-28ff-4175-bef2-bd832a2d150f
+    name: Michael Carabello
+  - &ref_3
+    begin: '2013'
+    end: ''
+    instruments: []
+    mbid: 34bef7d8-96b8-4d20-a529-f741fb414684
+    name: Gregg Rolie
+  - &ref_4
+    begin: '2013'
+    end: ''
+    instruments: []
+    mbid: 58325670-9323-464a-8b20-3e8d7b26df60
+    name: Neal Schon
+  - &ref_5
+    begin: '2013'
+    end: ''
+    instruments: []
+    mbid: 3a0fbd71-4613-45e3-bbe2-40752a0b69aa
+    name: Michael Shrieve
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b60e0204-078e-489c-9f67-a3b2cd74938c
+    name: David Brown
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bce4602d-abd3-411f-8522-fcd9c0fa0a07
+    name: Greg Errico
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0133a1b6-0d7d-440f-aa73-77f3cf2758ee
+    name: Thomas Escovedo
 musical_connections:
   collaborators:
-  - Gregg Rolie
-  - David Brown
-  - Mike Shrieve
-  - José 'Chepito' Areas
-  - Armando Peraza
+    - Gregg Rolie
+    - David Brown
+    - Mike Shrieve
+    - José 'Chepito' Areas
+    - Armando Peraza
   influenced:
-  - Buddy Miles
-  - Mike Bloomfield
+    - Buddy Miles
+    - Mike Bloomfield
   mentors:
-  - Javier Bátiz
-  - José Santana (father)
-  - T-Bone Walker
+    - Javier Bátiz
+    - José Santana (father)
+    - T-Bone Walker
 musicbrainz_id: 9a3bf45c-347d-4630-894d-7cf3e8e0b632
 network_extracted: true
-origin: San Francisco
+origin: 'San Francisco, California, United States'
 original_members:
-- *id001
-- *id002
-- *id003
-- *id004
-- *id005
-- *id006
+  - *ref_0
+  - *ref_1
+  - *ref_2
+  - *ref_3
+  - *ref_4
+  - *ref_5
 primary_source: perplexity
 research_sources:
-- https://www.biography.com/musicians/carlos-santana
-- https://en.wikipedia.org/wiki/Carlos_Santana
-- https://www.ebsco.com/research-starters/music/santana-music-group
-- https://www.imdb.com/name/nm0005396/bio/
-- https://santana.com/carlos-santana-biography/
-- https://www.britannica.com/biography/Carlos-Santana
-- https://californiamuseum.org/inductee/carlos-santana/
+  - 'https://www.biography.com/musicians/carlos-santana'
+  - 'https://en.wikipedia.org/wiki/Carlos_Santana'
+  - 'https://www.ebsco.com/research-starters/music/santana-music-group'
+  - 'https://www.imdb.com/name/nm0005396/bio/'
+  - 'https://santana.com/carlos-santana-biography/'
+  - 'https://www.britannica.com/biography/Carlos-Santana'
+  - 'https://californiamuseum.org/inductee/carlos-santana/'
 spotify_data:
   followers: 3883611
   id: 6GI52t8N5F02MxU0g5U69P
   popularity: 72
-  url: https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P
+  url: 'https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P'
 status: active
 tags:
-- blues rock
-- classic rock
-- hard rock
+  - blues rock
+  - classic rock
+  - hard rock
 title: Santana
+birth_place: 'Autlán de Navarro, Jalisco, Mexico'
 ---
 
 ![](santana.jpg)

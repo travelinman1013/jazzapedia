@@ -23,51 +23,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bireli Lagrene
-  - Trio Reis/Demuth/Wiltgen
-  - Dr. Lonnie Smith
-  - Big John Patton
+    - Bireli Lagrene
+    - Trio Reis/Demuth/Wiltgen
+    - Dr. Lonnie Smith
+    - Big John Patton
   influenced:
-  - Students at University of New Orleans
+    - Students at University of New Orleans
   mentors:
-  - Gary Burton
-  - Ellis Marsalis
-  - David Liebman
+    - Gary Burton
+    - Ellis Marsalis
+    - David Liebman
 spotify_data:
   followers: 221
   id: 2LEOPIlatlKT9L1lxTOclD
   popularity: 3
-  url: https://open.spotify.com/artist/2LEOPIlatlKT9L1lxTOclD
+  url: 'https://open.spotify.com/artist/2LEOPIlatlKT9L1lxTOclD'
 discography_enriched: true
 top_tracks:
-- One size too big (Powerplay)
-- Marklandsgatan (Marklandsgatan)
-- Powerplay (Powerplay)
-- Powerplay (Powerplay)
-- Marklandsgatan (Powerplay)
-- Marklandsgatan (Marklandsgatan)
-- Powerplay (Powerplay)
-- Powerplay (Powerplay)
-- Peroni double (Powerplay)
-- Sex drugs & Rock´n´roll (Powerplay)
+  - One size too big (Powerplay)
+  - Marklandsgatan (Marklandsgatan)
+  - Powerplay (Powerplay)
+  - Powerplay (Powerplay)
+  - Marklandsgatan (Powerplay)
+  - Marklandsgatan (Marklandsgatan)
+  - Powerplay (Powerplay)
+  - Powerplay (Powerplay)
+  - Peroni double (Powerplay)
+  - Sex drugs & Rock´n´roll (Powerplay)
 external_urls:
-  spotify: https://open.spotify.com/artist/2LEOPIlatlKT9L1lxTOclD
+  spotify: 'https://open.spotify.com/artist/2LEOPIlatlKT9L1lxTOclD'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/organic_trio.jpg
 biography_enhanced_at: '2025-11-01T15:33:45.253586'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://organictrio.com/TheBand.html
-- https://www.offbeat.com/music/organic-trio-home-remembered/
-- https://www.wwoz.org/blog/197036
-- https://jazz-concerts.com/en/ensemble/Organic-Trio-397
-- http://organictrio.com
-- https://www.offbeat.com/music/organic-trio-saturns-spell-jazz-family/
+  - 'http://organictrio.com/TheBand.html'
+  - 'https://www.offbeat.com/music/organic-trio-home-remembered/'
+  - 'https://www.wwoz.org/blog/197036'
+  - 'https://jazz-concerts.com/en/ensemble/Organic-Trio-397'
+  - 'http://organictrio.com'
+  - 'https://www.offbeat.com/music/organic-trio-saturns-spell-jazz-family/'
 network_extracted: true
 entry_created: '2025-11-01T15:33:45.253596'
 last_updated: '2025-12-23T08:16:13.774393'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](organic_trio.jpg)

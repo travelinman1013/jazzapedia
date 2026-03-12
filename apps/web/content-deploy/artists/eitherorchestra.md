@@ -4,8 +4,8 @@ wiki_slug: eitherorchestra
 schema_version: 2
 status: active
 genres:
-- ethiopian jazz
-- big band
+  - ethiopian jazz
+  - big band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/eitherorchestra.jpg
   caption: Either/Orchestra
@@ -25,56 +25,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mulatu Astatke
-  - Getachew Mekurya
-  - Mahmoud Ahmed
-  - Alemayehu Eshete
-  - John Medeski
-  - Matt Wilson
-  - Tom Halter
+    - Mulatu Astatke
+    - Getachew Mekurya
+    - Mahmoud Ahmed
+    - Alemayehu Eshete
+    - John Medeski
+    - Matt Wilson
+    - Tom Halter
   influenced:
-  - Miguel Zenón
-  - Jaleel Shaw
-  - Andrew D’Angelo
-  - John Medeski
+    - Miguel Zenón
+    - Jaleel Shaw
+    - Andrew D’Angelo
+    - John Medeski
   mentors:
-  - Duke Ellington
-  - Gil Evans
-  - Charles Mingus
-  - Sun Ra
+    - Duke Ellington
+    - Gil Evans
+    - Charles Mingus
+    - Sun Ra
 spotify_data:
   followers: 1323
   id: 67sdbPqny7PrZeVf2lngOV
   popularity: 4
-  url: https://open.spotify.com/artist/67sdbPqny7PrZeVf2lngOV
+  url: 'https://open.spotify.com/artist/67sdbPqny7PrZeVf2lngOV'
 discography_enriched: true
 top_tracks:
-- Harvey's Entrance (Afro-Cubism)
-- Temptation (The Half-Life of Desire)
-- Amlak abét abét - Live (Ethiopiques, Vol. 20 (Live in Addis))
-- Muziqawi silt - Live (Ethiopiques, Vol. 20 (Live in Addis))
-- Altchalkoum - Live (Ethiopiques, Vol. 20 (Live in Addis))
-- Soul tezeta - Live (Ethiopiques, Vol. 20 (Live in Addis))
-- Breaktime for Dougo (More Beautiful Than Death)
-- Feqer aydèlem wèy - Live (Ethiopiques, Vol. 20 (Live in Addis))
-- Yèzèmèd yèbada - Live (Ethiopiques, Vol. 20 (Live in Addis))
-- Eyèyè - Live (Ethiopiques, Vol. 20 (Live in Addis))
+  - Harvey's Entrance (Afro-Cubism)
+  - Temptation (The Half-Life of Desire)
+  - 'Amlak abét abét - Live (Ethiopiques, Vol. 20 (Live in Addis))'
+  - 'Muziqawi silt - Live (Ethiopiques, Vol. 20 (Live in Addis))'
+  - 'Altchalkoum - Live (Ethiopiques, Vol. 20 (Live in Addis))'
+  - 'Soul tezeta - Live (Ethiopiques, Vol. 20 (Live in Addis))'
+  - Breaktime for Dougo (More Beautiful Than Death)
+  - 'Feqer aydèlem wèy - Live (Ethiopiques, Vol. 20 (Live in Addis))'
+  - 'Yèzèmèd yèbada - Live (Ethiopiques, Vol. 20 (Live in Addis))'
+  - 'Eyèyè - Live (Ethiopiques, Vol. 20 (Live in Addis))'
 external_urls:
-  spotify: https://open.spotify.com/artist/67sdbPqny7PrZeVf2lngOV
-  wikipedia: https://en.wikipedia.org/wiki/Either/Orchestra
+  spotify: 'https://open.spotify.com/artist/67sdbPqny7PrZeVf2lngOV'
+  wikipedia: 'https://en.wikipedia.org/wiki/Either/Orchestra'
 image_path: 03_Resources/source_material/ArtistPortraits/eitherorchestra.jpg
 biography_enhanced_at: '2025-11-12T14:58:32.180594'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.mmone.org/eitherorchestra/
-- https://en.wikipedia.org/wiki/Either/Orchestra
-- https://bigearsfestival.org/either-orchestra/
-- https://www.either-orchestra.org/about
+  - 'https://www.mmone.org/eitherorchestra/'
+  - 'https://en.wikipedia.org/wiki/Either/Orchestra'
+  - 'https://bigearsfestival.org/either-orchestra/'
+  - 'https://www.either-orchestra.org/about'
 network_extracted: true
 entry_created: '2025-11-12T14:58:32.180611'
 last_updated: '2025-12-23T08:16:08.264076'
-origin: Cambridge, Massachusetts, United States
+origin: 'Cambridge, Massachusetts, United States'
+artist_type: person
 ---
 
 ![](eitherorchestra.jpg)

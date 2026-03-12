@@ -1,16 +1,16 @@
 ---
-title: mike doussan
+title: Mike Doussan
 wiki_slug: mike-doussan
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- roots rock
+  - roots rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/mike_doussan.jpg
   caption: mike doussan
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 123.1
   energy_avg: 0.523
@@ -26,52 +26,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tyron Benoit
-  - Josh Garrett
-  - Big Chief Monk Boudreaux
-  - Dave Jordan
-  - Irene Sage
-  - 101 Runners
-  - Dr. John
-  - Warren Haynes
-  - Walter Wolfman Washington
+    - Tyron Benoit
+    - Josh Garrett
+    - Big Chief Monk Boudreaux
+    - Dave Jordan
+    - Irene Sage
+    - 101 Runners
+    - Dr. John
+    - Warren Haynes
+    - Walter Wolfman Washington
   influenced: []
   mentors:
-  - Eric Lindell
-  - Mike Hood
+    - Eric Lindell
+    - Mike Hood
 spotify_data:
   followers: 355
   id: 68OSaILAJRwc7mSyDBq2NK
   popularity: 1
-  url: https://open.spotify.com/artist/68OSaILAJRwc7mSyDBq2NK
+  url: 'https://open.spotify.com/artist/68OSaILAJRwc7mSyDBq2NK'
 discography_enriched: true
 top_tracks:
-- Forgive Yourself (Forgive Yourself)
-- All About You (Yesterday's Troubles)
-- Carry Us Home (Yesterday's Troubles)
-- Peace of Mind (Yesterday's Troubles)
-- Mama Said (Sin or Salvation)
-- I Believe (Sin or Salvation)
-- Indian Blanket (Sad Dimension)
-- Devil No Name (Sad Dimension)
-- Somewhere Else (Yesterday's Troubles)
-- All Mine (Yesterday's Troubles)
+  - Forgive Yourself (Forgive Yourself)
+  - All About You (Yesterday's Troubles)
+  - Carry Us Home (Yesterday's Troubles)
+  - Peace of Mind (Yesterday's Troubles)
+  - Mama Said (Sin or Salvation)
+  - I Believe (Sin or Salvation)
+  - Indian Blanket (Sad Dimension)
+  - Devil No Name (Sad Dimension)
+  - Somewhere Else (Yesterday's Troubles)
+  - All Mine (Yesterday's Troubles)
 external_urls:
-  spotify: https://open.spotify.com/artist/68OSaILAJRwc7mSyDBq2NK
+  spotify: 'https://open.spotify.com/artist/68OSaILAJRwc7mSyDBq2NK'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/mike_doussan.jpg
 biography_enhanced_at: '2025-11-06T13:25:49.886786'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.btdfoundation.org/mike-doussan/
-- https://www.gigsalad.com/mike_doussan_band_new_orleans
-- https://open.spotify.com/artist/68OSaILAJRwc7mSyDBq2NK
-- https://www.mikedoussan.com
-- https://mikedoussan.com/bio-press
+  - 'https://www.btdfoundation.org/mike-doussan/'
+  - 'https://www.gigsalad.com/mike_doussan_band_new_orleans'
+  - 'https://open.spotify.com/artist/68OSaILAJRwc7mSyDBq2NK'
+  - 'https://www.mikedoussan.com'
+  - 'https://mikedoussan.com/bio-press'
 network_extracted: true
 entry_created: '2025-11-06T13:25:49.886807'
 last_updated: '2025-12-23T08:16:13.127775'
+artist_type: person
 ---
 
 ![](mike_doussan.jpg)

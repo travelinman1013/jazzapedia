@@ -1,5 +1,5 @@
 ---
-title: ROUGH SHOP
+title: Rough Shop
 wiki_slug: rough-shop
 schema_version: 2
 status: active
@@ -23,43 +23,44 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Andy Ploof
-  - John Wendland
-  - St. Louis musicians (various)
+    - Andy Ploof
+    - John Wendland
+    - St. Louis musicians (various)
   influenced: []
   mentors: []
 spotify_data:
   followers: 45
   id: 3Us8astRB2yKaEXDXO5jRY
   popularity: 1
-  url: https://open.spotify.com/artist/3Us8astRB2yKaEXDXO5jRY
+  url: 'https://open.spotify.com/artist/3Us8astRB2yKaEXDXO5jRY'
 discography_enriched: true
 top_tracks:
-- Clean Slate (Here Today)
-- Wandering Tonight (Here Today)
-- Dance All Night (Here Today)
-- Dear Mama (Here Today)
-- Golden Slumber Inn (Here Today)
-- Drink Up And Go Home (Here Today)
-- Here Today (Here Today)
-- '''Til The Well Runs Dry (Here Today)'
-- Reasons (Here Today)
-- Best Of A Bad Thing (Here Today)
+  - Clean Slate (Here Today)
+  - Wandering Tonight (Here Today)
+  - Dance All Night (Here Today)
+  - Dear Mama (Here Today)
+  - Golden Slumber Inn (Here Today)
+  - Drink Up And Go Home (Here Today)
+  - Here Today (Here Today)
+  - '''Til The Well Runs Dry (Here Today)'
+  - Reasons (Here Today)
+  - Best Of A Bad Thing (Here Today)
 external_urls:
-  spotify: https://open.spotify.com/artist/3Us8astRB2yKaEXDXO5jRY
+  spotify: 'https://open.spotify.com/artist/3Us8astRB2yKaEXDXO5jRY'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/rough_shop.jpg
 biography_enhanced_at: '2025-12-15T01:20:47.039927'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Rough Shop Bandcamp page[3]
-- Rough Shop official website[4]
-- Focal Point event listings featuring Rough Shop holiday concerts[5][6]
+  - 'Rough Shop Bandcamp page[3]'
+  - 'Rough Shop official website[4]'
+  - 'Focal Point event listings featuring Rough Shop holiday concerts[5][6]'
 network_extracted: true
 entry_created: '2025-12-15T01:20:47.039944'
 last_updated: '2025-12-23T08:16:15.102507'
-origin: St. Louis, Missouri, United States
+origin: 'St. Louis, Missouri, United States'
+artist_type: band
 ---
 
 ![](rough_shop.jpg)

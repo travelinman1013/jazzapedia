@@ -3,15 +3,15 @@ title: Lynn August
 wiki_slug: lynn-august
 schema_version: 2
 status: active
-birth_place: Lafayette, Louisiana, United States
+birth_place: 'Lafayette, Louisiana, United States'
 genres:
-- zydeco
-- cajun
+  - zydeco
+  - cajun
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lynn_august.jpg
   caption: Lynn August
   background: solo_singer
-  origin: Lafayette, Louisiana, United States
+  origin: 'Lafayette, Louisiana, United States'
 audio_profile:
   tempo_avg: 129.3
   energy_avg: 0.61
@@ -27,49 +27,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Stanley “Buckwheat” Dural (Buckwheat Zydeco)
-  - John Hart
-  - Marcel Dugas (often cited as Marcel “Sugar”/Marcel Dugas)
-  - Willie-Tee Trahan and Cypress
+    - Stanley “Buckwheat” Dural (Buckwheat Zydeco)
+    - John Hart
+    - Marcel Dugas (often cited as Marcel “Sugar”/Marcel Dugas)
+    - Willie-Tee Trahan and Cypress
   influenced:
-  - Younger Louisiana Creole and zydeco musicians (general)
+    - Younger Louisiana Creole and zydeco musicians (general)
   mentors:
-  - Esquerita (Eskew Reeder Jr.)
-  - Claude Duffy
+    - Esquerita (Eskew Reeder Jr.)
+    - Claude Duffy
 spotify_data:
   followers: 271
   id: 6ACRSvMIs9tn0BQyYr2Sfb
   popularity: 7
-  url: https://open.spotify.com/artist/6ACRSvMIs9tn0BQyYr2Sfb
+  url: 'https://open.spotify.com/artist/6ACRSvMIs9tn0BQyYr2Sfb'
 discography_enriched: true
 top_tracks:
-- Lead Me On (Sauce Piquante)
-- Amazon Annie (Rockin' Zydeco Party!)
-- 'One Way Ticket (Lowrider Oldies: Art Laboe Classic Soul, Vol. 1)'
-- Let's Just Kiss and Say Goodbye (From Back in the Day)
-- What Am I Living For (Legends Making Memories)
-- Christmas by the Bar-B-Que (Putumayo Presents Joy To The World)
-- I Stand Accused (From Back in the Day)
-- Harry Hippie (From Back in the Day)
-- Seven Letters (From Back in the Day)
-- 'All the Things I Did for You (The Legendary Lynn August: Then and Now)'
+  - Lead Me On (Sauce Piquante)
+  - Amazon Annie (Rockin' Zydeco Party!)
+  - 'One Way Ticket (Lowrider Oldies: Art Laboe Classic Soul, Vol. 1)'
+  - Let's Just Kiss and Say Goodbye (From Back in the Day)
+  - What Am I Living For (Legends Making Memories)
+  - Christmas by the Bar-B-Que (Putumayo Presents Joy To The World)
+  - I Stand Accused (From Back in the Day)
+  - Harry Hippie (From Back in the Day)
+  - Seven Letters (From Back in the Day)
+  - 'All the Things I Did for You (The Legendary Lynn August: Then and Now)'
 external_urls:
-  spotify: https://open.spotify.com/artist/6ACRSvMIs9tn0BQyYr2Sfb
-  wikipedia: https://en.wikipedia.org/wiki/Lynn_August
+  spotify: 'https://open.spotify.com/artist/6ACRSvMIs9tn0BQyYr2Sfb'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lynn_August'
 image_path: 03_Resources/source_material/ArtistPortraits/lynn_august.jpg
 biography_enhanced_at: '2025-12-15T01:23:13.007964'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Lynn_August
-- https://radiomaxmusic2.wordpress.com/2025/02/17/in-memoriam-lynn-august-1948-2025/
-- https://www.buddylous.com/event/lynn-august/
-- https://www.melanconfuneralhome.net/obituaries/Lynn-August?obId=37303195
-- http://zydecocrossroads.org/2015/03/lynn-august/
-- https://www.ponderosastomp.com/music_more/299/Lynn+August
+  - 'https://en.wikipedia.org/wiki/Lynn_August'
+  - >-
+    https://radiomaxmusic2.wordpress.com/2025/02/17/in-memoriam-lynn-august-1948-2025/
+  - 'https://www.buddylous.com/event/lynn-august/'
+  - 'https://www.melanconfuneralhome.net/obituaries/Lynn-August?obId=37303195'
+  - 'http://zydecocrossroads.org/2015/03/lynn-august/'
+  - 'https://www.ponderosastomp.com/music_more/299/Lynn+August'
 network_extracted: true
 entry_created: '2025-12-15T01:23:13.008036'
 last_updated: '2025-12-23T08:16:12.410429'
+origin: 'Lafayette, Louisiana, United States'
+birth_date: '1948-08-07'
+death_date: '2025-02-12'
+artist_type: person
 ---
 
 ![](lynn_august.jpg)

@@ -1,47 +1,53 @@
 ---
 biography_enhanced_at: '2026-01-08T01:40:05.650889'
-birth_place: Harlem, New York City, New York, United States
+birth_place: 'Harlem, New York City, New York, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-08T01:40:05.650894'
 external_urls:
-  spotify: https://open.spotify.com/artist/6wOhfVrtGnmbLlgcAHSR1k
+  spotify: 'https://open.spotify.com/artist/6wOhfVrtGnmbLlgcAHSR1k'
   wikipedia: ''
 genres:
-- blues
-- modern blues
-- blues rock
-- classic blues
+  - blues
+  - modern blues
+  - blues rock
+  - classic blues
 image_path: 03_Resources/source_material/ArtistPortraits/solomon_hicks.jpg
 last_updated: '2026-01-08T01:40:05.650895'
 musical_connections:
   collaborators:
-  - Kirk Yano
-  - Members of Soulive and Lettuce
-  - Roger Earl
-  - Jeff Beck and Ringo Starr (live bills)
-  - Buddy Guy, Samantha Fish, Tony Bennett, Jimmie Vaughan, Beth Hart, Mavis Staples,
-    Robert Cray, Eric Gales, Norman Nardini (live bills)
+    - Kirk Yano
+    - Members of Soulive and Lettuce
+    - Roger Earl
+    - Jeff Beck and Ringo Starr (live bills)
+    - >-
+      Buddy Guy, Samantha Fish, Tony Bennett, Jimmie Vaughan, Beth Hart, Mavis
+      Staples, Robert Cray, Eric Gales, Norman Nardini (live bills)
   influenced:
-  - Young blues and jazz students in New York and at the International Blues Challenge
+    - >-
+      Young blues and jazz students in New York and at the International Blues
+      Challenge
   mentors:
-  - Unnamed Harlem club musicians (Lennox Lounge, Saint Nick’s, Cotton Club)
+    - 'Unnamed Harlem club musicians (Lennox Lounge, Saint Nick’s, Cotton Club)'
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.benedettoguitars.com/player/king-solomon-hicks/
-- https://flagstaffblues.com/king-soloman-hicks/
-- https://www.mascotlabelgroup.com/pages/king-solomon-hicks-biography
-- https://www.labella.com/artists/solomon-hicks/
-- https://www.americanbluesscene.com/2020/03/king-solomon-hicks-debuts-with-harlem/
-- https://royshall.org/event/king-solomon-hicks-230225/
-- https://www.bluesblastmagazine.com/featured-interview-king-solomon-hicks-2/
+  - 'https://www.benedettoguitars.com/player/king-solomon-hicks/'
+  - 'https://flagstaffblues.com/king-soloman-hicks/'
+  - 'https://www.mascotlabelgroup.com/pages/king-solomon-hicks-biography'
+  - 'https://www.labella.com/artists/solomon-hicks/'
+  - >-
+    https://www.americanbluesscene.com/2020/03/king-solomon-hicks-debuts-with-harlem/
+  - 'https://royshall.org/event/king-solomon-hicks-230225/'
+  - 'https://www.bluesblastmagazine.com/featured-interview-king-solomon-hicks-2/'
 spotify_data:
   followers: 298
   id: 6wOhfVrtGnmbLlgcAHSR1k
   popularity: 26
-  url: https://open.spotify.com/artist/6wOhfVrtGnmbLlgcAHSR1k
+  url: 'https://open.spotify.com/artist/6wOhfVrtGnmbLlgcAHSR1k'
 status: active
 title: Solomon Hicks
+origin: 'Harlem, New York, United States'
+artist_type: person
 ---
 
 ![](solomon_hicks.jpg)

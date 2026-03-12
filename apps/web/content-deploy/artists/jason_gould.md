@@ -3,13 +3,13 @@ title: Jason Gould
 wiki_slug: jason-gould
 schema_version: 2
 status: active
-birth_place: New York City, New York, United States
+birth_place: 'New York City, New York, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jason_gould.jpg
   caption: Jason Gould
   background: solo_singer
-  origin: New York City, New York, United States
+  origin: 'New York City, New York, United States'
 audio_profile:
   tempo_avg: 118.8
   energy_avg: 0.435
@@ -25,43 +25,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Guy Roche
-  - Barbra Streisand
+    - Guy Roche
+    - Barbra Streisand
   influenced: []
   mentors:
-  - Barbra Streisand
-  - Quincy Jones
+    - Barbra Streisand
+    - Quincy Jones
 spotify_data:
   followers: 7510
   id: 1Pnxz5XG5bVQwCJVevIOOq
   popularity: 22
-  url: https://open.spotify.com/artist/1Pnxz5XG5bVQwCJVevIOOq
+  url: 'https://open.spotify.com/artist/1Pnxz5XG5bVQwCJVevIOOq'
 discography_enriched: true
 top_tracks:
-- Morning Prayer (Jason Gould)
-- How Deep Is the Ocean (Jason Gould)
-- How Deep Is the Ocean (with Jason Gould) (Partners (Deluxe))
-- This Masquerade (Jason Gould)
-- How Deep Is the Ocean (with Jason Gould) (Partners)
-- Dark Grey Skies (Dark Grey Skies)
-- Hello (Jason Gould)
-- Run (Playa Moon Remix) [Dusted Version] (Run)
-- I Go Crazy (I Go Crazy)
-- The Way You Look Tonight (Dangerous Man)
+  - Morning Prayer (Jason Gould)
+  - How Deep Is the Ocean (Jason Gould)
+  - How Deep Is the Ocean (with Jason Gould) (Partners (Deluxe))
+  - This Masquerade (Jason Gould)
+  - How Deep Is the Ocean (with Jason Gould) (Partners)
+  - Dark Grey Skies (Dark Grey Skies)
+  - Hello (Jason Gould)
+  - 'Run (Playa Moon Remix) [Dusted Version] (Run)'
+  - I Go Crazy (I Go Crazy)
+  - The Way You Look Tonight (Dangerous Man)
 external_urls:
-  spotify: https://open.spotify.com/artist/1Pnxz5XG5bVQwCJVevIOOq
-  wikipedia: https://en.wikipedia.org/wiki/Jason_Gould
+  spotify: 'https://open.spotify.com/artist/1Pnxz5XG5bVQwCJVevIOOq'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jason_Gould'
 image_path: 03_Resources/source_material/ArtistPortraits/jason_gould.jpg
 biography_enhanced_at: '2025-11-21T07:22:52.617539'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.scenemag.co.uk/jason-gould-son-of-barbra-streisand-and-openly-gay-artist-announces-his-new-album-and-releases-lead-single/
-- https://chiccompass.com/melody-maker-jason-gould-faces-the-spotlight/
-- https://en.wikipedia.org/wiki/Jason_Gould
+  - >-
+    https://www.scenemag.co.uk/jason-gould-son-of-barbra-streisand-and-openly-gay-artist-announces-his-new-album-and-releases-lead-single/
+  - 'https://chiccompass.com/melody-maker-jason-gould-faces-the-spotlight/'
+  - 'https://en.wikipedia.org/wiki/Jason_Gould'
 network_extracted: true
 entry_created: '2025-11-21T07:22:52.617555'
 last_updated: '2025-12-23T08:16:10.242431'
+birth_date: '1966-12-29'
+artist_type: person
 ---
 
 ![](jason_gould.jpg)

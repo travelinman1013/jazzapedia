@@ -5,10 +5,10 @@ schema_version: 2
 status: active
 birth_place: Unknown
 genres:
-- darkwave
-- cold wave
-- post-punk
-- ebm
+  - darkwave
+  - cold wave
+  - post-punk
+  - ebm
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/meta_golova.jpg
   caption: Meta Golova
@@ -35,32 +35,34 @@ spotify_data:
   followers: 615
   id: 3bikndhUgAQdRalnLJjZL3
   popularity: 1
-  url: https://open.spotify.com/artist/3bikndhUgAQdRalnLJjZL3
+  url: 'https://open.spotify.com/artist/3bikndhUgAQdRalnLJjZL3'
 discography_enriched: true
 top_tracks:
-- Yellow Arrow (Seasonal Hallucination)
-- Sharp Stones (В​р​е​м​я У​в​е​ч​и​й)
-- Alienation (Alienation)
-- Terapia (Terapia)
-- Female Soldier (В​р​е​м​я У​в​е​ч​и​й)
-- 发疯的蝙蝠 (В​р​е​м​я У​в​е​ч​и​й)
-- Gorod Ustal (Gorod Ustal)
-- Orientiri (Seasonal Hallucination)
-- Ice (Seasonal Hallucination)
-- Compass (Seasonal Hallucination)
+  - Yellow Arrow (Seasonal Hallucination)
+  - Sharp Stones (В​р​е​м​я У​в​е​ч​и​й)
+  - Alienation (Alienation)
+  - Terapia (Terapia)
+  - Female Soldier (В​р​е​м​я У​в​е​ч​и​й)
+  - 发疯的蝙蝠 (В​р​е​м​я У​в​е​ч​и​й)
+  - Gorod Ustal (Gorod Ustal)
+  - Orientiri (Seasonal Hallucination)
+  - Ice (Seasonal Hallucination)
+  - Compass (Seasonal Hallucination)
 external_urls:
-  spotify: https://open.spotify.com/artist/3bikndhUgAQdRalnLJjZL3
+  spotify: 'https://open.spotify.com/artist/3bikndhUgAQdRalnLJjZL3'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/meta_golova.jpg
 biography_enhanced_at: '2025-12-23T02:07:27.145806'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.song-bar.com/song-of-the-day/song-of-the-day-meta-golova-yellow-arrow
-- https://metagolova.bandcamp.com
+  - >-
+    https://www.song-bar.com/song-of-the-day/song-of-the-day-meta-golova-yellow-arrow
+  - 'https://metagolova.bandcamp.com'
 network_extracted: true
 entry_created: '2025-12-23T02:07:27.145841'
 last_updated: '2025-12-23T08:16:13.015283'
+artist_type: person
 ---
 
 ![](meta_golova.jpg)

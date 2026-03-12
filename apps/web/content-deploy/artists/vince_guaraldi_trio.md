@@ -1,22 +1,22 @@
 ---
-title: VINCE GUARALDI TRIO
+title: Vince Guaraldi Trio
 wiki_slug: vince-guaraldi-trio
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- christmas
+  - christmas
 instruments:
-- membranophone
-- double bass
-- original
-- piano
+  - membranophone
+  - double bass
+  - original
+  - piano
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/vince_guaraldi_trio.jpg
   caption: VINCE GUARALDI TRIO
   background: group_or_band
 audio_profile:
-  tempo_avg: 112.0
+  tempo_avg: 112
   energy_avg: 0.232
   valence_avg: 0.377
   danceability_avg: 0.48
@@ -30,105 +30,119 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Eddie Duran
-  - Dean Reilly
-  - Colin Bailey
-  - Monty Budwig
-  - Jerry Granelli
-  - Bola Sete
+    - Eddie Duran
+    - Dean Reilly
+    - Colin Bailey
+    - Monty Budwig
+    - Jerry Granelli
+    - Bola Sete
   influenced:
-  - David Benoit
-  - George Winston
+    - David Benoit
+    - George Winston
   mentors:
-  - Cal Tjader
+    - Cal Tjader
 spotify_data:
   followers: 180669
   id: 4ytkhMSAnrDP8XzRNlw9FS
   popularity: 64
-  url: https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS
+  url: 'https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS'
 discography_enriched: true
 top_tracks:
-- Christmas Time Is Here - Vocal (A Charlie Brown Christmas [2012 Remastered & Expanded Edition])
-- Christmas Time Is Here (Charlie Brown Holiday Hits)
-- O Tannenbaum (A Charlie Brown Christmas [2012 Remastered & Expanded Edition])
-- Linus And Lucy (Charlie Brown Holiday Hits)
-- Moon River (Jazz Impressions Of Black Orpheus [Original Jazz Classics Remasters] (OJC Remaster))
-- Oh, Good Grief (A Boy Named Charlie Brown)
-- Christmas Is Coming (A Charlie Brown Christmas [2012 Remastered & Expanded Edition])
-- What Child Is This (A Charlie Brown Christmas [2012 Remastered & Expanded Edition])
-- Linus And Lucy (A Charlie Brown Christmas [2012 Remastered & Expanded Edition])
-- Skating (A Charlie Brown Christmas [2012 Remastered & Expanded Edition])
+  - >-
+    Christmas Time Is Here - Vocal (A Charlie Brown Christmas [2012 Remastered &
+    Expanded Edition])
+  - Christmas Time Is Here (Charlie Brown Holiday Hits)
+  - >-
+    O Tannenbaum (A Charlie Brown Christmas [2012 Remastered & Expanded
+    Edition])
+  - Linus And Lucy (Charlie Brown Holiday Hits)
+  - >-
+    Moon River (Jazz Impressions Of Black Orpheus [Original Jazz Classics
+    Remasters] (OJC Remaster))
+  - 'Oh, Good Grief (A Boy Named Charlie Brown)'
+  - >-
+    Christmas Is Coming (A Charlie Brown Christmas [2012 Remastered & Expanded
+    Edition])
+  - >-
+    What Child Is This (A Charlie Brown Christmas [2012 Remastered & Expanded
+    Edition])
+  - >-
+    Linus And Lucy (A Charlie Brown Christmas [2012 Remastered & Expanded
+    Edition])
+  - 'Skating (A Charlie Brown Christmas [2012 Remastered & Expanded Edition])'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/744b52c8-509b-4451-abfd-a17d18d4bd1d
-  spotify: https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS
-  wikipedia: https://en.wikipedia.org/wiki/Vince_Guaraldi
+  musicbrainz: 'https://musicbrainz.org/artist/744b52c8-509b-4451-abfd-a17d18d4bd1d'
+  spotify: 'https://open.spotify.com/artist/4ytkhMSAnrDP8XzRNlw9FS'
+  wikipedia: 'https://en.wikipedia.org/wiki/Vince_Guaraldi'
 image_path: 03_Resources/source_material/ArtistPortraits/vince_guaraldi_trio.jpg
 biography_enhanced_at: '2025-11-17T10:51:31.361667'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Vince_Guaraldi
-- https://www.last.fm/music/Vince+Guaraldi+Trio/+wiki
-- https://fivecentsplease.org/dpb/pccbio.html
-- https://concord.com/artist/vince-guaraldi/
-- https://thecaliforniaconservatory.com/vince-guaraldi/
-- https://peanuts.fandom.com/wiki/Vince_Guaraldi
-- https://openculture.com/2023/12/an-introduction-to-vince-guaraldi-the-jazz-composer-who-created-the-best-christmas-album-ever-a-charlie-brown-christmas.html
+  - 'https://en.wikipedia.org/wiki/Vince_Guaraldi'
+  - 'https://www.last.fm/music/Vince+Guaraldi+Trio/+wiki'
+  - 'https://fivecentsplease.org/dpb/pccbio.html'
+  - 'https://concord.com/artist/vince-guaraldi/'
+  - 'https://thecaliforniaconservatory.com/vince-guaraldi/'
+  - 'https://peanuts.fandom.com/wiki/Vince_Guaraldi'
+  - >-
+    https://openculture.com/2023/12/an-introduction-to-vince-guaraldi-the-jazz-composer-who-created-the-best-christmas-album-ever-a-charlie-brown-christmas.html
 network_extracted: true
 entry_created: '2025-11-17T10:51:31.361678'
 last_updated: '2025-12-23T08:16:17.911662'
 members:
-- begin: '1972'
-  end: '1976'
-  instruments: []
-  mbid: 1e47e8bf-a071-4416-92ed-7c0254eb9b1f
-  name: Seward McCain
-- begin: ''
-  end: ''
-  instruments:
-  - membranophone
-  mbid: 940535f3-8241-4cb5-843e-2e03a5b70d26
-  name: Colin Bailey
-- begin: ''
-  end: ''
-  instruments:
-  - double bass
-  mbid: a70a3575-10e1-46f1-b1f8-ae929eb2e4de
-  name: Monty Budwig
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ca79fd5a-d566-4a1e-b7f7-a5ef91a8d151
-  name: Bill Fitch
-- begin: ''
-  end: ''
-  instruments:
-  - membranophone
-  mbid: 7c20a127-3dda-415d-b084-8e51e2642a95
-  name: Jerry Granelli
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  - piano
-  mbid: 05b5488d-7141-4b21-819b-d4713abf2a98
-  name: Vince Guaraldi
-- begin: ''
-  end: ''
-  instruments:
-  - double bass
-  mbid: 78afeaf7-6612-405f-b9be-554063e0ba5a
-  name: Fred Marshall
-- begin: ''
-  end: ''
-  instruments:
-  - double bass
-  mbid: 2c5f546f-e723-48b9-aef5-0d192e8dd454
-  name: Dean Reilly
+  - begin: '1972'
+    end: '1976'
+    instruments: []
+    mbid: 1e47e8bf-a071-4416-92ed-7c0254eb9b1f
+    name: Seward McCain
+  - begin: ''
+    end: ''
+    instruments:
+      - membranophone
+    mbid: 940535f3-8241-4cb5-843e-2e03a5b70d26
+    name: Colin Bailey
+  - begin: ''
+    end: ''
+    instruments:
+      - double bass
+    mbid: a70a3575-10e1-46f1-b1f8-ae929eb2e4de
+    name: Monty Budwig
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ca79fd5a-d566-4a1e-b7f7-a5ef91a8d151
+    name: Bill Fitch
+  - begin: ''
+    end: ''
+    instruments:
+      - membranophone
+    mbid: 7c20a127-3dda-415d-b084-8e51e2642a95
+    name: Jerry Granelli
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - piano
+    mbid: 05b5488d-7141-4b21-819b-d4713abf2a98
+    name: Vince Guaraldi
+  - begin: ''
+    end: ''
+    instruments:
+      - double bass
+    mbid: 78afeaf7-6612-405f-b9be-554063e0ba5a
+    name: Fred Marshall
+  - begin: ''
+    end: ''
+    instruments:
+      - double bass
+    mbid: 2c5f546f-e723-48b9-aef5-0d192e8dd454
+    name: Dean Reilly
 musicbrainz_id: 744b52c8-509b-4451-abfd-a17d18d4bd1d
-origin: San Francisco, California, United States
+origin: 'San Francisco, California, United States'
 tags:
-- jazz
+  - jazz
+birth_place: 'San Francisco, California, United States'
 ---
 
 ![](vince_guaraldi_trio.jpg)

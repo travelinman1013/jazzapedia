@@ -5,22 +5,22 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1972-11-09'
-birth_place: Houston
+birth_place: 'Houston, Texas, United States'
 genres:
-- blues
-- modern blues
-- blues rock
+  - blues
+  - modern blues
+  - blues rock
 instruments:
-- electric guitar
-- lap steel guitar
-- guitar
-- lead vocals
+  - electric guitar
+  - lap steel guitar
+  - guitar
+  - lead vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 84dca87c-6d9e-4c5d-9d32-26d721611966
-  name: Carolyn Wonderland and the Imperial Monkeys
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 84dca87c-6d9e-4c5d-9d32-26d721611966
+    name: Carolyn Wonderland and the Imperial Monkeys
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/carolyn_wonderland.jpg
   caption: Carolyn Wonderland
@@ -42,59 +42,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ray Benson
-  - Cole El-Saleh
-  - Kevin Lance
-  - Little Screamin’ Kenny
-  - John Mayall
+    - Ray Benson
+    - Cole El-Saleh
+    - Kevin Lance
+    - Little Screamin’ Kenny
+    - John Mayall
   influenced:
-  - Austin blues scene musicians
+    - Austin blues scene musicians
   mentors:
-  - Doug Sahm
-  - Townes Van Zandt
-  - Albert Collins
-  - Lavelle White
+    - Doug Sahm
+    - Townes Van Zandt
+    - Albert Collins
+    - Lavelle White
 spotify_data:
   followers: 23600
   id: 0XhsEmCqMW2k9yMl4o8t4n
   popularity: 25
-  url: https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n
+  url: 'https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n'
 discography_enriched: true
 top_tracks:
-- Bad to the Bone (Moon Goes Missing)
-- Truth Is (Truth Is)
-- Sooner Or Later
-- Open Eyes (Moon Goes Missing)
-- I Ain't Going Back (Truth Is)
-- Sooner Or Later (Truth Is)
-- Fortunate Few (Tempting Fate)
-- Whistlin' Past the Graveyard Again (Truth Is)
-- Fragile Peace And Certain War (Tempting Fate)
-- Misunderstood (Miss Understood)
+  - Bad to the Bone (Moon Goes Missing)
+  - Truth Is (Truth Is)
+  - Sooner Or Later
+  - Open Eyes (Moon Goes Missing)
+  - I Ain't Going Back (Truth Is)
+  - Sooner Or Later (Truth Is)
+  - Fortunate Few (Tempting Fate)
+  - Whistlin' Past the Graveyard Again (Truth Is)
+  - Fragile Peace And Certain War (Tempting Fate)
+  - Misunderstood (Miss Understood)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b290f6a9-ca07-4026-85f7-231ceaf58309
-  spotify: https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n
-  wikipedia: https://en.wikipedia.org/wiki/Carolyn_Wonderland
+  musicbrainz: 'https://musicbrainz.org/artist/b290f6a9-ca07-4026-85f7-231ceaf58309'
+  spotify: 'https://open.spotify.com/artist/0XhsEmCqMW2k9yMl4o8t4n'
+  wikipedia: 'https://en.wikipedia.org/wiki/Carolyn_Wonderland'
 image_path: 03_Resources/source_material/ArtistPortraits/carolyn_wonderland.jpg
 biography_enhanced_at: '2025-10-23T07:37:01.599610'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://sonicguild.org/artist/carolyn-wonderland/
-- https://worldmusiccentral.org/the-carolyn-wonderland-story-a-blues-guitarists-rise-to-icon-status/
-- https://en.wikipedia.org/wiki/Carolyn_Wonderland
-- https://thekessler.org/bands/carolyn-wonderland/
-- https://theheightstheater.com/bands/carolyn-wonderland/
-- https://carolynwonderland.com
-- https://www.americanbluesscene.com/2025/05/carolyn-wonderland-an-overnight-sensation-after-four-decades/
-- https://margiegoldsmith.substack.com/p/on-the-road-with-carolyn-wonderland
+  - 'https://sonicguild.org/artist/carolyn-wonderland/'
+  - >-
+    https://worldmusiccentral.org/the-carolyn-wonderland-story-a-blues-guitarists-rise-to-icon-status/
+  - 'https://en.wikipedia.org/wiki/Carolyn_Wonderland'
+  - 'https://thekessler.org/bands/carolyn-wonderland/'
+  - 'https://theheightstheater.com/bands/carolyn-wonderland/'
+  - 'https://carolynwonderland.com'
+  - >-
+    https://www.americanbluesscene.com/2025/05/carolyn-wonderland-an-overnight-sensation-after-four-decades/
+  - 'https://margiegoldsmith.substack.com/p/on-the-road-with-carolyn-wonderland'
 network_extracted: true
 entry_created: '2025-10-23T07:37:01.599628'
 last_updated: '2025-12-23T08:16:06.507041'
 gender: Female
 musicbrainz_id: b290f6a9-ca07-4026-85f7-231ceaf58309
 tags:
-- blues
+  - blues
+origin: 'Austin, Texas, United States'
 ---
 
 ![](carolyn_wonderland.jpg)

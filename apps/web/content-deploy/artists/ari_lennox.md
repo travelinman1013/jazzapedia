@@ -5,18 +5,18 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1991-03-26'
-birth_place: Washington, D.C.
+birth_place: 'Washington, D.C., United States'
 genres:
-- alternative r&b
-- neo soul
+  - alternative r&b
+  - neo soul
 instruments:
-- background vocals
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ari_lennox.jpg
   caption: Ari Lennox
   background: solo_singer
   born: '1991-03-26'
-  origin: Washington, D.C.
+  origin: 'Washington, D.C.'
 audio_profile:
   tempo_avg: 112.2
   energy_avg: 0.557
@@ -24,7 +24,7 @@ audio_profile:
   danceability_avg: 0.699
   acousticness_avg: 0.225
   instrumentalness_avg: 0.016
-  loudness_avg: -7.0
+  loudness_avg: -7
   speechiness_avg: 0.14
   liveness_avg: 0.182
   track_count: 55
@@ -32,52 +32,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Omen
-  - Cozz
-  - EarthGang
-  - Bas
+    - Omen
+    - Cozz
+    - EarthGang
+    - Bas
   influenced: []
   mentors:
-  - J. Cole
+    - J. Cole
 spotify_data:
   followers: 913931
   id: 1vaQ6v3pOFxAIrFoPrAcom
   popularity: 60
-  url: https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom
+  url: 'https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom'
 discography_enriched: true
 top_tracks:
-- Shea Butter Baby (with J. Cole) (Shea Butter Baby)
-- JUST LIKE THAT (with Ari Lennox)
-- Pricey (feat. Ari Lennox, Young Dro & Gucci Mane) (Might Delete Later)
-- Unloyal (with Ari Lennox) (Still Over It)
-- Can’t Make U Change (feat. Ari Lennox) (The Forever Story (Extended Version))
-- Soft Girl Era
-- Pressure
-- Night Drive
-- STUCK.
-- Up Late (Shea Butter Baby)
+  - Shea Butter Baby (with J. Cole) (Shea Butter Baby)
+  - JUST LIKE THAT (with Ari Lennox)
+  - 'Pricey (feat. Ari Lennox, Young Dro & Gucci Mane) (Might Delete Later)'
+  - Unloyal (with Ari Lennox) (Still Over It)
+  - >-
+    Can’t Make U Change (feat. Ari Lennox) (The Forever Story (Extended
+    Version))
+  - Soft Girl Era
+  - Pressure
+  - Night Drive
+  - STUCK.
+  - Up Late (Shea Butter Baby)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6fe9125b-bd80-4704-9084-56bc7e07e48f
-  spotify: https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom
+  musicbrainz: 'https://musicbrainz.org/artist/6fe9125b-bd80-4704-9084-56bc7e07e48f'
+  spotify: 'https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/ari_lennox.jpg
 biography_enhanced_at: '2025-11-28T07:25:26.847252'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Last.fm - Ari Lennox Wiki
-- Kiddle Kids - Ari Lennox Facts for Kids
-- Andscape - Ari Lennox Interview
-- HotNewHipHop - Ari Lennox Profile
-- IMDb - Ari Lennox Biography
-- STAR 94.5 - Ari Lennox Bio
+  - Last.fm - Ari Lennox Wiki
+  - Kiddle Kids - Ari Lennox Facts for Kids
+  - Andscape - Ari Lennox Interview
+  - HotNewHipHop - Ari Lennox Profile
+  - IMDb - Ari Lennox Biography
+  - STAR 94.5 - Ari Lennox Bio
 network_extracted: true
 entry_created: '2025-11-28T07:25:26.847266'
 last_updated: '2025-12-23T08:16:04.907212'
 gender: Female
 musicbrainz_id: 6fe9125b-bd80-4704-9084-56bc7e07e48f
 tags:
-- r&b
+  - r&b
 ---
 
 ![](ari_lennox.jpg)

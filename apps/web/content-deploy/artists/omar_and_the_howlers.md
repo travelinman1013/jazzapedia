@@ -4,9 +4,9 @@ wiki_slug: omar-the-howlers
 schema_version: 2
 status: active
 genres:
-- blues
-- blues rock
-- modern blues
+  - blues
+  - blues rock
+  - modern blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/omar_and_the_howlers.jpg
   caption: Omar & The Howlers
@@ -26,59 +26,67 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jimmie Vaughan
-  - Nalle
-  - Magic Slim
-  - Chris Duarte
-  - Jon Dee Graham
-  - Chris Layton
-  - Tommy Shannon
-  - George Rains
-  - Terry Bozzio
-  - Malcolm “Papa Mali” Welbourne
-  - Gene Brandon
-  - Bruce Jones
+    - Jimmie Vaughan
+    - Nalle
+    - Magic Slim
+    - Chris Duarte
+    - Jon Dee Graham
+    - Chris Layton
+    - Tommy Shannon
+    - George Rains
+    - Terry Bozzio
+    - Malcolm “Papa Mali” Welbourne
+    - Gene Brandon
+    - Bruce Jones
   influenced:
-  - Younger Texas and European blues musicians (various, not individually named)
+    - >-
+      Younger Texas and European blues musicians (various, not individually
+      named)
   mentors:
-  - Bo Diddley
-  - Howlin’ Wolf
-  - Hound Dog Taylor
+    - Bo Diddley
+    - Howlin’ Wolf
+    - Hound Dog Taylor
 spotify_data:
   followers: 24232
   id: 70PvPWG9nD4ZujibB1onsO
   popularity: 33
-  url: https://open.spotify.com/artist/70PvPWG9nD4ZujibB1onsO
+  url: 'https://open.spotify.com/artist/70PvPWG9nD4ZujibB1onsO'
 discography_enriched: true
 top_tracks:
-- Hoo Doo (Zoltar's Walk)
-- Honest I Do (feat. Gary Clark, Jr.) (Too Much is not enough)
-- I Gotta Let You Go (feat. Gary Clark, Jr.) (Too Much is not enough)
-- Full Moon On Main Street (Southern Style)
-- Hit the Road, Jack (SwingLand)
-- Bad Seed (Big Delta)
-- Snake Rhythm Rock (Southern Style)
-- Hard Times In The Land Of Plenty
-- What Can I Do (Zoltar's Walk)
-- Black Bottom (Muddy Springs Road)
+  - Hoo Doo (Zoltar's Walk)
+  - 'Honest I Do (feat. Gary Clark, Jr.) (Too Much is not enough)'
+  - 'I Gotta Let You Go (feat. Gary Clark, Jr.) (Too Much is not enough)'
+  - Full Moon On Main Street (Southern Style)
+  - 'Hit the Road, Jack (SwingLand)'
+  - Bad Seed (Big Delta)
+  - Snake Rhythm Rock (Southern Style)
+  - Hard Times In The Land Of Plenty
+  - What Can I Do (Zoltar's Walk)
+  - Black Bottom (Muddy Springs Road)
 external_urls:
-  spotify: https://open.spotify.com/artist/70PvPWG9nD4ZujibB1onsO
+  spotify: 'https://open.spotify.com/artist/70PvPWG9nD4ZujibB1onsO'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/omar_and_the_howlers.jpg
 biography_enhanced_at: '2025-12-18T02:43:21.118145'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Omar+&+The+Howlers/+wiki
-- https://blues.gr/profiles/blogs/q-a-with-gutsy-blues-player-kent-omar-dykes-one-of-the-best-artis
-- https://es.jango.com/music/Omar+and+The+Howlers
-- https://www.omarandthehowlers.com
-- https://www.hattiesburgamerican.com/story/news/local/2024/12/04/omar-and-the-howlers-music-rereleased/74499335007/
-- https://www.swaves.com/Back_Issues/Mar04/OMAR_AND_THE_HOWLERS.html
+  - 'https://www.last.fm/music/Omar+&+The+Howlers/+wiki'
+  - >-
+    https://blues.gr/profiles/blogs/q-a-with-gutsy-blues-player-kent-omar-dykes-one-of-the-best-artis
+  - 'https://es.jango.com/music/Omar+and+The+Howlers'
+  - 'https://www.omarandthehowlers.com'
+  - >-
+    https://www.hattiesburgamerican.com/story/news/local/2024/12/04/omar-and-the-howlers-music-rereleased/74499335007/
+  - 'https://www.swaves.com/Back_Issues/Mar04/OMAR_AND_THE_HOWLERS.html'
 network_extracted: true
 entry_created: '2025-12-18T02:43:21.118155'
 last_updated: '2025-12-23T08:16:13.739883'
-origin: Hattiesburg, Mississippi, United States (band origin); McComb, Mississippi, United States (Omar Kent Dykes’ hometown)
+origin: >-
+  Hattiesburg, Mississippi, United States (band origin); McComb, Mississippi,
+  United States (Omar Kent Dykes’ hometown)
+birth_place: 'McComb, Mississippi, United States'
+artist_type: band
 ---
 
 ![](omar_and_the_howlers.jpg)

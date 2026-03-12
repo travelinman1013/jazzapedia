@@ -3,7 +3,7 @@ biography_enhanced_at: '2026-01-05T07:56:09.383661'
 enhancement_provider: perplexity
 entry_created: '2026-01-05T07:56:09.383669'
 external_urls:
-  spotify: https://open.spotify.com/artist/1F1U8ssjF8uD2OjRoSssWO
+  spotify: 'https://open.spotify.com/artist/1F1U8ssjF8uD2OjRoSssWO'
   wikipedia: ''
 genres: []
 image_path: ''
@@ -19,9 +19,10 @@ spotify_data:
   followers: 1696
   id: 1F1U8ssjF8uD2OjRoSssWO
   popularity: 25
-  url: https://open.spotify.com/artist/1F1U8ssjF8uD2OjRoSssWO
+  url: 'https://open.spotify.com/artist/1F1U8ssjF8uD2OjRoSssWO'
 status: active
 title: Interpreti dello spettacolo
+artist_type: band
 ---
 
 ![]()

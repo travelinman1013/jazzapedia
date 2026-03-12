@@ -5,15 +5,15 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1972-04-04'
-birth_place: Philadelphia
+birth_place: 'Philadelphia, Pennsylvania, United States'
 genres:
-- neo soul
-- quiet storm
-- smooth r&b
+  - neo soul
+  - quiet storm
+  - smooth r&b
 instruments:
-- background vocals
-- lead vocals
-- spoken vocals
+  - background vocals
+  - lead vocals
+  - spoken vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jill_scott.jpg
   caption: Jill Scott
@@ -35,54 +35,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Amir 'Questlove' Thompson (The Roots)
-  - Erykah Badu
-  - Eric Benet, Common, Will Smith, George Benson, Al Jarreau
+    - Amir 'Questlove' Thompson (The Roots)
+    - Erykah Badu
+    - 'Eric Benet, Common, Will Smith, George Benson, Al Jarreau'
   influenced:
-  - H.E.R.
-  - Jazmine Sullivan
+    - H.E.R.
+    - Jazmine Sullivan
   mentors:
-  - Joyce Scott (mother) and 'Blue Babe' (grandmother)
-  - Aretha Franklin, Sarah Vaughan, Michael Jackson
+    - Joyce Scott (mother) and 'Blue Babe' (grandmother)
+    - 'Aretha Franklin, Sarah Vaughan, Michael Jackson'
 spotify_data:
   followers: 1872277
   id: 6AVLthptCPhfrxlHadOBJD
   popularity: 57
-  url: https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD
+  url: 'https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD'
 discography_enriched: true
 top_tracks:
-- Daydreamin' (feat. Jill Scott) (Lupe Fiasco's Food & Liquor)
-- A Long Walk (Who Is Jill Scott? - Words and Sounds, Vol. 1)
-- 'Golden (Beautifully Human: Words and Sounds Vol. 2)'
-- 'Golden (Beautifully Human: Words and Sounds Vol. 2)'
-- The Way (Who Is Jill Scott? - Words and Sounds, Vol. 1)
-- 'A Long Walk (2020 Remastered) (Who Is Jill Scott?: Words and Sounds, Vol. 1 (2020 Remastered))'
-- He Loves Me (Lyzel in E Flat) (Who Is Jill Scott? - Words and Sounds, Vol. 1)
-- Still Blue (Chasing Summer)
-- Sucia (feat. Jill Scott & Young Miko) (CRASH)
-- 'The Way (2020 Remastered) (Who Is Jill Scott?: Words and Sounds, Vol. 1 (2020 Remastered))'
+  - Daydreamin' (feat. Jill Scott) (Lupe Fiasco's Food & Liquor)
+  - 'A Long Walk (Who Is Jill Scott? - Words and Sounds, Vol. 1)'
+  - 'Golden (Beautifully Human: Words and Sounds Vol. 2)'
+  - 'Golden (Beautifully Human: Words and Sounds Vol. 2)'
+  - 'The Way (Who Is Jill Scott? - Words and Sounds, Vol. 1)'
+  - >-
+    A Long Walk (2020 Remastered) (Who Is Jill Scott?: Words and Sounds, Vol. 1
+    (2020 Remastered))
+  - >-
+    He Loves Me (Lyzel in E Flat) (Who Is Jill Scott? - Words and Sounds, Vol.
+    1)
+  - Still Blue (Chasing Summer)
+  - Sucia (feat. Jill Scott & Young Miko) (CRASH)
+  - >-
+    The Way (2020 Remastered) (Who Is Jill Scott?: Words and Sounds, Vol. 1
+    (2020 Remastered))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b1fb6a18-1626-4011-80fb-eaf83dfebcb6
-  spotify: https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD
-  wikipedia: https://en.wikipedia.org/wiki/Jill_Scott_(singer)
+  musicbrainz: 'https://musicbrainz.org/artist/b1fb6a18-1626-4011-80fb-eaf83dfebcb6'
+  spotify: 'https://open.spotify.com/artist/6AVLthptCPhfrxlHadOBJD'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jill_Scott_(singer)'
 image_path: 03_Resources/source_material/ArtistPortraits/jill_scott.jpg
 biography_enhanced_at: '2025-10-22T08:52:50.245496'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jill_Scott_(singer)
-- https://aalbc.com/authors/Jill+Scott
-- https://www.fandango.com/people/jill-scott-1005976/biography
-- https://www.last.fm/music/Jill+Scott/+wiki
+  - 'https://en.wikipedia.org/wiki/Jill_Scott_(singer)'
+  - 'https://aalbc.com/authors/Jill+Scott'
+  - 'https://www.fandango.com/people/jill-scott-1005976/biography'
+  - 'https://www.last.fm/music/Jill+Scott/+wiki'
 network_extracted: true
 entry_created: '2025-10-22T08:52:50.245501'
 last_updated: '2025-12-23T08:16:02.539687'
 gender: Female
 musicbrainz_id: b1fb6a18-1626-4011-80fb-eaf83dfebcb6
 tags:
-- contemporary r&b
-- hip hop rnb and dance hall
-- neo soul
+  - contemporary r&b
+  - hip hop rnb and dance hall
+  - neo soul
+origin: 'Philadelphia, Pennsylvania, United States'
 ---
 
 ![](jill_scott.jpg)

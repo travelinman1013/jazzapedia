@@ -1,59 +1,62 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-09T01:51:30.574486'
 enhancement_provider: perplexity
 entry_created: '2026-01-09T01:51:30.574509'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/fc961881-c931-4884-844d-467570a58fc8
-  spotify: https://open.spotify.com/artist/6iAtadHxtdxvcDfNnKXqf9
-  wikipedia: https://en.wikipedia.org/wiki/Chicago_Underground_(jazz_ensemble)
+  musicbrainz: 'https://musicbrainz.org/artist/fc961881-c931-4884-844d-467570a58fc8'
+  spotify: 'https://open.spotify.com/artist/6iAtadHxtdxvcDfNnKXqf9'
+  wikipedia: 'https://en.wikipedia.org/wiki/Chicago_Underground_(jazz_ensemble)'
 genres:
-- free jazz
-- post-rock
+  - free jazz
+  - post-rock
 image_path: 03_Resources/source_material/ArtistPortraits/chicago_underground_duo.jpg
 last_updated: '2026-01-09T01:51:30.574511'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 73c34525-f9c6-4c33-9abe-007748aaebe5
-  name: Rob Mazurek
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 73c34525-f9c6-4c33-9abe-007748aaebe5
+    name: Rob Mazurek
 musical_connections:
   collaborators:
-  - Jeff Parker
-  - Noel Kupersmith
-  - Pharoah Sanders
-  - São Paulo Underground
-  - Sam Prekop
+    - Jeff Parker
+    - Noel Kupersmith
+    - Pharoah Sanders
+    - São Paulo Underground
+    - Sam Prekop
   influenced:
-  - Younger Chicago experimental and indie‑jazz musicians (e.g., Makaya McCraven circle)
+    - >-
+      Younger Chicago experimental and indie‑jazz musicians (e.g., Makaya
+      McCraven circle)
   mentors:
-  - Fred Anderson
-  - Chicago improvising community (Green Mill workshop circle)
+    - Fred Anderson
+    - Chicago improvising community (Green Mill workshop circle)
 musicbrainz_id: fc961881-c931-4884-844d-467570a58fc8
 network_extracted: true
-origin: Chicago
+origin: 'Chicago, Illinois, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Chicago_Underground_(jazz_ensemble)
-- https://music.fandom.com/wiki/Chicago_Underground_Duo
-- https://www.intlanthem.com/artists/chicago-underground-duo
-- https://postgenre.org/hyperglyph-chicago-underground-duo/
-- https://www.phoenixnewtimes.com/music/chicago-underground-duo-6432019
-- https://daily.bandcamp.com/features/the-chicago-underground-quartet-good-days-interview
-- https://offshelf.net/2025/08/26/chicago-underground-duos-rob-mazurek-and-chad-taylor/
-- https://opt-art.net/en/music-events/chicago-underground-duo/
+  - 'https://en.wikipedia.org/wiki/Chicago_Underground_(jazz_ensemble)'
+  - 'https://music.fandom.com/wiki/Chicago_Underground_Duo'
+  - 'https://www.intlanthem.com/artists/chicago-underground-duo'
+  - 'https://postgenre.org/hyperglyph-chicago-underground-duo/'
+  - 'https://www.phoenixnewtimes.com/music/chicago-underground-duo-6432019'
+  - >-
+    https://daily.bandcamp.com/features/the-chicago-underground-quartet-good-days-interview
+  - >-
+    https://offshelf.net/2025/08/26/chicago-underground-duos-rob-mazurek-and-chad-taylor/
+  - 'https://opt-art.net/en/music-events/chicago-underground-duo/'
 spotify_data:
   followers: 4740
   id: 6iAtadHxtdxvcDfNnKXqf9
   popularity: 25
-  url: https://open.spotify.com/artist/6iAtadHxtdxvcDfNnKXqf9
+  url: 'https://open.spotify.com/artist/6iAtadHxtdxvcDfNnKXqf9'
 status: active
 tags:
-- jazz
-- jazz and blues
+  - jazz
+  - jazz and blues
 title: Chicago Underground Duo
-
 ---
 
 ![](chicago_underground_duo.jpg)

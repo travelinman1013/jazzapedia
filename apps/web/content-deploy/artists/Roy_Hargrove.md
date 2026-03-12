@@ -2,23 +2,23 @@
 title: Roy Hargrove
 wiki_slug: roy-hargrove
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1969-10-16'
-birth_place: Waco, Texas, United States
+birth_place: 'Waco, Texas, United States'
 death_date: '2018-11-02'
 genres:
-- jazz
-- latin jazz
+  - jazz
+  - latin jazz
 instruments:
-- eponymous
-- trumpet
+  - eponymous
+  - trumpet
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Roy_Hargrove.jpg
   caption: Roy Hargrove
   background: non_vocal_instrumentalist
   born: '1969-10-16'
-  origin: Waco, Texas, United States
+  origin: 'Waco, Texas, United States'
   died: '2018-11-02'
 audio_profile:
   tempo_avg: 112.8
@@ -35,50 +35,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Antonio Hart
-  - Christian McBride
-  - Herbie Hancock
-  - Michael Brecker
-  - D’Angelo
-  - Erykah Badu
-  - RH Factor
+    - Antonio Hart
+    - Christian McBride
+    - Herbie Hancock
+    - Michael Brecker
+    - D’Angelo
+    - Erykah Badu
+    - RH Factor
   influenced:
-  - Ambrose Akinmusire
-  - Contemporary jazz trumpeters
+    - Ambrose Akinmusire
+    - Contemporary jazz trumpeters
   mentors:
-  - Wynton Marsalis
-  - Bobby Watson
+    - Wynton Marsalis
+    - Bobby Watson
 spotify_data:
   followers: 174028
   id: 49zXTngyUTielHTbbH5YKs
   popularity: 45
-  url: https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs
+  url: 'https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs'
 discography_enriched: true
 top_tracks:
-- Ruby My Dear (Approaching Standards)
-- Strasbourg / St. Denis (Earfood)
-- Trust (Nothing Serious)
-- Ruby My Dear (Diamond In The Rough)
-- Speak Low (Earfood)
-- I'm Not So Sure (Earfood)
-- Unsophisticated (Indigo)
-- September in the Rain (Public Eye)
-- Joy Is Sorrow Unmasked (Earfood)
-- The Nearness Of You (Family)
+  - Ruby My Dear (Approaching Standards)
+  - Strasbourg / St. Denis (Earfood)
+  - Trust (Nothing Serious)
+  - Ruby My Dear (Diamond In The Rough)
+  - Speak Low (Earfood)
+  - I'm Not So Sure (Earfood)
+  - Unsophisticated (Indigo)
+  - September in the Rain (Public Eye)
+  - Joy Is Sorrow Unmasked (Earfood)
+  - The Nearness Of You (Family)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8cdf780e-b909-4d25-9060-e552e95b3414
-  spotify: https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs
-  wikipedia: https://en.wikipedia.org/wiki/Roy_Hargrove
+  musicbrainz: 'https://musicbrainz.org/artist/8cdf780e-b909-4d25-9060-e552e95b3414'
+  spotify: 'https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs'
+  wikipedia: 'https://en.wikipedia.org/wiki/Roy_Hargrove'
 image_path: 03_Resources/source_material/ArtistPortraits/Roy_Hargrove.jpg
 biography_enhanced_at: '2025-10-20T09:46:59.357447'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://royhargroveofficial.com/bio
-- https://college.berklee.edu/people/roy-hargrove
-- https://arthurstavern.nyc/roy-hargrove/
-- https://www.allaboutjazz.com/musicians/roy-hargrove/
-- https://www.jazzempowers.org/roy-hargrove
+  - 'https://royhargroveofficial.com/bio'
+  - 'https://college.berklee.edu/people/roy-hargrove'
+  - 'https://arthurstavern.nyc/roy-hargrove/'
+  - 'https://www.allaboutjazz.com/musicians/roy-hargrove/'
+  - 'https://www.jazzempowers.org/roy-hargrove'
 network_extracted: true
 entry_created: '2025-10-20T09:46:59.357462'
 last_updated: '2025-12-23T08:16:03.758758'
@@ -86,9 +86,11 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:42:36.565059'
 musicbrainz_id: 8cdf780e-b909-4d25-9060-e552e95b3414
 tags:
-- hard bop
-- jazz
-- post-bop
+  - hard bop
+  - jazz
+  - post-bop
+is_active: false
+origin: 'Dallas, Texas, United States'
 ---
 
 ![](Roy_Hargrove.jpg)

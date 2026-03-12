@@ -2,22 +2,22 @@
 title: Barb Jungr
 wiki_slug: barb-jungr
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1954-05-09'
-birth_place: Rochdale, Greater Manchester, England
+birth_place: 'Rochdale, Greater Manchester, England'
 genres:
-- vocal jazz
+  - vocal jazz
 instruments:
-- original
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Barb_Jungr.jpg
   caption: Barb Jungr
   background: non_vocal_instrumentalist
   born: '1954-05-09'
-  origin: Rochdale, Greater Manchester, England
+  origin: 'Rochdale, Greater Manchester, England'
 audio_profile:
-  tempo_avg: 116.0
+  tempo_avg: 116
   energy_avg: 0.272
   valence_avg: 0.358
   danceability_avg: 0.498
@@ -31,44 +31,44 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mari Wilson
-  - Gwyneth Herbert
-  - Kuljit Bhamra
-  - Simon Wallace
+    - Mari Wilson
+    - Gwyneth Herbert
+    - Kuljit Bhamra
+    - Simon Wallace
   influenced: []
   mentors:
-  - Nina Simone
-  - Peggy Lee
-  - Jacques Brel
+    - Nina Simone
+    - Peggy Lee
+    - Jacques Brel
 spotify_data:
   followers: 2648
   id: 0pKCBLG3eavJSrSoiNMqNN
   popularity: 12
-  url: https://open.spotify.com/artist/0pKCBLG3eavJSrSoiNMqNN
+  url: 'https://open.spotify.com/artist/0pKCBLG3eavJSrSoiNMqNN'
 discography_enriched: true
 top_tracks:
-- Tower of Song (Hallelujah on Desolation Row)
-- Desolation Row (Hallelujah on Desolation Row)
-- Love Minus Zero/No Limit (Hallelujah on Desolation Row)
-- You Got Me Singing (Hallelujah on Desolation Row)
-- Trouble in Mind (Walking in the Sun)
-- New Morning (Hallelujah on Desolation Row)
-- Who Do You Love? (Walking in the Sun)
-- MacArthur Park
-- Tonight Will Be Fine (Hallelujah on Desolation Row)
-- Slow (Hallelujah on Desolation Row)
+  - Tower of Song (Hallelujah on Desolation Row)
+  - Desolation Row (Hallelujah on Desolation Row)
+  - Love Minus Zero/No Limit (Hallelujah on Desolation Row)
+  - You Got Me Singing (Hallelujah on Desolation Row)
+  - Trouble in Mind (Walking in the Sun)
+  - New Morning (Hallelujah on Desolation Row)
+  - Who Do You Love? (Walking in the Sun)
+  - MacArthur Park
+  - Tonight Will Be Fine (Hallelujah on Desolation Row)
+  - Slow (Hallelujah on Desolation Row)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/54730ac7-7d23-4841-afb3-4d3d6eba52dd
-  spotify: https://open.spotify.com/artist/0pKCBLG3eavJSrSoiNMqNN
-  wikipedia: https://en.wikipedia.org/wiki/Barb_Jungr
+  musicbrainz: 'https://musicbrainz.org/artist/54730ac7-7d23-4841-afb3-4d3d6eba52dd'
+  spotify: 'https://open.spotify.com/artist/0pKCBLG3eavJSrSoiNMqNN'
+  wikipedia: 'https://en.wikipedia.org/wiki/Barb_Jungr'
 image_path: 03_Resources/source_material/ArtistPortraits/Barb_Jungr.jpg
 biography_enhanced_at: '2025-10-20T10:07:57.694624'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- All About Jazz
-- Apple Music
-- AllMusic
+  - All About Jazz
+  - Apple Music
+  - AllMusic
 network_extracted: true
 entry_created: '2025-10-20T10:07:57.694639'
 last_updated: '2025-12-23T08:16:01.148262'

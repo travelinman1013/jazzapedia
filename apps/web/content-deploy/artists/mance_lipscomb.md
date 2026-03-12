@@ -1,19 +1,19 @@
 ---
-title: mance lipscomb
+title: Mance Lipscomb
 wiki_slug: mance-lipscomb
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1895-04-09'
-birth_place: Navasota
+birth_place: 'Navasota, Texas, United States'
 death_date: '1976-01-30'
 genres:
-- country blues
-- classic blues
-- blues
-- ragtime
+  - country blues
+  - classic blues
+  - blues
+  - ragtime
 instruments:
-- guitar
+  - guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/mance_lipscomb.jpg
   caption: mance lipscomb
@@ -22,7 +22,7 @@ infobox:
   origin: Navasota
   died: '1976-01-30'
 audio_profile:
-  tempo_avg: 122.0
+  tempo_avg: 122
   energy_avg: 0.212
   valence_avg: 0.587
   danceability_avg: 0.547
@@ -36,55 +36,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Chris Strachwitz
-  - Mack McCormick
-  - Willie Nelson
-  - Pete Seeger
-  - Grateful Dead
+    - Chris Strachwitz
+    - Mack McCormick
+    - Willie Nelson
+    - Pete Seeger
+    - Grateful Dead
   influenced:
-  - Bob Dylan
-  - Frank Sinatra
-  - Texas blues artists (e.g., Stevie Ray Vaughan, Lightnin’ Hopkins)
+    - Bob Dylan
+    - Frank Sinatra
+    - 'Texas blues artists (e.g., Stevie Ray Vaughan, Lightnin’ Hopkins)'
   mentors:
-  - Sam Rogers
+    - Sam Rogers
 spotify_data:
   followers: 20026
   id: 7jmGjfkkVOjBdjf54YHhwg
   popularity: 18
-  url: https://open.spotify.com/artist/7jmGjfkkVOjBdjf54YHhwg
+  url: 'https://open.spotify.com/artist/7jmGjfkkVOjBdjf54YHhwg'
 discography_enriched: true
 top_tracks:
-- Cocaine Done Killed My Baby (You Got to Reap What You Sow)
-- When Death Come Creeping in Your Room (Run, Sinner, Run) - Take 1; Remastered Version (Trouble In Mind)
-- Sugar Babe
-- Cocaine Done Kill My Baby (Trouble In Mind)
-- Sugar Babe (Run Sinner, Run)
-- Buck Dance - Version; Instrumental; Remastered (Trouble In Mind)
-- Trouble in Mind - Version; Take 1; Remastered (Trouble In Mind)
-- Night Time Is the Right Time (Captain, Captain!)
-- Night Time Is the Right Time (Run Sinner, Run)
-- I Want to Do Something for You (Captain, Captain!)
+  - Cocaine Done Killed My Baby (You Got to Reap What You Sow)
+  - >-
+    When Death Come Creeping in Your Room (Run, Sinner, Run) - Take 1;
+    Remastered Version (Trouble In Mind)
+  - Sugar Babe
+  - Cocaine Done Kill My Baby (Trouble In Mind)
+  - 'Sugar Babe (Run Sinner, Run)'
+  - Buck Dance - Version; Instrumental; Remastered (Trouble In Mind)
+  - Trouble in Mind - Version; Take 1; Remastered (Trouble In Mind)
+  - 'Night Time Is the Right Time (Captain, Captain!)'
+  - 'Night Time Is the Right Time (Run Sinner, Run)'
+  - 'I Want to Do Something for You (Captain, Captain!)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/28868947-1ff6-4021-8e84-a44ef80fb211
-  spotify: https://open.spotify.com/artist/7jmGjfkkVOjBdjf54YHhwg
-  wikipedia: https://en.wikipedia.org/wiki/Mance_Lipscomb
+  musicbrainz: 'https://musicbrainz.org/artist/28868947-1ff6-4021-8e84-a44ef80fb211'
+  spotify: 'https://open.spotify.com/artist/7jmGjfkkVOjBdjf54YHhwg'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mance_Lipscomb'
 image_path: 03_Resources/source_material/ArtistPortraits/mance_lipscomb.jpg
 biography_enhanced_at: '2025-10-31T08:23:53.916026'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Mance_Lipscomb
-- https://bigtrainblues.com/mance-lipscomb/
-- https://www.texasmonthly.com/being-texan/mance-lipscomb/
+  - 'https://en.wikipedia.org/wiki/Mance_Lipscomb'
+  - 'https://bigtrainblues.com/mance-lipscomb/'
+  - 'https://www.texasmonthly.com/being-texan/mance-lipscomb/'
 network_extracted: true
 entry_created: '2025-10-31T08:23:53.916036'
 last_updated: '2025-12-23T08:16:12.584800'
 gender: Male
 musicbrainz_id: 28868947-1ff6-4021-8e84-a44ef80fb211
 tags:
-- acoustic texas blues
-- blues
-- texas blues
+  - acoustic texas blues
+  - blues
+  - texas blues
+is_active: false
 ---
 
 ![](mance_lipscomb.jpg)

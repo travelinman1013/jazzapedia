@@ -3,42 +3,50 @@ biography_enhanced_at: '2026-01-08T01:38:47.329947'
 enhancement_provider: perplexity
 entry_created: '2026-01-08T01:38:47.329952'
 external_urls:
-  spotify: https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3
+  spotify: 'https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3'
   wikipedia: ''
 genres: []
-image_path: 03_Resources/source_material/ArtistPortraits/jake_shimabukuro_and_mick_fleetwood.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/jake_shimabukuro_and_mick_fleetwood.jpg
 last_updated: '2026-01-08T01:38:47.329953'
 musical_connections:
   collaborators:
-  - Jackson Waldhoff
-  - Michael Grande
-  - Sonny Landreth
-  - Mark Johnstone
-  - Neil Young (via tribute project context)
+    - Jackson Waldhoff
+    - Michael Grande
+    - Sonny Landreth
+    - Mark Johnstone
+    - Neil Young (via tribute project context)
   influenced:
-  - Contemporary ukulele and crossover string players (general)
+    - Contemporary ukulele and crossover string players (general)
   mentors:
-  - Jimi Hendrix
-  - Jeff Beck
-  - Albert King and classic electric blues guitarists
-  - John Mayall’s Bluesbreakers / Peter Green‑era Fleetwood Mac (as a lineage for
-    Mick Fleetwood)
+    - Jimi Hendrix
+    - Jeff Beck
+    - Albert King and classic electric blues guitarists
+    - >-
+      John Mayall’s Bluesbreakers / Peter Green‑era Fleetwood Mac (as a lineage
+      for Mick Fleetwood)
 network_extracted: true
-origin: Kula, Maui, Hawaii, United States (primary recording base for the collaboration
-  at Mick Fleetwood’s home studio)
+origin: >-
+  Kula, Maui, Hawaii, United States (primary recording base for the
+  collaboration at Mick Fleetwood’s home studio)
 primary_source: perplexity
 research_sources:
-- https://americansongwriter.com/exclusive-ukulele-master-jake-shimabukuro-talks-dream-come-true-collaboration-with-mick-fleetwood-on-new-blues-album/
-- https://ukulelemagazine.com/stories/jake-shimabukuro-joins-forces-with-mick-fleetwood-for-sensational-blues-outing
-- https://jambands.com/news/2024/07/24/jake-shimabukuro-and-mick-fleetwood-outline-blues-experience-on-forthcoming-album/
-- https://www.sandsofkahanaresort.com/blog/jake-shimabukuro-the-hawaiian-ukulele-icon-bridging-cultures-and-generations/
+  - >-
+    https://americansongwriter.com/exclusive-ukulele-master-jake-shimabukuro-talks-dream-come-true-collaboration-with-mick-fleetwood-on-new-blues-album/
+  - >-
+    https://ukulelemagazine.com/stories/jake-shimabukuro-joins-forces-with-mick-fleetwood-for-sensational-blues-outing
+  - >-
+    https://jambands.com/news/2024/07/24/jake-shimabukuro-and-mick-fleetwood-outline-blues-experience-on-forthcoming-album/
+  - >-
+    https://www.sandsofkahanaresort.com/blog/jake-shimabukuro-the-hawaiian-ukulele-icon-bridging-cultures-and-generations/
 spotify_data:
   followers: 93854
   id: 69NjH5MsRLr0CX0zSlGmN3
   popularity: 53
-  url: https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3
+  url: 'https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3'
 status: active
 title: Jake Shimabukuro & Mick Fleetwood
+artist_type: band
 ---
 
 ![](jake_shimabukuro_and_mick_fleetwood.jpg)

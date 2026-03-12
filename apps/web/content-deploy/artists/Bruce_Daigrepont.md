@@ -3,15 +3,19 @@ title: Bruce Daigrepont
 wiki_slug: bruce-daigrepont
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States (birthplace); Avoyelles Parish, Louisiana, United States (family origin)
+birth_place: >-
+  New Orleans, Louisiana, United States (birthplace); Avoyelles Parish,
+  Louisiana, United States (family origin)
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Bruce_Daigrepont.jpg
   caption: Bruce Daigrepont
   background: solo_singer
-  origin: New Orleans, Louisiana, United States (birthplace); Avoyelles Parish, Louisiana, United States (family origin)
+  origin: >-
+    New Orleans, Louisiana, United States (birthplace); Avoyelles Parish,
+    Louisiana, United States (family origin)
 audio_profile:
   tempo_avg: 130.3
   energy_avg: 0.711
@@ -27,48 +31,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mark Young
-  - Bruce Daigrepont Cajun Band members
+    - Mark Young
+    - Bruce Daigrepont Cajun Band members
   influenced:
-  - New Orleans Cajun musicians
+    - New Orleans Cajun musicians
   mentors:
-  - Bruce's father
-  - Uncle Alton
+    - Bruce's father
+    - Uncle Alton
 spotify_data:
   followers: 1238
   id: 0qQNMmJlt5ytqzXs28XgRc
   popularity: 9
-  url: https://open.spotify.com/artist/0qQNMmJlt5ytqzXs28XgRc
+  url: 'https://open.spotify.com/artist/0qQNMmJlt5ytqzXs28XgRc'
 discography_enriched: true
 top_tracks:
-- Acadie À La Louisiane (Coeur Des Cajuns)
-- Disco Et Fais Do-Do (Stir Up The Roux)
-- Laissez Faire (Stir Up The Roux)
-- Coeur Des Cajuns (Coeur Des Cajuns)
-- Voyager (Petit Cadeau)
-- I'm Bettin' (Coeur Des Cajuns)
-- Bienvenue dans le sud de la Louisiane (Bienvenue dans le sud de la Louisiane)
-- Nonc Willie (Petit Cadeau)
-- Marksville Two Step (Stir Up The Roux)
-- Arc En Ciel (Coeur Des Cajuns)
+  - Acadie À La Louisiane (Coeur Des Cajuns)
+  - Disco Et Fais Do-Do (Stir Up The Roux)
+  - Laissez Faire (Stir Up The Roux)
+  - Coeur Des Cajuns (Coeur Des Cajuns)
+  - Voyager (Petit Cadeau)
+  - I'm Bettin' (Coeur Des Cajuns)
+  - >-
+    Bienvenue dans le sud de la Louisiane (Bienvenue dans le sud de la
+    Louisiane)
+  - Nonc Willie (Petit Cadeau)
+  - Marksville Two Step (Stir Up The Roux)
+  - Arc En Ciel (Coeur Des Cajuns)
 external_urls:
-  spotify: https://open.spotify.com/artist/0qQNMmJlt5ytqzXs28XgRc
+  spotify: 'https://open.spotify.com/artist/0qQNMmJlt5ytqzXs28XgRc'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/Bruce_Daigrepont.jpg
 biography_enhanced_at: '2025-10-20T01:44:44.075739'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://www.brucedaigrepont.org/press.html
-- https://prezi.com/p/gax4xifnt83s/bruce-daigrepont/
-- https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/daigrepont.htm.html
-- https://www.neworleans.com/listing/bruce-daigrepont/46326/
-- https://viking.tv/my-viking/bruce-daigrepont
-- https://viking.tv/live/thursday/anne-diamond-ups-the-tempo-with-cajun-musician-bruce-daigrepont
-- https://www.allmusic.com/artist/bruce-daigrepont-mn0000631592
+  - 'http://www.brucedaigrepont.org/press.html'
+  - 'https://prezi.com/p/gax4xifnt83s/bruce-daigrepont/'
+  - >-
+    https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/daigrepont.htm.html
+  - 'https://www.neworleans.com/listing/bruce-daigrepont/46326/'
+  - 'https://viking.tv/my-viking/bruce-daigrepont'
+  - >-
+    https://viking.tv/live/thursday/anne-diamond-ups-the-tempo-with-cajun-musician-bruce-daigrepont
+  - 'https://www.allmusic.com/artist/bruce-daigrepont-mn0000631592'
 network_extracted: true
 entry_created: '2025-10-20T01:44:44.075759'
 last_updated: '2025-12-23T08:16:01.374682'
+origin: 'Avoyelles Parish, Louisiana, United States'
+birth_date: '1958-07-11'
+artist_type: person
 ---
 
 ![](Bruce_Daigrepont.jpg)

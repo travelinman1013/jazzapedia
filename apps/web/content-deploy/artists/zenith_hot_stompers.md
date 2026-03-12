@@ -4,7 +4,7 @@ wiki_slug: zenith-hot-stompers
 schema_version: 2
 status: active
 genres:
-- swing music
+  - swing music
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/zenith_hot_stompers.jpg
   caption: Zenith Hot Stompers
@@ -30,33 +30,37 @@ spotify_data:
   followers: 69
   id: 7EKSFqFYmF4wAP4kof9c8x
   popularity: 3
-  url: https://open.spotify.com/artist/7EKSFqFYmF4wAP4kof9c8x
+  url: 'https://open.spotify.com/artist/7EKSFqFYmF4wAP4kof9c8x'
 discography_enriched: true
 top_tracks:
-- I Wish I Could Shimmy Like My Sister Kate (Fidgety Feet)
-- African Queen (Fidgety Feet)
-- Trog's Blues (Fidgety Feet)
-- Ole Miss Rag (Chris Barber with Zenith Hot Stompers)
-- Riverside Blues (Chris Barber with Zenith Hot Stompers)
-- Just A Little While To Stay Here (Chris Barber with Zenith Hot Stompers)
-- Bugle Boy March (Chris Barber with Zenith Hot Stompers)
-- Saratoga Swing (Chris Barber with Zenith Hot Stompers)
-- Precious Lord, Take My Hand, Lead Me On (Chris Barber with Zenith Hot Stompers)
-- Sweet Georgia Brown (Chris Barber with Zenith Hot Stompers)
+  - I Wish I Could Shimmy Like My Sister Kate (Fidgety Feet)
+  - African Queen (Fidgety Feet)
+  - Trog's Blues (Fidgety Feet)
+  - Ole Miss Rag (Chris Barber with Zenith Hot Stompers)
+  - Riverside Blues (Chris Barber with Zenith Hot Stompers)
+  - Just A Little While To Stay Here (Chris Barber with Zenith Hot Stompers)
+  - Bugle Boy March (Chris Barber with Zenith Hot Stompers)
+  - Saratoga Swing (Chris Barber with Zenith Hot Stompers)
+  - >-
+    Precious Lord, Take My Hand, Lead Me On (Chris Barber with Zenith Hot
+    Stompers)
+  - Sweet Georgia Brown (Chris Barber with Zenith Hot Stompers)
 external_urls:
-  spotify: https://open.spotify.com/artist/7EKSFqFYmF4wAP4kof9c8x
+  spotify: 'https://open.spotify.com/artist/7EKSFqFYmF4wAP4kof9c8x'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/zenith_hot_stompers.jpg
 biography_enhanced_at: '2025-12-07T04:34:24.595373'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- YouTube – ‘Zenith Hot Stompers at Bude 2000’ description noting the band was founded in 1964 and billed as the Midlands
-  premier traditional jazz band.[1]
+  - >-
+    YouTube – ‘Zenith Hot Stompers at Bude 2000’ description noting the band was
+    founded in 1964 and billed as the Midlands premier traditional jazz band.[1]
 network_extracted: true
 entry_created: '2025-12-07T04:34:24.595384'
 last_updated: '2025-12-23T08:16:18.435297'
-origin: Midlands, England, United Kingdom
+origin: 'Midlands, England, United Kingdom'
+artist_type: band
 ---
 
 ![](zenith_hot_stompers.jpg)

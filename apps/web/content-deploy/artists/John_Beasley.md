@@ -3,16 +3,16 @@ title: John Beasley
 wiki_slug: john-beasley
 schema_version: 2
 status: active
-birth_place: Shreveport, Louisiana, United States
+birth_place: 'Shreveport, Louisiana, United States'
 genres:
-- big band
-- jazz
-- jazz fusion
+  - big band
+  - jazz
+  - jazz fusion
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/John_Beasley.jpg
   caption: John Beasley
   background: solo_singer
-  origin: Shreveport, Louisiana, United States
+  origin: 'Shreveport, Louisiana, United States'
 audio_profile:
   tempo_avg: 108.8
   energy_avg: 0.464
@@ -20,7 +20,7 @@ audio_profile:
   danceability_avg: 0.484
   acousticness_avg: 0.531
   instrumentalness_avg: 0.507
-  loudness_avg: -13.0
+  loudness_avg: -13
   speechiness_avg: 0.048
   liveness_avg: 0.124
   track_count: 50
@@ -28,56 +28,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Miles Davis
-  - Freddie Hubbard
-  - Sergio Mendes
-  - Thomas Newman
-  - John Patitucci
-  - Joey Heredia
-  - Darryl Jones
-  - Ndugu Chancler
-  - Dianne Reeves
-  - Christian McBride
+    - Miles Davis
+    - Freddie Hubbard
+    - Sergio Mendes
+    - Thomas Newman
+    - John Patitucci
+    - Joey Heredia
+    - Darryl Jones
+    - Ndugu Chancler
+    - Dianne Reeves
+    - Christian McBride
   influenced:
-  - MONK’estra student big bands
-  - Herbie Hancock Institute of Jazz students
+    - MONK’estra student big bands
+    - Herbie Hancock Institute of Jazz students
   mentors:
-  - Rule Curtis Beasley
-  - Jimmy Lyons
+    - Rule Curtis Beasley
+    - Jimmy Lyons
 spotify_data:
   followers: 4461
   id: 48F7fzeDb7gxJm8I9tHVRW
   popularity: 34
-  url: https://open.spotify.com/artist/48F7fzeDb7gxJm8I9tHVRW
+  url: 'https://open.spotify.com/artist/48F7fzeDb7gxJm8I9tHVRW'
 discography_enriched: true
 top_tracks:
-- Caddo Bayou (Positootly!)
-- Dance With You (Happy People)
-- The Chimes at Midnight (The Best Exotic Marigold Hotel)
-- Happiness is There (Happy People)
-- El Madero (Happy People)
-- I Close My Eyes (Happy People)
-- To Dream as One (Happy People)
-- The Best Exotic Marigold Hotel (The Best Exotic Marigold Hotel)
-- Spam-Boo-Limbo (Rhythm Sessions)
-- Caddo Bayou
+  - Caddo Bayou (Positootly!)
+  - Dance With You (Happy People)
+  - The Chimes at Midnight (The Best Exotic Marigold Hotel)
+  - Happiness is There (Happy People)
+  - El Madero (Happy People)
+  - I Close My Eyes (Happy People)
+  - To Dream as One (Happy People)
+  - The Best Exotic Marigold Hotel (The Best Exotic Marigold Hotel)
+  - Spam-Boo-Limbo (Rhythm Sessions)
+  - Caddo Bayou
 external_urls:
-  spotify: https://open.spotify.com/artist/48F7fzeDb7gxJm8I9tHVRW
-  wikipedia: https://en.wikipedia.org/wiki/John_Beasley_(musician)
+  spotify: 'https://open.spotify.com/artist/48F7fzeDb7gxJm8I9tHVRW'
+  wikipedia: 'https://en.wikipedia.org/wiki/John_Beasley_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/John_Beasley.jpg
 biography_enhanced_at: '2025-10-20T10:08:15.013762'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/John_Beasley_(musician)
-- https://www.sfjazz.org/onthecorner/articles/a-portrait-of-john-beasley/
-- https://www.johnbeasleymusic.com/bio
-- https://www.yamaha.com/artists/johnbeasley.html
-- https://cso.org/about/performers/visiting-artists/keyboard/john-beasley/
-- https://www.laphil.com/musicdb/artists/551/john-beasley
+  - 'https://en.wikipedia.org/wiki/John_Beasley_(musician)'
+  - 'https://www.sfjazz.org/onthecorner/articles/a-portrait-of-john-beasley/'
+  - 'https://www.johnbeasleymusic.com/bio'
+  - 'https://www.yamaha.com/artists/johnbeasley.html'
+  - 'https://cso.org/about/performers/visiting-artists/keyboard/john-beasley/'
+  - 'https://www.laphil.com/musicdb/artists/551/john-beasley'
 network_extracted: true
 entry_created: '2025-10-20T10:08:15.013777'
 last_updated: '2025-12-23T08:16:02.602110'
+birth_date: '1958-10-10'
+artist_type: person
 ---
 
 ![](John_Beasley.jpg)

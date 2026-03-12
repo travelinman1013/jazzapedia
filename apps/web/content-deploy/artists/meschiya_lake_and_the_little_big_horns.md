@@ -1,13 +1,14 @@
 ---
-title: meschiya lake and the little big horns
+title: Meschiya Lake and the Little Big Horns
 wiki_slug: meschiya-lake-and-the-little-big-horns
 schema_version: 2
 status: active
 genres:
-- swing music
-- ragtime
+  - swing music
+  - ragtime
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/meschiya_lake_and_the_little_big_horns.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/meschiya_lake_and_the_little_big_horns.jpg
   caption: meschiya lake and the little big horns
   background: solo_singer
 audio_profile:
@@ -25,53 +26,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Alec Ounsworth
-  - Tom Waits
-  - Tom McDermott
-  - The Loose Marbles
-  - The Little Big Horns
+    - Alec Ounsworth
+    - Tom Waits
+    - Tom McDermott
+    - The Loose Marbles
+    - The Little Big Horns
   influenced:
-  - New Orleans street musicians
+    - New Orleans street musicians
   mentors:
-  - The Loose Marbles
+    - The Loose Marbles
 spotify_data:
   followers: 9443
   id: 7zrXGSuz6ndeAZLTexWmDL
   popularity: 19
-  url: https://open.spotify.com/artist/7zrXGSuz6ndeAZLTexWmDL
+  url: 'https://open.spotify.com/artist/7zrXGSuz6ndeAZLTexWmDL'
 discography_enriched: true
 top_tracks:
-- Do Right (Foolers' Gold)
-- It's the Rhythm in Me (Foolers' Gold)
-- Comes Love (Lucky Devil)
-- Comes Love (Lucky Devil)
-- I Believe in Music (Foolers' Gold)
-- Catch Em Young (Foolers' Gold)
-- Don't Start With Me (Foolers' Gold)
-- I'll Wait for You (Foolers' Gold)
-- I Ain't Got Nuthin' but the Blues (Lucky Devil)
-- Lucky Devil (Lucky Devil)
+  - Do Right (Foolers' Gold)
+  - It's the Rhythm in Me (Foolers' Gold)
+  - Comes Love (Lucky Devil)
+  - Comes Love (Lucky Devil)
+  - I Believe in Music (Foolers' Gold)
+  - Catch Em Young (Foolers' Gold)
+  - Don't Start With Me (Foolers' Gold)
+  - I'll Wait for You (Foolers' Gold)
+  - I Ain't Got Nuthin' but the Blues (Lucky Devil)
+  - Lucky Devil (Lucky Devil)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8887ee27-5e8d-4ff0-8a68-5ce196fbf90d
-  spotify: https://open.spotify.com/artist/7zrXGSuz6ndeAZLTexWmDL
+  musicbrainz: 'https://musicbrainz.org/artist/8887ee27-5e8d-4ff0-8a68-5ce196fbf90d'
+  spotify: 'https://open.spotify.com/artist/7zrXGSuz6ndeAZLTexWmDL'
   wikipedia: ''
-image_path: 03_Resources/source_material/ArtistPortraits/meschiya_lake_and_the_little_big_horns.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/meschiya_lake_and_the_little_big_horns.jpg
 biography_enhanced_at: '2025-10-31T08:18:48.059344'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.paard.nl/en/event/meschiya-lake-the-little-big-horns-2/
-- https://www.heydaymediagroup.com/copy-of-los-blancos
-- http://www.meschiyalake.com/about-the-band
-- https://syncopatedtimes.com/meschiya-lake-im-not-just-a-jazz-singer/
-- https://www.myneworleans.com/new-orleans-persona-meschiya-lake/
-- https://musicinsideout.wwno.org/meschiya-lake/
-- https://www.theaudiodb.com/artist/148237-Meschiya-Lake-and-the-Little-Big-Horns
+  - 'https://www.paard.nl/en/event/meschiya-lake-the-little-big-horns-2/'
+  - 'https://www.heydaymediagroup.com/copy-of-los-blancos'
+  - 'http://www.meschiyalake.com/about-the-band'
+  - 'https://syncopatedtimes.com/meschiya-lake-im-not-just-a-jazz-singer/'
+  - 'https://www.myneworleans.com/new-orleans-persona-meschiya-lake/'
+  - 'https://musicinsideout.wwno.org/meschiya-lake/'
+  - >-
+    https://www.theaudiodb.com/artist/148237-Meschiya-Lake-and-the-Little-Big-Horns
 network_extracted: true
 entry_created: '2025-10-31T08:18:48.059348'
 last_updated: '2025-12-23T08:16:13.007541'
 musicbrainz_id: 8887ee27-5e8d-4ff0-8a68-5ce196fbf90d
-origin: New Orleans, Louisiana, United States (band origin); Southern Oregon (Lake's birthplace); South Dakota (Lake's upbringing)
+origin: >-
+  New Orleans, Louisiana, United States (band origin); Southern Oregon (Lake's
+  birthplace); South Dakota (Lake's upbringing)
+birth_place: 'Southern Oregon, United States'
+artist_type: band
 ---
 
 ![](meschiya_lake_and_the_little_big_horns.jpg)

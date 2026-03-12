@@ -1,16 +1,17 @@
 ---
-title: FESS WILLIAMS AND HIS ROYAL FLUSH ORCHESTRA
+title: Fess Williams and His Royal Flush Orchestra
 wiki_slug: fess-williams-and-his-royal-flush-orchestra
 schema_version: 2
-artist_type: orchestra
+artist_type: band
 status: active
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/fess_williams_and_his_royal_flush_orchestra.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/fess_williams_and_his_royal_flush_orchestra.jpg
   caption: FESS WILLIAMS AND HIS ROYAL FLUSH ORCHESTRA
   background: solo_singer
 audio_profile:
-  tempo_avg: 141.0
+  tempo_avg: 141
   energy_avg: 0.312
   valence_avg: 0.726
   danceability_avg: 0.714
@@ -24,50 +25,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Frank Marvin
-  - Perry Smith
-  - Walter “Fats” Pichon
-  - Ralph Bedell
-  - Ollie Blackwell
-  - Kenneth Roane
-  - David “Jelly” James
-  - Emanuel Casamore
-  - Charles Mingus
+    - Frank Marvin
+    - Perry Smith
+    - Walter “Fats” Pichon
+    - Ralph Bedell
+    - Ollie Blackwell
+    - Kenneth Roane
+    - David “Jelly” James
+    - Emanuel Casamore
+    - Charles Mingus
   influenced:
-  - Charles Mingus
+    - Charles Mingus
   mentors:
-  - N. Clark Smith
-  - Ted Lewis
+    - N. Clark Smith
+    - Ted Lewis
 spotify_data:
   followers: 0
   id: 4b6Pl9YLlTEiXHeybIFrZB
   popularity: 0
-  url: https://open.spotify.com/artist/4b6Pl9YLlTEiXHeybIFrZB
+  url: 'https://open.spotify.com/artist/4b6Pl9YLlTEiXHeybIFrZB'
 discography_enriched: true
 top_tracks:
-- '''leven-thirty Saturday Night (A Taste of 1930)'
-- Here 'tis (A Taste of 1929)
+  - '''leven-thirty Saturday Night (A Taste of 1930)'
+  - Here 'tis (A Taste of 1929)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2c1b1990-51ed-45c9-93d6-4b1a9aea5f97
-  spotify: https://open.spotify.com/artist/4b6Pl9YLlTEiXHeybIFrZB
-  wikipedia: https://en.wikipedia.org/wiki/Fess_Williams_and_his_Royal_Flush_Orchestra
+  musicbrainz: 'https://musicbrainz.org/artist/2c1b1990-51ed-45c9-93d6-4b1a9aea5f97'
+  spotify: 'https://open.spotify.com/artist/4b6Pl9YLlTEiXHeybIFrZB'
+  wikipedia: 'https://en.wikipedia.org/wiki/Fess_Williams_and_his_Royal_Flush_Orchestra'
 image_path: ''
 biography_enhanced_at: '2025-12-18T02:36:53.815169'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Fess_Williams
-- https://en.wikipedia.org/wiki/Fess_Williams_and_his_Royal_Flush_Orchestra
-- https://vintagestardust.wordpress.com/2021/02/08/fess-williams-orchestra-1920s/
-- https://syncopatedtimes.com/fess-williams-and-his-royal-flush-orchestra/
-- https://adp.library.ucsb.edu/index.php/mastertalent/detail/103514/Royal_Flush_Orchestra
+  - 'https://en.wikipedia.org/wiki/Fess_Williams'
+  - 'https://en.wikipedia.org/wiki/Fess_Williams_and_his_Royal_Flush_Orchestra'
+  - >-
+    https://vintagestardust.wordpress.com/2021/02/08/fess-williams-orchestra-1920s/
+  - 'https://syncopatedtimes.com/fess-williams-and-his-royal-flush-orchestra/'
+  - >-
+    https://adp.library.ucsb.edu/index.php/mastertalent/detail/103514/Royal_Flush_Orchestra
 network_extracted: true
 entry_created: '2025-12-18T02:36:53.815184'
 last_updated: '2025-12-23T08:16:08.634783'
 musicbrainz_id: 2c1b1990-51ed-45c9-93d6-4b1a9aea5f97
-origin: Harlem, New York City, New York, United States
+origin: 'Harlem, New York City, New York, United States'
 tags:
-- jazz
+  - jazz
 ---
 
 ![]()

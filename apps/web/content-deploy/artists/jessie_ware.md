@@ -1,61 +1,63 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a3c1211b-9422-43be-a75c-5b6778e7c0b6
-  name: Band Aid 30
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a3c1211b-9422-43be-a75c-5b6778e7c0b6
+    name: Band Aid 30
 biography_enhanced_at: '2026-01-14T01:09:03.394392'
 birth_date: '1984-10-15'
-birth_place: Hammersmith
+birth_place: 'Hammersmith, London, England'
 disambiguation: British singer‐songwriter
 enhancement_provider: perplexity
 entry_created: '2026-01-14T01:09:03.394405'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6ed40778-8d03-4a5c-ad35-93cf814627c9
-  spotify: https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc
-  wikipedia: https://en.wikipedia.org/wiki/Jessie_Ware
+  musicbrainz: 'https://musicbrainz.org/artist/6ed40778-8d03-4a5c-ad35-93cf814627c9'
+  spotify: 'https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jessie_Ware'
 gender: Female
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/jessie_ware.jpg
 instruments:
-- background vocals
-- lead vocals
+  - background vocals
+  - lead vocals
 last_updated: '2026-01-14T01:09:03.394407'
 musical_connections:
   collaborators:
-  - Jack Peñate
-  - Man Like Me
-  - Ed Sheeran
-  - Julia Michaels
+    - Jack Peñate
+    - Man Like Me
+    - Ed Sheeran
+    - Julia Michaels
   influenced: []
   mentors:
-  - Jack Peñate
-  - Frank Sinatra and Ella Fitzgerald
+    - Jack Peñate
+    - Frank Sinatra and Ella Fitzgerald
 musicbrainz_id: 6ed40778-8d03-4a5c-ad35-93cf814627c9
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jessie_Ware
-- https://www.last.fm/music/Jessie+Ware/+wiki
-- https://brits.co.uk/news/2013/artist-spotlight-jessie-ware/
-- https://wbssmedia.com/artists/detail/2579
-- https://youthfoundation.org.uk/the-evolution-of-jessie-ware-from-backup-singer-to-pop-sensation.html
-- https://www.rottentomatoes.com/celebrity/jessie_ware
-- https://www.kidzworld.com/article/28093-jessie-ware-bio/
-- https://rock.fandom.com/wiki/Jessie_Ware
+  - 'https://en.wikipedia.org/wiki/Jessie_Ware'
+  - 'https://www.last.fm/music/Jessie+Ware/+wiki'
+  - 'https://brits.co.uk/news/2013/artist-spotlight-jessie-ware/'
+  - 'https://wbssmedia.com/artists/detail/2579'
+  - >-
+    https://youthfoundation.org.uk/the-evolution-of-jessie-ware-from-backup-singer-to-pop-sensation.html
+  - 'https://www.rottentomatoes.com/celebrity/jessie_ware'
+  - 'https://www.kidzworld.com/article/28093-jessie-ware-bio/'
+  - 'https://rock.fandom.com/wiki/Jessie_Ware'
 spotify_data:
   followers: 789623
   id: 5Mq7iqCWBzofK39FBqblNc
   popularity: 58
-  url: https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc
+  url: 'https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc'
 status: active
 tags:
-- adult alternative pop/rock
-- adult contemporary r&b
-- contemporary r&b
+  - adult alternative pop/rock
+  - adult contemporary r&b
+  - contemporary r&b
 title: Jessie Ware
+origin: 'South London, England'
 ---
 
 ![](jessie_ware.jpg)

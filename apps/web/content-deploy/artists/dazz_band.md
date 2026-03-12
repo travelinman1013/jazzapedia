@@ -4,8 +4,8 @@ wiki_slug: dazz-band
 schema_version: 2
 status: active
 genres:
-- funk
-- post-disco
+  - funk
+  - post-disco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/dazz_band.jpg
   caption: Dazz Band
@@ -25,49 +25,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bobby Harris
-  - Sennie 'Skip' Martin
-  - Pierre DeMudd
-  - Reggie Andrews
-  - Marlon McClain
+    - Bobby Harris
+    - Sennie 'Skip' Martin
+    - Pierre DeMudd
+    - Reggie Andrews
+    - Marlon McClain
   influenced:
-  - United We Funk All-Stars
-  - Contemporary funk and R&B artists
+    - United We Funk All-Stars
+    - Contemporary funk and R&B artists
   mentors:
-  - Philip Bailey
+    - Philip Bailey
 spotify_data:
   followers: 357373
   id: 4n7L1vYXp4Dt0HfxaLBj9l
   popularity: 48
-  url: https://open.spotify.com/artist/4n7L1vYXp4Dt0HfxaLBj9l
+  url: 'https://open.spotify.com/artist/4n7L1vYXp4Dt0HfxaLBj9l'
 discography_enriched: true
 top_tracks:
-- Let It Whip (Keep It Live (Expanded Edition))
-- Let It Whip
-- LET'S WHIP IT
-- Joystick
-- You Are My Starship - Urbanstar Mix
-- 'Swoop (I''m Yours) (Funkology: The Definitive Dazz Band)'
-- Let It Whip - 12" Mix (Keep It Live (Expanded Edition))
-- 'Let It Whip - Extended 7" Mix (Funkology: The Definitive Dazz Band)'
-- Let It Whip - Single Version
-- Let It Whip - Single Version (Hitsville USA, The Motown Collection 1972-1992)
+  - Let It Whip (Keep It Live (Expanded Edition))
+  - Let It Whip
+  - LET'S WHIP IT
+  - Joystick
+  - You Are My Starship - Urbanstar Mix
+  - 'Swoop (I''m Yours) (Funkology: The Definitive Dazz Band)'
+  - Let It Whip - 12" Mix (Keep It Live (Expanded Edition))
+  - 'Let It Whip - Extended 7" Mix (Funkology: The Definitive Dazz Band)'
+  - Let It Whip - Single Version
+  - >-
+    Let It Whip - Single Version (Hitsville USA, The Motown Collection
+    1972-1992)
 external_urls:
-  spotify: https://open.spotify.com/artist/4n7L1vYXp4Dt0HfxaLBj9l
-  wikipedia: https://en.wikipedia.org/wiki/Dazz_Band
+  spotify: 'https://open.spotify.com/artist/4n7L1vYXp4Dt0HfxaLBj9l'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dazz_Band'
 image_path: 03_Resources/source_material/ArtistPortraits/dazz_band.jpg
 biography_enhanced_at: '2025-11-16T20:24:36.624300'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Dazz_Band
-- https://pennylibertygbow.wordpress.com/2012/02/22/dazz/
-- https://andresmusictalk.wordpress.com/2016/07/27/grooves-on-wax-post-disco-boogie-1979-1982/
-- https://djrobblog.com/archives/16267
+  - 'https://en.wikipedia.org/wiki/Dazz_Band'
+  - 'https://pennylibertygbow.wordpress.com/2012/02/22/dazz/'
+  - >-
+    https://andresmusictalk.wordpress.com/2016/07/27/grooves-on-wax-post-disco-boogie-1979-1982/
+  - 'https://djrobblog.com/archives/16267'
 network_extracted: true
 entry_created: '2025-11-16T20:24:36.624310'
 last_updated: '2025-12-23T08:16:07.609574'
-origin: Cleveland, Ohio, United States
+origin: 'Cleveland, Ohio, United States'
+artist_type: band
 ---
 
 ![](dazz_band.jpg)

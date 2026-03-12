@@ -4,9 +4,9 @@ wiki_slug: the-commoners
 schema_version: 2
 status: active
 genres:
-- blues rock
-- southern rock
-- modern blues
+  - blues rock
+  - southern rock
+  - modern blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_commoners.jpg
   caption: The Commoners
@@ -26,54 +26,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Miles Evans-Branagh
-  - Jeff Heisholt (The Trews)
-  - Michael Eckert
-  - Ben Healey
-  - Kevin Shirley
-  - Ross Hayes Citrullo
-  - Pete Lyman
+    - Miles Evans-Branagh
+    - Jeff Heisholt (The Trews)
+    - Michael Eckert
+    - Ben Healey
+    - Kevin Shirley
+    - Ross Hayes Citrullo
+    - Pete Lyman
   influenced: []
   mentors:
-  - The Black Crowes
-  - The Allman Brothers Band
-  - Led Zeppelin
-  - Derek Trucks
-  - Marcus King
+    - The Black Crowes
+    - The Allman Brothers Band
+    - Led Zeppelin
+    - Derek Trucks
+    - Marcus King
 spotify_data:
   followers: 9994
   id: 6GevXItFTFNqPQQvEW8W9C
   popularity: 34
-  url: https://open.spotify.com/artist/6GevXItFTFNqPQQvEW8W9C
+  url: 'https://open.spotify.com/artist/6GevXItFTFNqPQQvEW8W9C'
 discography_enriched: true
 top_tracks:
-- Shake You Off (Restless)
-- The Way I Am (Restless)
-- Devil Teasin' Me (Restless)
-- Too Much (Find a Better Way)
-- Gone Without Warning (Restless)
-- See You Again (Restless)
-- Fill My Cup (Find a Better Way)
-- Who Are You (Restless)
-- Find a Better Way (Find a Better Way)
-- Shake You Off (Shake You Off)
+  - Shake You Off (Restless)
+  - The Way I Am (Restless)
+  - Devil Teasin' Me (Restless)
+  - Too Much (Find a Better Way)
+  - Gone Without Warning (Restless)
+  - See You Again (Restless)
+  - Fill My Cup (Find a Better Way)
+  - Who Are You (Restless)
+  - Find a Better Way (Find a Better Way)
+  - Shake You Off (Shake You Off)
 external_urls:
-  spotify: https://open.spotify.com/artist/6GevXItFTFNqPQQvEW8W9C
+  spotify: 'https://open.spotify.com/artist/6GevXItFTFNqPQQvEW8W9C'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/the_commoners.jpg
 biography_enhanced_at: '2025-12-18T02:43:54.354864'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://bluestownmusic.nl/new-release-the-commoners-find-a-better-way/
-- https://bluesrockreview.com/2022/11/the-commoners-find-a-better-way-review.html
-- https://www.thesoundcafe.com/post/toronto-based-roots-rockers-the-commoners-to-support-samantha-fish-jesse-dayton-on-uk-tour
-- https://thecommoners.ca/the-band/
-- https://www.sergedefraene.com/teenageheadmusic/index.php/bands/bands-the-commoners
+  - 'https://bluestownmusic.nl/new-release-the-commoners-find-a-better-way/'
+  - >-
+    https://bluesrockreview.com/2022/11/the-commoners-find-a-better-way-review.html
+  - >-
+    https://www.thesoundcafe.com/post/toronto-based-roots-rockers-the-commoners-to-support-samantha-fish-jesse-dayton-on-uk-tour
+  - 'https://thecommoners.ca/the-band/'
+  - >-
+    https://www.sergedefraene.com/teenageheadmusic/index.php/bands/bands-the-commoners
 network_extracted: true
 entry_created: '2025-12-18T02:43:54.354874'
 last_updated: '2025-12-23T08:16:16.658046'
-origin: Toronto, Ontario, Canada
+origin: 'Toronto, Ontario, Canada'
+artist_type: band
 ---
 
 ![](the_commoners.jpg)

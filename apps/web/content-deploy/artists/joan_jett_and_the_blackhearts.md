@@ -2,17 +2,18 @@
 title: Joan Jett & The Blackhearts
 wiki_slug: joan-jett-the-blackhearts
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1980'
 genres:
-- rock
+  - rock
 instruments:
-- eponymous
-- additional
-- drums (drum set)
+  - eponymous
+  - additional
+  - drums (drum set)
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/joan_jett_and_the_blackhearts.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/joan_jett_and_the_blackhearts.jpg
   caption: Joan Jett & The Blackhearts
   background: group_or_band
   born: '1980'
@@ -31,99 +32,99 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kenny Laguna
-  - Ricky Byrd
-  - Gary Ryan
-  - Lee Crystal
+    - Kenny Laguna
+    - Ricky Byrd
+    - Gary Ryan
+    - Lee Crystal
   influenced:
-  - Kathleen Hanna
-  - Green Day
-  - Miley Cyrus
+    - Kathleen Hanna
+    - Green Day
+    - Miley Cyrus
   mentors:
-  - Suzi Quatro
+    - Suzi Quatro
 spotify_data:
   followers: 1110251
   id: 1Fmb52lZ6Jv7FMWXXTPO3K
   popularity: 62
-  url: https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K
+  url: 'https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K'
 discography_enriched: true
 top_tracks:
-- I Love Rock 'N Roll (I Love Rock 'N' Roll (Expanded Edition))
-- Bad Reputation (Bad Reputation (Expanded Edition))
-- I Hate Myself for Loving You (Up Your Alley)
-- Crimson and Clover (I Love Rock 'N' Roll (Expanded Edition))
-- Bad Karma (feat. Joan Jett) (Plastic Hearts)
-- Do You Wanna Touch Me (Oh Yeah) (Bad Reputation (Expanded Edition))
-- Cherry Bomb (Glorious Results of a Misspent Youth (Expanded Edition))
-- Dirty Deeds (The Hit List)
-- You Don't Own Me (Bad Reputation (Expanded Edition))
-- I Love Rock 'N Roll (with Sex Pistols) (Flashback)
+  - I Love Rock 'N Roll (I Love Rock 'N' Roll (Expanded Edition))
+  - Bad Reputation (Bad Reputation (Expanded Edition))
+  - I Hate Myself for Loving You (Up Your Alley)
+  - Crimson and Clover (I Love Rock 'N' Roll (Expanded Edition))
+  - Bad Karma (feat. Joan Jett) (Plastic Hearts)
+  - Do You Wanna Touch Me (Oh Yeah) (Bad Reputation (Expanded Edition))
+  - Cherry Bomb (Glorious Results of a Misspent Youth (Expanded Edition))
+  - Dirty Deeds (The Hit List)
+  - You Don't Own Me (Bad Reputation (Expanded Edition))
+  - I Love Rock 'N Roll (with Sex Pistols) (Flashback)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/46e63d3b-d91b-4791-bb73-e9f638a45ea0
-  spotify: https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K
-  wikipedia: https://en.wikipedia.org/wiki/Joan_Jett_and_the_Blackhearts
+  musicbrainz: 'https://musicbrainz.org/artist/46e63d3b-d91b-4791-bb73-e9f638a45ea0'
+  spotify: 'https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K'
+  wikipedia: 'https://en.wikipedia.org/wiki/Joan_Jett_and_the_Blackhearts'
 image_path: 03_Resources/source_material/ArtistPortraits/joan_jett_and_the_blackhearts.jpg
 biography_enhanced_at: '2025-10-26T12:44:21.756812'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Joan_Jett_and_the_Blackhearts
-- https://en.wikipedia.org/wiki/Joan_Jett
-- https://www.philadelphiamusicalliance.org/walk-of-fame/joan-jett/
-- https://rockhall.com/inductees/joan-jett-blackhearts/
-- https://www.loudersound.com/features/joan-jett-story
+  - 'https://en.wikipedia.org/wiki/Joan_Jett_and_the_Blackhearts'
+  - 'https://en.wikipedia.org/wiki/Joan_Jett'
+  - 'https://www.philadelphiamusicalliance.org/walk-of-fame/joan-jett/'
+  - 'https://rockhall.com/inductees/joan-jett-blackhearts/'
+  - 'https://www.loudersound.com/features/joan-jett-story'
 network_extracted: true
 entry_created: '2025-10-26T12:44:21.756821'
 last_updated: '2025-12-23T08:16:10.558563'
 disambiguation: Joan Jett and the Blackhearts
 members:
-- &id001
-  begin: '2003'
-  end: ''
-  instruments: []
-  mbid: 13e2e9f4-b18f-474e-a5b7-a053d12981ca
-  name: Sami Yaffa
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: f376828a-b438-4fda-bb2e-dcd5fbe81f83
-  name: Joan Jett
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ff8b7dd3-57d9-4cfe-b75d-06f8ce8e4b1f
-  name: Kenny Laguna
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f53d7d14-f60c-45a6-b22c-1b0c7b5ed672
-  name: Hal B. Selzer
-- begin: ''
-  end: ''
-  instruments:
-  - additional
-  mbid: 05fcb8b5-7570-4baf-9a76-6a1c3614db35
-  name: Kasim Sulton
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 34be1387-ac7c-48c0-8e38-1e26ee03aef2
-  name: Lee Crystal
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a6670547-a7bd-4e21-b651-8397ea1cc055
-  name: Thommy Price
+  - &ref_0
+    begin: '2003'
+    end: ''
+    instruments: []
+    mbid: 13e2e9f4-b18f-474e-a5b7-a053d12981ca
+    name: Sami Yaffa
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: f376828a-b438-4fda-bb2e-dcd5fbe81f83
+    name: Joan Jett
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ff8b7dd3-57d9-4cfe-b75d-06f8ce8e4b1f
+    name: Kenny Laguna
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f53d7d14-f60c-45a6-b22c-1b0c7b5ed672
+    name: Hal B. Selzer
+  - begin: ''
+    end: ''
+    instruments:
+      - additional
+    mbid: 05fcb8b5-7570-4baf-9a76-6a1c3614db35
+    name: Kasim Sulton
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 34be1387-ac7c-48c0-8e38-1e26ee03aef2
+    name: Lee Crystal
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a6670547-a7bd-4e21-b651-8397ea1cc055
+    name: Thommy Price
 musicbrainz_id: 46e63d3b-d91b-4791-bb73-e9f638a45ea0
-origin: Los Angeles
+origin: 'Los Angeles, California, United States'
 original_members:
-- *id001
+  - *ref_0
 tags:
-- album rock
-- arena rock
-- classic rock
+  - album rock
+  - arena rock
+  - classic rock
 ---
 
 ![](joan_jett_and_the_blackhearts.jpg)

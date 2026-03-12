@@ -5,10 +5,10 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1908-10-21'
-birth_place: Tacoma
+birth_place: 'Tacoma, Washington, United States'
 death_date: '1956-05-20'
 genres:
-- christmas
+  - christmas
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/yogi_yorgesson.jpg
   caption: Yogi Yorgesson
@@ -31,45 +31,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Johnny Duffy Trio
+    - Johnny Duffy Trio
   influenced:
-  - Stan Boreson
-  - Doug Setterberg
+    - Stan Boreson
+    - Doug Setterberg
   mentors: []
 spotify_data:
   followers: 527
   id: 3BiqlaaScIXk1fvPCcPhrA
   popularity: 20
-  url: https://open.spotify.com/artist/3BiqlaaScIXk1fvPCcPhrA
+  url: 'https://open.spotify.com/artist/3BiqlaaScIXk1fvPCcPhrA'
 discography_enriched: true
 top_tracks:
-- I Yust Go Nuts At Christmas (Christmas Kisses)
-- I Yust Go Nuts At Christmas (I Want A Hippopotamus For Christmas)
-- The Christmas Party (78 Times Christmas)
-- I Just Go Nuts at Christmas Yogi Yorgesson (Christmas Comedy Classics)
-- I Yust Go Nuts At Christmas (The Happy Santa Comedy Christmas)
-- The Bees And The Birds (from "Comedy Caravan") (Comedy Caravan)
-- The Object Of My Affection (from "Comedy Caravan") (Comedy Caravan)
-- I Yust Go Nuts At Christmas (I Want a Hippopotamus for Christmas)
-- Yingle Bells (Backline X-Mas Edition 2008)
-- I Yust Go Nuts At Christmas (Backline X-Mas Edition 2008)
+  - I Yust Go Nuts At Christmas (Christmas Kisses)
+  - I Yust Go Nuts At Christmas (I Want A Hippopotamus For Christmas)
+  - The Christmas Party (78 Times Christmas)
+  - I Just Go Nuts at Christmas Yogi Yorgesson (Christmas Comedy Classics)
+  - I Yust Go Nuts At Christmas (The Happy Santa Comedy Christmas)
+  - The Bees And The Birds (from "Comedy Caravan") (Comedy Caravan)
+  - The Object Of My Affection (from "Comedy Caravan") (Comedy Caravan)
+  - I Yust Go Nuts At Christmas (I Want a Hippopotamus for Christmas)
+  - Yingle Bells (Backline X-Mas Edition 2008)
+  - I Yust Go Nuts At Christmas (Backline X-Mas Edition 2008)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/45701727-25d9-4607-86f5-bf6083280bfd
-  spotify: https://open.spotify.com/artist/3BiqlaaScIXk1fvPCcPhrA
-  wikipedia: https://en.wikipedia.org/wiki/Harry_Stewart
+  musicbrainz: 'https://musicbrainz.org/artist/45701727-25d9-4607-86f5-bf6083280bfd'
+  spotify: 'https://open.spotify.com/artist/3BiqlaaScIXk1fvPCcPhrA'
+  wikipedia: 'https://en.wikipedia.org/wiki/Harry_Stewart'
 image_path: ''
 biography_enhanced_at: '2025-12-21T01:22:31.795035'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Harry_Stewart
-- https://nafmp.csumc.wisc.edu/yogi-yorgesson/
-- https://hotpolkapie.wordpress.com/2018/12/13/yust-go-nuts-the-music-of-yogi-yorgesson/
+  - 'https://en.wikipedia.org/wiki/Harry_Stewart'
+  - 'https://nafmp.csumc.wisc.edu/yogi-yorgesson/'
+  - >-
+    https://hotpolkapie.wordpress.com/2018/12/13/yust-go-nuts-the-music-of-yogi-yorgesson/
 network_extracted: true
 entry_created: '2025-12-21T01:22:31.795042'
 last_updated: '2025-12-23T08:16:18.340189'
 gender: Male
 musicbrainz_id: 45701727-25d9-4607-86f5-bf6083280bfd
+is_active: false
 ---
 
 ![]()

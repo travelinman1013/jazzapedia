@@ -3,14 +3,14 @@ title: Yukimi & Little Dragon
 wiki_slug: yukimi-little-dragon
 schema_version: 2
 status: active
-birth_place: Gothenburg, Västra Götaland, Sweden
+birth_place: 'Gothenburg, Västra Götaland, Sweden'
 genres:
-- nu jazz
+  - nu jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Yukimi_and_Little_Dragon.jpg
   caption: Yukimi & Little Dragon
   background: solo_singer
-  origin: Gothenburg, Västra Götaland, Sweden
+  origin: 'Gothenburg, Västra Götaland, Sweden'
 audio_profile:
   tempo_avg: 127.7
   energy_avg: 0.59
@@ -26,52 +26,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Erik Bodin
-  - Fredrik Wallin
-  - Håkan Wirenstrand
-  - Gorillaz
-  - De La Soul
-  - DJ Shadow
-  - SBTRKT
-  - BADBADNOTGOOD
-  - Lianne La Havas
+    - Erik Bodin
+    - Fredrik Wallin
+    - Håkan Wirenstrand
+    - Gorillaz
+    - De La Soul
+    - DJ Shadow
+    - SBTRKT
+    - BADBADNOTGOOD
+    - Lianne La Havas
   influenced:
-  - Emerging nu jazz and electronic artists
+    - Emerging nu jazz and electronic artists
   mentors:
-  - American and Japanese musical traditions
+    - American and Japanese musical traditions
 spotify_data:
   followers: 4269
   id: 34U611pEEfxLSRX3NIPcHf
   popularity: 29
-  url: https://open.spotify.com/artist/34U611pEEfxLSRX3NIPcHf
+  url: 'https://open.spotify.com/artist/34U611pEEfxLSRX3NIPcHf'
 discography_enriched: true
 top_tracks:
-- Come to Me (Koop Islands)
-- Keep You Kimi (Moving On)
-- I See a Different You (Koop Islands)
-- Whenever There Is You (Koop Islands)
-- Come to Me (Koop Islands)
-- Whenever There Is You (Koop Islands)
-- I See a Different You (Koop Islands)
-- I Love You My Hope (Moving On)
-- Keep You Kimi - Plej Remix
-- Fading Blues (Moving On)
+  - Come to Me (Koop Islands)
+  - Keep You Kimi (Moving On)
+  - I See a Different You (Koop Islands)
+  - Whenever There Is You (Koop Islands)
+  - Come to Me (Koop Islands)
+  - Whenever There Is You (Koop Islands)
+  - I See a Different You (Koop Islands)
+  - I Love You My Hope (Moving On)
+  - Keep You Kimi - Plej Remix
+  - Fading Blues (Moving On)
 external_urls:
-  spotify: https://open.spotify.com/artist/34U611pEEfxLSRX3NIPcHf
-  wikipedia: https://en.wikipedia.org/wiki/Little_Dragon
+  spotify: 'https://open.spotify.com/artist/34U611pEEfxLSRX3NIPcHf'
+  wikipedia: 'https://en.wikipedia.org/wiki/Little_Dragon'
 image_path: 03_Resources/source_material/ArtistPortraits/Yukimi_and_Little_Dragon.jpg
 biography_enhanced_at: '2025-10-20T09:40:15.697925'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://yukimi-music.com/bio/
-- https://www.imdb.com/name/nm3538604/bio/
-- https://highhowareyou.com/study-broad-yukimi-nagano/
-- https://metalmagazine.eu/en/post/yukimi
-- https://phoenixmag.co.uk/article/electronica-with-a-human-heart-meet-little-dragon-lead-singer-yukimi-nagano/
+  - 'https://yukimi-music.com/bio/'
+  - 'https://www.imdb.com/name/nm3538604/bio/'
+  - 'https://highhowareyou.com/study-broad-yukimi-nagano/'
+  - 'https://metalmagazine.eu/en/post/yukimi'
+  - >-
+    https://phoenixmag.co.uk/article/electronica-with-a-human-heart-meet-little-dragon-lead-singer-yukimi-nagano/
 network_extracted: true
 entry_created: '2025-10-20T09:40:15.697937'
 last_updated: '2025-12-23T08:16:04.318736'
+origin: 'Gothenburg, Västra Götaland, Sweden'
+birth_date: '1982-01-31'
+artist_type: person
 ---
 
 ![](Yukimi_and_Little_Dragon.jpg)

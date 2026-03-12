@@ -1,93 +1,94 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2025-12-26T01:16:53.398327'
 birth_date: '1973'
 enhancement_provider: perplexity
 entry_created: '2025-12-26T01:16:53.398341'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/28b6ce62-5e14-443c-80b4-ebb8e04936e1
-  spotify: https://open.spotify.com/artist/3d4KAl1xvEw3akBK6CVCCA
-  wikipedia: https://en.wikipedia.org/wiki/Sweet_Honey_in_the_Rock
+  musicbrainz: 'https://musicbrainz.org/artist/28b6ce62-5e14-443c-80b4-ebb8e04936e1'
+  spotify: 'https://open.spotify.com/artist/3d4KAl1xvEw3akBK6CVCCA'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sweet_Honey_in_the_Rock'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/sweet_honey_in_the_rock.jpg
 instruments:
-- background vocals
+  - background vocals
 last_updated: '2025-12-26T01:16:53.398342'
 members:
-- begin: '1974'
-  end: '1978'
-  instruments: []
-  mbid: bbb682ee-293f-459f-9d46-9a5eb235e926
-  name: Dianaruthe Wharton Sennaar
-- &id001
-  begin: '1985'
-  end: ''
-  instruments: []
-  mbid: 42ba845c-4144-4a19-b864-bb283ed3669c
-  name: Nitanju Bolade Casel
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 02419616-e173-4463-9d50-04231e58bf0b
-  name: Ysaye M. Barnwell
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4d316cdf-1d0d-47d3-aa31-83c2276e5637
-  name: Aisha Kahlil
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4ce2502a-c32f-4edb-afa2-6cdd590abe9a
-  name: Carol Maillard
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: fc023062-d90e-4bf2-83d7-c115229cb403
-  name: Louise Robinson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3e767d19-1a45-4fab-b4c9-41e128e9bc23
-  name: Evelyn Maria Harris
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b196017c-c41f-4b3a-ae6d-641fac5e893b
-  name: Yasmeen Williams
+  - begin: '1974'
+    end: '1978'
+    instruments: []
+    mbid: bbb682ee-293f-459f-9d46-9a5eb235e926
+    name: Dianaruthe Wharton Sennaar
+  - &ref_0
+    begin: '1985'
+    end: ''
+    instruments: []
+    mbid: 42ba845c-4144-4a19-b864-bb283ed3669c
+    name: Nitanju Bolade Casel
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 02419616-e173-4463-9d50-04231e58bf0b
+    name: Ysaye M. Barnwell
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4d316cdf-1d0d-47d3-aa31-83c2276e5637
+    name: Aisha Kahlil
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4ce2502a-c32f-4edb-afa2-6cdd590abe9a
+    name: Carol Maillard
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: fc023062-d90e-4bf2-83d7-c115229cb403
+    name: Louise Robinson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3e767d19-1a45-4fab-b4c9-41e128e9bc23
+    name: Evelyn Maria Harris
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b196017c-c41f-4b3a-ae6d-641fac5e893b
+    name: Yasmeen Williams
 musical_connections:
   collaborators:
-  - Louise Robinson
-  - Carol Lynn Maillard
-  - Aisha Kahlil
-  - Nitanju Bolade Casel
-  - Shirley Childress Johnson Saxton
+    - Louise Robinson
+    - Carol Lynn Maillard
+    - Aisha Kahlil
+    - Nitanju Bolade Casel
+    - Shirley Childress Johnson Saxton
   influenced: []
   mentors:
-  - Bernice Johnson Reagon
+    - Bernice Johnson Reagon
 musicbrainz_id: 28b6ce62-5e14-443c-80b4-ebb8e04936e1
 network_extracted: true
-origin: Washington, D.C., United States
+origin: 'Washington, D.C., United States'
 original_members:
-- *id001
+  - *ref_0
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Sweet_Honey_in_the_Rock
-- https://www.womenshistory.org/education-resources/biographies/bernice-johnson-reagon
-- https://www.thehistorymakers.org/biography/bernice-johnson-reagon-39
-- https://sweethoneyintherock.org/about
-- https://blackpast.org/african-american-history/reagon-bernice-johnson-1942/
-- https://www.britannica.com/topic/Sweet-Honey-In-The-Rock
+  - 'https://en.wikipedia.org/wiki/Sweet_Honey_in_the_Rock'
+  - >-
+    https://www.womenshistory.org/education-resources/biographies/bernice-johnson-reagon
+  - 'https://www.thehistorymakers.org/biography/bernice-johnson-reagon-39'
+  - 'https://sweethoneyintherock.org/about'
+  - 'https://blackpast.org/african-american-history/reagon-bernice-johnson-1942/'
+  - 'https://www.britannica.com/topic/Sweet-Honey-In-The-Rock'
 spotify_data:
   followers: 28279
   id: 3d4KAl1xvEw3akBK6CVCCA
   popularity: 33
-  url: https://open.spotify.com/artist/3d4KAl1xvEw3akBK6CVCCA
+  url: 'https://open.spotify.com/artist/3d4KAl1xvEw3akBK6CVCCA'
 status: active
 tags:
-- a cappella
-- folk
-- gospel
+  - a cappella
+  - folk
+  - gospel
 title: Sweet Honey in the Rock
 ---
 

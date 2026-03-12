@@ -1,37 +1,37 @@
 ---
-title: erroll garner
+title: Erroll Garner
 wiki_slug: erroll-garner
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1921-06-15'
-birth_place: Pittsburgh
+birth_place: 'Pittsburgh, Pennsylvania, United States'
 death_date: '1977-01-07'
 genres:
-- jazz
-- cool jazz
+  - jazz
+  - cool jazz
 instruments:
-- original
-- piano
-- spoken vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ca702b71-3944-4a97-adc3-c5f162e085a2
-  name: Erroll Garner All Stars
-- begin: ''
-  end: ''
-  instruments:
   - original
-  mbid: f252e5a6-1a4b-41be-af84-8d8b6f339e9b
-  name: Erroll Garner Trio
-- begin: ''
-  end: ''
-  instruments:
   - piano
-  mbid: b3b97688-acd0-4789-b709-d6a7e564f445
-  name: Wardell Gray Quintet
+  - spoken vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ca702b71-3944-4a97-adc3-c5f162e085a2
+    name: Erroll Garner All Stars
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: f252e5a6-1a4b-41be-af84-8d8b6f339e9b
+    name: Erroll Garner Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: b3b97688-acd0-4789-b709-d6a7e564f445
+    name: Wardell Gray Quintet
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/erroll_garner.jpg
   caption: erroll garner
@@ -54,56 +54,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Charlie Parker
-  - Slam Stewart
-  - Martha Glaser
+    - Charlie Parker
+    - Slam Stewart
+    - Martha Glaser
   influenced:
-  - Ahmad Jamal
-  - Keith Jarrett
-  - Billy Taylor
+    - Ahmad Jamal
+    - Keith Jarrett
+    - Billy Taylor
   mentors:
-  - Fats Waller
-  - Art Tatum
+    - Fats Waller
+    - Art Tatum
 spotify_data:
   followers: 129769
   id: 6C65D20ASusYqHGSIktfED
   popularity: 48
-  url: https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED
+  url: 'https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED'
 discography_enriched: true
 top_tracks:
-- Misty - Remastered 2020 (Gemini (Octave Remastered Series))
-- I'm In The Mood For Love (The Complete Savoy Master Takes)
-- Misty (The Original Misty)
-- Misty (Plays Misty)
-- Laura (The Complete Savoy Master Takes)
-- I Only Have Eyes For You (The Complete Savoy Master Takes)
-- Misty (Ready Take One)
-- Laura (Long Ago And Far Away)
-- Penthouse Serenade (When We're Alone) (The Complete Savoy Master Takes)
-- Everything Happens To Me (The Complete Savoy Master Takes)
+  - Misty - Remastered 2020 (Gemini (Octave Remastered Series))
+  - I'm In The Mood For Love (The Complete Savoy Master Takes)
+  - Misty (The Original Misty)
+  - Misty (Plays Misty)
+  - Laura (The Complete Savoy Master Takes)
+  - I Only Have Eyes For You (The Complete Savoy Master Takes)
+  - Misty (Ready Take One)
+  - Laura (Long Ago And Far Away)
+  - Penthouse Serenade (When We're Alone) (The Complete Savoy Master Takes)
+  - Everything Happens To Me (The Complete Savoy Master Takes)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/75bd5186-9d89-4da9-95de-fce055c28895
-  spotify: https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED
-  wikipedia: https://en.wikipedia.org/wiki/Erroll_Garner
+  musicbrainz: 'https://musicbrainz.org/artist/75bd5186-9d89-4da9-95de-fce055c28895'
+  spotify: 'https://open.spotify.com/artist/6C65D20ASusYqHGSIktfED'
+  wikipedia: 'https://en.wikipedia.org/wiki/Erroll_Garner'
 image_path: 03_Resources/source_material/ArtistPortraits/erroll_garner.jpg
 biography_enhanced_at: '2025-10-30T12:00:13.575982'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.britannica.com/biography/Erroll-Garner
-- https://www.errollgarner.com
-- https://swingdancehome.com/en/erroll-garner-a-master-of-jazz-piano-and-improvisation/
-- https://www.bechstein.com/en/the-world-of-bechstein/pianists/erroll-garner/
-- https://digital.library.pitt.edu/islandora/object/pitt:US-PPiU-ais201509
+  - 'https://www.britannica.com/biography/Erroll-Garner'
+  - 'https://www.errollgarner.com'
+  - >-
+    https://swingdancehome.com/en/erroll-garner-a-master-of-jazz-piano-and-improvisation/
+  - 'https://www.bechstein.com/en/the-world-of-bechstein/pianists/erroll-garner/'
+  - 'https://digital.library.pitt.edu/islandora/object/pitt:US-PPiU-ais201509'
 network_extracted: true
 entry_created: '2025-10-30T12:00:13.575993'
 last_updated: '2025-12-23T08:16:08.449353'
 gender: Male
 musicbrainz_id: 75bd5186-9d89-4da9-95de-fce055c28895
 tags:
-- 2008 universal fire victim
-- erroll garner plays misty
-- jazz
+  - 2008 universal fire victim
+  - erroll garner plays misty
+  - jazz
+is_active: false
 ---
 
 ![](erroll_garner.jpg)

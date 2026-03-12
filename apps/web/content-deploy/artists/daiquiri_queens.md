@@ -4,8 +4,8 @@ wiki_slug: daiquiri-queens
 schema_version: 2
 status: active
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/daiquiri_queens.jpg
   caption: Daiquiri Queens
@@ -31,35 +31,38 @@ spotify_data:
   followers: 714
   id: 1EvzmKIeKrx3gpkWWe0uXO
   popularity: 3
-  url: https://open.spotify.com/artist/1EvzmKIeKrx3gpkWWe0uXO
+  url: 'https://open.spotify.com/artist/1EvzmKIeKrx3gpkWWe0uXO'
 discography_enriched: true
 top_tracks:
-- Chère bébé (The Daiquiri Queens)
-- Mes deux beaux-frères (The Daiquiri Queens)
-- La chanson de mardi gras (Delta Bound)
-- Plus tu tournes (The Daiquiri Queens)
-- Une femme avec un coeur cassé (The Daiquiri Queens)
-- Je t'aime toujours (The Daiquiri Queens)
-- Moi pour toi (The Daiquiri Queens)
-- J'ai passé dessous le pommier (The Daiquiri Queens)
-- Kingpin Special (The Daiquiri Queens)
-- I'll Always Take Care of You (The Daiquiri Queens)
+  - Chère bébé (The Daiquiri Queens)
+  - Mes deux beaux-frères (The Daiquiri Queens)
+  - La chanson de mardi gras (Delta Bound)
+  - Plus tu tournes (The Daiquiri Queens)
+  - Une femme avec un coeur cassé (The Daiquiri Queens)
+  - Je t'aime toujours (The Daiquiri Queens)
+  - Moi pour toi (The Daiquiri Queens)
+  - J'ai passé dessous le pommier (The Daiquiri Queens)
+  - Kingpin Special (The Daiquiri Queens)
+  - I'll Always Take Care of You (The Daiquiri Queens)
 external_urls:
-  spotify: https://open.spotify.com/artist/1EvzmKIeKrx3gpkWWe0uXO
+  spotify: 'https://open.spotify.com/artist/1EvzmKIeKrx3gpkWWe0uXO'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/daiquiri_queens.jpg
 biography_enhanced_at: '2025-12-15T01:22:17.742064'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://festivalsacadiens.com/artists/daiquiri-queens/
-- https://www.theadvertiser.com/story/entertainment/2019/04/24/daiquiri-queens-give-new-twist-traditional-cajun-music/3554830002/
-- https://artsfuse.org/257195/concert-review-the-2022-new-orleans-jazz-and-heritage-festival-the-blessed-return-of-musical-serendipity/
-- https://thedaiquiriqueens.bandcamp.com
+  - 'https://festivalsacadiens.com/artists/daiquiri-queens/'
+  - >-
+    https://www.theadvertiser.com/story/entertainment/2019/04/24/daiquiri-queens-give-new-twist-traditional-cajun-music/3554830002/
+  - >-
+    https://artsfuse.org/257195/concert-review-the-2022-new-orleans-jazz-and-heritage-festival-the-blessed-return-of-musical-serendipity/
+  - 'https://thedaiquiriqueens.bandcamp.com'
 network_extracted: true
 entry_created: '2025-12-15T01:22:17.742079'
 last_updated: '2025-12-23T08:16:07.389384'
-origin: South Louisiana, USA
+origin: 'South Louisiana, USA'
+artist_type: band
 ---
 
 ![](daiquiri_queens.jpg)

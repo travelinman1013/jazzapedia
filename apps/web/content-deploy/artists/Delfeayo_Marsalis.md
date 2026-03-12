@@ -2,19 +2,19 @@
 title: Delfeayo Marsalis
 wiki_slug: delfeayo-marsalis
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1965-07-28'
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- big band
-- jazz
+  - big band
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Delfeayo_Marsalis.jpg
   caption: Delfeayo Marsalis
   background: solo_singer
   born: '1965-07-28'
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 118.3
   energy_avg: 0.428
@@ -30,47 +30,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Wynton Marsalis
-  - Branford Marsalis
-  - Ellis Marsalis Jr.
-  - Uptown Jazz Orchestra
+    - Wynton Marsalis
+    - Branford Marsalis
+    - Ellis Marsalis Jr.
+    - Uptown Jazz Orchestra
   influenced:
-  - Students of Uptown Music Theatre
+    - Students of Uptown Music Theatre
   mentors:
-  - Ellis Marsalis Jr.
-  - J.J. Johnson
-  - Curtis Fuller
+    - Ellis Marsalis Jr.
+    - J.J. Johnson
+    - Curtis Fuller
 spotify_data:
   followers: 4602
   id: 7Mi7qbYfK4tS3Afa0L6fN0
   popularity: 9
-  url: https://open.spotify.com/artist/7Mi7qbYfK4tS3Afa0L6fN0
+  url: 'https://open.spotify.com/artist/7Mi7qbYfK4tS3Afa0L6fN0'
 discography_enriched: true
 top_tracks:
-- Autumn Leaves (The Last Southern Gentlemen)
-- 'Such Sweet Thunder (Sweet Thunder: Duke & Shak)'
-- Sidewalk Sizzle (Crescent City Jewels)
-- The Secret Love Affair (The Last Southern Gentlemen)
-- Uptown On Mardi Gras Day (Uptown on Mardi Gras Day)
-- Softly, As in a Morning Sunrise (This Time / Last Year)
-- Ooh Poo Pah Doo (Crescent City Jewels)
-- Midnight At The Zulu Ball (Uptown on Mardi Gras Day)
-- New Suit (Uptown on Mardi Gras Day)
-- A Sleepin’ Bee (Crescent City Jewels)
+  - Autumn Leaves (The Last Southern Gentlemen)
+  - 'Such Sweet Thunder (Sweet Thunder: Duke & Shak)'
+  - Sidewalk Sizzle (Crescent City Jewels)
+  - The Secret Love Affair (The Last Southern Gentlemen)
+  - Uptown On Mardi Gras Day (Uptown on Mardi Gras Day)
+  - 'Softly, As in a Morning Sunrise (This Time / Last Year)'
+  - Ooh Poo Pah Doo (Crescent City Jewels)
+  - Midnight At The Zulu Ball (Uptown on Mardi Gras Day)
+  - New Suit (Uptown on Mardi Gras Day)
+  - A Sleepin’ Bee (Crescent City Jewels)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d745400c-705b-4776-84ac-f23fc923104f
-  spotify: https://open.spotify.com/artist/7Mi7qbYfK4tS3Afa0L6fN0
-  wikipedia: https://en.wikipedia.org/wiki/Delfeayo_Marsalis
+  musicbrainz: 'https://musicbrainz.org/artist/d745400c-705b-4776-84ac-f23fc923104f'
+  spotify: 'https://open.spotify.com/artist/7Mi7qbYfK4tS3Afa0L6fN0'
+  wikipedia: 'https://en.wikipedia.org/wiki/Delfeayo_Marsalis'
 image_path: 03_Resources/source_material/ArtistPortraits/Delfeayo_Marsalis.jpg
 biography_enhanced_at: '2025-10-19T10:47:20.241062'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Delfeayo_Marsalis
-- https://cacno.org/artists/delfeayomarsalis
-- https://www.allaboutjazz.com/musicians/delfeayo-marsalis/
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/marsalis-delfeayo-1965
-- https://www.efperformances.com/delfeayo-marsalis
+  - 'https://en.wikipedia.org/wiki/Delfeayo_Marsalis'
+  - 'https://cacno.org/artists/delfeayomarsalis'
+  - 'https://www.allaboutjazz.com/musicians/delfeayo-marsalis/'
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/marsalis-delfeayo-1965
+  - 'https://www.efperformances.com/delfeayo-marsalis'
 network_extracted: true
 entry_created: '2025-10-19T10:47:20.241081'
 last_updated: '2025-12-23T08:16:01.720252'
@@ -79,8 +80,8 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:24:13.195625'
 musicbrainz_id: d745400c-705b-4776-84ac-f23fc923104f
 tags:
-- jazz
-- post-bop
+  - jazz
+  - post-bop
 ---
 
 ![](Delfeayo_Marsalis.jpg)

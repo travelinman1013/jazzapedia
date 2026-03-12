@@ -1,15 +1,16 @@
 ---
-title: Ella Fitzgerald & Louis Armstr
+title: Ella Fitzgerald & Louis Armstrong
 wiki_slug: ella-fitzgerald-louis-armstr
 schema_version: 2
 status: active
 genres:
-- swing music
-- vocal jazz
-- big band
-- jazz
+  - swing music
+  - vocal jazz
+  - big band
+  - jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/ella_fitzgerald_and_louis_armstr.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/ella_fitzgerald_and_louis_armstr.jpg
   caption: Ella Fitzgerald & Louis Armstr
   background: solo_singer
 audio_profile:
@@ -27,50 +28,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Oscar Peterson Quartet
-  - The Ink Spots
-  - Louis Jordan
-  - Bob Haggart's Orchestra
-  - Sy Oliver's Orchestra
-  - Count Basie
+    - Oscar Peterson Quartet
+    - The Ink Spots
+    - Louis Jordan
+    - Bob Haggart's Orchestra
+    - Sy Oliver's Orchestra
+    - Count Basie
   influenced: []
   mentors:
-  - Chick Webb
-  - Norman Granz
+    - Chick Webb
+    - Norman Granz
 spotify_data:
   followers: 16562
   id: 0ZXEk4WDiPwEkjG6pQ408i
   popularity: 24
-  url: https://open.spotify.com/artist/0ZXEk4WDiPwEkjG6pQ408i
+  url: 'https://open.spotify.com/artist/0ZXEk4WDiPwEkjG6pQ408i'
 discography_enriched: true
 top_tracks:
-- Cheek To Cheek (What A Wonderful Duet)
-- They Can't Take That Away From Me (What A Wonderful Duet)
-- Our Love Is Here To Stay (Tenderly)
-- Dream A Little Dream Of Me (What A Wonderful Duet)
-- Can Anyone Explain?
-- On The Sunny Side of The Street (New Orleans Alone)
-- Summertime
-- Stormy Weather (Tenderly)
-- A Fine Romance - Remastered (Ella & Louis (Remastered))
-- You Say Tomato, I say Tomato (Tenderly)
+  - Cheek To Cheek (What A Wonderful Duet)
+  - They Can't Take That Away From Me (What A Wonderful Duet)
+  - Our Love Is Here To Stay (Tenderly)
+  - Dream A Little Dream Of Me (What A Wonderful Duet)
+  - Can Anyone Explain?
+  - On The Sunny Side of The Street (New Orleans Alone)
+  - Summertime
+  - Stormy Weather (Tenderly)
+  - A Fine Romance - Remastered (Ella & Louis (Remastered))
+  - 'You Say Tomato, I say Tomato (Tenderly)'
 external_urls:
-  spotify: https://open.spotify.com/artist/0ZXEk4WDiPwEkjG6pQ408i
-  wikipedia: https://en.wikipedia.org/wiki/Ella_Fitzgerald_and_Louis_Armstrong_collaborations
-image_path: 03_Resources/source_material/ArtistPortraits/ella_fitzgerald_and_louis_armstr.jpg
+  spotify: 'https://open.spotify.com/artist/0ZXEk4WDiPwEkjG6pQ408i'
+  wikipedia: >-
+    https://en.wikipedia.org/wiki/Ella_Fitzgerald_and_Louis_Armstrong_collaborations
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/ella_fitzgerald_and_louis_armstr.jpg
 biography_enhanced_at: '2025-11-29T06:54:39.166677'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- 'Wikipedia: Ella Fitzgerald and Louis Armstrong collaborations'
-- 'Long Reads: The Story of ''Ella and Louis,'' 60 Years Later'
-- 'TIME: Top 10 Musical Collaborations'
-- 'uDiscoverMusic: Ella And Louis: Jazz Music''s Perfect Partnership'
-- 'Albumism: Revisiting Ella Fitzgerald & Louis Armstrong''s ''Ella and Louis'''
-- 'Louis Armstrong House Museum: Behind the Song'
+  - 'Wikipedia: Ella Fitzgerald and Louis Armstrong collaborations'
+  - 'Long Reads: The Story of ''Ella and Louis,'' 60 Years Later'
+  - 'TIME: Top 10 Musical Collaborations'
+  - 'uDiscoverMusic: Ella And Louis: Jazz Music''s Perfect Partnership'
+  - 'Albumism: Revisiting Ella Fitzgerald & Louis Armstrong''s ''Ella and Louis'''
+  - 'Louis Armstrong House Museum: Behind the Song'
 network_extracted: true
 entry_created: '2025-11-29T06:54:39.166688'
 last_updated: '2025-12-23T08:16:08.316914'
+origin: >-
+  Not applicable - this is a musical collaboration between two individual
+  artists
+artist_type: band
 ---
 
 ![](ella_fitzgerald_and_louis_armstr.jpg)

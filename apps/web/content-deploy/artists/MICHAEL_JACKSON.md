@@ -1,11 +1,11 @@
 ---
-title: MICHAEL JACKSON
+title: Michael Jackson
 wiki_slug: michael-jackson
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1958-08-29'
-birth_place: Gary, Indiana, United States
+birth_place: 'Gary, Indiana, United States'
 death_date: '2009-06-25'
 genres: []
 infobox:
@@ -13,7 +13,7 @@ infobox:
   caption: MICHAEL JACKSON
   background: solo_singer
   born: '1958-08-29'
-  origin: Gary, Indiana, United States
+  origin: 'Gary, Indiana, United States'
   died: '2009-06-25'
 audio_profile:
   tempo_avg: 112.7
@@ -22,7 +22,7 @@ audio_profile:
   danceability_avg: 0.732
   acousticness_avg: 0.216
   instrumentalness_avg: 0.04
-  loudness_avg: -7.0
+  loudness_avg: -7
   speechiness_avg: 0.076
   liveness_avg: 0.204
   track_count: 67
@@ -30,45 +30,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Quincy Jones
-  - Paul McCartney
-  - Jackson 5
+    - Quincy Jones
+    - Paul McCartney
+    - Jackson 5
   influenced:
-  - Usher
-  - Justin Timberlake
-  - Beyoncé
+    - Usher
+    - Justin Timberlake
+    - Beyoncé
   mentors:
-  - James Brown
-  - Diana Ross
+    - James Brown
+    - Diana Ross
 spotify_data:
   followers: 37269904
   id: 3fMbdgg4jU18AjLCKBhRSm
   popularity: 83
-  url: https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm
+  url: 'https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm'
 discography_enriched: true
 top_tracks:
-- Billie Jean (Thriller)
-- Rock with You - Single Version (Off the Wall)
-- Beat It (Thriller)
-- Chicago (XSCAPE)
-- Don't Stop 'Til You Get Enough (Off the Wall)
-- Billie Jean (Thriller 25 Super Deluxe Edition)
-- Smooth Criminal - 2012 Remaster (Bad (Remastered))
-- P.Y.T. (Pretty Young Thing) (Thriller)
-- They Don't Care About Us (HIStory - PAST, PRESENT AND FUTURE - BOOK I)
-- Remember the Time (Dangerous)
+  - Billie Jean (Thriller)
+  - Rock with You - Single Version (Off the Wall)
+  - Beat It (Thriller)
+  - Chicago (XSCAPE)
+  - Don't Stop 'Til You Get Enough (Off the Wall)
+  - Billie Jean (Thriller 25 Super Deluxe Edition)
+  - Smooth Criminal - 2012 Remaster (Bad (Remastered))
+  - P.Y.T. (Pretty Young Thing) (Thriller)
+  - 'They Don''t Care About Us (HIStory - PAST, PRESENT AND FUTURE - BOOK I)'
+  - Remember the Time (Dangerous)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f27ec8db-af05-4f36-916e-3d57f91ecf5e
-  spotify: https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm
-  wikipedia: https://en.wikipedia.org/wiki/Michael_Jackson
+  musicbrainz: 'https://musicbrainz.org/artist/f27ec8db-af05-4f36-916e-3d57f91ecf5e'
+  spotify: 'https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm'
+  wikipedia: 'https://en.wikipedia.org/wiki/Michael_Jackson'
 image_path: 03_Resources/source_material/ArtistPortraits/MICHAEL_JACKSON.jpg
 biography_enhanced_at: '2025-10-19T11:41:16.497337'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Michael_Jackson
-- https://www.britannica.com/biography/Michael-Jackson
-- https://historycooperative.org/michael-jackson-bio/
+  - 'https://en.wikipedia.org/wiki/Michael_Jackson'
+  - 'https://www.britannica.com/biography/Michael-Jackson'
+  - 'https://historycooperative.org/michael-jackson-bio/'
 network_extracted: true
 entry_created: '2025-10-19T11:41:16.497359'
 last_updated: '2025-12-23T08:16:03.127957'
@@ -77,9 +77,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:36:26.794973'
 musicbrainz_id: f27ec8db-af05-4f36-916e-3d57f91ecf5e
 tags:
-- american
-- boogie
-- contemporary r&b
+  - american
+  - boogie
+  - contemporary r&b
+is_active: false
 ---
 
 ![](MICHAEL_JACKSON.jpg)

@@ -5,12 +5,12 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1986-11-07'
-birth_place: Columbia
+birth_place: 'Columbia, South Carolina, United States'
 genres:
-- psychedelic rock
+  - psychedelic rock
 instruments:
-- guitar
-- lead vocals
+  - guitar
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/chaz_bundick.jpg
   caption: Chaz Bundick
@@ -32,61 +32,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Mattson 2
-  - Flume
-  - Washed Out (Ernest Greene)
-  - Rome Fortune
-  - Washed Out (as guest on "Samantha")
-  - Phoenix, Caribou, The Ruby Suns (touring associations)
+    - The Mattson 2
+    - Flume
+    - Washed Out (Ernest Greene)
+    - Rome Fortune
+    - Washed Out (as guest on "Samantha")
+    - 'Phoenix, Caribou, The Ruby Suns (touring associations)'
   influenced:
-  - Washed Out and Neon Indian (scene peers often grouped with him)
-  - Younger chillwave/bedroom-pop and neo-psychedelic artists (general)
+    - Washed Out and Neon Indian (scene peers often grouped with him)
+    - Younger chillwave/bedroom-pop and neo-psychedelic artists (general)
   mentors:
-  - Michael Jackson
-  - Elvis Costello
-  - My Bloody Valentine
-  - J Dilla
-  - French house producers (general)
-  - Piero Umiliani and François de Roubaix
+    - Michael Jackson
+    - Elvis Costello
+    - My Bloody Valentine
+    - J Dilla
+    - French house producers (general)
+    - Piero Umiliani and François de Roubaix
 spotify_data:
   followers: 9397
   id: 57ZTzIn5GLxNLzWgnTTcHj
   popularity: 47
-  url: https://open.spotify.com/artist/57ZTzIn5GLxNLzWgnTTcHj
+  url: 'https://open.spotify.com/artist/57ZTzIn5GLxNLzWgnTTcHj'
 discography_enriched: true
 top_tracks:
-- FUCKING YOUNG / PERFECT (feat. Charlie Wilson, Chaz Bundick, Sydney Bennett & Kali Uchis) (Cherry Bomb)
-- FUCKING YOUNG / PERFECT (feat. Charlie Wilson, Chaz Bundick, Sydney Bennett & Kali Uchis) (Cherry Bomb + Instrumentals)
-- RUN (feat. Chaz Bundick & ScHoolboy Q) (Cherry Bomb)
-- JBS (Star Stuff)
-- RUN (feat. Chaz Bundick & ScHoolboy Q) (Cherry Bomb + Instrumentals)
-- Don't Blame Yourself (Star Stuff)
-- JBS (Star Stuff)
-- Star Stuff (Star Stuff)
-- Lovely (Trance Zen Dental Spa)
-- Sonmoi (Star Stuff)
+  - >-
+    FUCKING YOUNG / PERFECT (feat. Charlie Wilson, Chaz Bundick, Sydney Bennett
+    & Kali Uchis) (Cherry Bomb)
+  - >-
+    FUCKING YOUNG / PERFECT (feat. Charlie Wilson, Chaz Bundick, Sydney Bennett
+    & Kali Uchis) (Cherry Bomb + Instrumentals)
+  - RUN (feat. Chaz Bundick & ScHoolboy Q) (Cherry Bomb)
+  - JBS (Star Stuff)
+  - RUN (feat. Chaz Bundick & ScHoolboy Q) (Cherry Bomb + Instrumentals)
+  - Don't Blame Yourself (Star Stuff)
+  - JBS (Star Stuff)
+  - Star Stuff (Star Stuff)
+  - Lovely (Trance Zen Dental Spa)
+  - Sonmoi (Star Stuff)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/05e293d2-9ba9-47c3-9c71-5fe7b9a0be13
-  spotify: https://open.spotify.com/artist/57ZTzIn5GLxNLzWgnTTcHj
-  wikipedia: https://en.wikipedia.org/wiki/Toro_y_Moi
+  musicbrainz: 'https://musicbrainz.org/artist/05e293d2-9ba9-47c3-9c71-5fe7b9a0be13'
+  spotify: 'https://open.spotify.com/artist/57ZTzIn5GLxNLzWgnTTcHj'
+  wikipedia: 'https://en.wikipedia.org/wiki/Toro_y_Moi'
 image_path: 03_Resources/source_material/ArtistPortraits/chaz_bundick.jpg
 biography_enhanced_at: '2025-12-09T04:23:04.885917'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Toro_y_Moi
-- https://www.carparkrecords.com/artists/toro-y-moi/
-- https://www.toroymoitour.com/biography/
-- https://www.last.fm/music/Toro+y+Moi/+wiki
-- https://kids.kiddle.co/Toro_y_Moi
-- https://www.conorherbert.com/music/the-many-shades-of-toro-y-moi
-- https://es.laphil.com/musicdb/artists/6680/toro-y-moi
+  - 'https://en.wikipedia.org/wiki/Toro_y_Moi'
+  - 'https://www.carparkrecords.com/artists/toro-y-moi/'
+  - 'https://www.toroymoitour.com/biography/'
+  - 'https://www.last.fm/music/Toro+y+Moi/+wiki'
+  - 'https://kids.kiddle.co/Toro_y_Moi'
+  - 'https://www.conorherbert.com/music/the-many-shades-of-toro-y-moi'
+  - 'https://es.laphil.com/musicdb/artists/6680/toro-y-moi'
 network_extracted: true
 entry_created: '2025-12-09T04:23:04.885926'
 last_updated: '2025-12-23T08:16:06.792494'
 gender: Male
 musicbrainz_id: 05e293d2-9ba9-47c3-9c71-5fe7b9a0be13
-
 ---
 
 ![](chaz_bundick.jpg)

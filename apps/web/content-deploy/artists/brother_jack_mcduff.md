@@ -1,18 +1,18 @@
 ---
-title: Brother Jack McDuff`
+title: Brother Jack McDuff
 wiki_slug: brother-jack-mcduff
 schema_version: 2
 status: active
-birth_place: Champaign, Illinois, United States
+birth_place: 'Champaign, Illinois, United States'
 genres:
-- soul jazz
-- jazz funk
-- hard bop
+  - soul jazz
+  - jazz funk
+  - hard bop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/brother_jack_mcduff.jpg
   caption: Brother Jack McDuff`
   background: solo_singer
-  origin: Champaign, Illinois, United States
+  origin: 'Champaign, Illinois, United States'
 audio_profile:
   tempo_avg: null
   energy_avg: null
@@ -24,42 +24,44 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - George Benson
-  - Red Holloway
-  - Joe Dukes
-  - Grant Green
-  - Jimmy Forrest
-  - Gene Ammons
-  - Kenny Burrell
+    - George Benson
+    - Red Holloway
+    - Joe Dukes
+    - Grant Green
+    - Jimmy Forrest
+    - Gene Ammons
+    - Kenny Burrell
   influenced:
-  - George Benson
+    - George Benson
   mentors:
-  - Willis Jackson
-  - Joe Farrell
+    - Willis Jackson
+    - Joe Farrell
 spotify_data:
   followers: 54
   id: 292xHfsrtvMlExmRCH8cmj
   popularity: 2
-  url: https://open.spotify.com/artist/292xHfsrtvMlExmRCH8cmj
+  url: 'https://open.spotify.com/artist/292xHfsrtvMlExmRCH8cmj'
 discography_enriched: true
 external_urls:
-  spotify: https://open.spotify.com/artist/292xHfsrtvMlExmRCH8cmj
-  wikipedia: https://en.wikipedia.org/wiki/Jack_McDuff
+  spotify: 'https://open.spotify.com/artist/292xHfsrtvMlExmRCH8cmj'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jack_McDuff'
 image_path: 03_Resources/source_material/ArtistPortraits/brother_jack_mcduff.jpg
 biography_enhanced_at: '2025-11-26T07:50:59.618332'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Jack McDuff
-- Blue Note Records - Brother Jack McDuff
-- AllMusic - Jack McDuff
-- Jazz 88 - Brother Jack McDuff Artist of the Week
-- African American Heritage Trail - Brother Jack McDuff
-- Last.fm - Jack McDuff Biography
-- 'JazzTimes - Brother Jack McDuff: Brotherly Love'
+  - Wikipedia - Jack McDuff
+  - Blue Note Records - Brother Jack McDuff
+  - AllMusic - Jack McDuff
+  - Jazz 88 - Brother Jack McDuff Artist of the Week
+  - African American Heritage Trail - Brother Jack McDuff
+  - Last.fm - Jack McDuff Biography
+  - 'JazzTimes - Brother Jack McDuff: Brotherly Love'
 network_extracted: true
 entry_created: '2025-11-26T07:50:59.618340'
 last_updated: '2025-12-23T08:16:06.120082'
+birth_date: '1926-09-17'
+artist_type: person
 ---
 
 ![](brother_jack_mcduff.jpg)

@@ -2,25 +2,25 @@
 title: J Dilla
 wiki_slug: j-dilla
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1974-02-07'
-birth_place: Detroit, Michigan, United States
+birth_place: 'Detroit, Michigan, United States'
 death_date: '2006-02-10'
 genres:
-- alternative hip hop
-- jazz rap
+  - alternative hip hop
+  - jazz rap
 instruments:
-- original
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/J_Dilla.jpg
   caption: J Dilla
   background: non_vocal_instrumentalist
   born: '1974-02-07'
-  origin: Detroit, Michigan, United States
+  origin: 'Detroit, Michigan, United States'
   died: '2006-02-10'
 audio_profile:
-  tempo_avg: 120.0
+  tempo_avg: 120
   energy_avg: 0.64
   valence_avg: 0.541
   danceability_avg: 0.561
@@ -34,48 +34,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Slum Village (Baatin, T3)
-  - The Soulquarians (Questlove, D’Angelo, Erykah Badu, Common, others)
-  - The Ummah (Q-Tip, Ali Shaheed Muhammad)
-  - The Pharcyde
+    - 'Slum Village (Baatin, T3)'
+    - 'The Soulquarians (Questlove, D’Angelo, Erykah Badu, Common, others)'
+    - 'The Ummah (Q-Tip, Ali Shaheed Muhammad)'
+    - The Pharcyde
   influenced:
-  - Kanye West
-  - Flying Lotus
-  - Questlove
-  - Hiatus Kaiyote
+    - Kanye West
+    - Flying Lotus
+    - Questlove
+    - Hiatus Kaiyote
   mentors:
-  - Q-Tip
+    - Q-Tip
 spotify_data:
   followers: 761830
   id: 0IVcLMMbm05VIjnzPkGCyp
   popularity: 53
-  url: https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp
+  url: 'https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp'
 discography_enriched: true
 top_tracks:
-- GAZZILLION EAR (BORN LIKE THIS)
-- Don't Cry (Donuts)
-- So Far to Go (The Shining)
-- U-Love (Donuts)
-- 'Time: The Donut of the Heart (Donuts)'
-- Won't Do (The Shining)
-- Workinonit (Donuts)
-- Stop (Donuts)
-- Two Can Win (Donuts)
-- She Said - Jay Dee Remix (Phroduced By J Dilla)
+  - GAZZILLION EAR (BORN LIKE THIS)
+  - Don't Cry (Donuts)
+  - So Far to Go (The Shining)
+  - U-Love (Donuts)
+  - 'Time: The Donut of the Heart (Donuts)'
+  - Won't Do (The Shining)
+  - Workinonit (Donuts)
+  - Stop (Donuts)
+  - Two Can Win (Donuts)
+  - She Said - Jay Dee Remix (Phroduced By J Dilla)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/cbcbb22c-3a8d-46af-b4ba-09c98f0d7931
-  spotify: https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp
-  wikipedia: https://en.wikipedia.org/wiki/J_Dilla
+  musicbrainz: 'https://musicbrainz.org/artist/cbcbb22c-3a8d-46af-b4ba-09c98f0d7931'
+  spotify: 'https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp'
+  wikipedia: 'https://en.wikipedia.org/wiki/J_Dilla'
 image_path: 03_Resources/source_material/ArtistPortraits/J_Dilla.jpg
 biography_enhanced_at: '2025-10-20T10:32:02.217298'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://nmaahc.si.edu/explore/stories/j-dillas-distinctive-sound
-- https://www.theculturecrypt.com/posts/j-dilla-legacy-article
-- https://ethnomusicologyreview.ucla.edu/content/review-dilla-time-life-and-afterlife-j-dilla-hip-hop-producer-who-reinvented-rhythm
-- http://hiphopgoldenage.com/artists/j-dilla/
-- https://dillati.me
+  - 'https://nmaahc.si.edu/explore/stories/j-dillas-distinctive-sound'
+  - 'https://www.theculturecrypt.com/posts/j-dilla-legacy-article'
+  - >-
+    https://ethnomusicologyreview.ucla.edu/content/review-dilla-time-life-and-afterlife-j-dilla-hip-hop-producer-who-reinvented-rhythm
+  - 'http://hiphopgoldenage.com/artists/j-dilla/'
+  - 'https://dillati.me'
 network_extracted: true
 entry_created: '2025-10-20T10:32:02.217303'
 last_updated: '2025-12-23T08:16:02.397437'
@@ -84,9 +85,11 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:30:18.300257'
 musicbrainz_id: cbcbb22c-3a8d-46af-b4ba-09c98f0d7931
 tags:
-- beats
-- experimental
-- experimental hip hop
+  - beats
+  - experimental
+  - experimental hip hop
+is_active: false
+origin: 'Detroit, Michigan, United States'
 ---
 
 ![](J_Dilla.jpg)

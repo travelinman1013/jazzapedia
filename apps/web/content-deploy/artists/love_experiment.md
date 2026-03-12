@@ -4,7 +4,7 @@ wiki_slug: love-experiment
 schema_version: 2
 status: active
 genres:
-- j-r&b
+  - j-r&b
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/love_experiment.jpg
   caption: Love Experiment
@@ -16,7 +16,7 @@ audio_profile:
   danceability_avg: 0.552
   acousticness_avg: 0.35
   instrumentalness_avg: 0.15
-  loudness_avg: -8.0
+  loudness_avg: -8
   speechiness_avg: 0.138
   liveness_avg: 0.187
   track_count: 50
@@ -24,50 +24,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - JSWISS
-  - J. Hoard
-  - Pink Siifu
-  - C-Red
+    - JSWISS
+    - J. Hoard
+    - Pink Siifu
+    - C-Red
   influenced:
-  - NYC underground jam scene artists
+    - NYC underground jam scene artists
   mentors:
-  - J Dilla
-  - Erykah Badu
-  - Flying Lotus
-  - Robert Glasper
+    - J Dilla
+    - Erykah Badu
+    - Flying Lotus
+    - Robert Glasper
 spotify_data:
   followers: 1400
   id: 77mMrOLtzvOecW4MGbKwRG
   popularity: 16
-  url: https://open.spotify.com/artist/77mMrOLtzvOecW4MGbKwRG
+  url: 'https://open.spotify.com/artist/77mMrOLtzvOecW4MGbKwRG'
 discography_enriched: true
 top_tracks:
-- Baby Can't You See (BINARY)
-- The World Looks So Brand New (BINARY)
-- Crazy Love (BINARY)
-- Who's Gonna Save the World (Who's Gonna Save the World)
-- Baby Can't You See (BINARY)
-- You (BINARY)
-- Beat-Lude Pt. 1 (BINARY)
-- Fragile Ego (BINARY)
-- Atonement (BINARY)
-- Summer Jawn (BINARY)
+  - Baby Can't You See (BINARY)
+  - The World Looks So Brand New (BINARY)
+  - Crazy Love (BINARY)
+  - Who's Gonna Save the World (Who's Gonna Save the World)
+  - Baby Can't You See (BINARY)
+  - You (BINARY)
+  - Beat-Lude Pt. 1 (BINARY)
+  - Fragile Ego (BINARY)
+  - Atonement (BINARY)
+  - Summer Jawn (BINARY)
 external_urls:
-  spotify: https://open.spotify.com/artist/77mMrOLtzvOecW4MGbKwRG
+  spotify: 'https://open.spotify.com/artist/77mMrOLtzvOecW4MGbKwRG'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/love_experiment.jpg
 biography_enhanced_at: '2025-11-08T22:01:03.333304'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://www.blueingreenradio.com/2017/01/the-love-experiment-proving-theory.html
-- https://www.thewordisbond.com/the-love-experiment-offers-a-deep-conversation-about-whos-gonna-save-the-world/
-- https://nessradio.com/2017/02/the-love-experiment-by-the-love-experiment/
-- https://www.tracklib.com/music/artists/the-love-experiment
+  - >-
+    http://www.blueingreenradio.com/2017/01/the-love-experiment-proving-theory.html
+  - >-
+    https://www.thewordisbond.com/the-love-experiment-offers-a-deep-conversation-about-whos-gonna-save-the-world/
+  - 'https://nessradio.com/2017/02/the-love-experiment-by-the-love-experiment/'
+  - 'https://www.tracklib.com/music/artists/the-love-experiment'
 network_extracted: true
 entry_created: '2025-11-08T22:01:03.333320'
 last_updated: '2025-12-23T08:16:12.293363'
-origin: Boston, Massachusetts, USA (formed); New York City, New York, USA (current base)
+origin: >-
+  Boston, Massachusetts, USA (formed); New York City, New York, USA (current
+  base)
+artist_type: band
 ---
 
 ![](love_experiment.jpg)

@@ -5,29 +5,29 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1981-03-29'
-birth_place: New Orleans
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- neo soul
+  - neo soul
 instruments:
-- background vocals
-- keyboard
-- piano
-- vocal
-- lead vocals
-- other vocals
-associated_acts:
-- begin: '2012'
-  end: ''
-  instruments:
   - background vocals
-  mbid: 0ab49580-c84f-44d4-875f-d83760ea2cfe
-  name: Maroon 5
-- begin: '2012'
-  end: ''
-  instruments:
   - keyboard
-  mbid: 0ab49580-c84f-44d4-875f-d83760ea2cfe
-  name: Maroon 5
+  - piano
+  - vocal
+  - lead vocals
+  - other vocals
+associated_acts:
+  - begin: '2012'
+    end: ''
+    instruments:
+      - background vocals
+    mbid: 0ab49580-c84f-44d4-875f-d83760ea2cfe
+    name: Maroon 5
+  - begin: '2012'
+    end: ''
+    instruments:
+      - keyboard
+    mbid: 0ab49580-c84f-44d4-875f-d83760ea2cfe
+    name: Maroon 5
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/pj_morton.jpg
   caption: Pj Morton
@@ -49,54 +49,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Maroon 5
-  - JoJo
-  - Stevie Wonder
-  - Nas
-  - Lil Wayne
-  - Erykah Badu
+    - Maroon 5
+    - JoJo
+    - Stevie Wonder
+    - Nas
+    - Lil Wayne
+    - Erykah Badu
   influenced:
-  - Jon Batiste
+    - Jon Batiste
   mentors:
-  - Paul S. Morton Sr.
-  - Stevie Wonder
+    - Paul S. Morton Sr.
+    - Stevie Wonder
 spotify_data:
   followers: 310562
   id: 2FMOHE79X98yptp4RpPrt7
   popularity: 54
-  url: https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7
+  url: 'https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7'
 discography_enriched: true
 top_tracks:
-- How Deep Is Your Love (feat. Yebba) - Live (Gumbo Unplugged (Live))
-- How Deep Is Your Love (Gumbo)
-- Good Morning (feat. Susan Carol)
-- SAY SO (feat. JoJo) (PAUL)
-- BUILT FOR LOVE (feat. Jazmine Sullivan) (PAUL)
-- I Can't Wait
-- READY - Acoustic Version (The Piano Album)
-- Over and Over
-- First Began (Gumbo)
-- Hope & Love
+  - How Deep Is Your Love (feat. Yebba) - Live (Gumbo Unplugged (Live))
+  - How Deep Is Your Love (Gumbo)
+  - Good Morning (feat. Susan Carol)
+  - SAY SO (feat. JoJo) (PAUL)
+  - BUILT FOR LOVE (feat. Jazmine Sullivan) (PAUL)
+  - I Can't Wait
+  - READY - Acoustic Version (The Piano Album)
+  - Over and Over
+  - First Began (Gumbo)
+  - Hope & Love
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d0bb100a-c0d6-4ef7-bde2-cc5095a31d24
-  spotify: https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7
-  wikipedia: https://en.wikipedia.org/wiki/PJ_Morton
+  musicbrainz: 'https://musicbrainz.org/artist/d0bb100a-c0d6-4ef7-bde2-cc5095a31d24'
+  spotify: 'https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7'
+  wikipedia: 'https://en.wikipedia.org/wiki/PJ_Morton'
 image_path: 03_Resources/source_material/ArtistPortraits/pj_morton.jpg
 biography_enhanced_at: '2025-10-29T16:49:53.502541'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/PJ_Morton
-- https://www.essence.com/entertainment/pj-morton-on-why-he-considers-himself-a-soul-artist/
-- https://thewallis.org/morton
-- https://www.flaunt.com/blog/pj-morton
+  - 'https://en.wikipedia.org/wiki/PJ_Morton'
+  - >-
+    https://www.essence.com/entertainment/pj-morton-on-why-he-considers-himself-a-soul-artist/
+  - 'https://thewallis.org/morton'
+  - 'https://www.flaunt.com/blog/pj-morton'
 network_extracted: true
 entry_created: '2025-10-29T16:49:53.502550'
 last_updated: '2025-12-23T08:16:14.353489'
 gender: Male
 musicbrainz_id: d0bb100a-c0d6-4ef7-bde2-cc5095a31d24
 tags:
-- soul
+  - soul
 ---
 
 ![](pj_morton.jpg)

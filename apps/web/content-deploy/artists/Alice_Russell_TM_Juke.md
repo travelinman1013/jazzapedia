@@ -1,21 +1,21 @@
 ---
-title: Alice Russell, TM Juke
+title: 'Alice Russell, TM Juke'
 wiki_slug: alice-russell-tm-juke
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
-birth_place: Brighton, East Sussex, England (for Alice Russell and TM Juke)
+birth_place: 'Suffolk, England, United Kingdom'
 genres:
-- jazz blues
-- nu jazz
-- retro soul
+  - jazz blues
+  - nu jazz
+  - retro soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Alice_Russell_TM_Juke.jpg
-  caption: Alice Russell, TM Juke
+  caption: 'Alice Russell, TM Juke'
   background: solo_singer
-  origin: Brighton, East Sussex, England (for Alice Russell and TM Juke)
+  origin: 'Brighton, East Sussex, England (for Alice Russell and TM Juke)'
 audio_profile:
-  tempo_avg: 112.0
+  tempo_avg: 112
   energy_avg: 0.585
   valence_avg: 0.594
   danceability_avg: 0.712
@@ -29,44 +29,44 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - TM Juke
-  - Quantic
-  - Bah Samba
+    - TM Juke
+    - Quantic
+    - Bah Samba
   influenced:
-  - Not specified
+    - Not specified
   mentors:
-  - Minnie Ripperton
-  - Chaka Khan
-  - Aretha Franklin
+    - Minnie Ripperton
+    - Chaka Khan
+    - Aretha Franklin
 spotify_data:
   followers: 79591
   id: 1ga4lWS7NtKo4r9jNSWumc
   popularity: 44
-  url: https://open.spotify.com/artist/1ga4lWS7NtKo4r9jNSWumc
+  url: 'https://open.spotify.com/artist/1ga4lWS7NtKo4r9jNSWumc'
 discography_enriched: true
 top_tracks:
-- Pushin On (Pushin On)
-- Citizens (To Dust)
-- Playground Games (Maps from the Wilderness)
-- Hurry on Now - Boub Remix (Under the Munka Moon, Pt. 2)
-- High Up On the Hook (My Favourite Letters)
-- Knee Deep (Maps from the Wilderness)
-- Travelling Song (Look Around the Corner)
-- Humankind (My Favourite Letters)
-- Feeling Good (Pushin On)
-- Pushin' On (Pushin' On)
+  - Pushin On (Pushin On)
+  - Citizens (To Dust)
+  - Playground Games (Maps from the Wilderness)
+  - 'Hurry on Now - Boub Remix (Under the Munka Moon, Pt. 2)'
+  - High Up On the Hook (My Favourite Letters)
+  - Knee Deep (Maps from the Wilderness)
+  - Travelling Song (Look Around the Corner)
+  - Humankind (My Favourite Letters)
+  - Feeling Good (Pushin On)
+  - Pushin' On (Pushin' On)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3fa17b15-b8d1-46c4-a0e3-6e0f2a064a1d
-  spotify: https://open.spotify.com/artist/1ga4lWS7NtKo4r9jNSWumc
-  wikipedia: https://en.wikipedia.org/wiki/Alice_Russell_(singer)
+  musicbrainz: 'https://musicbrainz.org/artist/3fa17b15-b8d1-46c4-a0e3-6e0f2a064a1d'
+  spotify: 'https://open.spotify.com/artist/1ga4lWS7NtKo4r9jNSWumc'
+  wikipedia: 'https://en.wikipedia.org/wiki/Alice_Russell_(singer)'
 image_path: 03_Resources/source_material/ArtistPortraits/Alice_Russell_TM_Juke.jpg
 biography_enhanced_at: '2025-10-20T09:23:31.457958'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://tru-thoughts.co.uk/twenty-years-of-tm-juke/
-- https://www.prsformusic.com/m-magazine/features/alice-russell-and-tm-juke
-- https://en.wikipedia.org/wiki/Alice_Russell_(singer)
+  - 'https://tru-thoughts.co.uk/twenty-years-of-tm-juke/'
+  - 'https://www.prsformusic.com/m-magazine/features/alice-russell-and-tm-juke'
+  - 'https://en.wikipedia.org/wiki/Alice_Russell_(singer)'
 network_extracted: true
 entry_created: '2025-10-20T09:23:31.457967'
 last_updated: '2025-12-23T08:16:00.978935'
@@ -74,9 +74,11 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T08:07:28.905131'
 musicbrainz_id: 3fa17b15-b8d1-46c4-a0e3-6e0f2a064a1d
 tags:
-- chillout
-- dance
-- downtempo
+  - chillout
+  - dance
+  - downtempo
+origin: 'Brighton, East Sussex, England, United Kingdom'
+birth_date: '1975-03-01'
 ---
 
 ![](Alice_Russell_TM_Juke.jpg)

@@ -2,19 +2,19 @@
 title: Ledisi
 wiki_slug: ledisi
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1972-03-28'
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- neo soul
-- smooth r&b
+  - neo soul
+  - smooth r&b
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Ledisi.jpg
   caption: Ledisi
   background: solo_singer
   born: '1972-03-28'
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 107.9
   energy_avg: 0.554
@@ -30,45 +30,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sundra Manning
-  - Anibade (band)
+    - Sundra Manning
+    - Anibade (band)
   influenced:
-  - Contemporary neo soul and R&B vocalists (general)
+    - Contemporary neo soul and R&B vocalists (general)
   mentors:
-  - Nyra Dynese (mother)
-  - Aretha Franklin, Marvin Gaye, Dinah Washington
-  - Opera teachers (unnamed)
+    - Nyra Dynese (mother)
+    - 'Aretha Franklin, Marvin Gaye, Dinah Washington'
+    - Opera teachers (unnamed)
 spotify_data:
   followers: 661118
   id: 60ciIY5MouLc2Y9n34DJdA
   popularity: 46
-  url: https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA
+  url: 'https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA'
 discography_enriched: true
 top_tracks:
-- Alright (Lost And Found)
-- LOVE YOU TOO
-- Stay Together (Pieces Of Me)
-- Anything For You (The Wild Card)
-- Pieces Of Me (Pieces Of Me)
-- I Blame You (The Truth (Deluxe Edition))
-- This Bitter Earth
-- In The Morning (Lost And Found)
-- It Don't Matter [Feat. Gregory Porter & Ledisi] (Black Radio III)
-- Gonna Be Alright (F.T.B.) (Black Radio)
+  - Alright (Lost And Found)
+  - LOVE YOU TOO
+  - Stay Together (Pieces Of Me)
+  - Anything For You (The Wild Card)
+  - Pieces Of Me (Pieces Of Me)
+  - I Blame You (The Truth (Deluxe Edition))
+  - This Bitter Earth
+  - In The Morning (Lost And Found)
+  - 'It Don''t Matter [Feat. Gregory Porter & Ledisi] (Black Radio III)'
+  - Gonna Be Alright (F.T.B.) (Black Radio)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/617a2fbd-fef9-420f-981c-bda2ca103d38
-  spotify: https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA
-  wikipedia: https://en.wikipedia.org/wiki/Ledisi
+  musicbrainz: 'https://musicbrainz.org/artist/617a2fbd-fef9-420f-981c-bda2ca103d38'
+  spotify: 'https://open.spotify.com/artist/60ciIY5MouLc2Y9n34DJdA'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ledisi'
 image_path: 03_Resources/source_material/ArtistPortraits/Ledisi.jpg
 biography_enhanced_at: '2025-10-19T10:44:10.819319'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.ebsco.com/research-starters/biography/ledisi
-- https://en.wikipedia.org/wiki/Ledisi
-- https://nbs.org/handlers/celinks.ashx?id=63980
-- https://guides.library.berklee.edu/commencement/ledisi
-- https://www.bpr.org/2011-07-09/ledisi-a-singers-second-life
+  - 'https://www.ebsco.com/research-starters/biography/ledisi'
+  - 'https://en.wikipedia.org/wiki/Ledisi'
+  - 'https://nbs.org/handlers/celinks.ashx?id=63980'
+  - 'https://guides.library.berklee.edu/commencement/ledisi'
+  - 'https://www.bpr.org/2011-07-09/ledisi-a-singers-second-life'
 network_extracted: true
 entry_created: '2025-10-19T10:44:10.819333'
 last_updated: '2025-12-23T08:16:02.951832'
@@ -76,7 +76,7 @@ gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:34:35.921136'
 musicbrainz_id: 617a2fbd-fef9-420f-981c-bda2ca103d38
 tags:
-- contemporary r&b
+  - contemporary r&b
 ---
 
 ![](Ledisi.jpg)

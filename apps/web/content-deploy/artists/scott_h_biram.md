@@ -1,22 +1,22 @@
 ---
-title: scott h biram
+title: Scott H Biram
 wiki_slug: scott-h-biram
 schema_version: 2
 status: active
-birth_place: Prairie Lea, Texas, USA
+birth_place: 'Prairie Lea, Texas, USA'
 genres:
-- gothic country
-- alt country
-- roots rock
-- country blues
-- americana
-- bluegrass
-- blues rock
+  - gothic country
+  - alt country
+  - roots rock
+  - country blues
+  - americana
+  - bluegrass
+  - blues rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/scott_h_biram.jpg
   caption: scott h biram
   background: solo_singer
-  origin: Prairie Lea, Texas, USA
+  origin: 'Prairie Lea, Texas, USA'
 audio_profile:
   tempo_avg: 117.5
   energy_avg: 0.638
@@ -32,51 +32,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Thangs
-  - Various bluegrass bands
+    - The Thangs
+    - Various bluegrass bands
   influenced:
-  - Emerging Americana and alt-country artists
+    - Emerging Americana and alt-country artists
   mentors:
-  - Lead Belly
-  - Rev. Gary Davis
-  - Billy Gibbons
-  - Townes Van Zandt
+    - Lead Belly
+    - Rev. Gary Davis
+    - Billy Gibbons
+    - Townes Van Zandt
 spotify_data:
   followers: 51139
   id: 6wpI4AEN6UO7ksNN23RGEf
   popularity: 35
-  url: https://open.spotify.com/artist/6wpI4AEN6UO7ksNN23RGEf
+  url: 'https://open.spotify.com/artist/6wpI4AEN6UO7ksNN23RGEf'
 discography_enriched: true
 top_tracks:
-- Blood Sweat & Murder (The Dirty Old One Man Band)
-- Still Around (The Bad Testament)
-- Still Drunk, Still Crazy, Still Blue (Something's Wrong/Lost Forever)
-- Jack Of Diamonds (Nothin' But Blood (Bonus Track Version))
-- Swift Driftin' (The Bad Testament)
-- Plow You Under (Graveyard Shift)
-- Can't Stay Long (Fever Dreams)
-- Wreck My Car (Lo-Fi Mojo)
-- Slow & Easy (Nothin' But Blood (Bonus Track Version))
-- Righteous Ways (The Bad Testament)
+  - Blood Sweat & Murder (The Dirty Old One Man Band)
+  - Still Around (The Bad Testament)
+  - 'Still Drunk, Still Crazy, Still Blue (Something''s Wrong/Lost Forever)'
+  - Jack Of Diamonds (Nothin' But Blood (Bonus Track Version))
+  - Swift Driftin' (The Bad Testament)
+  - Plow You Under (Graveyard Shift)
+  - Can't Stay Long (Fever Dreams)
+  - Wreck My Car (Lo-Fi Mojo)
+  - Slow & Easy (Nothin' But Blood (Bonus Track Version))
+  - Righteous Ways (The Bad Testament)
 external_urls:
-  spotify: https://open.spotify.com/artist/6wpI4AEN6UO7ksNN23RGEf
-  wikipedia: https://en.wikipedia.org/wiki/Scott_H._Biram
+  spotify: 'https://open.spotify.com/artist/6wpI4AEN6UO7ksNN23RGEf'
+  wikipedia: 'https://en.wikipedia.org/wiki/Scott_H._Biram'
 image_path: 03_Resources/source_material/ArtistPortraits/scott_h_biram.jpg
 biography_enhanced_at: '2025-10-19T10:51:19.638781'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://texashighways.com/culture/scott-h-biram-dirty-ol-one-man-band/
-- https://www.popmatters.com/conversation-bluesman-scott-h-biram
-- https://www.scotthbiram.com/about
-- https://blues.gr/profiles/blogs/interview-with-scott-h-biram-the-dirty-old-one-man-band-when
-- https://newnoisemagazine.com/interviews/scott-h-biram-hard-guy-pigeonhole/
-- https://www.savannahnow.com/story/entertainment/music/2020/03/11/dirty-old-one-man-band-scott-h-biram-at-jinx/1543707007/
-- https://en.wikipedia.org/wiki/Scott_H._Biram
+  - 'https://texashighways.com/culture/scott-h-biram-dirty-ol-one-man-band/'
+  - 'https://www.popmatters.com/conversation-bluesman-scott-h-biram'
+  - 'https://www.scotthbiram.com/about'
+  - >-
+    https://blues.gr/profiles/blogs/interview-with-scott-h-biram-the-dirty-old-one-man-band-when
+  - 'https://newnoisemagazine.com/interviews/scott-h-biram-hard-guy-pigeonhole/'
+  - >-
+    https://www.savannahnow.com/story/entertainment/music/2020/03/11/dirty-old-one-man-band-scott-h-biram-at-jinx/1543707007/
+  - 'https://en.wikipedia.org/wiki/Scott_H._Biram'
 network_extracted: true
 entry_created: '2025-10-19T10:51:19.638786'
 last_updated: '2025-12-23T08:16:15.424794'
-
+artist_type: person
 ---
 
 ![](scott_h_biram.jpg)

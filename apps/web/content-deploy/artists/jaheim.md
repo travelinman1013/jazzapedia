@@ -5,14 +5,14 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1978-05-26'
-birth_place: New Brunswick
+birth_place: 'New Brunswick, New Jersey, United States'
 genres:
-- neo soul
-- quiet storm
-- r&b
-- smooth r&b
+  - neo soul
+  - quiet storm
+  - r&b
+  - smooth r&b
 instruments:
-- lead vocals
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jaheim.jpg
   caption: Jaheim
@@ -25,8 +25,8 @@ audio_profile:
   valence_avg: 0.552
   danceability_avg: 0.638
   acousticness_avg: 0.232
-  instrumentalness_avg: 0.0
-  loudness_avg: -7.0
+  instrumentalness_avg: 0
+  loudness_avg: -7
   speechiness_avg: 0.133
   liveness_avg: 0.163
   track_count: 49
@@ -34,51 +34,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - RL (from Next)
-  - Blackstreet
-  - Darren and Cliff Lighty
+    - RL (from Next)
+    - Blackstreet
+    - Darren and Cliff Lighty
   influenced: []
   mentors:
-  - Kaygee (Naughty by Nature)
+    - Kaygee (Naughty by Nature)
 spotify_data:
   followers: 1575477
   id: 4sbB4Yy6Qig51pKCIKSLw3
   popularity: 55
-  url: https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3
+  url: 'https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3'
 discography_enriched: true
 top_tracks:
-- My Place (Suit)
-- Put That Woman First (Still Ghetto)
-- Just in Case (Ghetto Love)
-- Finding My Way Back (Another Round)
-- I've Changed (feat. Keyshia Cole) (The Makings of a Man)
-- Anything (feat. Next) (Ghetto Love)
-- Fabulous - feat. Tha Rayne (Still Ghetto)
-- My Place (Suit)
-- Stay Together (Pieces Of Me)
-- Could It Be (Ghetto Love)
+  - My Place (Suit)
+  - Put That Woman First (Still Ghetto)
+  - Just in Case (Ghetto Love)
+  - Finding My Way Back (Another Round)
+  - I've Changed (feat. Keyshia Cole) (The Makings of a Man)
+  - Anything (feat. Next) (Ghetto Love)
+  - Fabulous - feat. Tha Rayne (Still Ghetto)
+  - My Place (Suit)
+  - Stay Together (Pieces Of Me)
+  - Could It Be (Ghetto Love)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3a9cf658-0f0b-410e-b07e-8cf7eee53169
-  spotify: https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3
-  wikipedia: https://en.wikipedia.org/wiki/Jaheim
+  musicbrainz: 'https://musicbrainz.org/artist/3a9cf658-0f0b-410e-b07e-8cf7eee53169'
+  spotify: 'https://open.spotify.com/artist/4sbB4Yy6Qig51pKCIKSLw3'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jaheim'
 image_path: 03_Resources/source_material/ArtistPortraits/jaheim.jpg
 biography_enhanced_at: '2025-11-05T12:42:32.406133'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jaheim
-- https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/jaheim
-- https://wbssmedia.com/artists/detail/1071
-- https://kids.kiddle.co/Jaheim
-- https://www.allmusic.com/artist/jaheim-mn0000782163
+  - 'https://en.wikipedia.org/wiki/Jaheim'
+  - >-
+    https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/jaheim
+  - 'https://wbssmedia.com/artists/detail/1071'
+  - 'https://kids.kiddle.co/Jaheim'
+  - 'https://www.allmusic.com/artist/jaheim-mn0000782163'
 network_extracted: true
 entry_created: '2025-11-05T12:42:32.406150'
 last_updated: '2025-12-23T08:16:10.114079'
 gender: Male
 musicbrainz_id: 3a9cf658-0f0b-410e-b07e-8cf7eee53169
 tags:
-- contemporary r&b
-- hip hop rnb and dance hall
+  - contemporary r&b
+  - hip hop rnb and dance hall
 ---
 
 ![](jaheim.jpg)

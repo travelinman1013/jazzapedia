@@ -2,19 +2,19 @@
 title: Kokoroko
 wiki_slug: kokoroko
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 birth_date: '2014'
 genres: []
 instruments:
-- bass
-- percussion
-- keyboard
-- saxophone
-- trumpet
-- guitar
-- drums (drum set)
-- trombone
+  - bass
+  - percussion
+  - keyboard
+  - saxophone
+  - trumpet
+  - guitar
+  - drums (drum set)
+  - trombone
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/kokoroko.jpg
   caption: Kokoroko
@@ -35,119 +35,121 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sheila Maurice-Grey
-  - Onome Edgeworth
-  - Cassie Kinoshi
-  - Richie Seivewright
-  - Tobi Adenaike-Johnson
-  - Yohan Kebede
-  - Mutale Chashi
-  - Ayo Salawu
+    - Sheila Maurice-Grey
+    - Onome Edgeworth
+    - Cassie Kinoshi
+    - Richie Seivewright
+    - Tobi Adenaike-Johnson
+    - Yohan Kebede
+    - Mutale Chashi
+    - Ayo Salawu
   influenced:
-  - London Jazz Scene Musicians
+    - London Jazz Scene Musicians
   mentors:
-  - Tomorrow's Warriors
-  - Fela Kuti
+    - Tomorrow's Warriors
+    - Fela Kuti
 spotify_data:
   followers: 370961
   id: 3u9rbdcmA6CxjxOAkjaeFr
   popularity: 54
-  url: https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr
+  url: 'https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr'
 discography_enriched: true
 top_tracks:
-- Abusey Junction (KOKOROKO)
-- Just Can't Wait (Just Can't Wait)
-- Ti-de (KOKOROKO)
-- Closer To Me - edit (Closer To Me)
-- Age Of Ascent (Could We Be More)
-- Three Piece Suit (feat. Azekel) (Three Piece Suit (feat. Azekel))
-- Carry Me Home (Carry Me Home)
-- Dide O (Could We Be More)
-- Closer To Me (Closer To Me)
-- Home (Could We Be More)
+  - Abusey Junction (KOKOROKO)
+  - Just Can't Wait (Just Can't Wait)
+  - Ti-de (KOKOROKO)
+  - Closer To Me - edit (Closer To Me)
+  - Age Of Ascent (Could We Be More)
+  - Three Piece Suit (feat. Azekel) (Three Piece Suit (feat. Azekel))
+  - Carry Me Home (Carry Me Home)
+  - Dide O (Could We Be More)
+  - Closer To Me (Closer To Me)
+  - Home (Could We Be More)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2650f0e7-3879-4b2c-8908-d025113cbece
-  spotify: https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr
-  wikipedia: https://en.wikipedia.org/wiki/Kokoroko
+  musicbrainz: 'https://musicbrainz.org/artist/2650f0e7-3879-4b2c-8908-d025113cbece'
+  spotify: 'https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kokoroko'
 image_path: 03_Resources/source_material/ArtistPortraits/kokoroko.jpg
 biography_enhanced_at: '2025-11-21T07:13:47.809760'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://afropop.org/articles/kokoroko-evolving-the-legacy-of-west-african-music
-- https://en.wikipedia.org/wiki/Kokoroko
-- https://kokorokomusic.co.uk
-- https://magazine.waxpoetics.com/connections/women-in-music-artists-and-writers/article/kokoroko-naturally-evolve-the-spiritual-sounds-of-west-africa/
-- https://www.thiiirdmagazine.co.uk/stories/kokoroko-music
+  - >-
+    https://afropop.org/articles/kokoroko-evolving-the-legacy-of-west-african-music
+  - 'https://en.wikipedia.org/wiki/Kokoroko'
+  - 'https://kokorokomusic.co.uk'
+  - >-
+    https://magazine.waxpoetics.com/connections/women-in-music-artists-and-writers/article/kokoroko-naturally-evolve-the-spiritual-sounds-of-west-africa/
+  - 'https://www.thiiirdmagazine.co.uk/stories/kokoroko-music'
 network_extracted: true
 entry_created: '2025-11-21T07:13:47.809789'
 last_updated: '2025-12-23T08:16:11.471511'
 disambiguation: UK jazz ensemble
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e689891b-febc-4d94-9f46-7b97031f0c68
-  name: Tobi Adenaike
-- begin: ''
-  end: ''
-  instruments:
-  - bass
-  mbid: c08b17d6-a4ce-4ec0-925c-43b5c07a96d8
-  name: Mutale Chashi
-- begin: ''
-  end: ''
-  instruments:
-  - percussion
-  mbid: 5b9984a8-44a5-4662-83be-a79b6b07c510
-  name: Onome Edgeworth
-- begin: ''
-  end: ''
-  instruments:
-  - keyboard
-  mbid: 3285c8ad-90c5-4641-afde-9a4b20d1d8ef
-  name: Yohan Kebede
-- begin: ''
-  end: ''
-  instruments:
-  - saxophone
-  mbid: f6ea2c73-df9c-408a-bb4a-78ecf683d877
-  name: Cassie Kinoshi
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: 2e358555-415c-478b-a0b5-b0b329170028
-  name: Sheila Maurice-Grey
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bfb336a7-1c03-48b1-975c-3d37c7488724
-  name: Ms MAURICE
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: 28c4b85c-113b-4871-95ad-52ebc9704bd0
-  name: Oscar Jerome
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: bd6d20f8-7284-4af0-baeb-c8b67dfd5086
-  name: Ayo Salawu
-- begin: ''
-  end: ''
-  instruments:
-  - trombone
-  mbid: f28865c0-f071-4919-9c8a-3801c552fb06
-  name: Richie Seivwright
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e689891b-febc-4d94-9f46-7b97031f0c68
+    name: Tobi Adenaike
+  - begin: ''
+    end: ''
+    instruments:
+      - bass
+    mbid: c08b17d6-a4ce-4ec0-925c-43b5c07a96d8
+    name: Mutale Chashi
+  - begin: ''
+    end: ''
+    instruments:
+      - percussion
+    mbid: 5b9984a8-44a5-4662-83be-a79b6b07c510
+    name: Onome Edgeworth
+  - begin: ''
+    end: ''
+    instruments:
+      - keyboard
+    mbid: 3285c8ad-90c5-4641-afde-9a4b20d1d8ef
+    name: Yohan Kebede
+  - begin: ''
+    end: ''
+    instruments:
+      - saxophone
+    mbid: f6ea2c73-df9c-408a-bb4a-78ecf683d877
+    name: Cassie Kinoshi
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: 2e358555-415c-478b-a0b5-b0b329170028
+    name: Sheila Maurice-Grey
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bfb336a7-1c03-48b1-975c-3d37c7488724
+    name: Ms MAURICE
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 28c4b85c-113b-4871-95ad-52ebc9704bd0
+    name: Oscar Jerome
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: bd6d20f8-7284-4af0-baeb-c8b67dfd5086
+    name: Ayo Salawu
+  - begin: ''
+    end: ''
+    instruments:
+      - trombone
+    mbid: f28865c0-f071-4919-9c8a-3801c552fb06
+    name: Richie Seivwright
 musicbrainz_id: 2650f0e7-3879-4b2c-8908-d025113cbece
-origin: London
+origin: 'London, England, United Kingdom'
 tags:
-- afrobeat
-- jazz
-- world
+  - afrobeat
+  - jazz
+  - world
 ---
 
 ![](kokoroko.jpg)

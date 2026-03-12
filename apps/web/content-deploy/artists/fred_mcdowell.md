@@ -4,30 +4,30 @@ wiki_slug: mississippi-fred-mcdowell
 schema_version: 2
 status: deceased
 also_known_as:
-- Mississippi Fred McDowell
+  - Mississippi Fred McDowell
 aliases:
-- Mississippi Fred McDowell
+  - Mississippi Fred McDowell
 birth_date: '1904-01-12'
-birth_place: Rossville, Tennessee, United States
+birth_place: 'Rossville, Tennessee, United States'
 death_date: '1972-07-03'
 years_active: 1926–1972
 genres:
-- blues
-- country blues
-- classic blues
+  - blues
+  - country blues
+  - classic blues
 instruments:
-- guitar
+  - guitar
 occupation:
-- guitarist
+  - guitarist
 record_labels:
-- Arhoolie Records
-- Fat Possum Records
+  - Arhoolie Records
+  - Fat Possum Records
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Mississippi_Fred_McDowell.jpg
   caption: Mississippi Fred McDowell
   background: non_vocal_instrumentalist
   born: '1904-01-12'
-  origin: Rossville, Tennessee, United States
+  origin: 'Rossville, Tennessee, United States'
   died: '1972-07-03'
 audio_profile:
   tempo_avg: 104.5
@@ -44,56 +44,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Alan Lomax
-  - Chris Strachwitz (Arhoolie Records)
-  - Mississippi John Hurt
-  - Sleepy John Estes
-  - Jo Ann Kelly
+    - Alan Lomax
+    - Chris Strachwitz (Arhoolie Records)
+    - Mississippi John Hurt
+    - Sleepy John Estes
+    - Jo Ann Kelly
   influenced:
-  - Bonnie Raitt
-  - The Rolling Stones
+    - Bonnie Raitt
+    - The Rolling Stones
   mentors:
-  - Charley Patton
-  - Son House
+    - Charley Patton
+    - Son House
 related_artists: []
 spotify_data:
   followers: 66418
   id: 0elA30wLp3RmiPaGtU2jhQ
   popularity: 37
-  url: https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ
+  url: 'https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ'
   verified: false
 discography_enriched: true
 albums_count: 31
 singles_count: 8
 top_tracks:
-- You Gotta Move (You Gotta Move)
-- Shake 'Em on Down (Shake 'Em on Down)
-- Good Morning Little Schoolgirl (Good Morning Little School Girl)
-- Going Down to the River (Mama Says I'm Crazy)
-- Write Me a Few Lines (You Gotta Move)
-- Kokomo Blues (You Gotta Move)
-- You Got to Move (Steakbone Slide Guitar)
-- When You Get Home, Please Write Me a Few of Your Lines (Remastered Version) (Going Down to the River - Mississippi Fred
-  McDowell 1959)
-- Louise (You Gotta Move)
-- 'What''s the Matter Now? - Remastered (I''ll Meet You On That Other Shore: Alan Lomax’s "Southern Journey," 1959–1960)'
+  - You Gotta Move (You Gotta Move)
+  - Shake 'Em on Down (Shake 'Em on Down)
+  - Good Morning Little Schoolgirl (Good Morning Little School Girl)
+  - Going Down to the River (Mama Says I'm Crazy)
+  - Write Me a Few Lines (You Gotta Move)
+  - Kokomo Blues (You Gotta Move)
+  - You Got to Move (Steakbone Slide Guitar)
+  - >-
+    When You Get Home, Please Write Me a Few of Your Lines (Remastered Version)
+    (Going Down to the River - Mississippi Fred McDowell 1959)
+  - Louise (You Gotta Move)
+  - >-
+    What's the Matter Now? - Remastered (I'll Meet You On That Other Shore: Alan
+    Lomax’s "Southern Journey," 1959–1960)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ
-  wikipedia: https://en.wikipedia.org/wiki/Mississippi_Fred_McDowell
+  spotify: 'https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mississippi_Fred_McDowell'
 image_path: 03_Resources/source_material/ArtistPortraits/Mississippi_Fred_McDowell.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:56:23.204303'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://bigtrainblues.com/mississippi-fred-mcdowell/
-- https://www.udiscovermusic.com/stories/mississippi-fred-mcdowell-aint-delta-blues/
-- https://en.wikipedia.org/wiki/Mississippi_Fred_McDowell
+  - 'https://bigtrainblues.com/mississippi-fred-mcdowell/'
+  - >-
+    https://www.udiscovermusic.com/stories/mississippi-fred-mcdowell-aint-delta-blues/
+  - 'https://en.wikipedia.org/wiki/Mississippi_Fred_McDowell'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:59:41.705047
+entry_created: 2025-09-22T21:59:41.705Z
 last_updated: '2025-12-23T08:16:08.815392'
+is_active: false
+origin: 'Como, Mississippi, United States'
+artist_type: person
 ---
 
 ![](Mississippi_Fred_McDowell.jpg)

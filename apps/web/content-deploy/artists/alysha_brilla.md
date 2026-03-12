@@ -5,7 +5,7 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1988-11-03'
-birth_place: Mississauga
+birth_place: 'Mississauga, Ontario, Canada'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/alysha_brilla.jpg
@@ -20,7 +20,7 @@ audio_profile:
   danceability_avg: 0.689
   acousticness_avg: 0.317
   instrumentalness_avg: 0.035
-  loudness_avg: -7.0
+  loudness_avg: -7
   speechiness_avg: 0.081
   liveness_avg: 0.154
   track_count: 50
@@ -28,53 +28,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Various Canadian and international musicians
+    - Various Canadian and international musicians
   influenced:
-  - Emerging Canadian artists
+    - Emerging Canadian artists
   mentors:
-  - Toronto's Caribbean Community
+    - Toronto's Caribbean Community
 spotify_data:
   followers: 15294
   id: 72McluarQZqpzSS95goQ0Q
   popularity: 27
-  url: https://open.spotify.com/artist/72McluarQZqpzSS95goQ0Q
+  url: 'https://open.spotify.com/artist/72McluarQZqpzSS95goQ0Q'
 discography_enriched: true
 top_tracks:
-- Rescue (Woman)
-- Centre (feat. Sridaya Srivatsan) (Rooted)
-- Jenna (Woman)
-- Peace (Circle)
-- Ahimsa (Human)
-- Deep Talk (Circle)
-- Another Child (Rooted)
-- Water (Rooted)
-- Echo (Circle)
-- Woman (Woman)
+  - Rescue (Woman)
+  - Centre (feat. Sridaya Srivatsan) (Rooted)
+  - Jenna (Woman)
+  - Peace (Circle)
+  - Ahimsa (Human)
+  - Deep Talk (Circle)
+  - Another Child (Rooted)
+  - Water (Rooted)
+  - Echo (Circle)
+  - Woman (Woman)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/cfd04bf1-ea47-4530-8101-551176a2db1f
-  spotify: https://open.spotify.com/artist/72McluarQZqpzSS95goQ0Q
+  musicbrainz: 'https://musicbrainz.org/artist/cfd04bf1-ea47-4530-8101-551176a2db1f'
+  spotify: 'https://open.spotify.com/artist/72McluarQZqpzSS95goQ0Q'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/alysha_brilla.jpg
 biography_enhanced_at: '2025-11-14T10:47:36.923105'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.alyshabrilla.com/about
-- https://college.berklee.edu/faculty/alysha-brilla
-- http://www.arcartists.com/alysha-brilla
-- https://thecreativeindependent.com/people/musician-alysha-brilla-on-trusting-yourself-as-the-first-step/
-- https://www.lincolncenter.org/series/lincoln-center-presents/alysha-brilla-895
-- https://www.okayafrica.com/the-importance-of-identity-with-tanzanian/canadian-artist-alysha-brilla/201071
-- https://uniter.ca/view/qa-with-alysha-brilla
+  - 'https://www.alyshabrilla.com/about'
+  - 'https://college.berklee.edu/faculty/alysha-brilla'
+  - 'http://www.arcartists.com/alysha-brilla'
+  - >-
+    https://thecreativeindependent.com/people/musician-alysha-brilla-on-trusting-yourself-as-the-first-step/
+  - >-
+    https://www.lincolncenter.org/series/lincoln-center-presents/alysha-brilla-895
+  - >-
+    https://www.okayafrica.com/the-importance-of-identity-with-tanzanian/canadian-artist-alysha-brilla/201071
+  - 'https://uniter.ca/view/qa-with-alysha-brilla'
 network_extracted: true
 entry_created: '2025-11-14T10:47:36.923119'
 last_updated: '2025-12-23T08:16:04.657989'
 gender: Female
 musicbrainz_id: cfd04bf1-ea47-4530-8101-551176a2db1f
 tags:
-- alysha
-- brilla
-- pop
+  - alysha
+  - brilla
+  - pop
+origin: 'Toronto, Ontario, Canada'
 ---
 
 ![](alysha_brilla.jpg)

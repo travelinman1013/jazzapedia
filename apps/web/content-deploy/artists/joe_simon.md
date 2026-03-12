@@ -3,16 +3,16 @@ title: Joe Simon
 wiki_slug: joe-simon
 schema_version: 2
 status: active
-birth_place: Simmesport, Louisiana, United States
+birth_place: 'Simmesport, Louisiana, United States'
 genres:
-- philly soul
-- soul
-- northern soul
+  - philly soul
+  - soul
+  - northern soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Joe_Simon.jpg
   caption: Joe Simon
   background: solo_singer
-  origin: Simmesport, Louisiana, United States
+  origin: 'Simmesport, Louisiana, United States'
 audio_profile:
   tempo_avg: 116.9
   energy_avg: 0.51
@@ -28,46 +28,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - MFSB (Mother Father Sister Brother)
-  - Bert DeCoteaux
+    - MFSB (Mother Father Sister Brother)
+    - Bert DeCoteaux
   influenced:
-  - Contemporary soul and R&B artists
+    - Contemporary soul and R&B artists
   mentors:
-  - John Richbourg (John R.)
+    - John Richbourg (John R.)
 spotify_data:
   followers: 83639
   id: 5HRSYURV6LFFRCjAtiK0py
   popularity: 30
-  url: https://open.spotify.com/artist/5HRSYURV6LFFRCjAtiK0py
+  url: 'https://open.spotify.com/artist/5HRSYURV6LFFRCjAtiK0py'
 discography_enriched: true
 top_tracks:
-- Drowning in the Sea of Love (Drowning in the Sea of Love)
-- Before the Night Is Over (Easy to Love / A Bad Case of Love)
-- The Chokin' Kind (The Chokin' Kind)
-- Theme from Cleopatra Jones
-- Power of Love (Soul for the Dancefloor)
-- Get Down, Get Down (Get Down)
-- It Be's That Way Sometimes (Get Down)
-- Your Time to Cry
-- Step by Step (The Power of Joe Simon)
-- (You Keep Me) Hanging On (No Sad Songs)
+  - Drowning in the Sea of Love (Drowning in the Sea of Love)
+  - Before the Night Is Over (Easy to Love / A Bad Case of Love)
+  - The Chokin' Kind (The Chokin' Kind)
+  - Theme from Cleopatra Jones
+  - Power of Love (Soul for the Dancefloor)
+  - 'Get Down, Get Down (Get Down)'
+  - It Be's That Way Sometimes (Get Down)
+  - Your Time to Cry
+  - Step by Step (The Power of Joe Simon)
+  - (You Keep Me) Hanging On (No Sad Songs)
 external_urls:
-  spotify: https://open.spotify.com/artist/5HRSYURV6LFFRCjAtiK0py
-  wikipedia: https://en.wikipedia.org/wiki/Joe_Simon_(musician)
+  spotify: 'https://open.spotify.com/artist/5HRSYURV6LFFRCjAtiK0py'
+  wikipedia: 'https://en.wikipedia.org/wiki/Joe_Simon_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/Joe_Simon.jpg
 biography_enhanced_at: '2025-10-19T11:38:08.761659'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://journalofgospelmusic.com/prayerlist/rip-joe-simon-soul-singer-minister/
-- https://www.sunsetblvdrecords.com/blog/2022/4/4/joe-simon-nine-pound-steel-the-best-of-joe-simon
-- https://blackpast.org/african-american-history/joe-simon-1943/
-- https://www.wbgo.org/music/2023-09-02/rhythm-revue-spotlight-felix-hernandez-on-soul-and-r-b-singer-joe-simon
-- http://www.soulwalking.co.uk/Joe%20Simon.html
+  - >-
+    https://journalofgospelmusic.com/prayerlist/rip-joe-simon-soul-singer-minister/
+  - >-
+    https://www.sunsetblvdrecords.com/blog/2022/4/4/joe-simon-nine-pound-steel-the-best-of-joe-simon
+  - 'https://blackpast.org/african-american-history/joe-simon-1943/'
+  - >-
+    https://www.wbgo.org/music/2023-09-02/rhythm-revue-spotlight-felix-hernandez-on-soul-and-r-b-singer-joe-simon
+  - 'http://www.soulwalking.co.uk/Joe%20Simon.html'
 network_extracted: true
 entry_created: '2025-10-19T11:38:08.761669'
 last_updated: '2025-12-23T08:16:10.657219'
-
+death_date: '2021-12-13'
+artist_type: person
 ---
 
 ![](Joe_Simon.jpg)

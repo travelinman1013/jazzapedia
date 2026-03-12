@@ -1,16 +1,16 @@
 ---
-title: the upperclassmen
+title: The Upperclassmen
 wiki_slug: the-upperclassmen
 schema_version: 2
 status: active
 genres:
-- go-go
+  - go-go
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_upperclassmen.jpg
   caption: the upperclassmen
   background: solo_singer
 audio_profile:
-  tempo_avg: 121.0
+  tempo_avg: 121
   energy_avg: 0.803
   valence_avg: 0.483
   danceability_avg: 0.649
@@ -26,41 +26,43 @@ musical_connections:
   collaborators: []
   influenced: []
   mentors:
-  - Chuck Brown
-  - Experience Unlimited (E.U.)
+    - Chuck Brown
+    - Experience Unlimited (E.U.)
 spotify_data:
   followers: 152
   id: 6aKplsaY6yhZ0bC8QpAcCH
   popularity: 1
-  url: https://open.spotify.com/artist/6aKplsaY6yhZ0bC8QpAcCH
+  url: 'https://open.spotify.com/artist/6aKplsaY6yhZ0bC8QpAcCH'
 discography_enriched: true
 top_tracks:
-- Dreams of Lucii (Parachute)
-- Cha Cha With the Zombies (The Return Of Halloween Nuggets)
-- Recipe (Recipe)
-- Ascent (Parachute)
-- Vae Victis (Woe to the Vanquished Ones) (Parachute)
-- No Tomorrow (Parachute)
-- Hospice (Parachute)
-- Letter from the Delorean (Parachute)
-- Descent (Parachute)
-- Black Zeroes (Black Zeroes)
+  - Dreams of Lucii (Parachute)
+  - Cha Cha With the Zombies (The Return Of Halloween Nuggets)
+  - Recipe (Recipe)
+  - Ascent (Parachute)
+  - Vae Victis (Woe to the Vanquished Ones) (Parachute)
+  - No Tomorrow (Parachute)
+  - Hospice (Parachute)
+  - Letter from the Delorean (Parachute)
+  - Descent (Parachute)
+  - Black Zeroes (Black Zeroes)
 external_urls:
-  spotify: https://open.spotify.com/artist/6aKplsaY6yhZ0bC8QpAcCH
+  spotify: 'https://open.spotify.com/artist/6aKplsaY6yhZ0bC8QpAcCH'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/the_upperclassmen.jpg
 biography_enhanced_at: '2025-10-25T10:11:18.726367'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Go-go
-- https://www.thebeatisgogo.com/bands-and-performers
-- https://timeline.carnegiehall.org/genres/go-go
-- https://wamu.org/story/16/11/04/with_wind_me_up_maria_go_go_music_comes_to_georgetown/
+  - 'https://en.wikipedia.org/wiki/Go-go'
+  - 'https://www.thebeatisgogo.com/bands-and-performers'
+  - 'https://timeline.carnegiehall.org/genres/go-go'
+  - >-
+    https://wamu.org/story/16/11/04/with_wind_me_up_maria_go_go_music_comes_to_georgetown/
 network_extracted: true
 entry_created: '2025-10-25T10:11:18.726384'
 last_updated: '2025-12-23T08:16:17.248448'
-origin: Washington, D.C., United States
+origin: 'Washington, D.C., United States'
+artist_type: band
 ---
 
 ![](the_upperclassmen.jpg)

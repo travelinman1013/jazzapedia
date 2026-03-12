@@ -1,75 +1,79 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 374a82ed-bed2-4b58-b0f5-5ab19f2f66b4
-  name: Guy Lafitte Jazz Combo
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 16243b7c-c698-4218-b46a-23510ce22443
-  name: Septuor Jack Diéval
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7072364a-17b9-4458-8776-a8f802c24134
-  name: Christian Garros et son orchestre
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 374a82ed-bed2-4b58-b0f5-5ab19f2f66b4
+    name: Guy Lafitte Jazz Combo
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 16243b7c-c698-4218-b46a-23510ce22443
+    name: Septuor Jack Diéval
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7072364a-17b9-4458-8776-a8f802c24134
+    name: Christian Garros et son orchestre
 biography_enhanced_at: '2026-01-19T01:02:29.808054'
 birth_date: '1927-01-12'
-birth_place: Saint-Gaudens
+birth_place: 'Saint-Gaudens, Haute-Garonne, France'
 death_date: '1998-07-11'
 disambiguation: French jazz saxophonist
 enhancement_provider: perplexity
 entry_created: '2026-01-19T01:02:29.808060'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9081f28d-33dc-4014-9850-2bcd7bbe94bd
-  spotify: https://open.spotify.com/artist/5n4D9AGRiQTsU6gaFZmMuA
-  wikipedia: https://en.wikipedia.org/wiki/Guy_Lafitte
+  musicbrainz: 'https://musicbrainz.org/artist/9081f28d-33dc-4014-9850-2bcd7bbe94bd'
+  spotify: 'https://open.spotify.com/artist/5n4D9AGRiQTsU6gaFZmMuA'
+  wikipedia: 'https://en.wikipedia.org/wiki/Guy_Lafitte'
 gender: Male
 genres:
-- french jazz
-- hard bop
+  - french jazz
+  - hard bop
 image_path: 03_Resources/source_material/ArtistPortraits/guy_lafitte.jpg
 last_updated: '2026-01-19T01:02:29.808061'
 musical_connections:
   collaborators:
-  - Paul Rovère
-  - Christian Garros
-  - Georges Arvanitas
-  - Raymond Fol
-  - Roger Guérin
-  - Claude Bolling
-  - Martial Solal
-  - Kenny Hagood
+    - Paul Rovère
+    - Christian Garros
+    - Georges Arvanitas
+    - Raymond Fol
+    - Roger Guérin
+    - Claude Bolling
+    - Martial Solal
+    - Kenny Hagood
   influenced: []
   mentors:
-  - Louis Armstrong
-  - Coleman Hawkins
+    - Louis Armstrong
+    - Coleman Hawkins
 musicbrainz_id: 9081f28d-33dc-4014-9850-2bcd7bbe94bd
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.freshsoundrecords.com/guy-lafitte-albums/6799-quartet-sextet-sessions-1956-1962.html
-- https://jazzweekly.com/2019/01/the-french-hawkguy-lafitte-his-tenor-sax-and-his-orchestra-1954-1959-andre-persiany-and-his-orchestra-featuring-guy-lafitte/
-- https://musicbrainz.org/artist/9081f28d-33dc-4014-9850-2bcd7bbe94bd
-- https://www.musicvf.com/songs.php?page=artist&artist=Guy+Lafitte&tab=songaswriterchartstab
-- https://jazzjournal.co.uk/2021/05/31/jj-05-91-talking-to-guy-lafitte/
-- https://en.wikipedia.org/wiki/Guy_Lafitte
-- https://www.allaboutjazz.com/musicians/guy-lafitte/
-- https://www.jazzmusicarchives.com/artist/guy-lafitte
+  - >-
+    https://www.freshsoundrecords.com/guy-lafitte-albums/6799-quartet-sextet-sessions-1956-1962.html
+  - >-
+    https://jazzweekly.com/2019/01/the-french-hawkguy-lafitte-his-tenor-sax-and-his-orchestra-1954-1959-andre-persiany-and-his-orchestra-featuring-guy-lafitte/
+  - 'https://musicbrainz.org/artist/9081f28d-33dc-4014-9850-2bcd7bbe94bd'
+  - >-
+    https://www.musicvf.com/songs.php?page=artist&artist=Guy+Lafitte&tab=songaswriterchartstab
+  - 'https://jazzjournal.co.uk/2021/05/31/jj-05-91-talking-to-guy-lafitte/'
+  - 'https://en.wikipedia.org/wiki/Guy_Lafitte'
+  - 'https://www.allaboutjazz.com/musicians/guy-lafitte/'
+  - 'https://www.jazzmusicarchives.com/artist/guy-lafitte'
 spotify_data:
   followers: 559
   id: 5n4D9AGRiQTsU6gaFZmMuA
   popularity: 8
-  url: https://open.spotify.com/artist/5n4D9AGRiQTsU6gaFZmMuA
+  url: 'https://open.spotify.com/artist/5n4D9AGRiQTsU6gaFZmMuA'
 status: active
 tags:
-- gypsy jazz
-- jazz
-- swing
+  - gypsy jazz
+  - jazz
+  - swing
 title: Guy Lafitte
+is_active: false
 ---
 
 ![](guy_lafitte.jpg)

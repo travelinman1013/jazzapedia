@@ -1,49 +1,49 @@
 ---
-title: josh white
+title: Josh White
 wiki_slug: josh-white
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1914-02-11'
-birth_place: Greenville
+birth_place: 'Greenville, South Carolina, United States'
 death_date: '1969-09-05'
 genres:
-- acoustic folk
-- christian alternative rock
-- christian folk
+  - acoustic folk
+  - christian alternative rock
+  - christian folk
 instruments:
-- eponymous
-- original
-- principal
-- guitar
-- acoustic guitar
-- lead vocals
-- spoken vocals
-- baritone vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 368374c4-e8a1-4cd9-9526-aeb6d1b8b74e
-  name: Union Boys
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: cd8424a7-9423-4c0c-bb11-326575f6962f
-  name: The Carson Boys
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 41ff9a9b-da05-4e77-96e5-d351bf986b91
-  name: The Carver Boys
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
   - principal
-  mbid: 11db638c-9f6a-4c64-8ff7-c8d9d3b5d216
-  name: Josh White and His Carolinians
+  - guitar
+  - acoustic guitar
+  - lead vocals
+  - spoken vocals
+  - baritone vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 368374c4-e8a1-4cd9-9526-aeb6d1b8b74e
+    name: Union Boys
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: cd8424a7-9423-4c0c-bb11-326575f6962f
+    name: The Carson Boys
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 41ff9a9b-da05-4e77-96e5-d351bf986b91
+    name: The Carver Boys
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - principal
+    mbid: 11db638c-9f6a-4c64-8ff7-c8d9d3b5d216
+    name: Josh White and His Carolinians
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/josh_white.jpg
   caption: josh white
@@ -66,44 +66,44 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Telecast (band members)
-  - Liz Vice
+    - Telecast (band members)
+    - Liz Vice
   influenced:
-  - Liz Vice
-  - Door of Hope worship leaders
+    - Liz Vice
+    - Door of Hope worship leaders
   mentors:
-  - Robert Farrar Capon
+    - Robert Farrar Capon
 spotify_data:
   followers: 15740
   id: 4KTkQA8GYHDdnF85o70VoO
   popularity: 32
-  url: https://open.spotify.com/artist/4KTkQA8GYHDdnF85o70VoO
+  url: 'https://open.spotify.com/artist/4KTkQA8GYHDdnF85o70VoO'
 discography_enriched: true
 top_tracks:
-- Enclosed by You
-- Forgiven
-- Don't Wait for Me
-- Spirit Resurrect
-- The Children's Song
-- Surrender (Pilgrim)
-- Wounded Healer (Wounded Healer)
-- Enclosed by You (Absolution)
-- Beautiful Mystery (Absolution)
-- Absolution (Absolution)
+  - Enclosed by You
+  - Forgiven
+  - Don't Wait for Me
+  - Spirit Resurrect
+  - The Children's Song
+  - Surrender (Pilgrim)
+  - Wounded Healer (Wounded Healer)
+  - Enclosed by You (Absolution)
+  - Beautiful Mystery (Absolution)
+  - Absolution (Absolution)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f0b3af36-a38b-4e5e-bf9a-d25ae11ca741
-  spotify: https://open.spotify.com/artist/4KTkQA8GYHDdnF85o70VoO
-  wikipedia: https://en.wikipedia.org/wiki/Josh_White_(Christian_musician)
+  musicbrainz: 'https://musicbrainz.org/artist/f0b3af36-a38b-4e5e-bf9a-d25ae11ca741'
+  spotify: 'https://open.spotify.com/artist/4KTkQA8GYHDdnF85o70VoO'
+  wikipedia: 'https://en.wikipedia.org/wiki/Josh_White_(Christian_musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/josh_white.jpg
 biography_enhanced_at: '2025-10-31T08:21:16.590622'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Josh_White_(Christian_musician)
-- https://www.newreleasetoday.com/artistdetail.php?artist_id=3260
-- https://www.humblebeast.com/music/josh-white
-- https://cbn.com/article/jesus/pained-musician-finds-freedom-cross
-- https://raptinterviews.com/features/josh-white
+  - 'https://en.wikipedia.org/wiki/Josh_White_(Christian_musician)'
+  - 'https://www.newreleasetoday.com/artistdetail.php?artist_id=3260'
+  - 'https://www.humblebeast.com/music/josh-white'
+  - 'https://cbn.com/article/jesus/pained-musician-finds-freedom-cross'
+  - 'https://raptinterviews.com/features/josh-white'
 network_extracted: true
 entry_created: '2025-10-31T08:21:16.590637'
 last_updated: '2025-12-23T08:16:10.992986'
@@ -111,9 +111,10 @@ disambiguation: American folk-blues singer/songwriter
 gender: Male
 musicbrainz_id: f0b3af36-a38b-4e5e-bf9a-d25ae11ca741
 tags:
-- acoustic blues
-- blues
-- country blues
+  - acoustic blues
+  - blues
+  - country blues
+is_active: false
 ---
 
 ![](josh_white.jpg)

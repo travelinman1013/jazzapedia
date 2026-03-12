@@ -2,18 +2,18 @@
 title: Pyeng Threadgill
 wiki_slug: pyeng-threadgill
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1977-11-14'
-birth_place: New York City, New York, United States
+birth_place: 'New York City, New York, United States'
 genres:
-- soul blues
+  - soul blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Pyeng_Threadgill.jpg
   caption: Pyeng Threadgill
   background: solo_singer
   born: '1977-11-14'
-  origin: New York City, New York, United States
+  origin: 'New York City, New York, United States'
 audio_profile:
   tempo_avg: 120.6
   energy_avg: 0.313
@@ -29,48 +29,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Elias Meister
-  - Allison Miller
-  - Ksenia Vasileka
-  - Amma Whatt
-  - Youssou N’Dour
-  - Marc Cary
-  - Urban Bush Women
+    - Elias Meister
+    - Allison Miller
+    - Ksenia Vasileka
+    - Amma Whatt
+    - Youssou N’Dour
+    - Marc Cary
+    - Urban Bush Women
   influenced: []
   mentors:
-  - Henry Threadgill
-  - Christina Jones
+    - Henry Threadgill
+    - Christina Jones
 spotify_data:
   followers: 1737
   id: 2QlGlfnbRZodXMKzFACfzf
   popularity: 8
-  url: https://open.spotify.com/artist/2QlGlfnbRZodXMKzFACfzf
+  url: 'https://open.spotify.com/artist/2QlGlfnbRZodXMKzFACfzf'
 discography_enriched: true
 top_tracks:
-- Close To Me (Of The Air)
-- 'Phonograph Blues (Sweet Home: The Music Of Robert Johnson)'
-- Wishing Well (Of The Air)
-- It's Late (Of The Air)
-- Ambrosia (Of The Air)
-- Power Trip (Of The Air)
-- Jitterbug Waltz (Of The Air)
-- 'Love In Vain Blues (Sweet Home: The Music Of Robert Johnson)'
-- Before Day (Of The Air)
-- Inner Lining (Of The Air)
+  - Close To Me (Of The Air)
+  - 'Phonograph Blues (Sweet Home: The Music Of Robert Johnson)'
+  - Wishing Well (Of The Air)
+  - It's Late (Of The Air)
+  - Ambrosia (Of The Air)
+  - Power Trip (Of The Air)
+  - Jitterbug Waltz (Of The Air)
+  - 'Love In Vain Blues (Sweet Home: The Music Of Robert Johnson)'
+  - Before Day (Of The Air)
+  - Inner Lining (Of The Air)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b334f4b5-1119-46f5-8904-703794c449ab
-  spotify: https://open.spotify.com/artist/2QlGlfnbRZodXMKzFACfzf
-  wikipedia: https://en.wikipedia.org/wiki/Pyeng_Threadgill
+  musicbrainz: 'https://musicbrainz.org/artist/b334f4b5-1119-46f5-8904-703794c449ab'
+  spotify: 'https://open.spotify.com/artist/2QlGlfnbRZodXMKzFACfzf'
+  wikipedia: 'https://en.wikipedia.org/wiki/Pyeng_Threadgill'
 image_path: 03_Resources/source_material/ArtistPortraits/Pyeng_Threadgill.jpg
 biography_enhanced_at: '2025-10-21T06:34:52.447991'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.pyeng.org/vocalist
-- https://en.wikipedia.org/wiki/Pyeng_Threadgill
-- https://www.pyengnyc.com/listen-music
-- https://tisch.nyu.edu/about/directory/clive-davis-institute/310069536.html
-- https://www.allaboutjazz.com/musicians/pyeng-threadgill
+  - 'https://www.pyeng.org/vocalist'
+  - 'https://en.wikipedia.org/wiki/Pyeng_Threadgill'
+  - 'https://www.pyengnyc.com/listen-music'
+  - 'https://tisch.nyu.edu/about/directory/clive-davis-institute/310069536.html'
+  - 'https://www.allaboutjazz.com/musicians/pyeng-threadgill'
 network_extracted: true
 entry_created: '2025-10-21T06:34:52.448002'
 last_updated: '2025-12-23T08:16:03.625629'
@@ -78,9 +78,9 @@ gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:41:51.288697'
 musicbrainz_id: b334f4b5-1119-46f5-8904-703794c449ab
 tags:
-- blues
-- jazz blues
-- soul blues
+  - blues
+  - jazz blues
+  - soul blues
 ---
 
 ![](Pyeng_Threadgill.jpg)

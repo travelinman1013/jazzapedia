@@ -1,23 +1,23 @@
 ---
-title: Pio Leyva
+title: Pío Leyva
 wiki_slug: pio-leyva
 schema_version: 2
 status: active
-birth_place: Morón, Ciego de Ávila, Cuba
+birth_place: 'Morón, Ciego de Ávila, Cuba'
 genres:
-- son cubano
+  - son cubano
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/pio_leyva.jpg
   caption: Pio Leyva
   background: solo_singer
-  origin: Morón, Ciego de Ávila, Cuba
+  origin: 'Morón, Ciego de Ávila, Cuba'
 audio_profile:
   tempo_avg: 120.4
   energy_avg: 0.301
   valence_avg: 0.678
   danceability_avg: 0.699
   acousticness_avg: 0.807
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -13.9
   speechiness_avg: 0.064
   liveness_avg: 0.099
@@ -26,38 +26,41 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Beny Moré
-  - Bebo Valdés
-  - Compay Segundo
-  - Juan De Marcos
+    - Beny Moré
+    - Bebo Valdés
+    - Compay Segundo
+    - Juan De Marcos
   influenced:
-  - Barbarito Torres
+    - Barbarito Torres
   mentors:
-  - Juanito Blez
+    - Juanito Blez
 spotify_data:
   followers: 375
   id: 0vf9blfHE7kk4aIZvXdZEd
   popularity: 12
-  url: https://open.spotify.com/artist/0vf9blfHE7kk4aIZvXdZEd
+  url: 'https://open.spotify.com/artist/0vf9blfHE7kk4aIZvXdZEd'
 discography_enriched: true
 top_tracks:
-- 'Bajo un palmar (Buena Vista: More Havana Stars/ Mas Leyendas de La Habana)'
-- 'Bajo un palmar (Buena Vista: More Havana Stars/ Mas Leyendas de La Habana)'
-- 'Bajo un palmar (Buena Vista: More Havana Stars/ Mas Leyendas de La Habana)'
+  - 'Bajo un palmar (Buena Vista: More Havana Stars/ Mas Leyendas de La Habana)'
+  - 'Bajo un palmar (Buena Vista: More Havana Stars/ Mas Leyendas de La Habana)'
+  - 'Bajo un palmar (Buena Vista: More Havana Stars/ Mas Leyendas de La Habana)'
 external_urls:
-  spotify: https://open.spotify.com/artist/0vf9blfHE7kk4aIZvXdZEd
+  spotify: 'https://open.spotify.com/artist/0vf9blfHE7kk4aIZvXdZEd'
   wikipedia: No specific Wikipedia URL found
 image_path: ''
 biography_enhanced_at: '2025-10-26T12:28:31.043022'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- The Independent
-- Kiddle Encyclopedia
-- The Namibian
+  - The Independent
+  - Kiddle Encyclopedia
+  - The Namibian
 network_extracted: true
 entry_created: '2025-10-26T12:28:31.043032'
 last_updated: '2025-12-23T08:16:14.323182'
+birth_date: '1917-05-05'
+death_date: '2006-03-22'
+artist_type: person
 ---
 
 ![]()

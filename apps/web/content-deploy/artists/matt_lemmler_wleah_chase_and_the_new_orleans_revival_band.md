@@ -3,23 +3,24 @@ title: Matt Lemmler w/Leah Chase & the New Orleans Revival Band
 wiki_slug: matt-lemmler-wleah-chase-the-new-orleans-revival-band
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- christian country
-- southern gospel
-- traditional country
+  - christian country
+  - southern gospel
+  - traditional country
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/matt_lemmler_wleah_chase_and_the_new_orleans_revival_band.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/matt_lemmler_wleah_chase_and_the_new_orleans_revival_band.jpg
   caption: Matt Lemmler w/Leah Chase & the New Orleans Revival Band
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 115.5
   energy_avg: 0.496
   valence_avg: 0.693
   danceability_avg: 0.581
   acousticness_avg: 0.616
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -10.4
   speechiness_avg: 0.043
   liveness_avg: 0.328
@@ -28,57 +29,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Leah Chase
-  - Brian Blade
-  - John Ellis
-  - Nicholas Payton
-  - Don Vappie
-  - Joel Frahm
-  - Steve Masakowski
+    - Leah Chase
+    - Brian Blade
+    - John Ellis
+    - Nicholas Payton
+    - Don Vappie
+    - Joel Frahm
+    - Steve Masakowski
   influenced:
-  - 265 middle school musicians
-  - Ridgeview Charter Middle School students
-  - Loyola University students
-  - University of New Orleans students
+    - 265 middle school musicians
+    - Ridgeview Charter Middle School students
+    - Loyola University students
+    - University of New Orleans students
   mentors:
-  - Bob French
-  - Pete Fountain
-  - Herb Tassin
-  - Dave Frishberg
-  - James Booker
+    - Bob French
+    - Pete Fountain
+    - Herb Tassin
+    - Dave Frishberg
+    - James Booker
 spotify_data:
   followers: 247443
   id: 5PSWc8Y94zFsAtZlTe7ipI
   popularity: 47
-  url: https://open.spotify.com/artist/5PSWc8Y94zFsAtZlTe7ipI
+  url: 'https://open.spotify.com/artist/5PSWc8Y94zFsAtZlTe7ipI'
 discography_enriched: true
 top_tracks:
-- 'Flowers On the Wall (Flowers On The Wall: The Essential Statler Brothers 1964-1969)'
-- Flowers on the Wall (Flowers on the Wall)
-- Bed Of Rose's (Bed Of Rose's)
-- Hello Mary Lou (Pardners In Rhyme)
-- New York City (Bed Of Rose's)
-- I'll Go To My Grave Loving You (The Definitive Collection)
-- Too Much On My Heart (Pardners In Rhyme)
-- Do You Know You Are My Sunshine? (Entertainers On & Off The Record)
-- Elizabeth (Today)
-- The Class Of '57 (Country Music Then And Now)
+  - >-
+    Flowers On the Wall (Flowers On The Wall: The Essential Statler Brothers
+    1964-1969)
+  - Flowers on the Wall (Flowers on the Wall)
+  - Bed Of Rose's (Bed Of Rose's)
+  - Hello Mary Lou (Pardners In Rhyme)
+  - New York City (Bed Of Rose's)
+  - I'll Go To My Grave Loving You (The Definitive Collection)
+  - Too Much On My Heart (Pardners In Rhyme)
+  - Do You Know You Are My Sunshine? (Entertainers On & Off The Record)
+  - Elizabeth (Today)
+  - The Class Of '57 (Country Music Then And Now)
 external_urls:
-  spotify: https://open.spotify.com/artist/5PSWc8Y94zFsAtZlTe7ipI
+  spotify: 'https://open.spotify.com/artist/5PSWc8Y94zFsAtZlTe7ipI'
   wikipedia: null
-image_path: 03_Resources/source_material/ArtistPortraits/matt_lemmler_wleah_chase_and_the_new_orleans_revival_band.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/matt_lemmler_wleah_chase_and_the_new_orleans_revival_band.jpg
 biography_enhanced_at: '2025-10-28T08:58:01.740051'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://mattlemmler.com/my-story
-- https://mattlemmler.com/new-orleans-jazz-revival-band
-- https://www.offbeat.com/music/matt-lemmler-new-orleans-in-stride-volume-1-and-2-nolajazzrevival/
-- https://cmm.loyno.edu/academics/faculty-and-staff-directory/matt-lemmler
+  - 'https://mattlemmler.com/my-story'
+  - 'https://mattlemmler.com/new-orleans-jazz-revival-band'
+  - >-
+    https://www.offbeat.com/music/matt-lemmler-new-orleans-in-stride-volume-1-and-2-nolajazzrevival/
+  - 'https://cmm.loyno.edu/academics/faculty-and-staff-directory/matt-lemmler'
 network_extracted: true
 entry_created: '2025-10-28T08:58:01.740057'
 last_updated: '2025-12-23T08:16:12.837956'
-
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](matt_lemmler_wleah_chase_and_the_new_orleans_revival_band.jpg)

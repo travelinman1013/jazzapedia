@@ -2,13 +2,13 @@
 title: Bermuda Triangle
 wiki_slug: bermuda-triangle
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '2017'
 genres:
-- indie electronic
+  - indie electronic
 instruments:
-- original
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bermuda_triangle.jpg
   caption: Bermuda Triangle
@@ -29,67 +29,69 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Brittany Howard
-  - Becca Mancari
-  - Jesse Lafser
+    - Brittany Howard
+    - Becca Mancari
+    - Jesse Lafser
   influenced: []
   mentors: []
 spotify_data:
   followers: 493
   id: 4JEG5CL7RAGO60HmEpW7YP
   popularity: 1
-  url: https://open.spotify.com/artist/4JEG5CL7RAGO60HmEpW7YP
+  url: 'https://open.spotify.com/artist/4JEG5CL7RAGO60HmEpW7YP'
 discography_enriched: true
 top_tracks:
-- Tay Do 22 (Mooger Fooger)
-- Mooger Fooger (Mooger Fooger)
-- It Feels Good (33rpm)
-- Secret Pillow (Mooger Fooger)
-- This Is Just (Another Song) (Mooger Fooger)
-- Border Me (33rpm)
-- Fearless (33rpm)
-- Carib (Mooger Fooger)
-- Black Sheep (Mooger Fooger)
-- Mooger Fooger - Subway Mix (Mooger Fooger)
+  - Tay Do 22 (Mooger Fooger)
+  - Mooger Fooger (Mooger Fooger)
+  - It Feels Good (33rpm)
+  - Secret Pillow (Mooger Fooger)
+  - This Is Just (Another Song) (Mooger Fooger)
+  - Border Me (33rpm)
+  - Fearless (33rpm)
+  - Carib (Mooger Fooger)
+  - Black Sheep (Mooger Fooger)
+  - Mooger Fooger - Subway Mix (Mooger Fooger)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b318f811-ef0f-4562-aef7-5cebcb52aac1
-  spotify: https://open.spotify.com/artist/4JEG5CL7RAGO60HmEpW7YP
+  musicbrainz: 'https://musicbrainz.org/artist/b318f811-ef0f-4562-aef7-5cebcb52aac1'
+  spotify: 'https://open.spotify.com/artist/4JEG5CL7RAGO60HmEpW7YP'
   wikipedia: not found
 image_path: 03_Resources/source_material/ArtistPortraits/bermuda_triangle.jpg
 biography_enhanced_at: '2025-10-26T12:40:59.630010'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://thekessler.org/bands/bermuda-triangle/
-- https://en.wikipedia.org/wiki/Becca_Mancari
-- https://riffmagazine.com/features/becca-mancari-bermuda-triangle/
-- https://www.brooklynvegan.com/bermuda-triangle-brittany-howard-becca-mancari-jesse-lafser-mhow-pics/
-- https://www.thewildhoneypie.com/buzzing-daily/bermuda-triangle-till-the-end-of-days
+  - 'https://thekessler.org/bands/bermuda-triangle/'
+  - 'https://en.wikipedia.org/wiki/Becca_Mancari'
+  - 'https://riffmagazine.com/features/becca-mancari-bermuda-triangle/'
+  - >-
+    https://www.brooklynvegan.com/bermuda-triangle-brittany-howard-becca-mancari-jesse-lafser-mhow-pics/
+  - >-
+    https://www.thewildhoneypie.com/buzzing-daily/bermuda-triangle-till-the-end-of-days
 network_extracted: true
 entry_created: '2025-10-26T12:40:59.630030'
 last_updated: '2025-12-23T08:16:05.339890'
 disambiguation: USA indie rock / folk trio
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 03eda2c4-a2b3-4a4e-9527-6791b0ed9d2d
-  name: Brittany Howard
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: bee5a35e-42d3-4b14-ae78-9833f4fbc852
-  name: Jesse Lafser
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: c87cdfa5-d59f-4e5f-92dc-6320aec37bb1
-  name: Becca Mancari
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 03eda2c4-a2b3-4a4e-9527-6791b0ed9d2d
+    name: Brittany Howard
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: bee5a35e-42d3-4b14-ae78-9833f4fbc852
+    name: Jesse Lafser
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: c87cdfa5-d59f-4e5f-92dc-6320aec37bb1
+    name: Becca Mancari
 musicbrainz_id: b318f811-ef0f-4562-aef7-5cebcb52aac1
-origin: Nashville, Tennessee, United States
+origin: 'Nashville, Tennessee, United States'
 ---
 
 ![](bermuda_triangle.jpg)

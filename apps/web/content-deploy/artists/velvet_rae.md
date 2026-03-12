@@ -4,10 +4,10 @@ birth_place: Unable to verify
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:17:26.057975'
 external_urls:
-  spotify: https://open.spotify.com/artist/4QVQb2hkAnexsROnMcB5qS
+  spotify: 'https://open.spotify.com/artist/4QVQb2hkAnexsROnMcB5qS'
   wikipedia: Not found
 genres:
-- soul blues
+  - soul blues
 image_path: 03_Resources/source_material/ArtistPortraits/velvet_rae.jpg
 last_updated: '2026-01-22T07:17:26.057976'
 musical_connections:
@@ -17,14 +17,15 @@ musical_connections:
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://velvetraemusic.com
+  - 'https://velvetraemusic.com'
 spotify_data:
   followers: 2114
   id: 4QVQb2hkAnexsROnMcB5qS
   popularity: 32
-  url: https://open.spotify.com/artist/4QVQb2hkAnexsROnMcB5qS
+  url: 'https://open.spotify.com/artist/4QVQb2hkAnexsROnMcB5qS'
 status: active
 title: Velvet Rae
+artist_type: person
 ---
 
 ![](velvet_rae.jpg)

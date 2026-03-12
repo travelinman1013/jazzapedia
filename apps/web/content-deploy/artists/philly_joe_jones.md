@@ -1,84 +1,84 @@
 ---
-title: PHILLY JOE JONES
+title: Philly Joe Jones
 wiki_slug: philly-joe-jones
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1923-07-15'
-birth_place: Philadelphia
+birth_place: 'Philadelphia, Pennsylvania, United States'
 death_date: '1985-08-30'
 genres:
-- hard bop
-- bebop
-- jazz
-- cool jazz
+  - hard bop
+  - bebop
+  - jazz
+  - cool jazz
 instruments:
-- membranophone
-- drums (drum set)
-- eponymous
-- original
-- piano
-associated_acts:
-- begin: '1955'
-  end: '1958'
-  instruments: []
-  mbid: fe7245e7-d734-4ca1-8e26-691883f58201
-  name: Miles Davis Quintet
-- begin: '1955'
-  end: '1958'
-  instruments:
   - membranophone
-  mbid: f137837b-fa55-48d1-8c85-f13961b3ac77
-  name: Miles Davis Sextet
-- begin: ''
-  end: ''
-  instruments:
   - drums (drum set)
-  mbid: 9fb7dbc9-76cf-412d-91cf-79ae97d8ace2
-  name: Elmo Hope Sextet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 34c81ce1-c05e-4dd3-a865-1e09f0aa456a
-  name: Johnny Griffin Sextet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 10254a46-a9fa-46ee-adc0-f47dc6621923
-  name: Johnny Griffin Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2c0f3197-b906-4d44-98d2-99d20db45506
-  name: Kenny Dorham Septet
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: d0630a08-3b40-4cb4-9f48-7d525262c1f6
-  name: Bill Evans Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 607d7275-2b92-49e5-a7ee-32f9cc29b076
-  name: Miles Davis All Stars
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 03606dee-b333-48fe-b9af-d671c837d40f
-  name: Miles Davis Quartet
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
-  mbid: 5065c1b7-db4c-4195-8600-8b1d79329fd9
-  name: Philly Joe Jones Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d4cae6a8-5480-42dc-b300-ce251c4bb279
-  name: Phineas Newborn Quartet
+  - piano
+associated_acts:
+  - begin: '1955'
+    end: '1958'
+    instruments: []
+    mbid: fe7245e7-d734-4ca1-8e26-691883f58201
+    name: Miles Davis Quintet
+  - begin: '1955'
+    end: '1958'
+    instruments:
+      - membranophone
+    mbid: f137837b-fa55-48d1-8c85-f13961b3ac77
+    name: Miles Davis Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 9fb7dbc9-76cf-412d-91cf-79ae97d8ace2
+    name: Elmo Hope Sextet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 34c81ce1-c05e-4dd3-a865-1e09f0aa456a
+    name: Johnny Griffin Sextet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 10254a46-a9fa-46ee-adc0-f47dc6621923
+    name: Johnny Griffin Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2c0f3197-b906-4d44-98d2-99d20db45506
+    name: Kenny Dorham Septet
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: d0630a08-3b40-4cb4-9f48-7d525262c1f6
+    name: Bill Evans Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 607d7275-2b92-49e5-a7ee-32f9cc29b076
+    name: Miles Davis All Stars
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 03606dee-b333-48fe-b9af-d671c837d40f
+    name: Miles Davis Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 5065c1b7-db4c-4195-8600-8b1d79329fd9
+    name: Philly Joe Jones Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d4cae6a8-5480-42dc-b300-ce251c4bb279
+    name: Phineas Newborn Quartet
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/philly_joe_jones.jpg
   caption: PHILLY JOE JONES
@@ -101,60 +101,78 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Miles Davis
-  - John Coltrane
-  - Red Garland
-  - Paul Chambers
-  - Bill Evans
-  - Tadd Dameron
-  - Hank Mobley
-  - Clifford Brown
-  - Lee Morgan
-  - Archie Shepp
-  - Mal Waldron
+    - Miles Davis
+    - John Coltrane
+    - Red Garland
+    - Paul Chambers
+    - Bill Evans
+    - Tadd Dameron
+    - Hank Mobley
+    - Clifford Brown
+    - Lee Morgan
+    - Archie Shepp
+    - Mal Waldron
   influenced:
-  - Elvin Jones
-  - Tony Williams
-  - Roy Haynes
+    - Elvin Jones
+    - Tony Williams
+    - Roy Haynes
   mentors:
-  - Cozy Cole
-  - Charles Wilcoxon
-  - Art Blakey
-  - Max Roach
+    - Cozy Cole
+    - Charles Wilcoxon
+    - Art Blakey
+    - Max Roach
 spotify_data:
   followers: 17401
   id: 4WhH68K75YKSAwHAqWFpi1
   popularity: 45
-  url: https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1
+  url: 'https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1'
 discography_enriched: true
 top_tracks:
-- Milestones (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones) (Milestones)
-- '''Round Midnight (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones) (''Round About Midnight)'
-- Bye Bye Blackbird (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones) ('Round About Midnight)
-- All of You (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones) ('Round About Midnight)
-- Straight, No Chaser (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones) (Milestones)
-- Two Bass Hit (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones) (Milestones)
-- Dear Old Stockholm (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones) ('Round About Midnight)
-- Ah-Leu-Cha (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones) ('Round About Midnight)
-- Dr. Jackle (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones) (Milestones)
-- Time Remembered (The Interplay Sessions [2-fer])
+  - >-
+    Milestones (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul
+    Chambers & Philly Joe Jones) (Milestones)
+  - >-
+    'Round Midnight (feat. John Coltrane, Red Garland, Paul Chambers & Philly
+    Joe Jones) ('Round About Midnight)
+  - >-
+    Bye Bye Blackbird (feat. John Coltrane, Red Garland, Paul Chambers & Philly
+    Joe Jones) ('Round About Midnight)
+  - >-
+    All of You (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe
+    Jones) ('Round About Midnight)
+  - >-
+    Straight, No Chaser (feat. John Coltrane, Cannonball Adderley, Red Garland,
+    Paul Chambers & Philly Joe Jones) (Milestones)
+  - >-
+    Two Bass Hit (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul
+    Chambers & Philly Joe Jones) (Milestones)
+  - >-
+    Dear Old Stockholm (feat. John Coltrane, Red Garland, Paul Chambers & Philly
+    Joe Jones) ('Round About Midnight)
+  - >-
+    Ah-Leu-Cha (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe
+    Jones) ('Round About Midnight)
+  - >-
+    Dr. Jackle (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul
+    Chambers & Philly Joe Jones) (Milestones)
+  - 'Time Remembered (The Interplay Sessions [2-fer])'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/53717b9b-62ab-4d83-94dd-e559164e10dc
-  spotify: https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1
-  wikipedia: https://en.wikipedia.org/wiki/Philly_Joe_Jones
+  musicbrainz: 'https://musicbrainz.org/artist/53717b9b-62ab-4d83-94dd-e559164e10dc'
+  spotify: 'https://open.spotify.com/artist/4WhH68K75YKSAwHAqWFpi1'
+  wikipedia: 'https://en.wikipedia.org/wiki/Philly_Joe_Jones'
 image_path: 03_Resources/source_material/ArtistPortraits/philly_joe_jones.jpg
 biography_enhanced_at: '2025-10-31T08:06:00.559309'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Philly Joe Jones
-- 'Modern Drummer - Philly Joe Jones: One Of The Greatest Hard Boppers'
-- All About Jazz - Philly Joe Jones Musician
-- Britannica - Philly Joe Jones
-- JazzProfiles - Philly Joe Jones (1980) by Larry Kart
-- Drummerworld - Philly Joe Jones
-- Vinnie Sperrazza Chronicles - For Philly Joe Jones
-- Sumi Tonooka - Remembering Philly Joe
+  - Wikipedia - Philly Joe Jones
+  - 'Modern Drummer - Philly Joe Jones: One Of The Greatest Hard Boppers'
+  - All About Jazz - Philly Joe Jones Musician
+  - Britannica - Philly Joe Jones
+  - JazzProfiles - Philly Joe Jones (1980) by Larry Kart
+  - Drummerworld - Philly Joe Jones
+  - Vinnie Sperrazza Chronicles - For Philly Joe Jones
+  - Sumi Tonooka - Remembering Philly Joe
 network_extracted: true
 entry_created: '2025-10-31T08:06:00.559318'
 last_updated: '2025-12-23T08:16:14.280123'
@@ -162,9 +180,10 @@ disambiguation: US jazz drummer
 gender: Male
 musicbrainz_id: 53717b9b-62ab-4d83-94dd-e559164e10dc
 tags:
-- bebop
-- hard bop
-- jazz
+  - bebop
+  - hard bop
+  - jazz
+is_active: false
 ---
 
 ![](philly_joe_jones.jpg)

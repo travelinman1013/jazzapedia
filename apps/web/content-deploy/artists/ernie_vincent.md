@@ -3,15 +3,15 @@ title: Ernie Vincent
 wiki_slug: ernie-vincent
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ernie_vincent.jpg
   caption: Ernie Vincent
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 117.9
   energy_avg: 0.655
@@ -27,51 +27,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Top Notes
-  - Ernie K-Doe
-  - King Floyd
-  - Jean Knight
-  - Eddie Bo
-  - Solomon Burke
-  - Jimbo Mathus
+    - The Top Notes
+    - Ernie K-Doe
+    - King Floyd
+    - Jean Knight
+    - Eddie Bo
+    - Solomon Burke
+    - Jimbo Mathus
   influenced:
-  - Local New Orleans funk and blues musicians
+    - Local New Orleans funk and blues musicians
   mentors:
-  - Herlin Delpit
+    - Herlin Delpit
 spotify_data:
   followers: 135
   id: 7FtPj5fEgVDxX5xiQ5bK4l
   popularity: 0
-  url: https://open.spotify.com/artist/7FtPj5fEgVDxX5xiQ5bK4l
+  url: 'https://open.spotify.com/artist/7FtPj5fEgVDxX5xiQ5bK4l'
 discography_enriched: true
 top_tracks:
-- Midnight Rendezvous (Original Dap King)
-- We Do Funk (Louisiana Magic)
-- Honey Buns (The Kolab Kollection (Ernie Vincent Presents))
-- Your Love's Haunting Me (The Kolab Kollection (Ernie Vincent Presents))
-- I'm Your Snake Baby (The Kolab Kollection (Ernie Vincent Presents))
-- Swamp Daddy (The Kolab Kollection (Ernie Vincent Presents))
-- Christmas Blues (The Kolab Kollection (Ernie Vincent Presents))
-- Pork Chop Alley (The Kolab Kollection (Ernie Vincent Presents))
-- Body Shop (Original Dap King)
-- Midnight Rendezvous (Original Dap King)
+  - Midnight Rendezvous (Original Dap King)
+  - We Do Funk (Louisiana Magic)
+  - Honey Buns (The Kolab Kollection (Ernie Vincent Presents))
+  - Your Love's Haunting Me (The Kolab Kollection (Ernie Vincent Presents))
+  - I'm Your Snake Baby (The Kolab Kollection (Ernie Vincent Presents))
+  - Swamp Daddy (The Kolab Kollection (Ernie Vincent Presents))
+  - Christmas Blues (The Kolab Kollection (Ernie Vincent Presents))
+  - Pork Chop Alley (The Kolab Kollection (Ernie Vincent Presents))
+  - Body Shop (Original Dap King)
+  - Midnight Rendezvous (Original Dap King)
 external_urls:
-  spotify: https://open.spotify.com/artist/7FtPj5fEgVDxX5xiQ5bK4l
+  spotify: 'https://open.spotify.com/artist/7FtPj5fEgVDxX5xiQ5bK4l'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/ernie_vincent.jpg
 biography_enhanced_at: '2025-11-12T14:56:56.105138'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://digital.livingblues.com/articles/ernie-vincent
-- https://www.americanbluesscene.com/2023/01/from-dap-walk-to-original-dap-king-the-enduring-power-of-ernie-vincent/
-- https://www.musicmaker.org/stories/ernie-vincent-the-master-bandleader-of-new-orleans-funk/
-- https://www.namm.org/library/oral-history/ernie-vincent
-- https://www.offbeat.com/articles/kolabs-ernie-vincent/
-- https://www.viberate.com/artist/ernie-vincent/
+  - 'https://digital.livingblues.com/articles/ernie-vincent'
+  - >-
+    https://www.americanbluesscene.com/2023/01/from-dap-walk-to-original-dap-king-the-enduring-power-of-ernie-vincent/
+  - >-
+    https://www.musicmaker.org/stories/ernie-vincent-the-master-bandleader-of-new-orleans-funk/
+  - 'https://www.namm.org/library/oral-history/ernie-vincent'
+  - 'https://www.offbeat.com/articles/kolabs-ernie-vincent/'
+  - 'https://www.viberate.com/artist/ernie-vincent/'
 network_extracted: true
 entry_created: '2025-11-12T14:56:56.105147'
 last_updated: '2025-12-23T08:16:08.444440'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](ernie_vincent.jpg)

@@ -1,13 +1,13 @@
 ---
-title: THE RED DEVILS
+title: The Red Devils
 wiki_slug: the-red-devils
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1988'
 genres:
-- blues rock
-- blues
+  - blues rock
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_red_devils.jpg
   caption: THE RED DEVILS
@@ -28,53 +28,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lester Butler
-  - Paul Size
-  - Bill Bateman
-  - Dave Lee Bartel
-  - Jonny Ray Bartel
-  - Gene 'Fingers' Taylor
-  - Johnny Cash
+    - Lester Butler
+    - Paul Size
+    - Bill Bateman
+    - Dave Lee Bartel
+    - Jonny Ray Bartel
+    - Gene 'Fingers' Taylor
+    - Johnny Cash
   influenced: []
   mentors:
-  - Howlin' Wolf
-  - Muddy Waters
-  - Rick Rubin
+    - Howlin' Wolf
+    - Muddy Waters
+    - Rick Rubin
 spotify_data:
   followers: 610
   id: 5hrPdg1Wm38b7O0n5dKEYi
   popularity: 12
-  url: https://open.spotify.com/artist/5hrPdg1Wm38b7O0n5dKEYi
+  url: 'https://open.spotify.com/artist/5hrPdg1Wm38b7O0n5dKEYi'
 discography_enriched: true
 top_tracks:
-- Checkin' Up On My Baby (The Very Best Of Mick Jagger)
-- Profondo Rosso (Quei Fantastici Anni 70)
-- Checkin' Up On My Baby (The Very Best of Mick Jagger)
+  - Checkin' Up On My Baby (The Very Best Of Mick Jagger)
+  - Profondo Rosso (Quei Fantastici Anni 70)
+  - Checkin' Up On My Baby (The Very Best of Mick Jagger)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2150d906-3fd0-41f1-b7d7-c3319f87cfb9
-  spotify: https://open.spotify.com/artist/5hrPdg1Wm38b7O0n5dKEYi
+  musicbrainz: 'https://musicbrainz.org/artist/2150d906-3fd0-41f1-b7d7-c3319f87cfb9'
+  spotify: 'https://open.spotify.com/artist/5hrPdg1Wm38b7O0n5dKEYi'
   wikipedia: null
 image_path: ''
 biography_enhanced_at: '2025-10-28T09:10:21.747771'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.loudersound.com/features/blues-drugs-fights-cops-jail-death-the-incredible-story-of-the-red-devils
-- https://www.youtube.com/watch?v=_PemeiYZX30
-- https://www.allmusic.com/artist/red-devils-mn0000494860
-- https://andredieterman.com/the-red-devils
+  - >-
+    https://www.loudersound.com/features/blues-drugs-fights-cops-jail-death-the-incredible-story-of-the-red-devils
+  - 'https://www.youtube.com/watch?v=_PemeiYZX30'
+  - 'https://www.allmusic.com/artist/red-devils-mn0000494860'
+  - 'https://andredieterman.com/the-red-devils'
 network_extracted: true
 entry_created: '2025-10-28T09:10:21.747802'
 last_updated: '2025-12-23T08:16:17.095028'
-disambiguation: US blues-rock, 1980s/90s
+disambiguation: 'US blues-rock, 1980s/90s'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 07acd1cc-ba09-4079-abc5-99b9346b69fe
-  name: Johnny Ray Bartel
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 07acd1cc-ba09-4079-abc5-99b9346b69fe
+    name: Johnny Ray Bartel
 musicbrainz_id: 2150d906-3fd0-41f1-b7d7-c3319f87cfb9
-origin: Los Angeles, California, United States
+origin: 'Los Angeles, California, United States'
 ---
 
 ![]()

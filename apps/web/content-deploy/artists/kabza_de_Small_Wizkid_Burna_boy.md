@@ -1,21 +1,22 @@
 ---
-title: kabza de Small/ Wizkid/ Burna boy
+title: Kabza De Small
 wiki_slug: kabza-de-small-wizkid-burna-boy
 schema_version: 2
 status: active
-birth_place: eMalahleni, Mpumalanga, South Africa
+birth_place: 'eMalahleni, Mpumalanga, South Africa'
 genres:
-- amapiano
-- private school piano
-- gqom
-- 3 step
-- afropiano
-- afro house
+  - amapiano
+  - private school piano
+  - gqom
+  - 3 step
+  - afropiano
+  - afro house
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/kabza_de_Small_Wizkid_Burna_boy.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/kabza_de_Small_Wizkid_Burna_boy.jpg
   caption: kabza de Small/ Wizkid/ Burna boy
   background: solo_singer
-  origin: eMalahleni, Mpumalanga, South Africa
+  origin: 'eMalahleni, Mpumalanga, South Africa'
 audio_profile:
   tempo_avg: 116.9
   energy_avg: 0.614
@@ -31,51 +32,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - DJ Maphorisa
-  - Leehleza
-  - TRESOR
-  - Wizkid
-  - Burna Boy
-  - Young Stunna
+    - DJ Maphorisa
+    - Leehleza
+    - TRESOR
+    - Wizkid
+    - Burna Boy
+    - Young Stunna
   influenced:
-  - Young Stunna
-  - Focalistic
-  - Kelvin Momo
+    - Young Stunna
+    - Focalistic
+    - Kelvin Momo
   mentors:
-  - DJ Maphorisa
+    - DJ Maphorisa
 spotify_data:
   followers: 6615532
   id: 1bNjWBFWsAAzZSR59lRdpR
   popularity: 66
-  url: https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR
+  url: 'https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR'
 discography_enriched: true
 top_tracks:
-- Wishi Wishi (feat. Scotts Maphuma & Young Stunna)
-- Imithandazo (feat. Young Stunna, DJ Maphorisa, Sizwe Alakine & Umthakathi Kush) (Isimo)
-- A-Z (Yashi Moto)
-- Abalele
-- Kabza Chant 2.0 (feat. Nobuhle, Nkosazana Daughter & Sykes)
-- Amazwe (feat. Mawhoo) (Isimo)
-- Asibe Happy
-- Ethongweni (feat. Cnethemba Gonelo) (Thato Ya Modimo)
-- Iza Mawala (feat. Dladla Mshunqisi & Goldmax)
-- Amalanga (feat. TO Starquality, Chley & Kabza De Small) (Lane Yam)
+  - Wishi Wishi (feat. Scotts Maphuma & Young Stunna)
+  - >-
+    Imithandazo (feat. Young Stunna, DJ Maphorisa, Sizwe Alakine & Umthakathi
+    Kush) (Isimo)
+  - A-Z (Yashi Moto)
+  - Abalele
+  - 'Kabza Chant 2.0 (feat. Nobuhle, Nkosazana Daughter & Sykes)'
+  - Amazwe (feat. Mawhoo) (Isimo)
+  - Asibe Happy
+  - Ethongweni (feat. Cnethemba Gonelo) (Thato Ya Modimo)
+  - Iza Mawala (feat. Dladla Mshunqisi & Goldmax)
+  - 'Amalanga (feat. TO Starquality, Chley & Kabza De Small) (Lane Yam)'
 external_urls:
-  spotify: https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR
-  wikipedia: https://en.wikipedia.org/wiki/Kabza_De_Small
-image_path: 03_Resources/source_material/ArtistPortraits/kabza_de_Small_Wizkid_Burna_boy.jpg
+  spotify: 'https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kabza_De_Small'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/kabza_de_Small_Wizkid_Burna_boy.jpg
 biography_enhanced_at: '2025-10-20T10:34:17.921874'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://amapianogroove.com/kabza-de-small-early-life-songs-accomplishments/
-- https://esport.playzone.ma/news_details?editoProduct=&editoDocument=67eba520e77e066092012af5&dve_trk_id=722f203f-c1b7-43da-884a-d6dd4be05a36
-- https://sootafrica.com/producer-spotlight-kabza-de-small-the-king-of-amapiano/
-- https://www.last.fm/music/Kabza+De+Small/+wiki
+  - 'https://amapianogroove.com/kabza-de-small-early-life-songs-accomplishments/'
+  - >-
+    https://esport.playzone.ma/news_details?editoProduct=&editoDocument=67eba520e77e066092012af5&dve_trk_id=722f203f-c1b7-43da-884a-d6dd4be05a36
+  - >-
+    https://sootafrica.com/producer-spotlight-kabza-de-small-the-king-of-amapiano/
+  - 'https://www.last.fm/music/Kabza+De+Small/+wiki'
 network_extracted: true
 entry_created: '2025-10-20T10:34:17.921892'
 last_updated: '2025-12-23T08:16:11.146070'
-
+birth_date: '1992-11-27'
+artist_type: person
 ---
 
 ![](kabza_de_Small_Wizkid_Burna_boy.jpg)

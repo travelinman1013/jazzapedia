@@ -3,13 +3,13 @@ title: Deacon John
 wiki_slug: deacon-john
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/deacon_john.jpg
   caption: Deacon John
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 129.1
   energy_avg: 0.773
@@ -25,54 +25,71 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Irma Thomas
-  - Aaron Neville
-  - Lee Dorsey
-  - Chris Kenner
-  - Robert Parker
-  - Earl King
-  - Allen Toussaint
-  - Deacon John & the Ivories
+    - Irma Thomas
+    - Aaron Neville
+    - Lee Dorsey
+    - Chris Kenner
+    - Robert Parker
+    - Earl King
+    - Allen Toussaint
+    - Deacon John & the Ivories
   influenced:
-  - Younger New Orleans R&B and wedding‑band musicians (various, not individually documented)
+    - >-
+      Younger New Orleans R&B and wedding‑band musicians (various, not
+      individually documented)
   mentors:
-  - Roy Montrell
-  - Justin Adams
-  - George Davis
+    - Roy Montrell
+    - Justin Adams
+    - George Davis
 spotify_data:
   followers: 410
   id: 5vxLJjNkdoMMRaAqQg8dOs
   popularity: 2
-  url: https://open.spotify.com/artist/5vxLJjNkdoMMRaAqQg8dOs
+  url: 'https://open.spotify.com/artist/5vxLJjNkdoMMRaAqQg8dOs'
 discography_enriched: true
 top_tracks:
-- Don't Dream It's Over (Crowded Shotgun House)
-- Gold Rolls Royce (Gold Rolls Royce)
-- You Don't Know How To Turn Me On (Funky Funky New Orleans, Vol. 3)
-- 'Happy Home - Live (Jazz Fest: The New Orleans Jazz & Heritage Festival)'
-- 'Haven''t I Been Good To You (Gotta Have Love: The Best of Chase Records, Vol. 2)'
-- Something so Strong (Crowded Shotgun House)
-- We Gone Dance (feat. Sha, Deacon John & S.E.A Pusha) (We Gone Dance (feat. Sha, Deacon John & S.E.A Pusha))
-- You Don't Know How To Turn Me On (Funky Funky New Orleans, Vol. 7)
-- 'A Dollar Ninety Eight (Gotta Have Love: The Best of Chase Records, Vol. 2)'
-- 'You Don''t Know How To Turn Me On (Gotta Have Love: The Best of Chase Records, Vol. 2)'
+  - Don't Dream It's Over (Crowded Shotgun House)
+  - Gold Rolls Royce (Gold Rolls Royce)
+  - 'You Don''t Know How To Turn Me On (Funky Funky New Orleans, Vol. 3)'
+  - 'Happy Home - Live (Jazz Fest: The New Orleans Jazz & Heritage Festival)'
+  - >-
+    Haven't I Been Good To You (Gotta Have Love: The Best of Chase Records, Vol.
+    2)
+  - Something so Strong (Crowded Shotgun House)
+  - >-
+    We Gone Dance (feat. Sha, Deacon John & S.E.A Pusha) (We Gone Dance (feat.
+    Sha, Deacon John & S.E.A Pusha))
+  - 'You Don''t Know How To Turn Me On (Funky Funky New Orleans, Vol. 7)'
+  - 'A Dollar Ninety Eight (Gotta Have Love: The Best of Chase Records, Vol. 2)'
+  - >-
+    You Don't Know How To Turn Me On (Gotta Have Love: The Best of Chase
+    Records, Vol. 2)
 external_urls:
-  spotify: https://open.spotify.com/artist/5vxLJjNkdoMMRaAqQg8dOs
+  spotify: 'https://open.spotify.com/artist/5vxLJjNkdoMMRaAqQg8dOs'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/deacon_john.jpg
 biography_enhanced_at: '2025-12-05T06:08:06.202551'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- General biographical sketches and hall‑of‑fame style entries on Deacon John Moore describing his upbringing in New Orleans,
-  church choir singing, purchase of a pawn‑shop guitar, and formation of the Ivories.
-- Historical profiles of New Orleans R&B and accounts of the Dew Drop Inn era documenting his role as a house‑band leader
-  and as a studio guitarist on records by Irma Thomas, Aaron Neville, Robert Parker, Chris Kenner, Lee Dorsey, and others.
-- Feature articles and local interviews from New Orleans publications highlighting his long‑standing presence at the New Orleans
-  Jazz & Heritage Festival and his prominence as a bandleader for social events.
+  - >-
+    General biographical sketches and hall‑of‑fame style entries on Deacon John
+    Moore describing his upbringing in New Orleans, church choir singing,
+    purchase of a pawn‑shop guitar, and formation of the Ivories.
+  - >-
+    Historical profiles of New Orleans R&B and accounts of the Dew Drop Inn era
+    documenting his role as a house‑band leader and as a studio guitarist on
+    records by Irma Thomas, Aaron Neville, Robert Parker, Chris Kenner, Lee
+    Dorsey, and others.
+  - >-
+    Feature articles and local interviews from New Orleans publications
+    highlighting his long‑standing presence at the New Orleans Jazz & Heritage
+    Festival and his prominence as a bandleader for social events.
 network_extracted: true
 entry_created: '2025-12-05T06:08:06.202560'
 last_updated: '2025-12-23T08:16:07.613511'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](deacon_john.jpg)

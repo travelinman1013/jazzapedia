@@ -3,24 +3,24 @@ title: Damian Marley
 wiki_slug: damian-marley
 schema_version: 2
 status: active
-birth_place: Kingston, Jamaica
+birth_place: 'Kingston, Jamaica, United States'
 genres:
-- dancehall
-- ragga
-- reggae
-- roots reggae
+  - dancehall
+  - ragga
+  - reggae
+  - roots reggae
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/damian_marley.jpg
   caption: Damian Marley
   background: solo_singer
-  origin: Kingston, Jamaica
+  origin: 'Kingston, Jamaica'
 audio_profile:
   tempo_avg: 108.9
   energy_avg: 0.711
   valence_avg: 0.716
   danceability_avg: 0.74
   acousticness_avg: 0.123
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -5.7
   speechiness_avg: 0.21
   liveness_avg: 0.194
@@ -29,49 +29,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Nas
-  - Skrillex
-  - The Shepherds
-  - Julian Marley
+    - Nas
+    - Skrillex
+    - The Shepherds
+    - Julian Marley
   influenced:
-  - Koffee
-  - Protoje
+    - Koffee
+    - Protoje
   mentors:
-  - Bob Marley
-  - Stephen Marley
+    - Bob Marley
+    - Stephen Marley
 spotify_data:
   followers: 1878804
   id: 3QJzdZJYIAcoET1GcfpNGi
   popularity: 68
-  url: https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi
+  url: 'https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi'
 discography_enriched: true
 top_tracks:
-- Welcome To Jamrock (Welcome to Jamrock)
-- Medication (Stony Hill)
-- Road To Zion (Welcome to Jamrock)
-- My Sweet Lord
-- Make It Bun Dem
-- Living It Up (Stony Hill)
-- Blessed (feat. Damian Marley) (Made In Lagos)
-- Liquor Store Blues (feat. Damian Marley) (Doo-Wops & Hooligans)
-- Welcome To Jamrock
-- Me Name Jr. Gong
+  - Welcome To Jamrock (Welcome to Jamrock)
+  - Medication (Stony Hill)
+  - Road To Zion (Welcome to Jamrock)
+  - My Sweet Lord
+  - Make It Bun Dem
+  - Living It Up (Stony Hill)
+  - Blessed (feat. Damian Marley) (Made In Lagos)
+  - Liquor Store Blues (feat. Damian Marley) (Doo-Wops & Hooligans)
+  - Welcome To Jamrock
+  - Me Name Jr. Gong
 external_urls:
-  spotify: https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi
-  wikipedia: https://en.wikipedia.org/wiki/Damian_Marley
+  spotify: 'https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi'
+  wikipedia: 'https://en.wikipedia.org/wiki/Damian_Marley'
 image_path: 03_Resources/source_material/ArtistPortraits/damian_marley.jpg
 biography_enhanced_at: '2025-11-21T07:26:41.937213'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.reggaeville.com/artist-details/damian-marley/about/
-- https://www.laketahoereggaefest.com/damian-and-stephen-marley/
-- https://damianmarley.com/about/
-- https://jamaicatravelandculture.com/music/damian_marley/damian-marley-biography.htm
-- https://en.wikipedia.org/wiki/Damian_Marley
+  - 'https://www.reggaeville.com/artist-details/damian-marley/about/'
+  - 'https://www.laketahoereggaefest.com/damian-and-stephen-marley/'
+  - 'https://damianmarley.com/about/'
+  - >-
+    https://jamaicatravelandculture.com/music/damian_marley/damian-marley-biography.htm
+  - 'https://en.wikipedia.org/wiki/Damian_Marley'
 network_extracted: true
 entry_created: '2025-11-21T07:26:41.937226'
 last_updated: '2025-12-23T08:16:07.407159'
+birth_date: '1978-07-21'
+artist_type: person
 ---
 
 ![](damian_marley.jpg)

@@ -4,13 +4,13 @@ wiki_slug: eg-kight
 schema_version: 2
 artist_type: person
 status: active
-birth_place: Georgia
+birth_place: 'Dublin, Georgia, United States'
 genres:
-- blues
+  - blues
 instruments:
-- guitar
-- lead vocals
-- background vocals
+  - guitar
+  - lead vocals
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/eg_kight.jpg
   caption: EG Kight
@@ -31,54 +31,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tom Horner
-  - Lee Roy Parnell
-  - Chris Hicks
-  - Paul Hornsby
-  - Ken Wynn, Gary Porter, Sean Williams
+    - Tom Horner
+    - Lee Roy Parnell
+    - Chris Hicks
+    - Paul Hornsby
+    - 'Ken Wynn, Gary Porter, Sean Williams'
   influenced:
-  - Songwriters in Italy and Germany
-  - Various blues artists
+    - Songwriters in Italy and Germany
+    - Various blues artists
   mentors:
-  - Koko Taylor
+    - Koko Taylor
 spotify_data:
   followers: 943
   id: 7xfPppNCLUCnh9fLNvnO6I
   popularity: 11
-  url: https://open.spotify.com/artist/7xfPppNCLUCnh9fLNvnO6I
+  url: 'https://open.spotify.com/artist/7xfPppNCLUCnh9fLNvnO6I'
 discography_enriched: true
 top_tracks:
-- Sad, Sad Sunday (Southern Comfort)
-- Let the Blues Move You (feat. Lee Roy Parnell & Chris Hicks) (Southern Comfort)
-- Talk to Me (Sticks & Strings)
-- Cry Like a Rainy Day (Southern Comfort)
-- You Just Don't Get It (The Trio Sessions)
-- Comin' Down With the Blues (A New Day)
-- That's How A Woman Loves (Lip Service)
-- House of the Rising Sun (It's Hot In Here)
-- Everybody Wants to Go to Heaven (Everybody Wants to Go to Heaven)
-- Somebody's Gotta Give (feat. Chuck Leavell) (Southern Comfort)
+  - 'Sad, Sad Sunday (Southern Comfort)'
+  - >-
+    Let the Blues Move You (feat. Lee Roy Parnell & Chris Hicks) (Southern
+    Comfort)
+  - Talk to Me (Sticks & Strings)
+  - Cry Like a Rainy Day (Southern Comfort)
+  - You Just Don't Get It (The Trio Sessions)
+  - Comin' Down With the Blues (A New Day)
+  - That's How A Woman Loves (Lip Service)
+  - House of the Rising Sun (It's Hot In Here)
+  - Everybody Wants to Go to Heaven (Everybody Wants to Go to Heaven)
+  - Somebody's Gotta Give (feat. Chuck Leavell) (Southern Comfort)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5b81c597-7d25-4570-83ad-5f2d089a9da6
-  spotify: https://open.spotify.com/artist/7xfPppNCLUCnh9fLNvnO6I
+  musicbrainz: 'https://musicbrainz.org/artist/5b81c597-7d25-4570-83ad-5f2d089a9da6'
+  spotify: 'https://open.spotify.com/artist/7xfPppNCLUCnh9fLNvnO6I'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/eg_kight.jpg
 biography_enhanced_at: '2025-10-30T11:55:54.618716'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://bagend.com/press/e-g-kight/
-- https://www.bluesblastmagazine.com/eg-kight-sticks-and-strings-album-review/
-- https://peachpickinmamas.wordpress.com/eg-kight-bio/
-- https://egkight.com/bio
-- https://egkight-epk.tripod.com
-- https://rockthepigeon.com/2023/11/28/eg-kight-is-the-blues-legend-you-should-be-listening-to/
+  - 'https://bagend.com/press/e-g-kight/'
+  - 'https://www.bluesblastmagazine.com/eg-kight-sticks-and-strings-album-review/'
+  - 'https://peachpickinmamas.wordpress.com/eg-kight-bio/'
+  - 'https://egkight.com/bio'
+  - 'https://egkight-epk.tripod.com'
+  - >-
+    https://rockthepigeon.com/2023/11/28/eg-kight-is-the-blues-legend-you-should-be-listening-to/
 network_extracted: true
 entry_created: '2025-10-30T11:55:54.618725'
 last_updated: '2025-12-23T08:16:08.252415'
 gender: Female
 musicbrainz_id: 5b81c597-7d25-4570-83ad-5f2d089a9da6
-
 ---
 
 ![](eg_kight.jpg)

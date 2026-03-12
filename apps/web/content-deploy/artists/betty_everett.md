@@ -5,12 +5,12 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1939-11-23'
-birth_place: Greenwood
+birth_place: 'Greenwood, Mississippi, United States'
 death_date: '2001-08-19'
 genres:
-- northern soul
-- doo-wop
-- motown
+  - northern soul
+  - doo-wop
+  - motown
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/betty_everett.jpg
   caption: Betty Everett
@@ -33,47 +33,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jerry Butler
-  - Calvin Carter
-  - Eugene Record
-  - The Daylighters
+    - Jerry Butler
+    - Calvin Carter
+    - Eugene Record
+    - The Daylighters
   influenced:
-  - Linda Ronstadt
-  - Dusty Springfield
-  - Cher
+    - Linda Ronstadt
+    - Dusty Springfield
+    - Cher
   mentors:
-  - Muddy Waters
-  - Magic Sam
+    - Muddy Waters
+    - Magic Sam
 spotify_data:
   followers: 36088
   id: 53jXEVVJtpaWVQ3ffvhDtl
   popularity: 40
-  url: https://open.spotify.com/artist/53jXEVVJtpaWVQ3ffvhDtl
+  url: 'https://open.spotify.com/artist/53jXEVVJtpaWVQ3ffvhDtl'
 discography_enriched: true
 top_tracks:
-- It's In The Kiss (The Shoop Shoop Song) (No Place To Hide)
-- It's in the Kiss (The Shoop Shoop Song) (Hot to Hold)
-- The Shoop Shoop Song (It's In His Kiss)
-- You're No Good (Hot to Hold)
-- The Shoop Shoop Song (It's in His Kiss) (Hands Off)
-- Its In His Kiss
-- Let It Be Me (Moon River / Delicious Together)
-- My Boyfriend's Back (Betty)
-- You're No Good (No Place To Hide)
-- There'll Come A Time (There'll Come A Time)
+  - It's In The Kiss (The Shoop Shoop Song) (No Place To Hide)
+  - It's in the Kiss (The Shoop Shoop Song) (Hot to Hold)
+  - The Shoop Shoop Song (It's In His Kiss)
+  - You're No Good (Hot to Hold)
+  - The Shoop Shoop Song (It's in His Kiss) (Hands Off)
+  - Its In His Kiss
+  - Let It Be Me (Moon River / Delicious Together)
+  - My Boyfriend's Back (Betty)
+  - You're No Good (No Place To Hide)
+  - There'll Come A Time (There'll Come A Time)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/beab6f53-4534-49d9-87a2-d01c0211b366
-  spotify: https://open.spotify.com/artist/53jXEVVJtpaWVQ3ffvhDtl
-  wikipedia: https://en.wikipedia.org/wiki/Betty_Everett
+  musicbrainz: 'https://musicbrainz.org/artist/beab6f53-4534-49d9-87a2-d01c0211b366'
+  spotify: 'https://open.spotify.com/artist/53jXEVVJtpaWVQ3ffvhDtl'
+  wikipedia: 'https://en.wikipedia.org/wiki/Betty_Everett'
 image_path: 03_Resources/source_material/ArtistPortraits/betty_everett.jpg
 biography_enhanced_at: '2025-11-26T07:56:05.446262'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Betty_Everett
-- http://www.soulwalking.co.uk/Betty%20Everett.html
-- https://www.latimes.com/archives/la-xpm-2001-aug-22-me-36922-story.html
-- https://www.mswritersandmusicians.com/mississippi-musicians/betty-everett
+  - 'https://en.wikipedia.org/wiki/Betty_Everett'
+  - 'http://www.soulwalking.co.uk/Betty%20Everett.html'
+  - 'https://www.latimes.com/archives/la-xpm-2001-aug-22-me-36922-story.html'
+  - 'https://www.mswritersandmusicians.com/mississippi-musicians/betty-everett'
 network_extracted: true
 entry_created: '2025-11-26T07:56:05.446269'
 last_updated: '2025-12-23T08:16:05.363759'
@@ -81,9 +81,11 @@ disambiguation: US 1950–80s soul singer & pianist
 gender: Female
 musicbrainz_id: beab6f53-4534-49d9-87a2-d01c0211b366
 tags:
-- 2008 universal fire victim
-- classic pop and rock
-- soul
+  - 2008 universal fire victim
+  - classic pop and rock
+  - soul
+is_active: false
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](betty_everett.jpg)

@@ -3,13 +3,13 @@ title: Paula Cole
 wiki_slug: paula-cole
 schema_version: 2
 status: active
-birth_place: Rockport, Massachusetts, United States
+birth_place: 'Rockport, Massachusetts, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Paula_Cole.jpg
   caption: Paula Cole
   background: solo_singer
-  origin: Rockport, Massachusetts, United States
+  origin: 'Rockport, Massachusetts, United States'
 audio_profile:
   tempo_avg: 113.2
   energy_avg: 0.431
@@ -25,45 +25,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Peter Gabriel
-  - Kevin Barry
-  - Jay Bellerose
+    - Peter Gabriel
+    - Kevin Barry
+    - Jay Bellerose
   influenced:
-  - Katherine McPhee
+    - Katherine McPhee
   mentors:
-  - Peter Gabriel
+    - Peter Gabriel
 spotify_data:
   followers: 188086
   id: 08DLZqQd6XDAVteF9nSEJ1
   popularity: 48
-  url: https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1
+  url: 'https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1'
 discography_enriched: true
 top_tracks:
-- I Don't Want to Wait (This Fire)
-- Where Have All the Cowboys Gone? (This Fire)
-- Where Have All the Cowboys Gone ? - Remastered Version
-- I Don't Want to Wait
-- Feelin' Love (This Fire)
-- Feelin' Love
-- Me (This Fire)
-- Autumn Leaves - Remastered Version
-- I Don't Want to Wait - Artist's 20th Anniversary Edition (This Bright Red Feeling (Live in New York City))
-- The Very Thought of You (feat. Paula Cole) (Italia)
+  - I Don't Want to Wait (This Fire)
+  - Where Have All the Cowboys Gone? (This Fire)
+  - Where Have All the Cowboys Gone ? - Remastered Version
+  - I Don't Want to Wait
+  - Feelin' Love (This Fire)
+  - Feelin' Love
+  - Me (This Fire)
+  - Autumn Leaves - Remastered Version
+  - >-
+    I Don't Want to Wait - Artist's 20th Anniversary Edition (This Bright Red
+    Feeling (Live in New York City))
+  - The Very Thought of You (feat. Paula Cole) (Italia)
 external_urls:
-  spotify: https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1
-  wikipedia: https://en.wikipedia.org/wiki/Paula_Cole
+  spotify: 'https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1'
+  wikipedia: 'https://en.wikipedia.org/wiki/Paula_Cole'
 image_path: 03_Resources/source_material/ArtistPortraits/Paula_Cole.jpg
 biography_enhanced_at: '2025-10-20T02:02:54.486487'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Paula_Cole
-- https://www.museumofmakingmusic.org/more/appearances/paula-cole
-- https://www.mmone.org/paula-cole/
-- https://www.last.fm/music/Paula+Cole/+wiki
+  - 'https://en.wikipedia.org/wiki/Paula_Cole'
+  - 'https://www.museumofmakingmusic.org/more/appearances/paula-cole'
+  - 'https://www.mmone.org/paula-cole/'
+  - 'https://www.last.fm/music/Paula+Cole/+wiki'
 network_extracted: true
 entry_created: '2025-10-20T02:02:54.486502'
 last_updated: '2025-12-23T08:16:03.544766'
+birth_date: '1968-04-05'
+artist_type: person
 ---
 
 ![](Paula_Cole.jpg)

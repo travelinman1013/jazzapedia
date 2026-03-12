@@ -1,18 +1,18 @@
 ---
-title: NELLIE LUTCHER
+title: Nellie Lutcher
 wiki_slug: nellie-lutcher
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1912-10-15'
-birth_place: Lake Charles
+birth_place: 'Lake Charles, Louisiana, United States'
 death_date: '2007-06-07'
 genres:
-- swing music
-- vocal jazz
-- boogie-woogie
+  - swing music
+  - vocal jazz
+  - boogie-woogie
 instruments:
-- piano
+  - piano
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/nellie_lutcher.jpg
   caption: NELLIE LUTCHER
@@ -35,51 +35,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Nat King Cole
-  - Bunk Johnson
+    - Nat King Cole
+    - Bunk Johnson
   influenced:
-  - Hadda Brooks
-  - Mabel Scott
-  - Paula Watson
+    - Hadda Brooks
+    - Mabel Scott
+    - Paula Watson
   mentors:
-  - Eugenia King Reynaud
-  - Ma Rainey
+    - Eugenia King Reynaud
+    - Ma Rainey
 spotify_data:
   followers: 3730
   id: 2rcjLEFEZ37QMTNy2Yk3xK
   popularity: 22
-  url: https://open.spotify.com/artist/2rcjLEFEZ37QMTNy2Yk3xK
+  url: 'https://open.spotify.com/artist/2rcjLEFEZ37QMTNy2Yk3xK'
 discography_enriched: true
 top_tracks:
-- Fine Brown Frame (Real Gone!)
-- Kinda Blue and Low (Fine and Mellow)
-- A Chicken Ain't Nothing but a Bird (Fine and Mellow)
-- He's A Real Gone Guy (Real Gone!)
-- Fine Brown Frame
-- Hurry On Down (Real Gone!)
-- Kinda Blue and Low (Real Gone Nellie)
-- You Better Watch Yourself Bub (Fine and Mellow)
-- Fine Brown Frame (Real Gone Gal)
-- You Better Watch Yourself, Bub (Real Gone Nellie)
+  - Fine Brown Frame (Real Gone!)
+  - Kinda Blue and Low (Fine and Mellow)
+  - A Chicken Ain't Nothing but a Bird (Fine and Mellow)
+  - He's A Real Gone Guy (Real Gone!)
+  - Fine Brown Frame
+  - Hurry On Down (Real Gone!)
+  - Kinda Blue and Low (Real Gone Nellie)
+  - You Better Watch Yourself Bub (Fine and Mellow)
+  - Fine Brown Frame (Real Gone Gal)
+  - 'You Better Watch Yourself, Bub (Real Gone Nellie)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/159e0946-cb0d-402f-b897-402de5bf856b
-  spotify: https://open.spotify.com/artist/2rcjLEFEZ37QMTNy2Yk3xK
-  wikipedia: https://en.wikipedia.org/wiki/Nellie_Lutcher
+  musicbrainz: 'https://musicbrainz.org/artist/159e0946-cb0d-402f-b897-402de5bf856b'
+  spotify: 'https://open.spotify.com/artist/2rcjLEFEZ37QMTNy2Yk3xK'
+  wikipedia: 'https://en.wikipedia.org/wiki/Nellie_Lutcher'
 image_path: 03_Resources/source_material/ArtistPortraits/nellie_lutcher.jpg
 biography_enhanced_at: '2025-10-23T07:27:11.333518'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.latimes.com/archives/la-xpm-2007-jun-12-me-lutcher12-story.html
-- https://64parishes.org/entry/nellie-lutcher
-- https://www.visitlakecharles.org/blog/post/about-nellie-lutcher/
+  - 'https://www.latimes.com/archives/la-xpm-2007-jun-12-me-lutcher12-story.html'
+  - 'https://64parishes.org/entry/nellie-lutcher'
+  - 'https://www.visitlakecharles.org/blog/post/about-nellie-lutcher/'
 network_extracted: true
 entry_created: '2025-10-23T07:27:11.333531'
 last_updated: '2025-12-23T08:16:03.395455'
 gender: Female
 musicbrainz_id: 159e0946-cb0d-402f-b897-402de5bf856b
 tags:
-- jazz
+  - jazz
+is_active: false
+origin: 'Los Angeles, California, United States'
 ---
 
 ![](nellie_lutcher.jpg)

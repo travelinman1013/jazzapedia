@@ -5,19 +5,19 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1946-01-29'
-birth_place: Muskegon
+birth_place: 'Muskegon, Michigan, United States'
 genres:
-- soul blues
-- stutter house
+  - soul blues
+  - stutter house
 instruments:
-- lead vocals
-- background vocals
+  - lead vocals
+  - background vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a04e48a0-d182-422c-aa5f-db31bdc25e14
-  name: The LaVettes
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a04e48a0-d182-422c-aa5f-db31bdc25e14
+    name: The LaVettes
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bettye_lavette.jpg
   caption: Bettye Lavette
@@ -39,52 +39,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Steve Jordan
-  - The Dixie Flyers
-  - The Swampers (Muscle Shoals Rhythm Section)
-  - Randall Bramblett
+    - Steve Jordan
+    - The Dixie Flyers
+    - The Swampers (Muscle Shoals Rhythm Section)
+    - Randall Bramblett
   influenced:
-  - Contemporary soul and blues vocalists
+    - Contemporary soul and blues vocalists
   mentors:
-  - Johnnie Mae Matthews
+    - Johnnie Mae Matthews
 spotify_data:
   followers: 50701
   id: 55U998XxmxjicLMKDSz6R3
   popularity: 47
-  url: https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3
+  url: 'https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3'
 discography_enriched: true
 top_tracks:
-- The Last Goodbye (The Last Goodbye)
-- The Last Goodbye
-- The Last Goodbye - Koven Remix
-- Things Have Changed (Things Have Changed)
-- The Last Goodbye - Hayden James Remix
-- Let Me Down Easy (The Complete Calla, Port and Roulette Recordings)
-- The Last Goodbye
-- Don't Get Me Started (with Steve Winwood) (LaVette!)
-- 'Let Me Down Easy - Remastered 2022 (Let Me Down Easy: Bettye LaVette In Memphis (Sun Records 70th / Remastered 2022))'
-- The Last Goodbye - DJ Seinfeld Remix
+  - The Last Goodbye (The Last Goodbye)
+  - The Last Goodbye
+  - The Last Goodbye - Koven Remix
+  - Things Have Changed (Things Have Changed)
+  - The Last Goodbye - Hayden James Remix
+  - 'Let Me Down Easy (The Complete Calla, Port and Roulette Recordings)'
+  - The Last Goodbye
+  - Don't Get Me Started (with Steve Winwood) (LaVette!)
+  - >-
+    Let Me Down Easy - Remastered 2022 (Let Me Down Easy: Bettye LaVette In
+    Memphis (Sun Records 70th / Remastered 2022))
+  - The Last Goodbye - DJ Seinfeld Remix
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/af558762-abed-4f46-8324-34fc51f57b2b
-  spotify: https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3
-  wikipedia: https://en.wikipedia.org/wiki/Bettye_LaVette
+  musicbrainz: 'https://musicbrainz.org/artist/af558762-abed-4f46-8324-34fc51f57b2b'
+  spotify: 'https://open.spotify.com/artist/55U998XxmxjicLMKDSz6R3'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bettye_LaVette'
 image_path: 03_Resources/source_material/ArtistPortraits/bettye_lavette.jpg
 biography_enhanced_at: '2025-10-26T12:39:39.641613'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://sunrecords.com/artists/bettye-lavette/
-- https://en.wikipedia.org/wiki/Bettye_LaVette
-- https://tcan.org/events/bettye-lavette/
+  - 'https://sunrecords.com/artists/bettye-lavette/'
+  - 'https://en.wikipedia.org/wiki/Bettye_LaVette'
+  - 'https://tcan.org/events/bettye-lavette/'
 network_extracted: true
 entry_created: '2025-10-26T12:39:39.641660'
 last_updated: '2025-12-23T08:16:05.375517'
 gender: Female
 musicbrainz_id: af558762-abed-4f46-8324-34fc51f57b2b
 tags:
-- americana
-- blues
-- country
+  - americana
+  - blues
+  - country
+origin: 'Detroit, Michigan, United States'
 ---
 
 ![](bettye_lavette.jpg)

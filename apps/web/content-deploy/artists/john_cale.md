@@ -5,51 +5,51 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1942-03-09'
-birth_place: Garnant
+birth_place: 'Garnant, Wales, United Kingdom'
 genres:
-- art rock
-- baroque pop
-- proto-punk
-- singer-songwriter
+  - art rock
+  - baroque pop
+  - proto-punk
+  - singer-songwriter
 instruments:
-- background vocals
-- bass
-- organ
-- original
-- viola
-- guitar
-- piano
-- bass guitar
-- electric guitar
-- acoustic guitar
-- vocal
-- lead vocals
+  - background vocals
+  - bass
+  - organ
+  - original
+  - viola
+  - guitar
+  - piano
+  - bass guitar
+  - electric guitar
+  - acoustic guitar
+  - vocal
+  - lead vocals
 associated_acts:
-- begin: '1965'
-  end: '1968'
-  instruments:
-  - background vocals
-  - bass
-  - organ
-  - original
-  - viola
-  mbid: 94b0fb9d-a066-4823-b2ec-af1d324bcfcf
-  name: The Velvet Underground
-- begin: '1992'
-  end: '1996'
-  instruments:
-  - background vocals
-  - bass
-  - organ
-  - original
-  - viola
-  mbid: 94b0fb9d-a066-4823-b2ec-af1d324bcfcf
-  name: The Velvet Underground
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ac8ba4df-1319-44dc-954d-474e287afee0
-  name: The Theatre of Eternal Music
+  - begin: '1965'
+    end: '1968'
+    instruments:
+      - background vocals
+      - bass
+      - organ
+      - original
+      - viola
+    mbid: 94b0fb9d-a066-4823-b2ec-af1d324bcfcf
+    name: The Velvet Underground
+  - begin: '1992'
+    end: '1996'
+    instruments:
+      - background vocals
+      - bass
+      - organ
+      - original
+      - viola
+    mbid: 94b0fb9d-a066-4823-b2ec-af1d324bcfcf
+    name: The Velvet Underground
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ac8ba4df-1319-44dc-954d-474e287afee0
+    name: The Theatre of Eternal Music
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/john_cale.jpg
   caption: John Cale
@@ -71,55 +71,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lou Reed
-  - Nico
-  - Brian Eno
-  - Terry Riley
-  - Nick Drake
-  - Patti Smith
-  - The Stooges
+    - Lou Reed
+    - Nico
+    - Brian Eno
+    - Terry Riley
+    - Nick Drake
+    - Patti Smith
+    - The Stooges
   influenced:
-  - Jonathan Richman
-  - Iggy Pop
-  - LCD Soundsystem
-  - Animal Collective
+    - Jonathan Richman
+    - Iggy Pop
+    - LCD Soundsystem
+    - Animal Collective
   mentors:
-  - John Cage
-  - La Monte Young
-  - Aaron Copland
+    - John Cage
+    - La Monte Young
+    - Aaron Copland
 spotify_data:
   followers: 218758
   id: 5MWBg16f5UYiaSlyVhzlIW
   popularity: 52
-  url: https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW
+  url: 'https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW'
 discography_enriched: true
 top_tracks:
-- Spinning Away (Wrong Way Up [Expanded Edition])
-- Nobody but You (Songs For Drella)
-- House featuring John Cale
-- Paris 1919 - Remastered 2024 (Paris 1919 (Deluxe Edition))
-- You Know More Than I Know (Fear)
-- Lay My Love (Wrong Way Up [Expanded Edition])
-- Barracuda (Fear)
-- Hallelujah - Fragments [Single Version]
-- Big White Cloud (Vintage Violence)
-- Fear Is A Man's Best Friend (Fear)
+  - 'Spinning Away (Wrong Way Up [Expanded Edition])'
+  - Nobody but You (Songs For Drella)
+  - House featuring John Cale
+  - Paris 1919 - Remastered 2024 (Paris 1919 (Deluxe Edition))
+  - You Know More Than I Know (Fear)
+  - 'Lay My Love (Wrong Way Up [Expanded Edition])'
+  - Barracuda (Fear)
+  - 'Hallelujah - Fragments [Single Version]'
+  - Big White Cloud (Vintage Violence)
+  - Fear Is A Man's Best Friend (Fear)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/72c090b6-a68e-4cb9-b330-85278681a714
-  spotify: https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW
-  wikipedia: https://en.wikipedia.org/wiki/John_Cale
+  musicbrainz: 'https://musicbrainz.org/artist/72c090b6-a68e-4cb9-b330-85278681a714'
+  spotify: 'https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW'
+  wikipedia: 'https://en.wikipedia.org/wiki/John_Cale'
 image_path: 03_Resources/source_material/ArtistPortraits/john_cale.jpg
 biography_enhanced_at: '2025-11-14T11:11:56.118271'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Britannica[1]
-- Red Bull Music Academy[2]
-- Universal Music Publishing[3]
-- IMDb[4]
-- Barbican[5]
-- Hans Werksman biography[6]
-- Artifacts[7]
+  - 'Britannica[1]'
+  - 'Red Bull Music Academy[2]'
+  - 'Universal Music Publishing[3]'
+  - 'IMDb[4]'
+  - 'Barbican[5]'
+  - 'Hans Werksman biography[6]'
+  - 'Artifacts[7]'
 network_extracted: true
 entry_created: '2025-11-14T11:11:56.118281'
 last_updated: '2025-12-23T08:16:10.696465'
@@ -127,9 +127,9 @@ disambiguation: The Velvet Underground founder
 gender: Male
 musicbrainz_id: 72c090b6-a68e-4cb9-b330-85278681a714
 tags:
-- art pop
-- art rock
-- avant-garde pop
+  - art pop
+  - art rock
+  - avant-garde pop
 ---
 
 ![](john_cale.jpg)

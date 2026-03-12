@@ -29,35 +29,43 @@ spotify_data:
   followers: 77
   id: 0JmW10m2hvvmvwZToaMnf9
   popularity: 0
-  url: https://open.spotify.com/artist/0JmW10m2hvvmvwZToaMnf9
+  url: 'https://open.spotify.com/artist/0JmW10m2hvvmvwZToaMnf9'
 discography_enriched: true
 top_tracks:
-- Madrugão (O Novo Transmissor)
-- Tchucbandionis (O Novo Transmissor)
-- Robot Lover (O Novo Transmissor)
-- Caveira (O Novo Transmissor)
-- Vinil Eletronico (O Novo Transmissor)
-- Um Dolar Furado (O Novo Transmissor)
-- Recruta Zero (O Novo Transmissor)
-- Super 8 (O Novo Transmissor)
-- Debaixo da Ponte (O Novo Transmissor)
-- Desdobrando o Labirinto (O Novo Transmissor)
+  - Madrugão (O Novo Transmissor)
+  - Tchucbandionis (O Novo Transmissor)
+  - Robot Lover (O Novo Transmissor)
+  - Caveira (O Novo Transmissor)
+  - Vinil Eletronico (O Novo Transmissor)
+  - Um Dolar Furado (O Novo Transmissor)
+  - Recruta Zero (O Novo Transmissor)
+  - Super 8 (O Novo Transmissor)
+  - Debaixo da Ponte (O Novo Transmissor)
+  - Desdobrando o Labirinto (O Novo Transmissor)
 external_urls:
-  spotify: https://open.spotify.com/artist/0JmW10m2hvvmvwZToaMnf9
+  spotify: 'https://open.spotify.com/artist/0JmW10m2hvvmvwZToaMnf9'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/tchucbandionis.jpg
 biography_enhanced_at: '2025-12-07T04:43:53.933759'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Popload article mentioning a São Paulo musician who previously played drums in TchucbandioniS.[1]
-- YouTube/Orchard Enterprises listing for “Capoeira Jaz” by TchucbandioniS from the album *O Novo Transmissor* (2002) via
-  Tratore/Reco‑Head.[3]
-- Brazilian blog post that references Tchucbandionis in the context of Brazilian indie/alternative bands such as Ultraman.[4]
+  - >-
+    Popload article mentioning a São Paulo musician who previously played drums
+    in TchucbandioniS.[1]
+  - >-
+    YouTube/Orchard Enterprises listing for “Capoeira Jaz” by TchucbandioniS
+    from the album *O Novo Transmissor* (2002) via Tratore/Reco‑Head.[3]
+  - >-
+    Brazilian blog post that references Tchucbandionis in the context of
+    Brazilian indie/alternative bands such as Ultraman.[4]
 network_extracted: true
 entry_created: '2025-12-07T04:43:53.933773'
 last_updated: '2025-12-23T08:16:16.403102'
-origin: São Paulo, São Paulo, Brazil (inferred scene/association; exact origin not explicitly confirmed in sources)
+origin: >-
+  São Paulo, São Paulo, Brazil (inferred scene/association; exact origin not
+  explicitly confirmed in sources)
+artist_type: person
 ---
 
 ![](tchucbandionis.jpg)

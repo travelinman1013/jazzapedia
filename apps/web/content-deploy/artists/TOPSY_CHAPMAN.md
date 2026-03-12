@@ -1,18 +1,18 @@
 ---
-title: TOPSY CHAPMAN
+title: Topsy Chapman
 wiki_slug: topsy-chapman
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
-birth_place: Kentwood, Louisiana, United States
+birth_place: 'Kentwood, Louisiana, United States'
 genres: []
 instruments:
-- eponymous
+  - eponymous
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/TOPSY_CHAPMAN.jpg
   caption: TOPSY CHAPMAN
   background: non_vocal_instrumentalist
-  origin: Kentwood, Louisiana, United States
+  origin: 'Kentwood, Louisiana, United States'
 audio_profile:
   tempo_avg: 133.5
   energy_avg: 0.407
@@ -28,51 +28,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Vernel Bagneris
-  - Yolanda Robinson and Jolynda Phillips
-  - Magnolia Jazz Band, Blues Serenaders, and others
-  - Willie Humphrey, Chester Zardis, Alvin Stardust, Geoff Bull, Louie Nelson, Fred Coleman, Orange Kellin, Jeanette Kimball,
-    Lars Edegran, Jim Cullum Jazz Band, Nicholas Payton, and others
+    - Vernel Bagneris
+    - Yolanda Robinson and Jolynda Phillips
+    - 'Magnolia Jazz Band, Blues Serenaders, and others'
+    - >-
+      Willie Humphrey, Chester Zardis, Alvin Stardust, Geoff Bull, Louie Nelson,
+      Fred Coleman, Orange Kellin, Jeanette Kimball, Lars Edegran, Jim Cullum
+      Jazz Band, Nicholas Payton, and others
   influenced:
-  - Yolanda Robinson and Jolynda Phillips
+    - Yolanda Robinson and Jolynda Phillips
   mentors:
-  - Norwood Chapman
+    - Norwood Chapman
 spotify_data:
   followers: 1218
   id: 2tKivvaRADF3SupG95wulV
   popularity: 14
-  url: https://open.spotify.com/artist/2tKivvaRADF3SupG95wulV
+  url: 'https://open.spotify.com/artist/2tKivvaRADF3SupG95wulV'
 discography_enriched: true
 top_tracks:
-- Roll Jordan Roll (feat. Chiwetel Ejiofor & Cast) (12 Years A Slave (Music From and Inspired by the Motion Picture))
-- Exactly Like You (St. Peter Street Serenade)
-- I'll Fly Away (St. Peter Street Serenade)
-- Just A Closer Walk With Thee (A Beautiful World)
-- St. Louis Blues (Live at Oslo Concert Hall)
-- Bugle Call Rag (Chasin' the Blues)
-- Have Yourself a Merry Little Christmas (Crescent City Christmas)
-- Lonesome and Sorry (Live at Oslo Concert Hall)
-- Shout, Sister, Shout! (Live at Oslo Concert Hall)
-- You Can't Tell the Difference After Dark (Fine and Mellow)
+  - >-
+    Roll Jordan Roll (feat. Chiwetel Ejiofor & Cast) (12 Years A Slave (Music
+    From and Inspired by the Motion Picture))
+  - Exactly Like You (St. Peter Street Serenade)
+  - I'll Fly Away (St. Peter Street Serenade)
+  - Just A Closer Walk With Thee (A Beautiful World)
+  - St. Louis Blues (Live at Oslo Concert Hall)
+  - Bugle Call Rag (Chasin' the Blues)
+  - Have Yourself a Merry Little Christmas (Crescent City Christmas)
+  - Lonesome and Sorry (Live at Oslo Concert Hall)
+  - 'Shout, Sister, Shout! (Live at Oslo Concert Hall)'
+  - You Can't Tell the Difference After Dark (Fine and Mellow)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/17f42bef-1a52-4762-b16d-044d7db37d69
-  spotify: https://open.spotify.com/artist/2tKivvaRADF3SupG95wulV
-  wikipedia: https://en.wikipedia.org/wiki/Topsy_Chapman
+  musicbrainz: 'https://musicbrainz.org/artist/17f42bef-1a52-4762-b16d-044d7db37d69'
+  spotify: 'https://open.spotify.com/artist/2tKivvaRADF3SupG95wulV'
+  wikipedia: 'https://en.wikipedia.org/wiki/Topsy_Chapman'
 image_path: 03_Resources/source_material/ArtistPortraits/TOPSY_CHAPMAN.jpg
 biography_enhanced_at: '2025-10-20T09:51:22.541053'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Topsy_Chapman
-- https://justiceaid.org/topsy-chapman/
-- https://jazzology.com/news.php?id=93
-- https://www.offbeat.com/articles/topsy-chapman-1947-2022/
-- https://www.allmusic.com/artist/topsy-chapman-mn0000792037
+  - 'https://en.wikipedia.org/wiki/Topsy_Chapman'
+  - 'https://justiceaid.org/topsy-chapman/'
+  - 'https://jazzology.com/news.php?id=93'
+  - 'https://www.offbeat.com/articles/topsy-chapman-1947-2022/'
+  - 'https://www.allmusic.com/artist/topsy-chapman-mn0000792037'
 network_extracted: true
 entry_created: '2025-10-20T09:51:22.541068'
 last_updated: '2025-12-23T08:16:04.021241'
 musicbrainz_enriched_at: '2025-10-21T09:45:10.647894'
 musicbrainz_id: 17f42bef-1a52-4762-b16d-044d7db37d69
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](TOPSY_CHAPMAN.jpg)

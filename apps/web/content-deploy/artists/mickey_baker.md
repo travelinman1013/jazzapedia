@@ -1,15 +1,15 @@
 ---
-title: mickey baker
+title: Mickey Baker
 wiki_slug: mickey-baker
 schema_version: 2
 status: active
-birth_place: Louisville, Kentucky, United States
+birth_place: 'Louisville, Kentucky, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/mickey_baker.jpg
   caption: mickey baker
   background: solo_singer
-  origin: Louisville, Kentucky, United States
+  origin: 'Louisville, Kentucky, United States'
 audio_profile:
   tempo_avg: 119.9
   energy_avg: 0.605
@@ -25,53 +25,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sylvia Robinson (Sylvia Vanderpool)
-  - Jimmy Neely
-  - Memphis Slim
-  - Ronnie Bird
-  - Chantal Goya
-  - Gene Conners
-  - Kitty Noble
+    - Sylvia Robinson (Sylvia Vanderpool)
+    - Jimmy Neely
+    - Memphis Slim
+    - Ronnie Bird
+    - Chantal Goya
+    - Gene Conners
+    - Kitty Noble
   influenced:
-  - Sylvia Robinson
+    - Sylvia Robinson
   mentors:
-  - Rector Bailey
-  - Charlie Parker
-  - Pee Wee Crayton
-  - Iannis Xenakis
+    - Rector Bailey
+    - Charlie Parker
+    - Pee Wee Crayton
+    - Iannis Xenakis
 spotify_data:
   followers: 6093
   id: 2PnyEnxPA8H95IhFEBu5u7
   popularity: 34
-  url: https://open.spotify.com/artist/2PnyEnxPA8H95IhFEBu5u7
+  url: 'https://open.spotify.com/artist/2PnyEnxPA8H95IhFEBu5u7'
 discography_enriched: true
 top_tracks:
-- Love Is Strange (This Is My Story)
-- Love Is Strange
-- Love Is Strange - Alternate Take (This Is My Story)
-- Lover Boy (This Is My Story)
-- Love Is Strange (The 1950's)
-- Lover Boy
-- Hit Git and Split (This Is My Story)
-- No Good Lover (This Is My Story)
-- Dearest (This Is My Story)
-- 'Rib Joint (Rib Joint: Roots Of Rock ''N'' Roll)'
+  - Love Is Strange (This Is My Story)
+  - Love Is Strange
+  - Love Is Strange - Alternate Take (This Is My Story)
+  - Lover Boy (This Is My Story)
+  - Love Is Strange (The 1950's)
+  - Lover Boy
+  - Hit Git and Split (This Is My Story)
+  - No Good Lover (This Is My Story)
+  - Dearest (This Is My Story)
+  - 'Rib Joint (Rib Joint: Roots Of Rock ''N'' Roll)'
 external_urls:
-  spotify: https://open.spotify.com/artist/2PnyEnxPA8H95IhFEBu5u7
-  wikipedia: https://en.wikipedia.org/wiki/Mickey_Baker
+  spotify: 'https://open.spotify.com/artist/2PnyEnxPA8H95IhFEBu5u7'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mickey_Baker'
 image_path: 03_Resources/source_material/ArtistPortraits/mickey_baker.jpg
 biography_enhanced_at: '2025-10-21T06:53:37.128869'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Mickey_Baker
-- https://www.imdb.com/name/nm0048776/bio/
-- https://www.bear-family.com/baker-mickey/
-- https://jazztimes.com/features/tributes-and-obituaries/mickey-baker-a-tough-customer-who-never-lost-his-edge/
-- https://www.allmusic.com/artist/mickey-mn0000476054
+  - 'https://en.wikipedia.org/wiki/Mickey_Baker'
+  - 'https://www.imdb.com/name/nm0048776/bio/'
+  - 'https://www.bear-family.com/baker-mickey/'
+  - >-
+    https://jazztimes.com/features/tributes-and-obituaries/mickey-baker-a-tough-customer-who-never-lost-his-edge/
+  - 'https://www.allmusic.com/artist/mickey-mn0000476054'
 network_extracted: true
 entry_created: '2025-10-21T06:53:37.128880'
 last_updated: '2025-12-23T08:16:13.098221'
+birth_date: '1925-10-15'
+artist_type: person
 ---
 
 ![](mickey_baker.jpg)

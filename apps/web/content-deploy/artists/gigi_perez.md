@@ -3,15 +3,18 @@ title: Gigi Perez
 wiki_slug: gigi-perez
 schema_version: 2
 status: active
-birth_place: Hackensack, New Jersey, United States (birthplace); West Palm Beach, Florida, United States (raised); Brooklyn,
-  New York, United States (current base)
+birth_place: >-
+  Hackensack, New Jersey, United States (birthplace); West Palm Beach, Florida,
+  United States (raised); Brooklyn, New York, United States (current base)
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/gigi_perez.jpg
   caption: Gigi Perez
   background: solo_singer
-  origin: Hackensack, New Jersey, United States (birthplace); West Palm Beach, Florida, United States (raised); Brooklyn,
-    New York, United States (current base)
+  origin: >-
+    Hackensack, New Jersey, United States (birthplace); West Palm Beach,
+    Florida, United States (raised); Brooklyn, New York, United States (current
+    base)
 audio_profile:
   tempo_avg: 110.7
   energy_avg: 0.451
@@ -27,47 +30,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jennifer Decilveo
-  - Noah Weinman
-  - Richy Mitch and the Coal Miners
-  - girl in red
+    - Jennifer Decilveo
+    - Noah Weinman
+    - Richy Mitch and the Coal Miners
+    - girl in red
   influenced:
-  - Emerging LGBTQ+ musicians on TikTok
+    - Emerging LGBTQ+ musicians on TikTok
   mentors:
-  - Hayley Kiyoko
+    - Hayley Kiyoko
 spotify_data:
   followers: 1670598
   id: 1iCnM8foFssWlPRLfAbIwo
   popularity: 76
-  url: https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo
+  url: 'https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo'
 discography_enriched: true
 top_tracks:
-- Sailor Song (Sailor Song)
-- Fable (Fable)
-- Chemistry (Chemistry)
-- Sometimes (Backwood) (Sometimes (Backwood))
-- Please Be Rude (Please Be Rude)
-- Normalcy (Normalcy)
-- When She Smiles (How To Catch A Falling Knife)
-- Kill For You (How To Catch A Falling Knife)
-- Sailor Song (Fable)
-- Glue (How To Catch A Falling Knife)
+  - Sailor Song (Sailor Song)
+  - Fable (Fable)
+  - Chemistry (Chemistry)
+  - Sometimes (Backwood) (Sometimes (Backwood))
+  - Please Be Rude (Please Be Rude)
+  - Normalcy (Normalcy)
+  - When She Smiles (How To Catch A Falling Knife)
+  - Kill For You (How To Catch A Falling Knife)
+  - Sailor Song (Fable)
+  - Glue (How To Catch A Falling Knife)
 external_urls:
-  spotify: https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo
-  wikipedia: https://en.wikipedia.org/wiki/Gigi_Perez
+  spotify: 'https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo'
+  wikipedia: 'https://en.wikipedia.org/wiki/Gigi_Perez'
 image_path: 03_Resources/source_material/ArtistPortraits/gigi_perez.jpg
 biography_enhanced_at: '2025-11-10T03:43:09.379422'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Gigi_Perez
-- https://lovinlifemusicfest.com/lineup/gigi-perez/
-- https://songexploder.net/gigi-perez
-- https://atwoodmagazine.com/ggpz-gigi-perez-music-interview-2025/
-- https://scmp.com/magazines/style/entertainment/article/3287054/meet-gigi-perez-lgbtq-icon-making-waves-sailor-song-billboard-hit-has-turned-tiktokker-rising-star
+  - 'https://en.wikipedia.org/wiki/Gigi_Perez'
+  - 'https://lovinlifemusicfest.com/lineup/gigi-perez/'
+  - 'https://songexploder.net/gigi-perez'
+  - 'https://atwoodmagazine.com/ggpz-gigi-perez-music-interview-2025/'
+  - >-
+    https://scmp.com/magazines/style/entertainment/article/3287054/meet-gigi-perez-lgbtq-icon-making-waves-sailor-song-billboard-hit-has-turned-tiktokker-rising-star
 network_extracted: true
 entry_created: '2025-11-10T03:43:09.379437'
 last_updated: '2025-12-23T08:16:09.194230'
+birth_date: '2000-02-04'
+artist_type: person
 ---
 
 ![](gigi_perez.jpg)

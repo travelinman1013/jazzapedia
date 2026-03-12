@@ -3,36 +3,38 @@ biography_enhanced_at: '2026-01-01T01:07:10.048630'
 enhancement_provider: perplexity
 entry_created: '2026-01-01T01:07:10.048652'
 external_urls:
-  spotify: https://open.spotify.com/artist/47woiuHPa55hgGNgWVxlU5
+  spotify: 'https://open.spotify.com/artist/47woiuHPa55hgGNgWVxlU5'
   wikipedia: ''
 genres:
-- ragtime
+  - ragtime
 image_path: ''
 last_updated: '2026-01-01T01:07:10.048654'
 musical_connections:
   collaborators:
-  - Russell Wooding
-  - Dick Robertson
-  - Bennie Morton
+    - Russell Wooding
+    - Dick Robertson
+    - Bennie Morton
   influenced:
-  - Tony Almerico
+    - Tony Almerico
   mentors: []
 network_extracted: true
-origin: New York City, New York, USA
+origin: 'New York City, New York, USA'
 primary_source: perplexity
 research_sources:
-- http://www.jazzarcheology.com/artists/sedition_tenorsax_1917_1934.pdf [1]
-- https://adp.library.ucsb.edu/index.php/mastertalent/detail/107135/Robertson_Dick
-  [3]
-- http://dismuke.org/how/ [5]
-- https://www.youtube.com/watch?v=LOkhjs8uEy0 [7]
+  - 'http://www.jazzarcheology.com/artists/sedition_tenorsax_1917_1934.pdf [1]'
+  - >-
+    https://adp.library.ucsb.edu/index.php/mastertalent/detail/107135/Robertson_Dick
+    [3]
+  - 'http://dismuke.org/how/ [5]'
+  - 'https://www.youtube.com/watch?v=LOkhjs8uEy0 [7]'
 spotify_data:
   followers: 6
   id: 47woiuHPa55hgGNgWVxlU5
   popularity: 0
-  url: https://open.spotify.com/artist/47woiuHPa55hgGNgWVxlU5
+  url: 'https://open.spotify.com/artist/47woiuHPa55hgGNgWVxlU5'
 status: active
-title: WOODING'S GRAND CENTRAL RED CAPS
+title: Wooding's Grand Central Red Caps
+artist_type: band
 ---
 
 ![]()

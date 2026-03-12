@@ -3,47 +3,51 @@ biography_enhanced_at: '2025-12-29T01:21:18.390259'
 enhancement_provider: perplexity
 entry_created: '2025-12-29T01:21:18.390275'
 external_urls:
-  spotify: https://open.spotify.com/artist/5BEAZRLV2yIHmrh41l3dKj
+  spotify: 'https://open.spotify.com/artist/5BEAZRLV2yIHmrh41l3dKj'
   wikipedia: ''
 genres:
-- reggae
-- ragga
-- dub
-- roots reggae
-image_path: 03_Resources/source_material/ArtistPortraits/brother_culture_the_18th_parallel_little_lion_sound.jpg
+  - reggae
+  - ragga
+  - dub
+  - roots reggae
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/brother_culture_the_18th_parallel_little_lion_sound.jpg
 last_updated: '2025-12-29T01:21:18.390277'
 musical_connections:
   collaborators:
-  - Nicolas Meury
-  - Jannali Littman
-  - Derrick Sound
-  - Brother Culture
-  - The 18th Parallel
-  - Capleton
-  - Sizzla
-  - Shaggy
-  - Konshens
-  - Shenseea
-  - Queen Omega
+    - Nicolas Meury
+    - Jannali Littman
+    - Derrick Sound
+    - Brother Culture
+    - The 18th Parallel
+    - Capleton
+    - Sizzla
+    - Shaggy
+    - Konshens
+    - Shenseea
+    - Queen Omega
   influenced:
-  - Danitsa
+    - Danitsa
   mentors: []
 network_extracted: true
-origin: Geneva, Switzerland
+origin: 'Geneva, Switzerland'
 primary_source: perplexity
 research_sources:
-- https://www.reggaeville.com/artist-details/little-lion-sound/about/
-- https://www.reverbnation.com/littlelionsound/song/18296586-life-ft-brother-culture
-- https://open.spotify.com/track/1uDFEEp9Hcta9d7AUUpq3L
-- https://www.reggaeville.com/artist-details/brother-culture/releases/release/brother-culture-x-the-ligerians-x-little-lion-sound-ghetto-man/
-- https://www.youtube.com/user/Littlelionsound/about
+  - 'https://www.reggaeville.com/artist-details/little-lion-sound/about/'
+  - >-
+    https://www.reverbnation.com/littlelionsound/song/18296586-life-ft-brother-culture
+  - 'https://open.spotify.com/track/1uDFEEp9Hcta9d7AUUpq3L'
+  - >-
+    https://www.reggaeville.com/artist-details/brother-culture/releases/release/brother-culture-x-the-ligerians-x-little-lion-sound-ghetto-man/
+  - 'https://www.youtube.com/user/Littlelionsound/about'
 spotify_data:
   followers: 176695
   id: 5BEAZRLV2yIHmrh41l3dKj
   popularity: 54
-  url: https://open.spotify.com/artist/5BEAZRLV2yIHmrh41l3dKj
+  url: 'https://open.spotify.com/artist/5BEAZRLV2yIHmrh41l3dKj'
 status: active
-title: Brother Culture, The 18th Parallel, Little Lion Sound
+title: 'Brother Culture, The 18th Parallel, Little Lion Sound'
+artist_type: band
 ---
 
 ![](brother_culture_the_18th_parallel_little_lion_sound.jpg)

@@ -4,7 +4,7 @@ wiki_slug: original-perdido-jazz-band
 schema_version: 2
 status: active
 genres:
-- cajun
+  - cajun
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/original_perdido_jazz_band.jpg
   caption: Original Perdido Jazz Band
@@ -24,44 +24,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Band Members (various, not individually named in sources)
+    - 'Band Members (various, not individually named in sources)'
   influenced:
-  - Italian Traditional Jazz Scene
+    - Italian Traditional Jazz Scene
   mentors:
-  - Early New Orleans and Dixieland Jazz Musicians
+    - Early New Orleans and Dixieland Jazz Musicians
 spotify_data:
   followers: 193
   id: 0G0BtHcxzg39DdQxlmLmKc
   popularity: 8
-  url: https://open.spotify.com/artist/0G0BtHcxzg39DdQxlmLmKc
+  url: 'https://open.spotify.com/artist/0G0BtHcxzg39DdQxlmLmKc'
 discography_enriched: true
 top_tracks:
-- 'Jazz Holiday (Louisiana: Jazz, Voodoo, alligatori (Alla musica di New Orleans che ha incendiato i nostri vent''anni))'
-- 'I''m Confessing That I Love You (Louisiana: Jazz, Voodoo, alligatori (Alla musica di New Orleans che ha incendiato i nostri
-  vent''anni))'
-- 'Some of These Days (Louisiana: Jazz, Voodoo, alligatori (Alla musica di New Orleans che ha incendiato i nostri vent''anni))'
-- 'Who''s Sorry Now (Louisiana: Jazz, Voodoo, alligatori (Alla musica di New Orleans che ha incendiato i nostri vent''anni))'
-- 'Rose Room (Louisiana: Jazz, Voodoo, alligatori (Alla musica di New Orleans che ha incendiato i nostri vent''anni))'
-- 'After You''ve Gone (Louisiana: Jazz, Voodoo, alligatori (Alla musica di New Orleans che ha incendiato i nostri vent''anni))'
-- 'Baby Won''t You Please Come Home (Louisiana: Jazz, Voodoo, alligatori (Alla musica di New Orleans che ha incendiato i nostri
-  vent''anni))'
-- 'Caresless Love (Louisiana: Jazz, Voodoo, alligatori (Alla musica di New Orleans che ha incendiato i nostri vent''anni))'
-- 'I Can''t Give You Anything but Love (Louisiana: Jazz, Voodoo, alligatori (Alla musica di New Orleans che ha incendiato
-  i nostri vent''anni))'
-- 'New Orleans Function (Louisiana: Jazz, Voodoo, alligatori (Alla musica di New Orleans che ha incendiato i nostri vent''anni))'
+  - >-
+    Jazz Holiday (Louisiana: Jazz, Voodoo, alligatori (Alla musica di New
+    Orleans che ha incendiato i nostri vent'anni))
+  - >-
+    I'm Confessing That I Love You (Louisiana: Jazz, Voodoo, alligatori (Alla
+    musica di New Orleans che ha incendiato i nostri vent'anni))
+  - >-
+    Some of These Days (Louisiana: Jazz, Voodoo, alligatori (Alla musica di New
+    Orleans che ha incendiato i nostri vent'anni))
+  - >-
+    Who's Sorry Now (Louisiana: Jazz, Voodoo, alligatori (Alla musica di New
+    Orleans che ha incendiato i nostri vent'anni))
+  - >-
+    Rose Room (Louisiana: Jazz, Voodoo, alligatori (Alla musica di New Orleans
+    che ha incendiato i nostri vent'anni))
+  - >-
+    After You've Gone (Louisiana: Jazz, Voodoo, alligatori (Alla musica di New
+    Orleans che ha incendiato i nostri vent'anni))
+  - >-
+    Baby Won't You Please Come Home (Louisiana: Jazz, Voodoo, alligatori (Alla
+    musica di New Orleans che ha incendiato i nostri vent'anni))
+  - >-
+    Caresless Love (Louisiana: Jazz, Voodoo, alligatori (Alla musica di New
+    Orleans che ha incendiato i nostri vent'anni))
+  - >-
+    I Can't Give You Anything but Love (Louisiana: Jazz, Voodoo, alligatori
+    (Alla musica di New Orleans che ha incendiato i nostri vent'anni))
+  - >-
+    New Orleans Function (Louisiana: Jazz, Voodoo, alligatori (Alla musica di
+    New Orleans che ha incendiato i nostri vent'anni))
 external_urls:
-  spotify: https://open.spotify.com/artist/0G0BtHcxzg39DdQxlmLmKc
+  spotify: 'https://open.spotify.com/artist/0G0BtHcxzg39DdQxlmLmKc'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/original_perdido_jazz_band.jpg
 biography_enhanced_at: '2025-11-23T06:24:31.343845'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.maxysound.it/en/project/original-perdido-jazz-band
+  - 'https://www.maxysound.it/en/project/original-perdido-jazz-band'
 network_extracted: true
 entry_created: '2025-11-23T06:24:31.343857'
 last_updated: '2025-12-23T08:16:13.785114'
-origin: Italy
+origin: 'Italy, Italy, Europe'
+artist_type: band
 ---
 
 ![](original_perdido_jazz_band.jpg)

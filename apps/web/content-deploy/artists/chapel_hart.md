@@ -4,7 +4,7 @@ wiki_slug: chapel-hart
 schema_version: 2
 status: active
 genres:
-- traditional country
+  - traditional country
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/chapel_hart.jpg
   caption: Chapel Hart
@@ -15,7 +15,7 @@ audio_profile:
   valence_avg: 0.495
   danceability_avg: 0.519
   acousticness_avg: 0.205
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -5.4
   speechiness_avg: 0.046
   liveness_avg: 0.222
@@ -24,46 +24,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Danica Hart
-  - Devynn Hart
-  - Trea Swindle
+    - Danica Hart
+    - Devynn Hart
+    - Trea Swindle
   influenced: []
   mentors:
-  - La Roux
+    - La Roux
 spotify_data:
   followers: 71505
   id: 1Xc3WbacoW8ISqReb7Hjpj
   popularity: 32
-  url: https://open.spotify.com/artist/1Xc3WbacoW8ISqReb7Hjpj
+  url: 'https://open.spotify.com/artist/1Xc3WbacoW8ISqReb7Hjpj'
 discography_enriched: true
 top_tracks:
-- You Can Have Him Jolene (The Girls Are Back in Town)
-- Texas Hold 'Em (Texas Hold 'Em)
-- The Girls Are Back in Town (The Girls Are Back in Town)
-- American Pride (Glory Days)
-- I Will Follow (The Girls Are Back in Town)
-- Ol' Church Hymn (Ol' Church Hymn)
-- Ol' Church Hymn (Carolyn's Boy)
-- This Girl Likes Fords (Glory Days)
-- You Can Have Him Jolene (You Can Have Him Jolene)
-- Grown Ass Woman (The Girls Are Back in Town)
+  - You Can Have Him Jolene (The Girls Are Back in Town)
+  - Texas Hold 'Em (Texas Hold 'Em)
+  - The Girls Are Back in Town (The Girls Are Back in Town)
+  - American Pride (Glory Days)
+  - I Will Follow (The Girls Are Back in Town)
+  - Ol' Church Hymn (Ol' Church Hymn)
+  - Ol' Church Hymn (Carolyn's Boy)
+  - This Girl Likes Fords (Glory Days)
+  - You Can Have Him Jolene (You Can Have Him Jolene)
+  - Grown Ass Woman (The Girls Are Back in Town)
 external_urls:
-  spotify: https://open.spotify.com/artist/1Xc3WbacoW8ISqReb7Hjpj
-  wikipedia: https://en.wikipedia.org/wiki/Chapel_Hart
+  spotify: 'https://open.spotify.com/artist/1Xc3WbacoW8ISqReb7Hjpj'
+  wikipedia: 'https://en.wikipedia.org/wiki/Chapel_Hart'
 image_path: 03_Resources/source_material/ArtistPortraits/chapel_hart.jpg
 biography_enhanced_at: '2025-11-03T07:42:01.559667'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Houston Chronicle[1]
-- Country Swag[2]
-- Ole Red[3]
-- Chapel Hart official bio[4]
-- Think Country[5]
+  - 'Houston Chronicle[1]'
+  - 'Country Swag[2]'
+  - 'Ole Red[3]'
+  - 'Chapel Hart official bio[4]'
+  - 'Think Country[5]'
 network_extracted: true
 entry_created: '2025-11-03T07:42:01.559680'
 last_updated: '2025-12-23T08:16:06.640604'
-origin: Hart's Chapel (near Poplarville), Mississippi, United States
+origin: 'Hart''s Chapel (near Poplarville), Mississippi, United States'
+artist_type: band
 ---
 
 ![](chapel_hart.jpg)

@@ -1,14 +1,14 @@
 ---
-title: lambert, hendricks
+title: 'Lambert, Hendricks & Ross'
 wiki_slug: lambert-hendricks
 schema_version: 2
 status: active
 genres:
-- vocal jazz
-- jazz
+  - vocal jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lambert_hendricks.jpg
-  caption: lambert, hendricks
+  caption: 'lambert, hendricks'
   background: solo_singer
 audio_profile:
   tempo_avg: 106.3
@@ -25,58 +25,66 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Count Basie and the Count Basie Orchestra
-  - Yolande Bavan
-  - Columbia Records production teams and rhythm sections
-  - Paul Meyers
+    - Count Basie and the Count Basie Orchestra
+    - Yolande Bavan
+    - Columbia Records production teams and rhythm sections
+    - Paul Meyers
   influenced:
-  - The Manhattan Transfer
-  - The Pointer Sisters
-  - Joni Mitchell
-  - Bette Midler
-  - Subsequent generations of jazz vocalists and vocalese practitioners
+    - The Manhattan Transfer
+    - The Pointer Sisters
+    - Joni Mitchell
+    - Bette Midler
+    - Subsequent generations of jazz vocalists and vocalese practitioners
   mentors:
-  - Count Basie
-  - Woody Herman and his “Four Brothers” sax section (Al Cohn, Zoot Sims, Stan Getz)
-  - Charlie Parker and the bebop tradition
+    - Count Basie
+    - >-
+      Woody Herman and his “Four Brothers” sax section (Al Cohn, Zoot Sims, Stan
+      Getz)
+    - Charlie Parker and the bebop tradition
 spotify_data:
   followers: 18721
   id: 5XILwCCPqHHh1JRnMfzblg
   popularity: 30
-  url: https://open.spotify.com/artist/5XILwCCPqHHh1JRnMfzblg
+  url: 'https://open.spotify.com/artist/5XILwCCPqHHh1JRnMfzblg'
 discography_enriched: true
 top_tracks:
-- Lil' Darlin' (The Atomic Mr Basie)
-- Moanin' (The Hottest New Group in Jazz)
-- Centerpiece (The Hottest New Group in Jazz)
-- Twisted (The Hottest New Group In Jazz)
-- Twisted (The Hottest New Group in Jazz)
-- Gimme That Wine (The Hottest New Group in Jazz)
-- Moanin' (Everybody's Boppin')
-- In A Mellow Tone - Vocal Version (The Hottest New Group In Jazz)
-- Cloudburst (Everybody's Boppin')
-- Moanin' (The Hottest New Group In Jazz)
+  - Lil' Darlin' (The Atomic Mr Basie)
+  - Moanin' (The Hottest New Group in Jazz)
+  - Centerpiece (The Hottest New Group in Jazz)
+  - Twisted (The Hottest New Group In Jazz)
+  - Twisted (The Hottest New Group in Jazz)
+  - Gimme That Wine (The Hottest New Group in Jazz)
+  - Moanin' (Everybody's Boppin')
+  - In A Mellow Tone - Vocal Version (The Hottest New Group In Jazz)
+  - Cloudburst (Everybody's Boppin')
+  - Moanin' (The Hottest New Group In Jazz)
 external_urls:
-  spotify: https://open.spotify.com/artist/5XILwCCPqHHh1JRnMfzblg
-  wikipedia: https://en.wikipedia.org/wiki/Lambert,_Hendricks_&_Ross
+  spotify: 'https://open.spotify.com/artist/5XILwCCPqHHh1JRnMfzblg'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lambert,_Hendricks_&_Ross'
 image_path: 03_Resources/source_material/ArtistPortraits/lambert_hendricks.jpg
 biography_enhanced_at: '2025-12-11T03:59:33.803703'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Lambert,_Hendricks_&_Ross
-- https://www.allaboutjazz.com/musicians/lambert-hendricks-ross/
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/lambert-hendricks-and-ross
-- https://www.jazzempowers.org/lambert-hendricks-ross
-- https://www.cc-seas.columbia.edu/wkcr/story/lambert-hendricks-ross-sunday-profile
-- https://jazzprofiles.blogspot.com/2017/12/lambert-hendricks-ross-everybodys-lhr.html
-- https://d-scholarship.pitt.edu/27291/
-- https://jazztimes.com/features/profiles/jon-hendricks-annie-ross-together-alone/
+  - 'https://en.wikipedia.org/wiki/Lambert,_Hendricks_&_Ross'
+  - 'https://www.allaboutjazz.com/musicians/lambert-hendricks-ross/'
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/lambert-hendricks-and-ross
+  - 'https://www.jazzempowers.org/lambert-hendricks-ross'
+  - >-
+    https://www.cc-seas.columbia.edu/wkcr/story/lambert-hendricks-ross-sunday-profile
+  - >-
+    https://jazzprofiles.blogspot.com/2017/12/lambert-hendricks-ross-everybodys-lhr.html
+  - 'https://d-scholarship.pitt.edu/27291/'
+  - >-
+    https://jazztimes.com/features/profiles/jon-hendricks-annie-ross-together-alone/
 network_extracted: true
 entry_created: '2025-12-11T03:59:33.803711'
 last_updated: '2025-12-23T08:16:11.575717'
-origin: United States (American vocal group origin; members from Boston, Massachusetts, USA; Ohio/Toledo, USA; and Glasgow,
-  Scotland, UK)[4][7]
+origin: >-
+  United States (American vocal group origin; members from Boston,
+  Massachusetts, USA; Ohio/Toledo, USA; and Glasgow, Scotland, UK)
+artist_type: person
 ---
 
 ![](lambert_hendricks.jpg)

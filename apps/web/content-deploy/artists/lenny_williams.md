@@ -3,14 +3,14 @@ title: Lenny Williams
 wiki_slug: lenny-williams
 schema_version: 2
 status: active
-birth_place: Little Rock, Arkansas, United States
+birth_place: 'Little Rock, Arkansas, United States'
 genres:
-- quiet storm
+  - quiet storm
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lenny_williams.jpg
   caption: Lenny Williams
   background: solo_singer
-  origin: Little Rock, Arkansas, United States
+  origin: 'Little Rock, Arkansas, United States'
 audio_profile:
   tempo_avg: 112.5
   energy_avg: 0.561
@@ -26,50 +26,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tower of Power
-  - Sly Stone
-  - Billy Preston
-  - Andre Crouch
-  - Hawkins Family (Edwin, Walter, Tramaine)
+    - Tower of Power
+    - Sly Stone
+    - Billy Preston
+    - Andre Crouch
+    - 'Hawkins Family (Edwin, Walter, Tramaine)'
   influenced:
-  - Contemporary R&B and Pop Vocalists
+    - Contemporary R&B and Pop Vocalists
   mentors:
-  - Sam Cooke
-  - Saul Zaentz
+    - Sam Cooke
+    - Saul Zaentz
 spotify_data:
   followers: 94489
   id: 5VcrwzYyoX3WUTbkaqcIvN
   popularity: 37
-  url: https://open.spotify.com/artist/5VcrwzYyoX3WUTbkaqcIvN
+  url: 'https://open.spotify.com/artist/5VcrwzYyoX3WUTbkaqcIvN'
 discography_enriched: true
 top_tracks:
-- '''Cause I Love You (Spark Of Love (Expanded Edition))'
-- Cause I Love You (Blues, Grooves & Other Moods)
-- Shoo Doo Fu Fu Ooh (Choosing You (Expanded Edition))
-- It's Yours
-- Let's Talk It Over (Here's To The Lady)
-- I'm Just a Fool for You (feat. Lenny Williams) (It Ain't Over Till It's Over)
-- She Took My Drawers
-- 'Baby Come Back (Betty Wright: The Movie)'
-- Somebody Else (It Must Be Love)
-- You Got Me Running (Spark Of Love (Expanded Edition))
+  - '''Cause I Love You (Spark Of Love (Expanded Edition))'
+  - 'Cause I Love You (Blues, Grooves & Other Moods)'
+  - Shoo Doo Fu Fu Ooh (Choosing You (Expanded Edition))
+  - It's Yours
+  - Let's Talk It Over (Here's To The Lady)
+  - >-
+    I'm Just a Fool for You (feat. Lenny Williams) (It Ain't Over Till It's
+    Over)
+  - She Took My Drawers
+  - 'Baby Come Back (Betty Wright: The Movie)'
+  - Somebody Else (It Must Be Love)
+  - You Got Me Running (Spark Of Love (Expanded Edition))
 external_urls:
-  spotify: https://open.spotify.com/artist/5VcrwzYyoX3WUTbkaqcIvN
-  wikipedia: https://en.wikipedia.org/wiki/Lenny_Williams
+  spotify: 'https://open.spotify.com/artist/5VcrwzYyoX3WUTbkaqcIvN'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lenny_Williams'
 image_path: 03_Resources/source_material/ArtistPortraits/lenny_williams.jpg
 biography_enhanced_at: '2025-10-31T08:09:51.400105'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Lenny+Williams/+wiki
-- https://popcultureclassics.com/lenny_williams.html
-- https://lennywilliams.com/meet-lenny/
-- https://concord.com/artist/lenny-williams/
-- https://encyclopediaofarkansas.net/entries/lenny-williams-7540/
-- https://theroanoketribune.org/nearly-a-half-century-into-legendary-career-lenny-williams-still-doing-fine/
+  - 'https://www.last.fm/music/Lenny+Williams/+wiki'
+  - 'https://popcultureclassics.com/lenny_williams.html'
+  - 'https://lennywilliams.com/meet-lenny/'
+  - 'https://concord.com/artist/lenny-williams/'
+  - 'https://encyclopediaofarkansas.net/entries/lenny-williams-7540/'
+  - >-
+    https://theroanoketribune.org/nearly-a-half-century-into-legendary-career-lenny-williams-still-doing-fine/
 network_extracted: true
 entry_created: '2025-10-31T08:09:51.400116'
 last_updated: '2025-12-23T08:16:11.780790'
+origin: 'Oakland, California, United States'
+birth_date: '1945-02-06'
+artist_type: person
 ---
 
 ![](lenny_williams.jpg)

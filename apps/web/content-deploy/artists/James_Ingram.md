@@ -1,22 +1,22 @@
 ---
-title: Ingram
+title: James Ingram
 wiki_slug: ingram
 schema_version: 2
 status: active
-birth_place: Akron, Ohio, United States
+birth_place: 'Akron, Ohio, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Ingram.jpg
   caption: Ingram
   background: solo_singer
-  origin: Akron, Ohio, United States
+  origin: 'Akron, Ohio, United States'
 audio_profile:
   tempo_avg: 127.1
   energy_avg: 0.715
   valence_avg: 0.48
   danceability_avg: 0.492
   acousticness_avg: 0.111
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -5.9
   speechiness_avg: 0.053
   liveness_avg: 0.174
@@ -25,47 +25,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Michael McDonald
-  - Patti Austin
-  - Linda Ronstadt
-  - Michael Jackson
-  - Kenny Rogers
+    - Michael McDonald
+    - Patti Austin
+    - Linda Ronstadt
+    - Michael Jackson
+    - Kenny Rogers
   influenced:
-  - Phillip Ingram
+    - Phillip Ingram
   mentors:
-  - Ray Charles
-  - Quincy Jones
+    - Ray Charles
+    - Quincy Jones
 spotify_data:
   followers: 9253
   id: 5R56gqNAAqQSlO3IfI60Yv
   popularity: 19
-  url: https://open.spotify.com/artist/5R56gqNAAqQSlO3IfI60Yv
+  url: 'https://open.spotify.com/artist/5R56gqNAAqQSlO3IfI60Yv'
 discography_enriched: true
 top_tracks:
-- Will I Ever Make It Home - Acoustic (Blue Room Afternoon)
-- Will I Ever Make It Home (June's Picture Show)
-- Chicago (June's Picture Show)
-- Almost Perfect (June's Picture Show)
-- On My Way (June's Picture Show)
-- Maybe It's Me (June's Picture Show)
-- Why Don't You (Cold In California)
-- Four Letter Word (Cold In California)
-- The Captain (June's Picture Show)
-- Solsbury Hill (Why The Wait)
+  - Will I Ever Make It Home - Acoustic (Blue Room Afternoon)
+  - Will I Ever Make It Home (June's Picture Show)
+  - Chicago (June's Picture Show)
+  - Almost Perfect (June's Picture Show)
+  - On My Way (June's Picture Show)
+  - Maybe It's Me (June's Picture Show)
+  - Why Don't You (Cold In California)
+  - Four Letter Word (Cold In California)
+  - The Captain (June's Picture Show)
+  - Solsbury Hill (Why The Wait)
 external_urls:
-  spotify: https://open.spotify.com/artist/5R56gqNAAqQSlO3IfI60Yv
-  wikipedia: https://en.wikipedia.org/wiki/James_Ingram
+  spotify: 'https://open.spotify.com/artist/5R56gqNAAqQSlO3IfI60Yv'
+  wikipedia: 'https://en.wikipedia.org/wiki/James_Ingram'
 image_path: 03_Resources/source_material/ArtistPortraits/Ingram.jpg
 biography_enhanced_at: '2025-10-19T12:41:41.542611'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.thehistorymakers.org/biography/james-ingram-41
-- https://www.britannica.com/biography/James-Ingram
-- https://www.imdb.com/name/nm0408986/bio/
+  - 'https://www.thehistorymakers.org/biography/james-ingram-41'
+  - 'https://www.britannica.com/biography/James-Ingram'
+  - 'https://www.imdb.com/name/nm0408986/bio/'
 network_extracted: true
 entry_created: '2025-10-19T12:41:41.542622'
 last_updated: '2025-12-23T08:16:02.445808'
+birth_date: '1952'
+artist_type: person
 ---
 
 ![](Ingram.jpg)

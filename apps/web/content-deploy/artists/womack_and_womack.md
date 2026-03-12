@@ -2,7 +2,7 @@
 title: Womack & Womack
 wiki_slug: womack-womack
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1983'
 genres: []
@@ -26,64 +26,65 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mary Wells
-  - Bobby Womack
-  - The House of Zekkariyas
+    - Mary Wells
+    - Bobby Womack
+    - The House of Zekkariyas
   influenced:
-  - Sugababes
-  - Joss Stone
-  - Eric Clapton
+    - Sugababes
+    - Joss Stone
+    - Eric Clapton
   mentors:
-  - Sam Cooke
+    - Sam Cooke
 spotify_data:
   followers: 121084
   id: 7qShKycqNUP0GLEiTENDVZ
   popularity: 53
-  url: https://open.spotify.com/artist/7qShKycqNUP0GLEiTENDVZ
+  url: 'https://open.spotify.com/artist/7qShKycqNUP0GLEiTENDVZ'
 discography_enriched: true
 top_tracks:
-- Teardrops (Teardrops (Sped Up))
-- Teardrops (Conscience)
-- Teardrops (80s Soul (International Version))
-- Teardrops - Rules Remix (Teardrops)
-- Teardrops - Single Version (Music For Groovin')
-- Baby I'm Scared of You (Love Wars)
-- M.P.B. (Conscience)
-- Love Wars (Love Wars)
-- Teardrops - Extended Remix (12" 80s Classics)
-- Celebrate The World (Conscience)
+  - Teardrops (Teardrops (Sped Up))
+  - Teardrops (Conscience)
+  - Teardrops (80s Soul (International Version))
+  - Teardrops - Rules Remix (Teardrops)
+  - Teardrops - Single Version (Music For Groovin')
+  - Baby I'm Scared of You (Love Wars)
+  - M.P.B. (Conscience)
+  - Love Wars (Love Wars)
+  - Teardrops - Extended Remix (12" 80s Classics)
+  - Celebrate The World (Conscience)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d41817d9-893f-4dd1-99ac-7b12dc3ba265
-  spotify: https://open.spotify.com/artist/7qShKycqNUP0GLEiTENDVZ
-  wikipedia: https://en.wikipedia.org/wiki/Cecil_Womack
+  musicbrainz: 'https://musicbrainz.org/artist/d41817d9-893f-4dd1-99ac-7b12dc3ba265'
+  spotify: 'https://open.spotify.com/artist/7qShKycqNUP0GLEiTENDVZ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Cecil_Womack'
 image_path: 03_Resources/source_material/ArtistPortraits/womack_and_womack.jpg
 biography_enhanced_at: '2025-11-10T03:44:25.383072'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Cecil_Womack
-- https://wbssmedia.com/artists/detail/738
-- https://www.last.fm/music/Womack+&+Womack/+wiki
+  - 'https://en.wikipedia.org/wiki/Cecil_Womack'
+  - 'https://wbssmedia.com/artists/detail/738'
+  - 'https://www.last.fm/music/Womack+&+Womack/+wiki'
 network_extracted: true
 entry_created: '2025-11-10T03:44:25.383087'
 last_updated: '2025-12-23T08:16:18.271088'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 23463da9-8c6a-4769-a6a0-474304e93623
-  name: Cecil Womack
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 89e6e755-2ccc-4f1e-9cb2-774c2ccaf8b6
-  name: Linda Womack
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 23463da9-8c6a-4769-a6a0-474304e93623
+    name: Cecil Womack
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 89e6e755-2ccc-4f1e-9cb2-774c2ccaf8b6
+    name: Linda Womack
 musicbrainz_id: d41817d9-893f-4dd1-99ac-7b12dc3ba265
-origin: Cleveland, Ohio, United States
+origin: 'Cleveland, Ohio, United States'
 tags:
-- classic pop and rock
-- funk
-- r&b
+  - classic pop and rock
+  - funk
+  - r&b
+birth_place: 'Cleveland, Ohio, United States'
 ---
 
 ![](womack_and_womack.jpg)

@@ -1,24 +1,24 @@
 ---
-title: JOHNNY CASH
+title: Johnny Cash
 wiki_slug: johnny-cash
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1932-02-26'
-birth_place: Kingsland, Arkansas, United States
+birth_place: 'Kingsland, Arkansas, United States'
 death_date: '2003-09-12'
 genres:
-- country
+  - country
 instruments:
-- guitar
-- lead vocals
-- original
+  - guitar
+  - lead vocals
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/JOHNNY_CASH.jpg
   caption: JOHNNY CASH
   background: solo_singer
   born: '1932-02-26'
-  origin: Kingsland, Arkansas, United States
+  origin: 'Kingsland, Arkansas, United States'
   died: '2003-09-12'
 audio_profile:
   tempo_avg: 110.2
@@ -35,47 +35,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Luther Perkins & Marshall Grant
-  - June Carter Cash
-  - The Highwaymen (Willie Nelson, Waylon Jennings, Kris Kristofferson)
-  - Rick Rubin
+    - Luther Perkins & Marshall Grant
+    - June Carter Cash
+    - 'The Highwaymen (Willie Nelson, Waylon Jennings, Kris Kristofferson)'
+    - Rick Rubin
   influenced:
-  - Bob Dylan
-  - Bruce Springsteen
-  - Nick Cave
-  - Rosanne Cash
+    - Bob Dylan
+    - Bruce Springsteen
+    - Nick Cave
+    - Rosanne Cash
   mentors:
-  - Carrie Cash
-  - Dennis Day (via radio)
+    - Carrie Cash
+    - Dennis Day (via radio)
 spotify_data:
   followers: 6893082
   id: 6kACVPfCOnqzgfEF5ryl0x
   popularity: 72
-  url: https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x
+  url: 'https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x'
 discography_enriched: true
 top_tracks:
-- 'Hurt (American IV: The Man Comes Around)'
-- Highwayman (Highwayman)
-- Ring of Fire
-- 'God''s Gonna Cut You Down (American V: A Hundred Highways)'
-- The Ballad of Boot Hill (Johnny Cash Sings The Ballads Of The True West)
-- Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968 (At Folsom Prison)
-- I Walk The Line - Single Version (With His Hot and Blue Guitar)
-- Girl from the North Country (Nashville Skyline)
-- I Walk the Line (I Walk the Line (Original Soundtrack Recording))
-- (Ghost) Riders in the Sky (Silver)
+  - 'Hurt (American IV: The Man Comes Around)'
+  - Highwayman (Highwayman)
+  - Ring of Fire
+  - 'God''s Gonna Cut You Down (American V: A Hundred Highways)'
+  - The Ballad of Boot Hill (Johnny Cash Sings The Ballads Of The True West)
+  - >-
+    Folsom Prison Blues - Live at Folsom State Prison, Folsom, CA - January 1968
+    (At Folsom Prison)
+  - I Walk The Line - Single Version (With His Hot and Blue Guitar)
+  - Girl from the North Country (Nashville Skyline)
+  - I Walk the Line (I Walk the Line (Original Soundtrack Recording))
+  - (Ghost) Riders in the Sky (Silver)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d43d12a1-2dc9-4257-a2fd-0a3bb1081b86
-  spotify: https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x
-  wikipedia: https://en.wikipedia.org/wiki/Johnny_Cash
+  musicbrainz: 'https://musicbrainz.org/artist/d43d12a1-2dc9-4257-a2fd-0a3bb1081b86'
+  spotify: 'https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x'
+  wikipedia: 'https://en.wikipedia.org/wiki/Johnny_Cash'
 image_path: 03_Resources/source_material/ArtistPortraits/JOHNNY_CASH.jpg
 biography_enhanced_at: '2025-10-19T11:55:58.060142'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.biography.com/musicians/johnny-cash
-- https://achievement.org/achiever/johnny-cash/
-- https://en.wikipedia.org/wiki/Johnny_Cash
+  - 'https://www.biography.com/musicians/johnny-cash'
+  - 'https://achievement.org/achiever/johnny-cash/'
+  - 'https://en.wikipedia.org/wiki/Johnny_Cash'
 network_extracted: true
 entry_created: '2025-10-19T11:55:58.060147'
 last_updated: '2025-12-23T08:16:02.364511'
@@ -84,10 +86,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:30:09.702666'
 musicbrainz_id: d43d12a1-2dc9-4257-a2fd-0a3bb1081b86
 tags:
-- americana
-- blues
-- composers
-
+  - americana
+  - blues
+  - composers
+is_active: false
 ---
 
 ![](JOHNNY_CASH.jpg)

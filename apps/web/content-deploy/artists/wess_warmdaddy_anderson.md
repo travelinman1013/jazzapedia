@@ -3,13 +3,13 @@ title: Wess Warmdaddy Anderson
 wiki_slug: wess-warmdaddy-anderson
 schema_version: 2
 status: active
-birth_place: Brooklyn, New York, United States
+birth_place: 'Brooklyn, New York, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/wess_warmdaddy_anderson.jpg
   caption: Wess Warmdaddy Anderson
   background: solo_singer
-  origin: Brooklyn, New York, United States
+  origin: 'Brooklyn, New York, United States'
 audio_profile:
   tempo_avg: 107.5
   energy_avg: 0.351
@@ -25,46 +25,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lincoln Center Jazz Orchestra
+    - Lincoln Center Jazz Orchestra
   influenced:
-  - MSU Jazz Studies Students
+    - MSU Jazz Studies Students
   mentors:
-  - Jazzmobile Workshop Instructors
+    - Jazzmobile Workshop Instructors
 spotify_data:
   followers: 35
   id: 7i6BF8ODq0A2ehLg1P5S7y
   popularity: 0
-  url: https://open.spotify.com/artist/7i6BF8ODq0A2ehLg1P5S7y
+  url: 'https://open.spotify.com/artist/7i6BF8ODq0A2ehLg1P5S7y'
 discography_enriched: true
 top_tracks:
-- Natural History (Natural History)
-- Stroke Blues (Natural History)
-- Rosie Posie (Natural History)
-- Pati (Natural History)
-- Just Swing (Natural History)
-- Dem Dirty Blues (Natural History)
-- Easy Credit (In America)
-- Clean Air (In America)
-- The Black Cat (In America)
-- Don't Go to Strangers (In America)
+  - Natural History (Natural History)
+  - Stroke Blues (Natural History)
+  - Rosie Posie (Natural History)
+  - Pati (Natural History)
+  - Just Swing (Natural History)
+  - Dem Dirty Blues (Natural History)
+  - Easy Credit (In America)
+  - Clean Air (In America)
+  - The Black Cat (In America)
+  - Don't Go to Strangers (In America)
 external_urls:
-  spotify: https://open.spotify.com/artist/7i6BF8ODq0A2ehLg1P5S7y
-  wikipedia: https://en.wikipedia.org/wiki/Wessell_Anderson
+  spotify: 'https://open.spotify.com/artist/7i6BF8ODq0A2ehLg1P5S7y'
+  wikipedia: 'https://en.wikipedia.org/wiki/Wessell_Anderson'
 image_path: 03_Resources/source_material/ArtistPortraits/wess_warmdaddy_anderson.jpg
 biography_enhanced_at: '2025-11-29T07:00:29.013642'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Wessell Anderson
-- Advancement Agency
-- JazzAscona
-- All About Jazz
-- AllMusic
-- Encyclopedia.com
-- Lansing City Pulse
+  - Wikipedia - Wessell Anderson
+  - Advancement Agency
+  - JazzAscona
+  - All About Jazz
+  - AllMusic
+  - Encyclopedia.com
+  - Lansing City Pulse
 network_extracted: true
 entry_created: '2025-11-29T07:00:29.013656'
 last_updated: '2025-12-23T08:16:18.090285'
+artist_type: person
 ---
 
 ![](wess_warmdaddy_anderson.jpg)

@@ -1,32 +1,32 @@
 ---
-title: gary primich
+title: Gary Primich
 wiki_slug: gary-primich
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1958-04-20'
-birth_place: Chicago
+birth_place: 'Chicago, Illinois, United States'
 death_date: '2007-09-23'
 genres:
-- blues
-- modern blues
-- blues rock
+  - blues
+  - modern blues
+  - blues rock
 instruments:
-- lead vocals
-- harmonica
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - lead vocals
-  mbid: c7708a55-4228-4ad9-9623-a2984e5a9dda
-  name: The Mannish Boys
-- begin: ''
-  end: ''
-  instruments:
   - harmonica
-  mbid: c7708a55-4228-4ad9-9623-a2984e5a9dda
-  name: The Mannish Boys
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: c7708a55-4228-4ad9-9623-a2984e5a9dda
+    name: The Mannish Boys
+  - begin: ''
+    end: ''
+    instruments:
+      - harmonica
+    mbid: c7708a55-4228-4ad9-9623-a2984e5a9dda
+    name: The Mannish Boys
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/gary_primich.jpg
   caption: gary primich
@@ -49,55 +49,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jimmy Carl Black
-  - Omar Dykes
-  - Gary Primich Band members
+    - Jimmy Carl Black
+    - Omar Dykes
+    - Gary Primich Band members
   influenced:
-  - Glenn Weiser
-  - Contemporary blues harmonica players
+    - Glenn Weiser
+    - Contemporary blues harmonica players
   mentors:
-  - Little Walter
-  - Sonny Boy Williamson II
+    - Little Walter
+    - Sonny Boy Williamson II
 spotify_data:
   followers: 4711
   id: 5Z0JPLMZBFdnsrcv5lkpwU
   popularity: 13
-  url: https://open.spotify.com/artist/5Z0JPLMZBFdnsrcv5lkpwU
+  url: 'https://open.spotify.com/artist/5Z0JPLMZBFdnsrcv5lkpwU'
 discography_enriched: true
 top_tracks:
-- 'Introduction/Route 66 (More Songs of Route 66: Roadside Attractions)'
-- 'Tucumcari, Here I Come (More Songs of Route 66: Roadside Attractions)'
-- Hoo Doo Ball (Just a Little Bit More... (Feat. Omar Dykes))
-- 'Oklahoma Hills (More Songs of Route 66: Roadside Attractions)'
-- Brown Derby Liquor (Dog House Music)
-- 'Hoppin'' in Joplin (More Songs of Route 66: Roadside Attractions)'
-- Midnight Ramblin' Man (Just a Little Bit More... (Feat. Omar Dykes))
-- Satellite Rock (Just a Little Bit More... (Feat. Omar Dykes))
-- Red Top (Mr. Freeze)
-- 'Goodbye, California (Hello, Illinois) (More Songs of Route 66: Roadside Attractions)'
+  - 'Introduction/Route 66 (More Songs of Route 66: Roadside Attractions)'
+  - 'Tucumcari, Here I Come (More Songs of Route 66: Roadside Attractions)'
+  - Hoo Doo Ball (Just a Little Bit More... (Feat. Omar Dykes))
+  - 'Oklahoma Hills (More Songs of Route 66: Roadside Attractions)'
+  - Brown Derby Liquor (Dog House Music)
+  - 'Hoppin'' in Joplin (More Songs of Route 66: Roadside Attractions)'
+  - Midnight Ramblin' Man (Just a Little Bit More... (Feat. Omar Dykes))
+  - Satellite Rock (Just a Little Bit More... (Feat. Omar Dykes))
+  - Red Top (Mr. Freeze)
+  - >-
+    Goodbye, California (Hello, Illinois) (More Songs of Route 66: Roadside
+    Attractions)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/98a4310b-c7bf-4676-8c0a-167cac1499cd
-  spotify: https://open.spotify.com/artist/5Z0JPLMZBFdnsrcv5lkpwU
-  wikipedia: https://en.wikipedia.org/wiki/Gary_Primich
+  musicbrainz: 'https://musicbrainz.org/artist/98a4310b-c7bf-4676-8c0a-167cac1499cd'
+  spotify: 'https://open.spotify.com/artist/5Z0JPLMZBFdnsrcv5lkpwU'
+  wikipedia: 'https://en.wikipedia.org/wiki/Gary_Primich'
 image_path: 03_Resources/source_material/ArtistPortraits/gary_primich.jpg
 biography_enhanced_at: '2025-11-20T06:39:03.248888'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Gary_Primich
-- https://www.celticguitarmusic.com/harmprimich.htm
-- https://www.mysanantonio.com/life/article/Doing-blues-the-Primich-way-3560106.php
-- https://www.allmusic.com/artist/gary-primich-mn0000800271
-- http://www.modernbluesharmonica.com/board/board_topic/5560960/5470306.htm
-- https://www.latimes.com/archives/la-xpm-1997-02-27-ca-33115-story.html
+  - 'https://en.wikipedia.org/wiki/Gary_Primich'
+  - 'https://www.celticguitarmusic.com/harmprimich.htm'
+  - >-
+    https://www.mysanantonio.com/life/article/Doing-blues-the-Primich-way-3560106.php
+  - 'https://www.allmusic.com/artist/gary-primich-mn0000800271'
+  - 'http://www.modernbluesharmonica.com/board/board_topic/5560960/5470306.htm'
+  - 'https://www.latimes.com/archives/la-xpm-1997-02-27-ca-33115-story.html'
 network_extracted: true
 entry_created: '2025-11-20T06:39:03.248892'
 last_updated: '2025-12-23T08:16:09.016650'
 gender: Male
 musicbrainz_id: 98a4310b-c7bf-4676-8c0a-167cac1499cd
 tags:
-- blues
-- electric blues
+  - blues
+  - electric blues
+is_active: false
+origin: 'Gary, Indiana, United States'
 ---
 
 ![](gary_primich.jpg)

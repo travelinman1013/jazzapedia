@@ -2,20 +2,20 @@
 title: Adriana Moreira
 wiki_slug: adriana-moreira
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1970-03-05'
-birth_place: São Paulo, São Paulo, Brazil
+birth_place: 'São Paulo, São Paulo, Brazil'
 genres:
-- samba
+  - samba
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Adriana_Moreira.jpg
   caption: Adriana Moreira
   background: solo_singer
   born: '1970-03-05'
-  origin: São Paulo, São Paulo, Brazil
+  origin: 'São Paulo, São Paulo, Brazil'
 audio_profile:
-  tempo_avg: 110.0
+  tempo_avg: 110
   energy_avg: 0.416
   valence_avg: 0.643
   danceability_avg: 0.607
@@ -29,41 +29,44 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Adriano George da Silva
+    - Adriano George da Silva
   influenced: []
   mentors:
-  - Elizeth Cardoso
-  - Clara Nunes
+    - Elizeth Cardoso
+    - Clara Nunes
 spotify_data:
   followers: 2010
   id: 2BhI00WWkW80lJ9SHDf08o
   popularity: 16
-  url: https://open.spotify.com/artist/2BhI00WWkW80lJ9SHDf08o
+  url: 'https://open.spotify.com/artist/2BhI00WWkW80lJ9SHDf08o'
 discography_enriched: true
 top_tracks:
-- Fuzuê (Cordão)
-- Precisava Me Cuidar (Cordão)
-- Aboio (Aboio)
-- Fui Pedir as Almas Santas, Atraca Atraca, Banguelê (Cordão)
-- Machado de Xangô (Cordão)
-- Mironga (Mironga)
-- Direito de Sambar (Direito de Sambar)
-- Cordão (Cordão)
-- Sossiso do Sambista / Verdejante (Cordão)
-- Quando o amor invade (Estrela é o Samba)
+  - Fuzuê (Cordão)
+  - Precisava Me Cuidar (Cordão)
+  - Aboio (Aboio)
+  - 'Fui Pedir as Almas Santas, Atraca Atraca, Banguelê (Cordão)'
+  - Machado de Xangô (Cordão)
+  - Mironga (Mironga)
+  - Direito de Sambar (Direito de Sambar)
+  - Cordão (Cordão)
+  - Sossiso do Sambista / Verdejante (Cordão)
+  - Quando o amor invade (Estrela é o Samba)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/fa311e46-5908-4467-866a-f6fb8d2f4da9
-  spotify: https://open.spotify.com/artist/2BhI00WWkW80lJ9SHDf08o
+  musicbrainz: 'https://musicbrainz.org/artist/fa311e46-5908-4467-866a-f6fb8d2f4da9'
+  spotify: 'https://open.spotify.com/artist/2BhI00WWkW80lJ9SHDf08o'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/Adriana_Moreira.jpg
 biography_enhanced_at: '2025-10-19T12:28:55.533680'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://worldmusiccentral.org/adriana-moreira-celebrates-brazilian-black-culture-at-malungo-festival/
-- https://www.shazam.com/song/757754649/sossiso-do-sambista-verdejante/music-video
-- https://www.deezer.com/en/artist/5256843
-- https://wheatoncollege.edu/event/adriano-george-and-the-groove-brotherhood-featuring-adriana/
+  - >-
+    https://worldmusiccentral.org/adriana-moreira-celebrates-brazilian-black-culture-at-malungo-festival/
+  - >-
+    https://www.shazam.com/song/757754649/sossiso-do-sambista-verdejante/music-video
+  - 'https://www.deezer.com/en/artist/5256843'
+  - >-
+    https://wheatoncollege.edu/event/adriano-george-and-the-groove-brotherhood-featuring-adriana/
 network_extracted: true
 entry_created: '2025-10-19T12:28:55.533696'
 last_updated: '2025-12-23T08:16:00.951434'

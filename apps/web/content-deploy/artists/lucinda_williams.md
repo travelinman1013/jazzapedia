@@ -6,35 +6,35 @@ status: active
 birth_name: Lucinda Gayl Williams
 aliases: []
 birth_date: '1953-01-26'
-birth_place: Lake Charles, Louisiana, United States
+birth_place: 'Lake Charles, Louisiana, United States'
 years_active: 1978–present
 genres:
-- alt country
-- americana
-- singer-songwriter
-- folk
+  - alt country
+  - americana
+  - singer-songwriter
+  - folk
 instruments:
-- acoustic guitar
-- electric guitar
-- voice
+  - acoustic guitar
+  - electric guitar
+  - voice
 occupation:
-- singer-songwriter
-- composer
-- record producer
-- music arranger
-- entrepreneur
+  - singer-songwriter
+  - composer
+  - record producer
+  - music arranger
+  - entrepreneur
 record_labels:
-- Smithsonian Folkways Recordings
-- Rough Trade
-- Mercury Records
-- Lost Highway
+  - Smithsonian Folkways Recordings
+  - Rough Trade
+  - Mercury Records
+  - Lost Highway
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Lucinda_Williams.jpg
   caption: Lucinda Williams
   background: solo_singer
   birth_name: Lucinda Gayl Williams
   born: '1953-01-26'
-  origin: Lake Charles, Louisiana, United States
+  origin: 'Lake Charles, Louisiana, United States'
 audio_profile:
   tempo_avg: 109.7
   energy_avg: 0.477
@@ -50,57 +50,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John Grimaudo
-  - Greg Sowders
-  - Jeff Ampolsk
+    - John Grimaudo
+    - Greg Sowders
+    - Jeff Ampolsk
   influenced:
-  - Mary Chapin Carpenter
+    - Mary Chapin Carpenter
   mentors:
-  - Bob Dylan
-  - Robert Johnson
-  - Memphis Minnie
-  - The Carter Family
+    - Bob Dylan
+    - Robert Johnson
+    - Memphis Minnie
+    - The Carter Family
 related_artists: []
 spotify_data:
   followers: 273986
   id: 60ht0hWRy1yjUDfNsLuHuP
   popularity: 53
-  url: https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP
+  url: 'https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP'
   verified: false
 discography_enriched: true
 albums_count: 25
 singles_count: 35
 top_tracks:
-- Okie From Muskogee - Live
-- Fruits Of My Labor (World Without Tears)
-- Can't Let Go (Car Wheels On A Gravel Road)
-- Car Wheels On A Gravel Road (Car Wheels On A Gravel Road)
-- This Train is Bound for Glory
-- Are You Alright? (West)
-- Something About What Happens When We Talk. (Sweet Old World)
-- Righteously (World Without Tears)
-- Factory Girls (Within a Mile of Home)
-- Right In Time (Car Wheels On A Gravel Road)
+  - Okie From Muskogee - Live
+  - Fruits Of My Labor (World Without Tears)
+  - Can't Let Go (Car Wheels On A Gravel Road)
+  - Car Wheels On A Gravel Road (Car Wheels On A Gravel Road)
+  - This Train is Bound for Glory
+  - Are You Alright? (West)
+  - Something About What Happens When We Talk. (Sweet Old World)
+  - Righteously (World Without Tears)
+  - Factory Girls (Within a Mile of Home)
+  - Right In Time (Car Wheels On A Gravel Road)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP
-  wikipedia: https://en.wikipedia.org/wiki/Lucinda_Williams
+  spotify: 'https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lucinda_Williams'
 image_path: 03_Resources/source_material/ArtistPortraits/Lucinda_Williams.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:04:33.239944'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia
-- Encyclopedia of Arkansas
-- Smithsonian Folkways
-- Mabumbe.com
-- Affidavit.art
+  - Wikipedia
+  - Encyclopedia of Arkansas
+  - Smithsonian Folkways
+  - Mabumbe.com
+  - Affidavit.art
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 11:52:35.863326
+entry_created: 2025-09-18T11:52:35.863Z
 last_updated: '2025-12-23T08:16:12.335970'
-
+artist_type: person
 ---
 
 ![](Lucinda_Williams.jpg)

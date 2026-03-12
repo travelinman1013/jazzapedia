@@ -3,20 +3,20 @@ title: Charlie Miller
 wiki_slug: charlie-miller
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/charlie_miller.jpg
   caption: Charlie Miller
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 125.6
   energy_avg: 0.802
   valence_avg: 0.396
   danceability_avg: 0.544
   acousticness_avg: 0.059
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -4.8
   speechiness_avg: 0.084
   liveness_avg: 0.309
@@ -25,51 +25,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dr. John
-  - Chuck Mangione
-  - BB King
-  - Paul Jeffrey
-  - Machito
-  - Lou Rawls
-  - Johnny Adams
+    - Dr. John
+    - Chuck Mangione
+    - BB King
+    - Paul Jeffrey
+    - Machito
+    - Lou Rawls
+    - Johnny Adams
   influenced:
-  - Jazz combo students at Loyola University
+    - Jazz combo students at Loyola University
   mentors:
-  - Dr. John
-  - Thelonious Monk
+    - Dr. John
+    - Thelonious Monk
 spotify_data:
   followers: 1717
   id: 2i6DCdjOpqQGf5ICVpn8dj
   popularity: 31
-  url: https://open.spotify.com/artist/2i6DCdjOpqQGf5ICVpn8dj
+  url: 'https://open.spotify.com/artist/2i6DCdjOpqQGf5ICVpn8dj'
 discography_enriched: true
 top_tracks:
-- Youngblood (Youngblood)
-- Skies (Skies)
-- The Weather Without You (The Weather Without You)
-- That Night (That Night)
-- Not Enough (Not Enough)
-- Will You Love Me (Will You Love Me)
-- Youngblood (slowed + reverb) (Slowed & Reverb Vol. 3)
-- Unspoken
-- I Belong With You
-- Bother Me
+  - Youngblood (Youngblood)
+  - Skies (Skies)
+  - The Weather Without You (The Weather Without You)
+  - That Night (That Night)
+  - Not Enough (Not Enough)
+  - Will You Love Me (Will You Love Me)
+  - Youngblood (slowed + reverb) (Slowed & Reverb Vol. 3)
+  - Unspoken
+  - I Belong With You
+  - Bother Me
 external_urls:
-  spotify: https://open.spotify.com/artist/2i6DCdjOpqQGf5ICVpn8dj
+  spotify: 'https://open.spotify.com/artist/2i6DCdjOpqQGf5ICVpn8dj'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/charlie_miller.jpg
 biography_enhanced_at: '2025-11-27T06:32:14.324997'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- WWOZ New Orleans 90.7 FM - Charlie Miller profile
-- Blues.Gr - New Orleans native trumpet player Charlie Miller interview
-- Charlie Miller official website (charliemiller.us)
-- Charlie Miller Music biography (charliemillermusic.com)
-- All About Jazz - Charlie Miller musician profile
+  - WWOZ New Orleans 90.7 FM - Charlie Miller profile
+  - Blues.Gr - New Orleans native trumpet player Charlie Miller interview
+  - Charlie Miller official website (charliemiller.us)
+  - Charlie Miller Music biography (charliemillermusic.com)
+  - All About Jazz - Charlie Miller musician profile
 network_extracted: true
 entry_created: '2025-11-27T06:32:14.325016'
 last_updated: '2025-12-23T08:16:06.736814'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](charlie_miller.jpg)

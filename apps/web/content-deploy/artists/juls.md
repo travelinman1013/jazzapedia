@@ -1,67 +1,67 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '2008'
-  end: ''
-  instruments: []
-  mbid: 159c4fa0-533a-4b2a-b3fd-27842c2aa82b
-  name: BeCool
+  - begin: '2008'
+    end: ''
+    instruments: []
+    mbid: 159c4fa0-533a-4b2a-b3fd-27842c2aa82b
+    name: BeCool
 biography_enhanced_at: '2026-01-18T07:51:36.918587'
 birth_date: '1985-10-25'
-birth_place: Hackney
+birth_place: 'Hackney, East London, United Kingdom'
 disambiguation: Afrobeat producer/DJ
 enhancement_provider: perplexity
 entry_created: '2026-01-18T07:51:36.918593'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/06059ff3-720e-4b33-8e34-b98933817fe8
-  spotify: https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic
+  musicbrainz: 'https://musicbrainz.org/artist/06059ff3-720e-4b33-8e34-b98933817fe8'
+  spotify: 'https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic'
   wikipedia: ''
 gender: Male
 genres:
-- alté
-- afrobeats
-- afroswing
-- afrobeat
-- afropop
-- afro r&b
-- afro soul
-- azonto
+  - alté
+  - afrobeats
+  - afroswing
+  - afrobeat
+  - afropop
+  - afro r&b
+  - afro soul
+  - azonto
 image_path: 03_Resources/source_material/ArtistPortraits/juls.jpg
 last_updated: '2026-01-18T07:51:36.918593'
 musical_connections:
   collaborators:
-  - Stormzy
-  - Wizkid
-  - Burna Boy
-  - Lauryn Hill
-  - Mr Eazi
-  - Sango
+    - Stormzy
+    - Wizkid
+    - Burna Boy
+    - Lauryn Hill
+    - Mr Eazi
+    - Sango
   influenced:
-  - Wizkid
+    - Wizkid
   mentors:
-  - Kojo Antwi
-  - J Dilla
-  - Kanye West
+    - Kojo Antwi
+    - J Dilla
+    - Kanye West
 musicbrainz_id: 06059ff3-720e-4b33-8e34-b98933817fe8
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://prsfoundation.com/grantees/juls-power-up-music-creator/
-- https://theface.com/music/the-face-mix-004-juls-leap-of-faith
-- https://djbooth.net/features/2021-10-13-juls-interview-audiomack/
-- https://milocostudios.com/client/juls-baby/
-- https://hellorayo.co.uk/kiss/presenters/juls
-- https://www.guide-collective.com/sonic-sundays/juls
-- https://notion.online/juls/
+  - 'https://prsfoundation.com/grantees/juls-power-up-music-creator/'
+  - 'https://theface.com/music/the-face-mix-004-juls-leap-of-faith'
+  - 'https://djbooth.net/features/2021-10-13-juls-interview-audiomack/'
+  - 'https://milocostudios.com/client/juls-baby/'
+  - 'https://hellorayo.co.uk/kiss/presenters/juls'
+  - 'https://www.guide-collective.com/sonic-sundays/juls'
+  - 'https://notion.online/juls/'
 spotify_data:
   followers: 333118
   id: 7BIkk865pwBrSZetA8Izic
   popularity: 50
-  url: https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic
+  url: 'https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic'
 status: active
 tags:
-- afrobeats
-title: juls
+  - afrobeats
+title: Juls
 ---
 
 ![](juls.jpg)

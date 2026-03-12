@@ -3,15 +3,15 @@ title: Pearl Woods
 wiki_slug: pearl-woods
 schema_version: 2
 status: active
-birth_place: St. Matthews, South Carolina, United States
+birth_place: 'St. Matthews, South Carolina, United States'
 genres:
-- northern soul
-- rockabilly
+  - northern soul
+  - rockabilly
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Pearl_Woods.jpg
   caption: Pearl Woods
   background: solo_singer
-  origin: St. Matthews, South Carolina, United States
+  origin: 'St. Matthews, South Carolina, United States'
 audio_profile:
   tempo_avg: 114.6
   energy_avg: 0.616
@@ -27,46 +27,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Freddy Johnson
-  - Unnamed backup vocalists
+    - Freddy Johnson
+    - Unnamed backup vocalists
   influenced:
-  - Avicii
-  - Flo Rida
+    - Avicii
+    - Flo Rida
   mentors:
-  - Freddy Johnson
+    - Freddy Johnson
 spotify_data:
   followers: 203
   id: 04y0YfYFkVGGC2BmHwxpS9
   popularity: 1
-  url: https://open.spotify.com/artist/04y0YfYFkVGGC2BmHwxpS9
+  url: 'https://open.spotify.com/artist/04y0YfYFkVGGC2BmHwxpS9'
 discography_enriched: true
 top_tracks:
-- I Can't Wait (Let the Good Things Start)
-- Keep Your Business to Yourself (I Can´t Wait)
-- 'Keep Your Business To Yourself (The Sue Records Story: The Sound Of Soul)'
-- Sippin´ Sorrow (Rare Rhythm´n´blues Vol.7, 20 R&B 45 Rpm Nuggets)
-- My Love Is Your Love (Sippin' Sorrow (With A Spoon))
-- Let the Good Things Start (Let the Good Things Start)
-- Keep Your Business to Yourself (The Glory of Love - From the Vaults)
-- Keep Your Business To Yourself (Sue Records' Greatest Hits)
-- Keep Your Business To Yourself (The Sue Records Story Vol. 1)
-- Let the Good Things Start (Get Hot – Female Sleazy Rhythm 'N Blues Vol. 2)
+  - "I\_Can't Wait (Let the Good Things Start)"
+  - Keep Your Business to Yourself (I Can´t Wait)
+  - 'Keep Your Business To Yourself (The Sue Records Story: The Sound Of Soul)'
+  - 'Sippin´ Sorrow (Rare Rhythm´n´blues Vol.7, 20 R&B 45 Rpm Nuggets)'
+  - My Love Is Your Love (Sippin' Sorrow (With A Spoon))
+  - Let the Good Things Start (Let the Good Things Start)
+  - Keep Your Business to Yourself (The Glory of Love - From the Vaults)
+  - Keep Your Business To Yourself (Sue Records' Greatest Hits)
+  - Keep Your Business To Yourself (The Sue Records Story Vol. 1)
+  - Let the Good Things Start (Get Hot – Female Sleazy Rhythm 'N Blues Vol. 2)
 external_urls:
-  spotify: https://open.spotify.com/artist/04y0YfYFkVGGC2BmHwxpS9
+  spotify: 'https://open.spotify.com/artist/04y0YfYFkVGGC2BmHwxpS9'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/Pearl_Woods.jpg
 biography_enhanced_at: '2025-10-19T12:24:23.534980'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.tracklib.com/music/artists/pearl-woods
-- https://secondhandsongs.com/artist/21417/all
-- https://cdgo.com/en/detalhe/0048612714724/pearl-woods-sippin-sorrow-with-a-spoon
-- https://www.soulfulkindamusic.net/pwoods.htm
-- https://www.imdb.com/name/nm0940741/
+  - 'https://www.tracklib.com/music/artists/pearl-woods'
+  - 'https://secondhandsongs.com/artist/21417/all'
+  - >-
+    https://cdgo.com/en/detalhe/0048612714724/pearl-woods-sippin-sorrow-with-a-spoon
+  - 'https://www.soulfulkindamusic.net/pwoods.htm'
+  - 'https://www.imdb.com/name/nm0940741/'
 network_extracted: true
 entry_created: '2025-10-19T12:24:23.535003'
 last_updated: '2025-12-23T08:16:03.548019'
+birth_date: '1933-09-24'
+artist_type: person
 ---
 
 ![](Pearl_Woods.jpg)

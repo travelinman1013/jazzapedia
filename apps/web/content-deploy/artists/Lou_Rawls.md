@@ -2,23 +2,23 @@
 title: Lou Rawls
 wiki_slug: lou-rawls
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1933-12-01'
-birth_place: Chicago, Illinois, United States
+birth_place: 'Chicago, Illinois, United States'
 death_date: '2006-01-06'
 genres:
-- philly soul
-- soul blues
+  - philly soul
+  - soul blues
 instruments:
-- eponymous
-- original
+  - eponymous
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Lou_Rawls.jpg
   caption: Lou Rawls
   background: non_vocal_instrumentalist
   born: '1933-12-01'
-  origin: Chicago, Illinois, United States
+  origin: 'Chicago, Illinois, United States'
   died: '2006-01-06'
 audio_profile:
   tempo_avg: 116.8
@@ -35,43 +35,43 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Les McCann Trio
-  - Philadelphia International Records (Kenny Gamble & Leon Huff)
+    - Les McCann Trio
+    - Philadelphia International Records (Kenny Gamble & Leon Huff)
   influenced:
-  - Will Downing
-  - John Legend
+    - Will Downing
+    - John Legend
   mentors:
-  - Sam Cooke
+    - Sam Cooke
 spotify_data:
   followers: 256108
   id: 1zJBFCev9UwOMcrZsLi2od
   popularity: 49
-  url: https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od
+  url: 'https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od'
 discography_enriched: true
 top_tracks:
-- You'll Never Find Another Love Like Mine (All Things In Time)
-- Lady Love (When You Hear Lou, You've Heard It All)
-- See You When I Git There (Unmistakably Lou)
-- See You When I Git There
-- A Natural Man (Natural Man / Classic Lou)
-- Let's Clean Up the Ghetto - 12" Version (Let's Clean Up the Ghetto)
-- Pure Imagination (All Things In Time)
-- Love Is A Hurtin' Thing (Legendary Lou Rawls)
-- At Last (At Last)
-- Scotch & Soda (Anthology-Lou Rawls)
+  - You'll Never Find Another Love Like Mine (All Things In Time)
+  - 'Lady Love (When You Hear Lou, You''ve Heard It All)'
+  - See You When I Git There (Unmistakably Lou)
+  - See You When I Git There
+  - A Natural Man (Natural Man / Classic Lou)
+  - Let's Clean Up the Ghetto - 12" Version (Let's Clean Up the Ghetto)
+  - Pure Imagination (All Things In Time)
+  - Love Is A Hurtin' Thing (Legendary Lou Rawls)
+  - At Last (At Last)
+  - Scotch & Soda (Anthology-Lou Rawls)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c8bd802a-6e4a-41a4-95fa-2c1ee33f65a5
-  spotify: https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od
-  wikipedia: https://en.wikipedia.org/wiki/Lou_Rawls
+  musicbrainz: 'https://musicbrainz.org/artist/c8bd802a-6e4a-41a4-95fa-2c1ee33f65a5'
+  spotify: 'https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lou_Rawls'
 image_path: 03_Resources/source_material/ArtistPortraits/Lou_Rawls.jpg
 biography_enhanced_at: '2025-10-20T10:35:13.596502'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.britannica.com/biography/Lou-Rawls
-- https://blackpast.org/african-american-history/lou-rawls-1933-2006/
-- https://www.bluenote.com/artist/lou-rawls/
-- https://www.last.fm/music/Lou+Rawls/+wiki
+  - 'https://www.britannica.com/biography/Lou-Rawls'
+  - 'https://blackpast.org/african-american-history/lou-rawls-1933-2006/'
+  - 'https://www.bluenote.com/artist/lou-rawls/'
+  - 'https://www.last.fm/music/Lou+Rawls/+wiki'
 network_extracted: true
 entry_created: '2025-10-20T10:35:13.596517'
 last_updated: '2025-12-23T08:16:03.086027'
@@ -79,10 +79,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:35:57.333541'
 musicbrainz_id: c8bd802a-6e4a-41a4-95fa-2c1ee33f65a5
 tags:
-- blues
-- gospel
-- gospel musicians
-
+  - blues
+  - gospel
+  - gospel musicians
+is_active: false
 ---
 
 ![](Lou_Rawls.jpg)

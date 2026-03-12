@@ -1,16 +1,16 @@
 ---
-title: johnny harris
+title: Johnny Harris
 wiki_slug: johnny-harris
 schema_version: 2
 status: active
-birth_place: Edinburgh, Scotland, United Kingdom
+birth_place: 'Edinburgh, Scotland, United Kingdom'
 genres:
-- jazz funk
+  - jazz funk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/johnny_harris.jpg
   caption: johnny harris
   background: solo_singer
-  origin: Edinburgh, Scotland, United Kingdom
+  origin: 'Edinburgh, Scotland, United Kingdom'
 audio_profile:
   tempo_avg: 117.6
   energy_avg: 0.64
@@ -26,50 +26,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tom Jones
-  - Petula Clark
-  - Lulu
-  - Shirley Bassey
-  - Paul Anka
-  - Lynda Carter
+    - Tom Jones
+    - Petula Clark
+    - Lulu
+    - Shirley Bassey
+    - Paul Anka
+    - Lynda Carter
   influenced:
-  - British and American pop and soundtrack arrangers
+    - British and American pop and soundtrack arrangers
   mentors:
-  - Guildhall School of Music faculty
+    - Guildhall School of Music faculty
 spotify_data:
   followers: 5001
   id: 6uOZsbojy1SyLFb9MqfOPT
   popularity: 23
-  url: https://open.spotify.com/artist/6uOZsbojy1SyLFb9MqfOPT
+  url: 'https://open.spotify.com/artist/6uOZsbojy1SyLFb9MqfOPT'
 discography_enriched: true
 top_tracks:
-- Oddysey - Zongamin Remix (Odyssey)
-- Stepping Stones - Remastered (Movements)
-- Footprints on the Moon (Movements)
-- Odyssey (Pt. 1) (Odyssey)
-- Odyssey (Pt. 2) (Odyssey)
-- Fragment of Fear - From the Columbia Film 'Fragment of Fear' (Movements)
-- Reprise - From the Columbia Film 'Fragment of Fear' (Movements)
-- Light My Fire (Movements)
-- Paint It Black (Movements)
-- Odyssey, Pt. 2 (Twelve Inch Disco Classics from the 70s, Vol. 7)
+  - Oddysey - Zongamin Remix (Odyssey)
+  - Stepping Stones - Remastered (Movements)
+  - Footprints on the Moon (Movements)
+  - Odyssey (Pt. 1) (Odyssey)
+  - Odyssey (Pt. 2) (Odyssey)
+  - Fragment of Fear - From the Columbia Film 'Fragment of Fear' (Movements)
+  - Reprise - From the Columbia Film 'Fragment of Fear' (Movements)
+  - Light My Fire (Movements)
+  - Paint It Black (Movements)
+  - 'Odyssey, Pt. 2 (Twelve Inch Disco Classics from the 70s, Vol. 7)'
 external_urls:
-  spotify: https://open.spotify.com/artist/6uOZsbojy1SyLFb9MqfOPT
-  wikipedia: https://en.wikipedia.org/wiki/Johnny_Harris_(musician)
+  spotify: 'https://open.spotify.com/artist/6uOZsbojy1SyLFb9MqfOPT'
+  wikipedia: 'https://en.wikipedia.org/wiki/Johnny_Harris_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/johnny_harris.jpg
 biography_enhanced_at: '2025-10-24T07:53:19.622658'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.imdb.com/name/nm0364889/
-- https://www.wikiwand.com/en/articles/Johnny_Harris_(musician)
-- https://liveforlivemusic.com/features/johnny-harris-the-man-who-turned-down-elvis-twice/
-- https://www.televisionacademy.com/bios/johnny-harris
-- https://en.wikipedia.org/wiki/Johnny_Harris_(musician)
-- https://dangerousminds.net/comments/check_johnny_harriss_skronky_jazz-funk_masterpiece_stepping_stones/
+  - 'https://www.imdb.com/name/nm0364889/'
+  - 'https://www.wikiwand.com/en/articles/Johnny_Harris_(musician)'
+  - >-
+    https://liveforlivemusic.com/features/johnny-harris-the-man-who-turned-down-elvis-twice/
+  - 'https://www.televisionacademy.com/bios/johnny-harris'
+  - 'https://en.wikipedia.org/wiki/Johnny_Harris_(musician)'
+  - >-
+    https://dangerousminds.net/comments/check_johnny_harriss_skronky_jazz-funk_masterpiece_stepping_stones/
 network_extracted: true
 entry_created: '2025-10-24T07:53:19.622673'
 last_updated: '2025-12-23T08:16:10.836556'
+artist_type: person
 ---
 
 ![](johnny_harris.jpg)

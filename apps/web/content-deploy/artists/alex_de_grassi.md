@@ -5,18 +5,18 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1952-02-13'
-birth_place: Yokosuka
+birth_place: 'Yokosuka, Japan'
 genres:
-- new age
+  - new age
 instruments:
-- acoustic guitar
-- guitar
+  - acoustic guitar
+  - guitar
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 57ba31cd-761e-46a6-9f1c-0c88ec55ef42
-  name: Alex de Grassi and Quique Cruz
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 57ba31cd-761e-46a6-9f1c-0c88ec55ef42
+    name: Alex de Grassi and Quique Cruz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/alex_de_grassi.jpg
   caption: Alex De Grassi
@@ -38,57 +38,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Michael Manring
-  - Chris Garcia
-  - Jeremy Cohen
-  - Quique Cruz
+    - Michael Manring
+    - Chris Garcia
+    - Jeremy Cohen
+    - Quique Cruz
   influenced:
-  - Generations of fingerstyle guitarists
+    - Generations of fingerstyle guitarists
   mentors:
-  - Bill Thrasher
-  - Mark Levine
-  - William A. Mathieu
-  - William Ackerman
+    - Bill Thrasher
+    - Mark Levine
+    - William A. Mathieu
+    - William Ackerman
 spotify_data:
   followers: 11572
   id: 7EXt4A1enL8YDEhheC2MLA
   popularity: 32
-  url: https://open.spotify.com/artist/7EXt4A1enL8YDEhheC2MLA
+  url: 'https://open.spotify.com/artist/7EXt4A1enL8YDEhheC2MLA'
 discography_enriched: true
 top_tracks:
-- Western (Southern Exposure)
-- The Water Garden (The Water Garden)
-- The Rain Is Pouring (Beyond The Night Sky (Lullabies For Guitar))
-- White Rain (Slow Circle)
-- Sí Bheag Sí Mhór (The Bridge)
-- Sleepytime (Beyond The Night Sky (Lullabies For Guitar))
-- Causeway (Slow Circle)
-- 'Turning: Turning Back - Live at Berklee Performance Center, Boston, MA - October 1982 (A Windham Hill Retrospective)'
-- The Water Is Wide (Demania)
-- Sleeping Lady (Slow Circle)
+  - Western (Southern Exposure)
+  - The Water Garden (The Water Garden)
+  - The Rain Is Pouring (Beyond The Night Sky (Lullabies For Guitar))
+  - White Rain (Slow Circle)
+  - Sí Bheag Sí Mhór (The Bridge)
+  - Sleepytime (Beyond The Night Sky (Lullabies For Guitar))
+  - Causeway (Slow Circle)
+  - >-
+    Turning: Turning Back - Live at Berklee Performance Center, Boston, MA -
+    October 1982 (A Windham Hill Retrospective)
+  - The Water Is Wide (Demania)
+  - Sleeping Lady (Slow Circle)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f940c4dd-f687-4c6a-872b-1cce3f78dc0a
-  spotify: https://open.spotify.com/artist/7EXt4A1enL8YDEhheC2MLA
-  wikipedia: https://en.wikipedia.org/wiki/Alex_De_Grassi
+  musicbrainz: 'https://musicbrainz.org/artist/f940c4dd-f687-4c6a-872b-1cce3f78dc0a'
+  spotify: 'https://open.spotify.com/artist/7EXt4A1enL8YDEhheC2MLA'
+  wikipedia: 'https://en.wikipedia.org/wiki/Alex_De_Grassi'
 image_path: 03_Resources/source_material/ArtistPortraits/alex_de_grassi.jpg
 biography_enhanced_at: '2025-11-27T06:28:36.609716'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Alex_De_Grassi
-- https://www.interlochen.org/person/alex-de-grassi
-- https://www.veojam.com/players/alex-de-grassi
-- https://www.innerviews.org/inner/degrassi-2
-- https://www.theaudiodb.com/artist/147123-Alex-de-Grassi
+  - 'https://en.wikipedia.org/wiki/Alex_De_Grassi'
+  - 'https://www.interlochen.org/person/alex-de-grassi'
+  - 'https://www.veojam.com/players/alex-de-grassi'
+  - 'https://www.innerviews.org/inner/degrassi-2'
+  - 'https://www.theaudiodb.com/artist/147123-Alex-de-Grassi'
 network_extracted: true
 entry_created: '2025-11-27T06:28:36.609732'
 last_updated: '2025-12-23T08:16:04.544450'
 gender: Male
 musicbrainz_id: f940c4dd-f687-4c6a-872b-1cce3f78dc0a
 tags:
-- folk
-- guitarist
-- new age
+  - folk
+  - guitarist
+  - new age
+origin: 'San Francisco, California, United States'
 ---
 
 ![](alex_de_grassi.jpg)

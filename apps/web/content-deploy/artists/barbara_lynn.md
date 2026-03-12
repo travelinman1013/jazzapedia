@@ -5,11 +5,11 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1942-01-16'
-birth_place: Beaumont
+birth_place: 'Beaumont, Texas, United States'
 genres:
-- northern soul
+  - northern soul
 instruments:
-- guitar
+  - guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/barbara_lynn.jpg
   caption: Barbara Lynn
@@ -31,56 +31,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Joe Barry
-  - Mac Rebennack (Dr. John)
-  - Huey Meaux
-  - Bobbie Lynn and Her Idols
+    - Joe Barry
+    - Mac Rebennack (Dr. John)
+    - Huey Meaux
+    - Bobbie Lynn and Her Idols
   influenced:
-  - Otis Redding
-  - The Rolling Stones
-  - Aretha Franklin
+    - Otis Redding
+    - The Rolling Stones
+    - Aretha Franklin
   mentors:
-  - Guitar Slim
-  - Jimmy Reed
-  - Elvis Presley
+    - Guitar Slim
+    - Jimmy Reed
+    - Elvis Presley
 spotify_data:
   followers: 62691
   id: 2wQyX5625x6IGls8zLLHMB
   popularity: 44
-  url: https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB
+  url: 'https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB'
 discography_enriched: true
 top_tracks:
-- You'll Lose A Good Thing (You'll Lose A Good Thing)
-- I'm a Good Woman (Movin' on a Groove (The Crazy Cajun Recordings))
-- Lonely Heartaches (You'll Lose A Good Thing)
-- What I Need Is Love (You'll Lose A Good Thing)
-- Give Me A Break (You'll Lose A Good Thing)
-- You Left the Water Running (Movin' on a Groove (The Crazy Cajun Recordings))
-- Nice and Easy (Movin' on a Groove (The Crazy Cajun Recordings))
-- You'll Lose a Good Thing (Rerecorded)
-- You'll Lose a Good Thing - Early Version
-- Second Fiddle Girl (You'll Lose A Good Thing)
+  - You'll Lose A Good Thing (You'll Lose A Good Thing)
+  - I'm a Good Woman (Movin' on a Groove (The Crazy Cajun Recordings))
+  - Lonely Heartaches (You'll Lose A Good Thing)
+  - What I Need Is Love (You'll Lose A Good Thing)
+  - Give Me A Break (You'll Lose A Good Thing)
+  - You Left the Water Running (Movin' on a Groove (The Crazy Cajun Recordings))
+  - Nice and Easy (Movin' on a Groove (The Crazy Cajun Recordings))
+  - You'll Lose a Good Thing (Rerecorded)
+  - You'll Lose a Good Thing - Early Version
+  - Second Fiddle Girl (You'll Lose A Good Thing)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/facb97f4-4674-40d0-b060-433e9a1a49cb
-  spotify: https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB
-  wikipedia: https://en.wikipedia.org/wiki/Barbara_Lynn
+  musicbrainz: 'https://musicbrainz.org/artist/facb97f4-4674-40d0-b060-433e9a1a49cb'
+  spotify: 'https://open.spotify.com/artist/2wQyX5625x6IGls8zLLHMB'
+  wikipedia: 'https://en.wikipedia.org/wiki/Barbara_Lynn'
 image_path: 03_Resources/source_material/ArtistPortraits/barbara_lynn.jpg
 biography_enhanced_at: '2025-11-12T14:56:27.508587'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://musicrising.tulane.edu/discover/people/barbara-lynn/
-- https://en.wikipedia.org/wiki/Barbara_Lynn
-- https://gov.texas.gov/music/post/industry-profile-beaumont-tx-soul-music-legend-barbara-lynn
+  - 'https://musicrising.tulane.edu/discover/people/barbara-lynn/'
+  - 'https://en.wikipedia.org/wiki/Barbara_Lynn'
+  - >-
+    https://gov.texas.gov/music/post/industry-profile-beaumont-tx-soul-music-legend-barbara-lynn
 network_extracted: true
 entry_created: '2025-11-12T14:56:27.508598'
 last_updated: '2025-12-23T08:16:05.091962'
 gender: Female
 musicbrainz_id: facb97f4-4674-40d0-b060-433e9a1a49cb
 tags:
-- electric blues
-- r&b
-- soul
+  - electric blues
+  - r&b
+  - soul
 ---
 
 ![](barbara_lynn.jpg)

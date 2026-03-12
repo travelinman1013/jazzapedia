@@ -4,7 +4,7 @@ wiki_slug: heritage-hall-jazz-band
 schema_version: 2
 status: active
 genres:
-- cajun
+  - cajun
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/heritage_hall_jazz_band.jpg
   caption: Heritage Hall Jazz Band
@@ -24,57 +24,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Willie Humphrey
-  - De De Pierce and Billie Pierce
-  - Ben Jaffe
-  - Clint Maedgen
-  - Freddie Lonzo
-  - Harold Dejan
+    - Willie Humphrey
+    - De De Pierce and Billie Pierce
+    - Ben Jaffe
+    - Clint Maedgen
+    - Freddie Lonzo
+    - Harold Dejan
   influenced:
-  - John Brunious
-  - Wendell Brunious
-  - Michael White
-  - Walter Payton
+    - John Brunious
+    - Wendell Brunious
+    - Michael White
+    - Walter Payton
   mentors:
-  - Sweet Emma Barrett
-  - Percy Humphrey
-  - Waldren “Frog” Joseph
-  - Buddy Bolden, Jelly Roll Morton, Louis Armstrong, Bunk Johnson
+    - Sweet Emma Barrett
+    - Percy Humphrey
+    - Waldren “Frog” Joseph
+    - 'Buddy Bolden, Jelly Roll Morton, Louis Armstrong, Bunk Johnson'
 spotify_data:
   followers: 135
   id: 6AWBq3Rb89oTRCZfIuPQxU
   popularity: 20
-  url: https://open.spotify.com/artist/6AWBq3Rb89oTRCZfIuPQxU
+  url: 'https://open.spotify.com/artist/6AWBq3Rb89oTRCZfIuPQxU'
 discography_enriched: true
 top_tracks:
-- Silver Bells (A jazzy Christmas With The Heritage Hall Jazz Band)
-- Silver Bells (Jazz Festival Christmas)
-- How Come You Do Me Like You Do (Cookin!)
-- Go Tell It On A Mountain (A jazzy Christmas With The Heritage Hall Jazz Band)
-- O Christmas Tree (A jazzy Christmas With The Heritage Hall Jazz Band)
-- The Christmas Song (A jazzy Christmas With The Heritage Hall Jazz Band)
-- Chinatown, My Chinatown (Cookin!)
-- Down in Honky Tonky Town (Cookin!)
-- Spiritual Medley (Cookin!)
-- Doctor Jazz (Cookin!)
+  - Silver Bells (A jazzy Christmas With The Heritage Hall Jazz Band)
+  - Silver Bells (Jazz Festival Christmas)
+  - How Come You Do Me Like You Do (Cookin!)
+  - >-
+    Go Tell It On A Mountain (A jazzy Christmas With The Heritage Hall Jazz
+    Band)
+  - O Christmas Tree (A jazzy Christmas With The Heritage Hall Jazz Band)
+  - The Christmas Song (A jazzy Christmas With The Heritage Hall Jazz Band)
+  - 'Chinatown, My Chinatown (Cookin!)'
+  - Down in Honky Tonky Town (Cookin!)
+  - Spiritual Medley (Cookin!)
+  - Doctor Jazz (Cookin!)
 external_urls:
-  spotify: https://open.spotify.com/artist/6AWBq3Rb89oTRCZfIuPQxU
-  wikipedia: https://en.wikipedia.org/wiki/Preservation_Hall_Jazz_Band
+  spotify: 'https://open.spotify.com/artist/6AWBq3Rb89oTRCZfIuPQxU'
+  wikipedia: 'https://en.wikipedia.org/wiki/Preservation_Hall_Jazz_Band'
 image_path: 03_Resources/source_material/ArtistPortraits/heritage_hall_jazz_band.jpg
 biography_enhanced_at: '2025-12-19T01:42:45.404349'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.arts.gov/honors/medals/preservation-hall-jazz-band
-- https://en.wikipedia.org/wiki/Preservation_Hall_Jazz_Band
-- https://www.telluridejazz.org/preservation-hall-jazz-band
-- https://www.preservationhalljazzband.com
-- https://www.preshallfoundation.org/oralhistories
-- https://jazztimes.com/features/preservation-hall-jazz-band-at-50/
+  - 'https://www.arts.gov/honors/medals/preservation-hall-jazz-band'
+  - 'https://en.wikipedia.org/wiki/Preservation_Hall_Jazz_Band'
+  - 'https://www.telluridejazz.org/preservation-hall-jazz-band'
+  - 'https://www.preservationhalljazzband.com'
+  - 'https://www.preshallfoundation.org/oralhistories'
+  - 'https://jazztimes.com/features/preservation-hall-jazz-band-at-50/'
 network_extracted: true
 entry_created: '2025-12-19T01:42:45.404357'
 last_updated: '2025-12-23T08:16:09.598969'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![](heritage_hall_jazz_band.jpg)

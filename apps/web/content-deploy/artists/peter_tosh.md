@@ -1,58 +1,58 @@
 ---
-title: peter tosh
+title: Peter Tosh
 wiki_slug: peter-tosh
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1944-10-19'
-birth_place: Jamaica
+birth_place: 'Westmoreland, Jamaica, United States'
 death_date: '1987-09-11'
 genres:
-- reggae
-- roots reggae
-- rocksteady
-- ragga
-- dub
+  - reggae
+  - roots reggae
+  - rocksteady
+  - ragga
+  - dub
 instruments:
-- lead vocals
-- original
-- guitar
-- piano
-- acoustic guitar
-- background vocals
-- tenor vocals
-- spoken vocals
-- other vocals
-associated_acts:
-- begin: '1963'
-  end: 1970-12
-  instruments: []
-  mbid: c9e99d40-4a2c-4ca7-ac5b-e842264ee271
-  name: The Wailers
-- begin: 1970-12
-  end: '1973'
-  instruments:
   - lead vocals
   - original
-  mbid: c296e10c-110a-4103-9e77-47bfebb7fb2e
-  name: Bob Marley & The Wailers
-- begin: 1970-12
-  end: '1973'
-  instruments:
   - guitar
-  - original
-  mbid: c296e10c-110a-4103-9e77-47bfebb7fb2e
-  name: Bob Marley & The Wailers
-- begin: '1973'
-  end: '1974'
-  instruments: []
-  mbid: c9e99d40-4a2c-4ca7-ac5b-e842264ee271
-  name: The Wailers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: eebd211e-a641-4447-9409-411a0faeec56
-  name: Ras Michael & The Sons of Negus
+  - piano
+  - acoustic guitar
+  - background vocals
+  - tenor vocals
+  - spoken vocals
+  - other vocals
+associated_acts:
+  - begin: '1963'
+    end: 1970-12
+    instruments: []
+    mbid: c9e99d40-4a2c-4ca7-ac5b-e842264ee271
+    name: The Wailers
+  - begin: 1970-12
+    end: '1973'
+    instruments:
+      - lead vocals
+      - original
+    mbid: c296e10c-110a-4103-9e77-47bfebb7fb2e
+    name: Bob Marley & The Wailers
+  - begin: 1970-12
+    end: '1973'
+    instruments:
+      - guitar
+      - original
+    mbid: c296e10c-110a-4103-9e77-47bfebb7fb2e
+    name: Bob Marley & The Wailers
+  - begin: '1973'
+    end: '1974'
+    instruments: []
+    mbid: c9e99d40-4a2c-4ca7-ac5b-e842264ee271
+    name: The Wailers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: eebd211e-a641-4447-9409-411a0faeec56
+    name: Ras Michael & The Sons of Negus
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/peter_tosh.jpg
   caption: peter tosh
@@ -75,56 +75,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bob Marley
-  - Bunny Wailer
-  - Mick Jagger
-  - Keith Richards
+    - Bob Marley
+    - Bunny Wailer
+    - Mick Jagger
+    - Keith Richards
   influenced:
-  - Ziggy Marley
-  - Alpha Blondy
-  - Steel Pulse
+    - Ziggy Marley
+    - Alpha Blondy
+    - Steel Pulse
   mentors:
-  - Joe Higgs
+    - Joe Higgs
 spotify_data:
   followers: 1220970
   id: 0oea1hwGMfUxZbLxJc1XUN
   popularity: 56
-  url: https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN
+  url: 'https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN'
 discography_enriched: true
 top_tracks:
-- Johnny B. Goode - 2002 Remaster (Mama Africa)
-- Legalize It (Legalize It (Legacy Edition))
-- Wanted Dread and Alive - 2002 Remaster (Wanted Dread and Alive)
-- I Am That I Am (Equal Rights (Legacy Edition))
-- Get Up, Stand Up (Equal Rights (Legacy Edition))
-- Bush Doctor (The Toughest)
-- Legalize It
-- (You Gotta Walk) Don't Look Back - 2002 Remaster (Bush Doctor)
-- Stepping Razor (Equal Rights (Legacy Edition))
-- Reggae Mylitis (The Toughest)
+  - Johnny B. Goode - 2002 Remaster (Mama Africa)
+  - Legalize It (Legalize It (Legacy Edition))
+  - Wanted Dread and Alive - 2002 Remaster (Wanted Dread and Alive)
+  - I Am That I Am (Equal Rights (Legacy Edition))
+  - 'Get Up, Stand Up (Equal Rights (Legacy Edition))'
+  - Bush Doctor (The Toughest)
+  - Legalize It
+  - (You Gotta Walk) Don't Look Back - 2002 Remaster (Bush Doctor)
+  - Stepping Razor (Equal Rights (Legacy Edition))
+  - Reggae Mylitis (The Toughest)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7db6aae5-6644-4513-9bfc-ca2e79d4469c
-  spotify: https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN
-  wikipedia: https://en.wikipedia.org/wiki/Peter_Tosh
+  musicbrainz: 'https://musicbrainz.org/artist/7db6aae5-6644-4513-9bfc-ca2e79d4469c'
+  spotify: 'https://open.spotify.com/artist/0oea1hwGMfUxZbLxJc1XUN'
+  wikipedia: 'https://en.wikipedia.org/wiki/Peter_Tosh'
 image_path: 03_Resources/source_material/ArtistPortraits/peter_tosh.jpg
 biography_enhanced_at: '2025-11-24T08:39:20.360912'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.petertosh.com/history
-- https://en.wikipedia.org/wiki/Peter_Tosh
-- https://www.ebsco.com/research-starters/music/peter-tosh
-- https://www.youtube.com/watch?v=RIZW9AbnqeY
-- https://www.reggaeville.com/artist-details/peter-tosh/about/
+  - 'https://www.petertosh.com/history'
+  - 'https://en.wikipedia.org/wiki/Peter_Tosh'
+  - 'https://www.ebsco.com/research-starters/music/peter-tosh'
+  - 'https://www.youtube.com/watch?v=RIZW9AbnqeY'
+  - 'https://www.reggaeville.com/artist-details/peter-tosh/about/'
 network_extracted: true
 entry_created: '2025-11-24T08:39:20.360920'
 last_updated: '2025-12-23T08:16:14.244307'
 gender: Male
 musicbrainz_id: 7db6aae5-6644-4513-9bfc-ca2e79d4469c
 tags:
-- jamaican
-- jamaican ska
-- pop reggae
+  - jamaican
+  - jamaican ska
+  - pop reggae
+is_active: false
 ---
 
 ![](peter_tosh.jpg)

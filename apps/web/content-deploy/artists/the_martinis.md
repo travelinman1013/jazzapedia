@@ -1,5 +1,5 @@
 ---
-title: the martinis
+title: The Martinis
 wiki_slug: the-martinis
 schema_version: 2
 status: active
@@ -23,48 +23,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Joey Santiago
-  - Linda Mallari
+    - Joey Santiago
+    - Linda Mallari
   influenced:
-  - No specifically documented artists
+    - No specifically documented artists
   mentors:
-  - Pixies
-  - Black Francis (Frank Black)
+    - Pixies
+    - Black Francis (Frank Black)
 spotify_data:
   followers: 5891
   id: 4PggIuR7p3jxrvz7fc1jKa
   popularity: 30
-  url: https://open.spotify.com/artist/4PggIuR7p3jxrvz7fc1jKa
+  url: 'https://open.spotify.com/artist/4PggIuR7p3jxrvz7fc1jKa'
 discography_enriched: true
 top_tracks:
-- Free (Empire Records (Original Motion Picture Soundtrack))
-- Hung Over (Chef (Original Soundtrack Album))
-- Hung Over (Late Late Party (1965-67))
-- I Second That Emotion (Studio One Sound)
-- My Baby (Rare Reggae Grooves From Studio One)
-- Right Behind You (Smitten)
-- Free - From "Empire Records" Soundtrack (hopecore songs)
-- Bullseye (Late Late Party (1965-67))
-- Key Chain (Late Late Party (1965-67))
-- You Are the One (Smitten)
+  - Free (Empire Records (Original Motion Picture Soundtrack))
+  - Hung Over (Chef (Original Soundtrack Album))
+  - Hung Over (Late Late Party (1965-67))
+  - I Second That Emotion (Studio One Sound)
+  - My Baby (Rare Reggae Grooves From Studio One)
+  - Right Behind You (Smitten)
+  - Free - From "Empire Records" Soundtrack (hopecore songs)
+  - Bullseye (Late Late Party (1965-67))
+  - Key Chain (Late Late Party (1965-67))
+  - You Are the One (Smitten)
 external_urls:
-  spotify: https://open.spotify.com/artist/4PggIuR7p3jxrvz7fc1jKa
-  wikipedia: https://en.wikipedia.org/wiki/Smitten_(The_Martinis_album)
+  spotify: 'https://open.spotify.com/artist/4PggIuR7p3jxrvz7fc1jKa'
+  wikipedia: 'https://en.wikipedia.org/wiki/Smitten_(The_Martinis_album)'
 image_path: 03_Resources/source_material/ArtistPortraits/the_martinis.jpg
 biography_enhanced_at: '2025-12-19T01:53:55.635162'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Drowned In Sound – The Martinis bio[1]
-- AllMusic – The Martinis biography[3]
-- The Independent – review of The Martinis / Smitten[2]
-- AlecEiffel.net – The Martinis biography[6]
-- Wikipedia – Smitten (The Martinis album)[7]
-- Traktivist – The Martinis artist page[8]
+  - 'Drowned In Sound – The Martinis bio[1]'
+  - 'AllMusic – The Martinis biography[3]'
+  - 'The Independent – review of The Martinis / Smitten[2]'
+  - 'AlecEiffel.net – The Martinis biography[6]'
+  - 'Wikipedia – Smitten (The Martinis album)[7]'
+  - 'Traktivist – The Martinis artist page[8]'
 network_extracted: true
 entry_created: '2025-12-19T01:53:55.635177'
 last_updated: '2025-12-23T08:16:16.938113'
-origin: Los Angeles, California, United States
+origin: 'Los Angeles, California, United States'
+artist_type: band
 ---
 
 ![](the_martinis.jpg)

@@ -5,29 +5,29 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1966-12-02'
-birth_place: Bakı
+birth_place: 'Bakı, Azerbaijan'
 genres:
-- jazz
+  - jazz
 instruments:
-- eponymous
-- original
-- piano
-- grand piano
-- electric piano
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
-  mbid: 39998b33-2b62-4354-a033-88998c78eb5e
-  name: Amina Figarova Sextet
-- begin: ''
-  end: ''
-  instruments:
   - piano
-  mbid: ff1ca8d9-6ed9-4294-864c-250c40ee5f1e
-  name: Trio Del Norte
+  - grand piano
+  - electric piano
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 39998b33-2b62-4354-a033-88998c78eb5e
+    name: Amina Figarova Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: ff1ca8d9-6ed9-4294-864c-250c40ee5f1e
+    name: Trio Del Norte
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/amina_figarova.jpg
   caption: Amina Figarova
@@ -49,59 +49,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bart Platteau
-  - Ernie Hammes
-  - Alex Pope Norris
-  - Wayne Escoffery
-  - Marc Mommaas
-  - Luques Curtis
-  - Yasushi Nakamura
-  - Jason Brown
-  - Anthony Wilson
-  - Sarah Elizabeth Charles
-  - Kim Prevost
-  - Jazz at Lincoln Center
+    - Bart Platteau
+    - Ernie Hammes
+    - Alex Pope Norris
+    - Wayne Escoffery
+    - Marc Mommaas
+    - Luques Curtis
+    - Yasushi Nakamura
+    - Jason Brown
+    - Anthony Wilson
+    - Sarah Elizabeth Charles
+    - Kim Prevost
+    - Jazz at Lincoln Center
   influenced:
-  - Shlomit Butbul
+    - Shlomit Butbul
   mentors:
-  - Baku Academy of Music Faculty
-  - Rotterdam Conservatoire Faculty
-  - Berklee College of Music Faculty
-  - Thelonious Monk Institute
+    - Baku Academy of Music Faculty
+    - Rotterdam Conservatoire Faculty
+    - Berklee College of Music Faculty
+    - Thelonious Monk Institute
 spotify_data:
   followers: 1749
   id: 1bYQqdhzALYhq9UWTxS7cb
   popularity: 6
-  url: https://open.spotify.com/artist/1bYQqdhzALYhq9UWTxS7cb
+  url: 'https://open.spotify.com/artist/1bYQqdhzALYhq9UWTxS7cb'
 discography_enriched: true
 top_tracks:
-- Road to the Sun (Road To The Sun)
-- Dancing Clouds (Suite For Africa)
-- All We Dance (Road To The Sun)
-- '"A" Dance (Above The Clouds)'
-- NIGHT TRAIN (Night Train)
-- Blue Whisper (Blue Whisper)
-- Ernie's Song (Above The Clouds)
-- Above the Clouds (Above The Clouds)
-- Sharp Corners (Above The Clouds)
-- Blue Wonder (Above The Clouds)
+  - Road to the Sun (Road To The Sun)
+  - Dancing Clouds (Suite For Africa)
+  - All We Dance (Road To The Sun)
+  - '"A" Dance (Above The Clouds)'
+  - NIGHT TRAIN (Night Train)
+  - Blue Whisper (Blue Whisper)
+  - Ernie's Song (Above The Clouds)
+  - Above the Clouds (Above The Clouds)
+  - Sharp Corners (Above The Clouds)
+  - Blue Wonder (Above The Clouds)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3bd7810d-b791-4bda-9cd5-04e9369a3074
-  spotify: https://open.spotify.com/artist/1bYQqdhzALYhq9UWTxS7cb
-  wikipedia: https://en.wikipedia.org/wiki/Amina_Figarova
+  musicbrainz: 'https://musicbrainz.org/artist/3bd7810d-b791-4bda-9cd5-04e9369a3074'
+  spotify: 'https://open.spotify.com/artist/1bYQqdhzALYhq9UWTxS7cb'
+  wikipedia: 'https://en.wikipedia.org/wiki/Amina_Figarova'
 image_path: 03_Resources/source_material/ArtistPortraits/amina_figarova.jpg
 biography_enhanced_at: '2025-12-04T07:19:27.845270'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Amina Figarova
-- New Orleans Museum of Art - Butterfly Music Series
-- GKP Promotions - Amina Figarova Artist Profile
-- Sanctuary Magazine - Interview with Amina Figarova
-- Amina Figarova Official Website - Bio
-- New York Jazz Workshop - Faculty Profile
-- SFJAZZ - 2023-24 Season
-- All About Jazz - Amina Figarova Musician Profile
+  - Wikipedia - Amina Figarova
+  - New Orleans Museum of Art - Butterfly Music Series
+  - GKP Promotions - Amina Figarova Artist Profile
+  - Sanctuary Magazine - Interview with Amina Figarova
+  - Amina Figarova Official Website - Bio
+  - New York Jazz Workshop - Faculty Profile
+  - SFJAZZ - 2023-24 Season
+  - All About Jazz - Amina Figarova Musician Profile
 network_extracted: true
 entry_created: '2025-12-04T07:19:27.845280'
 last_updated: '2025-12-23T08:16:04.713133'
@@ -109,7 +109,7 @@ disambiguation: jazz pianist and composer
 gender: Female
 musicbrainz_id: 3bd7810d-b791-4bda-9cd5-04e9369a3074
 tags:
-- jazz
+  - jazz
 ---
 
 ![](amina_figarova.jpg)

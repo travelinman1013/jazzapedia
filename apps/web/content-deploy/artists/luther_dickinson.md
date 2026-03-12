@@ -1,68 +1,68 @@
 ---
-title: luther dickinson
+title: Luther Dickinson
 wiki_slug: luther-dickinson
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1973-01-18'
-birth_place: Memphis
+birth_place: 'Memphis, Tennessee, United States'
 genres:
-- alt country
-- americana
-- classic blues
-- country blues
-- modern blues
+  - alt country
+  - americana
+  - classic blues
+  - country blues
+  - modern blues
 instruments:
-- guitar
-- slide guitar
-- lap steel guitar
-associated_acts:
-- begin: '2007-11-27'
-  end: ''
-  instruments: []
-  mbid: 02ceff75-7363-493e-a78d-912dc86c7460
-  name: The Black Crowes
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d732e5d1-2831-44b3-a08f-c56cd5769424
-  name: The Word
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 62fa3eb2-1b73-4029-ba35-16ab66d29d02
-  name: North Mississippi Allstars
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 276387c8-0be5-4239-a2a7-d17e5394ed36
-  name: South Memphis String Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 74a84f1b-2574-4e8e-a60b-2099f8610e96
-  name: Spencer Dickinson
-- begin: ''
-  end: ''
-  instruments:
   - guitar
-  mbid: 651a0943-3feb-4f80-8bd3-1fe8b567979a
-  name: The Tennessee Valentines
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 63a396a5-393f-43c6-b713-8f925860769d
-  name: New Moon Jelly Roll Freedom Rockers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 747b3de7-ad71-4964-b592-849a35f967a1
-  name: Ian Siegal & The Mississippi Mudbloods
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 77bfb79d-d71a-4179-8e90-ed570b207f2e
-  name: The Dickinson Brothers
+  - slide guitar
+  - lap steel guitar
+associated_acts:
+  - begin: '2007-11-27'
+    end: ''
+    instruments: []
+    mbid: 02ceff75-7363-493e-a78d-912dc86c7460
+    name: The Black Crowes
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d732e5d1-2831-44b3-a08f-c56cd5769424
+    name: The Word
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 62fa3eb2-1b73-4029-ba35-16ab66d29d02
+    name: North Mississippi Allstars
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 276387c8-0be5-4239-a2a7-d17e5394ed36
+    name: South Memphis String Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 74a84f1b-2574-4e8e-a60b-2099f8610e96
+    name: Spencer Dickinson
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 651a0943-3feb-4f80-8bd3-1fe8b567979a
+    name: The Tennessee Valentines
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 63a396a5-393f-43c6-b713-8f925860769d
+    name: New Moon Jelly Roll Freedom Rockers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 747b3de7-ad71-4964-b592-849a35f967a1
+    name: Ian Siegal & The Mississippi Mudbloods
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 77bfb79d-d71a-4179-8e90-ed570b207f2e
+    name: The Dickinson Brothers
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/luther_dickinson.jpg
   caption: luther dickinson
@@ -84,60 +84,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Cody Dickinson
-  - Rich Robinson
-  - Mavis Staples
-  - Ry Cooder
-  - Phil Lesh and Grahame Lesh
-  - Allison Russell and Sharde Thomas
+    - Cody Dickinson
+    - Rich Robinson
+    - Mavis Staples
+    - Ry Cooder
+    - Phil Lesh and Grahame Lesh
+    - Allison Russell and Sharde Thomas
   influenced:
-  - Grahame Lesh
+    - Grahame Lesh
   mentors:
-  - Jim Dickinson
-  - RL Burnside
-  - Phil Lesh
-  - Furry Lewis and Gus Cannon
+    - Jim Dickinson
+    - RL Burnside
+    - Phil Lesh
+    - Furry Lewis and Gus Cannon
 spotify_data:
   followers: 9012
   id: 1YLrCQC8gRomtIs7kc9Eyk
   popularity: 36
-  url: https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk
+  url: 'https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk'
 discography_enriched: true
 top_tracks:
-- The Night Is Still Young (Solstice)
-- Hallelujah (I’m a Dreamer) (Solstice)
-- Superlover (Solstice)
-- Serves Me Right To Suffer (Do The Rump!)
-- Up Over Yonder (Blues & Ballads (A Folksinger’s Songbook) Volumes I & II)
-- Three Shades of Lonely (Dog in a Manger)
-- Midnight in Mississippi '22 (Truvine)
-- Like A Songbird That Has Fallen (Solstice)
-- Street People
-- Cricket (At Night I Can Fly) (Solstice)
+  - The Night Is Still Young (Solstice)
+  - Hallelujah (I’m a Dreamer) (Solstice)
+  - Superlover (Solstice)
+  - Serves Me Right To Suffer (Do The Rump!)
+  - Up Over Yonder (Blues & Ballads (A Folksinger’s Songbook) Volumes I & II)
+  - Three Shades of Lonely (Dog in a Manger)
+  - Midnight in Mississippi '22 (Truvine)
+  - Like A Songbird That Has Fallen (Solstice)
+  - Street People
+  - Cricket (At Night I Can Fly) (Solstice)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9cfa6a66-d2e6-46fe-b055-d91b397d3977
-  spotify: https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk
+  musicbrainz: 'https://musicbrainz.org/artist/9cfa6a66-d2e6-46fe-b055-d91b397d3977'
+  spotify: 'https://open.spotify.com/artist/1YLrCQC8gRomtIs7kc9Eyk'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/luther_dickinson.jpg
 biography_enhanced_at: '2025-11-29T07:04:07.207031'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://glidemagazine.com/18150/luther-dickinson-the-interview/
-- https://relix.com/articles/detail/luther-dickinson-dynamic-dead-roots/
-- https://lpr.com/lpr_artists/luther-dickinson/
-- http://www.lutherdickinson.com/bio
-- https://www.liveandlisten.com/pages/interview-luther-dickinson
-- https://www.bluesblastmagazine.com/featured-interview-luther-dickinson/
-- https://www.wmot.org/show/the-string/2022-02-25/luther-dickinson-on-25-years-and-two-allstars-albums
+  - 'https://glidemagazine.com/18150/luther-dickinson-the-interview/'
+  - 'https://relix.com/articles/detail/luther-dickinson-dynamic-dead-roots/'
+  - 'https://lpr.com/lpr_artists/luther-dickinson/'
+  - 'http://www.lutherdickinson.com/bio'
+  - 'https://www.liveandlisten.com/pages/interview-luther-dickinson'
+  - 'https://www.bluesblastmagazine.com/featured-interview-luther-dickinson/'
+  - >-
+    https://www.wmot.org/show/the-string/2022-02-25/luther-dickinson-on-25-years-and-two-allstars-albums
 network_extracted: true
 entry_created: '2025-11-29T07:04:07.207049'
 last_updated: '2025-12-23T08:16:12.388759'
 gender: Male
 musicbrainz_id: 9cfa6a66-d2e6-46fe-b055-d91b397d3977
 tags:
-- blues
-- rock
+  - blues
+  - rock
 ---
 
 ![](luther_dickinson.jpg)

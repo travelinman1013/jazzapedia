@@ -2,7 +2,7 @@
 title: Inhaler
 wiki_slug: inhaler
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '2016'
 genres: []
@@ -26,67 +26,69 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Josh Jenkinson
-  - Robert Keating
-  - Ryan McMahon
-  - Noel Gallagher
+    - Josh Jenkinson
+    - Robert Keating
+    - Ryan McMahon
+    - Noel Gallagher
   influenced:
-  - Emerging Irish indie bands
+    - Emerging Irish indie bands
   mentors:
-  - Bono
-  - The Stone Roses
+    - Bono
+    - The Stone Roses
 spotify_data:
   followers: 508297
   id: 6lyMYewq2SuTFIXgiv7OxH
   popularity: 59
-  url: https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH
+  url: 'https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH'
 discography_enriched: true
 top_tracks:
-- My Honest Face (It Won't Always Be Like This)
-- Billy (Yeah Yeah Yeah) (Open Wide)
-- A Question Of You (Open Wide)
-- It Won't Always Be Like This (It Won't Always Be Like This)
-- Eddie In The Darkness (Open Wide)
-- Your House (Open Wide)
-- When It Breaks (It Won't Always Be Like This)
-- Your House (Your House)
-- Even Though (Open Wide)
-- These Are The Days (Cuts & Bruises)
+  - My Honest Face (It Won't Always Be Like This)
+  - Billy (Yeah Yeah Yeah) (Open Wide)
+  - A Question Of You (Open Wide)
+  - It Won't Always Be Like This (It Won't Always Be Like This)
+  - Eddie In The Darkness (Open Wide)
+  - Your House (Open Wide)
+  - When It Breaks (It Won't Always Be Like This)
+  - Your House (Your House)
+  - Even Though (Open Wide)
+  - These Are The Days (Cuts & Bruises)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/aed63829-e917-498b-bb7f-cf76459702dc
-  spotify: https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH
-  wikipedia: https://en.wikipedia.org/wiki/Inhaler_(band)
+  musicbrainz: 'https://musicbrainz.org/artist/aed63829-e917-498b-bb7f-cf76459702dc'
+  spotify: 'https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH'
+  wikipedia: 'https://en.wikipedia.org/wiki/Inhaler_(band)'
 image_path: 03_Resources/source_material/ArtistPortraits/inhaler.jpg
 biography_enhanced_at: '2025-11-10T03:43:42.167192'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://americansongwriter.com/behind-the-band-name-inhaler/
-- https://countychronicle.org/2146/arts-and-entertainment/inhaler/
-- https://www.last.fm/music/Inhaler/+wiki
-- https://www.thelamron.com/arts-and-entertainment/inhaler-who-cares-how-good-music-is-made
-- https://coogradio.com/2025/02/meet-your-new-favorite-band-inhaler/
-- https://www.the-independent.com/arts-entertainment/music/features/inhaler-band-eli-hewson-tour-b2129130.html
-- https://the-jh-movie-collection-official.fandom.com/wiki/Inhaler_(band)
+  - 'https://americansongwriter.com/behind-the-band-name-inhaler/'
+  - 'https://countychronicle.org/2146/arts-and-entertainment/inhaler/'
+  - 'https://www.last.fm/music/Inhaler/+wiki'
+  - >-
+    https://www.thelamron.com/arts-and-entertainment/inhaler-who-cares-how-good-music-is-made
+  - 'https://coogradio.com/2025/02/meet-your-new-favorite-band-inhaler/'
+  - >-
+    https://www.the-independent.com/arts-entertainment/music/features/inhaler-band-eli-hewson-tour-b2129130.html
+  - 'https://the-jh-movie-collection-official.fandom.com/wiki/Inhaler_(band)'
 network_extracted: true
 entry_created: '2025-11-10T03:43:42.167208'
 last_updated: '2025-12-23T08:16:09.856178'
 disambiguation: Irish pop rock band
 members:
-- &id001
-  begin: '2016'
-  end: ''
-  instruments: []
-  mbid: 1e4f8043-287f-4abb-a494-264095a0fcc1
-  name: Elijah Hewson
+  - &ref_0
+    begin: '2016'
+    end: ''
+    instruments: []
+    mbid: 1e4f8043-287f-4abb-a494-264095a0fcc1
+    name: Elijah Hewson
 musicbrainz_id: aed63829-e917-498b-bb7f-cf76459702dc
-origin: Dublin
+origin: 'Dublin, Ireland'
 original_members:
-- *id001
+  - *ref_0
 tags:
-- alternative rock
-- indie rock
-- pop rock
+  - alternative rock
+  - indie rock
+  - pop rock
 ---
 
 ![](inhaler.jpg)

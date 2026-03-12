@@ -4,14 +4,14 @@ wiki_slug: anaadi
 schema_version: 2
 artist_type: person
 status: active
-birth_place: Unknown, India
+birth_place: 'Unknown, India'
 genres:
-- devotional
+  - devotional
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/anaadi.jpg
   caption: Anaadi
   background: solo_singer
-  origin: Unknown, India
+  origin: 'Unknown, India'
 audio_profile:
   tempo_avg: 112.4
   energy_avg: 0.631
@@ -33,37 +33,40 @@ spotify_data:
   followers: 2603
   id: 0zrBD806b9dxYnNGhUJERl
   popularity: 34
-  url: https://open.spotify.com/artist/0zrBD806b9dxYnNGhUJERl
+  url: 'https://open.spotify.com/artist/0zrBD806b9dxYnNGhUJERl'
 discography_enriched: true
 top_tracks:
-- Vinaro Bhagyamu (Annamayya)
-- Nerula Vandhan (From "The Family Star") (Nerula Vandhan (From "The Family Star"))
-- Nerula Vandhan (The Family Star)
-- Thayramma Patnavedithe
-- Nerula Vandhan (From "The Family Star")
-- Aadano Eedano (From "Om Sai")
-- Kaachi Lakadi Padago Angaara
-- Pila Pila Di Ghoont
-- Moti Murgi (Moti Murgi)
-- Jeeja (Moti Murgi)
+  - Vinaro Bhagyamu (Annamayya)
+  - >-
+    Nerula Vandhan (From "The Family Star") (Nerula Vandhan (From "The Family
+    Star"))
+  - Nerula Vandhan (The Family Star)
+  - Thayramma Patnavedithe
+  - Nerula Vandhan (From "The Family Star")
+  - Aadano Eedano (From "Om Sai")
+  - Kaachi Lakadi Padago Angaara
+  - Pila Pila Di Ghoont
+  - Moti Murgi (Moti Murgi)
+  - Jeeja (Moti Murgi)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3c808740-7a30-4a84-86c5-cb075c89f916
-  spotify: https://open.spotify.com/artist/0zrBD806b9dxYnNGhUJERl
-  wikipedia: https://en.wikipedia.org/wiki/Anaida
+  musicbrainz: 'https://musicbrainz.org/artist/3c808740-7a30-4a84-86c5-cb075c89f916'
+  spotify: 'https://open.spotify.com/artist/0zrBD806b9dxYnNGhUJERl'
+  wikipedia: 'https://en.wikipedia.org/wiki/Anaida'
 image_path: 03_Resources/source_material/ArtistPortraits/anaadi.jpg
 biography_enhanced_at: '2025-12-14T01:47:03.033642'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Anaida
-- https://www.wikiwand.com/en/articles/Anaida
-- https://www.therevolverclub.com/blogs/artist-shoutout/singer-anaida-goes-spiritual-artist-shoutout
-- https://www.last.fm/music/Anaida/+wiki
+  - 'https://en.wikipedia.org/wiki/Anaida'
+  - 'https://www.wikiwand.com/en/articles/Anaida'
+  - >-
+    https://www.therevolverclub.com/blogs/artist-shoutout/singer-anaida-goes-spiritual-artist-shoutout
+  - 'https://www.last.fm/music/Anaida/+wiki'
 network_extracted: true
 entry_created: '2025-12-14T01:47:03.033647'
 last_updated: '2025-12-23T08:16:04.740825'
 musicbrainz_id: 3c808740-7a30-4a84-86c5-cb075c89f916
-
+origin: 'India, India, India'
 ---
 
 ![](anaadi.jpg)

@@ -1,16 +1,16 @@
 ---
-title: KANSAS CITY KITTY
+title: Kansas City Kitty
 wiki_slug: kansas-city-kitty
 schema_version: 2
 artist_type: person
 status: active
-birth_place: Bedford, Ohio, United States
+birth_place: 'Bedford, Ohio, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/kansas_city_kitty.jpg
   caption: KANSAS CITY KITTY
   background: solo_singer
-  origin: Bedford, Ohio, United States
+  origin: 'Bedford, Ohio, United States'
 audio_profile:
   tempo_avg: 111.5
   energy_avg: 0.138
@@ -18,7 +18,7 @@ audio_profile:
   danceability_avg: 0.63
   acousticness_avg: 0.988
   instrumentalness_avg: 0.1
-  loudness_avg: -14.0
+  loudness_avg: -14
   speechiness_avg: 0.098
   liveness_avg: 0.142
   track_count: 47
@@ -26,47 +26,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Judson Brown
-  - Blind James Beck
-  - Big Bill Broonzy
-  - Georgia Tom
-  - Famous Hokum Boys
+    - Judson Brown
+    - Blind James Beck
+    - Big Bill Broonzy
+    - Georgia Tom
+    - Famous Hokum Boys
   influenced: []
   mentors: []
 spotify_data:
   followers: 63
   id: 1n9SD3KU0CDQR6S4Gxw8kp
   popularity: 7
-  url: https://open.spotify.com/artist/1n9SD3KU0CDQR6S4Gxw8kp
+  url: 'https://open.spotify.com/artist/1n9SD3KU0CDQR6S4Gxw8kp'
 discography_enriched: true
 top_tracks:
-- 'How Can You Have The Blues? (The Roots Of Rap: Classic Recordings From The 1920s & 30s)'
-- Christmas Mornin' Blues (Death Might Be Your Santa Claus)
-- How Can You Have The Blues? (Come On Mama Do That Dance (1928-1932))
-- 'Double Trouble Blues (Saga Blues: Blueswomen "Girls Play and Sing the Blues")'
-- My Wash Woman's Gone (Risque Blues, Vol. 2)
-- Fish Hous Blues (Risque Blues, Vol. 2)
-- Killing Floor Blues (Matchbox Bluesmaster Series, Set 7)
-- When Can I Get It (Matchbox Bluesmaster Series, Set 7)
-- That Thing's a Mess (Matchbox Bluesmaster Series, Set 7)
-- Root Man Blues (Matchbox Bluesmaster Series, Set 7)
+  - >-
+    How Can You Have The Blues? (The Roots Of Rap: Classic Recordings From The
+    1920s & 30s)
+  - Christmas Mornin' Blues (Death Might Be Your Santa Claus)
+  - How Can You Have The Blues? (Come On Mama Do That Dance (1928-1932))
+  - >-
+    Double Trouble Blues (Saga Blues: Blueswomen "Girls Play and Sing the
+    Blues")
+  - 'My Wash Woman''s Gone (Risque Blues, Vol. 2)'
+  - 'Fish Hous Blues (Risque Blues, Vol. 2)'
+  - 'Killing Floor Blues (Matchbox Bluesmaster Series, Set 7)'
+  - 'When Can I Get It (Matchbox Bluesmaster Series, Set 7)'
+  - 'That Thing''s a Mess (Matchbox Bluesmaster Series, Set 7)'
+  - 'Root Man Blues (Matchbox Bluesmaster Series, Set 7)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/36f2bf18-2a0b-4677-ac76-2f220f2310af
-  spotify: https://open.spotify.com/artist/1n9SD3KU0CDQR6S4Gxw8kp
-  wikipedia: https://en.wikipedia.org/wiki/Mozelle_Alderson
+  musicbrainz: 'https://musicbrainz.org/artist/36f2bf18-2a0b-4677-ac76-2f220f2310af'
+  spotify: 'https://open.spotify.com/artist/1n9SD3KU0CDQR6S4Gxw8kp'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mozelle_Alderson'
 image_path: ''
 biography_enhanced_at: '2025-12-23T01:59:57.093278'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Mozelle_Alderson
-- https://www.allmusic.com/artist/kansas-city-kitty-mn0000360759
+  - 'https://en.wikipedia.org/wiki/Mozelle_Alderson'
+  - 'https://www.allmusic.com/artist/kansas-city-kitty-mn0000360759'
 network_extracted: true
 entry_created: '2025-12-23T01:59:57.093299'
 last_updated: '2025-12-23T08:16:11.168479'
 disambiguation: Mozelle Alderson
 gender: Female
 musicbrainz_id: 36f2bf18-2a0b-4677-ac76-2f220f2310af
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![]()

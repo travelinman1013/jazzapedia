@@ -3,36 +3,40 @@ biography_enhanced_at: '2025-12-29T01:13:22.642936'
 enhancement_provider: perplexity
 entry_created: '2025-12-29T01:13:22.643029'
 external_urls:
-  spotify: https://open.spotify.com/artist/7Hiy7HzKP37KiHz5CzjK69
-  wikipedia: 'No dedicated Wikipedia page for Falcon Trio; related pages: https://en.wikipedia.org/wiki/Cl%C3%A9oma_Falcon
-    and https://en.wikipedia.org/wiki/Joe_Falcon'
+  spotify: 'https://open.spotify.com/artist/7Hiy7HzKP37KiHz5CzjK69'
+  wikipedia: >-
+    No dedicated Wikipedia page for Falcon Trio; related pages:
+    https://en.wikipedia.org/wiki/Cl%C3%A9oma_Falcon and
+    https://en.wikipedia.org/wiki/Joe_Falcon
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 image_path: ''
 last_updated: '2025-12-29T01:13:22.643033'
 musical_connections:
   collaborators:
-  - Cléoma Breaux Falcon
-  - Leon Meche
+    - Cléoma Breaux Falcon
+    - Leon Meche
   influenced: []
   mentors:
-  - Amédée Breaux
+    - Amédée Breaux
 network_extracted: true
-origin: Rayne/Crowley, Southwest Louisiana, USA
+origin: 'Rayne/Crowley, Southwest Louisiana, USA'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Cl%C3%A9oma_Falcon
-- https://txmusic.com/cleoma-falcon-queen-of-cajun-music/
-- https://en.wikipedia.org/wiki/Joe_Falcon
-- http://earlycajunmusic.blogspot.com/2022/06/pauvre-garcon-falcon-trio.html
+  - 'https://en.wikipedia.org/wiki/Cl%C3%A9oma_Falcon'
+  - 'https://txmusic.com/cleoma-falcon-queen-of-cajun-music/'
+  - 'https://en.wikipedia.org/wiki/Joe_Falcon'
+  - 'http://earlycajunmusic.blogspot.com/2022/06/pauvre-garcon-falcon-trio.html'
 spotify_data:
   followers: 20
   id: 7Hiy7HzKP37KiHz5CzjK69
   popularity: 0
-  url: https://open.spotify.com/artist/7Hiy7HzKP37KiHz5CzjK69
+  url: 'https://open.spotify.com/artist/7Hiy7HzKP37KiHz5CzjK69'
 status: active
 title: Falcon Trio
+birth_date: '1906-05-27'
+artist_type: person
 ---
 
 ![]()

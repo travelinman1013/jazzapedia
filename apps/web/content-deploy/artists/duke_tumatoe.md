@@ -1,39 +1,42 @@
 ---
 biography_enhanced_at: '2025-12-25T01:12:47.768901'
-birth_place: Chicago, Illinois, USA
+birth_place: 'Chicago, Illinois, USA'
 enhancement_provider: perplexity
 entry_created: '2025-12-25T01:12:47.768910'
 external_urls:
-  spotify: https://open.spotify.com/artist/2krgipEUEI60gq28XVgBIs
-  wikipedia: https://en.wikipedia.org/wiki/Duke_Tumatoe
+  spotify: 'https://open.spotify.com/artist/2krgipEUEI60gq28XVgBIs'
+  wikipedia: 'https://en.wikipedia.org/wiki/Duke_Tumatoe'
 genres:
-- modern blues
+  - modern blues
 image_path: 03_Resources/source_material/ArtistPortraits/duke_tumatoe.jpg
 last_updated: '2025-12-25T01:12:47.768911'
 musical_connections:
   collaborators:
-  - James Mitchell Hill
-  - John Fogerty
-  - REO Speedwagon (Neal Doughty, Alan Gratzer)
-  - Current Power Trio (Bill Ritter, Dawson Ouelette)
+    - James Mitchell Hill
+    - John Fogerty
+    - 'REO Speedwagon (Neal Doughty, Alan Gratzer)'
+    - 'Current Power Trio (Bill Ritter, Dawson Ouelette)'
   influenced: []
   mentors:
-  - Muddy Waters
-  - B.B. King
-  - Chicago blues legends (e.g., Willie Dixon, Buddy Guy)
+    - Muddy Waters
+    - B.B. King
+    - 'Chicago blues legends (e.g., Willie Dixon, Buddy Guy)'
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Duke_Tumatoe
-- https://duketumatoe.com/about
-- https://www.bluesblastmagazine.com/duke-tumatoe-have-you-seen-my-keys-album-review/
+  - 'https://en.wikipedia.org/wiki/Duke_Tumatoe'
+  - 'https://duketumatoe.com/about'
+  - >-
+    https://www.bluesblastmagazine.com/duke-tumatoe-have-you-seen-my-keys-album-review/
 spotify_data:
   followers: 1257
   id: 2krgipEUEI60gq28XVgBIs
   popularity: 9
-  url: https://open.spotify.com/artist/2krgipEUEI60gq28XVgBIs
+  url: 'https://open.spotify.com/artist/2krgipEUEI60gq28XVgBIs'
 status: active
 title: Duke Tumatoe
+birth_date: 1947-06
+artist_type: person
 ---
 
 ![](duke_tumatoe.jpg)

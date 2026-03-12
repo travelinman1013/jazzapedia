@@ -1,22 +1,22 @@
 ---
-title: wayne raney
+title: Wayne Raney
 wiki_slug: wayne-raney
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1921'
-birth_place: Wolf Bayou, Arkansas, United States
+birth_place: 'Wolf Bayou, Arkansas, United States'
 death_date: '1993'
 genres:
-- traditional country
-- honky tonk
-- rockabilly
+  - traditional country
+  - honky tonk
+  - rockabilly
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/wayne_raney.jpg
   caption: wayne raney
   background: solo_singer
   born: '1921'
-  origin: Wolf Bayou, Arkansas, United States
+  origin: 'Wolf Bayou, Arkansas, United States'
   died: '1993'
 audio_profile:
   tempo_avg: 122.7
@@ -25,7 +25,7 @@ audio_profile:
   danceability_avg: 0.61
   acousticness_avg: 0.808
   instrumentalness_avg: 0.095
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.042
   liveness_avg: 0.156
   track_count: 49
@@ -33,45 +33,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lonnie Glosson
-  - Delmore Brothers
-  - Lefty Frizzell
-  - Raney Family
+    - Lonnie Glosson
+    - Delmore Brothers
+    - Lefty Frizzell
+    - Raney Family
   influenced:
-  - Linda Ronstadt
-  - The Greenbriar Boys
-  - People!
+    - Linda Ronstadt
+    - The Greenbriar Boys
+    - People!
   mentors:
-  - Street harmonica player (unnamed)
+    - Street harmonica player (unnamed)
 spotify_data:
   followers: 712
   id: 62FDV6cSw04NmXcuTdZoIl
   popularity: 6
-  url: https://open.spotify.com/artist/62FDV6cSw04NmXcuTdZoIl
+  url: 'https://open.spotify.com/artist/62FDV6cSw04NmXcuTdZoIl'
 discography_enriched: true
 top_tracks:
-- Why Don't You Haul Off And Love Me (28 Big Ones)
-- Sand Mountain Blues
-- Sand Mountain Blues
-- Lost John Boogie - Original King Recordings (Songs Of The Hills (Original King Recordings))
-- Lost John Boogie (28 Big Ones)
-- We Need A Lot More Of Jesus (20 Old Time Gospel Favorites)
-- If You've Got The Money, I've Got The Time (That Real Hot Boogie Boy - The King Anthology)
-- Shake Baby Shake (That'll Flat Git It, Vol. 6 (Us Decca, Vol. 2))
-- Why Don’t You Haul Off And Love Me
-- Lost John Boogie (Scenes from Hillbilly Days)
+  - Why Don't You Haul Off And Love Me (28 Big Ones)
+  - Sand Mountain Blues
+  - Sand Mountain Blues
+  - >-
+    Lost John Boogie - Original King Recordings (Songs Of The Hills (Original
+    King Recordings))
+  - Lost John Boogie (28 Big Ones)
+  - We Need A Lot More Of Jesus (20 Old Time Gospel Favorites)
+  - >-
+    If You've Got The Money, I've Got The Time (That Real Hot Boogie Boy - The
+    King Anthology)
+  - 'Shake Baby Shake (That''ll Flat Git It, Vol. 6 (Us Decca, Vol. 2))'
+  - Why Don’t You Haul Off And Love Me
+  - Lost John Boogie (Scenes from Hillbilly Days)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/be79b7be-151c-4247-a05e-2b84bdc20467
-  spotify: https://open.spotify.com/artist/62FDV6cSw04NmXcuTdZoIl
-  wikipedia: https://en.wikipedia.org/wiki/Wayne_Raney
+  musicbrainz: 'https://musicbrainz.org/artist/be79b7be-151c-4247-a05e-2b84bdc20467'
+  spotify: 'https://open.spotify.com/artist/62FDV6cSw04NmXcuTdZoIl'
+  wikipedia: 'https://en.wikipedia.org/wiki/Wayne_Raney'
 image_path: 03_Resources/source_material/ArtistPortraits/wayne_raney.jpg
 biography_enhanced_at: '2025-10-19T10:50:29.074612'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Wayne_Raney
-- https://www.countryradioseminar.com/wayne-raney
-- https://en.delmore-brothers.com/page09raney_en.html
+  - 'https://en.wikipedia.org/wiki/Wayne_Raney'
+  - 'https://www.countryradioseminar.com/wayne-raney'
+  - 'https://en.delmore-brothers.com/page09raney_en.html'
 network_extracted: true
 entry_created: '2025-10-19T10:50:29.074626'
 last_updated: '2025-12-23T08:16:18.044367'
@@ -79,7 +83,8 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:56:49.793743'
 musicbrainz_id: be79b7be-151c-4247-a05e-2b84bdc20467
 tags:
-- country
+  - country
+is_active: false
 ---
 
 ![](wayne_raney.jpg)

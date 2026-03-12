@@ -3,39 +3,42 @@ biography_enhanced_at: '2025-12-29T01:15:16.003072'
 enhancement_provider: perplexity
 entry_created: '2025-12-29T01:15:16.003081'
 external_urls:
-  spotify: https://open.spotify.com/artist/5Qp4mmr5IyS4TkcYvNhVYk
+  spotify: 'https://open.spotify.com/artist/5Qp4mmr5IyS4TkcYvNhVYk'
   wikipedia: ''
 genres:
-- zydeco
-- cajun
+  - zydeco
+  - cajun
 image_path: 03_Resources/source_material/ArtistPortraits/creole_zydeco_farmers.jpg
 last_updated: '2025-12-29T01:15:16.003082'
 musical_connections:
   collaborators:
-  - Clarence “Jockey” Etienne
-  - Chester Chevalier
-  - Walter (John) Prejean Sr.
-  - Morris Francis
-  - Maison de Soul Records (Floyd Soileau)
+    - Clarence “Jockey” Etienne
+    - Chester Chevalier
+    - Walter (John) Prejean Sr.
+    - Morris Francis
+    - Maison de Soul Records (Floyd Soileau)
   influenced:
-  - ''
+    - ''
   mentors:
-  - Fernest Arceneaux
+    - Fernest Arceneaux
 network_extracted: true
-origin: Lafayette, Louisiana, United States
+origin: 'Lafayette, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://flattownmusic.com/artist/creole-zydeco-farmers/
-- https://cajunandzydeco.wordpress.com/2013/08/11/more-on-the-creole-zydeco-farmers/
-- https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/history.htm.html
-- https://www.explorelouisiana.com/music/zydeco
+  - 'https://flattownmusic.com/artist/creole-zydeco-farmers/'
+  - >-
+    https://cajunandzydeco.wordpress.com/2013/08/11/more-on-the-creole-zydeco-farmers/
+  - >-
+    https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/history.htm.html
+  - 'https://www.explorelouisiana.com/music/zydeco'
 spotify_data:
   followers: 462
   id: 5Qp4mmr5IyS4TkcYvNhVYk
   popularity: 3
-  url: https://open.spotify.com/artist/5Qp4mmr5IyS4TkcYvNhVYk
+  url: 'https://open.spotify.com/artist/5Qp4mmr5IyS4TkcYvNhVYk'
 status: active
 title: Creole Zydeco Farmers
+artist_type: band
 ---
 
 ![](creole_zydeco_farmers.jpg)

@@ -4,7 +4,7 @@ wiki_slug: pink-teddy-bear
 schema_version: 2
 status: active
 genres:
-- jungle
+  - jungle
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/pink_teddy_bear.jpg
   caption: Pink Teddy Bear
@@ -24,40 +24,41 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Carlos Grasso
+    - Carlos Grasso
   influenced: []
   mentors: []
 spotify_data:
   followers: 10
   id: 5oRx9c5YsItY2Y7xgGdT7n
   popularity: 0
-  url: https://open.spotify.com/artist/5oRx9c5YsItY2Y7xgGdT7n
+  url: 'https://open.spotify.com/artist/5oRx9c5YsItY2Y7xgGdT7n'
 discography_enriched: true
 top_tracks:
-- Welcome to the Tiki Farm (Area 53) (Welcome to the Tiki Farm)
-- Dragon Fruit (Welcome to the Tiki Farm)
-- Jaboticaba (Welcome to the Tiki Farm)
-- Marukuya Passion Fruit (Welcome to the Tiki Farm)
-- Python Snake Bean (Welcome to the Tiki Farm)
-- Surinam Cherry (Welcome to the Tiki Farm)
-- Motu (King of the Bayou) (Welcome to the Tiki Farm)
-- Shishandria (Welcome to the Tiki Farm)
-- Maruba Santoh (Welcome to the Tiki Farm)
+  - Welcome to the Tiki Farm (Area 53) (Welcome to the Tiki Farm)
+  - Dragon Fruit (Welcome to the Tiki Farm)
+  - Jaboticaba (Welcome to the Tiki Farm)
+  - Marukuya Passion Fruit (Welcome to the Tiki Farm)
+  - Python Snake Bean (Welcome to the Tiki Farm)
+  - Surinam Cherry (Welcome to the Tiki Farm)
+  - Motu (King of the Bayou) (Welcome to the Tiki Farm)
+  - Shishandria (Welcome to the Tiki Farm)
+  - Maruba Santoh (Welcome to the Tiki Farm)
 external_urls:
-  spotify: https://open.spotify.com/artist/5oRx9c5YsItY2Y7xgGdT7n
+  spotify: 'https://open.spotify.com/artist/5oRx9c5YsItY2Y7xgGdT7n'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/pink_teddy_bear.jpg
 biography_enhanced_at: '2025-11-20T07:15:28.757687'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://pinkteddybearmusic.com
-- https://pinkteddybear.bandcamp.com/album/welcome-to-the-tiki-farm
-- https://www.youtube.com/watch?v=Yz2yMeaDymw
+  - 'https://pinkteddybearmusic.com'
+  - 'https://pinkteddybear.bandcamp.com/album/welcome-to-the-tiki-farm'
+  - 'https://www.youtube.com/watch?v=Yz2yMeaDymw'
 network_extracted: true
 entry_created: '2025-11-20T07:15:28.757699'
 last_updated: '2025-12-23T08:16:14.319913'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![](pink_teddy_bear.jpg)

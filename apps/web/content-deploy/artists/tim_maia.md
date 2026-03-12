@@ -5,12 +5,12 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1942-09-28'
-birth_place: Rio de Janeiro
+birth_place: 'Tijuca, Rio de Janeiro, Brazil'
 death_date: '1998-03-15'
 genres:
-- mpb
+  - mpb
 instruments:
-- background vocals
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/tim_maia.jpg
   caption: Tim Maia
@@ -33,56 +33,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lincoln Olivetti
-  - Paulinho Guitarra
+    - Lincoln Olivetti
+    - Paulinho Guitarra
   influenced:
-  - Black Rio Movement Artists
-  - Brazilian Soul and Funk Musicians
+    - Black Rio Movement Artists
+    - Brazilian Soul and Funk Musicians
   mentors:
-  - Elis Regina
-  - Nelson Motta
+    - Elis Regina
+    - Nelson Motta
 spotify_data:
   followers: 2306894
   id: 0jOs0wnXCu1bGGP7kh5uIu
   popularity: 65
-  url: https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu
+  url: 'https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu'
 discography_enriched: true
 top_tracks:
-- O Descobridor Dos Sete Mares (O Descobridor Dos Sete Mares)
-- Gostava Tanto De Você (Tim Maia 1973)
-- Acenda o farol
-- Azul Da Cor Do Mar (Tim Maia 1970)
-- Não Quero Dinheiro (Só Quero Amar) (Tim Maia 1971)
-- Eu Amo Você (Tim Maia 1970)
-- Réu Confesso (Tim Maia 1973)
-- Você (Tim Maia 1971)
-- Me Dê Motivo (O Descobridor Dos Sete Mares)
-- Que Beleza
+  - O Descobridor Dos Sete Mares (O Descobridor Dos Sete Mares)
+  - Gostava Tanto De Você (Tim Maia 1973)
+  - Acenda o farol
+  - Azul Da Cor Do Mar (Tim Maia 1970)
+  - Não Quero Dinheiro (Só Quero Amar) (Tim Maia 1971)
+  - Eu Amo Você (Tim Maia 1970)
+  - Réu Confesso (Tim Maia 1973)
+  - Você (Tim Maia 1971)
+  - Me Dê Motivo (O Descobridor Dos Sete Mares)
+  - Que Beleza
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/446ac261-09ae-43f4-a7e1-2c753c0813ce
-  spotify: https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu
+  musicbrainz: 'https://musicbrainz.org/artist/446ac261-09ae-43f4-a7e1-2c753c0813ce'
+  spotify: 'https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/tim_maia.jpg
 biography_enhanced_at: '2025-11-20T06:49:01.428053'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wax Poetics - Tim Maia Soul Searching
-- Latinolife - The Wonderful World of Tim Maia
-- Music Mania Records - Tim Maia
-- 'Afropop - Nobody Lives Forever: The Existential Soul of Tim Maia'
-- Luaka Bop - Tim Maia Artist Profile
-- IMDb - Tim Maia Biography
-- 'Capsule Records - Tim Maia: Excess and UFOs'
+  - Wax Poetics - Tim Maia Soul Searching
+  - Latinolife - The Wonderful World of Tim Maia
+  - Music Mania Records - Tim Maia
+  - 'Afropop - Nobody Lives Forever: The Existential Soul of Tim Maia'
+  - Luaka Bop - Tim Maia Artist Profile
+  - IMDb - Tim Maia Biography
+  - 'Capsule Records - Tim Maia: Excess and UFOs'
 network_extracted: true
 entry_created: '2025-11-20T06:49:01.428069'
 last_updated: '2025-12-23T08:16:17.433216'
 gender: Male
 musicbrainz_id: 446ac261-09ae-43f4-a7e1-2c753c0813ce
 tags:
-- bossa nova
-- disco
-- funk
+  - bossa nova
+  - disco
+  - funk
+is_active: false
+origin: 'Rio de Janeiro, Brazil'
 ---
 
 ![](tim_maia.jpg)

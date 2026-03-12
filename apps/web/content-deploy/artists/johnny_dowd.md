@@ -1,18 +1,18 @@
 ---
-title: johnny dowd
+title: Johnny Dowd
 wiki_slug: johnny-dowd
 schema_version: 2
 status: active
-birth_place: Ithaca, New York, United States (current residence; born Fort Worth, Texas)
+birth_place: 'Ithaca, New York, United States (current residence; born Fort Worth, Texas)'
 genres:
-- gothic country
-- alt country
-- americana
+  - gothic country
+  - alt country
+  - americana
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/johnny_dowd.jpg
   caption: johnny dowd
   background: solo_singer
-  origin: Ithaca, New York, United States (current residence; born Fort Worth, Texas)
+  origin: 'Ithaca, New York, United States (current residence; born Fort Worth, Texas)'
 audio_profile:
   tempo_avg: 124.5
   energy_avg: 0.609
@@ -28,51 +28,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jif Dowd
-  - Mike Edmondson
-  - Will Sexton
-  - Amy LaVere
-  - Jim White
-  - Jon Langford
+    - Jif Dowd
+    - Mike Edmondson
+    - Will Sexton
+    - Amy LaVere
+    - Jim White
+    - Jon Langford
   influenced: []
   mentors:
-  - Tom Waits
-  - Charles Bukowski
+    - Tom Waits
+    - Charles Bukowski
 spotify_data:
   followers: 3454
   id: 37XGRhnYWhiV6o2jPB8nxt
   popularity: 8
-  url: https://open.spotify.com/artist/37XGRhnYWhiV6o2jPB8nxt
+  url: 'https://open.spotify.com/artist/37XGRhnYWhiV6o2jPB8nxt'
 discography_enriched: true
 top_tracks:
-- First There Was (Presents Music from Searching for The Wrong Eyed Jesus)
-- First There Was
-- Poor, but Proud (That's Your Wife on the Back of My Horse)
-- Judgement Day
-- Another Mule (Is Heaven Real? How Would I Know)
-- Constant Waiting - Second Alternate Version (We Are Only Riders)
-- Is Heaven Real (Is Heaven Real? How Would I Know)
-- Rhumba in the Park (Execute American Folklore)
-- That's Your Wife on the Back of My Horse (That's Your Wife on the Back of My Horse)
-- White Dolemite (That's Your Wife on the Back of My Horse)
+  - First There Was (Presents Music from Searching for The Wrong Eyed Jesus)
+  - First There Was
+  - 'Poor, but Proud (That''s Your Wife on the Back of My Horse)'
+  - Judgement Day
+  - Another Mule (Is Heaven Real? How Would I Know)
+  - Constant Waiting - Second Alternate Version (We Are Only Riders)
+  - Is Heaven Real (Is Heaven Real? How Would I Know)
+  - Rhumba in the Park (Execute American Folklore)
+  - >-
+    That's Your Wife on the Back of My Horse (That's Your Wife on the Back of My
+    Horse)
+  - White Dolemite (That's Your Wife on the Back of My Horse)
 external_urls:
-  spotify: https://open.spotify.com/artist/37XGRhnYWhiV6o2jPB8nxt
+  spotify: 'https://open.spotify.com/artist/37XGRhnYWhiV6o2jPB8nxt'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/johnny_dowd.jpg
 biography_enhanced_at: '2025-11-29T07:02:56.280249'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- sedate-bookings.com - Johnny Dowd back in Europe with 'Is Heaven Real?'
-- 'scaruffi.com - The History of Rock Music: Johnny Dowd'
-- peel.fandom.com - Johnny Dowd | John Peel Wiki
-- theaudiodb.com - Johnny Dowd
-- viberate.com - Johnny Dowd
-- johnnydowd.com - EPK
+  - sedate-bookings.com - Johnny Dowd back in Europe with 'Is Heaven Real?'
+  - 'scaruffi.com - The History of Rock Music: Johnny Dowd'
+  - peel.fandom.com - Johnny Dowd | John Peel Wiki
+  - theaudiodb.com - Johnny Dowd
+  - viberate.com - Johnny Dowd
+  - johnnydowd.com - EPK
 network_extracted: true
 entry_created: '2025-11-29T07:02:56.280269'
 last_updated: '2025-12-23T08:16:10.826367'
-
+origin: 'Ithaca, New York, United States'
+birth_date: '1948-03-29'
+artist_type: person
 ---
 
 ![](johnny_dowd.jpg)

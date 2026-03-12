@@ -1,43 +1,45 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2025-12-28T02:01:58.148471'
 enhancement_provider: perplexity
 entry_created: '2025-12-28T02:01:58.148486'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/188dfe3e-5017-4f9c-af05-f57d0cfe4ea0
-  spotify: https://open.spotify.com/artist/34ruF1g7Hs02olr5oEYiJ5
+  musicbrainz: 'https://musicbrainz.org/artist/188dfe3e-5017-4f9c-af05-f57d0cfe4ea0'
+  spotify: 'https://open.spotify.com/artist/34ruF1g7Hs02olr5oEYiJ5'
   wikipedia: ''
 genres:
-- highlife
-- afrobeat
-- ethiopian jazz
+  - highlife
+  - afrobeat
+  - ethiopian jazz
 image_path: 03_Resources/source_material/ArtistPortraits/the_semi_colon.jpg
 last_updated: '2025-12-28T02:01:58.148487'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f7ead6ad-c5d0-4b47-8957-417b9dafdf63
-  name: Lasbrey Colon
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f7ead6ad-c5d0-4b47-8957-417b9dafdf63
+    name: Lasbrey Colon
 musical_connections:
   collaborators:
-  - Lasbrey Ojukwu
+    - Lasbrey Ojukwu
   influenced: []
   mentors: []
 musicbrainz_id: 188dfe3e-5017-4f9c-af05-f57d0cfe4ea0
 network_extracted: true
-origin: Nigeria
+origin: 'Nigeria, Nigeria, Nigeria'
 primary_source: perplexity
 research_sources:
-- https://archivi.ng/the-archivist/stories/issue-4/nigerian-creators-history/semi-colon
-- https://www.rovr.live/artists/semi%20colon
-- https://www.last.fm/music/The+Semi+Colon
-- https://backedwith.wordpress.com/2008/02/28/20-the-semi-colon-%E2%80%93-nekwaha-semi-colon/
+  - >-
+    https://archivi.ng/the-archivist/stories/issue-4/nigerian-creators-history/semi-colon
+  - 'https://www.rovr.live/artists/semi%20colon'
+  - 'https://www.last.fm/music/The+Semi+Colon'
+  - >-
+    https://backedwith.wordpress.com/2008/02/28/20-the-semi-colon-%E2%80%93-nekwaha-semi-colon/
 spotify_data:
   followers: 562
   id: 34ruF1g7Hs02olr5oEYiJ5
   popularity: 2
-  url: https://open.spotify.com/artist/34ruF1g7Hs02olr5oEYiJ5
+  url: 'https://open.spotify.com/artist/34ruF1g7Hs02olr5oEYiJ5'
 status: active
 title: The Semi Colon
 ---

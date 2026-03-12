@@ -2,17 +2,17 @@
 title: Parcels
 wiki_slug: parcels
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '2014'
 genres:
-- indie soul
+  - indie soul
 instruments:
-- guitar
-- original
-- keyboard
-- bass guitar
-- drums (drum set)
+  - guitar
+  - original
+  - keyboard
+  - bass guitar
+  - drums (drum set)
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/parcels.jpg
   caption: Parcels
@@ -33,111 +33,111 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Louie Swain
-  - Patrick Hetherington
-  - Noah Hill
-  - Anatole 'Toto' Serret
-  - Jules Crommelin
+    - Louie Swain
+    - Patrick Hetherington
+    - Noah Hill
+    - Anatole 'Toto' Serret
+    - Jules Crommelin
   influenced:
-  - No widely documented direct proteges as of 2025
+    - No widely documented direct proteges as of 2025
   mentors:
-  - Daft Punk
+    - Daft Punk
 spotify_data:
   followers: 1088957
   id: 3oKRxpszQKUjjaHz388fVA
   popularity: 70
-  url: https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA
+  url: 'https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA'
 discography_enriched: true
 top_tracks:
-- Tieduprightnow
-- Overnight
-- Gamesofluck
-- Lightenup (Parcels)
-- Safeandsound
-- IknowhowIfeel (Parcels)
-- Leaveyourlove
-- Hideout
-- Somethinggreater (Day/Night)
-- Anotherclock
+  - Tieduprightnow
+  - Overnight
+  - Gamesofluck
+  - Lightenup (Parcels)
+  - Safeandsound
+  - IknowhowIfeel (Parcels)
+  - Leaveyourlove
+  - Hideout
+  - Somethinggreater (Day/Night)
+  - Anotherclock
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5318e774-f5b6-4ee0-82cb-4dcf398c3ff8
-  spotify: https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA
-  wikipedia: https://en.wikipedia.org/wiki/Parcels_(band)
+  musicbrainz: 'https://musicbrainz.org/artist/5318e774-f5b6-4ee0-82cb-4dcf398c3ff8'
+  spotify: 'https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA'
+  wikipedia: 'https://en.wikipedia.org/wiki/Parcels_(band)'
 image_path: 03_Resources/source_material/ArtistPortraits/parcels.jpg
 biography_enhanced_at: '2025-11-05T12:46:19.568584'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- First Avenue[1]
-- Earmilk[2]
-- Atwood Magazine[3]
-- Last.fm[4]
-- YouTube Music[7]
+  - 'First Avenue[1]'
+  - 'Earmilk[2]'
+  - 'Atwood Magazine[3]'
+  - 'Last.fm[4]'
+  - 'YouTube Music[7]'
 network_extracted: true
 entry_created: '2025-11-05T12:46:19.568598'
 last_updated: '2025-12-23T08:16:13.940036'
 members:
-- &id001
-  begin: '2014'
-  end: ''
-  instruments:
-  - guitar
-  - original
-  mbid: 87ddb8a2-9e32-4fd2-aa16-9716a946bb62
-  name: Jules Crommelin
-- &id002
-  begin: '2014'
-  end: ''
-  instruments:
-  - guitar
-  - original
-  mbid: 6459ed81-b602-4ae4-bbc2-debc52843fda
-  name: Patrick Hetherington
-- &id003
-  begin: '2014'
-  end: ''
-  instruments:
-  - keyboard
-  - original
-  mbid: 6459ed81-b602-4ae4-bbc2-debc52843fda
-  name: Patrick Hetherington
-- &id004
-  begin: '2014'
-  end: ''
-  instruments:
-  - bass guitar
-  - original
-  mbid: 3c2801df-00aa-4642-938a-f8a0e895837c
-  name: Noah Hill
-- &id005
-  begin: '2014'
-  end: ''
-  instruments:
-  - drums (drum set)
-  - original
-  mbid: 541f7cbc-3a75-4d27-b983-232bb0474a1c
-  name: Anatole Serret
-- &id006
-  begin: '2014'
-  end: ''
-  instruments:
-  - keyboard
-  - original
-  mbid: 213c1659-4a9d-4268-a6e5-a7a108776e21
-  name: Louie Swain
+  - &ref_0
+    begin: '2014'
+    end: ''
+    instruments:
+      - guitar
+      - original
+    mbid: 87ddb8a2-9e32-4fd2-aa16-9716a946bb62
+    name: Jules Crommelin
+  - &ref_1
+    begin: '2014'
+    end: ''
+    instruments:
+      - guitar
+      - original
+    mbid: 6459ed81-b602-4ae4-bbc2-debc52843fda
+    name: Patrick Hetherington
+  - &ref_2
+    begin: '2014'
+    end: ''
+    instruments:
+      - keyboard
+      - original
+    mbid: 6459ed81-b602-4ae4-bbc2-debc52843fda
+    name: Patrick Hetherington
+  - &ref_3
+    begin: '2014'
+    end: ''
+    instruments:
+      - bass guitar
+      - original
+    mbid: 3c2801df-00aa-4642-938a-f8a0e895837c
+    name: Noah Hill
+  - &ref_4
+    begin: '2014'
+    end: ''
+    instruments:
+      - drums (drum set)
+      - original
+    mbid: 541f7cbc-3a75-4d27-b983-232bb0474a1c
+    name: Anatole Serret
+  - &ref_5
+    begin: '2014'
+    end: ''
+    instruments:
+      - keyboard
+      - original
+    mbid: 213c1659-4a9d-4268-a6e5-a7a108776e21
+    name: Louie Swain
 musicbrainz_id: 5318e774-f5b6-4ee0-82cb-4dcf398c3ff8
-origin: Byron Bay
+origin: 'Byron Bay, New South Wales, Australia'
 original_members:
-- *id001
-- *id002
-- *id003
-- *id004
-- *id005
-- *id006
+  - *ref_0
+  - *ref_1
+  - *ref_2
+  - *ref_3
+  - *ref_4
+  - *ref_5
 tags:
-- boogie
-- disco
-- indietronica
+  - boogie
+  - disco
+  - indietronica
 ---
 
 ![](parcels.jpg)

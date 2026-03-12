@@ -3,37 +3,38 @@ biography_enhanced_at: '2026-01-21T01:14:11.225088'
 enhancement_provider: perplexity
 entry_created: '2026-01-21T01:14:11.225094'
 external_urls:
-  spotify: https://open.spotify.com/artist/27gCtJEgvaLycbLWwvWoOL
+  spotify: 'https://open.spotify.com/artist/27gCtJEgvaLycbLWwvWoOL'
   wikipedia: Not found
 genres:
-- country christian
-- newgrass
+  - country christian
+  - newgrass
 image_path: 03_Resources/source_material/ArtistPortraits/calamity_jazz.jpg
 last_updated: '2026-01-21T01:14:11.225094'
 musical_connections:
   collaborators:
-  - Daniel Gay
-  - Gilbert 'Philo' Baqué
-  - Jean-Louis Laclavère
-  - Michel Laffitte
-  - Suzanne Barthes
-  - Patrice Ceccon
-  - Gérard Gervois
+    - Daniel Gay
+    - Gilbert 'Philo' Baqué
+    - Jean-Louis Laclavère
+    - Michel Laffitte
+    - Suzanne Barthes
+    - Patrice Ceccon
+    - Gérard Gervois
   influenced: []
   mentors: []
 network_extracted: true
-origin: Vélizy, Île-de-France, France
+origin: 'Vélizy, Île-de-France, France'
 primary_source: perplexity
 research_sources:
-- https://www.youtube.com/watch?v=9jZO7Y7BRkY
-- https://www.youtube.com/watch?v=EkQVEafudqE
+  - 'https://www.youtube.com/watch?v=9jZO7Y7BRkY'
+  - 'https://www.youtube.com/watch?v=EkQVEafudqE'
 spotify_data:
   followers: 2014
   id: 27gCtJEgvaLycbLWwvWoOL
   popularity: 29
-  url: https://open.spotify.com/artist/27gCtJEgvaLycbLWwvWoOL
+  url: 'https://open.spotify.com/artist/27gCtJEgvaLycbLWwvWoOL'
 status: active
 title: Calamity Jazz
+artist_type: band
 ---
 
 ![](calamity_jazz.jpg)

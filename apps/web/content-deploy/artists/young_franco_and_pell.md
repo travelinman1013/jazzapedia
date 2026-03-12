@@ -3,20 +3,24 @@ title: Young Franco & Pell
 wiki_slug: young-franco-pell
 schema_version: 2
 status: active
-birth_place: Brisbane, Queensland, Australia (birthplace); currently based in Sydney, New South Wales, Australia
+birth_place: >-
+  Brisbane, Queensland, Australia (birthplace); currently based in Sydney, New
+  South Wales, Australia
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/young_franco_and_pell.jpg
   caption: Young Franco & Pell
   background: solo_singer
-  origin: Brisbane, Queensland, Australia (birthplace); currently based in Sydney, New South Wales, Australia
+  origin: >-
+    Brisbane, Queensland, Australia (birthplace); currently based in Sydney, New
+    South Wales, Australia
 audio_profile:
-  tempo_avg: 122.0
+  tempo_avg: 122
   energy_avg: 0.646
   valence_avg: 0.622
   danceability_avg: 0.569
   acousticness_avg: 0.179
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -6.5
   speechiness_avg: 0.054
   liveness_avg: 0.187
@@ -25,54 +29,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Pell
-  - Tkay Maidza
-  - Denzel Curry
-  - Maribelle
-  - Master Peace
-  - piri & tommy
-  - Tommy Villier
-  - Frank Moody
-  - Nerve
-  - Winston Surfshirt
-  - Scrufizzer
+    - Pell
+    - Tkay Maidza
+    - Denzel Curry
+    - Maribelle
+    - Master Peace
+    - piri & tommy
+    - Tommy Villier
+    - Frank Moody
+    - Nerve
+    - Winston Surfshirt
+    - Scrufizzer
   influenced: []
   mentors:
-  - General Levy
+    - General Levy
 spotify_data:
   followers: 133
   id: 0RHepZOfLASGIC9XL7a2eR
   popularity: 3
-  url: https://open.spotify.com/artist/0RHepZOfLASGIC9XL7a2eR
+  url: 'https://open.spotify.com/artist/0RHepZOfLASGIC9XL7a2eR'
 discography_enriched: true
 top_tracks:
-- Somos el Mundo (Somos el Mundo)
-- Simplemente Amigos - Cover (Simplemente Amigos (Cover))
-- La Cumbia de Superman (La Cumbia de Superman)
-- Dicen - Remix (Dicen (Remix))
-- Andar y Andar (Andar y Andar)
-- Me Han Dicho (Franco Peletti)
-- Perdóname (Franco Peletti)
-- Me Equivoqué (Franco Peletti)
-- No Me Doy por Vencido (Franco Peletti)
-- Andar y Andar (Franco Peletti)
+  - Somos el Mundo (Somos el Mundo)
+  - Simplemente Amigos - Cover (Simplemente Amigos (Cover))
+  - La Cumbia de Superman (La Cumbia de Superman)
+  - Dicen - Remix (Dicen (Remix))
+  - Andar y Andar (Andar y Andar)
+  - Me Han Dicho (Franco Peletti)
+  - Perdóname (Franco Peletti)
+  - Me Equivoqué (Franco Peletti)
+  - No Me Doy por Vencido (Franco Peletti)
+  - Andar y Andar (Franco Peletti)
 external_urls:
-  spotify: https://open.spotify.com/artist/0RHepZOfLASGIC9XL7a2eR
-  wikipedia: https://en.wikipedia.org/wiki/Young_Franco
+  spotify: 'https://open.spotify.com/artist/0RHepZOfLASGIC9XL7a2eR'
+  wikipedia: 'https://en.wikipedia.org/wiki/Young_Franco'
 image_path: 03_Resources/source_material/ArtistPortraits/young_franco_and_pell.jpg
 biography_enhanced_at: '2025-11-28T07:27:45.825463'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Young Franco
-- Schön! Magazine - It's Franky Baby! Interview
-- FRNDS MGMT Artist Profile
-- Degy Entertainment - Young Franco Booking
-- Insomniac - Young Franco Artist Profile
-- Seismic Talent Agency - Young Franco Profile
+  - Wikipedia - Young Franco
+  - Schön! Magazine - It's Franky Baby! Interview
+  - FRNDS MGMT Artist Profile
+  - Degy Entertainment - Young Franco Booking
+  - Insomniac - Young Franco Artist Profile
+  - Seismic Talent Agency - Young Franco Profile
 network_extracted: true
 entry_created: '2025-11-28T07:27:45.825475'
 last_updated: '2025-12-23T08:16:18.368709'
+origin: 'Sydney, New South Wales, Australia'
+artist_type: person
 ---
 
 ![](young_franco_and_pell.jpg)

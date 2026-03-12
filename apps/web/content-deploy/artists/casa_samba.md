@@ -9,12 +9,12 @@ infobox:
   caption: Casa Samba
   background: solo_singer
 audio_profile:
-  tempo_avg: 157.0
+  tempo_avg: 157
   energy_avg: 0.364
   valence_avg: 0.367
   danceability_avg: 0.682
   acousticness_avg: 0.683
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -14.1
   speechiness_avg: 0.173
   liveness_avg: 0.18
@@ -23,45 +23,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mestre Curtis Pierre
-  - Bill Lennon
-  - Chuk Barber
-  - Carolyn Barber
+    - Mestre Curtis Pierre
+    - Bill Lennon
+    - Chuk Barber
+    - Carolyn Barber
   influenced:
-  - Samba Kids (Casa Samba youth participants)
-  - American aficionados of Brazilian culture in New Orleans
+    - Samba Kids (Casa Samba youth participants)
+    - American aficionados of Brazilian culture in New Orleans
   mentors:
-  - Jorge "Alabê" Bezerra
+    - Jorge "Alabê" Bezerra
 spotify_data:
   followers: 35
   id: 4ThUjwPOFNrKB9kPoVWq87
   popularity: 18
-  url: https://open.spotify.com/artist/4ThUjwPOFNrKB9kPoVWq87
+  url: 'https://open.spotify.com/artist/4ThUjwPOFNrKB9kPoVWq87'
 discography_enriched: true
 top_tracks:
-- Noite de Areia (Noite de Areia)
-- Brisa do Mar (Brisa do Mar)
+  - Noite de Areia (Noite de Areia)
+  - Brisa do Mar (Brisa do Mar)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4f7b1d5f-2175-47b3-bcf6-dd6caca6b9ed
-  spotify: https://open.spotify.com/artist/4ThUjwPOFNrKB9kPoVWq87
+  musicbrainz: 'https://musicbrainz.org/artist/4f7b1d5f-2175-47b3-bcf6-dd6caca6b9ed'
+  spotify: 'https://open.spotify.com/artist/4ThUjwPOFNrKB9kPoVWq87'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/casa_samba.jpg
 biography_enhanced_at: '2025-12-14T01:49:35.438552'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://thebrazilianbeat.com/blog/2023/10/20/epi-110-sabrina-ginga-of-salgueiro-and-mestre-curtis-of-casa-samba
-- https://www.casasamba.com/about-us.html
-- https://www.casasamba.com/home-2/
-- https://events.tulane.edu/node/13466
-- https://www.neworleans.com/listing/casa-samba/50716/
-- https://www.casasamba.com
-- http://amdreamcomp.pbworks.com/w/file/fetch/93496727/31.gibson.pdf
+  - >-
+    http://thebrazilianbeat.com/blog/2023/10/20/epi-110-sabrina-ginga-of-salgueiro-and-mestre-curtis-of-casa-samba
+  - 'https://www.casasamba.com/about-us.html'
+  - 'https://www.casasamba.com/home-2/'
+  - 'https://events.tulane.edu/node/13466'
+  - 'https://www.neworleans.com/listing/casa-samba/50716/'
+  - 'https://www.casasamba.com'
+  - 'http://amdreamcomp.pbworks.com/w/file/fetch/93496727/31.gibson.pdf'
 network_extracted: true
 entry_created: '2025-12-14T01:49:35.438569'
 last_updated: '2025-12-23T08:16:06.541347'
 musicbrainz_id: 4f7b1d5f-2175-47b3-bcf6-dd6caca6b9ed
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![](casa_samba.jpg)

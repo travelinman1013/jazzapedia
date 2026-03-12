@@ -1,18 +1,18 @@
 ---
-title: supremes
+title: The Supremes
 wiki_slug: supremes
 schema_version: 2
 status: active
 genres:
-- motown
-- northern soul
-- soul
+  - motown
+  - northern soul
+  - soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/supremes.jpg
   caption: supremes
   background: solo_singer
 audio_profile:
-  tempo_avg: 124.0
+  tempo_avg: 124
   energy_avg: 0.63
   valence_avg: 0.684
   danceability_avg: 0.578
@@ -26,50 +26,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Holland–Dozier–Holland
-  - The Temptations
-  - Motown session musicians (The Funk Brothers)
+    - Holland–Dozier–Holland
+    - The Temptations
+    - Motown session musicians (The Funk Brothers)
   influenced:
-  - Destiny's Child
-  - Beyoncé
-  - The Jackson 5
+    - Destiny's Child
+    - Beyoncé
+    - The Jackson 5
   mentors:
-  - Berry Gordy
-  - Maxine Powell
+    - Berry Gordy
+    - Maxine Powell
 spotify_data:
   followers: 1830176
   id: 57bUPid8xztkieZfS7OlEV
   popularity: 59
-  url: https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV
+  url: 'https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV'
 discography_enriched: true
 top_tracks:
-- You Can't Hurry Love (The Supremes A' Go-Go (Expanded Edition))
-- Baby Love (Where Did Our Love Go)
-- Where Did Our Love Go (Where Did Our Love Go)
-- Stop! In The Name Of Love (More Hits By The Supremes)
-- Come See About Me (Where Did Our Love Go)
-- You Keep Me Hangin' On (The Supremes Sing Holland, Dozier, Holland)
-- I Hear A Symphony (I Hear A Symphony)
-- My World Is Empty Without You (I Hear A Symphony)
-- Back In My Arms Again (More Hits By The Supremes)
-- You Can't Hurry Love (Supremes A Go Go)
+  - You Can't Hurry Love (The Supremes A' Go-Go (Expanded Edition))
+  - Baby Love (Where Did Our Love Go)
+  - Where Did Our Love Go (Where Did Our Love Go)
+  - Stop! In The Name Of Love (More Hits By The Supremes)
+  - Come See About Me (Where Did Our Love Go)
+  - 'You Keep Me Hangin'' On (The Supremes Sing Holland, Dozier, Holland)'
+  - I Hear A Symphony (I Hear A Symphony)
+  - My World Is Empty Without You (I Hear A Symphony)
+  - Back In My Arms Again (More Hits By The Supremes)
+  - You Can't Hurry Love (Supremes A Go Go)
 external_urls:
-  spotify: https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV
-  wikipedia: https://en.wikipedia.org/wiki/The_Supremes
+  spotify: 'https://open.spotify.com/artist/57bUPid8xztkieZfS7OlEV'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Supremes'
 image_path: 03_Resources/source_material/ArtistPortraits/supremes.jpg
 biography_enhanced_at: '2025-10-19T11:48:19.431012'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Supremes
-- https://www.britannica.com/topic/the-Supremes
-- https://www.vam.ac.uk/articles/the-story-of-the-supremes
-- https://www.edsullivan.com/artists/the-supremes/
+  - 'https://en.wikipedia.org/wiki/The_Supremes'
+  - 'https://www.britannica.com/topic/the-Supremes'
+  - 'https://www.vam.ac.uk/articles/the-story-of-the-supremes'
+  - 'https://www.edsullivan.com/artists/the-supremes/'
 network_extracted: true
 entry_created: '2025-10-19T11:48:19.431020'
 last_updated: '2025-12-23T08:16:16.255989'
-origin: Detroit, Michigan, United States
-
+origin: 'Detroit, Michigan, United States'
+artist_type: band
 ---
 
 ![](supremes.jpg)

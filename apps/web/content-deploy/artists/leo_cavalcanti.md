@@ -3,13 +3,13 @@ title: Leo Cavalcanti
 wiki_slug: leo-cavalcanti
 schema_version: 2
 status: active
-birth_place: São Paulo, São Paulo, Brazil
+birth_place: 'São Paulo, São Paulo, Brazil'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/leo_cavalcanti.jpg
   caption: Leo Cavalcanti
   background: solo_singer
-  origin: São Paulo, São Paulo, Brazil
+  origin: 'São Paulo, São Paulo, Brazil'
 audio_profile:
   tempo_avg: null
   energy_avg: null
@@ -21,36 +21,39 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Martin
-  - Trupe Chá de Boldo
-  - Tata Aeroplano
+    - Martin
+    - Trupe Chá de Boldo
+    - Tata Aeroplano
   influenced:
-  - Castello Branco
-  - Dani Black
+    - Castello Branco
+    - Dani Black
   mentors:
-  - Péricles Cavalcanti
-  - Paulo Tatit & Sandra Perez
+    - Péricles Cavalcanti
+    - Paulo Tatit & Sandra Perez
 spotify_data:
   followers: 0
   id: 619B2cA6wmBLQNwE9oZAAL
   popularity: 4
-  url: https://open.spotify.com/artist/619B2cA6wmBLQNwE9oZAAL
+  url: 'https://open.spotify.com/artist/619B2cA6wmBLQNwE9oZAAL'
 discography_enriched: true
 external_urls:
-  spotify: https://open.spotify.com/artist/619B2cA6wmBLQNwE9oZAAL
-  wikipedia: https://pt.wikipedia.org/wiki/Leo_Cavalcanti
+  spotify: 'https://open.spotify.com/artist/619B2cA6wmBLQNwE9oZAAL'
+  wikipedia: 'https://pt.wikipedia.org/wiki/Leo_Cavalcanti'
 image_path: ''
 biography_enhanced_at: '2025-11-10T03:35:52.770415'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://pt.wikipedia.org/wiki/Leo_Cavalcanti
-- https://www.last.fm/music/Leo+Cavalcanti/+wiki
-- https://www.viberate.com/artist/leo-cavalcanti/
-- https://open.spotify.com/artist/4kCmFwffgs5qxAX2kDeOru
+  - 'https://pt.wikipedia.org/wiki/Leo_Cavalcanti'
+  - 'https://www.last.fm/music/Leo+Cavalcanti/+wiki'
+  - 'https://www.viberate.com/artist/leo-cavalcanti/'
+  - 'https://open.spotify.com/artist/4kCmFwffgs5qxAX2kDeOru'
 network_extracted: true
 entry_created: '2025-11-10T03:35:52.770427'
 last_updated: '2025-12-23T08:16:11.793829'
+origin: 'São Paulo, São Paulo, Brazil'
+birth_date: '1984'
+artist_type: person
 ---
 
 ![]()

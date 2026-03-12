@@ -1,16 +1,16 @@
 ---
-title: Howard tate
+title: Howard Tate
 wiki_slug: howard-tate
 schema_version: 2
 status: active
-birth_place: Eberton, Georgia, United States
+birth_place: 'Eberton, Georgia, United States'
 genres:
-- soul
+  - soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Howard_tate.jpg
   caption: Howard tate
   background: solo_singer
-  origin: Eberton, Georgia, United States
+  origin: 'Eberton, Georgia, United States'
 audio_profile:
   tempo_avg: 122.9
   energy_avg: 0.56
@@ -26,48 +26,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Garnet Mimms
-  - Janis Joplin
-  - Sam Cooke
-  - Wilson Pickett
+    - Garnet Mimms
+    - Janis Joplin
+    - Sam Cooke
+    - Wilson Pickett
   influenced:
-  - Janis Joplin
-  - B.B. King
-  - Soul revivalists and cognoscenti
+    - Janis Joplin
+    - B.B. King
+    - Soul revivalists and cognoscenti
   mentors:
-  - Jerry Ragovoy
-  - Bill Doggett
+    - Jerry Ragovoy
+    - Bill Doggett
 spotify_data:
   followers: 9244
   id: 2z6I01y9cdNA4IlOAIcQED
   popularity: 22
-  url: https://open.spotify.com/artist/2z6I01y9cdNA4IlOAIcQED
+  url: 'https://open.spotify.com/artist/2z6I01y9cdNA4IlOAIcQED'
 discography_enriched: true
 top_tracks:
-- Girl of the North Country (Howard Tate)
-- Get It While You Can (Get It While You Can - The Complete Legendary Verve Sessions)
-- I Learned It All The Hard Way (Get It While You Can - The Complete Legendary Verve Sessions)
-- Get It While You Can (Rediscovered)
-- She's a Burglar (Howard Tate)
-- 8 Days on the Road (Howard Tate)
-- Stop (Get It While You Can - The Complete Legendary Verve Sessions)
-- Where Did My Baby Go (Howard Tate)
-- Keep Cool (Howard Tate)
-- Jemima Surrender (Howard Tate)
+  - Girl of the North Country (Howard Tate)
+  - >-
+    Get It While You Can (Get It While You Can - The Complete Legendary Verve
+    Sessions)
+  - >-
+    I Learned It All The Hard Way (Get It While You Can - The Complete Legendary
+    Verve Sessions)
+  - Get It While You Can (Rediscovered)
+  - She's a Burglar (Howard Tate)
+  - 8 Days on the Road (Howard Tate)
+  - Stop (Get It While You Can - The Complete Legendary Verve Sessions)
+  - Where Did My Baby Go (Howard Tate)
+  - Keep Cool (Howard Tate)
+  - Jemima Surrender (Howard Tate)
 external_urls:
-  spotify: https://open.spotify.com/artist/2z6I01y9cdNA4IlOAIcQED
-  wikipedia: https://en.wikipedia.org/wiki/Howard_Tate
+  spotify: 'https://open.spotify.com/artist/2z6I01y9cdNA4IlOAIcQED'
+  wikipedia: 'https://en.wikipedia.org/wiki/Howard_Tate'
 image_path: 03_Resources/source_material/ArtistPortraits/Howard_tate.jpg
 biography_enhanced_at: '2025-10-19T10:42:29.326565'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://fromthevaults-boppinbob.blogspot.com/2016/08/howard-tate-born-13-august-1939.html
-- http://www.robertchristgau.com/get_artist.php?name=howard+tate
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2016/08/howard-tate-born-13-august-1939.html
+  - 'http://www.robertchristgau.com/get_artist.php?name=howard+tate'
 network_extracted: true
 entry_created: '2025-10-19T10:42:29.326571'
 last_updated: '2025-12-23T08:16:02.270495'
-
+birth_date: '1939-08-13'
+death_date: '2011-12-02'
+artist_type: person
 ---
 
 ![](Howard_tate.jpg)

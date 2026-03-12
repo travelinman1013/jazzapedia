@@ -1,12 +1,12 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-06T02:02:31.275438'
-birth_place: Kenitra, Morocco
+birth_place: 'Kenitra, Morocco, Morocco'
 enhancement_provider: perplexity
 entry_created: '2026-01-06T02:02:31.275444'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9d58da6e-68ad-45b2-9d08-29d960722ade
-  spotify: https://open.spotify.com/artist/2ig1SBm7zJRUlprlhhst5l
+  musicbrainz: 'https://musicbrainz.org/artist/9d58da6e-68ad-45b2-9d08-29d960722ade'
+  spotify: 'https://open.spotify.com/artist/2ig1SBm7zJRUlprlhhst5l'
   wikipedia: ''
 gender: Male
 genres: []
@@ -14,32 +14,35 @@ image_path: 03_Resources/source_material/ArtistPortraits/mahmoud_chouki.jpg
 last_updated: '2026-01-06T02:02:31.275444'
 musical_connections:
   collaborators:
-  - Herlin Riley
-  - Jason Marsalis
-  - Dr. Michael White
-  - John Boutte
-  - Jon Batiste
-  - Jamison Ross
-  - Yusa
+    - Herlin Riley
+    - Jason Marsalis
+    - Dr. Michael White
+    - John Boutte
+    - Jon Batiste
+    - Jamison Ross
+    - Yusa
   influenced: []
   mentors: []
 musicbrainz_id: 9d58da6e-68ad-45b2-9d08-29d960722ade
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://mystickrewe.com/mahmoud24/
-- https://nolajazzmuseum.org/articles/2024/7/22/gallatin-street-records-to-release-caravan-from-marrakech-to-new-orleans-a-full-length-album-by-mahmoud-chouki
-- https://www.tedxmarrakesh.net/archive/2013/speakers/50-mahmoud-chouki.html
-- https://events.tulane.edu/content/moroccan-rhythms-nola-beats-evening-mahmoud-chouki
-- https://creativemornings.com/talks/mahmoud-chouki/1
-- https://www.neworleans.com/listing/mahmoud-chouki/46469/
+  - 'https://mystickrewe.com/mahmoud24/'
+  - >-
+    https://nolajazzmuseum.org/articles/2024/7/22/gallatin-street-records-to-release-caravan-from-marrakech-to-new-orleans-a-full-length-album-by-mahmoud-chouki
+  - 'https://www.tedxmarrakesh.net/archive/2013/speakers/50-mahmoud-chouki.html'
+  - >-
+    https://events.tulane.edu/content/moroccan-rhythms-nola-beats-evening-mahmoud-chouki
+  - 'https://creativemornings.com/talks/mahmoud-chouki/1'
+  - 'https://www.neworleans.com/listing/mahmoud-chouki/46469/'
 spotify_data:
   followers: 1231
   id: 2ig1SBm7zJRUlprlhhst5l
   popularity: 5
-  url: https://open.spotify.com/artist/2ig1SBm7zJRUlprlhhst5l
+  url: 'https://open.spotify.com/artist/2ig1SBm7zJRUlprlhhst5l'
 status: active
 title: Mahmoud Chouki
+birth_date: '1984-05-15'
 ---
 
 ![](mahmoud_chouki.jpg)

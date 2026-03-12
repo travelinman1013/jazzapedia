@@ -5,24 +5,24 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1936-12-23'
-birth_place: Santiago de Cuba
+birth_place: 'San Pedrito, Santiago de Cuba, Cuba'
 death_date: '1992-02-29'
 genres:
-- bolero
-- latin jazz
-- salsa
-- mambo
-- son cubano
-- cha cha cha
+  - bolero
+  - latin jazz
+  - salsa
+  - mambo
+  - son cubano
+  - cha cha cha
 instruments:
-- lead vocals
-- other vocals
+  - lead vocals
+  - other vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: eb84dfab-dda2-48b5-b10a-4bc417d64345
-  name: Trío Tropicuba
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: eb84dfab-dda2-48b5-b10a-4bc417d64345
+    name: Trío Tropicuba
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/la_lupe.jpg
   caption: La Lupe
@@ -45,52 +45,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mongo Santamaría
-  - Tito Puente
-  - Eulogio 'Yoyo' Reyes
+    - Mongo Santamaría
+    - Tito Puente
+    - Eulogio 'Yoyo' Reyes
   influenced:
-  - Celia Cruz
-  - Contemporary Latin Soul and Salsa Artists
+    - Celia Cruz
+    - Contemporary Latin Soul and Salsa Artists
   mentors:
-  - Olga Guillot
+    - Olga Guillot
 spotify_data:
   followers: 56754
   id: 5YR49Hzg7h990JxfXuxm3a
   popularity: 37
-  url: https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a
+  url: 'https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a'
 discography_enriched: true
 top_tracks:
-- Fever (Reina de la Canción Latina)
-- Puro Teatro (La Lupe Es La Reina (The Queen))
-- Yo No Lloro Más (La Ley del Deseo)
-- Qué Te Pedí (Nostalgias)
-- La Tirana (Reina de la Canción Latina)
-- Puro Teatro (Laberinto de Pasiones)
-- Fever Boogaloo (Laberinto de Pasiones)
-- Busamba (Reina de la Canción Latina)
-- Oriente (Dance With The Queen)
-- Si Vuelves Tú (The Two Sides Of La Lupe)
+  - Fever (Reina de la Canción Latina)
+  - Puro Teatro (La Lupe Es La Reina (The Queen))
+  - Yo No Lloro Más (La Ley del Deseo)
+  - Qué Te Pedí (Nostalgias)
+  - La Tirana (Reina de la Canción Latina)
+  - Puro Teatro (Laberinto de Pasiones)
+  - Fever Boogaloo (Laberinto de Pasiones)
+  - Busamba (Reina de la Canción Latina)
+  - Oriente (Dance With The Queen)
+  - Si Vuelves Tú (The Two Sides Of La Lupe)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8d5ac199-b3bf-4e1c-8b27-7e8275cd347b
-  spotify: https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a
-  wikipedia: https://en.wikipedia.org/wiki/La_Lupe
+  musicbrainz: 'https://musicbrainz.org/artist/8d5ac199-b3bf-4e1c-8b27-7e8275cd347b'
+  spotify: 'https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a'
+  wikipedia: 'https://en.wikipedia.org/wiki/La_Lupe'
 image_path: 03_Resources/source_material/ArtistPortraits/la_lupe.jpg
 biography_enhanced_at: '2025-11-23T06:26:15.778442'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/La_Lupe
-- https://www.imdb.com/name/nm0478676/bio/
-- https://www.latinolife.co.uk/articles/la-lupe-singer-1936-1992
-- https://lpbp.org/programs/la-lupe-queen-of-latin-soul/
+  - 'https://en.wikipedia.org/wiki/La_Lupe'
+  - 'https://www.imdb.com/name/nm0478676/bio/'
+  - 'https://www.latinolife.co.uk/articles/la-lupe-singer-1936-1992'
+  - 'https://lpbp.org/programs/la-lupe-queen-of-latin-soul/'
 network_extracted: true
 entry_created: '2025-11-23T06:26:15.778453'
 last_updated: '2025-12-23T08:16:11.533360'
 gender: Female
 musicbrainz_id: 8d5ac199-b3bf-4e1c-8b27-7e8275cd347b
 tags:
-- salsa
-- soul
+  - salsa
+  - soul
+is_active: false
 ---
 
 ![](la_lupe.jpg)

@@ -1,66 +1,66 @@
 ---
-title: jason isbell
+title: Jason Isbell
 wiki_slug: jason-isbell
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1979-02-01'
-birth_place: Green Hill
+birth_place: 'Green Hill, Alabama, United States'
 genres:
-- alt country
-- americana
-- roots rock
-- red dirt
+  - alt country
+  - americana
+  - roots rock
+  - red dirt
 instruments:
-- lead vocals
-- guitar
-- eponymous
-- original
-- electric guitar
-- acoustic guitar
-- piano
-- slide guitar
-- baritone guitar
-- resonator guitar
-- Wurlitzer electric piano
-- background vocals
-- choir vocals
+  - lead vocals
+  - guitar
+  - eponymous
+  - original
+  - electric guitar
+  - acoustic guitar
+  - piano
+  - slide guitar
+  - baritone guitar
+  - resonator guitar
+  - Wurlitzer electric piano
+  - background vocals
+  - choir vocals
 associated_acts:
-- begin: '2001'
-  end: '2007-04-05'
-  instruments:
-  - lead vocals
-  mbid: 8eae1e0a-1696-4532-9e3c-0a072217ef4c
-  name: Drive‐By Truckers
-- begin: '2001'
-  end: '2007-04-05'
-  instruments:
-  - guitar
-  mbid: 8eae1e0a-1696-4532-9e3c-0a072217ef4c
-  name: Drive‐By Truckers
-- begin: '2009'
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 857c2983-0a33-466f-8607-28504ba8a6c0
-  name: Jason Isbell and the 400 Unit
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - guitar
-  - original
-  mbid: 0e372978-e9b2-426e-9624-9c694cbef591
-  name: Jason Isbell and Friends
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - lead vocals
-  - original
-  mbid: 0e372978-e9b2-426e-9624-9c694cbef591
-  name: Jason Isbell and Friends
+  - begin: '2001'
+    end: '2007-04-05'
+    instruments:
+      - lead vocals
+    mbid: 8eae1e0a-1696-4532-9e3c-0a072217ef4c
+    name: Drive‐By Truckers
+  - begin: '2001'
+    end: '2007-04-05'
+    instruments:
+      - guitar
+    mbid: 8eae1e0a-1696-4532-9e3c-0a072217ef4c
+    name: Drive‐By Truckers
+  - begin: '2009'
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 857c2983-0a33-466f-8607-28504ba8a6c0
+    name: Jason Isbell and the 400 Unit
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - guitar
+      - original
+    mbid: 0e372978-e9b2-426e-9624-9c694cbef591
+    name: Jason Isbell and Friends
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - lead vocals
+      - original
+    mbid: 0e372978-e9b2-426e-9624-9c694cbef591
+    name: Jason Isbell and Friends
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jason_isbell.jpg
   caption: jason isbell
@@ -74,7 +74,7 @@ audio_profile:
   danceability_avg: 0.489
   acousticness_avg: 0.527
   instrumentalness_avg: 0.012
-  loudness_avg: -10.0
+  loudness_avg: -10
   speechiness_avg: 0.033
   liveness_avg: 0.249
   track_count: 70
@@ -82,58 +82,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Drive-By Truckers
-  - The 400 Unit
-  - Amanda Shires
-  - John Paul White
+    - Drive-By Truckers
+    - The 400 Unit
+    - Amanda Shires
+    - John Paul White
   influenced:
-  - Brent Cobb
-  - Ruston Kelly
+    - Brent Cobb
+    - Ruston Kelly
   mentors:
-  - Rick Hall
-  - David Hood
+    - Rick Hall
+    - David Hood
 spotify_data:
   followers: 473980
   id: 3Q8wgwyVVv0z4UEh1HB0KY
   popularity: 54
-  url: https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY
+  url: 'https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY'
 discography_enriched: true
 top_tracks:
-- Cover Me Up (Southeastern)
-- Crimson and Clay (Foxes in the Snow)
-- Bury Me (Foxes in the Snow)
-- Ride to Robert's (Foxes in the Snow)
-- Gravelweed (Foxes in the Snow)
-- Eileen (Foxes in the Snow)
-- Good While It Lasted (Foxes in the Snow)
-- Don't Be Tough (Foxes in the Snow)
-- Open and Close (Foxes in the Snow)
-- Foxes in the Snow (Foxes in the Snow)
+  - Cover Me Up (Southeastern)
+  - Crimson and Clay (Foxes in the Snow)
+  - Bury Me (Foxes in the Snow)
+  - Ride to Robert's (Foxes in the Snow)
+  - Gravelweed (Foxes in the Snow)
+  - Eileen (Foxes in the Snow)
+  - Good While It Lasted (Foxes in the Snow)
+  - Don't Be Tough (Foxes in the Snow)
+  - Open and Close (Foxes in the Snow)
+  - Foxes in the Snow (Foxes in the Snow)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4c501a41-5f23-41c9-a36a-5b86e894e08d
-  spotify: https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY
-  wikipedia: https://en.wikipedia.org/wiki/Jason_Isbell
+  musicbrainz: 'https://musicbrainz.org/artist/4c501a41-5f23-41c9-a36a-5b86e894e08d'
+  spotify: 'https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jason_Isbell'
 image_path: 03_Resources/source_material/ArtistPortraits/jason_isbell.jpg
 biography_enhanced_at: '2025-11-22T07:42:38.434310'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jason_Isbell
-- https://encyclopediaofalabama.org/article/jason-isbell
-- https://famestudios.com/jason-isbell-2/
-- https://billybobstexas.com/artists/jason-isbell
-- https://gardenandgun.com/feature/jason-isbell-music-city-maverick/
-- https://bittersoutherner.com/feature/2023/jason-isbell-is-walking-tall
-- https://wildsam.com/stories/jason-isbell-s-been-everywhere
+  - 'https://en.wikipedia.org/wiki/Jason_Isbell'
+  - 'https://encyclopediaofalabama.org/article/jason-isbell'
+  - 'https://famestudios.com/jason-isbell-2/'
+  - 'https://billybobstexas.com/artists/jason-isbell'
+  - 'https://gardenandgun.com/feature/jason-isbell-music-city-maverick/'
+  - 'https://bittersoutherner.com/feature/2023/jason-isbell-is-walking-tall'
+  - 'https://wildsam.com/stories/jason-isbell-s-been-everywhere'
 network_extracted: true
 entry_created: '2025-11-22T07:42:38.434325'
 last_updated: '2025-12-23T08:16:10.247305'
 gender: Male
 musicbrainz_id: 4c501a41-5f23-41c9-a36a-5b86e894e08d
 tags:
-- alternative country
-- classic country
-- country
+  - alternative country
+  - classic country
+  - country
+origin: 'Muscle Shoals, Alabama, United States'
 ---
 
 ![](jason_isbell.jpg)

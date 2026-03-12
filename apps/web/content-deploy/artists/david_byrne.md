@@ -1,86 +1,87 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '1975'
-  end: '1991'
-  instruments:
-  - original
-  mbid: a94a7155-c79d-4409-9fcf-220cb0e4dc3a
-  name: Talking Heads
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d14bf1dc-941d-48ed-b84b-dfe1c98bded5
-  name: The Pieces of Shit
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 73f28b74-c742-4fba-ac14-4607d1b82e23
-  name: Shag Haired Villains
+  - begin: '1975'
+    end: '1991'
+    instruments:
+      - original
+    mbid: a94a7155-c79d-4409-9fcf-220cb0e4dc3a
+    name: Talking Heads
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d14bf1dc-941d-48ed-b84b-dfe1c98bded5
+    name: The Pieces of Shit
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 73f28b74-c742-4fba-ac14-4607d1b82e23
+    name: Shag Haired Villains
 biography_enhanced_at: '2026-01-20T01:19:05.047118'
 birth_date: '1952-05-14'
-birth_place: Dumbarton
+birth_place: 'Dumbarton, Dunbartonshire, Scotland'
 disambiguation: Talking Heads
 enhancement_provider: perplexity
 entry_created: '2026-01-20T01:19:05.047123'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d4659efb-b8eb-4f03-95e9-f69ce35967a9
-  spotify: https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB
-  wikipedia: https://en.wikipedia.org/wiki/David_Byrne
+  musicbrainz: 'https://musicbrainz.org/artist/d4659efb-b8eb-4f03-95e9-f69ce35967a9'
+  spotify: 'https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB'
+  wikipedia: 'https://en.wikipedia.org/wiki/David_Byrne'
 gender: Male
 genres:
-- art rock
-- art pop
+  - art rock
+  - art pop
 image_path: 03_Resources/source_material/ArtistPortraits/david_byrne.jpg
 instruments:
-- original
-- guitar
-- lap steel guitar
-- electric guitar
-- acoustic guitar
-- guitar family
-- toy piano
-- slide guitar
-- bass guitar
-- resonator guitar
-- piano
-- classical guitar
-- guitar synthesizer
-- 12 string guitar
-- Hawaiian guitar
-- lead vocals
-- background vocals
-- spoken vocals
-- other vocals
+  - original
+  - guitar
+  - lap steel guitar
+  - electric guitar
+  - acoustic guitar
+  - guitar family
+  - toy piano
+  - slide guitar
+  - bass guitar
+  - resonator guitar
+  - piano
+  - classical guitar
+  - guitar synthesizer
+  - 12 string guitar
+  - Hawaiian guitar
+  - lead vocals
+  - background vocals
+  - spoken vocals
+  - other vocals
 last_updated: '2026-01-20T01:19:05.047124'
 musical_connections:
   collaborators:
-  - Tina Weymouth
-  - Chris Frantz
-  - Jerry Harrison
-  - St. Vincent
+    - Tina Weymouth
+    - Chris Frantz
+    - Jerry Harrison
+    - St. Vincent
   influenced: []
   mentors:
-  - Brian Eno
+    - Brian Eno
 musicbrainz_id: d4659efb-b8eb-4f03-95e9-f69ce35967a9
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/David_Byrne
-- https://www.carnegie.org/awards/honoree/david-byrne/
-- https://www.britannica.com/biography/David-Byrne
-- https://www.youtube.com/watch?v=jfzPIGp3PFQ
+  - 'https://en.wikipedia.org/wiki/David_Byrne'
+  - 'https://www.carnegie.org/awards/honoree/david-byrne/'
+  - 'https://www.britannica.com/biography/David-Byrne'
+  - 'https://www.youtube.com/watch?v=jfzPIGp3PFQ'
 spotify_data:
   followers: 457377
   id: 20vuBdFblWUo2FCOvUzusB
   popularity: 57
-  url: https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB
+  url: 'https://open.spotify.com/artist/20vuBdFblWUo2FCOvUzusB'
 status: active
 tags:
-- art pop
-- art rock
-- crossover prog
+  - art pop
+  - art rock
+  - crossover prog
 title: David Byrne
+origin: 'New York City, New York, United States'
 ---
 
 ![](david_byrne.jpg)

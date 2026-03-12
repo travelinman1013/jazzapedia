@@ -5,12 +5,12 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1931-04-17'
-birth_place: Los Angeles
+birth_place: 'Los Angeles, California, United States'
 death_date: '2017-02-05'
 genres:
-- jazz funk
-- baroque pop
-- acid rock
+  - jazz funk
+  - baroque pop
+  - acid rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/david_axelrod.jpg
   caption: David Axelrod
@@ -33,47 +33,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lou Rawls
-  - Julian 'Cannonball' Adderley
-  - Electric Prunes
-  - Carol Kaye, Earl Palmer, Howard Roberts
+    - Lou Rawls
+    - Julian 'Cannonball' Adderley
+    - Electric Prunes
+    - 'Carol Kaye, Earl Palmer, Howard Roberts'
   influenced:
-  - Dr. Dre
-  - DJ Shadow
-  - Pete Rock
-  - Lauryn Hill, Eminem, Lil Wayne, Common, Black Eyed Peas, Macy Gray
+    - Dr. Dre
+    - DJ Shadow
+    - Pete Rock
+    - 'Lauryn Hill, Eminem, Lil Wayne, Common, Black Eyed Peas, Macy Gray'
   mentors:
-  - William Blake
+    - William Blake
 spotify_data:
   followers: 39554
   id: 4hCKF3RZSkFSMntkfCxO74
   popularity: 29
-  url: https://open.spotify.com/artist/4hCKF3RZSkFSMntkfCxO74
+  url: 'https://open.spotify.com/artist/4hCKF3RZSkFSMntkfCxO74'
 discography_enriched: true
 top_tracks:
-- Holy Thursday (Song Of Innocence)
-- The Human Abstract (Songs Of Experience)
-- The Smile (Song Of Innocence)
-- Don't You Worry 'Bout A Thing (Heavy Axe)
-- Get Up Off Your Knees (Heavy Axe)
-- Cast Your Fate To The Wind (Heavy Axe)
-- Mucho Chupar (Heavy Axe)
-- Urizen (Song Of Innocence)
-- The Signs Part One - Instrumental
-- Song Of Innocence (Song Of Innocence)
+  - Holy Thursday (Song Of Innocence)
+  - The Human Abstract (Songs Of Experience)
+  - The Smile (Song Of Innocence)
+  - Don't You Worry 'Bout A Thing (Heavy Axe)
+  - Get Up Off Your Knees (Heavy Axe)
+  - Cast Your Fate To The Wind (Heavy Axe)
+  - Mucho Chupar (Heavy Axe)
+  - Urizen (Song Of Innocence)
+  - The Signs Part One - Instrumental
+  - Song Of Innocence (Song Of Innocence)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d5c756c1-4872-457b-8f00-d620547cbb85
-  spotify: https://open.spotify.com/artist/4hCKF3RZSkFSMntkfCxO74
-  wikipedia: https://en.wikipedia.org/wiki/David_Axelrod_(musician)
+  musicbrainz: 'https://musicbrainz.org/artist/d5c756c1-4872-457b-8f00-d620547cbb85'
+  spotify: 'https://open.spotify.com/artist/4hCKF3RZSkFSMntkfCxO74'
+  wikipedia: 'https://en.wikipedia.org/wiki/David_Axelrod_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/david_axelrod.jpg
 biography_enhanced_at: '2025-11-06T13:36:22.987402'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/David+Axelrod/+wiki
-- https://daily.redbullmusicacademy.com/2014/01/david-axelrod-guide/
-- https://concord.com/artist/david-axelrod/
-- https://www.kcrw.com/stories/an-inimitable-musical-genius-rip-david-axelrod-1931-2017
+  - 'https://www.last.fm/music/David+Axelrod/+wiki'
+  - 'https://daily.redbullmusicacademy.com/2014/01/david-axelrod-guide/'
+  - 'https://concord.com/artist/david-axelrod/'
+  - >-
+    https://www.kcrw.com/stories/an-inimitable-musical-genius-rip-david-axelrod-1931-2017
 network_extracted: true
 entry_created: '2025-11-06T13:36:22.987422'
 last_updated: '2025-12-23T08:16:07.531776'
@@ -81,10 +82,10 @@ disambiguation: baroque pop composer
 gender: Male
 musicbrainz_id: d5c756c1-4872-457b-8f00-d620547cbb85
 tags:
-- art pop
-- baroque pop
-- funk
-
+  - art pop
+  - baroque pop
+  - funk
+is_active: false
 ---
 
 ![](david_axelrod.jpg)

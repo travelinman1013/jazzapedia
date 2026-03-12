@@ -4,9 +4,9 @@ wiki_slug: tiago-guy-renee-gros
 schema_version: 2
 status: active
 genres:
-- organic house
-- progressive house
-- melodic house
+  - organic house
+  - progressive house
+  - melodic house
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/tiago_guy_renee_gros.jpg
   caption: Tiago Guy/ Renee Gros
@@ -26,46 +26,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jon Cleary
-  - Nigel Hall
-  - John Fohl
-  - The Zion Harmonizers
-  - Renée Gros
+    - Jon Cleary
+    - Nigel Hall
+    - John Fohl
+    - The Zion Harmonizers
+    - Renée Gros
   influenced: []
   mentors:
-  - James Taylor
+    - James Taylor
 spotify_data:
   followers: 480
   id: 6C6dFNG3Vjv3foI2lJ5GWP
   popularity: 4
-  url: https://open.spotify.com/artist/6C6dFNG3Vjv3foI2lJ5GWP
+  url: 'https://open.spotify.com/artist/6C6dFNG3Vjv3foI2lJ5GWP'
 discography_enriched: true
 top_tracks:
-- Translation (Translation)
-- Translation - Original Radio Edit (Translation)
-- Translation - Last Men On Earth Remix (Translation)
-- Feelings - Tiago de Renor Remix Radio Edit (Feelings)
-- Translation - Last Men On Earth Remix Radio Edit (Translation)
-- Kids - Tiago de Renor Remix - Mixed (Big Bells 136 [November 2024] (DJ Mix))
-- Where's The DJ? - Siavash, Tiago de Renor Remix (Where’s The DJ?)
-- Remote - Siavash, Tiago de Renor Remix (Remote)
-- Other Side - Interpretation (Sensitivity Spirals)
-- Out of Touch - LADS Remix - Mixed (Summer 2022 (DJ Mix))
+  - Translation (Translation)
+  - Translation - Original Radio Edit (Translation)
+  - Translation - Last Men On Earth Remix (Translation)
+  - Feelings - Tiago de Renor Remix Radio Edit (Feelings)
+  - Translation - Last Men On Earth Remix Radio Edit (Translation)
+  - 'Kids - Tiago de Renor Remix - Mixed (Big Bells 136 [November 2024] (DJ Mix))'
+  - 'Where''s The DJ? - Siavash, Tiago de Renor Remix (Where’s The DJ?)'
+  - 'Remote - Siavash, Tiago de Renor Remix (Remote)'
+  - Other Side - Interpretation (Sensitivity Spirals)
+  - Out of Touch - LADS Remix - Mixed (Summer 2022 (DJ Mix))
 external_urls:
-  spotify: https://open.spotify.com/artist/6C6dFNG3Vjv3foI2lJ5GWP
+  spotify: 'https://open.spotify.com/artist/6C6dFNG3Vjv3foI2lJ5GWP'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/tiago_guy_renee_gros.jpg
 biography_enhanced_at: '2025-12-04T07:49:21.001688'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://tiagoguy.com
-- https://www.reneegros.com
-- https://crescentcitysounds.org/artists/renee-gros
-- https://www.neworleans.com/listing/renée-gros/47493/
+  - 'https://tiagoguy.com'
+  - 'https://www.reneegros.com'
+  - 'https://crescentcitysounds.org/artists/renee-gros'
+  - 'https://www.neworleans.com/listing/renée-gros/47493/'
 network_extracted: true
 entry_created: '2025-12-04T07:49:21.001699'
 last_updated: '2025-12-23T08:16:17.420430'
+origin: >-
+  New Orleans, Louisiana, United States (Renée Gros birthplace); Brazil to New
+  Orleans, Louisiana, United States (Tiago Guy origin and current base)
+artist_type: person
 ---
 
 ![](tiago_guy_renee_gros.jpg)

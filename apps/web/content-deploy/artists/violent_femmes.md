@@ -2,11 +2,11 @@
 title: Violent Femmes
 wiki_slug: violent-femmes
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
-birth_date: '1980'
+birth_date: '1981'
 genres:
-- folk punk
+  - folk punk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/violent_femmes.jpg
   caption: Violent Femmes
@@ -27,103 +27,103 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Gordon Gano
-  - Brian Ritchie
-  - Victor DeLorenzo
-  - Jerry Harrison
-  - Blaise Garza
-  - John Sparrow
+    - Gordon Gano
+    - Brian Ritchie
+    - Victor DeLorenzo
+    - Jerry Harrison
+    - Blaise Garza
+    - John Sparrow
   influenced:
-  - Nirvana
-  - The Smiths
-  - The Pixies
-  - Pink
-  - Keith Urban
+    - Nirvana
+    - The Smiths
+    - The Pixies
+    - Pink
+    - Keith Urban
   mentors:
-  - Gene Vincent and the Blue Caps
-  - The Velvet Underground
+    - Gene Vincent and the Blue Caps
+    - The Velvet Underground
 spotify_data:
   followers: 833203
   id: 0rpMdBzQXf7aYRnu5fDBJy
   popularity: 56
-  url: https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy
+  url: 'https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy'
 discography_enriched: true
 top_tracks:
-- Blister In The Sun (Violent Femmes)
-- Kiss Off (Violent Femmes)
-- Add It Up (Violent Femmes)
-- Gone Daddy Gone (Violent Femmes)
-- Blister In The Sun (Add It Up (1981-1993))
-- American Music (Why Do Birds Sing?)
-- Please Do Not Go (Violent Femmes)
-- Good Feeling (Violent Femmes)
-- Prove My Love (Violent Femmes)
-- Color Me Once
+  - Blister In The Sun (Violent Femmes)
+  - Kiss Off (Violent Femmes)
+  - Add It Up (Violent Femmes)
+  - Gone Daddy Gone (Violent Femmes)
+  - Blister In The Sun (Add It Up (1981-1993))
+  - American Music (Why Do Birds Sing?)
+  - Please Do Not Go (Violent Femmes)
+  - Good Feeling (Violent Femmes)
+  - Prove My Love (Violent Femmes)
+  - Color Me Once
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2aab61bc-67f4-4722-8c6e-e1821b2e32a6
-  spotify: https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy
-  wikipedia: https://en.wikipedia.org/wiki/Violent_Femmes
+  musicbrainz: 'https://musicbrainz.org/artist/2aab61bc-67f4-4722-8c6e-e1821b2e32a6'
+  spotify: 'https://open.spotify.com/artist/0rpMdBzQXf7aYRnu5fDBJy'
+  wikipedia: 'https://en.wikipedia.org/wiki/Violent_Femmes'
 image_path: 03_Resources/source_material/ArtistPortraits/violent_femmes.jpg
 biography_enhanced_at: '2025-10-29T16:59:27.575527'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Violent_Femmes
-- https://concord.com/artist/violent-femmes/
-- https://www.laphil.com/musicdb/artists/6697/violent-femmes
-- http://mujitsu.com/vfemmes/bandinfo.html
+  - 'https://en.wikipedia.org/wiki/Violent_Femmes'
+  - 'https://concord.com/artist/violent-femmes/'
+  - 'https://www.laphil.com/musicdb/artists/6697/violent-femmes'
+  - 'http://mujitsu.com/vfemmes/bandinfo.html'
 network_extracted: true
 entry_created: '2025-10-29T16:59:27.575535'
 last_updated: '2025-12-23T08:16:17.928679'
 members:
-- begin: '1980'
-  end: '2013'
-  instruments: []
-  mbid: 7dfc1931-8072-4939-8387-77be892ff621
-  name: Victor DeLorenzo
-- &id001
-  begin: '1980'
-  end: ''
-  instruments: []
-  mbid: 172cc643-4a56-4e46-b168-96ca998b1627
-  name: Brian Ritchie
-- &id002
-  begin: '1981'
-  end: ''
-  instruments: []
-  mbid: 93ee6a4f-bf30-40c4-80fd-0026f3cd60fa
-  name: Gordon Gano
-- begin: '1993'
-  end: '2002'
-  instruments: []
-  mbid: 92e8e8f1-32dc-4e56-8462-5f31aea7a9c7
-  name: Guy Hoffman
-- &id003
-  begin: '2005'
-  end: ''
-  instruments: []
-  mbid: abc19009-8135-4d7a-8fa2-f4c74e62032e
-  name: John Sparrow
-- begin: '2013'
-  end: '2016'
-  instruments: []
-  mbid: 0822fc16-0f85-4bb9-a342-725d112be93d
-  name: Brian Viglione
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 54059e9e-ae64-4942-b55d-0d6098fa29bb
-  name: Jeff Hamilton
+  - begin: '1980'
+    end: '2013'
+    instruments: []
+    mbid: 7dfc1931-8072-4939-8387-77be892ff621
+    name: Victor DeLorenzo
+  - &ref_0
+    begin: '1980'
+    end: ''
+    instruments: []
+    mbid: 172cc643-4a56-4e46-b168-96ca998b1627
+    name: Brian Ritchie
+  - &ref_1
+    begin: '1981'
+    end: ''
+    instruments: []
+    mbid: 93ee6a4f-bf30-40c4-80fd-0026f3cd60fa
+    name: Gordon Gano
+  - begin: '1993'
+    end: '2002'
+    instruments: []
+    mbid: 92e8e8f1-32dc-4e56-8462-5f31aea7a9c7
+    name: Guy Hoffman
+  - &ref_2
+    begin: '2005'
+    end: ''
+    instruments: []
+    mbid: abc19009-8135-4d7a-8fa2-f4c74e62032e
+    name: John Sparrow
+  - begin: '2013'
+    end: '2016'
+    instruments: []
+    mbid: 0822fc16-0f85-4bb9-a342-725d112be93d
+    name: Brian Viglione
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 54059e9e-ae64-4942-b55d-0d6098fa29bb
+    name: Jeff Hamilton
 musicbrainz_id: 2aab61bc-67f4-4722-8c6e-e1821b2e32a6
-origin: Milwaukee
+origin: 'Milwaukee, Wisconsin, United States'
 original_members:
-- *id001
-- *id002
-- *id003
+  - *ref_0
+  - *ref_1
+  - *ref_2
 tags:
-- acoustic rock
-- alternative rock
-- cowpunk
+  - acoustic rock
+  - alternative rock
+  - cowpunk
 ---
 
 ![](violent_femmes.jpg)

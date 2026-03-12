@@ -1,13 +1,13 @@
 ---
-title: khruangbin, leon bridges
+title: Khruangbin
 wiki_slug: khruangbin-leon-bridges
 schema_version: 2
 status: active
 genres:
-- neo-psychedelic
+  - neo-psychedelic
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/khruangbin_leon_bridges.jpg
-  caption: khruangbin, leon bridges
+  caption: 'khruangbin, leon bridges'
   background: solo_singer
 audio_profile:
   tempo_avg: 98.6
@@ -24,46 +24,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bonobo
-  - Macklemore and Ryan Lewis
+    - Bonobo
+    - Macklemore and Ryan Lewis
   influenced:
-  - Various artists
+    - Various artists
   mentors:
-  - Bonobo
+    - Bonobo
 spotify_data:
   followers: 2181432
   id: 2mVVjNmdjXZZDvhgQWiakk
   popularity: 68
-  url: https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk
+  url: 'https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk'
 discography_enriched: true
 top_tracks:
-- Texas Sun
-- Mariella
-- May Ninth (A LA SALA)
-- People Everywhere (Still Alive) (The Universe Smiles Upon You)
-- White Gloves (The Universe Smiles Upon You)
-- B-Side
-- So We Won't Forget (Mordechai)
-- Time (You and I) (Mordechai)
-- Midnight
-- Pon Pón (A LA SALA)
+  - Texas Sun
+  - Mariella
+  - May Ninth (A LA SALA)
+  - People Everywhere (Still Alive) (The Universe Smiles Upon You)
+  - White Gloves (The Universe Smiles Upon You)
+  - B-Side
+  - So We Won't Forget (Mordechai)
+  - Time (You and I) (Mordechai)
+  - Midnight
+  - Pon Pón (A LA SALA)
 external_urls:
-  spotify: https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk
-  wikipedia: https://en.wikipedia.org/wiki/Khruangbin, https://en.wikipedia.org/wiki/Leon_Bridges
+  spotify: 'https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk'
+  wikipedia: >-
+    https://en.wikipedia.org/wiki/Khruangbin,
+    https://en.wikipedia.org/wiki/Leon_Bridges
 image_path: 03_Resources/source_material/ArtistPortraits/khruangbin_leon_bridges.jpg
 biography_enhanced_at: '2025-10-20T09:26:36.499119'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Music Mil
-- The Ransom Note
-- Live for Live Music
-- The Attic
-- New City Music
-- Riffipedia
+  - Music Mil
+  - The Ransom Note
+  - Live for Live Music
+  - The Attic
+  - New City Music
+  - Riffipedia
 network_extracted: true
 entry_created: '2025-10-20T09:26:36.499140'
 last_updated: '2025-12-23T08:16:11.351412'
+origin: 'Houston, Texas, United States'
+artist_type: person
 ---
 
 ![](khruangbin_leon_bridges.jpg)

@@ -3,17 +3,21 @@ title: Martin Campbell
 wiki_slug: martin-campbell
 schema_version: 2
 status: active
-birth_place: Jamaica (birthplace); later Halfway Tree, Kingston, Jamaica, and Southern England, UK (origin of career)
+birth_place: >-
+  Jamaica (birthplace); later Halfway Tree, Kingston, Jamaica, and Southern
+  England, UK (origin of career)
 genres:
-- dub
-- roots reggae
-- reggae
-- rocksteady
+  - dub
+  - roots reggae
+  - reggae
+  - rocksteady
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/martin_campbell.jpg
   caption: Martin Campbell
   background: solo_singer
-  origin: Jamaica (birthplace); later Halfway Tree, Kingston, Jamaica, and Southern England, UK (origin of career)
+  origin: >-
+    Jamaica (birthplace); later Halfway Tree, Kingston, Jamaica, and Southern
+    England, UK (origin of career)
 audio_profile:
   tempo_avg: 126.9
   energy_avg: 0.412
@@ -29,46 +33,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Hi-Tech Roots Dynamics
-  - Alien Dread
+    - Hi-Tech Roots Dynamics
+    - Alien Dread
   influenced:
-  - Alpha & Omega
-  - Disciples
-  - Aba Shanti-I
+    - Alpha & Omega
+    - Disciples
+    - Aba Shanti-I
   mentors:
-  - Jo Jo Hookim
+    - Jo Jo Hookim
 spotify_data:
   followers: 21773
   id: 7zTMkFsQ6fsSOI0irQFITs
   popularity: 35
-  url: https://open.spotify.com/artist/7zTMkFsQ6fsSOI0irQFITs
+  url: 'https://open.spotify.com/artist/7zTMkFsQ6fsSOI0irQFITs'
 discography_enriched: true
 top_tracks:
-- Give the Poor Man a Try (Take a Look)
-- Richman (Historical Tracks 1978-1981)
-- Jah Love (Rootsman)
-- Ignorance & Poverty (Various Classics)
-- Hard Living (Take a Look)
-- Tears Form (Take a Look)
-- Babylon Come (Historical Tracks 1978-1981)
-- Crazy Circus (Various Classics)
-- Ignorance & Poverty Dub (Alien Dread in DUB with Martin Campbell & The Hi-Tech Roots Dynamics Vol. 2)
-- Got to Pray (Various Classics)
+  - Give the Poor Man a Try (Take a Look)
+  - Richman (Historical Tracks 1978-1981)
+  - Jah Love (Rootsman)
+  - Ignorance & Poverty (Various Classics)
+  - Hard Living (Take a Look)
+  - Tears Form (Take a Look)
+  - Babylon Come (Historical Tracks 1978-1981)
+  - Crazy Circus (Various Classics)
+  - >-
+    Ignorance & Poverty Dub (Alien Dread in DUB with Martin Campbell & The
+    Hi-Tech Roots Dynamics Vol. 2)
+  - Got to Pray (Various Classics)
 external_urls:
-  spotify: https://open.spotify.com/artist/7zTMkFsQ6fsSOI0irQFITs
+  spotify: 'https://open.spotify.com/artist/7zTMkFsQ6fsSOI0irQFITs'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/martin_campbell.jpg
 biography_enhanced_at: '2025-10-27T02:50:16.462614'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://bassculture.substack.com/p/martin-campbell-roots-revivalist
-- https://www.last.fm/music/Martin+Campbell/+wiki
-- https://es.reggae-lyrics.com/artist/martin-campbell
-- https://reggaemani.wordpress.com/2012/04/07/an-excellent-martin-campbell-rootspective/
+  - 'https://bassculture.substack.com/p/martin-campbell-roots-revivalist'
+  - 'https://www.last.fm/music/Martin+Campbell/+wiki'
+  - 'https://es.reggae-lyrics.com/artist/martin-campbell'
+  - >-
+    https://reggaemani.wordpress.com/2012/04/07/an-excellent-martin-campbell-rootspective/
 network_extracted: true
 entry_created: '2025-10-27T02:50:16.462622'
 last_updated: '2025-12-23T08:16:12.734957'
+birth_date: '1955'
+artist_type: person
 ---
 
 ![](martin_campbell.jpg)

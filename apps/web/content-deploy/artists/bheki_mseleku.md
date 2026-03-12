@@ -5,13 +5,13 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1955-03-03'
-birth_place: Durban
+birth_place: 'Durban, KwaZulu-Natal, South Africa'
 death_date: '2008-09-09'
 genres:
-- jazz
+  - jazz
 instruments:
-- piano
-- background vocals
+  - piano
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bheki_mseleku.jpg
   caption: Bheki Mseleku
@@ -34,56 +34,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Courtney Pine
-  - Steve Williamson
-  - Joe Henderson
-  - Pharoah Sanders
-  - Elvin Jones
-  - Abbey Lincoln
-  - Philip Tabane
+    - Courtney Pine
+    - Steve Williamson
+    - Joe Henderson
+    - Pharoah Sanders
+    - Elvin Jones
+    - Abbey Lincoln
+    - Philip Tabane
   influenced:
-  - Andile Yenana
-  - Younger South African jazz pianists
+    - Andile Yenana
+    - Younger South African jazz pianists
   mentors:
-  - McCoy Tyner
-  - Alice Coltrane
+    - McCoy Tyner
+    - Alice Coltrane
 spotify_data:
   followers: 7626
   id: 49D0LjaqSUYrGdjDUL8klj
   popularity: 15
-  url: https://open.spotify.com/artist/49D0LjaqSUYrGdjDUL8klj
+  url: 'https://open.spotify.com/artist/49D0LjaqSUYrGdjDUL8klj'
 discography_enriched: true
 top_tracks:
-- Home at Last (Home at Last)
-- Angola (Celebration)
-- Closer to the Source (Celebration)
-- Celebration (Celebration)
-- The Age of Inner Knowing (Celebration)
-- Monwabisi (Home at Last)
-- Joy (Celebration)
-- Sandile (Home at Last)
-- Mamelodi (Home at Last)
-- Nants' Inkululeko (Home at Last)
+  - Home at Last (Home at Last)
+  - Angola (Celebration)
+  - Closer to the Source (Celebration)
+  - Celebration (Celebration)
+  - The Age of Inner Knowing (Celebration)
+  - Monwabisi (Home at Last)
+  - Joy (Celebration)
+  - Sandile (Home at Last)
+  - Mamelodi (Home at Last)
+  - Nants' Inkululeko (Home at Last)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1c1c5264-ab73-4af4-84a0-ceb18b928f30
-  spotify: https://open.spotify.com/artist/49D0LjaqSUYrGdjDUL8klj
-  wikipedia: https://en.wikipedia.org/wiki/Bheki_Mseleku
+  musicbrainz: 'https://musicbrainz.org/artist/1c1c5264-ab73-4af4-84a0-ceb18b928f30'
+  spotify: 'https://open.spotify.com/artist/49D0LjaqSUYrGdjDUL8klj'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bheki_Mseleku'
 image_path: 03_Resources/source_material/ArtistPortraits/bheki_mseleku.jpg
 biography_enhanced_at: '2025-11-04T10:50:38.159815'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://burningambulance.com/2021/03/23/bheki-mseleku/
-- http://www.music.org.za/artist.asp?id=179
-- https://sahistory.org.za/people/bhekumuzi-hyacinth-mseleku
-- https://jazzdelapena.com/profiles/multi-instrumentalist-composer-arranger-bheki-mseleku/
+  - 'https://burningambulance.com/2021/03/23/bheki-mseleku/'
+  - 'http://www.music.org.za/artist.asp?id=179'
+  - 'https://sahistory.org.za/people/bhekumuzi-hyacinth-mseleku'
+  - >-
+    https://jazzdelapena.com/profiles/multi-instrumentalist-composer-arranger-bheki-mseleku/
 network_extracted: true
 entry_created: '2025-11-04T10:50:38.159824'
 last_updated: '2025-12-23T08:16:05.388651'
 gender: Male
 musicbrainz_id: 1c1c5264-ab73-4af4-84a0-ceb18b928f30
 tags:
-- jazz
+  - jazz
+is_active: false
 ---
 
 ![](bheki_mseleku.jpg)

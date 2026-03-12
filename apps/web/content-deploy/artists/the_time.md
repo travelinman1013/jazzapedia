@@ -4,8 +4,8 @@ wiki_slug: the-time
 schema_version: 2
 status: active
 genres:
-- funk rock
-- post-disco
+  - funk rock
+  - post-disco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_time.jpg
   caption: The Time
@@ -25,55 +25,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Morris Day
-  - Jimmy Jam (James Harris III)
-  - Terry Lewis
-  - Jesse Johnson
-  - Monte Moir
-  - Jellybean Johnson
-  - Jerome Benton
+    - Morris Day
+    - Jimmy Jam (James Harris III)
+    - Terry Lewis
+    - Jesse Johnson
+    - Monte Moir
+    - Jellybean Johnson
+    - Jerome Benton
   influenced:
-  - Janet Jackson
-  - Bruno Mars
-  - The Minneapolis Sound artists
+    - Janet Jackson
+    - Bruno Mars
+    - The Minneapolis Sound artists
   mentors:
-  - Prince
-  - Parliament-Funkadelic
+    - Prince
+    - Parliament-Funkadelic
 spotify_data:
   followers: 496116
   id: 1EgGVV9cmmlLEsFlunjmvv
   popularity: 41
-  url: https://open.spotify.com/artist/1EgGVV9cmmlLEsFlunjmvv
+  url: 'https://open.spotify.com/artist/1EgGVV9cmmlLEsFlunjmvv'
 discography_enriched: true
 top_tracks:
-- Jungle Love (Ice Cream Castle)
-- 777-9311 (What Time Is It?)
-- Gigolos Get Lonely Too (What Time Is It?)
-- The Bird (Ice Cream Castle)
-- Get It Up - 2021 Remaster (The Time (Expanded Edition) [2021 Remaster])
-- The Walk (What Time Is It?)
-- Jungle Love - 45 Version (Jungle Love (45 Version) / Oh, Baby)
-- Donald Trump - Black Version (Pandemonium)
-- 'Jerk Out #3 (Pandemonium)'
-- Get It Up (The Time)
+  - Jungle Love (Ice Cream Castle)
+  - 777-9311 (What Time Is It?)
+  - Gigolos Get Lonely Too (What Time Is It?)
+  - The Bird (Ice Cream Castle)
+  - 'Get It Up - 2021 Remaster (The Time (Expanded Edition) [2021 Remaster])'
+  - The Walk (What Time Is It?)
+  - 'Jungle Love - 45 Version (Jungle Love (45 Version) / Oh, Baby)'
+  - Donald Trump - Black Version (Pandemonium)
+  - 'Jerk Out #3 (Pandemonium)'
+  - Get It Up (The Time)
 external_urls:
-  spotify: https://open.spotify.com/artist/1EgGVV9cmmlLEsFlunjmvv
-  wikipedia: https://en.wikipedia.org/wiki/The_Time_(band)
+  spotify: 'https://open.spotify.com/artist/1EgGVV9cmmlLEsFlunjmvv'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Time_(band)'
 image_path: 03_Resources/source_material/ArtistPortraits/the_time.jpg
 biography_enhanced_at: '2025-11-14T11:11:16.050701'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/The+Time/+wiki
-- https://princevault.com/index.php/The_Time
-- https://en.apoplife.nl/what-time-is-it/
-- https://funkatopia.com/funk-news/interview-the-time-band/
-- https://app.soulyears.com/artist-The+Time.htm
+  - 'https://www.last.fm/music/The+Time/+wiki'
+  - 'https://princevault.com/index.php/The_Time'
+  - 'https://en.apoplife.nl/what-time-is-it/'
+  - 'https://funkatopia.com/funk-news/interview-the-time-band/'
+  - 'https://app.soulyears.com/artist-The+Time.htm'
 network_extracted: true
 entry_created: '2025-11-14T11:11:16.050710'
 last_updated: '2025-12-23T08:16:17.232440'
-origin: Minneapolis, Minnesota, United States
-
+origin: 'Minneapolis, Minnesota, United States'
+artist_type: band
 ---
 
 ![](the_time.jpg)

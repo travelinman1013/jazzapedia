@@ -5,15 +5,15 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1989-08-23'
-birth_place: London
+birth_place: 'London, England, United Kingdom'
 genres:
-- alternative r&b
-- soul
-- pop soul
+  - alternative r&b
+  - soul
+  - pop soul
 instruments:
-- guitar
-- lead vocals
-- background vocals
+  - guitar
+  - lead vocals
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lianne_la_havas.jpg
   caption: Lianne La Havas
@@ -35,52 +35,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Christian Pinchbeck
-  - Prince
-  - Rudimental
+    - Christian Pinchbeck
+    - Prince
+    - Rudimental
   influenced:
-  - Emerging UK soul and R&B artists
+    - Emerging UK soul and R&B artists
   mentors:
-  - Henry Vlahavas
-  - Paloma Faith
+    - Henry Vlahavas
+    - Paloma Faith
 spotify_data:
   followers: 989139
   id: 2RP4pPHTXlQpDnO9LvR7Yt
   popularity: 56
-  url: https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt
+  url: 'https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt'
 discography_enriched: true
 top_tracks:
-- Green & Gold (Blood)
-- Can't Fight (Lianne La Havas)
-- Bittersweet - Radio Edit
-- Say a Little Prayer - Live
-- Paper Thin (Lianne La Havas)
-- Stream of Consciousness
-- Bittersweet (Lianne La Havas)
-- Please Don't Make Me Cry (Lianne La Havas)
-- Weird Fishes (Lianne La Havas)
-- Starry Starry Night (Loving Vincent (Original Soundtrack Album))
+  - Green & Gold (Blood)
+  - Can't Fight (Lianne La Havas)
+  - Bittersweet - Radio Edit
+  - Say a Little Prayer - Live
+  - Paper Thin (Lianne La Havas)
+  - Stream of Consciousness
+  - Bittersweet (Lianne La Havas)
+  - Please Don't Make Me Cry (Lianne La Havas)
+  - Weird Fishes (Lianne La Havas)
+  - Starry Starry Night (Loving Vincent (Original Soundtrack Album))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/680466d6-f05b-44f6-858d-625d1b5087f6
-  spotify: https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt
-  wikipedia: https://en.wikipedia.org/wiki/Lianne_La_Havas
+  musicbrainz: 'https://musicbrainz.org/artist/680466d6-f05b-44f6-858d-625d1b5087f6'
+  spotify: 'https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lianne_La_Havas'
 image_path: 03_Resources/source_material/ArtistPortraits/lianne_la_havas.jpg
 biography_enhanced_at: '2025-11-20T06:59:09.399764'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://kids.kiddle.co/Lianne_La_Havas
-- https://womensmediacenter.com/fbomb/support-women-artists-sunday-lianne-la-havas
-- https://wbssmedia.com/artists/detail/2009
+  - 'https://kids.kiddle.co/Lianne_La_Havas'
+  - >-
+    https://womensmediacenter.com/fbomb/support-women-artists-sunday-lianne-la-havas
+  - 'https://wbssmedia.com/artists/detail/2009'
 network_extracted: true
 entry_created: '2025-11-20T06:59:09.399774'
 last_updated: '2025-12-23T08:16:11.893015'
 gender: Female
 musicbrainz_id: 680466d6-f05b-44f6-858d-625d1b5087f6
 tags:
-- alternative pop
-- folk
-- r&b
+  - alternative pop
+  - folk
+  - r&b
 ---
 
 ![](lianne_la_havas.jpg)

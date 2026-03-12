@@ -3,13 +3,13 @@ title: Mac Miller
 wiki_slug: mac-miller
 schema_version: 2
 status: active
-birth_place: Pittsburgh, Pennsylvania, United States
+birth_place: 'Pittsburgh, Pennsylvania, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/mac_miller.jpg
   caption: Mac Miller
   background: solo_singer
-  origin: Pittsburgh, Pennsylvania, United States
+  origin: 'Pittsburgh, Pennsylvania, United States'
 audio_profile:
   tempo_avg: 117.4
   energy_avg: 0.593
@@ -25,47 +25,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ariana Grande
-  - Anderson .Paak
-  - Wiz Khalifa
-  - Thundercat
+    - Ariana Grande
+    - Anderson .Paak
+    - Wiz Khalifa
+    - Thundercat
   influenced:
-  - Rex Orange County
-  - BROCKHAMPTON
+    - Rex Orange County
+    - BROCKHAMPTON
   mentors:
-  - A Tribe Called Quest
-  - The Sugarhill Gang
+    - A Tribe Called Quest
+    - The Sugarhill Gang
 spotify_data:
   followers: 12218770
   id: 4LLpKhyESsyAXpc4laK94U
   popularity: 82
-  url: https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U
+  url: 'https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U'
 discography_enriched: true
 top_tracks:
-- The Spins (K.I.D.S. (Deluxe))
-- Love Lost (I Love Life, Thank You)
-- Weekend (feat. Miguel) (GO:OD AM)
-- Congratulations (feat. Bilal) (The Divine Feminine)
-- Stoned (Balloonerism)
-- Self Care (Swimming)
-- Small Worlds (Swimming)
-- Blue World (Circles)
-- Come Back to Earth (Swimming)
-- My Favorite Part (The Divine Feminine)
+  - The Spins (K.I.D.S. (Deluxe))
+  - 'Love Lost (I Love Life, Thank You)'
+  - 'Weekend (feat. Miguel) (GO:OD AM)'
+  - Congratulations (feat. Bilal) (The Divine Feminine)
+  - Stoned (Balloonerism)
+  - Self Care (Swimming)
+  - Small Worlds (Swimming)
+  - Blue World (Circles)
+  - Come Back to Earth (Swimming)
+  - My Favorite Part (The Divine Feminine)
 external_urls:
-  spotify: https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U
-  wikipedia: https://en.wikipedia.org/wiki/Mac_Miller
+  spotify: 'https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mac_Miller'
 image_path: 03_Resources/source_material/ArtistPortraits/mac_miller.jpg
 biography_enhanced_at: '2025-11-20T07:40:17.594043'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Mac_Miller
-- https://www.britannica.com/biography/Mac-Miller
-- https://www.hiphopscriptures.com/mac-miller
+  - 'https://en.wikipedia.org/wiki/Mac_Miller'
+  - 'https://www.britannica.com/biography/Mac-Miller'
+  - 'https://www.hiphopscriptures.com/mac-miller'
 network_extracted: true
 entry_created: '2025-11-20T07:40:17.594047'
 last_updated: '2025-12-23T08:16:12.444120'
+birth_date: '1992-01-19'
+death_date: '2018'
+artist_type: person
 ---
 
 ![](mac_miller.jpg)

@@ -1,11 +1,11 @@
 ---
-title: THE GOOFUS FIVE
+title: The Goofus Five
 wiki_slug: the-goofus-five
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- ragtime
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_goofus_five.jpg
   caption: THE GOOFUS FIVE
@@ -25,63 +25,68 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Adrian Rollini
-  - Chelsea Quealey
-  - Bobby Davis
-  - Sam Ruby
-  - Other members (Abe Lincoln, Al Philburn, Irving Brodsky, Tommy Felline, Herb Weil, Les Reis, Jack Russin, Beth Challis)
+    - Adrian Rollini
+    - Chelsea Quealey
+    - Bobby Davis
+    - Sam Ruby
+    - >-
+      Other members (Abe Lincoln, Al Philburn, Irving Brodsky, Tommy Felline,
+      Herb Weil, Les Reis, Jack Russin, Beth Challis)
   influenced:
-  - Bing Crosby
-  - Subsequent jazz small groups
+    - Bing Crosby
+    - Subsequent jazz small groups
   mentors:
-  - Ed Kirkeby
+    - Ed Kirkeby
 spotify_data:
   followers: 356
   id: 3WFQOMqSQIf7GdKByxAoPI
   popularity: 2
-  url: https://open.spotify.com/artist/3WFQOMqSQIf7GdKByxAoPI
+  url: 'https://open.spotify.com/artist/3WFQOMqSQIf7GdKByxAoPI'
 discography_enriched: true
 top_tracks:
-- Vo-do-do-de-o Blues
-- Go Long, Mule
-- Poor Papa (He's Got Nothin' at All) (The Goofus Five 1926-1927)
-- I Wonder What's Become of Joe? (The Goofus Five 1926-1927)
-- Where'd You Get Those Eyes? (The Goofus Five 1926-1927)
-- Mary Lou (The Goofus Five 1926-1927)
-- Crazy Quilt (The Goofus Five 1926-1927)
-- Clementine (From New Orleans) (The Goofus Five 1926-1927)
-- I Left My Sugar Standing in the Rain (And She Melted Away) (The Goofus Five 1926-1927)
-- Yes Sir, That's My Baby
+  - Vo-do-do-de-o Blues
+  - 'Go Long, Mule'
+  - Poor Papa (He's Got Nothin' at All) (The Goofus Five 1926-1927)
+  - I Wonder What's Become of Joe? (The Goofus Five 1926-1927)
+  - Where'd You Get Those Eyes? (The Goofus Five 1926-1927)
+  - Mary Lou (The Goofus Five 1926-1927)
+  - Crazy Quilt (The Goofus Five 1926-1927)
+  - Clementine (From New Orleans) (The Goofus Five 1926-1927)
+  - >-
+    I Left My Sugar Standing in the Rain (And She Melted Away) (The Goofus Five
+    1926-1927)
+  - 'Yes Sir, That''s My Baby'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/85e9d90b-040a-4ca8-9809-d26d41e18dba
-  spotify: https://open.spotify.com/artist/3WFQOMqSQIf7GdKByxAoPI
-  wikipedia: https://en.wikipedia.org/wiki/Adrian_Rollini
+  musicbrainz: 'https://musicbrainz.org/artist/85e9d90b-040a-4ca8-9809-d26d41e18dba'
+  spotify: 'https://open.spotify.com/artist/3WFQOMqSQIf7GdKByxAoPI'
+  wikipedia: 'https://en.wikipedia.org/wiki/Adrian_Rollini'
 image_path: 03_Resources/source_material/ArtistPortraits/the_goofus_five.jpg
 biography_enhanced_at: '2025-11-20T06:37:13.655544'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://electricalmoonlightrecords.wordpress.com/2013/12/20/the-goofus-five/
-- https://dentonjazz135dotcom.wordpress.com/2012/03/18/adrian-rollini-and-the-goofus/
-- https://en.wikipedia.org/wiki/Adrian_Rollini
-- https://jazzmusicarchives.com/artist/the-goofus-five
+  - 'https://electricalmoonlightrecords.wordpress.com/2013/12/20/the-goofus-five/'
+  - >-
+    https://dentonjazz135dotcom.wordpress.com/2012/03/18/adrian-rollini-and-the-goofus/
+  - 'https://en.wikipedia.org/wiki/Adrian_Rollini'
+  - 'https://jazzmusicarchives.com/artist/the-goofus-five'
 network_extracted: true
 entry_created: '2025-11-20T06:37:13.655554'
 last_updated: '2025-12-23T08:16:16.813194'
 disambiguation: 1920s jazz recording group
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1b927fc9-3b51-4332-b0e9-fb78549e42b9
-  name: Ed Kirkeby
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f560eccb-fa98-46a8-9290-93ff6f89b16c
-  name: Adrian Rollini
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1b927fc9-3b51-4332-b0e9-fb78549e42b9
+    name: Ed Kirkeby
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f560eccb-fa98-46a8-9290-93ff6f89b16c
+    name: Adrian Rollini
 musicbrainz_id: 85e9d90b-040a-4ca8-9809-d26d41e18dba
-origin: New York, New York, USA
+origin: 'New York, New York, USA'
 ---
 
 ![](the_goofus_five.jpg)

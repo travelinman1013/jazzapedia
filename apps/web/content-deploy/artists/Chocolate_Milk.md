@@ -2,26 +2,26 @@
 title: Chocolate Milk
 wiki_slug: chocolate-milk
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 birth_date: '1974'
 genres:
-- post-disco
+  - post-disco
 instruments:
-- keyboard
-- trumpet
-- lead vocals
-- membranophone
-- bass guitar
-- guitar
-- percussion
-- saxophone
-- background vocals
-- original
-- clavinet
-- Moog
-- piano
-- flugelhorn
+  - keyboard
+  - trumpet
+  - lead vocals
+  - membranophone
+  - bass guitar
+  - guitar
+  - percussion
+  - saxophone
+  - background vocals
+  - original
+  - clavinet
+  - Moog
+  - piano
+  - flugelhorn
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Chocolate_Milk.jpg
   caption: Chocolate Milk
@@ -42,56 +42,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Paul McCartney
-  - Band Members
+    - Paul McCartney
+    - Band Members
   influenced:
-  - Eric B. & Rakim
-  - Stetsasonic
+    - Eric B. & Rakim
+    - Stetsasonic
   mentors:
-  - Allen Toussaint
+    - Allen Toussaint
 spotify_data:
   followers: 25850
   id: 3R2oR0SQba16AZZaoG94xe
   popularity: 26
-  url: https://open.spotify.com/artist/3R2oR0SQba16AZZaoG94xe
+  url: 'https://open.spotify.com/artist/3R2oR0SQba16AZZaoG94xe'
 discography_enriched: true
 top_tracks:
-- Doc (Milky Way)
-- Action Speaks Louder Than Words (Action Speaks Louder Than Words)
-- Time Machine (Action Speaks Louder Than Words)
-- 'Who''s Getting It Now - 12" (Ice Cold Funk: The Greatest Grooves Of Chocolate Milk)'
-- Groove City (Milky Way)
-- Girl Callin' (We're All In This Together)
-- My Mind Is Hazy - Long Version (Action Speaks Louder Than Words)
-- How About Love (Chocolate Milk (Expanded Edition))
-- Who's Getting It Now - 12" (Blue Jeans (Expanded Edition))
-- 'Take It Off (Ice Cold Funk: The Greatest Grooves Of Chocolate Milk)'
+  - Doc (Milky Way)
+  - Action Speaks Louder Than Words (Action Speaks Louder Than Words)
+  - Time Machine (Action Speaks Louder Than Words)
+  - >-
+    Who's Getting It Now - 12" (Ice Cold Funk: The Greatest Grooves Of Chocolate
+    Milk)
+  - Groove City (Milky Way)
+  - Girl Callin' (We're All In This Together)
+  - My Mind Is Hazy - Long Version (Action Speaks Louder Than Words)
+  - How About Love (Chocolate Milk (Expanded Edition))
+  - Who's Getting It Now - 12" (Blue Jeans (Expanded Edition))
+  - 'Take It Off (Ice Cold Funk: The Greatest Grooves Of Chocolate Milk)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c61d3f35-1d08-48e0-89c2-cb66f2a57f80
-  spotify: https://open.spotify.com/artist/3R2oR0SQba16AZZaoG94xe
-  wikipedia: https://en.wikipedia.org/wiki/Chocolate_Milk_(band)
+  musicbrainz: 'https://musicbrainz.org/artist/c61d3f35-1d08-48e0-89c2-cb66f2a57f80'
+  spotify: 'https://open.spotify.com/artist/3R2oR0SQba16AZZaoG94xe'
+  wikipedia: 'https://en.wikipedia.org/wiki/Chocolate_Milk_(band)'
 image_path: 03_Resources/source_material/ArtistPortraits/Chocolate_Milk.jpg
 biography_enhanced_at: '2025-10-20T09:52:35.778004'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://veritenews.org/2024/07/08/bitd-chocolate-milk/
-- https://en.wikipedia.org/wiki/Chocolate_Milk_(band)
-- https://www.theaudiodb.com/artist/127922-Chocolate-Milk
-- http://www.soulwalking.co.uk/Chocolate%20Milk.html
-- https://www.youtube.com/watch?v=8JMWP_P_qbg
+  - 'https://veritenews.org/2024/07/08/bitd-chocolate-milk/'
+  - 'https://en.wikipedia.org/wiki/Chocolate_Milk_(band)'
+  - 'https://www.theaudiodb.com/artist/127922-Chocolate-Milk'
+  - 'http://www.soulwalking.co.uk/Chocolate%20Milk.html'
+  - 'https://www.youtube.com/watch?v=8JMWP_P_qbg'
 network_extracted: true
 entry_created: '2025-10-20T09:52:35.778017'
 last_updated: '2025-12-23T08:16:01.506335'
 disambiguation: American funk & soul band
 musicbrainz_enriched_at: '2025-10-21T09:22:09.481935'
 musicbrainz_id: c61d3f35-1d08-48e0-89c2-cb66f2a57f80
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 tags:
-- funk
-- rhythm and blues
-- soul
-
+  - funk
+  - rhythm and blues
+  - soul
+birth_place: New Orleans
 ---
 
 ![](Chocolate_Milk.jpg)

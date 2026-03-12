@@ -1,52 +1,54 @@
 ---
 biography_enhanced_at: '2026-01-19T01:16:29.957862'
-birth_place: St. Croix, U.S. Virgin Islands
+birth_place: 'St. Croix, U.S. Virgin Islands'
 enhancement_provider: perplexity
 entry_created: '2026-01-19T01:16:29.957868'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/89e0174e-ac74-45c4-9927-3042a93174a6
-  spotify: https://open.spotify.com/artist/5XoZFgxlqigE93GpSEjxYH
+  musicbrainz: 'https://musicbrainz.org/artist/89e0174e-ac74-45c4-9927-3042a93174a6'
+  spotify: 'https://open.spotify.com/artist/5XoZFgxlqigE93GpSEjxYH'
   wikipedia: Not found in search results
 genres:
-- roots reggae
-- reggae
-- ragga
+  - roots reggae
+  - reggae
+  - ragga
 image_path: 03_Resources/source_material/ArtistPortraits/ras_attitude.jpg
 last_updated: '2026-01-19T01:16:29.957869'
 musical_connections:
   collaborators:
-  - Ras Batch
-  - Barrington Levy
-  - Beres Hammond
-  - Capleton
-  - Sizzla
-  - Luciano
-  - Lutan Fyah
-  - Pato Banton
+    - Ras Batch
+    - Barrington Levy
+    - Beres Hammond
+    - Capleton
+    - Sizzla
+    - Luciano
+    - Lutan Fyah
+    - Pato Banton
   influenced:
-  - Sizzla
-  - Burning Spear
-  - Capleton
+    - Sizzla
+    - Burning Spear
+    - Capleton
   mentors:
-  - Tippa Lee
-  - Harrella Goodwin
+    - Tippa Lee
+    - Harrella Goodwin
 musicbrainz_id: 89e0174e-ac74-45c4-9927-3042a93174a6
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://reggaeeurope.com/upcoming-reggae-artists/ras-attitude/
-- https://www.iriemag.com/respect-ras-attitude/
-- https://whirledpies.com/event/4-4-ras-attitude-with-purity-attack-melodia-rose/
-- https://unitedreggae.com/artists/r/ras-attitude,1480/
-- http://achisreggae.blogspot.com/2021/06/warrior-status-by-ras-attitude.html
-- https://www.last.fm/music/Ras+Attitude/+wiki
+  - 'https://reggaeeurope.com/upcoming-reggae-artists/ras-attitude/'
+  - 'https://www.iriemag.com/respect-ras-attitude/'
+  - >-
+    https://whirledpies.com/event/4-4-ras-attitude-with-purity-attack-melodia-rose/
+  - 'https://unitedreggae.com/artists/r/ras-attitude,1480/'
+  - 'http://achisreggae.blogspot.com/2021/06/warrior-status-by-ras-attitude.html'
+  - 'https://www.last.fm/music/Ras+Attitude/+wiki'
 spotify_data:
   followers: 11073
   id: 5XoZFgxlqigE93GpSEjxYH
   popularity: 21
-  url: https://open.spotify.com/artist/5XoZFgxlqigE93GpSEjxYH
+  url: 'https://open.spotify.com/artist/5XoZFgxlqigE93GpSEjxYH'
 status: active
 title: Ras Attitude
+artist_type: person
 ---
 
 ![](ras_attitude.jpg)

@@ -2,31 +2,31 @@
 title: John Coltrane Quartet
 wiki_slug: john-coltrane-quartet
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 birth_date: '1959'
-birth_place: Hamlet, North Carolina, USA
+birth_place: 'Hamlet, North Carolina, USA'
 genres:
-- jazz
-- cool jazz
-- hard bop
-- free jazz
-- bebop
+  - jazz
+  - cool jazz
+  - hard bop
+  - free jazz
+  - bebop
 instruments:
-- eponymous
-- soprano saxophone
-- tenor saxophone
-- drums (drum set)
-- piano
-- double bass
+  - eponymous
+  - soprano saxophone
+  - tenor saxophone
+  - drums (drum set)
+  - piano
+  - double bass
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/John_Coltrane_Quartet.jpg
   caption: John Coltrane Quartet
   background: non_vocal_instrumentalist
   born: '1959'
-  origin: Hamlet, North Carolina, USA
+  origin: 'Hamlet, North Carolina, USA'
 audio_profile:
-  tempo_avg: 97.0
+  tempo_avg: 97
   energy_avg: 0.267
   valence_avg: 0.321
   danceability_avg: 0.442
@@ -40,52 +40,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - McCoy Tyner
-  - Elvin Jones
-  - Jimmy Garrison
+    - McCoy Tyner
+    - Elvin Jones
+    - Jimmy Garrison
   influenced:
-  - Wayne Shorter
-  - Joe Henderson
-  - Freddie Hubbard
+    - Wayne Shorter
+    - Joe Henderson
+    - Freddie Hubbard
   mentors:
-  - Miles Davis
-  - Thelonious Monk
-  - Dizzy Gillespie
+    - Miles Davis
+    - Thelonious Monk
+    - Dizzy Gillespie
 spotify_data:
   followers: 239825
   id: 67PZTxaHKMZBFRUh8wIzCy
   popularity: 52
-  url: https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy
+  url: 'https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy'
 discography_enriched: true
 top_tracks:
-- Say It (Over And Over Again) (Ballads (Deluxe Edition - Rudy Van Gelder Remaster))
-- It's Easy To Remember (Ballads (Deluxe Edition - Rudy Van Gelder Remaster))
-- Nancy (With The Laughing Face) (Ballads (Deluxe Edition - Rudy Van Gelder Remaster))
-- They Say It's Wonderful (Ballads (Deluxe Edition - Rudy Van Gelder Remaster))
-- Too Young To Go Steady (Ballads (Deluxe Edition - Rudy Van Gelder Remaster))
-- Soul Eyes (Coltrane (Deluxe Edition - Rudy Van Gelder Remaster))
-- I Wish I Knew (Ballads (Deluxe Edition - Rudy Van Gelder Remaster))
-- What's New (Ballads (Deluxe Edition - Rudy Van Gelder Remaster))
-- You Don't Know What Love Is (Ballads (Deluxe Edition - Rudy Van Gelder Remaster))
-- Bessie's Blues (Crescent)
+  - >-
+    Say It (Over And Over Again) (Ballads (Deluxe Edition - Rudy Van Gelder
+    Remaster))
+  - It's Easy To Remember (Ballads (Deluxe Edition - Rudy Van Gelder Remaster))
+  - >-
+    Nancy (With The Laughing Face) (Ballads (Deluxe Edition - Rudy Van Gelder
+    Remaster))
+  - >-
+    They Say It's Wonderful (Ballads (Deluxe Edition - Rudy Van Gelder
+    Remaster))
+  - Too Young To Go Steady (Ballads (Deluxe Edition - Rudy Van Gelder Remaster))
+  - Soul Eyes (Coltrane (Deluxe Edition - Rudy Van Gelder Remaster))
+  - I Wish I Knew (Ballads (Deluxe Edition - Rudy Van Gelder Remaster))
+  - What's New (Ballads (Deluxe Edition - Rudy Van Gelder Remaster))
+  - >-
+    You Don't Know What Love Is (Ballads (Deluxe Edition - Rudy Van Gelder
+    Remaster))
+  - Bessie's Blues (Crescent)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a43270af-bc4a-4552-847e-617b11f38d7b
-  spotify: https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy
-  wikipedia: https://en.wikipedia.org/wiki/John_Coltrane
+  musicbrainz: 'https://musicbrainz.org/artist/a43270af-bc4a-4552-847e-617b11f38d7b'
+  spotify: 'https://open.spotify.com/artist/67PZTxaHKMZBFRUh8wIzCy'
+  wikipedia: 'https://en.wikipedia.org/wiki/John_Coltrane'
 image_path: 03_Resources/source_material/ArtistPortraits/John_Coltrane_Quartet.jpg
 biography_enhanced_at: '2025-10-20T10:06:44.433069'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/John_Coltrane
-- https://www.johncoltrane.com/biography
+  - 'https://en.wikipedia.org/wiki/John_Coltrane'
+  - 'https://www.johncoltrane.com/biography'
 network_extracted: true
 entry_created: '2025-10-20T10:06:44.433083'
 last_updated: '2025-12-23T08:16:02.626267'
 musicbrainz_enriched_at: '2025-10-21T09:32:01.127433'
 musicbrainz_id: a43270af-bc4a-4552-847e-617b11f38d7b
 tags:
-- jazz
+  - jazz
 ---
 
 ![](John_Coltrane_Quartet.jpg)

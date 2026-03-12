@@ -1,86 +1,85 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2025-12-26T01:20:54.238306'
 birth_date: '1968'
-disambiguation: Chicago soul, disco and R&B female vocal group
+disambiguation: 'Chicago soul, disco and R&B female vocal group'
 enhancement_provider: perplexity
 entry_created: '2025-12-26T01:20:54.238320'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6ff13427-08ff-4da2-bee8-892e1fa22d3c
-  spotify: https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr
-  wikipedia: https://en.wikipedia.org/wiki/The_Emotions
+  musicbrainz: 'https://musicbrainz.org/artist/6ff13427-08ff-4da2-bee8-892e1fa22d3c'
+  spotify: 'https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Emotions'
 genres:
-- disco
+  - disco
 image_path: 03_Resources/source_material/ArtistPortraits/the_emotions.jpg
 instruments:
-- original
+  - original
 last_updated: '2025-12-26T01:20:54.238322'
 members:
-- begin: ''
-  end: '2020-09-18'
-  instruments: []
-  mbid: 2c15b74b-865e-487d-bfa4-87ac667aa343
-  name: Pam Hutchinson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6280fd1f-5051-44f6-8621-c8111a75a23a
-  name: Teresa Davis
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bc98805e-218b-4a06-ba59-cb8c58f0da3f
-  name: Jeanette Hawes
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 81040895-2922-4438-a3e1-3196290f4069
-  name: Sheila Hutchinson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4923f7ec-b0f8-4cbd-9d69-dba3c7b1b06f
-  name: Wanda Hutchinson
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: bc98805e-218b-4a06-ba59-cb8c58f0da3f
-  name: Jeanette Hawes
+  - begin: ''
+    end: '2020-09-18'
+    instruments: []
+    mbid: 2c15b74b-865e-487d-bfa4-87ac667aa343
+    name: Pam Hutchinson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6280fd1f-5051-44f6-8621-c8111a75a23a
+    name: Teresa Davis
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bc98805e-218b-4a06-ba59-cb8c58f0da3f
+    name: Jeanette Hawes
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 81040895-2922-4438-a3e1-3196290f4069
+    name: Sheila Hutchinson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4923f7ec-b0f8-4cbd-9d69-dba3c7b1b06f
+    name: Wanda Hutchinson
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: bc98805e-218b-4a06-ba59-cb8c58f0da3f
+    name: Jeanette Hawes
 musical_connections:
   collaborators:
-  - Isaac Hayes and David Porter
-  - Maurice White
-  - Charles Stepney
-  - Earth, Wind & Fire
-  - Pamela Hutchinson
+    - Isaac Hayes and David Porter
+    - Maurice White
+    - Charles Stepney
+    - 'Earth, Wind & Fire'
+    - Pamela Hutchinson
   influenced:
-  - Tribe Called Quest, Brand Nubian, Ice Cube, Redman
+    - 'Tribe Called Quest, Brand Nubian, Ice Cube, Redman'
   mentors:
-  - Mahalia Jackson
-  - Pervis Staples
-  - Joe Hutchinson
+    - Mahalia Jackson
+    - Pervis Staples
+    - Joe Hutchinson
 musicbrainz_id: 6ff13427-08ff-4da2-bee8-892e1fa22d3c
 network_extracted: true
-origin: Chicago
+origin: 'Chicago, Illinois, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Emotions
-- https://kids.kiddle.co/The_Emotions
-- https://staxrecords.com/spotlight/the-emotions-spotlight/
-- https://www.last.fm/music/The+Emotions/+wiki
+  - 'https://en.wikipedia.org/wiki/The_Emotions'
+  - 'https://kids.kiddle.co/The_Emotions'
+  - 'https://staxrecords.com/spotlight/the-emotions-spotlight/'
+  - 'https://www.last.fm/music/The+Emotions/+wiki'
 spotify_data:
   followers: 662239
   id: 64CuUOOirKmdAYLQSfaOyr
   popularity: 65
-  url: https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr
+  url: 'https://open.spotify.com/artist/64CuUOOirKmdAYLQSfaOyr'
 status: active
 tags:
-- chicago soul
-- dance and electronica
-- disco
-title: THE EMOTIONS
-
+  - chicago soul
+  - dance and electronica
+  - disco
+title: The Emotions
 ---
 
 ![](the_emotions.jpg)

@@ -2,10 +2,10 @@
 title: The Murphy Beds
 wiki_slug: the-murphy-beds
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- celtic
+  - celtic
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_murphy_beds.jpg
   caption: The Murphy Beds
@@ -25,64 +25,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John Doyle
-  - Nuala Kennedy
-  - Anaïs Mitchell
-  - Beth Orton
-  - Bonnie 'Prince' Billy
-  - Sam Amidon
+    - John Doyle
+    - Nuala Kennedy
+    - Anaïs Mitchell
+    - Beth Orton
+    - Bonnie 'Prince' Billy
+    - Sam Amidon
   influenced:
-  - Emerging folk musicians in the US and Ireland
+    - Emerging folk musicians in the US and Ireland
   mentors:
-  - Irish traditional musicians in New York
+    - Irish traditional musicians in New York
 spotify_data:
   followers: 224
   id: 7xklLiKYVKfG7dAsgqTCl1
   popularity: 0
-  url: https://open.spotify.com/artist/7xklLiKYVKfG7dAsgqTCl1
+  url: 'https://open.spotify.com/artist/7xklLiKYVKfG7dAsgqTCl1'
 discography_enriched: true
 top_tracks:
-- What Do We Tell The Children? (What Do We Tell The Children?)
-- Blackwater Side (Easy Way Down)
-- Holland Handkerchief (Easy Way Down)
-- The Thirty-Foot Trailer (Easy Way Down)
-- When My Love and I Parted (Easy Way Down)
-- Falling In Love (Easy Way Down)
-- Scattery Island / Bonnie Prince Charlie (Easy Way Down)
-- Annachie Gordon (Easy Way Down)
-- Lie Easy (Easy Way Down)
-- Last Go Round (Easy Way Down)
+  - What Do We Tell The Children? (What Do We Tell The Children?)
+  - Blackwater Side (Easy Way Down)
+  - Holland Handkerchief (Easy Way Down)
+  - The Thirty-Foot Trailer (Easy Way Down)
+  - When My Love and I Parted (Easy Way Down)
+  - Falling In Love (Easy Way Down)
+  - Scattery Island / Bonnie Prince Charlie (Easy Way Down)
+  - Annachie Gordon (Easy Way Down)
+  - Lie Easy (Easy Way Down)
+  - Last Go Round (Easy Way Down)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/82a49123-c3db-4768-b470-0182af71d73e
-  spotify: https://open.spotify.com/artist/7xklLiKYVKfG7dAsgqTCl1
+  musicbrainz: 'https://musicbrainz.org/artist/82a49123-c3db-4768-b470-0182af71d73e'
+  spotify: 'https://open.spotify.com/artist/7xklLiKYVKfG7dAsgqTCl1'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/the_murphy_beds.jpg
 biography_enhanced_at: '2025-11-08T21:49:31.458103'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://fliartists.com/artists/murphy-beds/
-- https://blogs.loc.gov/folklife/2020/08/homegrown-plus-the-murphy-beds/
-- https://www.bostonirish.com/arts/murphy-beds-laid-back-also-deceptively-elaborate
-- https://murphybedsmusic.com/about/
-- https://www.youtube.com/watch?v=S-HlS16_2vA
+  - 'https://fliartists.com/artists/murphy-beds/'
+  - 'https://blogs.loc.gov/folklife/2020/08/homegrown-plus-the-murphy-beds/'
+  - >-
+    https://www.bostonirish.com/arts/murphy-beds-laid-back-also-deceptively-elaborate
+  - 'https://murphybedsmusic.com/about/'
+  - 'https://www.youtube.com/watch?v=S-HlS16_2vA'
 network_extracted: true
 entry_created: '2025-11-08T21:49:31.458117'
 last_updated: '2025-12-23T08:16:17.005799'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b2ee1071-52e4-447b-8233-7ab0a6e5e60b
-  name: Jefferson Hamer
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d6dda011-6104-4b27-a495-0e2053f3c1b5
-  name: Eamon O’Leary
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b2ee1071-52e4-447b-8233-7ab0a6e5e60b
+    name: Jefferson Hamer
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d6dda011-6104-4b27-a495-0e2053f3c1b5
+    name: Eamon O’Leary
 musicbrainz_id: 82a49123-c3db-4768-b470-0182af71d73e
-origin: New York City, New York, USA (origin)
-
+origin: 'New York City, New York, USA (origin)'
 ---
 
 ![](the_murphy_beds.jpg)

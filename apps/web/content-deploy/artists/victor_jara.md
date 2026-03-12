@@ -1,49 +1,52 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-17T02:00:02.385884'
-birth_place: Lonquén, Chile
+birth_place: 'Lonquén, Chile, Chile'
 enhancement_provider: perplexity
 entry_created: '2026-01-17T02:00:02.385889'
 external_urls:
-  spotify: https://open.spotify.com/artist/440MEFxEmF9othCXbz3Y6a
-  wikipedia: https://en.wikipedia.org/wiki/V%C3%ADctor_Jara
+  spotify: 'https://open.spotify.com/artist/440MEFxEmF9othCXbz3Y6a'
+  wikipedia: 'https://en.wikipedia.org/wiki/V%C3%ADctor_Jara'
 genres:
-- latin folklore
-- trova
-- nueva trova
-- latin folk
-- folclor andino
-- singer-songwriter
+  - latin folklore
+  - trova
+  - nueva trova
+  - latin folk
+  - folclor andino
+  - singer-songwriter
 image_path: 03_Resources/source_material/ArtistPortraits/victor_jara.jpg
 last_updated: '2026-01-17T02:00:02.385890'
 musical_connections:
   collaborators:
-  - Quilapayún
-  - Ángel Parra
-  - Joan Jara
+    - Quilapayún
+    - Ángel Parra
+    - Joan Jara
   influenced:
-  - Phil Ochs
-  - The Clash
-  - U2
+    - Phil Ochs
+    - The Clash
+    - U2
   mentors:
-  - Violeta Parra
-  - Atahualpa Yupanqui
-  - Pablo Neruda
+    - Violeta Parra
+    - Atahualpa Yupanqui
+    - Pablo Neruda
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/V%C3%ADctor_Jara
-- https://americanart.si.edu/exhibitions/chicano-graphics/online/changemakers/victor-jara
-- https://www.britannica.com/biography/Victor-Jara
-- https://globalpeacewarriors.org/victor-jara/
-- https://phoeberees.co.uk/winter-2020-project-chile-victor-jara/
+  - 'https://en.wikipedia.org/wiki/V%C3%ADctor_Jara'
+  - >-
+    https://americanart.si.edu/exhibitions/chicano-graphics/online/changemakers/victor-jara
+  - 'https://www.britannica.com/biography/Victor-Jara'
+  - 'https://globalpeacewarriors.org/victor-jara/'
+  - 'https://phoeberees.co.uk/winter-2020-project-chile-victor-jara/'
 spotify_data:
   followers: 394160
   id: 440MEFxEmF9othCXbz3Y6a
   popularity: 48
-  url: https://open.spotify.com/artist/440MEFxEmF9othCXbz3Y6a
+  url: 'https://open.spotify.com/artist/440MEFxEmF9othCXbz3Y6a'
 status: active
 title: Victor Jara
+birth_date: '1932-09-28'
+death_date: '1973-09-16'
 ---
 
 ![](victor_jara.jpg)

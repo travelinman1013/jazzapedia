@@ -1,11 +1,11 @@
 ---
-title: the ruiners
+title: The Ruiners
 wiki_slug: the-ruiners
 schema_version: 2
 status: active
 genres:
-- psychobilly
-- deathrock
+  - psychobilly
+  - deathrock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_ruiners.jpg
   caption: the ruiners
@@ -25,48 +25,65 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Friday (vocalist/performer)
-  - Various Detroit punk/garage bands
+    - Friday (vocalist/performer)
+    - Various Detroit punk/garage bands
   influenced:
-  - Detroit underground punk/garage performers
+    - Detroit underground punk/garage performers
   mentors:
-  - Detroit garage and glam rock tradition (e.g., Iggy & The Stooges, MC5, Alice Cooper scene)
+    - >-
+      Detroit garage and glam rock tradition (e.g., Iggy & The Stooges, MC5,
+      Alice Cooper scene)
 spotify_data:
   followers: 2428
   id: 1hgiDrShhKMx4Y6edbg6R7
   popularity: 8
-  url: https://open.spotify.com/artist/1hgiDrShhKMx4Y6edbg6R7
+  url: 'https://open.spotify.com/artist/1hgiDrShhKMx4Y6edbg6R7'
 discography_enriched: true
 top_tracks:
-- Silent Night, Deadly Night (Cry Wolf)
-- Blood (Cry Wolf)
-- Werewolf (Cry Wolf)
-- She Must Die (Hear Lies)
-- Phantasm (Cry Wolf)
-- Demons (Cry Wolf)
-- Dead (Cry Wolf)
-- Watching (Cry Wolf)
-- City Of The Dead (Hear Lies)
-- Departed (Cry Wolf)
+  - 'Silent Night, Deadly Night (Cry Wolf)'
+  - Blood (Cry Wolf)
+  - Werewolf (Cry Wolf)
+  - She Must Die (Hear Lies)
+  - Phantasm (Cry Wolf)
+  - Demons (Cry Wolf)
+  - Dead (Cry Wolf)
+  - Watching (Cry Wolf)
+  - City Of The Dead (Hear Lies)
+  - Departed (Cry Wolf)
 external_urls:
-  spotify: https://open.spotify.com/artist/1hgiDrShhKMx4Y6edbg6R7
+  spotify: 'https://open.spotify.com/artist/1hgiDrShhKMx4Y6edbg6R7'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/the_ruiners.jpg
 biography_enhanced_at: '2025-12-20T01:18:53.704218'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Voyage Michigan profile on Rick Ruiner, discussing the formation of The Ruiners and early development.[4]
-- Midwest Rewind live review of The Ruiners at Bowlero Lanes & Lounge, Royal Oak, describing them as a local punk/glam band and highlighting their intense set.[5]
-- Rock In Detroit artist page describing The Ruiners’ sound as garage punk and glam rock with buzzing surf guitars and rockabilly psych freakouts, and referring to them as Detroit misfits.[6]
-- Punk Globe feature on The Ruiners, noting their approach of writing songs in the studio and recording them live for a release.[7]
-- Detroit Metro Times article mentioning how Friday joined The Ruiners after her previous band opened for them at the Magic Stick and Rick Ruiner was impressed by her stage presence.[8]
-- Rock At Night feature describing The Ruiners as having been “rockin’ your world the last 10+ years,” underscoring their longevity.[9]
+  - >-
+    Voyage Michigan profile on Rick Ruiner, discussing the formation of The
+    Ruiners and early development.[4]
+  - >-
+    Midwest Rewind live review of The Ruiners at Bowlero Lanes & Lounge, Royal
+    Oak, describing them as a local punk/glam band and highlighting their
+    intense set.[5]
+  - >-
+    Rock In Detroit artist page describing The Ruiners’ sound as garage punk and
+    glam rock with buzzing surf guitars and rockabilly psych freakouts, and
+    referring to them as Detroit misfits.[6]
+  - >-
+    Punk Globe feature on The Ruiners, noting their approach of writing songs in
+    the studio and recording them live for a release.[7]
+  - >-
+    Detroit Metro Times article mentioning how Friday joined The Ruiners after
+    her previous band opened for them at the Magic Stick and Rick Ruiner was
+    impressed by her stage presence.[8]
+  - >-
+    Rock At Night feature describing The Ruiners as having been “rockin’ your
+    world the last 10+ years,” underscoring their longevity.[9]
 network_extracted: true
 entry_created: '2025-12-20T01:18:53.704233'
 last_updated: '2025-12-23T08:16:17.128427'
-origin: Detroit, Michigan, United States
-
+origin: 'Detroit, Michigan, United States'
+artist_type: band
 ---
 
 ![](the_ruiners.jpg)

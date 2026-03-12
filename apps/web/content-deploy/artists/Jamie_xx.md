@@ -5,14 +5,14 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1988-10-28'
-birth_place: London
+birth_place: 'London, England, United Kingdom'
 genres: []
 instruments:
-- drums (drum set)
-- keyboard
-- sampler
-- synthesizer
-- piano
+  - drums (drum set)
+  - keyboard
+  - sampler
+  - synthesizer
+  - piano
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Jamie_xx.jpg
   caption: Jamie xx
@@ -34,59 +34,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Romy Madley Croft
-  - Oliver Sim
-  - Baria Qureshi
-  - Drake
-  - Gil Scott-Heron
-  - Alicia Keys
-  - Radiohead
-  - Tyler, the Creator
+    - Romy Madley Croft
+    - Oliver Sim
+    - Baria Qureshi
+    - Drake
+    - Gil Scott-Heron
+    - Alicia Keys
+    - Radiohead
+    - 'Tyler, the Creator'
   influenced:
-  - Sampha
-  - FKA twigs
+    - Sampha
+    - FKA twigs
   mentors:
-  - Gil Scott-Heron
+    - Gil Scott-Heron
 spotify_data:
   followers: 944441
   id: 7A0awCXkE1FtSU8B0qwOJQ
   popularity: 59
-  url: https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ
+  url: 'https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ'
 discography_enriched: true
 top_tracks:
-- Loud Places (In Colour)
-- Baddy On The Floor
-- F.U. (In Waves (Deluxe))
-- Life
-- Baddy On The Floor (In Waves)
-- Waited All Night (In Waves)
-- You've Got The Love - Jamie xx Rework
-- Life (In Waves)
-- All You Children (In Waves)
-- On Hold - Jamie xx Remix
+  - Loud Places (In Colour)
+  - Baddy On The Floor
+  - F.U. (In Waves (Deluxe))
+  - Life
+  - Baddy On The Floor (In Waves)
+  - Waited All Night (In Waves)
+  - You've Got The Love - Jamie xx Rework
+  - Life (In Waves)
+  - All You Children (In Waves)
+  - On Hold - Jamie xx Remix
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d1515727-4a93-4c0d-88cb-d7a9fce01879
-  spotify: https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ
-  wikipedia: https://en.wikipedia.org/wiki/Jamie_xx
+  musicbrainz: 'https://musicbrainz.org/artist/d1515727-4a93-4c0d-88cb-d7a9fce01879'
+  spotify: 'https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jamie_xx'
 image_path: 03_Resources/source_material/ArtistPortraits/Jamie_xx.jpg
 biography_enhanced_at: '2025-10-22T06:45:08.309140'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Jamie+xx/+wiki
-- https://britishmusiccollection.org.uk/composer/jamie-xx
-- https://en.wikipedia.org/wiki/Jamie_xx
-- https://dmy.co/features/jamie-xx-interview-dave-haslam
+  - 'https://www.last.fm/music/Jamie+xx/+wiki'
+  - 'https://britishmusiccollection.org.uk/composer/jamie-xx'
+  - 'https://en.wikipedia.org/wiki/Jamie_xx'
+  - 'https://dmy.co/features/jamie-xx-interview-dave-haslam'
 network_extracted: true
 entry_created: '2025-10-22T06:45:08.309151'
 last_updated: '2025-12-23T08:16:02.466477'
-disambiguation: English DJ, record producer, and remixer
+disambiguation: 'English DJ, record producer, and remixer'
 gender: Male
 musicbrainz_id: d1515727-4a93-4c0d-88cb-d7a9fce01879
 tags:
-- deep house
-- electronic
-- future garage
+  - deep house
+  - electronic
+  - future garage
 ---
 
 ![](Jamie_xx.jpg)

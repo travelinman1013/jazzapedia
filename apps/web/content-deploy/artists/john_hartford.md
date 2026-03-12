@@ -1,29 +1,29 @@
 ---
-title: JOHN HARTFORD
+title: John Hartford
 wiki_slug: john-hartford
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1937-12-30'
-birth_place: New York
+birth_place: 'New York City, New York, United States'
 death_date: '2001-06-04'
 genres:
-- bluegrass
-- newgrass
-- americana
+  - bluegrass
+  - newgrass
+  - americana
 instruments:
-- guitar
-- lead vocals
-- bass vocals
-- tenor vocals
-- spoken vocals
-- choir vocals
+  - guitar
+  - lead vocals
+  - bass vocals
+  - tenor vocals
+  - spoken vocals
+  - choir vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b634d9c5-9308-4a01-bb7c-a954d29f13c5
-  name: Dillard-Hartford-Dillard
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b634d9c5-9308-4a01-bb7c-a954d29f13c5
+    name: Dillard-Hartford-Dillard
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/john_hartford.jpg
   caption: JOHN HARTFORD
@@ -46,57 +46,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Norman Blake
-  - Tut Taylor
-  - Vassar Clements
-  - Mickey Newbury
-  - Kris Kristofferson
-  - Jamie Hartford
+    - Norman Blake
+    - Tut Taylor
+    - Vassar Clements
+    - Mickey Newbury
+    - Kris Kristofferson
+    - Jamie Hartford
   influenced:
-  - Sam Bush
-  - Newgrass artists and jam bands
+    - Sam Bush
+    - Newgrass artists and jam bands
   mentors:
-  - Earl Scruggs
-  - Stringbean
+    - Earl Scruggs
+    - Stringbean
 spotify_data:
   followers: 50215
   id: 0NAr5zThPfMx26ISgooQK6
   popularity: 39
-  url: https://open.spotify.com/artist/0NAr5zThPfMx26ISgooQK6
+  url: 'https://open.spotify.com/artist/0NAr5zThPfMx26ISgooQK6'
 discography_enriched: true
 top_tracks:
-- Indian War Whoop (O Brother, Where Art Thou? (Original Motion Picture Soundtrack))
-- Back in the Goodle Days (Aereo-Plain)
-- I Am A Man Of Constant Sorrow - Instrumental (O Brother, Where Art Thou? (Original Motion Picture Soundtrack))
-- In Tall Buildings (Nobody Knows What You Do)
-- Steam Powered Aereo Plane (Aereo-Plain)
-- This Eve of Parting (The Love Album)
-- Joseph's Dream (Nobody Knows What You Do)
-- Up on the Hill Where They Do the Boogie (Aereo-Plain)
-- Gentle On My Mind (Earthwords & Music)
-- Holding (Aereo-Plain)
+  - >-
+    Indian War Whoop (O Brother, Where Art Thou? (Original Motion Picture
+    Soundtrack))
+  - Back in the Goodle Days (Aereo-Plain)
+  - >-
+    I Am A Man Of Constant Sorrow - Instrumental (O Brother, Where Art Thou?
+    (Original Motion Picture Soundtrack))
+  - In Tall Buildings (Nobody Knows What You Do)
+  - Steam Powered Aereo Plane (Aereo-Plain)
+  - This Eve of Parting (The Love Album)
+  - Joseph's Dream (Nobody Knows What You Do)
+  - Up on the Hill Where They Do the Boogie (Aereo-Plain)
+  - Gentle On My Mind (Earthwords & Music)
+  - Holding (Aereo-Plain)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3178cc4c-cd9f-4842-96fb-28bf9cfec591
-  spotify: https://open.spotify.com/artist/0NAr5zThPfMx26ISgooQK6
-  wikipedia: https://en.wikipedia.org/wiki/John_Hartford
+  musicbrainz: 'https://musicbrainz.org/artist/3178cc4c-cd9f-4842-96fb-28bf9cfec591'
+  spotify: 'https://open.spotify.com/artist/0NAr5zThPfMx26ISgooQK6'
+  wikipedia: 'https://en.wikipedia.org/wiki/John_Hartford'
 image_path: 03_Resources/source_material/ArtistPortraits/john_hartford.jpg
 biography_enhanced_at: '2025-12-22T01:38:19.000456'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.johnhartford.com/about-john/
-- https://alancackett.com/john-hartford-biography
-- https://en.wikipedia.org/wiki/John_Hartford
-- https://hartfordfest.com/about-john-hartford
+  - 'https://www.johnhartford.com/about-john/'
+  - 'https://alancackett.com/john-hartford-biography'
+  - 'https://en.wikipedia.org/wiki/John_Hartford'
+  - 'https://hartfordfest.com/about-john-hartford'
 network_extracted: true
 entry_created: '2025-12-22T01:38:19.000461'
 last_updated: '2025-12-23T08:16:10.752532'
 gender: Male
 musicbrainz_id: 3178cc4c-cd9f-4842-96fb-28bf9cfec591
 tags:
-- bluegrass
-- folk
-- old-time
+  - bluegrass
+  - folk
+  - old-time
+is_active: false
+origin: 'St. Louis, Missouri, United States'
 ---
 
 ![](john_hartford.jpg)

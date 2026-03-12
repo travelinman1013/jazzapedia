@@ -3,13 +3,13 @@ title: Rich Pulin Sextet
 wiki_slug: rich-pulin-sextet
 schema_version: 2
 status: active
-birth_place: Bethpage, Long Island, New York, USA
+birth_place: 'Bethpage, Long Island, New York, USA'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/rich_pulin_sextet.jpg
   caption: Rich Pulin Sextet
   background: solo_singer
-  origin: Bethpage, Long Island, New York, USA
+  origin: 'Bethpage, Long Island, New York, USA'
 audio_profile:
   tempo_avg: 122.8
   energy_avg: 0.535
@@ -25,52 +25,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dalton Smith
-  - Al Grey
-  - Ray Charles
-  - Tito Puente
-  - Glen Campbell
-  - The Supremes
+    - Dalton Smith
+    - Al Grey
+    - Ray Charles
+    - Tito Puente
+    - Glen Campbell
+    - The Supremes
   influenced:
-  - Brooke Pulin
-  - Early childhood jazz students
+    - Brooke Pulin
+    - Early childhood jazz students
   mentors:
-  - Billy Mitchell
-  - Clark Terry
-  - Nat Pierce
+    - Billy Mitchell
+    - Clark Terry
+    - Nat Pierce
 spotify_data:
   followers: 1
   id: 5pvbdm1x3BKjd47AArvWcH
   popularity: 0
-  url: https://open.spotify.com/artist/5pvbdm1x3BKjd47AArvWcH
+  url: 'https://open.spotify.com/artist/5pvbdm1x3BKjd47AArvWcH'
 discography_enriched: true
 top_tracks:
-- The Message (Always Pulin For You)
-- Cold Trane (pulin for YOU 2)
-- Song Is Hugh (pulin for YOU 2)
-- Horace Toccata (pulin for YOU 2)
-- Baby J (pulin for YOU 2)
-- Midnight Stream (pulin for YOU 2)
-- The Message (pulin for YOU 2)
-- Tazmanian Devil (pulin for YOU 2)
-- November Blues (pulin for YOU 2)
-- Little Friend (pulin for YOU 2)
+  - The Message (Always Pulin For You)
+  - Cold Trane (pulin for YOU 2)
+  - Song Is Hugh (pulin for YOU 2)
+  - Horace Toccata (pulin for YOU 2)
+  - Baby J (pulin for YOU 2)
+  - Midnight Stream (pulin for YOU 2)
+  - The Message (pulin for YOU 2)
+  - Tazmanian Devil (pulin for YOU 2)
+  - November Blues (pulin for YOU 2)
+  - Little Friend (pulin for YOU 2)
 external_urls:
-  spotify: https://open.spotify.com/artist/5pvbdm1x3BKjd47AArvWcH
+  spotify: 'https://open.spotify.com/artist/5pvbdm1x3BKjd47AArvWcH'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/rich_pulin_sextet.jpg
 biography_enhanced_at: '2025-11-11T09:18:28.044178'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://www.theearlychildhoodmusiceducationfoundation.org/richpulinbio
-- https://www.allaboutjazz.com/musicians/rich-pulin/
-- https://www.songtradr.com/rich.pulin
-- http://www.theearlychildhoodmusiceducationfoundation.org/learn-more
-- https://www.rogeraldridge.com/news/about-rich-pulin
+  - 'http://www.theearlychildhoodmusiceducationfoundation.org/richpulinbio'
+  - 'https://www.allaboutjazz.com/musicians/rich-pulin/'
+  - 'https://www.songtradr.com/rich.pulin'
+  - 'http://www.theearlychildhoodmusiceducationfoundation.org/learn-more'
+  - 'https://www.rogeraldridge.com/news/about-rich-pulin'
 network_extracted: true
 entry_created: '2025-11-11T09:18:28.044189'
 last_updated: '2025-12-23T08:16:14.838294'
+artist_type: band
 ---
 
 ![](rich_pulin_sextet.jpg)

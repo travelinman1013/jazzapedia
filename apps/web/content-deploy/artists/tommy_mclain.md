@@ -5,19 +5,19 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1940-03-15'
-birth_place: Jonesville
+birth_place: 'Jonesville, Louisiana, United States'
 death_date: '2025-07-24'
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 instruments:
-- piano
+  - piano
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 11a1e37e-4975-4fc6-8de0-48a2db467b4d
-  name: Lil’ Band o’ Gold
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 11a1e37e-4975-4fc6-8de0-48a2db467b4d
+    name: Lil’ Band o’ Gold
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/tommy_mclain.jpg
   caption: Tommy McLain
@@ -40,59 +40,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Clint West
-  - The Boogie Kings
-  - Floyd Soileau
-  - Freddy Fender
-  - Bobby Charles
-  - Elvis Costello
-  - Nick Lowe
+    - Clint West
+    - The Boogie Kings
+    - Floyd Soileau
+    - Freddy Fender
+    - Bobby Charles
+    - Elvis Costello
+    - Nick Lowe
   influenced:
-  - Freddy Fender
+    - Freddy Fender
   mentors:
-  - Fats Domino
-  - Little Richard
-  - Larry Williams
+    - Fats Domino
+    - Little Richard
+    - Larry Williams
 spotify_data:
   followers: 4611
   id: 2qmpfeyFFJJeOzSF6ZJ0oo
   popularity: 22
-  url: https://open.spotify.com/artist/2qmpfeyFFJJeOzSF6ZJ0oo
+  url: 'https://open.spotify.com/artist/2qmpfeyFFJJeOzSF6ZJ0oo'
 discography_enriched: true
 top_tracks:
-- I Need You So (The Essential Collection)
-- I Need You So - Remastered
-- Jukebox Songs (Swamp Poppin')
-- Sweet Dreams (The Essential Collection)
-- Before I Grow Too Old (The Essential Collection)
-- Release Me (A Tribute to the King of Zydeco)
-- I Ran Down Every Dream (I Ran Down Every Dream)
-- Jukebox Song (Legends Making Memories)
-- My Heart Remembers (The Essential Collection)
-- Got You on My Mind (Swamp Poppin')
+  - I Need You So (The Essential Collection)
+  - I Need You So - Remastered
+  - Jukebox Songs (Swamp Poppin')
+  - Sweet Dreams (The Essential Collection)
+  - Before I Grow Too Old (The Essential Collection)
+  - Release Me (A Tribute to the King of Zydeco)
+  - I Ran Down Every Dream (I Ran Down Every Dream)
+  - Jukebox Song (Legends Making Memories)
+  - My Heart Remembers (The Essential Collection)
+  - Got You on My Mind (Swamp Poppin')
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ddf2b13b-6739-4eed-8c0f-b5cfe2a3e8c4
-  spotify: https://open.spotify.com/artist/2qmpfeyFFJJeOzSF6ZJ0oo
-  wikipedia: https://en.wikipedia.org/wiki/Tommy_McLain
+  musicbrainz: 'https://musicbrainz.org/artist/ddf2b13b-6739-4eed-8c0f-b5cfe2a3e8c4'
+  spotify: 'https://open.spotify.com/artist/2qmpfeyFFJJeOzSF6ZJ0oo'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tommy_McLain'
 image_path: 03_Resources/source_material/ArtistPortraits/tommy_mclain.jpg
 biography_enhanced_at: '2025-11-27T06:41:14.181938'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- OffBeat Magazine
-- Wikipedia
-- IMDb Biography
-- Louisiana Music Hall of Fame
-- Yep Roc Records
-- Flat Town Music
-- 64 Parishes
+  - OffBeat Magazine
+  - Wikipedia
+  - IMDb Biography
+  - Louisiana Music Hall of Fame
+  - Yep Roc Records
+  - Flat Town Music
+  - 64 Parishes
 network_extracted: true
 entry_created: '2025-11-27T06:41:14.181959'
 last_updated: '2025-12-23T08:16:17.570899'
 gender: Male
 musicbrainz_id: ddf2b13b-6739-4eed-8c0f-b5cfe2a3e8c4
 tags:
-- swamp pop
+  - swamp pop
+is_active: false
+origin: 'Pineville, Louisiana, United States'
 ---
 
 ![](tommy_mclain.jpg)

@@ -3,47 +3,61 @@ biography_enhanced_at: '2026-01-08T01:44:20.536042'
 enhancement_provider: perplexity
 entry_created: '2026-01-08T01:44:20.536047'
 external_urls:
-  spotify: https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A
-  wikipedia: https://en.wikipedia.org/wiki/Duke_Ellington_%26_John_Coltrane
+  spotify: 'https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A'
+  wikipedia: 'https://en.wikipedia.org/wiki/Duke_Ellington_%26_John_Coltrane'
 genres:
-- jazz
-- big band
-- swing music
-- cool jazz
-image_path: 03_Resources/source_material/ArtistPortraits/duke_ellington_and_john_coltrane.jpg
+  - jazz
+  - big band
+  - swing music
+  - cool jazz
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/duke_ellington_and_john_coltrane.jpg
 last_updated: '2026-01-08T01:44:20.536048'
 musical_connections:
   collaborators:
-  - Jimmy Garrison
-  - Aaron Bell
-  - Elvin Jones
-  - Sam Woodyard
-  - Charles Mingus and Max Roach
+    - Jimmy Garrison
+    - Aaron Bell
+    - Elvin Jones
+    - Sam Woodyard
+    - Charles Mingus and Max Roach
   influenced:
-  - Post‑1960s jazz pianists and bandleaders (e.g., Herbie Hancock, McCoy Tyner, later small‑group Ellington interpreters)
-  - Modern saxophonists drawing on both tradition and avant‑garde (e.g., Michael Brecker, Branford Marsalis)
-  - Cross‑generational jazz projects and ‘meeting of giants’ albums
+    - >-
+      Post‑1960s jazz pianists and bandleaders (e.g., Herbie Hancock, McCoy
+      Tyner, later small‑group Ellington interpreters)
+    - >-
+      Modern saxophonists drawing on both tradition and avant‑garde (e.g.,
+      Michael Brecker, Branford Marsalis)
+    - Cross‑generational jazz projects and ‘meeting of giants’ albums
   mentors:
-  - Stride and early jazz pianists (e.g., James P. Johnson, Willie 'The Lion' Smith)
-  - Swing and bebop innovators (e.g., Charlie Parker, Dexter Gordon, Lester Young)
-  - Modal jazz and post‑bop thinkers (e.g., Miles Davis, Thelonious Monk)
+    - >-
+      Stride and early jazz pianists (e.g., James P. Johnson, Willie 'The Lion'
+      Smith)
+    - >-
+      Swing and bebop innovators (e.g., Charlie Parker, Dexter Gordon, Lester
+      Young)
+    - 'Modal jazz and post‑bop thinkers (e.g., Miles Davis, Thelonious Monk)'
 network_extracted: true
-origin: Englewood Cliffs, New Jersey, United States (recording location and effective origin point of the collaborative project)
+origin: >-
+  Englewood Cliffs, New Jersey, United States (recording location and effective
+  origin point of the collaborative project)
 primary_source: perplexity
 research_sources:
-- https://bertoltpress.com/2021/05/30/duke-ellington-john-coltrane-a-collaboration-between-the-generations/
-- https://www.udiscovermusic.com/stories/jazz-genius/
-- https://jazzfuel.com/duke-ellington-john-coltrane-1963/
-- https://jazzsketches.substack.com/p/duke-ellington-and-john-coltrane
-- https://en.wikipedia.org/wiki/Duke_Ellington_%26_John_Coltrane
+  - >-
+    https://bertoltpress.com/2021/05/30/duke-ellington-john-coltrane-a-collaboration-between-the-generations/
+  - 'https://www.udiscovermusic.com/stories/jazz-genius/'
+  - 'https://jazzfuel.com/duke-ellington-john-coltrane-1963/'
+  - 'https://jazzsketches.substack.com/p/duke-ellington-and-john-coltrane'
+  - 'https://en.wikipedia.org/wiki/Duke_Ellington_%26_John_Coltrane'
 spotify_data:
   followers: 978344
   id: 4F7Q5NV6h5TSwCainz8S5A
   popularity: 63
-  url: https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A
+  url: 'https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A'
 status: active
-title: duke ellington and john coltrane
-
+title: Duke Ellington and John Coltrane
+birth_place: 'Washington, D.C., United States'
+birth_date: '1899-04-29'
+artist_type: band
 ---
 
 ![](duke_ellington_and_john_coltrane.jpg)

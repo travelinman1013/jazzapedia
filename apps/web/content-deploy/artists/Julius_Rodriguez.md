@@ -2,16 +2,16 @@
 title: Julius Rodriguez
 wiki_slug: julius-rodriguez
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
-birth_place: White Plains, New York, United States
+birth_place: 'White Plains, New York, United States'
 genres:
-- jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Julius_Rodriguez.jpg
   caption: Julius Rodriguez
   background: solo_singer
-  origin: White Plains, New York, United States
+  origin: 'White Plains, New York, United States'
 audio_profile:
   tempo_avg: 109.4
   energy_avg: 0.466
@@ -27,51 +27,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Isaiah Barr
-  - A$AP Rocky
-  - Meshell Ndegeocello
-  - Brasstracks
-  - Carmen Lundy
-  - Roy Hargrove
-  - Wynton Marsalis
-  - Keyon Harrold
+    - Isaiah Barr
+    - A$AP Rocky
+    - Meshell Ndegeocello
+    - Brasstracks
+    - Carmen Lundy
+    - Roy Hargrove
+    - Wynton Marsalis
+    - Keyon Harrold
   influenced:
-  - Philip Norris
-  - Immanuel Wilkins
-  - Isaiah Thompson
+    - Philip Norris
+    - Immanuel Wilkins
+    - Isaiah Thompson
   mentors:
-  - Jeremy Manasia
-  - Terri Lyne Carrington
+    - Jeremy Manasia
+    - Terri Lyne Carrington
 spotify_data:
   followers: 19324
   id: 50qPbhYR2iMZzD3iz0eBMF
   popularity: 28
-  url: https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF
+  url: 'https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF'
 discography_enriched: true
 top_tracks:
-- FOCUS (MEMORIES FOR SALE ---AT---> 66 GREENE ST SOHO NY)
-- All I Do (Let Sound Tell All)
-- MOMENTUM (MOMENTUM)
-- Run To It (The CP Song) (Evergreen)
-- Where Grace Abounds (Let Sound Tell All)
-- All I Do (All I Do)
-- I'm Only Me (Indigo)
-- Virgo (feat. Brandee Younger, Julius Rodriguez) (The Omnichord Real Book)
-- Gift Of The Moon (Let Sound Tell All)
-- Love Everlasting (feat. Keyon Harrold) (Evergreen)
+  - FOCUS (MEMORIES FOR SALE ---AT---> 66 GREENE ST SOHO NY)
+  - All I Do (Let Sound Tell All)
+  - MOMENTUM (MOMENTUM)
+  - Run To It (The CP Song) (Evergreen)
+  - Where Grace Abounds (Let Sound Tell All)
+  - All I Do (All I Do)
+  - I'm Only Me (Indigo)
+  - 'Virgo (feat. Brandee Younger, Julius Rodriguez) (The Omnichord Real Book)'
+  - Gift Of The Moon (Let Sound Tell All)
+  - Love Everlasting (feat. Keyon Harrold) (Evergreen)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/020ccb10-f02f-4e2f-bfb9-52c3190e12cb
-  spotify: https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF
+  musicbrainz: 'https://musicbrainz.org/artist/020ccb10-f02f-4e2f-bfb9-52c3190e12cb'
+  spotify: 'https://open.spotify.com/artist/50qPbhYR2iMZzD3iz0eBMF'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/Julius_Rodriguez.jpg
 biography_enhanced_at: '2025-10-21T06:39:36.782443'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.thegilmore.org/blog/who-is-julius-rodriguez/
-- https://www.yamaha.com/yasi/artists/details.html?CNTID=7208071&type=jazz
-- https://g-steps.com/en/artiste/julius-rodriguez/
-- https://www.iajo.org/iajo04/usa/rodrig.htm
+  - 'https://www.thegilmore.org/blog/who-is-julius-rodriguez/'
+  - 'https://www.yamaha.com/yasi/artists/details.html?CNTID=7208071&type=jazz'
+  - 'https://g-steps.com/en/artiste/julius-rodriguez/'
+  - 'https://www.iajo.org/iajo04/usa/rodrig.htm'
 network_extracted: true
 entry_created: '2025-10-21T06:39:36.782457'
 last_updated: '2025-12-23T08:16:02.750310'

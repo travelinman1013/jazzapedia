@@ -1,46 +1,47 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-21T01:17:07.904462'
-birth_place: Lafayette
+birth_place: 'Lafayette, Louisiana, United States'
 disambiguation: Irish folk
 enhancement_provider: perplexity
 entry_created: '2026-01-21T01:17:07.904468'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8a3cc8ec-1273-4ff6-8a57-859cbdd03d7d
-  spotify: https://open.spotify.com/artist/6uibS31k2llYYQr2HcryK0
-  wikipedia: https://en.wikipedia.org/wiki/Beth_Patterson
+  musicbrainz: 'https://musicbrainz.org/artist/8a3cc8ec-1273-4ff6-8a57-859cbdd03d7d'
+  spotify: 'https://open.spotify.com/artist/6uibS31k2llYYQr2HcryK0'
+  wikipedia: 'https://en.wikipedia.org/wiki/Beth_Patterson'
 gender: Female
 genres:
-- celtic
+  - celtic
 image_path: 03_Resources/source_material/ArtistPortraits/beth_patterson.jpg
 last_updated: '2026-01-21T01:17:07.904469'
 musical_connections:
   collaborators:
-  - Poor Clares
-  - Josh Paxton
-  - Patrick O'Flaherty
-  - TornaoD
+    - Poor Clares
+    - Josh Paxton
+    - Patrick O'Flaherty
+    - TornaoD
   influenced: []
   mentors:
-  - Rush
+    - Rush
 musicbrainz_id: 8a3cc8ec-1273-4ff6-8a57-859cbdd03d7d
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Beth_Patterson
-- https://canvasrebel.com/meet-beth-patterson-2/
-- https://annarborobserver.com/beth-patterson/
-- http://contraflowscifi.org/beth-patterson
-- https://michaelaventrella.com/2019/12/21/interview-with-author-beth-w-patterson/
-- https://bethpattersonmusic.com/bio/
-- https://www.neworleans.com/listing/beth-patterson/48397/
-- https://bethpattersonmusic.com
-- https://poormansfortune.com/music/promo/bios.html
+  - 'https://en.wikipedia.org/wiki/Beth_Patterson'
+  - 'https://canvasrebel.com/meet-beth-patterson-2/'
+  - 'https://annarborobserver.com/beth-patterson/'
+  - 'http://contraflowscifi.org/beth-patterson'
+  - >-
+    https://michaelaventrella.com/2019/12/21/interview-with-author-beth-w-patterson/
+  - 'https://bethpattersonmusic.com/bio/'
+  - 'https://www.neworleans.com/listing/beth-patterson/48397/'
+  - 'https://bethpattersonmusic.com'
+  - 'https://poormansfortune.com/music/promo/bios.html'
 spotify_data:
   followers: 634
   id: 6uibS31k2llYYQr2HcryK0
   popularity: 8
-  url: https://open.spotify.com/artist/6uibS31k2llYYQr2HcryK0
+  url: 'https://open.spotify.com/artist/6uibS31k2llYYQr2HcryK0'
 status: active
 title: Beth Patterson
 ---

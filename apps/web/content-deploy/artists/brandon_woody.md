@@ -3,14 +3,14 @@ title: Brandon Woody
 wiki_slug: brandon-woody
 schema_version: 2
 status: active
-birth_place: Baltimore, Maryland, United States
+birth_place: 'Baltimore, Maryland, United States'
 genres:
-- jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/brandon_woody.jpg
   caption: Brandon Woody
   background: solo_singer
-  origin: Baltimore, Maryland, United States
+  origin: 'Baltimore, Maryland, United States'
 audio_profile:
   tempo_avg: 108.4
   energy_avg: 0.64
@@ -26,55 +26,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Troy Long
-  - Mike Saunders
-  - Quincy Phillips
-  - Gio Escobar
-  - Solange
-  - Sudan Archives
-  - Paul Russell
+    - Troy Long
+    - Mike Saunders
+    - Quincy Phillips
+    - Gio Escobar
+    - Solange
+    - Sudan Archives
+    - Paul Russell
   influenced:
-  - Students at various institutions
+    - Students at various institutions
   mentors:
-  - Craig Alston
-  - Warren Wolf
-  - Ambrose Akinmusire
-  - Stefon Harris
-  - Cecil Bridgewater
+    - Craig Alston
+    - Warren Wolf
+    - Ambrose Akinmusire
+    - Stefon Harris
+    - Cecil Bridgewater
 spotify_data:
   followers: 2087
   id: 64f5OrVcRZ4A23TjV3SE4t
   popularity: 16
-  url: https://open.spotify.com/artist/64f5OrVcRZ4A23TjV3SE4t
+  url: 'https://open.spotify.com/artist/64f5OrVcRZ4A23TjV3SE4t'
 discography_enriched: true
 top_tracks:
-- Real Love Pt. 1 (Real Love, Pt. 1)
-- Never Gonna Run Away (Never Gonna Run Away)
-- Real Love Pt. 1 (Never Gonna Run Away)
-- Wisdom; Terrace on St. Paul St. (Wisdom; Terrace on St. Paul St.)
-- Wisdom; Terrace on St. Paul St. (Never Gonna Run Away)
-- OZARK (find my friends)
-- Real Love Pt. 1 (Wisdom; Terrace on St. Paul St.)
-- Never Gonna Run Away (For The Love Of It All)
-- Beyond The Reach Of Our Eyes (For The Love Of It All)
-- Wisdom; Terrace on St. Paul St. (For The Love Of It All)
+  - 'Real Love Pt. 1 (Real Love, Pt. 1)'
+  - Never Gonna Run Away (Never Gonna Run Away)
+  - Real Love Pt. 1 (Never Gonna Run Away)
+  - Wisdom; Terrace on St. Paul St. (Wisdom; Terrace on St. Paul St.)
+  - Wisdom; Terrace on St. Paul St. (Never Gonna Run Away)
+  - OZARK (find my friends)
+  - Real Love Pt. 1 (Wisdom; Terrace on St. Paul St.)
+  - Never Gonna Run Away (For The Love Of It All)
+  - Beyond The Reach Of Our Eyes (For The Love Of It All)
+  - Wisdom; Terrace on St. Paul St. (For The Love Of It All)
 external_urls:
-  spotify: https://open.spotify.com/artist/64f5OrVcRZ4A23TjV3SE4t
+  spotify: 'https://open.spotify.com/artist/64f5OrVcRZ4A23TjV3SE4t'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/brandon_woody.jpg
 biography_enhanced_at: '2025-12-04T07:40:42.029602'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- brandonwoody.com
-- capitalbop.com - Brandon Woody Interview
-- theclaycenter.org - Cecil I. Walker Jazz Series
-- montereyjazz.org - Brandon Woody's Upendo
-- atljazzfest.com - Brandon Woody
-- baltimorejazz.com - Brandon Woody, Rising Trumpet Star
+  - brandonwoody.com
+  - capitalbop.com - Brandon Woody Interview
+  - theclaycenter.org - Cecil I. Walker Jazz Series
+  - montereyjazz.org - Brandon Woody's Upendo
+  - atljazzfest.com - Brandon Woody
+  - 'baltimorejazz.com - Brandon Woody, Rising Trumpet Star'
 network_extracted: true
 entry_created: '2025-12-04T07:40:42.029612'
 last_updated: '2025-12-23T08:16:06.027728'
+artist_type: person
 ---
 
 ![](brandon_woody.jpg)

@@ -1,13 +1,13 @@
 ---
-title: egg yolk jubilee
+title: Egg Yolk Jubilee
 wiki_slug: egg-yolk-jubilee
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1996'
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/egg_yolk_jubilee.jpg
   caption: egg yolk jubilee
@@ -28,44 +28,44 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Geoff Douville
-  - Jeff Douville
+    - Geoff Douville
+    - Jeff Douville
   influenced: []
   mentors: []
 spotify_data:
   followers: 230
   id: 4eiFfaHniBnKopIlS8GgvT
   popularity: 1
-  url: https://open.spotify.com/artist/4eiFfaHniBnKopIlS8GgvT
+  url: 'https://open.spotify.com/artist/4eiFfaHniBnKopIlS8GgvT'
 discography_enriched: true
 top_tracks:
-- Show Your @#$% (Show Your @#$%)
-- Black Droz (Defining Gravity)
-- Clams and Noodles (Defining Gravity)
-- Ade (Defining Gravity)
-- Sex Robot (Defining Gravity)
-- Harb Arbez (Defining Gravity)
-- And Away We Geaux (Defining Gravity)
-- Fluff (Defining Gravity)
-- Oo in the Middle (Defining Gravity)
-- Greens and Beans (Defining Gravity)
+  - Show Your @#$% (Show Your @#$%)
+  - Black Droz (Defining Gravity)
+  - Clams and Noodles (Defining Gravity)
+  - Ade (Defining Gravity)
+  - Sex Robot (Defining Gravity)
+  - Harb Arbez (Defining Gravity)
+  - And Away We Geaux (Defining Gravity)
+  - Fluff (Defining Gravity)
+  - Oo in the Middle (Defining Gravity)
+  - Greens and Beans (Defining Gravity)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/cce2f08c-083c-4e0f-9b26-e42c7aa5146a
-  spotify: https://open.spotify.com/artist/4eiFfaHniBnKopIlS8GgvT
-  wikipedia: https://en.wikipedia.org/wiki/Egg_Yolk_Jubilee
+  musicbrainz: 'https://musicbrainz.org/artist/cce2f08c-083c-4e0f-9b26-e42c7aa5146a'
+  spotify: 'https://open.spotify.com/artist/4eiFfaHniBnKopIlS8GgvT'
+  wikipedia: 'https://en.wikipedia.org/wiki/Egg_Yolk_Jubilee'
 image_path: 03_Resources/source_material/ArtistPortraits/egg_yolk_jubilee.jpg
 biography_enhanced_at: '2025-11-15T18:18:42.087610'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://eggyolkjubilee.com/bios-htm/
-- https://www.offbeat.com/news/geoff-douville-tribute-concert/
-- https://en.wikipedia.org/wiki/Egg_Yolk_Jubilee
+  - 'https://eggyolkjubilee.com/bios-htm/'
+  - 'https://www.offbeat.com/news/geoff-douville-tribute-concert/'
+  - 'https://en.wikipedia.org/wiki/Egg_Yolk_Jubilee'
 network_extracted: true
 entry_created: '2025-11-15T18:18:42.087616'
 last_updated: '2025-12-23T08:16:08.256146'
 musicbrainz_id: cce2f08c-083c-4e0f-9b26-e42c7aa5146a
-origin: New Orleans
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](egg_yolk_jubilee.jpg)

@@ -5,22 +5,22 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1999-11-11'
-birth_place: The Bronx
+birth_place: 'The Bronx, New York, United States'
 genres:
-- vocal jazz
-- jazz
+  - vocal jazz
+  - jazz
 instruments:
-- eponymous
-- original
-- lead vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
-  mbid: 929d1ce7-05ef-4c65-bb9f-86dc973f0f89
-  name: Samara Joy Octet
+  - lead vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 929d1ce7-05ef-4c65-bb9f-86dc973f0f89
+    name: Samara Joy Octet
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/samara_joy.jpg
   caption: Samara Joy
@@ -42,61 +42,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Christian McBride
-  - Bill Charlap
-  - Sullivan Fortner
-  - Brian Lynch
-  - Pasquale Grasso
+    - Christian McBride
+    - Bill Charlap
+    - Sullivan Fortner
+    - Brian Lynch
+    - Pasquale Grasso
   influenced: []
   mentors:
-  - Alexis Cole
-  - Jon Faddis
-  - Kenny Washington
-  - Barry Harris
-  - Christian McBride
-  - Matt Pierson
+    - Alexis Cole
+    - Jon Faddis
+    - Kenny Washington
+    - Barry Harris
+    - Christian McBride
+    - Matt Pierson
 spotify_data:
   followers: 358573
   id: 5LkbTSqXfMBjFSGi9LOGjq
   popularity: 53
-  url: https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq
+  url: 'https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq'
 discography_enriched: true
 top_tracks:
-- Everything Happens to Me (Samara Joy)
-- Stardust (Samara Joy)
-- You Stepped Out Of A Dream (You Stepped Out Of A Dream)
-- Can't Get Out Of This Mood (Linger Awhile)
-- I Miss You So (I Miss You So)
-- Misty (Linger Awhile)
-- Can't Get Out Of This Mood
-- Guess Who I Saw Today (Linger Awhile)
-- You Stepped Out Of A Dream (Portrait)
-- Autumn Nocturne
+  - Everything Happens to Me (Samara Joy)
+  - Stardust (Samara Joy)
+  - You Stepped Out Of A Dream (You Stepped Out Of A Dream)
+  - Can't Get Out Of This Mood (Linger Awhile)
+  - I Miss You So (I Miss You So)
+  - Misty (Linger Awhile)
+  - Can't Get Out Of This Mood
+  - Guess Who I Saw Today (Linger Awhile)
+  - You Stepped Out Of A Dream (Portrait)
+  - Autumn Nocturne
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/bf9bd7ab-57f1-426e-bf4f-2da6103b9c17
-  spotify: https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq
-  wikipedia: https://en.wikipedia.org/wiki/Samara_Joy
+  musicbrainz: 'https://musicbrainz.org/artist/bf9bd7ab-57f1-426e-bf4f-2da6103b9c17'
+  spotify: 'https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq'
+  wikipedia: 'https://en.wikipedia.org/wiki/Samara_Joy'
 image_path: 03_Resources/source_material/ArtistPortraits/samara_joy.jpg
 biography_enhanced_at: '2025-12-04T07:44:19.710456'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Samara Joy
-- SUNY Purchase College - Samara Joy Profile
-- All About Jazz - Samara Joy Musician
-- Tobin Center - Samara Joy
-- Samara Joy Official Website
-- St. Cecilia Music Center - Samara Joy
-- Segerstrom Center for the Arts - Samara Joy
-- BlackPast.org - Samara Joy
+  - Wikipedia - Samara Joy
+  - SUNY Purchase College - Samara Joy Profile
+  - All About Jazz - Samara Joy Musician
+  - Tobin Center - Samara Joy
+  - Samara Joy Official Website
+  - St. Cecilia Music Center - Samara Joy
+  - Segerstrom Center for the Arts - Samara Joy
+  - BlackPast.org - Samara Joy
 network_extracted: true
 entry_created: '2025-12-04T07:44:19.710468'
 last_updated: '2025-12-23T08:16:15.333247'
 gender: Female
 musicbrainz_id: bf9bd7ab-57f1-426e-bf4f-2da6103b9c17
 tags:
-- jazz
-- vocal jazz
+  - jazz
+  - vocal jazz
 ---
 
 ![](samara_joy.jpg)

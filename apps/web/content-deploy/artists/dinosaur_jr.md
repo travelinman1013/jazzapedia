@@ -2,16 +2,16 @@
 title: Dinosaur Jr.
 wiki_slug: dinosaur-jr
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1984'
 genres:
-- noise rock
-- grunge
-- alternative rock
-- power pop
+  - noise rock
+  - grunge
+  - alternative rock
+  - power pop
 instruments:
-- lead vocals
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/dinosaur_jr.jpg
   caption: Dinosaur Jr.
@@ -24,7 +24,7 @@ audio_profile:
   danceability_avg: 0.269
   acousticness_avg: 0.079
   instrumentalness_avg: 0.113
-  loudness_avg: -6.0
+  loudness_avg: -6
   speechiness_avg: 0.089
   liveness_avg: 0.19
   track_count: 50
@@ -32,79 +32,79 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lou Barlow
-  - Murph (Emmett Patrick Murphy)
-  - Mike Johnson
-  - Sonic Youth
+    - Lou Barlow
+    - Murph (Emmett Patrick Murphy)
+    - Mike Johnson
+    - Sonic Youth
   influenced:
-  - My Bloody Valentine
-  - Sonic Youth
-  - Sebadoh
+    - My Bloody Valentine
+    - Sonic Youth
+    - Sebadoh
   mentors:
-  - Ian Paice
-  - Neil Young
-  - Black Sabbath
+    - Ian Paice
+    - Neil Young
+    - Black Sabbath
 spotify_data:
   followers: 592411
   id: 267VY6GX5LyU5c9M85ECZQ
   popularity: 50
-  url: https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ
+  url: 'https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ'
 discography_enriched: true
 top_tracks:
-- Feel the Pain (Without a Sound)
-- Start Choppin' (Where You Been)
-- Just Like Heaven (You're Living All Over Me)
-- Crumble (Beyond)
-- Freak Scene (Bug)
-- Little Fury Things (You're Living All Over Me)
-- In a Jar (You're Living All Over Me)
-- The Wagon (Green Mind)
-- Almost Ready (Beyond)
-- Goin' Home (Where You Been)
+  - Feel the Pain (Without a Sound)
+  - Start Choppin' (Where You Been)
+  - Just Like Heaven (You're Living All Over Me)
+  - Crumble (Beyond)
+  - Freak Scene (Bug)
+  - Little Fury Things (You're Living All Over Me)
+  - In a Jar (You're Living All Over Me)
+  - The Wagon (Green Mind)
+  - Almost Ready (Beyond)
+  - Goin' Home (Where You Been)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/77c167d2-4965-4421-830a-9815e4956475
-  spotify: https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ
-  wikipedia: https://en.wikipedia.org/wiki/Dinosaur_Jr.
+  musicbrainz: 'https://musicbrainz.org/artist/77c167d2-4965-4421-830a-9815e4956475'
+  spotify: 'https://open.spotify.com/artist/267VY6GX5LyU5c9M85ECZQ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dinosaur_Jr.'
 image_path: 03_Resources/source_material/ArtistPortraits/dinosaur_jr.jpg
 biography_enhanced_at: '2025-10-29T16:58:55.937287'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Dinosaur_Jr.
-- https://kids.kiddle.co/Dinosaur_Jr.
-- https://www.loudersound.com/features/dinosaur-jr-in-the-80s
-- https://mail.scaruffi.com/vol4/dinosaur.html
+  - 'https://en.wikipedia.org/wiki/Dinosaur_Jr.'
+  - 'https://kids.kiddle.co/Dinosaur_Jr.'
+  - 'https://www.loudersound.com/features/dinosaur-jr-in-the-80s'
+  - 'https://mail.scaruffi.com/vol4/dinosaur.html'
 network_extracted: true
 entry_created: '2025-10-29T16:58:55.937291'
 last_updated: '2025-12-23T08:16:07.784032'
 disambiguation: US rock band
 members:
-- begin: '1990'
-  end: '1997'
-  instruments: []
-  mbid: 842226e0-fc89-468d-95c7-1e1cca0db944
-  name: Mike Johnson
-- begin: ''
-  end: '1989'
-  instruments: []
-  mbid: 6523f86d-11d3-489e-81f6-6cbe08c367de
-  name: Lou Barlow
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 82315599-2215-4c3e-a36f-87be58d06ec0
-  name: J Mascis
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9d47f849-23c5-4a9f-88eb-db2774595bf8
-  name: Murph
+  - begin: '1990'
+    end: '1997'
+    instruments: []
+    mbid: 842226e0-fc89-468d-95c7-1e1cca0db944
+    name: Mike Johnson
+  - begin: ''
+    end: '1989'
+    instruments: []
+    mbid: 6523f86d-11d3-489e-81f6-6cbe08c367de
+    name: Lou Barlow
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 82315599-2215-4c3e-a36f-87be58d06ec0
+    name: J Mascis
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9d47f849-23c5-4a9f-88eb-db2774595bf8
+    name: Murph
 musicbrainz_id: 77c167d2-4965-4421-830a-9815e4956475
-origin: Amherst
+origin: 'Amherst, Massachusetts, United States'
 tags:
-- alternative rock
-- indie rock
-- new wave
+  - alternative rock
+  - indie rock
+  - new wave
 ---
 
 ![](dinosaur_jr.jpg)

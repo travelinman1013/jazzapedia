@@ -2,21 +2,21 @@
 title: Charlie Musselwhite
 wiki_slug: charlie-musselwhite
 schema_version: 2
-artist_type: Person
+artist_type: band
 status: active
 birth_date: '1944-01-31'
-birth_place: Kosciusko, Mississippi, United States
+birth_place: 'Kosciusko, Mississippi, United States'
 genres:
-- blues
-- modern blues
-- classic blues
-- blues rock
+  - blues
+  - modern blues
+  - classic blues
+  - blues rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Charlie_Musselwhite.jpg
   caption: Charlie Musselwhite
   background: solo_singer
   born: '1944-01-31'
-  origin: Kosciusko, Mississippi, United States
+  origin: 'Kosciusko, Mississippi, United States'
 audio_profile:
   tempo_avg: 110.2
   energy_avg: 0.496
@@ -32,52 +32,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John Lee Hooker
-  - Bonnie Raitt
-  - The Blind Boys of Alabama
-  - Tom Waits
-  - INXS
-  - Ben Harper
-  - Paul Butterfield
+    - John Lee Hooker
+    - Bonnie Raitt
+    - The Blind Boys of Alabama
+    - Tom Waits
+    - INXS
+    - Ben Harper
+    - Paul Butterfield
   influenced:
-  - Dan Aykroyd
-  - Modern blues harmonica players
+    - Dan Aykroyd
+    - Modern blues harmonica players
   mentors:
-  - Muddy Waters
-  - Junior Wells
-  - Sonny Boy Williamson
-  - Buddy Guy
-  - Howlin’ Wolf
-  - Little Walter
+    - Muddy Waters
+    - Junior Wells
+    - Sonny Boy Williamson
+    - Buddy Guy
+    - Howlin’ Wolf
+    - Little Walter
 spotify_data:
   followers: 58262
   id: 4NikxGoDm5LGVYAHj0Euoc
   popularity: 35
-  url: https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc
+  url: 'https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc'
 discography_enriched: true
 top_tracks:
-- Christo Redemptor (Stand Back!)
-- Look Out Highway
-- You Found Another Lover (I Lost Another Friend) - The Machine Shop Session (Get Up! (Deluxe Edition))
-- Hip Shakin' Mama (Look Out Highway)
-- Storm Warning
-- Look Out Highway (Look Out Highway)
-- I'm A Woman
-- Rank Strangers (Mississippi Son)
-- Sad Eyes (Look Out Highway)
-- Ready For Times To Get Better (Look Out Highway)
+  - Christo Redemptor (Stand Back!)
+  - Look Out Highway
+  - >-
+    You Found Another Lover (I Lost Another Friend) - The Machine Shop Session
+    (Get Up! (Deluxe Edition))
+  - Hip Shakin' Mama (Look Out Highway)
+  - Storm Warning
+  - Look Out Highway (Look Out Highway)
+  - I'm A Woman
+  - Rank Strangers (Mississippi Son)
+  - Sad Eyes (Look Out Highway)
+  - Ready For Times To Get Better (Look Out Highway)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/034c320b-0f58-4eca-8eb2-66cafac06b3b
-  spotify: https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc
-  wikipedia: https://en.wikipedia.org/wiki/Charlie_Musselwhite
+  musicbrainz: 'https://musicbrainz.org/artist/034c320b-0f58-4eca-8eb2-66cafac06b3b'
+  spotify: 'https://open.spotify.com/artist/4NikxGoDm5LGVYAHj0Euoc'
+  wikipedia: 'https://en.wikipedia.org/wiki/Charlie_Musselwhite'
 image_path: 03_Resources/source_material/ArtistPortraits/Charlie_Musselwhite.jpg
 biography_enhanced_at: '2025-10-20T09:58:01.574792'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- City of Clarksdale Official Site
-- Big Train Blues
-- Memphis Music Hall of Fame
+  - City of Clarksdale Official Site
+  - Big Train Blues
+  - Memphis Music Hall of Fame
 network_extracted: true
 entry_created: '2025-10-20T09:58:01.574810'
 last_updated: '2025-12-23T08:16:06.741039'
@@ -85,9 +87,9 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:50:37.528040'
 musicbrainz_id: 034c320b-0f58-4eca-8eb2-66cafac06b3b
 tags:
-- blues
-- chicago blues
-- electric blues
+  - blues
+  - chicago blues
+  - electric blues
 ---
 
 ![](Charlie_Musselwhite.jpg)

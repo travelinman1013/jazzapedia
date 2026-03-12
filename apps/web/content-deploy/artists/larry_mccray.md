@@ -1,66 +1,67 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 25c93372-460d-4f10-aa30-e776092cd45f
-  name: The Larry McCray Band
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 25c93372-460d-4f10-aa30-e776092cd45f
+    name: The Larry McCray Band
 biography_enhanced_at: '2026-01-22T07:15:39.378454'
 birth_date: '1960-04-05'
-birth_place: Magnolia
+birth_place: 'Magnolia, Arkansas, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:15:39.378460'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/09c635be-c8e8-4f89-94bf-05c66b8144a1
-  spotify: https://open.spotify.com/artist/24NDm7vTLocVLStlgkKjJc
-  wikipedia: https://en.wikipedia.org/wiki/Larry_McCray
+  musicbrainz: 'https://musicbrainz.org/artist/09c635be-c8e8-4f89-94bf-05c66b8144a1'
+  spotify: 'https://open.spotify.com/artist/24NDm7vTLocVLStlgkKjJc'
+  wikipedia: 'https://en.wikipedia.org/wiki/Larry_McCray'
 gender: Male
 genres:
-- blues
-- blues rock
-- modern blues
+  - blues
+  - blues rock
+  - modern blues
 image_path: 03_Resources/source_material/ArtistPortraits/larry_mccray.jpg
 instruments:
-- eponymous
-- guitar
+  - eponymous
+  - guitar
 last_updated: '2026-01-22T07:15:39.378461'
 musical_connections:
   collaborators:
-  - Albert Collins
-  - Carl McCray
-  - Steve McCray
-  - Mike Vernon
-  - Joe Bonamassa
-  - Josh Smith
+    - Albert Collins
+    - Carl McCray
+    - Steve McCray
+    - Mike Vernon
+    - Joe Bonamassa
+    - Josh Smith
   influenced: []
   mentors:
-  - Albert King
-  - B.B. King
-  - Freddie King
-  - Albert Collins
+    - Albert King
+    - B.B. King
+    - Freddie King
+    - Albert Collins
 musicbrainz_id: 09c635be-c8e8-4f89-94bf-05c66b8144a1
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://coltranejazzfest.com/larry-mccray/
-- https://larrymccraylive.com
-- https://www.lyrictheatre.com/past-show/10707-larry-mccray
-- https://michiganrockandrolllegends.com/hall-of-fame/artists/497-larry-mccray
-- https://en.wikipedia.org/wiki/Larry_McCray
-- https://www.flyingmonkeynh.com/events/larry-mccray/
-- https://larrymccray.bandcamp.com
+  - 'https://coltranejazzfest.com/larry-mccray/'
+  - 'https://larrymccraylive.com'
+  - 'https://www.lyrictheatre.com/past-show/10707-larry-mccray'
+  - 'https://michiganrockandrolllegends.com/hall-of-fame/artists/497-larry-mccray'
+  - 'https://en.wikipedia.org/wiki/Larry_McCray'
+  - 'https://www.flyingmonkeynh.com/events/larry-mccray/'
+  - 'https://larrymccray.bandcamp.com'
 spotify_data:
   followers: 9340
   id: 24NDm7vTLocVLStlgkKjJc
   popularity: 28
-  url: https://open.spotify.com/artist/24NDm7vTLocVLStlgkKjJc
+  url: 'https://open.spotify.com/artist/24NDm7vTLocVLStlgkKjJc'
 status: active
 tags:
-- blues
-- electric blues
+  - blues
+  - electric blues
 title: Larry McCray
+origin: 'Saginaw, Michigan, United States'
 ---
 
 ![](larry_mccray.jpg)

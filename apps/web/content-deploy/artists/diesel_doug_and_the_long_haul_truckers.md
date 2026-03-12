@@ -4,9 +4,10 @@ wiki_slug: diesel-doug-the-long-haul-truckers
 schema_version: 2
 status: active
 genres:
-- honky tonk
+  - honky tonk
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/diesel_doug_and_the_long_haul_truckers.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/diesel_doug_and_the_long_haul_truckers.jpg
   caption: Diesel Doug & The Long Haul Truckers
   background: solo_singer
 audio_profile:
@@ -24,45 +25,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Charlie Gaylord
-  - Cartwright Thompson
+    - Charlie Gaylord
+    - Cartwright Thompson
   influenced: []
   mentors:
-  - Doug Hubley
+    - Doug Hubley
 spotify_data:
   followers: 158
   id: 3ye9Mqs5o567htRUa9rbby
   popularity: 1
-  url: https://open.spotify.com/artist/3ye9Mqs5o567htRUa9rbby
+  url: 'https://open.spotify.com/artist/3ye9Mqs5o567htRUa9rbby'
 discography_enriched: true
 top_tracks:
-- If I'd Shot Her When I Met Her (I'd be Out of Jail by now) (Mistakes were made)
-- I'd Like to Quit Drinkin' (but I live over a bar) (Mistakes were made)
-- Not Much to Say (Mistakes were made)
-- Picture of You (Mistakes were made)
-- Circles (Mistakes were made)
-- Never Lookin' Down (Mistakes were made)
-- Merry Christmas From the Family (Mistakes were made)
-- 18 Wheels of Love (Mistakes were made)
-- Pride's Corner (Mistakes were made)
-- Another One Like Me (Mistakes were made)
+  - >-
+    If I'd Shot Her When I Met Her (I'd be Out of Jail by now) (Mistakes were
+    made)
+  - I'd Like to Quit Drinkin' (but I live over a bar) (Mistakes were made)
+  - Not Much to Say (Mistakes were made)
+  - Picture of You (Mistakes were made)
+  - Circles (Mistakes were made)
+  - Never Lookin' Down (Mistakes were made)
+  - Merry Christmas From the Family (Mistakes were made)
+  - 18 Wheels of Love (Mistakes were made)
+  - Pride's Corner (Mistakes were made)
+  - Another One Like Me (Mistakes were made)
 external_urls:
-  spotify: https://open.spotify.com/artist/3ye9Mqs5o567htRUa9rbby
+  spotify: 'https://open.spotify.com/artist/3ye9Mqs5o567htRUa9rbby'
   wikipedia: ''
-image_path: 03_Resources/source_material/ArtistPortraits/diesel_doug_and_the_long_haul_truckers.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/diesel_doug_and_the_long_haul_truckers.jpg
 biography_enhanced_at: '2025-12-22T01:44:14.533063'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.dhubley.com/tag/diesel-doug-and-the-long-haul-truckers/
-- https://bollardhead.substack.com/p/all-roads-trip-2024
-- https://www.countrystandardtime.com/d/cdreview.asp?xid=904
-- https://nodepression.org/diesel-doug-the-long-haul-truckers-mistakes-were-made-1995-2005/
-- https://bb.steelguitarforum.com/viewtopic.php?t=57191&start=25
+  - 'https://www.dhubley.com/tag/diesel-doug-and-the-long-haul-truckers/'
+  - 'https://bollardhead.substack.com/p/all-roads-trip-2024'
+  - 'https://www.countrystandardtime.com/d/cdreview.asp?xid=904'
+  - >-
+    https://nodepression.org/diesel-doug-the-long-haul-truckers-mistakes-were-made-1995-2005/
+  - 'https://bb.steelguitarforum.com/viewtopic.php?t=57191&start=25'
 network_extracted: true
 entry_created: '2025-12-22T01:44:14.533068'
 last_updated: '2025-12-23T08:16:07.771583'
-origin: Portland, Maine, USA
+origin: 'Portland, Maine, USA'
+artist_type: person
 ---
 
 ![](diesel_doug_and_the_long_haul_truckers.jpg)

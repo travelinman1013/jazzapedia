@@ -4,7 +4,7 @@ biography_enhanced_at: '2026-01-15T01:18:22.206137'
 enhancement_provider: perplexity
 entry_created: '2026-01-15T01:18:22.206146'
 external_urls:
-  spotify: https://open.spotify.com/artist/1IgXGU9ClphA1abLAwIpwT
+  spotify: 'https://open.spotify.com/artist/1IgXGU9ClphA1abLAwIpwT'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/washboard_rhythm_kings.jpg
@@ -12,30 +12,32 @@ is_active: true
 last_updated: '2026-01-15T01:18:22.206148'
 musical_connections:
   collaborators:
-  - Ghost Howell
-  - Banjo Ikey Robinson
-  - Frankie “Half Pint” Jaxon
-  - Johnny Dodds
+    - Ghost Howell
+    - Banjo Ikey Robinson
+    - Frankie “Half Pint” Jaxon
+    - Johnny Dodds
   influenced: []
   mentors: []
 network_extracted: true
-origin: Chicago, Illinois, United States (primary recording hub)
+origin: 'Chicago, Illinois, United States'
 primary_source: perplexity
 research_sources:
-- https://shuffleprojects.com/tag/washboard-rhythm-kings/
-- https://the78rpmrecordspins.wordpress.com/2013/04/14/the-washboard-rhythm-kings/
-- http://jazzhotbigstep.com/369912.html
-- https://sundayblues.org/?tag=washboard-rhythm-kings
-- https://www.last.fm/music/Washboard+Rhythm+Kings/+wiki
-- https://www.uncamarvy.com/RhythmKings/rhythmkings.html
-- https://adp.library.ucsb.edu/index.php/mastertalent/detail/109436/Washboard_Rhythm_Kings
+  - 'https://shuffleprojects.com/tag/washboard-rhythm-kings/'
+  - >-
+    https://the78rpmrecordspins.wordpress.com/2013/04/14/the-washboard-rhythm-kings/
+  - 'http://jazzhotbigstep.com/369912.html'
+  - 'https://sundayblues.org/?tag=washboard-rhythm-kings'
+  - 'https://www.last.fm/music/Washboard+Rhythm+Kings/+wiki'
+  - 'https://www.uncamarvy.com/RhythmKings/rhythmkings.html'
+  - >-
+    https://adp.library.ucsb.edu/index.php/mastertalent/detail/109436/Washboard_Rhythm_Kings
 spotify_data:
   followers: 8
   id: 1IgXGU9ClphA1abLAwIpwT
   popularity: 0
-  url: https://open.spotify.com/artist/1IgXGU9ClphA1abLAwIpwT
+  url: 'https://open.spotify.com/artist/1IgXGU9ClphA1abLAwIpwT'
 status: active
-title: WASHBOARD RHYTHM KINGS
+title: Washboard Rhythm Kings
 ---
 
 ![](washboard_rhythm_kings.jpg)

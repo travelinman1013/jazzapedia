@@ -1,129 +1,131 @@
 ---
-artist_type: orchestra
+artist_type: band
 biography_enhanced_at: '2026-01-01T01:05:55.027539'
-birth_place: Beardstown, Illinois, United States
+birth_place: 'Beardstown, Illinois, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-01T01:05:55.027553'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6c211486-5576-4467-87cc-ed7eee7c59cb
-  spotify: https://open.spotify.com/artist/5SdsyBexTGkqG1P4bw830p
-  wikipedia: https://en.wikipedia.org/wiki/Red_Norvo
+  musicbrainz: 'https://musicbrainz.org/artist/6c211486-5576-4467-87cc-ed7eee7c59cb'
+  spotify: 'https://open.spotify.com/artist/5SdsyBexTGkqG1P4bw830p'
+  wikipedia: 'https://en.wikipedia.org/wiki/Red_Norvo'
 genres:
-- big band
-- ragtime
-- swing music
-- vocal jazz
+  - big band
+  - ragtime
+  - swing music
+  - vocal jazz
 image_path: 03_Resources/source_material/ArtistPortraits/red_norvo_and_his_orchestra.jpg
 instruments:
-- reeds
-- drums (drum set)
-- eponymous
-- original
-- vibraphone
-- xylophone
-- trumpet
-last_updated: '2026-01-01T01:05:55.027555'
-members:
-- begin: ''
-  end: ''
-  instruments:
   - reeds
-  mbid: c4817058-80a7-41b6-a7e6-6b9d296b73c1
-  name: Don Bonnie
-- begin: ''
-  end: ''
-  instruments:
   - drums (drum set)
-  mbid: e27f2f01-1633-4d9e-9bd5-333c47c1f80c
-  name: Eddie Dell
-- begin: ''
-  end: ''
-  instruments:
-  - reeds
-  mbid: fbd19ff4-a3bd-4dac-a59f-04d7cc7092ba
-  name: Al Gershoff
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: fcba0df7-5bac-4efc-9d68-a4a5f20b7cea
-  name: Charlie Lamphere
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: cbfca9af-39c2-4469-b9d8-3856b0bf0d30
-  name: Leo Moran
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
   - vibraphone
   - xylophone
-  mbid: 54badd18-ff72-4409-bd06-acf6b0011529
-  name: Red Norvo
-- begin: ''
-  end: ''
-  instruments:
   - trumpet
-  mbid: 0f131265-862f-4b47-b5b9-0904c74c12c2
-  name: Jack Palmer
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: 6d3d7c6a-be9d-4489-9292-dcefdbc62f57
-  name: Stew Pletcher
-- begin: ''
-  end: ''
-  instruments:
-  - reeds
-  mbid: b7ddcb91-5bb3-42bc-95cf-2d01c1673dfc
-  name: Lloyd Rathburn
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 57cf4fb1-34e6-4958-86df-6cf8f88df54a
-  name: Frank Simeone
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: b98eff06-5939-4750-899e-03dd41c44ea1
-  name: Barney Zudecoff
+last_updated: '2026-01-01T01:05:55.027555'
+members:
+  - begin: ''
+    end: ''
+    instruments:
+      - reeds
+    mbid: c4817058-80a7-41b6-a7e6-6b9d296b73c1
+    name: Don Bonnie
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: e27f2f01-1633-4d9e-9bd5-333c47c1f80c
+    name: Eddie Dell
+  - begin: ''
+    end: ''
+    instruments:
+      - reeds
+    mbid: fbd19ff4-a3bd-4dac-a59f-04d7cc7092ba
+    name: Al Gershoff
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: fcba0df7-5bac-4efc-9d68-a4a5f20b7cea
+    name: Charlie Lamphere
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: cbfca9af-39c2-4469-b9d8-3856b0bf0d30
+    name: Leo Moran
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - vibraphone
+      - xylophone
+    mbid: 54badd18-ff72-4409-bd06-acf6b0011529
+    name: Red Norvo
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: 0f131265-862f-4b47-b5b9-0904c74c12c2
+    name: Jack Palmer
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: 6d3d7c6a-be9d-4489-9292-dcefdbc62f57
+    name: Stew Pletcher
+  - begin: ''
+    end: ''
+    instruments:
+      - reeds
+    mbid: b7ddcb91-5bb3-42bc-95cf-2d01c1673dfc
+    name: Lloyd Rathburn
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 57cf4fb1-34e6-4958-86df-6cf8f88df54a
+    name: Frank Simeone
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: b98eff06-5939-4750-899e-03dd41c44ea1
+    name: Barney Zudecoff
 musical_connections:
   collaborators:
-  - Mildred Bailey
-  - Benny Goodman
-  - Eddie Sauter
-  - Tal Farlow
-  - Charles Mingus
-  - Charlie Parker and Dizzy Gillespie
+    - Mildred Bailey
+    - Benny Goodman
+    - Eddie Sauter
+    - Tal Farlow
+    - Charles Mingus
+    - Charlie Parker and Dizzy Gillespie
   influenced:
-  - Tal Farlow
-  - Charles Mingus
-  - Frank Sinatra
+    - Tal Farlow
+    - Charles Mingus
+    - Frank Sinatra
   mentors:
-  - Paul Whiteman
+    - Paul Whiteman
 musicbrainz_id: 6c211486-5576-4467-87cc-ed7eee7c59cb
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Red_Norvo
-- https://www.allaboutjazz.com/musicians/red-norvo/
-- https://www.jameskrohejr.com/red-norvo-it
-- https://bandchirps.com/band/red-norvo/
-- https://www.bluenote.com/artist/red-norvo/
-- https://jazzprofiles.blogspot.com/2019/07/red-norvo-all-but-forgotten-big-red-one.html
+  - 'https://en.wikipedia.org/wiki/Red_Norvo'
+  - 'https://www.allaboutjazz.com/musicians/red-norvo/'
+  - 'https://www.jameskrohejr.com/red-norvo-it'
+  - 'https://bandchirps.com/band/red-norvo/'
+  - 'https://www.bluenote.com/artist/red-norvo/'
+  - >-
+    https://jazzprofiles.blogspot.com/2019/07/red-norvo-all-but-forgotten-big-red-one.html
 spotify_data:
   followers: 460
   id: 5SdsyBexTGkqG1P4bw830p
   popularity: 23
-  url: https://open.spotify.com/artist/5SdsyBexTGkqG1P4bw830p
+  url: 'https://open.spotify.com/artist/5SdsyBexTGkqG1P4bw830p'
 status: active
 tags:
-- jazz
-- swing
-title: RED NORVO AND HIS ORCHESTRA
+  - jazz
+  - swing
+title: Red Norvo and His Orchestra
+birth_date: '1908-03-31'
 ---
 
 ![](red_norvo_and_his_orchestra.jpg)

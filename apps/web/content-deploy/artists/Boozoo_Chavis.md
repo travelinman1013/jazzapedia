@@ -4,20 +4,20 @@ wiki_slug: boozoo-chavis
 schema_version: 2
 artist_type: person
 status: active
-birth_date: '1930-10-30'
-birth_place: Lake Charles
+birth_date: '1930-10-23'
+birth_place: 'Lake Charles, Louisiana, United States'
 death_date: '2001-05-05'
 genres:
-- zydeco
-- cajun
+  - zydeco
+  - cajun
 instruments:
-- lead vocals
+  - lead vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: de195e40-53e4-472c-880b-670ea4971273
-  name: Boozoo Chavis & The Magic Sounds
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: de195e40-53e4-472c-880b-670ea4971273
+    name: Boozoo Chavis & The Magic Sounds
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/boozoo_chavis.jpg
   caption: Boozoo Chavis
@@ -40,53 +40,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Clifton Chenier
-  - Eddie Shuler
-  - Chavis Family Band
+    - Clifton Chenier
+    - Eddie Shuler
+    - Chavis Family Band
   influenced:
-  - Beau Jocque
-  - Chris Ardoin
-  - Keith Frank
+    - Beau Jocque
+    - Chris Ardoin
+    - Keith Frank
   mentors:
-  - Arthur Chavis
-  - Sidney Babineaux
+    - Arthur Chavis
+    - Sidney Babineaux
 spotify_data:
   followers: 4780
   id: 0gU00e6HDaZ3hxlR3pZrU0
   popularity: 18
-  url: https://open.spotify.com/artist/0gU00e6HDaZ3hxlR3pZrU0
+  url: 'https://open.spotify.com/artist/0gU00e6HDaZ3hxlR3pZrU0'
 discography_enriched: true
 top_tracks:
-- You're Gonna Look Like a Monkey (Hey Do Right)
-- Zydeco Hee Haw (Boozoo Chavis)
-- Zydeco Cha Cha (Hey Do Right)
-- Johnnie Billie Goat (Boozoo Chavis)
-- Dog Hill (Boozoo Chavis)
-- Zydeco Mardi Gras (Zydeco Trail Ride with Boozoo Chavis)
-- Bosco Stomp (Hey Do Right)
-- Paper in My Shoe (Festival Stage 1989 - Festivals Acadiens Et Créoles)
-- Don't Worry About Boozoo (Boozoo Chavis)
-- Zydeco Mardi Gras (Cajun and Zydeco Mardi Gras)
+  - You're Gonna Look Like a Monkey (Hey Do Right)
+  - Zydeco Hee Haw (Boozoo Chavis)
+  - Zydeco Cha Cha (Hey Do Right)
+  - Johnnie Billie Goat (Boozoo Chavis)
+  - Dog Hill (Boozoo Chavis)
+  - Zydeco Mardi Gras (Zydeco Trail Ride with Boozoo Chavis)
+  - Bosco Stomp (Hey Do Right)
+  - Paper in My Shoe (Festival Stage 1989 - Festivals Acadiens Et Créoles)
+  - Don't Worry About Boozoo (Boozoo Chavis)
+  - Zydeco Mardi Gras (Cajun and Zydeco Mardi Gras)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f10aa2b0-47c8-44a0-83a5-a93d61ef5c63
-  spotify: https://open.spotify.com/artist/0gU00e6HDaZ3hxlR3pZrU0
-  wikipedia: https://en.wikipedia.org/wiki/Boozoo_Chavis
+  musicbrainz: 'https://musicbrainz.org/artist/f10aa2b0-47c8-44a0-83a5-a93d61ef5c63'
+  spotify: 'https://open.spotify.com/artist/0gU00e6HDaZ3hxlR3pZrU0'
+  wikipedia: 'https://en.wikipedia.org/wiki/Boozoo_Chavis'
 image_path: 03_Resources/source_material/ArtistPortraits/boozoo_chavis.jpg
 biography_enhanced_at: '2025-10-23T07:30:33.967147'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://flattownmusic.com/artist/boozoo-chavis/
-- https://musicrising.tulane.edu/discover/people/wilson-boozoo-chavis/
-- https://en.wikipedia.org/wiki/Boozoo_Chavis
-- https://www.arts.gov/honors/heritage/wilson-boozoo-chavis
+  - 'https://flattownmusic.com/artist/boozoo-chavis/'
+  - 'https://musicrising.tulane.edu/discover/people/wilson-boozoo-chavis/'
+  - 'https://en.wikipedia.org/wiki/Boozoo_Chavis'
+  - 'https://www.arts.gov/honors/heritage/wilson-boozoo-chavis'
 network_extracted: true
 entry_created: '2025-10-23T07:30:33.967166'
 last_updated: '2025-12-23T08:16:01.322036'
 gender: Male
 musicbrainz_id: f10aa2b0-47c8-44a0-83a5-a93d61ef5c63
 tags:
-- zydeco
+  - zydeco
+is_active: false
+origin: 'Lake Charles, Louisiana, United States'
 ---
 
 ![](boozoo_chavis.jpg)

@@ -1,46 +1,48 @@
 ---
 biography_enhanced_at: '2025-12-29T01:22:29.074861'
-birth_place: Kingston, Jamaica
+birth_place: 'Kingston, Jamaica, United States'
 enhancement_provider: perplexity
 entry_created: '2025-12-29T01:22:29.074873'
 external_urls:
-  spotify: https://open.spotify.com/artist/1FOvLj8sNCGHjgueUOVvJi
-  wikipedia: https://en.wikipedia.org/wiki/Cornell_Campbell
+  spotify: 'https://open.spotify.com/artist/1FOvLj8sNCGHjgueUOVvJi'
+  wikipedia: 'https://en.wikipedia.org/wiki/Cornell_Campbell'
 genres:
-- roots reggae
-- rocksteady
-- lovers rock
-- reggae
-- dub
+  - roots reggae
+  - rocksteady
+  - lovers rock
+  - reggae
+  - dub
 image_path: 03_Resources/source_material/ArtistPortraits/cornell_campbell_yakka.jpg
 last_updated: '2025-12-29T01:22:29.074875'
 musical_connections:
   collaborators:
-  - Bunny Lee
-  - Jimmy Riley
-  - The Eternals (Ken Price, Errol Wisdom)
-  - Rhythm & Sound (Moritz Von Oswald, Mark Ernestus)
-  - Soothsayers
-  - Yakka
+    - Bunny Lee
+    - Jimmy Riley
+    - 'The Eternals (Ken Price, Errol Wisdom)'
+    - 'Rhythm & Sound (Moritz Von Oswald, Mark Ernestus)'
+    - Soothsayers
+    - Yakka
   influenced: []
   mentors:
-  - Rico Rodriguez
-  - Clement Dodd
+    - Rico Rodriguez
+    - Clement Dodd
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Cornell_Campbell
-- https://www.reggaeville.com/artist-details/cornell-campbell/about/
-- https://music.apple.com/tt/artist/cornel-campbell/2534116
-- https://jamaicansounds.com/artist/351
-- https://www.youtube.com/watch?v=w4sm1wNgHh0
+  - 'https://en.wikipedia.org/wiki/Cornell_Campbell'
+  - 'https://www.reggaeville.com/artist-details/cornell-campbell/about/'
+  - 'https://music.apple.com/tt/artist/cornel-campbell/2534116'
+  - 'https://jamaicansounds.com/artist/351'
+  - 'https://www.youtube.com/watch?v=w4sm1wNgHh0'
 spotify_data:
   followers: 42036
   id: 1FOvLj8sNCGHjgueUOVvJi
   popularity: 38
-  url: https://open.spotify.com/artist/1FOvLj8sNCGHjgueUOVvJi
+  url: 'https://open.spotify.com/artist/1FOvLj8sNCGHjgueUOVvJi'
 status: active
-title: Cornell Campbell, Yakka
+title: 'Cornell Campbell, Yakka'
+birth_date: '1945-11-23'
+artist_type: person
 ---
 
 ![](cornell_campbell_yakka.jpg)

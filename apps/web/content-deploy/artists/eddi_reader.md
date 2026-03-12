@@ -1,65 +1,68 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '1984'
-  end: '1984'
-  instruments: []
-  mbid: 21666405-49f8-44f6-94bb-e064f202f7ba
-  name: The Waterboys
-- begin: '1987'
-  end: '1990'
-  instruments: []
-  mbid: 63f4a78d-009d-4579-98f6-810d15f18397
-  name: Fairground Attraction
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ad1556bd-4f66-43cc-b984-ec0e73c52ef8
-  name: Language
+  - begin: '1984'
+    end: '1984'
+    instruments: []
+    mbid: 21666405-49f8-44f6-94bb-e064f202f7ba
+    name: The Waterboys
+  - begin: '1987'
+    end: '1990'
+    instruments: []
+    mbid: 63f4a78d-009d-4579-98f6-810d15f18397
+    name: Fairground Attraction
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ad1556bd-4f66-43cc-b984-ec0e73c52ef8
+    name: Language
 biography_enhanced_at: '2025-12-30T01:24:33.143242'
 birth_date: '1959-08-29'
-birth_place: Glasgow
+birth_place: 'Glasgow, Scotland, United Kingdom'
 enhancement_provider: perplexity
 entry_created: '2025-12-30T01:24:33.143247'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ea2a48b2-0969-4496-9635-4ee206f3ffc5
-  spotify: https://open.spotify.com/artist/0T3UHijKhYdE2O6r06URan
+  musicbrainz: 'https://musicbrainz.org/artist/ea2a48b2-0969-4496-9635-4ee206f3ffc5'
+  spotify: 'https://open.spotify.com/artist/0T3UHijKhYdE2O6r06URan'
   wikipedia: ''
 gender: Female
 genres:
-- celtic
+  - celtic
 image_path: 03_Resources/source_material/ArtistPortraits/eddi_reader.jpg
 instruments:
-- lead vocals
-- spoken vocals
-- background vocals
+  - lead vocals
+  - spoken vocals
+  - background vocals
 last_updated: '2025-12-30T01:24:33.143248'
 musical_connections:
   collaborators:
-  - Fairground Attraction
-  - Gang of Four
-  - Eurythmics / Annie Lennox
-  - Waterboys
+    - Fairground Attraction
+    - Gang of Four
+    - Eurythmics / Annie Lennox
+    - Waterboys
   influenced: []
   mentors: []
 musicbrainz_id: ea2a48b2-0969-4496-9635-4ee206f3ffc5
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.uws.ac.uk/news/its-got-to-be-perfect-uws-honours-eddi-reader/
-- https://www.last.fm/music/Eddi+Reader/+wiki
-- https://music.apple.com/us/artist/eddi-reader/2581521
-- https://www.nationalgalleries.org/art-and-artists/122780/eddi-reader-b1959-singer-and-songwriter
-- https://www.helpmusicians.org.uk/about-us/news/eddi-reader-is-our-next-podcast-guest-on-i-never-thought-it-would-happen
+  - 'https://www.uws.ac.uk/news/its-got-to-be-perfect-uws-honours-eddi-reader/'
+  - 'https://www.last.fm/music/Eddi+Reader/+wiki'
+  - 'https://music.apple.com/us/artist/eddi-reader/2581521'
+  - >-
+    https://www.nationalgalleries.org/art-and-artists/122780/eddi-reader-b1959-singer-and-songwriter
+  - >-
+    https://www.helpmusicians.org.uk/about-us/news/eddi-reader-is-our-next-podcast-guest-on-i-never-thought-it-would-happen
 spotify_data:
   followers: 25466
   id: 0T3UHijKhYdE2O6r06URan
   popularity: 35
-  url: https://open.spotify.com/artist/0T3UHijKhYdE2O6r06URan
+  url: 'https://open.spotify.com/artist/0T3UHijKhYdE2O6r06URan'
 status: active
 tags:
-- folk
+  - folk
 title: Eddi Reader
+origin: 'Glasgow, Scotland, United Kingdom'
 ---
 
 ![](eddi_reader.jpg)

@@ -3,13 +3,13 @@ title: Philip E Morris
 wiki_slug: philip-e-morris
 schema_version: 2
 status: active
-birth_place: Gothenburg, Sweden
+birth_place: 'Gothenburg, Sweden, Sweden'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/philip_e_morris.jpg
   caption: Philip E Morris
   background: solo_singer
-  origin: Gothenburg, Sweden
+  origin: 'Gothenburg, Sweden'
 audio_profile:
   tempo_avg: 120.9
   energy_avg: 0.474
@@ -25,42 +25,43 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Universal Production Music (UPPM)
-  - Crucial Music
+    - Universal Production Music (UPPM)
+    - Crucial Music
   influenced: []
   mentors: []
 spotify_data:
   followers: 10395
   id: 512xDJNlQ8arI4Jjit6Uj5
   popularity: 20
-  url: https://open.spotify.com/artist/512xDJNlQ8arI4Jjit6Uj5
+  url: 'https://open.spotify.com/artist/512xDJNlQ8arI4Jjit6Uj5'
 discography_enriched: true
 top_tracks:
-- Sycamore Tree (A Beat Collection, Vol. 2)
-- Daisy (A Beat Collection, Vol. 1)
-- Dimes (A Beat Collection, Vol. 2)
-- Good Morning (A Beat Collection, Vol. 1)
-- Bullfest (A Beat Collection, Vol. 1)
-- I'm Sitting Here Wondering (A Beat Collection, Vol. 1)
-- King of the Roads (A Beat Collection, Vol. 1)
-- Drift (A Beat Collection, Vol. 3)
-- I Got a Girl (A Beat Collection, Vol. 2)
-- All I Love (A Beat Collection, Vol. 1)
+  - 'Sycamore Tree (A Beat Collection, Vol. 2)'
+  - 'Daisy (A Beat Collection, Vol. 1)'
+  - 'Dimes (A Beat Collection, Vol. 2)'
+  - 'Good Morning (A Beat Collection, Vol. 1)'
+  - 'Bullfest (A Beat Collection, Vol. 1)'
+  - 'I''m Sitting Here Wondering (A Beat Collection, Vol. 1)'
+  - 'King of the Roads (A Beat Collection, Vol. 1)'
+  - 'Drift (A Beat Collection, Vol. 3)'
+  - 'I Got a Girl (A Beat Collection, Vol. 2)'
+  - 'All I Love (A Beat Collection, Vol. 1)'
 external_urls:
-  spotify: https://open.spotify.com/artist/512xDJNlQ8arI4Jjit6Uj5
+  spotify: 'https://open.spotify.com/artist/512xDJNlQ8arI4Jjit6Uj5'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/philip_e_morris.jpg
 biography_enhanced_at: '2025-12-19T02:01:27.085325'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://pemamusic.wordpress.com/about/
-- https://www.viberate.com/artist/philip-e-morris/
-- https://soundcloud.com/philipemorris
-- https://www.youtube.com/watch?v=1Xw4BKfPrks
+  - 'https://pemamusic.wordpress.com/about/'
+  - 'https://www.viberate.com/artist/philip-e-morris/'
+  - 'https://soundcloud.com/philipemorris'
+  - 'https://www.youtube.com/watch?v=1Xw4BKfPrks'
 network_extracted: true
 entry_created: '2025-12-19T02:01:27.085335'
 last_updated: '2025-12-23T08:16:14.273793'
+artist_type: person
 ---
 
 ![](philip_e_morris.jpg)

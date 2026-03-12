@@ -3,44 +3,47 @@ biography_enhanced_at: '2025-12-29T01:13:47.427454'
 enhancement_provider: perplexity
 entry_created: '2025-12-29T01:13:47.427471'
 external_urls:
-  spotify: https://open.spotify.com/artist/4fgtVkEKSow3SmEqYr1wgW
+  spotify: 'https://open.spotify.com/artist/4fgtVkEKSow3SmEqYr1wgW'
   wikipedia: ''
 genres:
-- cajun
-- zydeco
-- traditional music
+  - cajun
+  - zydeco
+  - traditional music
 image_path: 03_Resources/source_material/ArtistPortraits/magnolia_sisters.jpg
 last_updated: '2025-12-29T01:13:47.427472'
 musical_connections:
   collaborators:
-  - Ann Savoy
-  - Jane Vidrine
-  - Lisa Trahan
-  - Anya Burgess
-  - Christine Balfa
-  - Linda Ronstadt
+    - Ann Savoy
+    - Jane Vidrine
+    - Lisa Trahan
+    - Anya Burgess
+    - Christine Balfa
+    - Linda Ronstadt
   influenced: []
   mentors:
-  - Harry Trahan
-  - Dewey Balfa
-  - Bixby Guidry
+    - Harry Trahan
+    - Dewey Balfa
+    - Bixby Guidry
 network_extracted: true
-origin: Lafayette, Louisiana, USA
+origin: 'Lafayette, Louisiana, USA'
 primary_source: perplexity
 research_sources:
-- https://www.accessallareas.info/artist/magnolia-sisters/
-- https://folkways.si.edu/magnolia-sisters/stripped-down/cajun-zydeco/music/album/smithsonian
-- https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/magnolia.htm.html
-- https://www.annsavoy.com/magnolia-sisters
-- https://magnoliasisters.com/about
-- https://www.magnoliasisters.com
+  - 'https://www.accessallareas.info/artist/magnolia-sisters/'
+  - >-
+    https://folkways.si.edu/magnolia-sisters/stripped-down/cajun-zydeco/music/album/smithsonian
+  - >-
+    https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/magnolia.htm.html
+  - 'https://www.annsavoy.com/magnolia-sisters'
+  - 'https://magnoliasisters.com/about'
+  - 'https://www.magnoliasisters.com'
 spotify_data:
   followers: 1294
   id: 4fgtVkEKSow3SmEqYr1wgW
   popularity: 6
-  url: https://open.spotify.com/artist/4fgtVkEKSow3SmEqYr1wgW
+  url: 'https://open.spotify.com/artist/4fgtVkEKSow3SmEqYr1wgW'
 status: active
 title: Magnolia Sisters
+artist_type: band
 ---
 
 ![](magnolia_sisters.jpg)

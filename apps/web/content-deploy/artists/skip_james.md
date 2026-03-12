@@ -3,17 +3,17 @@ title: Skip James
 wiki_slug: skip-james
 schema_version: 2
 status: active
-birth_place: Bentonia, Mississippi, United States
+birth_place: 'Bentonia, Mississippi, United States'
 genres:
-- blues
-- country blues
-- classic blues
-- ragtime
+  - blues
+  - country blues
+  - classic blues
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/skip_james.jpg
   caption: Skip James
   background: solo_singer
-  origin: Bentonia, Mississippi, United States
+  origin: 'Bentonia, Mississippi, United States'
 audio_profile:
   tempo_avg: 102.4
   energy_avg: 0.154
@@ -29,44 +29,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John Fahey
+    - John Fahey
   influenced:
-  - Robert Johnson
-  - Cream
-  - Rory Block
+    - Robert Johnson
+    - Cream
+    - Rory Block
   mentors:
-  - Henry Stuckey
+    - Henry Stuckey
 spotify_data:
   followers: 77423
   id: 2zlMeTjA7szCmqcJjBzYXJ
   popularity: 31
-  url: https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ
+  url: 'https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ'
 discography_enriched: true
 top_tracks:
-- Hard Time Killing Floor Blues (Blues From The Delta)
-- I'm So Glad (Blues From The Delta)
-- Devil Got My Woman (Walkin' Blues)
-- Washington D.C. Hospital Center Blues (Blues From The Delta)
-- 'Devil Got My Woman (I''d Rather Be The Devil: The Legendary 1931 Session)'
-- Devil Got My Woman (Devil Got My Woman)
-- 'Devil Got My Woman (Legends Of Country Blues: The Complete Pre-War Recordings Of Skip James (Disc A))'
-- Crow Jane (Skip James Live Vol. 2 Bloomington 1968 Part 1)
-- Crow Jane (Blues From The Delta)
-- Cypress Grove Blues (50 YEARS Mississippi Blues in Bentonia)
+  - Hard Time Killing Floor Blues (Blues From The Delta)
+  - I'm So Glad (Blues From The Delta)
+  - Devil Got My Woman (Walkin' Blues)
+  - Washington D.C. Hospital Center Blues (Blues From The Delta)
+  - 'Devil Got My Woman (I''d Rather Be The Devil: The Legendary 1931 Session)'
+  - Devil Got My Woman (Devil Got My Woman)
+  - >-
+    Devil Got My Woman (Legends Of Country Blues: The Complete Pre-War
+    Recordings Of Skip James (Disc A))
+  - Crow Jane (Skip James Live Vol. 2 Bloomington 1968 Part 1)
+  - Crow Jane (Blues From The Delta)
+  - Cypress Grove Blues (50 YEARS Mississippi Blues in Bentonia)
 external_urls:
-  spotify: https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ
-  wikipedia: https://en.wikipedia.org/wiki/Skip_James
+  spotify: 'https://open.spotify.com/artist/2zlMeTjA7szCmqcJjBzYXJ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Skip_James'
 image_path: 03_Resources/source_material/ArtistPortraits/skip_james.jpg
 biography_enhanced_at: '2025-10-28T09:08:13.300432'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Skip_James
-- https://msbluestrail.org/blues-trail-markers/skip-james
-- https://mississippiencyclopedia.org/entries/skip-james/
+  - 'https://en.wikipedia.org/wiki/Skip_James'
+  - 'https://msbluestrail.org/blues-trail-markers/skip-james'
+  - 'https://mississippiencyclopedia.org/entries/skip-james/'
 network_extracted: true
 entry_created: '2025-10-28T09:08:13.300443'
 last_updated: '2025-12-23T08:16:15.710892'
+birth_date: '1902-06-09'
+death_date: '1969-10-03'
+artist_type: person
 ---
 
 ![](skip_james.jpg)

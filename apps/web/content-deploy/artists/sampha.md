@@ -5,13 +5,13 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1988-11-16'
-birth_place: Morden
+birth_place: 'Morden, South London, United Kingdom'
 genres:
-- indie soul
+  - indie soul
 instruments:
-- piano
-- lead vocals
-- background vocals
+  - piano
+  - lead vocals
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sampha.jpg
   caption: Sampha
@@ -33,57 +33,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - SBTRKT
-  - Drake
-  - Kanye West
-  - Solange
-  - Jessie Ware
-  - FKA twigs
+    - SBTRKT
+    - Drake
+    - Kanye West
+    - Solange
+    - Jessie Ware
+    - FKA twigs
   influenced:
-  - Loyle Carner
-  - Headie One
+    - Loyle Carner
+    - Headie One
   mentors:
-  - Kwes
+    - Kwes
 spotify_data:
   followers: 863764
   id: 2WoVwexZuODvclzULjPQtm
   popularity: 61
-  url: https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm
+  url: 'https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm'
 discography_enriched: true
 top_tracks:
-- Father Time (feat. Sampha) (Mr. Morale & The Big Steppers)
-- 4422 (More Life)
-- Too Much (Nothing Was The Same (Deluxe))
-- Too Much (Nothing Was The Same)
-- Desoleil (Brilliant Corners) (Not Waving, But Drowning)
-- Indecision
-- fear less (ten days)
-- Never Felt Better (Richard Russell Is Temporary)
-- Make It Up (feat. Sampha) (Off With Her Head)
-- (No One Knows Me) Like the Piano (Process (Bonus Edition))
+  - Father Time (feat. Sampha) (Mr. Morale & The Big Steppers)
+  - 4422 (More Life)
+  - Too Much (Nothing Was The Same (Deluxe))
+  - Too Much (Nothing Was The Same)
+  - 'Desoleil (Brilliant Corners) (Not Waving, But Drowning)'
+  - Indecision
+  - fear less (ten days)
+  - Never Felt Better (Richard Russell Is Temporary)
+  - Make It Up (feat. Sampha) (Off With Her Head)
+  - (No One Knows Me) Like the Piano (Process (Bonus Edition))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/130c2184-14f2-4180-a216-04b5a333be57
-  spotify: https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm
-  wikipedia: https://en.wikipedia.org/wiki/Sampha
+  musicbrainz: 'https://musicbrainz.org/artist/130c2184-14f2-4180-a216-04b5a333be57'
+  spotify: 'https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sampha'
 image_path: 03_Resources/source_material/ArtistPortraits/sampha.jpg
 biography_enhanced_at: '2025-10-22T09:20:10.224301'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://wbssmedia.com/artists/detail/2878
-- https://www.rnz.co.nz/national/programmes/music101/audio/2018918749/sampha-i-had-a-very-nutritious-musical-upbringing
-- https://artist.degy.com/major-acts/sampha
-- http://www.musicweek.com/interviews/read/the-music-week-interview-sampha/088664
-- https://officemagazine.net/let-spirit-catch-you-sampha
+  - 'https://wbssmedia.com/artists/detail/2878'
+  - >-
+    https://www.rnz.co.nz/national/programmes/music101/audio/2018918749/sampha-i-had-a-very-nutritious-musical-upbringing
+  - 'https://artist.degy.com/major-acts/sampha'
+  - >-
+    http://www.musicweek.com/interviews/read/the-music-week-interview-sampha/088664
+  - 'https://officemagazine.net/let-spirit-catch-you-sampha'
 network_extracted: true
 entry_created: '2025-10-22T09:20:10.224312'
 last_updated: '2025-12-23T08:16:15.358540'
 gender: Male
 musicbrainz_id: 130c2184-14f2-4180-a216-04b5a333be57
 tags:
-- alternative r&b
-- contemporary r&b
-- hip hop soul
+  - alternative r&b
+  - contemporary r&b
+  - hip hop soul
 ---
 
 ![](sampha.jpg)

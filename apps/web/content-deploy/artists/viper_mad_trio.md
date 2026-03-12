@@ -1,10 +1,10 @@
 ---
-title: Viper Mad trio
+title: Viper Mad Trio
 wiki_slug: viper-mad-trio
 schema_version: 2
 status: active
 genres:
-- ragtime
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/viper_mad_trio.jpg
   caption: Viper Mad trio
@@ -24,40 +24,41 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kellan Garcia
-  - Ryan Robertson
+    - Kellan Garcia
+    - Ryan Robertson
   influenced: []
   mentors: []
 spotify_data:
   followers: 281
   id: 6XnIzpIgTupD94QrEjmdj1
   popularity: 2
-  url: https://open.spotify.com/artist/6XnIzpIgTupD94QrEjmdj1
+  url: 'https://open.spotify.com/artist/6XnIzpIgTupD94QrEjmdj1'
 discography_enriched: true
 top_tracks:
-- Sweet Marijuana Brown (Buddy Bolden's Blues)
-- 8 9 & 10 (Buddy Bolden's Blues)
-- Buddy Bolden's Blues (Buddy Bolden's Blues)
-- Just Squeeze Me (Buddy Bolden's Blues)
-- Shorty's Got To Go (Buddy Bolden's Blues)
-- Bucket's Got a Hole in It (Buddy Bolden's Blues)
-- Buddy Bolden's Blues (Buddy Bolden's Blues)
-- 8 9 & 10 (Buddy Bolden's Blues)
-- Just Squeeze Me (Buddy Bolden's Blues)
-- Shorty's Got to Go (Buddy Bolden's Blues)
+  - Sweet Marijuana Brown (Buddy Bolden's Blues)
+  - 8 9 & 10 (Buddy Bolden's Blues)
+  - Buddy Bolden's Blues (Buddy Bolden's Blues)
+  - Just Squeeze Me (Buddy Bolden's Blues)
+  - Shorty's Got To Go (Buddy Bolden's Blues)
+  - Bucket's Got a Hole in It (Buddy Bolden's Blues)
+  - Buddy Bolden's Blues (Buddy Bolden's Blues)
+  - 8 9 & 10 (Buddy Bolden's Blues)
+  - Just Squeeze Me (Buddy Bolden's Blues)
+  - Shorty's Got to Go (Buddy Bolden's Blues)
 external_urls:
-  spotify: https://open.spotify.com/artist/6XnIzpIgTupD94QrEjmdj1
+  spotify: 'https://open.spotify.com/artist/6XnIzpIgTupD94QrEjmdj1'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/viper_mad_trio.jpg
 biography_enhanced_at: '2025-12-06T05:42:18.324145'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Jazz da Gama review of Viper Mad Trio – Buddy Bolden’s Blues[5]
-- Jazz Lives discussion of the song “Viper Mad” and its historical context[4]
+  - 'Jazz da Gama review of Viper Mad Trio – Buddy Bolden’s Blues[5]'
+  - 'Jazz Lives discussion of the song “Viper Mad” and its historical context[4]'
 network_extracted: true
 entry_created: '2025-12-06T05:42:18.324155'
 last_updated: '2025-12-23T08:16:17.932810'
+artist_type: band
 ---
 
 ![](viper_mad_trio.jpg)

@@ -1,28 +1,28 @@
 ---
-title: Blues Brothers
+title: The Blues Brothers
 wiki_slug: blues-brothers
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1976'
 genres:
-- blues
-- blues rock
+  - blues
+  - blues rock
 instruments:
-- harmonica
-- lead vocals
-- original
-- additional
-- guitar
-- bass guitar
-- keyboard
-- tambourine
-- drums (drum set)
-- membranophone
-- percussion
-- trombone
-- saxophone
-- trumpet
+  - harmonica
+  - lead vocals
+  - original
+  - additional
+  - guitar
+  - bass guitar
+  - keyboard
+  - tambourine
+  - drums (drum set)
+  - membranophone
+  - percussion
+  - trombone
+  - saxophone
+  - trumpet
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/blues_brothers.jpg
   caption: Blues Brothers
@@ -43,192 +43,198 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Steve Cropper
-  - Donald “Duck” Dunn
-  - “Blue” Lou Marini
-  - Paul Shaffer
-  - Dan Aykroyd & John Belushi (as a duo)
+    - Steve Cropper
+    - Donald “Duck” Dunn
+    - “Blue” Lou Marini
+    - Paul Shaffer
+    - Dan Aykroyd & John Belushi (as a duo)
   influenced:
-  - Younger rock and mainstream audiences discovering blues and soul
-  - The Original Blues Brothers Band and later tribute iterations
+    - Younger rock and mainstream audiences discovering blues and soul
+    - The Original Blues Brothers Band and later tribute iterations
   mentors:
-  - Curtis Salgado
-  - Chicago and Memphis blues & soul artists (Stax/Volt tradition)
+    - Curtis Salgado
+    - Chicago and Memphis blues & soul artists (Stax/Volt tradition)
 spotify_data:
   followers: 447523
   id: 1cHFz6lrt7KAsBV8j2Ny1g
   popularity: 55
-  url: https://open.spotify.com/artist/1cHFz6lrt7KAsBV8j2Ny1g
+  url: 'https://open.spotify.com/artist/1cHFz6lrt7KAsBV8j2Ny1g'
 discography_enriched: true
 top_tracks:
-- Everybody Needs Somebody to Love (The Blues Brothers Original Motion Picture Soundtrack)
-- Think (The Blues Brothers Original Motion Picture Soundtrack)
-- Sweet Home Chicago (The Blues Brothers Original Motion Picture Soundtrack)
-- Shake a Tail Feather (feat. Ray Charles) (The Blues Brothers Original Motion Picture Soundtrack)
-- Theme from Rawhide (The Blues Brothers Original Motion Picture Soundtrack)
-- She Caught the Katy (The Blues Brothers Original Motion Picture Soundtrack)
-- Peter Gunn Theme (The Blues Brothers Original Motion Picture Soundtrack)
-- Soul Man - Live (Briefcase Full of Blues)
-- Gimme Some Lovin' (The Blues Brothers Original Motion Picture Soundtrack)
-- Minnie the Moocher (The Blues Brothers Original Motion Picture Soundtrack)
+  - >-
+    Everybody Needs Somebody to Love (The Blues Brothers Original Motion Picture
+    Soundtrack)
+  - Think (The Blues Brothers Original Motion Picture Soundtrack)
+  - Sweet Home Chicago (The Blues Brothers Original Motion Picture Soundtrack)
+  - >-
+    Shake a Tail Feather (feat. Ray Charles) (The Blues Brothers Original Motion
+    Picture Soundtrack)
+  - Theme from Rawhide (The Blues Brothers Original Motion Picture Soundtrack)
+  - She Caught the Katy (The Blues Brothers Original Motion Picture Soundtrack)
+  - Peter Gunn Theme (The Blues Brothers Original Motion Picture Soundtrack)
+  - Soul Man - Live (Briefcase Full of Blues)
+  - Gimme Some Lovin' (The Blues Brothers Original Motion Picture Soundtrack)
+  - Minnie the Moocher (The Blues Brothers Original Motion Picture Soundtrack)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7252abc2-dfc8-4aa6-889f-2d168b265403
-  spotify: https://open.spotify.com/artist/1cHFz6lrt7KAsBV8j2Ny1g
-  wikipedia: https://en.wikipedia.org/wiki/The_Blues_Brothers
+  musicbrainz: 'https://musicbrainz.org/artist/7252abc2-dfc8-4aa6-889f-2d168b265403'
+  spotify: 'https://open.spotify.com/artist/1cHFz6lrt7KAsBV8j2Ny1g'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Blues_Brothers'
 image_path: 03_Resources/source_material/ArtistPortraits/blues_brothers.jpg
 biography_enhanced_at: '2025-12-06T05:37:32.991370'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://bluesbrothersofficialsite.com/history
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/blues-brothers
-- https://severnrecords.com/artist/the-original-blues-brothers-band/
-- https://ponderosa.it/en/artist/the-original-blues-brothers-band/
-- https://www.blackcasediaries.com/season-4/the-case-of-the-blues-brothers-n92tt-fcm8a-pl6ff
-- https://ultimateclassicrock.com/blues-brothers-band-members/
-- https://www.openculture.com/2022/04/the-birth-of-the-blues-brothers.html
+  - 'https://bluesbrothersofficialsite.com/history'
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/blues-brothers
+  - 'https://severnrecords.com/artist/the-original-blues-brothers-band/'
+  - 'https://ponderosa.it/en/artist/the-original-blues-brothers-band/'
+  - >-
+    https://www.blackcasediaries.com/season-4/the-case-of-the-blues-brothers-n92tt-fcm8a-pl6ff
+  - 'https://ultimateclassicrock.com/blues-brothers-band-members/'
+  - 'https://www.openculture.com/2022/04/the-birth-of-the-blues-brothers.html'
 network_extracted: true
 entry_created: '2025-12-06T05:37:32.991383'
 last_updated: '2025-12-23T08:16:05.779457'
 disambiguation: Blues/soul revivalist band with Dan Aykroyd
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - harmonica
-  - lead vocals
-  - original
-  mbid: fbb02442-25a6-479a-a5c3-8af811ea846f
-  name: Elwood J. Blues
-- begin: ''
-  end: ''
-  instruments:
-  - additional
-  mbid: 7f127594-8d69-42a2-8486-4fc427565d9f
-  name: Zee Blues
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 298e257a-8e35-42f0-8064-0c27db20d3c8
-  name: Cab Chamberlain
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  - original
-  mbid: 4387a8ed-8a80-453c-a863-73dc0b23900c
-  name: Steve Cropper
-- begin: ''
-  end: ''
-  instruments:
-  - bass guitar
-  - original
-  mbid: 4b0ef982-f53f-4178-a279-c9533e9abdfb
-  name: Donald “Duck” Dunn
-- begin: ''
-  end: ''
-  instruments:
-  - keyboard
-  - original
-  - tambourine
-  mbid: 86bd8300-839a-40f2-b480-95db901f6ef2
-  name: Murphy Dunne
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 7d9b9240-fcca-42d4-9c71-955746447373
-  name: Anton Fig
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 484e8d72-ad54-43cf-bceb-283529ac2b62
-  name: Eddie Floyd
-- begin: ''
-  end: ''
-  instruments:
-  - membranophone
-  - original
-  - percussion
-  mbid: 395a35fb-3470-4c42-b66c-432c072120c0
-  name: Willie "Too Big" Hall
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  - trombone
-  mbid: df514ac5-4084-4e8e-be3c-6d9cc2246d89
-  name: Birch Johnson
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  - original
-  - percussion
-  mbid: 84d8eb95-112e-4e6c-a075-78b6f5ce68aa
-  name: Steve Jordan
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  - saxophone
-  - trombone
-  - trumpet
-  mbid: 59798d85-df1b-4cc5-91f8-f266eadb9ccb
-  name: Tom “Bones” Malone
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  - saxophone
-  mbid: fbd921a4-c4a7-41be-8e79-0976ee83bf4d
-  name: Lou Marini
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 01eb8954-1ff1-4423-8b22-458c5efceea6
-  name: Mack McTeer
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  - original
-  mbid: 07c29a3a-6105-4aa2-8965-14904ab6771d
-  name: Matt Murphy
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  - trumpet
-  mbid: b66ee2e7-ec31-4a55-bf75-3b9edb357ff0
-  name: Al Rubin
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  - saxophone
-  mbid: 901434fc-5ec8-41a1-af59-6ded7de8a9d2
-  name: Tom Scott
-- begin: ''
-  end: ''
-  instruments:
-  - keyboard
-  - original
-  mbid: 2944725e-3dcb-432e-b575-0bed5cef3504
-  name: Paul Shaffer
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  - original
-  mbid: 7144fc42-c099-4042-aa48-d8f2ffa36bbe
-  name: Jake E. “Joliet” Blues
+  - begin: ''
+    end: ''
+    instruments:
+      - harmonica
+      - lead vocals
+      - original
+    mbid: fbb02442-25a6-479a-a5c3-8af811ea846f
+    name: Elwood J. Blues
+  - begin: ''
+    end: ''
+    instruments:
+      - additional
+    mbid: 7f127594-8d69-42a2-8486-4fc427565d9f
+    name: Zee Blues
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 298e257a-8e35-42f0-8064-0c27db20d3c8
+    name: Cab Chamberlain
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+      - original
+    mbid: 4387a8ed-8a80-453c-a863-73dc0b23900c
+    name: Steve Cropper
+  - begin: ''
+    end: ''
+    instruments:
+      - bass guitar
+      - original
+    mbid: 4b0ef982-f53f-4178-a279-c9533e9abdfb
+    name: Donald “Duck” Dunn
+  - begin: ''
+    end: ''
+    instruments:
+      - keyboard
+      - original
+      - tambourine
+    mbid: 86bd8300-839a-40f2-b480-95db901f6ef2
+    name: Murphy Dunne
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 7d9b9240-fcca-42d4-9c71-955746447373
+    name: Anton Fig
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 484e8d72-ad54-43cf-bceb-283529ac2b62
+    name: Eddie Floyd
+  - begin: ''
+    end: ''
+    instruments:
+      - membranophone
+      - original
+      - percussion
+    mbid: 395a35fb-3470-4c42-b66c-432c072120c0
+    name: Willie "Too Big" Hall
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - trombone
+    mbid: df514ac5-4084-4e8e-be3c-6d9cc2246d89
+    name: Birch Johnson
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+      - original
+      - percussion
+    mbid: 84d8eb95-112e-4e6c-a075-78b6f5ce68aa
+    name: Steve Jordan
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - saxophone
+      - trombone
+      - trumpet
+    mbid: 59798d85-df1b-4cc5-91f8-f266eadb9ccb
+    name: Tom “Bones” Malone
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - saxophone
+    mbid: fbd921a4-c4a7-41be-8e79-0976ee83bf4d
+    name: Lou Marini
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 01eb8954-1ff1-4423-8b22-458c5efceea6
+    name: Mack McTeer
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+      - original
+    mbid: 07c29a3a-6105-4aa2-8965-14904ab6771d
+    name: Matt Murphy
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - trumpet
+    mbid: b66ee2e7-ec31-4a55-bf75-3b9edb357ff0
+    name: Al Rubin
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - saxophone
+    mbid: 901434fc-5ec8-41a1-af59-6ded7de8a9d2
+    name: Tom Scott
+  - begin: ''
+    end: ''
+    instruments:
+      - keyboard
+      - original
+    mbid: 2944725e-3dcb-432e-b575-0bed5cef3504
+    name: Paul Shaffer
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+      - original
+    mbid: 7144fc42-c099-4042-aa48-d8f2ffa36bbe
+    name: Jake E. “Joliet” Blues
 musicbrainz_id: 7252abc2-dfc8-4aa6-889f-2d168b265403
-origin: New York
+origin: 'New York, New York, United States'
 tags:
-- blues
-- blues rock
-- cowboy
+  - blues
+  - blues rock
+  - cowboy
 ---
 
 ![](blues_brothers.jpg)

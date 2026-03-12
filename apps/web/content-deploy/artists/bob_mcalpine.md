@@ -3,13 +3,13 @@ title: Bob McAlpine
 wiki_slug: bob-mcalpine
 schema_version: 2
 status: active
-birth_place: Toronto, Ontario, Canada
+birth_place: 'Toronto, Ontario, Canada'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bob_mcalpine.jpg
   caption: Bob McAlpine
   background: solo_singer
-  origin: Toronto, Ontario, Canada
+  origin: 'Toronto, Ontario, Canada'
 audio_profile:
   tempo_avg: 120.4
   energy_avg: 0.286
@@ -25,43 +25,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Steely Dan tribute band (Toronto-based)
-  - Chicago tribute band (Toronto-based)
+    - Steely Dan tribute band (Toronto-based)
+    - Chicago tribute band (Toronto-based)
   influenced: []
   mentors: []
 spotify_data:
   followers: 1638550
   id: 1GmsPCcpKgF9OhlNXjOsbS
   popularity: 78
-  url: https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS
+  url: 'https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS'
 discography_enriched: true
 top_tracks:
-- ceilings (five seconds flat)
-- Spring Into Summer (Older (and Wiser))
-- doomsday (five seconds flat)
-- Call Your Mom (with Lizzy McAlpine) (Stick Season (Forever))
-- Pushing It Down and Praying (Older (and Wiser))
-- hate to be lame (five seconds flat)
-- Pushing It Down and Praying
-- reckless driving (five seconds flat)
-- Staying (Older)
-- To the Mountains (Give Me A Minute)
+  - ceilings (five seconds flat)
+  - Spring Into Summer (Older (and Wiser))
+  - doomsday (five seconds flat)
+  - Call Your Mom (with Lizzy McAlpine) (Stick Season (Forever))
+  - Pushing It Down and Praying (Older (and Wiser))
+  - hate to be lame (five seconds flat)
+  - Pushing It Down and Praying
+  - reckless driving (five seconds flat)
+  - Staying (Older)
+  - To the Mountains (Give Me A Minute)
 external_urls:
-  spotify: https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS
+  spotify: 'https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/bob_mcalpine.jpg
 biography_enhanced_at: '2025-12-16T03:12:01.483747'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.bobmcalpine.ca
-- https://www.last.fm/music/Bob+McAlpine/+wiki
-- https://totallyguitars.com/packages/225-bob-mc-alpine-classic-rock-solo-fingerstyle-arrangements
-- https://www.zoominfo.com/c/bob-mcalpine/371930093
-- https://www.youtube.com/watch?v=LthmqZvTnlU
+  - 'https://www.bobmcalpine.ca'
+  - 'https://www.last.fm/music/Bob+McAlpine/+wiki'
+  - >-
+    https://totallyguitars.com/packages/225-bob-mc-alpine-classic-rock-solo-fingerstyle-arrangements
+  - 'https://www.zoominfo.com/c/bob-mcalpine/371930093'
+  - 'https://www.youtube.com/watch?v=LthmqZvTnlU'
 network_extracted: true
 entry_created: '2025-12-16T03:12:01.483761'
 last_updated: '2025-12-23T08:16:05.820329'
+origin: 'Toronto, Ontario, Canada'
+artist_type: person
 ---
 
 ![](bob_mcalpine.jpg)

@@ -1,22 +1,22 @@
 ---
-title: george butler
+title: George Butler
 wiki_slug: george-butler
 schema_version: 2
 status: active
-birth_place: Autaugaville, Alabama, United States
+birth_place: 'Autaugaville, Alabama, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/george_butler.jpg
   caption: george butler
   background: solo_singer
-  origin: Autaugaville, Alabama, United States
+  origin: 'Autaugaville, Alabama, United States'
 audio_profile:
   tempo_avg: 132.4
   energy_avg: 0.269
   valence_avg: 0.539
   danceability_avg: 0.337
   acousticness_avg: 0.623
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -22.4
   speechiness_avg: 0.11
   liveness_avg: 0.383
@@ -25,37 +25,42 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Deal and Ace
-  - Various Chicago blues musicians
+    - Deal and Ace
+    - Various Chicago blues musicians
   influenced:
-  - Regional blues musicians
+    - Regional blues musicians
   mentors:
-  - Local blues musicians in Autaugaville
+    - Local blues musicians in Autaugaville
 spotify_data:
   followers: 1
   id: 7hokgAvbcvtyYHOY4enjFF
   popularity: 0
-  url: https://open.spotify.com/artist/7hokgAvbcvtyYHOY4enjFF
+  url: 'https://open.spotify.com/artist/7hokgAvbcvtyYHOY4enjFF'
 discography_enriched: true
 top_tracks:
-- Christmas Madrigal (Live) (A Festival for Christmas)
-- Put It All In There (American Blues Vol. 1)
-- 'Peter Grimes, Op. 33, Act III Scene 1: Come Along, Doctor! (Britten: Peter Grimes, Op. 33)'
+  - Christmas Madrigal (Live) (A Festival for Christmas)
+  - Put It All In There (American Blues Vol. 1)
+  - >-
+    Peter Grimes, Op. 33, Act III Scene 1: Come Along, Doctor! (Britten: Peter
+    Grimes, Op. 33)
 external_urls:
-  spotify: https://open.spotify.com/artist/7hokgAvbcvtyYHOY4enjFF
-  wikipedia: https://en.wikipedia.org/wiki/George_%22Wild_Child%22_Butler
+  spotify: 'https://open.spotify.com/artist/7hokgAvbcvtyYHOY4enjFF'
+  wikipedia: 'https://en.wikipedia.org/wiki/George_%22Wild_Child%22_Butler'
 image_path: 03_Resources/source_material/ArtistPortraits/george_butler.jpg
 biography_enhanced_at: '2025-11-04T11:02:10.344816'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.thecountryblues.com/dr-barry-lee-pearson/george-wild-child-butler/
-- https://www.jango.com/music/George+Wild+Child+Butler/_full_bio
-- https://thecbma.com/artists/george-wild-child-butler/
-- https://kids.kiddle.co/George_%22Wild_Child%22_Butler
+  - >-
+    https://www.thecountryblues.com/dr-barry-lee-pearson/george-wild-child-butler/
+  - 'https://www.jango.com/music/George+Wild+Child+Butler/_full_bio'
+  - 'https://thecbma.com/artists/george-wild-child-butler/'
+  - 'https://kids.kiddle.co/George_%22Wild_Child%22_Butler'
 network_extracted: true
 entry_created: '2025-11-04T11:02:10.344827'
 last_updated: '2025-12-23T08:16:09.071351'
+birth_date: '1936-10-01'
+artist_type: person
 ---
 
 ![](george_butler.jpg)

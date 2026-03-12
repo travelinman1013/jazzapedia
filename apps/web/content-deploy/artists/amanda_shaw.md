@@ -3,17 +3,17 @@ title: Amanda Shaw
 wiki_slug: amanda-shaw
 schema_version: 2
 status: active
-birth_place: Mandeville, Louisiana, USA
+birth_place: 'Mandeville, Louisiana, USA'
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/amanda_shaw.jpg
   caption: Amanda Shaw
   background: solo_singer
-  origin: Mandeville, Louisiana, USA
+  origin: 'Mandeville, Louisiana, USA'
 audio_profile:
-  tempo_avg: 122.0
+  tempo_avg: 122
   energy_avg: 0.769
   valence_avg: 0.709
   danceability_avg: 0.539
@@ -27,44 +27,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Cute Guys
-  - Kent Wells
-  - Choppa
+    - The Cute Guys
+    - Kent Wells
+    - Choppa
   influenced: []
   mentors:
-  - Southeastern Louisiana University Community Music School
+    - Southeastern Louisiana University Community Music School
 spotify_data:
   followers: 2302
   id: 5ly5bZR1G4PijTkirVOyFZ
   popularity: 8
-  url: https://open.spotify.com/artist/5ly5bZR1G4PijTkirVOyFZ
+  url: 'https://open.spotify.com/artist/5ly5bZR1G4PijTkirVOyFZ'
 discography_enriched: true
 top_tracks:
-- How Lucky You Are (The Offline Playlist Pt. 2)
-- Louisiana Saturday Night (Louisiana Saturday Night)
-- Gone (Pretty Runs Out)
-- Holiday (Please, Call Me Miss Shaw)
-- Busy Body (Busy Body)
-- Pretty Runs Out (Pretty Runs Out)
-- Callin' Baton Rouge (Callin' Baton Rouge)
-- French Jig (Pretty Runs Out)
-- Bad (Bad)
-- Good Southern Girl (Good Southern Girl)
+  - How Lucky You Are (The Offline Playlist Pt. 2)
+  - Louisiana Saturday Night (Louisiana Saturday Night)
+  - Gone (Pretty Runs Out)
+  - 'Holiday (Please, Call Me Miss Shaw)'
+  - Busy Body (Busy Body)
+  - Pretty Runs Out (Pretty Runs Out)
+  - Callin' Baton Rouge (Callin' Baton Rouge)
+  - French Jig (Pretty Runs Out)
+  - Bad (Bad)
+  - Good Southern Girl (Good Southern Girl)
 external_urls:
-  spotify: https://open.spotify.com/artist/5ly5bZR1G4PijTkirVOyFZ
-  wikipedia: https://en.wikipedia.org/wiki/Amanda_Shaw
+  spotify: 'https://open.spotify.com/artist/5ly5bZR1G4PijTkirVOyFZ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Amanda_Shaw'
 image_path: 03_Resources/source_material/ArtistPortraits/amanda_shaw.jpg
 biography_enhanced_at: '2025-12-15T01:24:12.207439'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Amanda_Shaw
-- https://www.amandashaw.com
-- https://musicrising.tulane.edu/discover/people/amanda-shaw/
-- https://www.explorelouisiana.com/articles/amanda-shaws-louisiana
+  - 'https://en.wikipedia.org/wiki/Amanda_Shaw'
+  - 'https://www.amandashaw.com'
+  - 'https://musicrising.tulane.edu/discover/people/amanda-shaw/'
+  - 'https://www.explorelouisiana.com/articles/amanda-shaws-louisiana'
 network_extracted: true
 entry_created: '2025-12-15T01:24:12.207451'
 last_updated: '2025-12-23T08:16:04.681305'
+birth_date: '1990-08-02'
+artist_type: person
 ---
 
 ![](amanda_shaw.jpg)

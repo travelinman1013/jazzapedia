@@ -2,25 +2,25 @@
 title: Shirley Horn
 wiki_slug: shirley-horn
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1934-05-01'
-birth_place: Washington, D.C., United States
+birth_place: 'Washington, D.C., United States'
 death_date: '2005-10-20'
 genres:
-- vocal jazz
-- jazz
+  - vocal jazz
+  - jazz
 instruments:
-- eponymous
-- lead vocals
-- original
-- piano
+  - eponymous
+  - lead vocals
+  - original
+  - piano
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Shirley_Horn.jpg
   caption: Shirley Horn
   background: solo_singer
   born: '1934-05-01'
-  origin: Washington, D.C., United States
+  origin: 'Washington, D.C., United States'
   died: '2005-10-20'
 audio_profile:
   tempo_avg: 109.8
@@ -37,48 +37,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Miles Davis
-  - Quincy Jones
-  - Wynton Marsalis
-  - Charles Ables
-  - Steve Williams
+    - Miles Davis
+    - Quincy Jones
+    - Wynton Marsalis
+    - Charles Ables
+    - Steve Williams
   influenced:
-  - Diana Krall
-  - Norah Jones
+    - Diana Krall
+    - Norah Jones
   mentors:
-  - Oscar Peterson
-  - Ahmad Jamal
+    - Oscar Peterson
+    - Ahmad Jamal
 spotify_data:
   followers: 74067
   id: 0x9L9ChXVAf3hFOb0CbRmd
   popularity: 42
-  url: https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd
+  url: 'https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd'
 discography_enriched: true
 top_tracks:
-- And I Love Him (Travelin' Light)
-- Hit The Road Jack (Light Out Of Darkness (A Tribute To Ray Charles))
-- Do It Again (Loads Of Love)
-- Love For Sale (Loads Of Love)
-- There's A Boat That's Leavin' Soon For New York - From "Porgy And Bess" (Loads Of Love)
-- Here's To Life (Here's To Life)
-- My Funny Valentine (I Remember Miles)
-- Dedicated to You - Remastered 2003 (Sarah - Dedicated to You)
-- Yesterday (May The Music Never End)
-- The Good Life (Shirley Horn With Horns)
+  - And I Love Him (Travelin' Light)
+  - Hit The Road Jack (Light Out Of Darkness (A Tribute To Ray Charles))
+  - Do It Again (Loads Of Love)
+  - Love For Sale (Loads Of Love)
+  - >-
+    There's A Boat That's Leavin' Soon For New York - From "Porgy And Bess"
+    (Loads Of Love)
+  - Here's To Life (Here's To Life)
+  - My Funny Valentine (I Remember Miles)
+  - Dedicated to You - Remastered 2003 (Sarah - Dedicated to You)
+  - Yesterday (May The Music Never End)
+  - The Good Life (Shirley Horn With Horns)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1f72d108-f2dc-44cd-8213-8d3426cc2c9a
-  spotify: https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd
-  wikipedia: https://en.wikipedia.org/wiki/Shirley_Horn
+  musicbrainz: 'https://musicbrainz.org/artist/1f72d108-f2dc-44cd-8213-8d3426cc2c9a'
+  spotify: 'https://open.spotify.com/artist/0x9L9ChXVAf3hFOb0CbRmd'
+  wikipedia: 'https://en.wikipedia.org/wiki/Shirley_Horn'
 image_path: 03_Resources/source_material/ArtistPortraits/Shirley_Horn.jpg
 biography_enhanced_at: '2025-10-20T01:41:12.329161'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.britannica.com/biography/Shirley-Horn
-- https://www.womenshistory.org/education-resources/biographies/shirley-horn
-- https://blogs.loc.gov/music/2024/02/shirley-horn-d-c-s-own/
-- https://wicn.org/wicn-artist-of-the-month-may-2025-shirley-horn/
-- https://jazztimes.com/features/profiles/shirley-horn-around-the-horn-with-shirley/
+  - 'https://www.britannica.com/biography/Shirley-Horn'
+  - 'https://www.womenshistory.org/education-resources/biographies/shirley-horn'
+  - 'https://blogs.loc.gov/music/2024/02/shirley-horn-d-c-s-own/'
+  - 'https://wicn.org/wicn-artist-of-the-month-may-2025-shirley-horn/'
+  - >-
+    https://jazztimes.com/features/profiles/shirley-horn-around-the-horn-with-shirley/
 network_extracted: true
 entry_created: '2025-10-20T01:41:12.329179'
 last_updated: '2025-12-23T08:16:03.883838'
@@ -86,9 +89,11 @@ gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:43:28.420395'
 musicbrainz_id: 1f72d108-f2dc-44cd-8213-8d3426cc2c9a
 tags:
-- 2008 universal fire victim
-- jazz
-- vocal jazz
+  - 2008 universal fire victim
+  - jazz
+  - vocal jazz
+is_active: false
+origin: 'Washington, D.C., United States'
 ---
 
 ![](Shirley_Horn.jpg)

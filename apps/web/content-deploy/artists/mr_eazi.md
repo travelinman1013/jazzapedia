@@ -1,25 +1,25 @@
 ---
-title: mr eazi
+title: MR Eazi
 wiki_slug: mr-eazi
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1991-07-19'
-birth_place: Port Harcourt, Rivers State, Nigeria
+birth_place: 'Port Harcourt, Rivers State, Nigeria'
 genres:
-- afrobeats
-- afrobeat
-- afropop
-- azonto
-- afroswing
-- hiplife
-- dancehall
+  - afrobeats
+  - afrobeat
+  - afropop
+  - azonto
+  - afroswing
+  - hiplife
+  - dancehall
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/mr_eazi.jpg
   caption: mr eazi
   background: solo_singer
   born: '1991-07-19'
-  origin: Port Harcourt, Rivers State, Nigeria
+  origin: 'Port Harcourt, Rivers State, Nigeria'
 audio_profile:
   tempo_avg: 109.8
   energy_avg: 0.689
@@ -27,7 +27,7 @@ audio_profile:
   danceability_avg: 0.759
   acousticness_avg: 0.174
   instrumentalness_avg: 0.028
-  loudness_avg: -6.0
+  loudness_avg: -6
   speechiness_avg: 0.135
   liveness_avg: 0.158
   track_count: 52
@@ -35,46 +35,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Efya
-  - Wizkid
-  - Sarkodie
-  - Joeboy
+    - Efya
+    - Wizkid
+    - Sarkodie
+    - Joeboy
   influenced:
-  - Joeboy
-  - J.Derobie
+    - Joeboy
+    - J.Derobie
   mentors:
-  - Ghanaian Highlife Musicians
-  - Nigerian Afrobeats Artists
+    - Ghanaian Highlife Musicians
+    - Nigerian Afrobeats Artists
 spotify_data:
   followers: 1587292
   id: 4TAoP0f9OuWZUesao43xUW
   popularity: 61
-  url: https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW
+  url: 'https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW'
 discography_enriched: true
 top_tracks:
-- COMO UN BEBÉ (OASIS)
-- Leg Over (Life is Eazi, Vol. 1 - Accra To Lagos)
-- Bad Vibe (Modus Operandi)
-- Dance For Me (Eugy X Mr Eazi)
-- Arcoíris (Colores)
-- Nobody
-- Love Me Now
-- Bad (feat. Yungen, MoStack, Mr Eazi & Not3s)
-- Miss You Bad (Life is Eazi, Vol. 2 - Lagos to London)
-- Skin Tight
+  - COMO UN BEBÉ (OASIS)
+  - 'Leg Over (Life is Eazi, Vol. 1 - Accra To Lagos)'
+  - Bad Vibe (Modus Operandi)
+  - Dance For Me (Eugy X Mr Eazi)
+  - Arcoíris (Colores)
+  - Nobody
+  - Love Me Now
+  - 'Bad (feat. Yungen, MoStack, Mr Eazi & Not3s)'
+  - 'Miss You Bad (Life is Eazi, Vol. 2 - Lagos to London)'
+  - Skin Tight
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/72adb13a-800e-44b5-9aef-5c7d8cb6a2d7
-  spotify: https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW
-  wikipedia: https://en.wikipedia.org/wiki/Mr_Eazi
+  musicbrainz: 'https://musicbrainz.org/artist/72adb13a-800e-44b5-9aef-5c7d8cb6a2d7'
+  spotify: 'https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mr_Eazi'
 image_path: 03_Resources/source_material/ArtistPortraits/mr_eazi.jpg
 biography_enhanced_at: '2025-10-19T12:33:13.484610'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Mr_Eazi
-- https://www.musicinafrica.net/directory/mr-eazi
-- https://www.last.fm/music/Mr+Eazi/+wiki
-- https://www.youtube.com/watch?v=Nu5y67TBTFI
+  - 'https://en.wikipedia.org/wiki/Mr_Eazi'
+  - 'https://www.musicinafrica.net/directory/mr-eazi'
+  - 'https://www.last.fm/music/Mr+Eazi/+wiki'
+  - 'https://www.youtube.com/watch?v=Nu5y67TBTFI'
 network_extracted: true
 entry_created: '2025-10-19T12:33:13.484624'
 last_updated: '2025-12-23T08:16:13.333256'
@@ -83,9 +83,8 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:54:57.040541'
 musicbrainz_id: 72adb13a-800e-44b5-9aef-5c7d8cb6a2d7
 tags:
-- afrobeat
-- latin
-
+  - afrobeat
+  - latin
 ---
 
 ![](mr_eazi.jpg)

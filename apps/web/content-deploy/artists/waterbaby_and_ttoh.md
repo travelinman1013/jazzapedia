@@ -1,5 +1,5 @@
 ---
-title: waterbaby & ttoh
+title: Waterbaby & Ttoh
 wiki_slug: waterbaby-ttoh
 schema_version: 2
 status: active
@@ -14,7 +14,7 @@ audio_profile:
   valence_avg: 0.684
   danceability_avg: 0.768
   acousticness_avg: 0.522
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -4.1
   speechiness_avg: 0.048
   liveness_avg: 0.086
@@ -23,35 +23,38 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - ttoh
-  - Johan Åkerström
+    - ttoh
+    - Johan Åkerström
   influenced: []
   mentors:
-  - Marcus White
-  - Great-grandfather (Jazz Pianist)
+    - Marcus White
+    - Great-grandfather (Jazz Pianist)
 spotify_data:
   followers: 5
   id: 1KTPR4m97z5i3G5qXvNdFs
   popularity: 2
-  url: https://open.spotify.com/artist/1KTPR4m97z5i3G5qXvNdFs
+  url: 'https://open.spotify.com/artist/1KTPR4m97z5i3G5qXvNdFs'
 discography_enriched: true
 top_tracks:
-- Lo Que Yo Quiero Hacer (En La Busqueda)
+  - Lo Que Yo Quiero Hacer (En La Busqueda)
 external_urls:
-  spotify: https://open.spotify.com/artist/1KTPR4m97z5i3G5qXvNdFs
+  spotify: 'https://open.spotify.com/artist/1KTPR4m97z5i3G5qXvNdFs'
   wikipedia: Not found in search results
 image_path: ''
 biography_enhanced_at: '2025-12-04T07:34:34.653962'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.subpop.com/artists/waterbaby
-- https://whenthehornblows.com/content/2025/11/9/waterbaby-beck-n-call
-- https://mmeawards.eu/en/mme_artists/waterbaby/
-- https://theface.com/music/waterbaby-interview-stockholm-pop-foam-ep-airforce-blue-911
+  - 'https://www.subpop.com/artists/waterbaby'
+  - 'https://whenthehornblows.com/content/2025/11/9/waterbaby-beck-n-call'
+  - 'https://mmeawards.eu/en/mme_artists/waterbaby/'
+  - >-
+    https://theface.com/music/waterbaby-interview-stockholm-pop-foam-ep-airforce-blue-911
 network_extracted: true
 entry_created: '2025-12-04T07:34:34.653968'
 last_updated: '2025-12-23T08:16:18.016952'
+origin: 'Stockholm, Sweden'
+artist_type: person
 ---
 
 ![]()

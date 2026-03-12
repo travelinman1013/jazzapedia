@@ -4,7 +4,7 @@ wiki_slug: south-frisco-jazz-band
 schema_version: 2
 status: active
 genres:
-- ragtime
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/south_frisco_jazz_band.jpg
   caption: South Frisco Jazz Band
@@ -24,53 +24,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Vince Saunders
-  - Bob Helm
-  - Dan Comins
-  - Leon Oakley
-  - Mike Baird
-  - Pat Yankee
-  - Fenix Jazz Band (Argentina)
+    - Vince Saunders
+    - Bob Helm
+    - Dan Comins
+    - Leon Oakley
+    - Mike Baird
+    - Pat Yankee
+    - Fenix Jazz Band (Argentina)
   influenced:
-  - Southern California traditional jazz musicians
-  - International jazz festival participants
+    - Southern California traditional jazz musicians
+    - International jazz festival participants
   mentors:
-  - Lu Watters
-  - King Oliver
-  - Turk Murphy
+    - Lu Watters
+    - King Oliver
+    - Turk Murphy
 spotify_data:
   followers: 384
   id: 6uqbdDeDCSU0chdkVdjVX2
   popularity: 1
-  url: https://open.spotify.com/artist/6uqbdDeDCSU0chdkVdjVX2
+  url: 'https://open.spotify.com/artist/6uqbdDeDCSU0chdkVdjVX2'
 discography_enriched: true
 top_tracks:
-- San Francisco Bay Blues (Broken Promises)
-- All Night Blues (Sage Hen Strut)
-- Bouncing Around (Broken Promises)
-- Waiting for the Robert E. Lee (Broken Promises)
-- Snake Rag (These Cats Are Diggin' Us!)
-- Kansas City Stomps (These Cats Are Diggin' Us!)
-- Some of These Days (Sage Hen Strut)
-- West Texas Blues (Sage Hen Strut)
-- If Someone Would Only Love Me (Sage Hen Strut)
-- Coal Cart Blues (Sage Hen Strut)
+  - San Francisco Bay Blues (Broken Promises)
+  - All Night Blues (Sage Hen Strut)
+  - Bouncing Around (Broken Promises)
+  - Waiting for the Robert E. Lee (Broken Promises)
+  - Snake Rag (These Cats Are Diggin' Us!)
+  - Kansas City Stomps (These Cats Are Diggin' Us!)
+  - Some of These Days (Sage Hen Strut)
+  - West Texas Blues (Sage Hen Strut)
+  - If Someone Would Only Love Me (Sage Hen Strut)
+  - Coal Cart Blues (Sage Hen Strut)
 external_urls:
-  spotify: https://open.spotify.com/artist/6uqbdDeDCSU0chdkVdjVX2
+  spotify: 'https://open.spotify.com/artist/6uqbdDeDCSU0chdkVdjVX2'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/south_frisco_jazz_band.jpg
 biography_enhanced_at: '2025-11-10T03:30:55.550139'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://jazzhotbigstep.com/574123.html
-- https://www.mmdigest.com/SFJB/
-- https://syncopatedtimes.com/thoughts-about-the-south-frisco-jazz-band-and-the-pizza-palace/
-- https://www.latimes.com/socal/daily-pilot/news/tn-dpt-xpm-2001-07-28-export46776-story.html
+  - 'http://jazzhotbigstep.com/574123.html'
+  - 'https://www.mmdigest.com/SFJB/'
+  - >-
+    https://syncopatedtimes.com/thoughts-about-the-south-frisco-jazz-band-and-the-pizza-palace/
+  - >-
+    https://www.latimes.com/socal/daily-pilot/news/tn-dpt-xpm-2001-07-28-export46776-story.html
 network_extracted: true
 entry_created: '2025-11-10T03:30:55.550156'
 last_updated: '2025-12-23T08:16:15.964002'
-origin: Orange County, California, United States
+origin: 'Orange County, California, United States'
+artist_type: band
 ---
 
 ![](south_frisco_jazz_band.jpg)

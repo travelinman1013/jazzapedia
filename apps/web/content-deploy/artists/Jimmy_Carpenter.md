@@ -3,14 +3,14 @@ title: Jimmy Carpenter
 wiki_slug: jimmy-carpenter
 schema_version: 2
 status: active
-birth_place: Greensboro, North Carolina, USA
+birth_place: 'Greensboro, North Carolina, USA'
 genres:
-- blues
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Jimmy_Carpenter.jpg
   caption: Jimmy Carpenter
   background: solo_singer
-  origin: Greensboro, North Carolina, USA
+  origin: 'Greensboro, North Carolina, USA'
 audio_profile:
   tempo_avg: 116.7
   energy_avg: 0.799
@@ -26,50 +26,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mike Zito
-  - Tinsley Ellis
-  - Jimmy Thackery
-  - Eric Lindell
-  - Kid Andersen
+    - Mike Zito
+    - Tinsley Ellis
+    - Jimmy Thackery
+    - Eric Lindell
+    - Kid Andersen
   influenced:
-  - The Bender Brass
+    - The Bender Brass
   mentors:
-  - Walter 'Wolfman' Washington
+    - Walter 'Wolfman' Washington
 spotify_data:
   followers: 708
   id: 3YVLGRvQ3lXuNd1QtQZdyh
   popularity: 7
-  url: https://open.spotify.com/artist/3YVLGRvQ3lXuNd1QtQZdyh
+  url: 'https://open.spotify.com/artist/3YVLGRvQ3lXuNd1QtQZdyh'
 discography_enriched: true
 top_tracks:
-- Don’t Deny Me (Live To Be This)
-- I Hear You Knocking (The Louisiana Record)
-- Anna Lee (Blood on My Hands)
-- You Were Wrong (Righteous Souls)
-- Walk Away (Walk Away)
-- Soul Doctor (Soul Doctor)
-- (Feels Like) I Just Got Started (Just Got Started)
-- I Only Gamble With My Heart (Just Got Started)
-- Jimmy Plays the Blues (Plays the Blues)
-- Change Is Gonna Come (Plays the Blues)
+  - Don’t Deny Me (Live To Be This)
+  - I Hear You Knocking (The Louisiana Record)
+  - Anna Lee (Blood on My Hands)
+  - You Were Wrong (Righteous Souls)
+  - Walk Away (Walk Away)
+  - Soul Doctor (Soul Doctor)
+  - (Feels Like) I Just Got Started (Just Got Started)
+  - I Only Gamble With My Heart (Just Got Started)
+  - Jimmy Plays the Blues (Plays the Blues)
+  - Change Is Gonna Come (Plays the Blues)
 external_urls:
-  spotify: https://open.spotify.com/artist/3YVLGRvQ3lXuNd1QtQZdyh
+  spotify: 'https://open.spotify.com/artist/3YVLGRvQ3lXuNd1QtQZdyh'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/Jimmy_Carpenter.jpg
 biography_enhanced_at: '2025-10-21T06:37:11.899432'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.makingascene.org/jimmy-carpenter-just-got-started/
-- https://intrepidartists.com/artists/jimmy-carpenter/
-- https://www.jimmycarpenter.net/about
-- https://www.jimmycarpenter.net
-- https://www.bluesblastmagazine.com/jimmy-carpenter-just-got-started-album-review/
-- https://roamingthearts.com/jimmy-carpenter/
-- https://carlislebluesfestival.com/jimmy-carpenter/
+  - 'https://www.makingascene.org/jimmy-carpenter-just-got-started/'
+  - 'https://intrepidartists.com/artists/jimmy-carpenter/'
+  - 'https://www.jimmycarpenter.net/about'
+  - 'https://www.jimmycarpenter.net'
+  - >-
+    https://www.bluesblastmagazine.com/jimmy-carpenter-just-got-started-album-review/
+  - 'https://roamingthearts.com/jimmy-carpenter/'
+  - 'https://carlislebluesfestival.com/jimmy-carpenter/'
 network_extracted: true
 entry_created: '2025-10-21T06:37:11.899442'
 last_updated: '2025-12-23T08:16:02.552936'
+artist_type: person
 ---
 
 ![](Jimmy_Carpenter.jpg)

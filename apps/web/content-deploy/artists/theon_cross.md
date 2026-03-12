@@ -1,65 +1,65 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - tuba
-  mbid: 89ae56bc-5e9c-4375-a865-2a3e2452532a
-  name: SEED Ensemble
+  - begin: ''
+    end: ''
+    instruments:
+      - tuba
+    mbid: 89ae56bc-5e9c-4375-a865-2a3e2452532a
+    name: SEED Ensemble
 biography_enhanced_at: '2025-12-25T01:07:36.134049'
-birth_place: London
+birth_place: 'London, England, United Kingdom'
 enhancement_provider: perplexity
 entry_created: '2025-12-25T01:07:36.134064'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2c36f2f7-c762-44f9-bb7d-139ad93ceae9
-  spotify: https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56
+  musicbrainz: 'https://musicbrainz.org/artist/2c36f2f7-c762-44f9-bb7d-139ad93ceae9'
+  spotify: 'https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56'
   wikipedia: ''
 gender: Male
 genres:
-- nu jazz
-- jazz funk
-- jazz
+  - nu jazz
+  - jazz funk
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/theon_cross.jpg
 instruments:
-- tuba
+  - tuba
 last_updated: '2025-12-25T01:07:36.134066'
 musical_connections:
   collaborators:
-  - Sons Of Kemet
-  - Nubya Garcia
-  - Moses Boyd
-  - Stormzy
-  - Cassie Kinoshi’s SEED Ensemble
+    - Sons Of Kemet
+    - Nubya Garcia
+    - Moses Boyd
+    - Stormzy
+    - Cassie Kinoshi’s SEED Ensemble
   influenced: []
   mentors:
-  - Tomorrow's Warriors
-  - Lewisham Music
-  - Guildhall School of Music
+    - Tomorrow's Warriors
+    - Lewisham Music
+    - Guildhall School of Music
 musicbrainz_id: 2c36f2f7-c762-44f9-bb7d-139ad93ceae9
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://chicagopresents.uchicago.edu/people/theon-cross-tuba
-- https://lewishammusic.org/theon-cross/
-- https://ebbmusic.eu/artists/theon-cross/
-- https://kexp.org/read/2022/3/14/midnight-perfect-world-theon-cross/
-- https://daily.bandcamp.com/features/theon-cross-intra-i-interview
-- https://postgenre.org/theon-cross-affirmations-blue-note/
-- https://www.winterjazzfest.com/artist-theon-cross
-- https://www.loudandquiet.com/interview/theon-cross-a-different-kind-of-tuba-player/
+  - 'https://chicagopresents.uchicago.edu/people/theon-cross-tuba'
+  - 'https://lewishammusic.org/theon-cross/'
+  - 'https://ebbmusic.eu/artists/theon-cross/'
+  - 'https://kexp.org/read/2022/3/14/midnight-perfect-world-theon-cross/'
+  - 'https://daily.bandcamp.com/features/theon-cross-intra-i-interview'
+  - 'https://postgenre.org/theon-cross-affirmations-blue-note/'
+  - 'https://www.winterjazzfest.com/artist-theon-cross'
+  - >-
+    https://www.loudandquiet.com/interview/theon-cross-a-different-kind-of-tuba-player/
 spotify_data:
   followers: 25891
   id: 0IFabaHypEH0hMgkx0Gw56
   popularity: 31
-  url: https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56
+  url: 'https://open.spotify.com/artist/0IFabaHypEH0hMgkx0Gw56'
 status: active
 tags:
-- afrobeat
-- experimental electronic
-- groove
+  - afrobeat
+  - experimental electronic
+  - groove
 title: Theon Cross
-
 ---
 
 ![](theon_cross.jpg)

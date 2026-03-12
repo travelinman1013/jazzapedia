@@ -1,20 +1,20 @@
 ---
-title: BOBBY RUSH
+title: Bobby Rush
 wiki_slug: bobby-rush
 schema_version: 2
 status: active
-birth_place: Homer, Louisiana, United States
+birth_place: 'Homer, Louisiana, United States'
 genres:
-- blues
-- soul blues
-- classic blues
-- modern blues
-- philly soul
+  - blues
+  - soul blues
+  - classic blues
+  - modern blues
+  - philly soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bobby_rush.jpg
   caption: BOBBY RUSH
   background: solo_singer
-  origin: Homer, Louisiana, United States
+  origin: 'Homer, Louisiana, United States'
 audio_profile:
   tempo_avg: 123.5
   energy_avg: 0.623
@@ -30,48 +30,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Earl Hooker
-  - Luther Allison
-  - Dr. John
-  - Blinddog Smokin’
+    - Earl Hooker
+    - Luther Allison
+    - Dr. John
+    - Blinddog Smokin’
   influenced:
-  - Southern soul and blues performers
+    - Southern soul and blues performers
   mentors:
-  - Little Walter
-  - Elmore James
+    - Little Walter
+    - Elmore James
 spotify_data:
   followers: 32646
   id: 7LdFlcnzWpySPKngmFCnLi
   popularity: 34
-  url: https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi
+  url: 'https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi'
 discography_enriched: true
 top_tracks:
-- Hey Baby (What Are We Gonna Do)
-- Juke (Sinners (Original Motion Picture Soundtrack))
-- You So Fine (Young Fashioned Ways)
-- I've Got Three Problems
-- Who Was That (Young Fashioned Ways)
-- 'Chicken Heads (Chicken Heads: A 50-Year History Of Bobby Rush)'
-- Who Was That
-- Why I Sing The Blues (B.B. King's Blues Summit 100, Vol. I)
-- Chicken Heads
-- 99 And 1/2 Won't Do
+  - Hey Baby (What Are We Gonna Do)
+  - Juke (Sinners (Original Motion Picture Soundtrack))
+  - You So Fine (Young Fashioned Ways)
+  - I've Got Three Problems
+  - Who Was That (Young Fashioned Ways)
+  - 'Chicken Heads (Chicken Heads: A 50-Year History Of Bobby Rush)'
+  - Who Was That
+  - 'Why I Sing The Blues (B.B. King''s Blues Summit 100, Vol. I)'
+  - Chicken Heads
+  - 99 And 1/2 Won't Do
 external_urls:
-  spotify: https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi
-  wikipedia: https://en.wikipedia.org/wiki/Bobby_Rush_(musician)
+  spotify: 'https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bobby_Rush_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/bobby_rush.jpg
 biography_enhanced_at: '2025-10-22T09:27:14.062931'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://grammymuseum.org/event/an-evening-with-bobby-rush/
-- https://msbluestrail.org/blues-trail-markers/bobby-rush
-- https://www.bobbyrushbluesman.com/bio
-- https://concord.com/artist/bobby-rush/
-- https://encyclopediaofarkansas.net/entries/bobby-rush-6951/
+  - 'https://grammymuseum.org/event/an-evening-with-bobby-rush/'
+  - 'https://msbluestrail.org/blues-trail-markers/bobby-rush'
+  - 'https://www.bobbyrushbluesman.com/bio'
+  - 'https://concord.com/artist/bobby-rush/'
+  - 'https://encyclopediaofarkansas.net/entries/bobby-rush-6951/'
 network_extracted: true
 entry_created: '2025-10-22T09:27:14.062944'
 last_updated: '2025-12-23T08:16:05.878374'
+origin: 'Chicago, Illinois, United States'
+birth_date: '1937'
+artist_type: person
 ---
 
 ![](bobby_rush.jpg)

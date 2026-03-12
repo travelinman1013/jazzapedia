@@ -3,16 +3,16 @@ title: Sonny Terry
 wiki_slug: sonny-terry
 schema_version: 2
 status: active
-birth_place: Greensboro, Georgia, United States
+birth_place: 'Greensboro, Georgia, United States'
 genres:
-- blues
-- country blues
-- classic blues
+  - blues
+  - country blues
+  - classic blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sonny_terry.jpg
   caption: Sonny Terry
   background: solo_singer
-  origin: Greensboro, Georgia, United States
+  origin: 'Greensboro, Georgia, United States'
 audio_profile:
   tempo_avg: 113.4
   energy_avg: 0.343
@@ -28,54 +28,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Blind Boy Fuller
-  - Brownie McGhee
-  - Reverend Gary Davis
-  - Big Bill Broonzy
-  - Mississippi John Hurt
+    - Blind Boy Fuller
+    - Brownie McGhee
+    - Reverend Gary Davis
+    - Big Bill Broonzy
+    - Mississippi John Hurt
   influenced:
-  - Paul Butterfield
-  - Charlie Musselwhite
-  - John Sebastian
+    - Paul Butterfield
+    - Charlie Musselwhite
+    - John Sebastian
   mentors:
-  - Ruben Terrell
-  - DeFord Bailey
+    - Ruben Terrell
+    - DeFord Bailey
 spotify_data:
   followers: 25888
   id: 66hQFpsfaFzK8UbsQofCGv
   popularity: 33
-  url: https://open.spotify.com/artist/66hQFpsfaFzK8UbsQofCGv
+  url: 'https://open.spotify.com/artist/66hQFpsfaFzK8UbsQofCGv'
 discography_enriched: true
 top_tracks:
-- Bring It On Home To Me (Sonny & Brownie)
-- Diggin' My Potatoes (Wizard Of The Harmonica)
-- The Battle Is Over (But The War Goes On) (Sonny & Brownie)
-- Walkin My Blues Away (Sonny & Brownie)
-- People Get Ready (Sonny & Brownie)
-- Sonny's Whoopin' The Doop (Whoopin')
-- Better Day (Guitar Highway)
-- You Bring Out The Boogie In Me (Sonny & Brownie)
-- White Boy Lost In The Blues (Sonny & Brownie)
-- Sail Away (Sonny & Brownie)
+  - Bring It On Home To Me (Sonny & Brownie)
+  - Diggin' My Potatoes (Wizard Of The Harmonica)
+  - The Battle Is Over (But The War Goes On) (Sonny & Brownie)
+  - Walkin My Blues Away (Sonny & Brownie)
+  - People Get Ready (Sonny & Brownie)
+  - Sonny's Whoopin' The Doop (Whoopin')
+  - Better Day (Guitar Highway)
+  - You Bring Out The Boogie In Me (Sonny & Brownie)
+  - White Boy Lost In The Blues (Sonny & Brownie)
+  - Sail Away (Sonny & Brownie)
 external_urls:
-  spotify: https://open.spotify.com/artist/66hQFpsfaFzK8UbsQofCGv
-  wikipedia: https://en.wikipedia.org/wiki/Sonny_Terry
+  spotify: 'https://open.spotify.com/artist/66hQFpsfaFzK8UbsQofCGv'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sonny_Terry'
 image_path: 03_Resources/source_material/ArtistPortraits/sonny_terry.jpg
 biography_enhanced_at: '2025-11-12T14:55:24.071533'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.ebsco.com/research-starters/biography/sonny-terry
-- https://www.britannica.com/biography/Sonny-Terry
-- https://www.culturalequity.org/alan-lomax/friends/terry
-- https://concord.com/artist/sonny-terry/
-- https://www.alligator.com/artists/Sonny-Terry/
-- https://wumb.org/sonny-terry-was-born-this-week-in-music-history/
-- https://www.arts.gov/honors/heritage/sanders-sonny-terry
-- https://postalmuseum.si.edu/exhibition/the-black-experience-music-folk-singers/sonny-terry
+  - 'https://www.ebsco.com/research-starters/biography/sonny-terry'
+  - 'https://www.britannica.com/biography/Sonny-Terry'
+  - 'https://www.culturalequity.org/alan-lomax/friends/terry'
+  - 'https://concord.com/artist/sonny-terry/'
+  - 'https://www.alligator.com/artists/Sonny-Terry/'
+  - 'https://wumb.org/sonny-terry-was-born-this-week-in-music-history/'
+  - 'https://www.arts.gov/honors/heritage/sanders-sonny-terry'
+  - >-
+    https://postalmuseum.si.edu/exhibition/the-black-experience-music-folk-singers/sonny-terry
 network_extracted: true
 entry_created: '2025-11-12T14:55:24.071551'
 last_updated: '2025-12-23T08:16:15.924566'
+birth_date: '1911-10-24'
+artist_type: person
 ---
 
 ![](sonny_terry.jpg)

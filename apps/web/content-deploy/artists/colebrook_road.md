@@ -1,12 +1,12 @@
 ---
-title: colebrook road
+title: Colebrook Road
 wiki_slug: colebrook-road
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- bluegrass
-- newgrass
+  - bluegrass
+  - newgrass
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/colebrook_road.jpg
   caption: colebrook road
@@ -26,47 +26,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jesse Eisenbise
-  - Wade Yankey
-  - Joe McAnulty
-  - Mark Rast
-  - Jeff Campbell
+    - Jesse Eisenbise
+    - Wade Yankey
+    - Joe McAnulty
+    - Mark Rast
+    - Jeff Campbell
   influenced: []
   mentors: []
 spotify_data:
   followers: 1258
   id: 6FHPdJ9BsxkT8O6FwD5Dom
   popularity: 5
-  url: https://open.spotify.com/artist/6FHPdJ9BsxkT8O6FwD5Dom
+  url: 'https://open.spotify.com/artist/6FHPdJ9BsxkT8O6FwD5Dom'
 discography_enriched: true
 top_tracks:
-- As You Do (As You Do)
-- That Summer (That Summer)
-- Alone Again (Alone Again)
-- Wise Old Owl (Wise Old Owl)
-- On Time (On Time)
-- Mountainside (Hindsight is 2020)
-- All You Need to Know (Hindsight is 2020)
-- Boy In The Bubble (On Time)
-- That Summer (Wise Old Owl)
-- Back to Where We've Been (Hindsight is 2020)
+  - As You Do (As You Do)
+  - That Summer (That Summer)
+  - Alone Again (Alone Again)
+  - Wise Old Owl (Wise Old Owl)
+  - On Time (On Time)
+  - Mountainside (Hindsight is 2020)
+  - All You Need to Know (Hindsight is 2020)
+  - Boy In The Bubble (On Time)
+  - That Summer (Wise Old Owl)
+  - Back to Where We've Been (Hindsight is 2020)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/05e718da-17b9-4994-98a4-df149491c65d
-  spotify: https://open.spotify.com/artist/6FHPdJ9BsxkT8O6FwD5Dom
+  musicbrainz: 'https://musicbrainz.org/artist/05e718da-17b9-4994-98a4-df149491c65d'
+  spotify: 'https://open.spotify.com/artist/6FHPdJ9BsxkT8O6FwD5Dom'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/colebrook_road.jpg
 biography_enhanced_at: '2025-10-27T02:28:49.167026'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- theburgnews.com
-- purplefiddle.com
-- mountainfever.com
+  - theburgnews.com
+  - purplefiddle.com
+  - mountainfever.com
 network_extracted: true
 entry_created: '2025-10-27T02:28:49.167037'
 last_updated: '2025-12-23T08:16:07.138653'
 musicbrainz_id: 05e718da-17b9-4994-98a4-df149491c65d
-origin: Harrisburg, Pennsylvania, USA
+origin: 'Harrisburg, Pennsylvania, USA'
 ---
 
 ![](colebrook_road.jpg)

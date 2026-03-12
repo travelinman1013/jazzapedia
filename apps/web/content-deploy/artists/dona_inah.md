@@ -1,43 +1,48 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-11T02:21:44.398720'
-birth_place: Araras, São Paulo, Brazil
+birth_place: 'Araras, São Paulo, Brazil'
 enhancement_provider: perplexity
 entry_created: '2026-01-11T02:21:44.398732'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5d808198-ab30-47dc-b7f6-d93febf5cee4
-  spotify: https://open.spotify.com/artist/18wJMXcXK3UYaA0bYI16FC
-  wikipedia: https://pt.wikipedia.org/wiki/Dona_Inah
+  musicbrainz: 'https://musicbrainz.org/artist/5d808198-ab30-47dc-b7f6-d93febf5cee4'
+  spotify: 'https://open.spotify.com/artist/18wJMXcXK3UYaA0bYI16FC'
+  wikipedia: 'https://pt.wikipedia.org/wiki/Dona_Inah'
 genres:
-- samba
+  - samba
 image_path: 03_Resources/source_material/ArtistPortraits/dona_inah.jpg
 last_updated: '2026-01-11T02:21:44.398734'
 musical_connections:
   collaborators:
-  - Vincent Moon
-  - Rômulo Fróes
+    - Vincent Moon
+    - Rômulo Fróes
   influenced:
-  - Younger São Paulo samba and alt‑samba musicians (e.g., Rômulo Fróes’ generation)
+    - >-
+      Younger São Paulo samba and alt‑samba musicians (e.g., Rômulo Fróes’
+      generation)
   mentors:
-  - Paulo Vanzolini
-  - Eduardo Gudin
+    - Paulo Vanzolini
+    - Eduardo Gudin
 musicbrainz_id: 5d808198-ab30-47dc-b7f6-d93febf5cee4
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://recentmusic.com/artist/18wJMXcXK3UYaA0bYI16FC/
-- https://pt.wikipedia.org/wiki/Dona_Inah
-- https://www.alphavillejournal.com/Issue19/HTML/ArticleSiqueira.html
-- https://brazilbeatblog.wordpress.com/2017/04/10/the-twisted-move-romulo-froes/
-- https://www.youtube.com/watch?v=rNggR9Fyw80
-- https://lyricalbrazil.com/2012/12/13/longe-de-casa/
+  - 'https://recentmusic.com/artist/18wJMXcXK3UYaA0bYI16FC/'
+  - 'https://pt.wikipedia.org/wiki/Dona_Inah'
+  - 'https://www.alphavillejournal.com/Issue19/HTML/ArticleSiqueira.html'
+  - >-
+    https://brazilbeatblog.wordpress.com/2017/04/10/the-twisted-move-romulo-froes/
+  - 'https://www.youtube.com/watch?v=rNggR9Fyw80'
+  - 'https://lyricalbrazil.com/2012/12/13/longe-de-casa/'
 spotify_data:
   followers: 2825
   id: 18wJMXcXK3UYaA0bYI16FC
   popularity: 8
-  url: https://open.spotify.com/artist/18wJMXcXK3UYaA0bYI16FC
+  url: 'https://open.spotify.com/artist/18wJMXcXK3UYaA0bYI16FC'
 status: active
 title: Dona Inah
+origin: 'São Paulo, State/Region, Brazil'
+birth_date: '1935-05-17'
 ---
 
 ![](dona_inah.jpg)

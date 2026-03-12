@@ -3,15 +3,15 @@ title: Peter Martin
 wiki_slug: peter-martin
 schema_version: 2
 status: active
-birth_place: St. Louis, Missouri, United States
+birth_place: 'St. Louis, Missouri, United States'
 genres:
-- jazz
-- ragtime
+  - jazz
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/peter_martin.jpg
   caption: Peter Martin
   background: solo_singer
-  origin: St. Louis, Missouri, United States
+  origin: 'St. Louis, Missouri, United States'
 audio_profile:
   tempo_avg: 117.8
   energy_avg: 0.343
@@ -19,7 +19,7 @@ audio_profile:
   danceability_avg: 0.489
   acousticness_avg: 0.794
   instrumentalness_avg: 0.627
-  loudness_avg: -14.0
+  loudness_avg: -14
   speechiness_avg: 0.042
   liveness_avg: 0.304
   track_count: 50
@@ -27,58 +27,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dianne Reeves
-  - Christian McBride
-  - Wynton Marsalis
-  - Joshua Redman
-  - Gregory Hutchinson
-  - Reuben Rogers
-  - Chris Botti
-  - Betty Carter
-  - Adam Maness
+    - Dianne Reeves
+    - Christian McBride
+    - Wynton Marsalis
+    - Joshua Redman
+    - Gregory Hutchinson
+    - Reuben Rogers
+    - Chris Botti
+    - Betty Carter
+    - Adam Maness
   influenced:
-  - Open Studio students
-  - Online jazz education community
+    - Open Studio students
+    - Online jazz education community
   mentors:
-  - Hi Martin
-  - John Brophy
-  - Juilliard School of Music faculty
+    - Hi Martin
+    - John Brophy
+    - Juilliard School of Music faculty
 spotify_data:
   followers: 5131
   id: 2NECfOtC8yOOhD6J2qeRG4
   popularity: 23
-  url: https://open.spotify.com/artist/2NECfOtC8yOOhD6J2qeRG4
+  url: 'https://open.spotify.com/artist/2NECfOtC8yOOhD6J2qeRG4'
 discography_enriched: true
 top_tracks:
-- Path Adjacent (Peter Martin & Generation S)
-- Emotion in Motion (What Lies Ahead)
-- Generation S (Peter Martin & Generation S)
-- That's What's Up (Peter Martin & Generation S)
-- Groove Echo Chamber (Peter Martin & Generation S)
-- Gratitude in Motion (Peter Martin & Generation S)
-- Finding Our Infinity (Peter Martin & Generation S)
-- In a Mellow Tone (What Lies Ahead)
-- Abstract Courage (Peter Martin & Generation S)
-- 'Cuba New Orleans (Live) (Rio Meets New Orleans: Live from Tokyo)'
+  - Path Adjacent (Peter Martin & Generation S)
+  - Emotion in Motion (What Lies Ahead)
+  - Generation S (Peter Martin & Generation S)
+  - That's What's Up (Peter Martin & Generation S)
+  - Groove Echo Chamber (Peter Martin & Generation S)
+  - Gratitude in Motion (Peter Martin & Generation S)
+  - Finding Our Infinity (Peter Martin & Generation S)
+  - In a Mellow Tone (What Lies Ahead)
+  - Abstract Courage (Peter Martin & Generation S)
+  - 'Cuba New Orleans (Live) (Rio Meets New Orleans: Live from Tokyo)'
 external_urls:
-  spotify: https://open.spotify.com/artist/2NECfOtC8yOOhD6J2qeRG4
-  wikipedia: https://en.wikipedia.org/wiki/Peter_Martin_(jazz_pianist)
+  spotify: 'https://open.spotify.com/artist/2NECfOtC8yOOhD6J2qeRG4'
+  wikipedia: 'https://en.wikipedia.org/wiki/Peter_Martin_(jazz_pianist)'
 image_path: 03_Resources/source_material/ArtistPortraits/peter_martin.jpg
 biography_enhanced_at: '2025-11-27T06:28:08.231902'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://petermartinmusic.com/bio
-- https://en.wikipedia.org/wiki/Peter_Martin_(jazz_pianist)
-- https://my.jazzstl.org/3423
-- https://stljewishlight.org/news/news-local/7000-jazz-musicians-cant-be-wrong-how-st-louis-peter-martin-is-tranforming-music-education/
-- https://www.openstudiojazz.com/instructors/peter-martin/
-- https://youllhearit.com/people/peter-martin
-- https://www.youtube.com/@pianopeter/about
-- https://www.muziekweb.nl/en/Link/M00000272783/CLASSICAL/Peter-Martin
+  - 'https://petermartinmusic.com/bio'
+  - 'https://en.wikipedia.org/wiki/Peter_Martin_(jazz_pianist)'
+  - 'https://my.jazzstl.org/3423'
+  - >-
+    https://stljewishlight.org/news/news-local/7000-jazz-musicians-cant-be-wrong-how-st-louis-peter-martin-is-tranforming-music-education/
+  - 'https://www.openstudiojazz.com/instructors/peter-martin/'
+  - 'https://youllhearit.com/people/peter-martin'
+  - 'https://www.youtube.com/@pianopeter/about'
+  - 'https://www.muziekweb.nl/en/Link/M00000272783/CLASSICAL/Peter-Martin'
 network_extracted: true
 entry_created: '2025-11-27T06:28:08.231916'
 last_updated: '2025-12-23T08:16:14.235963'
+birth_date: '1970-08-17'
+artist_type: person
 ---
 
 ![](peter_martin.jpg)

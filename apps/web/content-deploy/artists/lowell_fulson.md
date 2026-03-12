@@ -1,28 +1,28 @@
 ---
-title: lowell fulson
+title: Lowell Fulson
 wiki_slug: lowell-fulson
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1921-03-31'
-birth_place: Tulsa
-death_date: '1999-03-07'
+birth_place: 'Tulsa, Oklahoma, United States'
+death_date: '1999-03-06'
 genres:
-- blues
-- classic blues
-- soul blues
+  - blues
+  - classic blues
+  - soul blues
 instruments:
-- eponymous
-- original
-- guitar
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
-  mbid: b97e965a-abdc-4489-ab24-fec7b1cceaf2
-  name: Lowell Fulson and The Ful-Tones
+  - guitar
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: b97e965a-abdc-4489-ab24-fec7b1cceaf2
+    name: Lowell Fulson and The Ful-Tones
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lowell_fulson.jpg
   caption: lowell fulson
@@ -45,57 +45,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Martin Fulson
-  - Ray Charles
-  - Stanley Turrentine
-  - Ike Turner
-  - King Curtis
+    - Martin Fulson
+    - Ray Charles
+    - Stanley Turrentine
+    - Ike Turner
+    - King Curtis
   influenced:
-  - B.B. King
-  - Elvis Presley
-  - Eric Clapton
-  - Otis Redding
+    - B.B. King
+    - Elvis Presley
+    - Eric Clapton
+    - Otis Redding
   mentors:
-  - Alger 'Texas' Alexander
-  - Bob Wills
+    - Alger 'Texas' Alexander
+    - Bob Wills
 spotify_data:
   followers: 29583
   id: 3VhvGNnWfzmlEyiuhzdgf5
   popularity: 33
-  url: https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5
+  url: 'https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5'
 discography_enriched: true
 top_tracks:
-- Reconsider Baby (Hung Down Head)
-- Low Society (Hung Down Head)
-- Back Home Blues (Everyday I Have the Blues)
-- Why Don't We Do It In The Road (My Baby)
-- Do Me Right (Hung Down Head)
-- Reconsider Baby (The Complete Chess Masters)
-- Trouble, Trouble (Hung Down Head)
-- I Still Love You Baby (Hung Down Head)
-- Reconsider Baby (Reconsider Baby)
-- 'Don''t Leave Me Baby (Jump Blue: Rockin'' The Jukes)'
+  - Reconsider Baby (Hung Down Head)
+  - Low Society (Hung Down Head)
+  - Back Home Blues (Everyday I Have the Blues)
+  - Why Don't We Do It In The Road (My Baby)
+  - Do Me Right (Hung Down Head)
+  - Reconsider Baby (The Complete Chess Masters)
+  - 'Trouble, Trouble (Hung Down Head)'
+  - I Still Love You Baby (Hung Down Head)
+  - Reconsider Baby (Reconsider Baby)
+  - 'Don''t Leave Me Baby (Jump Blue: Rockin'' The Jukes)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/df9483e8-e037-450e-bcc4-6e9c280a4f73
-  spotify: https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5
-  wikipedia: https://en.wikipedia.org/wiki/Lowell_Fulson
+  musicbrainz: 'https://musicbrainz.org/artist/df9483e8-e037-450e-bcc4-6e9c280a4f73'
+  spotify: 'https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lowell_Fulson'
 image_path: 03_Resources/source_material/ArtistPortraits/lowell_fulson.jpg
 biography_enhanced_at: '2025-11-04T11:01:54.239906'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.okhistory.org/publications/enc/entry?entry=FU001
-- https://jbonamassa.com/lowell-fulson-west-coast-blues/
-- https://mojohand.com/glossary/lowell-fulson/
+  - 'https://www.okhistory.org/publications/enc/entry?entry=FU001'
+  - 'https://jbonamassa.com/lowell-fulson-west-coast-blues/'
+  - 'https://mojohand.com/glossary/lowell-fulson/'
 network_extracted: true
 entry_created: '2025-11-04T11:01:54.239917'
 last_updated: '2025-12-23T08:16:12.300915'
 gender: Male
 musicbrainz_id: df9483e8-e037-450e-bcc4-6e9c280a4f73
 tags:
-- blues
-- classic pop and rock
-- electric blues
+  - blues
+  - classic pop and rock
+  - electric blues
+is_active: false
+origin: 'Oakland, California, United States'
 ---
 
 ![](lowell_fulson.jpg)

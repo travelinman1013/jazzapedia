@@ -2,11 +2,11 @@
 title: Le Tigre
 wiki_slug: le-tigre
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1998'
 genres:
-- electroclash
+  - electroclash
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/le_tigre.jpg
   caption: Le Tigre
@@ -27,90 +27,89 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kathleen Hanna
-  - Johanna Fateman
-  - Sadie Benning
-  - JD Samson
-  - Tracy + the Plastics
-  - Peaches
-  - Chicks on Speed
+    - Kathleen Hanna
+    - Johanna Fateman
+    - Sadie Benning
+    - JD Samson
+    - Tracy + the Plastics
+    - Peaches
+    - Chicks on Speed
   influenced:
-  - Electronic Music Artists
-  - Queercore and LGBTQ+ Musicians
-  - Feminist Musicians and Artists
+    - Electronic Music Artists
+    - Queercore and LGBTQ+ Musicians
+    - Feminist Musicians and Artists
   mentors:
-  - Riot Grrrl Movement
-  - Olympia Art Scene
+    - Riot Grrrl Movement
+    - Olympia Art Scene
 spotify_data:
   followers: 553146
   id: 2n6FviARgtjjimZXu18uRM
   popularity: 63
-  url: https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM
+  url: 'https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM'
 discography_enriched: true
 top_tracks:
-- Deceptacon (Le Tigre)
-- Deceptacon (Le Tigre)
-- Phanta (Le Tigre)
-- Hot Topic (Le Tigre)
-- Eau D'bedroom Dancing (Le Tigre)
-- The the Empty (Le Tigre)
-- Deceptacon
-- Mediocrity Rules (From the Desk of Mr. Lady)
-- TKO (This Island)
-- Deceptacon (DFA Rmx) By Tim Goldsworthy & James Murphy for the Dfa
+  - Deceptacon (Le Tigre)
+  - Deceptacon (Le Tigre)
+  - Phanta (Le Tigre)
+  - Hot Topic (Le Tigre)
+  - Eau D'bedroom Dancing (Le Tigre)
+  - The the Empty (Le Tigre)
+  - Deceptacon
+  - Mediocrity Rules (From the Desk of Mr. Lady)
+  - TKO (This Island)
+  - Deceptacon (DFA Rmx) By Tim Goldsworthy & James Murphy for the Dfa
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2d67239c-aa40-4ad5-a807-9052b66857a6
-  spotify: https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM
+  musicbrainz: 'https://musicbrainz.org/artist/2d67239c-aa40-4ad5-a807-9052b66857a6'
+  spotify: 'https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM'
   wikipedia: Not provided in search results
 image_path: 03_Resources/source_material/ArtistPortraits/le_tigre.jpg
 biography_enhanced_at: '2025-12-04T07:29:47.382212'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Last.fm - Le Tigre
-- Encyclopedia.com - Le Tigre
-- YouTube - How Le Tigre Changed Feminist Punk in 1999
-- Le Tigre Official Website (letigre.world)
-- Albumism - Le Tigre's Eponymous Debut Album Anniversary
-- The Skinny - Le Tigre on DIY Culture and Their Return
+  - Last.fm - Le Tigre
+  - Encyclopedia.com - Le Tigre
+  - YouTube - How Le Tigre Changed Feminist Punk in 1999
+  - Le Tigre Official Website (letigre.world)
+  - Albumism - Le Tigre's Eponymous Debut Album Anniversary
+  - The Skinny - Le Tigre on DIY Culture and Their Return
 network_extracted: true
 entry_created: '2025-12-04T07:29:47.382223'
 last_updated: '2025-12-23T08:16:11.691429'
 members:
-- begin: '1998'
-  end: '2000'
-  instruments: []
-  mbid: ad77bd6f-90e3-439d-b990-bfed508686a8
-  name: Sadie Benning
-- &id001
-  begin: '1998'
-  end: ''
-  instruments: []
-  mbid: 208a3105-1039-4b36-894d-9cf45257f601
-  name: Johanna Fateman
-- &id002
-  begin: '1998'
-  end: ''
-  instruments: []
-  mbid: 4638653b-a279-42d6-bd8c-b2bcb9a19f77
-  name: Kathleen Hanna
-- &id003
-  begin: '2000'
-  end: ''
-  instruments: []
-  mbid: fd42790a-2d28-4564-9da9-9b3686597ec8
-  name: JD Samson
+  - begin: '1998'
+    end: '2000'
+    instruments: []
+    mbid: ad77bd6f-90e3-439d-b990-bfed508686a8
+    name: Sadie Benning
+  - &ref_0
+    begin: '1998'
+    end: ''
+    instruments: []
+    mbid: 208a3105-1039-4b36-894d-9cf45257f601
+    name: Johanna Fateman
+  - &ref_1
+    begin: '1998'
+    end: ''
+    instruments: []
+    mbid: 4638653b-a279-42d6-bd8c-b2bcb9a19f77
+    name: Kathleen Hanna
+  - &ref_2
+    begin: '2000'
+    end: ''
+    instruments: []
+    mbid: fd42790a-2d28-4564-9da9-9b3686597ec8
+    name: JD Samson
 musicbrainz_id: 2d67239c-aa40-4ad5-a807-9052b66857a6
-origin: New York
+origin: 'New York City, New York, United States'
 original_members:
-- *id001
-- *id002
-- *id003
+  - *ref_0
+  - *ref_1
+  - *ref_2
 tags:
-- american
-- dance and electronica
-- dance-punk
-
+  - american
+  - dance and electronica
+  - dance-punk
 ---
 
 ![](le_tigre.jpg)

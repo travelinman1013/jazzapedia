@@ -5,45 +5,45 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1984-08-25'
-birth_place: Malaysia
+birth_place: 'Malaysia, Malaysia, Country'
 genres:
-- jazz
-- free jazz
+  - jazz
+  - free jazz
 instruments:
-- double bass
-- electric bass guitar
-- eponymous
-- vocal
-associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e3bb6b18-b410-4ef6-8dac-7c0102f3bfba
-  name: Les Ingénues
-- begin: ''
-  end: ''
-  instruments:
   - double bass
-  mbid: 3857fcbe-b74e-4028-b223-2656a6130b24
-  name: Fabian Almazan Trio
-- begin: ''
-  end: ''
-  instruments:
-  - double bass
-  mbid: 0c220251-6901-43df-a05e-feb215c439ef
-  name: Anthony Branker & Imagine
-- begin: ''
-  end: ''
-  instruments:
   - electric bass guitar
-  mbid: 0c220251-6901-43df-a05e-feb215c439ef
-  name: Anthony Branker & Imagine
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
-  mbid: dc5776fc-c02d-48b8-b06d-d5e6942d00c8
-  name: Linda Oh Trio
+  - vocal
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e3bb6b18-b410-4ef6-8dac-7c0102f3bfba
+    name: Les Ingénues
+  - begin: ''
+    end: ''
+    instruments:
+      - double bass
+    mbid: 3857fcbe-b74e-4028-b223-2656a6130b24
+    name: Fabian Almazan Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - double bass
+    mbid: 0c220251-6901-43df-a05e-feb215c439ef
+    name: Anthony Branker & Imagine
+  - begin: ''
+    end: ''
+    instruments:
+      - electric bass guitar
+    mbid: 0c220251-6901-43df-a05e-feb215c439ef
+    name: Anthony Branker & Imagine
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: dc5776fc-c02d-48b8-b06d-d5e6942d00c8
+    name: Linda Oh Trio
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/linda_may_han_oh.jpg
   caption: Linda May Han Oh
@@ -65,56 +65,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Pat Metheny
-  - Terri Lyne Carrington
-  - Dave Douglas
-  - Joe Lovano
-  - Fabian Almazan
-  - Steve Wilson
-  - Geri Allen
-  - Vijay Iyer
+    - Pat Metheny
+    - Terri Lyne Carrington
+    - Dave Douglas
+    - Joe Lovano
+    - Fabian Almazan
+    - Steve Wilson
+    - Geri Allen
+    - Vijay Iyer
   influenced:
-  - Berklee College of Music students
-  - Institute for Jazz and Gender Justice participants
+    - Berklee College of Music students
+    - Institute for Jazz and Gender Justice participants
   mentors:
-  - Jay Anderson
-  - John Riley
-  - Phil Markowitz
-  - Dave Liebman
-  - Rodney Jones
+    - Jay Anderson
+    - John Riley
+    - Phil Markowitz
+    - Dave Liebman
+    - Rodney Jones
 spotify_data:
   followers: 9374
   id: 3ItwOheFhoNjZRCpnY5O9I
   popularity: 26
-  url: https://open.spotify.com/artist/3ItwOheFhoNjZRCpnY5O9I
+  url: 'https://open.spotify.com/artist/3ItwOheFhoNjZRCpnY5O9I'
 discography_enriched: true
 top_tracks:
-- Portal
-- Compassion (Compassion)
-- Brilliant Waters (Lucent Waters)
-- 'Prelude: Orison (Compassion)'
-- Roy Allan (In Common 2)
-- Overjoyed (Compassion)
-- Arch (Compassion)
-- See You Again My Friend (Spindrift)
-- Maelstrom (Compassion)
-- Spindrift (Spindrift)
+  - Portal
+  - Compassion (Compassion)
+  - Brilliant Waters (Lucent Waters)
+  - 'Prelude: Orison (Compassion)'
+  - Roy Allan (In Common 2)
+  - Overjoyed (Compassion)
+  - Arch (Compassion)
+  - See You Again My Friend (Spindrift)
+  - Maelstrom (Compassion)
+  - Spindrift (Spindrift)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9960b51b-f542-419a-b77f-418432a71f96
-  spotify: https://open.spotify.com/artist/3ItwOheFhoNjZRCpnY5O9I
-  wikipedia: https://en.wikipedia.org/wiki/Linda_May_Han_Oh
+  musicbrainz: 'https://musicbrainz.org/artist/9960b51b-f542-419a-b77f-418432a71f96'
+  spotify: 'https://open.spotify.com/artist/3ItwOheFhoNjZRCpnY5O9I'
+  wikipedia: 'https://en.wikipedia.org/wiki/Linda_May_Han_Oh'
 image_path: 03_Resources/source_material/ArtistPortraits/linda_may_han_oh.jpg
 biography_enhanced_at: '2025-10-22T09:33:00.308859'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.celebrityseries.org/live-performances/artists/details/linda-may-han-oh/
-- https://chicagopresents.uchicago.edu/people/linda-may-han-oh
-- https://boisejazzsociety.org/artists-2025-2026/linda-may-han-oh-quintet/
-- https://my.jazzstl.org/1289
-- https://lindamayhanoh.com/biography/
-- https://msmnyc.edu/news/alumni-project-spotlight/
-- https://lindamayhanoh.com
+  - >-
+    https://www.celebrityseries.org/live-performances/artists/details/linda-may-han-oh/
+  - 'https://chicagopresents.uchicago.edu/people/linda-may-han-oh'
+  - 'https://boisejazzsociety.org/artists-2025-2026/linda-may-han-oh-quintet/'
+  - 'https://my.jazzstl.org/1289'
+  - 'https://lindamayhanoh.com/biography/'
+  - 'https://msmnyc.edu/news/alumni-project-spotlight/'
+  - 'https://lindamayhanoh.com'
 network_extracted: true
 entry_created: '2025-10-22T09:33:00.308873'
 last_updated: '2025-12-23T08:16:03.018917'
@@ -122,8 +123,9 @@ disambiguation: Australian jazz bassist/composer
 gender: Female
 musicbrainz_id: 9960b51b-f542-419a-b77f-418432a71f96
 tags:
-- jazz
-- post-bop
+  - jazz
+  - post-bop
+origin: 'Perth, Western Australia, Australia'
 ---
 
 ![](linda_may_han_oh.jpg)

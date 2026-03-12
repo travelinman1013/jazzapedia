@@ -5,14 +5,14 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1966'
-birth_place: Wolverhampton
+birth_place: 'Wolverhampton, West Midlands, England'
 genres:
-- reggae
-- ragga
-- roots reggae
-- dub
+  - reggae
+  - ragga
+  - roots reggae
+  - dub
 instruments:
-- lead vocals
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/macka_b.jpg
   caption: Macka B
@@ -34,62 +34,66 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mad Professor
-  - Kofi
-  - Tony Rebel
-  - Royale Roots Band
-  - Nolan Irie
-  - Earl 16
-  - Horace Andy
-  - Sandra Cross
-  - Brown Sugar
-  - Steve Ital
-  - Fish
+    - Mad Professor
+    - Kofi
+    - Tony Rebel
+    - Royale Roots Band
+    - Nolan Irie
+    - Earl 16
+    - Horace Andy
+    - Sandra Cross
+    - Brown Sugar
+    - Steve Ital
+    - Fish
   influenced:
-  - Younger British reggae and dancehall DJs (e.g., later UK sound‑system MCs and conscious artists)
+    - >-
+      Younger British reggae and dancehall DJs (e.g., later UK sound‑system MCs
+      and conscious artists)
   mentors:
-  - Burning Spear
-  - Bob Marley
-  - Peter Tosh
-  - Count Ossie
-  - U‑Roy
-  - I‑Roy
-  - Big Youth
-  - Prince Far I
+    - Burning Spear
+    - Bob Marley
+    - Peter Tosh
+    - Count Ossie
+    - U‑Roy
+    - I‑Roy
+    - Big Youth
+    - Prince Far I
 spotify_data:
   followers: 51989
   id: 2ph6mRzG0lANVJRBTUIxI2
   popularity: 38
-  url: https://open.spotify.com/artist/2ph6mRzG0lANVJRBTUIxI2
+  url: 'https://open.spotify.com/artist/2ph6mRzG0lANVJRBTUIxI2'
 discography_enriched: true
 top_tracks:
-- Step Up (Word, Sound & Power)
-- Bob (Hold On To Your Culture)
-- One For Jah (Roots & Culture)
-- I Don't Like Reggae (Roots & Culture)
-- Health Is Wealth (Health Is Wealth)
-- Never Played A 45 (Never Played A 45)
-- Block Them - Remix (The Foot Of The Mountain Remixes)
-- Rasta Tell Them (Never Played A 45)
-- Straight From The Pram (The Foot Of The Mountain LP)
-- Good Day
+  - 'Step Up (Word, Sound & Power)'
+  - Bob (Hold On To Your Culture)
+  - One For Jah (Roots & Culture)
+  - I Don't Like Reggae (Roots & Culture)
+  - Health Is Wealth (Health Is Wealth)
+  - Never Played A 45 (Never Played A 45)
+  - Block Them - Remix (The Foot Of The Mountain Remixes)
+  - Rasta Tell Them (Never Played A 45)
+  - Straight From The Pram (The Foot Of The Mountain LP)
+  - Good Day
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/27dd8224-d752-40e5-9af8-47fd33e61d86
-  spotify: https://open.spotify.com/artist/2ph6mRzG0lANVJRBTUIxI2
-  wikipedia: https://en.wikipedia.org/wiki/Macka_B
+  musicbrainz: 'https://musicbrainz.org/artist/27dd8224-d752-40e5-9af8-47fd33e61d86'
+  spotify: 'https://open.spotify.com/artist/2ph6mRzG0lANVJRBTUIxI2'
+  wikipedia: 'https://en.wikipedia.org/wiki/Macka_B'
 image_path: 03_Resources/source_material/ArtistPortraits/macka_b.jpg
 biography_enhanced_at: '2025-12-15T01:35:43.511630'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.mamboeproductions.nl/en/artists/internationaal/live-artiesten-internationaal/macka-b
-- https://www.reggaeville.com/artist-details/macka-b/about/
-- https://www.jackrussellmusic.net/writers-artists/macka-b/
-- https://www.dandelionradio.com/artist/Macka+B
-- https://www.reggae.today/index.php/artisti2-2/189-macka-b
-- https://www.ostrodareggae.com/en/macka-b-uk
-- https://www.afropop.org/articles/macka-b-speaks-on-veganism-consciousness-and-well-being
-- https://www.balkanmusicbox.com/reggae/macka-b
+  - >-
+    https://www.mamboeproductions.nl/en/artists/internationaal/live-artiesten-internationaal/macka-b
+  - 'https://www.reggaeville.com/artist-details/macka-b/about/'
+  - 'https://www.jackrussellmusic.net/writers-artists/macka-b/'
+  - 'https://www.dandelionradio.com/artist/Macka+B'
+  - 'https://www.reggae.today/index.php/artisti2-2/189-macka-b'
+  - 'https://www.ostrodareggae.com/en/macka-b-uk'
+  - >-
+    https://www.afropop.org/articles/macka-b-speaks-on-veganism-consciousness-and-well-being
+  - 'https://www.balkanmusicbox.com/reggae/macka-b'
 network_extracted: true
 entry_created: '2025-12-15T01:35:43.511642'
 last_updated: '2025-12-23T08:16:12.457512'
@@ -97,9 +101,9 @@ disambiguation: reggae singer-songwriter
 gender: Male
 musicbrainz_id: 27dd8224-d752-40e5-9af8-47fd33e61d86
 tags:
-- dancehall
-- rastafarian
-- reggae
+  - dancehall
+  - rastafarian
+  - reggae
 ---
 
 ![](macka_b.jpg)

@@ -4,26 +4,26 @@ wiki_slug: sammy-kershaw
 schema_version: 2
 status: active
 aliases: []
-birth_date: '1993-06-14'
-birth_place: Laurel, Mississippi, United States
+birth_date: '1936-02-19'
+birth_place: 'Fort Myers, Florida, United States'
 genres:
-- country
-- traditional country
+  - country
+  - traditional country
 occupation:
-- American football player
+  - American football player
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Sammy_Kershaw.jpg
   caption: Sammy Kershaw
   background: solo_singer
   born: '1993-06-14'
-  origin: Laurel, Mississippi, United States
+  origin: 'Laurel, Mississippi, United States'
 audio_profile:
   tempo_avg: 124.4
   energy_avg: 0.625
   valence_avg: 0.651
   danceability_avg: 0.634
   acousticness_avg: 0.279
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -8.6
   speechiness_avg: 0.034
   liveness_avg: 0.16
@@ -32,55 +32,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Anson Funderburgh
-  - Sylvia Embry
-  - Mississippi Delta Blues Band
+    - Anson Funderburgh
+    - Sylvia Embry
+    - Mississippi Delta Blues Band
   influenced:
-  - Eric Clapton
-  - Robert Cray
+    - Eric Clapton
+    - Robert Cray
   mentors:
-  - Elmore James
-  - Muddy Waters
+    - Elmore James
+    - Muddy Waters
 related_artists: []
 spotify_data:
   followers: 681077
   id: 3tkZthBATD0S45hm1DmB2O
   popularity: 58
-  url: https://open.spotify.com/artist/3tkZthBATD0S45hm1DmB2O
+  url: 'https://open.spotify.com/artist/3tkZthBATD0S45hm1DmB2O'
   verified: false
 discography_enriched: true
 albums_count: 23
 singles_count: 21
 top_tracks:
-- She Don't Know She's Beautiful (Haunted Heart)
-- Queen Of My Double Wide Trailer (Haunted Heart)
-- Third Rate Romance (Feelin' Good Train)
-- Cadillac Style (Don't Go Near The Water)
-- Vidalia (Politics, Religion And Her)
-- She Don't Know She's Beautiful (Sammy Kershaw - The Definitive Collection)
-- Yard Sale (Don't Go Near The Water)
-- Love of My Life
-- Don't Go Near The Water (Don't Go Near The Water)
-- Love Of My Life (Labor Of Love)
+  - She Don't Know She's Beautiful (Haunted Heart)
+  - Queen Of My Double Wide Trailer (Haunted Heart)
+  - Third Rate Romance (Feelin' Good Train)
+  - Cadillac Style (Don't Go Near The Water)
+  - 'Vidalia (Politics, Religion And Her)'
+  - She Don't Know She's Beautiful (Sammy Kershaw - The Definitive Collection)
+  - Yard Sale (Don't Go Near The Water)
+  - Love of My Life
+  - Don't Go Near The Water (Don't Go Near The Water)
+  - Love Of My Life (Labor Of Love)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/3tkZthBATD0S45hm1DmB2O
-  wikipedia: https://en.wikipedia.org/wiki/Sam_Myers
+  spotify: 'https://open.spotify.com/artist/3tkZthBATD0S45hm1DmB2O'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sam_Myers'
 image_path: 03_Resources/source_material/ArtistPortraits/Sammy_Kershaw.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:51:59.796369'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Sam_Myers
-- https://www.imdb.com/name/nm0616849/bio/
-- https://fromthevaults-boppinbob.blogspot.com/2018/02/sam-myers-born-19-february-1936.html
-- https://www.thebestoffmusic.nl/blues/sam-myers/
+  - 'https://en.wikipedia.org/wiki/Sam_Myers'
+  - 'https://www.imdb.com/name/nm0616849/bio/'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2018/02/sam-myers-born-19-february-1936.html
+  - 'https://www.thebestoffmusic.nl/blues/sam-myers/'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 11:42:40.053535
+entry_created: 2025-09-18T11:42:40.053Z
 last_updated: '2025-12-23T08:16:03.813709'
-
+artist_type: person
 ---
 
 ![](Sammy_Kershaw.jpg)

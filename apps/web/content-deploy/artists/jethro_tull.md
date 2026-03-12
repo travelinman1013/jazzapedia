@@ -1,272 +1,273 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2025-12-31T01:48:50.013066'
-birth_date: 1967-12
+birth_date: '1947-08-10'
 enhancement_provider: perplexity
 entry_created: '2025-12-31T01:48:50.013072'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ece57992-dc2e-4f67-a269-fa43626c1a3d
-  spotify: https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R
-  wikipedia: https://en.wikipedia.org/wiki/Jethro_Tull_(band)
+  musicbrainz: 'https://musicbrainz.org/artist/ece57992-dc2e-4f67-a269-fa43626c1a3d'
+  spotify: 'https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jethro_Tull_(band)'
 genres:
-- progressive rock
-- symphonic rock
-- art rock
-- classic rock
+  - progressive rock
+  - symphonic rock
+  - art rock
+  - classic rock
 image_path: 03_Resources/source_material/ArtistPortraits/jethro_tull.jpg
 instruments:
-- electric guitar
-- original
-- bass guitar
-- drums (drum set)
-- acoustic guitar
-- flute
-- harmonica
-- lead vocals
-- mandolin
-- recorder
-- guitar
-- organ
-- piano
-- synthesizer
-- treble recorder / alto recorder
-- keyboard
-- saxophone
-- violin
-- accordion
-- bass
-last_updated: '2025-12-31T01:48:50.013073'
-members:
-- begin: 1967-11
-  end: 1968-11
-  instruments:
   - electric guitar
   - original
-  mbid: 88503676-d31b-458f-80a7-c38d758688b2
-  name: Mick Abrahams
-- begin: 1967-11
-  end: 1970-12
-  instruments:
   - bass guitar
-  - original
-  mbid: d7546c3b-8e41-41bf-a046-d2c366d3568c
-  name: Glenn Cornick
-- begin: 1967-11
-  end: 1971-05
-  instruments:
   - drums (drum set)
-  - original
-  mbid: 727640ec-95f5-4d0e-82c0-ab334c20a3ac
-  name: Clive Bunker
-- &id001
-  begin: '1967'
-  end: ''
-  instruments:
   - acoustic guitar
   - flute
   - harmonica
   - lead vocals
   - mandolin
-  - original
-  mbid: 12fffb1f-39af-4efe-9426-92e05bb651d1
-  name: Ian Anderson
-- begin: 1968-12
-  end: '2011'
-  instruments:
-  - acoustic guitar
-  - electric guitar
   - recorder
-  mbid: 6c68bf5a-88cb-4b46-ac06-306b327b03e1
-  name: Martin Barre
-- begin: '1968'
-  end: 1969-01
-  instruments:
   - guitar
-  mbid: e5fa0175-2e93-4ca7-90c3-33f239381252
-  name: Tony Iommi
-- begin: 1970-04
-  end: 1980-06
-  instruments:
   - organ
   - piano
   - synthesizer
-  mbid: 16d9683a-6e64-4163-a56a-fa351d56b13d
-  name: John Evan
-- begin: 1971-01
-  end: 1975-12
-  instruments:
-  - bass guitar
   - treble recorder / alto recorder
-  mbid: bf2fdd63-37ff-4263-a32c-2833dc43a780
-  name: Jeffrey Hammond Hammond
-- begin: 1971-05
-  end: 1980-06
-  instruments:
-  - drums (drum set)
-  mbid: ab99a5a7-26cb-42e8-abbd-9eebb6c2d40a
-  name: Barriemore Barlow
-- begin: 1975-12
-  end: 1979-08
-  instruments:
-  - bass guitar
-  mbid: 301986e2-cfb6-436a-8178-124b13c11d8e
-  name: John Glascock
-- begin: 1976-10
-  end: 1980-06
-  instruments:
   - keyboard
   - saxophone
-  mbid: e54203ac-f4ee-4970-a54f-78993f8b91a1
-  name: Dee Palmer
-- begin: 1979-08
-  end: '1995'
-  instruments:
-  - bass guitar
-  - mandolin
-  mbid: 58a6aa14-9c27-42d1-8667-859892cb3a29
-  name: Dave Pegg
-- begin: 1980-06
-  end: 1981-05
-  instruments:
-  - drums (drum set)
-  mbid: 8006ec85-aed2-499a-b3d8-1b02cac9782b
-  name: Mark Craney
-- begin: 1980-06
-  end: 1981-05
-  instruments:
   - violin
-  mbid: 824dcca4-d658-41b3-95c5-07d0d183b5c6
-  name: Eddie Jobson
-- begin: 1981-06
-  end: '1983'
-  instruments:
-  - drums (drum set)
-  mbid: cf0fe6db-86a8-48c9-89c1-b8dd26f712f0
-  name: Gerry Conway
-- begin: 1981-06
-  end: '1987'
-  instruments:
-  - keyboard
-  mbid: 33c63780-77b2-47dd-9098-9432b1e9ea66
-  name: Peter-John Vettese
-- begin: '1982'
-  end: '1983'
-  instruments:
-  - drums (drum set)
-  mbid: 78da9bf1-8429-4003-89a2-5c5efa63da7b
-  name: Paul Burgess
-- begin: '1984'
-  end: '1991'
-  instruments:
-  - drums (drum set)
-  mbid: de28c0d5-12c9-42c2-a392-49a556e0c888
-  name: Doane Perry
-- begin: 1988-01
-  end: '1991'
-  instruments:
-  - keyboard
-  mbid: 035b180f-0a7c-4454-b862-8d68bd2178c5
-  name: Maartin Allcock
-- begin: '1992'
-  end: '1993'
-  instruments:
-  - drums (drum set)
-  - keyboard
-  mbid: 88eedc67-59e4-4054-ba12-823542088a9e
-  name: Dave Mattacks
-- begin: '1992'
-  end: '2006'
-  instruments:
   - accordion
-  - keyboard
-  mbid: e167a5fc-778e-44ec-a4dd-d3f1b5d61558
-  name: Andrew Giddings
-- &id002
-  begin: '1994'
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: de28c0d5-12c9-42c2-a392-49a556e0c888
-  name: Doane Perry
-- begin: '1995'
-  end: '2006'
-  instruments:
-  - bass guitar
-  mbid: d1b05469-8012-4030-b47f-f5653d624ca9
-  name: Jonathan Noyce
-- &id003
-  begin: '2006'
-  end: ''
-  instruments:
-  - bass guitar
-  mbid: da425855-131b-4034-9bbc-99c92bbd8331
-  name: David Goodier
-- &id004
-  begin: '2006'
-  end: ''
-  instruments:
-  - accordion
-  - keyboard
-  - piano
-  mbid: 7d53fcb9-4189-4bb1-a8cb-9fd29d1b87c1
-  name: John O'Hara
-- &id005
-  begin: '2007'
-  end: ''
-  instruments:
-  - violin
-  mbid: 1dd8ad82-84f7-4e24-98b7-8d9db2a0f76d
-  name: Anna Phoebe
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ef43b433-5f3b-4478-adc7-fa5dad5a81e8
-  name: Scott Hammond
-- begin: ''
-  end: ''
-  instruments:
   - bass
-  mbid: e6c537dc-0776-47e9-8e52-38a30d515f04
-  name: Tony Williams
+last_updated: '2025-12-31T01:48:50.013073'
+members:
+  - begin: 1967-11
+    end: 1968-11
+    instruments:
+      - electric guitar
+      - original
+    mbid: 88503676-d31b-458f-80a7-c38d758688b2
+    name: Mick Abrahams
+  - begin: 1967-11
+    end: 1970-12
+    instruments:
+      - bass guitar
+      - original
+    mbid: d7546c3b-8e41-41bf-a046-d2c366d3568c
+    name: Glenn Cornick
+  - begin: 1967-11
+    end: 1971-05
+    instruments:
+      - drums (drum set)
+      - original
+    mbid: 727640ec-95f5-4d0e-82c0-ab334c20a3ac
+    name: Clive Bunker
+  - &ref_0
+    begin: '1967'
+    end: ''
+    instruments:
+      - acoustic guitar
+      - flute
+      - harmonica
+      - lead vocals
+      - mandolin
+      - original
+    mbid: 12fffb1f-39af-4efe-9426-92e05bb651d1
+    name: Ian Anderson
+  - begin: 1968-12
+    end: '2011'
+    instruments:
+      - acoustic guitar
+      - electric guitar
+      - recorder
+    mbid: 6c68bf5a-88cb-4b46-ac06-306b327b03e1
+    name: Martin Barre
+  - begin: '1968'
+    end: 1969-01
+    instruments:
+      - guitar
+    mbid: e5fa0175-2e93-4ca7-90c3-33f239381252
+    name: Tony Iommi
+  - begin: 1970-04
+    end: 1980-06
+    instruments:
+      - organ
+      - piano
+      - synthesizer
+    mbid: 16d9683a-6e64-4163-a56a-fa351d56b13d
+    name: John Evan
+  - begin: 1971-01
+    end: 1975-12
+    instruments:
+      - bass guitar
+      - treble recorder / alto recorder
+    mbid: bf2fdd63-37ff-4263-a32c-2833dc43a780
+    name: Jeffrey Hammond Hammond
+  - begin: 1971-05
+    end: 1980-06
+    instruments:
+      - drums (drum set)
+    mbid: ab99a5a7-26cb-42e8-abbd-9eebb6c2d40a
+    name: Barriemore Barlow
+  - begin: 1975-12
+    end: 1979-08
+    instruments:
+      - bass guitar
+    mbid: 301986e2-cfb6-436a-8178-124b13c11d8e
+    name: John Glascock
+  - begin: 1976-10
+    end: 1980-06
+    instruments:
+      - keyboard
+      - saxophone
+    mbid: e54203ac-f4ee-4970-a54f-78993f8b91a1
+    name: Dee Palmer
+  - begin: 1979-08
+    end: '1995'
+    instruments:
+      - bass guitar
+      - mandolin
+    mbid: 58a6aa14-9c27-42d1-8667-859892cb3a29
+    name: Dave Pegg
+  - begin: 1980-06
+    end: 1981-05
+    instruments:
+      - drums (drum set)
+    mbid: 8006ec85-aed2-499a-b3d8-1b02cac9782b
+    name: Mark Craney
+  - begin: 1980-06
+    end: 1981-05
+    instruments:
+      - violin
+    mbid: 824dcca4-d658-41b3-95c5-07d0d183b5c6
+    name: Eddie Jobson
+  - begin: 1981-06
+    end: '1983'
+    instruments:
+      - drums (drum set)
+    mbid: cf0fe6db-86a8-48c9-89c1-b8dd26f712f0
+    name: Gerry Conway
+  - begin: 1981-06
+    end: '1987'
+    instruments:
+      - keyboard
+    mbid: 33c63780-77b2-47dd-9098-9432b1e9ea66
+    name: Peter-John Vettese
+  - begin: '1982'
+    end: '1983'
+    instruments:
+      - drums (drum set)
+    mbid: 78da9bf1-8429-4003-89a2-5c5efa63da7b
+    name: Paul Burgess
+  - begin: '1984'
+    end: '1991'
+    instruments:
+      - drums (drum set)
+    mbid: de28c0d5-12c9-42c2-a392-49a556e0c888
+    name: Doane Perry
+  - begin: 1988-01
+    end: '1991'
+    instruments:
+      - keyboard
+    mbid: 035b180f-0a7c-4454-b862-8d68bd2178c5
+    name: Maartin Allcock
+  - begin: '1992'
+    end: '1993'
+    instruments:
+      - drums (drum set)
+      - keyboard
+    mbid: 88eedc67-59e4-4054-ba12-823542088a9e
+    name: Dave Mattacks
+  - begin: '1992'
+    end: '2006'
+    instruments:
+      - accordion
+      - keyboard
+    mbid: e167a5fc-778e-44ec-a4dd-d3f1b5d61558
+    name: Andrew Giddings
+  - &ref_1
+    begin: '1994'
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: de28c0d5-12c9-42c2-a392-49a556e0c888
+    name: Doane Perry
+  - begin: '1995'
+    end: '2006'
+    instruments:
+      - bass guitar
+    mbid: d1b05469-8012-4030-b47f-f5653d624ca9
+    name: Jonathan Noyce
+  - &ref_2
+    begin: '2006'
+    end: ''
+    instruments:
+      - bass guitar
+    mbid: da425855-131b-4034-9bbc-99c92bbd8331
+    name: David Goodier
+  - &ref_3
+    begin: '2006'
+    end: ''
+    instruments:
+      - accordion
+      - keyboard
+      - piano
+    mbid: 7d53fcb9-4189-4bb1-a8cb-9fd29d1b87c1
+    name: John O'Hara
+  - &ref_4
+    begin: '2007'
+    end: ''
+    instruments:
+      - violin
+    mbid: 1dd8ad82-84f7-4e24-98b7-8d9db2a0f76d
+    name: Anna Phoebe
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ef43b433-5f3b-4478-adc7-fa5dad5a81e8
+    name: Scott Hammond
+  - begin: ''
+    end: ''
+    instruments:
+      - bass
+    mbid: e6c537dc-0776-47e9-8e52-38a30d515f04
+    name: Tony Williams
 musical_connections:
   collaborators:
-  - Martin Barre
-  - Glenn Cornick
-  - Clive Bunker
-  - Barriemore Barlow
-  - John Glascock
-  - Eddie Jobson
+    - Martin Barre
+    - Glenn Cornick
+    - Clive Bunker
+    - Barriemore Barlow
+    - John Glascock
+    - Eddie Jobson
   influenced: []
   mentors:
-  - Georgie Fame
-  - The Animals
+    - Georgie Fame
+    - The Animals
 musicbrainz_id: ece57992-dc2e-4f67-a269-fa43626c1a3d
 network_extracted: true
-origin: Luton
+origin: 'Luton, England, United Kingdom'
 original_members:
-- *id001
-- *id002
-- *id003
-- *id004
-- *id005
+  - *ref_0
+  - *ref_1
+  - *ref_2
+  - *ref_3
+  - *ref_4
 primary_source: perplexity
 research_sources:
-- https://www.collecting-tull.com/history.html
-- https://www.last.fm/music/Jethro+Tull/+wiki
-- https://en.wikipedia.org/wiki/Jethro_Tull_(band)
-- https://americansongwriter.com/behind-the-meaning-and-history-of-the-band-name-jethro-tull/
+  - 'https://www.collecting-tull.com/history.html'
+  - 'https://www.last.fm/music/Jethro+Tull/+wiki'
+  - 'https://en.wikipedia.org/wiki/Jethro_Tull_(band)'
+  - >-
+    https://americansongwriter.com/behind-the-meaning-and-history-of-the-band-name-jethro-tull/
 spotify_data:
   followers: 1984803
   id: 6w6z8m4WXX7Tub4Rb6Lu7R
   popularity: 60
-  url: https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R
+  url: 'https://open.spotify.com/artist/6w6z8m4WXX7Tub4Rb6Lu7R'
 status: active
 tags:
-- art rock
-- blues rock
-- classic rock
+  - art rock
+  - blues rock
+  - classic rock
 title: Jethro Tull
-
+birth_place: 'Edinburgh, Scotland, United Kingdom'
 ---
 
 ![](jethro_tull.jpg)

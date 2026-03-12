@@ -5,34 +5,34 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1932-10-01'
-birth_place: Leona
+birth_place: 'Leona, Texas, United States'
 death_date: '1993-11-24'
 genres:
-- blues
-- classic blues
-- blues rock
-- modern blues
+  - blues
+  - classic blues
+  - blues rock
+  - modern blues
 instruments:
-- eponymous
-- original
-- guitar
-- electric guitar
-- lead vocals
+  - eponymous
+  - original
+  - guitar
+  - electric guitar
+  - lead vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 269f365f-2a4f-44a9-b268-706b3f836731
-  name: Albert Collins and the Icebreakers
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: b9cf829b-99e4-49b5-8828-6937a2258299
-  name: Albert Collins and His Rhythm Rockers
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 269f365f-2a4f-44a9-b268-706b3f836731
+    name: Albert Collins and the Icebreakers
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: b9cf829b-99e4-49b5-8828-6937a2258299
+    name: Albert Collins and His Rhythm Rockers
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/albert_collins.jpg
   caption: Albert Collins
@@ -41,7 +41,7 @@ infobox:
   origin: Leona
   died: '1993-11-24'
 audio_profile:
-  tempo_avg: 136.0
+  tempo_avg: 136
   energy_avg: 0.651
   valence_avg: 0.668
   danceability_avg: 0.548
@@ -55,47 +55,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Johnny Copeland
-  - Robert Cray
-  - Canned Heat
+    - Johnny Copeland
+    - Robert Cray
+    - Canned Heat
   influenced:
-  - Stevie Ray Vaughan
-  - Jimmie Vaughan
-  - Robert Cray
+    - Stevie Ray Vaughan
+    - Jimmie Vaughan
+    - Robert Cray
   mentors:
-  - Lightnin’ Hopkins
-  - Willow Young
-  - Clarence 'Gatemouth' Brown
+    - Lightnin’ Hopkins
+    - Willow Young
+    - Clarence 'Gatemouth' Brown
 spotify_data:
   followers: 213771
   id: 1uFixbBAduJkFAeRKznkvW
   popularity: 47
-  url: https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW
+  url: 'https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW'
 discography_enriched: true
 top_tracks:
-- Cold, Cold Feeling (Ice Pickin')
-- I Ain't Drunk - Remastered (Cold Snap (Remastered))
-- T-Bone Shuffle (Deluxe Edition)
-- Honey, Hush aka Talking Woman Blues (Ice Pickin')
-- Ice Pick (Ice Pickin')
-- Lights Are On But Nobody's Home - Remastered (Cold Snap (Remastered))
-- If You Love Me Like You Say (Frostbite)
-- Iceman (Iceman)
-- She's Into Something (Showdown!)
-- Too Many Dirty Dishes - Remastered (Cold Snap (Remastered))
+  - 'Cold, Cold Feeling (Ice Pickin'')'
+  - I Ain't Drunk - Remastered (Cold Snap (Remastered))
+  - T-Bone Shuffle (Deluxe Edition)
+  - 'Honey, Hush aka Talking Woman Blues (Ice Pickin'')'
+  - Ice Pick (Ice Pickin')
+  - Lights Are On But Nobody's Home - Remastered (Cold Snap (Remastered))
+  - If You Love Me Like You Say (Frostbite)
+  - Iceman (Iceman)
+  - She's Into Something (Showdown!)
+  - Too Many Dirty Dishes - Remastered (Cold Snap (Remastered))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/73b8dddb-ec29-4d11-b449-d97fde73f07b
-  spotify: https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW
-  wikipedia: https://en.wikipedia.org/wiki/Albert_Collins
+  musicbrainz: 'https://musicbrainz.org/artist/73b8dddb-ec29-4d11-b449-d97fde73f07b'
+  spotify: 'https://open.spotify.com/artist/1uFixbBAduJkFAeRKznkvW'
+  wikipedia: 'https://en.wikipedia.org/wiki/Albert_Collins'
 image_path: 03_Resources/source_material/ArtistPortraits/albert_collins.jpg
 biography_enhanced_at: '2025-10-31T08:09:32.017753'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://learnguitarcafe.com/albert-collins/
-- https://producelikeapro.com/blog/albert-collins-the-master-of-the-telecaster/
-- https://www.tshaonline.org/handbook/entries/collins-albert
-- https://mojohand.com/albert-collins-everything-you-need-to-know-about-blues-music/
+  - 'https://learnguitarcafe.com/albert-collins/'
+  - >-
+    https://producelikeapro.com/blog/albert-collins-the-master-of-the-telecaster/
+  - 'https://www.tshaonline.org/handbook/entries/collins-albert'
+  - >-
+    https://mojohand.com/albert-collins-everything-you-need-to-know-about-blues-music/
 network_extracted: true
 entry_created: '2025-10-31T08:09:32.017768'
 last_updated: '2025-12-23T08:16:04.489983'
@@ -103,9 +105,11 @@ disambiguation: US blues guitarist/vocalist/harmonica
 gender: Male
 musicbrainz_id: 73b8dddb-ec29-4d11-b449-d97fde73f07b
 tags:
-- 1960s
-- 1970s
-- 1980s
+  - 1960s
+  - 1970s
+  - 1980s
+is_active: false
+origin: 'Houston, Texas, United States'
 ---
 
 ![](albert_collins.jpg)

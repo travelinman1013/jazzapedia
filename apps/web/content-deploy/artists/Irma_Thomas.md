@@ -1,21 +1,21 @@
 ---
-title: irma thomas
+title: Irma Thomas
 wiki_slug: irma-thomas
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1941-02-18'
-birth_place: Ponchatoula, Louisiana, United States
+birth_place: 'Ponchatoula, Louisiana, United States'
 genres:
-- classic soul
+  - classic soul
 instruments:
-- lead vocals
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/irma_thomas.jpg
   caption: irma thomas
   background: solo_singer
   born: '1941-02-18'
-  origin: Ponchatoula, Louisiana, United States
+  origin: 'Ponchatoula, Louisiana, United States'
 audio_profile:
   tempo_avg: 126.9
   energy_avg: 0.51
@@ -31,43 +31,43 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Allen Toussaint
-  - Scott Billington
+    - Allen Toussaint
+    - Scott Billington
   influenced:
-  - Tracey Ullman
-  - Otis Redding
+    - Tracey Ullman
+    - Otis Redding
   mentors:
-  - Tommy Ridgley
+    - Tommy Ridgley
 spotify_data:
   followers: 123904
   id: 01Z8Z9K54zewyP04ZfGLSv
   popularity: 46
-  url: https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv
+  url: 'https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv'
 discography_enriched: true
 top_tracks:
-- Anyone Who Knows What Love Is (Will Understand) (Take A Look)
-- Time Is On My Side (Wish Someone Would Care)
-- Straight From The Heart (Wish Someone Would Care)
-- 'Ruler Of My Heart (Irma Thomas Collection: 1961-1966)'
-- Anyone Who Knows What Love Is (Will Understand)
-- I Need Your Love So Bad (Wish Someone Would Care)
-- 'It''s Raining (Irma Thomas Collection: 1961-1966)'
-- Where I Belong
-- How Glad I Am
-- Take A Look (Take A Look)
+  - Anyone Who Knows What Love Is (Will Understand) (Take A Look)
+  - Time Is On My Side (Wish Someone Would Care)
+  - Straight From The Heart (Wish Someone Would Care)
+  - 'Ruler Of My Heart (Irma Thomas Collection: 1961-1966)'
+  - Anyone Who Knows What Love Is (Will Understand)
+  - I Need Your Love So Bad (Wish Someone Would Care)
+  - 'It''s Raining (Irma Thomas Collection: 1961-1966)'
+  - Where I Belong
+  - How Glad I Am
+  - Take A Look (Take A Look)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/710c7ffa-977e-4431-9f00-c8d4eddf6808
-  spotify: https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv
-  wikipedia: https://en.wikipedia.org/wiki/Irma_Thomas
+  musicbrainz: 'https://musicbrainz.org/artist/710c7ffa-977e-4431-9f00-c8d4eddf6808'
+  spotify: 'https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv'
+  wikipedia: 'https://en.wikipedia.org/wiki/Irma_Thomas'
 image_path: 03_Resources/source_material/ArtistPortraits/irma_thomas.jpg
 biography_enhanced_at: '2025-10-19T10:33:12.577460'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Irma_Thomas
-- http://www.bluesaccess.com/No_41/irma.html
-- https://musicrising.tulane.edu/discover/people/irma-thomas/
-- https://www.telluridejazz.org/irma-thomas-soul-queen-of-new-orleans
+  - 'https://en.wikipedia.org/wiki/Irma_Thomas'
+  - 'http://www.bluesaccess.com/No_41/irma.html'
+  - 'https://musicrising.tulane.edu/discover/people/irma-thomas/'
+  - 'https://www.telluridejazz.org/irma-thomas-soul-queen-of-new-orleans'
 network_extracted: true
 entry_created: '2025-10-19T10:33:12.577473'
 last_updated: '2025-12-23T08:16:02.307683'
@@ -75,9 +75,10 @@ gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:29:55.352278'
 musicbrainz_id: 710c7ffa-977e-4431-9f00-c8d4eddf6808
 tags:
-- 2008 universal fire victim
-- classic pop and rock
-- new orleans r&b
+  - 2008 universal fire victim
+  - classic pop and rock
+  - new orleans r&b
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](irma_thomas.jpg)

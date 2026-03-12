@@ -1,16 +1,16 @@
 ---
-title: GEORGIA WHITE
+title: Georgia White
 wiki_slug: georgia-white
 schema_version: 2
 status: active
-birth_place: Sandersville, Georgia, United States
+birth_place: 'Sandersville, Georgia, United States'
 genres:
-- country hip hop
+  - country hip hop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/georgia_white.jpg
   caption: GEORGIA WHITE
   background: solo_singer
-  origin: Sandersville, Georgia, United States
+  origin: 'Sandersville, Georgia, United States'
 audio_profile:
   tempo_avg: 130.6
   energy_avg: 0.542
@@ -32,34 +32,38 @@ spotify_data:
   followers: 29747
   id: 3fv1elKehnioOSA7bK0SlB
   popularity: 55
-  url: https://open.spotify.com/artist/3fv1elKehnioOSA7bK0SlB
+  url: 'https://open.spotify.com/artist/3fv1elKehnioOSA7bK0SlB'
 discography_enriched: true
 top_tracks:
-- Almost Healed (Almost Healed)
-- Still Breathing (Still Breathing)
-- Whispers In The Dark (Whispers In The Dark)
-- Echoes In My Head (Echoes In My Head)
-- Victory In My Veins (Victory In My Veins)
-- Last Shot (Last Shot)
-- Brighter Than Yesterday (Brighter Than Yesterday)
-- Scars Don't Lie (Scars Don't Lie)
-- After The Smoke (After The Smoke)
-- Dead Man Prayin (Dead Man Prayin)
+  - Almost Healed (Almost Healed)
+  - Still Breathing (Still Breathing)
+  - Whispers In The Dark (Whispers In The Dark)
+  - Echoes In My Head (Echoes In My Head)
+  - Victory In My Veins (Victory In My Veins)
+  - Last Shot (Last Shot)
+  - Brighter Than Yesterday (Brighter Than Yesterday)
+  - Scars Don't Lie (Scars Don't Lie)
+  - After The Smoke (After The Smoke)
+  - Dead Man Prayin (Dead Man Prayin)
 external_urls:
-  spotify: https://open.spotify.com/artist/3fv1elKehnioOSA7bK0SlB
-  wikipedia: https://en.wikipedia.org/wiki/Georgia_White
+  spotify: 'https://open.spotify.com/artist/3fv1elKehnioOSA7bK0SlB'
+  wikipedia: 'https://en.wikipedia.org/wiki/Georgia_White'
 image_path: 03_Resources/source_material/ArtistPortraits/georgia_white.jpg
 biography_enhanced_at: '2025-12-18T02:35:38.719802'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Georgia_White
-- https://blinddogradio.blogspot.com/2021/05/georgia-white.html
-- https://fromthevaults-boppinbob.blogspot.com/2019/03/georgia-white-born-9-march-1903.html
-- https://adp.library.ucsb.edu/index.php/talent/refer/153500
+  - 'https://en.wikipedia.org/wiki/Georgia_White'
+  - 'https://blinddogradio.blogspot.com/2021/05/georgia-white.html'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2019/03/georgia-white-born-9-march-1903.html
+  - 'https://adp.library.ucsb.edu/index.php/talent/refer/153500'
 network_extracted: true
 entry_created: '2025-12-18T02:35:38.719807'
 last_updated: '2025-12-23T08:16:09.129445'
+origin: 'Chicago, Illinois, United States'
+birth_date: '1903-03-09'
+artist_type: person
 ---
 
 ![](georgia_white.jpg)

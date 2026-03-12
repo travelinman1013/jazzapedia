@@ -1,103 +1,107 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '1964'
-  end: '1990'
-  instruments:
-  - original
-  mbid: 87ac7e25-f278-47a0-b109-5eb131dc96b6
-  name: The Skatalites
-- begin: ''
-  end: ''
-  instruments:
-  - keyboard
-  mbid: 3b3a10a7-4044-45b9-93c1-4bc4801a0586
-  name: The Soul Brothers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e38e58a0-42e4-4ad0-9d9b-db760d10133c
-  name: Sound Dimension
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3253a1be-2e7c-41f3-b54d-83fae90057e8
-  name: King Edward Allstars
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 81cf77fd-6311-4642-aad2-422a630939fb
-  name: Brentford All Stars
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d2eba907-21a2-4240-8667-1da3a1fe63d0
-  name: The Aggrovators
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 41668394-74ce-4de6-a3d8-2bfeada439e4
-  name: Soul Vendors
+  - begin: '1964'
+    end: '1990'
+    instruments:
+      - original
+    mbid: 87ac7e25-f278-47a0-b109-5eb131dc96b6
+    name: The Skatalites
+  - begin: ''
+    end: ''
+    instruments:
+      - keyboard
+    mbid: 3b3a10a7-4044-45b9-93c1-4bc4801a0586
+    name: The Soul Brothers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e38e58a0-42e4-4ad0-9d9b-db760d10133c
+    name: Sound Dimension
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3253a1be-2e7c-41f3-b54d-83fae90057e8
+    name: King Edward Allstars
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 81cf77fd-6311-4642-aad2-422a630939fb
+    name: Brentford All Stars
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d2eba907-21a2-4240-8667-1da3a1fe63d0
+    name: The Aggrovators
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 41668394-74ce-4de6-a3d8-2bfeada439e4
+    name: Soul Vendors
 biography_enhanced_at: '2026-01-30T01:18:23.771034'
 birth_date: '1948-03-03'
-birth_place: Brown's Town
+birth_place: 'Brown''s Town, Jamaica'
 death_date: '1990-12-16'
 enhancement_provider: perplexity
 entry_created: '2026-01-30T01:18:23.771045'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a4b3fb24-a04e-4249-9fa5-5a198ca9d73c
-  spotify: https://open.spotify.com/artist/6UTUjmko5raD927Hbx960a
+  musicbrainz: 'https://musicbrainz.org/artist/a4b3fb24-a04e-4249-9fa5-5a198ca9d73c'
+  spotify: 'https://open.spotify.com/artist/6UTUjmko5raD927Hbx960a'
   wikipedia: ''
 gender: Male
 genres:
-- rocksteady
-- dub
-- roots reggae
-- reggae
-- ska
-- soul jazz
+  - rocksteady
+  - dub
+  - roots reggae
+  - reggae
+  - ska
+  - soul jazz
 image_path: 03_Resources/source_material/ArtistPortraits/jackie_mittoo.jpg
 instruments:
-- original
-- keyboard
-- piano
+  - original
+  - keyboard
+  - piano
 last_updated: '2026-01-30T01:18:23.771046'
 musical_connections:
   collaborators:
-  - The Skatalites
-  - Roland Alphonso
-  - Sound Dimension
-  - Leroy Sibbles
-  - UB40
+    - The Skatalites
+    - Roland Alphonso
+    - Sound Dimension
+    - Leroy Sibbles
+    - UB40
   influenced:
-  - Earl 'Chinna' Smith
-  - Horace Swaby (Augustus Pablo)
-  - Harold Butler
-  - Robbie Lyn
+    - Earl 'Chinna' Smith
+    - Horace Swaby (Augustus Pablo)
+    - Harold Butler
+    - Robbie Lyn
   mentors:
-  - Grandmother
-  - Coxsone Dodd
-  - Lynn Taitt
+    - Grandmother
+    - Coxsone Dodd
+    - Lynn Taitt
 musicbrainz_id: a4b3fb24-a04e-4249-9fa5-5a198ca9d73c
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://thecbma.com/artists/jackie-mittoo/
-- https://www.forcedexposure.com/Artists/MITTOO.JACKIE.html
-- https://loudhorizon.com/2021/08/15/jackie-mittoo/
-- https://www.jamaicaobserver.com/2017/08/01/jackie-mittoo-original-beatmaster/
-- https://yorkspace.library.yorku.ca/items/762061c1-df1e-4cf3-b51f-d62475b00184
+  - 'https://thecbma.com/artists/jackie-mittoo/'
+  - 'https://www.forcedexposure.com/Artists/MITTOO.JACKIE.html'
+  - 'https://loudhorizon.com/2021/08/15/jackie-mittoo/'
+  - >-
+    https://www.jamaicaobserver.com/2017/08/01/jackie-mittoo-original-beatmaster/
+  - >-
+    https://yorkspace.library.yorku.ca/items/762061c1-df1e-4cf3-b51f-d62475b00184
 spotify_data:
   followers: 51699
   id: 6UTUjmko5raD927Hbx960a
   popularity: 39
-  url: https://open.spotify.com/artist/6UTUjmko5raD927Hbx960a
+  url: 'https://open.spotify.com/artist/6UTUjmko5raD927Hbx960a'
 status: active
 tags:
-- dub
-- easy listening
-- funk
-title: jackie mittoo
+  - dub
+  - easy listening
+  - funk
+title: Jackie Mittoo
+is_active: false
+origin: 'Kingston, Jamaica'
 ---
 
 ![](jackie_mittoo.jpg)

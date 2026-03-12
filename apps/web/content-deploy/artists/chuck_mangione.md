@@ -1,82 +1,82 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  - trumpet
-  mbid: 00eccbbe-6444-43b5-b3f1-505eee6f13ec
-  name: Chuck Mangione Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 99838880-2abd-4b49-ac45-f457baa3d322
-  name: The National Gallery
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 4e316021-b6a6-4b4d-90ce-90950584f2ed
-  name: Chuck Mangione Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - trumpet
+    mbid: 00eccbbe-6444-43b5-b3f1-505eee6f13ec
+    name: Chuck Mangione Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 99838880-2abd-4b49-ac45-f457baa3d322
+    name: The National Gallery
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 4e316021-b6a6-4b4d-90ce-90950584f2ed
+    name: Chuck Mangione Quartet
 biography_enhanced_at: '2025-12-31T01:48:30.738079'
 birth_date: '1940-11-29'
-birth_place: Rochester
+birth_place: 'Rochester, New York, United States'
 death_date: '2025-07-22'
 enhancement_provider: perplexity
 entry_created: '2025-12-31T01:48:30.738083'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4861e415-2a6e-4682-98c0-ae212683faf4
-  spotify: https://open.spotify.com/artist/2MMaIlHd8UvDW0mVRAncD6
-  wikipedia: https://en.wikipedia.org/wiki/Chuck_Mangione
+  musicbrainz: 'https://musicbrainz.org/artist/4861e415-2a6e-4682-98c0-ae212683faf4'
+  spotify: 'https://open.spotify.com/artist/2MMaIlHd8UvDW0mVRAncD6'
+  wikipedia: 'https://en.wikipedia.org/wiki/Chuck_Mangione'
 gender: Male
 genres:
-- smooth jazz
-- jazz
-- jazz fusion
+  - smooth jazz
+  - jazz
+  - jazz fusion
 image_path: 03_Resources/source_material/ArtistPortraits/chuck_mangione.jpg
 instruments:
-- eponymous
-- original
-- trumpet
-- electric piano
-- piano
+  - eponymous
+  - original
+  - trumpet
+  - electric piano
+  - piano
 last_updated: '2025-12-31T01:48:30.738084'
 musical_connections:
   collaborators:
-  - Gap Mangione
-  - Gerry Niewood
-  - Rochester Philharmonic Orchestra
-  - Dizzy Gillespie
-  - Chick Corea
+    - Gap Mangione
+    - Gerry Niewood
+    - Rochester Philharmonic Orchestra
+    - Dizzy Gillespie
+    - Chick Corea
   influenced: []
   mentors:
-  - Dizzy Gillespie
-  - Art Blakey
+    - Dizzy Gillespie
+    - Art Blakey
 musicbrainz_id: 4861e415-2a6e-4682-98c0-ae212683faf4
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Chuck_Mangione
-- https://nationaljazzarchive.org.uk/explore/interviews/1644080-chuck-mangione
-- https://rochestermusic.org/inductees/class-of-2012/charles-chuck-mangione/
-- https://www.allaboutjazz.com/musicians/chuck-mangione/
-- https://chuckmangione.com
-- https://www.imdb.com/name/nm0542246/bio/
+  - 'https://en.wikipedia.org/wiki/Chuck_Mangione'
+  - 'https://nationaljazzarchive.org.uk/explore/interviews/1644080-chuck-mangione'
+  - 'https://rochestermusic.org/inductees/class-of-2012/charles-chuck-mangione/'
+  - 'https://www.allaboutjazz.com/musicians/chuck-mangione/'
+  - 'https://chuckmangione.com'
+  - 'https://www.imdb.com/name/nm0542246/bio/'
 spotify_data:
   followers: 141923
   id: 2MMaIlHd8UvDW0mVRAncD6
   popularity: 47
-  url: https://open.spotify.com/artist/2MMaIlHd8UvDW0mVRAncD6
+  url: 'https://open.spotify.com/artist/2MMaIlHd8UvDW0mVRAncD6'
 status: active
 tags:
-- 2008 universal fire victim
-- contemporary jazz
-- easy listening
+  - 2008 universal fire victim
+  - contemporary jazz
+  - easy listening
 title: Chuck Mangione
-
+is_active: false
 ---
 
 ![](chuck_mangione.jpg)

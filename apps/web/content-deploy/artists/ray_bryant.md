@@ -1,37 +1,37 @@
 ---
-title: ray bryant
+title: Ray Bryant
 wiki_slug: ray-bryant
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1931-12-24'
-birth_place: Philadelphia
+birth_place: 'Philadelphia, Pennsylvania, United States'
 death_date: '2011-06-02'
 genres:
-- jazz
-- vocal jazz
+  - jazz
+  - vocal jazz
 instruments:
-- eponymous
-- original
-- piano
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
-  mbid: 254ed291-2e63-4daa-ab69-93759bbd3f63
-  name: Ray Bryant Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 668573a7-9352-464d-aef4-7e9a318b46d3
-  name: The Blues Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e5385012-b9c5-4674-80ab-aed303389a98
-  name: Max Roach Plus Four
+  - piano
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 254ed291-2e63-4daa-ab69-93759bbd3f63
+    name: Ray Bryant Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 668573a7-9352-464d-aef4-7e9a318b46d3
+    name: The Blues Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e5385012-b9c5-4674-80ab-aed303389a98
+    name: Max Roach Plus Four
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ray_bryant.jpg
   caption: ray bryant
@@ -54,64 +54,67 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tiny Grimes
-  - Miles Davis
-  - Sonny Rollins
-  - Carmen McRae
-  - Coleman Hawkins and Roy Eldridge
-  - Art Blakey
-  - Dizzy Gillespie
-  - Jo Jones
-  - John Hammond
-  - Ray Brown and Lewis Nash
+    - Tiny Grimes
+    - Miles Davis
+    - Sonny Rollins
+    - Carmen McRae
+    - Coleman Hawkins and Roy Eldridge
+    - Art Blakey
+    - Dizzy Gillespie
+    - Jo Jones
+    - John Hammond
+    - Ray Brown and Lewis Nash
   influenced:
-  - Contemporary and later jazz pianists (general)
-  - Classically trained pianists and crossover audiences (collective)
+    - Contemporary and later jazz pianists (general)
+    - Classically trained pianists and crossover audiences (collective)
   mentors:
-  - Art Tatum
-  - Teddy Wilson
-  - Church and gospel tradition (via his mother)
+    - Art Tatum
+    - Teddy Wilson
+    - Church and gospel tradition (via his mother)
 spotify_data:
   followers: 14947
   id: 617L0tV5Y7lMvUHGHR43AR
   popularity: 37
-  url: https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR
+  url: 'https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR'
 discography_enriched: true
 top_tracks:
-- I Could Write a Book (Social Call)
-- A Hundred Dreams from Now (By Myself)
-- A Hundred Dreams from Now (A Hundred Dreams from Now)
-- Gone With the Wind (Social Call)
-- A Hundred Dreams from Now
-- A Hundred Dreams from Now (Ray Bryant Plays (Remastered Edition))
-- Willow Weep for Me (By Myself)
-- Cry Me a River (Dynamic Piano Collection)
-- Cubano Chant (Lonesome Traveler)
-- Lullaby
+  - I Could Write a Book (Social Call)
+  - A Hundred Dreams from Now (By Myself)
+  - A Hundred Dreams from Now (A Hundred Dreams from Now)
+  - Gone With the Wind (Social Call)
+  - A Hundred Dreams from Now
+  - A Hundred Dreams from Now (Ray Bryant Plays (Remastered Edition))
+  - Willow Weep for Me (By Myself)
+  - Cry Me a River (Dynamic Piano Collection)
+  - Cubano Chant (Lonesome Traveler)
+  - Lullaby
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7feee525-a8ff-4a59-85f6-2b5190ea3e38
-  spotify: https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR
-  wikipedia: https://en.wikipedia.org/wiki/Ray_Bryant
+  musicbrainz: 'https://musicbrainz.org/artist/7feee525-a8ff-4a59-85f6-2b5190ea3e38'
+  spotify: 'https://open.spotify.com/artist/617L0tV5Y7lMvUHGHR43AR'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ray_Bryant'
 image_path: 03_Resources/source_material/ArtistPortraits/ray_bryant.jpg
 biography_enhanced_at: '2025-12-11T03:57:48.614721'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Ray_Bryant
-- https://www.bluenote.com/artist/ray-bryant/
-- https://jazztimes.com/features/tributes-and-obituaries/jazz-pianist-ray-bryant-dies/
-- https://www.allaboutjazz.com/musicians/ray-bryant/
-- https://jazzprofiles.blogspot.com/2020/02/ray-bryant.html
+  - 'https://en.wikipedia.org/wiki/Ray_Bryant'
+  - 'https://www.bluenote.com/artist/ray-bryant/'
+  - >-
+    https://jazztimes.com/features/tributes-and-obituaries/jazz-pianist-ray-bryant-dies/
+  - 'https://www.allaboutjazz.com/musicians/ray-bryant/'
+  - 'https://jazzprofiles.blogspot.com/2020/02/ray-bryant.html'
 network_extracted: true
 entry_created: '2025-12-11T03:57:48.614734'
 last_updated: '2025-12-23T08:16:14.680078'
-disambiguation: US jazz pianist, composer, and arranger
+disambiguation: 'US jazz pianist, composer, and arranger'
 gender: Male
 musicbrainz_id: 7feee525-a8ff-4a59-85f6-2b5190ea3e38
 tags:
-- bebop
-- hard bop
-- jazz
+  - bebop
+  - hard bop
+  - jazz
+is_active: false
+origin: 'Philadelphia, Pennsylvania, United States'
 ---
 
 ![](ray_bryant.jpg)

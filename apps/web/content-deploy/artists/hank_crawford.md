@@ -1,37 +1,37 @@
 ---
-title: hank crawford
+title: Hank Crawford
 wiki_slug: hank-crawford
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1934-12-21'
-birth_place: Memphis
+birth_place: 'Memphis, Tennessee, United States'
 death_date: '2009-01-29'
 genres:
-- soul jazz
-- hard bop
-- jazz blues
-- jazz funk
+  - soul jazz
+  - hard bop
+  - jazz blues
+  - jazz funk
 instruments:
-- piano
-- electric piano
-- guitar
+  - piano
+  - electric piano
+  - guitar
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 272c80be-dea0-4f35-8532-940ff43f346b
-  name: CTI All-Stars
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 14e480b9-9e7b-4630-a7da-106dfbad8891
-  name: Little Hank & The Rhythm Kings
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b21c7e9d-3d67-4687-a123-82a68e35cf3d
-  name: Richie Cole Hank Crawford Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 272c80be-dea0-4f35-8532-940ff43f346b
+    name: CTI All-Stars
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 14e480b9-9e7b-4630-a7da-106dfbad8891
+    name: Little Hank & The Rhythm Kings
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b21c7e9d-3d67-4687-a123-82a68e35cf3d
+    name: Richie Cole Hank Crawford Quintet
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/hank_crawford.jpg
   caption: hank crawford
@@ -46,7 +46,7 @@ audio_profile:
   danceability_avg: 0.56
   acousticness_avg: 0.517
   instrumentalness_avg: 0.464
-  loudness_avg: -12.0
+  loudness_avg: -12
   speechiness_avg: 0.044
   liveness_avg: 0.131
   track_count: 50
@@ -54,61 +54,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jimmy McGriff
-  - Dr. John
-  - B.B. King
-  - Etta James
-  - Eric Clapton
-  - '"Fathead" Newman'
+    - Jimmy McGriff
+    - Dr. John
+    - B.B. King
+    - Etta James
+    - Eric Clapton
+    - '"Fathead" Newman'
   influenced: []
   mentors:
-  - Ray Charles
-  - Charlie Parker
-  - Earl Bostic
-  - Johnny Hodges
-  - Louis Jordan
+    - Ray Charles
+    - Charlie Parker
+    - Earl Bostic
+    - Johnny Hodges
+    - Louis Jordan
 spotify_data:
   followers: 22037
   id: 543js1lXeFxJKXqxC6XgT7
   popularity: 32
-  url: https://open.spotify.com/artist/543js1lXeFxJKXqxC6XgT7
+  url: 'https://open.spotify.com/artist/543js1lXeFxJKXqxC6XgT7'
 discography_enriched: true
 top_tracks:
-- Wildflower (Wildflower)
-- Wildflower (Wildflower)
-- We've Got a Good Thing Going (We Got a Good Thing Going)
-- Bluebird (Groove Master)
-- The Christmas Song (We Got a Good Thing Going)
-- It's a Funky Thing to Do (It's a Funky Thing to Do)
-- Mr. Blues (Wildflower)
-- Corazón (Wildflower)
-- I've Just Seen a Face (Tico Rico)
-- Good Morning Heartache (Wildflower)
+  - Wildflower (Wildflower)
+  - Wildflower (Wildflower)
+  - We've Got a Good Thing Going (We Got a Good Thing Going)
+  - Bluebird (Groove Master)
+  - The Christmas Song (We Got a Good Thing Going)
+  - It's a Funky Thing to Do (It's a Funky Thing to Do)
+  - Mr. Blues (Wildflower)
+  - Corazón (Wildflower)
+  - I've Just Seen a Face (Tico Rico)
+  - Good Morning Heartache (Wildflower)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7892bb19-96be-4e3a-b537-208700210a3f
-  spotify: https://open.spotify.com/artist/543js1lXeFxJKXqxC6XgT7
-  wikipedia: https://en.wikipedia.org/wiki/Hank_Crawford
+  musicbrainz: 'https://musicbrainz.org/artist/7892bb19-96be-4e3a-b537-208700210a3f'
+  spotify: 'https://open.spotify.com/artist/543js1lXeFxJKXqxC6XgT7'
+  wikipedia: 'https://en.wikipedia.org/wiki/Hank_Crawford'
 image_path: 03_Resources/source_material/ArtistPortraits/hank_crawford.jpg
 biography_enhanced_at: '2025-11-20T06:43:36.428679'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://jazzatelier.com/2010/03/12/hank-crawford-biography/
-- https://www.latimes.com/local/obituaries/la-me-hank-crawford5-2009feb05-story.html
-- https://www.allaboutjazz.com/musicians/hank-crawford/
-- https://concord.com/artist/hank-crawford/
-- https://en.wikipedia.org/wiki/Hank_Crawford
-- https://www.tracklib.com/music/artists/hank-crawford
-- https://freshairarchive.org/segments/saxophonist-hank-crawford
+  - 'https://jazzatelier.com/2010/03/12/hank-crawford-biography/'
+  - >-
+    https://www.latimes.com/local/obituaries/la-me-hank-crawford5-2009feb05-story.html
+  - 'https://www.allaboutjazz.com/musicians/hank-crawford/'
+  - 'https://concord.com/artist/hank-crawford/'
+  - 'https://en.wikipedia.org/wiki/Hank_Crawford'
+  - 'https://www.tracklib.com/music/artists/hank-crawford'
+  - 'https://freshairarchive.org/segments/saxophonist-hank-crawford'
 network_extracted: true
 entry_created: '2025-11-20T06:43:36.428684'
 last_updated: '2025-12-23T08:16:09.461855'
 gender: Male
 musicbrainz_id: 7892bb19-96be-4e3a-b537-208700210a3f
 tags:
-- hard bop
-- jazz
-- soul jazz
+  - hard bop
+  - jazz
+  - soul jazz
+is_active: false
 ---
 
 ![](hank_crawford.jpg)

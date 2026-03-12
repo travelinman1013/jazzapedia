@@ -2,14 +2,14 @@
 title: The Wood Brothers
 wiki_slug: the-wood-brothers
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 birth_date: '2004'
 genres:
-- bluegrass
-- newgrass
-- americana
-- folk
+  - bluegrass
+  - newgrass
+  - americana
+  - folk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/The_Wood_Brothers.jpg
   caption: The Wood Brothers
@@ -30,58 +30,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jano Rix
-  - John Medeski
-  - Medeski Martin & Wood
-  - Tinsley Ellis
-  - Zac Brown
-  - King Johnson
+    - Jano Rix
+    - John Medeski
+    - Medeski Martin & Wood
+    - Tinsley Ellis
+    - Zac Brown
+    - King Johnson
   influenced: []
   mentors:
-  - Jimmy Reed
-  - Lightnin' Hopkins
-  - Joan Baez
+    - Jimmy Reed
+    - Lightnin' Hopkins
+    - Joan Baez
 spotify_data:
   followers: 240619
   id: 6FxuPrpa8phaP3Xn73emhT
   popularity: 47
-  url: https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT
+  url: 'https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT'
 discography_enriched: true
 top_tracks:
-- Luckiest Man (Ways Not To Lose)
-- The Muse (The Muse)
-- Postcards From Hell (Loaded)
-- I Got Loaded (The Muse)
-- Sing About It (The Muse)
-- Pray God Listens
-- Keep Me Around (The Muse)
-- Lovin' Arms (Loaded)
-- Heart is the Hero (Heart is the Hero)
-- One More Day (Ways Not To Lose)
+  - Luckiest Man (Ways Not To Lose)
+  - The Muse (The Muse)
+  - Postcards From Hell (Loaded)
+  - I Got Loaded (The Muse)
+  - Sing About It (The Muse)
+  - Pray God Listens
+  - Keep Me Around (The Muse)
+  - Lovin' Arms (Loaded)
+  - Heart is the Hero (Heart is the Hero)
+  - One More Day (Ways Not To Lose)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2cdd6de7-ccb9-450e-a20d-382407689d6a
-  spotify: https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT
+  musicbrainz: 'https://musicbrainz.org/artist/2cdd6de7-ccb9-450e-a20d-382407689d6a'
+  spotify: 'https://open.spotify.com/artist/6FxuPrpa8phaP3Xn73emhT'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/The_Wood_Brothers.jpg
 biography_enhanced_at: '2025-10-20T09:55:17.319545'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://relix.com/articles/detail/the-wood-brothers/
-- https://thebluegrasssituation.com/read/the-wood-brothers-appreciate-their-slow-rise-to-the-middle/
-- https://www.ajc.com/things-to-do/how-music-brought-the-wood-brothers-back-together/
-- https://www.thebasementnashville.com/tm-attraction/the-wood-brothers/
+  - 'https://relix.com/articles/detail/the-wood-brothers/'
+  - >-
+    https://thebluegrasssituation.com/read/the-wood-brothers-appreciate-their-slow-rise-to-the-middle/
+  - >-
+    https://www.ajc.com/things-to-do/how-music-brought-the-wood-brothers-back-together/
+  - 'https://www.thebasementnashville.com/tm-attraction/the-wood-brothers/'
 network_extracted: true
 entry_created: '2025-10-20T09:55:17.319558'
 last_updated: '2025-12-23T08:16:04.141568'
-disambiguation: US folk, Oliver and Chris
+disambiguation: 'US folk, Oliver and Chris'
 musicbrainz_enriched_at: '2025-10-21T09:46:36.651784'
 musicbrainz_id: 2cdd6de7-ccb9-450e-a20d-382407689d6a
-origin: Boulder, Colorado, United States
+origin: 'Boulder, Colorado, United States'
 tags:
-- folk
-- jam band
-- modern blues
+  - folk
+  - jam band
+  - modern blues
+birth_place: 'Boulder, Colorado, United States'
 ---
 
 ![](The_Wood_Brothers.jpg)

@@ -23,45 +23,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lucio K
-  - Marcello MBGroove
+    - Lucio K
+    - Marcello MBGroove
   influenced: []
   mentors:
-  - Various Brazilian artists
+    - Various Brazilian artists
 spotify_data:
   followers: 327
   id: 6kyXDMPfpId9rm4K7n6L2f
   popularity: 8
-  url: https://open.spotify.com/artist/6kyXDMPfpId9rm4K7n6L2f
+  url: 'https://open.spotify.com/artist/6kyXDMPfpId9rm4K7n6L2f'
 discography_enriched: true
 top_tracks:
-- Boa Hora - Lucio K Remix (Boa Hora (Lucio K Remix))
-- Ai Menina (Lucio K Remix) (Eletrocarimbó)
-- Duas Cidades - Lucio K Remix (Outras Cidades (Remix))
-- Que Estrago - Lucio K Remix (Letrux em Noite de Pistinha)
-- Bolero de Ravel - Remix
-- Meu Bem Bem (Versos Do Mundo)
-- Incendeia (Lucio K Remix) (Eletrocarimbó)
-- O Que é Que Ela Tem ? (Lucio K Remix) (Eletrocarimbó)
-- Duas Cidades - Lucio K Remix (Outras Cidades (Remix))
-- Afroketuh (Samba-Reggae do Futuro (Bahia Bass 10 Anos))
+  - Boa Hora - Lucio K Remix (Boa Hora (Lucio K Remix))
+  - Ai Menina (Lucio K Remix) (Eletrocarimbó)
+  - Duas Cidades - Lucio K Remix (Outras Cidades (Remix))
+  - Que Estrago - Lucio K Remix (Letrux em Noite de Pistinha)
+  - Bolero de Ravel - Remix
+  - Meu Bem Bem (Versos Do Mundo)
+  - Incendeia (Lucio K Remix) (Eletrocarimbó)
+  - O Que é Que Ela Tem ? (Lucio K Remix) (Eletrocarimbó)
+  - Duas Cidades - Lucio K Remix (Outras Cidades (Remix))
+  - Afroketuh (Samba-Reggae do Futuro (Bahia Bass 10 Anos))
 external_urls:
-  spotify: https://open.spotify.com/artist/6kyXDMPfpId9rm4K7n6L2f
+  spotify: 'https://open.spotify.com/artist/6kyXDMPfpId9rm4K7n6L2f'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/aricia_mess_and_lucio_k.jpg
 biography_enhanced_at: '2025-11-10T03:40:30.257964'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://kexp.fmspins.com/aricia-mess/history
-- https://www.youtube.com/watch?v=Qx1J6ihzNY4
-- https://clocktower.org/person/b%C3%A9co-dranoff
-- http://www.wwoz.org/programs/playlists
-- https://www.ebay.com/itm/144485003131
+  - 'https://kexp.fmspins.com/aricia-mess/history'
+  - 'https://www.youtube.com/watch?v=Qx1J6ihzNY4'
+  - 'https://clocktower.org/person/b%C3%A9co-dranoff'
+  - 'http://www.wwoz.org/programs/playlists'
+  - 'https://www.ebay.com/itm/144485003131'
 network_extracted: true
 entry_created: '2025-11-10T03:40:30.257979'
 last_updated: '2025-12-23T08:16:04.915803'
-origin: São Paulo, São Paulo, Brazil
+origin: 'São Paulo, São Paulo, Brazil'
+artist_type: person
 ---
 
 ![](aricia_mess_and_lucio_k.jpg)

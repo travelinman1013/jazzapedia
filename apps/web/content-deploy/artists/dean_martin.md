@@ -5,31 +5,31 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1917-06-07'
-birth_place: Steubenville
+birth_place: 'Steubenville, Ohio, United States'
 death_date: '1995-12-25'
 genres:
-- christmas
-- adult standards
-- big band
-- swing music
+  - christmas
+  - adult standards
+  - big band
+  - swing music
 instruments:
-- eponymous
-- original
-- lead vocals
-- spoken vocals
-associated_acts:
-- begin: '1946'
-  end: '1956'
-  instruments:
   - eponymous
   - original
-  mbid: 633b4b63-afb5-4325-b7b8-3960a1a93327
-  name: Martin and Lewis
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 35e227e5-f724-4699-91b2-d5184cdc7411
-  name: The Rat Pack
+  - lead vocals
+  - spoken vocals
+associated_acts:
+  - begin: '1946'
+    end: '1956'
+    instruments:
+      - eponymous
+      - original
+    mbid: 633b4b63-afb5-4325-b7b8-3960a1a93327
+    name: Martin and Lewis
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 35e227e5-f724-4699-91b2-d5184cdc7411
+    name: The Rat Pack
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/dean_martin.jpg
   caption: Dean Martin
@@ -52,46 +52,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jerry Lewis
-  - Frank Sinatra
-  - Sammy Davis Jr.
+    - Jerry Lewis
+    - Frank Sinatra
+    - Sammy Davis Jr.
   influenced:
-  - Michael Bublé
-  - Robbie Williams
+    - Michael Bublé
+    - Robbie Williams
   mentors:
-  - Sammy Watkins
-  - Harry Mills
+    - Sammy Watkins
+    - Harry Mills
 spotify_data:
   followers: 1956905
   id: 49e4v89VmlDcFCMyDv9wQ9
   popularity: 70
-  url: https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9
+  url: 'https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9'
 discography_enriched: true
 top_tracks:
-- Everybody Loves Somebody (Everybody Loves Somebody)
-- Volare (Nel Blu Di Pinto Di Blu) - Remastered 1998 (This Is Dean Martin)
-- Let It Snow! Let It Snow! Let It Snow! (A Winter Romance)
-- You're Nobody 'Til Somebody Loves You - Remastered/1997 (This Time I'm Swingin')
-- 'That''s Amore (Dean Martin: The Capitol Recordings, Vol. 4 (1952-1954))'
-- 'Ain''t That A Kick In The Head (Dean Martin: The Capitol Recordings, Vol. 11 (1960-1961))'
-- Sway (Quien Sera) (Hey, Brother Pour The Wine)
-- That's Amore (Dean Martin Sings)
-- 'Sway (Quien Sera) (Dean Martin: The Capitol Recordings, Vol. 5 (1954))'
-- On The Street Where You Live - Remastered 1998 (This Time I'm Swingin')
+  - Everybody Loves Somebody (Everybody Loves Somebody)
+  - Volare (Nel Blu Di Pinto Di Blu) - Remastered 1998 (This Is Dean Martin)
+  - Let It Snow! Let It Snow! Let It Snow! (A Winter Romance)
+  - >-
+    You're Nobody 'Til Somebody Loves You - Remastered/1997 (This Time I'm
+    Swingin')
+  - 'That''s Amore (Dean Martin: The Capitol Recordings, Vol. 4 (1952-1954))'
+  - >-
+    Ain't That A Kick In The Head (Dean Martin: The Capitol Recordings, Vol. 11
+    (1960-1961))
+  - 'Sway (Quien Sera) (Hey, Brother Pour The Wine)'
+  - That's Amore (Dean Martin Sings)
+  - 'Sway (Quien Sera) (Dean Martin: The Capitol Recordings, Vol. 5 (1954))'
+  - On The Street Where You Live - Remastered 1998 (This Time I'm Swingin')
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5e6c760b-42e0-4df4-a221-0269355da00a
-  spotify: https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9
-  wikipedia: https://en.wikipedia.org/wiki/Dean_Martin
+  musicbrainz: 'https://musicbrainz.org/artist/5e6c760b-42e0-4df4-a221-0269355da00a'
+  spotify: 'https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dean_Martin'
 image_path: 03_Resources/source_material/ArtistPortraits/dean_martin.jpg
 biography_enhanced_at: '2025-11-11T09:16:45.656839'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.biography.com/musicians/dean-martin
-- https://en.wikipedia.org/wiki/Dean_Martin
-- https://www.imdb.com/name/nm0001509/bio/
-- https://biographics.org/dean-martin-the-king-of-cool/
-- https://www.britannica.com/biography/Dean-Martin
+  - 'https://www.biography.com/musicians/dean-martin'
+  - 'https://en.wikipedia.org/wiki/Dean_Martin'
+  - 'https://www.imdb.com/name/nm0001509/bio/'
+  - 'https://biographics.org/dean-martin-the-king-of-cool/'
+  - 'https://www.britannica.com/biography/Dean-Martin'
 network_extracted: true
 entry_created: '2025-11-11T09:16:45.656849'
 last_updated: '2025-12-23T08:16:07.644298'
@@ -99,9 +103,10 @@ disambiguation: American singer/actor
 gender: Male
 musicbrainz_id: 5e6c760b-42e0-4df4-a221-0269355da00a
 tags:
-- big band
-- christmas music
-- country pop
+  - big band
+  - christmas music
+  - country pop
+is_active: false
 ---
 
 ![](dean_martin.jpg)

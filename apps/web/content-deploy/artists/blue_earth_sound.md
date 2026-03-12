@@ -23,53 +23,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Patch Romanowski
-  - Michael Wells
-  - Will Miller
-  - Eamonn Prizy
-  - Martín Diaz
+    - Patch Romanowski
+    - Michael Wells
+    - Will Miller
+    - Eamonn Prizy
+    - Martín Diaz
   influenced: []
   mentors:
-  - Stefano Torossi
-  - Talk Talk
+    - Stefano Torossi
+    - Talk Talk
 spotify_data:
   followers: 1469
   id: 4PnTOlwNb4uJPI4aWVXQrE
   popularity: 32
-  url: https://open.spotify.com/artist/4PnTOlwNb4uJPI4aWVXQrE
+  url: 'https://open.spotify.com/artist/4PnTOlwNb4uJPI4aWVXQrE'
 discography_enriched: true
 top_tracks:
-- Lover's Rock (Lover's Rock)
-- Mariposa (Mariposa)
-- Mariposa (Lover's Rock)
-- Half & Half (Half & Half)
-- Lover's Rock (Half & Half)
-- Mariposa (Half & Half)
-- On the Court (On the Court)
-- Half & Half (On the Court)
-- Lover's Rock (On the Court)
-- Mariposa (On the Court)
+  - Lover's Rock (Lover's Rock)
+  - Mariposa (Mariposa)
+  - Mariposa (Lover's Rock)
+  - Half & Half (Half & Half)
+  - Lover's Rock (Half & Half)
+  - Mariposa (Half & Half)
+  - On the Court (On the Court)
+  - Half & Half (On the Court)
+  - Lover's Rock (On the Court)
+  - Mariposa (On the Court)
 external_urls:
-  spotify: https://open.spotify.com/artist/4PnTOlwNb4uJPI4aWVXQrE
+  spotify: 'https://open.spotify.com/artist/4PnTOlwNb4uJPI4aWVXQrE'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/blue_earth_sound.jpg
 biography_enhanced_at: '2025-11-12T14:50:28.229618'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://castthedice.org/?p=22725
-- https://www.blueearthsound.com/about
-- https://www.allmusic.com/artist/blue-earth-sound-mn0004839138
-- https://nostalgiaking.com/2025/09/18/blue-earth-sound-cicero-nights/
-- https://www.deepmatter.co.uk/blue-earth-sound
-- https://whistlerchicago.com/events/blue-earth-sound
-- https://15questions.net/interview/blue-earth-sound-shares-his-creative-process/
-- https://www.blueearthsound.com
-- https://bandsintown.com/e/107379054-blue-earth-sound-at-sleeping-village
+  - 'https://castthedice.org/?p=22725'
+  - 'https://www.blueearthsound.com/about'
+  - 'https://www.allmusic.com/artist/blue-earth-sound-mn0004839138'
+  - 'https://nostalgiaking.com/2025/09/18/blue-earth-sound-cicero-nights/'
+  - 'https://www.deepmatter.co.uk/blue-earth-sound'
+  - 'https://whistlerchicago.com/events/blue-earth-sound'
+  - >-
+    https://15questions.net/interview/blue-earth-sound-shares-his-creative-process/
+  - 'https://www.blueearthsound.com'
+  - 'https://bandsintown.com/e/107379054-blue-earth-sound-at-sleeping-village'
 network_extracted: true
 entry_created: '2025-11-12T14:50:28.229632'
 last_updated: '2025-12-23T08:16:05.759436'
-origin: Chicago, Illinois, United States (band origin); Blue Earth County, Minnesota (James Weir's hometown)
+origin: >-
+  Chicago, Illinois, United States (band origin); Blue Earth County, Minnesota
+  (James Weir's hometown)
+artist_type: person
 ---
 
 ![](blue_earth_sound.jpg)

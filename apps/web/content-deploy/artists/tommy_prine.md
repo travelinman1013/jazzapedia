@@ -3,16 +3,16 @@ title: Tommy Prine
 wiki_slug: tommy-prine
 schema_version: 2
 status: active
-birth_place: Nashville, Tennessee, United States
+birth_place: 'Nashville, Tennessee, United States'
 genres:
-- americana
+  - americana
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/tommy_prine.jpg
   caption: Tommy Prine
   background: solo_singer
-  origin: Nashville, Tennessee, United States
+  origin: 'Nashville, Tennessee, United States'
 audio_profile:
-  tempo_avg: 131.0
+  tempo_avg: 131
   energy_avg: 0.429
   valence_avg: 0.264
   danceability_avg: 0.493
@@ -26,50 +26,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Fred Eltringham
-  - Eli Beaird
-  - Sadler Vaden
-  - Tyler Childers
-  - Todd Snider
+    - Fred Eltringham
+    - Eli Beaird
+    - Sadler Vaden
+    - Tyler Childers
+    - Todd Snider
   influenced: []
   mentors:
-  - John Prine
-  - Ruston Kelly
-  - Gena Johnson
+    - John Prine
+    - Ruston Kelly
+    - Gena Johnson
 spotify_data:
   followers: 9544
   id: 73RtFjZdrVkWXAX3SohBtU
   popularity: 36
-  url: https://open.spotify.com/artist/73RtFjZdrVkWXAX3SohBtU
+  url: 'https://open.spotify.com/artist/73RtFjZdrVkWXAX3SohBtU'
 discography_enriched: true
 top_tracks:
-- Ships in the Harbor (Ships in the Harbor)
-- Let It Shine (Let It Shine)
-- Mirror and a Kitchen Sink (This Far South)
-- This Far South (This Far South)
-- Turning Stones (Turning Stones)
-- I Love You, Always (This Far South)
-- By the Way (This Far South)
-- Some Things (This Far South)
-- You Don't Care For Me Enough To Cry (You Don't Care For Me Enough To Cry)
-- Reach the Sun (This Far South)
+  - Ships in the Harbor (Ships in the Harbor)
+  - Let It Shine (Let It Shine)
+  - Mirror and a Kitchen Sink (This Far South)
+  - This Far South (This Far South)
+  - Turning Stones (Turning Stones)
+  - 'I Love You, Always (This Far South)'
+  - By the Way (This Far South)
+  - Some Things (This Far South)
+  - You Don't Care For Me Enough To Cry (You Don't Care For Me Enough To Cry)
+  - Reach the Sun (This Far South)
 external_urls:
-  spotify: https://open.spotify.com/artist/73RtFjZdrVkWXAX3SohBtU
+  spotify: 'https://open.spotify.com/artist/73RtFjZdrVkWXAX3SohBtU'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/tommy_prine.jpg
 biography_enhanced_at: '2025-11-21T07:25:09.896126'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Club Passim (passim.org)
-- InsideHook
-- University of Illinois WILL
-- Garden & Gun Magazine
-- Tommy Prine Official Website (tommyprine.com)
-- Purple Fiddle
+  - Club Passim (passim.org)
+  - InsideHook
+  - University of Illinois WILL
+  - Garden & Gun Magazine
+  - Tommy Prine Official Website (tommyprine.com)
+  - Purple Fiddle
 network_extracted: true
 entry_created: '2025-11-21T07:25:09.896133'
 last_updated: '2025-12-23T08:16:17.575002'
+artist_type: person
 ---
 
 ![](tommy_prine.jpg)

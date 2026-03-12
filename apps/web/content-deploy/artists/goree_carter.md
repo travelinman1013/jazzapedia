@@ -1,33 +1,33 @@
 ---
-title: goree carter
+title: Goree Carter
 wiki_slug: goree-carter
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1930-12-31'
-birth_place: Houston, Texas, United States
+birth_place: 'Houston, Texas, United States'
 death_date: '1990-12-29'
 genres:
-- rock and roll
-- classic blues
+  - rock and roll
+  - classic blues
 instruments:
-- eponymous
-- original
-- guitar
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
-  mbid: 5f0dff20-b687-436a-bedc-f98aa4d761a5
-  name: Goree Carter & His Hep Cats
+  - guitar
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 5f0dff20-b687-436a-bedc-f98aa4d761a5
+    name: Goree Carter & His Hep Cats
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/goree_carter.jpg
   caption: goree carter
   background: non_vocal_instrumentalist
   born: '1930-12-31'
-  origin: Houston, Texas, United States
+  origin: 'Houston, Texas, United States'
   died: '1990-12-29'
 audio_profile:
   tempo_avg: 120.6
@@ -44,49 +44,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Hepcats
-  - B.B. King
+    - The Hepcats
+    - B.B. King
   influenced:
-  - Chuck Berry
+    - Chuck Berry
   mentors:
-  - T-Bone Walker
+    - T-Bone Walker
 spotify_data:
   followers: 1025
   id: 37pKwOXXC8AxbS1wIBhtbP
   popularity: 6
-  url: https://open.spotify.com/artist/37pKwOXXC8AxbS1wIBhtbP
+  url: 'https://open.spotify.com/artist/37pKwOXXC8AxbS1wIBhtbP'
 discography_enriched: true
 top_tracks:
-- Rock a While (Rock a While)
-- Rock Awhile - Remastered (The Genius Little T-Bone (Remastered))
-- Rock Awhile (Boogie Uproar Texas Blues & R&B 1947-1954)
-- Bad Feeling (Gaz's Rockin' Blues)
-- Let's Rock (Rock and Roll For Kids)
-- Come on Let's Boogie - Remastered (The Genius Little T-Bone (Remastered))
-- She's Just Old Fashioned (Rock a While)
-- Let's Rock
-- She's Just Old Fashioned - Remastered (The Genius Little T-Bone (Remastered))
-- Back Home Blues - Remastered (The Genius Little T-Bone (Remastered))
+  - Rock a While (Rock a While)
+  - Rock Awhile - Remastered (The Genius Little T-Bone (Remastered))
+  - Rock Awhile (Boogie Uproar Texas Blues & R&B 1947-1954)
+  - Bad Feeling (Gaz's Rockin' Blues)
+  - Let's Rock (Rock and Roll For Kids)
+  - Come on Let's Boogie - Remastered (The Genius Little T-Bone (Remastered))
+  - She's Just Old Fashioned (Rock a While)
+  - Let's Rock
+  - >-
+    She's Just Old Fashioned - Remastered (The Genius Little T-Bone
+    (Remastered))
+  - Back Home Blues - Remastered (The Genius Little T-Bone (Remastered))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4b3f3cdb-3055-4060-99ab-ebd66c375b68
-  spotify: https://open.spotify.com/artist/37pKwOXXC8AxbS1wIBhtbP
-  wikipedia: https://en.wikipedia.org/wiki/Goree_Carter
+  musicbrainz: 'https://musicbrainz.org/artist/4b3f3cdb-3055-4060-99ab-ebd66c375b68'
+  spotify: 'https://open.spotify.com/artist/37pKwOXXC8AxbS1wIBhtbP'
+  wikipedia: 'https://en.wikipedia.org/wiki/Goree_Carter'
 image_path: 03_Resources/source_material/ArtistPortraits/goree_carter.jpg
 biography_enhanced_at: '2025-11-20T06:40:53.472788'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://blueslegacystories.com/goree-carter-forgotten-guitar-legend/
-- https://fromthevaults-boppinbob.blogspot.com/2020/12/
-- https://www.bear-family.com/carter-goree/
-- https://www.last.fm/music/Goree+Carter/+wiki
-- https://kids.kiddle.co/Goree_Carter
+  - 'https://blueslegacystories.com/goree-carter-forgotten-guitar-legend/'
+  - 'https://fromthevaults-boppinbob.blogspot.com/2020/12/'
+  - 'https://www.bear-family.com/carter-goree/'
+  - 'https://www.last.fm/music/Goree+Carter/+wiki'
+  - 'https://kids.kiddle.co/Goree_Carter'
 network_extracted: true
 entry_created: '2025-11-20T06:40:53.472797'
 last_updated: '2025-12-23T08:16:09.269261'
 gender: Male
 musicbrainz_id: 4b3f3cdb-3055-4060-99ab-ebd66c375b68
-
+is_active: false
+origin: 'Houston, Texas, United States'
 ---
 
 ![](goree_carter.jpg)

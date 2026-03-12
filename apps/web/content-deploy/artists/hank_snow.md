@@ -5,27 +5,27 @@ schema_version: 2
 status: deceased
 birth_name: Clarence Eugene Snow
 also_known_as:
-- Hank Snow
+  - Hank Snow
 aliases:
-- Hank Snow
+  - Hank Snow
 birth_date: '1914-05-09'
-birth_place: Liverpool
+birth_place: 'Liverpool, Nova Scotia, Canada'
 death_date: '1999-12-20'
 years_active: 1934-1999
 genres:
-- traditional country
-- honky tonk
+  - traditional country
+  - honky tonk
 instruments:
-- guitar
-- voice
+  - guitar
+  - voice
 occupation:
-- guitarist
-- composer
-- singer
-- songwriter
-- yodeler
+  - guitarist
+  - composer
+  - singer
+  - songwriter
+  - yodeler
 record_labels:
-- RCA Records
+  - RCA Records
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Hank_Snow.jpg
   caption: Hank Snow
@@ -52,32 +52,34 @@ spotify_data:
   followers: 100234
   id: 3fq6r0bSIm4McymHKNMk4S
   popularity: 37
-  url: https://open.spotify.com/artist/3fq6r0bSIm4McymHKNMk4S
+  url: 'https://open.spotify.com/artist/3fq6r0bSIm4McymHKNMk4S'
   verified: false
 discography_enriched: true
 albums_count: 34
 singles_count: 0
 top_tracks:
-- I've Been Everywhere - Remastered (The Essential Hank Snow)
-- I've Been Everywhere (I've Been Everywhere)
-- I'm Movin' On
-- The Golden Rocket
-- (Now and Then, There's) A Fool Such As I - Single Version
-- I've Been Everywhere
-- Ninety Miles An Hour (Down A Dead End Street)
-- 'I''ve Been Everywhere - Remastered (RCA Country Legends: Hank Snow)'
-- Hello Love (Hello Love)
-- Ghost Trains (Railroad Man)
+  - I've Been Everywhere - Remastered (The Essential Hank Snow)
+  - I've Been Everywhere (I've Been Everywhere)
+  - I'm Movin' On
+  - The Golden Rocket
+  - '(Now and Then, There''s) A Fool Such As I - Single Version'
+  - I've Been Everywhere
+  - Ninety Miles An Hour (Down A Dead End Street)
+  - 'I''ve Been Everywhere - Remastered (RCA Country Legends: Hank Snow)'
+  - Hello Love (Hello Love)
+  - Ghost Trains (Railroad Man)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/3fq6r0bSIm4McymHKNMk4S
-  wikipedia: https://en.wikipedia.org/wiki/Hank_Snow
+  spotify: 'https://open.spotify.com/artist/3fq6r0bSIm4McymHKNMk4S'
+  wikipedia: 'https://en.wikipedia.org/wiki/Hank_Snow'
 image_path: 03_Resources/source_material/ArtistPortraits/Hank_Snow.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-18T16:32:56.605906'
-entry_created: 2025-09-18 11:49:33.526190
+entry_created: 2025-09-18T11:49:33.526Z
 last_updated: '2025-12-23T08:16:09.491338'
-
+is_active: false
+artist_type: person
+origin: 'Nashville, Tennessee, United States'
 ---
 
 ![](Hank_Snow.jpg)

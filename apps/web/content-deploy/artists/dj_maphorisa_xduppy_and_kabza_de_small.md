@@ -1,18 +1,19 @@
 ---
-title: dj maphorisa, xduppy & kabza de small
+title: 'DJ Maphorisa, Xduppy & Kabza de Small'
 wiki_slug: dj-maphorisa-xduppy-kabza-de-small
 schema_version: 2
 status: active
 genres:
-- amapiano
-- private school piano
-- gqom
-- 3 step
-- afropiano
-- afro house
+  - amapiano
+  - private school piano
+  - gqom
+  - 3 step
+  - afropiano
+  - afro house
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/dj_maphorisa_xduppy_and_kabza_de_small.jpg
-  caption: dj maphorisa, xduppy & kabza de small
+  image: >-
+    03_Resources/source_material/ArtistPortraits/dj_maphorisa_xduppy_and_kabza_de_small.jpg
+  caption: 'dj maphorisa, xduppy & kabza de small'
   background: solo_singer
 audio_profile:
   tempo_avg: 116.9
@@ -29,52 +30,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kabza De Small
-  - Xduppy
-  - Uhuru
-  - TRESOR
-  - Wizkid
+    - Kabza De Small
+    - Xduppy
+    - Uhuru
+    - TRESOR
+    - Wizkid
   influenced:
-  - Sha Sha
-  - Focalistic
-  - Emerging South African producers
+    - Sha Sha
+    - Focalistic
+    - Emerging South African producers
   mentors:
-  - Maphorisa's mother
+    - Maphorisa's mother
 spotify_data:
   followers: 6611668
   id: 1bNjWBFWsAAzZSR59lRdpR
   popularity: 66
-  url: https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR
+  url: 'https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR'
 discography_enriched: true
 top_tracks:
-- Wishi Wishi (feat. Scotts Maphuma & Young Stunna)
-- Imithandazo (feat. Young Stunna, DJ Maphorisa, Sizwe Alakine & Umthakathi Kush) (Isimo)
-- A-Z (Yashi Moto)
-- Abalele
-- Kabza Chant 2.0 (feat. Nobuhle, Nkosazana Daughter & Sykes)
-- Amazwe (feat. Mawhoo) (Isimo)
-- Asibe Happy
-- Ethongweni (feat. Cnethemba Gonelo) (Thato Ya Modimo)
-- Iza Mawala (feat. Dladla Mshunqisi & Goldmax)
-- Amalanga (feat. TO Starquality, Chley & Kabza De Small) (Lane Yam)
+  - Wishi Wishi (feat. Scotts Maphuma & Young Stunna)
+  - >-
+    Imithandazo (feat. Young Stunna, DJ Maphorisa, Sizwe Alakine & Umthakathi
+    Kush) (Isimo)
+  - A-Z (Yashi Moto)
+  - Abalele
+  - 'Kabza Chant 2.0 (feat. Nobuhle, Nkosazana Daughter & Sykes)'
+  - Amazwe (feat. Mawhoo) (Isimo)
+  - Asibe Happy
+  - Ethongweni (feat. Cnethemba Gonelo) (Thato Ya Modimo)
+  - Iza Mawala (feat. Dladla Mshunqisi & Goldmax)
+  - 'Amalanga (feat. TO Starquality, Chley & Kabza De Small) (Lane Yam)'
 external_urls:
-  spotify: https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR
-  wikipedia: https://en.wikipedia.org/wiki/DJ_Maphorisa
-image_path: 03_Resources/source_material/ArtistPortraits/dj_maphorisa_xduppy_and_kabza_de_small.jpg
+  spotify: 'https://open.spotify.com/artist/1bNjWBFWsAAzZSR59lRdpR'
+  wikipedia: 'https://en.wikipedia.org/wiki/DJ_Maphorisa'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/dj_maphorisa_xduppy_and_kabza_de_small.jpg
 biography_enhanced_at: '2025-10-19T12:34:57.309926'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://mdundo.com/news/46996
-- https://en.wikipedia.org/wiki/DJ_Maphorisa
-- https://www.wikiwand.com/en/articles/DJ_Maphorisa
-- https://www.playup-za.com/articles-details-en?editoProduct=67e66bbe7f143ad247030f43&editoDocument=67eba68e6970244b850b39e4&dve_trk_id=4af9a599-6a07-4e37-af4e-3a09124dec4d
-- https://www.joro.coffee/blog/what-if-dj-maphorisa-half-nigerian-made-afrobeats-instead
+  - 'https://mdundo.com/news/46996'
+  - 'https://en.wikipedia.org/wiki/DJ_Maphorisa'
+  - 'https://www.wikiwand.com/en/articles/DJ_Maphorisa'
+  - >-
+    https://www.playup-za.com/articles-details-en?editoProduct=67e66bbe7f143ad247030f43&editoDocument=67eba68e6970244b850b39e4&dve_trk_id=4af9a599-6a07-4e37-af4e-3a09124dec4d
+  - >-
+    https://www.joro.coffee/blog/what-if-dj-maphorisa-half-nigerian-made-afrobeats-instead
 network_extracted: true
 entry_created: '2025-10-19T12:34:57.309949'
 last_updated: '2025-12-23T08:16:07.811670'
-origin: Soshanguve, Pretoria, South Africa
-
+origin: 'Soshanguve, Pretoria, South Africa'
+birth_place: 'Soshanguve, Pretoria, South Africa'
+birth_date: '1987-11-15'
+artist_type: person
 ---
 
 ![](dj_maphorisa_xduppy_and_kabza_de_small.jpg)

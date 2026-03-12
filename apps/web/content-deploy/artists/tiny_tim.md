@@ -2,48 +2,52 @@
 artist_type: person
 biography_enhanced_at: '2026-01-10T01:18:43.297161'
 birth_date: '1932-04-12'
-birth_place: Manhattan
+birth_place: 'Manhattan, New York City, United States'
 death_date: '1996-11-30'
 enhancement_provider: perplexity
 entry_created: '2026-01-10T01:18:43.297165'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2f2f7eb6-37c3-446e-8288-f88f76295c2a
-  spotify: https://open.spotify.com/artist/0Nc79lkTxXLSIIHDB8mqJC
-  wikipedia: https://en.wikipedia.org/wiki/Tiny_Tim_(musician)
+  musicbrainz: 'https://musicbrainz.org/artist/2f2f7eb6-37c3-446e-8288-f88f76295c2a'
+  spotify: 'https://open.spotify.com/artist/0Nc79lkTxXLSIIHDB8mqJC'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tiny_Tim_(musician)'
 gender: Male
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/tiny_tim.jpg
 last_updated: '2026-01-10T01:18:43.297166'
 musical_connections:
   collaborators:
-  - Mo Ostin
-  - Richard Perry
-  - George King
+    - Mo Ostin
+    - Richard Perry
+    - George King
   influenced:
-  - Contemporary ukulele revivalists and novelty/outsider musicians (representative
-    influence)
+    - >-
+      Contemporary ukulele revivalists and novelty/outsider musicians
+      (representative influence)
   mentors:
-  - Rudy Vallée
+    - Rudy Vallée
 musicbrainz_id: 2f2f7eb6-37c3-446e-8288-f88f76295c2a
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Tiny_Tim_(musician)
-- https://www.imdb.com/name/nm0864097/bio/
-- https://www.approachablemusic.com/tiny-tim-in-minneapolis.php
-- https://ukulelemagazine.com/stories/the-strange-and-improbable-rise-of-the-bizarre-tiny-tim
-- https://www.app.tankersinternational.com/tiny-tim-bio-career-age-net-worth-height-nationality-facts/86013060.html
+  - 'https://en.wikipedia.org/wiki/Tiny_Tim_(musician)'
+  - 'https://www.imdb.com/name/nm0864097/bio/'
+  - 'https://www.approachablemusic.com/tiny-tim-in-minneapolis.php'
+  - >-
+    https://ukulelemagazine.com/stories/the-strange-and-improbable-rise-of-the-bizarre-tiny-tim
+  - >-
+    https://www.app.tankersinternational.com/tiny-tim-bio-career-age-net-worth-height-nationality-facts/86013060.html
 spotify_data:
   followers: 149473
   id: 0Nc79lkTxXLSIIHDB8mqJC
   popularity: 47
-  url: https://open.spotify.com/artist/0Nc79lkTxXLSIIHDB8mqJC
+  url: 'https://open.spotify.com/artist/0Nc79lkTxXLSIIHDB8mqJC'
 status: active
 tags:
-- children music
-- christmas music
-- novelty
-title: tiny tim
+  - children music
+  - christmas music
+  - novelty
+title: Tiny Tim
+is_active: false
 ---
 
 ![](tiny_tim.jpg)

@@ -1,15 +1,15 @@
 ---
-title: SAMMY WARD
+title: Sammy Ward
 wiki_slug: sammy-ward
 schema_version: 2
 status: active
-birth_place: North Georgia, USA
+birth_place: 'North Georgia, USA'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sammy_ward.jpg
   caption: SAMMY WARD
   background: solo_singer
-  origin: North Georgia, USA
+  origin: 'North Georgia, USA'
 audio_profile:
   tempo_avg: 120.9
   energy_avg: 0.77
@@ -25,40 +25,42 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - 40Records/Gotee Records
+    - 40Records/Gotee Records
   influenced: []
   mentors: []
 spotify_data:
   followers: 158145
   id: 1S9WGrK7SZfXXQtHBYzDle
   popularity: 47
-  url: https://open.spotify.com/artist/1S9WGrK7SZfXXQtHBYzDle
+  url: 'https://open.spotify.com/artist/1S9WGrK7SZfXXQtHBYzDle'
 discography_enriched: true
 top_tracks:
-- All Night Longer
-- All Night Longer REMIX (feat. B.o.B)
-- Finally Found You
-- Finally Found You (SEX AND LOVE (Deluxe Edition))
-- Finally Found You (SEX AND LOVE (Deluxe))
-- Every Weekend
-- L.A. Story (feat. Mike Posner)
-- Where You Are (feat. Wyred)
-- Tellin' Me
-- Driving Me Crazy (Boston's Boy)
+  - All Night Longer
+  - All Night Longer REMIX (feat. B.o.B)
+  - Finally Found You
+  - Finally Found You (SEX AND LOVE (Deluxe Edition))
+  - Finally Found You (SEX AND LOVE (Deluxe))
+  - Every Weekend
+  - L.A. Story (feat. Mike Posner)
+  - Where You Are (feat. Wyred)
+  - Tellin' Me
+  - Driving Me Crazy (Boston's Boy)
 external_urls:
-  spotify: https://open.spotify.com/artist/1S9WGrK7SZfXXQtHBYzDle
+  spotify: 'https://open.spotify.com/artist/1S9WGrK7SZfXXQtHBYzDle'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/sammy_ward.jpg
 biography_enhanced_at: '2025-12-23T02:02:23.844367'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://turningpointpr.com/2019/12/hymns-anew-welcomes-singer-songwriter-sammy-ward-back-to-the-spotlight/
-- https://www.christianmusicarchive.com/artist/sammy-ward
-- https://www.newreleasetoday.com/artistdetail.php?artist_id=3613
+  - >-
+    https://turningpointpr.com/2019/12/hymns-anew-welcomes-singer-songwriter-sammy-ward-back-to-the-spotlight/
+  - 'https://www.christianmusicarchive.com/artist/sammy-ward'
+  - 'https://www.newreleasetoday.com/artistdetail.php?artist_id=3613'
 network_extracted: true
 entry_created: '2025-12-23T02:02:23.844372'
 last_updated: '2025-12-23T08:16:15.350752'
+artist_type: person
 ---
 
 ![](sammy_ward.jpg)

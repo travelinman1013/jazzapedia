@@ -3,13 +3,17 @@ title: Billy Iuso
 wiki_slug: billy-iuso
 schema_version: 2
 status: active
-birth_place: New York, New York, USA (birthplace); New Orleans, Louisiana, USA (career base)
+birth_place: >-
+  New York, New York, USA (birthplace); New Orleans, Louisiana, USA (career
+  base)
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/billy_iuso.jpg
   caption: Billy Iuso
   background: solo_singer
-  origin: New York, New York, USA (birthplace); New Orleans, Louisiana, USA (career base)
+  origin: >-
+    New York, New York, USA (birthplace); New Orleans, Louisiana, USA (career
+    base)
 audio_profile:
   tempo_avg: 136.3
   energy_avg: 0.779
@@ -25,54 +29,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Reggie Scanlan
-  - Eddie Christmas
-  - Joe Ashlar
-  - Sari Jordan and Renée Gros
-  - Paul Barrere and Fred Tackett
-  - Bill Kreutzmann
-  - Anders Osborne
-  - Bo Dollis and the Wild Magnolias
+    - Reggie Scanlan
+    - Eddie Christmas
+    - Joe Ashlar
+    - Sari Jordan and Renée Gros
+    - Paul Barrere and Fred Tackett
+    - Bill Kreutzmann
+    - Anders Osborne
+    - Bo Dollis and the Wild Magnolias
   influenced:
-  - IKO Allstars
+    - IKO Allstars
   mentors:
-  - George Porter Jr.
-  - Art Neville
-  - Little Feat
+    - George Porter Jr.
+    - Art Neville
+    - Little Feat
 spotify_data:
   followers: 2461503
   id: 7lzordPuZEXxwt9aoVZYmG
   popularity: 71
-  url: https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG
+  url: 'https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG'
 discography_enriched: true
 top_tracks:
-- Eyes Without A Face (Rebel Yell)
-- Rebel Yell (Rebel Yell)
-- White Wedding - Pt. 1 (Billy Idol)
-- Mony Mony - Downtown Mix / Remastered 2001 (Vital Idol)
-- Dancing With Myself (Vital Idol)
-- Flesh For Fantasy (Rebel Yell)
-- White Wedding (Vital Idol)
-- Rebel Yell - Remastered 1999
-- Eyes Without A Face - Remastered 1999
-- Hot In The City (Billy Idol)
+  - Eyes Without A Face (Rebel Yell)
+  - Rebel Yell (Rebel Yell)
+  - White Wedding - Pt. 1 (Billy Idol)
+  - Mony Mony - Downtown Mix / Remastered 2001 (Vital Idol)
+  - Dancing With Myself (Vital Idol)
+  - Flesh For Fantasy (Rebel Yell)
+  - White Wedding (Vital Idol)
+  - Rebel Yell - Remastered 1999
+  - Eyes Without A Face - Remastered 1999
+  - Hot In The City (Billy Idol)
 external_urls:
-  spotify: https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG
+  spotify: 'https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/billy_iuso.jpg
 biography_enhanced_at: '2025-10-29T16:45:32.414613'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://billyiuso.com/bio
-- https://thefunkyuncle.live/artist/billy-iuso-the-restless-natives-live/
-- https://tipitinas.com/e/14406963/billy-iuso/
-- https://tipitinas.com/e/13097065/billy-iusos-shake-n-bake/
-- https://www.neworleans.com/listing/billy-iuso/46312/
-- https://jambands.com/features/2014/04/20/billy-iuso-the-journey-to-dead-feat/
+  - 'https://billyiuso.com/bio'
+  - 'https://thefunkyuncle.live/artist/billy-iuso-the-restless-natives-live/'
+  - 'https://tipitinas.com/e/14406963/billy-iuso/'
+  - 'https://tipitinas.com/e/13097065/billy-iusos-shake-n-bake/'
+  - 'https://www.neworleans.com/listing/billy-iuso/46312/'
+  - >-
+    https://jambands.com/features/2014/04/20/billy-iuso-the-journey-to-dead-feat/
 network_extracted: true
 entry_created: '2025-10-29T16:45:32.414627'
 last_updated: '2025-12-23T08:16:05.595425'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![](billy_iuso.jpg)

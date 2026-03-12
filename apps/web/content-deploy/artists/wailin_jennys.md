@@ -1,13 +1,13 @@
 ---
-title: wailin' jennys
+title: The Wailin' Jennys
 wiki_slug: wailin-jennys
 schema_version: 2
 status: active
 genres:
-- bluegrass
-- newgrass
-- folk
-- americana
+  - bluegrass
+  - newgrass
+  - folk
+  - americana
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/wailin_jennys.jpg
   caption: wailin' jennys
@@ -27,50 +27,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jeremy Penner
-  - David Travers-Smith
-  - Richard Moody
-  - Annabelle Chvostek
+    - Jeremy Penner
+    - David Travers-Smith
+    - Richard Moody
+    - Annabelle Chvostek
   influenced: []
   mentors:
-  - Mark Howard
-  - Garrison Keillor
+    - Mark Howard
+    - Garrison Keillor
 spotify_data:
   followers: 166699
   id: 331QVEZKK1yz5KhYiR2pBj
   popularity: 45
-  url: https://open.spotify.com/artist/331QVEZKK1yz5KhYiR2pBj
+  url: 'https://open.spotify.com/artist/331QVEZKK1yz5KhYiR2pBj'
 discography_enriched: true
 top_tracks:
-- Wildflowers (Fifteen)
-- One Voice (40 Days)
-- The Parting Glass (40 Days)
-- Beautiful Dawn (40 Days)
-- Old Man (40 Days)
-- Long Time Traveller (Firecracker)
-- Light of a Clear Blue Morning (Fifteen)
-- Arlington (40 Days)
-- Heaven When We're Home (40 Days)
-- Long Time Traveller (Firecracker)
+  - Wildflowers (Fifteen)
+  - One Voice (40 Days)
+  - The Parting Glass (40 Days)
+  - Beautiful Dawn (40 Days)
+  - Old Man (40 Days)
+  - Long Time Traveller (Firecracker)
+  - Light of a Clear Blue Morning (Fifteen)
+  - Arlington (40 Days)
+  - Heaven When We're Home (40 Days)
+  - Long Time Traveller (Firecracker)
 external_urls:
-  spotify: https://open.spotify.com/artist/331QVEZKK1yz5KhYiR2pBj
-  wikipedia: https://en.wikipedia.org/wiki/The_Wailin'_Jennys
+  spotify: 'https://open.spotify.com/artist/331QVEZKK1yz5KhYiR2pBj'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Wailin''_Jennys'
 image_path: 03_Resources/source_material/ArtistPortraits/wailin_jennys.jpg
 biography_enhanced_at: '2025-11-29T07:07:02.080899'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - The Wailin' Jennys
-- The Wailin' Jennys Official Website
-- PopMatters - The Wailin' Jennys 2022 Interview
-- 'Territorial Imperatives - The Wailin'' Jennys: Longevity Becomes Them (2024)'
-- Musician of the Month Project - The Wailin' Jennys
-- Red House Records - The Wailin' Jennys
-- Pinecone - The Wailin' Jennys
+  - Wikipedia - The Wailin' Jennys
+  - The Wailin' Jennys Official Website
+  - PopMatters - The Wailin' Jennys 2022 Interview
+  - 'Territorial Imperatives - The Wailin'' Jennys: Longevity Becomes Them (2024)'
+  - Musician of the Month Project - The Wailin' Jennys
+  - Red House Records - The Wailin' Jennys
+  - Pinecone - The Wailin' Jennys
 network_extracted: true
 entry_created: '2025-11-29T07:07:02.080911'
 last_updated: '2025-12-23T08:16:17.953925'
-origin: Winnipeg, Manitoba, Canada
+origin: 'Winnipeg, Manitoba, Canada'
+artist_type: person
 ---
 
 ![](wailin_jennys.jpg)

@@ -3,13 +3,13 @@ title: Steve Nieve
 wiki_slug: steve-nieve
 schema_version: 2
 status: active
-birth_place: Bishop's Stortford, Hertfordshire, England
+birth_place: 'Bishop''s Stortford, Hertfordshire, England'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/steve_nieve.jpg
   caption: Steve Nieve
   background: solo_singer
-  origin: Bishop's Stortford, Hertfordshire, England
+  origin: 'Bishop''s Stortford, Hertfordshire, England'
 audio_profile:
   tempo_avg: 113.6
   energy_avg: 0.271
@@ -25,47 +25,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Elvis Costello
-  - Muriel Teodori
-  - Ajuq
-  - Sting
-  - Paul McCartney
-  - Burt Bacharach
+    - Elvis Costello
+    - Muriel Teodori
+    - Ajuq
+    - Sting
+    - Paul McCartney
+    - Burt Bacharach
   influenced: []
   mentors:
-  - Royal College of Music
+    - Royal College of Music
 spotify_data:
   followers: 1553
   id: 2b99MsfdhmMze4rADKlONq
   popularity: 17
-  url: https://open.spotify.com/artist/2b99MsfdhmMze4rADKlONq
+  url: 'https://open.spotify.com/artist/2b99MsfdhmMze4rADKlONq'
 discography_enriched: true
 top_tracks:
-- Broken Bicycles (Waits) . Junk (McCartney) (For The Stars)
-- No Wonder (For The Stars)
-- You Still Believe In Me (For The Stars)
-- This House Is Empty Now (For The Stars)
-- For The Stars (For The Stars)
-- I'll Never Fall In Love Again - Live In Toronto, Ontario, Massey Hall / June 16, 1999
-- Passionate Fight (from the song cycle "Correspondence") (Ute Lemper - Punishing Kiss)
-- Toledo - Live In Tokyo, Japan, Nakano Sunplaza Hall / February 08, 1999
-- In The Darkest Place - Live In Melbourne, Australia, Athenaeum Theatre / February 16, 1999
-- God Give Me Strength - Live In Toronto, Ontario, Massey Hall / June 16, 1999
+  - Broken Bicycles (Waits) . Junk (McCartney) (For The Stars)
+  - No Wonder (For The Stars)
+  - You Still Believe In Me (For The Stars)
+  - This House Is Empty Now (For The Stars)
+  - For The Stars (For The Stars)
+  - >-
+    I'll Never Fall In Love Again - Live In Toronto, Ontario, Massey Hall / June
+    16, 1999
+  - >-
+    Passionate Fight (from the song cycle "Correspondence") (Ute Lemper -
+    Punishing Kiss)
+  - 'Toledo - Live In Tokyo, Japan, Nakano Sunplaza Hall / February 08, 1999'
+  - >-
+    In The Darkest Place - Live In Melbourne, Australia, Athenaeum Theatre /
+    February 16, 1999
+  - 'God Give Me Strength - Live In Toronto, Ontario, Massey Hall / June 16, 1999'
 external_urls:
-  spotify: https://open.spotify.com/artist/2b99MsfdhmMze4rADKlONq
+  spotify: 'https://open.spotify.com/artist/2b99MsfdhmMze4rADKlONq'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/steve_nieve.jpg
 biography_enhanced_at: '2025-12-16T03:13:17.268869'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.stevenieve.com/pagecv
-- https://www.iheart.com/artist/steve-nieve-182315/
-- https://www.imdb.com/name/nm0631366/bio/
-- https://www.popmatters.com/177360-steve-nieve-together-2495702139.html
+  - 'https://www.stevenieve.com/pagecv'
+  - 'https://www.iheart.com/artist/steve-nieve-182315/'
+  - 'https://www.imdb.com/name/nm0631366/bio/'
+  - 'https://www.popmatters.com/177360-steve-nieve-together-2495702139.html'
 network_extracted: true
 entry_created: '2025-12-16T03:13:17.268883'
 last_updated: '2025-12-23T08:16:16.133135'
+birth_date: '1958-02-19'
+artist_type: person
 ---
 
 ![](steve_nieve.jpg)

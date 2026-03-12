@@ -3,14 +3,14 @@ title: Whitney Mixon
 wiki_slug: whitney-mixon
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- boogie
+  - boogie
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/whitney_mixon.jpg
   caption: Whitney Mixon
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 116.2
   energy_avg: 0.489
@@ -26,42 +26,44 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Nat Lawrence
-  - Nick
+    - Nat Lawrence
+    - Nick
   influenced:
-  - Not specified
+    - Not specified
   mentors:
-  - Unknown
+    - Unknown
 spotify_data:
   followers: 125
   id: 7FAegLCsBNcLxOFvenL7Uu
   popularity: 2
-  url: https://open.spotify.com/artist/7FAegLCsBNcLxOFvenL7Uu
+  url: 'https://open.spotify.com/artist/7FAegLCsBNcLxOFvenL7Uu'
 discography_enriched: true
 top_tracks:
-- Caught Up (Mix Up)
-- Caught Up (Caught Up)
-- Sorry (Mix Up)
-- Lusty (Mix Up)
-- We Love A Rehearsal (Interlude) (Mix Up)
-- Joyce (Interlude) (Mix Up)
-- Fool For You (Mix Up)
-- Black & Blessed (Interlude) (Mix Up)
-- You (Mix Up)
-- Ballroom (Mix Up)
+  - Caught Up (Mix Up)
+  - Caught Up (Caught Up)
+  - Sorry (Mix Up)
+  - Lusty (Mix Up)
+  - We Love A Rehearsal (Interlude) (Mix Up)
+  - Joyce (Interlude) (Mix Up)
+  - Fool For You (Mix Up)
+  - Black & Blessed (Interlude) (Mix Up)
+  - You (Mix Up)
+  - Ballroom (Mix Up)
 external_urls:
-  spotify: https://open.spotify.com/artist/7FAegLCsBNcLxOFvenL7Uu
+  spotify: 'https://open.spotify.com/artist/7FAegLCsBNcLxOFvenL7Uu'
   wikipedia: Not found
 image_path: 03_Resources/source_material/ArtistPortraits/whitney_mixon.jpg
 biography_enhanced_at: '2025-10-29T16:38:25.612260'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://whitneymix.bandcamp.com
-- https://www.youtube.com/watch?v=4r2kQ4B69pE
+  - 'https://whitneymix.bandcamp.com'
+  - 'https://www.youtube.com/watch?v=4r2kQ4B69pE'
 network_extracted: true
 entry_created: '2025-10-29T16:38:25.612268'
 last_updated: '2025-12-23T08:16:18.116843'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](whitney_mixon.jpg)

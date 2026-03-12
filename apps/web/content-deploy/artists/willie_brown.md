@@ -1,18 +1,18 @@
 ---
-title: willie brown
+title: Willie Brown
 wiki_slug: willie-brown
 schema_version: 2
 status: active
-birth_place: Clarksdale, Mississippi, United States
+birth_place: 'Clarksdale, Mississippi, United States'
 genres:
-- classic blues
-- country blues
-- blues
+  - classic blues
+  - country blues
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/willie_brown.jpg
   caption: willie brown
   background: solo_singer
-  origin: Clarksdale, Mississippi, United States
+  origin: 'Clarksdale, Mississippi, United States'
 audio_profile:
   tempo_avg: 144.7
   energy_avg: 0.359
@@ -28,52 +28,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Charley Patton
-  - Son House
-  - Willie Moore
-  - Tommy Johnson
-  - Memphis Minnie
+    - Charley Patton
+    - Son House
+    - Willie Moore
+    - Tommy Johnson
+    - Memphis Minnie
   influenced:
-  - Robert Johnson
-  - Later Delta blues musicians
+    - Robert Johnson
+    - Later Delta blues musicians
   mentors:
-  - Charley Patton
-  - Son House
+    - Charley Patton
+    - Son House
 spotify_data:
   followers: 4237
   id: 6zxIBQ4sNvQCSkciayJxaS
   popularity: 10
-  url: https://open.spotify.com/artist/6zxIBQ4sNvQCSkciayJxaS
+  url: 'https://open.spotify.com/artist/6zxIBQ4sNvQCSkciayJxaS'
 discography_enriched: true
 top_tracks:
-- Future Blues (Giants)
-- Walking Blues (Son House Library of Congress Recordings 1941-1942)
-- Levee Camp Blues (Son House Library of Congress Recordings 1941-1942)
-- Future Blues (Two Men on Fire - The Blues Brothers of the Delta)
-- 'Future Blues (American Epic: The Best of Blues)'
-- Government Fleet Blues (Son House Library of Congress Recordings 1941-1942)
-- M & O Blues (Giants)
-- Camp Hollers (Son House Library of Congress Recordings 1941-1942)
-- 'Future Blues (American Epic: The Collection)'
-- 'Future Blues (Masters Of The Delta Blues: The Friends Of Charlie Patton)'
+  - Future Blues (Giants)
+  - Walking Blues (Son House Library of Congress Recordings 1941-1942)
+  - Levee Camp Blues (Son House Library of Congress Recordings 1941-1942)
+  - Future Blues (Two Men on Fire - The Blues Brothers of the Delta)
+  - 'Future Blues (American Epic: The Best of Blues)'
+  - Government Fleet Blues (Son House Library of Congress Recordings 1941-1942)
+  - M & O Blues (Giants)
+  - Camp Hollers (Son House Library of Congress Recordings 1941-1942)
+  - 'Future Blues (American Epic: The Collection)'
+  - 'Future Blues (Masters Of The Delta Blues: The Friends Of Charlie Patton)'
 external_urls:
-  spotify: https://open.spotify.com/artist/6zxIBQ4sNvQCSkciayJxaS
-  wikipedia: https://en.wikipedia.org/wiki/Willie_Brown_(Delta_blues_musician)
+  spotify: 'https://open.spotify.com/artist/6zxIBQ4sNvQCSkciayJxaS'
+  wikipedia: 'https://en.wikipedia.org/wiki/Willie_Brown_(Delta_blues_musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/willie_brown.jpg
 biography_enhanced_at: '2025-11-14T11:04:53.084400'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://mississippiencyclopedia.org/entries/little-willie-brown/
-- https://www.bluesway.gr/2018/12/willie-brown.html
-- https://www.cityofclarksdale.org/artists/brown/
-- https://www.elijahwald.com/songblog/mississippi-blues/
-- https://sites.google.com/view/oldschoolbluesguitar/home/acoustic-blues-profiles/willie-brown-s
-- https://wbssmedia.com/artists/detail/1794
-- https://www.americanbluesscene.com/2011/03/a-headstone-for-delta-blues-legend-willie-brown/
+  - 'https://mississippiencyclopedia.org/entries/little-willie-brown/'
+  - 'https://www.bluesway.gr/2018/12/willie-brown.html'
+  - 'https://www.cityofclarksdale.org/artists/brown/'
+  - 'https://www.elijahwald.com/songblog/mississippi-blues/'
+  - >-
+    https://sites.google.com/view/oldschoolbluesguitar/home/acoustic-blues-profiles/willie-brown-s
+  - 'https://wbssmedia.com/artists/detail/1794'
+  - >-
+    https://www.americanbluesscene.com/2011/03/a-headstone-for-delta-blues-legend-willie-brown/
 network_extracted: true
 entry_created: '2025-11-14T11:04:53.084409'
 last_updated: '2025-12-23T08:16:18.166014'
+birth_date: '1900-08-06'
+death_date: '1952-12-30'
+artist_type: person
 ---
 
 ![](willie_brown.jpg)

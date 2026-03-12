@@ -1,16 +1,16 @@
 ---
-title: LILLIAN OFFIT
+title: Lillian Offit
 wiki_slug: lillian-offit
 schema_version: 2
 status: active
-birth_place: Nashville, Tennessee, USA
+birth_place: 'Nashville, Tennessee, USA'
 genres:
-- classic blues
+  - classic blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lillian_offit.jpg
   caption: LILLIAN OFFIT
   background: solo_singer
-  origin: Nashville, Tennessee, USA
+  origin: 'Nashville, Tennessee, USA'
 audio_profile:
   tempo_avg: 123.2
   energy_avg: 0.612
@@ -26,45 +26,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Earl Hooker
-  - Jackie Shane
-  - Lowell Fulson
-  - Johnny 'Guitar' Watson
+    - Earl Hooker
+    - Jackie Shane
+    - Lowell Fulson
+    - Johnny 'Guitar' Watson
   influenced: []
   mentors:
-  - Ernie Young
+    - Ernie Young
 spotify_data:
   followers: 98
   id: 4WvCQ0gcwE3sEgqDvoMK2J
   popularity: 0
-  url: https://open.spotify.com/artist/4WvCQ0gcwE3sEgqDvoMK2J
+  url: 'https://open.spotify.com/artist/4WvCQ0gcwE3sEgqDvoMK2J'
 discography_enriched: true
 top_tracks:
-- Miss You So - Single Version (The Best Of Excello Records)
-- Oh Mama (Chicago Blues Of The 1960's)
-- 'Miss You So (Let Me Tell You About the Blues: Nashville)'
-- Will My Man Be Home Tonight (Chicago Blues Of The 1950's)
-- Miss You So - Single Version (Men Are Like Street Cars - Women Blues Singers 1928 - 1969)
-- My Man is a Lover (My Man is a Lover / Oh Mama)
-- The Man Won't Work (The Man Won't Work)
-- Miss You So (Soul Trackback - The Best Soul Tracks of 1957)
-- My Man Is a Lover (Ain't Gonna Hush)
-- The Man Won't Work (A Shot Of Rhythm & Blues)
+  - Miss You So - Single Version (The Best Of Excello Records)
+  - Oh Mama (Chicago Blues Of The 1960's)
+  - 'Miss You So (Let Me Tell You About the Blues: Nashville)'
+  - Will My Man Be Home Tonight (Chicago Blues Of The 1950's)
+  - >-
+    Miss You So - Single Version (Men Are Like Street Cars - Women Blues Singers
+    1928 - 1969)
+  - My Man is a Lover (My Man is a Lover / Oh Mama)
+  - The Man Won't Work (The Man Won't Work)
+  - Miss You So (Soul Trackback - The Best Soul Tracks of 1957)
+  - My Man Is a Lover (Ain't Gonna Hush)
+  - The Man Won't Work (A Shot Of Rhythm & Blues)
 external_urls:
-  spotify: https://open.spotify.com/artist/4WvCQ0gcwE3sEgqDvoMK2J
+  spotify: 'https://open.spotify.com/artist/4WvCQ0gcwE3sEgqDvoMK2J'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/lillian_offit.jpg
 biography_enhanced_at: '2025-11-04T10:56:11.952123'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://sundayblues.org/?tag=lillian-offitt
-- http://doowopheaven.blogspot.com/2016/03/lillian-offitt.html
-- https://lovethatsongpodcast.com/tag/1960s/
-- https://www.allmusic.com/artist/lillian-offitt-mn0000831762
+  - 'https://sundayblues.org/?tag=lillian-offitt'
+  - 'http://doowopheaven.blogspot.com/2016/03/lillian-offitt.html'
+  - 'https://lovethatsongpodcast.com/tag/1960s/'
+  - 'https://www.allmusic.com/artist/lillian-offitt-mn0000831762'
 network_extracted: true
 entry_created: '2025-11-04T10:56:11.952134'
 last_updated: '2025-12-23T08:16:11.934368'
+origin: 'Chicago, Illinois, United States'
+birth_date: '1938-11-04'
+artist_type: person
 ---
 
 ![](lillian_offit.jpg)

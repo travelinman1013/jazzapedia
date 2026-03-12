@@ -3,7 +3,7 @@ biography_enhanced_at: '2026-01-18T08:25:26.568927'
 enhancement_provider: perplexity
 entry_created: '2026-01-18T08:25:26.568935'
 external_urls:
-  spotify: https://open.spotify.com/artist/3qsoucOEW7nm2MjZ1pJfsX
+  spotify: 'https://open.spotify.com/artist/3qsoucOEW7nm2MjZ1pJfsX'
   wikipedia: Not found
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/grupo_kaimbe.jpg
@@ -19,9 +19,11 @@ spotify_data:
   followers: 275
   id: 3qsoucOEW7nm2MjZ1pJfsX
   popularity: 5
-  url: https://open.spotify.com/artist/3qsoucOEW7nm2MjZ1pJfsX
+  url: 'https://open.spotify.com/artist/3qsoucOEW7nm2MjZ1pJfsX'
 status: active
 title: Grupo Kaimbe
+origin: Unknown
+artist_type: band
 ---
 
 ![](grupo_kaimbe.jpg)

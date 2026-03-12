@@ -5,21 +5,21 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1940-09-10'
-birth_place: Los Angeles
+birth_place: 'Los Angeles, California, United States'
 death_date: '2025-03-04'
 genres:
-- jazz funk
-- acid jazz
-- soul jazz
+  - jazz funk
+  - acid jazz
+  - soul jazz
 instruments:
-- eponymous
-- original
-- vibraphone
-- electric piano
-- piano
-- background vocals
-- other vocals
-- lead vocals
+  - eponymous
+  - original
+  - vibraphone
+  - electric piano
+  - piano
+  - background vocals
+  - other vocals
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Roy_Ayers.jpg
   caption: Roy Ayers
@@ -42,66 +42,69 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Herbie Mann
-  - Ron Carter
-  - Sonny Fortune
-  - Dee Dee Bridgewater
-  - Talib Kweli
-  - Erykah Badu
+    - Herbie Mann
+    - Ron Carter
+    - Sonny Fortune
+    - Dee Dee Bridgewater
+    - Talib Kweli
+    - Erykah Badu
   influenced:
-  - Dr. Dre
-  - Mary J. Blige
-  - J Dilla
-  - 2Pac
-  - J. Cole
-  - Erykah Badu
+    - Dr. Dre
+    - Mary J. Blige
+    - J Dilla
+    - 2Pac
+    - J. Cole
+    - Erykah Badu
   mentors:
-  - Lionel Hampton
-  - Herbie Mann
-  - Leonard Feather
+    - Lionel Hampton
+    - Herbie Mann
+    - Leonard Feather
 spotify_data:
   followers: 270550
   id: 6R9Mv0bgGE4Tqxna1q5Mrj
   popularity: 49
-  url: https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj
+  url: 'https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj'
 discography_enriched: true
 top_tracks:
-- FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett & Kali Uchis) (Cherry Bomb)
-- Cleva (Mama's Gun)
-- Liquid Love
-- Running Away
-- Take A Look (At Yourself) (Jazzmatazz Volume 1)
-- FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett & Kali Uchis) (Cherry Bomb + Instrumentals)
-- Love Will Bring Us Back Together (Fever)
-- Mystic Voyage
-- You Send Me (You Send Me)
-- I Am Your Mind (Part 2)
+  - 'FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett & Kali Uchis) (Cherry Bomb)'
+  - Cleva (Mama's Gun)
+  - Liquid Love
+  - Running Away
+  - Take A Look (At Yourself) (Jazzmatazz Volume 1)
+  - >-
+    FIND YOUR WINGS (feat. Roy Ayers, Sydney Bennett & Kali Uchis) (Cherry Bomb
+    + Instrumentals)
+  - Love Will Bring Us Back Together (Fever)
+  - Mystic Voyage
+  - You Send Me (You Send Me)
+  - I Am Your Mind (Part 2)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/06e199c1-6f33-477b-a74d-bc8a283bd8f0
-  spotify: https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj
-  wikipedia: https://en.wikipedia.org/wiki/Roy_Ayers
+  musicbrainz: 'https://musicbrainz.org/artist/06e199c1-6f33-477b-a74d-bc8a283bd8f0'
+  spotify: 'https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj'
+  wikipedia: 'https://en.wikipedia.org/wiki/Roy_Ayers'
 image_path: 03_Resources/source_material/ArtistPortraits/Roy_Ayers.jpg
 biography_enhanced_at: '2025-10-22T06:52:26.408095'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- All About Jazz
-- SFJazz
-- BBE Music
-- Los Angeles Times
-- The HistoryMakers
-- Roy Ayers official site
-- DownBeat
+  - All About Jazz
+  - SFJazz
+  - BBE Music
+  - Los Angeles Times
+  - The HistoryMakers
+  - Roy Ayers official site
+  - DownBeat
 network_extracted: true
 entry_created: '2025-10-22T06:52:26.408110'
 last_updated: '2025-12-23T08:16:03.753922'
 gender: Male
 musicbrainz_id: 06e199c1-6f33-477b-a74d-bc8a283bd8f0
 tags:
-- acid jazz
-- jazz
-- jazz-funk
-
+  - acid jazz
+  - jazz
+  - jazz-funk
+is_active: false
+origin: 'Los Angeles, California, United States'
 ---
 
 ![](Roy_Ayers.jpg)

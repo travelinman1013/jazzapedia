@@ -1,17 +1,18 @@
 ---
-title: sarz, asake, wizkid & skillibeng
+title: 'Sarz, Asake, Wizkid & Skillibeng'
 wiki_slug: sarz-asake-wizkid-skillibeng
 schema_version: 2
 status: active
-birth_place: Benin City, Edo State, Nigeria
+birth_place: 'Benin City, Edo State, Nigeria'
 genres:
-- afrobeats
-- dancehall
+  - afrobeats
+  - dancehall
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/sarz_asake_wizkid_and_skillibeng.jpg
-  caption: sarz, asake, wizkid & skillibeng
+  image: >-
+    03_Resources/source_material/ArtistPortraits/sarz_asake_wizkid_and_skillibeng.jpg
+  caption: 'sarz, asake, wizkid & skillibeng'
   background: solo_singer
-  origin: Benin City, Edo State, Nigeria
+  origin: 'Benin City, Edo State, Nigeria'
 audio_profile:
   tempo_avg: 113.7
   energy_avg: 0.624
@@ -27,52 +28,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Wizkid
-  - eLDee
-  - Jahbless
-  - Reminisce
-  - Shank
-  - Goldie Harvey
-  - International artists (Chris Brown, Drake)
+    - Wizkid
+    - eLDee
+    - Jahbless
+    - Reminisce
+    - Shank
+    - Goldie Harvey
+    - 'International artists (Chris Brown, Drake)'
   influenced:
-  - Emerging Nigerian producers
+    - Emerging Nigerian producers
   mentors:
-  - Lord of Ajasa
+    - Lord of Ajasa
 spotify_data:
   followers: 546598
   id: 5FkUhnHQ0KC63549LHHtst
   popularity: 70
-  url: https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst
+  url: 'https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst'
 discography_enriched: true
 top_tracks:
-- Jump (TYLA)
-- Shake It To The Max (FLY) - Remix
-- Jump
-- Tip (Remix)
-- Crocodile Teeth
-- Brik Pan Brik
-- Slip N Slide (feat. Skillibeng & Shenseea) (More Love, Less Ego)
-- Badman
-- Bad Gyal (feat. Skillibeng, Jucee Froot & Tommy Lee) [Divas]
-- 50 Bag
+  - Jump (TYLA)
+  - Shake It To The Max (FLY) - Remix
+  - Jump
+  - Tip (Remix)
+  - Crocodile Teeth
+  - Brik Pan Brik
+  - 'Slip N Slide (feat. Skillibeng & Shenseea) (More Love, Less Ego)'
+  - Badman
+  - 'Bad Gyal (feat. Skillibeng, Jucee Froot & Tommy Lee) [Divas]'
+  - 50 Bag
 external_urls:
-  spotify: https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst
-  wikipedia: https://en.wikipedia.org/wiki/Sarz
-image_path: 03_Resources/source_material/ArtistPortraits/sarz_asake_wizkid_and_skillibeng.jpg
+  spotify: 'https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sarz'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/sarz_asake_wizkid_and_skillibeng.jpg
 biography_enhanced_at: '2025-10-19T12:33:26.166859'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://newswirengr.com/2022/11/29/sarz-biography-education-career-relationship-net-worth-achievements-and-more/
-- https://mdundo.com/news/21664
-- https://en.wikipedia.org/wiki/Sarz
-- https://mdundo.com/news/26959
-- https://www.boomplay.com/buzz/3518325
-- https://www.last.fm/music/Sarz/+wiki
-- https://africanmusiclibrary.org/artist/Sarz
+  - >-
+    https://newswirengr.com/2022/11/29/sarz-biography-education-career-relationship-net-worth-achievements-and-more/
+  - 'https://mdundo.com/news/21664'
+  - 'https://en.wikipedia.org/wiki/Sarz'
+  - 'https://mdundo.com/news/26959'
+  - 'https://www.boomplay.com/buzz/3518325'
+  - 'https://www.last.fm/music/Sarz/+wiki'
+  - 'https://africanmusiclibrary.org/artist/Sarz'
 network_extracted: true
 entry_created: '2025-10-19T12:33:26.166871'
 last_updated: '2025-12-23T08:16:15.405965'
+birth_date: '1989-03-17'
+artist_type: person
 ---
 
 ![](sarz_asake_wizkid_and_skillibeng.jpg)

@@ -5,19 +5,19 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1947-10-24'
-birth_place: Dayton
+birth_place: 'Dayton, Ohio, United States'
 genres:
-- ragtime
+  - ragtime
 instruments:
-- eponymous
-- guitar
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
-  mbid: 50dd605c-6768-4bd3-b5eb-6d9c685dd6e0
-  name: Banu Gibson & the New Orleans Hot Jazz Orchestra
+  - guitar
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 50dd605c-6768-4bd3-b5eb-6d9c685dd6e0
+    name: Banu Gibson & the New Orleans Hot Jazz Orchestra
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/banu_gibson.jpg
   caption: Banu Gibson
@@ -39,56 +39,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dukes of Dixieland
-  - Jack London’s Bayou Jazz Band
-  - Connie Jones’s Crescent City All-Stars
-  - My Father's Mustache
-  - World's Greatest Jazz Band
-  - New Orleans Hot Jazz Orchestra
+    - Dukes of Dixieland
+    - Jack London’s Bayou Jazz Band
+    - Connie Jones’s Crescent City All-Stars
+    - My Father's Mustache
+    - World's Greatest Jazz Band
+    - New Orleans Hot Jazz Orchestra
   influenced: []
   mentors:
-  - Phil Napoleon
-  - Wild Bill Davison
-  - Buzz Podewell
-  - David Boeddinghaus
+    - Phil Napoleon
+    - Wild Bill Davison
+    - Buzz Podewell
+    - David Boeddinghaus
 spotify_data:
   followers: 465
   id: 1btZzJu8sQP0NBTW5NgVFq
   popularity: 19
-  url: https://open.spotify.com/artist/1btZzJu8sQP0NBTW5NgVFq
+  url: 'https://open.spotify.com/artist/1btZzJu8sQP0NBTW5NgVFq'
 discography_enriched: true
 top_tracks:
-- I'll See You in My Dreams (Livin' In A Great Big Way)
-- They Can't Take That Away From Me (Let's Face The Music And Dance)
-- Isn't This A Lovely Day? (Let's Face The Music And Dance)
-- I'll Be Home For Christmas ('Zat You, Santa Claus?)
-- Love Is Good For Anything that Ails You (Love Is Good For Anything That Ails You)
-- Christmas In New Orleans ('Zat You, Santa Claus?)
-- Santa, Swing Me A Christmas Tune ('Zat You, Santa Claus?)
-- The Chant (Jazz Baby)
-- Cakewalking Babies from Home (Jazz Baby)
-- Sentimental Gentlemen from Georgia (Vintage Banu)
+  - I'll See You in My Dreams (Livin' In A Great Big Way)
+  - They Can't Take That Away From Me (Let's Face The Music And Dance)
+  - Isn't This A Lovely Day? (Let's Face The Music And Dance)
+  - 'I''ll Be Home For Christmas (''Zat You, Santa Claus?)'
+  - >-
+    Love Is Good For Anything that Ails You (Love Is Good For Anything That Ails
+    You)
+  - 'Christmas In New Orleans (''Zat You, Santa Claus?)'
+  - 'Santa, Swing Me A Christmas Tune (''Zat You, Santa Claus?)'
+  - The Chant (Jazz Baby)
+  - Cakewalking Babies from Home (Jazz Baby)
+  - Sentimental Gentlemen from Georgia (Vintage Banu)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b064a669-bc72-4782-b371-fac7b44c54a4
-  spotify: https://open.spotify.com/artist/1btZzJu8sQP0NBTW5NgVFq
-  wikipedia: https://en.wikipedia.org/wiki/Banu_Gibson
+  musicbrainz: 'https://musicbrainz.org/artist/b064a669-bc72-4782-b371-fac7b44c54a4'
+  spotify: 'https://open.spotify.com/artist/1btZzJu8sQP0NBTW5NgVFq'
+  wikipedia: 'https://en.wikipedia.org/wiki/Banu_Gibson'
 image_path: 03_Resources/source_material/ArtistPortraits/banu_gibson.jpg
 biography_enhanced_at: '2025-12-21T01:19:33.165649'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://syncopatedtimes.com/banu-gibson-first-lady-of-the-bayou/
-- https://en.wikipedia.org/wiki/Banu_Gibson
-- http://www.banugibson.com/html/bg_biography.html
-- https://www.myneworleans.com/banu-gibson/
-- https://www.neworleans.com/listing/banu-gibson/47813/
+  - 'https://syncopatedtimes.com/banu-gibson-first-lady-of-the-bayou/'
+  - 'https://en.wikipedia.org/wiki/Banu_Gibson'
+  - 'http://www.banugibson.com/html/bg_biography.html'
+  - 'https://www.myneworleans.com/banu-gibson/'
+  - 'https://www.neworleans.com/listing/banu-gibson/47813/'
 network_extracted: true
 entry_created: '2025-12-21T01:19:33.165656'
 last_updated: '2025-12-23T08:16:05.079068'
 gender: Female
 musicbrainz_id: b064a669-bc72-4782-b371-fac7b44c54a4
 tags:
-- jazz
+  - jazz
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](banu_gibson.jpg)

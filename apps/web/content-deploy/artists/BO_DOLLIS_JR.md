@@ -1,17 +1,17 @@
 ---
-title: BO DOLLIS JR.
+title: BO Dollis Jr.
 wiki_slug: bo-dollis-jr
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/BO_DOLLIS_JR.jpg
   caption: BO DOLLIS JR.
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 111.8
   energy_avg: 0.794
@@ -27,47 +27,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Wild Magnolias
-  - Hi Rhythm Section (Archie 'Hubbie' Turner, Rev. Charles Hodges, Leroy Hodges)
-  - Anjelika 'Jelly' Joseph
-  - Dr. John, Cyril Neville, Leo Nocentelli, Trombone Shorty
+    - The Wild Magnolias
+    - >-
+      Hi Rhythm Section (Archie 'Hubbie' Turner, Rev. Charles Hodges, Leroy
+      Hodges)
+    - Anjelika 'Jelly' Joseph
+    - 'Dr. John, Cyril Neville, Leo Nocentelli, Trombone Shorty'
   influenced:
-  - New Orleans Center for Creative Arts students
+    - New Orleans Center for Creative Arts students
   mentors:
-  - Bo Dollis Sr.
+    - Bo Dollis Sr.
 spotify_data:
   followers: 653
   id: 4JOEF1EykbzByJXRoIuhmq
   popularity: 3
-  url: https://open.spotify.com/artist/4JOEF1EykbzByJXRoIuhmq
+  url: 'https://open.spotify.com/artist/4JOEF1EykbzByJXRoIuhmq'
 discography_enriched: true
 top_tracks:
-- Tootie Ma (New Kind of Funk)
-- New Kind of Funk (New Kind of Funk)
-- Hey Now Baby (New Kind of Funk)
-- Fire Water Big Chief Got Plenty (New Kind of Funk)
-- 'Uptown Rulers - Professor Shorthair Remix (Uptown Rulers: The NOLA Breaks Singles)'
-- My Name Is Bo (My Name Is Bo)
-- Liza Jane (New Kind of Funk)
-- Indian Blues (My Name Is Bo)
-- We da Wild Magnolias (My Name Is Bo)
-- Pretty Feathers (My Name Is Bo)
+  - Tootie Ma (New Kind of Funk)
+  - New Kind of Funk (New Kind of Funk)
+  - Hey Now Baby (New Kind of Funk)
+  - Fire Water Big Chief Got Plenty (New Kind of Funk)
+  - >-
+    Uptown Rulers - Professor Shorthair Remix (Uptown Rulers: The NOLA Breaks
+    Singles)
+  - My Name Is Bo (My Name Is Bo)
+  - Liza Jane (New Kind of Funk)
+  - Indian Blues (My Name Is Bo)
+  - We da Wild Magnolias (My Name Is Bo)
+  - Pretty Feathers (My Name Is Bo)
 external_urls:
-  spotify: https://open.spotify.com/artist/4JOEF1EykbzByJXRoIuhmq
+  spotify: 'https://open.spotify.com/artist/4JOEF1EykbzByJXRoIuhmq'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/BO_DOLLIS_JR.jpg
 biography_enhanced_at: '2025-10-20T09:50:07.102479'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://bodollisjrandthewildmagnolias.com/bio
-- https://relix.com/articles/detail/big-chief-bo-dollis-jr-the-wild-magnolias-mardi-gras-indians-meet-memphis-soul-on-chip-off-the-old-block/
-- https://frenchquarterly.com/music/preserving-and-promoting-new-orleans-art-music-and-culture
-- https://offbeat.com/articles/his-name-is-bo-two-a-conversation-with-bo-dollis-jr/
-- https://nolafamily.com/dad-about-town-bo-dollis-jr/
+  - 'https://bodollisjrandthewildmagnolias.com/bio'
+  - >-
+    https://relix.com/articles/detail/big-chief-bo-dollis-jr-the-wild-magnolias-mardi-gras-indians-meet-memphis-soul-on-chip-off-the-old-block/
+  - >-
+    https://frenchquarterly.com/music/preserving-and-promoting-new-orleans-art-music-and-culture
+  - >-
+    https://offbeat.com/articles/his-name-is-bo-two-a-conversation-with-bo-dollis-jr/
+  - 'https://nolafamily.com/dad-about-town-bo-dollis-jr/'
 network_extracted: true
 entry_created: '2025-10-20T09:50:07.102494'
 last_updated: '2025-12-23T08:16:01.136450'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](BO_DOLLIS_JR.jpg)

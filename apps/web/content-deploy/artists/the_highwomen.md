@@ -4,7 +4,7 @@ wiki_slug: the-highwomen
 schema_version: 2
 status: active
 genres:
-- americana
+  - americana
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_highwomen.jpg
   caption: The Highwomen
@@ -15,7 +15,7 @@ audio_profile:
   valence_avg: 0.427
   danceability_avg: 0.521
   acousticness_avg: 0.366
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -6.2
   speechiness_avg: 0.049
   liveness_avg: 0.14
@@ -24,52 +24,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Brandi Carlile
-  - Natalie Hemby
-  - Maren Morris
-  - Amanda Shires
-  - Dave Cobb
-  - Yola
-  - Sheryl Crow
-  - Lori McKenna
+    - Brandi Carlile
+    - Natalie Hemby
+    - Maren Morris
+    - Amanda Shires
+    - Dave Cobb
+    - Yola
+    - Sheryl Crow
+    - Lori McKenna
   influenced:
-  - Emerging female country and Americana artists
+    - Emerging female country and Americana artists
   mentors:
-  - The Highwaymen (Johnny Cash, Waylon Jennings, Kris Kristofferson, Willie Nelson)
-  - Jimmy Webb
+    - >-
+      The Highwaymen (Johnny Cash, Waylon Jennings, Kris Kristofferson, Willie
+      Nelson)
+    - Jimmy Webb
 spotify_data:
   followers: 167306
   id: 3iyG1duuxWpcuWa57VSeZ0
   popularity: 47
-  url: https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0
+  url: 'https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0'
 discography_enriched: true
 top_tracks:
-- Crowded Table (The Highwomen)
-- Highwomen (The Highwomen)
-- Redesigning Women (The Highwomen)
-- The Chain - From the Motion Picture Soundtrack "The Kitchen" (The Chain (From the Motion Picture Soundtrack "The Kitchen"))
-- If She Ever Leaves Me (The Highwomen)
-- Loose Change (The Highwomen)
-- Hold On (Hold On)
-- Old Soul (The Highwomen)
-- My Only Child (The Highwomen)
-- Cocktail And A Song (The Highwomen)
+  - Crowded Table (The Highwomen)
+  - Highwomen (The Highwomen)
+  - Redesigning Women (The Highwomen)
+  - >-
+    The Chain - From the Motion Picture Soundtrack "The Kitchen" (The Chain
+    (From the Motion Picture Soundtrack "The Kitchen"))
+  - If She Ever Leaves Me (The Highwomen)
+  - Loose Change (The Highwomen)
+  - Hold On (Hold On)
+  - Old Soul (The Highwomen)
+  - My Only Child (The Highwomen)
+  - Cocktail And A Song (The Highwomen)
 external_urls:
-  spotify: https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0
-  wikipedia: https://en.wikipedia.org/wiki/The_Highwomen_(album)
+  spotify: 'https://open.spotify.com/artist/3iyG1duuxWpcuWa57VSeZ0'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Highwomen_(album)'
 image_path: 03_Resources/source_material/ArtistPortraits/the_highwomen.jpg
 biography_enhanced_at: '2025-11-03T07:41:42.280840'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Highwomen_(album)
-- https://wfuv.org/content/highwomen-0
-- https://theboot.com/the-highwomen-first-album-2019/
-- https://nodepression.org/inside-the-making-and-the-movement-of-the-highwomen/
+  - 'https://en.wikipedia.org/wiki/The_Highwomen_(album)'
+  - 'https://wfuv.org/content/highwomen-0'
+  - 'https://theboot.com/the-highwomen-first-album-2019/'
+  - >-
+    https://nodepression.org/inside-the-making-and-the-movement-of-the-highwomen/
 network_extracted: true
 entry_created: '2025-11-03T07:41:42.280850'
 last_updated: '2025-12-23T08:16:16.835897'
-origin: Nashville, Tennessee, United States
+origin: 'Nashville, Tennessee, United States'
+artist_type: band
 ---
 
 ![](the_highwomen.jpg)

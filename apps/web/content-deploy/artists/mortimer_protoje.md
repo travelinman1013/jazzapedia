@@ -1,40 +1,41 @@
 ---
 biography_enhanced_at: '2025-12-29T01:26:24.479862'
-birth_place: Kingston, Jamaica
+birth_place: 'Kingston, Jamaica, United States'
 enhancement_provider: perplexity
 entry_created: '2025-12-29T01:26:24.479876'
 external_urls:
-  spotify: https://open.spotify.com/artist/6qyqSsQOJmW6GDx8djH0dv
+  spotify: 'https://open.spotify.com/artist/6qyqSsQOJmW6GDx8djH0dv'
   wikipedia: ''
 genres:
-- reggae
-- roots reggae
-- lovers rock
+  - reggae
+  - roots reggae
+  - lovers rock
 image_path: 03_Resources/source_material/ArtistPortraits/mortimer_protoje.jpg
 last_updated: '2025-12-29T01:26:24.479878'
 musical_connections:
   collaborators:
-  - Protoje
-  - Winta James
-  - Jay Crazie Records
+    - Protoje
+    - Winta James
+    - Jay Crazie Records
   influenced: []
   mentors:
-  - Protoje
-  - Winta James
+    - Protoje
+    - Winta James
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.reggaeville.com/artist-details/mortimer/about/
-- https://www.upsetta.com/mortimer-artist-spotlight/
-- https://www.mortimerofficial.com
-- https://en.wikipedia.org/wiki/Protoje
+  - 'https://www.reggaeville.com/artist-details/mortimer/about/'
+  - 'https://www.upsetta.com/mortimer-artist-spotlight/'
+  - 'https://www.mortimerofficial.com'
+  - 'https://en.wikipedia.org/wiki/Protoje'
 spotify_data:
   followers: 39787
   id: 6qyqSsQOJmW6GDx8djH0dv
   popularity: 44
-  url: https://open.spotify.com/artist/6qyqSsQOJmW6GDx8djH0dv
+  url: 'https://open.spotify.com/artist/6qyqSsQOJmW6GDx8djH0dv'
 status: active
-title: Mortimer, Protoje
+title: 'Mortimer, Protoje'
+artist_type: person
 ---
 
 ![](mortimer_protoje.jpg)

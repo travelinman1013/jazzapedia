@@ -1,5 +1,5 @@
 ---
-title: sam sham & the pharoahs
+title: Sam Sham & the Pharoahs
 wiki_slug: sam-sham-the-pharoahs
 schema_version: 2
 status: active
@@ -23,48 +23,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ray Stinnett
-  - David Martin
-  - Jerry Patterson
-  - Butch Gibson
+    - Ray Stinnett
+    - David Martin
+    - Jerry Patterson
+    - Butch Gibson
   influenced:
-  - The B-52's
-  - Garage Rock Revival Bands
+    - The B-52's
+    - Garage Rock Revival Bands
   mentors:
-  - Trini Lopez
+    - Trini Lopez
 spotify_data:
   followers: 70455
   id: 05sRO4JdAtJGyZQOTb6kSL
   popularity: 42
-  url: https://open.spotify.com/artist/05sRO4JdAtJGyZQOTb6kSL
+  url: 'https://open.spotify.com/artist/05sRO4JdAtJGyZQOTb6kSL'
 discography_enriched: true
 top_tracks:
-- Wooly Bully (Wooly Bully)
-- Lil' Red Riding Hood (Li'l Red Riding Hood)
-- Lil' Red Riding Hood
-- Ring Dang Doo (On Tour)
-- Wooly Bully
-- I Never Had No One (The MGM Singles)
-- Haunted House (Wooly Bully)
-- Ju Ju Hand (Their Second Album)
-- Wooly Bully
-- Ain't Gonna Move (The MGM Singles)
+  - Wooly Bully (Wooly Bully)
+  - Lil' Red Riding Hood (Li'l Red Riding Hood)
+  - Lil' Red Riding Hood
+  - Ring Dang Doo (On Tour)
+  - Wooly Bully
+  - I Never Had No One (The MGM Singles)
+  - Haunted House (Wooly Bully)
+  - Ju Ju Hand (Their Second Album)
+  - Wooly Bully
+  - Ain't Gonna Move (The MGM Singles)
 external_urls:
-  spotify: https://open.spotify.com/artist/05sRO4JdAtJGyZQOTb6kSL
-  wikipedia: https://en.wikipedia.org/wiki/Sam_the_Sham
+  spotify: 'https://open.spotify.com/artist/05sRO4JdAtJGyZQOTb6kSL'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sam_the_Sham'
 image_path: 03_Resources/source_material/ArtistPortraits/sam_sham_and_the_pharoahs.jpg
 biography_enhanced_at: '2025-11-01T15:37:13.296847'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.history-of-rock.com/sam_the_sham_and_the_pharaohs.htm
-- https://www.tshaonline.org/handbook/entries/sam-the-sham-and-the-pharaohs
-- https://en.wikipedia.org/wiki/Sam_the_Sham
-- https://americansongwriter.com/meaning-behind-the-band-name-sam-the-sham-and-the-pharaohs/
+  - 'https://www.history-of-rock.com/sam_the_sham_and_the_pharaohs.htm'
+  - 'https://www.tshaonline.org/handbook/entries/sam-the-sham-and-the-pharaohs'
+  - 'https://en.wikipedia.org/wiki/Sam_the_Sham'
+  - >-
+    https://americansongwriter.com/meaning-behind-the-band-name-sam-the-sham-and-the-pharaohs/
 network_extracted: true
 entry_created: '2025-11-01T15:37:13.296855'
 last_updated: '2025-12-23T08:16:15.325273'
-origin: Dallas, Texas, United States
+origin: 'Dallas, Texas, United States'
+birth_place: 'Dallas, Texas, United States'
+birth_date: '1937'
+artist_type: band
 ---
 
 ![](sam_sham_and_the_pharoahs.jpg)

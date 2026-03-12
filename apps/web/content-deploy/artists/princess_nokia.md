@@ -5,10 +5,10 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1992-06-14'
-birth_place: New York
+birth_place: 'New York City, New York, United States'
 genres: []
 instruments:
-- lead vocals
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/princess_nokia.jpg
   caption: Princess Nokia
@@ -22,7 +22,7 @@ audio_profile:
   danceability_avg: 0.762
   acousticness_avg: 0.166
   instrumentalness_avg: 0.019
-  loudness_avg: -8.0
+  loudness_avg: -8
   speechiness_avg: 0.186
   liveness_avg: 0.197
   track_count: 50
@@ -30,46 +30,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Christopher Lare (Owwwls)
-  - Letter Racer Collective
+    - Christopher Lare (Owwwls)
+    - Letter Racer Collective
   influenced:
-  - Musical Influences (Stylistic)
+    - Musical Influences (Stylistic)
   mentors:
-  - Her Father (Actor)
-  - Her Grandmother
-  - Ease Da Man
-  - Wiki (Ratking)
+    - Her Father (Actor)
+    - Her Grandmother
+    - Ease Da Man
+    - Wiki (Ratking)
 spotify_data:
   followers: 685751
   id: 6lay1nwbE6hTx1jivysUAL
   popularity: 61
-  url: https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL
+  url: 'https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL'
 discography_enriched: true
 top_tracks:
-- Slumber Party (feat. Princess Nokia) (DEMIDEVIL)
-- I Like Him (Everything Sucks)
-- Drop Dead Gorgeous
-- Sugar Honey Iced Tea (S.H.I.T.) (Everything is Beautiful)
-- Tomboy (1992 Deluxe)
-- No Effort
-- Spit (Corpus I)
-- Gemini (Everything is Beautiful)
-- Spit
-- Harley Quinn (Everything Sucks)
+  - Slumber Party (feat. Princess Nokia) (DEMIDEVIL)
+  - I Like Him (Everything Sucks)
+  - Drop Dead Gorgeous
+  - Sugar Honey Iced Tea (S.H.I.T.) (Everything is Beautiful)
+  - Tomboy (1992 Deluxe)
+  - No Effort
+  - Spit (Corpus I)
+  - Gemini (Everything is Beautiful)
+  - Spit
+  - Harley Quinn (Everything Sucks)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4b93ee9e-e39d-4036-9527-551b2236f5af
-  spotify: https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL
+  musicbrainz: 'https://musicbrainz.org/artist/4b93ee9e-e39d-4036-9527-551b2236f5af'
+  spotify: 'https://open.spotify.com/artist/6lay1nwbE6hTx1jivysUAL'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/princess_nokia.jpg
 biography_enhanced_at: '2025-11-28T07:27:19.120129'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- kids.kiddle.co - Princess Nokia Facts for Kids
-- imposemagazine.com - A Walk Through Zion with Princess Nokia
-- imdb.com - Princess Nokia
-- first-avenue.com - Princess Nokia
-- refinery29.com - Princess Nokia Is One Of NYC's Boldest Female Rappers
+  - kids.kiddle.co - Princess Nokia Facts for Kids
+  - imposemagazine.com - A Walk Through Zion with Princess Nokia
+  - imdb.com - Princess Nokia
+  - first-avenue.com - Princess Nokia
+  - refinery29.com - Princess Nokia Is One Of NYC's Boldest Female Rappers
 network_extracted: true
 entry_created: '2025-11-28T07:27:19.120143'
 last_updated: '2025-12-23T08:16:14.462253'
@@ -77,9 +77,10 @@ disambiguation: American rapper
 gender: Non-binary
 musicbrainz_id: 4b93ee9e-e39d-4036-9527-551b2236f5af
 tags:
-- hip hop
-- r&b
-- trap
+  - hip hop
+  - r&b
+  - trap
+origin: 'East Harlem, New York, United States'
 ---
 
 ![](princess_nokia.jpg)

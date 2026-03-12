@@ -5,12 +5,12 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1935-04-09'
-birth_place: Mounds
+birth_place: 'Mounds, Oklahoma, United States'
 death_date: '2023-05-26'
 genres:
-- jazz funk
-- soul jazz
-- acid jazz
+  - jazz funk
+  - soul jazz
+  - acid jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/reuben_wilson.jpg
   caption: Reuben Wilson
@@ -25,7 +25,7 @@ audio_profile:
   danceability_avg: 0.677
   acousticness_avg: 0.538
   instrumentalness_avg: 0.685
-  loudness_avg: -11.0
+  loudness_avg: -11
   speechiness_avg: 0.063
   liveness_avg: 0.141
   track_count: 50
@@ -33,62 +33,65 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Melvin Sparks
-  - Tommy Derrick
-  - John Manning
-  - Bernard Purdie
-  - Idris Muhammad
-  - Willis Jackson
-  - Fatback Band
-  - Guru
+    - Melvin Sparks
+    - Tommy Derrick
+    - John Manning
+    - Bernard Purdie
+    - Idris Muhammad
+    - Willis Jackson
+    - Fatback Band
+    - Guru
   influenced:
-  - US3
-  - A Tribe Called Quest
-  - Nas
-  - Acid Jazz Musicians
+    - US3
+    - A Tribe Called Quest
+    - Nas
+    - Acid Jazz Musicians
   mentors:
-  - Jimmy Smith
-  - Jimmy McGriff
-  - Richard 'Groove' Holmes
+    - Jimmy Smith
+    - Jimmy McGriff
+    - Richard 'Groove' Holmes
 spotify_data:
   followers: 16569
   id: 1lkarpPUSukugn1UWuU2Ut
   popularity: 30
-  url: https://open.spotify.com/artist/1lkarpPUSukugn1UWuU2Ut
+  url: 'https://open.spotify.com/artist/1lkarpPUSukugn1UWuU2Ut'
 discography_enriched: true
 top_tracks:
-- Inner City Blues (Bad Stuff!)
-- We're In Love (Set Us Free (Reissue))
-- Superfly (Bad Stuff!)
-- Orange Peel (Blue Mode)
-- Hot Rod (Love Bug)
-- 'Young Ladies (Jazzmatazz Volume II: The New Reality)'
-- The Sweet Life (Bad Stuff!)
-- The Last Tango In Paris
-- I'll Take You There (Bad Stuff!)
-- The Cisco Kid (Bad Stuff!)
+  - Inner City Blues (Bad Stuff!)
+  - We're In Love (Set Us Free (Reissue))
+  - Superfly (Bad Stuff!)
+  - Orange Peel (Blue Mode)
+  - Hot Rod (Love Bug)
+  - 'Young Ladies (Jazzmatazz Volume II: The New Reality)'
+  - The Sweet Life (Bad Stuff!)
+  - The Last Tango In Paris
+  - I'll Take You There (Bad Stuff!)
+  - The Cisco Kid (Bad Stuff!)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4528b43b-eb88-44e1-8f64-c8be9359467d
-  spotify: https://open.spotify.com/artist/1lkarpPUSukugn1UWuU2Ut
-  wikipedia: https://en.wikipedia.org/wiki/Reuben_Wilson
+  musicbrainz: 'https://musicbrainz.org/artist/4528b43b-eb88-44e1-8f64-c8be9359467d'
+  spotify: 'https://open.spotify.com/artist/1lkarpPUSukugn1UWuU2Ut'
+  wikipedia: 'https://en.wikipedia.org/wiki/Reuben_Wilson'
 image_path: 03_Resources/source_material/ArtistPortraits/reuben_wilson.jpg
 biography_enhanced_at: '2025-11-28T07:29:57.443629'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Reuben Wilson
-- 'UDiscover Music - ''Blue Mode'': Organist Reuben Wilson''s Tasty Soul Jazz Manifesto'
-- All About Jazz - Reuben Wilson Musician
-- 'KNKX Public Radio - In Remembrance: Reuben Wilson'
-- WBSS Media - Reuben Wilson
+  - Wikipedia - Reuben Wilson
+  - >-
+    UDiscover Music - 'Blue Mode': Organist Reuben Wilson's Tasty Soul Jazz
+    Manifesto
+  - All About Jazz - Reuben Wilson Musician
+  - 'KNKX Public Radio - In Remembrance: Reuben Wilson'
+  - WBSS Media - Reuben Wilson
 network_extracted: true
 entry_created: '2025-11-28T07:29:57.443644'
 last_updated: '2025-12-23T08:16:14.804808'
 gender: Male
 musicbrainz_id: 4528b43b-eb88-44e1-8f64-c8be9359467d
 tags:
-- jazz
-- soul jazz
+  - jazz
+  - soul jazz
+is_active: false
 ---
 
 ![](reuben_wilson.jpg)

@@ -3,13 +3,13 @@ title: Steve Lehman
 wiki_slug: steve-lehman
 schema_version: 2
 status: active
-birth_place: New York City, New York, United States
+birth_place: 'New York City, New York, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/steve_lehman.jpg
   caption: Steve Lehman
   background: solo_singer
-  origin: New York City, New York, United States
+  origin: 'New York City, New York, United States'
 audio_profile:
   tempo_avg: 125.3
   energy_avg: 0.661
@@ -25,58 +25,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tyshawn Sorey
-  - Matt Brewer
-  - Damion Reid
-  - Mark Turner
-  - Vijay Iyer
-  - Bennie Maupin
-  - Jason Moran
-  - Georgia Anne Muldrow
-  - Meshell Ndegeocello
-  - High Priest (Antipop Consortium)
+    - Tyshawn Sorey
+    - Matt Brewer
+    - Damion Reid
+    - Mark Turner
+    - Vijay Iyer
+    - Bennie Maupin
+    - Jason Moran
+    - Georgia Anne Muldrow
+    - Meshell Ndegeocello
+    - High Priest (Antipop Consortium)
   influenced:
-  - Students and emerging composer‑improvisers at institutions where Lehman teaches (e.g., Columbia University)
+    - >-
+      Students and emerging composer‑improvisers at institutions where Lehman
+      teaches (e.g., Columbia University)
   mentors:
-  - Anthony Braxton
-  - Tristan Murail
-  - George E. Lewis
-  - Jackie McLean
+    - Anthony Braxton
+    - Tristan Murail
+    - George E. Lewis
+    - Jackie McLean
 spotify_data:
   followers: 32419
   id: 43C3LVD6x8GLvputT34r6T
   popularity: 57
-  url: https://open.spotify.com/artist/43C3LVD6x8GLvputT34r6T
+  url: 'https://open.spotify.com/artist/43C3LVD6x8GLvputT34r6T'
 discography_enriched: true
 top_tracks:
-- Ready Pa Morir (A.D.R.O.M.I.C.F.M.S. 2)
-- '#Freemolly (Intro) (#Freemolly)'
-- Piensa en Mí (5ta Dimensión)
-- Lo Siento (Calle Amor)
-- Sello (50/50)
-- Still Rapping (feat. Steve Lean) (Avida Dollars)
-- melasuda - Bonus Track (Starina)
-- Beef Boy (A.D.R.O.M.I.C.F.M.S. 2)
-- Amor a Quemarropa (feat. D. Gomez) (#Freemolly)
-- La Charla (50/50)
+  - Ready Pa Morir (A.D.R.O.M.I.C.F.M.S. 2)
+  - '#Freemolly (Intro) (#Freemolly)'
+  - Piensa en Mí (5ta Dimensión)
+  - Lo Siento (Calle Amor)
+  - Sello (50/50)
+  - Still Rapping (feat. Steve Lean) (Avida Dollars)
+  - melasuda - Bonus Track (Starina)
+  - Beef Boy (A.D.R.O.M.I.C.F.M.S. 2)
+  - Amor a Quemarropa (feat. D. Gomez) (#Freemolly)
+  - La Charla (50/50)
 external_urls:
-  spotify: https://open.spotify.com/artist/43C3LVD6x8GLvputT34r6T
-  wikipedia: https://en.wikipedia.org/wiki/Steve_Lehman_(musician)
+  spotify: 'https://open.spotify.com/artist/43C3LVD6x8GLvputT34r6T'
+  wikipedia: 'https://en.wikipedia.org/wiki/Steve_Lehman_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/steve_lehman.jpg
 biography_enhanced_at: '2025-12-19T01:39:13.472042'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Steve_Lehman_(musician)
-- https://www.stevelehman.com
-- https://brooklynrail.org/2014/06/music/steve-lehman-makes-history/
-- https://downbeat.com/news/detail/steve-lehman-making-the-music-of-anthony-braxton
-- https://ressources.ircam.fr/en/steve-lehman
-- https://music.columbia.edu/content/stephen-lehman-0
-- https://www.matrixonline.net/profile/stevelehman
+  - 'https://en.wikipedia.org/wiki/Steve_Lehman_(musician)'
+  - 'https://www.stevelehman.com'
+  - 'https://brooklynrail.org/2014/06/music/steve-lehman-makes-history/'
+  - >-
+    https://downbeat.com/news/detail/steve-lehman-making-the-music-of-anthony-braxton
+  - 'https://ressources.ircam.fr/en/steve-lehman'
+  - 'https://music.columbia.edu/content/stephen-lehman-0'
+  - 'https://www.matrixonline.net/profile/stevelehman'
 network_extracted: true
 entry_created: '2025-12-19T01:39:13.472052'
 last_updated: '2025-12-23T08:16:16.128419'
+artist_type: person
 ---
 
 ![](steve_lehman.jpg)

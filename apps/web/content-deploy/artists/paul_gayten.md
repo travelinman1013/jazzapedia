@@ -1,16 +1,16 @@
 ---
-title: paul gayten
+title: Paul Gayten
 wiki_slug: paul-gayten
 schema_version: 2
 status: active
-birth_place: Kentwood, Louisiana, United States
+birth_place: 'Kentwood, Louisiana, United States'
 genres:
-- boogie-woogie
+  - boogie-woogie
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/paul_gayten.jpg
   caption: paul gayten
   background: solo_singer
-  origin: Kentwood, Louisiana, United States
+  origin: 'Kentwood, Louisiana, United States'
 audio_profile:
   tempo_avg: 123.6
   energy_avg: 0.523
@@ -26,50 +26,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Annie Laurie
-  - Teddy Edwards
-  - Edgar Blanchard
-  - Earl Palmer
-  - Lee Allen
-  - Clarence "Frogman" Henry
+    - Annie Laurie
+    - Teddy Edwards
+    - Edgar Blanchard
+    - Earl Palmer
+    - Lee Allen
+    - Clarence "Frogman" Henry
   influenced:
-  - Clarence "Frogman" Henry
-  - Bobby Charles
-  - Chuck Berry
+    - Clarence "Frogman" Henry
+    - Bobby Charles
+    - Chuck Berry
   mentors:
-  - Little Brother Montgomery
+    - Little Brother Montgomery
 spotify_data:
   followers: 848
   id: 1VyGMqS9Ym6SUmKcYwMsYQ
   popularity: 6
-  url: https://open.spotify.com/artist/1VyGMqS9Ym6SUmKcYwMsYQ
+  url: 'https://open.spotify.com/artist/1VyGMqS9Ym6SUmKcYwMsYQ'
 discography_enriched: true
 top_tracks:
-- You Better Believe It (Ain't Nothin' Happenin' - Cool Jump Blues)
-- You Better Believe It (Chess King Of New Orleans (Expanded Edition))
-- Nervous Boogie (Chess King Of New Orleans (Expanded Edition))
-- My Rough and Ready Man (Rough and Ready)
-- I Ain't Gonna Let You In (Ain't Nothin' Happenin' - Cool Jump Blues)
-- You Better Believe It (The Chess Story 1957-1964)
-- Driving Home Part 1 (Hits That Jumped!)
-- Hot Cross Buns (Chess King Of New Orleans (Expanded Edition))
-- Cow Cow Blues (The Okeh Rhythm & Blues Story 1949-1957)
-- Mother Roux (Chess King Of New Orleans (Expanded Edition))
+  - You Better Believe It (Ain't Nothin' Happenin' - Cool Jump Blues)
+  - You Better Believe It (Chess King Of New Orleans (Expanded Edition))
+  - Nervous Boogie (Chess King Of New Orleans (Expanded Edition))
+  - My Rough and Ready Man (Rough and Ready)
+  - I Ain't Gonna Let You In (Ain't Nothin' Happenin' - Cool Jump Blues)
+  - You Better Believe It (The Chess Story 1957-1964)
+  - Driving Home Part 1 (Hits That Jumped!)
+  - Hot Cross Buns (Chess King Of New Orleans (Expanded Edition))
+  - Cow Cow Blues (The Okeh Rhythm & Blues Story 1949-1957)
+  - Mother Roux (Chess King Of New Orleans (Expanded Edition))
 external_urls:
-  spotify: https://open.spotify.com/artist/1VyGMqS9Ym6SUmKcYwMsYQ
-  wikipedia: https://en.wikipedia.org/wiki/Paul_Gayten
+  spotify: 'https://open.spotify.com/artist/1VyGMqS9Ym6SUmKcYwMsYQ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Paul_Gayten'
 image_path: 03_Resources/source_material/ArtistPortraits/paul_gayten.jpg
 biography_enhanced_at: '2025-11-02T07:26:21.381491'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Paul_Gayten
-- https://www.last.fm/music/Paul+Gayten/+wiki
-- https://fromthevaults-boppinbob.blogspot.com/2017/01/paul-gayten-born-29-january-1920.html
-- https://tims.blackcat.nl/messages/paul_gayten.htm
+  - 'https://en.wikipedia.org/wiki/Paul_Gayten'
+  - 'https://www.last.fm/music/Paul+Gayten/+wiki'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2017/01/paul-gayten-born-29-january-1920.html
+  - 'https://tims.blackcat.nl/messages/paul_gayten.htm'
 network_extracted: true
 entry_created: '2025-11-02T07:26:21.381508'
 last_updated: '2025-12-23T08:16:14.071883'
+birth_date: '1920-01-29'
+death_date: '1991-03-26'
+artist_type: person
 ---
 
 ![](paul_gayten.jpg)

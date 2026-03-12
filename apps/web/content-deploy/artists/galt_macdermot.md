@@ -5,17 +5,17 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1928-12-18'
-birth_place: Montréal
+birth_place: 'Montréal, Quebec, Canada'
 death_date: '2018-12-17'
 genres: []
 instruments:
-- piano
+  - piano
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d4c28bd2-e980-4a7b-b30f-7726057bfbf9
-  name: New Pulse Jazz Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d4c28bd2-e980-4a7b-b30f-7726057bfbf9
+    name: New Pulse Jazz Band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/galt_macdermot.jpg
   caption: Galt MacDermot
@@ -38,55 +38,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Gerome Ragni
-  - James Rado
-  - Timothy Porteous
-  - Allan Nicholls
-  - New Pulse Jazz Band
+    - Gerome Ragni
+    - James Rado
+    - Timothy Porteous
+    - Allan Nicholls
+    - New Pulse Jazz Band
   influenced:
-  - Busta Rhymes
-  - Run DMC
-  - Numerous hip-hop artists
+    - Busta Rhymes
+    - Run DMC
+    - Numerous hip-hop artists
   mentors:
-  - Terence MacDermot
-  - Faculty at University of Cape Town
+    - Terence MacDermot
+    - Faculty at University of Cape Town
 spotify_data:
   followers: 59694
   id: 3b6TinIPahsS8iSCYAeinr
   popularity: 51
-  url: https://open.spotify.com/artist/3b6TinIPahsS8iSCYAeinr
+  url: 'https://open.spotify.com/artist/3b6TinIPahsS8iSCYAeinr'
 discography_enriched: true
 top_tracks:
-- Coffee Cold (Shapes of Rhythm/Woman Is Sweeter)
-- Let The Sunshine In (Up From The Basement - Unreleased Tracks - Volumes 1 & 2)
-- Aquarius (Hair)
-- Duffer in F (Version 2) (Up From The Basement - Unreleased Tracks - Volumes 1 & 2)
-- Ripped Open By Metal Explosions (Up From The Basement - Unreleased Tracks - Volumes 1 & 2)
-- The Flesh Failures (Let the Sunshine In) (Hair)
-- Hair (Hair)
-- I Got Life (Hair)
-- Coffee Cold (Live at the St. George Theatre)
-- Good Morning Starshine (Hair)
+  - Coffee Cold (Shapes of Rhythm/Woman Is Sweeter)
+  - >-
+    Let The Sunshine In (Up From The Basement - Unreleased Tracks - Volumes 1 &
+    2)
+  - Aquarius (Hair)
+  - >-
+    Duffer in F (Version 2) (Up From The Basement - Unreleased Tracks - Volumes
+    1 & 2)
+  - >-
+    Ripped Open By Metal Explosions (Up From The Basement - Unreleased Tracks -
+    Volumes 1 & 2)
+  - The Flesh Failures (Let the Sunshine In) (Hair)
+  - Hair (Hair)
+  - I Got Life (Hair)
+  - Coffee Cold (Live at the St. George Theatre)
+  - Good Morning Starshine (Hair)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/479e16b4-2b26-40d1-ba65-9ce5ea8ae6a6
-  spotify: https://open.spotify.com/artist/3b6TinIPahsS8iSCYAeinr
-  wikipedia: https://en.wikipedia.org/wiki/Galt_MacDermot
+  musicbrainz: 'https://musicbrainz.org/artist/479e16b4-2b26-40d1-ba65-9ce5ea8ae6a6'
+  spotify: 'https://open.spotify.com/artist/3b6TinIPahsS8iSCYAeinr'
+  wikipedia: 'https://en.wikipedia.org/wiki/Galt_MacDermot'
 image_path: 03_Resources/source_material/ArtistPortraits/galt_macdermot.jpg
 biography_enhanced_at: '2025-10-31T08:17:32.144980'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Galt_MacDermot
-- https://www.nicholasjennings.com/obituary-composer-galt-macdermot
-- https://americanrepertorytheater.org/bio/galt-macdermot/
-- https://www.songhall.org/profiles/galt-macdermot
-- https://www.pcs.org/artists/galt-macdermot
+  - 'https://en.wikipedia.org/wiki/Galt_MacDermot'
+  - 'https://www.nicholasjennings.com/obituary-composer-galt-macdermot'
+  - 'https://americanrepertorytheater.org/bio/galt-macdermot/'
+  - 'https://www.songhall.org/profiles/galt-macdermot'
+  - 'https://www.pcs.org/artists/galt-macdermot'
 network_extracted: true
 entry_created: '2025-10-31T08:17:32.144984'
 last_updated: '2025-12-23T08:16:08.961482'
-disambiguation: Canadian composer, pianist and writer of musical theatre
+disambiguation: 'Canadian composer, pianist and writer of musical theatre'
 gender: Male
 musicbrainz_id: 479e16b4-2b26-40d1-ba65-9ce5ea8ae6a6
+is_active: false
 ---
 
 ![](galt_macdermot.jpg)

@@ -1,21 +1,21 @@
 ---
-title: frank sinatra
+title: Frank Sinatra
 wiki_slug: frank-sinatra
 schema_version: 2
 status: active
-birth_place: Hoboken, New Jersey, United States
+birth_place: 'Hoboken, New Jersey, United States'
 genres:
-- christmas
-- big band
-- adult standards
-- swing music
-- jazz
-- vocal jazz
+  - christmas
+  - big band
+  - adult standards
+  - swing music
+  - jazz
+  - vocal jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/frank_sinatra.jpg
   caption: frank sinatra
   background: solo_singer
-  origin: Hoboken, New Jersey, United States
+  origin: 'Hoboken, New Jersey, United States'
 audio_profile:
   tempo_avg: 112.7
   energy_avg: 0.291
@@ -31,52 +31,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Harry James
-  - Nelson Riddle
-  - Count Basie
-  - Antonio Carlos Jobim
-  - Gene Kelly
+    - Harry James
+    - Nelson Riddle
+    - Count Basie
+    - Antonio Carlos Jobim
+    - Gene Kelly
   influenced:
-  - Tony Bennett
-  - Michael Bublé
-  - Harry Connick Jr.
+    - Tony Bennett
+    - Michael Bublé
+    - Harry Connick Jr.
   mentors:
-  - Bing Crosby
-  - Tommy Dorsey
+    - Bing Crosby
+    - Tommy Dorsey
 spotify_data:
   followers: 8361474
   id: 1Mxqyy3pSjf8kZZL4QVxS0
   popularity: 76
-  url: https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0
+  url: 'https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0'
 discography_enriched: true
 top_tracks:
-- Somethin' Stupid (The World We Knew)
-- My Way (My Way (Expanded Edition))
-- Strangers In The Night (Strangers In The Night (Expanded Edition))
-- 'Fly Me To The Moon (In Other Words) (Sinatra/Basie: The Complete Reprise Studio Recordings)'
-- The World We Knew (Over And Over) (The World We Knew)
-- That's Life (That's Life)
-- My Way - 2008 Remastered
-- The Way You Look Tonight (Days Of Wine And Roses, Moon River And Other Academy Award Winners)
-- I've Got You Under My Skin - Remastered 1998 (Songs For Swingin' Lovers! (Remastered))
-- Theme From New York, New York - 2008 Remastered
+  - Somethin' Stupid (The World We Knew)
+  - My Way (My Way (Expanded Edition))
+  - Strangers In The Night (Strangers In The Night (Expanded Edition))
+  - >-
+    Fly Me To The Moon (In Other Words) (Sinatra/Basie: The Complete Reprise
+    Studio Recordings)
+  - The World We Knew (Over And Over) (The World We Knew)
+  - That's Life (That's Life)
+  - My Way - 2008 Remastered
+  - >-
+    The Way You Look Tonight (Days Of Wine And Roses, Moon River And Other
+    Academy Award Winners)
+  - >-
+    I've Got You Under My Skin - Remastered 1998 (Songs For Swingin' Lovers!
+    (Remastered))
+  - 'Theme From New York, New York - 2008 Remastered'
 external_urls:
-  spotify: https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0
-  wikipedia: https://en.wikipedia.org/wiki/Frank_Sinatra
+  spotify: 'https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0'
+  wikipedia: 'https://en.wikipedia.org/wiki/Frank_Sinatra'
 image_path: 03_Resources/source_material/ArtistPortraits/frank_sinatra.jpg
 biography_enhanced_at: '2025-10-22T09:31:53.092202'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Frank_Sinatra
-- https://historycooperative.org/frank-sinatra-bio/
-- https://www.ebsco.com/research-starters/history/frank-sinatra
-- https://study.com/academy/lesson/frank-sinatra-biography-quotes.html
-- https://www.rickblessing.com/frank-sinatra-trivia/frank-sinatra-chronoligical-biography/
-- https://www.biography.com/musicians/frank-sinatra
+  - 'https://en.wikipedia.org/wiki/Frank_Sinatra'
+  - 'https://historycooperative.org/frank-sinatra-bio/'
+  - 'https://www.ebsco.com/research-starters/history/frank-sinatra'
+  - 'https://study.com/academy/lesson/frank-sinatra-biography-quotes.html'
+  - >-
+    https://www.rickblessing.com/frank-sinatra-trivia/frank-sinatra-chronoligical-biography/
+  - 'https://www.biography.com/musicians/frank-sinatra'
 network_extracted: true
 entry_created: '2025-10-22T09:31:53.092215'
 last_updated: '2025-12-23T08:16:08.764900'
+birth_date: '1915-12-12'
+death_date: '1998-05-14'
+artist_type: person
 ---
 
 ![](frank_sinatra.jpg)

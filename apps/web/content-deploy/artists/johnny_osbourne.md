@@ -5,14 +5,14 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1948'
-birth_place: Kingston
+birth_place: 'Kingston, Jamaica, United States'
 genres:
-- roots reggae
-- reggae
-- rocksteady
-- dub
-- lovers rock
-- ragga
+  - roots reggae
+  - reggae
+  - rocksteady
+  - dub
+  - lovers rock
+  - ragga
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/johnny_osbourne.jpg
   caption: Johnny Osbourne
@@ -34,49 +34,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Wildcats
-  - The Sensations
-  - Ishan People
-  - King Jammy (Prince Jammy)
-  - Bobby Digital (Bobby Dixon)
+    - The Wildcats
+    - The Sensations
+    - Ishan People
+    - King Jammy (Prince Jammy)
+    - Bobby Digital (Bobby Dixon)
   influenced:
-  - Later dancehall vocalists and sound‑system singers (general)
+    - Later dancehall vocalists and sound‑system singers (general)
   mentors:
-  - Clement "Coxsone" Dodd
-  - Winston Riley
+    - Clement "Coxsone" Dodd
+    - Winston Riley
 spotify_data:
   followers: 80751
   id: 5TUTGRG0FlRoYTZ4GEdOVO
   popularity: 44
-  url: https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO
+  url: 'https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO'
 discography_enriched: true
 top_tracks:
-- Ice Cream Love (Fally Lover)
-- In Your Eyes (Never Stop Fighting)
-- 'Ready Or Not (Reggae Anthology: Winston Riley - Quintessential Techniques)'
-- We Need Love
-- Fally Ranking (Folly Ranking)
-- Mushroom (Fally Lover)
-- Truth and Rights
-- No Lollipop No Sweet So (Fally Lover)
-- Independent Music (The Groove Sessions, Vol. 3)
-- Kiss Somebody (Nightfall Showcase)
+  - Ice Cream Love (Fally Lover)
+  - In Your Eyes (Never Stop Fighting)
+  - 'Ready Or Not (Reggae Anthology: Winston Riley - Quintessential Techniques)'
+  - We Need Love
+  - Fally Ranking (Folly Ranking)
+  - Mushroom (Fally Lover)
+  - Truth and Rights
+  - No Lollipop No Sweet So (Fally Lover)
+  - 'Independent Music (The Groove Sessions, Vol. 3)'
+  - Kiss Somebody (Nightfall Showcase)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/74dca2c7-d7dc-4b13-bd17-502a35db042a
-  spotify: https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO
-  wikipedia: https://en.wikipedia.org/wiki/Johnny_Osbourne
+  musicbrainz: 'https://musicbrainz.org/artist/74dca2c7-d7dc-4b13-bd17-502a35db042a'
+  spotify: 'https://open.spotify.com/artist/5TUTGRG0FlRoYTZ4GEdOVO'
+  wikipedia: 'https://en.wikipedia.org/wiki/Johnny_Osbourne'
 image_path: 03_Resources/source_material/ArtistPortraits/johnny_osbourne.jpg
 biography_enhanced_at: '2025-12-15T01:38:03.863877'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- 'Reggaeville artist biography: Johnny Osbourne[1]'
-- 'Yardie-Reggae artist page: Johnny Osbourne[2]'
-- 'NMB Booking artist profile: Johnny Osbourne[3]'
-- 'TASTE CT profile: Johnny Osbourne (Entertainer)[4]'
-- 'Baco Publishing artist page: Johnny Osbourne[5]'
-- 'Tracklib artist overview: Johnny Osbourne[6]'
-- 'Wikipedia: Johnny Osbourne (for basic discography and general confirmation)'
+  - 'Reggaeville artist biography: Johnny Osbourne[1]'
+  - 'Yardie-Reggae artist page: Johnny Osbourne[2]'
+  - 'NMB Booking artist profile: Johnny Osbourne[3]'
+  - 'TASTE CT profile: Johnny Osbourne (Entertainer)[4]'
+  - 'Baco Publishing artist page: Johnny Osbourne[5]'
+  - 'Tracklib artist overview: Johnny Osbourne[6]'
+  - 'Wikipedia: Johnny Osbourne (for basic discography and general confirmation)'
 network_extracted: true
 entry_created: '2025-12-15T01:38:03.863917'
 last_updated: '2025-12-23T08:16:10.876083'
@@ -84,9 +84,10 @@ disambiguation: Jamaican reggae singer
 gender: Male
 musicbrainz_id: 74dca2c7-d7dc-4b13-bd17-502a35db042a
 tags:
-- dancehall
-- reggae
-- roots reggae
+  - dancehall
+  - reggae
+  - roots reggae
+origin: 'Kingston, Jamaica, United States'
 ---
 
 ![](johnny_osbourne.jpg)

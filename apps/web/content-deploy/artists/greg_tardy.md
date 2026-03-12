@@ -3,15 +3,15 @@ title: Greg Tardy
 wiki_slug: greg-tardy
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- brazilian jazz
-- latin jazz
+  - brazilian jazz
+  - latin jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/greg_tardy.jpg
   caption: Greg Tardy
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 118.3
   energy_avg: 0.38
@@ -27,59 +27,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Elvin Jones
-  - Wynton Marsalis
-  - Joshua Redman
-  - Brad Mehldau
-  - Avishai Cohen
-  - Aaron Goldberg
-  - Bill Frisell
-  - Tom Harrell
-  - Andrew Hill
-  - Dave Douglas
-  - Chris Potter
-  - Marcus Printup
-  - Brian Lynch/Eddie Palmieri Project
+    - Elvin Jones
+    - Wynton Marsalis
+    - Joshua Redman
+    - Brad Mehldau
+    - Avishai Cohen
+    - Aaron Goldberg
+    - Bill Frisell
+    - Tom Harrell
+    - Andrew Hill
+    - Dave Douglas
+    - Chris Potter
+    - Marcus Printup
+    - Brian Lynch/Eddie Palmieri Project
   influenced:
-  - University of Tennessee–Knoxville jazz students
+    - University of Tennessee–Knoxville jazz students
   mentors:
-  - Parents (Jo Anne Tardy and Melvin Tardy)
+    - Parents (Jo Anne Tardy and Melvin Tardy)
 spotify_data:
   followers: 104
   id: 4msUuX6Yw1OghFQ2T5LB6R
   popularity: 3
-  url: https://open.spotify.com/artist/4msUuX6Yw1OghFQ2T5LB6R
+  url: 'https://open.spotify.com/artist/4msUuX6Yw1OghFQ2T5LB6R'
 discography_enriched: true
 top_tracks:
-- Pianist at the Park (Pick up the Phone)
-- Dwayne Deserves (Pick up the Phone)
-- Inspirado Aspirado (Pick up the Phone)
-- Pick up the Phone (Pick up the Phone)
-- Cambio de Planes (Pick up the Phone)
-- Captain Furillo (Pick up the Phone)
-- Petals Danse (The Art Of Rhythm)
-- Missing File in Abuja (Reminiscing the Unknown Masters)
-- Laura (Reminiscing the Unknown Masters)
-- Grovin' (3 Down)
+  - Pianist at the Park (Pick up the Phone)
+  - Dwayne Deserves (Pick up the Phone)
+  - Inspirado Aspirado (Pick up the Phone)
+  - Pick up the Phone (Pick up the Phone)
+  - Cambio de Planes (Pick up the Phone)
+  - Captain Furillo (Pick up the Phone)
+  - Petals Danse (The Art Of Rhythm)
+  - Missing File in Abuja (Reminiscing the Unknown Masters)
+  - Laura (Reminiscing the Unknown Masters)
+  - Grovin' (3 Down)
 external_urls:
-  spotify: https://open.spotify.com/artist/4msUuX6Yw1OghFQ2T5LB6R
-  wikipedia: https://en.wikipedia.org/wiki/Gregory_Tardy
+  spotify: 'https://open.spotify.com/artist/4msUuX6Yw1OghFQ2T5LB6R'
+  wikipedia: 'https://en.wikipedia.org/wiki/Gregory_Tardy'
 image_path: ''
 biography_enhanced_at: '2025-11-27T06:25:03.257662'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Gregory Tardy
-- gregorytardy.com - Biography
-- South Arts - Grant Fellowship Recipients
-- Calvin Institute of Christian Worship
-- University of Tennessee–Knoxville
-- B.H. Hopper Management
-- All About Jazz
-- Record Net
+  - Wikipedia - Gregory Tardy
+  - gregorytardy.com - Biography
+  - South Arts - Grant Fellowship Recipients
+  - Calvin Institute of Christian Worship
+  - University of Tennessee–Knoxville
+  - B.H. Hopper Management
+  - All About Jazz
+  - Record Net
 network_extracted: true
 entry_created: '2025-11-27T06:25:03.257680'
 last_updated: '2025-12-23T08:16:09.345109'
+birth_date: '1966-02-03'
+artist_type: person
 ---
 
 ![]()

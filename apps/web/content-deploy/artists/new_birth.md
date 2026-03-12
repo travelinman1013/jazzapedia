@@ -4,7 +4,7 @@ wiki_slug: new-birth
 schema_version: 2
 status: active
 genres:
-- quiet storm
+  - quiet storm
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/new_birth.jpg
   caption: New Birth
@@ -24,56 +24,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Nite-Liters
-  - Love, Peace & Happiness (Ann Bogan, Leslie Wilson, Melvin Wilson)
-  - The Now Sound
-  - Mint Julep (also styled Mint Juleps)
-  - Jerry Bell
-  - Marvin Gaye (projected collaboration)
+    - The Nite-Liters
+    - 'Love, Peace & Happiness (Ann Bogan, Leslie Wilson, Melvin Wilson)'
+    - The Now Sound
+    - Mint Julep (also styled Mint Juleps)
+    - Jerry Bell
+    - Marvin Gaye (projected collaboration)
   influenced:
-  - Reggie Sears
-  - Ali "Ollie" Woodson (The Temptations)
-  - K-Ci & JoJo
-  - The Notorious B.I.G., De La Soul, Something for the People
+    - Reggie Sears
+    - Ali "Ollie" Woodson (The Temptations)
+    - K-Ci & JoJo
+    - 'The Notorious B.I.G., De La Soul, Something for the People'
   mentors:
-  - Harvey Fuqua
-  - Vernon Bullock
-  - Motown / classic soul tradition
+    - Harvey Fuqua
+    - Vernon Bullock
+    - Motown / classic soul tradition
 spotify_data:
   followers: 158101
   id: 34Bm9d5DAJjSnaI02BCjdA
   popularity: 34
-  url: https://open.spotify.com/artist/34Bm9d5DAJjSnaI02BCjdA
+  url: 'https://open.spotify.com/artist/34Bm9d5DAJjSnaI02BCjdA'
 discography_enriched: true
 top_tracks:
-- Wild Flower (It's Been a Long Time)
-- It's Been a Long Time (It's Been a Long Time)
-- Wild Flower
-- Don't Get It Twisted (Conversation)
-- Dream Merchant
-- I Can Understand It (Birth Day)
-- It's Impossible
-- You Don't Have to Be Alone (The New Birth)
-- You Are What I'm All About (Birth Day)
-- Until It's Time for You to Go (Birth Day)
+  - Wild Flower (It's Been a Long Time)
+  - It's Been a Long Time (It's Been a Long Time)
+  - Wild Flower
+  - Don't Get It Twisted (Conversation)
+  - Dream Merchant
+  - I Can Understand It (Birth Day)
+  - It's Impossible
+  - You Don't Have to Be Alone (The New Birth)
+  - You Are What I'm All About (Birth Day)
+  - Until It's Time for You to Go (Birth Day)
 external_urls:
-  spotify: https://open.spotify.com/artist/34Bm9d5DAJjSnaI02BCjdA
-  wikipedia: https://en.wikipedia.org/wiki/New_Birth_(band)
+  spotify: 'https://open.spotify.com/artist/34Bm9d5DAJjSnaI02BCjdA'
+  wikipedia: 'https://en.wikipedia.org/wiki/New_Birth_(band)'
 image_path: 03_Resources/source_material/ArtistPortraits/new_birth.jpg
 biography_enhanced_at: '2025-12-07T04:59:19.980873'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Soulwalking – New Birth profile[1]
-- IMDb – The New Birth biography[2]
-- Jerry Bell Music – History of New Birth / Nite-Liters[3]
-- AllMusic – New Birth artist page[4]
-- Last.fm – New Birth biography[6]
+  - 'Soulwalking – New Birth profile[1]'
+  - 'IMDb – The New Birth biography[2]'
+  - 'Jerry Bell Music – History of New Birth / Nite-Liters[3]'
+  - 'AllMusic – New Birth artist page[4]'
+  - 'Last.fm – New Birth biography[6]'
 network_extracted: true
 entry_created: '2025-12-07T04:59:19.980885'
 last_updated: '2025-12-23T08:16:13.502267'
-origin: Louisville, Kentucky, United States (core instrumental origin as the Nite-Liters); Detroit, Michigan, United States (key vocal additions and later formation context)
-
+origin: >-
+  Louisville, Kentucky, United States (core instrumental origin as the
+  Nite-Liters); Detroit, Michigan, United States (key vocal additions and later
+  formation context)
+artist_type: band
 ---
 
 ![](new_birth.jpg)

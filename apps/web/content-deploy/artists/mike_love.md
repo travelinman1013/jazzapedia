@@ -4,10 +4,10 @@ wiki_slug: mike-love
 schema_version: 2
 artist_type: person
 status: active
-birth_place: Hawaii
+birth_place: 'Hawaii, United States'
 genres:
-- reggae
-- roots reggae
+  - reggae
+  - roots reggae
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/mike_love.jpg
   caption: Mike Love
@@ -28,54 +28,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tavana
-  - Brad Watanabe
-  - Sam Gonsalves
-  - Dubkonscious
-  - The Full Circle
+    - Tavana
+    - Brad Watanabe
+    - Sam Gonsalves
+    - Dubkonscious
+    - The Full Circle
   influenced: []
   mentors:
-  - Bob Marley
-  - Jimmy Cliff
-  - Gregory Isaacs
-  - The Abyssinians
-  - The Congos
+    - Bob Marley
+    - Jimmy Cliff
+    - Gregory Isaacs
+    - The Abyssinians
+    - The Congos
 spotify_data:
   followers: 198555
   id: 2sgVQmhRbgSEe47A1bJRrC
   popularity: 44
-  url: https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC
+  url: 'https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC'
 discography_enriched: true
 top_tracks:
-- Permanent Holiday (The Change I'm Seeking)
-- These Are My Roots
-- Life by the Drop
-- Barbershop (The Change I'm Seeking)
-- I Love You (Love Will Find a Way)
-- Movin' on (The Change I'm Seeking)
-- Heavy Load (7)
-- Jah Is Real
-- Good News (Love Will Find a Way)
-- Human Race (The Change I'm Seeking)
+  - Permanent Holiday (The Change I'm Seeking)
+  - These Are My Roots
+  - Life by the Drop
+  - Barbershop (The Change I'm Seeking)
+  - I Love You (Love Will Find a Way)
+  - Movin' on (The Change I'm Seeking)
+  - Heavy Load (7)
+  - Jah Is Real
+  - Good News (Love Will Find a Way)
+  - Human Race (The Change I'm Seeking)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/74e9a1a0-da4c-43fd-a2ab-d4c607a74aa4
-  spotify: https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC
-  wikipedia: https://en.wikipedia.org/wiki/Mike_Love_(reggae_musician)
+  musicbrainz: 'https://musicbrainz.org/artist/74e9a1a0-da4c-43fd-a2ab-d4c607a74aa4'
+  spotify: 'https://open.spotify.com/artist/2sgVQmhRbgSEe47A1bJRrC'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mike_Love_(reggae_musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/mike_love.jpg
 biography_enhanced_at: '2025-12-04T08:19:35.009341'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.reggaeville.com/artist-details/mike-love/about/
-- https://supportlocalhawaii.com/listing/mike-love/
-- https://en.wikipedia.org/wiki/Mike_Love_(reggae_musician)
-- https://mikelovemusic.com/about
-- https://www.dailyreggae.com/artist-profiles/mike-loves-journey-to-becoming-a-must-see-reggae-musician
-- https://playingforchange.com/artists/mike-love
-- https://mokbpresents.com/artist/mike-love/
-- https://www.laketahoereggaefest.com/mike-love/
-- https://wanderlust.com/journal/mindful-music-mike-love/
-- https://submergemag.com/music/mike-love/
+  - 'https://www.reggaeville.com/artist-details/mike-love/about/'
+  - 'https://supportlocalhawaii.com/listing/mike-love/'
+  - 'https://en.wikipedia.org/wiki/Mike_Love_(reggae_musician)'
+  - 'https://mikelovemusic.com/about'
+  - >-
+    https://www.dailyreggae.com/artist-profiles/mike-loves-journey-to-becoming-a-must-see-reggae-musician
+  - 'https://playingforchange.com/artists/mike-love'
+  - 'https://mokbpresents.com/artist/mike-love/'
+  - 'https://www.laketahoereggaefest.com/mike-love/'
+  - 'https://wanderlust.com/journal/mindful-music-mike-love/'
+  - 'https://submergemag.com/music/mike-love/'
 network_extracted: true
 entry_created: '2025-12-04T08:19:35.009350'
 last_updated: '2025-12-23T08:16:13.145390'
@@ -83,7 +84,7 @@ disambiguation: reggae
 gender: Male
 musicbrainz_id: 74e9a1a0-da4c-43fd-a2ab-d4c607a74aa4
 tags:
-- reggae
+  - reggae
 ---
 
 ![](mike_love.jpg)

@@ -1,98 +1,100 @@
 ---
 artist_type: person
 associated_acts:
-- begin: 1964-12
-  end: 1965-03
-  instruments:
+  - begin: 1964-12
+    end: 1965-03
+    instruments:
+      - bass guitar
+      - guitar
+      - keyboard
+      - lead vocals
+    mbid: ebfc1398-8d96-47e3-82c3-f782abcdb13d
+    name: The Beach Boys
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b6deb97c-788a-4919-bae7-13494abbc483
+    name: The Gee Cees
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bbaa7a18-98ff-4540-9973-8f8340a83d3b
+    name: The Champs
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 954dbe9d-5aa3-4ff3-b7b6-96825ba29700
+    name: The Trophies
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7cf79157-aea9-43b6-bea5-bffd40cb6ea7
+    name: The Keestone Family Singers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e076e508-38de-49a8-9b21-3dba3a47286d
+    name: The Glaciers
+biography_enhanced_at: '2025-12-29T01:17:14.041814'
+birth_date: '1936-04-22'
+birth_place: 'Delight, Arkansas, United States'
+death_date: '2017-08-08'
+disambiguation: 'US country singer, guitarist & actor'
+enhancement_provider: perplexity
+entry_created: '2025-12-29T01:17:14.041826'
+external_urls:
+  musicbrainz: 'https://musicbrainz.org/artist/57976431-1a5c-4968-a422-b92c5e9b0d4f'
+  spotify: 'https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U'
+  wikipedia: 'https://en.wikipedia.org/wiki/Glen_Campbell'
+gender: Male
+genres:
+  - classic country
+image_path: 03_Resources/source_material/ArtistPortraits/glen_campbell.jpg
+instruments:
   - bass guitar
   - guitar
   - keyboard
   - lead vocals
-  mbid: ebfc1398-8d96-47e3-82c3-f782abcdb13d
-  name: The Beach Boys
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b6deb97c-788a-4919-bae7-13494abbc483
-  name: The Gee Cees
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bbaa7a18-98ff-4540-9973-8f8340a83d3b
-  name: The Champs
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: 954dbe9d-5aa3-4ff3-b7b6-96825ba29700
-  name: The Trophies
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7cf79157-aea9-43b6-bea5-bffd40cb6ea7
-  name: The Keestone Family Singers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e076e508-38de-49a8-9b21-3dba3a47286d
-  name: The Glaciers
-biography_enhanced_at: '2025-12-29T01:17:14.041814'
-birth_date: '1936-04-22'
-birth_place: Delight
-death_date: '2017-08-08'
-disambiguation: US country singer, guitarist & actor
-enhancement_provider: perplexity
-entry_created: '2025-12-29T01:17:14.041826'
-external_urls:
-  musicbrainz: https://musicbrainz.org/artist/57976431-1a5c-4968-a422-b92c5e9b0d4f
-  spotify: https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U
-  wikipedia: https://en.wikipedia.org/wiki/Glen_Campbell
-gender: Male
-genres:
-- classic country
-image_path: 03_Resources/source_material/ArtistPortraits/glen_campbell.jpg
-instruments:
-- bass guitar
-- guitar
-- keyboard
-- lead vocals
-- electric bass guitar
-- acoustic guitar
-- 12 string guitar
-- electric guitar
-- background vocals
+  - electric bass guitar
+  - acoustic guitar
+  - 12 string guitar
+  - electric guitar
+  - background vocals
 last_updated: '2025-12-29T01:17:14.041827'
 musical_connections:
   collaborators:
-  - Wrecking Crew (Leon Russell, Hal Blaine, Earl Palmer)
-  - Jimmy Webb
-  - Beach Boys
+    - 'Wrecking Crew (Leon Russell, Hal Blaine, Earl Palmer)'
+    - Jimmy Webb
+    - Beach Boys
   influenced:
-  - Vince Gill
-  - Garth Brooks
-  - Alan Jackson
+    - Vince Gill
+    - Garth Brooks
+    - Alan Jackson
   mentors:
-  - Phil Spector
+    - Phil Spector
 musicbrainz_id: 57976431-1a5c-4968-a422-b92c5e9b0d4f
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.glencampbell.com/about/
-- https://www.britannica.com/biography/Glen-Campbell
-- https://www.biography.com/musicians/glen-campbell
-- https://www.ebsco.com/research-starters/biography/glen-campbell
-- https://www.countrymusichalloffame.org/artist/glen-campbell
+  - 'https://www.glencampbell.com/about/'
+  - 'https://www.britannica.com/biography/Glen-Campbell'
+  - 'https://www.biography.com/musicians/glen-campbell'
+  - 'https://www.ebsco.com/research-starters/biography/glen-campbell'
+  - 'https://www.countrymusichalloffame.org/artist/glen-campbell'
 spotify_data:
   followers: 608352
   id: 59hLmB5DrdihCYtNeFeW1U
   popularity: 63
-  url: https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U
+  url: 'https://open.spotify.com/artist/59hLmB5DrdihCYtNeFeW1U'
 status: active
 tags:
-- 2008 universal fire victim
-- baroque pop
-- country
+  - 2008 universal fire victim
+  - baroque pop
+  - country
 title: Glen Campbell
+is_active: false
+origin: 'Albuquerque, New Mexico, United States'
 ---
 
 ![](glen_campbell.jpg)

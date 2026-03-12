@@ -1,48 +1,50 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-16T01:43:22.840896'
-birth_place: Clarksdale, Mississippi, USA
+birth_place: 'Clarksdale, Mississippi, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-16T01:43:22.840902'
 external_urls:
-  spotify: https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R
+  spotify: 'https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R'
   wikipedia: ''
 genres:
-- blues
-- classic blues
-- blues rock
-- soul blues
-- country blues
+  - blues
+  - classic blues
+  - blues rock
+  - soul blues
+  - country blues
 image_path: 03_Resources/source_material/ArtistPortraits/muddy_waters_w_earl_hooker.jpg
 last_updated: '2026-01-16T01:43:22.840902'
 musical_connections:
   collaborators:
-  - Muddy Waters
-  - Junior Wells
-  - Willie Dixon
-  - John Lee Hooker
-  - Magic Sam
+    - Muddy Waters
+    - Junior Wells
+    - Willie Dixon
+    - John Lee Hooker
+    - Magic Sam
   influenced:
-  - Muddy Waters
-  - Led Zeppelin
+    - Muddy Waters
+    - Led Zeppelin
   mentors:
-  - Robert Lockwood Jr.
-  - Sonny Boy Williamson
+    - Robert Lockwood Jr.
+    - Sonny Boy Williamson
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.vintageguitar.com/40622/fretprints-earl-hooker/
-- https://www.knkx.org/blues/2024-01-19/listen-for-guitarist-earl-hookers-sound-on-these-blues-standards
-- https://bigtrainblues.com/muddy-waters/
-- https://www.bluesway.gr/2018/12/muddy-waters.html
-- https://www.wirz.de/music/hookearl.htm
+  - 'https://www.vintageguitar.com/40622/fretprints-earl-hooker/'
+  - >-
+    https://www.knkx.org/blues/2024-01-19/listen-for-guitarist-earl-hookers-sound-on-these-blues-standards
+  - 'https://bigtrainblues.com/muddy-waters/'
+  - 'https://www.bluesway.gr/2018/12/muddy-waters.html'
+  - 'https://www.wirz.de/music/hookearl.htm'
 spotify_data:
   followers: 1362677
   id: 4y6J8jwRAwO4dssiSmN91R
   popularity: 56
-  url: https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R
+  url: 'https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R'
 status: active
-title: muddy waters w earl hooker
+title: Muddy Waters W Earl Hooker
+birth_date: '1929-01-15'
 ---
 
 ![](muddy_waters_w_earl_hooker.jpg)

@@ -1,23 +1,23 @@
 ---
-title: LIL GREEN
+title: Lil Green
 wiki_slug: lil-green
 schema_version: 2
 status: active
-birth_place: Mississippi (exact city disputed), United States
+birth_place: 'Mississippi (exact city disputed), United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lil_green.jpg
   caption: LIL GREEN
   background: solo_singer
-  origin: Mississippi (exact city disputed), United States
+  origin: 'Mississippi (exact city disputed), United States'
 audio_profile:
-  tempo_avg: 97.0
+  tempo_avg: 97
   energy_avg: 0.489
   valence_avg: 0.401
   danceability_avg: 0.655
   acousticness_avg: 0.266
-  instrumentalness_avg: 0.0
-  loudness_avg: -12.0
+  instrumentalness_avg: 0
+  loudness_avg: -12
   speechiness_avg: 0.332
   liveness_avg: 0.106
   track_count: 9
@@ -25,48 +25,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Big Bill Broonzy
-  - Tiny Bradshaw
-  - Simeon Henry and Ransom Knowling
+    - Big Bill Broonzy
+    - Tiny Bradshaw
+    - Simeon Henry and Ransom Knowling
   influenced:
-  - Peggy Lee
-  - Dinah Washington
-  - Nina Simone
+    - Peggy Lee
+    - Dinah Washington
+    - Nina Simone
   mentors:
-  - Church gospel tradition
+    - Church gospel tradition
 spotify_data:
   followers: 1023
   id: 4YDhPM0JeitjLK7GneceWv
   popularity: 23
-  url: https://open.spotify.com/artist/4YDhPM0JeitjLK7GneceWv
+  url: 'https://open.spotify.com/artist/4YDhPM0JeitjLK7GneceWv'
 discography_enriched: true
 top_tracks:
-- Menace to society (Menace to society)
-- No Hook (No Hook)
-- What U bout (What U bout)
-- Ona East (Ona East)
-- Aboys (Aboys)
-- Peep hole (Peep hole)
-- Light em up (Light em up)
-- Strictly AB's (Strictly AB's)
-- Trippin (Trippin)
+  - Menace to society (Menace to society)
+  - No Hook (No Hook)
+  - What U bout (What U bout)
+  - Ona East (Ona East)
+  - Aboys (Aboys)
+  - Peep hole (Peep hole)
+  - Light em up (Light em up)
+  - Strictly AB's (Strictly AB's)
+  - Trippin (Trippin)
 external_urls:
-  spotify: https://open.spotify.com/artist/4YDhPM0JeitjLK7GneceWv
-  wikipedia: https://en.wikipedia.org/wiki/Lil_Green
+  spotify: 'https://open.spotify.com/artist/4YDhPM0JeitjLK7GneceWv'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lil_Green'
 image_path: 03_Resources/source_material/ArtistPortraits/lil_green.jpg
 biography_enhanced_at: '2025-11-11T09:22:47.829321'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Lil_Green
-- https://kids.kiddle.co/Lil_Green
-- https://msbluestrail.org/blues-trail-markers/lil-green
-- https://allaboutjazz.com/musicians/lillian-lil-green/
-- https://aaregistry.org/story/lillian-green-blues-singer-born/
-- https://bigtrainblues.com/lil-green/
+  - 'https://en.wikipedia.org/wiki/Lil_Green'
+  - 'https://kids.kiddle.co/Lil_Green'
+  - 'https://msbluestrail.org/blues-trail-markers/lil-green'
+  - 'https://allaboutjazz.com/musicians/lillian-lil-green/'
+  - 'https://aaregistry.org/story/lillian-green-blues-singer-born/'
+  - 'https://bigtrainblues.com/lil-green/'
 network_extracted: true
 entry_created: '2025-11-11T09:22:47.829331'
 last_updated: '2025-12-23T08:16:11.921441'
+origin: 'Mississippi, United States'
+artist_type: person
 ---
 
 ![](lil_green.jpg)

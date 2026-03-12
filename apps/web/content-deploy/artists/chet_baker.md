@@ -1,20 +1,20 @@
 ---
-title: chet baker
+title: Chet Baker
 wiki_slug: chet-baker
 schema_version: 2
 status: active
-birth_place: Yale, Oklahoma, United States
+birth_place: 'Yale, Oklahoma, United States'
 genres:
-- jazz
-- cool jazz
-- vocal jazz
+  - jazz
+  - cool jazz
+  - vocal jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/chet_baker.jpg
   caption: chet baker
   background: solo_singer
-  origin: Yale, Oklahoma, United States
+  origin: 'Yale, Oklahoma, United States'
 audio_profile:
-  tempo_avg: 104.0
+  tempo_avg: 104
   energy_avg: 0.149
   valence_avg: 0.326
   danceability_avg: 0.497
@@ -28,48 +28,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Gerry Mulligan
-  - Russ Freeman
-  - Art Pepper
-  - Stan Getz
+    - Gerry Mulligan
+    - Russ Freeman
+    - Art Pepper
+    - Stan Getz
   influenced:
-  - Elvis Costello
-  - Till Brönner
-  - Chris Botti
+    - Elvis Costello
+    - Till Brönner
+    - Chris Botti
   mentors:
-  - Charlie Parker
+    - Charlie Parker
 spotify_data:
   followers: 1329289
   id: 3rxeQlsv0Sc2nyYaZ5W71T
   popularity: 64
-  url: https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T
+  url: 'https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T'
 discography_enriched: true
 top_tracks:
-- I Fall In Love Too Easily (Chet Baker Sings)
-- My Funny Valentine (Chet Baker Sings)
-- But Not For Me - Vocal Version (Chet Baker Sings)
-- I Get Along Without You Very Well (Except Sometimes) - Vocal Version (Chet Baker Sings)
-- It's Always You - Vocal Version (Chet Baker Sings)
-- Time After Time - Vocal Version (Chet Baker Sings)
-- That Old Feeling (Chet Baker Sings)
-- There Will Never Be Another You - Vocal Version (Chet Baker Sings)
-- Let's Get Lost (Chet Baker Sings And Plays (Remastered 2004))
-- Autumn Leaves (Jazz Moods - Cool)
+  - I Fall In Love Too Easily (Chet Baker Sings)
+  - My Funny Valentine (Chet Baker Sings)
+  - But Not For Me - Vocal Version (Chet Baker Sings)
+  - >-
+    I Get Along Without You Very Well (Except Sometimes) - Vocal Version (Chet
+    Baker Sings)
+  - It's Always You - Vocal Version (Chet Baker Sings)
+  - Time After Time - Vocal Version (Chet Baker Sings)
+  - That Old Feeling (Chet Baker Sings)
+  - There Will Never Be Another You - Vocal Version (Chet Baker Sings)
+  - Let's Get Lost (Chet Baker Sings And Plays (Remastered 2004))
+  - Autumn Leaves (Jazz Moods - Cool)
 external_urls:
-  spotify: https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T
-  wikipedia: https://en.wikipedia.org/wiki/Chet_Baker
+  spotify: 'https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T'
+  wikipedia: 'https://en.wikipedia.org/wiki/Chet_Baker'
 image_path: 03_Resources/source_material/ArtistPortraits/chet_baker.jpg
 biography_enhanced_at: '2025-10-22T09:31:24.846346'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Chet_Baker
-- https://www.okhistory.org/publications/enc/entry?entry=BA007
-- https://www.everythingjazz.com/story/the-bittersweet-life-of-chet-baker/
-- https://www.jazzstandards.com/biographies/biography_2096.htm
+  - 'https://en.wikipedia.org/wiki/Chet_Baker'
+  - 'https://www.okhistory.org/publications/enc/entry?entry=BA007'
+  - 'https://www.everythingjazz.com/story/the-bittersweet-life-of-chet-baker/'
+  - 'https://www.jazzstandards.com/biographies/biography_2096.htm'
 network_extracted: true
 entry_created: '2025-10-22T09:31:24.846356'
 last_updated: '2025-12-23T08:16:06.806531'
+birth_date: '1929-12-23'
+death_date: '1988-05-13'
+artist_type: person
 ---
 
 ![](chet_baker.jpg)

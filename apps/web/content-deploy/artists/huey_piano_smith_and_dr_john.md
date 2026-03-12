@@ -3,15 +3,16 @@ title: Huey Piano Smith & dr john
 wiki_slug: huey-piano-smith-dr-john
 schema_version: 2
 status: active
-birth_place: Central City neighborhood, New Orleans, Louisiana, USA
+birth_place: 'Central City neighborhood, New Orleans, Louisiana, USA'
 genres:
-- zydeco
-- modern blues
+  - zydeco
+  - modern blues
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/huey_piano_smith_and_dr_john.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/huey_piano_smith_and_dr_john.jpg
   caption: Huey Piano Smith & dr john
   background: solo_singer
-  origin: Central City neighborhood, New Orleans, Louisiana, USA
+  origin: 'Central City neighborhood, New Orleans, Louisiana, USA'
 audio_profile:
   tempo_avg: 127.7
   energy_avg: 0.62
@@ -27,54 +28,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Guitar Slim (Eddie Jones)
-  - Bobby Marchan
-  - Dr. John (Mac Rebennack)
-  - '''Scarface'' John Williams'
-  - Sidney Rayfield
-  - Little Richard
-  - Earl King
-  - Smiley Lewis
+    - Guitar Slim (Eddie Jones)
+    - Bobby Marchan
+    - Dr. John (Mac Rebennack)
+    - '''Scarface'' John Williams'
+    - Sidney Rayfield
+    - Little Richard
+    - Earl King
+    - Smiley Lewis
   influenced:
-  - Dr. John (Mac Rebennack)
+    - Dr. John (Mac Rebennack)
   mentors:
-  - Professor Longhair
-  - Pete Johnson
-  - Meade Lux Lewis
-  - Albert Ammons
-  - Jelly Roll Morton
-  - Fats Domino
+    - Professor Longhair
+    - Pete Johnson
+    - Meade Lux Lewis
+    - Albert Ammons
+    - Jelly Roll Morton
+    - Fats Domino
 spotify_data:
   followers: 309
   id: 7CQKp9F1czwTMt4Wy2TtkL
   popularity: 6
-  url: https://open.spotify.com/artist/7CQKp9F1czwTMt4Wy2TtkL
+  url: 'https://open.spotify.com/artist/7CQKp9F1czwTMt4Wy2TtkL'
 discography_enriched: true
 top_tracks:
-- Free, Single and Disengaged (For Dancing)
-- Tu-Ber-Cu-Lucas and the Sinus Blues (For Dancing)
-- 'The Second Line (More of the Best: Havin'' Fun)'
-- 'Baby You Belong to Me (More of the Best: Havin'' Fun)'
-- 'If It Ain''t One Thing, It''s Another (More of the Best: Havin'' Fun)'
-- 'At the Mardi Gras (More of the Best: Havin'' Fun)'
-- 'I Didn''t Do It (More of the Best: Havin'' Fun)'
-- She Got Low Down (For Dancing)
-- Rockin' Behind Then Iron Curtain (For Dancing)
-- Somebody Put a Tack (In My Cotton Pickin' Chair) (For Dancing)
+  - 'Free, Single and Disengaged (For Dancing)'
+  - Tu-Ber-Cu-Lucas and the Sinus Blues (For Dancing)
+  - 'The Second Line (More of the Best: Havin'' Fun)'
+  - 'Baby You Belong to Me (More of the Best: Havin'' Fun)'
+  - 'If It Ain''t One Thing, It''s Another (More of the Best: Havin'' Fun)'
+  - 'At the Mardi Gras (More of the Best: Havin'' Fun)'
+  - 'I Didn''t Do It (More of the Best: Havin'' Fun)'
+  - She Got Low Down (For Dancing)
+  - Rockin' Behind Then Iron Curtain (For Dancing)
+  - Somebody Put a Tack (In My Cotton Pickin' Chair) (For Dancing)
 external_urls:
-  spotify: https://open.spotify.com/artist/7CQKp9F1czwTMt4Wy2TtkL
-  wikipedia: https://en.wikipedia.org/wiki/Huey_%22Piano%22_Smith
+  spotify: 'https://open.spotify.com/artist/7CQKp9F1czwTMt4Wy2TtkL'
+  wikipedia: 'https://en.wikipedia.org/wiki/Huey_%22Piano%22_Smith'
 image_path: 03_Resources/source_material/ArtistPortraits/huey_piano_smith_and_dr_john.jpg
 biography_enhanced_at: '2025-12-20T01:21:56.899753'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Huey_%22Piano%22_Smith
-- https://ultimateclassicrock.com/huey-piano-smith-dead/
-- https://robertchristgau.substack.com/p/the-big-lookback-huey-piano-smith
+  - 'https://en.wikipedia.org/wiki/Huey_%22Piano%22_Smith'
+  - 'https://ultimateclassicrock.com/huey-piano-smith-dead/'
+  - 'https://robertchristgau.substack.com/p/the-big-lookback-huey-piano-smith'
 network_extracted: true
 entry_created: '2025-12-20T01:21:56.899764'
 last_updated: '2025-12-23T08:16:09.746937'
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1934-01-26'
+death_date: '2023-02-13'
+artist_type: band
 ---
 
 ![](huey_piano_smith_and_dr_john.jpg)

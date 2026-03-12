@@ -1,17 +1,17 @@
 ---
-title: oscar brown,jr.
+title: 'Oscar Brown, Jr.'
 wiki_slug: oscar-brownjr
 schema_version: 2
 status: active
-birth_place: Chicago, Illinois, United States
+birth_place: 'Chicago, Illinois, United States'
 genres:
-- vocal jazz
-- soul jazz
+  - vocal jazz
+  - soul jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/oscar_brownjr.jpg
-  caption: oscar brown,jr.
+  caption: 'oscar brown,jr.'
   background: solo_singer
-  origin: Chicago, Illinois, United States
+  origin: 'Chicago, Illinois, United States'
 audio_profile:
   tempo_avg: 108.1
   energy_avg: 0.412
@@ -27,43 +27,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Max Roach
-  - Mahalia Jackson
+    - Max Roach
+    - Mahalia Jackson
   influenced:
-  - The Jackson 5
+    - The Jackson 5
   mentors:
-  - Studs Terkel
+    - Studs Terkel
 spotify_data:
   followers: 13711
   id: 4tlPDFGdI3IwmwpGgW0Aza
   popularity: 26
-  url: https://open.spotify.com/artist/4tlPDFGdI3IwmwpGgW0Aza
+  url: 'https://open.spotify.com/artist/4tlPDFGdI3IwmwpGgW0Aza'
 discography_enriched: true
 top_tracks:
-- Brother Where Are You - Matthew Herbert Remix
-- Laia Ladaia (Finding A New Friend)
-- Brother Where Are You? (Mr. Oscar Brown Jr. Goes To Washington)
-- Work Song (Sin & Soul... And Then Some)
-- Dat Dere (Sin & Soul... And Then Some)
-- But I Was Cool (Sin & Soul... And Then Some)
-- Humdrum Blues (Sin & Soul... And Then Some)
-- The Snake (Tells It Like It Is!)
-- Dat Dere (Sin & Soul... And Then Some)
-- Work Song (Sin & Soul... And Then Some)
+  - Brother Where Are You - Matthew Herbert Remix
+  - Laia Ladaia (Finding A New Friend)
+  - Brother Where Are You? (Mr. Oscar Brown Jr. Goes To Washington)
+  - Work Song (Sin & Soul... And Then Some)
+  - Dat Dere (Sin & Soul... And Then Some)
+  - But I Was Cool (Sin & Soul... And Then Some)
+  - Humdrum Blues (Sin & Soul... And Then Some)
+  - The Snake (Tells It Like It Is!)
+  - Dat Dere (Sin & Soul... And Then Some)
+  - Work Song (Sin & Soul... And Then Some)
 external_urls:
-  spotify: https://open.spotify.com/artist/4tlPDFGdI3IwmwpGgW0Aza
-  wikipedia: https://en.wikipedia.org/wiki/Oscar_Brown
+  spotify: 'https://open.spotify.com/artist/4tlPDFGdI3IwmwpGgW0Aza'
+  wikipedia: 'https://en.wikipedia.org/wiki/Oscar_Brown'
 image_path: 03_Resources/source_material/ArtistPortraits/oscar_brownjr.jpg
 biography_enhanced_at: '2025-10-20T09:29:40.730609'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Oscar_Brown
-- https://www.oscarbrownjr.org/about
-- https://www.allaboutjazz.com/musicians/oscar-brown-jr/
+  - 'https://en.wikipedia.org/wiki/Oscar_Brown'
+  - 'https://www.oscarbrownjr.org/about'
+  - 'https://www.allaboutjazz.com/musicians/oscar-brown-jr/'
 network_extracted: true
 entry_created: '2025-10-20T09:29:40.730623'
 last_updated: '2025-12-23T08:16:13.825988'
+birth_date: '1926-10-10'
+death_date: '2005-05-29'
+artist_type: person
 ---
 
 ![](oscar_brownjr.jpg)

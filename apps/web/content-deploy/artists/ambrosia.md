@@ -1,113 +1,116 @@
 ---
-artist_type: band
+artist_type: person
 biography_enhanced_at: '2026-01-13T01:16:46.600855'
 birth_date: '1970'
 disambiguation: L.A. prog rock band
 enhancement_provider: perplexity
 entry_created: '2026-01-13T01:16:46.600861'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1fbed090-3b82-4766-b1e8-abab89e47417
-  spotify: https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw
+  musicbrainz: 'https://musicbrainz.org/artist/1fbed090-3b82-4766-b1e8-abab89e47417'
+  spotify: 'https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw'
   wikipedia: ''
 formation_year: 1970
 genres:
-- yacht rock
-- soft rock
+  - yacht rock
+  - soft rock
 image_path: 03_Resources/source_material/ArtistPortraits/ambrosia.jpg
 instruments:
-- original
+  - original
 is_active: true
 last_updated: '2026-01-13T01:16:46.600861'
 members:
-- begin: '1975-01-01'
-  end: '1983-01-01'
-  instruments: []
-  mbid: e1c41ec2-7713-4f17-a19b-00814c573600
-  name: David Pack
-- begin: '1977'
-  end: '1983'
-  instruments: []
-  mbid: fad29495-76f0-4743-934e-469664801e41
-  name: David C. Lewis
-- begin: '1989'
-  end: '2004'
-  instruments: []
-  mbid: a5b6bb44-30b0-46c2-b5cb-98424318cc58
-  name: Tollak Ollestad
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 78c4a733-0088-44d3-97f5-a5666aea9ac2
-  name: Robert Berry
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: a4066d36-1120-438e-8a08-935cdba86f5e
-  name: Burleigh Drummond
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 93fe0f52-1221-4508-a00d-3ab799356de4
-  name: Mary Harris-Drummond
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 44d42600-ee77-4cad-b1e8-92ef442e3db3
-  name: Christopher North
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: f7259545-0901-4832-937b-d60b7f99be62
-  name: Joe Puerta
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 15c0f3d6-492f-4399-b468-af703e51ac21
-  name: Ken Stacey
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2570436e-211f-4d77-95db-38609364a8a7
-  name: Shem von Schroeck
+  - begin: '1975-01-01'
+    end: '1983-01-01'
+    instruments: []
+    mbid: e1c41ec2-7713-4f17-a19b-00814c573600
+    name: David Pack
+  - begin: '1977'
+    end: '1983'
+    instruments: []
+    mbid: fad29495-76f0-4743-934e-469664801e41
+    name: David C. Lewis
+  - begin: '1989'
+    end: '2004'
+    instruments: []
+    mbid: a5b6bb44-30b0-46c2-b5cb-98424318cc58
+    name: Tollak Ollestad
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 78c4a733-0088-44d3-97f5-a5666aea9ac2
+    name: Robert Berry
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: a4066d36-1120-438e-8a08-935cdba86f5e
+    name: Burleigh Drummond
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 93fe0f52-1221-4508-a00d-3ab799356de4
+    name: Mary Harris-Drummond
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 44d42600-ee77-4cad-b1e8-92ef442e3db3
+    name: Christopher North
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: f7259545-0901-4832-937b-d60b7f99be62
+    name: Joe Puerta
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 15c0f3d6-492f-4399-b468-af703e51ac21
+    name: Ken Stacey
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2570436e-211f-4d77-95db-38609364a8a7
+    name: Shem von Schroeck
 musical_connections:
   collaborators:
-  - Joe Puerta
-  - Burleigh Drummond
-  - Christopher North
-  - Bruce Hornsby
-  - Michael McDonald
+    - Joe Puerta
+    - Burleigh Drummond
+    - Christopher North
+    - Bruce Hornsby
+    - Michael McDonald
   influenced:
-  - Bruce Hornsby
+    - Bruce Hornsby
   mentors:
-  - Alan Parsons
-  - Freddie Piro
-  - James Guthrie
+    - Alan Parsons
+    - Freddie Piro
+    - James Guthrie
 musicbrainz_id: 1fbed090-3b82-4766-b1e8-abab89e47417
 network_extracted: true
-origin: Los Angeles
+origin: 'Los Angeles, California, United States'
 primary_source: perplexity
 research_sources:
-- https://www.davidpack.com/bio
-- https://mainstreetcrossing.com/standing-room-only-ambrosias-divine-and-enduring-rock/
-- https://www.last.fm/music/Ambrosia/+wiki
-- https://rockandromancecruise.com/artists/ambrosia/
-- https://www.westword.com/music/70s-rock-band-ambrosia-still-knows-how-to-groove-17359224/
-- http://david-pack-zi3r.squarespace.com/ambrosia-long-bio
-- https://www.manisteenews.com/entertainment/article/Ambrosia-going-strong-nearly-50-years-later-14479116.php
-- https://simple.wikipedia.org/wiki/Ambrosia_(band)
+  - 'https://www.davidpack.com/bio'
+  - >-
+    https://mainstreetcrossing.com/standing-room-only-ambrosias-divine-and-enduring-rock/
+  - 'https://www.last.fm/music/Ambrosia/+wiki'
+  - 'https://rockandromancecruise.com/artists/ambrosia/'
+  - >-
+    https://www.westword.com/music/70s-rock-band-ambrosia-still-knows-how-to-groove-17359224/
+  - 'http://david-pack-zi3r.squarespace.com/ambrosia-long-bio'
+  - >-
+    https://www.manisteenews.com/entertainment/article/Ambrosia-going-strong-nearly-50-years-later-14479116.php
+  - 'https://simple.wikipedia.org/wiki/Ambrosia_(band)'
 spotify_data:
   followers: 436506
   id: 0J2Ej2rMQyqaUX3G6MUISw
   popularity: 57
-  url: https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw
+  url: 'https://open.spotify.com/artist/0J2Ej2rMQyqaUX3G6MUISw'
 status: active
 tags:
-- progressive rock
-- rock
-- soft rock
+  - progressive rock
+  - rock
+  - soft rock
 title: Ambrosia
 ---
 

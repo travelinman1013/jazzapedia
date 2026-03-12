@@ -2,21 +2,21 @@
 title: Otis Redding
 wiki_slug: otis-redding
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1941-09-09'
-birth_place: Dawson, Georgia, United States
+birth_place: 'Dawson, Georgia, United States'
 death_date: '1967-12-10'
 genres:
-- soul
-- motown
-- soul blues
+  - soul
+  - motown
+  - soul blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Otis_Redding.jpg
   caption: Otis Redding
   background: solo_singer
   born: '1941-09-09'
-  origin: Dawson, Georgia, United States
+  origin: 'Dawson, Georgia, United States'
   died: '1967-12-10'
 audio_profile:
   tempo_avg: 130.6
@@ -33,48 +33,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Johnny Jenkins
-  - Carla Thomas
-  - The Bar-Kays
-  - Phil Walden
+    - Johnny Jenkins
+    - Carla Thomas
+    - The Bar-Kays
+    - Phil Walden
   influenced:
-  - Aretha Franklin
-  - Al Green
-  - Kanye West & Jay-Z
-  - Salt-N-Pepa
+    - Aretha Franklin
+    - Al Green
+    - Kanye West & Jay-Z
+    - Salt-N-Pepa
   mentors:
-  - Sam Cooke
-  - Little Richard
+    - Sam Cooke
+    - Little Richard
 spotify_data:
   followers: 2531464
   id: 60df5JBRRPcnSpsIMxxwQm
   popularity: 67
-  url: https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm
+  url: 'https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm'
 discography_enriched: true
 top_tracks:
-- (Sittin' On) the Dock of the Bay (The Dock of the Bay (Mono))
-- Otis (Watch The Throne)
-- Stand by Me (Pain in My Heart)
-- 'Try a Little Tenderness (Complete & Unbelievable: The Otis Redding Dictionary of Soul)'
-- These Arms of Mine (Pain in My Heart)
-- Hard to Handle (Dock of the Bay Sessions)
-- 'I''ve Been Loving You Too Long (Otis Blue: Otis Redding Sings Soul (Collector''s Edition))'
-- 'My Girl (Otis Blue: Otis Redding Sings Soul (Collector''s Edition))'
-- Cigarettes and Coffee (The Soul Album)
-- Eye Know (3 Feet High and Rising)
+  - (Sittin' On) the Dock of the Bay (The Dock of the Bay (Mono))
+  - Otis (Watch The Throne)
+  - Stand by Me (Pain in My Heart)
+  - >-
+    Try a Little Tenderness (Complete & Unbelievable: The Otis Redding
+    Dictionary of Soul)
+  - These Arms of Mine (Pain in My Heart)
+  - Hard to Handle (Dock of the Bay Sessions)
+  - >-
+    I've Been Loving You Too Long (Otis Blue: Otis Redding Sings Soul
+    (Collector's Edition))
+  - 'My Girl (Otis Blue: Otis Redding Sings Soul (Collector''s Edition))'
+  - Cigarettes and Coffee (The Soul Album)
+  - Eye Know (3 Feet High and Rising)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751
-  spotify: https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm
-  wikipedia: https://en.wikipedia.org/wiki/Otis_Redding
+  musicbrainz: 'https://musicbrainz.org/artist/82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751'
+  spotify: 'https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm'
+  wikipedia: 'https://en.wikipedia.org/wiki/Otis_Redding'
 image_path: 03_Resources/source_material/ArtistPortraits/Otis_Redding.jpg
 biography_enhanced_at: '2025-10-19T11:39:40.169199'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.biography.com/musicians/otis-redding
-- https://visitmacon.org/music/otis-redding/
-- https://grammymuseum.org/exhibit/respect-otis-redding-and-the-revolution-of-soul/
-- https://www.britannica.com/biography/Otis-Redding
+  - 'https://www.biography.com/musicians/otis-redding'
+  - 'https://visitmacon.org/music/otis-redding/'
+  - >-
+    https://grammymuseum.org/exhibit/respect-otis-redding-and-the-revolution-of-soul/
+  - 'https://www.britannica.com/biography/Otis-Redding'
 network_extracted: true
 entry_created: '2025-10-19T11:39:40.169207'
 last_updated: '2025-12-23T08:16:03.507699'
@@ -82,10 +87,11 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:40:22.991461'
 musicbrainz_id: 82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751
 tags:
-- blues
-- blues rock
-- death by plane crash
-
+  - blues
+  - blues rock
+  - death by plane crash
+is_active: false
+origin: 'Macon, Georgia, United States'
 ---
 
 ![](Otis_Redding.jpg)

@@ -2,23 +2,23 @@
 title: Van Morrison
 wiki_slug: van-morrison
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1945-08-31'
-birth_place: Belfast, Northern Ireland, United Kingdom
+birth_place: 'Belfast, Northern Ireland, United Kingdom'
 genres: []
 instruments:
-- tenor saxophone
-- lead vocals
-- original
-- alto saxophone
-- acoustic guitar
+  - tenor saxophone
+  - lead vocals
+  - original
+  - alto saxophone
+  - acoustic guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Van_Morrison.jpg
   caption: Van Morrison
   background: solo_singer
   born: '1945-08-31'
-  origin: Belfast, Northern Ireland, United Kingdom
+  origin: 'Belfast, Northern Ireland, United Kingdom'
 audio_profile:
   tempo_avg: 126.9
   energy_avg: 0.534
@@ -34,50 +34,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Them
-  - Bert Berns
-  - The Caledonia Soul Orchestra
+    - Them
+    - Bert Berns
+    - The Caledonia Soul Orchestra
   influenced:
-  - Bruce Springsteen
-  - Elvis Costello
-  - Bono (U2)
+    - Bruce Springsteen
+    - Elvis Costello
+    - Bono (U2)
   mentors:
-  - Bert Berns
-  - Alexis Korner
-  - His father (George Morrison)
+    - Bert Berns
+    - Alexis Korner
+    - His father (George Morrison)
 spotify_data:
   followers: 3588550
   id: 44NX2ffIYHr6D4n7RaZF7A
   popularity: 69
-  url: https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A
+  url: 'https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A'
 discography_enriched: true
 top_tracks:
-- Brown Eyed Girl (Blowin' Your Mind!)
-- Days Like This (Days Like This)
-- Into the Mystic - 2013 Remaster (Moondance)
-- Moondance - 2013 Remaster (Moondance (Deluxe Edition))
-- Crazy Love - 2013 Remaster (Moondance (Expanded Edition))
-- Someone Like You (Poetic Champions Compose)
-- Have I Told You Lately (Avalon Sunset)
-- And It Stoned Me - 2013 Remaster (Moondance (Deluxe Edition))
-- Wild Night
-- Bright Side of the Road (Into the Music)
+  - Brown Eyed Girl (Blowin' Your Mind!)
+  - Days Like This (Days Like This)
+  - Into the Mystic - 2013 Remaster (Moondance)
+  - Moondance - 2013 Remaster (Moondance (Deluxe Edition))
+  - Crazy Love - 2013 Remaster (Moondance (Expanded Edition))
+  - Someone Like You (Poetic Champions Compose)
+  - Have I Told You Lately (Avalon Sunset)
+  - And It Stoned Me - 2013 Remaster (Moondance (Deluxe Edition))
+  - Wild Night
+  - Bright Side of the Road (Into the Music)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a41ac10f-0a56-4672-9161-b83f9b223559
-  spotify: https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A
-  wikipedia: https://en.wikipedia.org/wiki/Van_Morrison
+  musicbrainz: 'https://musicbrainz.org/artist/a41ac10f-0a56-4672-9161-b83f9b223559'
+  spotify: 'https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A'
+  wikipedia: 'https://en.wikipedia.org/wiki/Van_Morrison'
 image_path: 03_Resources/source_material/ArtistPortraits/Van_Morrison.jpg
 biography_enhanced_at: '2025-10-19T12:38:32.478110'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Van_Morrison
-- https://top40weekly.com/van-morrison/
-- https://www.watchmojo.com/articles/van-morrison-biography-life-and-career-of-the-singer-songwriter
-- https://www.allaboutjazz.com/musicians/van-morrison/
-- https://www.mmone.org/van-morrison/
-- https://www.britannica.com/biography/Van-Morrison
-- https://www.songhall.org/profiles/van-morrison
+  - 'https://en.wikipedia.org/wiki/Van_Morrison'
+  - 'https://top40weekly.com/van-morrison/'
+  - >-
+    https://www.watchmojo.com/articles/van-morrison-biography-life-and-career-of-the-singer-songwriter
+  - 'https://www.allaboutjazz.com/musicians/van-morrison/'
+  - 'https://www.mmone.org/van-morrison/'
+  - 'https://www.britannica.com/biography/Van-Morrison'
+  - 'https://www.songhall.org/profiles/van-morrison'
 network_extracted: true
 entry_created: '2025-10-19T12:38:32.478124'
 last_updated: '2025-12-23T08:16:04.243841'
@@ -85,9 +86,9 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:47:50.305674'
 musicbrainz_id: a41ac10f-0a56-4672-9161-b83f9b223559
 tags:
-- blue-eyed soul
-- chamber folk
-- contemporary folk
+  - blue-eyed soul
+  - chamber folk
+  - contemporary folk
 ---
 
 ![](Van_Morrison.jpg)

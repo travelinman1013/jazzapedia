@@ -3,13 +3,13 @@ title: Eugene McDaniels
 wiki_slug: eugene-mcdaniels
 schema_version: 2
 status: active
-birth_place: Kansas City, Kansas, USA
+birth_place: 'Kansas City, Kansas, USA'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/eugene_mcdaniels.jpg
   caption: Eugene McDaniels
   background: solo_singer
-  origin: Kansas City, Kansas, USA
+  origin: 'Kansas City, Kansas, USA'
 audio_profile:
   tempo_avg: 126.1
   energy_avg: 0.624
@@ -25,49 +25,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Roberta Flack
-  - Les McCann
-  - Joel Dorn
-  - William S. Fischer
-  - Ron Carter
+    - Roberta Flack
+    - Les McCann
+    - Joel Dorn
+    - William S. Fischer
+    - Ron Carter
   influenced:
-  - Roberta Flack
-  - A Tribe Called Quest
-  - Beastie Boys
+    - Roberta Flack
+    - A Tribe Called Quest
+    - Beastie Boys
   mentors:
-  - Les McCann
+    - Les McCann
 spotify_data:
   followers: 22876
   id: 4k6kxW9Xv4kVbTblyLfygN
   popularity: 25
-  url: https://open.spotify.com/artist/4k6kxW9Xv4kVbTblyLfygN
+  url: 'https://open.spotify.com/artist/4k6kxW9Xv4kVbTblyLfygN'
 discography_enriched: true
 top_tracks:
-- Cherrystones (Outlaw)
-- Outlaw (Outlaw)
-- Jagger the Dagger (Headless Heroes of the Apocalypse)
-- The Parasite (For Buffy) (Headless Heroes of the Apocalypse)
-- Lovin' Man (Headless Heroes of the Apocalypse)
-- Headless Heroes (Headless Heroes of the Apocalypse)
-- Sagittarius Red (Outlaw)
-- Supermarket Blues (Headless Heroes of the Apocalypse)
-- Welfare City (Outlaw)
-- The Lord Is Back (Headless Heroes of the Apocalypse)
+  - Cherrystones (Outlaw)
+  - Outlaw (Outlaw)
+  - Jagger the Dagger (Headless Heroes of the Apocalypse)
+  - The Parasite (For Buffy) (Headless Heroes of the Apocalypse)
+  - Lovin' Man (Headless Heroes of the Apocalypse)
+  - Headless Heroes (Headless Heroes of the Apocalypse)
+  - Sagittarius Red (Outlaw)
+  - Supermarket Blues (Headless Heroes of the Apocalypse)
+  - Welfare City (Outlaw)
+  - The Lord Is Back (Headless Heroes of the Apocalypse)
 external_urls:
-  spotify: https://open.spotify.com/artist/4k6kxW9Xv4kVbTblyLfygN
-  wikipedia: https://en.wikipedia.org/wiki/Gene_McDaniels
+  spotify: 'https://open.spotify.com/artist/4k6kxW9Xv4kVbTblyLfygN'
+  wikipedia: 'https://en.wikipedia.org/wiki/Gene_McDaniels'
 image_path: 03_Resources/source_material/ArtistPortraits/eugene_mcdaniels.jpg
 biography_enhanced_at: '2025-11-03T07:49:30.549526'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Gene_McDaniels
-- https://kvrx.org/blog/features/the-revolutionary-music-of-eugene-mcdaniels/
-- https://magazine.waxpoetics.com/connections/hey-america/article/introducing-eugene-mcdaniels/
-- https://www.imdb.com/name/nm0567403/bio/
+  - 'https://en.wikipedia.org/wiki/Gene_McDaniels'
+  - 'https://kvrx.org/blog/features/the-revolutionary-music-of-eugene-mcdaniels/'
+  - >-
+    https://magazine.waxpoetics.com/connections/hey-america/article/introducing-eugene-mcdaniels/
+  - 'https://www.imdb.com/name/nm0567403/bio/'
 network_extracted: true
 entry_created: '2025-11-03T07:49:30.549546'
 last_updated: '2025-12-23T08:16:08.524018'
+origin: 'Omaha, Nebraska, United States'
+birth_date: '1935-02-12'
+death_date: '2011-07-29'
+artist_type: person
 ---
 
 ![](eugene_mcdaniels.jpg)

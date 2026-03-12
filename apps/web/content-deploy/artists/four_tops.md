@@ -2,17 +2,17 @@
 title: Four Tops
 wiki_slug: four-tops
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
-birth_date: '1956'
+birth_date: '1953'
 genres:
-- motown
-- northern soul
-- soul
+  - motown
+  - northern soul
+  - soul
 instruments:
-- original
-- background vocals
-- choir vocals
+  - original
+  - background vocals
+  - choir vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/four_tops.jpg
   caption: Four Tops
@@ -24,7 +24,7 @@ audio_profile:
   valence_avg: 0.745
   danceability_avg: 0.625
   acousticness_avg: 0.242
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -7.7
   speechiness_avg: 0.048
   liveness_avg: 0.172
@@ -33,94 +33,93 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Holland-Dozier-Holland
-  - Frank Wilson
-  - The Temptations
+    - Holland-Dozier-Holland
+    - Frank Wilson
+    - The Temptations
   influenced:
-  - Boyz II Men
-  - The Delfonics
-  - Earth, Wind & Fire
+    - Boyz II Men
+    - The Delfonics
+    - 'Earth, Wind & Fire'
   mentors:
-  - Billy Davis
-  - Berry Gordy
+    - Billy Davis
+    - Berry Gordy
 spotify_data:
   followers: 1257986
   id: 7fIvjotigTGWqjIz6EP1i4
   popularity: 62
-  url: https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4
+  url: 'https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4'
 discography_enriched: true
 top_tracks:
-- I Can't Help Myself (Sugar Pie, Honey Bunch) (Four Tops - Second Album)
-- Reach Out I'll Be There (Reach Out)
-- Baby I Need Your Loving (Four Tops)
-- I Can't Help Myself (Sugar Pie, Honey Bunch)
-- Ain't No Woman (Like The One I've Got) (Keeper Of The Castle)
-- Loco in Acapulco (Indestructible)
-- It's The Same Old Song (Four Tops - Second Album)
-- Sugar Pie Honey Bunch - GRATIFY Remix
-- Sugar Pie Honey Bunch
-- Bernadette (Reach Out)
+  - 'I Can''t Help Myself (Sugar Pie, Honey Bunch) (Four Tops - Second Album)'
+  - Reach Out I'll Be There (Reach Out)
+  - Baby I Need Your Loving (Four Tops)
+  - 'I Can''t Help Myself (Sugar Pie, Honey Bunch)'
+  - Ain't No Woman (Like The One I've Got) (Keeper Of The Castle)
+  - Loco in Acapulco (Indestructible)
+  - It's The Same Old Song (Four Tops - Second Album)
+  - Sugar Pie Honey Bunch - GRATIFY Remix
+  - Sugar Pie Honey Bunch
+  - Bernadette (Reach Out)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/0d21b01f-21f2-419b-8d98-4158ba0c0aa4
-  spotify: https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4
-  wikipedia: https://en.wikipedia.org/wiki/Four_Tops
+  musicbrainz: 'https://musicbrainz.org/artist/0d21b01f-21f2-419b-8d98-4158ba0c0aa4'
+  spotify: 'https://open.spotify.com/artist/7fIvjotigTGWqjIz6EP1i4'
+  wikipedia: 'https://en.wikipedia.org/wiki/Four_Tops'
 image_path: 03_Resources/source_material/ArtistPortraits/four_tops.jpg
 biography_enhanced_at: '2025-11-23T06:35:22.440136'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Four_Tops
-- https://www.britannica.com/topic/the-Four-Tops
-- https://www.fourtops.com/bios
-- https://www.last.fm/music/The+Four+Tops/+wiki
+  - 'https://en.wikipedia.org/wiki/Four_Tops'
+  - 'https://www.britannica.com/topic/the-Four-Tops'
+  - 'https://www.fourtops.com/bios'
+  - 'https://www.last.fm/music/The+Four+Tops/+wiki'
 network_extracted: true
 entry_created: '2025-11-23T06:35:22.440144'
 last_updated: '2025-12-23T08:16:08.734928'
 disambiguation: Motown
 members:
-- begin: '1953'
-  end: '2024-07-22'
-  instruments:
-  - original
-  mbid: 6e883e7d-c2b8-4f49-94d3-86b1531ca06a
-  name: Abdul “Duke” Fakir
-- &id001
-  begin: '1998'
-  end: ''
-  instruments: []
-  mbid: 4f1f61e9-7d40-4592-8310-3592f72b76c1
-  name: Theo Peoples
-- &id002
-  begin: '2000'
-  end: ''
-  instruments: []
-  mbid: d7b971ad-2270-4c88-93bf-f1ae636fad12
-  name: Ronnie McNeir
-- begin: ''
-  end: '1997-06-20'
-  instruments: []
-  mbid: f450ec73-9dbc-4e9d-8e03-369c61fce7ca
-  name: Lawrence Payton
-- begin: ''
-  end: '2005-07-01'
-  instruments: []
-  mbid: 6995c90c-d56a-47e4-ab42-02fe12731b64
-  name: Renaldo Benson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a373224b-dd93-44c1-ada2-0d8c215c83b4
-  name: Levi Stubbs
+  - begin: '1953'
+    end: '2024-07-22'
+    instruments:
+      - original
+    mbid: 6e883e7d-c2b8-4f49-94d3-86b1531ca06a
+    name: Abdul “Duke” Fakir
+  - &ref_0
+    begin: '1998'
+    end: ''
+    instruments: []
+    mbid: 4f1f61e9-7d40-4592-8310-3592f72b76c1
+    name: Theo Peoples
+  - &ref_1
+    begin: '2000'
+    end: ''
+    instruments: []
+    mbid: d7b971ad-2270-4c88-93bf-f1ae636fad12
+    name: Ronnie McNeir
+  - begin: ''
+    end: '1997-06-20'
+    instruments: []
+    mbid: f450ec73-9dbc-4e9d-8e03-369c61fce7ca
+    name: Lawrence Payton
+  - begin: ''
+    end: '2005-07-01'
+    instruments: []
+    mbid: 6995c90c-d56a-47e4-ab42-02fe12731b64
+    name: Renaldo Benson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a373224b-dd93-44c1-ada2-0d8c215c83b4
+    name: Levi Stubbs
 musicbrainz_id: 0d21b01f-21f2-419b-8d98-4158ba0c0aa4
-origin: Detroit
+origin: 'Detroit, Michigan, United States'
 original_members:
-- *id001
-- *id002
+  - *ref_0
+  - *ref_1
 tags:
-- 2008 universal fire victim
-- funk
-- motown
-
+  - 2008 universal fire victim
+  - funk
+  - motown
 ---
 
 ![](four_tops.jpg)

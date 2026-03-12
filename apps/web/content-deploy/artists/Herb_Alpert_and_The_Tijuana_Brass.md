@@ -2,16 +2,17 @@
 title: Herb Alpert & The Tijuana Brass
 wiki_slug: herb-alpert-the-tijuana-brass
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
-birth_date: '1963'
+birth_date: '1935-03-31'
 genres:
-- adult standards
-- exotica
+  - adult standards
+  - exotica
 instruments:
-- eponymous
+  - eponymous
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/Herb_Alpert_and_The_Tijuana_Brass.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/Herb_Alpert_and_The_Tijuana_Brass.jpg
   caption: Herb Alpert & The Tijuana Brass
   background: group_or_band
   born: '1963'
@@ -22,7 +23,7 @@ audio_profile:
   danceability_avg: 0.634
   acousticness_avg: 0.561
   instrumentalness_avg: 0.723
-  loudness_avg: -12.0
+  loudness_avg: -12
   speechiness_avg: 0.052
   liveness_avg: 0.186
   track_count: 49
@@ -30,58 +31,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jerry Moss
-  - Sol Lake
-  - Burt Bacharach
-  - Tijuana Brass Band Members
+    - Jerry Moss
+    - Sol Lake
+    - Burt Bacharach
+    - Tijuana Brass Band Members
   influenced:
-  - Sergio Mendes
-  - Chuck Mangione
-  - Modern pop and jazz instrumentalists
+    - Sergio Mendes
+    - Chuck Mangione
+    - Modern pop and jazz instrumentalists
   mentors:
-  - Louis Armstrong
-  - Harry James
-  - Miles Davis
-  - Clifford Brown
+    - Louis Armstrong
+    - Harry James
+    - Miles Davis
+    - Clifford Brown
 spotify_data:
   followers: 227012
   id: 09L3cUdx0hq6qn5bKuJJ4I
   popularity: 53
-  url: https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I
+  url: 'https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I'
 discography_enriched: true
 top_tracks:
-- Ladyfingers (Whipped Cream & Other Delights)
-- Ladyfingers (Whipped Cream & Other Delights)
-- This Guy's In Love With You (The Beat Of The Brass)
-- Spanish Flea (!!Going Places!!)
-- A Taste Of Honey (Whipped Cream & Other Delights)
-- Mae (!!Going Places!!)
-- Tangerine (Whipped Cream & Other Delights)
-- Tijuana Taxi (!!Going Places!!)
-- Whipped Cream (Whipped Cream & Other Delights)
-- Green Peppers (Whipped Cream & Other Delights)
+  - Ladyfingers (Whipped Cream & Other Delights)
+  - Ladyfingers (Whipped Cream & Other Delights)
+  - This Guy's In Love With You (The Beat Of The Brass)
+  - Spanish Flea (!!Going Places!!)
+  - A Taste Of Honey (Whipped Cream & Other Delights)
+  - Mae (!!Going Places!!)
+  - Tangerine (Whipped Cream & Other Delights)
+  - Tijuana Taxi (!!Going Places!!)
+  - Whipped Cream (Whipped Cream & Other Delights)
+  - Green Peppers (Whipped Cream & Other Delights)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/012ef4f9-2d35-4000-86e5-bc761f87dab9
-  spotify: https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I
-  wikipedia: https://en.wikipedia.org/wiki/Herb_Alpert
-image_path: 03_Resources/source_material/ArtistPortraits/Herb_Alpert_and_The_Tijuana_Brass.jpg
+  musicbrainz: 'https://musicbrainz.org/artist/012ef4f9-2d35-4000-86e5-bc761f87dab9'
+  spotify: 'https://open.spotify.com/artist/09L3cUdx0hq6qn5bKuJJ4I'
+  wikipedia: 'https://en.wikipedia.org/wiki/Herb_Alpert'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/Herb_Alpert_and_The_Tijuana_Brass.jpg
 biography_enhanced_at: '2025-10-22T06:54:55.213182'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Herb_Alpert
-- https://www.britannica.com/biography/Herb-Alpert
-- https://walkoffame.com/herb-alpert/
-- https://herbalpert.com/about/
+  - 'https://en.wikipedia.org/wiki/Herb_Alpert'
+  - 'https://www.britannica.com/biography/Herb-Alpert'
+  - 'https://walkoffame.com/herb-alpert/'
+  - 'https://herbalpert.com/about/'
 network_extracted: true
 entry_created: '2025-10-22T06:54:55.213201'
 last_updated: '2025-12-23T08:16:02.242640'
 musicbrainz_id: 012ef4f9-2d35-4000-86e5-bc761f87dab9
-origin: Los Angeles
+origin: 'Los Angeles, California, United States'
 tags:
-- easy listening
-- jazz pop
-- lounge
+  - easy listening
+  - jazz pop
+  - lounge
+birth_place: 'Los Angeles, California, United States'
 ---
 
 ![](Herb_Alpert_and_The_Tijuana_Brass.jpg)

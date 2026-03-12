@@ -1,35 +1,37 @@
 ---
 biography_enhanced_at: '2025-12-26T01:26:02.429562'
-birth_place: Houston, Texas, U.S.A.
+birth_place: 'Houston, Texas, U.S.A.'
 enhancement_provider: perplexity
 entry_created: '2025-12-26T01:26:02.429576'
 external_urls:
-  spotify: https://open.spotify.com/artist/68QSfzGUl7oF0VUwMHHVKL
-  wikipedia: https://en.wikipedia.org/wiki/Beau_Williams
+  spotify: 'https://open.spotify.com/artist/68QSfzGUl7oF0VUwMHHVKL'
+  wikipedia: 'https://en.wikipedia.org/wiki/Beau_Williams'
 genres:
-- soul
+  - soul
 image_path: 03_Resources/source_material/ArtistPortraits/beau_williams.jpg
 last_updated: '2025-12-26T01:26:02.429578'
 musical_connections:
   collaborators:
-  - Wayne Henderson
-  - The Temptations
-  - Robbie Nevil
+    - Wayne Henderson
+    - The Temptations
+    - Robbie Nevil
   influenced: []
   mentors:
-  - George Benson
+    - George Benson
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- http://www.soulwalking.co.uk/Beau%20Williams.html
-- https://en.wikipedia.org/wiki/Beau_Williams
+  - 'http://www.soulwalking.co.uk/Beau%20Williams.html'
+  - 'https://en.wikipedia.org/wiki/Beau_Williams'
 spotify_data:
   followers: 8983
   id: 68QSfzGUl7oF0VUwMHHVKL
   popularity: 36
-  url: https://open.spotify.com/artist/68QSfzGUl7oF0VUwMHHVKL
+  url: 'https://open.spotify.com/artist/68QSfzGUl7oF0VUwMHHVKL'
 status: active
 title: Beau Williams
+birth_date: '1950-01-06'
+artist_type: person
 ---
 
 ![](beau_williams.jpg)

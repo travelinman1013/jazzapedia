@@ -1,23 +1,23 @@
 ---
-title: mahmoud ahmed
+title: Mahmoud Ahmed
 wiki_slug: mahmoud-ahmed
 schema_version: 2
 status: active
-birth_place: Mercato district, Addis Ababa, Ethiopia
+birth_place: 'Mercato district, Addis Ababa, Ethiopia'
 genres:
-- ethiopian jazz
+  - ethiopian jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/mahmoud_ahmed.jpg
   caption: mahmoud ahmed
   background: solo_singer
-  origin: Mercato district, Addis Ababa, Ethiopia
+  origin: 'Mercato district, Addis Ababa, Ethiopia'
 audio_profile:
   tempo_avg: 136.2
   energy_avg: 0.592
   valence_avg: 0.767
   danceability_avg: 0.562
   acousticness_avg: 0.66
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -8.7
   speechiness_avg: 0.066
   liveness_avg: 0.233
@@ -26,54 +26,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Imperial Body Guard Band
-  - Ibex Band
-  - Dahlak Band
-  - Walias Band
-  - Roha Band
-  - Either/Orchestra
-  - Badume Band
+    - Imperial Body Guard Band
+    - Ibex Band
+    - Dahlak Band
+    - Walias Band
+    - Roha Band
+    - Either/Orchestra
+    - Badume Band
   influenced:
-  - Contemporary Ethio‑jazz and Ethiopian pop singers (e.g., and later generations broadly)
-  - World‑music and jazz audiences and musicians outside Ethiopia
+    - >-
+      Contemporary Ethio‑jazz and Ethiopian pop singers (e.g., and later
+      generations broadly)
+    - World‑music and jazz audiences and musicians outside Ethiopia
   mentors:
-  - Tilahun Gessesse
-  - Bezunesh Bekele
-  - Asnaketch Worku
+    - Tilahun Gessesse
+    - Bezunesh Bekele
+    - Asnaketch Worku
 spotify_data:
   followers: 40941
   id: 1QrSgIS6RU4dgNPxLQMoha
   popularity: 34
-  url: https://open.spotify.com/artist/1QrSgIS6RU4dgNPxLQMoha
+  url: 'https://open.spotify.com/artist/1QrSgIS6RU4dgNPxLQMoha'
 discography_enriched: true
 top_tracks:
-- 'Tezeta (Ethiopiques, Vol. 7: Erè mèla mèla 1975-1978)'
-- 'Enqu messay (Ethiopiques, Vol. 26: Mahmoud Ahmed 1972-1974 (feat. Imperial Body Guard Band))'
-- 'Erè mèla mèla (Ethiopiques, Vol. 7: Erè mèla mèla 1975-1978)'
-- 'Atawurulegn lela (Ethiopiques, Vol. 7: Erè mèla mèla 1975-1978)'
-- 'Ebakesh tareqign (Ethiopiques, Vol. 7: Erè mèla mèla 1975-1978)'
-- Yeshi Haregitu
-- Adera (Single Collections)
-- Yèshèga Lidj Nègèr (Live In Paris)
-- Wèy Feqer (Live In Paris)
-- 'Bemen sebeb letlash (Ethiopiques, Vol. 7: Erè mèla mèla 1975-1978)'
+  - 'Tezeta (Ethiopiques, Vol. 7: Erè mèla mèla 1975-1978)'
+  - >-
+    Enqu messay (Ethiopiques, Vol. 26: Mahmoud Ahmed 1972-1974 (feat. Imperial
+    Body Guard Band))
+  - 'Erè mèla mèla (Ethiopiques, Vol. 7: Erè mèla mèla 1975-1978)'
+  - 'Atawurulegn lela (Ethiopiques, Vol. 7: Erè mèla mèla 1975-1978)'
+  - 'Ebakesh tareqign (Ethiopiques, Vol. 7: Erè mèla mèla 1975-1978)'
+  - Yeshi Haregitu
+  - Adera (Single Collections)
+  - Yèshèga Lidj Nègèr (Live In Paris)
+  - Wèy Feqer (Live In Paris)
+  - 'Bemen sebeb letlash (Ethiopiques, Vol. 7: Erè mèla mèla 1975-1978)'
 external_urls:
-  spotify: https://open.spotify.com/artist/1QrSgIS6RU4dgNPxLQMoha
-  wikipedia: https://en.wikipedia.org/wiki/Mahmoud_Ahmed
+  spotify: 'https://open.spotify.com/artist/1QrSgIS6RU4dgNPxLQMoha'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mahmoud_Ahmed'
 image_path: 03_Resources/source_material/ArtistPortraits/mahmoud_ahmed.jpg
 biography_enhanced_at: '2025-12-07T04:51:53.617875'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.mahmoudahmed.org/about
-- http://www.tadias.com/11/25/2024/tribute-to-mahmoud-ahmed-ethiopias-timeless-music-icon/
-- https://yaleunion.org/mahmoud-ahmed/
-- https://blog.superflyrecords.com/storyboard/mahmoud-ahmed-the-emperor-of-ethiopian-swing/
-- https://kids.kiddle.co/Mahmoud_Ahmed
-- https://igloomag.com/profiles/music-mondays-007
+  - 'https://www.mahmoudahmed.org/about'
+  - >-
+    http://www.tadias.com/11/25/2024/tribute-to-mahmoud-ahmed-ethiopias-timeless-music-icon/
+  - 'https://yaleunion.org/mahmoud-ahmed/'
+  - >-
+    https://blog.superflyrecords.com/storyboard/mahmoud-ahmed-the-emperor-of-ethiopian-swing/
+  - 'https://kids.kiddle.co/Mahmoud_Ahmed'
+  - 'https://igloomag.com/profiles/music-mondays-007'
 network_extracted: true
 entry_created: '2025-12-07T04:51:53.617889'
 last_updated: '2025-12-23T08:16:12.529025'
+birth_date: '1941-05-08'
+artist_type: person
 ---
 
 ![](mahmoud_ahmed.jpg)

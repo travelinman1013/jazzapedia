@@ -1,85 +1,87 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: d9733f21-71d7-4fa7-813d-67eca0f0eaaf
-  name: The Sun Ra Arkestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f4c5c575-c2fe-4cfc-9e0a-0ef5ff04c4d7
-  name: The Nu Sounds
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: fcfb626e-97dd-47dc-b225-148a19b9e860
-  name: Sun Ra Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: d9733f21-71d7-4fa7-813d-67eca0f0eaaf
+    name: The Sun Ra Arkestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f4c5c575-c2fe-4cfc-9e0a-0ef5ff04c4d7
+    name: The Nu Sounds
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: fcfb626e-97dd-47dc-b225-148a19b9e860
+    name: Sun Ra Trio
 biography_enhanced_at: '2026-01-22T06:57:30.947916'
 birth_date: '1914-05-22'
-birth_place: Birmingham
+birth_place: 'Birmingham, Alabama, United States'
 death_date: '1993-05-30'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T06:57:30.947923'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c27cac8e-4c4a-48c0-a4ba-41399b9c176d
-  spotify: https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX
-  wikipedia: https://en.wikipedia.org/wiki/Sun_Ra
+  musicbrainz: 'https://musicbrainz.org/artist/c27cac8e-4c4a-48c0-a4ba-41399b9c176d'
+  spotify: 'https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sun_Ra'
 gender: Male
 genres:
-- free jazz
-- experimental jazz
-- jazz
-- avant-garde
-- hard bop
+  - free jazz
+  - experimental jazz
+  - jazz
+  - avant-garde
+  - hard bop
 image_path: 03_Resources/source_material/ArtistPortraits/sun_ra.jpg
 instruments:
-- eponymous
-- original
-- piano
-- electric piano
-- Wurlitzer electric piano
-- Rhodes piano
-- toy piano
-- spoken vocals
+  - eponymous
+  - original
+  - piano
+  - electric piano
+  - Wurlitzer electric piano
+  - Rhodes piano
+  - toy piano
+  - spoken vocals
 last_updated: '2026-01-22T06:57:30.947924'
 musical_connections:
   collaborators:
-  - John Gilmore
-  - Marshall Allen
-  - Fletcher Henderson
+    - John Gilmore
+    - Marshall Allen
+    - Fletcher Henderson
   influenced:
-  - Afrofuturism movement
-  - Avant-garde jazz musicians
+    - Afrofuturism movement
+    - Avant-garde jazz musicians
   mentors:
-  - John T. 'Fess' Whatley
+    - John T. 'Fess' Whatley
 musicbrainz_id: c27cac8e-4c4a-48c0-a4ba-41399b9c176d
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.ebsco.com/research-starters/history/sun-ra
-- https://en.wikipedia.org/wiki/Sun_Ra
-- https://www.arts.gov/honors/jazz/sun-ra
-- https://www.britannica.com/biography/Sun-Ra
-- https://daily.redbullmusicacademy.com/2019/07/sun-ra-philadelphia-years/
-- https://www.dukeupress.edu/space-is-the-place
-- https://www.jazzmessengers.com/en/9776/albums-of-sun-ra
+  - 'https://www.ebsco.com/research-starters/history/sun-ra'
+  - 'https://en.wikipedia.org/wiki/Sun_Ra'
+  - 'https://www.arts.gov/honors/jazz/sun-ra'
+  - 'https://www.britannica.com/biography/Sun-Ra'
+  - 'https://daily.redbullmusicacademy.com/2019/07/sun-ra-philadelphia-years/'
+  - 'https://www.dukeupress.edu/space-is-the-place'
+  - 'https://www.jazzmessengers.com/en/9776/albums-of-sun-ra'
 spotify_data:
   followers: 226953
   id: 0tIODqvzGUoEaK26rK4pvX
   popularity: 42
-  url: https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX
+  url: 'https://open.spotify.com/artist/0tIODqvzGUoEaK26rK4pvX'
 status: active
 tags:
-- 2008 universal fire victim
-- american
-- avant-garde jazz
-title: SUN RA
+  - 2008 universal fire victim
+  - american
+  - avant-garde jazz
+title: Sun RA
+is_active: false
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](sun_ra.jpg)

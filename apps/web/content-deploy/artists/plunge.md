@@ -2,7 +2,7 @@
 title: Plunge
 wiki_slug: plunge
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres: []
 infobox:
@@ -24,47 +24,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Andreas Andersson
-  - Mattias Hjorth
-  - Peter Nilsson
-  - Bobo Stenson
+    - Andreas Andersson
+    - Mattias Hjorth
+    - Peter Nilsson
+    - Bobo Stenson
   influenced: []
   mentors:
-  - Bobo Stenson
+    - Bobo Stenson
 spotify_data:
   followers: 122229
   id: 4NTnwCK3RqTBH7TFIQrkfL
   popularity: 60
-  url: https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL
+  url: 'https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL'
 discography_enriched: true
 top_tracks:
-- Yebba's Heartbreak (I Do) (Yebba's Heartbreak (I Do))
-- Hey Ya! (Hey Ya!)
-- Stay (Stay)
-- Stolen Dance (Stolen Dance)
-- Crazy (Crazy)
-- Just One Dance (Just One Dance)
-- Milkshake (Milkshake)
-- Chicago Freestyle (Chicago Freestyle)
-- Flower (Flower)
-- Forever (Forever)
+  - Yebba's Heartbreak (I Do) (Yebba's Heartbreak (I Do))
+  - Hey Ya! (Hey Ya!)
+  - Stay (Stay)
+  - Stolen Dance (Stolen Dance)
+  - Crazy (Crazy)
+  - Just One Dance (Just One Dance)
+  - Milkshake (Milkshake)
+  - Chicago Freestyle (Chicago Freestyle)
+  - Flower (Flower)
+  - Forever (Forever)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/71b17f4a-a6eb-4c04-bfa1-3c6c6f9aed38
-  spotify: https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL
+  musicbrainz: 'https://musicbrainz.org/artist/71b17f4a-a6eb-4c04-bfa1-3c6c6f9aed38'
+  spotify: 'https://open.spotify.com/artist/4NTnwCK3RqTBH7TFIQrkfL'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/plunge.jpg
 biography_enhanced_at: '2025-11-20T07:14:15.315691'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.allaboutjazz.com/musicians/the-plunge-trio/
-- https://orendarecords.com/news/2024/8/2/pianistcomposer-zack-clarke-releases-plunge-a-multi-stylistic-array-of-pianistic-and-electronic-inspiration
+  - 'https://www.allaboutjazz.com/musicians/the-plunge-trio/'
+  - >-
+    https://orendarecords.com/news/2024/8/2/pianistcomposer-zack-clarke-releases-plunge-a-multi-stylistic-array-of-pianistic-and-electronic-inspiration
 network_extracted: true
 entry_created: '2025-11-20T07:14:15.315703'
 last_updated: '2025-12-23T08:16:14.369689'
 disambiguation: 'Members: Avishai Cohen, Bob Moses, Marcus Rojas and Mark McGrain.'
 musicbrainz_id: 71b17f4a-a6eb-4c04-bfa1-3c6c6f9aed38
-origin: Malmö, Skåne, Sweden
+origin: 'Malmö, Skåne, Sweden'
 ---
 
 ![](plunge.jpg)

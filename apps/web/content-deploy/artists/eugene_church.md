@@ -1,19 +1,19 @@
 ---
-title: eugene church
+title: Eugene Church
 wiki_slug: eugene-church
 schema_version: 2
 status: active
-birth_place: St. Louis, Missouri, United States
+birth_place: 'St. Louis, Missouri, United States'
 genres:
-- doo-wop
-- rockabilly
+  - doo-wop
+  - rockabilly
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/eugene_church.jpg
   caption: eugene church
   background: solo_singer
-  origin: St. Louis, Missouri, United States
+  origin: 'St. Louis, Missouri, United States'
 audio_profile:
-  tempo_avg: 128.0
+  tempo_avg: 128
   energy_avg: 0.588
   valence_avg: 0.901
   danceability_avg: 0.634
@@ -27,47 +27,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jesse Belvin
-  - Googie Rene Combo (Plas Johnson, Rene Hall, Earl Palmer)
-  - Johnny Otis
-  - Richard Berry
+    - Jesse Belvin
+    - 'Googie Rene Combo (Plas Johnson, Rene Hall, Earl Palmer)'
+    - Johnny Otis
+    - Richard Berry
   influenced:
-  - West Coast R&B and doo-wop artists
+    - West Coast R&B and doo-wop artists
   mentors:
-  - Jesse Belvin
+    - Jesse Belvin
 spotify_data:
   followers: 515
   id: 3BDouLYmuh1r6CcUJaHPk0
   popularity: 5
-  url: https://open.spotify.com/artist/3BDouLYmuh1r6CcUJaHPk0
+  url: 'https://open.spotify.com/artist/3BDouLYmuh1r6CcUJaHPk0'
 discography_enriched: true
 top_tracks:
-- Pretty Girls Everywhere (Pretty Girls Everywhere)
-- Sixteen Tons (R&B Hipshakers Volume 3 - Just A Little Bit Of The Jumpin' Bean)
-- 'Mind Your Own Business (R & B Hipshakers: Teach Me To Monkey)'
-- Miami (Pretty Girls Everywhere (Mono Version))
-- Open up Your Heart (Doo-Wop the Best (The Cadillacs, The Orioles, The Cardinals, The Spaniels))
-- 'Don''t Stop Loving Me (Rock & Roll Party: The Early Years)'
-- Pretty Girls Everywhere (Pretty Girls Everywhere (Mono Version))
-- Pretty Girls Everywhere (60's Class'n'Tip Pop, Vol.4)
-- Miami (Pretty Girls Everywhere)
-- Miami (The Extended Play Collection)
+  - Pretty Girls Everywhere (Pretty Girls Everywhere)
+  - >-
+    Sixteen Tons (R&B Hipshakers Volume 3 - Just A Little Bit Of The Jumpin'
+    Bean)
+  - 'Mind Your Own Business (R & B Hipshakers: Teach Me To Monkey)'
+  - Miami (Pretty Girls Everywhere (Mono Version))
+  - >-
+    Open up Your Heart (Doo-Wop the Best (The Cadillacs, The Orioles, The
+    Cardinals, The Spaniels))
+  - 'Don''t Stop Loving Me (Rock & Roll Party: The Early Years)'
+  - Pretty Girls Everywhere (Pretty Girls Everywhere (Mono Version))
+  - 'Pretty Girls Everywhere (60''s Class''n''Tip Pop, Vol.4)'
+  - Miami (Pretty Girls Everywhere)
+  - Miami (The Extended Play Collection)
 external_urls:
-  spotify: https://open.spotify.com/artist/3BDouLYmuh1r6CcUJaHPk0
-  wikipedia: https://en.wikipedia.org/wiki/Eugene_Church
+  spotify: 'https://open.spotify.com/artist/3BDouLYmuh1r6CcUJaHPk0'
+  wikipedia: 'https://en.wikipedia.org/wiki/Eugene_Church'
 image_path: 03_Resources/source_material/ArtistPortraits/eugene_church.jpg
 biography_enhanced_at: '2025-11-04T11:03:30.670599'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Eugene_Church
-- https://fromthevaults-boppinbob.blogspot.com/2019/01/eugene-church-born-23-january-1938.html
-- https://www.allmusic.com/artist/eugene-church-mn0000807803
-- https://www.electricearl.com/dws/church.html
+  - 'https://en.wikipedia.org/wiki/Eugene_Church'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2019/01/eugene-church-born-23-january-1938.html
+  - 'https://www.allmusic.com/artist/eugene-church-mn0000807803'
+  - 'https://www.electricearl.com/dws/church.html'
 network_extracted: true
 entry_created: '2025-11-04T11:03:30.670609'
 last_updated: '2025-12-23T08:16:08.516164'
-
+artist_type: person
 ---
 
 ![](eugene_church.jpg)

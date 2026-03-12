@@ -1,40 +1,46 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-08T01:33:27.492830'
 enhancement_provider: perplexity
 entry_created: '2026-01-08T01:33:27.492839'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/bffd74cf-1a44-4fb0-9e93-0db0220933bb
-  spotify: https://open.spotify.com/artist/7tE8cykYRThTGY49Cn1ulo
+  musicbrainz: 'https://musicbrainz.org/artist/bffd74cf-1a44-4fb0-9e93-0db0220933bb'
+  spotify: 'https://open.spotify.com/artist/7tE8cykYRThTGY49Cn1ulo'
   wikipedia: ''
 genres: []
 image_path: ''
 last_updated: '2026-01-08T01:33:27.492840'
 musical_connections:
   collaborators:
-  - Clifford “Boots” Douglas
+    - Clifford “Boots” Douglas
   influenced:
-  - Later historians and collectors of Southwestern and Texas jazz (general field
-    influence)
+    - >-
+      Later historians and collectors of Southwestern and Texas jazz (general
+      field influence)
   mentors:
-  - Territory and dance bands of Texas (general regional influence)
+    - Territory and dance bands of Texas (general regional influence)
 musicbrainz_id: bffd74cf-1a44-4fb0-9e93-0db0220933bb
 network_extracted: true
-origin: San Antonio, Texas, United States
+origin: 'San Antonio, Texas, United States'
 primary_source: perplexity
 research_sources:
-- https://www.early1900s.org/notes/2019/05/29/boots-and-his-buddies-1935/
-- http://oldtimeblues.net/2016/06/21/bluebird-b-6063-boots-and-his-buddies-1935/
-- https://www.last.fm/music/Boots+and+his+Buddies/The+Chronological+Boots+And+His+Buddies+1935-1937
-- https://www.dustygroove.com/item/646508/Boots-Douglas:Boots-His-Buddies-1935-to-1937
-- https://adp.library.ucsb.edu/index.php/mastertalent/detail/105520/Boots_and_his_Buddies
+  - 'https://www.early1900s.org/notes/2019/05/29/boots-and-his-buddies-1935/'
+  - >-
+    http://oldtimeblues.net/2016/06/21/bluebird-b-6063-boots-and-his-buddies-1935/
+  - >-
+    https://www.last.fm/music/Boots+and+his+Buddies/The+Chronological+Boots+And+His+Buddies+1935-1937
+  - >-
+    https://www.dustygroove.com/item/646508/Boots-Douglas:Boots-His-Buddies-1935-to-1937
+  - >-
+    https://adp.library.ucsb.edu/index.php/mastertalent/detail/105520/Boots_and_his_Buddies
 spotify_data:
   followers: 2
   id: 7tE8cykYRThTGY49Cn1ulo
   popularity: 0
-  url: https://open.spotify.com/artist/7tE8cykYRThTGY49Cn1ulo
+  url: 'https://open.spotify.com/artist/7tE8cykYRThTGY49Cn1ulo'
 status: active
-title: BOOTS AND HIS BUDDIES
+title: Boots and His Buddies
+birth_place: 'Temple, Texas, United States'
 ---
 
 ![]()

@@ -2,17 +2,17 @@
 title: Thievery Corporation
 wiki_slug: thievery-corporation
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1995'
 genres:
-- trip hop
-- downtempo
-- acid jazz
-- lounge
+  - trip hop
+  - downtempo
+  - acid jazz
+  - lounge
 instruments:
-- additional
-- drums (drum set)
+  - additional
+  - drums (drum set)
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/thievery_corporation.jpg
   caption: Thievery Corporation
@@ -33,81 +33,82 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Emilíana Torrini
-  - Pam Bricker
-  - Loulou Ghelichkhani
-  - Puma Ptah
-  - Rob Myers
-  - Jeff Franca
+    - Emilíana Torrini
+    - Pam Bricker
+    - Loulou Ghelichkhani
+    - Puma Ptah
+    - Rob Myers
+    - Jeff Franca
   influenced:
-  - Various downtempo and trip-hop artists
+    - Various downtempo and trip-hop artists
   mentors:
-  - Cal Tjader
-  - Wes Montgomery
-  - Sérgio Mendes & Brasil '66
+    - Cal Tjader
+    - Wes Montgomery
+    - Sérgio Mendes & Brasil '66
 spotify_data:
   followers: 960948
   id: 25KNo5GDS6ZpLkjasaecA3
   popularity: 63
-  url: https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3
+  url: 'https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3'
 discography_enriched: true
 top_tracks:
-- Lebanese Blonde (Mirror Conspiracy)
-- All That We Perceive (The Richest Man In Babylon)
-- Until The Morning (The Richest Man In Babylon)
-- Sweet Tides (Radio Retaliation)
-- Shadows of Ourselves (Mirror Conspiracy)
-- Saudade (Saudade)
-- The Richest Man In Babylon (The Richest Man In Babylon)
-- Amerimacka (The Cosmic Game)
-- Décollage (Saudade)
-- Un Simple Histoire (The Richest Man In Babylon)
+  - Lebanese Blonde (Mirror Conspiracy)
+  - All That We Perceive (The Richest Man In Babylon)
+  - Until The Morning (The Richest Man In Babylon)
+  - Sweet Tides (Radio Retaliation)
+  - Shadows of Ourselves (Mirror Conspiracy)
+  - Saudade (Saudade)
+  - The Richest Man In Babylon (The Richest Man In Babylon)
+  - Amerimacka (The Cosmic Game)
+  - Décollage (Saudade)
+  - Un Simple Histoire (The Richest Man In Babylon)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a505bb48-ad65-4af4-ae47-29149715bff9
-  spotify: https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3
-  wikipedia: https://en.wikipedia.org/wiki/Thievery_Corporation
+  musicbrainz: 'https://musicbrainz.org/artist/a505bb48-ad65-4af4-ae47-29149715bff9'
+  spotify: 'https://open.spotify.com/artist/25KNo5GDS6ZpLkjasaecA3'
+  wikipedia: 'https://en.wikipedia.org/wiki/Thievery_Corporation'
 image_path: 03_Resources/source_material/ArtistPortraits/thievery_corporation.jpg
 biography_enhanced_at: '2025-11-26T07:40:18.868180'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Thievery_Corporation
-- https://www.reggaeville.com/artist-details/thievery-corporation/about/
-- https://thieverycorporation.com/aboutm/
-- https://www.bighassle.com/thievery-corporation
-- https://balkanrock.com/english/rob-garza-thievery-corporation-music-has-always-been-a-powerful-tool-for-social-change/
+  - 'https://en.wikipedia.org/wiki/Thievery_Corporation'
+  - 'https://www.reggaeville.com/artist-details/thievery-corporation/about/'
+  - 'https://thieverycorporation.com/aboutm/'
+  - 'https://www.bighassle.com/thievery-corporation'
+  - >-
+    https://balkanrock.com/english/rob-garza-thievery-corporation-music-has-always-been-a-powerful-tool-for-social-change/
 network_extracted: true
 entry_created: '2025-11-26T07:40:18.868187'
 last_updated: '2025-12-23T08:16:17.370258'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - additional
-  - drums (drum set)
-  mbid: 709c4cfe-dc79-4ab4-a53e-70790aec60a7
-  name: Jeff Franca
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b035597b-30ef-439b-94c6-2c1a7f4b5bad
-  name: GARZA
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0cd190b9-7a4d-4701-9d31-0005cf6408ba
-  name: Rob Garza
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 28ea287e-6e83-473f-b404-936bbfbb88f6
-  name: Eric Hilton
+  - begin: ''
+    end: ''
+    instruments:
+      - additional
+      - drums (drum set)
+    mbid: 709c4cfe-dc79-4ab4-a53e-70790aec60a7
+    name: Jeff Franca
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b035597b-30ef-439b-94c6-2c1a7f4b5bad
+    name: GARZA
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0cd190b9-7a4d-4701-9d31-0005cf6408ba
+    name: Rob Garza
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 28ea287e-6e83-473f-b404-936bbfbb88f6
+    name: Eric Hilton
 musicbrainz_id: a505bb48-ad65-4af4-ae47-29149715bff9
-origin: Washington, D.C.
+origin: 'Washington, D.C., United States'
 tags:
-- chill-out
-- downtempo
-- dub
+  - chill-out
+  - downtempo
+  - dub
 ---
 
 ![](thievery_corporation.jpg)

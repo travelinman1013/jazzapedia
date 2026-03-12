@@ -1,20 +1,20 @@
 ---
-title: sandie shaw
+title: Sandie Shaw
 wiki_slug: sandie-shaw
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1947-02-26'
-birth_place: Dagenham
+birth_place: 'Dagenham, London, United Kingdom'
 genres: []
 instruments:
-- lead vocals
+  - lead vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 70144bf4-cfe3-49f6-b8ed-c42e73c9d95e
-  name: Winjama
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 70144bf4-cfe3-49f6-b8ed-c42e73c9d95e
+    name: Winjama
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sandie_shaw.jpg
   caption: sandie shaw
@@ -36,52 +36,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Chris Andrews
-  - The Smiths
+    - Chris Andrews
+    - The Smiths
   influenced:
-  - The Smiths
-  - Eurovision artists
+    - The Smiths
+    - Eurovision artists
   mentors:
-  - Adam Faith
-  - Eve Taylor
+    - Adam Faith
+    - Eve Taylor
 spotify_data:
   followers: 98018
   id: 5uxkcHbgyNbyzq1nyChvCa
   popularity: 38
-  url: https://open.spotify.com/artist/5uxkcHbgyNbyzq1nyChvCa
+  url: 'https://open.spotify.com/artist/5uxkcHbgyNbyzq1nyChvCa'
 discography_enriched: true
 top_tracks:
-- Puppet On A String (Love Me, Please Love Me (Deluxe Edition))
-- (There's) Always Something There To Remind Me (Sandie (Deluxe Edition))
-- Long Live Love - Mono Mix (Sandie (Deluxe Edition))
-- Monsieur Dupont (The Sandie Shaw Supplement (Deluxe Edition))
-- Those Were The Days (The Sandie Shaw Supplement (Deluxe Edition))
-- Girl Don't Come (Sandie (Deluxe Edition))
-- Rose Garden
-- Tell the Boys (Love Me, Please Love Me (Deluxe Edition))
-- Message Understood (Me (Deluxe Edition))
-- Love Me, Please Love Me (Love Me, Please Love Me (Deluxe Edition))
+  - 'Puppet On A String (Love Me, Please Love Me (Deluxe Edition))'
+  - (There's) Always Something There To Remind Me (Sandie (Deluxe Edition))
+  - Long Live Love - Mono Mix (Sandie (Deluxe Edition))
+  - Monsieur Dupont (The Sandie Shaw Supplement (Deluxe Edition))
+  - Those Were The Days (The Sandie Shaw Supplement (Deluxe Edition))
+  - Girl Don't Come (Sandie (Deluxe Edition))
+  - Rose Garden
+  - 'Tell the Boys (Love Me, Please Love Me (Deluxe Edition))'
+  - Message Understood (Me (Deluxe Edition))
+  - 'Love Me, Please Love Me (Love Me, Please Love Me (Deluxe Edition))'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/16963107-9288-43a2-946c-81de2f5eddfa
-  spotify: https://open.spotify.com/artist/5uxkcHbgyNbyzq1nyChvCa
-  wikipedia: https://en.wikipedia.org/wiki/Sandie_Shaw
+  musicbrainz: 'https://musicbrainz.org/artist/16963107-9288-43a2-946c-81de2f5eddfa'
+  spotify: 'https://open.spotify.com/artist/5uxkcHbgyNbyzq1nyChvCa'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sandie_Shaw'
 image_path: 03_Resources/source_material/ArtistPortraits/sandie_shaw.jpg
 biography_enhanced_at: '2025-10-24T07:50:12.680119'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://eastendwomensmuseum.org/blog/2022/5/11/sandie-shaw
-- https://www.last.fm/music/Sandie+Shaw/+wiki
-- https://www.imdb.com/name/nm0789962/bio/
+  - 'https://eastendwomensmuseum.org/blog/2022/5/11/sandie-shaw'
+  - 'https://www.last.fm/music/Sandie+Shaw/+wiki'
+  - 'https://www.imdb.com/name/nm0789962/bio/'
 network_extracted: true
 entry_created: '2025-10-24T07:50:12.680131'
 last_updated: '2025-12-23T08:16:15.364168'
 gender: Female
 musicbrainz_id: 16963107-9288-43a2-946c-81de2f5eddfa
 tags:
-- british
-- classic pop and rock
-- english
+  - british
+  - classic pop and rock
+  - english
 ---
 
 ![](sandie_shaw.jpg)

@@ -2,22 +2,22 @@
 title: The Oscar Peterson Trio
 wiki_slug: the-oscar-peterson-trio
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1946'
 genres:
-- jazz
-- cool jazz
-- bebop
-- hard bop
+  - jazz
+  - cool jazz
+  - bebop
+  - hard bop
 instruments:
-- drums (drum set)
-- bass
-- guitar
-- double bass
-- eponymous
-- original
-- piano
+  - drums (drum set)
+  - bass
+  - guitar
+  - double bass
+  - eponymous
+  - original
+  - piano
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_oscar_peterson_trio.jpg
   caption: The Oscar Peterson Trio
@@ -38,161 +38,163 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ray Brown
-  - Herb Ellis
-  - Barney Kessel
-  - Ed Thigpen
-  - Joe Pass
-  - Niels-Henning Ørsted Pedersen
-  - Norman Granz
-  - Ella Fitzgerald
-  - Louis Armstrong
+    - Ray Brown
+    - Herb Ellis
+    - Barney Kessel
+    - Ed Thigpen
+    - Joe Pass
+    - Niels-Henning Ørsted Pedersen
+    - Norman Granz
+    - Ella Fitzgerald
+    - Louis Armstrong
   influenced:
-  - Diana Krall
-  - Benny Green
-  - Hiromi Uehara
+    - Diana Krall
+    - Benny Green
+    - Hiromi Uehara
   mentors:
-  - Paul de Marky
-  - Art Tatum
-  - Nat King Cole
+    - Paul de Marky
+    - Art Tatum
+    - Nat King Cole
 spotify_data:
   followers: 219327
   id: 0ldU0QJm31y0d6f57R1G2A
   popularity: 58
-  url: https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A
+  url: 'https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A'
 discography_enriched: true
 top_tracks:
-- I Got It Bad And That Ain't Good (Night Train (Expanded Edition))
-- There Will Never Be Another You (The President Plays With The Oscar Peterson Trio)
-- Georgia On My Mind (Night Train (Expanded Edition))
-- Quiet Nights Of Quiet Stars (Corcovado)
-- I Can't Get Started (The President Plays With The Oscar Peterson Trio)
-- All Of Me (A Jazz Portrait Of Frank Sinatra)
-- Stardust (The President Plays With The Oscar Peterson Trio)
-- C Jam Blues (Night Train (Expanded Edition))
-- Easy Does It (Night Train (Expanded Edition))
-- Night Train (Night Train (Expanded Edition))
+  - I Got It Bad And That Ain't Good (Night Train (Expanded Edition))
+  - >-
+    There Will Never Be Another You (The President Plays With The Oscar Peterson
+    Trio)
+  - Georgia On My Mind (Night Train (Expanded Edition))
+  - Quiet Nights Of Quiet Stars (Corcovado)
+  - I Can't Get Started (The President Plays With The Oscar Peterson Trio)
+  - All Of Me (A Jazz Portrait Of Frank Sinatra)
+  - Stardust (The President Plays With The Oscar Peterson Trio)
+  - C Jam Blues (Night Train (Expanded Edition))
+  - Easy Does It (Night Train (Expanded Edition))
+  - Night Train (Night Train (Expanded Edition))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b083ec9b-27e0-4fda-801d-cb40861a0578
-  spotify: https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A
-  wikipedia: https://en.wikipedia.org/wiki/Oscar_Peterson
+  musicbrainz: 'https://musicbrainz.org/artist/b083ec9b-27e0-4fda-801d-cb40861a0578'
+  spotify: 'https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A'
+  wikipedia: 'https://en.wikipedia.org/wiki/Oscar_Peterson'
 image_path: 03_Resources/source_material/ArtistPortraits/the_oscar_peterson_trio.jpg
 biography_enhanced_at: '2025-11-03T07:32:32.139787'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.gregtivis.com/articles/Oscar-Peterson.php
-- https://interlude.hk/oscar-peterson-1925-2007-maharaja-of-the-keyboard/
-- https://www.theaudiodb.com/artist/124368-The-Oscar-Peterson-Trio
-- https://www.oscarpeterson.com
-- https://canadianmusichalloffame.ca/inductee/oscar-peterson/
+  - 'https://www.gregtivis.com/articles/Oscar-Peterson.php'
+  - 'https://interlude.hk/oscar-peterson-1925-2007-maharaja-of-the-keyboard/'
+  - 'https://www.theaudiodb.com/artist/124368-The-Oscar-Peterson-Trio'
+  - 'https://www.oscarpeterson.com'
+  - 'https://canadianmusichalloffame.ca/inductee/oscar-peterson/'
 network_extracted: true
 entry_created: '2025-11-03T07:32:32.139791'
 last_updated: '2025-12-23T08:16:17.035024'
 members:
-- begin: '1946'
-  end: '1949'
-  instruments:
-  - drums (drum set)
-  mbid: b3943588-6176-4088-82d5-0364c71ebeef
-  name: Clarence Jones
-- begin: '1946'
-  end: '1949'
-  instruments:
-  - bass
-  mbid: 8f87eb08-295e-4485-9f0f-9d65714c0264
-  name: Austin Roberts
-- begin: '1951'
-  end: '1951'
-  instruments:
-  - drums (drum set)
-  mbid: 94f63f81-c9ad-48fd-b3e5-382edb4cccb9
-  name: Charlie Smith
-- begin: '1951'
-  end: '1953'
-  instruments:
-  - guitar
-  mbid: cf347470-d1d1-48b4-bda1-8171418ef5a7
-  name: Barney Kessel
-- begin: '1951'
-  end: '1965'
-  instruments:
-  - double bass
-  mbid: d8a1a9e8-295d-4999-9c70-0a4c8bdb36e8
-  name: Ray Brown
-- begin: '1952'
-  end: '1952'
-  instruments:
-  - guitar
-  mbid: ccd9e73d-5cbd-49c6-b3e8-4fa3d8423934
-  name: Irving Ashby
-- begin: '1953'
-  end: '1958'
-  instruments:
-  - guitar
-  mbid: 33ddc4a0-2d48-4da5-91f4-180c3283d2f9
-  name: Herb Ellis
-- begin: '1959'
-  end: '1965'
-  instruments:
-  - drums (drum set)
-  mbid: 6a970d7f-f2e6-472f-990e-2f68aa161e00
-  name: Ed Thigpen
-- begin: ''
-  end: ''
-  instruments:
-  - double bass
-  mbid: 96592382-981c-453c-b5be-d3145243a3ef
-  name: Bert Brown
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: c269c003-f75c-4a1c-8d39-8e51e1b3857d
-  name: Franck Gariepy
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: a0d2bcc9-2053-4ac9-ad30-baec89ccff25
-  name: Ben Johnson
-- begin: ''
-  end: ''
-  instruments:
-  - double bass
-  mbid: 7689b657-c11f-4a37-baf5-947e03191807
-  name: Albert King
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 07faf30e-92a0-4b8d-8a4c-0ce93177ea86
-  name: Mark Wilkinson
-- begin: ''
-  end: ''
-  instruments:
-  - bass
-  mbid: 11538a87-783b-45fa-ac5e-f65e80c24233
-  name: George Mraz
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  - piano
-  mbid: ed801bdd-f057-41c0-94fb-76cb5676cd59
-  name: Oscar Peterson
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 63f5f9b9-6738-4c45-9299-c736cdb04153
-  name: Ray Price
+  - begin: '1946'
+    end: '1949'
+    instruments:
+      - drums (drum set)
+    mbid: b3943588-6176-4088-82d5-0364c71ebeef
+    name: Clarence Jones
+  - begin: '1946'
+    end: '1949'
+    instruments:
+      - bass
+    mbid: 8f87eb08-295e-4485-9f0f-9d65714c0264
+    name: Austin Roberts
+  - begin: '1951'
+    end: '1951'
+    instruments:
+      - drums (drum set)
+    mbid: 94f63f81-c9ad-48fd-b3e5-382edb4cccb9
+    name: Charlie Smith
+  - begin: '1951'
+    end: '1953'
+    instruments:
+      - guitar
+    mbid: cf347470-d1d1-48b4-bda1-8171418ef5a7
+    name: Barney Kessel
+  - begin: '1951'
+    end: '1965'
+    instruments:
+      - double bass
+    mbid: d8a1a9e8-295d-4999-9c70-0a4c8bdb36e8
+    name: Ray Brown
+  - begin: '1952'
+    end: '1952'
+    instruments:
+      - guitar
+    mbid: ccd9e73d-5cbd-49c6-b3e8-4fa3d8423934
+    name: Irving Ashby
+  - begin: '1953'
+    end: '1958'
+    instruments:
+      - guitar
+    mbid: 33ddc4a0-2d48-4da5-91f4-180c3283d2f9
+    name: Herb Ellis
+  - begin: '1959'
+    end: '1965'
+    instruments:
+      - drums (drum set)
+    mbid: 6a970d7f-f2e6-472f-990e-2f68aa161e00
+    name: Ed Thigpen
+  - begin: ''
+    end: ''
+    instruments:
+      - double bass
+    mbid: 96592382-981c-453c-b5be-d3145243a3ef
+    name: Bert Brown
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: c269c003-f75c-4a1c-8d39-8e51e1b3857d
+    name: Franck Gariepy
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: a0d2bcc9-2053-4ac9-ad30-baec89ccff25
+    name: Ben Johnson
+  - begin: ''
+    end: ''
+    instruments:
+      - double bass
+    mbid: 7689b657-c11f-4a37-baf5-947e03191807
+    name: Albert King
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 07faf30e-92a0-4b8d-8a4c-0ce93177ea86
+    name: Mark Wilkinson
+  - begin: ''
+    end: ''
+    instruments:
+      - bass
+    mbid: 11538a87-783b-45fa-ac5e-f65e80c24233
+    name: George Mraz
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - piano
+    mbid: ed801bdd-f057-41c0-94fb-76cb5676cd59
+    name: Oscar Peterson
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 63f5f9b9-6738-4c45-9299-c736cdb04153
+    name: Ray Price
 musicbrainz_id: b083ec9b-27e0-4fda-801d-cb40861a0578
-origin: Montreal, Quebec, Canada
+origin: 'Montreal, Quebec, Canada'
 tags:
-- jazz
-
+  - jazz
+birth_place: 'Montreal, Quebec, Canada'
 ---
 
 ![](the_oscar_peterson_trio.jpg)

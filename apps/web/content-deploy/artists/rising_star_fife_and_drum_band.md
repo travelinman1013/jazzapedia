@@ -1,11 +1,12 @@
 ---
-title: rising star fife and drum band
+title: Rising Star Fife and Drum Band
 wiki_slug: rising-star-fife-and-drum-band
 schema_version: 2
 status: active
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/rising_star_fife_and_drum_band.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/rising_star_fife_and_drum_band.jpg
   caption: rising star fife and drum band
   background: solo_singer
 audio_profile:
@@ -23,50 +24,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Shardé Thomas
-  - Chris Mallory
-  - Napoleon Strickland
-  - Eric Clapton
-  - North Mississippi Allstars
+    - Shardé Thomas
+    - Chris Mallory
+    - Napoleon Strickland
+    - Eric Clapton
+    - North Mississippi Allstars
   influenced:
-  - Shardé Thomas
+    - Shardé Thomas
   mentors:
-  - Othar Turner
+    - Othar Turner
 spotify_data:
   followers: 304
   id: 2Cg8AUQ4m4olTS34rTu7Wi
   popularity: 6
-  url: https://open.spotify.com/artist/2Cg8AUQ4m4olTS34rTu7Wi
+  url: 'https://open.spotify.com/artist/2Cg8AUQ4m4olTS34rTu7Wi'
 discography_enriched: true
 top_tracks:
-- Amourette (Rêve du troubadour)
-- Glory, Glory, Hallelujah (Evolution of Fife and Drum Music)
-- Mississippi (Evolution of Fife and Drum Music)
-- Rêve du troubadour (Rêve du troubadour)
-- My Baby (New Orleans Bounce Edition) (My Baby (New Orleans Bounce Edition))
-- Fly With Me (Evolution of Fife and Drum Music)
-- You Know That Dog Gon Bite (Evolution of Fife and Drum Music)
-- Sittin on Top of The World (Evolution of Fife and Drum Music)
-- 'Hens (Evolution Of Fife And Drum Music 2: Hickhala Creek)'
-- 'My Baby (Evolution Of Fife And Drum Music 2: Hickhala Creek)'
+  - Amourette (Rêve du troubadour)
+  - 'Glory, Glory, Hallelujah (Evolution of Fife and Drum Music)'
+  - Mississippi (Evolution of Fife and Drum Music)
+  - Rêve du troubadour (Rêve du troubadour)
+  - My Baby (New Orleans Bounce Edition) (My Baby (New Orleans Bounce Edition))
+  - Fly With Me (Evolution of Fife and Drum Music)
+  - You Know That Dog Gon Bite (Evolution of Fife and Drum Music)
+  - Sittin on Top of The World (Evolution of Fife and Drum Music)
+  - 'Hens (Evolution Of Fife And Drum Music 2: Hickhala Creek)'
+  - 'My Baby (Evolution Of Fife And Drum Music 2: Hickhala Creek)'
 external_urls:
-  spotify: https://open.spotify.com/artist/2Cg8AUQ4m4olTS34rTu7Wi
-  wikipedia: https://en.wikipedia.org/wiki/Othar_Turner
-image_path: 03_Resources/source_material/ArtistPortraits/rising_star_fife_and_drum_band.jpg
+  spotify: 'https://open.spotify.com/artist/2Cg8AUQ4m4olTS34rTu7Wi'
+  wikipedia: 'https://en.wikipedia.org/wiki/Othar_Turner'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/rising_star_fife_and_drum_band.jpg
 biography_enhanced_at: '2025-12-12T12:11:10.689893'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.arts.gov/honors/heritage/othar-turner
-- https://othaturner.com/artist-profile/rising-stars-fife-and-drum-band/
-- https://playingforchange.com/artists/rising-stars-fife-and-drum-band
-- https://en.wikipedia.org/wiki/Othar_Turner
-- https://musicsofamerica.org/artist/rising-stars-fife-and-drum-band/
-- https://msfolkdirectory.org/sharde-thomas/
+  - 'https://www.arts.gov/honors/heritage/othar-turner'
+  - 'https://othaturner.com/artist-profile/rising-stars-fife-and-drum-band/'
+  - 'https://playingforchange.com/artists/rising-stars-fife-and-drum-band'
+  - 'https://en.wikipedia.org/wiki/Othar_Turner'
+  - 'https://musicsofamerica.org/artist/rising-stars-fife-and-drum-band/'
+  - 'https://msfolkdirectory.org/sharde-thomas/'
 network_extracted: true
 entry_created: '2025-12-12T12:11:10.689904'
 last_updated: '2025-12-23T08:16:14.857080'
-origin: Como, Panola County, Mississippi, United States
+origin: 'Como, Panola County, Mississippi, United States'
+birth_place: 'Canton, Mississippi, United States'
+birth_date: '1907'
+death_date: '2003'
+artist_type: band
 ---
 
 ![](rising_star_fife_and_drum_band.jpg)

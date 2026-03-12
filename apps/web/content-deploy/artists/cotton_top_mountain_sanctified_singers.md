@@ -1,44 +1,48 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2025-12-25T01:09:35.614989'
 enhancement_provider: perplexity
 entry_created: '2025-12-25T01:09:35.615001'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c827d6cc-325e-4834-a3ba-aaeaff86e17e
-  spotify: https://open.spotify.com/artist/5jYbviy6JqqdHyLFiwFZbT
+  musicbrainz: 'https://musicbrainz.org/artist/c827d6cc-325e-4834-a3ba-aaeaff86e17e'
+  spotify: 'https://open.spotify.com/artist/5jYbviy6JqqdHyLFiwFZbT'
   wikipedia: ''
 genres: []
-image_path: 03_Resources/source_material/ArtistPortraits/cotton_top_mountain_sanctified_singers.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/cotton_top_mountain_sanctified_singers.jpg
 last_updated: '2025-12-25T01:09:35.615003'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 258c295b-bae6-433b-955b-b590fe4a571d
-  name: Bill Johnson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 258c295b-bae6-433b-955b-b590fe4a571d
+    name: Bill Johnson
 musical_connections:
   collaborators:
-  - Frankie 'Half-Pint' Jaxon
-  - Ernie Punch Miller
+    - Frankie 'Half-Pint' Jaxon
+    - Ernie Punch Miller
   influenced:
-  - Bruce Cockburn
+    - Bruce Cockburn
   mentors: []
 musicbrainz_id: c827d6cc-325e-4834-a3ba-aaeaff86e17e
 network_extracted: true
-origin: United States (likely Chicago area)
+origin: 'Chicago, Illinois, United States'
 primary_source: perplexity
 research_sources:
-- https://adp.library.ucsb.edu/index.php/mastertalent/detail/309987/Cotton_Top_Mountain_Sanctified_Singers[1]
-- https://www.last.fm/music/Cotton+Top+Mountain+Sanctified+Singers/+wiki[2]
-- https://historienerrant.wordpress.com/2011/12/23/down-in-yon-forest-a-song-about-christmas-easter-and-probably-the-holy-grail/[6]
-- https://somerville.minlib.net/Record/.b28494076?searchId=53243408&recordIndex=9&page=1[5]
+  - >-
+    https://adp.library.ucsb.edu/index.php/mastertalent/detail/309987/Cotton_Top_Mountain_Sanctified_Singers[1]
+  - 'https://www.last.fm/music/Cotton+Top+Mountain+Sanctified+Singers/+wiki[2]'
+  - >-
+    https://historienerrant.wordpress.com/2011/12/23/down-in-yon-forest-a-song-about-christmas-easter-and-probably-the-holy-grail/[6]
+  - >-
+    https://somerville.minlib.net/Record/.b28494076?searchId=53243408&recordIndex=9&page=1[5]
 spotify_data:
   followers: 65
   id: 5jYbviy6JqqdHyLFiwFZbT
   popularity: 3
-  url: https://open.spotify.com/artist/5jYbviy6JqqdHyLFiwFZbT
+  url: 'https://open.spotify.com/artist/5jYbviy6JqqdHyLFiwFZbT'
 status: active
-title: COTTON TOP MOUNTAIN SANCTIFIED SINGERS
+title: Cotton Top Mountain Sanctified Singers
 ---
 
 ![](cotton_top_mountain_sanctified_singers.jpg)

@@ -1,51 +1,51 @@
 ---
-title: joe bonamassa
+title: Joe Bonamassa
 wiki_slug: joe-bonamassa
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1977-05-08'
-birth_place: Utica
+birth_place: 'Utica, New York, United States'
 genres:
-- blues
-- blues rock
-- modern blues
+  - blues
+  - blues rock
+  - modern blues
 instruments:
-- guitar
-- original
-- electric guitar
-- acoustic guitar
-- slide guitar
-- resonator guitar
-- 12 string guitar
-- lead vocals
-- vocal
-- spoken vocals
-- background vocals
-associated_acts:
-- begin: '1991'
-  end: '1996'
-  instruments:
   - guitar
   - original
-  mbid: e3bcbe90-a7f6-4826-ae6e-bad74213d10a
-  name: Bloodline
-- begin: 2009-11
-  end: '2013-03-13'
-  instruments:
-  - original
-  mbid: 9ebaa4d9-d8ca-4783-a262-cd895c5ad168
-  name: Black Country Communion
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5ccb5844-fe82-4af4-b9b9-7341c83d83d2
-  name: Rock Candy Funk Party
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6d1c3698-6ef2-4f67-b626-fa16e2c69c8e
-  name: Mark Knopfler’s Guitar Heroes
+  - electric guitar
+  - acoustic guitar
+  - slide guitar
+  - resonator guitar
+  - 12 string guitar
+  - lead vocals
+  - vocal
+  - spoken vocals
+  - background vocals
+associated_acts:
+  - begin: '1991'
+    end: '1996'
+    instruments:
+      - guitar
+      - original
+    mbid: e3bcbe90-a7f6-4826-ae6e-bad74213d10a
+    name: Bloodline
+  - begin: 2009-11
+    end: '2013-03-13'
+    instruments:
+      - original
+    mbid: 9ebaa4d9-d8ca-4783-a262-cd895c5ad168
+    name: Black Country Communion
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5ccb5844-fe82-4af4-b9b9-7341c83d83d2
+    name: Rock Candy Funk Party
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6d1c3698-6ef2-4f67-b626-fa16e2c69c8e
+    name: Mark Knopfler’s Guitar Heroes
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/joe_bonamassa.jpg
   caption: joe bonamassa
@@ -59,7 +59,7 @@ audio_profile:
   danceability_avg: 0.521
   acousticness_avg: 0.114
   instrumentalness_avg: 0.043
-  loudness_avg: -6.0
+  loudness_avg: -6
   speechiness_avg: 0.052
   liveness_avg: 0.202
   track_count: 63
@@ -67,59 +67,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Beth Hart
-  - Black Country Communion
-  - Bloodline
+    - Beth Hart
+    - Black Country Communion
+    - Bloodline
   influenced:
-  - Solomon Hicks
-  - Derek Trucks
+    - Solomon Hicks
+    - Derek Trucks
   mentors:
-  - Danny Gatton
-  - B.B. King
-  - Eric Clapton
+    - Danny Gatton
+    - B.B. King
+    - Eric Clapton
 spotify_data:
   followers: 998849
   id: 2SNzxY1OsSCHBLVi77mpPQ
   popularity: 58
-  url: https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ
+  url: 'https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ'
 discography_enriched: true
 top_tracks:
-- Blues Deluxe (Blues Deluxe)
-- Drive (Blues Of Desperation)
-- Drive By The Exit Sign
-- Driving Towards the Daylight (Driving Towards The Daylight)
-- Shake This Ground
-- Trigger Finger
-- Sloe Gin (Sloe Gin)
-- So Many Roads (You & Me)
-- Dust Bowl (Dust Bowl)
-- Fortune Teller Blues
+  - Blues Deluxe (Blues Deluxe)
+  - Drive (Blues Of Desperation)
+  - Drive By The Exit Sign
+  - Driving Towards the Daylight (Driving Towards The Daylight)
+  - Shake This Ground
+  - Trigger Finger
+  - Sloe Gin (Sloe Gin)
+  - So Many Roads (You & Me)
+  - Dust Bowl (Dust Bowl)
+  - Fortune Teller Blues
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/984f8239-8fe1-4683-9c54-10ffb14439e9
-  spotify: https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ
-  wikipedia: https://en.wikipedia.org/wiki/Joe_Bonamassa
+  musicbrainz: 'https://musicbrainz.org/artist/984f8239-8fe1-4683-9c54-10ffb14439e9'
+  spotify: 'https://open.spotify.com/artist/2SNzxY1OsSCHBLVi77mpPQ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Joe_Bonamassa'
 image_path: 03_Resources/source_material/ArtistPortraits/joe_bonamassa.jpg
 biography_enhanced_at: '2025-11-22T07:40:18.364437'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Joe+Bonamassa/+wiki
-- https://kids.kiddle.co/Joe_Bonamassa
-- https://www.bluesguitarinsider.com/blues-guitarists/joe-bonamassa
-- https://www.sj-r.com/story/entertainment/music/2012/05/03/guitarist-joe-bonamassa-born-to/41740616007/
-- https://jbonamassa.com/bonamassas-journey-to-becoming-a-leading-blues-player/
-- https://jbonamassa.com/who-is-joe-bonamassa/
-- https://www.yamaha.com/artists/joebonamassa.html
+  - 'https://www.last.fm/music/Joe+Bonamassa/+wiki'
+  - 'https://kids.kiddle.co/Joe_Bonamassa'
+  - 'https://www.bluesguitarinsider.com/blues-guitarists/joe-bonamassa'
+  - >-
+    https://www.sj-r.com/story/entertainment/music/2012/05/03/guitarist-joe-bonamassa-born-to/41740616007/
+  - >-
+    https://jbonamassa.com/bonamassas-journey-to-becoming-a-leading-blues-player/
+  - 'https://jbonamassa.com/who-is-joe-bonamassa/'
+  - 'https://www.yamaha.com/artists/joebonamassa.html'
 network_extracted: true
 entry_created: '2025-11-22T07:40:18.364450'
 last_updated: '2025-12-23T08:16:10.568405'
 gender: Male
 musicbrainz_id: 984f8239-8fe1-4683-9c54-10ffb14439e9
 tags:
-- blues
-- blues rock
-- englisch
-
+  - blues
+  - blues rock
+  - englisch
 ---
 
 ![](joe_bonamassa.jpg)

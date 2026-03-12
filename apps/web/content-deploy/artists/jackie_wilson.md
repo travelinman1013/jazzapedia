@@ -1,24 +1,24 @@
 ---
-title: jackie wilson
+title: Jackie Wilson
 wiki_slug: jackie-wilson
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1934-06-09'
-birth_place: Detroit
+birth_place: 'Detroit, Michigan, United States'
 death_date: '1984-01-21'
 genres:
-- northern soul
-- motown
-- soul
+  - northern soul
+  - motown
+  - soul
 instruments:
-- lead vocals
+  - lead vocals
 associated_acts:
-- begin: '1953'
-  end: '1957'
-  instruments: []
-  mbid: 162c7c0e-ca66-498e-a8b1-ce44ae47ab7f
-  name: Billy Ward and His Dominoes
+  - begin: '1953'
+    end: '1957'
+    instruments: []
+    mbid: 162c7c0e-ca66-498e-a8b1-ce44ae47ab7f
+    name: Billy Ward and His Dominoes
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jackie_wilson.jpg
   caption: jackie wilson
@@ -41,47 +41,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Berry Gordy Jr.
-  - Roquel "Billy" Davis
-  - Carl Davis
-  - The Funk Brothers
+    - Berry Gordy Jr.
+    - Roquel "Billy" Davis
+    - Carl Davis
+    - The Funk Brothers
   influenced:
-  - Michael Jackson
-  - Elvis Presley
-  - Berry Gordy Jr.
+    - Michael Jackson
+    - Elvis Presley
+    - Berry Gordy Jr.
   mentors:
-  - Clyde McPhatter
-  - Roy Brown
+    - Clyde McPhatter
+    - Roy Brown
 spotify_data:
   followers: 490805
   id: 4VnomLtKTm9Ahe1tZfmZju
   popularity: 51
-  url: https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju
+  url: 'https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju'
 discography_enriched: true
 top_tracks:
-- (Your Love Keeps Lifting Me) Higher & Higher (Higher And Higher)
-- (Your Love Keeps Lifting Me) Higher & Higher
-- Reet Petite (He's So Fine)
-- I Get The Sweetest Feeling (I Get The Sweetest Feeling)
-- To Be Loved (He's So Fine)
-- Lonely Teardrops (Lonely Teardrops)
-- Lonely Teardrops
-- Reet Petite
-- Deck The Halls (Merry Christmas From Jackie Wilson)
-- What's Done In The Dark (Will One Day Come To Light) (Soul Galore)
+  - (Your Love Keeps Lifting Me) Higher & Higher (Higher And Higher)
+  - (Your Love Keeps Lifting Me) Higher & Higher
+  - Reet Petite (He's So Fine)
+  - I Get The Sweetest Feeling (I Get The Sweetest Feeling)
+  - To Be Loved (He's So Fine)
+  - Lonely Teardrops (Lonely Teardrops)
+  - Lonely Teardrops
+  - Reet Petite
+  - Deck The Halls (Merry Christmas From Jackie Wilson)
+  - What's Done In The Dark (Will One Day Come To Light) (Soul Galore)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f0bf4fa0-028e-452f-82d3-7d4375e105dd
-  spotify: https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju
-  wikipedia: https://en.wikipedia.org/wiki/Jackie_Wilson
+  musicbrainz: 'https://musicbrainz.org/artist/f0bf4fa0-028e-452f-82d3-7d4375e105dd'
+  spotify: 'https://open.spotify.com/artist/4VnomLtKTm9Ahe1tZfmZju'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jackie_Wilson'
 image_path: 03_Resources/source_material/ArtistPortraits/jackie_wilson.jpg
 biography_enhanced_at: '2025-10-24T07:50:33.739694'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.edsullivan.com/artists/jackie-wilson/
-- https://michiganrockandrolllegends.com/hall-of-fame/artists/284-jackie-wilson
-- https://en.wikipedia.org/wiki/Jackie_Wilson
-- https://www.britannica.com/biography/Jackie-Wilson
+  - 'https://www.edsullivan.com/artists/jackie-wilson/'
+  - >-
+    https://michiganrockandrolllegends.com/hall-of-fame/artists/284-jackie-wilson
+  - 'https://en.wikipedia.org/wiki/Jackie_Wilson'
+  - 'https://www.britannica.com/biography/Jackie-Wilson'
 network_extracted: true
 entry_created: '2025-10-24T07:50:33.739705'
 last_updated: '2025-12-23T08:16:10.070018'
@@ -89,10 +90,10 @@ disambiguation: soul singer
 gender: Male
 musicbrainz_id: f0bf4fa0-028e-452f-82d3-7d4375e105dd
 tags:
-- chicago soul
-- classic soul
-- doo-wop
-
+  - chicago soul
+  - classic soul
+  - doo-wop
+is_active: false
 ---
 
 ![](jackie_wilson.jpg)

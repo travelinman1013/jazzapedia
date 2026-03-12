@@ -3,17 +3,17 @@ title: King Sunny Ade
 wiki_slug: king-sunny-ade
 schema_version: 2
 status: active
-birth_place: Osogbo (with royal family roots in Ondo), Osun State / Ondo State, Nigeria
+birth_place: 'Osogbo (with royal family roots in Ondo), Osun State / Ondo State, Nigeria'
 genres:
-- fújì
-- highlife
-- afropop
-- afrobeat
+  - fújì
+  - highlife
+  - afropop
+  - afrobeat
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/king_sunny_ade.jpg
   caption: King Sunny Ade
   background: solo_singer
-  origin: Osogbo (with royal family roots in Ondo), Osun State / Ondo State, Nigeria
+  origin: 'Osogbo (with royal family roots in Ondo), Osun State / Ondo State, Nigeria'
 audio_profile:
   tempo_avg: 120.6
   energy_avg: 0.689
@@ -29,47 +29,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Moses Olaiya’s Federal Rhythm Dandies
-  - The Green Spots / African Beats
-  - Island Records / Mango label producers
+    - Moses Olaiya’s Federal Rhythm Dandies
+    - The Green Spots / African Beats
+    - Island Records / Mango label producers
   influenced:
-  - Afrobeat and Afropop generations (e.g., Femi Kuti, younger Nigerian pop acts)
-  - World‑music and jam‑band guitarists
+    - >-
+      Afrobeat and Afropop generations (e.g., Femi Kuti, younger Nigerian pop
+      acts)
+    - World‑music and jam‑band guitarists
   mentors:
-  - Moses Olaiya (Baba Sala)
-  - I.K. Dairo
-  - Tunde Nightingale
-  - American soul and country artists (e.g., James Brown, Brook Benton, Jim Reeves)
+    - Moses Olaiya (Baba Sala)
+    - I.K. Dairo
+    - Tunde Nightingale
+    - >-
+      American soul and country artists (e.g., James Brown, Brook Benton, Jim
+      Reeves)
 spotify_data:
   followers: 125818
   id: 0eatcjNWvGuDEPNnjgPNn1
   popularity: 44
-  url: https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1
+  url: 'https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1'
 discography_enriched: true
 top_tracks:
-- Merciful God (Seven Degrees North)
-- Appreciation (Seven Degrees North)
-- Suku Suku Bam Bam (Seven Degrees North)
-- Alashe L'Aiye (E Dide [Get Up])
-- 'Esubiribiri Ebomi (Classics, Vol. 2: Ekilo Fomo Ode & the Way Forward)'
-- Eni Nbinu Wa (Sunny Ade, Vol. 1)
-- Aye Nreti Elaya Mi
-- E Kilo F'omo Ode (Sunny Ade, Vol. 1)
-- 'Let Them Say (Classics, Vol. 1: Let Them Say & Edide)'
-- Orisun Iye (E Dide [Get Up])
+  - Merciful God (Seven Degrees North)
+  - Appreciation (Seven Degrees North)
+  - Suku Suku Bam Bam (Seven Degrees North)
+  - 'Alashe L''Aiye (E Dide [Get Up])'
+  - 'Esubiribiri Ebomi (Classics, Vol. 2: Ekilo Fomo Ode & the Way Forward)'
+  - 'Eni Nbinu Wa (Sunny Ade, Vol. 1)'
+  - Aye Nreti Elaya Mi
+  - 'E Kilo F''omo Ode (Sunny Ade, Vol. 1)'
+  - 'Let Them Say (Classics, Vol. 1: Let Them Say & Edide)'
+  - 'Orisun Iye (E Dide [Get Up])'
 external_urls:
-  spotify: https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1
-  wikipedia: https://en.wikipedia.org/wiki/King_Sunny_Ad%C3%A9
+  spotify: 'https://open.spotify.com/artist/0eatcjNWvGuDEPNnjgPNn1'
+  wikipedia: 'https://en.wikipedia.org/wiki/King_Sunny_Ad%C3%A9'
 image_path: 03_Resources/source_material/ArtistPortraits/king_sunny_ade.jpg
 biography_enhanced_at: '2025-12-05T06:06:01.638852'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- General biographical overviews and artist profiles from reputable music and reference sites (e.g., encyclopedia entries,
-  music‑history features, artist bios, and long‑form essays on King Sunny Ade, jùjú music, and Nigerian popular music).
+  - >-
+    General biographical overviews and artist profiles from reputable music and
+    reference sites (e.g., encyclopedia entries, music‑history features, artist
+    bios, and long‑form essays on King Sunny Ade, jùjú music, and Nigerian
+    popular music).
 network_extracted: true
 entry_created: '2025-12-05T06:06:01.638861'
 last_updated: '2025-12-23T08:16:11.413773'
+birth_date: '1946-09-22'
+artist_type: person
 ---
 
 ![](king_sunny_ade.jpg)

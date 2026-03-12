@@ -1,14 +1,14 @@
 ---
-title: Everlast, Yelawolf
+title: Everlast & Yelawolf
 wiki_slug: everlast-yelawolf
 schema_version: 2
 status: active
 genres:
-- country hip hop
-- southern hip hop
+  - country hip hop
+  - southern hip hop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/everlast_yelawolf.jpg
-  caption: Everlast, Yelawolf
+  caption: 'Everlast, Yelawolf'
   background: solo_singer
 audio_profile:
   tempo_avg: 121.4
@@ -25,49 +25,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - House of Pain (Everlast)
-  - Ghet-O-Vision Entertainment and WLPWR (Yelawolf)
-  - Major‑label partners and cross‑genre collaborators (Yelawolf)
+    - House of Pain (Everlast)
+    - Ghet-O-Vision Entertainment and WLPWR (Yelawolf)
+    - Major‑label partners and cross‑genre collaborators (Yelawolf)
   influenced:
-  - Country‑rap and crossover hip hop artists
+    - Country‑rap and crossover hip hop artists
   mentors:
-  - Early New York hip hop and rock scenes (for Everlast)
-  - Southern hip hop and country music (for Yelawolf)
+    - Early New York hip hop and rock scenes (for Everlast)
+    - Southern hip hop and country music (for Yelawolf)
 spotify_data:
   followers: 2375493
   id: 68DWke2VjdDmA75aJX5C57
   popularity: 66
-  url: https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57
+  url: 'https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57'
 discography_enriched: true
 top_tracks:
-- 1Train (feat. Kendrick Lamar, Joey Bada$$, Yelawolf, Danny Brown, Action Bronson & Big K.R.I.T.) (LONG.LIVE.A$AP (Deluxe
-  Version))
-- You and Me (Ghetto Cowboy)
-- Till It's Gone (Love Story)
-- Best Friend (Love Story)
-- Pop The Trunk (Trunk Muzik 0-60)
-- Unlive - with Yelawolf (Whitsitt Chapel)
-- Daddy's Lambo (Trunk Muzik 0-60)
-- Catfish Billy
-- Searching for Heaven
-- American You (Love Story)
+  - >-
+    1Train (feat. Kendrick Lamar, Joey Bada$$, Yelawolf, Danny Brown, Action
+    Bronson & Big K.R.I.T.) (LONG.LIVE.A$AP (Deluxe Version))
+  - You and Me (Ghetto Cowboy)
+  - Till It's Gone (Love Story)
+  - Best Friend (Love Story)
+  - Pop The Trunk (Trunk Muzik 0-60)
+  - Unlive - with Yelawolf (Whitsitt Chapel)
+  - Daddy's Lambo (Trunk Muzik 0-60)
+  - Catfish Billy
+  - Searching for Heaven
+  - American You (Love Story)
 external_urls:
-  spotify: https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57
+  spotify: 'https://open.spotify.com/artist/68DWke2VjdDmA75aJX5C57'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/everlast_yelawolf.jpg
 biography_enhanced_at: '2025-12-15T01:39:37.199460'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- IMDb biography of Yelawolf[4]
-- Masquerade Atlanta artist bio for Yelawolf[3]
-- DJBooth feature on Yelawolf’s transition into country‑rap[2]
-- The Nashvillian feature on Yelawolf’s journey[5]
-- Last.fm biography of Everlast[6]
+  - 'IMDb biography of Yelawolf[4]'
+  - 'Masquerade Atlanta artist bio for Yelawolf[3]'
+  - 'DJBooth feature on Yelawolf’s transition into country‑rap[2]'
+  - 'The Nashvillian feature on Yelawolf’s journey[5]'
+  - 'Last.fm biography of Everlast[6]'
 network_extracted: true
 entry_created: '2025-12-15T01:39:37.199473'
 last_updated: '2025-12-23T08:16:08.543825'
-origin: Valley Stream, New York, United States; Gadsden, Alabama, United States
+origin: 'Valley Stream, New York, United States; Gadsden, Alabama, United States'
+artist_type: band
 ---
 
 ![](everlast_yelawolf.jpg)

@@ -3,14 +3,14 @@ title: Leon Anderson
 wiki_slug: leon-anderson
 schema_version: 2
 status: active
-birth_place: Los Angeles, California, United States
+birth_place: 'Los Angeles, California, United States'
 genres:
-- christian hip hop
+  - christian hip hop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/leon_anderson.jpg
   caption: Leon Anderson
   background: solo_singer
-  origin: Los Angeles, California, United States
+  origin: 'Los Angeles, California, United States'
 audio_profile:
   tempo_avg: 111.3
   energy_avg: 0.499
@@ -26,42 +26,43 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Not publicly documented
+    - Not publicly documented
   influenced:
-  - Not publicly documented
+    - Not publicly documented
   mentors:
-  - Not publicly documented
+    - Not publicly documented
 spotify_data:
   followers: 763
   id: 4qcDnO6xIuo3cY8oUmmBSV
   popularity: 2
-  url: https://open.spotify.com/artist/4qcDnO6xIuo3cY8oUmmBSV
+  url: 'https://open.spotify.com/artist/4qcDnO6xIuo3cY8oUmmBSV'
 discography_enriched: true
 top_tracks:
-- Temple In LA (Temple In LA)
-- Temple In LA (BOLD)
-- For The Fallen (BOLD)
-- Outside (For Saints & Sinners)
-- Language (Language)
-- Real (BOLD)
-- 4AM In LA (4AM In LA)
-- Save me (Save me)
-- Intro (BOLD) (BOLD)
-- Radiate (BOLD)
+  - Temple In LA (Temple In LA)
+  - Temple In LA (BOLD)
+  - For The Fallen (BOLD)
+  - Outside (For Saints & Sinners)
+  - Language (Language)
+  - Real (BOLD)
+  - 4AM In LA (4AM In LA)
+  - Save me (Save me)
+  - Intro (BOLD) (BOLD)
+  - Radiate (BOLD)
 external_urls:
-  spotify: https://open.spotify.com/artist/4qcDnO6xIuo3cY8oUmmBSV
+  spotify: 'https://open.spotify.com/artist/4qcDnO6xIuo3cY8oUmmBSV'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/leon_anderson.jpg
 biography_enhanced_at: '2025-11-22T07:38:21.549630'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.youtube.com/watch?v=0-Gm6ZVLvu0
-- https://www.youtube.com/watch?v=4C-gec4O-HU
-- https://voyagela.com/interview/check-out-leon-andersons-story/
+  - 'https://www.youtube.com/watch?v=0-Gm6ZVLvu0'
+  - 'https://www.youtube.com/watch?v=4C-gec4O-HU'
+  - 'https://voyagela.com/interview/check-out-leon-andersons-story/'
 network_extracted: true
 entry_created: '2025-11-22T07:38:21.549647'
 last_updated: '2025-12-23T08:16:11.805489'
+artist_type: person
 ---
 
 ![](leon_anderson.jpg)

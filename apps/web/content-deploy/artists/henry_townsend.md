@@ -1,18 +1,18 @@
 ---
-title: HENRY TOWNSEND
+title: Henry Townsend
 wiki_slug: henry-townsend
 schema_version: 2
 status: active
-birth_place: Shelby, Mississippi, USA
+birth_place: 'Shelby, Mississippi, USA'
 genres:
-- country blues
-- blues
-- classic blues
+  - country blues
+  - blues
+  - classic blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/henry_townsend.jpg
   caption: HENRY TOWNSEND
   background: solo_singer
-  origin: Shelby, Mississippi, USA
+  origin: 'Shelby, Mississippi, USA'
 audio_profile:
   tempo_avg: 107.5
   energy_avg: 0.429
@@ -28,46 +28,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Roosevelt Sykes
-  - Walter Davis
-  - Robert Lockwood
+    - Roosevelt Sykes
+    - Walter Davis
+    - Robert Lockwood
   influenced:
-  - Young musicians in St. Louis
+    - Young musicians in St. Louis
   mentors:
-  - Lonnie Johnson
-  - Clifford Gibson
-  - Roosevelt Sykes
+    - Lonnie Johnson
+    - Clifford Gibson
+    - Roosevelt Sykes
 spotify_data:
   followers: 1144
   id: 3e32BiHqQapOCijTcTmEHs
   popularity: 2
-  url: https://open.spotify.com/artist/3e32BiHqQapOCijTcTmEHs
+  url: 'https://open.spotify.com/artist/3e32BiHqQapOCijTcTmEHs'
 discography_enriched: true
 top_tracks:
-- All My Money's Gone
-- 'The Train is Coming (The Blues in St. Louis, Vol. 3: Henry Townsend)'
-- It's Got To End Somewhere
-- Good Bye, Baby (St. Louis Blues)
-- World Full Of People (My Story)
-- 'Cairo is My Baby''s Home (The Blues in St. Louis, Vol. 3: Henry Townsend)'
-- She's Got A Mean Disposition
-- Don't Love That Woman
-- All My Money's Gone (Classic Piano Blues from Smithsonian Folkways)
-- Doctor, Oh Doctor
+  - All My Money's Gone
+  - 'The Train is Coming (The Blues in St. Louis, Vol. 3: Henry Townsend)'
+  - It's Got To End Somewhere
+  - 'Good Bye, Baby (St. Louis Blues)'
+  - World Full Of People (My Story)
+  - 'Cairo is My Baby''s Home (The Blues in St. Louis, Vol. 3: Henry Townsend)'
+  - She's Got A Mean Disposition
+  - Don't Love That Woman
+  - All My Money's Gone (Classic Piano Blues from Smithsonian Folkways)
+  - 'Doctor, Oh Doctor'
 external_urls:
-  spotify: https://open.spotify.com/artist/3e32BiHqQapOCijTcTmEHs
-  wikipedia: https://en.wikipedia.org/wiki/Henry_Townsend_(musician)
+  spotify: 'https://open.spotify.com/artist/3e32BiHqQapOCijTcTmEHs'
+  wikipedia: 'https://en.wikipedia.org/wiki/Henry_Townsend_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/henry_townsend.jpg
 biography_enhanced_at: '2025-10-28T09:10:55.325640'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://blues.org/blues_hof_inductee/henry-townsend/
-- https://msbluestrail.org/blues-trail-markers/henry-townsend/
-- https://en.wikipedia.org/wiki/Henry_Townsend_(musician)
+  - 'https://blues.org/blues_hof_inductee/henry-townsend/'
+  - 'https://msbluestrail.org/blues-trail-markers/henry-townsend/'
+  - 'https://en.wikipedia.org/wiki/Henry_Townsend_(musician)'
 network_extracted: true
 entry_created: '2025-10-28T09:10:55.325652'
 last_updated: '2025-12-23T08:16:09.577696'
+origin: 'St. Louis, Missouri, United States'
+birth_date: '1909-10-27'
+death_date: '2006-09-24'
+artist_type: person
 ---
 
 ![](henry_townsend.jpg)

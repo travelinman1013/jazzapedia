@@ -3,47 +3,51 @@ biography_enhanced_at: '2025-12-28T01:50:33.905440'
 enhancement_provider: perplexity
 entry_created: '2025-12-28T01:50:33.905454'
 external_urls:
-  spotify: https://open.spotify.com/artist/2uNTREGV2Ms6AIIXbZA2oB
-  wikipedia: https://en.wikipedia.org/wiki/Yerba_Buena_Jazz_Band
+  spotify: 'https://open.spotify.com/artist/2uNTREGV2Ms6AIIXbZA2oB'
+  wikipedia: 'https://en.wikipedia.org/wiki/Yerba_Buena_Jazz_Band'
 genres:
-- ragtime
-- swing music
-image_path: 03_Resources/source_material/ArtistPortraits/lu_watters_yerba_buena_jazz_band.jpg
+  - ragtime
+  - swing music
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/lu_watters_yerba_buena_jazz_band.jpg
 last_updated: '2025-12-28T01:50:33.905456'
 musical_connections:
   collaborators:
-  - Clancy Hayes
-  - Bob Helm
-  - Bob Scobey
-  - Turk Murphy
-  - Wally Rose
-  - Dick Lammi
-  - Bill Dart
-  - Forrest Browne
+    - Clancy Hayes
+    - Bob Helm
+    - Bob Scobey
+    - Turk Murphy
+    - Wally Rose
+    - Dick Lammi
+    - Bill Dart
+    - Forrest Browne
   influenced:
-  - West Coast traditional jazz revivalists (including later bands led by former members
-    such as Turk Murphy and Bob Scobey)
+    - >-
+      West Coast traditional jazz revivalists (including later bands led by
+      former members such as Turk Murphy and Bob Scobey)
   mentors:
-  - King Oliver
-  - Jelly Roll Morton
+    - King Oliver
+    - Jelly Roll Morton
 network_extracted: true
-origin: San Francisco, California, United States
+origin: 'San Francisco, California, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Yerba_Buena_Jazz_Band
-- https://en.wikipedia.org/wiki/Lu_Watters
-- http://jazzhotbigstep.com/372012.html
-- https://syncopatedtimes.com/lu-watters-reviving-the-original-revivalist/
-- https://www.jazzdisco.org/lu-watters/discography/
-- https://musicbrainz.org/artist/b0b4ec96-8a2b-4c71-ac3f-9858e9c04fea
-- https://californiahistoricalradio.com/et-project/lu-waters-and-his-world-famous-yerba-buena-jazz-band/
+  - 'https://en.wikipedia.org/wiki/Yerba_Buena_Jazz_Band'
+  - 'https://en.wikipedia.org/wiki/Lu_Watters'
+  - 'http://jazzhotbigstep.com/372012.html'
+  - 'https://syncopatedtimes.com/lu-watters-reviving-the-original-revivalist/'
+  - 'https://www.jazzdisco.org/lu-watters/discography/'
+  - 'https://musicbrainz.org/artist/b0b4ec96-8a2b-4c71-ac3f-9858e9c04fea'
+  - >-
+    https://californiahistoricalradio.com/et-project/lu-waters-and-his-world-famous-yerba-buena-jazz-band/
 spotify_data:
   followers: 536
   id: 2uNTREGV2Ms6AIIXbZA2oB
   popularity: 12
-  url: https://open.spotify.com/artist/2uNTREGV2Ms6AIIXbZA2oB
+  url: 'https://open.spotify.com/artist/2uNTREGV2Ms6AIIXbZA2oB'
 status: active
 title: Lu Watters Yerba Buena Jazz Band
+artist_type: band
 ---
 
 ![](lu_watters_yerba_buena_jazz_band.jpg)

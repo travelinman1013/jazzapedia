@@ -3,13 +3,13 @@ title: Monika Herzig
 wiki_slug: monika-herzig
 schema_version: 2
 status: active
-birth_place: Germany (birthplace); Indiana, USA (current residence and career base)
+birth_place: 'Germany (birthplace); Indiana, USA (current residence and career base)'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/monika_herzig.jpg
   caption: Monika Herzig
   background: solo_singer
-  origin: Germany (birthplace); Indiana, USA (current residence and career base)
+  origin: 'Germany (birthplace); Indiana, USA (current residence and career base)'
 audio_profile:
   tempo_avg: 108.4
   energy_avg: 0.411
@@ -25,46 +25,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Whole World In Her Hands Band
-  - John Edward Hasse
+    - Whole World In Her Hands Band
+    - John Edward Hasse
   influenced:
-  - Indiana University Jazz Students
+    - Indiana University Jazz Students
   mentors:
-  - Indiana University Jazz Faculty
+    - Indiana University Jazz Faculty
 spotify_data:
   followers: 373
   id: 0MGlr5M9r4aEyPzCFyraW6
   popularity: 1
-  url: https://open.spotify.com/artist/0MGlr5M9r4aEyPzCFyraW6
+  url: 'https://open.spotify.com/artist/0MGlr5M9r4aEyPzCFyraW6'
 discography_enriched: true
 top_tracks:
-- Just Another Day at the Office (Sheroes)
-- Bubbles (Sheroes)
-- Ain't No Mountain High Enough (Sheroes)
-- Nancy Wilson Portrait (Sheroes)
-- Song for C.C. (Sheroes)
-- The House of the Rising Sun (Sheroes)
-- 'Suite for Cello and Jazz Trio: Swagger (Singers of Songs)'
-- 'Suite for Cello and Jazz Trio: Meditation (Singers of Songs)'
-- 'Suite for Cello and Jazz Trio: Slow Blues (Singers of Songs)'
-- 'Suite for Cello and Jazz Trio: Calypso (Singers of Songs)'
+  - Just Another Day at the Office (Sheroes)
+  - Bubbles (Sheroes)
+  - Ain't No Mountain High Enough (Sheroes)
+  - Nancy Wilson Portrait (Sheroes)
+  - Song for C.C. (Sheroes)
+  - The House of the Rising Sun (Sheroes)
+  - 'Suite for Cello and Jazz Trio: Swagger (Singers of Songs)'
+  - 'Suite for Cello and Jazz Trio: Meditation (Singers of Songs)'
+  - 'Suite for Cello and Jazz Trio: Slow Blues (Singers of Songs)'
+  - 'Suite for Cello and Jazz Trio: Calypso (Singers of Songs)'
 external_urls:
-  spotify: https://open.spotify.com/artist/0MGlr5M9r4aEyPzCFyraW6
+  spotify: 'https://open.spotify.com/artist/0MGlr5M9r4aEyPzCFyraW6'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/monika_herzig.jpg
 biography_enhanced_at: '2025-11-14T10:56:15.358056'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.jammusiclab.com/news/research-lab-monika-herzig-john-edward-hasse
-- https://indymusicians.com/ensemble/monika-herzig-jazz-pianist/
-- https://www.allaboutjazz.com/musicians/monika-herzig/
-- https://blujazzakron.com/show/monika-herzig-whole-world-in-her-hands-band-04-21-2017/
-- https://cubanbridge.wordpress.com/2016/07/28/monika-herzig-pianist-composer-educator-and-band-leader/
-- https://www.casio.com/us/electronic-musical-instruments/artists/monika-herzig/
+  - >-
+    https://www.jammusiclab.com/news/research-lab-monika-herzig-john-edward-hasse
+  - 'https://indymusicians.com/ensemble/monika-herzig-jazz-pianist/'
+  - 'https://www.allaboutjazz.com/musicians/monika-herzig/'
+  - >-
+    https://blujazzakron.com/show/monika-herzig-whole-world-in-her-hands-band-04-21-2017/
+  - >-
+    https://cubanbridge.wordpress.com/2016/07/28/monika-herzig-pianist-composer-educator-and-band-leader/
+  - >-
+    https://www.casio.com/us/electronic-musical-instruments/artists/monika-herzig/
 network_extracted: true
 entry_created: '2025-11-14T10:56:15.358063'
 last_updated: '2025-12-23T08:16:13.244420'
+origin: 'Indiana, USA, United States'
+artist_type: person
 ---
 
 ![](monika_herzig.jpg)

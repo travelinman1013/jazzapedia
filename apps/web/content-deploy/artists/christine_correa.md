@@ -1,18 +1,18 @@
 ---
-title: CHRISTINE CORREA
+title: Christine Correa
 wiki_slug: christine-correa
 schema_version: 2
 artist_type: person
 status: active
-birth_place: Bombay (Mumbai), Maharashtra, India
+birth_place: 'Bombay (Mumbai), Maharashtra, India'
 genres:
-- free jazz
-- vocal jazz
+  - free jazz
+  - vocal jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/christine_correa.jpg
   caption: CHRISTINE CORREA
   background: solo_singer
-  origin: Bombay (Mumbai), Maharashtra, India
+  origin: 'Bombay (Mumbai), Maharashtra, India'
 audio_profile:
   tempo_avg: 106.2
   energy_avg: 0.232
@@ -28,49 +28,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ran Blake
-  - Frank Carlberg
-  - Steve Lacy
+    - Ran Blake
+    - Frank Carlberg
+    - Steve Lacy
   influenced:
-  - Multiple jazz vocal students
+    - Multiple jazz vocal students
   mentors:
-  - Ran Blake
+    - Ran Blake
 spotify_data:
   followers: 116
   id: 3QjxnhVtBuiDKS3XIZ3cpk
   popularity: 0
-  url: https://open.spotify.com/artist/3QjxnhVtBuiDKS3XIZ3cpk
+  url: 'https://open.spotify.com/artist/3QjxnhVtBuiDKS3XIZ3cpk'
 discography_enriched: true
 top_tracks:
-- Brother, Can You Spare a Dime? (Down Here Below (Tribute to Abbey Lincoln, Vol. 1))
-- 'O muzyke tolstykh (Words Project III: Miniatures)'
-- 'Basket (Sam Sadigursky: Words Project IV)'
-- 'Runaway (Sam Sadigursky: Words Project IV)'
-- 'The Bestiary Suite (Sam Sadigursky: Words Project IV)'
-- 'Nothing (Sam Sadigursky: Words Project IV)'
-- 'What Do Women Want? (Sam Sadigursky: Words Project IV)'
-- 'Fear (Sam Sadigursky: Words Project IV)'
-- 'Make the Pie Higher (Sam Sadigursky: Words Project IV)'
-- 'Snatch of Sliphorn Jazz (Sam Sadigursky: Words Project IV)'
+  - >-
+    Brother, Can You Spare a Dime? (Down Here Below (Tribute to Abbey Lincoln,
+    Vol. 1))
+  - 'O muzyke tolstykh (Words Project III: Miniatures)'
+  - 'Basket (Sam Sadigursky: Words Project IV)'
+  - 'Runaway (Sam Sadigursky: Words Project IV)'
+  - 'The Bestiary Suite (Sam Sadigursky: Words Project IV)'
+  - 'Nothing (Sam Sadigursky: Words Project IV)'
+  - 'What Do Women Want? (Sam Sadigursky: Words Project IV)'
+  - 'Fear (Sam Sadigursky: Words Project IV)'
+  - 'Make the Pie Higher (Sam Sadigursky: Words Project IV)'
+  - 'Snatch of Sliphorn Jazz (Sam Sadigursky: Words Project IV)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/204afc99-1002-49fb-9de6-f68a4ae24b1e
-  spotify: https://open.spotify.com/artist/3QjxnhVtBuiDKS3XIZ3cpk
-  wikipedia: https://en.wikipedia.org/wiki/Christine_Correa
+  musicbrainz: 'https://musicbrainz.org/artist/204afc99-1002-49fb-9de6-f68a4ae24b1e'
+  spotify: 'https://open.spotify.com/artist/3QjxnhVtBuiDKS3XIZ3cpk'
+  wikipedia: 'https://en.wikipedia.org/wiki/Christine_Correa'
 image_path: 03_Resources/source_material/ArtistPortraits/christine_correa.jpg
 biography_enhanced_at: '2025-11-20T07:23:19.063785'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Christine_Correa
-- https://christinecorrea.com/?page_id=7
-- https://www.allmusic.com/artist/christine-correa-mn0000126800
-- https://jazztimes.com/reviews/albums/ran-blake-christine-correa-down-here-below/
-- https://www.jazzword.com/reviews/christine-correa/
+  - 'https://en.wikipedia.org/wiki/Christine_Correa'
+  - 'https://christinecorrea.com/?page_id=7'
+  - 'https://www.allmusic.com/artist/christine-correa-mn0000126800'
+  - >-
+    https://jazztimes.com/reviews/albums/ran-blake-christine-correa-down-here-below/
+  - 'https://www.jazzword.com/reviews/christine-correa/'
 network_extracted: true
 entry_created: '2025-11-20T07:23:19.063797'
 last_updated: '2025-12-23T08:16:06.938143'
 gender: Female
 musicbrainz_id: 204afc99-1002-49fb-9de6-f68a4ae24b1e
+birth_date: '1955-07-08'
 ---
 
 ![](christine_correa.jpg)

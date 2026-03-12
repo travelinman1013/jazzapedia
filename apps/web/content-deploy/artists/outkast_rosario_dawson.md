@@ -1,42 +1,44 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-14T01:06:29.006453'
-birth_place: New York City, New York, United States
+birth_place: 'New York City, New York, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-14T01:06:29.006459'
 external_urls:
-  spotify: https://open.spotify.com/artist/5gGhRZgP9BJL9fsFdvTzeX
-  wikipedia: https://en.wikipedia.org/wiki/Rosario_Dawson
+  spotify: 'https://open.spotify.com/artist/5gGhRZgP9BJL9fsFdvTzeX'
+  wikipedia: 'https://en.wikipedia.org/wiki/Rosario_Dawson'
 genres:
-- musicals
+  - musicals
 image_path: 03_Resources/source_material/ArtistPortraits/outkast_rosario_dawson.jpg
 last_updated: '2026-01-14T01:06:29.006459'
 musical_connections:
   collaborators:
-  - OutKast (André 3000)
-  - Prince
-  - The Chemical Brothers
-  - Kasabian
+    - OutKast (André 3000)
+    - Prince
+    - The Chemical Brothers
+    - Kasabian
   influenced: []
   mentors:
-  - Harmony Korine
-  - Larry Clark
+    - Harmony Korine
+    - Larry Clark
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.imdb.com/name/nm0206257/bio/
-- https://www.oreateai.com/blog/rosario-dawson/fa13ca81e017219b058ffc0b5c275d73
-- https://en.wikipedia.org/wiki/Rosario_Dawson
-- https://www.nts.live/artists/60587-rosario-dawson
-- https://ultimatepopculture.fandom.com/wiki/Rosario_Dawson
-- https://blackpast.org/african-american-history/rosario-isabel-dawson-1979/
+  - 'https://www.imdb.com/name/nm0206257/bio/'
+  - >-
+    https://www.oreateai.com/blog/rosario-dawson/fa13ca81e017219b058ffc0b5c275d73
+  - 'https://en.wikipedia.org/wiki/Rosario_Dawson'
+  - 'https://www.nts.live/artists/60587-rosario-dawson'
+  - 'https://ultimatepopculture.fandom.com/wiki/Rosario_Dawson'
+  - 'https://blackpast.org/african-american-history/rosario-isabel-dawson-1979/'
 spotify_data:
   followers: 10171
   id: 5gGhRZgP9BJL9fsFdvTzeX
   popularity: 47
-  url: https://open.spotify.com/artist/5gGhRZgP9BJL9fsFdvTzeX
+  url: 'https://open.spotify.com/artist/5gGhRZgP9BJL9fsFdvTzeX'
 status: active
-title: Outkast, Rosario Dawson
+title: Rosario Dawson
+birth_date: '1979-05-09'
 ---
 
 ![](outkast_rosario_dawson.jpg)

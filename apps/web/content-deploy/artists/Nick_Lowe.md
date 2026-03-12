@@ -2,25 +2,25 @@
 title: Nick Lowe
 wiki_slug: nick-lowe
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1949-03-24'
-birth_place: Walton-on-Thames, Surrey, England
+birth_place: 'Walton-on-Thames, Surrey, England'
 genres:
-- power pop
+  - power pop
 instruments:
-- additional
-- guitar
-- eponymous
-- original
-- background vocals
-- lead vocals
+  - additional
+  - guitar
+  - eponymous
+  - original
+  - background vocals
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Nick_Lowe.jpg
   caption: Nick Lowe
   background: solo_singer
   born: '1949-03-24'
-  origin: Walton-on-Thames, Surrey, England
+  origin: 'Walton-on-Thames, Surrey, England'
 audio_profile:
   tempo_avg: 120.2
   energy_avg: 0.547
@@ -36,47 +36,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Elvis Costello
-  - Dave Edmunds
-  - Graham Parker
-  - Los Straitjackets
-  - Carlene Carter
+    - Elvis Costello
+    - Dave Edmunds
+    - Graham Parker
+    - Los Straitjackets
+    - Carlene Carter
   influenced:
-  - Elvis Costello
-  - Wilco
-  - The Mavericks
+    - Elvis Costello
+    - Wilco
+    - The Mavericks
   mentors:
-  - Brinsley Schwarz (bandmates)
+    - Brinsley Schwarz (bandmates)
 spotify_data:
   followers: 125037
   id: 3BqaUtuQmqIHg7B5Bc7fP7
   popularity: 45
-  url: https://open.spotify.com/artist/3BqaUtuQmqIHg7B5Bc7fP7
+  url: 'https://open.spotify.com/artist/3BqaUtuQmqIHg7B5Bc7fP7'
 discography_enriched: true
 top_tracks:
-- Cruel to Be Kind (Labour of Lust)
-- (What's So Funny 'Bout) Peace, Love and Understanding (Untouched Takeaway)
-- I Love the Sound of Breaking Glass (Jesus of Cool)
-- The Beast in Me (The Impossible Bird)
-- Cracking Up (Labour of Lust)
-- True Love Travels on a Gravel Road (The Impossible Bird)
-- I Knew the Bride (When She Used to Rock and Roll)
-- So It Goes (Jesus of Cool)
-- She's Got Soul (The Convincer)
-- Homewrecker (The Convincer)
+  - Cruel to Be Kind (Labour of Lust)
+  - '(What''s So Funny ''Bout) Peace, Love and Understanding (Untouched Takeaway)'
+  - I Love the Sound of Breaking Glass (Jesus of Cool)
+  - The Beast in Me (The Impossible Bird)
+  - Cracking Up (Labour of Lust)
+  - True Love Travels on a Gravel Road (The Impossible Bird)
+  - I Knew the Bride (When She Used to Rock and Roll)
+  - So It Goes (Jesus of Cool)
+  - She's Got Soul (The Convincer)
+  - Homewrecker (The Convincer)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a3d5a6bf-c86d-44d3-969b-f345620009c6
-  spotify: https://open.spotify.com/artist/3BqaUtuQmqIHg7B5Bc7fP7
-  wikipedia: https://en.wikipedia.org/wiki/Nick_Lowe
+  musicbrainz: 'https://musicbrainz.org/artist/a3d5a6bf-c86d-44d3-969b-f345620009c6'
+  spotify: 'https://open.spotify.com/artist/3BqaUtuQmqIHg7B5Bc7fP7'
+  wikipedia: 'https://en.wikipedia.org/wiki/Nick_Lowe'
 image_path: 03_Resources/source_material/ArtistPortraits/Nick_Lowe.jpg
 biography_enhanced_at: '2025-10-20T09:34:52.039107'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://nicklowe.com/bio/
-- https://www.highroadtouring.com/artists/nick-lowe/
-- https://wers.org/artist-profile-nick-lowe/
-- https://www.youtube.com/watch?v=y-UHaqoOHWY
+  - 'https://nicklowe.com/bio/'
+  - 'https://www.highroadtouring.com/artists/nick-lowe/'
+  - 'https://wers.org/artist-profile-nick-lowe/'
+  - 'https://www.youtube.com/watch?v=y-UHaqoOHWY'
 network_extracted: true
 entry_created: '2025-10-20T09:34:52.039121'
 last_updated: '2025-12-23T08:16:03.450394'
@@ -85,9 +85,9 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:39:40.698787'
 musicbrainz_id: a3d5a6bf-c86d-44d3-969b-f345620009c6
 tags:
-- classic pop and rock
-- new wave
-- pop rock
+  - classic pop and rock
+  - new wave
+  - pop rock
 ---
 
 ![](Nick_Lowe.jpg)

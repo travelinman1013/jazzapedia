@@ -2,23 +2,23 @@
 title: Joe Zawinul
 wiki_slug: joe-zawinul
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1932-07-07'
-birth_place: Vienna, Austria
+birth_place: 'Vienna, Austria'
 death_date: '2007-09-11'
 genres:
-- jazz fusion
-- jazz
-- free jazz
+  - jazz fusion
+  - jazz
+  - free jazz
 instruments:
-- original
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Joe_Zawinul.jpg
   caption: Joe Zawinul
   background: non_vocal_instrumentalist
   born: '1932-07-07'
-  origin: Vienna, Austria
+  origin: 'Vienna, Austria'
   died: '2007-09-11'
 audio_profile:
   tempo_avg: 111.8
@@ -35,49 +35,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Miles Davis
-  - Wayne Shorter
-  - Jaco Pastorius
+    - Miles Davis
+    - Wayne Shorter
+    - Jaco Pastorius
   influenced:
-  - Brian Eno
-  - John McLaughlin
+    - Brian Eno
+    - John McLaughlin
   mentors:
-  - Cannonball Adderley
+    - Cannonball Adderley
 spotify_data:
   followers: 53486
   id: 3DkK9XA1CI1i7U7ovpAo1G
   popularity: 31
-  url: https://open.spotify.com/artist/3DkK9XA1CI1i7U7ovpAo1G
+  url: 'https://open.spotify.com/artist/3DkK9XA1CI1i7U7ovpAo1G'
 discography_enriched: true
 top_tracks:
-- Bitches Brew (feat. Wayne Shorter, Bennie Maupin, John McLaughlin, Chick Corea, Joe Zawinul, Dave Holland & Harvey Brooks)
-  (Bitches Brew)
-- Spanish Key (feat. Wayne Shorter, Bennie Maupin, John McLaughlin, Chick Corea, Joe Zawinul, Dave Holland & Harvey Brooks)
-  (Bitches Brew)
-- John McLaughlin (feat. Wayne Shorter, Bennie Maupin, John McLaughlin, Chick Corea, Joe Zawinul, Dave Holland & Harvey Brooks)
-  (Bitches Brew)
-- Miles Runs the Voodoo Down (feat. Wayne Shorter, Bennie Maupin, John McLaughlin, Chick Corea, Joe Zawinul, Dave Holland
-  & Harvey Brooks) (Bitches Brew)
-- Sanctuary (feat. Wayne Shorter, Bennie Maupin, John McLaughlin, Chick Corea, Joe Zawinul, Dave Holland & Harvey Brooks)
-  (Bitches Brew)
-- Bitches Brew (feat. Wayne Shorter, Bennie Maupin, John McLaughlin, Chick Corea, Joe Zawinul, Dave Holland & Harvey Brooks)
-  (Bitches Brew (Legacy Edition))
-- Feio (feat. Wayne Shorter, John McLaughlin, Chick Corea, Joe Zawinul & Dave Holland) (Bitches Brew)
-- Trav'lin' Light (Soulmates)
-- Spanish Key (feat. Wayne Shorter, Bennie Maupin, John McLaughlin, Chick Corea, Joe Zawinul, Dave Holland & Harvey Brooks)
-  (Bitches Brew (Legacy Edition))
-- In a Silent Way (Zawinul)
+  - >-
+    Bitches Brew (feat. Wayne Shorter, Bennie Maupin, John McLaughlin, Chick
+    Corea, Joe Zawinul, Dave Holland & Harvey Brooks) (Bitches Brew)
+  - >-
+    Spanish Key (feat. Wayne Shorter, Bennie Maupin, John McLaughlin, Chick
+    Corea, Joe Zawinul, Dave Holland & Harvey Brooks) (Bitches Brew)
+  - >-
+    John McLaughlin (feat. Wayne Shorter, Bennie Maupin, John McLaughlin, Chick
+    Corea, Joe Zawinul, Dave Holland & Harvey Brooks) (Bitches Brew)
+  - >-
+    Miles Runs the Voodoo Down (feat. Wayne Shorter, Bennie Maupin, John
+    McLaughlin, Chick Corea, Joe Zawinul, Dave Holland & Harvey Brooks) (Bitches
+    Brew)
+  - >-
+    Sanctuary (feat. Wayne Shorter, Bennie Maupin, John McLaughlin, Chick Corea,
+    Joe Zawinul, Dave Holland & Harvey Brooks) (Bitches Brew)
+  - >-
+    Bitches Brew (feat. Wayne Shorter, Bennie Maupin, John McLaughlin, Chick
+    Corea, Joe Zawinul, Dave Holland & Harvey Brooks) (Bitches Brew (Legacy
+    Edition))
+  - >-
+    Feio (feat. Wayne Shorter, John McLaughlin, Chick Corea, Joe Zawinul & Dave
+    Holland) (Bitches Brew)
+  - Trav'lin' Light (Soulmates)
+  - >-
+    Spanish Key (feat. Wayne Shorter, Bennie Maupin, John McLaughlin, Chick
+    Corea, Joe Zawinul, Dave Holland & Harvey Brooks) (Bitches Brew (Legacy
+    Edition))
+  - In a Silent Way (Zawinul)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/dfe8c9e1-10c0-49ab-a07a-5b4c60179611
-  spotify: https://open.spotify.com/artist/3DkK9XA1CI1i7U7ovpAo1G
-  wikipedia: https://en.wikipedia.org/wiki/Joe_Zawinul
+  musicbrainz: 'https://musicbrainz.org/artist/dfe8c9e1-10c0-49ab-a07a-5b4c60179611'
+  spotify: 'https://open.spotify.com/artist/3DkK9XA1CI1i7U7ovpAo1G'
+  wikipedia: 'https://en.wikipedia.org/wiki/Joe_Zawinul'
 image_path: 03_Resources/source_material/ArtistPortraits/Joe_Zawinul.jpg
 biography_enhanced_at: '2025-10-21T07:03:01.647148'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Joe_Zawinul
-- https://www.joezawinul.com/biography/
+  - 'https://en.wikipedia.org/wiki/Joe_Zawinul'
+  - 'https://www.joezawinul.com/biography/'
 network_extracted: true
 entry_created: '2025-10-21T07:03:01.647158'
 last_updated: '2025-12-23T08:16:02.593701'
@@ -86,9 +98,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:31:40.814391'
 musicbrainz_id: dfe8c9e1-10c0-49ab-a07a-5b4c60179611
 tags:
-- hard bop
-- jazz
-- jazz and blues
+  - hard bop
+  - jazz
+  - jazz and blues
+is_active: false
 ---
 
 ![](Joe_Zawinul.jpg)

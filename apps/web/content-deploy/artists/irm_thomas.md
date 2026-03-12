@@ -1,42 +1,45 @@
 ---
 biography_enhanced_at: '2026-01-09T02:01:47.851562'
-birth_place: Ponchatoula, Louisiana, United States
+birth_place: 'Ponchatoula, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-09T02:01:47.851568'
 external_urls:
-  spotify: https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv
-  wikipedia: https://en.wikipedia.org/wiki/Irma_Thomas
+  spotify: 'https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv'
+  wikipedia: 'https://en.wikipedia.org/wiki/Irma_Thomas'
 genres:
-- classic soul
+  - classic soul
 image_path: 03_Resources/source_material/ArtistPortraits/irm_thomas.jpg
 last_updated: '2026-01-09T02:01:47.851569'
 musical_connections:
   collaborators:
-  - Scott Billington
-  - Marcia Ball
-  - Tracy Nelson
-  - Emile Jackson
+    - Scott Billington
+    - Marcia Ball
+    - Tracy Nelson
+    - Emile Jackson
   influenced:
-  - The Rolling Stones
-  - Otis Redding
-  - Tracey Ullman
+    - The Rolling Stones
+    - Otis Redding
+    - Tracey Ullman
   mentors:
-  - Tommy Ridgley
-  - Allen Toussaint
+    - Tommy Ridgley
+    - Allen Toussaint
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Irma_Thomas
-- https://www.thehistorymakers.org/biography/irma-thomas-41
-- https://musicrising.tulane.edu/discover/people/irma-thomas/
-- https://www.allaboutjazz.com/musicians/irma-thomas/
+  - 'https://en.wikipedia.org/wiki/Irma_Thomas'
+  - 'https://www.thehistorymakers.org/biography/irma-thomas-41'
+  - 'https://musicrising.tulane.edu/discover/people/irma-thomas/'
+  - 'https://www.allaboutjazz.com/musicians/irma-thomas/'
 spotify_data:
   followers: 127923
   id: 01Z8Z9K54zewyP04ZfGLSv
   popularity: 50
-  url: https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv
+  url: 'https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv'
 status: active
-title: irm thomas
+title: Irma Thomas
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1941-02-18'
+artist_type: person
 ---
 
 ![](irm_thomas.jpg)

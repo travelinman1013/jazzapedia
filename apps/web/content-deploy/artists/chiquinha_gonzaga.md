@@ -5,10 +5,10 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1847-10-17'
-birth_place: Rio de Janeiro
+birth_place: 'Rio de Janeiro, Rio de Janeiro, Brazil'
 death_date: '1935-02-28'
 genres:
-- forro tradicional
+  - forro tradicional
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/chiquinha_gonzaga.jpg
   caption: Chiquinha Gonzaga
@@ -31,60 +31,68 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Joaquim Callado (Joaquim Antônio da Silva Callado Jr.)
-  - Viriato Corrêa
-  - Brazilian playwrights and theater producers (various)
+    - Joaquim Callado (Joaquim Antônio da Silva Callado Jr.)
+    - Viriato Corrêa
+    - Brazilian playwrights and theater producers (various)
   influenced:
-  - Brazilian Carnival composers and marchinha tradition (various)
-  - Brazilian choro and popular music composers (various)
-  - Women composers, conductors, and performers in Brazil
+    - Brazilian Carnival composers and marchinha tradition (various)
+    - Brazilian choro and popular music composers (various)
+    - 'Women composers, conductors, and performers in Brazil'
   mentors:
-  - José Basileu Neves Gonzaga
-  - Joaquim Callado (Joaquim Antônio da Silva Callado Jr.)
+    - José Basileu Neves Gonzaga
+    - Joaquim Callado (Joaquim Antônio da Silva Callado Jr.)
 spotify_data:
   followers: 19990
   id: 1G2X6LW9ycLvwEr5Q2oDdX
   popularity: 24
-  url: https://open.spotify.com/artist/1G2X6LW9ycLvwEr5Q2oDdX
+  url: 'https://open.spotify.com/artist/1G2X6LW9ycLvwEr5Q2oDdX'
 discography_enriched: true
 top_tracks:
-- Lua Branca (Arr. for Violin and Piano by Esther Abrami)
-- Lua Branca - Arr. by Marcus Viana (Chiquinha Gonzaga)
-- Corta Jaca - Arr. for Piano and Violin (Chiquinha Gonzaga - Duo Piano e Violino - Marcus Viana e Maria Teresa Madeira (Arr.
-  for Piano and Violin))
-- Ô Abre Alas! (10 Sucessos Originais)
-- Lua Branca - Arr. for Piano and Violin (Chiquinha Gonzaga - Duo Piano e Violino - Marcus Viana e Maria Teresa Madeira (Arr.
-  for Piano and Violin))
-- Atraente - Arr. by Marcus Viana (Chiquinha Gonzaga)
-- 'Corta-Jaca (Brasileira: Piano Music by Brazilian Women)'
-- O Corta Jaca (Levanta Poeira)
-- Dama de Ouros - Arr. by Marcus Viana (Chiquinha Gonzaga)
-- Gaúcho - Arr. by Marcus Viana (Chiquinha Gonzaga)
+  - Lua Branca (Arr. for Violin and Piano by Esther Abrami)
+  - Lua Branca - Arr. by Marcus Viana (Chiquinha Gonzaga)
+  - >-
+    Corta Jaca - Arr. for Piano and Violin (Chiquinha Gonzaga - Duo Piano e
+    Violino - Marcus Viana e Maria Teresa Madeira (Arr. for Piano and Violin))
+  - Ô Abre Alas! (10 Sucessos Originais)
+  - >-
+    Lua Branca - Arr. for Piano and Violin (Chiquinha Gonzaga - Duo Piano e
+    Violino - Marcus Viana e Maria Teresa Madeira (Arr. for Piano and Violin))
+  - Atraente - Arr. by Marcus Viana (Chiquinha Gonzaga)
+  - 'Corta-Jaca (Brasileira: Piano Music by Brazilian Women)'
+  - O Corta Jaca (Levanta Poeira)
+  - Dama de Ouros - Arr. by Marcus Viana (Chiquinha Gonzaga)
+  - Gaúcho - Arr. by Marcus Viana (Chiquinha Gonzaga)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/58a0070e-9ae9-44f2-b63a-af0c61999d84
-  spotify: https://open.spotify.com/artist/1G2X6LW9ycLvwEr5Q2oDdX
-  wikipedia: https://en.wikipedia.org/wiki/Chiquinha_Gonzaga
+  musicbrainz: 'https://musicbrainz.org/artist/58a0070e-9ae9-44f2-b63a-af0c61999d84'
+  spotify: 'https://open.spotify.com/artist/1G2X6LW9ycLvwEr5Q2oDdX'
+  wikipedia: 'https://en.wikipedia.org/wiki/Chiquinha_Gonzaga'
 image_path: 03_Resources/source_material/ArtistPortraits/chiquinha_gonzaga.jpg
 biography_enhanced_at: '2025-12-07T04:45:37.157911'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Chiquinha_Gonzaga
-- https://www.choromusic.com/catalogo/compositores/chiquinha-gonzaga/biography.html
-- https://artsandculture.google.com/story/chiquinha-gonzaga-a-brazilian-woman-composer-is-born-musica-brasilis/pgVBFlINYxzgIw
-- https://donne-uk.org/author/gonzaga-chiquinha/
-- https://wophil.org/cotm-chiquinha-gonzaga/
-- https://www.wfmt.com/2017/06/05/hear-music-chiquinha-gonzaga-brazilian-composer-100-years-ahead-time/
-- https://www.classicsforkids.com/composer/chiquinha-gonzaga/
-- https://chiquinhagonzaga.com/wp/notable-twentieth-century-latin-american-women-english/
+  - 'https://en.wikipedia.org/wiki/Chiquinha_Gonzaga'
+  - >-
+    https://www.choromusic.com/catalogo/compositores/chiquinha-gonzaga/biography.html
+  - >-
+    https://artsandculture.google.com/story/chiquinha-gonzaga-a-brazilian-woman-composer-is-born-musica-brasilis/pgVBFlINYxzgIw
+  - 'https://donne-uk.org/author/gonzaga-chiquinha/'
+  - 'https://wophil.org/cotm-chiquinha-gonzaga/'
+  - >-
+    https://www.wfmt.com/2017/06/05/hear-music-chiquinha-gonzaga-brazilian-composer-100-years-ahead-time/
+  - 'https://www.classicsforkids.com/composer/chiquinha-gonzaga/'
+  - >-
+    https://chiquinhagonzaga.com/wp/notable-twentieth-century-latin-american-women-english/
 network_extracted: true
 entry_created: '2025-12-07T04:45:37.157922'
 last_updated: '2025-12-23T08:16:06.859892'
 gender: Female
 musicbrainz_id: 58a0070e-9ae9-44f2-b63a-af0c61999d84
 tags:
-- choro
-- composer
+  - choro
+  - composer
+is_active: false
+origin: 'Rio de Janeiro, Rio de Janeiro, Brazil'
 ---
 
 ![](chiquinha_gonzaga.jpg)

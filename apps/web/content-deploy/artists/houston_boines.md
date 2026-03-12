@@ -2,42 +2,42 @@
 artist_type: person
 biography_enhanced_at: '2025-12-30T01:24:18.812574'
 birth_date: '1918-12-30'
-birth_place: Simpson County
+birth_place: 'Simpson County, Mississippi, United States'
 death_date: '1970-11-08'
 enhancement_provider: perplexity
 entry_created: '2025-12-30T01:24:18.812581'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9f1f0171-7c80-4e9c-a0a1-bccba3386ad6
-  spotify: https://open.spotify.com/artist/4bzbgyMGnAVrlYPpM7Kqnu
-  wikipedia: https://en.wikipedia.org/wiki/Houston_Boines
+  musicbrainz: 'https://musicbrainz.org/artist/9f1f0171-7c80-4e9c-a0a1-bccba3386ad6'
+  spotify: 'https://open.spotify.com/artist/4bzbgyMGnAVrlYPpM7Kqnu'
+  wikipedia: 'https://en.wikipedia.org/wiki/Houston_Boines'
 gender: Male
 genres:
-- blues
+  - blues
 image_path: ''
 last_updated: '2025-12-30T01:24:18.812582'
 musical_connections:
   collaborators:
-  - Charley Booker
+    - Charley Booker
   influenced: []
   mentors: []
 musicbrainz_id: 9f1f0171-7c80-4e9c-a0a1-bccba3386ad6
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Houston+Boines/+wiki
-- https://en.wikipedia.org/wiki/Houston_Boines
-- https://music.apple.com/gb/artist/houston-boines/152359382
-- https://www.allmusic.com/artist/houston-boines-mn0000826454
+  - 'https://www.last.fm/music/Houston+Boines/+wiki'
+  - 'https://en.wikipedia.org/wiki/Houston_Boines'
+  - 'https://music.apple.com/gb/artist/houston-boines/152359382'
+  - 'https://www.allmusic.com/artist/houston-boines-mn0000826454'
 spotify_data:
   followers: 72
   id: 4bzbgyMGnAVrlYPpM7Kqnu
   popularity: 1
-  url: https://open.spotify.com/artist/4bzbgyMGnAVrlYPpM7Kqnu
+  url: 'https://open.spotify.com/artist/4bzbgyMGnAVrlYPpM7Kqnu'
 status: active
 tags:
-- blues
-title: HOUSTON BOINES
-
+  - blues
+title: Houston Boines
+is_active: false
 ---
 
 ![]()

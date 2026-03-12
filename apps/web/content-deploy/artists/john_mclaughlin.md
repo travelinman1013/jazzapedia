@@ -1,154 +1,154 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '1969'
-  end: '1971'
-  instruments:
-  - original
-  mbid: 47c2f7ec-a63b-4919-b025-cde1aeddb36c
-  name: The Tony Williams Lifetime
-- begin: '1979'
-  end: '1979-03-08'
-  instruments:
-  - guitar
-  - original
-  mbid: b86db56b-4bd6-4c15-b350-489dd8a5167b
-  name: Trio of Doom
-- begin: '1997'
-  end: ''
-  instruments: []
-  mbid: c5042c9d-8215-4ccb-80e4-5131db30a3d1
-  name: Remember Shakti
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ac0fddc5-07f4-48c5-bb53-4345362e66cb
-  name: The One Truth Band
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 168e5e99-96a5-4303-9aa7-5231723bb406
-  name: John McLaughlin Trio
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: 651551f7-9ed2-481f-b501-972ad44730df
-  name: The Free Spirits
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1eb30e7e-e374-4de7-8d13-ae5855ae6df8
-  name: Shakti
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a2be74f5-0735-46f7-a295-7e41aab30029
-  name: Mahavishnu Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0e611e5e-5609-4b14-953e-3eb0eca0b8fd
-  name: Skruff
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 7e5fd719-c158-4219-9ac4-fbe1ad794f42
-  name: Five Peace Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c8552c37-33c6-467a-8ee9-42a0cf3f993a
-  name: Fuse One
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1ff4f7cc-0b16-44e8-ae66-b635b04f2274
-  name: Duffy's Nucleus
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: f0ba8aac-bd00-455e-8a9a-bdca6da99a96
-  name: John McLaughlin and the 4th Dimension
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 828bcb71-1bd6-4943-a85e-c7311a6bb3aa
-  name: John McLaughlin Duo
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9b08e051-9252-4ad5-9053-55fe3de7d77f
-  name: Danny Thompson Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6d1c3698-6ef2-4f67-b626-fa16e2c69c8e
-  name: Mark Knopfler’s Guitar Heroes
+  - begin: '1969'
+    end: '1971'
+    instruments:
+      - original
+    mbid: 47c2f7ec-a63b-4919-b025-cde1aeddb36c
+    name: The Tony Williams Lifetime
+  - begin: '1979'
+    end: '1979-03-08'
+    instruments:
+      - guitar
+      - original
+    mbid: b86db56b-4bd6-4c15-b350-489dd8a5167b
+    name: Trio of Doom
+  - begin: '1997'
+    end: ''
+    instruments: []
+    mbid: c5042c9d-8215-4ccb-80e4-5131db30a3d1
+    name: Remember Shakti
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ac0fddc5-07f4-48c5-bb53-4345362e66cb
+    name: The One Truth Band
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 168e5e99-96a5-4303-9aa7-5231723bb406
+    name: John McLaughlin Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 651551f7-9ed2-481f-b501-972ad44730df
+    name: The Free Spirits
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1eb30e7e-e374-4de7-8d13-ae5855ae6df8
+    name: Shakti
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a2be74f5-0735-46f7-a295-7e41aab30029
+    name: Mahavishnu Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0e611e5e-5609-4b14-953e-3eb0eca0b8fd
+    name: Skruff
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 7e5fd719-c158-4219-9ac4-fbe1ad794f42
+    name: Five Peace Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c8552c37-33c6-467a-8ee9-42a0cf3f993a
+    name: Fuse One
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1ff4f7cc-0b16-44e8-ae66-b635b04f2274
+    name: Duffy's Nucleus
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: f0ba8aac-bd00-455e-8a9a-bdca6da99a96
+    name: John McLaughlin and the 4th Dimension
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 828bcb71-1bd6-4943-a85e-c7311a6bb3aa
+    name: John McLaughlin Duo
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9b08e051-9252-4ad5-9053-55fe3de7d77f
+    name: Danny Thompson Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6d1c3698-6ef2-4f67-b626-fa16e2c69c8e
+    name: Mark Knopfler’s Guitar Heroes
 biography_enhanced_at: '2026-01-03T01:37:55.761524'
 birth_date: '1942-01-04'
-birth_place: Doncaster
+birth_place: 'Doncaster, Yorkshire, England'
 disambiguation: guitarist
 enhancement_provider: perplexity
 entry_created: '2026-01-03T01:37:55.761532'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/fcbc2086-5863-4659-b03d-44be704697d2
-  spotify: https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY
-  wikipedia: https://en.wikipedia.org/wiki/John_McLaughlin_(musician)
+  musicbrainz: 'https://musicbrainz.org/artist/fcbc2086-5863-4659-b03d-44be704697d2'
+  spotify: 'https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY'
+  wikipedia: 'https://en.wikipedia.org/wiki/John_McLaughlin_(musician)'
 gender: Male
 genres:
-- jazz fusion
-- flamenco
-- jazz
+  - jazz fusion
+  - flamenco
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/john_mclaughlin.jpg
 instruments:
-- original
-- guitar
-- eponymous
-- electric guitar
-- acoustic guitar
-- 12 string guitar
-- piano
-- guitar synthesizer
-- classical guitar
-- background vocals
+  - original
+  - guitar
+  - eponymous
+  - electric guitar
+  - acoustic guitar
+  - 12 string guitar
+  - piano
+  - guitar synthesizer
+  - classical guitar
+  - background vocals
 last_updated: '2026-01-03T01:37:55.761534'
 musical_connections:
   collaborators:
-  - Miles Davis
-  - Tony Williams
-  - Jean-Luc Ponty
-  - Carlos Santana
-  - Al Di Meola
-  - Paco de Lucía
+    - Miles Davis
+    - Tony Williams
+    - Jean-Luc Ponty
+    - Carlos Santana
+    - Al Di Meola
+    - Paco de Lucía
   influenced:
-  - Generations of guitarists
+    - Generations of guitarists
   mentors:
-  - Tal Farlow
-  - Django Reinhardt
-  - Stéphane Grappelli
+    - Tal Farlow
+    - Django Reinhardt
+    - Stéphane Grappelli
 musicbrainz_id: fcbc2086-5863-4659-b03d-44be704697d2
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/John_McLaughlin_(musician)
-- https://www.britannica.com/biography/John-McLaughlin
-- https://www.allaboutjazz.com/musicians/john-mclaughlin/
-- https://www.bluenote.com/artist/john-mclaughlin/
-- https://daily.redbullmusicacademy.com/2015/02/john-mclaughlin-interview/
+  - 'https://en.wikipedia.org/wiki/John_McLaughlin_(musician)'
+  - 'https://www.britannica.com/biography/John-McLaughlin'
+  - 'https://www.allaboutjazz.com/musicians/john-mclaughlin/'
+  - 'https://www.bluenote.com/artist/john-mclaughlin/'
+  - 'https://daily.redbullmusicacademy.com/2015/02/john-mclaughlin-interview/'
 spotify_data:
   followers: 139507
   id: 4v0R1feRiuCDch7aAheVhY
   popularity: 44
-  url: https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY
+  url: 'https://open.spotify.com/artist/4v0R1feRiuCDch7aAheVhY'
 status: active
 tags:
-- british
-- composers
-- guitarists
+  - british
+  - composers
+  - guitarists
 title: John McLaughlin
 ---
 

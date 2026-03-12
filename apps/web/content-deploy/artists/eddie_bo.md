@@ -1,15 +1,15 @@
 ---
-title: eddie bo
+title: Eddie Bo
 wiki_slug: eddie-bo
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/eddie_bo.jpg
   caption: eddie bo
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 118.5
   energy_avg: 0.642
@@ -17,7 +17,7 @@ audio_profile:
   danceability_avg: 0.667
   acousticness_avg: 0.366
   instrumentalness_avg: 0.173
-  loudness_avg: -10.0
+  loudness_avg: -10
   speechiness_avg: 0.087
   liveness_avg: 0.131
   track_count: 50
@@ -25,53 +25,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Irma Thomas
-  - Art Neville
-  - Robert Parker
-  - Chris Kenner
-  - Al "Carnival Time" Johnson
-  - Johnny Adams
-  - Paul Gayten
+    - Irma Thomas
+    - Art Neville
+    - Robert Parker
+    - Chris Kenner
+    - Al "Carnival Time" Johnson
+    - Johnny Adams
+    - Paul Gayten
   influenced:
-  - Little Richard
-  - Etta James
-  - Modern funk and hip-hop artists
+    - Little Richard
+    - Etta James
+    - Modern funk and hip-hop artists
   mentors:
-  - Professor Longhair
-  - Art Tatum
-  - Oscar Peterson
+    - Professor Longhair
+    - Art Tatum
+    - Oscar Peterson
 spotify_data:
   followers: 9446
   id: 6yJkbSRofSN6kk4BWaqlax
   popularity: 21
-  url: https://open.spotify.com/artist/6yJkbSRofSN6kk4BWaqlax
+  url: 'https://open.spotify.com/artist/6yJkbSRofSN6kk4BWaqlax'
 discography_enriched: true
 top_tracks:
-- Check Your Bucket (The Hook and Sling)
-- 'It Must Be Love (The Complete Ric Singles: 1959-1962)'
-- Check Mr. Popeye - Pt. 1 (Check Mr. Popeye)
-- 'Every Dog Got His Day (The Complete Ric Singles: 1959-1962)'
-- The Hook & Sling - Vocal Mix (The Hook and Sling)
-- The Funk Hits the Fan (Eargasm)
-- Tee Na Na Na Na Nay (Gumbo Stew)
-- Lover and a Friend (The Instant & Minit Story)
-- Hey Mama Here Comes the Preacher (The Hook and Sling)
-- Baby I'm Wise (Check Mr. Popeye)
+  - Check Your Bucket (The Hook and Sling)
+  - 'It Must Be Love (The Complete Ric Singles: 1959-1962)'
+  - Check Mr. Popeye - Pt. 1 (Check Mr. Popeye)
+  - 'Every Dog Got His Day (The Complete Ric Singles: 1959-1962)'
+  - The Hook & Sling - Vocal Mix (The Hook and Sling)
+  - The Funk Hits the Fan (Eargasm)
+  - Tee Na Na Na Na Nay (Gumbo Stew)
+  - Lover and a Friend (The Instant & Minit Story)
+  - Hey Mama Here Comes the Preacher (The Hook and Sling)
+  - Baby I'm Wise (Check Mr. Popeye)
 external_urls:
-  spotify: https://open.spotify.com/artist/6yJkbSRofSN6kk4BWaqlax
-  wikipedia: https://en.wikipedia.org/wiki/Eddie_Bo
+  spotify: 'https://open.spotify.com/artist/6yJkbSRofSN6kk4BWaqlax'
+  wikipedia: 'https://en.wikipedia.org/wiki/Eddie_Bo'
 image_path: 03_Resources/source_material/ArtistPortraits/eddie_bo.jpg
 biography_enhanced_at: '2025-10-22T09:23:32.261295'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://wbssmedia.com/artists/detail/2290
-- https://www.eddiebo.com/bio.html
-- https://www.allaboutjazz.com/musicians/eddie-bo/
-- https://homeofthegroove.blogspot.com/2009/03/in-pursuit-of-bo-consiousness.html
+  - 'https://wbssmedia.com/artists/detail/2290'
+  - 'https://www.eddiebo.com/bio.html'
+  - 'https://www.allaboutjazz.com/musicians/eddie-bo/'
+  - >-
+    https://homeofthegroove.blogspot.com/2009/03/in-pursuit-of-bo-consiousness.html
 network_extracted: true
 entry_created: '2025-10-22T09:23:32.261309'
 last_updated: '2025-12-23T08:16:08.141682'
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1930-09-20'
+artist_type: person
 ---
 
 ![](eddie_bo.jpg)

@@ -3,55 +3,55 @@ biography_enhanced_at: '2025-12-25T01:15:16.931262'
 enhancement_provider: perplexity
 entry_created: '2025-12-25T01:15:16.931278'
 external_urls:
-  spotify: https://open.spotify.com/artist/6BufIg68WvvzrEqoDI19Kl
-  wikipedia: https://en.wikipedia.org/wiki/The_Crusaders_(jazz_band)
+  spotify: 'https://open.spotify.com/artist/6BufIg68WvvzrEqoDI19Kl'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Crusaders_(jazz_band)'
 genres:
-- hard bop
-- soul jazz
-- jazz
-- bebop
-- jazz funk
-- jazz fusion
+  - hard bop
+  - soul jazz
+  - jazz
+  - bebop
+  - jazz funk
+  - jazz fusion
 image_path: 03_Resources/source_material/ArtistPortraits/the_jazz_crusaders.jpg
 last_updated: '2025-12-25T01:15:16.931280'
 musical_connections:
   collaborators:
-  - Joe Sample
-  - Wilton Felder
-  - Nesbert “Stix” Hooper
-  - Wayne Henderson
-  - Hubert Laws
-  - Larry Carlton
-  - Robert “Pops” Popwell
-  - Randy Crawford
-  - Gerald Albright
+    - Joe Sample
+    - Wilton Felder
+    - Nesbert “Stix” Hooper
+    - Wayne Henderson
+    - Hubert Laws
+    - Larry Carlton
+    - Robert “Pops” Popwell
+    - Randy Crawford
+    - Gerald Albright
   influenced:
-  - Jazz-funk and jazz-rock fusion artists of the 1970s
-  - Crossover jazz and smooth-jazz musicians
-  - Younger Houston and Texas jazz players
+    - Jazz-funk and jazz-rock fusion artists of the 1970s
+    - Crossover jazz and smooth-jazz musicians
+    - Younger Houston and Texas jazz players
   mentors:
-  - Curtis Amy
-  - Modern Jazz Quartet (stylistic model)
-  - Southern R&B, blues, and gospel traditions
+    - Curtis Amy
+    - Modern Jazz Quartet (stylistic model)
+    - 'Southern R&B, blues, and gospel traditions'
 network_extracted: true
-origin: Houston, Texas, United States
+origin: 'Houston, Texas, United States'
 primary_source: perplexity
 research_sources:
-- Texas State Historical Association – The Crusaders entry
-- EverythingJazz – “The Jazz Crusaders – Freedom Sound” feature
-- 'KNKX – “The Jazz Crusaders: Putting the ''Jazz'' back into the ''Crusaders''”'
-- 'JazzTimes – “The Jazz Crusaders & Joe Sample: The Next Crusade”'
-- 'All About Jazz – “The Crusaders: A Retrospective”'
-- BlackPast – “The Crusaders / The Jazz Crusaders (1954–2010)”
-- Sessiondays – The (Jazz) Crusaders overview
+  - Texas State Historical Association – The Crusaders entry
+  - EverythingJazz – “The Jazz Crusaders – Freedom Sound” feature
+  - 'KNKX – “The Jazz Crusaders: Putting the ''Jazz'' back into the ''Crusaders''”'
+  - 'JazzTimes – “The Jazz Crusaders & Joe Sample: The Next Crusade”'
+  - 'All About Jazz – “The Crusaders: A Retrospective”'
+  - BlackPast – “The Crusaders / The Jazz Crusaders (1954–2010)”
+  - Sessiondays – The (Jazz) Crusaders overview
 spotify_data:
   followers: 25592
   id: 6BufIg68WvvzrEqoDI19Kl
   popularity: 27
-  url: https://open.spotify.com/artist/6BufIg68WvvzrEqoDI19Kl
+  url: 'https://open.spotify.com/artist/6BufIg68WvvzrEqoDI19Kl'
 status: active
-title: the jazz crusaders
-
+title: The Jazz Crusaders
+artist_type: person
 ---
 
 ![](the_jazz_crusaders.jpg)

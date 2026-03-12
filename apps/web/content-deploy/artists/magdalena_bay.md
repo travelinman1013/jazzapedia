@@ -2,7 +2,7 @@
 title: Magdalena Bay
 wiki_slug: magdalena-bay
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '2016'
 genres: []
@@ -12,7 +12,7 @@ infobox:
   background: group_or_band
   born: '2016'
 audio_profile:
-  tempo_avg: 118.0
+  tempo_avg: 118
   energy_avg: 0.704
   valence_avg: 0.474
   danceability_avg: 0.607
@@ -26,67 +26,68 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mica Tenenbaum
-  - Matthew Lewin
-  - Mariano Sarrate
-  - Nick Villamizar
+    - Mica Tenenbaum
+    - Matthew Lewin
+    - Mariano Sarrate
+    - Nick Villamizar
   influenced:
-  - Emerging synthpop and indie pop artists
+    - Emerging synthpop and indie pop artists
   mentors:
-  - Grimes
-  - Chairlift
-  - Charli XCX
+    - Grimes
+    - Chairlift
+    - Charli XCX
 spotify_data:
   followers: 557790
   id: 1oPRcJUkloHaRLYx0olBLJ
   popularity: 68
-  url: https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ
+  url: 'https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ'
 discography_enriched: true
 top_tracks:
-- Killshot - Slowed + Reverb (Killshot (Slowed + Reverb))
-- Image (Imaginal Disk)
-- Killshot (A Little Rhythm and a Wicked Feeling)
-- Killshot (Killshot)
-- Death & Romance (Imaginal Disk)
-- Killing Time (Imaginal Disk)
-- Love Is Everywhere (Imaginal Disk)
-- Cry for Me (Imaginal Disk)
-- Fear, Sex (Imaginal Disk)
-- Vampire in the Corner (Imaginal Disk)
+  - Killshot - Slowed + Reverb (Killshot (Slowed + Reverb))
+  - Image (Imaginal Disk)
+  - Killshot (A Little Rhythm and a Wicked Feeling)
+  - Killshot (Killshot)
+  - Death & Romance (Imaginal Disk)
+  - Killing Time (Imaginal Disk)
+  - Love Is Everywhere (Imaginal Disk)
+  - Cry for Me (Imaginal Disk)
+  - 'Fear, Sex (Imaginal Disk)'
+  - Vampire in the Corner (Imaginal Disk)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/68c261d5-48c8-4ea9-9466-9fc908dc79bb
-  spotify: https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ
-  wikipedia: https://en.wikipedia.org/wiki/Magdalena_Bay_(band)
+  musicbrainz: 'https://musicbrainz.org/artist/68c261d5-48c8-4ea9-9466-9fc908dc79bb'
+  spotify: 'https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Magdalena_Bay_(band)'
 image_path: 03_Resources/source_material/ArtistPortraits/magdalena_bay.jpg
 biography_enhanced_at: '2025-11-05T12:45:13.674458'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.thelineofbestfit.com/features/interviews/magdalena-bay-want-to-defy-your-expectations
-- https://faroutmagazine.co.uk/the-prog-rock-origins-of-magdalena-bay/
-- https://www.last.fm/music/Magdalena+Bay/+wiki
-- https://magdalenabay.fandom.com/wiki/Magdalena_Bay
-- https://metalmagazine.eu/en/post/magdalena-bay
+  - >-
+    https://www.thelineofbestfit.com/features/interviews/magdalena-bay-want-to-defy-your-expectations
+  - 'https://faroutmagazine.co.uk/the-prog-rock-origins-of-magdalena-bay/'
+  - 'https://www.last.fm/music/Magdalena+Bay/+wiki'
+  - 'https://magdalenabay.fandom.com/wiki/Magdalena_Bay'
+  - 'https://metalmagazine.eu/en/post/magdalena-bay'
 network_extracted: true
 entry_created: '2025-11-05T12:45:13.674477'
 last_updated: '2025-12-23T08:16:12.478015'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8396271c-0216-4d51-b9cc-465d744eaa44
-  name: Matthew Lewin
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a5c87db1-faa9-42df-9f4d-1cee7c737967
-  name: Mica Tenenbaum
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8396271c-0216-4d51-b9cc-465d744eaa44
+    name: Matthew Lewin
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a5c87db1-faa9-42df-9f4d-1cee7c737967
+    name: Mica Tenenbaum
 musicbrainz_id: 68c261d5-48c8-4ea9-9466-9fc908dc79bb
-origin: Los Angeles
+origin: 'Los Angeles, California, United States'
 tags:
-- alternative pop
-- electronic
-- neo-psychedelia
+  - alternative pop
+  - electronic
+  - neo-psychedelia
 ---
 
 ![](magdalena_bay.jpg)

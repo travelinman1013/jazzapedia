@@ -5,44 +5,44 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1938-03-15'
-birth_place: Memphis
+birth_place: 'Memphis, Tennessee, United States'
 genres:
-- jazz
-- free jazz
+  - jazz
+  - free jazz
 instruments:
-- saxophone
-- original
-- piano
-- other vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - saxophone
-  mbid: c5c626e3-562a-4bb8-b0bb-b50166607ab9
-  name: The Charles Lloyd New Quartet
-- begin: ''
-  end: ''
-  instruments:
   - original
-  - saxophone
-  mbid: dbbc9be6-942f-4c4b-8245-593cc8aa04d5
-  name: The Charles Lloyd Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 22572c69-86e7-49d2-ba8e-4087274c4126
-  name: Kindred Spirits
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8a791d7d-b99b-4fc0-8198-31ab16396afd
-  name: The Atomic Bomb Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 714e6338-2752-4aea-ab06-cd9146d654d0
-  name: Charles Lloyd & the Marvels
+  - piano
+  - other vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - saxophone
+    mbid: c5c626e3-562a-4bb8-b0bb-b50166607ab9
+    name: The Charles Lloyd New Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - saxophone
+    mbid: dbbc9be6-942f-4c4b-8245-593cc8aa04d5
+    name: The Charles Lloyd Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 22572c69-86e7-49d2-ba8e-4087274c4126
+    name: Kindred Spirits
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8a791d7d-b99b-4fc0-8198-31ab16396afd
+    name: The Atomic Bomb Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 714e6338-2752-4aea-ab06-cd9146d654d0
+    name: Charles Lloyd & the Marvels
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/charles_lloyd.jpg
   caption: Charles Lloyd
@@ -50,7 +50,7 @@ infobox:
   born: '1938-03-15'
   origin: Memphis
 audio_profile:
-  tempo_avg: 100.0
+  tempo_avg: 100
   energy_avg: 0.225
   valence_avg: 0.28
   danceability_avg: 0.418
@@ -64,52 +64,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Keith Jarrett
-  - Jack DeJohnette
-  - Cecil McBee
-  - Jason Moran
-  - Chico Hamilton
-  - Cannonball Adderley
-  - Michel Petrucciani
-  - The Beach Boys
+    - Keith Jarrett
+    - Jack DeJohnette
+    - Cecil McBee
+    - Jason Moran
+    - Chico Hamilton
+    - Cannonball Adderley
+    - Michel Petrucciani
+    - The Beach Boys
   influenced:
-  - Michel Petrucciani
-  - Jason Moran
-  - Modern jazz saxophonists
+    - Michel Petrucciani
+    - Jason Moran
+    - Modern jazz saxophonists
   mentors:
-  - Phineas Newborn Jr.
-  - Irvin Reason
-  - Halsey Stevens
+    - Phineas Newborn Jr.
+    - Irvin Reason
+    - Halsey Stevens
 spotify_data:
   followers: 51132
   id: 0GC1oqEWpiAjfE7jm5LQO5
   popularity: 39
-  url: https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5
+  url: 'https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5'
 discography_enriched: true
 top_tracks:
-- You Are So Beautiful (I Long To See You)
-- The Water Is Rising (The Sky Will Still Be There Tomorrow)
-- 'Requiem - Live (8: Kindred Spirits (Live From The Lobero))'
-- Defiant, Tender Warrior (The Sky Will Still Be There Tomorrow)
-- Defiant, Tender Warrior
-- How Can I Tell You - Live (Passin' Thru (Live))
-- La Llorona (I Long To See You)
-- The Water Is Wide (The Water Is Wide)
-- Defiant (Vanished Gardens)
-- Ballad Of The Sad Young Men (Vanished Gardens)
+  - You Are So Beautiful (I Long To See You)
+  - The Water Is Rising (The Sky Will Still Be There Tomorrow)
+  - 'Requiem - Live (8: Kindred Spirits (Live From The Lobero))'
+  - 'Defiant, Tender Warrior (The Sky Will Still Be There Tomorrow)'
+  - 'Defiant, Tender Warrior'
+  - How Can I Tell You - Live (Passin' Thru (Live))
+  - La Llorona (I Long To See You)
+  - The Water Is Wide (The Water Is Wide)
+  - Defiant (Vanished Gardens)
+  - Ballad Of The Sad Young Men (Vanished Gardens)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b9b579ad-e499-4e3e-9d09-06bc8e504135
-  spotify: https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5
-  wikipedia: https://en.wikipedia.org/wiki/Charles_Lloyd_(jazz_musician)
+  musicbrainz: 'https://musicbrainz.org/artist/b9b579ad-e499-4e3e-9d09-06bc8e504135'
+  spotify: 'https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5'
+  wikipedia: 'https://en.wikipedia.org/wiki/Charles_Lloyd_(jazz_musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/charles_lloyd.jpg
 biography_enhanced_at: '2025-10-31T07:58:43.824467'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.bluenote.com/artist/charles-lloyd/
-- https://en.wikipedia.org/wiki/Charles_Lloyd_(jazz_musician)
-- https://ecmrecords.com/artists/charles-lloyd/
-- https://www.silmanjamespress.com/shop/jazz/charles-lloyd/
+  - 'https://www.bluenote.com/artist/charles-lloyd/'
+  - 'https://en.wikipedia.org/wiki/Charles_Lloyd_(jazz_musician)'
+  - 'https://ecmrecords.com/artists/charles-lloyd/'
+  - 'https://www.silmanjamespress.com/shop/jazz/charles-lloyd/'
 network_extracted: true
 entry_created: '2025-10-31T07:58:43.824478'
 last_updated: '2025-12-23T08:16:06.670304'
@@ -117,9 +117,10 @@ disambiguation: US jazz saxophonist
 gender: Male
 musicbrainz_id: b9b579ad-e499-4e3e-9d09-06bc8e504135
 tags:
-- jazz
-- jazz and blues
-- post-bop
+  - jazz
+  - jazz and blues
+  - post-bop
+origin: 'Los Angeles, California, United States'
 ---
 
 ![](charles_lloyd.jpg)

@@ -3,14 +3,14 @@ title: Sting
 wiki_slug: sting
 schema_version: 2
 status: active
-birth_place: Wallsend, Tyne and Wear, England, United Kingdom
+birth_place: 'Wallsend, Tyne and Wear, England, United Kingdom'
 genres:
-- soft rock
+  - soft rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sting.jpg
   caption: Sting
   background: solo_singer
-  origin: Wallsend, Tyne and Wear, England, United Kingdom
+  origin: 'Wallsend, Tyne and Wear, England, United Kingdom'
 audio_profile:
   tempo_avg: 102.7
   energy_avg: 0.489
@@ -26,51 +26,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Stewart Copeland
-  - Andy Summers
-  - Branford Marsalis
-  - Eric Clapton
-  - Cheb Mami
+    - Stewart Copeland
+    - Andy Summers
+    - Branford Marsalis
+    - Eric Clapton
+    - Cheb Mami
   influenced:
-  - John Mayer
-  - Bruno Mars
+    - John Mayer
+    - Bruno Mars
   mentors:
-  - The Phoenix Jazzmen
+    - The Phoenix Jazzmen
 spotify_data:
   followers: 3857762
   id: 0Ty63ceoRnnJKVEYP0VQpk
   popularity: 71
-  url: https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk
+  url: 'https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk'
 discography_enriched: true
 top_tracks:
-- Fields Of Gold (Ten Summoner's Tales)
-- Shape Of My Heart (Ten Summoner's Tales)
-- Englishman In New York (...Nothing Like The Sun)
-- What Could Have Been (from the series Arcane League of Legends) (Arcane League of Legends (Soundtrack from the Animated
-  Series))
-- Fragile (...Nothing Like The Sun)
-- Desert Rose (Brand New Day)
-- If I Ever Lose My Faith In You (Ten Summoner's Tales)
-- Redlight (Paradise Again)
-- Dreaming
-- It's Probably Me
+  - Fields Of Gold (Ten Summoner's Tales)
+  - Shape Of My Heart (Ten Summoner's Tales)
+  - Englishman In New York (...Nothing Like The Sun)
+  - >-
+    What Could Have Been (from the series Arcane League of Legends) (Arcane
+    League of Legends (Soundtrack from the Animated Series))
+  - Fragile (...Nothing Like The Sun)
+  - Desert Rose (Brand New Day)
+  - If I Ever Lose My Faith In You (Ten Summoner's Tales)
+  - Redlight (Paradise Again)
+  - Dreaming
+  - It's Probably Me
 external_urls:
-  spotify: https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk
-  wikipedia: https://en.wikipedia.org/wiki/Sting_(musician)
+  spotify: 'https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sting_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/sting.jpg
 biography_enhanced_at: '2025-11-01T15:21:45.653453'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.biography.com/musicians/sting
-- https://www.britannica.com/biography/Sting-British-musician
-- https://www.sting.com/biography
-- https://www.youtube.com/watch?v=m_42_g03nLs
-- https://www.imdb.com/name/nm0001776/bio/
-- https://www.nbc.com/nbc-insider/what-is-sting-real-name
+  - 'https://www.biography.com/musicians/sting'
+  - 'https://www.britannica.com/biography/Sting-British-musician'
+  - 'https://www.sting.com/biography'
+  - 'https://www.youtube.com/watch?v=m_42_g03nLs'
+  - 'https://www.imdb.com/name/nm0001776/bio/'
+  - 'https://www.nbc.com/nbc-insider/what-is-sting-real-name'
 network_extracted: true
 entry_created: '2025-11-01T15:21:45.653459'
 last_updated: '2025-12-23T08:16:16.166514'
+birth_date: '1951-10-02'
+artist_type: person
 ---
 
 ![](sting.jpg)

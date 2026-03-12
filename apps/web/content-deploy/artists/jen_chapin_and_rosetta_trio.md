@@ -23,47 +23,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Stephan Crump
-  - Jamie Fox
-  - Liberty Ellman
+    - Stephan Crump
+    - Jamie Fox
+    - Liberty Ellman
   influenced: []
   mentors:
-  - Harry Chapin
-  - Kevin Killen
+    - Harry Chapin
+    - Kevin Killen
 spotify_data:
   followers: 1154
   id: 5Daq6Cz4vKmJxJruglPZCZ
   popularity: 14
-  url: https://open.spotify.com/artist/5Daq6Cz4vKmJxJruglPZCZ
+  url: 'https://open.spotify.com/artist/5Daq6Cz4vKmJxJruglPZCZ'
 discography_enriched: true
 top_tracks:
-- 'You Haven''t Done Nothin'' (Revisions: The Songs of Stevie Wonder)'
-- 'You Haven''t Done Nothin'' (Revisions: The Songs of Stevie Wonder)'
-- Into The Mystic (Light Of Mine)
-- 'Master Blaster (Jammin'') (Revisions: The Songs of Stevie Wonder)'
-- Cat's In The Cradle
-- You Haven't Done Nothin'
-- 'Master Blaster (Jammin'') (Revisions: The Songs of Stevie Wonder)'
-- You Haven't Done Nothin' (Light Of Mine)
-- Starman
-- American Skin - 41 Shots (Light Of Mine)
+  - 'You Haven''t Done Nothin'' (Revisions: The Songs of Stevie Wonder)'
+  - 'You Haven''t Done Nothin'' (Revisions: The Songs of Stevie Wonder)'
+  - Into The Mystic (Light Of Mine)
+  - 'Master Blaster (Jammin'') (Revisions: The Songs of Stevie Wonder)'
+  - Cat's In The Cradle
+  - You Haven't Done Nothin'
+  - 'Master Blaster (Jammin'') (Revisions: The Songs of Stevie Wonder)'
+  - You Haven't Done Nothin' (Light Of Mine)
+  - Starman
+  - American Skin - 41 Shots (Light Of Mine)
 external_urls:
-  spotify: https://open.spotify.com/artist/5Daq6Cz4vKmJxJruglPZCZ
+  spotify: 'https://open.spotify.com/artist/5Daq6Cz4vKmJxJruglPZCZ'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/jen_chapin_and_rosetta_trio.jpg
 biography_enhanced_at: '2025-12-09T04:16:47.583577'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.jenchapin.com/about
-- https://concert.ryansimmons.net/season05/Scotland/index.html
-- https://www.popmatters.com/playing-pop-in-the-jazz-soul-shadow-2496248602.html
-- https://music.apple.com/au/artist/jen-chapin/4255287
-- https://www.stephancrump.com/jen-chapin-trio
-- https://www.youtube.com/channel/UCrXMoGe8CiktrLB0Ed236-A/about
+  - 'https://www.jenchapin.com/about'
+  - 'https://concert.ryansimmons.net/season05/Scotland/index.html'
+  - >-
+    https://www.popmatters.com/playing-pop-in-the-jazz-soul-shadow-2496248602.html
+  - 'https://music.apple.com/au/artist/jen-chapin/4255287'
+  - 'https://www.stephancrump.com/jen-chapin-trio'
+  - 'https://www.youtube.com/channel/UCrXMoGe8CiktrLB0Ed236-A/about'
 network_extracted: true
 entry_created: '2025-12-09T04:16:47.583586'
 last_updated: '2025-12-23T08:16:10.331877'
+birth_place: 'Long Island, New York, United States'
+origin: 'Long Island, New York, United States'
+artist_type: person
 ---
 
 ![](jen_chapin_and_rosetta_trio.jpg)

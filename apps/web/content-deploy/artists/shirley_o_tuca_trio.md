@@ -4,7 +4,7 @@ wiki_slug: shirley-o-tuca-trio
 schema_version: 2
 status: active
 genres:
-- brazilian jazz
+  - brazilian jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/shirley_o_tuca_trio.jpg
   caption: Shirley o Tuca Trio
@@ -24,36 +24,38 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Shirley
-  - Françoise Hardy
+    - Shirley
+    - Françoise Hardy
   influenced:
-  - Younger Brazilian jazz and bossa nova musicians
+    - Younger Brazilian jazz and bossa nova musicians
   mentors:
-  - João Gilberto
+    - João Gilberto
 spotify_data:
   followers: 10
   id: 3aacpogXxgTosMlmq3Rkxm
   popularity: 0
-  url: https://open.spotify.com/artist/3aacpogXxgTosMlmq3Rkxm
+  url: 'https://open.spotify.com/artist/3aacpogXxgTosMlmq3Rkxm'
 discography_enriched: true
 top_tracks:
-- Gosto Do Que e Bom (Nicola Conte Presents Viagem 4)
-- Gosto do Que É Bom (Viagem, Vol. 4)
+  - Gosto Do Que e Bom (Nicola Conte Presents Viagem 4)
+  - 'Gosto do Que É Bom (Viagem, Vol. 4)'
 external_urls:
-  spotify: https://open.spotify.com/artist/3aacpogXxgTosMlmq3Rkxm
-  wikipedia: https://en.wikipedia.org/wiki/Tuca_(musician)
+  spotify: 'https://open.spotify.com/artist/3aacpogXxgTosMlmq3Rkxm'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tuca_(musician)'
 image_path: ''
 biography_enhanced_at: '2025-11-23T06:30:05.410289'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Tuca_(musician)
-- https://www.youtube.com/watch?v=3d6BsQFNXxY
+  - 'https://en.wikipedia.org/wiki/Tuca_(musician)'
+  - 'https://www.youtube.com/watch?v=3d6BsQFNXxY'
 network_extracted: true
 entry_created: '2025-11-23T06:30:05.410301'
 last_updated: '2025-12-23T08:16:15.590671'
-origin: São Paulo, São Paulo, Brazil
-
+origin: 'São Paulo, São Paulo, Brazil'
+birth_place: 'São Paulo, São Paulo, Brazil'
+birth_date: '1944'
+artist_type: band
 ---
 
 ![]()

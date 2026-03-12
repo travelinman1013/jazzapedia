@@ -3,16 +3,16 @@ title: John Gorka
 wiki_slug: john-gorka
 schema_version: 2
 status: active
-birth_place: Edison, New Jersey, United States
+birth_place: 'Edison, New Jersey, United States'
 genres:
-- folk
-- singer-songwriter
-- americana
+  - folk
+  - singer-songwriter
+  - americana
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/john_gorka.jpg
   caption: John Gorka
   background: solo_singer
-  origin: Edison, New Jersey, United States
+  origin: 'Edison, New Jersey, United States'
 audio_profile:
   tempo_avg: 132.7
   energy_avg: 0.289
@@ -28,46 +28,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lucy Kaplansky
-  - Eliza Gilkyson
-  - Richard Shindell
+    - Lucy Kaplansky
+    - Eliza Gilkyson
+    - Richard Shindell
   influenced:
-  - Richard Shindell
+    - Richard Shindell
   mentors:
-  - Stan Rogers
-  - Jack Hardy
+    - Stan Rogers
+    - Jack Hardy
 spotify_data:
   followers: 20911
   id: 2MWKhzU2iggdtLs4xLTqrP
   popularity: 29
-  url: https://open.spotify.com/artist/2MWKhzU2iggdtLs4xLTqrP
+  url: 'https://open.spotify.com/artist/2MWKhzU2iggdtLs4xLTqrP'
 discography_enriched: true
 top_tracks:
-- Love Is Our Cross To Bear (I Know)
-- I Saw A Stranger With Your Hair (Pure John Gorka)
-- Nothing But a Child
-- The Water is Wide
-- Down at the Sea Hotel
-- I'm From New Jersey (Pure John Gorka)
-- She's That Kind of Mystery (Bright Side of Down)
-- Land of the Bottom Line (Land of the Bottom Line)
-- The Gypsy Life (Pure John Gorka)
-- Silence (Pure John Gorka)
+  - Love Is Our Cross To Bear (I Know)
+  - I Saw A Stranger With Your Hair (Pure John Gorka)
+  - Nothing But a Child
+  - The Water is Wide
+  - Down at the Sea Hotel
+  - I'm From New Jersey (Pure John Gorka)
+  - She's That Kind of Mystery (Bright Side of Down)
+  - Land of the Bottom Line (Land of the Bottom Line)
+  - The Gypsy Life (Pure John Gorka)
+  - Silence (Pure John Gorka)
 external_urls:
-  spotify: https://open.spotify.com/artist/2MWKhzU2iggdtLs4xLTqrP
-  wikipedia: https://en.wikipedia.org/wiki/John_Gorka
+  spotify: 'https://open.spotify.com/artist/2MWKhzU2iggdtLs4xLTqrP'
+  wikipedia: 'https://en.wikipedia.org/wiki/John_Gorka'
 image_path: 03_Resources/source_material/ArtistPortraits/john_gorka.jpg
 biography_enhanced_at: '2025-11-04T10:48:26.547354'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.johngorka.com/bio-2/
-- https://tcan.org/events/john-gorka/
-- https://www.folkharbour.com/teams/john-gorka/
-- https://sandiegotroubadour.com/john-gorka-a-songwriters-songwriter/
+  - 'https://www.johngorka.com/bio-2/'
+  - 'https://tcan.org/events/john-gorka/'
+  - 'https://www.folkharbour.com/teams/john-gorka/'
+  - 'https://sandiegotroubadour.com/john-gorka-a-songwriters-songwriter/'
 network_extracted: true
 entry_created: '2025-11-04T10:48:26.547363'
 last_updated: '2025-12-23T08:16:10.748304'
+artist_type: person
 ---
 
 ![](john_gorka.jpg)

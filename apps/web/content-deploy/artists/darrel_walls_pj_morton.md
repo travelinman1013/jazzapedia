@@ -3,35 +3,37 @@ biography_enhanced_at: '2026-01-06T02:13:37.401647'
 enhancement_provider: perplexity
 entry_created: '2026-01-06T02:13:37.401652'
 external_urls:
-  spotify: https://open.spotify.com/artist/0yg32lKXa3MKNPxiue46WJ
+  spotify: 'https://open.spotify.com/artist/0yg32lKXa3MKNPxiue46WJ'
   wikipedia: ''
 genres:
-- gospel
-- gospel r&b
+  - gospel
+  - gospel r&b
 image_path: 03_Resources/source_material/ArtistPortraits/darrel_walls_pj_morton.jpg
 last_updated: '2026-01-06T02:13:37.401653'
 musical_connections:
   collaborators:
-  - PJ Morton
-  - Zacardi Cortez
-  - The Walls Group
+    - PJ Morton
+    - Zacardi Cortez
+    - The Walls Group
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.thechristianbeat.org/pj-morton-darrel-walls-earn-2-grammy-nominations-for-heart-of-mine-project/
-- https://en.wikipedia.org/wiki/PJ_Morton
-- https://thewallis.org/morton
-- https://www.offbeat.com/news/pj-morton-launches-production-series-in-louisiana/
+  - >-
+    https://www.thechristianbeat.org/pj-morton-darrel-walls-earn-2-grammy-nominations-for-heart-of-mine-project/
+  - 'https://en.wikipedia.org/wiki/PJ_Morton'
+  - 'https://thewallis.org/morton'
+  - >-
+    https://www.offbeat.com/news/pj-morton-launches-production-series-in-louisiana/
 spotify_data:
   followers: 6266
   id: 0yg32lKXa3MKNPxiue46WJ
   popularity: 41
-  url: https://open.spotify.com/artist/0yg32lKXa3MKNPxiue46WJ
+  url: 'https://open.spotify.com/artist/0yg32lKXa3MKNPxiue46WJ'
 status: active
 title: Darrel Walls/ PJ Morton
-
+artist_type: person
 ---
 
 ![](darrel_walls_pj_morton.jpg)

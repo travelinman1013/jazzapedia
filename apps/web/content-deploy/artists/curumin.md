@@ -5,15 +5,15 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1976-07-03'
-birth_place: São Paulo, São Paulo, Brazil
+birth_place: 'São Paulo, São Paulo, Brazil'
 genres:
-- nova mpb
+  - nova mpb
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/curumin.jpg
   caption: Curumin
   background: solo_singer
   born: '1976-07-03'
-  origin: São Paulo, São Paulo, Brazil
+  origin: 'São Paulo, São Paulo, Brazil'
 audio_profile:
   tempo_avg: 125.6
   energy_avg: 0.65
@@ -21,7 +21,7 @@ audio_profile:
   danceability_avg: 0.721
   acousticness_avg: 0.289
   instrumentalness_avg: 0.109
-  loudness_avg: -8.0
+  loudness_avg: -8
   speechiness_avg: 0.104
   liveness_avg: 0.216
   track_count: 50
@@ -29,56 +29,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Blackalicious
-  - Céu
-  - Arnaldo Antunes
-  - Femi Kuti
-  - Juana Molina
+    - Blackalicious
+    - Céu
+    - Arnaldo Antunes
+    - Femi Kuti
+    - Juana Molina
   influenced:
-  - Brazilian "new MPB" and alternative scene artists (general)
+    - Brazilian "new MPB" and alternative scene artists (general)
   mentors:
-  - Jorge Ben (Jorge Ben Jor)
-  - Tim Maia
-  - Bebeto
+    - Jorge Ben (Jorge Ben Jor)
+    - Tim Maia
+    - Bebeto
 spotify_data:
   followers: 85506
   id: 1W1k6LUPDR0l4zwvKR4YLI
   popularity: 43
-  url: https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI
+  url: 'https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI'
 discography_enriched: true
 top_tracks:
-- Mistério Stereo (JapanPopShow)
-- Compacto (JapanPopShow)
-- Sonar (O Futuro Não Demora)
-- Esperança (JapanPopShow)
-- Vem Menina (Achados e Perdidos)
-- 'Samba Japa Sample: Dai Tokio Undo (Achados e Perdidos)'
-- Um Sinal
-- Pavão (Ascensão)
-- Dançando no escuro (JapanPopShow)
-- Passear (Boca)
+  - Mistério Stereo (JapanPopShow)
+  - Compacto (JapanPopShow)
+  - Sonar (O Futuro Não Demora)
+  - Esperança (JapanPopShow)
+  - Vem Menina (Achados e Perdidos)
+  - 'Samba Japa Sample: Dai Tokio Undo (Achados e Perdidos)'
+  - Um Sinal
+  - Pavão (Ascensão)
+  - Dançando no escuro (JapanPopShow)
+  - Passear (Boca)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/762f8713-15d0-45d7-b0d3-f989bfe1d233
-  spotify: https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI
-  wikipedia: https://en.wikipedia.org/wiki/Curumin
+  musicbrainz: 'https://musicbrainz.org/artist/762f8713-15d0-45d7-b0d3-f989bfe1d233'
+  spotify: 'https://open.spotify.com/artist/1W1k6LUPDR0l4zwvKR4YLI'
+  wikipedia: 'https://en.wikipedia.org/wiki/Curumin'
 image_path: 03_Resources/source_material/ArtistPortraits/curumin.jpg
 biography_enhanced_at: '2025-12-14T01:50:03.731263'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Six Degrees Records – Curumin artist bio and Arrocha album notes[1]
-- 'The Herald-Times – "Curumin: Valuing the mixture of Brazilian heritage"[2]'
-- Wisconsin Public Radio – Curumin artist feature[3]
-- Tracklib – Curumin artist profile with birth date and style description[4]
-- PopMatters – Review and profile for "JapanPopShow"[5]
-- Music Gateway – Curumin songwriter bio[6]
-- 'Catalina Maria Johnson – "Curumin: Sunny roots n'' future grooves" feature[7]'
+  - 'Six Degrees Records – Curumin artist bio and Arrocha album notes[1]'
+  - 'The Herald-Times – "Curumin: Valuing the mixture of Brazilian heritage"[2]'
+  - 'Wisconsin Public Radio – Curumin artist feature[3]'
+  - 'Tracklib – Curumin artist profile with birth date and style description[4]'
+  - 'PopMatters – Review and profile for "JapanPopShow"[5]'
+  - 'Music Gateway – Curumin songwriter bio[6]'
+  - 'Catalina Maria Johnson – "Curumin: Sunny roots n'' future grooves" feature[7]'
 network_extracted: true
 entry_created: '2025-12-14T01:50:03.731268'
 last_updated: '2025-12-23T08:16:07.335982'
 gender: Male
 musicbrainz_id: 762f8713-15d0-45d7-b0d3-f989bfe1d233
-
+origin: 'São Paulo, São Paulo, Brazil'
 ---
 
 ![](curumin.jpg)

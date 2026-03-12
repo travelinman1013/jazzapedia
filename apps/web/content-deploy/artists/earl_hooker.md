@@ -1,19 +1,23 @@
 ---
-title: earl hooker
+title: Earl Hooker
 wiki_slug: earl-hooker
 schema_version: 2
 status: active
-birth_place: Clarksdale, Mississippi, United States (birthplace); raised in Chicago, Illinois, United States
+birth_place: >-
+  Clarksdale, Mississippi, United States (birthplace); raised in Chicago,
+  Illinois, United States
 genres:
-- classic blues
-- blues
+  - classic blues
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/earl_hooker.jpg
   caption: earl hooker
   background: solo_singer
-  origin: Clarksdale, Mississippi, United States (birthplace); raised in Chicago, Illinois, United States
+  origin: >-
+    Clarksdale, Mississippi, United States (birthplace); raised in Chicago,
+    Illinois, United States
 audio_profile:
-  tempo_avg: 120.0
+  tempo_avg: 120
   energy_avg: 0.541
   valence_avg: 0.71
   danceability_avg: 0.501
@@ -27,53 +31,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Junior Wells
-  - Magic Sam
-  - A.C. Reed
-  - Muddy Waters
-  - Pinetop Perkins
-  - Carey Bell
-  - Ike Turner
-  - B.B. King
-  - John Lee Hooker
+    - Junior Wells
+    - Magic Sam
+    - A.C. Reed
+    - Muddy Waters
+    - Pinetop Perkins
+    - Carey Bell
+    - Ike Turner
+    - B.B. King
+    - John Lee Hooker
   influenced:
-  - B.B. King
+    - B.B. King
   mentors:
-  - Robert Nighthawk
-  - T-Bone Walker
+    - Robert Nighthawk
+    - T-Bone Walker
 spotify_data:
   followers: 56357
   id: 3Ev1WS21x5Jav9j214A19O
   popularity: 35
-  url: https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O
+  url: 'https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O'
 discography_enriched: true
 top_tracks:
-- Two Bugs and a Roach (Two Bugs and a Roach)
-- Blue Guitar (The Essential Earl Hooker)
-- You Don't Want Me (Two Bugs and a Roach)
-- Wah Wah Blues (Two Bugs and a Roach)
-- 'Blue Guitar (Sun Records Originals: Blue Guitar)'
-- 'The Hucklebuck (Sun Records Originals: Blue Guitar)'
-- End Of The Blues (Theresa Fungus Amung Us)
-- Blue Guitar (Blue Guitar)
-- The Foxtrot (Theresa Fungus Amung Us)
-- Off the Hook (The Genius of Earl Hooker)
+  - Two Bugs and a Roach (Two Bugs and a Roach)
+  - Blue Guitar (The Essential Earl Hooker)
+  - You Don't Want Me (Two Bugs and a Roach)
+  - Wah Wah Blues (Two Bugs and a Roach)
+  - 'Blue Guitar (Sun Records Originals: Blue Guitar)'
+  - 'The Hucklebuck (Sun Records Originals: Blue Guitar)'
+  - End Of The Blues (Theresa Fungus Amung Us)
+  - Blue Guitar (Blue Guitar)
+  - The Foxtrot (Theresa Fungus Amung Us)
+  - Off the Hook (The Genius of Earl Hooker)
 external_urls:
-  spotify: https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O
+  spotify: 'https://open.spotify.com/artist/3Ev1WS21x5Jav9j214A19O'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/earl_hooker.jpg
 biography_enhanced_at: '2025-11-27T06:36:22.010125'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.vintageguitar.com/40622/fretprints-earl-hooker/
-- https://www.bluesway.gr/2018/12/earl-hooker.html
-- https://blues.org/blues_hof_inductee/earl-hooker/
-- https://mojohand.com/glossary/earl-hooker/
-- https://www.knkx.org/blues/2024-01-19/listen-for-guitarist-earl-hookers-sound-on-these-blues-standards
+  - 'https://www.vintageguitar.com/40622/fretprints-earl-hooker/'
+  - 'https://www.bluesway.gr/2018/12/earl-hooker.html'
+  - 'https://blues.org/blues_hof_inductee/earl-hooker/'
+  - 'https://mojohand.com/glossary/earl-hooker/'
+  - >-
+    https://www.knkx.org/blues/2024-01-19/listen-for-guitarist-earl-hookers-sound-on-these-blues-standards
 network_extracted: true
 entry_created: '2025-11-27T06:36:22.010140'
 last_updated: '2025-12-23T08:16:08.118903'
+origin: 'Chicago, Illinois, United States'
+birth_date: '1929-01-15'
+death_date: '1970-04-21'
+artist_type: person
 ---
 
 ![](earl_hooker.jpg)

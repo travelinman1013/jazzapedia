@@ -4,19 +4,19 @@ wiki_slug: massa-rara
 schema_version: 2
 status: active
 genres:
-- dub
+  - dub
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/massa_rara.jpg
   caption: Massa Rara
   background: solo_singer
 audio_profile:
-  tempo_avg: 132.0
+  tempo_avg: 132
   energy_avg: 0.629
   valence_avg: 0.709
   danceability_avg: 0.759
   acousticness_avg: 0.481
   instrumentalness_avg: 0.754
-  loudness_avg: -13.0
+  loudness_avg: -13
   speechiness_avg: 0.043
   liveness_avg: 0.11
   track_count: 2
@@ -30,23 +30,24 @@ spotify_data:
   followers: 0
   id: 0kTLo5P6Op9puFwvZQhN1m
   popularity: 0
-  url: https://open.spotify.com/artist/0kTLo5P6Op9puFwvZQhN1m
+  url: 'https://open.spotify.com/artist/0kTLo5P6Op9puFwvZQhN1m'
 discography_enriched: true
 top_tracks:
-- 'Da Massa (Jam Lab #06 - da Massa)'
-- 'Da Massa - Dub (Jam Lab #06 - da Massa)'
+  - 'Da Massa (Jam Lab #06 - da Massa)'
+  - 'Da Massa - Dub (Jam Lab #06 - da Massa)'
 external_urls:
-  spotify: https://open.spotify.com/artist/0kTLo5P6Op9puFwvZQhN1m
+  spotify: 'https://open.spotify.com/artist/0kTLo5P6Op9puFwvZQhN1m'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/massa_rara.jpg
 biography_enhanced_at: '2025-12-21T01:27:23.469740'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- 'Spotify context: Genres dub, Popularity 0'
+  - 'Spotify context: Genres dub, Popularity 0'
 network_extracted: true
 entry_created: '2025-12-21T01:27:23.469748'
 last_updated: '2025-12-23T08:16:12.814053'
+artist_type: band
 ---
 
 ![](massa_rara.jpg)

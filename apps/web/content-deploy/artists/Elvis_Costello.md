@@ -1,144 +1,145 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: fec0ea15-3d5a-4dcd-b0f6-07d4cba9be88
-  name: The Coward Brothers
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 0ffb6573-a98e-412e-aa01-0a580e9d8b06
-  name: Elvis Costello & The Attractions
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: a3e6fa6e-32de-4152-ae38-81291597a10c
-  name: Elvis Costello & The Imposters
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: 2fce1307-df0b-46c2-b9d9-bf8506398c1a
-  name: Flip City
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: 2fce1307-df0b-46c2-b9d9-bf8506398c1a
-  name: Flip City
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1d72f6b5-52de-4403-85a4-9c5465242b3b
-  name: The New Basement Tapes
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: 2c4b3ccb-8db2-4a6c-9cdf-8dd76b1374a3
-  name: Clangwinstello
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: 2c4b3ccb-8db2-4a6c-9cdf-8dd76b1374a3
-  name: Clangwinstello
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3125ecae-b180-400f-a9a8-220ef823a622
-  name: The MacManus Gang
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: faf3a637-73f1-4f74-b4f4-a145de7c6c40
-  name: The Sugarcanes
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: faf3a637-73f1-4f74-b4f4-a145de7c6c40
-  name: The Sugarcanes
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 339e8f5d-d168-4d92-85ac-1879a921385a
-  name: Rusty
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: fec0ea15-3d5a-4dcd-b0f6-07d4cba9be88
+    name: The Coward Brothers
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 0ffb6573-a98e-412e-aa01-0a580e9d8b06
+    name: Elvis Costello & The Attractions
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: a3e6fa6e-32de-4152-ae38-81291597a10c
+    name: Elvis Costello & The Imposters
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: 2fce1307-df0b-46c2-b9d9-bf8506398c1a
+    name: Flip City
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 2fce1307-df0b-46c2-b9d9-bf8506398c1a
+    name: Flip City
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1d72f6b5-52de-4403-85a4-9c5465242b3b
+    name: The New Basement Tapes
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: 2c4b3ccb-8db2-4a6c-9cdf-8dd76b1374a3
+    name: Clangwinstello
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 2c4b3ccb-8db2-4a6c-9cdf-8dd76b1374a3
+    name: Clangwinstello
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3125ecae-b180-400f-a9a8-220ef823a622
+    name: The MacManus Gang
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: faf3a637-73f1-4f74-b4f4-a145de7c6c40
+    name: The Sugarcanes
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: faf3a637-73f1-4f74-b4f4-a145de7c6c40
+    name: The Sugarcanes
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 339e8f5d-d168-4d92-85ac-1879a921385a
+    name: Rusty
 biography_enhanced_at: '2026-01-03T01:42:21.838805'
 birth_date: '1954-08-25'
-birth_place: Paddington
+birth_place: 'Paddington, London, England'
 enhancement_provider: perplexity
 entry_created: '2026-01-03T01:42:21.838827'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8a338e06-d182-46f2-bd16-30a09bc840ba
-  spotify: https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn
-  wikipedia: https://en.wikipedia.org/wiki/Elvis_Costello
+  musicbrainz: 'https://musicbrainz.org/artist/8a338e06-d182-46f2-bd16-30a09bc840ba'
+  spotify: 'https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn'
+  wikipedia: 'https://en.wikipedia.org/wiki/Elvis_Costello'
 gender: Male
 genres:
-- power pop
+  - power pop
 image_path: 03_Resources/source_material/ArtistPortraits/elvis_costello.jpg
 instruments:
-- eponymous
-- original
-- lead vocals
-- guitar
-- piano
-- guitar family
-- bass guitar
-- acoustic guitar
-- electric guitar
-- electric bass guitar
-- classical guitar
-- grand piano
-- Wurlitzer electric piano
-- baritone guitar
-- 12 string guitar
-- slide guitar
-- upright piano
-- tenor guitar
-- mandoguitar
-- background vocals
-- vocal
-- other vocals
-- spoken vocals
+  - eponymous
+  - original
+  - lead vocals
+  - guitar
+  - piano
+  - guitar family
+  - bass guitar
+  - acoustic guitar
+  - electric guitar
+  - electric bass guitar
+  - classical guitar
+  - grand piano
+  - Wurlitzer electric piano
+  - baritone guitar
+  - 12 string guitar
+  - slide guitar
+  - upright piano
+  - tenor guitar
+  - mandoguitar
+  - background vocals
+  - vocal
+  - other vocals
+  - spoken vocals
 last_updated: '2026-01-03T01:42:21.838829'
 musical_connections:
   collaborators:
-  - The Attractions (Pete Thomas, Bruce Thomas, Steve Nieve)
-  - Clover
-  - The Roots
-  - Davey Faragher
-  - Clive Langer
+    - 'The Attractions (Pete Thomas, Bruce Thomas, Steve Nieve)'
+    - Clover
+    - The Roots
+    - Davey Faragher
+    - Clive Langer
   influenced: []
   mentors:
-  - Allan Mayes
+    - Allan Mayes
 musicbrainz_id: 8a338e06-d182-46f2-bd16-30a09bc840ba
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.thisdayinmusic.com/artists/elvis-costello/
-- https://en.wikipedia.org/wiki/Elvis_Costello
-- https://www.ebsco.com/research-starters/music/elvis-costello
-- https://www.britannica.com/biography/Elvis-Costello
-- https://www.biography.com/musicians/elvis-costello
+  - 'https://www.thisdayinmusic.com/artists/elvis-costello/'
+  - 'https://en.wikipedia.org/wiki/Elvis_Costello'
+  - 'https://www.ebsco.com/research-starters/music/elvis-costello'
+  - 'https://www.britannica.com/biography/Elvis-Costello'
+  - 'https://www.biography.com/musicians/elvis-costello'
 spotify_data:
   followers: 608033
   id: 2BGRfQgtzikz1pzAD0kaEn
   popularity: 54
-  url: https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn
+  url: 'https://open.spotify.com/artist/2BGRfQgtzikz1pzAD0kaEn'
 status: active
 tags:
-- art rock
-- british
-- new wave
+  - art rock
+  - british
+  - new wave
 title: Elvis Costello
+origin: 'Liverpool, England'
 ---
 
 ![](elvis_costello.jpg)

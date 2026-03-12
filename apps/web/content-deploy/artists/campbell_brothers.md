@@ -1,5 +1,5 @@
 ---
-title: Campbell Brothers
+title: The Campbell Brothers
 wiki_slug: campbell-brothers
 schema_version: 2
 status: active
@@ -14,8 +14,8 @@ audio_profile:
   valence_avg: 0.786
   danceability_avg: 0.736
   acousticness_avg: 0.06
-  instrumentalness_avg: 0.0
-  loudness_avg: -6.0
+  instrumentalness_avg: 0
+  loudness_avg: -6
   speechiness_avg: 0.053
   liveness_avg: 0.207
   track_count: 43
@@ -23,54 +23,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Darick Campbell
-  - Denise Brown
-  - Daric Bennett
-  - Ron Staples
-  - Serena Young
-  - Rufus McGee
+    - Darick Campbell
+    - Denise Brown
+    - Daric Bennett
+    - Ron Staples
+    - Serena Young
+    - Rufus McGee
   influenced:
-  - Younger sacred steel and pedal steel guitarists in the House of God and related traditions
-  - Contemporary roots, blues, and jam-band audiences and musicians
+    - >-
+      Younger sacred steel and pedal steel guitarists in the House of God and
+      related traditions
+    - 'Contemporary roots, blues, and jam-band audiences and musicians'
   mentors:
-  - Bishop Campbell (father of the Campbell brothers)
-  - B.B. King, George Benson, Roy Clark, Jimmy Day, Buddy Emmons
-  - Troman and Willie Eason
+    - Bishop Campbell (father of the Campbell brothers)
+    - 'B.B. King, George Benson, Roy Clark, Jimmy Day, Buddy Emmons'
+    - Troman and Willie Eason
 spotify_data:
   followers: 2019
   id: 0okDOYctdYvsmejyqCkReC
   popularity: 24
-  url: https://open.spotify.com/artist/0okDOYctdYvsmejyqCkReC
+  url: 'https://open.spotify.com/artist/0okDOYctdYvsmejyqCkReC'
 discography_enriched: true
 top_tracks:
-- Brand New Man (Brand New Man)
-- Cotton Fields (Country Line Dance Hits)
-- Proud Mary (Revival)
-- Old Time Rock and Roll (Tailgate Party)
-- Midnight Special (Revival)
-- Have You Ever Seen the Rain (Revival)
-- Bad Moon Rising (Revival)
-- Cotton Fields (Revival)
-- Sweet Caroline (Tailgate Party)
-- Jambalaya (Country Line Dance Hits)
+  - Brand New Man (Brand New Man)
+  - Cotton Fields (Country Line Dance Hits)
+  - Proud Mary (Revival)
+  - Old Time Rock and Roll (Tailgate Party)
+  - Midnight Special (Revival)
+  - Have You Ever Seen the Rain (Revival)
+  - Bad Moon Rising (Revival)
+  - Cotton Fields (Revival)
+  - Sweet Caroline (Tailgate Party)
+  - Jambalaya (Country Line Dance Hits)
 external_urls:
-  spotify: https://open.spotify.com/artist/0okDOYctdYvsmejyqCkReC
-  wikipedia: https://en.wikipedia.org/wiki/The_Campbell_Brothers
+  spotify: 'https://open.spotify.com/artist/0okDOYctdYvsmejyqCkReC'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Campbell_Brothers'
 image_path: 03_Resources/source_material/ArtistPortraits/campbell_brothers.jpg
 biography_enhanced_at: '2025-12-13T12:18:29.846426'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Campbell_Brothers
-- https://fliartists.com/artists/campbell-brothers/
-- https://ropeadope.com/the-campbell-brothers
-- https://www.richmondfolkfestival.org/2020-performers/2020/9/26/the-campbell-brothers
-- https://www.nationalfolkfestival.com/artists/the-campbell-brothers
-- https://campbellme.com (consulted to distinguish from the unrelated South African duo also using the Campbell Brothers name)
+  - 'https://en.wikipedia.org/wiki/The_Campbell_Brothers'
+  - 'https://fliartists.com/artists/campbell-brothers/'
+  - 'https://ropeadope.com/the-campbell-brothers'
+  - >-
+    https://www.richmondfolkfestival.org/2020-performers/2020/9/26/the-campbell-brothers
+  - 'https://www.nationalfolkfestival.com/artists/the-campbell-brothers'
+  - >-
+    https://campbellme.com (consulted to distinguish from the unrelated South
+    African duo also using the Campbell Brothers name)
 network_extracted: true
 entry_created: '2025-12-13T12:18:29.846432'
 last_updated: '2025-12-23T08:16:06.341686'
-origin: Rush (near Rochester), New York, United States
+origin: 'Rush (near Rochester), New York, United States'
+artist_type: band
 ---
 
 ![](campbell_brothers.jpg)

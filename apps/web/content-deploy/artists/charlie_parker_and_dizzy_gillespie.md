@@ -1,13 +1,14 @@
 ---
-title: charlie parker and dizzy gillespie
+title: Charlie Parker and Dizzy Gillespie
 wiki_slug: charlie-parker-and-dizzy-gillespie
 schema_version: 2
 status: active
 genres:
-- bebop
-- jazz
+  - bebop
+  - jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/charlie_parker_and_dizzy_gillespie.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/charlie_parker_and_dizzy_gillespie.jpg
   caption: charlie parker and dizzy gillespie
   background: solo_singer
 audio_profile:
@@ -25,51 +26,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Thelonious Monk
-  - Miles Davis
-  - Max Roach
-  - Chano Pozo
+    - Thelonious Monk
+    - Miles Davis
+    - Max Roach
+    - Chano Pozo
   influenced:
-  - Miles Davis
-  - John Coltrane
-  - Quincy Jones
+    - Miles Davis
+    - John Coltrane
+    - Quincy Jones
   mentors:
-  - Jay McShann
-  - Roy Eldridge
-  - Mario Bauza
+    - Jay McShann
+    - Roy Eldridge
+    - Mario Bauza
 spotify_data:
   followers: 8293
   id: 5DgDCy2yX6ocw0U6uMMItR
   popularity: 2
-  url: https://open.spotify.com/artist/5DgDCy2yX6ocw0U6uMMItR
+  url: 'https://open.spotify.com/artist/5DgDCy2yX6ocw0U6uMMItR'
 discography_enriched: true
 top_tracks:
-- Cherokee (The Birth of Modern Jazz)
-- 'A Night In Tunisia (Giants Of Jazz: ''Round Midnight)'
-- Shaw 'Nuff" (Café Jazz)
-- KoKo (Café Jazz)
-- Relaxin' At Camerillo (Dizzy Bird)
-- Salt Peanuts (Café Jazz)
-- How High The Moon (Dizzy Bird)
-- Carvin' the Bird (Dizzy Bird)
-- On A Slow Boat To China (Dizzy Bird)
-- East of the Sun (West of the Moon) (The Birth of Modern Jazz)
+  - Cherokee (The Birth of Modern Jazz)
+  - 'A Night In Tunisia (Giants Of Jazz: ''Round Midnight)'
+  - Shaw 'Nuff" (Café Jazz)
+  - KoKo (Café Jazz)
+  - Relaxin' At Camerillo (Dizzy Bird)
+  - Salt Peanuts (Café Jazz)
+  - How High The Moon (Dizzy Bird)
+  - Carvin' the Bird (Dizzy Bird)
+  - On A Slow Boat To China (Dizzy Bird)
+  - East of the Sun (West of the Moon) (The Birth of Modern Jazz)
 external_urls:
-  spotify: https://open.spotify.com/artist/5DgDCy2yX6ocw0U6uMMItR
-  wikipedia: https://en.wikipedia.org/wiki/Charlie_Parker
-image_path: 03_Resources/source_material/ArtistPortraits/charlie_parker_and_dizzy_gillespie.jpg
+  spotify: 'https://open.spotify.com/artist/5DgDCy2yX6ocw0U6uMMItR'
+  wikipedia: 'https://en.wikipedia.org/wiki/Charlie_Parker'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/charlie_parker_and_dizzy_gillespie.jpg
 biography_enhanced_at: '2025-12-16T03:20:28.115466'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Charlie_Parker
-- https://www.bluenote.com/artist/dizzy-gillespie/
-- https://englishroam.com/?p=11449
-- https://www.arts.gov/honors/jazz/john-birks-dizzy-gillespie
+  - 'https://en.wikipedia.org/wiki/Charlie_Parker'
+  - 'https://www.bluenote.com/artist/dizzy-gillespie/'
+  - 'https://englishroam.com/?p=11449'
+  - 'https://www.arts.gov/honors/jazz/john-birks-dizzy-gillespie'
 network_extracted: true
 entry_created: '2025-12-16T03:20:28.115480'
 last_updated: '2025-12-23T08:16:06.755499'
-origin: Kansas City, Kansas, USA (Parker); Cheraw, South Carolina, USA (Gillespie)
+origin: 'Kansas City, Kansas, USA (Parker); Cheraw, South Carolina, USA (Gillespie)'
+birth_place: 'Kansas City, Kansas, United States'
+birth_date: '1920'
+death_date: '1955'
+artist_type: band
 ---
 
 ![](charlie_parker_and_dizzy_gillespie.jpg)

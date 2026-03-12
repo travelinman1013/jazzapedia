@@ -5,46 +5,46 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1928-10-10'
-birth_place: Evanston
+birth_place: 'Evanston, Illinois, United States'
 death_date: '2021-01-17'
 genres:
-- jazz
-- hard bop
-- soul jazz
+  - jazz
+  - hard bop
+  - soul jazz
 instruments:
-- additional
-- eponymous
-- original
-- piano
-associated_acts:
-- begin: '1947-09-23'
-  end: '1947-09-23'
-  instruments: []
-  mbid: 496f1308-d7da-41c8-8938-746f848c71d1
-  name: Gene Ammons Quintet
-- begin: '1947-10-23'
-  end: '1947-10-23'
-  instruments:
   - additional
-  mbid: 7f5b670f-1109-4b69-ab1e-9d6f876409aa
-  name: Gene Ammons Sextet
-- begin: '1947-10-23'
-  end: '1949-02-05'
-  instruments: []
-  mbid: f99dc0df-f1bd-4c67-9107-82756283209a
-  name: Gene Ammons and His Orchestra
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
-  mbid: a617aa21-e2da-43ed-b022-20bc3502219c
-  name: Junior Mance Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 49d87d1b-6027-4efc-9e31-f7c53a7dc43f
-  name: The Eddie Davis-Johnny Griffin Quintet
+  - piano
+associated_acts:
+  - begin: '1947-09-23'
+    end: '1947-09-23'
+    instruments: []
+    mbid: 496f1308-d7da-41c8-8938-746f848c71d1
+    name: Gene Ammons Quintet
+  - begin: '1947-10-23'
+    end: '1947-10-23'
+    instruments:
+      - additional
+    mbid: 7f5b670f-1109-4b69-ab1e-9d6f876409aa
+    name: Gene Ammons Sextet
+  - begin: '1947-10-23'
+    end: '1949-02-05'
+    instruments: []
+    mbid: f99dc0df-f1bd-4c67-9107-82756283209a
+    name: Gene Ammons and His Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: a617aa21-e2da-43ed-b022-20bc3502219c
+    name: Junior Mance Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 49d87d1b-6027-4efc-9e31-f7c53a7dc43f
+    name: The Eddie Davis-Johnny Griffin Quintet
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/junior_mance.jpg
   caption: Junior Mance
@@ -67,60 +67,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Gene Ammons
-  - Lester Young
-  - Dinah Washington
-  - Cannonball Adderley
-  - Eddie "Lockjaw" Davis & Johnny Griffin
-  - Ray Brown
-  - Lex Humphries
-  - Aretha Franklin
-  - Buddy Guy
+    - Gene Ammons
+    - Lester Young
+    - Dinah Washington
+    - Cannonball Adderley
+    - Eddie "Lockjaw" Davis & Johnny Griffin
+    - Ray Brown
+    - Lex Humphries
+    - Aretha Franklin
+    - Buddy Guy
   influenced:
-  - José James
-  - Michi Fuji
-  - Numerous New School students
+    - José James
+    - Michi Fuji
+    - Numerous New School students
   mentors:
-  - Julian Mance Sr.
+    - Julian Mance Sr.
 spotify_data:
   followers: 14221
   id: 1KTUh4AYegM2fSdac5xqPb
   popularity: 40
-  url: https://open.spotify.com/artist/1KTUh4AYegM2fSdac5xqPb
+  url: 'https://open.spotify.com/artist/1KTUh4AYegM2fSdac5xqPb'
 discography_enriched: true
 top_tracks:
-- Lilacs In The Rain (Junior)
-- Jubilation (Jubilation)
-- Whisper Not (Jubilation)
-- A Smooth One (Junior)
-- Junior's Tune (Junior)
-- Jubilation (Junior)
-- Miss Jackie's Delight (Junior)
-- Whisper Not (Junior)
-- Small Fry (Junior)
-- Jitterbug Waltz (Happy Time (Reissue))
+  - Lilacs In The Rain (Junior)
+  - Jubilation (Jubilation)
+  - Whisper Not (Jubilation)
+  - A Smooth One (Junior)
+  - Junior's Tune (Junior)
+  - Jubilation (Junior)
+  - Miss Jackie's Delight (Junior)
+  - Whisper Not (Junior)
+  - Small Fry (Junior)
+  - Jitterbug Waltz (Happy Time (Reissue))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d217c8ff-7dcc-4c11-84f2-3b5cdf018523
-  spotify: https://open.spotify.com/artist/1KTUh4AYegM2fSdac5xqPb
-  wikipedia: https://en.wikipedia.org/wiki/Junior_Mance
+  musicbrainz: 'https://musicbrainz.org/artist/d217c8ff-7dcc-4c11-84f2-3b5cdf018523'
+  spotify: 'https://open.spotify.com/artist/1KTUh4AYegM2fSdac5xqPb'
+  wikipedia: 'https://en.wikipedia.org/wiki/Junior_Mance'
 image_path: 03_Resources/source_material/ArtistPortraits/junior_mance.jpg
 biography_enhanced_at: '2025-11-03T07:29:44.960147'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Junior_Mance
-- https://www.allaboutjazz.com/musicians/junior-mance/
-- https://billmilkowski.substack.com/p/remembering-junior-mance
-- https://www.wbgo.org/music/2021-01-20/junior-mance-impeccable-jazz-pianist-and-educator-has-died-at-92
+  - 'https://en.wikipedia.org/wiki/Junior_Mance'
+  - 'https://www.allaboutjazz.com/musicians/junior-mance/'
+  - 'https://billmilkowski.substack.com/p/remembering-junior-mance'
+  - >-
+    https://www.wbgo.org/music/2021-01-20/junior-mance-impeccable-jazz-pianist-and-educator-has-died-at-92
 network_extracted: true
 entry_created: '2025-11-03T07:29:44.960157'
 last_updated: '2025-12-23T08:16:11.090214'
 gender: Male
 musicbrainz_id: d217c8ff-7dcc-4c11-84f2-3b5cdf018523
 tags:
-- hard bop
-- jazz
-- soul jazz
+  - hard bop
+  - jazz
+  - soul jazz
+is_active: false
 ---
 
 ![](junior_mance.jpg)

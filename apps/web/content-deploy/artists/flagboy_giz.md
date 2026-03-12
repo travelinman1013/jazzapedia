@@ -3,21 +3,21 @@ title: Flagboy Giz
 wiki_slug: flagboy-giz
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- bounce
+  - bounce
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/flagboy_giz.jpg
   caption: Flagboy Giz
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 131.1
   energy_avg: 0.703
   valence_avg: 0.583
   danceability_avg: 0.783
   acousticness_avg: 0.362
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -6.8
   speechiness_avg: 0.191
   liveness_avg: 0.178
@@ -26,55 +26,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Hot Boy Ronald
-  - Choppa
-  - Mia X
-  - Baby Boy Da Prince
-  - Dolamite
-  - 9th Ward Judy
-  - 504icygrl
-  - Dwight Bell
+    - Hot Boy Ronald
+    - Choppa
+    - Mia X
+    - Baby Boy Da Prince
+    - Dolamite
+    - 9th Ward Judy
+    - 504icygrl
+    - Dwight Bell
   influenced: []
   mentors:
-  - Mannie Fresh
-  - Brandan 'Bmike' Odums
+    - Mannie Fresh
+    - Brandan 'Bmike' Odums
 spotify_data:
   followers: 2195
   id: 2YtUQJ41oPkKKEtgMRKKYl
   popularity: 14
-  url: https://open.spotify.com/artist/2YtUQJ41oPkKKEtgMRKKYl
+  url: 'https://open.spotify.com/artist/2YtUQJ41oPkKKEtgMRKKYl'
 discography_enriched: true
 top_tracks:
-- We Outside (I Got Indian In My Family)
-- Uptown (I Got Indian In My Family)
-- Going To The Treme (The Sins Fault Levitation Treme EP)
-- We Outside - Remix (We Outside (Remix))
-- Fell in Love at the Secondline (Disgrace to the Culture)
-- We Outside (We Outside)
-- Rocheblave (I Got Indian In My Family)
-- Big Chief (Big Chief)
-- Mardi Gras (I Got Indian In My Family)
-- Zulu King and Queen 2025 We Outside - Remix (Zulu King and Queen 2025 We Outside (Remix))
+  - We Outside (I Got Indian In My Family)
+  - Uptown (I Got Indian In My Family)
+  - Going To The Treme (The Sins Fault Levitation Treme EP)
+  - We Outside - Remix (We Outside (Remix))
+  - Fell in Love at the Secondline (Disgrace to the Culture)
+  - We Outside (We Outside)
+  - Rocheblave (I Got Indian In My Family)
+  - Big Chief (Big Chief)
+  - Mardi Gras (I Got Indian In My Family)
+  - >-
+    Zulu King and Queen 2025 We Outside - Remix (Zulu King and Queen 2025 We
+    Outside (Remix))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f8e0ac11-6b96-4b10-8d6e-680c2f0fe31d
-  spotify: https://open.spotify.com/artist/2YtUQJ41oPkKKEtgMRKKYl
+  musicbrainz: 'https://musicbrainz.org/artist/f8e0ac11-6b96-4b10-8d6e-680c2f0fe31d'
+  spotify: 'https://open.spotify.com/artist/2YtUQJ41oPkKKEtgMRKKYl'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/flagboy_giz.jpg
 biography_enhanced_at: '2025-12-04T07:50:00.989268'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://flagboygiz.com/bio-1
-- https://www.thefader.com/2025/04/22/oral-history-flagboy-giz-we-outside
-- https://www.whereyat.com/flagboy-giz-the-wild-tchoupitoulas
-- https://www.neworleans.com/listing/flagboy-giz/48343/
-- https://www.offbeat.com/articles/we-all-the-way-outside-flagboy-giz-tells-his-mardi-gras-indian-story/
-- https://nolalibrary.org/2023/12/15/crescent-city-sounds-spotlight-flagboy-giz/
+  - 'https://flagboygiz.com/bio-1'
+  - 'https://www.thefader.com/2025/04/22/oral-history-flagboy-giz-we-outside'
+  - 'https://www.whereyat.com/flagboy-giz-the-wild-tchoupitoulas'
+  - 'https://www.neworleans.com/listing/flagboy-giz/48343/'
+  - >-
+    https://www.offbeat.com/articles/we-all-the-way-outside-flagboy-giz-tells-his-mardi-gras-indian-story/
+  - >-
+    https://nolalibrary.org/2023/12/15/crescent-city-sounds-spotlight-flagboy-giz/
 network_extracted: true
 entry_created: '2025-12-04T07:50:00.989275'
 last_updated: '2025-12-23T08:16:08.665661'
 musicbrainz_id: f8e0ac11-6b96-4b10-8d6e-680c2f0fe31d
-
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](flagboy_giz.jpg)

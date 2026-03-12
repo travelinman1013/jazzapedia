@@ -4,7 +4,7 @@ wiki_slug: alphonsus-idigo
 schema_version: 2
 artist_type: person
 status: active
-birth_place: Nigeria
+birth_place: 'Nigeria, Nigeria, Africa'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/alphonsus_idigo.jpg
@@ -26,35 +26,35 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dig This Way Records
+    - Dig This Way Records
   influenced: []
   mentors: []
 spotify_data:
   followers: 0
   id: 3NyP086lWaCnejlXHM3fZL
   popularity: 0
-  url: https://open.spotify.com/artist/3NyP086lWaCnejlXHM3fZL
+  url: 'https://open.spotify.com/artist/3NyP086lWaCnejlXHM3fZL'
 discography_enriched: true
 top_tracks:
-- Flight 505 (Search)
-- We Got To Love (Search)
-- Search (Search)
-- Superman (Search)
-- What More Can I Do For You? (Search)
-- Mystic World (Search)
+  - Flight 505 (Search)
+  - We Got To Love (Search)
+  - Search (Search)
+  - Superman (Search)
+  - What More Can I Do For You? (Search)
+  - Mystic World (Search)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/094a7d32-f6bd-4fe8-bbcb-3c34c350e812
-  spotify: https://open.spotify.com/artist/3NyP086lWaCnejlXHM3fZL
+  musicbrainz: 'https://musicbrainz.org/artist/094a7d32-f6bd-4fe8-bbcb-3c34c350e812'
+  spotify: 'https://open.spotify.com/artist/3NyP086lWaCnejlXHM3fZL'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/alphonsus_idigo.jpg
 biography_enhanced_at: '2025-12-04T08:20:20.358946'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Dig This Way Records Bandcamp - Alphonsus Idigo Search album page
-- YouTube - Alphonsus Idigo Mystic World (rootikalist channel)
-- YouTube - Alphonsus Idigo Search 1987 Nigeria
-- eBay - Alphonsus Idigo Search LP reissue listing
+  - Dig This Way Records Bandcamp - Alphonsus Idigo Search album page
+  - YouTube - Alphonsus Idigo Mystic World (rootikalist channel)
+  - YouTube - Alphonsus Idigo Search 1987 Nigeria
+  - eBay - Alphonsus Idigo Search LP reissue listing
 network_extracted: true
 entry_created: '2025-12-04T08:20:20.358957'
 last_updated: '2025-12-23T08:16:04.631304'

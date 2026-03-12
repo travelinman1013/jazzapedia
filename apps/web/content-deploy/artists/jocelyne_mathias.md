@@ -3,11 +3,11 @@ biography_enhanced_at: '2026-01-11T02:22:24.405950'
 enhancement_provider: perplexity
 entry_created: '2026-01-11T02:22:24.405959'
 external_urls:
-  spotify: https://open.spotify.com/artist/2WDDYtjTSY6dpioSvKDexX
+  spotify: 'https://open.spotify.com/artist/2WDDYtjTSY6dpioSvKDexX'
   wikipedia: ''
 genres:
-- zouk
-- kompa
+  - zouk
+  - kompa
 image_path: 03_Resources/source_material/ArtistPortraits/jocelyne_mathias.jpg
 last_updated: '2026-01-11T02:22:24.405961'
 musical_connections:
@@ -17,19 +17,21 @@ musical_connections:
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://open.spotify.com
-- https://www.google.com/search?q=%22Jocelyne+Mathias%22+zouk
-- https://www.bing.com/search?q=%22Jocelyne+Mathias%22+kompa
-- https://www.youtube.com/results?search_query=%22Jocelyne+Mathias%22
-- https://www.discogs.com/search/?q=%22Jocelyne+Mathias%22&type=all
-- https://musicbrainz.org/search?query=%22Jocelyne+Mathias%22&type=artist&method=indexed
+  - 'https://open.spotify.com'
+  - 'https://www.google.com/search?q=%22Jocelyne+Mathias%22+zouk'
+  - 'https://www.bing.com/search?q=%22Jocelyne+Mathias%22+kompa'
+  - 'https://www.youtube.com/results?search_query=%22Jocelyne+Mathias%22'
+  - 'https://www.discogs.com/search/?q=%22Jocelyne+Mathias%22&type=all'
+  - >-
+    https://musicbrainz.org/search?query=%22Jocelyne+Mathias%22&type=artist&method=indexed
 spotify_data:
   followers: 36
   id: 2WDDYtjTSY6dpioSvKDexX
   popularity: 0
-  url: https://open.spotify.com/artist/2WDDYtjTSY6dpioSvKDexX
+  url: 'https://open.spotify.com/artist/2WDDYtjTSY6dpioSvKDexX'
 status: active
 title: Jocelyne Mathias
+artist_type: person
 ---
 
 ![](jocelyne_mathias.jpg)

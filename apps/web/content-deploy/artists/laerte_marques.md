@@ -3,10 +3,10 @@ biography_enhanced_at: '2025-12-28T01:54:00.526210'
 enhancement_provider: perplexity
 entry_created: '2025-12-28T01:54:00.526216'
 external_urls:
-  spotify: https://open.spotify.com/artist/19UesjbwVVroTIaMZ7dSBj
+  spotify: 'https://open.spotify.com/artist/19UesjbwVVroTIaMZ7dSBj'
   wikipedia: ''
 genres:
-- christmas
+  - christmas
 image_path: 03_Resources/source_material/ArtistPortraits/laerte_marques.jpg
 last_updated: '2025-12-28T01:54:00.526217'
 musical_connections:
@@ -16,15 +16,17 @@ musical_connections:
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- Northwestern University 2025 Commencement program PDF (for the non-musical occurrence
-  of the name “Laerte Marques Jr.”)[2]
+  - >-
+    Northwestern University 2025 Commencement program PDF (for the non-musical
+    occurrence of the name “Laerte Marques Jr.”)[2]
 spotify_data:
   followers: 471
   id: 19UesjbwVVroTIaMZ7dSBj
   popularity: 28
-  url: https://open.spotify.com/artist/19UesjbwVVroTIaMZ7dSBj
+  url: 'https://open.spotify.com/artist/19UesjbwVVroTIaMZ7dSBj'
 status: active
 title: Laerte Marques
+artist_type: person
 ---
 
 ![](laerte_marques.jpg)

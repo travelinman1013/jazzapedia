@@ -3,16 +3,16 @@ title: Deborah Coleman
 wiki_slug: deborah-coleman
 schema_version: 2
 status: active
-birth_place: Portsmouth, Virginia, United States
+birth_place: 'Portsmouth, Virginia, United States'
 genres:
-- blues
-- modern blues
-- blues rock
+  - blues
+  - modern blues
+  - blues rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Deborah_Coleman.jpg
   caption: Deborah Coleman
   background: solo_singer
-  origin: Portsmouth, Virginia, United States
+  origin: 'Portsmouth, Virginia, United States'
 audio_profile:
   tempo_avg: 124.1
   energy_avg: 0.763
@@ -28,50 +28,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sue Foley
-  - Roxanne Potvin
-  - Various band members
+    - Sue Foley
+    - Roxanne Potvin
+    - Various band members
   influenced:
-  - Emerging women blues guitarists
+    - Emerging women blues guitarists
   mentors:
-  - Jimi Hendrix
-  - Muddy Waters
-  - Howlin' Wolf
-  - Buddy Guy, Freddie King, Albert Collins, Larry Carlton
+    - Jimi Hendrix
+    - Muddy Waters
+    - Howlin' Wolf
+    - 'Buddy Guy, Freddie King, Albert Collins, Larry Carlton'
 spotify_data:
   followers: 13422
   id: 7Dk3koHTPpEymzuWOWzzny
   popularity: 20
-  url: https://open.spotify.com/artist/7Dk3koHTPpEymzuWOWzzny
+  url: 'https://open.spotify.com/artist/7Dk3koHTPpEymzuWOWzzny'
 discography_enriched: true
 top_tracks:
-- I'm A Woman (Soft Place To Fall)
-- My Heart Bleeds Blue (I Can't Lose)
-- Memory Lane (Livin’ On Love)
-- My Love Belongs To You - Instrumental (I Can't Lose)
-- Don't Lie To Me (Soft Place To Fall)
-- You’re With Me (Livin’ On Love)
-- Light Of Day (Livin’ On Love)
-- Roll With Me (I Can't Lose)
-- The Day It Comes (Soft Place To Fall)
-- 'I''m A Woman (Blind Pig Records: 40th Anniversary Collection)'
+  - I'm A Woman (Soft Place To Fall)
+  - My Heart Bleeds Blue (I Can't Lose)
+  - Memory Lane (Livin’ On Love)
+  - My Love Belongs To You - Instrumental (I Can't Lose)
+  - Don't Lie To Me (Soft Place To Fall)
+  - You’re With Me (Livin’ On Love)
+  - Light Of Day (Livin’ On Love)
+  - Roll With Me (I Can't Lose)
+  - The Day It Comes (Soft Place To Fall)
+  - 'I''m A Woman (Blind Pig Records: 40th Anniversary Collection)'
 external_urls:
-  spotify: https://open.spotify.com/artist/7Dk3koHTPpEymzuWOWzzny
-  wikipedia: https://en.wikipedia.org/wiki/Deborah_Coleman
+  spotify: 'https://open.spotify.com/artist/7Dk3koHTPpEymzuWOWzzny'
+  wikipedia: 'https://en.wikipedia.org/wiki/Deborah_Coleman'
 image_path: 03_Resources/source_material/ArtistPortraits/Deborah_Coleman.jpg
 biography_enhanced_at: '2025-10-19T10:26:18.252034'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.elderly.com/pages/deborah-coleman-celebrating-black-history-month
-- https://mojohand.com/glossary/deborah-coleman/
-- https://kids.kiddle.co/Deborah_Coleman
-- https://www.swaves.com/Back_Issues/Dec02/Deborah_Coleman.htm
-- https://www.blueslawine.de/en/chronicle/18th-blueslawine/18th-blueslawine-dc
-- https://en.wikipedia.org/wiki/Deborah_Coleman
+  - >-
+    https://www.elderly.com/pages/deborah-coleman-celebrating-black-history-month
+  - 'https://mojohand.com/glossary/deborah-coleman/'
+  - 'https://kids.kiddle.co/Deborah_Coleman'
+  - 'https://www.swaves.com/Back_Issues/Dec02/Deborah_Coleman.htm'
+  - 'https://www.blueslawine.de/en/chronicle/18th-blueslawine/18th-blueslawine-dc'
+  - 'https://en.wikipedia.org/wiki/Deborah_Coleman'
 network_extracted: true
 entry_created: '2025-10-19T10:26:18.252053'
 last_updated: '2025-12-23T08:16:01.711259'
+birth_date: '1956-10-03'
+death_date: '2018-04-12'
+artist_type: person
 ---
 
 ![](Deborah_Coleman.jpg)

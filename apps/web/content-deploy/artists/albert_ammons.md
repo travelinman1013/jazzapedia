@@ -6,39 +6,39 @@ status: deceased
 birth_name: Albert Clifton Ammons
 aliases: []
 birth_date: '1907-09-23'
-birth_place: Chicago, Illinois, United States
+birth_place: 'Chicago, Illinois, United States'
 death_date: '1949-12-02'
 years_active: 1920s–1949
 genres:
-- boogie-woogie
-- ragtime
-- boogie
-- blues
+  - boogie-woogie
+  - ragtime
+  - boogie
+  - blues
 instruments:
-- piano
+  - piano
 occupation:
-- pianist
-- jazz musician
-- composer
+  - pianist
+  - jazz musician
+  - composer
 record_labels:
-- Blue Note
-- Delmark Records
+  - Blue Note
+  - Delmark Records
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Albert_Ammons.jpg
   caption: Albert Ammons
   background: non_vocal_instrumentalist
   birth_name: Albert Clifton Ammons
   born: '1907-09-23'
-  origin: Chicago, Illinois, United States
+  origin: 'Chicago, Illinois, United States'
   died: '1949-12-02'
 audio_profile:
-  tempo_avg: 112.0
+  tempo_avg: 112
   energy_avg: 0.407
   valence_avg: 0.839
   danceability_avg: 0.559
   acousticness_avg: 0.964
   instrumentalness_avg: 0.85
-  loudness_avg: -15.0
+  loudness_avg: -15
   speechiness_avg: 0.05
   liveness_avg: 0.142
   track_count: 59
@@ -46,42 +46,42 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Meade Lux Lewis
-  - Pete Johnson
-  - Gene Ammons
+    - Meade Lux Lewis
+    - Pete Johnson
+    - Gene Ammons
   influenced:
-  - Gene Ammons
-  - Countless jazz and blues pianists
+    - Gene Ammons
+    - Countless jazz and blues pianists
   mentors:
-  - Jimmy Blythe
-  - Jimmy Yancey
-  - Alonzo Yancey
-  - Hersal Thomas
-  - Clarence 'Pinetop' Smith
+    - Jimmy Blythe
+    - Jimmy Yancey
+    - Alonzo Yancey
+    - Hersal Thomas
+    - Clarence 'Pinetop' Smith
 related_artists: []
 spotify_data:
   followers: 6688
   id: 1pfiDZtUYY64LDWQZ941BN
   popularity: 21
-  url: https://open.spotify.com/artist/1pfiDZtUYY64LDWQZ941BN
+  url: 'https://open.spotify.com/artist/1pfiDZtUYY64LDWQZ941BN'
   verified: false
 discography_enriched: true
 albums_count: 14
 singles_count: 0
 top_tracks:
-- Boogie Woogie Stomp (The First Day)
-- Boogie Woogie Blues (The First Day)
-- The Blues, Part One (The First Day)
-- Boogie Woogie Prayer (The Boogie Woogie Trio vol. 1)
-- Suitcase Blues (The First Day)
-- Boogie Woogie Prayer - (Alternate Version) (Shout For Joy)
-- Barrelhouse Boogie (Shout For Joy)
-- Swanee River Boogie (Shout For Joy)
-- Twos And Fews (The First Day)
-- Shout For Joy (Boogie Woogie Stomp)
+  - Boogie Woogie Stomp (The First Day)
+  - Boogie Woogie Blues (The First Day)
+  - 'The Blues, Part One (The First Day)'
+  - Boogie Woogie Prayer (The Boogie Woogie Trio vol. 1)
+  - Suitcase Blues (The First Day)
+  - Boogie Woogie Prayer - (Alternate Version) (Shout For Joy)
+  - Barrelhouse Boogie (Shout For Joy)
+  - Swanee River Boogie (Shout For Joy)
+  - Twos And Fews (The First Day)
+  - Shout For Joy (Boogie Woogie Stomp)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/1pfiDZtUYY64LDWQZ941BN
+  spotify: 'https://open.spotify.com/artist/1pfiDZtUYY64LDWQZ941BN'
   wikipedia: Not found in provided sources
 image_path: 03_Resources/source_material/ArtistPortraits/Albert_Ammons.jpg
 biography_source: wikipedia
@@ -89,13 +89,15 @@ biography_enhanced_at: '2025-09-30T11:41:11.689621'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- African American Registry
-- TIMS - This Is My Story
-- jazzleadsheets.com
+  - African American Registry
+  - TIMS - This Is My Story
+  - jazzleadsheets.com
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:50:55.397545
+entry_created: 2025-09-22T21:50:55.397Z
 last_updated: '2025-12-23T08:16:04.484952'
+is_active: false
+artist_type: person
 ---
 
 ![](Albert_Ammons.jpg)

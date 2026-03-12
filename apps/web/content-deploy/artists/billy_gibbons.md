@@ -1,18 +1,18 @@
 ---
-title: billy gibbons
+title: Billy Gibbons
 wiki_slug: billy-gibbons
 schema_version: 2
 status: active
-birth_place: Houston, Texas, United States
+birth_place: 'Houston, Texas, United States'
 genres:
-- blues rock
-- blues
-- modern blues
+  - blues rock
+  - blues
+  - modern blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/billy_gibbons.jpg
   caption: billy gibbons
   background: solo_singer
-  origin: Houston, Texas, United States
+  origin: 'Houston, Texas, United States'
 audio_profile:
   tempo_avg: 121.2
   energy_avg: 0.805
@@ -28,50 +28,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dusty Hill
-  - Frank Beard
-  - Queens of the Stone Age
-  - Hank Williams III
+    - Dusty Hill
+    - Frank Beard
+    - Queens of the Stone Age
+    - Hank Williams III
   influenced:
-  - Jack White
-  - Dan Auerbach
+    - Jack White
+    - Dan Auerbach
   mentors:
-  - Jimi Hendrix
-  - B.B. King
+    - Jimi Hendrix
+    - B.B. King
 spotify_data:
   followers: 63445
   id: 69Iibc3uQ7x2vDeZxTwKCw
   popularity: 44
-  url: https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw
+  url: 'https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw'
 discography_enriched: true
 top_tracks:
-- Livin' It Up Down In Texas
-- Honky Tonk Stomp (feat. Billy Gibbons) (#1s ... and then some)
-- Missin’ Yo’ Kissin’ (The Big Bad Blues)
-- Good Love (feat. Billy F Gibbons) (Dropout Boogie)
-- Higher Education (feat. Kid Rock, Lee Brice, Billy Gibbons and Tim Montana)
-- My Lucky Card (Hardware)
-- Hoochie Coochie Man feat. Billy F Gibbons (Orgy of the Damned)
-- Run Rudolph Run
-- My Baby She Rocks (The Big Bad Blues)
-- This Beard Came Here to Party (feat. Billy F Gibbons)
+  - Livin' It Up Down In Texas
+  - Honky Tonk Stomp (feat. Billy Gibbons) (#1s ... and then some)
+  - Missin’ Yo’ Kissin’ (The Big Bad Blues)
+  - Good Love (feat. Billy F Gibbons) (Dropout Boogie)
+  - 'Higher Education (feat. Kid Rock, Lee Brice, Billy Gibbons and Tim Montana)'
+  - My Lucky Card (Hardware)
+  - Hoochie Coochie Man feat. Billy F Gibbons (Orgy of the Damned)
+  - Run Rudolph Run
+  - My Baby She Rocks (The Big Bad Blues)
+  - This Beard Came Here to Party (feat. Billy F Gibbons)
 external_urls:
-  spotify: https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw
-  wikipedia: https://en.wikipedia.org/wiki/Billy_Gibbons
+  spotify: 'https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw'
+  wikipedia: 'https://en.wikipedia.org/wiki/Billy_Gibbons'
 image_path: 03_Resources/source_material/ArtistPortraits/billy_gibbons.jpg
 biography_enhanced_at: '2025-11-22T07:39:42.751535'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Billy_Gibbons
-- https://jasobrecht.substack.com/p/zz-tops-billy-gibbons-the-early-years
-- https://concord.com/artist/billy-gibbons/
-- https://bluesrockreview.com/2025/10/how-billy-gibbons-revolutionized-blues-rock.html
-- https://www.app.tankersinternational.com/86012695/billy-gibbons-bio-career-net-worth-height-married-wiki-facts/
-- https://www.thecurrent.org/feature/2020/12/11/today-in-music-history-mtv-aired-nirvanas-unplugged-session
+  - 'https://en.wikipedia.org/wiki/Billy_Gibbons'
+  - 'https://jasobrecht.substack.com/p/zz-tops-billy-gibbons-the-early-years'
+  - 'https://concord.com/artist/billy-gibbons/'
+  - >-
+    https://bluesrockreview.com/2025/10/how-billy-gibbons-revolutionized-blues-rock.html
+  - >-
+    https://www.app.tankersinternational.com/86012695/billy-gibbons-bio-career-net-worth-height-married-wiki-facts/
+  - >-
+    https://www.thecurrent.org/feature/2020/12/11/today-in-music-history-mtv-aired-nirvanas-unplugged-session
 network_extracted: true
 entry_created: '2025-11-22T07:39:42.751545'
 last_updated: '2025-12-23T08:16:05.576217'
+birth_date: '1949-12-16'
+artist_type: person
 ---
 
 ![](billy_gibbons.jpg)

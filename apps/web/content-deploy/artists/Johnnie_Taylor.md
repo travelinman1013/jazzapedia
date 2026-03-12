@@ -2,22 +2,22 @@
 title: Johnnie Taylor
 wiki_slug: johnnie-taylor
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1934-05-05'
-birth_place: Crawfordsville, Arkansas, United States
+birth_place: 'Crawfordsville, Arkansas, United States'
 death_date: '2000-05-31'
 genres:
-- blues
-- soul blues
-- footwork
-- soul
+  - blues
+  - soul blues
+  - footwork
+  - soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Johnnie_Taylor.jpg
   caption: Johnnie Taylor
   background: solo_singer
   born: '1934-05-05'
-  origin: Crawfordsville, Arkansas, United States
+  origin: 'Crawfordsville, Arkansas, United States'
   died: '2000-05-31'
 audio_profile:
   tempo_avg: 122.9
@@ -26,7 +26,7 @@ audio_profile:
   danceability_avg: 0.667
   acousticness_avg: 0.332
   instrumentalness_avg: 0.003
-  loudness_avg: -10.0
+  loudness_avg: -10
   speechiness_avg: 0.053
   liveness_avg: 0.127
   track_count: 50
@@ -34,44 +34,44 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Soul Stirrers
-  - The Highway QCs
-  - Stax Records house musicians (e.g., Booker T. & the MGs)
+    - The Soul Stirrers
+    - The Highway QCs
+    - 'Stax Records house musicians (e.g., Booker T. & the MGs)'
   influenced:
-  - Bobby 'Blue' Bland
-  - Southern soul and blues artists
+    - Bobby 'Blue' Bland
+    - Southern soul and blues artists
   mentors:
-  - Sam Cooke
+    - Sam Cooke
 spotify_data:
   followers: 247848
   id: 4OGuNAnRFWZOgOA2d51taz
   popularity: 43
-  url: https://open.spotify.com/artist/4OGuNAnRFWZOgOA2d51taz
+  url: 'https://open.spotify.com/artist/4OGuNAnRFWZOgOA2d51taz'
 discography_enriched: true
 top_tracks:
-- Last Two Dollars (Good Love!)
-- Disco Lady (Eargasm)
-- Who's Making Love (Who's Making Love...)
-- Good Love (Good Love!)
-- I Believe In You (You Believe In Me) (Taylored In Silk)
-- Soul Heaven (Gotta Get the Groove Back)
-- We're Getting Careless With Our Love (Taylored In Silk)
-- Running Out Of Lies (Eargasm)
-- Sending You A Kiss (Good Love!)
-- Too Many Memories (Good Love!)
+  - Last Two Dollars (Good Love!)
+  - Disco Lady (Eargasm)
+  - Who's Making Love (Who's Making Love...)
+  - Good Love (Good Love!)
+  - I Believe In You (You Believe In Me) (Taylored In Silk)
+  - Soul Heaven (Gotta Get the Groove Back)
+  - We're Getting Careless With Our Love (Taylored In Silk)
+  - Running Out Of Lies (Eargasm)
+  - Sending You A Kiss (Good Love!)
+  - Too Many Memories (Good Love!)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4c1c21bc-56d9-4bed-8b58-360b08e76ffa
-  spotify: https://open.spotify.com/artist/4OGuNAnRFWZOgOA2d51taz
-  wikipedia: https://en.wikipedia.org/wiki/Johnnie_Taylor
+  musicbrainz: 'https://musicbrainz.org/artist/4c1c21bc-56d9-4bed-8b58-360b08e76ffa'
+  spotify: 'https://open.spotify.com/artist/4OGuNAnRFWZOgOA2d51taz'
+  wikipedia: 'https://en.wikipedia.org/wiki/Johnnie_Taylor'
 image_path: 03_Resources/source_material/ArtistPortraits/Johnnie_Taylor.jpg
 biography_enhanced_at: '2025-10-19T11:41:04.531625'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Johnnie_Taylor
-- https://staxrecords.com/spotlight/johnnie-taylor/
-- https://encyclopediaofarkansas.net/entries/johnnie-harrison-taylor-637/
-- https://concord.com/artist/johnnie-taylor/
+  - 'https://en.wikipedia.org/wiki/Johnnie_Taylor'
+  - 'https://staxrecords.com/spotlight/johnnie-taylor/'
+  - 'https://encyclopediaofarkansas.net/entries/johnnie-harrison-taylor-637/'
+  - 'https://concord.com/artist/johnnie-taylor/'
 network_extracted: true
 entry_created: '2025-10-19T11:41:04.531631'
 last_updated: '2025-12-23T08:16:02.671470'
@@ -79,10 +79,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:32:20.429308'
 musicbrainz_id: 4c1c21bc-56d9-4bed-8b58-360b08e76ffa
 tags:
-- disco
-- r&b
-- soul
-
+  - disco
+  - r&b
+  - soul
+is_active: false
 ---
 
 ![](Johnnie_Taylor.jpg)

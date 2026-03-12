@@ -1,45 +1,47 @@
 ---
 biography_enhanced_at: '2025-12-29T01:19:34.028878'
-birth_place: Kingston, Jamaica
+birth_place: 'Kingston, Jamaica, United States'
 enhancement_provider: perplexity
 entry_created: '2025-12-29T01:19:34.028891'
 external_urls:
-  spotify: https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB
-  wikipedia: https://en.wikipedia.org/wiki/Sister_Nancy
+  spotify: 'https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sister_Nancy'
 genres:
-- reggae
-- ragga
-- rocksteady
+  - reggae
+  - ragga
+  - rocksteady
 image_path: 03_Resources/source_material/ArtistPortraits/sister_nancy_mad_professor.jpg
 last_updated: '2025-12-29T01:19:34.028892'
 musical_connections:
   collaborators:
-  - Yellowman
-  - General Echo
-  - Johnny Osbourne
-  - Capleton
+    - Yellowman
+    - General Echo
+    - Johnny Osbourne
+    - Capleton
   influenced:
-  - Lady Saw
-  - Macka Diamond
-  - Sister Carol
+    - Lady Saw
+    - Macka Diamond
+    - Sister Carol
   mentors:
-  - Brigadier Jerry
-  - Winston Riley
-  - Henry 'Junjo' Lawes
+    - Brigadier Jerry
+    - Winston Riley
+    - Henry 'Junjo' Lawes
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Sister_Nancy
-- https://daily.redbullmusicacademy.com/2017/03/sister-nancy-interview/
-- https://www.vpreggae.com/armageddon-sister-nancy-lp/
-- https://www.reggaeville.com/artist-details/sister-nancy/details/
+  - 'https://en.wikipedia.org/wiki/Sister_Nancy'
+  - 'https://daily.redbullmusicacademy.com/2017/03/sister-nancy-interview/'
+  - 'https://www.vpreggae.com/armageddon-sister-nancy-lp/'
+  - 'https://www.reggaeville.com/artist-details/sister-nancy/details/'
 spotify_data:
   followers: 205148
   id: 21pMSs2JHWwwy2kp1QIIVB
   popularity: 54
-  url: https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB
+  url: 'https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB'
 status: active
-title: Sister Nancy, Mad Professor
+title: 'Sister Nancy, Mad Professor'
+birth_date: '1962-01-02'
+artist_type: person
 ---
 
 ![](sister_nancy_mad_professor.jpg)

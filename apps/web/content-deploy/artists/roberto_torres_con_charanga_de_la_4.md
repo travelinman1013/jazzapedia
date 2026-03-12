@@ -1,45 +1,49 @@
 ---
 biography_enhanced_at: '2026-01-18T07:48:34.143340'
-birth_place: Güines, Matanzas, Cuba
+birth_place: 'Güines, Matanzas, Cuba'
 enhancement_provider: perplexity
 entry_created: '2026-01-18T07:48:34.143347'
 external_urls:
-  spotify: https://open.spotify.com/artist/0z6LtJkiwFPeXzDMMoXewN
-  wikipedia: https://es.wikipedia.org/wiki/Roberto_Torres_(cantante)
+  spotify: 'https://open.spotify.com/artist/0z6LtJkiwFPeXzDMMoXewN'
+  wikipedia: 'https://es.wikipedia.org/wiki/Roberto_Torres_(cantante)'
 genres:
-- son cubano
-- salsa
-- cha cha cha
-- mambo
-image_path: 03_Resources/source_material/ArtistPortraits/roberto_torres_con_charanga_de_la_4.jpg
+  - son cubano
+  - salsa
+  - cha cha cha
+  - mambo
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/roberto_torres_con_charanga_de_la_4.jpg
 last_updated: '2026-01-18T07:48:34.143348'
 musical_connections:
   collaborators:
-  - Artie Webb
-  - Eddy Zervigón
-  - Jesús Hernández
-  - Humberto Corredor
-  - Sergio Bofill
-  - Mike Martínez
-  - José Antonio Fajardo
+    - Artie Webb
+    - Eddy Zervigón
+    - Jesús Hernández
+    - Humberto Corredor
+    - Sergio Bofill
+    - Mike Martínez
+    - José Antonio Fajardo
   influenced:
-  - Latin American musicians in the charanga vallenata genre
+    - Latin American musicians in the charanga vallenata genre
   mentors:
-  - La Sonora Matancera
+    - La Sonora Matancera
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://es.wikipedia.org/wiki/Roberto_Torres_(cantante)
-- https://salsame.com/roberto-torres-la-leyenda-de-roberto-torres-un-icono-de-la-musica-cubana/
-- https://www.youtube.com/watch?v=2MH3BfVXnmA
-- https://www.jazzmusicarchives.com/artist/roberto-torres
+  - 'https://es.wikipedia.org/wiki/Roberto_Torres_(cantante)'
+  - >-
+    https://salsame.com/roberto-torres-la-leyenda-de-roberto-torres-un-icono-de-la-musica-cubana/
+  - 'https://www.youtube.com/watch?v=2MH3BfVXnmA'
+  - 'https://www.jazzmusicarchives.com/artist/roberto-torres'
 spotify_data:
   followers: 6030
   id: 0z6LtJkiwFPeXzDMMoXewN
   popularity: 22
-  url: https://open.spotify.com/artist/0z6LtJkiwFPeXzDMMoXewN
+  url: 'https://open.spotify.com/artist/0z6LtJkiwFPeXzDMMoXewN'
 status: active
 title: Roberto Torres Con Charanga de La 4
+birth_date: '1940-02-10'
+artist_type: person
 ---
 
 ![](roberto_torres_con_charanga_de_la_4.jpg)

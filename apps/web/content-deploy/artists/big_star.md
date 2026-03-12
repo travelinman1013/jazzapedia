@@ -1,116 +1,116 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-03T01:41:03.391121'
 birth_date: '1971'
 enhancement_provider: perplexity
 entry_created: '2026-01-03T01:41:03.391135'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/21d177ba-3d51-461e-9b3f-ad9a80b419dc
-  spotify: https://open.spotify.com/artist/3UvcmAOZt64oKpP95f6MMM
-  wikipedia: https://en.wikipedia.org/wiki/Big_Star
+  musicbrainz: 'https://musicbrainz.org/artist/21d177ba-3d51-461e-9b3f-ad9a80b419dc'
+  spotify: 'https://open.spotify.com/artist/3UvcmAOZt64oKpP95f6MMM'
+  wikipedia: 'https://en.wikipedia.org/wiki/Big_Star'
 genres:
-- power pop
-- jangle pop
-- baroque pop
+  - power pop
+  - jangle pop
+  - baroque pop
 image_path: 03_Resources/source_material/ArtistPortraits/big_star.jpg
 instruments:
-- electric guitar
-- original
-- electric bass guitar
-- lead vocals
-- drums (drum set)
-last_updated: '2026-01-03T01:41:03.391137'
-members:
-- begin: '1974'
-  end: '1975'
-  instruments: []
-  mbid: ea8f3875-9e23-485a-b9c9-61ddcab798f2
-  name: John Lightman
-- &id001
-  begin: '1993'
-  end: ''
-  instruments: []
-  mbid: 12a9677f-d85b-45bd-ac62-a2cd74407b08
-  name: Jon Auer
-- &id002
-  begin: '1993'
-  end: ''
-  instruments: []
-  mbid: 45f563aa-4601-4c6d-ab0d-a9f296eea71a
-  name: Ken Stringfellow
-- begin: ''
-  end: '1972'
-  instruments:
   - electric guitar
   - original
-  mbid: db6ac2f7-5bbb-4ed4-88f4-540d5b29542a
-  name: Chris Bell
-- begin: ''
-  end: '1974'
-  instruments:
   - electric bass guitar
-  - original
-  mbid: fc42bd0f-d33c-466e-b6eb-6dcb62a26904
-  name: Andy Hummel
-- begin: ''
-  end: ''
-  instruments:
   - lead vocals
-  - original
-  mbid: 18b2f43a-fc98-4aab-b69c-eaaba41fecbc
-  name: Alex Chilton
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 98f3c474-8aba-4e85-baea-1d36ce1d2cea
-  name: Evan Leake
-- begin: ''
-  end: ''
-  instruments:
   - drums (drum set)
-  - original
-  mbid: 0acfc6ca-d0b4-4f9e-a1a1-31c5fb2556bc
-  name: Jody Stephens
+last_updated: '2026-01-03T01:41:03.391137'
+members:
+  - begin: '1974'
+    end: '1975'
+    instruments: []
+    mbid: ea8f3875-9e23-485a-b9c9-61ddcab798f2
+    name: John Lightman
+  - &ref_0
+    begin: '1993'
+    end: ''
+    instruments: []
+    mbid: 12a9677f-d85b-45bd-ac62-a2cd74407b08
+    name: Jon Auer
+  - &ref_1
+    begin: '1993'
+    end: ''
+    instruments: []
+    mbid: 45f563aa-4601-4c6d-ab0d-a9f296eea71a
+    name: Ken Stringfellow
+  - begin: ''
+    end: '1972'
+    instruments:
+      - electric guitar
+      - original
+    mbid: db6ac2f7-5bbb-4ed4-88f4-540d5b29542a
+    name: Chris Bell
+  - begin: ''
+    end: '1974'
+    instruments:
+      - electric bass guitar
+      - original
+    mbid: fc42bd0f-d33c-466e-b6eb-6dcb62a26904
+    name: Andy Hummel
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+      - original
+    mbid: 18b2f43a-fc98-4aab-b69c-eaaba41fecbc
+    name: Alex Chilton
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 98f3c474-8aba-4e85-baea-1d36ce1d2cea
+    name: Evan Leake
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+      - original
+    mbid: 0acfc6ca-d0b4-4f9e-a1a1-31c5fb2556bc
+    name: Jody Stephens
 musical_connections:
   collaborators:
-  - Chris Bell
-  - Andy Hummel
-  - Jody Stephens
-  - Jon Auer
-  - Ken Stringfellow
-  - Jim Dickinson
+    - Chris Bell
+    - Andy Hummel
+    - Jody Stephens
+    - Jon Auer
+    - Ken Stringfellow
+    - Jim Dickinson
   influenced:
-  - The Replacements
-  - R.E.M.
-  - The Bangles
-  - Teenage Fanclub
+    - The Replacements
+    - R.E.M.
+    - The Bangles
+    - Teenage Fanclub
   mentors:
-  - The Beatles
-  - The Byrds
+    - The Beatles
+    - The Byrds
 musicbrainz_id: 21d177ba-3d51-461e-9b3f-ad9a80b419dc
 network_extracted: true
-origin: Memphis
+origin: 'Memphis, Tennessee, United States'
 original_members:
-- *id001
-- *id002
+  - *ref_0
+  - *ref_1
 primary_source: perplexity
 research_sources:
-- https://www.ebsco.com/research-starters/music/big-star-music-group
-- https://en.wikipedia.org/wiki/Big_Star
-- https://www.udiscovermusic.com/artist/big-star/
-- https://staxrecords.com/artist/big-star/
-- https://memphismusichalloffame.com/inductee/bigstar/
-- https://www.britannica.com/topic/Big-Star
+  - 'https://www.ebsco.com/research-starters/music/big-star-music-group'
+  - 'https://en.wikipedia.org/wiki/Big_Star'
+  - 'https://www.udiscovermusic.com/artist/big-star/'
+  - 'https://staxrecords.com/artist/big-star/'
+  - 'https://memphismusichalloffame.com/inductee/bigstar/'
+  - 'https://www.britannica.com/topic/Big-Star'
 spotify_data:
   followers: 174697
   id: 3UvcmAOZt64oKpP95f6MMM
   popularity: 45
-  url: https://open.spotify.com/artist/3UvcmAOZt64oKpP95f6MMM
+  url: 'https://open.spotify.com/artist/3UvcmAOZt64oKpP95f6MMM'
 status: active
 tags:
-- pop rock
-- power pop
-- rock
+  - pop rock
+  - power pop
+  - rock
 title: Big Star
 ---
 

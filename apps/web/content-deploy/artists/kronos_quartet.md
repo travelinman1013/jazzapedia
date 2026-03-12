@@ -1,164 +1,169 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-01-08T01:30:44.555771'
 birth_date: '1973'
 enhancement_provider: perplexity
 entry_created: '2026-01-08T01:30:44.555776'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f5586dfa-7031-4af0-8042-19b6a1170389
-  spotify: https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3
-  wikipedia: https://en.wikipedia.org/wiki/Kronos_Quartet
+  musicbrainz: 'https://musicbrainz.org/artist/f5586dfa-7031-4af0-8042-19b6a1170389'
+  spotify: 'https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kronos_Quartet'
 genres:
-- minimalism
-- avant-garde
+  - minimalism
+  - avant-garde
 image_path: 03_Resources/source_material/ArtistPortraits/kronos_quartet.jpg
 instruments:
-- original
-- violin
-- viola
-- cello
+  - original
+  - violin
+  - viola
+  - cello
 last_updated: '2026-01-08T01:30:44.555777'
 members:
-- begin: '1973'
-  end: '1975'
-  instruments:
-  - original
-  - violin
-  mbid: 84a347c3-66f7-4ea7-a6f7-6c913730f1ff
-  name: James Shallenberger
-- begin: '1973'
-  end: '1976'
-  instruments:
-  - original
-  - viola
-  mbid: e8c7bcd5-9506-4b4e-a364-7325958d0b0f
-  name: Tim Kilian
-- begin: '1973'
-  end: '1978'
-  instruments:
-  - cello
-  - original
-  mbid: 5961592e-06f9-40c9-a6dd-0f99c8cae6ef
-  name: Walter Gray
-- &id001
-  begin: '1973'
-  end: ''
-  instruments:
-  - original
-  - violin
-  mbid: 5bdea4c6-9c74-49a1-b8b9-8af659e7bef9
-  name: David Harrington
-- begin: '1975'
-  end: '1977'
-  instruments:
-  - violin
-  mbid: b04476bb-fb06-49cb-bf30-74109fa90089
-  name: Roy Lewis
-- begin: '1977'
-  end: '1978'
-  instruments:
-  - violin
-  mbid: d05ef77c-93e2-4b16-b936-4e4f812ae7be
-  name: Ella Marie Gray
-- &id002
-  begin: '1977'
-  end: ''
-  instruments:
-  - viola
-  mbid: edac26c5-5480-4c7f-a5a8-0cb3c2762000
-  name: Hank Dutt
-- begin: '1978'
-  end: '1999'
-  instruments:
-  - cello
-  mbid: a8d97c2a-7994-4db9-bc86-568e1966b135
-  name: Joan Jeanrenaud
-- &id003
-  begin: '1978'
-  end: ''
-  instruments:
-  - violin
-  mbid: a9db234c-af38-41ce-81c8-238971f63471
-  name: John Sherba
-- begin: '1999'
-  end: '2005'
-  instruments:
-  - cello
-  mbid: 94de73d5-226c-44da-97bd-b2c466d5f4ee
-  name: Jennifer Culp
-- begin: '2005'
-  end: '2013'
-  instruments:
-  - cello
-  mbid: a0a69deb-1968-4252-87bb-ee8aed82a2ad
-  name: Jeffrey Zeigler
-- &id004
-  begin: '2013'
-  end: ''
-  instruments:
-  - cello
-  mbid: 2796d17d-aa44-4e96-bd99-22caee9dbe85
-  name: Sunny Yang
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 87d7fee8-7a06-4af2-984f-c4c8679ce5d8
-  name: Ayane Kozasa
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d53ec569-a194-481d-8b4d-7b68bd05e6c0
-  name: Paul Wiancko
+  - begin: '1973'
+    end: '1975'
+    instruments:
+      - original
+      - violin
+    mbid: 84a347c3-66f7-4ea7-a6f7-6c913730f1ff
+    name: James Shallenberger
+  - begin: '1973'
+    end: '1976'
+    instruments:
+      - original
+      - viola
+    mbid: e8c7bcd5-9506-4b4e-a364-7325958d0b0f
+    name: Tim Kilian
+  - begin: '1973'
+    end: '1978'
+    instruments:
+      - cello
+      - original
+    mbid: 5961592e-06f9-40c9-a6dd-0f99c8cae6ef
+    name: Walter Gray
+  - &ref_0
+    begin: '1973'
+    end: ''
+    instruments:
+      - original
+      - violin
+    mbid: 5bdea4c6-9c74-49a1-b8b9-8af659e7bef9
+    name: David Harrington
+  - begin: '1975'
+    end: '1977'
+    instruments:
+      - violin
+    mbid: b04476bb-fb06-49cb-bf30-74109fa90089
+    name: Roy Lewis
+  - begin: '1977'
+    end: '1978'
+    instruments:
+      - violin
+    mbid: d05ef77c-93e2-4b16-b936-4e4f812ae7be
+    name: Ella Marie Gray
+  - &ref_1
+    begin: '1977'
+    end: ''
+    instruments:
+      - viola
+    mbid: edac26c5-5480-4c7f-a5a8-0cb3c2762000
+    name: Hank Dutt
+  - begin: '1978'
+    end: '1999'
+    instruments:
+      - cello
+    mbid: a8d97c2a-7994-4db9-bc86-568e1966b135
+    name: Joan Jeanrenaud
+  - &ref_2
+    begin: '1978'
+    end: ''
+    instruments:
+      - violin
+    mbid: a9db234c-af38-41ce-81c8-238971f63471
+    name: John Sherba
+  - begin: '1999'
+    end: '2005'
+    instruments:
+      - cello
+    mbid: 94de73d5-226c-44da-97bd-b2c466d5f4ee
+    name: Jennifer Culp
+  - begin: '2005'
+    end: '2013'
+    instruments:
+      - cello
+    mbid: a0a69deb-1968-4252-87bb-ee8aed82a2ad
+    name: Jeffrey Zeigler
+  - &ref_3
+    begin: '2013'
+    end: ''
+    instruments:
+      - cello
+    mbid: 2796d17d-aa44-4e96-bd99-22caee9dbe85
+    name: Sunny Yang
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 87d7fee8-7a06-4af2-984f-c4c8679ce5d8
+    name: Ayane Kozasa
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d53ec569-a194-481d-8b4d-7b68bd05e6c0
+    name: Paul Wiancko
 musical_connections:
   collaborators:
-  - Terry Riley
-  - Henryk Górecki
-  - Astor Piazzolla
-  - Ron Carter
-  - Vladimir Martynov
-  - Turtle Island Quartet, Brooklyn Rider, ETHEL, Brodsky Quartet, eighth blackbird (indirect collaborative ecosystem)
-  - Mills College community (including faculty lineage of Darius Milhaud and resident quartets)
+    - Terry Riley
+    - Henryk Górecki
+    - Astor Piazzolla
+    - Ron Carter
+    - Vladimir Martynov
+    - >-
+      Turtle Island Quartet, Brooklyn Rider, ETHEL, Brodsky Quartet, eighth
+      blackbird (indirect collaborative ecosystem)
+    - >-
+      Mills College community (including faculty lineage of Darius Milhaud and
+      resident quartets)
   influenced:
-  - Turtle Island Quartet
-  - Brooklyn Rider
-  - ETHEL
-  - Brodsky Quartet
-  - eighth blackbird
+    - Turtle Island Quartet
+    - Brooklyn Rider
+    - ETHEL
+    - Brodsky Quartet
+    - eighth blackbird
   mentors:
-  - George Crumb
-  - Terry Riley
-  - Peter Marsh (Lenox String Quartet)
-  - Morton Feldman, Elliott Carter, Iannis Xenakis, Lejaren Hiller
+    - George Crumb
+    - Terry Riley
+    - Peter Marsh (Lenox String Quartet)
+    - 'Morton Feldman, Elliott Carter, Iannis Xenakis, Lejaren Hiller'
 musicbrainz_id: f5586dfa-7031-4af0-8042-19b6a1170389
 network_extracted: true
-origin: Seattle
+origin: 'Seattle, Washington, United States'
 original_members:
-- *id001
-- *id002
-- *id003
-- *id004
+  - *ref_0
+  - *ref_1
+  - *ref_2
+  - *ref_3
 primary_source: perplexity
 research_sources:
-- https://kronosquartet.org/kronos-quartet/
-- https://mkiartists.com/artists/kronos-quartet
-- https://stringsmagazine.com/kronos-quartet-at-40-the-birth-of-a-titan/
-- https://www.polarmusicprize.org/laureates/kronos-quartet/
-- https://convocations.purdue.edu/breaking-boundaries-50-years-of-musical-innovation-with-kronos-quartet-november-9-2023/
-- https://www.innerviews.org/inner/kronos-1
-- https://www.allaboutjazz.com/musicians/kronos-quartet/
-- https://www.songlines.co.uk/features/a-beginner-s-guide/kronos-quartet-a-beginner-s-guide
+  - 'https://kronosquartet.org/kronos-quartet/'
+  - 'https://mkiartists.com/artists/kronos-quartet'
+  - 'https://stringsmagazine.com/kronos-quartet-at-40-the-birth-of-a-titan/'
+  - 'https://www.polarmusicprize.org/laureates/kronos-quartet/'
+  - >-
+    https://convocations.purdue.edu/breaking-boundaries-50-years-of-musical-innovation-with-kronos-quartet-november-9-2023/
+  - 'https://www.innerviews.org/inner/kronos-1'
+  - 'https://www.allaboutjazz.com/musicians/kronos-quartet/'
+  - >-
+    https://www.songlines.co.uk/features/a-beginner-s-guide/kronos-quartet-a-beginner-s-guide
 spotify_data:
   followers: 131145
   id: 0M6xcJTswOl2qvExCJhiS3
   popularity: 52
-  url: https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3
+  url: 'https://open.spotify.com/artist/0M6xcJTswOl2qvExCJhiS3'
 status: active
 tags:
-- american
-- classical
-- contemporary classical
+  - american
+  - classical
+  - contemporary classical
 title: Kronos Quartet
-
 ---
 
 ![](kronos_quartet.jpg)

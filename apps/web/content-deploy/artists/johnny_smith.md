@@ -1,48 +1,51 @@
 ---
 biography_enhanced_at: '2026-01-01T01:04:57.934217'
-birth_place: Birmingham, Alabama, United States
+birth_place: 'Birmingham, Alabama, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-01T01:04:57.934227'
 external_urls:
-  spotify: https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q
-  wikipedia: https://en.wikipedia.org/wiki/Johnny_Smith
+  spotify: 'https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q'
+  wikipedia: 'https://en.wikipedia.org/wiki/Johnny_Smith'
 genres:
-- cool jazz
-- jazz
-- bebop
+  - cool jazz
+  - jazz
+  - bebop
 image_path: 03_Resources/source_material/ArtistPortraits/johnny_smith.jpg
 last_updated: '2026-01-01T01:04:57.934229'
 musical_connections:
   collaborators:
-  - Stan Getz
-  - Mort Lindsey
-  - Arlo Hults
-  - Benny Goodman
-  - Stan Kenton
+    - Stan Getz
+    - Mort Lindsey
+    - Arlo Hults
+    - Benny Goodman
+    - Stan Kenton
   influenced:
-  - The Ventures
-  - Barney Kessel
+    - The Ventures
+    - Barney Kessel
   mentors:
-  - Django Reinhardt
-  - Charlie Christian
+    - Django Reinhardt
+    - Charlie Christian
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Johnny_Smith
-- https://americanhistory.si.edu/collections/object/nmah_1414875
-- https://www.gibson.com/blogs/gibson-gazette/the-legacy-of-johnny-smith-a-jazz-icon
-- https://www.allaboutjazz.com/musicians/johnny-smith/
-- https://www.vintageguitar.com/17127/johnny-smith/
-- https://jazzguitartoday.com/2024/06/celebrating-the-artistry-of-johnny-smith/
-- https://michellemercer.substack.com/p/guitarist-interrupted-conversation
+  - 'https://en.wikipedia.org/wiki/Johnny_Smith'
+  - 'https://americanhistory.si.edu/collections/object/nmah_1414875'
+  - >-
+    https://www.gibson.com/blogs/gibson-gazette/the-legacy-of-johnny-smith-a-jazz-icon
+  - 'https://www.allaboutjazz.com/musicians/johnny-smith/'
+  - 'https://www.vintageguitar.com/17127/johnny-smith/'
+  - >-
+    https://jazzguitartoday.com/2024/06/celebrating-the-artistry-of-johnny-smith/
+  - 'https://michellemercer.substack.com/p/guitarist-interrupted-conversation'
 spotify_data:
   followers: 14603
   id: 3u7Tz2oLTRPG9Cn7PcuZ2q
   popularity: 37
-  url: https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q
+  url: 'https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q'
 status: active
 title: Johnny Smith
-
+birth_date: '1922-06-25'
+artist_type: person
 ---
 
 ![](johnny_smith.jpg)

@@ -4,14 +4,14 @@ wiki_slug: fana-hues
 schema_version: 2
 artist_type: person
 status: active
-birth_place: Pasadena, California, United States
+birth_place: 'Pasadena, California, United States'
 genres:
-- alternative r&b
+  - alternative r&b
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/fana_hues.jpg
   caption: Fana Hues
   background: solo_singer
-  origin: Pasadena, California, United States
+  origin: 'Pasadena, California, United States'
 audio_profile:
   tempo_avg: 111.4
   energy_avg: 0.506
@@ -19,7 +19,7 @@ audio_profile:
   danceability_avg: 0.542
   acousticness_avg: 0.461
   instrumentalness_avg: 0.14
-  loudness_avg: -8.0
+  loudness_avg: -8
   speechiness_avg: 0.09
   liveness_avg: 0.18
   track_count: 50
@@ -27,60 +27,65 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tyler, the Creator
-  - Bam Marley
-  - Raveena
-  - Snoh Alegra
-  - Lucky Daye
-  - Giveon
+    - 'Tyler, the Creator'
+    - Bam Marley
+    - Raveena
+    - Snoh Alegra
+    - Lucky Daye
+    - Giveon
   influenced: []
   mentors:
-  - Father (multi-instrumentalist)
-  - Nina Simone
-  - Anita Baker
-  - Dionne Warwick
-  - Beyoncé Knowles
-  - Mary J. Blige
+    - Father (multi-instrumentalist)
+    - Nina Simone
+    - Anita Baker
+    - Dionne Warwick
+    - Beyoncé Knowles
+    - Mary J. Blige
 spotify_data:
   followers: 139077
   id: 4yJHrytMK7mqtKsXVGaBNg
   popularity: 56
-  url: https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg
+  url: 'https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg'
 discography_enriched: true
 top_tracks:
-- SWEET / I THOUGHT YOU WANTED TO DANCE (feat. Brent Faiyaz & Fana Hues) (CALL ME IF YOU GET LOST)
-- 'SWEET / I THOUGHT YOU WANTED TO DANCE (feat. Brent Faiyaz & Fana Hues) (CALL ME IF YOU GET LOST: The Estate Sale)'
-- Icarus (Hues)
-- Rental (Moth)
-- Sweet Like (Moth)
-- Comfortable (Nü Moon)
-- BAD bad (flora + fana)
-- Rental (Rental)
-- breakfast (flora + fana)
-- What Speaks (Moth)
+  - >-
+    SWEET / I THOUGHT YOU WANTED TO DANCE (feat. Brent Faiyaz & Fana Hues) (CALL
+    ME IF YOU GET LOST)
+  - >-
+    SWEET / I THOUGHT YOU WANTED TO DANCE (feat. Brent Faiyaz & Fana Hues) (CALL
+    ME IF YOU GET LOST: The Estate Sale)
+  - Icarus (Hues)
+  - Rental (Moth)
+  - Sweet Like (Moth)
+  - Comfortable (Nü Moon)
+  - BAD bad (flora + fana)
+  - Rental (Rental)
+  - breakfast (flora + fana)
+  - What Speaks (Moth)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b7b5b59e-4b8f-4577-94f4-f0770d79033f
-  spotify: https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg
-  wikipedia: https://en.wikipedia.org/wiki/Fana_Hues
+  musicbrainz: 'https://musicbrainz.org/artist/b7b5b59e-4b8f-4577-94f4-f0770d79033f'
+  spotify: 'https://open.spotify.com/artist/4yJHrytMK7mqtKsXVGaBNg'
+  wikipedia: 'https://en.wikipedia.org/wiki/Fana_Hues'
 image_path: 03_Resources/source_material/ArtistPortraits/fana_hues.jpg
 biography_enhanced_at: '2025-11-20T06:58:16.967138'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Fana Hues
-- 'R&B Music - Get To Know: Fana Hues'
-- Spotify for Artists - How Fana Hues Made It
-- KUTX - Fana Hues' Matters of the Heart
-- Harper's BAZAAR - Fana Hues Isn't Afraid to Feel
-- SoundCloud Stories - Fana Hues, the emerging R&B songstress
-- EQUATE Magazine - Fana Hues
-- 'Notion - Fana Hues: Life Inspires Me the Most'
-- Another Planet Entertainment - Fana Hues
+  - Wikipedia - Fana Hues
+  - 'R&B Music - Get To Know: Fana Hues'
+  - Spotify for Artists - How Fana Hues Made It
+  - KUTX - Fana Hues' Matters of the Heart
+  - Harper's BAZAAR - Fana Hues Isn't Afraid to Feel
+  - 'SoundCloud Stories - Fana Hues, the emerging R&B songstress'
+  - EQUATE Magazine - Fana Hues
+  - 'Notion - Fana Hues: Life Inspires Me the Most'
+  - Another Planet Entertainment - Fana Hues
 network_extracted: true
 entry_created: '2025-11-20T06:58:16.967158'
 last_updated: '2025-12-23T08:16:08.572759'
 gender: Female
 musicbrainz_id: b7b5b59e-4b8f-4577-94f4-f0770d79033f
+birth_date: '1995-06-15'
 ---
 
 ![](fana_hues.jpg)

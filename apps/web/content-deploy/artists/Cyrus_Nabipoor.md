@@ -2,15 +2,15 @@
 title: Cyrus Nabipoor
 wiki_slug: cyrus-nabipoor
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
-birth_place: Portland, Oregon, United States
+birth_place: 'Portland, Oregon, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Cyrus_Nabipoor.jpg
   caption: Cyrus Nabipoor
   background: solo_singer
-  origin: Portland, Oregon, United States
+  origin: 'Portland, Oregon, United States'
 audio_profile:
   tempo_avg: 102.7
   energy_avg: 0.581
@@ -26,54 +26,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Garrett Baxter
-  - Micah Hummel
-  - Jack Radsliff
-  - Jonathan Freilich
-  - Jeff Albert
-  - Jon Roniger
-  - Ida Floreak
-  - Jamison Ross
-  - Jason Marsalis
-  - Stanton Moore
+    - Garrett Baxter
+    - Micah Hummel
+    - Jack Radsliff
+    - Jonathan Freilich
+    - Jeff Albert
+    - Jon Roniger
+    - Ida Floreak
+    - Jamison Ross
+    - Jason Marsalis
+    - Stanton Moore
   influenced:
-  - Grant High School Jazz Band
+    - Grant High School Jazz Band
   mentors:
-  - Derek Sims
-  - Cynthia Plank
-  - Alan Jones
-  - Nick Volz
-  - Tony Dagradi
-  - Jimbo Walsh
-  - Per Jørgensen
-  - Martin Winter
+    - Derek Sims
+    - Cynthia Plank
+    - Alan Jones
+    - Nick Volz
+    - Tony Dagradi
+    - Jimbo Walsh
+    - Per Jørgensen
+    - Martin Winter
 spotify_data:
   followers: 0
   id: 1jGbUGjzLv0pLww5bp2kiZ
   popularity: 0
-  url: https://open.spotify.com/artist/1jGbUGjzLv0pLww5bp2kiZ
+  url: 'https://open.spotify.com/artist/1jGbUGjzLv0pLww5bp2kiZ'
 discography_enriched: true
 top_tracks:
-- Honey Pie (Real Time)
-- Radical Centrist (Unanimous Sources)
-- Big Shorts (Unanimous Sources)
-- Twin P (Unanimous Sources)
-- Segue (Unanimous Sources)
-- Oregano With Intent (Unanimous Sources)
+  - Honey Pie (Real Time)
+  - Radical Centrist (Unanimous Sources)
+  - Big Shorts (Unanimous Sources)
+  - Twin P (Unanimous Sources)
+  - Segue (Unanimous Sources)
+  - Oregano With Intent (Unanimous Sources)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/930edc95-82ec-44f9-adbc-d831de5ecc32
-  spotify: https://open.spotify.com/artist/1jGbUGjzLv0pLww5bp2kiZ
+  musicbrainz: 'https://musicbrainz.org/artist/930edc95-82ec-44f9-adbc-d831de5ecc32'
+  spotify: 'https://open.spotify.com/artist/1jGbUGjzLv0pLww5bp2kiZ'
   wikipedia: null
 image_path: ''
 biography_enhanced_at: '2025-10-21T06:39:20.639384'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.horn-fx.com/cyrus-nabipoor
-- https://www.pdxjazz.org/cyrus-nabipoor
-- https://ajampdx.com/instructors/cyrus-nabipoor/
-- https://www.orartswatch.org/a-huge-passion-project-hometown-boy-cyrus-nabipoor/
-- https://www.edwards-instruments.com/artists/cyrus-nabipoor/
+  - 'https://www.horn-fx.com/cyrus-nabipoor'
+  - 'https://www.pdxjazz.org/cyrus-nabipoor'
+  - 'https://ajampdx.com/instructors/cyrus-nabipoor/'
+  - >-
+    https://www.orartswatch.org/a-huge-passion-project-hometown-boy-cyrus-nabipoor/
+  - 'https://www.edwards-instruments.com/artists/cyrus-nabipoor/'
 network_extracted: true
 entry_created: '2025-10-21T06:39:20.639396'
 last_updated: '2025-12-23T08:16:01.594432'

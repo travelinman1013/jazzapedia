@@ -3,33 +3,34 @@ biography_enhanced_at: '2026-01-02T01:24:11.239487'
 enhancement_provider: perplexity
 entry_created: '2026-01-02T01:24:11.239492'
 external_urls:
-  spotify: https://open.spotify.com/artist/6SieHXbnzLxi9SVCO1Iv8P
-  wikipedia: https://en.wikipedia.org/wiki/The_Blenders
+  spotify: 'https://open.spotify.com/artist/6SieHXbnzLxi9SVCO1Iv8P'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Blenders'
 genres:
-- christmas
-- doo-wop
+  - christmas
+  - doo-wop
 image_path: 03_Resources/source_material/ArtistPortraits/the_blenders.jpg
 last_updated: '2026-01-02T01:24:11.239492'
 musical_connections:
   collaborators:
-  - Paul Dunkirk
-  - Dean Friedman
+    - Paul Dunkirk
+    - Dean Friedman
   influenced: []
   mentors: []
 network_extracted: true
-origin: Fargo, North Dakota, USA
+origin: 'Fargo, North Dakota, USA'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Blenders
-- https://theblenders.com/press-1/2019/3/11/zrmanja-falls-croatia-acyjg-kry42
-- https://www.uncamarvy.com/Blenders/blenders.html
+  - 'https://en.wikipedia.org/wiki/The_Blenders'
+  - 'https://theblenders.com/press-1/2019/3/11/zrmanja-falls-croatia-acyjg-kry42'
+  - 'https://www.uncamarvy.com/Blenders/blenders.html'
 spotify_data:
   followers: 3317
   id: 6SieHXbnzLxi9SVCO1Iv8P
   popularity: 37
-  url: https://open.spotify.com/artist/6SieHXbnzLxi9SVCO1Iv8P
+  url: 'https://open.spotify.com/artist/6SieHXbnzLxi9SVCO1Iv8P'
 status: active
-title: the blenders
+title: The Blenders
+artist_type: band
 ---
 
 ![](the_blenders.jpg)

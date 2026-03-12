@@ -3,14 +3,14 @@ title: Don Vappie
 wiki_slug: don-vappie
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- cajun
+  - cajun
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/don_vappie.jpg
   caption: Don Vappie
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 114.8
   energy_avg: 0.37
@@ -26,50 +26,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Preservation Hall Jazz Band
-  - Creole Jazz Serenaders
-  - Dave Kelbie & Jazz Créole
-  - Dr. Michael White
-  - Peggy Lee, Eric Clapton, Diana Krall (and others)
+    - Preservation Hall Jazz Band
+    - Creole Jazz Serenaders
+    - Dave Kelbie & Jazz Créole
+    - Dr. Michael White
+    - 'Peggy Lee, Eric Clapton, Diana Krall (and others)'
   influenced:
-  - Younger New Orleans and international traditional-jazz banjoists and Creole jazz musicians (collective)
+    - >-
+      Younger New Orleans and international traditional-jazz banjoists and
+      Creole jazz musicians (collective)
   mentors:
-  - Cie Frazier
+    - Cie Frazier
 spotify_data:
   followers: 909
   id: 2Dy0ULpN8JQny2uA6OBomZ
   popularity: 10
-  url: https://open.spotify.com/artist/2Dy0ULpN8JQny2uA6OBomZ
+  url: 'https://open.spotify.com/artist/2Dy0ULpN8JQny2uA6OBomZ'
 discography_enriched: true
 top_tracks:
-- Ran So Hard The Sun Went Down (Otis Taylor Collection)
-- Mo pas lemme ca (The Blue Book of Storyville)
-- Eh La Bas (The Blue Book of Storyville)
-- Rosewood - Voice (Swingin' Into The 21st)
-- Basin Street Blues (The Blue Book of Storyville)
-- La Ville Jacmel (The Blue Book of Storyville)
-- Port Bayou St John (The Blue Book of Storyville)
-- The Blue Book of Storyville (The Blue Book of Storyville)
-- Buddy Bolden’s Blues (The Blue Book of Storyville)
-- Couleur de Créole (The Blue Book of Storyville)
+  - Ran So Hard The Sun Went Down (Otis Taylor Collection)
+  - Mo pas lemme ca (The Blue Book of Storyville)
+  - Eh La Bas (The Blue Book of Storyville)
+  - Rosewood - Voice (Swingin' Into The 21st)
+  - Basin Street Blues (The Blue Book of Storyville)
+  - La Ville Jacmel (The Blue Book of Storyville)
+  - Port Bayou St John (The Blue Book of Storyville)
+  - The Blue Book of Storyville (The Blue Book of Storyville)
+  - Buddy Bolden’s Blues (The Blue Book of Storyville)
+  - Couleur de Créole (The Blue Book of Storyville)
 external_urls:
-  spotify: https://open.spotify.com/artist/2Dy0ULpN8JQny2uA6OBomZ
-  wikipedia: https://en.wikipedia.org/wiki/Don_Vappie
+  spotify: 'https://open.spotify.com/artist/2Dy0ULpN8JQny2uA6OBomZ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Don_Vappie'
 image_path: 03_Resources/source_material/ArtistPortraits/don_vappie.jpg
 biography_enhanced_at: '2025-12-19T01:46:25.587356'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Lejazzetal artist profile and album notes on Don Vappie[1]
-- Music Rising (Tulane University) profile on Papa Don Vappie[2]
-- 'The Syncopated Times interview: "Don Vappie: the Heart of Creole Jazz"[3]'
-- 'Kreol Magazine feature: "Don Vappie – Strings of Heritage, Sounds of Resistance"[4]'
-- 'Official site biography: donvappie.com/about-dv.php[5]'
-- 'Official site main page: donvappie.com[6]'
-- Verbier Festival artist biography[7]
+  - 'Lejazzetal artist profile and album notes on Don Vappie[1]'
+  - 'Music Rising (Tulane University) profile on Papa Don Vappie[2]'
+  - 'The Syncopated Times interview: "Don Vappie: the Heart of Creole Jazz"[3]'
+  - >-
+    Kreol Magazine feature: "Don Vappie – Strings of Heritage, Sounds of
+    Resistance"[4]
+  - 'Official site biography: donvappie.com/about-dv.php[5]'
+  - 'Official site main page: donvappie.com[6]'
+  - 'Verbier Festival artist biography[7]'
 network_extracted: true
 entry_created: '2025-12-19T01:46:25.587371'
 last_updated: '2025-12-23T08:16:07.914435'
+artist_type: person
 ---
 
 ![](don_vappie.jpg)

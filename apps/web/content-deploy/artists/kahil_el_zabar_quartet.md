@@ -3,14 +3,14 @@ title: Kahil El Zabar Quartet
 wiki_slug: kahil-el-zabar-quartet
 schema_version: 2
 status: active
-birth_place: Chicago, Illinois, United States
+birth_place: 'Chicago, Illinois, United States'
 genres:
-- free jazz
+  - free jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/kahil_el_zabar_quartet.jpg
   caption: Kahil El Zabar Quartet
   background: solo_singer
-  origin: Chicago, Illinois, United States
+  origin: 'Chicago, Illinois, United States'
 audio_profile:
   tempo_avg: 118.6
   energy_avg: 0.357
@@ -26,51 +26,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ari Brown
-  - Malachi Favors
-  - Corey Wilkes
-  - David Murray
-  - Pharoah Sanders
+    - Ari Brown
+    - Malachi Favors
+    - Corey Wilkes
+    - David Murray
+    - Pharoah Sanders
   influenced:
-  - Isaiah Collier
-  - Justin Dillard
-  - Corey Wilkes
+    - Isaiah Collier
+    - Justin Dillard
+    - Corey Wilkes
   mentors:
-  - Muhal Richard Abrams
-  - Steve McCall
+    - Muhal Richard Abrams
+    - Steve McCall
 spotify_data:
   followers: 10615
   id: 2DObXDWCKLRvSisbmYjeyV
   popularity: 30
-  url: https://open.spotify.com/artist/2DObXDWCKLRvSisbmYjeyV
+  url: 'https://open.spotify.com/artist/2DObXDWCKLRvSisbmYjeyV'
 discography_enriched: true
 top_tracks:
-- HOW CAN WE MEND A BROKEN HEART (Kahil El’Zabar’s America the Beautiful)
-- A Time for Healing (A Time for Healing)
-- EXPRESS YOURSELF (Kahil El’Zabar’s America the Beautiful)
-- All Blues (Open Me, A Higher Consciousness of Sound and Spirit)
-- JUMP AND SHOUT (FOR THOSE NOW GONE) (Kahil El’Zabar’s America the Beautiful)
-- AMERICA THE BEAUTIFUL - INSTRUMENTAL (Kahil El’Zabar’s America the Beautiful)
-- PRAYERS FOR THE UNWARRANTED SUFFERINGS (Kahil El’Zabar’s America the Beautiful)
-- '序章 The Opening (神游：黄金海二重奏在深圳 Spirit Groove: Golden Sea Duo in Shenzhen)'
-- Great Black Music (Open Me, A Higher Consciousness of Sound and Spirit)
-- From Your Heart - Live at "mu" (From Your Heart (Live at "mu"))
+  - HOW CAN WE MEND A BROKEN HEART (Kahil El’Zabar’s America the Beautiful)
+  - A Time for Healing (A Time for Healing)
+  - EXPRESS YOURSELF (Kahil El’Zabar’s America the Beautiful)
+  - 'All Blues (Open Me, A Higher Consciousness of Sound and Spirit)'
+  - JUMP AND SHOUT (FOR THOSE NOW GONE) (Kahil El’Zabar’s America the Beautiful)
+  - >-
+    AMERICA THE BEAUTIFUL - INSTRUMENTAL (Kahil El’Zabar’s America the
+    Beautiful)
+  - >-
+    PRAYERS FOR THE UNWARRANTED SUFFERINGS (Kahil El’Zabar’s America the
+    Beautiful)
+  - '序章 The Opening (神游：黄金海二重奏在深圳 Spirit Groove: Golden Sea Duo in Shenzhen)'
+  - 'Great Black Music (Open Me, A Higher Consciousness of Sound and Spirit)'
+  - From Your Heart - Live at "mu" (From Your Heart (Live at "mu"))
 external_urls:
-  spotify: https://open.spotify.com/artist/2DObXDWCKLRvSisbmYjeyV
-  wikipedia: https://en.wikipedia.org/wiki/Kahil_El'Zabar
+  spotify: 'https://open.spotify.com/artist/2DObXDWCKLRvSisbmYjeyV'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kahil_El''Zabar'
 image_path: 03_Resources/source_material/ArtistPortraits/kahil_el_zabar_quartet.jpg
 biography_enhanced_at: '2025-11-14T10:32:39.263194'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Kahil_El'Zabar
-- https://www.spin.com/2024/03/kahil-elzabar-interview/
-- https://www.kahilelzabaris.com/bio
-- https://tonemadison.com/articles/kahil-elzabars-ethnic-heritage-ensemble-turns-50-and-its-world-keeps-expanding/
-- https://www.thehistorymakers.org/biography/kahil-elzabar-39
+  - 'https://en.wikipedia.org/wiki/Kahil_El''Zabar'
+  - 'https://www.spin.com/2024/03/kahil-elzabar-interview/'
+  - 'https://www.kahilelzabaris.com/bio'
+  - >-
+    https://tonemadison.com/articles/kahil-elzabars-ethnic-heritage-ensemble-turns-50-and-its-world-keeps-expanding/
+  - 'https://www.thehistorymakers.org/biography/kahil-elzabar-39'
 network_extracted: true
 entry_created: '2025-11-14T10:32:39.263204'
 last_updated: '2025-12-23T08:16:11.156634'
+birth_date: '1953-11-11'
+artist_type: person
 ---
 
 ![](kahil_el_zabar_quartet.jpg)

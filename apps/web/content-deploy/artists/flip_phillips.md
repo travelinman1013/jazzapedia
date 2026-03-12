@@ -5,82 +5,82 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1915-02-26'
-birth_place: Brooklyn
+birth_place: 'Brooklyn, New York, United States'
 death_date: '2001-08-17'
 genres: []
 instruments:
-- eponymous
-- original
+  - eponymous
+  - original
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 8ee4f465-4546-4669-a942-f6a56171ef48
-  name: Flip Phillips Sextet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 90bbd903-fef4-4649-80f6-7bb89c9ce357
-  name: Bill Harris and His Septet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: ba2d7dbb-522b-4696-882d-7f1b165b90a3
-  name: Flip Phillips and His Hiptet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 60da301a-ad75-45be-9140-b3c4a91e47b2
-  name: Flip Phillips and His Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: fbe38fdd-c16e-4838-afeb-e7e73a55e8bf
-  name: Flip Phillips Boptet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: d469307a-7474-4d8e-94d6-39b632594aa0
-  name: Flip Phillips Fliptet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 1b3e05e7-8fbc-4196-958b-310551128aa3
-  name: Flip Phillips Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 4600ed0a-0e9e-4219-9132-9789c047fce7
-  name: The Flip Phillips Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 636c40f9-864f-46eb-9b91-7e643a8e0a61
-  name: Red Norvo & His Selected Sextet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3e835c70-a8de-4a1b-9e1f-15161bdc457c
-  name: Charlie Parker Big Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a0d650b7-3836-4232-9900-62e21de47451
-  name: Red Norvo All-Stars
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 8ee4f465-4546-4669-a942-f6a56171ef48
+    name: Flip Phillips Sextet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 90bbd903-fef4-4649-80f6-7bb89c9ce357
+    name: Bill Harris and His Septet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: ba2d7dbb-522b-4696-882d-7f1b165b90a3
+    name: Flip Phillips and His Hiptet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 60da301a-ad75-45be-9140-b3c4a91e47b2
+    name: Flip Phillips and His Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: fbe38fdd-c16e-4838-afeb-e7e73a55e8bf
+    name: Flip Phillips Boptet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: d469307a-7474-4d8e-94d6-39b632594aa0
+    name: Flip Phillips Fliptet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 1b3e05e7-8fbc-4196-958b-310551128aa3
+    name: Flip Phillips Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 4600ed0a-0e9e-4219-9132-9789c047fce7
+    name: The Flip Phillips Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 636c40f9-864f-46eb-9b91-7e643a8e0a61
+    name: Red Norvo & His Selected Sextet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3e835c70-a8de-4a1b-9e1f-15161bdc457c
+    name: Charlie Parker Big Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a0d650b7-3836-4232-9900-62e21de47451
+    name: Red Norvo All-Stars
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/flip_phillips.jpg
   caption: Flip Phillips
@@ -103,58 +103,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Woody Herman
-  - Norman Granz / Jazz at the Philharmonic
-  - Bill Harris
-  - Billie Holiday
-  - Benny Goodman
-  - Scott Hamilton
-  - Howard Alden
-  - Joe Lovano and James Carter
+    - Woody Herman
+    - Norman Granz / Jazz at the Philharmonic
+    - Bill Harris
+    - Billie Holiday
+    - Benny Goodman
+    - Scott Hamilton
+    - Howard Alden
+    - Joe Lovano and James Carter
   influenced:
-  - Scott Hamilton
-  - Joe Lovano
-  - James Carter
+    - Scott Hamilton
+    - Joe Lovano
+    - James Carter
   mentors:
-  - Coleman Hawkins
-  - Lester Young
+    - Coleman Hawkins
+    - Lester Young
 spotify_data:
   followers: 2
   id: 39Ds75PSPTfHP0mR43vReO
   popularity: 0
-  url: https://open.spotify.com/artist/39Ds75PSPTfHP0mR43vReO
+  url: 'https://open.spotify.com/artist/39Ds75PSPTfHP0mR43vReO'
 discography_enriched: true
 top_tracks:
-- Flip and Jazz, Part 1 (WNEW Saturday Night Swing Session, Vol. 1)
-- Flip and Jazz, Part 2 (WNEW Saturday Night Swing Session, Vol. 1)
-- How High the Moon (WNEW Saturday Night Swing Session, Vol. 1)
-- Lover (WNEW Saturday Night Swing Session, Vol. 1)
+  - 'Flip and Jazz, Part 1 (WNEW Saturday Night Swing Session, Vol. 1)'
+  - 'Flip and Jazz, Part 2 (WNEW Saturday Night Swing Session, Vol. 1)'
+  - 'How High the Moon (WNEW Saturday Night Swing Session, Vol. 1)'
+  - 'Lover (WNEW Saturday Night Swing Session, Vol. 1)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6bd29ee5-9609-426c-b110-e77e75b12178
-  spotify: https://open.spotify.com/artist/39Ds75PSPTfHP0mR43vReO
-  wikipedia: https://en.wikipedia.org/wiki/Flip_Phillips
+  musicbrainz: 'https://musicbrainz.org/artist/6bd29ee5-9609-426c-b110-e77e75b12178'
+  spotify: 'https://open.spotify.com/artist/39Ds75PSPTfHP0mR43vReO'
+  wikipedia: 'https://en.wikipedia.org/wiki/Flip_Phillips'
 image_path: ''
 biography_enhanced_at: '2025-12-08T04:20:37.356919'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Flip_Phillips
-- https://www.allaboutjazz.com/musicians/flip-phillips
-- https://fromthevaults-boppinbob.blogspot.com/2023/03/flip-phillips-born-26-march-1915.html
-- http://www.jazzweekly.com/interviews/phillips.htm
-- http://www.jazzarcheology.com/artists/flip_phillips.pdf
-- https://jazztimes.com/features/profiles/flip-phillips-ever-green/
-- https://www.the-independent.com/news/obituaries/flip-phillips-9204255.html
-- https://jazzonthetube.com/video/perdido-6/
+  - 'https://en.wikipedia.org/wiki/Flip_Phillips'
+  - 'https://www.allaboutjazz.com/musicians/flip-phillips'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2023/03/flip-phillips-born-26-march-1915.html
+  - 'http://www.jazzweekly.com/interviews/phillips.htm'
+  - 'http://www.jazzarcheology.com/artists/flip_phillips.pdf'
+  - 'https://jazztimes.com/features/profiles/flip-phillips-ever-green/'
+  - 'https://www.the-independent.com/news/obituaries/flip-phillips-9204255.html'
+  - 'https://jazzonthetube.com/video/perdido-6/'
 network_extracted: true
 entry_created: '2025-12-08T04:20:37.356934'
 last_updated: '2025-12-23T08:16:08.712179'
 gender: Male
 musicbrainz_id: 6bd29ee5-9609-426c-b110-e77e75b12178
 tags:
-- bebop
-- jazz
-- swing
+  - bebop
+  - jazz
+  - swing
+is_active: false
 ---
 
 ![]()

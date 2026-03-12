@@ -3,39 +3,45 @@ biography_enhanced_at: '2026-01-09T01:53:16.700831'
 enhancement_provider: perplexity
 entry_created: '2026-01-09T01:53:16.700837'
 external_urls:
-  spotify: https://open.spotify.com/artist/21mDnIkFTsR5TXrHbRoGms
+  spotify: 'https://open.spotify.com/artist/21mDnIkFTsR5TXrHbRoGms'
   wikipedia: ''
 genres: []
 image_path: ''
 last_updated: '2026-01-09T01:53:16.700838'
 musical_connections:
   collaborators:
-  - Waldren "Frog" Joseph
-  - Alton Purnell
-  - Milford Dolliole
-  - Gabriele Gad
-  - Malc Murphy
-  - Mike Lunn
+    - Waldren "Frog" Joseph
+    - Alton Purnell
+    - Milford Dolliole
+    - Gabriele Gad
+    - Malc Murphy
+    - Mike Lunn
   influenced: []
   mentors:
-  - Kid Thomas Valentine
-  - Preservation Hall / Old New Orleans style clarinetists (e.g., George Lewis school)
+    - Kid Thomas Valentine
+    - >-
+      Preservation Hall / Old New Orleans style clarinetists (e.g., George Lewis
+      school)
 network_extracted: true
-origin: South Shields, England, United Kingdom
+origin: 'South Shields, England, United Kingdom'
 primary_source: perplexity
 research_sources:
-- https://secondhandsongs.com/artist/178146/all
-- http://www.heritagehallstompers.com/index.php/4
-- http://www.heritagehallstompers.com/index.php/2
-- https://upbeatmailorder.co.uk/product/jazz-in-new-orleans-the-nineties-brian-carrick-with-waldren-frog-joseph-and-his-new-orleans-boys/
-- https://www.last.fm/music/Brian+Carrick/+wiki
+  - 'https://secondhandsongs.com/artist/178146/all'
+  - 'http://www.heritagehallstompers.com/index.php/4'
+  - 'http://www.heritagehallstompers.com/index.php/2'
+  - >-
+    https://upbeatmailorder.co.uk/product/jazz-in-new-orleans-the-nineties-brian-carrick-with-waldren-frog-joseph-and-his-new-orleans-boys/
+  - 'https://www.last.fm/music/Brian+Carrick/+wiki'
 spotify_data:
   followers: 34
   id: 21mDnIkFTsR5TXrHbRoGms
   popularity: 8
-  url: https://open.spotify.com/artist/21mDnIkFTsR5TXrHbRoGms
+  url: 'https://open.spotify.com/artist/21mDnIkFTsR5TXrHbRoGms'
 status: active
 title: Brian Carrick & His New Orleans Heritage Jazz Band
+birth_place: 'South Shields, England, United Kingdom'
+birth_date: '1943'
+artist_type: person
 ---
 
 ![]()

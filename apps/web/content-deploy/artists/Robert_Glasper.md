@@ -3,16 +3,16 @@ title: Robert Glasper
 wiki_slug: robert-glasper
 schema_version: 2
 status: active
-birth_place: Houston, Texas, United States
+birth_place: 'Houston, Texas, United States'
 genres:
-- jazz rap
-- neo soul
-- nu jazz
+  - jazz rap
+  - neo soul
+  - nu jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Robert_Glasper.jpg
   caption: Robert Glasper
   background: solo_singer
-  origin: Houston, Texas, United States
+  origin: 'Houston, Texas, United States'
 audio_profile:
   tempo_avg: 108.4
   energy_avg: 0.532
@@ -28,53 +28,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bilal
-  - Common
-  - Kendrick Lamar
-  - Robert Glasper Experiment
-  - Terrace Martin
-  - Lalah Hathaway
+    - Bilal
+    - Common
+    - Kendrick Lamar
+    - Robert Glasper Experiment
+    - Terrace Martin
+    - Lalah Hathaway
   influenced:
-  - Taylor McFerrin
-  - Christian Scott aTunde Adjuah
-  - Samora Pinderhughes
+    - Taylor McFerrin
+    - Christian Scott aTunde Adjuah
+    - Samora Pinderhughes
   mentors:
-  - Kim Yvette Glasper
-  - Herbie Hancock
-  - Miles Davis
+    - Kim Yvette Glasper
+    - Herbie Hancock
+    - Miles Davis
 spotify_data:
   followers: 506153
   id: 5cM1PvItlR21WUyBnsdMcn
   popularity: 57
-  url: https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn
+  url: 'https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn'
 discography_enriched: true
 top_tracks:
-- 'From My Heart And My Soul (feat. Tarriona Tank Ball & Phoelix) (Dinner Party: Dessert)'
-- Freeze Tag (feat. Phoelix) (Dinner Party)
-- 'Melt Session #1 [Feat. Robert Glasper] (Melt My Eyez See Your Future)'
-- Afro Blue (Black Radio)
-- Sleepless Nights (feat. Phoelix) (Dinner Party)
-- From My Heart and My Soul (feat. Phoelix) (Dinner Party)
-- Over [Feat. Yebba] (Black Radio III)
-- CALL ME INSTEAD (feat. Youngboy Never Broke Again & Robert Glasper) (THE FIRST TIME)
-- 'Love You Bad (feat. Malaya & Phoelix) (Dinner Party: Dessert)'
-- Still Wonder (Marigold)
+  - >-
+    From My Heart And My Soul (feat. Tarriona Tank Ball & Phoelix) (Dinner
+    Party: Dessert)
+  - Freeze Tag (feat. Phoelix) (Dinner Party)
+  - 'Melt Session #1 [Feat. Robert Glasper] (Melt My Eyez See Your Future)'
+  - Afro Blue (Black Radio)
+  - Sleepless Nights (feat. Phoelix) (Dinner Party)
+  - From My Heart and My Soul (feat. Phoelix) (Dinner Party)
+  - 'Over [Feat. Yebba] (Black Radio III)'
+  - >-
+    CALL ME INSTEAD (feat. Youngboy Never Broke Again & Robert Glasper) (THE
+    FIRST TIME)
+  - 'Love You Bad (feat. Malaya & Phoelix) (Dinner Party: Dessert)'
+  - Still Wonder (Marigold)
 external_urls:
-  spotify: https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn
-  wikipedia: https://en.wikipedia.org/wiki/Robert_Glasper
+  spotify: 'https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn'
+  wikipedia: 'https://en.wikipedia.org/wiki/Robert_Glasper'
 image_path: 03_Resources/source_material/ArtistPortraits/Robert_Glasper.jpg
 biography_enhanced_at: '2025-10-19T10:44:54.208776'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Robert_Glasper
-- https://www.udiscovermusic.com/artist/robert-glasper/
-- https://www.fandango.com/people/robert-glasper-949311/biography
-- https://www.telluridejazz.org/robert-glasper
-- https://jazztimes.com/features/profiles/robert-glasper-renegade-of-funk/
+  - 'https://en.wikipedia.org/wiki/Robert_Glasper'
+  - 'https://www.udiscovermusic.com/artist/robert-glasper/'
+  - 'https://www.fandango.com/people/robert-glasper-949311/biography'
+  - 'https://www.telluridejazz.org/robert-glasper'
+  - 'https://jazztimes.com/features/profiles/robert-glasper-renegade-of-funk/'
 network_extracted: true
 entry_created: '2025-10-19T10:44:54.208786'
 last_updated: '2025-12-23T08:16:03.705719'
+birth_date: '1978-04-05'
+artist_type: person
 ---
 
 ![](Robert_Glasper.jpg)

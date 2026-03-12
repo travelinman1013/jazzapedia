@@ -2,20 +2,20 @@
 title: Steel Pulse
 wiki_slug: steel-pulse
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1975'
 genres:
-- reggae
-- roots reggae
-- ragga
-- rocksteady
-- dub
+  - reggae
+  - roots reggae
+  - ragga
+  - rocksteady
+  - dub
 instruments:
-- drums (drum set)
-- guitar
-- lead vocals
-- original
+  - drums (drum set)
+  - guitar
+  - lead vocals
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/steel_pulse.jpg
   caption: Steel Pulse
@@ -27,7 +27,7 @@ audio_profile:
   valence_avg: 0.849
   danceability_avg: 0.811
   acousticness_avg: 0.072
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -9.2
   speechiness_avg: 0.119
   liveness_avg: 0.151
@@ -36,128 +36,130 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - David Hinds
-  - Basil Gabbidon
-  - Ronnie 'Stepper' McQueen
-  - Selwyn 'Bumbo' Brown
-  - Steve 'Grizzly' Nisbett
-  - Alphonso 'Fonso' Martin
+    - David Hinds
+    - Basil Gabbidon
+    - Ronnie 'Stepper' McQueen
+    - Selwyn 'Bumbo' Brown
+    - Steve 'Grizzly' Nisbett
+    - Alphonso 'Fonso' Martin
   influenced:
-  - Aswad
-  - Contemporary British reggae and roots artists
+    - Aswad
+    - Contemporary British reggae and roots artists
   mentors:
-  - Bob Marley and the Wailers
-  - Burning Spear
+    - Bob Marley and the Wailers
+    - Burning Spear
 spotify_data:
   followers: 704885
   id: 6UL7BodGc5iVmQGlMwHR0g
   popularity: 55
-  url: https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g
+  url: 'https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g'
 discography_enriched: true
 top_tracks:
-- Your House (True Democracy)
-- Roller Skates (Earth Crisis)
-- Your House (Smash Hits)
-- Steppin' Out (Earth Crisis)
-- Wild Goose Chase (Earth Crisis)
-- Your House (True Democracy)
-- Handsworth Revolution (Reggae Greats)
-- Roller Skates (Smash Hits)
-- Steppin' Out (Smash Hits)
-- Not King James Version (Babylon the Bandit)
+  - Your House (True Democracy)
+  - Roller Skates (Earth Crisis)
+  - Your House (Smash Hits)
+  - Steppin' Out (Earth Crisis)
+  - Wild Goose Chase (Earth Crisis)
+  - Your House (True Democracy)
+  - Handsworth Revolution (Reggae Greats)
+  - Roller Skates (Smash Hits)
+  - Steppin' Out (Smash Hits)
+  - Not King James Version (Babylon the Bandit)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/37367b2f-69e4-4df2-9e64-75ca6204764b
-  spotify: https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g
-  wikipedia: https://en.wikipedia.org/wiki/Steel_Pulse
+  musicbrainz: 'https://musicbrainz.org/artist/37367b2f-69e4-4df2-9e64-75ca6204764b'
+  spotify: 'https://open.spotify.com/artist/6UL7BodGc5iVmQGlMwHR0g'
+  wikipedia: 'https://en.wikipedia.org/wiki/Steel_Pulse'
 image_path: 03_Resources/source_material/ArtistPortraits/steel_pulse.jpg
 biography_enhanced_at: '2025-10-27T02:44:09.540948'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Steel_Pulse
-- https://www.reggaeville.com/artist-details/steel-pulse/news/view/david-hinds-the-birth-of-steel-pulse-interview-part-i/
-- https://reggae.today/index.php/artisti2-2/143-steel-pulse
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/steel-pulse
-- https://steelpulse.com
+  - 'https://en.wikipedia.org/wiki/Steel_Pulse'
+  - >-
+    https://www.reggaeville.com/artist-details/steel-pulse/news/view/david-hinds-the-birth-of-steel-pulse-interview-part-i/
+  - 'https://reggae.today/index.php/artisti2-2/143-steel-pulse'
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/steel-pulse
+  - 'https://steelpulse.com'
 network_extracted: true
 entry_created: '2025-10-27T02:44:09.540964'
 last_updated: '2025-12-23T08:16:16.045508'
 members:
-- begin: 1994-11
-  end: '2005'
-  instruments:
-  - drums (drum set)
-  mbid: 1745c33c-72ab-4f0a-a507-4c6d6f5947f1
-  name: Conrad Kelly
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d29233e5-07d8-493b-9d0e-aa64f0df31fc
-  name: Selwyn Brown
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c634e662-b2a5-4d4b-9e6b-63c91295f826
-  name: Alvin Ewen
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a41ea6f2-6faa-4aa0-8bda-2e4cac383ca4
-  name: Basil Gabbidon
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  - lead vocals
-  - original
-  mbid: 596b21da-d010-4c7a-9762-2b2e737156a1
-  name: David Hinds
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 596b21da-d010-4c7a-9762-2b2e737156a1
-  name: David Hinds
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1dfe899c-723f-4e6d-aad6-914c86bd6781
-  name: Jerry Johnson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 14ca7017-e80a-441c-96aa-55e2c45e2d81
-  name: Alphonso Martin
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7e8c83e7-80bd-4e3d-98bd-dbe6f9d0fe7f
-  name: Ronald McQueen
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 44509c16-56b8-4f68-9c01-e07695859bbb
-  name: Sidney Mills
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5b334ed1-d3e8-4edd-b880-fba1b9e2d27a
-  name: Steve Nisbett
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 10e27e15-903e-4803-a15c-b1e671299f83
-  name: Errol Reid
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: db0c538e-bc67-4473-a3f7-e4614e3ef718
-  name: Mykaell Riley
+  - begin: 1994-11
+    end: '2005'
+    instruments:
+      - drums (drum set)
+    mbid: 1745c33c-72ab-4f0a-a507-4c6d6f5947f1
+    name: Conrad Kelly
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d29233e5-07d8-493b-9d0e-aa64f0df31fc
+    name: Selwyn Brown
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c634e662-b2a5-4d4b-9e6b-63c91295f826
+    name: Alvin Ewen
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a41ea6f2-6faa-4aa0-8bda-2e4cac383ca4
+    name: Basil Gabbidon
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+      - lead vocals
+      - original
+    mbid: 596b21da-d010-4c7a-9762-2b2e737156a1
+    name: David Hinds
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 596b21da-d010-4c7a-9762-2b2e737156a1
+    name: David Hinds
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1dfe899c-723f-4e6d-aad6-914c86bd6781
+    name: Jerry Johnson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 14ca7017-e80a-441c-96aa-55e2c45e2d81
+    name: Alphonso Martin
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7e8c83e7-80bd-4e3d-98bd-dbe6f9d0fe7f
+    name: Ronald McQueen
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 44509c16-56b8-4f68-9c01-e07695859bbb
+    name: Sidney Mills
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5b334ed1-d3e8-4edd-b880-fba1b9e2d27a
+    name: Steve Nisbett
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 10e27e15-903e-4803-a15c-b1e671299f83
+    name: Errol Reid
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: db0c538e-bc67-4473-a3f7-e4614e3ef718
+    name: Mykaell Riley
 musicbrainz_id: 37367b2f-69e4-4df2-9e64-75ca6204764b
-origin: Handsworth
+origin: 'Handsworth, Birmingham, England'
 tags:
-- birmingham
-- england
-- reggae
+  - birmingham
+  - england
+  - reggae
 ---
 
 ![](steel_pulse.jpg)

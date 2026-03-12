@@ -3,16 +3,16 @@ title: Billy Cobham
 wiki_slug: billy-cobham
 schema_version: 2
 status: active
-birth_place: Panama City, Panama
+birth_place: 'Panama City, Panama, Panama'
 genres:
-- jazz fusion
-- jazz funk
-- jazz
+  - jazz fusion
+  - jazz funk
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/billy_cobham.jpg
   caption: Billy Cobham
   background: solo_singer
-  origin: Panama City, Panama
+  origin: 'Panama City, Panama'
 audio_profile:
   tempo_avg: 120.3
   energy_avg: 0.655
@@ -28,55 +28,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Miles Davis
-  - John McLaughlin
-  - George Duke
-  - Jan Hammer
-  - John Abercrombie
-  - Brecker Brothers
+    - Miles Davis
+    - John McLaughlin
+    - George Duke
+    - Jan Hammer
+    - John Abercrombie
+    - Brecker Brothers
   influenced:
-  - Tony Williams
-  - Jack DeJohnette
-  - Lenny White
-  - Alphonse Mouzon
-  - Prog rock drummers
+    - Tony Williams
+    - Jack DeJohnette
+    - Lenny White
+    - Alphonse Mouzon
+    - Prog rock drummers
   mentors:
-  - Horace Silver
-  - Father (pianist)
+    - Horace Silver
+    - Father (pianist)
 spotify_data:
   followers: 144674
   id: 0IwfuIL3gUJxjzUqY3wJ3j
   popularity: 44
-  url: https://open.spotify.com/artist/0IwfuIL3gUJxjzUqY3wJ3j
+  url: 'https://open.spotify.com/artist/0IwfuIL3gUJxjzUqY3wJ3j'
 discography_enriched: true
 top_tracks:
-- Red Baron (Spectrum)
-- Le Lis (Spectrum)
-- Heather (Crosswinds)
-- Llanera (De Cuba y de Panamá)
-- Stratus (Spectrum)
-- Crosswind (Crosswinds)
-- 'Dreamer (Billy Cobham: Drum''n'' Voice, Vol. 3)'
-- 'Stratus (Billy Cobham: Drum''n'' Voice, Vol. 3)'
-- The Moon Ain't Made of Green Cheese (Total Eclipse)
-- Spectrum (Spectrum)
+  - Red Baron (Spectrum)
+  - Le Lis (Spectrum)
+  - Heather (Crosswinds)
+  - Llanera (De Cuba y de Panamá)
+  - Stratus (Spectrum)
+  - Crosswind (Crosswinds)
+  - 'Dreamer (Billy Cobham: Drum''n'' Voice, Vol. 3)'
+  - 'Stratus (Billy Cobham: Drum''n'' Voice, Vol. 3)'
+  - The Moon Ain't Made of Green Cheese (Total Eclipse)
+  - Spectrum (Spectrum)
 external_urls:
-  spotify: https://open.spotify.com/artist/0IwfuIL3gUJxjzUqY3wJ3j
+  spotify: 'https://open.spotify.com/artist/0IwfuIL3gUJxjzUqY3wJ3j'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/billy_cobham.jpg
 biography_enhanced_at: '2025-12-13T10:46:55.000747'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.knkx.org/jazz/2024-04-04/billy-cobham-drummer-cti-records-mahavishnu-orchestra-jazz-rock
-- https://banskojazzfest.bg/en/dt_team/billy-cobham-drums-usa/
-- https://www.moderndrummer.com/drummers/billy-cobham/
-- https://pas.org/billy-cobham/
-- https://nationaljazzarchive.org.uk/explore/interviews/1621052-billy-cobham
-- https://www.bluenote.com/artist/billy-cobham/
+  - >-
+    https://www.knkx.org/jazz/2024-04-04/billy-cobham-drummer-cti-records-mahavishnu-orchestra-jazz-rock
+  - 'https://banskojazzfest.bg/en/dt_team/billy-cobham-drums-usa/'
+  - 'https://www.moderndrummer.com/drummers/billy-cobham/'
+  - 'https://pas.org/billy-cobham/'
+  - 'https://nationaljazzarchive.org.uk/explore/interviews/1621052-billy-cobham'
+  - 'https://www.bluenote.com/artist/billy-cobham/'
 network_extracted: true
 entry_created: '2025-12-13T10:46:55.000753'
 last_updated: '2025-12-23T08:16:05.560552'
+origin: 'Brooklyn, New York, United States'
+artist_type: person
 ---
 
 ![](billy_cobham.jpg)

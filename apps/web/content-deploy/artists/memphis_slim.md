@@ -3,17 +3,17 @@ title: Memphis Slim
 wiki_slug: memphis-slim
 schema_version: 2
 status: active
-birth_place: Memphis, Tennessee, United States
+birth_place: 'Memphis, Tennessee, United States'
 genres:
-- blues
-- boogie-woogie
-- classic blues
-- jazz blues
+  - blues
+  - boogie-woogie
+  - classic blues
+  - jazz blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/memphis_slim.jpg
   caption: Memphis Slim
   background: solo_singer
-  origin: Memphis, Tennessee, United States
+  origin: 'Memphis, Tennessee, United States'
 audio_profile:
   tempo_avg: 112.9
   energy_avg: 0.341
@@ -29,51 +29,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Big Bill Broonzy
-  - Sonny Boy Williamson (John Lee Williamson)
-  - Willie Dixon
-  - Matt 'Guitar' Murphy
-  - George Collier
+    - Big Bill Broonzy
+    - Sonny Boy Williamson (John Lee Williamson)
+    - Willie Dixon
+    - Matt 'Guitar' Murphy
+    - George Collier
   influenced:
-  - Joe Williams
-  - Countless blues and rock pianists
+    - Joe Williams
+    - Countless blues and rock pianists
   mentors:
-  - Peter Chatman
-  - Roosevelt Sykes
+    - Peter Chatman
+    - Roosevelt Sykes
 spotify_data:
   followers: 95191
   id: 5JuPv0rJXe5aWNTgu8YVqZ
   popularity: 27
-  url: https://open.spotify.com/artist/5JuPv0rJXe5aWNTgu8YVqZ
+  url: 'https://open.spotify.com/artist/5JuPv0rJXe5aWNTgu8YVqZ'
 discography_enriched: true
 top_tracks:
-- Everyday (I Have The Blues) (The Sonet Blues Story)
-- Ballin' The Jack (The Bluesman)
-- Steppin' Out (At The Gate Of Horn)
-- Mother Earth (Memphis Slim)
-- Lonesome (One Man's Mad)
-- Beer Drinkin' Woman - Remastered (The Bluebird Recordings 1940 - 1941)
-- I Am The Blues (The Sonet Blues Story)
-- I'm Lost Without You
-- Frankie And Johnny Boogie (All Kinds Of Blues)
-- 'Cold Blooded Woman (7days Presents: Memphis Slim - Blues from the Archives)'
+  - Everyday (I Have The Blues) (The Sonet Blues Story)
+  - Ballin' The Jack (The Bluesman)
+  - Steppin' Out (At The Gate Of Horn)
+  - Mother Earth (Memphis Slim)
+  - Lonesome (One Man's Mad)
+  - Beer Drinkin' Woman - Remastered (The Bluebird Recordings 1940 - 1941)
+  - I Am The Blues (The Sonet Blues Story)
+  - I'm Lost Without You
+  - Frankie And Johnny Boogie (All Kinds Of Blues)
+  - 'Cold Blooded Woman (7days Presents: Memphis Slim - Blues from the Archives)'
 external_urls:
-  spotify: https://open.spotify.com/artist/5JuPv0rJXe5aWNTgu8YVqZ
-  wikipedia: https://en.wikipedia.org/wiki/Memphis_Slim
+  spotify: 'https://open.spotify.com/artist/5JuPv0rJXe5aWNTgu8YVqZ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Memphis_Slim'
 image_path: 03_Resources/source_material/ArtistPortraits/memphis_slim.jpg
 biography_enhanced_at: '2025-11-12T14:54:39.413569'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Memphis_Slim
-- https://amsterdamnews.com/news/2023/11/23/memphis-slim-blues-singer-guitarist-and-pianist/
-- https://aaregistry.org/story/memphis-slim-blues-musician-born/
-- https://memphismusichalloffame.com/inductee/memphisslim/
-- https://blues.org/blues_hof_inductee/memphis-slim/
-- https://tims.blackcat.nl/messages/memphis_slim.htm
+  - 'https://en.wikipedia.org/wiki/Memphis_Slim'
+  - >-
+    https://amsterdamnews.com/news/2023/11/23/memphis-slim-blues-singer-guitarist-and-pianist/
+  - 'https://aaregistry.org/story/memphis-slim-blues-musician-born/'
+  - 'https://memphismusichalloffame.com/inductee/memphisslim/'
+  - 'https://blues.org/blues_hof_inductee/memphis-slim/'
+  - 'https://tims.blackcat.nl/messages/memphis_slim.htm'
 network_extracted: true
 entry_created: '2025-11-12T14:54:39.413582'
 last_updated: '2025-12-23T08:16:12.974164'
+origin: 'Chicago, Illinois, United States'
+birth_date: '1915-09-03'
+artist_type: person
 ---
 
 ![](memphis_slim.jpg)

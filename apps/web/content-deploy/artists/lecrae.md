@@ -1,68 +1,68 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '2005'
-  end: ''
-  instruments:
-  - original
-  mbid: 2484bfd0-215e-4a3c-805d-c3705ba9f5d0
-  name: 116 Clique
+  - begin: '2005'
+    end: ''
+    instruments:
+      - original
+    mbid: 2484bfd0-215e-4a3c-805d-c3705ba9f5d0
+    name: 116 Clique
 biography_enhanced_at: '2026-01-06T02:14:17.577915'
 birth_date: '1979-10-09'
-birth_place: Houston
+birth_place: 'Houston, Texas, United States'
 disambiguation: US rapper
 enhancement_provider: perplexity
 entry_created: '2026-01-06T02:14:17.577920'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ffe54de6-5cee-4c0f-8329-f5946f9bc3ff
-  spotify: https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW
+  musicbrainz: 'https://musicbrainz.org/artist/ffe54de6-5cee-4c0f-8329-f5946f9bc3ff'
+  spotify: 'https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW'
   wikipedia: ''
 gender: Male
 genres:
-- christian hip hop
-- christian
-- gospel r&b
-- christian pop
-- pop worship
-- chinese hip hop
+  - christian hip hop
+  - christian
+  - gospel r&b
+  - christian pop
+  - pop worship
+  - chinese hip hop
 image_path: 03_Resources/source_material/ArtistPortraits/lecrae.jpg
 instruments:
-- original
-- background vocals
+  - original
+  - background vocals
 last_updated: '2026-01-06T02:14:17.577921'
 musical_connections:
   collaborators:
-  - Tasha Cobbs Leonard
-  - Ty Dolla $ign
-  - John Legend
-  - Chaka Khan
+    - Tasha Cobbs Leonard
+    - Ty Dolla $ign
+    - John Legend
+    - Chaka Khan
   influenced: []
   mentors:
-  - Lauryn Hill
-  - The Cross Movement
+    - Lauryn Hill
+    - The Cross Movement
 musicbrainz_id: ffe54de6-5cee-4c0f-8329-f5946f9bc3ff
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.cpr.org/2024/10/27/interview-colorado-christian-rapper-lecrae-moore/
-- https://365christianmen.com/podcast/lecrae-moore-us-rap-artist/
-- https://thewisdomdaily.com/lecrae-hip-hops-holy-rebel/
-- https://www.reallifestories.org/stories/lecrae/
-- https://lecrae.com/bio
-- https://www.imdb.com/name/nm4654958/bio/
-- https://www.reachrecords.com/artists/lecrae/
+  - >-
+    https://www.cpr.org/2024/10/27/interview-colorado-christian-rapper-lecrae-moore/
+  - 'https://365christianmen.com/podcast/lecrae-moore-us-rap-artist/'
+  - 'https://thewisdomdaily.com/lecrae-hip-hops-holy-rebel/'
+  - 'https://www.reallifestories.org/stories/lecrae/'
+  - 'https://lecrae.com/bio'
+  - 'https://www.imdb.com/name/nm4654958/bio/'
+  - 'https://www.reachrecords.com/artists/lecrae/'
 spotify_data:
   followers: 1414003
   id: 1CFCsEqKrCyvAFKOATQHiW
   popularity: 66
-  url: https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW
+  url: 'https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW'
 status: active
 tags:
-- christian
-- christian hip hop
-- hip hop
+  - christian
+  - christian hip hop
+  - hip hop
 title: Lecrae
-
 ---
 
 ![](lecrae.jpg)

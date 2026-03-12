@@ -5,27 +5,27 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1952-06-29'
-birth_place: Kingston
+birth_place: 'Kingston, Kingston Parish, Jamaica'
 genres:
-- roots reggae
-- reggae
-- dub
-- ragga
-- rocksteady
+  - roots reggae
+  - reggae
+  - dub
+  - ragga
+  - rocksteady
 instruments:
-- background vocals
-- spoken vocals
+  - background vocals
+  - spoken vocals
 associated_acts:
-- begin: '1987'
-  end: '1994'
-  instruments: []
-  mbid: 8ee00333-ec2c-439b-a619-ae160aca2a15
-  name: Black Uhuru
-- begin: ''
-  end: '1977'
-  instruments: []
-  mbid: 8ee00333-ec2c-439b-a619-ae160aca2a15
-  name: Black Uhuru
+  - begin: '1987'
+    end: '1994'
+    instruments: []
+    mbid: 8ee00333-ec2c-439b-a619-ae160aca2a15
+    name: Black Uhuru
+  - begin: ''
+    end: '1977'
+    instruments: []
+    mbid: 8ee00333-ec2c-439b-a619-ae160aca2a15
+    name: Black Uhuru
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/don_carlos.jpg
   caption: Don Carlos
@@ -47,54 +47,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Garth Dennis
-  - Derrick 'Duckie' Simpson
-  - Gold
-  - Reggae Angels
-  - Dub Vision
+    - Garth Dennis
+    - Derrick 'Duckie' Simpson
+    - Gold
+    - Reggae Angels
+    - Dub Vision
   influenced:
-  - Junior Reid
-  - Modern roots reggae artists
+    - Junior Reid
+    - Modern roots reggae artists
   mentors:
-  - King Tubby
+    - King Tubby
 spotify_data:
   followers: 269761
   id: 5WcGRaGsl0b9sul7jVdDgc
   popularity: 50
-  url: https://open.spotify.com/artist/5WcGRaGsl0b9sul7jVdDgc
+  url: 'https://open.spotify.com/artist/5WcGRaGsl0b9sul7jVdDgc'
 discography_enriched: true
 top_tracks:
-- Roots Reggae Music (feat. Don Carlos) (Count Me In)
-- Jah Jah Know (Hebron Gate)
-- Babylon Rule Dem (Hebron Gate)
-- Movin (To The Top) (7 Days A Week)
-- Time (7 Days A Week)
-- Designer Girl [She Got Me]
-- Picture on the Wall (Hebron Gate)
-- I Just Can't Stop (Just A Passing Glance)
-- Young girl
-- Harvest Time (Raving Tonight)
+  - Roots Reggae Music (feat. Don Carlos) (Count Me In)
+  - Jah Jah Know (Hebron Gate)
+  - Babylon Rule Dem (Hebron Gate)
+  - Movin (To The Top) (7 Days A Week)
+  - Time (7 Days A Week)
+  - 'Designer Girl [She Got Me]'
+  - Picture on the Wall (Hebron Gate)
+  - I Just Can't Stop (Just A Passing Glance)
+  - Young girl
+  - Harvest Time (Raving Tonight)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a80ff520-a853-4d7b-a5fe-77011689ec77
-  spotify: https://open.spotify.com/artist/5WcGRaGsl0b9sul7jVdDgc
-  wikipedia: https://en.wikipedia.org/wiki/Don_Carlos_(musician)
+  musicbrainz: 'https://musicbrainz.org/artist/a80ff520-a853-4d7b-a5fe-77011689ec77'
+  spotify: 'https://open.spotify.com/artist/5WcGRaGsl0b9sul7jVdDgc'
+  wikipedia: 'https://en.wikipedia.org/wiki/Don_Carlos_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/don_carlos.jpg
 biography_enhanced_at: '2025-10-27T02:50:47.926482'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://reggae.today/index.php/artisti2-2/192-don-carlos
-- https://kingsmusicinternational.com/2019/05/don-carlos/
-- https://www.reggaeville.com/artist-details/don-carlos/about/
-- https://apeconcerts.com/attraction/don-carlos/
-- https://doncarlosinc.com/don-carlos/
-- https://en.wikipedia.org/wiki/Don_Carlos_(musician)
+  - 'https://reggae.today/index.php/artisti2-2/192-don-carlos'
+  - 'https://kingsmusicinternational.com/2019/05/don-carlos/'
+  - 'https://www.reggaeville.com/artist-details/don-carlos/about/'
+  - 'https://apeconcerts.com/attraction/don-carlos/'
+  - 'https://doncarlosinc.com/don-carlos/'
+  - 'https://en.wikipedia.org/wiki/Don_Carlos_(musician)'
 network_extracted: true
 entry_created: '2025-10-27T02:50:47.926498'
 last_updated: '2025-12-23T08:16:07.885279'
-disambiguation: reggae vocalist, member of Black Uhuru
+disambiguation: 'reggae vocalist, member of Black Uhuru'
 gender: Male
 musicbrainz_id: a80ff520-a853-4d7b-a5fe-77011689ec77
+origin: 'Kingston, Kingston Parish, Jamaica'
 ---
 
 ![](don_carlos.jpg)

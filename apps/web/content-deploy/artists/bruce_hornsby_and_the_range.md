@@ -1,66 +1,69 @@
 ---
 artist_type: band
 biography_enhanced_at: '2026-01-13T01:15:24.704904'
-birth_date: '1984'
+birth_date: '1954-11-23'
 enhancement_provider: perplexity
 entry_created: '2026-01-13T01:15:24.704910'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b548040e-b631-4bdd-ab75-045293e448b7
-  spotify: https://open.spotify.com/artist/7CwJ4VEWs7HV7MWQt9cgyk
-  wikipedia: https://en.wikipedia.org/wiki/Bruce_Hornsby
+  musicbrainz: 'https://musicbrainz.org/artist/b548040e-b631-4bdd-ab75-045293e448b7'
+  spotify: 'https://open.spotify.com/artist/7CwJ4VEWs7HV7MWQt9cgyk'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bruce_Hornsby'
 formation_year: 1984
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/bruce_hornsby_and_the_range.jpg
 is_active: true
 last_updated: '2026-01-13T01:15:24.704911'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e60dbba7-6f55-429a-bd22-5e9c6a87ae70
-  name: Bruce Hornsby
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9059a286-a584-4440-a9bb-a48517836c0e
-  name: David Mansfield
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e60dbba7-6f55-429a-bd22-5e9c6a87ae70
+    name: Bruce Hornsby
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9059a286-a584-4440-a9bb-a48517836c0e
+    name: David Mansfield
 musical_connections:
   collaborators:
-  - David Mansfield
-  - George Marinelli
-  - Joe Puerta
-  - John Molo
-  - Huey Lewis
-  - John Hornsby
+    - David Mansfield
+    - George Marinelli
+    - Joe Puerta
+    - John Molo
+    - Huey Lewis
+    - John Hornsby
   influenced:
-  - Tupac Shakur
-  - Nitty Gritty Dirt Band
+    - Tupac Shakur
+    - Nitty Gritty Dirt Band
   mentors:
-  - Berklee College of Music faculty
+    - Berklee College of Music faculty
 musicbrainz_id: b548040e-b631-4bdd-ab75-045293e448b7
 network_extracted: true
 origin: Los Angeles
 primary_source: perplexity
 research_sources:
-- https://bruuuce.com/wiki/bruce-hornsby/
-- https://www.brucehornsby.com/bio
-- https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/bruce-hornsby
-- https://en.wikipedia.org/wiki/Bruce_Hornsby
-- https://www.last.fm/music/Bruce+Hornsby+&+the+Range/+wiki
-- https://www.classicpopmag.com/features/bruce-hornby-interview-i-was-the-grandpa-on-the-bill-probably-the-oldest-motherfer-on-the-stage/
-- https://www.allaboutjazz.com/musicians/bruce-hornsby/
-- https://www.cool1035.com/artist/b548040e-b631-4bdd-ab75-045293e448b7
-- https://www.jango.com/music/Bruce+Hornsby+The+Noisemakers/_full_bio
+  - 'https://bruuuce.com/wiki/bruce-hornsby/'
+  - 'https://www.brucehornsby.com/bio'
+  - >-
+    https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/bruce-hornsby
+  - 'https://en.wikipedia.org/wiki/Bruce_Hornsby'
+  - 'https://www.last.fm/music/Bruce+Hornsby+&+the+Range/+wiki'
+  - >-
+    https://www.classicpopmag.com/features/bruce-hornby-interview-i-was-the-grandpa-on-the-bill-probably-the-oldest-motherfer-on-the-stage/
+  - 'https://www.allaboutjazz.com/musicians/bruce-hornsby/'
+  - 'https://www.cool1035.com/artist/b548040e-b631-4bdd-ab75-045293e448b7'
+  - 'https://www.jango.com/music/Bruce+Hornsby+The+Noisemakers/_full_bio'
 spotify_data:
   followers: 100782
   id: 7CwJ4VEWs7HV7MWQt9cgyk
   popularity: 59
-  url: https://open.spotify.com/artist/7CwJ4VEWs7HV7MWQt9cgyk
+  url: 'https://open.spotify.com/artist/7CwJ4VEWs7HV7MWQt9cgyk'
 status: active
 tags:
-- rock
-- soft rock
+  - rock
+  - soft rock
 title: Bruce Hornsby & The Range
+birth_place: 'Williamsburg, Virginia, United States'
 ---
 
 ![](bruce_hornsby_and_the_range.jpg)

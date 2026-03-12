@@ -1,41 +1,44 @@
 ---
 biography_enhanced_at: '2026-01-03T01:48:56.851511'
-birth_place: Fort Worth, Texas, United States
+birth_place: 'Fort Worth, Texas, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-03T01:48:56.851520'
 external_urls:
-  spotify: https://open.spotify.com/artist/4NGyVhh6sbzN8fMAYpChXu
-  wikipedia: https://en.wikipedia.org/wiki/Lou_Ann_Barton
+  spotify: 'https://open.spotify.com/artist/4NGyVhh6sbzN8fMAYpChXu'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lou_Ann_Barton'
 genres: []
 image_path: ''
 last_updated: '2026-01-03T01:48:56.851521'
 musical_connections:
   collaborators:
-  - Stevie Ray Vaughan
-  - Jimmie Vaughan
-  - Marcia Ball
-  - Angela Strehli
-  - Roomful of Blues
+    - Stevie Ray Vaughan
+    - Jimmie Vaughan
+    - Marcia Ball
+    - Angela Strehli
+    - Roomful of Blues
   influenced: []
   mentors:
-  - W.C. Clark
+    - W.C. Clark
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Lou_Ann_Barton
-- https://sandiegotroubadour.com/lou-ann-barton-international-sweethearts-of-rhythm-jerrie-thil/
-- https://acltv.com/tag/lou-ann-barton/
-- https://www.allmusic.com/artist/lou-ann-barton-mn0000210142
-- https://thecosmiccultureclub.com/read-my-lips-lou-ann-barton/
-- https://www.emusic.com/artist/rs_59385/Lou-Ann-Barton/bio
-- https://www.houstonpress.com/music/lou-ann-barton-6594949/
+  - 'https://en.wikipedia.org/wiki/Lou_Ann_Barton'
+  - >-
+    https://sandiegotroubadour.com/lou-ann-barton-international-sweethearts-of-rhythm-jerrie-thil/
+  - 'https://acltv.com/tag/lou-ann-barton/'
+  - 'https://www.allmusic.com/artist/lou-ann-barton-mn0000210142'
+  - 'https://thecosmiccultureclub.com/read-my-lips-lou-ann-barton/'
+  - 'https://www.emusic.com/artist/rs_59385/Lou-Ann-Barton/bio'
+  - 'https://www.houstonpress.com/music/lou-ann-barton-6594949/'
 spotify_data:
   followers: 5
   id: 4NGyVhh6sbzN8fMAYpChXu
   popularity: 0
-  url: https://open.spotify.com/artist/4NGyVhh6sbzN8fMAYpChXu
+  url: 'https://open.spotify.com/artist/4NGyVhh6sbzN8fMAYpChXu'
 status: active
-title: lu ann barton
+title: LU Ann Barton
+birth_date: '1954-02-17'
+artist_type: person
 ---
 
 ![]()

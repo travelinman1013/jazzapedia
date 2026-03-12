@@ -5,26 +5,26 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1958-11-08'
-birth_place: New York
+birth_place: 'New York, New York, United States'
 genres: []
 instruments:
-- lead vocals
+  - lead vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7197ff3a-5122-4262-8cf0-dcc3c656e410
-  name: Black Rock Coalition
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4f85156e-db93-42b9-907c-52cafc23494f
-  name: The Harlem Experiment
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: df5cd29d-55c6-4613-9242-0b5ff86d6d4a
-  name: David Murray Big Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7197ff3a-5122-4262-8cf0-dcc3c656e410
+    name: Black Rock Coalition
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4f85156e-db93-42b9-907c-52cafc23494f
+    name: The Harlem Experiment
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: df5cd29d-55c6-4613-9242-0b5ff86d6d4a
+    name: David Murray Big Band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/don_byron.jpg
   caption: Don Byron
@@ -46,53 +46,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Hankus Netsky
-  - David Murray
-  - Craig Harris
-  - Hamiet Bluiett
-  - Kronos Quartet
+    - Hankus Netsky
+    - David Murray
+    - Craig Harris
+    - Hamiet Bluiett
+    - Kronos Quartet
   influenced:
-  - Todd Marcus
+    - Todd Marcus
   mentors:
-  - Joe Allard
-  - George Russell
+    - Joe Allard
+    - George Russell
 spotify_data:
   followers: 256240
   id: 1aOt6LvXOV6I8dv1A5Diia
   popularity: 52
-  url: https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia
+  url: 'https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia'
 discography_enriched: true
 top_tracks:
-- Everybody (Technology)
-- Gumshield (Amazing Things)
-- Come out to La (Technology)
-- Technology (Technology)
-- T-Shirt Song (Technology)
-- One True Prince (Amazing Things)
-- Pretty (Technology)
-- Nerve (Automatic (Deluxe))
-- Fingernails (Fingernails)
-- Manchester Super Reds No.1 Fan (Amazing Things)
+  - Everybody (Technology)
+  - Gumshield (Amazing Things)
+  - Come out to La (Technology)
+  - Technology (Technology)
+  - T-Shirt Song (Technology)
+  - One True Prince (Amazing Things)
+  - Pretty (Technology)
+  - Nerve (Automatic (Deluxe))
+  - Fingernails (Fingernails)
+  - Manchester Super Reds No.1 Fan (Amazing Things)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7478f0d5-5406-490b-b6e3-c7d135b435cd
-  spotify: https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia
-  wikipedia: https://en.wikipedia.org/wiki/Don_Byron
+  musicbrainz: 'https://musicbrainz.org/artist/7478f0d5-5406-490b-b6e3-c7d135b435cd'
+  spotify: 'https://open.spotify.com/artist/1aOt6LvXOV6I8dv1A5Diia'
+  wikipedia: 'https://en.wikipedia.org/wiki/Don_Byron'
 image_path: 03_Resources/source_material/ArtistPortraits/don_byron.jpg
 biography_enhanced_at: '2025-10-31T07:59:13.046815'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://mlkscholars.mit.edu/scholars/don-byron/
-- https://www.bluenote.com/artist/don-byron/
-- https://www.allaboutjazz.com/musicians/don-byron/
-- https://jazztimes.com/features/profiles/don-byron-don-leaps-in/
+  - 'https://mlkscholars.mit.edu/scholars/don-byron/'
+  - 'https://www.bluenote.com/artist/don-byron/'
+  - 'https://www.allaboutjazz.com/musicians/don-byron/'
+  - 'https://jazztimes.com/features/profiles/don-byron-don-leaps-in/'
 network_extracted: true
 entry_created: '2025-10-31T07:59:13.046833'
 last_updated: '2025-12-23T08:16:07.880320'
 gender: Male
 musicbrainz_id: 7478f0d5-5406-490b-b6e3-c7d135b435cd
 tags:
-- jazz
+  - jazz
+origin: 'Bronx, New York City, United States'
 ---
 
 ![](don_byron.jpg)

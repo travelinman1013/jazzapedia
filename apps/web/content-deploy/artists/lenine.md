@@ -5,15 +5,15 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1959-02-02'
-birth_place: Recife
+birth_place: 'Recife, Pernambuco, Brazil'
 genres:
-- mpb
-- nova mpb
+  - mpb
+  - nova mpb
 instruments:
-- acoustic guitar
-- guitar
-- background vocals
-- lead vocals
+  - acoustic guitar
+  - guitar
+  - background vocals
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lenine.jpg
   caption: Lenine
@@ -35,51 +35,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lula Queiroga
-  - Marcos Suzano
-  - Living Colour
+    - Lula Queiroga
+    - Marcos Suzano
+    - Living Colour
   influenced: []
   mentors:
-  - Milton Nascimento
-  - Gilberto Gil
+    - Milton Nascimento
+    - Gilberto Gil
 spotify_data:
   followers: 967985
   id: 4YLBdrR3DVSMncm785NH6C
   popularity: 65
-  url: https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C
+  url: 'https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C'
 discography_enriched: true
 top_tracks:
-- Lisboa (COR)
-- Não Olhe Pra Trás (feat. Lenine) - Ao Vivo (Capital Inicial Acústico NYC (Ao Vivo) [Versão Deluxe + Faixa Extra])
-- Na Rua, Na Chuva, Na Fazenda (Casinha De Sapê) - Ao Vivo (Acústico (Live))
-- Paciência (Na Pressão)
-- Paciência (Lenine In Cité (Deluxe))
-- Clube do Samba
-- Camarão Que Dorme a Onda Leva
-- Simples Assim (Carbono)
-- Tempo Perdido (feat. Lenine) - Ao Vivo (Capital Inicial Acústico NYC (Ao Vivo) [Versão Deluxe + Faixa Extra])
-- Hoje Eu Quero Sair Só (O Dia em que Faremos Contato)
+  - Lisboa (COR)
+  - >-
+    Não Olhe Pra Trás (feat. Lenine) - Ao Vivo (Capital Inicial Acústico NYC (Ao
+    Vivo) [Versão Deluxe + Faixa Extra])
+  - 'Na Rua, Na Chuva, Na Fazenda (Casinha De Sapê) - Ao Vivo (Acústico (Live))'
+  - Paciência (Na Pressão)
+  - Paciência (Lenine In Cité (Deluxe))
+  - Clube do Samba
+  - Camarão Que Dorme a Onda Leva
+  - Simples Assim (Carbono)
+  - >-
+    Tempo Perdido (feat. Lenine) - Ao Vivo (Capital Inicial Acústico NYC (Ao
+    Vivo) [Versão Deluxe + Faixa Extra])
+  - Hoje Eu Quero Sair Só (O Dia em que Faremos Contato)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/da61fb5d-9543-4e36-9fa7-dad3111f7e8e
-  spotify: https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C
-  wikipedia: https://en.wikipedia.org/wiki/Lenine_(musician)
+  musicbrainz: 'https://musicbrainz.org/artist/da61fb5d-9543-4e36-9fa7-dad3111f7e8e'
+  spotify: 'https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lenine_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/lenine.jpg
 biography_enhanced_at: '2025-12-14T01:48:55.212811'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Lenine/+wiki
-- https://en.wikipedia.org/wiki/Lenine_(musician)
-- https://www.famousbirthdays.com/people/lenine.html
-- https://worldmusiccentral.org/artist-profiles-lenine/
+  - 'https://www.last.fm/music/Lenine/+wiki'
+  - 'https://en.wikipedia.org/wiki/Lenine_(musician)'
+  - 'https://www.famousbirthdays.com/people/lenine.html'
+  - 'https://worldmusiccentral.org/artist-profiles-lenine/'
 network_extracted: true
 entry_created: '2025-12-14T01:48:55.212825'
 last_updated: '2025-12-23T08:16:11.762739'
 gender: Male
 musicbrainz_id: da61fb5d-9543-4e36-9fa7-dad3111f7e8e
 tags:
-- brazilian
-
+  - brazilian
 ---
 
 ![](lenine.jpg)

@@ -5,12 +5,12 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1952-12-26'
-birth_place: Rae Town
+birth_place: 'Rae Town, Kingston, Jamaica'
 genres:
-- spoken word
+  - spoken word
 instruments:
-- other vocals
-- spoken vocals
+  - other vocals
+  - spoken vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/mutabaruka.jpg
   caption: Mutabaruka
@@ -32,54 +32,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Earl 'Chinna' Smith
-  - Cedric Brooks & The Light of Saba
-  - Truth (band)
+    - Earl 'Chinna' Smith
+    - Cedric Brooks & The Light of Saba
+    - Truth (band)
   influenced:
-  - Linton Kwesi Johnson
-  - Younger Jamaican poets
+    - Linton Kwesi Johnson
+    - Younger Jamaican poets
   mentors:
-  - Malcolm X
-  - Eldridge Cleaver
+    - Malcolm X
+    - Eldridge Cleaver
 spotify_data:
   followers: 262
   id: 7vK5MA4eApnIKFxImHssQP
   popularity: 1
-  url: https://open.spotify.com/artist/7vK5MA4eApnIKFxImHssQP
+  url: 'https://open.spotify.com/artist/7vK5MA4eApnIKFxImHssQP'
 discography_enriched: true
 top_tracks:
-- 'Set De Prisoners Free (Word Sound ''Ave Power: Dub Poets And Dub)'
-- Life And Debt (Life Squared)
-- The Monkey (Life Squared)
-- Spirituality (Life Squared)
-- Dream Girl (Life Squared)
-- 'Out Of Many One (Word Sound ''Ave Power: Dub Poets And Dub)'
-- War A Gwaan Dung Deh (Life Squared)
-- Time We Realize (Life Squared)
-- Dis Poem - Remix (Life Squared)
-- The Science of Agriculture (Food War)
+  - 'Set De Prisoners Free (Word Sound ''Ave Power: Dub Poets And Dub)'
+  - Life And Debt (Life Squared)
+  - The Monkey (Life Squared)
+  - Spirituality (Life Squared)
+  - Dream Girl (Life Squared)
+  - 'Out Of Many One (Word Sound ''Ave Power: Dub Poets And Dub)'
+  - War A Gwaan Dung Deh (Life Squared)
+  - Time We Realize (Life Squared)
+  - Dis Poem - Remix (Life Squared)
+  - The Science of Agriculture (Food War)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a81dde75-8a81-40aa-ba73-cad6d3dd9ed9
-  spotify: https://open.spotify.com/artist/7vK5MA4eApnIKFxImHssQP
-  wikipedia: https://en.wikipedia.org/wiki/Mutabaruka
+  musicbrainz: 'https://musicbrainz.org/artist/a81dde75-8a81-40aa-ba73-cad6d3dd9ed9'
+  spotify: 'https://open.spotify.com/artist/7vK5MA4eApnIKFxImHssQP'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mutabaruka'
 image_path: 03_Resources/source_material/ArtistPortraits/mutabaruka.jpg
 biography_enhanced_at: '2025-10-27T02:47:21.151218'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Mutabaruka
-- https://www.uvm.edu/~debate/dreadlibrary/Bell.htm
-- https://www.youtube.com/watch?v=669zGQ5RmZY
-- https://culturalworkersbureau.net/mutabaruka/
-- https://jamaica-gleaner.com/article/news/20240301/mutabaruka-verbal-swordsman
+  - 'https://en.wikipedia.org/wiki/Mutabaruka'
+  - 'https://www.uvm.edu/~debate/dreadlibrary/Bell.htm'
+  - 'https://www.youtube.com/watch?v=669zGQ5RmZY'
+  - 'https://culturalworkersbureau.net/mutabaruka/'
+  - >-
+    https://jamaica-gleaner.com/article/news/20240301/mutabaruka-verbal-swordsman
 network_extracted: true
 entry_created: '2025-10-27T02:47:21.151241'
 last_updated: '2025-12-23T08:16:13.381387'
 gender: Male
 musicbrainz_id: a81dde75-8a81-40aa-ba73-cad6d3dd9ed9
 tags:
-- dub poetry
-- reggae
+  - dub poetry
+  - reggae
 ---
 
 ![](mutabaruka.jpg)

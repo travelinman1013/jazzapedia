@@ -3,13 +3,13 @@ title: June GArdner
 wiki_slug: june-gardner
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, USA'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/june_gardner.jpg
   caption: June GArdner
   background: solo_singer
-  origin: New Orleans, Louisiana, USA
+  origin: 'New Orleans, Louisiana, USA'
 audio_profile:
   tempo_avg: 120.1
   energy_avg: 0.483
@@ -25,54 +25,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lil Green
-  - Edgar Blanchard & the Gondoliers
-  - Roy Brown
-  - Sam Cooke
-  - Lee Dorsey
-  - Dave Bartholomew
-  - Lionel Hampton
-  - Alvin Tyler
-  - David Torkanowsky
-  - Germain Bazzle
+    - Lil Green
+    - Edgar Blanchard & the Gondoliers
+    - Roy Brown
+    - Sam Cooke
+    - Lee Dorsey
+    - Dave Bartholomew
+    - Lionel Hampton
+    - Alvin Tyler
+    - David Torkanowsky
+    - Germain Bazzle
   influenced:
-  - New Orleans drummers and R&B musicians
+    - New Orleans drummers and R&B musicians
   mentors:
-  - Professor Valmont Victor
+    - Professor Valmont Victor
 spotify_data:
   followers: 6
   id: 4xy7kqfv1hl9lhwYTrcmVv
   popularity: 0
-  url: https://open.spotify.com/artist/4xy7kqfv1hl9lhwYTrcmVv
+  url: 'https://open.spotify.com/artist/4xy7kqfv1hl9lhwYTrcmVv'
 discography_enriched: true
 top_tracks:
-- 'Mass in B Minor, BWV 232 (Excerpts): No. 6, Laudamus te (Mozart, J.S. Bach, Schumann & Others: Works)'
-- 'Mass in B Minor, BWV 232 (Excerpts): No. 6, Laudamus te (Mozart, J.S. Bach, Schumann & Others: Works)'
-- Tennessee Waltz (A) (New Orleans' Funkiest Delicacies)
-- 99 Plus One (99 Plus One)
-- Last Night (99 Plus One)
-- Hammerhead (99 Plus One)
-- One Mint Julep (99 Plus One)
-- Hot Seat (99 Plus One)
-- Mustard Greens (99 Plus One)
-- It's Gonna Rain (99 Plus One)
+  - >-
+    Mass in B Minor, BWV 232 (Excerpts): No. 6, Laudamus te (Mozart, J.S. Bach,
+    Schumann & Others: Works)
+  - >-
+    Mass in B Minor, BWV 232 (Excerpts): No. 6, Laudamus te (Mozart, J.S. Bach,
+    Schumann & Others: Works)
+  - Tennessee Waltz (A) (New Orleans' Funkiest Delicacies)
+  - 99 Plus One (99 Plus One)
+  - Last Night (99 Plus One)
+  - Hammerhead (99 Plus One)
+  - One Mint Julep (99 Plus One)
+  - Hot Seat (99 Plus One)
+  - Mustard Greens (99 Plus One)
+  - It's Gonna Rain (99 Plus One)
 external_urls:
-  spotify: https://open.spotify.com/artist/4xy7kqfv1hl9lhwYTrcmVv
+  spotify: 'https://open.spotify.com/artist/4xy7kqfv1hl9lhwYTrcmVv'
   wikipedia: null
 image_path: ''
 biography_enhanced_at: '2025-11-02T07:25:03.012871'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://inabluemood.blogspot.com/2010/11/rip-june-gardner-1930-2010.html
-- https://www.musicvf.com/June+Gardner.alb
-- https://www.last.fm/music/June+Gardner
-- https://www.wwoz.org/482-albert-gentleman-june-gardner
-- https://www.findagrave.com/memorial/62286994/albert_samuel-gardner
-- https://drummerszone.com/artists/albert-gentleman-june-gardner-sr/13221/profile/
+  - 'http://inabluemood.blogspot.com/2010/11/rip-june-gardner-1930-2010.html'
+  - 'https://www.musicvf.com/June+Gardner.alb'
+  - 'https://www.last.fm/music/June+Gardner'
+  - 'https://www.wwoz.org/482-albert-gentleman-june-gardner'
+  - 'https://www.findagrave.com/memorial/62286994/albert_samuel-gardner'
+  - >-
+    https://drummerszone.com/artists/albert-gentleman-june-gardner-sr/13221/profile/
 network_extracted: true
 entry_created: '2025-11-02T07:25:03.012910'
 last_updated: '2025-12-23T08:16:11.052930'
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1930-12-31'
+artist_type: person
 ---
 
 ![]()

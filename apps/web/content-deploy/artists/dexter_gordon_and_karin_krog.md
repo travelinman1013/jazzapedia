@@ -4,10 +4,11 @@ wiki_slug: dexter-gordon-karin-krog
 schema_version: 2
 status: active
 genres:
-- bebop
-- hard bop
+  - bebop
+  - hard bop
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/dexter_gordon_and_karin_krog.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/dexter_gordon_and_karin_krog.jpg
   caption: Dexter Gordon & Karin Krog
   background: solo_singer
 audio_profile:
@@ -25,49 +26,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kenny Drew
-  - Kjell Karlsen
-  - John Surman
-  - Steve Kuhn
+    - Kenny Drew
+    - Kjell Karlsen
+    - John Surman
+    - Steve Kuhn
   influenced:
-  - John Coltrane
-  - Sonny Rollins
+    - John Coltrane
+    - Sonny Rollins
   mentors:
-  - Anne Brown
-  - Lester Young
+    - Anne Brown
+    - Lester Young
 spotify_data:
   followers: 2132
   id: 4jDwy0eEfWolwxMAeWeaik
   popularity: 18
-  url: https://open.spotify.com/artist/4jDwy0eEfWolwxMAeWeaik
+  url: 'https://open.spotify.com/artist/4jDwy0eEfWolwxMAeWeaik'
 discography_enriched: true
 top_tracks:
-- Daddy Plays the Horn (Dexter Gordon Quartet)
-- Confirmation (Daddy Plays the Horn (Remastered 2013))
-- Number Four (Daddy Plays the Horn (Remastered 2013))
-- Autumn in New York (Dexter Gordon Quartet)
-- Daddy Plays the Horn (Daddy Plays the Horn (Remastered 2013))
-- Autumn in New York (Daddy Plays the Horn (Remastered 2013))
-- Darn That Dream (Daddy Plays the Horn (Remastered 2013))
-- As Time Goes By (Jazz Moods - 'Round Midnight)
-- You Can Depend On Me (Daddy Plays the Horn (Remastered 2013))
-- Have Yourself a Merry Little Christmas - Long Version (Gotham City)
+  - Daddy Plays the Horn (Dexter Gordon Quartet)
+  - Confirmation (Daddy Plays the Horn (Remastered 2013))
+  - Number Four (Daddy Plays the Horn (Remastered 2013))
+  - Autumn in New York (Dexter Gordon Quartet)
+  - Daddy Plays the Horn (Daddy Plays the Horn (Remastered 2013))
+  - Autumn in New York (Daddy Plays the Horn (Remastered 2013))
+  - Darn That Dream (Daddy Plays the Horn (Remastered 2013))
+  - As Time Goes By (Jazz Moods - 'Round Midnight)
+  - You Can Depend On Me (Daddy Plays the Horn (Remastered 2013))
+  - Have Yourself a Merry Little Christmas - Long Version (Gotham City)
 external_urls:
-  spotify: https://open.spotify.com/artist/4jDwy0eEfWolwxMAeWeaik
-  wikipedia: https://en.wikipedia.org/wiki/Dexter_Gordon
+  spotify: 'https://open.spotify.com/artist/4jDwy0eEfWolwxMAeWeaik'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dexter_Gordon'
 image_path: 03_Resources/source_material/ArtistPortraits/dexter_gordon_and_karin_krog.jpg
 biography_enhanced_at: '2025-12-04T07:46:06.607995'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://karinkrog.no/biography/
-- https://en.wikipedia.org/wiki/Karin_Krog
-- https://en.wikipedia.org/wiki/Dexter_Gordon
-- https://www.allaboutjazz.com/news/dexter-gordon-and-karin-krog/
-- https://jazzleadsheets.com/artists/karin-krog-artist.html
+  - 'https://karinkrog.no/biography/'
+  - 'https://en.wikipedia.org/wiki/Karin_Krog'
+  - 'https://en.wikipedia.org/wiki/Dexter_Gordon'
+  - 'https://www.allaboutjazz.com/news/dexter-gordon-and-karin-krog/'
+  - 'https://jazzleadsheets.com/artists/karin-krog-artist.html'
 network_extracted: true
 entry_created: '2025-12-04T07:46:06.608004'
 last_updated: '2025-12-23T08:16:07.734040'
+birth_place: 'Los Angeles, California, United States'
+origin: >-
+  Dexter Gordon: Los Angeles, California, USA (primary base); Karin Krog: Oslo,
+  Norway
+birth_date: '1937-05-15'
+death_date: '1990-04-25'
+artist_type: person
 ---
 
 ![](dexter_gordon_and_karin_krog.jpg)

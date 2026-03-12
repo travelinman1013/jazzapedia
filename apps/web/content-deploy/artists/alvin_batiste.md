@@ -1,25 +1,25 @@
 ---
-title: ALVIN BATISTE
+title: Alvin Batiste
 wiki_slug: alvin-batiste
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1932-11-07'
-birth_place: New Orleans
+birth_place: 'New Orleans, Louisiana, United States'
 death_date: '2007-05-06'
 genres:
-- free jazz
+  - free jazz
 instruments:
-- bass clarinet
-- original
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - bass clarinet
   - original
-  mbid: 0d5ef96a-b897-426f-b076-258d23eb8155
-  name: The Clarinet Summit
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - bass clarinet
+      - original
+    mbid: 0d5ef96a-b897-426f-b076-258d23eb8155
+    name: The Clarinet Summit
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/alvin_batiste.jpg
   caption: ALVIN BATISTE
@@ -34,7 +34,7 @@ audio_profile:
   danceability_avg: 0.503
   acousticness_avg: 0.743
   instrumentalness_avg: 0.307
-  loudness_avg: -16.0
+  loudness_avg: -16
   speechiness_avg: 0.066
   liveness_avg: 0.152
   track_count: 50
@@ -42,60 +42,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ed Blackwell
-  - Ornette Coleman
-  - Ray Charles
-  - Ellis Marsalis
-  - Clarinet Summit (John Carter, David Murray, Jimmy Hamilton)
-  - Branford Marsalis
+    - Ed Blackwell
+    - Ornette Coleman
+    - Ray Charles
+    - Ellis Marsalis
+    - 'Clarinet Summit (John Carter, David Murray, Jimmy Hamilton)'
+    - Branford Marsalis
   influenced:
-  - Branford Marsalis
-  - Henry Butler
-  - Jazztronauts (student ensemble)
+    - Branford Marsalis
+    - Henry Butler
+    - Jazztronauts (student ensemble)
   mentors:
-  - Batiste's father
-  - Charlie Parker
-  - Sidney Bechet
+    - Batiste's father
+    - Charlie Parker
+    - Sidney Bechet
 spotify_data:
   followers: 662
   id: 64hLoFHeSiExreoq4ASPxg
   popularity: 6
-  url: https://open.spotify.com/artist/64hLoFHeSiExreoq4ASPxg
+  url: 'https://open.spotify.com/artist/64hLoFHeSiExreoq4ASPxg'
 discography_enriched: true
 top_tracks:
-- Everloving Star (Marsalis Music Honors Series)
-- Picou (Songs, Words and Messages Connections)
-- Cochise (Blues at Thirty-Five)
-- Edith (Marsalis Music Honors Series)
-- Everloving Star (Marsalis Music Honors Alvin Batiste)
-- Punchin' (Gulf Coast Jazz, Vol.. 1)
-- Nevermore (Gulf Coast Jazz, Vol.. 1)
-- Bayou Magic (Bayou Magic)
-- Ode to Bechet (Songs, Words and Messages Connections)
-- Theme from D'afrique (Songs, Words and Messages Connections)
+  - Everloving Star (Marsalis Music Honors Series)
+  - 'Picou (Songs, Words and Messages Connections)'
+  - Cochise (Blues at Thirty-Five)
+  - Edith (Marsalis Music Honors Series)
+  - Everloving Star (Marsalis Music Honors Alvin Batiste)
+  - 'Punchin'' (Gulf Coast Jazz, Vol.. 1)'
+  - 'Nevermore (Gulf Coast Jazz, Vol.. 1)'
+  - Bayou Magic (Bayou Magic)
+  - 'Ode to Bechet (Songs, Words and Messages Connections)'
+  - 'Theme from D''afrique (Songs, Words and Messages Connections)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/21012a9a-b45c-4dcd-94f7-1e98df38df4e
-  spotify: https://open.spotify.com/artist/64hLoFHeSiExreoq4ASPxg
-  wikipedia: https://en.wikipedia.org/wiki/Alvin_Batiste
+  musicbrainz: 'https://musicbrainz.org/artist/21012a9a-b45c-4dcd-94f7-1e98df38df4e'
+  spotify: 'https://open.spotify.com/artist/64hLoFHeSiExreoq4ASPxg'
+  wikipedia: 'https://en.wikipedia.org/wiki/Alvin_Batiste'
 image_path: 03_Resources/source_material/ArtistPortraits/alvin_batiste.jpg
 biography_enhanced_at: '2025-11-04T11:00:34.776062'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://alvinbatiste.net/bio.htm
-- https://www.ebsco.com/research-starters/biography/alvin-batiste
-- https://www.latimes.com/archives/la-xpm-2007-may-07-me-batiste7-story.html
-- https://louisarmstrongjazzcamp.com/dt_team/batiste/
-- https://64parishes.org/entry/alvin-batiste
+  - 'http://alvinbatiste.net/bio.htm'
+  - 'https://www.ebsco.com/research-starters/biography/alvin-batiste'
+  - 'https://www.latimes.com/archives/la-xpm-2007-may-07-me-batiste7-story.html'
+  - 'https://louisarmstrongjazzcamp.com/dt_team/batiste/'
+  - 'https://64parishes.org/entry/alvin-batiste'
 network_extracted: true
 entry_created: '2025-11-04T11:00:34.776095'
 last_updated: '2025-12-23T08:16:04.639589'
 gender: Male
 musicbrainz_id: 21012a9a-b45c-4dcd-94f7-1e98df38df4e
 tags:
-- avant-garde jazz
-- bebop
-- jazz
+  - avant-garde jazz
+  - bebop
+  - jazz
+is_active: false
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](alvin_batiste.jpg)

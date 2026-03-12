@@ -1,74 +1,76 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d8915e13-d67a-4aa0-9c0b-1f126af951af
-  name: Hot Chip
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 61c156ae-25ab-4df5-923b-087208d0a92d
-  name: The 2 Bears
-- begin: ''
-  end: ''
-  instruments:
-  - analog synthesizer
-  mbid: 08fc8d79-b6bd-4b05-98ef-61b7087f714b
-  name: A Pulse Train
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: eec45d56-4669-47c8-ba4f-b4a346fe950b
-  name: HARD FEELINGS
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d8915e13-d67a-4aa0-9c0b-1f126af951af
+    name: Hot Chip
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 61c156ae-25ab-4df5-923b-087208d0a92d
+    name: The 2 Bears
+  - begin: ''
+    end: ''
+    instruments:
+      - analog synthesizer
+    mbid: 08fc8d79-b6bd-4b05-98ef-61b7087f714b
+    name: A Pulse Train
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: eec45d56-4669-47c8-ba4f-b4a346fe950b
+    name: HARD FEELINGS
 biography_enhanced_at: '2026-01-21T01:11:41.527656'
 birth_date: '1973'
-birth_place: London
+birth_place: 'London, England, United Kingdom'
 enhancement_provider: perplexity
 entry_created: '2026-01-21T01:11:41.527662'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/cfe625e1-a5ce-4c48-a4a4-d781c44fb64f
-  spotify: https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5
+  musicbrainz: 'https://musicbrainz.org/artist/cfe625e1-a5ce-4c48-a4a4-d781c44fb64f'
+  spotify: 'https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5'
   wikipedia: Not found in search results
 gender: Male
 genres:
-- indie soul
+  - indie soul
 image_path: 03_Resources/source_material/ArtistPortraits/joe_goddard.jpg
 instruments:
-- analog synthesizer
-- original
-- background vocals
+  - analog synthesizer
+  - original
+  - background vocals
 last_updated: '2026-01-21T01:11:41.527663'
 musical_connections:
   collaborators:
-  - Alexis Taylor
-  - Raf Rundell
-  - Bravo
+    - Alexis Taylor
+    - Raf Rundell
+    - Bravo
   influenced:
-  - Nneka
+    - Nneka
   mentors:
-  - Pete Rock
-  - Kieran Hebden (Four Tet)
+    - Pete Rock
+    - Kieran Hebden (Four Tet)
 musicbrainz_id: cfe625e1-a5ce-4c48-a4a4-d781c44fb64f
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.thefader.com/2013/06/15/beat-construction-joe-goddard
-- https://defected.com/news/post/joe-goddard-labours-love
-- https://www.redbullmusicacademy.com/lectures/joe-goddard-freestyle-fellow/
-- https://thecreativeindependent.com/people/joe-goddard
-- https://observer.co.uk/culture/on-my-radar/article/joe-goddards-cultural-highlights
+  - 'https://www.thefader.com/2013/06/15/beat-construction-joe-goddard'
+  - 'https://defected.com/news/post/joe-goddard-labours-love'
+  - 'https://www.redbullmusicacademy.com/lectures/joe-goddard-freestyle-fellow/'
+  - 'https://thecreativeindependent.com/people/joe-goddard'
+  - >-
+    https://observer.co.uk/culture/on-my-radar/article/joe-goddards-cultural-highlights
 spotify_data:
   followers: 112756
   id: 380fnmlGnkyueBMqGWx2k5
   popularity: 47
-  url: https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5
+  url: 'https://open.spotify.com/artist/380fnmlGnkyueBMqGWx2k5'
 status: active
 tags:
-- electronic
+  - electronic
 title: Joe Goddard
+origin: 'London, England, United Kingdom'
 ---
 
 ![](joe_goddard.jpg)

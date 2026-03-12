@@ -1,82 +1,85 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '1998'
-  end: ''
-  instruments: []
-  mbid: a3c93d6c-321b-4ee3-9004-8bf8ce2311a3
-  name: Los Hombres Calientes
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: eb2006c7-b23e-4057-a48f-1894c4ce8f27
-  name: Irvin Mayfield Sextet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: fbb8af11-8fb7-4d79-adba-18aecf0882b7
-  name: Irvin Mayfield Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: 8ead0eff-2cfe-41bc-9a38-c1500180b035
-  name: The Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8e4e3f1e-7cce-4f32-9d01-626322e3ecc7
-  name: New Orleans Jazz Orchestra
+  - begin: '1998'
+    end: ''
+    instruments: []
+    mbid: a3c93d6c-321b-4ee3-9004-8bf8ce2311a3
+    name: Los Hombres Calientes
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: eb2006c7-b23e-4057-a48f-1894c4ce8f27
+    name: Irvin Mayfield Sextet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: fbb8af11-8fb7-4d79-adba-18aecf0882b7
+    name: Irvin Mayfield Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: 8ead0eff-2cfe-41bc-9a38-c1500180b035
+    name: The Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8e4e3f1e-7cce-4f32-9d01-626322e3ecc7
+    name: New Orleans Jazz Orchestra
 biography_enhanced_at: '2026-01-16T01:41:49.785983'
 birth_date: '1977-12-23'
-birth_place: New Orleans
+birth_place: 'New Orleans, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-16T01:41:49.785988'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4aa93ee7-7a97-41e8-8940-565c1a3e7bae
-  spotify: https://open.spotify.com/artist/3KPhuwIRX6o7D2cFi13MhH
-  wikipedia: https://en.wikipedia.org/wiki/Irvin_Mayfield
+  musicbrainz: 'https://musicbrainz.org/artist/4aa93ee7-7a97-41e8-8940-565c1a3e7bae'
+  spotify: 'https://open.spotify.com/artist/3KPhuwIRX6o7D2cFi13MhH'
+  wikipedia: 'https://en.wikipedia.org/wiki/Irvin_Mayfield'
 gender: Male
 genres:
-- brass band
-- vocal jazz
+  - brass band
+  - vocal jazz
 image_path: 03_Resources/source_material/ArtistPortraits/irvin_mayfield.jpg
 instruments:
-- original
-- trumpet
+  - original
+  - trumpet
 last_updated: '2026-01-16T01:41:49.785989'
 musical_connections:
   collaborators:
-  - Jason Marsalis
-  - Bill Summers
-  - Wynton Marsalis
-  - Victor Atkins
-  - Ed 'Sweetbread' Petersen
+    - Jason Marsalis
+    - Bill Summers
+    - Wynton Marsalis
+    - Victor Atkins
+    - Ed 'Sweetbread' Petersen
   influenced:
-  - Students at Dillard University and University of New Orleans
+    - Students at Dillard University and University of New Orleans
   mentors:
-  - Ellis Marsalis
+    - Ellis Marsalis
 musicbrainz_id: 4aa93ee7-7a97-41e8-8940-565c1a3e7bae
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://aaregistry.org/story/young-gifted-and-black-irvin-mayfield-jr/
-- https://en.wikipedia.org/wiki/Irvin_Mayfield
-- https://www.allaboutjazz.com/musicians/irvin-mayfield/
-- https://frenchquarterly.com/music/irvin-mayfield-cultural-ambassador-new-orleans
-- https://www.arts.gov/stories/magazine/2014/2/story-our-culture-artists-place-community/irvin-mayfield
+  - 'https://aaregistry.org/story/young-gifted-and-black-irvin-mayfield-jr/'
+  - 'https://en.wikipedia.org/wiki/Irvin_Mayfield'
+  - 'https://www.allaboutjazz.com/musicians/irvin-mayfield/'
+  - >-
+    https://frenchquarterly.com/music/irvin-mayfield-cultural-ambassador-new-orleans
+  - >-
+    https://www.arts.gov/stories/magazine/2014/2/story-our-culture-artists-place-community/irvin-mayfield
 spotify_data:
   followers: 2968
   id: 3KPhuwIRX6o7D2cFi13MhH
   popularity: 24
-  url: https://open.spotify.com/artist/3KPhuwIRX6o7D2cFi13MhH
+  url: 'https://open.spotify.com/artist/3KPhuwIRX6o7D2cFi13MhH'
 status: active
 tags:
-- dixieland
-- jazz
-- post-bop
+  - dixieland
+  - jazz
+  - post-bop
 title: Irvin Mayfield
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](irvin_mayfield.jpg)

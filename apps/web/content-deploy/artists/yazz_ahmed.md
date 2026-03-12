@@ -5,11 +5,11 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1983'
-birth_place: Carshalton
+birth_place: 'Carshalton, England, United Kingdom'
 genres:
-- nu jazz
-- indie jazz
-- jazz
+  - nu jazz
+  - indie jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/yazz_ahmed.jpg
   caption: Yazz Ahmed
@@ -31,57 +31,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Radiohead
-  - Lee Scratch Perry
-  - These New Puritans
-  - Arturo O’Farrill’s Afro Latin Jazz Orchestra
-  - Janek Gwizdala
+    - Radiohead
+    - Lee Scratch Perry
+    - These New Puritans
+    - Arturo O’Farrill’s Afro Latin Jazz Orchestra
+    - Janek Gwizdala
   influenced:
-  - Numerous young jazz musicians, especially women and those of Middle Eastern heritage
+    - >-
+      Numerous young jazz musicians, especially women and those of Middle
+      Eastern heritage
   mentors:
-  - Terry (maternal grandfather)
-  - Kenny Wheeler
-  - Dizzy Gillespie, Miles Davis, Tubby Hayes
+    - Terry (maternal grandfather)
+    - Kenny Wheeler
+    - 'Dizzy Gillespie, Miles Davis, Tubby Hayes'
 spotify_data:
   followers: 34125
   id: 1srvW9AP2k4GLhS3hlC3IN
   popularity: 30
-  url: https://open.spotify.com/artist/1srvW9AP2k4GLhS3hlC3IN
+  url: 'https://open.spotify.com/artist/1srvW9AP2k4GLhS3hlC3IN'
 discography_enriched: true
 top_tracks:
-- Losing You
-- Losing You (Richard Russell Is Temporary)
-- No More Rehearsals (Richard Russell Is Temporary)
-- Into The Night
-- Though My Eyes Go To Sleep, My Heart Does Not Forget You (A Paradise In The Hold)
-- Bloom (La Saboteuse)
-- Carry Me
-- She Stands On the Shore (A Paradise In The Hold)
-- A Paradise In The Hold (A Paradise In The Hold)
-- Chandler (Honk If You're Sad)
+  - Losing You
+  - Losing You (Richard Russell Is Temporary)
+  - No More Rehearsals (Richard Russell Is Temporary)
+  - Into The Night
+  - >-
+    Though My Eyes Go To Sleep, My Heart Does Not Forget You (A Paradise In The
+    Hold)
+  - Bloom (La Saboteuse)
+  - Carry Me
+  - She Stands On the Shore (A Paradise In The Hold)
+  - A Paradise In The Hold (A Paradise In The Hold)
+  - Chandler (Honk If You're Sad)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/67b47219-58b2-4a22-893c-58b449f5219c
-  spotify: https://open.spotify.com/artist/1srvW9AP2k4GLhS3hlC3IN
-  wikipedia: https://en.wikipedia.org/wiki/Yazz_Ahmed
+  musicbrainz: 'https://musicbrainz.org/artist/67b47219-58b2-4a22-893c-58b449f5219c'
+  spotify: 'https://open.spotify.com/artist/1srvW9AP2k4GLhS3hlC3IN'
+  wikipedia: 'https://en.wikipedia.org/wiki/Yazz_Ahmed'
 image_path: 03_Resources/source_material/ArtistPortraits/yazz_ahmed.jpg
 biography_enhanced_at: '2025-10-27T02:53:17.808705'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.yazzahmed.com/about-me/
-- https://londonjazznews.com/2020/03/06/iwd2020-yazz-ahmed-trumpeter-and-composer/
-- https://scenenoise.com/Features/building-bridges-between-cultures-psychedelic-arabic-jazz-yazz-ahmed
-- https://www.goodmusiccompany.com/wp-content/uploads/2019/07/BIO-YAZZ-AHMED.pdf
-- https://www.azeemamag.com/stories/yazz-ahmed
+  - 'https://www.yazzahmed.com/about-me/'
+  - >-
+    https://londonjazznews.com/2020/03/06/iwd2020-yazz-ahmed-trumpeter-and-composer/
+  - >-
+    https://scenenoise.com/Features/building-bridges-between-cultures-psychedelic-arabic-jazz-yazz-ahmed
+  - >-
+    https://www.goodmusiccompany.com/wp-content/uploads/2019/07/BIO-YAZZ-AHMED.pdf
+  - 'https://www.azeemamag.com/stories/yazz-ahmed'
 network_extracted: true
 entry_created: '2025-10-27T02:53:17.808721'
 last_updated: '2025-12-23T08:16:18.323667'
 gender: Female
 musicbrainz_id: 67b47219-58b2-4a22-893c-58b449f5219c
 tags:
-- arabic
-- arabic jazz
-- experimental
+  - arabic
+  - arabic jazz
+  - experimental
 ---
 
 ![](yazz_ahmed.jpg)

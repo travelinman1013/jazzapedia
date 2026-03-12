@@ -3,40 +3,48 @@ biography_enhanced_at: '2026-01-21T01:14:33.146462'
 enhancement_provider: perplexity
 entry_created: '2026-01-21T01:14:33.146468'
 external_urls:
-  spotify: https://open.spotify.com/artist/3b5nT2xx5jbjaYuQJWhZG7
-  wikipedia: https://en.wikipedia.org/wiki/Jim_Kweskin
+  spotify: 'https://open.spotify.com/artist/3b5nT2xx5jbjaYuQJWhZG7'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jim_Kweskin'
 genres:
-- country blues
+  - country blues
 image_path: 03_Resources/source_material/ArtistPortraits/samoa_wilson_and_jim_kweskin.jpg
 last_updated: '2026-01-21T01:14:33.146468'
 musical_connections:
   collaborators:
-  - Jim Kweskin
-  - Matthew Berlin
-  - Titus Vollmer
-  - Mike Davis
-  - Paloma Ohm
-  - Dennis Lichtman
-  - Sonny Barbato
+    - Jim Kweskin
+    - Matthew Berlin
+    - Titus Vollmer
+    - Mike Davis
+    - Paloma Ohm
+    - Dennis Lichtman
+    - Sonny Barbato
   influenced: []
   mentors:
-  - Jim Kweskin
+    - Jim Kweskin
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.makingascene.org/samoa-wilson-with-the-jim-kweskin-band-i-just-want-to-be-horizontal/
-- https://concord.com/artist/jim-kweskin/
-- https://en.wikipedia.org/wiki/Jim_Kweskin
-- https://syncopatedtimes.com/samoa-wilson-with-the-jim-kweskin-band-i-just-want-to-be-horizontal/
-- https://www.passim.org/artists/samoa-wilson/
-- https://jimkweskin.com/press.htm
+  - >-
+    https://www.makingascene.org/samoa-wilson-with-the-jim-kweskin-band-i-just-want-to-be-horizontal/
+  - 'https://concord.com/artist/jim-kweskin/'
+  - 'https://en.wikipedia.org/wiki/Jim_Kweskin'
+  - >-
+    https://syncopatedtimes.com/samoa-wilson-with-the-jim-kweskin-band-i-just-want-to-be-horizontal/
+  - 'https://www.passim.org/artists/samoa-wilson/'
+  - 'https://jimkweskin.com/press.htm'
 spotify_data:
   followers: 2710
   id: 3b5nT2xx5jbjaYuQJWhZG7
   popularity: 20
-  url: https://open.spotify.com/artist/3b5nT2xx5jbjaYuQJWhZG7
+  url: 'https://open.spotify.com/artist/3b5nT2xx5jbjaYuQJWhZG7'
 status: active
 title: Samoa Wilson & Jim Kweskin
+birth_place: 'Stamford, Connecticut, United States'
+origin: >-
+  Boston, Massachusetts, United States (Samoa Wilson's base); Stamford,
+  Connecticut, United States (Jim Kweskin's birthplace)
+birth_date: '1940-07-18'
+artist_type: person
 ---
 
 ![](samoa_wilson_and_jim_kweskin.jpg)

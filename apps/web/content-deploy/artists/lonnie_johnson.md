@@ -1,57 +1,57 @@
 ---
-title: lonnie johnson
+title: Lonnie Johnson
 wiki_slug: lonnie-johnson
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1899-02-08'
-birth_place: New Orleans
+birth_place: 'New Orleans, Louisiana, United States'
 death_date: '1970-06-16'
 genres:
-- blues
-- country blues
-- classic blues
-- jazz blues
-- ragtime
+  - blues
+  - country blues
+  - classic blues
+  - jazz blues
+  - ragtime
 instruments:
-- additional
-- guitar
-- lead vocals
-- violin
-- acoustic guitar
-- piano
-- electric guitar
-- vocal
-associated_acts:
-- begin: '1927-12-10'
-  end: '1927-12-13'
-  instruments:
   - additional
-  mbid: cfedde14-91c5-46cb-b087-9f2da9bec194
-  name: Louis Armstrong and His Hot Five
-- begin: ''
-  end: ''
-  instruments:
   - guitar
-  mbid: 86d6d1e3-8ce8-4b4b-bca9-ce7b0e93172a
-  name: Charles Creath’s Jazz‐O‐Maniacs
-- begin: ''
-  end: ''
-  instruments:
   - lead vocals
-  mbid: 86d6d1e3-8ce8-4b4b-bca9-ce7b0e93172a
-  name: Charles Creath’s Jazz‐O‐Maniacs
-- begin: ''
-  end: ''
-  instruments:
   - violin
-  mbid: 86d6d1e3-8ce8-4b4b-bca9-ce7b0e93172a
-  name: Charles Creath’s Jazz‐O‐Maniacs
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 70ace004-d960-4575-a41b-eb36ce662944
-  name: Blind Willie Dunn’s Gin Bottle Four
+  - acoustic guitar
+  - piano
+  - electric guitar
+  - vocal
+associated_acts:
+  - begin: '1927-12-10'
+    end: '1927-12-13'
+    instruments:
+      - additional
+    mbid: cfedde14-91c5-46cb-b087-9f2da9bec194
+    name: Louis Armstrong and His Hot Five
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 86d6d1e3-8ce8-4b4b-bca9-ce7b0e93172a
+    name: Charles Creath’s Jazz‐O‐Maniacs
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: 86d6d1e3-8ce8-4b4b-bca9-ce7b0e93172a
+    name: Charles Creath’s Jazz‐O‐Maniacs
+  - begin: ''
+    end: ''
+    instruments:
+      - violin
+    mbid: 86d6d1e3-8ce8-4b4b-bca9-ce7b0e93172a
+    name: Charles Creath’s Jazz‐O‐Maniacs
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 70ace004-d960-4575-a41b-eb36ce662944
+    name: Blind Willie Dunn’s Gin Bottle Four
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lonnie_johnson.jpg
   caption: lonnie johnson
@@ -66,7 +66,7 @@ audio_profile:
   danceability_avg: 0.581
   acousticness_avg: 0.921
   instrumentalness_avg: 0.227
-  loudness_avg: -16.0
+  loudness_avg: -16
   speechiness_avg: 0.054
   liveness_avg: 0.148
   track_count: 53
@@ -74,48 +74,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - James 'Steady Roll' Johnson
-  - Louis Armstrong
-  - Duke Ellington
-  - Victoria Spivey
-  - Eddie Lang
+    - James 'Steady Roll' Johnson
+    - Louis Armstrong
+    - Duke Ellington
+    - Victoria Spivey
+    - Eddie Lang
   influenced:
-  - B.B. King
-  - T-Bone Walker
-  - Robert Johnson
+    - B.B. King
+    - T-Bone Walker
+    - Robert Johnson
   mentors:
-  - Johnson family (father and siblings)
+    - Johnson family (father and siblings)
 spotify_data:
   followers: 33265
   id: 74g0xdNndEjFzMKSRFUMNM
   popularity: 26
-  url: https://open.spotify.com/artist/74g0xdNndEjFzMKSRFUMNM
+  url: 'https://open.spotify.com/artist/74g0xdNndEjFzMKSRFUMNM'
 discography_enriched: true
 top_tracks:
-- Some Day Baby (Chicago Blues)
-- I'm Not Rough (Guitar Blues)
-- The Mooche (Playing With The Strings)
-- St. Louis Blues (Blues & Ballads)
-- Looking for a Sweetie (The Complete Folkways Recordings)
-- Jet Black Blues (Playing With The Strings)
-- I'm Not Rough (Playing With The Strings)
-- Tears Don't Fall No More (The Complete Folkways Recordings)
-- Another Night To Cry (Another Night To Cry)
-- 'Moaning Blues (The Vinyl Masters: Losing Game)'
+  - Some Day Baby (Chicago Blues)
+  - I'm Not Rough (Guitar Blues)
+  - The Mooche (Playing With The Strings)
+  - St. Louis Blues (Blues & Ballads)
+  - Looking for a Sweetie (The Complete Folkways Recordings)
+  - Jet Black Blues (Playing With The Strings)
+  - I'm Not Rough (Playing With The Strings)
+  - Tears Don't Fall No More (The Complete Folkways Recordings)
+  - Another Night To Cry (Another Night To Cry)
+  - 'Moaning Blues (The Vinyl Masters: Losing Game)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/dbfd61ef-fce1-4803-9f18-7bfdd3996508
-  spotify: https://open.spotify.com/artist/74g0xdNndEjFzMKSRFUMNM
-  wikipedia: https://en.wikipedia.org/wiki/Lonnie_Johnson_(musician)
+  musicbrainz: 'https://musicbrainz.org/artist/dbfd61ef-fce1-4803-9f18-7bfdd3996508'
+  spotify: 'https://open.spotify.com/artist/74g0xdNndEjFzMKSRFUMNM'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lonnie_Johnson_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/lonnie_johnson.jpg
 biography_enhanced_at: '2025-11-04T11:10:26.818612'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.ebsco.com/research-starters/history/lonnie-johnson
-- https://missouriencyclopedia.org/people/johnson-alonzo-lonnie
-- https://blues.org/blues_hof_inductee/lonnie-johnson/
-- https://www.britannica.com/biography/Lonnie-Johnson
-- https://blog.line6.com/2022/02/22/jas-obrecht-lonnie-johnson-the-most-influential-blues-guitarist-ever/
+  - 'https://www.ebsco.com/research-starters/history/lonnie-johnson'
+  - 'https://missouriencyclopedia.org/people/johnson-alonzo-lonnie'
+  - 'https://blues.org/blues_hof_inductee/lonnie-johnson/'
+  - 'https://www.britannica.com/biography/Lonnie-Johnson'
+  - >-
+    https://blog.line6.com/2022/02/22/jas-obrecht-lonnie-johnson-the-most-influential-blues-guitarist-ever/
 network_extracted: true
 entry_created: '2025-11-04T11:10:26.818622'
 last_updated: '2025-12-23T08:16:12.087803'
@@ -123,9 +124,11 @@ disambiguation: American blues and jazz musician
 gender: Male
 musicbrainz_id: dbfd61ef-fce1-4803-9f18-7bfdd3996508
 tags:
-- acoustic blues
-- blues
-- country blues
+  - acoustic blues
+  - blues
+  - country blues
+is_active: false
+origin: 'St. Louis, Missouri, United States'
 ---
 
 ![](lonnie_johnson.jpg)

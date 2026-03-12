@@ -1,21 +1,22 @@
 ---
-title: ERSKINE HAWKINS AND HIS ORCHESTRA
+title: Erskine Hawkins and His Orchestra
 wiki_slug: erskine-hawkins-and-his-orchestra
 schema_version: 2
-artist_type: orchestra
+artist_type: band
 status: active
 genres:
-- swing music
-- big band
+  - swing music
+  - big band
 instruments:
-- trombone
-- trumpet
-- drums (drum set)
-- saxophone
-- alto saxophone
-- double bass
+  - trombone
+  - trumpet
+  - drums (drum set)
+  - saxophone
+  - alto saxophone
+  - double bass
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/erskine_hawkins_and_his_orchestra.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/erskine_hawkins_and_his_orchestra.jpg
   caption: ERSKINE HAWKINS AND HIS ORCHESTRA
   background: non_vocal_instrumentalist
 audio_profile:
@@ -33,122 +34,126 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dud Bascomb
-  - Paul Bascomb
-  - Julian Dash
-  - Haywood Henry
-  - Avery Parrish
-  - Sammy Lowe
-  - Ida James
-  - Delores Brown
-  - Della Reese
+    - Dud Bascomb
+    - Paul Bascomb
+    - Julian Dash
+    - Haywood Henry
+    - Avery Parrish
+    - Sammy Lowe
+    - Ida James
+    - Delores Brown
+    - Della Reese
   influenced:
-  - Ray Charles
+    - Ray Charles
   mentors:
-  - Fess Whatley
-  - J.B. Sims
+    - Fess Whatley
+    - J.B. Sims
 spotify_data:
   followers: 2545
   id: 3FwczlV7wkmHCYgGL86Ppi
   popularity: 19
-  url: https://open.spotify.com/artist/3FwczlV7wkmHCYgGL86Ppi
+  url: 'https://open.spotify.com/artist/3FwczlV7wkmHCYgGL86Ppi'
 discography_enriched: true
 top_tracks:
-- Tuxedo Junction (The Original Tuxedo Junction)
-- Tuxedo Junction (Tuxedo Junction)
-- Tippin' In - Digitally Mastered - September 1991 (Tuxedo Junction)
-- Rockin' Rollers' Jubilee (The Original Tuxedo Junction)
-- Tippin' In
-- Rockin' Rollers' Jubilee (Tuxedo Junction)
-- Tuxedo Junction
-- Tuxedo Junction
-- After Hours - Digitally Mastered - September 1991 (Tuxedo Junction)
-- Big-Wig in the Wigwam (The Original Tuxedo Junction)
+  - Tuxedo Junction (The Original Tuxedo Junction)
+  - Tuxedo Junction (Tuxedo Junction)
+  - Tippin' In - Digitally Mastered - September 1991 (Tuxedo Junction)
+  - Rockin' Rollers' Jubilee (The Original Tuxedo Junction)
+  - Tippin' In
+  - Rockin' Rollers' Jubilee (Tuxedo Junction)
+  - Tuxedo Junction
+  - Tuxedo Junction
+  - After Hours - Digitally Mastered - September 1991 (Tuxedo Junction)
+  - Big-Wig in the Wigwam (The Original Tuxedo Junction)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1fd74817-b3bf-4a70-bf44-14b00d6a4789
-  spotify: https://open.spotify.com/artist/3FwczlV7wkmHCYgGL86Ppi
-  wikipedia: https://en.wikipedia.org/wiki/Erskine_Hawkins
-image_path: 03_Resources/source_material/ArtistPortraits/erskine_hawkins_and_his_orchestra.jpg
+  musicbrainz: 'https://musicbrainz.org/artist/1fd74817-b3bf-4a70-bf44-14b00d6a4789'
+  spotify: 'https://open.spotify.com/artist/3FwczlV7wkmHCYgGL86Ppi'
+  wikipedia: 'https://en.wikipedia.org/wiki/Erskine_Hawkins'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/erskine_hawkins_and_his_orchestra.jpg
 biography_enhanced_at: '2025-11-20T06:34:24.865600'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.alamhof.org/erskinehawkins
-- https://encyclopediaofalabama.org/article/erskine-hawkins/
-- https://syncopatedtimes.com/erskine-hawkins-profiles-in-jazz/
-- https://laurawindley.com/2024/06/05/erskine-hawkins-orchestra-origins/
-- https://en.wikipedia.org/wiki/Erskine_Hawkins
+  - 'https://www.alamhof.org/erskinehawkins'
+  - 'https://encyclopediaofalabama.org/article/erskine-hawkins/'
+  - 'https://syncopatedtimes.com/erskine-hawkins-profiles-in-jazz/'
+  - 'https://laurawindley.com/2024/06/05/erskine-hawkins-orchestra-origins/'
+  - 'https://en.wikipedia.org/wiki/Erskine_Hawkins'
 network_extracted: true
 entry_created: '2025-11-20T06:34:24.865608'
 last_updated: '2025-12-23T08:16:08.460434'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: add05f51-f156-4f85-8f0a-5c158c643b18
-  name: Jimmy Harris
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5c2c3f4b-fc35-4851-971b-6baa5c114da0
-  name: Erskine Hawkins
-- begin: ''
-  end: ''
-  instruments:
-  - trombone
-  mbid: 69c43e93-4892-48fa-9f22-316fe3e3f91c
-  name: Raymond Hogan
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6262a2ce-e354-42f0-894c-666b3ae13eb6
-  name: Bob Johnson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: fdcb0822-cd65-4489-8744-29fb842f7de5
-  name: William Johnson
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: cce98ed1-adeb-4267-8c07-160d8ce5ee31
-  name: Charlie Jones
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 449b1f09-41c8-46b3-a1ee-dc94212b1b3b
-  name: Kelly Martin
-- begin: ''
-  end: ''
-  instruments:
-  - saxophone
-  mbid: 6b454410-2144-4be1-8768-71e6da87e0f1
-  name: Aaron Maxwell
-- begin: ''
-  end: ''
-  instruments:
-  - alto saxophone
-  mbid: 302d1afd-7cd5-488f-bcd3-3c02b6dae09e
-  name: Jimmy Mitchelle
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f63ff923-a367-4861-ba7f-a8790553420e
-  name: Robert Range
-- begin: ''
-  end: ''
-  instruments:
-  - double bass
-  mbid: c94b7a51-f039-434e-a04e-e124fd590b20
-  name: Lee Stanfield
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: add05f51-f156-4f85-8f0a-5c158c643b18
+    name: Jimmy Harris
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5c2c3f4b-fc35-4851-971b-6baa5c114da0
+    name: Erskine Hawkins
+  - begin: ''
+    end: ''
+    instruments:
+      - trombone
+    mbid: 69c43e93-4892-48fa-9f22-316fe3e3f91c
+    name: Raymond Hogan
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6262a2ce-e354-42f0-894c-666b3ae13eb6
+    name: Bob Johnson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: fdcb0822-cd65-4489-8744-29fb842f7de5
+    name: William Johnson
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: cce98ed1-adeb-4267-8c07-160d8ce5ee31
+    name: Charlie Jones
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 449b1f09-41c8-46b3-a1ee-dc94212b1b3b
+    name: Kelly Martin
+  - begin: ''
+    end: ''
+    instruments:
+      - saxophone
+    mbid: 6b454410-2144-4be1-8768-71e6da87e0f1
+    name: Aaron Maxwell
+  - begin: ''
+    end: ''
+    instruments:
+      - alto saxophone
+    mbid: 302d1afd-7cd5-488f-bcd3-3c02b6dae09e
+    name: Jimmy Mitchelle
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f63ff923-a367-4861-ba7f-a8790553420e
+    name: Robert Range
+  - begin: ''
+    end: ''
+    instruments:
+      - double bass
+    mbid: c94b7a51-f039-434e-a04e-e124fd590b20
+    name: Lee Stanfield
 musicbrainz_id: 1fd74817-b3bf-4a70-bf44-14b00d6a4789
-origin: Birmingham, Alabama, United States
+origin: 'Birmingham, Alabama, United States'
 tags:
-- big band
-- jazz
-- swing
+  - big band
+  - jazz
+  - swing
+birth_place: 'Birmingham, Alabama, United States'
+birth_date: '1914'
+death_date: '1993'
 ---
 
 ![](erskine_hawkins_and_his_orchestra.jpg)

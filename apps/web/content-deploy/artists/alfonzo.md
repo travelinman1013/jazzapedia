@@ -4,8 +4,8 @@ wiki_slug: alfonzo
 schema_version: 2
 status: active
 genres:
-- corrido
-- corridos bélicos
+  - corrido
+  - corridos bélicos
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/alfonzo.jpg
   caption: Alfonzo
@@ -31,32 +31,37 @@ spotify_data:
   followers: 33147
   id: 0PQgqflwYTFSjgRG9hBxUT
   popularity: 54
-  url: https://open.spotify.com/artist/0PQgqflwYTFSjgRG9hBxUT
+  url: 'https://open.spotify.com/artist/0PQgqflwYTFSjgRG9hBxUT'
 discography_enriched: true
 top_tracks:
-- Ya Fui Negro Ya Fui Blanco (Ya Fui Negro Ya Fui Blanco)
-- Amistades de Papel (Amistades de Papel)
-- Ya Fui Negro Ya Fui Blanco (Acustica) (Ya Fui Negro Ya Fui Blanco (Acustica))
-- Trabaje Mucho Y Duerma Poco - En Vivo (Live En La 6+6 (En Vivo))
-- De Pocos Amigos (De Pocos Amigos)
-- Gato x Liebre - En Vivo (Gato x Liebre (En Vivo))
-- De Pocos Amigos (En Vivo) (Castigando el Tololoche)
-- Trabaje Mucho Y Duerma Poco (Trabaje Mucho Y Duerma Poco)
-- Tipo Sierra - En Vivo (Live En La 6+6 (En Vivo))
-- Villa Por Herencia
+  - Ya Fui Negro Ya Fui Blanco (Ya Fui Negro Ya Fui Blanco)
+  - Amistades de Papel (Amistades de Papel)
+  - >-
+    Ya Fui Negro Ya Fui Blanco (Acustica) (Ya Fui Negro Ya Fui Blanco
+    (Acustica))
+  - Trabaje Mucho Y Duerma Poco - En Vivo (Live En La 6+6 (En Vivo))
+  - De Pocos Amigos (De Pocos Amigos)
+  - Gato x Liebre - En Vivo (Gato x Liebre (En Vivo))
+  - De Pocos Amigos (En Vivo) (Castigando el Tololoche)
+  - Trabaje Mucho Y Duerma Poco (Trabaje Mucho Y Duerma Poco)
+  - Tipo Sierra - En Vivo (Live En La 6+6 (En Vivo))
+  - Villa Por Herencia
 external_urls:
-  spotify: https://open.spotify.com/artist/0PQgqflwYTFSjgRG9hBxUT
+  spotify: 'https://open.spotify.com/artist/0PQgqflwYTFSjgRG9hBxUT'
   wikipedia: Not found
 image_path: 03_Resources/source_material/ArtistPortraits/alfonzo.jpg
 biography_enhanced_at: '2025-11-16T20:26:23.848713'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Search results do not contain verified information about an 'Alfonzo' artist in the corrido/sierreño genre
+  - >-
+    Search results do not contain verified information about an 'Alfonzo' artist
+    in the corrido/sierreño genre
 network_extracted: true
 entry_created: '2025-11-16T20:26:23.848724'
 last_updated: '2025-12-23T08:16:04.558079'
-
+origin: Unknown
+artist_type: person
 ---
 
 ![](alfonzo.jpg)

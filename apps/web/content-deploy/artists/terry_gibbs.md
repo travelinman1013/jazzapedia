@@ -1,16 +1,20 @@
 ---
-title: TERRY GIBBS
+title: Terry Gibbs
 wiki_slug: terry-gibbs
 schema_version: 2
 status: active
-birth_place: Miami, Florida, United States (birthplace); raised in Augusta, Georgia, United States
+birth_place: >-
+  Miami, Florida, United States (birthplace); raised in Augusta, Georgia, United
+  States
 genres:
-- classic country
+  - classic country
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/terry_gibbs.jpg
   caption: TERRY GIBBS
   background: solo_singer
-  origin: Miami, Florida, United States (birthplace); raised in Augusta, Georgia, United States
+  origin: >-
+    Miami, Florida, United States (birthplace); raised in Augusta, Georgia,
+    United States
 audio_profile:
   tempo_avg: 103.3
   energy_avg: 0.442
@@ -26,47 +30,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - George Jones
-  - Tammy Wynette
-  - Kathy Mattea
-  - Mel Tillis
+    - George Jones
+    - Tammy Wynette
+    - Kathy Mattea
+    - Mel Tillis
   influenced: []
   mentors:
-  - Chet Atkins
-  - Ed Penney
+    - Chet Atkins
+    - Ed Penney
 spotify_data:
   followers: 7433
   id: 53I5L1MaOYGfbRM1uZ80xg
   popularity: 33
-  url: https://open.spotify.com/artist/53I5L1MaOYGfbRM1uZ80xg
+  url: 'https://open.spotify.com/artist/53I5L1MaOYGfbRM1uZ80xg'
 discography_enriched: true
 top_tracks:
-- Somebody's Knockin' (The Best Of Terri Gibbs)
-- Somebody's Knockin (Best of Terri Gibbs)
-- Somebody's Knockin' (I Love My 80's Country)
-- Ashes To Ashes (The Best Of Terri Gibbs)
-- Somebody's Knockin' (80s Country)
-- Ashes to Ashes (Best of Terri Gibbs)
-- Rich Man (The Best Of Terri Gibbs)
-- Somebody's Knockin' (Live At Church Street Station)
-- Somebody's Knockin' (The Best of Terri Gibbs)
-- Anybody Else's Heart But Mine (The Best Of Terri Gibbs)
+  - Somebody's Knockin' (The Best Of Terri Gibbs)
+  - Somebody's Knockin (Best of Terri Gibbs)
+  - Somebody's Knockin' (I Love My 80's Country)
+  - Ashes To Ashes (The Best Of Terri Gibbs)
+  - Somebody's Knockin' (80s Country)
+  - Ashes to Ashes (Best of Terri Gibbs)
+  - Rich Man (The Best Of Terri Gibbs)
+  - Somebody's Knockin' (Live At Church Street Station)
+  - Somebody's Knockin' (The Best of Terri Gibbs)
+  - Anybody Else's Heart But Mine (The Best Of Terri Gibbs)
 external_urls:
-  spotify: https://open.spotify.com/artist/53I5L1MaOYGfbRM1uZ80xg
-  wikipedia: https://en.wikipedia.org/wiki/Terri_Gibbs
+  spotify: 'https://open.spotify.com/artist/53I5L1MaOYGfbRM1uZ80xg'
+  wikipedia: 'https://en.wikipedia.org/wiki/Terri_Gibbs'
 image_path: 03_Resources/source_material/ArtistPortraits/terry_gibbs.jpg
 biography_enhanced_at: '2025-11-24T08:37:38.148688'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Terri Gibbs
-- Last.fm - Terri Gibbs Biography
-- FaithWriters - Terri Gibbs, The Singer Who Happens to be Blind
-- AllMusic - Terri Gibbs
-- Your Georgia Country - Terri Gibbs
+  - Wikipedia - Terri Gibbs
+  - Last.fm - Terri Gibbs Biography
+  - 'FaithWriters - Terri Gibbs, The Singer Who Happens to be Blind'
+  - AllMusic - Terri Gibbs
+  - Your Georgia Country - Terri Gibbs
 network_extracted: true
 entry_created: '2025-11-24T08:37:38.148702'
 last_updated: '2025-12-23T08:16:16.484423'
+origin: 'Augusta, Georgia, United States'
+birth_date: '1954-06-15'
+artist_type: person
 ---
 
 ![](terry_gibbs.jpg)

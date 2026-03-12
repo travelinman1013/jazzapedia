@@ -5,17 +5,17 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1932-03-04'
-birth_place: Johannesburg
+birth_place: 'Johannesburg, Gauteng, South Africa'
 death_date: '2008-11-10'
 genres:
-- afropop
-- cha cha cha
+  - afropop
+  - cha cha cha
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 79a17f3c-bb26-4b3c-b252-b72b9abf2d03
-  name: The Manhattan Brothers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 79a17f3c-bb26-4b3c-b252-b72b9abf2d03
+    name: The Manhattan Brothers
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/miriam_makeba.jpg
   caption: Miriam Makeba
@@ -24,7 +24,7 @@ infobox:
   origin: Johannesburg
   died: '2008-11-10'
 audio_profile:
-  tempo_avg: 123.0
+  tempo_avg: 123
   energy_avg: 0.487
   valence_avg: 0.727
   danceability_avg: 0.611
@@ -38,50 +38,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Harry Belafonte
-  - Hugh Masekela
-  - The Manhattan Brothers
-  - The Skylarks
-  - Dizzy Gillespie
-  - Nina Simone
+    - Harry Belafonte
+    - Hugh Masekela
+    - The Manhattan Brothers
+    - The Skylarks
+    - Dizzy Gillespie
+    - Nina Simone
   influenced:
-  - Angelique Kidjo
-  - Youssou N’Dour
-  - Ladysmith Black Mambazo and later South African groups
+    - Angelique Kidjo
+    - Youssou N’Dour
+    - Ladysmith Black Mambazo and later South African groups
   mentors:
-  - Harry Belafonte
+    - Harry Belafonte
 spotify_data:
   followers: 215219
   id: 18RkLKfeoUgZflWv9os25W
   popularity: 46
-  url: https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W
+  url: 'https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W'
 discography_enriched: true
 top_tracks:
-- Pata Pata - Stereo Version (Pata Pata)
-- Pata Pata - Mono Version (Pata Pata)
-- The Click Song (The Click Song)
-- For What It's Worth - Remastered (Keep Me In Mind)
-- Quit It (A Promise)
-- My Angel (Malaika)
-- Hi-a Ma (Pata Pata) - Milk & Sugar Video Version
-- Pata Pata (Reflections)
-- Malaika (Myriam Makeba Live In Paris, France (Théâtre des Champs-Elysées))
-- Ha Po Zamani - Stereo Version (Pata Pata)
+  - Pata Pata - Stereo Version (Pata Pata)
+  - Pata Pata - Mono Version (Pata Pata)
+  - The Click Song (The Click Song)
+  - For What It's Worth - Remastered (Keep Me In Mind)
+  - Quit It (A Promise)
+  - My Angel (Malaika)
+  - Hi-a Ma (Pata Pata) - Milk & Sugar Video Version
+  - Pata Pata (Reflections)
+  - 'Malaika (Myriam Makeba Live In Paris, France (Théâtre des Champs-Elysées))'
+  - Ha Po Zamani - Stereo Version (Pata Pata)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/bc5c2918-4aba-4ef6-a245-100563a4487f
-  spotify: https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W
-  wikipedia: https://en.wikipedia.org/wiki/Miriam_Makeba
+  musicbrainz: 'https://musicbrainz.org/artist/bc5c2918-4aba-4ef6-a245-100563a4487f'
+  spotify: 'https://open.spotify.com/artist/18RkLKfeoUgZflWv9os25W'
+  wikipedia: 'https://en.wikipedia.org/wiki/Miriam_Makeba'
 image_path: 03_Resources/source_material/ArtistPortraits/miriam_makeba.jpg
 biography_enhanced_at: '2025-12-07T04:41:36.163074'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Miriam_Makeba
-- https://www.britannica.com/biography/Miriam-Makeba
-- https://sahistory.org.za/people/miriam-makeba
-- https://www.fembio.org/english/biography.php/woman/biography/miriam-makeba/
-- https://www.ebsco.com/research-starters/women-s-studies-and-feminism/miriam-makeba
-- https://www.lowellmilkencenter.org/programs/projects/view/miriam-makeba-mama-africa/hero
+  - 'https://en.wikipedia.org/wiki/Miriam_Makeba'
+  - 'https://www.britannica.com/biography/Miriam-Makeba'
+  - 'https://sahistory.org.za/people/miriam-makeba'
+  - 'https://www.fembio.org/english/biography.php/woman/biography/miriam-makeba/'
+  - >-
+    https://www.ebsco.com/research-starters/women-s-studies-and-feminism/miriam-makeba
+  - >-
+    https://www.lowellmilkencenter.org/programs/projects/view/miriam-makeba-mama-africa/hero
 network_extracted: true
 entry_created: '2025-12-07T04:41:36.163084'
 last_updated: '2025-12-23T08:16:13.201875'
@@ -89,9 +91,10 @@ disambiguation: South African singer-songwriter
 gender: Female
 musicbrainz_id: bc5c2918-4aba-4ef6-a245-100563a4487f
 tags:
-- 2008 universal fire victim
-- marabi
-- songwriter
+  - 2008 universal fire victim
+  - marabi
+  - songwriter
+is_active: false
 ---
 
 ![](miriam_makeba.jpg)

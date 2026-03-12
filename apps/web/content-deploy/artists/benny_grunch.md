@@ -1,38 +1,41 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-17T02:02:15.400543'
-birth_place: Lakeview, New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-17T02:02:15.400557'
 external_urls:
-  spotify: https://open.spotify.com/artist/52aapjfbNPXEg0j3U7IO8V
+  spotify: 'https://open.spotify.com/artist/52aapjfbNPXEg0j3U7IO8V'
   wikipedia: ''
 genres:
-- cajun
-- christmas
+  - cajun
+  - christmas
 image_path: 03_Resources/source_material/ArtistPortraits/benny_grunch.jpg
 last_updated: '2026-01-17T02:02:15.400559'
 musical_connections:
   collaborators:
-  - Wade (drummer)
+    - Wade (drummer)
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.myneworleans.com/catching-up-with-benny-grunch/
-- https://www.rouses.com/about/blog/grunch-stole-christmas/
-- https://bennygrunch.com
-- https://www.wwno.org/show/all-things-new-orleans/2017-04-20/birth-of-the-bunch-the-life-and-times-of-benny-grunch
-- https://www.audacy.com/wwl/news/local/where-da-yat-why-benny-grunch-is-laying-low-this-christmas
-- https://www.neworleans.com/listing/benny-grunch-&-the-bunch/48105/
+  - 'https://www.myneworleans.com/catching-up-with-benny-grunch/'
+  - 'https://www.rouses.com/about/blog/grunch-stole-christmas/'
+  - 'https://bennygrunch.com'
+  - >-
+    https://www.wwno.org/show/all-things-new-orleans/2017-04-20/birth-of-the-bunch-the-life-and-times-of-benny-grunch
+  - >-
+    https://www.audacy.com/wwl/news/local/where-da-yat-why-benny-grunch-is-laying-low-this-christmas
+  - 'https://www.neworleans.com/listing/benny-grunch-&-the-bunch/48105/'
 spotify_data:
   followers: 723
   id: 52aapjfbNPXEg0j3U7IO8V
   popularity: 21
-  url: https://open.spotify.com/artist/52aapjfbNPXEg0j3U7IO8V
+  url: 'https://open.spotify.com/artist/52aapjfbNPXEg0j3U7IO8V'
 status: active
 title: Benny Grunch
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](benny_grunch.jpg)

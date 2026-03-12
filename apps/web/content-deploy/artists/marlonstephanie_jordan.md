@@ -1,42 +1,44 @@
 ---
 biography_enhanced_at: '2025-12-25T01:13:50.855057'
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, USA'
 enhancement_provider: perplexity
 entry_created: '2025-12-25T01:13:50.855066'
 external_urls:
-  spotify: https://open.spotify.com/artist/49PeOlRVjs3uYJPwY7OtM6
-  wikipedia: https://en.wikipedia.org/wiki/Marlon_Jordan
+  spotify: 'https://open.spotify.com/artist/49PeOlRVjs3uYJPwY7OtM6'
+  wikipedia: 'https://en.wikipedia.org/wiki/Marlon_Jordan'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/marlonstephanie_jordan.jpg
 last_updated: '2025-12-25T01:13:50.855068'
 musical_connections:
   collaborators:
-  - Branford Marsalis
-  - Kent Jordan
-  - Stephanie Jordan
-  - Edward 'Kidd' Jordan
-  - Rachel Jordan
+    - Branford Marsalis
+    - Kent Jordan
+    - Stephanie Jordan
+    - Edward 'Kidd' Jordan
+    - Rachel Jordan
   influenced: []
   mentors:
-  - Edward 'Kidd' Jordan
-  - Wynton Marsalis
-  - Terence Blanchard
+    - Edward 'Kidd' Jordan
+    - Wynton Marsalis
+    - Terence Blanchard
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.allaboutjazz.com/musicians/marlon-jordan/
-- https://arabesquerecords.com/marlonjordan/
-- https://www.marlonjordanmusic.com
-- https://en.wikipedia.org/wiki/Marlon_Jordan
-- https://www.marlonjordan.net
-- https://louisarmstrongjazzcamp.com/dt_team/jordan2/
+  - 'https://www.allaboutjazz.com/musicians/marlon-jordan/'
+  - 'https://arabesquerecords.com/marlonjordan/'
+  - 'https://www.marlonjordanmusic.com'
+  - 'https://en.wikipedia.org/wiki/Marlon_Jordan'
+  - 'https://www.marlonjordan.net'
+  - 'https://louisarmstrongjazzcamp.com/dt_team/jordan2/'
 spotify_data:
   followers: 9
   id: 49PeOlRVjs3uYJPwY7OtM6
   popularity: 10
-  url: https://open.spotify.com/artist/49PeOlRVjs3uYJPwY7OtM6
+  url: 'https://open.spotify.com/artist/49PeOlRVjs3uYJPwY7OtM6'
 status: active
-title: marlon/stephanie jordan
+title: Marlon/Stephanie Jordan
+birth_date: '1970-08-21'
+artist_type: person
 ---
 
 ![](marlonstephanie_jordan.jpg)

@@ -1,16 +1,16 @@
 ---
-title: The Avalanches, Blood Orange
+title: 'The Avalanches, Blood Orange'
 wiki_slug: the-avalanches-blood-orange
 schema_version: 2
 status: active
 genres:
-- art pop
+  - art pop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_avalanches_blood_orange.jpg
-  caption: The Avalanches, Blood Orange
+  caption: 'The Avalanches, Blood Orange'
   background: solo_singer
 audio_profile:
-  tempo_avg: 126.0
+  tempo_avg: 126
   energy_avg: 0.549
   valence_avg: 0.497
   danceability_avg: 0.677
@@ -24,54 +24,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Robbie Chater
-  - Tony Di Blasi
-  - Darren Seltmann
-  - Blood Orange (Dev Hynes)
-  - Solange, Lorde, Britney Spears, Kylie Minogue
-  - Pink Siifu and Rivers Cuomo (Weezer)
+    - Robbie Chater
+    - Tony Di Blasi
+    - Darren Seltmann
+    - Blood Orange (Dev Hynes)
+    - 'Solange, Lorde, Britney Spears, Kylie Minogue'
+    - Pink Siifu and Rivers Cuomo (Weezer)
   influenced:
-  - Contemporary experimental pop and R&B artists
-  - Electronic music producers and plunderphonics practitioners
+    - Contemporary experimental pop and R&B artists
+    - Electronic music producers and plunderphonics practitioners
   mentors:
-  - Sade, UB-40, and UK soul tradition
-  - British guitar bands (Mansun, Ash, The Bluetones)
-  - Drive Like Jehu, The Fall, Ultra Bide
+    - 'Sade, UB-40, and UK soul tradition'
+    - 'British guitar bands (Mansun, Ash, The Bluetones)'
+    - 'Drive Like Jehu, The Fall, Ultra Bide'
 spotify_data:
   followers: 1370610
   id: 6LEeAFiJF8OuPx747e1wxR
   popularity: 73
-  url: https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR
+  url: 'https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR'
 discography_enriched: true
 top_tracks:
-- Champagne Coast (Coastal Grooves)
-- Champagne Coast (Coastal Grooves)
-- Charcoal Baby (Negro Swan)
-- Champagne Coast
-- The Field (feat. The Durutti Column, Tariq Al-Sabir, Caroline Polachek & Daniel Caesar)
-- You're Not Good Enough (Cupid Deluxe)
-- Champagne Coast
-- Uncle ACE (Cupid Deluxe)
-- Chewing Gum (Negro Swan)
-- Best to You (Freetown Sound)
+  - Champagne Coast (Coastal Grooves)
+  - Champagne Coast (Coastal Grooves)
+  - Charcoal Baby (Negro Swan)
+  - Champagne Coast
+  - >-
+    The Field (feat. The Durutti Column, Tariq Al-Sabir, Caroline Polachek &
+    Daniel Caesar)
+  - You're Not Good Enough (Cupid Deluxe)
+  - Champagne Coast
+  - Uncle ACE (Cupid Deluxe)
+  - Chewing Gum (Negro Swan)
+  - Best to You (Freetown Sound)
 external_urls:
-  spotify: https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR
-  wikipedia: https://en.wikipedia.org/wiki/The_Avalanches
+  spotify: 'https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Avalanches'
 image_path: 03_Resources/source_material/ArtistPortraits/the_avalanches_blood_orange.jpg
 biography_enhanced_at: '2025-12-04T07:37:36.032400'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - The Avalanches
-- Wikipedia - Dev Hynes
-- 'Crack Magazine - Blood Orange: A Personal History'
-- 'Paste Magazine - Blood Orange: Between the Strings'
-- Berkeley B-Side - The Musical Genius of Devonté Hynes
-- Dazed Digital - The Avalanches track featuring Blood Orange
-- The Wild Honey Pie - The Avalanches feat. Blood Orange
+  - Wikipedia - The Avalanches
+  - Wikipedia - Dev Hynes
+  - 'Crack Magazine - Blood Orange: A Personal History'
+  - 'Paste Magazine - Blood Orange: Between the Strings'
+  - Berkeley B-Side - The Musical Genius of Devonté Hynes
+  - Dazed Digital - The Avalanches track featuring Blood Orange
+  - The Wild Honey Pie - The Avalanches feat. Blood Orange
 network_extracted: true
 entry_created: '2025-12-04T07:37:36.032410'
 last_updated: '2025-12-23T08:16:16.519339'
+birth_place: 'London, England, United Kingdom'
+origin: >-
+  Melbourne, Victoria, Australia (The Avalanches); London, England (Blood
+  Orange/Dev Hynes, currently based in New York City)
+birth_date: '1985-12-23'
+artist_type: person
 ---
 
 ![](the_avalanches_blood_orange.jpg)

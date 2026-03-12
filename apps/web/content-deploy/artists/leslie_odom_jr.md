@@ -3,21 +3,21 @@ title: Leslie Odom Jr.
 wiki_slug: leslie-odom-jr
 schema_version: 2
 status: active
-birth_place: Queens, New York City, New York, United States
+birth_place: 'Queens, New York City, New York, United States'
 genres:
-- musicals
+  - musicals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/leslie_odom_jr.jpg
   caption: Leslie Odom Jr.
   background: solo_singer
-  origin: Queens, New York City, New York, United States
+  origin: 'Queens, New York City, New York, United States'
 audio_profile:
   tempo_avg: 120.9
   energy_avg: 0.461
   valence_avg: 0.482
   danceability_avg: 0.658
   acousticness_avg: 0.367
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -9.3
   speechiness_avg: 0.33
   liveness_avg: 0.214
@@ -26,49 +26,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lin-Manuel Miranda
-  - Original Broadway cast of Hamilton
-  - Kasi Lemmons
-  - Regina King
-  - Nicolette Robinson
+    - Lin-Manuel Miranda
+    - Original Broadway cast of Hamilton
+    - Kasi Lemmons
+    - Regina King
+    - Nicolette Robinson
   influenced:
-  - Younger Black musical-theater performers (aggregate)
+    - Younger Black musical-theater performers (aggregate)
   mentors:
-  - Faculty of Carnegie Mellon University School of Drama
+    - Faculty of Carnegie Mellon University School of Drama
 spotify_data:
   followers: 378469
   id: 3cR4rhS2hBWqI7rJEBacvN
   popularity: 75
-  url: https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN
+  url: 'https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN'
 discography_enriched: true
 top_tracks:
-- Wait for It (Hamilton (Original Broadway Cast Recording))
-- Alexander Hamilton (Hamilton (Original Broadway Cast Recording))
-- Non-Stop (Hamilton (Original Broadway Cast Recording))
-- Aaron Burr, Sir (Hamilton (Original Broadway Cast Recording))
-- My Shot (Hamilton (Original Broadway Cast Recording))
-- The Schuyler Sisters (Hamilton (Original Broadway Cast Recording))
-- Guns and Ships (Hamilton (Original Broadway Cast Recording))
-- The Room Where It Happens (Hamilton (Original Broadway Cast Recording))
-- Right Hand Man (Hamilton (Original Broadway Cast Recording))
-- Dear Theodosia (Hamilton (Original Broadway Cast Recording))
+  - Wait for It (Hamilton (Original Broadway Cast Recording))
+  - Alexander Hamilton (Hamilton (Original Broadway Cast Recording))
+  - Non-Stop (Hamilton (Original Broadway Cast Recording))
+  - 'Aaron Burr, Sir (Hamilton (Original Broadway Cast Recording))'
+  - My Shot (Hamilton (Original Broadway Cast Recording))
+  - The Schuyler Sisters (Hamilton (Original Broadway Cast Recording))
+  - Guns and Ships (Hamilton (Original Broadway Cast Recording))
+  - The Room Where It Happens (Hamilton (Original Broadway Cast Recording))
+  - Right Hand Man (Hamilton (Original Broadway Cast Recording))
+  - Dear Theodosia (Hamilton (Original Broadway Cast Recording))
 external_urls:
-  spotify: https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN
-  wikipedia: https://en.wikipedia.org/wiki/Leslie_Odom_Jr.
+  spotify: 'https://open.spotify.com/artist/3cR4rhS2hBWqI7rJEBacvN'
+  wikipedia: 'https://en.wikipedia.org/wiki/Leslie_Odom_Jr.'
 image_path: 03_Resources/source_material/ArtistPortraits/leslie_odom_jr.jpg
 biography_enhanced_at: '2025-12-19T01:48:25.081574'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.britannica.com/biography/Leslie-Odom-Jr
-- https://www.leslieodomjr.com/bio
-- https://drama.cmu.edu/alumni-story/leslie-odom-jr/
-- https://www.broadway.com/buzz/stars/leslie-odom-jr/profile/
-- https://screendollars.com/celebrity/leslie-odom-jr/
-- https://www.imdb.com/name/nm1502434/bio/
+  - 'https://www.britannica.com/biography/Leslie-Odom-Jr'
+  - 'https://www.leslieodomjr.com/bio'
+  - 'https://drama.cmu.edu/alumni-story/leslie-odom-jr/'
+  - 'https://www.broadway.com/buzz/stars/leslie-odom-jr/profile/'
+  - 'https://screendollars.com/celebrity/leslie-odom-jr/'
+  - 'https://www.imdb.com/name/nm1502434/bio/'
 network_extracted: true
 entry_created: '2025-12-19T01:48:25.081589'
 last_updated: '2025-12-23T08:16:11.868724'
+birth_date: '1981-08-06'
+artist_type: person
 ---
 
 ![](leslie_odom_jr.jpg)

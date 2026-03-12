@@ -1,18 +1,18 @@
 ---
-title: JOHNNIE TEMPLE
+title: Johnnie Temple
 wiki_slug: johnnie-temple
 schema_version: 2
 status: active
-birth_place: Canton, Mississippi, United States
+birth_place: 'Canton, Mississippi, United States'
 genres:
-- blues
-- country blues
-- classic blues
+  - blues
+  - country blues
+  - classic blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/JOHNNIE_TEMPLE.jpg
   caption: JOHNNIE TEMPLE
   background: solo_singer
-  origin: Canton, Mississippi, United States
+  origin: 'Canton, Mississippi, United States'
 audio_profile:
   tempo_avg: 106.4
   energy_avg: 0.187
@@ -28,43 +28,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Charlie and Joe McCoy
-  - Big Walter Horton and Billy Boy Arnold
+    - Charlie and Joe McCoy
+    - Big Walter Horton and Billy Boy Arnold
   influenced:
-  - Various blues artists
+    - Various blues artists
   mentors:
-  - Skip James
+    - Skip James
 spotify_data:
   followers: 1599
   id: 34gPHGwf8jTA2gqoskjZPE
   popularity: 7
-  url: https://open.spotify.com/artist/34gPHGwf8jTA2gqoskjZPE
+  url: 'https://open.spotify.com/artist/34gPHGwf8jTA2gqoskjZPE'
 discography_enriched: true
 top_tracks:
-- Lead Pencil Blues (Big Leg Woman)
-- Lead Pencil Blues (Presenting Johnnie Temple)
-- Lead Pencil Blues (Johnnie Temple Vol. 1 1935-1938)
-- Yum, Yum, Yum (Johnnie Temple Vol. 3 1940-1949)
-- Hoodoo Women (Johnnie Temple Vol. 1 1935-1938)
-- The Evil Devil Blues (Johnnie Temple Vol. 1 1935-1938)
-- Sit Right On It (Big Leg Woman)
-- 'Lead Pencil Blues - 1935 Version (Back To The Crossroads: The Roots Of Robert Johnson)'
-- Grinding Mill (Those Dirty Blues, Vol. 2)
-- 'Peeping Through The Keyhole (Johnnie Temple 1935-1940: From Mississippi to Chicago (The Blues))'
+  - Lead Pencil Blues (Big Leg Woman)
+  - Lead Pencil Blues (Presenting Johnnie Temple)
+  - Lead Pencil Blues (Johnnie Temple Vol. 1 1935-1938)
+  - 'Yum, Yum, Yum (Johnnie Temple Vol. 3 1940-1949)'
+  - Hoodoo Women (Johnnie Temple Vol. 1 1935-1938)
+  - The Evil Devil Blues (Johnnie Temple Vol. 1 1935-1938)
+  - Sit Right On It (Big Leg Woman)
+  - >-
+    Lead Pencil Blues - 1935 Version (Back To The Crossroads: The Roots Of
+    Robert Johnson)
+  - 'Grinding Mill (Those Dirty Blues, Vol. 2)'
+  - >-
+    Peeping Through The Keyhole (Johnnie Temple 1935-1940: From Mississippi to
+    Chicago (The Blues))
 external_urls:
-  spotify: https://open.spotify.com/artist/34gPHGwf8jTA2gqoskjZPE
+  spotify: 'https://open.spotify.com/artist/34gPHGwf8jTA2gqoskjZPE'
   wikipedia: Not available
 image_path: 03_Resources/source_material/ArtistPortraits/JOHNNIE_TEMPLE.jpg
 biography_enhanced_at: '2025-10-21T06:59:02.216931'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Curt's Blues Blog
-- Big Road Blues
-- WONGCW MUSIC
+  - Curt's Blues Blog
+  - Big Road Blues
+  - WONGCW MUSIC
 network_extracted: true
 entry_created: '2025-10-21T06:59:02.216949'
 last_updated: '2025-12-23T08:16:02.360055'
+origin: 'Jackson, Mississippi, United States'
+birth_date: '1906-10-18'
+death_date: '1968-11-22'
+artist_type: person
 ---
 
 ![](JOHNNIE_TEMPLE.jpg)

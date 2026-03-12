@@ -2,27 +2,27 @@
 title: Linkin Park
 wiki_slug: linkin-park
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1996'
 genres:
-- nu metal
-- rap metal
-- rock
-- alternative metal
+  - nu metal
+  - rap metal
+  - rock
+  - alternative metal
 instruments:
-- lead vocals
-- original
-- drums (drum set)
-- percussion
-- electric guitar
-- background vocals
-- bass guitar
-- turntable
-- sampler
-- synthesizer
-- guitar
-- keyboard
+  - lead vocals
+  - original
+  - drums (drum set)
+  - percussion
+  - electric guitar
+  - background vocals
+  - bass guitar
+  - turntable
+  - sampler
+  - synthesizer
+  - guitar
+  - keyboard
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/linkin_park.jpg
   caption: Linkin Park
@@ -43,215 +43,216 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Chester Bennington
-  - Jay-Z
-  - Joe Hahn
-  - Dave 'Phoenix' Farrell
-  - Rob Bourdon
-  - Brad Delson
+    - Chester Bennington
+    - Jay-Z
+    - Joe Hahn
+    - Dave 'Phoenix' Farrell
+    - Rob Bourdon
+    - Brad Delson
   influenced:
-  - Bring Me the Horizon
-  - Twenty One Pilots
-  - Hollywood Undead
+    - Bring Me the Horizon
+    - Twenty One Pilots
+    - Hollywood Undead
   mentors:
-  - Anthrax
+    - Anthrax
 spotify_data:
   followers: 32035628
   id: 6XyY86QOPPrYVGvF9ch6wz
   popularity: 89
-  url: https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz
+  url: 'https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz'
 discography_enriched: true
 top_tracks:
-- Numb (Meteora)
-- In the End (Hybrid Theory (Bonus Edition))
-- Faint (Meteora)
-- The Emptiness Machine (From Zero)
-- One Step Closer (Hybrid Theory (Bonus Edition))
-- What I've Done (Minutes to Midnight)
-- The Emptiness Machine
-- Heavy Is the Crown (From Zero)
-- Crawling (Hybrid Theory (Bonus Edition))
-- Somewhere I Belong (Meteora (Bonus Edition))
+  - Numb (Meteora)
+  - In the End (Hybrid Theory (Bonus Edition))
+  - Faint (Meteora)
+  - The Emptiness Machine (From Zero)
+  - One Step Closer (Hybrid Theory (Bonus Edition))
+  - What I've Done (Minutes to Midnight)
+  - The Emptiness Machine
+  - Heavy Is the Crown (From Zero)
+  - Crawling (Hybrid Theory (Bonus Edition))
+  - Somewhere I Belong (Meteora (Bonus Edition))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f59c5520-5f46-4d2c-b2c4-822eabf53419
-  spotify: https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz
-  wikipedia: https://en.wikipedia.org/wiki/Linkin_Park
+  musicbrainz: 'https://musicbrainz.org/artist/f59c5520-5f46-4d2c-b2c4-822eabf53419'
+  spotify: 'https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz'
+  wikipedia: 'https://en.wikipedia.org/wiki/Linkin_Park'
 image_path: 03_Resources/source_material/ArtistPortraits/linkin_park.jpg
 biography_enhanced_at: '2025-11-20T07:38:50.315702'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.linkinpark.com/about
-- https://www.imdb.com/name/nm1245493/bio/
-- https://www.eonmusic.co.uk/features/linkin-park-charting-two-decades-of-musical-innovation
-- https://linkinpedia.com/wiki/Linkin_Park
-- https://www.impericon.com/pages/linkin-park-wiki
-- https://calendar.songfacts.com/timeline/linkin-park/
+  - 'https://www.linkinpark.com/about'
+  - 'https://www.imdb.com/name/nm1245493/bio/'
+  - >-
+    https://www.eonmusic.co.uk/features/linkin-park-charting-two-decades-of-musical-innovation
+  - 'https://linkinpedia.com/wiki/Linkin_Park'
+  - 'https://www.impericon.com/pages/linkin-park-wiki'
+  - 'https://calendar.songfacts.com/timeline/linkin-park/'
 network_extracted: true
 entry_created: '2025-11-20T07:38:50.315706'
 last_updated: '2025-12-23T08:16:11.969579'
 disambiguation: American rock band
 members:
-- begin: '1996'
-  end: '1998'
-  instruments:
-  - lead vocals
-  - original
-  mbid: 6bfe9806-b477-4750-8bd2-b1d0acf901a9
-  name: Mark Wakefield
-- begin: '1996'
-  end: '2017'
-  instruments:
-  - drums (drum set)
-  - original
-  - percussion
-  mbid: f1dd0051-5578-45a7-a733-03113626407f
-  name: Rob Bourdon
-- &id001
-  begin: '1996'
-  end: ''
-  instruments:
-  - electric guitar
-  - original
-  mbid: 2d4a1dd1-2cd8-4553-bf0b-74b8c9179633
-  name: Brad Delson
-- &id002
-  begin: '1996'
-  end: ''
-  instruments:
-  - background vocals
-  - original
-  mbid: 2d4a1dd1-2cd8-4553-bf0b-74b8c9179633
-  name: Brad Delson
-- &id003
-  begin: '1996'
-  end: ''
-  instruments:
-  - bass guitar
-  - original
-  mbid: c8975bbf-2778-47ae-accf-c584e644450d
-  name: David Michael Farrell
-- &id004
-  begin: '1996'
-  end: ''
-  instruments:
-  - background vocals
-  - original
-  mbid: c8975bbf-2778-47ae-accf-c584e644450d
-  name: David Michael Farrell
-- &id005
-  begin: '1996'
-  end: ''
-  instruments:
-  - original
-  - turntable
-  mbid: d07bca29-d980-4100-8cad-065a05f2b343
-  name: Joseph “Joe” Hahn
-- &id006
-  begin: '1996'
-  end: ''
-  instruments:
-  - background vocals
-  - original
-  mbid: d07bca29-d980-4100-8cad-065a05f2b343
-  name: Joseph “Joe” Hahn
-- &id007
-  begin: '1996'
-  end: ''
-  instruments:
-  - original
-  - sampler
-  mbid: d07bca29-d980-4100-8cad-065a05f2b343
-  name: Joseph “Joe” Hahn
-- &id008
-  begin: '1996'
-  end: ''
-  instruments:
-  - original
-  - synthesizer
-  mbid: d07bca29-d980-4100-8cad-065a05f2b343
-  name: Joseph “Joe” Hahn
-- &id009
-  begin: '1996'
-  end: ''
-  instruments:
-  - guitar
-  - keyboard
-  - original
-  - sampler
-  - synthesizer
-  mbid: c262b6bf-be56-4b26-bceb-42d7a27342f3
-  name: Mike Shinoda
-- &id010
-  begin: '1996'
-  end: ''
-  instruments:
-  - lead vocals
-  - original
-  mbid: c262b6bf-be56-4b26-bceb-42d7a27342f3
-  name: Mike Shinoda
-- &id011
-  begin: '1996'
-  end: ''
-  instruments:
-  - background vocals
-  - original
-  mbid: c262b6bf-be56-4b26-bceb-42d7a27342f3
-  name: Mike Shinoda
-- begin: '1999'
-  end: '2000'
-  instruments:
-  - bass guitar
-  - original
-  mbid: 2d4a1dd1-2cd8-4553-bf0b-74b8c9179633
-  name: Brad Delson
-- begin: '1999'
-  end: '2017-07-20'
-  instruments:
-  - lead vocals
-  mbid: 415e30a0-116b-4a4f-8cbf-8d0f6406bbab
-  name: Chester Bennington
-- begin: '2007'
-  end: '2017'
-  instruments:
-  - keyboard
-  - original
-  mbid: 2d4a1dd1-2cd8-4553-bf0b-74b8c9179633
-  name: Brad Delson
-- &id012
-  begin: '2024-09-05'
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: 1cc9d454-9ee8-4d29-bc8e-c4190cf352f6
-  name: Emily Armstrong
-- &id013
-  begin: '2024-09-05'
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 3b49abe4-6b0e-47f8-a8db-1bdc538f6ca7
-  name: Colin Brittain
+  - begin: '1996'
+    end: '1998'
+    instruments:
+      - lead vocals
+      - original
+    mbid: 6bfe9806-b477-4750-8bd2-b1d0acf901a9
+    name: Mark Wakefield
+  - begin: '1996'
+    end: '2017'
+    instruments:
+      - drums (drum set)
+      - original
+      - percussion
+    mbid: f1dd0051-5578-45a7-a733-03113626407f
+    name: Rob Bourdon
+  - &ref_0
+    begin: '1996'
+    end: ''
+    instruments:
+      - electric guitar
+      - original
+    mbid: 2d4a1dd1-2cd8-4553-bf0b-74b8c9179633
+    name: Brad Delson
+  - &ref_1
+    begin: '1996'
+    end: ''
+    instruments:
+      - background vocals
+      - original
+    mbid: 2d4a1dd1-2cd8-4553-bf0b-74b8c9179633
+    name: Brad Delson
+  - &ref_2
+    begin: '1996'
+    end: ''
+    instruments:
+      - bass guitar
+      - original
+    mbid: c8975bbf-2778-47ae-accf-c584e644450d
+    name: David Michael Farrell
+  - &ref_3
+    begin: '1996'
+    end: ''
+    instruments:
+      - background vocals
+      - original
+    mbid: c8975bbf-2778-47ae-accf-c584e644450d
+    name: David Michael Farrell
+  - &ref_4
+    begin: '1996'
+    end: ''
+    instruments:
+      - original
+      - turntable
+    mbid: d07bca29-d980-4100-8cad-065a05f2b343
+    name: Joseph “Joe” Hahn
+  - &ref_5
+    begin: '1996'
+    end: ''
+    instruments:
+      - background vocals
+      - original
+    mbid: d07bca29-d980-4100-8cad-065a05f2b343
+    name: Joseph “Joe” Hahn
+  - &ref_6
+    begin: '1996'
+    end: ''
+    instruments:
+      - original
+      - sampler
+    mbid: d07bca29-d980-4100-8cad-065a05f2b343
+    name: Joseph “Joe” Hahn
+  - &ref_7
+    begin: '1996'
+    end: ''
+    instruments:
+      - original
+      - synthesizer
+    mbid: d07bca29-d980-4100-8cad-065a05f2b343
+    name: Joseph “Joe” Hahn
+  - &ref_8
+    begin: '1996'
+    end: ''
+    instruments:
+      - guitar
+      - keyboard
+      - original
+      - sampler
+      - synthesizer
+    mbid: c262b6bf-be56-4b26-bceb-42d7a27342f3
+    name: Mike Shinoda
+  - &ref_9
+    begin: '1996'
+    end: ''
+    instruments:
+      - lead vocals
+      - original
+    mbid: c262b6bf-be56-4b26-bceb-42d7a27342f3
+    name: Mike Shinoda
+  - &ref_10
+    begin: '1996'
+    end: ''
+    instruments:
+      - background vocals
+      - original
+    mbid: c262b6bf-be56-4b26-bceb-42d7a27342f3
+    name: Mike Shinoda
+  - begin: '1999'
+    end: '2000'
+    instruments:
+      - bass guitar
+      - original
+    mbid: 2d4a1dd1-2cd8-4553-bf0b-74b8c9179633
+    name: Brad Delson
+  - begin: '1999'
+    end: '2017-07-20'
+    instruments:
+      - lead vocals
+    mbid: 415e30a0-116b-4a4f-8cbf-8d0f6406bbab
+    name: Chester Bennington
+  - begin: '2007'
+    end: '2017'
+    instruments:
+      - keyboard
+      - original
+    mbid: 2d4a1dd1-2cd8-4553-bf0b-74b8c9179633
+    name: Brad Delson
+  - &ref_11
+    begin: '2024-09-05'
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: 1cc9d454-9ee8-4d29-bc8e-c4190cf352f6
+    name: Emily Armstrong
+  - &ref_12
+    begin: '2024-09-05'
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 3b49abe4-6b0e-47f8-a8db-1bdc538f6ca7
+    name: Colin Brittain
 musicbrainz_id: f59c5520-5f46-4d2c-b2c4-822eabf53419
-origin: Agoura Hills
+origin: 'Agoura Hills, California, United States'
 original_members:
-- *id001
-- *id002
-- *id003
-- *id004
-- *id005
-- *id006
-- *id007
-- *id008
-- *id009
-- *id010
-- *id011
-- *id012
-- *id013
+  - *ref_0
+  - *ref_1
+  - *ref_2
+  - *ref_3
+  - *ref_4
+  - *ref_5
+  - *ref_6
+  - *ref_7
+  - *ref_8
+  - *ref_9
+  - *ref_10
+  - *ref_11
+  - *ref_12
 tags:
-- alt rock
-- alternative metal
-- alternative rock
+  - alt rock
+  - alternative metal
+  - alternative rock
 ---
 
 ![](linkin_park.jpg)

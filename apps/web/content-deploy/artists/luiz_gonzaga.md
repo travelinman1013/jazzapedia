@@ -2,58 +2,61 @@
 artist_type: person
 biography_enhanced_at: '2025-12-28T01:55:24.754770'
 birth_date: '1912-12-13'
-birth_place: Pernambuco
+birth_place: 'Exu, Pernambuco, Brazil'
 death_date: '1989-08-02'
 enhancement_provider: perplexity
 entry_created: '2025-12-28T01:55:24.754784'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/712fcc0f-25f5-45bf-bbb8-2601872d08e1
-  spotify: https://open.spotify.com/artist/2ZofT7n9AlTKf7KDCoHGgD
-  wikipedia: https://en.wikipedia.org/wiki/Luiz_Gonzaga
+  musicbrainz: 'https://musicbrainz.org/artist/712fcc0f-25f5-45bf-bbb8-2601872d08e1'
+  spotify: 'https://open.spotify.com/artist/2ZofT7n9AlTKf7KDCoHGgD'
+  wikipedia: 'https://en.wikipedia.org/wiki/Luiz_Gonzaga'
 gender: Male
 genres:
-- forró
-- forro tradicional
-- mpb
+  - forró
+  - forro tradicional
+  - mpb
 image_path: 03_Resources/source_material/ArtistPortraits/luiz_gonzaga.jpg
 last_updated: '2025-12-28T01:55:24.754786'
 musical_connections:
   collaborators:
-  - Humberto Teixeira
-  - RCA (later BMG) studio and radio ensembles
-  - Gonzaguinha (Luiz Gonzaga Jr.)
-  - Caetano Veloso and Gilberto Gil
+    - Humberto Teixeira
+    - RCA (later BMG) studio and radio ensembles
+    - Gonzaguinha (Luiz Gonzaga Jr.)
+    - Caetano Veloso and Gilberto Gil
   influenced:
-  - Gilberto Gil
-  - Caetano Veloso
-  - Gonzaguinha (Luiz Gonzaga Jr.)
-  - Contemporary forró and baião artists across Brazil
+    - Gilberto Gil
+    - Caetano Veloso
+    - Gonzaguinha (Luiz Gonzaga Jr.)
+    - Contemporary forró and baião artists across Brazil
   mentors:
-  - Januário (Seu Januário Gonzaga)
-  - Traditional Northeastern musicians and genres (baião, xaxado, coco, chamego)
+    - Januário (Seu Januário Gonzaga)
+    - >-
+      Traditional Northeastern musicians and genres (baião, xaxado, coco,
+      chamego)
 musicbrainz_id: 712fcc0f-25f5-45bf-bbb8-2601872d08e1
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Luiz_Gonzaga
-- https://kids.kiddle.co/Luiz_Gonzaga
-- https://worldmusiccentral.org/artist-profiles-luiz-gonzaga/
-- https://forrofederation.com/forro-day-celebrating-luiz-gonzaga-birthday/
-- https://www.slipcue.com/music/brazil/gonzaga.html
-- https://artsandculture.google.com/story/gilberto-gil-and-luiz-gonzaga-instituto-gilberto-gil/rQVRWUdWq2SJgw?hl=en
-- https://www.afropop.org/audio-programs/luis-gonzaga-the-king-of-baiao
+  - 'https://en.wikipedia.org/wiki/Luiz_Gonzaga'
+  - 'https://kids.kiddle.co/Luiz_Gonzaga'
+  - 'https://worldmusiccentral.org/artist-profiles-luiz-gonzaga/'
+  - 'https://forrofederation.com/forro-day-celebrating-luiz-gonzaga-birthday/'
+  - 'https://www.slipcue.com/music/brazil/gonzaga.html'
+  - >-
+    https://artsandculture.google.com/story/gilberto-gil-and-luiz-gonzaga-instituto-gilberto-gil/rQVRWUdWq2SJgw?hl=en
+  - 'https://www.afropop.org/audio-programs/luis-gonzaga-the-king-of-baiao'
 spotify_data:
   followers: 808226
   id: 2ZofT7n9AlTKf7KDCoHGgD
   popularity: 58
-  url: https://open.spotify.com/artist/2ZofT7n9AlTKf7KDCoHGgD
+  url: 'https://open.spotify.com/artist/2ZofT7n9AlTKf7KDCoHGgD'
 status: active
 tags:
-- baião
-- forró
-- latin
+  - baião
+  - forró
+  - latin
 title: Luiz Gonzaga
-
+is_active: false
 ---
 
 ![](luiz_gonzaga.jpg)

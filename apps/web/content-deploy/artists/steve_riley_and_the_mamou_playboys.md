@@ -4,10 +4,11 @@ wiki_slug: steve-riley-the-mamou-playboys
 schema_version: 2
 status: active
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/steve_riley_and_the_mamou_playboys.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/steve_riley_and_the_mamou_playboys.jpg
   caption: Steve Riley & the Mamou Playboys
   background: solo_singer
 audio_profile:
@@ -25,60 +26,66 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - David Greely
-  - Sam Broussard
-  - Burke Riley
-  - Wayne Toups
-  - Wilson Savoy
-  - Eric Clapton
-  - Robert Plant
-  - Elvis Costello
-  - Willie Nelson
-  - Paul Simon
+    - David Greely
+    - Sam Broussard
+    - Burke Riley
+    - Wayne Toups
+    - Wilson Savoy
+    - Eric Clapton
+    - Robert Plant
+    - Elvis Costello
+    - Willie Nelson
+    - Paul Simon
   influenced:
-  - Burke Riley
+    - Burke Riley
   mentors:
-  - Dewey Balfa
-  - Belton Richard
-  - Walter Mouton
+    - Dewey Balfa
+    - Belton Richard
+    - Walter Mouton
 spotify_data:
   followers: 4991
   id: 1HjxUk6Ft80a9G7KtpS2j8
   popularity: 23
-  url: https://open.spotify.com/artist/1HjxUk6Ft80a9G7KtpS2j8
+  url: 'https://open.spotify.com/artist/1HjxUk6Ft80a9G7KtpS2j8'
 discography_enriched: true
 top_tracks:
-- La Danse de Mardi Gras (Meet Me At Mardi Gras)
-- La Danse de Mardi Gras (Best Of Steve Riley And The Mamou Playboys)
-- The Corner Post (Trace Of Time)
-- Bayou Noir / Back Of Town Two-Step (Trace Of Time)
-- Sur Le Courtableau (Trace Of Time)
-- Allons Danser / Let's Dance (Best Of Steve Riley And The Mamou Playboys)
-- Bon Rêve (Bon Rêve)
-- Evangeline Waltz Two-Step (Bon Rêve)
-- La Danse de Mardi Gras (La Toussaint)
-- J'ai Eté-Z-Au Bal (Bayou Ruler)
+  - La Danse de Mardi Gras (Meet Me At Mardi Gras)
+  - La Danse de Mardi Gras (Best Of Steve Riley And The Mamou Playboys)
+  - The Corner Post (Trace Of Time)
+  - Bayou Noir / Back Of Town Two-Step (Trace Of Time)
+  - Sur Le Courtableau (Trace Of Time)
+  - Allons Danser / Let's Dance (Best Of Steve Riley And The Mamou Playboys)
+  - Bon Rêve (Bon Rêve)
+  - Evangeline Waltz Two-Step (Bon Rêve)
+  - La Danse de Mardi Gras (La Toussaint)
+  - J'ai Eté-Z-Au Bal (Bayou Ruler)
 external_urls:
-  spotify: https://open.spotify.com/artist/1HjxUk6Ft80a9G7KtpS2j8
-  wikipedia: https://en.wikipedia.org/wiki/Steve_Riley_and_the_Mamou_Playboys
-image_path: 03_Resources/source_material/ArtistPortraits/steve_riley_and_the_mamou_playboys.jpg
+  spotify: 'https://open.spotify.com/artist/1HjxUk6Ft80a9G7KtpS2j8'
+  wikipedia: 'https://en.wikipedia.org/wiki/Steve_Riley_and_the_Mamou_Playboys'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/steve_riley_and_the_mamou_playboys.jpg
 biography_enhanced_at: '2025-12-04T08:11:12.131517'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://acadianaprofile.com/trailblazers-steve-riley/
-- https://thefestival.bc.ca/artists/steve-riley-mamou-playboys/
-- https://en.wikipedia.org/wiki/Steve_Riley_and_the_Mamou_Playboys
-- http://www.mamouplayboys.com/biography/
-- https://www.last.fm/music/Steve+Riley+&+The+Mamou+Playboys/+wiki
-- https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/steveriley.htm.html
-- https://blogs.loc.gov/folklife/2021/03/homegrown-plus-steve-riley-and-the-riley-family-band/
-- https://www.accessallareas.info/artist/steve-riley-and-the-mamou-playboys/
-- https://rhythmandroots.com/artists/steve-riley-mamou-playboys/
+  - 'https://acadianaprofile.com/trailblazers-steve-riley/'
+  - 'https://thefestival.bc.ca/artists/steve-riley-mamou-playboys/'
+  - 'https://en.wikipedia.org/wiki/Steve_Riley_and_the_Mamou_Playboys'
+  - 'http://www.mamouplayboys.com/biography/'
+  - 'https://www.last.fm/music/Steve+Riley+&+The+Mamou+Playboys/+wiki'
+  - >-
+    https://www.downtowncajunband.nl/sitewillem/Acadiana%20Gateway/music/steveriley.htm.html
+  - >-
+    https://blogs.loc.gov/folklife/2021/03/homegrown-plus-steve-riley-and-the-riley-family-band/
+  - 'https://www.accessallareas.info/artist/steve-riley-and-the-mamou-playboys/'
+  - 'https://rhythmandroots.com/artists/steve-riley-mamou-playboys/'
 network_extracted: true
 entry_created: '2025-12-04T08:11:12.131523'
 last_updated: '2025-12-23T08:16:16.140665'
-origin: Mamou, Louisiana, United States
+origin: 'Mamou, Louisiana, United States'
+birth_place: 'Mamou, Louisiana, United States'
+birth_date: '1969'
+artist_type: person
 ---
 
 ![](steve_riley_and_the_mamou_playboys.jpg)

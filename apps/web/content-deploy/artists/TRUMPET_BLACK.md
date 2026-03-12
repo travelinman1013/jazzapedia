@@ -1,18 +1,18 @@
 ---
-title: TRUMPET BLACK
+title: Trumpet Black
 wiki_slug: trumpet-black
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- bebop
-- jazz funk
-- tango
+  - bebop
+  - jazz funk
+  - tango
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/TRUMPET_BLACK.jpg
   caption: TRUMPET BLACK
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 144.2
   energy_avg: 0.826
@@ -28,40 +28,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - New Birth Brass Band
-  - The Heart Attacks
+    - New Birth Brass Band
+    - The Heart Attacks
   influenced:
-  - Members of the New Orleans brass band scene
+    - Members of the New Orleans brass band scene
   mentors:
-  - James Andrews
+    - James Andrews
 spotify_data:
   followers: 22
   id: 5mpg5dphEqaprmrLvx3POV
   popularity: 0
-  url: https://open.spotify.com/artist/5mpg5dphEqaprmrLvx3POV
+  url: 'https://open.spotify.com/artist/5mpg5dphEqaprmrLvx3POV'
 discography_enriched: true
 top_tracks:
-- Feel It (The New Beginning)
-- 6th Ward (The New Beginning)
-- Got Soul (The New Beginning)
-- St. James Infirmary (The New Beginning)
-- Street Parade (The New Beginning)
-- Trumpets Not Guns (The New Beginning)
-- Good Life (The New Beginning)
+  - Feel It (The New Beginning)
+  - 6th Ward (The New Beginning)
+  - Got Soul (The New Beginning)
+  - St. James Infirmary (The New Beginning)
+  - Street Parade (The New Beginning)
+  - Trumpets Not Guns (The New Beginning)
+  - Good Life (The New Beginning)
 external_urls:
-  spotify: https://open.spotify.com/artist/5mpg5dphEqaprmrLvx3POV
+  spotify: 'https://open.spotify.com/artist/5mpg5dphEqaprmrLvx3POV'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/TRUMPET_BLACK.jpg
 biography_enhanced_at: '2025-10-20T09:53:46.309451'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- NOLA.com obituary and feature articles (not in provided results, but widely cited in music journalism)
-- OffBeat Magazine profiles (not in provided results, but authoritative for New Orleans music)
-- Family connections and band information confirmed by local New Orleans music history sources
+  - >-
+    NOLA.com obituary and feature articles (not in provided results, but widely
+    cited in music journalism)
+  - >-
+    OffBeat Magazine profiles (not in provided results, but authoritative for
+    New Orleans music)
+  - >-
+    Family connections and band information confirmed by local New Orleans music
+    history sources
 network_extracted: true
 entry_created: '2025-10-20T09:53:46.309574'
 last_updated: '2025-12-23T08:16:04.024847'
+origin: 'New Orleans, Louisiana, United States'
+death_date: '2015'
+artist_type: person
 ---
 
 ![](TRUMPET_BLACK.jpg)

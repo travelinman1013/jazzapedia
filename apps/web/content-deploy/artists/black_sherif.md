@@ -1,28 +1,28 @@
 ---
-title: black sherif
+title: Black Sherif
 wiki_slug: black-sherif
 schema_version: 2
 status: active
-birth_place: Konongo-Zongo, Ashanti Region, Ghana
+birth_place: 'Konongo-Zongo, Ashanti Region, Ghana'
 genres:
-- asakaa
-- hiplife
-- afrobeats
-- afrobeat
-- afropop
-- afropiano
+  - asakaa
+  - hiplife
+  - afrobeats
+  - afrobeat
+  - afropop
+  - afropiano
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/black_sherif.jpg
   caption: black sherif
   background: solo_singer
-  origin: Konongo-Zongo, Ashanti Region, Ghana
+  origin: 'Konongo-Zongo, Ashanti Region, Ghana'
 audio_profile:
   tempo_avg: 120.6
   energy_avg: 0.62
   valence_avg: 0.446
   danceability_avg: 0.699
   acousticness_avg: 0.344
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -6.8
   speechiness_avg: 0.183
   liveness_avg: 0.167
@@ -31,49 +31,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Burna Boy
+    - Burna Boy
   influenced: []
   mentors:
-  - Kanye West
-  - Travis Scott
-  - Stormzy
-  - Mugeez
-  - Sarkodie
+    - Kanye West
+    - Travis Scott
+    - Stormzy
+    - Mugeez
+    - Sarkodie
 spotify_data:
   followers: 2292945
   id: 2LiqbH7OhqP0yuaG8VL1wJ
   popularity: 66
-  url: https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ
+  url: 'https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ'
 discography_enriched: true
 top_tracks:
-- WOTOWOTO SEASONING (feat. Black Sherif) (EZIOKWU (UNCUT))
-- So it Goes
-- Oil in my Head (The Villain I Never Was)
-- Lord I'm Amazed
-- Lomo Lomo
-- Soja (The Villain I Never Was)
-- Konongo Zongo (The Villain I Never Was)
-- Run (Where We Come From, Vol. 01)
-- Kwaku The Traveller (The Villain I Never Was)
-- Second Sermon - Remix (The Villain I Never Was)
+  - WOTOWOTO SEASONING (feat. Black Sherif) (EZIOKWU (UNCUT))
+  - So it Goes
+  - Oil in my Head (The Villain I Never Was)
+  - Lord I'm Amazed
+  - Lomo Lomo
+  - Soja (The Villain I Never Was)
+  - Konongo Zongo (The Villain I Never Was)
+  - 'Run (Where We Come From, Vol. 01)'
+  - Kwaku The Traveller (The Villain I Never Was)
+  - Second Sermon - Remix (The Villain I Never Was)
 external_urls:
-  spotify: https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ
+  spotify: 'https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/black_sherif.jpg
 biography_enhanced_at: '2025-11-23T06:32:17.882062'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://limitlessmotivation1.wordpress.com/2022/04/11/biography-of-black-sherif/
-- https://www.splittents.com/biography/black-sherif-his-journey-and-achievements-in-music/
-- https://www.last.fm/music/Black+Sherif/+wiki
-- https://www.legit.ng/ask-legit/biographies/1516888-black-sherifs-biography-age-real-net-worth-songs/
-- https://dailyhighlife.ng/artist/black-sherif
-- https://www.ghanawebbers.com/person/Black-Sherif-6340
+  - >-
+    https://limitlessmotivation1.wordpress.com/2022/04/11/biography-of-black-sherif/
+  - >-
+    https://www.splittents.com/biography/black-sherif-his-journey-and-achievements-in-music/
+  - 'https://www.last.fm/music/Black+Sherif/+wiki'
+  - >-
+    https://www.legit.ng/ask-legit/biographies/1516888-black-sherifs-biography-age-real-net-worth-songs/
+  - 'https://dailyhighlife.ng/artist/black-sherif'
+  - 'https://www.ghanawebbers.com/person/Black-Sherif-6340'
 network_extracted: true
 entry_created: '2025-11-23T06:32:17.882070'
 last_updated: '2025-12-23T08:16:05.681621'
-
+birth_date: '2002-01-09'
+artist_type: person
 ---
 
 ![](black_sherif.jpg)

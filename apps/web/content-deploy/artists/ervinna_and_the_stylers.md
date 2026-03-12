@@ -1,10 +1,10 @@
 ---
-title: ervinna & the stylers
+title: Ervinna & the Stylers
 wiki_slug: ervinna-the-stylers
 schema_version: 2
 status: active
 genres:
-- go-go
+  - go-go
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ervinna_and_the_stylers.jpg
   caption: ervinna & the stylers
@@ -15,7 +15,7 @@ audio_profile:
   valence_avg: 0.914
   danceability_avg: 0.621
   acousticness_avg: 0.176
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -5.8
   speechiness_avg: 0.048
   liveness_avg: 0.409
@@ -24,37 +24,39 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Stylers
+    - The Stylers
   influenced:
-  - Various Southeast Asian pop artists
+    - Various Southeast Asian pop artists
   mentors:
-  - Unknown
+    - Unknown
 spotify_data:
   followers: 26
   id: 17zEgA9L5SLqPDD67csGAu
   popularity: 3
-  url: https://open.spotify.com/artist/17zEgA9L5SLqPDD67csGAu
+  url: 'https://open.spotify.com/artist/17zEgA9L5SLqPDD67csGAu'
 discography_enriched: true
 top_tracks:
-- Witch Queen of New Orleans (Scary Monsters Halloween Party)
-- 'Witch Queen Of New Orleans (Halloween Nuggets: Haunted Underground Classics)'
-- 'Witch Queen Of New Orleans (Halloween Nuggets: Monster Sixties A Go-Go)'
-- Witch Queen of New Orleans (Scary Monsters Halloween Party)
+  - Witch Queen of New Orleans (Scary Monsters Halloween Party)
+  - 'Witch Queen Of New Orleans (Halloween Nuggets: Haunted Underground Classics)'
+  - 'Witch Queen Of New Orleans (Halloween Nuggets: Monster Sixties A Go-Go)'
+  - Witch Queen of New Orleans (Scary Monsters Halloween Party)
 external_urls:
-  spotify: https://open.spotify.com/artist/17zEgA9L5SLqPDD67csGAu
+  spotify: 'https://open.spotify.com/artist/17zEgA9L5SLqPDD67csGAu'
   wikipedia: ''
 image_path: ''
 biography_enhanced_at: '2025-11-01T15:35:41.499618'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://secondhandsongs.com/artist/132401/all
-- https://www.last.fm/music/The+Stylers/+wiki
-- https://www.allmusic.com/artist/ervinna-the-stylers-mn0003299395
+  - 'https://secondhandsongs.com/artist/132401/all'
+  - 'https://www.last.fm/music/The+Stylers/+wiki'
+  - 'https://www.allmusic.com/artist/ervinna-the-stylers-mn0003299395'
 network_extracted: true
 entry_created: '2025-11-01T15:35:41.499652'
 last_updated: '2025-12-23T08:16:08.465190'
-origin: Singapore (band origin), Surabaya, East Java, Indonesia (Ervinna's birthplace)
+origin: 'Singapore (band origin), Surabaya, East Java, Indonesia (Ervinna''s birthplace)'
+birth_place: 'Surabaya, East Java, Indonesia'
+artist_type: band
 ---
 
 ![]()

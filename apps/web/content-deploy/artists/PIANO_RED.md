@@ -1,17 +1,17 @@
 ---
-title: PIANO RED
+title: Piano Red
 wiki_slug: piano-red
 schema_version: 2
 status: active
-birth_place: Hampton, Georgia, United States
+birth_place: 'Hampton, Georgia, United States'
 genres:
-- house
-- future house
+  - house
+  - future house
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/PIANO_RED.jpg
   caption: PIANO RED
   background: solo_singer
-  origin: Hampton, Georgia, United States
+  origin: 'Hampton, Georgia, United States'
 audio_profile:
   tempo_avg: 123.3
   energy_avg: 0.826
@@ -27,48 +27,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Blind Willie McTell
-  - Barbecue Bob
-  - Curley Weaver
+    - Blind Willie McTell
+    - Barbecue Bob
+    - Curley Weaver
   influenced:
-  - Paul McCartney
-  - Eric Clapton
-  - The Rolling Stones
-  - Pete Ham (Badfinger)
+    - Paul McCartney
+    - Eric Clapton
+    - The Rolling Stones
+    - Pete Ham (Badfinger)
   mentors:
-  - Fats Waller
-  - Speckled Red (Rufus Perryman)
+    - Fats Waller
+    - Speckled Red (Rufus Perryman)
 spotify_data:
   followers: 30481
   id: 3T0HSMgUpuH1hXbT1JPwQF
   popularity: 41
-  url: https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF
+  url: 'https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF'
 discography_enriched: true
 top_tracks:
-- Make Your Move
-- Kiss of Amnesiа - Redondo Remix
-- Pretty Baby
-- Make Your Move - Joe Stone Edit
-- Every Single Piece (feat. She Keeps Bees) - Radio Mix
-- 2 Scorpios - Remix
-- Love Too Deep - Radio Edit
-- Every Single Piece (feat. She Keeps Bees) - LVNDSCAPE Remix
-- Your Love (feat. BLAME)
-- Pure Shores
+  - Make Your Move
+  - Kiss of Amnesiа - Redondo Remix
+  - Pretty Baby
+  - Make Your Move - Joe Stone Edit
+  - Every Single Piece (feat. She Keeps Bees) - Radio Mix
+  - 2 Scorpios - Remix
+  - Love Too Deep - Radio Edit
+  - Every Single Piece (feat. She Keeps Bees) - LVNDSCAPE Remix
+  - Your Love (feat. BLAME)
+  - Pure Shores
 external_urls:
-  spotify: https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF
-  wikipedia: https://en.wikipedia.org/wiki/Piano_Red
+  spotify: 'https://open.spotify.com/artist/3T0HSMgUpuH1hXbT1JPwQF'
+  wikipedia: 'https://en.wikipedia.org/wiki/Piano_Red'
 image_path: 03_Resources/source_material/ArtistPortraits/PIANO_RED.jpg
 biography_enhanced_at: '2025-10-21T06:58:04.025942'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.popmatters.com/134257-piano-red-the-lost-atlanta-tapes-2496103706.html
-- https://en.wikipedia.org/wiki/Piano_Red
-- https://fromthevaults-boppinbob.blogspot.com/2019/10/piano-red-born-19-october-1911.html
+  - >-
+    https://www.popmatters.com/134257-piano-red-the-lost-atlanta-tapes-2496103706.html
+  - 'https://en.wikipedia.org/wiki/Piano_Red'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2019/10/piano-red-born-19-october-1911.html
 network_extracted: true
 entry_created: '2025-10-21T06:58:04.025958'
 last_updated: '2025-12-23T08:16:03.522015'
+birth_date: '1911-10-19'
+artist_type: person
 ---
 
 ![](PIANO_RED.jpg)

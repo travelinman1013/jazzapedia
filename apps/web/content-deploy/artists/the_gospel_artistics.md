@@ -3,32 +3,34 @@ biography_enhanced_at: '2026-01-19T01:05:05.628474'
 enhancement_provider: perplexity
 entry_created: '2026-01-19T01:05:05.628480'
 external_urls:
-  spotify: https://open.spotify.com/artist/3Rl3UwAyf6IgYx4DiSYaLj
+  spotify: 'https://open.spotify.com/artist/3Rl3UwAyf6IgYx4DiSYaLj'
   wikipedia: ''
 genres:
-- christian jazz
-- funk gospel
+  - christian jazz
+  - funk gospel
 image_path: 03_Resources/source_material/ArtistPortraits/the_gospel_artistics.jpg
 last_updated: '2026-01-19T01:05:05.628481'
 musical_connections:
   collaborators:
-  - Dave Clark
+    - Dave Clark
   influenced: []
   mentors: []
 network_extracted: true
-origin: Washington, D.C., United States
+origin: 'Washington, D.C., United States'
 primary_source: perplexity
 research_sources:
-- https://www.udiscovermusic.com/stories/the-gospel-truth-stax-records-label-feature/
-- https://timeline.carnegiehall.org/genres/gospel-group
-- https://www.youtube.com/watch?v=lk82Mlr_kRA
+  - >-
+    https://www.udiscovermusic.com/stories/the-gospel-truth-stax-records-label-feature/
+  - 'https://timeline.carnegiehall.org/genres/gospel-group'
+  - 'https://www.youtube.com/watch?v=lk82Mlr_kRA'
 spotify_data:
   followers: 422
   id: 3Rl3UwAyf6IgYx4DiSYaLj
   popularity: 2
-  url: https://open.spotify.com/artist/3Rl3UwAyf6IgYx4DiSYaLj
+  url: 'https://open.spotify.com/artist/3Rl3UwAyf6IgYx4DiSYaLj'
 status: active
 title: The Gospel Artistics
+artist_type: band
 ---
 
 ![](the_gospel_artistics.jpg)

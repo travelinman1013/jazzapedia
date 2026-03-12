@@ -1,37 +1,39 @@
 ---
 biography_enhanced_at: '2026-01-02T01:24:23.763658'
-birth_place: Brighton, Sussex, England, United Kingdom
+birth_place: 'Brighton, Sussex, England, United Kingdom'
 enhancement_provider: perplexity
 entry_created: '2026-01-02T01:24:23.763663'
 external_urls:
-  spotify: https://open.spotify.com/artist/7s8sBDHfKZL7gFBtdObnTm
-  wikipedia: https://en.wikipedia.org/wiki/Johnny_Wakelin
+  spotify: 'https://open.spotify.com/artist/7s8sBDHfKZL7gFBtdObnTm'
+  wikipedia: 'https://en.wikipedia.org/wiki/Johnny_Wakelin'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/johnny_wakelin.jpg
 last_updated: '2026-01-02T01:24:23.763664'
 musical_connections:
   collaborators:
-  - James Last Orchestra
-  - The Kinshasa Band
+    - James Last Orchestra
+    - The Kinshasa Band
   influenced: []
   mentors:
-  - Robin Blanchflower
+    - Robin Blanchflower
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Johnny+Wakelin/+wiki
-- https://www.viberate.com/artist/johnny-wakelin/
-- https://www.imdb.com/name/nm2778933/
-- https://secondhandsongs.com/artist/1505/all
-- https://music.fandom.com/wiki/Johnny_Wakelin
-- https://en.wikipedia.org/wiki/Johnny_Wakelin
+  - 'https://www.last.fm/music/Johnny+Wakelin/+wiki'
+  - 'https://www.viberate.com/artist/johnny-wakelin/'
+  - 'https://www.imdb.com/name/nm2778933/'
+  - 'https://secondhandsongs.com/artist/1505/all'
+  - 'https://music.fandom.com/wiki/Johnny_Wakelin'
+  - 'https://en.wikipedia.org/wiki/Johnny_Wakelin'
 spotify_data:
   followers: 4535
   id: 7s8sBDHfKZL7gFBtdObnTm
   popularity: 31
-  url: https://open.spotify.com/artist/7s8sBDHfKZL7gFBtdObnTm
+  url: 'https://open.spotify.com/artist/7s8sBDHfKZL7gFBtdObnTm'
 status: active
-title: johnny wakelin
+title: Johnny Wakelin
+birth_date: '1939'
+artist_type: person
 ---
 
 ![](johnny_wakelin.jpg)

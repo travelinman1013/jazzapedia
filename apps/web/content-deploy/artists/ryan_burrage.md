@@ -3,14 +3,18 @@ title: Ryan Burrage
 wiki_slug: ryan-burrage
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States (professional base/origin as documented in directories and band materials)[1][6]
+birth_place: >-
+  New Orleans, Louisiana, United States (professional base/origin as documented
+  in directories and band materials)
 genres:
-- cajun
+  - cajun
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ryan_burrage.jpg
   caption: Ryan Burrage
   background: solo_singer
-  origin: New Orleans, Louisiana, United States (professional base/origin as documented in directories and band materials)[1][6]
+  origin: >-
+    New Orleans, Louisiana, United States (professional base/origin as
+    documented in directories and band materials)[1][6]
 audio_profile:
   tempo_avg: 114.2
   energy_avg: 0.437
@@ -26,42 +30,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Assunto Dukes
+    - The Assunto Dukes
   influenced: []
   mentors: []
 spotify_data:
   followers: 73
   id: 5e0Qg2i2pIMPJyn9IqYuzj
   popularity: 2
-  url: https://open.spotify.com/artist/5e0Qg2i2pIMPJyn9IqYuzj
+  url: 'https://open.spotify.com/artist/5e0Qg2i2pIMPJyn9IqYuzj'
 discography_enriched: true
 top_tracks:
-- Toulouse St. Blues (Toulouse Street Blues)
-- It's All Because Of You (Toulouse Street Blues)
-- Crescent City Serenade (Toulouse Street Blues)
-- The Accidental Stomp (Toulouse Street Blues)
-- Cakewalkin' Babies From Home (Toulouse Street Blues)
-- Shine (Toulouse Street Blues)
-- Blue Horizon (Toulouse Street Blues)
-- Way Down Yonder In New Orleans (Toulouse Street Blues)
-- Please Don't Talk About Me When I'm Gone (Toulouse Street Blues)
-- Keepin' Out of Mischief Now (Toulouse Street Blues)
+  - Toulouse St. Blues (Toulouse Street Blues)
+  - It's All Because Of You (Toulouse Street Blues)
+  - Crescent City Serenade (Toulouse Street Blues)
+  - The Accidental Stomp (Toulouse Street Blues)
+  - Cakewalkin' Babies From Home (Toulouse Street Blues)
+  - Shine (Toulouse Street Blues)
+  - Blue Horizon (Toulouse Street Blues)
+  - Way Down Yonder In New Orleans (Toulouse Street Blues)
+  - Please Don't Talk About Me When I'm Gone (Toulouse Street Blues)
+  - Keepin' Out of Mischief Now (Toulouse Street Blues)
 external_urls:
-  spotify: https://open.spotify.com/artist/5e0Qg2i2pIMPJyn9IqYuzj
+  spotify: 'https://open.spotify.com/artist/5e0Qg2i2pIMPJyn9IqYuzj'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/ryan_burrage.jpg
 biography_enhanced_at: '2025-12-10T05:24:09.954047'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Louisiana Music Artist Directory – entry listing Ryan Burrage as a New Orleans trad jazz clarinetist and band leader.[1]
-- Assunto Dukes official site – band member profile for Ryan Burrage and description of The Assunto Dukes.[6]
-- YouTube performance clips from Fritzel’s in the French Quarter crediting Ryan Burrage on reeds in a traditional jazz setting.[4]
-- Historical overview of the New Orleans Jazz & Heritage Festival, documenting the broader New Orleans and Cajun context in
-  which regional artists like Burrage perform.[2]
+  - >-
+    Louisiana Music Artist Directory – entry listing Ryan Burrage as a New
+    Orleans trad jazz clarinetist and band leader.[1]
+  - >-
+    Assunto Dukes official site – band member profile for Ryan Burrage and
+    description of The Assunto Dukes.[6]
+  - >-
+    YouTube performance clips from Fritzel’s in the French Quarter crediting
+    Ryan Burrage on reeds in a traditional jazz setting.[4]
+  - >-
+    Historical overview of the New Orleans Jazz & Heritage Festival, documenting
+    the broader New Orleans and Cajun context in which regional artists like
+    Burrage perform.[2]
 network_extracted: true
 entry_created: '2025-12-10T05:24:09.954055'
 last_updated: '2025-12-23T08:16:15.232173'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](ryan_burrage.jpg)

@@ -2,10 +2,10 @@
 title: Maxx Traxx
 wiki_slug: maxx-traxx
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- boogie
+  - boogie
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/maxx_traxx.jpg
   caption: Maxx Traxx
@@ -25,60 +25,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Terry Marshall
-  - Malcom Banks
-  - J.D. Gatlin
-  - Third Rail (earlier incarnation of the band)
+    - Terry Marshall
+    - Malcom Banks
+    - J.D. Gatlin
+    - Third Rail (earlier incarnation of the band)
   influenced: []
   mentors: []
 spotify_data:
   followers: 713
   id: 6doVvsRldTGAevBCs5l416
   popularity: 13
-  url: https://open.spotify.com/artist/6doVvsRldTGAevBCs5l416
+  url: 'https://open.spotify.com/artist/6doVvsRldTGAevBCs5l416'
 discography_enriched: true
 top_tracks:
-- Don't Touch It! (Maxx Traxx)
-- Just Had To Tell You (Reachin' For It)
-- Don't Touch It! - Cover (Don't Touch It!)
-- Reachin' For It (Reachin' For It)
-- Don't Touch It! (Don't Touch It!)
-- If You Want It (You Can Have It) (Reachin' For It)
-- Let's Have A Party (Maxx Traxx)
-- Just Had To Tell You (Eccentric Modern Soul)
-- 'Don''t Touch It! (Maxx Traxx: Third Rail)'
-- 'Reachin'' For It (Maxx Traxx: Third Rail)'
+  - Don't Touch It! (Maxx Traxx)
+  - Just Had To Tell You (Reachin' For It)
+  - Don't Touch It! - Cover (Don't Touch It!)
+  - Reachin' For It (Reachin' For It)
+  - Don't Touch It! (Don't Touch It!)
+  - If You Want It (You Can Have It) (Reachin' For It)
+  - Let's Have A Party (Maxx Traxx)
+  - Just Had To Tell You (Eccentric Modern Soul)
+  - 'Don''t Touch It! (Maxx Traxx: Third Rail)'
+  - 'Reachin'' For It (Maxx Traxx: Third Rail)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ec8a19c7-4df0-4d09-a15a-b71a1d2fb251
-  spotify: https://open.spotify.com/artist/6doVvsRldTGAevBCs5l416
+  musicbrainz: 'https://musicbrainz.org/artist/ec8a19c7-4df0-4d09-a15a-b71a1d2fb251'
+  spotify: 'https://open.spotify.com/artist/6doVvsRldTGAevBCs5l416'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/maxx_traxx.jpg
 biography_enhanced_at: '2025-12-14T01:52:30.902534'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- 'Newcity Music – “Soul Music Supernova: The Unforgettable But Almost Forgotten Saga of Maxx Traxx”[1]'
-- JazzRockSoul artist profile for Maxx Traxx[5]
-- Numero Group release notes for “Don’t Touch It”[3]
-- Sounds of the Universe – Maxx Traxx/Third Rail release description[4]
-- Defected/BBE feature on rare Chicago disco and boogie[6]
+  - >-
+    Newcity Music – “Soul Music Supernova: The Unforgettable But Almost
+    Forgotten Saga of Maxx Traxx”[1]
+  - 'JazzRockSoul artist profile for Maxx Traxx[5]'
+  - 'Numero Group release notes for “Don’t Touch It”[3]'
+  - 'Sounds of the Universe – Maxx Traxx/Third Rail release description[4]'
+  - 'Defected/BBE feature on rare Chicago disco and boogie[6]'
 network_extracted: true
 entry_created: '2025-12-14T01:52:30.902541'
 last_updated: '2025-12-23T08:16:12.872053'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7af70040-4c1e-4390-82b0-570b6f144c2a
-  name: Lee Gatlin
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c681dade-1292-4da3-a521-9516a1245890
-  name: Terry Marshall
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7af70040-4c1e-4390-82b0-570b6f144c2a
+    name: Lee Gatlin
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c681dade-1292-4da3-a521-9516a1245890
+    name: Terry Marshall
 musicbrainz_id: ec8a19c7-4df0-4d09-a15a-b71a1d2fb251
-origin: Chicago, Illinois, United States
-
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](maxx_traxx.jpg)

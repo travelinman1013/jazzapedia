@@ -3,15 +3,15 @@ title: Sufjan Stevens
 wiki_slug: sufjan-stevens
 schema_version: 2
 status: active
-birth_place: Detroit, Michigan, United States
+birth_place: 'Detroit, Michigan, United States'
 genres:
-- baroque pop
-- chamber pop
+  - baroque pop
+  - chamber pop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sufjan_stevens.jpg
   caption: Sufjan Stevens
   background: classical
-  origin: Detroit, Michigan, United States
+  origin: 'Detroit, Michigan, United States'
 audio_profile:
   tempo_avg: 125.6
   energy_avg: 0.284
@@ -27,48 +27,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lowell Brams
-  - Danielson Famile
-  - Marzuki
-  - Bryce Dessner
-  - Vito Aiuto
+    - Lowell Brams
+    - Danielson Famile
+    - Marzuki
+    - Bryce Dessner
+    - Vito Aiuto
   influenced: []
   mentors:
-  - Vince Guaraldi
-  - Steve Reich
-  - Philip Glass
+    - Vince Guaraldi
+    - Steve Reich
+    - Philip Glass
 spotify_data:
   followers: 2397773
   id: 4MXUO7sVCaFgFjoTI5ox5c
   popularity: 74
-  url: https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c
+  url: 'https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c'
 discography_enriched: true
 top_tracks:
-- Fourth of July (Carrie & Lowell)
-- Futile Devices (Doveman Remix)
-- Mystery of Love
-- Visions of Gideon
-- Mystery of Love
-- Mystery of Love (From the Original Motion Picture “Call Me by Your Name”)
-- Should Have Known Better (Carrie & Lowell)
-- Death with Dignity (Carrie & Lowell)
-- Futile Devices (Doveman Remix)
-- Chicago (Illinois)
+  - Fourth of July (Carrie & Lowell)
+  - Futile Devices (Doveman Remix)
+  - Mystery of Love
+  - Visions of Gideon
+  - Mystery of Love
+  - Mystery of Love (From the Original Motion Picture “Call Me by Your Name”)
+  - Should Have Known Better (Carrie & Lowell)
+  - Death with Dignity (Carrie & Lowell)
+  - Futile Devices (Doveman Remix)
+  - Chicago (Illinois)
 external_urls:
-  spotify: https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c
-  wikipedia: https://en.wikipedia.org/wiki/Sufjan_Stevens
+  spotify: 'https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sufjan_Stevens'
 image_path: 03_Resources/source_material/ArtistPortraits/sufjan_stevens.jpg
 biography_enhanced_at: '2025-12-19T02:01:17.431541'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Sufjan+Stevens/+wiki
-- https://en.wikipedia.org/wiki/Sufjan_Stevens
-- https://www.sufjanstevens.us/bio.html
-- https://asthmatickitty.com/artists/sufjan-stevens/
+  - 'https://www.last.fm/music/Sufjan+Stevens/+wiki'
+  - 'https://en.wikipedia.org/wiki/Sufjan_Stevens'
+  - 'https://www.sufjanstevens.us/bio.html'
+  - 'https://asthmatickitty.com/artists/sufjan-stevens/'
 network_extracted: true
 entry_created: '2025-12-19T02:01:17.431549'
 last_updated: '2025-12-23T08:16:16.198164'
+birth_date: '1975-07-01'
+artist_type: person
 ---
 
 ![](sufjan_stevens.jpg)

@@ -1,44 +1,49 @@
 ---
 biography_enhanced_at: '2026-01-02T01:22:32.659019'
-birth_place: Bronx, New York City, USA (birthplace); Long Island, New York, USA (raised);
+birth_place: >-
+  Bronx, New York City, USA (birthplace); Long Island, New York, USA (raised);
   Chicago, Illinois, USA (base since 1995)
 enhancement_provider: perplexity
 entry_created: '2026-01-02T01:22:32.659023'
 external_urls:
-  spotify: https://open.spotify.com/artist/4hD87GpGZqXwzAqWZqpGLU
+  spotify: 'https://open.spotify.com/artist/4hD87GpGZqXwzAqWZqpGLU'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/paul_giallorenzos_gitgo.jpg
 last_updated: '2026-01-02T01:22:32.659024'
 musical_connections:
   collaborators:
-  - Jason Stein
-  - Mars Williams
-  - Chad Taylor
-  - Joshua Abrams
-  - Mikel Patrick Avery
-  - Ingebrigt Håker Flaten
-  - Charlie Kirchen
-  - Ryan Packard
-  - Ben LaMar Gay
+    - Jason Stein
+    - Mars Williams
+    - Chad Taylor
+    - Joshua Abrams
+    - Mikel Patrick Avery
+    - Ingebrigt Håker Flaten
+    - Charlie Kirchen
+    - Ryan Packard
+    - Ben LaMar Gay
   influenced: []
   mentors:
-  - High-school band teacher
+    - High-school band teacher
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://music.newcity.com/2024/06/13/moody-riffs-a-preview-of-paul-giallorenzo-at-hungry-brain/
-- https://paulgiallorenzo.com/Audio
-- https://www.pghcitypaper.com/arts-entertainment-2/on-the-record-with-paul-giallorenzo-of-gitgo-1792093/
-- https://paulgiallorenzo.com/News
-- https://www.allaboutjazz.com/musicians/paul-giallorenzo/
+  - >-
+    https://music.newcity.com/2024/06/13/moody-riffs-a-preview-of-paul-giallorenzo-at-hungry-brain/
+  - 'https://paulgiallorenzo.com/Audio'
+  - >-
+    https://www.pghcitypaper.com/arts-entertainment-2/on-the-record-with-paul-giallorenzo-of-gitgo-1792093/
+  - 'https://paulgiallorenzo.com/News'
+  - 'https://www.allaboutjazz.com/musicians/paul-giallorenzo/'
 spotify_data:
   followers: 21
   id: 4hD87GpGZqXwzAqWZqpGLU
   popularity: 0
-  url: https://open.spotify.com/artist/4hD87GpGZqXwzAqWZqpGLU
+  url: 'https://open.spotify.com/artist/4hD87GpGZqXwzAqWZqpGLU'
 status: active
-title: Paul Giallorenzo`s Gitgo
+title: Paul Giallorenzo’s Gitgo
+origin: 'Chicago, Illinois, United States'
+artist_type: person
 ---
 
 ![](paul_giallorenzos_gitgo.jpg)

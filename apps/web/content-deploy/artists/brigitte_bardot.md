@@ -2,51 +2,52 @@
 artist_type: person
 biography_enhanced_at: '2025-12-31T01:49:06.266537'
 birth_date: '1934-09-28'
-birth_place: Paris
+birth_place: 'Paris, Île-de-France, France'
 death_date: '2025-12-28'
 enhancement_provider: perplexity
 entry_created: '2025-12-31T01:49:06.266542'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/efbdded5-ab91-4bb7-ba57-f36d7413eb70
-  spotify: https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy
+  musicbrainz: 'https://musicbrainz.org/artist/efbdded5-ab91-4bb7-ba57-f36d7413eb70'
+  spotify: 'https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy'
   wikipedia: ''
 gender: Female
 genres:
-- french jazz
-- french pop
-- chanson
-- variété française
+  - french jazz
+  - french pop
+  - chanson
+  - variété française
 image_path: 03_Resources/source_material/ArtistPortraits/brigitte_bardot.jpg
 instruments:
-- spoken vocals
+  - spoken vocals
 last_updated: '2025-12-31T01:49:06.266543'
 musical_connections:
   collaborators:
-  - Serge Gainsbourg
-  - Roger Vadim
-  - Jeanne Moreau
+    - Serge Gainsbourg
+    - Roger Vadim
+    - Jeanne Moreau
   influenced: []
   mentors:
-  - Roger Vadim
+    - Roger Vadim
 musicbrainz_id: efbdded5-ab91-4bb7-ba57-f36d7413eb70
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.biography.com/actors/a45974111/brigitte-bardot
-- https://www.imdb.com/name/nm0000003/
-- https://www.britannica.com/biography/Brigitte-Bardot
-- https://www.youtube.com/watch?v=nadgGePVhww
+  - 'https://www.biography.com/actors/a45974111/brigitte-bardot'
+  - 'https://www.imdb.com/name/nm0000003/'
+  - 'https://www.britannica.com/biography/Brigitte-Bardot'
+  - 'https://www.youtube.com/watch?v=nadgGePVhww'
 spotify_data:
   followers: 165961
   id: 1q24xIsAD7JZuVkTLR9TJy
   popularity: 53
-  url: https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy
+  url: 'https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy'
 status: active
 tags:
-- chanson française
-- european
-- french
+  - chanson française
+  - european
+  - french
 title: Brigitte Bardot
+is_active: false
 ---
 
 ![](brigitte_bardot.jpg)

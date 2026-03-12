@@ -1,25 +1,25 @@
 ---
-title: dick dale
+title: Dick Dale
 wiki_slug: dick-dale
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1937-05-04'
-birth_place: Boston
+birth_place: 'Boston, Massachusetts, United States'
 death_date: '2019-03-16'
 genres:
-- surf rock
+  - surf rock
 instruments:
-- eponymous
-- guitar
-- lead vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
-  mbid: 820263ae-ab51-426d-85e9-bed5a74f00e1
-  name: Dick Dale and His Del‐Tones
+  - guitar
+  - lead vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 820263ae-ab51-426d-85e9-bed5a74f00e1
+    name: Dick Dale and His Del‐Tones
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/dick_dale.jpg
   caption: dick dale
@@ -28,7 +28,7 @@ infobox:
   origin: Boston
   died: '2019-03-16'
 audio_profile:
-  tempo_avg: 145.0
+  tempo_avg: 145
   energy_avg: 0.847
   valence_avg: 0.591
   danceability_avg: 0.369
@@ -42,50 +42,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Del-Tones
-  - Stevie Ray Vaughan
+    - The Del-Tones
+    - Stevie Ray Vaughan
   influenced:
-  - The Beach Boys
-  - Jimi Hendrix
-  - Pete Townshend
-  - Eddie Van Halen
-  - Brian May
-  - Jan and Dean
-  - The Trashmen
+    - The Beach Boys
+    - Jimi Hendrix
+    - Pete Townshend
+    - Eddie Van Halen
+    - Brian May
+    - Jan and Dean
+    - The Trashmen
   mentors:
-  - Leo Fender
+    - Leo Fender
 spotify_data:
   followers: 137919
   id: 6Ycrt8OjGSSFihsb0446eg
   popularity: 41
-  url: https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg
+  url: 'https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg'
 discography_enriched: true
 top_tracks:
-- Misirlou (Wanna Surf?)
-- Misirlou (Surfer´s Paradise, Vol.1)
-- Miserlou
-- Pipeline (Solos, Sessions & Encores)
-- Misirlou (Alternative Take) (Wanna Surf?)
-- Nitro (Tribal Thunder)
-- Space Mountain - From "Space Mountain"
-- Nitrus (Calling Up Spirits)
-- Pipeline
-- Third Stone from the Sun (Calling Up Spirits)
+  - Misirlou (Wanna Surf?)
+  - 'Misirlou (Surfer´s Paradise, Vol.1)'
+  - Miserlou
+  - 'Pipeline (Solos, Sessions & Encores)'
+  - Misirlou (Alternative Take) (Wanna Surf?)
+  - Nitro (Tribal Thunder)
+  - Space Mountain - From "Space Mountain"
+  - Nitrus (Calling Up Spirits)
+  - Pipeline
+  - Third Stone from the Sun (Calling Up Spirits)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/cc6115aa-379c-4133-9f46-5743a4a341d0
-  spotify: https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg
-  wikipedia: https://en.wikipedia.org/wiki/Dick_Dale
+  musicbrainz: 'https://musicbrainz.org/artist/cc6115aa-379c-4133-9f46-5743a4a341d0'
+  spotify: 'https://open.spotify.com/artist/6Ycrt8OjGSSFihsb0446eg'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dick_Dale'
 image_path: 03_Resources/source_material/ArtistPortraits/dick_dale.jpg
 biography_enhanced_at: '2025-10-25T10:15:38.739734'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Dick_Dale
-- https://teachrock.org/people/dale-dick/
-- https://top40weekly.com/dick-dale/
-- https://www.britannica.com/biography/Dick-Dale
-- https://www.history-of-rock.com/dick_dale_and_the_deltones.htm
-- https://www.fender.com/articles/fender-performances/the-father-of-surf-7-essential-dick-dale-facts
+  - 'https://en.wikipedia.org/wiki/Dick_Dale'
+  - 'https://teachrock.org/people/dale-dick/'
+  - 'https://top40weekly.com/dick-dale/'
+  - 'https://www.britannica.com/biography/Dick-Dale'
+  - 'https://www.history-of-rock.com/dick_dale_and_the_deltones.htm'
+  - >-
+    https://www.fender.com/articles/fender-performances/the-father-of-surf-7-essential-dick-dale-facts
 network_extracted: true
 entry_created: '2025-10-25T10:15:38.739744'
 last_updated: '2025-12-23T08:16:07.759640'
@@ -93,9 +94,11 @@ disambiguation: surf guitarist
 gender: Male
 musicbrainz_id: cc6115aa-379c-4133-9f46-5743a4a341d0
 tags:
-- instrumental rock
-- protopunk
-- rock and roll
+  - instrumental rock
+  - protopunk
+  - rock and roll
+is_active: false
+origin: 'Balboa, California, United States'
 ---
 
 ![](dick_dale.jpg)

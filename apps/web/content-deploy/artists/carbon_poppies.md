@@ -23,43 +23,44 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - New Adventures in Pop (Label/Collective)
-  - Elefant Records
-  - Philippe Billeaudeaux
+    - New Adventures in Pop (Label/Collective)
+    - Elefant Records
+    - Philippe Billeaudeaux
   influenced: []
   mentors: []
 spotify_data:
   followers: 262
   id: 2lHAXWKLnyaoiqq7C3HA06
   popularity: 0
-  url: https://open.spotify.com/artist/2lHAXWKLnyaoiqq7C3HA06
+  url: 'https://open.spotify.com/artist/2lHAXWKLnyaoiqq7C3HA06'
 discography_enriched: true
 top_tracks:
-- Rain on My Face (Rain on My Face)
-- Strangers (Strangers (Single EP))
-- 'Rain On My Face (No Future: A "New Adventures In Pop" Compilation • Unit 1)'
-- Never Go Oustide (Strangers (Single EP))
-- In Two (Strangers (Single EP))
-- Rain On My Face (Rain On My Face)
-- You And I (Rain On My Face)
-- How Long (Rain On My Face)
-- I'll Meet You There (Rain On My Face)
-- Gone (And Don't the Kids Just Love It)
+  - Rain on My Face (Rain on My Face)
+  - Strangers (Strangers (Single EP))
+  - 'Rain On My Face (No Future: A "New Adventures In Pop" Compilation • Unit 1)'
+  - Never Go Oustide (Strangers (Single EP))
+  - In Two (Strangers (Single EP))
+  - Rain On My Face (Rain On My Face)
+  - You And I (Rain On My Face)
+  - How Long (Rain On My Face)
+  - I'll Meet You There (Rain On My Face)
+  - Gone (And Don't the Kids Just Love It)
 external_urls:
-  spotify: https://open.spotify.com/artist/2lHAXWKLnyaoiqq7C3HA06
+  spotify: 'https://open.spotify.com/artist/2lHAXWKLnyaoiqq7C3HA06'
   wikipedia: Not found
 image_path: 03_Resources/source_material/ArtistPortraits/carbon_poppies.jpg
 biography_enhanced_at: '2025-11-27T06:42:30.893293'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- elefant.com - Carbon Poppies Biography
-- newadventuresinpop.bandcamp.com - Rain On My Face
-- thecurrentla.com - Philippe Billeaudeaux's claymation work
+  - elefant.com - Carbon Poppies Biography
+  - newadventuresinpop.bandcamp.com - Rain On My Face
+  - thecurrentla.com - Philippe Billeaudeaux's claymation work
 network_extracted: true
 entry_created: '2025-11-27T06:42:30.893311'
 last_updated: '2025-12-23T08:16:06.405463'
-origin: Louisiana, United States
+origin: 'Louisiana, United States'
+artist_type: band
 ---
 
 ![](carbon_poppies.jpg)

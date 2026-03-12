@@ -3,18 +3,18 @@ title: Larry Young
 wiki_slug: larry-young
 schema_version: 2
 status: active
-birth_place: Newark, New Jersey, United States
+birth_place: 'Newark, New Jersey, United States'
 genres:
-- hard bop
-- jazz
-- soul jazz
-- free jazz
-- bebop
+  - hard bop
+  - jazz
+  - soul jazz
+  - free jazz
+  - bebop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/larry_young.jpg
   caption: Larry Young
   background: solo_singer
-  origin: Newark, New Jersey, United States
+  origin: 'Newark, New Jersey, United States'
 audio_profile:
   tempo_avg: 111.8
   energy_avg: 0.56
@@ -30,55 +30,69 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John Coltrane
-  - Woody Shaw
-  - Joe Henderson
-  - Elvin Jones
-  - Tony Williams
-  - John McLaughlin
-  - Miles Davis
+    - John Coltrane
+    - Woody Shaw
+    - Joe Henderson
+    - Elvin Jones
+    - Tony Williams
+    - John McLaughlin
+    - Miles Davis
   influenced:
-  - Jack McDuff
-  - Tony Williams
+    - Jack McDuff
+    - Tony Williams
   mentors:
-  - Olga Von Till
-  - Grandfather (unnamed)
-  - Jimmy Smith
+    - Olga Von Till
+    - Grandfather (unnamed)
+    - Jimmy Smith
 spotify_data:
   followers: 12258
   id: 6Y6kAZs0W9NNsxNbpImPvq
   popularity: 25
-  url: https://open.spotify.com/artist/6Y6kAZs0W9NNsxNbpImPvq
+  url: 'https://open.spotify.com/artist/6Y6kAZs0W9NNsxNbpImPvq'
 discography_enriched: true
 top_tracks:
-- The Moontrane - Rudy Van Gelder 24Bit Mastering/Digital Remaster/1998 (Unity (Remastered / Rudy Van Gelder Edition))
-- Plaza De Toros (Into Somethin')
-- Zoltan - Rudy Van Gelder 24Bit Mastering/Digital Remaster/1998 (Unity (Remastered / Rudy Van Gelder Edition))
-- Monk's Dream - Rudy Van Gelder 24Bit Mastering/Digital Remaster/1998 (Unity (Remastered / Rudy Van Gelder Edition))
-- Softly As In A Morning Sunrise - Rudy Van Gelder 24Bit Mastering/Digital Remaster/1998 (Unity (Remastered / Rudy Van Gelder
-  Edition))
-- If - Rudy Van Gelder 24Bit Mastering/Digital Remaster/1998 (Unity (Remastered / Rudy Van Gelder Edition))
-- Turn Off the Lights (Larry Young's Fuel)
-- Beyond All Limits - Rudy Van Gelder 24Bit Mastering/Digital Remaster/1998 (Unity (Remastered / Rudy Van Gelder Edition))
-- Paris Eyes - Remastered (Into Somethin')
-- Tyrone - Remastered (Into Somethin')
+  - >-
+    The Moontrane - Rudy Van Gelder 24Bit Mastering/Digital Remaster/1998 (Unity
+    (Remastered / Rudy Van Gelder Edition))
+  - Plaza De Toros (Into Somethin')
+  - >-
+    Zoltan - Rudy Van Gelder 24Bit Mastering/Digital Remaster/1998 (Unity
+    (Remastered / Rudy Van Gelder Edition))
+  - >-
+    Monk's Dream - Rudy Van Gelder 24Bit Mastering/Digital Remaster/1998 (Unity
+    (Remastered / Rudy Van Gelder Edition))
+  - >-
+    Softly As In A Morning Sunrise - Rudy Van Gelder 24Bit Mastering/Digital
+    Remaster/1998 (Unity (Remastered / Rudy Van Gelder Edition))
+  - >-
+    If - Rudy Van Gelder 24Bit Mastering/Digital Remaster/1998 (Unity
+    (Remastered / Rudy Van Gelder Edition))
+  - Turn Off the Lights (Larry Young's Fuel)
+  - >-
+    Beyond All Limits - Rudy Van Gelder 24Bit Mastering/Digital Remaster/1998
+    (Unity (Remastered / Rudy Van Gelder Edition))
+  - Paris Eyes - Remastered (Into Somethin')
+  - Tyrone - Remastered (Into Somethin')
 external_urls:
-  spotify: https://open.spotify.com/artist/6Y6kAZs0W9NNsxNbpImPvq
+  spotify: 'https://open.spotify.com/artist/6Y6kAZs0W9NNsxNbpImPvq'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/larry_young.jpg
 biography_enhanced_at: '2025-12-13T11:27:32.766415'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.youtube.com/watch?v=qT0R1TXfpJE
-- https://www.pointofdeparture.org/PoD75/PoD75Young.html
-- https://www.allaboutjazz.com/musicians/larry-young/
-- https://www.udiscovermusic.com/stories/into-somethin-larry-young-blue-note/
-- https://www.bluenote.com/spotlight/the-jazz-organ-shake-up-larry-youngs-unity/
-- https://www.iajo.org/iajo04/usa/young.htm
+  - 'https://www.youtube.com/watch?v=qT0R1TXfpJE'
+  - 'https://www.pointofdeparture.org/PoD75/PoD75Young.html'
+  - 'https://www.allaboutjazz.com/musicians/larry-young/'
+  - 'https://www.udiscovermusic.com/stories/into-somethin-larry-young-blue-note/'
+  - >-
+    https://www.bluenote.com/spotlight/the-jazz-organ-shake-up-larry-youngs-unity/
+  - 'https://www.iajo.org/iajo04/usa/young.htm'
 network_extracted: true
 entry_created: '2025-12-13T11:27:32.766423'
 last_updated: '2025-12-23T08:16:11.615942'
+birth_date: '1940-10-07'
+artist_type: person
 ---
 
 ![](larry_young.jpg)

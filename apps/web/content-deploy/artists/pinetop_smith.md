@@ -1,19 +1,19 @@
 ---
-title: pinetop smith
+title: Pinetop Smith
 wiki_slug: pinetop-smith
 schema_version: 2
 status: active
-birth_place: Troy, Alabama, United States
+birth_place: 'Troy, Alabama, United States'
 genres:
-- boogie-woogie
-- ragtime
-- blues
-- boogie
+  - boogie-woogie
+  - ragtime
+  - blues
+  - boogie
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/pinetop_smith.jpg
   caption: pinetop smith
   background: solo_singer
-  origin: Troy, Alabama, United States
+  origin: 'Troy, Alabama, United States'
 audio_profile:
   tempo_avg: 131.3
   energy_avg: 0.141
@@ -29,55 +29,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ma Rainey
-  - Butterbeans & Susie
-  - Meade Lux Lewis
-  - Albert Ammons
+    - Ma Rainey
+    - Butterbeans & Susie
+    - Meade Lux Lewis
+    - Albert Ammons
   influenced:
-  - Albert Ammons
-  - Pete Johnson
-  - Tommy Dorsey
-  - Bing Crosby
-  - Count Basie
+    - Albert Ammons
+    - Pete Johnson
+    - Tommy Dorsey
+    - Bing Crosby
+    - Count Basie
   mentors:
-  - Cow Cow Davenport
+    - Cow Cow Davenport
 spotify_data:
   followers: 1595
   id: 1dtg2VxLLD9uVSQ0LySKw4
   popularity: 9
-  url: https://open.spotify.com/artist/1dtg2VxLLD9uVSQ0LySKw4
+  url: 'https://open.spotify.com/artist/1dtg2VxLLD9uVSQ0LySKw4'
 discography_enriched: true
 top_tracks:
-- Pinetop's Boogie Woogie - Remaster (Pinetop's Boogie Woogie (Remaster))
-- Pinetop's Boogie Woogie
-- I'm Sober Now (Sober Now)
-- Jump Steady Blues
-- Pinetop's Boogie Woogie (The Masters Of The Boogie Woogie Piano 1924-1939)
-- Pinetops Boogie Woogie
-- Jump Steady Blues
-- Boogie Woogie (Empire Brass In Japan (Live at Hitomi Commemoration Auditorium, 1986))
-- Boogie Woogie
-- 'Pinetop''s Blues (Really the Blues?: A Blues History (1893-1959), Vol. 1 (1893-1929))'
+  - Pinetop's Boogie Woogie - Remaster (Pinetop's Boogie Woogie (Remaster))
+  - Pinetop's Boogie Woogie
+  - I'm Sober Now (Sober Now)
+  - Jump Steady Blues
+  - Pinetop's Boogie Woogie (The Masters Of The Boogie Woogie Piano 1924-1939)
+  - Pinetops Boogie Woogie
+  - Jump Steady Blues
+  - >-
+    Boogie Woogie (Empire Brass In Japan (Live at Hitomi Commemoration
+    Auditorium, 1986))
+  - Boogie Woogie
+  - >-
+    Pinetop's Blues (Really the Blues?: A Blues History (1893-1959), Vol. 1
+    (1893-1929))
 external_urls:
-  spotify: https://open.spotify.com/artist/1dtg2VxLLD9uVSQ0LySKw4
-  wikipedia: https://en.wikipedia.org/wiki/Pinetop_Smith
+  spotify: 'https://open.spotify.com/artist/1dtg2VxLLD9uVSQ0LySKw4'
+  wikipedia: 'https://en.wikipedia.org/wiki/Pinetop_Smith'
 image_path: 03_Resources/source_material/ArtistPortraits/pinetop_smith.jpg
 biography_enhanced_at: '2025-11-20T07:33:53.607284'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Pinetop_Smith
-- https://wbssmedia.com/artists/detail/1235
-- http://www.unconservatory.org/celam/clarencesmithbio.html
-- http://oldtimeblues.net/2015/06/17/vocalion-1245-pine-top-smith-1928/
-- https://aaregistry.org/story/mr-boogie-woogie-pine-top-smith/
-- http://ragpiano.com/comps/csmith.shtml
-- https://curtsblues.com/elementor-7617/
-- https://www.tracklib.com/music/artists/pinetop-smith
+  - 'https://en.wikipedia.org/wiki/Pinetop_Smith'
+  - 'https://wbssmedia.com/artists/detail/1235'
+  - 'http://www.unconservatory.org/celam/clarencesmithbio.html'
+  - 'http://oldtimeblues.net/2015/06/17/vocalion-1245-pine-top-smith-1928/'
+  - 'https://aaregistry.org/story/mr-boogie-woogie-pine-top-smith/'
+  - 'http://ragpiano.com/comps/csmith.shtml'
+  - 'https://curtsblues.com/elementor-7617/'
+  - 'https://www.tracklib.com/music/artists/pinetop-smith'
 network_extracted: true
 entry_created: '2025-11-20T07:33:53.607291'
 last_updated: '2025-12-23T08:16:14.308998'
-
+birth_date: '1904-06-11'
+artist_type: person
 ---
 
 ![](pinetop_smith.jpg)

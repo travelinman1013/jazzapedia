@@ -3,40 +3,45 @@ biography_enhanced_at: '2026-01-08T01:44:46.523972'
 enhancement_provider: perplexity
 entry_created: '2026-01-08T01:44:46.523982'
 external_urls:
-  spotify: https://open.spotify.com/artist/2ifyiiFYH9KXlXQsTujhPR
+  spotify: 'https://open.spotify.com/artist/2ifyiiFYH9KXlXQsTujhPR'
   wikipedia: ''
 genres:
-- modern blues
+  - modern blues
 image_path: 03_Resources/source_material/ArtistPortraits/brian_stoltz_shannon_mcnally.jpg
 last_updated: '2026-01-08T01:44:46.523982'
 musical_connections:
   collaborators:
-  - Dr. John (Mac Rebennack)
-  - Don Was
-  - John Gros
-  - George Porter Jr.
-  - Shannon McNally
+    - Dr. John (Mac Rebennack)
+    - Don Was
+    - John Gros
+    - George Porter Jr.
+    - Shannon McNally
   influenced: []
   mentors: []
 network_extracted: true
-origin: New Orleans, Louisiana, United States (shared modern blues/New Orleans roots
+origin: >-
+  New Orleans, Louisiana, United States (shared modern blues/New Orleans roots
   context for their collaborative work)
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Musical_Mojo_of_Dr._John:_Celebrating_Mac_and_His_Music
-- https://livingblues.com/december-2016-top-10-reviews/
-- https://martyrslive.com/ace-anderson-chute-easley
-- https://blackbirdpresents.com/new-orleans-music-legend-dr-john-gets-a-timely-all-star-tribute-the-musical-mojo-of-dr-john/
-- https://dirtycoast.com/pages/great-day-in-new-orleans
-- http://brucebase.wikidot.com/retail:the-musical-mojo-of-dr-john
-- https://jambands.com/features/2011/03/11/it-s-all-just-music-george-porter-jr-and-brian-stoltz-maintain-the-meters-legacy/3/
+  - >-
+    https://en.wikipedia.org/wiki/The_Musical_Mojo_of_Dr._John:_Celebrating_Mac_and_His_Music
+  - 'https://livingblues.com/december-2016-top-10-reviews/'
+  - 'https://martyrslive.com/ace-anderson-chute-easley'
+  - >-
+    https://blackbirdpresents.com/new-orleans-music-legend-dr-john-gets-a-timely-all-star-tribute-the-musical-mojo-of-dr-john/
+  - 'https://dirtycoast.com/pages/great-day-in-new-orleans'
+  - 'http://brucebase.wikidot.com/retail:the-musical-mojo-of-dr-john'
+  - >-
+    https://jambands.com/features/2011/03/11/it-s-all-just-music-george-porter-jr-and-brian-stoltz-maintain-the-meters-legacy/3/
 spotify_data:
   followers: 259
   id: 2ifyiiFYH9KXlXQsTujhPR
   popularity: 3
-  url: https://open.spotify.com/artist/2ifyiiFYH9KXlXQsTujhPR
+  url: 'https://open.spotify.com/artist/2ifyiiFYH9KXlXQsTujhPR'
 status: active
-title: Brian Stoltz, Shannon McNally
+title: 'Brian Stoltz, Shannon McNally'
+artist_type: person
 ---
 
 ![](brian_stoltz_shannon_mcnally.jpg)

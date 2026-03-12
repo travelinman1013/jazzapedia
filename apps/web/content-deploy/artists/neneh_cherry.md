@@ -5,43 +5,43 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1964-03-10'
-birth_place: Stockholm
+birth_place: 'Stockholm, Sweden'
 genres: []
 instruments:
-- spoken vocals
-- lead vocals
-- background vocals
+  - spoken vocals
+  - lead vocals
+  - background vocals
 associated_acts:
-- begin: '1985'
-  end: '1986'
-  instruments: []
-  mbid: a7409219-a681-4072-adb2-5285106ce6f2
-  name: The The
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5bc00e04-97da-47c5-9588-7cc9b39a6d54
-  name: cirKus
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ff9ef2ef-73a6-496c-8528-4b12b21afbfd
-  name: The Slits
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c1ecf294-30b0-42da-9d39-f310efa0bd96
-  name: Float Up CP
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: fcd17591-b5b1-4ac6-888b-8b96e9c0b44c
-  name: Rip Rig + Panic
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b3475b39-db62-4a4d-ad9f-d37171cf93cd
-  name: Cherries
+  - begin: '1985'
+    end: '1986'
+    instruments: []
+    mbid: a7409219-a681-4072-adb2-5285106ce6f2
+    name: The The
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5bc00e04-97da-47c5-9588-7cc9b39a6d54
+    name: cirKus
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ff9ef2ef-73a6-496c-8528-4b12b21afbfd
+    name: The Slits
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c1ecf294-30b0-42da-9d39-f310efa0bd96
+    name: Float Up CP
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: fcd17591-b5b1-4ac6-888b-8b96e9c0b44c
+    name: Rip Rig + Panic
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b3475b39-db62-4a4d-ad9f-d37171cf93cd
+    name: Cherries
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/neneh_cherry.jpg
   caption: Neneh Cherry
@@ -63,64 +63,65 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Cameron McVey (Booga Bear, Burt Ford)
-  - Jonny Dollar
-  - Massive Attack (Robert Del Naja, Andrew Vowles)
-  - Youssou N’Dour
-  - Rip Rig + Panic / Float Up CP
-  - New Age Steppers
-  - The Thing
-  - cirKus
-  - Groove Armada
-  - Gorillaz
+    - 'Cameron McVey (Booga Bear, Burt Ford)'
+    - Jonny Dollar
+    - 'Massive Attack (Robert Del Naja, Andrew Vowles)'
+    - Youssou N’Dour
+    - Rip Rig + Panic / Float Up CP
+    - New Age Steppers
+    - The Thing
+    - cirKus
+    - Groove Armada
+    - Gorillaz
   influenced:
-  - Trip‑hop and Bristol‑scene artists (e.g., Tricky, Massive Attack circle)
-  - Subsequent generations of female rappers and alternative pop artists
+    - 'Trip‑hop and Bristol‑scene artists (e.g., Tricky, Massive Attack circle)'
+    - Subsequent generations of female rappers and alternative pop artists
   mentors:
-  - Don Cherry
-  - The Slits (Ari Up, Tessa Pollitt, Viv Albertine)
-  - Poly Styrene (X‑Ray Spex)
+    - Don Cherry
+    - 'The Slits (Ari Up, Tessa Pollitt, Viv Albertine)'
+    - Poly Styrene (X‑Ray Spex)
 spotify_data:
   followers: 183861
   id: 3JxCEqL9zjKnDJgUhRuRJD
   popularity: 58
-  url: https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD
+  url: 'https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD'
 discography_enriched: true
 top_tracks:
-- Kids with Guns (Demon Days)
-- 7 Seconds (feat. Neneh Cherry) (The Guide (Wommat))
-- 7 Seconds (feat. Neneh Cherry)
-- Woman (Man)
-- Buffalo Stance (Raw Like Sushi)
-- 7 Seconds (feat. Neneh Cherry) (The Guide (Wommat))
-- Manchild (Raw Like Sushi)
-- Wherever You Go (We Will Always Love You)
-- Immortal Queen (feat. Chaka Khan & Neneh Cherry)
-- 7 Seconds (Man)
+  - Kids with Guns (Demon Days)
+  - 7 Seconds (feat. Neneh Cherry) (The Guide (Wommat))
+  - 7 Seconds (feat. Neneh Cherry)
+  - Woman (Man)
+  - Buffalo Stance (Raw Like Sushi)
+  - 7 Seconds (feat. Neneh Cherry) (The Guide (Wommat))
+  - Manchild (Raw Like Sushi)
+  - Wherever You Go (We Will Always Love You)
+  - Immortal Queen (feat. Chaka Khan & Neneh Cherry)
+  - 7 Seconds (Man)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/527c65d1-9fdb-4482-8796-dde2980bd63a
-  spotify: https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD
-  wikipedia: https://en.wikipedia.org/wiki/Neneh_Cherry
+  musicbrainz: 'https://musicbrainz.org/artist/527c65d1-9fdb-4482-8796-dde2980bd63a'
+  spotify: 'https://open.spotify.com/artist/3JxCEqL9zjKnDJgUhRuRJD'
+  wikipedia: 'https://en.wikipedia.org/wiki/Neneh_Cherry'
 image_path: 03_Resources/source_material/ArtistPortraits/neneh_cherry.jpg
 biography_enhanced_at: '2025-12-16T03:11:39.756467'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Neneh_Cherry
-- https://www.last.fm/music/Neneh+Cherry/+wiki
-- https://www.thecurrent.org/feature/2017/03/03/today-in-music-history-pink-floyd-released-the-dark-side-of-the-moon
-- https://www.udiscovermusic.com/artist/neneh-cherry/
-- https://www.imdb.com/name/nm1220462/
-- https://www.simonandschuster.com/authors/Neneh-Cherry/175057657
+  - 'https://en.wikipedia.org/wiki/Neneh_Cherry'
+  - 'https://www.last.fm/music/Neneh+Cherry/+wiki'
+  - >-
+    https://www.thecurrent.org/feature/2017/03/03/today-in-music-history-pink-floyd-released-the-dark-side-of-the-moon
+  - 'https://www.udiscovermusic.com/artist/neneh-cherry/'
+  - 'https://www.imdb.com/name/nm1220462/'
+  - 'https://www.simonandschuster.com/authors/Neneh-Cherry/175057657'
 network_extracted: true
 entry_created: '2025-12-16T03:11:39.756480'
 last_updated: '2025-12-23T08:16:13.484146'
 gender: Female
 musicbrainz_id: 527c65d1-9fdb-4482-8796-dde2980bd63a
 tags:
-- 00s
-- 10s
-- 80s
+  - 00s
+  - 10s
+  - 80s
 ---
 
 ![](neneh_cherry.jpg)

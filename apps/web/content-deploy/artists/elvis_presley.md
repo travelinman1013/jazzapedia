@@ -5,38 +5,38 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1935-01-08'
-birth_place: Tupelo
+birth_place: 'Tupelo, Mississippi, United States'
 death_date: '1977-08-16'
 genres:
-- rockabilly
-- rock and roll
+  - rockabilly
+  - rock and roll
 instruments:
-- lead vocals
-- electric guitar
-- guitar
-- piano
-- acoustic guitar
-- spoken vocals
-- other vocals
-- background vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8764d6b7-763b-4ab0-8940-60a50fb294f0
-  name: Elvis, Scotty & Bill
-- begin: ''
-  end: ''
-  instruments:
   - lead vocals
-  mbid: be6f3c42-4a84-4bbc-9471-30c981d8afc4
-  name: The Blue Moon Boys
-- begin: ''
-  end: ''
-  instruments:
   - electric guitar
-  mbid: be6f3c42-4a84-4bbc-9471-30c981d8afc4
-  name: The Blue Moon Boys
+  - guitar
+  - piano
+  - acoustic guitar
+  - spoken vocals
+  - other vocals
+  - background vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8764d6b7-763b-4ab0-8940-60a50fb294f0
+    name: 'Elvis, Scotty & Bill'
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: be6f3c42-4a84-4bbc-9471-30c981d8afc4
+    name: The Blue Moon Boys
+  - begin: ''
+    end: ''
+    instruments:
+      - electric guitar
+    mbid: be6f3c42-4a84-4bbc-9471-30c981d8afc4
+    name: The Blue Moon Boys
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/elvis_presley.jpg
   caption: Elvis Presley
@@ -59,48 +59,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Scotty Moore
-  - Bill Black
-  - The Jordanaires
+    - Scotty Moore
+    - Bill Black
+    - The Jordanaires
   influenced:
-  - The Beatles
-  - Bob Dylan
-  - Modern rock, pop, and country artists (various)
+    - The Beatles
+    - Bob Dylan
+    - 'Modern rock, pop, and country artists (various)'
   mentors:
-  - Sam Phillips
-  - Mississippi Slim (Carvel Lee Ausborn)
-  - Gospel and Black R&B artists (various)
+    - Sam Phillips
+    - Mississippi Slim (Carvel Lee Ausborn)
+    - Gospel and Black R&B artists (various)
 spotify_data:
   followers: 11114262
   id: 43ZHCT0cAZBISjO8DG9PnE
   popularity: 81
-  url: https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE
+  url: 'https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE'
 discography_enriched: true
 top_tracks:
-- Can't Help Falling in Love (Blue Hawaii)
-- Burning Love (Elvis (Fool))
-- Suspicious Minds (From Elvis in Memphis)
-- Jailhouse Rock (Platinum - A Life In Music)
-- Always On My Mind (Elvis (Fool))
-- Hound Dog
-- Jailhouse Rock
-- A Little Less Conversation - JXL Radio Edit Remix
-- Don't Be Cruel (Platinum - A Life In Music)
-- Blue Suede Shoes (Elvis Presley)
+  - Can't Help Falling in Love (Blue Hawaii)
+  - Burning Love (Elvis (Fool))
+  - Suspicious Minds (From Elvis in Memphis)
+  - Jailhouse Rock (Platinum - A Life In Music)
+  - Always On My Mind (Elvis (Fool))
+  - Hound Dog
+  - Jailhouse Rock
+  - A Little Less Conversation - JXL Radio Edit Remix
+  - Don't Be Cruel (Platinum - A Life In Music)
+  - Blue Suede Shoes (Elvis Presley)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/01809552-4f87-45b0-afff-2c6f0730a3be
-  spotify: https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE
-  wikipedia: https://en.wikipedia.org/wiki/Elvis_Presley
+  musicbrainz: 'https://musicbrainz.org/artist/01809552-4f87-45b0-afff-2c6f0730a3be'
+  spotify: 'https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE'
+  wikipedia: 'https://en.wikipedia.org/wiki/Elvis_Presley'
 image_path: 03_Resources/source_material/ArtistPortraits/elvis_presley.jpg
 biography_enhanced_at: '2025-12-09T05:14:53.793381'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.wikipedia.org/wiki/Elvis_Presley
-- https://www.biography.com/musicians/elvis-presley
-- https://www.britannica.com/biography/Elvis-Presley
-- https://biography.elvis.com.au/biography-elvis-presley.shtml
-- https://www.countrymusichalloffame.org/artist/elvis-presley
+  - 'https://www.wikipedia.org/wiki/Elvis_Presley'
+  - 'https://www.biography.com/musicians/elvis-presley'
+  - 'https://www.britannica.com/biography/Elvis-Presley'
+  - 'https://biography.elvis.com.au/biography-elvis-presley.shtml'
+  - 'https://www.countrymusichalloffame.org/artist/elvis-presley'
 network_extracted: true
 entry_created: '2025-12-09T05:14:53.793389'
 last_updated: '2025-12-23T08:16:08.362611'
@@ -108,9 +108,11 @@ disambiguation: “The King of Rock and Roll”
 gender: Male
 musicbrainz_id: 01809552-4f87-45b0-afff-2c6f0730a3be
 tags:
-- actors
-- blue-eyed soul
-- blues
+  - actors
+  - blue-eyed soul
+  - blues
+is_active: false
+origin: 'Memphis, Tennessee, United States'
 ---
 
 ![](elvis_presley.jpg)

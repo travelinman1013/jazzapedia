@@ -3,22 +3,22 @@ title: Almir Guineto
 wiki_slug: almir-guineto
 schema_version: 2
 status: active
-birth_place: Rio de Janeiro, Rio de Janeiro, Brazil
+birth_place: 'Rio de Janeiro, Rio de Janeiro, Brazil'
 genres:
-- samba
-- pagode
+  - samba
+  - pagode
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/almir_guineto.jpg
   caption: Almir Guineto
   background: solo_singer
-  origin: Rio de Janeiro, Rio de Janeiro, Brazil
+  origin: 'Rio de Janeiro, Rio de Janeiro, Brazil'
 audio_profile:
   tempo_avg: 108.8
   energy_avg: 0.766
   valence_avg: 0.769
   danceability_avg: 0.559
   acousticness_avg: 0.443
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -7.3
   speechiness_avg: 0.14
   liveness_avg: 0.308
@@ -27,49 +27,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Os Originais do Samba
-  - Fundo de Quintal
-  - Mauro Diniz
-  - Beth Carvalho
+    - Os Originais do Samba
+    - Fundo de Quintal
+    - Mauro Diniz
+    - Beth Carvalho
   influenced:
-  - Zeca Pagodinho
-  - Dorina
-  - Fundo de Quintal (later members)
+    - Zeca Pagodinho
+    - Dorina
+    - Fundo de Quintal (later members)
   mentors:
-  - Family of musicians (notably his mother and father)
+    - Family of musicians (notably his mother and father)
 spotify_data:
   followers: 314858
   id: 2x5fdOl1kpBgD74cOkzNY0
   popularity: 51
-  url: https://open.spotify.com/artist/2x5fdOl1kpBgD74cOkzNY0
+  url: 'https://open.spotify.com/artist/2x5fdOl1kpBgD74cOkzNY0'
 discography_enriched: true
 top_tracks:
-- Conselho (Almir Guineto)
-- Camarão Que Dorme a Onda Leva
-- Conselho (Almir Guinéto - 1986)
-- Insensato Destino - Ao Vivo (Novo Millennium)
-- Insensato Destino (Sorriso Novo)
-- Insensato Destino - Ao Vivo (Juras De Amor)
-- Caxambú (Almir Guinéto - 1986)
-- Lama Nas Ruas - Ao Vivo (Zeca Pagodinho - Uma Prova De Amor Ao Vivo (Deluxe))
-- Mel Na Boca (Almir Guineto)
-- Mordomia - Ao Vivo
+  - Conselho (Almir Guineto)
+  - Camarão Que Dorme a Onda Leva
+  - Conselho (Almir Guinéto - 1986)
+  - Insensato Destino - Ao Vivo (Novo Millennium)
+  - Insensato Destino (Sorriso Novo)
+  - Insensato Destino - Ao Vivo (Juras De Amor)
+  - Caxambú (Almir Guinéto - 1986)
+  - >-
+    Lama Nas Ruas - Ao Vivo (Zeca Pagodinho - Uma Prova De Amor Ao Vivo
+    (Deluxe))
+  - Mel Na Boca (Almir Guineto)
+  - Mordomia - Ao Vivo
 external_urls:
-  spotify: https://open.spotify.com/artist/2x5fdOl1kpBgD74cOkzNY0
-  wikipedia: https://en.wikipedia.org/wiki/Almir_Guineto
+  spotify: 'https://open.spotify.com/artist/2x5fdOl1kpBgD74cOkzNY0'
+  wikipedia: 'https://en.wikipedia.org/wiki/Almir_Guineto'
 image_path: 03_Resources/source_material/ArtistPortraits/almir_guineto.jpg
 biography_enhanced_at: '2025-11-02T07:31:53.986353'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Almir_Guineto
-- https://recentmusic.com/artist/2x5fdOl1kpBgD74cOkzNY0/
-- https://www.slipcue.com/music/brazil/guineto_almir_01.html
-- https://www.viberate.com/artist/almir-guineto/
-- https://simple.wikipedia.org/wiki/Almir_Guineto
+  - 'https://en.wikipedia.org/wiki/Almir_Guineto'
+  - 'https://recentmusic.com/artist/2x5fdOl1kpBgD74cOkzNY0/'
+  - 'https://www.slipcue.com/music/brazil/guineto_almir_01.html'
+  - 'https://www.viberate.com/artist/almir-guineto/'
+  - 'https://simple.wikipedia.org/wiki/Almir_Guineto'
 network_extracted: true
 entry_created: '2025-11-02T07:31:53.986366'
 last_updated: '2025-12-23T08:16:04.623955'
+birth_date: '1946-07-12'
+death_date: '2017-05-05'
+artist_type: person
 ---
 
 ![](almir_guineto.jpg)

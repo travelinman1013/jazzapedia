@@ -2,16 +2,16 @@
 title: Reverend Horton Heat
 wiki_slug: reverend-horton-heat
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
-birth_date: '1985'
+birth_date: '1959'
 genres:
-- psychobilly
-- rockabilly
+  - psychobilly
+  - rockabilly
 instruments:
-- drums (drum set)
-- double bass
-- original
+  - drums (drum set)
+  - double bass
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/reverend_horton_heat.jpg
   caption: Reverend Horton Heat
@@ -32,102 +32,102 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jimbo Wallace
-  - Taz Bentley
-  - Arjuna 'RJ' Contreras
+    - Jimbo Wallace
+    - Taz Bentley
+    - Arjuna 'RJ' Contreras
   influenced:
-  - Tiger Army
-  - Nekromantix
+    - Tiger Army
+    - Nekromantix
   mentors:
-  - The Cramps
+    - The Cramps
 spotify_data:
   followers: 145682
   id: 4byZW0sEv5RUoyQBfv7CPw
   popularity: 39
-  url: https://open.spotify.com/artist/4byZW0sEv5RUoyQBfv7CPw
+  url: 'https://open.spotify.com/artist/4byZW0sEv5RUoyQBfv7CPw'
 discography_enriched: true
 top_tracks:
-- Psychobilly Freakout (Smoke 'em if You Got 'em)
-- Bales Of Cocaine (The Full Custom Gospel Sounds Of . . .)
-- I Can't Surf (Liquor In The Front)
-- Galaxy 500 (Lucky 7)
-- Marijuana (Smoke 'em if You Got 'em)
-- 400 Bucks (The Full Custom Gospel Sounds Of . . .)
-- Baddest Of The Bad (Liquor In The Front)
-- Bad Reputation (Smoke 'em if You Got 'em)
-- Big Red Rocket Of Love (It's Martini Time)
-- Bullet (Smoke 'em if You Got 'em)
+  - Psychobilly Freakout (Smoke 'em if You Got 'em)
+  - Bales Of Cocaine (The Full Custom Gospel Sounds Of . . .)
+  - I Can't Surf (Liquor In The Front)
+  - Galaxy 500 (Lucky 7)
+  - Marijuana (Smoke 'em if You Got 'em)
+  - 400 Bucks (The Full Custom Gospel Sounds Of . . .)
+  - Baddest Of The Bad (Liquor In The Front)
+  - Bad Reputation (Smoke 'em if You Got 'em)
+  - Big Red Rocket Of Love (It's Martini Time)
+  - Bullet (Smoke 'em if You Got 'em)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/cbf71c15-17c2-484f-8406-cfce12fd3e46
-  spotify: https://open.spotify.com/artist/4byZW0sEv5RUoyQBfv7CPw
-  wikipedia: https://en.wikipedia.org/wiki/Reverend_Horton_Heat
+  musicbrainz: 'https://musicbrainz.org/artist/cbf71c15-17c2-484f-8406-cfce12fd3e46'
+  spotify: 'https://open.spotify.com/artist/4byZW0sEv5RUoyQBfv7CPw'
+  wikipedia: 'https://en.wikipedia.org/wiki/Reverend_Horton_Heat'
 image_path: 03_Resources/source_material/ArtistPortraits/reverend_horton_heat.jpg
 biography_enhanced_at: '2025-10-26T12:25:40.700925'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Last.fm
-- Texas Music Magazine
-- Tape Op
+  - Last.fm
+  - Texas Music Magazine
+  - Tape Op
 network_extracted: true
 entry_created: '2025-10-26T12:25:40.700934'
 last_updated: '2025-12-23T08:16:14.813443'
 disambiguation: the band
 members:
-- begin: '1985'
-  end: '1989'
-  instruments:
-  - drums (drum set)
-  mbid: 75b827d9-7f00-4f18-9ca5-7455937c3a5d
-  name: Bobby Baranowski
-- begin: '1985'
-  end: '1989'
-  instruments:
-  - double bass
-  mbid: 621877bf-c41d-45db-a51c-e4ecb86d3617
-  name: Jack Barton
-- begin: '1989'
-  end: '1994'
-  instruments: []
-  mbid: 69dd4649-b7ef-4fbd-bd46-a08e99975512
-  name: Patrick "Taz" Bentley
-- &id001
-  begin: '1989'
-  end: ''
-  instruments: []
-  mbid: 95cc46de-58c6-41d3-85f0-df3a21b0f5d2
-  name: Jimbo Wallace
-- begin: '1994'
-  end: '2006'
-  instruments: []
-  mbid: a0d062ae-66d1-4a73-b109-e883318b22a5
-  name: Scott "Chernobyl" Churilla
-- begin: '2006'
-  end: '2012'
-  instruments:
-  - drums (drum set)
-  mbid: 9294b37f-e2cf-4bd8-aa63-398f55443fc0
-  name: Paul Simmons
-- begin: '2017'
-  end: '2020'
-  instruments: []
-  mbid: a016a6a3-e62c-4912-8cfb-cf32cefeee93
-  name: Arjuna "RJ" Contreras
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: c2271c36-4530-452c-a4ce-6b55e1ba8a8a
-  name: Reverend Horton Heat
+  - begin: '1985'
+    end: '1989'
+    instruments:
+      - drums (drum set)
+    mbid: 75b827d9-7f00-4f18-9ca5-7455937c3a5d
+    name: Bobby Baranowski
+  - begin: '1985'
+    end: '1989'
+    instruments:
+      - double bass
+    mbid: 621877bf-c41d-45db-a51c-e4ecb86d3617
+    name: Jack Barton
+  - begin: '1989'
+    end: '1994'
+    instruments: []
+    mbid: 69dd4649-b7ef-4fbd-bd46-a08e99975512
+    name: Patrick "Taz" Bentley
+  - &ref_0
+    begin: '1989'
+    end: ''
+    instruments: []
+    mbid: 95cc46de-58c6-41d3-85f0-df3a21b0f5d2
+    name: Jimbo Wallace
+  - begin: '1994'
+    end: '2006'
+    instruments: []
+    mbid: a0d062ae-66d1-4a73-b109-e883318b22a5
+    name: Scott "Chernobyl" Churilla
+  - begin: '2006'
+    end: '2012'
+    instruments:
+      - drums (drum set)
+    mbid: 9294b37f-e2cf-4bd8-aa63-398f55443fc0
+    name: Paul Simmons
+  - begin: '2017'
+    end: '2020'
+    instruments: []
+    mbid: a016a6a3-e62c-4912-8cfb-cf32cefeee93
+    name: Arjuna "RJ" Contreras
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: c2271c36-4530-452c-a4ce-6b55e1ba8a8a
+    name: Reverend Horton Heat
 musicbrainz_id: cbf71c15-17c2-484f-8406-cfce12fd3e46
-origin: Dallas
+origin: 'Dallas, Texas, United States'
 original_members:
-- *id001
+  - *ref_0
 tags:
-- country
-- psychobilly
-- rockabilly
-
+  - country
+  - psychobilly
+  - rockabilly
+birth_place: 'Corpus Christi, Texas, United States'
 ---
 
 ![](reverend_horton_heat.jpg)

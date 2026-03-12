@@ -3,38 +3,43 @@ biography_enhanced_at: '2026-01-11T02:24:10.469008'
 enhancement_provider: perplexity
 entry_created: '2026-01-11T02:24:10.469017'
 external_urls:
-  spotify: https://open.spotify.com/artist/6pFsfSCmKyG28Cyj5QMIFY
+  spotify: 'https://open.spotify.com/artist/6pFsfSCmKyG28Cyj5QMIFY'
   wikipedia: ''
 genres:
-- post-disco
-- disco
-image_path: 03_Resources/source_material/ArtistPortraits/carrie_mims_and_herb_lee_river_junction.jpg
+  - post-disco
+  - disco
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/carrie_mims_and_herb_lee_river_junction.jpg
 last_updated: '2026-01-11T02:24:10.469018'
 musical_connections:
   collaborators:
-  - Serge Gamesbourg
+    - Serge Gamesbourg
   influenced: []
   mentors: []
 network_extracted: true
-origin: Boston, Massachusetts, United States (regional disco scene context; precise
+origin: >-
+  Boston, Massachusetts, United States (regional disco scene context; precise
   origin of the project not explicitly documented)
 primary_source: perplexity
 research_sources:
-- https://www.youtube.com/watch?v=pCxqA849lvo
-- https://www.youtube.com/watch?v=-mEdCthH_o0
-- https://vanyaland.com/2018/08/01/serge-gamesbourg-on-the-sounds-behind-boston-goes-disco/
-- https://theartsdesk.com/new-music/theartsdesk-vinyl-42-flaming-lips-blacklab-juno-reactor-u2-ross-friends-and-more
-- http://www.betinos.com/genre/disconu-disco?page=22
-- http://www.wwoz.org/programs/playlists
-- https://bbemusic.com/product/boston-goes-disco
-- https://bbemusic.bandcamp.com/album/boston-goes-disco
+  - 'https://www.youtube.com/watch?v=pCxqA849lvo'
+  - 'https://www.youtube.com/watch?v=-mEdCthH_o0'
+  - >-
+    https://vanyaland.com/2018/08/01/serge-gamesbourg-on-the-sounds-behind-boston-goes-disco/
+  - >-
+    https://theartsdesk.com/new-music/theartsdesk-vinyl-42-flaming-lips-blacklab-juno-reactor-u2-ross-friends-and-more
+  - 'http://www.betinos.com/genre/disconu-disco?page=22'
+  - 'http://www.wwoz.org/programs/playlists'
+  - 'https://bbemusic.com/product/boston-goes-disco'
+  - 'https://bbemusic.bandcamp.com/album/boston-goes-disco'
 spotify_data:
   followers: 12447
   id: 6pFsfSCmKyG28Cyj5QMIFY
   popularity: 30
-  url: https://open.spotify.com/artist/6pFsfSCmKyG28Cyj5QMIFY
+  url: 'https://open.spotify.com/artist/6pFsfSCmKyG28Cyj5QMIFY'
 status: active
 title: Carrie Mims & Herb Lee River Junction
+artist_type: band
 ---
 
 ![](carrie_mims_and_herb_lee_river_junction.jpg)

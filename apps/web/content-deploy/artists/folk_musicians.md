@@ -3,10 +3,10 @@ biography_enhanced_at: '2026-01-10T01:06:14.701445'
 enhancement_provider: perplexity
 entry_created: '2026-01-10T01:06:14.701452'
 external_urls:
-  spotify: https://open.spotify.com/artist/2FOEYBupAVGSk0hzmIARnh
+  spotify: 'https://open.spotify.com/artist/2FOEYBupAVGSk0hzmIARnh'
   wikipedia: ''
 genres:
-- drone
+  - drone
 image_path: 03_Resources/source_material/ArtistPortraits/folk_musicians.jpg
 last_updated: '2026-01-10T01:06:14.701452'
 musical_connections:
@@ -16,18 +16,20 @@ musical_connections:
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://daily.redbullmusicacademy.com/2018/12/a-brief-history-of-drone
-- https://crackmagazine.net/article/lists/5-artists-leading-drones-quiet-revolution/
-- https://recentmusic.com/genre/drone-folk/artists/
-- https://www.wnyc.org/story/4405-drone-folk/
-- https://realworldrecords.com/artists/djivan-gasparyan-michael-brook/
+  - 'https://daily.redbullmusicacademy.com/2018/12/a-brief-history-of-drone'
+  - >-
+    https://crackmagazine.net/article/lists/5-artists-leading-drones-quiet-revolution/
+  - 'https://recentmusic.com/genre/drone-folk/artists/'
+  - 'https://www.wnyc.org/story/4405-drone-folk/'
+  - 'https://realworldrecords.com/artists/djivan-gasparyan-michael-brook/'
 spotify_data:
   followers: 2208
   id: 2FOEYBupAVGSk0hzmIARnh
   popularity: 28
-  url: https://open.spotify.com/artist/2FOEYBupAVGSk0hzmIARnh
+  url: 'https://open.spotify.com/artist/2FOEYBupAVGSk0hzmIARnh'
 status: active
 title: Folk Musicians
+artist_type: band
 ---
 
 ![](folk_musicians.jpg)

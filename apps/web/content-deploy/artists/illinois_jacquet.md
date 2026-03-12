@@ -5,41 +5,41 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1922-10-31'
-birth_place: Broussard
+birth_place: 'Broussard, Louisiana, United States'
 death_date: '2004-07-22'
 genres:
-- bebop
-- cool jazz
-- hard bop
-- jazz
-- swing music
+  - bebop
+  - cool jazz
+  - hard bop
+  - jazz
+  - swing music
 instruments:
-- eponymous
+  - eponymous
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 1e91cd50-f1cc-4e5f-aaa3-967040a59a8d
-  name: Illinois Jacquet and His Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: bd717c80-5861-4330-b07f-f588cc1b1628
-  name: Illinois Jacquet & His All Stars
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 0aa5c72c-cf3e-45db-9e44-691e85353770
-  name: Illinois Jacquet Sextet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: ce60f781-de09-4ddf-bc88-7eb9cb0d8353
-  name: Illinois Jacquet & His Big Band
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 1e91cd50-f1cc-4e5f-aaa3-967040a59a8d
+    name: Illinois Jacquet and His Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: bd717c80-5861-4330-b07f-f588cc1b1628
+    name: Illinois Jacquet & His All Stars
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 0aa5c72c-cf3e-45db-9e44-691e85353770
+    name: Illinois Jacquet Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: ce60f781-de09-4ddf-bc88-7eb9cb0d8353
+    name: Illinois Jacquet & His Big Band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/illinois_jacquet.jpg
   caption: Illinois Jacquet
@@ -54,7 +54,7 @@ audio_profile:
   danceability_avg: 0.539
   acousticness_avg: 0.754
   instrumentalness_avg: 0.342
-  loudness_avg: -13.0
+  loudness_avg: -13
   speechiness_avg: 0.07
   liveness_avg: 0.2
   track_count: 54
@@ -62,56 +62,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lionel Hampton
-  - Cab Calloway
-  - Count Basie
-  - Nat King Cole
-  - Russell Jacquet
+    - Lionel Hampton
+    - Cab Calloway
+    - Count Basie
+    - Nat King Cole
+    - Russell Jacquet
   influenced:
-  - King Curtis
-  - Sam 'The Man' Taylor
-  - Rock and Roll Saxophonists
+    - King Curtis
+    - Sam 'The Man' Taylor
+    - Rock and Roll Saxophonists
   mentors:
-  - Milton Larkin
+    - Milton Larkin
 spotify_data:
   followers: 15904
   id: 6HzzZqLS76PGbKaw6dIMHZ
   popularity: 28
-  url: https://open.spotify.com/artist/6HzzZqLS76PGbKaw6dIMHZ
+  url: 'https://open.spotify.com/artist/6HzzZqLS76PGbKaw6dIMHZ'
 discography_enriched: true
 top_tracks:
-- Harlem Nocturne (Swing's The Thing)
-- On The Sunny Side Of The Street - Alt 1 (Bottoms Up)
-- God Bless My Solo (God Bless My Solo (The Definitive Black & Blue Sessions) [Paris 1978])
-- Flying Home (Hamp The Legendary Decca Recordings Of Lionel Hampton)
-- Port Of Rico (07-22-52) (Complete Jazz Series 1951 - 1952)
-- Have You Met Miss Jones? (Swing's The Thing)
-- Illinois Goes To Chicago
-- Bottom's Up (Bottoms Up)
-- Las Vegas Blues (Swing's The Thing)
-- Harlem Nocturne (I. Jacquet - Swing's The Thing)
+  - Harlem Nocturne (Swing's The Thing)
+  - On The Sunny Side Of The Street - Alt 1 (Bottoms Up)
+  - >-
+    God Bless My Solo (God Bless My Solo (The Definitive Black & Blue Sessions)
+    [Paris 1978])
+  - Flying Home (Hamp The Legendary Decca Recordings Of Lionel Hampton)
+  - Port Of Rico (07-22-52) (Complete Jazz Series 1951 - 1952)
+  - Have You Met Miss Jones? (Swing's The Thing)
+  - Illinois Goes To Chicago
+  - Bottom's Up (Bottoms Up)
+  - Las Vegas Blues (Swing's The Thing)
+  - Harlem Nocturne (I. Jacquet - Swing's The Thing)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/15ab8bb8-7348-4377-ab73-b7acdad1459c
-  spotify: https://open.spotify.com/artist/6HzzZqLS76PGbKaw6dIMHZ
-  wikipedia: https://en.wikipedia.org/wiki/Illinois_Jacquet
+  musicbrainz: 'https://musicbrainz.org/artist/15ab8bb8-7348-4377-ab73-b7acdad1459c'
+  spotify: 'https://open.spotify.com/artist/6HzzZqLS76PGbKaw6dIMHZ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Illinois_Jacquet'
 image_path: 03_Resources/source_material/ArtistPortraits/illinois_jacquet.jpg
 biography_enhanced_at: '2025-10-29T16:39:52.342498'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://aaregistry.org/story/illinois-jacquet-a-jazz-musician-for-over-50-years/
-- https://www.allaboutjazz.com/musicians/illinois-jacquet/
-- https://nationaljazzarchive.org.uk/explore/interviews/1633367-illinois-jacquet
-- https://www.selmer.fr/en/blogs/artistes/illinois-jacquet
+  - >-
+    https://aaregistry.org/story/illinois-jacquet-a-jazz-musician-for-over-50-years/
+  - 'https://www.allaboutjazz.com/musicians/illinois-jacquet/'
+  - >-
+    https://nationaljazzarchive.org.uk/explore/interviews/1633367-illinois-jacquet
+  - 'https://www.selmer.fr/en/blogs/artistes/illinois-jacquet'
 network_extracted: true
 entry_created: '2025-10-29T16:39:52.342729'
 last_updated: '2025-12-23T08:16:09.820364'
 gender: Male
 musicbrainz_id: 15ab8bb8-7348-4377-ab73-b7acdad1459c
 tags:
-- bebop
-- jazz
-- jump blues
+  - bebop
+  - jazz
+  - jump blues
+is_active: false
+origin: 'Houston, Texas, United States'
 ---
 
 ![](illinois_jacquet.jpg)

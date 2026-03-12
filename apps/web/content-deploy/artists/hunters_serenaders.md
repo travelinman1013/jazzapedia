@@ -1,10 +1,10 @@
 ---
-title: HUNTER'S SERENADERS
+title: Hunter's Serenaders
 wiki_slug: hunters-serenaders
 schema_version: 2
 status: active
 genres:
-- ragtime
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/hunters_serenaders.jpg
   caption: HUNTER'S SERENADERS
@@ -24,40 +24,44 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Preston Love
-  - Anna Mae Winburn
+    - Preston Love
+    - Anna Mae Winburn
   influenced:
-  - Preston Love
-  - Anna Mae Winburn
+    - Preston Love
+    - Anna Mae Winburn
   mentors:
-  - Local Omaha jazz musicians
+    - Local Omaha jazz musicians
 spotify_data:
   followers: 4
   id: 0cMSGe7m7MnXNCWYMuYxOP
   popularity: 0
-  url: https://open.spotify.com/artist/0cMSGe7m7MnXNCWYMuYxOP
+  url: 'https://open.spotify.com/artist/0cMSGe7m7MnXNCWYMuYxOP'
 discography_enriched: true
 top_tracks:
-- Sensational Mood (What Kind of Rhythm Is That? - Territory Bands 1927-31)
-- Dreaming 'Bout My Man (What Kind of Rhythm Is That? - Territory Bands 1927-31)
-- Sensational Mood (Hot Flashes - Rare High Quality Short Lived Bands)
-- Dreaming 'Bout My Man (Hot Flashes - Rare High Quality Short Lived Bands)
+  - Sensational Mood (What Kind of Rhythm Is That? - Territory Bands 1927-31)
+  - >-
+    Dreaming 'Bout My Man (What Kind of Rhythm Is That? - Territory Bands
+    1927-31)
+  - Sensational Mood (Hot Flashes - Rare High Quality Short Lived Bands)
+  - Dreaming 'Bout My Man (Hot Flashes - Rare High Quality Short Lived Bands)
 external_urls:
-  spotify: https://open.spotify.com/artist/0cMSGe7m7MnXNCWYMuYxOP
-  wikipedia: https://en.wikipedia.org/wiki/Lloyd_Hunter
+  spotify: 'https://open.spotify.com/artist/0cMSGe7m7MnXNCWYMuYxOP'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lloyd_Hunter'
 image_path: ''
 biography_enhanced_at: '2025-10-23T07:23:01.203867'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://northomahahistory.com/2022/01/06/a-history-of-music-in-north-omaha/
-- https://en.wikipedia.org/wiki/Lloyd_Hunter
-- https://alchetron.com/Lloyd-Hunter
-- https://nationaljazzarchive.org.uk/explore/jazz-timeline/1920s/1263311-storyville-036-0005
+  - 'https://northomahahistory.com/2022/01/06/a-history-of-music-in-north-omaha/'
+  - 'https://en.wikipedia.org/wiki/Lloyd_Hunter'
+  - 'https://alchetron.com/Lloyd-Hunter'
+  - >-
+    https://nationaljazzarchive.org.uk/explore/jazz-timeline/1920s/1263311-storyville-036-0005
 network_extracted: true
 entry_created: '2025-10-23T07:23:01.203888'
 last_updated: '2025-12-23T08:16:09.769657'
-origin: Omaha, Nebraska, USA
+origin: 'Omaha, Nebraska, USA'
+artist_type: person
 ---
 
 ![]()

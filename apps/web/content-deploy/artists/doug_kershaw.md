@@ -1,22 +1,22 @@
 ---
-title: doug kershaw
+title: Doug Kershaw
 wiki_slug: doug-kershaw
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1936-01-24'
-birth_place: Tiel Ridge, Cameron Parish, Louisiana, United States
+birth_place: 'Tiel Ridge, Cameron Parish, Louisiana, United States'
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 instruments:
-- original
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/doug_kershaw.jpg
   caption: doug kershaw
   background: non_vocal_instrumentalist
   born: '1936-01-24'
-  origin: Tiel Ridge, Cameron Parish, Louisiana, United States
+  origin: 'Tiel Ridge, Cameron Parish, Louisiana, United States'
 audio_profile:
   tempo_avg: 130.9
   energy_avg: 0.716
@@ -32,56 +32,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Rusty Kershaw
-  - Peewee (Nelson Kershaw)
-  - Johnny Cash
-  - Eric Clapton's Derek & the Dominos
+    - Rusty Kershaw
+    - Peewee (Nelson Kershaw)
+    - Johnny Cash
+    - Eric Clapton's Derek & the Dominos
   influenced:
-  - Numerous Cajun and country musicians
+    - Numerous Cajun and country musicians
   mentors:
-  - Kershaw's mother
-  - Cajun musicians at family gatherings
+    - Kershaw's mother
+    - Cajun musicians at family gatherings
 spotify_data:
   followers: 6571
   id: 5THBJK4ynnBnn5uvIamir1
   popularity: 21
-  url: https://open.spotify.com/artist/5THBJK4ynnBnn5uvIamir1
+  url: 'https://open.spotify.com/artist/5THBJK4ynnBnn5uvIamir1'
 discography_enriched: true
 top_tracks:
-- Louisiana Man (Diggy Diggy Lo)
-- Ballad Of The General Lee (The Dukes Of Hazzard)
-- Diggy Diggy Lo (Diggy Diggy Lo)
-- Calling Baton Rouge (Diggy Diggy Lo)
-- Diggy Liggy Lo (Volume 2)
-- Keep Between Them Ditches (The Dukes Of Hazzard)
-- Cover Girl Eyes (The Dukes Of Hazzard)
-- Diggy Diggy Lo (The Cajun Way)
-- 'Louisiana Man (Rusty & Doug Kershaw: Volume I)'
-- Cajun Baby (with Hank Williams, Jr.) (Diggy Diggy Lo)
+  - Louisiana Man (Diggy Diggy Lo)
+  - Ballad Of The General Lee (The Dukes Of Hazzard)
+  - Diggy Diggy Lo (Diggy Diggy Lo)
+  - Calling Baton Rouge (Diggy Diggy Lo)
+  - Diggy Liggy Lo (Volume 2)
+  - Keep Between Them Ditches (The Dukes Of Hazzard)
+  - Cover Girl Eyes (The Dukes Of Hazzard)
+  - Diggy Diggy Lo (The Cajun Way)
+  - 'Louisiana Man (Rusty & Doug Kershaw: Volume I)'
+  - 'Cajun Baby (with Hank Williams, Jr.) (Diggy Diggy Lo)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c5921327-c7b7-4a32-abe8-0c3797bdb523
-  spotify: https://open.spotify.com/artist/5THBJK4ynnBnn5uvIamir1
-  wikipedia: https://en.wikipedia.org/wiki/Doug_Kershaw
+  musicbrainz: 'https://musicbrainz.org/artist/c5921327-c7b7-4a32-abe8-0c3797bdb523'
+  spotify: 'https://open.spotify.com/artist/5THBJK4ynnBnn5uvIamir1'
+  wikipedia: 'https://en.wikipedia.org/wiki/Doug_Kershaw'
 image_path: 03_Resources/source_material/ArtistPortraits/doug_kershaw.jpg
 biography_enhanced_at: '2025-10-19T11:51:24.635965'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Doug_Kershaw
-- https://64parishes.org/entry/doug-kershaw
-- https://louisianamusichalloffame.org/doug-kershaw/
-- https://ww1.namm.org/library/oral-history/doug-kershaw
-- https://swallowhillmusic.org/doug-the-ragin-cajun-kershaw-at-a-glance/
-- https://www.last.fm/music/Doug+Kershaw/+wiki
+  - 'https://en.wikipedia.org/wiki/Doug_Kershaw'
+  - 'https://64parishes.org/entry/doug-kershaw'
+  - 'https://louisianamusichalloffame.org/doug-kershaw/'
+  - 'https://ww1.namm.org/library/oral-history/doug-kershaw'
+  - 'https://swallowhillmusic.org/doug-the-ragin-cajun-kershaw-at-a-glance/'
+  - 'https://www.last.fm/music/Doug+Kershaw/+wiki'
 network_extracted: true
 entry_created: '2025-10-19T11:51:24.635970'
 last_updated: '2025-12-23T08:16:07.986427'
-disambiguation: American fiddle player, singer and songwriter from Louisiana
+disambiguation: 'American fiddle player, singer and songwriter from Louisiana'
 gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:51:51.075830'
 musicbrainz_id: c5921327-c7b7-4a32-abe8-0c3797bdb523
 tags:
-- cajun
+  - cajun
 ---
 
 ![](doug_kershaw.jpg)

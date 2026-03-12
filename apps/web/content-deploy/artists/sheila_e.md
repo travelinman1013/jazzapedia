@@ -1,15 +1,15 @@
 ---
-title: Sheila E
+title: Sheila E.
 wiki_slug: sheila-e
 schema_version: 2
 status: active
-birth_place: Oakland, California, United States
+birth_place: 'Oakland, California, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sheila_e.jpg
   caption: Sheila E
   background: solo_singer
-  origin: Oakland, California, United States
+  origin: 'Oakland, California, United States'
 audio_profile:
   tempo_avg: 111.1
   energy_avg: 0.762
@@ -25,53 +25,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Prince
-  - Marvin Gaye
-  - Ringo Starr
-  - Beyoncé
-  - Herbie Hancock
+    - Prince
+    - Marvin Gaye
+    - Ringo Starr
+    - Beyoncé
+    - Herbie Hancock
   influenced:
-  - E-Train members
+    - E-Train members
   mentors:
-  - Pete Escovedo
-  - George Duke
-  - Tito Puente
+    - Pete Escovedo
+    - George Duke
+    - Tito Puente
 spotify_data:
   followers: 377372
   id: 6OQrOpxSIfPai3cFaN4v4P
   popularity: 45
-  url: https://open.spotify.com/artist/6OQrOpxSIfPai3cFaN4v4P
+  url: 'https://open.spotify.com/artist/6OQrOpxSIfPai3cFaN4v4P'
 discography_enriched: true
 top_tracks:
-- The Glamorous Life (The Glamorous Life)
-- A Love Bizarre (Romance 1600)
-- The Glamorous Life - Club Edit (The Glamorous Life)
-- On the Road
-- Bemba Colorá (feat. Gloria Estefan & Mimy Succar)
-- Mi Rumba y Tambor (feat. India) (Bailar (Deluxe))
-- that’s right (feat. Sheila E) (chemistry)
-- The Belle of St. Mark (The Glamorous Life)
-- that’s right (feat. Sheila E) (chemistry (Deluxe))
-- The Glamorous Life (Re-Recorded)
+  - The Glamorous Life (The Glamorous Life)
+  - A Love Bizarre (Romance 1600)
+  - The Glamorous Life - Club Edit (The Glamorous Life)
+  - On the Road
+  - Bemba Colorá (feat. Gloria Estefan & Mimy Succar)
+  - Mi Rumba y Tambor (feat. India) (Bailar (Deluxe))
+  - that’s right (feat. Sheila E) (chemistry)
+  - The Belle of St. Mark (The Glamorous Life)
+  - that’s right (feat. Sheila E) (chemistry (Deluxe))
+  - The Glamorous Life (Re-Recorded)
 external_urls:
-  spotify: https://open.spotify.com/artist/6OQrOpxSIfPai3cFaN4v4P
+  spotify: 'https://open.spotify.com/artist/6OQrOpxSIfPai3cFaN4v4P'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/sheila_e.jpg
 biography_enhanced_at: '2025-12-14T01:46:18.007273'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.boredpanda.com/sheila-e-bio-and-career-highlights/
-- https://www.redbullmusicacademy.com/lectures/sheila-e-lecture/
-- https://articles.roland.com/sheila-e-a-glamorous-life-of-rhythm/
-- https://www.masterclass.com/articles/sheila-e-songs-and-career
-- https://playingforchange.com/artists/sheila-e
-- https://sheilae.com/about/
-- https://grammymuseum.org/event/the-drop-sheila-e/
-- https://nmaahc.si.edu/latinx/sheila-e
+  - 'https://www.boredpanda.com/sheila-e-bio-and-career-highlights/'
+  - 'https://www.redbullmusicacademy.com/lectures/sheila-e-lecture/'
+  - 'https://articles.roland.com/sheila-e-a-glamorous-life-of-rhythm/'
+  - 'https://www.masterclass.com/articles/sheila-e-songs-and-career'
+  - 'https://playingforchange.com/artists/sheila-e'
+  - 'https://sheilae.com/about/'
+  - 'https://grammymuseum.org/event/the-drop-sheila-e/'
+  - 'https://nmaahc.si.edu/latinx/sheila-e'
 network_extracted: true
 entry_created: '2025-12-14T01:46:18.007285'
 last_updated: '2025-12-23T08:16:15.554891'
+artist_type: person
 ---
 
 ![](sheila_e.jpg)

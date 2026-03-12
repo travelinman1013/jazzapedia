@@ -2,15 +2,19 @@
 title: Gitkin
 wiki_slug: gitkin
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
-birth_place: Brooklyn, New York, United States (birthplace); New Orleans, Louisiana, United States (current base/origin)
+birth_place: >-
+  Brooklyn, New York, United States (birthplace); New Orleans, Louisiana, United
+  States (current base/origin)
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Gitkin.jpg
   caption: Gitkin
   background: solo_singer
-  origin: Brooklyn, New York, United States (birthplace); New Orleans, Louisiana, United States (current base/origin)
+  origin: >-
+    Brooklyn, New York, United States (birthplace); New Orleans, Louisiana,
+    United States (current base/origin)
 audio_profile:
   tempo_avg: 125.2
   energy_avg: 0.628
@@ -26,56 +30,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Carol C.
-  - Assaf Spector
-  - Simon Moushabeck
-  - Washington Duke
-  - Cedric Burnside
-  - Bernard Purdie
+    - Carol C.
+    - Assaf Spector
+    - Simon Moushabeck
+    - Washington Duke
+    - Cedric Burnside
+    - Bernard Purdie
   influenced:
-  - No specific artists documented
+    - No specific artists documented
   mentors:
-  - Cyril Neville
+    - Cyril Neville
 spotify_data:
   followers: 31930
   id: 2vNxFvF7ceoR0WeryGVhxt
   popularity: 41
-  url: https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt
+  url: 'https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt'
 discography_enriched: true
 top_tracks:
-- El Millonario (5 Star Motel)
-- Chicha Nola - Alternative Version (Safe Passage)
-- Grand Street Feast (5 Star Motel)
-- Three Of Cups
-- Full Circle
-- Tail Chaser (5 Star Motel)
-- Sudden Mystic
-- Fools Gold (Safe Passage)
-- Monochromium
-- Nosotros También (Safe Passage)
+  - El Millonario (5 Star Motel)
+  - Chicha Nola - Alternative Version (Safe Passage)
+  - Grand Street Feast (5 Star Motel)
+  - Three Of Cups
+  - Full Circle
+  - Tail Chaser (5 Star Motel)
+  - Sudden Mystic
+  - Fools Gold (Safe Passage)
+  - Monochromium
+  - Nosotros También (Safe Passage)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a3337a93-b329-418a-9344-fb513ff5f371
-  spotify: https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt
+  musicbrainz: 'https://musicbrainz.org/artist/a3337a93-b329-418a-9344-fb513ff5f371'
+  spotify: 'https://open.spotify.com/artist/2vNxFvF7ceoR0WeryGVhxt'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/Gitkin.jpg
 biography_enhanced_at: '2025-10-19T12:01:52.632864'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.musicmetricsvault.com/artists/gitkin/2vNxFvF7ceoR0WeryGVhxt
-- https://www.last.fm/music/Gitkin/+wiki
-- https://www.gitkin.co
-- https://wonderwheelrecordings.com/artist/gitkin/
-- https://15questions.net/interview/gitkin-shares-his-creative-process/
-- https://www.rockcabeca.com/gitkin-and-the-golden-age-of-sounds/
-- https://worldmusiccentral.org/gitkin-explores-new-global-tonalities/
-- https://www.allmusic.com/artist/gitkin-mn0003714575
+  - 'https://www.musicmetricsvault.com/artists/gitkin/2vNxFvF7ceoR0WeryGVhxt'
+  - 'https://www.last.fm/music/Gitkin/+wiki'
+  - 'https://www.gitkin.co'
+  - 'https://wonderwheelrecordings.com/artist/gitkin/'
+  - 'https://15questions.net/interview/gitkin-shares-his-creative-process/'
+  - 'https://www.rockcabeca.com/gitkin-and-the-golden-age-of-sounds/'
+  - 'https://worldmusiccentral.org/gitkin-explores-new-global-tonalities/'
+  - 'https://www.allmusic.com/artist/gitkin-mn0003714575'
 network_extracted: true
 entry_created: '2025-10-19T12:01:52.632869'
 last_updated: '2025-12-23T08:16:02.129699'
 gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:27:46.591782'
 musicbrainz_id: a3337a93-b329-418a-9344-fb513ff5f371
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](Gitkin.jpg)

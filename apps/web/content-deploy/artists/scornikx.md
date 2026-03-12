@@ -11,7 +11,7 @@ infobox:
   background: solo_singer
   origin: Unknown
 audio_profile:
-  tempo_avg: 127.0
+  tempo_avg: 127
   energy_avg: 0.667
   valence_avg: 0.563
   danceability_avg: 0.7
@@ -31,33 +31,34 @@ spotify_data:
   followers: 98
   id: 6gXojjv9DKSsPWfElyKjZ7
   popularity: 5
-  url: https://open.spotify.com/artist/6gXojjv9DKSsPWfElyKjZ7
+  url: 'https://open.spotify.com/artist/6gXojjv9DKSsPWfElyKjZ7'
 discography_enriched: true
 top_tracks:
-- El Sol de México - of Kalokaíri (El Sol de México (of Kalokaíri))
-- COMO SE OLVIDA (COMO SE OLVIDA)
-- ALTA SOCIEDAD - Sex Luxury Edition (ALTA SOCIEDAD (Sex Luxury Edition))
-- Intimidad - Sex Luxury Edition (Intimidad (Sex Luxury Edition))
-- Falté Yo (Falté Yo)
-- Falté Yo - DOBLE TONO (Falté Yo (DOBLE TONO))
-- Los Ojos No Mienten (Los Ojos No Mienten (REMASTERED))
-- El Heredero (Los Ojos No Mienten (REMASTERED))
-- Ausencia Presente (Los Ojos No Mienten (REMASTERED))
-- Agua Serena (Los Ojos No Mienten (REMASTERED))
+  - El Sol de México - of Kalokaíri (El Sol de México (of Kalokaíri))
+  - COMO SE OLVIDA (COMO SE OLVIDA)
+  - ALTA SOCIEDAD - Sex Luxury Edition (ALTA SOCIEDAD (Sex Luxury Edition))
+  - Intimidad - Sex Luxury Edition (Intimidad (Sex Luxury Edition))
+  - Falté Yo (Falté Yo)
+  - Falté Yo - DOBLE TONO (Falté Yo (DOBLE TONO))
+  - Los Ojos No Mienten (Los Ojos No Mienten (REMASTERED))
+  - El Heredero (Los Ojos No Mienten (REMASTERED))
+  - Ausencia Presente (Los Ojos No Mienten (REMASTERED))
+  - Agua Serena (Los Ojos No Mienten (REMASTERED))
 external_urls:
-  spotify: https://open.spotify.com/artist/6gXojjv9DKSsPWfElyKjZ7
+  spotify: 'https://open.spotify.com/artist/6gXojjv9DKSsPWfElyKjZ7'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/scornikx.jpg
 biography_enhanced_at: '2025-12-21T01:26:20.914497'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- 'Spotify Context: Genres Unknown, Popularity 5'
-- YouTube/DistroKid releases [2][3][4][5][6][7]
-- WWOZ playlist [8]
+  - 'Spotify Context: Genres Unknown, Popularity 5'
+  - 'YouTube/DistroKid releases [2][3][4][5][6][7]'
+  - 'WWOZ playlist [8]'
 network_extracted: true
 entry_created: '2025-12-21T01:26:20.914502'
 last_updated: '2025-12-23T08:16:15.421328'
+artist_type: person
 ---
 
 ![](scornikx.jpg)

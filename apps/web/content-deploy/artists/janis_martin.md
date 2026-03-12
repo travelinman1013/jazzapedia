@@ -2,56 +2,61 @@
 artist_type: person
 biography_enhanced_at: '2026-01-09T02:00:50.764828'
 birth_date: '1940-03-27'
-birth_place: Virginia
+birth_place: 'Sutherlin, Virginia, United States'
 death_date: '2007-09-03'
 disambiguation: US country & rockabilly singer
 enhancement_provider: perplexity
 entry_created: '2026-01-09T02:00:50.764836'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/aaddc588-aad5-4e1a-bb07-65bee40a9590
-  spotify: https://open.spotify.com/artist/4pjH9s7TgSke527nRDcgqq
-  wikipedia: https://en.wikipedia.org/wiki/Janis_Martin
+  musicbrainz: 'https://musicbrainz.org/artist/aaddc588-aad5-4e1a-bb07-65bee40a9590'
+  spotify: 'https://open.spotify.com/artist/4pjH9s7TgSke527nRDcgqq'
+  wikipedia: 'https://en.wikipedia.org/wiki/Janis_Martin'
 gender: Female
 genres:
-- rockabilly
-- boogie-woogie
-- rock and roll
-- psychobilly
+  - rockabilly
+  - boogie-woogie
+  - rock and roll
+  - psychobilly
 image_path: 03_Resources/source_material/ArtistPortraits/janis_martin.jpg
 last_updated: '2026-01-09T02:00:50.764838'
 musical_connections:
   collaborators:
-  - Jim Reeves
-  - The Marteens
-  - The Variations
-  - George Barnes
+    - Jim Reeves
+    - The Marteens
+    - The Variations
+    - George Barnes
   influenced:
-  - Later female rockabilly and country artists (e.g., Brenda Lee, Wanda Jackson, Tanya Tucker, LeAnn Rimes – as part of a lineage)
-  - European rockabilly revivalists
+    - >-
+      Later female rockabilly and country artists (e.g., Brenda Lee, Wanda
+      Jackson, Tanya Tucker, LeAnn Rimes – as part of a lineage)
+    - European rockabilly revivalists
   mentors:
-  - Ruth Brown
-  - Ernest Tubb, the Carter Family, Sonny James, Jean Shepard (and other Old Dominion Barn Dance stars)
-  - Chet Atkins
+    - Ruth Brown
+    - >-
+      Ernest Tubb, the Carter Family, Sonny James, Jean Shepard (and other Old
+      Dominion Barn Dance stars)
+    - Chet Atkins
 musicbrainz_id: aaddc588-aad5-4e1a-bb07-65bee40a9590
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.history-of-rock.com/janis_martin.htm
-- https://www.lva.virginia.gov/collections/educator-resources/changemakers/items/show/116
-- http://www.rockabilly.net/articles/janis.shtml
-- https://www.vpm.org/news/2019-09-24/janismartin
-- https://tims.blackcat.nl/messages/janis_martin.htm
-- https://en.wikipedia.org/wiki/Janis_Martin
+  - 'https://www.history-of-rock.com/janis_martin.htm'
+  - >-
+    https://www.lva.virginia.gov/collections/educator-resources/changemakers/items/show/116
+  - 'http://www.rockabilly.net/articles/janis.shtml'
+  - 'https://www.vpm.org/news/2019-09-24/janismartin'
+  - 'https://tims.blackcat.nl/messages/janis_martin.htm'
+  - 'https://en.wikipedia.org/wiki/Janis_Martin'
 spotify_data:
   followers: 16125
   id: 4pjH9s7TgSke527nRDcgqq
   popularity: 27
-  url: https://open.spotify.com/artist/4pjH9s7TgSke527nRDcgqq
+  url: 'https://open.spotify.com/artist/4pjH9s7TgSke527nRDcgqq'
 status: active
 tags:
-- rock
-title: janis martin
-
+  - rock
+title: Janis Martin
+is_active: false
 ---
 
 ![](janis_martin.jpg)

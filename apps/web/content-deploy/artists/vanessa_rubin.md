@@ -2,64 +2,65 @@
 artist_type: person
 biography_enhanced_at: '2025-12-25T01:14:34.888363'
 birth_date: '1957-03-14'
-birth_place: Cleveland
+birth_place: 'Cleveland, Ohio, United States'
 enhancement_provider: perplexity
 entry_created: '2025-12-25T01:14:34.888383'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/06468b71-89eb-4171-bcae-c9d6f27efb6f
-  spotify: https://open.spotify.com/artist/5Oe8V83r2RhPPuhnRH5saQ
-  wikipedia: https://en.wikipedia.org/wiki/Vanessa_Rubin
+  musicbrainz: 'https://musicbrainz.org/artist/06468b71-89eb-4171-bcae-c9d6f27efb6f'
+  spotify: 'https://open.spotify.com/artist/5Oe8V83r2RhPPuhnRH5saQ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Vanessa_Rubin'
 gender: Female
 genres:
-- vocal jazz
+  - vocal jazz
 image_path: 03_Resources/source_material/ArtistPortraits/vanessa_rubin.jpg
 instruments:
-- lead vocals
+  - lead vocals
 last_updated: '2025-12-25T01:14:34.888387'
 musical_connections:
   collaborators:
-  - Onaje Allan Gumbs
-  - Frank Foster
-  - Cecil Bridgewater
-  - Kenny Burrell
-  - Grover Washington Jr.
-  - Don Braden
-  - Kenny Barron
-  - Pharoah Sanders
-  - Lionel Hampton Big Band
-  - Mercer Ellington Orchestra
-  - George Coleman
-  - Stanley Cowell
-  - The Blackshaw Brothers (with Cecil Rucker)
+    - Onaje Allan Gumbs
+    - Frank Foster
+    - Cecil Bridgewater
+    - Kenny Burrell
+    - Grover Washington Jr.
+    - Don Braden
+    - Kenny Barron
+    - Pharoah Sanders
+    - Lionel Hampton Big Band
+    - Mercer Ellington Orchestra
+    - George Coleman
+    - Stanley Cowell
+    - The Blackshaw Brothers (with Cecil Rucker)
   influenced:
-  - ''
+    - ''
   mentors:
-  - Barry Harris
-  - Frank Foster
-  - Carmen McRae
-  - Shirley Horn
-  - Freddy Cole
-  - Etta Jones
-  - Irene Reid
+    - Barry Harris
+    - Frank Foster
+    - Carmen McRae
+    - Shirley Horn
+    - Freddy Cole
+    - Etta Jones
+    - Irene Reid
 musicbrainz_id: 06468b71-89eb-4171-bcae-c9d6f27efb6f
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- WMKY – Vanessa Rubin profile[1]
-- Vanessa Rubin official site – About Vanessa[4]
-- Visit Baltimore – Vanessa Rubin event bio[2]
-- Passion Music Group – Vanessa Rubin artist bio[3]
+  - 'WMKY – Vanessa Rubin profile[1]'
+  - 'Vanessa Rubin official site – About Vanessa[4]'
+  - 'Visit Baltimore – Vanessa Rubin event bio[2]'
+  - 'Passion Music Group – Vanessa Rubin artist bio[3]'
 spotify_data:
   followers: 4689
   id: 5Oe8V83r2RhPPuhnRH5saQ
   popularity: 22
-  url: https://open.spotify.com/artist/5Oe8V83r2RhPPuhnRH5saQ
+  url: 'https://open.spotify.com/artist/5Oe8V83r2RhPPuhnRH5saQ'
 status: active
 tags:
-- jazz
-- rhythm and blues
-- vocal jazz
-title: vanessa rubin
+  - jazz
+  - rhythm and blues
+  - vocal jazz
+title: Vanessa Rubin
+origin: 'Cleveland, Ohio, United States'
 ---
 
 ![](vanessa_rubin.jpg)

@@ -4,8 +4,8 @@ wiki_slug: dead-moon
 schema_version: 2
 status: active
 genres:
-- garage rock
-- proto-punk
+  - garage rock
+  - proto-punk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/dead_moon.jpg
   caption: Dead Moon
@@ -25,50 +25,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Andrew Loomis
-  - Kelly Halliburton
-  - Hans Kestaloo
+    - Andrew Loomis
+    - Kelly Halliburton
+    - Hans Kestaloo
   influenced:
-  - Pierced Arrows
-  - Numerous garage and punk bands
+    - Pierced Arrows
+    - Numerous garage and punk bands
   mentors:
-  - Mike Tell
-  - Whitey Davis
+    - Mike Tell
+    - Whitey Davis
 spotify_data:
   followers: 71139
   id: 3En4SMrGwoaVbTIyWOQCqx
   popularity: 35
-  url: https://open.spotify.com/artist/3En4SMrGwoaVbTIyWOQCqx
+  url: 'https://open.spotify.com/artist/3En4SMrGwoaVbTIyWOQCqx'
 discography_enriched: true
 top_tracks:
-- Dead Moon Night (Unknown Passage)
-- Walking on My Grave (Defiance)
-- Diamonds in the Rough (Nervous Sooner Changes)
-- 54/40 or Fight (Unknown Passage)
-- Graveyard (In the Graveyard)
-- 40 Miles of Bad Road (Trash & Burn)
-- It's O.K. (Crack in the System)
-- A Fix on You (Stranded in the Mystery Zone)
-- A Miss of You (Unknown Passage)
-- Where Did I Go Wrong (In the Graveyard)
+  - Dead Moon Night (Unknown Passage)
+  - Walking on My Grave (Defiance)
+  - Diamonds in the Rough (Nervous Sooner Changes)
+  - 54/40 or Fight (Unknown Passage)
+  - Graveyard (In the Graveyard)
+  - 40 Miles of Bad Road (Trash & Burn)
+  - It's O.K. (Crack in the System)
+  - A Fix on You (Stranded in the Mystery Zone)
+  - A Miss of You (Unknown Passage)
+  - Where Did I Go Wrong (In the Graveyard)
 external_urls:
-  spotify: https://open.spotify.com/artist/3En4SMrGwoaVbTIyWOQCqx
-  wikipedia: https://en.wikipedia.org/wiki/Dead_Moon
+  spotify: 'https://open.spotify.com/artist/3En4SMrGwoaVbTIyWOQCqx'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dead_Moon'
 image_path: 03_Resources/source_material/ArtistPortraits/dead_moon.jpg
 biography_enhanced_at: '2025-11-20T06:46:49.961272'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.subpop.com/artists/dead_moon
-- https://vierh00g.home.xs4all.nl/DeadMoonDigitalZone/dmhistory.htm
-- https://pleasekillme.com/dead-moon-still-rising/
-- https://www.omhof.org/the-fire-fury-and-second-life-of-punk-survivor-toody-cole-of-dead-moon/
-- https://www.jango.com/music/Dead+Moon/_full_bio
-- https://www.deadmoonusa.com
+  - 'https://www.subpop.com/artists/dead_moon'
+  - 'https://vierh00g.home.xs4all.nl/DeadMoonDigitalZone/dmhistory.htm'
+  - 'https://pleasekillme.com/dead-moon-still-rising/'
+  - >-
+    https://www.omhof.org/the-fire-fury-and-second-life-of-punk-survivor-toody-cole-of-dead-moon/
+  - 'https://www.jango.com/music/Dead+Moon/_full_bio'
+  - 'https://www.deadmoonusa.com'
 network_extracted: true
 entry_created: '2025-11-20T06:46:49.961283'
 last_updated: '2025-12-23T08:16:07.627317'
-origin: Portland, Oregon, United States
+origin: 'Portland, Oregon, United States'
+artist_type: band
 ---
 
 ![](dead_moon.jpg)

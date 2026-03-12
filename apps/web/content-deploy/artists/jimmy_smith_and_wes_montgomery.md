@@ -4,12 +4,13 @@ wiki_slug: jimmy-smith-wes-montgomery
 schema_version: 2
 status: active
 genres:
-- jazz blues
-- jazz
-- hard bop
-- cool jazz
+  - jazz blues
+  - jazz
+  - hard bop
+  - cool jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/jimmy_smith_and_wes_montgomery.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/jimmy_smith_and_wes_montgomery.jpg
   caption: Jimmy Smith & Wes Montgomery
   background: solo_singer
 audio_profile:
@@ -27,50 +28,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Oliver Nelson
-  - Grady Tate
-  - Ray Barretto
+    - Oliver Nelson
+    - Grady Tate
+    - Ray Barretto
   influenced:
-  - George Benson
-  - Joey DeFrancesco
-  - Russell Malone
+    - George Benson
+    - Joey DeFrancesco
+    - Russell Malone
   mentors:
-  - Charlie Christian
-  - Jimmy Smith's father
+    - Charlie Christian
+    - Jimmy Smith's father
 spotify_data:
   followers: 45455
   id: 6WbUlW1uuChmQumXueDmgp
   popularity: 40
-  url: https://open.spotify.com/artist/6WbUlW1uuChmQumXueDmgp
+  url: 'https://open.spotify.com/artist/6WbUlW1uuChmQumXueDmgp'
 discography_enriched: true
 top_tracks:
-- '''Round Midnight (The Wes Montgomery Trio (Expanded Edition))'
-- Mi Cosa - Take 1 (Guitar On The Go)
-- Satin Doll - Take 7 (The Wes Montgomery Trio (Expanded Edition))
-- Dreamsville (Guitar On The Go)
-- Yesterdays (The Wes Montgomery Trio (Expanded Edition))
-- Geno (Guitar On The Go)
-- The End Of A Love Affair (The Wes Montgomery Trio (Expanded Edition))
-- Ecaroh (The Wes Montgomery Trio (Expanded Edition))
-- For All We Know (Guitar On The Go)
-- Whisper Not (The Wes Montgomery Trio (Expanded Edition))
+  - '''Round Midnight (The Wes Montgomery Trio (Expanded Edition))'
+  - Mi Cosa - Take 1 (Guitar On The Go)
+  - Satin Doll - Take 7 (The Wes Montgomery Trio (Expanded Edition))
+  - Dreamsville (Guitar On The Go)
+  - Yesterdays (The Wes Montgomery Trio (Expanded Edition))
+  - Geno (Guitar On The Go)
+  - The End Of A Love Affair (The Wes Montgomery Trio (Expanded Edition))
+  - Ecaroh (The Wes Montgomery Trio (Expanded Edition))
+  - For All We Know (Guitar On The Go)
+  - Whisper Not (The Wes Montgomery Trio (Expanded Edition))
 external_urls:
-  spotify: https://open.spotify.com/artist/6WbUlW1uuChmQumXueDmgp
-  wikipedia: https://en.wikipedia.org/wiki/Jimmy_%26_Wes:_The_Dynamic_Duo
-image_path: 03_Resources/source_material/ArtistPortraits/jimmy_smith_and_wes_montgomery.jpg
+  spotify: 'https://open.spotify.com/artist/6WbUlW1uuChmQumXueDmgp'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jimmy_%26_Wes:_The_Dynamic_Duo'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/jimmy_smith_and_wes_montgomery.jpg
 biography_enhanced_at: '2025-11-11T09:17:41.312476'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.udiscovermusic.com/stories/dynamic-duo-wes-montgomery-jimmy-smith-feature/
-- https://en.wikipedia.org/wiki/Jimmy_%26_Wes:_The_Dynamic_Duo
-- https://www.jazzstandards.com/biographies/biography_656.htm
-- https://www.arts.gov/honors/jazz/jimmy-smith
-- https://www.allaboutjazz.com/musicians/jimmy-smith/
+  - >-
+    https://www.udiscovermusic.com/stories/dynamic-duo-wes-montgomery-jimmy-smith-feature/
+  - 'https://en.wikipedia.org/wiki/Jimmy_%26_Wes:_The_Dynamic_Duo'
+  - 'https://www.jazzstandards.com/biographies/biography_656.htm'
+  - 'https://www.arts.gov/honors/jazz/jimmy-smith'
+  - 'https://www.allaboutjazz.com/musicians/jimmy-smith/'
 network_extracted: true
 entry_created: '2025-11-11T09:17:41.312488'
 last_updated: '2025-12-23T08:16:10.510429'
-origin: Norristown, Pennsylvania, USA (Jimmy Smith); Indianapolis, Indiana, USA (Wes Montgomery)
+origin: >-
+  Norristown, Pennsylvania, USA (Jimmy Smith); Indianapolis, Indiana, USA (Wes
+  Montgomery)
+birth_place: 'Norristown, Pennsylvania, United States'
+artist_type: person
 ---
 
 ![](jimmy_smith_and_wes_montgomery.jpg)

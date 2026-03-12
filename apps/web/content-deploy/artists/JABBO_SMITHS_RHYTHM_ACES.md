@@ -1,10 +1,10 @@
 ---
-title: JABBO SMITH'S RHYTHM ACES
+title: Jabbo Smith's Rhythm Aces
 wiki_slug: jabbo-smiths-rhythm-aces
 schema_version: 2
 status: active
 genres:
-- ragtime
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jabbo_smiths_rhythm_aces.jpg
   caption: JABBO SMITH'S RHYTHM ACES
@@ -24,52 +24,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ikey Robinson
-  - Omer Simeon
-  - Hayes Alvis
-  - Cassino Simpson
-  - Earl Frazier
-  - George James
+    - Ikey Robinson
+    - Omer Simeon
+    - Hayes Alvis
+    - Cassino Simpson
+    - Earl Frazier
+    - George James
   influenced:
-  - Roy Eldridge
-  - Dizzy Gillespie
+    - Roy Eldridge
+    - Dizzy Gillespie
   mentors:
-  - Jenkins Orphanage Band
+    - Jenkins Orphanage Band
 spotify_data:
   followers: 247
   id: 3kE4Sr374OQemygSC2tl9o
   popularity: 2
-  url: https://open.spotify.com/artist/3kE4Sr374OQemygSC2tl9o
+  url: 'https://open.spotify.com/artist/3kE4Sr374OQemygSC2tl9o'
 discography_enriched: true
 top_tracks:
-- Jazz Battle (The Ultimate Jazz Archive 5 1929-1938 (3 Of 4))
-- Ace Of Rhythm (The Ultimate Jazz Archive 5 1929-1938 (3 Of 4))
-- Michigander Blues (The Ultimate Jazz Archive 5 1929-1938 (3 Of 4))
-- Lina Blues (Jazz Figures / Jabbo Smith's Rhythm Aces (1929-1938))
-- Lina Blues (The Ultimate Jazz Archive 5 1929-1938 (3 Of 4))
-- Jazz Battle (1929-1938)
-- Ace Of Rhythm (1929-1938)
-- Let's Get Together (1929-1938)
-- Decatur Street Tutti (1929-1938)
-- Jazz Battle (The History Of Jazz Vol. 1 (Jazz Club))
+  - Jazz Battle (The Ultimate Jazz Archive 5 1929-1938 (3 Of 4))
+  - Ace Of Rhythm (The Ultimate Jazz Archive 5 1929-1938 (3 Of 4))
+  - Michigander Blues (The Ultimate Jazz Archive 5 1929-1938 (3 Of 4))
+  - Lina Blues (Jazz Figures / Jabbo Smith's Rhythm Aces (1929-1938))
+  - Lina Blues (The Ultimate Jazz Archive 5 1929-1938 (3 Of 4))
+  - Jazz Battle (1929-1938)
+  - Ace Of Rhythm (1929-1938)
+  - Let's Get Together (1929-1938)
+  - Decatur Street Tutti (1929-1938)
+  - Jazz Battle (The History Of Jazz Vol. 1 (Jazz Club))
 external_urls:
-  spotify: https://open.spotify.com/artist/3kE4Sr374OQemygSC2tl9o
-  wikipedia: https://en.wikipedia.org/wiki/Jabbo_Smith
+  spotify: 'https://open.spotify.com/artist/3kE4Sr374OQemygSC2tl9o'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jabbo_Smith'
 image_path: 03_Resources/source_material/ArtistPortraits/jabbo_smiths_rhythm_aces.jpg
 biography_enhanced_at: '2025-11-14T11:00:50.405940'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://artmusiclounge.wordpress.com/2016/03/27/jabbo-smith-a-study-in-stubbornness/
-- https://syncopatedtimes.com/profiles-in-jazz-jabbo-smith/
-- http://jazzhotbigstep.com/188.html
-- https://syncopatedtimes.com/jabbo-smiths-rhythm-aces/
-- https://45rpy.wordpress.com/2021/12/04/jabbo-smith-and-his-rhythm-aces-the-ace-of-rhythm-1929-1968/
-- https://academic.oup.com/book/3663/chapter/145005084
+  - >-
+    https://artmusiclounge.wordpress.com/2016/03/27/jabbo-smith-a-study-in-stubbornness/
+  - 'https://syncopatedtimes.com/profiles-in-jazz-jabbo-smith/'
+  - 'http://jazzhotbigstep.com/188.html'
+  - 'https://syncopatedtimes.com/jabbo-smiths-rhythm-aces/'
+  - >-
+    https://45rpy.wordpress.com/2021/12/04/jabbo-smith-and-his-rhythm-aces-the-ace-of-rhythm-1929-1968/
+  - 'https://academic.oup.com/book/3663/chapter/145005084'
 network_extracted: true
 entry_created: '2025-11-14T11:00:50.405959'
 last_updated: '2025-12-23T08:16:02.321721'
-origin: Chicago, Illinois, United States
+origin: 'Chicago, Illinois, United States'
+artist_type: person
 ---
 
 ![](jabbo_smiths_rhythm_aces.jpg)

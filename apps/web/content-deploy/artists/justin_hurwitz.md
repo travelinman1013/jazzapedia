@@ -1,11 +1,11 @@
 ---
-title: justin hurwitz
+title: Justin Hurwitz
 wiki_slug: justin-hurwitz
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1985-01-22'
-birth_place: Los Angeles
+birth_place: 'Los Angeles, California, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/justin_hurwitz.jpg
@@ -28,44 +28,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Damien Chazelle
-  - Benj Pasek and Justin Paul
-  - Chester French (band)
+    - Damien Chazelle
+    - Benj Pasek and Justin Paul
+    - Chester French (band)
   influenced:
-  - Contemporary film composers
+    - Contemporary film composers
   mentors:
-  - Professor Joshua Fineberg
-  - Professor Stewart
+    - Professor Joshua Fineberg
+    - Professor Stewart
 spotify_data:
   followers: 196517
   id: 2snm3HmsnDUDxbIChdl2Oj
   popularity: 60
-  url: https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj
+  url: 'https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj'
 discography_enriched: true
 top_tracks:
-- Mia & Sebastian’s Theme (La La Land (Original Motion Picture Soundtrack))
-- Planetarium (La La Land (Original Motion Picture Soundtrack))
-- Armstrong Cabin (First Man (Original Motion Picture Soundtrack))
-- Epilogue (La La Land (Original Motion Picture Soundtrack))
-- Engagement Party (La La Land (Original Motion Picture Soundtrack))
-- Herman’s Habit (La La Land (Original Motion Picture Soundtrack))
-- Summer Montage / Madeline (La La Land (Original Motion Picture Soundtrack))
-- City Of Stars (Humming) (La La Land (Original Motion Picture Soundtrack))
-- The Armstrongs (First Man (Original Motion Picture Soundtrack))
-- The End (La La Land (Original Motion Picture Soundtrack))
+  - Mia & Sebastian’s Theme (La La Land (Original Motion Picture Soundtrack))
+  - Planetarium (La La Land (Original Motion Picture Soundtrack))
+  - Armstrong Cabin (First Man (Original Motion Picture Soundtrack))
+  - Epilogue (La La Land (Original Motion Picture Soundtrack))
+  - Engagement Party (La La Land (Original Motion Picture Soundtrack))
+  - Herman’s Habit (La La Land (Original Motion Picture Soundtrack))
+  - Summer Montage / Madeline (La La Land (Original Motion Picture Soundtrack))
+  - City Of Stars (Humming) (La La Land (Original Motion Picture Soundtrack))
+  - The Armstrongs (First Man (Original Motion Picture Soundtrack))
+  - The End (La La Land (Original Motion Picture Soundtrack))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f850888c-8465-4dd4-b618-730edf07beab
-  spotify: https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj
-  wikipedia: https://en.wikipedia.org/wiki/Justin_Hurwitz
+  musicbrainz: 'https://musicbrainz.org/artist/f850888c-8465-4dd4-b618-730edf07beab'
+  spotify: 'https://open.spotify.com/artist/2snm3HmsnDUDxbIChdl2Oj'
+  wikipedia: 'https://en.wikipedia.org/wiki/Justin_Hurwitz'
 image_path: 03_Resources/source_material/ArtistPortraits/justin_hurwitz.jpg
 biography_enhanced_at: '2025-10-31T08:24:17.952932'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Justin_Hurwitz
-- https://news.harvard.edu/gazette/story/2017/01/harvard-and-its-la-la-land-connection/
-- https://www.mso.org/backstage/justin-hurwitz-la-la-land/
-- https://www.fandango.com/people/justin-hurwitz-303604/biography
+  - 'https://en.wikipedia.org/wiki/Justin_Hurwitz'
+  - >-
+    https://news.harvard.edu/gazette/story/2017/01/harvard-and-its-la-la-land-connection/
+  - 'https://www.mso.org/backstage/justin-hurwitz-la-la-land/'
+  - 'https://www.fandango.com/people/justin-hurwitz-303604/biography'
 network_extracted: true
 entry_created: '2025-10-31T08:24:17.952941'
 last_updated: '2025-12-23T08:16:11.125257'

@@ -1,16 +1,16 @@
 ---
-title: JOE CARTER
+title: Joe Carter
 wiki_slug: joe-carter
 schema_version: 2
 status: active
-birth_place: New York, New York, United States
+birth_place: 'New York, New York, United States'
 genres:
-- minimalism
+  - minimalism
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/joe_carter.jpg
   caption: JOE CARTER
   background: solo_singer
-  origin: New York, New York, United States
+  origin: 'New York, New York, United States'
 audio_profile:
   tempo_avg: 111.1
   energy_avg: 0.209
@@ -26,51 +26,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Nilson Matta
-  - Mauricio Einhorn
-  - Luis Alves
-  - Joao Cortez
+    - Nilson Matta
+    - Mauricio Einhorn
+    - Luis Alves
+    - Joao Cortez
   influenced:
-  - Students at Sacred Heart University
-  - Students at Hartford Conservatory
+    - Students at Sacred Heart University
+    - Students at Hartford Conservatory
   mentors:
-  - Sal Salvador
-  - John Scofield
-  - Allan Hanlon
-  - Lee Konitz
-  - Don Friedman
+    - Sal Salvador
+    - John Scofield
+    - Allan Hanlon
+    - Lee Konitz
+    - Don Friedman
 spotify_data:
   followers: 0
   id: 3TqkRMZPgzVsw3ZIIkJPwP
   popularity: 18
-  url: https://open.spotify.com/artist/3TqkRMZPgzVsw3ZIIkJPwP
+  url: 'https://open.spotify.com/artist/3TqkRMZPgzVsw3ZIIkJPwP'
 discography_enriched: true
 top_tracks:
-- Offering (The Essential)
-- 'Sadhanipa (Bridges: The Best of the Private Music Recordings)'
-- 'Prashanti (Bridges: The Best of the Private Music Recordings)'
-- 'Ragas in Minor Scale (Bridges: The Best of the Private Music Recordings)'
-- Ragas in Minor Scale (Windham Hill Chill)
-- Offering (The Essential)
-- Offering (Klassik - Zen)
-- Ragas in Minor Scale (The Essential)
-- Buenaventura (Buenaventura Durruti)
-- Ragas in Minor Scale (The Essential)
+  - Offering (The Essential)
+  - 'Sadhanipa (Bridges: The Best of the Private Music Recordings)'
+  - 'Prashanti (Bridges: The Best of the Private Music Recordings)'
+  - 'Ragas in Minor Scale (Bridges: The Best of the Private Music Recordings)'
+  - Ragas in Minor Scale (Windham Hill Chill)
+  - Offering (The Essential)
+  - Offering (Klassik - Zen)
+  - Ragas in Minor Scale (The Essential)
+  - Buenaventura (Buenaventura Durruti)
+  - Ragas in Minor Scale (The Essential)
 external_urls:
-  spotify: https://open.spotify.com/artist/3TqkRMZPgzVsw3ZIIkJPwP
+  spotify: 'https://open.spotify.com/artist/3TqkRMZPgzVsw3ZIIkJPwP'
   wikipedia: ''
 image_path: ''
 biography_enhanced_at: '2025-11-04T10:58:16.117696'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.joecartermusic.com/biography.html
-- https://www.guitar9.com/column/rediscovered-joe-carter
-- https://www.allmusic.com/artist/joe-carter-mn0001785017
-- https://www.joecartermusic.com/projects.html
+  - 'https://www.joecartermusic.com/biography.html'
+  - 'https://www.guitar9.com/column/rediscovered-joe-carter'
+  - 'https://www.allmusic.com/artist/joe-carter-mn0001785017'
+  - 'https://www.joecartermusic.com/projects.html'
 network_extracted: true
 entry_created: '2025-11-04T10:58:16.117709'
 last_updated: '2025-12-23T08:16:10.581870'
+artist_type: person
 ---
 
 ![]()

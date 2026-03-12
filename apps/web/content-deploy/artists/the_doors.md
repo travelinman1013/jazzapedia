@@ -1,12 +1,12 @@
 ---
-title: the doors
+title: The Doors
 wiki_slug: the-doors
 schema_version: 2
 status: active
 genres:
-- psychedelic rock
-- classic rock
-- acid rock
+  - psychedelic rock
+  - classic rock
+  - acid rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_doors.jpg
   caption: the doors
@@ -26,54 +26,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ray Manzarek
-  - Robby Krieger
-  - John Densmore
-  - Paul A. Rothchild
-  - Arthur Lee
+    - Ray Manzarek
+    - Robby Krieger
+    - John Densmore
+    - Paul A. Rothchild
+    - Arthur Lee
   influenced:
-  - Ian Astbury (The Cult)
-  - Eddie Vedder (Pearl Jam)
+    - Ian Astbury (The Cult)
+    - Eddie Vedder (Pearl Jam)
   mentors:
-  - William Blake
-  - Aldous Huxley
+    - William Blake
+    - Aldous Huxley
 spotify_data:
   followers: 8912538
   id: 22WZ7M8sxp5THdruNY3gXt
   popularity: 73
-  url: https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt
+  url: 'https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt'
 discography_enriched: true
 top_tracks:
-- Riders on the Storm (L.A. Woman)
-- People Are Strange (Strange Days)
-- Roadhouse Blues (Morrison Hotel)
-- Break on Through (To the Other Side) (The Doors)
-- Light My Fire (The Doors)
-- Love Her Madly (L.A. Woman)
-- Peace Frog (Morrison Hotel)
-- Soul Kitchen (The Doors)
-- Touch Me (The Soft Parade)
-- Love Me Two Times (Strange Days)
+  - Riders on the Storm (L.A. Woman)
+  - People Are Strange (Strange Days)
+  - Roadhouse Blues (Morrison Hotel)
+  - Break on Through (To the Other Side) (The Doors)
+  - Light My Fire (The Doors)
+  - Love Her Madly (L.A. Woman)
+  - Peace Frog (Morrison Hotel)
+  - Soul Kitchen (The Doors)
+  - Touch Me (The Soft Parade)
+  - Love Me Two Times (Strange Days)
 external_urls:
-  spotify: https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt
-  wikipedia: https://en.wikipedia.org/wiki/The_Doors
+  spotify: 'https://open.spotify.com/artist/22WZ7M8sxp5THdruNY3gXt'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Doors'
 image_path: 03_Resources/source_material/ArtistPortraits/the_doors.jpg
 biography_enhanced_at: '2025-12-04T07:56:14.428350'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://thedoors.com/the-band
-- https://www.ebsco.com/research-starters/music/doors-music
-- https://en.wikipedia.org/wiki/The_Doors
-- https://theburr.com/2505/blogs/grace-marie-burton/the-conflicted-legacy-of-the-doors/
-- https://www.edsullivan.com/artists/the-doors/
-- https://www.youtube.com/watch?v=RRaFFcSzjx4
-- https://www.britannica.com/topic/The-Doors
-- https://www.doorshistory.com/doors1965.html
+  - 'https://thedoors.com/the-band'
+  - 'https://www.ebsco.com/research-starters/music/doors-music'
+  - 'https://en.wikipedia.org/wiki/The_Doors'
+  - >-
+    https://theburr.com/2505/blogs/grace-marie-burton/the-conflicted-legacy-of-the-doors/
+  - 'https://www.edsullivan.com/artists/the-doors/'
+  - 'https://www.youtube.com/watch?v=RRaFFcSzjx4'
+  - 'https://www.britannica.com/topic/The-Doors'
+  - 'https://www.doorshistory.com/doors1965.html'
 network_extracted: true
 entry_created: '2025-12-04T07:56:14.428363'
 last_updated: '2025-12-23T08:16:16.748509'
-origin: Los Angeles, California, United States
+origin: 'Los Angeles, California, United States'
+artist_type: band
 ---
 
 ![](the_doors.jpg)

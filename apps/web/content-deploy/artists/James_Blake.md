@@ -3,13 +3,13 @@ title: James Blake
 wiki_slug: james-blake
 schema_version: 2
 status: active
-birth_place: Enfield, London, England, United Kingdom
+birth_place: 'Enfield, London, England, United Kingdom'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/James_Blake.jpg
   caption: James Blake
   background: solo_singer
-  origin: Enfield, London, England, United Kingdom
+  origin: 'Enfield, London, England, United Kingdom'
 audio_profile:
   tempo_avg: 115.1
   energy_avg: 0.457
@@ -25,53 +25,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bon Iver (Justin Vernon)
-  - Beyoncé
-  - Kendrick Lamar
-  - Frank Ocean
-  - Travis Scott
-  - Brian Eno
+    - Bon Iver (Justin Vernon)
+    - Beyoncé
+    - Kendrick Lamar
+    - Frank Ocean
+    - Travis Scott
+    - Brian Eno
   influenced:
-  - Sampha
-  - Billie Eilish
-  - Moses Sumney
+    - Sampha
+    - Billie Eilish
+    - Moses Sumney
   mentors:
-  - Gilles Peterson
+    - Gilles Peterson
 spotify_data:
   followers: 1546702
   id: 53KwLdlmrlCelAZMaLVZqU
   popularity: 65
-  url: https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU
+  url: 'https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU'
 discography_enriched: true
 top_tracks:
-- TIL FURTHER NOTICE (feat. James Blake & 21 Savage) (UTOPIA)
-- King's Dead (with Kendrick Lamar, Future & James Blake)
-- 'Hummingbird (Metro Boomin & James Blake) (METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND
-  INSPIRED BY THE MOTION PICTURE))'
-- Mile High (feat. Travis Scott & Metro Boomin) (Assume Form)
-- Retrograde
-- Both Sides Of A Smile (feat. James Blake) (We're All Alone In This Together)
-- King's Dead (with Kendrick Lamar, Future & James Blake) (Black Panther The Album Music From And Inspired By)
-- 'Nonviolent Communication (Metro Boomin & James Blake, A$AP Rocky, 21 Savage) (METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS
-  THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION PICTURE))'
-- Coming Back (feat. SZA)
-- I Need A Forest Fire
+  - TIL FURTHER NOTICE (feat. James Blake & 21 Savage) (UTOPIA)
+  - 'King''s Dead (with Kendrick Lamar, Future & James Blake)'
+  - >-
+    Hummingbird (Metro Boomin & James Blake) (METRO BOOMIN PRESENTS SPIDER-MAN:
+    ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM AND INSPIRED BY THE MOTION
+    PICTURE))
+  - Mile High (feat. Travis Scott & Metro Boomin) (Assume Form)
+  - Retrograde
+  - Both Sides Of A Smile (feat. James Blake) (We're All Alone In This Together)
+  - >-
+    King's Dead (with Kendrick Lamar, Future & James Blake) (Black Panther The
+    Album Music From And Inspired By)
+  - >-
+    Nonviolent Communication (Metro Boomin & James Blake, A$AP Rocky, 21 Savage)
+    (METRO BOOMIN PRESENTS SPIDER-MAN: ACROSS THE SPIDER-VERSE (SOUNDTRACK FROM
+    AND INSPIRED BY THE MOTION PICTURE))
+  - Coming Back (feat. SZA)
+  - I Need A Forest Fire
 external_urls:
-  spotify: https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU
-  wikipedia: https://en.wikipedia.org/wiki/James_Blake_(musician)
+  spotify: 'https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU'
+  wikipedia: 'https://en.wikipedia.org/wiki/James_Blake_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/James_Blake.jpg
 biography_enhanced_at: '2025-10-20T09:41:20.920813'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://britishmusiccollection.org.uk/composer/james-blake
-- https://www.pulserecordings.com/clients/james-blake/
-- https://www.last.fm/music/James+Blake/+wiki
-- https://globalmusicrights.com/artist/1423482
-- https://www.canneslions.com/festival/speakers/james-blake-s1-102270
+  - 'https://britishmusiccollection.org.uk/composer/james-blake'
+  - 'https://www.pulserecordings.com/clients/james-blake/'
+  - 'https://www.last.fm/music/James+Blake/+wiki'
+  - 'https://globalmusicrights.com/artist/1423482'
+  - 'https://www.canneslions.com/festival/speakers/james-blake-s1-102270'
 network_extracted: true
 entry_created: '2025-10-20T09:41:20.920828'
 last_updated: '2025-12-23T08:16:02.416633'
+birth_date: '1988-09-26'
+artist_type: person
 ---
 
 ![](James_Blake.jpg)

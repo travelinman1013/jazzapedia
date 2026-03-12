@@ -1,13 +1,13 @@
 ---
-title: skeletons
+title: Skeletons
 wiki_slug: skeletons
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
-birth_date: '2002'
+birth_date: '1991-09-20'
 genres:
-- witch house
-- darkwave
+  - witch house
+  - darkwave
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/skeletons.jpg
   caption: skeletons
@@ -28,51 +28,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Pastel Ghost (Vivian Moon)
+    - Pastel Ghost (Vivian Moon)
   influenced:
-  - Contemporary witch house and dark electronic producers (various)
+    - Contemporary witch house and dark electronic producers (various)
   mentors:
-  - Metal and horror soundtrack traditions
+    - Metal and horror soundtrack traditions
 spotify_data:
   followers: 474550
   id: 48nHO1cuTbpx4ELhChsxX1
   popularity: 64
-  url: https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1
+  url: 'https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1'
 discography_enriched: true
 top_tracks:
-- Goth (White Light)
-- Goth (Slowed + Reverb)
-- Goth (Sped up + Reverb)
-- 4am
-- Eternal Rest (Exorcism)
-- White Light (White Light)
-- Shadow (Exorcism)
-- Goth (Slowed + Reverb)
-- DEATHDREAMER
-- Dethereal
+  - Goth (White Light)
+  - Goth (Slowed + Reverb)
+  - Goth (Sped up + Reverb)
+  - 4am
+  - Eternal Rest (Exorcism)
+  - White Light (White Light)
+  - Shadow (Exorcism)
+  - Goth (Slowed + Reverb)
+  - DEATHDREAMER
+  - Dethereal
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/81fb2e0f-db87-48f8-aae7-9e1039125f3f
-  spotify: https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1
+  musicbrainz: 'https://musicbrainz.org/artist/81fb2e0f-db87-48f8-aae7-9e1039125f3f'
+  spotify: 'https://open.spotify.com/artist/48nHO1cuTbpx4ELhChsxX1'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/skeletons.jpg
 biography_enhanced_at: '2025-12-21T01:29:34.894433'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- MusicBrainz artist profile for Sidewalks and Skeletons (Jake Lee)[2]
-- In Conversation with Sidewalks and Skeletons – PLAYY. Magazine interview by Maya-Rose Torrão[3]
-- A Musical Peak Inside Witch House – Hoboken Library Staff Picks[5]
-- Sidewalks and Skeletons Interview – Brutal Resonance, March 2022[6]
+  - 'MusicBrainz artist profile for Sidewalks and Skeletons (Jake Lee)[2]'
+  - >-
+    In Conversation with Sidewalks and Skeletons – PLAYY. Magazine interview by
+    Maya-Rose Torrão[3]
+  - 'A Musical Peak Inside Witch House – Hoboken Library Staff Picks[5]'
+  - 'Sidewalks and Skeletons Interview – Brutal Resonance, March 2022[6]'
 network_extracted: true
 entry_created: '2025-12-21T01:29:34.894437'
 last_updated: '2025-12-23T08:16:15.706955'
 disambiguation: US Art Rock Band
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 75742764-52ab-47cc-a618-f128b3657600
-  name: Matthew Mehlan
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 75742764-52ab-47cc-a618-f128b3657600
+    name: Matthew Mehlan
 musicbrainz_id: 81fb2e0f-db87-48f8-aae7-9e1039125f3f
 origin: Oberlin
 ---

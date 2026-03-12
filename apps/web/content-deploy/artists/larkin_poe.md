@@ -2,26 +2,26 @@
 title: Larkin Poe
 wiki_slug: larkin-poe
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '2009-11-01'
 genres:
-- blues rock
-- modern blues
-- blues
-- roots rock
+  - blues rock
+  - modern blues
+  - blues
+  - roots rock
 instruments:
-- background vocals
-- original
-- resonator guitar
-- lap steel guitar
-- piano
-- lead vocals
-- acoustic guitar
-- electric guitar
-- mandolin
-- electric bass guitar
-- drums (drum set)
+  - background vocals
+  - original
+  - resonator guitar
+  - lap steel guitar
+  - piano
+  - lead vocals
+  - acoustic guitar
+  - electric guitar
+  - mandolin
+  - electric bass guitar
+  - drums (drum set)
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/larkin_poe.jpg
   caption: Larkin Poe
@@ -42,153 +42,156 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Elvis Costello
-  - Ben Satterlee
-  - Tarka Layman
+    - Elvis Costello
+    - Ben Satterlee
+    - Tarka Layman
   influenced:
-  - Emerging female blues and roots musicians
+    - Emerging female blues and roots musicians
   mentors:
-  - T Bone Burnett
-  - Classic Blues and Rock Artists (e.g., Skip James, Led Zeppelin, Bessie Jones)
+    - T Bone Burnett
+    - >-
+      Classic Blues and Rock Artists (e.g., Skip James, Led Zeppelin, Bessie
+      Jones)
 spotify_data:
   followers: 282696
   id: 7d10VF1J4LqW7vrpPOngzm
   popularity: 46
-  url: https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm
+  url: 'https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm'
 discography_enriched: true
 top_tracks:
-- With A Little Help From My Friends - Live At The Ryman
-- Easy Love Pt. 1 (Bloom)
-- Deep Stays Down (Blood Harmony)
-- Easy Love, Pt. 1 (Bloom)
-- Deep Stays Down (Blood Harmony)
-- Mockingbird (Bloom)
-- Bluephoria (Bloom)
-- Get Up
-- Rosetta (Look Up)
-- Holy Ghost Fire (Self Made Man)
+  - With A Little Help From My Friends - Live At The Ryman
+  - Easy Love Pt. 1 (Bloom)
+  - Deep Stays Down (Blood Harmony)
+  - 'Easy Love, Pt. 1 (Bloom)'
+  - Deep Stays Down (Blood Harmony)
+  - Mockingbird (Bloom)
+  - Bluephoria (Bloom)
+  - Get Up
+  - Rosetta (Look Up)
+  - Holy Ghost Fire (Self Made Man)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ec5436c4-c44a-47f5-a640-da8d376a3871
-  spotify: https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm
-  wikipedia: https://en.wikipedia.org/wiki/Larkin_Poe
+  musicbrainz: 'https://musicbrainz.org/artist/ec5436c4-c44a-47f5-a640-da8d376a3871'
+  spotify: 'https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm'
+  wikipedia: 'https://en.wikipedia.org/wiki/Larkin_Poe'
 image_path: 03_Resources/source_material/ArtistPortraits/larkin_poe.jpg
 biography_enhanced_at: '2025-11-14T10:50:11.130720'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://acousticguitar.com/larkin-poe-from-bluegrass-to-blues-rock/
-- https://www.stagestoriesmusicmagazine.com/featured-articles/larkin-poe
-- https://www.larkinpoe.com/pages/about
-- https://www.nysbluesfest.com/artist-profile-larkin-poe/
-- https://en.wikipedia.org/wiki/Larkin_Poe
+  - 'https://acousticguitar.com/larkin-poe-from-bluegrass-to-blues-rock/'
+  - 'https://www.stagestoriesmusicmagazine.com/featured-articles/larkin-poe'
+  - 'https://www.larkinpoe.com/pages/about'
+  - 'https://www.nysbluesfest.com/artist-profile-larkin-poe/'
+  - 'https://en.wikipedia.org/wiki/Larkin_Poe'
 network_extracted: true
 entry_created: '2025-11-14T10:50:11.130741'
 last_updated: '2025-12-23T08:16:11.597614'
 disambiguation: formerly known as Lovell Sisters
 members:
-- &id001
-  begin: 2010-01
-  end: ''
-  instruments:
-  - background vocals
-  - original
-  mbid: 2e43a42c-3d6a-4e19-b36e-f7aa8385bbae
-  name: Megan Lovell
-- &id002
-  begin: 2010-01
-  end: ''
-  instruments:
-  - original
-  - resonator guitar
-  mbid: 2e43a42c-3d6a-4e19-b36e-f7aa8385bbae
-  name: Megan Lovell
-- &id003
-  begin: 2010-01
-  end: ''
-  instruments:
-  - lap steel guitar
-  - original
-  mbid: 2e43a42c-3d6a-4e19-b36e-f7aa8385bbae
-  name: Megan Lovell
-- &id004
-  begin: 2010-01
-  end: ''
-  instruments:
-  - original
-  - piano
-  mbid: 27b626d9-e376-4c6a-96c6-8542a2de1cc1
-  name: Rebecca Lovell
-- &id005
-  begin: 2010-01
-  end: ''
-  instruments:
-  - lead vocals
-  - original
-  mbid: 27b626d9-e376-4c6a-96c6-8542a2de1cc1
-  name: Rebecca Lovell
-- &id006
-  begin: 2010-01
-  end: ''
-  instruments:
-  - acoustic guitar
-  - original
-  mbid: 27b626d9-e376-4c6a-96c6-8542a2de1cc1
-  name: Rebecca Lovell
-- &id007
-  begin: 2010-01
-  end: ''
-  instruments:
-  - electric guitar
-  - original
-  mbid: 27b626d9-e376-4c6a-96c6-8542a2de1cc1
-  name: Rebecca Lovell
-- &id008
-  begin: 2010-01
-  end: ''
-  instruments:
-  - mandolin
-  - original
-  mbid: 27b626d9-e376-4c6a-96c6-8542a2de1cc1
-  name: Rebecca Lovell
-- begin: ''
-  end: ''
-  instruments:
-  - electric bass guitar
-  mbid: 3ce6d819-4b72-4a8a-a9d3-6cc5e97bae51
-  name: Tarka Layman
-- begin: ''
-  end: ''
-  instruments:
-  - background vocals
-  mbid: f7889943-6a4f-4dfb-9a05-a8b00af1114c
-  name: Kelly McCarty
-- begin: ''
-  end: ''
-  instruments:
-  - electric bass guitar
-  mbid: f7889943-6a4f-4dfb-9a05-a8b00af1114c
-  name: Kelly McCarty
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 80f15291-5fc2-4d6e-8523-6e58e19534ed
-  name: Kevin McGowan
+  - &ref_0
+    begin: 2010-01
+    end: ''
+    instruments:
+      - background vocals
+      - original
+    mbid: 2e43a42c-3d6a-4e19-b36e-f7aa8385bbae
+    name: Megan Lovell
+  - &ref_1
+    begin: 2010-01
+    end: ''
+    instruments:
+      - original
+      - resonator guitar
+    mbid: 2e43a42c-3d6a-4e19-b36e-f7aa8385bbae
+    name: Megan Lovell
+  - &ref_2
+    begin: 2010-01
+    end: ''
+    instruments:
+      - lap steel guitar
+      - original
+    mbid: 2e43a42c-3d6a-4e19-b36e-f7aa8385bbae
+    name: Megan Lovell
+  - &ref_3
+    begin: 2010-01
+    end: ''
+    instruments:
+      - original
+      - piano
+    mbid: 27b626d9-e376-4c6a-96c6-8542a2de1cc1
+    name: Rebecca Lovell
+  - &ref_4
+    begin: 2010-01
+    end: ''
+    instruments:
+      - lead vocals
+      - original
+    mbid: 27b626d9-e376-4c6a-96c6-8542a2de1cc1
+    name: Rebecca Lovell
+  - &ref_5
+    begin: 2010-01
+    end: ''
+    instruments:
+      - acoustic guitar
+      - original
+    mbid: 27b626d9-e376-4c6a-96c6-8542a2de1cc1
+    name: Rebecca Lovell
+  - &ref_6
+    begin: 2010-01
+    end: ''
+    instruments:
+      - electric guitar
+      - original
+    mbid: 27b626d9-e376-4c6a-96c6-8542a2de1cc1
+    name: Rebecca Lovell
+  - &ref_7
+    begin: 2010-01
+    end: ''
+    instruments:
+      - mandolin
+      - original
+    mbid: 27b626d9-e376-4c6a-96c6-8542a2de1cc1
+    name: Rebecca Lovell
+  - begin: ''
+    end: ''
+    instruments:
+      - electric bass guitar
+    mbid: 3ce6d819-4b72-4a8a-a9d3-6cc5e97bae51
+    name: Tarka Layman
+  - begin: ''
+    end: ''
+    instruments:
+      - background vocals
+    mbid: f7889943-6a4f-4dfb-9a05-a8b00af1114c
+    name: Kelly McCarty
+  - begin: ''
+    end: ''
+    instruments:
+      - electric bass guitar
+    mbid: f7889943-6a4f-4dfb-9a05-a8b00af1114c
+    name: Kelly McCarty
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 80f15291-5fc2-4d6e-8523-6e58e19534ed
+    name: Kevin McGowan
 musicbrainz_id: ec5436c4-c44a-47f5-a640-da8d376a3871
-origin: Calhoun
+origin: 'Atlanta, Georgia, United States'
 original_members:
-- *id001
-- *id002
-- *id003
-- *id004
-- *id005
-- *id006
-- *id007
-- *id008
+  - *ref_0
+  - *ref_1
+  - *ref_2
+  - *ref_3
+  - *ref_4
+  - *ref_5
+  - *ref_6
+  - *ref_7
 tags:
-- blues rock
-- folk rock
-- indie rock
+  - blues rock
+  - folk rock
+  - indie rock
+birth_place: 'Calhoun, Georgia, United States'
 ---
 
 ![](larkin_poe.jpg)

@@ -4,30 +4,31 @@ birth_place: Unknown
 enhancement_provider: perplexity
 entry_created: '2026-01-06T02:11:01.935185'
 external_urls:
-  spotify: https://open.spotify.com/artist/4YC8d6LulqAmlZcNKw7c5L
+  spotify: 'https://open.spotify.com/artist/4YC8d6LulqAmlZcNKw7c5L'
   wikipedia: null
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/gloria_barnes.jpg
 last_updated: '2026-01-06T02:11:01.935186'
 musical_connections:
   collaborators:
-  - The Ohio Players
-  - Lee Moses
+    - The Ohio Players
+    - Lee Moses
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.coleminerecords.com/products/gloriabarnesuptown
-- https://www.last.fm/music/Gloria+Barnes
-- http://indangerousrhythm.blogspot.com/2007/04/gloria-barnes.html
+  - 'https://www.coleminerecords.com/products/gloriabarnesuptown'
+  - 'https://www.last.fm/music/Gloria+Barnes'
+  - 'http://indangerousrhythm.blogspot.com/2007/04/gloria-barnes.html'
 spotify_data:
   followers: 1975
   id: 4YC8d6LulqAmlZcNKw7c5L
   popularity: 17
-  url: https://open.spotify.com/artist/4YC8d6LulqAmlZcNKw7c5L
+  url: 'https://open.spotify.com/artist/4YC8d6LulqAmlZcNKw7c5L'
 status: active
-title: Gloria BArnes
+title: Gloria Barnes
+artist_type: person
 ---
 
 ![](gloria_barnes.jpg)

@@ -2,22 +2,22 @@
 title: Syreeta
 wiki_slug: syreeta
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1946-08-03'
-birth_place: Pittsburgh, Pennsylvania, USA
+birth_place: 'Pittsburgh, Pennsylvania, USA'
 death_date: '2004-07-06'
 genres:
-- motown
+  - motown
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Syreeta.jpg
   caption: Syreeta
   background: solo_singer
   born: '1946-08-03'
-  origin: Pittsburgh, Pennsylvania, USA
+  origin: 'Pittsburgh, Pennsylvania, USA'
   died: '2004-07-06'
 audio_profile:
-  tempo_avg: 112.0
+  tempo_avg: 112
   energy_avg: 0.525
   valence_avg: 0.556
   danceability_avg: 0.505
@@ -31,47 +31,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Stevie Wonder
-  - Billy Preston
-  - Leon Ware
-  - Jermaine Jackson
-  - Deniece Williams and Minnie Riperton
+    - Stevie Wonder
+    - Billy Preston
+    - Leon Ware
+    - Jermaine Jackson
+    - Deniece Williams and Minnie Riperton
   influenced:
-  - Deniece Williams
+    - Deniece Williams
   mentors:
-  - Brian Holland
-  - Berry Gordy
+    - Brian Holland
+    - Berry Gordy
 spotify_data:
   followers: 19838
   id: 594LqcHtMvKoR0URmSiYJB
   popularity: 32
-  url: https://open.spotify.com/artist/594LqcHtMvKoR0URmSiYJB
+  url: 'https://open.spotify.com/artist/594LqcHtMvKoR0URmSiYJB'
 discography_enriched: true
 top_tracks:
-- With You I'm Born Again (Music From The Motion Picture "Fast Break")
-- To Know You Is To Love You - Unfaded Album Mix (Syreeta)
-- With You I'm Born Again
-- I Love Every Little Thing About You (Syreeta)
-- It Will Come In Time (Billy Preston & Syreeta (Expanded Edition))
-- With You I'm Born Again (Billy Preston & Syreeta (Expanded Edition))
-- With You I'm Born Again (Hitsville USA, The Motown Collection 1972-1992)
-- Love (Billy Preston & Syreeta (Expanded Edition))
-- Quick Slick (Set My Love In Motion (Expanded Version))
-- Cause We've Ended As Lovers (Stevie Wonder Presents Syreeta)
+  - With You I'm Born Again (Music From The Motion Picture "Fast Break")
+  - To Know You Is To Love You - Unfaded Album Mix (Syreeta)
+  - With You I'm Born Again
+  - I Love Every Little Thing About You (Syreeta)
+  - It Will Come In Time (Billy Preston & Syreeta (Expanded Edition))
+  - With You I'm Born Again (Billy Preston & Syreeta (Expanded Edition))
+  - 'With You I''m Born Again (Hitsville USA, The Motown Collection 1972-1992)'
+  - Love (Billy Preston & Syreeta (Expanded Edition))
+  - Quick Slick (Set My Love In Motion (Expanded Version))
+  - Cause We've Ended As Lovers (Stevie Wonder Presents Syreeta)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5cfeec75-f6e2-439c-946d-5317334cdc6c
-  spotify: https://open.spotify.com/artist/594LqcHtMvKoR0URmSiYJB
-  wikipedia: https://en.wikipedia.org/wiki/Syreeta_Wright
+  musicbrainz: 'https://musicbrainz.org/artist/5cfeec75-f6e2-439c-946d-5317334cdc6c'
+  spotify: 'https://open.spotify.com/artist/594LqcHtMvKoR0URmSiYJB'
+  wikipedia: 'https://en.wikipedia.org/wiki/Syreeta_Wright'
 image_path: 03_Resources/source_material/ArtistPortraits/Syreeta.jpg
 biography_enhanced_at: '2025-10-20T09:24:45.696919'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.imdb.com/name/nm1111010/bio/
-- http://www.soulwalking.co.uk/Syreeta.html
-- https://jivetimerecords.com/2024/04/syreeta-stevie-wonder-presents-syreeta-motown-1974/
-- https://classic.motown.com/artist/syreeta/
-- https://en.wikipedia.org/wiki/Syreeta_Wright
+  - 'https://www.imdb.com/name/nm1111010/bio/'
+  - 'http://www.soulwalking.co.uk/Syreeta.html'
+  - >-
+    https://jivetimerecords.com/2024/04/syreeta-stevie-wonder-presents-syreeta-motown-1974/
+  - 'https://classic.motown.com/artist/syreeta/'
+  - 'https://en.wikipedia.org/wiki/Syreeta_Wright'
 network_extracted: true
 entry_created: '2025-10-20T09:24:45.697032'
 last_updated: '2025-12-23T08:16:03.982177'
@@ -79,6 +80,7 @@ disambiguation: US singer‐songwriter active 1970s–80s
 gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:44:43.608978'
 musicbrainz_id: 5cfeec75-f6e2-439c-946d-5317334cdc6c
+is_active: false
 ---
 
 ![](Syreeta.jpg)

@@ -1,41 +1,41 @@
 ---
-title: james cotton
+title: James Cotton
 wiki_slug: james-cotton
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1935-07-01'
-birth_place: Tunica
+birth_place: 'Tunica, Mississippi, United States'
 death_date: '2017-03-16'
 genres:
-- blues
-- classic blues
-- modern blues
-- blues rock
+  - blues
+  - classic blues
+  - modern blues
+  - blues rock
 instruments:
-- original
-- eponymous
-- lead vocals
+  - original
+  - eponymous
+  - lead vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 681a70b2-baee-4038-a195-b382d2e06530
-  name: The Jimmy Cotton Blues Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: a1b798b9-2071-44c4-b6ec-c229637cf104
-  name: James Cotton and His Big Band
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 4d4a51d9-5767-4dcc-954f-a0dacd69c86f
-  name: James Cotton Blues Band
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 681a70b2-baee-4038-a195-b382d2e06530
+    name: The Jimmy Cotton Blues Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: a1b798b9-2071-44c4-b6ec-c229637cf104
+    name: James Cotton and His Big Band
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 4d4a51d9-5767-4dcc-954f-a0dacd69c86f
+    name: James Cotton Blues Band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/james_cotton.jpg
   caption: james cotton
@@ -58,57 +58,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Howlin’ Wolf
-  - Muddy Waters
-  - Otis Spann
-  - Janis Joplin
-  - Johnny Winter
-  - Steve Miller
+    - Howlin’ Wolf
+    - Muddy Waters
+    - Otis Spann
+    - Janis Joplin
+    - Johnny Winter
+    - Steve Miller
   influenced:
-  - Mick Jagger
-  - Joe Bonamassa
-  - Gregg Allman
+    - Mick Jagger
+    - Joe Bonamassa
+    - Gregg Allman
   mentors:
-  - Sonny Boy Williamson II (Rice Miller)
+    - Sonny Boy Williamson II (Rice Miller)
 spotify_data:
   followers: 74978
   id: 6mY93oNfUaUwZq67yn3R8k
   popularity: 30
-  url: https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k
+  url: 'https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k'
 discography_enriched: true
 top_tracks:
-- Down Home Blues (Harp Attack!)
-- When The Levee Breaks (Part One)
-- Wrapped Around My Heart (Cotton Mouth Man)
-- Cotton Mouth Man (Cotton Mouth Man)
-- Play With Your Poodle (Deep In The Blues)
-- My Baby (This is)
-- Midnight Train (Cotton Mouth Man)
-- Black Cat Bone / Dust My Broom - Live (Breakin' It Up, Breakin' It Down)
-- Dealin' With the Devil (Breakin' It Up, Breakin' It Down)
-- Mississippi Mud (Cotton Mouth Man)
+  - Down Home Blues (Harp Attack!)
+  - When The Levee Breaks (Part One)
+  - Wrapped Around My Heart (Cotton Mouth Man)
+  - Cotton Mouth Man (Cotton Mouth Man)
+  - Play With Your Poodle (Deep In The Blues)
+  - My Baby (This is)
+  - Midnight Train (Cotton Mouth Man)
+  - 'Black Cat Bone / Dust My Broom - Live (Breakin'' It Up, Breakin'' It Down)'
+  - 'Dealin'' With the Devil (Breakin'' It Up, Breakin'' It Down)'
+  - Mississippi Mud (Cotton Mouth Man)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8a40d683-e22f-491d-9bff-5e094d212964
-  spotify: https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k
-  wikipedia: https://en.wikipedia.org/wiki/James_Cotton
+  musicbrainz: 'https://musicbrainz.org/artist/8a40d683-e22f-491d-9bff-5e094d212964'
+  spotify: 'https://open.spotify.com/artist/6mY93oNfUaUwZq67yn3R8k'
+  wikipedia: 'https://en.wikipedia.org/wiki/James_Cotton'
 image_path: 03_Resources/source_material/ArtistPortraits/james_cotton.jpg
 biography_enhanced_at: '2025-11-11T09:35:16.217032'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/James_Cotton
-- https://mojohand.com/glossary/james-cotton/
-- https://www.udiscovermusic.com/stories/james-cotton-blues-harmonica-great/
-- https://sunrecords.com/artists/james-cotton/
+  - 'https://en.wikipedia.org/wiki/James_Cotton'
+  - 'https://mojohand.com/glossary/james-cotton/'
+  - 'https://www.udiscovermusic.com/stories/james-cotton-blues-harmonica-great/'
+  - 'https://sunrecords.com/artists/james-cotton/'
 network_extracted: true
 entry_created: '2025-11-11T09:35:16.217043'
 last_updated: '2025-12-23T08:16:02.437027'
-disambiguation: US blues harmonica player, singer & songwriter
+disambiguation: 'US blues harmonica player, singer & songwriter'
 gender: Male
 musicbrainz_id: 8a40d683-e22f-491d-9bff-5e094d212964
 tags:
-- blues
-- chicago blues
+  - blues
+  - chicago blues
+is_active: false
 ---
 
 ![](james_cotton.jpg)

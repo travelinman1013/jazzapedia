@@ -2,13 +2,13 @@
 title: Malavoi
 wiki_slug: malavoi
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1972'
 genres:
-- zouk
+  - zouk
 instruments:
-- original
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/malavoi.jpg
   caption: Malavoi
@@ -29,70 +29,69 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Paulo Rosine
-  - Ralph Thamar
-  - Marie‑José Alie
-  - Tony Chasseur
-  - Kali
-  - Jocelyne Béroard
-  - Edith Lefel
-  - Tanya Saint‑Val
-  - Beethova (Bethova) Obas
-  - Alan Cavé
-  - Kassav’
+    - Paulo Rosine
+    - Ralph Thamar
+    - Marie‑José Alie
+    - Tony Chasseur
+    - Kali
+    - Jocelyne Béroard
+    - Edith Lefel
+    - Tanya Saint‑Val
+    - Beethova (Bethova) Obas
+    - Alan Cavé
+    - Kassav’
   influenced:
-  - Ralph Thamar
-  - Edith Lefel
-  - Dédé Saint‑Prix
-  - Younger Martinican and French Caribbean bands
+    - Ralph Thamar
+    - Edith Lefel
+    - Dédé Saint‑Prix
+    - Younger Martinican and French Caribbean bands
   mentors:
-  - Cuban charanga tradition (Aragón and other charanga ensembles)
-  - Traditional Martinican dance music (biguine, mazurka, quadrille)
-  - Latin jazz and Cuban/Caribbean salsa currents
+    - Cuban charanga tradition (Aragón and other charanga ensembles)
+    - 'Traditional Martinican dance music (biguine, mazurka, quadrille)'
+    - Latin jazz and Cuban/Caribbean salsa currents
 spotify_data:
   followers: 16538
   id: 0bwkyuCJ6J20GtSwChI2x6
   popularity: 26
-  url: https://open.spotify.com/artist/0bwkyuCJ6J20GtSwChI2x6
+  url: 'https://open.spotify.com/artist/0bwkyuCJ6J20GtSwChI2x6'
 discography_enriched: true
 top_tracks:
-- Caressé moin
-- Fayalobi (Pep la)
-- La siren' (Matebis)
-- La gwadeloupeen (Matebis)
-- La filo
-- Sidonie (La case à Lucie)
-- Jou ouve
-- Caressé Moin
-- Me ki sa ou le (Matebis)
-- Case à Lucie (La case à Lucie)
+  - Caressé moin
+  - Fayalobi (Pep la)
+  - La siren' (Matebis)
+  - La gwadeloupeen (Matebis)
+  - La filo
+  - Sidonie (La case à Lucie)
+  - Jou ouve
+  - Caressé Moin
+  - Me ki sa ou le (Matebis)
+  - Case à Lucie (La case à Lucie)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5871ab3e-f48b-46ba-b036-03f81e81d8ad
-  spotify: https://open.spotify.com/artist/0bwkyuCJ6J20GtSwChI2x6
-  wikipedia: https://en.wikipedia.org/wiki/Malavoi
+  musicbrainz: 'https://musicbrainz.org/artist/5871ab3e-f48b-46ba-b036-03f81e81d8ad'
+  spotify: 'https://open.spotify.com/artist/0bwkyuCJ6J20GtSwChI2x6'
+  wikipedia: 'https://en.wikipedia.org/wiki/Malavoi'
 image_path: 03_Resources/source_material/ArtistPortraits/malavoi.jpg
 biography_enhanced_at: '2025-12-07T04:38:32.669805'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Malavoi/+wiki
-- https://azmartinique.com/en/all-to-know/celebrities/malavoi
-- https://worldmusiccentral.org/artist-profiles-malavoi/
-- https://onedayinmartinique.wordpress.com/2014/10/29/malavoi/
-- https://www.allmusic.com/artist/malavoi-mn0000738045
+  - 'https://www.last.fm/music/Malavoi/+wiki'
+  - 'https://azmartinique.com/en/all-to-know/celebrities/malavoi'
+  - 'https://worldmusiccentral.org/artist-profiles-malavoi/'
+  - 'https://onedayinmartinique.wordpress.com/2014/10/29/malavoi/'
+  - 'https://www.allmusic.com/artist/malavoi-mn0000738045'
 network_extracted: true
 entry_created: '2025-12-07T04:38:32.669822'
 last_updated: '2025-12-23T08:16:12.551619'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 3c0cc252-57cb-41ee-94fc-1bfc8520496a
-  name: Emmanuel Césaire
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 3c0cc252-57cb-41ee-94fc-1bfc8520496a
+    name: Emmanuel Césaire
 musicbrainz_id: 5871ab3e-f48b-46ba-b036-03f81e81d8ad
-origin: Fort-de-France
-
+origin: 'Fort-de-France, Martinique, France'
 ---
 
 ![](malavoi.jpg)

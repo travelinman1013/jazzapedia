@@ -2,12 +2,12 @@
 title: Santo & Johnny
 wiki_slug: santo-johnny
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
-birth_date: '1959'
+birth_date: '1937-10-24'
 genres:
-- surf rock
-- exotica
+  - surf rock
+  - exotica
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/santo_and_johnny.jpg
   caption: Santo & Johnny
@@ -28,61 +28,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Santo Farina
-  - Johnny Farina
+    - Santo Farina
+    - Johnny Farina
   influenced:
-  - Brian Setzer / The Brian Setzer Orchestra
+    - Brian Setzer / The Brian Setzer Orchestra
   mentors:
-  - Unnamed Hawaiian‑trained steel guitar teacher
+    - Unnamed Hawaiian‑trained steel guitar teacher
 spotify_data:
   followers: 162164
   id: 4hGjngc0tPOBwTgTPci3IK
   popularity: 53
-  url: https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK
+  url: 'https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK'
 discography_enriched: true
 top_tracks:
-- Sleep Walk
-- And I Love Her
-- And I Love Her (Adagio)
-- Sleepwalk
-- And I Love Her (Long Walk Home)
-- Y La Amo (Instrumental)
-- Sleepwalk
-- Sealed with a Kiss (Adagio)
-- Sleepwalk
-- And I Love Her
+  - Sleep Walk
+  - And I Love Her
+  - And I Love Her (Adagio)
+  - Sleepwalk
+  - And I Love Her (Long Walk Home)
+  - Y La Amo (Instrumental)
+  - Sleepwalk
+  - Sealed with a Kiss (Adagio)
+  - Sleepwalk
+  - And I Love Her
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d7aa31ba-5739-427f-a9b5-8f0ce1c1e729
-  spotify: https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK
-  wikipedia: https://en.wikipedia.org/wiki/Santo_&_Johnny
+  musicbrainz: 'https://musicbrainz.org/artist/d7aa31ba-5739-427f-a9b5-8f0ce1c1e729'
+  spotify: 'https://open.spotify.com/artist/4hGjngc0tPOBwTgTPci3IK'
+  wikipedia: 'https://en.wikipedia.org/wiki/Santo_&_Johnny'
 image_path: 03_Resources/source_material/ArtistPortraits/santo_and_johnny.jpg
 biography_enhanced_at: '2025-12-20T01:07:49.866068'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Santo_&_Johnny
-- https://www.santoandjohnny.com/bio
-- https://www.history-of-rock.com/santo_and_johnny.htm
-- https://www.limusichalloffame.org/inductees/santo-johnny/
-- http://rocky-52.net/chanteurss/santo&johnny.htm
+  - 'https://en.wikipedia.org/wiki/Santo_&_Johnny'
+  - 'https://www.santoandjohnny.com/bio'
+  - 'https://www.history-of-rock.com/santo_and_johnny.htm'
+  - 'https://www.limusichalloffame.org/inductees/santo-johnny/'
+  - 'http://rocky-52.net/chanteurss/santo&johnny.htm'
 network_extracted: true
 entry_created: '2025-12-20T01:07:49.866074'
 last_updated: '2025-12-23T08:16:15.374528'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f4596090-4e71-458d-9fcc-a176a275a663
-  name: Johnny Farina
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0e1c5f86-34ff-4b75-93ca-39002e31e7cf
-  name: Santo Farina
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f4596090-4e71-458d-9fcc-a176a275a663
+    name: Johnny Farina
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0e1c5f86-34ff-4b75-93ca-39002e31e7cf
+    name: Santo Farina
 musicbrainz_id: d7aa31ba-5739-427f-a9b5-8f0ce1c1e729
-origin: Brooklyn
+origin: 'Brooklyn, New York, United States'
 tags:
-- american
+  - american
+birth_place: 'Brooklyn, New York, United States'
 ---
 
 ![](santo_and_johnny.jpg)

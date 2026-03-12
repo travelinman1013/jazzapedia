@@ -2,19 +2,19 @@
 title: Helen Gillet
 wiki_slug: helen-gillet
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
-birth_place: Belgium (birthplace); New Orleans, Louisiana, USA (primary career location)
+birth_place: 'Belgium (birthplace); New Orleans, Louisiana, USA (primary career location)'
 genres:
-- cajun
+  - cajun
 instruments:
-- original
-- eponymous
+  - original
+  - eponymous
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Helen_Gillet.jpg
   caption: Helen Gillet
   background: non_vocal_instrumentalist
-  origin: Belgium (birthplace); New Orleans, Louisiana, USA (primary career location)
+  origin: 'Belgium (birthplace); New Orleans, Louisiana, USA (primary career location)'
 audio_profile:
   tempo_avg: 123.6
   energy_avg: 0.294
@@ -30,53 +30,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - James Singleton
-  - Aurora Nealand
-  - Jeff Coffin
-  - Wazozo
-  - Piety Records
+    - James Singleton
+    - Aurora Nealand
+    - Jeff Coffin
+    - Wazozo
+    - Piety Records
   influenced:
-  - No widely documented individual artists
+    - No widely documented individual artists
   mentors:
-  - Nancy Lesh Kulkarni
+    - Nancy Lesh Kulkarni
 spotify_data:
   followers: 2080
   id: 6cTteu6XsAP0YSGM6gjaw7
   popularity: 3
-  url: https://open.spotify.com/artist/6cTteu6XsAP0YSGM6gjaw7
+  url: 'https://open.spotify.com/artist/6cTteu6XsAP0YSGM6gjaw7'
 discography_enriched: true
 top_tracks:
-- Ride Into the Sun (Bangkok Silver)
-- Renard (Bangkok Silver)
-- Lettre à Kissinger (ReBelle)
-- Les loups (ReBelle)
-- Les vrais amis (ReBelle)
-- À la brunante (ReBelle)
-- Le Deserteur (Bangkok Silver)
-- Atchafalaya (Helen Gillet)
-- Eternelle (ReBelle)
-- Repondez-Moi (Bangkok Silver)
+  - Ride Into the Sun (Bangkok Silver)
+  - Renard (Bangkok Silver)
+  - Lettre à Kissinger (ReBelle)
+  - Les loups (ReBelle)
+  - Les vrais amis (ReBelle)
+  - À la brunante (ReBelle)
+  - Le Deserteur (Bangkok Silver)
+  - Atchafalaya (Helen Gillet)
+  - Eternelle (ReBelle)
+  - Repondez-Moi (Bangkok Silver)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/54b77d4a-81fe-451e-8c82-de7b1cb247ad
-  spotify: https://open.spotify.com/artist/6cTteu6XsAP0YSGM6gjaw7
+  musicbrainz: 'https://musicbrainz.org/artist/54b77d4a-81fe-451e-8c82-de7b1cb247ad'
+  spotify: 'https://open.spotify.com/artist/6cTteu6XsAP0YSGM6gjaw7'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/Helen_Gillet.jpg
 biography_enhanced_at: '2025-10-20T10:17:04.341485'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.btdfoundation.org/helen-gillet/
-- https://www.offbeat.com/music/helen-gillet-helkiase-independent/
-- https://antigravitymagazine.com/feature/taking-the-cello-on-a-joy-ride-with-helen-gillet/
-- https://helengillet.bandcamp.com
-- https://www.helengillet.com/about/
-- https://www.neworleans.com/listing/helen-gillet/46398/
+  - 'https://www.btdfoundation.org/helen-gillet/'
+  - 'https://www.offbeat.com/music/helen-gillet-helkiase-independent/'
+  - >-
+    https://antigravitymagazine.com/feature/taking-the-cello-on-a-joy-ride-with-helen-gillet/
+  - 'https://helengillet.bandcamp.com'
+  - 'https://www.helengillet.com/about/'
+  - 'https://www.neworleans.com/listing/helen-gillet/46398/'
 network_extracted: true
 entry_created: '2025-10-20T10:17:04.341501'
 last_updated: '2025-12-23T08:16:02.221945'
 gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:28:55.269693'
 musicbrainz_id: 54b77d4a-81fe-451e-8c82-de7b1cb247ad
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](Helen_Gillet.jpg)

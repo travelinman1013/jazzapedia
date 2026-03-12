@@ -5,49 +5,49 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1940-10-13'
-birth_place: Little Rock
+birth_place: 'Little Rock, Arkansas, United States'
 death_date: '2022-09-24'
 genres:
-- free jazz
-- jazz
-- hard bop
+  - free jazz
+  - jazz
+  - hard bop
 instruments:
-- alto saxophone
-- eponymous
-- original
-- tenor saxophone
-- soprano saxophone
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - alto saxophone
   - eponymous
   - original
   - tenor saxophone
-  mbid: 74580f40-e289-4c66-b3eb-ca19c3187477
-  name: Pharoah Sanders Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
   - soprano saxophone
-  - tenor saxophone
-  mbid: c0bf3151-d1bf-4ae7-9c9d-df87bb90d1be
-  name: Pharoah Sanders Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  - tenor saxophone
-  mbid: 2813e3a6-6977-45cc-b055-710d202348d2
-  name: Ed Kelly & Friend
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f7d398fd-c052-41e6-87f0-b29b70c8000f
-  name: Elvin Jones McCoy Tyner Quintet
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - alto saxophone
+      - eponymous
+      - original
+      - tenor saxophone
+    mbid: 74580f40-e289-4c66-b3eb-ca19c3187477
+    name: Pharoah Sanders Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - soprano saxophone
+      - tenor saxophone
+    mbid: c0bf3151-d1bf-4ae7-9c9d-df87bb90d1be
+    name: Pharoah Sanders Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - tenor saxophone
+    mbid: 2813e3a6-6977-45cc-b055-710d202348d2
+    name: Ed Kelly & Friend
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f7d398fd-c052-41e6-87f0-b29b70c8000f
+    name: Elvin Jones McCoy Tyner Quintet
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/pharoah_sanders.jpg
   caption: Pharoah Sanders
@@ -70,48 +70,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Leon Thomas
-  - Alice Coltrane
-  - Lonnie Liston Smith
-  - Billy Higgins
-  - Don Cherry
+    - Leon Thomas
+    - Alice Coltrane
+    - Lonnie Liston Smith
+    - Billy Higgins
+    - Don Cherry
   influenced:
-  - Kamasi Washington
-  - Shabaka Hutchings
-  - Albert Ayler
+    - Kamasi Washington
+    - Shabaka Hutchings
+    - Albert Ayler
   mentors:
-  - John Coltrane
-  - Sun Ra
-  - Jimmy Cannon
+    - John Coltrane
+    - Sun Ra
+    - Jimmy Cannon
 spotify_data:
   followers: 187097
   id: 3JLUCojZaHrX2LaUkSj7Ud
   popularity: 43
-  url: https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud
+  url: 'https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud'
 discography_enriched: true
 top_tracks:
-- Journey In Satchidananda (Journey in Satchidananda)
-- Love Will Find a Way (Love Will Find a Way (Expanded Edition))
-- Love Is Everywhere (Wisdom Through Music)
-- Astral Traveling (Thembi)
-- Movement 6 (Promises)
-- Movement 1 (Promises)
-- Movement 6 (Promises)
-- Movement 3 (Promises)
-- Stopover Bombay (Journey in Satchidananda)
-- Movement 1 (Promises)
+  - Journey In Satchidananda (Journey in Satchidananda)
+  - Love Will Find a Way (Love Will Find a Way (Expanded Edition))
+  - Love Is Everywhere (Wisdom Through Music)
+  - Astral Traveling (Thembi)
+  - Movement 6 (Promises)
+  - Movement 1 (Promises)
+  - Movement 6 (Promises)
+  - Movement 3 (Promises)
+  - Stopover Bombay (Journey in Satchidananda)
+  - Movement 1 (Promises)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b3a0912a-a62a-4388-9368-7cb21ed5caf9
-  spotify: https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud
-  wikipedia: https://en.wikipedia.org/wiki/Pharoah_Sanders
+  musicbrainz: 'https://musicbrainz.org/artist/b3a0912a-a62a-4388-9368-7cb21ed5caf9'
+  spotify: 'https://open.spotify.com/artist/3JLUCojZaHrX2LaUkSj7Ud'
+  wikipedia: 'https://en.wikipedia.org/wiki/Pharoah_Sanders'
 image_path: 03_Resources/source_material/ArtistPortraits/pharoah_sanders.jpg
 biography_enhanced_at: '2025-10-23T07:17:13.275464'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- National Endowment for the Arts
-- Wikipedia
-- Encyclopedia of Arkansas
+  - National Endowment for the Arts
+  - Wikipedia
+  - Encyclopedia of Arkansas
 network_extracted: true
 entry_created: '2025-10-23T07:17:13.275483'
 last_updated: '2025-12-23T08:16:03.589659'
@@ -119,9 +119,11 @@ disambiguation: US jazz saxophonist
 gender: Male
 musicbrainz_id: b3a0912a-a62a-4388-9368-7cb21ed5caf9
 tags:
-- 2008 universal fire victim
-- avant-garde jazz
-- blues
+  - 2008 universal fire victim
+  - avant-garde jazz
+  - blues
+is_active: false
+origin: 'Oakland, California, United States'
 ---
 
 ![](pharoah_sanders.jpg)

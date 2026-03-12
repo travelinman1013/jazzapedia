@@ -5,31 +5,31 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1950-05-27'
-birth_place: Memphis
+birth_place: 'Memphis, Tennessee, United States'
 genres:
-- vocal jazz
-- jazz blues
+  - vocal jazz
+  - jazz blues
 instruments:
-- eponymous
-- lead vocals
-- original
-- background vocals
-- other vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - lead vocals
   - original
-  mbid: f218110f-a866-4d22-aa0e-bae4f0d62744
-  name: Dee Dee Bridgewater 9net
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 15eff9bf-71cd-4011-9d54-c1103d0b8243
-  name: Dee Dee Bridgewater & the Memphis Soulphony
+  - background vocals
+  - other vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - lead vocals
+      - original
+    mbid: f218110f-a866-4d22-aa0e-bae4f0d62744
+    name: Dee Dee Bridgewater 9net
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 15eff9bf-71cd-4011-9d54-c1103d0b8243
+    name: Dee Dee Bridgewater & the Memphis Soulphony
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/dee_dee_bridgewater.jpg
   caption: Dee Dee Bridgewater
@@ -51,59 +51,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Thad Jones/Mel Lewis Jazz Orchestra
-  - Dizzy Gillespie
-  - Sonny Rollins
-  - Dexter Gordon
-  - Max Roach
-  - Cecil Bridgewater
+    - Thad Jones/Mel Lewis Jazz Orchestra
+    - Dizzy Gillespie
+    - Sonny Rollins
+    - Dexter Gordon
+    - Max Roach
+    - Cecil Bridgewater
   influenced:
-  - China Moses
+    - China Moses
   mentors:
-  - Matthew Garrett
-  - Ella Fitzgerald
-  - Horace Silver
+    - Matthew Garrett
+    - Ella Fitzgerald
+    - Horace Silver
 spotify_data:
   followers: 57427
   id: 2H3xDjMmp31iLmsgXxLFyI
   popularity: 33
-  url: https://open.spotify.com/artist/2H3xDjMmp31iLmsgXxLFyI
+  url: 'https://open.spotify.com/artist/2H3xDjMmp31iLmsgXxLFyI'
 discography_enriched: true
 top_tracks:
-- Into My Soul (Mr. Freedom)
-- Coffy Is The Color - From The "Coffy" Soundtrack
-- Hound Dog (Memphis ...Yes, I'm Ready)
-- Honeysuckle Rose
-- Lonely Disco Dancer (Dee Dee Bridgewater)
-- Into My Soul (The First Ten Years)
-- Coffy Is The Color
-- I Can't Stand the Rain (Memphis ...Yes, I'm Ready)
-- He's Gone (Dee Dee Bridgewater)
-- Yes, I'm Ready (Memphis ...Yes, I'm Ready)
+  - Into My Soul (Mr. Freedom)
+  - Coffy Is The Color - From The "Coffy" Soundtrack
+  - 'Hound Dog (Memphis ...Yes, I''m Ready)'
+  - Honeysuckle Rose
+  - Lonely Disco Dancer (Dee Dee Bridgewater)
+  - Into My Soul (The First Ten Years)
+  - Coffy Is The Color
+  - 'I Can''t Stand the Rain (Memphis ...Yes, I''m Ready)'
+  - He's Gone (Dee Dee Bridgewater)
+  - 'Yes, I''m Ready (Memphis ...Yes, I''m Ready)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/43826bcf-2c17-4bf5-92cf-671c184e215f
-  spotify: https://open.spotify.com/artist/2H3xDjMmp31iLmsgXxLFyI
-  wikipedia: https://en.wikipedia.org/wiki/Dee_Dee_Bridgewater
+  musicbrainz: 'https://musicbrainz.org/artist/43826bcf-2c17-4bf5-92cf-671c184e215f'
+  spotify: 'https://open.spotify.com/artist/2H3xDjMmp31iLmsgXxLFyI'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dee_Dee_Bridgewater'
 image_path: 03_Resources/source_material/ArtistPortraits/dee_dee_bridgewater.jpg
 biography_enhanced_at: '2025-11-21T07:19:03.487298'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Dee_Dee_Bridgewater
-- https://www.arts.gov/honors/jazz/dee-dee-bridgewater
-- https://memphismusichalloffame.com/inductee/dee-dee-bridgewater/
-- https://www.deedeebridgewater.com/about
-- https://www.imdb.com/name/nm0108815/bio/
+  - 'https://en.wikipedia.org/wiki/Dee_Dee_Bridgewater'
+  - 'https://www.arts.gov/honors/jazz/dee-dee-bridgewater'
+  - 'https://memphismusichalloffame.com/inductee/dee-dee-bridgewater/'
+  - 'https://www.deedeebridgewater.com/about'
+  - 'https://www.imdb.com/name/nm0108815/bio/'
 network_extracted: true
 entry_created: '2025-11-21T07:19:03.487307'
 last_updated: '2025-12-23T08:16:07.656088'
 gender: Female
 musicbrainz_id: 43826bcf-2c17-4bf5-92cf-671c184e215f
 tags:
-- american
-- jazz
-- vocal jazz
-
+  - american
+  - jazz
+  - vocal jazz
+origin: 'Flint, Michigan, United States'
 ---
 
 ![](dee_dee_bridgewater.jpg)

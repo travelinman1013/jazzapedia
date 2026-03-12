@@ -1,21 +1,21 @@
 ---
-title: Donell Jones, Left Eye
+title: 'Donell Jones, Left Eye'
 wiki_slug: donell-jones-left-eye
 schema_version: 2
 status: active
-birth_place: Chicago, Illinois, United States
+birth_place: 'Chicago, Illinois, United States'
 genres:
-- neo soul
-- quiet storm
-- r&b
-- smooth r&b
+  - neo soul
+  - quiet storm
+  - r&b
+  - smooth r&b
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/donell_jones_left_eye.jpg
-  caption: Donell Jones, Left Eye
+  caption: 'Donell Jones, Left Eye'
   background: solo_singer
-  origin: Chicago, Illinois, United States
+  origin: 'Chicago, Illinois, United States'
 audio_profile:
-  tempo_avg: 109.0
+  tempo_avg: 109
   energy_avg: 0.521
   valence_avg: 0.606
   danceability_avg: 0.694
@@ -29,49 +29,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lisa 'Left Eye' Lopes
-  - Usher
-  - '702'
-  - Styles P.
+    - Lisa 'Left Eye' Lopes
+    - Usher
+    - '702'
+    - Styles P.
   influenced:
-  - Contemporary R&B artists
+    - Contemporary R&B artists
   mentors:
-  - Eddie F (Edward Ferrell)
-  - Babyface
+    - Eddie F (Edward Ferrell)
+    - Babyface
 spotify_data:
   followers: 1323511
   id: 5KNqYrivNgVCHBssEUSu5B
   popularity: 55
-  url: https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B
+  url: 'https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B'
 discography_enriched: true
 top_tracks:
-- U Know What's Up (feat. Lisa "Left Eye" Lopes) (Where I Wanna Be)
-- Where I Wanna Be (Where I Wanna Be)
-- This Luv (Where I Wanna Be)
-- Knocks Me Off My Feet (My Heart)
-- Shorty (Got Her Eyes on Me) (Where I Wanna Be)
-- You Know That I Love You (Life Goes On)
-- Have You Seen Her (Where I Wanna Be)
-- U Know What's Up (Where I Wanna Be)
-- I Hope It's You (Life Goes On)
-- Do U Wanna (Life Goes On)
+  - U Know What's Up (feat. Lisa "Left Eye" Lopes) (Where I Wanna Be)
+  - Where I Wanna Be (Where I Wanna Be)
+  - This Luv (Where I Wanna Be)
+  - Knocks Me Off My Feet (My Heart)
+  - Shorty (Got Her Eyes on Me) (Where I Wanna Be)
+  - You Know That I Love You (Life Goes On)
+  - Have You Seen Her (Where I Wanna Be)
+  - U Know What's Up (Where I Wanna Be)
+  - I Hope It's You (Life Goes On)
+  - Do U Wanna (Life Goes On)
 external_urls:
-  spotify: https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B
-  wikipedia: https://en.wikipedia.org/wiki/Donell_Jones
+  spotify: 'https://open.spotify.com/artist/5KNqYrivNgVCHBssEUSu5B'
+  wikipedia: 'https://en.wikipedia.org/wiki/Donell_Jones'
 image_path: 03_Resources/source_material/ArtistPortraits/donell_jones_left_eye.jpg
 biography_enhanced_at: '2025-11-05T12:41:41.548676'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Donell_Jones
-- https://en.wikipedia.org/wiki/Lisa_Lopes
-- https://www.last.fm/music/Donell+Jones/+wiki
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/jones-donell-c-1973
-- https://atlantablackstar.com/2020/12/07/singer-donell-jones-talks-being-an-independent-artist-working-with-left-eye-and-laface-records-treating-him-like-a-stepchild/
-- https://youknowigotsoul.com/youknowigotsoul-interview-with-donell-jones
+  - 'https://en.wikipedia.org/wiki/Donell_Jones'
+  - 'https://en.wikipedia.org/wiki/Lisa_Lopes'
+  - 'https://www.last.fm/music/Donell+Jones/+wiki'
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/jones-donell-c-1973
+  - >-
+    https://atlantablackstar.com/2020/12/07/singer-donell-jones-talks-being-an-independent-artist-working-with-left-eye-and-laface-records-treating-him-like-a-stepchild/
+  - 'https://youknowigotsoul.com/youknowigotsoul-interview-with-donell-jones'
 network_extracted: true
 entry_created: '2025-11-05T12:41:41.548692'
 last_updated: '2025-12-23T08:16:07.942120'
+birth_date: '1973-05-22'
+artist_type: person
 ---
 
 ![](donell_jones_left_eye.jpg)

@@ -1,17 +1,17 @@
 ---
-title: lori williams
+title: Lori Williams
 wiki_slug: lori-williams
 schema_version: 2
 status: active
-birth_place: Washington, DC, United States
+birth_place: 'Washington, DC, United States'
 genres:
-- smooth jazz
-- vocal jazz
+  - smooth jazz
+  - vocal jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lori_williams.jpg
   caption: lori williams
   background: solo_singer
-  origin: Washington, DC, United States
+  origin: 'Washington, DC, United States'
 audio_profile:
   tempo_avg: 103.8
   energy_avg: 0.451
@@ -19,7 +19,7 @@ audio_profile:
   danceability_avg: 0.566
   acousticness_avg: 0.514
   instrumentalness_avg: 0.034
-  loudness_avg: -11.0
+  loudness_avg: -11
   speechiness_avg: 0.042
   liveness_avg: 0.126
   track_count: 50
@@ -27,47 +27,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Chris Davis
-  - Eli Saitoh
-  - Oleta Adams, Regina Belle, Eric Benet, Maysa Leak
+    - Chris Davis
+    - Eli Saitoh
+    - 'Oleta Adams, Regina Belle, Eric Benet, Maysa Leak'
   influenced:
-  - Lauren V. Highsmith (LAVAHI)
-  - Numerous jazz students
+    - Lauren V. Highsmith (LAVAHI)
+    - Numerous jazz students
   mentors:
-  - Dr. Effie Gardner
-  - Robert Ransom
+    - Dr. Effie Gardner
+    - Robert Ransom
 spotify_data:
   followers: 9764
   id: 4TkucKaWKyDlB6SmXTHEqK
   popularity: 17
-  url: https://open.spotify.com/artist/4TkucKaWKyDlB6SmXTHEqK
+  url: 'https://open.spotify.com/artist/4TkucKaWKyDlB6SmXTHEqK'
 discography_enriched: true
 top_tracks:
-- Let's Stay Together (A New Book)
-- Where's That Smile? (Out of the Box)
-- Hold On (Out of the Box)
-- I Like the Way You Talk (To Me) (Out of the Box)
-- Too Late (It's My Time)
-- I Can't Help It (Out of the Box)
-- Baby, Hold on (To Me) (A New Book)
-- Deja Vu (Behind the Smiles)
-- New Day (A New Book)
-- Let's Walk (Out of the Box)
+  - Let's Stay Together (A New Book)
+  - Where's That Smile? (Out of the Box)
+  - Hold On (Out of the Box)
+  - I Like the Way You Talk (To Me) (Out of the Box)
+  - Too Late (It's My Time)
+  - I Can't Help It (Out of the Box)
+  - 'Baby, Hold on (To Me) (A New Book)'
+  - Deja Vu (Behind the Smiles)
+  - New Day (A New Book)
+  - Let's Walk (Out of the Box)
 external_urls:
-  spotify: https://open.spotify.com/artist/4TkucKaWKyDlB6SmXTHEqK
+  spotify: 'https://open.spotify.com/artist/4TkucKaWKyDlB6SmXTHEqK'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/lori_williams.jpg
 biography_enhanced_at: '2025-11-14T11:08:59.792206'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.lorijazz.com/bio
-- https://www.theindieposts.com/spotlight-covers/lori-williams-interview
-- https://www.allaboutjazz.com/musicians/lori-williams/
-- https://dclmusicians.org/?p=1069
+  - 'https://www.lorijazz.com/bio'
+  - 'https://www.theindieposts.com/spotlight-covers/lori-williams-interview'
+  - 'https://www.allaboutjazz.com/musicians/lori-williams/'
+  - 'https://dclmusicians.org/?p=1069'
 network_extracted: true
 entry_created: '2025-11-14T11:08:59.792224'
 last_updated: '2025-12-23T08:16:12.122326'
+birth_date: '1967-01-22'
+artist_type: person
 ---
 
 ![](lori_williams.jpg)

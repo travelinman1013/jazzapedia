@@ -29,21 +29,21 @@ spotify_data:
   followers: 681
   id: 1tRhUxaUebxdu1EMCu1FoY
   popularity: 16
-  url: https://open.spotify.com/artist/1tRhUxaUebxdu1EMCu1FoY
+  url: 'https://open.spotify.com/artist/1tRhUxaUebxdu1EMCu1FoY'
 discography_enriched: true
 top_tracks:
-- Guajira Psicodélica (The New York Sound)
-- Electric Latin Soul (The New York Sound)
-- Yo Te Quiero (The New York Sound)
-- Everybody's Got Soul (The New York Sound)
-- Nena (The New York Sound)
-- Changó (The New York Sound)
-- Campesino (The New York Sound)
-- 'Electric Latin Soul - DJ Format Remix (Fania DJ Series: DJ Format)'
-- El Son de la Loma (The New York Sound)
-- Santa Isabel De Las Lajas (The New York Sound)
+  - Guajira Psicodélica (The New York Sound)
+  - Electric Latin Soul (The New York Sound)
+  - Yo Te Quiero (The New York Sound)
+  - Everybody's Got Soul (The New York Sound)
+  - Nena (The New York Sound)
+  - Changó (The New York Sound)
+  - Campesino (The New York Sound)
+  - 'Electric Latin Soul - DJ Format Remix (Fania DJ Series: DJ Format)'
+  - El Son de la Loma (The New York Sound)
+  - Santa Isabel De Las Lajas (The New York Sound)
 external_urls:
-  spotify: https://open.spotify.com/artist/1tRhUxaUebxdu1EMCu1FoY
+  spotify: 'https://open.spotify.com/artist/1tRhUxaUebxdu1EMCu1FoY'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/flash_and_the_dynamics.jpg
 biography_enhanced_at: '2025-12-05T06:17:56.196609'
@@ -53,7 +53,10 @@ research_sources: []
 network_extracted: true
 entry_created: '2025-12-05T06:17:56.196618'
 last_updated: '2025-12-23T08:16:08.669407'
-origin: New York, New York, United States (origin inferred from album framing as “The New York Sound” and label context)
+origin: >-
+  New York, New York, United States (origin inferred from album framing as “The
+  New York Sound” and label context)
+artist_type: band
 ---
 
 ![](flash_and_the_dynamics.jpg)

@@ -5,7 +5,7 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1998-12-07'
-birth_place: Jacksonville
+birth_place: 'Jacksonville, Florida, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sailorr.jpg
@@ -28,54 +28,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Summer Walker
-  - Adam Kain
-  - AJ Roth of Cruza
+    - Summer Walker
+    - Adam Kain
+    - AJ Roth of Cruza
   influenced: []
   mentors:
-  - Erykah Badu
-  - André 3000
-  - Lauryn Hill
-  - Chief Keef
+    - Erykah Badu
+    - André 3000
+    - Lauryn Hill
+    - Chief Keef
 spotify_data:
   followers: 188751
   id: 6ucHomyCWjxmvbyqAAbSci
   popularity: 60
-  url: https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci
+  url: 'https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci'
 discography_enriched: true
 top_tracks:
-- POOKIE'S REQUIEM (POOKIE'S REQUIEM)
-- CUT UP (CUT UP)
-- POOKIE’S REQUIEM (feat. Summer Walker) - hehe look y'all I made it longer (POOKIE’S REQUIEM (feat. Summer Walker) [hehe
-  look y'all I made it longer])
-- W1LL U L13? (W1LL U L13?)
-- WEATHERED (WEATHERED)
-- Mangosteen (feat. Sailorr & Biako) (DON'T GROW UP TOO SOON)
-- POOKIE'S REQUIEM (W1LL U L13?)
-- Run Me Back My Bread (feat. Childish Major & Sailorr) (DON'T GROW UP TOO SOON)
-- W1LL U L13? (CUT UP)
-- Another Hit (feat. SAILORR) (Paranoia Pack)
+  - POOKIE'S REQUIEM (POOKIE'S REQUIEM)
+  - CUT UP (CUT UP)
+  - >-
+    POOKIE’S REQUIEM (feat. Summer Walker) - hehe look y'all I made it longer
+    (POOKIE’S REQUIEM (feat. Summer Walker) [hehe look y'all I made it longer])
+  - W1LL U L13? (W1LL U L13?)
+  - WEATHERED (WEATHERED)
+  - Mangosteen (feat. Sailorr & Biako) (DON'T GROW UP TOO SOON)
+  - POOKIE'S REQUIEM (W1LL U L13?)
+  - >-
+    Run Me Back My Bread (feat. Childish Major & Sailorr) (DON'T GROW UP TOO
+    SOON)
+  - W1LL U L13? (CUT UP)
+  - Another Hit (feat. SAILORR) (Paranoia Pack)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b1a17965-b396-42e4-84f7-25d42b12f7c0
-  spotify: https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci
+  musicbrainz: 'https://musicbrainz.org/artist/b1a17965-b396-42e4-84f7-25d42b12f7c0'
+  spotify: 'https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/sailorr.jpg
 biography_enhanced_at: '2025-11-21T07:08:28.108370'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://croxxings.com/sailorr-florida-artist-age-real-name-height-biography/
-- https://www.newwavemagazine.com/single-post/sailorr-speaks-on-the-divine-timing-of-life-unapologetically-being-herself-and-creating-music-that
-- https://www.famousbirthdays.com/people/sailorr.html
-- https://soundcloud.com/stories/post/ascending-sailorr
-- https://www.teamwass.com/music/sailorr/
+  - 'https://croxxings.com/sailorr-florida-artist-age-real-name-height-biography/'
+  - >-
+    https://www.newwavemagazine.com/single-post/sailorr-speaks-on-the-divine-timing-of-life-unapologetically-being-herself-and-creating-music-that
+  - 'https://www.famousbirthdays.com/people/sailorr.html'
+  - 'https://soundcloud.com/stories/post/ascending-sailorr'
+  - 'https://www.teamwass.com/music/sailorr/'
 network_extracted: true
 entry_created: '2025-11-21T07:08:28.108380'
 last_updated: '2025-12-23T08:16:15.277866'
 gender: Female
 musicbrainz_id: b1a17965-b396-42e4-84f7-25d42b12f7c0
 tags:
-- alternative r&b
+  - alternative r&b
 ---
 
 ![](sailorr.jpg)

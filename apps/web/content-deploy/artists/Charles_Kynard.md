@@ -3,17 +3,17 @@ title: Charles Kynard
 wiki_slug: charles-kynard
 schema_version: 2
 status: active
-birth_place: Kansas City, Missouri, United States
+birth_place: 'Kansas City, Missouri, United States'
 genres:
-- jazz funk
-- soul jazz
-- acid jazz
-- jazz fusion
+  - jazz funk
+  - soul jazz
+  - acid jazz
+  - jazz fusion
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Charles_Kynard.jpg
   caption: Charles Kynard
   background: solo_singer
-  origin: Kansas City, Missouri, United States
+  origin: 'Kansas City, Missouri, United States'
 audio_profile:
   tempo_avg: 122.1
   energy_avg: 0.561
@@ -29,52 +29,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Grant Green
-  - Houston Person
-  - Bernard "Pretty" Purdie
-  - Jimmy Lewis
-  - Blue Mitchell
-  - David "Fathead" Newman
-  - Idris Muhammad
-  - Gladys Knight and the Pips
-  - Jimmy Witherspoon
+    - Grant Green
+    - Houston Person
+    - Bernard "Pretty" Purdie
+    - Jimmy Lewis
+    - Blue Mitchell
+    - David "Fathead" Newman
+    - Idris Muhammad
+    - Gladys Knight and the Pips
+    - Jimmy Witherspoon
   influenced:
-  - Pat Metheny
+    - Pat Metheny
   mentors:
-  - B.C. Kynard (father)
-  - Mother (unnamed)
-  - Ben Kynard (uncle)
+    - B.C. Kynard (father)
+    - Mother (unnamed)
+    - Ben Kynard (uncle)
 spotify_data:
   followers: 6017
   id: 3OlDHsPStgZP0OCwngBG0y
   popularity: 14
-  url: https://open.spotify.com/artist/3OlDHsPStgZP0OCwngBG0y
+  url: 'https://open.spotify.com/artist/3OlDHsPStgZP0OCwngBG0y'
 discography_enriched: true
 top_tracks:
-- El Toro Poo Poo (Charles Kynard)
-- Afro-Disiac (Afro-Disiac)
-- Sweetheart (Afro-Disiac)
-- Little Ghetto Boy (Woga)
-- Hot Sauce (Woga)
-- Rock Steady (Woga)
-- I Got So Much Trouble (Your Mama Don't Dance)
-- Odds On (Afro-Disiac)
-- Slop Jar (Woga)
-- Greeze (Charles Kynard)
+  - El Toro Poo Poo (Charles Kynard)
+  - Afro-Disiac (Afro-Disiac)
+  - Sweetheart (Afro-Disiac)
+  - Little Ghetto Boy (Woga)
+  - Hot Sauce (Woga)
+  - Rock Steady (Woga)
+  - I Got So Much Trouble (Your Mama Don't Dance)
+  - Odds On (Afro-Disiac)
+  - Slop Jar (Woga)
+  - Greeze (Charles Kynard)
 external_urls:
-  spotify: https://open.spotify.com/artist/3OlDHsPStgZP0OCwngBG0y
-  wikipedia: https://en.wikipedia.org/wiki/Charles_Kynard
+  spotify: 'https://open.spotify.com/artist/3OlDHsPStgZP0OCwngBG0y'
+  wikipedia: 'https://en.wikipedia.org/wiki/Charles_Kynard'
 image_path: 03_Resources/source_material/ArtistPortraits/Charles_Kynard.jpg
 biography_enhanced_at: '2025-10-21T06:40:53.949661'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.kynard.com/wp/?page_id=7
-- https://substack.com/home/post/p-146445417
-- https://egrojworld.blogspot.com/2018/04/charles-kynard-charles-kynard.html
+  - 'https://www.kynard.com/wp/?page_id=7'
+  - 'https://substack.com/home/post/p-146445417'
+  - 'https://egrojworld.blogspot.com/2018/04/charles-kynard-charles-kynard.html'
 network_extracted: true
 entry_created: '2025-10-21T06:40:53.949705'
 last_updated: '2025-12-23T08:16:01.485759'
+birth_date: '1933-02-20'
+death_date: '1979-07-08'
+artist_type: person
 ---
 
 ![](Charles_Kynard.jpg)

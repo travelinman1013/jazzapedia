@@ -5,29 +5,29 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1983-06-20'
-birth_place: Vermont
+birth_place: 'Waitsfield, Vermont, United States'
 genres: []
 instruments:
-- eponymous
-- guitar
-- keyboard
-- lead vocals
-- original
-- percussion
-- Wurlitzer electric piano
-- background vocals
-associated_acts:
-- begin: '2002'
-  end: ''
-  instruments:
   - eponymous
   - guitar
   - keyboard
   - lead vocals
   - original
   - percussion
-  mbid: 9501a1d0-04a2-47ee-828d-9d016c315bb7
-  name: Grace Potter & the Nocturnals
+  - Wurlitzer electric piano
+  - background vocals
+associated_acts:
+  - begin: '2002'
+    end: ''
+    instruments:
+      - eponymous
+      - guitar
+      - keyboard
+      - lead vocals
+      - original
+      - percussion
+    mbid: 9501a1d0-04a2-47ee-828d-9d016c315bb7
+    name: Grace Potter & the Nocturnals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/grace_potter.jpg
   caption: Grace Potter
@@ -41,7 +41,7 @@ audio_profile:
   danceability_avg: 0.571
   acousticness_avg: 0.27
   instrumentalness_avg: 0.023
-  loudness_avg: -8.0
+  loudness_avg: -8
   speechiness_avg: 0.051
   liveness_avg: 0.27
   track_count: 50
@@ -49,55 +49,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Matt Burr
-  - Scott Tournet
-  - Eric Valentine
-  - Kenny Chesney
-  - The Rolling Stones
-  - Robert Plant
+    - Matt Burr
+    - Scott Tournet
+    - Eric Valentine
+    - Kenny Chesney
+    - The Rolling Stones
+    - Robert Plant
   influenced:
-  - Emerging Americana and roots artists
+    - Emerging Americana and roots artists
   mentors:
-  - T Bone Burnett
+    - T Bone Burnett
 spotify_data:
   followers: 134814
   id: 1PJVVIeS5Wu0wbZDhtC0Ht
   popularity: 50
-  url: https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht
+  url: 'https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht'
 discography_enriched: true
 top_tracks:
-- Something That I Want
-- You and Tequila (feat. Grace Potter) (Hemingway's Whiskey)
-- Something That I Want (Disney Love Songs)
-- Wild Child (with Grace Potter) (with Grace Potter) (The Big Revival)
-- Ripple - Live
-- Something That I Want
-- Empty Heart (Midnight)
-- I'd Rather Go Blind
-- Poison In My Well
-- Gold Dust Woman (Ashes & Dust (Deluxe Edition))
+  - Something That I Want
+  - You and Tequila (feat. Grace Potter) (Hemingway's Whiskey)
+  - Something That I Want (Disney Love Songs)
+  - Wild Child (with Grace Potter) (with Grace Potter) (The Big Revival)
+  - Ripple - Live
+  - Something That I Want
+  - Empty Heart (Midnight)
+  - I'd Rather Go Blind
+  - Poison In My Well
+  - Gold Dust Woman (Ashes & Dust (Deluxe Edition))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b1103b87-3b91-4ec5-9d7b-15c2d1e486af
-  spotify: https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht
-  wikipedia: https://en.wikipedia.org/wiki/Grace_Potter_and_the_Nocturnals
+  musicbrainz: 'https://musicbrainz.org/artist/b1103b87-3b91-4ec5-9d7b-15c2d1e486af'
+  spotify: 'https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht'
+  wikipedia: 'https://en.wikipedia.org/wiki/Grace_Potter_and_the_Nocturnals'
 image_path: 03_Resources/source_material/ArtistPortraits/grace_potter.jpg
 biography_enhanced_at: '2025-11-03T07:43:34.493205'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://mabumbe.com/people/grace-potter-age-biography-net-worth-family-details/
-- https://en.wikipedia.org/wiki/Grace_Potter_and_the_Nocturnals
-- http://www.7smgmt.com/grace-potter
-- https://www.gracepotter.com/bio
-- https://rhythmandroots.com/artists/grace-potter/
+  - >-
+    https://mabumbe.com/people/grace-potter-age-biography-net-worth-family-details/
+  - 'https://en.wikipedia.org/wiki/Grace_Potter_and_the_Nocturnals'
+  - 'http://www.7smgmt.com/grace-potter'
+  - 'https://www.gracepotter.com/bio'
+  - 'https://rhythmandroots.com/artists/grace-potter/'
 network_extracted: true
 entry_created: '2025-11-03T07:43:34.493212'
 last_updated: '2025-12-23T08:16:09.295021'
 gender: Female
 musicbrainz_id: b1103b87-3b91-4ec5-9d7b-15c2d1e486af
 tags:
-- blues
-- rock
+  - blues
+  - rock
 ---
 
 ![](grace_potter.jpg)

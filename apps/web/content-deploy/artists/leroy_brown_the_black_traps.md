@@ -1,49 +1,51 @@
 ---
 biography_enhanced_at: '2026-01-19T01:13:25.802484'
-birth_place: Kingston, Jamaica (birthplace); Toronto, Ontario, Canada (primary base)
+birth_place: 'Kingston, Jamaica, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-19T01:13:25.802490'
 external_urls:
-  spotify: https://open.spotify.com/artist/0h9oPMP5nFi3mY0lK4cSuy
+  spotify: 'https://open.spotify.com/artist/0h9oPMP5nFi3mY0lK4cSuy'
   wikipedia: null
 genres:
-- reggae
-- roots reggae
-- rocksteady
-- lovers rock
-- ragga
+  - reggae
+  - roots reggae
+  - rocksteady
+  - lovers rock
+  - ragga
 image_path: 03_Resources/source_material/ArtistPortraits/leroy_brown_the_black_traps.jpg
 last_updated: '2026-01-19T01:13:25.802491'
 musical_connections:
   collaborators:
-  - Aston Barrett (Family Man) and Carlton Barrett
-  - Lloyd Shakespeare and Audley Rollen
-  - Maxi Romeo
-  - Leroy Gibbons and Roy Reynolds
-  - Leroy Sibbles
-  - Sly & Robbie
-  - Sugar Minott
-  - The Black Traps
+    - Aston Barrett (Family Man) and Carlton Barrett
+    - Lloyd Shakespeare and Audley Rollen
+    - Maxi Romeo
+    - Leroy Gibbons and Roy Reynolds
+    - Leroy Sibbles
+    - Sly & Robbie
+    - Sugar Minott
+    - The Black Traps
   influenced: []
   mentors:
-  - Alton Ellis
+    - Alton Ellis
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://citizenfreak.com/artists/92150-brown-leroy
-- https://thecbma.com/artists/leroy-brown/
-- https://jazzrocksoul.com/artists/leroy-brown/
-- https://www.yardie-reggae.com/ARTIST%20PAGES/LEROY%20BROWN.htm
-- https://www.rovr.live/artists/leroy%20brown
-- https://reggaelicious.pbworks.com/Leroy+Brown
-- https://soundsoftheuniverse.com/product/leroy-brown-8-blood-a-go-run
+  - 'https://citizenfreak.com/artists/92150-brown-leroy'
+  - 'https://thecbma.com/artists/leroy-brown/'
+  - 'https://jazzrocksoul.com/artists/leroy-brown/'
+  - 'https://www.yardie-reggae.com/ARTIST%20PAGES/LEROY%20BROWN.htm'
+  - 'https://www.rovr.live/artists/leroy%20brown'
+  - 'https://reggaelicious.pbworks.com/Leroy+Brown'
+  - 'https://soundsoftheuniverse.com/product/leroy-brown-8-blood-a-go-run'
 spotify_data:
   followers: 8806
   id: 0h9oPMP5nFi3mY0lK4cSuy
   popularity: 40
-  url: https://open.spotify.com/artist/0h9oPMP5nFi3mY0lK4cSuy
+  url: 'https://open.spotify.com/artist/0h9oPMP5nFi3mY0lK4cSuy'
 status: active
-title: Leroy Brown, The Black Traps
+title: 'Leroy Brown, The Black Traps'
+origin: 'Toronto, Ontario, Canada'
+artist_type: person
 ---
 
 ![](leroy_brown_the_black_traps.jpg)

@@ -5,17 +5,17 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1925-07-16'
-birth_place: St. Louis
+birth_place: 'St. Louis, Missouri, United States'
 death_date: '1982-05-05'
 genres:
-- latin jazz
-- exotica
-- cool jazz
-- jazz
-- brazilian jazz
-- bossa nova
+  - latin jazz
+  - exotica
+  - cool jazz
+  - jazz
+  - brazilian jazz
+  - bossa nova
 instruments:
-- original
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Cal_Tjader.jpg
   caption: Cal Tjader
@@ -38,59 +38,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Vince Guaraldi
-  - Mongo Santamaria
-  - Willie Bobo
-  - Charlie Palmieri
-  - Eddie Palmieri
-  - Tito Puente
-  - Rosemary Clooney
-  - Anita O’Day
-  - Carmen McRae
+    - Vince Guaraldi
+    - Mongo Santamaria
+    - Willie Bobo
+    - Charlie Palmieri
+    - Eddie Palmieri
+    - Tito Puente
+    - Rosemary Clooney
+    - Anita O’Day
+    - Carmen McRae
   influenced:
-  - Latin Rock and Acid Jazz artists
-  - Gary Foster
+    - Latin Rock and Acid Jazz artists
+    - Gary Foster
   mentors:
-  - Dave Brubeck
-  - George Shearing
+    - Dave Brubeck
+    - George Shearing
 spotify_data:
   followers: 69565
   id: 3XOVABzceOUTbR3iEz0ImO
   popularity: 41
-  url: https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO
+  url: 'https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO'
 discography_enriched: true
 top_tracks:
-- Black Orchid (Breeze From The East)
-- Aquarius (The Prophet)
-- 'Samba de Orfeu (Soul Bird: Whiffenpoof)'
-- I've Grown Accustomed To Her Face (Stan Getz With Cal Tjader)
-- Invitation - Instrumental (Latin Kick)
-- 'Soul Sauce (Verve Jazz Masters 39: Cal Tjader)'
-- Peel Me A Grape (The Complete Anita O'Day Verve-Clef Sessions)
-- Thanks For The Memory (The Complete Anita O'Day Verve-Clef Sessions)
-- Linda Chicana (La Onda Va Bien)
-- Evil Ways (Heat Wave)
+  - Black Orchid (Breeze From The East)
+  - Aquarius (The Prophet)
+  - 'Samba de Orfeu (Soul Bird: Whiffenpoof)'
+  - I've Grown Accustomed To Her Face (Stan Getz With Cal Tjader)
+  - Invitation - Instrumental (Latin Kick)
+  - 'Soul Sauce (Verve Jazz Masters 39: Cal Tjader)'
+  - Peel Me A Grape (The Complete Anita O'Day Verve-Clef Sessions)
+  - Thanks For The Memory (The Complete Anita O'Day Verve-Clef Sessions)
+  - Linda Chicana (La Onda Va Bien)
+  - Evil Ways (Heat Wave)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1015b5e3-8e3d-4d78-806a-c530cf742e66
-  spotify: https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO
-  wikipedia: https://en.wikipedia.org/wiki/Cal_Tjader
+  musicbrainz: 'https://musicbrainz.org/artist/1015b5e3-8e3d-4d78-806a-c530cf742e66'
+  spotify: 'https://open.spotify.com/artist/3XOVABzceOUTbR3iEz0ImO'
+  wikipedia: 'https://en.wikipedia.org/wiki/Cal_Tjader'
 image_path: 03_Resources/source_material/ArtistPortraits/Cal_Tjader.jpg
 biography_enhanced_at: '2025-10-22T06:57:02.519754'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia
-- JazzProfiles
-- IMDb
+  - Wikipedia
+  - JazzProfiles
+  - IMDb
 network_extracted: true
 entry_created: '2025-10-22T06:57:02.519777'
 last_updated: '2025-12-23T08:16:01.434324'
 gender: Male
 musicbrainz_id: 1015b5e3-8e3d-4d78-806a-c530cf742e66
 tags:
-- afro jazz
-- beautiful music
-- bebop
+  - afro jazz
+  - beautiful music
+  - bebop
+is_active: false
+origin: 'San Mateo, California, United States'
 ---
 
 ![](Cal_Tjader.jpg)

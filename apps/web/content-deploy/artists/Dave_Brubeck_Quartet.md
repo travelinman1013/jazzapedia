@@ -2,27 +2,27 @@
 title: The Dave Brubeck Quartet
 wiki_slug: the-dave-brubeck-quartet
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 aliases: []
 birth_date: '1951'
 genres:
-- jazz
-- cool jazz
+  - jazz
+  - cool jazz
 instruments:
-- eponymous
-- original
-- piano
-- drums (drum set)
-- bass
-- clarinet
-- flute
-- saxophone
+  - eponymous
+  - original
+  - piano
+  - drums (drum set)
+  - bass
+  - clarinet
+  - flute
+  - saxophone
 record_labels:
-- Fantasy
+  - Fantasy
 associated_acts:
-- The Dave Brubeck Quartet's albums in chronological order
-- Dave Brubeck's albums in chronological order
+  - The Dave Brubeck Quartet's albums in chronological order
+  - Dave Brubeck's albums in chronological order
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/The_Dave_Brubeck_Quartet.jpg
   caption: The Dave Brubeck Quartet
@@ -43,59 +43,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Paul Desmond
-  - Joe Morello
-  - Eugene Wright
-  - Bob Bates
-  - Joe Dodge
+    - Paul Desmond
+    - Joe Morello
+    - Eugene Wright
+    - Bob Bates
+    - Joe Dodge
   influenced: []
   mentors:
-  - Duke Ellington
+    - Duke Ellington
 related_artists: []
 spotify_data:
   followers: 346219
   id: 4iRZAbYvBqnxrbs6K25aJ7
   popularity: 59
-  url: https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7
+  url: 'https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7'
   verified: false
 discography_enriched: true
 albums_count: 46
 singles_count: 5
 top_tracks:
-- Take Five (Time Out)
-- Unsquare Dance (Time Further Out)
-- Blue Rondo à la Turk (Time Out)
-- Kathy's Waltz (Time Out)
-- Blue Rondo à la Turk (Time Out)
-- Strange Meadow Lark (Time Out)
-- Take Five (Time Out)
-- Strange Meadow Lark (Time Out)
-- Three to Get Ready (Time Out)
-- Everybody's Jumpin' (Time Out)
+  - Take Five (Time Out)
+  - Unsquare Dance (Time Further Out)
+  - Blue Rondo à la Turk (Time Out)
+  - Kathy's Waltz (Time Out)
+  - Blue Rondo à la Turk (Time Out)
+  - Strange Meadow Lark (Time Out)
+  - Take Five (Time Out)
+  - Strange Meadow Lark (Time Out)
+  - Three to Get Ready (Time Out)
+  - Everybody's Jumpin' (Time Out)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7bf711e9-4e69-4e08-b6e8-c0cb5805f1e7
-  spotify: https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7
-  wikipedia: https://en.wikipedia.org/wiki/Dave_Brubeck
+  musicbrainz: 'https://musicbrainz.org/artist/7bf711e9-4e69-4e08-b6e8-c0cb5805f1e7'
+  spotify: 'https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dave_Brubeck'
 image_path: 03_Resources/source_material/ArtistPortraits/The_Dave_Brubeck_Quartet.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:51:38.825709'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- themusicalheritagesociety.com
-- davebrubeck.com
-- en.wikipedia.org
-- davebrubeckjazz.com
+  - themusicalheritagesociety.com
+  - davebrubeck.com
+  - en.wikipedia.org
+  - davebrubeckjazz.com
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 11:45:53.822850
+entry_created: 2025-09-18T11:45:53.822Z
 last_updated: '2025-12-23T08:16:01.657801'
 musicbrainz_enriched_at: '2025-10-21T09:23:57.521006'
 musicbrainz_id: 7bf711e9-4e69-4e08-b6e8-c0cb5805f1e7
-origin: San Francisco, California, United States
+origin: 'San Francisco, California, United States'
 tags:
-- cool jazz
-- jazz
+  - cool jazz
+  - jazz
+birth_place: 'Concord, California, United States'
 ---
 
 ![](The_Dave_Brubeck_Quartet.jpg)

@@ -1,27 +1,27 @@
 ---
-title: billy joe shaver
+title: Billy Joe Shaver
 wiki_slug: billy-joe-shaver
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1939-08-16'
-birth_place: Corsicana
+birth_place: 'Corsicana, Texas, United States'
 death_date: '2020-10-28'
 genres:
-- honky tonk
-- texas country
-- americana
-- red dirt
-- alt country
+  - honky tonk
+  - texas country
+  - americana
+  - red dirt
+  - alt country
 instruments:
-- guitar
-- lead vocals
+  - guitar
+  - lead vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3d46b579-66d6-4a09-a307-2fc9707b8f73
-  name: Shaver
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3d46b579-66d6-4a09-a307-2fc9707b8f73
+    name: Shaver
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/billy_joe_shaver.jpg
   caption: billy joe shaver
@@ -44,55 +44,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Waylon Jennings
-  - Willie Nelson
-  - Eddy Shaver
-  - Johnny Cash
+    - Waylon Jennings
+    - Willie Nelson
+    - Eddy Shaver
+    - Johnny Cash
   influenced:
-  - Whitey Morgan and his band The 78's
-  - Dale Watson
+    - Whitey Morgan and his band The 78's
+    - Dale Watson
   mentors:
-  - Kris Kristofferson
+    - Kris Kristofferson
 spotify_data:
   followers: 124367
   id: 05FEKb23HHED5ZsWmKo8kz
   popularity: 40
-  url: https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz
+  url: 'https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz'
 discography_enriched: true
 top_tracks:
-- Live Forever (Tramp On Your Street)
-- I Been to Georgia on a Fast Train (Billy Joe Shaver)
-- I'm Just an Old Chunk of Coal (But I'm Gonna Be a Diamond Someday) (I'm Just an Old Chunk of Coal...But I'm Gonna Be a Diamond Someday)
-- Wacko from Waco (Live at Billy Bob's Texas)
-- The Devil Made Me Do It the First Time (Salt Of The Earth)
-- Black Rose (Old Five And Dimers Like Me)
-- Ragged Old Truck (I'm Just an Old Chunk of Coal...But I'm Gonna Be a Diamond Someday)
-- Georgia On A Fast Train (Tramp On Your Street)
-- Hard to Be an Outlaw (feat. Willie Nelson) (Long in the Tooth)
-- Oklahoma Wind (Billy Joe Shaver)
+  - Live Forever (Tramp On Your Street)
+  - I Been to Georgia on a Fast Train (Billy Joe Shaver)
+  - >-
+    I'm Just an Old Chunk of Coal (But I'm Gonna Be a Diamond Someday) (I'm Just
+    an Old Chunk of Coal...But I'm Gonna Be a Diamond Someday)
+  - Wacko from Waco (Live at Billy Bob's Texas)
+  - The Devil Made Me Do It the First Time (Salt Of The Earth)
+  - Black Rose (Old Five And Dimers Like Me)
+  - >-
+    Ragged Old Truck (I'm Just an Old Chunk of Coal...But I'm Gonna Be a Diamond
+    Someday)
+  - Georgia On A Fast Train (Tramp On Your Street)
+  - Hard to Be an Outlaw (feat. Willie Nelson) (Long in the Tooth)
+  - Oklahoma Wind (Billy Joe Shaver)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2af8def8-db31-4998-8bd9-18fdd76db088
-  spotify: https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz
+  musicbrainz: 'https://musicbrainz.org/artist/2af8def8-db31-4998-8bd9-18fdd76db088'
+  spotify: 'https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/billy_joe_shaver.jpg
 biography_enhanced_at: '2025-11-29T07:04:34.724057'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- musicrow.com - New Book Explores Legacy Of Outlaw Country Pioneer Billy Joe Shaver
-- 'savingcountrymusic.com - Hero: The Many Deaths of Billy Joe Shaver'
-- billybobstexas.com - Billy Joe Shaver artist profile
-- kutx.org - Remembering Billy Joe Shaver
-- cmhof.imgix.net - Billy Joe Shaver Biography
+  - >-
+    musicrow.com - New Book Explores Legacy Of Outlaw Country Pioneer Billy Joe
+    Shaver
+  - 'savingcountrymusic.com - Hero: The Many Deaths of Billy Joe Shaver'
+  - billybobstexas.com - Billy Joe Shaver artist profile
+  - kutx.org - Remembering Billy Joe Shaver
+  - cmhof.imgix.net - Billy Joe Shaver Biography
 network_extracted: true
 entry_created: '2025-11-29T07:04:34.724067'
 last_updated: '2025-12-23T08:16:05.600139'
 gender: Male
 musicbrainz_id: 2af8def8-db31-4998-8bd9-18fdd76db088
 tags:
-- country
-- outlaw country
-
+  - country
+  - outlaw country
+is_active: false
 ---
 
 ![](billy_joe_shaver.jpg)

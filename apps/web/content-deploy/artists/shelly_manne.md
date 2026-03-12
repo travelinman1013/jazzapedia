@@ -1,115 +1,115 @@
 ---
-title: SHELLY MANNE
+title: Shelly Manne
 wiki_slug: shelly-manne
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1920-06-11'
-birth_place: New York
+birth_place: 'New York City, New York, United States'
 death_date: '1984-09-26'
 genres:
-- cool jazz
-- hard bop
-- jazz
-- bebop
-- ragtime
+  - cool jazz
+  - hard bop
+  - jazz
+  - bebop
+  - ragtime
 instruments:
-- drums (drum set)
-- eponymous
-- original
-- principal
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - drums (drum set)
   - eponymous
   - original
   - principal
-  mbid: 91720f2b-270b-406b-8ba6-fe2d6ee517aa
-  name: Shelly Manne & His Men
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: c3d46fce-2d8f-465b-8bea-06395b51d6cd
-  name: André Previn and His Pals Shelly Manne & Red Mitchell
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: d20c6b9d-6fbc-4ea6-b8e8-2b0fea885d7d
-  name: The André Previn Trio
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: cf229bcd-7c2c-4a74-97bd-5381f25a0394
-  name: Boyd Raeburn & His Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: cac7737d-15ab-4185-85f8-3e159cd18e41
-  name: John Graas Octet
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 66b65dc2-0103-475a-a89a-73ad18e46214
-  name: Teddy Charles Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: ba2d7dbb-522b-4696-882d-7f1b165b90a3
-  name: Flip Phillips and His Hiptet
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: fbe38fdd-c16e-4838-afeb-e7e73a55e8bf
-  name: Flip Phillips Boptet
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  - eponymous
-  - original
-  mbid: 91720f2b-270b-406b-8ba6-fe2d6ee517aa
-  name: Shelly Manne & His Men
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: a22f4b0e-99f8-4862-88c2-f0186a8dd3eb
-  name: The Poll Winners
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  - eponymous
-  - original
-  mbid: dc323c86-594b-4ad8-aa93-179411c1e9e9
-  name: Shelly Manne Sextet
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 11e5e155-efbf-4b5c-852e-0638f4c9e0d2
-  name: Eddie Heywood Trio
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 538f691e-4110-47e9-b7e5-932e74aa6b50
-  name: Johnny Mandel and his Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: b025b1b1-2000-447b-a3ac-2e5369b2bdd5
-  name: The John Lewis Group
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+      - eponymous
+      - original
+      - principal
+    mbid: 91720f2b-270b-406b-8ba6-fe2d6ee517aa
+    name: Shelly Manne & His Men
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: c3d46fce-2d8f-465b-8bea-06395b51d6cd
+    name: André Previn and His Pals Shelly Manne & Red Mitchell
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: d20c6b9d-6fbc-4ea6-b8e8-2b0fea885d7d
+    name: The André Previn Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: cf229bcd-7c2c-4a74-97bd-5381f25a0394
+    name: Boyd Raeburn & His Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: cac7737d-15ab-4185-85f8-3e159cd18e41
+    name: John Graas Octet
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 66b65dc2-0103-475a-a89a-73ad18e46214
+    name: Teddy Charles Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: ba2d7dbb-522b-4696-882d-7f1b165b90a3
+    name: Flip Phillips and His Hiptet
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: fbe38fdd-c16e-4838-afeb-e7e73a55e8bf
+    name: Flip Phillips Boptet
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+      - eponymous
+      - original
+    mbid: 91720f2b-270b-406b-8ba6-fe2d6ee517aa
+    name: Shelly Manne & His Men
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: a22f4b0e-99f8-4862-88c2-f0186a8dd3eb
+    name: The Poll Winners
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+      - eponymous
+      - original
+    mbid: dc323c86-594b-4ad8-aa93-179411c1e9e9
+    name: Shelly Manne Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 11e5e155-efbf-4b5c-852e-0638f4c9e0d2
+    name: Eddie Heywood Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 538f691e-4110-47e9-b7e5-932e74aa6b50
+    name: Johnny Mandel and his Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: b025b1b1-2000-447b-a3ac-2e5369b2bdd5
+    name: The John Lewis Group
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/shelly_manne.jpg
   caption: SHELLY MANNE
@@ -132,52 +132,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Stan Kenton
-  - André Previn
-  - Shorty Rogers
-  - Leroy Vinnegar
-  - Chet Baker
-  - Dizzy Gillespie
-  - Woody Herman
+    - Stan Kenton
+    - André Previn
+    - Shorty Rogers
+    - Leroy Vinnegar
+    - Chet Baker
+    - Dizzy Gillespie
+    - Woody Herman
   influenced:
-  - Tony Williams
-  - Elvin Jones
+    - Tony Williams
+    - Elvin Jones
   mentors:
-  - Billy Gladstone
-  - Jo Jones
-  - Max Manne
+    - Billy Gladstone
+    - Jo Jones
+    - Max Manne
 spotify_data:
   followers: 8107
   id: 6M7ScGp8p2GspFJaIMh1Yo
   popularity: 37
-  url: https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo
+  url: 'https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo'
 discography_enriched: true
 top_tracks:
-- Danny Boy (Empathy)
-- Custard Puff (The Poll Winners Ride Again!)
-- A Foggy Day (Kessel Plays Standards)
-- Slowly (2-3-4)
-- Custard Puff (The Poll Winners Ride Again!)
-- On Green Dolphin Street (The Poll Winners)
-- Jordu (The Poll Winners)
-- Satin Doll (The Poll Winners)
-- You Go To My Head (The Poll Winners)
-- Let's Go Back To The Waltz (Empathy)
+  - Danny Boy (Empathy)
+  - Custard Puff (The Poll Winners Ride Again!)
+  - A Foggy Day (Kessel Plays Standards)
+  - Slowly (2-3-4)
+  - Custard Puff (The Poll Winners Ride Again!)
+  - On Green Dolphin Street (The Poll Winners)
+  - Jordu (The Poll Winners)
+  - Satin Doll (The Poll Winners)
+  - You Go To My Head (The Poll Winners)
+  - Let's Go Back To The Waltz (Empathy)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/94e4af5f-73a3-43da-96bc-49b759bfabdc
-  spotify: https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo
+  musicbrainz: 'https://musicbrainz.org/artist/94e4af5f-73a3-43da-96bc-49b759bfabdc'
+  spotify: 'https://open.spotify.com/artist/6M7ScGp8p2GspFJaIMh1Yo'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/shelly_manne.jpg
 biography_enhanced_at: '2025-12-22T01:46:49.260755'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://pas.org/shelly-manne/
-- https://fromthevaults-boppinbob.blogspot.com/2025/06/shelly-manne-born-11-june-1920.html
-- https://www.fandango.com/people/shelly-manne-421205/biography
-- https://www.udiscovermusic.com/stories/shelly-manne-drummer-tribute/
-- https://concord.com/artist/shelly-manne/
-- https://vinniesperrazza.substack.com/p/un-poco-loco-shelly-manne-studio
+  - 'https://pas.org/shelly-manne/'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2025/06/shelly-manne-born-11-june-1920.html
+  - 'https://www.fandango.com/people/shelly-manne-421205/biography'
+  - 'https://www.udiscovermusic.com/stories/shelly-manne-drummer-tribute/'
+  - 'https://concord.com/artist/shelly-manne/'
+  - 'https://vinniesperrazza.substack.com/p/un-poco-loco-shelly-manne-studio'
 network_extracted: true
 entry_created: '2025-12-22T01:46:49.260761'
 last_updated: '2025-12-23T08:16:15.561439'
@@ -185,10 +186,11 @@ disambiguation: US jazz drummer
 gender: Male
 musicbrainz_id: 94e4af5f-73a3-43da-96bc-49b759bfabdc
 tags:
-- 2008 universal fire victim
-- avant-garde jazz
-- bebop
-
+  - 2008 universal fire victim
+  - avant-garde jazz
+  - bebop
+is_active: false
+origin: 'Southern California, United States'
 ---
 
 ![](shelly_manne.jpg)

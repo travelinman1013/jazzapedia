@@ -2,27 +2,27 @@
 title: The Coasters
 wiki_slug: the-coasters
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 aliases: []
 birth_date: '1955-10-12'
 years_active: 1955–present
 genres:
-- doo-wop
-- rock and roll
+  - doo-wop
+  - rock and roll
 instruments:
-- original
-- tenor vocals
-- bass vocals
-- baritone vocals
-- lead vocals
-- guitar
+  - original
+  - tenor vocals
+  - bass vocals
+  - baritone vocals
+  - lead vocals
+  - guitar
 record_labels:
-- Atco Records
-- Atlantic Records
+  - Atco Records
+  - Atlantic Records
 associated_acts:
-- Carl Gardner
-- Bobby Nunn
+  - Carl Gardner
+  - Bobby Nunn
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/The_Coasters.jpg
   caption: The Coasters
@@ -46,38 +46,39 @@ spotify_data:
   followers: 234783
   id: 3QZKZBEmr54lAVI5XvmjnM
   popularity: 51
-  url: https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM
+  url: 'https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM'
   verified: false
 discography_enriched: true
 albums_count: 5
 singles_count: 7
 top_tracks:
-- Yakety Yak - 2007 Remaster
-- Down in Mexico (The Coasters)
-- Yakety Yak (Wrap It Up)
-- Charlie Brown - 2007 Remaster Stereo Single Version; Remastered
-- Searchin' (The Coasters)
-- Poison Ivy - 2007 Remaster; Remastered
-- Down In Mexico (Soul Music 02 - 50 Hits From The Early Years)
-- Smokey Joe's Cafe (The Coasters)
-- Charlie Brown (Wrap It Up)
-- Down in Mexico
+  - Yakety Yak - 2007 Remaster
+  - Down in Mexico (The Coasters)
+  - Yakety Yak (Wrap It Up)
+  - Charlie Brown - 2007 Remaster Stereo Single Version; Remastered
+  - Searchin' (The Coasters)
+  - Poison Ivy - 2007 Remaster; Remastered
+  - Down In Mexico (Soul Music 02 - 50 Hits From The Early Years)
+  - Smokey Joe's Cafe (The Coasters)
+  - Charlie Brown (Wrap It Up)
+  - Down in Mexico
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c174f353-4666-4dfb-af54-5cc70b8afd55
-  spotify: https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM
-  wikipedia: https://en.wikipedia.org/wiki/The_Coasters
+  musicbrainz: 'https://musicbrainz.org/artist/c174f353-4666-4dfb-af54-5cc70b8afd55'
+  spotify: 'https://open.spotify.com/artist/3QZKZBEmr54lAVI5XvmjnM'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Coasters'
 image_path: 03_Resources/source_material/ArtistPortraits/The_Coasters.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-18T16:02:57.080869'
-entry_created: 2025-09-18 11:50:56.078109
+entry_created: 2025-09-18T11:50:56.078Z
 last_updated: '2025-12-23T08:16:07.115494'
 musicbrainz_enriched_at: '2025-10-21T09:51:04.942579'
 musicbrainz_id: c174f353-4666-4dfb-af54-5cc70b8afd55
 origin: Los Angeles
 tags:
-- doo-wop
-- novelty
-- pop
+  - doo-wop
+  - novelty
+  - pop
+birth_place: 'Los Angeles, California, United States'
 ---
 
 ![](The_Coasters.jpg)

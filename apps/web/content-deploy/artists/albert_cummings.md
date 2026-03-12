@@ -5,21 +5,21 @@ schema_version: 2
 status: active
 aliases: []
 birth_date: '1968-01-01'
-birth_place: Williamstown
+birth_place: 'Williamstown, Massachusetts, United States'
 years_active: 1999–present
 genres:
-- blues
-- blues rock
-- modern blues
+  - blues
+  - blues rock
+  - modern blues
 instruments:
-- guitar
-- voice
+  - guitar
+  - voice
 occupation:
-- blues musician
-- composer
-- guitarist
+  - blues musician
+  - composer
+  - guitarist
 record_labels:
-- Blind Pig Records
+  - Blind Pig Records
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Albert_Cummings.jpg
   caption: Albert Cummings
@@ -44,32 +44,34 @@ spotify_data:
   followers: 52983
   id: 1YYXyn4etM5oe9RnJe3Mvg
   popularity: 40
-  url: https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg
+  url: 'https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg'
   verified: false
 discography_enriched: true
 albums_count: 11
 singles_count: 3
 top_tracks:
-- Lonely Bed (True To Yourself)
-- Let Me Be (Working Man)
-- Workin' Man Blues (Working Man)
-- Red Rooster (Believe)
-- 'Why Me - Live (Feel So Good: Albert Cummings Live)'
-- Emmylou (Strong)
-- Hold On (Believe)
-- Live Strong (Strong)
-- 'Hoochie Coochie Man/Dixie Chicken Medley - Medley/Live (Feel So Good: Albert Cummings Live)'
-- Blues Makes Me Feel So Good (True To Yourself)
+  - Lonely Bed (True To Yourself)
+  - Let Me Be (Working Man)
+  - Workin' Man Blues (Working Man)
+  - Red Rooster (Believe)
+  - 'Why Me - Live (Feel So Good: Albert Cummings Live)'
+  - Emmylou (Strong)
+  - Hold On (Believe)
+  - Live Strong (Strong)
+  - >-
+    Hoochie Coochie Man/Dixie Chicken Medley - Medley/Live (Feel So Good: Albert
+    Cummings Live)
+  - Blues Makes Me Feel So Good (True To Yourself)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg
-  wikipedia: https://en.wikipedia.org/wiki/Albert_Cummings
+  spotify: 'https://open.spotify.com/artist/1YYXyn4etM5oe9RnJe3Mvg'
+  wikipedia: 'https://en.wikipedia.org/wiki/Albert_Cummings'
 image_path: 03_Resources/source_material/ArtistPortraits/Albert_Cummings.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-18T16:28:41.083473'
-entry_created: 2025-09-18 11:48:40.548359
+entry_created: 2025-09-18T11:48:40.548Z
 last_updated: '2025-12-23T08:16:04.494741'
-
+artist_type: person
 ---
 
 ![](Albert_Cummings.jpg)

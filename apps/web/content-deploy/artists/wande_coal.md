@@ -1,20 +1,20 @@
 ---
-title: wande coal
+title: Wande Coal
 wiki_slug: wande-coal
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1985-10-18'
-birth_place: Lagos
+birth_place: 'Lagos Island, Lagos State, Nigeria'
 genres:
-- afrobeats
-- afrobeat
-- afropop
-- azonto
-- afropiano
-- afroswing
-- alté
-- hiplife
+  - afrobeats
+  - afrobeat
+  - afropop
+  - azonto
+  - afropiano
+  - afroswing
+  - alté
+  - hiplife
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/wande_coal.jpg
   caption: wande coal
@@ -36,58 +36,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - D'banj
-  - Mo' Hits Allstars
-  - Phyno
-  - Davido
-  - Wizkid
-  - Olamide
-  - Dr SID
-  - D'Prince
+    - D'banj
+    - Mo' Hits Allstars
+    - Phyno
+    - Davido
+    - Wizkid
+    - Olamide
+    - Dr SID
+    - D'Prince
   influenced: []
   mentors:
-  - Don Jazzy
+    - Don Jazzy
 spotify_data:
   followers: 1435843
   id: 1fYVmAFB7sC7eDoF3mJXla
   popularity: 58
-  url: https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla
+  url: 'https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla'
 discography_enriched: true
 top_tracks:
-- Again (Realms)
-- Iskaba
-- Ebelebe (feat. Wizkid) (Legend Or No Legend)
-- Come My Way (Legend Or No Legend)
-- So Mi So
-- Kenkele (Bad Since '97)
-- My Woman, My Everything (feat. Wandecoal)
-- Gentility
-- Ololufe (feat. Wande Coal)
-- Spell (APOLLO)
+  - Again (Realms)
+  - Iskaba
+  - Ebelebe (feat. Wizkid) (Legend Or No Legend)
+  - Come My Way (Legend Or No Legend)
+  - So Mi So
+  - Kenkele (Bad Since '97)
+  - 'My Woman, My Everything (feat. Wandecoal)'
+  - Gentility
+  - Ololufe (feat. Wande Coal)
+  - Spell (APOLLO)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/fd32fe8c-2592-44de-84c8-daf40a4e017a
-  spotify: https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla
+  musicbrainz: 'https://musicbrainz.org/artist/fd32fe8c-2592-44de-84c8-daf40a4e017a'
+  spotify: 'https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/wande_coal.jpg
 biography_enhanced_at: '2025-11-16T20:21:34.569649'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://kids.kiddle.co/Wande_Coal
-- https://www.last.fm/music/Wande+Coal/+wiki
-- https://www.lagosjumpradio.com/music/wande-coal-the-nigerian-music-icon/
-- https://www.orimmusic.com/wande-coal/
-- https://www.wikiwand.com/en/articles/Wande_Coal
-- https://www.kemifilani.ng/breaking-news/wande-coals-biography-father-age-wife-songs
-- https://musicafricawakemedia.wordpress.com/2018/01/28/wande-coal/
+  - 'https://kids.kiddle.co/Wande_Coal'
+  - 'https://www.last.fm/music/Wande+Coal/+wiki'
+  - 'https://www.lagosjumpradio.com/music/wande-coal-the-nigerian-music-icon/'
+  - 'https://www.orimmusic.com/wande-coal/'
+  - 'https://www.wikiwand.com/en/articles/Wande_Coal'
+  - >-
+    https://www.kemifilani.ng/breaking-news/wande-coals-biography-father-age-wife-songs
+  - 'https://musicafricawakemedia.wordpress.com/2018/01/28/wande-coal/'
 network_extracted: true
 entry_created: '2025-11-16T20:21:34.569659'
 last_updated: '2025-12-23T08:16:17.987083'
 gender: Male
 musicbrainz_id: fd32fe8c-2592-44de-84c8-daf40a4e017a
 tags:
-- afrobeats
-
+  - afrobeats
 ---
 
 ![](wande_coal.jpg)

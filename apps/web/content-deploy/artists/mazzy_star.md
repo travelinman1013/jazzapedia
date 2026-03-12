@@ -1,102 +1,103 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2025-12-30T01:28:28.279833'
 birth_date: '1988'
 enhancement_provider: perplexity
 entry_created: '2025-12-30T01:28:28.279837'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c48d4327-8122-4286-af66-05e1ee6ac4d8
-  spotify: https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W
+  musicbrainz: 'https://musicbrainz.org/artist/c48d4327-8122-4286-af66-05e1ee6ac4d8'
+  spotify: 'https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W'
   wikipedia: Not found in search results
 genres:
-- dream pop
-- shoegaze
-- slowcore
+  - dream pop
+  - shoegaze
+  - slowcore
 image_path: 03_Resources/source_material/ArtistPortraits/mazzy_star.jpg
 instruments:
-- additional
+  - additional
 last_updated: '2025-12-30T01:28:28.279838'
 members:
-- begin: '1988'
-  end: '1997'
-  instruments:
-  - additional
-  mbid: b00fd4c3-5003-495b-b73d-94837707eeb3
-  name: William Cooper Glenn
-- begin: '1988'
-  end: '2017'
-  instruments:
-  - additional
-  mbid: 602949e8-c584-4662-a5dc-5853cfedd18e
-  name: Keith Mitchell
-- begin: '1988'
-  end: '2020'
-  instruments: []
-  mbid: 10886c9d-c106-4337-9653-430989ec484e
-  name: David Roback
-- &id001
-  begin: '1988'
-  end: ''
-  instruments:
-  - additional
-  mbid: 902c5779-da7e-4869-844a-0524e8a3f337
-  name: Suki Ewers
-- &id002
-  begin: '1988'
-  end: ''
-  instruments: []
-  mbid: bc1cc75d-ab68-41b2-a135-3b62f41ea266
-  name: Hope Sandoval
-- begin: '1993'
-  end: '1996'
-  instruments:
-  - additional
-  mbid: 48718492-5992-4840-be5e-b4c69918a035
-  name: Jill Emery
-- &id003
-  begin: '2012'
-  end: ''
-  instruments:
-  - additional
-  mbid: 7f69716d-e363-4642-89c8-e2d74e6c456f
-  name: Colm Ó Cíosóig
+  - begin: '1988'
+    end: '1997'
+    instruments:
+      - additional
+    mbid: b00fd4c3-5003-495b-b73d-94837707eeb3
+    name: William Cooper Glenn
+  - begin: '1988'
+    end: '2017'
+    instruments:
+      - additional
+    mbid: 602949e8-c584-4662-a5dc-5853cfedd18e
+    name: Keith Mitchell
+  - begin: '1988'
+    end: '2020'
+    instruments: []
+    mbid: 10886c9d-c106-4337-9653-430989ec484e
+    name: David Roback
+  - &ref_0
+    begin: '1988'
+    end: ''
+    instruments:
+      - additional
+    mbid: 902c5779-da7e-4869-844a-0524e8a3f337
+    name: Suki Ewers
+  - &ref_1
+    begin: '1988'
+    end: ''
+    instruments: []
+    mbid: bc1cc75d-ab68-41b2-a135-3b62f41ea266
+    name: Hope Sandoval
+  - begin: '1993'
+    end: '1996'
+    instruments:
+      - additional
+    mbid: 48718492-5992-4840-be5e-b4c69918a035
+    name: Jill Emery
+  - &ref_2
+    begin: '2012'
+    end: ''
+    instruments:
+      - additional
+    mbid: 7f69716d-e363-4642-89c8-e2d74e6c456f
+    name: Colm Ó Cíosóig
 musical_connections:
   collaborators:
-  - Hope Sandoval
-  - Keith Mitchell
-  - Suki Ewers
-  - Colm Ó Cíosóig
+    - Hope Sandoval
+    - Keith Mitchell
+    - Suki Ewers
+    - Colm Ó Cíosóig
   influenced:
-  - Dream pop and shoegaze artists
+    - Dream pop and shoegaze artists
   mentors:
-  - Syd Barrett
-  - Nick Drake
-  - The Doors
+    - Syd Barrett
+    - Nick Drake
+    - The Doors
 musicbrainz_id: c48d4327-8122-4286-af66-05e1ee6ac4d8
 network_extracted: true
-origin: Santa Monica
+origin: 'Santa Monica, California, United States'
 original_members:
-- *id001
-- *id002
-- *id003
+  - *ref_0
+  - *ref_1
+  - *ref_2
 primary_source: perplexity
 research_sources:
-- 'thesummit.fm - Timeline 1988: Mazzy Star Rises From Opal'
-- last.fm - Mazzy Star biography and discography
-- 'YouTube - Mazzy Star: The Tragic Story Of The Band Behind Fade Into You'
-- hope-sandoval.fandom.com - Mazzy Star Wiki
-- spirit-of-rock.com - Mazzy Star discography and biography
+  - 'thesummit.fm - Timeline 1988: Mazzy Star Rises From Opal'
+  - last.fm - Mazzy Star biography and discography
+  - 'YouTube - Mazzy Star: The Tragic Story Of The Band Behind Fade Into You'
+  - hope-sandoval.fandom.com - Mazzy Star Wiki
+  - spirit-of-rock.com - Mazzy Star discography and biography
 spotify_data:
   followers: 1902522
   id: 37w38cCSGgKLdayTRjna4W
   popularity: 73
-  url: https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W
+  url: 'https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W'
 status: active
 tags:
-- alt-country
-- alternative country
-- alternative rock
+  - alt-country
+  - alternative country
+  - alternative rock
 title: Mazzy Star
+death_date: '2020-02-24'
 ---
 
 ![](mazzy_star.jpg)

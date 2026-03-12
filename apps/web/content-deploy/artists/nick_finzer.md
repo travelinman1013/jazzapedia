@@ -1,54 +1,55 @@
 ---
 biography_enhanced_at: '2026-01-10T01:13:14.193648'
-birth_place: Rochester, New York, United States
+birth_place: 'Rochester, New York, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-10T01:13:14.193653'
 external_urls:
-  spotify: https://open.spotify.com/artist/3baCBfDg3U4AkZaMAlI0TX
+  spotify: 'https://open.spotify.com/artist/3baCBfDg3U4AkZaMAlI0TX'
   wikipedia: ''
 genres:
-- jazz
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/nick_finzer.jpg
 last_updated: '2026-01-10T01:13:14.193654'
 musical_connections:
   collaborators:
-  - Lucas Pino
-  - Glenn Zaleski
-  - Alex Wintz
-  - Dave Baron
-  - Jimmy Macbride
-  - Renee Rosnes
-  - Rufus Reid
-  - Lewis Nash
-  - Wynton Marsalis / Jazz at Lincoln Center Orchestra
-  - Ryan Truesdell
-  - Bob Stewart
-  - Tommy Dorsey Orchestra (modern incarnation)
+    - Lucas Pino
+    - Glenn Zaleski
+    - Alex Wintz
+    - Dave Baron
+    - Jimmy Macbride
+    - Renee Rosnes
+    - Rufus Reid
+    - Lewis Nash
+    - Wynton Marsalis / Jazz at Lincoln Center Orchestra
+    - Ryan Truesdell
+    - Bob Stewart
+    - Tommy Dorsey Orchestra (modern incarnation)
   influenced:
-  - Students of the University of North Texas Jazz Trombone Studio
-  - Artists on the Outside in Music roster
+    - Students of the University of North Texas Jazz Trombone Studio
+    - Artists on the Outside in Music roster
   mentors:
-  - Wycliffe Gordon
-  - Steve Turre
-  - Duke Ellington (influence)
-  - J.J. Johnson (influence)
+    - Wycliffe Gordon
+    - Steve Turre
+    - Duke Ellington (influence)
+    - J.J. Johnson (influence)
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.nickfinzermusic.com/about
-- https://www.nickfinzermusic.com/music
-- https://www.outsideinmusic.com/artistsandreleases/2017/4/13/nick-finzer
-- https://usarmyband.com/bios/nick-finzer
-- https://lydialiebman.com/index.php/project/nick-finzer/
-- https://somethingelsereviews.com/2016/03/03/nick-finzer-interview/
-- https://originarts.com/artists/artist.php?Artist_ID=290
+  - 'https://www.nickfinzermusic.com/about'
+  - 'https://www.nickfinzermusic.com/music'
+  - 'https://www.outsideinmusic.com/artistsandreleases/2017/4/13/nick-finzer'
+  - 'https://usarmyband.com/bios/nick-finzer'
+  - 'https://lydialiebman.com/index.php/project/nick-finzer/'
+  - 'https://somethingelsereviews.com/2016/03/03/nick-finzer-interview/'
+  - 'https://originarts.com/artists/artist.php?Artist_ID=290'
 spotify_data:
   followers: 2269
   id: 3baCBfDg3U4AkZaMAlI0TX
   popularity: 18
-  url: https://open.spotify.com/artist/3baCBfDg3U4AkZaMAlI0TX
+  url: 'https://open.spotify.com/artist/3baCBfDg3U4AkZaMAlI0TX'
 status: active
 title: Nick Finzer
+artist_type: person
 ---
 
 ![](nick_finzer.jpg)

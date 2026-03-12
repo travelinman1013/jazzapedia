@@ -1,16 +1,16 @@
 ---
-title: mary mccaslin
+title: Mary McCaslin
 wiki_slug: mary-mccaslin
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1946-12-22'
-birth_place: Indianapolis
+birth_place: 'Indianapolis, Indiana, United States'
 death_date: '2022-10-02'
 genres:
-- folk
+  - folk
 instruments:
-- guitar
+  - guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/mary_mccaslin.jpg
   caption: mary mccaslin
@@ -33,50 +33,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jim Ringer
-  - Pam Ostergren
+    - Jim Ringer
+    - Pam Ostergren
   influenced:
-  - Nanci Griffith
-  - Mary Chapin Carpenter
-  - Kate Wolf
-  - Tom Russell
-  - Gretchen Peters
-  - Stan Rogers
+    - Nanci Griffith
+    - Mary Chapin Carpenter
+    - Kate Wolf
+    - Tom Russell
+    - Gretchen Peters
+    - Stan Rogers
   mentors:
-  - Marty Robbins
-  - Joan Baez
-  - Joni Mitchell
-  - Hedy West
+    - Marty Robbins
+    - Joan Baez
+    - Joni Mitchell
+    - Hedy West
 spotify_data:
   followers: 3904
   id: 1kAYGVLxKwYsX4mMz1C1C0
   popularity: 22
-  url: https://open.spotify.com/artist/1kAYGVLxKwYsX4mMz1C1C0
+  url: 'https://open.spotify.com/artist/1kAYGVLxKwYsX4mMz1C1C0'
 discography_enriched: true
 top_tracks:
-- Things We Said Today (Old Friends)
-- Down The Road (Way Out West)
-- Prairie In The Sky (Prairie In The Sky)
-- San Bernardino Waltz (Way Out West)
-- Old Friends (Old Friends)
-- Ghost Riders In The Sky (Prairie In The Sky)
-- Living Without You (Way Out West)
-- Wayward Wind (Old Friends)
-- Blackbird (Old Friends)
-- 'The Bramble And The Rose (The Best Of Mary McCaslin: Things We Said Today)'
+  - Things We Said Today (Old Friends)
+  - Down The Road (Way Out West)
+  - Prairie In The Sky (Prairie In The Sky)
+  - San Bernardino Waltz (Way Out West)
+  - Old Friends (Old Friends)
+  - Ghost Riders In The Sky (Prairie In The Sky)
+  - Living Without You (Way Out West)
+  - Wayward Wind (Old Friends)
+  - Blackbird (Old Friends)
+  - 'The Bramble And The Rose (The Best Of Mary McCaslin: Things We Said Today)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/dfc27868-6f62-40a3-a0b5-ee92b196d5f9
-  spotify: https://open.spotify.com/artist/1kAYGVLxKwYsX4mMz1C1C0
-  wikipedia: https://en.wikipedia.org/wiki/Mary_McCaslin
+  musicbrainz: 'https://musicbrainz.org/artist/dfc27868-6f62-40a3-a0b5-ee92b196d5f9'
+  spotify: 'https://open.spotify.com/artist/1kAYGVLxKwYsX4mMz1C1C0'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mary_McCaslin'
 image_path: 03_Resources/source_material/ArtistPortraits/mary_mccaslin.jpg
 biography_enhanced_at: '2025-10-24T07:49:48.101341'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Mary_McCaslin
-- https://fromthevaults-boppinbob.blogspot.com/2022/12/mary-mccaslin-born-22-december-1946.html
-- https://folkalley.com/folksinger-mary-mccaslin-has-died-december-22-1946-october-2-2022/
-- https://www.bear-family.com/mccaslin-mary-jim-ringer/
+  - 'https://en.wikipedia.org/wiki/Mary_McCaslin'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2022/12/mary-mccaslin-born-22-december-1946.html
+  - >-
+    https://folkalley.com/folksinger-mary-mccaslin-has-died-december-22-1946-october-2-2022/
+  - 'https://www.bear-family.com/mccaslin-mary-jim-ringer/'
 network_extracted: true
 entry_created: '2025-10-24T07:49:48.101479'
 last_updated: '2025-12-23T08:16:12.793149'
@@ -84,9 +86,10 @@ disambiguation: folksinger
 gender: Female
 musicbrainz_id: dfc27868-6f62-40a3-a0b5-ee92b196d5f9
 tags:
-- contemporary folk
-- singer-songwriter
-
+  - contemporary folk
+  - singer-songwriter
+is_active: false
+origin: 'Los Angeles, California, United States'
 ---
 
 ![](mary_mccaslin.jpg)

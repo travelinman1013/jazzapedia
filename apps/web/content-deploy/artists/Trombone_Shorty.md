@@ -2,22 +2,22 @@
 title: Trombone Shorty
 wiki_slug: trombone-shorty
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1986-01-02'
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- jazz funk
+  - jazz funk
 instruments:
-- eponymous
-- original
-- trombone
+  - eponymous
+  - original
+  - trombone
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Trombone_Shorty.jpg
   caption: Trombone Shorty
   background: non_vocal_instrumentalist
   born: '1986-01-02'
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 118.9
   energy_avg: 0.691
@@ -25,7 +25,7 @@ audio_profile:
   danceability_avg: 0.628
   acousticness_avg: 0.252
   instrumentalness_avg: 0.258
-  loudness_avg: -7.0
+  loudness_avg: -7
   speechiness_avg: 0.095
   liveness_avg: 0.208
   track_count: 72
@@ -33,45 +33,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lenny Kravitz
-  - Orleans Avenue (band)
-  - New Orleans Social Club
-  - Little Big Town
+    - Lenny Kravitz
+    - Orleans Avenue (band)
+    - New Orleans Social Club
+    - Little Big Town
   influenced:
-  - Students at Trombone Shorty Academy
-  - Young New Orleans musicians
+    - Students at Trombone Shorty Academy
+    - Young New Orleans musicians
   mentors:
-  - Cyril Neville
-  - James Andrews
+    - Cyril Neville
+    - James Andrews
 spotify_data:
   followers: 207640
   id: 37ZvFp654tY74Z1D2TLOGR
   popularity: 43
-  url: https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR
+  url: 'https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR'
 discography_enriched: true
 top_tracks:
-- Something Beautiful (Backatown)
-- Hurricane Season (Backatown)
-- Tripped Out Slim (Parking Lot Symphony)
-- Hold Up, Wait a Minute
-- Backatown (Backatown)
-- Cineramascope (Ya-Ka-May (Deluxe Edition))
-- 7-T's (Laid Black)
-- Vieux Carre (Say That To Say This)
-- Shortyville (Say That To Say This)
-- Overnight (feat. Trombone Shorty) (Uncaged)
+  - Something Beautiful (Backatown)
+  - Hurricane Season (Backatown)
+  - Tripped Out Slim (Parking Lot Symphony)
+  - 'Hold Up, Wait a Minute'
+  - Backatown (Backatown)
+  - Cineramascope (Ya-Ka-May (Deluxe Edition))
+  - 7-T's (Laid Black)
+  - Vieux Carre (Say That To Say This)
+  - Shortyville (Say That To Say This)
+  - Overnight (feat. Trombone Shorty) (Uncaged)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/cae4fd51-4d58-4d48-92c1-6198cc2e45ed
-  spotify: https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR
-  wikipedia: https://en.wikipedia.org/wiki/Trombone_Shorty
+  musicbrainz: 'https://musicbrainz.org/artist/cae4fd51-4d58-4d48-92c1-6198cc2e45ed'
+  spotify: 'https://open.spotify.com/artist/37ZvFp654tY74Z1D2TLOGR'
+  wikipedia: 'https://en.wikipedia.org/wiki/Trombone_Shorty'
 image_path: 03_Resources/source_material/ArtistPortraits/Trombone_Shorty.jpg
 biography_enhanced_at: '2025-10-20T09:22:22.296409'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia
-- Blue Note Records
-- Trombone Shorty Foundation
+  - Wikipedia
+  - Blue Note Records
+  - Trombone Shorty Foundation
 network_extracted: true
 entry_created: '2025-10-20T09:22:22.298581'
 last_updated: '2025-12-23T08:16:04.226327'
@@ -79,8 +79,9 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:47:36.799857'
 musicbrainz_id: cae4fd51-4d58-4d48-92c1-6198cc2e45ed
 tags:
-- jazz
-- jazz-funk
+  - jazz
+  - jazz-funk
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](Trombone_Shorty.jpg)

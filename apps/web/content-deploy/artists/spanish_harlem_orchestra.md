@@ -1,86 +1,87 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-11T02:17:34.929345'
 birth_date: '2000'
 enhancement_provider: perplexity
 entry_created: '2026-01-11T02:17:34.929352'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5ddcd28d-e3b9-4e07-a853-d0a6316e64ea
-  spotify: https://open.spotify.com/artist/0I7U5I66P88nCaVVPkIz6x
-  wikipedia: https://en.wikipedia.org/wiki/Spanish_Harlem_Orchestra
+  musicbrainz: 'https://musicbrainz.org/artist/5ddcd28d-e3b9-4e07-a853-d0a6316e64ea'
+  spotify: 'https://open.spotify.com/artist/0I7U5I66P88nCaVVPkIz6x'
+  wikipedia: 'https://en.wikipedia.org/wiki/Spanish_Harlem_Orchestra'
 genres:
-- latin jazz
-- salsa
-- cha cha cha
-- afro-cuban jazz
-- mambo
-- timba
-- son cubano
+  - latin jazz
+  - salsa
+  - cha cha cha
+  - afro-cuban jazz
+  - mambo
+  - timba
+  - son cubano
 image_path: 03_Resources/source_material/ArtistPortraits/spanish_harlem_orchestra.jpg
 instruments:
-- trombone
+  - trombone
 last_updated: '2026-01-11T02:17:34.929354'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - trombone
-  mbid: 6fb1f759-3036-4912-8cf1-26a53077648a
-  name: Doug Beavers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 21ffd4c3-b136-49ca-a727-91194eb88695
-  name: Jeremy Bosch
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6c07cff9-9600-4ee3-9031-5e3c83ff542e
-  name: George Delgado
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 08ef82a9-9447-42b8-ac6b-2776d9c6783e
-  name: Mitch Frohman
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 867c000d-33da-4647-8669-03a51ab7efae
-  name: Jorge González
+  - begin: ''
+    end: ''
+    instruments:
+      - trombone
+    mbid: 6fb1f759-3036-4912-8cf1-26a53077648a
+    name: Doug Beavers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 21ffd4c3-b136-49ca-a727-91194eb88695
+    name: Jeremy Bosch
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6c07cff9-9600-4ee3-9031-5e3c83ff542e
+    name: George Delgado
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 08ef82a9-9447-42b8-ac6b-2776d9c6783e
+    name: Mitch Frohman
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 867c000d-33da-4647-8669-03a51ab7efae
+    name: Jorge González
 musical_connections:
   collaborators:
-  - Rubén Blades
-  - Aaron Levinson
-  - Jimmy Bosch
-  - Dan Reagan
+    - Rubén Blades
+    - Aaron Levinson
+    - Jimmy Bosch
+    - Dan Reagan
   influenced:
-  - Younger New York salsa and Latin jazz orchestras (general)
+    - Younger New York salsa and Latin jazz orchestras (general)
   mentors:
-  - Manny Oquendo
-  - Andy González
-  - Jerry González
-  - Barry Rogers
+    - Manny Oquendo
+    - Andy González
+    - Jerry González
+    - Barry Rogers
 musicbrainz_id: 5ddcd28d-e3b9-4e07-a853-d0a6316e64ea
 network_extracted: true
-origin: Spanish Harlem, Manhattan, New York City, New York, United States
+origin: 'Spanish Harlem, Manhattan, New York City, New York, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Spanish_Harlem_Orchestra
-- https://latinjazznet.com/artist-profiles/artist-profile-spanish-harlem-orchestra/
-- https://www.allaboutjazz.com/musicians/spanish-harlem-orchestra/
-- https://theconrad.org/bio/spanish-harlem-orchestra/
-- https://www.salsaneo.com/sho
-- https://lpr.com/lpr_artists/spanish-harlem-orchestra/
-- https://vo-music.com/artistes/spanish-harlem-orchestra/?lang=en
+  - 'https://en.wikipedia.org/wiki/Spanish_Harlem_Orchestra'
+  - >-
+    https://latinjazznet.com/artist-profiles/artist-profile-spanish-harlem-orchestra/
+  - 'https://www.allaboutjazz.com/musicians/spanish-harlem-orchestra/'
+  - 'https://theconrad.org/bio/spanish-harlem-orchestra/'
+  - 'https://www.salsaneo.com/sho'
+  - 'https://lpr.com/lpr_artists/spanish-harlem-orchestra/'
+  - 'https://vo-music.com/artistes/spanish-harlem-orchestra/?lang=en'
 spotify_data:
   followers: 44035
   id: 0I7U5I66P88nCaVVPkIz6x
   popularity: 38
-  url: https://open.spotify.com/artist/0I7U5I66P88nCaVVPkIz6x
+  url: 'https://open.spotify.com/artist/0I7U5I66P88nCaVVPkIz6x'
 status: active
 tags:
-- latin
-- salsa
+  - latin
+  - salsa
 title: Spanish Harlem Orchestra
 ---
 

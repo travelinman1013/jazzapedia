@@ -2,59 +2,61 @@
 artist_type: person
 biography_enhanced_at: '2026-01-22T07:05:41.488706'
 birth_date: '1945-09-11'
-birth_place: Athens
+birth_place: 'Athens, Georgia, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:05:41.488713'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1a21878d-05b1-4983-a059-7cf3abee04b7
-  spotify: https://open.spotify.com/artist/6cjuHeJM6CHRUhIhApwFwx
-  wikipedia: https://en.wikipedia.org/wiki/Leo_Kottke
+  musicbrainz: 'https://musicbrainz.org/artist/1a21878d-05b1-4983-a059-7cf3abee04b7'
+  spotify: 'https://open.spotify.com/artist/6cjuHeJM6CHRUhIhApwFwx'
+  wikipedia: 'https://en.wikipedia.org/wiki/Leo_Kottke'
 gender: Male
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/leo_kottke.jpg
 instruments:
-- slide guitar
-- acoustic guitar
-- guitar
-- background vocals
+  - slide guitar
+  - acoustic guitar
+  - guitar
+  - background vocals
 last_updated: '2026-01-22T07:05:41.488714'
 musical_connections:
   collaborators:
-  - Mike Gordon
-  - Rickie Lee Jones
-  - Lyle Lovett
-  - Margo Timmins
-  - Paco de Lucia
-  - Al Di Meola
+    - Mike Gordon
+    - Rickie Lee Jones
+    - Lyle Lovett
+    - Margo Timmins
+    - Paco de Lucia
+    - Al Di Meola
   influenced:
-  - Thousands of guitarists (general)
+    - Thousands of guitarists (general)
   mentors:
-  - Mississippi John Hurt
-  - John Fahey
+    - Mississippi John Hurt
+    - John Fahey
 musicbrainz_id: 1a21878d-05b1-4983-a059-7cf3abee04b7
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Leo_Kottke
-- https://www.last.fm/music/Leo+Kottke/+wiki
-- https://calendar.ku.edu/event/leo_kottke_guitar
-- https://www.redlightmanagement.com/artists/leo-kottke/
-- https://the-avocado.org/2017/03/07/artist-spotlight-leo-kottke/
-- https://acousticguitar.com/leo-kottke-looks-back-at-his-long-and-uncategorizable-musical-journey/
-- https://www.lyrictheatre.com/past-show/10204-leo-kottke
-- https://www.innerviews.org/inner/kottke-2
-- http://www.guitarmusic.org/kottke/gintro1.html
+  - 'https://en.wikipedia.org/wiki/Leo_Kottke'
+  - 'https://www.last.fm/music/Leo+Kottke/+wiki'
+  - 'https://calendar.ku.edu/event/leo_kottke_guitar'
+  - 'https://www.redlightmanagement.com/artists/leo-kottke/'
+  - 'https://the-avocado.org/2017/03/07/artist-spotlight-leo-kottke/'
+  - >-
+    https://acousticguitar.com/leo-kottke-looks-back-at-his-long-and-uncategorizable-musical-journey/
+  - 'https://www.lyrictheatre.com/past-show/10204-leo-kottke'
+  - 'https://www.innerviews.org/inner/kottke-2'
+  - 'http://www.guitarmusic.org/kottke/gintro1.html'
 spotify_data:
   followers: 66625
   id: 6cjuHeJM6CHRUhIhApwFwx
   popularity: 39
-  url: https://open.spotify.com/artist/6cjuHeJM6CHRUhIhApwFwx
+  url: 'https://open.spotify.com/artist/6cjuHeJM6CHRUhIhApwFwx'
 status: active
 tags:
-- american primitivism
-- contemporary folk
-- folk
+  - american primitivism
+  - contemporary folk
+  - folk
 title: Leo Kottke
+origin: 'Minneapolis, Minnesota, United States'
 ---
 
 ![](leo_kottke.jpg)

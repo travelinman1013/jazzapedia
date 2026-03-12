@@ -3,13 +3,13 @@ title: Kiki Valera
 wiki_slug: kiki-valera
 schema_version: 2
 status: active
-birth_place: Santiago de Cuba, Santiago de Cuba Province, Cuba
+birth_place: 'Santiago de Cuba, Santiago de Cuba Province, Cuba'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/kiki_valera.jpg
   caption: Kiki Valera
   background: solo_singer
-  origin: Santiago de Cuba, Santiago de Cuba Province, Cuba
+  origin: 'Santiago de Cuba, Santiago de Cuba Province, Cuba'
 audio_profile:
   tempo_avg: 111.2
   energy_avg: 0.279
@@ -25,48 +25,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Familia Valera Miranda
-  - Septeto Turquino
-  - Los Karachi
+    - Familia Valera Miranda
+    - Septeto Turquino
+    - Los Karachi
   influenced:
-  - Seattle-based Cuban musicians and students
+    - Seattle-based Cuban musicians and students
   mentors:
-  - Don Felix Valera Miranda
-  - Danilo Orozco
+    - Don Felix Valera Miranda
+    - Danilo Orozco
 spotify_data:
   followers: 42
   id: 1oNYo97OKpsmyMsFUZnkm1
   popularity: 56
-  url: https://open.spotify.com/artist/1oNYo97OKpsmyMsFUZnkm1
+  url: 'https://open.spotify.com/artist/1oNYo97OKpsmyMsFUZnkm1'
 discography_enriched: true
 top_tracks:
-- Gentle Evening Mist (Tranquil Moon Glow)
-- Serene Ocean Drift (Tranquil Moon Glow)
-- Soft Starry Reflections (Tranquil Moon Glow)
-- Peaceful Twilight Waves (Tranquil Moon Glow)
-- Evening Calm Piano (Whispering Winds Piano)
-- Serene Dreams Piano (Whispering Winds Piano)
-- Tranquil Skies Piano (Whispering Winds Piano)
-- Moonlit Whispers Piano (Whispering Winds Piano)
-- Whispered Serenity Piano (Whispering Winds Piano)
-- Quiet Horizon Piano (Whispering Winds Piano)
+  - Gentle Evening Mist (Tranquil Moon Glow)
+  - Serene Ocean Drift (Tranquil Moon Glow)
+  - Soft Starry Reflections (Tranquil Moon Glow)
+  - Peaceful Twilight Waves (Tranquil Moon Glow)
+  - Evening Calm Piano (Whispering Winds Piano)
+  - Serene Dreams Piano (Whispering Winds Piano)
+  - Tranquil Skies Piano (Whispering Winds Piano)
+  - Moonlit Whispers Piano (Whispering Winds Piano)
+  - Whispered Serenity Piano (Whispering Winds Piano)
+  - Quiet Horizon Piano (Whispering Winds Piano)
 external_urls:
-  spotify: https://open.spotify.com/artist/1oNYo97OKpsmyMsFUZnkm1
+  spotify: 'https://open.spotify.com/artist/1oNYo97OKpsmyMsFUZnkm1'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/kiki_valera.jpg
 biography_enhanced_at: '2025-11-02T07:26:44.193815'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://originarts.com/artists/artist.php?Artist_ID=344
-- https://salsagoogle.com/kiki-valera-and-his-talented-and-special-familys/
-- https://theworld.org/stories/2021/08/25/kiki-valera-cuban-son-and-how-he-develoip-unique-musical-perspective
-- https://www.earshot.org/kiki-valera-adventures-in-clave-cubana/
-- https://lydialiebman.com/index.php/project/kiki-valera/
-- https://www.4culture.org/touring_arts/kiki-valera/
+  - 'https://originarts.com/artists/artist.php?Artist_ID=344'
+  - 'https://salsagoogle.com/kiki-valera-and-his-talented-and-special-familys/'
+  - >-
+    https://theworld.org/stories/2021/08/25/kiki-valera-cuban-son-and-how-he-develoip-unique-musical-perspective
+  - 'https://www.earshot.org/kiki-valera-adventures-in-clave-cubana/'
+  - 'https://lydialiebman.com/index.php/project/kiki-valera/'
+  - 'https://www.4culture.org/touring_arts/kiki-valera/'
 network_extracted: true
 entry_created: '2025-11-02T07:26:44.193829'
 last_updated: '2025-12-23T08:16:11.369348'
+artist_type: person
 ---
 
 ![](kiki_valera.jpg)

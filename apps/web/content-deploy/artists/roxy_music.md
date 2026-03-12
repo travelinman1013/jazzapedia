@@ -2,15 +2,15 @@
 title: Roxy Music
 wiki_slug: roxy-music
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
-birth_date: '1971'
+birth_date: '1970'
 genres:
-- glam rock
-- art rock
+  - glam rock
+  - art rock
 instruments:
-- bass guitar
-- keyboard
+  - bass guitar
+  - keyboard
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/roxy_music.jpg
   caption: Roxy Music
@@ -31,139 +31,140 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bryan Ferry
-  - Brian Eno
-  - Phil Manzanera
-  - Andy Mackay
-  - Paul Thompson
-  - Eddie Jobson
+    - Bryan Ferry
+    - Brian Eno
+    - Phil Manzanera
+    - Andy Mackay
+    - Paul Thompson
+    - Eddie Jobson
   influenced:
-  - Duran Duran
-  - David Bowie
-  - Talking Heads
-  - U2
-  - Blondie
+    - Duran Duran
+    - David Bowie
+    - Talking Heads
+    - U2
+    - Blondie
   mentors:
-  - Richard Hamilton
-  - Duke Ellington
+    - Richard Hamilton
+    - Duke Ellington
 spotify_data:
   followers: 1094297
   id: 3fhOTtm0LBJ3Ojn4hIljLo
   popularity: 59
-  url: https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo
+  url: 'https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo'
 discography_enriched: true
 top_tracks:
-- More Than This (Avalon)
-- Avalon (Avalon)
-- Jealous Guy
-- Love Is The Drug (Siren)
-- Oh Yeah! (Flesh And Blood)
-- More Than This
-- Dance Away (Manifesto)
-- Same Old Scene (Flesh And Blood)
-- Virginia Plain (Roxy Music)
-- Take A Chance With Me (Avalon)
+  - More Than This (Avalon)
+  - Avalon (Avalon)
+  - Jealous Guy
+  - Love Is The Drug (Siren)
+  - Oh Yeah! (Flesh And Blood)
+  - More Than This
+  - Dance Away (Manifesto)
+  - Same Old Scene (Flesh And Blood)
+  - Virginia Plain (Roxy Music)
+  - Take A Chance With Me (Avalon)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/331ce348-1b08-40b9-8ed7-0763b92bd003
-  spotify: https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo
-  wikipedia: https://en.wikipedia.org/wiki/Roxy_Music
+  musicbrainz: 'https://musicbrainz.org/artist/331ce348-1b08-40b9-8ed7-0763b92bd003'
+  spotify: 'https://open.spotify.com/artist/3fhOTtm0LBJ3Ojn4hIljLo'
+  wikipedia: 'https://en.wikipedia.org/wiki/Roxy_Music'
 image_path: 03_Resources/source_material/ArtistPortraits/roxy_music.jpg
 biography_enhanced_at: '2025-10-26T12:39:15.848995'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Roxy_Music
-- https://www.britannica.com/topic/Roxy-Music
-- https://thesummit.fm/2023/05/08/timeline-1983-40-years-ago-roxy-music-call-it-a-day/
-- http://www.vivaroxymusic.com/roxymusic.php
-- https://teachrock.org/people/roxy-music/
-- https://bryanferry.com/roxy-music-history-tab/
+  - 'https://en.wikipedia.org/wiki/Roxy_Music'
+  - 'https://www.britannica.com/topic/Roxy-Music'
+  - >-
+    https://thesummit.fm/2023/05/08/timeline-1983-40-years-ago-roxy-music-call-it-a-day/
+  - 'http://www.vivaroxymusic.com/roxymusic.php'
+  - 'https://teachrock.org/people/roxy-music/'
+  - 'https://bryanferry.com/roxy-music-history-tab/'
 network_extracted: true
 entry_created: '2025-10-26T12:39:15.848999'
 last_updated: '2025-12-23T08:16:15.108514'
 members:
-- begin: '1971'
-  end: '1972'
-  instruments: []
-  mbid: 2d4c6549-b060-44f6-9396-cc895f9c2c21
-  name: Graham Simpson
-- begin: '1971'
-  end: '1973'
-  instruments: []
-  mbid: ff95eb47-41c4-4f7f-a104-cdc30f02e872
-  name: Brian Eno
-- begin: '1971'
-  end: '1980'
-  instruments: []
-  mbid: a92d9484-3fc5-4ba5-808c-539b93516c9c
-  name: Paul Thompson
-- begin: '1971'
-  end: '1983'
-  instruments: []
-  mbid: 4ef7a9e2-2cf5-483a-8616-ef7791a98026
-  name: Bryan Ferry
-- begin: '1971'
-  end: '1983'
-  instruments: []
-  mbid: 2f82f693-9345-4ca4-aa87-9fb7e98d39c7
-  name: Andy Mackay
-- begin: '1972'
-  end: '1983'
-  instruments: []
-  mbid: 0d2cf864-5e99-472e-845f-5d1579979eee
-  name: Phil Manzanera
-- begin: 1973-07
-  end: 1976-06
-  instruments: []
-  mbid: 824dcca4-d658-41b3-95c5-07d0d183b5c6
-  name: Eddie Jobson
-- begin: '1973'
-  end: '1976'
-  instruments:
-  - bass guitar
-  mbid: 8b2f6eec-bd8e-487c-a816-5f5ef23fde88
-  name: Sal Maida
-- begin: '1978'
-  end: '1981'
-  instruments:
-  - keyboard
-  mbid: ba6b4550-eedb-48bc-b7cf-49c51b50761d
-  name: David Skinner
-- &id001
-  begin: '2001'
-  end: ''
-  instruments: []
-  mbid: 4ef7a9e2-2cf5-483a-8616-ef7791a98026
-  name: Bryan Ferry
-- &id002
-  begin: '2001'
-  end: ''
-  instruments: []
-  mbid: 2f82f693-9345-4ca4-aa87-9fb7e98d39c7
-  name: Andy Mackay
-- &id003
-  begin: '2001'
-  end: ''
-  instruments: []
-  mbid: 0d2cf864-5e99-472e-845f-5d1579979eee
-  name: Phil Manzanera
-- &id004
-  begin: '2001'
-  end: ''
-  instruments: []
-  mbid: a92d9484-3fc5-4ba5-808c-539b93516c9c
-  name: Paul Thompson
+  - begin: '1971'
+    end: '1972'
+    instruments: []
+    mbid: 2d4c6549-b060-44f6-9396-cc895f9c2c21
+    name: Graham Simpson
+  - begin: '1971'
+    end: '1973'
+    instruments: []
+    mbid: ff95eb47-41c4-4f7f-a104-cdc30f02e872
+    name: Brian Eno
+  - begin: '1971'
+    end: '1980'
+    instruments: []
+    mbid: a92d9484-3fc5-4ba5-808c-539b93516c9c
+    name: Paul Thompson
+  - begin: '1971'
+    end: '1983'
+    instruments: []
+    mbid: 4ef7a9e2-2cf5-483a-8616-ef7791a98026
+    name: Bryan Ferry
+  - begin: '1971'
+    end: '1983'
+    instruments: []
+    mbid: 2f82f693-9345-4ca4-aa87-9fb7e98d39c7
+    name: Andy Mackay
+  - begin: '1972'
+    end: '1983'
+    instruments: []
+    mbid: 0d2cf864-5e99-472e-845f-5d1579979eee
+    name: Phil Manzanera
+  - begin: 1973-07
+    end: 1976-06
+    instruments: []
+    mbid: 824dcca4-d658-41b3-95c5-07d0d183b5c6
+    name: Eddie Jobson
+  - begin: '1973'
+    end: '1976'
+    instruments:
+      - bass guitar
+    mbid: 8b2f6eec-bd8e-487c-a816-5f5ef23fde88
+    name: Sal Maida
+  - begin: '1978'
+    end: '1981'
+    instruments:
+      - keyboard
+    mbid: ba6b4550-eedb-48bc-b7cf-49c51b50761d
+    name: David Skinner
+  - &ref_0
+    begin: '2001'
+    end: ''
+    instruments: []
+    mbid: 4ef7a9e2-2cf5-483a-8616-ef7791a98026
+    name: Bryan Ferry
+  - &ref_1
+    begin: '2001'
+    end: ''
+    instruments: []
+    mbid: 2f82f693-9345-4ca4-aa87-9fb7e98d39c7
+    name: Andy Mackay
+  - &ref_2
+    begin: '2001'
+    end: ''
+    instruments: []
+    mbid: 0d2cf864-5e99-472e-845f-5d1579979eee
+    name: Phil Manzanera
+  - &ref_3
+    begin: '2001'
+    end: ''
+    instruments: []
+    mbid: a92d9484-3fc5-4ba5-808c-539b93516c9c
+    name: Paul Thompson
 musicbrainz_id: 331ce348-1b08-40b9-8ed7-0763b92bd003
-origin: London
+origin: 'London, England, United Kingdom'
 original_members:
-- *id001
-- *id002
-- *id003
-- *id004
+  - *ref_0
+  - *ref_1
+  - *ref_2
+  - *ref_3
 tags:
-- art pop
-- art rock
-- glam rock
+  - art pop
+  - art rock
+  - glam rock
 ---
 
 ![](roxy_music.jpg)

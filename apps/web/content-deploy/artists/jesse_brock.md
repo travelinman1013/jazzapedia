@@ -1,40 +1,42 @@
 ---
 biography_enhanced_at: '2025-12-29T01:11:38.567782'
-birth_place: Decatur, Illinois, USA
+birth_place: 'Decatur, Illinois, USA'
 enhancement_provider: perplexity
 entry_created: '2025-12-29T01:11:38.567797'
 external_urls:
-  spotify: https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT
-  wikipedia: https://en.wikipedia.org/wiki/Jesse_Brock
+  spotify: 'https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jesse_Brock'
 genres:
-- neoclassical
+  - neoclassical
 image_path: 03_Resources/source_material/ArtistPortraits/jesse_brock.jpg
 last_updated: '2025-12-29T01:11:38.567798'
 musical_connections:
   collaborators:
-  - Michael Cleveland & Flamekeeper
-  - Lynn Morris Band
-  - Chris Jones & the Nightdrivers
-  - Audie Blaylock and Redline
-  - Authentic Unlimited
-  - The Gibson Brothers and Fast Track
+    - Michael Cleveland & Flamekeeper
+    - Lynn Morris Band
+    - Chris Jones & the Nightdrivers
+    - Audie Blaylock and Redline
+    - Authentic Unlimited
+    - The Gibson Brothers and Fast Track
   influenced:
-  - Nick DiSebastian
+    - Nick DiSebastian
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jesse_Brock
-- https://pinecastlemusic.com/artists/legacy-artists/jesse-brock/
-- https://bluegrassunlimited.com/article/the-mandolin-style-of-jesse-brock/
-- https://www.soundbiscuit.com/jessebrock
+  - 'https://en.wikipedia.org/wiki/Jesse_Brock'
+  - 'https://pinecastlemusic.com/artists/legacy-artists/jesse-brock/'
+  - 'https://bluegrassunlimited.com/article/the-mandolin-style-of-jesse-brock/'
+  - 'https://www.soundbiscuit.com/jessebrock'
 spotify_data:
   followers: 6693
   id: 5ou3jxRm9LFgxvuZij5LBT
   popularity: 61
-  url: https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT
+  url: 'https://open.spotify.com/artist/5ou3jxRm9LFgxvuZij5LBT'
 status: active
-title: JESSE BROCK
+title: Jesse Brock
+birth_date: '1972-07-18'
+artist_type: person
 ---
 
 ![](jesse_brock.jpg)

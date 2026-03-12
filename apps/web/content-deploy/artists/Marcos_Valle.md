@@ -5,14 +5,14 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1943-09-14'
-birth_place: Rio de Janeiro
+birth_place: 'Rio de Janeiro, Brazil'
 genres:
-- bossa nova
-- brazilian jazz
+  - bossa nova
+  - brazilian jazz
 instruments:
-- guitar
-- Rhodes piano
-- piano
+  - guitar
+  - Rhodes piano
+  - piano
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Marcos_Valle.jpg
   caption: Marcos Valle
@@ -20,7 +20,7 @@ infobox:
   born: '1943-09-14'
   origin: Rio de Janeiro
 audio_profile:
-  tempo_avg: 114.0
+  tempo_avg: 114
   energy_avg: 0.577
   valence_avg: 0.724
   danceability_avg: 0.655
@@ -34,56 +34,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Paulo Sérgio Valle
-  - Sergio Mendes
-  - Leon Ware
-  - Milton Nascimento
-  - Sarah Vaughan
-  - Chicago
-  - Airto Moreira
+    - Paulo Sérgio Valle
+    - Sergio Mendes
+    - Leon Ware
+    - Milton Nascimento
+    - Sarah Vaughan
+    - Chicago
+    - Airto Moreira
   influenced:
-  - European dance music scene
+    - European dance music scene
   mentors:
-  - Tom Jobim
+    - Tom Jobim
 spotify_data:
   followers: 143501
   id: 5I0EPnV9gwrZYTbScjnaOk
   popularity: 50
-  url: https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk
+  url: 'https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk'
 discography_enriched: true
 top_tracks:
-- Estrelar (Marcos Valle)
-- Nova Bossa Nova (Nova Bossa Nova)
-- Pequenas Alegrias da Vida Adulta (feat. Marcos Valle e Thiago Ventura) (AmarElo)
-- So Nice (Summer Samba) (Samba '68)
-- 'Valle, M / Valle, P: So nice (Brazil)'
-- Água de Coco (Contrasts)
-- Tudo De Você (Marcos Valle Samba "Demais")
-- Samba De Verão (O Compositor E O Cantor)
-- Não Tem Nada Não (Previsão Do Tempo)
-- Fogo do Sol (Marcos Valle)
+  - Estrelar (Marcos Valle)
+  - Nova Bossa Nova (Nova Bossa Nova)
+  - >-
+    Pequenas Alegrias da Vida Adulta (feat. Marcos Valle e Thiago Ventura)
+    (AmarElo)
+  - So Nice (Summer Samba) (Samba '68)
+  - 'Valle, M / Valle, P: So nice (Brazil)'
+  - Água de Coco (Contrasts)
+  - Tudo De Você (Marcos Valle Samba "Demais")
+  - Samba De Verão (O Compositor E O Cantor)
+  - Não Tem Nada Não (Previsão Do Tempo)
+  - Fogo do Sol (Marcos Valle)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1ba347eb-58e8-45d6-b7e3-09873dc2506a
-  spotify: https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk
+  musicbrainz: 'https://musicbrainz.org/artist/1ba347eb-58e8-45d6-b7e3-09873dc2506a'
+  spotify: 'https://open.spotify.com/artist/5I0EPnV9gwrZYTbScjnaOk'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/Marcos_Valle.jpg
 biography_enhanced_at: '2025-10-22T06:53:02.565722'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://first-avenue.com/performer/marcos-valle/
-- https://www.jazzisdead.com/marcos-valle
-- https://www.theford.com/musicdb/artists/9483/marcos-valle
-- https://toneglow.substack.com/p/tone-glow-160-marcos-valle
-- https://www.allaboutjazz.com/musicians/marcos-valle/
+  - 'https://first-avenue.com/performer/marcos-valle/'
+  - 'https://www.jazzisdead.com/marcos-valle'
+  - 'https://www.theford.com/musicdb/artists/9483/marcos-valle'
+  - 'https://toneglow.substack.com/p/tone-glow-160-marcos-valle'
+  - 'https://www.allaboutjazz.com/musicians/marcos-valle/'
 network_extracted: true
 entry_created: '2025-10-22T06:53:02.565737'
 last_updated: '2025-12-23T08:16:03.162755'
 gender: Male
 musicbrainz_id: 1ba347eb-58e8-45d6-b7e3-09873dc2506a
 tags:
-- mpb
-- world
+  - mpb
+  - world
 ---
 
 ![](Marcos_Valle.jpg)

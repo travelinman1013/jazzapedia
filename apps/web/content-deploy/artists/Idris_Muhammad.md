@@ -5,36 +5,36 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1939-11-13'
-birth_place: New Orleans
+birth_place: 'New Orleans, Louisiana, United States'
 death_date: '2014-07-29'
 genres:
-- jazz funk
-- soul jazz
+  - jazz funk
+  - soul jazz
 instruments:
-- drums (drum set)
-- lead vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 272c80be-dea0-4f35-8532-940ff43f346b
-  name: CTI All-Stars
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0ec7e7de-8233-4617-a475-22a8cb0976ba
-  name: Archie Shepp Quartet
-- begin: ''
-  end: ''
-  instruments:
   - drums (drum set)
-  mbid: 1c30fc59-bf94-4955-b5a8-8e7bb82a8123
-  name: Hamiet Bluiett & Concept
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0b87f371-4765-4d55-bbf0-95e66428a8ec
-  name: David Murray Quartet
+  - lead vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 272c80be-dea0-4f35-8532-940ff43f346b
+    name: CTI All-Stars
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0ec7e7de-8233-4617-a475-22a8cb0976ba
+    name: Archie Shepp Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 1c30fc59-bf94-4955-b5a8-8e7bb82a8123
+    name: Hamiet Bluiett & Concept
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0b87f371-4765-4d55-bbf0-95e66428a8ec
+    name: David Murray Quartet
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/idris_muhammad.jpg
   caption: Idris Muhammad
@@ -57,55 +57,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lou Donaldson
-  - Pharoah Sanders
-  - Ahmad Jamal
-  - Sam Cooke
-  - Roberta Flack
+    - Lou Donaldson
+    - Pharoah Sanders
+    - Ahmad Jamal
+    - Sam Cooke
+    - Roberta Flack
   influenced:
-  - Chris Dave
-  - Mark Guiliana
+    - Chris Dave
+    - Mark Guiliana
   mentors:
-  - Paul Barbarin
+    - Paul Barbarin
 spotify_data:
   followers: 88865
   id: 6ghiUK2ao3KcmmDt2pbNzN
   popularity: 39
-  url: https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN
+  url: 'https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN'
 discography_enriched: true
 top_tracks:
-- Could Heaven Ever Be Like This (Turn This Mutha Out)
-- Could Heaven Ever Be Like This - Walker & Royce and Chris Lorenzo Remix
-- House of the Rising Sun (House Of The Rising Sun)
-- Turn This Mutha Out (Turn This Mutha Out)
-- Wander (Black Rhythm Revolution!)
-- Loran's Dance (Power Of Soul)
-- Crap Apple (Turn This Mutha Out)
-- Moon Hymn (Turn This Mutha Out)
-- Tasty Cakes (Turn This Mutha Out)
-- Piece of Mind (Power Of Soul)
+  - Could Heaven Ever Be Like This (Turn This Mutha Out)
+  - Could Heaven Ever Be Like This - Walker & Royce and Chris Lorenzo Remix
+  - House of the Rising Sun (House Of The Rising Sun)
+  - Turn This Mutha Out (Turn This Mutha Out)
+  - Wander (Black Rhythm Revolution!)
+  - Loran's Dance (Power Of Soul)
+  - Crap Apple (Turn This Mutha Out)
+  - Moon Hymn (Turn This Mutha Out)
+  - Tasty Cakes (Turn This Mutha Out)
+  - Piece of Mind (Power Of Soul)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/318c02c2-d766-4843-9035-e186531fc98c
-  spotify: https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN
-  wikipedia: https://en.wikipedia.org/wiki/Idris_Muhammad
+  musicbrainz: 'https://musicbrainz.org/artist/318c02c2-d766-4843-9035-e186531fc98c'
+  spotify: 'https://open.spotify.com/artist/6ghiUK2ao3KcmmDt2pbNzN'
+  wikipedia: 'https://en.wikipedia.org/wiki/Idris_Muhammad'
 image_path: 03_Resources/source_material/ArtistPortraits/idris_muhammad.jpg
 biography_enhanced_at: '2025-10-23T07:43:09.189184'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.allaboutjazz.com/musicians/idris-muhammad/
-- http://www.drummerworld.com/drummers/Idris_Muhammad.html
-- https://wbssmedia.com/artists/detail/2837
-- https://kids.kiddle.co/Idris_Muhammad
+  - 'https://www.allaboutjazz.com/musicians/idris-muhammad/'
+  - 'http://www.drummerworld.com/drummers/Idris_Muhammad.html'
+  - 'https://wbssmedia.com/artists/detail/2837'
+  - 'https://kids.kiddle.co/Idris_Muhammad'
 network_extracted: true
 entry_created: '2025-10-23T07:43:09.189203'
 last_updated: '2025-12-23T08:16:02.285174'
 gender: Male
 musicbrainz_id: 318c02c2-d766-4843-9035-e186531fc98c
 tags:
-- contemporary jazz
-- jazz
-- jazz fusion
+  - contemporary jazz
+  - jazz
+  - jazz fusion
+is_active: false
 ---
 
 ![](idris_muhammad.jpg)

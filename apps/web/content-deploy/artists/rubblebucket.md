@@ -2,7 +2,7 @@
 title: Rubblebucket
 wiki_slug: rubblebucket
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '2008'
 genres: []
@@ -26,71 +26,71 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Arcade Fire
-  - Jake Shears (Scissor Sisters)
-  - The Moldy Peaches
-  - Communion Records
+    - Arcade Fire
+    - Jake Shears (Scissor Sisters)
+    - The Moldy Peaches
+    - Communion Records
   influenced: []
   mentors:
-  - University of Vermont Jazz Program
+    - University of Vermont Jazz Program
 spotify_data:
   followers: 88562
   id: 6xriZDSK3wPXhOoZXr9fzF
   popularity: 35
-  url: https://open.spotify.com/artist/6xriZDSK3wPXhOoZXr9fzF
+  url: 'https://open.spotify.com/artist/6xriZDSK3wPXhOoZXr9fzF'
 discography_enriched: true
 top_tracks:
-- Came out of a Lady (Omega La La)
-- Morning Glory Blanket (Year Of The Banana)
-- Moving Without Touching (Year Of The Banana)
-- Rattlesnake (Year Of The Banana)
-- Came Out of a Lady
-- Carousel Ride (Survival Sounds)
-- Go All The Way With Me (Year Of The Banana)
-- Fruity (Sun Machine)
-- The Sorrow That Comes With Loving You (Year Of The Banana)
-- Swimming In The Light (Year Of The Banana)
+  - Came out of a Lady (Omega La La)
+  - Morning Glory Blanket (Year Of The Banana)
+  - Moving Without Touching (Year Of The Banana)
+  - Rattlesnake (Year Of The Banana)
+  - Came Out of a Lady
+  - Carousel Ride (Survival Sounds)
+  - Go All The Way With Me (Year Of The Banana)
+  - Fruity (Sun Machine)
+  - The Sorrow That Comes With Loving You (Year Of The Banana)
+  - Swimming In The Light (Year Of The Banana)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e94d59fd-177a-4a79-85ba-0632207b134b
-  spotify: https://open.spotify.com/artist/6xriZDSK3wPXhOoZXr9fzF
+  musicbrainz: 'https://musicbrainz.org/artist/e94d59fd-177a-4a79-85ba-0632207b134b'
+  spotify: 'https://open.spotify.com/artist/6xriZDSK3wPXhOoZXr9fzF'
   wikipedia: Not provided in search results
 image_path: 03_Resources/source_material/ArtistPortraits/rubblebucket.jpg
 biography_enhanced_at: '2025-10-29T16:41:50.455508'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- burlingtonfreepress.com - Rubblebucket faces fear on 'Survival Sounds'
-- 'relix.com - Rubblebucket: Party Like Your Heart Hurts'
-- atwoodmagazine.com - A Conversation with Kalmia Traver of Rubblebucket
-- rubblebucket.com - Official band website
-- philthymag.com - Rubblebucket Make Their Underground Arts Debut
-- 'wers.org - Pick of the Week: Rubblebucket Geometry'
-- independentphilly.com - Rubblebucket Wikipedia reference
+  - burlingtonfreepress.com - Rubblebucket faces fear on 'Survival Sounds'
+  - 'relix.com - Rubblebucket: Party Like Your Heart Hurts'
+  - atwoodmagazine.com - A Conversation with Kalmia Traver of Rubblebucket
+  - rubblebucket.com - Official band website
+  - philthymag.com - Rubblebucket Make Their Underground Arts Debut
+  - 'wers.org - Pick of the Week: Rubblebucket Geometry'
+  - independentphilly.com - Rubblebucket Wikipedia reference
 network_extracted: true
 entry_created: '2025-10-29T16:41:50.455526'
 last_updated: '2025-12-23T08:16:15.157064'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4ca12fdd-7d60-4ea4-af61-e4f049184ed7
-  name: Adam Dotson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: eebf340a-3ffa-4647-94aa-3337182acc92
-  name: Alex Toth
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a4afce53-5cac-49d6-920b-18179499676c
-  name: Annakalmia Traver
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4ca12fdd-7d60-4ea4-af61-e4f049184ed7
+    name: Adam Dotson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: eebf340a-3ffa-4647-94aa-3337182acc92
+    name: Alex Toth
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a4afce53-5cac-49d6-920b-18179499676c
+    name: Annakalmia Traver
 musicbrainz_id: e94d59fd-177a-4a79-85ba-0632207b134b
-origin: Brooklyn
+origin: 'Brooklyn, New York, United States'
 tags:
-- alternative dance
-- alternative rock
-- art pop
+  - alternative dance
+  - alternative rock
+  - art pop
 ---
 
 ![](rubblebucket.jpg)

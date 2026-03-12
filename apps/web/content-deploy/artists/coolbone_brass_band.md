@@ -3,39 +3,40 @@ biography_enhanced_at: '2026-01-11T02:16:56.651690'
 enhancement_provider: perplexity
 entry_created: '2026-01-11T02:16:56.651699'
 external_urls:
-  spotify: https://open.spotify.com/artist/0uJBWhCnadTqwlusFKr2Ri
+  spotify: 'https://open.spotify.com/artist/0uJBWhCnadTqwlusFKr2Ri'
   wikipedia: ''
 genres:
-- brass band
-- cajun
+  - brass band
+  - cajun
 image_path: 03_Resources/source_material/ArtistPortraits/coolbone_brass_band.jpg
 last_updated: '2026-01-11T02:16:56.651700'
 musical_connections:
   collaborators:
-  - Steven “Coolbone” Johnson
-  - Ronell Johnson
+    - Steven “Coolbone” Johnson
+    - Ronell Johnson
   influenced: []
   mentors:
-  - Dirty Dozen Brass Band
-  - Rebirth Brass Band
+    - Dirty Dozen Brass Band
+    - Rebirth Brass Band
 network_extracted: true
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://folkways-media.si.edu/docs/folkways/artwork/SFW40212.pdf
-- https://hip-hop-music.fandom.com/wiki/Coolbone
-- https://www.allmusic.com/artist/coolbone-brass-band-mn0001655242
-- https://music.apple.com/us/artist/coolbone-brass-band/310224548
-- https://www.offbeat.com/articles/my-music-with-ronell-johnson/
-- https://www.jazzmusicarchives.com/artist/coolbone-brass-band
-- https://jazztimes.com/archives/coolbone-brass-hop/
+  - 'https://folkways-media.si.edu/docs/folkways/artwork/SFW40212.pdf'
+  - 'https://hip-hop-music.fandom.com/wiki/Coolbone'
+  - 'https://www.allmusic.com/artist/coolbone-brass-band-mn0001655242'
+  - 'https://music.apple.com/us/artist/coolbone-brass-band/310224548'
+  - 'https://www.offbeat.com/articles/my-music-with-ronell-johnson/'
+  - 'https://www.jazzmusicarchives.com/artist/coolbone-brass-band'
+  - 'https://jazztimes.com/archives/coolbone-brass-hop/'
 spotify_data:
   followers: 315
   id: 0uJBWhCnadTqwlusFKr2Ri
   popularity: 0
-  url: https://open.spotify.com/artist/0uJBWhCnadTqwlusFKr2Ri
+  url: 'https://open.spotify.com/artist/0uJBWhCnadTqwlusFKr2Ri'
 status: active
 title: Coolbone Brass Band
+artist_type: band
 ---
 
 ![](coolbone_brass_band.jpg)

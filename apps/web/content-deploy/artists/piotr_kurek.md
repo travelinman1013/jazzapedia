@@ -4,14 +4,18 @@ wiki_slug: piotr-kurek
 schema_version: 2
 artist_type: person
 status: active
-birth_place: Biłgoraj, Lublin Voivodeship, Poland (birthplace); Warsaw, Poland (current base)
+birth_place: >-
+  Biłgoraj, Lublin Voivodeship, Poland (birthplace); Warsaw, Poland (current
+  base)
 genres:
-- experimental
+  - experimental
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/piotr_kurek.jpg
   caption: Piotr Kurek
   background: solo_singer
-  origin: Biłgoraj, Lublin Voivodeship, Poland (birthplace); Warsaw, Poland (current base)
+  origin: >-
+    Biłgoraj, Lublin Voivodeship, Poland (birthplace); Warsaw, Poland (current
+    base)
 audio_profile:
   tempo_avg: 121.4
   energy_avg: 0.223
@@ -27,52 +31,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Marcin Stefański
-  - Hubert Zemler
-  - Francesco De Gallo
-  - Sylvia Monnier
+    - Marcin Stefański
+    - Hubert Zemler
+    - Francesco De Gallo
+    - Sylvia Monnier
   influenced:
-  - Polish experimental and electronic musicians
+    - Polish experimental and electronic musicians
   mentors:
-  - Classical and jazz traditions
+    - Classical and jazz traditions
 spotify_data:
   followers: 4754
   id: 0mneo6UHjcOtZBm1Tw8t67
   popularity: 19
-  url: https://open.spotify.com/artist/0mneo6UHjcOtZBm1Tw8t67
+  url: 'https://open.spotify.com/artist/0mneo6UHjcOtZBm1Tw8t67'
 discography_enriched: true
 top_tracks:
-- Try To Be True (Try To Be True)
-- Ceilings (Greyhound Days)
-- Days (Greyhound Days)
-- Shadows (Greyhound Days)
-- Breath, Held (Greyhound Days)
-- Now I'm Broken Into (Greyhound Days)
-- Lily's Trace (Greyhound Days)
-- Aerials (Greyhound Days)
-- Klamm (Smartwoods)
-- Smartwoods (Smartwoods)
+  - Try To Be True (Try To Be True)
+  - Ceilings (Greyhound Days)
+  - Days (Greyhound Days)
+  - Shadows (Greyhound Days)
+  - 'Breath, Held (Greyhound Days)'
+  - Now I'm Broken Into (Greyhound Days)
+  - Lily's Trace (Greyhound Days)
+  - Aerials (Greyhound Days)
+  - Klamm (Smartwoods)
+  - Smartwoods (Smartwoods)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/576d97bb-53d4-445b-8a15-2efcf87d416d
-  spotify: https://open.spotify.com/artist/0mneo6UHjcOtZBm1Tw8t67
+  musicbrainz: 'https://musicbrainz.org/artist/576d97bb-53d4-445b-8a15-2efcf87d416d'
+  spotify: 'https://open.spotify.com/artist/0mneo6UHjcOtZBm1Tw8t67'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/piotr_kurek.jpg
 biography_enhanced_at: '2025-11-14T10:31:36.917279'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://archive2013-2020.ctm-festival.de/archive/all-artists/p-t/piotr-kurek/
-- https://zkm.de/en/person/piotr-kurek
-- https://www.radiopanik.org/emissions/moacrealsloa/piotr-kurek/
-- https://piotrkurek.bandcamp.com
-- https://culture.pl/en/artist/piotr-kurek
-- https://sanatoriumofsound.com/artists/piotr-kurek/
-- https://shapeplatform.eu/artist/piotr-kurek/
+  - >-
+    https://archive2013-2020.ctm-festival.de/archive/all-artists/p-t/piotr-kurek/
+  - 'https://zkm.de/en/person/piotr-kurek'
+  - 'https://www.radiopanik.org/emissions/moacrealsloa/piotr-kurek/'
+  - 'https://piotrkurek.bandcamp.com'
+  - 'https://culture.pl/en/artist/piotr-kurek'
+  - 'https://sanatoriumofsound.com/artists/piotr-kurek/'
+  - 'https://shapeplatform.eu/artist/piotr-kurek/'
 network_extracted: true
 entry_created: '2025-11-14T10:31:36.917290'
 last_updated: '2025-12-23T08:16:14.326723'
 gender: Male
 musicbrainz_id: 576d97bb-53d4-445b-8a15-2efcf87d416d
+origin: 'Warsaw, Poland'
+birth_date: '1978'
 ---
 
 ![](piotr_kurek.jpg)

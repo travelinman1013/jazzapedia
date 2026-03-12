@@ -1,39 +1,43 @@
 ---
 biography_enhanced_at: '2026-01-02T01:24:55.236551'
-birth_place: Takoma Park, Maryland, USA
+birth_place: 'Takoma Park, Maryland, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-02T01:24:55.236557'
 external_urls:
-  spotify: https://open.spotify.com/artist/3PtO465dkHp0EM2qn9SXAm
+  spotify: 'https://open.spotify.com/artist/3PtO465dkHp0EM2qn9SXAm'
   wikipedia: ''
 genres:
-- country blues
-- classic blues
-- blues
+  - country blues
+  - classic blues
+  - blues
 image_path: 03_Resources/source_material/ArtistPortraits/warner_williams.jpg
 last_updated: '2026-01-02T01:24:55.236557'
 musical_connections:
   collaborators:
-  - Jay Summerour
-  - Eric Selvy
+    - Jay Summerour
+    - Eric Selvy
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- http://www.mastersoftraditionalarts.org/artists/359
-- https://mocoshow.com/2021/09/20/local-blues-icon-warner-williams-has-died/
-- https://sweetbitterblues.com/essays/warner-williams-and-jay-summerour/
-- https://folkways.si.edu/warner-williams-with-jay-summerour/blues-highway/music/album/smithsonian
-- https://www.arts.gov/news/press-releases/2021/national-endowment-arts-statement-death-national-heritage-fellow-warner-williams
+  - 'http://www.mastersoftraditionalarts.org/artists/359'
+  - 'https://mocoshow.com/2021/09/20/local-blues-icon-warner-williams-has-died/'
+  - 'https://sweetbitterblues.com/essays/warner-williams-and-jay-summerour/'
+  - >-
+    https://folkways.si.edu/warner-williams-with-jay-summerour/blues-highway/music/album/smithsonian
+  - >-
+    https://www.arts.gov/news/press-releases/2021/national-endowment-arts-statement-death-national-heritage-fellow-warner-williams
 spotify_data:
   followers: 261
   id: 3PtO465dkHp0EM2qn9SXAm
   popularity: 5
-  url: https://open.spotify.com/artist/3PtO465dkHp0EM2qn9SXAm
+  url: 'https://open.spotify.com/artist/3PtO465dkHp0EM2qn9SXAm'
 status: active
-title: warner williams
-
+title: Warner Williams
+origin: 'Takoma Park, Maryland, United States'
+death_date: '2021-09-19'
+artist_type: person
 ---
 
 ![](warner_williams.jpg)

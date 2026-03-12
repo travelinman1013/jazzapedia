@@ -7,13 +7,13 @@ status: active
 birth_date: '1976'
 birth_place: Madrid
 genres:
-- latin jazz
+  - latin jazz
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3f269b66-9a8c-4ade-8f82-6468007798bc
-  name: Emilio Teubal Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3f269b66-9a8c-4ade-8f82-6468007798bc
+    name: Emilio Teubal Trio
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/emilio_teubal.jpg
   caption: Emilio Teubal
@@ -21,7 +21,7 @@ infobox:
   born: '1976'
   origin: Madrid
 audio_profile:
-  tempo_avg: 110.0
+  tempo_avg: 110
   energy_avg: 0.263
   valence_avg: 0.219
   danceability_avg: 0.416
@@ -35,68 +35,73 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sam Sadigursky
-  - John Hadfield
-  - Moto Fukushima
-  - Erik Friedlander
-  - Satoshi Takeishi
-  - Raúl Jaurena
-  - Fernando Otero
-  - Héctor del Curto
-  - Bob Mover
-  - John Benítez
-  - Lucía Pulido
-  - Pedro Giraudo
-  - Fernando Suárez Paz
+    - Sam Sadigursky
+    - John Hadfield
+    - Moto Fukushima
+    - Erik Friedlander
+    - Satoshi Takeishi
+    - Raúl Jaurena
+    - Fernando Otero
+    - Héctor del Curto
+    - Bob Mover
+    - John Benítez
+    - Lucía Pulido
+    - Pedro Giraudo
+    - Fernando Suárez Paz
   influenced:
-  - ''
+    - ''
   mentors:
-  - Marc Copland
-  - Scott Reeves
-  - Bruce Barth
-  - Mike Holober
-  - John Patitucci
-  - Cliff Korman
-  - Ron Carter
+    - Marc Copland
+    - Scott Reeves
+    - Bruce Barth
+    - Mike Holober
+    - John Patitucci
+    - Cliff Korman
+    - Ron Carter
 spotify_data:
   followers: 327
   id: 3GQZI3EylIfe723AlvQmay
   popularity: 1
-  url: https://open.spotify.com/artist/3GQZI3EylIfe723AlvQmay
+  url: 'https://open.spotify.com/artist/3GQZI3EylIfe723AlvQmay'
 discography_enriched: true
 top_tracks:
-- Remolinos (Tolerance) (Futuro)
-- Futuro (Futuro)
-- Etude 1 (Seven Etudes)
-- Etude 2 (Seven Etudes)
-- Etude 3 (Seven Etudes)
-- Etude 4 (alla Brad) (Seven Etudes)
-- 'Oblivion (feat. Emilio Teubal) (Sur: Violin Music of Argentina)'
-- Cartuchín (El Aleph (Cámara))
-- Por Si Las Dudas (Por Si Las Dudas)
-- La Urgencia y la Vagancia (Rioba)
+  - Remolinos (Tolerance) (Futuro)
+  - Futuro (Futuro)
+  - Etude 1 (Seven Etudes)
+  - Etude 2 (Seven Etudes)
+  - Etude 3 (Seven Etudes)
+  - Etude 4 (alla Brad) (Seven Etudes)
+  - 'Oblivion (feat. Emilio Teubal) (Sur: Violin Music of Argentina)'
+  - Cartuchín (El Aleph (Cámara))
+  - Por Si Las Dudas (Por Si Las Dudas)
+  - La Urgencia y la Vagancia (Rioba)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6478ca8d-29d0-457c-925d-8251b0aa03aa
-  spotify: https://open.spotify.com/artist/3GQZI3EylIfe723AlvQmay
+  musicbrainz: 'https://musicbrainz.org/artist/6478ca8d-29d0-457c-925d-8251b0aa03aa'
+  spotify: 'https://open.spotify.com/artist/3GQZI3EylIfe723AlvQmay'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/emilio_teubal.jpg
 biography_enhanced_at: '2025-12-11T03:43:07.915618'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Brooklyn Jazz Underground Records – Emilio Teubal artist page and album notes for “Musica Para Un Dragón Dormido”[1]
-- Emilio Teubal official website biography[2]
-- JazzSpeaks feature on Emilio Teubal Ensemble[3]
-- Soapbox Gallery artist description for Emilio Teubal[4]
-- The Dance Hall (Kittery, ME) event bio for Emilio Teubal Trio[5]
-- All About Jazz musician profile for Emilio Teubal[9]
-- Latin Jazz Net review of “Un Montón de Notas”[7]
-- Le Poisson Rouge event listing for “Musica Para Un Dragón Dormido” CD release[8]
+  - >-
+    Brooklyn Jazz Underground Records – Emilio Teubal artist page and album
+    notes for “Musica Para Un Dragón Dormido”[1]
+  - 'Emilio Teubal official website biography[2]'
+  - 'JazzSpeaks feature on Emilio Teubal Ensemble[3]'
+  - 'Soapbox Gallery artist description for Emilio Teubal[4]'
+  - 'The Dance Hall (Kittery, ME) event bio for Emilio Teubal Trio[5]'
+  - 'All About Jazz musician profile for Emilio Teubal[9]'
+  - 'Latin Jazz Net review of “Un Montón de Notas”[7]'
+  - >-
+    Le Poisson Rouge event listing for “Musica Para Un Dragón Dormido” CD
+    release[8]
 network_extracted: true
 entry_created: '2025-12-11T03:43:07.915627'
 last_updated: '2025-12-23T08:16:08.375235'
 gender: Male
 musicbrainz_id: 6478ca8d-29d0-457c-925d-8251b0aa03aa
+origin: 'Buenos Aires, Argentina, South America'
 ---
 
 ![](emilio_teubal.jpg)

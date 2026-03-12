@@ -1,21 +1,21 @@
 ---
-title: cedric Burnside
+title: Cedric Burnside
 wiki_slug: cedric-burnside
 schema_version: 2
 status: active
-birth_place: Memphis, Tennessee (birthplace); Holly Springs, Mississippi, USA (raised)
+birth_place: 'Memphis, Tennessee (birthplace); Holly Springs, Mississippi, USA (raised)'
 genres:
-- blues
-- blues rock
-- classic blues
-- country blues
-- modern blues
-- roots rock
+  - blues
+  - blues rock
+  - classic blues
+  - country blues
+  - modern blues
+  - roots rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/cedric_Burnside.jpg
   caption: cedric Burnside
   background: solo_singer
-  origin: Memphis, Tennessee (birthplace); Holly Springs, Mississippi, USA (raised)
+  origin: 'Memphis, Tennessee (birthplace); Holly Springs, Mississippi, USA (raised)'
 audio_profile:
   tempo_avg: 116.3
   energy_avg: 0.655
@@ -31,46 +31,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lightnin’ Malcolm
-  - North Mississippi Allstars
-  - Bobby Rush
+    - Lightnin’ Malcolm
+    - North Mississippi Allstars
+    - Bobby Rush
   influenced:
-  - Sharde Thomas
+    - Sharde Thomas
   mentors:
-  - R.L. Burnside
+    - R.L. Burnside
 spotify_data:
   followers: 38702
   id: 5tuhrLilxNi6N7D6VeQZnc
   popularity: 37
-  url: https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc
+  url: 'https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc'
 discography_enriched: true
 top_tracks:
-- Wang Dang Doodle (Sinners (Original Motion Picture Soundtrack))
-- We Made It (Benton County Relic)
-- Step In (I Be Trying)
-- Catfish (Catfish)
-- Shake Em On Down (Hill Country Love)
-- Juke Joint (Hill Country Love)
-- Please Tell Me Baby (Benton County Relic)
-- Out on the Road (Up and Rolling)
-- Funky (Hill Country Love)
-- Hill Country Love (Hill Country Love)
+  - Wang Dang Doodle (Sinners (Original Motion Picture Soundtrack))
+  - We Made It (Benton County Relic)
+  - Step In (I Be Trying)
+  - Catfish (Catfish)
+  - Shake Em On Down (Hill Country Love)
+  - Juke Joint (Hill Country Love)
+  - Please Tell Me Baby (Benton County Relic)
+  - Out on the Road (Up and Rolling)
+  - Funky (Hill Country Love)
+  - Hill Country Love (Hill Country Love)
 external_urls:
-  spotify: https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc
-  wikipedia: https://en.wikipedia.org/wiki/Cedric_Burnside
+  spotify: 'https://open.spotify.com/artist/5tuhrLilxNi6N7D6VeQZnc'
+  wikipedia: 'https://en.wikipedia.org/wiki/Cedric_Burnside'
 image_path: 03_Resources/source_material/ArtistPortraits/cedric_Burnside.jpg
 biography_enhanced_at: '2025-10-19T10:41:53.004411'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://pryorcenter.uark.edu/interview.php?thisProject=King+Biscuit+Blues+Festival&thisProfileURL=BURNSIDE-Cedric&displayName=&thisInterviewee=488
-- https://www.arts.gov/honors/heritage/cedric-burnside
-- https://jazzaspensnowmass.org/getting-to-know-cedric-burnside/
-- https://www.singlelock.com/cedric
-- https://nelsonvillefest.org/artist/cedric-burnside/
+  - >-
+    https://pryorcenter.uark.edu/interview.php?thisProject=King+Biscuit+Blues+Festival&thisProfileURL=BURNSIDE-Cedric&displayName=&thisInterviewee=488
+  - 'https://www.arts.gov/honors/heritage/cedric-burnside'
+  - 'https://jazzaspensnowmass.org/getting-to-know-cedric-burnside/'
+  - 'https://www.singlelock.com/cedric'
+  - 'https://nelsonvillefest.org/artist/cedric-burnside/'
 network_extracted: true
 entry_created: '2025-10-19T10:41:53.004425'
 last_updated: '2025-12-23T08:16:06.597943'
+birth_date: '1978-08-26'
+artist_type: person
 ---
 
 ![](cedric_Burnside.jpg)

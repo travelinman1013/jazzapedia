@@ -1,15 +1,15 @@
 ---
-title: BERT LOWN AND HIS ORCHESTRA
+title: Bert Lown and His Orchestra
 wiki_slug: bert-lown-and-his-orchestra
 schema_version: 2
 status: active
-birth_place: White Plains, New York, United States
+birth_place: 'White Plains, New York, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bert_lown_and_his_orchestra.jpg
   caption: BERT LOWN AND HIS ORCHESTRA
   background: solo_singer
-  origin: White Plains, New York, United States
+  origin: 'White Plains, New York, United States'
 audio_profile:
   tempo_avg: 101.4
   energy_avg: 0.111
@@ -25,39 +25,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Elmer Feldkamp
-  - Dave Bennett
-  - Chauncey Gray
+    - Elmer Feldkamp
+    - Dave Bennett
+    - Chauncey Gray
   influenced: []
   mentors:
-  - Fred Hamm
+    - Fred Hamm
 spotify_data:
   followers: 30
   id: 7vSsvIzx8aFWKoG0CmZkgM
   popularity: 2
-  url: https://open.spotify.com/artist/7vSsvIzx8aFWKoG0CmZkgM
+  url: 'https://open.spotify.com/artist/7vSsvIzx8aFWKoG0CmZkgM'
 discography_enriched: true
 top_tracks:
-- 'You''re the One I Care for (Vintage Music: Original Classics from the 1920s and 1930s)'
-- Your the One I Care For (Original Dance Music of the 1920s / 1930s, Vol. 1)
-- You're The One I Care For (Bonnie & Clyde - The Music They Lived And Died By)
+  - >-
+    You're the One I Care for (Vintage Music: Original Classics from the 1920s
+    and 1930s)
+  - 'Your the One I Care For (Original Dance Music of the 1920s / 1930s, Vol. 1)'
+  - >-
+    You're The One I Care For (Bonnie & Clyde - The Music They Lived And Died
+    By)
 external_urls:
-  spotify: https://open.spotify.com/artist/7vSsvIzx8aFWKoG0CmZkgM
+  spotify: 'https://open.spotify.com/artist/7vSsvIzx8aFWKoG0CmZkgM'
   wikipedia: Not found in search results
 image_path: ''
 biography_enhanced_at: '2025-11-27T06:30:20.877503'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- YouTube - Bert Lown & His Hotel Biltmore Music - Through, 1930
-- Swing Street Radio - Bert Lown performer profile
-- IMDb - Bert Lown
-- AllMusic - Bert Lown biography
-- Free Library catalog - Bert Lown author profile
-- DRAM Online - Bert Lown composer profile
+  - 'YouTube - Bert Lown & His Hotel Biltmore Music - Through, 1930'
+  - Swing Street Radio - Bert Lown performer profile
+  - IMDb - Bert Lown
+  - AllMusic - Bert Lown biography
+  - Free Library catalog - Bert Lown author profile
+  - DRAM Online - Bert Lown composer profile
 network_extracted: true
 entry_created: '2025-11-27T06:30:20.877521'
 last_updated: '2025-12-23T08:16:05.343510'
+birth_date: '1903-06-06'
+death_date: '1962-11-20'
+artist_type: person
 ---
 
 ![]()

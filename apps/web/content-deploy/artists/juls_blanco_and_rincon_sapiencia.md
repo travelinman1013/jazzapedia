@@ -3,7 +3,7 @@ biography_enhanced_at: '2025-12-28T01:58:25.145522'
 enhancement_provider: perplexity
 entry_created: '2025-12-28T01:58:25.145547'
 external_urls:
-  spotify: https://open.spotify.com/artist/59fzbmiSDAofJvVoTdRV3w
+  spotify: 'https://open.spotify.com/artist/59fzbmiSDAofJvVoTdRV3w'
   wikipedia: ''
 genres: []
 image_path: ''
@@ -19,9 +19,10 @@ spotify_data:
   followers: 15
   id: 59fzbmiSDAofJvVoTdRV3w
   popularity: 4
-  url: https://open.spotify.com/artist/59fzbmiSDAofJvVoTdRV3w
+  url: 'https://open.spotify.com/artist/59fzbmiSDAofJvVoTdRV3w'
 status: active
-title: juls, blanco & rincon sapiencia
+title: 'Juls, Blanco & Rincon Sapiencia'
+artist_type: band
 ---
 
 ![]()

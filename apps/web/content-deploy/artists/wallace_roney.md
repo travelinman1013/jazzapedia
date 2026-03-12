@@ -1,82 +1,85 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 7765c5a1-ca9c-4a4c-adda-a6841d3f5d09
-  name: Jazz Soul Seven
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: 36935e97-a6c4-43f5-a257-3047fae6ccc1
-  name: Powerhouse
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: 2f374fe8-8942-4d81-a5ac-92f76407993d
-  name: Future 2 Future
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 7765c5a1-ca9c-4a4c-adda-a6841d3f5d09
+    name: Jazz Soul Seven
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: 36935e97-a6c4-43f5-a257-3047fae6ccc1
+    name: Powerhouse
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: 2f374fe8-8942-4d81-a5ac-92f76407993d
+    name: Future 2 Future
 biography_enhanced_at: '2026-01-20T01:25:00.737707'
 birth_date: '1960-05-25'
-birth_place: Philadelphia
+birth_place: 'Philadelphia, Pennsylvania, United States'
 death_date: '2020-03-31'
 disambiguation: jazz trumpeter
 enhancement_provider: perplexity
 entry_created: '2026-01-20T01:25:00.737714'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/30907194-57ca-4c7f-8e10-8c2883799052
-  spotify: https://open.spotify.com/artist/2SfO2W7dVwEov6TpQW2uOg
-  wikipedia: https://en.wikipedia.org/wiki/Wallace_Roney
+  musicbrainz: 'https://musicbrainz.org/artist/30907194-57ca-4c7f-8e10-8c2883799052'
+  spotify: 'https://open.spotify.com/artist/2SfO2W7dVwEov6TpQW2uOg'
+  wikipedia: 'https://en.wikipedia.org/wiki/Wallace_Roney'
 gender: Male
 genres:
-- jazz
-- jazz ballads
+  - jazz
+  - jazz ballads
 image_path: 03_Resources/source_material/ArtistPortraits/wallace_roney.jpg
 instruments:
-- original
-- trumpet
+  - original
+  - trumpet
 last_updated: '2026-01-20T01:25:00.737715'
 musical_connections:
   collaborators:
-  - Art Blakey
-  - Tony Williams
-  - Herbie Hancock
-  - Wayne Shorter
-  - Ron Carter
-  - Cedar Walton
-  - Geri Allen
-  - Meshell Ndegéocello
+    - Art Blakey
+    - Tony Williams
+    - Herbie Hancock
+    - Wayne Shorter
+    - Ron Carter
+    - Cedar Walton
+    - Geri Allen
+    - Meshell Ndegéocello
   influenced: []
   mentors:
-  - Miles Davis
-  - Clark Terry
-  - Dizzy Gillespie
-  - Langston Fitzgerald
-  - Sigmund Hering
+    - Miles Davis
+    - Clark Terry
+    - Dizzy Gillespie
+    - Langston Fitzgerald
+    - Sigmund Hering
 musicbrainz_id: 30907194-57ca-4c7f-8e10-8c2883799052
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Wallace_Roney
-- https://www.laphil.com/musicdb/artists/4557/wallace-roney
-- https://trumpetguild.org/content/itg-news/1834-in-memoriam-wallace-roney-1960-2020
-- https://www.wrti.org/arts-desk/2020-09-15/jazz-philadelphias-hometown-heroes-spotlight-on-trumpeter-wallace-roney
-- https://thevelvetnote.com/wallace-roney/
-- https://www.namm.org/library/oral-history/wallace-roney
+  - 'https://en.wikipedia.org/wiki/Wallace_Roney'
+  - 'https://www.laphil.com/musicdb/artists/4557/wallace-roney'
+  - >-
+    https://trumpetguild.org/content/itg-news/1834-in-memoriam-wallace-roney-1960-2020
+  - >-
+    https://www.wrti.org/arts-desk/2020-09-15/jazz-philadelphias-hometown-heroes-spotlight-on-trumpeter-wallace-roney
+  - 'https://thevelvetnote.com/wallace-roney/'
+  - 'https://www.namm.org/library/oral-history/wallace-roney'
 spotify_data:
   followers: 11186
   id: 2SfO2W7dVwEov6TpQW2uOg
   popularity: 21
-  url: https://open.spotify.com/artist/2SfO2W7dVwEov6TpQW2uOg
+  url: 'https://open.spotify.com/artist/2SfO2W7dVwEov6TpQW2uOg'
 status: active
 tags:
-- american trumpetist
-- death by covid-19
-- hard bop
+  - american trumpetist
+  - death by covid-19
+  - hard bop
 title: Wallace Roney
+is_active: false
 ---
 
 ![](wallace_roney.jpg)

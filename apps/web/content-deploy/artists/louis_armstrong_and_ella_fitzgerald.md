@@ -1,15 +1,16 @@
 ---
-title: LOUIS ARMSTRONG & ELLA FITZGERALD
+title: Louis Armstrong & Ella Fitzgerald
 wiki_slug: louis-armstrong-ella-fitzgerald
 schema_version: 2
 status: active
 genres:
-- swing music
-- vocal jazz
-- big band
-- jazz
+  - swing music
+  - vocal jazz
+  - big band
+  - jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/louis_armstrong_and_ella_fitzgerald.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/louis_armstrong_and_ella_fitzgerald.jpg
   caption: LOUIS ARMSTRONG & ELLA FITZGERALD
   background: solo_singer
 audio_profile:
@@ -27,57 +28,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Oscar Peterson Trio
-  - Buddy Rich
-  - Louie Bellson
-  - Bob Haggart’s Orchestra
-  - Sy Oliver’s Orchestra
-  - Duke Ellington
+    - Oscar Peterson Trio
+    - Buddy Rich
+    - Louie Bellson
+    - Bob Haggart’s Orchestra
+    - Sy Oliver’s Orchestra
+    - Duke Ellington
   influenced:
-  - Billie Holiday
-  - Bing Crosby
-  - Later jazz and pop vocal duos
+    - Billie Holiday
+    - Bing Crosby
+    - Later jazz and pop vocal duos
   mentors:
-  - Chick Webb
-  - King Oliver
-  - Dizzy Gillespie
-  - Norman Granz
+    - Chick Webb
+    - King Oliver
+    - Dizzy Gillespie
+    - Norman Granz
 spotify_data:
   followers: 16576
   id: 0ZXEk4WDiPwEkjG6pQ408i
   popularity: 25
-  url: https://open.spotify.com/artist/0ZXEk4WDiPwEkjG6pQ408i
+  url: 'https://open.spotify.com/artist/0ZXEk4WDiPwEkjG6pQ408i'
 discography_enriched: true
 top_tracks:
-- Cheek To Cheek (What A Wonderful Duet)
-- They Can't Take That Away From Me (What A Wonderful Duet)
-- Our Love Is Here To Stay (Tenderly)
-- Dream A Little Dream Of Me (What A Wonderful Duet)
-- Can Anyone Explain?
-- On The Sunny Side of The Street (New Orleans Alone)
-- Summertime
-- Stormy Weather (Tenderly)
-- A Fine Romance - Remastered (Ella & Louis (Remastered))
-- You Say Tomato, I say Tomato (Tenderly)
+  - Cheek To Cheek (What A Wonderful Duet)
+  - They Can't Take That Away From Me (What A Wonderful Duet)
+  - Our Love Is Here To Stay (Tenderly)
+  - Dream A Little Dream Of Me (What A Wonderful Duet)
+  - Can Anyone Explain?
+  - On The Sunny Side of The Street (New Orleans Alone)
+  - Summertime
+  - Stormy Weather (Tenderly)
+  - A Fine Romance - Remastered (Ella & Louis (Remastered))
+  - 'You Say Tomato, I say Tomato (Tenderly)'
 external_urls:
-  spotify: https://open.spotify.com/artist/0ZXEk4WDiPwEkjG6pQ408i
-  wikipedia: https://en.wikipedia.org/wiki/Ella_and_Louis
-image_path: 03_Resources/source_material/ArtistPortraits/louis_armstrong_and_ella_fitzgerald.jpg
+  spotify: 'https://open.spotify.com/artist/0ZXEk4WDiPwEkjG6pQ408i'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ella_and_Louis'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/louis_armstrong_and_ella_fitzgerald.jpg
 biography_enhanced_at: '2025-12-12T12:02:15.640936'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Ella_Fitzgerald
-- https://en.wikipedia.org/wiki/Louis_Armstrong
-- https://www.udiscovermusic.com/stories/ella-and-louis-cheek-cheek/
-- https://www.ellafitzgerald.com/biography/
-- https://www.womenshistory.org/education-resources/biographies/ella-fitzgerald
-- https://www.arts.gov/honors/jazz/ella-fitzgerald
-- https://music.si.edu/story/louis-armstrong
+  - 'https://en.wikipedia.org/wiki/Ella_Fitzgerald'
+  - 'https://en.wikipedia.org/wiki/Louis_Armstrong'
+  - 'https://www.udiscovermusic.com/stories/ella-and-louis-cheek-cheek/'
+  - 'https://www.ellafitzgerald.com/biography/'
+  - >-
+    https://www.womenshistory.org/education-resources/biographies/ella-fitzgerald
+  - 'https://www.arts.gov/honors/jazz/ella-fitzgerald'
+  - 'https://music.si.edu/story/louis-armstrong'
 network_extracted: true
 entry_created: '2025-12-12T12:02:15.640950'
 last_updated: '2025-12-23T08:16:12.204832'
-origin: 'Ella Fitzgerald: Newport News, Virginia, United States; Louis Armstrong: New Orleans, Louisiana, United States'
+origin: >-
+  Ella Fitzgerald: Newport News, Virginia, United States; Louis Armstrong: New
+  Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
+birth_date: '1901'
+artist_type: person
 ---
 
 ![](louis_armstrong_and_ella_fitzgerald.jpg)

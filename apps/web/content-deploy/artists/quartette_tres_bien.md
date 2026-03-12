@@ -4,8 +4,8 @@ wiki_slug: quartette-tres-bien
 schema_version: 2
 status: active
 genres:
-- latin jazz
-- acid jazz
+  - latin jazz
+  - acid jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/quartette_tres_bien.jpg
   caption: Quartette Tres Bien
@@ -17,7 +17,7 @@ audio_profile:
   danceability_avg: 0.561
   acousticness_avg: 0.631
   instrumentalness_avg: 0.485
-  loudness_avg: -14.0
+  loudness_avg: -14
   speechiness_avg: 0.048
   liveness_avg: 0.163
   track_count: 49
@@ -25,51 +25,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Richard Simmons
-  - Albert St. James
-  - Percy James
-  - Harold Thompson
-  - Howard Thompson
+    - Richard Simmons
+    - Albert St. James
+    - Percy James
+    - Harold Thompson
+    - Howard Thompson
   influenced:
-  - St. Louis Jazz Musicians
+    - St. Louis Jazz Musicians
   mentors:
-  - Jimmy Forrest
-  - Oliver Nelson
-  - Emmett Carter
+    - Jimmy Forrest
+    - Oliver Nelson
+    - Emmett Carter
 spotify_data:
   followers: 620
   id: 3w1brVCtAaFrZjLs2kRZZz
   popularity: 8
-  url: https://open.spotify.com/artist/3w1brVCtAaFrZjLs2kRZZz
+  url: 'https://open.spotify.com/artist/3w1brVCtAaFrZjLs2kRZZz'
 discography_enriched: true
 top_tracks:
-- Boss Trés Bien (Boss Trés Bien)
-- Boss Trés Bien (Masters At Work Present Latin Verve Sounds)
-- Boss Trés Bien (Lifestyle2 - Latin Jazz Vol 1 (International Version))
-- The Sweetest Sounds (Boss Trés Bien)
-- Love Letters (Boss Trés Bien)
-- I Love Paris (Boss Trés Bien)
-- Days Of Wine And Roses (Boss Trés Bien)
-- Always On Saturday (Boss Trés Bien)
-- Boss Trés Bien (Boss Trés Bien)
-- Tonight (Boss Trés Bien)
+  - Boss Trés Bien (Boss Trés Bien)
+  - Boss Trés Bien (Masters At Work Present Latin Verve Sounds)
+  - Boss Trés Bien (Lifestyle2 - Latin Jazz Vol 1 (International Version))
+  - The Sweetest Sounds (Boss Trés Bien)
+  - Love Letters (Boss Trés Bien)
+  - I Love Paris (Boss Trés Bien)
+  - Days Of Wine And Roses (Boss Trés Bien)
+  - Always On Saturday (Boss Trés Bien)
+  - Boss Trés Bien (Boss Trés Bien)
+  - Tonight (Boss Trés Bien)
 external_urls:
-  spotify: https://open.spotify.com/artist/3w1brVCtAaFrZjLs2kRZZz
-  wikipedia: https://en.wikipedia.org/wiki/Quartette_Tr%C3%A9s_Bien
+  spotify: 'https://open.spotify.com/artist/3w1brVCtAaFrZjLs2kRZZz'
+  wikipedia: 'https://en.wikipedia.org/wiki/Quartette_Tr%C3%A9s_Bien'
 image_path: 03_Resources/source_material/ArtistPortraits/quartette_tres_bien.jpg
 biography_enhanced_at: '2025-11-26T07:50:24.118925'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Quartette_Tr%C3%A9s_Bien
-- https://radiospy.net/artists/91236-quartette_trs_bien/
-- https://www.tracklib.com/music/artists/quartet-tres-bien
-- https://egrojworld.blogspot.com/2018/03/quartette-tres-bien-four-of-kind.html
-- http://soundological.blogspot.com/2009/11/quartette-tres-bien-kilimanjaro.html
+  - 'https://en.wikipedia.org/wiki/Quartette_Tr%C3%A9s_Bien'
+  - 'https://radiospy.net/artists/91236-quartette_trs_bien/'
+  - 'https://www.tracklib.com/music/artists/quartet-tres-bien'
+  - >-
+    https://egrojworld.blogspot.com/2018/03/quartette-tres-bien-four-of-kind.html
+  - >-
+    http://soundological.blogspot.com/2009/11/quartette-tres-bien-kilimanjaro.html
 network_extracted: true
 entry_created: '2025-11-26T07:50:24.118932'
 last_updated: '2025-12-23T08:16:14.489887'
-origin: St. Louis, Missouri, United States
+origin: 'St. Louis, Missouri, United States'
+artist_type: band
 ---
 
 ![](quartette_tres_bien.jpg)

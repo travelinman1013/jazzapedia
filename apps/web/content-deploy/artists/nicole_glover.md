@@ -3,22 +3,22 @@ title: Nicole Glover
 wiki_slug: nicole-glover
 schema_version: 2
 status: active
-birth_place: Portland, Oregon, USA
+birth_place: 'Portland, Oregon, USA'
 genres:
-- hard bop
+  - hard bop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/nicole_glover.jpg
   caption: Nicole Glover
   background: solo_singer
-  origin: Portland, Oregon, USA
+  origin: 'Portland, Oregon, USA'
 audio_profile:
-  tempo_avg: 119.0
+  tempo_avg: 119
   energy_avg: 0.383
   valence_avg: 0.393
   danceability_avg: 0.424
   acousticness_avg: 0.708
   instrumentalness_avg: 0.42
-  loudness_avg: -12.0
+  loudness_avg: -12
   speechiness_avg: 0.048
   liveness_avg: 0.126
   track_count: 50
@@ -26,53 +26,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Esperanza Spalding
-  - George Colligan
-  - Alan Jones
-  - Ural Thomas and the Pain
-  - Buika
-  - ARTEMIS
+    - Esperanza Spalding
+    - George Colligan
+    - Alan Jones
+    - Ural Thomas and the Pain
+    - Buika
+    - ARTEMIS
   influenced:
-  - Students at New York Jazz Workshop and Manhattan School of Music
+    - Students at New York Jazz Workshop and Manhattan School of Music
   mentors:
-  - Mulgrew Miller
-  - Harold Mabern
-  - Rich Perry
-  - Her father
+    - Mulgrew Miller
+    - Harold Mabern
+    - Rich Perry
+    - Her father
 spotify_data:
   followers: 1507
   id: 3b45vGS2YWLMEzUE0R5PhT
   popularity: 15
-  url: https://open.spotify.com/artist/3b45vGS2YWLMEzUE0R5PhT
+  url: 'https://open.spotify.com/artist/3b45vGS2YWLMEzUE0R5PhT'
 discography_enriched: true
 top_tracks:
-- Tell Him I Said Hello (Tell Him I Said Hello)
-- Obsidian (Memories, Dreams, Reflections)
-- No. 2 (Memories, Dreams, Reflections)
-- Petrichor (Memories, Dreams, Reflections)
-- Resilience (Memories, Dreams, Reflections)
-- Open During Construction (Open During Construction)
-- The Fox (Plays)
-- Spy (Memories, Dreams, Reflections)
-- Androgeny (Memories, Dreams, Reflections)
-- Broken (Memories, Dreams, Reflections)
+  - Tell Him I Said Hello (Tell Him I Said Hello)
+  - 'Obsidian (Memories, Dreams, Reflections)'
+  - 'No. 2 (Memories, Dreams, Reflections)'
+  - 'Petrichor (Memories, Dreams, Reflections)'
+  - 'Resilience (Memories, Dreams, Reflections)'
+  - Open During Construction (Open During Construction)
+  - The Fox (Plays)
+  - 'Spy (Memories, Dreams, Reflections)'
+  - 'Androgeny (Memories, Dreams, Reflections)'
+  - 'Broken (Memories, Dreams, Reflections)'
 external_urls:
-  spotify: https://open.spotify.com/artist/3b45vGS2YWLMEzUE0R5PhT
+  spotify: 'https://open.spotify.com/artist/3b45vGS2YWLMEzUE0R5PhT'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/nicole_glover.jpg
 biography_enhanced_at: '2025-10-25T10:01:20.584248'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.whirlwindrecordings.com/nicole-glover/
-- https://www.celebrityseries.org/live-performances/artists/details/nicole-glover/
-- https://www.allaboutjazz.com/musicians/nicole-glover/
-- https://www.pdxjazz.org/nicole-glover
-- https://www.nicoleglover.com/about
+  - 'https://www.whirlwindrecordings.com/nicole-glover/'
+  - >-
+    https://www.celebrityseries.org/live-performances/artists/details/nicole-glover/
+  - 'https://www.allaboutjazz.com/musicians/nicole-glover/'
+  - 'https://www.pdxjazz.org/nicole-glover'
+  - 'https://www.nicoleglover.com/about'
 network_extracted: true
 entry_created: '2025-10-25T10:01:20.584268'
 last_updated: '2025-12-23T08:16:13.585751'
-
+artist_type: person
 ---
 
 ![](nicole_glover.jpg)

@@ -3,13 +3,13 @@ title: Arsene Delay
 wiki_slug: arsene-delay
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Arsene_Delay.jpg
   caption: Arsene Delay
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 117.2
   energy_avg: 0.453
@@ -25,51 +25,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Charlie Wooton
-  - Funk Monkey
-  - The Coven, A2D2, Bayou Saints
+    - Charlie Wooton
+    - Funk Monkey
+    - 'The Coven, A2D2, Bayou Saints'
   influenced:
-  - Emerging New Orleans musicians
+    - Emerging New Orleans musicians
   mentors:
-  - John Boutté
-  - Lillian Boutté
+    - John Boutté
+    - Lillian Boutté
 spotify_data:
   followers: 12
   id: 6FdSTYiQt1oclUAVsltsFP
   popularity: 0
-  url: https://open.spotify.com/artist/6FdSTYiQt1oclUAVsltsFP
+  url: 'https://open.spotify.com/artist/6FdSTYiQt1oclUAVsltsFP'
 discography_enriched: true
 top_tracks:
-- Tell Me a Story (feat. Arséne Delay & Sonny Landreth) (Blue Basso)
-- Reflections (feat. Arséne Delay) (Blue Basso)
-- I Don’t Know (feat. Arséne Delay & Damon Fowler) (Blue Basso)
-- One Night (feat. Arséne Delay & Anders Osborne) (Blue Basso)
-- Ain't Misbehavin' (Feels Like Home)
-- I'm Putting All My Eggs In One Basket (Feels Like Home)
-- This Bitter Earth (Feels Like Home)
-- For All We Know (Feels Like Home)
-- Summertime (Feels Like Home)
-- New Orleans Feels Like Home (Feels Like Home)
+  - Tell Me a Story (feat. Arséne Delay & Sonny Landreth) (Blue Basso)
+  - Reflections (feat. Arséne Delay) (Blue Basso)
+  - I Don’t Know (feat. Arséne Delay & Damon Fowler) (Blue Basso)
+  - One Night (feat. Arséne Delay & Anders Osborne) (Blue Basso)
+  - Ain't Misbehavin' (Feels Like Home)
+  - I'm Putting All My Eggs In One Basket (Feels Like Home)
+  - This Bitter Earth (Feels Like Home)
+  - For All We Know (Feels Like Home)
+  - Summertime (Feels Like Home)
+  - New Orleans Feels Like Home (Feels Like Home)
 external_urls:
-  spotify: https://open.spotify.com/artist/6FdSTYiQt1oclUAVsltsFP
+  spotify: 'https://open.spotify.com/artist/6FdSTYiQt1oclUAVsltsFP'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/Arsene_Delay.jpg
 biography_enhanced_at: '2025-10-20T09:22:51.780611'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.youtube.com/watch?v=zBYKulwXfaM
-- https://www.thegiglifepodcast.com/160-charlie-wooton-arsene-delay/
-- https://www.btdfoundation.org/arsene-delay/
-- https://scalawagmagazine.org/2023/06/new-orleans-musicians-clinic/
-- https://www.neworleans.com/listing/ars%C3%A9ne-delay/47478/
-- https://www.frenchquartercourier.com/archives/arsene-delay-engaged-with-home-and-adding-a-verse
-- https://www.lyndensculpturegarden.org/calendar/performances-porch-arsene-delay
-- https://advancementagency.com/arsene-delay
-- https://marvelcinematicuniverse.fandom.com/wiki/Ars%C3%A8ne_DeLay
+  - 'https://www.youtube.com/watch?v=zBYKulwXfaM'
+  - 'https://www.thegiglifepodcast.com/160-charlie-wooton-arsene-delay/'
+  - 'https://www.btdfoundation.org/arsene-delay/'
+  - 'https://scalawagmagazine.org/2023/06/new-orleans-musicians-clinic/'
+  - 'https://www.neworleans.com/listing/ars%C3%A9ne-delay/47478/'
+  - >-
+    https://www.frenchquartercourier.com/archives/arsene-delay-engaged-with-home-and-adding-a-verse
+  - >-
+    https://www.lyndensculpturegarden.org/calendar/performances-porch-arsene-delay
+  - 'https://advancementagency.com/arsene-delay'
+  - 'https://marvelcinematicuniverse.fandom.com/wiki/Ars%C3%A8ne_DeLay'
 network_extracted: true
 entry_created: '2025-10-20T09:22:51.780622'
 last_updated: '2025-12-23T08:16:01.049668'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](Arsene_Delay.jpg)

@@ -1,39 +1,39 @@
 ---
-title: ROSEMARY CLOONEY
+title: Rosemary Clooney
 wiki_slug: rosemary-clooney
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1928-05-23'
-birth_place: Maysville
+birth_place: 'Maysville, Kentucky, United States'
 death_date: '2002-06-29'
 genres:
-- vocal jazz
-- big band
+  - vocal jazz
+  - big band
 instruments:
-- lead vocals
-- vocal
+  - lead vocals
+  - vocal
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ba4e368c-76b1-4cc5-891f-3c575cdbd710
-  name: Barney Rapp and His Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f0ce8981-5576-4604-8b14-562ead5adf29
-  name: Tony Pastor & His Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 22aae2a9-f384-4dbf-9dbd-4f371b8c7ac0
-  name: Clooney Sisters
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 14fe88a2-bd05-4ad2-891e-440f82c5ade7
-  name: Helen O'Connell, Rosemary Clooney, Rose Marie, Margaret Whiting
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ba4e368c-76b1-4cc5-891f-3c575cdbd710
+    name: Barney Rapp and His Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f0ce8981-5576-4604-8b14-562ead5adf29
+    name: Tony Pastor & His Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 22aae2a9-f384-4dbf-9dbd-4f371b8c7ac0
+    name: Clooney Sisters
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 14fe88a2-bd05-4ad2-891e-440f82c5ade7
+    name: 'Helen O''Connell, Rosemary Clooney, Rose Marie, Margaret Whiting'
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/rosemary_clooney.jpg
   caption: ROSEMARY CLOONEY
@@ -47,7 +47,7 @@ audio_profile:
   valence_avg: 0.567
   danceability_avg: 0.562
   acousticness_avg: 0.846
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -11.7
   speechiness_avg: 0.062
   liveness_avg: 0.174
@@ -56,56 +56,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Betty Clooney
-  - Duke Ellington
-  - Billy Strayhorn
-  - Bing Crosby
+    - Betty Clooney
+    - Duke Ellington
+    - Billy Strayhorn
+    - Bing Crosby
   influenced:
-  - Diana Krall
-  - Linda Ronstadt
+    - Diana Krall
+    - Linda Ronstadt
   mentors:
-  - Tony Pastor
-  - Bing Crosby
+    - Tony Pastor
+    - Bing Crosby
 spotify_data:
   followers: 147346
   id: 0NkyXWGxE3WTFixDSJ39PK
   popularity: 47
-  url: https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK
+  url: 'https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK'
 discography_enriched: true
 top_tracks:
-- Mambo Italiano (with The Mellomen) - 78rpm Version (The Essential Rosemary Clooney)
-- In the Cool, Cool, Cool of the Evening (with Harry James & Harry James' Orchestra) (The Essential Rosemary Clooney)
-- You Make Me Feel so Young (The Essential Rosemary Clooney)
-- Come On-A My House (The Essential Rosemary Clooney)
-- Sway (with Pérez Prado y Su Orquesta)
-- I've Got You Under My Skin (Sings The Music Of Cole Porter)
-- Snow (with Percy Faith & His Orchestra) (Irving Berlin's "White Christmas")
-- Botch-A-Me (Ba-Ba-Baciami Piccina) (The Essential Rosemary Clooney)
-- Blame It On My Youth (with Paul Weston & His Orchestra) (The Essential Rosemary Clooney)
-- 'Tenderly (I Feel a Song Coming On: Lost Radio Recordings)'
+  - >-
+    Mambo Italiano (with The Mellomen) - 78rpm Version (The Essential Rosemary
+    Clooney)
+  - >-
+    In the Cool, Cool, Cool of the Evening (with Harry James & Harry James'
+    Orchestra) (The Essential Rosemary Clooney)
+  - You Make Me Feel so Young (The Essential Rosemary Clooney)
+  - Come On-A My House (The Essential Rosemary Clooney)
+  - Sway (with Pérez Prado y Su Orquesta)
+  - I've Got You Under My Skin (Sings The Music Of Cole Porter)
+  - Snow (with Percy Faith & His Orchestra) (Irving Berlin's "White Christmas")
+  - Botch-A-Me (Ba-Ba-Baciami Piccina) (The Essential Rosemary Clooney)
+  - >-
+    Blame It On My Youth (with Paul Weston & His Orchestra) (The Essential
+    Rosemary Clooney)
+  - 'Tenderly (I Feel a Song Coming On: Lost Radio Recordings)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b6f69ada-cb4f-4083-913f-a00f47bfbe4b
-  spotify: https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK
-  wikipedia: https://en.wikipedia.org/wiki/Rosemary_Clooney
+  musicbrainz: 'https://musicbrainz.org/artist/b6f69ada-cb4f-4083-913f-a00f47bfbe4b'
+  spotify: 'https://open.spotify.com/artist/0NkyXWGxE3WTFixDSJ39PK'
+  wikipedia: 'https://en.wikipedia.org/wiki/Rosemary_Clooney'
 image_path: 03_Resources/source_material/ArtistPortraits/rosemary_clooney.jpg
 biography_enhanced_at: '2025-11-24T08:36:05.286874'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.britannica.com/biography/Rosemary-Clooney
-- https://en.wikipedia.org/wiki/Rosemary_Clooney
-- https://www.allaboutjazz.com/musicians/rosemary-clooney
-- https://www.rosemaryclooney.com/biography.html
-- https://concord.com/artist/rosemary-clooney/
+  - 'https://www.britannica.com/biography/Rosemary-Clooney'
+  - 'https://en.wikipedia.org/wiki/Rosemary_Clooney'
+  - 'https://www.allaboutjazz.com/musicians/rosemary-clooney'
+  - 'https://www.rosemaryclooney.com/biography.html'
+  - 'https://concord.com/artist/rosemary-clooney/'
 network_extracted: true
 entry_created: '2025-11-24T08:36:05.286881'
 last_updated: '2025-12-23T08:16:15.073049'
 gender: Female
 musicbrainz_id: b6f69ada-cb4f-4083-913f-a00f47bfbe4b
 tags:
-- 2008 universal fire victim
-- american
-- cotm candidate
+  - 2008 universal fire victim
+  - american
+  - cotm candidate
+is_active: false
 ---
 
 ![](rosemary_clooney.jpg)

@@ -5,18 +5,18 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1944-03-07'
-birth_place: Fort Worth
+birth_place: 'Fort Worth, Texas, United States'
 death_date: '1997-01-01'
 genres:
-- americana
-- folk
-- alt country
-- singer-songwriter
+  - americana
+  - folk
+  - alt country
+  - singer-songwriter
 instruments:
-- acoustic guitar
-- guitar
-- spoken vocals
-- lead vocals
+  - acoustic guitar
+  - guitar
+  - spoken vocals
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/townes_van_zandt.jpg
   caption: Townes Van Zandt
@@ -39,59 +39,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Cowboy Jack Clement
-  - Guy Clark
-  - Steve Earle
+    - Cowboy Jack Clement
+    - Guy Clark
+    - Steve Earle
   influenced:
-  - Steve Earle
-  - Emmylou Harris
-  - Gillian Welch
-  - Willie Nelson & Merle Haggard
+    - Steve Earle
+    - Emmylou Harris
+    - Gillian Welch
+    - Willie Nelson & Merle Haggard
   mentors:
-  - Lightnin' Hopkins
-  - Mickey Newbury
-  - Bob Dylan
+    - Lightnin' Hopkins
+    - Mickey Newbury
+    - Bob Dylan
 spotify_data:
   followers: 387229
   id: 3ZWab2LEVkNKiBPIClTwof
   popularity: 52
-  url: https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof
+  url: 'https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof'
 discography_enriched: true
 top_tracks:
-- Waiting Around to Die (Townes Van Zandt)
-- I'll Be Here in the Morning (Townes Van Zandt)
-- Poncho & Lefty (The Late Great Townes Van Zandt)
-- If I Needed You (The Late Great Townes Van Zandt)
-- Lungs (Townes Van Zandt)
-- Dead Flowers (Roadsongs)
-- Fare Thee Well, Miss Carousel (Townes Van Zandt)
-- To Live Is To Fly (High, Low And In Between)
-- Lungs - Live (Live at the Old Quarter, Houston, Texas)
-- Colorado Girl (Townes Van Zandt)
+  - Waiting Around to Die (Townes Van Zandt)
+  - I'll Be Here in the Morning (Townes Van Zandt)
+  - Poncho & Lefty (The Late Great Townes Van Zandt)
+  - If I Needed You (The Late Great Townes Van Zandt)
+  - Lungs (Townes Van Zandt)
+  - Dead Flowers (Roadsongs)
+  - 'Fare Thee Well, Miss Carousel (Townes Van Zandt)'
+  - 'To Live Is To Fly (High, Low And In Between)'
+  - 'Lungs - Live (Live at the Old Quarter, Houston, Texas)'
+  - Colorado Girl (Townes Van Zandt)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d67d1a21-6e45-4dd6-aef0-0191ba3796e0
-  spotify: https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof
-  wikipedia: https://en.wikipedia.org/wiki/Townes_Van_Zandt
+  musicbrainz: 'https://musicbrainz.org/artist/d67d1a21-6e45-4dd6-aef0-0191ba3796e0'
+  spotify: 'https://open.spotify.com/artist/3ZWab2LEVkNKiBPIClTwof'
+  wikipedia: 'https://en.wikipedia.org/wiki/Townes_Van_Zandt'
 image_path: 03_Resources/source_material/ArtistPortraits/townes_van_zandt.jpg
 biography_enhanced_at: '2025-11-24T08:33:29.817411'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.fandango.com/people/townes-van-zandt-697737/biography
-- https://www.tshaonline.org/handbook/entries/van-zandt-john-townes
-- https://en.wikipedia.org/wiki/Townes_Van_Zandt
-- https://societyoldfartsandjackasses.wordpress.com/2014/03/11/the-troubled-life-and-times-of-country-musics-own-townes-van-zandt/
-- https://songstudies.substack.com/p/riding-the-blue-wind-townes-van-zandts
+  - 'https://www.fandango.com/people/townes-van-zandt-697737/biography'
+  - 'https://www.tshaonline.org/handbook/entries/van-zandt-john-townes'
+  - 'https://en.wikipedia.org/wiki/Townes_Van_Zandt'
+  - >-
+    https://societyoldfartsandjackasses.wordpress.com/2014/03/11/the-troubled-life-and-times-of-country-musics-own-townes-van-zandt/
+  - 'https://songstudies.substack.com/p/riding-the-blue-wind-townes-van-zandts'
 network_extracted: true
 entry_created: '2025-11-24T08:33:29.817444'
 last_updated: '2025-12-23T08:16:17.668000'
 gender: Male
 musicbrainz_id: d67d1a21-6e45-4dd6-aef0-0191ba3796e0
 tags:
-- americana
-- contemporary folk
-- country
-
+  - americana
+  - contemporary folk
+  - country
+is_active: false
+origin: 'Houston, Texas, United States'
 ---
 
 ![](townes_van_zandt.jpg)

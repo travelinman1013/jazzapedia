@@ -1,35 +1,36 @@
 ---
 biography_enhanced_at: '2025-12-26T01:19:46.351728'
-birth_place: Philadelphia, Pennsylvania, USA
+birth_place: 'Philadelphia, Pennsylvania, USA'
 enhancement_provider: perplexity
 entry_created: '2025-12-26T01:19:46.351738'
 external_urls:
-  spotify: https://open.spotify.com/artist/0fLmutsoZhBG4tlBVXKKgA
+  spotify: 'https://open.spotify.com/artist/0fLmutsoZhBG4tlBVXKKgA'
   wikipedia: ''
 genres:
-- ragtime
+  - ragtime
 image_path: 03_Resources/source_material/ArtistPortraits/jeremy_joyce.jpg
 last_updated: '2025-12-26T01:19:46.351740'
 musical_connections:
   collaborators:
-  - Adam Arcuragi
+    - Adam Arcuragi
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://americanahighways.org/2022/05/16/review-jeremy-joyce-street-poet/
-- https://music.buffasbar.com/music/joyce/
-- https://soundcloud.com/jeremyjoyce
-- https://www.jeremyjoyce.net
+  - 'https://americanahighways.org/2022/05/16/review-jeremy-joyce-street-poet/'
+  - 'https://music.buffasbar.com/music/joyce/'
+  - 'https://soundcloud.com/jeremyjoyce'
+  - 'https://www.jeremyjoyce.net'
 spotify_data:
   followers: 89
   id: 0fLmutsoZhBG4tlBVXKKgA
   popularity: 0
-  url: https://open.spotify.com/artist/0fLmutsoZhBG4tlBVXKKgA
+  url: 'https://open.spotify.com/artist/0fLmutsoZhBG4tlBVXKKgA'
 status: active
 title: Jeremy Joyce
-
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](jeremy_joyce.jpg)

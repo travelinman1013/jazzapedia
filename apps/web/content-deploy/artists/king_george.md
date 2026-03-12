@@ -1,17 +1,17 @@
 ---
-title: KING GEORGE
+title: King George
 wiki_slug: king-george
 schema_version: 2
 status: active
-birth_place: Hopkins, South Carolina, USA
+birth_place: 'Hopkins, South Carolina, USA'
 genres:
-- footwork
-- blues
+  - footwork
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/king_george.jpg
   caption: KING GEORGE
   background: solo_singer
-  origin: Hopkins, South Carolina, USA
+  origin: 'Hopkins, South Carolina, USA'
 audio_profile:
   tempo_avg: 106.5
   energy_avg: 0.578
@@ -27,46 +27,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - West Love
+    - West Love
   influenced: []
   mentors:
-  - Muddy Waters
-  - Ray Charles
-  - BB King
+    - Muddy Waters
+    - Ray Charles
+    - BB King
 spotify_data:
   followers: 220418
   id: 4da15R0o9ipD6vPVPqYz5D
   popularity: 53
-  url: https://open.spotify.com/artist/4da15R0o9ipD6vPVPqYz5D
+  url: 'https://open.spotify.com/artist/4da15R0o9ipD6vPVPqYz5D'
 discography_enriched: true
 top_tracks:
-- Keep On Rollin (Keep On Rollin)
-- TOO LONG (TOO LONG)
-- Friday Night (Friday Night)
-- Lil Weight (Lil Weight)
-- Leave & Party (Leave & Party)
-- Night-time (Night-time)
-- Girl You Got It (Girl You Got It)
-- Grown Man (Grown Man)
-- U-Turn - Remastered (U-Turn)
-- Can't Judge Nobody (Can't Judge Nobody)
+  - Keep On Rollin (Keep On Rollin)
+  - TOO LONG (TOO LONG)
+  - Friday Night (Friday Night)
+  - Lil Weight (Lil Weight)
+  - Leave & Party (Leave & Party)
+  - Night-time (Night-time)
+  - Girl You Got It (Girl You Got It)
+  - Grown Man (Grown Man)
+  - U-Turn - Remastered (U-Turn)
+  - Can't Judge Nobody (Can't Judge Nobody)
 external_urls:
-  spotify: https://open.spotify.com/artist/4da15R0o9ipD6vPVPqYz5D
+  spotify: 'https://open.spotify.com/artist/4da15R0o9ipD6vPVPqYz5D'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/king_george.jpg
 biography_enhanced_at: '2025-11-21T07:17:41.202611'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.famousbirthdays.com/people/king-george.html
-- https://uaagency.com/one-sheet/king-george-one-sheet/
-- https://www.iheart.com/artist/king-george-35858/
-- https://www.yuenglingcenter.com/news/detail/release-king-george-tucka-pokey-bear-and-more-bring-the-blues-is-alright-tour-to-tampa
-- https://stupiddope.com/2023/03/king-george-the-blues-is-alright-tour/
+  - 'https://www.famousbirthdays.com/people/king-george.html'
+  - 'https://uaagency.com/one-sheet/king-george-one-sheet/'
+  - 'https://www.iheart.com/artist/king-george-35858/'
+  - >-
+    https://www.yuenglingcenter.com/news/detail/release-king-george-tucka-pokey-bear-and-more-bring-the-blues-is-alright-tour-to-tampa
+  - 'https://stupiddope.com/2023/03/king-george-the-blues-is-alright-tour/'
 network_extracted: true
 entry_created: '2025-11-21T07:17:41.202629'
 last_updated: '2025-12-23T08:16:11.381935'
-
+artist_type: person
 ---
 
 ![](king_george.jpg)

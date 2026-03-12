@@ -2,52 +2,52 @@
 artist_type: person
 biography_enhanced_at: '2026-01-01T01:04:15.539236'
 birth_date: '1978'
-birth_place: Chicago
+birth_place: 'Chicago, Illinois, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-01T01:04:15.539251'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/85502373-5337-4990-8e51-4793a0ff68de
-  spotify: https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr
+  musicbrainz: 'https://musicbrainz.org/artist/85502373-5337-4990-8e51-4793a0ff68de'
+  spotify: 'https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr'
   wikipedia: ''
 gender: Male
 genres:
-- vocal jazz
-- smooth jazz
-- jazz
+  - vocal jazz
+  - smooth jazz
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/sachal_vasandani.jpg
 last_updated: '2026-01-01T01:04:15.539253'
 musical_connections:
   collaborators:
-  - Wynton Marsalis
-  - John Clayton
-  - Jon Hendricks
-  - Michael Leonhart
-  - Gerald Clayton
-  - Nate Smith
-  - Bobby McFerrin
+    - Wynton Marsalis
+    - John Clayton
+    - Jon Hendricks
+    - Michael Leonhart
+    - Gerald Clayton
+    - Nate Smith
+    - Bobby McFerrin
   influenced: []
   mentors:
-  - First African American tenor at the Metropolitan Opera
+    - First African American tenor at the Metropolitan Opera
 musicbrainz_id: 85502373-5337-4990-8e51-4793a0ff68de
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://harmoniummusicblog.wordpress.com/2019/07/30/a-jazz-voice-sachal-vasandani/
-- https://www.theforumusvi.org/sachalvasandani
-- https://www.allaboutjazz.com/musicians/sachal-vasandani/
-- https://www.rockwired.com/rockwired_interviews_sachal_vasandani.html
-- https://www.sachalvasandani.com/home-1
-- https://downbeat.com/news/detail/sachel-vasandanis-chill-dance-party
+  - >-
+    https://harmoniummusicblog.wordpress.com/2019/07/30/a-jazz-voice-sachal-vasandani/
+  - 'https://www.theforumusvi.org/sachalvasandani'
+  - 'https://www.allaboutjazz.com/musicians/sachal-vasandani/'
+  - 'https://www.rockwired.com/rockwired_interviews_sachal_vasandani.html'
+  - 'https://www.sachalvasandani.com/home-1'
+  - 'https://downbeat.com/news/detail/sachel-vasandanis-chill-dance-party'
 spotify_data:
   followers: 6700
   id: 4sctitB70tTmziCPMwYJJr
   popularity: 34
-  url: https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr
+  url: 'https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr'
 status: active
 tags:
-- vocal jazz
+  - vocal jazz
 title: Sachal Vasandani
-
 ---
 
 ![](sachal_vasandani.jpg)

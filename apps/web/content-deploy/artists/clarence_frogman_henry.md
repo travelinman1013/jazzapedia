@@ -3,13 +3,13 @@ title: Clarence Frogman Henry
 wiki_slug: clarence-frogman-henry
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, USA'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/clarence_frogman_henry.jpg
   caption: Clarence Frogman Henry
   background: solo_singer
-  origin: New Orleans, Louisiana, USA
+  origin: 'New Orleans, Louisiana, USA'
 audio_profile:
   tempo_avg: null
   energy_avg: null
@@ -21,33 +21,37 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bobby Mitchell
-  - Paul Gayten
-  - Allen Toussaint
+    - Bobby Mitchell
+    - Paul Gayten
+    - Allen Toussaint
   influenced: []
   mentors:
-  - Fats Domino
-  - Professor Longhair
+    - Fats Domino
+    - Professor Longhair
 spotify_data:
   followers: 41
   id: 51pKYojR7R8nltUtZFiegi
   popularity: 0
-  url: https://open.spotify.com/artist/51pKYojR7R8nltUtZFiegi
+  url: 'https://open.spotify.com/artist/51pKYojR7R8nltUtZFiegi'
 discography_enriched: true
 external_urls:
-  spotify: https://open.spotify.com/artist/51pKYojR7R8nltUtZFiegi
-  wikipedia: https://en.wikipedia.org/wiki/Clarence_%22Frogman%22_Henry
+  spotify: 'https://open.spotify.com/artist/51pKYojR7R8nltUtZFiegi'
+  wikipedia: 'https://en.wikipedia.org/wiki/Clarence_%22Frogman%22_Henry'
 image_path: ''
 biography_enhanced_at: '2025-10-28T09:04:14.750314'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.museumofthegulfcoast.org/clarence-henry
-- https://louisianamusichalloffame.org/clarence-henry/
-- https://www.offbeat.com/news/clarence-frogman-henry/
+  - 'https://www.museumofthegulfcoast.org/clarence-henry'
+  - 'https://louisianamusichalloffame.org/clarence-henry/'
+  - 'https://www.offbeat.com/news/clarence-frogman-henry/'
 network_extracted: true
 entry_created: '2025-10-28T09:04:14.750331'
 last_updated: '2025-12-23T08:16:07.023618'
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1937-03-19'
+death_date: '2024-04-07'
+artist_type: person
 ---
 
 ![]()

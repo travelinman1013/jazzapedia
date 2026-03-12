@@ -1,13 +1,14 @@
 ---
-title: Benjamin Koppel, Scott Colley, Brian Blade
+title: KCB Collective
 wiki_slug: benjamin-koppel-scott-colley-brian-blade
 schema_version: 2
 status: active
 genres:
-- dansktop
+  - dansktop
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/Benjamin_Koppel_Scott_Colley_Brian_Blade.jpg
-  caption: Benjamin Koppel, Scott Colley, Brian Blade
+  image: >-
+    03_Resources/source_material/ArtistPortraits/Benjamin_Koppel_Scott_Colley_Brian_Blade.jpg
+  caption: 'Benjamin Koppel, Scott Colley, Brian Blade'
   background: solo_singer
 audio_profile:
   tempo_avg: 112.3
@@ -24,51 +25,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Chris Potter
-  - Joe Lovano
-  - Wayne Shorter
+    - Chris Potter
+    - Joe Lovano
+    - Wayne Shorter
   influenced:
-  - Younger Danish jazz musicians
+    - Younger Danish jazz musicians
   mentors:
-  - Anders Koppel
+    - Anders Koppel
 spotify_data:
   followers: 2318
   id: 6rSihViB4AAFhVp45EKGbY
   popularity: 26
-  url: https://open.spotify.com/artist/6rSihViB4AAFhVp45EKGbY
+  url: 'https://open.spotify.com/artist/6rSihViB4AAFhVp45EKGbY'
 discography_enriched: true
 top_tracks:
-- Lyse Nætter (Alberte Winding/Benjamin Koppel)
-- Se Nu Stiger Solen (Alberte Winding/Benjamin Koppel)
-- Anna's Dollhouse - Single Edit
-- Black Water (Anna's Dollhouse)
-- Farewell My Heart, My House
-- Sweet Loraine
-- The Great Open
-- The Last Mulberry
-- Det Er Hvidt Herude (Alberte Winding/Benjamin Koppel)
-- Free I (The Art of The Quartet - Vol. 1 (Vinyl Remastered Edition))
+  - Lyse Nætter (Alberte Winding/Benjamin Koppel)
+  - Se Nu Stiger Solen (Alberte Winding/Benjamin Koppel)
+  - Anna's Dollhouse - Single Edit
+  - Black Water (Anna's Dollhouse)
+  - 'Farewell My Heart, My House'
+  - Sweet Loraine
+  - The Great Open
+  - The Last Mulberry
+  - Det Er Hvidt Herude (Alberte Winding/Benjamin Koppel)
+  - Free I (The Art of The Quartet - Vol. 1 (Vinyl Remastered Edition))
 external_urls:
-  spotify: https://open.spotify.com/artist/6rSihViB4AAFhVp45EKGbY
-  wikipedia: https://en.wikipedia.org/wiki/Scott_Colley
-image_path: 03_Resources/source_material/ArtistPortraits/Benjamin_Koppel_Scott_Colley_Brian_Blade.jpg
+  spotify: 'https://open.spotify.com/artist/6rSihViB4AAFhVp45EKGbY'
+  wikipedia: 'https://en.wikipedia.org/wiki/Scott_Colley'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/Benjamin_Koppel_Scott_Colley_Brian_Blade.jpg
 biography_enhanced_at: '2025-10-20T09:44:15.567806'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://benjaminkoppel.com/biografi/
-- https://glidemagazine.com/296238/the-collaborative-kcb-collective-benjamin-koppel-scott-colley-brian-blade-deliver-varied-improvisational-session-on-perspective-album-review/
-- https://en.wikipedia.org/wiki/Scott_Colley
-- https://jazzdagama.com/music/anders-koppel-benjamin-koppel-scott-colley-brian-blade-mulberry-street-symphony/
-- https://jazzweekly.com/2023/10/koppel-colley-blade-perspective/
-- https://www.highresaudio.com/en/artist/view/111b25e9-a77e-4fe4-adfc-b0f2f483df29/benjamin-koppel-brian-blade-anders-koppel
-- https://thatcanadianmagazine.com/reviews/albums/benjamin-koppel-regaling-us-with-music-dark-and-light/
-- https://www.allaboutjazz.com/wolfgang-muthspiel-benjamin-koppel-scott-colley-brian-blade-complements-incarnate
+  - 'https://benjaminkoppel.com/biografi/'
+  - >-
+    https://glidemagazine.com/296238/the-collaborative-kcb-collective-benjamin-koppel-scott-colley-brian-blade-deliver-varied-improvisational-session-on-perspective-album-review/
+  - 'https://en.wikipedia.org/wiki/Scott_Colley'
+  - >-
+    https://jazzdagama.com/music/anders-koppel-benjamin-koppel-scott-colley-brian-blade-mulberry-street-symphony/
+  - 'https://jazzweekly.com/2023/10/koppel-colley-blade-perspective/'
+  - >-
+    https://www.highresaudio.com/en/artist/view/111b25e9-a77e-4fe4-adfc-b0f2f483df29/benjamin-koppel-brian-blade-anders-koppel
+  - >-
+    https://thatcanadianmagazine.com/reviews/albums/benjamin-koppel-regaling-us-with-music-dark-and-light/
+  - >-
+    https://www.allaboutjazz.com/wolfgang-muthspiel-benjamin-koppel-scott-colley-brian-blade-complements-incarnate
 network_extracted: true
 entry_created: '2025-10-20T09:44:15.567821'
 last_updated: '2025-12-23T08:16:01.158976'
-origin: Copenhagen, Denmark (Koppel); California, USA (Colley); Shreveport, Louisiana, USA (Blade)
-
+origin: >-
+  Copenhagen, Denmark (Koppel); California, USA (Colley); Shreveport, Louisiana,
+  USA (Blade)
+artist_type: band
 ---
 
 ![](Benjamin_Koppel_Scott_Colley_Brian_Blade.jpg)

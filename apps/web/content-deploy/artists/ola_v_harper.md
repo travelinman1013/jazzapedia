@@ -5,28 +5,28 @@ birth_place: Unknown
 enhancement_provider: perplexity
 entry_created: '2026-01-13T01:13:59.146981'
 external_urls:
-  spotify: https://open.spotify.com/artist/557qQKRxOXLMeNUb1KIlHv
+  spotify: 'https://open.spotify.com/artist/557qQKRxOXLMeNUb1KIlHv'
   wikipedia: Not found
 genres:
-- northern soul
+  - northern soul
 image_path: 03_Resources/source_material/ArtistPortraits/ola_v_harper.jpg
 last_updated: '2026-01-13T01:13:59.146982'
 musical_connections:
   collaborators: []
   influenced: []
   mentors:
-  - Peppermint Harris
+    - Peppermint Harris
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.youtube.com/watch?v=qiRT2VVQK-o
+  - 'https://www.youtube.com/watch?v=qiRT2VVQK-o'
 spotify_data:
   followers: 31
   id: 557qQKRxOXLMeNUb1KIlHv
   popularity: 0
-  url: https://open.spotify.com/artist/557qQKRxOXLMeNUb1KIlHv
+  url: 'https://open.spotify.com/artist/557qQKRxOXLMeNUb1KIlHv'
 status: active
-title: Ola V HArper
+title: Ola V Harper
 ---
 
 ![](ola_v_harper.jpg)

@@ -1,59 +1,64 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-12T01:55:59.740339'
-birth_place: Fairborn/Xenia, Ohio, United States (origin; part of the Industrial Strength
-  Bluegrass region)[1][4][7]
+birth_place: >-
+  Fairborn/Xenia, Ohio, United States (origin; part of the Industrial Strength
+  Bluegrass region)
 enhancement_provider: perplexity
 entry_created: '2026-01-12T01:55:59.740344'
 external_urls:
-  spotify: https://open.spotify.com/artist/50lzSjoZNrGLCsvhlrLGBf
+  spotify: 'https://open.spotify.com/artist/50lzSjoZNrGLCsvhlrLGBf'
   wikipedia: ''
 genres:
-- christian bluegrass
-- bluegrass
-- country christian
-- southern gospel
-- christian folk
-- newgrass
+  - christian bluegrass
+  - bluegrass
+  - country christian
+  - southern gospel
+  - christian folk
+  - newgrass
 image_path: 03_Resources/source_material/ArtistPortraits/chris_davis.jpg
 last_updated: '2026-01-12T01:55:59.740345'
 musical_connections:
   collaborators:
-  - Joe Mullins & The Radio Ramblers
-  - The Bluegrass Strangers
-  - Honi Deaton & Dream
-  - Larry Cordle
-  - Wildfire
-  - Marty Raybon
-  - Junior Sisk & Rambler’s Choice
-  - The Grascals
-  - Larry Sparks & The Lonesome Ramblers
-  - Diamond Rio
-  - Paul Williams
-  - The Chris Davis Band (Will Teno, Swanagen Ray, Zach Collier)
+    - Joe Mullins & The Radio Ramblers
+    - The Bluegrass Strangers
+    - Honi Deaton & Dream
+    - Larry Cordle
+    - Wildfire
+    - Marty Raybon
+    - Junior Sisk & Rambler’s Choice
+    - The Grascals
+    - Larry Sparks & The Lonesome Ramblers
+    - Diamond Rio
+    - Paul Williams
+    - 'The Chris Davis Band (Will Teno, Swanagen Ray, Zach Collier)'
   influenced:
-  - Gibson Davis
+    - Gibson Davis
   mentors:
-  - Danny Davis
-  - Ralph Stanley
-  - Larry Sparks
-  - Joe Mullins
+    - Danny Davis
+    - Ralph Stanley
+    - Larry Sparks
+    - Joe Mullins
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://bluegrasstoday.com/chris-davis-announces-a-new-band-and-his-solo-career/
-- https://www.wortmanworks.com/news-updates/billy-blue-records-inks-chris-davis-band-new-music-coming-in-2026
-- https://bluegrasstoday.com/gold-rush-town-from-chris-davis/
-- https://www.radioramblers.com/chris.html
-- https://www.reverbnation.com/cmdavis/song/8987050-who-done-it
-- https://farmgirlwithcurls.com/2023/03/24/pluck-it-music-brand-presents-exclusive-interviews-with-top-talent-in-bluegrass-at-industrial-strength/
+  - >-
+    https://bluegrasstoday.com/chris-davis-announces-a-new-band-and-his-solo-career/
+  - >-
+    https://www.wortmanworks.com/news-updates/billy-blue-records-inks-chris-davis-band-new-music-coming-in-2026
+  - 'https://bluegrasstoday.com/gold-rush-town-from-chris-davis/'
+  - 'https://www.radioramblers.com/chris.html'
+  - 'https://www.reverbnation.com/cmdavis/song/8987050-who-done-it'
+  - >-
+    https://farmgirlwithcurls.com/2023/03/24/pluck-it-music-brand-presents-exclusive-interviews-with-top-talent-in-bluegrass-at-industrial-strength/
 spotify_data:
   followers: 267
   id: 50lzSjoZNrGLCsvhlrLGBf
   popularity: 8
-  url: https://open.spotify.com/artist/50lzSjoZNrGLCsvhlrLGBf
+  url: 'https://open.spotify.com/artist/50lzSjoZNrGLCsvhlrLGBf'
 status: active
-title: CHRIS DAVIS
+title: Chris Davis
+origin: 'Fairborn/Xenia, Ohio, United States'
 ---
 
 ![](chris_davis.jpg)

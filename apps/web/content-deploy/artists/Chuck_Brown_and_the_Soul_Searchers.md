@@ -2,14 +2,15 @@
 title: Chuck Brown & the Soul Searchers
 wiki_slug: chuck-brown-the-soul-searchers
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 genres:
-- go-go
+  - go-go
 instruments:
-- original
+  - original
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/Chuck_Brown_and_the_Soul_Searchers.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/Chuck_Brown_and_the_Soul_Searchers.jpg
   caption: Chuck Brown & the Soul Searchers
   background: non_vocal_instrumentalist
 audio_profile:
@@ -27,56 +28,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John Buchanan
-  - Donald Tillery
-  - Leroy Fleming
-  - Eva Cassidy
+    - John Buchanan
+    - Donald Tillery
+    - Leroy Fleming
+    - Eva Cassidy
   influenced:
-  - Nelly
-  - Salt-N-Pepa
-  - Eve
-  - Eric B. & Rakim
+    - Nelly
+    - Salt-N-Pepa
+    - Eve
+    - Eric B. & Rakim
   mentors:
-  - Duke Ellington
-  - James Brown
+    - Duke Ellington
+    - James Brown
 spotify_data:
   followers: 16476
   id: 1Y3CPuN46EPIT3wCTDzPZu
   popularity: 25
-  url: https://open.spotify.com/artist/1Y3CPuN46EPIT3wCTDzPZu
+  url: 'https://open.spotify.com/artist/1Y3CPuN46EPIT3wCTDzPZu'
 discography_enriched: true
 top_tracks:
-- Bustin' Loose (Bustin' Loose)
-- It Don't Mean a Thing - If It Don't Have the Go Go Swing - Live (Go Go Swing (Live))
-- Blow Your Whistle (By Special Request the Very Best of Chuck Brown)
-- Run Joe (By Special Request the Very Best of Chuck Brown)
-- If It Ain't Funky (Bustin' Loose)
-- Never Gonna Give You Up (Bustin' Loose)
-- Woody Woodpecker - Live (Go Go Swing (Live))
-- Berro E Sombaro (Bustin' Loose)
-- Midnight Sun - Live (Go Go Swing (Live))
-- Moody's Mood - Live (Go Go Swing (Live))
+  - Bustin' Loose (Bustin' Loose)
+  - >-
+    It Don't Mean a Thing - If It Don't Have the Go Go Swing - Live (Go Go Swing
+    (Live))
+  - Blow Your Whistle (By Special Request the Very Best of Chuck Brown)
+  - Run Joe (By Special Request the Very Best of Chuck Brown)
+  - If It Ain't Funky (Bustin' Loose)
+  - Never Gonna Give You Up (Bustin' Loose)
+  - Woody Woodpecker - Live (Go Go Swing (Live))
+  - Berro E Sombaro (Bustin' Loose)
+  - Midnight Sun - Live (Go Go Swing (Live))
+  - Moody's Mood - Live (Go Go Swing (Live))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ee60b539-6e37-403a-8716-1fddcece99be
-  spotify: https://open.spotify.com/artist/1Y3CPuN46EPIT3wCTDzPZu
-  wikipedia: https://en.wikipedia.org/wiki/Chuck_Brown
-image_path: 03_Resources/source_material/ArtistPortraits/Chuck_Brown_and_the_Soul_Searchers.jpg
+  musicbrainz: 'https://musicbrainz.org/artist/ee60b539-6e37-403a-8716-1fddcece99be'
+  spotify: 'https://open.spotify.com/artist/1Y3CPuN46EPIT3wCTDzPZu'
+  wikipedia: 'https://en.wikipedia.org/wiki/Chuck_Brown'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/Chuck_Brown_and_the_Soul_Searchers.jpg
 biography_enhanced_at: '2025-10-19T12:39:09.425519'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- soulwalking.co.uk
-- windmeupchuck.com
-- ncmea.net
-- arts.gov
-- en.wikipedia.org
+  - soulwalking.co.uk
+  - windmeupchuck.com
+  - ncmea.net
+  - arts.gov
+  - en.wikipedia.org
 network_extracted: true
 entry_created: '2025-10-19T12:39:09.425528'
 last_updated: '2025-12-23T08:16:01.519639'
 musicbrainz_enriched_at: '2025-10-21T09:22:23.368810'
 musicbrainz_id: ee60b539-6e37-403a-8716-1fddcece99be
-origin: Washington, D.C., United States
-
+origin: 'Washington, D.C., United States'
+birth_place: 'Gaston, North Carolina, United States'
+birth_date: '1936-08-22'
 ---
 
 ![](Chuck_Brown_and_the_Soul_Searchers.jpg)

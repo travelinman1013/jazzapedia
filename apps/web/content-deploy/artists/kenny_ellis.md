@@ -1,15 +1,15 @@
 ---
-title: KENNY ELLIS
+title: Kenny Ellis
 wiki_slug: kenny-ellis
 schema_version: 2
 status: active
-birth_place: Scotland, United Kingdom
+birth_place: 'Scotland, United Kingdom'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/kenny_ellis.jpg
   caption: KENNY ELLIS
   background: solo_singer
-  origin: Scotland, United Kingdom
+  origin: 'Scotland, United Kingdom'
 audio_profile:
   tempo_avg: 124.7
   energy_avg: 0.459
@@ -25,40 +25,43 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Brian Kellock
-  - John Rae
+    - Brian Kellock
+    - John Rae
   influenced: []
   mentors: []
 spotify_data:
   followers: 429
   id: 0iHIDtziSOlFNtGe6Sudlk
   popularity: 27
-  url: https://open.spotify.com/artist/0iHIDtziSOlFNtGe6Sudlk
+  url: 'https://open.spotify.com/artist/0iHIDtziSOlFNtGe6Sudlk'
 discography_enriched: true
 top_tracks:
-- Sevivon Sov, Sov, Sov (Hanukkah Swings)
-- Swingin' Dreidel (My Dreidel) (Hanukkah Swings)
-- Ocho Kandelikas (Hanukkah Swings)
-- 'Medley: Hanukkah, Oh Hanukkah / Who Can Retell (Mi Yimalel) (Hanukkah Swings)'
-- Children Of The Macabbees (Hanukkah Swings)
-- 'Medley: Hanukkah Swingin'' Holiday / Pour The Oil (Hanukkah Swings)'
-- T'Was The Night Before Hanukkah (Hanukkah Swings)
-- Hanukkah Candles (Hanukkah Swings)
-- Rock Of Ages (Hanukkah Swings)
-- It Won't Last (Now or Never)
+  - 'Sevivon Sov, Sov, Sov (Hanukkah Swings)'
+  - Swingin' Dreidel (My Dreidel) (Hanukkah Swings)
+  - Ocho Kandelikas (Hanukkah Swings)
+  - >-
+    Medley: Hanukkah, Oh Hanukkah / Who Can Retell (Mi Yimalel) (Hanukkah
+    Swings)
+  - Children Of The Macabbees (Hanukkah Swings)
+  - 'Medley: Hanukkah Swingin'' Holiday / Pour The Oil (Hanukkah Swings)'
+  - T'Was The Night Before Hanukkah (Hanukkah Swings)
+  - Hanukkah Candles (Hanukkah Swings)
+  - Rock Of Ages (Hanukkah Swings)
+  - It Won't Last (Now or Never)
 external_urls:
-  spotify: https://open.spotify.com/artist/0iHIDtziSOlFNtGe6Sudlk
+  spotify: 'https://open.spotify.com/artist/0iHIDtziSOlFNtGe6Sudlk'
   wikipedia: Not found
 image_path: 03_Resources/source_material/ArtistPortraits/kenny_ellis.jpg
 biography_enhanced_at: '2025-12-22T01:45:34.201848'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.allaboutjazz.com/articles/kenny-ellis
-- https://www.youtube.com/watch?v=mnkciCRjpto
+  - 'https://www.allaboutjazz.com/articles/kenny-ellis'
+  - 'https://www.youtube.com/watch?v=mnkciCRjpto'
 network_extracted: true
 entry_created: '2025-12-22T01:45:34.201853'
 last_updated: '2025-12-23T08:16:11.316766'
+artist_type: person
 ---
 
 ![](kenny_ellis.jpg)

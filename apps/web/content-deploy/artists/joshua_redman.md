@@ -1,22 +1,22 @@
 ---
-title: joshua redman
+title: Joshua Redman
 wiki_slug: joshua-redman
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1969-02-01'
-birth_place: Berkeley, California, United States
+birth_place: 'Berkeley, California, United States'
 genres:
-- jazz
+  - jazz
 instruments:
-- original
-- saxophone
+  - original
+  - saxophone
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/joshua_redman.jpg
   caption: joshua redman
   background: non_vocal_instrumentalist
   born: '1969-02-01'
-  origin: Berkeley, California, United States
+  origin: 'Berkeley, California, United States'
 audio_profile:
   tempo_avg: 114.7
   energy_avg: 0.369
@@ -32,49 +32,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Brad Mehldau
-  - Christian McBride
-  - Brian Blade
-  - Pat Metheny
-  - SFJAZZ Collective
+    - Brad Mehldau
+    - Christian McBride
+    - Brian Blade
+    - Pat Metheny
+    - SFJAZZ Collective
   influenced:
-  - Aaron Goldberg
-  - Reuben Rogers
-  - Gregory Hutchinson
+    - Aaron Goldberg
+    - Reuben Rogers
+    - Gregory Hutchinson
   mentors:
-  - Dewey Redman
-  - John Coltrane
-  - Ornette Coleman
+    - Dewey Redman
+    - John Coltrane
+    - Ornette Coleman
 spotify_data:
   followers: 118814
   id: 3uaHfXYx9Fh4HjqMbrWn5S
   popularity: 40
-  url: https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S
+  url: 'https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S'
 discography_enriched: true
 top_tracks:
-- Body & Soul (Joshua Redman)
-- Where Are You? (where are we)
-- Baltimore (where are we)
-- Borrowed Eyes
-- As This Moment Slips Away (The Bad Plus Joshua Redman)
-- The Folks Who Live on the Hill (Walking Shadows)
-- Chicago Blues (where are we)
-- You've Got A Friend In Me
-- The Nearness of You (Nearness)
-- I Got You - I Feel Good (Joshua Redman)
+  - Body & Soul (Joshua Redman)
+  - Where Are You? (where are we)
+  - Baltimore (where are we)
+  - Borrowed Eyes
+  - As This Moment Slips Away (The Bad Plus Joshua Redman)
+  - The Folks Who Live on the Hill (Walking Shadows)
+  - Chicago Blues (where are we)
+  - You've Got A Friend In Me
+  - The Nearness of You (Nearness)
+  - I Got You - I Feel Good (Joshua Redman)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b00a17c3-72b2-4e39-96f9-770ba6cf4573
-  spotify: https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S
-  wikipedia: https://en.wikipedia.org/wiki/Joshua_Redman
+  musicbrainz: 'https://musicbrainz.org/artist/b00a17c3-72b2-4e39-96f9-770ba6cf4573'
+  spotify: 'https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S'
+  wikipedia: 'https://en.wikipedia.org/wiki/Joshua_Redman'
 image_path: 03_Resources/source_material/ArtistPortraits/joshua_redman.jpg
 biography_enhanced_at: '2025-10-20T09:28:50.279260'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://music.stanford.edu/people/joshua-redman
-- https://www.joshuaredman.com/bio-1
-- https://www.bluenote.com/artist/joshua-redman-2/
-- https://en.wikipedia.org/wiki/Joshua_Redman
+  - 'https://music.stanford.edu/people/joshua-redman'
+  - 'https://www.joshuaredman.com/bio-1'
+  - 'https://www.bluenote.com/artist/joshua-redman-2/'
+  - 'https://en.wikipedia.org/wiki/Joshua_Redman'
 network_extracted: true
 entry_created: '2025-10-20T09:28:50.279275'
 last_updated: '2025-12-23T08:16:10.997903'
@@ -83,9 +83,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:53:44.918528'
 musicbrainz_id: b00a17c3-72b2-4e39-96f9-770ba6cf4573
 tags:
-- contemporary jazz
-- jazz
-- jazz and blues
+  - contemporary jazz
+  - jazz
+  - jazz and blues
+origin: 'Brooklyn, New York, United States'
 ---
 
 ![](joshua_redman.jpg)

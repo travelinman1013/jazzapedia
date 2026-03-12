@@ -2,20 +2,21 @@
 title: Art Blakey & The Jazz Messengers
 wiki_slug: art-blakey-the-jazz-messengers
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 birth_date: '1954'
 genres:
-- hard bop
-- jazz
-- bebop
-- cool jazz
+  - hard bop
+  - jazz
+  - bebop
+  - cool jazz
 instruments:
-- drums (drum set)
-- eponymous
-- double bass
+  - drums (drum set)
+  - eponymous
+  - double bass
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/Art_Blakey_and_The_Jazz_Messengers.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/Art_Blakey_and_The_Jazz_Messengers.jpg
   caption: Art Blakey & The Jazz Messengers
   background: non_vocal_instrumentalist
   born: '1954'
@@ -34,60 +35,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Horace Silver
-  - Lee Morgan
-  - Wayne Shorter
-  - Freddie Hubbard
-  - Benny Golson
+    - Horace Silver
+    - Lee Morgan
+    - Wayne Shorter
+    - Freddie Hubbard
+    - Benny Golson
   influenced:
-  - Wynton Marsalis
-  - Terence Blanchard
-  - Branford Marsalis
-  - Bobby Timmons
+    - Wynton Marsalis
+    - Terence Blanchard
+    - Branford Marsalis
+    - Bobby Timmons
   mentors:
-  - Mary Lou Williams
-  - Billy Eckstine
+    - Mary Lou Williams
+    - Billy Eckstine
 spotify_data:
   followers: 258510
   id: 6ykfXAed2KOLOMI3R0TZdz
   popularity: 46
-  url: https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz
+  url: 'https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz'
 discography_enriched: true
 top_tracks:
-- Moanin' (Moanin' (Expanded Edition))
-- Along Came Betty (Moanin' (Expanded Edition))
-- Moanin'
-- Hipsippy Blues (Just Coolin')
-- Quick Trick (Just Coolin')
-- Dat Dere - Remastered 2005 (The Big Beat (The Rudy Van Gelder Edition))
-- Come Rain Or Come Shine (Moanin' (Expanded Edition))
-- Are You Real (Moanin' (Expanded Edition))
-- Blues March (Moanin' (Expanded Edition))
-- A Night In Tunisia - Remastered 2005 (A Night In Tunisia (Remaster))
+  - Moanin' (Moanin' (Expanded Edition))
+  - Along Came Betty (Moanin' (Expanded Edition))
+  - Moanin'
+  - Hipsippy Blues (Just Coolin')
+  - Quick Trick (Just Coolin')
+  - Dat Dere - Remastered 2005 (The Big Beat (The Rudy Van Gelder Edition))
+  - Come Rain Or Come Shine (Moanin' (Expanded Edition))
+  - Are You Real (Moanin' (Expanded Edition))
+  - Blues March (Moanin' (Expanded Edition))
+  - A Night In Tunisia - Remastered 2005 (A Night In Tunisia (Remaster))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/209ddf15-ee0a-41a1-a1f5-6f4c0409d2ee
-  spotify: https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz
-  wikipedia: https://en.wikipedia.org/wiki/Art_Blakey
-image_path: 03_Resources/source_material/ArtistPortraits/Art_Blakey_and_The_Jazz_Messengers.jpg
+  musicbrainz: 'https://musicbrainz.org/artist/209ddf15-ee0a-41a1-a1f5-6f4c0409d2ee'
+  spotify: 'https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz'
+  wikipedia: 'https://en.wikipedia.org/wiki/Art_Blakey'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/Art_Blakey_and_The_Jazz_Messengers.jpg
 biography_enhanced_at: '2025-10-20T09:44:00.873586'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.arts.gov/honors/jazz/art-blakey
-- https://concord.com/artist/art-blakey/
-- https://www.sfjazz.org/onthecorner/look-back-art-blakey-and-jazz-messengers-moanin
-- https://pas.org/art-blakey/
-- https://www.britannica.com/biography/Art-Blakey
+  - 'https://www.arts.gov/honors/jazz/art-blakey'
+  - 'https://concord.com/artist/art-blakey/'
+  - >-
+    https://www.sfjazz.org/onthecorner/look-back-art-blakey-and-jazz-messengers-moanin
+  - 'https://pas.org/art-blakey/'
+  - 'https://www.britannica.com/biography/Art-Blakey'
 network_extracted: true
 entry_created: '2025-10-20T09:44:00.873600'
 last_updated: '2025-12-23T08:16:01.054426'
 musicbrainz_enriched_at: '2025-10-21T08:59:52.406232'
 musicbrainz_id: 209ddf15-ee0a-41a1-a1f5-6f4c0409d2ee
-origin: Pittsburgh, Pennsylvania, United States
+origin: 'Pittsburgh, Pennsylvania, United States'
 tags:
-- afro-cuban jazz
-- afro-jazz
-- bebop
+  - afro-cuban jazz
+  - afro-jazz
+  - bebop
+birth_place: 'Pittsburgh, Pennsylvania, United States'
 ---
 
 ![](Art_Blakey_and_The_Jazz_Messengers.jpg)

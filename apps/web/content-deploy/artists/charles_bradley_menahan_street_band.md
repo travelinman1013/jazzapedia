@@ -1,16 +1,17 @@
 ---
-title: Charles Bradley, Menahan Street Band
+title: 'Charles Bradley, Menahan Street Band'
 wiki_slug: charles-bradley-menahan-street-band
 schema_version: 2
 status: active
-birth_place: Gainesville, Florida, United States
+birth_place: 'Gainesville, Florida, United States'
 genres:
-- retro soul
+  - retro soul
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/charles_bradley_menahan_street_band.jpg
-  caption: Charles Bradley, Menahan Street Band
+  image: >-
+    03_Resources/source_material/ArtistPortraits/charles_bradley_menahan_street_band.jpg
+  caption: 'Charles Bradley, Menahan Street Band'
   background: solo_singer
-  origin: Gainesville, Florida, United States
+  origin: 'Gainesville, Florida, United States'
 audio_profile:
   tempo_avg: 117.3
   energy_avg: 0.609
@@ -26,46 +27,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Menahan Street Band
-  - Thomas Brenneck
-  - Daptone Records artists (e.g., Sharon Jones & the Dap-Kings, Budos Band)
+    - Menahan Street Band
+    - Thomas Brenneck
+    - 'Daptone Records artists (e.g., Sharon Jones & the Dap-Kings, Budos Band)'
   influenced:
-  - Durand Jones & The Indications
-  - Leon Bridges
+    - Durand Jones & The Indications
+    - Leon Bridges
   mentors:
-  - James Brown
+    - James Brown
 spotify_data:
   followers: 255354
   id: 1PryMSya1JnSAlcwYawCxp
   popularity: 59
-  url: https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp
+  url: 'https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp'
 discography_enriched: true
 top_tracks:
-- The World (Is Going Up in Flames) (No Time For Dreaming)
-- Queens Highway (The Exciting Sounds of Menahan Street Band)
-- The Traitor (Make the Road By Walking)
-- Heart of Gold (No Time For Dreaming)
-- There's a New Day Coming
-- How Long (No Time For Dreaming)
-- Home Again (Make the Road By Walking)
-- No Time for Dreaming (No Time For Dreaming)
-- Every Day a Dream (The Crossing)
-- Victim of Love (Victim of Love)
+  - The World (Is Going Up in Flames) (No Time For Dreaming)
+  - Queens Highway (The Exciting Sounds of Menahan Street Band)
+  - The Traitor (Make the Road By Walking)
+  - Heart of Gold (No Time For Dreaming)
+  - There's a New Day Coming
+  - How Long (No Time For Dreaming)
+  - Home Again (Make the Road By Walking)
+  - No Time for Dreaming (No Time For Dreaming)
+  - Every Day a Dream (The Crossing)
+  - Victim of Love (Victim of Love)
 external_urls:
-  spotify: https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp
-  wikipedia: https://en.wikipedia.org/wiki/Charles_Bradley_(singer)
-image_path: 03_Resources/source_material/ArtistPortraits/charles_bradley_menahan_street_band.jpg
+  spotify: 'https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp'
+  wikipedia: 'https://en.wikipedia.org/wiki/Charles_Bradley_(singer)'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/charles_bradley_menahan_street_band.jpg
 biography_enhanced_at: '2025-11-12T14:47:34.228422'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.crossrhythms.co.uk/articles/music/Charles_Bradley_The_critically_acclaimed_singer_showing_the_Soul_Of_America/52628/p1/
-- https://daptonerecords.com/artists/charles-bradley/
-- https://www.imdb.com/name/nm4475925/bio/
-- https://www.carbonsound.fm/feature/2022/09/27/remembering-charles-bradley-the-screaming-eagle-of-soul
+  - >-
+    https://www.crossrhythms.co.uk/articles/music/Charles_Bradley_The_critically_acclaimed_singer_showing_the_Soul_Of_America/52628/p1/
+  - 'https://daptonerecords.com/artists/charles-bradley/'
+  - 'https://www.imdb.com/name/nm4475925/bio/'
+  - >-
+    https://www.carbonsound.fm/feature/2022/09/27/remembering-charles-bradley-the-screaming-eagle-of-soul
 network_extracted: true
 entry_created: '2025-11-12T14:47:34.228436'
 last_updated: '2025-12-23T08:16:06.651488'
+origin: 'Brooklyn, New York, United States'
+birth_date: '1948'
+artist_type: band
 ---
 
 ![](charles_bradley_menahan_street_band.jpg)

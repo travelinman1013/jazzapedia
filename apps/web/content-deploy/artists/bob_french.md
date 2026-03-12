@@ -1,48 +1,52 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-16T01:40:33.202808'
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-16T01:40:33.202814'
 external_urls:
-  spotify: https://open.spotify.com/artist/6YB0tbDGk01Q0P6wcHPjpC
-  wikipedia: https://en.wikipedia.org/wiki/Bob_French_(jazz_musician)
+  spotify: 'https://open.spotify.com/artist/6YB0tbDGk01Q0P6wcHPjpC'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bob_French_(jazz_musician)'
 genres:
-- jam band
+  - jam band
 image_path: 03_Resources/source_material/ArtistPortraits/bob_french.jpg
 last_updated: '2026-01-16T01:40:33.202814'
 musical_connections:
   collaborators:
-  - Albert 'Papa' French
-  - Branford Marsalis
-  - Harry Connick Jr.
-  - Trombone Shorty
-  - Fats Domino
+    - Albert 'Papa' French
+    - Branford Marsalis
+    - Harry Connick Jr.
+    - Trombone Shorty
+    - Fats Domino
   influenced:
-  - Glen Andrews
-  - Shamarr Allen
-  - Kid Chocolate
-  - Gerald French
+    - Glen Andrews
+    - Shamarr Allen
+    - Kid Chocolate
+    - Gerald French
   mentors:
-  - Jack Willis
-  - Frog Joseph
-  - Joseph 'Cornbread' Thomas
-  - Jeanette Kimball
+    - Jack Willis
+    - Frog Joseph
+    - Joseph 'Cornbread' Thomas
+    - Jeanette Kimball
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.offbeat.com/news/didnt-he-ramble-remembering-bob-french/
-- https://www.wwoz.org/580-memoriam-bob-french
-- https://www.wwno.org/show/american-routes/2024-02-16/american-routes-shortcuts-bob-french
-- https://en.wikipedia.org/wiki/Bob_French_(jazz_musician)
-- https://marsalismusic.com/bob-french
+  - 'https://www.offbeat.com/news/didnt-he-ramble-remembering-bob-french/'
+  - 'https://www.wwoz.org/580-memoriam-bob-french'
+  - >-
+    https://www.wwno.org/show/american-routes/2024-02-16/american-routes-shortcuts-bob-french
+  - 'https://en.wikipedia.org/wiki/Bob_French_(jazz_musician)'
+  - 'https://marsalismusic.com/bob-french'
 spotify_data:
   followers: 139801
   id: 6YB0tbDGk01Q0P6wcHPjpC
   popularity: 50
-  url: https://open.spotify.com/artist/6YB0tbDGk01Q0P6wcHPjpC
+  url: 'https://open.spotify.com/artist/6YB0tbDGk01Q0P6wcHPjpC'
 status: active
 title: Bob French
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1937-12-27'
+death_date: '2012-11-12'
 ---
 
 ![](bob_french.jpg)

@@ -2,29 +2,29 @@
 title: Miles Davis
 wiki_slug: miles-davis
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1926-05-26'
-birth_place: Alton, Illinois, United States
+birth_place: 'Alton, Illinois, United States'
 death_date: '1991-09-28'
 genres:
-- jazz
-- cool jazz
-- hard bop
-- bebop
-- jazz fusion
-- free jazz
-- jazz blues
+  - jazz
+  - cool jazz
+  - hard bop
+  - bebop
+  - jazz fusion
+  - free jazz
+  - jazz blues
 instruments:
-- eponymous
-- original
-- trumpet
+  - eponymous
+  - original
+  - trumpet
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Miles_Davis.jpg
   caption: Miles Davis
   background: non_vocal_instrumentalist
   born: '1926-05-26'
-  origin: Alton, Illinois, United States
+  origin: 'Alton, Illinois, United States'
   died: '1991-09-28'
 audio_profile:
   tempo_avg: 115.6
@@ -41,60 +41,82 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Gil Evans
-  - John Coltrane
-  - Herbie Hancock
-  - Wayne Shorter
-  - Tony Williams
+    - Gil Evans
+    - John Coltrane
+    - Herbie Hancock
+    - Wayne Shorter
+    - Tony Williams
   influenced:
-  - Chick Corea
-  - John McLaughlin
-  - Marcus Miller
-  - Prince
+    - Chick Corea
+    - John McLaughlin
+    - Marcus Miller
+    - Prince
   mentors:
-  - Elwood Buchanan
-  - Charlie Parker
-  - Dizzy Gillespie
+    - Elwood Buchanan
+    - Charlie Parker
+    - Dizzy Gillespie
 spotify_data:
   followers: 2731711
   id: 0kbYTNQb4Pb1rPbbaF0pT4
   popularity: 61
-  url: https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4
+  url: 'https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4'
 discography_enriched: true
 top_tracks:
-- Blue in Green (feat. John Coltrane & Bill Evans) (Kind Of Blue (Legacy Edition))
-- So What (feat. John Coltrane, Cannonball Adderley & Bill Evans) (Kind Of Blue (Legacy Edition))
-- Générique - Bande originale du film "Ascenseur pour l'échafaud" (Ascenseur pour l'échafaud)
-- Milestones (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul Chambers & Philly Joe Jones) (Milestones)
-- '''Round Midnight (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones) (''Round About Midnight)'
-- Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly & Paul Chambers) (Kind Of Blue)
-- Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly & Paul Chambers) (Kind Of Blue (Legacy Edition))
-- Stella By Starlight (feat. John Coltrane & Bill Evans) (Kind Of Blue (Legacy Edition))
-- So What (feat. John Coltrane, Cannonball Adderley & Bill Evans) (Kind Of Blue)
-- All Blues (feat. John Coltrane, Cannonball Adderley & Bill Evans) (Kind Of Blue (Legacy Edition))
+  - >-
+    Blue in Green (feat. John Coltrane & Bill Evans) (Kind Of Blue (Legacy
+    Edition))
+  - >-
+    So What (feat. John Coltrane, Cannonball Adderley & Bill Evans) (Kind Of
+    Blue (Legacy Edition))
+  - >-
+    Générique - Bande originale du film "Ascenseur pour l'échafaud" (Ascenseur
+    pour l'échafaud)
+  - >-
+    Milestones (feat. John Coltrane, Cannonball Adderley, Red Garland, Paul
+    Chambers & Philly Joe Jones) (Milestones)
+  - >-
+    'Round Midnight (feat. John Coltrane, Red Garland, Paul Chambers & Philly
+    Joe Jones) ('Round About Midnight)
+  - >-
+    Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly &
+    Paul Chambers) (Kind Of Blue)
+  - >-
+    Freddie Freeloader (feat. John Coltrane, Cannonball Adderley, Wynton Kelly &
+    Paul Chambers) (Kind Of Blue (Legacy Edition))
+  - >-
+    Stella By Starlight (feat. John Coltrane & Bill Evans) (Kind Of Blue (Legacy
+    Edition))
+  - >-
+    So What (feat. John Coltrane, Cannonball Adderley & Bill Evans) (Kind Of
+    Blue)
+  - >-
+    All Blues (feat. John Coltrane, Cannonball Adderley & Bill Evans) (Kind Of
+    Blue (Legacy Edition))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/561d854a-6a28-4aa7-8c99-323e6ce46c2a
-  spotify: https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4
-  wikipedia: https://en.wikipedia.org/wiki/Miles_Davis
+  musicbrainz: 'https://musicbrainz.org/artist/561d854a-6a28-4aa7-8c99-323e6ce46c2a'
+  spotify: 'https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4'
+  wikipedia: 'https://en.wikipedia.org/wiki/Miles_Davis'
 image_path: 03_Resources/source_material/ArtistPortraits/Miles_Davis.jpg
 biography_enhanced_at: '2025-10-19T10:46:44.446554'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.arts.gov/honors/jazz/miles-davis
-- https://www.britannica.com/biography/Miles-Davis
-- https://www.biography.com/musicians/miles-davis
+  - 'https://www.arts.gov/honors/jazz/miles-davis'
+  - 'https://www.britannica.com/biography/Miles-Davis'
+  - 'https://www.biography.com/musicians/miles-davis'
 network_extracted: true
 entry_created: '2025-10-19T10:46:44.446563'
 last_updated: '2025-12-23T08:15:35.856432'
-disambiguation: jazz trumpeter, bandleader, songwriter
+disambiguation: 'jazz trumpeter, bandleader, songwriter'
 gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:54:51.989547'
 musicbrainz_id: 561d854a-6a28-4aa7-8c99-323e6ce46c2a
 tags:
-- cool jazz
-- hard bop
-- jazz
+  - cool jazz
+  - hard bop
+  - jazz
+is_active: false
+origin: 'New York, New York, United States'
 ---
 
 ![](Miles_Davis.jpg)

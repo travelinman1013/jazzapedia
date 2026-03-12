@@ -1,68 +1,68 @@
 ---
-title: alejandro escovedo
+title: Alejandro Escovedo
 wiki_slug: alejandro-escovedo
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1951-01-10'
-birth_place: San Antonio
+birth_place: 'San Antonio, Texas, United States'
 genres:
-- alt country
-- americana
-- roots rock
+  - alt country
+  - americana
+  - roots rock
 instruments:
-- original
-- drums (drum set)
-- guitar
-- acoustic guitar
-- electric guitar
-- lead vocals
-- spoken vocals
-- background vocals
-- vocal
-associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6d3b60cd-2b84-4df5-892f-565af2ce7450
-  name: Buick MacKane
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8a683004-25d3-4ac8-a8d3-a12b0916c222
-  name: Alejandro Escovedo String Quintet
-- begin: ''
-  end: ''
-  instruments:
   - original
-  mbid: d8e9fc5d-c500-4044-a4b0-2445b6fa3534
-  name: The Nuns
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2ea03b2b-1826-4338-b92c-cf061f873d07
-  name: Rank and File
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5f191a7a-1033-4232-ad09-125696924b60
-  name: The True Believers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: dbfca6e0-57dc-4c32-ae5d-d5c25023ad11
-  name: The Setters
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8b0d9c06-7bc4-40b4-b95f-088f7431e7f2
-  name: Alejandro Escovedo & Joe Ely
-- begin: ''
-  end: ''
-  instruments:
   - drums (drum set)
-  mbid: 9d3476a9-0b99-4e07-847c-b0b9e8ac4db1
-  name: Make Believers
+  - guitar
+  - acoustic guitar
+  - electric guitar
+  - lead vocals
+  - spoken vocals
+  - background vocals
+  - vocal
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6d3b60cd-2b84-4df5-892f-565af2ce7450
+    name: Buick MacKane
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8a683004-25d3-4ac8-a8d3-a12b0916c222
+    name: Alejandro Escovedo String Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: d8e9fc5d-c500-4044-a4b0-2445b6fa3534
+    name: The Nuns
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2ea03b2b-1826-4338-b92c-cf061f873d07
+    name: Rank and File
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5f191a7a-1033-4232-ad09-125696924b60
+    name: The True Believers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: dbfca6e0-57dc-4c32-ae5d-d5c25023ad11
+    name: The Setters
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8b0d9c06-7bc4-40b4-b95f-088f7431e7f2
+    name: Alejandro Escovedo & Joe Ely
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 9d3476a9-0b99-4e07-847c-b0b9e8ac4db1
+    name: Make Believers
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/alejandro_escovedo.jpg
   caption: alejandro escovedo
@@ -84,53 +84,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Javier Escovedo
-  - Jon Dee Graham
-  - Tony Visconti
-  - John Cale
-  - Bruce Springsteen
+    - Javier Escovedo
+    - Jon Dee Graham
+    - Tony Visconti
+    - John Cale
+    - Bruce Springsteen
   influenced:
-  - Jon Dee Graham
-  - Austin Americana scene artists
+    - Jon Dee Graham
+    - Austin Americana scene artists
   mentors:
-  - Pete Escovedo
-  - Coke Escovedo
+    - Pete Escovedo
+    - Coke Escovedo
 spotify_data:
   followers: 44116
   id: 1Cc79YAHP7xvQAVQSjveP6
   popularity: 32
-  url: https://open.spotify.com/artist/1Cc79YAHP7xvQAVQSjveP6
+  url: 'https://open.spotify.com/artist/1Cc79YAHP7xvQAVQSjveP6'
 discography_enriched: true
 top_tracks:
-- Castanets (A Man Under the Influence)
-- Always A Friend (Real Animal)
-- Evening Gown
-- I Was Drunk (Bourbonitis Blues)
-- Outlaw for You (The Crossing)
-- Sister Lost Soul (Real Animal)
-- Broken Bottle (Gravity)
-- Rosalie (A Man Under the Influence)
-- California Blues (Bourbonitis Blues)
-- Bottom Of The World (Big Station)
+  - Castanets (A Man Under the Influence)
+  - Always A Friend (Real Animal)
+  - Evening Gown
+  - I Was Drunk (Bourbonitis Blues)
+  - Outlaw for You (The Crossing)
+  - Sister Lost Soul (Real Animal)
+  - Broken Bottle (Gravity)
+  - Rosalie (A Man Under the Influence)
+  - California Blues (Bourbonitis Blues)
+  - Bottom Of The World (Big Station)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/bf103bec-70e3-45a5-9d1b-97715db04a96
-  spotify: https://open.spotify.com/artist/1Cc79YAHP7xvQAVQSjveP6
-  wikipedia: https://en.wikipedia.org/wiki/Alejandro_Escovedo
+  musicbrainz: 'https://musicbrainz.org/artist/bf103bec-70e3-45a5-9d1b-97715db04a96'
+  spotify: 'https://open.spotify.com/artist/1Cc79YAHP7xvQAVQSjveP6'
+  wikipedia: 'https://en.wikipedia.org/wiki/Alejandro_Escovedo'
 image_path: 03_Resources/source_material/ArtistPortraits/alejandro_escovedo.jpg
 biography_enhanced_at: '2025-10-25T10:15:58.701168'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://thekessler.org/bands/alejandro-escovedo/
-- https://www.alejandroescovedo.com/new-page
-- https://en.wikipedia.org/wiki/Alejandro_Escovedo
+  - 'https://thekessler.org/bands/alejandro-escovedo/'
+  - 'https://www.alejandroescovedo.com/new-page'
+  - 'https://en.wikipedia.org/wiki/Alejandro_Escovedo'
 network_extracted: true
 entry_created: '2025-10-25T10:15:58.701177'
 last_updated: '2025-12-23T08:16:04.533690'
 gender: Male
 musicbrainz_id: bf103bec-70e3-45a5-9d1b-97715db04a96
 tags:
-- folk
+  - folk
 ---
 
 ![](alejandro_escovedo.jpg)

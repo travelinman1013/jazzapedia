@@ -5,27 +5,27 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1975-12-18'
-birth_place: Adelaide
+birth_place: 'Adelaide, South Australia, Australia'
 genres: []
 instruments:
-- eponymous
-- original
-- lead vocals
-- background vocals
-- spoken vocals
-associated_acts:
-- begin: '1994'
-  end: '1997'
-  instruments: []
-  mbid: 2674671a-b5bf-49c3-96d5-ebf57e9b58bc
-  name: Crisp
-- begin: '2018'
-  end: ''
-  instruments:
   - eponymous
   - original
-  mbid: 8d79b49a-143c-4807-bd44-6c985a4655bf
-  name: LSD
+  - lead vocals
+  - background vocals
+  - spoken vocals
+associated_acts:
+  - begin: '1994'
+    end: '1997'
+    instruments: []
+    mbid: 2674671a-b5bf-49c3-96d5-ebf57e9b58bc
+    name: Crisp
+  - begin: '2018'
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 8d79b49a-143c-4807-bd44-6c985a4655bf
+    name: LSD
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sia.jpg
   caption: Sia
@@ -47,47 +47,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Zero 7
-  - David Guetta
-  - Rihanna
-  - Flo Rida
-  - Maddie Ziegler
-  - Jamiroquai
+    - Zero 7
+    - David Guetta
+    - Rihanna
+    - Flo Rida
+    - Maddie Ziegler
+    - Jamiroquai
   influenced: []
   mentors:
-  - Aretha Franklin, Stevie Wonder, Sting
+    - 'Aretha Franklin, Stevie Wonder, Sting'
 spotify_data:
   followers: 30692911
   id: 5WUlDfRSoLAfcVSX1WnrxN
   popularity: 85
-  url: https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN
+  url: 'https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN'
 discography_enriched: true
 top_tracks:
-- Titanium (feat. Sia) (Nothing but the Beat (Ultimate Edition))
-- Dusk Till Dawn (feat. Sia) - Radio Edit (Icarus Falls)
-- Wild Ones (feat. Sia) (Wild Ones)
-- Beautiful People
-- Chandelier (1000 Forms Of Fear)
-- Unstoppable (This Is Acting)
-- Unstoppable (This Is Acting (Deluxe Version))
-- Elastic Heart (1000 Forms Of Fear)
-- Cheap Thrills (This Is Acting)
-- Snowman
+  - Titanium (feat. Sia) (Nothing but the Beat (Ultimate Edition))
+  - Dusk Till Dawn (feat. Sia) - Radio Edit (Icarus Falls)
+  - Wild Ones (feat. Sia) (Wild Ones)
+  - Beautiful People
+  - Chandelier (1000 Forms Of Fear)
+  - Unstoppable (This Is Acting)
+  - Unstoppable (This Is Acting (Deluxe Version))
+  - Elastic Heart (1000 Forms Of Fear)
+  - Cheap Thrills (This Is Acting)
+  - Snowman
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2f548675-008d-4332-876c-108b0c7ab9c5
-  spotify: https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN
+  musicbrainz: 'https://musicbrainz.org/artist/2f548675-008d-4332-876c-108b0c7ab9c5'
+  spotify: 'https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN'
   wikipedia: Not provided in search results
 image_path: 03_Resources/source_material/ArtistPortraits/sia.jpg
 biography_enhanced_at: '2025-11-29T07:05:17.444121'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Last.fm - Sia Biography
-- Top40-Charts.com - Sia Artist Profile
-- Biography.com - Sia Furler
-- IMDb - Sia Biography
-- Vocal Media - The Creation of Sia
-- Sia Fandom Wiki
+  - Last.fm - Sia Biography
+  - Top40-Charts.com - Sia Artist Profile
+  - Biography.com - Sia Furler
+  - IMDb - Sia Biography
+  - Vocal Media - The Creation of Sia
+  - Sia Fandom Wiki
 network_extracted: true
 entry_created: '2025-11-29T07:05:17.444135'
 last_updated: '2025-12-23T08:16:15.615643'
@@ -95,9 +95,10 @@ disambiguation: Australian singer‐songwriter
 gender: Female
 musicbrainz_id: 2f548675-008d-4332-876c-108b0c7ab9c5
 tags:
-- alternative pop
-- art pop
-- australian
+  - alternative pop
+  - art pop
+  - australian
+origin: 'New York City, New York, United States'
 ---
 
 ![](sia.jpg)

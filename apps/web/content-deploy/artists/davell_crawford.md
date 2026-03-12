@@ -4,19 +4,19 @@ wiki_slug: davell-crawford
 schema_version: 2
 artist_type: person
 status: active
-birth_place: New Orleans and Lafayette, Louisiana, United States
+birth_place: 'New Orleans and Lafayette, Louisiana, United States'
 genres:
-- cajun
+  - cajun
 instruments:
-- piano
-- Rhodes piano
-- electric piano
-- background vocals
+  - piano
+  - Rhodes piano
+  - electric piano
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/davell_crawford.jpg
   caption: Davell Crawford
   background: solo_singer
-  origin: New Orleans and Lafayette, Louisiana, United States
+  origin: 'New Orleans and Lafayette, Louisiana, United States'
 audio_profile:
   tempo_avg: 116.4
   energy_avg: 0.326
@@ -32,53 +32,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Davell Crawford Trad Jazz Band
+    - Davell Crawford Trad Jazz Band
   influenced:
-  - Younger New Orleans musicians
+    - Younger New Orleans musicians
   mentors:
-  - James 'Sugar Boy' Crawford
-  - Allen Toussaint
-  - Dr. John
+    - James 'Sugar Boy' Crawford
+    - Allen Toussaint
+    - Dr. John
 spotify_data:
   followers: 2030
   id: 0o1oZuI02bsjkjwE07Me8D
   popularity: 11
-  url: https://open.spotify.com/artist/0o1oZuI02bsjkjwE07Me8D
+  url: 'https://open.spotify.com/artist/0o1oZuI02bsjkjwE07Me8D'
 discography_enriched: true
 top_tracks:
-- Will You Love Me Tomorrow (Arr. for Piano by Davell Crawford) (Alone Together)
-- Gather by the River (Our New Orleans (Expanded Edition))
-- Killing Me Softly with His Song (Arr. for Piano by Davell Crawford) (Alone Together)
-- What A Wonderful World (A Gift To Pops)
-- 'Amazing Grace (Abide with Me: Hymns & Spirituals for Solo Piano)'
-- Just A Closer Walk With Thee (A Gift To Pops)
-- Do You Know What It Means to Miss New Orleans (Our New Orleans (Expanded Edition))
-- I'm In Love Again (Dear Fats, I Love You)
-- Louisiana Sunday Afternoon (My Gift to You)
-- River / White Socks & Drawers (My Gift to You)
+  - >-
+    Will You Love Me Tomorrow (Arr. for Piano by Davell Crawford) (Alone
+    Together)
+  - Gather by the River (Our New Orleans (Expanded Edition))
+  - >-
+    Killing Me Softly with His Song (Arr. for Piano by Davell Crawford) (Alone
+    Together)
+  - What A Wonderful World (A Gift To Pops)
+  - 'Amazing Grace (Abide with Me: Hymns & Spirituals for Solo Piano)'
+  - Just A Closer Walk With Thee (A Gift To Pops)
+  - >-
+    Do You Know What It Means to Miss New Orleans (Our New Orleans (Expanded
+    Edition))
+  - 'I''m In Love Again (Dear Fats, I Love You)'
+  - Louisiana Sunday Afternoon (My Gift to You)
+  - River / White Socks & Drawers (My Gift to You)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6b71a459-1756-4869-9ef5-28dd231817f0
-  spotify: https://open.spotify.com/artist/0o1oZuI02bsjkjwE07Me8D
+  musicbrainz: 'https://musicbrainz.org/artist/6b71a459-1756-4869-9ef5-28dd231817f0'
+  spotify: 'https://open.spotify.com/artist/0o1oZuI02bsjkjwE07Me8D'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/davell_crawford.jpg
 biography_enhanced_at: '2025-11-28T07:33:25.121181'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- 'Steinway & Sons - Music from the Tribe: Davell Crawford'
-- Steinway & Sons - Davell Crawford Artist Profile
-- New Orleans Jazz Club - NICKEL-A-DANCE Event
-- WBGO Jazz - Davell Crawford and New Orleans Roots
-- PianoGroove.com - Davell Crawford
-- 'WWNO - American Routes Shortcuts: Davell Crawford'
-- Basin Street Records - Davell Crawford Bio
-- Sonic Junction - Davell Crawford Full Bio
-- NewOrleans.com - Davell Crawford Listing
+  - 'Steinway & Sons - Music from the Tribe: Davell Crawford'
+  - Steinway & Sons - Davell Crawford Artist Profile
+  - New Orleans Jazz Club - NICKEL-A-DANCE Event
+  - WBGO Jazz - Davell Crawford and New Orleans Roots
+  - PianoGroove.com - Davell Crawford
+  - 'WWNO - American Routes Shortcuts: Davell Crawford'
+  - Basin Street Records - Davell Crawford Bio
+  - Sonic Junction - Davell Crawford Full Bio
+  - NewOrleans.com - Davell Crawford Listing
 network_extracted: true
 entry_created: '2025-11-28T07:33:25.121199'
 last_updated: '2025-12-23T08:16:07.527310'
 gender: Male
 musicbrainz_id: 6b71a459-1756-4869-9ef5-28dd231817f0
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](davell_crawford.jpg)

@@ -1,15 +1,15 @@
 ---
-title: MAGGIE JONES
+title: Maggie Jones
 wiki_slug: maggie-jones
 schema_version: 2
 status: active
-birth_place: Hillsboro, Texas, United States
+birth_place: 'Hillsboro, Texas, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/maggie_jones.jpg
   caption: MAGGIE JONES
   background: solo_singer
-  origin: Hillsboro, Texas, United States
+  origin: 'Hillsboro, Texas, United States'
 audio_profile:
   tempo_avg: 116.4
   energy_avg: 0.589
@@ -25,47 +25,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Fletcher Henderson
-  - Charlie Green
-  - Louis Armstrong
-  - Hall Johnson
-  - Clarence Muse
+    - Fletcher Henderson
+    - Charlie Green
+    - Louis Armstrong
+    - Hall Johnson
+    - Clarence Muse
   influenced: []
   mentors: []
 spotify_data:
   followers: 1279429
   id: 4NZvixzsSefsNiIqXn0NDe
   popularity: 67
-  url: https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe
+  url: 'https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe'
 discography_enriched: true
 top_tracks:
-- Dawns (feat. Maggie Rogers) (Dawns (feat. Maggie Rogers))
-- Alaska (Heard It In A Past Life)
-- Light On (Heard It In A Past Life)
-- Love You For A Long Time (Love You For A Long Time)
-- The Kill (Don't Forget Me)
-- Say It (Heard It In A Past Life)
-- Fallingwater (Heard It In A Past Life)
-- Don't Forget Me (Don't Forget Me)
-- In The Living Room (In The Living Room)
-- So Sick Of Dreaming (Don't Forget Me)
+  - Dawns (feat. Maggie Rogers) (Dawns (feat. Maggie Rogers))
+  - Alaska (Heard It In A Past Life)
+  - Light On (Heard It In A Past Life)
+  - Love You For A Long Time (Love You For A Long Time)
+  - The Kill (Don't Forget Me)
+  - Say It (Heard It In A Past Life)
+  - Fallingwater (Heard It In A Past Life)
+  - Don't Forget Me (Don't Forget Me)
+  - In The Living Room (In The Living Room)
+  - So Sick Of Dreaming (Don't Forget Me)
 external_urls:
-  spotify: https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe
+  spotify: 'https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/maggie_jones.jpg
 biography_enhanced_at: '2025-11-27T06:30:01.995723'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- the78rpmrecordspins.wordpress.com
-- texasstandard.org
-- namu.wiki
-- kutx.org
-- tshaonline.org
-- allmusic.com
+  - the78rpmrecordspins.wordpress.com
+  - texasstandard.org
+  - namu.wiki
+  - kutx.org
+  - tshaonline.org
+  - allmusic.com
 network_extracted: true
 entry_created: '2025-11-27T06:30:01.995738'
 last_updated: '2025-12-23T08:16:12.489417'
+artist_type: person
 ---
 
 ![](maggie_jones.jpg)

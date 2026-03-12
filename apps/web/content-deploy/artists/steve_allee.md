@@ -1,17 +1,17 @@
 ---
-title: STEVE ALLEE
+title: Steve Allee
 wiki_slug: steve-allee
 schema_version: 2
 status: active
-birth_place: Indianapolis, Indiana, United States
+birth_place: 'Indianapolis, Indiana, United States'
 genres:
-- trance
-- progressive trance
+  - trance
+  - progressive trance
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/steve_allee.jpg
   caption: STEVE ALLEE
   background: solo_singer
-  origin: Indianapolis, Indiana, United States
+  origin: 'Indianapolis, Indiana, United States'
 audio_profile:
   tempo_avg: 138.2
   energy_avg: 0.967
@@ -27,52 +27,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Buddy Rich
-  - John Von Ohlen
-  - Rufus Reid
-  - Slide Hampton
-  - James Moody
-  - John Clayton
+    - Buddy Rich
+    - John Von Ohlen
+    - Rufus Reid
+    - Slide Hampton
+    - James Moody
+    - John Clayton
   influenced:
-  - Indianapolis jazz community
+    - Indianapolis jazz community
   mentors:
-  - Claude Sifferlen
+    - Claude Sifferlen
 spotify_data:
   followers: 8567
   id: 5oM9MmVWGFrIcVyojUVwcJ
   popularity: 29
-  url: https://open.spotify.com/artist/5oM9MmVWGFrIcVyojUVwcJ
+  url: 'https://open.spotify.com/artist/5oM9MmVWGFrIcVyojUVwcJ'
 discography_enriched: true
 top_tracks:
-- Skyfire - Steve Allen & Devon Colombage Remix
-- Giver of Light
-- Adagio For Strings 2021
-- Fairytales (From Then On)
-- Silhouette - Steve Allen 2019 Respray
-- Refrains Of Nature
-- Falling
-- Another Perfect Day - Steve Allen Remix
-- Home
-- The Sign
+  - Skyfire - Steve Allen & Devon Colombage Remix
+  - Giver of Light
+  - Adagio For Strings 2021
+  - Fairytales (From Then On)
+  - Silhouette - Steve Allen 2019 Respray
+  - Refrains Of Nature
+  - Falling
+  - Another Perfect Day - Steve Allen Remix
+  - Home
+  - The Sign
 external_urls:
-  spotify: https://open.spotify.com/artist/5oM9MmVWGFrIcVyojUVwcJ
-  wikipedia: https://en.wikipedia.org/wiki/Steve_Allee
+  spotify: 'https://open.spotify.com/artist/5oM9MmVWGFrIcVyojUVwcJ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Steve_Allee'
 image_path: 03_Resources/source_material/ArtistPortraits/steve_allee.jpg
 biography_enhanced_at: '2025-10-28T09:16:47.286095'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Steve_Allee
-- https://ourbrowncounty.com/2005-june/jazzman-steve-allee/
-- https://www.ijazzmusic.com/pages/steve-allee
-- https://www.makingascene.org/steve-allee-big-band-naptown-sound/
-- https://www.wfyi.org/programs/cultural-manifesto/radio/steve-allee
-- https://www.wfyi.org/news/articles/interview-indy-jazz-musician-steve-allee-explores-the-naptown-sound
-- https://indianamusicpedia.com/encyclopedia/allee-steve/
-- https://www.allaboutjazz.com/musicians/steve-allee/
+  - 'https://en.wikipedia.org/wiki/Steve_Allee'
+  - 'https://ourbrowncounty.com/2005-june/jazzman-steve-allee/'
+  - 'https://www.ijazzmusic.com/pages/steve-allee'
+  - 'https://www.makingascene.org/steve-allee-big-band-naptown-sound/'
+  - 'https://www.wfyi.org/programs/cultural-manifesto/radio/steve-allee'
+  - >-
+    https://www.wfyi.org/news/articles/interview-indy-jazz-musician-steve-allee-explores-the-naptown-sound
+  - 'https://indianamusicpedia.com/encyclopedia/allee-steve/'
+  - 'https://www.allaboutjazz.com/musicians/steve-allee/'
 network_extracted: true
 entry_created: '2025-10-28T09:16:47.286100'
 last_updated: '2025-12-23T08:16:16.075962'
+origin: 'Indianapolis, Indiana, United States'
+birth_date: '1950-09-14'
+artist_type: person
 ---
 
 ![](steve_allee.jpg)

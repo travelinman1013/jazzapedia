@@ -5,29 +5,29 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1937-06-04'
-birth_place: San Benito
+birth_place: 'San Benito, Texas, United States'
 death_date: '2006-10-14'
 genres:
-- tejano
+  - tejano
 instruments:
-- original
-- electric guitar
-- guitar
-- lead vocals
-- background vocals
-- choir vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - original
-  mbid: 6316c2bc-3749-4ccf-8e10-f2b136e21448
-  name: Texas Tornados
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6f6ce604-91d8-4446-9d85-0ce56675f207
-  name: Los Super Seven
+  - electric guitar
+  - guitar
+  - lead vocals
+  - background vocals
+  - choir vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 6316c2bc-3749-4ccf-8e10-f2b136e21448
+    name: Texas Tornados
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6f6ce604-91d8-4446-9d85-0ce56675f207
+    name: Los Super Seven
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/freddy_fender.jpg
   caption: Freddy Fender
@@ -50,61 +50,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Doug Sahm
-  - Flaco Jiménez
-  - Augie Meyers
-  - Aaron Neville
-  - Dr. John
-  - Los Lobos members
-  - Ruben Ramos
-  - Joe Ely
-  - Rick Treviño
+    - Doug Sahm
+    - Flaco Jiménez
+    - Augie Meyers
+    - Aaron Neville
+    - Dr. John
+    - Los Lobos members
+    - Ruben Ramos
+    - Joe Ely
+    - Rick Treviño
   influenced: []
   mentors:
-  - Huey Meaux
+    - Huey Meaux
 spotify_data:
   followers: 185179
   id: 0SNdq9iJyup4XY6JbNHbt6
   popularity: 48
-  url: https://open.spotify.com/artist/0SNdq9iJyup4XY6JbNHbt6
+  url: 'https://open.spotify.com/artist/0SNdq9iJyup4XY6JbNHbt6'
 discography_enriched: true
 top_tracks:
-- Wasted Days And Wasted Nights (Before The Next Teardrop Falls)
-- Before The Next Teardrop Falls (Before The Next Teardrop Falls)
-- Wasted Days and Wasted Nights
-- Before the Next Teardrop Falls
-- Vertical Expression (of Horizontal Desire) [feat. Freddy Fender] (Lonely Planet (Deluxe Edition))
-- Before the Next Teardrop Falls (Money (That's What I Want))
-- Vaya Con Dios
-- I Can't Stop Loving You
-- I Love My Rancho Grande (Before The Next Teardrop Falls)
-- Wild Side Of Life (Before The Next Teardrop Falls)
+  - Wasted Days And Wasted Nights (Before The Next Teardrop Falls)
+  - Before The Next Teardrop Falls (Before The Next Teardrop Falls)
+  - Wasted Days and Wasted Nights
+  - Before the Next Teardrop Falls
+  - >-
+    Vertical Expression (of Horizontal Desire) [feat. Freddy Fender] (Lonely
+    Planet (Deluxe Edition))
+  - Before the Next Teardrop Falls (Money (That's What I Want))
+  - Vaya Con Dios
+  - I Can't Stop Loving You
+  - I Love My Rancho Grande (Before The Next Teardrop Falls)
+  - Wild Side Of Life (Before The Next Teardrop Falls)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e2050382-282f-40e5-8f33-01ee4647ad3f
-  spotify: https://open.spotify.com/artist/0SNdq9iJyup4XY6JbNHbt6
-  wikipedia: https://en.wikipedia.org/wiki/Freddy_Fender
+  musicbrainz: 'https://musicbrainz.org/artist/e2050382-282f-40e5-8f33-01ee4647ad3f'
+  spotify: 'https://open.spotify.com/artist/0SNdq9iJyup4XY6JbNHbt6'
+  wikipedia: 'https://en.wikipedia.org/wiki/Freddy_Fender'
 image_path: 03_Resources/source_material/ArtistPortraits/freddy_fender.jpg
 biography_enhanced_at: '2025-11-27T06:39:57.681080'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Texas State Historical Association - Huerta, Baldemar [Freddy Fender]
-- EBSCO Research Starters - Freddy Fender Biography
-- Hollywood Walk of Fame - Freddy Fender
-- Last.fm - Freddy Fender
-- Wikipedia - Freddy Fender
-- Texas Standard - Freddy Fender's Journey to the Top of the Charts
-- Official Freddy Fender Website - Biography
-- Tejano Nation - Freddy Fender Autobiography
+  - 'Texas State Historical Association - Huerta, Baldemar [Freddy Fender]'
+  - EBSCO Research Starters - Freddy Fender Biography
+  - Hollywood Walk of Fame - Freddy Fender
+  - Last.fm - Freddy Fender
+  - Wikipedia - Freddy Fender
+  - Texas Standard - Freddy Fender's Journey to the Top of the Charts
+  - Official Freddy Fender Website - Biography
+  - Tejano Nation - Freddy Fender Autobiography
 network_extracted: true
 entry_created: '2025-11-27T06:39:57.681092'
 last_updated: '2025-12-23T08:16:08.854589'
 gender: Male
 musicbrainz_id: e2050382-282f-40e5-8f33-01ee4647ad3f
 tags:
-- 2008 universal fire victim
-- swamp pop
-
+  - 2008 universal fire victim
+  - swamp pop
+is_active: false
 ---
 
 ![](freddy_fender.jpg)

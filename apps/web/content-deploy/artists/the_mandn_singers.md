@@ -4,7 +4,7 @@ wiki_slug: the-mn-singers
 schema_version: 2
 status: active
 genres:
-- soundtrack
+  - soundtrack
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_mandn_singers.jpg
   caption: The M&N Singers
@@ -24,45 +24,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Reverend John Wilkins
+    - Reverend John Wilkins
   influenced:
-  - Contemporary Southern gospel artists
+    - Contemporary Southern gospel artists
   mentors:
-  - Rev. Robert Wilkins
+    - Rev. Robert Wilkins
 spotify_data:
   followers: 1324773
   id: 1nIUhcKHnK6iyumRyoV68C
   popularity: 65
-  url: https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C
+  url: 'https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C'
 discography_enriched: true
 top_tracks:
-- The Ecstasy Of Gold - 2004 Remaster (The Good, The Bad And The Ugly [Original Motion Picture Soundtrack / (Remastered &
-  Expanded)])
-- The Good, The Bad And The Ugly - 2004 Remaster (The Good, The Bad And The Ugly [Original Motion Picture Soundtrack / (Remastered
-  & Expanded)])
-- 'Gabriel''s Oboe (The Mission: Music From The Motion Picture)'
-- 'The Mission: Gabriel''s Oboe (Yo-Yo Ma Plays Ennio Morricone (Remastered))'
-- Intervallo II
-- Here's to you (feat. Joan Baez)
-- The Good, The Bad and The Ugly - Il Buono, Il Brutto, Il Cattivo (Titles) (The Good, The Bad and The Ugly (Original Motion
-  Picture Soundtrack) [Remastered Edition])
-- 'The Mission (The Mission: Music From The Motion Picture)'
-- The Ecstasy of Gold - L'Estasi Dell'oro (The Good, The Bad and The Ugly (Original Motion Picture Soundtrack) [Remastered
-  Edition])
-- Per un pugno di dollari - Titoli
+  - >-
+    The Ecstasy Of Gold - 2004 Remaster (The Good, The Bad And The Ugly
+    [Original Motion Picture Soundtrack / (Remastered & Expanded)])
+  - >-
+    The Good, The Bad And The Ugly - 2004 Remaster (The Good, The Bad And The
+    Ugly [Original Motion Picture Soundtrack / (Remastered & Expanded)])
+  - 'Gabriel''s Oboe (The Mission: Music From The Motion Picture)'
+  - 'The Mission: Gabriel''s Oboe (Yo-Yo Ma Plays Ennio Morricone (Remastered))'
+  - Intervallo II
+  - Here's to you (feat. Joan Baez)
+  - >-
+    The Good, The Bad and The Ugly - Il Buono, Il Brutto, Il Cattivo (Titles)
+    (The Good, The Bad and The Ugly (Original Motion Picture Soundtrack)
+    [Remastered Edition])
+  - 'The Mission (The Mission: Music From The Motion Picture)'
+  - >-
+    The Ecstasy of Gold - L'Estasi Dell'oro (The Good, The Bad and The Ugly
+    (Original Motion Picture Soundtrack) [Remastered Edition])
+  - Per un pugno di dollari - Titoli
 external_urls:
-  spotify: https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C
+  spotify: 'https://open.spotify.com/artist/1nIUhcKHnK6iyumRyoV68C'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/the_mandn_singers.jpg
 biography_enhanced_at: '2025-11-01T15:29:49.076463'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://forcedexposure.com/Artists/WILKINS.REVEREND.JOHN.html
+  - 'https://forcedexposure.com/Artists/WILKINS.REVEREND.JOHN.html'
 network_extracted: true
 entry_created: '2025-11-01T15:29:49.076469'
 last_updated: '2025-12-23T08:16:16.921340'
-origin: Mississippi, United States
+origin: 'Mississippi, United States'
+artist_type: band
 ---
 
 ![](the_mandn_singers.jpg)

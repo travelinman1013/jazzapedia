@@ -1,20 +1,20 @@
 ---
-title: diana ross
+title: Diana Ross
 wiki_slug: diana-ross
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1944-03-26'
-birth_place: Detroit, Michigan, United States
+birth_place: 'Detroit, Michigan, United States'
 genres:
-- motown
-- disco
+  - motown
+  - disco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/diana_ross.jpg
   caption: diana ross
   background: solo_singer
   born: '1944-03-26'
-  origin: Detroit, Michigan, United States
+  origin: 'Detroit, Michigan, United States'
 audio_profile:
   tempo_avg: 113.3
   energy_avg: 0.627
@@ -30,42 +30,44 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Supremes (Mary Wilson, Florence Ballard, Cindy Birdsong)
-  - The Jackson 5
-  - Michael Jackson
+    - 'The Supremes (Mary Wilson, Florence Ballard, Cindy Birdsong)'
+    - The Jackson 5
+    - Michael Jackson
   influenced: []
   mentors:
-  - Berry Gordy
-  - Nickolas Ashford and Valerie Simpson
+    - Berry Gordy
+    - Nickolas Ashford and Valerie Simpson
 spotify_data:
   followers: 2196325
   id: 3MdG05syQeRYPPcClLaUGl
   popularity: 64
-  url: https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl
+  url: 'https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl'
 discography_enriched: true
 top_tracks:
-- I'm Coming Out (Diana)
-- Endless Love
-- Upside Down (Diana)
-- Endless Love - From "The Endless Love" Soundtrack
-- Ain't No Mountain High Enough
-- When You Tell Me That You Love Me (with Diana Ross) (Face To Face)
-- Chain Reaction (Eaten Alive)
-- You Are Everything (Diana & Marvin (Expanded Edition))
-- The Boss (The Boss (Expanded Edition))
-- Theme From Mahogany (Do You Know Where You're Going To) - Single Version (Diana Ross)
+  - I'm Coming Out (Diana)
+  - Endless Love
+  - Upside Down (Diana)
+  - Endless Love - From "The Endless Love" Soundtrack
+  - Ain't No Mountain High Enough
+  - When You Tell Me That You Love Me (with Diana Ross) (Face To Face)
+  - Chain Reaction (Eaten Alive)
+  - You Are Everything (Diana & Marvin (Expanded Edition))
+  - The Boss (The Boss (Expanded Edition))
+  - >-
+    Theme From Mahogany (Do You Know Where You're Going To) - Single Version
+    (Diana Ross)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/60d41417-feda-4734-bbbf-7dcc30e08a83
-  spotify: https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl
-  wikipedia: https://en.wikipedia.org/wiki/Diana_Ross
+  musicbrainz: 'https://musicbrainz.org/artist/60d41417-feda-4734-bbbf-7dcc30e08a83'
+  spotify: 'https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl'
+  wikipedia: 'https://en.wikipedia.org/wiki/Diana_Ross'
 image_path: 03_Resources/source_material/ArtistPortraits/diana_ross.jpg
 biography_enhanced_at: '2025-10-20T09:04:10.326738'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Diana_Ross
-- https://aaregistry.org/story/diana-ross-born/
-- https://www.udiscovermusic.com/stories/diana-ross-motown-supreme-icon/
+  - 'https://en.wikipedia.org/wiki/Diana_Ross'
+  - 'https://aaregistry.org/story/diana-ross-born/'
+  - 'https://www.udiscovermusic.com/stories/diana-ross-motown-supreme-icon/'
 network_extracted: true
 entry_created: '2025-10-20T09:04:10.326753'
 last_updated: '2025-12-23T08:16:07.748425'
@@ -73,9 +75,9 @@ gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:51:39.438195'
 musicbrainz_id: 60d41417-feda-4734-bbbf-7dcc30e08a83
 tags:
-- adult contemporary
-- contemporary r&b
-- disco
+  - adult contemporary
+  - contemporary r&b
+  - disco
 ---
 
 ![](diana_ross.jpg)

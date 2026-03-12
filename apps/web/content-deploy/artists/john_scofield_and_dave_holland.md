@@ -3,48 +3,60 @@ biography_enhanced_at: '2025-12-25T01:04:32.663606'
 enhancement_provider: perplexity
 entry_created: '2025-12-25T01:04:32.663625'
 external_urls:
-  spotify: https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK
+  spotify: 'https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK'
   wikipedia: ''
 genres:
-- jazz fusion
-- jazz
-- jazz funk
-- jazz blues
-- soul jazz
-image_path: 03_Resources/source_material/ArtistPortraits/john_scofield_and_dave_holland.jpg
+  - jazz fusion
+  - jazz
+  - jazz funk
+  - jazz blues
+  - soul jazz
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/john_scofield_and_dave_holland.jpg
 last_updated: '2025-12-25T01:04:32.663626'
 musical_connections:
   collaborators:
-  - Joe Lovano
-  - Al Foster
-  - Herbie Hancock
-  - Joe Henderson
+    - Joe Lovano
+    - Al Foster
+    - Herbie Hancock
+    - Joe Henderson
   influenced:
-  - Contemporary jazz guitarists and bassists working in duo and small‑group formats
+    - >-
+      Contemporary jazz guitarists and bassists working in duo and small‑group
+      formats
   mentors:
-  - Miles Davis
-  - Herbie Hancock
-  - Joe Henderson
+    - Miles Davis
+    - Herbie Hancock
+    - Joe Henderson
 network_extracted: true
-origin: New York–based collaboration between John Scofield (originally from Dayton, Ohio, United States) and Dave Holland (originally from Wolverhampton, England, United Kingdom), primarily documented on an ECM Records release.
+origin: >-
+  New York–based collaboration between John Scofield (originally from Dayton,
+  Ohio, United States) and Dave Holland (originally from Wolverhampton, England,
+  United Kingdom), primarily documented on an ECM Records release.
 primary_source: perplexity
 research_sources:
-- SFJAZZ – John Scofield & Dave Holland concert description[1]
-- DL Media Music press release for John Scofield & Dave Holland – “Memories of Home”[2]
-- Green Man Review – review of *Memories of Home*[3]
-- JazzTrail – review of *Memories of Home*[4]
-- PostGenre – review of *Memories of Home*[5]
-- All About Jazz – review of *Memories of Home*[6]
-- Dave Holland (bassist) – Wikipedia entry for background on Holland’s career[8]
-- John Scofield – official biography on johnscofield.com for Scofield’s wider career context[9]
+  - 'SFJAZZ – John Scofield & Dave Holland concert description[1]'
+  - >-
+    DL Media Music press release for John Scofield & Dave Holland – “Memories of
+    Home”[2]
+  - 'Green Man Review – review of *Memories of Home*[3]'
+  - 'JazzTrail – review of *Memories of Home*[4]'
+  - 'PostGenre – review of *Memories of Home*[5]'
+  - 'All About Jazz – review of *Memories of Home*[6]'
+  - >-
+    Dave Holland (bassist) – Wikipedia entry for background on Holland’s
+    career[8]
+  - >-
+    John Scofield – official biography on johnscofield.com for Scofield’s wider
+    career context[9]
 spotify_data:
   followers: 196201
   id: 14RXohtx6NiBGFTW8IdmAK
   popularity: 47
-  url: https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK
+  url: 'https://open.spotify.com/artist/14RXohtx6NiBGFTW8IdmAK'
 status: active
 title: John Scofield & Dave Holland
-
+artist_type: band
 ---
 
 ![](john_scofield_and_dave_holland.jpg)

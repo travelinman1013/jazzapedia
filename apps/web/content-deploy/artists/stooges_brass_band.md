@@ -2,19 +2,19 @@
 title: Stooges Brass Band
 wiki_slug: stooges-brass-band
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1996'
 genres:
-- new orleans bounce
-- cajun
+  - new orleans bounce
+  - cajun
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/stooges_brass_band.jpg
   caption: Stooges Brass Band
   background: group_or_band
   born: '1996'
 audio_profile:
-  tempo_avg: 113.0
+  tempo_avg: 113
   energy_avg: 0.72
   valence_avg: 0.556
   danceability_avg: 0.524
@@ -28,68 +28,68 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jessica Simpson
-  - Jadakiss
-  - JumpShive
-  - Violator Management
+    - Jessica Simpson
+    - Jadakiss
+    - JumpShive
+    - Violator Management
   influenced: []
   mentors:
-  - Rebirth Brass Band
-  - New Orleans Center for Creative Arts (NOCCA)
+    - Rebirth Brass Band
+    - New Orleans Center for Creative Arts (NOCCA)
 spotify_data:
   followers: 3042
   id: 6roac4vErdDz3KjVAAj034
   popularity: 9
-  url: https://open.spotify.com/artist/6roac4vErdDz3KjVAAj034
+  url: 'https://open.spotify.com/artist/6roac4vErdDz3KjVAAj034'
 discography_enriched: true
 top_tracks:
-- Stooges Party (It's About Time)
-- Wind It Up (It's About Time)
-- Oh No (Thursday Night House Party)
-- Thursday Night House Party (Thursday Night House Party)
-- Where Ya From, Pt. 2 (Thursday Night House Party)
-- Don't Hate the Groove (Thursday Night House Party)
-- Doin' My Job (Thursday Night House Party)
-- Weed Drought (It's About Time)
-- Amazing Grace (Thursday Night House Party)
-- Spain (Thursday Night House Party)
+  - Stooges Party (It's About Time)
+  - Wind It Up (It's About Time)
+  - Oh No (Thursday Night House Party)
+  - Thursday Night House Party (Thursday Night House Party)
+  - 'Where Ya From, Pt. 2 (Thursday Night House Party)'
+  - Don't Hate the Groove (Thursday Night House Party)
+  - Doin' My Job (Thursday Night House Party)
+  - Weed Drought (It's About Time)
+  - Amazing Grace (Thursday Night House Party)
+  - Spain (Thursday Night House Party)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c04e289c-fd63-480d-a896-f1a3a178b3c7
-  spotify: https://open.spotify.com/artist/6roac4vErdDz3KjVAAj034
+  musicbrainz: 'https://musicbrainz.org/artist/c04e289c-fd63-480d-a896-f1a3a178b3c7'
+  spotify: 'https://open.spotify.com/artist/6roac4vErdDz3KjVAAj034'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/stooges_brass_band.jpg
 biography_enhanced_at: '2025-12-04T07:50:23.529945'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Hep Cat Entertainment - Stooges Brass Band Services
-- 'WWNO - American Routes: The Stooges Brass Band'
-- Music Rising - Tulane University
-- New Orleans Tourism - Stooges Brass Band Listing
-- Matt Sakakeeny - Brass Bands Documentation
-- Stooges Brass Band Official Website - About
-- American Routes - November 2024 Broadcast
+  - Hep Cat Entertainment - Stooges Brass Band Services
+  - 'WWNO - American Routes: The Stooges Brass Band'
+  - Music Rising - Tulane University
+  - New Orleans Tourism - Stooges Brass Band Listing
+  - Matt Sakakeeny - Brass Bands Documentation
+  - Stooges Brass Band Official Website - About
+  - American Routes - November 2024 Broadcast
 network_extracted: true
 entry_created: '2025-12-04T07:50:23.529957'
 last_updated: '2025-12-23T08:16:16.175307'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a842b4bb-c3fe-4148-aa9e-0137db09d8f7
-  name: Dwayne Finnie
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7bec60c2-46a8-4c8a-b302-186d888856f4
-  name: Alfred Growe
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 444d01ad-2cc5-4b9c-be2a-cf2f24f4b91a
-  name: Erion Williams
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a842b4bb-c3fe-4148-aa9e-0137db09d8f7
+    name: Dwayne Finnie
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7bec60c2-46a8-4c8a-b302-186d888856f4
+    name: Alfred Growe
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 444d01ad-2cc5-4b9c-be2a-cf2f24f4b91a
+    name: Erion Williams
 musicbrainz_id: c04e289c-fd63-480d-a896-f1a3a178b3c7
-origin: New Orleans
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](stooges_brass_band.jpg)

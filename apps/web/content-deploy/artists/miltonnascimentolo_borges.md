@@ -3,15 +3,15 @@ title: Milton/Nascimento/Lo Borges
 wiki_slug: miltonnascimentolo-borges
 schema_version: 2
 status: active
-birth_place: Três Pontas, Minas Gerais, Brazil
+birth_place: 'Três Pontas, Minas Gerais, Brazil'
 genres:
-- mpb
-- brazilian jazz
+  - mpb
+  - brazilian jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/miltonnascimentolo_borges.jpg
   caption: Milton/Nascimento/Lo Borges
   background: solo_singer
-  origin: Três Pontas, Minas Gerais, Brazil
+  origin: 'Três Pontas, Minas Gerais, Brazil'
 audio_profile:
   tempo_avg: 123.8
   energy_avg: 0.538
@@ -27,51 +27,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lô Borges
-  - Wagner Tiso
-  - Wayne Shorter
-  - Fernando Brant
-  - Elis Regina
+    - Lô Borges
+    - Wagner Tiso
+    - Wayne Shorter
+    - Fernando Brant
+    - Elis Regina
   influenced:
-  - Djavan
-  - Lenine
-  - Björk
+    - Djavan
+    - Lenine
+    - Björk
   mentors:
-  - Elis Regina
-  - João Gilberto
+    - Elis Regina
+    - João Gilberto
 spotify_data:
   followers: 193220
   id: 1mZbRiSVb2ExneAlDbBiiT
   popularity: 58
-  url: https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT
+  url: 'https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT'
 discography_enriched: true
 top_tracks:
-- Um Girassol Da Cor Do Seu Cabelo (Clube Da Esquina)
-- Cravo E Canela (Clube Da Esquina)
-- O Trem Azul (Clube Da Esquina)
-- Um Girassol Da Cor Do Seu Cabelo (Para Sempre)
-- Paisagem Da Janela (Clube Da Esquina)
-- O Trem Azul (Meus Momentos)
-- Paisagem Da Janela (Meus Momentos)
-- Trem De Doido (Clube Da Esquina)
-- Paisagem da Janela - Ao Vivo (Tênis + Clube - Ao Vivo No Circo Voador)
-- Clube Da Esquina Nº 2 (A Via-Láctea)
+  - Um Girassol Da Cor Do Seu Cabelo (Clube Da Esquina)
+  - Cravo E Canela (Clube Da Esquina)
+  - O Trem Azul (Clube Da Esquina)
+  - Um Girassol Da Cor Do Seu Cabelo (Para Sempre)
+  - Paisagem Da Janela (Clube Da Esquina)
+  - O Trem Azul (Meus Momentos)
+  - Paisagem Da Janela (Meus Momentos)
+  - Trem De Doido (Clube Da Esquina)
+  - Paisagem da Janela - Ao Vivo (Tênis + Clube - Ao Vivo No Circo Voador)
+  - Clube Da Esquina Nº 2 (A Via-Láctea)
 external_urls:
-  spotify: https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT
-  wikipedia: https://en.wikipedia.org/wiki/Milton_Nascimento
+  spotify: 'https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT'
+  wikipedia: 'https://en.wikipedia.org/wiki/Milton_Nascimento'
 image_path: 03_Resources/source_material/ArtistPortraits/miltonnascimentolo_borges.jpg
 biography_enhanced_at: '2025-11-10T03:37:29.607147'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.allaboutjazz.com/musicians/milton-nascimento/
-- https://folkworks.org/article/the-magic-of-milton-milton-nascimento/
-- https://en.wikipedia.org/wiki/Milton_Nascimento
-- https://www.bluenote.com/artist/milton-nascimento/
-- https://www.kcrw.com/stories/milton-nascimento-a-different-kind-of-brazilian-voice
+  - 'https://www.allaboutjazz.com/musicians/milton-nascimento/'
+  - 'https://folkworks.org/article/the-magic-of-milton-milton-nascimento/'
+  - 'https://en.wikipedia.org/wiki/Milton_Nascimento'
+  - 'https://www.bluenote.com/artist/milton-nascimento/'
+  - >-
+    https://www.kcrw.com/stories/milton-nascimento-a-different-kind-of-brazilian-voice
 network_extracted: true
 entry_created: '2025-11-10T03:37:29.607161'
 last_updated: '2025-12-23T08:16:13.176660'
+birth_date: '1942-10-26'
+artist_type: person
 ---
 
 ![](miltonnascimentolo_borges.jpg)

@@ -3,14 +3,14 @@ title: The Junior League
 wiki_slug: the-junior-league
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- power pop
+  - power pop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_junior_league.jpg
   caption: The Junior League
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 132.8
   energy_avg: 0.72
@@ -18,7 +18,7 @@ audio_profile:
   danceability_avg: 0.505
   acousticness_avg: 0.12
   instrumentalness_avg: 0.097
-  loudness_avg: -7.0
+  loudness_avg: -7
   speechiness_avg: 0.036
   liveness_avg: 0.249
   track_count: 50
@@ -26,42 +26,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Various New Orleans musicians
+    - Various New Orleans musicians
   influenced: []
   mentors:
-  - The Beatles
-  - Big Star
+    - The Beatles
+    - Big Star
 spotify_data:
   followers: 323
   id: 5NHTc6qsjrqANEV3tCLPLb
   popularity: 1
-  url: https://open.spotify.com/artist/5NHTc6qsjrqANEV3tCLPLb
+  url: 'https://open.spotify.com/artist/5NHTc6qsjrqANEV3tCLPLb'
 discography_enriched: true
 top_tracks:
-- Let's Hear It For The Dead (OUR BROADCAST DAY)
-- Everybody Knows (OUR BROADCAST DAY)
-- The Me and Them (OUR BROADCAST DAY)
-- 1973 Nervous Breakdown (OUR BROADCAST DAY)
-- Skinny Tie (Nattering Nabobs)
-- Also Rans (Also Rans)
-- A Dagger and a Kiss (Also Rans)
-- The Stars in Our Eyes (Also Rans)
-- Before You Go (Also Rans)
-- Please (I Need You To) (Also Rans)
+  - Let's Hear It For The Dead (OUR BROADCAST DAY)
+  - Everybody Knows (OUR BROADCAST DAY)
+  - The Me and Them (OUR BROADCAST DAY)
+  - 1973 Nervous Breakdown (OUR BROADCAST DAY)
+  - Skinny Tie (Nattering Nabobs)
+  - Also Rans (Also Rans)
+  - A Dagger and a Kiss (Also Rans)
+  - The Stars in Our Eyes (Also Rans)
+  - Before You Go (Also Rans)
+  - Please (I Need You To) (Also Rans)
 external_urls:
-  spotify: https://open.spotify.com/artist/5NHTc6qsjrqANEV3tCLPLb
+  spotify: 'https://open.spotify.com/artist/5NHTc6qsjrqANEV3tCLPLb'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/the_junior_league.jpg
 biography_enhanced_at: '2025-11-04T10:53:09.107580'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://thejuniorleague.bandcamp.com
-- https://www.myspiltmilk.com/articles/the-junior-league-counts-on-its-friends-at-jazz-fest
-- https://thejuniorleague.bandcamp.com/album/live-at-blue-velvet
+  - 'https://thejuniorleague.bandcamp.com'
+  - >-
+    https://www.myspiltmilk.com/articles/the-junior-league-counts-on-its-friends-at-jazz-fest
+  - 'https://thejuniorleague.bandcamp.com/album/live-at-blue-velvet'
 network_extracted: true
 entry_created: '2025-11-04T10:53:09.107597'
 last_updated: '2025-12-23T08:16:16.884062'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](the_junior_league.jpg)

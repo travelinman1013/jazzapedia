@@ -1,23 +1,23 @@
 ---
-title: small faces
+title: The Small Faces
 wiki_slug: small-faces
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1965'
 genres:
-- acid rock
-- northern soul
-- proto-punk
-- psychedelic pop
-- psychedelic rock
+  - acid rock
+  - northern soul
+  - proto-punk
+  - psychedelic pop
+  - psychedelic rock
 instruments:
-- keyboard
-- original
-- drums (drum set)
-- bass guitar
-- lead vocals
-- guitar
+  - keyboard
+  - original
+  - drums (drum set)
+  - bass guitar
+  - lead vocals
+  - guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/small_faces.jpg
   caption: small faces
@@ -38,140 +38,147 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Steve Marriott
-  - Ronnie Lane
-  - Kenney Jones
-  - Ian McLagan
-  - Rod Stewart
-  - Ron Wood
-  - Peter Frampton
+    - Steve Marriott
+    - Ronnie Lane
+    - Kenney Jones
+    - Ian McLagan
+    - Rod Stewart
+    - Ron Wood
+    - Peter Frampton
   influenced:
-  - The Who
-  - The Rolling Stones
-  - Proto-punk and psychedelic rock artists
+    - The Who
+    - The Rolling Stones
+    - Proto-punk and psychedelic rock artists
   mentors:
-  - Don Arden
-  - Andrew Loog Oldham
+    - Don Arden
+    - Andrew Loog Oldham
 spotify_data:
   followers: 347417
   id: 1YqGsKpdixxSVgpfaL2AEQ
   popularity: 46
-  url: https://open.spotify.com/artist/1YqGsKpdixxSVgpfaL2AEQ
+  url: 'https://open.spotify.com/artist/1YqGsKpdixxSVgpfaL2AEQ'
 discography_enriched: true
 top_tracks:
-- Itchycoo Park (Mono Version) - 2012 Remaster (Small Faces - Deluxe Edition (2012 Remaster))
-- Itchycoo Park (There Are But Four Small Faces (Expanded))
-- All Or Nothing (From The Beginning)
-- Lazy Sunday - Stereo (Ogdens' Nut Gone Flake)
-- Lazy Sunday (Mono Version) (2018 Remaster) (Ogdens' Nut Gone Flake - 50th Anniversary Edition (2018 Remaster))
-- Ogdens' Nut Gone Flake (Stereo Version) (2018 Remaster) (Ogdens' Nut Gone Flake - 50th Anniversary Edition (2018 Remaster))
-- Itchycoo Park - 2012 Remaster
-- Tin Soldier (There Are But Four Small Faces (Expanded))
-- Tin Soldier - 2013 Remaster (Small Faces - Deluxe Edition (2012 Remaster))
-- Lazy Sunday - 2012 Remaster
+  - >-
+    Itchycoo Park (Mono Version) - 2012 Remaster (Small Faces - Deluxe Edition
+    (2012 Remaster))
+  - Itchycoo Park (There Are But Four Small Faces (Expanded))
+  - All Or Nothing (From The Beginning)
+  - Lazy Sunday - Stereo (Ogdens' Nut Gone Flake)
+  - >-
+    Lazy Sunday (Mono Version) (2018 Remaster) (Ogdens' Nut Gone Flake - 50th
+    Anniversary Edition (2018 Remaster))
+  - >-
+    Ogdens' Nut Gone Flake (Stereo Version) (2018 Remaster) (Ogdens' Nut Gone
+    Flake - 50th Anniversary Edition (2018 Remaster))
+  - Itchycoo Park - 2012 Remaster
+  - Tin Soldier (There Are But Four Small Faces (Expanded))
+  - Tin Soldier - 2013 Remaster (Small Faces - Deluxe Edition (2012 Remaster))
+  - Lazy Sunday - 2012 Remaster
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7771a68c-ef6a-400f-978d-64050d45a54c
-  spotify: https://open.spotify.com/artist/1YqGsKpdixxSVgpfaL2AEQ
+  musicbrainz: 'https://musicbrainz.org/artist/7771a68c-ef6a-400f-978d-64050d45a54c'
+  spotify: 'https://open.spotify.com/artist/1YqGsKpdixxSVgpfaL2AEQ'
   wikipedia: Not provided in search results
 image_path: 03_Resources/source_material/ArtistPortraits/small_faces.jpg
 biography_enhanced_at: '2025-11-27T06:34:56.413271'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.thesmallfaces.com/biography/
-- https://www.rhino.com/article/the-small-facesfaces
-- https://ultimateclassicrock.com/how-the-small-faces-became-the-faces/
-- https://www.last.fm/music/Small+Faces/+wiki
-- https://www.goldminemag.com/articles/the-small-faces-story-was-just-one-chapter-for-the-band/
+  - 'https://www.thesmallfaces.com/biography/'
+  - 'https://www.rhino.com/article/the-small-facesfaces'
+  - 'https://ultimateclassicrock.com/how-the-small-faces-became-the-faces/'
+  - 'https://www.last.fm/music/Small+Faces/+wiki'
+  - >-
+    https://www.goldminemag.com/articles/the-small-faces-story-was-just-one-chapter-for-the-band/
 network_extracted: true
 entry_created: '2025-11-27T06:34:56.413283'
 last_updated: '2025-12-23T08:16:15.769881'
 members:
-- begin: '1965'
-  end: '1965'
-  instruments:
-  - keyboard
-  - original
-  mbid: 7e73c148-8c12-4499-8f35-4f69293a9154
-  name: Jimmy Winston
-- begin: '1965'
-  end: '1969'
-  instruments:
-  - drums (drum set)
-  - original
-  mbid: de4e47e4-d92e-4d50-b429-9423d53d8456
-  name: Kenney Jones
-- begin: '1965'
-  end: '1969'
-  instruments:
-  - bass guitar
-  - lead vocals
-  - original
-  mbid: a84b016e-4c02-44ac-ba3f-fa8290a10e4d
-  name: Ronnie Lane
-- begin: '1965'
-  end: '1969'
-  instruments:
-  - guitar
-  - lead vocals
-  - original
-  mbid: 380181bc-9bcf-4933-97ac-38aee6940445
-  name: Steve Marriott
-- begin: '1966'
-  end: '1969'
-  instruments:
-  - keyboard
-  - lead vocals
-  mbid: a2a3529b-6425-417e-b7e7-29255b7acd90
-  name: Ian McLagan
-- begin: '1975'
-  end: '1975'
-  instruments:
-  - bass guitar
-  - lead vocals
-  - original
-  mbid: a84b016e-4c02-44ac-ba3f-fa8290a10e4d
-  name: Ronnie Lane
-- begin: '1975'
-  end: '1978'
-  instruments:
-  - drums (drum set)
-  - original
-  mbid: de4e47e4-d92e-4d50-b429-9423d53d8456
-  name: Kenney Jones
-- begin: '1975'
-  end: '1978'
-  instruments:
-  - guitar
-  - lead vocals
-  - original
-  mbid: 380181bc-9bcf-4933-97ac-38aee6940445
-  name: Steve Marriott
-- begin: '1975'
-  end: '1978'
-  instruments:
-  - keyboard
-  - lead vocals
-  mbid: a2a3529b-6425-417e-b7e7-29255b7acd90
-  name: Ian McLagan
-- begin: '1976'
-  end: '1978'
-  instruments:
-  - bass guitar
-  mbid: 513f7dd3-1987-4c8d-a44e-9f770a526ba9
-  name: Rick Wills
-- begin: '1977'
-  end: '1977'
-  instruments:
-  - guitar
-  mbid: c8a57c9b-f09c-47f4-89e4-751bf6a19166
-  name: Jimmy McCulloch
+  - begin: '1965'
+    end: '1965'
+    instruments:
+      - keyboard
+      - original
+    mbid: 7e73c148-8c12-4499-8f35-4f69293a9154
+    name: Jimmy Winston
+  - begin: '1965'
+    end: '1969'
+    instruments:
+      - drums (drum set)
+      - original
+    mbid: de4e47e4-d92e-4d50-b429-9423d53d8456
+    name: Kenney Jones
+  - begin: '1965'
+    end: '1969'
+    instruments:
+      - bass guitar
+      - lead vocals
+      - original
+    mbid: a84b016e-4c02-44ac-ba3f-fa8290a10e4d
+    name: Ronnie Lane
+  - begin: '1965'
+    end: '1969'
+    instruments:
+      - guitar
+      - lead vocals
+      - original
+    mbid: 380181bc-9bcf-4933-97ac-38aee6940445
+    name: Steve Marriott
+  - begin: '1966'
+    end: '1969'
+    instruments:
+      - keyboard
+      - lead vocals
+    mbid: a2a3529b-6425-417e-b7e7-29255b7acd90
+    name: Ian McLagan
+  - begin: '1975'
+    end: '1975'
+    instruments:
+      - bass guitar
+      - lead vocals
+      - original
+    mbid: a84b016e-4c02-44ac-ba3f-fa8290a10e4d
+    name: Ronnie Lane
+  - begin: '1975'
+    end: '1978'
+    instruments:
+      - drums (drum set)
+      - original
+    mbid: de4e47e4-d92e-4d50-b429-9423d53d8456
+    name: Kenney Jones
+  - begin: '1975'
+    end: '1978'
+    instruments:
+      - guitar
+      - lead vocals
+      - original
+    mbid: 380181bc-9bcf-4933-97ac-38aee6940445
+    name: Steve Marriott
+  - begin: '1975'
+    end: '1978'
+    instruments:
+      - keyboard
+      - lead vocals
+    mbid: a2a3529b-6425-417e-b7e7-29255b7acd90
+    name: Ian McLagan
+  - begin: '1976'
+    end: '1978'
+    instruments:
+      - bass guitar
+    mbid: 513f7dd3-1987-4c8d-a44e-9f770a526ba9
+    name: Rick Wills
+  - begin: '1977'
+    end: '1977'
+    instruments:
+      - guitar
+    mbid: c8a57c9b-f09c-47f4-89e4-751bf6a19166
+    name: Jimmy McCulloch
 musicbrainz_id: 7771a68c-ef6a-400f-978d-64050d45a54c
-origin: London
+origin: 'London, England, United Kingdom'
 tags:
-- blues rock
-- british rhythm & blues
-- mod
+  - blues rock
+  - british rhythm & blues
+  - mod
 ---
 
 ![](small_faces.jpg)

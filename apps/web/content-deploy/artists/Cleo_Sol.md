@@ -2,21 +2,21 @@
 title: Cleo Sol
 wiki_slug: cleo-sol
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1991-03-24'
-birth_place: Ladbroke Grove, London, England, United Kingdom
+birth_place: 'Ladbroke Grove, London, England, United Kingdom'
 genres:
-- neo soul
-- alternative r&b
+  - neo soul
+  - alternative r&b
 instruments:
-- original
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Cleo_Sol.jpg
   caption: Cleo Sol
   background: non_vocal_instrumentalist
   born: '1991-03-24'
-  origin: Ladbroke Grove, London, England, United Kingdom
+  origin: 'Ladbroke Grove, London, England, United Kingdom'
 audio_profile:
   tempo_avg: 115.1
   energy_avg: 0.355
@@ -24,7 +24,7 @@ audio_profile:
   danceability_avg: 0.565
   acousticness_avg: 0.654
   instrumentalness_avg: 0.168
-  loudness_avg: -11.0
+  loudness_avg: -11
   speechiness_avg: 0.063
   liveness_avg: 0.119
   track_count: 50
@@ -32,47 +32,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dean Josiah Cover (Inflo)
-  - Little Simz
-  - SAULT
-  - Tinie Tempah
+    - Dean Josiah Cover (Inflo)
+    - Little Simz
+    - SAULT
+    - Tinie Tempah
   influenced:
-  - Sampa the Great
-  - Poppy Ajudha
+    - Sampa the Great
+    - Poppy Ajudha
   mentors:
-  - DaVinChe
-  - Lauryn Hill
-  - Erykah Badu
+    - DaVinChe
+    - Lauryn Hill
+    - Erykah Badu
 spotify_data:
   followers: 998847
   id: 3ETLPQkcEd7z4k3IbZmXMq
   popularity: 64
-  url: https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq
+  url: 'https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq'
 discography_enriched: true
 top_tracks:
-- Life Will Be (Gold)
-- When I'm in Your Arms (Rose in the Dark)
-- Self (Heaven)
-- Why Don't You (Rose in the Dark)
-- Promises (Mother)
-- Sunshine (Mother)
-- Go Baby (Heaven)
-- Things Will Get Better (Gold)
-- Shine (Shine)
-- Woman (Sometimes I Might Be Introvert)
+  - Life Will Be (Gold)
+  - When I'm in Your Arms (Rose in the Dark)
+  - Self (Heaven)
+  - Why Don't You (Rose in the Dark)
+  - Promises (Mother)
+  - Sunshine (Mother)
+  - Go Baby (Heaven)
+  - Things Will Get Better (Gold)
+  - Shine (Shine)
+  - Woman (Sometimes I Might Be Introvert)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/37e87694-b263-4ff4-839f-463f78cfef54
-  spotify: https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq
-  wikipedia: https://en.wikipedia.org/wiki/Cleo_Sol
+  musicbrainz: 'https://musicbrainz.org/artist/37e87694-b263-4ff4-839f-463f78cfef54'
+  spotify: 'https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq'
+  wikipedia: 'https://en.wikipedia.org/wiki/Cleo_Sol'
 image_path: 03_Resources/source_material/ArtistPortraits/Cleo_Sol.jpg
 biography_enhanced_at: '2025-10-20T09:39:30.241661'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Cleo_Sol
-- https://thebluesproject.co/2022/07/cleo-sol-uk-rnb-neo-soul-music-icon/
-- https://www.compendia.co.uk/journal/cleo-sol
-- https://substack.com/home/post/p-161263046
+  - 'https://en.wikipedia.org/wiki/Cleo_Sol'
+  - 'https://thebluesproject.co/2022/07/cleo-sol-uk-rnb-neo-soul-music-icon/'
+  - 'https://www.compendia.co.uk/journal/cleo-sol'
+  - 'https://substack.com/home/post/p-161263046'
 network_extracted: true
 entry_created: '2025-10-20T09:39:30.241672'
 last_updated: '2025-12-23T08:16:01.544529'
@@ -80,10 +80,9 @@ gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:22:30.102070'
 musicbrainz_id: 37e87694-b263-4ff4-839f-463f78cfef54
 tags:
-- acoustic
-- neo-soul
-- r&b
-
+  - acoustic
+  - neo-soul
+  - r&b
 ---
 
 ![](Cleo_Sol.jpg)

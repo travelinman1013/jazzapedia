@@ -1,18 +1,18 @@
 ---
-title: cash o'riley
+title: Cash O'Riley
 wiki_slug: cash-oriley
 schema_version: 2
 status: active
-birth_place: Jackson, Michigan, USA
+birth_place: 'Jackson, Michigan, USA'
 genres:
-- rockabilly
-- psychobilly
-- roots rock
+  - rockabilly
+  - psychobilly
+  - roots rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/cash_oriley.jpg
   caption: cash o'riley
   background: solo_singer
-  origin: Jackson, Michigan, USA
+  origin: 'Jackson, Michigan, USA'
 audio_profile:
   tempo_avg: 127.5
   energy_avg: 0.707
@@ -28,45 +28,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Cash O'Riley Show
+    - The Cash O'Riley Show
   influenced: []
   mentors:
-  - Johnny Cash
-  - Elvis Presley
-  - Ray Charles
+    - Johnny Cash
+    - Elvis Presley
+    - Ray Charles
 spotify_data:
   followers: 500
   id: 6VbnQC4XxrPxF2Xc87ekrf
   popularity: 1
-  url: https://open.spotify.com/artist/6VbnQC4XxrPxF2Xc87ekrf
+  url: 'https://open.spotify.com/artist/6VbnQC4XxrPxF2Xc87ekrf'
 discography_enriched: true
 top_tracks:
-- 'Ass, Gas or Cash (Stewed & Screwed Hellbilly Blues, Vol. 1: Music for Sirens & Sinners)'
-- 'Wild Women (Stewed & Screwed Hellbilly Blues, Vol. 1: Music for Sirens & Sinners)'
-- 'Wrong Turn ''17 (Stewed & Screwed Hellbilly Blues, Vol. 1: Music for Sirens & Sinners)'
-- 'Rip This Heart (Stewed & Screwed Hellbilly Blues, Vol. 1: Music for Sirens & Sinners)'
-- 'Tennessee Naughty Water (Stewed & Screwed Hellbilly Blues, Vol. 1: Music for Sirens & Sinners)'
-- I Love Rock-N-Roll (Booze, Lust, Lies & Heartache... Revisited)
-- Jackson County Jail (Jackson County Jail)
-- I Love Rock and Roll (Ricochet)
-- 'This Time (Stewed & Screwed Hellbilly Blues, Vol. 1: Music for Sirens & Sinners)'
-- 'Promise You (Stewed & Screwed Hellbilly Blues, Vol. 1: Music for Sirens & Sinners)'
+  - >-
+    Ass, Gas or Cash (Stewed & Screwed Hellbilly Blues, Vol. 1: Music for Sirens
+    & Sinners)
+  - >-
+    Wild Women (Stewed & Screwed Hellbilly Blues, Vol. 1: Music for Sirens &
+    Sinners)
+  - >-
+    Wrong Turn '17 (Stewed & Screwed Hellbilly Blues, Vol. 1: Music for Sirens &
+    Sinners)
+  - >-
+    Rip This Heart (Stewed & Screwed Hellbilly Blues, Vol. 1: Music for Sirens &
+    Sinners)
+  - >-
+    Tennessee Naughty Water (Stewed & Screwed Hellbilly Blues, Vol. 1: Music for
+    Sirens & Sinners)
+  - 'I Love Rock-N-Roll (Booze, Lust, Lies & Heartache... Revisited)'
+  - Jackson County Jail (Jackson County Jail)
+  - I Love Rock and Roll (Ricochet)
+  - >-
+    This Time (Stewed & Screwed Hellbilly Blues, Vol. 1: Music for Sirens &
+    Sinners)
+  - >-
+    Promise You (Stewed & Screwed Hellbilly Blues, Vol. 1: Music for Sirens &
+    Sinners)
 external_urls:
-  spotify: https://open.spotify.com/artist/6VbnQC4XxrPxF2Xc87ekrf
+  spotify: 'https://open.spotify.com/artist/6VbnQC4XxrPxF2Xc87ekrf'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/cash_oriley.jpg
 biography_enhanced_at: '2025-11-04T11:03:08.298023'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.bandmix.com/oriley/
-- https://www.cashoriley.net/epk
-- https://www.bandsintown.com/a/10155972-cash-o'riley-one-man-dirty-hippie-band
-- https://www.urbanbeatevents.com/our-events/2021/10/1/cash-oriley
-- https://www.last.fm/music/Cash+O'Riley/+wiki
+  - 'https://www.bandmix.com/oriley/'
+  - 'https://www.cashoriley.net/epk'
+  - >-
+    https://www.bandsintown.com/a/10155972-cash-o'riley-one-man-dirty-hippie-band
+  - 'https://www.urbanbeatevents.com/our-events/2021/10/1/cash-oriley'
+  - 'https://www.last.fm/music/Cash+O''Riley/+wiki'
 network_extracted: true
 entry_created: '2025-11-04T11:03:08.298041'
 last_updated: '2025-12-23T08:16:06.544556'
+artist_type: person
 ---
 
 ![](cash_oriley.jpg)

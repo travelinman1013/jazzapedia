@@ -1,37 +1,44 @@
 ---
 biography_enhanced_at: '2026-01-03T01:46:21.123307'
-birth_place: Atlanta, Georgia, United States (birthplace); Nashville, Tennessee, United
+birth_place: >-
+  Atlanta, Georgia, United States (birthplace); Nashville, Tennessee, United
   States (current base as of 2014)
 enhancement_provider: perplexity
 entry_created: '2026-01-03T01:46:21.123323'
 external_urls:
-  spotify: https://open.spotify.com/artist/0CbwmV1jWbjFzjd6yNukc5
+  spotify: 'https://open.spotify.com/artist/0CbwmV1jWbjFzjd6yNukc5'
   wikipedia: Not found in search results
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/elijah_jones.jpg
 last_updated: '2026-01-03T01:46:21.123324'
 musical_connections:
   collaborators:
-  - Erik Matthijs
-  - Nic Miller
-  - Keanon-Keaton Payne
+    - Erik Matthijs
+    - Nic Miller
+    - Keanon-Keaton Payne
   influenced: []
   mentors:
-  - Otis Redding
-  - Roy Orbison
-  - The Everly Brothers
+    - Otis Redding
+    - Roy Orbison
+    - The Everly Brothers
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- 'musiccitymike.net - 11 Questions to a Nashville Musician: Elijah Jones & Erik Matthijs'
-- atlantamusicguide.com - 15 Questions with Elijah Jones from The Constellations
+  - >-
+    musiccitymike.net - 11 Questions to a Nashville Musician: Elijah Jones &
+    Erik Matthijs
+  - >-
+    atlantamusicguide.com - 15 Questions with Elijah Jones from The
+    Constellations
 spotify_data:
   followers: 11
   id: 0CbwmV1jWbjFzjd6yNukc5
   popularity: 0
-  url: https://open.spotify.com/artist/0CbwmV1jWbjFzjd6yNukc5
+  url: 'https://open.spotify.com/artist/0CbwmV1jWbjFzjd6yNukc5'
 status: active
-title: elijah jones
+title: Elijah Jones
+origin: 'Nashville, Tennessee, United States'
+artist_type: person
 ---
 
 ![](elijah_jones.jpg)

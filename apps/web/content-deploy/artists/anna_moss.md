@@ -3,22 +3,26 @@ title: Anna Moss
 wiki_slug: anna-moss
 schema_version: 2
 status: active
-birth_place: Ozark Mountains, Arkansas, USA (birthplace); New Orleans, Louisiana, USA (current residence)
+birth_place: >-
+  Ozark Mountains, Arkansas, USA (birthplace); New Orleans, Louisiana, USA
+  (current residence)
 genres:
-- laïko
-- entehno
+  - laïko
+  - entehno
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/anna_moss.jpg
   caption: Anna Moss
   background: solo_singer
-  origin: Ozark Mountains, Arkansas, USA (birthplace); New Orleans, Louisiana, USA (current residence)
+  origin: >-
+    Ozark Mountains, Arkansas, USA (birthplace); New Orleans, Louisiana, USA
+    (current residence)
 audio_profile:
   tempo_avg: 125.3
   energy_avg: 0.646
   valence_avg: 0.567
   danceability_avg: 0.623
   acousticness_avg: 0.313
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -7.8
   speechiness_avg: 0.055
   liveness_avg: 0.267
@@ -27,47 +31,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Joel Ludford
-  - Fernando Lima
-  - Rainbow Girls
-  - Cyrille Aimée
-  - Ashlin Parker
-  - Miles Lyons
-  - Alex Toth
+    - Joel Ludford
+    - Fernando Lima
+    - Rainbow Girls
+    - Cyrille Aimée
+    - Ashlin Parker
+    - Miles Lyons
+    - Alex Toth
   influenced: []
   mentors: []
 spotify_data:
   followers: 335492
   id: 3qg78GGGWP04yTv0ZQMsXl
   popularity: 59
-  url: https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl
+  url: 'https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl'
 discography_enriched: true
 top_tracks:
-- Se Periptosi Pou
-- Lekes
-- Sandre
-- Einai Asteio
-- Psihedelia (Paraxenes Ikones)
-- Sti Pira (Apagorevmeno)
-- Eho Pethani Gia Sena (Paraxenes Ikones)
-- Protimo
-- Ise (Paraxenes Ikones)
-- Aima
+  - Se Periptosi Pou
+  - Lekes
+  - Sandre
+  - Einai Asteio
+  - Psihedelia (Paraxenes Ikones)
+  - Sti Pira (Apagorevmeno)
+  - Eho Pethani Gia Sena (Paraxenes Ikones)
+  - Protimo
+  - Ise (Paraxenes Ikones)
+  - Aima
 external_urls:
-  spotify: https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl
+  spotify: 'https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/anna_moss.jpg
 biography_enhanced_at: '2025-11-26T07:45:29.748098'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.annamossmusic.com/about
-- https://thebluegrasssituation.com/read/the-show-on-the-road-anna-moss-handmade-moments/
-- https://www.passim.org/artists/anna-moss/
-- https://www.neworleans.com/listing/anna-moss/47808/
+  - 'https://www.annamossmusic.com/about'
+  - >-
+    https://thebluegrasssituation.com/read/the-show-on-the-road-anna-moss-handmade-moments/
+  - 'https://www.passim.org/artists/anna-moss/'
+  - 'https://www.neworleans.com/listing/anna-moss/47808/'
 network_extracted: true
 entry_created: '2025-11-26T07:45:29.748107'
 last_updated: '2025-12-23T08:16:04.830712'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](anna_moss.jpg)

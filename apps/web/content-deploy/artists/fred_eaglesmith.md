@@ -1,14 +1,14 @@
 ---
-title: fred eaglesmith
+title: Fred Eaglesmith
 wiki_slug: fred-eaglesmith
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1957-07-09'
-birth_place: Caistor Centre
+birth_place: 'Caistor Centre, Ontario, Canada'
 genres:
-- alt country
-- americana
+  - alt country
+  - americana
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/fred_eaglesmith.jpg
   caption: fred eaglesmith
@@ -22,7 +22,7 @@ audio_profile:
   danceability_avg: 0.607
   acousticness_avg: 0.677
   instrumentalness_avg: 0.025
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.057
   liveness_avg: 0.287
   track_count: 39
@@ -30,55 +30,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tif Ginn
-  - Scott Merritt
-  - The Flying Squirrels
-  - The Flathead Noodlers
+    - Tif Ginn
+    - Scott Merritt
+    - The Flying Squirrels
+    - The Flathead Noodlers
   influenced:
-  - Corb Lund
+    - Corb Lund
   mentors:
-  - Bill Monroe
+    - Bill Monroe
 spotify_data:
   followers: 39493
   id: 0yv1W9HeASlBRyWrzRMhWh
   popularity: 39
-  url: https://open.spotify.com/artist/0yv1W9HeASlBRyWrzRMhWh
+  url: 'https://open.spotify.com/artist/0yv1W9HeASlBRyWrzRMhWh'
 discography_enriched: true
 top_tracks:
-- Trucker Speed (6Volts)
-- Trucker Speed (6Volts)
-- Katie (6Volts)
-- Katie (6Volts)
-- Alcohol And Pills (Lipstick, Lies And Gasoline)
-- Time To Get A Gun (Lipstick, Lies And Gasoline)
-- Cigarette Machine (6Volts)
-- Water In The Fuel (Lipstick, Lies And Gasoline)
-- Spookin' The Horses (Lipstick, Lies And Gasoline)
-- Dangerous (6Volts)
+  - Trucker Speed (6Volts)
+  - Trucker Speed (6Volts)
+  - Katie (6Volts)
+  - Katie (6Volts)
+  - 'Alcohol And Pills (Lipstick, Lies And Gasoline)'
+  - 'Time To Get A Gun (Lipstick, Lies And Gasoline)'
+  - Cigarette Machine (6Volts)
+  - 'Water In The Fuel (Lipstick, Lies And Gasoline)'
+  - 'Spookin'' The Horses (Lipstick, Lies And Gasoline)'
+  - Dangerous (6Volts)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2a04a833-2376-474d-846e-142e49167786
-  spotify: https://open.spotify.com/artist/0yv1W9HeASlBRyWrzRMhWh
-  wikipedia: https://en.wikipedia.org/wiki/Fred_Eaglesmith
+  musicbrainz: 'https://musicbrainz.org/artist/2a04a833-2376-474d-846e-142e49167786'
+  spotify: 'https://open.spotify.com/artist/0yv1W9HeASlBRyWrzRMhWh'
+  wikipedia: 'https://en.wikipedia.org/wiki/Fred_Eaglesmith'
 image_path: 03_Resources/source_material/ArtistPortraits/fred_eaglesmith.jpg
 biography_enhanced_at: '2025-11-22T07:43:47.000644'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Fred_Eaglesmith
-- http://www.reidbetweenthelines.ca/the-eaglesmith-has-never-landed/
-- https://fredeaglesmith.com
-- https://www.allmusic.com/artist/fred-eaglesmith-mn0000179105
-- https://www.jango.com/music/Fred+Eaglesmith/_full_bio
-- https://ibookshows.com/artist/fred-eaglesmith/
-- https://nodepression.org/steam-punk-fred-eaglesmith/
+  - 'https://en.wikipedia.org/wiki/Fred_Eaglesmith'
+  - 'http://www.reidbetweenthelines.ca/the-eaglesmith-has-never-landed/'
+  - 'https://fredeaglesmith.com'
+  - 'https://www.allmusic.com/artist/fred-eaglesmith-mn0000179105'
+  - 'https://www.jango.com/music/Fred+Eaglesmith/_full_bio'
+  - 'https://ibookshows.com/artist/fred-eaglesmith/'
+  - 'https://nodepression.org/steam-punk-fred-eaglesmith/'
 network_extracted: true
 entry_created: '2025-11-22T07:43:47.000660'
 last_updated: '2025-12-23T08:16:08.806124'
 gender: Male
 musicbrainz_id: 2a04a833-2376-474d-846e-142e49167786
 tags:
-- folk
-
+  - folk
 ---
 
 ![](fred_eaglesmith.jpg)

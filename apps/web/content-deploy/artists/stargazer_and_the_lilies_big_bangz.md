@@ -4,44 +4,48 @@ biography_enhanced_at: '2026-01-13T01:10:40.549763'
 enhancement_provider: perplexity
 entry_created: '2026-01-13T01:10:40.549769'
 external_urls:
-  spotify: https://open.spotify.com/artist/3skOUqG4qsEoYiJuyZJFdW
+  spotify: 'https://open.spotify.com/artist/3skOUqG4qsEoYiJuyZJFdW'
   wikipedia: ''
 genres:
-- japanese indie
-- shoegaze
-image_path: 03_Resources/source_material/ArtistPortraits/stargazer_and_the_lilies_big_bangz.jpg
+  - japanese indie
+  - shoegaze
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/stargazer_and_the_lilies_big_bangz.jpg
 is_active: true
 last_updated: '2026-01-13T01:10:40.549769'
 musical_connections:
   collaborators:
-  - Carissa Giard / Cari Gee
-  - Jake Stuart
-  - Tobacco
-  - Sam Art
+    - Carissa Giard / Cari Gee
+    - Jake Stuart
+    - Tobacco
+    - Sam Art
   influenced: []
   mentors:
-  - My Bloody Valentine
-  - Slowdive
-  - Brad Laner (Medicine)
+    - My Bloody Valentine
+    - Slowdive
+    - Brad Laner (Medicine)
 network_extracted: true
-origin: North East Pennsylvania, USA (origins); now Tampa area, Florida, USA
+origin: 'New York, New York, United States'
 primary_source: perplexity
 research_sources:
-- https://www.popmatters.com/177562-the-stargazer-lilies-we-are-the-dreamers-2495699859.html
-- https://opositivefestival.org/alumnus/the-stargazer-lilies-2/
-- https://decayfm.com/featured/the-interview-the-stargazer-lilies-interview/
-- https://www.interviewmagazine.com/music/the-stargazer-lilies-we-are-the-dreamers
-- https://www.bumblefest.com/index.php/2022/07/26/the-stargazer-lilies/
-- https://theduckclub.com/artist/the-stargazer-lilies/
-- https://www.philthymag.com/the-stargazer-lilies-an-afterparty-for-the-dissatisfied/
-- https://seagazefestival.wordpress.com/2025-bands/the-stargazer-lilies/
+  - >-
+    https://www.popmatters.com/177562-the-stargazer-lilies-we-are-the-dreamers-2495699859.html
+  - 'https://opositivefestival.org/alumnus/the-stargazer-lilies-2/'
+  - 'https://decayfm.com/featured/the-interview-the-stargazer-lilies-interview/'
+  - >-
+    https://www.interviewmagazine.com/music/the-stargazer-lilies-we-are-the-dreamers
+  - 'https://www.bumblefest.com/index.php/2022/07/26/the-stargazer-lilies/'
+  - 'https://theduckclub.com/artist/the-stargazer-lilies/'
+  - >-
+    https://www.philthymag.com/the-stargazer-lilies-an-afterparty-for-the-dissatisfied/
+  - 'https://seagazefestival.wordpress.com/2025-bands/the-stargazer-lilies/'
 spotify_data:
   followers: 29124
   id: 3skOUqG4qsEoYiJuyZJFdW
   popularity: 35
-  url: https://open.spotify.com/artist/3skOUqG4qsEoYiJuyZJFdW
+  url: 'https://open.spotify.com/artist/3skOUqG4qsEoYiJuyZJFdW'
 status: active
-title: Stargazer and the Lilies, Big Bangz
+title: 'Stargazer and the Lilies, Big Bangz'
 ---
 
 ![](stargazer_and_the_lilies_big_bangz.jpg)

@@ -1,45 +1,47 @@
 ---
 biography_enhanced_at: '2025-12-29T01:07:56.196170'
-birth_place: Columbus, Ohio, United States
+birth_place: 'Columbus, Ohio, United States'
 enhancement_provider: perplexity
 entry_created: '2025-12-29T01:07:56.196180'
 external_urls:
-  spotify: https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN
-  wikipedia: https://en.wikipedia.org/wiki/Harry_Edison
+  spotify: 'https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN'
+  wikipedia: 'https://en.wikipedia.org/wiki/Harry_Edison'
 genres:
-- jazz
-- hard bop
-- bebop
+  - jazz
+  - hard bop
+  - bebop
 image_path: 03_Resources/source_material/ArtistPortraits/harry_edison.jpg
 last_updated: '2025-12-29T01:07:56.196181'
 musical_connections:
   collaborators:
-  - Count Basie Orchestra
-  - Lester Young
-  - Frank Sinatra
-  - Nelson Riddle
-  - Joe Williams
-  - Billie Holiday
+    - Count Basie Orchestra
+    - Lester Young
+    - Frank Sinatra
+    - Nelson Riddle
+    - Joe Williams
+    - Billie Holiday
   influenced: []
   mentors:
-  - Uncle (unnamed)
-  - Louis Armstrong
+    - Uncle (unnamed)
+    - Louis Armstrong
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.arts.gov/honors/jazz/harry-sweets-edison
-- https://nationaljazzarchive.org.uk/explore/interviews/1622943-harry-edison
-- https://aaregistry.org/story/harry-sweets-edison-witty-inventive-jazz-artist/
-- https://en.wikipedia.org/wiki/Harry_Edison
-- https://jazzfuel.com/harry-sweets-edison/
+  - 'https://www.arts.gov/honors/jazz/harry-sweets-edison'
+  - 'https://nationaljazzarchive.org.uk/explore/interviews/1622943-harry-edison'
+  - >-
+    https://aaregistry.org/story/harry-sweets-edison-witty-inventive-jazz-artist/
+  - 'https://en.wikipedia.org/wiki/Harry_Edison'
+  - 'https://jazzfuel.com/harry-sweets-edison/'
 spotify_data:
   followers: 7734
   id: 4rZoL92ShDgN9SLLg4OPPN
   popularity: 38
-  url: https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN
+  url: 'https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN'
 status: active
 title: Harry Edison
-
+birth_date: '1915-10-10'
+artist_type: person
 ---
 
 ![](harry_edison.jpg)

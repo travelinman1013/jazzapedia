@@ -5,139 +5,139 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1942-08-09'
-birth_place: Chicago
+birth_place: 'Chicago, Illinois, United States'
 death_date: '2025-10-26'
 genres:
-- jazz
-- jazz fusion
-- free jazz
+  - jazz
+  - jazz fusion
+  - free jazz
 instruments:
-- drums (drum set)
-- eponymous
-- original
-- percussion
-- electric piano
-- piano
-- piano accordion
-associated_acts:
-- begin: '2004'
-  end: '2005'
-  instruments:
-  - drums (drum set)
-  mbid: dd6af85b-f886-43ff-aab0-65a24cff7c14
-  name: The Great Jazz Trio
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 1a86d8ac-6dfa-40c6-ab11-cb4896ed8a4f
-  name: Gateway
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: e7465795-8735-4222-9295-aa991baf2b4b
-  name: The Ripple Effect
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: eed93176-8ecc-4c5d-b291-03e112e4640a
-  name: Trio Beyond
-- begin: ''
-  end: ''
-  instruments:
   - drums (drum set)
   - eponymous
   - original
-  mbid: 17bef10e-5f8d-4cde-9884-e84f36619d32
-  name: Jack DeJohnette's Special Edition
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: d22d23e8-0ad3-4779-a043-0c566d9a2fef
-  name: The Louisiana Gator Boys
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 272c80be-dea0-4f35-8532-940ff43f346b
-  name: CTI All-Stars
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 5d699058-0f50-48a6-8589-79c7e69fe0d8
-  name: Wadada Leo Smith's Golden Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 56bb91d0-f198-4377-865e-b389b457f10b
-  name: Dave Holland Trio
-- begin: ''
-  end: ''
-  instruments:
   - percussion
-  mbid: 0fe0d15a-a02e-43dd-b05e-8ce0406beafd
-  name: Hudson
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 0fe0d15a-a02e-43dd-b05e-8ce0406beafd
-  name: Hudson
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  - eponymous
-  - original
-  mbid: 7ef355a4-d2a4-43a0-9fcd-e4ce8b82501f
-  name: Keith Jarrett, Gary Peacock, Jack DeJohnette
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  - eponymous
-  - original
-  mbid: b3722895-65c3-47a3-a3e2-ed128271eb23
-  name: Jack DeJohnette Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f64a02ff-6ccf-4893-a840-a714cffc612f
-  name: Association for the Advancement of Creative Musicians
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c11a4a0a-b99f-46eb-84c5-73a4580594b0
-  name: Transmutation
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 5025b18d-f457-46cb-992d-13c342586dba
-  name: Jack DeJohnette's Directions
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: f647d18f-0326-47c4-8a77-b5f26b1a8b7a
-  name: Jack DeJohnette New Directions
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 66ead605-a220-422a-8fba-f7d6f8db03be
-  name: The Super Premium Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: da1e2f2c-1c9a-4369-a85f-4d3ed4b1a634
-  name: Gary Burton & Friends
+  - electric piano
+  - piano
+  - piano accordion
+associated_acts:
+  - begin: '2004'
+    end: '2005'
+    instruments:
+      - drums (drum set)
+    mbid: dd6af85b-f886-43ff-aab0-65a24cff7c14
+    name: The Great Jazz Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 1a86d8ac-6dfa-40c6-ab11-cb4896ed8a4f
+    name: Gateway
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: e7465795-8735-4222-9295-aa991baf2b4b
+    name: The Ripple Effect
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: eed93176-8ecc-4c5d-b291-03e112e4640a
+    name: Trio Beyond
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+      - eponymous
+      - original
+    mbid: 17bef10e-5f8d-4cde-9884-e84f36619d32
+    name: Jack DeJohnette's Special Edition
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: d22d23e8-0ad3-4779-a043-0c566d9a2fef
+    name: The Louisiana Gator Boys
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 272c80be-dea0-4f35-8532-940ff43f346b
+    name: CTI All-Stars
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 5d699058-0f50-48a6-8589-79c7e69fe0d8
+    name: Wadada Leo Smith's Golden Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 56bb91d0-f198-4377-865e-b389b457f10b
+    name: Dave Holland Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - percussion
+    mbid: 0fe0d15a-a02e-43dd-b05e-8ce0406beafd
+    name: Hudson
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 0fe0d15a-a02e-43dd-b05e-8ce0406beafd
+    name: Hudson
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+      - eponymous
+      - original
+    mbid: 7ef355a4-d2a4-43a0-9fcd-e4ce8b82501f
+    name: 'Keith Jarrett, Gary Peacock, Jack DeJohnette'
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+      - eponymous
+      - original
+    mbid: b3722895-65c3-47a3-a3e2-ed128271eb23
+    name: Jack DeJohnette Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f64a02ff-6ccf-4893-a840-a714cffc612f
+    name: Association for the Advancement of Creative Musicians
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c11a4a0a-b99f-46eb-84c5-73a4580594b0
+    name: Transmutation
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 5025b18d-f457-46cb-992d-13c342586dba
+    name: Jack DeJohnette's Directions
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: f647d18f-0326-47c4-8a77-b5f26b1a8b7a
+    name: Jack DeJohnette New Directions
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 66ead605-a220-422a-8fba-f7d6f8db03be
+    name: The Super Premium Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: da1e2f2c-1c9a-4369-a85f-4d3ed4b1a634
+    name: Gary Burton & Friends
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jack_dejohnette.jpg
   caption: Jack DeJohnette
@@ -160,56 +160,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Miles Davis
-  - Keith Jarrett
-  - Charles Lloyd
-  - John Abercrombie
-  - Herbie Hancock
+    - Miles Davis
+    - Keith Jarrett
+    - Charles Lloyd
+    - John Abercrombie
+    - Herbie Hancock
   influenced:
-  - Brian Blade
-  - Eric Harland
+    - Brian Blade
+    - Eric Harland
   mentors:
-  - Muhal Richard Abrams
+    - Muhal Richard Abrams
 spotify_data:
   followers: 48526
   id: 7rDjbKTLlpNYJRWMm7QVxU
   popularity: 42
-  url: https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU
+  url: 'https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU'
 discography_enriched: true
 top_tracks:
-- So Tender (Standards, Vol. 2)
-- Guess I'll Hang Out My Tears To Dry (My Foolish Heart)
-- One For Majid - Live (After The Fall (Live))
-- Sleepin' Bee - Live (Yesterdays)
-- Opening Day (Blue Maqams)
-- Timeless (Timeless)
-- You've Changed - Live (Yesterdays)
-- All The Things You Are (Setting Standards - The New York Sessions)
-- My Foolish Heart (My Foolish Heart)
-- Blue Maqams (Blue Maqams)
+  - 'So Tender (Standards, Vol. 2)'
+  - Guess I'll Hang Out My Tears To Dry (My Foolish Heart)
+  - One For Majid - Live (After The Fall (Live))
+  - Sleepin' Bee - Live (Yesterdays)
+  - Opening Day (Blue Maqams)
+  - Timeless (Timeless)
+  - You've Changed - Live (Yesterdays)
+  - All The Things You Are (Setting Standards - The New York Sessions)
+  - My Foolish Heart (My Foolish Heart)
+  - Blue Maqams (Blue Maqams)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f2d13d28-6f74-4dd5-b596-8bd0b6f67615
-  spotify: https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU
-  wikipedia: https://en.wikipedia.org/wiki/Jack_DeJohnette
+  musicbrainz: 'https://musicbrainz.org/artist/f2d13d28-6f74-4dd5-b596-8bd0b6f67615'
+  spotify: 'https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jack_DeJohnette'
 image_path: 03_Resources/source_material/ArtistPortraits/jack_dejohnette.jpg
 biography_enhanced_at: '2025-10-31T08:00:03.059924'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://pas.org/jack-dejohnette/
-- https://en.wikipedia.org/wiki/Jack_DeJohnette
-- https://wfmt.com/2025/10/29/jack-dejohnette-acclaimed-jazz-drummer-who-worked-with-miles-davis-dies-at-83/
-- https://www.thekurlandagency.com/materials/bios/Jack-DeJohnette-Bio.pdf
-- https://www.jackdejohnette.com/discover
+  - 'https://pas.org/jack-dejohnette/'
+  - 'https://en.wikipedia.org/wiki/Jack_DeJohnette'
+  - >-
+    https://wfmt.com/2025/10/29/jack-dejohnette-acclaimed-jazz-drummer-who-worked-with-miles-davis-dies-at-83/
+  - 'https://www.thekurlandagency.com/materials/bios/Jack-DeJohnette-Bio.pdf'
+  - 'https://www.jackdejohnette.com/discover'
 network_extracted: true
 entry_created: '2025-10-31T08:00:03.059947'
 last_updated: '2025-12-23T08:16:09.990021'
 gender: Male
 musicbrainz_id: f2d13d28-6f74-4dd5-b596-8bd0b6f67615
 tags:
-- 2008 universal fire victim
-- avant-garde jazz
-- contemporary jazz
+  - 2008 universal fire victim
+  - avant-garde jazz
+  - contemporary jazz
+is_active: false
 ---
 
 ![](jack_dejohnette.jpg)

@@ -1,53 +1,54 @@
 ---
 artist_type: person
 biography_enhanced_at: '2025-12-29T01:16:39.960618'
-birth_place: Atlanta suburbs, Georgia, USA
+birth_place: 'Atlanta suburbs, Georgia, USA'
 enhancement_provider: perplexity
 entry_created: '2025-12-29T01:16:39.960633'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7eb6f37b-81f3-432e-8a46-c371a06d9483
-  spotify: https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s
+  musicbrainz: 'https://musicbrainz.org/artist/7eb6f37b-81f3-432e-8a46-c371a06d9483'
+  spotify: 'https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s'
   wikipedia: ''
 gender: Female
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/katie_pruitt.jpg
 instruments:
-- background vocals
+  - background vocals
 last_updated: '2025-12-29T01:16:39.960634'
 musical_connections:
   collaborators:
-  - Ruston Kelly
-  - Collin Pastore
-  - Jake Finch
-  - Laura Epling
-  - Her mother
+    - Ruston Kelly
+    - Collin Pastore
+    - Jake Finch
+    - Laura Epling
+    - Her mother
   influenced: []
   mentors:
-  - Joni Mitchell
-  - Bonnie Raitt
-  - Amy Winehouse
+    - Joni Mitchell
+    - Bonnie Raitt
+    - Amy Winehouse
 musicbrainz_id: 7eb6f37b-81f3-432e-8a46-c371a06d9483
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.songhall.org/profiles/katie-pruitt
-- https://theboot.com/who-is-katie-pruitt/
-- https://www.katiepruitt.com/about2
-- https://bluebirdcafe.com/tm-attraction/katie-pruitt/
-- https://concord.com/artist/katie-pruitt/
-- https://www.worthamarts.org/events/katie-pruitt-the-time-wasnt-wasted-tour/
-- https://holler.country/artists/katie-pruitt/
+  - 'https://www.songhall.org/profiles/katie-pruitt'
+  - 'https://theboot.com/who-is-katie-pruitt/'
+  - 'https://www.katiepruitt.com/about2'
+  - 'https://bluebirdcafe.com/tm-attraction/katie-pruitt/'
+  - 'https://concord.com/artist/katie-pruitt/'
+  - 'https://www.worthamarts.org/events/katie-pruitt-the-time-wasnt-wasted-tour/'
+  - 'https://holler.country/artists/katie-pruitt/'
 spotify_data:
   followers: 63062
   id: 1c5w8KrxGwq44fxM5lGB4s
   popularity: 42
-  url: https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s
+  url: 'https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s'
 status: active
 tags:
-- alternative country
-- americana
-- folk
+  - alternative country
+  - americana
+  - folk
 title: Katie Pruitt
+birth_date: '1994-03-04'
 ---
 
 ![](katie_pruitt.jpg)

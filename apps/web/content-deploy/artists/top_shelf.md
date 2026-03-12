@@ -2,11 +2,11 @@
 title: Top Shelf
 wiki_slug: top-shelf
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- northern soul
-- reggae rock
+  - northern soul
+  - reggae rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/top_shelf.jpg
   caption: Top Shelf
@@ -32,41 +32,44 @@ spotify_data:
   followers: 864
   id: 5KFc3O59bNxkTldBT0SGsF
   popularity: 11
-  url: https://open.spotify.com/artist/5KFc3O59bNxkTldBT0SGsF
+  url: 'https://open.spotify.com/artist/5KFc3O59bNxkTldBT0SGsF'
 discography_enriched: true
 top_tracks:
-- 'Have No Second Thoughts (Masters of Soul: George Kerr - Singles & Rarities, Vol. 2)'
-- Wake The Lion (New Kind Of World)
-- Nowhere To Go (New Kind Of World)
-- The Solution (New Kind Of World)
-- 'Give It Up (Masters of Soul: George Kerr - Singles & Rarities, Vol. 2)'
-- Miles Away (New Kind Of World)
-- Rise (New Kind Of World)
-- Rise (Rise)
-- Miles Away (Miles Away)
-- Rock Steady (New Kind Of World)
+  - >-
+    Have No Second Thoughts (Masters of Soul: George Kerr - Singles & Rarities,
+    Vol. 2)
+  - Wake The Lion (New Kind Of World)
+  - Nowhere To Go (New Kind Of World)
+  - The Solution (New Kind Of World)
+  - 'Give It Up (Masters of Soul: George Kerr - Singles & Rarities, Vol. 2)'
+  - Miles Away (New Kind Of World)
+  - Rise (New Kind Of World)
+  - Rise (Rise)
+  - Miles Away (Miles Away)
+  - Rock Steady (New Kind Of World)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/28213a4a-7a2f-4e7d-9cd6-762ceec97b98
-  spotify: https://open.spotify.com/artist/5KFc3O59bNxkTldBT0SGsF
+  musicbrainz: 'https://musicbrainz.org/artist/28213a4a-7a2f-4e7d-9cd6-762ceec97b98'
+  spotify: 'https://open.spotify.com/artist/5KFc3O59bNxkTldBT0SGsF'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/top_shelf.jpg
 biography_enhanced_at: '2025-12-06T05:44:27.687885'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.dailyreggae.com/album-reviews/top-shelfs-new-kind-of-world-is-one-of-2024s-best-reggae-rock-albums
-- https://www.reverbnation.com/page_object/page_object_bio/artist_606721
-- https://www.musicbailout.net/features-articles/reviews/top-shelf
-- https://topshelfmusicmag.com/tags/top-shelf-reggae/
-- https://www.youtube.com/@TopShelfReggae/videos
+  - >-
+    https://www.dailyreggae.com/album-reviews/top-shelfs-new-kind-of-world-is-one-of-2024s-best-reggae-rock-albums
+  - 'https://www.reverbnation.com/page_object/page_object_bio/artist_606721'
+  - 'https://www.musicbailout.net/features-articles/reviews/top-shelf'
+  - 'https://topshelfmusicmag.com/tags/top-shelf-reggae/'
+  - 'https://www.youtube.com/@TopShelfReggae/videos'
 network_extracted: true
 entry_created: '2025-12-06T05:44:27.687893'
 last_updated: '2025-12-23T08:16:17.638562'
-disambiguation: Dub / Reggae / Rock band from Ukiah, California, United States
+disambiguation: 'Dub / Reggae / Rock band from Ukiah, California, United States'
 musicbrainz_id: 28213a4a-7a2f-4e7d-9cd6-762ceec97b98
-origin: Ukiah, California, United States
+origin: 'Ukiah, California, United States'
 tags:
-- reggae
+  - reggae
 ---
 
 ![](top_shelf.jpg)

@@ -2,14 +2,14 @@
 title: Delaney & Bonnie
 wiki_slug: delaney-bonnie
 schema_version: 2
-artist_type: Group
+artist_type: person
 status: active
 birth_date: '1967'
 genres:
-- roots rock
-- southern rock
+  - roots rock
+  - southern rock
 instruments:
-- eponymous
+  - eponymous
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Delaney_and_Bonnie.jpg
   caption: Delaney & Bonnie
@@ -30,59 +30,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Leon Russell
-  - Eric Clapton
-  - George Harrison
-  - Duane Allman
-  - Donald 'Duck' Dunn
-  - Bobby Whitlock
-  - Rita Coolidge
+    - Leon Russell
+    - Eric Clapton
+    - George Harrison
+    - Duane Allman
+    - Donald 'Duck' Dunn
+    - Bobby Whitlock
+    - Rita Coolidge
   influenced:
-  - Eric Clapton
-  - Derek & the Dominos
-  - The Allman Brothers Band
+    - Eric Clapton
+    - Derek & the Dominos
+    - The Allman Brothers Band
   mentors:
-  - Albert King
-  - Ike & Tina Turner
+    - Albert King
+    - Ike & Tina Turner
 spotify_data:
   followers: 35854
   id: 6dTCMsjfH2odCFlNb36SCG
   popularity: 28
-  url: https://open.spotify.com/artist/6dTCMsjfH2odCFlNb36SCG
+  url: 'https://open.spotify.com/artist/6dTCMsjfH2odCFlNb36SCG'
 discography_enriched: true
 top_tracks:
-- Never Ending Song of Love (Motel Shot)
-- Comin' Home (D & B Together)
-- Only You Know And I Know (D & B Together)
-- Groupie (Superstar) (D & B Together)
-- Come On In My Kitchen (An Anthology Vol. 2)
-- Poor Elijah - Tribute to Johnson (Medley) (On Tour With Eric Clapton)
-- We Can Love (Home)
-- When the Battle Is Over (Accept No Substitute)
-- Soul Shake (To Bonnie From Delaney (Mono))
-- Things Get Better - Live Version (On Tour With Eric Clapton)
+  - Never Ending Song of Love (Motel Shot)
+  - Comin' Home (D & B Together)
+  - Only You Know And I Know (D & B Together)
+  - Groupie (Superstar) (D & B Together)
+  - Come On In My Kitchen (An Anthology Vol. 2)
+  - Poor Elijah - Tribute to Johnson (Medley) (On Tour With Eric Clapton)
+  - We Can Love (Home)
+  - When the Battle Is Over (Accept No Substitute)
+  - Soul Shake (To Bonnie From Delaney (Mono))
+  - Things Get Better - Live Version (On Tour With Eric Clapton)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1d0e964a-2b91-4dd9-8100-a5a184870382
-  spotify: https://open.spotify.com/artist/6dTCMsjfH2odCFlNb36SCG
-  wikipedia: https://en.wikipedia.org/wiki/Delaney_%26_Bonnie
+  musicbrainz: 'https://musicbrainz.org/artist/1d0e964a-2b91-4dd9-8100-a5a184870382'
+  spotify: 'https://open.spotify.com/artist/6dTCMsjfH2odCFlNb36SCG'
+  wikipedia: 'https://en.wikipedia.org/wiki/Delaney_%26_Bonnie'
 image_path: 03_Resources/source_material/ArtistPortraits/Delaney_and_Bonnie.jpg
 biography_enhanced_at: '2025-10-19T12:36:31.644510'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Delaney_%26_Bonnie
-- https://staxrecords.com/spotlight/various-groups-delaney-bonnie/
-- https://www.udiscovermusic.com/stories/remembering-delaney-bramlett/
+  - 'https://en.wikipedia.org/wiki/Delaney_%26_Bonnie'
+  - 'https://staxrecords.com/spotlight/various-groups-delaney-bonnie/'
+  - 'https://www.udiscovermusic.com/stories/remembering-delaney-bramlett/'
 network_extracted: true
 entry_created: '2025-10-19T12:36:31.644524'
 last_updated: '2025-12-23T08:16:01.715649'
 musicbrainz_enriched_at: '2025-10-21T09:24:07.484430'
 musicbrainz_id: 1d0e964a-2b91-4dd9-8100-a5a184870382
-origin: Los Angeles, California, United States (origin)
+origin: 'Los Angeles, California, United States (origin)'
 tags:
-- blue-eyed soul
-- blues rock
-- country rock
+  - blue-eyed soul
+  - blues rock
+  - country rock
+birth_place: Los Angeles
 ---
 
 ![](Delaney_and_Bonnie.jpg)

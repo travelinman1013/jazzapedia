@@ -4,19 +4,19 @@ wiki_slug: jerk
 schema_version: 2
 status: active
 genres:
-- comedy
-- spoken word
+  - comedy
+  - spoken word
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jerk.jpg
   caption: Jerk
   background: solo_singer
 audio_profile:
-  tempo_avg: 96.0
+  tempo_avg: 96
   energy_avg: 0.444
   valence_avg: 0.654
   danceability_avg: 0.687
   acousticness_avg: 0.963
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -12.4
   speechiness_avg: 0.896
   liveness_avg: 0.49
@@ -25,45 +25,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sean Beavan
-  - Lamar Lowder
-  - Charles Cilia
-  - Leeno Dee
-  - Johnathan Devoy
+    - Sean Beavan
+    - Lamar Lowder
+    - Charles Cilia
+    - Leeno Dee
+    - Johnathan Devoy
   influenced: []
   mentors: []
 spotify_data:
   followers: 28420
   id: 4afEuMmqeS7G5nlKF3jSM0
   popularity: 28
-  url: https://open.spotify.com/artist/4afEuMmqeS7G5nlKF3jSM0
+  url: 'https://open.spotify.com/artist/4afEuMmqeS7G5nlKF3jSM0'
 discography_enriched: true
 top_tracks:
-- Car Salesman (The Jerky Boys)
-- Roofing (The Jerky Boys 2)
-- Unemployed Painter (The Jerky Boys)
-- Auto Mechanic (The Jerky Boys)
-- Irate Tile Man (The Jerky Boys)
-- Insulator Job (The Jerky Boys)
-- Sol's Glasses (The Jerky Boys)
-- Laser Surgery (The Jerky Boys)
-- Super Across The Way (The Jerky Boys)
-- Drinking Problem (The Jerky Boys 2)
+  - Car Salesman (The Jerky Boys)
+  - Roofing (The Jerky Boys 2)
+  - Unemployed Painter (The Jerky Boys)
+  - Auto Mechanic (The Jerky Boys)
+  - Irate Tile Man (The Jerky Boys)
+  - Insulator Job (The Jerky Boys)
+  - Sol's Glasses (The Jerky Boys)
+  - Laser Surgery (The Jerky Boys)
+  - Super Across The Way (The Jerky Boys)
+  - Drinking Problem (The Jerky Boys 2)
 external_urls:
-  spotify: https://open.spotify.com/artist/4afEuMmqeS7G5nlKF3jSM0
-  wikipedia: https://en.wikipedia.org/wiki/Jerk_(band)
+  spotify: 'https://open.spotify.com/artist/4afEuMmqeS7G5nlKF3jSM0'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jerk_(band)'
 image_path: 03_Resources/source_material/ArtistPortraits/jerk.jpg
 biography_enhanced_at: '2025-11-20T07:04:11.936457'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Jerk (band)
-- UnitedMasters - JeRk Music
-- Jerk Official Website
+  - Wikipedia - Jerk (band)
+  - UnitedMasters - JeRk Music
+  - Jerk Official Website
 network_extracted: true
 entry_created: '2025-11-20T07:04:11.936469'
 last_updated: '2025-12-23T08:16:10.344602'
-origin: Sydney, New South Wales, Australia
+origin: 'Sydney, New South Wales, Australia'
+artist_type: band
 ---
 
 ![](jerk.jpg)

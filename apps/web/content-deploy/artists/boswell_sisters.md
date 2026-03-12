@@ -1,5 +1,5 @@
 ---
-title: Boswell Sisters
+title: The Boswell Sisters
 wiki_slug: boswell-sisters
 schema_version: 2
 status: active
@@ -9,7 +9,7 @@ infobox:
   caption: Boswell Sisters
   background: solo_singer
 audio_profile:
-  tempo_avg: 93.0
+  tempo_avg: 93
   energy_avg: 0.585
   valence_avg: 0.705
   danceability_avg: 0.614
@@ -23,46 +23,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dorsey Brothers (Tommy and Jimmy Dorsey)
-  - Benny Goodman
-  - Joe Venuti and Eddie Lang
-  - Bunny Berigan
-  - Bing Crosby
-  - NBC and CBS radio networks (producers and house bands)
-  - Harry Leedy
+    - Dorsey Brothers (Tommy and Jimmy Dorsey)
+    - Benny Goodman
+    - Joe Venuti and Eddie Lang
+    - Bunny Berigan
+    - Bing Crosby
+    - NBC and CBS radio networks (producers and house bands)
+    - Harry Leedy
   influenced:
-  - The Andrews Sisters
-  - Ella Fitzgerald
-  - Later close-harmony vocal groups and jazz/pop vocalists
+    - The Andrews Sisters
+    - Ella Fitzgerald
+    - Later close-harmony vocal groups and jazz/pop vocalists
   mentors:
-  - New Orleans jazz, blues, and gospel musicians (collective influence)
-  - Classical music teachers and New Orleans Philharmonic milieu
+    - 'New Orleans jazz, blues, and gospel musicians (collective influence)'
+    - Classical music teachers and New Orleans Philharmonic milieu
 spotify_data:
   followers: 0
   id: 4vHtnhTGDY4ycL9Ofrq1st
   popularity: 4
-  url: https://open.spotify.com/artist/4vHtnhTGDY4ycL9Ofrq1st
+  url: 'https://open.spotify.com/artist/4vHtnhTGDY4ycL9Ofrq1st'
 discography_enriched: true
 top_tracks:
-- Everybody Loves My Baby (Everybody Loves My Baby)
+  - Everybody Loves My Baby (Everybody Loves My Baby)
 external_urls:
-  spotify: https://open.spotify.com/artist/4vHtnhTGDY4ycL9Ofrq1st
-  wikipedia: https://en.wikipedia.org/wiki/The_Boswell_Sisters
+  spotify: 'https://open.spotify.com/artist/4vHtnhTGDY4ycL9Ofrq1st'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Boswell_Sisters'
 image_path: ''
 biography_enhanced_at: '2025-12-06T05:41:58.887191'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.britannica.com/topic/the-Boswell-Sisters
-- https://hnoc.org/virtual-exhibitions/shout-sister-shout/boswell-legacy
-- https://louisianamusichalloffame.org/boswell-sisters/
-- https://www.hmdb.org/m.asp?m=189157
-- https://jpcavanaugh.com/2021/12/03/the-boswell-sisters-or-how-three-little-girls-from-new-orleans-changed-popular-jazz-singing/
-- https://kids.kiddle.co/The_Boswell_Sisters
+  - 'https://www.britannica.com/topic/the-Boswell-Sisters'
+  - 'https://hnoc.org/virtual-exhibitions/shout-sister-shout/boswell-legacy'
+  - 'https://louisianamusichalloffame.org/boswell-sisters/'
+  - 'https://www.hmdb.org/m.asp?m=189157'
+  - >-
+    https://jpcavanaugh.com/2021/12/03/the-boswell-sisters-or-how-three-little-girls-from-new-orleans-changed-popular-jazz-singing/
+  - 'https://kids.kiddle.co/The_Boswell_Sisters'
 network_extracted: true
 entry_created: '2025-12-06T05:41:58.887199'
 last_updated: '2025-12-23T08:16:05.958283'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![]()

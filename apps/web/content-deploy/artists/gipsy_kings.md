@@ -2,21 +2,21 @@
 title: Gipsy Kings
 wiki_slug: gipsy-kings
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1978'
 genres:
-- flamenco
+  - flamenco
 instruments:
-- original
-- additional
-- congas
-- keyboard
-- bass guitar
-- lead vocals
-- classical guitar
-- drums (drum set)
-- flamenco guitar
+  - original
+  - additional
+  - congas
+  - keyboard
+  - bass guitar
+  - lead vocals
+  - classical guitar
+  - drums (drum set)
+  - flamenco guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/gipsy_kings.jpg
   caption: Gipsy Kings
@@ -37,145 +37,145 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tonino Baliardo
-  - Canut Reyes
-  - Paul Reyes
-  - Paco Baliardo
-  - Diego Baliardo
+    - Tonino Baliardo
+    - Canut Reyes
+    - Paul Reyes
+    - Paco Baliardo
+    - Diego Baliardo
   influenced: []
   mentors:
-  - Jose Reyes
-  - Manitas de Plata
+    - Jose Reyes
+    - Manitas de Plata
 spotify_data:
   followers: 1082269
   id: 3jc496ljiyrS3ECrD7QiqL
   popularity: 67
-  url: https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL
+  url: 'https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL'
 discography_enriched: true
 top_tracks:
-- Bamboléo (Gipsy Kings)
-- Volare (Nel Blu di Pinto di Blu) (Mosaïque)
-- Ingobernable (El Madrileño)
-- Djobi, Djoba (Gipsy Kings)
-- A Mi Manera (Comme D'Habitude) (Gipsy Kings)
-- Un Amor (Gipsy Kings)
-- Hotel California - Spanish Mix
-- Allegria (Allegria)
-- Baila Me (Este Mundo)
-- No Volvere (Este Mundo)
+  - Bamboléo (Gipsy Kings)
+  - Volare (Nel Blu di Pinto di Blu) (Mosaïque)
+  - Ingobernable (El Madrileño)
+  - 'Djobi, Djoba (Gipsy Kings)'
+  - A Mi Manera (Comme D'Habitude) (Gipsy Kings)
+  - Un Amor (Gipsy Kings)
+  - Hotel California - Spanish Mix
+  - Allegria (Allegria)
+  - Baila Me (Este Mundo)
+  - No Volvere (Este Mundo)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/44a7f7d5-79df-4f44-8f5e-02dfc0626904
-  spotify: https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL
+  musicbrainz: 'https://musicbrainz.org/artist/44a7f7d5-79df-4f44-8f5e-02dfc0626904'
+  spotify: 'https://open.spotify.com/artist/3jc496ljiyrS3ECrD7QiqL'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/gipsy_kings.jpg
 biography_enhanced_at: '2025-12-21T01:23:01.369330'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Gipsy+Kings/+wiki
-- http://www.gipsykings.com/about
-- https://www.rootsworld.com/rw/feature/gipsykings.html
-- https://www.labella.com/artists/gipsy-kings/
+  - 'https://www.last.fm/music/Gipsy+Kings/+wiki'
+  - 'http://www.gipsykings.com/about'
+  - 'https://www.rootsworld.com/rw/feature/gipsykings.html'
+  - 'https://www.labella.com/artists/gipsy-kings/'
 network_extracted: true
 entry_created: '2025-12-21T01:23:01.369334'
 last_updated: '2025-12-23T08:16:09.238509'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 8b6248d7-c06f-40c6-aa42-274bcc69848c
-  name: Jacques "Paco" Baliardo
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: ccb92f41-11a7-4c43-aa2f-73fafbf178c7
-  name: Maurice "Diego" Baliardo
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: f21507c5-5662-4100-82e5-ad0f3613fcf8
-  name: Tonino Baliardo
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 354dbc98-b49d-47ac-b0fb-61303858b719
-  name: Jahloul "Chico" Bouchikhi
-- begin: ''
-  end: ''
-  instruments:
-  - additional
-  - congas
-  mbid: 85a43d55-c312-4934-84c8-8c022d3d627e
-  name: Marc Chantereau
-- begin: ''
-  end: ''
-  instruments:
-  - additional
-  - keyboard
-  mbid: ef484422-564e-4d34-ac5a-8a815be1471a
-  name: Dominique Perrier
-- begin: ''
-  end: ''
-  instruments:
-  - additional
-  - bass guitar
-  mbid: b393cab7-84c5-4316-8a07-7fd7bd928fc5
-  name: Gérard Prévost
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 6f849844-bdac-4b57-ba99-c3dba140188f
-  name: André Reyes
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c6a72616-a9a8-4d13-b6e5-dc81ac5b225c
-  name: Canut Reyes
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 64f6857d-de9f-4326-a190-2a46ea172c94
-  name: Nicolas Reyes
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3fc883ff-3db3-4cc0-ba83-e9aea32bd065
-  name: Patchaï Reyes
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 75890fe9-dcd7-4733-b28e-d1e51df40c09
-  name: Paul "Pablo" Reyes
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: 52d19a74-ceec-4179-a94b-45ce54059378
-  name: El Rumbero
-- begin: ''
-  end: ''
-  instruments:
-  - classical guitar
-  mbid: 52d19a74-ceec-4179-a94b-45ce54059378
-  name: El Rumbero
-- begin: ''
-  end: ''
-  instruments:
-  - additional
-  - drums (drum set)
-  mbid: 765de717-65d8-44ba-8955-e17856a10666
-  name: Claude Salmiéri
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 8b6248d7-c06f-40c6-aa42-274bcc69848c
+    name: Jacques "Paco" Baliardo
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: ccb92f41-11a7-4c43-aa2f-73fafbf178c7
+    name: Maurice "Diego" Baliardo
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: f21507c5-5662-4100-82e5-ad0f3613fcf8
+    name: Tonino Baliardo
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 354dbc98-b49d-47ac-b0fb-61303858b719
+    name: Jahloul "Chico" Bouchikhi
+  - begin: ''
+    end: ''
+    instruments:
+      - additional
+      - congas
+    mbid: 85a43d55-c312-4934-84c8-8c022d3d627e
+    name: Marc Chantereau
+  - begin: ''
+    end: ''
+    instruments:
+      - additional
+      - keyboard
+    mbid: ef484422-564e-4d34-ac5a-8a815be1471a
+    name: Dominique Perrier
+  - begin: ''
+    end: ''
+    instruments:
+      - additional
+      - bass guitar
+    mbid: b393cab7-84c5-4316-8a07-7fd7bd928fc5
+    name: Gérard Prévost
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 6f849844-bdac-4b57-ba99-c3dba140188f
+    name: André Reyes
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c6a72616-a9a8-4d13-b6e5-dc81ac5b225c
+    name: Canut Reyes
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 64f6857d-de9f-4326-a190-2a46ea172c94
+    name: Nicolas Reyes
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3fc883ff-3db3-4cc0-ba83-e9aea32bd065
+    name: Patchaï Reyes
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 75890fe9-dcd7-4733-b28e-d1e51df40c09
+    name: Paul "Pablo" Reyes
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: 52d19a74-ceec-4179-a94b-45ce54059378
+    name: El Rumbero
+  - begin: ''
+    end: ''
+    instruments:
+      - classical guitar
+    mbid: 52d19a74-ceec-4179-a94b-45ce54059378
+    name: El Rumbero
+  - begin: ''
+    end: ''
+    instruments:
+      - additional
+      - drums (drum set)
+    mbid: 765de717-65d8-44ba-8955-e17856a10666
+    name: Claude Salmiéri
 musicbrainz_id: 44a7f7d5-79df-4f44-8f5e-02dfc0626904
-origin: Arles
+origin: 'Arles, France'
 tags:
-- 00s
-- 10s
-- 80s
+  - 00s
+  - 10s
+  - 80s
 ---
 
 ![](gipsy_kings.jpg)

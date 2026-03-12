@@ -4,16 +4,16 @@ wiki_slug: mocean-worker
 schema_version: 2
 artist_type: person
 status: active
-birth_place: Philadelphia
+birth_place: 'Philadelphia, Pennsylvania, United States'
 genres:
-- electro swing
-- nu jazz
-- swing music
+  - electro swing
+  - nu jazz
+  - swing music
 instruments:
-- Rhodes piano
-- guitar
-- bass guitar
-- background vocals
+  - Rhodes piano
+  - guitar
+  - bass guitar
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/mocean_worker.jpg
   caption: Mocean Worker
@@ -34,50 +34,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Herb Alpert
-  - Rahsaan Roland Kirk
+    - Herb Alpert
+    - Rahsaan Roland Kirk
   influenced:
-  - Parov Stelar
-  - Caravan Palace
+    - Parov Stelar
+    - Caravan Palace
   mentors:
-  - Marcus Miller
-  - Joel Dorn
+    - Marcus Miller
+    - Joel Dorn
 spotify_data:
   followers: 7984
   id: 3qgoAnslcjYHUbfdVVpNvA
   popularity: 26
-  url: https://open.spotify.com/artist/3qgoAnslcjYHUbfdVVpNvA
+  url: 'https://open.spotify.com/artist/3qgoAnslcjYHUbfdVVpNvA'
 discography_enriched: true
 top_tracks:
-- Tres Tres Chic (Aural & Hearty)
-- Express Yourself - Mocean Worker Remix
-- Yay Yay Yay
-- Right Now (Enter the Mowo)
-- Moses Gonzalez
-- Chick a Boom Boom Boom (Enter the Mowo)
-- Right Now (feat. Rahsaan Roland Kirk) (Enter the Mowo!)
-- I Just Want To Celebrate - Mocean Worker Remix
-- Go To Hell - (Mowo Remix) (Remixed & Reimagined)
-- Tickle It (Cinco De Mowo!)
+  - Tres Tres Chic (Aural & Hearty)
+  - Express Yourself - Mocean Worker Remix
+  - Yay Yay Yay
+  - Right Now (Enter the Mowo)
+  - Moses Gonzalez
+  - Chick a Boom Boom Boom (Enter the Mowo)
+  - Right Now (feat. Rahsaan Roland Kirk) (Enter the Mowo!)
+  - I Just Want To Celebrate - Mocean Worker Remix
+  - Go To Hell - (Mowo Remix) (Remixed & Reimagined)
+  - Tickle It (Cinco De Mowo!)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/537a61fa-83cc-44da-831c-07477cb108e4
-  spotify: https://open.spotify.com/artist/3qgoAnslcjYHUbfdVVpNvA
+  musicbrainz: 'https://musicbrainz.org/artist/537a61fa-83cc-44da-831c-07477cb108e4'
+  spotify: 'https://open.spotify.com/artist/3qgoAnslcjYHUbfdVVpNvA'
   wikipedia: No specific Wikipedia page found
 image_path: 03_Resources/source_material/ArtistPortraits/mocean_worker.jpg
 biography_enhanced_at: '2025-10-28T08:54:28.968373'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://liveforlivemusic.com/news/defining-electro-swing-with-pioneer-artist-mocean-worker/
-- https://www.sire-usa.com/blogs/sire-friends/adam-dorn-mocean-worker-usa
-- https://www.wunc.org/2007-07-08/mocean-worker-old-jazz-meets-new-producer
+  - >-
+    https://liveforlivemusic.com/news/defining-electro-swing-with-pioneer-artist-mocean-worker/
+  - 'https://www.sire-usa.com/blogs/sire-friends/adam-dorn-mocean-worker-usa'
+  - 'https://www.wunc.org/2007-07-08/mocean-worker-old-jazz-meets-new-producer'
 network_extracted: true
 entry_created: '2025-10-28T08:54:28.968384'
 last_updated: '2025-12-23T08:16:13.226035'
 gender: Male
 musicbrainz_id: 537a61fa-83cc-44da-831c-07477cb108e4
 tags:
-- jazz
+  - jazz
 ---
 
 ![](mocean_worker.jpg)

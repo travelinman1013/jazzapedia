@@ -2,18 +2,22 @@
 title: Leon Bridges
 wiki_slug: leon-bridges
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1989-07-13'
-birth_place: Atlanta, Georgia, United States (birthplace); Fort Worth, Texas, United States (origin)
+birth_place: >-
+  Atlanta, Georgia, United States (birthplace); Fort Worth, Texas, United States
+  (origin)
 genres:
-- retro soul
+  - retro soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Leon_Bridges.jpg
   caption: Leon Bridges
   background: solo_singer
   born: '1989-07-13'
-  origin: Atlanta, Georgia, United States (birthplace); Fort Worth, Texas, United States (origin)
+  origin: >-
+    Atlanta, Georgia, United States (birthplace); Fort Worth, Texas, United
+    States (origin)
 audio_profile:
   tempo_avg: 116.2
   energy_avg: 0.541
@@ -29,46 +33,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Austin Jenkins
-  - Joshua Block
-  - Khruangbin
-  - John Mayer
+    - Austin Jenkins
+    - Joshua Block
+    - Khruangbin
+    - John Mayer
   influenced:
-  - Yola
-  - Durand Jones & The Indications
+    - Yola
+    - Durand Jones & The Indications
   mentors:
-  - Curtis Mayfield
-  - Stevie Wonder
-  - Anita Baker
+    - Curtis Mayfield
+    - Stevie Wonder
+    - Anita Baker
 spotify_data:
   followers: 1922389
   id: 3qnGvpP8Yth1AqSBMqON5x
   popularity: 72
-  url: https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x
+  url: 'https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x'
 discography_enriched: true
 top_tracks:
-- Texas Sun
-- Coming Home (Coming Home (Deluxe))
-- River (Coming Home (Deluxe))
-- Beyond (Good Thing)
-- Mariella
-- July (feat. Leon Bridges)
-- The Hardest Part (feat. Leon Bridges)
-- Hold On
-- B-Side
-- Bad Bad News (Good Thing)
+  - Texas Sun
+  - Coming Home (Coming Home (Deluxe))
+  - River (Coming Home (Deluxe))
+  - Beyond (Good Thing)
+  - Mariella
+  - July (feat. Leon Bridges)
+  - The Hardest Part (feat. Leon Bridges)
+  - Hold On
+  - B-Side
+  - Bad Bad News (Good Thing)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/69d9dfd7-19b7-4a75-8a53-9f733fb5d774
-  spotify: https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x
-  wikipedia: https://en.wikipedia.org/wiki/Leon_Bridges
+  musicbrainz: 'https://musicbrainz.org/artist/69d9dfd7-19b7-4a75-8a53-9f733fb5d774'
+  spotify: 'https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x'
+  wikipedia: 'https://en.wikipedia.org/wiki/Leon_Bridges'
 image_path: 03_Resources/source_material/ArtistPortraits/Leon_Bridges.jpg
 biography_enhanced_at: '2025-10-19T12:36:02.500246'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://kids.kiddle.co/Leon_Bridges
-- https://thegreatdiscontent.com/interview/leon-bridges/
-- https://www.cultursmag.com/leon-bridges-and-cultural-mobility/
+  - 'https://kids.kiddle.co/Leon_Bridges'
+  - 'https://thegreatdiscontent.com/interview/leon-bridges/'
+  - 'https://www.cultursmag.com/leon-bridges-and-cultural-mobility/'
 network_extracted: true
 entry_created: '2025-10-19T12:36:02.500257'
 last_updated: '2025-12-23T08:16:02.990180'
@@ -77,9 +81,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:34:59.135825'
 musicbrainz_id: 69d9dfd7-19b7-4a75-8a53-9f733fb5d774
 tags:
-- neo soul
-- r&b
-- smooth soul
+  - neo soul
+  - r&b
+  - smooth soul
+origin: 'Fort Worth, Texas, United States'
 ---
 
 ![](Leon_Bridges.jpg)

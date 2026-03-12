@@ -1,5 +1,5 @@
 ---
-title: boy blue
+title: Boy Blue
 wiki_slug: boy-blue
 schema_version: 2
 status: active
@@ -23,44 +23,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Michael 'Mikey J' Asante, MBE
-  - Kenrick 'H2O' Sandy, MBE
-  - Barbican Centre
+    - 'Michael ''Mikey J'' Asante, MBE'
+    - 'Kenrick ''H2O'' Sandy, MBE'
+    - Barbican Centre
   influenced:
-  - Hundreds of young UK hip-hop dancers
+    - Hundreds of young UK hip-hop dancers
   mentors:
-  - Hip-hop pioneers (general US hip-hop culture)
+    - Hip-hop pioneers (general US hip-hop culture)
 spotify_data:
   followers: 164
   id: 2eERUUNHkJxdPzzhteDVRr
   popularity: 0
-  url: https://open.spotify.com/artist/2eERUUNHkJxdPzzhteDVRr
+  url: 'https://open.spotify.com/artist/2eERUUNHkJxdPzzhteDVRr'
 discography_enriched: true
 top_tracks:
-- I Heard (In The Glow)
-- Harley Quinn (973)
-- Headspin (In The Glow)
-- Sage Green (In The Glow)
-- Ghost of Saturday Night (Ghost of Saturday Night)
-- Panic? Panic! (Cheats on Kylie Jenner?!)
-- Ghost of Saturday Night (Cheats on Kylie Jenner?!)
-- Secondhand Smoke (Cheats on Kylie Jenner?!)
-- 'Die Hard 6: Let Me Die Hard (Cheats on Kylie Jenner?!)'
-- World of Ruin (Cheats on Kylie Jenner?!)
+  - I Heard (In The Glow)
+  - Harley Quinn (973)
+  - Headspin (In The Glow)
+  - Sage Green (In The Glow)
+  - Ghost of Saturday Night (Ghost of Saturday Night)
+  - Panic? Panic! (Cheats on Kylie Jenner?!)
+  - Ghost of Saturday Night (Cheats on Kylie Jenner?!)
+  - Secondhand Smoke (Cheats on Kylie Jenner?!)
+  - 'Die Hard 6: Let Me Die Hard (Cheats on Kylie Jenner?!)'
+  - World of Ruin (Cheats on Kylie Jenner?!)
 external_urls:
-  spotify: https://open.spotify.com/artist/2eERUUNHkJxdPzzhteDVRr
+  spotify: 'https://open.spotify.com/artist/2eERUUNHkJxdPzzhteDVRr'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/boy_blue.jpg
 biography_enhanced_at: '2025-10-29T16:52:13.731385'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://factoryinternational.org/factoryplus/an-introduction-to-boy-blue/
-- https://www.boyblue.co.uk/about-boy-blue
+  - 'https://factoryinternational.org/factoryplus/an-introduction-to-boy-blue/'
+  - 'https://www.boyblue.co.uk/about-boy-blue'
 network_extracted: true
 entry_created: '2025-10-29T16:52:13.731394'
 last_updated: '2025-12-23T08:16:05.972907'
-origin: East London, England, United Kingdom
+origin: 'East London, England, United Kingdom'
+artist_type: person
 ---
 
 ![](boy_blue.jpg)

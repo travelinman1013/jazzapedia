@@ -1,12 +1,13 @@
 ---
-title: Joe Bonamassa, Michael McDonald, Susan Tedeschi & Derek Trucks
+title: 'Joe Bonamassa, Michael McDonald, Susan Tedeschi & Derek Trucks'
 wiki_slug: joe-bonamassa-michael-mcdonald-susan-tedeschi-derek-trucks
 schema_version: 2
 status: active
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/joe_bonamassa_michael_mcdonald_susan_tedeschi_and_derek_trucks.jpg
-  caption: Joe Bonamassa, Michael McDonald, Susan Tedeschi & Derek Trucks
+  image: >-
+    03_Resources/source_material/ArtistPortraits/joe_bonamassa_michael_mcdonald_susan_tedeschi_and_derek_trucks.jpg
+  caption: 'Joe Bonamassa, Michael McDonald, Susan Tedeschi & Derek Trucks'
   background: solo_singer
 audio_profile:
   tempo_avg: 121.5
@@ -23,50 +24,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Michael McDonald
-  - Susan Tedeschi & Derek Trucks
-  - Josh Smith
-  - Buddy Guy, Keb’ Mo’, Slash, Shemekia Copeland, Marcus King, Christone “Kingfish” Ingram, Larkin Poe, Jimmie Vaughan, Warren
-    Haynes, Dion, Aloe Blacc, Kirk Fletcher
+    - Michael McDonald
+    - Susan Tedeschi & Derek Trucks
+    - Josh Smith
+    - >-
+      Buddy Guy, Keb’ Mo’, Slash, Shemekia Copeland, Marcus King, Christone
+      “Kingfish” Ingram, Larkin Poe, Jimmie Vaughan, Warren Haynes, Dion, Aloe
+      Blacc, Kirk Fletcher
   influenced:
-  - Christone 'Kingfish' Ingram
-  - Marcus King
+    - Christone 'Kingfish' Ingram
+    - Marcus King
   mentors:
-  - B.B. King
+    - B.B. King
 spotify_data:
   followers: 48582
   id: 1xJPYI7GXasA3ariMSftPq
   popularity: 47
-  url: https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq
+  url: 'https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq'
 discography_enriched: true
 top_tracks:
-- Roll Me Up and Smoke Me When I Die - Live
-- Will The Circle Be Unbroken - Live
-- To Know You Is To Love You (B.B. King's Blues Summit 100, Vol. I)
-- These Changes [Feat. Derek Trucks] - Whisper Sessions
-- When The Levee Breaks (Songs For Humanity)
-- Real, Real Love [Feat. Derek Trucks] (Million Voices Whisper)
-- 'Crying Eyes (Eric Clapton & Friends: The Breeze - An Appreciation Of JJ Cale)'
-- Skin Deep (feat. Derek Trucks) (Skin Deep)
-- These Changes [Feat. Derek Trucks] (Million Voices Whisper)
-- Skin Deep (feat. Derek Trucks) (Skin Deep Deluxe Version)
+  - Roll Me Up and Smoke Me When I Die - Live
+  - Will The Circle Be Unbroken - Live
+  - 'To Know You Is To Love You (B.B. King''s Blues Summit 100, Vol. I)'
+  - 'These Changes [Feat. Derek Trucks] - Whisper Sessions'
+  - When The Levee Breaks (Songs For Humanity)
+  - 'Real, Real Love [Feat. Derek Trucks] (Million Voices Whisper)'
+  - >-
+    Crying Eyes (Eric Clapton & Friends: The Breeze - An Appreciation Of JJ
+    Cale)
+  - Skin Deep (feat. Derek Trucks) (Skin Deep)
+  - 'These Changes [Feat. Derek Trucks] (Million Voices Whisper)'
+  - Skin Deep (feat. Derek Trucks) (Skin Deep Deluxe Version)
 external_urls:
-  spotify: https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq
+  spotify: 'https://open.spotify.com/artist/1xJPYI7GXasA3ariMSftPq'
   wikipedia: ''
-image_path: 03_Resources/source_material/ArtistPortraits/joe_bonamassa_michael_mcdonald_susan_tedeschi_and_derek_trucks.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/joe_bonamassa_michael_mcdonald_susan_tedeschi_and_derek_trucks.jpg
 biography_enhanced_at: '2025-10-23T07:33:40.008584'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://americansongwriter.com/joe-bonamassa-commemorating-b-b-kings-100th-birthday-with-tribute-album-featuring-slash-paul-rodgers-many-more-stars-exclusive/
-- https://news.theurbanmusicscene.com/2025/09/joe-bonamassa-to-release-tribute-album-b-b-kings-blues-summit-100/
-- https://www.spin.com/2025/09/b-b-king-would-have-been-100-today-a-new-generation-of-blues-musicians-are-making-sure-we-dont-forget-it/
-- https://www.therockpit.net/2025/joe-bonamassa-shares-six-new-songs-from-b-b-kings-blues-summit-100-album/
+  - >-
+    https://americansongwriter.com/joe-bonamassa-commemorating-b-b-kings-100th-birthday-with-tribute-album-featuring-slash-paul-rodgers-many-more-stars-exclusive/
+  - >-
+    https://news.theurbanmusicscene.com/2025/09/joe-bonamassa-to-release-tribute-album-b-b-kings-blues-summit-100/
+  - >-
+    https://www.spin.com/2025/09/b-b-king-would-have-been-100-today-a-new-generation-of-blues-musicians-are-making-sure-we-dont-forget-it/
+  - >-
+    https://www.therockpit.net/2025/joe-bonamassa-shares-six-new-songs-from-b-b-kings-blues-summit-100-album/
 network_extracted: true
 entry_created: '2025-10-23T07:33:40.008601'
 last_updated: '2025-12-23T08:16:10.573326'
-origin: 'United States (Bonamassa: New Hartford, NY; McDonald: St. Louis, MO; Tedeschi: Boston, MA; Trucks: Jacksonville,
-  FL)'
+origin: >-
+  United States (Bonamassa: New Hartford, NY; McDonald: St. Louis, MO; Tedeschi:
+  Boston, MA; Trucks: Jacksonville, FL)
+artist_type: person
 ---
 
 ![](joe_bonamassa_michael_mcdonald_susan_tedeschi_and_derek_trucks.jpg)

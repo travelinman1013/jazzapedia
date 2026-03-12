@@ -1,17 +1,17 @@
 ---
-title: ramsey lewis trio
+title: The Ramsey Lewis Trio
 wiki_slug: ramsey-lewis-trio
 schema_version: 2
 status: active
 genres:
-- soul jazz
-- jazz
+  - soul jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ramsey_lewis_trio.jpg
   caption: ramsey lewis trio
   background: solo_singer
 audio_profile:
-  tempo_avg: 115.0
+  tempo_avg: 115
   energy_avg: 0.499
   valence_avg: 0.63
   danceability_avg: 0.578
@@ -25,59 +25,66 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Eldee Young
-  - Isaac "Redd" Holt
-  - Cleveland Eaton
-  - Maurice White
-  - Morris Jennings
-  - Frankie Donaldson
-  - Bill Dickens
-  - Felton Crews
+    - Eldee Young
+    - Isaac "Redd" Holt
+    - Cleveland Eaton
+    - Maurice White
+    - Morris Jennings
+    - Frankie Donaldson
+    - Bill Dickens
+    - Felton Crews
   influenced:
-  - Maurice White / Earth, Wind & Fire
-  - Urban Knights and Chicago smooth‑jazz artists
-  - Soul‑jazz and crossover jazz pianists broadly
+    - 'Maurice White / Earth, Wind & Fire'
+    - Urban Knights and Chicago smooth‑jazz artists
+    - Soul‑jazz and crossover jazz pianists broadly
   mentors:
-  - Edward Virgil Abner
-  - Church and classical piano teachers (Chicago Musical College)
+    - Edward Virgil Abner
+    - Church and classical piano teachers (Chicago Musical College)
 spotify_data:
   followers: 38735
   id: 4jZOiPysIzYxbDcDEOZmhu
   popularity: 51
-  url: https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu
+  url: 'https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu'
 discography_enriched: true
 top_tracks:
-- The "In" Crowd - Live At The Bohemian Caverns, Washington, D.C./1965 (The In Crowd (Expanded Edition))
-- Look-A-Here
-- Here Comes Santa Claus (Sound Of Christmas)
-- Do What You Wanna (Another Voyage)
-- Egg Nog (More Sounds Of Christmas)
-- Christmas Blues (Sound Of Christmas)
-- Bold And Black (Another Voyage)
-- Slipping Into Darkness
-- The "In" Crowd - Live At Bohemian Caverns, 1965 / Single Edit (The In Crowd Anthology)
-- The "In" Crowd (The Chess Story 1965-1975)
+  - >-
+    The "In" Crowd - Live At The Bohemian Caverns, Washington, D.C./1965 (The In
+    Crowd (Expanded Edition))
+  - Look-A-Here
+  - Here Comes Santa Claus (Sound Of Christmas)
+  - Do What You Wanna (Another Voyage)
+  - Egg Nog (More Sounds Of Christmas)
+  - Christmas Blues (Sound Of Christmas)
+  - Bold And Black (Another Voyage)
+  - Slipping Into Darkness
+  - >-
+    The "In" Crowd - Live At Bohemian Caverns, 1965 / Single Edit (The In Crowd
+    Anthology)
+  - The "In" Crowd (The Chess Story 1965-1975)
 external_urls:
-  spotify: https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu
-  wikipedia: https://en.wikipedia.org/wiki/Ramsey_Lewis
+  spotify: 'https://open.spotify.com/artist/4jZOiPysIzYxbDcDEOZmhu'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ramsey_Lewis'
 image_path: 03_Resources/source_material/ArtistPortraits/ramsey_lewis_trio.jpg
 biography_enhanced_at: '2025-12-16T03:39:59.097052'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Official Ramsey Lewis biography (ramseylewis.com)[1]
-- Ramsey Lewis obituary/feature in JazzTimes[2]
-- Creative Audio Works article on “The In Crowd” and Trio history[3]
-- National Endowment for the Arts Jazz Master profile of Ramsey Lewis[4]
-- KNKX public radio remembrance of Ramsey Lewis and his Trio[5]
-- Ramsey Lewis entry on Wikipedia[6]
-- Wax Poetics feature on Ramsey Lewis and his soul‑jazz impact[7]
-- Blackstone Publishing description of Lewis’s memoir *Gentleman of Jazz*[8]
-- DownBeat review of *Gentleman of Jazz* highlighting his ambassador role[9]
+  - 'Official Ramsey Lewis biography (ramseylewis.com)[1]'
+  - 'Ramsey Lewis obituary/feature in JazzTimes[2]'
+  - 'Creative Audio Works article on “The In Crowd” and Trio history[3]'
+  - 'National Endowment for the Arts Jazz Master profile of Ramsey Lewis[4]'
+  - 'KNKX public radio remembrance of Ramsey Lewis and his Trio[5]'
+  - 'Ramsey Lewis entry on Wikipedia[6]'
+  - 'Wax Poetics feature on Ramsey Lewis and his soul‑jazz impact[7]'
+  - 'Blackstone Publishing description of Lewis’s memoir *Gentleman of Jazz*[8]'
+  - 'DownBeat review of *Gentleman of Jazz* highlighting his ambassador role[9]'
 network_extracted: true
 entry_created: '2025-12-16T03:39:59.097061'
 last_updated: '2025-12-23T08:16:14.624670'
-origin: Chicago, Illinois, United States
+origin: 'Chicago, Illinois, United States'
+birth_place: 'Chicago, Illinois, United States'
+birth_date: '1935-05-27'
+artist_type: band
 ---
 
 ![](ramsey_lewis_trio.jpg)

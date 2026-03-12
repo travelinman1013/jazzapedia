@@ -4,14 +4,16 @@ schema_version: 2
 artist_type: person
 birth_place: U.S. Virgin Islands (exact island and city not specified in available sources)
 genres:
-- roots reggae
-- reggae
-- dub
+  - roots reggae
+  - reggae
+  - dub
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/tuff_lion.jpg
   caption: tuff lion
   background: solo_singer
-  origin: U.S. Virgin Islands (exact island and city not specified in available sources)
+  origin: >-
+    U.S. Virgin Islands (exact island and city not specified in available
+    sources)
 audio_profile:
   tempo_avg: 120.9
   energy_avg: 0.586
@@ -19,7 +21,7 @@ audio_profile:
   danceability_avg: 0.757
   acousticness_avg: 0.14
   instrumentalness_avg: 0.383
-  loudness_avg: -8.0
+  loudness_avg: -8
   speechiness_avg: 0.103
   liveness_avg: 0.14
   track_count: 50
@@ -27,41 +29,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - I-Grade Records artists (including NiyoRah, Abja, Army, Midnite, Dezarie, Danny I, Yahadanai)
-  - Bambu Station
-  - Osagyefo
+    - >-
+      I-Grade Records artists (including NiyoRah, Abja, Army, Midnite, Dezarie,
+      Danny I, Yahadanai)
+    - Bambu Station
+    - Osagyefo
   influenced: []
   mentors: []
 discography_enriched: true
 top_tracks:
-- Indigo Tides (Ten Strings)
-- Blessed Feeling (Ten Strings)
-- Vibes Preservation (Ten Strings)
-- Love Is All (Ten Strings)
-- Burning Bush (Ten Strings)
-- Yad Along (Ten Strings)
-- Majestic Honor (Ten Strings)
-- Fly Away (Ten Strings)
-- Kindred Spirit (Ten Strings)
-- Coming Home (Ten Strings)
+  - Indigo Tides (Ten Strings)
+  - Blessed Feeling (Ten Strings)
+  - Vibes Preservation (Ten Strings)
+  - Love Is All (Ten Strings)
+  - Burning Bush (Ten Strings)
+  - Yad Along (Ten Strings)
+  - Majestic Honor (Ten Strings)
+  - Fly Away (Ten Strings)
+  - Kindred Spirit (Ten Strings)
+  - Coming Home (Ten Strings)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ea7b0372-dd6a-4d6a-9256-7b93aaec57e0
-  spotify: https://open.spotify.com/artist/6qtpsjblEGIsisnYyhL4oc
+  musicbrainz: 'https://musicbrainz.org/artist/ea7b0372-dd6a-4d6a-9256-7b93aaec57e0'
+  spotify: 'https://open.spotify.com/artist/6qtpsjblEGIsisnYyhL4oc'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/tuff_lion.jpg
 biography_enhanced_at: '2025-12-15T01:36:49.431684'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Tuff+Lion/+wiki
-- https://dreamspider.wordpress.com/tag/tuff-lion/
-- https://rebelbase.be/interviews/detail/tuff-lion
+  - 'https://www.last.fm/music/Tuff+Lion/+wiki'
+  - 'https://dreamspider.wordpress.com/tag/tuff-lion/'
+  - 'https://rebelbase.be/interviews/detail/tuff-lion'
 network_extracted: true
 entry_created: '2025-12-15T01:36:49.431689'
 last_updated: '2025-12-23T08:16:17.735948'
 gender: Male
 musicbrainz_id: ea7b0372-dd6a-4d6a-9256-7b93aaec57e0
----helden-in-het-park-082008
+title: Tuff Lion
+origin: 'U.S. Virgin Islands, United States'
+---
+helden-in-het-park-082008
 - https://unitedreggae.com/artists/t/tuff-lion,2158/
 spotify_data:
   followers: 6142

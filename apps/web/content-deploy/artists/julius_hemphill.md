@@ -1,127 +1,131 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '1977'
-  end: '1991'
-  instruments:
-  - flute
-  - original
-  mbid: 211787f9-5b93-415a-8213-62e5df03be7b
-  name: World Saxophone Quartet
-- begin: '1977'
-  end: '1991'
-  instruments:
-  - original
-  - soprano saxophone
-  mbid: 211787f9-5b93-415a-8213-62e5df03be7b
-  name: World Saxophone Quartet
-- begin: '1977'
-  end: '1991'
-  instruments:
-  - alto saxophone
-  - original
-  mbid: 211787f9-5b93-415a-8213-62e5df03be7b
-  name: World Saxophone Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: b81b8d67-616c-4e68-9f57-b5219e6feba5
-  name: Julius Hemphill Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 38d4818d-c470-4a70-a077-60d0c341cdfb
-  name: The Boyé Multi-National Crusade For Harmony
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3527d2a5-89ec-4221-a86a-361147237978
-  name: Julius Hemphill Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bf86c493-7bba-4c4d-a7e1-ee09c3b518c3
-  name: The Julius Hemphill / Abdul Wadud Duo
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a3976e95-3096-470f-a01a-3632fb76f1a6
-  name: The Janus Company
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 125d0cbd-d466-4e7f-be12-021447b27976
-  name: The K. Curtis Lyle / Julius Hemphill Duo
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b90f13a8-d0c6-47ac-94c7-fdb0cf1f7479
-  name: The JAH Band
+  - begin: '1977'
+    end: '1991'
+    instruments:
+      - flute
+      - original
+    mbid: 211787f9-5b93-415a-8213-62e5df03be7b
+    name: World Saxophone Quartet
+  - begin: '1977'
+    end: '1991'
+    instruments:
+      - original
+      - soprano saxophone
+    mbid: 211787f9-5b93-415a-8213-62e5df03be7b
+    name: World Saxophone Quartet
+  - begin: '1977'
+    end: '1991'
+    instruments:
+      - alto saxophone
+      - original
+    mbid: 211787f9-5b93-415a-8213-62e5df03be7b
+    name: World Saxophone Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: b81b8d67-616c-4e68-9f57-b5219e6feba5
+    name: Julius Hemphill Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 38d4818d-c470-4a70-a077-60d0c341cdfb
+    name: The Boyé Multi-National Crusade For Harmony
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3527d2a5-89ec-4221-a86a-361147237978
+    name: Julius Hemphill Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bf86c493-7bba-4c4d-a7e1-ee09c3b518c3
+    name: The Julius Hemphill / Abdul Wadud Duo
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a3976e95-3096-470f-a01a-3632fb76f1a6
+    name: The Janus Company
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 125d0cbd-d466-4e7f-be12-021447b27976
+    name: The K. Curtis Lyle / Julius Hemphill Duo
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b90f13a8-d0c6-47ac-94c7-fdb0cf1f7479
+    name: The JAH Band
 biography_enhanced_at: '2026-01-13T01:08:48.752490'
 birth_date: '1938-01-24'
-birth_place: Fort Worth
+birth_place: 'Fort Worth, Texas, United States'
 death_date: '1995-04-02'
 enhancement_provider: perplexity
 entry_created: '2026-01-13T01:08:48.752496'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/31fe325f-2553-4863-8a4a-5ddc0013e5a9
-  spotify: https://open.spotify.com/artist/4BYUn8PnodGSTYhHDRNoz6
-  wikipedia: https://en.wikipedia.org/wiki/Julius_Hemphill
+  musicbrainz: 'https://musicbrainz.org/artist/31fe325f-2553-4863-8a4a-5ddc0013e5a9'
+  spotify: 'https://open.spotify.com/artist/4BYUn8PnodGSTYhHDRNoz6'
+  wikipedia: 'https://en.wikipedia.org/wiki/Julius_Hemphill'
 gender: Male
 genres:
-- free jazz
-- experimental jazz
-- avant-garde
-- hard bop
+  - free jazz
+  - experimental jazz
+  - avant-garde
+  - hard bop
 image_path: 03_Resources/source_material/ArtistPortraits/julius_hemphill.jpg
 instruments:
-- flute
-- original
-- soprano saxophone
-- alto saxophone
-- eponymous
+  - flute
+  - original
+  - soprano saxophone
+  - alto saxophone
+  - eponymous
 last_updated: '2026-01-13T01:08:48.752497'
 musical_connections:
   collaborators:
-  - Oliver Lake
-  - Hamiet Bluiett
-  - David Murray
-  - Anthony Braxton
-  - Abdul Wadud
-  - Marty Ehrlich
-  - Bill T. Jones
-  - Baikida Carroll
-  - Floyd LeFlore
+    - Oliver Lake
+    - Hamiet Bluiett
+    - David Murray
+    - Anthony Braxton
+    - Abdul Wadud
+    - Marty Ehrlich
+    - Bill T. Jones
+    - Baikida Carroll
+    - Floyd LeFlore
   influenced:
-  - David Sanborn
-  - Tim Berne
+    - David Sanborn
+    - Tim Berne
   mentors:
-  - John Carter
-  - Gerry Mulligan
+    - John Carter
+    - Gerry Mulligan
 musicbrainz_id: 31fe325f-2553-4863-8a4a-5ddc0013e5a9
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://aaregistry.org/story/julius-hemphill-musician-and-teacher-born/
-- https://en.wikipedia.org/wiki/Julius_Hemphill
-- https://www.texasstandard.org/stories/texas-music-history-julius-hemphill-fort-worth-tx/
-- https://bombmagazine.org/articles/1994/01/01/julius-hemphill/
-- https://downbeat.com/news/detail/julius-hemphills-crusade
-- https://www.sdpb.org/2021-03-05/crusade-for-harmony-surveys-the-life-work-of-saxophonist-julius-hemphill
-- https://findingaids.library.nyu.edu/fales/mss_542/
-- https://nobusinessrecords.com/julius-hemphill.html
-- https://www.scaruffi.com/jazz/hemphill.html
+  - 'https://aaregistry.org/story/julius-hemphill-musician-and-teacher-born/'
+  - 'https://en.wikipedia.org/wiki/Julius_Hemphill'
+  - >-
+    https://www.texasstandard.org/stories/texas-music-history-julius-hemphill-fort-worth-tx/
+  - 'https://bombmagazine.org/articles/1994/01/01/julius-hemphill/'
+  - 'https://downbeat.com/news/detail/julius-hemphills-crusade'
+  - >-
+    https://www.sdpb.org/2021-03-05/crusade-for-harmony-surveys-the-life-work-of-saxophonist-julius-hemphill
+  - 'https://findingaids.library.nyu.edu/fales/mss_542/'
+  - 'https://nobusinessrecords.com/julius-hemphill.html'
+  - 'https://www.scaruffi.com/jazz/hemphill.html'
 spotify_data:
   followers: 3930
   id: 4BYUn8PnodGSTYhHDRNoz6
   popularity: 5
-  url: https://open.spotify.com/artist/4BYUn8PnodGSTYhHDRNoz6
+  url: 'https://open.spotify.com/artist/4BYUn8PnodGSTYhHDRNoz6'
 status: active
 tags:
-- free jazz
-- jazz
+  - free jazz
+  - jazz
 title: Julius Hemphill
+is_active: false
+origin: 'St. Louis, Missouri, United States'
 ---
 
 ![](julius_hemphill.jpg)

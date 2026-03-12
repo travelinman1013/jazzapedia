@@ -1,15 +1,15 @@
 ---
-title: kid thomas
+title: Kid Thomas
 wiki_slug: kid-thomas
 schema_version: 2
 status: active
-birth_place: Sturgis, Mississippi, United States
+birth_place: 'Sturgis, Mississippi, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/kid_thomas.jpg
   caption: kid thomas
   background: solo_singer
-  origin: Sturgis, Mississippi, United States
+  origin: 'Sturgis, Mississippi, United States'
 audio_profile:
   tempo_avg: 130.8
   energy_avg: 0.579
@@ -17,7 +17,7 @@ audio_profile:
   danceability_avg: 0.541
   acousticness_avg: 0.609
   instrumentalness_avg: 0.306
-  loudness_avg: -12.0
+  loudness_avg: -12
   speechiness_avg: 0.068
   liveness_avg: 0.273
   track_count: 64
@@ -25,48 +25,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Muddy Waters
-  - Elmore James
-  - Bo Diddley
-  - Hound Dog Taylor
-  - Marshall Hooks
+    - Muddy Waters
+    - Elmore James
+    - Bo Diddley
+    - Hound Dog Taylor
+    - Marshall Hooks
   influenced:
-  - Later blues and rock harmonica players
+    - Later blues and rock harmonica players
   mentors:
-  - Little Willie Smith
+    - Little Willie Smith
 spotify_data:
   followers: 423
   id: 5IG0S4sVqO1wFhrWG45oXe
   popularity: 14
-  url: https://open.spotify.com/artist/5IG0S4sVqO1wFhrWG45oXe
+  url: 'https://open.spotify.com/artist/5IG0S4sVqO1wFhrWG45oXe'
 discography_enriched: true
 top_tracks:
-- Our City - Original Mix (Our City)
-- When You're Smiling (New Orleans Traditional Jazz Legends, Vol. 3)
-- Indian Love Call (Jim Robinson with Kid Thomas, Ernie Cagnolatti & De De Pierce)
-- Youth Choir (feat. Kid Thomas)
-- Salty Dog (Ragtime Stompers)
-- Rockin' This Joint To-Nite
-- Bucket's Got a Hole in It (Ragtime Stompers)
-- Battle Hymn of the Republic (Ragtime Stompers)
-- Easter Pride (Ragtime Stompers)
-- In the Sweet Bye and Bye (Ragtime Stompers)
+  - Our City - Original Mix (Our City)
+  - 'When You''re Smiling (New Orleans Traditional Jazz Legends, Vol. 3)'
+  - >-
+    Indian Love Call (Jim Robinson with Kid Thomas, Ernie Cagnolatti & De De
+    Pierce)
+  - Youth Choir (feat. Kid Thomas)
+  - Salty Dog (Ragtime Stompers)
+  - Rockin' This Joint To-Nite
+  - Bucket's Got a Hole in It (Ragtime Stompers)
+  - Battle Hymn of the Republic (Ragtime Stompers)
+  - Easter Pride (Ragtime Stompers)
+  - In the Sweet Bye and Bye (Ragtime Stompers)
 external_urls:
-  spotify: https://open.spotify.com/artist/5IG0S4sVqO1wFhrWG45oXe
+  spotify: 'https://open.spotify.com/artist/5IG0S4sVqO1wFhrWG45oXe'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/kid_thomas.jpg
 biography_enhanced_at: '2025-11-06T13:26:50.515032'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://fromthevaults-boppinbob.blogspot.com/2025/06/kid-thomas-born-20-june-1934.html
-- https://www.last.fm/music/Kid+Thomas
-- https://www.bmansbluesreport.com/2012/06/wolf-pack-kid-thomas.html?m=1
-- https://thehoundnyc.com/2009/03/17/kid-thomas/
-- https://www.allmusic.com/artist/kid-thomas-mn0000072279
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2025/06/kid-thomas-born-20-june-1934.html
+  - 'https://www.last.fm/music/Kid+Thomas'
+  - 'https://www.bmansbluesreport.com/2012/06/wolf-pack-kid-thomas.html?m=1'
+  - 'https://thehoundnyc.com/2009/03/17/kid-thomas/'
+  - 'https://www.allmusic.com/artist/kid-thomas-mn0000072279'
 network_extracted: true
 entry_created: '2025-11-06T13:26:50.515052'
 last_updated: '2025-12-23T08:16:02.869365'
+origin: 'Chicago, Illinois, United States'
+birth_date: '1934-06-20'
+artist_type: person
 ---
 
 ![](kid_thomas.jpg)

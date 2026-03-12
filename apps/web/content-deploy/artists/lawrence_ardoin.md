@@ -5,17 +5,17 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1946-11-17'
-birth_place: Evangeline Parish
+birth_place: 'Durald, Louisiana, United States'
 death_date: '2022-12-05'
 genres:
-- zydeco
-- cajun
+  - zydeco
+  - cajun
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8102c27b-7fba-4db4-b716-95b2c7086b2c
-  name: The Ardoin Family Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8102c27b-7fba-4db4-b716-95b2c7086b2c
+    name: The Ardoin Family Orchestra
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lawrence_ardoin.jpg
   caption: Lawrence Ardoin
@@ -38,43 +38,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Canray Fontenot
-  - Chris Ardoin
-  - Sean Ardoin
-  - Joseph Landry, Dallas DeVille, Clarence Le Day, Alfred Pete
+    - Canray Fontenot
+    - Chris Ardoin
+    - Sean Ardoin
+    - 'Joseph Landry, Dallas DeVille, Clarence Le Day, Alfred Pete'
   influenced:
-  - Chris Ardoin
-  - Sean Ardoin
+    - Chris Ardoin
+    - Sean Ardoin
   mentors:
-  - Alphonse "Bois Sec" Ardoin
+    - Alphonse "Bois Sec" Ardoin
 spotify_data:
   followers: 17
   id: 0BcLrLrT3YpFoZfqTbPKzQ
   popularity: 0
-  url: https://open.spotify.com/artist/0BcLrLrT3YpFoZfqTbPKzQ
+  url: 'https://open.spotify.com/artist/0BcLrLrT3YpFoZfqTbPKzQ'
 discography_enriched: true
 top_tracks:
-- Hot House Zydeco - Instrumental (Cajun and Zydeco Mardi Gras)
+  - Hot House Zydeco - Instrumental (Cajun and Zydeco Mardi Gras)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1ce87761-1071-452c-8157-6f75d5996df2
-  spotify: https://open.spotify.com/artist/0BcLrLrT3YpFoZfqTbPKzQ
+  musicbrainz: 'https://musicbrainz.org/artist/1ce87761-1071-452c-8157-6f75d5996df2'
+  spotify: 'https://open.spotify.com/artist/0BcLrLrT3YpFoZfqTbPKzQ'
   wikipedia: null
 image_path: ''
 biography_enhanced_at: '2025-11-17T10:48:07.331302'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://folkways-media.si.edu/docs/folkways/artwork/ARH09012.pdf
-- https://arhoolie.org/deep-dives-black-history-month/
-- https://www.visitlakecharles.org/blog/post/zydeco-roots-in-lake-charles-la/
-- https://folkways.si.edu/lawrence-black-ardoin/tradition-creole/cajun-zydeco/music/album/smithsonian
-- https://www.iheart.com/artist/lawrence-ardoin-33362823/
-- https://nodepression.org/the-ardoin-family-100-years-of-creole-music-innovation/
+  - 'https://folkways-media.si.edu/docs/folkways/artwork/ARH09012.pdf'
+  - 'https://arhoolie.org/deep-dives-black-history-month/'
+  - 'https://www.visitlakecharles.org/blog/post/zydeco-roots-in-lake-charles-la/'
+  - >-
+    https://folkways.si.edu/lawrence-black-ardoin/tradition-creole/cajun-zydeco/music/album/smithsonian
+  - 'https://www.iheart.com/artist/lawrence-ardoin-33362823/'
+  - >-
+    https://nodepression.org/the-ardoin-family-100-years-of-creole-music-innovation/
 network_extracted: true
 entry_created: '2025-11-17T10:48:07.331314'
 last_updated: '2025-12-23T08:16:11.645953'
 gender: Male
 musicbrainz_id: 1ce87761-1071-452c-8157-6f75d5996df2
+is_active: false
+origin: 'Louisiana, United States'
 ---
 
 ![]()

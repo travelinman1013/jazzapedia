@@ -1,40 +1,43 @@
 ---
 biography_enhanced_at: '2026-01-20T01:17:30.281890'
-birth_place: Largo, Florida, USA
+birth_place: 'Largo, Florida, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-20T01:17:30.281896'
 external_urls:
-  spotify: https://open.spotify.com/artist/1yE80Js3ElnZXDVxF4c9u1
+  spotify: 'https://open.spotify.com/artist/1yE80Js3ElnZXDVxF4c9u1'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/jonathan_powell_and_nu_sangha.jpg
 last_updated: '2026-01-20T01:17:30.281897'
 musical_connections:
   collaborators:
-  - Jeremy Powell
-  - Arturo O'Farrill
-  - Sofia Tosello
-  - Richard Padron
+    - Jeremy Powell
+    - Arturo O'Farrill
+    - Sofia Tosello
+    - Richard Padron
   influenced: []
   mentors:
-  - Raymond Mase
-  - Eddie Palmieri
+    - Raymond Mase
+    - Eddie Palmieri
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- http://www.jonathanpowell.net/bio
-- https://www.yamaha.com/artists/jonathanpowell.html
-- https://www.allaboutjazz.com/musicians/jonathan-powell/
-- https://fontmusic.org/2015/09/catching-up-with-font-music-2015-artist-jonathan-powell/
-- https://www.allaboutjazz.com/news/jonathan-powell-transcend-cd-release-show-friday-at-the-blue-note
-- https://www.jazzmusicarchives.com/artist/jonathan-powell
+  - 'http://www.jonathanpowell.net/bio'
+  - 'https://www.yamaha.com/artists/jonathanpowell.html'
+  - 'https://www.allaboutjazz.com/musicians/jonathan-powell/'
+  - >-
+    https://fontmusic.org/2015/09/catching-up-with-font-music-2015-artist-jonathan-powell/
+  - >-
+    https://www.allaboutjazz.com/news/jonathan-powell-transcend-cd-release-show-friday-at-the-blue-note
+  - 'https://www.jazzmusicarchives.com/artist/jonathan-powell'
 spotify_data:
   followers: 46
   id: 1yE80Js3ElnZXDVxF4c9u1
   popularity: 0
-  url: https://open.spotify.com/artist/1yE80Js3ElnZXDVxF4c9u1
+  url: 'https://open.spotify.com/artist/1yE80Js3ElnZXDVxF4c9u1'
 status: active
 title: Jonathan Powell & Nu Sangha
+artist_type: person
 ---
 
 ![](jonathan_powell_and_nu_sangha.jpg)

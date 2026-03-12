@@ -1,44 +1,46 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-13T01:11:47.342354'
-birth_place: Bolton, Mississippi, USA
+birth_place: 'Bolton, Mississippi, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-13T01:11:47.342360'
 external_urls:
-  spotify: https://open.spotify.com/artist/43zvSKiJXk1dzluo4Vum5J
-  wikipedia: https://en.wikipedia.org/wiki/Sam_Chatmon
+  spotify: 'https://open.spotify.com/artist/43zvSKiJXk1dzluo4Vum5J'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sam_Chatmon'
 genres:
-- country blues
-- blues
-- classic blues
-- ragtime
+  - country blues
+  - blues
+  - classic blues
+  - ragtime
 image_path: 03_Resources/source_material/ArtistPortraits/sam_chatmon.jpg
 last_updated: '2026-01-13T01:11:47.342360'
 musical_connections:
   collaborators:
-  - Lonnie Chatmon
-  - Bo Carter
-  - Walter Vinson
-  - Sue Draheim
-  - Kenny Hall
+    - Lonnie Chatmon
+    - Bo Carter
+    - Walter Vinson
+    - Sue Draheim
+    - Kenny Hall
   influenced: []
   mentors:
-  - Charley Patton
+    - Charley Patton
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Sam_Chatmon
-- https://sandiegotroubadour.com/sam-chatmon/
-- https://www.musicbed.com/artists/sam-chatmon/45379
-- https://www.mswritersandmusicians.com/mississippi-musicians/sam-chatmon
-- https://mojohand.com/glossary/sam-chatmon/
+  - 'https://en.wikipedia.org/wiki/Sam_Chatmon'
+  - 'https://sandiegotroubadour.com/sam-chatmon/'
+  - 'https://www.musicbed.com/artists/sam-chatmon/45379'
+  - 'https://www.mswritersandmusicians.com/mississippi-musicians/sam-chatmon'
+  - 'https://mojohand.com/glossary/sam-chatmon/'
 spotify_data:
   followers: 3493
   id: 43zvSKiJXk1dzluo4Vum5J
   popularity: 9
-  url: https://open.spotify.com/artist/43zvSKiJXk1dzluo4Vum5J
+  url: 'https://open.spotify.com/artist/43zvSKiJXk1dzluo4Vum5J'
 status: active
-title: SAM CHATMON
+title: Sam Chatmon
+birth_date: '1897-01-10'
+death_date: '1983-02-02'
 ---
 
 ![](sam_chatmon.jpg)

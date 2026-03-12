@@ -3,38 +3,53 @@ biography_enhanced_at: '2025-12-25T01:08:06.944904'
 enhancement_provider: perplexity
 entry_created: '2025-12-25T01:08:06.944916'
 external_urls:
-  spotify: https://open.spotify.com/artist/4jUaXvYm6zDDCU3HHIgyAH
+  spotify: 'https://open.spotify.com/artist/4jUaXvYm6zDDCU3HHIgyAH'
   wikipedia: ''
 genres:
-- classic blues
-- ragtime
+  - classic blues
+  - ragtime
 image_path: 03_Resources/source_material/ArtistPortraits/madlyn_davis.jpg
 last_updated: '2025-12-25T01:08:06.944917'
 musical_connections:
   collaborators:
-  - Tampa Red
-  - Georgia Tom (Thomas A. Dorsey)
-  - Madlyn Davis and Her Hot Shots
+    - Tampa Red
+    - Georgia Tom (Thomas A. Dorsey)
+    - Madlyn Davis and Her Hot Shots
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- Madison Blues Society – Female Blues Artists page mentioning Madlyn Davis and key titles like “Kokola Blues” and “It’s Red Hot.”[1]
-- Jus’ Blues Foundation – Blues History page summarizing Davis as a classic female blues singer active in the late 1920s.[2]
-- Sixstr Stories – Discussion of “Old Original Kokomo Blues” referencing Madlyn Davis (1899–?) and her recording “Kokola Blues.”[3]
-- iHeart artist page – Brief artist overview describing Madlyn Davis as a contemporary of major classic blues women.[4]
-- AllMusic artist entry – Overview of Madlyn Davis’s status as a classic blues singer and contemporary of Ma Rainey and Bessie Smith.[5]
-- Doggone Blues (Kokomo Blues article) – Notes that Davis finished her career in 1928 with four sides backed by Tampa Red and Georgia Tom Dorsey.[6]
-- Document Records artist/results page – Reissue/liner‑note style description highlighting Davis’s 1928 recordings with Tampa Red and Georgia Tom and their musical character.[7]
+  - >-
+    Madison Blues Society – Female Blues Artists page mentioning Madlyn Davis
+    and key titles like “Kokola Blues” and “It’s Red Hot.”[1]
+  - >-
+    Jus’ Blues Foundation – Blues History page summarizing Davis as a classic
+    female blues singer active in the late 1920s.[2]
+  - >-
+    Sixstr Stories – Discussion of “Old Original Kokomo Blues” referencing
+    Madlyn Davis (1899–?) and her recording “Kokola Blues.”[3]
+  - >-
+    iHeart artist page – Brief artist overview describing Madlyn Davis as a
+    contemporary of major classic blues women.[4]
+  - >-
+    AllMusic artist entry – Overview of Madlyn Davis’s status as a classic blues
+    singer and contemporary of Ma Rainey and Bessie Smith.[5]
+  - >-
+    Doggone Blues (Kokomo Blues article) – Notes that Davis finished her career
+    in 1928 with four sides backed by Tampa Red and Georgia Tom Dorsey.[6]
+  - >-
+    Document Records artist/results page – Reissue/liner‑note style description
+    highlighting Davis’s 1928 recordings with Tampa Red and Georgia Tom and
+    their musical character.[7]
 spotify_data:
   followers: 308
   id: 4jUaXvYm6zDDCU3HHIgyAH
   popularity: 0
-  url: https://open.spotify.com/artist/4jUaXvYm6zDDCU3HHIgyAH
+  url: 'https://open.spotify.com/artist/4jUaXvYm6zDDCU3HHIgyAH'
 status: active
-title: MADLYN DAVIS
-
+title: Madlyn Davis
+artist_type: person
 ---
 
 ![](madlyn_davis.jpg)

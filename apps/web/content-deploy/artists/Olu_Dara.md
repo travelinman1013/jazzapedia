@@ -2,23 +2,23 @@
 title: Olu Dara
 wiki_slug: olu-dara
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1941-01-12'
-birth_place: Natchez, Mississippi, United States
+birth_place: 'Natchez, Mississippi, United States'
 genres: []
 instruments:
-- trumpet
-- cornet
-- eponymous
-- original
-- harmonica
+  - trumpet
+  - cornet
+  - eponymous
+  - original
+  - harmonica
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Olu_Dara.jpg
   caption: Olu Dara
   background: non_vocal_instrumentalist
   born: '1941-01-12'
-  origin: Natchez, Mississippi, United States
+  origin: 'Natchez, Mississippi, United States'
 audio_profile:
   tempo_avg: 105.9
   energy_avg: 0.486
@@ -34,57 +34,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Art Blakey
-  - Henry Threadgill
-  - David Murray
-  - Hamiet Bluiett
-  - Don Pullen
-  - Craig Harris
-  - Charles Brackeen
-  - James Blood Ulmer
-  - Cassandra Wilson
-  - Dr. John
-  - Nas
-  - Alonzo Gardner
-  - Kwatei Jones Quartey
-  - Greg Bandy
-  - Acosta Musamba
+    - Art Blakey
+    - Henry Threadgill
+    - David Murray
+    - Hamiet Bluiett
+    - Don Pullen
+    - Craig Harris
+    - Charles Brackeen
+    - James Blood Ulmer
+    - Cassandra Wilson
+    - Dr. John
+    - Nas
+    - Alonzo Gardner
+    - Kwatei Jones Quartey
+    - Greg Bandy
+    - Acosta Musamba
   influenced:
-  - David Murray
-  - Henry Threadgill
-  - Craig Harris
+    - David Murray
+    - Henry Threadgill
+    - Craig Harris
   mentors:
-  - Early Music Teacher
+    - Early Music Teacher
 spotify_data:
   followers: 15363
   id: 3DQiuEWQzCUET866iZJmQ9
   popularity: 43
-  url: https://open.spotify.com/artist/3DQiuEWQzCUET866iZJmQ9
+  url: 'https://open.spotify.com/artist/3DQiuEWQzCUET866iZJmQ9'
 discography_enriched: true
 top_tracks:
-- Life's a Bitch (feat. AZ & Olu Dara) (Illmatic)
-- Bridging the Gap (feat. Olu Dara) (Street's Disciple)
-- Life's a Bitch (feat. AZ & Olu Dara) (Illmatic XX)
-- Rain Shower (From Natchez To New York)
-- Your Lips (From Natchez To New York)
-- Harlem Country Girl (From Natchez To New York)
-- Street's Disciple (feat. Olu Dara) (Street's Disciple)
-- Bridging the Gap (feat. Olu Dara) (Street's Disciple)
-- Okra (From Natchez To New York)
-- Bubber (If Only) (From Natchez To New York)
+  - Life's a Bitch (feat. AZ & Olu Dara) (Illmatic)
+  - Bridging the Gap (feat. Olu Dara) (Street's Disciple)
+  - Life's a Bitch (feat. AZ & Olu Dara) (Illmatic XX)
+  - Rain Shower (From Natchez To New York)
+  - Your Lips (From Natchez To New York)
+  - Harlem Country Girl (From Natchez To New York)
+  - Street's Disciple (feat. Olu Dara) (Street's Disciple)
+  - Bridging the Gap (feat. Olu Dara) (Street's Disciple)
+  - Okra (From Natchez To New York)
+  - Bubber (If Only) (From Natchez To New York)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c6a841d8-78d4-4b76-afa0-b848afaf5edb
-  spotify: https://open.spotify.com/artist/3DQiuEWQzCUET866iZJmQ9
-  wikipedia: https://en.wikipedia.org/wiki/Olu_Dara
+  musicbrainz: 'https://musicbrainz.org/artist/c6a841d8-78d4-4b76-afa0-b848afaf5edb'
+  spotify: 'https://open.spotify.com/artist/3DQiuEWQzCUET866iZJmQ9'
+  wikipedia: 'https://en.wikipedia.org/wiki/Olu_Dara'
 image_path: 03_Resources/source_material/ArtistPortraits/Olu_Dara.jpg
 biography_enhanced_at: '2025-10-20T09:59:12.808883'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Olu_Dara
-- https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/olu-dara
-- https://www.allamericanspeakers.com/celebritytalentbios/Olu+Dara+Jones/449647
-- https://musicianguide.com/biographies/1608003932/Olu-Dara.html
+  - 'https://en.wikipedia.org/wiki/Olu_Dara'
+  - >-
+    https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/olu-dara
+  - >-
+    https://www.allamericanspeakers.com/celebritytalentbios/Olu+Dara+Jones/449647
+  - 'https://musicianguide.com/biographies/1608003932/Olu-Dara.html'
 network_extracted: true
 entry_created: '2025-10-20T09:59:12.808904'
 last_updated: '2025-12-23T08:16:03.482031'
@@ -92,9 +94,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:40:02.522969'
 musicbrainz_id: c6a841d8-78d4-4b76-afa0-b848afaf5edb
 tags:
-- actors
-- cornet players
-- dramatists
+  - actors
+  - cornet players
+  - dramatists
+origin: 'New York City, New York, United States'
 ---
 
 ![](Olu_Dara.jpg)

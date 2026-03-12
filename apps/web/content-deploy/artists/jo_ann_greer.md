@@ -3,14 +3,14 @@ title: Jo Ann Greer
 wiki_slug: jo-ann-greer
 schema_version: 2
 status: active
-birth_place: Los Angeles, California, United States
+birth_place: 'Los Angeles, California, United States'
 genres:
-- big band
+  - big band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jo_ann_greer.jpg
   caption: Jo Ann Greer
   background: solo_singer
-  origin: Los Angeles, California, United States
+  origin: 'Los Angeles, California, United States'
 audio_profile:
   tempo_avg: 110.3
   energy_avg: 0.276
@@ -26,48 +26,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ray Anthony
-  - Les Brown
-  - Freddie Slack
-  - Annette Warren and India Adams
+    - Ray Anthony
+    - Les Brown
+    - Freddie Slack
+    - Annette Warren and India Adams
   influenced:
-  - Hollywood 'ghost singers' and band vocalists
+    - Hollywood 'ghost singers' and band vocalists
   mentors:
-  - Her mother (unnamed piano teacher)
-  - Big band and jazz legends (e.g., Billie Holiday, Bing Crosby)
+    - Her mother (unnamed piano teacher)
+    - 'Big band and jazz legends (e.g., Billie Holiday, Bing Crosby)'
 spotify_data:
   followers: 447
   id: 7gqYR4bYf7Oy0XfhNeRkTW
   popularity: 9
-  url: https://open.spotify.com/artist/7gqYR4bYf7Oy0XfhNeRkTW
+  url: 'https://open.spotify.com/artist/7gqYR4bYf7Oy0XfhNeRkTW'
 discography_enriched: true
 top_tracks:
-- Moonglow (The Great Les Brown)
-- The Hokey Pokey (Hollywood's Secret Singing Star)
-- Don't Take Your Love from Me
-- Hear No Evil, See No Evil (Hollywood's Secret Singing Star)
-- Whatever Lola Wants
-- Back in Your Own Backyard
-- Bewitched, Bothered and Bewildered (2008 - Remaster)
-- September Song (The Great Les Brown)
-- Bewitched (Hollywood Legend Sings)
-- Hear No Evil, See No Evil (Hollywood Legend Sings)
+  - Moonglow (The Great Les Brown)
+  - The Hokey Pokey (Hollywood's Secret Singing Star)
+  - Don't Take Your Love from Me
+  - 'Hear No Evil, See No Evil (Hollywood''s Secret Singing Star)'
+  - Whatever Lola Wants
+  - Back in Your Own Backyard
+  - 'Bewitched, Bothered and Bewildered (2008 - Remaster)'
+  - September Song (The Great Les Brown)
+  - Bewitched (Hollywood Legend Sings)
+  - 'Hear No Evil, See No Evil (Hollywood Legend Sings)'
 external_urls:
-  spotify: https://open.spotify.com/artist/7gqYR4bYf7Oy0XfhNeRkTW
-  wikipedia: https://en.wikipedia.org/wiki/Jo_Ann_Greer
+  spotify: 'https://open.spotify.com/artist/7gqYR4bYf7Oy0XfhNeRkTW'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jo_Ann_Greer'
 image_path: 03_Resources/source_material/ArtistPortraits/jo_ann_greer.jpg
 biography_enhanced_at: '2025-11-03T07:31:17.335010'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.vinylmeplease.com/blogs/artists/jo-ann-greer-vinyl
-- https://www.imdb.com/name/nm0339456/bio/
-- https://fromthevaults-boppinbob.blogspot.com/2023/04/jo-ann-greer-born-3-april-1927.html
-- https://last.fm/music/Jo+Ann+Greer/+wiki
-- https://secondhandsongs.com/artist/84205
+  - 'https://www.vinylmeplease.com/blogs/artists/jo-ann-greer-vinyl'
+  - 'https://www.imdb.com/name/nm0339456/bio/'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2023/04/jo-ann-greer-born-3-april-1927.html
+  - 'https://last.fm/music/Jo+Ann+Greer/+wiki'
+  - 'https://secondhandsongs.com/artist/84205'
 network_extracted: true
 entry_created: '2025-11-03T07:31:17.335019'
 last_updated: '2025-12-23T08:16:10.549508'
+birth_date: '1927-04-03'
+artist_type: person
 ---
 
 ![](jo_ann_greer.jpg)

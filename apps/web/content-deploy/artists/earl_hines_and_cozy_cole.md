@@ -4,9 +4,9 @@ wiki_slug: earl-hines-and-cozy-cole
 schema_version: 2
 status: active
 genres:
-- big band
-- swing music
-- ragtime
+  - big band
+  - swing music
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/earl_hines_and_cozy_cole.jpg
   caption: Earl Hines and Cozy Cole
@@ -26,62 +26,68 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Louis Armstrong
-  - Jimmy Noone
-  - Benny Carter
-  - Cab Calloway
-  - Benny Goodman
-  - Gene Krupa
-  - Jonah Jones
-  - Jack Teagarden
+    - Louis Armstrong
+    - Jimmy Noone
+    - Benny Carter
+    - Cab Calloway
+    - Benny Goodman
+    - Gene Krupa
+    - Jonah Jones
+    - Jack Teagarden
   influenced:
-  - Dizzy Gillespie
-  - Charlie Parker
-  - Billy Eckstine
-  - Teddy Wilson
-  - Nat King Cole
-  - Duke Ellington
+    - Dizzy Gillespie
+    - Charlie Parker
+    - Billy Eckstine
+    - Teddy Wilson
+    - Nat King Cole
+    - Duke Ellington
   mentors:
-  - Joe Smith
-  - Eubie Blake
-  - Raymond Scott
+    - Joe Smith
+    - Eubie Blake
+    - Raymond Scott
 spotify_data:
   followers: 3101
   id: 4hyzrSm7dyB8tKiR1LqxvB
   popularity: 12
-  url: https://open.spotify.com/artist/4hyzrSm7dyB8tKiR1LqxvB
+  url: 'https://open.spotify.com/artist/4hyzrSm7dyB8tKiR1LqxvB'
 discography_enriched: true
 top_tracks:
-- Boogie Woogie On St. Louis Blues (The Very Best Of Boogie Woogie)
-- Skylark (Stardust Melody)
-- Call Me Happy (Classic Earl Hines Sessions (1928-1945) - Vol. 5 & 6)
-- Up Jumped the Devil (Classic Earl Hines Sessions (1928-1945) - Vol. 5 & 6)
-- Riff Medley (Classic Earl Hines Sessions (1928-1945) - Vol. 5 & 6)
-- Ridin' And Jivin' (Afternoon Tunes)
-- Lightly and Politely (Classic Earl Hines Sessions (1928-1945) - Vol. 5 & 6)
-- Number 19 (Classic Earl Hines Sessions (1928-1945) - Vol. 5 & 6)
-- You Can Depend On Me (Treasury Of Jazz)
-- 'Ridin'' and Jivin'' (Essential Classics, Vol. 830: Earl Hines & His Orchestra)'
+  - Boogie Woogie On St. Louis Blues (The Very Best Of Boogie Woogie)
+  - Skylark (Stardust Melody)
+  - Call Me Happy (Classic Earl Hines Sessions (1928-1945) - Vol. 5 & 6)
+  - Up Jumped the Devil (Classic Earl Hines Sessions (1928-1945) - Vol. 5 & 6)
+  - Riff Medley (Classic Earl Hines Sessions (1928-1945) - Vol. 5 & 6)
+  - Ridin' And Jivin' (Afternoon Tunes)
+  - Lightly and Politely (Classic Earl Hines Sessions (1928-1945) - Vol. 5 & 6)
+  - Number 19 (Classic Earl Hines Sessions (1928-1945) - Vol. 5 & 6)
+  - You Can Depend On Me (Treasury Of Jazz)
+  - 'Ridin'' and Jivin'' (Essential Classics, Vol. 830: Earl Hines & His Orchestra)'
 external_urls:
-  spotify: https://open.spotify.com/artist/4hyzrSm7dyB8tKiR1LqxvB
-  wikipedia: https://en.wikipedia.org/wiki/Earl_Hines
+  spotify: 'https://open.spotify.com/artist/4hyzrSm7dyB8tKiR1LqxvB'
+  wikipedia: 'https://en.wikipedia.org/wiki/Earl_Hines'
 image_path: 03_Resources/source_material/ArtistPortraits/earl_hines_and_cozy_cole.jpg
 biography_enhanced_at: '2025-12-04T08:08:21.749961'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://jazzatthelibrary.com/earl-hines-jazz-legend/
-- https://www.allaboutjazz.com/musicians/cozy-cole/
-- https://syncopatedtimes.com/profiles-in-jazz-earl-fatha-hines/
-- https://cerra.substack.com/p/earl-hines-by-john-s-wilson
-- https://en.wikipedia.org/wiki/Earl_Hines
-- https://en.wikipedia.org/wiki/Cozy_Cole
-- https://bestofnj.com/features/black-history-nj-cozy-cole/
-- https://www.bluenote.com/artist/earl-hines/
-- https://www.jerryjazzmusician.com/earl-hines-lives/
+  - 'https://jazzatthelibrary.com/earl-hines-jazz-legend/'
+  - 'https://www.allaboutjazz.com/musicians/cozy-cole/'
+  - 'https://syncopatedtimes.com/profiles-in-jazz-earl-fatha-hines/'
+  - 'https://cerra.substack.com/p/earl-hines-by-john-s-wilson'
+  - 'https://en.wikipedia.org/wiki/Earl_Hines'
+  - 'https://en.wikipedia.org/wiki/Cozy_Cole'
+  - 'https://bestofnj.com/features/black-history-nj-cozy-cole/'
+  - 'https://www.bluenote.com/artist/earl-hines/'
+  - 'https://www.jerryjazzmusician.com/earl-hines-lives/'
 network_extracted: true
 entry_created: '2025-12-04T08:08:21.749967'
 last_updated: '2025-12-23T08:16:08.113852'
+birth_place: 'Pittsburgh, Pennsylvania, United States'
+origin: >-
+  Earl Hines: Pittsburgh, Pennsylvania, USA (early career); Chicago, Illinois,
+  USA (primary base); Cozy Cole: New York, USA
+birth_date: '1901'
+artist_type: band
 ---
 
 ![](earl_hines_and_cozy_cole.jpg)

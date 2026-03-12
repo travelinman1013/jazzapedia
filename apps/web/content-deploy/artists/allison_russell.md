@@ -3,14 +3,14 @@ title: Allison Russell
 wiki_slug: allison-russell
 schema_version: 2
 status: active
-birth_place: Montreal, Quebec, Canada
+birth_place: 'Montreal, Quebec, Canada'
 genres:
-- folk
+  - folk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/allison_russell.jpg
   caption: Allison Russell
   background: solo_singer
-  origin: Montreal, Quebec, Canada
+  origin: 'Montreal, Quebec, Canada'
 audio_profile:
   tempo_avg: 122.3
   energy_avg: 0.413
@@ -26,48 +26,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Trish Klein
-  - JT Nero
-  - Rhiannon Giddens
-  - Leyla McCalla
-  - Amythyst Kiah
+    - Trish Klein
+    - JT Nero
+    - Rhiannon Giddens
+    - Leyla McCalla
+    - Amythyst Kiah
   influenced:
-  - Emerging Black roots artists
+    - Emerging Black roots artists
   mentors:
-  - Trish Klein
+    - Trish Klein
 spotify_data:
   followers: 117097
   id: 3JBmecDGXTll46ygrnGTM6
   popularity: 46
-  url: https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6
+  url: 'https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6'
 discography_enriched: true
 top_tracks:
-- 'Wildflower and Barley (feat. Allison Russell) (Unreal Unearth: Unaired)'
-- 'Wildflower and Barley (Unreal Unearth: Unaired)'
-- Nightflyer (Outside Child)
-- Wildflower and Barley (feat. Allison Russell)
-- 'Wildflower and Barley (feat. Allison Russell) (Unreal Unearth: Unending)'
-- 'Wildflower and Barley (Unreal Unearth: Unending)'
-- Wildflower and Barley
-- Persephone (Outside Child)
-- The Returner (The Returner)
-- You're Not Alone [Feat. Brandi Carlile]
+  - 'Wildflower and Barley (feat. Allison Russell) (Unreal Unearth: Unaired)'
+  - 'Wildflower and Barley (Unreal Unearth: Unaired)'
+  - Nightflyer (Outside Child)
+  - Wildflower and Barley (feat. Allison Russell)
+  - 'Wildflower and Barley (feat. Allison Russell) (Unreal Unearth: Unending)'
+  - 'Wildflower and Barley (Unreal Unearth: Unending)'
+  - Wildflower and Barley
+  - Persephone (Outside Child)
+  - The Returner (The Returner)
+  - 'You''re Not Alone [Feat. Brandi Carlile]'
 external_urls:
-  spotify: https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6
-  wikipedia: https://en.wikipedia.org/wiki/Allison_Russell
+  spotify: 'https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6'
+  wikipedia: 'https://en.wikipedia.org/wiki/Allison_Russell'
 image_path: 03_Resources/source_material/ArtistPortraits/allison_russell.jpg
 biography_enhanced_at: '2025-10-26T12:40:31.019474'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Allison_Russell
-- https://amplify.nmc.ca/an-outsider-no-more-allison-russell-confronts-the-past-and-celebrates-the-present/
-- https://thesummit.fm/2025/02/24/roots-and-resilience/
-- https://thecbma.com/artists/allison-russell/
+  - 'https://en.wikipedia.org/wiki/Allison_Russell'
+  - >-
+    https://amplify.nmc.ca/an-outsider-no-more-allison-russell-confronts-the-past-and-celebrates-the-present/
+  - 'https://thesummit.fm/2025/02/24/roots-and-resilience/'
+  - 'https://thecbma.com/artists/allison-russell/'
 network_extracted: true
 entry_created: '2025-10-26T12:40:31.019483'
 last_updated: '2025-12-23T08:16:04.616043'
-
+artist_type: person
 ---
 
 ![](allison_russell.jpg)

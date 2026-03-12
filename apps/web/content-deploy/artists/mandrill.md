@@ -1,105 +1,105 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-09T02:07:46.063206'
 birth_date: '1968'
 disambiguation: American funk band
 enhancement_provider: perplexity
 entry_created: '2026-01-09T02:07:46.063211'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/697ea2f4-4f79-466a-8c57-29d5455b68bd
-  spotify: https://open.spotify.com/artist/6RWnslEkqboHbDg0OUabe5
-  wikipedia: https://en.wikipedia.org/wiki/Mandrill_(band)
+  musicbrainz: 'https://musicbrainz.org/artist/697ea2f4-4f79-466a-8c57-29d5455b68bd'
+  spotify: 'https://open.spotify.com/artist/6RWnslEkqboHbDg0OUabe5'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mandrill_(band)'
 genres:
-- jazz funk
-- funk rock
+  - jazz funk
+  - funk rock
 image_path: 03_Resources/source_material/ArtistPortraits/mandrill.jpg
 instruments:
-- lead vocals
-- trombone
-- trumpet
-- saxophone
+  - lead vocals
+  - trombone
+  - trumpet
+  - saxophone
 last_updated: '2026-01-09T02:07:46.063212'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 07354971-0b0f-41ba-8cf9-1f9f8d96f858
-  name: Eli Brueggemann
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 477e1fbb-3aa2-4998-b98c-16c6814c6674
-  name: Neftali Santiago
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: 5d00eeec-238c-4a66-84ba-d42a74dc9dd5
-  name: Carlos Wilson
-- begin: ''
-  end: ''
-  instruments:
-  - trombone
-  mbid: 5d00eeec-238c-4a66-84ba-d42a74dc9dd5
-  name: Carlos Wilson
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: 8c47768a-0a02-4e87-8fd9-6cff676f1dd4
-  name: Lou Wilson
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: 8c47768a-0a02-4e87-8fd9-6cff676f1dd4
-  name: Lou Wilson
-- begin: ''
-  end: ''
-  instruments:
-  - saxophone
-  mbid: 1a044a70-f134-4e6d-a53c-b3b30df0faf1
-  name: Ric Wilson
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: 1a044a70-f134-4e6d-a53c-b3b30df0faf1
-  name: Ric Wilson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 07354971-0b0f-41ba-8cf9-1f9f8d96f858
+    name: Eli Brueggemann
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 477e1fbb-3aa2-4998-b98c-16c6814c6674
+    name: Neftali Santiago
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: 5d00eeec-238c-4a66-84ba-d42a74dc9dd5
+    name: Carlos Wilson
+  - begin: ''
+    end: ''
+    instruments:
+      - trombone
+    mbid: 5d00eeec-238c-4a66-84ba-d42a74dc9dd5
+    name: Carlos Wilson
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: 8c47768a-0a02-4e87-8fd9-6cff676f1dd4
+    name: Lou Wilson
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: 8c47768a-0a02-4e87-8fd9-6cff676f1dd4
+    name: Lou Wilson
+  - begin: ''
+    end: ''
+    instruments:
+      - saxophone
+    mbid: 1a044a70-f134-4e6d-a53c-b3b30df0faf1
+    name: Ric Wilson
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: 1a044a70-f134-4e6d-a53c-b3b30df0faf1
+    name: Ric Wilson
 musical_connections:
   collaborators:
-  - Claude "Coffee" Cave II
-  - Neftali Santiago
-  - Dougie (Doug) Rodriguez
-  - Joaquin (Juaquin) Jessup
+    - Claude "Coffee" Cave II
+    - Neftali Santiago
+    - Dougie (Doug) Rodriguez
+    - Joaquin (Juaquin) Jessup
   influenced:
-  - Kanye West
-  - Public Enemy
-  - DJ Shadow
-  - Eminem
-  - 9th Wonder
+    - Kanye West
+    - Public Enemy
+    - DJ Shadow
+    - Eminem
+    - 9th Wonder
   mentors:
-  - Afro-Latin, jazz, rock, and soul traditions
+    - 'Afro-Latin, jazz, rock, and soul traditions'
 musicbrainz_id: 697ea2f4-4f79-466a-8c57-29d5455b68bd
 network_extracted: true
-origin: Brooklyn
+origin: 'Brooklyn, New York, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Mandrill_(band)
-- https://www.last.fm/music/Mandrill/+wiki
-- https://www.youtube.com/watch?v=L4NAqO_tKx0
-- https://en.apoplife.nl/mandrill-composite-truth/
-- https://app.soulyears.com/artist-Mandrill.htm
+  - 'https://en.wikipedia.org/wiki/Mandrill_(band)'
+  - 'https://www.last.fm/music/Mandrill/+wiki'
+  - 'https://www.youtube.com/watch?v=L4NAqO_tKx0'
+  - 'https://en.apoplife.nl/mandrill-composite-truth/'
+  - 'https://app.soulyears.com/artist-Mandrill.htm'
 spotify_data:
   followers: 90463
   id: 6RWnslEkqboHbDg0OUabe5
   popularity: 34
-  url: https://open.spotify.com/artist/6RWnslEkqboHbDg0OUabe5
+  url: 'https://open.spotify.com/artist/6RWnslEkqboHbDg0OUabe5'
 status: active
 tags:
-- funk
+  - funk
 title: Mandrill
-
+birth_place: 'Panama, Panama, Country'
 ---
 
 ![](mandrill.jpg)

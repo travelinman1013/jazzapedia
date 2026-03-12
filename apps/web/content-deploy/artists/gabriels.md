@@ -1,46 +1,49 @@
 ---
-artist_type: person
+artist_type: band
 biography_enhanced_at: '2025-12-31T01:47:05.100748'
 birth_place: Milazzo
 disambiguation: piano/keyboard player and composer from Italy
 enhancement_provider: perplexity
 entry_created: '2025-12-31T01:47:05.100752'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e85cd2cd-fb66-4fc2-98ba-02fccff145c0
-  spotify: https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz
-  wikipedia: https://en.wikipedia.org/wiki/Gabriels_(band)
+  musicbrainz: 'https://musicbrainz.org/artist/e85cd2cd-fb66-4fc2-98ba-02fccff145c0'
+  spotify: 'https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz'
+  wikipedia: 'https://en.wikipedia.org/wiki/Gabriels_(band)'
 gender: Male
 genres:
-- retro soul
+  - retro soul
 image_path: 03_Resources/source_material/ArtistPortraits/gabriels.jpg
 last_updated: '2025-12-31T01:47:05.100753'
 musical_connections:
   collaborators:
-  - Sounwave
-  - Trevor Estes
-  - Rico Nichols
-  - Celeste
+    - Sounwave
+    - Trevor Estes
+    - Rico Nichols
+    - Celeste
   influenced: []
   mentors:
-  - Diana Ross
-  - Gladys Knight
+    - Diana Ross
+    - Gladys Knight
 musicbrainz_id: e85cd2cd-fb66-4fc2-98ba-02fccff145c0
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.soundonsound.com/techniques/gabriels
-- https://magazine.waxpoetics.com/article/future-soul-group-gabriels-met-through-fate-and-bonded-through-music/
-- https://en.wikipedia.org/wiki/Gabriels_(band)
-- https://www.mrporter.com/en-gb/journal/fashion/gabriels-gospel-soul-band-interview-angels-and-queens-24199148
+  - 'https://www.soundonsound.com/techniques/gabriels'
+  - >-
+    https://magazine.waxpoetics.com/article/future-soul-group-gabriels-met-through-fate-and-bonded-through-music/
+  - 'https://en.wikipedia.org/wiki/Gabriels_(band)'
+  - >-
+    https://www.mrporter.com/en-gb/journal/fashion/gabriels-gospel-soul-band-interview-angels-and-queens-24199148
 spotify_data:
   followers: 155974
   id: 5tHs3fthucNRGAFpdE9rmz
   popularity: 49
-  url: https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz
+  url: 'https://open.spotify.com/artist/5tHs3fthucNRGAFpdE9rmz'
 status: active
 tags:
-- progressive metal
+  - progressive metal
 title: Gabriels
+origin: 'Los Angeles, California, United States'
 ---
 
 ![](gabriels.jpg)

@@ -5,26 +5,26 @@ schema_version: 2
 status: active
 aliases: []
 birth_date: '1932-06-19'
-birth_place: Manchester Parish, Jamaica
+birth_place: 'Manchester Parish, Jamaica, United States'
 years_active: 1947–present
 genres:
-- rocksteady
-- dub
-- reggae
+  - rocksteady
+  - dub
+  - reggae
 instruments:
-- guitar
+  - guitar
 occupation:
-- guitarist
-- jazz guitarist
+  - guitarist
+  - jazz guitarist
 record_labels:
-- Federal Records
-- Island Records
+  - Federal Records
+  - Island Records
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Ernest_Ranglin.jpg
   caption: Ernest Ranglin
   background: non_vocal_instrumentalist
   born: '1932-06-19'
-  origin: Manchester Parish, Jamaica
+  origin: 'Manchester Parish, Jamaica'
 audio_profile:
   tempo_avg: 124.7
   energy_avg: 0.438
@@ -32,7 +32,7 @@ audio_profile:
   danceability_avg: 0.693
   acousticness_avg: 0.323
   instrumentalness_avg: 0.744
-  loudness_avg: -13.0
+  loudness_avg: -13
   speechiness_avg: 0.077
   liveness_avg: 0.153
   track_count: 52
@@ -40,62 +40,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Coxsone Dodd
-  - Duke Reid
-  - Chris Blackwell
-  - Monty Alexander
-  - Sly & Robbie
-  - The Skatalites
-  - Jimmy Cliff
-  - Prince Buster
-  - Lee 'Scratch' Perry
+    - Coxsone Dodd
+    - Duke Reid
+    - Chris Blackwell
+    - Monty Alexander
+    - Sly & Robbie
+    - The Skatalites
+    - Jimmy Cliff
+    - Prince Buster
+    - Lee 'Scratch' Perry
   influenced:
-  - Bob Marley
-  - Countless Jamaican guitarists
-  - Toots Hibbert (Toots and the Maytals)
-  - Desmond Dekker
+    - Bob Marley
+    - Countless Jamaican guitarists
+    - Toots Hibbert (Toots and the Maytals)
+    - Desmond Dekker
   mentors:
-  - Tommy Tomlins
+    - Tommy Tomlins
 related_artists: []
 spotify_data:
   followers: 71403
   id: 6RTCb5pWKinqlUyG2qacit
   popularity: 45
-  url: https://open.spotify.com/artist/6RTCb5pWKinqlUyG2qacit
+  url: 'https://open.spotify.com/artist/6RTCb5pWKinqlUyG2qacit'
   verified: false
 discography_enriched: true
 albums_count: 26
 singles_count: 9
 top_tracks:
-- Surfin' (Below The Bassline)
-- In The Rain (Be What You Wanna Be)
-- Below The Bassline (Below The Bassline)
-- 54-46 (Was My Number) (Below The Bassline)
-- Fade Away (Memories Of Barber Mack)
-- Congo Man (Below The Bassline)
-- Satta Massagana (Below The Bassline)
-- Stop That Train (Memories Of Barber Mack)
-- King Tubby Meets The Rockers (Below The Bassline)
-- 410 San Miguel (feat. Ernest Ranglin) (Havana Meets Kingston)
+  - Surfin' (Below The Bassline)
+  - In The Rain (Be What You Wanna Be)
+  - Below The Bassline (Below The Bassline)
+  - 54-46 (Was My Number) (Below The Bassline)
+  - Fade Away (Memories Of Barber Mack)
+  - Congo Man (Below The Bassline)
+  - Satta Massagana (Below The Bassline)
+  - Stop That Train (Memories Of Barber Mack)
+  - King Tubby Meets The Rockers (Below The Bassline)
+  - 410 San Miguel (feat. Ernest Ranglin) (Havana Meets Kingston)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/6RTCb5pWKinqlUyG2qacit
-  wikipedia: https://en.wikipedia.org/wiki/Ernest_Ranglin
+  spotify: 'https://open.spotify.com/artist/6RTCb5pWKinqlUyG2qacit'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ernest_Ranglin'
 image_path: 03_Resources/source_material/ArtistPortraits/Ernest_Ranglin.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:49:10.374691'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://unitedreggae.com/articles/n886/021112/interview-ernest-ranglin-part-1
-- https://en.wikipedia.org/wiki/Ernest_Ranglin
-- https://www.guitarworld.com/features/life-and-times-of-ernest-ranglin
-- https://www.yardie-reggae.com/ARTIST%20PAGES/ERNEST%20RANGLIN.htm
+  - >-
+    https://unitedreggae.com/articles/n886/021112/interview-ernest-ranglin-part-1
+  - 'https://en.wikipedia.org/wiki/Ernest_Ranglin'
+  - 'https://www.guitarworld.com/features/life-and-times-of-ernest-ranglin'
+  - 'https://www.yardie-reggae.com/ARTIST%20PAGES/ERNEST%20RANGLIN.htm'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:47:33.919031
+entry_created: 2025-09-22T21:47:33.919Z
 last_updated: '2025-12-23T08:16:01.831276'
-
+artist_type: person
 ---
 
 ![](Ernest_Ranglin.jpg)

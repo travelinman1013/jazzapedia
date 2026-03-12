@@ -1,50 +1,52 @@
 ---
 biography_enhanced_at: '2026-01-22T07:24:06.105924'
-birth_place: Tacoma, Washington, United States (birthplace); Seattle, Washington,
-  United States (primary base); Rotterdam, Netherlands (14-year residence)
+birth_place: >-
+  Tacoma, Washington, United States (birthplace); Seattle, Washington, United
+  States (primary base); Rotterdam, Netherlands (14-year residence)
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:24:06.105932'
 external_urls:
-  spotify: https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k
+  spotify: 'https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k'
   wikipedia: null
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/mark_lewis.jpg
 last_updated: '2026-01-22T07:24:06.105932'
 musical_connections:
   collaborators:
-  - Carlo de Wijs
-  - Willem Kühne
-  - James Long
-  - Frans van Grinsven
-  - Philly Joe Jones
-  - Clifford Jordan
-  - Hein van de Geyn
-  - Al Hood
-  - Steve Clover
-  - George Cables
-  - Essiet Essiet
-  - Victor Lewis
+    - Carlo de Wijs
+    - Willem Kühne
+    - James Long
+    - Frans van Grinsven
+    - Philly Joe Jones
+    - Clifford Jordan
+    - Hein van de Geyn
+    - Al Hood
+    - Steve Clover
+    - George Cables
+    - Essiet Essiet
+    - Victor Lewis
   influenced: []
   mentors:
-  - Otis "Candy" Finch
-  - Art Foxall
-  - Bea Smith
-  - Dee Daniels
-  - Buddy Catlett
-  - Stan Getz
+    - Otis "Candy" Finch
+    - Art Foxall
+    - Bea Smith
+    - Dee Daniels
+    - Buddy Catlett
+    - Stan Getz
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://marklewismusic.com/bio
-- https://www.sfcv.org/articles/feature/musical-vision-mark-lewis
-- https://www.allaboutjazz.com/musicians/mark-lewis/
+  - 'https://marklewismusic.com/bio'
+  - 'https://www.sfcv.org/articles/feature/musical-vision-mark-lewis'
+  - 'https://www.allaboutjazz.com/musicians/mark-lewis/'
 spotify_data:
   followers: 36044
   id: 2r5elgyPQ19vDG3xSQn39k
   popularity: 48
-  url: https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k
+  url: 'https://open.spotify.com/artist/2r5elgyPQ19vDG3xSQn39k'
 status: active
-title: mark lewis
+title: Mark Lewis
+artist_type: person
 ---
 
 ![](mark_lewis.jpg)

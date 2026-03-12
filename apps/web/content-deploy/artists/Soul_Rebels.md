@@ -2,25 +2,25 @@
 title: The Soul Rebels
 wiki_slug: the-soul-rebels
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 aliases: []
 birth_date: '1991'
 genres:
-- new orleans bounce
+  - new orleans bounce
 instruments:
-- trumpet
-- saxophone
-- trombone
-- lead vocals
-- original
-- snare drum
-- sousaphone
-- bass drum
+  - trumpet
+  - saxophone
+  - trombone
+  - lead vocals
+  - original
+  - snare drum
+  - sousaphone
+  - bass drum
 record_labels:
-- Trojan Records
+  - Trojan Records
 associated_acts:
-- Bob Marley and The Wailers's albums in chronological order
+  - Bob Marley and The Wailers's albums in chronological order
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/The_Soul_Rebels.jpg
   caption: The Soul Rebels
@@ -41,40 +41,42 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Nas
-  - GZA
-  - Metallica
-  - Lil Wayne
-  - Big Freedia
-  - Phony Ppl
+    - Nas
+    - GZA
+    - Metallica
+    - Lil Wayne
+    - Big Freedia
+    - Phony Ppl
   influenced:
-  - New Orleans Brass Scene
+    - New Orleans Brass Scene
   mentors:
-  - Harold Dejan
+    - Harold Dejan
 related_artists: []
 spotify_data:
   followers: 38707
   id: 10NEMYLJwVvYSvtvZn5Ipz
   popularity: 33
-  url: https://open.spotify.com/artist/10NEMYLJwVvYSvtvZn5Ipz
+  url: 'https://open.spotify.com/artist/10NEMYLJwVvYSvtvZn5Ipz'
   verified: false
 discography_enriched: true
 albums_count: 4
 singles_count: 4
 top_tracks:
-- to get home. (feat. Leon Thomas & The Soul Rebels) (Euphonyus)
-- When You're Gone (feat. Lil Wayne) (These Things Happen Too)
-- Godfather 4 (Survival)
-- 'Halftime: Stand Up & Get Up'
-- Sweet Dreams Are Made Of This (Unlock Your Mind)
-- to get home. (feat. Leon Thomas & The Soul Rebels) (Euphonyus)
-- 'Drinka Little Poison (4 U Die) (Treme: Music From The HBO Original Series, Season 1)'
-- Sweet Dreams Are Made Of This (Unlock Your Mind)
-- When You're Gone (feat. Lil Wayne) (These Things Happen Too (Deluxe))
-- 'Let Your Mind Be Free (New Orleans: Rebuild, Restore, Rejoice)'
+  - to get home. (feat. Leon Thomas & The Soul Rebels) (Euphonyus)
+  - When You're Gone (feat. Lil Wayne) (These Things Happen Too)
+  - Godfather 4 (Survival)
+  - 'Halftime: Stand Up & Get Up'
+  - Sweet Dreams Are Made Of This (Unlock Your Mind)
+  - to get home. (feat. Leon Thomas & The Soul Rebels) (Euphonyus)
+  - >-
+    Drinka Little Poison (4 U Die) (Treme: Music From The HBO Original Series,
+    Season 1)
+  - Sweet Dreams Are Made Of This (Unlock Your Mind)
+  - When You're Gone (feat. Lil Wayne) (These Things Happen Too (Deluxe))
+  - 'Let Your Mind Be Free (New Orleans: Rebuild, Restore, Rejoice)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a05add38-ccf0-4e27-a701-d4a09079682e
-  spotify: https://open.spotify.com/artist/10NEMYLJwVvYSvtvZn5Ipz
+  musicbrainz: 'https://musicbrainz.org/artist/a05add38-ccf0-4e27-a701-d4a09079682e'
+  spotify: 'https://open.spotify.com/artist/10NEMYLJwVvYSvtvZn5Ipz'
   wikipedia: Not available
 image_path: 03_Resources/source_material/ArtistPortraits/The_Soul_Rebels.jpg
 biography_source: wikipedia
@@ -82,19 +84,20 @@ biography_enhanced_at: '2025-09-30T11:57:51.037226'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.neworleans.com/listing/soul-rebels/46552/
-- https://kupferbergcenter.org/digital-programs/the-soul-rebels/
-- https://theluckman.org/sessions/the-soul-rebels/
+  - 'https://www.neworleans.com/listing/soul-rebels/46552/'
+  - 'https://kupferbergcenter.org/digital-programs/the-soul-rebels/'
+  - 'https://theluckman.org/sessions/the-soul-rebels/'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 12:58:13.693512
+entry_created: 2025-09-18T12:58:13.693Z
 last_updated: '2025-12-23T08:16:03.936388'
 musicbrainz_enriched_at: '2025-10-21T09:44:05.416150'
 musicbrainz_id: a05add38-ccf0-4e27-a701-d4a09079682e
-origin: New Orleans, Louisiana, USA
+origin: 'New Orleans, Louisiana, United States'
 tags:
-- jazz
-- new orleans
+  - jazz
+  - new orleans
+birth_place: 'New Orleans, Louisiana, United States'
 ---
 
 ![](The_Soul_Rebels.jpg)

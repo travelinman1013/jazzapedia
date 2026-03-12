@@ -2,13 +2,13 @@
 title: Kava Kon
 wiki_slug: kava-kon
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 aliases: []
 birth_date: '2004'
-years_active: 1999–2013, 2025–present
+years_active: '1999–2013, 2025–present'
 genres:
-- exotica
+  - exotica
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Kava_Kon.jpg
   caption: Kava Kon
@@ -29,57 +29,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Heather Watts
+    - Heather Watts
   influenced:
-  - Ìxtahuele
-  - Mr. Ho's Orchestrotica
+    - Ìxtahuele
+    - Mr. Ho's Orchestrotica
   mentors:
-  - Martin Denny
-  - Arthur Lyman
-  - Bob Drasnin
-  - King Tubby, Scientist, Lee 'Scratch' Perry
-  - Juan Atkins, Drexciya, Jeff Mills
+    - Martin Denny
+    - Arthur Lyman
+    - Bob Drasnin
+    - 'King Tubby, Scientist, Lee ''Scratch'' Perry'
+    - 'Juan Atkins, Drexciya, Jeff Mills'
 related_artists: []
 spotify_data:
   followers: 5609
   id: 1fok8glC2cepDQ0b1VBUkd
   popularity: 32
-  url: https://open.spotify.com/artist/1fok8glC2cepDQ0b1VBUkd
+  url: 'https://open.spotify.com/artist/1fok8glC2cepDQ0b1VBUkd'
   verified: false
 discography_enriched: true
 albums_count: 3
 singles_count: 1
 top_tracks:
-- Chinese Surfer (Tiki for the Atomic Age)
-- Palace of the Tiger Women (Tiki for the Atomic Age)
-- Polynesian Poppies (Tiki for the Atomic Age)
-- Cherry Rain (Tiki for the Atomic Age)
-- Turkish Honey (Tiki for the Atomic Age)
-- Zero Gravity Lounge (Tiki for the Atomic Age)
-- Lili in the Land of Giants (Maritime Mysteries)
-- Pacifica 66 (Tiki for the Atomic Age)
-- Tahitian Lullaby (Tahitian Lullaby)
-- The Killing River (Without the Sun, Moon, Or Stars) (Tiki for the Atomic Age)
+  - Chinese Surfer (Tiki for the Atomic Age)
+  - Palace of the Tiger Women (Tiki for the Atomic Age)
+  - Polynesian Poppies (Tiki for the Atomic Age)
+  - Cherry Rain (Tiki for the Atomic Age)
+  - Turkish Honey (Tiki for the Atomic Age)
+  - Zero Gravity Lounge (Tiki for the Atomic Age)
+  - Lili in the Land of Giants (Maritime Mysteries)
+  - Pacifica 66 (Tiki for the Atomic Age)
+  - Tahitian Lullaby (Tahitian Lullaby)
+  - >-
+    The Killing River (Without the Sun, Moon, Or Stars) (Tiki for the Atomic
+    Age)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c3759ccb-2754-48d8-a771-3132069f4a0f
-  spotify: https://open.spotify.com/artist/1fok8glC2cepDQ0b1VBUkd
-  wikipedia: https://en.wikipedia.org/wiki/The_Kilimanjaro_Darkjazz_Ensemble
+  musicbrainz: 'https://musicbrainz.org/artist/c3759ccb-2754-48d8-a771-3132069f4a0f'
+  spotify: 'https://open.spotify.com/artist/1fok8glC2cepDQ0b1VBUkd'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Kilimanjaro_Darkjazz_Ensemble'
 image_path: 03_Resources/source_material/ArtistPortraits/Kava_Kon.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:18:50.377853'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Kava+Kon/+wiki
-- http://www.ambientexotica.com/exorev072_kavakon_de/
-- https://kavakon.bandcamp.com
+  - 'https://www.last.fm/music/Kava+Kon/+wiki'
+  - 'http://www.ambientexotica.com/exorev072_kavakon_de/'
+  - 'https://kavakon.bandcamp.com'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:48:00.732760
+entry_created: 2025-09-22T21:48:00.732Z
 last_updated: '2025-12-23T08:16:11.221241'
 musicbrainz_enriched_at: '2025-10-21T09:53:56.376555'
 musicbrainz_id: c3759ccb-2754-48d8-a771-3132069f4a0f
-origin: Detroit, Michigan, United States
+origin: 'Detroit, Michigan, United States'
+birth_place: Detroit
 ---
 
 ![](Kava_Kon.jpg)

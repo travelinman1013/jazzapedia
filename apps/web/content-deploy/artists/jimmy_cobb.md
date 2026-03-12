@@ -1,131 +1,133 @@
 ---
-artist_type: person
+artist_type: band
 associated_acts:
-- begin: '1958'
-  end: '1963'
-  instruments:
-  - membranophone
-  mbid: f137837b-fa55-48d1-8c85-f13961b3ac77
-  name: Miles Davis Sextet
-- begin: '1982'
-  end: '1984'
-  instruments:
-  - drums (drum set)
-  mbid: dd6af85b-f886-43ff-aab0-65a24cff7c14
-  name: The Great Jazz Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8218b061-2d51-4375-affd-2e272083d12a
-  name: The Wynton Kelly Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2c0f3197-b906-4d44-98d2-99d20db45506
-  name: Kenny Dorham Septet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: fced390b-9e20-4472-a99d-32aa78a01678
-  name: The Jimmy Cobb Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9248942d-0d1f-4885-8f42-759755061080
-  name: The Kenny Burrell Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d0bbc1e1-4324-41b2-8e64-99dedf1e34a7
-  name: Cannonball Adderley Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 23bdf915-67af-4089-b938-60efdaeab13f
-  name: Sarah Vaughan and Her Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: abd6652c-754e-4f3b-a8ad-fef8773746c6
-  name: Massimo Faraò Double Piano Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  - eponymous
-  mbid: 39111b16-e4d6-40ed-acf8-37cd4311ce2d
-  name: Jimmy Cobb’s So What Band
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: 6bb4342a-6386-4d07-91c5-bedf158ccba9
-  name: Hamiet Bluiett Sextet
+  - begin: '1958'
+    end: '1963'
+    instruments:
+      - membranophone
+    mbid: f137837b-fa55-48d1-8c85-f13961b3ac77
+    name: Miles Davis Sextet
+  - begin: '1982'
+    end: '1984'
+    instruments:
+      - drums (drum set)
+    mbid: dd6af85b-f886-43ff-aab0-65a24cff7c14
+    name: The Great Jazz Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8218b061-2d51-4375-affd-2e272083d12a
+    name: The Wynton Kelly Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2c0f3197-b906-4d44-98d2-99d20db45506
+    name: Kenny Dorham Septet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: fced390b-9e20-4472-a99d-32aa78a01678
+    name: The Jimmy Cobb Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9248942d-0d1f-4885-8f42-759755061080
+    name: The Kenny Burrell Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d0bbc1e1-4324-41b2-8e64-99dedf1e34a7
+    name: Cannonball Adderley Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 23bdf915-67af-4089-b938-60efdaeab13f
+    name: Sarah Vaughan and Her Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: abd6652c-754e-4f3b-a8ad-fef8773746c6
+    name: Massimo Faraò Double Piano Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+      - eponymous
+    mbid: 39111b16-e4d6-40ed-acf8-37cd4311ce2d
+    name: Jimmy Cobb’s So What Band
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 6bb4342a-6386-4d07-91c5-bedf158ccba9
+    name: Hamiet Bluiett Sextet
 biography_enhanced_at: '2026-01-22T07:02:03.643961'
 birth_date: '1929-01-20'
-birth_place: Washington, D.C.
+birth_place: 'Washington, D.C., United States'
 death_date: '2020-05-24'
 disambiguation: US jazz drummer
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:02:03.643968'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d0cbf65a-541b-476a-996c-fe2cd264bbd0
-  spotify: https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ
-  wikipedia: https://en.wikipedia.org/wiki/Jimmy_Cobb
+  musicbrainz: 'https://musicbrainz.org/artist/d0cbf65a-541b-476a-996c-fe2cd264bbd0'
+  spotify: 'https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jimmy_Cobb'
 gender: Male
 genres:
-- jazz
-- jazz ballads
+  - jazz
+  - jazz ballads
 image_path: 03_Resources/source_material/ArtistPortraits/jimmy_cobb.jpg
 instruments:
-- membranophone
-- drums (drum set)
-- eponymous
-- original
+  - membranophone
+  - drums (drum set)
+  - eponymous
+  - original
 last_updated: '2026-01-22T07:02:03.643968'
 musical_connections:
   collaborators:
-  - Miles Davis
-  - John Coltrane
-  - Cannonball Adderley
-  - Wynton Kelly
-  - Paul Chambers
-  - Wes Montgomery
-  - Billie Holiday
-  - Dizzy Gillespie
-  - Stan Getz
-  - J.J. Johnson
-  - Joe Henderson
-  - Peter Bernstein
+    - Miles Davis
+    - John Coltrane
+    - Cannonball Adderley
+    - Wynton Kelly
+    - Paul Chambers
+    - Wes Montgomery
+    - Billie Holiday
+    - Dizzy Gillespie
+    - Stan Getz
+    - J.J. Johnson
+    - Joe Henderson
+    - Peter Bernstein
   influenced: []
   mentors:
-  - Max Roach
-  - Kenny Clarke
+    - Max Roach
+    - Kenny Clarke
 musicbrainz_id: d0cbf65a-541b-476a-996c-fe2cd264bbd0
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://drummercafe.com/featured/drummer-percussionist/jimmy-cobb
-- https://www.allaboutjazz.com/musicians/jimmy-cobb/
-- https://en.wikipedia.org/wiki/Jimmy_Cobb
-- https://jazztimes.com/features/profiles/jimmy-cobb-the-reluctant-don/
-- https://www.moderndrummer.com/2011/04/jimmy-cobb-kind-of-blue-and-beyond/
-- https://downbeat.com/news/detail/jimmy-cobb-dies-at-91
-- https://www.arts.gov/honors/jazz/jimmy-cobb
-- https://pas.org/jimmy-cobb-2/
+  - 'https://drummercafe.com/featured/drummer-percussionist/jimmy-cobb'
+  - 'https://www.allaboutjazz.com/musicians/jimmy-cobb/'
+  - 'https://en.wikipedia.org/wiki/Jimmy_Cobb'
+  - 'https://jazztimes.com/features/profiles/jimmy-cobb-the-reluctant-don/'
+  - 'https://www.moderndrummer.com/2011/04/jimmy-cobb-kind-of-blue-and-beyond/'
+  - 'https://downbeat.com/news/detail/jimmy-cobb-dies-at-91'
+  - 'https://www.arts.gov/honors/jazz/jimmy-cobb'
+  - 'https://pas.org/jimmy-cobb-2/'
 spotify_data:
   followers: 6083
   id: 7KLg0R9RSUabK2CG2MTbBJ
   popularity: 42
-  url: https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ
+  url: 'https://open.spotify.com/artist/7KLg0R9RSUabK2CG2MTbBJ'
 status: active
 tags:
-- american drummer
-- death by lung cancer
-- drummer
+  - american drummer
+  - death by lung cancer
+  - drummer
 title: Jimmy Cobb
+is_active: false
+origin: 'New York, New York, United States'
 ---
 
 ![](jimmy_cobb.jpg)

@@ -1,5 +1,5 @@
 ---
-title: the hollywood allstars
+title: The Hollywood Allstars
 wiki_slug: the-hollywood-allstars
 schema_version: 2
 status: active
@@ -9,7 +9,7 @@ infobox:
   caption: the hollywood allstars
   background: solo_singer
 audio_profile:
-  tempo_avg: 136.0
+  tempo_avg: 136
   energy_avg: 0.327
   valence_avg: 0.627
   danceability_avg: 0.535
@@ -23,49 +23,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Andy Abel
-  - Lee Finkelstein
-  - Tommy Bowes
-  - Chevy Chevis
-  - The Uptown Horns
+    - Andy Abel
+    - Lee Finkelstein
+    - Tommy Bowes
+    - Chevy Chevis
+    - The Uptown Horns
   influenced:
-  - Regional horn bands and tribute acts
+    - Regional horn bands and tribute acts
   mentors:
-  - James Brown
-  - B.B. King
+    - James Brown
+    - B.B. King
 spotify_data:
   followers: 42
   id: 7F0uRoP3L5iXQPOJpYQ48U
   popularity: 0
-  url: https://open.spotify.com/artist/7F0uRoP3L5iXQPOJpYQ48U
+  url: 'https://open.spotify.com/artist/7F0uRoP3L5iXQPOJpYQ48U'
 discography_enriched: true
 top_tracks:
-- 'Long Way From Home (Memphis Blues Bands And Singers: The 1980''s)'
-- 'Mary Jo (Memphis Blues Bands And Singers: The 1980''s)'
-- 'When The Saints Go Marching In (Memphis Blues Bands And Singers: The 1980''s)'
-- 'Dirty Work Going On (Memphis Blues Bands And Singers: The 1980''s)'
-- 'Long Way from Home (Memphis Blues Bands and Singers: The 1980s)'
-- 'Mary Jo (Memphis Blues Bands and Singers: The 1980s)'
-- 'When the Saints Go Marching In (Memphis Blues Bands and Singers: The 1980s)'
-- 'Dirty Work Going On (Memphis Blues Bands and Singers: The 1980s)'
-- Making A Change (Hard Hitting Blues From Memphis)
-- I'm Tore Down (Hard Hitting Blues From Memphis)
+  - 'Long Way From Home (Memphis Blues Bands And Singers: The 1980''s)'
+  - 'Mary Jo (Memphis Blues Bands And Singers: The 1980''s)'
+  - 'When The Saints Go Marching In (Memphis Blues Bands And Singers: The 1980''s)'
+  - 'Dirty Work Going On (Memphis Blues Bands And Singers: The 1980''s)'
+  - 'Long Way from Home (Memphis Blues Bands and Singers: The 1980s)'
+  - 'Mary Jo (Memphis Blues Bands and Singers: The 1980s)'
+  - 'When the Saints Go Marching In (Memphis Blues Bands and Singers: The 1980s)'
+  - 'Dirty Work Going On (Memphis Blues Bands and Singers: The 1980s)'
+  - Making A Change (Hard Hitting Blues From Memphis)
+  - I'm Tore Down (Hard Hitting Blues From Memphis)
 external_urls:
-  spotify: https://open.spotify.com/artist/7F0uRoP3L5iXQPOJpYQ48U
+  spotify: 'https://open.spotify.com/artist/7F0uRoP3L5iXQPOJpYQ48U'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/the_hollywood_allstars.jpg
 biography_enhanced_at: '2025-11-04T10:54:51.834790'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.thehollywoodallstars.net/meettheband
-- https://fanbasemusicmag.com/the-hollywood-allstars-interview/
-- https://www.27east.com/arts/the-hollywood-allstars-at-the-suffolk-2147579/
-- https://www.dekoentertainment.com/the-hollywood-allstars
+  - 'https://www.thehollywoodallstars.net/meettheband'
+  - 'https://fanbasemusicmag.com/the-hollywood-allstars-interview/'
+  - 'https://www.27east.com/arts/the-hollywood-allstars-at-the-suffolk-2147579/'
+  - 'https://www.dekoentertainment.com/the-hollywood-allstars'
 network_extracted: true
 entry_created: '2025-11-04T10:54:51.834800'
 last_updated: '2025-12-23T08:16:16.839541'
 origin: United States (origin)
+artist_type: person
 ---
 
 ![](the_hollywood_allstars.jpg)

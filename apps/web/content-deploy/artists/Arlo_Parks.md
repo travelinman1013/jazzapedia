@@ -5,11 +5,11 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '2000-08-09'
-birth_place: London
+birth_place: 'Hammersmith, London, England'
 genres: []
 instruments:
-- guitar
-- lead vocals
+  - guitar
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Arlo_Parks.jpg
   caption: Arlo Parks
@@ -31,45 +31,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Gianluca Buccellati
+    - Gianluca Buccellati
   influenced:
-  - Emerging UK indie and bedroom pop artists
+    - Emerging UK indie and bedroom pop artists
   mentors:
-  - Sylvia Plath
-  - Joni Mitchell
-  - Radiohead
+    - Sylvia Plath
+    - Joni Mitchell
+    - Radiohead
 spotify_data:
   followers: 649867
   id: 4kIwETcbpuFgRukE8o7Opx
   popularity: 53
-  url: https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx
+  url: 'https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx'
 discography_enriched: true
 top_tracks:
-- Eugene (Collapsed In Sunbeams)
-- Caroline (Collapsed In Sunbeams)
-- Softly (Softly)
-- Too Good (Collapsed In Sunbeams)
-- Cola (Cola)
-- sangria
-- Eugene
-- Hurt (Collapsed In Sunbeams)
-- Black Dog (Collapsed In Sunbeams)
-- Hope (Collapsed In Sunbeams)
+  - Eugene (Collapsed In Sunbeams)
+  - Caroline (Collapsed In Sunbeams)
+  - Softly (Softly)
+  - Too Good (Collapsed In Sunbeams)
+  - Cola (Cola)
+  - sangria
+  - Eugene
+  - Hurt (Collapsed In Sunbeams)
+  - Black Dog (Collapsed In Sunbeams)
+  - Hope (Collapsed In Sunbeams)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6e8e3717-a62d-4a3f-886d-6a4e82507930
-  spotify: https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx
-  wikipedia: https://en.wikipedia.org/wiki/Arlo_Parks
+  musicbrainz: 'https://musicbrainz.org/artist/6e8e3717-a62d-4a3f-886d-6a4e82507930'
+  spotify: 'https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx'
+  wikipedia: 'https://en.wikipedia.org/wiki/Arlo_Parks'
 image_path: 03_Resources/source_material/ArtistPortraits/Arlo_Parks.jpg
 biography_enhanced_at: '2025-10-22T06:40:00.588961'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Arlo_Parks
-- https://www.last.fm/music/Arlo+Parks/+wiki
-- https://beatroutemedia.com/cover_stories/arlo-parks/
-- https://i-d.co/article/10-things-about-musician-arlo-parks/
-- https://diva-magazine.com/2022/08/09/arlo-parks-birthday/
-- https://arloparks.fandom.com/wiki/Arlo_Parks
+  - 'https://en.wikipedia.org/wiki/Arlo_Parks'
+  - 'https://www.last.fm/music/Arlo+Parks/+wiki'
+  - 'https://beatroutemedia.com/cover_stories/arlo-parks/'
+  - 'https://i-d.co/article/10-things-about-musician-arlo-parks/'
+  - 'https://diva-magazine.com/2022/08/09/arlo-parks-birthday/'
+  - 'https://arloparks.fandom.com/wiki/Arlo_Parks'
 network_extracted: true
 entry_created: '2025-10-22T06:40:00.588973'
 last_updated: '2025-12-23T08:16:01.040429'
@@ -77,9 +77,10 @@ disambiguation: Alternative R&B artist
 gender: Female
 musicbrainz_id: 6e8e3717-a62d-4a3f-886d-6a4e82507930
 tags:
-- alternative pop
-- alternative r&b
-- alternative rock
+  - alternative pop
+  - alternative r&b
+  - alternative rock
+origin: 'London, England'
 ---
 
 ![](Arlo_Parks.jpg)

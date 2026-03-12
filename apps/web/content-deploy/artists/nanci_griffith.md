@@ -5,17 +5,17 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1953-07-06'
-birth_place: Seguin
+birth_place: 'Seguin, Texas, United States'
 death_date: '2021-08-13'
 genres:
-- folk
-- americana
-- singer-songwriter
+  - folk
+  - americana
+  - singer-songwriter
 instruments:
-- acoustic guitar
-- guitar family
-- lead vocals
-- background vocals
+  - acoustic guitar
+  - guitar family
+  - lead vocals
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/nanci_griffith.jpg
   caption: Nanci Griffith
@@ -24,7 +24,7 @@ infobox:
   origin: Seguin
   died: '2021-08-13'
 audio_profile:
-  tempo_avg: 130.0
+  tempo_avg: 130
   energy_avg: 0.373
   valence_avg: 0.532
   danceability_avg: 0.553
@@ -38,60 +38,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Eric Taylor
-  - Jim Rooney
-  - Pat Alger
-  - Béla Fleck
-  - John Prine
-  - Emmylou Harris
-  - Blue Moon Orchestra
+    - Eric Taylor
+    - Jim Rooney
+    - Pat Alger
+    - Béla Fleck
+    - John Prine
+    - Emmylou Harris
+    - Blue Moon Orchestra
   influenced:
-  - Lyle Lovett
-  - Kathy Mattea
-  - Suzy Bogguss
+    - Lyle Lovett
+    - Kathy Mattea
+    - Suzy Bogguss
   mentors:
-  - Loretta Lynn
-  - Townes Van Zandt
+    - Loretta Lynn
+    - Townes Van Zandt
 spotify_data:
   followers: 110336
   id: 5CAiy5rDr3LaSoGtJOq6A0
   popularity: 41
-  url: https://open.spotify.com/artist/5CAiy5rDr3LaSoGtJOq6A0
+  url: 'https://open.spotify.com/artist/5CAiy5rDr3LaSoGtJOq6A0'
 discography_enriched: true
 top_tracks:
-- Speed of the Sound of Loneliness (Other Voices, Other Rooms)
-- Love At The Five & Dime (The Last Of The True Believers)
-- Across the Great Divide (Other Voices, Other Rooms)
-- Tecumseh Valley (Other Voices, Other Rooms)
-- Boots of Spanish Leather (Other Voices, Other Rooms)
-- Listen To The Radio (Storms)
-- Gulf Coast Highway (Little Love Affairs)
-- Going Back to Georgia (Flyer)
-- Trouble In The Fields (Lone Star State Of Mind)
-- It's A Hard Life Wherever You Go (Storms)
+  - 'Speed of the Sound of Loneliness (Other Voices, Other Rooms)'
+  - Love At The Five & Dime (The Last Of The True Believers)
+  - 'Across the Great Divide (Other Voices, Other Rooms)'
+  - 'Tecumseh Valley (Other Voices, Other Rooms)'
+  - 'Boots of Spanish Leather (Other Voices, Other Rooms)'
+  - Listen To The Radio (Storms)
+  - Gulf Coast Highway (Little Love Affairs)
+  - Going Back to Georgia (Flyer)
+  - Trouble In The Fields (Lone Star State Of Mind)
+  - It's A Hard Life Wherever You Go (Storms)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b9ffd0e7-7f95-46db-bc1c-8094d459f084
-  spotify: https://open.spotify.com/artist/5CAiy5rDr3LaSoGtJOq6A0
-  wikipedia: https://en.wikipedia.org/wiki/Nanci_Griffith
+  musicbrainz: 'https://musicbrainz.org/artist/b9ffd0e7-7f95-46db-bc1c-8094d459f084'
+  spotify: 'https://open.spotify.com/artist/5CAiy5rDr3LaSoGtJOq6A0'
+  wikipedia: 'https://en.wikipedia.org/wiki/Nanci_Griffith'
 image_path: 03_Resources/source_material/ArtistPortraits/nanci_griffith.jpg
 biography_enhanced_at: '2025-10-24T07:35:12.634616'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Nanci_Griffith
-- https://craftrecordings.com/blogs/news/nanci-griffith
-- http://brisbin.net/Nanci/bio.html
-- https://artsfuse.org/236802/music-remembrance-singer-songwriter-nanci-griffith-1953-2021/
-- https://www.texasstandard.org/stories/nanci-griffith-book-texas-singer-songwriter-love-at-five-dime-country-folk/
+  - 'https://en.wikipedia.org/wiki/Nanci_Griffith'
+  - 'https://craftrecordings.com/blogs/news/nanci-griffith'
+  - 'http://brisbin.net/Nanci/bio.html'
+  - >-
+    https://artsfuse.org/236802/music-remembrance-singer-songwriter-nanci-griffith-1953-2021/
+  - >-
+    https://www.texasstandard.org/stories/nanci-griffith-book-texas-singer-songwriter-love-at-five-dime-country-folk/
 network_extracted: true
 entry_created: '2025-10-24T07:35:12.634627'
 last_updated: '2025-12-23T08:16:13.417896'
 gender: Female
 musicbrainz_id: b9ffd0e7-7f95-46db-bc1c-8094d459f084
 tags:
-- 2008 universal fire victim
-- americana
-- contemporary folk
+  - 2008 universal fire victim
+  - americana
+  - contemporary folk
+is_active: false
+origin: 'Austin, Texas, United States'
 ---
 
 ![](nanci_griffith.jpg)

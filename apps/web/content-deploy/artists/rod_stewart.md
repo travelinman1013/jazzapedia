@@ -1,43 +1,44 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-13T01:12:39.601359'
-birth_place: London, England, United Kingdom
+birth_place: 'London, England, United Kingdom'
 enhancement_provider: perplexity
 entry_created: '2026-01-13T01:12:39.601366'
 external_urls:
-  spotify: https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT
+  spotify: 'https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT'
   wikipedia: Not found in search results
 genres:
-- soft rock
+  - soft rock
 image_path: 03_Resources/source_material/ArtistPortraits/rod_stewart.jpg
 last_updated: '2026-01-13T01:12:39.601367'
 musical_connections:
   collaborators:
-  - Ron Wood
-  - Ronnie Lane
-  - Ian McLagan
-  - Kenney Jones
-  - Jools Holland
+    - Ron Wood
+    - Ronnie Lane
+    - Ian McLagan
+    - Kenney Jones
+    - Jools Holland
   influenced: []
   mentors:
-  - Jeff Beck
-  - Long John Baldry
+    - Jeff Beck
+    - Long John Baldry
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Rod+Stewart/+wiki
-- https://www.britannica.com/biography/Rod-Stewart
-- https://www.biography.com/musicians/rod-stewart
-- https://www.youtube.com/watch?v=j9QDxX_B6oE
-- https://timeline.rodstewart.com
-- http://albumlinernotes.com/Rod_Stewart.html
+  - 'https://www.last.fm/music/Rod+Stewart/+wiki'
+  - 'https://www.britannica.com/biography/Rod-Stewart'
+  - 'https://www.biography.com/musicians/rod-stewart'
+  - 'https://www.youtube.com/watch?v=j9QDxX_B6oE'
+  - 'https://timeline.rodstewart.com'
+  - 'http://albumlinernotes.com/Rod_Stewart.html'
 spotify_data:
   followers: 5665576
   id: 2y8Jo9CKhJvtfeKOsYzRdT
   popularity: 76
-  url: https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT
+  url: 'https://open.spotify.com/artist/2y8Jo9CKhJvtfeKOsYzRdT'
 status: active
-title: ROD STEWART
+title: Rod Stewart
+birth_date: '1945-01-10'
 ---
 
 ![](rod_stewart.jpg)

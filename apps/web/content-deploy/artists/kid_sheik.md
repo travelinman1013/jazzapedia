@@ -3,21 +3,21 @@ title: Kid Sheik
 wiki_slug: kid-sheik
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- country hip hop
+  - country hip hop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/kid_sheik.jpg
   caption: Kid Sheik
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 128.1
   energy_avg: 0.598
   valence_avg: 0.453
   danceability_avg: 0.696
   acousticness_avg: 0.365
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -7.7
   speechiness_avg: 0.167
   liveness_avg: 0.156
@@ -26,49 +26,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - George Lewis
-  - Eureka Brass Band
-  - Olympia Brass Band
-  - Barry Martyn
-  - Captain John Handy
-  - Sadie Goodson
-  - Preservation Hall Jazz Band
+    - George Lewis
+    - Eureka Brass Band
+    - Olympia Brass Band
+    - Barry Martyn
+    - Captain John Handy
+    - Sadie Goodson
+    - Preservation Hall Jazz Band
   influenced:
-  - Younger New Orleans jazz musicians
+    - Younger New Orleans jazz musicians
   mentors:
-  - Wooden Joe Nicholas
-  - Chris Kelly
+    - Wooden Joe Nicholas
+    - Chris Kelly
 spotify_data:
   followers: 88792
   id: 6rZda7BqHdrkeIlWpbQUAE
   popularity: 24
-  url: https://open.spotify.com/artist/6rZda7BqHdrkeIlWpbQUAE
+  url: 'https://open.spotify.com/artist/6rZda7BqHdrkeIlWpbQUAE'
 discography_enriched: true
 top_tracks:
-- Shake That Bottle (Shake That Bottle)
-- Losing My Mind (Kid Suda)
-- Heroine (Examples EP)
-- Stay High (Kid Suda)
-- I Need You (I Need You)
-- Church (Church)
-- Red Dots (Red Dots)
-- Shine (Kid Suda)
-- Tip (Kid Suda)
-- China White (Church)
+  - Shake That Bottle (Shake That Bottle)
+  - Losing My Mind (Kid Suda)
+  - Heroine (Examples EP)
+  - Stay High (Kid Suda)
+  - I Need You (I Need You)
+  - Church (Church)
+  - Red Dots (Red Dots)
+  - Shine (Kid Suda)
+  - Tip (Kid Suda)
+  - China White (Church)
 external_urls:
-  spotify: https://open.spotify.com/artist/6rZda7BqHdrkeIlWpbQUAE
-  wikipedia: https://en.wikipedia.org/wiki/Kid_Sheik
+  spotify: 'https://open.spotify.com/artist/6rZda7BqHdrkeIlWpbQUAE'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kid_Sheik'
 image_path: 03_Resources/source_material/ArtistPortraits/kid_sheik.jpg
 biography_enhanced_at: '2025-11-08T21:52:23.005864'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Kid_Sheik
-- https://64parishes.org/entry/kid-sheik-colar
-- https://www.allmusic.com/artist/kid-sheik-cola-mn0002284820
+  - 'https://en.wikipedia.org/wiki/Kid_Sheik'
+  - 'https://64parishes.org/entry/kid-sheik-colar'
+  - 'https://www.allmusic.com/artist/kid-sheik-cola-mn0002284820'
 network_extracted: true
 entry_created: '2025-11-08T21:52:23.005875'
 last_updated: '2025-12-23T08:16:11.358928'
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1908-09-15'
+death_date: '1996-11-07'
+artist_type: person
 ---
 
 ![](kid_sheik.jpg)

@@ -3,20 +3,20 @@ title: Pedro Amorim
 wiki_slug: pedro-amorim
 schema_version: 2
 status: active
-birth_place: Rio de Janeiro, Rio de Janeiro, Brazil
+birth_place: 'Rio de Janeiro, Rio de Janeiro, Brazil'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/pedro_amorim.jpg
   caption: Pedro Amorim
   background: solo_singer
-  origin: Rio de Janeiro, Rio de Janeiro, Brazil
+  origin: 'Rio de Janeiro, Rio de Janeiro, Brazil'
 audio_profile:
   tempo_avg: 169.5
   energy_avg: 0.528
   valence_avg: 0.742
   danceability_avg: 0.447
   acousticness_avg: 0.511
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -9.5
   speechiness_avg: 0.039
   liveness_avg: 0.15
@@ -25,35 +25,38 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Nó em Pingo D'Água
+    - Nó em Pingo D'Água
   influenced:
-  - Contemporary Brazilian choro musicians
+    - Contemporary Brazilian choro musicians
   mentors:
-  - Jacob do Bandolim
-  - Rossini Ferreira
+    - Jacob do Bandolim
+    - Rossini Ferreira
 spotify_data:
   followers: 8
   id: 6w4WKwQUCWyF9qiqCMK3Fb
   popularity: 2
-  url: https://open.spotify.com/artist/6w4WKwQUCWyF9qiqCMK3Fb
+  url: 'https://open.spotify.com/artist/6w4WKwQUCWyF9qiqCMK3Fb'
 discography_enriched: true
 top_tracks:
-- Pedra Noventa (Retribuição)
+  - Pedra Noventa (Retribuição)
 external_urls:
-  spotify: https://open.spotify.com/artist/6w4WKwQUCWyF9qiqCMK3Fb
+  spotify: 'https://open.spotify.com/artist/6w4WKwQUCWyF9qiqCMK3Fb'
   wikipedia: ''
 image_path: ''
 biography_enhanced_at: '2025-11-23T06:28:53.359297'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/amorim-pedro-1958
-- https://www.allmusic.com/artist/pedro-amorim-mn0000754906
-- https://www.ask-oracle.com/birth-chart/pedro-amorim/
-- https://music.metason.net/artistinfo?name=Pedro+Amorim
+  - >-
+    https://www.encyclopedia.com/humanities/encyclopedias-almanacs-transcripts-and-maps/amorim-pedro-1958
+  - 'https://www.allmusic.com/artist/pedro-amorim-mn0000754906'
+  - 'https://www.ask-oracle.com/birth-chart/pedro-amorim/'
+  - 'https://music.metason.net/artistinfo?name=Pedro+Amorim'
 network_extracted: true
 entry_created: '2025-11-23T06:28:53.359307'
 last_updated: '2025-12-23T08:16:14.146018'
+birth_date: '1958-07-20'
+artist_type: person
 ---
 
 ![]()

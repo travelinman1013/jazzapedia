@@ -1,42 +1,45 @@
 ---
 biography_enhanced_at: '2026-01-09T01:59:01.363510'
-birth_place: San Antonio, Texas, United States
+birth_place: 'San Antonio, Texas, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-09T01:59:01.363520'
 external_urls:
-  spotify: https://open.spotify.com/artist/3shtTHtmebW7LPnzO5KAJc
-  wikipedia: https://en.wikipedia.org/wiki/Mel_Waiters
+  spotify: 'https://open.spotify.com/artist/3shtTHtmebW7LPnzO5KAJc'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mel_Waiters'
 genres:
-- blues
-- footwork
-- soul blues
+  - blues
+  - footwork
+  - soul blues
 image_path: 03_Resources/source_material/ArtistPortraits/mel_waiters.jpg
 last_updated: '2026-01-09T01:59:01.363521'
 musical_connections:
   collaborators:
-  - Malaco Records production and session teams
+    - Malaco Records production and session teams
   influenced:
-  - Contemporary Southern soul and southern R&B performers (regional scene)
+    - Contemporary Southern soul and southern R&B performers (regional scene)
   mentors:
-  - Teddy Pendergrass
+    - Teddy Pendergrass
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Mel_Waiters
-- https://www.youtube.com/@waitersmel/about
-- https://www.last.fm/music/Mel+Waiters/+wiki
-- https://www.mysanantonio.com/entertainment/music-stage/article/Music-Beat-Mel-Waiters-is-a-master-of-Southern-4897707.php
-- https://www.iheart.com/artist/mel-waiters-190373/
-- https://www.southernsoulrnb.com/artistguide.cfm?aid=30
-- https://jeffersonbluesmag.com/waiters-mel-168/
+  - 'https://en.wikipedia.org/wiki/Mel_Waiters'
+  - 'https://www.youtube.com/@waitersmel/about'
+  - 'https://www.last.fm/music/Mel+Waiters/+wiki'
+  - >-
+    https://www.mysanantonio.com/entertainment/music-stage/article/Music-Beat-Mel-Waiters-is-a-master-of-Southern-4897707.php
+  - 'https://www.iheart.com/artist/mel-waiters-190373/'
+  - 'https://www.southernsoulrnb.com/artistguide.cfm?aid=30'
+  - 'https://jeffersonbluesmag.com/waiters-mel-168/'
 spotify_data:
   followers: 84665
   id: 3shtTHtmebW7LPnzO5KAJc
   popularity: 38
-  url: https://open.spotify.com/artist/3shtTHtmebW7LPnzO5KAJc
+  url: 'https://open.spotify.com/artist/3shtTHtmebW7LPnzO5KAJc'
 status: active
 title: Mel Waiters
-
+birth_date: '1956-06-25'
+death_date: '2015-05-28'
+artist_type: person
 ---
 
 ![](mel_waiters.jpg)

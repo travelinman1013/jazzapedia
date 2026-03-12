@@ -1,53 +1,56 @@
 ---
 biography_enhanced_at: '2026-01-11T02:15:13.473643'
-birth_place: Lafayette, Louisiana, United States
+birth_place: 'Lafayette, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-11T02:15:13.473648'
 external_urls:
-  spotify: https://open.spotify.com/artist/6KFDQdWyz4Af6Zjl2kdmu2
-  wikipedia: https://en.wikipedia.org/wiki/Lil'_Buck_Sinegal
+  spotify: 'https://open.spotify.com/artist/6KFDQdWyz4Af6Zjl2kdmu2'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lil''_Buck_Sinegal'
 genres:
-- zydeco
-- cajun
+  - zydeco
+  - cajun
 image_path: 03_Resources/source_material/ArtistPortraits/paul_lil_buck_sinegal.jpg
 last_updated: '2026-01-11T02:15:13.473649'
 musical_connections:
   collaborators:
-  - Clifton Chenier
-  - Stanley "Buckwheat" Dural Jr. (Buckwheat Zydeco)
-  - Rockin’ Dopsie (Alton Rubin Sr.)
-  - Allen Toussaint
-  - Paul Simon
-  - Lee Allen Zeno
-  - Fernest Arceneaux
-  - Henry Gray
-  - Carol Fran, James "Thunderbird" Davis, Lee Dorsey, Joe Tex
-  - C. C. Adcock
-  - Various Ponderosa Stomp artists (e.g., Barbara Lynn, Swamp Dogg)
+    - Clifton Chenier
+    - Stanley "Buckwheat" Dural Jr. (Buckwheat Zydeco)
+    - Rockin’ Dopsie (Alton Rubin Sr.)
+    - Allen Toussaint
+    - Paul Simon
+    - Lee Allen Zeno
+    - Fernest Arceneaux
+    - Henry Gray
+    - 'Carol Fran, James "Thunderbird" Davis, Lee Dorsey, Joe Tex'
+    - C. C. Adcock
+    - 'Various Ponderosa Stomp artists (e.g., Barbara Lynn, Swamp Dogg)'
   influenced:
-  - Zydeco guitarists of the 1970s onward (collective)
-  - Countless zydeco and blues musicians (regional and beyond)
-  - Acadiana guitar students and younger Lafayette musicians
-  - Eric Clapton (as an admirer, not a student)
+    - Zydeco guitarists of the 1970s onward (collective)
+    - Countless zydeco and blues musicians (regional and beyond)
+    - Acadiana guitar students and younger Lafayette musicians
+    - 'Eric Clapton (as an admirer, not a student)'
   mentors:
-  - Clifton Chenier
-  - B.B. King
+    - Clifton Chenier
+    - B.B. King
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Lil'_Buck_Sinegal
-- https://simple.wikipedia.org/wiki/Paul_%22Lil'_Buck%22_Sinegal
-- https://digital.livingblues.com/articles/obituaries?article_id=3441843&i=606157
-- https://www.wwoz.org/blog/534781
-- https://musicrising.tulane.edu/discover/people/lil-buck-sinegal/
-- https://kids.kiddle.co/Paul_%22Lil'_Buck%22_Sinegal
+  - 'https://en.wikipedia.org/wiki/Lil''_Buck_Sinegal'
+  - 'https://simple.wikipedia.org/wiki/Paul_%22Lil''_Buck%22_Sinegal'
+  - >-
+    https://digital.livingblues.com/articles/obituaries?article_id=3441843&i=606157
+  - 'https://www.wwoz.org/blog/534781'
+  - 'https://musicrising.tulane.edu/discover/people/lil-buck-sinegal/'
+  - 'https://kids.kiddle.co/Paul_%22Lil''_Buck%22_Sinegal'
 spotify_data:
   followers: 134
   id: 6KFDQdWyz4Af6Zjl2kdmu2
   popularity: 0
-  url: https://open.spotify.com/artist/6KFDQdWyz4Af6Zjl2kdmu2
+  url: 'https://open.spotify.com/artist/6KFDQdWyz4Af6Zjl2kdmu2'
 status: active
 title: Paul Lil` Buck Sinegal
+birth_date: '1944-01-14'
+artist_type: person
 ---
 
 ![](paul_lil_buck_sinegal.jpg)

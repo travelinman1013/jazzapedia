@@ -2,15 +2,15 @@
 title: Firehouse Five Plus Two
 wiki_slug: firehouse-five-plus-two
 schema_version: 2
-artist_type: Group
+artist_type: person
 status: active
 birth_date: '1949'
 genres:
-- ragtime
-- swing music
+  - ragtime
+  - swing music
 instruments:
-- banjo
-- trumpet
+  - banjo
+  - trumpet
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Firehouse_Five_Plus_Two.jpg
   caption: Firehouse Five Plus Two
@@ -31,60 +31,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ward Kimball
-  - Frank Thomas
-  - Danny Alguire
-  - Harper Goff
-  - Clarke Mallery
-  - Monte Mountjoy
-  - Ed Penner
+    - Ward Kimball
+    - Frank Thomas
+    - Danny Alguire
+    - Harper Goff
+    - Clarke Mallery
+    - Monte Mountjoy
+    - Ed Penner
   influenced:
-  - Disneyland Park Musicians
-  - Revivalist Jazz Bands
+    - Disneyland Park Musicians
+    - Revivalist Jazz Bands
   mentors:
-  - Albert Nicholas
-  - Minor Hall
+    - Albert Nicholas
+    - Minor Hall
 spotify_data:
   followers: 6405
   id: 1lDvo0QzczLWwh8uXxhTeg
   popularity: 23
-  url: https://open.spotify.com/artist/1lDvo0QzczLWwh8uXxhTeg
+  url: 'https://open.spotify.com/artist/1lDvo0QzczLWwh8uXxhTeg'
 discography_enriched: true
 top_tracks:
-- Yes Sir! That's My Baby (Firehouse Five Plus Two Story)
-- Muksrat Ramble (At Disneyland)
-- Fidgety Feet (Dixieland Favorites)
-- Jazz Me Blues (Dixieland Favorites)
-- Fireman's Lament (Firehouse Five Plus Two Story)
-- Five Foot Two (Firehouse Five Plus Two Story)
-- Swanee River (Goes South!)
-- Storyville Blues (Dixieland Favorites)
-- That's a Plenty (Dixieland Favorites)
-- Coney Island Washboard (At Disneyland)
+  - Yes Sir! That's My Baby (Firehouse Five Plus Two Story)
+  - Muksrat Ramble (At Disneyland)
+  - Fidgety Feet (Dixieland Favorites)
+  - Jazz Me Blues (Dixieland Favorites)
+  - Fireman's Lament (Firehouse Five Plus Two Story)
+  - Five Foot Two (Firehouse Five Plus Two Story)
+  - Swanee River (Goes South!)
+  - Storyville Blues (Dixieland Favorites)
+  - That's a Plenty (Dixieland Favorites)
+  - Coney Island Washboard (At Disneyland)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f0c0c7ee-b3d9-4776-8b35-fde5dbefa6f0
-  spotify: https://open.spotify.com/artist/1lDvo0QzczLWwh8uXxhTeg
-  wikipedia: https://en.wikipedia.org/wiki/Firehouse_Five_Plus_Two
+  musicbrainz: 'https://musicbrainz.org/artist/f0c0c7ee-b3d9-4776-8b35-fde5dbefa6f0'
+  spotify: 'https://open.spotify.com/artist/1lDvo0QzczLWwh8uXxhTeg'
+  wikipedia: 'https://en.wikipedia.org/wiki/Firehouse_Five_Plus_Two'
 image_path: 03_Resources/source_material/ArtistPortraits/Firehouse_Five_Plus_Two.jpg
 biography_enhanced_at: '2025-10-19T12:26:01.431553'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Firehouse_Five_Plus_Two
-- https://syncopatedtimes.com/the-firehouse-five-plus-two-beginnings/
-- https://www.thedisneyclassics.com/blog/firehouse-five-plus-two
-- https://duchessofdisneyland.com/park-history/firehouse-five-plus-two/
-- https://www.waltdisney.org/blog/hail-chief-ward-kimball-and-firehouse-five-plus-two
-- https://cartoonresearch.com/index.php/the-firehouse-five-plus-two/
+  - 'https://en.wikipedia.org/wiki/Firehouse_Five_Plus_Two'
+  - 'https://syncopatedtimes.com/the-firehouse-five-plus-two-beginnings/'
+  - 'https://www.thedisneyclassics.com/blog/firehouse-five-plus-two'
+  - 'https://duchessofdisneyland.com/park-history/firehouse-five-plus-two/'
+  - >-
+    https://www.waltdisney.org/blog/hail-chief-ward-kimball-and-firehouse-five-plus-two
+  - 'https://cartoonresearch.com/index.php/the-firehouse-five-plus-two/'
 network_extracted: true
 entry_created: '2025-10-19T12:26:01.431569'
 last_updated: '2025-12-23T08:16:02.018748'
 musicbrainz_enriched_at: '2025-10-21T09:26:40.368293'
 musicbrainz_id: f0c0c7ee-b3d9-4776-8b35-fde5dbefa6f0
-origin: Los Angeles, California, United States
+origin: 'Los Angeles, California, United States'
 tags:
-- dixieland jazz
-- jazz
+  - dixieland jazz
+  - jazz
 ---
 
 ![](Firehouse_Five_Plus_Two.jpg)

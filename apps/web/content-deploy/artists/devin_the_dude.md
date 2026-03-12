@@ -1,65 +1,68 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 82577e55-14db-4fa0-b542-d59a2695a785
-  name: Coughee Brothaz
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9d7efa13-585e-4ead-bde3-cc29b3424925
-  name: Facemob
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 82577e55-14db-4fa0-b542-d59a2695a785
+    name: Coughee Brothaz
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9d7efa13-585e-4ead-bde3-cc29b3424925
+    name: Facemob
 biography_enhanced_at: '2025-12-30T01:27:29.239127'
 birth_date: '1970-06-04'
-birth_place: Pontiac
+birth_place: 'Pontiac, Michigan, United States'
 enhancement_provider: perplexity
 entry_created: '2025-12-30T01:27:29.239133'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b4e1a0b3-af92-4a4b-8f44-9633f59f7138
-  spotify: https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi
+  musicbrainz: 'https://musicbrainz.org/artist/b4e1a0b3-af92-4a4b-8f44-9633f59f7138'
+  spotify: 'https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi'
   wikipedia: ''
 gender: Male
 genres:
-- southern hip hop
-- g-funk
+  - southern hip hop
+  - g-funk
 image_path: 03_Resources/source_material/ArtistPortraits/devin_the_dude.jpg
 last_updated: '2025-12-30T01:27:29.239133'
 musical_connections:
   collaborators:
-  - Odd Squad / Coughee Brothaz (Rob Quest, Jugg Mugg)
-  - Facemob (Scarface)
-  - Dr. Dre
-  - UGK, Nas, De La Soul, Andre 3000, Snoop Dogg, Xzibit, Raphael Saadiq
+    - 'Odd Squad / Coughee Brothaz (Rob Quest, Jugg Mugg)'
+    - Facemob (Scarface)
+    - Dr. Dre
+    - 'UGK, Nas, De La Soul, Andre 3000, Snoop Dogg, Xzibit, Raphael Saadiq'
   influenced:
-  - General hip-hop underground artists
+    - General hip-hop underground artists
   mentors:
-  - Scarface
-  - DJ Screw
-  - Quincy Jones
+    - Scarface
+    - DJ Screw
+    - Quincy Jones
 musicbrainz_id: b4e1a0b3-af92-4a4b-8f44-9633f59f7138
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://first-avenue.com/performer/devin-the-dude/
-- https://uaagency.com/one-sheet/scarface-devin-the-dude/
-- https://www.passionweiss.com/2014/01/22/devin-the-dude-interview-rap-a-lot-houston/
-- https://mokbpresents.com/artist/devin-the-dude/
-- https://www.blackhistorymonth.org.uk/article/listings/region/camden/devin-the-dude/
-- https://www.jango.com/music/Devin+the+Dude
-- https://hip-hop-music.fandom.com/wiki/Devin_the_Dude
+  - 'https://first-avenue.com/performer/devin-the-dude/'
+  - 'https://uaagency.com/one-sheet/scarface-devin-the-dude/'
+  - >-
+    https://www.passionweiss.com/2014/01/22/devin-the-dude-interview-rap-a-lot-houston/
+  - 'https://mokbpresents.com/artist/devin-the-dude/'
+  - >-
+    https://www.blackhistorymonth.org.uk/article/listings/region/camden/devin-the-dude/
+  - 'https://www.jango.com/music/Devin+the+Dude'
+  - 'https://hip-hop-music.fandom.com/wiki/Devin_the_Dude'
 spotify_data:
   followers: 368259
   id: 0OMJR0LjjKv21qNvICTgbi
   popularity: 54
-  url: https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi
+  url: 'https://open.spotify.com/artist/0OMJR0LjjKv21qNvICTgbi'
 status: active
 tags:
-- chopped and screwed
-- hip hop
-- southern hip hop
+  - chopped and screwed
+  - hip hop
+  - southern hip hop
 title: Devin the Dude
+origin: 'Houston, Texas, United States'
 ---
 
 ![](devin_the_dude.jpg)

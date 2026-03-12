@@ -3,15 +3,15 @@ title: Mable John
 wiki_slug: mable-john
 schema_version: 2
 status: active
-birth_place: Bastrop, Louisiana, United States
+birth_place: 'Bastrop, Louisiana, United States'
 genres:
-- motown
-- soul
+  - motown
+  - soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/mable_john.jpg
   caption: Mable John
   background: solo_singer
-  origin: Bastrop, Louisiana, United States
+  origin: 'Bastrop, Louisiana, United States'
 audio_profile:
   tempo_avg: 123.1
   energy_avg: 0.385
@@ -27,48 +27,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ray Charles
-  - Isaac Hayes and David Porter
-  - Booker T. & the MG’s
+    - Ray Charles
+    - Isaac Hayes and David Porter
+    - Booker T. & the MG’s
   influenced:
-  - Raelettes
-  - Keith John
+    - Raelettes
+    - Keith John
   mentors:
-  - Berry Gordy
+    - Berry Gordy
 spotify_data:
   followers: 14575
   id: 2WKCi6dbtPIPiUzqSJWKRn
   popularity: 25
-  url: https://open.spotify.com/artist/2WKCi6dbtPIPiUzqSJWKRn
+  url: 'https://open.spotify.com/artist/2WKCi6dbtPIPiUzqSJWKRn'
 discography_enriched: true
 top_tracks:
-- Sorry About That - Take 1 (Stay Out Of The Kitchen)
-- Running Out (Stay Out Of The Kitchen)
-- That Woman Will Give It A Try (Stay Out Of The Kitchen)
-- Shouldn't I Love Him (Stay Out Of The Kitchen)
-- 'Able Mable (Stax-Volt: The Complete Singles 1959-1968)'
-- Who Wouldn't Love A Man Like That - First Version (The Collection)
-- To Love What I Want, And Want What I Love - Take 3 (Stay Out Of The Kitchen)
-- Stay Out Of The Kitchen - Take 1 (Stay Out Of The Kitchen)
-- It's Catching (Stay Out Of The Kitchen)
-- Your Good Thing (Is About to End) (Your Good Thing (Is About To End))
+  - Sorry About That - Take 1 (Stay Out Of The Kitchen)
+  - Running Out (Stay Out Of The Kitchen)
+  - That Woman Will Give It A Try (Stay Out Of The Kitchen)
+  - Shouldn't I Love Him (Stay Out Of The Kitchen)
+  - 'Able Mable (Stax-Volt: The Complete Singles 1959-1968)'
+  - Who Wouldn't Love A Man Like That - First Version (The Collection)
+  - 'To Love What I Want, And Want What I Love - Take 3 (Stay Out Of The Kitchen)'
+  - Stay Out Of The Kitchen - Take 1 (Stay Out Of The Kitchen)
+  - It's Catching (Stay Out Of The Kitchen)
+  - Your Good Thing (Is About to End) (Your Good Thing (Is About To End))
 external_urls:
-  spotify: https://open.spotify.com/artist/2WKCi6dbtPIPiUzqSJWKRn
-  wikipedia: https://en.wikipedia.org/wiki/Mable_John
+  spotify: 'https://open.spotify.com/artist/2WKCi6dbtPIPiUzqSJWKRn'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mable_John'
 image_path: 03_Resources/source_material/ArtistPortraits/mable_john.jpg
 biography_enhanced_at: '2025-10-31T08:14:27.077569'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Mable_John
-- https://www.laphil.com/musicdb/artists/2651/mable-john
-- https://ww1.namm.org/library/oral-history/dr-mable-john
-- https://www.detroitnews.com/story/entertainment/music/2022/08/26/mable-john-motowns-first-solo-female-artist-signed-gordy-has-died-91/7903573001/
-- https://staxmuseum.org/stax-museum-mourns-passing-of-legendary-star-dr-mable-john/
+  - 'https://en.wikipedia.org/wiki/Mable_John'
+  - 'https://www.laphil.com/musicdb/artists/2651/mable-john'
+  - 'https://ww1.namm.org/library/oral-history/dr-mable-john'
+  - >-
+    https://www.detroitnews.com/story/entertainment/music/2022/08/26/mable-john-motowns-first-solo-female-artist-signed-gordy-has-died-91/7903573001/
+  - >-
+    https://staxmuseum.org/stax-museum-mourns-passing-of-legendary-star-dr-mable-john/
 network_extracted: true
 entry_created: '2025-10-31T08:14:27.077575'
 last_updated: '2025-12-23T08:16:12.440138'
-
+artist_type: person
 ---
 
 ![](mable_john.jpg)

@@ -1,10 +1,10 @@
 ---
-title: jackson gospel singers
+title: The Jackson Gospel Singers
 wiki_slug: jackson-gospel-singers
 schema_version: 2
 status: active
 genres:
-- christian country
+  - christian country
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jackson_gospel_singers.jpg
   caption: jackson gospel singers
@@ -24,43 +24,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Huey Williams
-  - Franklin Williams
-  - Roger Bryant Jr., Maurice Surrell, James Burks, Luther Jennings
+    - Huey Williams
+    - Franklin Williams
+    - 'Roger Bryant Jr., Maurice Surrell, James Burks, Luther Jennings'
   influenced:
-  - Contemporary Mississippi gospel groups
+    - Contemporary Mississippi gospel groups
   mentors:
-  - Frank Crisler
+    - Frank Crisler
 spotify_data:
   followers: 42
   id: 0pUfZ75XVIxdDGEdX5xbSH
   popularity: 0
-  url: https://open.spotify.com/artist/0pUfZ75XVIxdDGEdX5xbSH
+  url: 'https://open.spotify.com/artist/0pUfZ75XVIxdDGEdX5xbSH'
 discography_enriched: true
 top_tracks:
-- 'Count Your Blessings (The Gospel Tradition: The Roots And The Branches Volume 1)'
-- I Can't Walk This Highway (American Pop / Gospel's Golden Age, Volume 2 (1945 - 1959))
-- Lord Take Care of Me (Glory, Glory Hallelujah)
-- I Can't Walk This Highway (100 Gospel Hymns (The Roots of Soul Music))
-- I Can't Walk This Highway (100 chants de gospel (Les racines de la musique soul))
-- I Can't Walk This Highway (100 Gospel-Lieder (Die Anfänge der Soul-Musik))
-- Come Unto Me (Gospel, vol.6 - Female Gospel Groups, 1940-1962)
-- Heaven Bound Train (New Orleans Gospel Quartets 1947-1956)
-- Count Your Blessings (New Orleans Gospel Quartets 1947-1956)
-- Jesus, Lover of My Soul (New Orleans Gospel Quartets 1947-1956)
+  - >-
+    Count Your Blessings (The Gospel Tradition: The Roots And The Branches
+    Volume 1)
+  - >-
+    I Can't Walk This Highway (American Pop / Gospel's Golden Age, Volume 2
+    (1945 - 1959))
+  - 'Lord Take Care of Me (Glory, Glory Hallelujah)'
+  - I Can't Walk This Highway (100 Gospel Hymns (The Roots of Soul Music))
+  - >-
+    I Can't Walk This Highway (100 chants de gospel (Les racines de la musique
+    soul))
+  - I Can't Walk This Highway (100 Gospel-Lieder (Die Anfänge der Soul-Musik))
+  - 'Come Unto Me (Gospel, vol.6 - Female Gospel Groups, 1940-1962)'
+  - Heaven Bound Train (New Orleans Gospel Quartets 1947-1956)
+  - Count Your Blessings (New Orleans Gospel Quartets 1947-1956)
+  - 'Jesus, Lover of My Soul (New Orleans Gospel Quartets 1947-1956)'
 external_urls:
-  spotify: https://open.spotify.com/artist/0pUfZ75XVIxdDGEdX5xbSH
+  spotify: 'https://open.spotify.com/artist/0pUfZ75XVIxdDGEdX5xbSH'
   wikipedia: ''
 image_path: ''
 biography_enhanced_at: '2025-11-20T06:40:03.665223'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.mswritersandmusicians.com/mississippi-musicians/jackson-southernaires
+  - >-
+    https://www.mswritersandmusicians.com/mississippi-musicians/jackson-southernaires
 network_extracted: true
 entry_created: '2025-11-20T06:40:03.665232'
 last_updated: '2025-12-23T08:16:10.087632'
-origin: Jackson, Mississippi, United States
+origin: 'Jackson, Mississippi, United States'
+artist_type: band
 ---
 
 ![]()

@@ -1,12 +1,13 @@
 ---
-title: Joan Osborne, Amy Helm, Robert Randolph
+title: 'Joan Osborne, Amy Helm, Robert Randolph'
 wiki_slug: joan-osborne-amy-helm-robert-randolph
 schema_version: 2
 status: active
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/Joan_Osborne_Amy_Helm_Robert_Randolph.jpg
-  caption: Joan Osborne, Amy Helm, Robert Randolph
+  image: >-
+    03_Resources/source_material/ArtistPortraits/Joan_Osborne_Amy_Helm_Robert_Randolph.jpg
+  caption: 'Joan Osborne, Amy Helm, Robert Randolph'
   background: solo_singer
 audio_profile:
   tempo_avg: 110.5
@@ -23,49 +24,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Amy Helm
-  - Robert Randolph
-  - Jackie Greene
-  - Joan Osborne Band Members
+    - Amy Helm
+    - Robert Randolph
+    - Jackie Greene
+    - Joan Osborne Band Members
   influenced:
-  - Contemporary Americana and roots artists
+    - Contemporary Americana and roots artists
   mentors:
-  - Bob Dylan
-  - Levon Helm
+    - Bob Dylan
+    - Levon Helm
 spotify_data:
   followers: 243488
   id: 0djV4iaxhNfYWpH60ia85o
   popularity: 52
-  url: https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o
+  url: 'https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o'
 discography_enriched: true
 top_tracks:
-- One Of Us (Relish)
-- One Of Us - Short Version
-- One Of Us
-- The Weight - Live
-- St. Teresa (Relish)
-- I'll Be Around (How Sweet It Is)
-- One Of Us
-- One Of Us
-- Crazy Baby (Relish)
-- Lumina (Relish)
+  - One Of Us (Relish)
+  - One Of Us - Short Version
+  - One Of Us
+  - The Weight - Live
+  - St. Teresa (Relish)
+  - I'll Be Around (How Sweet It Is)
+  - One Of Us
+  - One Of Us
+  - Crazy Baby (Relish)
+  - Lumina (Relish)
 external_urls:
-  spotify: https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o
-  wikipedia: https://en.wikipedia.org/wiki/Joan_Osborne
-image_path: 03_Resources/source_material/ArtistPortraits/Joan_Osborne_Amy_Helm_Robert_Randolph.jpg
+  spotify: 'https://open.spotify.com/artist/0djV4iaxhNfYWpH60ia85o'
+  wikipedia: 'https://en.wikipedia.org/wiki/Joan_Osborne'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/Joan_Osborne_Amy_Helm_Robert_Randolph.jpg
 biography_enhanced_at: '2025-10-20T02:03:39.666772'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://joanosborne.com
-- https://glidemagazine.com/312290/joan-osborne-reprises-her-bob-dylan-covers-with-guests-jackie-greene-robert-randolph-on-live-dylanology-album-review/
-- https://www.thegrandwilmington.org/productions/9102-joan-osborne/
-- https://jambands.com/reviews/2025/05/31/joan-osborne-feat-amy-helm-robert-randolph-and-jackie-greene-dylanology-live/
-- https://joanosborne.com/discography/dylanology-live/
+  - 'https://joanosborne.com'
+  - >-
+    https://glidemagazine.com/312290/joan-osborne-reprises-her-bob-dylan-covers-with-guests-jackie-greene-robert-randolph-on-live-dylanology-album-review/
+  - 'https://www.thegrandwilmington.org/productions/9102-joan-osborne/'
+  - >-
+    https://jambands.com/reviews/2025/05/31/joan-osborne-feat-amy-helm-robert-randolph-and-jackie-greene-dylanology-live/
+  - 'https://joanosborne.com/discography/dylanology-live/'
 network_extracted: true
 entry_created: '2025-10-20T02:03:39.666788'
 last_updated: '2025-12-23T08:16:02.569199'
-origin: Anchorage, Kentucky, USA (Joan Osborne); Woodstock, New York, USA (Amy Helm); Orange, New Jersey, USA (Robert Randolph)
+origin: >-
+  Anchorage, Kentucky, USA (Joan Osborne); Woodstock, New York, USA (Amy Helm);
+  Orange, New Jersey, USA (Robert Randolph)
+birth_place: 'Anchorage, Kentucky, United States'
+artist_type: person
 ---
 
 ![](Joan_Osborne_Amy_Helm_Robert_Randolph.jpg)

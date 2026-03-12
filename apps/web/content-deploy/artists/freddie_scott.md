@@ -1,22 +1,22 @@
 ---
-title: freddie scott
+title: Freddie Scott
 wiki_slug: freddie-scott
 schema_version: 2
 status: active
-birth_place: Providence, Rhode Island, USA
+birth_place: 'Providence, Rhode Island, USA'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/freddie_scott.jpg
   caption: freddie scott
   background: solo_singer
-  origin: Providence, Rhode Island, USA
+  origin: 'Providence, Rhode Island, USA'
 audio_profile:
   tempo_avg: 108.1
   energy_avg: 0.44
   valence_avg: 0.631
   danceability_avg: 0.511
   acousticness_avg: 0.542
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -10.5
   speechiness_avg: 0.045
   liveness_avg: 0.292
@@ -25,45 +25,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Gerry Goffin and Carole King
-  - Bert Berns
-  - Tommy Kaye
+    - Gerry Goffin and Carole King
+    - Bert Berns
+    - Tommy Kaye
   influenced: []
   mentors:
-  - Sally Jones
-  - Zelma 'Zell' Sanders
+    - Sally Jones
+    - Zelma 'Zell' Sanders
 spotify_data:
   followers: 12556
   id: 3uuQLSmKyXSXIStTYGKLrT
   popularity: 34
-  url: https://open.spotify.com/artist/3uuQLSmKyXSXIStTYGKLrT
+  url: 'https://open.spotify.com/artist/3uuQLSmKyXSXIStTYGKLrT'
 discography_enriched: true
 top_tracks:
-- (You) Got What I Need (Cry To Me-The Best Of Freddie Scott)
-- Are You Lonely For Me? (Are You Lonely for Me?)
-- Hey Girl (Old School Soul Masters)
-- 'Same Old Beat (The Legendary Henry Stone Presents Weird World: Miami Funk, Vol. 2)'
-- He Ain't Give You None (Cry To Me-The Best Of Freddie Scott)
-- Cry to Me (Are You Lonely for Me?)
-- (You) Got What I Need (Cry To Me - The Best Of Freddie Scott)
-- Hey Girl (Hey Girl)
-- I'll Be Gone (Cry To Me-The Best Of Freddie Scott)
-- Am I Grooving You (Cry To Me-The Best Of Freddie Scott)
+  - (You) Got What I Need (Cry To Me-The Best Of Freddie Scott)
+  - Are You Lonely For Me? (Are You Lonely for Me?)
+  - Hey Girl (Old School Soul Masters)
+  - >-
+    Same Old Beat (The Legendary Henry Stone Presents Weird World: Miami Funk,
+    Vol. 2)
+  - He Ain't Give You None (Cry To Me-The Best Of Freddie Scott)
+  - Cry to Me (Are You Lonely for Me?)
+  - (You) Got What I Need (Cry To Me - The Best Of Freddie Scott)
+  - Hey Girl (Hey Girl)
+  - I'll Be Gone (Cry To Me-The Best Of Freddie Scott)
+  - Am I Grooving You (Cry To Me-The Best Of Freddie Scott)
 external_urls:
-  spotify: https://open.spotify.com/artist/3uuQLSmKyXSXIStTYGKLrT
+  spotify: 'https://open.spotify.com/artist/3uuQLSmKyXSXIStTYGKLrT'
   wikipedia: Not available
 image_path: 03_Resources/source_material/ArtistPortraits/freddie_scott.jpg
 biography_enhanced_at: '2025-10-20T09:00:35.288311'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- RIPopMusic
-- Substack
-- Soul Express
-- AllMusic
+  - RIPopMusic
+  - Substack
+  - Soul Express
+  - AllMusic
 network_extracted: true
 entry_created: '2025-10-20T09:00:35.288328'
 last_updated: '2025-12-23T08:16:08.849858'
+birth_date: '1933-04-24'
+death_date: '2007-06-04'
+artist_type: person
 ---
 
 ![](freddie_scott.jpg)

@@ -1,49 +1,53 @@
 ---
 biography_enhanced_at: '2026-01-06T02:09:12.315830'
-birth_place: Bronx, New York, United States
+birth_place: 'Bronx, New York, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-06T02:09:12.315835'
 external_urls:
-  spotify: https://open.spotify.com/artist/3jiBDfjnWIdLQEEOdKqZex
-  wikipedia: https://en.wikipedia.org/wiki/Doris_Troy
+  spotify: 'https://open.spotify.com/artist/3jiBDfjnWIdLQEEOdKqZex'
+  wikipedia: 'https://en.wikipedia.org/wiki/Doris_Troy'
 genres:
-- northern soul
-- doo-wop
-- motown
+  - northern soul
+  - doo-wop
+  - motown
 image_path: 03_Resources/source_material/ArtistPortraits/doris_troy.jpg
 last_updated: '2026-01-06T02:09:12.315836'
 musical_connections:
   collaborators:
-  - Cissy Houston
-  - Dionne Warwick
-  - Dee Dee Warwick
-  - Solomon Burke
-  - The Drifters
-  - Pink Floyd
-  - Carly Simon
-  - The Rolling Stones
-  - George Harrison
-  - Nick Drake
-  - Humble Pie
-  - Dusty Springfield
+    - Cissy Houston
+    - Dionne Warwick
+    - Dee Dee Warwick
+    - Solomon Burke
+    - The Drifters
+    - Pink Floyd
+    - Carly Simon
+    - The Rolling Stones
+    - George Harrison
+    - Nick Drake
+    - Humble Pie
+    - Dusty Springfield
   influenced: []
   mentors:
-  - James Brown
+    - James Brown
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Doris_Troy
-- http://www.soulwalking.co.uk/Doris%20Troy.html
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/troy-doris
-- https://www.udiscovermusic.com/stories/heard-doris-troy/
-- https://history-of-rock.com/doris_troy.htm
+  - 'https://en.wikipedia.org/wiki/Doris_Troy'
+  - 'http://www.soulwalking.co.uk/Doris%20Troy.html'
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/troy-doris
+  - 'https://www.udiscovermusic.com/stories/heard-doris-troy/'
+  - 'https://history-of-rock.com/doris_troy.htm'
 spotify_data:
   followers: 19743
   id: 3jiBDfjnWIdLQEEOdKqZex
   popularity: 41
-  url: https://open.spotify.com/artist/3jiBDfjnWIdLQEEOdKqZex
+  url: 'https://open.spotify.com/artist/3jiBDfjnWIdLQEEOdKqZex'
 status: active
-title: DORIS TROY
+title: Doris Troy
+birth_date: '1937-01-06'
+death_date: '2004-02-16'
+artist_type: person
 ---
 
 ![](doris_troy.jpg)

@@ -1,18 +1,18 @@
 ---
-title: LITTLE JOHNNY JONES
+title: Little Johnny Jones
 wiki_slug: little-johnny-jones
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1924-11-01'
-birth_place: Jackson
+birth_place: 'Jackson, Mississippi, United States'
 death_date: '1964-11-19'
 genres:
-- blues
-- classic blues
+  - blues
+  - classic blues
 instruments:
-- piano
-- lead vocals
+  - piano
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/little_johnny_jones.jpg
   caption: LITTLE JOHNNY JONES
@@ -35,46 +35,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Elmore James
-  - Muddy Waters
-  - Tampa Red
-  - Howlin' Wolf
-  - Billy Boy Arnold
+    - Elmore James
+    - Muddy Waters
+    - Tampa Red
+    - Howlin' Wolf
+    - Billy Boy Arnold
   influenced:
-  - Eddie Taylor
-  - Otis Spann
+    - Eddie Taylor
+    - Otis Spann
   mentors:
-  - Big Maceo Merriweather
+    - Big Maceo Merriweather
 spotify_data:
   followers: 525
   id: 11TvYVOGy2ceBJiMRhlBx4
   popularity: 12
-  url: https://open.spotify.com/artist/11TvYVOGy2ceBJiMRhlBx4
+  url: 'https://open.spotify.com/artist/11TvYVOGy2ceBJiMRhlBx4'
 discography_enriched: true
 top_tracks:
-- Big Town Playboy (The Chess Story 1947-1956)
-- Big Town Playboy (Chess Blues)
-- I May Be Wrong (Boogie Woogie) (Gaz's Rockin' Blues)
-- Sweet Little Woman (Gaz's Rockin' Blues)
-- Boogie Woogie Woman (Tampa Red - KEEP JUMPING)
-- Midnight Boogie (Tampa Red - KEEP JUMPING)
-- Sweet Little Woman (King of the Slide Guitar)
-- It's Good Like That (Tampa Red - KEEP JUMPING)
-- She's Dynamite (Tampa Red - KEEP JUMPING)
-- Big Town Playboy (Chess Blues Classics '47-'56)
+  - Big Town Playboy (The Chess Story 1947-1956)
+  - Big Town Playboy (Chess Blues)
+  - I May Be Wrong (Boogie Woogie) (Gaz's Rockin' Blues)
+  - Sweet Little Woman (Gaz's Rockin' Blues)
+  - Boogie Woogie Woman (Tampa Red - KEEP JUMPING)
+  - Midnight Boogie (Tampa Red - KEEP JUMPING)
+  - Sweet Little Woman (King of the Slide Guitar)
+  - It's Good Like That (Tampa Red - KEEP JUMPING)
+  - She's Dynamite (Tampa Red - KEEP JUMPING)
+  - Big Town Playboy (Chess Blues Classics '47-'56)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/57fc57a0-e6d3-44c9-9854-6aa3673019b5
-  spotify: https://open.spotify.com/artist/11TvYVOGy2ceBJiMRhlBx4
-  wikipedia: https://en.wikipedia.org/wiki/Little_Johnny_Jones
+  musicbrainz: 'https://musicbrainz.org/artist/57fc57a0-e6d3-44c9-9854-6aa3673019b5'
+  spotify: 'https://open.spotify.com/artist/11TvYVOGy2ceBJiMRhlBx4'
+  wikipedia: 'https://en.wikipedia.org/wiki/Little_Johnny_Jones'
 image_path: 03_Resources/source_material/ArtistPortraits/little_johnny_jones.jpg
 biography_enhanced_at: '2025-11-04T11:00:00.871563'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://fromthevaults-boppinbob.blogspot.com/2024/11/little-johnny-jones-born-1-november-1914.html
-- https://www.alligator.com/artists/Johnny-Jones/
-- https://www.allmusic.com/artist/johnny-jones-mn0000199261
-- https://www.last.fm/music/Little+Johnny+Jones
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2024/11/little-johnny-jones-born-1-november-1914.html
+  - 'https://www.alligator.com/artists/Johnny-Jones/'
+  - 'https://www.allmusic.com/artist/johnny-jones-mn0000199261'
+  - 'https://www.last.fm/music/Little+Johnny+Jones'
 network_extracted: true
 entry_created: '2025-11-04T11:00:00.871750'
 last_updated: '2025-12-23T08:16:12.015598'
@@ -82,8 +83,10 @@ disambiguation: Chicago blues pianist
 gender: Male
 musicbrainz_id: 57fc57a0-e6d3-44c9-9854-6aa3673019b5
 tags:
-- blues
-- chicago blues
+  - blues
+  - chicago blues
+is_active: false
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](little_johnny_jones.jpg)

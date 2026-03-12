@@ -2,20 +2,20 @@
 title: Lee Dorsey
 wiki_slug: lee-dorsey
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1924-12-24'
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 death_date: '1986-12-01'
 genres:
-- northern soul
-- soul
+  - northern soul
+  - soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Lee_Dorsey.jpg
   caption: Lee Dorsey
   background: solo_singer
   born: '1924-12-24'
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
   died: '1986-12-01'
 audio_profile:
   tempo_avg: 115.7
@@ -32,46 +32,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Allen Toussaint
-  - The Meters
-  - Marshall Sehorn
+    - Allen Toussaint
+    - The Meters
+    - Marshall Sehorn
   influenced:
-  - The Clash
-  - Beastie Boys
-  - Pointer Sisters
+    - The Clash
+    - Beastie Boys
+    - Pointer Sisters
   mentors:
-  - Fats Domino
+    - Fats Domino
 spotify_data:
   followers: 50809
   id: 0En4EEcDMJ5kaUCf1aZ9js
   popularity: 36
-  url: https://open.spotify.com/artist/0En4EEcDMJ5kaUCf1aZ9js
+  url: 'https://open.spotify.com/artist/0En4EEcDMJ5kaUCf1aZ9js'
 discography_enriched: true
 top_tracks:
-- Get out of My Life Woman (Ride Your Pony)
-- Ya Ya (The Essential Lee Dorsey)
-- Working in the Coal Mine (The New Lee Dorsey)
-- Get out of My Life Woman (Wheelin' And Dealin' - The Definitive Collection)
-- Everything I Do Gohn Be Funky (From Now On) (The New Lee Dorsey)
-- Working in the Coal Mine (Wheelin' And Dealin' - The Definitive Collection)
-- Give It Up (The New Lee Dorsey)
-- Ya Ya (Wheelin' And Dealin' - The Definitive Collection)
-- Everything I Do Gohn Be Funky (From Now On) (Wheelin' And Dealin' - The Definitive Collection)
-- Give It Up (Wheelin' And Dealin' - The Definitive Collection)
+  - Get out of My Life Woman (Ride Your Pony)
+  - Ya Ya (The Essential Lee Dorsey)
+  - Working in the Coal Mine (The New Lee Dorsey)
+  - Get out of My Life Woman (Wheelin' And Dealin' - The Definitive Collection)
+  - Everything I Do Gohn Be Funky (From Now On) (The New Lee Dorsey)
+  - Working in the Coal Mine (Wheelin' And Dealin' - The Definitive Collection)
+  - Give It Up (The New Lee Dorsey)
+  - Ya Ya (Wheelin' And Dealin' - The Definitive Collection)
+  - >-
+    Everything I Do Gohn Be Funky (From Now On) (Wheelin' And Dealin' - The
+    Definitive Collection)
+  - Give It Up (Wheelin' And Dealin' - The Definitive Collection)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/23388f69-9c11-44a6-b832-b9071db3423e
-  spotify: https://open.spotify.com/artist/0En4EEcDMJ5kaUCf1aZ9js
-  wikipedia: https://en.wikipedia.org/wiki/Lee_Dorsey
+  musicbrainz: 'https://musicbrainz.org/artist/23388f69-9c11-44a6-b832-b9071db3423e'
+  spotify: 'https://open.spotify.com/artist/0En4EEcDMJ5kaUCf1aZ9js'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lee_Dorsey'
 image_path: 03_Resources/source_material/ArtistPortraits/Lee_Dorsey.jpg
 biography_enhanced_at: '2025-10-20T09:21:47.772456'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/dorsey-lee
-- https://64parishes.org/entry/lee-dorsey
-- https://en.wikipedia.org/wiki/Lee_Dorsey
-- https://tims.blackcat.nl/messages/lee_dorsey.htm
-- https://top40weekly.com/lee-dorsey/
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/dorsey-lee
+  - 'https://64parishes.org/entry/lee-dorsey'
+  - 'https://en.wikipedia.org/wiki/Lee_Dorsey'
+  - 'https://tims.blackcat.nl/messages/lee_dorsey.htm'
+  - 'https://top40weekly.com/lee-dorsey/'
 network_extracted: true
 entry_created: '2025-10-20T09:21:47.772474'
 last_updated: '2025-12-23T08:16:02.955984'
@@ -79,9 +82,11 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:34:40.895008'
 musicbrainz_id: 23388f69-9c11-44a6-b832-b9071db3423e
 tags:
-- 2008 universal fire victim
-- funk
-- new orleans r&b
+  - 2008 universal fire victim
+  - funk
+  - new orleans r&b
+is_active: false
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](Lee_Dorsey.jpg)

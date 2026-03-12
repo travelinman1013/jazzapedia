@@ -2,13 +2,13 @@
 title: Portico Quartet
 wiki_slug: portico-quartet
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '2005'
 genres:
-- nu jazz
+  - nu jazz
 instruments:
-- original
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/portico_quartet.jpg
   caption: Portico Quartet
@@ -29,90 +29,90 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Nick Mulvey
-  - Keir Vine
-  - John Leckie
+    - Nick Mulvey
+    - Keir Vine
+    - John Leckie
   influenced:
-  - Contemporary nu jazz and electronic jazz artists
+    - Contemporary nu jazz and electronic jazz artists
   mentors:
-  - World Music traditions (WOMAD festival exposure)
+    - World Music traditions (WOMAD festival exposure)
 spotify_data:
   followers: 207186
   id: 7sYipTRgDXS2JVOPEhRutx
   popularity: 43
-  url: https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx
+  url: 'https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx'
 discography_enriched: true
 top_tracks:
-- Prickly Pear (Knee-Deep In the North Sea)
-- Pompidou (Knee-Deep In the North Sea)
-- Impressions (Monument)
-- Nest - Portico Quartet Remix
-- Endless (Art in the Age of Automation)
-- Knee-Deep in the North Sea (Knee-Deep In the North Sea)
-- Ruins (Portico Quartet)
-- Monument (Monument)
-- With, Beside, Against - Hania Rani Remix
-- Offset (Memory Streams)
+  - Prickly Pear (Knee-Deep In the North Sea)
+  - Pompidou (Knee-Deep In the North Sea)
+  - Impressions (Monument)
+  - Nest - Portico Quartet Remix
+  - Endless (Art in the Age of Automation)
+  - Knee-Deep in the North Sea (Knee-Deep In the North Sea)
+  - Ruins (Portico Quartet)
+  - Monument (Monument)
+  - 'With, Beside, Against - Hania Rani Remix'
+  - Offset (Memory Streams)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/0e6e5a3e-b5cb-45ff-97f4-c23c88efc563
-  spotify: https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx
-  wikipedia: https://en.wikipedia.org/wiki/Portico_Quartet
+  musicbrainz: 'https://musicbrainz.org/artist/0e6e5a3e-b5cb-45ff-97f4-c23c88efc563'
+  spotify: 'https://open.spotify.com/artist/7sYipTRgDXS2JVOPEhRutx'
+  wikipedia: 'https://en.wikipedia.org/wiki/Portico_Quartet'
 image_path: 03_Resources/source_material/ArtistPortraits/portico_quartet.jpg
 biography_enhanced_at: '2025-11-21T07:09:53.956316'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- All About Jazz
-- Song Sommelier
-- PRS for Music Foundation
-- Ninja Tune
-- Real World Records
-- Last.fm
-- WUNC
-- The Progressive Aspect
+  - All About Jazz
+  - Song Sommelier
+  - PRS for Music Foundation
+  - Ninja Tune
+  - Real World Records
+  - Last.fm
+  - WUNC
+  - The Progressive Aspect
 network_extracted: true
 entry_created: '2025-11-21T07:09:53.956330'
 last_updated: '2025-12-23T08:16:14.412815'
 disambiguation: instrumental band from London
 members:
-- begin: '2005'
-  end: '2011'
-  instruments:
-  - original
-  mbid: ee910c7a-56df-4df3-bef8-aa94a3adef8b
-  name: Nick Mulvey
-- &id001
-  begin: '2011'
-  end: ''
-  instruments: []
-  mbid: bbbb5b27-5d02-43d9-a99c-798319160ea3
-  name: Keir Vine
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: b57d0f24-770a-48e3-94d7-93ab19bdd74e
-  name: Duncan Bellamy
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: d71d052b-0041-47dc-a017-2af19e42dcab
-  name: Milo Fitzpatrick
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 4b8efcab-499d-42fc-9506-886c8122a301
-  name: Jack Wyllie
+  - begin: '2005'
+    end: '2011'
+    instruments:
+      - original
+    mbid: ee910c7a-56df-4df3-bef8-aa94a3adef8b
+    name: Nick Mulvey
+  - &ref_0
+    begin: '2011'
+    end: ''
+    instruments: []
+    mbid: bbbb5b27-5d02-43d9-a99c-798319160ea3
+    name: Keir Vine
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: b57d0f24-770a-48e3-94d7-93ab19bdd74e
+    name: Duncan Bellamy
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: d71d052b-0041-47dc-a017-2af19e42dcab
+    name: Milo Fitzpatrick
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 4b8efcab-499d-42fc-9506-886c8122a301
+    name: Jack Wyllie
 musicbrainz_id: 0e6e5a3e-b5cb-45ff-97f4-c23c88efc563
-origin: London
+origin: 'London, England, United Kingdom'
 original_members:
-- *id001
+  - *ref_0
 tags:
-- avant-garde jazz
-- instrumental
-- jazz
+  - avant-garde jazz
+  - instrumental
+  - jazz
 ---
 
 ![](portico_quartet.jpg)

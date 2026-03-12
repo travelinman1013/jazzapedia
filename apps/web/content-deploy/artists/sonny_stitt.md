@@ -1,34 +1,34 @@
 ---
-title: sonny stitt
+title: Sonny Stitt
 wiki_slug: sonny-stitt
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1924-02-02'
-birth_place: Boston
+birth_place: 'Boston, Massachusetts, United States'
 death_date: '1982-07-22'
 genres:
-- bebop
-- jazz
-- hard bop
-- cool jazz
-- acid jazz
+  - bebop
+  - jazz
+  - hard bop
+  - cool jazz
+  - acid jazz
 instruments:
-- eponymous
-- original
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
-  mbid: 7e3ca84e-3f2e-4f20-a33c-bb5eac78de04
-  name: Sonny Stitt Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 75927448-84fe-48cf-a99e-6430d2aae453
-  name: The Giants of Jazz
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 7e3ca84e-3f2e-4f20-a33c-bb5eac78de04
+    name: Sonny Stitt Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 75927448-84fe-48cf-a99e-6430d2aae453
+    name: The Giants of Jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sonny_stitt.jpg
   caption: sonny stitt
@@ -51,68 +51,72 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Billy Eckstine
-  - Dizzy Gillespie
-  - Gene Ammons
-  - Bud Powell
-  - Max Roach
-  - Miles Davis
-  - Thelonious Monk
-  - Art Blakey
-  - Dexter Gordon
-  - Stan Getz
-  - Red Holloway
+    - Billy Eckstine
+    - Dizzy Gillespie
+    - Gene Ammons
+    - Bud Powell
+    - Max Roach
+    - Miles Davis
+    - Thelonious Monk
+    - Art Blakey
+    - Dexter Gordon
+    - Stan Getz
+    - Red Holloway
   influenced:
-  - John Coltrane
-  - Branford Marsalis
-  - Kenny Garrett
-  - Joshua Redman
-  - Courtney Pine
+    - John Coltrane
+    - Branford Marsalis
+    - Kenny Garrett
+    - Joshua Redman
+    - Courtney Pine
   mentors:
-  - Charlie Parker
-  - Lester Young
+    - Charlie Parker
+    - Lester Young
 spotify_data:
   followers: 66198
   id: 217b0uqAzsOOhGcnoANZqj
   popularity: 41
-  url: https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj
+  url: 'https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj'
 discography_enriched: true
 top_tracks:
-- On The Sunny Side Of The Street (Dizzy 100)
-- Alone Together (New York Jazz)
-- Lester Leaps In (Now!)
-- I'll Remember April (Sonny Stitt Sits In With The Oscar Peterson Trio)
-- 'There Is No Greater Love (Boss Tenors: Straight Ahead From Chicago August 1961)'
-- I Got Rhythm (The Hard Swing)
-- If I Had You (New York Jazz)
-- I'm Getting Sentimental Over You (Now!)
-- On The Sunny Side Of The Street (Sonny Side Up)
-- Stars Fell On Alabama (New York Jazz)
+  - On The Sunny Side Of The Street (Dizzy 100)
+  - Alone Together (New York Jazz)
+  - Lester Leaps In (Now!)
+  - I'll Remember April (Sonny Stitt Sits In With The Oscar Peterson Trio)
+  - >-
+    There Is No Greater Love (Boss Tenors: Straight Ahead From Chicago August
+    1961)
+  - I Got Rhythm (The Hard Swing)
+  - If I Had You (New York Jazz)
+  - I'm Getting Sentimental Over You (Now!)
+  - On The Sunny Side Of The Street (Sonny Side Up)
+  - Stars Fell On Alabama (New York Jazz)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d7828cdd-7d63-49c0-b09b-cf3df7ecaf80
-  spotify: https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj
-  wikipedia: https://en.wikipedia.org/wiki/Sonny_Stitt
+  musicbrainz: 'https://musicbrainz.org/artist/d7828cdd-7d63-49c0-b09b-cf3df7ecaf80'
+  spotify: 'https://open.spotify.com/artist/217b0uqAzsOOhGcnoANZqj'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sonny_Stitt'
 image_path: 03_Resources/source_material/ArtistPortraits/sonny_stitt.jpg
 biography_enhanced_at: '2025-12-04T07:28:30.176639'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- EBSCO Research Starters
-- Oh Jean Records
-- Henri Selmer Paris
-- Wikipedia
-- Britannica
-- All About Jazz
-- Saginaw County Hall of Fame
-- WRTI
+  - EBSCO Research Starters
+  - Oh Jean Records
+  - Henri Selmer Paris
+  - Wikipedia
+  - Britannica
+  - All About Jazz
+  - Saginaw County Hall of Fame
+  - WRTI
 network_extracted: true
 entry_created: '2025-12-04T07:28:30.176649'
 last_updated: '2025-12-23T08:16:15.915656'
 gender: Male
 musicbrainz_id: d7828cdd-7d63-49c0-b09b-cf3df7ecaf80
 tags:
-- jazz
-- saxophonist
+  - jazz
+  - saxophonist
+is_active: false
+origin: 'Saginaw, Michigan, United States'
 ---
 
 ![](sonny_stitt.jpg)

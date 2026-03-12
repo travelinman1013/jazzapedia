@@ -1,15 +1,15 @@
 ---
-title: uncle lucius
+title: Uncle Lucius
 wiki_slug: uncle-lucius
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 birth_date: '2005'
 genres:
-- red dirt
-- texas country
+  - red dirt
+  - texas country
 instruments:
-- original
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/uncle_lucius.jpg
   caption: uncle lucius
@@ -30,54 +30,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Hal Vorpahl
-  - Mike Carpenter
-  - Josh Greco
-  - Jon Grossman
-  - Doug Strahan
-  - Drew Scherger
+    - Hal Vorpahl
+    - Mike Carpenter
+    - Josh Greco
+    - Jon Grossman
+    - Doug Strahan
+    - Drew Scherger
   influenced:
-  - Emerging Texas Country and Red Dirt Artists
+    - Emerging Texas Country and Red Dirt Artists
   mentors:
-  - Classic Country Artists (e.g., Willie Nelson, Waylon Jennings)
+    - 'Classic Country Artists (e.g., Willie Nelson, Waylon Jennings)'
 spotify_data:
   followers: 201321
   id: 49zZ2lRNpfwWfUnASUxCYW
   popularity: 60
-  url: https://open.spotify.com/artist/49zZ2lRNpfwWfUnASUxCYW
+  url: 'https://open.spotify.com/artist/49zZ2lRNpfwWfUnASUxCYW'
 discography_enriched: true
 top_tracks:
-- Keep The Wolves Away (And You Are Me)
-- Ain't It The Same (Pick Your Head Up)
-- Liquor Store (Pick Your Head Up)
-- Pocket Full of Misery (And You Are Me)
-- All Your Gold (Pick Your Head Up)
-- A Million Ways (Pick Your Head Up)
-- Gulf Coast Gypsies (The Light)
-- Pick Your Head Up (Pick Your Head Up)
-- The Light (The Light)
-- Hold On Your Heart (Pick Your Head Up)
+  - Keep The Wolves Away (And You Are Me)
+  - Ain't It The Same (Pick Your Head Up)
+  - Liquor Store (Pick Your Head Up)
+  - Pocket Full of Misery (And You Are Me)
+  - All Your Gold (Pick Your Head Up)
+  - A Million Ways (Pick Your Head Up)
+  - Gulf Coast Gypsies (The Light)
+  - Pick Your Head Up (Pick Your Head Up)
+  - The Light (The Light)
+  - Hold On Your Heart (Pick Your Head Up)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/43212d6e-2a58-4325-a6f6-2953ba00fa83
-  spotify: https://open.spotify.com/artist/49zZ2lRNpfwWfUnASUxCYW
-  wikipedia: https://en.wikipedia.org/wiki/Uncle_Lucius
+  musicbrainz: 'https://musicbrainz.org/artist/43212d6e-2a58-4325-a6f6-2953ba00fa83'
+  spotify: 'https://open.spotify.com/artist/49zZ2lRNpfwWfUnASUxCYW'
+  wikipedia: 'https://en.wikipedia.org/wiki/Uncle_Lucius'
 image_path: 03_Resources/source_material/ArtistPortraits/uncle_lucius.jpg
 biography_enhanced_at: '2025-10-19T10:56:19.153011'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://americana-uk.com/whatever-happened-to-uncle-lucius
-- https://lonestarmusicmagazine.com/in-profile-uncle-lucius/
-- https://alleyesmedia.com/wp-content/uploads/2023/09/Uncle-Lucius-bio.pdf
-- https://last.fm/music/Uncle+Lucius/+wiki
-- https://theheightstheater.com/bands/uncle-lucius/
+  - 'https://americana-uk.com/whatever-happened-to-uncle-lucius'
+  - 'https://lonestarmusicmagazine.com/in-profile-uncle-lucius/'
+  - 'https://alleyesmedia.com/wp-content/uploads/2023/09/Uncle-Lucius-bio.pdf'
+  - 'https://last.fm/music/Uncle+Lucius/+wiki'
+  - 'https://theheightstheater.com/bands/uncle-lucius/'
 network_extracted: true
 entry_created: '2025-10-19T10:56:19.153016'
 last_updated: '2025-12-23T08:16:17.776512'
 musicbrainz_enriched_at: '2025-10-21T09:56:43.574609'
 musicbrainz_id: 43212d6e-2a58-4325-a6f6-2953ba00fa83
-origin: Austin, Texas, United States
-
+origin: 'Austin, Texas, United States'
+birth_place: Austin
 ---
 
 ![](uncle_lucius.jpg)

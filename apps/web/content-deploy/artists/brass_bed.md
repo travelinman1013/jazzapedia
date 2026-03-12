@@ -2,11 +2,11 @@
 title: Brass Bed
 wiki_slug: brass-bed
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/brass_bed.jpg
   caption: Brass Bed
@@ -26,54 +26,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Christiaan Mader
-  - Peter DeHart
-  - Jonny Campos
+    - Christiaan Mader
+    - Peter DeHart
+    - Jonny Campos
   influenced:
-  - Feufollet
+    - Feufollet
   mentors:
-  - Clifton Chenier
+    - Clifton Chenier
 spotify_data:
   followers: 1545
   id: 6vFZ2dMmhiv5lmaLNbEW3h
   popularity: 4
-  url: https://open.spotify.com/artist/6vFZ2dMmhiv5lmaLNbEW3h
+  url: 'https://open.spotify.com/artist/6vFZ2dMmhiv5lmaLNbEW3h'
 discography_enriched: true
 top_tracks:
-- Apostate (Apostate)
-- Do I Get You (Do I Get You)
-- I Am Just a Whisper (In the Yellow Leaf)
-- If I Was a Farmer (The Color Sessions)
-- Bums on the Radio (The Color Sessions)
-- Cold Chicory (The Secret Will Keep You)
-- Please Don't Go (The Secret Will Keep You)
-- Les jours sont longs (The Color Sessions)
-- Strangers (The Color Sessions)
-- La berceuse du vieux voyageur (The Color Sessions)
+  - Apostate (Apostate)
+  - Do I Get You (Do I Get You)
+  - I Am Just a Whisper (In the Yellow Leaf)
+  - If I Was a Farmer (The Color Sessions)
+  - Bums on the Radio (The Color Sessions)
+  - Cold Chicory (The Secret Will Keep You)
+  - Please Don't Go (The Secret Will Keep You)
+  - Les jours sont longs (The Color Sessions)
+  - Strangers (The Color Sessions)
+  - La berceuse du vieux voyageur (The Color Sessions)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/68d50598-1e7c-498e-be96-1672f263cc6f
-  spotify: https://open.spotify.com/artist/6vFZ2dMmhiv5lmaLNbEW3h
-  wikipedia: https://en.wikipedia.org/wiki/Brass_Bed
+  musicbrainz: 'https://musicbrainz.org/artist/68d50598-1e7c-498e-be96-1672f263cc6f'
+  spotify: 'https://open.spotify.com/artist/6vFZ2dMmhiv5lmaLNbEW3h'
+  wikipedia: 'https://en.wikipedia.org/wiki/Brass_Bed'
 image_path: 03_Resources/source_material/ArtistPortraits/brass_bed.jpg
 biography_enhanced_at: '2025-10-30T12:05:41.705393'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Brass_Bed
-- https://www.explorelouisiana.com/articles/famous-louisiana-zydeco-musicians-biographies
-- https://www.myspiltmilk.com/articles/feufollet-debuts-two-universes-saturday
+  - 'https://en.wikipedia.org/wiki/Brass_Bed'
+  - >-
+    https://www.explorelouisiana.com/articles/famous-louisiana-zydeco-musicians-biographies
+  - 'https://www.myspiltmilk.com/articles/feufollet-debuts-two-universes-saturday'
 network_extracted: true
 entry_created: '2025-10-30T12:05:41.705403'
 last_updated: '2025-12-23T08:16:06.040307'
 disambiguation: Louisiana rock quartet
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: cd6067e5-0b16-40e5-93f2-7e4ce2c28f2d
-  name: Jacques Doucet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: cd6067e5-0b16-40e5-93f2-7e4ce2c28f2d
+    name: Jacques Doucet
 musicbrainz_id: 68d50598-1e7c-498e-be96-1672f263cc6f
-origin: Lafayette
+origin: 'Lafayette, Louisiana, United States'
 ---
 
 ![](brass_bed.jpg)

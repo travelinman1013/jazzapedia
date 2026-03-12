@@ -2,15 +2,15 @@
 title: Erica Falls
 wiki_slug: erica-falls
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Erica_Falls.jpg
   caption: Erica Falls
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 108.6
   energy_avg: 0.718
@@ -26,51 +26,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Galactic
-  - Nick Mercadel
-  - George Porter Jr.
-  - Jamison Ross
-  - Dr. John
-  - Sting
-  - Jennifer Hudson
-  - No Doubt
-  - John Fogerty
-  - Joe Sample
+    - Galactic
+    - Nick Mercadel
+    - George Porter Jr.
+    - Jamison Ross
+    - Dr. John
+    - Sting
+    - Jennifer Hudson
+    - No Doubt
+    - John Fogerty
+    - Joe Sample
   influenced: []
   mentors:
-  - Allen Toussaint
-  - Erica's Mother
+    - Allen Toussaint
+    - Erica's Mother
 spotify_data:
   followers: 1741
   id: 4W3Re8hcwf5DvvqaKjV0eR
   popularity: 14
-  url: https://open.spotify.com/artist/4W3Re8hcwf5DvvqaKjV0eR
+  url: 'https://open.spotify.com/artist/4W3Re8hcwf5DvvqaKjV0eR'
 discography_enriched: true
 top_tracks:
-- '#bamisforthechildren'
-- 3rd Ward Bounce (feat. Erica Falls)
-- Boots In Place (Boots In Place)
-- Ear to Ear (From Here.)
-- Dolla Diva - Live (Into The Deep (Deluxe Edition))
-- Optimistic
-- Touch Get Cut (feat. Erica Falls) (Already Ready Already)
-- '#bamisforthechildren (TRIUNE)'
-- Rebirth Makes You Dance (Move Your Body)
-- HBNS (Move Your Body)
+  - '#bamisforthechildren'
+  - 3rd Ward Bounce (feat. Erica Falls)
+  - Boots In Place (Boots In Place)
+  - Ear to Ear (From Here.)
+  - Dolla Diva - Live (Into The Deep (Deluxe Edition))
+  - Optimistic
+  - Touch Get Cut (feat. Erica Falls) (Already Ready Already)
+  - '#bamisforthechildren (TRIUNE)'
+  - Rebirth Makes You Dance (Move Your Body)
+  - HBNS (Move Your Body)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f1e537b8-c559-4a5e-b660-3a0a3f14a77e
-  spotify: https://open.spotify.com/artist/4W3Re8hcwf5DvvqaKjV0eR
+  musicbrainz: 'https://musicbrainz.org/artist/f1e537b8-c559-4a5e-b660-3a0a3f14a77e'
+  spotify: 'https://open.spotify.com/artist/4W3Re8hcwf5DvvqaKjV0eR'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/Erica_Falls.jpg
 biography_enhanced_at: '2025-10-21T06:49:20.140596'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.holican.io/artist-wiki/erica-falls
-- https://redbeansanderic.com/erica-falls/
-- https://ragman.org/erica-falls-and-vintage-soul
-- https://www.laphil.com/musicdb/artists/6209/erica-falls
-- https://www.ericafalls.com/about
+  - 'https://www.holican.io/artist-wiki/erica-falls'
+  - 'https://redbeansanderic.com/erica-falls/'
+  - 'https://ragman.org/erica-falls-and-vintage-soul'
+  - 'https://www.laphil.com/musicdb/artists/6209/erica-falls'
+  - 'https://www.ericafalls.com/about'
 network_extracted: true
 entry_created: '2025-10-21T06:49:20.140607'
 last_updated: '2025-12-23T08:16:01.940035'

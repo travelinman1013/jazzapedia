@@ -5,11 +5,11 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '2003-06-25'
-birth_place: Bali
+birth_place: 'Denpasar, Bali, Indonesia'
 genres:
-- jazz
+  - jazz
 instruments:
-- piano
+  - piano
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/joey_alexander.jpg
   caption: Joey Alexander
@@ -31,47 +31,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dan Chmielinski
-  - Ulysses Owens
-  - Larry Grenadier
-  - Chris Potter
+    - Dan Chmielinski
+    - Ulysses Owens
+    - Larry Grenadier
+    - Chris Potter
   influenced: []
   mentors:
-  - Father (unnamed)
-  - Herbie Hancock
-  - Wynton Marsalis
+    - Father (unnamed)
+    - Herbie Hancock
+    - Wynton Marsalis
 spotify_data:
   followers: 57685
   id: 0FcNSKwWZJb98ry9M2qEII
   popularity: 38
-  url: https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII
+  url: 'https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII'
 discography_enriched: true
 top_tracks:
-- I Can’t Make You Love Me (Continuance)
-- Hesitation (Origin)
-- Draw Me Nearer (Eclipse)
-- Draw Me Nearer (Eclipse)
-- Midnight Waves (Origin)
-- For Wee Folks (Countdown)
-- JoEys song ༼つ ◕_◕ ༽つ (hella (˃̣̣̥╭╮˂̣̣̥) ✧ ♡ ‧º·˚)
-- Draw Me Nearer (Eclipse)
-- For Wee Folks (Countdown)
-- Promise of Spring (Origin)
+  - I Can’t Make You Love Me (Continuance)
+  - Hesitation (Origin)
+  - Draw Me Nearer (Eclipse)
+  - Draw Me Nearer (Eclipse)
+  - Midnight Waves (Origin)
+  - For Wee Folks (Countdown)
+  - JoEys song ༼つ ◕_◕ ༽つ (hella (˃̣̣̥╭╮˂̣̣̥) ✧ ♡ ‧º·˚)
+  - Draw Me Nearer (Eclipse)
+  - For Wee Folks (Countdown)
+  - Promise of Spring (Origin)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ef0591bd-daef-4347-b62f-6d20b8f6dda3
-  spotify: https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII
-  wikipedia: https://en.wikipedia.org/wiki/Joey_Alexander
+  musicbrainz: 'https://musicbrainz.org/artist/ef0591bd-daef-4347-b62f-6d20b8f6dda3'
+  spotify: 'https://open.spotify.com/artist/0FcNSKwWZJb98ry9M2qEII'
+  wikipedia: 'https://en.wikipedia.org/wiki/Joey_Alexander'
 image_path: 03_Resources/source_material/ArtistPortraits/joey_alexander.jpg
 biography_enhanced_at: '2025-12-20T01:10:18.119094'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.allaboutjazz.com/musicians/joey-alexander/
-- https://en.wikipedia.org/wiki/Joey_Alexander
-- https://jazztimes.com/features/profiles/joey-alexander-youth-without-youth/
-- https://www.sfjazz.org/onthecorner/joey-alexanders-eclipse/
-- https://jazzday.com/artists/2022/
-- https://joeyalexandermusic.today
+  - 'https://www.allaboutjazz.com/musicians/joey-alexander/'
+  - 'https://en.wikipedia.org/wiki/Joey_Alexander'
+  - 'https://jazztimes.com/features/profiles/joey-alexander-youth-without-youth/'
+  - 'https://www.sfjazz.org/onthecorner/joey-alexanders-eclipse/'
+  - 'https://jazzday.com/artists/2022/'
+  - 'https://joeyalexandermusic.today'
 network_extracted: true
 entry_created: '2025-12-20T01:10:18.119103'
 last_updated: '2025-12-23T08:16:10.686184'
@@ -79,9 +79,8 @@ disambiguation: Indonesian jazz pianist
 gender: Male
 musicbrainz_id: ef0591bd-daef-4347-b62f-6d20b8f6dda3
 tags:
-- jazz
-- post-bop
-
+  - jazz
+  - post-bop
 ---
 
 ![](joey_alexander.jpg)

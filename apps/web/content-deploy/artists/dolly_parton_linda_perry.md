@@ -1,45 +1,51 @@
 ---
 biography_enhanced_at: '2026-01-10T01:19:31.877244'
-birth_place: Springfield, Massachusetts, United States (Linda Perry birthplace); Locust
-  Ridge, Tennessee, United States (Dolly Parton birthplace)
+birth_place: 'Locust Ridge, Tennessee, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-10T01:19:31.877249'
 external_urls:
-  spotify: https://open.spotify.com/artist/3hNlAaxTCaOlBJshaY7VIR
-  wikipedia: https://en.wikipedia.org/wiki/Linda_Perry
+  spotify: 'https://open.spotify.com/artist/3hNlAaxTCaOlBJshaY7VIR'
+  wikipedia: 'https://en.wikipedia.org/wiki/Linda_Perry'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/dolly_parton_linda_perry.jpg
 last_updated: '2026-01-10T01:19:31.877250'
 musical_connections:
   collaborators:
-  - Pink (Alecia Moore)
-  - Christina Aguilera
-  - Gwen Stefani
-  - James Blunt
-  - Dolly Parton & Linda Perry (with each other)
+    - Pink (Alecia Moore)
+    - Christina Aguilera
+    - Gwen Stefani
+    - James Blunt
+    - Dolly Parton & Linda Perry (with each other)
   influenced:
-  - Pink
-  - Christina Aguilera
-  - Multiple contemporary pop artists shaped by Linda Perry’s production style
+    - Pink
+    - Christina Aguilera
+    - Multiple contemporary pop artists shaped by Linda Perry’s production style
   mentors:
-  - Traditional Appalachian and classic country artists (for Dolly Parton)
-  - Rock, punk, and alternative scenes of the late 1980s–early 1990s (for Linda Perry)
+    - Traditional Appalachian and classic country artists (for Dolly Parton)
+    - >-
+      Rock, punk, and alternative scenes of the late 1980s–early 1990s (for
+      Linda Perry)
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Linda_Perry
-- https://entertainmentnow.com/news/linda-perry-dolly-parton-friendship/
-- https://www.nickiswift.com/314334/inside-dolly-parton-and-linda-perrys-unexpected-friendship/
-- https://theboot.com/dolly-parton-dumplin-linda-perry/
-- https://americansongwriter.com/dolly-parton-covers-4-non-blondes-1993-hit-whats-upfeaturing-linda-perry/
-- https://www.euphoriazine.com/blog/2023/09/music/tracks-dolly-parton-whats-up-feat-linda-perry/
+  - 'https://en.wikipedia.org/wiki/Linda_Perry'
+  - 'https://entertainmentnow.com/news/linda-perry-dolly-parton-friendship/'
+  - >-
+    https://www.nickiswift.com/314334/inside-dolly-parton-and-linda-perrys-unexpected-friendship/
+  - 'https://theboot.com/dolly-parton-dumplin-linda-perry/'
+  - >-
+    https://americansongwriter.com/dolly-parton-covers-4-non-blondes-1993-hit-whats-upfeaturing-linda-perry/
+  - >-
+    https://www.euphoriazine.com/blog/2023/09/music/tracks-dolly-parton-whats-up-feat-linda-perry/
 spotify_data:
   followers: 2738
   id: 3hNlAaxTCaOlBJshaY7VIR
   popularity: 24
-  url: https://open.spotify.com/artist/3hNlAaxTCaOlBJshaY7VIR
+  url: 'https://open.spotify.com/artist/3hNlAaxTCaOlBJshaY7VIR'
 status: active
-title: Dolly Parton, Linda Perry
+title: Dolly Parton
+birth_date: '1946-01-19'
+artist_type: person
 ---
 
 ![](dolly_parton_linda_perry.jpg)

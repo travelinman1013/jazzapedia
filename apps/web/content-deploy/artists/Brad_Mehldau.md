@@ -6,29 +6,29 @@ status: active
 birth_name: Bradford Alexander Mehldau
 aliases: []
 birth_date: '1970-08-23'
-birth_place: Jacksonville, Florida, United States
+birth_place: 'Jacksonville, Florida, United States'
 years_active: Late 1980s–present
 genres:
-- jazz
+  - jazz
 instruments:
-- piano
-- keyboard instrument
+  - piano
+  - keyboard instrument
 occupation:
-- jazz pianist
-- composer
-- music arranger
-- recording artist
+  - jazz pianist
+  - composer
+  - music arranger
+  - recording artist
 record_labels:
-- Warner Bros. Records
+  - Warner Bros. Records
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Brad_Mehldau.jpg
   caption: Brad Mehldau
   background: non_vocal_instrumentalist
   birth_name: Bradford Alexander Mehldau
   born: '1970-08-23'
-  origin: Jacksonville, Florida, United States
+  origin: 'Jacksonville, Florida, United States'
 audio_profile:
-  tempo_avg: 107.0
+  tempo_avg: 107
   energy_avg: 0.29
   valence_avg: 0.299
   danceability_avg: 0.444
@@ -42,66 +42,69 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Joshua Redman
-  - Larry Grenadier
-  - Jorge Rossy
-  - Jeff Ballard
-  - Pat Metheny
-  - Mark Guiliana
-  - Chris Thile
-  - Renée Fleming
-  - Anne Sofie von Otter
-  - Ian Bostridge
+    - Joshua Redman
+    - Larry Grenadier
+    - Jorge Rossy
+    - Jeff Ballard
+    - Pat Metheny
+    - Mark Guiliana
+    - Chris Thile
+    - Renée Fleming
+    - Anne Sofie von Otter
+    - Ian Bostridge
   influenced:
-  - Robert Glasper
-  - Vijay Iyer
-  - Aaron Parks
+    - Robert Glasper
+    - Vijay Iyer
+    - Aaron Parks
   mentors:
-  - Junior Mance
-  - Fred Hersch
-  - Kenny Werner
-  - Keith Jarrett
-  - Wynton Kelly
-  - McCoy Tyner
+    - Junior Mance
+    - Fred Hersch
+    - Kenny Werner
+    - Keith Jarrett
+    - Wynton Kelly
+    - McCoy Tyner
 related_artists: []
 spotify_data:
   followers: 248420
   id: 2vI9KFm0fwSfPrpEgOeIbq
   popularity: 53
-  url: https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq
+  url: 'https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq'
   verified: false
 discography_enriched: true
 albums_count: 38
 singles_count: 9
 top_tracks:
-- Blackbird (The Art of the Trio, Vol. 1)
-- 'Exit Music (Songs: The Art of the Trio, Vol. 3)'
-- Alfie (Day Is Done)
-- I Fall in Love Too Easily (The Art of the Trio, Vol. 1)
-- When It Rains (Largo)
-- Paranoid Android I (Mon chien Stupide (Bande originale du film))
-- Between the Bars
-- 'Your Mother Should Know (Your Mother Should Know: Brad Mehldau Plays The Beatles)'
-- Tabhair dom do Lámh (Chris Thile & Brad Mehldau)
-- Blame It on My Youth (The Art of the Trio, Vol. 1)
+  - 'Blackbird (The Art of the Trio, Vol. 1)'
+  - 'Exit Music (Songs: The Art of the Trio, Vol. 3)'
+  - Alfie (Day Is Done)
+  - 'I Fall in Love Too Easily (The Art of the Trio, Vol. 1)'
+  - When It Rains (Largo)
+  - Paranoid Android I (Mon chien Stupide (Bande originale du film))
+  - Between the Bars
+  - >-
+    Your Mother Should Know (Your Mother Should Know: Brad Mehldau Plays The
+    Beatles)
+  - Tabhair dom do Lámh (Chris Thile & Brad Mehldau)
+  - 'Blame It on My Youth (The Art of the Trio, Vol. 1)'
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq
-  wikipedia: https://en.wikipedia.org/wiki/Brad_Mehldau
+  spotify: 'https://open.spotify.com/artist/2vI9KFm0fwSfPrpEgOeIbq'
+  wikipedia: 'https://en.wikipedia.org/wiki/Brad_Mehldau'
 image_path: 03_Resources/source_material/ArtistPortraits/Brad_Mehldau.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:09:07.575556'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Apple Music
-- Wikipedia
-- Britannica
+  - Apple Music
+  - Wikipedia
+  - Britannica
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 12:53:25.906460
+entry_created: 2025-09-18T12:53:25.906Z
 last_updated: '2025-12-23T08:16:01.327460'
-
+origin: 'New York City, New York, United States'
+artist_type: person
 ---
 
 ![](Brad_Mehldau.jpg)

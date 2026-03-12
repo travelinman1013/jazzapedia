@@ -4,8 +4,8 @@ wiki_slug: the-rolling-stones
 schema_version: 2
 status: active
 genres:
-- classic rock
-- rock
+  - classic rock
+  - rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_rolling_stones.jpg
   caption: The Rolling Stones
@@ -17,7 +17,7 @@ audio_profile:
   danceability_avg: 0.564
   acousticness_avg: 0.325
   instrumentalness_avg: 0.085
-  loudness_avg: -7.0
+  loudness_avg: -7
   speechiness_avg: 0.052
   liveness_avg: 0.192
   track_count: 54
@@ -25,56 +25,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mick Jagger
-  - Keith Richards
-  - Brian Jones
-  - Bill Wyman
-  - Charlie Watts
-  - Ian Stewart
-  - Mick Taylor
-  - Ron Wood
+    - Mick Jagger
+    - Keith Richards
+    - Brian Jones
+    - Bill Wyman
+    - Charlie Watts
+    - Ian Stewart
+    - Mick Taylor
+    - Ron Wood
   influenced:
-  - The Beatles
-  - Many rock bands
+    - The Beatles
+    - Many rock bands
   mentors:
-  - Muddy Waters
-  - Chuck Berry
-  - Brian Jones
-  - Alexis Korner
+    - Muddy Waters
+    - Chuck Berry
+    - Brian Jones
+    - Alexis Korner
 spotify_data:
   followers: 15851849
   id: 22bE4uQ6baNwSHPVcDxLCe
   popularity: 79
-  url: https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe
+  url: 'https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe'
 discography_enriched: true
 top_tracks:
-- Paint It, Black (Aftermath)
-- Start Me Up - Remastered 2009 (Tattoo You (2009 Re-Mastered))
-- Gimme Shelter (Let It Bleed)
-- (I Can't Get No) Satisfaction - Mono Version (Out Of Our Heads)
-- Beast Of Burden - Remastered 1994 (Some Girls)
-- Miss You - Remastered (Some Girls)
-- Angie - Remastered 2009 (Goats Head Soup (Remastered 2009))
-- Sympathy For The Devil - 50th Anniversary Edition (Beggars Banquet (50th Anniversary Edition))
-- Wild Horses - 2009 Mix (Sticky Fingers (Remastered))
-- You Can't Always Get What You Want (Let It Bleed)
+  - 'Paint It, Black (Aftermath)'
+  - Start Me Up - Remastered 2009 (Tattoo You (2009 Re-Mastered))
+  - Gimme Shelter (Let It Bleed)
+  - (I Can't Get No) Satisfaction - Mono Version (Out Of Our Heads)
+  - Beast Of Burden - Remastered 1994 (Some Girls)
+  - Miss You - Remastered (Some Girls)
+  - Angie - Remastered 2009 (Goats Head Soup (Remastered 2009))
+  - >-
+    Sympathy For The Devil - 50th Anniversary Edition (Beggars Banquet (50th
+    Anniversary Edition))
+  - Wild Horses - 2009 Mix (Sticky Fingers (Remastered))
+  - You Can't Always Get What You Want (Let It Bleed)
 external_urls:
-  spotify: https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe
+  spotify: 'https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/the_rolling_stones.jpg
 biography_enhanced_at: '2025-12-12T12:14:08.896169'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.biography.com/musicians/rolling-stones-origins
-- https://www.britannica.com/topic/the-Rolling-Stones
-- https://www.edsullivan.com/artists/the-rolling-stones/
-- https://teachrock.org/people/rolling-stones/
-- https://thehistoryofrockandroll.net/the-rolling-stones/
+  - 'https://www.biography.com/musicians/rolling-stones-origins'
+  - 'https://www.britannica.com/topic/the-Rolling-Stones'
+  - 'https://www.edsullivan.com/artists/the-rolling-stones/'
+  - 'https://teachrock.org/people/rolling-stones/'
+  - 'https://thehistoryofrockandroll.net/the-rolling-stones/'
 network_extracted: true
 entry_created: '2025-12-12T12:14:08.896174'
 last_updated: '2025-12-23T08:16:17.116972'
-origin: London, England
+origin: 'London, England, United Kingdom'
+artist_type: band
 ---
 
 ![](the_rolling_stones.jpg)

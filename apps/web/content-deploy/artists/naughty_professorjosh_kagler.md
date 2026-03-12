@@ -1,35 +1,40 @@
 ---
 biography_enhanced_at: '2026-01-20T01:20:56.335237'
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-20T01:20:56.335243'
 external_urls:
-  spotify: https://open.spotify.com/artist/5oVhfa2J5GiPx2x0YTuJjI
+  spotify: 'https://open.spotify.com/artist/5oVhfa2J5GiPx2x0YTuJjI'
   wikipedia: ''
 genres:
-- jazz funk
+  - jazz funk
 image_path: 03_Resources/source_material/ArtistPortraits/naughty_professorjosh_kagler.jpg
 last_updated: '2026-01-20T01:20:56.335244'
 musical_connections:
   collaborators:
-  - Marcus King
-  - Tarriona 'Tank' Ball
-  - Maggie Koerner
+    - Marcus King
+    - Tarriona 'Tank' Ball
+    - Maggie Koerner
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://nopdnews.com/post/july-2025/nopd-arrests-teacher-on-multiple-child-exploitatio/
-- https://www.naughtyprofessormusic.com
-- https://www.audacy.com/wwl/news/local/new-orleans-teacher-arrested-for-rape-child-sex-trafficking
+  - >-
+    https://nopdnews.com/post/july-2025/nopd-arrests-teacher-on-multiple-child-exploitatio/
+  - 'https://www.naughtyprofessormusic.com'
+  - >-
+    https://www.audacy.com/wwl/news/local/new-orleans-teacher-arrested-for-rape-child-sex-trafficking
 spotify_data:
   followers: 13166
   id: 5oVhfa2J5GiPx2x0YTuJjI
   popularity: 29
-  url: https://open.spotify.com/artist/5oVhfa2J5GiPx2x0YTuJjI
+  url: 'https://open.spotify.com/artist/5oVhfa2J5GiPx2x0YTuJjI'
 status: active
 title: Naughty Professor/Josh Kagler
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1986-12-05'
+artist_type: person
 ---
 
 ![](naughty_professorjosh_kagler.jpg)

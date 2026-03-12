@@ -4,9 +4,9 @@ wiki_slug: wild-tchoupitoulas
 schema_version: 2
 status: active
 genres:
-- cajun
-- zydeco
-- native american music
+  - cajun
+  - zydeco
+  - native american music
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Wild_Tchoupitoulas.jpg
   caption: Wild Tchoupitoulas
@@ -26,47 +26,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Meters
-  - The Neville Brothers (Aaron, Art, Charles, Cyril Neville)
-  - Allen Toussaint
+    - The Meters
+    - 'The Neville Brothers (Aaron, Art, Charles, Cyril Neville)'
+    - Allen Toussaint
   influenced:
-  - The Neville Brothers
+    - The Neville Brothers
   mentors:
-  - The Wild Magnolias
+    - The Wild Magnolias
 spotify_data:
   followers: 12619
   id: 1WE9X6cq7c067LtIvikUKx
   popularity: 20
-  url: https://open.spotify.com/artist/1WE9X6cq7c067LtIvikUKx
+  url: 'https://open.spotify.com/artist/1WE9X6cq7c067LtIvikUKx'
 discography_enriched: true
 top_tracks:
-- Meet De Boys On The Battlefront (The Wild Tchoupitoulas)
-- We Outside (I Got Indian In My Family)
-- Brother John (The Wild Tchoupitoulas)
-- 'Hey Hey (Indians Comin'') (All Time Favorites: The Wild Tchoupitoulas)'
-- Hey Pocky A-Way (A Way) (The Wild Tchoupitoulas)
-- Hey Hey (Indian Comin) (The Wild Tchoupitoulas)
-- Big Chief Got A Golden Crown (The Wild Tchoupitoulas)
-- Indian Red (The Wild Tchoupitoulas)
-- 'Brother John (All Time Favorites: The Wild Tchoupitoulas)'
-- Hey Mama (Wild Tchoupitoulas) (The Wild Tchoupitoulas)
+  - Meet De Boys On The Battlefront (The Wild Tchoupitoulas)
+  - We Outside (I Got Indian In My Family)
+  - Brother John (The Wild Tchoupitoulas)
+  - 'Hey Hey (Indians Comin'') (All Time Favorites: The Wild Tchoupitoulas)'
+  - Hey Pocky A-Way (A Way) (The Wild Tchoupitoulas)
+  - Hey Hey (Indian Comin) (The Wild Tchoupitoulas)
+  - Big Chief Got A Golden Crown (The Wild Tchoupitoulas)
+  - Indian Red (The Wild Tchoupitoulas)
+  - 'Brother John (All Time Favorites: The Wild Tchoupitoulas)'
+  - Hey Mama (Wild Tchoupitoulas) (The Wild Tchoupitoulas)
 external_urls:
-  spotify: https://open.spotify.com/artist/1WE9X6cq7c067LtIvikUKx
-  wikipedia: https://en.wikipedia.org/wiki/The_Wild_Tchoupitoulas
+  spotify: 'https://open.spotify.com/artist/1WE9X6cq7c067LtIvikUKx'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Wild_Tchoupitoulas'
 image_path: 03_Resources/source_material/ArtistPortraits/Wild_Tchoupitoulas.jpg
 biography_enhanced_at: '2025-10-20T10:18:23.997256'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Wild_Tchoupitoulas
-- https://www.loc.gov/static/programs/national-recording-preservation-board/documents/WildTchoupitoulas.pdf
-- https://musicrising.tulane.edu/discover/people/the-wild-tchoupitoulas/
-- https://en.wikipedia.org/wiki/The_Wild_Tchoupitoulas_(album)
-- https://www.last.fm/music/The+Wild+Tchoupitoulas/+wiki
+  - 'https://en.wikipedia.org/wiki/The_Wild_Tchoupitoulas'
+  - >-
+    https://www.loc.gov/static/programs/national-recording-preservation-board/documents/WildTchoupitoulas.pdf
+  - 'https://musicrising.tulane.edu/discover/people/the-wild-tchoupitoulas/'
+  - 'https://en.wikipedia.org/wiki/The_Wild_Tchoupitoulas_(album)'
+  - 'https://www.last.fm/music/The+Wild+Tchoupitoulas/+wiki'
 network_extracted: true
 entry_created: '2025-10-20T10:18:23.997268'
 last_updated: '2025-12-23T08:16:04.286501'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![](Wild_Tchoupitoulas.jpg)

@@ -1,5 +1,5 @@
 ---
-title: the enchanters
+title: The Enchanters
 wiki_slug: the-enchanters
 schema_version: 2
 status: active
@@ -23,44 +23,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Garnet Mimms
-  - Charles Boyer
+    - Garnet Mimms
+    - Charles Boyer
   influenced: []
   mentors: []
 spotify_data:
   followers: 734
   id: 1jIEuh0p5MfwmNR1PWRT6Z
   popularity: 28
-  url: https://open.spotify.com/artist/1jIEuh0p5MfwmNR1PWRT6Z
+  url: 'https://open.spotify.com/artist/1jIEuh0p5MfwmNR1PWRT6Z'
 discography_enriched: true
 top_tracks:
-- Mambo Santa Mambo (Rockin' Little Christmas)
-- I Should Be Loving You (Soul Power, Vol. 3)
-- I Wanna Thank You (Best of Loma Records-Rise and Fall of a 1960's Soul Label)
-- I Paid for the Party (Best of Loma Records-Rise and Fall of a 1960's Soul Label)
-- 'I Should Be Loving You (Laugh Now, Cry Later: Chicano Lowrider Oldies 1959-1973)'
-- I Want to Be Loved (Best of Loma Records-Rise and Fall of a 1960's Soul Label)
-- I Wanna Thank You
-- I Should Be Loving You
-- Cafe Bohemian (Jungle Exotica, Vol. 1)
-- 'I Want to Be Loved (Doo Wop: Coast to Coast)'
+  - Mambo Santa Mambo (Rockin' Little Christmas)
+  - 'I Should Be Loving You (Soul Power, Vol. 3)'
+  - >-
+    I Wanna Thank You (Best of Loma Records-Rise and Fall of a 1960's Soul
+    Label)
+  - >-
+    I Paid for the Party (Best of Loma Records-Rise and Fall of a 1960's Soul
+    Label)
+  - >-
+    I Should Be Loving You (Laugh Now, Cry Later: Chicano Lowrider Oldies
+    1959-1973)
+  - >-
+    I Want to Be Loved (Best of Loma Records-Rise and Fall of a 1960's Soul
+    Label)
+  - I Wanna Thank You
+  - I Should Be Loving You
+  - 'Cafe Bohemian (Jungle Exotica, Vol. 1)'
+  - 'I Want to Be Loved (Doo Wop: Coast to Coast)'
 external_urls:
-  spotify: https://open.spotify.com/artist/1jIEuh0p5MfwmNR1PWRT6Z
-  wikipedia: https://en.wikipedia.org/wiki/Enchanters
+  spotify: 'https://open.spotify.com/artist/1jIEuh0p5MfwmNR1PWRT6Z'
+  wikipedia: 'https://en.wikipedia.org/wiki/Enchanters'
 image_path: 03_Resources/source_material/ArtistPortraits/the_enchanters.jpg
 biography_enhanced_at: '2025-12-19T01:52:36.821886'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.allmusic.com/artist/the-enchanters-mn0000785890[4]
-- https://www.iheart.com/artist/the-enchanters-954077/[3]
-- https://en.wikipedia.org/wiki/Enchanters[7]
-- https://garagehangover.com/enchantersiv/[1]
-- https://www.bear-family.com/enchanters/[2]
+  - 'https://www.allmusic.com/artist/the-enchanters-mn0000785890[4]'
+  - 'https://www.iheart.com/artist/the-enchanters-954077/[3]'
+  - 'https://en.wikipedia.org/wiki/Enchanters[7]'
+  - 'https://garagehangover.com/enchantersiv/[1]'
+  - 'https://www.bear-family.com/enchanters/[2]'
 network_extracted: true
 entry_created: '2025-12-19T01:52:36.821900'
 last_updated: '2025-12-23T08:16:16.751914'
-origin: Philadelphia, PA, USA
+origin: 'Philadelphia, PA, USA'
+artist_type: band
 ---
 
 ![](the_enchanters.jpg)

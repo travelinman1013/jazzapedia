@@ -4,10 +4,10 @@ wiki_slug: jeff-lorber-fusion
 schema_version: 2
 status: active
 genres:
-- jazz fusion
-- smooth jazz
-- jazz funk
-- jazz
+  - jazz fusion
+  - smooth jazz
+  - jazz funk
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jeff_lorber_fusion.jpg
   caption: Jeff Lorber Fusion
@@ -27,54 +27,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jimmy Haslip
-  - Eric Marienthal
-  - Jean-Luc Ponty
-  - Vinnie Colaiuta
-  - Dave Weckl
-  - Everette Harp
-  - Paul Jackson Jr.
+    - Jimmy Haslip
+    - Eric Marienthal
+    - Jean-Luc Ponty
+    - Vinnie Colaiuta
+    - Dave Weckl
+    - Everette Harp
+    - Paul Jackson Jr.
   influenced:
-  - Kenny G
-  - Smooth jazz artists
+    - Kenny G
+    - Smooth jazz artists
   mentors:
-  - Madame Margaret Chaloff
-  - Herbie Hancock
-  - Chick Corea
+    - Madame Margaret Chaloff
+    - Herbie Hancock
+    - Chick Corea
 spotify_data:
   followers: 25051
   id: 5cpKvYFZXiVsN7FRLoNlm1
   popularity: 34
-  url: https://open.spotify.com/artist/5cpKvYFZXiVsN7FRLoNlm1
+  url: 'https://open.spotify.com/artist/5cpKvYFZXiVsN7FRLoNlm1'
 discography_enriched: true
 top_tracks:
-- Hang Tight (The Drop)
-- Sun Princess (Space-Time)
-- Righteous (Eleven)
-- Night Love (Galaxian)
-- Pixel (Now Is The Time)
-- Back Room (Space-Time)
-- Rain Dance/Wanna Fly (Now Is The Time)
-- Quest (Impact)
-- Sugar Free (Now Is The Time)
-- Black Ice (Now Is The Time)
+  - Hang Tight (The Drop)
+  - Sun Princess (Space-Time)
+  - Righteous (Eleven)
+  - Night Love (Galaxian)
+  - Pixel (Now Is The Time)
+  - Back Room (Space-Time)
+  - Rain Dance/Wanna Fly (Now Is The Time)
+  - Quest (Impact)
+  - Sugar Free (Now Is The Time)
+  - Black Ice (Now Is The Time)
 external_urls:
-  spotify: https://open.spotify.com/artist/5cpKvYFZXiVsN7FRLoNlm1
-  wikipedia: https://en.wikipedia.org/wiki/Jeff_Lorber
+  spotify: 'https://open.spotify.com/artist/5cpKvYFZXiVsN7FRLoNlm1'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jeff_Lorber'
 image_path: 03_Resources/source_material/ArtistPortraits/jeff_lorber_fusion.jpg
 biography_enhanced_at: '2025-11-02T07:38:20.464763'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.mymusicmasterclass.com/artist/artists/jeff-lorber/
-- https://www.ijazzmusic.com/pages/jeff-lorber
-- https://concord.com/artist/jeff-lorber-fusion/
-- https://en.wikipedia.org/wiki/Jeff_Lorber
-- https://www.allmusic.com/artist/jeff-lorber-mn0000190888
+  - 'https://www.mymusicmasterclass.com/artist/artists/jeff-lorber/'
+  - 'https://www.ijazzmusic.com/pages/jeff-lorber'
+  - 'https://concord.com/artist/jeff-lorber-fusion/'
+  - 'https://en.wikipedia.org/wiki/Jeff_Lorber'
+  - 'https://www.allmusic.com/artist/jeff-lorber-mn0000190888'
 network_extracted: true
 entry_created: '2025-11-02T07:38:20.464773'
 last_updated: '2025-12-23T08:16:10.305059'
-origin: Portland, Oregon, United States
+origin: 'Portland, Oregon, United States'
+birth_place: 'Philadelphia, Pennsylvania, United States'
+birth_date: '1952'
+artist_type: band
 ---
 
 ![](jeff_lorber_fusion.jpg)

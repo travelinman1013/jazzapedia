@@ -3,14 +3,14 @@ title: Lloyd Miller
 wiki_slug: lloyd-miller
 schema_version: 2
 status: active
-birth_place: Glendale, California, United States
+birth_place: 'Glendale, California, United States'
 genres:
-- singer-songwriter
+  - singer-songwriter
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lloyd_miller.jpg
   caption: Lloyd Miller
   background: solo_singer
-  origin: Glendale, California, United States
+  origin: 'Glendale, California, United States'
 audio_profile:
   tempo_avg: 128.3
   energy_avg: 0.694
@@ -26,47 +26,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jef Gilson
-  - Henri Texier
-  - Tony Scott
-  - Romano Mussolini
-  - The Heliocentrics
-  - Malcolm Catto and Jake Ferguson
+    - Jef Gilson
+    - Henri Texier
+    - Tony Scott
+    - Romano Mussolini
+    - The Heliocentrics
+    - Malcolm Catto and Jake Ferguson
   influenced:
-  - Theo Parrish
+    - Theo Parrish
   mentors:
-  - Jef Gilson
+    - Jef Gilson
 spotify_data:
   followers: 26
   id: 4EWuktc939XazwkdggbZPw
   popularity: 1
-  url: https://open.spotify.com/artist/4EWuktc939XazwkdggbZPw
+  url: 'https://open.spotify.com/artist/4EWuktc939XazwkdggbZPw'
 discography_enriched: true
 top_tracks:
-- Thanks Be To God (Thanks Be To God)
-- Ave Maria (My Alma Latina)
-- If its Only for One Night (My Alma Latina)
-- Samba with Me tonight (My Alma Latina)
-- My Provider (My Provider)
-- Sometimes Love Is (Sometimes Love Is)
-- Six Hours (Six Hours)
-- Unfailing Love (Unfailing Love)
-- Running Away (Light Keeps Shining)
-- Light Keeps Shining (Light Keeps Shining)
+  - Thanks Be To God (Thanks Be To God)
+  - Ave Maria (My Alma Latina)
+  - If its Only for One Night (My Alma Latina)
+  - Samba with Me tonight (My Alma Latina)
+  - My Provider (My Provider)
+  - Sometimes Love Is (Sometimes Love Is)
+  - Six Hours (Six Hours)
+  - Unfailing Love (Unfailing Love)
+  - Running Away (Light Keeps Shining)
+  - Light Keeps Shining (Light Keeps Shining)
 external_urls:
-  spotify: https://open.spotify.com/artist/4EWuktc939XazwkdggbZPw
+  spotify: 'https://open.spotify.com/artist/4EWuktc939XazwkdggbZPw'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/lloyd_miller.jpg
 biography_enhanced_at: '2025-11-20T07:03:02.982093'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.nowagainrecords.com/lloyd-miller-1938-2024/
-- https://music.apple.com/za/artist/lloyd-miller/274480782
-- https://austinmusiclove.com/artist/lloyd-miller/
+  - 'https://www.nowagainrecords.com/lloyd-miller-1938-2024/'
+  - 'https://music.apple.com/za/artist/lloyd-miller/274480782'
+  - 'https://austinmusiclove.com/artist/lloyd-miller/'
 network_extracted: true
 entry_created: '2025-11-20T07:03:02.982105'
 last_updated: '2025-12-23T08:16:12.066645'
+birth_date: '1938'
+death_date: '2024-12-27'
+artist_type: person
 ---
 
 ![](lloyd_miller.jpg)

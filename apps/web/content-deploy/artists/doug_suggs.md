@@ -1,16 +1,16 @@
 ---
-title: DOUG SUGGS
+title: Doug Suggs
 wiki_slug: doug-suggs
 schema_version: 2
 status: active
-birth_place: St. Louis, Missouri, United States
+birth_place: 'St. Louis, Missouri, United States'
 genres:
-- boogie-woogie
+  - boogie-woogie
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/doug_suggs.jpg
   caption: DOUG SUGGS
   background: solo_singer
-  origin: St. Louis, Missouri, United States
+  origin: 'St. Louis, Missouri, United States'
 audio_profile:
   tempo_avg: 112.9
   energy_avg: 0.34
@@ -32,35 +32,37 @@ spotify_data:
   followers: 24
   id: 7hfFFsZfHzSVRSPEtkKq87
   popularity: 0
-  url: https://open.spotify.com/artist/7hfFFsZfHzSVRSPEtkKq87
+  url: 'https://open.spotify.com/artist/7hfFFsZfHzSVRSPEtkKq87'
 discography_enriched: true
 top_tracks:
-- Doug's Jump (Piano Blues Vol. 2 1927-1956)
-- Sweet Patootie (Piano Blues Vol. 2 1927-1956)
-- Doug's Jump - Doug Suggs (Primitive Piano)
-- Sweet Patootie - Doug Suggs (Primitive Piano)
-- Smoke Like Lightning - Doug Suggs (Primitive Piano)
-- Slow and Low - Doug Suggs (Primitive Piano)
-- Sweet Patootie (Sweet Patootie)
-- Doug's Jump (Sweet Patootie)
+  - Doug's Jump (Piano Blues Vol. 2 1927-1956)
+  - Sweet Patootie (Piano Blues Vol. 2 1927-1956)
+  - Doug's Jump - Doug Suggs (Primitive Piano)
+  - Sweet Patootie - Doug Suggs (Primitive Piano)
+  - Smoke Like Lightning - Doug Suggs (Primitive Piano)
+  - Slow and Low - Doug Suggs (Primitive Piano)
+  - Sweet Patootie (Sweet Patootie)
+  - Doug's Jump (Sweet Patootie)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/be8c4442-1119-45ed-b5a4-04ad1adbf54b
-  spotify: https://open.spotify.com/artist/7hfFFsZfHzSVRSPEtkKq87
+  musicbrainz: 'https://musicbrainz.org/artist/be8c4442-1119-45ed-b5a4-04ad1adbf54b'
+  spotify: 'https://open.spotify.com/artist/7hfFFsZfHzSVRSPEtkKq87'
   wikipedia: Not found
 image_path: 03_Resources/source_material/ArtistPortraits/doug_suggs.jpg
 biography_enhanced_at: '2025-12-04T07:53:08.800180'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- PianoBluesReview.com - Doug Suggs biography
-- Last.fm - Doug Suggs music profile
-- Bman's Blues Report - Sweet Patootie review
-- AllMusic - Doug Suggs discography
+  - PianoBluesReview.com - Doug Suggs biography
+  - Last.fm - Doug Suggs music profile
+  - Bman's Blues Report - Sweet Patootie review
+  - AllMusic - Doug Suggs discography
 network_extracted: true
 entry_created: '2025-12-04T07:53:08.800187'
 last_updated: '2025-12-23T08:16:07.997232'
 musicbrainz_id: be8c4442-1119-45ed-b5a4-04ad1adbf54b
-
+origin: 'St. Louis, Missouri, United States'
+birth_date: '1894-12-03'
+artist_type: person
 ---
 
 ![](doug_suggs.jpg)

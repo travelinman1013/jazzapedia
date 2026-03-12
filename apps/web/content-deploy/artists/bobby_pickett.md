@@ -3,13 +3,13 @@ title: Bobby Pickett
 wiki_slug: bobby-pickett
 schema_version: 2
 status: active
-birth_place: Somerville, Massachusetts, United States
+birth_place: 'Somerville, Massachusetts, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bobby_pickett.jpg
   caption: Bobby Pickett
   background: solo_singer
-  origin: Somerville, Massachusetts, United States
+  origin: 'Somerville, Massachusetts, United States'
 audio_profile:
   tempo_avg: 101.5
   energy_avg: 0.606
@@ -25,45 +25,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Leonard Capizzi
-  - Gary S. Paxton
-  - Leon Russell
-  - Mel Taylor
+    - Leonard Capizzi
+    - Gary S. Paxton
+    - Leon Russell
+    - Mel Taylor
   influenced:
-  - Numerous novelty and Halloween-themed artists
+    - Numerous novelty and Halloween-themed artists
   mentors:
-  - Boris Karloff
+    - Boris Karloff
 spotify_data:
   followers: 34049
   id: 42MRYPhQfcEXqb18dl5ERX
   popularity: 58
-  url: https://open.spotify.com/artist/42MRYPhQfcEXqb18dl5ERX
+  url: 'https://open.spotify.com/artist/42MRYPhQfcEXqb18dl5ERX'
 discography_enriched: true
 top_tracks:
-- Monster Mash (The Original Monster Mash)
-- Monster Mash (Monster Mash)
-- Monster Mash
-- Sinister Stomp (The Original Monster Mash)
-- Skully Gully (The Original Monster Mash)
-- Transylvania Twist (The Original Monster Mash)
-- Monster Mash - Cats ‘n Bats Version (Monster Mash (Cats 'n Bats Version))
-- Monster Mash
-- Monster Mash - Monster Chase Version (Monster Mash (Monster Party Spoooky Versions))
-- Monster Rap (Radio Edit) (Monster Rap)
+  - Monster Mash (The Original Monster Mash)
+  - Monster Mash (Monster Mash)
+  - Monster Mash
+  - Sinister Stomp (The Original Monster Mash)
+  - Skully Gully (The Original Monster Mash)
+  - Transylvania Twist (The Original Monster Mash)
+  - Monster Mash - Cats ‘n Bats Version (Monster Mash (Cats 'n Bats Version))
+  - Monster Mash
+  - >-
+    Monster Mash - Monster Chase Version (Monster Mash (Monster Party Spoooky
+    Versions))
+  - Monster Rap (Radio Edit) (Monster Rap)
 external_urls:
-  spotify: https://open.spotify.com/artist/42MRYPhQfcEXqb18dl5ERX
-  wikipedia: https://en.wikipedia.org/wiki/Bobby_Pickett
+  spotify: 'https://open.spotify.com/artist/42MRYPhQfcEXqb18dl5ERX'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bobby_Pickett'
 image_path: 03_Resources/source_material/ArtistPortraits/bobby_pickett.jpg
 biography_enhanced_at: '2025-10-26T12:25:26.844845'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Bobby_Pickett
-- https://performingsongwriter.com/monster-mash/
-- https://www.mentalfloss.com/article/86685/graveyard-smash-bobby-pickett-man-behind-monster-mash
+  - 'https://en.wikipedia.org/wiki/Bobby_Pickett'
+  - 'https://performingsongwriter.com/monster-mash/'
+  - >-
+    https://www.mentalfloss.com/article/86685/graveyard-smash-bobby-pickett-man-behind-monster-mash
 network_extracted: true
 entry_created: '2025-10-26T12:25:26.844854'
 last_updated: '2025-12-23T08:16:05.868190'
+birth_date: '1938-02-11'
+death_date: '2007-04-25'
+artist_type: person
 ---
 
 ![](bobby_pickett.jpg)

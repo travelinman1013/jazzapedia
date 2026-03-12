@@ -4,13 +4,13 @@ wiki_slug: naked-orchestra
 schema_version: 2
 status: active
 genres:
-- funky house
+  - funky house
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/naked_orchestra.jpg
   caption: Naked Orchestra
   background: solo_singer
 audio_profile:
-  tempo_avg: 120.0
+  tempo_avg: 120
   energy_avg: 0.861
   valence_avg: 0.474
   danceability_avg: 0.7
@@ -30,26 +30,31 @@ spotify_data:
   followers: 1
   id: 7Ewi3RGGPirltkO3lxhxpY
   popularity: 0
-  url: https://open.spotify.com/artist/7Ewi3RGGPirltkO3lxhxpY
+  url: 'https://open.spotify.com/artist/7Ewi3RGGPirltkO3lxhxpY'
 discography_enriched: true
 top_tracks:
-- 'The Music (12" Mix) (100 Anthems: Ibiza)'
-- The Music (100 ANTHEMS FUNKY HOUSE)
-- The Music (Mastercuts Disco House Digital)
+  - 'The Music (12" Mix) (100 Anthems: Ibiza)'
+  - The Music (100 ANTHEMS FUNKY HOUSE)
+  - The Music (Mastercuts Disco House Digital)
 external_urls:
-  spotify: https://open.spotify.com/artist/7Ewi3RGGPirltkO3lxhxpY
+  spotify: 'https://open.spotify.com/artist/7Ewi3RGGPirltkO3lxhxpY'
   wikipedia: ''
 image_path: ''
 biography_enhanced_at: '2025-12-05T05:59:09.888885'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- 'Spotify artist metadata for ''Naked Orchestra'' (genre: funky house, popularity: 0, as provided in the prompt)'
-- Biographical and ensemble information for Jonathan Freilich’s New Orleans project 'The Naked Orchestra', confirming it is
-  a separate, experimental large ensemble and not a funky-house act.[3][5][7]
+  - >-
+    Spotify artist metadata for 'Naked Orchestra' (genre: funky house,
+    popularity: 0, as provided in the prompt)
+  - >-
+    Biographical and ensemble information for Jonathan Freilich’s New Orleans
+    project 'The Naked Orchestra', confirming it is a separate, experimental
+    large ensemble and not a funky-house act.[3][5][7]
 network_extracted: true
 entry_created: '2025-12-05T05:59:09.888904'
 last_updated: '2025-12-23T08:16:13.401979'
+artist_type: band
 ---
 
 ![]()

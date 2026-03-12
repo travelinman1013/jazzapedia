@@ -5,10 +5,10 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1993-07-02'
-birth_place: Long Beach
+birth_place: 'Long Beach, California, United States'
 genres: []
 instruments:
-- lead vocals
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/vince_staples.jpg
   caption: Vince Staples
@@ -30,56 +30,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Earl Sweatshirt
-  - Mac Miller
-  - Mike G
-  - Syd tha Kyd
-  - Aston Matthews
-  - Joey Fatts
+    - Earl Sweatshirt
+    - Mac Miller
+    - Mike G
+    - Syd tha Kyd
+    - Aston Matthews
+    - Joey Fatts
   influenced: []
   mentors:
-  - Dijon 'LaVish' Samo
-  - Chuck Wun
-  - Andrew Hutchins (Grandfather)
+    - Dijon 'LaVish' Samo
+    - Chuck Wun
+    - Andrew Hutchins (Grandfather)
 spotify_data:
   followers: 2036533
   id: 68kEuyFKyqrdQQLLsmiatm
   popularity: 66
-  url: https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm
+  url: 'https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm'
 discography_enriched: true
 top_tracks:
-- Nothing Burns Like The Cold (FEELS)
-- Norf Norf
-- '&burn (with Vince Staples)'
-- Black&Blue (Dark Times)
-- Ascension (feat. Vince Staples) (Humanz (Deluxe))
-- 'STUNTMAN (feat. Vince Staples) (CALL ME IF YOU GET LOST: The Estate Sale)'
-- 6 Five Heartbeats (feat. Vince Staples)
-- Étouffée (Dark Times)
-- Little Homies (Dark Times)
-- ARE YOU WITH THAT?
+  - Nothing Burns Like The Cold (FEELS)
+  - Norf Norf
+  - '&burn (with Vince Staples)'
+  - Black&Blue (Dark Times)
+  - Ascension (feat. Vince Staples) (Humanz (Deluxe))
+  - 'STUNTMAN (feat. Vince Staples) (CALL ME IF YOU GET LOST: The Estate Sale)'
+  - 6 Five Heartbeats (feat. Vince Staples)
+  - Étouffée (Dark Times)
+  - Little Homies (Dark Times)
+  - ARE YOU WITH THAT?
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/78e854b8-9713-4ff2-9218-6b3784893bff
-  spotify: https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm
-  wikipedia: https://en.wikipedia.org/wiki/Vince_Staples
+  musicbrainz: 'https://musicbrainz.org/artist/78e854b8-9713-4ff2-9218-6b3784893bff'
+  spotify: 'https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm'
+  wikipedia: 'https://en.wikipedia.org/wiki/Vince_Staples'
 image_path: 03_Resources/source_material/ArtistPortraits/vince_staples.jpg
 biography_enhanced_at: '2025-11-28T07:28:15.673236'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://kids.kiddle.co/Vince_Staples
-- https://en.wikipedia.org/wiki/Vince_Staples
-- https://story.californiasunday.com/vince-staples
-- https://www.last.fm/music/Vince+Staples/+wiki
-- https://www.imdb.com/name/nm6770906/
+  - 'https://kids.kiddle.co/Vince_Staples'
+  - 'https://en.wikipedia.org/wiki/Vince_Staples'
+  - 'https://story.californiasunday.com/vince-staples'
+  - 'https://www.last.fm/music/Vince+Staples/+wiki'
+  - 'https://www.imdb.com/name/nm6770906/'
 network_extracted: true
 entry_created: '2025-11-28T07:28:15.673253'
 last_updated: '2025-12-23T08:16:17.916502'
 gender: Male
 musicbrainz_id: 78e854b8-9713-4ff2-9218-6b3784893bff
 tags:
-- hip hop
-- west coast hip hop
+  - hip hop
+  - west coast hip hop
+origin: 'Compton, California, United States'
 ---
 
 ![](vince_staples.jpg)

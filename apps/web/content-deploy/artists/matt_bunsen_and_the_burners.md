@@ -3,36 +3,38 @@ biography_enhanced_at: '2025-12-27T01:31:27.952171'
 enhancement_provider: perplexity
 entry_created: '2025-12-27T01:31:27.952182'
 external_urls:
-  spotify: https://open.spotify.com/artist/3rp0zUTuXiugitlqIbIy9d
+  spotify: 'https://open.spotify.com/artist/3rp0zUTuXiugitlqIbIy9d'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/matt_bunsen_and_the_burners.jpg
 last_updated: '2025-12-27T01:31:27.952184'
 musical_connections:
   collaborators:
-  - Chris Cote
-  - Matt Lomeo
-  - Craig Macintyre
+    - Chris Cote
+    - Matt Lomeo
+    - Craig Macintyre
   influenced: []
   mentors: []
 network_extracted: true
-origin: Los Angeles, California, USA
+origin: 'Los Angeles, California, USA'
 primary_source: perplexity
 research_sources:
-- https://www.mattbunsen.com
-- https://www.mattbunsen.com/video/
-- https://mattlomeo.com/story
-- https://artsfuse.org/67131/fuse-rock-feature-burnin-one-down-with-matt-bunsen/
-- https://www.mattbunsen.com/about/
-- https://musiflo.com/2023/10/20/matt-bunsens-fourth-album-i-am-consumed/
-- https://voyagela.com/interview/check-out-matt-bunsens-story/
+  - 'https://www.mattbunsen.com'
+  - 'https://www.mattbunsen.com/video/'
+  - 'https://mattlomeo.com/story'
+  - >-
+    https://artsfuse.org/67131/fuse-rock-feature-burnin-one-down-with-matt-bunsen/
+  - 'https://www.mattbunsen.com/about/'
+  - 'https://musiflo.com/2023/10/20/matt-bunsens-fourth-album-i-am-consumed/'
+  - 'https://voyagela.com/interview/check-out-matt-bunsens-story/'
 spotify_data:
   followers: 35
   id: 3rp0zUTuXiugitlqIbIy9d
   popularity: 0
-  url: https://open.spotify.com/artist/3rp0zUTuXiugitlqIbIy9d
+  url: 'https://open.spotify.com/artist/3rp0zUTuXiugitlqIbIy9d'
 status: active
-title: matt bunsen & the burners
+title: Matt Bunsen & the Burners
+artist_type: band
 ---
 
 ![](matt_bunsen_and_the_burners.jpg)

@@ -4,24 +4,24 @@ wiki_slug: ruthie-foster
 schema_version: 2
 status: active
 aliases: []
-birth_date: '1964-01-01'
-birth_place: Gause, Texas, USA
+birth_date: '1964-02-10'
+birth_place: 'Gause, Texas, United States'
 years_active: 1997–present
 genres:
-- blues
-- modern blues
+  - blues
+  - modern blues
 instruments:
-- guitar
-- voice
+  - guitar
+  - voice
 occupation:
-- musician
-- guitarist
+  - musician
+  - guitarist
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Ruthie_Foster.jpg
   caption: Ruthie Foster
   background: solo_singer
   born: '1964-01-01'
-  origin: Gause, Texas, USA
+  origin: 'Gause, Texas, USA'
 audio_profile:
   tempo_avg: 115.4
   energy_avg: 0.613
@@ -37,53 +37,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Blind Boys of Alabama
-  - William Bell
-  - Funky Meters
+    - Blind Boys of Alabama
+    - William Bell
+    - Funky Meters
   influenced:
-  - None documented
+    - None documented
   mentors:
-  - Mavis Staples
-  - Aretha Franklin
-  - Grandmother
+    - Mavis Staples
+    - Aretha Franklin
+    - Grandmother
 related_artists: []
 spotify_data:
   followers: 34446
   id: 2lL4ckeM1A2Qo2Fe64dP0F
   popularity: 38
-  url: https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F
+  url: 'https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F'
   verified: false
 discography_enriched: true
 albums_count: 14
 singles_count: 13
 top_tracks:
-- Grinning In Your Face (The Cuban Tapes)
-- Mileage (Mileage)
-- Singing the Blues (Promise of a Brand New Day)
-- That's All Right
-- Done (Mileage)
-- Wrapped Around My Heart (Cotton Mouth Man)
-- What Are You Listening To? (Joy Comes Back)
-- That's All Right (Mileage)
-- Lord Remember Me (Let It Burn)
-- Singing The Blues (Promise of a Brand New Day)
+  - Grinning In Your Face (The Cuban Tapes)
+  - Mileage (Mileage)
+  - Singing the Blues (Promise of a Brand New Day)
+  - That's All Right
+  - Done (Mileage)
+  - Wrapped Around My Heart (Cotton Mouth Man)
+  - What Are You Listening To? (Joy Comes Back)
+  - That's All Right (Mileage)
+  - Lord Remember Me (Let It Burn)
+  - Singing The Blues (Promise of a Brand New Day)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F
-  wikipedia: https://en.wikipedia.org/wiki/Ruthie_Foster
+  spotify: 'https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ruthie_Foster'
 image_path: 03_Resources/source_material/ArtistPortraits/Ruthie_Foster.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:41:34.012087'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Ruthie_Foster
-- https://www.ecspublishing.com/composers/f/ruthie-foster.html
-- https://coltranejazzfest.com/ruthie-foster/
+  - 'https://en.wikipedia.org/wiki/Ruthie_Foster'
+  - 'https://www.ecspublishing.com/composers/f/ruthie-foster.html'
+  - 'https://coltranejazzfest.com/ruthie-foster/'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 12:58:31.947490
+entry_created: 2025-09-18T12:58:31.947Z
 last_updated: '2025-12-23T08:16:03.768005'
+origin: 'Texas, United States'
+artist_type: person
 ---
 
 ![](Ruthie_Foster.jpg)

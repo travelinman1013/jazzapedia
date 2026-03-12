@@ -1,75 +1,77 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - piano
-  mbid: ad5636a9-6b74-4f9e-ae48-0f1188042943
-  name: Jacky Terrasson Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - piano
-  mbid: a1708f59-8a7a-4983-b67f-c1f63ac2a815
-  name: Jacky Terrasson Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - piano
+    mbid: ad5636a9-6b74-4f9e-ae48-0f1188042943
+    name: Jacky Terrasson Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - piano
+    mbid: a1708f59-8a7a-4983-b67f-c1f63ac2a815
+    name: Jacky Terrasson Trio
 biography_enhanced_at: '2026-01-16T01:42:15.192184'
 birth_date: '1965-11-27'
-birth_place: Berlin
+birth_place: 'Berlin, Germany'
 enhancement_provider: perplexity
 entry_created: '2026-01-16T01:42:15.192189'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/be3142ae-6538-45e0-8ed6-9df0751a0873
-  spotify: https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr
+  musicbrainz: 'https://musicbrainz.org/artist/be3142ae-6538-45e0-8ed6-9df0751a0873'
+  spotify: 'https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr'
   wikipedia: Not found in search results
 gender: Male
 genres:
-- jazz
-- french jazz
-- jazz ballads
+  - jazz
+  - french jazz
+  - jazz ballads
 image_path: 03_Resources/source_material/ArtistPortraits/jacky_terrasson.jpg
 instruments:
-- eponymous
-- piano
-- electric piano
+  - eponymous
+  - piano
+  - electric piano
 last_updated: '2026-01-16T01:42:15.192190'
 musical_connections:
   collaborators:
-  - Ugonna Okegwo
-  - Leon Parker
-  - Stefon Harris
-  - Emmanuel Pahud
-  - Cassandra Wilson
-  - Michael Brecker
-  - Dianne Reeves
-  - Ray Brown
+    - Ugonna Okegwo
+    - Leon Parker
+    - Stefon Harris
+    - Emmanuel Pahud
+    - Cassandra Wilson
+    - Michael Brecker
+    - Dianne Reeves
+    - Ray Brown
   influenced: []
   mentors:
-  - Francis Paudras
-  - Ray Santisi
-  - Danilo Pérez
-  - Betty Carter
+    - Francis Paudras
+    - Ray Santisi
+    - Danilo Pérez
+    - Betty Carter
 musicbrainz_id: be3142ae-6538-45e0-8ed6-9df0751a0873
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.allaboutjazz.com/musicians/jacky-terrasson/
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/terrasson-jacky
-- https://renojazz.org/artists/terrasson_jacky.htm
-- https://www.bluenote.com/artist/jacky-terrasson/
-- https://www.jazzalley.com/www-home/artist.jsp?shownum=8725
-- https://naiverecords.com/jacky-terrasson
+  - 'https://www.allaboutjazz.com/musicians/jacky-terrasson/'
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/terrasson-jacky
+  - 'https://renojazz.org/artists/terrasson_jacky.htm'
+  - 'https://www.bluenote.com/artist/jacky-terrasson/'
+  - 'https://www.jazzalley.com/www-home/artist.jsp?shownum=8725'
+  - 'https://naiverecords.com/jacky-terrasson'
 spotify_data:
   followers: 30824
   id: 2I5A4xP3QGJEDKGhhXMAVr
   popularity: 43
-  url: https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr
+  url: 'https://open.spotify.com/artist/2I5A4xP3QGJEDKGhhXMAVr'
 status: active
 tags:
-- jazz
+  - jazz
 title: Jacky Terrasson
+origin: 'Paris, France'
 ---
 
 ![](jacky_terrasson.jpg)

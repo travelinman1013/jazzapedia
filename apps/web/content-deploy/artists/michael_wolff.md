@@ -3,14 +3,18 @@ title: Michael Wolff
 wiki_slug: michael-wolff
 schema_version: 2
 status: active
-birth_place: Victorville, California, United States (birthplace); New Orleans, Louisiana (origin)
+birth_place: >-
+  Victorville, California, United States (birthplace); New Orleans, Louisiana
+  (origin)
 genres:
-- jazz fusion
+  - jazz fusion
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/michael_wolff.jpg
   caption: Michael Wolff
   background: solo_singer
-  origin: Victorville, California, United States (birthplace); New Orleans, Louisiana (origin)
+  origin: >-
+    Victorville, California, United States (birthplace); New Orleans, Louisiana
+    (origin)
 audio_profile:
   tempo_avg: 120.2
   energy_avg: 0.329
@@ -26,51 +30,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Cannonball Adderley
-  - Nancy Wilson
-  - Tony Williams
-  - Christian McBride
-  - Mike Clark
-  - Badal Roy
-  - Nat and Alex Wolff
+    - Cannonball Adderley
+    - Nancy Wilson
+    - Tony Williams
+    - Christian McBride
+    - Mike Clark
+    - Badal Roy
+    - Nat and Alex Wolff
   influenced:
-  - Nat Wolff
-  - Alex Wolff
+    - Nat Wolff
+    - Alex Wolff
   mentors:
-  - Cal Tjader
+    - Cal Tjader
 spotify_data:
   followers: 945
   id: 4KpDGzjnmZ8hYdrxthMI88
   popularity: 8
-  url: https://open.spotify.com/artist/4KpDGzjnmZ8hYdrxthMI88
+  url: 'https://open.spotify.com/artist/4KpDGzjnmZ8hYdrxthMI88'
 discography_enriched: true
 top_tracks:
-- Sunny Day (Sunny Day)
-- Movie Night
-- Movie Night (Sunny Day)
-- Quarantine Blues (Sunny Day)
-- Left Out (Memoir)
-- come rain or come shine (Joe's Strut)
-- Swamp (Sunny Day)
-- Street Car (Sunny Day)
-- Flutter (Sunny Day)
-- The Mews (Sunny Day)
+  - Sunny Day (Sunny Day)
+  - Movie Night
+  - Movie Night (Sunny Day)
+  - Quarantine Blues (Sunny Day)
+  - Left Out (Memoir)
+  - come rain or come shine (Joe's Strut)
+  - Swamp (Sunny Day)
+  - Street Car (Sunny Day)
+  - Flutter (Sunny Day)
+  - The Mews (Sunny Day)
 external_urls:
-  spotify: https://open.spotify.com/artist/4KpDGzjnmZ8hYdrxthMI88
-  wikipedia: https://en.wikipedia.org/wiki/Michael_Wolff_(musician)
+  spotify: 'https://open.spotify.com/artist/4KpDGzjnmZ8hYdrxthMI88'
+  wikipedia: 'https://en.wikipedia.org/wiki/Michael_Wolff_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/michael_wolff.jpg
 biography_enhanced_at: '2025-10-25T09:48:42.338966'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Michael_Wolff_(musician)
-- https://www.allaboutjazz.com/musicians/michael-wolff/
-- https://www.michaelwolff.com/about
-- https://mmusicmag.com/m/2017/05/track-feature-exclusive-michael-wolff/
-- https://steinhardt.nyu.edu/people/michael-wolff
+  - 'https://en.wikipedia.org/wiki/Michael_Wolff_(musician)'
+  - 'https://www.allaboutjazz.com/musicians/michael-wolff/'
+  - 'https://www.michaelwolff.com/about'
+  - 'https://mmusicmag.com/m/2017/05/track-feature-exclusive-michael-wolff/'
+  - 'https://steinhardt.nyu.edu/people/michael-wolff'
 network_extracted: true
 entry_created: '2025-10-25T09:48:42.338983'
 last_updated: '2025-12-23T08:16:13.074449'
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1952-07-31'
+artist_type: person
 ---
 
 ![](michael_wolff.jpg)

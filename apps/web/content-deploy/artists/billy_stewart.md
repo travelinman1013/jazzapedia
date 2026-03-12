@@ -1,20 +1,20 @@
 ---
-title: BILLY STEWART
+title: Billy Stewart
 wiki_slug: billy-stewart
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1937-03-24'
-birth_place: Washington, D.C.
+birth_place: 'Washington, D.C., United States'
 death_date: '1970-01-17'
 genres:
-- classic soul
+  - classic soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/billy_stewart.jpg
   caption: BILLY STEWART
   background: solo_singer
   born: '1937-03-24'
-  origin: Washington, D.C.
+  origin: 'Washington, D.C.'
   died: '1970-01-17'
 audio_profile:
   tempo_avg: 126.4
@@ -31,57 +31,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Four Stewart Brothers
-  - Don Covay
-  - Marvin Gaye
-  - Billy Davis
+    - The Four Stewart Brothers
+    - Don Covay
+    - Marvin Gaye
+    - Billy Davis
   influenced:
-  - Contemporary soul and R&B vocalists
+    - Contemporary soul and R&B vocalists
   mentors:
-  - Bo Diddley
-  - His mother
+    - Bo Diddley
+    - His mother
 spotify_data:
   followers: 101788
   id: 21llKqnS025UdaAMslJS4J
   popularity: 45
-  url: https://open.spotify.com/artist/21llKqnS025UdaAMslJS4J
+  url: 'https://open.spotify.com/artist/21llKqnS025UdaAMslJS4J'
 discography_enriched: true
 top_tracks:
-- Sitting In The Park (I Do Love You)
-- I Do Love You (I Do Love You)
-- Cross My Heart (Cross My Heart)
-- 'Sitting In The Park - Single Version (One More Time : The Chess Years)'
-- 'I Do Love You (One More Time : The Chess Years)'
-- Strange Feeling (I Do Love You)
-- Summertime
-- Summertime
-- Summertime (Unbelievable)
-- Sitting In The Park - Single Version
+  - Sitting In The Park (I Do Love You)
+  - I Do Love You (I Do Love You)
+  - Cross My Heart (Cross My Heart)
+  - 'Sitting In The Park - Single Version (One More Time : The Chess Years)'
+  - 'I Do Love You (One More Time : The Chess Years)'
+  - Strange Feeling (I Do Love You)
+  - Summertime
+  - Summertime
+  - Summertime (Unbelievable)
+  - Sitting In The Park - Single Version
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/00e737fe-6a38-4401-acd1-707cc0dd1952
-  spotify: https://open.spotify.com/artist/21llKqnS025UdaAMslJS4J
-  wikipedia: https://en.wikipedia.org/wiki/Billy_Stewart
+  musicbrainz: 'https://musicbrainz.org/artist/00e737fe-6a38-4401-acd1-707cc0dd1952'
+  spotify: 'https://open.spotify.com/artist/21llKqnS025UdaAMslJS4J'
+  wikipedia: 'https://en.wikipedia.org/wiki/Billy_Stewart'
 image_path: 03_Resources/source_material/ArtistPortraits/billy_stewart.jpg
 biography_enhanced_at: '2025-10-31T08:07:24.494952'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.back2past.com/billystuart
-- https://www.washingtoninformer.com/billy-stewart-rhythm-blues-legend/
-- https://www.udiscovermusic.com/news/soul-great-billy-stewart-documentary/
-- https://wbssmedia.com/artists/detail/439
-- http://www.soulwalking.co.uk/Billy%20Stewart.html
-- https://blackpast.org/african-american-history/billy-stewart-ii-1937-1970/
+  - 'https://www.back2past.com/billystuart'
+  - 'https://www.washingtoninformer.com/billy-stewart-rhythm-blues-legend/'
+  - 'https://www.udiscovermusic.com/news/soul-great-billy-stewart-documentary/'
+  - 'https://wbssmedia.com/artists/detail/439'
+  - 'http://www.soulwalking.co.uk/Billy%20Stewart.html'
+  - 'https://blackpast.org/african-american-history/billy-stewart-ii-1937-1970/'
 network_extracted: true
 entry_created: '2025-10-31T08:07:24.494963'
 last_updated: '2025-12-23T08:16:05.619926'
-disambiguation: US soul scat vocalist, pianist, drummer, songwriter
+disambiguation: 'US soul scat vocalist, pianist, drummer, songwriter'
 gender: Male
 musicbrainz_id: 00e737fe-6a38-4401-acd1-707cc0dd1952
 tags:
-- 2008 universal fire victim
-- chicago soul
-- jazz pop
+  - 2008 universal fire victim
+  - chicago soul
+  - jazz pop
+is_active: false
 ---
 
 ![](billy_stewart.jpg)

@@ -2,59 +2,60 @@
 artist_type: person
 biography_enhanced_at: '2026-01-20T01:31:06.239555'
 birth_date: '1968-12-16'
-birth_place: Chicago
+birth_place: 'Chicago, Illinois, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-20T01:31:06.239561'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3f0f4358-4c48-4bce-be34-acf61d24df0b
-  spotify: https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo
-  wikipedia: https://en.wikipedia.org/wiki/Lalah_Hathaway
+  musicbrainz: 'https://musicbrainz.org/artist/3f0f4358-4c48-4bce-be34-acf61d24df0b'
+  spotify: 'https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lalah_Hathaway'
 gender: Female
 genres:
-- neo soul
-- smooth jazz
-- quiet storm
+  - neo soul
+  - smooth jazz
+  - quiet storm
 image_path: 03_Resources/source_material/ArtistPortraits/lalah_hathaway.jpg
 instruments:
-- vocal
-- lead vocals
-- background vocals
-- choir vocals
-- other vocals
+  - vocal
+  - lead vocals
+  - background vocals
+  - choir vocals
+  - other vocals
 last_updated: '2026-01-20T01:31:06.239562'
 musical_connections:
   collaborators:
-  - Joe Sample
-  - WILLOW
-  - MC Lyte
-  - Common
-  - Rapsody
-  - Michael McDonald
-  - Phonte
-  - Gerald Albright
+    - Joe Sample
+    - WILLOW
+    - MC Lyte
+    - Common
+    - Rapsody
+    - Michael McDonald
+    - Phonte
+    - Gerald Albright
   influenced: []
   mentors:
-  - Donny Hathaway
+    - Donny Hathaway
 musicbrainz_id: 3f0f4358-4c48-4bce-be34-acf61d24df0b
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Lalah_Hathaway
-- https://holican.io/wiki/lalah-hathaway
-- https://concord.com/artist/lalah-hathaway/
-- https://www.berklee.edu/berklee-today/fall-2014/lalah-hathaway
-- https://shop.unknownunion.com/blogs/commuunity/lalah-hathaway-a-legacy-in-harmony
-- https://www.wnycstudios.org/podcasts/studio/segments/174468-lalah-hathaway
+  - 'https://en.wikipedia.org/wiki/Lalah_Hathaway'
+  - 'https://holican.io/wiki/lalah-hathaway'
+  - 'https://concord.com/artist/lalah-hathaway/'
+  - 'https://www.berklee.edu/berklee-today/fall-2014/lalah-hathaway'
+  - >-
+    https://shop.unknownunion.com/blogs/commuunity/lalah-hathaway-a-legacy-in-harmony
+  - 'https://www.wnycstudios.org/podcasts/studio/segments/174468-lalah-hathaway'
 spotify_data:
   followers: 452887
   id: 0uNEy4544VZq2KOl7BsLuo
   popularity: 48
-  url: https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo
+  url: 'https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo'
 status: active
 tags:
-- contemporary r&b
-- jazz
-- quiet storm
+  - contemporary r&b
+  - jazz
+  - quiet storm
 title: Lalah Hathaway
 ---
 

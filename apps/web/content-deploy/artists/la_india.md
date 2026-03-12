@@ -3,16 +3,16 @@ title: La India
 wiki_slug: la-india
 schema_version: 2
 status: active
-birth_place: Río Piedras, Puerto Rico
+birth_place: 'Río Piedras, Puerto Rico, United States'
 genres:
-- merengue
-- salsa
-- salsa romantica
+  - merengue
+  - salsa
+  - salsa romantica
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/la_india.jpg
   caption: La India
   background: solo_singer
-  origin: Río Piedras, Puerto Rico
+  origin: 'Río Piedras, Puerto Rico'
 audio_profile:
   tempo_avg: 134.8
   energy_avg: 0.747
@@ -28,48 +28,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Marc Anthony
-  - Tito Puente
-  - Sergio George
+    - Marc Anthony
+    - Tito Puente
+    - Sergio George
   influenced:
-  - Various Latin female artists
+    - Various Latin female artists
   mentors:
-  - Eddie Palmieri
-  - Celia Cruz
+    - Eddie Palmieri
+    - Celia Cruz
 spotify_data:
   followers: 1177339
   id: 3NIZFmehJM8YiGpCdihlck
   popularity: 58
-  url: https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck
+  url: 'https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck'
 discography_enriched: true
 top_tracks:
-- Vivir Lo Nuestro (The Greatest Salsa Ever)
-- Mi Mayor Venganza (Pura Salsa)
-- Vivir Lo Nuestro (Dicen Que Soy)
-- Ese Hombre (40 Artistas Y Sus Super Exitos)
-- Vivir Lo Nuestro (Desde Un Principio / From The Beginning)
-- Ese Hombre (Dicen Que Soy)
-- Nunca Voy A Olvidarte (40 Artistas Y Sus Super Exitos)
-- Dicen Que Soy (40 Artistas Y Sus Super Exitos)
-- Nunca Voy A Olvidarte (Dicen Que Soy)
-- Que Ganas De No Verte Nunca Más (Ese Hombre (Baile Total))
+  - Vivir Lo Nuestro (The Greatest Salsa Ever)
+  - Mi Mayor Venganza (Pura Salsa)
+  - Vivir Lo Nuestro (Dicen Que Soy)
+  - Ese Hombre (40 Artistas Y Sus Super Exitos)
+  - Vivir Lo Nuestro (Desde Un Principio / From The Beginning)
+  - Ese Hombre (Dicen Que Soy)
+  - Nunca Voy A Olvidarte (40 Artistas Y Sus Super Exitos)
+  - Dicen Que Soy (40 Artistas Y Sus Super Exitos)
+  - Nunca Voy A Olvidarte (Dicen Que Soy)
+  - Que Ganas De No Verte Nunca Más (Ese Hombre (Baile Total))
 external_urls:
-  spotify: https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck
-  wikipedia: https://en.wikipedia.org/wiki/La_India
+  spotify: 'https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck'
+  wikipedia: 'https://en.wikipedia.org/wiki/La_India'
 image_path: 03_Resources/source_material/ArtistPortraits/la_india.jpg
 biography_enhanced_at: '2025-11-23T06:27:20.271408'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.nps.gov/articles/000/la-india-the-princess-of-salsa.htm
-- https://www.nprdpinc.org/es/historical-honoree/la-india
-- https://en.wikipedia.org/wiki/La_India
-- https://www.hola.com/us/latinapowerhouse/20251008843333/linda-bell-viera-caballero-la-india/
-- https://celebritytalentagency.com/artist/la-india/
-- http://www.salsablvd.com/biographies/la-india.htm
+  - 'https://www.nps.gov/articles/000/la-india-the-princess-of-salsa.htm'
+  - 'https://www.nprdpinc.org/es/historical-honoree/la-india'
+  - 'https://en.wikipedia.org/wiki/La_India'
+  - >-
+    https://www.hola.com/us/latinapowerhouse/20251008843333/linda-bell-viera-caballero-la-india/
+  - 'https://celebritytalentagency.com/artist/la-india/'
+  - 'http://www.salsablvd.com/biographies/la-india.htm'
 network_extracted: true
 entry_created: '2025-11-23T06:27:20.271415'
 last_updated: '2025-12-23T08:16:11.522183'
+birth_date: '1969-03-09'
+artist_type: person
 ---
 
 ![](la_india.jpg)

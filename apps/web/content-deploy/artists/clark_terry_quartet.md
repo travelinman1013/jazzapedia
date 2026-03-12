@@ -1,87 +1,91 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-03T01:43:48.590863'
 enhancement_provider: perplexity
 entry_created: '2026-01-03T01:43:48.590876'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e8af2c25-10c0-47c4-b016-772d5b302067
-  spotify: https://open.spotify.com/artist/4DGl9y3bKun9n2xjyirMwF
-  wikipedia: https://en.wikipedia.org/wiki/Clark_Terry
+  musicbrainz: 'https://musicbrainz.org/artist/e8af2c25-10c0-47c4-b016-772d5b302067'
+  spotify: 'https://open.spotify.com/artist/4DGl9y3bKun9n2xjyirMwF'
+  wikipedia: 'https://en.wikipedia.org/wiki/Clark_Terry'
 genres:
-- hard bop
-- bebop
-- jazz
+  - hard bop
+  - bebop
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/clark_terry_quartet.jpg
 instruments:
-- piano
-- double bass
-- drums (drum set)
-- eponymous
-- original
-- trumpet
-last_updated: '2026-01-03T01:43:48.590877'
-members:
-- begin: ''
-  end: ''
-  instruments:
   - piano
-  mbid: f4336d95-b153-4d9e-8b3d-32b78583993c
-  name: Georges Arvanitas
-- begin: ''
-  end: ''
-  instruments:
   - double bass
-  mbid: 0e7d0a27-ef80-432f-b169-c1e2dd344a9e
-  name: Jacky Samson
-- begin: ''
-  end: ''
-  instruments:
   - drums (drum set)
-  mbid: 49a9eb6b-5b0b-47c3-869e-f532107a41dd
-  name: Charles Saudrais
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
   - trumpet
-  mbid: 2a760856-7bf1-4f65-a2d0-225e77085fcc
-  name: Clark Terry
+last_updated: '2026-01-03T01:43:48.590877'
+members:
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: f4336d95-b153-4d9e-8b3d-32b78583993c
+    name: Georges Arvanitas
+  - begin: ''
+    end: ''
+    instruments:
+      - double bass
+    mbid: 0e7d0a27-ef80-432f-b169-c1e2dd344a9e
+    name: Jacky Samson
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: 49a9eb6b-5b0b-47c3-869e-f532107a41dd
+    name: Charles Saudrais
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - trumpet
+    mbid: 2a760856-7bf1-4f65-a2d0-225e77085fcc
+    name: Clark Terry
 musical_connections:
   collaborators:
-  - Count Basie
-  - Duke Ellington
-  - Bob Brookmeyer
-  - Oscar Peterson
-  - Ella Fitzgerald
-  - J.J. Johnson
-  - Milt Hinton
+    - Count Basie
+    - Duke Ellington
+    - Bob Brookmeyer
+    - Oscar Peterson
+    - Ella Fitzgerald
+    - J.J. Johnson
+    - Milt Hinton
   influenced:
-  - Miles Davis
-  - Quincy Jones
-  - Art Farmer
+    - Miles Davis
+    - Quincy Jones
+    - Art Farmer
   mentors:
-  - Brother-in-law (unnamed)
-  - Billy Taylor
+    - Brother-in-law (unnamed)
+    - Billy Taylor
 musicbrainz_id: e8af2c25-10c0-47c4-b016-772d5b302067
 network_extracted: true
-origin: St. Louis, Missouri, United States
+origin: 'St. Louis, Missouri, United States'
 primary_source: perplexity
 research_sources:
-- https://www.stlpr.org/arts/2015-02-22/clark-terry-famed-jazz-trumpeter-soared-above-humble-st-louis-beginnings
-- https://jazztimes.com/features/tributes-and-obituaries/clark-terry-1920-2015/
-- https://livingjazzarchives.org/archives/clark-terry-archive/
-- https://www.arts.gov/honors/jazz/clark-terry
-- https://en.wikipedia.org/wiki/Clark_Terry
-- https://www.selmer.fr/en/blogs/artistes/clark-terry
-- https://www.local802afm.org/allegro/articles/the-amazing-clark-terry/
+  - >-
+    https://www.stlpr.org/arts/2015-02-22/clark-terry-famed-jazz-trumpeter-soared-above-humble-st-louis-beginnings
+  - >-
+    https://jazztimes.com/features/tributes-and-obituaries/clark-terry-1920-2015/
+  - 'https://livingjazzarchives.org/archives/clark-terry-archive/'
+  - 'https://www.arts.gov/honors/jazz/clark-terry'
+  - 'https://en.wikipedia.org/wiki/Clark_Terry'
+  - 'https://www.selmer.fr/en/blogs/artistes/clark-terry'
+  - 'https://www.local802afm.org/allegro/articles/the-amazing-clark-terry/'
 spotify_data:
   followers: 439
   id: 4DGl9y3bKun9n2xjyirMwF
   popularity: 9
-  url: https://open.spotify.com/artist/4DGl9y3bKun9n2xjyirMwF
+  url: 'https://open.spotify.com/artist/4DGl9y3bKun9n2xjyirMwF'
 status: active
 title: Clark Terry Quartet
+birth_place: 'St. Louis, Missouri, United States'
+death_date: '2015-02-21'
 ---
 
 ![](clark_terry_quartet.jpg)

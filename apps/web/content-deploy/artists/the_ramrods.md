@@ -1,10 +1,10 @@
 ---
-title: the ramrods
+title: The Ramrods
 wiki_slug: the-ramrods
 schema_version: 2
 status: active
 genres:
-- surf rock
+  - surf rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_ramrods.jpg
   caption: the ramrods
@@ -24,59 +24,65 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bill Linnane
-  - Vin Campisi
-  - Ronn Campisi
-  - Bob (Bobby “Jesse”) Henderson
-  - Scott Curtis
-  - Lenny Cirelli
-  - David Allen Ryan
-  - Jim Mandell
-  - Danny McBride
-  - Glenn Jordan
-  - Stu Kassner
-  - The Kingsmen
-  - The Rolling Stones
+    - Bill Linnane
+    - Vin Campisi
+    - Ronn Campisi
+    - Bob (Bobby “Jesse”) Henderson
+    - Scott Curtis
+    - Lenny Cirelli
+    - David Allen Ryan
+    - Jim Mandell
+    - Danny McBride
+    - Glenn Jordan
+    - Stu Kassner
+    - The Kingsmen
+    - The Rolling Stones
   influenced:
-  - Garage rock collectors and revivalist bands (general scene)
+    - Garage rock collectors and revivalist bands (general scene)
   mentors:
-  - Dick Dale
-  - Frank Slay Jr.
-  - Alan Lorber
+    - Dick Dale
+    - Frank Slay Jr.
+    - Alan Lorber
 spotify_data:
   followers: 397
   id: 4rnEx2u9jOD57zjTQ9zwGt
   popularity: 8
-  url: https://open.spotify.com/artist/4rnEx2u9jOD57zjTQ9zwGt
+  url: 'https://open.spotify.com/artist/4rnEx2u9jOD57zjTQ9zwGt'
 discography_enriched: true
 top_tracks:
-- Ghost Riders in the Sky (Ghost Riders in the Sky)
-- Ghost Riders in the Sky (Pipeline & the Lost Hits of the '60s)
-- Riders in the Sky (Rock'n Roll the Unforgettables, Vol. 1)
-- Ghost Riders In The Sky [2016 Digitally Extracted Stereo Remix] (American Jukebox Classics)
-- Ghost Riders in the Sky (Surf Music, Vol. 1)
-- (Ghost) Riders In The Sky - Rerecorded (The Greatest Hits of Rock 'n' Roll, Vol. 3)
-- War Cry - Instrumental (Strictly Instrumental, Vol. 9)
-- Walkin' (Let's Go Steady, Vol. 13)
-- War Party (Rockin' Guitar and Early Original Piano Boogie Woogie)
-- Flyin' Saucer Twist (Flyin' Saucer Twist)
+  - Ghost Riders in the Sky (Ghost Riders in the Sky)
+  - Ghost Riders in the Sky (Pipeline & the Lost Hits of the '60s)
+  - 'Riders in the Sky (Rock''n Roll the Unforgettables, Vol. 1)'
+  - >-
+    Ghost Riders In The Sky [2016 Digitally Extracted Stereo Remix] (American
+    Jukebox Classics)
+  - 'Ghost Riders in the Sky (Surf Music, Vol. 1)'
+  - >-
+    (Ghost) Riders In The Sky - Rerecorded (The Greatest Hits of Rock 'n' Roll,
+    Vol. 3)
+  - 'War Cry - Instrumental (Strictly Instrumental, Vol. 9)'
+  - 'Walkin'' (Let''s Go Steady, Vol. 13)'
+  - War Party (Rockin' Guitar and Early Original Piano Boogie Woogie)
+  - Flyin' Saucer Twist (Flyin' Saucer Twist)
 external_urls:
-  spotify: https://open.spotify.com/artist/4rnEx2u9jOD57zjTQ9zwGt
-  wikipedia: https://en.wikipedia.org/wiki/The_Rockin'_Ramrods
+  spotify: 'https://open.spotify.com/artist/4rnEx2u9jOD57zjTQ9zwGt'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Rockin''_Ramrods'
 image_path: 03_Resources/source_material/ArtistPortraits/the_ramrods.jpg
 biography_enhanced_at: '2025-12-06T06:00:46.459690'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Rockin'_Ramrods
-- https://www.mmone.org/the-rockin-ramrods/
-- https://www.therockinramrods.com/The_Rockin_Ramrods/The_Rockin_Ramrods_History.html
-- https://www.last.fm/music/The+Rockin'+Ramrods/+wiki
-- https://surfadelic2.wordpress.com/2019/11/12/the-rockin-ramrods/
+  - 'https://en.wikipedia.org/wiki/The_Rockin''_Ramrods'
+  - 'https://www.mmone.org/the-rockin-ramrods/'
+  - >-
+    https://www.therockinramrods.com/The_Rockin_Ramrods/The_Rockin_Ramrods_History.html
+  - 'https://www.last.fm/music/The+Rockin''+Ramrods/+wiki'
+  - 'https://surfadelic2.wordpress.com/2019/11/12/the-rockin-ramrods/'
 network_extracted: true
 entry_created: '2025-12-06T06:00:46.459697'
 last_updated: '2025-12-23T08:16:17.081701'
-origin: Boston, Massachusetts, United States
+origin: 'Boston, Massachusetts, United States'
+artist_type: band
 ---
 
 ![](the_ramrods.jpg)

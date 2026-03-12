@@ -2,13 +2,13 @@
 title: Blackalicious
 wiki_slug: blackalicious
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 birth_date: '1992'
 genres:
-- alternative hip hop
-- jazz rap
-- underground hip hop
+  - alternative hip hop
+  - jazz rap
+  - underground hip hop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Blackalicious.jpg
   caption: Blackalicious
@@ -21,7 +21,7 @@ audio_profile:
   danceability_avg: 0.746
   acousticness_avg: 0.115
   instrumentalness_avg: 0.024
-  loudness_avg: -8.0
+  loudness_avg: -8
   speechiness_avg: 0.228
   liveness_avg: 0.249
   track_count: 50
@@ -29,50 +29,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - DJ Shadow
-  - Lateef the Truthspeaker
-  - Lyrics Born
+    - DJ Shadow
+    - Lateef the Truthspeaker
+    - Lyrics Born
   influenced:
-  - Underground hip-hop artists
+    - Underground hip-hop artists
   mentors:
-  - DJ Shadow
+    - DJ Shadow
 spotify_data:
   followers: 200989
   id: 42Np3r8zXnaKcjLQsQSjyG
   popularity: 41
-  url: https://open.spotify.com/artist/42Np3r8zXnaKcjLQsQSjyG
+  url: 'https://open.spotify.com/artist/42Np3r8zXnaKcjLQsQSjyG'
 discography_enriched: true
 top_tracks:
-- Make You Feel That Way (Blazing Arrow)
-- Alphabet Aerobics
-- Callin' Out (Callin' out 12")
-- Deception (Nia)
-- Blazing Arrow (Blazing Arrow)
-- Swan Lake
-- Shallow Days (Nia)
-- Sky Is Falling (Blazing Arrow)
-- First In Flight (Blazing Arrow)
-- Paragraph President (Blazing Arrow)
+  - Make You Feel That Way (Blazing Arrow)
+  - Alphabet Aerobics
+  - Callin' Out (Callin' out 12")
+  - Deception (Nia)
+  - Blazing Arrow (Blazing Arrow)
+  - Swan Lake
+  - Shallow Days (Nia)
+  - Sky Is Falling (Blazing Arrow)
+  - First In Flight (Blazing Arrow)
+  - Paragraph President (Blazing Arrow)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/92ee5562-3c1b-4e02-ac22-aae6261edac5
-  spotify: https://open.spotify.com/artist/42Np3r8zXnaKcjLQsQSjyG
-  wikipedia: https://en.wikipedia.org/wiki/Blackalicious
+  musicbrainz: 'https://musicbrainz.org/artist/92ee5562-3c1b-4e02-ac22-aae6261edac5'
+  spotify: 'https://open.spotify.com/artist/42Np3r8zXnaKcjLQsQSjyG'
+  wikipedia: 'https://en.wikipedia.org/wiki/Blackalicious'
 image_path: 03_Resources/source_material/ArtistPortraits/Blackalicious.jpg
 biography_enhanced_at: '2025-10-22T06:45:22.573023'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.hollywoodbowl.com/musicdb/artists/681/blackalicious
-- https://en.wikipedia.org/wiki/Blackalicious
-- https://hiphopgoldenage.com/artists/blackalicious/
+  - 'https://www.hollywoodbowl.com/musicdb/artists/681/blackalicious'
+  - 'https://en.wikipedia.org/wiki/Blackalicious'
+  - 'https://hiphopgoldenage.com/artists/blackalicious/'
 network_extracted: true
 entry_created: '2025-10-22T06:45:22.573033'
 last_updated: '2025-12-23T08:16:01.244774'
 musicbrainz_id: 92ee5562-3c1b-4e02-ac22-aae6261edac5
-origin: Sacramento
+origin: 'Sacramento, California, United States'
 tags:
-- hip hop
-- underground hip hop
+  - hip hop
+  - underground hip hop
+death_date: '2021'
 ---
 
 ![](Blackalicious.jpg)

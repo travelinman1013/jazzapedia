@@ -3,16 +3,16 @@ title: Ryo Fukui
 wiki_slug: ryo-fukui
 schema_version: 2
 status: active
-birth_place: Biratori, Hokkaido, Japan
+birth_place: 'Biratori, Hokkaido, Japan'
 genres:
-- jazz
-- jazz fusion
-- bebop
+  - jazz
+  - jazz fusion
+  - bebop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ryo_fukui.jpg
   caption: Ryo Fukui
   background: solo_singer
-  origin: Biratori, Hokkaido, Japan
+  origin: 'Biratori, Hokkaido, Japan'
 audio_profile:
   tempo_avg: 104.5
   energy_avg: 0.357
@@ -20,7 +20,7 @@ audio_profile:
   danceability_avg: 0.416
   acousticness_avg: 0.783
   instrumentalness_avg: 0.732
-  loudness_avg: -15.0
+  loudness_avg: -15
   speechiness_avg: 0.038
   liveness_avg: 0.23
   track_count: 50
@@ -28,47 +28,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Yoshinori Fukui
-  - Satoshi Denpo
-  - Leroy Williams
-  - Lisle Arthur Atkinson
+    - Yoshinori Fukui
+    - Satoshi Denpo
+    - Leroy Williams
+    - Lisle Arthur Atkinson
   influenced:
-  - Local Sapporo jazz musicians and students
-  - Contemporary Japanese jazz pianists
+    - Local Sapporo jazz musicians and students
+    - Contemporary Japanese jazz pianists
   mentors:
-  - Hidehiko Matsumoto
-  - Barry Harris
+    - Hidehiko Matsumoto
+    - Barry Harris
 spotify_data:
   followers: 208598
   id: 4V7Ate3UISn8cy06xnAprh
   popularity: 47
-  url: https://open.spotify.com/artist/4V7Ate3UISn8cy06xnAprh
+  url: 'https://open.spotify.com/artist/4V7Ate3UISn8cy06xnAprh'
 discography_enriched: true
 top_tracks:
-- Early Summer (シーナリィ)
-- It Could Happen To You (シーナリィ)
-- I Want To Talk About You (シーナリィ)
-- Scenery (シーナリィ)
-- Autumn Leaves (シーナリィ)
-- Sonora (A Letter from Slowboat)
-- Willow Weep For Me (シーナリィ)
-- ボディー・アンド・ソウル (Live at Vidro'77) (ライブ・アット・びーどろ'77)
-- Horizon (メロー ドリーム)
-- Stella by Starlight (A Letter from Slowboat)
+  - Early Summer (シーナリィ)
+  - It Could Happen To You (シーナリィ)
+  - I Want To Talk About You (シーナリィ)
+  - Scenery (シーナリィ)
+  - Autumn Leaves (シーナリィ)
+  - Sonora (A Letter from Slowboat)
+  - Willow Weep For Me (シーナリィ)
+  - ボディー・アンド・ソウル (Live at Vidro'77) (ライブ・アット・びーどろ'77)
+  - Horizon (メロー ドリーム)
+  - Stella by Starlight (A Letter from Slowboat)
 external_urls:
-  spotify: https://open.spotify.com/artist/4V7Ate3UISn8cy06xnAprh
-  wikipedia: https://en.wikipedia.org/wiki/Ryo_Fukui
+  spotify: 'https://open.spotify.com/artist/4V7Ate3UISn8cy06xnAprh'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ryo_Fukui'
 image_path: 03_Resources/source_material/ArtistPortraits/ryo_fukui.jpg
 biography_enhanced_at: '2025-11-05T12:49:54.321545'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.yokogaomag.com/editorial/ryo-fukui-legacy
-- https://en.wikipedia.org/wiki/Ryo_Fukui
-- https://pen-online.com/culture/ryo-fukui-japanese-jazz-legend-rediscovered/
+  - 'https://www.yokogaomag.com/editorial/ryo-fukui-legacy'
+  - 'https://en.wikipedia.org/wiki/Ryo_Fukui'
+  - 'https://pen-online.com/culture/ryo-fukui-japanese-jazz-legend-rediscovered/'
 network_extracted: true
 entry_created: '2025-11-05T12:49:54.321560'
 last_updated: '2025-12-23T08:16:15.248998'
+birth_date: '1948-06-01'
+artist_type: person
 ---
 
 ![](ryo_fukui.jpg)

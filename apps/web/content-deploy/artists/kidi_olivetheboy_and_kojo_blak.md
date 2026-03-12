@@ -3,43 +3,48 @@ biography_enhanced_at: '2025-12-28T01:59:24.349036'
 enhancement_provider: perplexity
 entry_created: '2025-12-28T01:59:24.349045'
 external_urls:
-  spotify: https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1
+  spotify: 'https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1'
   wikipedia: ''
 genres:
-- afrobeats
-- hiplife
-- afrobeat
-- afropop
-- afropiano
-image_path: 03_Resources/source_material/ArtistPortraits/kidi_olivetheboy_and_kojo_blak.jpg
+  - afrobeats
+  - hiplife
+  - afrobeat
+  - afropop
+  - afropiano
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/kidi_olivetheboy_and_kojo_blak.jpg
 last_updated: '2025-12-28T01:59:24.349047'
 musical_connections:
   collaborators:
-  - KiDi
-  - Olivetheboy
-  - Kelvyn Boy
-  - Blacko
+    - KiDi
+    - Olivetheboy
+    - Kelvyn Boy
+    - Blacko
   influenced: []
   mentors:
-  - Michael Jackson
-  - E.T. Mensah
+    - Michael Jackson
+    - E.T. Mensah
 network_extracted: true
-origin: Dansoman, Accra, Ghana (Kojo Blak birthplace; KiDi and Olivetheboy also Ghana-based)
+origin: >-
+  Dansoman, Accra, Ghana (Kojo Blak birthplace; KiDi and Olivetheboy also
+  Ghana-based)
 primary_source: perplexity
 research_sources:
-- https://www.youtube.com/watch?v=gqHYbGzjDW8
-- https://recentmusic.com/artist/6h7BNyws6Z0ISo5JfgdCnW/
-- https://3news.com/showbiz/music/kojo-blak-breaks-barriers-in-music-industry
-- https://www.youtube.com/watch?v=JkZTPQhD4NM
-- https://www.youtube.com/@kidimusic/about
+  - 'https://www.youtube.com/watch?v=gqHYbGzjDW8'
+  - 'https://recentmusic.com/artist/6h7BNyws6Z0ISo5JfgdCnW/'
+  - 'https://3news.com/showbiz/music/kojo-blak-breaks-barriers-in-music-industry'
+  - 'https://www.youtube.com/watch?v=JkZTPQhD4NM'
+  - 'https://www.youtube.com/@kidimusic/about'
 spotify_data:
   followers: 379112
   id: 6yCYm86uDrfUteHNs6zcg1
   popularity: 54
-  url: https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1
+  url: 'https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1'
 status: active
-title: kidi, olivetheboy & kojo blak
-
+title: 'Kidi, Olivetheboy & Kojo Blak'
+birth_place: 'Dansoman, Accra, Ghana'
+birth_date: '2001-07-23'
+artist_type: band
 ---
 
 ![](kidi_olivetheboy_and_kojo_blak.jpg)

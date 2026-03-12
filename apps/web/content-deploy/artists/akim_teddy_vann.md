@@ -1,22 +1,22 @@
 ---
-title: Akim, Teddy Vann
+title: 'Akim, Teddy Vann'
 wiki_slug: akim-teddy-vann
 schema_version: 2
 status: active
-birth_place: Bensonhurst, Brooklyn, New York, USA
+birth_place: 'Bensonhurst, Brooklyn, New York, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/akim_teddy_vann.jpg
-  caption: Akim, Teddy Vann
+  caption: 'Akim, Teddy Vann'
   background: solo_singer
-  origin: Bensonhurst, Brooklyn, New York, USA
+  origin: 'Bensonhurst, Brooklyn, New York, USA'
 audio_profile:
   tempo_avg: 141.2
   energy_avg: 0.519
   valence_avg: 0.724
   danceability_avg: 0.738
   acousticness_avg: 0.578
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -8.1
   speechiness_avg: 0.118
   liveness_avg: 0.139
@@ -25,40 +25,43 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Akim Vann
-  - James Earl Jones
-  - Estelle Bennett
-  - Marcus Miller
-  - Luther Vandross
-  - Johnny Thunder
-  - The Bobbettes
+    - Akim Vann
+    - James Earl Jones
+    - Estelle Bennett
+    - Marcus Miller
+    - Luther Vandross
+    - Johnny Thunder
+    - The Bobbettes
   influenced:
-  - Akim Vann
+    - Akim Vann
   mentors: []
 spotify_data:
   followers: 54
   id: 1FV8FzLxrVqo7RkFLUKeJJ
   popularity: 14
-  url: https://open.spotify.com/artist/1FV8FzLxrVqo7RkFLUKeJJ
+  url: 'https://open.spotify.com/artist/1FV8FzLxrVqo7RkFLUKeJJ'
 discography_enriched: true
 top_tracks:
-- Santa Claus Is a Black Man (Santa Claus Is a Black Man)
+  - Santa Claus Is a Black Man (Santa Claus Is a Black Man)
 external_urls:
-  spotify: https://open.spotify.com/artist/1FV8FzLxrVqo7RkFLUKeJJ
-  wikipedia: https://en.wikipedia.org/wiki/Santa_Claus_Is_a_Black_Man
+  spotify: 'https://open.spotify.com/artist/1FV8FzLxrVqo7RkFLUKeJJ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Santa_Claus_Is_a_Black_Man'
 image_path: 03_Resources/source_material/ArtistPortraits/akim_teddy_vann.jpg
 biography_enhanced_at: '2025-12-15T01:33:38.214872'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://ontherecordshow.blogspot.com/2012/12/akim-and-teddy-vann-production-company.html
-- https://writingonmusic.com/2019/01/07/after-the-dark-teddy-vann-akims-santa-claus-is-a-black-man/
-- https://thequietus.com/interviews/santa-claus-is-a-black-man/
-- https://en.wikipedia.org/wiki/Santa_Claus_Is_a_Black_Man
-- https://www.panonthenet.com/news/2009/dec/teddy-vann-obituary.htm
+  - >-
+    http://ontherecordshow.blogspot.com/2012/12/akim-and-teddy-vann-production-company.html
+  - >-
+    https://writingonmusic.com/2019/01/07/after-the-dark-teddy-vann-akims-santa-claus-is-a-black-man/
+  - 'https://thequietus.com/interviews/santa-claus-is-a-black-man/'
+  - 'https://en.wikipedia.org/wiki/Santa_Claus_Is_a_Black_Man'
+  - 'https://www.panonthenet.com/news/2009/dec/teddy-vann-obituary.htm'
 network_extracted: true
 entry_created: '2025-12-15T01:33:38.214890'
 last_updated: '2025-12-23T08:16:04.422928'
+artist_type: person
 ---
 
 ![](akim_teddy_vann.jpg)

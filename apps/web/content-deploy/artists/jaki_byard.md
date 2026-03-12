@@ -5,43 +5,43 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1922-06-15'
-birth_place: Massachusetts
+birth_place: 'Worcester, Massachusetts, United States'
 death_date: '1999-02-11'
 genres:
-- hard bop
-- jazz
-- free jazz
+  - hard bop
+  - jazz
+  - free jazz
 instruments:
-- piano
-- electric piano
+  - piano
+  - electric piano
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 08c9cd8f-de18-4014-b27c-6aaa0a834cbc
-  name: Jaki Byard Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1b9f09e5-a9e8-4bbd-951a-f7ecc5e8350a
-  name: Maynard Ferguson and His Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: b4454202-c946-43fb-b4e8-864387cb98a0
-  name: Charlie Mariano Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: 534bd046-1aba-407f-b653-ce2a40f19655
-  name: The Herb Pomeroy Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 33a6a792-fac8-4b84-8aaa-3056ce5f564d
-  name: The Booker Ervin Sextet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 08c9cd8f-de18-4014-b27c-6aaa0a834cbc
+    name: Jaki Byard Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1b9f09e5-a9e8-4bbd-951a-f7ecc5e8350a
+    name: Maynard Ferguson and His Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: b4454202-c946-43fb-b4e8-864387cb98a0
+    name: Charlie Mariano Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: 534bd046-1aba-407f-b653-ce2a40f19655
+    name: The Herb Pomeroy Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 33a6a792-fac8-4b84-8aaa-3056ce5f564d
+    name: The Booker Ervin Sextet
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jaki_byard.jpg
   caption: Jaki Byard
@@ -50,7 +50,7 @@ infobox:
   origin: Massachusetts
   died: '1999-02-11'
 audio_profile:
-  tempo_avg: 112.0
+  tempo_avg: 112
   energy_avg: 0.228
   valence_avg: 0.35
   danceability_avg: 0.479
@@ -64,58 +64,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Charles Mingus
-  - Eric Dolphy
-  - Maynard Ferguson
-  - Herb Pomeroy
-  - Rahsaan Roland Kirk
-  - Archie Shepp
-  - Earl Hines
-  - Ran Blake
+    - Charles Mingus
+    - Eric Dolphy
+    - Maynard Ferguson
+    - Herb Pomeroy
+    - Rahsaan Roland Kirk
+    - Archie Shepp
+    - Earl Hines
+    - Ran Blake
   influenced:
-  - Fred Hersch
-  - Alan Pasqua
-  - Jason Moran
-  - Harvey Mason
+    - Fred Hersch
+    - Alan Pasqua
+    - Jason Moran
+    - Harvey Mason
   mentors:
-  - Earl Bostic
+    - Earl Bostic
 spotify_data:
   followers: 7853
   id: 7pZNp3BIssAHQ9jJZssq3Y
   popularity: 19
-  url: https://open.spotify.com/artist/7pZNp3BIssAHQ9jJZssq3Y
+  url: 'https://open.spotify.com/artist/7pZNp3BIssAHQ9jJZssq3Y'
 discography_enriched: true
 top_tracks:
-- Lullaby Of Birdland (Hi-Fly)
-- Lullaby of Birdland (Byard's Bounce)
-- Garr (Family Man)
-- Out Front (Out Front!)
-- Out Front (When Sunny Gets Blue)
-- Hi-Fly (Byard's Bounce)
-- Hi-Fly (Hi-Fly)
-- Tillie Butterball (Hi-Fly)
-- Hazy Eve (The Jaki Byard Experience)
-- There Are Many Worlds (Hi-Fly)
+  - Lullaby Of Birdland (Hi-Fly)
+  - Lullaby of Birdland (Byard's Bounce)
+  - Garr (Family Man)
+  - Out Front (Out Front!)
+  - Out Front (When Sunny Gets Blue)
+  - Hi-Fly (Byard's Bounce)
+  - Hi-Fly (Hi-Fly)
+  - Tillie Butterball (Hi-Fly)
+  - Hazy Eve (The Jaki Byard Experience)
+  - There Are Many Worlds (Hi-Fly)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3f627e4e-4d29-45f0-8dd0-84a8b7f41799
-  spotify: https://open.spotify.com/artist/7pZNp3BIssAHQ9jJZssq3Y
-  wikipedia: https://en.wikipedia.org/wiki/Jaki_Byard
+  musicbrainz: 'https://musicbrainz.org/artist/3f627e4e-4d29-45f0-8dd0-84a8b7f41799'
+  spotify: 'https://open.spotify.com/artist/7pZNp3BIssAHQ9jJZssq3Y'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jaki_Byard'
 image_path: 03_Resources/source_material/ArtistPortraits/jaki_byard.jpg
 biography_enhanced_at: '2025-12-05T06:01:01.679645'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- General biographical and discographical information from Jaki Byard’s artist pages and institutional biographies.
-- Context on his teaching career, students, and Apollo Stompers from jazz education and archival profiles.
+  - >-
+    General biographical and discographical information from Jaki Byard’s artist
+    pages and institutional biographies.
+  - >-
+    Context on his teaching career, students, and Apollo Stompers from jazz
+    education and archival profiles.
 network_extracted: true
 entry_created: '2025-12-05T06:01:01.679656'
 last_updated: '2025-12-23T08:16:10.137200'
 gender: Male
 musicbrainz_id: 3f627e4e-4d29-45f0-8dd0-84a8b7f41799
 tags:
-- hard bop
-- jazz
-- post-bop
+  - hard bop
+  - jazz
+  - post-bop
+is_active: false
 ---
 
 ![](jaki_byard.jpg)

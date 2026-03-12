@@ -2,15 +2,15 @@
 title: North Mississippi Allstars
 wiki_slug: north-mississippi-allstars
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1996'
 genres:
-- blues
-- blues rock
-- modern blues
-- roots rock
-- southern rock
+  - blues
+  - blues rock
+  - modern blues
+  - roots rock
+  - southern rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/north_mississippi_allstars.jpg
   caption: North Mississippi Allstars
@@ -23,7 +23,7 @@ audio_profile:
   danceability_avg: 0.676
   acousticness_avg: 0.364
   instrumentalness_avg: 0.12
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.056
   liveness_avg: 0.172
   track_count: 50
@@ -31,76 +31,76 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Chris Chew
-  - John Hiatt
-  - The Black Crowes
-  - Hill Country Revue
-  - South Memphis String Band
-  - The Wandering
+    - Chris Chew
+    - John Hiatt
+    - The Black Crowes
+    - Hill Country Revue
+    - South Memphis String Band
+    - The Wandering
   influenced:
-  - Sharde Thomas
-  - Modern Southern blues and roots musicians
+    - Sharde Thomas
+    - Modern Southern blues and roots musicians
   mentors:
-  - Jim Dickinson
-  - R.L. Burnside
-  - Junior Kimbrough
-  - Otha Turner
-  - Fred McDowell
+    - Jim Dickinson
+    - R.L. Burnside
+    - Junior Kimbrough
+    - Otha Turner
+    - Fred McDowell
 spotify_data:
   followers: 114994
   id: 714osTgzZrkyf3SGjggpfY
   popularity: 39
-  url: https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY
+  url: 'https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY'
 discography_enriched: true
 top_tracks:
-- Up and Rolling (Up and Rolling)
-- Meet Me In the City (World Boogie Is Coming)
-- Set Sail part I (featuring Lamar Williams Jr.) (Set Sail)
-- See the Moon (featuring Lamar Williams Jr. and Sharisse Norman) (Set Sail)
-- Mean Old World (Up and Rolling)
-- What You Gonna Do? (Up and Rolling)
-- Dyin' days (Freedom & Dreams)
-- Catfish (Catfish)
-- Rollin 'N Tumblin (World Boogie Is Coming)
-- Shake 'Em On Down (Shake Hands With Shorty)
+  - Up and Rolling (Up and Rolling)
+  - Meet Me In the City (World Boogie Is Coming)
+  - Set Sail part I (featuring Lamar Williams Jr.) (Set Sail)
+  - See the Moon (featuring Lamar Williams Jr. and Sharisse Norman) (Set Sail)
+  - Mean Old World (Up and Rolling)
+  - What You Gonna Do? (Up and Rolling)
+  - Dyin' days (Freedom & Dreams)
+  - Catfish (Catfish)
+  - Rollin 'N Tumblin (World Boogie Is Coming)
+  - Shake 'Em On Down (Shake Hands With Shorty)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/62fa3eb2-1b73-4029-ba35-16ab66d29d02
-  spotify: https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY
-  wikipedia: https://simple.wikipedia.org/wiki/North_Mississippi_Allstars
+  musicbrainz: 'https://musicbrainz.org/artist/62fa3eb2-1b73-4029-ba35-16ab66d29d02'
+  spotify: 'https://open.spotify.com/artist/714osTgzZrkyf3SGjggpfY'
+  wikipedia: 'https://simple.wikipedia.org/wiki/North_Mississippi_Allstars'
 image_path: 03_Resources/source_material/ArtistPortraits/north_mississippi_allstars.jpg
 biography_enhanced_at: '2025-11-05T12:59:53.472197'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- ATO Records artist page
-- Mississippi Encyclopedia
-- Simple English Wikipedia
-- North Mississippi Allstars official site
-- Relix feature
+  - ATO Records artist page
+  - Mississippi Encyclopedia
+  - Simple English Wikipedia
+  - North Mississippi Allstars official site
+  - Relix feature
 network_extracted: true
 entry_created: '2025-11-05T12:59:53.472213'
 last_updated: '2025-12-23T08:16:13.649900'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b0e8edad-86c2-4b3e-ab4b-d8ad6d45d859
-  name: Chris Chew
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 967a96e1-6efd-4a77-9196-33beb128de9b
-  name: Cody Dickinson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9cfa6a66-d2e6-46fe-b055-d91b397d3977
-  name: Luther Dickinson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b0e8edad-86c2-4b3e-ab4b-d8ad6d45d859
+    name: Chris Chew
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 967a96e1-6efd-4a77-9196-33beb128de9b
+    name: Cody Dickinson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9cfa6a66-d2e6-46fe-b055-d91b397d3977
+    name: Luther Dickinson
 musicbrainz_id: 62fa3eb2-1b73-4029-ba35-16ab66d29d02
-origin: Hernando
+origin: 'Hernando, Mississippi, United States'
 tags:
-- blues
-- blues rock
+  - blues
+  - blues rock
 ---
 
 ![](north_mississippi_allstars.jpg)

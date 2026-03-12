@@ -1,17 +1,18 @@
 ---
-title: orville newby & the saddle serenaders
+title: Orville Newby & the Saddle Serenaders
 wiki_slug: orville-newby-the-saddle-serenaders
 schema_version: 2
 status: active
-birth_place: Madera, California, United States
+birth_place: 'Madera, California, United States'
 genres:
-- boogie-woogie
-- rockabilly
+  - boogie-woogie
+  - rockabilly
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/orville_newby_and_the_saddle_serenaders.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/orville_newby_and_the_saddle_serenaders.jpg
   caption: orville newby & the saddle serenaders
   background: solo_singer
-  origin: Madera, California, United States
+  origin: 'Madera, California, United States'
 audio_profile:
   tempo_avg: 149.6
   energy_avg: 0.406
@@ -27,32 +28,38 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Saddle Serenaders
+    - The Saddle Serenaders
   influenced: []
   mentors: []
 spotify_data:
   followers: 2
   id: 2rW5FAMiPTzWyTyby7LYOx
   popularity: 0
-  url: https://open.spotify.com/artist/2rW5FAMiPTzWyTyby7LYOx
+  url: 'https://open.spotify.com/artist/2rW5FAMiPTzWyTyby7LYOx'
 discography_enriched: true
 top_tracks:
-- Ghost - Town - Boogie (Collectors Choice Vol. 5 - Boogie Woogie Fever)
-- Ghost-Town-Boogie (Hillbilly Halloween - A collection of haunted Country and Hillbilly music! (Remastered))
+  - Ghost - Town - Boogie (Collectors Choice Vol. 5 - Boogie Woogie Fever)
+  - >-
+    Ghost-Town-Boogie (Hillbilly Halloween - A collection of haunted Country and
+    Hillbilly music! (Remastered))
 external_urls:
-  spotify: https://open.spotify.com/artist/2rW5FAMiPTzWyTyby7LYOx
+  spotify: 'https://open.spotify.com/artist/2rW5FAMiPTzWyTyby7LYOx'
   wikipedia: null
 image_path: ''
 biography_enhanced_at: '2025-10-19T10:50:38.678281'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- legacy.com/obituaries/name/orville-newby-obituary?pid=2964690
-- sv.findagrave.com/memorial/69429080/orville-earl-newby
-- legacy.com/us/obituaries/fresnobee/name/orville-newby-obituary?id=14333787
+  - legacy.com/obituaries/name/orville-newby-obituary?pid=2964690
+  - sv.findagrave.com/memorial/69429080/orville-earl-newby
+  - legacy.com/us/obituaries/fresnobee/name/orville-newby-obituary?id=14333787
 network_extracted: true
 entry_created: '2025-10-19T10:50:38.678292'
 last_updated: '2025-12-23T08:16:13.810985'
+origin: 'Madera, California, United States'
+birth_date: '1911-09-16'
+death_date: '2004'
+artist_type: person
 ---
 
 ![]()

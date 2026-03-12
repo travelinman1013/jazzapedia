@@ -3,14 +3,14 @@ title: George Nooks
 wiki_slug: george-nooks
 schema_version: 2
 status: active
-birth_place: Kingston, Jamaica
+birth_place: 'Kingston, Jamaica, United States'
 genres:
-- lovers rock
+  - lovers rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/george_nooks.jpg
   caption: George Nooks
   background: solo_singer
-  origin: Kingston, Jamaica
+  origin: 'Kingston, Jamaica'
 audio_profile:
   tempo_avg: null
   energy_avg: null
@@ -22,39 +22,43 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - General Echo
-  - June Lodge
-  - Glen Washington
-  - Roland Burrell
-  - Singing Melody
-  - Lukie D
-  - Dingy Danejah
+    - General Echo
+    - June Lodge
+    - Glen Washington
+    - Roland Burrell
+    - Singing Melody
+    - Lukie D
+    - Dingy Danejah
   influenced: []
   mentors:
-  - Joe Gibbs
-  - Dennis Brown
-  - Prince Tony Robinson
+    - Joe Gibbs
+    - Dennis Brown
+    - Prince Tony Robinson
 spotify_data:
   followers: 8
   id: 2z0mgfo9Jz01HKnT3J95uF
   popularity: 4
-  url: https://open.spotify.com/artist/2z0mgfo9Jz01HKnT3J95uF
+  url: 'https://open.spotify.com/artist/2z0mgfo9Jz01HKnT3J95uF'
 discography_enriched: true
 external_urls:
-  spotify: https://open.spotify.com/artist/2z0mgfo9Jz01HKnT3J95uF
-  wikipedia: https://en.wikipedia.org/wiki/George_Nooks
+  spotify: 'https://open.spotify.com/artist/2z0mgfo9Jz01HKnT3J95uF'
+  wikipedia: 'https://en.wikipedia.org/wiki/George_Nooks'
 image_path: ''
 biography_enhanced_at: '2025-12-04T08:21:17.212911'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - George Nooks
-- 'Cross Rhythms - George Nooks: The mainstream reggae man playing the Oraclez Gospel Festival'
-- George Nooks Official Website
-- Reggaeville - Interview with George Nooks aka Prince Mohammed
+  - Wikipedia - George Nooks
+  - >-
+    Cross Rhythms - George Nooks: The mainstream reggae man playing the Oraclez
+    Gospel Festival
+  - George Nooks Official Website
+  - Reggaeville - Interview with George Nooks aka Prince Mohammed
 network_extracted: true
 entry_created: '2025-12-04T08:21:17.212918'
 last_updated: '2025-12-23T08:16:09.107391'
+birth_date: '1958'
+artist_type: person
 ---
 
 ![]()

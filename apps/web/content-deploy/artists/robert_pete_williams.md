@@ -1,21 +1,21 @@
 ---
-title: ROBERT PETE WILLIAMS
+title: Robert Pete Williams
 wiki_slug: robert-pete-williams
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1914-03-14'
-birth_place: Zachary
+birth_place: 'Zachary, Louisiana, United States'
 death_date: '1980-12-31'
 genres:
-- country blues
-- blues
-- classic blues
+  - country blues
+  - blues
+  - classic blues
 instruments:
-- guitar
-- acoustic guitar
-- 12 string guitar
-- slide guitar
+  - guitar
+  - acoustic guitar
+  - 12 string guitar
+  - slide guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/robert_pete_williams.jpg
   caption: ROBERT PETE WILLIAMS
@@ -38,62 +38,65 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dr. Harry Oster
-  - Richard Allen
-  - Butch Cage
-  - Willie B. Thomas
-  - Big Joe Williams
-  - Dick Annegarn
+    - Dr. Harry Oster
+    - Richard Allen
+    - Butch Cage
+    - Willie B. Thomas
+    - Big Joe Williams
+    - Dick Annegarn
   influenced:
-  - Captain Beefheart
-  - The Black Keys
+    - Captain Beefheart
+    - The Black Keys
   mentors:
-  - Frank Metty
-  - Robert Metty
-  - Blind Lemon Jefferson
-  - Peetie Wheatstraw
+    - Frank Metty
+    - Robert Metty
+    - Blind Lemon Jefferson
+    - Peetie Wheatstraw
 spotify_data:
   followers: 4222
   id: 2FUdiUbyZmIznvKtZcecib
   popularity: 11
-  url: https://open.spotify.com/artist/2FUdiUbyZmIznvKtZcecib
+  url: 'https://open.spotify.com/artist/2FUdiUbyZmIznvKtZcecib'
 discography_enriched: true
 top_tracks:
-- A Thousand Miles From Nowhere (Free Again)
-- I've Grown So Ugly (Free Again)
-- Graveyard Blues (The Sonet Blues Story)
-- Angola Penitentiary Blues (The Sonet Blues Story)
-- Free Again (Free Again)
-- Almost Dead Blues (Free Again)
-- Late Night Boogie (The Sonet Blues Story)
-- You're My All Day Steady And My Midnight Dream (The Sonet Blues Story)
-- I'm on My Way
-- Pardon Denied Again (I'm Blue as a Man Can Be)
+  - A Thousand Miles From Nowhere (Free Again)
+  - I've Grown So Ugly (Free Again)
+  - Graveyard Blues (The Sonet Blues Story)
+  - Angola Penitentiary Blues (The Sonet Blues Story)
+  - Free Again (Free Again)
+  - Almost Dead Blues (Free Again)
+  - Late Night Boogie (The Sonet Blues Story)
+  - You're My All Day Steady And My Midnight Dream (The Sonet Blues Story)
+  - I'm on My Way
+  - Pardon Denied Again (I'm Blue as a Man Can Be)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b0420275-0330-4220-beda-16f82e626900
-  spotify: https://open.spotify.com/artist/2FUdiUbyZmIznvKtZcecib
-  wikipedia: https://en.wikipedia.org/wiki/Robert_Pete_Williams
+  musicbrainz: 'https://musicbrainz.org/artist/b0420275-0330-4220-beda-16f82e626900'
+  spotify: 'https://open.spotify.com/artist/2FUdiUbyZmIznvKtZcecib'
+  wikipedia: 'https://en.wikipedia.org/wiki/Robert_Pete_Williams'
 image_path: 03_Resources/source_material/ArtistPortraits/robert_pete_williams.jpg
 biography_enhanced_at: '2025-12-04T07:52:11.046078'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Robert_Pete_Williams
-- https://blinddogradio.blogspot.com/2018/01/robert-pete-williams.html
-- https://www.bear-family.com/williams-robert-pete/
-- https://blues.org/blues_hof_inductee/robert-pete-williams/
-- https://folkways.si.edu/robert-pete-williams/vol-1-im-blue-as-a-man-can-be/blues/music/album/smithsonian
-- https://www.realrockandblues.com/articles/robert-pete-williams/
-- https://jazztimes.com/archives/robert-pete-williams-robert-pete-williams/
+  - 'https://en.wikipedia.org/wiki/Robert_Pete_Williams'
+  - 'https://blinddogradio.blogspot.com/2018/01/robert-pete-williams.html'
+  - 'https://www.bear-family.com/williams-robert-pete/'
+  - 'https://blues.org/blues_hof_inductee/robert-pete-williams/'
+  - >-
+    https://folkways.si.edu/robert-pete-williams/vol-1-im-blue-as-a-man-can-be/blues/music/album/smithsonian
+  - 'https://www.realrockandblues.com/articles/robert-pete-williams/'
+  - 'https://jazztimes.com/archives/robert-pete-williams-robert-pete-williams/'
 network_extracted: true
 entry_created: '2025-12-04T07:52:11.046084'
 last_updated: '2025-12-23T08:16:14.918814'
 gender: Male
 musicbrainz_id: b0420275-0330-4220-beda-16f82e626900
 tags:
-- acoustic blues
-- blues
-- country blues
+  - acoustic blues
+  - blues
+  - country blues
+is_active: false
+origin: 'Baton Rouge, Louisiana, United States'
 ---
 
 ![](robert_pete_williams.jpg)

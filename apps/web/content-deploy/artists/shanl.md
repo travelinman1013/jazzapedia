@@ -1,45 +1,46 @@
 ---
 biography_enhanced_at: '2025-12-28T02:00:30.410152'
-birth_place: Libreville, Gabon
+birth_place: 'Libreville, Gabon, United States'
 enhancement_provider: perplexity
 entry_created: '2025-12-28T02:00:30.410169'
 external_urls:
-  spotify: https://open.spotify.com/artist/71ZTSV6EMRWyjOGx14LrDE
-  wikipedia: https://fr.wikipedia.org/wiki/Shan%27L
+  spotify: 'https://open.spotify.com/artist/71ZTSV6EMRWyjOGx14LrDE'
+  wikipedia: 'https://fr.wikipedia.org/wiki/Shan%27L'
 genres:
-- rumba congolaise
-- afrobeat
+  - rumba congolaise
+  - afrobeat
 image_path: 03_Resources/source_material/ArtistPortraits/shanl.jpg
 last_updated: '2025-12-28T02:00:30.410171'
 musical_connections:
   collaborators:
-  - Arielle T
-  - Fally Ipupa
-  - Tina
-  - J-Rio
-  - F.A.N.G
+    - Arielle T
+    - Fally Ipupa
+    - Tina
+    - J-Rio
+    - F.A.N.G
   influenced: []
   mentors:
-  - Edgard Yonkeu
-  - Akon
+    - Edgard Yonkeu
+    - Akon
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://fr.wikipedia.org/wiki/Shan%27L
-- https://www.viberate.com/artist/shanl/
-- https://songstats.com/artist/jrv4g6fl/shan-l
-- https://profileability.com/shanl/
-- https://www.famousbirthdays.com/people/shan-l.html
-- https://afrikalyrics.com/artist/shan-l
-- https://www.boomplay.com/share/artist/2992213
+  - 'https://fr.wikipedia.org/wiki/Shan%27L'
+  - 'https://www.viberate.com/artist/shanl/'
+  - 'https://songstats.com/artist/jrv4g6fl/shan-l'
+  - 'https://profileability.com/shanl/'
+  - 'https://www.famousbirthdays.com/people/shan-l.html'
+  - 'https://afrikalyrics.com/artist/shan-l'
+  - 'https://www.boomplay.com/share/artist/2992213'
 spotify_data:
   followers: 79079
   id: 71ZTSV6EMRWyjOGx14LrDE
   popularity: 33
-  url: https://open.spotify.com/artist/71ZTSV6EMRWyjOGx14LrDE
+  url: 'https://open.spotify.com/artist/71ZTSV6EMRWyjOGx14LrDE'
 status: active
-title: shan'l
-
+title: Shan'L
+birth_date: '1989-02-06'
+artist_type: person
 ---
 
 ![](shanl.jpg)

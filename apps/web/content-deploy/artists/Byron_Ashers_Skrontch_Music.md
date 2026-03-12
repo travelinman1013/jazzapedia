@@ -1,5 +1,5 @@
 ---
-title: Byron Asher's Skrontch Music
+title: Byron Asher’s Skrontch Music
 wiki_slug: byron-ashers-skrontch-music
 schema_version: 2
 status: active
@@ -23,46 +23,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Doug Garrison
-  - James Singleton
-  - Steve Glenn
-  - Oscar Rossignoli
-  - Emily Frederickson
-  - Peter J Bowling
+    - Doug Garrison
+    - James Singleton
+    - Steve Glenn
+    - Oscar Rossignoli
+    - Emily Frederickson
+    - Peter J Bowling
   influenced: []
   mentors:
-  - Duke Ellington
+    - Duke Ellington
 spotify_data:
   followers: 8
   id: 7rWXeooittiCzN0DqEy8v7
   popularity: 0
-  url: https://open.spotify.com/artist/7rWXeooittiCzN0DqEy8v7
+  url: 'https://open.spotify.com/artist/7rWXeooittiCzN0DqEy8v7'
 discography_enriched: true
 top_tracks:
-- The Problem With Mississippi (Lord, When You Send The Rain)
-- New Louisiana Hoodoo Blues (Lord, When You Send The Rain)
-- The Break (Lord, When You Send The Rain)
-- 'Re: Backwater Blues (Lord, When You Send The Rain)'
-- Duet (Lord, When You Send The Rain)
-- Threads (Lord, When You Send The Rain)
-- Ma Rainey's Barrelhouse Blues (Lord, When You Send The Rain)
-- Papa likes his outside women, Mama likes her outside men (Lord, When You Send The Rain)
+  - 'The Problem With Mississippi (Lord, When You Send The Rain)'
+  - 'New Louisiana Hoodoo Blues (Lord, When You Send The Rain)'
+  - 'The Break (Lord, When You Send The Rain)'
+  - 'Re: Backwater Blues (Lord, When You Send The Rain)'
+  - 'Duet (Lord, When You Send The Rain)'
+  - 'Threads (Lord, When You Send The Rain)'
+  - 'Ma Rainey''s Barrelhouse Blues (Lord, When You Send The Rain)'
+  - >-
+    Papa likes his outside women, Mama likes her outside men (Lord, When You
+    Send The Rain)
 external_urls:
-  spotify: https://open.spotify.com/artist/7rWXeooittiCzN0DqEy8v7
+  spotify: 'https://open.spotify.com/artist/7rWXeooittiCzN0DqEy8v7'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/Byron_Ashers_Skrontch_Music.jpg
 biography_enhanced_at: '2025-10-20T09:45:25.630571'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.byronasher.com/skrontch-music
-- https://syos.co/en/blogs/our-artists/byron-asher
-- https://www.byronasher.com/about
-- https://www.louisianamusicfactory.com/product/byron-asher-skrontch-music-vinyl-lp/
+  - 'https://www.byronasher.com/skrontch-music'
+  - 'https://syos.co/en/blogs/our-artists/byron-asher'
+  - 'https://www.byronasher.com/about'
+  - >-
+    https://www.louisianamusicfactory.com/product/byron-asher-skrontch-music-vinyl-lp/
 network_extracted: true
 entry_created: '2025-10-20T09:45:25.630586'
 last_updated: '2025-12-23T08:16:01.397984'
-origin: New Orleans, Louisiana, USA
+origin: 'New Orleans, Louisiana, USA'
+artist_type: person
 ---
 
 ![](Byron_Ashers_Skrontch_Music.jpg)

@@ -1,53 +1,56 @@
 ---
-artist_type: group
+artist_type: person
 biography_enhanced_at: '2026-01-11T02:22:11.740280'
 birth_date: '1986'
 enhancement_provider: perplexity
 entry_created: '2026-01-11T02:22:11.740288'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f2a84b13-0ff1-4002-a3e4-fe4aa34d601f
-  spotify: https://open.spotify.com/artist/3m1DDsmQLhY6IIfGHibFjI
-  wikipedia: https://en.wikipedia.org/wiki/Original_Concept
+  musicbrainz: 'https://musicbrainz.org/artist/f2a84b13-0ff1-4002-a3e4-fe4aa34d601f'
+  spotify: 'https://open.spotify.com/artist/3m1DDsmQLhY6IIfGHibFjI'
+  wikipedia: 'https://en.wikipedia.org/wiki/Original_Concept'
 genres:
-- miami bass
-- old school hip hop
+  - miami bass
+  - old school hip hop
 image_path: 03_Resources/source_material/ArtistPortraits/original_concept.jpg
 last_updated: '2026-01-11T02:22:11.740289'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0e1cd073-8da9-4f8c-a8db-1427e18b7a8d
-  name: Doctor Dré
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c3401e41-c60a-4dab-8aa1-546a5a09f603
-  name: T-Money
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0e1cd073-8da9-4f8c-a8db-1427e18b7a8d
+    name: Doctor Dré
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c3401e41-c60a-4dab-8aa1-546a5a09f603
+    name: T-Money
 musical_connections:
   collaborators:
-  - Public Enemy
-  - Profile Records roster (including Run-D.M.C. and other labelmates)
+    - Public Enemy
+    - Profile Records roster (including Run-D.M.C. and other labelmates)
   influenced:
-  - Later sample-based, DJ‑centric East Coast producers and crate‑digging DJs
+    - 'Later sample-based, DJ‑centric East Coast producers and crate‑digging DJs'
   mentors:
-  - The WBAU-FM / Adelphi University hip-hop radio community (including Chuck D and
-    Public Enemy members)
+    - >-
+      The WBAU-FM / Adelphi University hip-hop radio community (including Chuck
+      D and Public Enemy members)
 musicbrainz_id: f2a84b13-0ff1-4002-a3e4-fe4aa34d601f
 network_extracted: true
-origin: Uniondale/Adelphi University (Long Island), New York, United States (origin
-  as a group tied to WBAU-FM at Adelphi University)
+origin: >-
+  Uniondale/Adelphi University (Long Island), New York, United States (origin as
+  a group tied to WBAU-FM at Adelphi University)
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Original_Concept
-- https://en.wikipedia.org/wiki/Straight_from_the_Basement_of_Kooley_High%21
-- https://www.allmusic.com/artist/original-concept-mn0000485514/biography
-- https://www.allmusic.com/album/straight-from-the-basement-of-kooley-high%21-mw0000652559
+  - 'https://en.wikipedia.org/wiki/Original_Concept'
+  - 'https://en.wikipedia.org/wiki/Straight_from_the_Basement_of_Kooley_High%21'
+  - 'https://www.allmusic.com/artist/original-concept-mn0000485514/biography'
+  - >-
+    https://www.allmusic.com/album/straight-from-the-basement-of-kooley-high%21-mw0000652559
 spotify_data:
   followers: 5929
   id: 3m1DDsmQLhY6IIfGHibFjI
   popularity: 7
-  url: https://open.spotify.com/artist/3m1DDsmQLhY6IIfGHibFjI
+  url: 'https://open.spotify.com/artist/3m1DDsmQLhY6IIfGHibFjI'
 status: active
 title: Original Concept
 ---

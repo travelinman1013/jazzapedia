@@ -1,16 +1,16 @@
 ---
-title: jim robinson
+title: Jim Robinson
 wiki_slug: jim-robinson
 schema_version: 2
 status: active
-birth_place: Deer Range, Plaquemines Parish, Louisiana, USA
+birth_place: 'Deer Range, Plaquemines Parish, Louisiana, USA'
 genres:
-- ragtime
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jim_robinson.jpg
   caption: jim robinson
   background: solo_singer
-  origin: Deer Range, Plaquemines Parish, Louisiana, USA
+  origin: 'Deer Range, Plaquemines Parish, Louisiana, USA'
 audio_profile:
   tempo_avg: 130.1
   energy_avg: 0.548
@@ -26,47 +26,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sam Morgan
-  - Bunk Johnson
-  - George Lewis
-  - '"Sweet" Emma Barrett'
-  - Percy Humphrey
+    - Sam Morgan
+    - Bunk Johnson
+    - George Lewis
+    - '"Sweet" Emma Barrett'
+    - Percy Humphrey
   influenced:
-  - Frank Demond
-  - Big Bill Bissonnette
+    - Frank Demond
+    - Big Bill Bissonnette
   mentors:
-  - Professor James Brown Humphrey
-  - Sonny Henry
+    - Professor James Brown Humphrey
+    - Sonny Henry
 spotify_data:
   followers: 626
   id: 2FWuxTJhQ5qXHUSrfpi9vw
   popularity: 6
-  url: https://open.spotify.com/artist/2FWuxTJhQ5qXHUSrfpi9vw
+  url: 'https://open.spotify.com/artist/2FWuxTJhQ5qXHUSrfpi9vw'
 discography_enriched: true
 top_tracks:
-- Indian Love Call (Jim Robinson with Kid Thomas, Ernie Cagnolatti & De De Pierce)
-- 'My Bucket''s Got a Hole in It - Robinson (Atlantic Jazz: New Orleans)'
-- La Marseillaise (George Lewis at San Jacinto Hall)
-- More That I Can Say
-- South (New Orleans Stompers)
-- Don't Go Way Nobody (George Lewis and His New Orleans Stompers, Vol. 1)
-- Bye and Bye (New Orleans Stompers)
-- Washington and Lee Swing (All Aboard)
-- When Your Hair Has Turned to Silver (Jim Robinson with Kid Thomas, Ernie Cagnolatti & De De Pierce)
-- Don't Go Way Nobody (Take 2)
+  - >-
+    Indian Love Call (Jim Robinson with Kid Thomas, Ernie Cagnolatti & De De
+    Pierce)
+  - 'My Bucket''s Got a Hole in It - Robinson (Atlantic Jazz: New Orleans)'
+  - La Marseillaise (George Lewis at San Jacinto Hall)
+  - More That I Can Say
+  - South (New Orleans Stompers)
+  - 'Don''t Go Way Nobody (George Lewis and His New Orleans Stompers, Vol. 1)'
+  - Bye and Bye (New Orleans Stompers)
+  - Washington and Lee Swing (All Aboard)
+  - >-
+    When Your Hair Has Turned to Silver (Jim Robinson with Kid Thomas, Ernie
+    Cagnolatti & De De Pierce)
+  - Don't Go Way Nobody (Take 2)
 external_urls:
-  spotify: https://open.spotify.com/artist/2FWuxTJhQ5qXHUSrfpi9vw
-  wikipedia: https://en.wikipedia.org/wiki/Jim_Robinson_(trombonist)
+  spotify: 'https://open.spotify.com/artist/2FWuxTJhQ5qXHUSrfpi9vw'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jim_Robinson_(trombonist)'
 image_path: 03_Resources/source_material/ArtistPortraits/jim_robinson.jpg
 biography_enhanced_at: '2025-10-19T12:27:55.147089'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jim_Robinson_(trombonist)
-- https://64parishes.org/entry/jim-robinson
+  - 'https://en.wikipedia.org/wiki/Jim_Robinson_(trombonist)'
+  - 'https://64parishes.org/entry/jim-robinson'
 network_extracted: true
 entry_created: '2025-10-19T12:27:55.147110'
 last_updated: '2025-12-23T08:16:10.393149'
+birth_date: '1890-12-25'
+artist_type: band
 ---
 
 ![](jim_robinson.jpg)

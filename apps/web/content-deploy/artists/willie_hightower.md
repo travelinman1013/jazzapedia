@@ -1,17 +1,17 @@
 ---
-title: willie hightower
+title: Willie Hightower
 wiki_slug: willie-hightower
 schema_version: 2
 status: active
-birth_place: Gadsden, Alabama, United States
+birth_place: 'Gadsden, Alabama, United States'
 genres:
-- northern soul
-- soul
+  - northern soul
+  - soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/willie_hightower.jpg
   caption: willie hightower
   background: solo_singer
-  origin: Gadsden, Alabama, United States
+  origin: 'Gadsden, Alabama, United States'
 audio_profile:
   tempo_avg: 125.7
   energy_avg: 0.422
@@ -27,49 +27,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bobby Robinson
-  - Rick Hall
-  - Quinton Claunch
-  - Shelley Stewart
-  - The Drifters
-  - Clayton Ivey, Travis Wammack, Will McFarlane
+    - Bobby Robinson
+    - Rick Hall
+    - Quinton Claunch
+    - Shelley Stewart
+    - The Drifters
+    - 'Clayton Ivey, Travis Wammack, Will McFarlane'
   influenced:
-  - Northern Soul artists and collectors
+    - Northern Soul artists and collectors
   mentors:
-  - Sam Cooke
+    - Sam Cooke
 spotify_data:
   followers: 3662
   id: 2cdUFp4u27H1ZJHGvuTvFG
   popularity: 13
-  url: https://open.spotify.com/artist/2cdUFp4u27H1ZJHGvuTvFG
+  url: 'https://open.spotify.com/artist/2cdUFp4u27H1ZJHGvuTvFG'
 discography_enriched: true
 top_tracks:
-- It's Too Late (Willie Hightower)
-- Walk A Mile In My Shoes (Willie Hightower)
-- If I Had a Hammer (Willie Hightower)
-- Time Has Brought About A Change (Willie Hightower)
-- Nobody But You (Willie Hightower)
-- Back Road Into Town (Willie Hightower)
-- Because I Love You (Willie Hightower)
-- You Used Me Baby (Willie Hightower)
-- (Take My Hand) Let's Walk Together (Willie Hightower)
-- I Can't Love Without You (Willie Hightower)
+  - It's Too Late (Willie Hightower)
+  - Walk A Mile In My Shoes (Willie Hightower)
+  - If I Had a Hammer (Willie Hightower)
+  - Time Has Brought About A Change (Willie Hightower)
+  - Nobody But You (Willie Hightower)
+  - Back Road Into Town (Willie Hightower)
+  - Because I Love You (Willie Hightower)
+  - You Used Me Baby (Willie Hightower)
+  - (Take My Hand) Let's Walk Together (Willie Hightower)
+  - I Can't Love Without You (Willie Hightower)
 external_urls:
-  spotify: https://open.spotify.com/artist/2cdUFp4u27H1ZJHGvuTvFG
+  spotify: 'https://open.spotify.com/artist/2cdUFp4u27H1ZJHGvuTvFG'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/willie_hightower.jpg
 biography_enhanced_at: '2025-10-20T09:04:56.354354'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://alabamanewscenter.com/2019/07/31/willie-hightower-is-an-alabama-music-maker-with-a-lasting-legacy/
-- https://dereksmusicblog.com/2018/09/19/willie-hightower-out-of-the-blue/
-- https://www.last.fm/music/Willie+Hightower/+wiki
-- https://www.ponderosastomp.com/music_more/307/Willie+Hightower
-- https://www.soulexpress.net/williehightower.htm
+  - >-
+    https://alabamanewscenter.com/2019/07/31/willie-hightower-is-an-alabama-music-maker-with-a-lasting-legacy/
+  - 'https://dereksmusicblog.com/2018/09/19/willie-hightower-out-of-the-blue/'
+  - 'https://www.last.fm/music/Willie+Hightower/+wiki'
+  - 'https://www.ponderosastomp.com/music_more/307/Willie+Hightower'
+  - 'https://www.soulexpress.net/williehightower.htm'
 network_extracted: true
 entry_created: '2025-10-20T09:04:56.354365'
 last_updated: '2025-12-23T08:16:18.184677'
+artist_type: person
 ---
 
 ![](willie_hightower.jpg)

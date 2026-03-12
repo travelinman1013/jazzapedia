@@ -23,46 +23,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mannie Fresh
-  - Ivan Neville
-  - Allen Toussaint
-  - Irma Thomas
-  - Big Freedia
+    - Mannie Fresh
+    - Ivan Neville
+    - Allen Toussaint
+    - Irma Thomas
+    - Big Freedia
   influenced: []
   mentors: []
 spotify_data:
   followers: 5012
   id: 15S4rchXnFc8L2plJFAGXg
   popularity: 8
-  url: https://open.spotify.com/artist/15S4rchXnFc8L2plJFAGXg
+  url: 'https://open.spotify.com/artist/15S4rchXnFc8L2plJFAGXg'
 discography_enriched: true
 top_tracks:
-- You Know What It's About (Boss)
-- Walk It Like An Animal (At Capacity)
-- Sexy Body (Boss)
-- Who Got The Baby? (Who Got The Baby?)
-- Good Time Girl (Loteria Cosmica)
-- Looking For Me (Garden of Earthly Delights)
-- Higher Vibration (Garden of Earthly Delights)
-- Boss (Boss)
-- Gimmie A Line (Alligator White)
-- Keep Pushing (Garden of Earthly Delights)
+  - You Know What It's About (Boss)
+  - Walk It Like An Animal (At Capacity)
+  - Sexy Body (Boss)
+  - Who Got The Baby? (Who Got The Baby?)
+  - Good Time Girl (Loteria Cosmica)
+  - Looking For Me (Garden of Earthly Delights)
+  - Higher Vibration (Garden of Earthly Delights)
+  - Boss (Boss)
+  - Gimmie A Line (Alligator White)
+  - Keep Pushing (Garden of Earthly Delights)
 external_urls:
-  spotify: https://open.spotify.com/artist/15S4rchXnFc8L2plJFAGXg
-  wikipedia: https://en.wikipedia.org/wiki/Flow_Tribe
+  spotify: 'https://open.spotify.com/artist/15S4rchXnFc8L2plJFAGXg'
+  wikipedia: 'https://en.wikipedia.org/wiki/Flow_Tribe'
 image_path: 03_Resources/source_material/ArtistPortraits/flow_tribe.jpg
 biography_enhanced_at: '2025-12-16T03:16:18.735990'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Flow_Tribe
-- https://www.flowtribe.com/bio
-- https://www.offbeat.com/articles/flow-tribe-know-whats-its-about/
-- https://roamingthearts.com/flow-tribe/
+  - 'https://en.wikipedia.org/wiki/Flow_Tribe'
+  - 'https://www.flowtribe.com/bio'
+  - 'https://www.offbeat.com/articles/flow-tribe-know-whats-its-about/'
+  - 'https://roamingthearts.com/flow-tribe/'
 network_extracted: true
 entry_created: '2025-12-16T03:16:18.736014'
 last_updated: '2025-12-23T08:16:08.725311'
-origin: New Orleans, Louisiana, USA
+origin: 'New Orleans, Louisiana, USA'
+artist_type: band
 ---
 
 ![](flow_tribe.jpg)

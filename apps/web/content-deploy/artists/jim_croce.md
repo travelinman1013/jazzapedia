@@ -2,58 +2,60 @@
 artist_type: person
 biography_enhanced_at: '2026-01-12T01:59:43.498029'
 birth_date: '1943-01-10'
-birth_place: Philadelphia
+birth_place: 'South Philadelphia, Pennsylvania, United States'
 death_date: '1973-09-20'
 enhancement_provider: perplexity
 entry_created: '2026-01-12T01:59:43.498034'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/fcfa9543-e113-4ef9-9ef6-455ba4cbe7af
-  spotify: https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM
-  wikipedia: https://en.wikipedia.org/wiki/Jim_Croce
+  musicbrainz: 'https://musicbrainz.org/artist/fcfa9543-e113-4ef9-9ef6-455ba4cbe7af'
+  spotify: 'https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jim_Croce'
 gender: Male
 genres:
-- folk rock
-- singer-songwriter
+  - folk rock
+  - singer-songwriter
 image_path: 03_Resources/source_material/ArtistPortraits/jim_croce.jpg
 instruments:
-- guitar
-- background vocals
-- spoken vocals
+  - guitar
+  - background vocals
+  - spoken vocals
 last_updated: '2026-01-12T01:59:43.498034'
 musical_connections:
   collaborators:
-  - Ingrid Croce
-  - Maury Muehleisen
-  - Tommy West & Terry Cashman
+    - Ingrid Croce
+    - Maury Muehleisen
+    - Tommy West & Terry Cashman
   influenced:
-  - A. J. Croce
-  - Contemporary American singer‑songwriters (various)
+    - A. J. Croce
+    - Contemporary American singer‑songwriters (various)
   mentors:
-  - Tommy West
-  - Terry Cashman
-  - Traditional folk, country, ragtime, and rhythm & blues artists (various)
+    - Tommy West
+    - Terry Cashman
+    - 'Traditional folk, country, ragtime, and rhythm & blues artists (various)'
 musicbrainz_id: fcfa9543-e113-4ef9-9ef6-455ba4cbe7af
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jim_Croce
-- https://jimcroce.com/biography
-- https://www.philadelphiamusicalliance.org/walk-of-fame/jim-croce/
-- https://thesummit.fm/2023/10/19/timeline-1973-jim-croce/
-- https://www.biography.com/musician/jim-croce
-- https://jbonamassa.com/jim-croce-the-peoples-songwriter/
-- https://folkalley.com/jim-croce-50-years-after-life-and-times/
+  - 'https://en.wikipedia.org/wiki/Jim_Croce'
+  - 'https://jimcroce.com/biography'
+  - 'https://www.philadelphiamusicalliance.org/walk-of-fame/jim-croce/'
+  - 'https://thesummit.fm/2023/10/19/timeline-1973-jim-croce/'
+  - 'https://www.biography.com/musician/jim-croce'
+  - 'https://jbonamassa.com/jim-croce-the-peoples-songwriter/'
+  - 'https://folkalley.com/jim-croce-50-years-after-life-and-times/'
 spotify_data:
   followers: 1694469
   id: 1R6Hx1tJ2VOUyodEpC12xM
   popularity: 68
-  url: https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM
+  url: 'https://open.spotify.com/artist/1R6Hx1tJ2VOUyodEpC12xM'
 status: active
 tags:
-- american
-- folk
-- singer/songwriter
+  - american
+  - folk
+  - singer/songwriter
 title: Jim Croce
+is_active: false
+origin: 'New York City, New York, United States'
 ---
 
 ![](jim_croce.jpg)

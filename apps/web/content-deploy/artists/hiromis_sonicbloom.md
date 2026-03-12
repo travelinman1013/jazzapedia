@@ -23,47 +23,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tony Grey
-  - Martin Valihora
-  - David Fiuczynski
+    - Tony Grey
+    - Martin Valihora
+    - David Fiuczynski
   influenced:
-  - Younger Japanese jazz pianists
+    - Younger Japanese jazz pianists
   mentors:
-  - Noriko Hikida
-  - Ahmad Jamal
-  - Chick Corea
+    - Noriko Hikida
+    - Ahmad Jamal
+    - Chick Corea
 spotify_data:
   followers: 873
   id: 4F1X6FND5FtmbZ8mXJr4Oz
   popularity: 13
-  url: https://open.spotify.com/artist/4F1X6FND5FtmbZ8mXJr4Oz
+  url: 'https://open.spotify.com/artist/4F1X6FND5FtmbZ8mXJr4Oz'
 discography_enriched: true
 top_tracks:
-- Time Flies (Jazz Piano)
-- My Favorite Things (上原ひろみ 2003-2019)
-- Ue Wo Muite Aruko (上原ひろみ 2003-2019)
-- I've Got Rhythm (上原ひろみ 2003-2019)
-- Time Difference (上原ひろみ 2003-2019)
-- Time Out (上原ひろみ 2003-2019)
-- Deep Into The Night (上原ひろみ 2003-2019)
-- Time Out (Electrifying Piano)
-- Caravan (Electrifying Piano)
+  - Time Flies (Jazz Piano)
+  - My Favorite Things (上原ひろみ 2003-2019)
+  - Ue Wo Muite Aruko (上原ひろみ 2003-2019)
+  - I've Got Rhythm (上原ひろみ 2003-2019)
+  - Time Difference (上原ひろみ 2003-2019)
+  - Time Out (上原ひろみ 2003-2019)
+  - Deep Into The Night (上原ひろみ 2003-2019)
+  - Time Out (Electrifying Piano)
+  - Caravan (Electrifying Piano)
 external_urls:
-  spotify: https://open.spotify.com/artist/4F1X6FND5FtmbZ8mXJr4Oz
-  wikipedia: https://en.wikipedia.org/wiki/Hiromi_Uehara
+  spotify: 'https://open.spotify.com/artist/4F1X6FND5FtmbZ8mXJr4Oz'
+  wikipedia: 'https://en.wikipedia.org/wiki/Hiromi_Uehara'
 image_path: ''
 biography_enhanced_at: '2025-10-27T02:54:57.907695'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Hiromi_Uehara
-- https://www.last.fm/music/Hiromi/+wiki
-- https://concord.com/concord-albums/hiromis-sonicbloom-beyond-standard/
-- https://kids.kiddle.co/Hiromi_Uehara
+  - 'https://en.wikipedia.org/wiki/Hiromi_Uehara'
+  - 'https://www.last.fm/music/Hiromi/+wiki'
+  - 'https://concord.com/concord-albums/hiromis-sonicbloom-beyond-standard/'
+  - 'https://kids.kiddle.co/Hiromi_Uehara'
 network_extracted: true
 entry_created: '2025-10-27T02:54:57.907705'
 last_updated: '2025-12-23T08:16:09.630736'
-origin: Hamamatsu, Shizuoka, Japan
+origin: 'Hamamatsu, Shizuoka, Japan'
+birth_place: 'Hamamatsu, Shizuoka, Japan'
+birth_date: '1979'
+artist_type: person
 ---
 
 ![]()

@@ -6,14 +6,14 @@ status: active
 aliases: []
 years_active: 1977–present
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 record_labels:
-- Concord Jazz
-- Concord Records
+  - Concord Jazz
+  - Concord Records
 associated_acts:
-- Charles Joseph
-- Roger Lewis
+  - Charles Joseph
+  - Roger Lewis
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Dirty_Dozen_Brass_Band.jpg
   caption: Dirty Dozen Brass Band
@@ -33,44 +33,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dr. John
-  - Widespread Panic
-  - Norah Jones
-  - Modest Mouse
+    - Dr. John
+    - Widespread Panic
+    - Norah Jones
+    - Modest Mouse
   influenced:
-  - Various New Orleans Brass Bands
+    - Various New Orleans Brass Bands
   mentors:
-  - Danny Barker
+    - Danny Barker
 related_artists: []
 spotify_data:
   followers: 110
   id: 1QfF0NDvI75nW2SZ8L9iRA
   popularity: 12
-  url: https://open.spotify.com/artist/1QfF0NDvI75nW2SZ8L9iRA
+  url: 'https://open.spotify.com/artist/1QfF0NDvI75nW2SZ8L9iRA'
   verified: false
 discography_enriched: true
 albums_count: 0
 singles_count: 0
 top_tracks:
-- My Feet Can't Fail Me Now (Our New Orleans (Expanded Edition))
+  - My Feet Can't Fail Me Now (Our New Orleans (Expanded Edition))
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/1QfF0NDvI75nW2SZ8L9iRA
-  wikipedia: https://en.wikipedia.org/wiki/Dirty_Dozen_Brass_Band
+  spotify: 'https://open.spotify.com/artist/1QfF0NDvI75nW2SZ8L9iRA'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dirty_Dozen_Brass_Band'
 image_path: null
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:11:09.687644'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Music Rising - Tulane University
-- Discover Fort Mose
-- 64 Parishes
+  - Music Rising - Tulane University
+  - Discover Fort Mose
+  - 64 Parishes
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:53:55.785463
+entry_created: 2025-09-22T21:53:55.785Z
 last_updated: '2025-12-23T08:16:01.729110'
-origin: New Orleans, Louisiana, USA
+origin: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![]()

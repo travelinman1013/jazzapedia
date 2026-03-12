@@ -5,13 +5,13 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1920-07-29'
-birth_place: Santiago de Cuba
+birth_place: 'Santiago de Cuba, Santiago de Cuba Province, Cuba'
 death_date: '2006-03-25'
 genres:
-- son cubano
-- salsa
-- guaracha
-- bolero
+  - son cubano
+  - salsa
+  - guaracha
+  - bolero
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/la_india_de_oriente.jpg
   caption: La India de Oriente
@@ -34,45 +34,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Various Cuban bands and ensembles
+    - Various Cuban bands and ensembles
   influenced:
-  - Contemporary Cuban and Latin singers
+    - Contemporary Cuban and Latin singers
   mentors:
-  - Unknown (traditional Cuban musicians)
+    - Unknown (traditional Cuban musicians)
 spotify_data:
   followers: 4921
   id: 0qw11RnfHtkBwkwWE4ySey
   popularity: 20
-  url: https://open.spotify.com/artist/0qw11RnfHtkBwkwWE4ySey
+  url: 'https://open.spotify.com/artist/0qw11RnfHtkBwkwWE4ySey'
 discography_enriched: true
 top_tracks:
-- El Fiel Enamorado (Lo Mejor De La India De Oriente - Volumen I)
-- Guajira Guantanamera (Lo Mejor De La India De Oriente - Volumen I)
-- A Bailar El Son (Lo Mejor De La India De Oriente - Volumen I)
-- Ahora Seremos Felices (Sar All Stars Interpretan a Rafael Hernandez)
-- Cancion De La Serrania (Lo Mejor De La India De Oriente - Volumen I)
-- Fue en la Cantina (Pa' la Cantina)
-- Romance Campesino (Lo Mejor De La India De Oriente - Volumen I)
-- Canta Canta (La Reina de la Guajira)
-- Yo Soy El Punto Cubano (Lo Mejor De La India De Oriente - Volumen I)
-- Romance Guajiro (Lo Mejor De La India De Oriente - Volumen I)
+  - El Fiel Enamorado (Lo Mejor De La India De Oriente - Volumen I)
+  - Guajira Guantanamera (Lo Mejor De La India De Oriente - Volumen I)
+  - A Bailar El Son (Lo Mejor De La India De Oriente - Volumen I)
+  - Ahora Seremos Felices (Sar All Stars Interpretan a Rafael Hernandez)
+  - Cancion De La Serrania (Lo Mejor De La India De Oriente - Volumen I)
+  - Fue en la Cantina (Pa' la Cantina)
+  - Romance Campesino (Lo Mejor De La India De Oriente - Volumen I)
+  - Canta Canta (La Reina de la Guajira)
+  - Yo Soy El Punto Cubano (Lo Mejor De La India De Oriente - Volumen I)
+  - Romance Guajiro (Lo Mejor De La India De Oriente - Volumen I)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1fbf0dc1-b22b-4fd0-8fb6-bccca36f7143
-  spotify: https://open.spotify.com/artist/0qw11RnfHtkBwkwWE4ySey
+  musicbrainz: 'https://musicbrainz.org/artist/1fbf0dc1-b22b-4fd0-8fb6-bccca36f7143'
+  spotify: 'https://open.spotify.com/artist/0qw11RnfHtkBwkwWE4ySey'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/la_india_de_oriente.jpg
 biography_enhanced_at: '2025-11-10T03:34:10.871178'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Apple Music artist profile [3]
-- Magazine AM:PM feature [4]
+  - 'Apple Music artist profile [3]'
+  - 'Magazine AM:PM feature [4]'
 network_extracted: true
 entry_created: '2025-11-10T03:34:10.871194'
 last_updated: '2025-12-23T08:16:11.528098'
 disambiguation: Cuban singer
 gender: Female
 musicbrainz_id: 1fbf0dc1-b22b-4fd0-8fb6-bccca36f7143
+is_active: false
 ---
 
 ![](la_india_de_oriente.jpg)

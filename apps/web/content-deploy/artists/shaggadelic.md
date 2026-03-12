@@ -4,15 +4,15 @@ wiki_slug: shaggadelic
 schema_version: 2
 artist_type: person
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/shaggadelic.jpg
   caption: Shaggadelic
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
-  tempo_avg: 137.0
+  tempo_avg: 137
   energy_avg: 0.542
   valence_avg: 0.448
   danceability_avg: 0.749
@@ -28,42 +28,43 @@ musical_connections:
   collaborators: []
   influenced: []
   mentors:
-  - Multi-generational family musicians
+    - Multi-generational family musicians
 spotify_data:
   followers: 15
   id: 1QFLLxIbKbtmeogvDgulbr
   popularity: 0
-  url: https://open.spotify.com/artist/1QFLLxIbKbtmeogvDgulbr
+  url: 'https://open.spotify.com/artist/1QFLLxIbKbtmeogvDgulbr'
 discography_enriched: true
 top_tracks:
-- Fire and Desire (Everything Is Intentional)
-- Bedroom (Everything Is Intentional)
-- Story (Everything Is Intentional)
-- Space (Everything Is Intentional)
-- Can't Take This (All Rock'd Up)
-- Clock Rock (Clock Rock)
-- Wait for Me (Live) (Wait for Me (Live))
-- On My Mind (On My Mind)
-- Come Thru (Come Thru)
+  - Fire and Desire (Everything Is Intentional)
+  - Bedroom (Everything Is Intentional)
+  - Story (Everything Is Intentional)
+  - Space (Everything Is Intentional)
+  - Can't Take This (All Rock'd Up)
+  - Clock Rock (Clock Rock)
+  - Wait for Me (Live) (Wait for Me (Live))
+  - On My Mind (On My Mind)
+  - Come Thru (Come Thru)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/409cc737-150d-4541-aff2-b59f520debd2
-  spotify: https://open.spotify.com/artist/1QFLLxIbKbtmeogvDgulbr
+  musicbrainz: 'https://musicbrainz.org/artist/409cc737-150d-4541-aff2-b59f520debd2'
+  spotify: 'https://open.spotify.com/artist/1QFLLxIbKbtmeogvDgulbr'
   wikipedia: Not found
 image_path: 03_Resources/source_material/ArtistPortraits/shaggadelic.jpg
 biography_enhanced_at: '2025-11-21T07:08:43.244475'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- astravisionentertainment.com
-- antigravitymagazine.com
-- rapfiesta.com
-- indiepulsemusic.com
-- greenteamagazine.com
+  - astravisionentertainment.com
+  - antigravitymagazine.com
+  - rapfiesta.com
+  - indiepulsemusic.com
+  - greenteamagazine.com
 network_extracted: true
 entry_created: '2025-11-21T07:08:43.244491'
 last_updated: '2025-12-23T08:16:15.523104'
 gender: Male
 musicbrainz_id: 409cc737-150d-4541-aff2-b59f520debd2
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](shaggadelic.jpg)

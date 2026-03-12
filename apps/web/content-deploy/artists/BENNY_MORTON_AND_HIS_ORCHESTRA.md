@@ -1,15 +1,16 @@
 ---
-title: BENNY MORTON AND HIS ORCHESTRA
+title: Benny Morton and His Orchestra
 wiki_slug: benny-morton-and-his-orchestra
 schema_version: 2
 status: active
-birth_place: New York City, New York, United States
+birth_place: 'New York City, New York, United States'
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/BENNY_MORTON_AND_HIS_ORCHESTRA.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/BENNY_MORTON_AND_HIS_ORCHESTRA.jpg
   caption: BENNY MORTON AND HIS ORCHESTRA
   background: solo_singer
-  origin: New York City, New York, United States
+  origin: 'New York City, New York, United States'
 audio_profile:
   tempo_avg: 82.3
   energy_avg: 0.317
@@ -25,44 +26,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Fletcher Henderson
-  - Chick Webb
-  - Don Redman
-  - Count Basie
-  - Teddy Wilson
-  - Billie Holiday
+    - Fletcher Henderson
+    - Chick Webb
+    - Don Redman
+    - Count Basie
+    - Teddy Wilson
+    - Billie Holiday
   influenced:
-  - Buck Clayton
-  - Roy Eldridge
+    - Buck Clayton
+    - Roy Eldridge
   mentors:
-  - Jimmy Harrison
+    - Jimmy Harrison
 spotify_data:
   followers: 0
   id: 6ZeagRdzGx6m8T8e3Tzseu
   popularity: 0
-  url: https://open.spotify.com/artist/6ZeagRdzGx6m8T8e3Tzseu
+  url: 'https://open.spotify.com/artist/6ZeagRdzGx6m8T8e3Tzseu'
 discography_enriched: true
 top_tracks:
-- Taylor Made (A Taste of 1934)
+  - Taylor Made (A Taste of 1934)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b0cb0a43-54e6-482f-887c-5094ead42237
-  spotify: https://open.spotify.com/artist/6ZeagRdzGx6m8T8e3Tzseu
-  wikipedia: https://en.wikipedia.org/wiki/Benny_Morton
+  musicbrainz: 'https://musicbrainz.org/artist/b0cb0a43-54e6-482f-887c-5094ead42237'
+  spotify: 'https://open.spotify.com/artist/6ZeagRdzGx6m8T8e3Tzseu'
+  wikipedia: 'https://en.wikipedia.org/wiki/Benny_Morton'
 image_path: ''
 biography_enhanced_at: '2025-10-20T09:20:28.736452'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Benny_Morton
-- https://nationaljazzarchive.org.uk/explore/interviews/1635313-benny-morton-interview-3
-- https://1927-the-diary-of-myles-thomas.espn.com/benny-morton-2dca78e8bd75
-- http://www.jazzarcheology.com/artists/benny_morton.pdf
-- https://www.bluenote.com/artist/benny-morton/
+  - 'https://en.wikipedia.org/wiki/Benny_Morton'
+  - >-
+    https://nationaljazzarchive.org.uk/explore/interviews/1635313-benny-morton-interview-3
+  - 'https://1927-the-diary-of-myles-thomas.espn.com/benny-morton-2dca78e8bd75'
+  - 'http://www.jazzarcheology.com/artists/benny_morton.pdf'
+  - 'https://www.bluenote.com/artist/benny-morton/'
 network_extracted: true
 entry_created: '2025-10-20T09:20:28.741567'
 last_updated: '2025-12-23T08:16:01.104376'
 musicbrainz_enriched_at: '2025-10-21T09:00:46.148094'
 musicbrainz_id: b0cb0a43-54e6-482f-887c-5094ead42237
+birth_date: '1907-01-31'
+death_date: '1985-12-28'
+artist_type: person
 ---
 
 ![]()

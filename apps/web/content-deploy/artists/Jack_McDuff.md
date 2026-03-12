@@ -3,18 +3,18 @@ title: Jack McDuff
 wiki_slug: jack-mcduff
 schema_version: 2
 status: active
-birth_place: Champaign, Illinois, United States
+birth_place: 'Champaign, Illinois, United States'
 genres:
-- soul jazz
-- jazz funk
-- hard bop
-- acid jazz
-- jazz
+  - soul jazz
+  - jazz funk
+  - hard bop
+  - acid jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jack_mcduff.jpg
   caption: Jack McDuff
   background: solo_singer
-  origin: Champaign, Illinois, United States
+  origin: 'Champaign, Illinois, United States'
 audio_profile:
   tempo_avg: 117.1
   energy_avg: 0.475
@@ -30,51 +30,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - George Benson
-  - Red Holloway
-  - Joe Dukes
-  - Pat Martino
-  - Grant Green
+    - George Benson
+    - Red Holloway
+    - Joe Dukes
+    - Pat Martino
+    - Grant Green
   influenced:
-  - George Benson
-  - Pat Martino
-  - Joey DeFrancesco
+    - George Benson
+    - Pat Martino
+    - Joey DeFrancesco
   mentors:
-  - Willis Jackson
-  - Jimmy Smith
+    - Willis Jackson
+    - Jimmy Smith
 spotify_data:
   followers: 28701
   id: 0GX5PlFlvOiEdNvA7YHJzs
   popularity: 31
-  url: https://open.spotify.com/artist/0GX5PlFlvOiEdNvA7YHJzs
+  url: 'https://open.spotify.com/artist/0GX5PlFlvOiEdNvA7YHJzs'
 discography_enriched: true
 top_tracks:
-- Oblighetto (Moon Rappin')
-- The Shadow of Your Smile (Tobacco Road)
-- Hot Barbeque (The Prestige Years)
-- Summer Dream (Sophisticated Funk)
-- Moon Rappin' (Moon Rappin')
-- Hunk O' Funk
-- Oblighetto - Remix
-- The Vibrator (Down Home Style)
-- Theme From Electric Surfboard (Down Home Style)
-- Sweet Slumber (The Blues Is Now)
+  - Oblighetto (Moon Rappin')
+  - The Shadow of Your Smile (Tobacco Road)
+  - Hot Barbeque (The Prestige Years)
+  - Summer Dream (Sophisticated Funk)
+  - Moon Rappin' (Moon Rappin')
+  - Hunk O' Funk
+  - Oblighetto - Remix
+  - The Vibrator (Down Home Style)
+  - Theme From Electric Surfboard (Down Home Style)
+  - Sweet Slumber (The Blues Is Now)
 external_urls:
-  spotify: https://open.spotify.com/artist/0GX5PlFlvOiEdNvA7YHJzs
-  wikipedia: https://en.wikipedia.org/wiki/Jack_McDuff
+  spotify: 'https://open.spotify.com/artist/0GX5PlFlvOiEdNvA7YHJzs'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jack_McDuff'
 image_path: 03_Resources/source_material/ArtistPortraits/jack_mcduff.jpg
 biography_enhanced_at: '2025-11-12T14:57:48.636804'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jack_McDuff
-- https://www.latimes.com/archives/la-xpm-2001-jan-27-me-17815-story.html
-- https://www.vinyl-magic.com/blog/jack-mcduff-and-me
-- https://www.iajo.org/iajo04/usa/mcduff.htm
-- https://jazztimes.com/archives/jack-mcduff-jack-pot/
+  - 'https://en.wikipedia.org/wiki/Jack_McDuff'
+  - 'https://www.latimes.com/archives/la-xpm-2001-jan-27-me-17815-story.html'
+  - 'https://www.vinyl-magic.com/blog/jack-mcduff-and-me'
+  - 'https://www.iajo.org/iajo04/usa/mcduff.htm'
+  - 'https://jazztimes.com/archives/jack-mcduff-jack-pot/'
 network_extracted: true
 entry_created: '2025-11-12T14:57:48.636811'
 last_updated: '2025-12-23T08:16:02.401915'
+birth_date: '1926-09-17'
+death_date: '2001-01-23'
+artist_type: person
 ---
 
 ![](jack_mcduff.jpg)

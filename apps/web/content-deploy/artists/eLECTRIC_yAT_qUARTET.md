@@ -23,44 +23,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - André Bohren
-  - Avett Brothers (with Anders Osborne and Dave Malone)
-  - Jacob Fowler
+    - André Bohren
+    - Avett Brothers (with Anders Osborne and Dave Malone)
+    - Jacob Fowler
   influenced: []
   mentors:
-  - Classical tradition (Bach, Beethoven, Brahms)
+    - 'Classical tradition (Bach, Beethoven, Brahms)'
 spotify_data:
   followers: 33
   id: 0dvVljWcYuTguVccEyiMaP
   popularity: 0
-  url: https://open.spotify.com/artist/0dvVljWcYuTguVccEyiMaP
+  url: 'https://open.spotify.com/artist/0dvVljWcYuTguVccEyiMaP'
 discography_enriched: true
 top_tracks:
-- Struttin' with Some Bbq (Stringin' with Some BBQ)
-- Tico Tico (Stringin' with Some BBQ)
-- Buona Sera (Stringin' with Some BBQ)
-- Lullaby of Birdland (Stringin' with Some BBQ)
-- I Got Rhythm (Stringin' with Some BBQ)
-- Someone to Watch over Me (Stringin' with Some BBQ)
-- That's a Plenty (Stringin' with Some BBQ)
-- Basin Street Blues (Stringin' with Some BBQ)
-- Blue Rondo a La Turk (Stringin' with Some BBQ)
-- April in Paris (Stringin' with Some BBQ)
+  - Struttin' with Some Bbq (Stringin' with Some BBQ)
+  - Tico Tico (Stringin' with Some BBQ)
+  - Buona Sera (Stringin' with Some BBQ)
+  - Lullaby of Birdland (Stringin' with Some BBQ)
+  - I Got Rhythm (Stringin' with Some BBQ)
+  - Someone to Watch over Me (Stringin' with Some BBQ)
+  - That's a Plenty (Stringin' with Some BBQ)
+  - Basin Street Blues (Stringin' with Some BBQ)
+  - Blue Rondo a La Turk (Stringin' with Some BBQ)
+  - April in Paris (Stringin' with Some BBQ)
 external_urls:
-  spotify: https://open.spotify.com/artist/0dvVljWcYuTguVccEyiMaP
+  spotify: 'https://open.spotify.com/artist/0dvVljWcYuTguVccEyiMaP'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/electric_yat_quartet.jpg
 biography_enhanced_at: '2025-11-08T21:52:38.653525'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.frenchquarterjournal.com/archives/electric-yat-quartet-beyond-traditional
-- https://crescentcitysounds.org/artists/electric-yat-quartet
-- https://www.electricyat.com
+  - >-
+    https://www.frenchquarterjournal.com/archives/electric-yat-quartet-beyond-traditional
+  - 'https://crescentcitysounds.org/artists/electric-yat-quartet'
+  - 'https://www.electricyat.com'
 network_extracted: true
 entry_created: '2025-11-08T21:52:38.653541'
 last_updated: '2025-12-23T08:16:08.099206'
-origin: New Orleans, Louisiana, USA
+origin: 'New Orleans, Louisiana, USA'
+artist_type: band
 ---
 
 ![](electric_yat_quartet.jpg)

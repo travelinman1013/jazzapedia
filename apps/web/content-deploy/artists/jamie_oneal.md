@@ -3,20 +3,20 @@ title: Jamie O'Neal
 wiki_slug: jamie-oneal
 schema_version: 2
 status: active
-birth_place: Sydney, New South Wales, Australia
+birth_place: 'Sydney, New South Wales, Australia'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jamie_oneal.jpg
   caption: Jamie O'Neal
   background: solo_singer
-  origin: Sydney, New South Wales, Australia
+  origin: 'Sydney, New South Wales, Australia'
 audio_profile:
   tempo_avg: 134.1
   energy_avg: 0.589
   valence_avg: 0.368
   danceability_avg: 0.511
   acousticness_avg: 0.236
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -5.8
   speechiness_avg: 0.04
   liveness_avg: 0.169
@@ -25,45 +25,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kylie Minogue
-  - Rodney Good
-  - Mark Wills
-  - Rachele Lynae
+    - Kylie Minogue
+    - Rodney Good
+    - Mark Wills
+    - Rachele Lynae
   influenced: []
   mentors:
-  - Harold Shedd
-  - Keith Stegall
+    - Harold Shedd
+    - Keith Stegall
 spotify_data:
   followers: 138941
   id: 6sQVeggRv1AhrMzuCjhCZe
   popularity: 41
-  url: https://open.spotify.com/artist/6sQVeggRv1AhrMzuCjhCZe
+  url: 'https://open.spotify.com/artist/6sQVeggRv1AhrMzuCjhCZe'
 discography_enriched: true
 top_tracks:
-- All By Myself
-- There Is No Arizona (Shiver)
-- When I Think About Angels (Shiver)
-- Somebody's Hero (Brave)
-- Trying To Find Atlantis (Brave)
-- Shiver (Shiver)
-- Please Come Home for Christmas
-- I'm Not Gonna Do Anything Without You (Loving Every Minute)
-- There Is No Arizona (25th Anniversary Edition)
-- Straight Into Love (Life Is Like A Song (Deluxe Edition))
+  - All By Myself
+  - There Is No Arizona (Shiver)
+  - When I Think About Angels (Shiver)
+  - Somebody's Hero (Brave)
+  - Trying To Find Atlantis (Brave)
+  - Shiver (Shiver)
+  - Please Come Home for Christmas
+  - I'm Not Gonna Do Anything Without You (Loving Every Minute)
+  - There Is No Arizona (25th Anniversary Edition)
+  - Straight Into Love (Life Is Like A Song (Deluxe Edition))
 external_urls:
-  spotify: https://open.spotify.com/artist/6sQVeggRv1AhrMzuCjhCZe
-  wikipedia: https://en.wikipedia.org/wiki/Jamie_O'Neal
+  spotify: 'https://open.spotify.com/artist/6sQVeggRv1AhrMzuCjhCZe'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jamie_O''Neal'
 image_path: 03_Resources/source_material/ArtistPortraits/jamie_oneal.jpg
 biography_enhanced_at: '2025-12-15T01:25:18.486471'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jamie_O'Neal
-- http://rocky-52.net/chanteurso/oneal_jamie.htm
-- https://adkinsentertainment.com/client/jamie-oneal/
+  - 'https://en.wikipedia.org/wiki/Jamie_O''Neal'
+  - 'http://rocky-52.net/chanteurso/oneal_jamie.htm'
+  - 'https://adkinsentertainment.com/client/jamie-oneal/'
 network_extracted: true
 entry_created: '2025-12-15T01:25:18.486483'
 last_updated: '2025-12-23T08:16:10.186746'
+birth_date: '1968-06-03'
+artist_type: person
 ---
 
 ![](jamie_oneal.jpg)

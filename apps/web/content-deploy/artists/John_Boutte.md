@@ -3,13 +3,13 @@ title: John Boutte
 wiki_slug: john-boutte
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/John_Boutte.jpg
   caption: John Boutte
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 135.8
   energy_avg: 0.506
@@ -25,41 +25,44 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Paul Sanchez
-  - John Scofield
-  - Uptown Okra
+    - Paul Sanchez
+    - John Scofield
+    - Uptown Okra
   influenced:
-  - Local New Orleans musicians
+    - Local New Orleans musicians
   mentors:
-  - Lillian Boutté
-  - Paul Babarin
-  - Allen Toussaint
+    - Lillian Boutté
+    - Paul Babarin
+    - Allen Toussaint
 spotify_data:
   followers: 15
   id: 58j3a9VLFbyqDYDGewuvD8
   popularity: 1
-  url: https://open.spotify.com/artist/58j3a9VLFbyqDYDGewuvD8
+  url: 'https://open.spotify.com/artist/58j3a9VLFbyqDYDGewuvD8'
 discography_enriched: true
 top_tracks:
-- Dark Water (Ya-Ka-May (Deluxe Edition))
-- What A Friend We Have In Jeasus (feat. John Boutte) (Peace)
-- Dark Water (Ya-Ka-May)
-- What A Friend We Have In Jeasus (feat. John Boutte) (Peace)
+  - Dark Water (Ya-Ka-May (Deluxe Edition))
+  - What A Friend We Have In Jeasus (feat. John Boutte) (Peace)
+  - Dark Water (Ya-Ka-May)
+  - What A Friend We Have In Jeasus (feat. John Boutte) (Peace)
 external_urls:
-  spotify: https://open.spotify.com/artist/58j3a9VLFbyqDYDGewuvD8
-  wikipedia: https://en.wikipedia.org/wiki/John_Boutt%C3%A9
+  spotify: 'https://open.spotify.com/artist/58j3a9VLFbyqDYDGewuvD8'
+  wikipedia: 'https://en.wikipedia.org/wiki/John_Boutt%C3%A9'
 image_path: ''
 biography_enhanced_at: '2025-10-20T10:16:37.748622'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.johnboutte.com/bio
-- https://jazztimes.com/features/profiles/john-boutte-nola-captured-in-song/
-- https://jazz.fm/john-boutte-interview-love-one-another/
-- https://www.allaboutjazz.com/musicians/john-boutte/
+  - 'https://www.johnboutte.com/bio'
+  - 'https://jazztimes.com/features/profiles/john-boutte-nola-captured-in-song/'
+  - 'https://jazz.fm/john-boutte-interview-love-one-another/'
+  - 'https://www.allaboutjazz.com/musicians/john-boutte/'
 network_extracted: true
 entry_created: '2025-10-20T10:16:37.748635'
 last_updated: '2025-12-23T08:16:02.605698'
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1958-11-03'
+artist_type: person
 ---
 
 ![]()

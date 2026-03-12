@@ -3,14 +3,14 @@ title: Blake Boy
 wiki_slug: blake-boy
 schema_version: 2
 status: active
-birth_place: Morant Bay, Jamaica (possible association based on Apple Music listing)
+birth_place: 'Morant Bay, Jamaica (possible association based on Apple Music listing)'
 genres:
-- lullaby
+  - lullaby
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/blake_boy.jpg
   caption: Blake Boy
   background: solo_singer
-  origin: Morant Bay, Jamaica (possible association based on Apple Music listing)
+  origin: 'Morant Bay, Jamaica (possible association based on Apple Music listing)'
 audio_profile:
   tempo_avg: 106.3
   energy_avg: 0.061
@@ -32,33 +32,35 @@ spotify_data:
   followers: 71
   id: 6sEBqYBuUznXShnl0rOUoC
   popularity: 46
-  url: https://open.spotify.com/artist/6sEBqYBuUznXShnl0rOUoC
+  url: 'https://open.spotify.com/artist/6sEBqYBuUznXShnl0rOUoC'
 discography_enriched: true
 top_tracks:
-- My Grandfather's Clock (My Grandfather's Clock)
-- Un éléphant qui se balançait (Un éléphant qui se balançait)
-- Un éléphant qui se balançait (Cradle Melodies)
-- Hush My Darling (Hush My Darling)
-- Hush My Darling (Cradle Melodies)
-- Vem kan segla förutan vind (Cradle Melodies)
-- Vem kan segla förutan vind (Vem kan segla förutan vind)
-- Espírito (Cradle Melodies)
-- Love Me Tender (Cradle Melodies)
-- Arrorro (Cradle Melodies)
+  - My Grandfather's Clock (My Grandfather's Clock)
+  - Un éléphant qui se balançait (Un éléphant qui se balançait)
+  - Un éléphant qui se balançait (Cradle Melodies)
+  - Hush My Darling (Hush My Darling)
+  - Hush My Darling (Cradle Melodies)
+  - Vem kan segla förutan vind (Cradle Melodies)
+  - Vem kan segla förutan vind (Vem kan segla förutan vind)
+  - Espírito (Cradle Melodies)
+  - Love Me Tender (Cradle Melodies)
+  - Arrorro (Cradle Melodies)
 external_urls:
-  spotify: https://open.spotify.com/artist/6sEBqYBuUznXShnl0rOUoC
+  spotify: 'https://open.spotify.com/artist/6sEBqYBuUznXShnl0rOUoC'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/blake_boy.jpg
 biography_enhanced_at: '2025-12-15T01:37:17.210193'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://music.apple.com/us/artist/blake-boy/2534460[3]
-- https://en.wikipedia.org/wiki/Blake_(band)[1]
-- https://thebluegrasssituation.com/read/end-of-the-road-a-conversation-with-norman-blake/[2]
+  - 'https://music.apple.com/us/artist/blake-boy/2534460[3]'
+  - 'https://en.wikipedia.org/wiki/Blake_(band)[1]'
+  - >-
+    https://thebluegrasssituation.com/read/end-of-the-road-a-conversation-with-norman-blake/[2]
 network_extracted: true
 entry_created: '2025-12-15T01:37:17.210208'
 last_updated: '2025-12-23T08:16:05.701695'
+artist_type: person
 ---
 
 ![](blake_boy.jpg)

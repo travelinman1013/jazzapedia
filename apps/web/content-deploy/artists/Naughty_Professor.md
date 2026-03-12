@@ -5,7 +5,7 @@ schema_version: 2
 status: active
 aliases: []
 genres:
-- jazz funk
+  - jazz funk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Naughty_Professor.jpg
   caption: Naughty Professor
@@ -25,58 +25,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Chali 2na (Jurassic 5)
-  - Ivan Neville
-  - David Shaw (The Revivalists)
-  - Eric 'Benny' Bloom (Lettuce)
-  - Soul Rebels
-  - Sasha Masakowski
-  - Mike Dillon
-  - Dexter Gilmore
-  - Skerik
-  - Band Members
+    - Chali 2na (Jurassic 5)
+    - Ivan Neville
+    - David Shaw (The Revivalists)
+    - Eric 'Benny' Bloom (Lettuce)
+    - Soul Rebels
+    - Sasha Masakowski
+    - Mike Dillon
+    - Dexter Gilmore
+    - Skerik
+    - Band Members
   influenced:
-  - Emerging New Orleans jazz-funk musicians
+    - Emerging New Orleans jazz-funk musicians
   mentors:
-  - New Orleans jazz and brass traditions
+    - New Orleans jazz and brass traditions
 related_artists: []
 spotify_data:
   followers: 13009
   id: 5oVhfa2J5GiPx2x0YTuJjI
   popularity: 33
-  url: https://open.spotify.com/artist/5oVhfa2J5GiPx2x0YTuJjI
+  url: 'https://open.spotify.com/artist/5oVhfa2J5GiPx2x0YTuJjI'
   verified: false
 discography_enriched: true
 albums_count: 6
 singles_count: 24
 top_tracks:
-- Stray (feat. David Shaw) (Identity)
-- Saturday Sinner (Saturday Sinner)
-- Gotta Get Back (Gotta Get Back)
-- Without a Trace (feat. Eric Benny Bloom) (Identity)
-- Pleiades (Pleiades)
-- Stray (Stray)
-- Stolen Ones (feat. Mykia Jovan) (Identity)
-- Wings to Fly (Wings to Fly)
-- Somebody (Somebody)
-- Mirrors (feat. Cole DeGenova) (Identity)
+  - Stray (feat. David Shaw) (Identity)
+  - Saturday Sinner (Saturday Sinner)
+  - Gotta Get Back (Gotta Get Back)
+  - Without a Trace (feat. Eric Benny Bloom) (Identity)
+  - Pleiades (Pleiades)
+  - Stray (Stray)
+  - Stolen Ones (feat. Mykia Jovan) (Identity)
+  - Wings to Fly (Wings to Fly)
+  - Somebody (Somebody)
+  - Mirrors (feat. Cole DeGenova) (Identity)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/5oVhfa2J5GiPx2x0YTuJjI
-  wikipedia: https://en.wikipedia.org/wiki/Naughty_Professor
+  spotify: 'https://open.spotify.com/artist/5oVhfa2J5GiPx2x0YTuJjI'
+  wikipedia: 'https://en.wikipedia.org/wiki/Naughty_Professor'
 image_path: 03_Resources/source_material/ArtistPortraits/Naughty_Professor.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T10:34:29.742349'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.southarts.org/grant-fellowship-recipients/naughty-professor-2020
-- https://first-avenue.com/performer/naughty-professor/
-- https://www.allaboutjazz.com/musicians/naughty-professor/
+  - 'https://www.southarts.org/grant-fellowship-recipients/naughty-professor-2020'
+  - 'https://first-avenue.com/performer/naughty-professor/'
+  - 'https://www.allaboutjazz.com/musicians/naughty-professor/'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:43:56.645389
+entry_created: 2025-09-22T21:43:56.645Z
 last_updated: '2025-12-23T08:16:03.409617'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![](Naughty_Professor.jpg)

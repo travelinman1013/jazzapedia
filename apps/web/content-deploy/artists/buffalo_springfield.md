@@ -2,22 +2,22 @@
 title: Buffalo Springfield
 wiki_slug: buffalo-springfield
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1966'
 genres:
-- folk rock
-- country rock
+  - folk rock
+  - country rock
 instruments:
-- original
-- additional
+  - original
+  - additional
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/buffalo_springfield.jpg
   caption: Buffalo Springfield
   background: group_or_band
   born: '1966'
 audio_profile:
-  tempo_avg: 118.0
+  tempo_avg: 118
   energy_avg: 0.427
   valence_avg: 0.626
   danceability_avg: 0.535
@@ -31,114 +31,114 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Stephen Stills
-  - Neil Young
-  - Richie Furay
-  - Bruce Palmer
-  - Dewey Martin
-  - Jim Messina
-  - David Crosby
+    - Stephen Stills
+    - Neil Young
+    - Richie Furay
+    - Bruce Palmer
+    - Dewey Martin
+    - Jim Messina
+    - David Crosby
   influenced:
-  - Crosby, Stills, Nash & Young
-  - Poco
-  - Eagles
-  - Tom Petty
+    - 'Crosby, Stills, Nash & Young'
+    - Poco
+    - Eagles
+    - Tom Petty
   mentors:
-  - The Byrds
+    - The Byrds
 spotify_data:
   followers: 935677
   id: 3eskO5m0H4yiF64vRySBjr
   popularity: 59
-  url: https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr
+  url: 'https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr'
 discography_enriched: true
 top_tracks:
-- For What It's Worth (Buffalo Springfield)
-- Mr. Soul (Buffalo Springfield Again)
-- Flying on the Ground Is Wrong (Buffalo Springfield)
-- Expecting to Fly (Buffalo Springfield Again)
-- Pretty Girl Why (Last Time Around)
-- Nowadays Clancy Can't Even Sing (Buffalo Springfield)
-- Kind Woman (Last Time Around)
-- Questions (Last Time Around)
-- I Am a Child (Last Time Around)
-- Hot Dusty Roads (Buffalo Springfield)
+  - For What It's Worth (Buffalo Springfield)
+  - Mr. Soul (Buffalo Springfield Again)
+  - Flying on the Ground Is Wrong (Buffalo Springfield)
+  - Expecting to Fly (Buffalo Springfield Again)
+  - Pretty Girl Why (Last Time Around)
+  - Nowadays Clancy Can't Even Sing (Buffalo Springfield)
+  - Kind Woman (Last Time Around)
+  - Questions (Last Time Around)
+  - I Am a Child (Last Time Around)
+  - Hot Dusty Roads (Buffalo Springfield)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/22dc19af-d085-4c9b-adfb-22ec256251f1
-  spotify: https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr
-  wikipedia: https://en.wikipedia.org/wiki/Buffalo_Springfield
+  musicbrainz: 'https://musicbrainz.org/artist/22dc19af-d085-4c9b-adfb-22ec256251f1'
+  spotify: 'https://open.spotify.com/artist/3eskO5m0H4yiF64vRySBjr'
+  wikipedia: 'https://en.wikipedia.org/wiki/Buffalo_Springfield'
 image_path: 03_Resources/source_material/ArtistPortraits/buffalo_springfield.jpg
 biography_enhanced_at: '2025-10-27T02:39:14.628683'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Britannica
-- Top40Weekly
-- American Songwriter
-- Last.fm
-- Rock & Roll Hall of Fame
+  - Britannica
+  - Top40Weekly
+  - American Songwriter
+  - Last.fm
+  - Rock & Roll Hall of Fame
 network_extracted: true
 entry_created: '2025-10-27T02:39:14.628700'
 last_updated: '2025-12-23T08:16:06.247225'
 members:
-- begin: '1966'
-  end: 1968-05
-  instruments:
-  - original
-  mbid: 75167b8b-44e4-407b-9d35-effe87b223cf
-  name: Neil Young
-- begin: ''
-  end: ''
-  instruments:
-  - additional
-  mbid: e90f9815-221d-4e10-8675-e75c07988113
-  name: David Crosby
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b109cae4-cd02-4a69-9a45-809bb330f5e6
-  name: Richie Furay
-- begin: ''
-  end: ''
-  instruments:
-  - additional
-  mbid: 92910f9f-241a-4430-85fb-a78ef97b9161
-  name: Doug Hastings
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d1724504-5e93-45ec-8fbf-5394d8c2824c
-  name: Dewey Martin
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a04d3ca8-78e2-4f71-825c-c5c1e9d8b77b
-  name: Jim Messina
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8320161b-a8aa-4b40-9e6d-72700c2d31b5
-  name: Bruce Palmer
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5642774a-72c0-4099-8da4-7c1ab36378a8
-  name: Stephen Stills
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2d8be7cc-46f4-4830-b22f-d6af7e7771f2
-  name: Joe Vitale
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 13bb4c10-141d-4765-b470-103b63d06ce6
-  name: Bob Jones
+  - begin: '1966'
+    end: 1968-05
+    instruments:
+      - original
+    mbid: 75167b8b-44e4-407b-9d35-effe87b223cf
+    name: Neil Young
+  - begin: ''
+    end: ''
+    instruments:
+      - additional
+    mbid: e90f9815-221d-4e10-8675-e75c07988113
+    name: David Crosby
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b109cae4-cd02-4a69-9a45-809bb330f5e6
+    name: Richie Furay
+  - begin: ''
+    end: ''
+    instruments:
+      - additional
+    mbid: 92910f9f-241a-4430-85fb-a78ef97b9161
+    name: Doug Hastings
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d1724504-5e93-45ec-8fbf-5394d8c2824c
+    name: Dewey Martin
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a04d3ca8-78e2-4f71-825c-c5c1e9d8b77b
+    name: Jim Messina
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8320161b-a8aa-4b40-9e6d-72700c2d31b5
+    name: Bruce Palmer
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5642774a-72c0-4099-8da4-7c1ab36378a8
+    name: Stephen Stills
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2d8be7cc-46f4-4830-b22f-d6af7e7771f2
+    name: Joe Vitale
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 13bb4c10-141d-4765-b470-103b63d06ce6
+    name: Bob Jones
 musicbrainz_id: 22dc19af-d085-4c9b-adfb-22ec256251f1
-origin: Los Angeles
+origin: 'Los Angeles, California, United States'
 tags:
-- american
-- baroque pop
-- classic pop and rock
+  - american
+  - baroque pop
+  - classic pop and rock
 ---
 
 ![](buffalo_springfield.jpg)

@@ -1,13 +1,13 @@
 ---
-title: CHA WA
+title: Cha WA
 wiki_slug: cha-wa
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- chamber pop
+  - chamber pop
 instruments:
-- lead vocals
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/cha_wa.jpg
   caption: CHA WA
@@ -27,62 +27,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - J'Wan Boudreaux
-  - Joseph Boudreaux Jr.
-  - Aurelien Barnes
-  - Ben Ellman
-  - Monk Boudreaux
-  - Irving 'Honey' Bannister Jr.
+    - J'Wan Boudreaux
+    - Joseph Boudreaux Jr.
+    - Aurelien Barnes
+    - Ben Ellman
+    - Monk Boudreaux
+    - Irving 'Honey' Bannister Jr.
   influenced:
-  - The Rumble ft. Chief Joseph Boudreaux
+    - The Rumble ft. Chief Joseph Boudreaux
   mentors:
-  - Idris Muhammad
-  - Monk Boudreaux
-  - Norwood 'Geechie' Johnson
+    - Idris Muhammad
+    - Monk Boudreaux
+    - Norwood 'Geechie' Johnson
 spotify_data:
   followers: 279338
   id: 5IWCU0V9evBlW4gIeGY4zF
   popularity: 57
-  url: https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF
+  url: 'https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF'
 discography_enriched: true
 top_tracks:
-- Right Back to It (Tigers Blood)
-- Lilacs (Saint Cloud)
-- Dollar Store (feat. Waxahatchee)
-- Fire (Saint Cloud)
-- Mud
-- History (feat. Waxahatchee) (13 Months of Sunshine)
-- Much Ado About Nothing (Tigers Blood)
-- Crowbar (Tigers Blood)
-- Can’t Do Much (Saint Cloud)
-- Problem With It (I Walked With You A Ways)
+  - Right Back to It (Tigers Blood)
+  - Lilacs (Saint Cloud)
+  - Dollar Store (feat. Waxahatchee)
+  - Fire (Saint Cloud)
+  - Mud
+  - History (feat. Waxahatchee) (13 Months of Sunshine)
+  - Much Ado About Nothing (Tigers Blood)
+  - Crowbar (Tigers Blood)
+  - Can’t Do Much (Saint Cloud)
+  - Problem With It (I Walked With You A Ways)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f64ca693-8e2c-411b-a896-4a2e353e6177
-  spotify: https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF
-  wikipedia: https://en.wikipedia.org/wiki/Cha_Wa
+  musicbrainz: 'https://musicbrainz.org/artist/f64ca693-8e2c-411b-a896-4a2e353e6177'
+  spotify: 'https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF'
+  wikipedia: 'https://en.wikipedia.org/wiki/Cha_Wa'
 image_path: 03_Resources/source_material/ArtistPortraits/cha_wa.jpg
 biography_enhanced_at: '2025-11-17T10:53:54.939239'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Cha_Wa
-- http://www.chawaband.com/bio
-- https://www.allaboutjazz.com/musicians/cha-wa/
-- https://www.missingpiecegroup.com/cha-wa
-- https://worldmusiccentral.org/artist-profiles-cha-wa/
+  - 'https://en.wikipedia.org/wiki/Cha_Wa'
+  - 'http://www.chawaband.com/bio'
+  - 'https://www.allaboutjazz.com/musicians/cha-wa/'
+  - 'https://www.missingpiecegroup.com/cha-wa'
+  - 'https://worldmusiccentral.org/artist-profiles-cha-wa/'
 network_extracted: true
 entry_created: '2025-11-17T10:53:54.939249'
 last_updated: '2025-12-23T08:16:06.619806'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: 94ec01cb-3a36-449e-8ae6-0866513c3122
-  name: Irving “Honey” Banister
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: 94ec01cb-3a36-449e-8ae6-0866513c3122
+    name: Irving “Honey” Banister
 musicbrainz_id: f64ca693-8e2c-411b-a896-4a2e353e6177
-origin: New Orleans, Louisiana, USA
-
+origin: 'New Orleans, Louisiana, USA'
 ---
 
 ![](cha_wa.jpg)

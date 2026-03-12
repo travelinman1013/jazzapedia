@@ -3,15 +3,15 @@ title: Edward
 wiki_slug: edward
 schema_version: 2
 status: active
-birth_place: Florida, United States (born); Albany, Georgia, United States (raised)
+birth_place: 'Florida, United States (born); Albany, Georgia, United States (raised)'
 genres:
-- experimental hip hop
-- cloud rap
+  - experimental hip hop
+  - cloud rap
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/edward.jpg
   caption: Edward
   background: solo_singer
-  origin: Florida, United States (born); Albany, Georgia, United States (raised)
+  origin: 'Florida, United States (born); Albany, Georgia, United States (raised)'
 audio_profile:
   tempo_avg: 122.8
   energy_avg: 0.478
@@ -27,47 +27,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - KLNV (Night Lovell), greg, EPVR (Benjamin), Falco, 0% boys
-  - Mizustation and 0% boys (producer collectives)
-  - Misogi, Lil Netzero, Fifty Grand
-  - Brennan Jones
+    - 'KLNV (Night Lovell), greg, EPVR (Benjamin), Falco, 0% boys'
+    - Mizustation and 0% boys (producer collectives)
+    - 'Misogi, Lil Netzero, Fifty Grand'
+    - Brennan Jones
   influenced:
-  - Holy Trap / AI‑driven experimental hip‑hop underground (various emerging artists)
+    - >-
+      Holy Trap / AI‑driven experimental hip‑hop underground (various emerging
+      artists)
   mentors:
-  - Night Lovell
-  - XXXTENTACION
+    - Night Lovell
+    - XXXTENTACION
 spotify_data:
   followers: 74127
   id: 0xWlWvXGQve3reUhtjlPrS
   popularity: 49
-  url: https://open.spotify.com/artist/0xWlWvXGQve3reUhtjlPrS
+  url: 'https://open.spotify.com/artist/0xWlWvXGQve3reUhtjlPrS'
 discography_enriched: true
 top_tracks:
-- Drug Dealer Injects His Fentanyl (Psychosis) (Museum Music)
-- Fun (Fun)
-- Blurry Picture (Psychosis) (Museum Music)
-- Typical Rap Song 12 (Museum Music)
-- zo6 GET OUt ! (zo6 GET OUt !)
-- Love U (Love U)
-- Plastic Body (Museum Music)
-- Meg Thee Stallion (Meg Thee Stallion)
-- Yo Bro Will Kill You For A Band (Museum Music)
-- Congratulations (Museum Music)
+  - Drug Dealer Injects His Fentanyl (Psychosis) (Museum Music)
+  - Fun (Fun)
+  - Blurry Picture (Psychosis) (Museum Music)
+  - Typical Rap Song 12 (Museum Music)
+  - zo6 GET OUt ! (zo6 GET OUt !)
+  - Love U (Love U)
+  - Plastic Body (Museum Music)
+  - Meg Thee Stallion (Meg Thee Stallion)
+  - Yo Bro Will Kill You For A Band (Museum Music)
+  - Congratulations (Museum Music)
 external_urls:
-  spotify: https://open.spotify.com/artist/0xWlWvXGQve3reUhtjlPrS
-  wikipedia: https://en.wikipedia.org/wiki/Edward_Skeletrix
+  spotify: 'https://open.spotify.com/artist/0xWlWvXGQve3reUhtjlPrS'
+  wikipedia: 'https://en.wikipedia.org/wiki/Edward_Skeletrix'
 image_path: 03_Resources/source_material/ArtistPortraits/edward.jpg
 biography_enhanced_at: '2025-12-15T01:32:56.116899'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Edward_Skeletrix
-- https://www.last.fm/music/Edward+Skeletrix/+wiki
-- https://ourgenerationmusic.com/news/who-is-edward-skeletrix-museum-music/
+  - 'https://en.wikipedia.org/wiki/Edward_Skeletrix'
+  - 'https://www.last.fm/music/Edward+Skeletrix/+wiki'
+  - 'https://ourgenerationmusic.com/news/who-is-edward-skeletrix-museum-music/'
 network_extracted: true
 entry_created: '2025-12-15T01:32:56.116914'
 last_updated: '2025-12-23T08:16:08.233889'
-
+origin: 'Albany, Georgia, United States'
+artist_type: person
 ---
 
 ![](edward.jpg)

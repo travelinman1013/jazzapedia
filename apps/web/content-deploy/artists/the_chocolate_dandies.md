@@ -1,12 +1,12 @@
 ---
-title: THE CHOCOLATE DANDIES
+title: The Chocolate Dandies
 wiki_slug: the-chocolate-dandies
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- big band
-- swing music
+  - big band
+  - swing music
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_chocolate_dandies.jpg
   caption: THE CHOCOLATE DANDIES
@@ -26,92 +26,91 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Don Redman
-  - Benny Carter
-  - Coleman Hawkins
-  - Fats Waller
-  - Chu Berry
+    - Don Redman
+    - Benny Carter
+    - Coleman Hawkins
+    - Fats Waller
+    - Chu Berry
   influenced:
-  - Count Basie
-  - Lester Young
+    - Count Basie
+    - Lester Young
   mentors:
-  - Eubie Blake
-  - Noble Sissle
+    - Eubie Blake
+    - Noble Sissle
 spotify_data:
   followers: 1046
   id: 2wUHNI6waUw3HKwWHSsfgW
   popularity: 5
-  url: https://open.spotify.com/artist/2wUHNI6waUw3HKwWHSsfgW
+  url: 'https://open.spotify.com/artist/2wUHNI6waUw3HKwWHSsfgW'
 discography_enriched: true
 top_tracks:
-- Blue Interlude (Jazzuela. Julio Cortázar y el Jazz)
-- I Can't Believe That You're In Love With Me
-- Dee Blues
-- Blue Interlude - 78rpm Version
-- I Never Knew
-- I Surrender Dear
-- Dedication
-- Got Another Sweetie Now
-- 'Paducah (Shag Nasty, Vol. 3: The Alternate Masters)'
-- Six or Seven Times (Those Dirty Blues, Vol. 2)
+  - Blue Interlude (Jazzuela. Julio Cortázar y el Jazz)
+  - I Can't Believe That You're In Love With Me
+  - Dee Blues
+  - Blue Interlude - 78rpm Version
+  - I Never Knew
+  - I Surrender Dear
+  - Dedication
+  - Got Another Sweetie Now
+  - 'Paducah (Shag Nasty, Vol. 3: The Alternate Masters)'
+  - 'Six or Seven Times (Those Dirty Blues, Vol. 2)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f0cc5e2e-a2b3-4e38-b641-4dabe32c136d
-  spotify: https://open.spotify.com/artist/2wUHNI6waUw3HKwWHSsfgW
-  wikipedia: https://en.wikipedia.org/wiki/The_Chocolate_Dandies
+  musicbrainz: 'https://musicbrainz.org/artist/f0cc5e2e-a2b3-4e38-b641-4dabe32c136d'
+  spotify: 'https://open.spotify.com/artist/2wUHNI6waUw3HKwWHSsfgW'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Chocolate_Dandies'
 image_path: 03_Resources/source_material/ArtistPortraits/the_chocolate_dandies.jpg
 biography_enhanced_at: '2025-10-23T07:19:21.764503'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.allaboutjazz.com/musicians/chocolate-dandies/
-- https://www.last.fm/music/The+Chocolate+Dandies/+wiki
-- https://en.wikipedia.org/wiki/The_Chocolate_Dandies
-- https://syncopatedtimes.com/chocolate-dandies/
+  - 'https://www.allaboutjazz.com/musicians/chocolate-dandies/'
+  - 'https://www.last.fm/music/The+Chocolate+Dandies/+wiki'
+  - 'https://en.wikipedia.org/wiki/The_Chocolate_Dandies'
+  - 'https://syncopatedtimes.com/chocolate-dandies/'
 network_extracted: true
 entry_created: '2025-10-23T07:19:21.764523'
 last_updated: '2025-12-23T08:16:16.634103'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bf4b276e-b71c-43d3-a943-1067706b7765
-  name: Leon “Chu” Berry
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 25cf5731-bed9-4604-97a4-8b9655de1a30
-  name: Benny Carter
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 63ad66a5-c5c1-4b8f-99cc-2e7a14e7d7b9
-  name: Jimmy Harrison
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5c8cb181-38fe-4300-8153-650b2ed0258f
-  name: Coleman Hawkins
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2feab105-216b-45b6-9349-344e65c3cffb
-  name: Benny Jackson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 34866882-9929-4bb4-80ce-125958a6560b
-  name: John Kirby
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1487bcb8-bcae-4d66-9a4d-570f7f5e92b5
-  name: George Stafford
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bf4b276e-b71c-43d3-a943-1067706b7765
+    name: Leon “Chu” Berry
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 25cf5731-bed9-4604-97a4-8b9655de1a30
+    name: Benny Carter
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 63ad66a5-c5c1-4b8f-99cc-2e7a14e7d7b9
+    name: Jimmy Harrison
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5c8cb181-38fe-4300-8153-650b2ed0258f
+    name: Coleman Hawkins
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2feab105-216b-45b6-9349-344e65c3cffb
+    name: Benny Jackson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 34866882-9929-4bb4-80ce-125958a6560b
+    name: John Kirby
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1487bcb8-bcae-4d66-9a4d-570f7f5e92b5
+    name: George Stafford
 musicbrainz_id: f0cc5e2e-a2b3-4e38-b641-4dabe32c136d
-origin: United States (origin as a jazz ensemble; New York, NY for the original Broadway show)
+origin: 'New York, NY, United States'
 tags:
-- jazz
-- swing
-
+  - jazz
+  - swing
 ---
 
 ![](the_chocolate_dandies.jpg)

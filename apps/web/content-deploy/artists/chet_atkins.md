@@ -1,21 +1,21 @@
 ---
-title: chet atkins
+title: Chet Atkins
 wiki_slug: chet-atkins
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1924-06-20'
-birth_place: Luttrell, Tennessee, United States
+birth_place: 'Luttrell, Tennessee, United States'
 death_date: '2001-06-30'
 genres: []
 instruments:
-- eponymous
+  - eponymous
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/chet_atkins.jpg
   caption: chet atkins
   background: non_vocal_instrumentalist
   born: '1924-06-20'
-  origin: Luttrell, Tennessee, United States
+  origin: 'Luttrell, Tennessee, United States'
   died: '2001-06-30'
 audio_profile:
   tempo_avg: 113.5
@@ -32,51 +32,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jerry Reed
-  - Mark Knopfler
-  - Mother Maybelle and the Carter Sisters
-  - Hank Snow
+    - Jerry Reed
+    - Mark Knopfler
+    - Mother Maybelle and the Carter Sisters
+    - Hank Snow
   influenced:
-  - George Harrison
-  - Mark Knopfler
-  - Tommy Emmanuel
-  - Paul McCartney
-  - Jerry Reed
+    - George Harrison
+    - Mark Knopfler
+    - Tommy Emmanuel
+    - Paul McCartney
+    - Jerry Reed
   mentors:
-  - Merle Travis
-  - Les Paul
+    - Merle Travis
+    - Les Paul
 spotify_data:
   followers: 115029
   id: 4dZrt8Ong5t7YYpvbfp0RU
   popularity: 46
-  url: https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU
+  url: 'https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU'
 discography_enriched: true
 top_tracks:
-- Do I Ever Cross Your Mind (Chet Atkins - The Master And His Music)
-- Imagine (Chet Atkins Certified Guitar Player)
-- Do I Ever Cross Your Mind (Chet Atkins - The Master And His Music)
-- Jam Man (The Essential Chet Atkins - The Columbia Years)
-- I'll See You in My Dreams (Chet Atkins Certified Guitar Player)
-- Tenderly (Standard Brands)
-- Tennessee Waltz (with Boston Pops Orchestra) (The Pops Goes Country (with Boston Pops Orchestra))
-- Why Worry (Chet Atkins Certified Guitar Player)
-- Poor Boy Blues (The Essential Chet Atkins - The Columbia Years)
-- Mister Sandman (Eclectic Guitar)
+  - Do I Ever Cross Your Mind (Chet Atkins - The Master And His Music)
+  - Imagine (Chet Atkins Certified Guitar Player)
+  - Do I Ever Cross Your Mind (Chet Atkins - The Master And His Music)
+  - Jam Man (The Essential Chet Atkins - The Columbia Years)
+  - I'll See You in My Dreams (Chet Atkins Certified Guitar Player)
+  - Tenderly (Standard Brands)
+  - >-
+    Tennessee Waltz (with Boston Pops Orchestra) (The Pops Goes Country (with
+    Boston Pops Orchestra))
+  - Why Worry (Chet Atkins Certified Guitar Player)
+  - Poor Boy Blues (The Essential Chet Atkins - The Columbia Years)
+  - Mister Sandman (Eclectic Guitar)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5810667a-9db6-4fd0-abac-667cdac5d415
-  spotify: https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU
-  wikipedia: https://en.wikipedia.org/wiki/Chet_Atkins
+  musicbrainz: 'https://musicbrainz.org/artist/5810667a-9db6-4fd0-abac-667cdac5d415'
+  spotify: 'https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU'
+  wikipedia: 'https://en.wikipedia.org/wiki/Chet_Atkins'
 image_path: 03_Resources/source_material/ArtistPortraits/chet_atkins.jpg
 biography_enhanced_at: '2025-10-19T11:48:57.842879'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Chet_Atkins
-- https://alancackett.com/chet-atkins-biography
-- https://www.countrymusichalloffame.org/artist/chet-atkins
-- https://misterguitar.us/bios/atkinsbio.html
-- https://news.uga.edu/columns-exclusives/book-explores-chet-atkins-work-and-life/
-- https://jbonamassa.com/chet-atkins-mr-guitar-of-the-nashville-sound/
+  - 'https://en.wikipedia.org/wiki/Chet_Atkins'
+  - 'https://alancackett.com/chet-atkins-biography'
+  - 'https://www.countrymusichalloffame.org/artist/chet-atkins'
+  - 'https://misterguitar.us/bios/atkinsbio.html'
+  - >-
+    https://news.uga.edu/columns-exclusives/book-explores-chet-atkins-work-and-life/
+  - 'https://jbonamassa.com/chet-atkins-mr-guitar-of-the-nashville-sound/'
 network_extracted: true
 entry_created: '2025-10-19T11:48:57.842890'
 last_updated: '2025-12-23T08:16:06.802103'
@@ -84,9 +87,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:50:43.308717'
 musicbrainz_id: 5810667a-9db6-4fd0-abac-667cdac5d415
 tags:
-- american
-- classical
-- country
+  - american
+  - classical
+  - country
+is_active: false
 ---
 
 ![](chet_atkins.jpg)

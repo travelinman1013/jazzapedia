@@ -1,15 +1,15 @@
 ---
-title: eddie lockjaw davis
+title: Eddie Lockjaw Davis
 wiki_slug: eddie-lockjaw-davis
 schema_version: 2
 status: active
-birth_place: Harlem, New York City, New York, USA
+birth_place: 'Harlem, New York City, New York, USA'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/eddie_lockjaw_davis.jpg
   caption: eddie lockjaw davis
   background: solo_singer
-  origin: Harlem, New York City, New York, USA
+  origin: 'Harlem, New York City, New York, USA'
 audio_profile:
   tempo_avg: null
   energy_avg: null
@@ -21,38 +21,43 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Count Basie
-  - Shirley Scott
-  - Johnny Griffin
-  - Harry "Sweets" Edison
-  - Kenny Clarke/Francy Boland Big Band
+    - Count Basie
+    - Shirley Scott
+    - Johnny Griffin
+    - Harry "Sweets" Edison
+    - Kenny Clarke/Francy Boland Big Band
   influenced:
-  - Houston Person
-  - Eric Alexander
+    - Houston Person
+    - Eric Alexander
   mentors:
-  - Ben Webster
+    - Ben Webster
 spotify_data:
   followers: 1
   id: 5EBi59gmZeCeaSQp5uA7EF
   popularity: 0
-  url: https://open.spotify.com/artist/5EBi59gmZeCeaSQp5uA7EF
+  url: 'https://open.spotify.com/artist/5EBi59gmZeCeaSQp5uA7EF'
 discography_enriched: true
 external_urls:
-  spotify: https://open.spotify.com/artist/5EBi59gmZeCeaSQp5uA7EF
-  wikipedia: https://en.wikipedia.org/wiki/Eddie_%22Lockjaw%22_Davis
+  spotify: 'https://open.spotify.com/artist/5EBi59gmZeCeaSQp5uA7EF'
+  wikipedia: 'https://en.wikipedia.org/wiki/Eddie_%22Lockjaw%22_Davis'
 image_path: ''
 biography_enhanced_at: '2025-10-30T12:02:07.453631'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Eddie_%22Lockjaw%22_Davis
-- https://fromthevaults-boppinbob.blogspot.com/2021/03/eddie-lockjaw-davis-born-2-march-1922.html
-- https://www.psaudio.com/blogs/copper/eddie-lockjaw-davis-a-firm-grasp-on-saxophone-greatness
-- https://www.allaboutjazz.com/musicians/eddie-lockjaw-davis/
-- https://musicianguide.com/biographies/1608003490/Eddie-Lockjaw-Davis.html
+  - 'https://en.wikipedia.org/wiki/Eddie_%22Lockjaw%22_Davis'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2021/03/eddie-lockjaw-davis-born-2-march-1922.html
+  - >-
+    https://www.psaudio.com/blogs/copper/eddie-lockjaw-davis-a-firm-grasp-on-saxophone-greatness
+  - 'https://www.allaboutjazz.com/musicians/eddie-lockjaw-davis/'
+  - 'https://musicianguide.com/biographies/1608003490/Eddie-Lockjaw-Davis.html'
 network_extracted: true
 entry_created: '2025-10-30T12:02:07.453662'
 last_updated: '2025-12-23T08:16:08.188893'
+birth_date: '1922-03-02'
+death_date: '1986-11-03'
+artist_type: person
 ---
 
 ![]()

@@ -5,49 +5,49 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1955-01-17'
-birth_place: Hampton
+birth_place: 'Fort Monroe, Virginia, United States'
 genres:
-- alt country
-- americana
-- country rock
-- roots rock
+  - alt country
+  - americana
+  - country rock
+  - roots rock
 instruments:
-- eponymous
-- original
-- guitar
-- piano
-- acoustic guitar
-- 12 string guitar
-- guitar family
-- electric guitar
-- resonator guitar
-- background vocals
-- lead vocals
-- vocal
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 59e1d123-844c-4e92-8a8f-94d4e058314e
-  name: Steve Earle & the Dukes
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c14540b5-0cd6-41bc-8df1-56c938f8385f
-  name: The Twangtrust
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
-  mbid: de90e98f-53a3-4652-b2d5-29078e4c1b10
-  name: Steve Earle & The Train Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bb7cb8c0-102d-4a91-a55a-931d8cd84d4d
-  name: Colvin & Earle
+  - guitar
+  - piano
+  - acoustic guitar
+  - 12 string guitar
+  - guitar family
+  - electric guitar
+  - resonator guitar
+  - background vocals
+  - lead vocals
+  - vocal
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 59e1d123-844c-4e92-8a8f-94d4e058314e
+    name: Steve Earle & the Dukes
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c14540b5-0cd6-41bc-8df1-56c938f8385f
+    name: The Twangtrust
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: de90e98f-53a3-4652-b2d5-29078e4c1b10
+    name: Steve Earle & The Train Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bb7cb8c0-102d-4a91-a55a-931d8cd84d4d
+    name: Colvin & Earle
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/steve_earle.jpg
   caption: Steve Earle
@@ -69,45 +69,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Allison Moorer
-  - The Dukes
-  - T Bone Burnett
+    - Allison Moorer
+    - The Dukes
+    - T Bone Burnett
   influenced:
-  - Shawn Colvin
+    - Shawn Colvin
   mentors:
-  - Guy Clark
-  - Townes Van Zandt
-  - Jerry Jeff Walker
+    - Guy Clark
+    - Townes Van Zandt
+    - Jerry Jeff Walker
 spotify_data:
   followers: 338837
   id: 2UBTfUoLI07iRqGeUrwhZh
   popularity: 60
-  url: https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh
+  url: 'https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh'
 discography_enriched: true
 top_tracks:
-- Copperhead Road (Copperhead Road)
-- The Galway Girl (The Diamond Mountain Sessions)
-- Guitar Town (Guitar Town)
-- The Galway Girl (Transcendental Blues)
-- Copperhead Road (Copperhead Road)
-- Copperhead Road
-- Guitar Town (Guitar Town)
-- Bad Girls
-- Feel Alright (I Feel Alright)
-- Hillbilly Highway (Guitar Town)
+  - Copperhead Road (Copperhead Road)
+  - The Galway Girl (The Diamond Mountain Sessions)
+  - Guitar Town (Guitar Town)
+  - The Galway Girl (Transcendental Blues)
+  - Copperhead Road (Copperhead Road)
+  - Copperhead Road
+  - Guitar Town (Guitar Town)
+  - Bad Girls
+  - Feel Alright (I Feel Alright)
+  - Hillbilly Highway (Guitar Town)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ec863030-7c13-45a3-a025-a69195d3a020
-  spotify: https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh
-  wikipedia: https://en.wikipedia.org/wiki/Steve_Earle
+  musicbrainz: 'https://musicbrainz.org/artist/ec863030-7c13-45a3-a025-a69195d3a020'
+  spotify: 'https://open.spotify.com/artist/2UBTfUoLI07iRqGeUrwhZh'
+  wikipedia: 'https://en.wikipedia.org/wiki/Steve_Earle'
 image_path: 03_Resources/source_material/ArtistPortraits/steve_earle.jpg
 biography_enhanced_at: '2025-12-15T01:31:27.419838'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Steve_Earle
-- https://www.britannica.com/biography/Steve-Earle
-- http://www.steveearle.com/bio
-- https://www.ohjeanrecords.com/blogs/news/steve-earle-biography
+  - 'https://en.wikipedia.org/wiki/Steve_Earle'
+  - 'https://www.britannica.com/biography/Steve-Earle'
+  - 'http://www.steveearle.com/bio'
+  - 'https://www.ohjeanrecords.com/blogs/news/steve-earle-biography'
 network_extracted: true
 entry_created: '2025-12-15T01:31:27.419854'
 last_updated: '2025-12-23T08:16:16.100041'
@@ -115,10 +115,10 @@ disambiguation: US folk/rock singer/songwriter
 gender: Male
 musicbrainz_id: ec863030-7c13-45a3-a025-a69195d3a020
 tags:
-- 2008 universal fire victim
-- americana
-- bluegrass
-
+  - 2008 universal fire victim
+  - americana
+  - bluegrass
+origin: 'Houston, Texas, United States'
 ---
 
 ![](steve_earle.jpg)

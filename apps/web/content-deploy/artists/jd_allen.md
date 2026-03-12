@@ -4,15 +4,15 @@ wiki_slug: jd-allen
 schema_version: 2
 artist_type: person
 status: active
-birth_place: Detroit, Michigan, USA
+birth_place: 'Detroit, Michigan, USA'
 genres:
-- hard bop
-- jazz
+  - hard bop
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jd_allen.jpg
   caption: JD Allen
   background: solo_singer
-  origin: Detroit, Michigan, USA
+  origin: 'Detroit, Michigan, USA'
 audio_profile:
   tempo_avg: 107.5
   energy_avg: 0.266
@@ -20,7 +20,7 @@ audio_profile:
   danceability_avg: 0.453
   acousticness_avg: 0.716
   instrumentalness_avg: 0.522
-  loudness_avg: -14.0
+  loudness_avg: -14
   speechiness_avg: 0.045
   liveness_avg: 0.141
   track_count: 50
@@ -28,54 +28,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Gregg August
-  - Rudy Royston
-  - Nic Cacioppo
-  - Ian Kenselaar
+    - Gregg August
+    - Rudy Royston
+    - Nic Cacioppo
+    - Ian Kenselaar
   influenced:
-  - Emerging saxophonists in contemporary jazz
+    - Emerging saxophonists in contemporary jazz
   mentors:
-  - Betty Carter
-  - Lester Bowie
+    - Betty Carter
+    - Lester Bowie
 spotify_data:
   followers: 5047
   id: 5ACouApJyhZpZ3Eu2DtrlM
   popularity: 37
-  url: https://open.spotify.com/artist/5ACouApJyhZpZ3Eu2DtrlM
+  url: 'https://open.spotify.com/artist/5ACouApJyhZpZ3Eu2DtrlM'
 discography_enriched: true
 top_tracks:
-- Where Are You?
-- The Impossible Rep
-- Stardust (Love Letters (The Ballad Sessions))
-- Put on a Happy Face (Love Stone)
-- Don´t Go to Strangers
-- Diatom Ribbons (feat. JD Allen & Tony Malaby) (Diatom Ribbons)
-- Home for the Holidays (A Garland of Holiday Songs)
-- Come All Ye Fair and Tender Ladies (Love Stone)
-- Prisoner of Love (Love Stone)
-- Time (Dilation) (The Dark, the Light, the Grey and the Colorful)
+  - Where Are You?
+  - The Impossible Rep
+  - Stardust (Love Letters (The Ballad Sessions))
+  - Put on a Happy Face (Love Stone)
+  - Don´t Go to Strangers
+  - Diatom Ribbons (feat. JD Allen & Tony Malaby) (Diatom Ribbons)
+  - Home for the Holidays (A Garland of Holiday Songs)
+  - Come All Ye Fair and Tender Ladies (Love Stone)
+  - Prisoner of Love (Love Stone)
+  - 'Time (Dilation) (The Dark, the Light, the Grey and the Colorful)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ab45e878-ec19-4fc0-8ef5-1e8d0baed8a5
-  spotify: https://open.spotify.com/artist/5ACouApJyhZpZ3Eu2DtrlM
-  wikipedia: https://en.wikipedia.org/wiki/J._D._Allen
+  musicbrainz: 'https://musicbrainz.org/artist/ab45e878-ec19-4fc0-8ef5-1e8d0baed8a5'
+  spotify: 'https://open.spotify.com/artist/5ACouApJyhZpZ3Eu2DtrlM'
+  wikipedia: 'https://en.wikipedia.org/wiki/J._D._Allen'
 image_path: 03_Resources/source_material/ArtistPortraits/jd_allen.jpg
 biography_enhanced_at: '2025-11-08T22:00:38.017297'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/J._D._Allen
-- https://newsfromtheshed.com/jd-allen/
-- https://jodyjazz.com/endorser/jd-allen/
-- https://www.thecarrcenter.org/meet-jd-allen/
-- https://www.jazzword.com/reviews/jd-allen/
-- https://www.openskyjazz.com/2011/02/artists-point-of-view-jd-allen/
-- https://jazztimes.com/features/profiles/jd-allen-victory-of-the-underdog/
+  - 'https://en.wikipedia.org/wiki/J._D._Allen'
+  - 'https://newsfromtheshed.com/jd-allen/'
+  - 'https://jodyjazz.com/endorser/jd-allen/'
+  - 'https://www.thecarrcenter.org/meet-jd-allen/'
+  - 'https://www.jazzword.com/reviews/jd-allen/'
+  - 'https://www.openskyjazz.com/2011/02/artists-point-of-view-jd-allen/'
+  - 'https://jazztimes.com/features/profiles/jd-allen-victory-of-the-underdog/'
 network_extracted: true
 entry_created: '2025-11-08T22:00:38.017312'
 last_updated: '2025-12-23T08:16:10.267372'
 disambiguation: Jazz Tenor Sax
 gender: Male
 musicbrainz_id: ab45e878-ec19-4fc0-8ef5-1e8d0baed8a5
+birth_date: '1972-12-11'
 ---
 
 ![](jd_allen.jpg)

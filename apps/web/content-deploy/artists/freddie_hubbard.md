@@ -5,84 +5,84 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1938-04-07'
-birth_place: Indianapolis
+birth_place: 'Indianapolis, Indiana, United States'
 death_date: '2008-12-29'
 genres:
-- hard bop
-- jazz
-- bebop
-- cool jazz
-- soul jazz
+  - hard bop
+  - jazz
+  - bebop
+  - cool jazz
+  - soul jazz
 instruments:
-- original
-- trumpet
-- eponymous
-- flugelhorn
+  - original
+  - trumpet
+  - eponymous
+  - flugelhorn
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  - trumpet
-  mbid: 29ef7b9d-8222-4f98-85f7-1b30570a6c79
-  name: Echoes of an Era
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c49d862f-6b82-464a-a39f-b031533df784
-  name: Quincy Jones and His Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 272c80be-dea0-4f35-8532-940ff43f346b
-  name: CTI All-Stars
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 123e4002-2ad3-433e-ac2e-5c0cb2796846
-  name: V.S.O.P.
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 209ddf15-ee0a-41a1-a1f5-6f4c0409d2ee
-  name: Art Blakey & The Jazz Messengers
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - flugelhorn
-  - original
-  mbid: e13ddf5e-eb27-43a4-98e7-db870a1dcabe
-  name: Freddie Hubbard Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c020ab6f-2653-474f-98cb-f89488d9d228
-  name: The Great Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  - trumpet
-  mbid: e13ddf5e-eb27-43a4-98e7-db870a1dcabe
-  name: Freddie Hubbard Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - flugelhorn
-  - original
-  mbid: aea1b49a-a21d-412f-902a-06c631b1a2a3
-  name: McCoy Tyner / Freddie Hubbard Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  - trumpet
-  mbid: aea1b49a-a21d-412f-902a-06c631b1a2a3
-  name: McCoy Tyner / Freddie Hubbard Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+      - trumpet
+    mbid: 29ef7b9d-8222-4f98-85f7-1b30570a6c79
+    name: Echoes of an Era
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c49d862f-6b82-464a-a39f-b031533df784
+    name: Quincy Jones and His Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 272c80be-dea0-4f35-8532-940ff43f346b
+    name: CTI All-Stars
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 123e4002-2ad3-433e-ac2e-5c0cb2796846
+    name: V.S.O.P.
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 209ddf15-ee0a-41a1-a1f5-6f4c0409d2ee
+    name: Art Blakey & The Jazz Messengers
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - flugelhorn
+      - original
+    mbid: e13ddf5e-eb27-43a4-98e7-db870a1dcabe
+    name: Freddie Hubbard Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c020ab6f-2653-474f-98cb-f89488d9d228
+    name: The Great Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - trumpet
+    mbid: e13ddf5e-eb27-43a4-98e7-db870a1dcabe
+    name: Freddie Hubbard Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - flugelhorn
+      - original
+    mbid: aea1b49a-a21d-412f-902a-06c631b1a2a3
+    name: McCoy Tyner / Freddie Hubbard Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - trumpet
+    mbid: aea1b49a-a21d-412f-902a-06c631b1a2a3
+    name: McCoy Tyner / Freddie Hubbard Quartet
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/freddie_hubbard.jpg
   caption: Freddie Hubbard
@@ -105,62 +105,69 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Art Blakey
-  - Wayne Shorter
-  - Herbie Hancock
-  - John Coltrane
-  - Ornette Coleman
-  - Billy Joel
-  - Elton John
+    - Art Blakey
+    - Wayne Shorter
+    - Herbie Hancock
+    - John Coltrane
+    - Ornette Coleman
+    - Billy Joel
+    - Elton John
   influenced:
-  - Wynton Marsalis
-  - Terence Blanchard
-  - Nicholas Payton
+    - Wynton Marsalis
+    - Terence Blanchard
+    - Nicholas Payton
   mentors:
-  - Max Woodbury
-  - Miles Davis
+    - Max Woodbury
+    - Miles Davis
 spotify_data:
   followers: 184523
   id: 0fTHKjepK5HWOrb2rkS5Em
   popularity: 40
-  url: https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em
+  url: 'https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em'
 discography_enriched: true
 top_tracks:
-- Dedicated To You (The Body & The Soul)
-- Weaver Of Dreams - Remastered 2003/Rudy Van Gelder Edition (Ready For Freddie (Rudy Van Gelder Remaster Edition))
-- The Things We Did Last Summer (The Hub of Hubbard)
-- Red Clay (Red Clay)
-- Little Sunflower (Backlash)
-- Body And Soul (Ballads)
-- 'Something In The Past (Jazzmatazz Volume II: The New Reality)'
-- Blue Frenzy - Remastered 2004 (Breaking Point)
-- Arietis - Remastered 2003/Rudy Van Gelder Edition (Ready For Freddie (Rudy Van Gelder Remaster Edition))
-- But Beautiful - Remastered 2002/Rudy Van Gelder Edition (Open Sesame (The Rudy Van Gelder Edition))
+  - Dedicated To You (The Body & The Soul)
+  - >-
+    Weaver Of Dreams - Remastered 2003/Rudy Van Gelder Edition (Ready For
+    Freddie (Rudy Van Gelder Remaster Edition))
+  - The Things We Did Last Summer (The Hub of Hubbard)
+  - Red Clay (Red Clay)
+  - Little Sunflower (Backlash)
+  - Body And Soul (Ballads)
+  - 'Something In The Past (Jazzmatazz Volume II: The New Reality)'
+  - Blue Frenzy - Remastered 2004 (Breaking Point)
+  - >-
+    Arietis - Remastered 2003/Rudy Van Gelder Edition (Ready For Freddie (Rudy
+    Van Gelder Remaster Edition))
+  - >-
+    But Beautiful - Remastered 2002/Rudy Van Gelder Edition (Open Sesame (The
+    Rudy Van Gelder Edition))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/59ae7a1a-f454-435b-8a5a-e327e692bb5a
-  spotify: https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em
-  wikipedia: https://en.wikipedia.org/wiki/Freddie_Hubbard
+  musicbrainz: 'https://musicbrainz.org/artist/59ae7a1a-f454-435b-8a5a-e327e692bb5a'
+  spotify: 'https://open.spotify.com/artist/0fTHKjepK5HWOrb2rkS5Em'
+  wikipedia: 'https://en.wikipedia.org/wiki/Freddie_Hubbard'
 image_path: 03_Resources/source_material/ArtistPortraits/freddie_hubbard.jpg
 biography_enhanced_at: '2025-10-23T07:17:41.846730'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Freddie_Hubbard
-- https://freddiehubbardmusic.com/freddie-hubbard-biography/
-- https://www.arts.gov/honors/jazz/freddie-hubbard
-- https://indyencyclopedia.org/frederick-dewayne-freddie-hubbard/
-- https://arkadiarecords.com/freddie-hubbard-discover-the-trumpet-maestro/
-- https://concord.com/artist/freddie-hubbard/
+  - 'https://en.wikipedia.org/wiki/Freddie_Hubbard'
+  - 'https://freddiehubbardmusic.com/freddie-hubbard-biography/'
+  - 'https://www.arts.gov/honors/jazz/freddie-hubbard'
+  - 'https://indyencyclopedia.org/frederick-dewayne-freddie-hubbard/'
+  - 'https://arkadiarecords.com/freddie-hubbard-discover-the-trumpet-maestro/'
+  - 'https://concord.com/artist/freddie-hubbard/'
 network_extracted: true
 entry_created: '2025-10-23T07:17:41.846756'
 last_updated: '2025-12-23T08:16:08.844980'
 gender: Male
 musicbrainz_id: 59ae7a1a-f454-435b-8a5a-e327e692bb5a
 tags:
-- 2008 universal fire victim
-- hard bop
-- jazz
-
+  - 2008 universal fire victim
+  - hard bop
+  - jazz
+is_active: false
+origin: 'New York City, New York, United States'
 ---
 
 ![](freddie_hubbard.jpg)

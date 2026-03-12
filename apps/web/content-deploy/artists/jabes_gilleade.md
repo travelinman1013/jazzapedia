@@ -3,13 +3,17 @@ title: Jabes Gilleade
 wiki_slug: jabes-gilleade
 schema_version: 2
 status: active
-birth_place: Unknown, likely associated with Ceará, Brazil (inferred from song title, not explicitly confirmed)[7]
+birth_place: >-
+  Unknown, likely associated with Ceará, Brazil (inferred from song title, not
+  explicitly confirmed)[7]
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jabes_gilleade.jpg
   caption: Jabes Gilleade
   background: solo_singer
-  origin: Unknown, likely associated with Ceará, Brazil (inferred from song title, not explicitly confirmed)[7]
+  origin: >-
+    Unknown, likely associated with Ceará, Brazil (inferred from song title, not
+    explicitly confirmed)[7]
 audio_profile:
   tempo_avg: 134.9
   energy_avg: 0.416
@@ -31,31 +35,34 @@ spotify_data:
   followers: 156
   id: 2QUIYaLZ7IeSEjiXqdwgwU
   popularity: 0
-  url: https://open.spotify.com/artist/2QUIYaLZ7IeSEjiXqdwgwU
+  url: 'https://open.spotify.com/artist/2QUIYaLZ7IeSEjiXqdwgwU'
 discography_enriched: true
 top_tracks:
-- Saudade do Meu Ceará (Nordestinidade)
-- Bem Querer (Bem Querer)
-- À Terra do Lavrador (Nordestinidade)
-- Arvorará (Nordestinidade)
-- Coração de Menina (Nordestinidade)
-- Maria Bonita (Nordestinidade)
-- O Paradoxo da Palavra (Nordestinidade)
-- Saudade (Nordestinidade)
-- Selo (Nordestinidade)
-- Terra Pacífica (Nordestinidade)
+  - Saudade do Meu Ceará (Nordestinidade)
+  - Bem Querer (Bem Querer)
+  - À Terra do Lavrador (Nordestinidade)
+  - Arvorará (Nordestinidade)
+  - Coração de Menina (Nordestinidade)
+  - Maria Bonita (Nordestinidade)
+  - O Paradoxo da Palavra (Nordestinidade)
+  - Saudade (Nordestinidade)
+  - Selo (Nordestinidade)
+  - Terra Pacífica (Nordestinidade)
 external_urls:
-  spotify: https://open.spotify.com/artist/2QUIYaLZ7IeSEjiXqdwgwU
+  spotify: 'https://open.spotify.com/artist/2QUIYaLZ7IeSEjiXqdwgwU'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/jabes_gilleade.jpg
 biography_enhanced_at: '2025-12-07T04:49:50.842506'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Spotify artist/track listing for Jabes Gilleade and the song “Saudade do Meu Ceará”[7]
+  - >-
+    Spotify artist/track listing for Jabes Gilleade and the song “Saudade do Meu
+    Ceará”[7]
 network_extracted: true
 entry_created: '2025-12-07T04:49:50.842519'
 last_updated: '2025-12-23T08:16:09.972033'
+artist_type: person
 ---
 
 ![](jabes_gilleade.jpg)

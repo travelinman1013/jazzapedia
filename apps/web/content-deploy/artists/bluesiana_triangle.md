@@ -2,10 +2,10 @@
 title: Bluesiana Triangle
 wiki_slug: bluesiana-triangle
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- jazz blues
+  - jazz blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bluesiana_triangle.jpg
   caption: Bluesiana Triangle
@@ -17,7 +17,7 @@ audio_profile:
   danceability_avg: 0.547
   acousticness_avg: 0.412
   instrumentalness_avg: 0.376
-  loudness_avg: -17.0
+  loudness_avg: -17
   speechiness_avg: 0.059
   liveness_avg: 0.154
   track_count: 17
@@ -25,49 +25,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dr. John (Mac Rebennack)
-  - David "Fathead" Newman
+    - Dr. John (Mac Rebennack)
+    - David "Fathead" Newman
   influenced:
-  - No specific artists reliably documented
+    - No specific artists reliably documented
   mentors:
-  - Art Blakey
+    - Art Blakey
 spotify_data:
   followers: 453
   id: 7zNtZkCa4qsBokgwo4I5Of
   popularity: 2
-  url: https://open.spotify.com/artist/7zNtZkCa4qsBokgwo4I5Of
+  url: 'https://open.spotify.com/artist/7zNtZkCa4qsBokgwo4I5Of'
 discography_enriched: true
 top_tracks:
-- Heads Up (Bluesiana Triangle)
-- Life's a One Way Ticket (Bluesiana Triangle)
-- Shoo Fly Don't Bother Me (Bluesiana Triangle)
-- When the Saints Go Marchin' In (Bluesiana Triangle)
-- Need to Be Loved (Bluesiana Triangle)
-- Next Time You See Me (Bluesiana Triangle)
-- For All We Know (Bluesiana Triangle)
-- Fonkalishus (Bluesiana II)
-- Doctor Blooze (Bluesiana II)
-- Cowan Woman (Bluesiana II)
+  - Heads Up (Bluesiana Triangle)
+  - Life's a One Way Ticket (Bluesiana Triangle)
+  - Shoo Fly Don't Bother Me (Bluesiana Triangle)
+  - When the Saints Go Marchin' In (Bluesiana Triangle)
+  - Need to Be Loved (Bluesiana Triangle)
+  - Next Time You See Me (Bluesiana Triangle)
+  - For All We Know (Bluesiana Triangle)
+  - Fonkalishus (Bluesiana II)
+  - Doctor Blooze (Bluesiana II)
+  - Cowan Woman (Bluesiana II)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c4f6c620-ff2a-4b56-9ac0-34e53fc9292b
-  spotify: https://open.spotify.com/artist/7zNtZkCa4qsBokgwo4I5Of
-  wikipedia: https://en.wikipedia.org/wiki/Bluesiana_Triangle
+  musicbrainz: 'https://musicbrainz.org/artist/c4f6c620-ff2a-4b56-9ac0-34e53fc9292b'
+  spotify: 'https://open.spotify.com/artist/7zNtZkCa4qsBokgwo4I5Of'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bluesiana_Triangle'
 image_path: 03_Resources/source_material/ArtistPortraits/bluesiana_triangle.jpg
 biography_enhanced_at: '2025-12-06T05:36:50.563594'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.allmusic.com/artist/bluesiana-triangle-mn0000051942
-- https://en.wikipedia.org/wiki/Bluesiana_Triangle
-- https://en.wikipedia.org/wiki/Bluesiana_II
-- https://www.offbeat.com/music/bluesiana-triangle-bluesiana-triangle-windham-hill-jazz/
-- https://www.last.fm/music/Bluesiana+Triangle/_/Shoo+Fly+Don't+Bother+Me
+  - 'https://www.allmusic.com/artist/bluesiana-triangle-mn0000051942'
+  - 'https://en.wikipedia.org/wiki/Bluesiana_Triangle'
+  - 'https://en.wikipedia.org/wiki/Bluesiana_II'
+  - >-
+    https://www.offbeat.com/music/bluesiana-triangle-bluesiana-triangle-windham-hill-jazz/
+  - 'https://www.last.fm/music/Bluesiana+Triangle/_/Shoo+Fly+Don''t+Bother+Me'
 network_extracted: true
 entry_created: '2025-12-06T05:36:50.563612'
 last_updated: '2025-12-23T08:16:05.785740'
 musicbrainz_id: c4f6c620-ff2a-4b56-9ac0-34e53fc9292b
-origin: United States (American jazz, blues and funk group; more specific city of origin is not clearly documented in reliable
-  sources)
+origin: >-
+  United States (American jazz, blues and funk group; more specific city of
+  origin is not clearly documented in reliable sources)
+death_date: '1990'
 ---
 
 ![](bluesiana_triangle.jpg)

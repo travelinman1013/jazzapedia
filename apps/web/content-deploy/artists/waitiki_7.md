@@ -4,7 +4,7 @@ wiki_slug: waitiki-7
 schema_version: 2
 status: active
 genres:
-- exotica
+  - exotica
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/waitiki_7.jpg
   caption: Waitiki 7
@@ -24,56 +24,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Abe Lagrimas Jr.
-  - Lopaka Colón
-  - Randy Wong
-  - Tim Mayer
-  - Zaccai Curtis
-  - Helen Liu
-  - Jim Benoit
-  - Brother Cleve
-  - Robert Drasnin
+    - Abe Lagrimas Jr.
+    - Lopaka Colón
+    - Randy Wong
+    - Tim Mayer
+    - Zaccai Curtis
+    - Helen Liu
+    - Jim Benoit
+    - Brother Cleve
+    - Robert Drasnin
   influenced:
-  - Hawaii Youth Symphony
-  - Modern exotica and tiki revival musicians
+    - Hawaii Youth Symphony
+    - Modern exotica and tiki revival musicians
   mentors:
-  - Martin Denny
-  - Arthur Lyman
-  - Les Baxter
+    - Martin Denny
+    - Arthur Lyman
+    - Les Baxter
 spotify_data:
   followers: 379
   id: 0jM0nVDvZgagedp3wmdeHt
   popularity: 6
-  url: https://open.spotify.com/artist/0jM0nVDvZgagedp3wmdeHt
+  url: 'https://open.spotify.com/artist/0jM0nVDvZgagedp3wmdeHt'
 discography_enriched: true
 top_tracks:
-- Adventures in Paradise (Adventures in Paradise)
-- Ruby (New Sounds of Exotica)
-- Similau (This is Vintage Now)
-- Bali Hai (New Sounds of Exotica)
-- Sweet Pikake Serenade (New Sounds of Exotica)
-- Coronation (Adventures in Paradise)
-- Ouanalao (Adventures in Paradise)
-- Flower Humming (New Sounds of Exotica)
-- Tiki (New Sounds of Exotica)
-- China Fan (New Sounds of Exotica)
+  - Adventures in Paradise (Adventures in Paradise)
+  - Ruby (New Sounds of Exotica)
+  - Similau (This is Vintage Now)
+  - Bali Hai (New Sounds of Exotica)
+  - Sweet Pikake Serenade (New Sounds of Exotica)
+  - Coronation (Adventures in Paradise)
+  - Ouanalao (Adventures in Paradise)
+  - Flower Humming (New Sounds of Exotica)
+  - Tiki (New Sounds of Exotica)
+  - China Fan (New Sounds of Exotica)
 external_urls:
-  spotify: https://open.spotify.com/artist/0jM0nVDvZgagedp3wmdeHt
+  spotify: 'https://open.spotify.com/artist/0jM0nVDvZgagedp3wmdeHt'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/waitiki_7.jpg
 biography_enhanced_at: '2025-10-25T10:00:47.476117'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.waitiki.com/about
-- https://living.halekulani.com/waitiki-7/
-- https://www.allaboutjazz.com/the-waitiki-7-new-sounds-of-exotica-by-chris-may
-- https://jazzviews.net/the-waitiki-7-exotica-reborn/
-- https://www.waitiki.com/exoticareborn
+  - 'https://www.waitiki.com/about'
+  - 'https://living.halekulani.com/waitiki-7/'
+  - >-
+    https://www.allaboutjazz.com/the-waitiki-7-new-sounds-of-exotica-by-chris-may
+  - 'https://jazzviews.net/the-waitiki-7-exotica-reborn/'
+  - 'https://www.waitiki.com/exoticareborn'
 network_extracted: true
 entry_created: '2025-10-25T10:00:47.476127'
 last_updated: '2025-12-23T08:16:17.957435'
-origin: Boston, Massachusetts, USA / Honolulu, Hawaiʻi, USA
+origin: 'Boston, Massachusetts, USA / Honolulu, Hawaiʻi, USA'
+artist_type: band
 ---
 
 ![](waitiki_7.jpg)

@@ -1,24 +1,24 @@
 ---
-title: charles shefield
+title: Charles Sheffield
 wiki_slug: charles-shefield
 schema_version: 2
 status: active
-birth_place: Beaumont, Texas, United States
+birth_place: 'Beaumont, Texas, United States'
 genres:
-- northern soul
+  - northern soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/charles_shefield.jpg
   caption: charles shefield
   background: solo_singer
-  origin: Beaumont, Texas, United States
+  origin: 'Beaumont, Texas, United States'
 audio_profile:
   tempo_avg: 132.7
   energy_avg: 0.656
   valence_avg: 0.881
   danceability_avg: 0.637
   acousticness_avg: 0.619
-  instrumentalness_avg: 0.0
-  loudness_avg: -9.0
+  instrumentalness_avg: 0
+  loudness_avg: -9
   speechiness_avg: 0.057
   liveness_avg: 0.231
   track_count: 48
@@ -26,47 +26,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Clarence Garlow Orchestra
-  - Lionel Prevost (aka Lionel Torrence)
-  - Clarence 'Jockey' Etienne
-  - Lazy Lester
+    - Clarence Garlow Orchestra
+    - Lionel Prevost (aka Lionel Torrence)
+    - Clarence 'Jockey' Etienne
+    - Lazy Lester
   influenced:
-  - Northern Soul DJs and collectors
+    - Northern Soul DJs and collectors
   mentors:
-  - Clarence Garlow
-  - J.D. Miller
+    - Clarence Garlow
+    - J.D. Miller
 spotify_data:
   followers: 2335
   id: 5LduSqZcuqh7KzCly7B4w4
   popularity: 27
-  url: https://open.spotify.com/artist/5LduSqZcuqh7KzCly7B4w4
+  url: 'https://open.spotify.com/artist/5LduSqZcuqh7KzCly7B4w4'
 discography_enriched: true
 top_tracks:
-- 'It''s Your Voodoo Working (Deep Cuts: 50s & 60s Rarities)'
-- It's Your Voodoo Working (Long Forgotten Hits of the '60s)
-- It's Your Voo Doo Working (Greetings from the Far North)
-- It's Your Voodoo Working (The Mod Sounds Of Northern Soul)
-- It's Your Voodoo Working (Rock ' n Roll Train / It's Your Voodoo Working)
-- 'It''s Your Voodoo Working - Single Version (It''s Your Voodoo Working: The Best of Excello)'
-- Its YourÂ VoodooÂ Working (Voodoo Dolls)
-- 'I Got Fever (Bayou Blues Blasters: Goldband Blues)'
-- It's Your Voodoo Working (It's Your Voodoo Working)
-- It's Your Voodoo Workin' (60s Soul Sensations - The Rare 45 RPM Collection)
+  - 'It''s Your Voodoo Working (Deep Cuts: 50s & 60s Rarities)'
+  - It's Your Voodoo Working (Long Forgotten Hits of the '60s)
+  - It's Your Voo Doo Working (Greetings from the Far North)
+  - It's Your Voodoo Working (The Mod Sounds Of Northern Soul)
+  - It's Your Voodoo Working (Rock ' n Roll Train / It's Your Voodoo Working)
+  - >-
+    It's Your Voodoo Working - Single Version (It's Your Voodoo Working: The
+    Best of Excello)
+  - Its YourÂ VoodooÂ Working (Voodoo Dolls)
+  - 'I Got Fever (Bayou Blues Blasters: Goldband Blues)'
+  - It's Your Voodoo Working (It's Your Voodoo Working)
+  - It's Your Voodoo Workin' (60s Soul Sensations - The Rare 45 RPM Collection)
 external_urls:
-  spotify: https://open.spotify.com/artist/5LduSqZcuqh7KzCly7B4w4
+  spotify: 'https://open.spotify.com/artist/5LduSqZcuqh7KzCly7B4w4'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/charles_shefield.jpg
 biography_enhanced_at: '2025-10-31T08:25:14.128150'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://1960sdaysofrage.wordpress.com/2024/09/23/charles-sheffield/
-- https://www.allmusic.com/artist/charles-sheffield-mn0000200508
-- https://secondhandsongs.com/artist/46710/all
-- http://www.nts.live/artists/4840-charles-sheffield
+  - 'https://1960sdaysofrage.wordpress.com/2024/09/23/charles-sheffield/'
+  - 'https://www.allmusic.com/artist/charles-sheffield-mn0000200508'
+  - 'https://secondhandsongs.com/artist/46710/all'
+  - 'http://www.nts.live/artists/4840-charles-sheffield'
 network_extracted: true
 entry_created: '2025-10-31T08:25:14.128168'
 last_updated: '2025-12-23T08:16:06.695708'
+birth_date: '1931-02-16'
+artist_type: person
 ---
 
 ![](charles_shefield.jpg)

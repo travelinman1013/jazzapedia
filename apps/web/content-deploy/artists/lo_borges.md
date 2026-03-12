@@ -3,15 +3,15 @@ title: Lo Borges
 wiki_slug: lo-borges
 schema_version: 2
 status: active
-birth_place: Belo Horizonte, Minas Gerais, Brazil
+birth_place: 'Belo Horizonte, Minas Gerais, Brazil'
 genres:
-- mpb
-- brazilian jazz
+  - mpb
+  - brazilian jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lo_borges.jpg
   caption: Lo Borges
   background: solo_singer
-  origin: Belo Horizonte, Minas Gerais, Brazil
+  origin: 'Belo Horizonte, Minas Gerais, Brazil'
 audio_profile:
   tempo_avg: 123.8
   energy_avg: 0.538
@@ -27,47 +27,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Milton Nascimento
-  - Márcio Borges
-  - Samuel Rosa
-  - Beto Guedes
+    - Milton Nascimento
+    - Márcio Borges
+    - Samuel Rosa
+    - Beto Guedes
   influenced:
-  - Skank
-  - Nando Reis
-  - 14 Bis
+    - Skank
+    - Nando Reis
+    - 14 Bis
   mentors:
-  - Milton Nascimento
+    - Milton Nascimento
 spotify_data:
   followers: 193220
   id: 1mZbRiSVb2ExneAlDbBiiT
   popularity: 58
-  url: https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT
+  url: 'https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT'
 discography_enriched: true
 top_tracks:
-- Um Girassol Da Cor Do Seu Cabelo (Clube Da Esquina)
-- Cravo E Canela (Clube Da Esquina)
-- O Trem Azul (Clube Da Esquina)
-- Um Girassol Da Cor Do Seu Cabelo (Para Sempre)
-- Paisagem Da Janela (Clube Da Esquina)
-- O Trem Azul (Meus Momentos)
-- Paisagem Da Janela (Meus Momentos)
-- Trem De Doido (Clube Da Esquina)
-- Paisagem da Janela - Ao Vivo (Tênis + Clube - Ao Vivo No Circo Voador)
-- Clube Da Esquina Nº 2 (A Via-Láctea)
+  - Um Girassol Da Cor Do Seu Cabelo (Clube Da Esquina)
+  - Cravo E Canela (Clube Da Esquina)
+  - O Trem Azul (Clube Da Esquina)
+  - Um Girassol Da Cor Do Seu Cabelo (Para Sempre)
+  - Paisagem Da Janela (Clube Da Esquina)
+  - O Trem Azul (Meus Momentos)
+  - Paisagem Da Janela (Meus Momentos)
+  - Trem De Doido (Clube Da Esquina)
+  - Paisagem da Janela - Ao Vivo (Tênis + Clube - Ao Vivo No Circo Voador)
+  - Clube Da Esquina Nº 2 (A Via-Láctea)
 external_urls:
-  spotify: https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT
-  wikipedia: https://en.wikipedia.org/wiki/L%C3%B4_Borges
+  spotify: 'https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT'
+  wikipedia: 'https://en.wikipedia.org/wiki/L%C3%B4_Borges'
 image_path: 03_Resources/source_material/ArtistPortraits/lo_borges.jpg
 biography_enhanced_at: '2025-11-10T03:37:52.363836'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/L%C3%B4_Borges
-- https://www.pastemagazine.com/music/lo-borges/lo-borges-dead-at-73
-- https://www.last.fm/music/L%C3%B4+Borges/+wiki
+  - 'https://en.wikipedia.org/wiki/L%C3%B4_Borges'
+  - 'https://www.pastemagazine.com/music/lo-borges/lo-borges-dead-at-73'
+  - 'https://www.last.fm/music/L%C3%B4+Borges/+wiki'
 network_extracted: true
 entry_created: '2025-11-10T03:37:52.363852'
 last_updated: '2025-12-23T08:16:12.070841'
+birth_date: '1952-01-10'
+artist_type: person
 ---
 
 ![](lo_borges.jpg)

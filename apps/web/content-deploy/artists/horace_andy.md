@@ -5,16 +5,16 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1951-02-19'
-birth_place: Kingston
+birth_place: 'Kingston, Jamaica, United States'
 genres:
-- roots reggae
-- dub
-- reggae
-- rocksteady
-- lovers rock
-- ragga
+  - roots reggae
+  - dub
+  - reggae
+  - rocksteady
+  - lovers rock
+  - ragga
 instruments:
-- lead vocals
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/horace_andy.jpg
   caption: Horace Andy
@@ -36,46 +36,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Massive Attack
-  - Mad Professor
-  - Easy Star All-Stars
-  - 1 Giant Leap
+    - Massive Attack
+    - Mad Professor
+    - Easy Star All-Stars
+    - 1 Giant Leap
   influenced:
-  - Massive Attack
+    - Massive Attack
   mentors:
-  - Phil Pratt
-  - Clement 'Coxsone' Dodd
+    - Phil Pratt
+    - Clement 'Coxsone' Dodd
 spotify_data:
   followers: 100723
   id: 2ieAXAuLe6qQ3RJsqCxpoC
   popularity: 64
-  url: https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC
+  url: 'https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC'
 discography_enriched: true
 top_tracks:
-- Angel (Mezzanine)
-- Angel - Remastered 2019 (Mezzanine (Deluxe))
-- Man Next Door (Mezzanine)
-- Girl I Love You (Heligoland)
-- Angel - Radio Edit
-- Angel - Remastered 2006
-- Splitting The Atom (Heligoland)
-- (Exchange) (Mezzanine)
-- Skylarking
-- Five Man Army - 2012 Mix/Master (Blue Lines (2012 Mix/Master))
+  - Angel (Mezzanine)
+  - Angel - Remastered 2019 (Mezzanine (Deluxe))
+  - Man Next Door (Mezzanine)
+  - Girl I Love You (Heligoland)
+  - Angel - Radio Edit
+  - Angel - Remastered 2006
+  - Splitting The Atom (Heligoland)
+  - (Exchange) (Mezzanine)
+  - Skylarking
+  - Five Man Army - 2012 Mix/Master (Blue Lines (2012 Mix/Master))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2027b08d-45b1-4fb5-aa6d-f6ccc4db78e5
-  spotify: https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC
-  wikipedia: https://en.wikipedia.org/wiki/Horace_Andy
+  musicbrainz: 'https://musicbrainz.org/artist/2027b08d-45b1-4fb5-aa6d-f6ccc4db78e5'
+  spotify: 'https://open.spotify.com/artist/2ieAXAuLe6qQ3RJsqCxpoC'
+  wikipedia: 'https://en.wikipedia.org/wiki/Horace_Andy'
 image_path: 03_Resources/source_material/ArtistPortraits/horace_andy.jpg
 biography_enhanced_at: '2025-12-22T01:47:25.523378'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Horace Andy
-- Black History Month 2025 UK
-- First Avenue
-- WOMEX
-- Talowa Productions
+  - Wikipedia - Horace Andy
+  - Black History Month 2025 UK
+  - First Avenue
+  - WOMEX
+  - Talowa Productions
 network_extracted: true
 entry_created: '2025-12-22T01:47:25.523383'
 last_updated: '2025-12-23T08:16:09.670064'
@@ -83,9 +83,9 @@ disambiguation: Jamaican roots reggae songwriter & singer
 gender: Male
 musicbrainz_id: 2027b08d-45b1-4fb5-aa6d-f6ccc4db78e5
 tags:
-- dub
-- electronica
-- reggae
+  - dub
+  - electronica
+  - reggae
 ---
 
 ![](horace_andy.jpg)

@@ -5,11 +5,11 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1923-10-18'
-birth_place: Senatobia
+birth_place: 'Senatobia, Mississippi, United States'
 death_date: '2006-07-22'
 genres:
-- country blues
-- blues
+  - country blues
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jessie_mae_hemphill.jpg
   caption: Jessie Mae Hemphill
@@ -24,7 +24,7 @@ audio_profile:
   danceability_avg: 0.654
   acousticness_avg: 0.554
   instrumentalness_avg: 0.024
-  loudness_avg: -13.0
+  loudness_avg: -13
   speechiness_avg: 0.053
   liveness_avg: 0.099
   track_count: 50
@@ -32,55 +32,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - David Evans
-  - Abe Young
-  - Othar Turner
+    - David Evans
+    - Abe Young
+    - Othar Turner
   influenced:
-  - R.L. Burnside
-  - Junior Kimbrough
+    - R.L. Burnside
+    - Junior Kimbrough
   mentors:
-  - Sid Hemphill
-  - Rosa Lee Hill
+    - Sid Hemphill
+    - Rosa Lee Hill
 spotify_data:
   followers: 8874
   id: 75bUlG7zJQWJkRqESmNWsW
   popularity: 20
-  url: https://open.spotify.com/artist/75bUlG7zJQWJkRqESmNWsW
+  url: 'https://open.spotify.com/artist/75bUlG7zJQWJkRqESmNWsW'
 discography_enriched: true
 top_tracks:
-- Standing In My Doorway Crying (She-Wolf)
-- I'm So Glad You Don't Know What's On My Mind (take 1) (Mississippi Blues Festival (Blues Reference))
-- She-Wolf (She-Wolf)
-- Tell Me You Love Me (Feelin' Good)
-- Jump, Baby, Jump (She-Wolf)
-- Crawdad Hole (She-Wolf)
-- My Daddy's Blues (Feelin' Good)
-- Lord, Help The Poor And Needy (Feelin' Good)
-- Black Cat Bone (She-Wolf)
-- 'Standing in My Doorway Crying (Black Snake Moan: Original Motion Picture Soundtrack)'
+  - Standing In My Doorway Crying (She-Wolf)
+  - >-
+    I'm So Glad You Don't Know What's On My Mind (take 1) (Mississippi Blues
+    Festival (Blues Reference))
+  - She-Wolf (She-Wolf)
+  - Tell Me You Love Me (Feelin' Good)
+  - 'Jump, Baby, Jump (She-Wolf)'
+  - Crawdad Hole (She-Wolf)
+  - My Daddy's Blues (Feelin' Good)
+  - 'Lord, Help The Poor And Needy (Feelin'' Good)'
+  - Black Cat Bone (She-Wolf)
+  - >-
+    Standing in My Doorway Crying (Black Snake Moan: Original Motion Picture
+    Soundtrack)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5ede86ef-d331-4797-aac7-872fa4da5cab
-  spotify: https://open.spotify.com/artist/75bUlG7zJQWJkRqESmNWsW
-  wikipedia: https://en.wikipedia.org/wiki/Jessie_Mae_Hemphill
+  musicbrainz: 'https://musicbrainz.org/artist/5ede86ef-d331-4797-aac7-872fa4da5cab'
+  spotify: 'https://open.spotify.com/artist/75bUlG7zJQWJkRqESmNWsW'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jessie_Mae_Hemphill'
 image_path: 03_Resources/source_material/ArtistPortraits/jessie_mae_hemphill.jpg
 biography_enhanced_at: '2025-10-31T08:16:18.933060'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jessie_Mae_Hemphill
-- https://blues.org/blues_hof_inductee/jessie-mae-hemphill/
-- https://mississippiencyclopedia.org/entries/jessie-mae-hemphill/
-- https://guitarplayer.com/players/girl-how-crazy-you-was-and-how-dangerous-it-was-blues-icon-jessie-mae-hemphill-looks-back-on-her-remarkable-life-in-music
+  - 'https://en.wikipedia.org/wiki/Jessie_Mae_Hemphill'
+  - 'https://blues.org/blues_hof_inductee/jessie-mae-hemphill/'
+  - 'https://mississippiencyclopedia.org/entries/jessie-mae-hemphill/'
+  - >-
+    https://guitarplayer.com/players/girl-how-crazy-you-was-and-how-dangerous-it-was-blues-icon-jessie-mae-hemphill-looks-back-on-her-remarkable-life-in-music
 network_extracted: true
 entry_created: '2025-10-31T08:16:18.933078'
 last_updated: '2025-12-23T08:16:02.530084'
-disambiguation: American electric guitarist, songwriter, and vocalist
+disambiguation: 'American electric guitarist, songwriter, and vocalist'
 gender: Female
 musicbrainz_id: 5ede86ef-d331-4797-aac7-872fa4da5cab
 tags:
-- blues
-- country blues
-- delta blues
+  - blues
+  - country blues
+  - delta blues
+is_active: false
 ---
 
 ![](jessie_mae_hemphill.jpg)

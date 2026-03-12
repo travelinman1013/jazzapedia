@@ -2,23 +2,23 @@
 title: Joey DeFrancesco
 wiki_slug: joey-defrancesco
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1971-04-10'
-birth_place: Philadelphia, Pennsylvania, United States
+birth_place: 'Philadelphia, Pennsylvania, United States'
 death_date: '2022-08-25'
 genres:
-- jazz
-- jazz fusion
+  - jazz
+  - jazz fusion
 instruments:
-- organ
-- Hammond organ
+  - organ
+  - Hammond organ
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Joey_DeFrancesco.jpg
   caption: Joey DeFrancesco
   background: non_vocal_instrumentalist
   born: '1971-04-10'
-  origin: Philadelphia, Pennsylvania, United States
+  origin: 'Philadelphia, Pennsylvania, United States'
   died: '2022-08-25'
 audio_profile:
   tempo_avg: 118.3
@@ -35,48 +35,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Houston Person
-  - Christian McBride
-  - Van Morrison
-  - John McLaughlin
+    - Houston Person
+    - Christian McBride
+    - Van Morrison
+    - John McLaughlin
   influenced:
-  - Cory Henry
-  - Jared Gold
+    - Cory Henry
+    - Jared Gold
   mentors:
-  - Papa John DeFrancesco
-  - Jimmy Smith
-  - Miles Davis
+    - Papa John DeFrancesco
+    - Jimmy Smith
+    - Miles Davis
 spotify_data:
   followers: 23181
   id: 2hpwTpq2QENZv7EAvniKDR
   popularity: 26
-  url: https://open.spotify.com/artist/2hpwTpq2QENZv7EAvniKDR
+  url: 'https://open.spotify.com/artist/2hpwTpq2QENZv7EAvniKDR'
 discography_enriched: true
 top_tracks:
-- Speak Softly Love (Goodfellas)
-- Fly Me To The Moon (Goodfellas)
-- Miss Otis Regrets (You're Driving Me Crazy)
-- Everyday I Have the Blues (You're Driving Me Crazy)
-- My Favourite Things - Instrumental (After The Rain)
-- Close Enough for Jazz (You're Driving Me Crazy)
-- You're Driving Me Crazy (You're Driving Me Crazy)
-- The Things I Used to Do (You're Driving Me Crazy)
-- Have I Told You Lately? (You're Driving Me Crazy)
-- All I Need
+  - Speak Softly Love (Goodfellas)
+  - Fly Me To The Moon (Goodfellas)
+  - Miss Otis Regrets (You're Driving Me Crazy)
+  - Everyday I Have the Blues (You're Driving Me Crazy)
+  - My Favourite Things - Instrumental (After The Rain)
+  - Close Enough for Jazz (You're Driving Me Crazy)
+  - You're Driving Me Crazy (You're Driving Me Crazy)
+  - The Things I Used to Do (You're Driving Me Crazy)
+  - Have I Told You Lately? (You're Driving Me Crazy)
+  - All I Need
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6d3f9ca6-4fc7-42dd-a6da-a440ff90b886
-  spotify: https://open.spotify.com/artist/2hpwTpq2QENZv7EAvniKDR
-  wikipedia: https://en.wikipedia.org/wiki/Joey_DeFrancesco
+  musicbrainz: 'https://musicbrainz.org/artist/6d3f9ca6-4fc7-42dd-a6da-a440ff90b886'
+  spotify: 'https://open.spotify.com/artist/2hpwTpq2QENZv7EAvniKDR'
+  wikipedia: 'https://en.wikipedia.org/wiki/Joey_DeFrancesco'
 image_path: 03_Resources/source_material/ArtistPortraits/Joey_DeFrancesco.jpg
 biography_enhanced_at: '2025-10-19T11:41:58.790296'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://joeydefrancesco.com/about
-- https://jazztimes.com/features/tributes-and-obituaries/joey-defrancesco-1971-2022/
-- https://knkx.org/jazz/2022-12-27/organist-joey-defrancesco
-- https://downbeat.com/news/detail/joey-defrancesco-who-helped-revitalize-the-b-3-organ-dies-at-51
-- https://www.philadelphiamusicalliance.org/walk-of-fame/joey-defrancesco-2/
+  - 'https://joeydefrancesco.com/about'
+  - >-
+    https://jazztimes.com/features/tributes-and-obituaries/joey-defrancesco-1971-2022/
+  - 'https://knkx.org/jazz/2022-12-27/organist-joey-defrancesco'
+  - >-
+    https://downbeat.com/news/detail/joey-defrancesco-who-helped-revitalize-the-b-3-organ-dies-at-51
+  - 'https://www.philadelphiamusicalliance.org/walk-of-fame/joey-defrancesco-2/'
 network_extracted: true
 entry_created: '2025-10-19T11:41:58.790302'
 last_updated: '2025-12-23T08:16:02.598262'
@@ -84,9 +86,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:31:46.415878'
 musicbrainz_id: 6d3f9ca6-4fc7-42dd-a6da-a440ff90b886
 tags:
-- bebop
-- hard bop
-- jazz
+  - bebop
+  - hard bop
+  - jazz
+is_active: false
 ---
 
 ![](Joey_DeFrancesco.jpg)

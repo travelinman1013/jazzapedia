@@ -1,16 +1,16 @@
 ---
-title: marc broussard
+title: Marc Broussard
 wiki_slug: marc-broussard
 schema_version: 2
 status: active
-birth_place: Lafayette, Louisiana, United States
+birth_place: 'Lafayette, Louisiana, United States'
 genres:
-- blues
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/marc_broussard.jpg
   caption: marc broussard
   background: solo_singer
-  origin: Lafayette, Louisiana, United States
+  origin: 'Lafayette, Louisiana, United States'
 audio_profile:
   tempo_avg: 120.6
   energy_avg: 0.557
@@ -26,47 +26,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Chad Gilmore
-  - Joe Bonamassa
-  - Josh Smith
+    - Chad Gilmore
+    - Joe Bonamassa
+    - Josh Smith
   influenced: []
   mentors:
-  - His Father (Boogie Kings Guitarist)
+    - His Father (Boogie Kings Guitarist)
 spotify_data:
   followers: 198387
   id: 4cEwEednPwWCdYT7ZhROZe
   popularity: 51
-  url: https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe
+  url: 'https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe'
 discography_enriched: true
 top_tracks:
-- 'Cry To Me (S.O.S. 2: Soul On A Mission)'
-- Friend
-- Give You the World (Time Is A Thief)
-- 'Love And Happiness (S.O.S.: Save Our Soul)'
-- Friend
-- 'These Arms Of Mine (S.O.S. 2: Soul On A Mission)'
-- Home (Carencro)
-- Give You The World (Time is a Thief)
-- 'Cry To Me - Acoustic (S.O.S. 2: Soul On A Mission)'
-- Give You The World
+  - 'Cry To Me (S.O.S. 2: Soul On A Mission)'
+  - Friend
+  - Give You the World (Time Is A Thief)
+  - 'Love And Happiness (S.O.S.: Save Our Soul)'
+  - Friend
+  - 'These Arms Of Mine (S.O.S. 2: Soul On A Mission)'
+  - Home (Carencro)
+  - Give You The World (Time is a Thief)
+  - 'Cry To Me - Acoustic (S.O.S. 2: Soul On A Mission)'
+  - Give You The World
 external_urls:
-  spotify: https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe
+  spotify: 'https://open.spotify.com/artist/4cEwEednPwWCdYT7ZhROZe'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/marc_broussard.jpg
 biography_enhanced_at: '2025-11-29T06:56:55.582022'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- marcbroussard.com
-- abcnews.go.com
-- jango.com
-- thekessler.org
-- americanbluesscene.com
-- thebluenote.com
-- sopacnow.org
+  - marcbroussard.com
+  - abcnews.go.com
+  - jango.com
+  - thekessler.org
+  - americanbluesscene.com
+  - thebluenote.com
+  - sopacnow.org
 network_extracted: true
 entry_created: '2025-11-29T06:56:55.582038'
 last_updated: '2025-12-23T08:16:12.602871'
+origin: 'Lafayette, Louisiana, United States'
+birth_date: '1982-01-14'
+artist_type: person
 ---
 
 ![](marc_broussard.jpg)

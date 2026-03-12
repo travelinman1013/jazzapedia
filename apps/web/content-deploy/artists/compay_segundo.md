@@ -5,51 +5,51 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1907-11-18'
-birth_place: Siboney
+birth_place: 'Siboney, Santiago de Cuba, Cuba'
 death_date: '2003-07-13'
 genres:
-- son cubano
-- latin jazz
-- bolero
-- mambo
+  - son cubano
+  - latin jazz
+  - bolero
+  - mambo
 instruments:
-- eponymous
-- lead vocals
-- tres
-- original
-- guitar
-- background vocals
-associated_acts:
-- begin: ''
-  end: '2003'
-  instruments:
   - eponymous
   - lead vocals
-  mbid: 305f8706-091a-4cb3-974d-b491c87da3ed
-  name: Compay Segundo y su Conjunto
-- begin: ''
-  end: '2003'
-  instruments:
-  - eponymous
   - tres
-  mbid: 305f8706-091a-4cb3-974d-b491c87da3ed
-  name: Compay Segundo y su Conjunto
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2a85ecff-41e9-4be1-aca6-c87054a4c334
-  name: Buena Vista Social Club
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 68722b85-c4f6-4523-896d-5bd3b62d4b55
-  name: Grupo Compay Segundo
-- begin: ''
-  end: ''
-  instruments:
   - original
-  mbid: 63a04525-2237-4bf7-9e6b-8f54e6c5bcbb
-  name: Los Compadres
+  - guitar
+  - background vocals
+associated_acts:
+  - begin: ''
+    end: '2003'
+    instruments:
+      - eponymous
+      - lead vocals
+    mbid: 305f8706-091a-4cb3-974d-b491c87da3ed
+    name: Compay Segundo y su Conjunto
+  - begin: ''
+    end: '2003'
+    instruments:
+      - eponymous
+      - tres
+    mbid: 305f8706-091a-4cb3-974d-b491c87da3ed
+    name: Compay Segundo y su Conjunto
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2a85ecff-41e9-4be1-aca6-c87054a4c334
+    name: Buena Vista Social Club
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 68722b85-c4f6-4523-896d-5bd3b62d4b55
+    name: Grupo Compay Segundo
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 63a04525-2237-4bf7-9e6b-8f54e6c5bcbb
+    name: Los Compadres
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/compay_segundo.jpg
   caption: Compay Segundo
@@ -72,58 +72,66 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lorenzo Hierrezuelo
-  - El Conjunto Matamoros
-  - Buena Vista Social Club ensemble (including Ry Cooder, Ibrahim Ferrer, Rubén González, and others)
-  - Polo Montañez
-  - Compay Segundo y sus Muchachos
+    - Lorenzo Hierrezuelo
+    - El Conjunto Matamoros
+    - >-
+      Buena Vista Social Club ensemble (including Ry Cooder, Ibrahim Ferrer,
+      Rubén González, and others)
+    - Polo Montañez
+    - Compay Segundo y sus Muchachos
   influenced:
-  - Polo Montañez
-  - Members of the revived Buena Vista Social Club generation and later Cuban soneros
+    - Polo Montañez
+    - >-
+      Members of the revived Buena Vista Social Club generation and later Cuban
+      soneros
   mentors:
-  - Sindo Garay
-  - Miguel Matamoros
+    - Sindo Garay
+    - Miguel Matamoros
 spotify_data:
   followers: 251906
   id: 2wpr4ILskkRzPBGodmbMs1
   popularity: 50
-  url: https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1
+  url: 'https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1'
 discography_enriched: true
 top_tracks:
-- Guajira guantanamera (Coleccion)
-- La negra Tomasa (Las Flores De La Vida)
-- Guajira guantanamera (Gracias Compay (The Definitive Collection))
-- Y tú qué has hecho (Guantanamera - The Essential Album)
-- Chan chan (Yo Vengo Aqui)
-- Macusa (feat. Eliades Ochoa & Compay Segundo) (Lost and Found)
-- Lágrimas negras (Coleccion)
-- Hasta siempre, Comandante - Directo RNE (100th Birthday Celebration (Edicion especial))
-- Chan chan (Antologia)
-- Guajira guantanamera - Remasterizado (Guantanamera - The Essential Album)
+  - Guajira guantanamera (Coleccion)
+  - La negra Tomasa (Las Flores De La Vida)
+  - Guajira guantanamera (Gracias Compay (The Definitive Collection))
+  - Y tú qué has hecho (Guantanamera - The Essential Album)
+  - Chan chan (Yo Vengo Aqui)
+  - Macusa (feat. Eliades Ochoa & Compay Segundo) (Lost and Found)
+  - Lágrimas negras (Coleccion)
+  - >-
+    Hasta siempre, Comandante - Directo RNE (100th Birthday Celebration (Edicion
+    especial))
+  - Chan chan (Antologia)
+  - Guajira guantanamera - Remasterizado (Guantanamera - The Essential Album)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8b8ab7a4-add8-4353-a586-e1086e521af8
-  spotify: https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1
-  wikipedia: https://en.wikipedia.org/wiki/Compay_Segundo
+  musicbrainz: 'https://musicbrainz.org/artist/8b8ab7a4-add8-4353-a586-e1086e521af8'
+  spotify: 'https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1'
+  wikipedia: 'https://en.wikipedia.org/wiki/Compay_Segundo'
 image_path: 03_Resources/source_material/ArtistPortraits/compay_segundo.jpg
 biography_enhanced_at: '2025-12-05T06:17:32.041619'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Compay_Segundo
-- https://worldmusiccentral.org/artist-profiles-compay-segundo/
-- https://nearshoreamericas.com/compay-segundo-true-cuban-son/
-- https://www.wpr.org/shows/odyssey-series/cubas-celebrated-composer-compay-segundo
-- https://www.imdb.com/name/nm0782158/bio/
-- http://www.cigaraficionado.com/article/cigar-diary-me-and-compay-8348
+  - 'https://en.wikipedia.org/wiki/Compay_Segundo'
+  - 'https://worldmusiccentral.org/artist-profiles-compay-segundo/'
+  - 'https://nearshoreamericas.com/compay-segundo-true-cuban-son/'
+  - >-
+    https://www.wpr.org/shows/odyssey-series/cubas-celebrated-composer-compay-segundo
+  - 'https://www.imdb.com/name/nm0782158/bio/'
+  - 'http://www.cigaraficionado.com/article/cigar-diary-me-and-compay-8348'
 network_extracted: true
 entry_created: '2025-12-05T06:17:32.041624'
 last_updated: '2025-12-23T08:16:07.158557'
 gender: Male
 musicbrainz_id: 8b8ab7a4-add8-4353-a586-e1086e521af8
 tags:
-- gitarre
-- gitarrist
-- komponist
+  - gitarre
+  - gitarrist
+  - komponist
+is_active: false
 ---
 
 ![](compay_segundo.jpg)

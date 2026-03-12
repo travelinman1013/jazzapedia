@@ -1,16 +1,16 @@
 ---
-title: billy bland
+title: Billy Bland
 wiki_slug: billy-bland
 schema_version: 2
 status: active
-birth_place: Wilmington, North Carolina, United States
+birth_place: 'Wilmington, North Carolina, United States'
 genres:
-- doo-wop
+  - doo-wop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/billy_bland.jpg
   caption: billy bland
   background: solo_singer
-  origin: Wilmington, North Carolina, United States
+  origin: 'Wilmington, North Carolina, United States'
 audio_profile:
   tempo_avg: 128.9
   energy_avg: 0.616
@@ -26,49 +26,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Bees
-  - Buddy Lucas
-  - Mickey Baker
-  - The Miller Sisters
+    - The Bees
+    - Buddy Lucas
+    - Mickey Baker
+    - The Miller Sisters
   influenced:
-  - Chuck Berry
+    - Chuck Berry
   mentors:
-  - Lionel Hampton
-  - Buddy Johnson
-  - Dave Bartholomew
+    - Lionel Hampton
+    - Buddy Johnson
+    - Dave Bartholomew
 spotify_data:
   followers: 1367
   id: 4mDEpwlcBham5q1dmykSG0
   popularity: 15
-  url: https://open.spotify.com/artist/4mDEpwlcBham5q1dmykSG0
+  url: 'https://open.spotify.com/artist/4mDEpwlcBham5q1dmykSG0'
 discography_enriched: true
 top_tracks:
-- Let the Little Girl Dance (Let the Little Girl Sing)
-- Let the Little Girl Dance (Ultimate Oldies & Goodies - One Hit Wonders of the 50s & 60s)
-- My Heart Is on Fire (Dancing by Myself - Lost in Nothern Soul)
-- Let The Little Girl Dance (Let the Little Girl Dance)
-- Chicken Hop (Let the Little Girl Sing)
-- How Many Hearts (The Extended Play Collection)
-- All I Wanna Do Is Cry
-- All I Want to Do Is Cry (My Heart's on Fire)
-- Can't Stop Her from Dancing (Let the Little Girl Sing)
-- Let the Little Girl Dance (Let the Little Girl Dance)
+  - Let the Little Girl Dance (Let the Little Girl Sing)
+  - >-
+    Let the Little Girl Dance (Ultimate Oldies & Goodies - One Hit Wonders of
+    the 50s & 60s)
+  - My Heart Is on Fire (Dancing by Myself - Lost in Nothern Soul)
+  - Let The Little Girl Dance (Let the Little Girl Dance)
+  - Chicken Hop (Let the Little Girl Sing)
+  - How Many Hearts (The Extended Play Collection)
+  - All I Wanna Do Is Cry
+  - All I Want to Do Is Cry (My Heart's on Fire)
+  - Can't Stop Her from Dancing (Let the Little Girl Sing)
+  - Let the Little Girl Dance (Let the Little Girl Dance)
 external_urls:
-  spotify: https://open.spotify.com/artist/4mDEpwlcBham5q1dmykSG0
-  wikipedia: https://en.wikipedia.org/wiki/Billy_Bland_(singer)
+  spotify: 'https://open.spotify.com/artist/4mDEpwlcBham5q1dmykSG0'
+  wikipedia: 'https://en.wikipedia.org/wiki/Billy_Bland_(singer)'
 image_path: 03_Resources/source_material/ArtistPortraits/billy_bland.jpg
 biography_enhanced_at: '2025-11-14T11:04:29.791467'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://fromthevaults-boppinbob.blogspot.com/2018/04/billy-bland-born-5-april-1932.html
-- https://en.wikipedia.org/wiki/Billy_Bland_(singer)
-- https://www.last.fm/music/Billy+Bland/+wiki
-- http://www.tsimon.com/billybland.htm
-- https://rocky-52.net/chanteursb/bland_billy.htm
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2018/04/billy-bland-born-5-april-1932.html
+  - 'https://en.wikipedia.org/wiki/Billy_Bland_(singer)'
+  - 'https://www.last.fm/music/Billy+Bland/+wiki'
+  - 'http://www.tsimon.com/billybland.htm'
+  - 'https://rocky-52.net/chanteursb/bland_billy.htm'
 network_extracted: true
 entry_created: '2025-11-14T11:04:29.791475'
 last_updated: '2025-12-23T08:16:05.538127'
+birth_date: '1932-04-05'
+artist_type: person
 ---
 
 ![](billy_bland.jpg)

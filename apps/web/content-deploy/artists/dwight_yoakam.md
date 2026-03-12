@@ -1,65 +1,67 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b2b75153-1c92-4b7e-b034-189487eebf49
-  name: Buzzin' Cousins
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b2b75153-1c92-4b7e-b034-189487eebf49
+    name: Buzzin' Cousins
 biography_enhanced_at: '2026-01-20T01:30:19.019259'
 birth_date: '1956-10-23'
-birth_place: Pikeville
+birth_place: 'Pikeville, Kentucky, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-20T01:30:19.019265'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/0fb711af-c7ba-4bdc-b0b6-b8495fc0a590
-  spotify: https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW
-  wikipedia: https://en.wikipedia.org/wiki/Dwight_Yoakam
+  musicbrainz: 'https://musicbrainz.org/artist/0fb711af-c7ba-4bdc-b0b6-b8495fc0a590'
+  spotify: 'https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dwight_Yoakam'
 gender: Male
 genres:
-- classic country
-- country
-- honky tonk
-- outlaw country
+  - classic country
+  - country
+  - honky tonk
+  - outlaw country
 image_path: 03_Resources/source_material/ArtistPortraits/dwight_yoakam.jpg
 instruments:
-- acoustic guitar
-- electric guitar
-- background vocals
-- lead vocals
-- other vocals
+  - acoustic guitar
+  - electric guitar
+  - background vocals
+  - lead vocals
+  - other vocals
 last_updated: '2026-01-20T01:30:19.019265'
 musical_connections:
   collaborators:
-  - Buck Owens
-  - k.d. lang
-  - Kostas
-  - Beck
-  - Alison Krauss & Union Station
+    - Buck Owens
+    - k.d. lang
+    - Kostas
+    - Beck
+    - Alison Krauss & Union Station
   influenced:
-  - The Blasters
+    - The Blasters
   mentors:
-  - Buck Owens
-  - Merle Haggard
-  - Gram Parsons
+    - Buck Owens
+    - Merle Haggard
+    - Gram Parsons
 musicbrainz_id: 0fb711af-c7ba-4bdc-b0b6-b8495fc0a590
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Dwight_Yoakam
-- https://www.allamericanspeakers.com/celebritytalentbios/Dwight+Yoakam/409962
-- https://walkoffame.com/dwight-yoakam/
-- https://www.pbssocal.org/country-music/dwight-yoakam-on-his-early-cowpunk-years-in-los-angeles
+  - 'https://en.wikipedia.org/wiki/Dwight_Yoakam'
+  - 'https://www.allamericanspeakers.com/celebritytalentbios/Dwight+Yoakam/409962'
+  - 'https://walkoffame.com/dwight-yoakam/'
+  - >-
+    https://www.pbssocal.org/country-music/dwight-yoakam-on-his-early-cowpunk-years-in-los-angeles
 spotify_data:
   followers: 792706
   id: 2sxmKe3CUrWnx7eoXMhOlW
   popularity: 63
-  url: https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW
+  url: 'https://open.spotify.com/artist/2sxmKe3CUrWnx7eoXMhOlW'
 status: active
 tags:
-- country
-- singer-songwriter
+  - country
+  - singer-songwriter
 title: Dwight Yoakam
+origin: 'Columbus, Ohio, United States'
 ---
 
 ![](dwight_yoakam.jpg)

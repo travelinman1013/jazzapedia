@@ -1,15 +1,15 @@
 ---
-title: RAYMOND LEWIS
+title: Raymond Lewis
 wiki_slug: raymond-lewis
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/raymond_lewis.jpg
   caption: RAYMOND LEWIS
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 98.3
   energy_avg: 0.422
@@ -25,36 +25,39 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Clowns
-  - The Medallions
+    - The Clowns
+    - The Medallions
   influenced:
-  - Local New Orleans R&B musicians
+    - Local New Orleans R&B musicians
   mentors:
-  - Huey 'Piano' Smith
+    - Huey 'Piano' Smith
 spotify_data:
   followers: 6
   id: 7aGRQT4cyKSpE1E29OD1aK
   popularity: 0
-  url: https://open.spotify.com/artist/7aGRQT4cyKSpE1E29OD1aK
+  url: 'https://open.spotify.com/artist/7aGRQT4cyKSpE1E29OD1aK'
 discography_enriched: true
 top_tracks:
-- Smooth Operator (Good-Bye My Love)
-- Smooth Operator (Saint of New Orleans)
-- Good-Bye My Love (Good-Bye My Love)
+  - Smooth Operator (Good-Bye My Love)
+  - Smooth Operator (Saint of New Orleans)
+  - Good-Bye My Love (Good-Bye My Love)
 external_urls:
-  spotify: https://open.spotify.com/artist/7aGRQT4cyKSpE1E29OD1aK
+  spotify: 'https://open.spotify.com/artist/7aGRQT4cyKSpE1E29OD1aK'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/raymond_lewis.jpg
 biography_enhanced_at: '2025-10-22T09:23:48.980136'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.offbeat.com/articles/raymond-lewis-1933-2020/
-- https://www.allmusic.com/artist/raymond-lewis-mn0000355312
-- https://www.legacy.com/us/obituaries/nola/name/raymond-lewis-obituary?id=36587044
+  - 'https://www.offbeat.com/articles/raymond-lewis-1933-2020/'
+  - 'https://www.allmusic.com/artist/raymond-lewis-mn0000355312'
+  - >-
+    https://www.legacy.com/us/obituaries/nola/name/raymond-lewis-obituary?id=36587044
 network_extracted: true
 entry_created: '2025-10-22T09:23:48.980146'
 last_updated: '2025-12-23T08:16:14.703803'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](raymond_lewis.jpg)

@@ -3,13 +3,13 @@ title: Rodney Jordan
 wiki_slug: rodney-jordan
 schema_version: 2
 status: active
-birth_place: Memphis, Tennessee, United States
+birth_place: 'Memphis, Tennessee, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/rodney_jordan.jpg
   caption: Rodney Jordan
   background: solo_singer
-  origin: Memphis, Tennessee, United States
+  origin: 'Memphis, Tennessee, United States'
 audio_profile:
   tempo_avg: 111.8
   energy_avg: 0.272
@@ -25,59 +25,66 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Marcus Roberts
-  - René Marie
-  - Melvin Jones
-  - Scotty Barnhart
-  - Curtis Fuller
-  - Russell Gunn
-  - Bill Anschell
-  - Savannah and Tallahassee jazz communities
+    - Marcus Roberts
+    - René Marie
+    - Melvin Jones
+    - Scotty Barnhart
+    - Curtis Fuller
+    - Russell Gunn
+    - Bill Anschell
+    - Savannah and Tallahassee jazz communities
   influenced:
-  - Students in the Florida State University College of Music Jazz Studies program
-  - Bass students at Georgia State University and Darton College
-  - Younger Memphis and Tallahassee jazz musicians
+    - >-
+      Students in the Florida State University College of Music Jazz Studies
+      program
+    - Bass students at Georgia State University and Darton College
+    - Younger Memphis and Tallahassee jazz musicians
   mentors:
-  - Dr. London Branch
-  - Alvin Fielder
-  - Andy Hardwick
-  - Memphis jazz and blues elders (various local musicians)
+    - Dr. London Branch
+    - Alvin Fielder
+    - Andy Hardwick
+    - Memphis jazz and blues elders (various local musicians)
 spotify_data:
   followers: 111
   id: 5acyWTeZ3Wilq8Gp4UawGA
   popularity: 2
-  url: https://open.spotify.com/artist/5acyWTeZ3Wilq8Gp4UawGA
+  url: 'https://open.spotify.com/artist/5acyWTeZ3Wilq8Gp4UawGA'
 discography_enriched: true
 top_tracks:
-- Minority (Memphis Blue)
-- Escapatoria (Memphis Blue)
-- Hargrove (Memphis Blue)
-- Autumn Leaves (Memphis Blue)
-- The Storm Will Pass (Memphis Blue)
-- Memphis Blue (Memphis Blue)
-- Small Portion (Memphis Blue)
-- The Art of Blakey (Memphis Blue)
-- Just For You (Conversations)
-- Happy To Be Alive (Conversations)
+  - Minority (Memphis Blue)
+  - Escapatoria (Memphis Blue)
+  - Hargrove (Memphis Blue)
+  - Autumn Leaves (Memphis Blue)
+  - The Storm Will Pass (Memphis Blue)
+  - Memphis Blue (Memphis Blue)
+  - Small Portion (Memphis Blue)
+  - The Art of Blakey (Memphis Blue)
+  - Just For You (Conversations)
+  - Happy To Be Alive (Conversations)
 external_urls:
-  spotify: https://open.spotify.com/artist/5acyWTeZ3Wilq8Gp4UawGA
+  spotify: 'https://open.spotify.com/artist/5acyWTeZ3Wilq8Gp4UawGA'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/rodney_jordan.jpg
 biography_enhanced_at: '2025-12-06T05:38:58.538972'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Florida State University College of Music – Rodney Jordan faculty biography[1]
-- Savannah Jazz Festival artist bio for Rodney Jordan[2]
-- Baxter Music Enterprises article on "Memphis Blue"[3]
-- BabyBoomer.org / Neon Jazz feature and interview references on Rodney Jordan[4][5]
-- American Symphony Orchestra artist bio for Rodney Jordan[6]
-- Wild Mercury Rhythm review of "Memphis Blue"[7]
-- JAZZIZ Discovery profile "Rodney Jordan’s Love Letter to Memphis"[8]
-- Paris Move review of "Memphis Blue"[9]
+  - >-
+    Florida State University College of Music – Rodney Jordan faculty
+    biography[1]
+  - 'Savannah Jazz Festival artist bio for Rodney Jordan[2]'
+  - 'Baxter Music Enterprises article on "Memphis Blue"[3]'
+  - >-
+    BabyBoomer.org / Neon Jazz feature and interview references on Rodney
+    Jordan[4][5]
+  - 'American Symphony Orchestra artist bio for Rodney Jordan[6]'
+  - 'Wild Mercury Rhythm review of "Memphis Blue"[7]'
+  - 'JAZZIZ Discovery profile "Rodney Jordan’s Love Letter to Memphis"[8]'
+  - 'Paris Move review of "Memphis Blue"[9]'
 network_extracted: true
 entry_created: '2025-12-06T05:38:58.538979'
 last_updated: '2025-12-23T08:16:14.977353'
+artist_type: person
 ---
 
 ![](rodney_jordan.jpg)

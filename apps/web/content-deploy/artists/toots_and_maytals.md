@@ -1,14 +1,14 @@
 ---
-title: toots and maytals
+title: Toots and the Maytals
 wiki_slug: toots-and-maytals
 schema_version: 2
 status: active
 genres:
-- reggae
-- rocksteady
-- ska
-- roots reggae
-- dub
+  - reggae
+  - rocksteady
+  - ska
+  - roots reggae
+  - dub
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/toots_and_maytals.jpg
   caption: toots and maytals
@@ -28,53 +28,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Henry 'Raleigh' Gordon
-  - Nathaniel 'Jerry' Mathias
-  - Leslie Kong
-  - The Skatalites
-  - Jackie Jackson, Hux Brown, Rad Bryan, Paul Douglas
+    - Henry 'Raleigh' Gordon
+    - Nathaniel 'Jerry' Mathias
+    - Leslie Kong
+    - The Skatalites
+    - 'Jackie Jackson, Hux Brown, Rad Bryan, Paul Douglas'
   influenced:
-  - The Specials
-  - Amy Winehouse
-  - No Doubt
+    - The Specials
+    - Amy Winehouse
+    - No Doubt
   mentors:
-  - Clement 'Coxsone' Dodd
-  - Byron Lee
+    - Clement 'Coxsone' Dodd
+    - Byron Lee
 spotify_data:
   followers: 492394
   id: 6ZFv3wQwwWPiVDWhv0mjQK
   popularity: 53
-  url: https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK
+  url: 'https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK'
 discography_enriched: true
 top_tracks:
-- 54-46 Was My Number (In The Dark)
-- Pressure Drop - Single Version (Reggae Greats - Toots & The Maytals)
-- Country Road (Funky Kingston)
-- Funky Kingston (Funky Kingston)
-- Beautiful Woman (Knockout)
-- Time Tough (Funky Kingston)
-- Let Down (Radiodread)
-- Take Me Home, Country Roads
-- Sunshine on my Shoulders
-- Pressure Drop (Sweet and Dandy)
+  - 54-46 Was My Number (In The Dark)
+  - Pressure Drop - Single Version (Reggae Greats - Toots & The Maytals)
+  - Country Road (Funky Kingston)
+  - Funky Kingston (Funky Kingston)
+  - Beautiful Woman (Knockout)
+  - Time Tough (Funky Kingston)
+  - Let Down (Radiodread)
+  - 'Take Me Home, Country Roads'
+  - Sunshine on my Shoulders
+  - Pressure Drop (Sweet and Dandy)
 external_urls:
-  spotify: https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK
-  wikipedia: https://en.wikipedia.org/wiki/Toots_and_the_Maytals
+  spotify: 'https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK'
+  wikipedia: 'https://en.wikipedia.org/wiki/Toots_and_the_Maytals'
 image_path: 03_Resources/source_material/ArtistPortraits/toots_and_maytals.jpg
 biography_enhanced_at: '2025-10-25T09:59:36.921117'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Toots_and_the_Maytals
-- https://www.reggaeville.com/artist-details/toots-the-maytals/about/
-- https://www.colourful.com/news/42016/spotlight-on-toots-and-the-maytals-
-- https://www.uvm.edu/~debate/dreadlibrary/sherman.html
-- https://blackpast.org/global-african-history/toots-and-the-maytals-1962-2020/
-- https://www.britannica.com/topic/Toots-and-the-Maytals
+  - 'https://en.wikipedia.org/wiki/Toots_and_the_Maytals'
+  - 'https://www.reggaeville.com/artist-details/toots-the-maytals/about/'
+  - 'https://www.colourful.com/news/42016/spotlight-on-toots-and-the-maytals-'
+  - 'https://www.uvm.edu/~debate/dreadlibrary/sherman.html'
+  - >-
+    https://blackpast.org/global-african-history/toots-and-the-maytals-1962-2020/
+  - 'https://www.britannica.com/topic/Toots-and-the-Maytals'
 network_extracted: true
 entry_created: '2025-10-25T09:59:36.921128'
 last_updated: '2025-12-23T08:16:17.629249'
-origin: Kingston, Jamaica
+origin: 'Kingston, Jamaica'
+birth_place: 'May Pen, Clarendon Parish, Jamaica'
+birth_date: '1942'
+artist_type: band
 ---
 
 ![](toots_and_maytals.jpg)

@@ -1,16 +1,16 @@
 ---
-title: Boyfriend, Big Freedia
+title: 'Boyfriend, Big Freedia'
 wiki_slug: boyfriend-big-freedia
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- bounce
+  - bounce
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/boyfriend_big_freedia.jpg
-  caption: Boyfriend, Big Freedia
+  caption: 'Boyfriend, Big Freedia'
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 114.3
   energy_avg: 0.861
@@ -26,46 +26,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Beyoncé
-  - Drake
-  - Boyfriend
-  - Lady Gaga
+    - Beyoncé
+    - Drake
+    - Boyfriend
+    - Lady Gaga
   influenced:
-  - Lizzo
-  - Ballroom vogue and bounce artists
+    - Lizzo
+    - Ballroom vogue and bounce artists
   mentors:
-  - Katey Red
+    - Katey Red
 spotify_data:
   followers: 120408
   id: 2gyv1akuIB9fQvXoGSPaJr
   popularity: 44
-  url: https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr
+  url: 'https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr'
 discography_enriched: true
 top_tracks:
-- Shake It (feat. Big Freedia, CupcakKe, Brooke Candy and Pabllo Vittar) (Charli)
-- Raising Hell (feat. Big Freedia) (High Road)
-- Karaoke (feat. Lizzo)
-- Raising Hell (feat. Big Freedia)
-- Stupid Boy (feat. Big Freedia)
-- Church
-- Holy Shuffle (feat. Billy Porter)
-- Rush - Big Freedia Remix
-- Celebration (feat. Dawn Richard) (Pressing Onward)
-- Stupid Boy (feat. Big Freedia)
+  - >-
+    Shake It (feat. Big Freedia, CupcakKe, Brooke Candy and Pabllo Vittar)
+    (Charli)
+  - Raising Hell (feat. Big Freedia) (High Road)
+  - Karaoke (feat. Lizzo)
+  - Raising Hell (feat. Big Freedia)
+  - Stupid Boy (feat. Big Freedia)
+  - Church
+  - Holy Shuffle (feat. Billy Porter)
+  - Rush - Big Freedia Remix
+  - Celebration (feat. Dawn Richard) (Pressing Onward)
+  - Stupid Boy (feat. Big Freedia)
 external_urls:
-  spotify: https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr
-  wikipedia: https://en.wikipedia.org/wiki/Big_Freedia
+  spotify: 'https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr'
+  wikipedia: 'https://en.wikipedia.org/wiki/Big_Freedia'
 image_path: 03_Resources/source_material/ArtistPortraits/boyfriend_big_freedia.jpg
 biography_enhanced_at: '2025-11-06T06:19:41.248700'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.bigfreedia.com/bio/
-- https://en.wikipedia.org/wiki/Big_Freedia
+  - 'https://www.bigfreedia.com/bio/'
+  - 'https://en.wikipedia.org/wiki/Big_Freedia'
 network_extracted: true
 entry_created: '2025-11-06T06:19:41.248723'
 last_updated: '2025-12-23T08:16:05.985405'
-
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](boyfriend_big_freedia.jpg)

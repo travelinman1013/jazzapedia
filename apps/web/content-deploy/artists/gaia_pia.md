@@ -29,33 +29,34 @@ spotify_data:
   followers: 384
   id: 7jteRLzoo9MVBSeFJYWK1h
   popularity: 34
-  url: https://open.spotify.com/artist/7jteRLzoo9MVBSeFJYWK1h
+  url: 'https://open.spotify.com/artist/7jteRLzoo9MVBSeFJYWK1h'
 discography_enriched: true
 top_tracks:
-- Next to Nothing (Next to Nothing)
-- 639 Hz - Campo Visivo (Campo Visivo)
-- Next to Nothing (Almost Here)
-- 963 Hz - Campo Visivo (Campo Visivo)
-- 396 Hz - Harmony (Almost Here)
-- 528 Hz - Harmony (Almost Here)
-- 741 Hz - Campo Visivo (Campo Visivo)
-- 852 Hz - Harmony (Almost Here)
-- Campo visivo (Open Mind)
-- 417 Hz - Campo Visivo (Campo Visivo)
+  - Next to Nothing (Next to Nothing)
+  - 639 Hz - Campo Visivo (Campo Visivo)
+  - Next to Nothing (Almost Here)
+  - 963 Hz - Campo Visivo (Campo Visivo)
+  - 396 Hz - Harmony (Almost Here)
+  - 528 Hz - Harmony (Almost Here)
+  - 741 Hz - Campo Visivo (Campo Visivo)
+  - 852 Hz - Harmony (Almost Here)
+  - Campo visivo (Open Mind)
+  - 417 Hz - Campo Visivo (Campo Visivo)
 external_urls:
-  spotify: https://open.spotify.com/artist/7jteRLzoo9MVBSeFJYWK1h
+  spotify: 'https://open.spotify.com/artist/7jteRLzoo9MVBSeFJYWK1h'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/gaia_pia.jpg
 biography_enhanced_at: '2025-12-07T04:48:44.723505'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Viberate artist profile for Gaia Piá[2]
-- Last.fm Portuguese-language biography page for Gaia Piá/GAIAPIÁ[4]
+  - 'Viberate artist profile for Gaia Piá[2]'
+  - 'Last.fm Portuguese-language biography page for Gaia Piá/GAIAPIÁ[4]'
 network_extracted: true
 entry_created: '2025-12-07T04:48:44.723518'
 last_updated: '2025-12-23T08:16:08.935950'
 origin: Brazil (exact city and state not reliably documented)
+artist_type: person
 ---
 
 ![](gaia_pia.jpg)

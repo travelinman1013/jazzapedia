@@ -3,15 +3,15 @@ title: George Girard
 wiki_slug: george-girard
 schema_version: 2
 status: active
-birth_place: Jefferson Parish, Louisiana, United States
+birth_place: 'Jefferson Parish, Louisiana, United States'
 genres:
-- big band
-- ragtime
+  - big band
+  - ragtime
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/George_Girard.jpg
   caption: George Girard
   background: solo_singer
-  origin: Jefferson Parish, Louisiana, United States
+  origin: 'Jefferson Parish, Louisiana, United States'
 audio_profile:
   tempo_avg: 118.5
   energy_avg: 0.536
@@ -27,46 +27,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Pete Fountain
-  - Bob Havens
-  - Paul Edwards
-  - Bob Coquille
+    - Pete Fountain
+    - Bob Havens
+    - Paul Edwards
+    - Bob Coquille
   influenced:
-  - Pete Fountain
+    - Pete Fountain
   mentors:
-  - Johnny Wiggs
+    - Johnny Wiggs
 spotify_data:
   followers: 114
   id: 2SmPgpPN8GmVdFBYgsRsud
   popularity: 2
-  url: https://open.spotify.com/artist/2SmPgpPN8GmVdFBYgsRsud
+  url: 'https://open.spotify.com/artist/2SmPgpPN8GmVdFBYgsRsud'
 discography_enriched: true
 top_tracks:
-- Doctor Jazz (Sounds Of New Orleans, Vol. 1)
-- Roses of Picardy (George Girard's Band)
-- Doctor Jazz (Sounds Of New Orleans Vol. 6)
-- Chinatown, My Chinatown (George Girard's Band)
-- Limehouse Blues (Sounds Of New Orleans Vol. 6)
-- Dippermouth Blues (Sounds Of New Orleans, Vol. 1)
-- Limehouse Blues (Sounds Of New Orleans, Vol. 1)
-- Sweethearts on Parade (Sounds Of New Orleans, Vol. 1)
-- Chinatown, My Chinatown (Sounds Of New Orleans, Vol. 1)
-- Riverboat Shuffle (Sounds Of New Orleans, Vol. 1)
+  - 'Doctor Jazz (Sounds Of New Orleans, Vol. 1)'
+  - Roses of Picardy (George Girard's Band)
+  - Doctor Jazz (Sounds Of New Orleans Vol. 6)
+  - 'Chinatown, My Chinatown (George Girard''s Band)'
+  - Limehouse Blues (Sounds Of New Orleans Vol. 6)
+  - 'Dippermouth Blues (Sounds Of New Orleans, Vol. 1)'
+  - 'Limehouse Blues (Sounds Of New Orleans, Vol. 1)'
+  - 'Sweethearts on Parade (Sounds Of New Orleans, Vol. 1)'
+  - 'Chinatown, My Chinatown (Sounds Of New Orleans, Vol. 1)'
+  - 'Riverboat Shuffle (Sounds Of New Orleans, Vol. 1)'
 external_urls:
-  spotify: https://open.spotify.com/artist/2SmPgpPN8GmVdFBYgsRsud
-  wikipedia: https://en.wikipedia.org/wiki/George_Girard
+  spotify: 'https://open.spotify.com/artist/2SmPgpPN8GmVdFBYgsRsud'
+  wikipedia: 'https://en.wikipedia.org/wiki/George_Girard'
 image_path: 03_Resources/source_material/ArtistPortraits/George_Girard.jpg
 biography_enhanced_at: '2025-10-20T08:58:03.549402'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/George_Girard
-- https://nolahistoryguy.com/category/music/jazz/
-- https://jazzlives.wordpress.com/tag/george-girard/
-- https://www.allmusic.com/artist/george-girard-mn0000643377
+  - 'https://en.wikipedia.org/wiki/George_Girard'
+  - 'https://nolahistoryguy.com/category/music/jazz/'
+  - 'https://jazzlives.wordpress.com/tag/george-girard/'
+  - 'https://www.allmusic.com/artist/george-girard-mn0000643377'
 network_extracted: true
 entry_created: '2025-10-20T08:58:03.549415'
 last_updated: '2025-12-23T08:16:02.111565'
+birth_date: '1930-10-07'
+death_date: '1957-01-18'
+artist_type: person
 ---
 
 ![](George_Girard.jpg)

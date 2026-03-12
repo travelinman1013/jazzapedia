@@ -1,44 +1,50 @@
 ---
 biography_enhanced_at: '2026-01-18T07:50:50.611021'
-birth_place: Cametá, Pará, Brazil
+birth_place: 'Cametá, Pará, Brazil'
 enhancement_provider: perplexity
 entry_created: '2026-01-18T07:50:50.611027'
 external_urls:
-  spotify: https://open.spotify.com/artist/6yelj6SIfovLT7ACm6vSnx
-  wikipedia: https://pt.wikipedia.org/wiki/Mestre_Cupijó
+  spotify: 'https://open.spotify.com/artist/6yelj6SIfovLT7ACm6vSnx'
+  wikipedia: 'https://pt.wikipedia.org/wiki/Mestre_Cupijó'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/mestre_cupijo_e_seu_ritmo.jpg
 last_updated: '2026-01-18T07:50:50.611027'
 musical_connections:
   collaborators:
-  - Fafá de Belém
-  - Roberto Leal
-  - Jorane Castro
-  - Baile do Mestre Cupijó
+    - Fafá de Belém
+    - Roberto Leal
+    - Jorane Castro
+    - Baile do Mestre Cupijó
   influenced:
-  - Mestre Vieira
-  - Pinduca
-  - Mestre Verequete
+    - Mestre Vieira
+    - Pinduca
+    - Mestre Verequete
   mentors:
-  - Vicente Castro (Mestre Sicudera)
+    - Vicente Castro (Mestre Sicudera)
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://pt.wikipedia.org/wiki/Mestre_Cupijó
-- https://senhorf.com.br/amazonia-bigrave/mestre-cupijo-o-genio-das-tres-racas-ganha-tributo-com-regravacoes/
-- https://www.adorocinema.com/filmes/filme-279311/
-- https://g1.globo.com/pa/para/noticia/documentario-vai-retratar-a-vida-do-mestre-cupijo-o-reinventor-do-siria.ghtml
-- https://alterdosom.com.br/baile-do-mestre-cupijo
-- https://www.oliberal.com/cultura/cinema/documentário-de-jorane-castro-mestre-cupijó-e-seu-ritmo-será-lançado-nesta-quarta-feira-24-1.121703
-- https://globoplay.globo.com/v/6361343/
-- https://analogafrica.bandcamp.com/album/siria-analog-africa-nr-16
+  - 'https://pt.wikipedia.org/wiki/Mestre_Cupijó'
+  - >-
+    https://senhorf.com.br/amazonia-bigrave/mestre-cupijo-o-genio-das-tres-racas-ganha-tributo-com-regravacoes/
+  - 'https://www.adorocinema.com/filmes/filme-279311/'
+  - >-
+    https://g1.globo.com/pa/para/noticia/documentario-vai-retratar-a-vida-do-mestre-cupijo-o-reinventor-do-siria.ghtml
+  - 'https://alterdosom.com.br/baile-do-mestre-cupijo'
+  - >-
+    https://www.oliberal.com/cultura/cinema/documentário-de-jorane-castro-mestre-cupijó-e-seu-ritmo-será-lançado-nesta-quarta-feira-24-1.121703
+  - 'https://globoplay.globo.com/v/6361343/'
+  - 'https://analogafrica.bandcamp.com/album/siria-analog-africa-nr-16'
 spotify_data:
   followers: 1994
   id: 6yelj6SIfovLT7ACm6vSnx
   popularity: 11
-  url: https://open.spotify.com/artist/6yelj6SIfovLT7ACm6vSnx
+  url: 'https://open.spotify.com/artist/6yelj6SIfovLT7ACm6vSnx'
 status: active
-title: mestre cupijo e seu ritmo
+title: Mestre Cupijo E Seu Ritmo
+birth_date: '1936-07-26'
+death_date: '2012-09-25'
+artist_type: person
 ---
 
 ![](mestre_cupijo_e_seu_ritmo.jpg)

@@ -3,15 +3,15 @@ title: Clint West
 wiki_slug: clint-west
 schema_version: 2
 status: active
-birth_place: Ville Platte, Louisiana, USA
+birth_place: 'Ville Platte, Louisiana, USA'
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/clint_west.jpg
   caption: Clint West
   background: solo_singer
-  origin: Ville Platte, Louisiana, USA
+  origin: 'Ville Platte, Louisiana, USA'
 audio_profile:
   tempo_avg: 106.6
   energy_avg: 0.42
@@ -27,47 +27,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tommy McLain
-  - The Boogie Kings
-  - Red Smiley’s Vel-Tones
+    - Tommy McLain
+    - The Boogie Kings
+    - Red Smiley’s Vel-Tones
   influenced:
-  - Subsequent generations of Louisiana swamp pop and blue-eyed soul musicians
+    - Subsequent generations of Louisiana swamp pop and blue-eyed soul musicians
   mentors:
-  - Gilbert Mayeaux
+    - Gilbert Mayeaux
 spotify_data:
   followers: 535
   id: 4rXBTJocwTbMZBb7kEC3ol
   popularity: 4
-  url: https://open.spotify.com/artist/4rXBTJocwTbMZBb7kEC3ol
+  url: 'https://open.spotify.com/artist/4rXBTJocwTbMZBb7kEC3ol'
 discography_enriched: true
 top_tracks:
-- Big Blue Diamonds (The Essential Collection)
-- Try Me (The Essential Collection)
-- Our Love (Swamp Gold, Vol. 1)
-- Try to Find Another Man (The Essential Collection)
-- Big Blue Diamonds (Swamp Gold, Vol. 2)
-- Another Saturday Night (Swamp Gold, Vol. 4)
-- Our Love (The Essential Collection)
-- Another Saturday Night (The Essential Collection)
-- Shelly's Winter Love (The Essential Collection)
-- I'm Sorry Pillow (Swamp Gold, Vol. 5)
+  - Big Blue Diamonds (The Essential Collection)
+  - Try Me (The Essential Collection)
+  - 'Our Love (Swamp Gold, Vol. 1)'
+  - Try to Find Another Man (The Essential Collection)
+  - 'Big Blue Diamonds (Swamp Gold, Vol. 2)'
+  - 'Another Saturday Night (Swamp Gold, Vol. 4)'
+  - Our Love (The Essential Collection)
+  - Another Saturday Night (The Essential Collection)
+  - Shelly's Winter Love (The Essential Collection)
+  - 'I''m Sorry Pillow (Swamp Gold, Vol. 5)'
 external_urls:
-  spotify: https://open.spotify.com/artist/4rXBTJocwTbMZBb7kEC3ol
-  wikipedia: https://en.wikipedia.org/wiki/The_Boogie_Kings
+  spotify: 'https://open.spotify.com/artist/4rXBTJocwTbMZBb7kEC3ol'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Boogie_Kings'
 image_path: 03_Resources/source_material/ArtistPortraits/clint_west.jpg
 biography_enhanced_at: '2025-11-06T13:34:55.545949'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://flattownmusic.com/artist/clint-west/
-- https://www.bigfrenchdance.com/clintwest
-- https://en.wikipedia.org/wiki/The_Boogie_Kings
-- https://classichits925.com/local-news/260955
-- https://www.zydecocajunbyway.com/blog/zydeco-cajun-prairie-byway-playlist
-- https://64parishes.org/entry/swamp-pop-music
+  - 'https://flattownmusic.com/artist/clint-west/'
+  - 'https://www.bigfrenchdance.com/clintwest'
+  - 'https://en.wikipedia.org/wiki/The_Boogie_Kings'
+  - 'https://classichits925.com/local-news/260955'
+  - 'https://www.zydecocajunbyway.com/blog/zydeco-cajun-prairie-byway-playlist'
+  - 'https://64parishes.org/entry/swamp-pop-music'
 network_extracted: true
 entry_created: '2025-11-06T13:34:55.545966'
 last_updated: '2025-12-23T08:16:07.105931'
+birth_date: '1938-08-11'
+death_date: '2016-06-28'
+artist_type: person
 ---
 
 ![](clint_west.jpg)

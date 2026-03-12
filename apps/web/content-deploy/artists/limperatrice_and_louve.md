@@ -4,8 +4,8 @@ wiki_slug: limperatrice-louve
 schema_version: 2
 status: active
 genres:
-- melodic house
-- melodic techno
+  - melodic house
+  - melodic techno
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/limperatrice_and_louve.jpg
   caption: L'Imperatrice & Louve
@@ -25,48 +25,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Flore Benguigui
-  - Louve
-  - 'Band members: Charles de Boisseguin, Hagni Gwon, David Gaugué, Tom Daveau, Achille Trocellier'
+    - Flore Benguigui
+    - Louve
+    - >-
+      Band members: Charles de Boisseguin, Hagni Gwon, David Gaugué, Tom Daveau,
+      Achille Trocellier
   influenced:
-  - Emerging French disco-pop acts
+    - Emerging French disco-pop acts
   mentors:
-  - François de Roubaix
-  - Michel Legrand
+    - François de Roubaix
+    - Michel Legrand
 spotify_data:
   followers: 6090
   id: 1H44pbKMHDVSQcYW4joyLK
   popularity: 19
-  url: https://open.spotify.com/artist/1H44pbKMHDVSQcYW4joyLK
+  url: 'https://open.spotify.com/artist/1H44pbKMHDVSQcYW4joyLK'
 discography_enriched: true
 top_tracks:
-- Sickomode (Fena EP)
-- Cawuso (Fena EP)
-- Jarka (SOF010)
-- 'Instability: Closer Than You Will Ever Be (Impérieux Remix) (Instability: Closer Than You Will Ever Be (Impérieux Remix))'
-- Kala (Kala)
-- Fena (Fena EP)
-- Saat (Fena EP)
-- Fena (Fena)
-- Fo Pio (Rezil)
-- Young (Rezil)
+  - Sickomode (Fena EP)
+  - Cawuso (Fena EP)
+  - Jarka (SOF010)
+  - >-
+    Instability: Closer Than You Will Ever Be (Impérieux Remix) (Instability:
+    Closer Than You Will Ever Be (Impérieux Remix))
+  - Kala (Kala)
+  - Fena (Fena EP)
+  - Saat (Fena EP)
+  - Fena (Fena)
+  - Fo Pio (Rezil)
+  - Young (Rezil)
 external_urls:
-  spotify: https://open.spotify.com/artist/1H44pbKMHDVSQcYW4joyLK
-  wikipedia: https://en.wikipedia.org/wiki/L'Imp%C3%A9ratrice
+  spotify: 'https://open.spotify.com/artist/1H44pbKMHDVSQcYW4joyLK'
+  wikipedia: 'https://en.wikipedia.org/wiki/L''Imp%C3%A9ratrice'
 image_path: 03_Resources/source_material/ArtistPortraits/limperatrice_and_louve.jpg
 biography_enhanced_at: '2025-11-05T12:46:43.140705'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/L'Imp%C3%A9ratrice
-- https://first-avenue.com/performer/limperatrice/
-- https://www.last.fm/music/L'Imp%C3%A9ratrice/+wiki
-- https://doitinparis.com/en/interview-l-imperatrice-group-music-23514
-- https://kxsc.org/articles/2019/5/19/show-review-limpratrice-the-regent-theater
+  - 'https://en.wikipedia.org/wiki/L''Imp%C3%A9ratrice'
+  - 'https://first-avenue.com/performer/limperatrice/'
+  - 'https://www.last.fm/music/L''Imp%C3%A9ratrice/+wiki'
+  - 'https://doitinparis.com/en/interview-l-imperatrice-group-music-23514'
+  - >-
+    https://kxsc.org/articles/2019/5/19/show-review-limpratrice-the-regent-theater
 network_extracted: true
 entry_created: '2025-11-05T12:46:43.140717'
 last_updated: '2025-12-23T08:16:11.942193'
-origin: Paris, Île-de-France, France
+origin: 'Paris, Île-de-France, France'
+artist_type: person
 ---
 
 ![](limperatrice_and_louve.jpg)

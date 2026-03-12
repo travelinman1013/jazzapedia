@@ -2,21 +2,21 @@
 title: Freddie King
 wiki_slug: freddie-king
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1934-09-03'
-birth_place: Gilmer, Texas, United States
+birth_place: 'Gilmer, Texas, United States'
 death_date: '1976-12-28'
 genres:
-- blues
-- classic blues
-- blues rock
+  - blues
+  - classic blues
+  - blues rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Freddie_King.jpg
   caption: Freddie King
   background: solo_singer
   born: '1934-09-03'
-  origin: Gilmer, Texas, United States
+  origin: 'Gilmer, Texas, United States'
   died: '1976-12-28'
 audio_profile:
   tempo_avg: 127.2
@@ -33,49 +33,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sonny Thompson
-  - Benny Turner
-  - King Curtis
+    - Sonny Thompson
+    - Benny Turner
+    - King Curtis
   influenced:
-  - Eric Clapton
-  - Jeff Beck
-  - Stevie Ray Vaughan
+    - Eric Clapton
+    - Jeff Beck
+    - Stevie Ray Vaughan
   mentors:
-  - Lightnin' Hopkins
-  - T-Bone Walker
-  - B.B. King
-  - Muddy Waters
+    - Lightnin' Hopkins
+    - T-Bone Walker
+    - B.B. King
+    - Muddy Waters
 spotify_data:
   followers: 418468
   id: 5dCuFngSPyOOnTAvrC7v2s
   popularity: 48
-  url: https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s
+  url: 'https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s'
 discography_enriched: true
 top_tracks:
-- Going Down (Getting Ready... (World))
-- Stumble (My Feeling For the Blues)
-- Ain't No Sunshine (Texas Cannonball)
-- I'm Tore Down (Getting Ready... (World))
-- Same Old Blues (Getting Ready... (World))
-- Stormy Monday (My Feeling For the Blues)
-- Help Me Through The Day (Woman Across The River)
-- Big Legged Woman (Texas Cannonball)
-- Me And My Guitar (Texas Cannonball)
-- Five Long Years (Getting Ready... (World))
+  - Going Down (Getting Ready... (World))
+  - Stumble (My Feeling For the Blues)
+  - Ain't No Sunshine (Texas Cannonball)
+  - I'm Tore Down (Getting Ready... (World))
+  - Same Old Blues (Getting Ready... (World))
+  - Stormy Monday (My Feeling For the Blues)
+  - Help Me Through The Day (Woman Across The River)
+  - Big Legged Woman (Texas Cannonball)
+  - Me And My Guitar (Texas Cannonball)
+  - Five Long Years (Getting Ready... (World))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d6ae4b23-965f-485a-b2c2-66c43ffaef20
-  spotify: https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s
-  wikipedia: https://en.wikipedia.org/wiki/Freddie_King
+  musicbrainz: 'https://musicbrainz.org/artist/d6ae4b23-965f-485a-b2c2-66c43ffaef20'
+  spotify: 'https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s'
+  wikipedia: 'https://en.wikipedia.org/wiki/Freddie_King'
 image_path: 03_Resources/source_material/ArtistPortraits/Freddie_King.jpg
 biography_enhanced_at: '2025-10-19T11:40:43.429042'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.tshaonline.org/handbook/entries/king-freddie
-- https://rockhall.com/inductees/freddie-king/
-- https://www.fundamental-changes.com/freddie-king/
-- https://www.sunsetblvdrecords.com/blog/2020/5/7/freddie-king-blues-journey
-- https://www.allaboutjazz.com/musicians/freddie-king/
+  - 'https://www.tshaonline.org/handbook/entries/king-freddie'
+  - 'https://rockhall.com/inductees/freddie-king/'
+  - 'https://www.fundamental-changes.com/freddie-king/'
+  - 'https://www.sunsetblvdrecords.com/blog/2020/5/7/freddie-king-blues-journey'
+  - 'https://www.allaboutjazz.com/musicians/freddie-king/'
 network_extracted: true
 entry_created: '2025-10-19T11:40:43.429046'
 last_updated: '2025-12-23T08:16:02.055420'
@@ -84,10 +84,11 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:26:59.690536'
 musicbrainz_id: d6ae4b23-965f-485a-b2c2-66c43ffaef20
 tags:
-- blues
-- classic pop and rock
-- electric blues
-
+  - blues
+  - classic pop and rock
+  - electric blues
+is_active: false
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](Freddie_King.jpg)

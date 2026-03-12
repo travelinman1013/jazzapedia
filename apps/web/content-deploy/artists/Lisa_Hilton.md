@@ -2,19 +2,19 @@
 title: Lisa Hilton
 wiki_slug: lisa-hilton
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 aliases: []
-birth_place: San Luis Obispo, California, United States
+birth_place: 'San Luis Obispo, California, United States'
 genres:
-- jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Lisa_Hilton.jpg
   caption: Lisa Hilton
   background: solo_singer
-  origin: San Luis Obispo, California, United States
+  origin: 'San Luis Obispo, California, United States'
 audio_profile:
-  tempo_avg: 116.0
+  tempo_avg: 116
   energy_avg: 0.25
   valence_avg: 0.374
   danceability_avg: 0.433
@@ -28,64 +28,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Antonio Sánchez
-  - Larry Grenadier
-  - Christian McBride
-  - J. D. Allen
-  - Al Schmitt
+    - Antonio Sánchez
+    - Larry Grenadier
+    - Christian McBride
+    - J. D. Allen
+    - Al Schmitt
   influenced:
-  - No specific documented proteges
+    - No specific documented proteges
   mentors:
-  - Willem Bloemendaal
-  - David Foster
-  - Charles Bernstein
+    - Willem Bloemendaal
+    - David Foster
+    - Charles Bernstein
 related_artists: []
 spotify_data:
   followers: 1896
   id: 02TuGOMPygRh8f5AIDYD5C
   popularity: 13
-  url: https://open.spotify.com/artist/02TuGOMPygRh8f5AIDYD5C
+  url: 'https://open.spotify.com/artist/02TuGOMPygRh8f5AIDYD5C'
   verified: false
 discography_enriched: true
 albums_count: 28
 singles_count: 0
 top_tracks:
-- See You Again (Lucky All Along)
-- Too Hot (American Impressions)
-- And Some Blues… (Lucky All Along)
-- Lucky All Along (Lucky All Along)
-- Hollywood Moment (Lucky All Along)
-- Simmer (Kaleidoscope)
-- Seduction (Day & Night)
-- Little Beach Mornings (Lucky All Along)
-- Escapist Fantasy (Lucky All Along)
-- All Blues (Lucky All Along)
+  - See You Again (Lucky All Along)
+  - Too Hot (American Impressions)
+  - And Some Blues… (Lucky All Along)
+  - Lucky All Along (Lucky All Along)
+  - Hollywood Moment (Lucky All Along)
+  - Simmer (Kaleidoscope)
+  - Seduction (Day & Night)
+  - Little Beach Mornings (Lucky All Along)
+  - Escapist Fantasy (Lucky All Along)
+  - All Blues (Lucky All Along)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e2af8c5b-c9ef-4df2-b598-5ed675841b51
-  spotify: https://open.spotify.com/artist/02TuGOMPygRh8f5AIDYD5C
-  wikipedia: https://en.wikipedia.org/wiki/Lisa_Hilton_(musician)
+  musicbrainz: 'https://musicbrainz.org/artist/e2af8c5b-c9ef-4df2-b598-5ed675841b51'
+  spotify: 'https://open.spotify.com/artist/02TuGOMPygRh8f5AIDYD5C'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lisa_Hilton_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/Lisa_Hilton.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:25:52.184535'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Lisa_Hilton_(musician)
-- https://www.allaboutjazz.com/take-five-with-lisa-hilton-revisited
-- https://www.lisahiltonmusic.com/my-story
-- https://www.allaboutjazz.com/musicians/lisa-hilton/
+  - 'https://en.wikipedia.org/wiki/Lisa_Hilton_(musician)'
+  - 'https://www.allaboutjazz.com/take-five-with-lisa-hilton-revisited'
+  - 'https://www.lisahiltonmusic.com/my-story'
+  - 'https://www.allaboutjazz.com/musicians/lisa-hilton/'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 12:52:55.675355
+entry_created: 2025-09-18T12:52:55.675Z
 last_updated: '2025-12-23T08:16:03.024386'
 disambiguation: US jazz pianist
 gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:35:17.164739'
 musicbrainz_id: e2af8c5b-c9ef-4df2-b598-5ed675841b51
 tags:
-- jazz
-- jazz band
-- piano
+  - jazz
+  - jazz band
+  - piano
 ---
 
 ![](Lisa_Hilton.jpg)

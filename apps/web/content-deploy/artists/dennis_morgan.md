@@ -1,17 +1,17 @@
 ---
-title: dennis morgan
+title: Dennis Morgan
 wiki_slug: dennis-morgan
 schema_version: 2
 status: active
-birth_place: Tracy, Minnesota, USA
+birth_place: 'Tracy, Minnesota, USA'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/dennis_morgan.jpg
   caption: dennis morgan
   background: solo_singer
-  origin: Tracy, Minnesota, USA
+  origin: 'Tracy, Minnesota, USA'
 audio_profile:
-  tempo_avg: 107.0
+  tempo_avg: 107
   energy_avg: 0.46
   valence_avg: 0.57
   danceability_avg: 0.464
@@ -25,50 +25,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kye Fleming
-  - Simon Climie
-  - Frank Myers
-  - Tony Arata
+    - Kye Fleming
+    - Simon Climie
+    - Frank Myers
+    - Tony Arata
   influenced:
-  - Frank Myers
-  - Tony Arata
+    - Frank Myers
+    - Tony Arata
   mentors:
-  - The Beatles
-  - David Conrad
-  - Tom Collins
+    - The Beatles
+    - David Conrad
+    - Tom Collins
 spotify_data:
   followers: 145
   id: 5NNRRTG5uH0juQZQiUgmgr
   popularity: 13
-  url: https://open.spotify.com/artist/5NNRRTG5uH0juQZQiUgmgr
+  url: 'https://open.spotify.com/artist/5NNRRTG5uH0juQZQiUgmgr'
 discography_enriched: true
 top_tracks:
-- You're My Everything / Vienna Dreams (Painting The Clouds With Sunshine (Original Motion Picture Soundtrack))
-- Pumpkin Head Harvey (Pumpkin Head Harvey - Single)
-- Love Changes (Everything) (Clubland Allstars Radio Cut) (Love Changes (Everything))
-- Love Changes (Everything) (Radio Edit) (Love Changes (Everything))
-- You're My Everything ? Vienna Dreams (Painting the Clouds With Sunshine)
-- Love Changes (Everything) (Club Mix) (Love Changes (Everything))
-- Love Changes (Everything) (Clubland Allstars Remix) (Love Changes (Everything))
-- Love Changes (Everything) - Radio Edit
-- Love Changes (Everything) (Clubland Allstars Remix)
-- No You - No Me
+  - >-
+    You're My Everything / Vienna Dreams (Painting The Clouds With Sunshine
+    (Original Motion Picture Soundtrack))
+  - Pumpkin Head Harvey (Pumpkin Head Harvey - Single)
+  - >-
+    Love Changes (Everything) (Clubland Allstars Radio Cut) (Love Changes
+    (Everything))
+  - Love Changes (Everything) (Radio Edit) (Love Changes (Everything))
+  - You're My Everything ? Vienna Dreams (Painting the Clouds With Sunshine)
+  - Love Changes (Everything) (Club Mix) (Love Changes (Everything))
+  - >-
+    Love Changes (Everything) (Clubland Allstars Remix) (Love Changes
+    (Everything))
+  - Love Changes (Everything) - Radio Edit
+  - Love Changes (Everything) (Clubland Allstars Remix)
+  - No You - No Me
 external_urls:
-  spotify: https://open.spotify.com/artist/5NNRRTG5uH0juQZQiUgmgr
+  spotify: 'https://open.spotify.com/artist/5NNRRTG5uH0juQZQiUgmgr'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/dennis_morgan.jpg
 biography_enhanced_at: '2025-11-01T15:39:57.328108'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://dennismorgansongwriter.com/about/
-- https://www.imdb.com/name/nm1497950/
-- https://www.thecurrent.org/feature/2014/06/30/interview-with-songwriting-halloffamer-dennis-morgan
-- https://nashvillesongwritersfoundation.com/Site/inductee?entry_id=3994
-- https://www.countrymusichalloffame.org/calendar/poets-and-prophets-dennis-morgan
+  - 'https://dennismorgansongwriter.com/about/'
+  - 'https://www.imdb.com/name/nm1497950/'
+  - >-
+    https://www.thecurrent.org/feature/2014/06/30/interview-with-songwriting-halloffamer-dennis-morgan
+  - 'https://nashvillesongwritersfoundation.com/Site/inductee?entry_id=3994'
+  - >-
+    https://www.countrymusichalloffame.org/calendar/poets-and-prophets-dennis-morgan
 network_extracted: true
 entry_created: '2025-11-01T15:39:57.328116'
 last_updated: '2025-12-23T08:16:07.710159'
+birth_date: '1952-07-30'
+artist_type: person
 ---
 
 ![](dennis_morgan.jpg)

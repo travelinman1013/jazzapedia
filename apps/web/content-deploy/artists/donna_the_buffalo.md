@@ -1,101 +1,103 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-19T01:10:56.070626'
 birth_date: '1989'
 enhancement_provider: perplexity
 entry_created: '2026-01-19T01:10:56.070633'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a916ce0a-0ab7-4b2f-b169-2166b746e31e
-  spotify: https://open.spotify.com/artist/3dV4xRik9AJpX2befK2ZGa
-  wikipedia: https://en.wikipedia.org/wiki/Donna_the_Buffalo
+  musicbrainz: 'https://musicbrainz.org/artist/a916ce0a-0ab7-4b2f-b169-2166b746e31e'
+  spotify: 'https://open.spotify.com/artist/3dV4xRik9AJpX2befK2ZGa'
+  wikipedia: 'https://en.wikipedia.org/wiki/Donna_the_Buffalo'
 genres:
-- jam band
-- newgrass
-- bluegrass
-- americana
+  - jam band
+  - newgrass
+  - bluegrass
+  - americana
 image_path: 03_Resources/source_material/ArtistPortraits/donna_the_buffalo.jpg
 instruments:
-- banjo
-- keyboard
+  - banjo
+  - keyboard
 last_updated: '2026-01-19T01:10:56.070634'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3445caca-adda-4ff3-ab85-d143308cb26f
-  name: Tom Gilbert
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d5fc3027-2ff8-426e-9457-37e55988d4c8
-  name: Jim Miller
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ab81ac12-f76e-40aa-999f-f66a7b08414a
-  name: Tara Nevins
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0725168c-6666-4226-91ff-584ea6b64cc4
-  name: Jeb Puryear
-- begin: ''
-  end: ''
-  instruments:
-  - banjo
-  mbid: f36f6189-bca1-4ce4-bf27-1654e873c185
-  name: Richie Sterns
-- begin: ''
-  end: ''
-  instruments:
-  - keyboard
-  mbid: f36f6189-bca1-4ce4-bf27-1654e873c185
-  name: Richie Sterns
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 882afcdd-a711-4629-a2a5-632ba9065ecd
-  name: Vic Stafford
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e48e969e-57cf-4eed-b4ca-358fb8b7def0
-  name: Kathy Ziegler
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3445caca-adda-4ff3-ab85-d143308cb26f
+    name: Tom Gilbert
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d5fc3027-2ff8-426e-9457-37e55988d4c8
+    name: Jim Miller
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ab81ac12-f76e-40aa-999f-f66a7b08414a
+    name: Tara Nevins
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0725168c-6666-4226-91ff-584ea6b64cc4
+    name: Jeb Puryear
+  - begin: ''
+    end: ''
+    instruments:
+      - banjo
+    mbid: f36f6189-bca1-4ce4-bf27-1654e873c185
+    name: Richie Sterns
+  - begin: ''
+    end: ''
+    instruments:
+      - keyboard
+    mbid: f36f6189-bca1-4ce4-bf27-1654e873c185
+    name: Richie Sterns
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 882afcdd-a711-4629-a2a5-632ba9065ecd
+    name: Vic Stafford
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e48e969e-57cf-4eed-b4ca-358fb8b7def0
+    name: Kathy Ziegler
 musical_connections:
   collaborators:
-  - Jim Miller
-  - Richie Stearns
-  - Jordan Puryear
-  - Shane Lamphier
-  - Jennie Stearns
-  - David McCracken
-  - Peter Rowan
+    - Jim Miller
+    - Richie Stearns
+    - Jordan Puryear
+    - Shane Lamphier
+    - Jennie Stearns
+    - David McCracken
+    - Peter Rowan
   influenced: []
   mentors:
-  - Old-time Appalachian music tradition
+    - Old-time Appalachian music tradition
 musicbrainz_id: a916ce0a-0ab7-4b2f-b169-2166b746e31e
 network_extracted: true
-origin: Trumansburg
+origin: 'Trumansburg, New York, United States'
 primary_source: perplexity
 research_sources:
-- https://www.lifeinthefingerlakes.com/the-long-running-show-of-donna-the-buffalo/
-- https://eastgreenwichnews.com/donna-the-buffalo-built-it-by-heart/
-- http://www.islandbreath.org/TheGobbler/Articles%20Published/09%20AE%20Art%20&%20Culture/01%20Donna/ae_01_Donna.html
-- https://jambands.com/features/2001/06/20/donna-the-buffalo-a-righteous-herd/
-- https://purplefiddle.com/bands/donna-the-buffalo/
-- https://en.wikipedia.org/wiki/Donna_the_Buffalo
-- https://www.jango.com/music/Donna+the+Buffalo/_full_bio
-- https://www.donnathebuffalo.com
+  - >-
+    https://www.lifeinthefingerlakes.com/the-long-running-show-of-donna-the-buffalo/
+  - 'https://eastgreenwichnews.com/donna-the-buffalo-built-it-by-heart/'
+  - >-
+    http://www.islandbreath.org/TheGobbler/Articles%20Published/09%20AE%20Art%20&%20Culture/01%20Donna/ae_01_Donna.html
+  - 'https://jambands.com/features/2001/06/20/donna-the-buffalo-a-righteous-herd/'
+  - 'https://purplefiddle.com/bands/donna-the-buffalo/'
+  - 'https://en.wikipedia.org/wiki/Donna_the_Buffalo'
+  - 'https://www.jango.com/music/Donna+the+Buffalo/_full_bio'
+  - 'https://www.donnathebuffalo.com'
 spotify_data:
   followers: 24090
   id: 3dV4xRik9AJpX2befK2ZGa
   popularity: 34
-  url: https://open.spotify.com/artist/3dV4xRik9AJpX2befK2ZGa
+  url: 'https://open.spotify.com/artist/3dV4xRik9AJpX2befK2ZGa'
 status: active
 tags:
-- americana
-- folk
-- jam band
+  - americana
+  - folk
+  - jam band
 title: Donna the Buffalo
 ---
 

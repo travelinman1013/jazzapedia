@@ -3,47 +3,53 @@ biography_enhanced_at: '2025-12-30T01:25:46.974229'
 enhancement_provider: perplexity
 entry_created: '2025-12-30T01:25:46.974234'
 external_urls:
-  spotify: https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN
-  wikipedia: https://en.wikipedia.org/wiki/Harry_Edison; https://en.wikipedia.org/wiki/Joe_Williams_(jazz_singer)
+  spotify: 'https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN'
+  wikipedia: >-
+    https://en.wikipedia.org/wiki/Harry_Edison;
+    https://en.wikipedia.org/wiki/Joe_Williams_(jazz_singer)
 genres:
-- jazz
-- hard bop
-- bebop
-image_path: 03_Resources/source_material/ArtistPortraits/joe_williams_and_harry_sweets_edison.jpg
+  - jazz
+  - hard bop
+  - bebop
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/joe_williams_and_harry_sweets_edison.jpg
 last_updated: '2025-12-30T01:25:46.974235'
 musical_connections:
   collaborators:
-  - Count Basie Orchestra
-  - Joe Williams
-  - Frank Sinatra
-  - Ella Fitzgerald
+    - Count Basie Orchestra
+    - Joe Williams
+    - Frank Sinatra
+    - Ella Fitzgerald
   influenced:
-  - N/A
+    - N/A
   mentors:
-  - Louis Armstrong
-  - Roy Eldridge
-  - Lester Young
+    - Louis Armstrong
+    - Roy Eldridge
+    - Lester Young
 network_extracted: true
-origin: Columbus, Ohio, United States (Edison birthplace)
+origin: 'Columbus, Ohio, United States (Edison birthplace)'
 primary_source: perplexity
 research_sources:
-- https://www.arts.gov/honors/jazz/harry-sweets-edison
-- https://nationaljazzarchive.org.uk/explore/interviews/1622943-harry-edison
-- https://jazzfuel.com/harry-sweets-edison/
-- https://en.wikipedia.org/wiki/Harry_Edison
-- https://en.wikipedia.org/wiki/Joe_Williams_(jazz_singer)
-- https://concord.com/artist/joe-williams/
-- https://www.arts.gov/honors/jazz/joe-williams
-- https://www.allaboutjazz.com/musicians/joe-williams/
-- https://www.ijc.uidaho.edu/items/ijc_williams_joe.html
+  - 'https://www.arts.gov/honors/jazz/harry-sweets-edison'
+  - 'https://nationaljazzarchive.org.uk/explore/interviews/1622943-harry-edison'
+  - 'https://jazzfuel.com/harry-sweets-edison/'
+  - 'https://en.wikipedia.org/wiki/Harry_Edison'
+  - 'https://en.wikipedia.org/wiki/Joe_Williams_(jazz_singer)'
+  - 'https://concord.com/artist/joe-williams/'
+  - 'https://www.arts.gov/honors/jazz/joe-williams'
+  - 'https://www.allaboutjazz.com/musicians/joe-williams/'
+  - 'https://www.ijc.uidaho.edu/items/ijc_williams_joe.html'
 spotify_data:
   followers: 7739
   id: 4rZoL92ShDgN9SLLg4OPPN
   popularity: 38
-  url: https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN
+  url: 'https://open.spotify.com/artist/4rZoL92ShDgN9SLLg4OPPN'
 status: active
-title: JOE WILLIAMS & HARRY SWEETS EDISON
-
+title: Joe Williams & Harry Sweets Edison
+birth_place: 'Columbus, Ohio, United States'
+birth_date: '1915-10-10'
+death_date: '1999-07-27'
+artist_type: person
 ---
 
 ![](joe_williams_and_harry_sweets_edison.jpg)

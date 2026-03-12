@@ -1,31 +1,31 @@
 ---
-title: shane theriot
+title: Shane Theriot
 wiki_slug: shane-theriot
 schema_version: 2
 artist_type: person
 status: active
-birth_place: Thibodaux, Louisiana, United States
+birth_place: 'Thibodaux, Louisiana, United States'
 genres:
-- jazz fusion
-- funk rock
+  - jazz fusion
+  - funk rock
 instruments:
-- guitar
+  - guitar
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 578b5d70-3e66-4308-baa5-62e79e501a23
-  name: Big Sam’s Funky Nation
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5b7d7931-505f-4845-aa2f-34b5ee973058
-  name: Le Combo!
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 578b5d70-3e66-4308-baa5-62e79e501a23
+    name: Big Sam’s Funky Nation
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5b7d7931-505f-4845-aa2f-34b5ee973058
+    name: Le Combo!
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/shane_theriot.jpg
   caption: shane theriot
   background: non_vocal_instrumentalist
-  origin: Thibodaux, Louisiana, United States
+  origin: 'Thibodaux, Louisiana, United States'
 audio_profile:
   tempo_avg: 120.3
   energy_avg: 0.669
@@ -41,62 +41,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Neville Brothers
-  - Hall & Oates
-  - Art Neville and Aaron Neville
-  - Willie Nelson
-  - Boz Scaggs
-  - Jon Cleary
-  - Rickie Lee Jones
-  - Jo-El Sonnier
-  - Larry Carlton and Paul Brown
-  - Mark Egan
+    - The Neville Brothers
+    - Hall & Oates
+    - Art Neville and Aaron Neville
+    - Willie Nelson
+    - Boz Scaggs
+    - Jon Cleary
+    - Rickie Lee Jones
+    - Jo-El Sonnier
+    - Larry Carlton and Paul Brown
+    - Mark Egan
   influenced:
-  - Leni Stern
-  - Dweezil Zappa
+    - Leni Stern
+    - Dweezil Zappa
   mentors:
-  - Scott Henderson
+    - Scott Henderson
 spotify_data:
   followers: 1540
   id: 7d84JB58BYAYA6wmkS41PJ
   popularity: 4
-  url: https://open.spotify.com/artist/7d84JB58BYAYA6wmkS41PJ
+  url: 'https://open.spotify.com/artist/7d84JB58BYAYA6wmkS41PJ'
 discography_enriched: true
 top_tracks:
-- Big Wig (Still Motion)
-- Bring It (Dirty Power)
-- Just Sco Away (Still Motion)
-- F Thing! (Still Motion)
-- Yerba Mate Blues (Still Motion)
-- Old Men (Dirty Power)
-- Long Money (Still Motion)
-- Iridescence (Still Motion)
-- Mid City Ditty (Still Motion)
-- The Water Was Cool, Perfect (Still Motion)
+  - Big Wig (Still Motion)
+  - Bring It (Dirty Power)
+  - Just Sco Away (Still Motion)
+  - F Thing! (Still Motion)
+  - Yerba Mate Blues (Still Motion)
+  - Old Men (Dirty Power)
+  - Long Money (Still Motion)
+  - Iridescence (Still Motion)
+  - Mid City Ditty (Still Motion)
+  - 'The Water Was Cool, Perfect (Still Motion)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3b890ff3-7c79-45de-87db-f5347c32901e
-  spotify: https://open.spotify.com/artist/7d84JB58BYAYA6wmkS41PJ
-  wikipedia: https://en.wikipedia.org/wiki/Shane_Theriot
+  musicbrainz: 'https://musicbrainz.org/artist/3b890ff3-7c79-45de-87db-f5347c32901e'
+  spotify: 'https://open.spotify.com/artist/7d84JB58BYAYA6wmkS41PJ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Shane_Theriot'
 image_path: 03_Resources/source_material/ArtistPortraits/shane_theriot.jpg
 biography_enhanced_at: '2025-11-29T06:57:25.110778'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- All About Jazz - Shane Theriot Musician Profile
-- Wikipedia - Shane Theriot
-- Vintage Guitar Magazine - Shane Theriot
-- Songstuff - Shane Theriot Interview
-- Broadjam.com - Shane Theriot Artist Profile
-- TheAudioDB - Shane Theriot
-- Guitar World - Shane Theriot Features
+  - All About Jazz - Shane Theriot Musician Profile
+  - Wikipedia - Shane Theriot
+  - Vintage Guitar Magazine - Shane Theriot
+  - Songstuff - Shane Theriot Interview
+  - Broadjam.com - Shane Theriot Artist Profile
+  - TheAudioDB - Shane Theriot
+  - Guitar World - Shane Theriot Features
 network_extracted: true
 entry_created: '2025-11-29T06:57:25.110791'
 last_updated: '2025-12-23T08:16:15.529153'
 gender: Male
 musicbrainz_id: 3b890ff3-7c79-45de-87db-f5347c32901e
 tags:
-- jazz
-
+  - jazz
+birth_date: '1972-10-03'
 ---
 
 ![](shane_theriot.jpg)

@@ -1,37 +1,42 @@
 ---
 biography_enhanced_at: '2026-01-06T02:03:38.590336'
-birth_place: Lowell, Massachusetts, USA
+birth_place: 'Lowell, Massachusetts, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-06T02:03:38.590342'
 external_urls:
-  spotify: https://open.spotify.com/artist/6rkTjnYzrPQ4nQ0TAYIwBC
-  wikipedia: https://en.wikipedia.org/wiki/Poetry_for_the_Beat_Generation
+  spotify: 'https://open.spotify.com/artist/6rkTjnYzrPQ4nQ0TAYIwBC'
+  wikipedia: 'https://en.wikipedia.org/wiki/Poetry_for_the_Beat_Generation'
 genres:
-- spoken word
+  - spoken word
 image_path: 03_Resources/source_material/ArtistPortraits/jack_kerouac_wsteve_allen.jpg
 last_updated: '2026-01-06T02:03:38.590343'
 musical_connections:
   collaborators:
-  - Steve Allen
+    - Steve Allen
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://retracingjackkerouac.com/tag/jack-kerouac-steve-allen/
-- https://spectrumculture.com/2023/01/08/jack-kerouac-poetry-for-the-beat-generation-blues-and-haikus-review/
-- https://www.openculture.com/2022/03/jack-kerouac-reads-from-on-the-road-the-only-known-footage-of-the-beat-icon-reading-his-work-1959.html
-- https://www.youtube.com/watch?v=3LLpNKo09Xk
-- https://www.dgottwald.org/poetry-for-the-beat-generation
-- https://en.wikipedia.org/wiki/Poetry_for_the_Beat_Generation
-- https://www.kerouac.com/shop/records/jack-kerouac-steve-allen-poetry-for-the-beat-generation/
+  - 'https://retracingjackkerouac.com/tag/jack-kerouac-steve-allen/'
+  - >-
+    https://spectrumculture.com/2023/01/08/jack-kerouac-poetry-for-the-beat-generation-blues-and-haikus-review/
+  - >-
+    https://www.openculture.com/2022/03/jack-kerouac-reads-from-on-the-road-the-only-known-footage-of-the-beat-icon-reading-his-work-1959.html
+  - 'https://www.youtube.com/watch?v=3LLpNKo09Xk'
+  - 'https://www.dgottwald.org/poetry-for-the-beat-generation'
+  - 'https://en.wikipedia.org/wiki/Poetry_for_the_Beat_Generation'
+  - >-
+    https://www.kerouac.com/shop/records/jack-kerouac-steve-allen-poetry-for-the-beat-generation/
 spotify_data:
   followers: 24595
   id: 6rkTjnYzrPQ4nQ0TAYIwBC
   popularity: 21
-  url: https://open.spotify.com/artist/6rkTjnYzrPQ4nQ0TAYIwBC
+  url: 'https://open.spotify.com/artist/6rkTjnYzrPQ4nQ0TAYIwBC'
 status: active
 title: Jack Kerouac w/Steve Allen
+birth_date: '1922-03-12'
+artist_type: band
 ---
 
 ![](jack_kerouac_wsteve_allen.jpg)

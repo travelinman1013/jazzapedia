@@ -4,7 +4,7 @@ wiki_slug: 7-de-ouros
 schema_version: 2
 status: active
 genres:
-- brazilian jazz
+  - brazilian jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/7_de_ouros.jpg
   caption: 7 de Ouros
@@ -30,29 +30,30 @@ spotify_data:
   followers: 14
   id: 6cZPXDgxuyIYO7Gf2AccU3
   popularity: 0
-  url: https://open.spotify.com/artist/6cZPXDgxuyIYO7Gf2AccU3
+  url: 'https://open.spotify.com/artist/6cZPXDgxuyIYO7Gf2AccU3'
 discography_enriched: true
 top_tracks:
-- So Balanço (Nicola Conte Presents Viagem 4)
-- So Balanço (The Best of Far Out Recordings 2012)
-- Só Balanço (Viagem, Vol. 4)
+  - So Balanço (Nicola Conte Presents Viagem 4)
+  - So Balanço (The Best of Far Out Recordings 2012)
+  - 'Só Balanço (Viagem, Vol. 4)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ee4133cf-f70a-4826-aeea-0654647f23d9
-  spotify: https://open.spotify.com/artist/6cZPXDgxuyIYO7Gf2AccU3
+  musicbrainz: 'https://musicbrainz.org/artist/ee4133cf-f70a-4826-aeea-0654647f23d9'
+  spotify: 'https://open.spotify.com/artist/6cZPXDgxuyIYO7Gf2AccU3'
   wikipedia: ''
 image_path: ''
 biography_enhanced_at: '2025-12-21T01:27:34.649168'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Hamilton_de_Holanda[1]
-- http://www.mastersoftraditionalarts.org/artists/259[2]
-- https://www.allaboutjazz.com/musicians/joao-bosco/[3]
-- https://www.matrixonline.net/profile/carlinhospandeirodeouro[6]
+  - 'https://en.wikipedia.org/wiki/Hamilton_de_Holanda[1]'
+  - 'http://www.mastersoftraditionalarts.org/artists/259[2]'
+  - 'https://www.allaboutjazz.com/musicians/joao-bosco/[3]'
+  - 'https://www.matrixonline.net/profile/carlinhospandeirodeouro[6]'
 network_extracted: true
 entry_created: '2025-12-21T01:27:34.649174'
 last_updated: '2025-12-23T08:16:00.917806'
 musicbrainz_id: ee4133cf-f70a-4826-aeea-0654647f23d9
+artist_type: band
 ---
 
 ![]()

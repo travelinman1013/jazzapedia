@@ -1,91 +1,95 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 1d7f3fe3-3510-4484-93f2-ff2f3a9a9928
-  name: The Al Cohn & Zoot Sims Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - tenor saxophone
-  mbid: cf229bcd-7c2c-4a74-97bd-5381f25a0394
-  name: Boyd Raeburn & His Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  - tenor saxophone
-  mbid: e601e48c-96b5-476b-a621-c632cfc8e52c
-  name: Al Cohn Quartet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6529fa33-e813-4f5e-ac18-0292e78b6d56
-  name: Steve Allen and His All-Stars
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c0a4a623-724a-4b1a-8e96-0eff607968d2
-  name: Billy Byers & His Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9ed106dc-ebf4-45bf-8824-d0caf44f89e2
-  name: Al Cohn-Zoot Sims Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 1d7f3fe3-3510-4484-93f2-ff2f3a9a9928
+    name: The Al Cohn & Zoot Sims Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: cf229bcd-7c2c-4a74-97bd-5381f25a0394
+    name: Boyd Raeburn & His Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - tenor saxophone
+    mbid: e601e48c-96b5-476b-a621-c632cfc8e52c
+    name: Al Cohn Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6529fa33-e813-4f5e-ac18-0292e78b6d56
+    name: Steve Allen and His All-Stars
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c0a4a623-724a-4b1a-8e96-0eff607968d2
+    name: Billy Byers & His Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9ed106dc-ebf4-45bf-8824-d0caf44f89e2
+    name: Al Cohn-Zoot Sims Sextet
 biography_enhanced_at: '2025-12-29T01:06:27.769773'
 birth_date: '1925-11-24'
-birth_place: Brooklyn
+birth_place: 'Brooklyn, New York, United States'
 death_date: '1988-02-15'
 enhancement_provider: perplexity
 entry_created: '2025-12-29T01:06:27.769783'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/996b444f-2f1c-4f41-bb85-c3b9a709c9bf
-  spotify: https://open.spotify.com/artist/2C8mKwk3z5DtqLcSwUdYJ9
+  musicbrainz: 'https://musicbrainz.org/artist/996b444f-2f1c-4f41-bb85-c3b9a709c9bf'
+  spotify: 'https://open.spotify.com/artist/2C8mKwk3z5DtqLcSwUdYJ9'
   wikipedia: ''
 gender: Male
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/al_cohn.jpg
 instruments:
-- eponymous
-- original
-- tenor saxophone
+  - eponymous
+  - original
+  - tenor saxophone
 last_updated: '2025-12-29T01:06:27.769784'
 musical_connections:
   collaborators:
-  - Zoot Sims
-  - Woody Herman
-  - Stan Getz
-  - Serge Chaloff
+    - Zoot Sims
+    - Woody Herman
+    - Stan Getz
+    - Serge Chaloff
   influenced:
-  - Joe Cohn
-  - Shaye Cohn
+    - Joe Cohn
+    - Shaye Cohn
   mentors:
-  - Lester Young
+    - Lester Young
 musicbrainz_id: 996b444f-2f1c-4f41-bb85-c3b9a709c9bf
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://fromthevaults-boppinbob.blogspot.com/2021/11/al-cohn-born-24-november-1925.html
-- https://nationaljazzarchive.org.uk/explore/interviews/1277379-al-cohn-interview-1
-- https://jazzleadsheets.com/composers/al-cohn.html
-- https://jazzprofiles.blogspot.com/2017/11/al-cohn.html
-- https://www.esu.edu/library/collections/alcohn/about.cfm
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2021/11/al-cohn-born-24-november-1925.html
+  - >-
+    https://nationaljazzarchive.org.uk/explore/interviews/1277379-al-cohn-interview-1
+  - 'https://jazzleadsheets.com/composers/al-cohn.html'
+  - 'https://jazzprofiles.blogspot.com/2017/11/al-cohn.html'
+  - 'https://www.esu.edu/library/collections/alcohn/about.cfm'
 spotify_data:
   followers: 111748
   id: 2C8mKwk3z5DtqLcSwUdYJ9
   popularity: 53
-  url: https://open.spotify.com/artist/2C8mKwk3z5DtqLcSwUdYJ9
+  url: 'https://open.spotify.com/artist/2C8mKwk3z5DtqLcSwUdYJ9'
 status: active
 tags:
-- american
-- beat poetry
-- big band jazz
+  - american
+  - beat poetry
+  - big band jazz
 title: Al Cohn
+is_active: false
+origin: 'Brooklyn, New York, United States'
 ---
 
 ![](al_cohn.jpg)

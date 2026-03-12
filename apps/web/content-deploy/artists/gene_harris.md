@@ -3,18 +3,18 @@ title: Gene Harris
 wiki_slug: gene-harris
 schema_version: 2
 status: active
-birth_place: Benton Harbor, Michigan, United States
+birth_place: 'Benton Harbor, Michigan, United States'
 genres:
-- jazz funk
-- soul jazz
-- acid jazz
+  - jazz funk
+  - soul jazz
+  - acid jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/gene_harris.jpg
   caption: Gene Harris
   background: solo_singer
-  origin: Benton Harbor, Michigan, United States
+  origin: 'Benton Harbor, Michigan, United States'
 audio_profile:
-  tempo_avg: 117.0
+  tempo_avg: 117
   energy_avg: 0.553
   valence_avg: 0.588
   danceability_avg: 0.538
@@ -28,55 +28,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Andy Simpkins
-  - Bill Dowdy
-  - Milt Jackson
-  - Ray Brown
-  - Lou Donaldson
-  - Stanley Turrentine
+    - Andy Simpkins
+    - Bill Dowdy
+    - Milt Jackson
+    - Ray Brown
+    - Lou Donaldson
+    - Stanley Turrentine
   influenced:
-  - Curtis Stigers
-  - Eric Reed
+    - Curtis Stigers
+    - Eric Reed
   mentors:
-  - Oscar Peterson
-  - Meade Lux Lewis
-  - Albert Ammons
+    - Oscar Peterson
+    - Meade Lux Lewis
+    - Albert Ammons
 spotify_data:
   followers: 31463
   id: 7HZokAjDop6Gjgtghfr8lp
   popularity: 40
-  url: https://open.spotify.com/artist/7HZokAjDop6Gjgtghfr8lp
+  url: 'https://open.spotify.com/artist/7HZokAjDop6Gjgtghfr8lp'
 discography_enriched: true
 top_tracks:
-- Losalamitoslatinfunklovesong (Astral Signal)
-- Summer (The First Time) (Astral Signal)
-- Peace Of Mind (Tone Tantrum)
-- As (Tone Tantrum)
-- I Remember Summer (Astral Signal)
-- Feeling You, Feeling Me Too! (Astral Signal)
-- Exactly Like You (Soular Energy)
-- Soft Cycles (In A Special Way)
-- Love Talkin' (Astral Signal)
-- Listen Here - G.U.R.U. Remix
+  - Losalamitoslatinfunklovesong (Astral Signal)
+  - Summer (The First Time) (Astral Signal)
+  - Peace Of Mind (Tone Tantrum)
+  - As (Tone Tantrum)
+  - I Remember Summer (Astral Signal)
+  - 'Feeling You, Feeling Me Too! (Astral Signal)'
+  - Exactly Like You (Soular Energy)
+  - Soft Cycles (In A Special Way)
+  - Love Talkin' (Astral Signal)
+  - Listen Here - G.U.R.U. Remix
 external_urls:
-  spotify: https://open.spotify.com/artist/7HZokAjDop6Gjgtghfr8lp
-  wikipedia: https://en.wikipedia.org/wiki/Gene_Harris
+  spotify: 'https://open.spotify.com/artist/7HZokAjDop6Gjgtghfr8lp'
+  wikipedia: 'https://en.wikipedia.org/wiki/Gene_Harris'
 image_path: 03_Resources/source_material/ArtistPortraits/gene_harris.jpg
 biography_enhanced_at: '2025-12-04T08:09:10.631461'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Gene Harris
-- 'WEAA - Jazz Master of the Month: Gene Harris'
-- All About Jazz - Gene Harris Musician
-- Archives West - Chris Latter Collection on Gene and Janie Harris
-- Blue Note Records - Gene Harris Artist Page
-- 'The Jazz VNU - Gene Harris: Classic Jazz Artist from Benton Harbor, Michigan'
-- Jango Radio - Gene Harris
+  - Wikipedia - Gene Harris
+  - 'WEAA - Jazz Master of the Month: Gene Harris'
+  - All About Jazz - Gene Harris Musician
+  - Archives West - Chris Latter Collection on Gene and Janie Harris
+  - Blue Note Records - Gene Harris Artist Page
+  - 'The Jazz VNU - Gene Harris: Classic Jazz Artist from Benton Harbor, Michigan'
+  - Jango Radio - Gene Harris
 network_extracted: true
 entry_created: '2025-12-04T08:09:10.631468'
 last_updated: '2025-12-23T08:16:09.040912'
-
+birth_date: '1933-09-01'
+death_date: '2000-01-16'
+artist_type: person
 ---
 
 ![](gene_harris.jpg)

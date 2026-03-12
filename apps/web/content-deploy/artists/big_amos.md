@@ -1,24 +1,24 @@
 ---
-title: big amos
+title: Big Amos
 wiki_slug: big-amos
 schema_version: 2
 status: active
-birth_place: Sardis, Mississippi, United States
+birth_place: 'Sardis, Mississippi, United States'
 genres:
-- egyptian hip hop
-- southern hip hop
+  - egyptian hip hop
+  - southern hip hop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/big_amos.jpg
   caption: big amos
   background: solo_singer
-  origin: Sardis, Mississippi, United States
+  origin: 'Sardis, Mississippi, United States'
 audio_profile:
-  tempo_avg: 112.0
+  tempo_avg: 112
   energy_avg: 0.616
   valence_avg: 0.648
   danceability_avg: 0.775
   acousticness_avg: 0.184
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -6.6
   speechiness_avg: 0.225
   liveness_avg: 0.221
@@ -28,38 +28,39 @@ similar_artists: []
 musical_connections:
   collaborators: []
   influenced:
-  - Southern blues musicians
+    - Southern blues musicians
   mentors:
-  - Charley Patton
+    - Charley Patton
 spotify_data:
   followers: 303042
   id: 4Yj490bi1KL0QpDnVOtHyr
   popularity: 44
-  url: https://open.spotify.com/artist/4Yj490bi1KL0QpDnVOtHyr
+  url: 'https://open.spotify.com/artist/4Yj490bi1KL0QpDnVOtHyr'
 discography_enriched: true
 top_tracks:
-- Flossin' (feat. Big Moe) (Who Is Mike Jones?)
-- Just A Dog (Moe Life)
-- Barre Baby (City Of Syrup)
-- Maan! (City Of Syrup)
-- City Of Syrup (City Of Syrup)
-- Susmaryosep
-- Purple Stuff (Classics, Vol. 1)
-- Get Back (City Of Syrup)
-- Kalem El Matafy
-- Ballin' Parlay (Hardest Pit in the Litter)
+  - Flossin' (feat. Big Moe) (Who Is Mike Jones?)
+  - Just A Dog (Moe Life)
+  - Barre Baby (City Of Syrup)
+  - Maan! (City Of Syrup)
+  - City Of Syrup (City Of Syrup)
+  - Susmaryosep
+  - 'Purple Stuff (Classics, Vol. 1)'
+  - Get Back (City Of Syrup)
+  - Kalem El Matafy
+  - Ballin' Parlay (Hardest Pit in the Litter)
 external_urls:
-  spotify: https://open.spotify.com/artist/4Yj490bi1KL0QpDnVOtHyr
+  spotify: 'https://open.spotify.com/artist/4Yj490bi1KL0QpDnVOtHyr'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/big_amos.jpg
 biography_enhanced_at: '2025-11-04T11:03:52.310173'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.allmusic.com/artist/big-amos-patton-mn0000066178
+  - 'https://www.allmusic.com/artist/big-amos-patton-mn0000066178'
 network_extracted: true
 entry_created: '2025-11-04T11:03:52.310187'
 last_updated: '2025-12-23T08:16:05.396880'
+artist_type: person
 ---
 
 ![](big_amos.jpg)

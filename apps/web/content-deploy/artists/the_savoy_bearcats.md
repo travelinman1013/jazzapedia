@@ -4,44 +4,45 @@ biography_enhanced_at: '2026-01-15T01:17:51.032277'
 enhancement_provider: perplexity
 entry_created: '2026-01-15T01:17:51.032295'
 external_urls:
-  spotify: https://open.spotify.com/artist/1u3e8Baoc9H9NRHntkSumU
+  spotify: 'https://open.spotify.com/artist/1u3e8Baoc9H9NRHntkSumU'
   wikipedia: ''
 genres:
-- ragtime
+  - ragtime
 image_path: ''
 is_active: true
 last_updated: '2026-01-15T01:17:51.032298'
 musical_connections:
   collaborators:
-  - Leon Abbey
-  - Duncan Mayers
-  - Gilbert Paris
-  - Demas Dean
-  - James Reevy
-  - Carmelo Jari (Jejo)
-  - Otto Mikell
-  - Ramon Hernandez
-  - Rex Stewart
-  - Charlie Green
-  - Tiny Bradshaw
+    - Leon Abbey
+    - Duncan Mayers
+    - Gilbert Paris
+    - Demas Dean
+    - James Reevy
+    - Carmelo Jari (Jejo)
+    - Otto Mikell
+    - Ramon Hernandez
+    - Rex Stewart
+    - Charlie Green
+    - Tiny Bradshaw
   influenced: []
   mentors: []
 network_extracted: true
-origin: Charleston, South Carolina, USA
+origin: 'Charleston, South Carolina, United States'
 primary_source: perplexity
 research_sources:
-- https://www.harlem-fuss.com/pdf/bands/harlem_fuss_bands_savoy_bearcats.pdf
-- https://electricalmoonlightrecords.wordpress.com/2013/12/13/savoy-bearcats/
-- http://jazzhotbigstep.com/486423.html
-- https://archives.dance/2012/02/jazz-from-ragtime-to-swing/
-- https://folkways.si.edu/the-jazzy-twenties/jazz-ragtime/music/album/smithsonian
+  - 'https://www.harlem-fuss.com/pdf/bands/harlem_fuss_bands_savoy_bearcats.pdf'
+  - 'https://electricalmoonlightrecords.wordpress.com/2013/12/13/savoy-bearcats/'
+  - 'http://jazzhotbigstep.com/486423.html'
+  - 'https://archives.dance/2012/02/jazz-from-ragtime-to-swing/'
+  - >-
+    https://folkways.si.edu/the-jazzy-twenties/jazz-ragtime/music/album/smithsonian
 spotify_data:
   followers: 54
   id: 1u3e8Baoc9H9NRHntkSumU
   popularity: 4
-  url: https://open.spotify.com/artist/1u3e8Baoc9H9NRHntkSumU
+  url: 'https://open.spotify.com/artist/1u3e8Baoc9H9NRHntkSumU'
 status: active
-title: THE SAVOY BEARCATS
+title: The Savoy Bearcats
 ---
 
 ![]()

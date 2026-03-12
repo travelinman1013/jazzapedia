@@ -2,24 +2,24 @@
 title: Ahmad Jamal
 wiki_slug: ahmad-jamal
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1930-07-02'
-birth_place: Pittsburgh, Pennsylvania, United States
+birth_place: 'Pittsburgh, Pennsylvania, United States'
 death_date: '2023-04-16'
 genres:
-- jazz
-- cool jazz
-- hard bop
+  - jazz
+  - cool jazz
+  - hard bop
 instruments:
-- eponymous
-- piano
+  - eponymous
+  - piano
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Ahmad_Jamal.jpg
   caption: Ahmad Jamal
   background: non_vocal_instrumentalist
   born: '1930-07-02'
-  origin: Pittsburgh, Pennsylvania, United States
+  origin: 'Pittsburgh, Pennsylvania, United States'
   died: '2023-04-16'
 audio_profile:
   tempo_avg: 104.7
@@ -36,49 +36,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Israel Crosby
-  - Vernel Fournier
-  - Joe Kennedy Jr.
-  - Ray Crawford
+    - Israel Crosby
+    - Vernel Fournier
+    - Joe Kennedy Jr.
+    - Ray Crawford
   influenced:
-  - Miles Davis
-  - Herbie Hancock
-  - Wynton Kelly
+    - Miles Davis
+    - Herbie Hancock
+    - Wynton Kelly
   mentors:
-  - Mary Cardwell Dawson
-  - James Miller
-  - Art Tatum
+    - Mary Cardwell Dawson
+    - James Miller
+    - Art Tatum
 spotify_data:
   followers: 174854
   id: 6gc6oo3u2f7SqTd4mhe81O
   popularity: 42
-  url: https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O
+  url: 'https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O'
 discography_enriched: true
 top_tracks:
-- For All We Know (Happy Moods)
-- Ahmad's Blues (Poinciana)
-- Poinciana (Poinciana)
-- Excerpts From The Blues (Happy Moods)
-- Pavanne (Happy Moods)
-- Easy To Love (Happy Moods)
-- Time On My Hands (Happy Moods)
-- I'll Never Stop Loving You (Happy Moods)
-- It Ain't Necessarily So (Chamber Music Of The New Jazz)
-- Spring Is Here (Chamber Music Of The New Jazz)
+  - For All We Know (Happy Moods)
+  - Ahmad's Blues (Poinciana)
+  - Poinciana (Poinciana)
+  - Excerpts From The Blues (Happy Moods)
+  - Pavanne (Happy Moods)
+  - Easy To Love (Happy Moods)
+  - Time On My Hands (Happy Moods)
+  - I'll Never Stop Loving You (Happy Moods)
+  - It Ain't Necessarily So (Chamber Music Of The New Jazz)
+  - Spring Is Here (Chamber Music Of The New Jazz)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/cf816800-4e0e-4d80-9cca-50a725e93787
-  spotify: https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O
-  wikipedia: https://en.wikipedia.org/wiki/Ahmad_Jamal
+  musicbrainz: 'https://musicbrainz.org/artist/cf816800-4e0e-4d80-9cca-50a725e93787'
+  spotify: 'https://open.spotify.com/artist/6gc6oo3u2f7SqTd4mhe81O'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ahmad_Jamal'
 image_path: 03_Resources/source_material/ArtistPortraits/Ahmad_Jamal.jpg
 biography_enhanced_at: '2025-10-19T11:25:39.351419'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.steinway.com/artists/ahmad-jamal
-- https://www.arts.gov/honors/jazz/ahmad-jamal
-- https://ahmadjamal.com/history
-- https://communitiesthatcarecoalition.com/black-history-365-ahmad-jamal/
-- https://kutx.org/words-on-music/remembering/ahmad-jamal-measured-maestro-of-the-jazz-piano-dies-at-92/
+  - 'https://www.steinway.com/artists/ahmad-jamal'
+  - 'https://www.arts.gov/honors/jazz/ahmad-jamal'
+  - 'https://ahmadjamal.com/history'
+  - 'https://communitiesthatcarecoalition.com/black-history-365-ahmad-jamal/'
+  - >-
+    https://kutx.org/words-on-music/remembering/ahmad-jamal-measured-maestro-of-the-jazz-piano-dies-at-92/
 network_extracted: true
 entry_created: '2025-10-19T11:25:39.351429'
 last_updated: '2025-12-23T08:16:00.955880'
@@ -86,9 +87,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:10:28.474911'
 musicbrainz_id: cf816800-4e0e-4d80-9cca-50a725e93787
 tags:
-- 2008 universal fire victim
-- cool jazz
-- hard bop
+  - 2008 universal fire victim
+  - cool jazz
+  - hard bop
+is_active: false
 ---
 
 ![](Ahmad_Jamal.jpg)

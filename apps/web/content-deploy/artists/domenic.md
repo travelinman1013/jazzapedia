@@ -1,25 +1,25 @@
 ---
-title: domenic
+title: Domenic
 wiki_slug: domenic
 schema_version: 2
 artist_type: person
 status: active
-birth_place: Polignano a Mare, Bari, Apulia, Italy
+birth_place: 'Polignano a Mare, Bari, Apulia, Italy'
 genres:
-- italian singer-songwriter
-- italo dance
-- canzone napoletana
+  - italian singer-songwriter
+  - italo dance
+  - canzone napoletana
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 135328e3-0e9a-43d4-98c7-3daa925d037b
-  name: Harri & Domenic
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 135328e3-0e9a-43d4-98c7-3daa925d037b
+    name: Harri & Domenic
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/domenic.jpg
   caption: domenic
   background: solo_singer
-  origin: Polignano a Mare, Bari, Apulia, Italy
+  origin: 'Polignano a Mare, Bari, Apulia, Italy'
 audio_profile:
   tempo_avg: 125.4
   energy_avg: 0.314
@@ -35,51 +35,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Franco Migliacci
-  - Johnny Dorelli
-  - Franco and Ciccio
-  - Ennio Morricone
-  - Massimo Modugno
+    - Franco Migliacci
+    - Johnny Dorelli
+    - Franco and Ciccio
+    - Ennio Morricone
+    - Massimo Modugno
   influenced:
-  - Elvis Presley
-  - Sergio Franchi
-  - Jack Jones
-  - Double You
+    - Elvis Presley
+    - Sergio Franchi
+    - Jack Jones
+    - Double You
   mentors:
-  - Eduardo De Filippo
+    - Eduardo De Filippo
 spotify_data:
   followers: 242634
   id: 4llklDtTTyMYMY2LfFOkTI
   popularity: 50
-  url: https://open.spotify.com/artist/4llklDtTTyMYMY2LfFOkTI
+  url: 'https://open.spotify.com/artist/4llklDtTTyMYMY2LfFOkTI'
 discography_enriched: true
 top_tracks:
-- 'Nel blu dipinto di blu (Playlist: Domenico Modugno)'
-- Volare (Volare)
-- Nel Blu Dipinto Di Blu (Nel Blu Dipinto Di Blu)
-- Nel blu dipinto di blu (Tutto Modugno (Mister Volare))
-- La Distancia Es como el Viento (Rarities 1970)
-- Meraviglioso
-- Vecchio frack
-- Tu si' 'na cosa grande
-- Meraviglioso (Domenico Modugno)
-- Como Has Hecho
+  - 'Nel blu dipinto di blu (Playlist: Domenico Modugno)'
+  - Volare (Volare)
+  - Nel Blu Dipinto Di Blu (Nel Blu Dipinto Di Blu)
+  - Nel blu dipinto di blu (Tutto Modugno (Mister Volare))
+  - La Distancia Es como el Viento (Rarities 1970)
+  - Meraviglioso
+  - Vecchio frack
+  - Tu si' 'na cosa grande
+  - Meraviglioso (Domenico Modugno)
+  - Como Has Hecho
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d71a517b-0c96-4e46-8fac-f876038d5e45
-  spotify: https://open.spotify.com/artist/4llklDtTTyMYMY2LfFOkTI
-  wikipedia: https://en.wikipedia.org/wiki/Domenico_Modugno
+  musicbrainz: 'https://musicbrainz.org/artist/d71a517b-0c96-4e46-8fac-f876038d5e45'
+  spotify: 'https://open.spotify.com/artist/4llklDtTTyMYMY2LfFOkTI'
+  wikipedia: 'https://en.wikipedia.org/wiki/Domenico_Modugno'
 image_path: 03_Resources/source_material/ArtistPortraits/domenic.jpg
 biography_enhanced_at: '2025-11-29T06:56:34.981311'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Domenico Modugno
-- Kiddle - Domenico Modugno Facts for Kids
-- Last.fm - Domenico Modugno
+  - Wikipedia - Domenico Modugno
+  - Kiddle - Domenico Modugno Facts for Kids
+  - Last.fm - Domenico Modugno
 network_extracted: true
 entry_created: '2025-11-29T06:56:34.981327'
 last_updated: '2025-12-23T08:16:07.861056'
 musicbrainz_id: d71a517b-0c96-4e46-8fac-f876038d5e45
+birth_date: '1928-01-09'
+death_date: '1994-08-06'
 ---
 
 ![](domenic.jpg)

@@ -1,15 +1,15 @@
 ---
-title: VALAIDA SNOW
+title: Valaida Snow
 wiki_slug: valaida-snow
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1904-06-02'
-birth_place: Chattanooga
+birth_place: 'Chattanooga, Tennessee, United States'
 death_date: '1956-05-30'
 genres:
-- vocal jazz
-- swing music
+  - vocal jazz
+  - swing music
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/valaida_snow.jpg
   caption: VALAIDA SNOW
@@ -32,53 +32,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Noble Sissle and Eubie Blake
-  - Lew Leslie
-  - Josephine Baker
+    - Noble Sissle and Eubie Blake
+    - Lew Leslie
+    - Josephine Baker
   influenced: []
   mentors:
-  - Louis Armstrong
-  - Mother (Snow family)
+    - Louis Armstrong
+    - Mother (Snow family)
 spotify_data:
   followers: 2034
   id: 31qMNL5RvFHxZVPDZVwAsm
   popularity: 13
-  url: https://open.spotify.com/artist/31qMNL5RvFHxZVPDZVwAsm
+  url: 'https://open.spotify.com/artist/31qMNL5RvFHxZVPDZVwAsm'
 discography_enriched: true
 top_tracks:
-- If I Only Had You (Chattanooga Princess)
-- Fool That I Am (Chattanooga Princess)
-- If I Only Had You (12- ?-45) (Complete Jazz Series 1940 - 1953)
-- You’ Re Driving Me Crazy (I Got Rhythm)
-- Swing Is The Thing (07-08-37) (Complete Jazz Series 1937 - 1940)
-- Tiger Rag (Swing is the Thing)
-- Some Of These Days (07-08-37) (Complete Jazz Series 1937 - 1940)
-- You're Driving Me Crazy (07-26-40) (Complete Jazz Series 1937 - 1940)
-- Some of These Days (Swing is the Thing)
-- Tell Me How Long The Train's Been Gone (01- ?-50) (Complete Jazz Series 1940 - 1953)
+  - If I Only Had You (Chattanooga Princess)
+  - Fool That I Am (Chattanooga Princess)
+  - If I Only Had You (12- ?-45) (Complete Jazz Series 1940 - 1953)
+  - You’ Re Driving Me Crazy (I Got Rhythm)
+  - Swing Is The Thing (07-08-37) (Complete Jazz Series 1937 - 1940)
+  - Tiger Rag (Swing is the Thing)
+  - Some Of These Days (07-08-37) (Complete Jazz Series 1937 - 1940)
+  - You're Driving Me Crazy (07-26-40) (Complete Jazz Series 1937 - 1940)
+  - Some of These Days (Swing is the Thing)
+  - >-
+    Tell Me How Long The Train's Been Gone (01- ?-50) (Complete Jazz Series 1940
+    - 1953)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/926ea981-a70a-4a7d-8045-a7e8732b963c
-  spotify: https://open.spotify.com/artist/31qMNL5RvFHxZVPDZVwAsm
+  musicbrainz: 'https://musicbrainz.org/artist/926ea981-a70a-4a7d-8045-a7e8732b963c'
+  spotify: 'https://open.spotify.com/artist/31qMNL5RvFHxZVPDZVwAsm'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/valaida_snow.jpg
 biography_enhanced_at: '2025-12-18T02:37:26.168244'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://americacomesalive.com/valaida-snow-jazz-pioneer/
-- https://mgleatherwork.com/blogs/news/valaida-snow-biography-achievements-and-legacy
-- https://afrogermans.us/black-history-month-valaida-snow/
-- https://jazznightschool.org/blogs/jns-blog/valaida-snow-black-jazz-stories
-- https://nmaahc.si.edu/explore/stories/stage-belonged-her
-- https://blackpast.org/african-american-history/valaida-snow-1905-1956/
+  - 'https://americacomesalive.com/valaida-snow-jazz-pioneer/'
+  - >-
+    https://mgleatherwork.com/blogs/news/valaida-snow-biography-achievements-and-legacy
+  - 'https://afrogermans.us/black-history-month-valaida-snow/'
+  - 'https://jazznightschool.org/blogs/jns-blog/valaida-snow-black-jazz-stories'
+  - 'https://nmaahc.si.edu/explore/stories/stage-belonged-her'
+  - 'https://blackpast.org/african-american-history/valaida-snow-1905-1956/'
 network_extracted: true
 entry_created: '2025-12-18T02:37:26.168254'
 last_updated: '2025-12-23T08:16:17.803763'
 gender: Female
 musicbrainz_id: 926ea981-a70a-4a7d-8045-a7e8732b963c
 tags:
-- 2008 universal fire victim
-- jazz
+  - 2008 universal fire victim
+  - jazz
+is_active: false
 ---
 
 ![](valaida_snow.jpg)

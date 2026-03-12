@@ -1,12 +1,13 @@
 ---
-title: Brian Blade & The Fellowship Ban
+title: Brian Blade & The Fellowship Band
 wiki_slug: brian-blade-the-fellowship-ban
 schema_version: 2
 status: active
 genres:
-- jazz
+  - jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/Brian_Blade_and_The_Fellowship_Ban.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/Brian_Blade_and_The_Fellowship_Ban.jpg
   caption: Brian Blade & The Fellowship Ban
   background: solo_singer
 audio_profile:
@@ -24,58 +25,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jon Cowherd
-  - Myron Walden
-  - Melvin Butler
-  - Chris Thomas
-  - Jeff Parker
-  - Kurt Rosenwinkel
-  - Wayne Shorter
-  - Joni Mitchell
-  - Emmylou Harris
+    - Jon Cowherd
+    - Myron Walden
+    - Melvin Butler
+    - Chris Thomas
+    - Jeff Parker
+    - Kurt Rosenwinkel
+    - Wayne Shorter
+    - Joni Mitchell
+    - Emmylou Harris
   influenced:
-  - Younger contemporary jazz drummers
+    - Younger contemporary jazz drummers
   mentors:
-  - Dorsey Summerfield Jr.
-  - Johnny Vidacovich
-  - Ellis Marsalis
+    - Dorsey Summerfield Jr.
+    - Johnny Vidacovich
+    - Ellis Marsalis
 spotify_data:
   followers: 33278
   id: 4gjFkHMQ2r46oQ7gsIQaCF
   popularity: 31
-  url: https://open.spotify.com/artist/4gjFkHMQ2r46oQ7gsIQaCF
+  url: 'https://open.spotify.com/artist/4gjFkHMQ2r46oQ7gsIQaCF'
 discography_enriched: true
 top_tracks:
-- Stoner Hill (Season of Changes)
-- Embers (Landmarks)
-- Within Everything (Body And Shadow)
-- Traveling Mercies (Body And Shadow)
-- Landmarks (Landmarks)
-- Bonnie Be Good (Landmarks)
-- God Be With You (Kings Highway)
-- Broken Leg Days (Body And Shadow)
-- Body and Shadow - Night (Body And Shadow)
-- Friends Call Her Dot (Landmarks)
+  - Stoner Hill (Season of Changes)
+  - Embers (Landmarks)
+  - Within Everything (Body And Shadow)
+  - Traveling Mercies (Body And Shadow)
+  - Landmarks (Landmarks)
+  - Bonnie Be Good (Landmarks)
+  - God Be With You (Kings Highway)
+  - Broken Leg Days (Body And Shadow)
+  - Body and Shadow - Night (Body And Shadow)
+  - Friends Call Her Dot (Landmarks)
 external_urls:
-  spotify: https://open.spotify.com/artist/4gjFkHMQ2r46oQ7gsIQaCF
-  wikipedia: https://en.wikipedia.org/wiki/Brian_Blade
-image_path: 03_Resources/source_material/ArtistPortraits/Brian_Blade_and_The_Fellowship_Ban.jpg
+  spotify: 'https://open.spotify.com/artist/4gjFkHMQ2r46oQ7gsIQaCF'
+  wikipedia: 'https://en.wikipedia.org/wiki/Brian_Blade'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/Brian_Blade_and_The_Fellowship_Ban.jpg
 biography_enhanced_at: '2025-10-19T11:42:49.364767'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Brian_Blade
-- https://www.fasching.se/en/brian-blade-and-the-fellowship-band/
-- https://www.detroitjazzfest.org/artist/brian-blade/
-- https://www.nashvillescene.com/music/brian-blade-and-his-fellowship-band-live-where-jazz-meets-pop/article_b127c3bd-40cb-5c78-ad47-8bc0dbb5a5cd.html
-- https://www.hollywoodbowl.com/musicdb/artists/9330/brian-blade-the-fellowship-band
-- https://www.brianblade.com/bands/the-fellowship-band
-- https://jazzweekly.com/2024/08/brian-blade-interview/
-- https://www.ljathenaeum.org/events/jazz-24-0619
+  - 'https://en.wikipedia.org/wiki/Brian_Blade'
+  - 'https://www.fasching.se/en/brian-blade-and-the-fellowship-band/'
+  - 'https://www.detroitjazzfest.org/artist/brian-blade/'
+  - >-
+    https://www.nashvillescene.com/music/brian-blade-and-his-fellowship-band-live-where-jazz-meets-pop/article_b127c3bd-40cb-5c78-ad47-8bc0dbb5a5cd.html
+  - >-
+    https://www.hollywoodbowl.com/musicdb/artists/9330/brian-blade-the-fellowship-band
+  - 'https://www.brianblade.com/bands/the-fellowship-band'
+  - 'https://jazzweekly.com/2024/08/brian-blade-interview/'
+  - 'https://www.ljathenaeum.org/events/jazz-24-0619'
 network_extracted: true
 entry_created: '2025-10-19T11:42:49.364776'
 last_updated: '2025-12-23T08:16:01.357891'
-origin: Shreveport, Louisiana, United States
+origin: 'Shreveport, Louisiana, United States'
+birth_place: 'Shreveport, Louisiana, United States'
+artist_type: person
 ---
 
 ![](Brian_Blade_and_The_Fellowship_Ban.jpg)

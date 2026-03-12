@@ -1,44 +1,49 @@
 ---
 biography_enhanced_at: '2026-01-20T01:22:31.464218'
-birth_place: Hernando, Mississippi, USA
+birth_place: 'Hernando, Mississippi, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-20T01:22:31.464225'
 external_urls:
-  spotify: https://open.spotify.com/artist/6U174IQnD4TiKibxvVLYk6
-  wikipedia: https://en.wikipedia.org/wiki/Robert_Wilkins
+  spotify: 'https://open.spotify.com/artist/6U174IQnD4TiKibxvVLYk6'
+  wikipedia: 'https://en.wikipedia.org/wiki/Robert_Wilkins'
 genres:
-- country blues
-- blues
-- classic blues
-- ragtime
+  - country blues
+  - blues
+  - classic blues
+  - ragtime
 image_path: 03_Resources/source_material/ArtistPortraits/robert_wilkins.jpg
 last_updated: '2026-01-20T01:22:31.464226'
 musical_connections:
   collaborators:
-  - Sleepy John Estes
-  - Dick Spottswood
-  - Louisa Spottswood
+    - Sleepy John Estes
+    - Dick Spottswood
+    - Louisa Spottswood
   influenced:
-  - Memphis Minnie
-  - The Rolling Stones
-  - Muddy Waters
-  - Reverend John Wilkins
+    - Memphis Minnie
+    - The Rolling Stones
+    - Muddy Waters
+    - Reverend John Wilkins
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Robert_Wilkins
-- https://blinddogradio.blogspot.com/2018/06/robert-wilkins.html
-- https://blues.fandom.com/wiki/Robert_Wilkins
-- https://www.nps.gov/locations/lowermsdeltaregion/rev-robert-timothy-wilkins.htm
-- https://www.crossrhythms.co.uk/articles/music/Rev_Robert_Wilkins_The_gospel_blues_legend_covered_by_the_Rolling_Stones/44123/p1/
+  - 'https://en.wikipedia.org/wiki/Robert_Wilkins'
+  - 'https://blinddogradio.blogspot.com/2018/06/robert-wilkins.html'
+  - 'https://blues.fandom.com/wiki/Robert_Wilkins'
+  - >-
+    https://www.nps.gov/locations/lowermsdeltaregion/rev-robert-timothy-wilkins.htm
+  - >-
+    https://www.crossrhythms.co.uk/articles/music/Rev_Robert_Wilkins_The_gospel_blues_legend_covered_by_the_Rolling_Stones/44123/p1/
 spotify_data:
   followers: 5583
   id: 6U174IQnD4TiKibxvVLYk6
   popularity: 11
-  url: https://open.spotify.com/artist/6U174IQnD4TiKibxvVLYk6
+  url: 'https://open.spotify.com/artist/6U174IQnD4TiKibxvVLYk6'
 status: active
-title: ROBERT WILKINS
+title: Robert Wilkins
+birth_date: '1896-01-16'
+death_date: '1987-05-26'
+artist_type: person
 ---
 
 ![](robert_wilkins.jpg)

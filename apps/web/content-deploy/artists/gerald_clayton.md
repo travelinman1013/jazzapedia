@@ -1,16 +1,16 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 22572c69-86e7-49d2-ba8e-4087274c4126
-  name: Kindred Spirits
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 897b9986-e9ce-4b0f-ac4a-2c3d1251bf0f
-  name: Out Of/Into
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 22572c69-86e7-49d2-ba8e-4087274c4126
+    name: Kindred Spirits
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 897b9986-e9ce-4b0f-ac4a-2c3d1251bf0f
+    name: Out Of/Into
 biography_enhanced_at: '2026-01-06T02:02:46.663476'
 birth_date: '1984-05-11'
 birth_place: Utrecht
@@ -18,48 +18,49 @@ disambiguation: Netherlands-born jazz pianist
 enhancement_provider: perplexity
 entry_created: '2026-01-06T02:02:46.663482'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/795071f0-f110-41c8-aaee-f5ea7f460a4d
-  spotify: https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8
-  wikipedia: https://en.wikipedia.org/wiki/Gerald_Clayton
+  musicbrainz: 'https://musicbrainz.org/artist/795071f0-f110-41c8-aaee-f5ea7f460a4d'
+  spotify: 'https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8'
+  wikipedia: 'https://en.wikipedia.org/wiki/Gerald_Clayton'
 gender: Male
 genres:
-- jazz
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/gerald_clayton.jpg
 instruments:
-- piano
+  - piano
 last_updated: '2026-01-06T02:02:46.663482'
 musical_connections:
   collaborators:
-  - John Clayton
-  - Terence Blanchard
-  - Roy Hargrove
+    - John Clayton
+    - Terence Blanchard
+    - Roy Hargrove
   influenced: []
   mentors:
-  - Kenny Barron
-  - Billy Childs
-  - Shelly Berg
+    - Kenny Barron
+    - Billy Childs
+    - Shelly Berg
 musicbrainz_id: 795071f0-f110-41c8-aaee-f5ea7f460a4d
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- http://geraldclayton.com/biography
-- https://bnatural.nyc/artists/gerald-clayton/
-- https://www.bluenote.com/artist/gerald-clayton/
-- https://chicagopresents.uchicago.edu/people/gerald-clayton
-- https://www.everythingjazz.com/story/gerald-clayton-ones-and-twos/
-- https://en.wikipedia.org/wiki/Gerald_Clayton
-- https://www.yamaha.com/artists/artistdetailb.html?CNTID=5817104&CTID=5070220
+  - 'http://geraldclayton.com/biography'
+  - 'https://bnatural.nyc/artists/gerald-clayton/'
+  - 'https://www.bluenote.com/artist/gerald-clayton/'
+  - 'https://chicagopresents.uchicago.edu/people/gerald-clayton'
+  - 'https://www.everythingjazz.com/story/gerald-clayton-ones-and-twos/'
+  - 'https://en.wikipedia.org/wiki/Gerald_Clayton'
+  - 'https://www.yamaha.com/artists/artistdetailb.html?CNTID=5817104&CTID=5070220'
 spotify_data:
   followers: 31208
   id: 5mYw31MXiGnqTMliAcl7m8
   popularity: 40
-  url: https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8
+  url: 'https://open.spotify.com/artist/5mYw31MXiGnqTMliAcl7m8'
 status: active
 tags:
-- contemporary jazz
-- jazz
-- jazz fusion
+  - contemporary jazz
+  - jazz
+  - jazz fusion
 title: Gerald Clayton
+origin: 'Los Angeles, California, United States'
 ---
 
 ![](gerald_clayton.jpg)

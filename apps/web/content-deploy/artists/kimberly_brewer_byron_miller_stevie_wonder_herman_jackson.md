@@ -1,14 +1,15 @@
 ---
-title: Kimberly Brewer, Byron Miller, Stevie Wonder, Herman Jackson
+title: 'Kimberly Brewer, Byron Miller, Stevie Wonder, Herman Jackson'
 wiki_slug: kimberly-brewer-byron-miller-stevie-wonder-herman-jackson
 schema_version: 2
 status: active
 genres:
-- smooth jazz
-- jazz funk
+  - smooth jazz
+  - jazz funk
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/kimberly_brewer_byron_miller_stevie_wonder_herman_jackson.jpg
-  caption: Kimberly Brewer, Byron Miller, Stevie Wonder, Herman Jackson
+  image: >-
+    03_Resources/source_material/ArtistPortraits/kimberly_brewer_byron_miller_stevie_wonder_herman_jackson.jpg
+  caption: 'Kimberly Brewer, Byron Miller, Stevie Wonder, Herman Jackson'
   background: solo_singer
 audio_profile:
   tempo_avg: 104.3
@@ -25,45 +26,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Stevie Wonder
-  - Byron Miller
-  - Herman Jackson
+    - Stevie Wonder
+    - Byron Miller
+    - Herman Jackson
   influenced: []
   mentors: []
 spotify_data:
   followers: 4965
   id: 7xIWaSpdL5oIEZw5QCZ84Y
   popularity: 31
-  url: https://open.spotify.com/artist/7xIWaSpdL5oIEZw5QCZ84Y
+  url: 'https://open.spotify.com/artist/7xIWaSpdL5oIEZw5QCZ84Y'
 discography_enriched: true
 top_tracks:
-- The B Spot (The Gift Psychobass2)
-- U Must Be Crazy (feat. David T Walker) (U Must Be Crazy (feat. David T Walker))
-- We'er Strolling (Psycho Bass)
-- Soldier of the Groove (The Gift Psychobass2)
-- Real Love (Real Love)
-- Better Day's Are Coming (Better Day's Are Coming)
-- To the Floor (To the Floor)
-- Love on the Run (Love on the Run)
-- It's in Your Eyes (Psycho Bass)
-- Apple & Oranges (Psycho Bass)
+  - The B Spot (The Gift Psychobass2)
+  - >-
+    U Must Be Crazy (feat. David T Walker) (U Must Be Crazy (feat. David T
+    Walker))
+  - We'er Strolling (Psycho Bass)
+  - Soldier of the Groove (The Gift Psychobass2)
+  - Real Love (Real Love)
+  - Better Day's Are Coming (Better Day's Are Coming)
+  - To the Floor (To the Floor)
+  - Love on the Run (Love on the Run)
+  - It's in Your Eyes (Psycho Bass)
+  - Apple & Oranges (Psycho Bass)
 external_urls:
-  spotify: https://open.spotify.com/artist/7xIWaSpdL5oIEZw5QCZ84Y
+  spotify: 'https://open.spotify.com/artist/7xIWaSpdL5oIEZw5QCZ84Y'
   wikipedia: ''
-image_path: 03_Resources/source_material/ArtistPortraits/kimberly_brewer_byron_miller_stevie_wonder_herman_jackson.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/kimberly_brewer_byron_miller_stevie_wonder_herman_jackson.jpg
 biography_enhanced_at: '2025-12-22T01:51:25.785687'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://smoothjazzlife.wordpress.com/2022/02/05/kimberly-brewer-no-more-pain/
-- https://www.shazam.com/en-us/artist/byron-miller/14954329
-- https://qjam.com/creator/kimberly
-- https://music.apple.com/us/artist/herman-jackson/31223056
-- https://www.reverbnation.com/byronmillerpsychobass/song/24606174-hearts-horizing
+  - >-
+    https://smoothjazzlife.wordpress.com/2022/02/05/kimberly-brewer-no-more-pain/
+  - 'https://www.shazam.com/en-us/artist/byron-miller/14954329'
+  - 'https://qjam.com/creator/kimberly'
+  - 'https://music.apple.com/us/artist/herman-jackson/31223056'
+  - >-
+    https://www.reverbnation.com/byronmillerpsychobass/song/24606174-hearts-horizing
 network_extracted: true
 entry_created: '2025-12-22T01:51:25.785695'
 last_updated: '2025-12-23T08:16:11.373331'
 origin: United States (American artists)
+artist_type: band
 ---
 
 ![](kimberly_brewer_byron_miller_stevie_wonder_herman_jackson.jpg)

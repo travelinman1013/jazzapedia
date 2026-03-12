@@ -1,11 +1,11 @@
 ---
-title: MIKE PEGGY AND PENNY SEEGER
+title: Mike Peggy and Penny Seeger
 wiki_slug: mike-peggy-and-penny-seeger
 schema_version: 2
 status: active
 genres:
-- folk
-- gothic country
+  - folk
+  - gothic country
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/mike_peggy_and_penny_seeger.jpg
   caption: MIKE PEGGY AND PENNY SEEGER
@@ -25,54 +25,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John Cohen
-  - Tom Paley
-  - Tracy Schwarz
-  - Ewan MacColl
-  - Barbara Seeger
+    - John Cohen
+    - Tom Paley
+    - Tracy Schwarz
+    - Ewan MacColl
+    - Barbara Seeger
   influenced:
-  - Bob Dylan
-  - Countless folk musicians of subsequent generations
+    - Bob Dylan
+    - Countless folk musicians of subsequent generations
   mentors:
-  - Charles Seeger
-  - Lead Belly, Woody Guthrie, John Jacob Niles
+    - Charles Seeger
+    - 'Lead Belly, Woody Guthrie, John Jacob Niles'
 spotify_data:
   followers: 13484
   id: 0gXQn7UrpopDb2TIkmIjoU
   popularity: 29
-  url: https://open.spotify.com/artist/0gXQn7UrpopDb2TIkmIjoU
+  url: 'https://open.spotify.com/artist/0gXQn7UrpopDb2TIkmIjoU'
 discography_enriched: true
 top_tracks:
-- 'I''m Gonna Be an Engineer (Folkways Years, 1955-1992: Songs of Love and Politics)'
-- Whistle, Daughter, Whistle (Songs of Courting and Complaint)
-- The Butcher Boy (Songs of Courting and Complaint)
-- Slow
-- 'Song of Choice (Folkways Years, 1955-1992: Songs of Love and Politics)'
-- The Chickens They Are Crowing
-- When I Was Single (Songs of Courting and Complaint)
-- The Wagoner's Lad (Songs of Courting and Complaint)
-- Ye Jacobites by Name (The Jacobite Rebellions)
-- When First Unto This Country a Stranger I Came (Songs of Courting and Complaint)
+  - >-
+    I'm Gonna Be an Engineer (Folkways Years, 1955-1992: Songs of Love and
+    Politics)
+  - 'Whistle, Daughter, Whistle (Songs of Courting and Complaint)'
+  - The Butcher Boy (Songs of Courting and Complaint)
+  - Slow
+  - 'Song of Choice (Folkways Years, 1955-1992: Songs of Love and Politics)'
+  - The Chickens They Are Crowing
+  - When I Was Single (Songs of Courting and Complaint)
+  - The Wagoner's Lad (Songs of Courting and Complaint)
+  - Ye Jacobites by Name (The Jacobite Rebellions)
+  - >-
+    When First Unto This Country a Stranger I Came (Songs of Courting and
+    Complaint)
 external_urls:
-  spotify: https://open.spotify.com/artist/0gXQn7UrpopDb2TIkmIjoU
-  wikipedia: https://en.wikipedia.org/wiki/Mike_Seeger
+  spotify: 'https://open.spotify.com/artist/0gXQn7UrpopDb2TIkmIjoU'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mike_Seeger'
 image_path: 03_Resources/source_material/ArtistPortraits/mike_peggy_and_penny_seeger.jpg
 biography_enhanced_at: '2025-12-22T01:37:36.521277'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- EBSCO Research Starters - Mike Seeger
-- 'Smithsonian Folkways Recordings - Mike Seeger: American Folk Revivalist and Historian'
-- Smithsonian Folkways Recordings - Peggy Seeger
-- Sing Out! - Folk and Old-Time Music Revival Pioneer Mike Seeger Passes
-- Wikipedia - Mike Seeger
-- 'UNC Libraries - Mike Seeger Research Guide: Seeger Family Influence'
-- Wikipedia - Peggy Seeger
+  - EBSCO Research Starters - Mike Seeger
+  - >-
+    Smithsonian Folkways Recordings - Mike Seeger: American Folk Revivalist and
+    Historian
+  - Smithsonian Folkways Recordings - Peggy Seeger
+  - Sing Out! - Folk and Old-Time Music Revival Pioneer Mike Seeger Passes
+  - Wikipedia - Mike Seeger
+  - 'UNC Libraries - Mike Seeger Research Guide: Seeger Family Influence'
+  - Wikipedia - Peggy Seeger
 network_extracted: true
 entry_created: '2025-12-22T01:37:36.521283'
 last_updated: '2025-12-23T08:16:13.149366'
-origin: New York, New York, United States (birthplace for Mike and Peggy; grew up in Washington, D.C.)
-
+origin: >-
+  New York, New York, United States (birthplace for Mike and Peggy; grew up in
+  Washington, D.C.)
+artist_type: band
 ---
 
 ![](mike_peggy_and_penny_seeger.jpg)

@@ -3,14 +3,14 @@ title: Cameron Graves
 wiki_slug: cameron-graves
 schema_version: 2
 status: active
-birth_place: Los Angeles, California, United States
+birth_place: 'Los Angeles, California, United States'
 genres:
-- jazz fusion
+  - jazz fusion
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/cameron_graves.jpg
   caption: Cameron Graves
   background: solo_singer
-  origin: Los Angeles, California, United States
+  origin: 'Los Angeles, California, United States'
 audio_profile:
   tempo_avg: 116.8
   energy_avg: 0.698
@@ -26,54 +26,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kamasi Washington
-  - Ryan Porter
-  - Stephen 'Thundercat' Bruner
-  - Ronald Bruner Jr.
-  - Philip Dizack
-  - Hadrien Feraud
-  - Stanley Clarke
-  - Taylor Graves
+    - Kamasi Washington
+    - Ryan Porter
+    - Stephen 'Thundercat' Bruner
+    - Ronald Bruner Jr.
+    - Philip Dizack
+    - Hadrien Feraud
+    - Stanley Clarke
+    - Taylor Graves
   influenced: []
   mentors:
-  - Father (unnamed)
-  - John Coltrane
+    - Father (unnamed)
+    - John Coltrane
 spotify_data:
   followers: 7423
   id: 6ivVgdQ8qi5Tu2pc1zeVKP
   popularity: 9
-  url: https://open.spotify.com/artist/6ivVgdQ8qi5Tu2pc1zeVKP
+  url: 'https://open.spotify.com/artist/6ivVgdQ8qi5Tu2pc1zeVKP'
 discography_enriched: true
 top_tracks:
-- Sons of Creation (Seven)
-- Red (Seven)
-- Planetary Prince (Planetary Prince)
-- Sacred Spheres - Live (Live from the Seven Spheres)
-- Satania Our Solar System (Planetary Prince)
-- The End of Corporatism (Planetary Prince)
-- Sacred Spheres (Seven)
-- El Diablo (Planetary Prince)
-- Adam & Eve (Planetary Prince)
-- 'Fixing A Hole (A Day In The Life: Impressions Of Pepper)'
+  - Sons of Creation (Seven)
+  - Red (Seven)
+  - Planetary Prince (Planetary Prince)
+  - Sacred Spheres - Live (Live from the Seven Spheres)
+  - Satania Our Solar System (Planetary Prince)
+  - The End of Corporatism (Planetary Prince)
+  - Sacred Spheres (Seven)
+  - El Diablo (Planetary Prince)
+  - Adam & Eve (Planetary Prince)
+  - 'Fixing A Hole (A Day In The Life: Impressions Of Pepper)'
 external_urls:
-  spotify: https://open.spotify.com/artist/6ivVgdQ8qi5Tu2pc1zeVKP
+  spotify: 'https://open.spotify.com/artist/6ivVgdQ8qi5Tu2pc1zeVKP'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/cameron_graves.jpg
 biography_enhanced_at: '2025-12-04T07:45:45.257320'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Last.fm - Cameron Graves Biography
-- All About Jazz - Cameron Graves Musician
-- SFJazz - Cameron Graves
-- Urantia Artisans - Cameron Graves
-- Jazz Views - Cameron Graves Seven
-- Purdue Convocations - Cameron Graves' Musical Influences
-- Detroit Jazz Fest - Cameron Graves
-- 'JazzTimes - Cameron Graves: L.A. Steel'
+  - Last.fm - Cameron Graves Biography
+  - All About Jazz - Cameron Graves Musician
+  - SFJazz - Cameron Graves
+  - Urantia Artisans - Cameron Graves
+  - Jazz Views - Cameron Graves Seven
+  - Purdue Convocations - Cameron Graves' Musical Influences
+  - Detroit Jazz Fest - Cameron Graves
+  - 'JazzTimes - Cameron Graves: L.A. Steel'
 network_extracted: true
 entry_created: '2025-12-04T07:45:45.257333'
 last_updated: '2025-12-23T08:16:06.324638'
+artist_type: person
 ---
 
 ![](cameron_graves.jpg)

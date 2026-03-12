@@ -1,27 +1,27 @@
 ---
-title: STAN GETZ
+title: Stan Getz
 wiki_slug: stan-getz
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1927-02-02'
-birth_place: Philadelphia, Pennsylvania, United States
+birth_place: 'Philadelphia, Pennsylvania, United States'
 death_date: '1991-06-06'
 genres:
-- bossa nova
-- jazz
-- brazilian jazz
-- cool jazz
-- latin jazz
+  - bossa nova
+  - jazz
+  - brazilian jazz
+  - cool jazz
+  - latin jazz
 instruments:
-- eponymous
-- tenor saxophone
+  - eponymous
+  - tenor saxophone
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/STAN_GETZ.jpg
   caption: STAN GETZ
   background: non_vocal_instrumentalist
   born: '1927-02-02'
-  origin: Philadelphia, Pennsylvania, United States
+  origin: 'Philadelphia, Pennsylvania, United States'
   died: '1991-06-06'
 audio_profile:
   tempo_avg: 113.6
@@ -38,47 +38,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Woody Herman
-  - João Gilberto
-  - Antônio Carlos Jobim
-  - Charlie Byrd
-  - Gary Burton
-  - Kenny Barron
+    - Woody Herman
+    - João Gilberto
+    - Antônio Carlos Jobim
+    - Charlie Byrd
+    - Gary Burton
+    - Kenny Barron
   influenced:
-  - Michael Brecker
-  - Joshua Redman
-  - Diane Schuur
+    - Michael Brecker
+    - Joshua Redman
+    - Diane Schuur
   mentors:
-  - Lester Young
+    - Lester Young
 spotify_data:
   followers: 534212
   id: 0FMucZsEnCxs5pqBjHjIc8
   popularity: 64
-  url: https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8
+  url: 'https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8'
 discography_enriched: true
 top_tracks:
-- The Girl From Ipanema (Getz/Gilberto (Expanded Edition))
-- Corcovado (Quiet Nights Of Quiet Stars) (Getz/Gilberto (Expanded Edition))
-- Só Danço Samba (Jazz Samba Encore!)
-- The Girl From Ipanema - Single Version (Getz/Gilberto (Expanded Edition))
-- Para Machuchar Meu Coracao (Getz/Gilberto (Expanded Edition))
-- Corcovado (Quiet Nights Of Quiet Stars) - Single Version (Getz/Gilberto (Expanded Edition))
-- Desafinado (Getz/Gilberto (Expanded Edition))
-- A Nightingale Sang In Berkeley Square (Recorded Fall '61)
-- The Girl From Ipanema (The Girl From Ipanema - The Bossa Nova Years)
-- But Beautiful (Stan Getz & Bill Evans)
+  - The Girl From Ipanema (Getz/Gilberto (Expanded Edition))
+  - Corcovado (Quiet Nights Of Quiet Stars) (Getz/Gilberto (Expanded Edition))
+  - Só Danço Samba (Jazz Samba Encore!)
+  - The Girl From Ipanema - Single Version (Getz/Gilberto (Expanded Edition))
+  - Para Machuchar Meu Coracao (Getz/Gilberto (Expanded Edition))
+  - >-
+    Corcovado (Quiet Nights Of Quiet Stars) - Single Version (Getz/Gilberto
+    (Expanded Edition))
+  - Desafinado (Getz/Gilberto (Expanded Edition))
+  - A Nightingale Sang In Berkeley Square (Recorded Fall '61)
+  - The Girl From Ipanema (The Girl From Ipanema - The Bossa Nova Years)
+  - But Beautiful (Stan Getz & Bill Evans)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8f2422ab-0ec6-4c92-80c4-afe9622fab32
-  spotify: https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8
-  wikipedia: https://en.wikipedia.org/wiki/Stan_Getz
+  musicbrainz: 'https://musicbrainz.org/artist/8f2422ab-0ec6-4c92-80c4-afe9622fab32'
+  spotify: 'https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8'
+  wikipedia: 'https://en.wikipedia.org/wiki/Stan_Getz'
 image_path: 03_Resources/source_material/ArtistPortraits/STAN_GETZ.jpg
 biography_enhanced_at: '2025-10-20T01:56:30.305031'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Stan_Getz
-- https://www.jazzstandards.com/biographies/biography_2445.htm
-- https://www.philadelphiamusicalliance.org/walk-of-fame/stan-getz/
+  - 'https://en.wikipedia.org/wiki/Stan_Getz'
+  - 'https://www.jazzstandards.com/biographies/biography_2445.htm'
+  - 'https://www.philadelphiamusicalliance.org/walk-of-fame/stan-getz/'
 network_extracted: true
 entry_created: '2025-10-20T01:56:30.305053'
 last_updated: '2025-12-23T08:16:03.805451'
@@ -86,9 +88,11 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:42:53.161133'
 musicbrainz_id: 8f2422ab-0ec6-4c92-80c4-afe9622fab32
 tags:
-- avant-garde jazz
-- bebop
-- bossa nova
+  - avant-garde jazz
+  - bebop
+  - bossa nova
+is_active: false
+origin: 'Bronx, New York, United States'
 ---
 
 ![](STAN_GETZ.jpg)

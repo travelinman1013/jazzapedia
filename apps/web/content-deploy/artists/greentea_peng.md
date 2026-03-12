@@ -2,52 +2,59 @@
 artist_type: person
 biography_enhanced_at: '2025-12-31T01:45:37.625476'
 birth_date: '1995'
-birth_place: London
+birth_place: 'Bermondsey, South London, England'
 enhancement_provider: perplexity
 entry_created: '2025-12-31T01:45:37.625482'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2443a94a-03a6-4f0e-a369-ecda74af1c9f
-  spotify: https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K
+  musicbrainz: 'https://musicbrainz.org/artist/2443a94a-03a6-4f0e-a369-ecda74af1c9f'
+  spotify: 'https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K'
   wikipedia: ''
 gender: Female
 genres:
-- alternative r&b
-- neo soul
+  - alternative r&b
+  - neo soul
 image_path: 03_Resources/source_material/ArtistPortraits/greentea_peng.jpg
 last_updated: '2025-12-31T01:45:37.625483'
 musical_connections:
   collaborators:
-  - Earbuds
-  - KESH
-  - Lord Apex
+    - Earbuds
+    - KESH
+    - Lord Apex
   influenced: []
   mentors:
-  - Father (unnamed actor)
-  - Stepfather Jim
+    - Father (unnamed actor)
+    - Stepfather Jim
 musicbrainz_id: 2443a94a-03a6-4f0e-a369-ecda74af1c9f
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://firebirdmagazine.com/music-you-need-to-know/greentea-peng [1]
-- https://www.last.fm/music/Greentea+Peng/+wiki [2]
-- https://kids.kiddle.co/Greentea_Peng [3]
-- https://www.michaelvalentinestudio.com/soul_other/greentea_peng/index.php [4]
-- https://basementapproved.com/music/greentea-peng-an-ode-to-the-city-she-loves/ [5]
-- https://today.rtl.lu/culture/music/slow-burning-east-london-soul-star-should-be-bigger-than-she-is-2289065
-  [6]
-- https://www.blackhistorymonth.org.uk/article/listings/region/lambeth/greentea-peng-lord-apex/
-  [7]
+  - 'https://firebirdmagazine.com/music-you-need-to-know/greentea-peng [1]'
+  - 'https://www.last.fm/music/Greentea+Peng/+wiki [2]'
+  - 'https://kids.kiddle.co/Greentea_Peng [3]'
+  - >-
+    https://www.michaelvalentinestudio.com/soul_other/greentea_peng/index.php
+    [4]
+  - >-
+    https://basementapproved.com/music/greentea-peng-an-ode-to-the-city-she-loves/
+    [5]
+  - >-
+    https://today.rtl.lu/culture/music/slow-burning-east-london-soul-star-should-be-bigger-than-she-is-2289065
+    [6]
+  - >-
+    https://www.blackhistorymonth.org.uk/article/listings/region/lambeth/greentea-peng-lord-apex/
+    [7]
 spotify_data:
   followers: 459020
   id: 5z9wLR0RGBcWMXr4fCZW0K
   popularity: 56
-  url: https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K
+  url: 'https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K'
 status: active
 tags:
-- alternative r&b
-- contemporary r&b
-- neo soul
+  - alternative r&b
+  - contemporary r&b
+  - neo soul
 title: Greentea Peng
+origin: 'London, England'
 ---
 
 ![](greentea_peng.jpg)

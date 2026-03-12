@@ -3,16 +3,16 @@ title: Christone Kingfish Ingram
 wiki_slug: christone-kingfish-ingram
 schema_version: 2
 status: active
-birth_place: Clarksdale, Mississippi, United States
+birth_place: 'Clarksdale, Mississippi, United States'
 genres:
-- blues
-- modern blues
-- blues rock
+  - blues
+  - modern blues
+  - blues rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/christone_kingfish_ingram.jpg
   caption: Christone Kingfish Ingram
   background: solo_singer
-  origin: Clarksdale, Mississippi, United States
+  origin: 'Clarksdale, Mississippi, United States'
 audio_profile:
   tempo_avg: 123.2
   energy_avg: 0.646
@@ -28,50 +28,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Vampire Weekend
-  - Jason Isbell
-  - Steve Miller
+    - Vampire Weekend
+    - Jason Isbell
+    - Steve Miller
   influenced:
-  - Emerging Delta blues musicians
+    - Emerging Delta blues musicians
   mentors:
-  - Buddy Guy
-  - Tom Hambridge
-  - Delta Blues Museum teachers
+    - Buddy Guy
+    - Tom Hambridge
+    - Delta Blues Museum teachers
 spotify_data:
   followers: 236045
   id: 5jMGnqJkgPaiJzwy5bOcYX
   popularity: 50
-  url: https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX
+  url: 'https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX'
 discography_enriched: true
 top_tracks:
-- Outside Of This Town (Kingfish)
-- Believe These Blues (Kingfish)
-- It Ain't Right (Kingfish)
-- Hard Times (Kingfish)
-- Fresh Out (Kingfish)
-- That's What You Do (662)
-- Been Here Before (Kingfish)
-- 662 (662)
-- Listen (Kingfish)
-- Before I'm Old (Kingfish)
+  - Outside Of This Town (Kingfish)
+  - Believe These Blues (Kingfish)
+  - It Ain't Right (Kingfish)
+  - Hard Times (Kingfish)
+  - Fresh Out (Kingfish)
+  - That's What You Do (662)
+  - Been Here Before (Kingfish)
+  - 662 (662)
+  - Listen (Kingfish)
+  - Before I'm Old (Kingfish)
 external_urls:
-  spotify: https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX
-  wikipedia: https://en.wikipedia.org/wiki/Christone_%22Kingfish%22_Ingram
+  spotify: 'https://open.spotify.com/artist/5jMGnqJkgPaiJzwy5bOcYX'
+  wikipedia: 'https://en.wikipedia.org/wiki/Christone_%22Kingfish%22_Ingram'
 image_path: 03_Resources/source_material/ArtistPortraits/christone_kingfish_ingram.jpg
 biography_enhanced_at: '2025-11-14T10:52:14.178092'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Christone_%22Kingfish%22_Ingram
-- https://www.thefactorystl.com/artist/christone-kingfish-ingram/
-- https://www.premierguitar.com/features/artist-features/kingfish-maps-a-modern-blues-journey
-- https://alanpaul.substack.com/p/the-future-of-the-blues-an-interview
-- https://reunionblues.com/pages/christone-kingfish-ingram
-- https://www.christonekingfishingram.com
-- https://www.cainsballroom.com/q-a-with-christone-kingfish-ingram/
+  - 'https://en.wikipedia.org/wiki/Christone_%22Kingfish%22_Ingram'
+  - 'https://www.thefactorystl.com/artist/christone-kingfish-ingram/'
+  - >-
+    https://www.premierguitar.com/features/artist-features/kingfish-maps-a-modern-blues-journey
+  - 'https://alanpaul.substack.com/p/the-future-of-the-blues-an-interview'
+  - 'https://reunionblues.com/pages/christone-kingfish-ingram'
+  - 'https://www.christonekingfishingram.com'
+  - 'https://www.cainsballroom.com/q-a-with-christone-kingfish-ingram/'
 network_extracted: true
 entry_created: '2025-11-14T10:52:14.178103'
 last_updated: '2025-12-23T08:16:06.942315'
+birth_date: '1999-01-19'
+artist_type: person
 ---
 
 ![](christone_kingfish_ingram.jpg)

@@ -1,15 +1,16 @@
 ---
-title: Chrissie Hynde, Kassin, Moreno Veloso, Domenico
+title: 'Chrissie Hynde, Kassin, Moreno Veloso, Domenico'
 wiki_slug: chrissie-hynde-kassin-moreno-veloso-domenico
 schema_version: 2
 status: active
-birth_place: Akron, Ohio, United States
+birth_place: 'Akron, Ohio, United States'
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/chrissie_hynde_kassin_moreno_veloso_domenico.jpg
-  caption: Chrissie Hynde, Kassin, Moreno Veloso, Domenico
+  image: >-
+    03_Resources/source_material/ArtistPortraits/chrissie_hynde_kassin_moreno_veloso_domenico.jpg
+  caption: 'Chrissie Hynde, Kassin, Moreno Veloso, Domenico'
   background: solo_singer
-  origin: Akron, Ohio, United States
+  origin: 'Akron, Ohio, United States'
 audio_profile:
   tempo_avg: 114.7
   energy_avg: 0.596
@@ -25,45 +26,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Pete Farndon, James Honeyman-Scott, Martin Chambers
-  - Moreno Veloso, Alexandre Kassin, Domenico Lancellotti
+    - 'Pete Farndon, James Honeyman-Scott, Martin Chambers'
+    - 'Moreno Veloso, Alexandre Kassin, Domenico Lancellotti'
   influenced:
-  - The Black Keys
+    - The Black Keys
   mentors:
-  - Caetano Veloso
+    - Caetano Veloso
 spotify_data:
   followers: 2492
   id: 1pRY0BbjvkboNNQduT3icz
   popularity: 7
-  url: https://open.spotify.com/artist/1pRY0BbjvkboNNQduT3icz
+  url: 'https://open.spotify.com/artist/1pRY0BbjvkboNNQduT3icz'
 discography_enriched: true
 top_tracks:
-- Tranquilo (Super Stereo Sound System) (Futurismo)
-- Tranquilo (Super Stereo Sound System) (Futurismo)
-- O Seu Lugar (Futurismo)
-- Agua (Futurismo)
-- Quando Nara ri (Futurismo)
-- Futurismo (Futurismo)
-- Bow Road (Futurismo)
-- Esquecido (Futurismo)
-- Pra Lembrar (Futurismo)
-- Samba Machine (Futurismo)
+  - Tranquilo (Super Stereo Sound System) (Futurismo)
+  - Tranquilo (Super Stereo Sound System) (Futurismo)
+  - O Seu Lugar (Futurismo)
+  - Agua (Futurismo)
+  - Quando Nara ri (Futurismo)
+  - Futurismo (Futurismo)
+  - Bow Road (Futurismo)
+  - Esquecido (Futurismo)
+  - Pra Lembrar (Futurismo)
+  - Samba Machine (Futurismo)
 external_urls:
-  spotify: https://open.spotify.com/artist/1pRY0BbjvkboNNQduT3icz
-  wikipedia: https://en.wikipedia.org/wiki/Chrissie_Hynde
-image_path: 03_Resources/source_material/ArtistPortraits/chrissie_hynde_kassin_moreno_veloso_domenico.jpg
+  spotify: 'https://open.spotify.com/artist/1pRY0BbjvkboNNQduT3icz'
+  wikipedia: 'https://en.wikipedia.org/wiki/Chrissie_Hynde'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/chrissie_hynde_kassin_moreno_veloso_domenico.jpg
 biography_enhanced_at: '2025-11-10T03:38:24.701763'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Chrissie+Hynde/+wiki
-- https://en.wikipedia.org/wiki/Chrissie_Hynde
-- https://chrissiehynde.com/journal/
-- https://secondhandsongs.com/artist/451/all
-- https://www.slipcue.com/music/brazil/veloso_00-best.html
+  - 'https://www.last.fm/music/Chrissie+Hynde/+wiki'
+  - 'https://en.wikipedia.org/wiki/Chrissie_Hynde'
+  - 'https://chrissiehynde.com/journal/'
+  - 'https://secondhandsongs.com/artist/451/all'
+  - 'https://www.slipcue.com/music/brazil/veloso_00-best.html'
 network_extracted: true
 entry_created: '2025-11-10T03:38:24.701778'
 last_updated: '2025-12-23T08:16:06.916490'
+birth_date: '1951'
+artist_type: band
 ---
 
 ![](chrissie_hynde_kassin_moreno_veloso_domenico.jpg)

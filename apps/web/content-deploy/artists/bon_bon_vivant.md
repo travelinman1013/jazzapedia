@@ -1,5 +1,5 @@
 ---
-title: bon bon vivant
+title: Bon Bon Vivant
 wiki_slug: bon-bon-vivant
 schema_version: 2
 status: active
@@ -23,50 +23,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Abigail Cosio
-  - Jeremy Kelley
-  - Glori Cosio
-  - Ry D’Antonio
-  - Ryan Brown
-  - Mike Robbins
+    - Abigail Cosio
+    - Jeremy Kelley
+    - Glori Cosio
+    - Ry D’Antonio
+    - Ryan Brown
+    - Mike Robbins
   influenced: []
   mentors:
-  - New Orleans music tradition
+    - New Orleans music tradition
 spotify_data:
   followers: 3736
   id: 1wL3gR4r5jSGqWfebtJqa6
   popularity: 7
-  url: https://open.spotify.com/artist/1wL3gR4r5jSGqWfebtJqa6
+  url: 'https://open.spotify.com/artist/1wL3gR4r5jSGqWfebtJqa6'
 discography_enriched: true
 top_tracks:
-- Sin Eater (Sin Eater)
-- Lady Luck (Paint & Pageantry)
-- Lost Soul (Paint & Pageantry)
-- Ship Is Sinking (Dancing in the Darkness)
-- Last Night's Glitter (Last Night's Glitter)
-- Hard Way of Livin When Youre Dead (Paint & Pageantry)
-- Rio Grande (Paint & Pageantry)
-- Be Bayou (If Ever I Cease To Love)
-- Casey Jones (Dancing in the Darkness)
-- Dancing in the Darkness (Dancing in the Darkness)
+  - Sin Eater (Sin Eater)
+  - Lady Luck (Paint & Pageantry)
+  - Lost Soul (Paint & Pageantry)
+  - Ship Is Sinking (Dancing in the Darkness)
+  - Last Night's Glitter (Last Night's Glitter)
+  - Hard Way of Livin When Youre Dead (Paint & Pageantry)
+  - Rio Grande (Paint & Pageantry)
+  - Be Bayou (If Ever I Cease To Love)
+  - Casey Jones (Dancing in the Darkness)
+  - Dancing in the Darkness (Dancing in the Darkness)
 external_urls:
-  spotify: https://open.spotify.com/artist/1wL3gR4r5jSGqWfebtJqa6
+  spotify: 'https://open.spotify.com/artist/1wL3gR4r5jSGqWfebtJqa6'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/bon_bon_vivant.jpg
 biography_enhanced_at: '2025-10-19T10:35:31.555655'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.americanbluesscene.com/2017/08/bon-bon-vivant-delightful-slice-of-new-orleans/
-- https://glidemagazine.com/313150/song-premiere-bon-bon-vivant-create-mysterious-vivacious-gypsy-jazz-charm-onsin-eater/
-- https://www.gallatinstreetrecords.org/artists/bon-bon-vivant
-- https://www.bonbonvivantmusic.com/about
-- https://www.positivevibrations.org/single-post/bon-bon-vivant
-- https://nolajazzmuseum.org/events/11/bon-bon-vivant
+  - >-
+    https://www.americanbluesscene.com/2017/08/bon-bon-vivant-delightful-slice-of-new-orleans/
+  - >-
+    https://glidemagazine.com/313150/song-premiere-bon-bon-vivant-create-mysterious-vivacious-gypsy-jazz-charm-onsin-eater/
+  - 'https://www.gallatinstreetrecords.org/artists/bon-bon-vivant'
+  - 'https://www.bonbonvivantmusic.com/about'
+  - 'https://www.positivevibrations.org/single-post/bon-bon-vivant'
+  - 'https://nolajazzmuseum.org/events/11/bon-bon-vivant'
 network_extracted: true
 entry_created: '2025-10-19T10:35:31.555667'
 last_updated: '2025-12-23T08:16:05.911141'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![](bon_bon_vivant.jpg)

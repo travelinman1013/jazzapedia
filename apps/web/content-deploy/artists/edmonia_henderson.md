@@ -1,17 +1,17 @@
 ---
-title: EDMONIA HENDERSON
+title: Edmonia Henderson
 wiki_slug: edmonia-henderson
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1900'
-birth_place: Jefferson County
+birth_place: 'Jefferson County, Kentucky, United States'
 death_date: '1947-02-17'
 genres:
-- classic blues
-- ragtime
+  - classic blues
+  - ragtime
 instruments:
-- contralto vocals
+  - contralto vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/edmonia_henderson.jpg
   caption: EDMONIA HENDERSON
@@ -34,56 +34,70 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jelly Roll Morton
-  - Lovie Austin
-  - Tommy Ladnier
-  - Eddie Heywood Sr.
-  - Johnny Dodds
-  - Joe Clark’s Revue (TOBA circuit)
-  - Bessie Williams, Mamie Jefferson, Baby Badge
+    - Jelly Roll Morton
+    - Lovie Austin
+    - Tommy Ladnier
+    - Eddie Heywood Sr.
+    - Johnny Dodds
+    - Joe Clark’s Revue (TOBA circuit)
+    - 'Bessie Williams, Mamie Jefferson, Baby Badge'
   influenced:
-  - Not specifically documented
+    - Not specifically documented
   mentors:
-  - Not specifically documented
+    - Not specifically documented
 spotify_data:
   followers: 71
   id: 6v8QR27D9VIAGvGNqAsQ88
   popularity: 0
-  url: https://open.spotify.com/artist/6v8QR27D9VIAGvGNqAsQ88
+  url: 'https://open.spotify.com/artist/6v8QR27D9VIAGvGNqAsQ88'
 discography_enriched: true
 top_tracks:
-- Brownskin Man (Female Blues Singers Vol. 9 H (1923-1930))
-- Brown Skin Man (Meaning In The Blues Volume One)
-- Brown Skin Man (Tommy Ladnier Plays The Blues)
-- Travelling Blues (Tommy Ladnier Plays The Blues)
-- Worried 'Bout Him Blues (Tommy Ladnier Plays The Blues)
-- Black Man Blues (Tommy Ladnier Plays The Blues)
-- Georgia Grind (Jelly Roll Morton Rarities)
-- Dead Man Blues (Jelly Roll Morton Rarities)
-- Brownskin Man (Take 2) (Classic Blues, Jazz And Vaudeville Singers Vol. 3 (1922-1927))
-- Jelly Roll Blues (Johnny Dodds on Paramount)
+  - Brownskin Man (Female Blues Singers Vol. 9 H (1923-1930))
+  - Brown Skin Man (Meaning In The Blues Volume One)
+  - Brown Skin Man (Tommy Ladnier Plays The Blues)
+  - Travelling Blues (Tommy Ladnier Plays The Blues)
+  - Worried 'Bout Him Blues (Tommy Ladnier Plays The Blues)
+  - Black Man Blues (Tommy Ladnier Plays The Blues)
+  - Georgia Grind (Jelly Roll Morton Rarities)
+  - Dead Man Blues (Jelly Roll Morton Rarities)
+  - >-
+    Brownskin Man (Take 2) (Classic Blues, Jazz And Vaudeville Singers Vol. 3
+    (1922-1927))
+  - Jelly Roll Blues (Johnny Dodds on Paramount)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/acd39aa2-4be8-4e9e-a9f9-648e7b0d19a2
-  spotify: https://open.spotify.com/artist/6v8QR27D9VIAGvGNqAsQ88
-  wikipedia: No stable English‑language Wikipedia page located; biographical text frequently quoted online is attributed to
-    a now‑defunct or unspecific Wikipedia entry.[1][2][4]
+  musicbrainz: 'https://musicbrainz.org/artist/acd39aa2-4be8-4e9e-a9f9-648e7b0d19a2'
+  spotify: 'https://open.spotify.com/artist/6v8QR27D9VIAGvGNqAsQ88'
+  wikipedia: >-
+    No stable English‑language Wikipedia page located; biographical text
+    frequently quoted online is attributed to a now‑defunct or unspecific
+    Wikipedia entry.[1][2][4]
 image_path: 03_Resources/source_material/ArtistPortraits/edmonia_henderson.jpg
 biography_enhanced_at: '2025-12-11T03:50:06.751268'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- The Syncopated Times – “Edmonia Henderson” (artist bio and sessionography).[1]
-- Blind Dog Radio – Edmonia Henderson profile with biographical details and dates.[4]
-- SecondHandSongs – artist entry for Edmonia Henderson / Jennie Katherine Edmonia Henderson.[5]
-- Last.fm – short biographical summary echoing core dates and roles.[2]
-- NamuWiki (Korean) – brief bio confirming name variants and birth information.[6]
+  - >-
+    The Syncopated Times – “Edmonia Henderson” (artist bio and
+    sessionography).[1]
+  - >-
+    Blind Dog Radio – Edmonia Henderson profile with biographical details and
+    dates.[4]
+  - >-
+    SecondHandSongs – artist entry for Edmonia Henderson / Jennie Katherine
+    Edmonia Henderson.[5]
+  - 'Last.fm – short biographical summary echoing core dates and roles.[2]'
+  - >-
+    NamuWiki (Korean) – brief bio confirming name variants and birth
+    information.[6]
 network_extracted: true
 entry_created: '2025-12-11T03:50:06.751276'
 last_updated: '2025-12-23T08:16:08.226191'
 gender: Female
 musicbrainz_id: acd39aa2-4be8-4e9e-a9f9-648e7b0d19a2
 tags:
-- vaudeville blues
+  - vaudeville blues
+is_active: false
+origin: 'Louisville, Kentucky, United States'
 ---
 
 ![](edmonia_henderson.jpg)

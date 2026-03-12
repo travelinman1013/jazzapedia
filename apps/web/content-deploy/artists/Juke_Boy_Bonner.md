@@ -2,21 +2,21 @@
 title: Juke Boy Bonner
 wiki_slug: juke-boy-bonner
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1932-03-22'
-birth_place: Bellville, Texas, United States
+birth_place: 'Bellville, Texas, United States'
 death_date: '1978-06-29'
 genres:
-- blues
-- classic blues
-- country blues
+  - blues
+  - classic blues
+  - country blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Juke_Boy_Bonner.jpg
   caption: Juke Boy Bonner
   background: solo_singer
   born: '1932-03-22'
-  origin: Bellville, Texas, United States
+  origin: 'Bellville, Texas, United States'
   died: '1978-06-29'
 audio_profile:
   tempo_avg: 120.6
@@ -25,7 +25,7 @@ audio_profile:
   danceability_avg: 0.53
   acousticness_avg: 0.677
   instrumentalness_avg: 0.11
-  loudness_avg: -10.0
+  loudness_avg: -10
   speechiness_avg: 0.049
   liveness_avg: 0.219
   track_count: 50
@@ -33,45 +33,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lafayette 'Thing' Thomas
-  - Bob Geddins
-  - Clifton Chenier
+    - Lafayette 'Thing' Thomas
+    - Bob Geddins
+    - Clifton Chenier
   influenced:
-  - Joe Hill Louis
-  - Dr. Ross
+    - Joe Hill Louis
+    - Dr. Ross
   mentors:
-  - Lightnin' Hopkins
-  - Jimmy Reed
-  - Slim Harpo
+    - Lightnin' Hopkins
+    - Jimmy Reed
+    - Slim Harpo
 spotify_data:
   followers: 2160
   id: 65w0qOwjpPKpY2VF0DMcLy
   popularity: 8
-  url: https://open.spotify.com/artist/65w0qOwjpPKpY2VF0DMcLy
+  url: 'https://open.spotify.com/artist/65w0qOwjpPKpY2VF0DMcLy'
 discography_enriched: true
 top_tracks:
-- I'm A Bluesman (The Sonet Blues Story)
-- Come To Me (The Sonet Blues Story)
-- Stay off Lyons Avenue (Life Gave Me a Dirty Deal)
-- I'm Lonely Too (The Sonet Blues Story)
-- Houston, The Action Town (Life Gave Me a Dirty Deal)
-- I'm A Bluesman (Harmonica Blues)
-- Tired Of The Greyhound Blues (The Sonet Blues Story)
-- Running Shoes (American Folk Blues Festival (69))
-- Problems All Around (The Sonet Blues Story)
-- Yammin' The Blues (The Sonet Blues Story)
+  - I'm A Bluesman (The Sonet Blues Story)
+  - Come To Me (The Sonet Blues Story)
+  - Stay off Lyons Avenue (Life Gave Me a Dirty Deal)
+  - I'm Lonely Too (The Sonet Blues Story)
+  - 'Houston, The Action Town (Life Gave Me a Dirty Deal)'
+  - I'm A Bluesman (Harmonica Blues)
+  - Tired Of The Greyhound Blues (The Sonet Blues Story)
+  - Running Shoes (American Folk Blues Festival (69))
+  - Problems All Around (The Sonet Blues Story)
+  - Yammin' The Blues (The Sonet Blues Story)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/fbed87b5-8d82-4939-a4e2-d0599a57bff5
-  spotify: https://open.spotify.com/artist/65w0qOwjpPKpY2VF0DMcLy
-  wikipedia: https://en.wikipedia.org/wiki/Juke_Boy_Bonner
+  musicbrainz: 'https://musicbrainz.org/artist/fbed87b5-8d82-4939-a4e2-d0599a57bff5'
+  spotify: 'https://open.spotify.com/artist/65w0qOwjpPKpY2VF0DMcLy'
+  wikipedia: 'https://en.wikipedia.org/wiki/Juke_Boy_Bonner'
 image_path: 03_Resources/source_material/ArtistPortraits/Juke_Boy_Bonner.jpg
 biography_enhanced_at: '2025-10-20T09:12:26.737421'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia
-- MojoHand
-- All About Jazz
+  - Wikipedia
+  - MojoHand
+  - All About Jazz
 network_extracted: true
 entry_created: '2025-10-20T09:12:26.737439'
 last_updated: '2025-12-23T08:16:02.746402'
@@ -79,8 +79,9 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:32:53.301114'
 musicbrainz_id: fbed87b5-8d82-4939-a4e2-d0599a57bff5
 tags:
-- blues
-- texas blues
+  - blues
+  - texas blues
+is_active: false
 ---
 
 ![](Juke_Boy_Bonner.jpg)

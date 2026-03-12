@@ -1,34 +1,36 @@
 ---
 biography_enhanced_at: '2026-01-09T01:54:34.015787'
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-09T01:54:34.015797'
 external_urls:
-  spotify: https://open.spotify.com/artist/493V0wZOQ6YlC63ErvvJ40
+  spotify: 'https://open.spotify.com/artist/493V0wZOQ6YlC63ErvvJ40'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/ronell_johnson.jpg
 last_updated: '2026-01-09T01:54:34.015799'
 musical_connections:
   collaborators:
-  - Preservation Hall Jazz Band
-  - Rachel Johnson
+    - Preservation Hall Jazz Band
+    - Rachel Johnson
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.offbeat.com/articles/my-music-with-ronell-johnson/
-- https://www.allaboutjazz.com/musicians/ronell-johnson
-- https://www.trombonealex.com/blog/ronell-johnson/pure-imagination
-- https://www.allmusic.com/artist/ronell-johnson-mn0001667534
+  - 'https://www.offbeat.com/articles/my-music-with-ronell-johnson/'
+  - 'https://www.allaboutjazz.com/musicians/ronell-johnson'
+  - 'https://www.trombonealex.com/blog/ronell-johnson/pure-imagination'
+  - 'https://www.allmusic.com/artist/ronell-johnson-mn0001667534'
 spotify_data:
   followers: 166
   id: 493V0wZOQ6YlC63ErvvJ40
   popularity: 3
-  url: https://open.spotify.com/artist/493V0wZOQ6YlC63ErvvJ40
+  url: 'https://open.spotify.com/artist/493V0wZOQ6YlC63ErvvJ40'
 status: active
 title: Ronell Johnson
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](ronell_johnson.jpg)

@@ -1,15 +1,16 @@
 ---
-title: Keith Jarrett, Gary Peacock & Jack DeJohnette
+title: 'Keith Jarrett, Gary Peacock & Jack DeJohnette'
 wiki_slug: keith-jarrett-gary-peacock-jack-dejohnette
 schema_version: 2
 status: active
 genres:
-- jazz
-- jazz fusion
-- free jazz
+  - jazz
+  - jazz fusion
+  - free jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/keith_jarrett_gary_peacock_and_jack_dejohnette.jpg
-  caption: Keith Jarrett, Gary Peacock & Jack DeJohnette
+  image: >-
+    03_Resources/source_material/ArtistPortraits/keith_jarrett_gary_peacock_and_jack_dejohnette.jpg
+  caption: 'Keith Jarrett, Gary Peacock & Jack DeJohnette'
   background: solo_singer
 audio_profile:
   tempo_avg: 116.1
@@ -26,47 +27,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Manfred Eicher
-  - Charles Lloyd
+    - Manfred Eicher
+    - Charles Lloyd
   influenced:
-  - Brad Mehldau
-  - Vijay Iyer
+    - Brad Mehldau
+    - Vijay Iyer
   mentors:
-  - Charles Lloyd
-  - Miles Davis
+    - Charles Lloyd
+    - Miles Davis
 spotify_data:
   followers: 48653
   id: 7rDjbKTLlpNYJRWMm7QVxU
   popularity: 43
-  url: https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU
+  url: 'https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU'
 discography_enriched: true
 top_tracks:
-- So Tender (Standards, Vol. 2)
-- Guess I'll Hang Out My Tears To Dry (My Foolish Heart)
-- One For Majid - Live (After The Fall (Live))
-- Sleepin' Bee - Live (Yesterdays)
-- Opening Day (Blue Maqams)
-- Timeless (Timeless)
-- You've Changed - Live (Yesterdays)
-- All The Things You Are (Setting Standards - The New York Sessions)
-- My Foolish Heart (My Foolish Heart)
-- Blue Maqams (Blue Maqams)
+  - 'So Tender (Standards, Vol. 2)'
+  - Guess I'll Hang Out My Tears To Dry (My Foolish Heart)
+  - One For Majid - Live (After The Fall (Live))
+  - Sleepin' Bee - Live (Yesterdays)
+  - Opening Day (Blue Maqams)
+  - Timeless (Timeless)
+  - You've Changed - Live (Yesterdays)
+  - All The Things You Are (Setting Standards - The New York Sessions)
+  - My Foolish Heart (My Foolish Heart)
+  - Blue Maqams (Blue Maqams)
 external_urls:
-  spotify: https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU
-  wikipedia: https://en.wikipedia.org/wiki/Standards,_Vol._1
-image_path: 03_Resources/source_material/ArtistPortraits/keith_jarrett_gary_peacock_and_jack_dejohnette.jpg
+  spotify: 'https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU'
+  wikipedia: 'https://en.wikipedia.org/wiki/Standards,_Vol._1'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/keith_jarrett_gary_peacock_and_jack_dejohnette.jpg
 biography_enhanced_at: '2025-11-01T15:25:35.533206'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.udiscovermusic.com/stories/keith-jarrett-gary-peacock-jack-dejohnette-standards-feature/
-- https://jazztimes.com/features/profiles/keith-jarrett-jack-dejohnette-gary-peacock-standard-bearers/
-- https://en.wikipedia.org/wiki/Standards,_Vol._1
-- https://www.keithjarrett.org
+  - >-
+    https://www.udiscovermusic.com/stories/keith-jarrett-gary-peacock-jack-dejohnette-standards-feature/
+  - >-
+    https://jazztimes.com/features/profiles/keith-jarrett-jack-dejohnette-gary-peacock-standard-bearers/
+  - 'https://en.wikipedia.org/wiki/Standards,_Vol._1'
+  - 'https://www.keithjarrett.org'
 network_extracted: true
 entry_created: '2025-11-01T15:25:35.533219'
 last_updated: '2025-12-23T08:16:11.238123'
-origin: Manhattan, New York City, New York, USA (origin of the trio's first recording session)
+origin: >-
+  Manhattan, New York City, New York, USA (origin of the trio's first recording
+  session)
+artist_type: band
 ---
 
 ![](keith_jarrett_gary_peacock_and_jack_dejohnette.jpg)

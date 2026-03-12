@@ -2,23 +2,23 @@
 title: George Harrison
 wiki_slug: george-harrison
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1943-02-24'
-birth_place: Liverpool, England, United Kingdom
+birth_place: 'Liverpool, England, United Kingdom'
 death_date: '2001-11-29'
 genres: []
 instruments:
-- guitar
-- lead vocals
-- original
-- background vocals
+  - guitar
+  - lead vocals
+  - original
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/George_Harrison.jpg
   caption: George Harrison
   background: solo_singer
   born: '1943-02-24'
-  origin: Liverpool, England, United Kingdom
+  origin: 'Liverpool, England, United Kingdom'
   died: '2001-11-29'
 audio_profile:
   tempo_avg: 119.7
@@ -35,50 +35,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John Lennon
-  - Paul McCartney
-  - Ringo Starr
-  - Eric Clapton
-  - Bob Dylan
-  - Tom Petty
-  - Jeff Lynne
+    - John Lennon
+    - Paul McCartney
+    - Ringo Starr
+    - Eric Clapton
+    - Bob Dylan
+    - Tom Petty
+    - Jeff Lynne
   influenced:
-  - Oasis
-  - Tom Petty
-  - Dhani Harrison
+    - Oasis
+    - Tom Petty
+    - Dhani Harrison
   mentors:
-  - Ravi Shankar
-  - Carl Perkins
+    - Ravi Shankar
+    - Carl Perkins
 spotify_data:
   followers: 3065335
   id: 7FIoB5PHdrMZVC3q2HE5MS
   popularity: 66
-  url: https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS
+  url: 'https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS'
 discography_enriched: true
 top_tracks:
-- My Sweet Lord (2014 Remaster) (All Things Must Pass (2014 Remaster))
-- Got My Mind Set on You (Cloud Nine)
-- Give Me Love (Give Me Peace on Earth) (Living in the Material World)
-- What Is Life (2014 Remaster) (All Things Must Pass (2014 Remaster))
-- All Things Must Pass (2014 Remaster) (All Things Must Pass (2014 Remaster))
-- If Not for You (2014 Remaster) (All Things Must Pass (2014 Remaster))
-- I Live for You (2014 Remaster) (All Things Must Pass (2014 Remaster))
-- I'd Have You Anytime (2014 Remaster) (All Things Must Pass (2014 Remaster))
-- Isn't It a Pity (2014 Remaster) (All Things Must Pass (2014 Remaster))
-- Ballad of Sir Frankie Crisp (Let It Roll) (2014 Remaster) (All Things Must Pass (2014 Remaster))
+  - My Sweet Lord (2014 Remaster) (All Things Must Pass (2014 Remaster))
+  - Got My Mind Set on You (Cloud Nine)
+  - Give Me Love (Give Me Peace on Earth) (Living in the Material World)
+  - What Is Life (2014 Remaster) (All Things Must Pass (2014 Remaster))
+  - All Things Must Pass (2014 Remaster) (All Things Must Pass (2014 Remaster))
+  - If Not for You (2014 Remaster) (All Things Must Pass (2014 Remaster))
+  - I Live for You (2014 Remaster) (All Things Must Pass (2014 Remaster))
+  - I'd Have You Anytime (2014 Remaster) (All Things Must Pass (2014 Remaster))
+  - Isn't It a Pity (2014 Remaster) (All Things Must Pass (2014 Remaster))
+  - >-
+    Ballad of Sir Frankie Crisp (Let It Roll) (2014 Remaster) (All Things Must
+    Pass (2014 Remaster))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/42a8f507-8412-4611-854f-926571049fa0
-  spotify: https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS
-  wikipedia: https://en.wikipedia.org/wiki/George_Harrison
+  musicbrainz: 'https://musicbrainz.org/artist/42a8f507-8412-4611-854f-926571049fa0'
+  spotify: 'https://open.spotify.com/artist/7FIoB5PHdrMZVC3q2HE5MS'
+  wikipedia: 'https://en.wikipedia.org/wiki/George_Harrison'
 image_path: 03_Resources/source_material/ArtistPortraits/George_Harrison.jpg
 biography_enhanced_at: '2025-10-20T01:49:06.492253'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/George_Harrison
-- https://www.thebeatstours.com/blog/the-quiet-beatle-the-life-and-legacy-of-george-harrison
-- https://www.ebsco.com/research-starters/biography/george-harrison
-- https://www.biography.com/musicians/george-harrison
+  - 'https://en.wikipedia.org/wiki/George_Harrison'
+  - >-
+    https://www.thebeatstours.com/blog/the-quiet-beatle-the-life-and-legacy-of-george-harrison
+  - 'https://www.ebsco.com/research-starters/biography/george-harrison'
+  - 'https://www.biography.com/musicians/george-harrison'
 network_extracted: true
 entry_created: '2025-10-20T01:49:06.492268'
 last_updated: '2025-12-23T08:16:02.116034'
@@ -87,9 +90,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:27:40.940479'
 musicbrainz_id: 42a8f507-8412-4611-854f-926571049fa0
 tags:
-- british
-- electronic
-- experimental
+  - british
+  - electronic
+  - experimental
+is_active: false
 ---
 
 ![](George_Harrison.jpg)

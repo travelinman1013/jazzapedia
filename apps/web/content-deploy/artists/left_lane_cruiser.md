@@ -2,25 +2,25 @@
 title: Left Lane Cruiser
 wiki_slug: left-lane-cruiser
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 aliases: []
 birth_date: '2004'
 years_active: 2004–present
 genres:
-- blues
-- blues rock
-- country blues
-- garage rock
-- gothic country
-- modern blues
-- stoner rock
+  - blues
+  - blues rock
+  - country blues
+  - garage rock
+  - gothic country
+  - modern blues
+  - stoner rock
 instruments:
-- membranophone
-- original
-- guitar
+  - membranophone
+  - original
+  - guitar
 record_labels:
-- Alive Naturalsound Records
+  - Alive Naturalsound Records
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Left_Lane_Cruiser.jpg
   caption: Left Lane Cruiser
@@ -44,36 +44,37 @@ spotify_data:
   followers: 63349
   id: 2sJLswTuwPwm9Y1tMC4erf
   popularity: 41
-  url: https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf
+  url: 'https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf'
   verified: false
 discography_enriched: true
 albums_count: 11
 singles_count: 11
 top_tracks:
-- Juice To Get Loose (Rock Them Back to Hell)
-- The Pusher (Beck In Black)
-- Lost My Mind (Junkyard Speed Ball)
-- Big Momma (Bring Yo' Ass To The Table)
-- Putain! (All You Can Eat!!)
-- The Waltz (Shake and Bake)
-- Claw Machine Wizard (Claw Machine Wizard)
-- Heavy Honey (Dirty Spliff Blues)
-- Crackalacka (All You Can Eat!!)
-- River Picker (Bayport BBQ Blues)
+  - Juice To Get Loose (Rock Them Back to Hell)
+  - The Pusher (Beck In Black)
+  - Lost My Mind (Junkyard Speed Ball)
+  - Big Momma (Bring Yo' Ass To The Table)
+  - Putain! (All You Can Eat!!)
+  - The Waltz (Shake and Bake)
+  - Claw Machine Wizard (Claw Machine Wizard)
+  - Heavy Honey (Dirty Spliff Blues)
+  - Crackalacka (All You Can Eat!!)
+  - River Picker (Bayport BBQ Blues)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ecb6f14f-324f-403c-a9aa-5e466049cea7
-  spotify: https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf
-  wikipedia: https://en.wikipedia.org/wiki/Left_Lane_Cruiser
+  musicbrainz: 'https://musicbrainz.org/artist/ecb6f14f-324f-403c-a9aa-5e466049cea7'
+  spotify: 'https://open.spotify.com/artist/2sJLswTuwPwm9Y1tMC4erf'
+  wikipedia: 'https://en.wikipedia.org/wiki/Left_Lane_Cruiser'
 image_path: 03_Resources/source_material/ArtistPortraits/Left_Lane_Cruiser.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-18T15:47:22.001589'
-entry_created: 2025-09-18 11:51:36.336081
+entry_created: 2025-09-18T11:51:36.336Z
 last_updated: '2025-12-23T08:16:11.738782'
 musicbrainz_enriched_at: '2025-10-21T09:54:15.972373'
 musicbrainz_id: ecb6f14f-324f-403c-a9aa-5e466049cea7
-origin: Fort Wayne
+origin: 'Fort Wayne, Indiana, United States'
 tags:
-- blues rock
+  - blues rock
+birth_place: 'Fort Wayne, Indiana, United States'
 ---
 
 ![](Left_Lane_Cruiser.jpg)

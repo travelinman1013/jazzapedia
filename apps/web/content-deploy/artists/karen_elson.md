@@ -2,54 +2,54 @@
 artist_type: person
 biography_enhanced_at: '2026-01-03T01:47:40.808072'
 birth_date: '1979-01-14'
-birth_place: Oldham
+birth_place: 'Oldham, Northern England, United Kingdom'
 disambiguation: English model and singer-songwriter
 enhancement_provider: perplexity
 entry_created: '2026-01-03T01:47:40.808086'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3780151c-8a94-4fd3-96d4-a9bcea866444
-  spotify: https://open.spotify.com/artist/0XKPHX4BZDrtSEr3Pd1Q4k
-  wikipedia: https://en.wikipedia.org/wiki/Karen_Elson
+  musicbrainz: 'https://musicbrainz.org/artist/3780151c-8a94-4fd3-96d4-a9bcea866444'
+  spotify: 'https://open.spotify.com/artist/0XKPHX4BZDrtSEr3Pd1Q4k'
+  wikipedia: 'https://en.wikipedia.org/wiki/Karen_Elson'
 gender: Female
 genres:
-- gothic country
+  - gothic country
 image_path: 03_Resources/source_material/ArtistPortraits/karen_elson.jpg
 instruments:
-- acoustic guitar
-- background vocals
-- lead vocals
-- other vocals
+  - acoustic guitar
+  - background vocals
+  - lead vocals
+  - other vocals
 last_updated: '2026-01-03T01:47:40.808088'
 musical_connections:
   collaborators:
-  - Jack White
-  - Laura Marling
-  - Father John Misty
-  - Patrick Carney
-  - The Citizens Band members (Nina Persson, Zoe Kravitz, Zooey Deschanel)
-  - Neko Case
+    - Jack White
+    - Laura Marling
+    - Father John Misty
+    - Patrick Carney
+    - 'The Citizens Band members (Nina Persson, Zoe Kravitz, Zooey Deschanel)'
+    - Neko Case
   influenced: []
   mentors:
-  - Jack White
+    - Jack White
 musicbrainz_id: 3780151c-8a94-4fd3-96d4-a9bcea866444
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://styleblueprint.com/everyday/karen-elson/
-- https://www.vice.com/en/article/karen-elson-has-found-the-shoreline/
-- https://en.wikipedia.org/wiki/Karen_Elson
-- https://www.interviewmagazine.com/music/karen-elson
-- https://www.standard.co.uk/lifestyle/karen-elson-gothic-romance-6469437.html
+  - 'https://styleblueprint.com/everyday/karen-elson/'
+  - 'https://www.vice.com/en/article/karen-elson-has-found-the-shoreline/'
+  - 'https://en.wikipedia.org/wiki/Karen_Elson'
+  - 'https://www.interviewmagazine.com/music/karen-elson'
+  - 'https://www.standard.co.uk/lifestyle/karen-elson-gothic-romance-6469437.html'
 spotify_data:
   followers: 34912
   id: 0XKPHX4BZDrtSEr3Pd1Q4k
   popularity: 30
-  url: https://open.spotify.com/artist/0XKPHX4BZDrtSEr3Pd1Q4k
+  url: 'https://open.spotify.com/artist/0XKPHX4BZDrtSEr3Pd1Q4k'
 status: active
 tags:
-- garage pop
-title: karen elson
-
+  - garage pop
+title: Karen Elson
+origin: 'Nashville, Tennessee, United States'
 ---
 
 ![](karen_elson.jpg)

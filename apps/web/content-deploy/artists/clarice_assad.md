@@ -5,10 +5,10 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1978-02-09'
-birth_place: Rio de Janeiro
+birth_place: 'Rio de Janeiro, Brazil, United States'
 genres:
-- brazilian jazz
-- chamber music
+  - brazilian jazz
+  - chamber music
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/clarice_assad.jpg
   caption: Clarice Assad
@@ -30,74 +30,74 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sérgio Assad
-  - Odair Assad
-  - Badi Assad
-  - Yo-Yo Ma
-  - Dame Evelyn Glennie
-  - Nadja Salerno-Sonnenberg
-  - Liang Wang
-  - Chanticleer
-  - Inna Faliks
-  - Denise Milan
-  - Lee Breuer
+    - Sérgio Assad
+    - Odair Assad
+    - Badi Assad
+    - Yo-Yo Ma
+    - Dame Evelyn Glennie
+    - Nadja Salerno-Sonnenberg
+    - Liang Wang
+    - Chanticleer
+    - Inna Faliks
+    - Denise Milan
+    - Lee Breuer
   influenced:
-  - Voxploration participants
+    - Voxploration participants
   mentors:
-  - Sérgio Assad
-  - Sheila Zagury
-  - Natalie Fortin
-  - Leandro Braga
-  - Ed Bedner
-  - Bruce Berr
-  - Ilya Levinson
-  - Stacy Garrop
-  - David Rakowski
-  - Osvaldo Golijov
-  - Michael Daugherty
-  - Evan Chambers
-  - Claude Baker
-  - Susan Botti
-  - Judy Blazer
+    - Sérgio Assad
+    - Sheila Zagury
+    - Natalie Fortin
+    - Leandro Braga
+    - Ed Bedner
+    - Bruce Berr
+    - Ilya Levinson
+    - Stacy Garrop
+    - David Rakowski
+    - Osvaldo Golijov
+    - Michael Daugherty
+    - Evan Chambers
+    - Claude Baker
+    - Susan Botti
+    - Judy Blazer
 spotify_data:
   followers: 2603
   id: 3ld5AqWDRf2HvviDe9Vt4h
   popularity: 11
-  url: https://open.spotify.com/artist/3ld5AqWDRf2HvviDe9Vt4h
+  url: 'https://open.spotify.com/artist/3ld5AqWDRf2HvviDe9Vt4h'
 discography_enriched: true
 top_tracks:
-- A Tide Of Living Water
-- Miles & Miles
-- Lullaby
-- The Last Song
-- A Quiet Place (Triptych II) (Identidade)
-- The Last Song
-- 'Sin fronteras (Project W: Works by Diverse Women Composers)'
-- The Last Song
-- 'Archetypes: I. The Rebel (Archetypes)'
-- 'Archetypes: IV. The Lover (Archetypes)'
+  - A Tide Of Living Water
+  - Miles & Miles
+  - Lullaby
+  - The Last Song
+  - A Quiet Place (Triptych II) (Identidade)
+  - The Last Song
+  - 'Sin fronteras (Project W: Works by Diverse Women Composers)'
+  - The Last Song
+  - 'Archetypes: I. The Rebel (Archetypes)'
+  - 'Archetypes: IV. The Lover (Archetypes)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8e920acc-8699-450e-915f-f6d0de5c8192
-  spotify: https://open.spotify.com/artist/3ld5AqWDRf2HvviDe9Vt4h
-  wikipedia: https://en.wikipedia.org/wiki/Clarice_Assad
+  musicbrainz: 'https://musicbrainz.org/artist/8e920acc-8699-450e-915f-f6d0de5c8192'
+  spotify: 'https://open.spotify.com/artist/3ld5AqWDRf2HvviDe9Vt4h'
+  wikipedia: 'https://en.wikipedia.org/wiki/Clarice_Assad'
 image_path: 03_Resources/source_material/ArtistPortraits/clarice_assad.jpg
 biography_enhanced_at: '2025-10-26T12:29:35.483991'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.aso.org/artists/detail/clarice-assad
-- https://www.cedillerecords.org/artists/clarice-assad/
-- https://www.chambermuse.com/clarice-assad
-- http://www.volterraguitar.org/bio-clarice-assad.html
+  - 'https://www.aso.org/artists/detail/clarice-assad'
+  - 'https://www.cedillerecords.org/artists/clarice-assad/'
+  - 'https://www.chambermuse.com/clarice-assad'
+  - 'http://www.volterraguitar.org/bio-clarice-assad.html'
 network_extracted: true
 entry_created: '2025-10-26T12:29:35.484001'
 last_updated: '2025-12-23T08:16:07.042901'
-disambiguation: brazilian composer, pianist, arranger and singer
+disambiguation: 'brazilian composer, pianist, arranger and singer'
 gender: Female
 musicbrainz_id: 8e920acc-8699-450e-915f-f6d0de5c8192
 tags:
-- composer
-- to clean up
+  - composer
+  - to clean up
 ---
 
 ![](clarice_assad.jpg)

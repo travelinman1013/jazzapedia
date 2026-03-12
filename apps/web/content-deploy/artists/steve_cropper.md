@@ -5,103 +5,103 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1941-10-21'
-birth_place: Dora
+birth_place: 'Dora, Missouri, United States'
 death_date: '2025-12-03'
 genres:
-- blues
-- blues rock
-- classic blues
-- soul blues
-- modern blues
+  - blues
+  - blues rock
+  - classic blues
+  - soul blues
+  - modern blues
 instruments:
-- guitar
-- original
-- bass guitar
-- eponymous
-- piano
-- electric guitar
-- guitar family
-- background vocals
-associated_acts:
-- begin: '1962'
-  end: '1971'
-  instruments:
   - guitar
   - original
-  mbid: 377015fb-c02f-4b05-960b-e0df6a7ea99e
-  name: Booker T. & the MG’s
-- begin: '1975'
-  end: '1977'
-  instruments:
-  - guitar
-  mbid: 377015fb-c02f-4b05-960b-e0df6a7ea99e
-  name: Booker T. & the MG’s
-- begin: '1994'
-  end: '2012'
-  instruments:
-  - guitar
-  mbid: 377015fb-c02f-4b05-960b-e0df6a7ea99e
-  name: Booker T. & the MG’s
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  - original
-  mbid: 7252abc2-dfc8-4aa6-889f-2d168b265403
-  name: Blues Brothers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: fe721043-c46d-458b-99e0-cb83aa76bb27
-  name: Frank Black & The Stax Pistols
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c4fb1d25-174f-44c1-ab4e-a036122eff18
-  name: The Packers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1d0e964a-2b91-4dd9-8100-a5a184870382
-  name: Delaney & Bonnie
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: afbb9b08-8d51-4df5-b8a3-d2c5a8b86f35
-  name: The Mar‐Keys
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 097bb294-7ba9-425a-8e7d-dc20555b44b9
-  name: The Stax Staff
-- begin: ''
-  end: ''
-  instruments:
   - bass guitar
-  mbid: 78a3206e-f871-46ce-a555-b2e9b90dbe9f
-  name: Texas Toad Lickers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2a8c94b4-3b74-4cd3-9c2b-f072d6ece409
-  name: Murph & the Magic Tones
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f1ff24bd-11f9-400c-8ac7-84c825d1b417
-  name: The RCO All-Stars
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
-  - original
-  mbid: 2c916151-1d57-44f5-8b5f-fe153c480fac
-  name: Steve Cropper & The Midnight Hour
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6d1c3698-6ef2-4f67-b626-fa16e2c69c8e
-  name: Mark Knopfler’s Guitar Heroes
+  - piano
+  - electric guitar
+  - guitar family
+  - background vocals
+associated_acts:
+  - begin: '1962'
+    end: '1971'
+    instruments:
+      - guitar
+      - original
+    mbid: 377015fb-c02f-4b05-960b-e0df6a7ea99e
+    name: Booker T. & the MG’s
+  - begin: '1975'
+    end: '1977'
+    instruments:
+      - guitar
+    mbid: 377015fb-c02f-4b05-960b-e0df6a7ea99e
+    name: Booker T. & the MG’s
+  - begin: '1994'
+    end: '2012'
+    instruments:
+      - guitar
+    mbid: 377015fb-c02f-4b05-960b-e0df6a7ea99e
+    name: Booker T. & the MG’s
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+      - original
+    mbid: 7252abc2-dfc8-4aa6-889f-2d168b265403
+    name: Blues Brothers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: fe721043-c46d-458b-99e0-cb83aa76bb27
+    name: Frank Black & The Stax Pistols
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c4fb1d25-174f-44c1-ab4e-a036122eff18
+    name: The Packers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1d0e964a-2b91-4dd9-8100-a5a184870382
+    name: Delaney & Bonnie
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: afbb9b08-8d51-4df5-b8a3-d2c5a8b86f35
+    name: The Mar‐Keys
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 097bb294-7ba9-425a-8e7d-dc20555b44b9
+    name: The Stax Staff
+  - begin: ''
+    end: ''
+    instruments:
+      - bass guitar
+    mbid: 78a3206e-f871-46ce-a555-b2e9b90dbe9f
+    name: Texas Toad Lickers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2a8c94b4-3b74-4cd3-9c2b-f072d6ece409
+    name: Murph & the Magic Tones
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f1ff24bd-11f9-400c-8ac7-84c825d1b417
+    name: The RCO All-Stars
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 2c916151-1d57-44f5-8b5f-fe153c480fac
+    name: Steve Cropper & The Midnight Hour
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6d1c3698-6ef2-4f67-b626-fa16e2c69c8e
+    name: Mark Knopfler’s Guitar Heroes
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/steve_cropper.jpg
   caption: Steve Cropper
@@ -116,7 +116,7 @@ audio_profile:
   danceability_avg: 0.618
   acousticness_avg: 0.233
   instrumentalness_avg: 0.223
-  loudness_avg: -10.0
+  loudness_avg: -10
   speechiness_avg: 0.039
   liveness_avg: 0.221
   track_count: 54
@@ -124,65 +124,72 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Booker T. & the M.G.’s (Booker T. Jones, Donald “Duck” Dunn, Al Jackson Jr., Lewie Steinberg)
-  - Otis Redding
-  - Wilson Pickett
-  - Eddie Floyd
-  - Sam & Dave
-  - The Blues Brothers Band (John Belushi, Dan Aykroyd, Donald “Duck” Dunn, Willie Hall and others)
-  - Levon Helm’s RCO All‑Stars
-  - Neil Young
-  - John Prine, Jeff Beck, Rod Stewart, Ringo Starr, B.B. King, Etta James
+    - >-
+      Booker T. & the M.G.’s (Booker T. Jones, Donald “Duck” Dunn, Al Jackson
+      Jr., Lewie Steinberg)
+    - Otis Redding
+    - Wilson Pickett
+    - Eddie Floyd
+    - Sam & Dave
+    - >-
+      The Blues Brothers Band (John Belushi, Dan Aykroyd, Donald “Duck” Dunn,
+      Willie Hall and others)
+    - Levon Helm’s RCO All‑Stars
+    - Neil Young
+    - 'John Prine, Jeff Beck, Rod Stewart, Ringo Starr, B.B. King, Etta James'
   influenced:
-  - Jimi Hendrix
-  - Keith Richards
-  - Blues‑rock and modern blues guitarists (e.g., Joe Bonamassa)
+    - Jimi Hendrix
+    - Keith Richards
+    - 'Blues‑rock and modern blues guitarists (e.g., Joe Bonamassa)'
   mentors:
-  - Bill Doggett (and other early R&B bandleaders)
-  - Memphis studio veterans at Stax (Jim Stewart and staff)
+    - Bill Doggett (and other early R&B bandleaders)
+    - Memphis studio veterans at Stax (Jim Stewart and staff)
 spotify_data:
   followers: 15499
   id: 1gLCO8HDtmhp1eWmGcPl8S
   popularity: 36
-  url: https://open.spotify.com/artist/1gLCO8HDtmhp1eWmGcPl8S
+  url: 'https://open.spotify.com/artist/1gLCO8HDtmhp1eWmGcPl8S'
 discography_enriched: true
 top_tracks:
-- Show Me (Times Have Changed)
-- Opus De Soul (Jammed Together)
-- What'd I Say (Jammed Together)
-- Friendlytown (Friendlytown)
-- To Love Somebody (with The MG's) (Atlantic Crossing (Deluxe Edition))
-- Baby, What You Want Me To Do (Jammed Together)
-- Where Do The Guilty Go?
-- Trashy Dog (Jammed Together)
-- Don't Turn Your Heater Down (Jammed Together)
-- Talkin’ Bout Politics (Friendlytown)
+  - Show Me (Times Have Changed)
+  - Opus De Soul (Jammed Together)
+  - What'd I Say (Jammed Together)
+  - Friendlytown (Friendlytown)
+  - To Love Somebody (with The MG's) (Atlantic Crossing (Deluxe Edition))
+  - 'Baby, What You Want Me To Do (Jammed Together)'
+  - Where Do The Guilty Go?
+  - Trashy Dog (Jammed Together)
+  - Don't Turn Your Heater Down (Jammed Together)
+  - Talkin’ Bout Politics (Friendlytown)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4387a8ed-8a80-453c-a863-73dc0b23900c
-  spotify: https://open.spotify.com/artist/1gLCO8HDtmhp1eWmGcPl8S
-  wikipedia: https://en.wikipedia.org/wiki/Steve_Cropper
+  musicbrainz: 'https://musicbrainz.org/artist/4387a8ed-8a80-453c-a863-73dc0b23900c'
+  spotify: 'https://open.spotify.com/artist/1gLCO8HDtmhp1eWmGcPl8S'
+  wikipedia: 'https://en.wikipedia.org/wiki/Steve_Cropper'
 image_path: 03_Resources/source_material/ArtistPortraits/steve_cropper.jpg
 biography_enhanced_at: '2025-12-18T02:39:45.332414'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Steve_Cropper
-- https://memphismusichalloffame.com/inductee/steve-cropper/
-- https://staxrecords.com/artist/steve-cropper/
-- https://www.songhall.org/profiles/steve-cropper
-- https://www.namm.org/library/oral-history/steve-cropper
-- https://www.mascotlabelgroup.com/pages/steve-cropper-biography
-- https://alanpaul.substack.com/p/rip-steve-cropper-my-2019-profile
-- https://bluesrockreview.com/2025/12/steve-cropper-a-legacy-that-shaped-american-music.html
+  - 'https://en.wikipedia.org/wiki/Steve_Cropper'
+  - 'https://memphismusichalloffame.com/inductee/steve-cropper/'
+  - 'https://staxrecords.com/artist/steve-cropper/'
+  - 'https://www.songhall.org/profiles/steve-cropper'
+  - 'https://www.namm.org/library/oral-history/steve-cropper'
+  - 'https://www.mascotlabelgroup.com/pages/steve-cropper-biography'
+  - 'https://alanpaul.substack.com/p/rip-steve-cropper-my-2019-profile'
+  - >-
+    https://bluesrockreview.com/2025/12/steve-cropper-a-legacy-that-shaped-american-music.html
 network_extracted: true
 entry_created: '2025-12-18T02:39:45.332423'
 last_updated: '2025-12-23T08:16:16.087067'
 gender: Male
 musicbrainz_id: 4387a8ed-8a80-453c-a863-73dc0b23900c
 tags:
-- blues
-- electric blues
-- r&b
+  - blues
+  - electric blues
+  - r&b
+is_active: false
+origin: 'Memphis, Tennessee, United States'
 ---
 
 ![](steve_cropper.jpg)

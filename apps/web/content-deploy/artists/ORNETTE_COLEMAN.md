@@ -1,30 +1,30 @@
 ---
-title: ORNETTE COLEMAN
+title: Ornette Coleman
 wiki_slug: ornette-coleman
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1930-03-09'
-birth_place: Fort Worth, Texas, United States
+birth_place: 'Fort Worth, Texas, United States'
 death_date: '2015-06-11'
 genres:
-- free jazz
-- jazz
-- avant-garde
-- hard bop
-- bebop
+  - free jazz
+  - jazz
+  - avant-garde
+  - hard bop
+  - bebop
 instruments:
-- alto saxophone
-- eponymous
-- original
-- trumpet
-- violin
+  - alto saxophone
+  - eponymous
+  - original
+  - trumpet
+  - violin
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ORNETTE_COLEMAN.jpg
   caption: ORNETTE COLEMAN
   background: non_vocal_instrumentalist
   born: '1930-03-09'
-  origin: Fort Worth, Texas, United States
+  origin: 'Fort Worth, Texas, United States'
   died: '2015-06-11'
 audio_profile:
   tempo_avg: 106.5
@@ -41,60 +41,68 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Don Cherry
-  - Charlie Haden
-  - Billy Higgins
-  - Ed Blackwell
-  - Paul Bley
+    - Don Cherry
+    - Charlie Haden
+    - Billy Higgins
+    - Ed Blackwell
+    - Paul Bley
   influenced:
-  - John Coltrane
-  - Eric Dolphy
-  - Pat Metheny
-  - Anthony Braxton
+    - John Coltrane
+    - Eric Dolphy
+    - Pat Metheny
+    - Anthony Braxton
   mentors:
-  - Charlie Parker
+    - Charlie Parker
 spotify_data:
   followers: 147819
   id: 47odibUtrN3lnWx0p0pk2P
   popularity: 32
-  url: https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P
+  url: 'https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P'
 discography_enriched: true
 top_tracks:
-- Lonely Woman (The Shape Of Jazz To Come)
-- Peace (The Shape Of Jazz To Come)
-- 'When Will The Blues Leave? (Something Else!!!!: The Music Of Ornette Coleman (Original Jazz Classics Remasters))'
-- Eventually (The Shape Of Jazz To Come)
-- Broad Way Blues (New York Is Now!)
-- 'Invisible (Something Else!!!!: The Music Of Ornette Coleman (Original Jazz Classics Remasters))'
-- 'The Blessing (Something Else!!!!: The Music Of Ornette Coleman (Original Jazz Classics Remasters))'
-- Tomorrow Is The Question! - Instrumental (Tomorrow Is The Question!)
-- Focus on Sanity (The Shape Of Jazz To Come)
-- Congeniality (The Shape Of Jazz To Come)
+  - Lonely Woman (The Shape Of Jazz To Come)
+  - Peace (The Shape Of Jazz To Come)
+  - >-
+    When Will The Blues Leave? (Something Else!!!!: The Music Of Ornette Coleman
+    (Original Jazz Classics Remasters))
+  - Eventually (The Shape Of Jazz To Come)
+  - Broad Way Blues (New York Is Now!)
+  - >-
+    Invisible (Something Else!!!!: The Music Of Ornette Coleman (Original Jazz
+    Classics Remasters))
+  - >-
+    The Blessing (Something Else!!!!: The Music Of Ornette Coleman (Original
+    Jazz Classics Remasters))
+  - Tomorrow Is The Question! - Instrumental (Tomorrow Is The Question!)
+  - Focus on Sanity (The Shape Of Jazz To Come)
+  - Congeniality (The Shape Of Jazz To Come)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/169c0d1b-fcb8-4a43-9097-829aa7b39205
-  spotify: https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P
-  wikipedia: https://en.wikipedia.org/wiki/Ornette_Coleman
+  musicbrainz: 'https://musicbrainz.org/artist/169c0d1b-fcb8-4a43-9097-829aa7b39205'
+  spotify: 'https://open.spotify.com/artist/47odibUtrN3lnWx0p0pk2P'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ornette_Coleman'
 image_path: 03_Resources/source_material/ArtistPortraits/ORNETTE_COLEMAN.jpg
 biography_enhanced_at: '2025-10-20T10:04:24.797007'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.britannica.com/biography/Ornette-Coleman
-- https://www.udiscovermusic.com/stories/ornette-coleman-the-territory-and-the-adventure-biography/
-- http://www.ornettecoleman.com/ornette-biography/
-- https://www.arts.gov/honors/jazz/ornette-coleman
-- https://www.bluenote.com/artist/ornette-coleman/
+  - 'https://www.britannica.com/biography/Ornette-Coleman'
+  - >-
+    https://www.udiscovermusic.com/stories/ornette-coleman-the-territory-and-the-adventure-biography/
+  - 'http://www.ornettecoleman.com/ornette-biography/'
+  - 'https://www.arts.gov/honors/jazz/ornette-coleman'
+  - 'https://www.bluenote.com/artist/ornette-coleman/'
 network_extracted: true
 entry_created: '2025-10-20T10:04:24.797055'
 last_updated: '2025-12-23T08:16:03.474487'
-disambiguation: US jazz saxophonist, trumpeter, violinist, and composer
+disambiguation: 'US jazz saxophonist, trumpeter, violinist, and composer'
 gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:39:57.553289'
 musicbrainz_id: 169c0d1b-fcb8-4a43-9097-829aa7b39205
 tags:
-- 2008 universal fire victim
-- american
-- avant-garde jazz
+  - 2008 universal fire victim
+  - american
+  - avant-garde jazz
+is_active: false
 ---
 
 ![](ORNETTE_COLEMAN.jpg)

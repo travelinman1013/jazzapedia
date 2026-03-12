@@ -4,8 +4,8 @@ wiki_slug: bay-city-jazz-band
 schema_version: 2
 status: active
 genres:
-- ragtime
-- big band
+  - ragtime
+  - big band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Bay_City_Jazz_Band.jpg
   caption: Bay City Jazz Band
@@ -25,54 +25,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sanford Newbauer
-  - Everett Farey
-  - Roy Giomi
-  - Bob Helm
-  - Wally Rose
+    - Sanford Newbauer
+    - Everett Farey
+    - Roy Giomi
+    - Bob Helm
+    - Wally Rose
   influenced:
-  - Golden State Jazz Band
-  - El Dorado Jazz Band
+    - Golden State Jazz Band
+    - El Dorado Jazz Band
   mentors:
-  - Lu Watters
-  - Turk Murphy
+    - Lu Watters
+    - Turk Murphy
 spotify_data:
   followers: 299
   id: 07TxPgq41UGr9D8kyBYtGB
   popularity: 5
-  url: https://open.spotify.com/artist/07TxPgq41UGr9D8kyBYtGB
+  url: 'https://open.spotify.com/artist/07TxPgq41UGr9D8kyBYtGB'
 discography_enriched: true
 top_tracks:
-- New Orleans Stomp (Golden Days!)
-- Doctor Jazz (The Bay City Jazz Band)
-- Coal Cart Blues (Golden Days!)
-- My Heart (The Bay City Jazz Band)
-- Angry (Golden Days!)
-- Arab Strut (The Bay City Jazz Band)
-- Yerba Buena Strut (Golden Days!)
-- Chimes Blues (Golden Days!)
-- Willie The Weeper (Golden Days!)
-- Skip Da De Dat (Golden Days!)
+  - New Orleans Stomp (Golden Days!)
+  - Doctor Jazz (The Bay City Jazz Band)
+  - Coal Cart Blues (Golden Days!)
+  - My Heart (The Bay City Jazz Band)
+  - Angry (Golden Days!)
+  - Arab Strut (The Bay City Jazz Band)
+  - Yerba Buena Strut (Golden Days!)
+  - Chimes Blues (Golden Days!)
+  - Willie The Weeper (Golden Days!)
+  - Skip Da De Dat (Golden Days!)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/951bf8a0-cec3-4ded-a1ec-a289db13ec69
-  spotify: https://open.spotify.com/artist/07TxPgq41UGr9D8kyBYtGB
+  musicbrainz: 'https://musicbrainz.org/artist/951bf8a0-cec3-4ded-a1ec-a289db13ec69'
+  spotify: 'https://open.spotify.com/artist/07TxPgq41UGr9D8kyBYtGB'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/Bay_City_Jazz_Band.jpg
 biography_enhanced_at: '2025-10-20T09:48:07.983300'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.allmusic.com/artist/bay-city-jazz-band-mn0000030809
-- http://jazzhotbigstep.com/773265.html
-- https://jazzlives.wordpress.com/tag/bay-city-jazz-band/
-- https://www.jazzdisco.org/the-bay-city-jazz-band/discography/
-- https://delmark.com/product/242/
+  - 'https://www.allmusic.com/artist/bay-city-jazz-band-mn0000030809'
+  - 'http://jazzhotbigstep.com/773265.html'
+  - 'https://jazzlives.wordpress.com/tag/bay-city-jazz-band/'
+  - 'https://www.jazzdisco.org/the-bay-city-jazz-band/discography/'
+  - 'https://delmark.com/product/242/'
 network_extracted: true
 entry_created: '2025-10-20T09:48:07.983326'
 last_updated: '2025-12-23T08:16:01.151823'
 musicbrainz_enriched_at: '2025-10-21T09:01:29.088848'
 musicbrainz_id: 951bf8a0-cec3-4ded-a1ec-a289db13ec69
-origin: San Francisco, California, United States
+origin: 'San Francisco, California, United States'
+artist_type: person
 ---
 
 ![](Bay_City_Jazz_Band.jpg)

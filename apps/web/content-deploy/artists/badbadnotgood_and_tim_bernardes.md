@@ -5,7 +5,8 @@ schema_version: 2
 status: active
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/badbadnotgood_and_tim_bernardes.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/badbadnotgood_and_tim_bernardes.jpg
   caption: BADBADNOTGOOD & Tim Bernardes
   background: solo_singer
 audio_profile:
@@ -23,48 +24,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Arthur Verocai
-  - Russell Elevado
-  - O Terno
+    - Arthur Verocai
+    - Russell Elevado
+    - O Terno
   influenced: []
   mentors:
-  - Arthur Verocai
+    - Arthur Verocai
 spotify_data:
   followers: 886831
   id: 65dGLGjkw3UbddUg2GKQoZ
   popularity: 64
-  url: https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ
+  url: 'https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ'
 discography_enriched: true
 top_tracks:
-- Please Do Not Lean (feat. BADBADNOTGOOD) - Bonus (NEVER ENOUGH (Bonus Version))
-- Time Moves Slow (IV)
-- Running Away
-- In Your Eyes (IV)
-- Please Do Not Lean (feat. BADBADNOTGOOD)
-- Running Away (Time)
-- Alien Love Call
-- Caroline
-- One Last Dance
-- WEIGHT OFF (99.9%)
+  - >-
+    Please Do Not Lean (feat. BADBADNOTGOOD) - Bonus (NEVER ENOUGH (Bonus
+    Version))
+  - Time Moves Slow (IV)
+  - Running Away
+  - In Your Eyes (IV)
+  - Please Do Not Lean (feat. BADBADNOTGOOD)
+  - Running Away (Time)
+  - Alien Love Call
+  - Caroline
+  - One Last Dance
+  - WEIGHT OFF (99.9%)
 external_urls:
-  spotify: https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ
+  spotify: 'https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ'
   wikipedia: Not found in search results
-image_path: 03_Resources/source_material/ArtistPortraits/badbadnotgood_and_tim_bernardes.jpg
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/badbadnotgood_and_tim_bernardes.jpg
 biography_enhanced_at: '2025-12-04T07:37:55.160384'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://kexp.fmspins.com/various-artists/poeira-cosmica/poeira-cosmica/history
-- https://stereogum.com/2286637/badbadnotgood-poeira-cosmica-feat-tim-bernardes/music
-- https://www.youtube.com/watch?v=QcQyeugF07c
-- https://www.kcrw.com/shows/music-special/stories/top-30-albums-november-4-10
-- https://sharpmagazine.com/2024/11/07/canadian-band-badbadnotgood-interview-blue-note/
-- https://music.mxdwn.com/2024/11/07/news/badbadnotgood-team-up-with-tim-bernardes-for-new-single-poeira-cosmica/
-- https://www.song-bar.com/song-of-the-day/song-of-the-day-badbadnotgood-featuring-tim-bernardes-poeira-cosmica
-- https://dandigs.com/2024/11/11/diggin-this-badbadnotgood-tim-bernardes-poeira-cosmica-xl-recordings-innovative-leisure-toronto-sao-paolo-cosmic-dust/
+  - >-
+    https://kexp.fmspins.com/various-artists/poeira-cosmica/poeira-cosmica/history
+  - >-
+    https://stereogum.com/2286637/badbadnotgood-poeira-cosmica-feat-tim-bernardes/music
+  - 'https://www.youtube.com/watch?v=QcQyeugF07c'
+  - 'https://www.kcrw.com/shows/music-special/stories/top-30-albums-november-4-10'
+  - >-
+    https://sharpmagazine.com/2024/11/07/canadian-band-badbadnotgood-interview-blue-note/
+  - >-
+    https://music.mxdwn.com/2024/11/07/news/badbadnotgood-team-up-with-tim-bernardes-for-new-single-poeira-cosmica/
+  - >-
+    https://www.song-bar.com/song-of-the-day/song-of-the-day-badbadnotgood-featuring-tim-bernardes-poeira-cosmica
+  - >-
+    https://dandigs.com/2024/11/11/diggin-this-badbadnotgood-tim-bernardes-poeira-cosmica-xl-recordings-innovative-leisure-toronto-sao-paolo-cosmic-dust/
 network_extracted: true
 entry_created: '2025-12-04T07:37:55.160394'
 last_updated: '2025-12-23T08:16:05.046237'
+origin: >-
+  Toronto, Ontario, Canada (BADBADNOTGOOD); São Paulo, São Paulo, Brazil (Tim
+  Bernardes)
+artist_type: band
 ---
 
 ![](badbadnotgood_and_tim_bernardes.jpg)

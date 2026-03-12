@@ -5,26 +5,26 @@ schema_version: 2
 status: deceased
 aliases: []
 birth_date: '1930-07-28'
-birth_place: Hudsonville, Mississippi, United States
+birth_place: 'Hudsonville, Mississippi, United States'
 death_date: '1998-01-17'
 years_active: 1950-1998
 genres:
-- blues
-- country blues
-- classic blues
+  - blues
+  - country blues
+  - classic blues
 instruments:
-- guitar
+  - guitar
 occupation:
-- musician
+  - musician
 record_labels:
-- Fat Possum Records
-- Capricorn Records
+  - Fat Possum Records
+  - Capricorn Records
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Junior_Kimbrough.jpg
   caption: Junior Kimbrough
   background: non_vocal_instrumentalist
   born: '1930-07-28'
-  origin: Hudsonville, Mississippi, United States
+  origin: 'Hudsonville, Mississippi, United States'
   died: '1998-01-17'
 audio_profile:
   tempo_avg: 133.9
@@ -41,44 +41,44 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - R.L. Burnside
-  - Kent 'Kinney' Kimbrough
-  - Garry Burnside
-  - George Scales
-  - Calvin Jackson
+    - R.L. Burnside
+    - Kent 'Kinney' Kimbrough
+    - Garry Burnside
+    - George Scales
+    - Calvin Jackson
   influenced:
-  - The Black Keys
-  - Iggy Pop
-  - Mark Lanegan
-  - Richard Johnston
+    - The Black Keys
+    - Iggy Pop
+    - Mark Lanegan
+    - Richard Johnston
   mentors:
-  - Lightnin' Hopkins
-  - Mississippi Fred McDowell
-  - Eli Green
+    - Lightnin' Hopkins
+    - Mississippi Fred McDowell
+    - Eli Green
 related_artists: []
 spotify_data:
   followers: 79710
   id: 03HEHGJoLPdARs4nrtUidr
   popularity: 42
-  url: https://open.spotify.com/artist/03HEHGJoLPdARs4nrtUidr
+  url: 'https://open.spotify.com/artist/03HEHGJoLPdARs4nrtUidr'
   verified: false
 discography_enriched: true
 albums_count: 8
 singles_count: 1
 top_tracks:
-- Meet Me in the City (First Recordings)
-- 'Feels so Good #1 (First Recordings)'
-- I Gotta Try You Girl (God Knows I Tried)
-- Meet Me in the City (Meet Me in the City)
-- Most Things Haven't Worked Out (Most Things Haven't Worked Out)
-- Do the Romp (All Night Long)
-- Lonesome in My Home (First Recordings)
-- Done Got Old (First Recordings)
-- Feels so Bad - Previously Unreleased Take
-- 'Feels so Good #2 (First Recordings)'
+  - Meet Me in the City (First Recordings)
+  - 'Feels so Good #1 (First Recordings)'
+  - I Gotta Try You Girl (God Knows I Tried)
+  - Meet Me in the City (Meet Me in the City)
+  - Most Things Haven't Worked Out (Most Things Haven't Worked Out)
+  - Do the Romp (All Night Long)
+  - Lonesome in My Home (First Recordings)
+  - Done Got Old (First Recordings)
+  - Feels so Bad - Previously Unreleased Take
+  - 'Feels so Good #2 (First Recordings)'
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/03HEHGJoLPdARs4nrtUidr
+  spotify: 'https://open.spotify.com/artist/03HEHGJoLPdARs4nrtUidr'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/Junior_Kimbrough.jpg
 biography_source: wikipedia
@@ -86,14 +86,16 @@ biography_enhanced_at: '2025-09-30T11:26:57.491825'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- High Water Records
-- MojoHand Blues
-- Blues Foundation
-- Big Train Blues
+  - High Water Records
+  - MojoHand Blues
+  - Blues Foundation
+  - Big Train Blues
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:52:21.728759
+entry_created: 2025-09-22T21:52:21.728Z
 last_updated: '2025-12-23T08:16:02.379919'
+is_active: false
+artist_type: person
 ---
 
 ![](Junior_Kimbrough.jpg)

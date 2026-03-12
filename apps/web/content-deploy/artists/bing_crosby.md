@@ -1,36 +1,36 @@
 ---
-title: bing crosby
+title: Bing Crosby
 wiki_slug: bing-crosby
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1903-05-03'
-birth_place: Tacoma
+birth_place: 'Tacoma, Washington, United States'
 death_date: '1977-10-14'
 genres:
-- christmas
+  - christmas
 instruments:
-- background vocals
-- bass-baritone vocals
-- choir vocals
-- lead vocals
-- baritone vocals
-- spoken vocals
-associated_acts:
-- begin: '1927'
-  end: '1930'
-  instruments:
   - background vocals
   - bass-baritone vocals
   - choir vocals
   - lead vocals
-  mbid: 03ade0b4-4d20-40d5-a2ac-71c832ec5c39
-  name: Paul Whiteman and His Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 067f1c98-fc16-47a5-a197-a5eedda477c0
-  name: The Rhythm Boys
+  - baritone vocals
+  - spoken vocals
+associated_acts:
+  - begin: '1927'
+    end: '1930'
+    instruments:
+      - background vocals
+      - bass-baritone vocals
+      - choir vocals
+      - lead vocals
+    mbid: 03ade0b4-4d20-40d5-a2ac-71c832ec5c39
+    name: Paul Whiteman and His Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 067f1c98-fc16-47a5-a197-a5eedda477c0
+    name: The Rhythm Boys
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bing_crosby.jpg
   caption: bing crosby
@@ -53,55 +53,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Al Rinker
-  - Paul Whiteman
-  - Bob Hope
+    - Al Rinker
+    - Paul Whiteman
+    - Bob Hope
   influenced:
-  - Frank Sinatra
-  - Perry Como
-  - Dean Martin
+    - Frank Sinatra
+    - Perry Como
+    - Dean Martin
   mentors:
-  - Al Jolson
+    - Al Jolson
 spotify_data:
   followers: 592838
   id: 6ZjFtWeHP9XN7FeKSUe80S
   popularity: 60
-  url: https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S
+  url: 'https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S'
 discography_enriched: true
 top_tracks:
-- White Christmas (with V of BTS)
-- White Christmas - 1947 Version
-- Mele Kalikimaka (Merry Christmas)
-- Do You Hear What I Hear? - Remastered 2006
-- Winter Wonderland - Remastered 2006
-- It's Beginning To Look Like Christmas
-- Pistol Packin' Mama - Single Version
-- The Little Drummer Boy - Remastered 2006
-- Twelve Days Of Christmas (Christmas Greetings)
-- White Christmas (with V of BTS) (Instrumental)
+  - White Christmas (with V of BTS)
+  - White Christmas - 1947 Version
+  - Mele Kalikimaka (Merry Christmas)
+  - Do You Hear What I Hear? - Remastered 2006
+  - Winter Wonderland - Remastered 2006
+  - It's Beginning To Look Like Christmas
+  - Pistol Packin' Mama - Single Version
+  - The Little Drummer Boy - Remastered 2006
+  - Twelve Days Of Christmas (Christmas Greetings)
+  - White Christmas (with V of BTS) (Instrumental)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2437980f-513a-44fc-80f1-b90d9d7fcf8f
-  spotify: https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S
-  wikipedia: https://en.wikipedia.org/wiki/Bing_Crosby
+  musicbrainz: 'https://musicbrainz.org/artist/2437980f-513a-44fc-80f1-b90d9d7fcf8f'
+  spotify: 'https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bing_Crosby'
 image_path: 03_Resources/source_material/ArtistPortraits/bing_crosby.jpg
 biography_enhanced_at: '2025-10-25T10:06:05.734547'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Bing_Crosby
-- https://www.biography.com/musicians/bing-crosby
-- https://www.britannica.com/biography/Bing-Crosby
-- https://www.ebsco.com/research-starters/history/bing-crosby
-- https://www.imdb.com/name/nm0001078/bio/
+  - 'https://en.wikipedia.org/wiki/Bing_Crosby'
+  - 'https://www.biography.com/musicians/bing-crosby'
+  - 'https://www.britannica.com/biography/Bing-Crosby'
+  - 'https://www.ebsco.com/research-starters/history/bing-crosby'
+  - 'https://www.imdb.com/name/nm0001078/bio/'
 network_extracted: true
 entry_created: '2025-10-25T10:06:05.734558'
 last_updated: '2025-12-23T08:16:05.627344'
 gender: Male
 musicbrainz_id: 2437980f-513a-44fc-80f1-b90d9d7fcf8f
 tags:
-- 2008 universal fire victim
-- american
-- film soundtrack
+  - 2008 universal fire victim
+  - american
+  - film soundtrack
+is_active: false
+origin: 'Los Angeles, California, United States'
 ---
 
 ![](bing_crosby.jpg)

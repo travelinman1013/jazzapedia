@@ -1,12 +1,13 @@
 ---
-title: JIMMIE NOONE'S APEX CLUB ORCHESTRA
+title: Jimmie Noone's Apex Club Orchestra
 wiki_slug: jimmie-noones-apex-club-orchestra
 schema_version: 2
 status: active
 genres:
-- ragtime
+  - ragtime
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/jimmie_noones_apex_club_orchestra.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/jimmie_noones_apex_club_orchestra.jpg
   caption: JIMMIE NOONE'S APEX CLUB ORCHESTRA
   background: solo_singer
 audio_profile:
@@ -24,56 +25,67 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Joe Poston
-  - Earl Hines
-  - Bud Scott
-  - Johnny Wells
-  - Freddie Keppard
-  - King Oliver
-  - Doc Cook
-  - Kid Ory
+    - Joe Poston
+    - Earl Hines
+    - Bud Scott
+    - Johnny Wells
+    - Freddie Keppard
+    - King Oliver
+    - Doc Cook
+    - Kid Ory
   influenced:
-  - Joe Williams
+    - Joe Williams
   mentors:
-  - Lorenzo Tio
-  - Sidney Bechet
-  - Franz Schoepp
+    - Lorenzo Tio
+    - Sidney Bechet
+    - Franz Schoepp
 spotify_data:
   followers: 50
   id: 0e4T7YLVf7AzXK4XXzsqVQ
   popularity: 1
-  url: https://open.spotify.com/artist/0e4T7YLVf7AzXK4XXzsqVQ
+  url: 'https://open.spotify.com/artist/0e4T7YLVf7AzXK4XXzsqVQ'
 discography_enriched: true
 top_tracks:
-- 'Let''s Sow a Wild Oat (The Naughty 1920s: Red Hot & Risque Songs of The Jazz Age, Vol. 1)'
-- My Monday Date (The History Of Jazz Vol. 1 (Jazz Club))
-- Apex Blues (The Best of New Orleans Where Jazz Was Born)
-- I Know That You Know (The Best of New Orleans Where Jazz Was Born)
-- Apex Blues (The Legend Of New Orleans)
-- I Know That You Know (The Legend Of New Orleans)
-- Apex Blues (New Orleans Where Jazz Was Born)
-- I Know That You Know (New Orleans Where Jazz Was Born)
-- Apex Blues (Vintage Jazz)
-- Travlin' All Alone (100 Vocal & Jazz Classics - Vol. 2 (1928-1931))
+  - >-
+    Let's Sow a Wild Oat (The Naughty 1920s: Red Hot & Risque Songs of The Jazz
+    Age, Vol. 1)
+  - My Monday Date (The History Of Jazz Vol. 1 (Jazz Club))
+  - Apex Blues (The Best of New Orleans Where Jazz Was Born)
+  - I Know That You Know (The Best of New Orleans Where Jazz Was Born)
+  - Apex Blues (The Legend Of New Orleans)
+  - I Know That You Know (The Legend Of New Orleans)
+  - Apex Blues (New Orleans Where Jazz Was Born)
+  - I Know That You Know (New Orleans Where Jazz Was Born)
+  - Apex Blues (Vintage Jazz)
+  - Travlin' All Alone (100 Vocal & Jazz Classics - Vol. 2 (1928-1931))
 external_urls:
-  spotify: https://open.spotify.com/artist/0e4T7YLVf7AzXK4XXzsqVQ
+  spotify: 'https://open.spotify.com/artist/0e4T7YLVf7AzXK4XXzsqVQ'
   wikipedia: Not found in search results
 image_path: ''
 biography_enhanced_at: '2025-12-04T07:22:44.835030'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://syncopatedtimes.com/jimmie-noone-profiles-in-jazz/
-- https://fromthevaults-boppinbob.blogspot.com/2017/04/jimmie-noone-born-23-april-1895.html
-- https://www.britannica.com/biography/Jimmie-Noone
-- https://veritenews.org/2025/10/17/jimmie-noone-clarinetist-johnny-dodds-orson-welles/
-- https://www.allaboutjazz.com/musicians/jimmie-noone/
-- https://www.emusic.com/artist/rs_231107/Jimmie-Noones-Apex-Club-Orchestra/bio
-- https://artmusiclounge.wordpress.com/2021/05/21/rediscovering-jimmie-noone/
+  - 'https://syncopatedtimes.com/jimmie-noone-profiles-in-jazz/'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2017/04/jimmie-noone-born-23-april-1895.html
+  - 'https://www.britannica.com/biography/Jimmie-Noone'
+  - >-
+    https://veritenews.org/2025/10/17/jimmie-noone-clarinetist-johnny-dodds-orson-welles/
+  - 'https://www.allaboutjazz.com/musicians/jimmie-noone/'
+  - >-
+    https://www.emusic.com/artist/rs_231107/Jimmie-Noones-Apex-Club-Orchestra/bio
+  - 'https://artmusiclounge.wordpress.com/2021/05/21/rediscovering-jimmie-noone/'
 network_extracted: true
 entry_created: '2025-12-04T07:22:44.835044'
 last_updated: '2025-12-23T08:16:10.407593'
-origin: Chicago, Illinois, United States (based); Cut Off, Louisiana, United States (birthplace of leader)
+origin: >-
+  Chicago, Illinois, United States (based); Cut Off, Louisiana, United States
+  (birthplace of leader)
+birth_place: 'Cut Off, Louisiana, United States'
+birth_date: '1895-04-23'
+death_date: '1944-04-19'
+artist_type: person
 ---
 
 ![]()

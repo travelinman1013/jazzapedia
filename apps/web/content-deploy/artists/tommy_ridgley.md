@@ -1,17 +1,17 @@
 ---
-title: TOMMY RIDGLEY
+title: Tommy Ridgley
 wiki_slug: tommy-ridgley
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1925-10-30'
-birth_place: New Orleans
+birth_place: 'New Orleans, Louisiana, United States'
 death_date: '1999-08-11'
 genres:
-- northern soul
+  - northern soul
 instruments:
-- piano
-- other vocals
+  - piano
+  - other vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/tommy_ridgley.jpg
   caption: TOMMY RIDGLEY
@@ -34,56 +34,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Untouchables
-  - Ray Charles
-  - Irma Thomas
-  - Dave Bartholomew Orchestra
+    - The Untouchables
+    - Ray Charles
+    - Irma Thomas
+    - Dave Bartholomew Orchestra
   influenced:
-  - Irma Thomas
-  - Numerous New Orleans musicians
+    - Irma Thomas
+    - Numerous New Orleans musicians
   mentors:
-  - Roy Brown
-  - Dave Bartholomew
+    - Roy Brown
+    - Dave Bartholomew
 spotify_data:
   followers: 2009
   id: 1OZW3cQ878iFY7ncvngvSa
   popularity: 7
-  url: https://open.spotify.com/artist/1OZW3cQ878iFY7ncvngvSa
+  url: 'https://open.spotify.com/artist/1OZW3cQ878iFY7ncvngvSa'
 discography_enriched: true
 top_tracks:
-- Jam Up
-- My Love Gets Stronger
-- I Want Some Money Baby (The New Orleans King Of The Stroll)
-- Jam Up Twist
-- In The Same Old Way (Essential Louisiana R&B)
-- In The Same Old Way
-- Jam Up
-- Jam up Twist - Remastered (Giving You R'n'B! (Remastered))
-- Early Dawn Boogie (The Tommy Ridgley Collection 1949-61)
-- Ooh Lawdy My Baby (The Tommy Ridgley Collection 1949-61)
+  - Jam Up
+  - My Love Gets Stronger
+  - I Want Some Money Baby (The New Orleans King Of The Stroll)
+  - Jam Up Twist
+  - In The Same Old Way (Essential Louisiana R&B)
+  - In The Same Old Way
+  - Jam Up
+  - Jam up Twist - Remastered (Giving You R'n'B! (Remastered))
+  - Early Dawn Boogie (The Tommy Ridgley Collection 1949-61)
+  - Ooh Lawdy My Baby (The Tommy Ridgley Collection 1949-61)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/30125a4a-cfaa-445b-9798-4d09e2761c06
-  spotify: https://open.spotify.com/artist/1OZW3cQ878iFY7ncvngvSa
-  wikipedia: https://en.wikipedia.org/wiki/Tommy_Ridgley
+  musicbrainz: 'https://musicbrainz.org/artist/30125a4a-cfaa-445b-9798-4d09e2761c06'
+  spotify: 'https://open.spotify.com/artist/1OZW3cQ878iFY7ncvngvSa'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tommy_Ridgley'
 image_path: 03_Resources/source_material/ArtistPortraits/tommy_ridgley.jpg
 biography_enhanced_at: '2025-10-28T09:10:43.895846'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.tommyridgley.com/bio.htm
-- https://en.wikipedia.org/wiki/Tommy_Ridgley
-- https://kids.kiddle.co/Tommy_Ridgley
-- https://jasmine-records.co.uk/shop/ridgely-tommy/tommy-ridgely-rhythm-blues-in-new-orleans/
-- https://musicrising.tulane.edu/discover/people/tommy-ridgley/
+  - 'https://www.tommyridgley.com/bio.htm'
+  - 'https://en.wikipedia.org/wiki/Tommy_Ridgley'
+  - 'https://kids.kiddle.co/Tommy_Ridgley'
+  - >-
+    https://jasmine-records.co.uk/shop/ridgely-tommy/tommy-ridgely-rhythm-blues-in-new-orleans/
+  - 'https://musicrising.tulane.edu/discover/people/tommy-ridgley/'
 network_extracted: true
 entry_created: '2025-10-28T09:10:43.895856'
 last_updated: '2025-12-23T08:16:17.579153'
 gender: Male
 musicbrainz_id: 30125a4a-cfaa-445b-9798-4d09e2761c06
 tags:
-- new orleans r&b
-- r&b
-
+  - new orleans r&b
+  - r&b
+is_active: false
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](tommy_ridgley.jpg)

@@ -1,16 +1,16 @@
 ---
-title: roy head
+title: Roy Head
 wiki_slug: roy-head
 schema_version: 2
 status: active
-birth_place: Three Rivers, Texas, USA
+birth_place: 'Three Rivers, Texas, USA'
 genres:
-- rockabilly
+  - rockabilly
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/roy_head.jpg
   caption: roy head
   background: solo_singer
-  origin: Three Rivers, Texas, USA
+  origin: 'Three Rivers, Texas, USA'
 audio_profile:
   tempo_avg: 125.1
   energy_avg: 0.641
@@ -26,54 +26,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Traits
-  - Jerry Gibson
-  - Huey Meaux
-  - Boo Frazier
-  - Chips Moman
+    - The Traits
+    - Jerry Gibson
+    - Huey Meaux
+    - Boo Frazier
+    - Chips Moman
   influenced:
-  - B.J. Thomas
-  - Country and rockabilly artists
+    - B.J. Thomas
+    - Country and rockabilly artists
   mentors:
-  - Elmore James
-  - Bobby Bland
-  - Little Junior Parker
-  - Little Richard
-  - Little Willie John
+    - Elmore James
+    - Bobby Bland
+    - Little Junior Parker
+    - Little Richard
+    - Little Willie John
 spotify_data:
   followers: 3544
   id: 5wKpYtFnMb1OgGxuJsmrPY
   popularity: 14
-  url: https://open.spotify.com/artist/5wKpYtFnMb1OgGxuJsmrPY
+  url: 'https://open.spotify.com/artist/5wKpYtFnMb1OgGxuJsmrPY'
 discography_enriched: true
 top_tracks:
-- Treat Her Right (Still Treatin' 'Em Right)
-- Treat Her Right
-- Wigglin' And Gigglin'
-- Apple Of My Eye
-- Just A Little Bit (Treat Me Right)
-- Live It Up
-- Teenage Letter
-- Treat Her Right (Last Time Around)
-- Driving Wheel
-- Feels Like Rain (Last Time Around)
+  - Treat Her Right (Still Treatin' 'Em Right)
+  - Treat Her Right
+  - Wigglin' And Gigglin'
+  - Apple Of My Eye
+  - Just A Little Bit (Treat Me Right)
+  - Live It Up
+  - Teenage Letter
+  - Treat Her Right (Last Time Around)
+  - Driving Wheel
+  - Feels Like Rain (Last Time Around)
 external_urls:
-  spotify: https://open.spotify.com/artist/5wKpYtFnMb1OgGxuJsmrPY
-  wikipedia: https://en.wikipedia.org/wiki/Roy_Head
+  spotify: 'https://open.spotify.com/artist/5wKpYtFnMb1OgGxuJsmrPY'
+  wikipedia: 'https://en.wikipedia.org/wiki/Roy_Head'
 image_path: 03_Resources/source_material/ArtistPortraits/roy_head.jpg
 biography_enhanced_at: '2025-11-22T07:44:06.433476'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.namm.org/library/oral-history/roy-head
-- https://thehoundnyc.com/2010/03/19/roy-head-the-traits/
-- https://www.sunsetblvdrecords.com/blog/2021/1/29/roy-head-one-more-time-the-roy-head-collection
-- https://www.imdb.com/name/nm2797204/bio/
-- https://musicenterprisesinc.com/bio-roy-head
-- https://www.museumofthegulfcoast.org/roy-head
+  - 'https://www.namm.org/library/oral-history/roy-head'
+  - 'https://thehoundnyc.com/2010/03/19/roy-head-the-traits/'
+  - >-
+    https://www.sunsetblvdrecords.com/blog/2021/1/29/roy-head-one-more-time-the-roy-head-collection
+  - 'https://www.imdb.com/name/nm2797204/bio/'
+  - 'https://musicenterprisesinc.com/bio-roy-head'
+  - 'https://www.museumofthegulfcoast.org/roy-head'
 network_extracted: true
 entry_created: '2025-11-22T07:44:06.433493'
 last_updated: '2025-12-23T08:16:15.129204'
+birth_date: '1941-01-09'
+death_date: '2020-09-21'
+artist_type: person
 ---
 
 ![](roy_head.jpg)

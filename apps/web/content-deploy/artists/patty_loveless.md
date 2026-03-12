@@ -1,69 +1,70 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c9bd3b6c-e051-4cfa-bb21-9c570b198d6a
-  name: Country Choir
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c9bd3b6c-e051-4cfa-bb21-9c570b198d6a
+    name: Country Choir
 biography_enhanced_at: '2026-01-06T02:06:22.345546'
 birth_date: '1957-01-04'
-birth_place: Pikeville
+birth_place: 'Pikeville, Kentucky, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-06T02:06:22.345551'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e6cb4a73-6253-41c9-9450-f1862d30584e
-  spotify: https://open.spotify.com/artist/6SFUC6ORDCIBqPssCBpeHT
-  wikipedia: https://en.wikipedia.org/wiki/Patty_Loveless
+  musicbrainz: 'https://musicbrainz.org/artist/e6cb4a73-6253-41c9-9450-f1862d30584e'
+  spotify: 'https://open.spotify.com/artist/6SFUC6ORDCIBqPssCBpeHT'
+  wikipedia: 'https://en.wikipedia.org/wiki/Patty_Loveless'
 gender: Female
 genres:
-- country
-- bluegrass
+  - country
+  - bluegrass
 image_path: 03_Resources/source_material/ArtistPortraits/patty_loveless.jpg
 instruments:
-- baritone vocals
-- other vocals
-- background vocals
-- lead vocals
-- tenor vocals
+  - baritone vocals
+  - other vocals
+  - background vocals
+  - lead vocals
+  - tenor vocals
 last_updated: '2026-01-06T02:06:22.345551'
 musical_connections:
   collaborators:
-  - Vince Gill
-  - George Jones
-  - Dwight Yoakam
-  - Steve Earle
-  - Trisha Yearwood
-  - Carly Pearce
+    - Vince Gill
+    - George Jones
+    - Dwight Yoakam
+    - Steve Earle
+    - Trisha Yearwood
+    - Carly Pearce
   influenced:
-  - Contemporary country artists
+    - Contemporary country artists
   mentors:
-  - Porter Wagoner
-  - Dolly Parton
-  - Emory Gordy Jr.
+    - Porter Wagoner
+    - Dolly Parton
+    - Emory Gordy Jr.
 musicbrainz_id: e6cb4a73-6253-41c9-9450-f1862d30584e
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Patty_Loveless
-- https://www.angelfire.com/country/countrystateofmind/patty.html
-- https://countrymusiccruise.com/artists/patty-loveless/
-- https://americansongwriter.com/born-on-this-day-in-1957-this-90s-country-music-legend-and-vince-gills-favorite-duet-partner/
-- https://pattyloveless.com
-- https://www.countrymusichalloffame.org/hall-of-fame/patty-loveless
-- https://www.imdb.com/name/nm0522529/bio/
+  - 'https://en.wikipedia.org/wiki/Patty_Loveless'
+  - 'https://www.angelfire.com/country/countrystateofmind/patty.html'
+  - 'https://countrymusiccruise.com/artists/patty-loveless/'
+  - >-
+    https://americansongwriter.com/born-on-this-day-in-1957-this-90s-country-music-legend-and-vince-gills-favorite-duet-partner/
+  - 'https://pattyloveless.com'
+  - 'https://www.countrymusichalloffame.org/hall-of-fame/patty-loveless'
+  - 'https://www.imdb.com/name/nm0522529/bio/'
 spotify_data:
   followers: 486177
   id: 6SFUC6ORDCIBqPssCBpeHT
   popularity: 53
-  url: https://open.spotify.com/artist/6SFUC6ORDCIBqPssCBpeHT
+  url: 'https://open.spotify.com/artist/6SFUC6ORDCIBqPssCBpeHT'
 status: active
 tags:
-- 2008 universal fire victim
-- bluegrass
-- country
-title: PATTY LOVELESS
-
+  - 2008 universal fire victim
+  - bluegrass
+  - country
+title: Patty Loveless
+origin: 'Charlotte, North Carolina, United States'
 ---
 
 ![](patty_loveless.jpg)

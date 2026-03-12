@@ -3,14 +3,14 @@ title: Nicole Atkins
 wiki_slug: nicole-atkins
 schema_version: 2
 status: active
-birth_place: Neptune City, New Jersey, United States
+birth_place: 'Neptune City, New Jersey, United States'
 genres:
-- pop soul
+  - pop soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/nicole_atkins.jpg
   caption: Nicole Atkins
   background: solo_singer
-  origin: Neptune City, New Jersey, United States
+  origin: 'Neptune City, New Jersey, United States'
 audio_profile:
   tempo_avg: 121.1
   energy_avg: 0.573
@@ -26,56 +26,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - David Muller
-  - Dan Chen
-  - David Hollinghurst
-  - Derek Layes
-  - Phil Palazzolo
-  - Irina Yalkowsky
-  - Jeremy Kay
-  - Ezra Oklan
-  - David Hood
-  - Spooner Oldham
+    - David Muller
+    - Dan Chen
+    - David Hollinghurst
+    - Derek Layes
+    - Phil Palazzolo
+    - Irina Yalkowsky
+    - Jeremy Kay
+    - Ezra Oklan
+    - David Hood
+    - Spooner Oldham
   influenced: []
   mentors:
-  - Roy Orbison
-  - Stevie Nicks
-  - Nick Cave
+    - Roy Orbison
+    - Stevie Nicks
+    - Nick Cave
 spotify_data:
   followers: 35297
   id: 4ab2tQaaTr2TnairelOwvO
   popularity: 29
-  url: https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO
+  url: 'https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO'
 discography_enriched: true
 top_tracks:
-- Domino (Italian Ice)
-- Bye Bye Blackbird
-- A Little Crazy (Goodnight Rhonda Lee)
-- Burden (Ones to Keep Close)
-- Live Close By (Visit Often) [with Nicole Atkins] (Moon & Stars)
-- Listen Up (Goodnight Rhonda Lee)
-- Goodnight Rhonda Lee (Goodnight Rhonda Lee)
-- Heroes (PMJ And Chill)
-- Dancing in the Dark
-- Joey (Busted Jukebox Volume 2)
+  - Domino (Italian Ice)
+  - Bye Bye Blackbird
+  - A Little Crazy (Goodnight Rhonda Lee)
+  - Burden (Ones to Keep Close)
+  - 'Live Close By (Visit Often) [with Nicole Atkins] (Moon & Stars)'
+  - Listen Up (Goodnight Rhonda Lee)
+  - Goodnight Rhonda Lee (Goodnight Rhonda Lee)
+  - Heroes (PMJ And Chill)
+  - Dancing in the Dark
+  - Joey (Busted Jukebox Volume 2)
 external_urls:
-  spotify: https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO
-  wikipedia: https://en.wikipedia.org/wiki/Nicole_Atkins
+  spotify: 'https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO'
+  wikipedia: 'https://en.wikipedia.org/wiki/Nicole_Atkins'
 image_path: 03_Resources/source_material/ArtistPortraits/nicole_atkins.jpg
 biography_enhanced_at: '2025-10-26T12:44:45.636673'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.talkhouse.com/artist/nicole-atkins/
-- https://dereksmusicblog.com/2011/06/19/nicole-atkins-neptune-city/
-- https://www.nashvillescene.com/music/nashvillecream/nicole-atkins-the-cream-q-a/article_dc3b3e20-5852-11ec-978c-cbb133112aaa.html
-- https://motherchurchpew.com/2016/04/26/interview-with-nicole-atkins/
-- https://www.jerseyarts.com/stories/nicole-atkins-returns-new-jersey-outpost-burbs
-- https://www.bighassle.com/nicole-atkins-bio
-- https://www.popcultureclassics.com/nicole_atkins.html
+  - 'https://www.talkhouse.com/artist/nicole-atkins/'
+  - 'https://dereksmusicblog.com/2011/06/19/nicole-atkins-neptune-city/'
+  - >-
+    https://www.nashvillescene.com/music/nashvillecream/nicole-atkins-the-cream-q-a/article_dc3b3e20-5852-11ec-978c-cbb133112aaa.html
+  - 'https://motherchurchpew.com/2016/04/26/interview-with-nicole-atkins/'
+  - >-
+    https://www.jerseyarts.com/stories/nicole-atkins-returns-new-jersey-outpost-burbs
+  - 'https://www.bighassle.com/nicole-atkins-bio'
+  - 'https://www.popcultureclassics.com/nicole_atkins.html'
 network_extracted: true
 entry_created: '2025-10-26T12:44:45.636677'
 last_updated: '2025-12-23T08:16:13.578859'
+birth_date: '1978-10-01'
+artist_type: person
 ---
 
 ![](nicole_atkins.jpg)

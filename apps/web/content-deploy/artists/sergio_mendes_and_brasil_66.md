@@ -4,15 +4,15 @@ wiki_slug: sergio-mendes-brasil-66
 schema_version: 2
 status: active
 genres:
-- bossa nova
-- brazilian jazz
-- latin jazz
+  - bossa nova
+  - brazilian jazz
+  - latin jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sergio_mendes_and_brasil_66.jpg
   caption: Sergio Mendes & Brasil '66
   background: solo_singer
 audio_profile:
-  tempo_avg: 117.0
+  tempo_avg: 117
   energy_avg: 0.416
   valence_avg: 0.767
   danceability_avg: 0.625
@@ -26,50 +26,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Herb Alpert
-  - Gracinha Leporace
-  - Lani Hall
-  - Black Eyed Peas
+    - Herb Alpert
+    - Gracinha Leporace
+    - Lani Hall
+    - Black Eyed Peas
   influenced:
-  - Black Eyed Peas
-  - Contemporary Latin pop and jazz artists
+    - Black Eyed Peas
+    - Contemporary Latin pop and jazz artists
   mentors:
-  - Carmelita Lago
-  - Antonio Carlos Jobim
+    - Carmelita Lago
+    - Antonio Carlos Jobim
 spotify_data:
   followers: 107324
   id: 6hCsqVHnBo1BVQWuIjRMkL
   popularity: 52
-  url: https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL
+  url: 'https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL'
 discography_enriched: true
 top_tracks:
-- Mas Que Nada (Herb Alpert Presents Sergio Mendes & Brasil '66)
-- Mas Que Nada
-- Mais Que Nada (Foursider)
-- Agua De Beber (Herb Alpert Presents Sergio Mendes & Brasil '66)
-- Mas Que Nada
-- For What It's Worth (Stillness)
-- Roda (Look Around)
-- Going Out Of My Head (Herb Alpert Presents Sergio Mendes & Brasil '66)
-- The Look Of Love (Look Around)
-- The Fool On The Hill (Fool On The Hill)
+  - Mas Que Nada (Herb Alpert Presents Sergio Mendes & Brasil '66)
+  - Mas Que Nada
+  - Mais Que Nada (Foursider)
+  - Agua De Beber (Herb Alpert Presents Sergio Mendes & Brasil '66)
+  - Mas Que Nada
+  - For What It's Worth (Stillness)
+  - Roda (Look Around)
+  - Going Out Of My Head (Herb Alpert Presents Sergio Mendes & Brasil '66)
+  - The Look Of Love (Look Around)
+  - The Fool On The Hill (Fool On The Hill)
 external_urls:
-  spotify: https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL
-  wikipedia: https://en.wikipedia.org/wiki/S%C3%A9rgio_Mendes
+  spotify: 'https://open.spotify.com/artist/6hCsqVHnBo1BVQWuIjRMkL'
+  wikipedia: 'https://en.wikipedia.org/wiki/S%C3%A9rgio_Mendes'
 image_path: 03_Resources/source_material/ArtistPortraits/sergio_mendes_and_brasil_66.jpg
 biography_enhanced_at: '2025-11-10T03:36:50.112008'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://abreathoffreshair.com.au/episodes/sergio-mendes-a-60-year-journey-of-serendipity-and-unbelievable-success/
-- https://www.hollywoodbowl.com/musicdb/artists/3572/sergio-mendes
-- https://bibliolore.org/2024/10/13/sergio-mendes-and-brasil-66/
-- https://www.imdb.com/name/nm0005223/bio/
-- https://www.last.fm/music/S%C3%A9rgio+Mendes+&+Brasil+'66/+wiki
+  - >-
+    https://abreathoffreshair.com.au/episodes/sergio-mendes-a-60-year-journey-of-serendipity-and-unbelievable-success/
+  - 'https://www.hollywoodbowl.com/musicdb/artists/3572/sergio-mendes'
+  - 'https://bibliolore.org/2024/10/13/sergio-mendes-and-brasil-66/'
+  - 'https://www.imdb.com/name/nm0005223/bio/'
+  - 'https://www.last.fm/music/S%C3%A9rgio+Mendes+&+Brasil+''66/+wiki'
 network_extracted: true
 entry_created: '2025-11-10T03:36:50.112023'
 last_updated: '2025-12-23T08:16:15.502021'
-origin: Niterói, Rio de Janeiro, Brazil
+origin: 'Niterói, Rio de Janeiro, Brazil'
+birth_place: 'Niterói, Rio de Janeiro, Brazil'
+birth_date: '1941-02-11'
+artist_type: band
 ---
 
 ![](sergio_mendes_and_brasil_66.jpg)

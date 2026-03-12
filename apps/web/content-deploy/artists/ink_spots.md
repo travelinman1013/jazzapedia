@@ -1,16 +1,16 @@
 ---
-title: ink spots
+title: The Ink Spots
 wiki_slug: ink-spots
 schema_version: 2
 status: active
 genres:
-- adult standards
+  - adult standards
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ink_spots.jpg
   caption: ink spots
   background: solo_singer
 audio_profile:
-  tempo_avg: 96.0
+  tempo_avg: 96
   energy_avg: 0.12
   valence_avg: 0.352
   danceability_avg: 0.535
@@ -24,48 +24,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ella Fitzgerald
-  - Jack Hylton's Orchestra
+    - Ella Fitzgerald
+    - Jack Hylton's Orchestra
   influenced:
-  - Elvis Presley
-  - Sam Cooke
-  - The Temptations
-  - Clyde McPhatter
+    - Elvis Presley
+    - Sam Cooke
+    - The Temptations
+    - Clyde McPhatter
   mentors:
-  - Mills Brothers
+    - Mills Brothers
 spotify_data:
   followers: 380665
   id: 5bOsFzuJ6QZMr86ezC4oXY
   popularity: 55
-  url: https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY
+  url: 'https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY'
 discography_enriched: true
 top_tracks:
-- I Don't Want To Set The World On Fire (The Anthology)
-- Maybe (The Anthology)
-- We'll Meet Again (The Anthology)
-- Into Each Life Some Rain Must Fall - Single Version
-- We Three (My Echo, My Shadow, And Me) (The Anthology)
-- If I Didn't Care (The Anthology)
-- I'm Beginning To See The Light (The Anthology)
-- Address Unknown (The Anthology)
-- I'm Making Believe (The Anthology)
-- 'It''s A Sin To Tell A Lie (If I Didn''t Care: An Anthology)'
+  - I Don't Want To Set The World On Fire (The Anthology)
+  - Maybe (The Anthology)
+  - We'll Meet Again (The Anthology)
+  - Into Each Life Some Rain Must Fall - Single Version
+  - 'We Three (My Echo, My Shadow, And Me) (The Anthology)'
+  - If I Didn't Care (The Anthology)
+  - I'm Beginning To See The Light (The Anthology)
+  - Address Unknown (The Anthology)
+  - I'm Making Believe (The Anthology)
+  - 'It''s A Sin To Tell A Lie (If I Didn''t Care: An Anthology)'
 external_urls:
-  spotify: https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY
-  wikipedia: https://en.wikipedia.org/wiki/The_Ink_Spots
+  spotify: 'https://open.spotify.com/artist/5bOsFzuJ6QZMr86ezC4oXY'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Ink_Spots'
 image_path: 03_Resources/source_material/ArtistPortraits/ink_spots.jpg
 biography_enhanced_at: '2025-11-04T11:04:13.697077'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://indyencyclopedia.org/the-ink-spots/
-- https://www.last.fm/music/The+Ink+Spots/+wiki
-- https://www.britannica.com/topic/the-Ink-Spots
-- https://en.wikipedia.org/wiki/The_Ink_Spots
+  - 'https://indyencyclopedia.org/the-ink-spots/'
+  - 'https://www.last.fm/music/The+Ink+Spots/+wiki'
+  - 'https://www.britannica.com/topic/the-Ink-Spots'
+  - 'https://en.wikipedia.org/wiki/The_Ink_Spots'
 network_extracted: true
 entry_created: '2025-11-04T11:04:13.697089'
 last_updated: '2025-12-23T08:16:09.868792'
-origin: Indianapolis, Indiana, United States
+origin: 'Indianapolis, Indiana, United States'
+artist_type: band
 ---
 
 ![](ink_spots.jpg)

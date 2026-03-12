@@ -2,10 +2,10 @@
 title: Another Bad Creation
 wiki_slug: another-bad-creation
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- new jack swing
+  - new jack swing
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/another_bad_creation.jpg
   caption: Another Bad Creation
@@ -25,50 +25,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Romell 'RoRo' Chapman
-  - Chris Sellers
-  - David Shelton
-  - Demetrius 'Red' Pugh
-  - Marliss 'Mark' Pugh
-  - Adrian 'G.A.' Witcher
+    - Romell 'RoRo' Chapman
+    - Chris Sellers
+    - David Shelton
+    - Demetrius 'Red' Pugh
+    - Marliss 'Mark' Pugh
+    - Adrian 'G.A.' Witcher
   influenced: []
   mentors:
-  - Michael Bivins
+    - Michael Bivins
 spotify_data:
   followers: 92907
   id: 454VBUMshEg0sxzoWKTYbT
   popularity: 26
-  url: https://open.spotify.com/artist/454VBUMshEg0sxzoWKTYbT
+  url: 'https://open.spotify.com/artist/454VBUMshEg0sxzoWKTYbT'
 discography_enriched: true
 top_tracks:
-- Iesha (Coolin' At The Playground Ya Know!)
-- Playground (Coolin' At The Playground Ya Know!)
-- Iesha (Hitsville USA, The Motown Collection 1972-1992)
-- Jealous Girl (Coolin' At The Playground Ya Know!)
-- Spydermann (Coolin' At The Playground Ya Know!)
-- My World (Coolin' At The Playground Ya Know!)
-- A.B.C. (Coolin' At The Playground Ya Know!)
-- Little Soldiers (Coolin' At The Playground Ya Know!)
-- That's My Girl (Coolin' At The Playground Ya Know!)
-- Got It Goin'On (It Ain't What U Wear, It's How U Play It)
+  - Iesha (Coolin' At The Playground Ya Know!)
+  - Playground (Coolin' At The Playground Ya Know!)
+  - 'Iesha (Hitsville USA, The Motown Collection 1972-1992)'
+  - Jealous Girl (Coolin' At The Playground Ya Know!)
+  - Spydermann (Coolin' At The Playground Ya Know!)
+  - My World (Coolin' At The Playground Ya Know!)
+  - A.B.C. (Coolin' At The Playground Ya Know!)
+  - Little Soldiers (Coolin' At The Playground Ya Know!)
+  - That's My Girl (Coolin' At The Playground Ya Know!)
+  - 'Got It Goin''On (It Ain''t What U Wear, It''s How U Play It)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2fcb033b-919d-4897-b77c-14a41d7bc754
-  spotify: https://open.spotify.com/artist/454VBUMshEg0sxzoWKTYbT
+  musicbrainz: 'https://musicbrainz.org/artist/2fcb033b-919d-4897-b77c-14a41d7bc754'
+  spotify: 'https://open.spotify.com/artist/454VBUMshEg0sxzoWKTYbT'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/another_bad_creation.jpg
 biography_enhanced_at: '2025-12-04T07:31:45.631797'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- 'Soul In Stereo - What Ever Happened to: Another Bad Creation'
-- Last.fm - Another Bad Creation biography
-- Rare and Obscure Music - Another Bad Creation
-- 'Los Angeles Times - From the Mouths of Babes: Another Bad Creation (1991)'
+  - 'Soul In Stereo - What Ever Happened to: Another Bad Creation'
+  - Last.fm - Another Bad Creation biography
+  - Rare and Obscure Music - Another Bad Creation
+  - 'Los Angeles Times - From the Mouths of Babes: Another Bad Creation (1991)'
 network_extracted: true
 entry_created: '2025-12-04T07:31:45.631810'
 last_updated: '2025-12-23T08:16:04.839615'
 musicbrainz_id: 2fcb033b-919d-4897-b77c-14a41d7bc754
-origin: Atlanta, Georgia, United States
+origin: 'Atlanta, Georgia, United States'
 ---
 
 ![](another_bad_creation.jpg)

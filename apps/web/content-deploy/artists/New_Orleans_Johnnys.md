@@ -25,7 +25,7 @@ similar_artists: []
 related_artists: []
 spotify_data:
   id: 4vXRZ3X8TcgE18TkIW3Iw9
-  url: https://open.spotify.com/artist/4vXRZ3X8TcgE18TkIW3Iw9
+  url: 'https://open.spotify.com/artist/4vXRZ3X8TcgE18TkIW3Iw9'
   popularity: 0
   followers: 58
   verified: false
@@ -33,24 +33,25 @@ discography_enriched: true
 albums_count: 2
 singles_count: 3
 top_tracks:
-- Valentine (Outta Ya Mind)
-- Big Easy Women (Outta Ya Mind)
-- Don't Wanna Dance (Outta Ya Mind)
-- Outta Ya Mind (Outta Ya Mind)
-- Good People (Outta Ya Mind)
-- This Story (Outta Ya Mind)
-- Million $ Man (Outta Ya Mind)
-- Foolish Pride (Outta Ya Mind)
-- Hard Way (Outta Ya Mind)
-- The Ballad of New Orleans Johnny (Outta Ya Mind)
+  - Valentine (Outta Ya Mind)
+  - Big Easy Women (Outta Ya Mind)
+  - Don't Wanna Dance (Outta Ya Mind)
+  - Outta Ya Mind (Outta Ya Mind)
+  - Good People (Outta Ya Mind)
+  - This Story (Outta Ya Mind)
+  - Million $ Man (Outta Ya Mind)
+  - Foolish Pride (Outta Ya Mind)
+  - Hard Way (Outta Ya Mind)
+  - The Ballad of New Orleans Johnny (Outta Ya Mind)
 external_urls:
-  spotify: https://open.spotify.com/artist/4vXRZ3X8TcgE18TkIW3Iw9
+  spotify: 'https://open.spotify.com/artist/4vXRZ3X8TcgE18TkIW3Iw9'
   wikipedia: null
   musicbrainz: null
 image_path: 03_Resources/source_material/ArtistPortraits/The_New_Orleans_Johnnys.jpg
 biography_source: none
-entry_created: 2025-09-18 15:20:18.428754
+entry_created: 2025-09-18T15:20:18.428Z
 last_updated: '2025-12-23T08:16:03.428809'
+artist_type: band
 ---
 
 ![](The_New_Orleans_Johnnys.jpg)

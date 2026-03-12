@@ -2,18 +2,19 @@
 title: Jack Teagarden and His Orchestra
 wiki_slug: jack-teagarden-and-his-orchestra
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 genres:
-- big band
-- swing music
+  - big band
+  - swing music
 instruments:
-- alto saxophone
-- eponymous
-- original
-- trumpet
+  - alto saxophone
+  - eponymous
+  - original
+  - trumpet
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/jack_teagarden_and_his_orchestra.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/jack_teagarden_and_his_orchestra.jpg
   caption: Jack Teagarden and His Orchestra
   background: group_or_band
 audio_profile:
@@ -31,167 +32,186 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ben Pollack
-  - Paul Whiteman
-  - Louis Armstrong
-  - Eddie Condon
-  - Benny Goodman
-  - Bix Beiderbecke
+    - Ben Pollack
+    - Paul Whiteman
+    - Louis Armstrong
+    - Eddie Condon
+    - Benny Goodman
+    - Bix Beiderbecke
   influenced:
-  - Bob Brookmeyer
-  - Bill Watrous
-  - Jazz trombonists and singers broadly
+    - Bob Brookmeyer
+    - Bill Watrous
+    - Jazz trombonists and singers broadly
   mentors:
-  - Helen Teagarden
-  - Louis Armstrong
+    - Helen Teagarden
+    - Louis Armstrong
 spotify_data:
   followers: 489
   id: 7dfS1dAfd8hKOE50DAbCko
   popularity: 6
-  url: https://open.spotify.com/artist/7dfS1dAfd8hKOE50DAbCko
+  url: 'https://open.spotify.com/artist/7dfS1dAfd8hKOE50DAbCko'
 discography_enriched: true
 top_tracks:
-- I'll Remember (with Jack Teagarden & His Orchestra) (The Kitty Kallen Story)
-- (I'll Be Glad When You're Dead) You Rascal You (If You Got To Ask, You Ain't Got It!)
-- I'm Takin' My Time With You (with Jack Teagarden & His Orchestra) (The Kitty Kallen Story)
-- I Wanna Hat With Cherries (with Jack Teagarden & His Orchestra) (The Kitty Kallen Story)
-- At Least You Could Say Hello (with Jack Teagarden & His Orchestra) (The Kitty Kallen Story)
-- A Table In a Corner (with Jack Teagarden & His Orchestra) (The Kitty Kallen Story)
-- Hawaii Sang Me To Sleep (with Jack Teagarden & His Orchestra) (The Kitty Kallen Story)
-- Two Blind Loves (with Jack Teagarden & His Orchestra) (The Kitty Kallen Story)
-- Stop Kicking My Heart Around (with Jack Teagarden & His Orchestra) (The Kitty Kallen Story)
-- So Many Times (with Jack Teagarden & His Orchestra) (The Kitty Kallen Story)
+  - I'll Remember (with Jack Teagarden & His Orchestra) (The Kitty Kallen Story)
+  - >-
+    (I'll Be Glad When You're Dead) You Rascal You (If You Got To Ask, You Ain't
+    Got It!)
+  - >-
+    I'm Takin' My Time With You (with Jack Teagarden & His Orchestra) (The Kitty
+    Kallen Story)
+  - >-
+    I Wanna Hat With Cherries (with Jack Teagarden & His Orchestra) (The Kitty
+    Kallen Story)
+  - >-
+    At Least You Could Say Hello (with Jack Teagarden & His Orchestra) (The
+    Kitty Kallen Story)
+  - >-
+    A Table In a Corner (with Jack Teagarden & His Orchestra) (The Kitty Kallen
+    Story)
+  - >-
+    Hawaii Sang Me To Sleep (with Jack Teagarden & His Orchestra) (The Kitty
+    Kallen Story)
+  - >-
+    Two Blind Loves (with Jack Teagarden & His Orchestra) (The Kitty Kallen
+    Story)
+  - >-
+    Stop Kicking My Heart Around (with Jack Teagarden & His Orchestra) (The
+    Kitty Kallen Story)
+  - So Many Times (with Jack Teagarden & His Orchestra) (The Kitty Kallen Story)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8eb57a99-7b88-4af1-ac9e-ae62d10f3798
-  spotify: https://open.spotify.com/artist/7dfS1dAfd8hKOE50DAbCko
-  wikipedia: https://en.wikipedia.org/wiki/Jack_Teagarden
-image_path: 03_Resources/source_material/ArtistPortraits/jack_teagarden_and_his_orchestra.jpg
+  musicbrainz: 'https://musicbrainz.org/artist/8eb57a99-7b88-4af1-ac9e-ae62d10f3798'
+  spotify: 'https://open.spotify.com/artist/7dfS1dAfd8hKOE50DAbCko'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jack_Teagarden'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/jack_teagarden_and_his_orchestra.jpg
 biography_enhanced_at: '2025-11-02T07:24:02.047345'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.tshaonline.org/handbook/entries/teagarden-weldon-leo-jack
-- https://syncopatedtimes.com/jack-teagarden-profiles-in-jazz/
-- https://www.allaboutjazz.com/musicians/jack-teagarden/
-- https://kutx.org/this-week-in-texas-music-history/jack-teagarden-records-beale-street-blues/
-- https://www.britannica.com/biography/Jack-Teagarden
+  - 'https://www.tshaonline.org/handbook/entries/teagarden-weldon-leo-jack'
+  - 'https://syncopatedtimes.com/jack-teagarden-profiles-in-jazz/'
+  - 'https://www.allaboutjazz.com/musicians/jack-teagarden/'
+  - >-
+    https://kutx.org/this-week-in-texas-music-history/jack-teagarden-records-beale-street-blues/
+  - 'https://www.britannica.com/biography/Jack-Teagarden'
 network_extracted: true
 entry_created: '2025-11-02T07:24:02.047359'
 last_updated: '2025-12-23T08:16:10.025581'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0b6c488f-4d84-4962-a428-6798674b3cfe
-  name: John Anderson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1aa1c35b-bff5-4e04-89c9-7f7656ae35f5
-  name: Tony Antonelli
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: dc9b2758-e553-4539-afef-55ba22b0c907
-  name: Art Beck
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 07dd98f2-6eef-4a0d-b28c-98aeed5ddb9a
-  name: Mark Bennett
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ba4f7206-821e-4dc4-8b7f-f0022f4cdaf2
-  name: Gil Bowers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4d4ae6cc-f1d5-48e6-985f-1912afe1c4c8
-  name: Pokey Carriere
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 82d49e5e-fb1f-4913-92e0-535283d204a2
-  name: Paul Collins
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 31c04f9a-ae5a-4926-8491-8017cda96037
-  name: John Fallstitch
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c4be5b7d-8101-4831-9fa9-50951640dd0c
-  name: Joe Ferdinando
-- begin: ''
-  end: ''
-  instruments:
-  - alto saxophone
-  mbid: 7e75d61e-49e4-4f9d-9d44-f7c600282bb3
-  name: Buddy Fisk
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3fc9cd7e-12dd-4d58-bf5a-f0b9353b4fb8
-  name: Seymour Goldfinger
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6e304dc6-7cab-487b-9126-fab9a304c117
-  name: Jose Gutierrez
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: aa23af54-20cb-4b9f-9973-76fa1a76bb01
-  name: Hub Lytle
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 13aa75f9-4ef3-40a2-a355-4a7890fb75a7
-  name: Art Moore
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d34ecb75-4522-4320-8f99-f2e46a0c72de
-  name: Jack Pettis
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f560eccb-fa98-46a8-9290-93ff6f89b16c
-  name: Adrian Rollini
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: cd971952-cecb-446c-aa54-31dbb649d993
-  name: Jimmy Simms
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1487bcb8-bcae-4d66-9a4d-570f7f5e92b5
-  name: George Stafford
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ecbe1a63-e54e-4f51-9824-091873a49038
-  name: Cubby Teagarden
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 79dcf09e-2290-4740-9edc-907f82420160
-  name: Jack Teagarden
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: 6d148e67-48c0-4547-979e-32e652ee09f2
-  name: Claude Whiteman
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0b6c488f-4d84-4962-a428-6798674b3cfe
+    name: John Anderson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1aa1c35b-bff5-4e04-89c9-7f7656ae35f5
+    name: Tony Antonelli
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: dc9b2758-e553-4539-afef-55ba22b0c907
+    name: Art Beck
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 07dd98f2-6eef-4a0d-b28c-98aeed5ddb9a
+    name: Mark Bennett
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ba4f7206-821e-4dc4-8b7f-f0022f4cdaf2
+    name: Gil Bowers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4d4ae6cc-f1d5-48e6-985f-1912afe1c4c8
+    name: Pokey Carriere
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 82d49e5e-fb1f-4913-92e0-535283d204a2
+    name: Paul Collins
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 31c04f9a-ae5a-4926-8491-8017cda96037
+    name: John Fallstitch
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c4be5b7d-8101-4831-9fa9-50951640dd0c
+    name: Joe Ferdinando
+  - begin: ''
+    end: ''
+    instruments:
+      - alto saxophone
+    mbid: 7e75d61e-49e4-4f9d-9d44-f7c600282bb3
+    name: Buddy Fisk
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3fc9cd7e-12dd-4d58-bf5a-f0b9353b4fb8
+    name: Seymour Goldfinger
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6e304dc6-7cab-487b-9126-fab9a304c117
+    name: Jose Gutierrez
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: aa23af54-20cb-4b9f-9973-76fa1a76bb01
+    name: Hub Lytle
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 13aa75f9-4ef3-40a2-a355-4a7890fb75a7
+    name: Art Moore
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d34ecb75-4522-4320-8f99-f2e46a0c72de
+    name: Jack Pettis
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f560eccb-fa98-46a8-9290-93ff6f89b16c
+    name: Adrian Rollini
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: cd971952-cecb-446c-aa54-31dbb649d993
+    name: Jimmy Simms
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1487bcb8-bcae-4d66-9a4d-570f7f5e92b5
+    name: George Stafford
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ecbe1a63-e54e-4f51-9824-091873a49038
+    name: Cubby Teagarden
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 79dcf09e-2290-4740-9edc-907f82420160
+    name: Jack Teagarden
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: 6d148e67-48c0-4547-979e-32e652ee09f2
+    name: Claude Whiteman
 musicbrainz_id: 8eb57a99-7b88-4af1-ac9e-ae62d10f3798
-origin: Vernon, Texas, United States
+origin: 'Vernon, Texas, United States'
 tags:
-- jazz
+  - jazz
+birth_place: 'Vernon, Texas, United States'
 ---
 
 ![](jack_teagarden_and_his_orchestra.jpg)

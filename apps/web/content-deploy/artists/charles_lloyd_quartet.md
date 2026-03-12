@@ -1,48 +1,50 @@
 ---
 biography_enhanced_at: '2025-12-31T01:48:11.870483'
-birth_place: Memphis, Tennessee, United States
+birth_place: 'Memphis, Tennessee, United States'
 enhancement_provider: perplexity
 entry_created: '2025-12-31T01:48:11.870488'
 external_urls:
-  spotify: https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5
-  wikipedia: https://en.wikipedia.org/wiki/Charles_Lloyd_(jazz_musician)
+  spotify: 'https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5'
+  wikipedia: 'https://en.wikipedia.org/wiki/Charles_Lloyd_(jazz_musician)'
 genres:
-- jazz
-- free jazz
+  - jazz
+  - free jazz
 image_path: 03_Resources/source_material/ArtistPortraits/charles_lloyd_quartet.jpg
 last_updated: '2025-12-31T01:48:11.870489'
 musical_connections:
   collaborators:
-  - Keith Jarrett
-  - Jack DeJohnette
-  - Cecil McBee
-  - Ron McClure
-  - Michel Petrucciani
-  - Jason Moran
-  - Chico Hamilton
-  - Cannonball Adderley
+    - Keith Jarrett
+    - Jack DeJohnette
+    - Cecil McBee
+    - Ron McClure
+    - Michel Petrucciani
+    - Jason Moran
+    - Chico Hamilton
+    - Cannonball Adderley
   influenced:
-  - Miles Davis
+    - Miles Davis
   mentors:
-  - Phineas Newborn
-  - Halsey Stevens
-  - Booker Little
+    - Phineas Newborn
+    - Halsey Stevens
+    - Booker Little
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.bluenote.com/artist/charles-lloyd/
-- https://en.wikipedia.org/wiki/Charles_Lloyd_(jazz_musician)
-- https://www.laphil.com/musicdb/artists/1059/charles-lloyd-new-quartet
-- https://www.arts.gov/honors/jazz/charles-lloyd
-- https://ecmrecords.com/artists/charles-lloyd/
-- https://www.everythingjazz.com/story/a-guide-to-charles-lloyd-on-blue-note/
+  - 'https://www.bluenote.com/artist/charles-lloyd/'
+  - 'https://en.wikipedia.org/wiki/Charles_Lloyd_(jazz_musician)'
+  - 'https://www.laphil.com/musicdb/artists/1059/charles-lloyd-new-quartet'
+  - 'https://www.arts.gov/honors/jazz/charles-lloyd'
+  - 'https://ecmrecords.com/artists/charles-lloyd/'
+  - 'https://www.everythingjazz.com/story/a-guide-to-charles-lloyd-on-blue-note/'
 spotify_data:
   followers: 52286
   id: 0GC1oqEWpiAjfE7jm5LQO5
   popularity: 40
-  url: https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5
+  url: 'https://open.spotify.com/artist/0GC1oqEWpiAjfE7jm5LQO5'
 status: active
 title: Charles Lloyd Quartet
+birth_date: '1938-03-15'
+artist_type: band
 ---
 
 ![](charles_lloyd_quartet.jpg)

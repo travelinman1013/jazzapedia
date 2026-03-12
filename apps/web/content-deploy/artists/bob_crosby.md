@@ -3,15 +3,15 @@ title: Bob Crosby
 wiki_slug: bob-crosby
 schema_version: 2
 status: active
-birth_place: Spokane, Washington, USA
+birth_place: 'Spokane, Washington, USA'
 genres:
-- big band
-- swing music
+  - big band
+  - swing music
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bob_crosby.jpg
   caption: Bob Crosby
   background: solo_singer
-  origin: Spokane, Washington, USA
+  origin: 'Spokane, Washington, USA'
 audio_profile:
   tempo_avg: 128.1
   energy_avg: 0.301
@@ -27,52 +27,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Gil Rodin
-  - Yank Lawson
-  - Matty Matlock
-  - Eddie Miller
-  - Bob Haggart
-  - Ray Bauduc
-  - Nappy Lamare
-  - Dorsey Brothers
+    - Gil Rodin
+    - Yank Lawson
+    - Matty Matlock
+    - Eddie Miller
+    - Bob Haggart
+    - Ray Bauduc
+    - Nappy Lamare
+    - Dorsey Brothers
   influenced:
-  - Bob-Cats
+    - Bob-Cats
   mentors:
-  - Anson Weeks
+    - Anson Weeks
 spotify_data:
   followers: 12562
   id: 5lP4FZO4ThhC9glGDwlgrV
   popularity: 36
-  url: https://open.spotify.com/artist/5lP4FZO4ThhC9glGDwlgrV
+  url: 'https://open.spotify.com/artist/5lP4FZO4ThhC9glGDwlgrV'
 discography_enriched: true
 top_tracks:
-- Way Back Home (But Me, I Love You)
-- Dear Hearts And Gentle People (But Me, I Love You)
-- Happy Times (But Me, I Love You)
-- Way Back Home
-- Dear Hearts and Gentle People
-- 'In a Sentimental Mood - Solitude - 2021 Remaster (The Essential Series Remastered: Bob Crosby and His Orchestra 22 Original
-  Big Band Hits (2021 Remaster))'
-- Happy Times
-- Bye Bye Baby (But Me, I Love You)
-- Charley, My Boy (But Me, I Love You)
-- Sing To Me (But Me, I Love You)
+  - 'Way Back Home (But Me, I Love You)'
+  - 'Dear Hearts And Gentle People (But Me, I Love You)'
+  - 'Happy Times (But Me, I Love You)'
+  - Way Back Home
+  - Dear Hearts and Gentle People
+  - >-
+    In a Sentimental Mood - Solitude - 2021 Remaster (The Essential Series
+    Remastered: Bob Crosby and His Orchestra 22 Original Big Band Hits (2021
+    Remaster))
+  - Happy Times
+  - 'Bye Bye Baby (But Me, I Love You)'
+  - 'Charley, My Boy (But Me, I Love You)'
+  - 'Sing To Me (But Me, I Love You)'
 external_urls:
-  spotify: https://open.spotify.com/artist/5lP4FZO4ThhC9glGDwlgrV
+  spotify: 'https://open.spotify.com/artist/5lP4FZO4ThhC9glGDwlgrV'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/bob_crosby.jpg
 biography_enhanced_at: '2025-12-14T01:45:40.998440'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://syncopatedtimes.com/profiles-in-jazz-bob-crosby/
-- https://www.imdb.com/name/nm0188972/bio/
-- https://bandchirps.com/band/bob-crosby/
-- https://www.swingstreetradio.org/performer/bob-crosby/
-- https://www.jazzstandards.com/biographies/biography_145.htm
+  - 'https://syncopatedtimes.com/profiles-in-jazz-bob-crosby/'
+  - 'https://www.imdb.com/name/nm0188972/bio/'
+  - 'https://bandchirps.com/band/bob-crosby/'
+  - 'https://www.swingstreetradio.org/performer/bob-crosby/'
+  - 'https://www.jazzstandards.com/biographies/biography_145.htm'
 network_extracted: true
 entry_created: '2025-12-14T01:45:40.998452'
 last_updated: '2025-12-23T08:16:05.796121'
+death_date: '1993-03-09'
+artist_type: person
 ---
 
 ![](bob_crosby.jpg)

@@ -2,22 +2,22 @@
 title: Dana and Alden
 wiki_slug: dana-and-alden
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 genres:
-- indie jazz
+  - indie jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Dana_and_Alden.jpg
   caption: Dana and Alden
   background: group_or_band
 audio_profile:
-  tempo_avg: 117.0
+  tempo_avg: 117
   energy_avg: 0.53
   valence_avg: 0.422
   danceability_avg: 0.477
   acousticness_avg: 0.503
   instrumentalness_avg: 0.629
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.053
   liveness_avg: 0.208
   track_count: 48
@@ -25,55 +25,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - quickly, quickly
-  - Charif Megarbane
-  - Andrew Mitchell
-  - Ebba Dankel
-  - Eli Torgersen
-  - Salim Charvet
+    - 'quickly, quickly'
+    - Charif Megarbane
+    - Andrew Mitchell
+    - Ebba Dankel
+    - Eli Torgersen
+    - Salim Charvet
   influenced:
-  - Gen-Z jazz musicians and TikTok creators
+    - Gen-Z jazz musicians and TikTok creators
   mentors:
-  - Kenny Reed
-  - Don Latarski
+    - Kenny Reed
+    - Don Latarski
 spotify_data:
   followers: 70748
   id: 6xKRT9Uw0XOxNsmWX2vNBr
   popularity: 41
-  url: https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr
+  url: 'https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr'
 discography_enriched: true
 top_tracks:
-- Dragonfly (Quiet Music for Young People)
-- When We Met (Quiet Music for Young People)
-- Don’t Run Away (Don't Run Away)
-- Bound (Bound)
-- Coyote, You're My Star (Coyote, You're My Star)
-- July 98 (Quiet Music for Young People)
-- Let's Go to Trader Joe's (Quiet Music for Young People)
-- Ivan's Theme (Coyote, You're My Star)
-- Umi Goes to the Garden (Quiet Music for Young People)
-- Daydrinking in Springfield (Speedo)
+  - Dragonfly (Quiet Music for Young People)
+  - When We Met (Quiet Music for Young People)
+  - Don’t Run Away (Don't Run Away)
+  - Bound (Bound)
+  - 'Coyote, You''re My Star (Coyote, You''re My Star)'
+  - July 98 (Quiet Music for Young People)
+  - Let's Go to Trader Joe's (Quiet Music for Young People)
+  - 'Ivan''s Theme (Coyote, You''re My Star)'
+  - Umi Goes to the Garden (Quiet Music for Young People)
+  - Daydrinking in Springfield (Speedo)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/cfd2dfbb-9c80-4a74-9bad-fcf4e55d671a
-  spotify: https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr
+  musicbrainz: 'https://musicbrainz.org/artist/cfd2dfbb-9c80-4a74-9bad-fcf4e55d671a'
+  spotify: 'https://open.spotify.com/artist/6xKRT9Uw0XOxNsmWX2vNBr'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/Dana_and_Alden.jpg
 biography_enhanced_at: '2025-10-22T06:56:33.641924'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://dana-alden.com
-- http://www.masqueradeatlanta.com/attraction/dana-and-alden/
-- https://www.bkmag.com/2024/07/25/dana-and-alden-are-bringing-jazz-to-gen-z/
-- https://www.last.fm/music/Dana+and+Alden/+wiki
-- https://soundofboston.com/local-spotlight-dana-and-alden/
-- https://kwva.uoregon.edu/blog/music/kwva-chats-eugenes-own-jazz-artists-dana-and-alden-mcwayne
-- https://www.youtube.com/watch?v=6ALbl3R6Ub4
+  - 'https://dana-alden.com'
+  - 'http://www.masqueradeatlanta.com/attraction/dana-and-alden/'
+  - 'https://www.bkmag.com/2024/07/25/dana-and-alden-are-bringing-jazz-to-gen-z/'
+  - 'https://www.last.fm/music/Dana+and+Alden/+wiki'
+  - 'https://soundofboston.com/local-spotlight-dana-and-alden/'
+  - >-
+    https://kwva.uoregon.edu/blog/music/kwva-chats-eugenes-own-jazz-artists-dana-and-alden-mcwayne
+  - 'https://www.youtube.com/watch?v=6ALbl3R6Ub4'
 network_extracted: true
 entry_created: '2025-10-22T06:56:33.641940'
 last_updated: '2025-12-23T08:16:01.645151'
 musicbrainz_id: cfd2dfbb-9c80-4a74-9bad-fcf4e55d671a
-origin: Eugene, Oregon, United States
+origin: 'Eugene, Oregon, United States'
 ---
 
 ![](Dana_and_Alden.jpg)

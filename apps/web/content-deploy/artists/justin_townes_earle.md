@@ -1,25 +1,25 @@
 ---
-title: justin townes earle
+title: Justin Townes Earle
 wiki_slug: justin-townes-earle
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1982-01-04'
-birth_place: Nashville
+birth_place: 'Nashville, Tennessee, United States'
 death_date: '2020-08-20'
 genres:
-- alt country
-- americana
-- bluegrass
-- roots rock
+  - alt country
+  - americana
+  - bluegrass
+  - roots rock
 instruments:
-- guitar
-- acoustic guitar
-- baritone guitar
-- resonator guitar
-- electric guitar
-- lead vocals
-- choir vocals
+  - guitar
+  - acoustic guitar
+  - baritone guitar
+  - resonator guitar
+  - electric guitar
+  - lead vocals
+  - choir vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/justin_townes_earle.jpg
   caption: justin townes earle
@@ -42,55 +42,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John Prine
-  - Levon Helm
-  - Gillian Welch
-  - Wanda Jackson
+    - John Prine
+    - Levon Helm
+    - Gillian Welch
+    - Wanda Jackson
   influenced: []
   mentors:
-  - Steve Earle
-  - Leadbelly
-  - Mance Lipscomb
-  - Lightnin' Hopkins
-  - Scotty Melton
+    - Steve Earle
+    - Leadbelly
+    - Mance Lipscomb
+    - Lightnin' Hopkins
+    - Scotty Melton
 spotify_data:
   followers: 192544
   id: 3znXuXT3xkCtjgOxXBBVnq
   popularity: 48
-  url: https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq
+  url: 'https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq'
 discography_enriched: true
 top_tracks:
-- Lone Pine Hill (The Good Life)
-- Harlem River Blues (Harlem River Blues)
-- 'Graceland (ALL IN: Unreleased & Rarities (The New West Years))'
-- Frightened By The Sound (The Saint Of Lost Causes)
-- The Saint Of Lost Causes (The Saint Of Lost Causes)
-- Maybe A Moment (Kids In The Street)
-- If I Was The Devil (Kids In The Street)
-- Ain’t Got No Money (The Saint Of Lost Causes)
-- Look The Other Way (Nothing's Gonna Change The Way You Feel About Me Now)
-- One More Night In Brooklyn (Harlem River Blues)
+  - Lone Pine Hill (The Good Life)
+  - Harlem River Blues (Harlem River Blues)
+  - 'Graceland (ALL IN: Unreleased & Rarities (The New West Years))'
+  - Frightened By The Sound (The Saint Of Lost Causes)
+  - The Saint Of Lost Causes (The Saint Of Lost Causes)
+  - Maybe A Moment (Kids In The Street)
+  - If I Was The Devil (Kids In The Street)
+  - Ain’t Got No Money (The Saint Of Lost Causes)
+  - Look The Other Way (Nothing's Gonna Change The Way You Feel About Me Now)
+  - One More Night In Brooklyn (Harlem River Blues)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6e0d1400-a880-4b2c-8305-e9b985a4549c
-  spotify: https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq
-  wikipedia: https://en.wikipedia.org/wiki/Justin_Townes_Earle
+  musicbrainz: 'https://musicbrainz.org/artist/6e0d1400-a880-4b2c-8305-e9b985a4549c'
+  spotify: 'https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq'
+  wikipedia: 'https://en.wikipedia.org/wiki/Justin_Townes_Earle'
 image_path: 03_Resources/source_material/ArtistPortraits/justin_townes_earle.jpg
 biography_enhanced_at: '2025-11-20T07:25:37.104086'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.justintownesearle.com/bio
-- https://gardenandgun.com/feature/justin-townes-earle/
-- https://theboot.com/justin-townes-earle-interview-saint-of-lost-causes/
-- https://en.wikipedia.org/wiki/Justin_Townes_Earle
-- https://savingcountrymusic.com/tag/justin-townes-earle/
+  - 'https://www.justintownesearle.com/bio'
+  - 'https://gardenandgun.com/feature/justin-townes-earle/'
+  - 'https://theboot.com/justin-townes-earle-interview-saint-of-lost-causes/'
+  - 'https://en.wikipedia.org/wiki/Justin_Townes_Earle'
+  - 'https://savingcountrymusic.com/tag/justin-townes-earle/'
 network_extracted: true
 entry_created: '2025-11-20T07:25:37.104093'
 last_updated: '2025-12-23T08:16:11.129954'
 gender: Male
 musicbrainz_id: 6e0d1400-a880-4b2c-8305-e9b985a4549c
 tags:
-- folk
+  - folk
+is_active: false
 ---
 
 ![](justin_townes_earle.jpg)

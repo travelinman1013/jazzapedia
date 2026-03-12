@@ -1,44 +1,45 @@
 ---
 biography_enhanced_at: '2025-12-26T01:22:44.827903'
-birth_place: Santa Rosa, California, USA
+birth_place: 'Santa Rosa, California, USA'
 enhancement_provider: perplexity
 entry_created: '2025-12-26T01:22:44.827917'
 external_urls:
-  spotify: https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m
-  wikipedia: https://en.wikipedia.org/wiki/Julie_London
+  spotify: 'https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m'
+  wikipedia: 'https://en.wikipedia.org/wiki/Julie_London'
 genres:
-- vocal jazz
-- jazz
+  - vocal jazz
+  - jazz
 image_path: 03_Resources/source_material/ArtistPortraits/julie_london.jpg
 last_updated: '2025-12-26T01:22:44.827918'
 musical_connections:
   collaborators:
-  - Al Viola
-  - Barney Kessel
-  - Bobby Troup
-  - André Previn
+    - Al Viola
+    - Barney Kessel
+    - Bobby Troup
+    - André Previn
   influenced:
-  - Miles Davis
+    - Miles Davis
   mentors:
-  - Bobby Troup
-  - Sue Carol
-  - Simon Waronker
+    - Bobby Troup
+    - Sue Carol
+    - Simon Waronker
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.allaboutjazz.com/musicians/julie-london/
-- https://www.udiscovermusic.com/artist/julie-london/
-- https://en.wikipedia.org/wiki/Julie_London
-- https://historicalsnapshots.substack.com/p/julie-london
-- https://walkoffame.com/julie-london/
+  - 'https://www.allaboutjazz.com/musicians/julie-london/'
+  - 'https://www.udiscovermusic.com/artist/julie-london/'
+  - 'https://en.wikipedia.org/wiki/Julie_London'
+  - 'https://historicalsnapshots.substack.com/p/julie-london'
+  - 'https://walkoffame.com/julie-london/'
 spotify_data:
   followers: 454736
   id: 3qUMmh5biaB5hqpF4LqS3m
   popularity: 60
-  url: https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m
+  url: 'https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m'
 status: active
 title: Julie London
-
+death_date: '2000-10-18'
+artist_type: person
 ---
 
 ![](julie_london.jpg)

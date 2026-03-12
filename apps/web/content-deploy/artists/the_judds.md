@@ -4,8 +4,8 @@ wiki_slug: the-judds
 schema_version: 2
 status: active
 genres:
-- country
-- traditional country
+  - country
+  - traditional country
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_judds.jpg
   caption: The Judds
@@ -16,7 +16,7 @@ audio_profile:
   valence_avg: 0.57
   danceability_avg: 0.704
   acousticness_avg: 0.357
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -7.5
   speechiness_avg: 0.035
   liveness_avg: 0.144
@@ -25,49 +25,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Paul Overstreet
-  - John Barlow Jarvis
+    - Paul Overstreet
+    - John Barlow Jarvis
   influenced: []
   mentors:
-  - Brent Maher
-  - Ralph Emery
+    - Brent Maher
+    - Ralph Emery
 spotify_data:
   followers: 868439
   id: 7MSTO40bsb3DOJQT6xLsIc
   popularity: 56
-  url: https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc
+  url: 'https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc'
 discography_enriched: true
 top_tracks:
-- Why Not Me (Why Not Me)
-- Grandpa (Tell Me 'Bout The Good Old Days) (Rockin' With The Rhythm)
-- Mama He's Crazy (Wynonna & Naomi)
-- Grandpa (Tell Me 'Bout The Good Old Days) (I Will Stand By You - The Essential Collection)
-- Rockin' With The Rhythm Of The Rain (Rockin' With The Rhythm)
-- Love Is Alive (Why Not Me)
-- Mama He's Crazy (Why Not Me)
-- Love Can Build A Bridge (Love Can Build A Bridge)
-- Have Mercy (Rockin' With The Rhythm)
-- Turn It Loose (Heartland)
+  - Why Not Me (Why Not Me)
+  - Grandpa (Tell Me 'Bout The Good Old Days) (Rockin' With The Rhythm)
+  - Mama He's Crazy (Wynonna & Naomi)
+  - >-
+    Grandpa (Tell Me 'Bout The Good Old Days) (I Will Stand By You - The
+    Essential Collection)
+  - Rockin' With The Rhythm Of The Rain (Rockin' With The Rhythm)
+  - Love Is Alive (Why Not Me)
+  - Mama He's Crazy (Why Not Me)
+  - Love Can Build A Bridge (Love Can Build A Bridge)
+  - Have Mercy (Rockin' With The Rhythm)
+  - Turn It Loose (Heartland)
 external_urls:
-  spotify: https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc
-  wikipedia: https://en.wikipedia.org/wiki/The_Judds
+  spotify: 'https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Judds'
 image_path: 03_Resources/source_material/ArtistPortraits/the_judds.jpg
 biography_enhanced_at: '2025-11-21T07:24:48.098883'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - The Judds
-- American Songwriter - The Complex Origins of The Judds
-- The Judds Official Homepage
-- Britannica - The Judds
-- The Boot - The Judds Through the Years
-- Sam Houston State University - The Judds
-- Country Music Hall of Fame - The Judds
+  - Wikipedia - The Judds
+  - American Songwriter - The Complex Origins of The Judds
+  - The Judds Official Homepage
+  - Britannica - The Judds
+  - The Boot - The Judds Through the Years
+  - Sam Houston State University - The Judds
+  - Country Music Hall of Fame - The Judds
 network_extracted: true
 entry_created: '2025-11-21T07:24:48.098894'
 last_updated: '2025-12-23T08:16:16.876672'
-origin: Ashland, Kentucky, United States
-
+origin: 'Ashland, Kentucky, United States'
+birth_place: 'Ashland, Kentucky, United States'
+birth_date: '1946-01-11'
+artist_type: band
 ---
 
 ![](the_judds.jpg)

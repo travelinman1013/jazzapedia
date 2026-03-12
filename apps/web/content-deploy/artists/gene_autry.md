@@ -5,20 +5,20 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1907-09-29'
-birth_place: Tioga
+birth_place: 'Tioga, Texas, United States'
 death_date: '1998-10-02'
 genres:
-- christmas
+  - christmas
 instruments:
-- eponymous
-- lead vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
-  mbid: d5800d60-b227-4edc-bd74-40f1d2562467
-  name: Gene Autry Trio
+  - lead vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: d5800d60-b227-4edc-bd74-40f1d2562467
+    name: Gene Autry Trio
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/gene_autry.jpg
   caption: Gene Autry
@@ -41,42 +41,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ken Maynard
+    - Ken Maynard
   influenced: []
   mentors:
-  - Will Rogers
+    - Will Rogers
 spotify_data:
   followers: 87447
   id: 5ixB75BQR3ADoWQkcHQJTs
   popularity: 73
-  url: https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs
+  url: 'https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs'
 discography_enriched: true
 top_tracks:
-- Here Comes Santa Claus (Right Down Santa Claus Lane) - 1947 Version (Rudolph The Red Nosed Reindeer And Other Christmas
-  Classics)
-- Rudolph the Red-Nosed Reindeer (Rudolph The Red Nosed Reindeer And Other Christmas Classics)
-- Frosty the Snowman (with The Cass County Boys) - 78rpm Version (Rudolph The Red Nosed Reindeer And Other Christmas Classics)
-- Up On The House Top (Ho Ho Ho) (with Carl Cotner's Orchestra) (Rudolph The Red Nosed Reindeer And Other Christmas Classics)
-- Home On the Range
-- Frosty the Snowman (His Christmas Album)
-- 'Up On The House Top (The Original: Gene Autry Sings Rudolph The Red-Nosed Reindeer & Other Christmas Favorites)'
-- Back In the Saddle Again
-- Deep In the Heart of Texas
-- Here Comes Santa Claus (Right Down Santa Claus Lane) - 1947 Version
+  - >-
+    Here Comes Santa Claus (Right Down Santa Claus Lane) - 1947 Version (Rudolph
+    The Red Nosed Reindeer And Other Christmas Classics)
+  - >-
+    Rudolph the Red-Nosed Reindeer (Rudolph The Red Nosed Reindeer And Other
+    Christmas Classics)
+  - >-
+    Frosty the Snowman (with The Cass County Boys) - 78rpm Version (Rudolph The
+    Red Nosed Reindeer And Other Christmas Classics)
+  - >-
+    Up On The House Top (Ho Ho Ho) (with Carl Cotner's Orchestra) (Rudolph The
+    Red Nosed Reindeer And Other Christmas Classics)
+  - Home On the Range
+  - Frosty the Snowman (His Christmas Album)
+  - >-
+    Up On The House Top (The Original: Gene Autry Sings Rudolph The Red-Nosed
+    Reindeer & Other Christmas Favorites)
+  - Back In the Saddle Again
+  - Deep In the Heart of Texas
+  - Here Comes Santa Claus (Right Down Santa Claus Lane) - 1947 Version
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/675b7627-6b5d-4a46-a728-785cb24a299e
-  spotify: https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs
+  musicbrainz: 'https://musicbrainz.org/artist/675b7627-6b5d-4a46-a728-785cb24a299e'
+  spotify: 'https://open.spotify.com/artist/5ixB75BQR3ADoWQkcHQJTs'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/gene_autry.jpg
 biography_enhanced_at: '2025-12-23T02:04:32.916935'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.oklahomahof.com/hof/inductees/autry-gene-1991
-- https://www.okhistory.org/publications/enc/entry?entry=AU004
-- https://www.geneautry.com/geneautry/geneautry_biography.php
-- https://www.imdb.com/name/nm0000810/bio/
-- https://www.songhall.org/profiles/gene-autry
+  - 'https://www.oklahomahof.com/hof/inductees/autry-gene-1991'
+  - 'https://www.okhistory.org/publications/enc/entry?entry=AU004'
+  - 'https://www.geneautry.com/geneautry/geneautry_biography.php'
+  - 'https://www.imdb.com/name/nm0000810/bio/'
+  - 'https://www.songhall.org/profiles/gene-autry'
 network_extracted: true
 entry_created: '2025-12-23T02:04:32.916942'
 last_updated: '2025-12-23T08:16:09.036574'
@@ -84,9 +93,10 @@ disambiguation: “The Singing Cowboy”
 gender: Male
 musicbrainz_id: 675b7627-6b5d-4a46-a728-785cb24a299e
 tags:
-- christmas music
-- country
-- country yodeling
+  - christmas music
+  - country
+  - country yodeling
+is_active: false
 ---
 
 ![](gene_autry.jpg)

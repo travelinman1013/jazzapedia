@@ -3,45 +3,51 @@ biography_enhanced_at: '2026-01-11T02:15:55.234496'
 enhancement_provider: perplexity
 entry_created: '2026-01-11T02:15:55.234508'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f3334749-88b0-45a0-b60a-3e9df2b8f1cb
-  spotify: https://open.spotify.com/artist/1EybJDNXLTqBuQb3hYEGbr
+  musicbrainz: 'https://musicbrainz.org/artist/f3334749-88b0-45a0-b60a-3e9df2b8f1cb'
+  spotify: 'https://open.spotify.com/artist/1EybJDNXLTqBuQb3hYEGbr'
   wikipedia: ''
 genres:
-- brass band
+  - brass band
 image_path: 03_Resources/source_material/ArtistPortraits/panorama_brass_band.jpg
 last_updated: '2026-01-11T02:15:55.234510'
 musical_connections:
   collaborators:
-  - Ben Schenck
-  - Panorama Jazz Band (parent ensemble)
-  - Krewe of Red Beans
-  - Krewe du Jieux
-  - Krewe of Muses and Knights of Babylon
+    - Ben Schenck
+    - Panorama Jazz Band (parent ensemble)
+    - Krewe of Red Beans
+    - Krewe du Jieux
+    - Krewe of Muses and Knights of Babylon
   influenced:
-  - New Orleans Carnival and parade scene (klezmer and global‑brass programming)
+    - >-
+      New Orleans Carnival and parade scene (klezmer and global‑brass
+      programming)
   mentors:
-  - Dr. Michael White
-  - Dejan’s Olympia Brass Band
-  - Sidney Bechet, Jelly Roll Morton, Louis Armstrong (New Orleans jazz pioneers)
+    - Dr. Michael White
+    - Dejan’s Olympia Brass Band
+    - >-
+      Sidney Bechet, Jelly Roll Morton, Louis Armstrong (New Orleans jazz
+      pioneers)
 musicbrainz_id: f3334749-88b0-45a0-b60a-3e9df2b8f1cb
 network_extracted: true
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 primary_source: perplexity
 research_sources:
-- https://bittersoutherner.com/kosher-gumbo-panorama-brass-band
-- https://www.youtube.com/watch?v=cedW78EQY88
-- https://www.offbeat.com/articles/rejoice-20-years-panorama-jazz-band/
-- https://www.myneworleans.com/ben-schenk-and-the-panorama-jazz-band/
-- https://syncopatedtimes.com/panorama-jazz-brass-band/
-- https://www.neworleans.com/listing/panorama-jazz-band/46512/
-- https://www.offbeat.com/music/panorama-jazz-band-come-out-swingin-independent-2/
+  - 'https://bittersoutherner.com/kosher-gumbo-panorama-brass-band'
+  - 'https://www.youtube.com/watch?v=cedW78EQY88'
+  - 'https://www.offbeat.com/articles/rejoice-20-years-panorama-jazz-band/'
+  - 'https://www.myneworleans.com/ben-schenk-and-the-panorama-jazz-band/'
+  - 'https://syncopatedtimes.com/panorama-jazz-brass-band/'
+  - 'https://www.neworleans.com/listing/panorama-jazz-band/46512/'
+  - >-
+    https://www.offbeat.com/music/panorama-jazz-band-come-out-swingin-independent-2/
 spotify_data:
   followers: 296
   id: 1EybJDNXLTqBuQb3hYEGbr
   popularity: 0
-  url: https://open.spotify.com/artist/1EybJDNXLTqBuQb3hYEGbr
+  url: 'https://open.spotify.com/artist/1EybJDNXLTqBuQb3hYEGbr'
 status: active
 title: Panorama Brass Band
+artist_type: band
 ---
 
 ![](panorama_brass_band.jpg)

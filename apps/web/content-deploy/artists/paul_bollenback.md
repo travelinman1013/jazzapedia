@@ -1,49 +1,51 @@
 ---
 biography_enhanced_at: '2026-01-22T07:03:18.236362'
-birth_place: Nebraska, United States (birthplace)
+birth_place: 'Nebraska, United States (birthplace)'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:03:18.236368'
 external_urls:
-  spotify: https://open.spotify.com/artist/30zzVi31X3rNNl2m4p9LKx
-  wikipedia: https://en.wikipedia.org/wiki/Paul_Bollenback
+  spotify: 'https://open.spotify.com/artist/30zzVi31X3rNNl2m4p9LKx'
+  wikipedia: 'https://en.wikipedia.org/wiki/Paul_Bollenback'
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/paul_bollenback.jpg
 last_updated: '2026-01-22T07:03:18.236369'
 musical_connections:
   collaborators:
-  - Joey DeFrancesco
-  - Gary Thomas
-  - Jeff 'Tain' Watts
-  - Stanley Turrentine
-  - Gary Bartz
-  - Joe Locke
-  - Byron Landham
-  - Brian Ho
-  - Pat Bianchi
-  - Wayne Escoffery
+    - Joey DeFrancesco
+    - Gary Thomas
+    - Jeff 'Tain' Watts
+    - Stanley Turrentine
+    - Gary Bartz
+    - Joe Locke
+    - Byron Landham
+    - Brian Ho
+    - Pat Bianchi
+    - Wayne Escoffery
   influenced:
-  - Students at Queens College, the New School, and Peabody Conservatory
+    - 'Students at Queens College, the New School, and Peabody Conservatory'
   mentors:
-  - Asher Zlotnik
+    - Asher Zlotnik
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.allaboutjazz.com/musicians/paul-bollenback/
-- http://www.bebopified.com/2010/11/interview-with-paul-bollenback.html
-- https://litchfieldjazzcamp.com/faculty/paul-bollenback/
-- https://www.benedettoguitars.com/player/paul-bollenback/
-- https://www.qc.cuny.edu/academics/music/paul-bollenback/
-- https://en.wikipedia.org/wiki/Paul_Bollenback
-- https://www.smallslive.com/artists/504-paul-bollenback/
-- https://www.allmusic.com/artist/paul-bollenback-mn0000746344
-- https://jazzfc.org/event/paul-bollenback-and-sylvia-cuenca/2023-03-16/
+  - 'https://www.allaboutjazz.com/musicians/paul-bollenback/'
+  - 'http://www.bebopified.com/2010/11/interview-with-paul-bollenback.html'
+  - 'https://litchfieldjazzcamp.com/faculty/paul-bollenback/'
+  - 'https://www.benedettoguitars.com/player/paul-bollenback/'
+  - 'https://www.qc.cuny.edu/academics/music/paul-bollenback/'
+  - 'https://en.wikipedia.org/wiki/Paul_Bollenback'
+  - 'https://www.smallslive.com/artists/504-paul-bollenback/'
+  - 'https://www.allmusic.com/artist/paul-bollenback-mn0000746344'
+  - 'https://jazzfc.org/event/paul-bollenback-and-sylvia-cuenca/2023-03-16/'
 spotify_data:
   followers: 1098
   id: 30zzVi31X3rNNl2m4p9LKx
   popularity: 7
-  url: https://open.spotify.com/artist/30zzVi31X3rNNl2m4p9LKx
+  url: 'https://open.spotify.com/artist/30zzVi31X3rNNl2m4p9LKx'
 status: active
 title: Paul Bollenback
+birth_date: '1959-06-06'
+artist_type: person
 ---
 
 ![](paul_bollenback.jpg)

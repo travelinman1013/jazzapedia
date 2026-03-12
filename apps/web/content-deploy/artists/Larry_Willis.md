@@ -2,25 +2,25 @@
 title: Larry Willis
 wiki_slug: larry-willis
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1940-12-20'
-birth_place: Harlem, New York City, New York, United States
+birth_place: 'Harlem, New York City, New York, United States'
 death_date: '2019-09-29'
 genres:
-- jazz funk
-- hard bop
-- soul jazz
+  - jazz funk
+  - hard bop
+  - soul jazz
 instruments:
-- keyboard
-- piano
-- original
+  - keyboard
+  - piano
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Larry_Willis.jpg
   caption: Larry Willis
   background: non_vocal_instrumentalist
   born: '1940-12-20'
-  origin: Harlem, New York City, New York, United States
+  origin: 'Harlem, New York City, New York, United States'
   died: '2019-09-29'
 audio_profile:
   tempo_avg: 115.4
@@ -37,49 +37,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Hugh Masekela
-  - Blood, Sweat & Tears
-  - Woody Shaw
-  - Cannonball Adderley
-  - Stan Getz
-  - Jackie McLean
+    - Hugh Masekela
+    - 'Blood, Sweat & Tears'
+    - Woody Shaw
+    - Cannonball Adderley
+    - Stan Getz
+    - Jackie McLean
   influenced:
-  - Fort Apache Band (Jerry and Andy Gonzalez)
+    - Fort Apache Band (Jerry and Andy Gonzalez)
   mentors:
-  - Jackie McLean
-  - John Mehegan
-  - Leonard Bernstein
+    - Jackie McLean
+    - John Mehegan
+    - Leonard Bernstein
 spotify_data:
   followers: 2131
   id: 3c7lE6pr9yECy745bMpvIV
   popularity: 7
-  url: https://open.spotify.com/artist/3c7lE6pr9yECy745bMpvIV
+  url: 'https://open.spotify.com/artist/3c7lE6pr9yECy745bMpvIV'
 discography_enriched: true
 top_tracks:
-- 153rd Street Theme
-- Out on the Coast
-- Inner Crisis
-- Inner Crisis - 2024 Remastered Version (Inner Crisis (2024 Remastered Version))
-- Out on the Coast - 2024 Remastered Version (Inner Crisis (2024 Remastered Version))
-- 153rd Street Theme - 2024 Remastered Version (Inner Crisis (2024 Remastered Version))
-- To wisdom, the prize (Heavy Blue)
-- '"Music"'
-- The Meaning of the Blues (I Fall in Love Too Easily (The Final Session at Rudy Van Gelder's))
-- For a Friend - 2024 Remastered Version (Inner Crisis (2024 Remastered Version))
+  - 153rd Street Theme
+  - Out on the Coast
+  - Inner Crisis
+  - >-
+    Inner Crisis - 2024 Remastered Version (Inner Crisis (2024 Remastered
+    Version))
+  - >-
+    Out on the Coast - 2024 Remastered Version (Inner Crisis (2024 Remastered
+    Version))
+  - >-
+    153rd Street Theme - 2024 Remastered Version (Inner Crisis (2024 Remastered
+    Version))
+  - 'To wisdom, the prize (Heavy Blue)'
+  - '"Music"'
+  - >-
+    The Meaning of the Blues (I Fall in Love Too Easily (The Final Session at
+    Rudy Van Gelder's))
+  - >-
+    For a Friend - 2024 Remastered Version (Inner Crisis (2024 Remastered
+    Version))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d6315c02-1307-4119-abc6-7de6d3c6ad0a
-  spotify: https://open.spotify.com/artist/3c7lE6pr9yECy745bMpvIV
-  wikipedia: https://en.wikipedia.org/wiki/Larry_Willis
+  musicbrainz: 'https://musicbrainz.org/artist/d6315c02-1307-4119-abc6-7de6d3c6ad0a'
+  spotify: 'https://open.spotify.com/artist/3c7lE6pr9yECy745bMpvIV'
+  wikipedia: 'https://en.wikipedia.org/wiki/Larry_Willis'
 image_path: 03_Resources/source_material/ArtistPortraits/Larry_Willis.jpg
 biography_enhanced_at: '2025-10-20T09:13:05.339684'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Larry_Willis
-- https://jazztimes.com/features/profiles/larry-willis-harlem/
-- https://downbeat.com/news/detail/in-memoriam-larry-willis-19422019
-- https://jazztimes.com/features/tributes-and-obituaries/larry-willis-1942-2019/
-- https://www.bluenote.com/artist/larry-willis/
+  - 'https://en.wikipedia.org/wiki/Larry_Willis'
+  - 'https://jazztimes.com/features/profiles/larry-willis-harlem/'
+  - 'https://downbeat.com/news/detail/in-memoriam-larry-willis-19422019'
+  - >-
+    https://jazztimes.com/features/tributes-and-obituaries/larry-willis-1942-2019/
+  - 'https://www.bluenote.com/artist/larry-willis/'
 network_extracted: true
 entry_created: '2025-10-20T09:13:05.339703'
 last_updated: '2025-12-23T08:16:02.947408'
@@ -87,9 +98,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:34:30.748040'
 musicbrainz_id: d6315c02-1307-4119-abc6-7de6d3c6ad0a
 tags:
-- avant-garde jazz
-- contemporary jazz
-- jazz
+  - avant-garde jazz
+  - contemporary jazz
+  - jazz
+is_active: false
 ---
 
 ![](Larry_Willis.jpg)

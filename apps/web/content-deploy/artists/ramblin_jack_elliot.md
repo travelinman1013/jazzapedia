@@ -1,52 +1,55 @@
 ---
 biography_enhanced_at: '2025-12-27T01:33:20.946767'
-birth_place: Brooklyn, New York, USA
+birth_place: 'Brooklyn, New York, USA'
 enhancement_provider: perplexity
 entry_created: '2025-12-27T01:33:20.946778'
 external_urls:
-  spotify: https://open.spotify.com/artist/6iuM8yp1x2N0l6SONhyq4b
-  wikipedia: https://en.wikipedia.org/wiki/Ramblin'_Jack_Elliott
+  spotify: 'https://open.spotify.com/artist/6iuM8yp1x2N0l6SONhyq4b'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ramblin''_Jack_Elliott'
 genres:
-- folk
-- americana
-- bluegrass
+  - folk
+  - americana
+  - bluegrass
 image_path: 03_Resources/source_material/ArtistPortraits/ramblin_jack_elliot.jpg
 last_updated: '2025-12-27T01:33:20.946780'
 musical_connections:
   collaborators:
-  - Derroll Adams
-  - Bob Dylan
-  - Phil Ochs
-  - Guy Carawan
-  - Frank Robinson
+    - Derroll Adams
+    - Bob Dylan
+    - Phil Ochs
+    - Guy Carawan
+    - Frank Robinson
   influenced:
-  - Bob Dylan
-  - Arlo Guthrie
-  - Mick Jagger
-  - Eric Clapton
-  - Jerry Jeff Walker
-  - Guy Clark
+    - Bob Dylan
+    - Arlo Guthrie
+    - Mick Jagger
+    - Eric Clapton
+    - Jerry Jeff Walker
+    - Guy Clark
   mentors:
-  - Woody Guthrie
-  - Brahmer Rogers
-  - Leadbelly
-  - Mississippi John Hurt
-  - Reverend Gary Davis
+    - Woody Guthrie
+    - Brahmer Rogers
+    - Leadbelly
+    - Mississippi John Hurt
+    - Reverend Gary Davis
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://ramblinjackelliott.com/bio/
-- https://en.wikipedia.org/wiki/Ramblin'_Jack_Elliott
-- https://www.americanbluesscene.com/2024/07/the-folk-americana-roots-hall-of-fame-inductees-solo-living-artist-ramblin-jack-elliot/
-- https://www.bkmag.com/2023/10/30/ramblin-jack-elliott-is-still-wandering-and-warbling-at-92/
+  - 'https://ramblinjackelliott.com/bio/'
+  - 'https://en.wikipedia.org/wiki/Ramblin''_Jack_Elliott'
+  - >-
+    https://www.americanbluesscene.com/2024/07/the-folk-americana-roots-hall-of-fame-inductees-solo-living-artist-ramblin-jack-elliot/
+  - >-
+    https://www.bkmag.com/2023/10/30/ramblin-jack-elliott-is-still-wandering-and-warbling-at-92/
 spotify_data:
   followers: 35789
   id: 6iuM8yp1x2N0l6SONhyq4b
   popularity: 33
-  url: https://open.spotify.com/artist/6iuM8yp1x2N0l6SONhyq4b
+  url: 'https://open.spotify.com/artist/6iuM8yp1x2N0l6SONhyq4b'
 status: active
-title: ramblin' jack elliot
-
+title: Ramblin' Jack Elliott
+birth_date: '1931-08-01'
+artist_type: person
 ---
 
 ![](ramblin_jack_elliot.jpg)

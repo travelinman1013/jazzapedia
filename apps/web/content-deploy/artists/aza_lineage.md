@@ -1,50 +1,52 @@
 ---
 artist_type: person
 biography_enhanced_at: '2025-12-29T01:19:50.787502'
-birth_place: Kingston 7, Jamaica
+birth_place: 'Kingston 7, Jamaica, United States'
 disambiguation: Singer & Song writer
 enhancement_provider: perplexity
 entry_created: '2025-12-29T01:19:50.787510'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f65c5d9a-eb4b-455a-aa00-ca5d5bf6aefb
-  spotify: https://open.spotify.com/artist/5UtJstpMtINnCg697jQZ81
+  musicbrainz: 'https://musicbrainz.org/artist/f65c5d9a-eb4b-455a-aa00-ca5d5bf6aefb'
+  spotify: 'https://open.spotify.com/artist/5UtJstpMtINnCg697jQZ81'
   wikipedia: ''
 gender: Female
 genres:
-- reggae
-- dub
-- roots reggae
-- ragga
+  - reggae
+  - dub
+  - roots reggae
+  - ragga
 image_path: 03_Resources/source_material/ArtistPortraits/aza_lineage.jpg
 last_updated: '2025-12-29T01:19:50.787512'
 musical_connections:
   collaborators:
-  - King Jammy
-  - Dennis Brown
-  - Culture Horn
+    - King Jammy
+    - Dennis Brown
+    - Culture Horn
   influenced: []
   mentors:
-  - King Jammy
-  - Kevin 'Lineage'
+    - King Jammy
+    - Kevin 'Lineage'
 musicbrainz_id: f65c5d9a-eb4b-455a-aa00-ca5d5bf6aefb
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.reggaeville.com/artist-details/aza-lineage/about/
-- https://www.viberate.com/artist/aza-lineage/
-- https://www.diggersfactory.com/es/artist/2591/aza-lineage
-- https://vprecords.com/peer-to-peer-with-aza-lineage/
-- https://www.reggaeville.com/artist-details/aza-lineage/details/
-- http://www.dubophonic.com/2020/07/aza-lineage-culture-horn-i-give-thanks.html
-- https://oneoffrockers.blogspot.com/2018/
-- https://www.mrcnnlive.com/qa-aza-lineage-interview/
+  - 'https://www.reggaeville.com/artist-details/aza-lineage/about/'
+  - 'https://www.viberate.com/artist/aza-lineage/'
+  - 'https://www.diggersfactory.com/es/artist/2591/aza-lineage'
+  - 'https://vprecords.com/peer-to-peer-with-aza-lineage/'
+  - 'https://www.reggaeville.com/artist-details/aza-lineage/details/'
+  - >-
+    http://www.dubophonic.com/2020/07/aza-lineage-culture-horn-i-give-thanks.html
+  - 'https://oneoffrockers.blogspot.com/2018/'
+  - 'https://www.mrcnnlive.com/qa-aza-lineage-interview/'
 spotify_data:
   followers: 10329
   id: 5UtJstpMtINnCg697jQZ81
   popularity: 34
-  url: https://open.spotify.com/artist/5UtJstpMtINnCg697jQZ81
+  url: 'https://open.spotify.com/artist/5UtJstpMtINnCg697jQZ81'
 status: active
 title: Aza Lineage
+origin: 'Kingston, Jamaica, United States'
 ---
 
 ![](aza_lineage.jpg)

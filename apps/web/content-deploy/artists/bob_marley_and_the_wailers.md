@@ -2,22 +2,22 @@
 title: Bob Marley & The Wailers
 wiki_slug: bob-marley-the-wailers
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: 1970-12
 genres:
-- reggae
-- roots reggae
+  - reggae
+  - roots reggae
 instruments:
-- lead vocals
-- original
-- guitar
-- percussion
-- eponymous
-- electric bass guitar
-- drums (drum set)
-- background vocals
-- keyboard
+  - lead vocals
+  - original
+  - guitar
+  - percussion
+  - eponymous
+  - electric bass guitar
+  - drums (drum set)
+  - background vocals
+  - keyboard
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bob_marley_and_the_wailers.jpg
   caption: Bob Marley & The Wailers
@@ -38,159 +38,160 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Peter Tosh
-  - Bunny Wailer
-  - Aston 'Family Man' Barrett
-  - Carlton Barrett
-  - Rita Marley
-  - Chris Blackwell
+    - Peter Tosh
+    - Bunny Wailer
+    - Aston 'Family Man' Barrett
+    - Carlton Barrett
+    - Rita Marley
+    - Chris Blackwell
   influenced:
-  - Eric Clapton
-  - Ziggy Marley
-  - The Police
-  - Lauryn Hill
+    - Eric Clapton
+    - Ziggy Marley
+    - The Police
+    - Lauryn Hill
   mentors:
-  - Joe Higgs
-  - Lee 'Scratch' Perry
+    - Joe Higgs
+    - Lee 'Scratch' Perry
 spotify_data:
   followers: 13360751
   id: 2QsynagSdAqZj3U9HgDzjD
   popularity: 78
-  url: https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD
+  url: 'https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD'
 discography_enriched: true
 top_tracks:
-- Could You Be Loved (Uprising)
-- Three Little Birds (Exodus)
-- Is This Love (Kaya)
-- Jamming (Exodus)
-- Natural Mystic (Exodus)
-- One Love / People Get Ready (Exodus)
-- Waiting In Vain (Exodus)
-- Buffalo Soldier (Confrontation)
-- Redemption Song (Uprising)
-- Three Little Birds
+  - Could You Be Loved (Uprising)
+  - Three Little Birds (Exodus)
+  - Is This Love (Kaya)
+  - Jamming (Exodus)
+  - Natural Mystic (Exodus)
+  - One Love / People Get Ready (Exodus)
+  - Waiting In Vain (Exodus)
+  - Buffalo Soldier (Confrontation)
+  - Redemption Song (Uprising)
+  - Three Little Birds
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c296e10c-110a-4103-9e77-47bfebb7fb2e
-  spotify: https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD
-  wikipedia: https://en.wikipedia.org/wiki/Bob_Marley_and_the_Wailers
+  musicbrainz: 'https://musicbrainz.org/artist/c296e10c-110a-4103-9e77-47bfebb7fb2e'
+  spotify: 'https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bob_Marley_and_the_Wailers'
 image_path: 03_Resources/source_material/ArtistPortraits/bob_marley_and_the_wailers.jpg
 biography_enhanced_at: '2025-10-27T02:43:19.175406'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Bob_Marley_and_the_Wailers
-- https://historycooperative.org/bob-marley-bio/
-- https://www.bobmarley.com/history/
-- https://thehouseofmarley.com/blogs/news/bob-marley-biography
-- https://www.biography.com/musicians/bob-marley
+  - 'https://en.wikipedia.org/wiki/Bob_Marley_and_the_Wailers'
+  - 'https://historycooperative.org/bob-marley-bio/'
+  - 'https://www.bobmarley.com/history/'
+  - 'https://thehouseofmarley.com/blogs/news/bob-marley-biography'
+  - 'https://www.biography.com/musicians/bob-marley'
 network_extracted: true
 entry_created: '2025-10-27T02:43:19.175426'
 last_updated: '2025-12-23T08:16:05.811064'
 members:
-- begin: 1970-12
-  end: '1973'
-  instruments:
-  - lead vocals
-  - original
-  mbid: 7db6aae5-6644-4513-9bfc-ca2e79d4469c
-  name: Peter Tosh
-- begin: 1970-12
-  end: '1973'
-  instruments:
-  - guitar
-  - original
-  mbid: 7db6aae5-6644-4513-9bfc-ca2e79d4469c
-  name: Peter Tosh
-- begin: 1970-12
-  end: '1973'
-  instruments:
-  - lead vocals
-  - original
-  mbid: d4ab32fd-e45d-44bf-9e70-891521672085
-  name: Bunny Wailer
-- begin: 1970-12
-  end: '1973'
-  instruments:
-  - original
-  - percussion
-  mbid: d4ab32fd-e45d-44bf-9e70-891521672085
-  name: Bunny Wailer
-- begin: 1970-12
-  end: '1981-05-11'
-  instruments:
-  - eponymous
-  - lead vocals
-  - original
-  mbid: ed2ac1e9-d51d-4eff-a2c2-85e81abd6360
-  name: Bob Marley
-- begin: 1970-12
-  end: '1981-05-11'
-  instruments:
-  - eponymous
-  - guitar
-  - original
-  mbid: ed2ac1e9-d51d-4eff-a2c2-85e81abd6360
-  name: Bob Marley
-- begin: '1973'
-  end: '1978'
-  instruments:
-  - guitar
-  mbid: 38a7e7a6-361b-479b-8467-9b3d3e6fa230
-  name: Al Anderson
-- begin: '1974'
-  end: '1981-05-11'
-  instruments:
-  - electric bass guitar
-  mbid: d0fd73f3-4268-4c25-a046-3a812b894b85
-  name: Aston “Family Man” Barrett
-- begin: '1974'
-  end: '1981-05-11'
-  instruments:
-  - drums (drum set)
-  mbid: 1e85ec19-0c22-4a7e-b7ce-784bae954e46
-  name: Carlton “Carly” Barrett
-- begin: '1974'
-  end: '1981-05-11'
-  instruments:
-  - background vocals
-  mbid: efc381ba-ea68-49ca-af91-bebdd40fe1d8
-  name: Rita Marley
-- begin: '1974'
-  end: '1981-05-11'
-  instruments:
-  - background vocals
-  mbid: 67919668-0060-4097-9687-8af0ed1df3da
-  name: Judy Mowatt
-- begin: '1974'
-  end: '1981'
-  instruments:
-  - background vocals
-  mbid: f7fb3771-3dc1-4b7b-b144-7f0a43fa1422
-  name: Marcia Griffiths
-- begin: '1977-02-14'
-  end: '1981-05-11'
-  instruments:
-  - background vocals
-  mbid: 216abc4b-001c-418f-b2a3-94514a7ac543
-  name: Junior Marvin
-- begin: '1977-02-14'
-  end: '1981-05-11'
-  instruments:
-  - guitar
-  mbid: 216abc4b-001c-418f-b2a3-94514a7ac543
-  name: Junior Marvin
-- begin: ''
-  end: ''
-  instruments:
-  - keyboard
-  mbid: 18480420-13f5-470a-a8ec-fc4ebaeb2ac1
-  name: Nathaniel Ian Wynter
+  - begin: 1970-12
+    end: '1973'
+    instruments:
+      - lead vocals
+      - original
+    mbid: 7db6aae5-6644-4513-9bfc-ca2e79d4469c
+    name: Peter Tosh
+  - begin: 1970-12
+    end: '1973'
+    instruments:
+      - guitar
+      - original
+    mbid: 7db6aae5-6644-4513-9bfc-ca2e79d4469c
+    name: Peter Tosh
+  - begin: 1970-12
+    end: '1973'
+    instruments:
+      - lead vocals
+      - original
+    mbid: d4ab32fd-e45d-44bf-9e70-891521672085
+    name: Bunny Wailer
+  - begin: 1970-12
+    end: '1973'
+    instruments:
+      - original
+      - percussion
+    mbid: d4ab32fd-e45d-44bf-9e70-891521672085
+    name: Bunny Wailer
+  - begin: 1970-12
+    end: '1981-05-11'
+    instruments:
+      - eponymous
+      - lead vocals
+      - original
+    mbid: ed2ac1e9-d51d-4eff-a2c2-85e81abd6360
+    name: Bob Marley
+  - begin: 1970-12
+    end: '1981-05-11'
+    instruments:
+      - eponymous
+      - guitar
+      - original
+    mbid: ed2ac1e9-d51d-4eff-a2c2-85e81abd6360
+    name: Bob Marley
+  - begin: '1973'
+    end: '1978'
+    instruments:
+      - guitar
+    mbid: 38a7e7a6-361b-479b-8467-9b3d3e6fa230
+    name: Al Anderson
+  - begin: '1974'
+    end: '1981-05-11'
+    instruments:
+      - electric bass guitar
+    mbid: d0fd73f3-4268-4c25-a046-3a812b894b85
+    name: Aston “Family Man” Barrett
+  - begin: '1974'
+    end: '1981-05-11'
+    instruments:
+      - drums (drum set)
+    mbid: 1e85ec19-0c22-4a7e-b7ce-784bae954e46
+    name: Carlton “Carly” Barrett
+  - begin: '1974'
+    end: '1981-05-11'
+    instruments:
+      - background vocals
+    mbid: efc381ba-ea68-49ca-af91-bebdd40fe1d8
+    name: Rita Marley
+  - begin: '1974'
+    end: '1981-05-11'
+    instruments:
+      - background vocals
+    mbid: 67919668-0060-4097-9687-8af0ed1df3da
+    name: Judy Mowatt
+  - begin: '1974'
+    end: '1981'
+    instruments:
+      - background vocals
+    mbid: f7fb3771-3dc1-4b7b-b144-7f0a43fa1422
+    name: Marcia Griffiths
+  - begin: '1977-02-14'
+    end: '1981-05-11'
+    instruments:
+      - background vocals
+    mbid: 216abc4b-001c-418f-b2a3-94514a7ac543
+    name: Junior Marvin
+  - begin: '1977-02-14'
+    end: '1981-05-11'
+    instruments:
+      - guitar
+    mbid: 216abc4b-001c-418f-b2a3-94514a7ac543
+    name: Junior Marvin
+  - begin: ''
+    end: ''
+    instruments:
+      - keyboard
+    mbid: 18480420-13f5-470a-a8ec-fc4ebaeb2ac1
+    name: Nathaniel Ian Wynter
 musicbrainz_id: c296e10c-110a-4103-9e77-47bfebb7fb2e
-origin: Kingston
+origin: 'Kingston, Jamaica, United States'
 tags:
-- banbarra
-- reggae
-- rocksteady
+  - banbarra
+  - reggae
+  - rocksteady
+death_date: '1981-05-11'
 ---
 
 ![](bob_marley_and_the_wailers.jpg)

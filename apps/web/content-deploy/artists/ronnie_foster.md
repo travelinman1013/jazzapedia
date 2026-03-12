@@ -2,60 +2,60 @@
 artist_type: person
 biography_enhanced_at: '2026-01-13T01:10:22.437017'
 birth_date: '1950-05-12'
-birth_place: Buffalo
+birth_place: 'Buffalo, New York, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-13T01:10:22.437023'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/626faf7d-9da5-4c90-afa5-ccebdc6316b2
-  spotify: https://open.spotify.com/artist/4B5XByhwtjsqGxs91fYMhZ
+  musicbrainz: 'https://musicbrainz.org/artist/626faf7d-9da5-4c90-afa5-ccebdc6316b2'
+  spotify: 'https://open.spotify.com/artist/4B5XByhwtjsqGxs91fYMhZ'
   wikipedia: ''
 gender: Male
 genres:
-- jazz funk
-- soul jazz
-- jazz fusion
+  - jazz funk
+  - soul jazz
+  - jazz fusion
 image_path: 03_Resources/source_material/ArtistPortraits/ronnie_foster.jpg
 instruments:
-- electric piano
-- Rhodes piano
-- piano
-- background vocals
-- lead vocals
+  - electric piano
+  - Rhodes piano
+  - piano
+  - background vocals
+  - lead vocals
 last_updated: '2026-01-13T01:10:22.437024'
 musical_connections:
   collaborators:
-  - George Benson
-  - Grant Green
-  - Stanley Turrentine
-  - Stevie Wonder
+    - George Benson
+    - Grant Green
+    - Stanley Turrentine
+    - Stevie Wonder
   influenced:
-  - Acid jazz and hip-hop artists
-  - Roger Smith
+    - Acid jazz and hip-hop artists
+    - Roger Smith
   mentors:
-  - Jimmy Smith
-  - Joe Madison
-  - Larry Young
+    - Jimmy Smith
+    - Joe Madison
+    - Larry Young
 musicbrainz_id: 626faf7d-9da5-4c90-afa5-ccebdc6316b2
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.bmhof.org/Inductees-F/Ronnie-Foster.html
-- https://www.allaboutjazz.com/musicians/ronnie-foster/
-- https://www.ronniefostermusic.com/about/
-- https://jazzweekly.com/2022/07/ronnie-foster-interview/
-- https://www.vinyl-magic.com/blog/ronnie-foster-and-me
-- https://www.lounsberrypedals.com/artists/ronnie-foster/
-- https://www.sfjazz.org/onthecorner/ronnie-fosters-mystic-brew/
+  - 'https://www.bmhof.org/Inductees-F/Ronnie-Foster.html'
+  - 'https://www.allaboutjazz.com/musicians/ronnie-foster/'
+  - 'https://www.ronniefostermusic.com/about/'
+  - 'https://jazzweekly.com/2022/07/ronnie-foster-interview/'
+  - 'https://www.vinyl-magic.com/blog/ronnie-foster-and-me'
+  - 'https://www.lounsberrypedals.com/artists/ronnie-foster/'
+  - 'https://www.sfjazz.org/onthecorner/ronnie-fosters-mystic-brew/'
 spotify_data:
   followers: 30406
   id: 4B5XByhwtjsqGxs91fYMhZ
   popularity: 37
-  url: https://open.spotify.com/artist/4B5XByhwtjsqGxs91fYMhZ
+  url: 'https://open.spotify.com/artist/4B5XByhwtjsqGxs91fYMhZ'
 status: active
 tags:
-- jazz
-- jazz-funk
-- soul jazz
+  - jazz
+  - jazz-funk
+  - soul jazz
 title: Ronnie Foster
 ---
 

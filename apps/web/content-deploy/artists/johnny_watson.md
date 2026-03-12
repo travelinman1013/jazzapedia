@@ -1,16 +1,16 @@
 ---
-title: johnny watson
+title: Johnny Watson
 wiki_slug: johnny-watson
 schema_version: 2
 status: active
-birth_place: Houston, Texas, United States
+birth_place: 'Houston, Texas, United States'
 genres:
-- blues
+  - blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/johnny_watson.jpg
   caption: johnny watson
   background: solo_singer
-  origin: Houston, Texas, United States
+  origin: 'Houston, Texas, United States'
 audio_profile:
   tempo_avg: 115.2
   energy_avg: 0.574
@@ -26,51 +26,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Chuck Higgins
-  - Amos Milburn
-  - Albert Collins
-  - Johnny Copeland
+    - Chuck Higgins
+    - Amos Milburn
+    - Albert Collins
+    - Johnny Copeland
   influenced:
-  - Frank Zappa
-  - Eric Clapton
-  - Snoop Dogg
+    - Frank Zappa
+    - Eric Clapton
+    - Snoop Dogg
   mentors:
-  - T-Bone Walker
-  - Clarence 'Gatemouth' Brown
+    - T-Bone Walker
+    - Clarence 'Gatemouth' Brown
 spotify_data:
   followers: 71761
   id: 6uB4Ax6mlzohDTLqLOJ6Vl
   popularity: 36
-  url: https://open.spotify.com/artist/6uB4Ax6mlzohDTLqLOJ6Vl
+  url: 'https://open.spotify.com/artist/6uB4Ax6mlzohDTLqLOJ6Vl'
 discography_enriched: true
 top_tracks:
-- A Real Mother For Ya (A Real Mother For Ya)
-- Superman Lover (Ain't That A Bitch)
-- Gangster Of Love (Vivid Sound)
-- Ain't That A Bitch (Ain't That A Bitch)
-- I Want To Ta-Ta You Baby (Ain't That A Bitch)
-- Too Tired (Late Night Etta James)
-- I Don't Want To Be A Lone Ranger (Lone Ranger)
-- Booty Ooty (Love Jones)
-- Cuttin' In (Vivid Sound)
-- Nothing Left To Be Desired (A Real Mother For Ya)
+  - A Real Mother For Ya (A Real Mother For Ya)
+  - Superman Lover (Ain't That A Bitch)
+  - Gangster Of Love (Vivid Sound)
+  - Ain't That A Bitch (Ain't That A Bitch)
+  - I Want To Ta-Ta You Baby (Ain't That A Bitch)
+  - Too Tired (Late Night Etta James)
+  - I Don't Want To Be A Lone Ranger (Lone Ranger)
+  - Booty Ooty (Love Jones)
+  - Cuttin' In (Vivid Sound)
+  - Nothing Left To Be Desired (A Real Mother For Ya)
 external_urls:
-  spotify: https://open.spotify.com/artist/6uB4Ax6mlzohDTLqLOJ6Vl
-  wikipedia: https://en.wikipedia.org/wiki/Johnny_Guitar_Watson
+  spotify: 'https://open.spotify.com/artist/6uB4Ax6mlzohDTLqLOJ6Vl'
+  wikipedia: 'https://en.wikipedia.org/wiki/Johnny_Guitar_Watson'
 image_path: 03_Resources/source_material/ArtistPortraits/johnny_watson.jpg
 biography_enhanced_at: '2025-11-04T11:06:46.238507'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://learnguitarcafe.com/johnny-guitar-watson/
-- https://blues.org/blues_hof_inductee/johnny-guitar-watson/
-- https://legsville.com/the-many-lives-and-gangster-death-of-johnny-guitar-watson/
-- https://kutx.org/features/johnny-guitar-watson/
-- https://www.americanbluesscene.com/2017/02/10-things-didnt-know-johnny-guitar-watson/
-- https://www.tshaonline.org/handbook/entries/watson-johnny-guitar
+  - 'https://learnguitarcafe.com/johnny-guitar-watson/'
+  - 'https://blues.org/blues_hof_inductee/johnny-guitar-watson/'
+  - >-
+    https://legsville.com/the-many-lives-and-gangster-death-of-johnny-guitar-watson/
+  - 'https://kutx.org/features/johnny-guitar-watson/'
+  - >-
+    https://www.americanbluesscene.com/2017/02/10-things-didnt-know-johnny-guitar-watson/
+  - 'https://www.tshaonline.org/handbook/entries/watson-johnny-guitar'
 network_extracted: true
 entry_created: '2025-11-04T11:06:46.238517'
 last_updated: '2025-12-23T08:16:10.913811'
+birth_date: '1935-02-03'
+artist_type: person
 ---
 
 ![](johnny_watson.jpg)

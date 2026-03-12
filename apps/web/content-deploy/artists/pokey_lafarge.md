@@ -1,35 +1,35 @@
 ---
-title: pokey lafarge
+title: Pokey LaFarge
 wiki_slug: pokey-lafarge
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1983'
-birth_place: Bloomington
+birth_place: 'Bloomington, Illinois, United States'
 genres:
-- americana
-- bluegrass
+  - americana
+  - bluegrass
 instruments:
-- eponymous
-- lead vocals
-- acoustic guitar
-- guitar
-- electric guitar
-- background vocals
-- vocal
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - lead vocals
-  mbid: dd77d24b-036e-4dab-90be-e4d883c98ef5
-  name: Pokey LaFarge and the South City Three
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9d7f46f6-5d76-496b-ac4e-88082dcefef4
-  name: Southside Collective
+  - acoustic guitar
+  - guitar
+  - electric guitar
+  - background vocals
+  - vocal
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - lead vocals
+    mbid: dd77d24b-036e-4dab-90be-e4d883c98ef5
+    name: Pokey LaFarge and the South City Three
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9d7f46f6-5d76-496b-ac4e-88082dcefef4
+    name: Southside Collective
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/pokey_lafarge.jpg
   caption: pokey lafarge
@@ -51,54 +51,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Hackensaw Boys
-  - Jack White
-  - Vince Giordano and the Nighthawks
+    - The Hackensaw Boys
+    - Jack White
+    - Vince Giordano and the Nighthawks
   influenced:
-  - Emerging Americana and roots musicians
+    - Emerging Americana and roots musicians
   mentors:
-  - Pokey LaFarge's Grandfather
-  - Muddy Waters, Willie Dixon, Robert Wilkins, Skip James
-  - John Steinbeck, Ernest Hemingway, Jack Kerouac
+    - Pokey LaFarge's Grandfather
+    - 'Muddy Waters, Willie Dixon, Robert Wilkins, Skip James'
+    - 'John Steinbeck, Ernest Hemingway, Jack Kerouac'
 spotify_data:
   followers: 126478
   id: 6hAUCkzZpoYGObd8qFW5TT
   popularity: 41
-  url: https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT
+  url: 'https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT'
 discography_enriched: true
 top_tracks:
-- Fine to Me (In The Blossom of Their Shade)
-- Fuck Me Up (Rock Bottom Rhapsody)
-- Something In The Water (Something In The Water)
-- So Long Chicago (Rhumba Country)
-- Get It ‘Fore It’s Gone (In The Blossom of Their Shade)
-- End Of My Rope (Rock Bottom Rhapsody)
-- Cursed Six Strings (O'DESSA (Original Motion Picture Soundtrack))
-- Rotterdam (In The Blossom of Their Shade)
-- Lucky Sometimes (Rock Bottom Rhapsody)
-- Sister Andre (Rhumba Country)
+  - Fine to Me (In The Blossom of Their Shade)
+  - Fuck Me Up (Rock Bottom Rhapsody)
+  - Something In The Water (Something In The Water)
+  - So Long Chicago (Rhumba Country)
+  - Get It ‘Fore It’s Gone (In The Blossom of Their Shade)
+  - End Of My Rope (Rock Bottom Rhapsody)
+  - Cursed Six Strings (O'DESSA (Original Motion Picture Soundtrack))
+  - Rotterdam (In The Blossom of Their Shade)
+  - Lucky Sometimes (Rock Bottom Rhapsody)
+  - Sister Andre (Rhumba Country)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c76dd1b2-b35f-48c6-89e3-09dadb67284c
-  spotify: https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT
-  wikipedia: https://en.wikipedia.org/wiki/Pokey_LaFarge
+  musicbrainz: 'https://musicbrainz.org/artist/c76dd1b2-b35f-48c6-89e3-09dadb67284c'
+  spotify: 'https://open.spotify.com/artist/6hAUCkzZpoYGObd8qFW5TT'
+  wikipedia: 'https://en.wikipedia.org/wiki/Pokey_LaFarge'
 image_path: 03_Resources/source_material/ArtistPortraits/pokey_lafarge.jpg
 biography_enhanced_at: '2025-10-31T08:19:13.927816'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.therosiegspot.com/post/pokey-lafarge
-- https://www.vintagerockmag.com/2024/07/pokey-lafarge-rhumba-country-interview/
-- https://www.imdb.com/name/nm5765616/bio/
-- https://folkalley.com/a-q-a-with-pokey-lafarge/
-- https://stuartsoperahouse.org/events/pokey-lafarge
-- https://www.premierguitar.com/artists/pokey-lafarge-wild-wild-midwesterner
+  - 'https://www.therosiegspot.com/post/pokey-lafarge'
+  - >-
+    https://www.vintagerockmag.com/2024/07/pokey-lafarge-rhumba-country-interview/
+  - 'https://www.imdb.com/name/nm5765616/bio/'
+  - 'https://folkalley.com/a-q-a-with-pokey-lafarge/'
+  - 'https://stuartsoperahouse.org/events/pokey-lafarge'
+  - 'https://www.premierguitar.com/artists/pokey-lafarge-wild-wild-midwesterner'
 network_extracted: true
 entry_created: '2025-10-31T08:19:13.927826'
 last_updated: '2025-12-23T08:16:14.381351'
 gender: Male
 musicbrainz_id: c76dd1b2-b35f-48c6-89e3-09dadb67284c
 tags:
-- american folk
+  - american folk
+origin: 'Normal, Illinois, United States'
 ---
 
 ![](pokey_lafarge.jpg)

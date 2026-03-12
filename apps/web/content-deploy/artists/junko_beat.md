@@ -1,5 +1,5 @@
 ---
-title: junko beat
+title: Junko Beat
 wiki_slug: junko-beat
 schema_version: 2
 status: active
@@ -15,7 +15,7 @@ audio_profile:
   danceability_avg: 0.589
   acousticness_avg: 0.127
   instrumentalness_avg: 0.605
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.047
   liveness_avg: 0.179
   track_count: 17
@@ -23,42 +23,43 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Chris Lacinak
+    - Chris Lacinak
   influenced:
-  - Not specified
+    - Not specified
   mentors:
-  - Not specified
+    - Not specified
 spotify_data:
   followers: 36
   id: 6bFfLqYQiKtbTm8Rl3snTp
   popularity: 0
-  url: https://open.spotify.com/artist/6bFfLqYQiKtbTm8Rl3snTp
+  url: 'https://open.spotify.com/artist/6bFfLqYQiKtbTm8Rl3snTp'
 discography_enriched: true
 top_tracks:
-- Control (Satirifunk)
-- After Burn (Satirifunk)
-- Words (Satirifunk)
-- March 1827 (Satirifunk)
-- Voyage to Gold and Green (Satirifunk)
-- Lotus Rising (Satirifunk)
-- Land of Milk and Honey (Satirifunk)
-- Let Me Hear You Sing (Jamkronic)
-- Enter Galactic (Jamkronic)
-- Na Na (Jamkronic)
+  - Control (Satirifunk)
+  - After Burn (Satirifunk)
+  - Words (Satirifunk)
+  - March 1827 (Satirifunk)
+  - Voyage to Gold and Green (Satirifunk)
+  - Lotus Rising (Satirifunk)
+  - Land of Milk and Honey (Satirifunk)
+  - Let Me Hear You Sing (Jamkronic)
+  - Enter Galactic (Jamkronic)
+  - Na Na (Jamkronic)
 external_urls:
-  spotify: https://open.spotify.com/artist/6bFfLqYQiKtbTm8Rl3snTp
+  spotify: 'https://open.spotify.com/artist/6bFfLqYQiKtbTm8Rl3snTp'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/junko_beat.jpg
 biography_enhanced_at: '2025-11-15T18:36:14.335181'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.treehousedrums.com/chris-lacinak.html
-- https://www.neworleansvinylclub.com/library/junkobeat-satirifunk/
+  - 'https://www.treehousedrums.com/chris-lacinak.html'
+  - 'https://www.neworleansvinylclub.com/library/junkobeat-satirifunk/'
 network_extracted: true
 entry_created: '2025-11-15T18:36:14.335187'
 last_updated: '2025-12-23T08:16:11.109173'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](junko_beat.jpg)

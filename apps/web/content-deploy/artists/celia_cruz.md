@@ -5,32 +5,32 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1925-10-21'
-birth_place: La Habana
+birth_place: 'La Habana, Cuba'
 death_date: '2003-07-16'
 genres:
-- salsa
-- son cubano
-- bolero
-- cha cha cha
-- merengue
-- mambo
-- latin
-- latin dance
+  - salsa
+  - son cubano
+  - bolero
+  - cha cha cha
+  - merengue
+  - mambo
+  - latin
+  - latin dance
 instruments:
-- other vocals
-- lead vocals
-- background vocals
+  - other vocals
+  - lead vocals
+  - background vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4b61339a-4074-43a6-bf6b-7f9d0d5d530f
-  name: Fania All-Stars
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 89709d6f-9041-46a6-896e-dbae14452d9e
-  name: Coro Yoruba y Tambores Batá
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4b61339a-4074-43a6-bf6b-7f9d0d5d530f
+    name: Fania All-Stars
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 89709d6f-9041-46a6-896e-dbae14452d9e
+    name: Coro Yoruba y Tambores Batá
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/celia_cruz.jpg
   caption: Celia Cruz
@@ -53,61 +53,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - La Sonora Matancera
-  - Tito Puente
-  - Johnny Pacheco
-  - Willie Colón
-  - Fania All-Stars
-  - Ray Barretto
-  - Wyclef Jean
+    - La Sonora Matancera
+    - Tito Puente
+    - Johnny Pacheco
+    - Willie Colón
+    - Fania All-Stars
+    - Ray Barretto
+    - Wyclef Jean
   influenced:
-  - Gloria Estefan
-  - Marc Anthony
-  - India (La India)
+    - Gloria Estefan
+    - Marc Anthony
+    - India (La India)
   mentors:
-  - Her aunt and cousin
-  - Havana’s National Conservatory of Music
+    - Her aunt and cousin
+    - Havana’s National Conservatory of Music
 spotify_data:
   followers: 721183
   id: 2weA6hhVqTIN2gSn9PUB9U
   popularity: 64
-  url: https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U
+  url: 'https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U'
 discography_enriched: true
 top_tracks:
-- El Ultimo Adiós - Varios Artistas Version
-- Quimbara (Celia & Johnny)
-- La Vida Es Un Carnaval (Para La Eternidad)
-- La Vida Es Un Carnaval (Mi Vida Es Cantar)
-- La Negra Tiene Tumbao (La Negra Tiene Tumbao)
-- La Negra Tiene Tumbao (La Negra Tiene Tumbao)
-- Rie y Llora (Regalo Del Alma)
-- La Vida Es Un Carnaval (Mi Vida Es Cantar)
-- Guantanamera (feat. Ms. Lauryn Hill, Celia Cruz & Jeni Fujita) (Wyclef Jean presents The Carnival featuring Refugee Allstars
-  (feat. Refugee All Stars))
-- La Negra Tiene Tumbao
+  - El Ultimo Adiós - Varios Artistas Version
+  - Quimbara (Celia & Johnny)
+  - La Vida Es Un Carnaval (Para La Eternidad)
+  - La Vida Es Un Carnaval (Mi Vida Es Cantar)
+  - La Negra Tiene Tumbao (La Negra Tiene Tumbao)
+  - La Negra Tiene Tumbao (La Negra Tiene Tumbao)
+  - Rie y Llora (Regalo Del Alma)
+  - La Vida Es Un Carnaval (Mi Vida Es Cantar)
+  - >-
+    Guantanamera (feat. Ms. Lauryn Hill, Celia Cruz & Jeni Fujita) (Wyclef Jean
+    presents The Carnival featuring Refugee Allstars (feat. Refugee All Stars))
+  - La Negra Tiene Tumbao
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7b8e1188-9ca4-4aa5-8393-172de6fa04de
-  spotify: https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U
-  wikipedia: https://en.wikipedia.org/wiki/Celia_Cruz
+  musicbrainz: 'https://musicbrainz.org/artist/7b8e1188-9ca4-4aa5-8393-172de6fa04de'
+  spotify: 'https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U'
+  wikipedia: 'https://en.wikipedia.org/wiki/Celia_Cruz'
 image_path: 03_Resources/source_material/ArtistPortraits/celia_cruz.jpg
 biography_enhanced_at: '2025-11-16T20:15:14.472223'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://celiacruz.com/biography/
-- https://en.wikipedia.org/wiki/Celia_Cruz
-- https://njhalloffame.org/hall-of-famers/2013-inductees/celia-cruz/
-- https://www.womenshistory.org/education-resources/biographies/celia-cruz
-- https://artsandculture.google.com/story/the-life-and-legacy-of-celia-cruz-intlsalsamuseum/QgUhv64RhAwaiw?hl=en
+  - 'https://celiacruz.com/biography/'
+  - 'https://en.wikipedia.org/wiki/Celia_Cruz'
+  - 'https://njhalloffame.org/hall-of-famers/2013-inductees/celia-cruz/'
+  - 'https://www.womenshistory.org/education-resources/biographies/celia-cruz'
+  - >-
+    https://artsandculture.google.com/story/the-life-and-legacy-of-celia-cruz-intlsalsamuseum/QgUhv64RhAwaiw?hl=en
 network_extracted: true
 entry_created: '2025-11-16T20:15:14.472233'
 last_updated: '2025-12-23T08:16:06.614706'
 gender: Female
 musicbrainz_id: 7b8e1188-9ca4-4aa5-8393-172de6fa04de
 tags:
-- bolero
-- guaracha
-- latin
+  - bolero
+  - guaracha
+  - latin
+is_active: false
 ---
 
 ![](celia_cruz.jpg)

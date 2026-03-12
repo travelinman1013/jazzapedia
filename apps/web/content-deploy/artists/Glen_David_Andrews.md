@@ -2,21 +2,21 @@
 title: Glen David Andrews
 wiki_slug: glen-david-andrews
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1979-07-04'
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, USA'
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 instruments:
-- trombone
+  - trombone
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Glen_David_Andrews.jpg
   caption: Glen David Andrews
   background: non_vocal_instrumentalist
   born: '1979-07-04'
-  origin: New Orleans, Louisiana, USA
+  origin: 'New Orleans, Louisiana, USA'
 audio_profile:
   tempo_avg: 124.2
   energy_avg: 0.671
@@ -32,54 +32,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Galactic
-  - Trombone Shorty
-  - Rebirth Brass Band
-  - Allen Toussaint
+    - Galactic
+    - Trombone Shorty
+    - Rebirth Brass Band
+    - Allen Toussaint
   influenced:
-  - None specified
+    - None specified
   mentors:
-  - Tuba Fats
+    - Tuba Fats
 spotify_data:
   followers: 5159
   id: 4A0cC2MaWAzlylnCymNFab
   popularity: 14
-  url: https://open.spotify.com/artist/4A0cC2MaWAzlylnCymNFab
+  url: 'https://open.spotify.com/artist/4A0cC2MaWAzlylnCymNFab'
 discography_enriched: true
 top_tracks:
-- 'At The Foot Of Canal Street (Treme: Music From The HBO Original Series, Season 1)'
-- South Side (feat. Glen David Andrews) (Song For The Sinners)
-- Don't Wait (Church of New Orleans)
-- Didn't It Rain (Redemption)
-- I Fought The Law (Le Treme Carnaval)
-- Family Man
-- You Don't Know (Redemption)
-- Make the Headboard Shake
-- Whatever Happened To Peanut (Portrait Of The Treme Prince)
-- Don't Wait (Don't Wait)
+  - >-
+    At The Foot Of Canal Street (Treme: Music From The HBO Original Series,
+    Season 1)
+  - South Side (feat. Glen David Andrews) (Song For The Sinners)
+  - Don't Wait (Church of New Orleans)
+  - Didn't It Rain (Redemption)
+  - I Fought The Law (Le Treme Carnaval)
+  - Family Man
+  - You Don't Know (Redemption)
+  - Make the Headboard Shake
+  - Whatever Happened To Peanut (Portrait Of The Treme Prince)
+  - Don't Wait (Don't Wait)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/28ad8689-e1b3-4258-8f16-2334a8cf85a0
-  spotify: https://open.spotify.com/artist/4A0cC2MaWAzlylnCymNFab
+  musicbrainz: 'https://musicbrainz.org/artist/28ad8689-e1b3-4258-8f16-2334a8cf85a0'
+  spotify: 'https://open.spotify.com/artist/4A0cC2MaWAzlylnCymNFab'
   wikipedia: Not available
 image_path: 03_Resources/source_material/ArtistPortraits/Glen_David_Andrews.jpg
 biography_enhanced_at: '2025-10-20T10:18:05.630493'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- thefunkyuncle.live
-- delaluz.org
-- lrhr.dreamhosters.com
-- thedancehallkittery.org
-- glendavidandrewsband.com
+  - thefunkyuncle.live
+  - delaluz.org
+  - lrhr.dreamhosters.com
+  - thedancehallkittery.org
+  - glendavidandrewsband.com
 network_extracted: true
 entry_created: '2025-10-20T10:18:05.630508'
 last_updated: '2025-12-23T08:16:02.137423'
-disambiguation: trombone, New Orleans
+disambiguation: 'trombone, New Orleans'
 gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:27:51.382544'
 musicbrainz_id: 28ad8689-e1b3-4258-8f16-2334a8cf85a0
 tags:
-- jazz
+  - jazz
+origin: 'New Orleans, Louisiana, USA'
 ---
 
 ![](Glen_David_Andrews.jpg)

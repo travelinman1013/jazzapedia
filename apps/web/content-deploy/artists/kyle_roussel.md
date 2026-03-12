@@ -3,13 +3,13 @@ title: Kyle Roussel
 wiki_slug: kyle-roussel
 schema_version: 2
 status: active
-birth_place: Boutte, Louisiana, United States
+birth_place: 'Boutte, Louisiana, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/kyle_roussel.jpg
   caption: Kyle Roussel
   background: solo_singer
-  origin: Boutte, Louisiana, United States
+  origin: 'Boutte, Louisiana, United States'
 audio_profile:
   tempo_avg: 130.7
   energy_avg: 0.757
@@ -25,50 +25,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Preservation Hall Jazz Band
-  - The Headhunters
-  - Jon Batiste
-  - Irma Thomas
-  - Terrence Blanchard
-  - Dave Grohl, Paul McCartney, Dave Matthews Band, Chance the Rapper
+    - Preservation Hall Jazz Band
+    - The Headhunters
+    - Jon Batiste
+    - Irma Thomas
+    - Terrence Blanchard
+    - 'Dave Grohl, Paul McCartney, Dave Matthews Band, Chance the Rapper'
   influenced:
-  - No widely documented individual students or proteges as of 2024
+    - No widely documented individual students or proteges as of 2024
   mentors:
-  - Allen Toussaint
-  - Dr. John
-  - James Booker
+    - Allen Toussaint
+    - Dr. John
+    - James Booker
 spotify_data:
   followers: 78511
   id: 7aU66AnY6CxGppINw6QGq1
   popularity: 63
-  url: https://open.spotify.com/artist/7aU66AnY6CxGppINw6QGq1
+  url: 'https://open.spotify.com/artist/7aU66AnY6CxGppINw6QGq1'
 discography_enriched: true
 top_tracks:
-- 'Don''t Mess With Us - From "ZOMBIES 4: Dawn of the Vampires" (Don''t Mess With Us (From "ZOMBIES 4: Dawn of the Vampires"))'
-- Flesh & Bone (ZOMBIES 2 (Original TV Movie Soundtrack))
-- Like the Zombies Do (ZOMBIES 2 (Original TV Movie Soundtrack))
-- BAMM (ZOMBIES (Original TV Movie Soundtrack))
-- One for All (ZOMBIES 2 (Original TV Movie Soundtrack))
-- We Got This (ZOMBIES 2 (Original TV Movie Soundtrack))
-- I'm Winning (ZOMBIES 2 (Original TV Movie Soundtrack))
-- Like the Zombies Do/Chillin' Like a Villain Mashup (Like the Zombies Do/Chillin' Like a Villain Mashup)
-- Flesh & Bone/Someday Mashup (Flesh & Bone/Someday Mashup)
-- Flesh & Bone/Come on Out Mashup (Flesh & Bone/Come on Out Mashup)
+  - >-
+    Don't Mess With Us - From "ZOMBIES 4: Dawn of the Vampires" (Don't Mess With
+    Us (From "ZOMBIES 4: Dawn of the Vampires"))
+  - Flesh & Bone (ZOMBIES 2 (Original TV Movie Soundtrack))
+  - Like the Zombies Do (ZOMBIES 2 (Original TV Movie Soundtrack))
+  - BAMM (ZOMBIES (Original TV Movie Soundtrack))
+  - One for All (ZOMBIES 2 (Original TV Movie Soundtrack))
+  - We Got This (ZOMBIES 2 (Original TV Movie Soundtrack))
+  - I'm Winning (ZOMBIES 2 (Original TV Movie Soundtrack))
+  - >-
+    Like the Zombies Do/Chillin' Like a Villain Mashup (Like the Zombies
+    Do/Chillin' Like a Villain Mashup)
+  - Flesh & Bone/Someday Mashup (Flesh & Bone/Someday Mashup)
+  - Flesh & Bone/Come on Out Mashup (Flesh & Bone/Come on Out Mashup)
 external_urls:
-  spotify: https://open.spotify.com/artist/7aU66AnY6CxGppINw6QGq1
+  spotify: 'https://open.spotify.com/artist/7aU66AnY6CxGppINw6QGq1'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/kyle_roussel.jpg
 biography_enhanced_at: '2025-10-24T07:40:12.792377'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.kyleroussel.com/about
-- https://www.pianogroove.com/meet-the-team/kyle-roussel/
-- https://www.allaboutjazz.com/musicians/kyle-roussel/
-- https://snugjazz.com/tm-event/kyle-roussel-a-birthday-tribute-to-henry-butler/
+  - 'https://www.kyleroussel.com/about'
+  - 'https://www.pianogroove.com/meet-the-team/kyle-roussel/'
+  - 'https://www.allaboutjazz.com/musicians/kyle-roussel/'
+  - >-
+    https://snugjazz.com/tm-event/kyle-roussel-a-birthday-tribute-to-henry-butler/
 network_extracted: true
 entry_created: '2025-10-24T07:40:12.792388'
 last_updated: '2025-12-23T08:16:11.499886'
+artist_type: person
 ---
 
 ![](kyle_roussel.jpg)

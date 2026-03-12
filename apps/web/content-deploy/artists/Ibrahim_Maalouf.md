@@ -1,16 +1,16 @@
 ---
-title: ibrahim maalouf
+title: Ibrahim Maalouf
 wiki_slug: ibrahim-maalouf
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1980-12-05'
-birth_place: Beyrouth
+birth_place: 'Beyrouth, Lebanon'
 genres:
-- french jazz
-- jazz
+  - french jazz
+  - jazz
 instruments:
-- background vocals
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ibrahim_maalouf.jpg
   caption: ibrahim maalouf
@@ -32,50 +32,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sting
-  - Angélique Kidjo
-  - Quincy Jones
-  - Vanessa Paradis
-  - Salif Keita
-  - Lhasa de Sela
+    - Sting
+    - Angélique Kidjo
+    - Quincy Jones
+    - Vanessa Paradis
+    - Salif Keita
+    - Lhasa de Sela
   influenced:
-  - Younger French and Middle Eastern jazz musicians
+    - Younger French and Middle Eastern jazz musicians
   mentors:
-  - Nassim Maalouf
-  - Maurice André
-  - Gérard Boulanger
-  - Antoine Curé
+    - Nassim Maalouf
+    - Maurice André
+    - Gérard Boulanger
+    - Antoine Curé
 spotify_data:
   followers: 399486
   id: 0NSO0g40h9CTj13hKPskeb
   popularity: 53
-  url: https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb
+  url: 'https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb'
 discography_enriched: true
 top_tracks:
-- True Sorry (Illusions)
-- Solidarité (Lamomali)
-- J'attendrai (Dalida By Ibrahim Maalouf)
-- Una Rosa Blanca (S3NS)
-- Laissez-moi danser (Dalida By Ibrahim Maalouf)
-- Cascades
-- Love Song (Sunset In The Blue (Deluxe Version))
-- Pa Lé (Soleil Kréyol)
-- Free Spirit - Duo Version (40 Melodies)
-- Paroles paroles (Dalida By Ibrahim Maalouf)
+  - True Sorry (Illusions)
+  - Solidarité (Lamomali)
+  - J'attendrai (Dalida By Ibrahim Maalouf)
+  - Una Rosa Blanca (S3NS)
+  - Laissez-moi danser (Dalida By Ibrahim Maalouf)
+  - Cascades
+  - Love Song (Sunset In The Blue (Deluxe Version))
+  - Pa Lé (Soleil Kréyol)
+  - Free Spirit - Duo Version (40 Melodies)
+  - Paroles paroles (Dalida By Ibrahim Maalouf)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/af575726-1437-4b53-b6e6-343bc5f16817
-  spotify: https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb
-  wikipedia: https://en.wikipedia.org/wiki/Ibrahim_Maalouf
+  musicbrainz: 'https://musicbrainz.org/artist/af575726-1437-4b53-b6e6-343bc5f16817'
+  spotify: 'https://open.spotify.com/artist/0NSO0g40h9CTj13hKPskeb'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ibrahim_Maalouf'
 image_path: 03_Resources/source_material/ArtistPortraits/ibrahim_maalouf.jpg
 biography_enhanced_at: '2025-11-23T06:33:20.407832'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Ibrahim_Maalouf
-- https://kgumusic.com/blogs/news/ibrahim-maalouf-brief-biography-music-career-and-achievements
-- https://shorefire.com/roster/ibrahim-maalouf/bio
-- https://ragman.org/ibrahim-maalouf
-- https://www.allaboutjazz.com/musicians/ibrahim-maalouf/
+  - 'https://en.wikipedia.org/wiki/Ibrahim_Maalouf'
+  - >-
+    https://kgumusic.com/blogs/news/ibrahim-maalouf-brief-biography-music-career-and-achievements
+  - 'https://shorefire.com/roster/ibrahim-maalouf/bio'
+  - 'https://ragman.org/ibrahim-maalouf'
+  - 'https://www.allaboutjazz.com/musicians/ibrahim-maalouf/'
 network_extracted: true
 entry_created: '2025-11-23T06:33:20.407846'
 last_updated: '2025-12-23T08:16:02.279904'
@@ -83,9 +84,10 @@ disambiguation: French-Lebanese jazz musician
 gender: Male
 musicbrainz_id: af575726-1437-4b53-b6e6-343bc5f16817
 tags:
-- classical
-- jazz
-- jazz fusion
+  - classical
+  - jazz
+  - jazz fusion
+origin: 'Paris, France'
 ---
 
 ![](ibrahim_maalouf.jpg)

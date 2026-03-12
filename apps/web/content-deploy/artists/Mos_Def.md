@@ -3,15 +3,15 @@ title: Mos Def
 wiki_slug: mos-def
 schema_version: 2
 status: active
-birth_place: Bedford-Stuyvesant, Brooklyn, New York, United States
+birth_place: 'Bedford-Stuyvesant, Brooklyn, New York, United States'
 genres:
-- east coast hip hop
-- hip hop
+  - east coast hip hop
+  - hip hop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Mos_Def.jpg
   caption: Mos Def
   background: solo_singer
-  origin: Bedford-Stuyvesant, Brooklyn, New York, United States
+  origin: 'Bedford-Stuyvesant, Brooklyn, New York, United States'
 audio_profile:
   tempo_avg: 106.9
   energy_avg: 0.725
@@ -27,49 +27,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Talib Kweli
-  - Common
-  - Pharoahe Monch
-  - Nate Dogg
-  - Da Bush Babees
-  - D.c.Q and Ces (siblings)
+    - Talib Kweli
+    - Common
+    - Pharoahe Monch
+    - Nate Dogg
+    - Da Bush Babees
+    - D.c.Q and Ces (siblings)
   influenced: []
   mentors:
-  - De La Soul
-  - Early hip hop leaders
+    - De La Soul
+    - Early hip hop leaders
 spotify_data:
   followers: 1628710
   id: 0Mz5XE0kb1GBnbLQm2VbcO
   popularity: 64
-  url: https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO
+  url: 'https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO'
 discography_enriched: true
 top_tracks:
-- Six Days - Remix
-- Ms. Fat Booty (Black On Both Sides)
-- Six Days - Remix
-- Stylo (feat. Mos Def and Bobby Womack) (Plastic Beach)
-- Two Words (The College Dropout)
-- Good Night (Graduation)
-- Drunk and Hot Girls (Graduation)
-- Mathematics (Black On Both Sides)
-- Hey Baby
-- Hip Hop (Black On Both Sides)
+  - Six Days - Remix
+  - Ms. Fat Booty (Black On Both Sides)
+  - Six Days - Remix
+  - Stylo (feat. Mos Def and Bobby Womack) (Plastic Beach)
+  - Two Words (The College Dropout)
+  - Good Night (Graduation)
+  - Drunk and Hot Girls (Graduation)
+  - Mathematics (Black On Both Sides)
+  - Hey Baby
+  - Hip Hop (Black On Both Sides)
 external_urls:
-  spotify: https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO
-  wikipedia: https://en.wikipedia.org/wiki/Yasiin_Bey
+  spotify: 'https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO'
+  wikipedia: 'https://en.wikipedia.org/wiki/Yasiin_Bey'
 image_path: 03_Resources/source_material/ArtistPortraits/Mos_Def.jpg
 biography_enhanced_at: '2025-10-20T09:38:58.797043'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Yasiin_Bey
-- https://www.bkreader.com/featured-news/feb-3-brooklyn-black-history-maker-yasiin-bey-aka-mos-def-6548590
-- https://wbssmedia.com/artists/detail/3112
-- https://www.hotnewhiphop.com/754684-yasiin-bey-a-hip-hop-legend
+  - 'https://en.wikipedia.org/wiki/Yasiin_Bey'
+  - >-
+    https://www.bkreader.com/featured-news/feb-3-brooklyn-black-history-maker-yasiin-bey-aka-mos-def-6548590
+  - 'https://wbssmedia.com/artists/detail/3112'
+  - 'https://www.hotnewhiphop.com/754684-yasiin-bey-a-hip-hop-legend'
 network_extracted: true
 entry_created: '2025-10-20T09:38:58.797054'
 last_updated: '2025-12-23T08:16:03.366820'
-
+birth_date: '1973-12-11'
+artist_type: person
 ---
 
 ![](Mos_Def.jpg)

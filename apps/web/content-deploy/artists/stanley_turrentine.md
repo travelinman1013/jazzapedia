@@ -1,85 +1,86 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: cfb32858-78bf-48c5-b97d-2e3edc755bd3
-  name: Horace Parlan Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 272c80be-dea0-4f35-8532-940ff43f346b
-  name: CTI All-Stars
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c8552c37-33c6-467a-8ee9-42a0cf3f993a
-  name: Fuse One
-- begin: ''
-  end: ''
-  instruments:
-  - tenor saxophone
-  mbid: 159b5db4-a0ab-4512-9420-88beb0c3a879
-  name: Max Roach Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e5385012-b9c5-4674-80ab-aed303389a98
-  name: Max Roach Plus Four
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: cfb32858-78bf-48c5-b97d-2e3edc755bd3
+    name: Horace Parlan Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 272c80be-dea0-4f35-8532-940ff43f346b
+    name: CTI All-Stars
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c8552c37-33c6-467a-8ee9-42a0cf3f993a
+    name: Fuse One
+  - begin: ''
+    end: ''
+    instruments:
+      - tenor saxophone
+    mbid: 159b5db4-a0ab-4512-9420-88beb0c3a879
+    name: Max Roach Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e5385012-b9c5-4674-80ab-aed303389a98
+    name: Max Roach Plus Four
 biography_enhanced_at: '2026-01-01T01:10:27.744457'
 birth_date: '1934-04-05'
-birth_place: Pittsburgh
+birth_place: 'Pittsburgh, Pennsylvania, United States'
 death_date: '2000-09-12'
 enhancement_provider: perplexity
 entry_created: '2026-01-01T01:10:27.744462'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/51e0df97-1fe2-401c-ba92-9f854b7831c3
-  spotify: https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP
-  wikipedia: https://en.wikipedia.org/wiki/Stanley_Turrentine
+  musicbrainz: 'https://musicbrainz.org/artist/51e0df97-1fe2-401c-ba92-9f854b7831c3'
+  spotify: 'https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP'
+  wikipedia: 'https://en.wikipedia.org/wiki/Stanley_Turrentine'
 gender: Male
 genres:
-- hard bop
-- jazz
-- soul jazz
-- cool jazz
-- bebop
+  - hard bop
+  - jazz
+  - soul jazz
+  - cool jazz
+  - bebop
 image_path: 03_Resources/source_material/ArtistPortraits/stanley_turrentine.jpg
 instruments:
-- tenor saxophone
-- spoken vocals
+  - tenor saxophone
+  - spoken vocals
 last_updated: '2026-01-01T01:10:27.744463'
 musical_connections:
   collaborators:
-  - Shirley Scott
-  - Jimmy Smith
-  - Max Roach
-  - Freddie Hubbard
+    - Shirley Scott
+    - Jimmy Smith
+    - Max Roach
+    - Freddie Hubbard
   influenced: []
   mentors:
-  - Illinois Jacquet
-  - Earl Bostic
-  - Tadd Dameron
+    - Illinois Jacquet
+    - Earl Bostic
+    - Tadd Dameron
 musicbrainz_id: 51e0df97-1fe2-401c-ba92-9f854b7831c3
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Stanley_Turrentine
-- https://www.allaboutjazz.com/musicians/stanley-turrentine/
-- https://themusicalheritagesociety.com/collections/stanley-turrentine-the-jazz-heritage-society-recordings
-- https://newyorkjazzworkshop.com/stanley-turrentine-2/
+  - 'https://en.wikipedia.org/wiki/Stanley_Turrentine'
+  - 'https://www.allaboutjazz.com/musicians/stanley-turrentine/'
+  - >-
+    https://themusicalheritagesociety.com/collections/stanley-turrentine-the-jazz-heritage-society-recordings
+  - 'https://newyorkjazzworkshop.com/stanley-turrentine-2/'
 spotify_data:
   followers: 63041
   id: 2dRsXWVnkku2cMDtV1h6NP
   popularity: 45
-  url: https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP
+  url: 'https://open.spotify.com/artist/2dRsXWVnkku2cMDtV1h6NP'
 status: active
 tags:
-- hard bop
-- jazz
-- jazz musicians
-title: stanley turrentine
-
+  - hard bop
+  - jazz
+  - jazz musicians
+title: Stanley Turrentine
+is_active: false
 ---
 
 ![](stanley_turrentine.jpg)

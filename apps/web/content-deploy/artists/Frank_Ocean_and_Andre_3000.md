@@ -9,7 +9,7 @@ infobox:
   caption: Frank Ocean & Andre 3000
   background: solo_singer
 audio_profile:
-  tempo_avg: 120.0
+  tempo_avg: 120
   energy_avg: 0.567
   valence_avg: 0.467
   danceability_avg: 0.575
@@ -23,44 +23,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Frank Ocean
-  - André 3000
+    - Frank Ocean
+    - André 3000
   influenced:
-  - Tyler, The Creator
+    - 'Tyler, The Creator'
   mentors:
-  - Outkast (Big Boi)
+    - Outkast (Big Boi)
 spotify_data:
   followers: 671244
   id: 74V3dE1a51skRkdII8y2C6
   popularity: 63
-  url: https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6
+  url: 'https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6'
 discography_enriched: true
 top_tracks:
-- Pink Matter (channel ORANGE)
-- The Real Her (Take Care (Deluxe))
-- Life Of The Party (with André 3000) (Donda (Deluxe))
-- Party (feat. André 3000) (4)
-- Life Of The Party (with André 3000)
-- Millionaire (Tasty)
-- Green Light (feat. André 3000)
-- SCIENTISTS & ENGINEERS (feat. Future & Eryn Allen Kane)
-- Come Home (feat. André 3000) (Ventura)
-- I swear, I Really Wanted To Make A "Rap" Album But This Is Literally The Way The Wind Blew Me This Time
+  - Pink Matter (channel ORANGE)
+  - The Real Her (Take Care (Deluxe))
+  - Life Of The Party (with André 3000) (Donda (Deluxe))
+  - Party (feat. André 3000) (4)
+  - Life Of The Party (with André 3000)
+  - Millionaire (Tasty)
+  - Green Light (feat. André 3000)
+  - SCIENTISTS & ENGINEERS (feat. Future & Eryn Allen Kane)
+  - Come Home (feat. André 3000) (Ventura)
+  - >-
+    I swear, I Really Wanted To Make A "Rap" Album But This Is Literally The Way
+    The Wind Blew Me This Time
 external_urls:
-  spotify: https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6
-  wikipedia: https://en.wikipedia.org/wiki/Channel_Orange
+  spotify: 'https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6'
+  wikipedia: 'https://en.wikipedia.org/wiki/Channel_Orange'
 image_path: 03_Resources/source_material/ArtistPortraits/Frank_Ocean_and_Andre_3000.jpg
 biography_enhanced_at: '2025-10-20T09:38:28.147035'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Channel_Orange
-- https://en.wikipedia.org/wiki/Andr%C3%A9_3000
-- https://hiphopdx.com/news/andre-3000-grateful-frank-ocean-dj-unk-collabs/
-- https://frankocean.fandom.com/wiki/Andr%C3%A9_3000
+  - 'https://en.wikipedia.org/wiki/Channel_Orange'
+  - 'https://en.wikipedia.org/wiki/Andr%C3%A9_3000'
+  - 'https://hiphopdx.com/news/andre-3000-grateful-frank-ocean-dj-unk-collabs/'
+  - 'https://frankocean.fandom.com/wiki/Andr%C3%A9_3000'
 network_extracted: true
 entry_created: '2025-10-20T09:38:28.147053'
 last_updated: '2025-12-23T08:16:02.041451'
+birth_place: 'Long Beach, California, United States'
+artist_type: band
 ---
 
 ![](Frank_Ocean_and_Andre_3000.jpg)

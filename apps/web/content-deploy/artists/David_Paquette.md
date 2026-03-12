@@ -1,15 +1,15 @@
 ---
 wiki_slug: david-paquette
 schema_version: 2
-birth_place: Bridgeport, Connecticut, USA
+birth_place: 'Bridgeport, Connecticut, USA'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/David_Paquette.jpg
   caption: David Paquette
   background: solo_singer
-  origin: Bridgeport, Connecticut, USA
+  origin: 'Bridgeport, Connecticut, USA'
 audio_profile:
-  tempo_avg: 114.0
+  tempo_avg: 114
   energy_avg: 0.332
   valence_avg: 0.572
   danceability_avg: 0.573
@@ -23,39 +23,43 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John McVie (Fleetwood Mac)
-  - Bonnie Raitt
-  - Bette Midler, The Pointer Sisters, Dr. John, Steve Martin
+    - John McVie (Fleetwood Mac)
+    - Bonnie Raitt
+    - 'Bette Midler, The Pointer Sisters, Dr. John, Steve Martin'
   influenced:
-  - Young jazz musicians in New Zealand and the South Pacific
+    - Young jazz musicians in New Zealand and the South Pacific
   mentors:
-  - Roosevelt Sykes
+    - Roosevelt Sykes
 discography_enriched: true
 top_tracks:
-- Blues My Naughty Sweetie Gives to Me (New Orleans Rendezvous)
-- Chloe (Song of the Swamp) (New Orleans Rendezvous)
-- Histoire De Faussaire (New Orleans Rendezvous)
-- Blues for Nina (New Orleans Rendezvous)
-- Please (New Orleans Rendezvous)
-- There'll Be Some Changes Made (New Orleans Rendezvous)
-- Them There Eyes (New Orleans Rendezvous)
-- Someday Sweetheart (New Orleans Rendezvous)
-- Melancholy (New Orleans Rendezvous)
-- Walking Stick (New Orleans Rendezvous)
+  - Blues My Naughty Sweetie Gives to Me (New Orleans Rendezvous)
+  - Chloe (Song of the Swamp) (New Orleans Rendezvous)
+  - Histoire De Faussaire (New Orleans Rendezvous)
+  - Blues for Nina (New Orleans Rendezvous)
+  - Please (New Orleans Rendezvous)
+  - There'll Be Some Changes Made (New Orleans Rendezvous)
+  - Them There Eyes (New Orleans Rendezvous)
+  - Someday Sweetheart (New Orleans Rendezvous)
+  - Melancholy (New Orleans Rendezvous)
+  - Walking Stick (New Orleans Rendezvous)
 external_urls:
-  spotify: https://open.spotify.com/artist/0bfZ7QxMhBit4GRsYYouly
-  wikipedia: https://en.wikipedia.org/wiki/David_Paquette
+  spotify: 'https://open.spotify.com/artist/0bfZ7QxMhBit4GRsYYouly'
+  wikipedia: 'https://en.wikipedia.org/wiki/David_Paquette'
 image_path: 03_Resources/source_material/ArtistPortraits/David_Paquette.jpg
 biography_enhanced_at: '2025-10-19T11:31:09.606135'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/David_Paquette
-- https://www.independent.com.mt/articles/2011-09-24/local-news/Brief-Encounter
+  - 'https://en.wikipedia.org/wiki/David_Paquette'
+  - >-
+    https://www.independent.com.mt/articles/2011-09-24/local-news/Brief-Encounter
 network_extracted: true
 entry_created: '2025-10-19T11:31:09.606152'
 last_updated: '2025-12-23T08:16:01.696332'
----David-Paquette-299180
+birth_date: '1950'
+artist_type: person
+---
+David-Paquette-299180
 - https://www.wwoz.org/blog/3273
 - https://www.wwoz.org/acts/david-todd-paquette
 - https://www.elsewhere.co.nz/jazz/10640/david-paquette-interviewed-2001-jazz-on-a-summers-weekend/

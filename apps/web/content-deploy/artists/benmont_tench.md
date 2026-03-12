@@ -1,104 +1,104 @@
 ---
 artist_type: person
 associated_acts:
-- begin: '1976'
-  end: '2017-10-02'
-  instruments:
-  - original
-  mbid: f93dbc64-6f08-4033-bcc7-8a0bb4689849
-  name: Tom Petty and the Heartbreakers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1b15ce6d-3984-4cbb-9b5b-c2289fc51e91
-  name: Works Progress Administration
-- begin: ''
-  end: ''
-  instruments:
-  - organ
-  mbid: e4954b11-3714-40a5-bc5b-5e7219256973
-  name: Watkins Family Hour
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: e4954b11-3714-40a5-bc5b-5e7219256973
-  name: Watkins Family Hour
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: e4954b11-3714-40a5-bc5b-5e7219256973
-  name: Watkins Family Hour
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: fb97fe09-a136-4711-ba1b-9b51795c1cc3
-  name: Big Star’s Third
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 867b38dc-776a-47ee-9d47-3df8fbfa3514
-  name: Killer Joe
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: fbeb622c-6885-4fbc-8b11-f4c582a3f1b7
-  name: Life Is a Carnival
+  - begin: '1976'
+    end: '2017-10-02'
+    instruments:
+      - original
+    mbid: f93dbc64-6f08-4033-bcc7-8a0bb4689849
+    name: Tom Petty and the Heartbreakers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1b15ce6d-3984-4cbb-9b5b-c2289fc51e91
+    name: Works Progress Administration
+  - begin: ''
+    end: ''
+    instruments:
+      - organ
+    mbid: e4954b11-3714-40a5-bc5b-5e7219256973
+    name: Watkins Family Hour
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: e4954b11-3714-40a5-bc5b-5e7219256973
+    name: Watkins Family Hour
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: e4954b11-3714-40a5-bc5b-5e7219256973
+    name: Watkins Family Hour
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: fb97fe09-a136-4711-ba1b-9b51795c1cc3
+    name: Big Star’s Third
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 867b38dc-776a-47ee-9d47-3df8fbfa3514
+    name: Killer Joe
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: fbeb622c-6885-4fbc-8b11-f4c582a3f1b7
+    name: Life Is a Carnival
 biography_enhanced_at: '2026-01-16T01:41:25.808532'
 birth_date: '1953-09-07'
-birth_place: Gainesville
+birth_place: 'Gainesville, Florida, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-16T01:41:25.808538'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a15face4-36a4-472a-992a-45eaeb285eb0
-  spotify: https://open.spotify.com/artist/64BpBvN4VY7JdhV9GaEbiV
-  wikipedia: https://en.wikipedia.org/wiki/Benmont_Tench
+  musicbrainz: 'https://musicbrainz.org/artist/a15face4-36a4-472a-992a-45eaeb285eb0'
+  spotify: 'https://open.spotify.com/artist/64BpBvN4VY7JdhV9GaEbiV'
+  wikipedia: 'https://en.wikipedia.org/wiki/Benmont_Tench'
 gender: Male
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/benmont_tench.jpg
 instruments:
-- original
-- organ
-- piano
-- lead vocals
-- electric piano
-- tack piano
-- upright piano
-- Wurlitzer electric piano
-- piano spinet
-- grand piano
-- background vocals
+  - original
+  - organ
+  - piano
+  - lead vocals
+  - electric piano
+  - tack piano
+  - upright piano
+  - Wurlitzer electric piano
+  - piano spinet
+  - grand piano
+  - background vocals
 last_updated: '2026-01-16T01:41:25.808539'
 musical_connections:
   collaborators:
-  - Tom Petty and the Heartbreakers
-  - Mudcrutch
-  - Stevie Nicks
-  - Bob Dylan
-  - Rolling Stones
+    - Tom Petty and the Heartbreakers
+    - Mudcrutch
+    - Stevie Nicks
+    - Bob Dylan
+    - Rolling Stones
   influenced: []
   mentors:
-  - The Beatles
+    - The Beatles
 musicbrainz_id: a15face4-36a4-472a-992a-45eaeb285eb0
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Benmont_Tench
-- https://www.highroadtouring.com/artists/benmont-tench/
-- https://www.namm.org/library/oral-history/benmont-tench
-- https://www.youtube.com/watch?v=qvXQf7CE-Bg
-- https://bigtakeover.com/interviews/interview-benmont-tench
-- https://ultimateclassicrock.com/benmont-tench-tom-petty-death/
+  - 'https://en.wikipedia.org/wiki/Benmont_Tench'
+  - 'https://www.highroadtouring.com/artists/benmont-tench/'
+  - 'https://www.namm.org/library/oral-history/benmont-tench'
+  - 'https://www.youtube.com/watch?v=qvXQf7CE-Bg'
+  - 'https://bigtakeover.com/interviews/interview-benmont-tench'
+  - 'https://ultimateclassicrock.com/benmont-tench-tom-petty-death/'
 spotify_data:
   followers: 3387
   id: 64BpBvN4VY7JdhV9GaEbiV
   popularity: 20
-  url: https://open.spotify.com/artist/64BpBvN4VY7JdhV9GaEbiV
+  url: 'https://open.spotify.com/artist/64BpBvN4VY7JdhV9GaEbiV'
 status: active
 tags:
-- rock
-- session
+  - rock
+  - session
 title: Benmont Tench
 ---
 

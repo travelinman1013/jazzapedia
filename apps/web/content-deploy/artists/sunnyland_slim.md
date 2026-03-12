@@ -1,26 +1,26 @@
 ---
-title: SUNNYLAND SLIM
+title: Sunnyland Slim
 wiki_slug: sunnyland-slim
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1906-09-05'
-birth_place: Vance
+birth_place: 'Vance, Mississippi, United States'
 death_date: '1995-03-17'
 genres:
-- classic blues
+  - classic blues
 instruments:
-- piano
-- electric piano
-- background vocals
-- choir vocals
-- lead vocals
+  - piano
+  - electric piano
+  - background vocals
+  - choir vocals
+  - lead vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4f3af97c-7ae2-4035-83d1-0141320af5ae
-  name: J.B. Hutto & the Hawks
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4f3af97c-7ae2-4035-83d1-0141320af5ae
+    name: J.B. Hutto & the Hawks
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sunnyland_slim.jpg
   caption: SUNNYLAND SLIM
@@ -43,44 +43,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Muddy Waters
-  - John Lee 'Sonny Boy' Williamson
-  - Little Walter
-  - Howlin’ Wolf
+    - Muddy Waters
+    - John Lee 'Sonny Boy' Williamson
+    - Little Walter
+    - Howlin’ Wolf
   influenced:
-  - Muddy Waters
-  - Countless Chicago blues pianists
+    - Muddy Waters
+    - Countless Chicago blues pianists
   mentors:
-  - Doctor Clayton
-  - Ma Rainey
-  - Blind Blake
+    - Doctor Clayton
+    - Ma Rainey
+    - Blind Blake
 spotify_data:
   followers: 30
   id: 4Mv1iyyAhuC2riaDtc49EP
   popularity: 0
-  url: https://open.spotify.com/artist/4Mv1iyyAhuC2riaDtc49EP
+  url: 'https://open.spotify.com/artist/4Mv1iyyAhuC2riaDtc49EP'
 discography_enriched: true
 top_tracks:
-- 'Highway 61 (Goin'' Down to Eli''s: The Cobra & ABCO Rhythm & Blues Anthology 1956-1958)'
-- 'It''s You Baby (Goin'' Down to Eli''s: The Cobra & ABCO Rhythm & Blues Anthology 1956-1958)'
-- 'Maybe Blues (Goin'' Down to Eli''s: The Cobra & ABCO Rhythm & Blues Anthology 1956-1958)'
-- It's You Baby (It's You Baby / Highway 61)
-- Highway 61 (It's You Baby / Highway 61)
+  - >-
+    Highway 61 (Goin' Down to Eli's: The Cobra & ABCO Rhythm & Blues Anthology
+    1956-1958)
+  - >-
+    It's You Baby (Goin' Down to Eli's: The Cobra & ABCO Rhythm & Blues
+    Anthology 1956-1958)
+  - >-
+    Maybe Blues (Goin' Down to Eli's: The Cobra & ABCO Rhythm & Blues Anthology
+    1956-1958)
+  - It's You Baby (It's You Baby / Highway 61)
+  - Highway 61 (It's You Baby / Highway 61)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/25854cde-8c11-477b-8242-a86de1a4a003
-  spotify: https://open.spotify.com/artist/4Mv1iyyAhuC2riaDtc49EP
-  wikipedia: https://en.wikipedia.org/wiki/Sunnyland_Slim
+  musicbrainz: 'https://musicbrainz.org/artist/25854cde-8c11-477b-8242-a86de1a4a003'
+  spotify: 'https://open.spotify.com/artist/4Mv1iyyAhuC2riaDtc49EP'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sunnyland_Slim'
 image_path: 03_Resources/source_material/ArtistPortraits/sunnyland_slim.jpg
 biography_enhanced_at: '2025-10-28T09:06:38.381128'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://msbluestrail.org/blues-trail-markers/sunnyland-slim
-- https://www.wolfrec.com/sunnyland-slim-a-blues-legend-lives-on-with-rockin-the-house/
-- https://www.encyclopedia.com/education/news-wires-white-papers-and-books/sunnyland-slim
-- https://blues.org/blues_hof_inductee/sunnyland-slim/
-- https://www.allaboutjazz.com/musicians/sunnyland-slim/
-- https://en.wikipedia.org/wiki/Sunnyland_Slim
+  - 'https://msbluestrail.org/blues-trail-markers/sunnyland-slim'
+  - >-
+    https://www.wolfrec.com/sunnyland-slim-a-blues-legend-lives-on-with-rockin-the-house/
+  - >-
+    https://www.encyclopedia.com/education/news-wires-white-papers-and-books/sunnyland-slim
+  - 'https://blues.org/blues_hof_inductee/sunnyland-slim/'
+  - 'https://www.allaboutjazz.com/musicians/sunnyland-slim/'
+  - 'https://en.wikipedia.org/wiki/Sunnyland_Slim'
 network_extracted: true
 entry_created: '2025-10-28T09:06:38.381133'
 last_updated: '2025-12-23T08:16:16.248051'
@@ -88,10 +96,11 @@ disambiguation: blues pianist
 gender: Male
 musicbrainz_id: 25854cde-8c11-477b-8242-a86de1a4a003
 tags:
-- blues
-- boogie-woogie
-- piano blues
-
+  - blues
+  - boogie-woogie
+  - piano blues
+is_active: false
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](sunnyland_slim.jpg)

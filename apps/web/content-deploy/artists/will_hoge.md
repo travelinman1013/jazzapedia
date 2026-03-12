@@ -5,29 +5,29 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1972-11-14'
-birth_place: Nashville
+birth_place: 'Nashville, Tennessee, United States'
 genres:
-- texas country
-- red dirt
-- americana
-- alt country
+  - texas country
+  - red dirt
+  - americana
+  - alt country
 instruments:
-- guitar
-- lead vocals
-- background vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - guitar
-  mbid: 6fd42817-5809-4004-8cc1-88fc2eefcd3d
-  name: Scott Terry, Emerson Hart, Sam Getz and Will Hoge
-- begin: ''
-  end: ''
-  instruments:
   - lead vocals
-  mbid: 6fd42817-5809-4004-8cc1-88fc2eefcd3d
-  name: Scott Terry, Emerson Hart, Sam Getz and Will Hoge
+  - background vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 6fd42817-5809-4004-8cc1-88fc2eefcd3d
+    name: 'Scott Terry, Emerson Hart, Sam Getz and Will Hoge'
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: 6fd42817-5809-4004-8cc1-88fc2eefcd3d
+    name: 'Scott Terry, Emerson Hart, Sam Getz and Will Hoge'
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/will_hoge.jpg
   caption: Will Hoge
@@ -49,59 +49,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Thom Donovan
-  - Allen Jones
-  - Christopher Griffiths
-  - Joshua Grange
-  - Eric Paslay
-  - Sigurdur 'Siggi' Birkis
+    - Thom Donovan
+    - Allen Jones
+    - Christopher Griffiths
+    - Joshua Grange
+    - Eric Paslay
+    - Sigurdur 'Siggi' Birkis
   influenced:
-  - Eli Young Band
-  - Lady Antebellum
+    - Eli Young Band
+    - Lady Antebellum
   mentors:
-  - Dan Baird
-  - John Prine
+    - Dan Baird
+    - John Prine
 spotify_data:
   followers: 32856
   id: 6a8DSomMqspxk3s3WlBjNT
   popularity: 30
-  url: https://open.spotify.com/artist/6a8DSomMqspxk3s3WlBjNT
+  url: 'https://open.spotify.com/artist/6a8DSomMqspxk3s3WlBjNT'
 discography_enriched: true
 top_tracks:
-- Even If It Breaks Your Heart (The Wreckage)
-- Sweet Misery
-- Middle of America (Small Town Dreams)
-- Little Bitty Dreams (Small Town Dreams)
-- Still a Southern Man
-- Shovel In Hand - 2025 Remaster (The Journey)
-- Cold Night in Santa Fe (Anchors)
-- Gilded Walls (My American Dream)
-- Another Planet
-- Maryanne (Sweet Misery)
+  - Even If It Breaks Your Heart (The Wreckage)
+  - Sweet Misery
+  - Middle of America (Small Town Dreams)
+  - Little Bitty Dreams (Small Town Dreams)
+  - Still a Southern Man
+  - Shovel In Hand - 2025 Remaster (The Journey)
+  - Cold Night in Santa Fe (Anchors)
+  - Gilded Walls (My American Dream)
+  - Another Planet
+  - Maryanne (Sweet Misery)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/32e5a1c5-13a8-464b-b3b7-28f36c690b45
-  spotify: https://open.spotify.com/artist/6a8DSomMqspxk3s3WlBjNT
-  wikipedia: https://en.wikipedia.org/wiki/Will_Hoge
+  musicbrainz: 'https://musicbrainz.org/artist/32e5a1c5-13a8-464b-b3b7-28f36c690b45'
+  spotify: 'https://open.spotify.com/artist/6a8DSomMqspxk3s3WlBjNT'
+  wikipedia: 'https://en.wikipedia.org/wiki/Will_Hoge'
 image_path: 03_Resources/source_material/ArtistPortraits/will_hoge.jpg
 biography_enhanced_at: '2025-12-15T01:24:50.095364'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Will_Hoge
-- https://thekessler.org/bands/will-hoge/
-- https://www.themusicfest.com/artists/will-hoge/
-- https://creativeloafing.com/group-598000-will-hoge
-- https://www.wunc.org/2006-04-13/will-hoge-old-fashioned-rock-from-the-south
+  - 'https://en.wikipedia.org/wiki/Will_Hoge'
+  - 'https://thekessler.org/bands/will-hoge/'
+  - 'https://www.themusicfest.com/artists/will-hoge/'
+  - 'https://creativeloafing.com/group-598000-will-hoge'
+  - 'https://www.wunc.org/2006-04-13/will-hoge-old-fashioned-rock-from-the-south'
 network_extracted: true
 entry_created: '2025-12-15T01:24:50.095380'
 last_updated: '2025-12-23T08:16:18.137706'
 gender: Male
 musicbrainz_id: 32e5a1c5-13a8-464b-b3b7-28f36c690b45
 tags:
-- alternative country
-- americana
-- rock
-
+  - alternative country
+  - americana
+  - rock
 ---
 
 ![](will_hoge.jpg)

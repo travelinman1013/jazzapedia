@@ -1,31 +1,31 @@
 ---
-title: charlie rich
+title: Charlie Rich
 wiki_slug: charlie-rich
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1932-12-14'
-birth_place: Colt
+birth_place: 'Colt, Arkansas, United States'
 death_date: '1995-07-24'
 genres:
-- traditional country
+  - traditional country
 instruments:
-- eponymous
-- original
-- piano
-- guitar
-- background vocals
-- choir vocals
-- lead vocals
-- spoken vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
-  mbid: 7b0e7109-f4aa-4a2b-acec-cc305d20cced
-  name: Charlie Rich & His All Stars
+  - piano
+  - guitar
+  - background vocals
+  - choir vocals
+  - lead vocals
+  - spoken vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 7b0e7109-f4aa-4a2b-acec-cc305d20cced
+    name: Charlie Rich & His All Stars
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/charlie_rich.jpg
   caption: charlie rich
@@ -48,44 +48,44 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Margaret Ann Greene (wife)
-  - Dan Penn and Spooner Oldham
+    - Margaret Ann Greene (wife)
+    - Dan Penn and Spooner Oldham
   influenced: []
   mentors:
-  - Billy Sherrill
-  - Jerry Kennedy
-  - Chet Atkins
+    - Billy Sherrill
+    - Jerry Kennedy
+    - Chet Atkins
 spotify_data:
   followers: 248736
   id: 218kRJZ7FJs0hWIk8Ynzhz
   popularity: 48
-  url: https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz
+  url: 'https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz'
 discography_enriched: true
 top_tracks:
-- The Most Beautiful Girl (Behind Closed Doors)
-- Behind Closed Doors (Love Songs)
-- Rollin' With The Flow (American Originals)
-- Behind Closed Doors (Behind Closed Doors (Expanded Edition))
-- The Most Beautiful Girl
-- My Elusive Dreams
-- Who Will the Next Fool Be (Lonely Weekends)
-- On My Knees (American Originals)
-- Mohair Sam (The Many New Sides Of Charlie Rich)
-- There Won't Be Anymore (Big Boss Man)
+  - The Most Beautiful Girl (Behind Closed Doors)
+  - Behind Closed Doors (Love Songs)
+  - Rollin' With The Flow (American Originals)
+  - Behind Closed Doors (Behind Closed Doors (Expanded Edition))
+  - The Most Beautiful Girl
+  - My Elusive Dreams
+  - Who Will the Next Fool Be (Lonely Weekends)
+  - On My Knees (American Originals)
+  - Mohair Sam (The Many New Sides Of Charlie Rich)
+  - There Won't Be Anymore (Big Boss Man)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9fb7fe77-4e8b-4cbd-ba8f-84bcd80a24bc
-  spotify: https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz
-  wikipedia: https://en.wikipedia.org/wiki/Charlie_Rich
+  musicbrainz: 'https://musicbrainz.org/artist/9fb7fe77-4e8b-4cbd-ba8f-84bcd80a24bc'
+  spotify: 'https://open.spotify.com/artist/218kRJZ7FJs0hWIk8Ynzhz'
+  wikipedia: 'https://en.wikipedia.org/wiki/Charlie_Rich'
 image_path: 03_Resources/source_material/ArtistPortraits/charlie_rich.jpg
 biography_enhanced_at: '2025-11-28T07:37:49.964745'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Encyclopedia of Arkansas
-- Arkadelphian
-- Alan Cackett Biography
-- Wikipedia - Charlie Rich
-- Sun Records Official Biography
+  - Encyclopedia of Arkansas
+  - Arkadelphian
+  - Alan Cackett Biography
+  - Wikipedia - Charlie Rich
+  - Sun Records Official Biography
 network_extracted: true
 entry_created: '2025-11-28T07:37:49.964760'
 last_updated: '2025-12-23T08:16:06.764488'
@@ -93,10 +93,11 @@ disambiguation: US country singer
 gender: Male
 musicbrainz_id: 9fb7fe77-4e8b-4cbd-ba8f-84bcd80a24bc
 tags:
-- country
-- country pop
-- rockabilly
-
+  - country
+  - country pop
+  - rockabilly
+is_active: false
+origin: 'West Memphis, Arkansas, United States'
 ---
 
 ![](charlie_rich.jpg)

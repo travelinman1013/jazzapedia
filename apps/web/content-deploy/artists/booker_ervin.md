@@ -1,45 +1,45 @@
 ---
-title: booker ervin
+title: Booker Ervin
 wiki_slug: booker-ervin
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1930-10-31'
-birth_place: Denison
+birth_place: 'Denison, Texas, United States'
 death_date: '1970-07-31'
 genres:
-- hard bop
-- bebop
-- jazz
+  - hard bop
+  - bebop
+  - jazz
 instruments:
-- eponymous
-- tenor saxophone
-- original
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - tenor saxophone
-  mbid: 0f724c1d-2fa6-4bb7-a3c6-9feaad5c01f4
-  name: Booker Ervin Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
   - original
-  mbid: 33a6a792-fac8-4b84-8aaa-3056ce5f564d
-  name: The Booker Ervin Sextet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8465272c-3cff-4bf3-8748-a5e43bf94e31
-  name: Randy Weston Sextet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b11b44b5-4191-42fb-9c6b-8029c6b19dd1
-  name: Booker Ervin Quartet
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - tenor saxophone
+    mbid: 0f724c1d-2fa6-4bb7-a3c6-9feaad5c01f4
+    name: Booker Ervin Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 33a6a792-fac8-4b84-8aaa-3056ce5f564d
+    name: The Booker Ervin Sextet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8465272c-3cff-4bf3-8748-a5e43bf94e31
+    name: Randy Weston Sextet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b11b44b5-4191-42fb-9c6b-8029c6b19dd1
+    name: Booker Ervin Quartet
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/booker_ervin.jpg
   caption: booker ervin
@@ -54,7 +54,7 @@ audio_profile:
   danceability_avg: 0.472
   acousticness_avg: 0.68
   instrumentalness_avg: 0.251
-  loudness_avg: -14.0
+  loudness_avg: -14
   speechiness_avg: 0.046
   liveness_avg: 0.137
   track_count: 54
@@ -62,54 +62,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Charles Mingus
-  - Eric Dolphy
-  - Jaki Byard
-  - Richard Davis
-  - Alan Dawson
-  - Randy Weston
-  - Dexter Gordon
-  - Núria Feliu
-  - Danish Radio Big Band
-  - Ernie Fields
+    - Charles Mingus
+    - Eric Dolphy
+    - Jaki Byard
+    - Richard Davis
+    - Alan Dawson
+    - Randy Weston
+    - Dexter Gordon
+    - Núria Feliu
+    - Danish Radio Big Band
+    - Ernie Fields
   influenced:
-  - Contemporary and later tenor saxophonists in hard bop and post‑bop
+    - Contemporary and later tenor saxophonists in hard bop and post‑bop
   mentors:
-  - Booker Ervin Sr. (Booker T. Ervin, Sr.)
-  - Buddy Tate
-  - Berklee College of Music faculty (Boston)
+    - 'Booker Ervin Sr. (Booker T. Ervin, Sr.)'
+    - Buddy Tate
+    - Berklee College of Music faculty (Boston)
 spotify_data:
   followers: 12295
   id: 3ZppcUE7tHnE6SzUR4ipSy
   popularity: 27
-  url: https://open.spotify.com/artist/3ZppcUE7tHnE6SzUR4ipSy
+  url: 'https://open.spotify.com/artist/3ZppcUE7tHnE6SzUR4ipSy'
 discography_enriched: true
 top_tracks:
-- Warm Canto (The Quest)
-- Come Sunday (The Song Book)
-- Come Sunday (The Classic Albums 1960-1964)
-- Den Tex - 2005 Remastered (Tex Book Tenor (Remastered))
-- White Christmas - Remastered (Structurally Sound)
-- Stolen Moments - 2001 Remaster / 24 Bit Mastering (Structurally Sound)
-- Duquility (The Quest)
-- Gichi - 2005 Remastered (Tex Book Tenor (Remastered))
-- Warp And Woof (The Quest)
-- Mojo (That's It)
+  - Warm Canto (The Quest)
+  - Come Sunday (The Song Book)
+  - Come Sunday (The Classic Albums 1960-1964)
+  - Den Tex - 2005 Remastered (Tex Book Tenor (Remastered))
+  - White Christmas - Remastered (Structurally Sound)
+  - Stolen Moments - 2001 Remaster / 24 Bit Mastering (Structurally Sound)
+  - Duquility (The Quest)
+  - Gichi - 2005 Remastered (Tex Book Tenor (Remastered))
+  - Warp And Woof (The Quest)
+  - Mojo (That's It)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/26608e21-906d-4d33-b910-685553120062
-  spotify: https://open.spotify.com/artist/3ZppcUE7tHnE6SzUR4ipSy
-  wikipedia: https://en.wikipedia.org/wiki/Booker_Ervin
+  musicbrainz: 'https://musicbrainz.org/artist/26608e21-906d-4d33-b910-685553120062'
+  spotify: 'https://open.spotify.com/artist/3ZppcUE7tHnE6SzUR4ipSy'
+  wikipedia: 'https://en.wikipedia.org/wiki/Booker_Ervin'
 image_path: 03_Resources/source_material/ArtistPortraits/booker_ervin.jpg
 biography_enhanced_at: '2025-12-16T03:19:30.290934'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Booker_Ervin
-- https://kids.kiddle.co/Booker_Ervin
-- https://www.allaboutjazz.com/musicians/booker-ervin/
-- https://www.bluenote.com/artist/booker-ervin/
-- https://www.tshaonline.org/handbook/entries/ervin-booker-t-jr
-- https://www.villagepreservation.org/2023/06/23/booker-t-ervin-the-jazz-musicians-favorite/
+  - 'https://en.wikipedia.org/wiki/Booker_Ervin'
+  - 'https://kids.kiddle.co/Booker_Ervin'
+  - 'https://www.allaboutjazz.com/musicians/booker-ervin/'
+  - 'https://www.bluenote.com/artist/booker-ervin/'
+  - 'https://www.tshaonline.org/handbook/entries/ervin-booker-t-jr'
+  - >-
+    https://www.villagepreservation.org/2023/06/23/booker-t-ervin-the-jazz-musicians-favorite/
 network_extracted: true
 entry_created: '2025-12-16T03:19:30.290948'
 last_updated: '2025-12-23T08:16:05.943454'
@@ -117,9 +118,10 @@ disambiguation: tenor saxophonist
 gender: Male
 musicbrainz_id: 26608e21-906d-4d33-b910-685553120062
 tags:
-- hard bop
-- jazz
-- jazz and blues
+  - hard bop
+  - jazz
+  - jazz and blues
+is_active: false
 ---
 
 ![](booker_ervin.jpg)

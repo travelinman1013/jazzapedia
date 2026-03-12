@@ -3,47 +3,50 @@ biography_enhanced_at: '2026-01-22T06:58:41.166922'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T06:58:41.166930'
 external_urls:
-  spotify: https://open.spotify.com/artist/7A2HZ5tabKcJjQFo959VgP
-  wikipedia: https://en.wikipedia.org/wiki/Kenny_Barron
+  spotify: 'https://open.spotify.com/artist/7A2HZ5tabKcJjQFo959VgP'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kenny_Barron'
 genres:
-- jazz
-- jazz ballads
+  - jazz
+  - jazz ballads
 image_path: 03_Resources/source_material/ArtistPortraits/kenny_barron_and_dave_holland.jpg
 last_updated: '2026-01-22T06:58:41.166930'
 musical_connections:
   collaborators:
-  - Kenny Barron & Dave Holland (Duo)
-  - Stan Getz
-  - John Abercrombie & Jack DeJohnette
-  - Sphere (Barron's group)
-  - Dave Holland Quintet
+    - Kenny Barron & Dave Holland (Duo)
+    - Stan Getz
+    - John Abercrombie & Jack DeJohnette
+    - Sphere (Barron's group)
+    - Dave Holland Quintet
   influenced:
-  - David Sanchez
+    - David Sanchez
   mentors:
-  - James Moody
-  - Dizzy Gillespie
-  - Miles Davis
+    - James Moody
+    - Dizzy Gillespie
+    - Miles Davis
 network_extracted: true
-origin: Philadelphia, Pennsylvania, USA (Kenny Barron birthplace); London, England
+origin: >-
+  Philadelphia, Pennsylvania, USA (Kenny Barron birthplace); London, England
   (Dave Holland early career location)
 primary_source: perplexity
 research_sources:
-- https://daveholland.com/about/
-- https://www.bluenote.com/artist/kenny-barron/
-- https://kennybarron.com/biography/
-- https://www.laphil.com/musicdb/artists/6023/kenny-barron
-- https://www.imnworld.com/artists/kennybarron
-- https://www.arts.gov/honors/jazz/kenny-barron
-- https://atljazzfest.com/artists/kenny-barron-quartet/
-- https://en.wikipedia.org/wiki/Kenny_Barron
-- https://www.bimhuis.nl/en/calendar/kenny-barron-dave-holland-2
+  - 'https://daveholland.com/about/'
+  - 'https://www.bluenote.com/artist/kenny-barron/'
+  - 'https://kennybarron.com/biography/'
+  - 'https://www.laphil.com/musicdb/artists/6023/kenny-barron'
+  - 'https://www.imnworld.com/artists/kennybarron'
+  - 'https://www.arts.gov/honors/jazz/kenny-barron'
+  - 'https://atljazzfest.com/artists/kenny-barron-quartet/'
+  - 'https://en.wikipedia.org/wiki/Kenny_Barron'
+  - 'https://www.bimhuis.nl/en/calendar/kenny-barron-dave-holland-2'
 spotify_data:
   followers: 3102
   id: 7A2HZ5tabKcJjQFo959VgP
   popularity: 24
-  url: https://open.spotify.com/artist/7A2HZ5tabKcJjQFo959VgP
+  url: 'https://open.spotify.com/artist/7A2HZ5tabKcJjQFo959VgP'
 status: active
 title: Kenny Barron & Dave Holland
+birth_place: 'Philadelphia, Pennsylvania, United States'
+artist_type: band
 ---
 
 ![](kenny_barron_and_dave_holland.jpg)

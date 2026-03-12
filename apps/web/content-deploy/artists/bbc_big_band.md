@@ -3,41 +3,42 @@ biography_enhanced_at: '2026-01-04T01:52:08.462970'
 enhancement_provider: perplexity
 entry_created: '2026-01-04T01:52:08.462975'
 external_urls:
-  spotify: https://open.spotify.com/artist/3YqrhBXo1u2B9BNZM9OJLY
+  spotify: 'https://open.spotify.com/artist/3YqrhBXo1u2B9BNZM9OJLY'
   wikipedia: Not found in search results
 genres:
-- big band
-- swing music
+  - big band
+  - swing music
 image_path: 03_Resources/source_material/ArtistPortraits/bbc_big_band.jpg
 last_updated: '2026-01-04T01:52:08.462976'
 musical_connections:
   collaborators:
-  - Barry Forgie
-  - Ray Charles
-  - Tony Bennett
-  - George Benson
-  - Iain McKenzie
-  - Emer McPartland
+    - Barry Forgie
+    - Ray Charles
+    - Tony Bennett
+    - George Benson
+    - Iain McKenzie
+    - Emer McPartland
   influenced: []
   mentors:
-  - BBC Dance Orchestra tradition
+    - BBC Dance Orchestra tradition
 network_extracted: true
 origin: United Kingdom
 primary_source: perplexity
 research_sources:
-- https://bigbandspecial.co.uk/the-bbc-big-band-bio/
-- https://northernartsreview.co.uk/central-north/review-bbc-big-band-the-music-of-james-bond-and-beyond-at-grand-leeds-theatre/
-- https://www.last.fm/music/The+BBC+Big+Band/+wiki
-- https://musicbrainz.org/artist/4a2d7c6f-3fc4-4b66-9446-741cc6b51163
-- https://bigbandspecial.co.uk
+  - 'https://bigbandspecial.co.uk/the-bbc-big-band-bio/'
+  - >-
+    https://northernartsreview.co.uk/central-north/review-bbc-big-band-the-music-of-james-bond-and-beyond-at-grand-leeds-theatre/
+  - 'https://www.last.fm/music/The+BBC+Big+Band/+wiki'
+  - 'https://musicbrainz.org/artist/4a2d7c6f-3fc4-4b66-9446-741cc6b51163'
+  - 'https://bigbandspecial.co.uk'
 spotify_data:
   followers: 9286
   id: 3YqrhBXo1u2B9BNZM9OJLY
   popularity: 27
-  url: https://open.spotify.com/artist/3YqrhBXo1u2B9BNZM9OJLY
+  url: 'https://open.spotify.com/artist/3YqrhBXo1u2B9BNZM9OJLY'
 status: active
 title: BBC Big Band
-
+artist_type: band
 ---
 
 ![](bbc_big_band.jpg)

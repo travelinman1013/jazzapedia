@@ -4,7 +4,7 @@ wiki_slug: jackson-conti
 schema_version: 2
 status: active
 genres:
-- brazilian jazz
+  - brazilian jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jackson_conti.jpg
   caption: Jackson Conti
@@ -24,51 +24,66 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Madlib (Otis Jackson Jr.)
-  - Ivan “Mamão” Conti
-  - Thalma de Freitas
+    - Madlib (Otis Jackson Jr.)
+    - Ivan “Mamão” Conti
+    - Thalma de Freitas
   influenced:
-  - Contemporary DJs, beatmakers, and producers interested in Brazilian jazz (general scene attribution)
+    - >-
+      Contemporary DJs, beatmakers, and producers interested in Brazilian jazz
+      (general scene attribution)
   mentors:
-  - Classic Brazilian composers and performers of the 1960s–70s (e.g., Edu Lobo, Luiz Eça, Tropicália and bossa nova artists)
-  - American jazz and fusion traditions
+    - >-
+      Classic Brazilian composers and performers of the 1960s–70s (e.g., Edu
+      Lobo, Luiz Eça, Tropicália and bossa nova artists)
+    - American jazz and fusion traditions
 spotify_data:
   followers: 2538
   id: 2cvyvhM1582gxfnpuNZnAI
   popularity: 8
-  url: https://open.spotify.com/artist/2cvyvhM1582gxfnpuNZnAI
+  url: 'https://open.spotify.com/artist/2cvyvhM1582gxfnpuNZnAI'
 discography_enriched: true
 top_tracks:
-- Barumba (Sujinho)
-- Praça Da Republica (Sujinho)
-- Papaia (Sujinho)
-- São Paulo Nights (Sujinho)
-- Mamãoism (Sujinho)
-- Brasilian Sugar (Sujinho)
-- 'Upa Neguinho (Yesterdays Universe: Prepare For A New Yesterday (Volume 1))'
-- 'Plateau, Pt. 1 (Mr Bongo Presents: Brazilian Beats 7)'
-- Xibaba (Sujinho)
-- Upa Neguinho (Sujinho)
+  - Barumba (Sujinho)
+  - Praça Da Republica (Sujinho)
+  - Papaia (Sujinho)
+  - São Paulo Nights (Sujinho)
+  - Mamãoism (Sujinho)
+  - Brasilian Sugar (Sujinho)
+  - 'Upa Neguinho (Yesterdays Universe: Prepare For A New Yesterday (Volume 1))'
+  - 'Plateau, Pt. 1 (Mr Bongo Presents: Brazilian Beats 7)'
+  - Xibaba (Sujinho)
+  - Upa Neguinho (Sujinho)
 external_urls:
-  spotify: https://open.spotify.com/artist/2cvyvhM1582gxfnpuNZnAI
+  spotify: 'https://open.spotify.com/artist/2cvyvhM1582gxfnpuNZnAI'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/jackson_conti.jpg
 biography_enhanced_at: '2025-12-09T04:24:58.781212'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- AllMusic artist entry for Jackson Conti (project overview and naming origin).[5]
-- Jazz Is Dead biography of Azymuth (context for Ivan Conti’s role in Brazilian jazz and mention of his collaboration with
-  Madlib as Jackson Conti).[2]
-- Plug One review of *Sujinho* (details on repertoire, style, and specific tracks and guests).[3]
-- RapReviews article on *Sujinho* (discussion of the Jackson Conti name as a Madlib pseudonym and characterization of the
-  collaboration).[7]
-- Wikipedia entry for Ivan Conti (background on his career and status as a Brazilian drummer and composer).[1]
+  - >-
+    AllMusic artist entry for Jackson Conti (project overview and naming
+    origin).[5]
+  - >-
+    Jazz Is Dead biography of Azymuth (context for Ivan Conti’s role in
+    Brazilian jazz and mention of his collaboration with Madlib as Jackson
+    Conti).[2]
+  - >-
+    Plug One review of *Sujinho* (details on repertoire, style, and specific
+    tracks and guests).[3]
+  - >-
+    RapReviews article on *Sujinho* (discussion of the Jackson Conti name as a
+    Madlib pseudonym and characterization of the collaboration).[7]
+  - >-
+    Wikipedia entry for Ivan Conti (background on his career and status as a
+    Brazilian drummer and composer).[1]
 network_extracted: true
 entry_created: '2025-12-09T04:24:58.781222'
 last_updated: '2025-12-23T08:16:10.079317'
-origin: Project formed between Los Angeles, California, United States (Madlib’s base) and Brazil (Ivan Conti’s base in Rio
-  de Janeiro region)
+origin: >-
+  Project formed between Los Angeles, California, United States (Madlib’s base)
+  and Brazil (Ivan Conti’s base in Rio de Janeiro region)
+artist_type: person
 ---
 
 ![](jackson_conti.jpg)

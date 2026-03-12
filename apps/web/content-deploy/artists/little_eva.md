@@ -1,16 +1,16 @@
 ---
-title: little eva
+title: Little Eva
 wiki_slug: little-eva
 schema_version: 2
 status: active
-birth_place: Belhaven, North Carolina, USA
+birth_place: 'Belhaven, North Carolina, USA'
 genres:
-- doo-wop
+  - doo-wop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/little_eva.jpg
   caption: little eva
   background: solo_singer
-  origin: Belhaven, North Carolina, USA
+  origin: 'Belhaven, North Carolina, USA'
 audio_profile:
   tempo_avg: 120.9
   energy_avg: 0.697
@@ -26,49 +26,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Cookies
-  - Big Dee Irwin
-  - The Drifters
-  - Ben E. King
+    - The Cookies
+    - Big Dee Irwin
+    - The Drifters
+    - Ben E. King
   influenced:
-  - Kylie Minogue
-  - Grand Funk Railroad
+    - Kylie Minogue
+    - Grand Funk Railroad
   mentors:
-  - Carole King
-  - Gerry Goffin
-  - Don Kirshner
+    - Carole King
+    - Gerry Goffin
+    - Don Kirshner
 spotify_data:
   followers: 67515
   id: 4S76LQXJD6N2uPcLhKejG8
   popularity: 46
-  url: https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8
+  url: 'https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8'
 discography_enriched: true
 top_tracks:
-- The Locomotion (Llllloco-Motion)
-- The Loco-Motion - Single Version
-- The Locomotion
-- The Loco-Motion (The Locomotion)
-- The Locomotion (Pure 60s)
-- The Locomotion
-- Some Kinda Wonderful (Llllloco-Motion)
-- Breaking up Is Hard to Do (Llllloco-Motion)
-- Keep Your Hands off My Baby
-- The Loco-Motion
+  - The Locomotion (Llllloco-Motion)
+  - The Loco-Motion - Single Version
+  - The Locomotion
+  - The Loco-Motion (The Locomotion)
+  - The Locomotion (Pure 60s)
+  - The Locomotion
+  - Some Kinda Wonderful (Llllloco-Motion)
+  - Breaking up Is Hard to Do (Llllloco-Motion)
+  - Keep Your Hands off My Baby
+  - The Loco-Motion
 external_urls:
-  spotify: https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8
-  wikipedia: https://en.wikipedia.org/wiki/Little_Eva
+  spotify: 'https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8'
+  wikipedia: 'https://en.wikipedia.org/wiki/Little_Eva'
 image_path: 03_Resources/source_material/ArtistPortraits/little_eva.jpg
 biography_enhanced_at: '2025-11-28T07:34:22.261242'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Little_Eva
-- https://aaregistry.org/story/little-eva-singer-of-the-1960s/
-- https://www.imdb.com/name/nm3059037/bio/
-- https://www.history-of-rock.com/little_eva.htm
+  - 'https://en.wikipedia.org/wiki/Little_Eva'
+  - 'https://aaregistry.org/story/little-eva-singer-of-the-1960s/'
+  - 'https://www.imdb.com/name/nm3059037/bio/'
+  - 'https://www.history-of-rock.com/little_eva.htm'
 network_extracted: true
 entry_created: '2025-11-28T07:34:22.261256'
 last_updated: '2025-12-23T08:16:11.998039'
+birth_date: '1943-06-29'
+artist_type: person
 ---
 
 ![](little_eva.jpg)

@@ -4,10 +4,11 @@ wiki_slug: erykah-badu-the-alchemist
 schema_version: 2
 status: active
 genres:
-- neo soul
-- r&b
+  - neo soul
+  - r&b
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/erykah_badu_and_the_alchemist.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/erykah_badu_and_the_alchemist.jpg
   caption: Erykah Badu & The Alchemist
   background: solo_singer
 audio_profile:
@@ -17,7 +18,7 @@ audio_profile:
   danceability_avg: 0.694
   acousticness_avg: 0.218
   instrumentalness_avg: 0.056
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.146
   liveness_avg: 0.214
   track_count: 58
@@ -25,50 +26,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Cannabinoids
-  - Freddie Gibbs
-  - Havoc
+    - The Cannabinoids
+    - Freddie Gibbs
+    - Havoc
   influenced:
-  - Jill Scott
-  - Anderson .Paak
+    - Jill Scott
+    - Anderson .Paak
   mentors:
-  - D'Angelo
-  - James Poyser
+    - D'Angelo
+    - James Poyser
 spotify_data:
   followers: 3253777
   id: 7IfculRW2WXyzNQ8djX8WX
   popularity: 68
-  url: https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX
+  url: 'https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX'
 discography_enriched: true
 top_tracks:
-- Didn't Cha Know (Mama's Gun)
-- On & On (Baduizm)
-- You Got Me (Things Fall Apart)
-- Appletree (Baduizm)
-- Next Lifetime (Baduizm)
-- I'll Call U Back (But You Caint Use My Phone (Mixtape))
-- Treehome95 (feat. Coco O. & Erykah Badu) (Wolf)
-- Window Seat
-- F.U. (In Waves (Deluxe))
-- Other Side Of The Game (Baduizm)
+  - Didn't Cha Know (Mama's Gun)
+  - On & On (Baduizm)
+  - You Got Me (Things Fall Apart)
+  - Appletree (Baduizm)
+  - Next Lifetime (Baduizm)
+  - I'll Call U Back (But You Caint Use My Phone (Mixtape))
+  - Treehome95 (feat. Coco O. & Erykah Badu) (Wolf)
+  - Window Seat
+  - F.U. (In Waves (Deluxe))
+  - Other Side Of The Game (Baduizm)
 external_urls:
-  spotify: https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX
-  wikipedia: https://en.wikipedia.org/wiki/Erykah_Badu
+  spotify: 'https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX'
+  wikipedia: 'https://en.wikipedia.org/wiki/Erykah_Badu'
 image_path: 03_Resources/source_material/ArtistPortraits/erykah_badu_and_the_alchemist.jpg
 biography_enhanced_at: '2025-11-20T07:36:55.843128'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.latimes.com/entertainment-arts/music/story/2025-11-12/inside-hip-hop-producer-the-alchemists-biggest-year-yet
-- https://hiphopdx.com/news/the-alchemist-denies-erykah-badu-collab-supposed-drop-last-week/
-- https://en.wikipedia.org/wiki/Erykah_Badu
-- https://dallasweekly.com/2025/07/abi-alan-luv-iz-tour/
-- https://stereogum.com/2301010/erykah-badu-prepping-first-new-album-in-15-years-produced-entirely-by-the-alchemist/news
-- https://www.brooklynvegan.com/erykah-badus-long-awaited-new-album-is-a-collaboration-with-the-alchemist/
+  - >-
+    https://www.latimes.com/entertainment-arts/music/story/2025-11-12/inside-hip-hop-producer-the-alchemists-biggest-year-yet
+  - >-
+    https://hiphopdx.com/news/the-alchemist-denies-erykah-badu-collab-supposed-drop-last-week/
+  - 'https://en.wikipedia.org/wiki/Erykah_Badu'
+  - 'https://dallasweekly.com/2025/07/abi-alan-luv-iz-tour/'
+  - >-
+    https://stereogum.com/2301010/erykah-badu-prepping-first-new-album-in-15-years-produced-entirely-by-the-alchemist/news
+  - >-
+    https://www.brooklynvegan.com/erykah-badus-long-awaited-new-album-is-a-collaboration-with-the-alchemist/
 network_extracted: true
 entry_created: '2025-11-20T07:36:55.843135'
 last_updated: '2025-12-23T08:16:08.473542'
-origin: Dallas, Texas, United States
+origin: 'Dallas, Texas, United States'
+birth_place: 'Dallas, Texas, United States'
+artist_type: person
 ---
 
 ![](erykah_badu_and_the_alchemist.jpg)

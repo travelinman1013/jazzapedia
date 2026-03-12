@@ -4,39 +4,45 @@ biography_enhanced_at: '2026-01-17T02:01:56.766878'
 enhancement_provider: perplexity
 entry_created: '2026-01-17T02:01:56.766883'
 external_urls:
-  spotify: https://open.spotify.com/artist/5TJsMBplY2QxM9uTcskENc
+  spotify: 'https://open.spotify.com/artist/5TJsMBplY2QxM9uTcskENc'
   wikipedia: ''
 genres:
-- latin jazz
-- afro-cuban jazz
-- big band
-image_path: 03_Resources/source_material/ArtistPortraits/manhattan_school_of_music_afro_c.jpg
+  - latin jazz
+  - afro-cuban jazz
+  - big band
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/manhattan_school_of_music_afro_c.jpg
 is_active: true
 last_updated: '2026-01-17T02:01:56.766884'
 musical_connections:
   collaborators:
-  - Patrick Bartley
-  - Xavier Del Castillo
-  - Leo Pellegrino
-  - Duke Ellington / Billy Strayhorn
+    - Patrick Bartley
+    - Xavier Del Castillo
+    - Leo Pellegrino
+    - Duke Ellington / Billy Strayhorn
   influenced: []
   mentors:
-  - Bobby Sanabria
-  - Arturo O'Farrill
+    - Bobby Sanabria
+    - Arturo O'Farrill
 network_extracted: true
-origin: New York City, New York, USA
+origin: 'New York City, New York, United States'
 primary_source: perplexity
 research_sources:
-- https://londonjazznews.com/2014/07/29/cd-review-manhattan-school-of-music-afro-cuban-jazz-orchestra-bobby-sanabria-que-viva-harlem/
-- https://latinjazznet.com/reviews/albums/msm-afro-cuban-jazz-orchestra-que-viva-harlem/
-- https://www.jazzmusicarchives.com/artist/manhattan-school-of-music-afro-cuban-jazz-orchestra
-- https://www.allaboutjazz.com/tito-puente-masterworks-live-bobby-sanabria-jazzheads-review-by-alain-londes
-- https://www.msmnyc.edu/livestream/msm-afro-cuban-jazz-orchestra-directed-by-arturo-ofarrill/
+  - >-
+    https://londonjazznews.com/2014/07/29/cd-review-manhattan-school-of-music-afro-cuban-jazz-orchestra-bobby-sanabria-que-viva-harlem/
+  - >-
+    https://latinjazznet.com/reviews/albums/msm-afro-cuban-jazz-orchestra-que-viva-harlem/
+  - >-
+    https://www.jazzmusicarchives.com/artist/manhattan-school-of-music-afro-cuban-jazz-orchestra
+  - >-
+    https://www.allaboutjazz.com/tito-puente-masterworks-live-bobby-sanabria-jazzheads-review-by-alain-londes
+  - >-
+    https://www.msmnyc.edu/livestream/msm-afro-cuban-jazz-orchestra-directed-by-arturo-ofarrill/
 spotify_data:
   followers: 529
   id: 5TJsMBplY2QxM9uTcskENc
   popularity: 2
-  url: https://open.spotify.com/artist/5TJsMBplY2QxM9uTcskENc
+  url: 'https://open.spotify.com/artist/5TJsMBplY2QxM9uTcskENc'
 status: active
 title: Manhattan School of Music Afro C
 ---

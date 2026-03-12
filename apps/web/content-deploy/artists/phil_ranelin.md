@@ -5,32 +5,32 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1939-05-25'
-birth_place: Indianapolis, Indiana, United States
+birth_place: 'Indianapolis, Indiana, United States'
 genres:
-- free jazz
-- jazz funk
-- soul jazz
-- jazz
+  - free jazz
+  - jazz funk
+  - soul jazz
+  - jazz
 instruments:
-- trombone
-associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 942bea34-dd7d-481a-8dad-f00a15ee73ee
-  name: Build an Ark
-- begin: ''
-  end: ''
-  instruments:
   - trombone
-  mbid: 8a60b361-b70c-473d-a720-519f370e17b6
-  name: The Gathering
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 942bea34-dd7d-481a-8dad-f00a15ee73ee
+    name: Build an Ark
+  - begin: ''
+    end: ''
+    instruments:
+      - trombone
+    mbid: 8a60b361-b70c-473d-a720-519f370e17b6
+    name: The Gathering
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/phil_ranelin.jpg
   caption: Phil Ranelin
   background: non_vocal_instrumentalist
   born: '1939-05-25'
-  origin: Indianapolis, Indiana, United States
+  origin: 'Indianapolis, Indiana, United States'
 audio_profile:
   tempo_avg: 120.3
   energy_avg: 0.519
@@ -46,59 +46,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Freddie Hubbard
-  - Horace Tapscott
-  - Stevie Wonder
-  - The Temptations
-  - Tribe Collective
+    - Freddie Hubbard
+    - Horace Tapscott
+    - Stevie Wonder
+    - The Temptations
+    - Tribe Collective
   influenced:
-  - Detroit jazz musicians
-  - Los Angeles jazz community
+    - Detroit jazz musicians
+    - Los Angeles jazz community
   mentors:
-  - J.J. Johnson
-  - Wes Montgomery
-  - Earmon Hubbard
+    - J.J. Johnson
+    - Wes Montgomery
+    - Earmon Hubbard
 spotify_data:
   followers: 3447
   id: 3baRh0WashSSiDbLNEHar1
   popularity: 15
-  url: https://open.spotify.com/artist/3baRh0WashSSiDbLNEHar1
+  url: 'https://open.spotify.com/artist/3baRh0WashSSiDbLNEHar1'
 discography_enriched: true
 top_tracks:
-- Vibes From The Tribe (Prelude) (Vibes From The Tribe)
-- What We Need (A Message From The Tribe)
-- Fire In Detroit
-- Sounds From The Village (Vibes From The Tribe)
-- Vibes from the Tribe
-- Running With The Tribe (Jazz Is Dead 011)
-- Open Eye
-- Running With The Tribe - Remix
-- 'Vibes from the Tribe (Soul of a Nation: Afro-Centric Visions in the Age of Black Power - Underground Jazz, Street Funk
-  & the Roots of Rap 1968-79)'
-- Angela's Dilemma (A Message From The Tribe)
+  - Vibes From The Tribe (Prelude) (Vibes From The Tribe)
+  - What We Need (A Message From The Tribe)
+  - Fire In Detroit
+  - Sounds From The Village (Vibes From The Tribe)
+  - Vibes from the Tribe
+  - Running With The Tribe (Jazz Is Dead 011)
+  - Open Eye
+  - Running With The Tribe - Remix
+  - >-
+    Vibes from the Tribe (Soul of a Nation: Afro-Centric Visions in the Age of
+    Black Power - Underground Jazz, Street Funk & the Roots of Rap 1968-79)
+  - Angela's Dilemma (A Message From The Tribe)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/bca4138d-502a-4573-a61a-c64499564354
-  spotify: https://open.spotify.com/artist/3baRh0WashSSiDbLNEHar1
-  wikipedia: https://en.wikipedia.org/wiki/Phil_Ranelin
+  musicbrainz: 'https://musicbrainz.org/artist/bca4138d-502a-4573-a61a-c64499564354'
+  spotify: 'https://open.spotify.com/artist/3baRh0WashSSiDbLNEHar1'
+  wikipedia: 'https://en.wikipedia.org/wiki/Phil_Ranelin'
 image_path: 03_Resources/source_material/ArtistPortraits/phil_ranelin.jpg
 biography_enhanced_at: '2025-11-14T10:33:40.233225'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.trombone-usa.com/ranelin_phil.htm
-- https://en.wikipedia.org/wiki/Phil_Ranelin
-- https://www.wfyi.org/programs/echoes-indiana-avenue/radio/phil-ranelin-jazz-is-dead
-- https://www.allmusic.com/artist/phil-ranelin-mn0000847149
-- https://aadl.org/node/202130
+  - 'https://www.trombone-usa.com/ranelin_phil.htm'
+  - 'https://en.wikipedia.org/wiki/Phil_Ranelin'
+  - >-
+    https://www.wfyi.org/programs/echoes-indiana-avenue/radio/phil-ranelin-jazz-is-dead
+  - 'https://www.allmusic.com/artist/phil-ranelin-mn0000847149'
+  - 'https://aadl.org/node/202130'
 network_extracted: true
 entry_created: '2025-11-14T10:33:40.233235'
 last_updated: '2025-12-23T08:16:14.260091'
 gender: Male
 musicbrainz_id: bca4138d-502a-4573-a61a-c64499564354
 tags:
-- jazz
-- jazz and blues
-- post-bop
+  - jazz
+  - jazz and blues
+  - post-bop
+origin: 'Detroit, Michigan, United States'
 ---
 
 ![](phil_ranelin.jpg)

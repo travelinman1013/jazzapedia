@@ -2,19 +2,19 @@
 title: Seratones
 wiki_slug: seratones
 schema_version: 2
-artist_type: Group
+artist_type: person
 status: active
 birth_date: '2013'
 genres:
-- funk rock
-- retro soul
+  - funk rock
+  - retro soul
 instruments:
-- keyboard
-- bass guitar
-- original
-- drums (drum set)
-- guitar
-- lead vocals
+  - keyboard
+  - bass guitar
+  - original
+  - drums (drum set)
+  - guitar
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Seratones.jpg
   caption: Seratones
@@ -35,56 +35,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - A.J. Haynes
-  - Connor Davis
-  - Jesse Gabriel
-  - Adam Davis
-  - Brad Schultz
+    - A.J. Haynes
+    - Connor Davis
+    - Jesse Gabriel
+    - Adam Davis
+    - Brad Schultz
   influenced:
-  - Regional Louisiana artists
+    - Regional Louisiana artists
   mentors:
-  - Charles Bradley
-  - Etta James
-  - Poly Styrene (X-Ray Spex)
+    - Charles Bradley
+    - Etta James
+    - Poly Styrene (X-Ray Spex)
 spotify_data:
   followers: 25057
   id: 7D9TOQJq1HnpnQZlNNYWqc
   popularity: 25
-  url: https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc
+  url: 'https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc'
 discography_enriched: true
 top_tracks:
-- Dark Matter (Love & Algorhythms)
-- Good Day (Love & Algorhythms)
-- Over You (POWER)
-- Gotta Get To Know Ya (POWER)
-- Power (POWER)
-- Don't Need It (Get Gone)
-- Get Free (Love & Algorhythms)
-- Pleasure (Love & Algorhythms)
-- Fear (POWER)
-- Lie To My Face (POWER)
+  - Dark Matter (Love & Algorhythms)
+  - Good Day (Love & Algorhythms)
+  - Over You (POWER)
+  - Gotta Get To Know Ya (POWER)
+  - Power (POWER)
+  - Don't Need It (Get Gone)
+  - Get Free (Love & Algorhythms)
+  - Pleasure (Love & Algorhythms)
+  - Fear (POWER)
+  - Lie To My Face (POWER)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/19168b28-e876-4f17-83ef-e01475e2f1ae
-  spotify: https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc
-  wikipedia: https://en.wikipedia.org/wiki/Seratones
+  musicbrainz: 'https://musicbrainz.org/artist/19168b28-e876-4f17-83ef-e01475e2f1ae'
+  spotify: 'https://open.spotify.com/artist/7D9TOQJq1HnpnQZlNNYWqc'
+  wikipedia: 'https://en.wikipedia.org/wiki/Seratones'
 image_path: 03_Resources/source_material/ArtistPortraits/Seratones.jpg
 biography_enhanced_at: '2025-10-19T12:00:13.134681'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.seratones.com/bio
-- https://bigtakeover.com/interviews/seratones-redefining-southern-rock
-- https://www.stillaustin.com/blog/seven-questions-aj-haynes-of-seratones
-- https://frontrunnermag.com/posts/seratones/
+  - 'https://www.seratones.com/bio'
+  - 'https://bigtakeover.com/interviews/seratones-redefining-southern-rock'
+  - 'https://www.stillaustin.com/blog/seven-questions-aj-haynes-of-seratones'
+  - 'https://frontrunnermag.com/posts/seratones/'
 network_extracted: true
 entry_created: '2025-10-19T12:00:13.134687'
 last_updated: '2025-12-23T08:16:03.846052'
 disambiguation: US soul rock band
 musicbrainz_enriched_at: '2025-10-21T09:43:05.755667'
 musicbrainz_id: 19168b28-e876-4f17-83ef-e01475e2f1ae
-origin: Shreveport, Louisiana, United States
+origin: 'Shreveport, Louisiana, United States'
 tags:
-- soul rock
+  - soul rock
 ---
 
 ![](Seratones.jpg)

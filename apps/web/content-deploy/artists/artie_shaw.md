@@ -1,44 +1,44 @@
 ---
-title: artie shaw
+title: Artie Shaw
 wiki_slug: artie-shaw
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1910-05-23'
-birth_place: New York
+birth_place: 'New York City, New York, United States'
 death_date: '2004-12-30'
 genres:
-- big band
-- swing music
-- jazz
+  - big band
+  - swing music
+  - jazz
 instruments:
-- eponymous
-- original
+  - eponymous
+  - original
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: e0e03d5f-913c-4ac2-b09d-60dd98ce22d8
-  name: Artie Shaw and His Gramercy Five
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 6552222a-4a4e-45e8-a472-a4bd6bfbd047
-  name: Artie Shaw and His Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 6552222a-4a4e-45e8-a472-a4bd6bfbd047
-  name: Artie Shaw and His Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bdea3a39-54fd-403f-b9f3-23116adf7e6b
-  name: Golden Pheasant Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: e0e03d5f-913c-4ac2-b09d-60dd98ce22d8
+    name: Artie Shaw and His Gramercy Five
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 6552222a-4a4e-45e8-a472-a4bd6bfbd047
+    name: Artie Shaw and His Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 6552222a-4a4e-45e8-a472-a4bd6bfbd047
+    name: Artie Shaw and His Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bdea3a39-54fd-403f-b9f3-23116adf7e6b
+    name: Golden Pheasant Orchestra
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/artie_shaw.jpg
   caption: artie shaw
@@ -61,53 +61,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Billie Holiday
-  - Oran 'Hot Lips' Page
-  - Mel Tormé
+    - Billie Holiday
+    - Oran 'Hot Lips' Page
+    - Mel Tormé
   influenced:
-  - Monty Norman
-  - Benny Goodman
+    - Monty Norman
+    - Benny Goodman
   mentors:
-  - Willie 'The Lion' Smith
+    - Willie 'The Lion' Smith
 spotify_data:
   followers: 118076
   id: 5wam12nGWDBIrLDV78TNSF
   popularity: 45
-  url: https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF
+  url: 'https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF'
 discography_enriched: true
 top_tracks:
-- Moonglow (Begin The Beguine)
-- Begin the Beguine (Begin The Beguine)
-- Stardust (Begin The Beguine)
-- Frenesi (Begin The Beguine)
-- Where Or When
-- Softly, As In A Morning Sunrise
-- Begin The Beguine
-- It Had To Be You
-- A Room With A View
-- Deep Purple (Begin The Beguine)
+  - Moonglow (Begin The Beguine)
+  - Begin the Beguine (Begin The Beguine)
+  - Stardust (Begin The Beguine)
+  - Frenesi (Begin The Beguine)
+  - Where Or When
+  - 'Softly, As In A Morning Sunrise'
+  - Begin The Beguine
+  - It Had To Be You
+  - A Room With A View
+  - Deep Purple (Begin The Beguine)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/85545102-7c29-4707-aea2-30ff55018df9
-  spotify: https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF
-  wikipedia: https://en.wikipedia.org/wiki/Artie_Shaw
+  musicbrainz: 'https://musicbrainz.org/artist/85545102-7c29-4707-aea2-30ff55018df9'
+  spotify: 'https://open.spotify.com/artist/5wam12nGWDBIrLDV78TNSF'
+  wikipedia: 'https://en.wikipedia.org/wiki/Artie_Shaw'
 image_path: 03_Resources/source_material/ArtistPortraits/artie_shaw.jpg
 biography_enhanced_at: '2025-10-25T10:10:40.522054'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Artie_Shaw
-- https://www.britannica.com/biography/Artie-Shaw
-- https://www.arts.gov/honors/jazz/artie-shaw
-- https://www.jazzstandards.com/biographies/biography_754.htm
-- https://www.selmer.fr/en/blogs/artistes/artie-shaw
+  - 'https://en.wikipedia.org/wiki/Artie_Shaw'
+  - 'https://www.britannica.com/biography/Artie-Shaw'
+  - 'https://www.arts.gov/honors/jazz/artie-shaw'
+  - 'https://www.jazzstandards.com/biographies/biography_754.htm'
+  - 'https://www.selmer.fr/en/blogs/artistes/artie-shaw'
 network_extracted: true
 entry_created: '2025-10-25T10:10:40.522064'
 last_updated: '2025-12-23T08:16:04.950208'
 gender: Male
 musicbrainz_id: 85545102-7c29-4707-aea2-30ff55018df9
 tags:
-- jazz
-- swing
+  - jazz
+  - swing
+is_active: false
+origin: 'New Haven, Connecticut, United States'
 ---
 
 ![](artie_shaw.jpg)

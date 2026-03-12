@@ -2,58 +2,61 @@
 artist_type: person
 biography_enhanced_at: '2026-01-13T01:12:59.667472'
 birth_date: '1935-01-10'
-birth_place: Macon
+birth_place: 'Macon, Mississippi, United States'
 death_date: '2018-06-01'
 enhancement_provider: perplexity
 entry_created: '2026-01-13T01:12:59.667478'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ceabc3a3-884b-4119-831a-ef861e5e86e9
-  spotify: https://open.spotify.com/artist/24k7DQG3asoxeOERUfa4JS
+  musicbrainz: 'https://musicbrainz.org/artist/ceabc3a3-884b-4119-831a-ef861e5e86e9'
+  spotify: 'https://open.spotify.com/artist/24k7DQG3asoxeOERUfa4JS'
   wikipedia: ''
 gender: Male
 genres:
-- blues
-- classic blues
-- blues rock
-- modern blues
+  - blues
+  - classic blues
+  - blues rock
+  - modern blues
 image_path: 03_Resources/source_material/ArtistPortraits/eddy_clearwater.jpg
 instruments:
-- guitar
+  - guitar
 last_updated: '2026-01-13T01:12:59.667479'
 musical_connections:
   collaborators:
-  - Buddy Guy
-  - Junior Wells
-  - Los Straitjackets
-  - Jump Jackson
-  - Carey Bell Harrington
+    - Buddy Guy
+    - Junior Wells
+    - Los Straitjackets
+    - Jump Jackson
+    - Carey Bell Harrington
   influenced: []
   mentors:
-  - Magic Sam
-  - Sunnyland Slim
-  - Earl Hooker
-  - Chuck Berry
+    - Magic Sam
+    - Sunnyland Slim
+    - Earl Hooker
+    - Chuck Berry
 musicbrainz_id: ceabc3a3-884b-4119-831a-ef861e5e86e9
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.eddyclearwater.com/bio.html
-- https://www.thehistorymakers.org/biography/eddy-clearwater-40
-- https://www.namm.org/library/oral-history/eddy-clearwater
-- https://www.vintageguitar.com/2883/eddy-the-chief-clearwater/
-- https://www.americanbluesscene.com/2016/03/10-things-you-didnt-know-about-eddy-the-chief-clearwater/
-- https://www.anatomicallycorrect.org/EddyClearwater.htm
+  - 'https://www.eddyclearwater.com/bio.html'
+  - 'https://www.thehistorymakers.org/biography/eddy-clearwater-40'
+  - 'https://www.namm.org/library/oral-history/eddy-clearwater'
+  - 'https://www.vintageguitar.com/2883/eddy-the-chief-clearwater/'
+  - >-
+    https://www.americanbluesscene.com/2016/03/10-things-you-didnt-know-about-eddy-the-chief-clearwater/
+  - 'https://www.anatomicallycorrect.org/EddyClearwater.htm'
 spotify_data:
   followers: 8061
   id: 24k7DQG3asoxeOERUfa4JS
   popularity: 20
-  url: https://open.spotify.com/artist/24k7DQG3asoxeOERUfa4JS
+  url: 'https://open.spotify.com/artist/24k7DQG3asoxeOERUfa4JS'
 status: active
 tags:
-- blues
-- chicago blues
-- electric blues
-title: EDDY CLEARWATER
+  - blues
+  - chicago blues
+  - electric blues
+title: Eddy Clearwater
+is_active: false
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](eddy_clearwater.jpg)

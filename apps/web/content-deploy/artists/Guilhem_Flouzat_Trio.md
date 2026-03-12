@@ -4,7 +4,7 @@ wiki_slug: guilhem-flouzat-trio
 schema_version: 2
 status: active
 genres:
-- cool jazz
+  - cool jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Guilhem_Flouzat_Trio.jpg
   caption: Guilhem Flouzat Trio
@@ -24,53 +24,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sullivan Fortner
-  - Desmond White
-  - Isabel Sorling
-  - Tigran Hamasyan
-  - Becca Stevens
-  - Ben Wendel
-  - Richard Sears
-  - Martin Nevin
+    - Sullivan Fortner
+    - Desmond White
+    - Isabel Sorling
+    - Tigran Hamasyan
+    - Becca Stevens
+    - Ben Wendel
+    - Richard Sears
+    - Martin Nevin
   influenced: []
   mentors:
-  - Eric Harland
-  - Dan Weiss
-  - Mark Guiliana
-  - John Riley
+    - Eric Harland
+    - Dan Weiss
+    - Mark Guiliana
+    - John Riley
 spotify_data:
   followers: 385
   id: 1UC98UTioR8IAQqqTOAtCO
   popularity: 5
-  url: https://open.spotify.com/artist/1UC98UTioR8IAQqqTOAtCO
+  url: 'https://open.spotify.com/artist/1UC98UTioR8IAQqqTOAtCO'
 discography_enriched: true
 top_tracks:
-- Scarecrow (Bottommost)
-- I'm Nice (I'm Nice)
-- Scarecrow (Scarecrow)
-- Sapphire (Bottommost)
-- The Ballad of Juan Manuel (In the Towns)
-- By and By (Constant Stranger)
-- A Presence Known (Constant Stranger)
-- Stone (Bottommost)
-- Bubble (Bottommost)
-- February Rain (Happy Monday)
+  - Scarecrow (Bottommost)
+  - I'm Nice (I'm Nice)
+  - Scarecrow (Scarecrow)
+  - Sapphire (Bottommost)
+  - The Ballad of Juan Manuel (In the Towns)
+  - By and By (Constant Stranger)
+  - A Presence Known (Constant Stranger)
+  - Stone (Bottommost)
+  - Bubble (Bottommost)
+  - February Rain (Happy Monday)
 external_urls:
-  spotify: https://open.spotify.com/artist/1UC98UTioR8IAQqqTOAtCO
+  spotify: 'https://open.spotify.com/artist/1UC98UTioR8IAQqqTOAtCO'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/Guilhem_Flouzat_Trio.jpg
 biography_enhanced_at: '2025-10-19T10:28:16.029292'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://guilhemflouzat.com
-- https://jazztimes.com/reviews/albums/guilhem-flouzat-trio/
-- https://downbeat.com/reviews/detail/a-thing-called-joe
-- https://allaboutjazz.com/a-thing-called-joe-guilhem-flouzat-sunnyside-records-review-by-dan-mcclenaghan
+  - 'https://guilhemflouzat.com'
+  - 'https://jazztimes.com/reviews/albums/guilhem-flouzat-trio/'
+  - 'https://downbeat.com/reviews/detail/a-thing-called-joe'
+  - >-
+    https://allaboutjazz.com/a-thing-called-joe-guilhem-flouzat-sunnyside-records-review-by-dan-mcclenaghan
 network_extracted: true
 entry_created: '2025-10-19T10:28:16.029307'
 last_updated: '2025-12-23T08:16:02.170636'
-origin: Paris, Île-de-France, France
+origin: 'Paris, Île-de-France, France'
+birth_place: 'Paris, Île-de-France, France'
+artist_type: person
 ---
 
 ![](Guilhem_Flouzat_Trio.jpg)

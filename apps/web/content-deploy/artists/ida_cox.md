@@ -1,23 +1,23 @@
 ---
-title: IDA COX
+title: Ida Cox
 wiki_slug: ida-cox
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1896-02-25'
-birth_place: Toccoa
+birth_place: 'Toccoa, Georgia, United States'
 death_date: '1967-11-10'
 genres: []
 instruments:
-- eponymous
-- lead vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
-  mbid: edf3e117-ec9d-496d-a153-7012d33a0391
-  name: Ida Cox and Her Five Blue Spells
+  - lead vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: edf3e117-ec9d-496d-a153-7012d33a0391
+    name: Ida Cox and Her Five Blue Spells
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/ida_cox.jpg
   caption: IDA COX
@@ -40,55 +40,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jelly Roll Morton
-  - Lovie Austin
+    - Jelly Roll Morton
+    - Lovie Austin
   influenced:
-  - Dinah Washington
-  - Modern blues and jazz vocalists
+    - Dinah Washington
+    - Modern blues and jazz vocalists
   mentors:
-  - Ma Rainey
-  - Bessie Smith
+    - Ma Rainey
+    - Bessie Smith
 spotify_data:
   followers: 35566
   id: 30ut8L4gmEz4vNr1zNhpbh
   popularity: 52
-  url: https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh
+  url: 'https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh'
 discography_enriched: true
 top_tracks:
-- Let Me Think About It (Singled Out)
-- Think About It
-- Let Me Think About It - Radio Edit
-- Let Me Think About It Again
-- Let Me Think About It - Celebration Mix - Radio Edit
-- Whats the Prob Dog? (Let Me Think About It)
-- Let Me Think About It Again (360 Yellow (Deluxe Version))
-- Let Me Think About It - Club Mix
-- Keep Hope Alive
-- Sjus (feat. Ida Corr, Camille Jones & Johnson) - KATO Edit (Discolized 2.0)
+  - Let Me Think About It (Singled Out)
+  - Think About It
+  - Let Me Think About It - Radio Edit
+  - Let Me Think About It Again
+  - Let Me Think About It - Celebration Mix - Radio Edit
+  - Whats the Prob Dog? (Let Me Think About It)
+  - Let Me Think About It Again (360 Yellow (Deluxe Version))
+  - Let Me Think About It - Club Mix
+  - Keep Hope Alive
+  - 'Sjus (feat. Ida Corr, Camille Jones & Johnson) - KATO Edit (Discolized 2.0)'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/42710687-0eff-43d8-918b-9b907ed54946
-  spotify: https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh
-  wikipedia: https://en.wikipedia.org/wiki/Ida_Cox
+  musicbrainz: 'https://musicbrainz.org/artist/42710687-0eff-43d8-918b-9b907ed54946'
+  spotify: 'https://open.spotify.com/artist/30ut8L4gmEz4vNr1zNhpbh'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ida_Cox'
 image_path: 03_Resources/source_material/ArtistPortraits/ida_cox.jpg
 biography_enhanced_at: '2025-10-23T07:21:44.739799'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Ida_Cox
-- https://blues.org/blues_hof_inductee/ida-cox/
-- https://www.georgiaencyclopedia.org/articles/arts-culture/ida-cox-1894-1967/
-- https://allaboutjazz.com/musicians/ida-cox/
-- https://digital.livingblues.com/articles/let-it-roll-?article_id=4806052&i=825548
-- https://polkhist.com/music-history-ida-cox/
-- https://soozebluesjazz.weebly.com/ida-cox.html
+  - 'https://en.wikipedia.org/wiki/Ida_Cox'
+  - 'https://blues.org/blues_hof_inductee/ida-cox/'
+  - 'https://www.georgiaencyclopedia.org/articles/arts-culture/ida-cox-1894-1967/'
+  - 'https://allaboutjazz.com/musicians/ida-cox/'
+  - >-
+    https://digital.livingblues.com/articles/let-it-roll-?article_id=4806052&i=825548
+  - 'https://polkhist.com/music-history-ida-cox/'
+  - 'https://soozebluesjazz.weebly.com/ida-cox.html'
 network_extracted: true
 entry_created: '2025-10-23T07:21:44.739814'
 last_updated: '2025-12-23T08:16:09.785595'
 gender: Female
 musicbrainz_id: 42710687-0eff-43d8-918b-9b907ed54946
 tags:
-- blues
-- vaudeville blues
+  - blues
+  - vaudeville blues
+is_active: false
 ---
 
 ![](ida_cox.jpg)

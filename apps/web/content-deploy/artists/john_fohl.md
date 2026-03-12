@@ -1,24 +1,24 @@
 ---
-title: john fohl
+title: John Fohl
 wiki_slug: john-fohl
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- modern blues
+  - modern blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/john_fohl.jpg
   caption: john fohl
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
-  tempo_avg: 125.0
+  tempo_avg: 125
   energy_avg: 0.584
   valence_avg: 0.601
   danceability_avg: 0.629
   acousticness_avg: 0.419
   instrumentalness_avg: 0.104
-  loudness_avg: -8.0
+  loudness_avg: -8
   speechiness_avg: 0.055
   liveness_avg: 0.152
   track_count: 29
@@ -26,46 +26,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Cherry Poppin' Daddies
-  - Pontchartrain Shakers
+    - Cherry Poppin' Daddies
+    - Pontchartrain Shakers
   influenced: []
   mentors:
-  - Dr. John
-  - Ernie K-Doe
+    - Dr. John
+    - Ernie K-Doe
 spotify_data:
   followers: 306
   id: 7nM4uVLJAT0haucMbO2lKW
   popularity: 1
-  url: https://open.spotify.com/artist/7nM4uVLJAT0haucMbO2lKW
+  url: 'https://open.spotify.com/artist/7nM4uVLJAT0haucMbO2lKW'
 discography_enriched: true
 top_tracks:
-- La Belle Poursuite (feat. John Fohl ; Joe Krown) (Electric Church For The Spiritually Misguided)
-- This Side of the Grass (Hands on You)
-- Go Again (Hands on You)
-- The Right Hand of God (Hands on You)
-- I Can't Wait (Hands on You)
-- Show Me Your Ugly Side (Teeth and Bones)
-- Do or Die (Teeth and Bones)
-- Accustomed to the Dark (Teeth and Bones)
-- Johnny V (Second Line Parade)
-- Wandering Mind (Second Line Parade)
+  - >-
+    La Belle Poursuite (feat. John Fohl ; Joe Krown) (Electric Church For The
+    Spiritually Misguided)
+  - This Side of the Grass (Hands on You)
+  - Go Again (Hands on You)
+  - The Right Hand of God (Hands on You)
+  - I Can't Wait (Hands on You)
+  - Show Me Your Ugly Side (Teeth and Bones)
+  - Do or Die (Teeth and Bones)
+  - Accustomed to the Dark (Teeth and Bones)
+  - Johnny V (Second Line Parade)
+  - Wandering Mind (Second Line Parade)
 external_urls:
-  spotify: https://open.spotify.com/artist/7nM4uVLJAT0haucMbO2lKW
+  spotify: 'https://open.spotify.com/artist/7nM4uVLJAT0haucMbO2lKW'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/john_fohl.jpg
 biography_enhanced_at: '2025-11-29T06:55:59.889207'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.neworleans.com/listing/john-fohl/46429/
-- https://www.whereyat.com/john-fohl-teeth-and-bones
-- https://www.allaboutjazz.com/musicians/john-fohl/
-- https://en.wikipedia.org/wiki/Cherry_Poppin'_Daddies
-- https://pontchartrainshakers.com/featured-musicians
-- http://www.itsagoodlifebabe.com/glb/2017/8/16/ep66pt2-the-laconic-guitarist-john-fohl-tells-great-stories
+  - 'https://www.neworleans.com/listing/john-fohl/46429/'
+  - 'https://www.whereyat.com/john-fohl-teeth-and-bones'
+  - 'https://www.allaboutjazz.com/musicians/john-fohl/'
+  - 'https://en.wikipedia.org/wiki/Cherry_Poppin''_Daddies'
+  - 'https://pontchartrainshakers.com/featured-musicians'
+  - >-
+    http://www.itsagoodlifebabe.com/glb/2017/8/16/ep66pt2-the-laconic-guitarist-john-fohl-tells-great-stories
 network_extracted: true
 entry_created: '2025-11-29T06:55:59.889220'
 last_updated: '2025-12-23T08:16:10.744318'
+artist_type: person
 ---
 
 ![](john_fohl.jpg)

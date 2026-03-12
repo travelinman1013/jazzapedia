@@ -1,65 +1,67 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-19T01:14:52.268763'
 enhancement_provider: perplexity
 entry_created: '2026-01-19T01:14:52.268769'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/0ebd38ea-c45c-43c6-82c3-1aef513a9148
-  spotify: https://open.spotify.com/artist/3X5wPCKrq16KxWZpvzBoDt
+  musicbrainz: 'https://musicbrainz.org/artist/0ebd38ea-c45c-43c6-82c3-1aef513a9148'
+  spotify: 'https://open.spotify.com/artist/3X5wPCKrq16KxWZpvzBoDt'
   wikipedia: Not found in search results
 genres:
-- dub
-- roots reggae
+  - dub
+  - roots reggae
 image_path: 03_Resources/source_material/ArtistPortraits/the_african_brothers.jpg
 last_updated: '2026-01-19T01:14:52.268770'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 01d336ae-7f79-496d-94f9-211b57517b17
-  name: Sugar Minott
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9798a7d1-7e07-4d8c-bae4-4ebf6d0421e8
-  name: Winston Morris
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2f768221-c825-49af-8688-aceeeef247c6
-  name: Tony Tuff
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 01d336ae-7f79-496d-94f9-211b57517b17
+    name: Sugar Minott
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9798a7d1-7e07-4d8c-bae4-4ebf6d0421e8
+    name: Winston Morris
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2f768221-c825-49af-8688-aceeeef247c6
+    name: Tony Tuff
 musical_connections:
   collaborators:
-  - Eddie Donkor
-  - Kofi Oppong Kyekyeku
-  - Joe Dee (Kwabena Appiah)
-  - Kwame Anim
-  - Yaw Asante
-  - Kwadwo Ofori
-  - Rover Amo Kofi Ampadu
+    - Eddie Donkor
+    - Kofi Oppong Kyekyeku
+    - Joe Dee (Kwabena Appiah)
+    - Kwame Anim
+    - Yaw Asante
+    - Kwadwo Ofori
+    - Rover Amo Kofi Ampadu
   influenced:
-  - Sam Derchie
-  - Teacher Boateng
-  - S.K. Ofori
+    - Sam Derchie
+    - Teacher Boateng
+    - S.K. Ofori
   mentors:
-  - Eddie Donkor
+    - Eddie Donkor
 musicbrainz_id: 0ebd38ea-c45c-43c6-82c3-1aef513a9148
 network_extracted: true
-origin: Accra, Greater Accra Region, Ghana
+origin: 'Accra, Greater Accra Region, Ghana'
 primary_source: perplexity
 research_sources:
-- https://nanakwameampadu.com/band-history
-- https://www.fondation-langlois.org/html/e/page.php?NumPage=2275
-- http://www.donaldclarkemusicbox.com/encyclopedia/detail.php?s=67
+  - 'https://nanakwameampadu.com/band-history'
+  - 'https://www.fondation-langlois.org/html/e/page.php?NumPage=2275'
+  - 'http://www.donaldclarkemusicbox.com/encyclopedia/detail.php?s=67'
 spotify_data:
   followers: 266
   id: 3X5wPCKrq16KxWZpvzBoDt
   popularity: 0
-  url: https://open.spotify.com/artist/3X5wPCKrq16KxWZpvzBoDt
+  url: 'https://open.spotify.com/artist/3X5wPCKrq16KxWZpvzBoDt'
 status: active
 tags:
-- reggae
+  - reggae
 title: The African Brothers
+birth_place: 'Obo Kwahu, Eastern Ghana, Ghana'
+birth_date: '1945-03-31'
 ---
 
 ![](the_african_brothers.jpg)

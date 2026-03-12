@@ -3,14 +3,14 @@ title: Patti Smith
 wiki_slug: patti-smith
 schema_version: 2
 status: active
-birth_place: Chicago, Illinois, United States
+birth_place: 'Chicago, Illinois, United States'
 genres:
-- proto-punk
+  - proto-punk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Patti_Smith.jpg
   caption: Patti Smith
   background: solo_singer
-  origin: Chicago, Illinois, United States
+  origin: 'Chicago, Illinois, United States'
 audio_profile:
   tempo_avg: 119.2
   energy_avg: 0.59
@@ -26,49 +26,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lenny Kaye
-  - Bruce Springsteen
-  - Fred 'Sonic' Smith
-  - Robert Mapplethorpe
+    - Lenny Kaye
+    - Bruce Springsteen
+    - Fred 'Sonic' Smith
+    - Robert Mapplethorpe
   influenced:
-  - Michael Stipe (R.E.M.)
-  - Courtney Love
-  - Madonna
+    - Michael Stipe (R.E.M.)
+    - Courtney Love
+    - Madonna
   mentors:
-  - Arthur Rimbaud
-  - Bob Dylan
+    - Arthur Rimbaud
+    - Bob Dylan
 spotify_data:
   followers: 1256492
   id: 0vYkHhJ48Bs3jWcvZXvOrP
   popularity: 57
-  url: https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP
+  url: 'https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP'
 discography_enriched: true
 top_tracks:
-- Because the Night (Easter)
-- Dancing Barefoot (Wave)
-- Because the Night (Easter)
-- Redondo Beach (Horses (Legacy Edition))
-- Because the Night
-- 'Gloria: In Excelsis Deo (Horses (Legacy Edition))'
-- People Have the Power (Dream Of Life)
-- Frederick (Wave)
-- Smells Like Teen Spirit - Radio Edit
-- Free Money (Horses (Legacy Edition))
+  - Because the Night (Easter)
+  - Dancing Barefoot (Wave)
+  - Because the Night (Easter)
+  - Redondo Beach (Horses (Legacy Edition))
+  - Because the Night
+  - 'Gloria: In Excelsis Deo (Horses (Legacy Edition))'
+  - People Have the Power (Dream Of Life)
+  - Frederick (Wave)
+  - Smells Like Teen Spirit - Radio Edit
+  - Free Money (Horses (Legacy Edition))
 external_urls:
-  spotify: https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP
-  wikipedia: https://en.wikipedia.org/wiki/Patti_Smith
+  spotify: 'https://open.spotify.com/artist/0vYkHhJ48Bs3jWcvZXvOrP'
+  wikipedia: 'https://en.wikipedia.org/wiki/Patti_Smith'
 image_path: 03_Resources/source_material/ArtistPortraits/Patti_Smith.jpg
 biography_enhanced_at: '2025-10-20T02:00:26.750076'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Patti_Smith
-- https://www.biography.com/musicians/patti-smith
-- https://www.britannica.com/biography/Patti-Smith
-- https://rockhall.com/inductees/patti-smith/
+  - 'https://en.wikipedia.org/wiki/Patti_Smith'
+  - 'https://www.biography.com/musicians/patti-smith'
+  - 'https://www.britannica.com/biography/Patti-Smith'
+  - 'https://rockhall.com/inductees/patti-smith/'
 network_extracted: true
 entry_created: '2025-10-20T02:00:26.750096'
 last_updated: '2025-12-23T08:16:03.537138'
+birth_date: '1946-12-30'
+artist_type: person
 ---
 
 ![](Patti_Smith.jpg)

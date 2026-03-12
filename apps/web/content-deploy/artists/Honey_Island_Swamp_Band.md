@@ -2,17 +2,17 @@
 title: Honey Island Swamp Band
 wiki_slug: honey-island-swamp-band
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 genres: []
 instruments:
-- keyboard
-- guitar
-- membranophone
-- bass
-- lead vocals
-- harmonica
-- mandolin
+  - keyboard
+  - guitar
+  - membranophone
+  - bass
+  - lead vocals
+  - harmonica
+  - mandolin
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Honey_Island_Swamp_Band.jpg
   caption: Honey Island Swamp Band
@@ -32,52 +32,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Aaron Wilkinson
-  - Chris Mulé
-  - Sam Price
-  - Garland Paul
-  - Trevor Brooks
-  - Tom Drummond
+    - Aaron Wilkinson
+    - Chris Mulé
+    - Sam Price
+    - Garland Paul
+    - Trevor Brooks
+    - Tom Drummond
   influenced:
-  - Bayou Americana scene
+    - Bayou Americana scene
   mentors:
-  - Eric Lindell
+    - Eric Lindell
 spotify_data:
   followers: 6615
   id: 3NrgJjsUdXDR6HVKjPrZ7k
   popularity: 20
-  url: https://open.spotify.com/artist/3NrgJjsUdXDR6HVKjPrZ7k
+  url: 'https://open.spotify.com/artist/3NrgJjsUdXDR6HVKjPrZ7k'
 discography_enriched: true
 top_tracks:
-- Head High Water Blues (Demolition Day)
-- Chocolate Cake (Good to You)
-- Second Son (Custom Deluxe)
-- How Do You Feel (Demolition Day)
-- Boneshaker (Custom Deluxe)
-- Country Girl (Vieux Carré (The French Quarter) - Sounds of New Orleans)
-- 300 Pounds (Good to You)
-- Ten Times the Man (Good to You)
-- Cane Sugar (Cane Sugar)
-- Down The Line (Custom Deluxe)
+  - Head High Water Blues (Demolition Day)
+  - Chocolate Cake (Good to You)
+  - Second Son (Custom Deluxe)
+  - How Do You Feel (Demolition Day)
+  - Boneshaker (Custom Deluxe)
+  - Country Girl (Vieux Carré (The French Quarter) - Sounds of New Orleans)
+  - 300 Pounds (Good to You)
+  - Ten Times the Man (Good to You)
+  - Cane Sugar (Cane Sugar)
+  - Down The Line (Custom Deluxe)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/534a8457-dfa5-440e-95e2-2835aa1be810
-  spotify: https://open.spotify.com/artist/3NrgJjsUdXDR6HVKjPrZ7k
-  wikipedia: https://en.wikipedia.org/wiki/Honey_Island_Swamp_Band
+  musicbrainz: 'https://musicbrainz.org/artist/534a8457-dfa5-440e-95e2-2835aa1be810'
+  spotify: 'https://open.spotify.com/artist/3NrgJjsUdXDR6HVKjPrZ7k'
+  wikipedia: 'https://en.wikipedia.org/wiki/Honey_Island_Swamp_Band'
 image_path: 03_Resources/source_material/ArtistPortraits/Honey_Island_Swamp_Band.jpg
 biography_enhanced_at: '2025-10-20T09:57:17.871384'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.offbeat.com/news/honey-island-swamp-band-making-honey/
-- https://www.last.fm/music/Honey+Island+Swamp+Band/+wiki
-- https://rhythmandroots.com/artists/honey-island-swamp-band/
-- https://www.honeyislandswampband.com
+  - 'https://www.offbeat.com/news/honey-island-swamp-band-making-honey/'
+  - 'https://www.last.fm/music/Honey+Island+Swamp+Band/+wiki'
+  - 'https://rhythmandroots.com/artists/honey-island-swamp-band/'
+  - 'https://www.honeyislandswampband.com'
 network_extracted: true
 entry_created: '2025-10-20T09:57:17.871397'
 last_updated: '2025-12-23T08:16:02.256677'
 musicbrainz_enriched_at: '2025-10-21T09:29:25.894601'
 musicbrainz_id: 534a8457-dfa5-440e-95e2-2835aa1be810
-origin: New Orleans, Louisiana, USA
+origin: 'New Orleans, Louisiana, USA'
 ---
 
 ![](Honey_Island_Swamp_Band.jpg)

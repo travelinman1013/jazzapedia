@@ -3,15 +3,15 @@ title: Nobuko Miyamoto
 wiki_slug: nobuko-miyamoto
 schema_version: 2
 status: active
-birth_place: Los Angeles, California, United States
+birth_place: 'Los Angeles, California, United States'
 genres:
-- city pop
-- j-r&b
+  - city pop
+  - j-r&b
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/nobuko_miyamoto.jpg
   caption: Nobuko Miyamoto
   background: solo_singer
-  origin: Los Angeles, California, United States
+  origin: 'Los Angeles, California, United States'
 audio_profile:
   tempo_avg: 116.8
   energy_avg: 0.512
@@ -27,53 +27,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Chris Kando Iijima
-  - Charlie Chin
-  - Atallah Muhammad Ayubbi and Mutulu Shakur
-  - Quetzal Flores
+    - Chris Kando Iijima
+    - Charlie Chin
+    - Atallah Muhammad Ayubbi and Mutulu Shakur
+    - Quetzal Flores
   influenced:
-  - Asian American Movement artists and organizers (collective)
-  - Great Leap community artists
+    - Asian American Movement artists and organizers (collective)
+    - Great Leap community artists
   mentors:
-  - Yuri Kochiyama
-  - Rev. Masao Kodani
+    - Yuri Kochiyama
+    - Rev. Masao Kodani
 spotify_data:
   followers: 7283
   id: 2inTsiufLTjZppw4nlCaMk
   popularity: 26
-  url: https://open.spotify.com/artist/2inTsiufLTjZppw4nlCaMk
+  url: 'https://open.spotify.com/artist/2inTsiufLTjZppw4nlCaMk'
 discography_enriched: true
 top_tracks:
-- My Life (Push)
-- Atsuikaze (VIVID)
-- ARROWS & EYES (NEW ROMANCE)
-- Lovely City (NORIKO)
-- ANOTHER LOVER (SWEET SUGAR)
-- Monologue (Push)
-- Cadillac Woman (Push)
-- Silver Rain (Rush)
-- Push (Push)
-- UMI（SUDDENLY LAST SUMMER） (SWEET SUGAR)
+  - My Life (Push)
+  - Atsuikaze (VIVID)
+  - ARROWS & EYES (NEW ROMANCE)
+  - Lovely City (NORIKO)
+  - ANOTHER LOVER (SWEET SUGAR)
+  - Monologue (Push)
+  - Cadillac Woman (Push)
+  - Silver Rain (Rush)
+  - Push (Push)
+  - UMI（SUDDENLY LAST SUMMER） (SWEET SUGAR)
 external_urls:
-  spotify: https://open.spotify.com/artist/2inTsiufLTjZppw4nlCaMk
-  wikipedia: https://en.wikipedia.org/wiki/Nobuko_JoAnne_Miyamoto
+  spotify: 'https://open.spotify.com/artist/2inTsiufLTjZppw4nlCaMk'
+  wikipedia: 'https://en.wikipedia.org/wiki/Nobuko_JoAnne_Miyamoto'
 image_path: 03_Resources/source_material/ArtistPortraits/nobuko_miyamoto.jpg
 biography_enhanced_at: '2025-12-08T04:46:58.784510'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Nobuko_JoAnne_Miyamoto
-- https://www.nobukomiyamoto.org
-- https://www.nobukomiyamoto.org/herstory
-- https://www.pbssocal.org/shows/artbound/we-are-all-part-of-many-worlds-nobuko-miyamotos-barrier-breaking-art-and-activism
-- https://www.aaartsalliance.org/magazine/stories/how-nobuko-miyamoto-set-the-asian-american-movement-in-motion
-- https://womenshistory.si.edu/blog/folk-musician-nobuko-miyamoto-and-eight-more-women-know-asian-pacific-american-heritage-month
-- https://www.taijiterasaki.com/nobuko-miyamoto
-- https://performancepractice.la/legacy-artist-feature-nobuko-miyamato/
-- https://artsemerson.org/events/nobuko-miyamoto-a-song-in-movement/
+  - 'https://en.wikipedia.org/wiki/Nobuko_JoAnne_Miyamoto'
+  - 'https://www.nobukomiyamoto.org'
+  - 'https://www.nobukomiyamoto.org/herstory'
+  - >-
+    https://www.pbssocal.org/shows/artbound/we-are-all-part-of-many-worlds-nobuko-miyamotos-barrier-breaking-art-and-activism
+  - >-
+    https://www.aaartsalliance.org/magazine/stories/how-nobuko-miyamoto-set-the-asian-american-movement-in-motion
+  - >-
+    https://womenshistory.si.edu/blog/folk-musician-nobuko-miyamoto-and-eight-more-women-know-asian-pacific-american-heritage-month
+  - 'https://www.taijiterasaki.com/nobuko-miyamoto'
+  - 'https://performancepractice.la/legacy-artist-feature-nobuko-miyamato/'
+  - 'https://artsemerson.org/events/nobuko-miyamoto-a-song-in-movement/'
 network_extracted: true
 entry_created: '2025-12-08T04:46:58.784525'
 last_updated: '2025-12-23T08:16:13.618189'
+birth_date: '1939-11-14'
+artist_type: person
 ---
 
 ![](nobuko_miyamoto.jpg)

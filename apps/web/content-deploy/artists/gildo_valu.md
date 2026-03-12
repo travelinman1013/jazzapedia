@@ -1,37 +1,40 @@
 ---
 biography_enhanced_at: '2026-01-18T07:48:50.158711'
-birth_place: Salvador, Bahia, Brazil (training origin); Nashville, Tennessee, United
-  States (current teaching base)
+birth_place: >-
+  Salvador, Bahia, Brazil (training origin); Nashville, Tennessee, United States
+  (current teaching base)
 enhancement_provider: perplexity
 entry_created: '2026-01-18T07:48:50.158718'
 external_urls:
-  spotify: https://open.spotify.com/artist/6V7R8WnNJO16Ca2BIz0v4c
+  spotify: 'https://open.spotify.com/artist/6V7R8WnNJO16Ca2BIz0v4c'
   wikipedia: Not found
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/gildo_valu.jpg
 last_updated: '2026-01-18T07:48:50.158718'
 musical_connections:
   collaborators:
-  - Professor Eme Eme
-  - Professor Cabeça no Ceu
-  - Professor Paciência
+    - Professor Eme Eme
+    - Professor Cabeça no Ceu
+    - Professor Paciência
   influenced:
-  - Professor Eme Eme
-  - Multiple international students
+    - Professor Eme Eme
+    - Multiple international students
   mentors:
-  - Mestre Boca Rica
+    - Mestre Boca Rica
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.nashvillecapoeira.org
-- https://open.spotify.com/track/3EITIckN98lzgw8PnyQQp8
+  - 'https://www.nashvillecapoeira.org'
+  - 'https://open.spotify.com/track/3EITIckN98lzgw8PnyQQp8'
 spotify_data:
   followers: 6
   id: 6V7R8WnNJO16Ca2BIz0v4c
   popularity: 0
-  url: https://open.spotify.com/artist/6V7R8WnNJO16Ca2BIz0v4c
+  url: 'https://open.spotify.com/artist/6V7R8WnNJO16Ca2BIz0v4c'
 status: active
 title: Gildo Valu
+origin: 'Nashville, Tennessee, United States'
+artist_type: person
 ---
 
 ![](gildo_valu.jpg)

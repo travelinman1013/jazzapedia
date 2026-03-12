@@ -1,11 +1,11 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-14T01:08:35.805900'
-birth_place: Downtown Los Angeles, California, USA
+birth_place: 'Downtown Los Angeles, California, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-14T01:08:35.805954'
 external_urls:
-  spotify: https://open.spotify.com/artist/0s8JYCQ4vs3QieRZwI76qS
+  spotify: 'https://open.spotify.com/artist/0s8JYCQ4vs3QieRZwI76qS'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/willie_of_wilshire.jpg
@@ -14,25 +14,28 @@ musical_connections:
   collaborators: []
   influenced: []
   mentors:
-  - Eddie Ruxspin
+    - Eddie Ruxspin
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://voyagela.com/interview/life-work-with-willie-willie-of-wilshire-artist-name-arevalo-of-los-angeles/
-- https://www.youtube.com/watch?v=EOHWQTqGCWc
-- https://unheardvoicesmag.com/2016/11/06/rapper-willie-of-wilshire-bringing-wow-factor/
-- https://www.reverbnation.com/willieofwilshire?popup_bio=true
-- https://www.reverbnation.com/willieofwilshire/song/29051329-la-to-london
-- https://www.youtube.com/watch?v=O4MZgQG2gV4
-- https://open.spotify.com/artist/0s8JYCQ4vs3QieRZwI76qS
-- https://www.viberate.com/artist/willie-of-wilshire/
+  - >-
+    https://voyagela.com/interview/life-work-with-willie-willie-of-wilshire-artist-name-arevalo-of-los-angeles/
+  - 'https://www.youtube.com/watch?v=EOHWQTqGCWc'
+  - >-
+    https://unheardvoicesmag.com/2016/11/06/rapper-willie-of-wilshire-bringing-wow-factor/
+  - 'https://www.reverbnation.com/willieofwilshire?popup_bio=true'
+  - 'https://www.reverbnation.com/willieofwilshire/song/29051329-la-to-london'
+  - 'https://www.youtube.com/watch?v=O4MZgQG2gV4'
+  - 'https://open.spotify.com/artist/0s8JYCQ4vs3QieRZwI76qS'
+  - 'https://www.viberate.com/artist/willie-of-wilshire/'
 spotify_data:
   followers: 1175
   id: 0s8JYCQ4vs3QieRZwI76qS
   popularity: 19
-  url: https://open.spotify.com/artist/0s8JYCQ4vs3QieRZwI76qS
+  url: 'https://open.spotify.com/artist/0s8JYCQ4vs3QieRZwI76qS'
 status: active
 title: Willie of Wilshire
+origin: 'Downtown Los Angeles, California, United States'
 ---
 
 ![](willie_of_wilshire.jpg)

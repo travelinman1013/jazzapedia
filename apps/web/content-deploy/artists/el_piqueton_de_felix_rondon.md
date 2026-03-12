@@ -3,10 +3,10 @@ biography_enhanced_at: '2026-01-11T02:17:09.247868'
 enhancement_provider: perplexity
 entry_created: '2026-01-11T02:17:09.247876'
 external_urls:
-  spotify: https://open.spotify.com/artist/57pdM1PkV7GP6Nsug9MP02
+  spotify: 'https://open.spotify.com/artist/57pdM1PkV7GP6Nsug9MP02'
   wikipedia: ''
 genres:
-- son cubano
+  - son cubano
 image_path: 03_Resources/source_material/ArtistPortraits/el_piqueton_de_felix_rondon.jpg
 last_updated: '2026-01-11T02:17:09.247878'
 musical_connections:
@@ -16,17 +16,19 @@ musical_connections:
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Son+del+Sal%C3%B3n/Estados
-- https://www.last.fm/it/music/Latin+Sound,+Latin+Music+Group,+Cuba+Club/Cuban+Lounge+Music
-- https://www.last.fm/pt/music/Various+Artists/Tumi+All-Stars+-+Cabaret+AliBar
-- https://www.muziekweb.nl/Link/HEX7066/Pirates-choice
+  - 'https://www.last.fm/music/Son+del+Sal%C3%B3n/Estados'
+  - >-
+    https://www.last.fm/it/music/Latin+Sound,+Latin+Music+Group,+Cuba+Club/Cuban+Lounge+Music
+  - 'https://www.last.fm/pt/music/Various+Artists/Tumi+All-Stars+-+Cabaret+AliBar'
+  - 'https://www.muziekweb.nl/Link/HEX7066/Pirates-choice'
 spotify_data:
   followers: 70
   id: 57pdM1PkV7GP6Nsug9MP02
   popularity: 1
-  url: https://open.spotify.com/artist/57pdM1PkV7GP6Nsug9MP02
+  url: 'https://open.spotify.com/artist/57pdM1PkV7GP6Nsug9MP02'
 status: active
 title: El Piqueton de Felix Rondon
+artist_type: band
 ---
 
 ![](el_piqueton_de_felix_rondon.jpg)

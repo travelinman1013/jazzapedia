@@ -2,7 +2,7 @@
 title: Midnite String Quartet
 wiki_slug: midnite-string-quartet
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres: []
 infobox:
@@ -30,31 +30,31 @@ spotify_data:
   followers: 59605
   id: 648dUUIlz7RSeg3O8CbTat
   popularity: 46
-  url: https://open.spotify.com/artist/648dUUIlz7RSeg3O8CbTat
+  url: 'https://open.spotify.com/artist/648dUUIlz7RSeg3O8CbTat'
 discography_enriched: true
 top_tracks:
-- Wrecking Ball
-- Marry You (MSQ Performs Bruno Mars)
-- Closer (MSQ Performs The Chainsmokers)
-- Here Comes the Sun (MSQ Performs The Beatles)
-- ocean eyes (MSQ Performs Billie Eilish)
-- Ophelia (MSQ Performs The Lumineers)
-- Rosyln (MSQ Performs Bon Iver)
-- Roses (MSQ Performs The Chainsmokers)
-- Enchanted (MSQ Performs Taylor Swift, Vol. 2)
-- Wrecking Ball (MSQ Performs Miley Cyrus)
+  - Wrecking Ball
+  - Marry You (MSQ Performs Bruno Mars)
+  - Closer (MSQ Performs The Chainsmokers)
+  - Here Comes the Sun (MSQ Performs The Beatles)
+  - ocean eyes (MSQ Performs Billie Eilish)
+  - Ophelia (MSQ Performs The Lumineers)
+  - Rosyln (MSQ Performs Bon Iver)
+  - Roses (MSQ Performs The Chainsmokers)
+  - 'Enchanted (MSQ Performs Taylor Swift, Vol. 2)'
+  - Wrecking Ball (MSQ Performs Miley Cyrus)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ad3c468d-a403-40bc-93c2-f99b74a81b9e
-  spotify: https://open.spotify.com/artist/648dUUIlz7RSeg3O8CbTat
+  musicbrainz: 'https://musicbrainz.org/artist/ad3c468d-a403-40bc-93c2-f99b74a81b9e'
+  spotify: 'https://open.spotify.com/artist/648dUUIlz7RSeg3O8CbTat'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/midnite_string_quartet.jpg
 biography_enhanced_at: '2025-11-04T10:50:13.778494'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://viberate.com/artist/midnite-string-quartet/
-- https://midnitestringquartet.com
-- https://open.spotify.com/artist/648dUUIlz7RSeg3O8CbTat
+  - 'https://viberate.com/artist/midnite-string-quartet/'
+  - 'https://midnitestringquartet.com'
+  - 'https://open.spotify.com/artist/648dUUIlz7RSeg3O8CbTat'
 network_extracted: true
 entry_created: '2025-11-04T10:50:13.778503'
 last_updated: '2025-12-23T08:16:13.103095'

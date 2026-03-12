@@ -1,17 +1,21 @@
 ---
-title: JAY DOUGLAS
+title: Jay Douglas
 wiki_slug: jay-douglas
 schema_version: 2
 status: active
-birth_place: Montego Bay, Saint James Parish, Jamaica (birthplace); Toronto, Ontario, Canada (primary base of career)
+birth_place: >-
+  Montego Bay, Saint James Parish, Jamaica (birthplace); Toronto, Ontario,
+  Canada (primary base of career)
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jay_douglas.jpg
   caption: JAY DOUGLAS
   background: solo_singer
-  origin: Montego Bay, Saint James Parish, Jamaica (birthplace); Toronto, Ontario, Canada (primary base of career)
+  origin: >-
+    Montego Bay, Saint James Parish, Jamaica (birthplace); Toronto, Ontario,
+    Canada (primary base of career)
 audio_profile:
-  tempo_avg: 140.0
+  tempo_avg: 140
   energy_avg: 0.695
   valence_avg: 0.907
   danceability_avg: 0.799
@@ -25,52 +29,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Cougars
-  - Jay Douglas All-Star Band
-  - Beres Hammond
-  - Freddie McGregor
-  - Marcia Griffiths
-  - Luciano
-  - Ken Boothe
-  - Leroy Sibbles
-  - Fab 5 Band
-  - General Tree
-  - Jesse "Dubmatix" King
-  - Ziggy Marley
-  - Lyn Taitt
-  - Ernest Ranglin
-  - Eddie Bullen
+    - The Cougars
+    - Jay Douglas All-Star Band
+    - Beres Hammond
+    - Freddie McGregor
+    - Marcia Griffiths
+    - Luciano
+    - Ken Boothe
+    - Leroy Sibbles
+    - Fab 5 Band
+    - General Tree
+    - Jesse "Dubmatix" King
+    - Ziggy Marley
+    - Lyn Taitt
+    - Ernest Ranglin
+    - Eddie Bullen
   influenced:
-  - Toronto’s reggae and Caribbean music community (collective)
+    - Toronto’s reggae and Caribbean music community (collective)
   mentors:
-  - Jackie Mittoo
-  - Leroy Sibbles
-  - Wayne McGhie
+    - Jackie Mittoo
+    - Leroy Sibbles
+    - Wayne McGhie
 spotify_data:
   followers: 3
   id: 3R04uJrtRXrj432j2TPsND
   popularity: 0
-  url: https://open.spotify.com/artist/3R04uJrtRXrj432j2TPsND
+  url: 'https://open.spotify.com/artist/3R04uJrtRXrj432j2TPsND'
 discography_enriched: true
 top_tracks:
-- Celebrate My Love (System Shakedown)
-- Celebrate My Love - Victor Rice Dub (Presents Clash of the Titans)
+  - Celebrate My Love (System Shakedown)
+  - Celebrate My Love - Victor Rice Dub (Presents Clash of the Titans)
 external_urls:
-  spotify: https://open.spotify.com/artist/3R04uJrtRXrj432j2TPsND
-  wikipedia: https://en.wikipedia.org/wiki/Jay_Douglas_(musician)
+  spotify: 'https://open.spotify.com/artist/3R04uJrtRXrj432j2TPsND'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jay_Douglas_(musician)'
 image_path: ''
 biography_enhanced_at: '2025-12-09T04:48:19.270306'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Jay Douglas official site[1]
-- Canada Black Music Archives artist profile[2]
-- Wikipedia entry on Jay Douglas (musician)[3]
-- JAZZ.FM article on the TVO documentary about Jay Douglas[4]
-- NOW Toronto feature on Jay Douglas and the documentary “Play it Loud!”[5]
+  - 'Jay Douglas official site[1]'
+  - 'Canada Black Music Archives artist profile[2]'
+  - 'Wikipedia entry on Jay Douglas (musician)[3]'
+  - 'JAZZ.FM article on the TVO documentary about Jay Douglas[4]'
+  - 'NOW Toronto feature on Jay Douglas and the documentary “Play it Loud!”[5]'
 network_extracted: true
 entry_created: '2025-12-09T04:48:19.270322'
 last_updated: '2025-12-23T08:16:10.255826'
+origin: 'Toronto, Ontario, Canada'
+artist_type: person
 ---
 
 ![]()

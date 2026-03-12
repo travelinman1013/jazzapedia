@@ -5,21 +5,21 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1988-08-03'
-birth_place: Charleston
+birth_place: 'Charleston, West Virginia, United States'
 genres:
-- americana
-- bluegrass
-- alt country
+  - americana
+  - bluegrass
+  - alt country
 instruments:
-- lead vocals
-- background vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - lead vocals
-  mbid: 5f1c7cc4-fb9c-4cac-b6f3-a52f6066682c
-  name: 600 Lbs. of Sin!
+  - background vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: 5f1c7cc4-fb9c-4cac-b6f3-a52f6066682c
+    name: 600 Lbs. of Sin!
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sierra_ferrell.jpg
   caption: Sierra Ferrell
@@ -33,7 +33,7 @@ audio_profile:
   danceability_avg: 0.574
   acousticness_avg: 0.519
   instrumentalness_avg: 0.003
-  loudness_avg: -8.0
+  loudness_avg: -8
   speechiness_avg: 0.037
   liveness_avg: 0.167
   track_count: 52
@@ -41,54 +41,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Cowpokes
-  - Gary Paczosa
-  - Stu Hibberd
-  - The Avett Brothers
-  - Zach Bryan
+    - The Cowpokes
+    - Gary Paczosa
+    - Stu Hibberd
+    - The Avett Brothers
+    - Zach Bryan
   influenced:
-  - Emerging Americana and roots musicians
+    - Emerging Americana and roots musicians
   mentors:
-  - Yes Ma’am (busking group)
+    - Yes Ma’am (busking group)
 spotify_data:
   followers: 447331
   id: 3oVcF3VdpMuvMvLLyHPT4t
   popularity: 62
-  url: https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t
+  url: 'https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t'
 discography_enriched: true
 top_tracks:
-- Holy Roller (feat. Sierra Ferrell) (Zach Bryan)
-- In Dreams (Long Time Coming)
-- Ready or Not (feat. Sierra Ferrell) (Movie Of The Week)
-- Never Love You Again (Feat. Sierra Ferrell) (F-1 Trillion)
-- Years
-- I Was Born To Love You
-- Jeremiah (Long Time Coming)
-- American Dreaming (Trail Of Flowers)
-- Broken Wing Bird (feat. Sierra Ferrell)
-- Dollar Bill Bar (Trail Of Flowers)
+  - Holy Roller (feat. Sierra Ferrell) (Zach Bryan)
+  - In Dreams (Long Time Coming)
+  - Ready or Not (feat. Sierra Ferrell) (Movie Of The Week)
+  - Never Love You Again (Feat. Sierra Ferrell) (F-1 Trillion)
+  - Years
+  - I Was Born To Love You
+  - Jeremiah (Long Time Coming)
+  - American Dreaming (Trail Of Flowers)
+  - Broken Wing Bird (feat. Sierra Ferrell)
+  - Dollar Bill Bar (Trail Of Flowers)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/4a27848e-ffdc-45d2-bed4-f5d62b85dc3e
-  spotify: https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t
-  wikipedia: https://en.wikipedia.org/wiki/Sierra_Ferrell
+  musicbrainz: 'https://musicbrainz.org/artist/4a27848e-ffdc-45d2-bed4-f5d62b85dc3e'
+  spotify: 'https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sierra_Ferrell'
 image_path: 03_Resources/source_material/ArtistPortraits/sierra_ferrell.jpg
 biography_enhanced_at: '2025-11-01T15:18:09.710405'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Sierra_Ferrell
-- https://www.cbsnews.com/news/sierra-ferrell-singer-overcoming-addiction-trail-of-flowers-album/
-- https://savingcountrymusic.com/from-unhoused-busker-to-headliner-the-rise-of-sierra-ferrell/
-- https://www.youtube.com/watch?v=QH358B1JhR8
+  - 'https://en.wikipedia.org/wiki/Sierra_Ferrell'
+  - >-
+    https://www.cbsnews.com/news/sierra-ferrell-singer-overcoming-addiction-trail-of-flowers-album/
+  - >-
+    https://savingcountrymusic.com/from-unhoused-busker-to-headliner-the-rise-of-sierra-ferrell/
+  - 'https://www.youtube.com/watch?v=QH358B1JhR8'
 network_extracted: true
 entry_created: '2025-11-01T15:18:09.710430'
 last_updated: '2025-12-23T08:16:15.628462'
 gender: Female
 musicbrainz_id: 4a27848e-ffdc-45d2-bed4-f5d62b85dc3e
 tags:
-- alternative country
-- americana
-- contemporary country
+  - alternative country
+  - americana
+  - contemporary country
 ---
 
 ![](sierra_ferrell.jpg)

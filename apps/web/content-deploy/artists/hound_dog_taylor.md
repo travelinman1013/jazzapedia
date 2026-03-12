@@ -1,27 +1,27 @@
 ---
-title: hound dog taylor
+title: Hound Dog Taylor
 wiki_slug: hound-dog-taylor
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1915-04-12'
-birth_place: Natchez
+birth_place: 'Natchez, Mississippi, United States'
 death_date: '1975-12-17'
 genres:
-- blues
-- classic blues
-- blues rock
+  - blues
+  - classic blues
+  - blues rock
 instruments:
-- eponymous
-- guitar
-- lead vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
-  mbid: 29e24d21-a213-4cfc-8115-54be1c43174e
-  name: Hound Dog Taylor and the HouseRockers
+  - guitar
+  - lead vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 29e24d21-a213-4cfc-8115-54be1c43174e
+    name: Hound Dog Taylor and the HouseRockers
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/hound_dog_taylor.jpg
   caption: hound dog taylor
@@ -44,55 +44,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Brewer Phillips
-  - Ted Harvey
-  - Bruce Iglauer
+    - Brewer Phillips
+    - Ted Harvey
+    - Bruce Iglauer
   influenced:
-  - George Thorogood
-  - Sonny Landreth
-  - Gov't Mule
-  - Lil' Ed and the Blues Imperials
+    - George Thorogood
+    - Sonny Landreth
+    - Gov't Mule
+    - Lil' Ed and the Blues Imperials
   mentors:
-  - Elmore James
+    - Elmore James
 spotify_data:
   followers: 58185
   id: 737qPoiQQkeuIzuJy54aK4
   popularity: 30
-  url: https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4
+  url: 'https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4'
 discography_enriched: true
 top_tracks:
-- Ain't Got Nobody (Genuine Houserocking Music)
-- Give Me Back My Wig - Remastered (Alligator Records 50 Years Of Genuine Houserockin' Music)
-- Let's Get Funky - Live (Beware of the Dog! (Live))
-- Roll Your Moneymaker
-- Phillips Goes Bananas (Genuine Houserocking Music)
-- Sadie - Remastered (Natural Boogie (Remastered))
-- Take Five - Remastered (Natural Boogie (Remastered))
-- Sitting Home Alone (The Chess Story 1965-1975)
-- Sitting At Home Alone - Remastered (Natural Boogie (Remastered))
-- Crossroads (Genuine Houserocking Music)
+  - Ain't Got Nobody (Genuine Houserocking Music)
+  - >-
+    Give Me Back My Wig - Remastered (Alligator Records 50 Years Of Genuine
+    Houserockin' Music)
+  - Let's Get Funky - Live (Beware of the Dog! (Live))
+  - Roll Your Moneymaker
+  - Phillips Goes Bananas (Genuine Houserocking Music)
+  - Sadie - Remastered (Natural Boogie (Remastered))
+  - Take Five - Remastered (Natural Boogie (Remastered))
+  - Sitting Home Alone (The Chess Story 1965-1975)
+  - Sitting At Home Alone - Remastered (Natural Boogie (Remastered))
+  - Crossroads (Genuine Houserocking Music)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3a798d75-8ae4-4198-bda3-3a9728a646f3
-  spotify: https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4
-  wikipedia: https://en.wikipedia.org/wiki/Hound_Dog_Taylor
+  musicbrainz: 'https://musicbrainz.org/artist/3a798d75-8ae4-4198-bda3-3a9728a646f3'
+  spotify: 'https://open.spotify.com/artist/737qPoiQQkeuIzuJy54aK4'
+  wikipedia: 'https://en.wikipedia.org/wiki/Hound_Dog_Taylor'
 image_path: 03_Resources/source_material/ArtistPortraits/hound_dog_taylor.jpg
 biography_enhanced_at: '2025-10-22T09:28:10.938567'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.alligator.com/artists/Hound-Dog-Taylor/
-- https://en.wikipedia.org/wiki/Hound_Dog_Taylor
-- https://bluesmatters.com/blues-birthday-hound-dog-taylor-april-12th-1915/
-- https://www.keno.org/hound_dog_taylor/bio.htm
+  - 'https://www.alligator.com/artists/Hound-Dog-Taylor/'
+  - 'https://en.wikipedia.org/wiki/Hound_Dog_Taylor'
+  - 'https://bluesmatters.com/blues-birthday-hound-dog-taylor-april-12th-1915/'
+  - 'https://www.keno.org/hound_dog_taylor/bio.htm'
 network_extracted: true
 entry_created: '2025-10-22T09:28:10.938578'
 last_updated: '2025-12-23T08:16:09.700593'
 gender: Male
 musicbrainz_id: 3a798d75-8ae4-4198-bda3-3a9728a646f3
 tags:
-- blues
-- chicago blues
-- classic pop and rock
+  - blues
+  - chicago blues
+  - classic pop and rock
+is_active: false
+origin: 'Chicago, Illinois, United States'
 ---
 
 ![](hound_dog_taylor.jpg)

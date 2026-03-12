@@ -5,16 +5,16 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1979-02-26'
-birth_place: Leeds
+birth_place: 'Leeds, West Yorkshire, England'
 genres: []
 instruments:
-- acoustic guitar
-- electric guitar
-- bass guitar
-- piano
-- classical guitar
-- lead vocals
-- background vocals
+  - acoustic guitar
+  - electric guitar
+  - bass guitar
+  - piano
+  - classical guitar
+  - lead vocals
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/corinne_bailey_rae.jpg
   caption: Corinne Bailey Rae
@@ -28,7 +28,7 @@ audio_profile:
   danceability_avg: 0.549
   acousticness_avg: 0.485
   instrumentalness_avg: 0.006
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.054
   liveness_avg: 0.152
   track_count: 50
@@ -36,56 +36,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The New Mastersounds
-  - Homecut Directive
-  - Steve Brown
-  - Steve Chrisanthou
-  - Herbie Hancock
+    - The New Mastersounds
+    - Homecut Directive
+    - Steve Brown
+    - Steve Chrisanthou
+    - Herbie Hancock
   influenced:
-  - Billie Holiday
+    - Billie Holiday
   mentors:
-  - Jason Rae
-  - Mark Hill (The stiX/Artful Dodger)
+    - Jason Rae
+    - Mark Hill (The stiX/Artful Dodger)
 spotify_data:
   followers: 865130
   id: 29WzbAQtDnBJF09es0uddn
   popularity: 65
-  url: https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn
+  url: 'https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn'
 discography_enriched: true
 top_tracks:
-- Put Your Records On (Corinne Bailey Rae)
-- Like A Star (Corinne Bailey Rae)
-- The Scientist
-- Trouble Sleeping (Corinne Bailey Rae)
-- Is This Love
-- Till It Happens To You (Corinne Bailey Rae)
-- Enchantment (Corinne Bailey Rae)
-- Take Your Time (Lay It Down)
-- Breathless (Corinne Bailey Rae)
-- Call Me When You Get This (Corinne Bailey Rae)
+  - Put Your Records On (Corinne Bailey Rae)
+  - Like A Star (Corinne Bailey Rae)
+  - The Scientist
+  - Trouble Sleeping (Corinne Bailey Rae)
+  - Is This Love
+  - Till It Happens To You (Corinne Bailey Rae)
+  - Enchantment (Corinne Bailey Rae)
+  - Take Your Time (Lay It Down)
+  - Breathless (Corinne Bailey Rae)
+  - Call Me When You Get This (Corinne Bailey Rae)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/bc85c6f6-6b06-44c1-8754-ef32c1e6b824
-  spotify: https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn
-  wikipedia: https://en.wikipedia.org/wiki/Corinne_Bailey_Rae
+  musicbrainz: 'https://musicbrainz.org/artist/bc85c6f6-6b06-44c1-8754-ef32c1e6b824'
+  spotify: 'https://open.spotify.com/artist/29WzbAQtDnBJF09es0uddn'
+  wikipedia: 'https://en.wikipedia.org/wiki/Corinne_Bailey_Rae'
 image_path: 03_Resources/source_material/ArtistPortraits/corinne_bailey_rae.jpg
 biography_enhanced_at: '2025-12-09T04:19:15.773208'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Corinne Bailey Rae
-- uDiscover Music - Corinne Bailey Rae
-- IMDb - Corinne Bailey Rae Biography
-- All American Speakers - Corinne Bailey Rae
-- BMI MusicWorld - Corinne Bailey Rae
+  - Wikipedia - Corinne Bailey Rae
+  - uDiscover Music - Corinne Bailey Rae
+  - IMDb - Corinne Bailey Rae Biography
+  - All American Speakers - Corinne Bailey Rae
+  - BMI MusicWorld - Corinne Bailey Rae
 network_extracted: true
 entry_created: '2025-12-09T04:19:15.773216'
 last_updated: '2025-12-23T08:16:07.213073'
 gender: Female
 musicbrainz_id: bc85c6f6-6b06-44c1-8754-ef32c1e6b824
 tags:
-- iswcs pending
-- neo soul
-- soul
+  - iswcs pending
+  - neo soul
+  - soul
+origin: 'Leeds, West Yorkshire, England'
 ---
 
 ![](corinne_bailey_rae.jpg)

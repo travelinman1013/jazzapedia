@@ -1,19 +1,19 @@
 ---
-title: GARRY BURNSIDE
+title: Garry Burnside
 wiki_slug: garry-burnside
 schema_version: 2
 status: active
-birth_place: Coldwater (birthplace), Holly Springs, Ripley, Mississippi, USA
+birth_place: 'Coldwater (birthplace), Holly Springs, Ripley, Mississippi, USA'
 genres:
-- country blues
-- modern blues
-- footwork
-- southern rock
+  - country blues
+  - modern blues
+  - footwork
+  - southern rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/GARRY_BURNSIDE.jpg
   caption: GARRY BURNSIDE
   background: solo_singer
-  origin: Coldwater (birthplace), Holly Springs, Ripley, Mississippi, USA
+  origin: 'Coldwater (birthplace), Holly Springs, Ripley, Mississippi, USA'
 audio_profile:
   tempo_avg: 116.5
   energy_avg: 0.655
@@ -29,53 +29,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Cedric Burnside
-  - Duwayne Burnside
-  - North Mississippi Allstars
-  - Bobby Rush
-  - Hill Country Revue
-  - Beverly Davis
+    - Cedric Burnside
+    - Duwayne Burnside
+    - North Mississippi Allstars
+    - Bobby Rush
+    - Hill Country Revue
+    - Beverly Davis
   influenced:
-  - Cedric Burnside
-  - Various Mississippi blues musicians
+    - Cedric Burnside
+    - Various Mississippi blues musicians
   mentors:
-  - R.L. Burnside
-  - Junior Kimbrough
+    - R.L. Burnside
+    - Junior Kimbrough
 spotify_data:
   followers: 575
   id: 1y0i3wAoL8PbQGFiaTltsI
   popularity: 11
-  url: https://open.spotify.com/artist/1y0i3wAoL8PbQGFiaTltsI
+  url: 'https://open.spotify.com/artist/1y0i3wAoL8PbQGFiaTltsI'
 discography_enriched: true
 top_tracks:
-- AGF Out (AGF Out)
-- 3 Women (The Promise)
-- Hoochie Coochie Man (North Mississippi Hill Country Picnic, Vol. III)
-- Promise My Dad (The Promise)
-- Don't Mess with My Woman (The Promise)
-- I Been Looking (The Promise)
-- Young Country Boy (Young Country Boy)
-- AGF Out (Young Country Boy)
-- Garry's Nite Out (The Promise)
-- Intro N E (The Promise)
+  - AGF Out (AGF Out)
+  - 3 Women (The Promise)
+  - 'Hoochie Coochie Man (North Mississippi Hill Country Picnic, Vol. III)'
+  - Promise My Dad (The Promise)
+  - Don't Mess with My Woman (The Promise)
+  - I Been Looking (The Promise)
+  - Young Country Boy (Young Country Boy)
+  - AGF Out (Young Country Boy)
+  - Garry's Nite Out (The Promise)
+  - Intro N E (The Promise)
 external_urls:
-  spotify: https://open.spotify.com/artist/1y0i3wAoL8PbQGFiaTltsI
+  spotify: 'https://open.spotify.com/artist/1y0i3wAoL8PbQGFiaTltsI'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/GARRY_BURNSIDE.jpg
 biography_enhanced_at: '2025-10-21T06:53:00.596355'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.mississippifreepress.org/garry-burnsides-blues-lineage/
-- https://mojasaga.com/the500/garry-burnside/
-- https://blues.gr/profiles/blogs/q-a-with-garry-burnside-youngest-son-of-r-l-burnside-a-passion-fo
-- https://arts.ms.gov/artist/garry-burnside/
-- https://garryburnsidemusic.com
-- https://mississippifolklife.org/exhibits/garry-burnside-beverly-davis
-- https://tippahnews.com/tippah-county-news/burnside-keeps-hill-country-music-alive/
+  - 'https://www.mississippifreepress.org/garry-burnsides-blues-lineage/'
+  - 'https://mojasaga.com/the500/garry-burnside/'
+  - >-
+    https://blues.gr/profiles/blogs/q-a-with-garry-burnside-youngest-son-of-r-l-burnside-a-passion-fo
+  - 'https://arts.ms.gov/artist/garry-burnside/'
+  - 'https://garryburnsidemusic.com'
+  - 'https://mississippifolklife.org/exhibits/garry-burnside-beverly-davis'
+  - >-
+    https://tippahnews.com/tippah-county-news/burnside-keeps-hill-country-music-alive/
 network_extracted: true
 entry_created: '2025-10-21T06:53:00.596371'
 last_updated: '2025-12-23T08:16:02.067011'
+artist_type: person
 ---
 
 ![](GARRY_BURNSIDE.jpg)

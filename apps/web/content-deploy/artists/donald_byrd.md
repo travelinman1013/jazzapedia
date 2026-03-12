@@ -5,68 +5,68 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1932-12-09'
-birth_place: Detroit
+birth_place: 'Detroit, Michigan, United States'
 death_date: '2013-02-04'
 genres:
-- hard bop
-- jazz funk
-- jazz
-- soul jazz
-- jazz fusion
-- acid jazz
+  - hard bop
+  - jazz funk
+  - jazz
+  - soul jazz
+  - jazz fusion
+  - acid jazz
 instruments:
-- trumpet
-- eponymous
-- original
-- piano
-- lead vocals
-associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9adfa27b-4903-4c93-ae5f-f0749887fc8b
-  name: Donald Byrd Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9e5aee7c-2dc8-48ab-b6f9-b050dc51e6fc
-  name: The Blackbyrds
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a5944490-231e-485a-9baf-6d056a9733a3
-  name: The Red Garland Quintet
-- begin: ''
-  end: ''
-  instruments:
   - trumpet
-  mbid: 9fb7dbc9-76cf-412d-91cf-79ae97d8ace2
-  name: Elmo Hope Sextet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 34c81ce1-c05e-4dd3-a865-1e09f0aa456a
-  name: Johnny Griffin Sextet
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: 05e6fbe0-b22e-4e02-8b63-573f43889d59
-  name: The Thelonious Monk Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: b145b7d7-06c5-44b8-84b0-ae45161888ac
-  name: Donald Byrd and 125th Street, N.Y.C.
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
-  - trumpet
-  mbid: e188b940-749a-47da-b863-d008e7130487
-  name: The Gigi Gryce-Donald Byrd Jazz Laboratory
+  - piano
+  - lead vocals
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9adfa27b-4903-4c93-ae5f-f0749887fc8b
+    name: Donald Byrd Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9e5aee7c-2dc8-48ab-b6f9-b050dc51e6fc
+    name: The Blackbyrds
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a5944490-231e-485a-9baf-6d056a9733a3
+    name: The Red Garland Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: 9fb7dbc9-76cf-412d-91cf-79ae97d8ace2
+    name: Elmo Hope Sextet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 34c81ce1-c05e-4dd3-a865-1e09f0aa456a
+    name: Johnny Griffin Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: 05e6fbe0-b22e-4e02-8b63-573f43889d59
+    name: The Thelonious Monk Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: b145b7d7-06c5-44b8-84b0-ae45161888ac
+    name: 'Donald Byrd and 125th Street, N.Y.C.'
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - trumpet
+    mbid: e188b940-749a-47da-b863-d008e7130487
+    name: The Gigi Gryce-Donald Byrd Jazz Laboratory
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/donald_byrd.jpg
   caption: Donald Byrd
@@ -89,47 +89,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Art Blakey
-  - Pepper Adams
-  - Herbie Hancock
-  - The Blackbyrds
+    - Art Blakey
+    - Pepper Adams
+    - Herbie Hancock
+    - The Blackbyrds
   influenced:
-  - Herbie Hancock
-  - The Blackbyrds
-  - Hip-hop artists
+    - Herbie Hancock
+    - The Blackbyrds
+    - Hip-hop artists
   mentors:
-  - Nadia Boulanger
+    - Nadia Boulanger
 spotify_data:
   followers: 150879
   id: 3ZUZYvTkSr7kJQyAXVpqaL
   popularity: 47
-  url: https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL
+  url: 'https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL'
 discography_enriched: true
 top_tracks:
-- Loungin' (Jazzmatazz Volume 1)
-- Where Are We Going? (Blackbyrd)
-- I'm A Fool To Want You - Remastered 2006 (Royal Flush)
-- Dominoes (Places And Spaces)
-- Cristo Redentor - Remastered (A New Perspective (Remastered / Rudy Van Gelder Edition))
-- Places And Spaces (Places And Spaces)
-- Hello Bright Sunflower - Rudy Van Gelder Edition/2006 Digital Remaster (The Cat Walk)
-- 'Insert A (Mental Relaxation) / Medicine (Jazzmatazz Volume II: The New Reality)'
-- Wind Parade (Places And Spaces)
-- Think Twice (Stepping Into Tomorrow)
+  - Loungin' (Jazzmatazz Volume 1)
+  - Where Are We Going? (Blackbyrd)
+  - I'm A Fool To Want You - Remastered 2006 (Royal Flush)
+  - Dominoes (Places And Spaces)
+  - >-
+    Cristo Redentor - Remastered (A New Perspective (Remastered / Rudy Van
+    Gelder Edition))
+  - Places And Spaces (Places And Spaces)
+  - >-
+    Hello Bright Sunflower - Rudy Van Gelder Edition/2006 Digital Remaster (The
+    Cat Walk)
+  - >-
+    Insert A (Mental Relaxation) / Medicine (Jazzmatazz Volume II: The New
+    Reality)
+  - Wind Parade (Places And Spaces)
+  - Think Twice (Stepping Into Tomorrow)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/69f95e5c-4b34-4c8b-b8fe-c59f9296195a
-  spotify: https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL
-  wikipedia: https://en.wikipedia.org/wiki/Donald_Byrd
+  musicbrainz: 'https://musicbrainz.org/artist/69f95e5c-4b34-4c8b-b8fe-c59f9296195a'
+  spotify: 'https://open.spotify.com/artist/3ZUZYvTkSr7kJQyAXVpqaL'
+  wikipedia: 'https://en.wikipedia.org/wiki/Donald_Byrd'
 image_path: 03_Resources/source_material/ArtistPortraits/donald_byrd.jpg
 biography_enhanced_at: '2025-10-23T07:40:43.291760'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://mgleatherwork.com/blogs/news/donald-byrd-biography-career-highlights-and-collaborations
-- https://www.midatlanticarts.org/grants-programs/explore-opportunities/dr-donald-t-byrd-1998-living-legacy-awardee/
-- https://blackpast.org/african-american-history/byrd-donald-1932-2013/
-- https://www.arts.gov/honors/jazz/donald-byrd
-- https://en.wikipedia.org/wiki/Donald_Byrd
+  - >-
+    https://mgleatherwork.com/blogs/news/donald-byrd-biography-career-highlights-and-collaborations
+  - >-
+    https://www.midatlanticarts.org/grants-programs/explore-opportunities/dr-donald-t-byrd-1998-living-legacy-awardee/
+  - 'https://blackpast.org/african-american-history/byrd-donald-1932-2013/'
+  - 'https://www.arts.gov/honors/jazz/donald-byrd'
+  - 'https://en.wikipedia.org/wiki/Donald_Byrd'
 network_extracted: true
 entry_created: '2025-10-23T07:40:43.291777'
 last_updated: '2025-12-23T08:16:07.927345'
@@ -137,9 +145,10 @@ disambiguation: American jazz trumpeter
 gender: Male
 musicbrainz_id: 69f95e5c-4b34-4c8b-b8fe-c59f9296195a
 tags:
-- disco
-- hard bop
-- jazz
+  - disco
+  - hard bop
+  - jazz
+is_active: false
 ---
 
 ![](donald_byrd.jpg)

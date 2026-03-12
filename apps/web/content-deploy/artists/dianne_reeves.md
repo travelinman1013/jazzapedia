@@ -1,18 +1,18 @@
 ---
-title: DIANNE REEVES
+title: Dianne Reeves
 wiki_slug: dianne-reeves
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1956-10-23'
-birth_place: Detroit
+birth_place: 'Detroit, Michigan, United States'
 genres:
-- vocal jazz
-- jazz
+  - vocal jazz
+  - jazz
 instruments:
-- lead vocals
-- background vocals
-- other vocals
+  - lead vocals
+  - background vocals
+  - other vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/dianne_reeves.jpg
   caption: DIANNE REEVES
@@ -34,65 +34,67 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Billy Childs
-  - Sergio Mendes
-  - Wynton Marsalis & Lincoln Center Jazz Orchestra
-  - Herbie Hancock, Freddie Hubbard, Tony Williams
-  - George Duke
-  - Caldera / Eduardo (Eddie) del Barrio
-  - Los Angeles Philharmonic & Walt Disney Concert Hall projects
-  - Berlin Philharmonic (Sir Simon Rattle) & Chicago Symphony Orchestra
-  - Arif Mardin
+    - Billy Childs
+    - Sergio Mendes
+    - Wynton Marsalis & Lincoln Center Jazz Orchestra
+    - 'Herbie Hancock, Freddie Hubbard, Tony Williams'
+    - George Duke
+    - Caldera / Eduardo (Eddie) del Barrio
+    - Los Angeles Philharmonic & Walt Disney Concert Hall projects
+    - Berlin Philharmonic (Sir Simon Rattle) & Chicago Symphony Orchestra
+    - Arif Mardin
   influenced:
-  - Contemporary jazz vocalists and students (general category)
+    - Contemporary jazz vocalists and students (general category)
   mentors:
-  - Charles Burrell
-  - Clark Terry
-  - Phil Moore
-  - Harry Belafonte
+    - Charles Burrell
+    - Clark Terry
+    - Phil Moore
+    - Harry Belafonte
 spotify_data:
   followers: 92338
   id: 7nwrblOf59ulOiB6djwPVh
   popularity: 43
-  url: https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh
+  url: 'https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh'
 discography_enriched: true
 top_tracks:
-- Better Days (Dianne Reeves)
-- Better Days
-- Misty
-- How Long (Never Too Far)
-- At Last (At Last)
-- One For My Baby (Good Night, Good Luck)
-- Fine Brown Frame (At Last)
-- Just My Imagination (Running Away With Me) (When You Know)
-- Darn That Dream (A Little Moonlight)
-- Every Breath You Take (Minh)
+  - Better Days (Dianne Reeves)
+  - Better Days
+  - Misty
+  - How Long (Never Too Far)
+  - At Last (At Last)
+  - 'One For My Baby (Good Night, Good Luck)'
+  - Fine Brown Frame (At Last)
+  - Just My Imagination (Running Away With Me) (When You Know)
+  - Darn That Dream (A Little Moonlight)
+  - Every Breath You Take (Minh)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/069c1f30-fd2a-4342-924a-cca7c605807f
-  spotify: https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh
-  wikipedia: https://en.wikipedia.org/wiki/Dianne_Reeves
+  musicbrainz: 'https://musicbrainz.org/artist/069c1f30-fd2a-4342-924a-cca7c605807f'
+  spotify: 'https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh'
+  wikipedia: 'https://en.wikipedia.org/wiki/Dianne_Reeves'
 image_path: 03_Resources/source_material/ArtistPortraits/dianne_reeves.jpg
 biography_enhanced_at: '2025-12-12T12:02:54.269845'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.thehistorymakers.org/biography/dianne-reeves
-- https://en.wikipedia.org/wiki/Dianne_Reeves
-- https://hancockinstitute.org/meet/dianne-reeves/
-- http://summerfest.sanjosejazz.org/2012/dianne-reeves
-- https://www.globalartslive.org/sites/default/files/Biography_6.pdf
-- https://atljazzfest.com/artists/dianne-reeves
-- https://cmhof.org/inductees/dianne-reeves/
-- https://history.denverlibrary.org/news/dianne-reeves-1956-breathtaking-virtuosity-improvisational-prowess-0
+  - 'https://www.thehistorymakers.org/biography/dianne-reeves'
+  - 'https://en.wikipedia.org/wiki/Dianne_Reeves'
+  - 'https://hancockinstitute.org/meet/dianne-reeves/'
+  - 'http://summerfest.sanjosejazz.org/2012/dianne-reeves'
+  - 'https://www.globalartslive.org/sites/default/files/Biography_6.pdf'
+  - 'https://atljazzfest.com/artists/dianne-reeves'
+  - 'https://cmhof.org/inductees/dianne-reeves/'
+  - >-
+    https://history.denverlibrary.org/news/dianne-reeves-1956-breathtaking-virtuosity-improvisational-prowess-0
 network_extracted: true
 entry_created: '2025-12-12T12:02:54.269880'
 last_updated: '2025-12-23T08:16:07.755026'
 gender: Female
 musicbrainz_id: 069c1f30-fd2a-4342-924a-cca7c605807f
 tags:
-- contemporary jazz
-- jazz
-- jazz and blues
+  - contemporary jazz
+  - jazz
+  - jazz and blues
+origin: 'Denver, Colorado, United States'
 ---
 
 ![](dianne_reeves.jpg)

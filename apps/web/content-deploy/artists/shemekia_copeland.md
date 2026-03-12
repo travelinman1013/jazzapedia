@@ -5,14 +5,14 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1979-04-10'
-birth_place: Harlem
+birth_place: 'Harlem, New York City, United States'
 genres:
-- blues
-- modern blues
-- soul blues
-- blues rock
+  - blues
+  - modern blues
+  - soul blues
+  - blues rock
 instruments:
-- background vocals
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/shemekia_copeland.jpg
   caption: Shemekia Copeland
@@ -34,57 +34,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dr. John
-  - Ruth Brown
-  - Steve Cropper
+    - Dr. John
+    - Ruth Brown
+    - Steve Cropper
   influenced: []
   mentors:
-  - Johnny Clyde Copeland
+    - Johnny Clyde Copeland
 spotify_data:
   followers: 55450
   id: 4CNjyWtO59j6Ih6S0n73ee
   popularity: 39
-  url: https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee
+  url: 'https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee'
 discography_enriched: true
 top_tracks:
-- Salt In My Wounds (Turn The Heat Up!)
-- Married To The Blues (Turn The Heat Up!)
-- Ghetto Child (Turn The Heat Up!)
-- Long As I Can See The Light (Outskirts of Love)
-- Don't Whisper (Talking To Strangers)
-- Barefoot In Heaven (Done Come Too Far)
-- Hit 'Em Back
-- Ain't Got Time For Hate (America's Child)
-- Would You Take My Blood? (America's Child)
-- Money Makes You Ugly (Uncivil War)
+  - Salt In My Wounds (Turn The Heat Up!)
+  - Married To The Blues (Turn The Heat Up!)
+  - Ghetto Child (Turn The Heat Up!)
+  - Long As I Can See The Light (Outskirts of Love)
+  - Don't Whisper (Talking To Strangers)
+  - Barefoot In Heaven (Done Come Too Far)
+  - Hit 'Em Back
+  - Ain't Got Time For Hate (America's Child)
+  - Would You Take My Blood? (America's Child)
+  - Money Makes You Ugly (Uncivil War)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/ed241876-0c9e-4af9-b8d6-2dc41d3e438f
-  spotify: https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee
-  wikipedia: https://en.wikipedia.org/wiki/Shemekia_Copeland
+  musicbrainz: 'https://musicbrainz.org/artist/ed241876-0c9e-4af9-b8d6-2dc41d3e438f'
+  spotify: 'https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee'
+  wikipedia: 'https://en.wikipedia.org/wiki/Shemekia_Copeland'
 image_path: 03_Resources/source_material/ArtistPortraits/shemekia_copeland.jpg
 biography_enhanced_at: '2025-11-26T07:54:27.962596'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Shemekia_Copeland
-- https://jazzalley.com/www-home/artist.jsp?shownum=7633
-- https://rhythmandroots.com/artists/shemekia-copeland/
-- https://concord.com/artist/shemekia-copeland/
-- https://www.shemekiacopeland.com/bio
-- https://darylshouseclub.com/tm-event/shemekia-copeland/
-- https://thebluegrasssituation.com/read/already-a-blues-star-shemekia-copeland-is-still-aiming-for-higher-places/
-- https://www.auburnstatetheatre.org/shemekia-copeland
-- https://www.sprucepeakarts.org/events/shemekia-copeland/
+  - 'https://en.wikipedia.org/wiki/Shemekia_Copeland'
+  - 'https://jazzalley.com/www-home/artist.jsp?shownum=7633'
+  - 'https://rhythmandroots.com/artists/shemekia-copeland/'
+  - 'https://concord.com/artist/shemekia-copeland/'
+  - 'https://www.shemekiacopeland.com/bio'
+  - 'https://darylshouseclub.com/tm-event/shemekia-copeland/'
+  - >-
+    https://thebluegrasssituation.com/read/already-a-blues-star-shemekia-copeland-is-still-aiming-for-higher-places/
+  - 'https://www.auburnstatetheatre.org/shemekia-copeland'
+  - 'https://www.sprucepeakarts.org/events/shemekia-copeland/'
 network_extracted: true
 entry_created: '2025-11-26T07:54:27.962607'
 last_updated: '2025-12-23T08:16:15.567731'
 gender: Female
 musicbrainz_id: ed241876-0c9e-4af9-b8d6-2dc41d3e438f
 tags:
-- blues
-- electric blues
-- gospel
-
+  - blues
+  - electric blues
+  - gospel
 ---
 
 ![](shemekia_copeland.jpg)

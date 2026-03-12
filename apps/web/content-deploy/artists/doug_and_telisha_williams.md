@@ -2,13 +2,13 @@
 title: Doug & Telisha Williams
 wiki_slug: doug-telisha-williams
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- newgrass
-- americana
+  - newgrass
+  - americana
 instruments:
-- original
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/doug_and_telisha_williams.jpg
   caption: Doug & Telisha Williams
@@ -28,65 +28,68 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Fats Kaplin
-  - Will Kimbrough
-  - Neilson Hubbard
-  - Audrey Spillman
-  - Brandy Zdan
-  - Chely Wright, Ben Glover, Nora Jane Struthers
-  - The Sea The Sea (Chuck and Mira Costa)
-  - Kilby Spencer (Crooked Road Ramblers)
+    - Fats Kaplin
+    - Will Kimbrough
+    - Neilson Hubbard
+    - Audrey Spillman
+    - Brandy Zdan
+    - 'Chely Wright, Ben Glover, Nora Jane Struthers'
+    - The Sea The Sea (Chuck and Mira Costa)
+    - Kilby Spencer (Crooked Road Ramblers)
   influenced:
-  - LGBTQIA+ Americana musicians and fans
+    - LGBTQIA+ Americana musicians and fans
   mentors:
-  - Doug's grandfather
-  - Snake Smith & Kyle Dean Smith
-  - Sammy (Telisha's uncle)
+    - Doug's grandfather
+    - Snake Smith & Kyle Dean Smith
+    - Sammy (Telisha's uncle)
 spotify_data:
   followers: 131
   id: 4Qf5XOQaJqUzoPkI6Mcuvy
   popularity: 0
-  url: https://open.spotify.com/artist/4Qf5XOQaJqUzoPkI6Mcuvy
+  url: 'https://open.spotify.com/artist/4Qf5XOQaJqUzoPkI6Mcuvy'
 discography_enriched: true
 top_tracks:
-- Southwest Virginia Blues (Rope Around My Heart)
-- Bar Room Story (Rope Around My Heart)
-- Our Town (Rope Around My Heart)
-- Shirt On A Rack (Rope Around My Heart)
-- Rope Around My Heart (Rope Around My Heart)
-- Bad Attitude (Rope Around My Heart)
-- Long Black Veil (Rope Around My Heart)
-- Dutch Village (Rope Around My Heart)
-- Nashville (Rope Around My Heart)
-- Misery (Rope Around My Heart)
+  - Southwest Virginia Blues (Rope Around My Heart)
+  - Bar Room Story (Rope Around My Heart)
+  - Our Town (Rope Around My Heart)
+  - Shirt On A Rack (Rope Around My Heart)
+  - Rope Around My Heart (Rope Around My Heart)
+  - Bad Attitude (Rope Around My Heart)
+  - Long Black Veil (Rope Around My Heart)
+  - Dutch Village (Rope Around My Heart)
+  - Nashville (Rope Around My Heart)
+  - Misery (Rope Around My Heart)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/0f8dcc57-184b-4bb7-a23b-ce440930d23f
-  spotify: https://open.spotify.com/artist/4Qf5XOQaJqUzoPkI6Mcuvy
+  musicbrainz: 'https://musicbrainz.org/artist/0f8dcc57-184b-4bb7-a23b-ce440930d23f'
+  spotify: 'https://open.spotify.com/artist/4Qf5XOQaJqUzoPkI6Mcuvy'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/doug_and_telisha_williams.jpg
 biography_enhanced_at: '2025-11-01T15:20:19.016743'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.wildponies.net/bio
-- https://www.richmondfolkfestival.org/2019-folklife-performers/2019/9/14/wild-ponies
-- https://www.flemingartists.com/uploads/1/1/6/0/11605577/wild_ponies_bio_2020.pdf
-- https://thebluegrasssituation.com/read/out-now-wild-ponies/
-- https://www.allmusic.com/artist/doug-telisha-williams-mn0001515839
-- https://annarborobserver.com/doug-telisha-williams/
+  - 'https://www.wildponies.net/bio'
+  - >-
+    https://www.richmondfolkfestival.org/2019-folklife-performers/2019/9/14/wild-ponies
+  - >-
+    https://www.flemingartists.com/uploads/1/1/6/0/11605577/wild_ponies_bio_2020.pdf
+  - 'https://thebluegrasssituation.com/read/out-now-wild-ponies/'
+  - 'https://www.allmusic.com/artist/doug-telisha-williams-mn0001515839'
+  - 'https://annarborobserver.com/doug-telisha-williams/'
 network_extracted: true
 entry_created: '2025-11-01T15:20:19.016755'
 last_updated: '2025-12-23T08:16:07.981888'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 1de67bbe-8fd0-4c3a-b0cb-5ab042619eaa
-  name: Telisha Williams
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 1de67bbe-8fd0-4c3a-b0cb-5ab042619eaa
+    name: Telisha Williams
 musicbrainz_id: 0f8dcc57-184b-4bb7-a23b-ce440930d23f
-origin: Martinsville, Virginia, United States (origin); Nashville, Tennessee, United States (current base)
-
+origin: >-
+  Martinsville, Virginia, United States (origin); Nashville, Tennessee, United
+  States (current base)
 ---
 
 ![](doug_and_telisha_williams.jpg)

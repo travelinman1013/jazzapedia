@@ -1,110 +1,110 @@
 ---
-title: Neil young
+title: Neil Young
 wiki_slug: neil-young
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1945-11-12'
-birth_place: Toronto
+birth_place: 'Toronto, Ontario, Canada'
 genres:
-- classic rock
-- folk rock
-- singer-songwriter
-- roots rock
+  - classic rock
+  - folk rock
+  - singer-songwriter
+  - roots rock
 instruments:
-- original
-- eponymous
-- piano
-- guitar
-- harmonica
-- electric guitar
-- electric piano
-- acoustic guitar
-- tack piano
-- 12 string guitar
-- Wurlitzer electric piano
-- background vocals
-- lead vocals
-- spoken vocals
-- vocal
-- other vocals
-- choir vocals
-associated_acts:
-- begin: '1963'
-  end: '1965'
-  instruments:
   - original
-  mbid: 4f98ae05-ac0b-45b8-b3ba-b737520c59a2
-  name: The Squires
-- begin: 1966-01
-  end: '1967'
-  instruments: []
-  mbid: df4aedd6-f7fe-4ad1-98bc-1565caf226d9
-  name: The Mynah Birds
-- begin: '1966'
-  end: 1968-05
-  instruments:
-  - original
-  mbid: 22dc19af-d085-4c9b-adfb-22ec256251f1
-  name: Buffalo Springfield
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 63507634-576c-4e9f-ab01-a99316830916
-  name: The Volume Dealers
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
-  mbid: 46a782ea-4308-476b-abd1-a91b197f3037
-  name: Crosby, Stills, Nash & Young
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: fcacc57a-e0ae-481c-a83c-5ce3e45892f4
-  name: The Stills–Young Band
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 3e642e51-e95d-4f21-aa6a-629f98ae23fa
-  name: Neil Young & His Electric Band
-- begin: ''
-  end: ''
-  instruments:
   - piano
-  mbid: 76fba55d-3a25-4701-917c-45cd2bef010d
-  name: The Shocking Pinks
-- begin: ''
-  end: ''
-  instruments:
   - guitar
-  mbid: 76fba55d-3a25-4701-917c-45cd2bef010d
-  name: The Shocking Pinks
-- begin: ''
-  end: ''
-  instruments:
   - harmonica
-  mbid: 76fba55d-3a25-4701-917c-45cd2bef010d
-  name: The Shocking Pinks
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b62f6dc0-f273-4d63-80e8-e90ea544100b
-  name: The Ducks
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: f87e5f53-7c90-49a1-bdb0-50414804bf11
-  name: Crosby, Nash & Young
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 59516b4f-1b05-4419-ae62-faa13b8c86e5
-  name: Molina, Talbot, Lofgren & Young
+  - electric guitar
+  - electric piano
+  - acoustic guitar
+  - tack piano
+  - 12 string guitar
+  - Wurlitzer electric piano
+  - background vocals
+  - lead vocals
+  - spoken vocals
+  - vocal
+  - other vocals
+  - choir vocals
+associated_acts:
+  - begin: '1963'
+    end: '1965'
+    instruments:
+      - original
+    mbid: 4f98ae05-ac0b-45b8-b3ba-b737520c59a2
+    name: The Squires
+  - begin: 1966-01
+    end: '1967'
+    instruments: []
+    mbid: df4aedd6-f7fe-4ad1-98bc-1565caf226d9
+    name: The Mynah Birds
+  - begin: '1966'
+    end: 1968-05
+    instruments:
+      - original
+    mbid: 22dc19af-d085-4c9b-adfb-22ec256251f1
+    name: Buffalo Springfield
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 63507634-576c-4e9f-ab01-a99316830916
+    name: The Volume Dealers
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 46a782ea-4308-476b-abd1-a91b197f3037
+    name: 'Crosby, Stills, Nash & Young'
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: fcacc57a-e0ae-481c-a83c-5ce3e45892f4
+    name: The Stills–Young Band
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 3e642e51-e95d-4f21-aa6a-629f98ae23fa
+    name: Neil Young & His Electric Band
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: 76fba55d-3a25-4701-917c-45cd2bef010d
+    name: The Shocking Pinks
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 76fba55d-3a25-4701-917c-45cd2bef010d
+    name: The Shocking Pinks
+  - begin: ''
+    end: ''
+    instruments:
+      - harmonica
+    mbid: 76fba55d-3a25-4701-917c-45cd2bef010d
+    name: The Shocking Pinks
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b62f6dc0-f273-4d63-80e8-e90ea544100b
+    name: The Ducks
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: f87e5f53-7c90-49a1-bdb0-50414804bf11
+    name: 'Crosby, Nash & Young'
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 59516b4f-1b05-4419-ae62-faa13b8c86e5
+    name: 'Molina, Talbot, Lofgren & Young'
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/neil_young.jpg
   caption: Neil young
@@ -126,60 +126,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Crazy Horse
-  - Crosby, Stills, Nash & Young
-  - Buffalo Springfield
-  - Pearl Jam
-  - Promise of the Real
+    - Crazy Horse
+    - 'Crosby, Stills, Nash & Young'
+    - Buffalo Springfield
+    - Pearl Jam
+    - Promise of the Real
   influenced:
-  - Pearl Jam
-  - Kurt Cobain (Nirvana)
-  - Wilco
-  - Eddie Vedder
+    - Pearl Jam
+    - Kurt Cobain (Nirvana)
+    - Wilco
+    - Eddie Vedder
   mentors:
-  - Bob Dylan
-  - Joni Mitchell
+    - Bob Dylan
+    - Joni Mitchell
 spotify_data:
   followers: 3344870
   id: 6v8FB84lnmJs434UJf2Mrm
   popularity: 70
-  url: https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm
+  url: 'https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm'
 discography_enriched: true
 top_tracks:
-- Heart of Gold (Harvest (50th Anniversary Edition))
-- Harvest Moon (Harvest Moon)
-- Old Man (Harvest (50th Anniversary Edition))
-- Heart of Gold - 2009 Remaster (Harvest (2009 Remaster))
-- My My, Hey Hey (Out of the Blue) - 2016 Remaster (Rust Never Sleeps)
-- Rockin' in the Free World (Freedom)
-- Old Man - 2009 Remaster (Harvest (2009 Remaster))
-- Only Love Can Break Your Heart (After the Gold Rush (2009 Remaster))
-- Heart Of Gold
-- Harvest Moon
+  - Heart of Gold (Harvest (50th Anniversary Edition))
+  - Harvest Moon (Harvest Moon)
+  - Old Man (Harvest (50th Anniversary Edition))
+  - Heart of Gold - 2009 Remaster (Harvest (2009 Remaster))
+  - 'My My, Hey Hey (Out of the Blue) - 2016 Remaster (Rust Never Sleeps)'
+  - Rockin' in the Free World (Freedom)
+  - Old Man - 2009 Remaster (Harvest (2009 Remaster))
+  - Only Love Can Break Your Heart (After the Gold Rush (2009 Remaster))
+  - Heart Of Gold
+  - Harvest Moon
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/75167b8b-44e4-407b-9d35-effe87b223cf
-  spotify: https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm
-  wikipedia: https://en.wikipedia.org/wiki/Neil_Young
+  musicbrainz: 'https://musicbrainz.org/artist/75167b8b-44e4-407b-9d35-effe87b223cf'
+  spotify: 'https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm'
+  wikipedia: 'https://en.wikipedia.org/wiki/Neil_Young'
 image_path: 03_Resources/source_material/ArtistPortraits/neil_young.jpg
 biography_enhanced_at: '2025-11-06T13:34:37.402256'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Neil_Young
-- https://top40weekly.com/neil-young/
-- https://teachrock.org/people/young-neil/
-- https://historycooperative.org/neil-young-bio/
-- https://www.britannica.com/biography/Neil-Young
+  - 'https://en.wikipedia.org/wiki/Neil_Young'
+  - 'https://top40weekly.com/neil-young/'
+  - 'https://teachrock.org/people/young-neil/'
+  - 'https://historycooperative.org/neil-young-bio/'
+  - 'https://www.britannica.com/biography/Neil-Young'
 network_extracted: true
 entry_created: '2025-11-06T13:34:37.402268'
 last_updated: '2025-12-23T08:16:13.477430'
-disambiguation: Canadian singer, songwriter & musician
+disambiguation: 'Canadian singer, songwriter & musician'
 gender: Male
 musicbrainz_id: 75167b8b-44e4-407b-9d35-effe87b223cf
 tags:
-- 2008 universal fire victim
-- blues
-- canadian
+  - 2008 universal fire victim
+  - blues
+  - canadian
+origin: 'Winnipeg, Manitoba, Canada'
 ---
 
 ![](neil_young.jpg)

@@ -1,151 +1,153 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: '2004'
-  instruments: []
-  mbid: 3d01f64d-b032-4ade-a9e7-7468bee7d4c0
-  name: The Super Trio
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: bd2f7fe8-123c-43ab-a30c-2e399004e2cc
-  name: Kenny Barron Trio
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 28d91e80-2457-487e-ab3c-4244205d923a
-  name: Kenny Barron Quintet
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: 86f0ef7e-3c43-459d-a05c-de63bf62ef36
-  name: Joe Henderson Sextet
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: 941d6359-7841-4b05-ad1d-750f20093e32
-  name: Classical Jazz Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: 7d848685-a5d2-45d5-b3ce-ba076da82e5b
-  name: Buster Williams Trio
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: bcc5ae1e-b39e-4125-a559-3119379b5812
-  name: Sphere
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 13b32afe-d3b2-461c-b3af-c3a5cc5d139d
-  name: Ron Carter Trio
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: eb022efa-0ec7-43f6-896a-8211e9f0b1a0
-  name: The Joshua Breakstone Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 4d3a9cb6-dbfa-4d24-a1af-8881395dcc0d
-  name: Kenny Barron Quartet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 236d965e-c90e-460f-b37e-108027a33d0a
-  name: The Jimmy Owens–Kenny Barron Quintet
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f86fa8ff-dc99-4724-9665-361fd07e62eb
-  name: The Bob Thiele Collective
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 66ead605-a220-422a-8fba-f7d6f8db03be
-  name: The Super Premium Band
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: e13ddf5e-eb27-43a4-98e7-db870a1dcabe
-  name: Freddie Hubbard Quintet
+  - begin: ''
+    end: '2004'
+    instruments: []
+    mbid: 3d01f64d-b032-4ade-a9e7-7468bee7d4c0
+    name: The Super Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: bd2f7fe8-123c-43ab-a30c-2e399004e2cc
+    name: Kenny Barron Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 28d91e80-2457-487e-ab3c-4244205d923a
+    name: Kenny Barron Quintet
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: 86f0ef7e-3c43-459d-a05c-de63bf62ef36
+    name: Joe Henderson Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: 941d6359-7841-4b05-ad1d-750f20093e32
+    name: Classical Jazz Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: 7d848685-a5d2-45d5-b3ce-ba076da82e5b
+    name: Buster Williams Trio
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: bcc5ae1e-b39e-4125-a559-3119379b5812
+    name: Sphere
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 13b32afe-d3b2-461c-b3af-c3a5cc5d139d
+    name: Ron Carter Trio
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: eb022efa-0ec7-43f6-896a-8211e9f0b1a0
+    name: The Joshua Breakstone Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 4d3a9cb6-dbfa-4d24-a1af-8881395dcc0d
+    name: Kenny Barron Quartet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 236d965e-c90e-460f-b37e-108027a33d0a
+    name: The Jimmy Owens–Kenny Barron Quintet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f86fa8ff-dc99-4724-9665-361fd07e62eb
+    name: The Bob Thiele Collective
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 66ead605-a220-422a-8fba-f7d6f8db03be
+    name: The Super Premium Band
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: e13ddf5e-eb27-43a4-98e7-db870a1dcabe
+    name: Freddie Hubbard Quintet
 biography_enhanced_at: '2026-01-22T06:59:54.181802'
 birth_date: '1943-06-09'
-birth_place: Philadelphia
+birth_place: 'Philadelphia, Pennsylvania, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T06:59:54.181813'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/6b2e6e7c-4289-447c-a3dc-120e386da267
-  spotify: https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3
-  wikipedia: https://en.wikipedia.org/wiki/Kenny_Barron
+  musicbrainz: 'https://musicbrainz.org/artist/6b2e6e7c-4289-447c-a3dc-120e386da267'
+  spotify: 'https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kenny_Barron'
 gender: Male
 genres:
-- jazz
-- hard bop
-- cool jazz
-- jazz ballads
+  - jazz
+  - hard bop
+  - cool jazz
+  - jazz ballads
 image_path: 03_Resources/source_material/ArtistPortraits/kenny_barron.jpg
 instruments:
-- eponymous
-- original
-- piano
-- electric piano
-- Rhodes piano
-- grand piano
+  - eponymous
+  - original
+  - piano
+  - electric piano
+  - Rhodes piano
+  - grand piano
 last_updated: '2026-01-22T06:59:54.181813'
 musical_connections:
   collaborators:
-  - James Moody
-  - Stan Getz
-  - Sphere (Buster Williams, Ben Riley, Charlie Rouse/Gary Bartz)
-  - Bill Barron
+    - James Moody
+    - Stan Getz
+    - 'Sphere (Buster Williams, Ben Riley, Charlie Rouse/Gary Bartz)'
+    - Bill Barron
   influenced:
-  - David Sanchez
-  - Terence Blanchard
-  - Regina Bell
+    - David Sanchez
+    - Terence Blanchard
+    - Regina Bell
   mentors:
-  - Philly Joe Jones
-  - Yusef Lateef
-  - Dizzy Gillespie
+    - Philly Joe Jones
+    - Yusef Lateef
+    - Dizzy Gillespie
 musicbrainz_id: 6b2e6e7c-4289-447c-a3dc-120e386da267
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.jazzalley.com/www-home/artist.jsp?shownum=7495
-- https://www.arts.gov/honors/jazz/kenny-barron
-- https://en.wikipedia.org/wiki/Kenny_Barron
-- https://www.bluenote.com/artist/kenny-barron/
-- https://atljazzfest.com/artists/kenny-barron-quartet/
-- http://kennybarron.com/cms/wp-content/uploads/2014/02/biography.pdf
-- https://www.laphil.com/musicdb/artists/6023/kenny-barron
-- https://wexarts.org/performing-arts/kenny-barron-trio
-- https://www.midatlanticarts.org/grants-programs/explore-opportunities/kenny-barron-2008-living-legacy-awardee/
+  - 'https://www.jazzalley.com/www-home/artist.jsp?shownum=7495'
+  - 'https://www.arts.gov/honors/jazz/kenny-barron'
+  - 'https://en.wikipedia.org/wiki/Kenny_Barron'
+  - 'https://www.bluenote.com/artist/kenny-barron/'
+  - 'https://atljazzfest.com/artists/kenny-barron-quartet/'
+  - 'http://kennybarron.com/cms/wp-content/uploads/2014/02/biography.pdf'
+  - 'https://www.laphil.com/musicdb/artists/6023/kenny-barron'
+  - 'https://wexarts.org/performing-arts/kenny-barron-trio'
+  - >-
+    https://www.midatlanticarts.org/grants-programs/explore-opportunities/kenny-barron-2008-living-legacy-awardee/
 spotify_data:
   followers: 40309
   id: 3LvX4UVIfEjsQVqrbBToQ3
   popularity: 40
-  url: https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3
+  url: 'https://open.spotify.com/artist/3LvX4UVIfEjsQVqrbBToQ3'
 status: active
 tags:
-- hard bop
-- jazz
-- post-bop
+  - hard bop
+  - jazz
+  - post-bop
 title: Kenny Barron
+origin: 'New York City, New York, United States'
 ---
 
 ![](kenny_barron.jpg)

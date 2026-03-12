@@ -1,44 +1,44 @@
 ---
-title: LINK WRAY
+title: Link Wray
 wiki_slug: link-wray
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1929-05-02'
-birth_place: Dunn
+birth_place: 'Dunn, North Carolina, United States'
 death_date: '2005-11-05'
 genres:
-- surf rock
-- rockabilly
-- proto-punk
-- psychobilly
+  - surf rock
+  - rockabilly
+  - proto-punk
+  - psychobilly
 instruments:
-- eponymous
-- electric guitar
-- guitar
-- guitar family
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
-  mbid: 211099c8-8e2b-4e96-aa5c-343939754176
-  name: Link Wray & His Raymen
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c67b23e2-c776-45ac-8454-7b250e305ba9
-  name: The Ponies
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b1e951e4-5770-4319-a097-02c7c7f23800
-  name: Bert & Ray
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b1c46974-8212-4b4b-b903-6d69fcb30456
-  name: Wray Brothers
+  - electric guitar
+  - guitar
+  - guitar family
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 211099c8-8e2b-4e96-aa5c-343939754176
+    name: Link Wray & His Raymen
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c67b23e2-c776-45ac-8454-7b250e305ba9
+    name: The Ponies
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b1e951e4-5770-4319-a097-02c7c7f23800
+    name: Bert & Ray
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b1c46974-8212-4b4b-b903-6d69fcb30456
+    name: Wray Brothers
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/link_wray.jpg
   caption: LINK WRAY
@@ -61,62 +61,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Doug Wray
-  - Vernon Wray
-  - Shorty Horton
-  - Robert Gordon
-  - John Cipollina
-  - Anton Fig
+    - Doug Wray
+    - Vernon Wray
+    - Shorty Horton
+    - Robert Gordon
+    - John Cipollina
+    - Anton Fig
   influenced:
-  - Pete Townshend (The Who)
-  - Jimmy Page (Led Zeppelin)
-  - Iggy Pop
-  - Neil Young
-  - Dave Davies (The Kinks)
-  - Mark E. Smith (The Fall)
+    - Pete Townshend (The Who)
+    - Jimmy Page (Led Zeppelin)
+    - Iggy Pop
+    - Neil Young
+    - Dave Davies (The Kinks)
+    - Mark E. Smith (The Fall)
   mentors:
-  - Hank Williams (indirect influence)
+    - Hank Williams (indirect influence)
 spotify_data:
   followers: 130848
   id: 2vQavlZtDA660mnZotYIto
   popularity: 45
-  url: https://open.spotify.com/artist/2vQavlZtDA660mnZotYIto
+  url: 'https://open.spotify.com/artist/2vQavlZtDA660mnZotYIto'
 discography_enriched: true
 top_tracks:
-- Fallin' Rain (Link Wray)
-- Fire And Brimstone (Link Wray)
-- Rumble (The Shadow Knows)
-- Rumble (Link, Vernon and Doug)
-- Black River Swamp (Link Wray)
-- Rumble
-- Rumble (Link Wray)
-- La De Da (Link Wray)
-- Juke Box Mama (Link Wray)
-- Rise And Fall Of Jimmy Stokes (Link Wray)
+  - Fallin' Rain (Link Wray)
+  - Fire And Brimstone (Link Wray)
+  - Rumble (The Shadow Knows)
+  - 'Rumble (Link, Vernon and Doug)'
+  - Black River Swamp (Link Wray)
+  - Rumble
+  - Rumble (Link Wray)
+  - La De Da (Link Wray)
+  - Juke Box Mama (Link Wray)
+  - Rise And Fall Of Jimmy Stokes (Link Wray)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1c1c86a2-7850-47ac-8771-ae6359bae2b7
-  spotify: https://open.spotify.com/artist/2vQavlZtDA660mnZotYIto
-  wikipedia: https://en.wikipedia.org/wiki/Link_Wray
+  musicbrainz: 'https://musicbrainz.org/artist/1c1c86a2-7850-47ac-8771-ae6359bae2b7'
+  spotify: 'https://open.spotify.com/artist/2vQavlZtDA660mnZotYIto'
+  wikipedia: 'https://en.wikipedia.org/wiki/Link_Wray'
 image_path: 03_Resources/source_material/ArtistPortraits/link_wray.jpg
 biography_enhanced_at: '2025-10-28T09:07:12.942690'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://northcarolinamusichalloffame.org/inductee-item/link-wray/
-- https://en.wikipedia.org/wiki/Link_Wray
-- https://insounder.org/milestones-music-history-51-link-wray-distortion-wizard
-- https://pleasekillme.com/link-wray-rrhof/
-- https://www.loc.gov/static/programs/national-recording-preservation-board/documents/Rumble_Flowers.pdf
+  - 'https://northcarolinamusichalloffame.org/inductee-item/link-wray/'
+  - 'https://en.wikipedia.org/wiki/Link_Wray'
+  - >-
+    https://insounder.org/milestones-music-history-51-link-wray-distortion-wizard
+  - 'https://pleasekillme.com/link-wray-rrhof/'
+  - >-
+    https://www.loc.gov/static/programs/national-recording-preservation-board/documents/Rumble_Flowers.pdf
 network_extracted: true
 entry_created: '2025-10-28T09:07:12.942699'
 last_updated: '2025-12-23T08:16:11.956966'
 gender: Male
 musicbrainz_id: 1c1c86a2-7850-47ac-8771-ae6359bae2b7
 tags:
-- power chord
-- rock
-- rock and roll
-
+  - power chord
+  - rock
+  - rock and roll
+is_active: false
 ---
 
 ![](link_wray.jpg)

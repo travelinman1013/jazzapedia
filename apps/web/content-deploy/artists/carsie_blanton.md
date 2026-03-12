@@ -5,11 +5,11 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1985-07-22'
-birth_place: Bethesda
+birth_place: 'Luray, Virginia, United States'
 genres: []
 instruments:
-- guitar
-- lead vocals
+  - guitar
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/carsie_blanton.jpg
   caption: Carsie Blanton
@@ -31,48 +31,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Pete Donnelly
-  - The Wood Brothers
+    - Pete Donnelly
+    - The Wood Brothers
   influenced:
-  - Chance The Rapper
-  - Courtney Barnett
+    - Chance The Rapper
+    - Courtney Barnett
   mentors:
-  - Oliver Wood
+    - Oliver Wood
 spotify_data:
   followers: 53035
   id: 1NkiZTHV6voDpcA7eEQQMb
   popularity: 38
-  url: https://open.spotify.com/artist/1NkiZTHV6voDpcA7eEQQMb
+  url: 'https://open.spotify.com/artist/1NkiZTHV6voDpcA7eEQQMb'
 discography_enriched: true
 top_tracks:
-- Fishin' with You (Fishin' with You)
-- Rich People (Rich People)
-- Ugly Nasty Commie Bitch (Ugly Nasty Commie Bitch)
-- Two Sleepy People (Not Old, Not New)
-- Smoke Alarm (Idiot Heart)
-- Be Good (Love & Rage)
-- Heavenly Thing (Not Old, Not New)
-- Caroline (After the Revolution)
-- My Good Friends (After the Revolution)
-- Lovin Is Easy (So Ferocious)
+  - Fishin' with You (Fishin' with You)
+  - Rich People (Rich People)
+  - Ugly Nasty Commie Bitch (Ugly Nasty Commie Bitch)
+  - 'Two Sleepy People (Not Old, Not New)'
+  - Smoke Alarm (Idiot Heart)
+  - Be Good (Love & Rage)
+  - 'Heavenly Thing (Not Old, Not New)'
+  - Caroline (After the Revolution)
+  - My Good Friends (After the Revolution)
+  - Lovin Is Easy (So Ferocious)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/be2a77db-adf9-48f6-b084-88d52cda6482
-  spotify: https://open.spotify.com/artist/1NkiZTHV6voDpcA7eEQQMb
-  wikipedia: https://en.wikipedia.org/wiki/Carsie_Blanton
+  musicbrainz: 'https://musicbrainz.org/artist/be2a77db-adf9-48f6-b084-88d52cda6482'
+  spotify: 'https://open.spotify.com/artist/1NkiZTHV6voDpcA7eEQQMb'
+  wikipedia: 'https://en.wikipedia.org/wiki/Carsie_Blanton'
 image_path: 03_Resources/source_material/ArtistPortraits/carsie_blanton.jpg
 biography_enhanced_at: '2025-11-14T10:49:22.172844'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://freemusicarchive.org/music/Carsie_Blanton/bio
-- https://splitlipthemag.com/interviews/0319/carsie-blanton
-- https://twangville.com/artist-q-and-a/carsie-blanton-on-two-lessons-learned-and-the-time-she-almost-quit-music/
-- https://lpr.com/lpr_artists/carsie-blanton/
+  - 'https://freemusicarchive.org/music/Carsie_Blanton/bio'
+  - 'https://splitlipthemag.com/interviews/0319/carsie-blanton'
+  - >-
+    https://twangville.com/artist-q-and-a/carsie-blanton-on-two-lessons-learned-and-the-time-she-almost-quit-music/
+  - 'https://lpr.com/lpr_artists/carsie-blanton/'
 network_extracted: true
 entry_created: '2025-11-14T10:49:22.172854'
 last_updated: '2025-12-23T08:16:06.526577'
 gender: Female
 musicbrainz_id: be2a77db-adf9-48f6-b084-88d52cda6482
+origin: 'Eugene, Oregon, United States'
 ---
 
 ![](carsie_blanton.jpg)

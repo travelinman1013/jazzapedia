@@ -1,64 +1,65 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2025-12-31T01:42:37.060282'
 birth_date: '2011'
 enhancement_provider: perplexity
 entry_created: '2025-12-31T01:42:37.060288'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/72034a05-bcd8-40c2-8255-3ee4ac0e7ef0
-  spotify: https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg
+  musicbrainz: 'https://musicbrainz.org/artist/72034a05-bcd8-40c2-8255-3ee4ac0e7ef0'
+  spotify: 'https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg'
   wikipedia: Not found in search results
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/maribou_state.jpg
 last_updated: '2025-12-31T01:42:37.060288'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: cecc44ba-ceb7-4ee4-9770-4f5a7056be20
-  name: Christopher Davids
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 52ffe1f2-c848-4fc5-90e6-d80d7859289d
-  name: Liam Ivory
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: cecc44ba-ceb7-4ee4-9770-4f5a7056be20
+    name: Christopher Davids
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 52ffe1f2-c848-4fc5-90e6-d80d7859289d
+    name: Liam Ivory
 musical_connections:
   collaborators:
-  - Holly Walker
-  - North Downs (Jack Sibley)
-  - Gaidaa
-  - Andreya
-  - Pedestrian
+    - Holly Walker
+    - North Downs (Jack Sibley)
+    - Gaidaa
+    - Andreya
+    - Pedestrian
   influenced:
-  - Bonobo
-  - Four Tet
-  - Massive Attack
-  - Portishead
-  - James Blake
+    - Bonobo
+    - Four Tet
+    - Massive Attack
+    - Portishead
+    - James Blake
   mentors:
-  - Diplo
-  - Pete Tong
+    - Diplo
+    - Pete Tong
 musicbrainz_id: 72034a05-bcd8-40c2-8255-3ee4ac0e7ef0
 network_extracted: true
-origin: Hertfordshire, England, United Kingdom
+origin: 'Hertfordshire, England, United Kingdom'
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Maribou+State/+wiki
-- https://metalmagazine.eu/en/post/maribou-state
-- https://ukf.com/read/essential-summer-sounds-maribou-state-portraits/
-- https://soundcloud.com/stories/post/sound-advice-maribou-state
-- https://www.clashmusic.com/features/in-conversation-maribou-state/
-- https://finisterre.com/en-us/blogs/broadcast/in-conversation-with-maribou-state
+  - 'https://www.last.fm/music/Maribou+State/+wiki'
+  - 'https://metalmagazine.eu/en/post/maribou-state'
+  - 'https://ukf.com/read/essential-summer-sounds-maribou-state-portraits/'
+  - 'https://soundcloud.com/stories/post/sound-advice-maribou-state'
+  - 'https://www.clashmusic.com/features/in-conversation-maribou-state/'
+  - >-
+    https://finisterre.com/en-us/blogs/broadcast/in-conversation-with-maribou-state
 spotify_data:
   followers: 497928
   id: 7zrkALJ9ayRjzysp4QYoEg
   popularity: 66
-  url: https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg
+  url: 'https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg'
 status: active
 tags:
-- downtempo
-- electronic
-- electronic duo
+  - downtempo
+  - electronic
+  - electronic duo
 title: Maribou State
 ---
 

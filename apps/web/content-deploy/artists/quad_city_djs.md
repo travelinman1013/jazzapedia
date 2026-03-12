@@ -3,40 +3,41 @@ biography_enhanced_at: '2025-12-25T01:20:41.250953'
 enhancement_provider: perplexity
 entry_created: '2025-12-25T01:20:41.250967'
 external_urls:
-  spotify: https://open.spotify.com/artist/4mar1GMMEhvGyJdWagu6KS
-  wikipedia: https://en.wikipedia.org/wiki/Quad_City_DJ's
+  spotify: 'https://open.spotify.com/artist/4mar1GMMEhvGyJdWagu6KS'
+  wikipedia: 'https://en.wikipedia.org/wiki/Quad_City_DJ''s'
 genres:
-- miami bass
+  - miami bass
 image_path: 03_Resources/source_material/ArtistPortraits/quad_city_djs.jpg
 last_updated: '2025-12-25T01:20:41.250969'
 musical_connections:
   collaborators:
-  - JeLanna “Lana” LaFleur
-  - 95 South
-  - Dis‑n‑Dat
-  - 69 Boyz
-  - Tamara Wallace
-  - Tony WHOA! (Anthony Wallace II)
-  - David D.
+    - JeLanna “Lana” LaFleur
+    - 95 South
+    - Dis‑n‑Dat
+    - 69 Boyz
+    - Tamara Wallace
+    - Tony WHOA! (Anthony Wallace II)
+    - David D.
   influenced:
-  - Internet meme and mash‑up culture (various creators)
+    - Internet meme and mash‑up culture (various creators)
   mentors:
-  - Barry White
+    - Barry White
 network_extracted: true
-origin: Jacksonville, Florida, United States
+origin: 'Jacksonville, Florida, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Quad_City_DJ's
-- https://quadcitydjs.live/about
-- https://www.last.fm/music/Quad+City+DJ's/+wiki
-- https://simple.wikipedia.org/wiki/Quad_City_DJ%E2%80%99s
+  - 'https://en.wikipedia.org/wiki/Quad_City_DJ''s'
+  - 'https://quadcitydjs.live/about'
+  - 'https://www.last.fm/music/Quad+City+DJ''s/+wiki'
+  - 'https://simple.wikipedia.org/wiki/Quad_City_DJ%E2%80%99s'
 spotify_data:
   followers: 88398
   id: 4mar1GMMEhvGyJdWagu6KS
   popularity: 48
-  url: https://open.spotify.com/artist/4mar1GMMEhvGyJdWagu6KS
+  url: 'https://open.spotify.com/artist/4mar1GMMEhvGyJdWagu6KS'
 status: active
 title: Quad City DJ's
+artist_type: person
 ---
 
 ![](quad_city_djs.jpg)

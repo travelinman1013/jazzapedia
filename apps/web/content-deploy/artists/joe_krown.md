@@ -1,17 +1,21 @@
 ---
-title: joe krown
+title: Joe Krown
 wiki_slug: joe-krown
 schema_version: 2
 status: active
-birth_place: Baltimore, Maryland, United States (birthplace); Westbury, Long Island, New York (raised); New Orleans, Louisiana,
-  United States (primary residence and career base since 1992)
+birth_place: >-
+  Baltimore, Maryland, United States (birthplace); Westbury, Long Island, New
+  York (raised); New Orleans, Louisiana, United States (primary residence and
+  career base since 1992)
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/joe_krown.jpg
   caption: joe krown
   background: solo_singer
-  origin: Baltimore, Maryland, United States (birthplace); Westbury, Long Island, New York (raised); New Orleans, Louisiana,
-    United States (primary residence and career base since 1992)
+  origin: >-
+    Baltimore, Maryland, United States (birthplace); Westbury, Long Island, New
+    York (raised); New Orleans, Louisiana, United States (primary residence and
+    career base since 1992)
 audio_profile:
   tempo_avg: 123.8
   energy_avg: 0.634
@@ -27,51 +31,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Clarence "Gatemouth" Brown
-  - New Orleans Juice
-  - Brint Anderson
-  - Mike Barras
-  - Brent Rose
-  - Michael Skinkus
+    - Clarence "Gatemouth" Brown
+    - New Orleans Juice
+    - Brint Anderson
+    - Mike Barras
+    - Brent Rose
+    - Michael Skinkus
   influenced: []
   mentors:
-  - Professor Longhair
-  - James Booker
+    - Professor Longhair
+    - James Booker
 spotify_data:
   followers: 18319
   id: 7kahNN1zgjhLViJkX7retp
   popularity: 31
-  url: https://open.spotify.com/artist/7kahNN1zgjhLViJkX7retp
+  url: 'https://open.spotify.com/artist/7kahNN1zgjhLViJkX7retp'
 discography_enriched: true
 top_tracks:
-- I'll See You In My Dreams (The Ukulele Album)
-- A Picture of You (A Picture of You)
-- I'll See You In My Dreams - Live
-- Here Comes The Sun - Live
-- That's The Way It Goes - Live
-- That's What Love Will Do (British Rock 'n Roll 1958-1963)
-- Look At Me (The Strings That Tie Us Together)
-- Mr Blue Sky (The Ukulele Album)
-- A Picture Of You
-- It Only Took a Minute (British Rock 'n Roll 1958-1963)
+  - I'll See You In My Dreams (The Ukulele Album)
+  - A Picture of You (A Picture of You)
+  - I'll See You In My Dreams - Live
+  - Here Comes The Sun - Live
+  - That's The Way It Goes - Live
+  - That's What Love Will Do (British Rock 'n Roll 1958-1963)
+  - Look At Me (The Strings That Tie Us Together)
+  - Mr Blue Sky (The Ukulele Album)
+  - A Picture Of You
+  - It Only Took a Minute (British Rock 'n Roll 1958-1963)
 external_urls:
-  spotify: https://open.spotify.com/artist/7kahNN1zgjhLViJkX7retp
+  spotify: 'https://open.spotify.com/artist/7kahNN1zgjhLViJkX7retp'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/joe_krown.jpg
 biography_enhanced_at: '2025-12-04T08:00:49.482197'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- All About Jazz - Joe Krown Musician Profile
-- New Orleans.com - Joe Krown Listing
-- International Association of Jazz Organizations (IAJO) - The Jazz Organ Scene USA
-- Church of New Orleans Blog - Happy Birthday Joe Krown
-- Joe Krown Official Website - Offbeat
-- Joe Krown Official Website - Bio
-- Blues Blast Magazine - Featured Interview with Joe Krown
+  - All About Jazz - Joe Krown Musician Profile
+  - New Orleans.com - Joe Krown Listing
+  - >-
+    International Association of Jazz Organizations (IAJO) - The Jazz Organ
+    Scene USA
+  - Church of New Orleans Blog - Happy Birthday Joe Krown
+  - Joe Krown Official Website - Offbeat
+  - Joe Krown Official Website - Bio
+  - Blues Blast Magazine - Featured Interview with Joe Krown
 network_extracted: true
 entry_created: '2025-12-04T08:00:49.482208'
 last_updated: '2025-12-23T08:16:10.605125'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](joe_krown.jpg)

@@ -7,61 +7,63 @@ disambiguation: US singer-songwriter
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:12:21.631101'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/96fa47fc-6175-45c9-9686-7a3362671137
-  spotify: https://open.spotify.com/artist/3WUUtA45g7X0jbeywZz888
+  musicbrainz: 'https://musicbrainz.org/artist/96fa47fc-6175-45c9-9686-7a3362671137'
+  spotify: 'https://open.spotify.com/artist/3WUUtA45g7X0jbeywZz888'
   wikipedia: Not found in search results
 gender: Male
 genres:
-- modern blues
-- jam band
-- blues rock
+  - modern blues
+  - jam band
+  - blues rock
 image_path: 03_Resources/source_material/ArtistPortraits/anders_osborne.jpg
 instruments:
-- guitar
-- piano
-- background vocals
+  - guitar
+  - piano
+  - background vocals
 last_updated: '2026-01-22T07:12:21.631102'
 musical_connections:
   collaborators:
-  - Keb Mo
-  - Warren Haynes
-  - Derek Trucks
-  - Phil Lesh (The Grateful Dead)
-  - Steve Earle
-  - Ivan Neville
-  - Warren Riker
+    - Keb Mo
+    - Warren Haynes
+    - Derek Trucks
+    - Phil Lesh (The Grateful Dead)
+    - Steve Earle
+    - Ivan Neville
+    - Warren Riker
   influenced:
-  - Tim McGraw
-  - Brad Paisley
-  - Tab Benoit
-  - Jonny Lang
-  - Kim Carnes
-  - Aaron Neville
+    - Tim McGraw
+    - Brad Paisley
+    - Tab Benoit
+    - Jonny Lang
+    - Kim Carnes
+    - Aaron Neville
   mentors:
-  - Joni Mitchell
+    - Joni Mitchell
 musicbrainz_id: 96fa47fc-6175-45c9-9686-7a3362671137
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/Anders+Osborne/+wiki
-- https://www.alligator.com/artists/Anders-Osborne/
-- https://www.andersosborne.com/about
-- https://www.nysbluesfest.com/artist-profile-anders-osborne/
-- https://antigravitymagazine.com/feature/breaking-the-fence-with-anders-osborne/
-- https://www.neworleans.com/listing/anders-osborne/47805/
-- https://www.jango.com/music/Anders+Osborne/_full_bio
-- https://justapedia.org/wiki/Anders_Osborne
+  - 'https://www.last.fm/music/Anders+Osborne/+wiki'
+  - 'https://www.alligator.com/artists/Anders-Osborne/'
+  - 'https://www.andersosborne.com/about'
+  - 'https://www.nysbluesfest.com/artist-profile-anders-osborne/'
+  - >-
+    https://antigravitymagazine.com/feature/breaking-the-fence-with-anders-osborne/
+  - 'https://www.neworleans.com/listing/anders-osborne/47805/'
+  - 'https://www.jango.com/music/Anders+Osborne/_full_bio'
+  - 'https://justapedia.org/wiki/Anders_Osborne'
 spotify_data:
   followers: 66323
   id: 3WUUtA45g7X0jbeywZz888
   popularity: 42
-  url: https://open.spotify.com/artist/3WUUtA45g7X0jbeywZz888
+  url: 'https://open.spotify.com/artist/3WUUtA45g7X0jbeywZz888'
 status: active
 tags:
-- blues
-- rhythm and blues
-- rock
+  - blues
+  - rhythm and blues
+  - rock
 title: Anders Osborne
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](anders_osborne.jpg)

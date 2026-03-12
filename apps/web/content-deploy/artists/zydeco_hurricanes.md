@@ -4,8 +4,8 @@ wiki_slug: zydeco-hurricanes
 schema_version: 2
 status: active
 genres:
-- zydeco
-- cajun
+  - zydeco
+  - cajun
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/zydeco_hurricanes.jpg
   caption: Zydeco Hurricanes
@@ -31,21 +31,21 @@ spotify_data:
   followers: 434
   id: 77NIxWuTBewKxMCtAhiYx8
   popularity: 1
-  url: https://open.spotify.com/artist/77NIxWuTBewKxMCtAhiYx8
+  url: 'https://open.spotify.com/artist/77NIxWuTBewKxMCtAhiYx8'
 discography_enriched: true
 top_tracks:
-- 'Midnight Mood (Best of Cajun / Zydeco: Super Cajun!)'
-- Going Back To Big Mamou (Best of Zydeco)
-- I'm Coming Home (Best of Zydeco)
-- Midnight Mood (Louisiana Zydeco!)
-- Hot Tamale Baby (Best of Zydeco)
-- Big Mamou (Louisiana Zydeco!)
-- I'm Coming Home (Louisiana Zydeco!)
-- Tante Na Na (Louisiana Zydeco!)
-- Life Must Go On (Louisiana Zydeco!)
-- The Night Time Is the Right Time (Louisiana Zydeco!)
+  - 'Midnight Mood (Best of Cajun / Zydeco: Super Cajun!)'
+  - Going Back To Big Mamou (Best of Zydeco)
+  - I'm Coming Home (Best of Zydeco)
+  - Midnight Mood (Louisiana Zydeco!)
+  - Hot Tamale Baby (Best of Zydeco)
+  - Big Mamou (Louisiana Zydeco!)
+  - I'm Coming Home (Louisiana Zydeco!)
+  - Tante Na Na (Louisiana Zydeco!)
+  - Life Must Go On (Louisiana Zydeco!)
+  - The Night Time Is the Right Time (Louisiana Zydeco!)
 external_urls:
-  spotify: https://open.spotify.com/artist/77NIxWuTBewKxMCtAhiYx8
+  spotify: 'https://open.spotify.com/artist/77NIxWuTBewKxMCtAhiYx8'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/zydeco_hurricanes.jpg
 biography_enhanced_at: '2025-12-04T08:11:34.472074'
@@ -55,6 +55,8 @@ research_sources: []
 network_extracted: true
 entry_created: '2025-12-04T08:11:34.472083'
 last_updated: '2025-12-23T08:16:18.490707'
+origin: Unknown
+artist_type: band
 ---
 
 ![](zydeco_hurricanes.jpg)

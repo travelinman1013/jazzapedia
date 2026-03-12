@@ -2,16 +2,16 @@
 title: Fatback
 wiki_slug: fatback
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1970'
 genres:
-- post-disco
-- jazz funk
+  - post-disco
+  - jazz funk
 instruments:
-- saxophone
-- lead vocals
-- trumpet
+  - saxophone
+  - lead vocals
+  - trumpet
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/fatback.jpg
   caption: Fatback
@@ -32,130 +32,129 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Johnny King
-  - Johnny Flippin
-  - Gerry Thomas
-  - Linda Blakely
-  - Wild Sugar
+    - Johnny King
+    - Johnny Flippin
+    - Gerry Thomas
+    - Linda Blakely
+    - Wild Sugar
   influenced:
-  - Beastie Boys
-  - Hip-hop artists
+    - Beastie Boys
+    - Hip-hop artists
   mentors:
-  - Bill Doggett
-  - King Curtis
+    - Bill Doggett
+    - King Curtis
 spotify_data:
   followers: 146641
   id: 6PWU6JQvvYv5sz5FOODHg6
   popularity: 42
-  url: https://open.spotify.com/artist/6PWU6JQvvYv5sz5FOODHg6
+  url: 'https://open.spotify.com/artist/6PWU6JQvvYv5sz5FOODHg6'
 discography_enriched: true
 top_tracks:
-- I Found Lovin' (With Love)
-- Backstrokin' (Hustle! The Ultimate Fatback)
-- Backstrokin' (Hot Box)
-- Yum Yum (Gimme Some) (Yum Yum)
-- Gotta Learn How to Dance (Yum Yum)
-- Snake (Joaquin 'Joe' Claussell's Sacred Rhythm Version Edit)
-- (Are You Ready) Do the Bus Stop (Hustle! The Ultimate Fatback)
-- Wicky Wacky (Keep on Steppin')
-- Mister Bass Man (Keep on Steppin')
-- Let the Drums Speak (Yum Yum)
+  - I Found Lovin' (With Love)
+  - Backstrokin' (Hustle! The Ultimate Fatback)
+  - Backstrokin' (Hot Box)
+  - Yum Yum (Gimme Some) (Yum Yum)
+  - Gotta Learn How to Dance (Yum Yum)
+  - Snake (Joaquin 'Joe' Claussell's Sacred Rhythm Version Edit)
+  - (Are You Ready) Do the Bus Stop (Hustle! The Ultimate Fatback)
+  - Wicky Wacky (Keep on Steppin')
+  - Mister Bass Man (Keep on Steppin')
+  - Let the Drums Speak (Yum Yum)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a7290418-82e2-4016-abf4-3fd3e7db926f
-  spotify: https://open.spotify.com/artist/6PWU6JQvvYv5sz5FOODHg6
-  wikipedia: https://en.wikipedia.org/wiki/Fatback_Band
+  musicbrainz: 'https://musicbrainz.org/artist/a7290418-82e2-4016-abf4-3fd3e7db926f'
+  spotify: 'https://open.spotify.com/artist/6PWU6JQvvYv5sz5FOODHg6'
+  wikipedia: 'https://en.wikipedia.org/wiki/Fatback_Band'
 image_path: 03_Resources/source_material/ArtistPortraits/fatback.jpg
 biography_enhanced_at: '2025-11-23T06:36:16.722553'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Fatback_Band
-- https://northcarolinamusichalloffame.org/inductee-item/bill-fatback-curtis/
-- https://www.last.fm/music/Fatback+Band/+wiki
-- http://www.fatbackband.com/band.html
-- https://acerecords.co.uk/features/artist-profiles/fatback
+  - 'https://en.wikipedia.org/wiki/Fatback_Band'
+  - 'https://northcarolinamusichalloffame.org/inductee-item/bill-fatback-curtis/'
+  - 'https://www.last.fm/music/Fatback+Band/+wiki'
+  - 'http://www.fatbackband.com/band.html'
+  - 'https://acerecords.co.uk/features/artist-profiles/fatback'
 network_extracted: true
 entry_created: '2025-11-23T06:36:16.722564'
 last_updated: '2025-12-23T08:16:08.583338'
 disambiguation: previously Fatback Band
 members:
-- begin: '1970'
-  end: '1979'
-  instruments:
-  - saxophone
-  mbid: 535fddf6-5203-409d-be24-ff4aeb7eb5fd
-  name: Earl Shelton
-- begin: '1977'
-  end: '1977'
-  instruments:
-  - saxophone
-  mbid: 44334105-cbef-4527-943a-243f285847fc
-  name: Fred Demery
-- begin: '1979'
-  end: '1981'
-  instruments:
-  - saxophone
-  mbid: 44334105-cbef-4527-943a-243f285847fc
-  name: Fred Demery
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 818b5250-6983-4751-964d-b4adae27fb10
-  name: Deborah Cooper
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b6b0239c-ad51-42f2-a037-fdeadd3280c7
-  name: Bill Curtis
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2b1b1684-9ef9-416e-aa3e-622c0a65eff4
-  name: Robert Damper
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ac349cde-ed4e-46c1-b964-ee7c5ed95e8d
-  name: Johnny Flippin
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 95265764-72bd-4ae1-ae1a-6ae3078f2b01
-  name: Johnny King
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 68430e36-5f32-4e6a-b89c-cef750c9703e
-  name: Gerry Thomas
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 09709b0e-7430-40df-9eb5-bf4793216cc2
-  name: George Victory
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: c4caeafb-4806-4dfe-9d0e-8d2994d71297
-  name: Michael Walker
-- begin: ''
-  end: ''
-  instruments:
-  - trumpet
-  mbid: d5c9f398-cba0-472f-9f6e-0302edf6b682
-  name: George Williams
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f421685a-62fe-4f27-974d-d0d19031f759
-  name: Ed Jackson
+  - begin: '1970'
+    end: '1979'
+    instruments:
+      - saxophone
+    mbid: 535fddf6-5203-409d-be24-ff4aeb7eb5fd
+    name: Earl Shelton
+  - begin: '1977'
+    end: '1977'
+    instruments:
+      - saxophone
+    mbid: 44334105-cbef-4527-943a-243f285847fc
+    name: Fred Demery
+  - begin: '1979'
+    end: '1981'
+    instruments:
+      - saxophone
+    mbid: 44334105-cbef-4527-943a-243f285847fc
+    name: Fred Demery
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 818b5250-6983-4751-964d-b4adae27fb10
+    name: Deborah Cooper
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b6b0239c-ad51-42f2-a037-fdeadd3280c7
+    name: Bill Curtis
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2b1b1684-9ef9-416e-aa3e-622c0a65eff4
+    name: Robert Damper
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ac349cde-ed4e-46c1-b964-ee7c5ed95e8d
+    name: Johnny Flippin
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 95265764-72bd-4ae1-ae1a-6ae3078f2b01
+    name: Johnny King
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 68430e36-5f32-4e6a-b89c-cef750c9703e
+    name: Gerry Thomas
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 09709b0e-7430-40df-9eb5-bf4793216cc2
+    name: George Victory
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: c4caeafb-4806-4dfe-9d0e-8d2994d71297
+    name: Michael Walker
+  - begin: ''
+    end: ''
+    instruments:
+      - trumpet
+    mbid: d5c9f398-cba0-472f-9f6e-0302edf6b682
+    name: George Williams
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f421685a-62fe-4f27-974d-d0d19031f759
+    name: Ed Jackson
 musicbrainz_id: a7290418-82e2-4016-abf4-3fd3e7db926f
-origin: Fayetteville
+origin: 'Fayetteville, North Carolina, United States'
 tags:
-- classic pop and rock
-- disco
-- disco rap
-
+  - classic pop and rock
+  - disco
+  - disco rap
 ---
 
 ![](fatback.jpg)

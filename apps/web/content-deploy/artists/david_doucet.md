@@ -1,17 +1,17 @@
 ---
-title: david doucet
+title: David Doucet
 wiki_slug: david-doucet
 schema_version: 2
 status: active
-birth_place: Lafayette, Louisiana, USA
+birth_place: 'Lafayette, Louisiana, USA'
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/david_doucet.jpg
   caption: david doucet
   background: solo_singer
-  origin: Lafayette, Louisiana, USA
+  origin: 'Lafayette, Louisiana, USA'
 audio_profile:
   tempo_avg: 112.6
   energy_avg: 0.521
@@ -27,48 +27,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Michael Doucet
-  - BeauSoleil (band members)
+    - Michael Doucet
+    - BeauSoleil (band members)
   influenced:
-  - Younger Cajun guitarists
+    - Younger Cajun guitarists
   mentors:
-  - Michael Doucet
-  - Doc Watson
-  - Mississippi John Hurt
+    - Michael Doucet
+    - Doc Watson
+    - Mississippi John Hurt
 spotify_data:
   followers: 378
   id: 3Da3nbht0VJScoBAH1n3WF
   popularity: 2
-  url: https://open.spotify.com/artist/3Da3nbht0VJScoBAH1n3WF
+  url: 'https://open.spotify.com/artist/3Da3nbht0VJScoBAH1n3WF'
 discography_enriched: true
 top_tracks:
-- 'Je M''endors (Version 2) (Je M''endors: Cajun and Créole Lullabies)'
-- T'En As Eu (Quand J'ai Parti)
-- Balfa Waltz (Quand J'ai Parti)
-- 'Bosco Stomp (A New Orleans Visit: Before Katrina)'
-- Over the Waves (Visits New Orleans)
-- Mobile Stomp (Visits New Orleans)
-- Zydeco Sont Pas Salés (Quand J'ai Parti)
-- 'Lake Arthur Stomp (1957: Solo Cajun Guitar)'
-- 'J''ai Fait Une Grosse Erreur (1957: Solo Cajun Guitar)'
-- 'Cajun Waltz (1957: Solo Cajun Guitar)'
+  - 'Je M''endors (Version 2) (Je M''endors: Cajun and Créole Lullabies)'
+  - T'En As Eu (Quand J'ai Parti)
+  - Balfa Waltz (Quand J'ai Parti)
+  - 'Bosco Stomp (A New Orleans Visit: Before Katrina)'
+  - Over the Waves (Visits New Orleans)
+  - Mobile Stomp (Visits New Orleans)
+  - Zydeco Sont Pas Salés (Quand J'ai Parti)
+  - 'Lake Arthur Stomp (1957: Solo Cajun Guitar)'
+  - 'J''ai Fait Une Grosse Erreur (1957: Solo Cajun Guitar)'
+  - 'Cajun Waltz (1957: Solo Cajun Guitar)'
 external_urls:
-  spotify: https://open.spotify.com/artist/3Da3nbht0VJScoBAH1n3WF
+  spotify: 'https://open.spotify.com/artist/3Da3nbht0VJScoBAH1n3WF'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/david_doucet.jpg
 biography_enhanced_at: '2025-11-14T11:03:09.763694'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.namm.org/library/oral-history/david-doucet
-- https://bluenotes.thewhirlybird.com/notable-cajun-creole-musicians/
-- https://www.last.fm/music/David+Doucet/+wiki
-- https://www.allmusic.com/artist/david-doucet-mn0000647935
-- https://www.wwno.org/show/american-routes/2020-10-09/american-routes-shortcuts-the-doucet-brothers
-- https://www.wwoz.org/acts/david-doucet
+  - 'https://www.namm.org/library/oral-history/david-doucet'
+  - 'https://bluenotes.thewhirlybird.com/notable-cajun-creole-musicians/'
+  - 'https://www.last.fm/music/David+Doucet/+wiki'
+  - 'https://www.allmusic.com/artist/david-doucet-mn0000647935'
+  - >-
+    https://www.wwno.org/show/american-routes/2020-10-09/american-routes-shortcuts-the-doucet-brothers
+  - 'https://www.wwoz.org/acts/david-doucet'
 network_extracted: true
 entry_created: '2025-11-14T11:03:09.763701'
 last_updated: '2025-12-23T08:16:07.544817'
+origin: 'Lafayette, Louisiana, United States'
+birth_date: '1957-07-06'
+artist_type: person
 ---
 
 ![](david_doucet.jpg)

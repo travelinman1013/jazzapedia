@@ -23,48 +23,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Claire Givens
-  - Jeremy Phipps
-  - Aaron Boudreaux
-  - Charles Lumar II
+    - Claire Givens
+    - Jeremy Phipps
+    - Aaron Boudreaux
+    - Charles Lumar II
   influenced: []
   mentors:
-  - New Orleans musical tradition
+    - New Orleans musical tradition
 spotify_data:
   followers: 3169
   id: 3av11PJ8Vn3kWtvJQ7QIzq
   popularity: 9
-  url: https://open.spotify.com/artist/3av11PJ8Vn3kWtvJQ7QIzq
+  url: 'https://open.spotify.com/artist/3av11PJ8Vn3kWtvJQ7QIzq'
 discography_enriched: true
 top_tracks:
-- Ice (I Could Only See Night)
-- Sleep (I Could Only See Night)
-- Saturn Rings (Relic)
-- All I Need (Live From Marigny Opera House) (All I Need (Live From Marigny Opera House))
-- Magnolias Meet Me (Magnolias Meet Me)
-- Saturn Rings (Saturn Rings)
-- Relic (Relic)
-- A Weight Gets Lighter/Magnolias Meet Me - Live From Marigny Opera House (Live From Marigny Opera House)
-- Time (Time)
-- Back To Myself (Relic)
+  - Ice (I Could Only See Night)
+  - Sleep (I Could Only See Night)
+  - Saturn Rings (Relic)
+  - >-
+    All I Need (Live From Marigny Opera House) (All I Need (Live From Marigny
+    Opera House))
+  - Magnolias Meet Me (Magnolias Meet Me)
+  - Saturn Rings (Saturn Rings)
+  - Relic (Relic)
+  - >-
+    A Weight Gets Lighter/Magnolias Meet Me - Live From Marigny Opera House
+    (Live From Marigny Opera House)
+  - Time (Time)
+  - Back To Myself (Relic)
 external_urls:
-  spotify: https://open.spotify.com/artist/3av11PJ8Vn3kWtvJQ7QIzq
+  spotify: 'https://open.spotify.com/artist/3av11PJ8Vn3kWtvJQ7QIzq'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/people_museum.jpg
 biography_enhanced_at: '2025-11-21T07:16:17.643629'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://noma.org/learn/creative-assembly/people-museum/
-- https://antigravitymagazine.com/feature/people-museum-shakes-off-the-ice/
-- https://www.btdfoundation.org/people-museum/
-- https://www.neworleans.com/listing/people-museum/47750/
-- https://www.peoplemuseumband.com
-- https://www.youtube.com/watch?v=U8jrHJzlUw0
+  - 'https://noma.org/learn/creative-assembly/people-museum/'
+  - 'https://antigravitymagazine.com/feature/people-museum-shakes-off-the-ice/'
+  - 'https://www.btdfoundation.org/people-museum/'
+  - 'https://www.neworleans.com/listing/people-museum/47750/'
+  - 'https://www.peoplemuseumband.com'
+  - 'https://www.youtube.com/watch?v=U8jrHJzlUw0'
 network_extracted: true
 entry_created: '2025-11-21T07:16:17.643636'
 last_updated: '2025-12-23T08:16:14.183305'
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![](people_museum.jpg)

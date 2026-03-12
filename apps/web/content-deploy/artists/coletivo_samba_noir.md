@@ -4,7 +4,7 @@ wiki_slug: coletivo-samba-noir
 schema_version: 2
 status: active
 genres:
-- nova mpb
+  - nova mpb
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/coletivo_samba_noir.jpg
   caption: Coletivo Samba Noir
@@ -16,7 +16,7 @@ audio_profile:
   danceability_avg: 0.669
   acousticness_avg: 0.12
   instrumentalness_avg: 0.091
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.037
   liveness_avg: 0.185
   track_count: 10
@@ -24,41 +24,42 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Katia B (Katia Bronstein)
-  - Luís Filipe de Lima
+    - Katia B (Katia Bronstein)
+    - Luís Filipe de Lima
   influenced: []
   mentors: []
 spotify_data:
   followers: 234
   id: 0EsLM00vC7yGiSwrKsgiIu
   popularity: 1
-  url: https://open.spotify.com/artist/0EsLM00vC7yGiSwrKsgiIu
+  url: 'https://open.spotify.com/artist/0EsLM00vC7yGiSwrKsgiIu'
 discography_enriched: true
 top_tracks:
-- Aves Daninhas (Samba Noir)
-- Imitação (Samba Noir)
-- Meu Mundo É Hoje (feat. Arto Lindsay) (Samba Noir)
-- Só Deixo Meu Coração Na Mão de Quem Pode (Samba Noir)
-- Chove Lá Fora (Samba Noir)
-- Ninguém Me Ama (Samba Noir)
-- Tão Só (Samba Noir)
-- Risque (feat. Egberto Gismonti) (Samba Noir)
-- Pra Que Mentir? (feat. Carlos Malta) (Samba Noir)
-- Volta (feat. Jards Macalé) (Samba Noir)
+  - Aves Daninhas (Samba Noir)
+  - Imitação (Samba Noir)
+  - Meu Mundo É Hoje (feat. Arto Lindsay) (Samba Noir)
+  - Só Deixo Meu Coração Na Mão de Quem Pode (Samba Noir)
+  - Chove Lá Fora (Samba Noir)
+  - Ninguém Me Ama (Samba Noir)
+  - Tão Só (Samba Noir)
+  - Risque (feat. Egberto Gismonti) (Samba Noir)
+  - Pra Que Mentir? (feat. Carlos Malta) (Samba Noir)
+  - Volta (feat. Jards Macalé) (Samba Noir)
 external_urls:
-  spotify: https://open.spotify.com/artist/0EsLM00vC7yGiSwrKsgiIu
+  spotify: 'https://open.spotify.com/artist/0EsLM00vC7yGiSwrKsgiIu'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/coletivo_samba_noir.jpg
 biography_enhanced_at: '2025-12-14T01:47:40.096314'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- SecondHandSongs artist entry for Coletivo Samba Noir[4]
-- Música Brasileira profile on Coletivo Samba Noir[6]
+  - 'SecondHandSongs artist entry for Coletivo Samba Noir[4]'
+  - 'Música Brasileira profile on Coletivo Samba Noir[6]'
 network_extracted: true
 entry_created: '2025-12-14T01:47:40.096333'
 last_updated: '2025-12-23T08:16:07.150172'
-origin: Rio de Janeiro, Rio de Janeiro, Brazil
+origin: 'Rio de Janeiro, Rio de Janeiro, Brazil'
+artist_type: person
 ---
 
 ![](coletivo_samba_noir.jpg)

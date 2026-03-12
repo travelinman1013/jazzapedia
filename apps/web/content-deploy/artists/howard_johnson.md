@@ -1,16 +1,16 @@
 ---
-title: HOWARD JOHNSON
+title: Howard Johnson
 wiki_slug: howard-johnson
 schema_version: 2
 status: active
-birth_place: Miami, Florida, United States
+birth_place: 'Miami, Florida, United States'
 genres:
-- post-disco
+  - post-disco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/howard_johnson.jpg
   caption: HOWARD JOHNSON
   background: solo_singer
-  origin: Miami, Florida, United States
+  origin: 'Miami, Florida, United States'
 audio_profile:
   tempo_avg: 114.7
   energy_avg: 0.597
@@ -26,49 +26,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kashif
-  - Paul Laurence Jones
-  - Morris Brown
-  - The System
-  - Jimmy Jam and Terry Lewis
-  - Donna Allen
-  - Regis Branson
+    - Kashif
+    - Paul Laurence Jones
+    - Morris Brown
+    - The System
+    - Jimmy Jam and Terry Lewis
+    - Donna Allen
+    - Regis Branson
   influenced: []
   mentors:
-  - Sandy Torano
+    - Sandy Torano
 spotify_data:
   followers: 9050
   id: 5xjBgBjhDWBFp76766plIt
   popularity: 30
-  url: https://open.spotify.com/artist/5xjBgBjhDWBFp76766plIt
+  url: 'https://open.spotify.com/artist/5xjBgBjhDWBFp76766plIt'
 discography_enriched: true
 top_tracks:
-- So Fine (Keepin' Love New)
-- Keepin' Love New (Keepin' Love New)
-- Say You Wanna (Keepin' Love New)
-- So Fine
-- Take Me Through The Night (Keepin' Love New)
-- I Get Around - Remix (Strictly 4 My N.I.G.G.A.Z... (Expanded Edition))
-- So Glad You're My Lady (Keepin' Love New)
-- You Do You (2 Steps Away)
-- Jump Into Fire - Remastered (Doin' It My Way (Expanded Edition))
-- Jam Song (Keepin' Love New)
+  - So Fine (Keepin' Love New)
+  - Keepin' Love New (Keepin' Love New)
+  - Say You Wanna (Keepin' Love New)
+  - So Fine
+  - Take Me Through The Night (Keepin' Love New)
+  - I Get Around - Remix (Strictly 4 My N.I.G.G.A.Z... (Expanded Edition))
+  - So Glad You're My Lady (Keepin' Love New)
+  - You Do You (2 Steps Away)
+  - Jump Into Fire - Remastered (Doin' It My Way (Expanded Edition))
+  - Jam Song (Keepin' Love New)
 external_urls:
-  spotify: https://open.spotify.com/artist/5xjBgBjhDWBFp76766plIt
-  wikipedia: https://en.wikipedia.org/wiki/Howard_Johnson_(soul_singer)
+  spotify: 'https://open.spotify.com/artist/5xjBgBjhDWBFp76766plIt'
+  wikipedia: 'https://en.wikipedia.org/wiki/Howard_Johnson_(soul_singer)'
 image_path: 03_Resources/source_material/ArtistPortraits/howard_johnson.jpg
 biography_enhanced_at: '2025-10-31T08:08:06.040831'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Howard_Johnson_(soul_singer)
-- https://wbssmedia.com/artists/detail/2980
-- https://artesia-pro.com/artists/howard-johnson/
-- https://app.soulyears.com/artist-Howard+Johnson.htm
+  - 'https://en.wikipedia.org/wiki/Howard_Johnson_(soul_singer)'
+  - 'https://wbssmedia.com/artists/detail/2980'
+  - 'https://artesia-pro.com/artists/howard-johnson/'
+  - 'https://app.soulyears.com/artist-Howard+Johnson.htm'
 network_extracted: true
 entry_created: '2025-10-31T08:08:06.040850'
 last_updated: '2025-12-23T08:16:09.714148'
-
+birth_date: '1956-11-28'
+artist_type: person
 ---
 
 ![](howard_johnson.jpg)

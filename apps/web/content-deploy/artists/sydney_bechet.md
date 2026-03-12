@@ -1,48 +1,51 @@
 ---
 biography_enhanced_at: '2026-01-04T01:53:50.917551'
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-04T01:53:50.917556'
 external_urls:
-  spotify: https://open.spotify.com/artist/1RsmXc1ZqW3WBs9iwxiSwk
-  wikipedia: https://en.wikipedia.org/wiki/Sidney_Bechet
+  spotify: 'https://open.spotify.com/artist/1RsmXc1ZqW3WBs9iwxiSwk'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sidney_Bechet'
 genres:
-- jazz
-- swing music
-- ragtime
+  - jazz
+  - swing music
+  - ragtime
 image_path: 03_Resources/source_material/ArtistPortraits/sydney_bechet.jpg
 last_updated: '2026-01-04T01:53:50.917557'
 musical_connections:
   collaborators:
-  - King Oliver
-  - Louis Armstrong
-  - Duke Ellington
-  - Will Marion Cook
-  - Clarence Williams
-  - Willie 'The Lion' Smith
+    - King Oliver
+    - Louis Armstrong
+    - Duke Ellington
+    - Will Marion Cook
+    - Clarence Williams
+    - Willie 'The Lion' Smith
   influenced:
-  - Duke Ellington
-  - Soprano saxophonists generally
+    - Duke Ellington
+    - Soprano saxophonists generally
   mentors:
-  - George Baquet
-  - Lorenzo Tio, Jr.
-  - Bunk Johnson
+    - George Baquet
+    - 'Lorenzo Tio, Jr.'
+    - Bunk Johnson
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Sidney_Bechet
-- https://www.jazz24.org/2007-07-18/sidney-bechet-soprano-sax-king
-- https://www.allaboutjazz.com/musicians/sidney-bechet/
-- https://blackpast.org/african-american-history/bechet-sidney-1897-1959/
-- https://www.culturalequity.org/alan-lomax/friends/bechet
-- https://www.nps.gov/jazz/learn/historyculture/bechet.htm
+  - 'https://en.wikipedia.org/wiki/Sidney_Bechet'
+  - 'https://www.jazz24.org/2007-07-18/sidney-bechet-soprano-sax-king'
+  - 'https://www.allaboutjazz.com/musicians/sidney-bechet/'
+  - 'https://blackpast.org/african-american-history/bechet-sidney-1897-1959/'
+  - 'https://www.culturalequity.org/alan-lomax/friends/bechet'
+  - 'https://www.nps.gov/jazz/learn/historyculture/bechet.htm'
 spotify_data:
   followers: 144862
   id: 1RsmXc1ZqW3WBs9iwxiSwk
   popularity: 47
-  url: https://open.spotify.com/artist/1RsmXc1ZqW3WBs9iwxiSwk
+  url: 'https://open.spotify.com/artist/1RsmXc1ZqW3WBs9iwxiSwk'
 status: active
-title: sydney bechet
+title: Sidney Bechet
+birth_date: '1897-05-14'
+death_date: '1959-05-14'
+artist_type: person
 ---
 
 ![](sydney_bechet.jpg)

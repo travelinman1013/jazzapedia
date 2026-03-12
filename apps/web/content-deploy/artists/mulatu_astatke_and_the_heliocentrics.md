@@ -1,18 +1,19 @@
 ---
-title: mulatu astatke & the heliocentrics
+title: Mulatu Astatke & the Heliocentrics
 wiki_slug: mulatu-astatke-the-heliocentrics
 schema_version: 2
 status: active
-birth_place: Jimma, Ethiopia
+birth_place: 'Jimma, Ethiopia, United States'
 genres:
-- ethiopian jazz
+  - ethiopian jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/mulatu_astatke_and_the_heliocentrics.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/mulatu_astatke_and_the_heliocentrics.jpg
   caption: mulatu astatke & the heliocentrics
   background: solo_singer
-  origin: Jimma, Ethiopia
+  origin: 'Jimma, Ethiopia'
 audio_profile:
-  tempo_avg: 119.0
+  tempo_avg: 119
   energy_avg: 0.532
   valence_avg: 0.627
   danceability_avg: 0.562
@@ -26,50 +27,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mahmoud Ahmed
-  - Duke Ellington
-  - Hugh Masekela
-  - Fela Kuti
-  - Bennie Maupin, Azar Lawrence, Phil Ranelin
+    - Mahmoud Ahmed
+    - Duke Ellington
+    - Hugh Masekela
+    - Fela Kuti
+    - 'Bennie Maupin, Azar Lawrence, Phil Ranelin'
   influenced:
-  - The Heliocentrics
+    - The Heliocentrics
   mentors:
-  - Schillinger School (later Berklee)
+    - Schillinger School (later Berklee)
 spotify_data:
   followers: 302297
   id: 7HGFXtBhRq3g1Ma3nH4Rgv
   popularity: 53
-  url: https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv
+  url: 'https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv'
 discography_enriched: true
 top_tracks:
-- 'Tezeta (New York - Addis - London: The Story of Ethio Jazz 1965-1975)'
-- 'Yègellé Tezeta (New York - Addis - London: The Story of Ethio Jazz 1965-1975)'
-- Tezeta (Nostalgia)
-- 'Yèkèrmo Sèw (New York - Addis - London: The Story of Ethio Jazz 1965-1975)'
-- Mascaram Setaba - Stereo Master (Mulatu Of Ethiopia)
-- 'Ené Alantchie Alnorem (New York - Addis - London: The Story of Ethio Jazz 1965-1975)'
-- Kasalefkut-hulu - Stereo Master (Mulatu Of Ethiopia)
-- Cha Cha (Inspiration Information 3)
-- Munayé (My Muna)
-- 'Emnete (New York - Addis - London: The Story of Ethio Jazz 1965-1975)'
+  - 'Tezeta (New York - Addis - London: The Story of Ethio Jazz 1965-1975)'
+  - >-
+    Yègellé Tezeta (New York - Addis - London: The Story of Ethio Jazz
+    1965-1975)
+  - Tezeta (Nostalgia)
+  - 'Yèkèrmo Sèw (New York - Addis - London: The Story of Ethio Jazz 1965-1975)'
+  - Mascaram Setaba - Stereo Master (Mulatu Of Ethiopia)
+  - >-
+    Ené Alantchie Alnorem (New York - Addis - London: The Story of Ethio Jazz
+    1965-1975)
+  - Kasalefkut-hulu - Stereo Master (Mulatu Of Ethiopia)
+  - Cha Cha (Inspiration Information 3)
+  - Munayé (My Muna)
+  - 'Emnete (New York - Addis - London: The Story of Ethio Jazz 1965-1975)'
 external_urls:
-  spotify: https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv
-  wikipedia: https://en.wikipedia.org/wiki/Mulatu_Astatke
-image_path: 03_Resources/source_material/ArtistPortraits/mulatu_astatke_and_the_heliocentrics.jpg
+  spotify: 'https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mulatu_Astatke'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/mulatu_astatke_and_the_heliocentrics.jpg
 biography_enhanced_at: '2025-12-21T01:28:34.124407'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://africasacountry.com/2013/10/mulatu-astatkes-sketches-of-ethiopia
-- https://www.last.fm/music/Mulatu+Astatke/+wiki
-- https://www.radcliffe.harvard.edu/people/mulatu-astatke
-- https://www.redbullmusicacademy.com/lectures/mulatu-astatke-ethiopian-knight/
-- https://www.allaboutjazz.com/musicians/mulatu-astatke/
-- https://en.wikipedia.org/wiki/Mulatu_Astatke
-- https://www.songlines.co.uk/artists/mulatu-astatke
+  - 'https://africasacountry.com/2013/10/mulatu-astatkes-sketches-of-ethiopia'
+  - 'https://www.last.fm/music/Mulatu+Astatke/+wiki'
+  - 'https://www.radcliffe.harvard.edu/people/mulatu-astatke'
+  - >-
+    https://www.redbullmusicacademy.com/lectures/mulatu-astatke-ethiopian-knight/
+  - 'https://www.allaboutjazz.com/musicians/mulatu-astatke/'
+  - 'https://en.wikipedia.org/wiki/Mulatu_Astatke'
+  - 'https://www.songlines.co.uk/artists/mulatu-astatke'
 network_extracted: true
 entry_created: '2025-12-21T01:28:34.124412'
 last_updated: '2025-12-23T08:16:13.366199'
+birth_date: '1943-12-19'
+artist_type: person
 ---
 
 ![](mulatu_astatke_and_the_heliocentrics.jpg)

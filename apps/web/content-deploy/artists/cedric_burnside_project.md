@@ -1,46 +1,51 @@
 ---
 biography_enhanced_at: '2025-12-26T01:28:50.740478'
-birth_place: Memphis, Tennessee, United States (born); North Mississippi (Marshall and Benton Counties), United States (raised)
+birth_place: >-
+  Memphis, Tennessee, United States (born); North Mississippi (Marshall and
+  Benton Counties), United States (raised)
 enhancement_provider: perplexity
 entry_created: '2025-12-26T01:28:50.740489'
 external_urls:
-  spotify: https://open.spotify.com/artist/0U8rq1DeTRYsLCHFm8aB0W
-  wikipedia: https://en.wikipedia.org/wiki/Cedric_Burnside
+  spotify: 'https://open.spotify.com/artist/0U8rq1DeTRYsLCHFm8aB0W'
+  wikipedia: 'https://en.wikipedia.org/wiki/Cedric_Burnside'
 genres:
-- country blues
-- modern blues
-- blues
+  - country blues
+  - modern blues
+  - blues
 image_path: 03_Resources/source_material/ArtistPortraits/cedric_burnside_project.jpg
 last_updated: '2025-12-26T01:28:50.740491'
 musical_connections:
   collaborators:
-  - Lightnin' Malcolm
-  - Garry Burnside
-  - Trenton Ayers
-  - Luther Dickinson
-  - Bernard Allison
+    - Lightnin' Malcolm
+    - Garry Burnside
+    - Trenton Ayers
+    - Luther Dickinson
+    - Bernard Allison
   influenced:
-  - Next generation Hill Country blues artists
+    - Next generation Hill Country blues artists
   mentors:
-  - R.L. Burnside
-  - Calvin Jackson
+    - R.L. Burnside
+    - Calvin Jackson
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Cedric_Burnside
-- https://www.arts.gov/honors/heritage/cedric-burnside
-- https://nelsonvillefest.org/artist/cedric-burnside/
-- https://www.cedricburnside.net/aboutcedric
-- https://www.laphil.com/musicdb/artists/8480/cedric-burnside
-- https://pryorcenter.uark.edu/interview.php?thisProject=King+Biscuit+Blues+Festival&thisProfileURL=BURNSIDE-Cedric&displayName=&thisInterviewee=488
+  - 'https://en.wikipedia.org/wiki/Cedric_Burnside'
+  - 'https://www.arts.gov/honors/heritage/cedric-burnside'
+  - 'https://nelsonvillefest.org/artist/cedric-burnside/'
+  - 'https://www.cedricburnside.net/aboutcedric'
+  - 'https://www.laphil.com/musicdb/artists/8480/cedric-burnside'
+  - >-
+    https://pryorcenter.uark.edu/interview.php?thisProject=King+Biscuit+Blues+Festival&thisProfileURL=BURNSIDE-Cedric&displayName=&thisInterviewee=488
 spotify_data:
   followers: 2289
   id: 0U8rq1DeTRYsLCHFm8aB0W
   popularity: 5
-  url: https://open.spotify.com/artist/0U8rq1DeTRYsLCHFm8aB0W
+  url: 'https://open.spotify.com/artist/0U8rq1DeTRYsLCHFm8aB0W'
 status: active
 title: Cedric Burnside Project
-
+origin: 'Marshall and Benton Counties, United States'
+birth_date: '1978-08-26'
+artist_type: person
 ---
 
 ![](cedric_burnside_project.jpg)

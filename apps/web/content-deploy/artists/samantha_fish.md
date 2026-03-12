@@ -1,44 +1,46 @@
 ---
 biography_enhanced_at: '2026-01-22T07:14:54.293442'
-birth_place: Kansas City, Missouri, United States
+birth_place: 'Kansas City, Missouri, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:14:54.293451'
 external_urls:
-  spotify: https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5
-  wikipedia: https://en.wikipedia.org/wiki/Samantha_Fish
+  spotify: 'https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5'
+  wikipedia: 'https://en.wikipedia.org/wiki/Samantha_Fish'
 genres:
-- modern blues
-- blues
-- blues rock
+  - modern blues
+  - blues
+  - blues rock
 image_path: 03_Resources/source_material/ArtistPortraits/samantha_fish.jpg
 last_updated: '2026-01-22T07:14:54.293451'
 musical_connections:
   collaborators:
-  - Jesse Dayton
-  - Cassie Taylor
-  - Dani Wilde
-  - Go-Go Ray Pollard
-  - Chris Alexander
+    - Jesse Dayton
+    - Cassie Taylor
+    - Dani Wilde
+    - Go-Go Ray Pollard
+    - Chris Alexander
   influenced: []
   mentors:
-  - Mike Zito
+    - Mike Zito
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Samantha_Fish
-- https://www.namm.org/library/oral-history/samantha-fish
-- https://rhythmandroots.com/artists/samantha-fish/
-- https://www.youtube.com/watch?v=BwmIM0ydygg
-- https://samanthafish.com/about/
-- https://www.neworleans.com/listing/samantha-fish/47909/
-- https://www.allmusic.com/artist/samantha-fish-mn0002661815
+  - 'https://en.wikipedia.org/wiki/Samantha_Fish'
+  - 'https://www.namm.org/library/oral-history/samantha-fish'
+  - 'https://rhythmandroots.com/artists/samantha-fish/'
+  - 'https://www.youtube.com/watch?v=BwmIM0ydygg'
+  - 'https://samanthafish.com/about/'
+  - 'https://www.neworleans.com/listing/samantha-fish/47909/'
+  - 'https://www.allmusic.com/artist/samantha-fish-mn0002661815'
 spotify_data:
   followers: 151449
   id: 5HsS48kuvghKcNpwOaAvB5
   popularity: 46
-  url: https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5
+  url: 'https://open.spotify.com/artist/5HsS48kuvghKcNpwOaAvB5'
 status: active
 title: Samantha Fish
+birth_date: '1989-01-30'
+artist_type: person
 ---
 
 ![](samantha_fish.jpg)

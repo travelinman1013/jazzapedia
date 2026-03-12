@@ -5,15 +5,15 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1933-03-09'
-birth_place: Kenner
+birth_place: 'Kenner, Louisiana, United States'
 death_date: '2021-05-03'
 genres:
-- doo-wop
+  - doo-wop
 instruments:
-- eponymous
-- original
-- lead vocals
-- vocal
+  - eponymous
+  - original
+  - lead vocals
+  - vocal
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Lloyd_Price.jpg
   caption: Lloyd Price
@@ -36,49 +36,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Harold Logan
-  - Don King
-  - Jerry Butler, Gene Chandler, Ben E. King
+    - Harold Logan
+    - Don King
+    - 'Jerry Butler, Gene Chandler, Ben E. King'
   influenced:
-  - Little Richard
-  - Crossover R&B and rock artists
+    - Little Richard
+    - Crossover R&B and rock artists
   mentors:
-  - Fats Domino
-  - Dave Bartholomew
+    - Fats Domino
+    - Dave Bartholomew
 spotify_data:
   followers: 93338
   id: 3iOE5ItEv5xr9fmKi7GNh2
   popularity: 39
-  url: https://open.spotify.com/artist/3iOE5ItEv5xr9fmKi7GNh2
+  url: 'https://open.spotify.com/artist/3iOE5ItEv5xr9fmKi7GNh2'
 discography_enriched: true
 top_tracks:
-- Stagger Lee (The Exciting Lloyd Price)
-- Personality (Mr. Personality)
-- Personality
-- Just Because (The Exciting Lloyd Price)
-- I'm Gonna Get Married (Mr. Personality)
-- Lawdy Miss Clawdy (The Exciting Lloyd Price)
-- Stagger Lee
-- Where Were You (On Our Wedding Day?) (The Exciting Lloyd Price)
-- Just Because
-- Stagger Lee (The Bandstand Version) (Personality Hits)
+  - Stagger Lee (The Exciting Lloyd Price)
+  - Personality (Mr. Personality)
+  - Personality
+  - Just Because (The Exciting Lloyd Price)
+  - I'm Gonna Get Married (Mr. Personality)
+  - Lawdy Miss Clawdy (The Exciting Lloyd Price)
+  - Stagger Lee
+  - Where Were You (On Our Wedding Day?) (The Exciting Lloyd Price)
+  - Just Because
+  - Stagger Lee (The Bandstand Version) (Personality Hits)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d047ee24-6fac-401a-8769-34edbda52113
-  spotify: https://open.spotify.com/artist/3iOE5ItEv5xr9fmKi7GNh2
-  wikipedia: https://en.wikipedia.org/wiki/Lloyd_Price
+  musicbrainz: 'https://musicbrainz.org/artist/d047ee24-6fac-401a-8769-34edbda52113'
+  spotify: 'https://open.spotify.com/artist/3iOE5ItEv5xr9fmKi7GNh2'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lloyd_Price'
 image_path: 03_Resources/source_material/ArtistPortraits/Lloyd_Price.jpg
 biography_enhanced_at: '2025-10-22T06:46:49.311402'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.nationscapitaldoowop.org/lloyd-price/
-- https://maltshopcruise.com/news/featured-artist-mr.-personality-lloyd-price/
-- https://www.britannica.com/biography/Lloyd-Price
-- https://www.thehistorymakers.org/biography/lloyd-price
-- https://www.peopleslight.org/whats-on/archive/20212022-season/personality-the-lloyd-price-musical/lloyd-price-timeline/
-- https://rockhall.com/inductees/lloyd-price/
-- https://www.vintagerockmag.com/2024/08/rocknroll-heroes-lloyd-price/
-- https://blackpast.org/african-american-history/lloyd-price-1933-2021/
+  - 'https://www.nationscapitaldoowop.org/lloyd-price/'
+  - 'https://maltshopcruise.com/news/featured-artist-mr.-personality-lloyd-price/'
+  - 'https://www.britannica.com/biography/Lloyd-Price'
+  - 'https://www.thehistorymakers.org/biography/lloyd-price'
+  - >-
+    https://www.peopleslight.org/whats-on/archive/20212022-season/personality-the-lloyd-price-musical/lloyd-price-timeline/
+  - 'https://rockhall.com/inductees/lloyd-price/'
+  - 'https://www.vintagerockmag.com/2024/08/rocknroll-heroes-lloyd-price/'
+  - 'https://blackpast.org/african-american-history/lloyd-price-1933-2021/'
 network_extracted: true
 entry_created: '2025-10-22T06:46:49.311411'
 last_updated: '2025-12-23T08:16:03.064176'
@@ -86,9 +87,10 @@ disambiguation: US R&B/soul singer
 gender: Male
 musicbrainz_id: d047ee24-6fac-401a-8769-34edbda52113
 tags:
-- 2008 universal fire victim
-- new orleans r&b
-- pop soul
+  - 2008 universal fire victim
+  - new orleans r&b
+  - pop soul
+is_active: false
 ---
 
 ![](Lloyd_Price.jpg)

@@ -1,14 +1,14 @@
 ---
-title: cramps
+title: The Cramps
 wiki_slug: cramps
 schema_version: 2
 status: active
 genres:
-- psychobilly
-- rockabilly
-- deathrock
-- punk
-- proto-punk
+  - psychobilly
+  - rockabilly
+  - deathrock
+  - punk
+  - proto-punk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/cramps.jpg
   caption: cramps
@@ -28,50 +28,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bryan Gregory
-  - Nick Knox
-  - Miriam Linna
-  - Kid Congo Powers
-  - Harry Drumdini
+    - Bryan Gregory
+    - Nick Knox
+    - Miriam Linna
+    - Kid Congo Powers
+    - Harry Drumdini
   influenced: []
   mentors:
-  - Hasil Adkins
-  - The Stooges
-  - Alex Chilton
+    - Hasil Adkins
+    - The Stooges
+    - Alex Chilton
 spotify_data:
   followers: 593308
   id: 4lYtGx5NZQJHsMyhHc5iz3
   popularity: 58
-  url: https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3
+  url: 'https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3'
 discography_enriched: true
 top_tracks:
-- Goo Goo Muck (Psychedelic Jungle)
-- Human Fly (Off The Bone)
-- I Was A Teenage Werewolf - Remastered 1989 (Songs The Lord Taught Us)
-- I Can't Hardly Stand It (Off The Bone)
-- The Way I Walk (Off The Bone)
-- Goo Goo Muck (Bad Music For Bad People)
-- Green Fuz (Psychedelic Jungle)
-- Primitive (Psychedelic Jungle)
-- Bikini Girls with Machine Guns (Stay Sick!)
-- The Creature from the Black Leather Lagoon (Stay Sick!)
+  - Goo Goo Muck (Psychedelic Jungle)
+  - Human Fly (Off The Bone)
+  - I Was A Teenage Werewolf - Remastered 1989 (Songs The Lord Taught Us)
+  - I Can't Hardly Stand It (Off The Bone)
+  - The Way I Walk (Off The Bone)
+  - Goo Goo Muck (Bad Music For Bad People)
+  - Green Fuz (Psychedelic Jungle)
+  - Primitive (Psychedelic Jungle)
+  - Bikini Girls with Machine Guns (Stay Sick!)
+  - The Creature from the Black Leather Lagoon (Stay Sick!)
 external_urls:
-  spotify: https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3
-  wikipedia: https://en.wikipedia.org/wiki/The_Cramps
+  spotify: 'https://open.spotify.com/artist/4lYtGx5NZQJHsMyhHc5iz3'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Cramps'
 image_path: 03_Resources/source_material/ArtistPortraits/cramps.jpg
 biography_enhanced_at: '2025-10-25T10:09:38.722784'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Cramps
-- https://www.imdb.com/name/nm3066849/bio/
-- https://faroutmagazine.co.uk/the-cramps-the-life-and-times-of-americas-scariest-band/
-- https://insounder.org/milestones-music-history-15-cramps-and-birth-psychobilly
+  - 'https://en.wikipedia.org/wiki/The_Cramps'
+  - 'https://www.imdb.com/name/nm3066849/bio/'
+  - >-
+    https://faroutmagazine.co.uk/the-cramps-the-life-and-times-of-americas-scariest-band/
+  - >-
+    https://insounder.org/milestones-music-history-15-cramps-and-birth-psychobilly
 network_extracted: true
 entry_created: '2025-10-25T10:09:38.722800'
 last_updated: '2025-12-23T08:16:07.276308'
-origin: New York City, New York, United States
-
+origin: 'New York City, New York, United States'
+artist_type: band
 ---
 
 ![](cramps.jpg)

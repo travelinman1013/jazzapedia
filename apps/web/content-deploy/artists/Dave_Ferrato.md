@@ -3,13 +3,13 @@ title: Dave Ferrato
 wiki_slug: dave-ferrato
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Dave_Ferrato.jpg
   caption: Dave Ferrato
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 123.9
   energy_avg: 0.613
@@ -25,47 +25,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mark Mullins
-  - George Porter, Jr.
-  - Johnny Vidocovich
-  - Lee “Little Queenie” Harris
-  - Craig Klein & Greg Hicks
+    - Mark Mullins
+    - 'George Porter, Jr.'
+    - Johnny Vidocovich
+    - Lee “Little Queenie” Harris
+    - Craig Klein & Greg Hicks
   influenced: []
   mentors:
-  - Ernie K-Doe
+    - Ernie K-Doe
 spotify_data:
   followers: 66
   id: 1odygHOCOKOvZnlWY08kVS
   popularity: 0
-  url: https://open.spotify.com/artist/1odygHOCOKOvZnlWY08kVS
+  url: 'https://open.spotify.com/artist/1odygHOCOKOvZnlWY08kVS'
 discography_enriched: true
 top_tracks:
-- Later, On Decatur (Later, On Decatur)
-- Tchoupazine Triangle (Later, On Decatur)
-- Same Old Story (Later, On Decatur)
-- Candy Lady (Later, On Decatur)
-- Walkin' Down (Later, On Decatur)
-- Round Here (Later, On Decatur)
-- Feelin' So Unnecessary (Later, On Decatur)
-- Faces Change (Later, On Decatur)
-- You Been Runnin' (Later, On Decatur)
-- Back for More (Later, On Decatur)
+  - 'Later, On Decatur (Later, On Decatur)'
+  - 'Tchoupazine Triangle (Later, On Decatur)'
+  - 'Same Old Story (Later, On Decatur)'
+  - 'Candy Lady (Later, On Decatur)'
+  - 'Walkin'' Down (Later, On Decatur)'
+  - 'Round Here (Later, On Decatur)'
+  - 'Feelin'' So Unnecessary (Later, On Decatur)'
+  - 'Faces Change (Later, On Decatur)'
+  - 'You Been Runnin'' (Later, On Decatur)'
+  - 'Back for More (Later, On Decatur)'
 external_urls:
-  spotify: https://open.spotify.com/artist/1odygHOCOKOvZnlWY08kVS
+  spotify: 'https://open.spotify.com/artist/1odygHOCOKOvZnlWY08kVS'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/Dave_Ferrato.jpg
 biography_enhanced_at: '2025-10-20T01:38:11.831841'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.allaboutjazz.com/album/later-on-decatur-dave-ferrato
-- https://www.allaboutjazz.com/later-on-decatur-dave-ferrato-dave-ferrato-review-by-wade-luquet
-- https://www.neworleans.com/listing/dave-ferrato/46353/
-- https://www.frenchquarter.com/artists/page/13/
-- https://www.wwoz.org/664-wwoz-hosts-favorites-2013
+  - 'https://www.allaboutjazz.com/album/later-on-decatur-dave-ferrato'
+  - >-
+    https://www.allaboutjazz.com/later-on-decatur-dave-ferrato-dave-ferrato-review-by-wade-luquet
+  - 'https://www.neworleans.com/listing/dave-ferrato/46353/'
+  - 'https://www.frenchquarter.com/artists/page/13/'
+  - 'https://www.wwoz.org/664-wwoz-hosts-favorites-2013'
 network_extracted: true
 entry_created: '2025-10-20T01:38:11.831869'
 last_updated: '2025-12-23T08:16:01.666649'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](Dave_Ferrato.jpg)

@@ -1,68 +1,73 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ed7156ee-07da-484b-b5a5-be322afa1a34
-  name: Art Ensemble of Chicago
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 89b1322e-dbc8-4f20-b145-e10432334ec4
-  name: Lester Bowie Ensemble
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ed7156ee-07da-484b-b5a5-be322afa1a34
+    name: Art Ensemble of Chicago
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 89b1322e-dbc8-4f20-b145-e10432334ec4
+    name: Lester Bowie Ensemble
 biography_enhanced_at: '2026-01-13T01:09:45.946949'
 birth_date: '1940-07-03'
-birth_place: St. Louis
+birth_place: 'St. Louis, Missouri, United States'
 death_date: '2012-12-26'
 enhancement_provider: perplexity
 entry_created: '2026-01-13T01:09:45.946956'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/77c1d20a-2374-42f0-8059-61d1f453d5de
-  spotify: https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA
-  wikipedia: https://en.wikipedia.org/wiki/Fontella_Bass
+  musicbrainz: 'https://musicbrainz.org/artist/77c1d20a-2374-42f0-8059-61d1f453d5de'
+  spotify: 'https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA'
+  wikipedia: 'https://en.wikipedia.org/wiki/Fontella_Bass'
 gender: Female
 genres:
-- motown
-- northern soul
-- classic soul
-- soul
+  - motown
+  - northern soul
+  - classic soul
+  - soul
 image_path: 03_Resources/source_material/ArtistPortraits/fontella_bass.jpg
 instruments:
-- piano
-- background vocals
-- lead vocals
+  - piano
+  - background vocals
+  - lead vocals
 last_updated: '2026-01-13T01:09:45.946957'
 musical_connections:
   collaborators:
-  - Bobby McClure
-  - Lester Bowie
-  - Art Ensemble of Chicago
-  - Bosman Twins (Dwight and others)
+    - Bobby McClure
+    - Lester Bowie
+    - Art Ensemble of Chicago
+    - Bosman Twins (Dwight and others)
   influenced: []
   mentors:
-  - Martha Bass
-  - Oliver Sain
+    - Martha Bass
+    - Oliver Sain
 musicbrainz_id: 77c1d20a-2374-42f0-8059-61d1f453d5de
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Fontella_Bass
-- https://www.stlmag.com/culture/St-Louis-First-Lady-of-Soul-Fontella-Bass-Dies-at-Age-72/
-- https://jazztimes.com/features/tributes-and-obituaries/fontella-bass-rb-hitmaker-who-stepped-into-jazz-blues-gospel-dies-at-72/
-- https://www.stlpr.org/arts/2012-12-28/obituary-of-fontella-bass-gospel-and-soul-diva-recorded-rescue-me
-- https://www.muziekweb.nl/en/Link/M00000010297/POPULAR/Fontella-Bass
+  - 'https://en.wikipedia.org/wiki/Fontella_Bass'
+  - >-
+    https://www.stlmag.com/culture/St-Louis-First-Lady-of-Soul-Fontella-Bass-Dies-at-Age-72/
+  - >-
+    https://jazztimes.com/features/tributes-and-obituaries/fontella-bass-rb-hitmaker-who-stepped-into-jazz-blues-gospel-dies-at-72/
+  - >-
+    https://www.stlpr.org/arts/2012-12-28/obituary-of-fontella-bass-gospel-and-soul-diva-recorded-rescue-me
+  - 'https://www.muziekweb.nl/en/Link/M00000010297/POPULAR/Fontella-Bass'
 spotify_data:
   followers: 49629
   id: 6k3YMXJ1MJLgUEAlSPC6hA
   popularity: 47
-  url: https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA
+  url: 'https://open.spotify.com/artist/6k3YMXJ1MJLgUEAlSPC6hA'
 status: active
 tags:
-- 2008 universal fire victim
-- avant-garde jazz
-- chicago soul
+  - 2008 universal fire victim
+  - avant-garde jazz
+  - chicago soul
 title: Fontella Bass
+is_active: false
+origin: 'St. Louis, Missouri, United States'
 ---
 
 ![](fontella_bass.jpg)

@@ -3,13 +3,13 @@ title: Bunk Johnson
 wiki_slug: bunk-johnson
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bunk_johnson.jpg
   caption: Bunk Johnson
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 175.6
   energy_avg: 0.414
@@ -25,45 +25,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - George Lewis
-  - Jim Robinson
-  - Sidney Bechet
-  - Louis Armstrong
-  - Billie Holiday
-  - Ma Rainey
+    - George Lewis
+    - Jim Robinson
+    - Sidney Bechet
+    - Louis Armstrong
+    - Billie Holiday
+    - Ma Rainey
   influenced:
-  - Louis Armstrong
-  - George Lewis
-  - Traditional Jazz Revivalists
+    - Louis Armstrong
+    - George Lewis
+    - Traditional Jazz Revivalists
   mentors:
-  - Buddy Bolden
-  - Adam Olivier
+    - Buddy Bolden
+    - Adam Olivier
 spotify_data:
   followers: 2
   id: 15w6b2ojajMKKMqFMg5J0m
   popularity: 0
-  url: https://open.spotify.com/artist/15w6b2ojajMKKMqFMg5J0m
+  url: 'https://open.spotify.com/artist/15w6b2ojajMKKMqFMg5J0m'
 discography_enriched: true
 top_tracks:
-- Careless Love (Kings Of New Orleans)
-- I Ain't Gonna Give Nobody None Of This Jelly Roll (Kings Of New Orleans)
-- Panama (Kings Of New Orleans)
-- I Can't Escape From You (Kings Of New Orleans)
-- Mama's Gone, Goodbye (Kings Of New Orleans)
+  - Careless Love (Kings Of New Orleans)
+  - I Ain't Gonna Give Nobody None Of This Jelly Roll (Kings Of New Orleans)
+  - Panama (Kings Of New Orleans)
+  - I Can't Escape From You (Kings Of New Orleans)
+  - 'Mama''s Gone, Goodbye (Kings Of New Orleans)'
 external_urls:
-  spotify: https://open.spotify.com/artist/15w6b2ojajMKKMqFMg5J0m
-  wikipedia: https://en.wikipedia.org/wiki/Bunk_Johnson
+  spotify: 'https://open.spotify.com/artist/15w6b2ojajMKKMqFMg5J0m'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bunk_Johnson'
 image_path: 03_Resources/source_material/ArtistPortraits/bunk_johnson.jpg
 biography_enhanced_at: '2025-10-25T09:51:36.488435'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Britannica
-- Syncopated Times
-- All About Jazz
+  - Britannica
+  - Syncopated Times
+  - All About Jazz
 network_extracted: true
 entry_created: '2025-10-25T09:51:36.488453'
 last_updated: '2025-12-23T08:16:06.260339'
+birth_date: '1889-12-27'
+death_date: '1949-07-07'
+artist_type: person
 ---
 
 ![](bunk_johnson.jpg)

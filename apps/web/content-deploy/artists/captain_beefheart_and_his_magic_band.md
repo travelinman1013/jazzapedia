@@ -3,18 +3,19 @@ title: Captain Beefheart and his Magic Band
 wiki_slug: captain-beefheart-and-his-magic-band
 schema_version: 2
 status: active
-birth_place: Glendale, California, USA
+birth_place: 'Glendale, California, USA'
 genres:
-- proto-punk
-- psychedelic rock
-- art rock
-- acid rock
-- avant-garde
+  - proto-punk
+  - psychedelic rock
+  - art rock
+  - acid rock
+  - avant-garde
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/captain_beefheart_and_his_magic_band.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/captain_beefheart_and_his_magic_band.jpg
   caption: Captain Beefheart and his Magic Band
   background: solo_singer
-  origin: Glendale, California, USA
+  origin: 'Glendale, California, USA'
 audio_profile:
   tempo_avg: 115.7
   energy_avg: 0.602
@@ -30,51 +31,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ry Cooder
-  - Frank Zappa
-  - John French
-  - Bill Harkleroad
+    - Ry Cooder
+    - Frank Zappa
+    - John French
+    - Bill Harkleroad
   influenced:
-  - Minutemen
-  - PJ Harvey
-  - Jack White
-  - John Frusciante
-  - Mark E. Smith (The Fall)
+    - Minutemen
+    - PJ Harvey
+    - Jack White
+    - John Frusciante
+    - Mark E. Smith (The Fall)
   mentors:
-  - Son House
-  - Howlin' Wolf
-  - Ornette Coleman
+    - Son House
+    - Howlin' Wolf
+    - Ornette Coleman
 spotify_data:
   followers: 220244
   id: 2k8kY9zHUWxuTtwV4UutHw
   popularity: 43
-  url: https://open.spotify.com/artist/2k8kY9zHUWxuTtwV4UutHw
+  url: 'https://open.spotify.com/artist/2k8kY9zHUWxuTtwV4UutHw'
 discography_enriched: true
 top_tracks:
-- I'm Glad (Safe As Milk)
-- Her Eyes Are a Blue Million Miles (Clear Spot)
-- My Head Is My Only House Unless It Rains (Clear Spot)
-- Sure 'Nuff 'n' Yes, I Do (Safe As Milk)
-- Zig Zag Wanderer (Safe As Milk)
-- Too Much Time (Clear Spot)
-- Observatory Crest (Blue Jeans And Moonbeams)
-- Electricity (Safe As Milk)
-- Diddy Wah Diddy
-- Abba Zaba (Safe As Milk)
+  - I'm Glad (Safe As Milk)
+  - Her Eyes Are a Blue Million Miles (Clear Spot)
+  - My Head Is My Only House Unless It Rains (Clear Spot)
+  - 'Sure ''Nuff ''n'' Yes, I Do (Safe As Milk)'
+  - Zig Zag Wanderer (Safe As Milk)
+  - Too Much Time (Clear Spot)
+  - Observatory Crest (Blue Jeans And Moonbeams)
+  - Electricity (Safe As Milk)
+  - Diddy Wah Diddy
+  - Abba Zaba (Safe As Milk)
 external_urls:
-  spotify: https://open.spotify.com/artist/2k8kY9zHUWxuTtwV4UutHw
-  wikipedia: https://en.wikipedia.org/wiki/Captain_Beefheart
-image_path: 03_Resources/source_material/ArtistPortraits/captain_beefheart_and_his_magic_band.jpg
+  spotify: 'https://open.spotify.com/artist/2k8kY9zHUWxuTtwV4UutHw'
+  wikipedia: 'https://en.wikipedia.org/wiki/Captain_Beefheart'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/captain_beefheart_and_his_magic_band.jpg
 biography_enhanced_at: '2025-12-18T02:49:03.921339'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Captain_Beefheart
-- https://jambands.com/features/2011/01/09/45-minutes-towards-a-better-understanding-of-captain-beefheart/
-- https://www.beefheart.com/the-roots-of-captain-beefheart/
+  - 'https://en.wikipedia.org/wiki/Captain_Beefheart'
+  - >-
+    https://jambands.com/features/2011/01/09/45-minutes-towards-a-better-understanding-of-captain-beefheart/
+  - 'https://www.beefheart.com/the-roots-of-captain-beefheart/'
 network_extracted: true
 entry_created: '2025-12-18T02:49:03.921349'
 last_updated: '2025-12-23T08:16:06.390650'
+birth_date: '1941'
+artist_type: band
 ---
 
 ![](captain_beefheart_and_his_magic_band.jpg)

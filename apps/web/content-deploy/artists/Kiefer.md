@@ -4,7 +4,7 @@ wiki_slug: kiefer
 schema_version: 2
 artist_type: person
 status: active
-birth_place: San Diego
+birth_place: 'San Diego, California, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Kiefer.jpg
@@ -17,8 +17,8 @@ audio_profile:
   valence_avg: 0.501
   danceability_avg: 0.525
   acousticness_avg: 0.158
-  instrumentalness_avg: 0.0
-  loudness_avg: -6.0
+  instrumentalness_avg: 0
+  loudness_avg: -6
   speechiness_avg: 0.038
   liveness_avg: 0.249
   track_count: 50
@@ -26,53 +26,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Mason London
-  - Anderson Paak
-  - Kaytranada
-  - SiR
-  - Terrace Martin
-  - Lalah Hathaway
-  - Moses Sumney
-  - Abraham Laboriel
+    - Mason London
+    - Anderson Paak
+    - Kaytranada
+    - SiR
+    - Terrace Martin
+    - Lalah Hathaway
+    - Moses Sumney
+    - Abraham Laboriel
   influenced: []
   mentors:
-  - Kenny Burrell
-  - Mndsgn
-  - John Coltrane
-  - J Dilla
-  - Bill Evans
-  - Flying Lotus
+    - Kenny Burrell
+    - Mndsgn
+    - John Coltrane
+    - J Dilla
+    - Bill Evans
+    - Flying Lotus
 spotify_data:
   followers: 36636
   id: 0WqQHeEmg4YoMJBGT7hZkH
   popularity: 27
-  url: https://open.spotify.com/artist/0WqQHeEmg4YoMJBGT7hZkH
+  url: 'https://open.spotify.com/artist/0WqQHeEmg4YoMJBGT7hZkH'
 discography_enriched: true
 top_tracks:
-- Something You Love (Reckless & Me)
-- I'll Do Anything (Down in a Hole)
-- Not Enough Whiskey (Down in a Hole)
-- Open Road (Reckless & Me)
-- Open Road (Die Helene Fischer Show - Meine schönsten Momente (Vol. 1))
-- Blame It on Your Heart (Reckless & Me)
-- Can't Stay Away (Down in a Hole)
-- Truth in Your Eyes (Down in a Hole)
-- Bloor Street (Bloor Street)
-- Song for a Daughter (Reckless & Me)
+  - Something You Love (Reckless & Me)
+  - I'll Do Anything (Down in a Hole)
+  - Not Enough Whiskey (Down in a Hole)
+  - Open Road (Reckless & Me)
+  - Open Road (Die Helene Fischer Show - Meine schönsten Momente (Vol. 1))
+  - Blame It on Your Heart (Reckless & Me)
+  - Can't Stay Away (Down in a Hole)
+  - Truth in Your Eyes (Down in a Hole)
+  - Bloor Street (Bloor Street)
+  - Song for a Daughter (Reckless & Me)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a2252be6-2f4f-40d2-a54d-da93c9dfb649
-  spotify: https://open.spotify.com/artist/0WqQHeEmg4YoMJBGT7hZkH
+  musicbrainz: 'https://musicbrainz.org/artist/a2252be6-2f4f-40d2-a54d-da93c9dfb649'
+  spotify: 'https://open.spotify.com/artist/0WqQHeEmg4YoMJBGT7hZkH'
   wikipedia: Not found
 image_path: 03_Resources/source_material/ArtistPortraits/Kiefer.jpg
 biography_enhanced_at: '2025-10-22T06:58:16.638819'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.blackhistorymonth.org.uk/article/listings/region/manchester/kiefer/
-- https://first-avenue.com/performer/kiefer/
-- https://floodmagazine.com/117035/breaking-kiefer/
-- https://www.majesticjournal.com/a-conversation-with-kiefer
-- https://www.kiefermusic.com/about
+  - >-
+    https://www.blackhistorymonth.org.uk/article/listings/region/manchester/kiefer/
+  - 'https://first-avenue.com/performer/kiefer/'
+  - 'https://floodmagazine.com/117035/breaking-kiefer/'
+  - 'https://www.majesticjournal.com/a-conversation-with-kiefer'
+  - 'https://www.kiefermusic.com/about'
 network_extracted: true
 entry_created: '2025-10-22T06:58:16.638838'
 last_updated: '2025-12-23T08:16:02.873716'
@@ -80,9 +81,10 @@ disambiguation: LA-based jazz pianist & beat maker
 gender: Male
 musicbrainz_id: a2252be6-2f4f-40d2-a54d-da93c9dfb649
 tags:
-- boom bap
-- chillwave
-- downtempo
+  - boom bap
+  - chillwave
+  - downtempo
+birth_date: '1992'
 ---
 
 ![](Kiefer.jpg)

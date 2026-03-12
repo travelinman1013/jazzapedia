@@ -1,17 +1,17 @@
 ---
-title: Israel Vibration, Cocoa Tea
+title: 'Israel Vibration, Cocoa Tea'
 wiki_slug: israel-vibration-cocoa-tea
 schema_version: 2
 status: active
 genres:
-- roots reggae
-- reggae
-- dub
-- ragga
-- rocksteady
+  - roots reggae
+  - reggae
+  - dub
+  - ragga
+  - rocksteady
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/israel_vibration_cocoa_tea.jpg
-  caption: Israel Vibration, Cocoa Tea
+  caption: 'Israel Vibration, Cocoa Tea'
   background: solo_singer
 audio_profile:
   tempo_avg: 116.2
@@ -28,47 +28,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Inner Circle
-  - Roots Radics
-  - Errol 'Flabba' Holt and Maurice 'Blacka Morwell' Wellington
+    - Inner Circle
+    - Roots Radics
+    - Errol 'Flabba' Holt and Maurice 'Blacka Morwell' Wellington
   influenced: []
   mentors:
-  - Tommy Cowan
-  - Gary 'Dr. Dread' Himmelfarb
+    - Tommy Cowan
+    - Gary 'Dr. Dread' Himmelfarb
 spotify_data:
   followers: 549580
   id: 2Y06xyHPovQ8DWLyVIpSJK
   popularity: 50
-  url: https://open.spotify.com/artist/2Y06xyHPovQ8DWLyVIpSJK
+  url: 'https://open.spotify.com/artist/2Y06xyHPovQ8DWLyVIpSJK'
 discography_enriched: true
 top_tracks:
-- Cool and Calm (Strength of My Life)
-- Back Staba (Stamina)
-- My Master's Will (Reggae Knights)
-- Herb Is The Healing (Stamina)
-- Next Generation (Reggae Music Never Dies)
-- Natty Dread (Stamina)
-- The Same Song - Edit (The Same Song)
-- Original Riddim (One Rock)
-- Rude Boy Shufflin' (On the Rock)
-- Flood Water (Stamina)
+  - Cool and Calm (Strength of My Life)
+  - Back Staba (Stamina)
+  - My Master's Will (Reggae Knights)
+  - Herb Is The Healing (Stamina)
+  - Next Generation (Reggae Music Never Dies)
+  - Natty Dread (Stamina)
+  - The Same Song - Edit (The Same Song)
+  - Original Riddim (One Rock)
+  - Rude Boy Shufflin' (On the Rock)
+  - Flood Water (Stamina)
 external_urls:
-  spotify: https://open.spotify.com/artist/2Y06xyHPovQ8DWLyVIpSJK
+  spotify: 'https://open.spotify.com/artist/2Y06xyHPovQ8DWLyVIpSJK'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/israel_vibration_cocoa_tea.jpg
 biography_enhanced_at: '2025-12-15T01:34:19.950504'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.reggaeville.com/artist-details/israel-vibration/about/
-- https://www.balkanmusicbox.com/reggae/israel-vibration
-- https://www.nmb-booking.com/en/artiste/israel-vibration/
-- https://thecoachhouse.com/concert-schedule/11611225/israel-vibration/
-- https://www.laphil.com/musicdb/artists/2575/israel-vibration
+  - 'https://www.reggaeville.com/artist-details/israel-vibration/about/'
+  - 'https://www.balkanmusicbox.com/reggae/israel-vibration'
+  - 'https://www.nmb-booking.com/en/artiste/israel-vibration/'
+  - 'https://thecoachhouse.com/concert-schedule/11611225/israel-vibration/'
+  - 'https://www.laphil.com/musicdb/artists/2575/israel-vibration'
 network_extracted: true
 entry_created: '2025-12-15T01:34:19.950512'
 last_updated: '2025-12-23T08:16:09.941526'
-origin: Kingston, Jamaica
+origin: 'Kingston, Jamaica, United States'
+artist_type: band
 ---
 
 ![](israel_vibration_cocoa_tea.jpg)

@@ -1,46 +1,50 @@
 ---
 biography_enhanced_at: '2026-01-22T07:16:43.158458'
-birth_place: Morristown, New Jersey, USA
+birth_place: 'Morristown, New Jersey, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:16:43.158465'
 external_urls:
-  spotify: https://open.spotify.com/artist/2q2JFOrUsMQNT5h2ycFbmk
-  wikipedia: https://en.wikipedia.org/wiki/John_Ginty
+  spotify: 'https://open.spotify.com/artist/2q2JFOrUsMQNT5h2ycFbmk'
+  wikipedia: 'https://en.wikipedia.org/wiki/John_Ginty'
 genres:
-- modern blues
-- blues rock
-- blues
+  - modern blues
+  - blues rock
+  - blues
 image_path: 03_Resources/source_material/ArtistPortraits/john_ginty.jpg
 last_updated: '2026-01-22T07:16:43.158466'
 musical_connections:
   collaborators:
-  - Neal Casal
-  - Robert Randolph and the Family Band
-  - The Allman Betts Band
-  - The Chicks (Dixie Chicks)
-  - Warren Haynes
+    - Neal Casal
+    - Robert Randolph and the Family Band
+    - The Allman Betts Band
+    - The Chicks (Dixie Chicks)
+    - Warren Haynes
   influenced: []
   mentors:
-  - Gregg Allman
-  - Chuck Leavell
-  - Benmont Tench
+    - Gregg Allman
+    - Chuck Leavell
+    - Benmont Tench
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://firstnightmorris.org/first-night-morris-county-featuring-the-john-ginty-band-rock-with-a-blues-twist/
-- https://www.nashvillescene.com/music/organist-john-ginty-makes-his-i-bad-news-travels-i-good-news-indeed/article_a8898489-4bfc-52a7-bb06-3dcfaaa3e5e4.html
-- https://www.viberate.com/artist/john-ginty/
-- https://www.johngintymusic.com
-- https://fargomafia.com/the-making-of-fade-away-diamond-time-episode-1-john-ginty/
-- https://www.iajo.org/iajo04/usa/ginty.htm
-- https://en.wikipedia.org/wiki/John_Ginty
+  - >-
+    https://firstnightmorris.org/first-night-morris-county-featuring-the-john-ginty-band-rock-with-a-blues-twist/
+  - >-
+    https://www.nashvillescene.com/music/organist-john-ginty-makes-his-i-bad-news-travels-i-good-news-indeed/article_a8898489-4bfc-52a7-bb06-3dcfaaa3e5e4.html
+  - 'https://www.viberate.com/artist/john-ginty/'
+  - 'https://www.johngintymusic.com'
+  - >-
+    https://fargomafia.com/the-making-of-fade-away-diamond-time-episode-1-john-ginty/
+  - 'https://www.iajo.org/iajo04/usa/ginty.htm'
+  - 'https://en.wikipedia.org/wiki/John_Ginty'
 spotify_data:
   followers: 676
   id: 2q2JFOrUsMQNT5h2ycFbmk
   popularity: 5
-  url: https://open.spotify.com/artist/2q2JFOrUsMQNT5h2ycFbmk
+  url: 'https://open.spotify.com/artist/2q2JFOrUsMQNT5h2ycFbmk'
 status: active
 title: John Ginty
+artist_type: person
 ---
 
 ![](john_ginty.jpg)

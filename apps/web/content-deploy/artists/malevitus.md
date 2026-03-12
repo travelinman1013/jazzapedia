@@ -3,38 +3,40 @@ biography_enhanced_at: '2026-01-03T01:42:03.684376'
 enhancement_provider: perplexity
 entry_created: '2026-01-03T01:42:03.684391'
 external_urls:
-  spotify: https://open.spotify.com/artist/4DuwXHC9jOlAZZtQCkH5G1
+  spotify: 'https://open.spotify.com/artist/4DuwXHC9jOlAZZtQCkH5G1'
   wikipedia: ''
 genres:
-- sludge metal
-- grindcore
-- screamo
+  - sludge metal
+  - grindcore
+  - screamo
 image_path: 03_Resources/source_material/ArtistPortraits/malevitus.jpg
 last_updated: '2026-01-03T01:42:03.684392'
 musical_connections:
   collaborators:
-  - Marcus Bronson
-  - Rob Cambre
-  - Drummer (unnamed in sources)
+    - Marcus Bronson
+    - Rob Cambre
+    - Drummer (unnamed in sources)
   influenced: []
   mentors:
-  - Linda Montano
+    - Linda Montano
 network_extracted: true
-origin: New Orleans, Louisiana, USA
+origin: 'New Orleans, Louisiana, USA'
 primary_source: perplexity
 research_sources:
-- https://www.vianolavie.org/2020/07/15/portrait-of-an-artist-tiana-hux/
-- https://crescentcitysounds.org/artists/malevitus
-- https://www.vianolavie.org/2020/07/21/portrait-of-an-artisttiana-hux-eccentric-music-artist/
-- https://www.offbeat.com/music/malevitus-malevitus-houma-records/
+  - 'https://www.vianolavie.org/2020/07/15/portrait-of-an-artist-tiana-hux/'
+  - 'https://crescentcitysounds.org/artists/malevitus'
+  - >-
+    https://www.vianolavie.org/2020/07/21/portrait-of-an-artisttiana-hux-eccentric-music-artist/
+  - 'https://www.offbeat.com/music/malevitus-malevitus-houma-records/'
 spotify_data:
   followers: 2956
   id: 4DuwXHC9jOlAZZtQCkH5G1
   popularity: 14
-  url: https://open.spotify.com/artist/4DuwXHC9jOlAZZtQCkH5G1
+  url: 'https://open.spotify.com/artist/4DuwXHC9jOlAZZtQCkH5G1'
 status: active
 title: Malevitus
-
+birth_place: 'Houston, Texas, United States'
+artist_type: person
 ---
 
 ![](malevitus.jpg)

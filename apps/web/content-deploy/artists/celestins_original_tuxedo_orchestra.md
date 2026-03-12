@@ -1,12 +1,13 @@
 ---
-title: CELESTIN'S ORIGINAL TUXEDO ORCHESTRA
+title: Celestin's Original Tuxedo Orchestra
 wiki_slug: celestins-original-tuxedo-orchestra
 schema_version: 2
 status: active
 genres:
-- ragtime
+  - ragtime
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/celestins_original_tuxedo_orchestra.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/celestins_original_tuxedo_orchestra.jpg
   caption: CELESTIN'S ORIGINAL TUXEDO ORCHESTRA
   background: solo_singer
 audio_profile:
@@ -24,50 +25,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - William 'Baba' Ridgley
-  - Louis Armstrong
-  - Peter Bocage
-  - Octave Crosby
-  - Joe 'King' Oliver
+    - William 'Baba' Ridgley
+    - Louis Armstrong
+    - Peter Bocage
+    - Octave Crosby
+    - Joe 'King' Oliver
   influenced:
-  - Louis Armstrong
-  - Danny Barker
-  - Original Tuxedo Jazz Band (successors)
+    - Louis Armstrong
+    - Danny Barker
+    - Original Tuxedo Jazz Band (successors)
   mentors:
-  - Claiborne Williams
+    - Claiborne Williams
 spotify_data:
   followers: 245
   id: 7lwDRksYzVKNm0afhR4BtR
   popularity: 6
-  url: https://open.spotify.com/artist/7lwDRksYzVKNm0afhR4BtR
+  url: 'https://open.spotify.com/artist/7lwDRksYzVKNm0afhR4BtR'
 discography_enriched: true
 top_tracks:
-- 'As You Like It (1920s: The Jazz Age In New Orleans)'
-- 'Dear Almanzoer (1920s: The Jazz Age In New Orleans)'
-- 'Give Me Some More (1920s: The Jazz Age In New Orleans)'
-- 'My Josephine (1920s: The Jazz Age In New Orleans)'
-- 'Papa Got The Jim-jams (1920s: The Jazz Age In New Orleans)'
-- 'It''s A Jam Up (1920s: The Jazz Age In New Orleans)'
-- 'The Sweetheart Of The Tko (1920s: The Jazz Age In New Orleans)'
-- 'Just For You Dear I''m Crying (1920s: The Jazz Age In New Orleans)'
-- 'Station Calls (1) (1920s: The Jazz Age In New Orleans)'
-- My Josephine (New Orleans Jazz Of The 1920s)
+  - 'As You Like It (1920s: The Jazz Age In New Orleans)'
+  - 'Dear Almanzoer (1920s: The Jazz Age In New Orleans)'
+  - 'Give Me Some More (1920s: The Jazz Age In New Orleans)'
+  - 'My Josephine (1920s: The Jazz Age In New Orleans)'
+  - 'Papa Got The Jim-jams (1920s: The Jazz Age In New Orleans)'
+  - 'It''s A Jam Up (1920s: The Jazz Age In New Orleans)'
+  - 'The Sweetheart Of The Tko (1920s: The Jazz Age In New Orleans)'
+  - 'Just For You Dear I''m Crying (1920s: The Jazz Age In New Orleans)'
+  - 'Station Calls (1) (1920s: The Jazz Age In New Orleans)'
+  - My Josephine (New Orleans Jazz Of The 1920s)
 external_urls:
-  spotify: https://open.spotify.com/artist/7lwDRksYzVKNm0afhR4BtR
-  wikipedia: https://en.wikipedia.org/wiki/Papa_Celestin
-image_path: 03_Resources/source_material/ArtistPortraits/celestins_original_tuxedo_orchestra.jpg
+  spotify: 'https://open.spotify.com/artist/7lwDRksYzVKNm0afhR4BtR'
+  wikipedia: 'https://en.wikipedia.org/wiki/Papa_Celestin'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/celestins_original_tuxedo_orchestra.jpg
 biography_enhanced_at: '2025-10-30T11:48:08.290296'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://64parishes.org/entry/papa-celestin
-- https://en.wikipedia.org/wiki/Papa_Celestin
-- https://syncopatedtimes.com/oscar-papa-celestin-1884-1954/
-- https://folkways-media.si.edu/docs/folkways/artwork/ARH07024.pdf
+  - 'https://64parishes.org/entry/papa-celestin'
+  - 'https://en.wikipedia.org/wiki/Papa_Celestin'
+  - 'https://syncopatedtimes.com/oscar-papa-celestin-1884-1954/'
+  - 'https://folkways-media.si.edu/docs/folkways/artwork/ARH07024.pdf'
 network_extracted: true
 entry_created: '2025-10-30T11:48:08.290305'
 last_updated: '2025-12-23T08:16:06.607862'
-origin: Napoleonville, Assumption Parish, Louisiana, United States
+origin: 'Napoleonville, Assumption Parish, Louisiana, United States'
+birth_place: 'Napoleonville, Louisiana, United States'
+birth_date: '1884'
+artist_type: band
 ---
 
 ![](celestins_original_tuxedo_orchestra.jpg)

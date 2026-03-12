@@ -4,7 +4,7 @@ wiki_slug: atitude-feminina
 schema_version: 2
 status: active
 genres:
-- brazilian hip hop
+  - brazilian hip hop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/atitude_feminina.jpg
   caption: Atitude Feminina
@@ -15,8 +15,8 @@ audio_profile:
   valence_avg: 0.615
   danceability_avg: 0.78
   acousticness_avg: 0.251
-  instrumentalness_avg: 0.0
-  loudness_avg: -7.0
+  instrumentalness_avg: 0
+  loudness_avg: -7
   speechiness_avg: 0.175
   liveness_avg: 0.23
   track_count: 50
@@ -24,49 +24,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - CTS
-  - Cronica Mendes
-  - Cintia Savoli
-  - DJ Jamaika, Markão Baseado nas Ruas, Beatriz Bap, Japão Viela 17, Provérbio X
-  - Raffa Santoro
+    - CTS
+    - Cronica Mendes
+    - Cintia Savoli
+    - >-
+      DJ Jamaika, Markão Baseado nas Ruas, Beatriz Bap, Japão Viela 17,
+      Provérbio X
+    - Raffa Santoro
   influenced:
-  - Emerging Female MCs in Brazil
+    - Emerging Female MCs in Brazil
   mentors:
-  - Brazilian Hip-Hop Community
+    - Brazilian Hip-Hop Community
 spotify_data:
   followers: 101502
   id: 6Oos9omfvMwlsZHn0H4t9W
   popularity: 36
-  url: https://open.spotify.com/artist/6Oos9omfvMwlsZHn0H4t9W
+  url: 'https://open.spotify.com/artist/6Oos9omfvMwlsZHn0H4t9W'
 discography_enriched: true
 top_tracks:
-- Enterro do Neguinho (Rosas)
-- Rosas (Rosas)
-- De Que Vale o Crime Neguinho da Favela (Rosas)
-- Dia de Finados (Rosas)
-- Neguinho da Favela - De Que Vale o Crime (Nossa História)
-- Enterro do Neguinho (Rosas)
-- Rosas (Rosas)
-- Paraíso (Rosas)
-- Enterro do Neguinho - Versão Videoclipe (Desistir Jamais)
-- Mãe (Mãe)
+  - Enterro do Neguinho (Rosas)
+  - Rosas (Rosas)
+  - De Que Vale o Crime Neguinho da Favela (Rosas)
+  - Dia de Finados (Rosas)
+  - Neguinho da Favela - De Que Vale o Crime (Nossa História)
+  - Enterro do Neguinho (Rosas)
+  - Rosas (Rosas)
+  - Paraíso (Rosas)
+  - Enterro do Neguinho - Versão Videoclipe (Desistir Jamais)
+  - Mãe (Mãe)
 external_urls:
-  spotify: https://open.spotify.com/artist/6Oos9omfvMwlsZHn0H4t9W
-  wikipedia: https://pt.wikipedia.org/wiki/Atitude_Feminina
+  spotify: 'https://open.spotify.com/artist/6Oos9omfvMwlsZHn0H4t9W'
+  wikipedia: 'https://pt.wikipedia.org/wiki/Atitude_Feminina'
 image_path: 03_Resources/source_material/ArtistPortraits/atitude_feminina.jpg
 biography_enhanced_at: '2025-11-02T07:30:46.865541'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://pt.wikipedia.org/wiki/Atitude_Feminina
-- https://recentmusic.com/artist/6Oos9omfvMwlsZHn0H4t9W/
-- https://jornaldebrasilia.com.br/entretenimento/grupo-atitude-feminina-comemora-20-anos-de-carreira/
-- https://www.viberate.com/artist/atitude-feminina/
-- https://www.womex.com/virtual/grv_musica_media/news/from_brasilia_brazil
+  - 'https://pt.wikipedia.org/wiki/Atitude_Feminina'
+  - 'https://recentmusic.com/artist/6Oos9omfvMwlsZHn0H4t9W/'
+  - >-
+    https://jornaldebrasilia.com.br/entretenimento/grupo-atitude-feminina-comemora-20-anos-de-carreira/
+  - 'https://www.viberate.com/artist/atitude-feminina/'
+  - 'https://www.womex.com/virtual/grv_musica_media/news/from_brasilia_brazil'
 network_extracted: true
 entry_created: '2025-11-02T07:30:46.865552'
 last_updated: '2025-12-23T08:16:04.989574'
-origin: São Sebastião, Distrito Federal, Brazil
+origin: 'São Sebastião, Distrito Federal, Brazil'
+artist_type: band
 ---
 
 ![](atitude_feminina.jpg)

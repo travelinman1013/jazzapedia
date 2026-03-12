@@ -5,26 +5,26 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1959-12-21'
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- soul blues
-- blues
-- retro soul
+  - soul blues
+  - blues
+  - retro soul
 instruments:
-- eponymous
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
-  mbid: 9ad1928a-b2b3-421b-a9c5-f96e8a54ab9c
-  name: Mem Shannon & The Membership
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 9ad1928a-b2b3-421b-a9c5-f96e8a54ab9c
+    name: Mem Shannon & The Membership
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/mem_shannon.jpg
   caption: Mem Shannon
   background: non_vocal_instrumentalist
   born: '1959-12-21'
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 112.3
   energy_avg: 0.614
@@ -32,7 +32,7 @@ audio_profile:
   danceability_avg: 0.62
   acousticness_avg: 0.536
   instrumentalness_avg: 0.118
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.064
   liveness_avg: 0.241
   track_count: 50
@@ -40,52 +40,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Membership Band
+    - The Membership Band
   influenced:
-  - Contemporary New Orleans blues musicians
+    - Contemporary New Orleans blues musicians
   mentors:
-  - New Orleans blues and R&B tradition
+    - New Orleans blues and R&B tradition
 spotify_data:
   followers: 797
   id: 5iKfnbmxUemw2QQ2o5JQLH
   popularity: 6
-  url: https://open.spotify.com/artist/5iKfnbmxUemw2QQ2o5JQLH
+  url: 'https://open.spotify.com/artist/5iKfnbmxUemw2QQ2o5JQLH'
 discography_enriched: true
 top_tracks:
-- Doing The Best That I Can (Memphis In The Morning)
-- I'll Kiss A Pitbull (I'm From Phunkville)
-- Maxine (A Cab Driver's Blues)
-- Blues Is Back
-- S.U.V. (Memphis In The Morning)
-- 'No Religion - Live (Live: A Night at Tipitina''s)'
-- 'Who Are They - Live (Live: A Night at Tipitina''s)'
-- Phunkville (I'm From Phunkville)
-- Play the Guitar Son (A Cab Driver's Blues)
-- Taxicab Driver (A Cab Driver's Blues)
+  - Doing The Best That I Can (Memphis In The Morning)
+  - I'll Kiss A Pitbull (I'm From Phunkville)
+  - Maxine (A Cab Driver's Blues)
+  - Blues Is Back
+  - S.U.V. (Memphis In The Morning)
+  - 'No Religion - Live (Live: A Night at Tipitina''s)'
+  - 'Who Are They - Live (Live: A Night at Tipitina''s)'
+  - Phunkville (I'm From Phunkville)
+  - Play the Guitar Son (A Cab Driver's Blues)
+  - Taxicab Driver (A Cab Driver's Blues)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/374d40b2-c29d-4410-9460-2eb82fe309d2
-  spotify: https://open.spotify.com/artist/5iKfnbmxUemw2QQ2o5JQLH
-  wikipedia: https://en.wikipedia.org/wiki/Mem_Shannon
+  musicbrainz: 'https://musicbrainz.org/artist/374d40b2-c29d-4410-9460-2eb82fe309d2'
+  spotify: 'https://open.spotify.com/artist/5iKfnbmxUemw2QQ2o5JQLH'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mem_Shannon'
 image_path: 03_Resources/source_material/ArtistPortraits/mem_shannon.jpg
 biography_enhanced_at: '2025-11-20T07:08:32.428017'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Mem_Shannon
-- https://www.memshannon.com/bio-1?i=y
-- https://soulbluesmusic.com/memshannonpage.htm
-- https://www.allmusic.com/artist/mem-shannon-mn0000414757
-- https://lahoradelblues.com/en/mem-shannon-live/
-- https://offbeat.com/articles/mem-shannons-spend-some-time-with-me-andy-j-forest/
-- http://www.bluesaccess.com/No_31/reviews/shannon.html
+  - 'https://en.wikipedia.org/wiki/Mem_Shannon'
+  - 'https://www.memshannon.com/bio-1?i=y'
+  - 'https://soulbluesmusic.com/memshannonpage.htm'
+  - 'https://www.allmusic.com/artist/mem-shannon-mn0000414757'
+  - 'https://lahoradelblues.com/en/mem-shannon-live/'
+  - >-
+    https://offbeat.com/articles/mem-shannons-spend-some-time-with-me-andy-j-forest/
+  - 'http://www.bluesaccess.com/No_31/reviews/shannon.html'
 network_extracted: true
 entry_created: '2025-11-20T07:08:32.428028'
 last_updated: '2025-12-23T08:16:12.955721'
 gender: Male
 musicbrainz_id: 374d40b2-c29d-4410-9460-2eb82fe309d2
 tags:
-- blues
-- electric blues
+  - blues
+  - electric blues
+origin: 'New Orleans, Louisiana, United States'
 ---
 
 ![](mem_shannon.jpg)

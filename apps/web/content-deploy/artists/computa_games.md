@@ -14,7 +14,7 @@ audio_profile:
   valence_avg: 0.636
   danceability_avg: 0.588
   acousticness_avg: 0.186
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -5.8
   speechiness_avg: 0.034
   liveness_avg: 0.191
@@ -23,41 +23,44 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Smash Higgins
-  - Fishbone Walkie
+    - Smash Higgins
+    - Fishbone Walkie
   influenced: []
   mentors: []
 spotify_data:
   followers: 13426
   id: 1tMBaN8Tm6dj9i67jayVUW
   popularity: 14
-  url: https://open.spotify.com/artist/1tMBaN8Tm6dj9i67jayVUW
+  url: 'https://open.spotify.com/artist/1tMBaN8Tm6dj9i67jayVUW'
 discography_enriched: true
 top_tracks:
-- We Like It (Lost Boys Life)
-- Every Single Night (Lost Boys Life)
-- Lost Boys Life (Lost Boys Life)
-- Lost Boys Life (Voice Memo) (Lost Boys Life)
-- She Just Laughed Because My Joke Lacked Comic Timing (She Just Laughed Because My Joke Lacked Comic Timing)
-- Computer Games (Computer Games)
-- We Like It (Lost Boys Life)
-- Every Single Night (Lost Boys Life)
-- Lost Boys Life (Lost Boys Life)
-- Lost Boys Life - Voice Memo (Lost Boys Life)
+  - We Like It (Lost Boys Life)
+  - Every Single Night (Lost Boys Life)
+  - Lost Boys Life (Lost Boys Life)
+  - Lost Boys Life (Voice Memo) (Lost Boys Life)
+  - >-
+    She Just Laughed Because My Joke Lacked Comic Timing (She Just Laughed
+    Because My Joke Lacked Comic Timing)
+  - Computer Games (Computer Games)
+  - We Like It (Lost Boys Life)
+  - Every Single Night (Lost Boys Life)
+  - Lost Boys Life (Lost Boys Life)
+  - Lost Boys Life - Voice Memo (Lost Boys Life)
 external_urls:
-  spotify: https://open.spotify.com/artist/1tMBaN8Tm6dj9i67jayVUW
+  spotify: 'https://open.spotify.com/artist/1tMBaN8Tm6dj9i67jayVUW'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/computa_games.jpg
 biography_enhanced_at: '2025-12-04T07:31:11.294923'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.beatport.com/artist/computa-games/293279
-- https://music.metason.net/artistinfo?name=Computa+Games
+  - 'https://www.beatport.com/artist/computa-games/293279'
+  - 'https://music.metason.net/artistinfo?name=Computa+Games'
 network_extracted: true
 entry_created: '2025-12-04T07:31:11.294940'
 last_updated: '2025-12-23T08:16:07.163054'
-origin: California, United States
+origin: 'California, United States'
+artist_type: band
 ---
 
 ![](computa_games.jpg)

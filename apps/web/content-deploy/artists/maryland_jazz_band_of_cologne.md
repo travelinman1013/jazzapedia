@@ -5,7 +5,8 @@ schema_version: 2
 status: active
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/maryland_jazz_band_of_cologne.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/maryland_jazz_band_of_cologne.jpg
   caption: Maryland Jazz Band Of Cologne
   background: solo_singer
 audio_profile:
@@ -23,49 +24,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Gerhard "Doggy" Hund
-  - Louis Nelson
-  - Percy Humphrey
-  - Sing Miller & Sam Lee
-  - Various New Orleans guest musicians (e.g., Ken Colyer, Thomas Jefferson, Wallace Davenport, Alvin Alcorn, Sylvia Kuumba
-    Williams, Michael White, Craig Klein, Tricia Boutté, Sammy Rimington)
+    - Gerhard "Doggy" Hund
+    - Louis Nelson
+    - Percy Humphrey
+    - Sing Miller & Sam Lee
+    - >-
+      Various New Orleans guest musicians (e.g., Ken Colyer, Thomas Jefferson,
+      Wallace Davenport, Alvin Alcorn, Sylvia Kuumba Williams, Michael White,
+      Craig Klein, Tricia Boutté, Sammy Rimington)
   influenced:
-  - German and European New Orleans‑style traditional jazz bands (general)
+    - German and European New Orleans‑style traditional jazz bands (general)
   mentors:
-  - Classic New Orleans jazz tradition
+    - Classic New Orleans jazz tradition
 spotify_data:
   followers: 208
   id: 1lpaFjJlUivm3DKFtxvPbf
   popularity: 12
-  url: https://open.spotify.com/artist/1lpaFjJlUivm3DKFtxvPbf
+  url: 'https://open.spotify.com/artist/1lpaFjJlUivm3DKFtxvPbf'
 discography_enriched: true
 top_tracks:
-- I'm Walking (Walking to New Orleans)
-- Let The Four Winds Blow (New Orleans 'Yea Yea' Breakdown)
-- Sheik of Araby (Walking to New Orleans)
-- Let's All Go Down to New Orleans (Let's All Go Down to New Orleans)
-- Easter Parade (Walking to New Orleans)
-- (When It's) Sleepy Time Down South (Let's All Go Down to New Orleans)
-- I Still Get Jealous (Let's All Go Down to New Orleans)
-- C'est Si Bon (Let's All Go Down to New Orleans)
-- Down In Honky Tonk Town (New Orleans 'Yea Yea' Breakdown)
-- Blue Monday (New Orleans 'Yea Yea' Breakdown)
+  - I'm Walking (Walking to New Orleans)
+  - Let The Four Winds Blow (New Orleans 'Yea Yea' Breakdown)
+  - Sheik of Araby (Walking to New Orleans)
+  - Let's All Go Down to New Orleans (Let's All Go Down to New Orleans)
+  - Easter Parade (Walking to New Orleans)
+  - (When It's) Sleepy Time Down South (Let's All Go Down to New Orleans)
+  - I Still Get Jealous (Let's All Go Down to New Orleans)
+  - C'est Si Bon (Let's All Go Down to New Orleans)
+  - Down In Honky Tonk Town (New Orleans 'Yea Yea' Breakdown)
+  - Blue Monday (New Orleans 'Yea Yea' Breakdown)
 external_urls:
-  spotify: https://open.spotify.com/artist/1lpaFjJlUivm3DKFtxvPbf
-  wikipedia: https://de.wikipedia.org/wiki/New_Orleans_Jazz_Band_of_Cologne
+  spotify: 'https://open.spotify.com/artist/1lpaFjJlUivm3DKFtxvPbf'
+  wikipedia: 'https://de.wikipedia.org/wiki/New_Orleans_Jazz_Band_of_Cologne'
 image_path: 03_Resources/source_material/ArtistPortraits/maryland_jazz_band_of_cologne.jpg
 biography_enhanced_at: '2025-12-19T01:42:09.967013'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://de.wikipedia.org/wiki/New_Orleans_Jazz_Band_of_Cologne
-- https://neworleansjazzband.cologne
-- https://www.releases.kuk-art.com/en/artists/new-orleans-jazz-band-of-cologne
-- https://secondhandsongs.com/artist/156025/all
+  - 'https://de.wikipedia.org/wiki/New_Orleans_Jazz_Band_of_Cologne'
+  - 'https://neworleansjazzband.cologne'
+  - 'https://www.releases.kuk-art.com/en/artists/new-orleans-jazz-band-of-cologne'
+  - 'https://secondhandsongs.com/artist/156025/all'
 network_extracted: true
 entry_created: '2025-12-19T01:42:09.967027'
 last_updated: '2025-12-23T08:16:12.800584'
-origin: Kerpen (near Cologne), North Rhine-Westphalia, Germany
+origin: 'Kerpen (near Cologne), North Rhine-Westphalia, Germany'
+artist_type: band
 ---
 
 ![](maryland_jazz_band_of_cologne.jpg)

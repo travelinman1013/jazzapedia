@@ -2,12 +2,12 @@
 title: Lucius
 wiki_slug: lucius
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '2005'
 genres: []
 instruments:
-- background vocals
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lucius.jpg
   caption: Lucius
@@ -28,84 +28,86 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Dan Molad
-  - Peter Lalish
-  - Brandi Carlile
-  - Sheryl Crow
-  - Joni Mitchell
-  - The War on Drugs, John Legend, The Killers, Harry Styles, Nathaniel Rateliff & The Night Sweats, Black Pumas, Jeff Tweedy,
-    Ozzy Osbourne
+    - Dan Molad
+    - Peter Lalish
+    - Brandi Carlile
+    - Sheryl Crow
+    - Joni Mitchell
+    - >-
+      The War on Drugs, John Legend, The Killers, Harry Styles, Nathaniel
+      Rateliff & The Night Sweats, Black Pumas, Jeff Tweedy, Ozzy Osbourne
   influenced:
-  - Emerging indie pop vocal groups
+    - Emerging indie pop vocal groups
   mentors:
-  - Berklee College of Music faculty
+    - Berklee College of Music faculty
 spotify_data:
   followers: 198219
   id: 1WrqUPWlHN5FXCRcQgrkas
   popularity: 53
-  url: https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas
+  url: 'https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas'
 discography_enriched: true
 top_tracks:
-- I Don't Live Here Anymore (feat. Lucius) (I Don’t Live Here Anymore)
-- You and Me On The Rock (feat. Lucius) (In These Silent Days)
-- Babe I Know (Tearing At The Seams)
-- Two of Us On the Run (Wildewoman)
-- Final Days (Lucius)
-- Howling (The Day My Father Died)
-- Impressions (feat. Madison Cunningham)
-- Right Down The Line
-- My God (feat. Weyes Blood) (Imploding The Mirage)
-- Until We Get There (Wildewoman)
+  - I Don't Live Here Anymore (feat. Lucius) (I Don’t Live Here Anymore)
+  - You and Me On The Rock (feat. Lucius) (In These Silent Days)
+  - Babe I Know (Tearing At The Seams)
+  - Two of Us On the Run (Wildewoman)
+  - Final Days (Lucius)
+  - Howling (The Day My Father Died)
+  - Impressions (feat. Madison Cunningham)
+  - Right Down The Line
+  - My God (feat. Weyes Blood) (Imploding The Mirage)
+  - Until We Get There (Wildewoman)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1676172f-657a-4771-96ff-4a1c2ef1997e
-  spotify: https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas
-  wikipedia: https://en.wikipedia.org/wiki/Lucius_(band)
+  musicbrainz: 'https://musicbrainz.org/artist/1676172f-657a-4771-96ff-4a1c2ef1997e'
+  spotify: 'https://open.spotify.com/artist/1WrqUPWlHN5FXCRcQgrkas'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lucius_(band)'
 image_path: 03_Resources/source_material/ArtistPortraits/lucius.jpg
 biography_enhanced_at: '2025-10-26T12:42:46.364286'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://concord.com/artist/lucius/
-- https://dinealonerecords.com/artists/lucius/
-- https://entertainmentsouthwales.wordpress.com/2016/04/11/2016-04-meet-band-lucius-html/
-- https://www.interviewmagazine.com/music/lucius-wildewoman
-- https://en.wikipedia.org/wiki/Lucius_(band)
+  - 'https://concord.com/artist/lucius/'
+  - 'https://dinealonerecords.com/artists/lucius/'
+  - >-
+    https://entertainmentsouthwales.wordpress.com/2016/04/11/2016-04-meet-band-lucius-html/
+  - 'https://www.interviewmagazine.com/music/lucius-wildewoman'
+  - 'https://en.wikipedia.org/wiki/Lucius_(band)'
 network_extracted: true
 entry_created: '2025-10-26T12:42:46.364295'
 last_updated: '2025-12-23T08:16:12.349008'
 disambiguation: US indie pop band
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 44023f08-17e6-496e-822e-3c2e5665029e
-  name: Andrew Burri
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9c0422ab-d482-41ac-bdbf-2fc4b61b8477
-  name: Holly Laessig
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2a246591-d79d-4d41-8eb4-8f30be1abf30
-  name: Peter Lalish
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c3ec21ee-cd6c-4d5f-9575-c550c99ef61f
-  name: Dan Molad
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8345ac66-2d74-4f98-8e21-4f3a8bcf5a2e
-  name: Jess Wolfe
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 44023f08-17e6-496e-822e-3c2e5665029e
+    name: Andrew Burri
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9c0422ab-d482-41ac-bdbf-2fc4b61b8477
+    name: Holly Laessig
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2a246591-d79d-4d41-8eb4-8f30be1abf30
+    name: Peter Lalish
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c3ec21ee-cd6c-4d5f-9575-c550c99ef61f
+    name: Dan Molad
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8345ac66-2d74-4f98-8e21-4f3a8bcf5a2e
+    name: Jess Wolfe
 musicbrainz_id: 1676172f-657a-4771-96ff-4a1c2ef1997e
-origin: Brooklyn
+origin: 'Brooklyn, New York, United States'
 tags:
-- adult alternative pop/rock
-- alternative
-- alternative/indie rock
+  - adult alternative pop/rock
+  - alternative
+  - alternative/indie rock
 ---
 
 ![](lucius.jpg)

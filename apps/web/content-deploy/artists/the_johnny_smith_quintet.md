@@ -4,49 +4,53 @@ biography_enhanced_at: '2026-01-12T02:05:27.813554'
 enhancement_provider: perplexity
 entry_created: '2026-01-12T02:05:27.813559'
 external_urls:
-  spotify: https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q
-  wikipedia: https://en.wikipedia.org/wiki/Johnny_Smith
+  spotify: 'https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q'
+  wikipedia: 'https://en.wikipedia.org/wiki/Johnny_Smith'
 genres:
-- cool jazz
-- jazz ballads
-- jazz
-- bebop
+  - cool jazz
+  - jazz ballads
+  - jazz
+  - bebop
 image_path: 03_Resources/source_material/ArtistPortraits/the_johnny_smith_quintet.jpg
 is_active: true
 last_updated: '2026-01-12T02:05:27.813565'
 musical_connections:
   collaborators:
-  - Stan Getz
-  - Eddie Safranski
-  - Sanford Gold
-  - Don Lamond
-  - Benny Goodman
+    - Stan Getz
+    - Eddie Safranski
+    - Sanford Gold
+    - Don Lamond
+    - Benny Goodman
   influenced:
-  - Jim Hall
-  - Mundell Lowe and contemporaneous jazz guitarists
-  - Guitar makers and later jazz guitarists using signature models
+    - Jim Hall
+    - Mundell Lowe and contemporaneous jazz guitarists
+    - Guitar makers and later jazz guitarists using signature models
   mentors:
-  - Django Reinhardt
-  - Charlie Christian
+    - Django Reinhardt
+    - Charlie Christian
 network_extracted: true
-origin: Birmingham, Alabama, United States
+origin: 'Portland, Maine, United States'
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Johnny_Smith
-- https://americanhistory.si.edu/collections/object/nmah_1414875
-- https://www.vintageguitar.com/17127/johnny-smith/
-- https://www.gibson.com/blogs/gibson-gazette/the-legacy-of-johnny-smith-a-jazz-icon
-- https://www.allaboutjazz.com/musicians/johnny-smith/
-- https://jazzguitartoday.com/2024/06/celebrating-the-artistry-of-johnny-smith/
-- https://michellemercer.substack.com/p/guitarist-interrupted-conversation
-- https://www.namm.org/library/oral-history/johnny-smith
+  - 'https://en.wikipedia.org/wiki/Johnny_Smith'
+  - 'https://americanhistory.si.edu/collections/object/nmah_1414875'
+  - 'https://www.vintageguitar.com/17127/johnny-smith/'
+  - >-
+    https://www.gibson.com/blogs/gibson-gazette/the-legacy-of-johnny-smith-a-jazz-icon
+  - 'https://www.allaboutjazz.com/musicians/johnny-smith/'
+  - >-
+    https://jazzguitartoday.com/2024/06/celebrating-the-artistry-of-johnny-smith/
+  - 'https://michellemercer.substack.com/p/guitarist-interrupted-conversation'
+  - 'https://www.namm.org/library/oral-history/johnny-smith'
 spotify_data:
   followers: 14682
   id: 3u7Tz2oLTRPG9Cn7PcuZ2q
   popularity: 38
-  url: https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q
+  url: 'https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q'
 status: active
-title: THE JOHNNY SMITH QUINTET
+title: The Johnny Smith Quintet
+birth_place: 'Birmingham, Alabama, United States'
+birth_date: '1922'
 ---
 
 ![](the_johnny_smith_quintet.jpg)

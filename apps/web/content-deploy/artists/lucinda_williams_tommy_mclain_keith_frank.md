@@ -1,19 +1,20 @@
 ---
-title: Lucinda Williams, Tommy McLain, Keith Frank
+title: 'Lucinda Williams, Tommy McLain, Keith Frank'
 wiki_slug: lucinda-williams-tommy-mclain-keith-frank
 schema_version: 2
 status: active
-birth_place: Lake Charles, Louisiana, USA
+birth_place: 'Lake Charles, Louisiana, United States'
 genres:
-- alt country
-- americana
-- singer-songwriter
-- folk
+  - alt country
+  - americana
+  - singer-songwriter
+  - folk
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/lucinda_williams_tommy_mclain_keith_frank.jpg
-  caption: Lucinda Williams, Tommy McLain, Keith Frank
+  image: >-
+    03_Resources/source_material/ArtistPortraits/lucinda_williams_tommy_mclain_keith_frank.jpg
+  caption: 'Lucinda Williams, Tommy McLain, Keith Frank'
   background: solo_singer
-  origin: Lake Charles, Louisiana, USA
+  origin: 'Lake Charles, Louisiana, USA'
 audio_profile:
   tempo_avg: 109.7
   energy_avg: 0.477
@@ -29,50 +30,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Steve Earle
-  - Jim Lauderdale
-  - Tommy McLain
+    - Steve Earle
+    - Jim Lauderdale
+    - Tommy McLain
   influenced:
-  - Kacey Musgraves
-  - Jason Isbell
-  - Brandi Carlile
+    - Kacey Musgraves
+    - Jason Isbell
+    - Brandi Carlile
   mentors:
-  - Miller Williams
-  - Blues and Folk Traditions
+    - Miller Williams
+    - Blues and Folk Traditions
 spotify_data:
   followers: 277742
   id: 60ht0hWRy1yjUDfNsLuHuP
   popularity: 50
-  url: https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP
+  url: 'https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP'
 discography_enriched: true
 top_tracks:
-- Okie From Muskogee - Live
-- Fruits Of My Labor (World Without Tears)
-- Can't Let Go (Car Wheels On A Gravel Road)
-- Car Wheels On A Gravel Road (Car Wheels On A Gravel Road)
-- This Train is Bound for Glory
-- Are You Alright? (West)
-- Something About What Happens When We Talk. (Sweet Old World)
-- Righteously (World Without Tears)
-- Factory Girls (Within a Mile of Home)
-- Right In Time (Car Wheels On A Gravel Road)
+  - Okie From Muskogee - Live
+  - Fruits Of My Labor (World Without Tears)
+  - Can't Let Go (Car Wheels On A Gravel Road)
+  - Car Wheels On A Gravel Road (Car Wheels On A Gravel Road)
+  - This Train is Bound for Glory
+  - Are You Alright? (West)
+  - Something About What Happens When We Talk. (Sweet Old World)
+  - Righteously (World Without Tears)
+  - Factory Girls (Within a Mile of Home)
+  - Right In Time (Car Wheels On A Gravel Road)
 external_urls:
-  spotify: https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP
-  wikipedia: https://en.wikipedia.org/wiki/Lucinda_Williams
-image_path: 03_Resources/source_material/ArtistPortraits/lucinda_williams_tommy_mclain_keith_frank.jpg
+  spotify: 'https://open.spotify.com/artist/60ht0hWRy1yjUDfNsLuHuP'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lucinda_Williams'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/lucinda_williams_tommy_mclain_keith_frank.jpg
 biography_enhanced_at: '2025-11-17T10:49:15.080923'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Lucinda_Williams
-- https://encyclopediaofarkansas.net/entries/lucinda-williams-3012/
-- https://heypop.substack.com/p/lucinda-williams-grew-up-chasing
-- https://thebluegrasssituation.com/read/canon-fodder-lucinda-williams-lucinda-williams/
-- https://wknc.org/2021/04/28/lucinda-williams-countrys-goth-aunt/
+  - 'https://en.wikipedia.org/wiki/Lucinda_Williams'
+  - 'https://encyclopediaofarkansas.net/entries/lucinda-williams-3012/'
+  - 'https://heypop.substack.com/p/lucinda-williams-grew-up-chasing'
+  - >-
+    https://thebluegrasssituation.com/read/canon-fodder-lucinda-williams-lucinda-williams/
+  - 'https://wknc.org/2021/04/28/lucinda-williams-countrys-goth-aunt/'
 network_extracted: true
 entry_created: '2025-11-17T10:49:15.080933'
 last_updated: '2025-12-23T08:16:12.343593'
-
+birth_date: '1953-01-26'
+artist_type: person
 ---
 
 ![](lucinda_williams_tommy_mclain_keith_frank.jpg)

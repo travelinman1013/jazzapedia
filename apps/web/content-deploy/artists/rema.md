@@ -2,56 +2,56 @@
 artist_type: person
 biography_enhanced_at: '2025-12-28T01:57:17.022401'
 birth_date: '2000-05-01'
-birth_place: Nigeria
+birth_place: 'Benin City, Edo State, Nigeria'
 disambiguation: Nigerian singer and rapper
 enhancement_provider: perplexity
 entry_created: '2025-12-28T01:57:17.022415'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/720c46ba-a0e4-4b58-aee2-3bd70c70901f
-  spotify: https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS
-  wikipedia: https://en.wikipedia.org/wiki/Rema_(musician)
+  musicbrainz: 'https://musicbrainz.org/artist/720c46ba-a0e4-4b58-aee2-3bd70c70901f'
+  spotify: 'https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS'
+  wikipedia: 'https://en.wikipedia.org/wiki/Rema_(musician)'
 gender: Male
 genres:
-- afrobeats
-- afrobeat
-- afropop
-- afropiano
+  - afrobeats
+  - afrobeat
+  - afropop
+  - afropiano
 image_path: 03_Resources/source_material/ArtistPortraits/rema.jpg
 last_updated: '2025-12-28T01:57:17.022417'
 musical_connections:
   collaborators:
-  - Selena Gomez
-  - Chris Brown
-  - 6lack
-  - AJ Tracey
-  - Yseult
-  - Alpha P
+    - Selena Gomez
+    - Chris Brown
+    - 6lack
+    - AJ Tracey
+    - Yseult
+    - Alpha P
   influenced:
-  - Emerging Afrobeats and Afrorave‑leaning artists (various)
+    - Emerging Afrobeats and Afrorave‑leaning artists (various)
   mentors:
-  - D'Prince
-  - Don Jazzy
+    - D'Prince
+    - Don Jazzy
 musicbrainz_id: 720c46ba-a0e4-4b58-aee2-3bd70c70901f
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Rema_(musician)
-- https://www.mavinrecords.com/artists/rema/
-- https://www.popfiltr.com/artist-profile/rema
-- https://www.allamericanspeakers.com/celebritytalentbios/Rema/466646
-- https://www.rovr.live/artists/rema
-- https://www.youtube.com/watch?v=td87iUXQfnI
+  - 'https://en.wikipedia.org/wiki/Rema_(musician)'
+  - 'https://www.mavinrecords.com/artists/rema/'
+  - 'https://www.popfiltr.com/artist-profile/rema'
+  - 'https://www.allamericanspeakers.com/celebritytalentbios/Rema/466646'
+  - 'https://www.rovr.live/artists/rema'
+  - 'https://www.youtube.com/watch?v=td87iUXQfnI'
 spotify_data:
   followers: 9349942
   id: 46pWGuE3dSwY3bMMXGBvVS
   popularity: 78
-  url: https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS
+  url: 'https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS'
 status: active
 tags:
-- afrobeat
-- afrobeats
-- afrorave
-title: rema
+  - afrobeat
+  - afrobeats
+  - afrorave
+title: Rema
 ---
 
 ![](rema.jpg)

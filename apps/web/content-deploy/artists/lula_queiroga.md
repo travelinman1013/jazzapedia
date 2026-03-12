@@ -2,44 +2,45 @@
 artist_type: person
 biography_enhanced_at: '2026-01-18T07:49:37.584237'
 birth_date: '1960-03-17'
-birth_place: Recife
+birth_place: 'Recife, Pernambuco, Brazil'
 enhancement_provider: perplexity
 entry_created: '2026-01-18T07:49:37.584243'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8ea47296-ca71-4102-aa2a-ead7d6d2d7f7
-  spotify: https://open.spotify.com/artist/1RoHmXBnAHygWrNyCqFX0L
-  wikipedia: https://pt.wikipedia.org/wiki/Lula_Queiroga
+  musicbrainz: 'https://musicbrainz.org/artist/8ea47296-ca71-4102-aa2a-ead7d6d2d7f7'
+  spotify: 'https://open.spotify.com/artist/1RoHmXBnAHygWrNyCqFX0L'
+  wikipedia: 'https://pt.wikipedia.org/wiki/Lula_Queiroga'
 gender: Male
 genres:
-- new mpb
+  - new mpb
 image_path: 03_Resources/source_material/ArtistPortraits/lula_queiroga.jpg
 last_updated: '2026-01-18T07:49:37.584244'
 musical_connections:
   collaborators:
-  - Lenine
-  - Pedro Luís
-  - Arnaldo Antunes
-  - Braulio Tavares
-  - Marcelo Falcão
-  - Mu Chebabi, Lucky Luciano, Fernando Piancó, Ivan Santos
-  - Elba Ramalho
+    - Lenine
+    - Pedro Luís
+    - Arnaldo Antunes
+    - Braulio Tavares
+    - Marcelo Falcão
+    - 'Mu Chebabi, Lucky Luciano, Fernando Piancó, Ivan Santos'
+    - Elba Ramalho
   influenced: []
   mentors:
-  - Luís Queiroga
-  - Meves Gama
+    - Luís Queiroga
+    - Meves Gama
 musicbrainz_id: 8ea47296-ca71-4102-aa2a-ead7d6d2d7f7
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://pt.wikipedia.org/wiki/Lula_Queiroga
-- https://soulbrasil.com/sound-lenine-lula-queiroga-braulio-tavares-ivan-santos/
-- https://www.aaemusic.com/artist/lula-queiroga
-- https://www.viberate.com/artist/lula-queiroga/
+  - 'https://pt.wikipedia.org/wiki/Lula_Queiroga'
+  - >-
+    https://soulbrasil.com/sound-lenine-lula-queiroga-braulio-tavares-ivan-santos/
+  - 'https://www.aaemusic.com/artist/lula-queiroga'
+  - 'https://www.viberate.com/artist/lula-queiroga/'
 spotify_data:
   followers: 25098
   id: 1RoHmXBnAHygWrNyCqFX0L
   popularity: 42
-  url: https://open.spotify.com/artist/1RoHmXBnAHygWrNyCqFX0L
+  url: 'https://open.spotify.com/artist/1RoHmXBnAHygWrNyCqFX0L'
 status: active
 title: Lula Queiroga
 ---

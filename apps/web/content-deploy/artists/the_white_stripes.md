@@ -1,17 +1,17 @@
 ---
-title: THE WHITE STRIPES
+title: The White Stripes
 wiki_slug: the-white-stripes
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
-birth_date: '1997-07-14'
+birth_date: '1975-07-09'
 genres:
-- garage rock
-- blues rock
-- rock
-- alternative rock
+  - garage rock
+  - blues rock
+  - rock
+  - alternative rock
 instruments:
-- original
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_white_stripes.jpg
   caption: THE WHITE STRIPES
@@ -32,73 +32,78 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Meg White
-  - Dave Buick
-  - Jim Diamond
-  - Pavement
-  - Sleater-Kinney
+    - Meg White
+    - Dave Buick
+    - Jim Diamond
+    - Pavement
+    - Sleater-Kinney
   influenced:
-  - 2000s garage rock revival and 21st‑century rock bands (e.g., peers and followers in the garage revival movement)
-  - Contemporary indie and alternative rock guitarists/songwriters
+    - >-
+      2000s garage rock revival and 21st‑century rock bands (e.g., peers and
+      followers in the garage revival movement)
+    - Contemporary indie and alternative rock guitarists/songwriters
   mentors:
-  - Son House
-  - Goober and the Peas
-  - Mississippi Delta blues artists (e.g., Robert Johnson, traditional Delta repertoire)
+    - Son House
+    - Goober and the Peas
+    - >-
+      Mississippi Delta blues artists (e.g., Robert Johnson, traditional Delta
+      repertoire)
 spotify_data:
   followers: 3578152
   id: 4F84IBURUo98rz4r61KF70
   popularity: 71
-  url: https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70
+  url: 'https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70'
 discography_enriched: true
 top_tracks:
-- Seven Nation Army (Elephant)
-- Fell In Love With a Girl (White Blood Cells)
-- We're Going to Be Friends (White Blood Cells)
-- Icky Thump (Icky Thump)
-- Blue Orchid (Get Behind Me Satan)
-- The Hardest Button to Button (Elephant)
-- Seven Nation Army - The Glitch Mob Remix
-- Ball and Biscuit (Elephant)
-- Dead Leaves and the Dirty Ground (White Blood Cells)
-- I Just Don't Know What to Do With Myself (Elephant)
+  - Seven Nation Army (Elephant)
+  - Fell In Love With a Girl (White Blood Cells)
+  - We're Going to Be Friends (White Blood Cells)
+  - Icky Thump (Icky Thump)
+  - Blue Orchid (Get Behind Me Satan)
+  - The Hardest Button to Button (Elephant)
+  - Seven Nation Army - The Glitch Mob Remix
+  - Ball and Biscuit (Elephant)
+  - Dead Leaves and the Dirty Ground (White Blood Cells)
+  - I Just Don't Know What to Do With Myself (Elephant)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/11ae9fbb-f3d7-4a47-936f-4c0a04d3b3b5
-  spotify: https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70
-  wikipedia: https://en.wikipedia.org/wiki/The_White_Stripes
+  musicbrainz: 'https://musicbrainz.org/artist/11ae9fbb-f3d7-4a47-936f-4c0a04d3b3b5'
+  spotify: 'https://open.spotify.com/artist/4F84IBURUo98rz4r61KF70'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_White_Stripes'
 image_path: 03_Resources/source_material/ArtistPortraits/the_white_stripes.jpg
 biography_enhanced_at: '2025-12-09T04:49:00.732912'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Encyclopaedia Britannica – The White Stripes[4]
-- Detroit Historical Society – White Stripes, The[7]
-- Michigan Rock and Roll Legends – White Stripes[3]
-- 'American Songwriter – Behind the Band Name: The White Stripes[5]'
-- TeachRock – White Stripes[6]
-- YouTube – A Brief History of The White Stripes (transcript excerpts)[2]
-- YouTube – The Bizarre History of the White Stripes! (contextual details)[1]
+  - 'Encyclopaedia Britannica – The White Stripes[4]'
+  - 'Detroit Historical Society – White Stripes, The[7]'
+  - 'Michigan Rock and Roll Legends – White Stripes[3]'
+  - 'American Songwriter – Behind the Band Name: The White Stripes[5]'
+  - 'TeachRock – White Stripes[6]'
+  - 'YouTube – A Brief History of The White Stripes (transcript excerpts)[2]'
+  - 'YouTube – The Bizarre History of the White Stripes! (contextual details)[1]'
 network_extracted: true
 entry_created: '2025-12-09T04:49:00.732923'
 last_updated: '2025-12-23T08:16:17.290817'
 members:
-- begin: '1997'
-  end: '2011-02-02'
-  instruments:
-  - original
-  mbid: 3ae2fb37-8a23-429d-9920-bac811c4fc22
-  name: Jack White
-- begin: '1997'
-  end: '2011-02-02'
-  instruments:
-  - original
-  mbid: e49683e5-61e8-4f82-9069-e5d622bbb342
-  name: Meg White
+  - begin: '1997'
+    end: '2011-02-02'
+    instruments:
+      - original
+    mbid: 3ae2fb37-8a23-429d-9920-bac811c4fc22
+    name: Jack White
+  - begin: '1997'
+    end: '2011-02-02'
+    instruments:
+      - original
+    mbid: e49683e5-61e8-4f82-9069-e5d622bbb342
+    name: Meg White
 musicbrainz_id: 11ae9fbb-f3d7-4a47-936f-4c0a04d3b3b5
-origin: Detroit
+origin: 'Detroit, Michigan, United States'
 tags:
-- 2000's
-- alternative rock
-- american
+  - 2000's
+  - alternative rock
+  - american
+birth_place: 'Detroit, Michigan, United States'
 ---
 
 ![](the_white_stripes.jpg)

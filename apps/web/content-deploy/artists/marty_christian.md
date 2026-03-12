@@ -1,39 +1,40 @@
 ---
 biography_enhanced_at: '2026-01-05T07:59:18.713574'
-birth_place: Cleveland, Ohio, USA
+birth_place: 'Cleveland, Ohio, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-05T07:59:18.713580'
 external_urls:
-  spotify: https://open.spotify.com/artist/1SkREU1C2GYl4JSFuPXEQI
+  spotify: 'https://open.spotify.com/artist/1SkREU1C2GYl4JSFuPXEQI'
   wikipedia: ''
 genres:
-- christian country
-- southern gospel
-- bluegrass
+  - christian country
+  - southern gospel
+  - bluegrass
 image_path: 03_Resources/source_material/ArtistPortraits/marty_christian.jpg
 last_updated: '2026-01-05T07:59:18.713580'
 musical_connections:
   collaborators: []
   influenced: []
   mentors:
-  - Henry Gray
-  - Carol Fran
+    - Henry Gray
+    - Carol Fran
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.martychristian.com
-- https://www.martychristian.com/presspromo.html
-- https://crescentcitysounds.org/artists/marty-christian
-- https://sentirelblues.blogspot.com/2022/03/marty-christian.html
-- https://www.viberate.com/artist/marty-christian/
+  - 'https://www.martychristian.com'
+  - 'https://www.martychristian.com/presspromo.html'
+  - 'https://crescentcitysounds.org/artists/marty-christian'
+  - 'https://sentirelblues.blogspot.com/2022/03/marty-christian.html'
+  - 'https://www.viberate.com/artist/marty-christian/'
 spotify_data:
   followers: 2563
   id: 1SkREU1C2GYl4JSFuPXEQI
   popularity: 25
-  url: https://open.spotify.com/artist/1SkREU1C2GYl4JSFuPXEQI
+  url: 'https://open.spotify.com/artist/1SkREU1C2GYl4JSFuPXEQI'
 status: active
 title: Marty Christian
-
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](marty_christian.jpg)

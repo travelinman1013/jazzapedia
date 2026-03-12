@@ -5,19 +5,19 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1953-07-28'
-birth_place: São Paulo
+birth_place: 'São Paulo, São Paulo, Brazil'
 genres:
-- mpb
-- brazilian pop
-- brazilian rock
+  - mpb
+  - brazilian pop
+  - brazilian rock
 instruments:
-- piano
+  - piano
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0b4f44d6-9fca-4611-88fd-f5f668efc2c9
-  name: Moto Perpétuo
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0b4f44d6-9fca-4611-88fd-f5f668efc2c9
+    name: Moto Perpétuo
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/guilherme_arantes.jpg
   caption: Guilherme Arantes
@@ -39,60 +39,62 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Elis Regina
-  - César Camargo Mariano
-  - Claudio Lucci
-  - Diógenes
+    - Elis Regina
+    - César Camargo Mariano
+    - Claudio Lucci
+    - Diógenes
   influenced:
-  - Mano Brown
-  - Vanessa da Mata
-  - Marcelo Jeneci
-  - Tulipa Ruiz
-  - Curumin
-  - Céu
-  - Bruna Caram
+    - Mano Brown
+    - Vanessa da Mata
+    - Marcelo Jeneci
+    - Tulipa Ruiz
+    - Curumin
+    - Céu
+    - Bruna Caram
   mentors:
-  - Tom Jobim
+    - Tom Jobim
 spotify_data:
   followers: 531398
   id: 3LNTNOb2Bhh0g0etnZEyNE
   popularity: 51
-  url: https://open.spotify.com/artist/3LNTNOb2Bhh0g0etnZEyNE
+  url: 'https://open.spotify.com/artist/3LNTNOb2Bhh0g0etnZEyNE'
 discography_enriched: true
 top_tracks:
-- Meu Mundo E Nada Mais (Lance Legal)
-- Cheia de Charme (Despertar)
-- Cheia De Charme (Lance Legal)
-- Um Dia, um Adeus (Guilherme Arantes)
-- O melhor vai começar (25 Anos)
-- Êxtase (25 Anos)
-- Pedacinhos (Bye, Bye So Long) (Lance Legal)
-- Planeta água (25 Anos)
-- Amanhã (Lance Legal)
-- Meu Mundo e Nada Mais
+  - Meu Mundo E Nada Mais (Lance Legal)
+  - Cheia de Charme (Despertar)
+  - Cheia De Charme (Lance Legal)
+  - 'Um Dia, um Adeus (Guilherme Arantes)'
+  - O melhor vai começar (25 Anos)
+  - Êxtase (25 Anos)
+  - 'Pedacinhos (Bye, Bye So Long) (Lance Legal)'
+  - Planeta água (25 Anos)
+  - Amanhã (Lance Legal)
+  - Meu Mundo e Nada Mais
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/27aadd58-a2a2-4df4-8167-d806be0f9146
-  spotify: https://open.spotify.com/artist/3LNTNOb2Bhh0g0etnZEyNE
-  wikipedia: https://en.wikipedia.org/wiki/Guilherme_Arantes
+  musicbrainz: 'https://musicbrainz.org/artist/27aadd58-a2a2-4df4-8167-d806be0f9146'
+  spotify: 'https://open.spotify.com/artist/3LNTNOb2Bhh0g0etnZEyNE'
+  wikipedia: 'https://en.wikipedia.org/wiki/Guilherme_Arantes'
 image_path: 03_Resources/source_material/ArtistPortraits/guilherme_arantes.jpg
 biography_enhanced_at: '2025-12-23T02:06:24.207665'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- 'Wikipedia (English): https://en.wikipedia.org/wiki/Guilherme_Arantes'
-- 'Wikipedia (Portuguese): https://pt.wikipedia.org/wiki/Guilherme_Arantes'
-- 'Last.fm: https://www.last.fm/music/Guilherme+Arantes/+wiki'
-- 'Jammerzine: https://jammerzine.com/daily-dose-guilherme-arantes-planeta-agua/'
-- 'AllMusic: https://www.allmusic.com/artist/guilherme-arantes-mn0000547249'
+  - 'Wikipedia (English): https://en.wikipedia.org/wiki/Guilherme_Arantes'
+  - 'Wikipedia (Portuguese): https://pt.wikipedia.org/wiki/Guilherme_Arantes'
+  - 'Last.fm: https://www.last.fm/music/Guilherme+Arantes/+wiki'
+  - >-
+    Jammerzine:
+    https://jammerzine.com/daily-dose-guilherme-arantes-planeta-agua/
+  - 'AllMusic: https://www.allmusic.com/artist/guilherme-arantes-mn0000547249'
 network_extracted: true
 entry_created: '2025-12-23T02:06:24.207679'
 last_updated: '2025-12-23T08:16:09.397234'
 gender: Male
 musicbrainz_id: 27aadd58-a2a2-4df4-8167-d806be0f9146
 tags:
-- brazilian pop
-- brazilian rock
-- brazilian traditions
+  - brazilian pop
+  - brazilian rock
+  - brazilian traditions
 ---
 
 ![](guilherme_arantes.jpg)

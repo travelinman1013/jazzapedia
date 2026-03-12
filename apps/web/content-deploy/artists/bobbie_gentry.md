@@ -1,11 +1,11 @@
 ---
-title: bobbie gentry
+title: Bobbie Gentry
 wiki_slug: bobbie-gentry
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1942-07-27'
-birth_place: Chickasaw County
+birth_place: 'Chickasaw County, Mississippi, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bobbie_gentry.jpg
@@ -28,51 +28,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Glen Campbell
+    - Glen Campbell
   influenced:
-  - Reba McEntire
-  - Sinéad O'Connor
-  - Tammy Wynette
-  - Ike & Tina Turner
+    - Reba McEntire
+    - Sinéad O'Connor
+    - Tammy Wynette
+    - Ike & Tina Turner
   mentors: []
 spotify_data:
   followers: 77870
   id: 4E9w0bms6HcEppFlWjeW2d
   popularity: 40
-  url: https://open.spotify.com/artist/4E9w0bms6HcEppFlWjeW2d
+  url: 'https://open.spotify.com/artist/4E9w0bms6HcEppFlWjeW2d'
 discography_enriched: true
 top_tracks:
-- Ode To Billie Joe (Ode To Billie Joe)
-- Fancy (Fancy)
-- Gentle On My Mind (Bobbie Gentry And Glen Campbell)
-- All I Have To Do Is Dream (The Girl From Chickasaw County - The Complete Capitol Masters)
-- Seasons Come, Seasons Go (Touch 'Em With Love)
-- Little Green Apples (Bobbie Gentry And Glen Campbell)
-- He Made A Woman Out Of Me (Fancy)
-- Courtyard (The Delta Sweete)
-- I'll Never Fall In Love Again (Touch 'Em With Love)
-- Son Of A Preacher Man (Touch 'Em With Love)
+  - Ode To Billie Joe (Ode To Billie Joe)
+  - Fancy (Fancy)
+  - Gentle On My Mind (Bobbie Gentry And Glen Campbell)
+  - >-
+    All I Have To Do Is Dream (The Girl From Chickasaw County - The Complete
+    Capitol Masters)
+  - 'Seasons Come, Seasons Go (Touch ''Em With Love)'
+  - Little Green Apples (Bobbie Gentry And Glen Campbell)
+  - He Made A Woman Out Of Me (Fancy)
+  - Courtyard (The Delta Sweete)
+  - I'll Never Fall In Love Again (Touch 'Em With Love)
+  - Son Of A Preacher Man (Touch 'Em With Love)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a5106366-6368-4a02-a580-73a3c02abb2f
-  spotify: https://open.spotify.com/artist/4E9w0bms6HcEppFlWjeW2d
-  wikipedia: https://en.wikipedia.org/wiki/Bobbie_Gentry
+  musicbrainz: 'https://musicbrainz.org/artist/a5106366-6368-4a02-a580-73a3c02abb2f'
+  spotify: 'https://open.spotify.com/artist/4E9w0bms6HcEppFlWjeW2d'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bobbie_Gentry'
 image_path: 03_Resources/source_material/ArtistPortraits/bobbie_gentry.jpg
 biography_enhanced_at: '2025-10-24T07:51:54.846228'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Bobbie_Gentry
-- https://bobbiegentry.org.uk/biography/
-- https://www.imdb.com/name/nm0313160/bio/
+  - 'https://en.wikipedia.org/wiki/Bobbie_Gentry'
+  - 'https://bobbiegentry.org.uk/biography/'
+  - 'https://www.imdb.com/name/nm0313160/bio/'
 network_extracted: true
 entry_created: '2025-10-24T07:51:54.846250'
 last_updated: '2025-12-23T08:16:05.840526'
 gender: Female
 musicbrainz_id: a5106366-6368-4a02-a580-73a3c02abb2f
 tags:
-- baroque pop
-- blue-eyed soul
-- contemporary folk
+  - baroque pop
+  - blue-eyed soul
+  - contemporary folk
 ---
 
 ![](bobbie_gentry.jpg)

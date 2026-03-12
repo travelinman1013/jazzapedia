@@ -3,16 +3,16 @@ title: Jonah Jones
 wiki_slug: jonah-jones
 schema_version: 2
 status: active
-birth_place: Louisville, Kentucky, United States
+birth_place: 'Louisville, Kentucky, United States'
 genres:
-- big band
-- swing music
-- exotica
+  - big band
+  - swing music
+  - exotica
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Jonah_Jones.jpg
   caption: Jonah Jones
   background: solo_singer
-  origin: Louisville, Kentucky, United States
+  origin: 'Louisville, Kentucky, United States'
 audio_profile:
   tempo_avg: 120.5
   energy_avg: 0.377
@@ -20,7 +20,7 @@ audio_profile:
   danceability_avg: 0.639
   acousticness_avg: 0.6
   instrumentalness_avg: 0.526
-  loudness_avg: -12.0
+  loudness_avg: -12
   speechiness_avg: 0.093
   liveness_avg: 0.213
   track_count: 50
@@ -28,47 +28,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Stuff Smith
-  - Cab Calloway
-  - Dizzy Gillespie
-  - George Rhodes, John Browne, Harold Austin
-  - Earl Hines
+    - Stuff Smith
+    - Cab Calloway
+    - Dizzy Gillespie
+    - 'George Rhodes, John Browne, Harold Austin'
+    - Earl Hines
   influenced:
-  - Mainstream jazz and swing musicians
+    - Mainstream jazz and swing musicians
   mentors:
-  - Bessie T. Allen
-  - Louis Armstrong
+    - Bessie T. Allen
+    - Louis Armstrong
 spotify_data:
   followers: 3462
   id: 5u7FXbK7whWNTbgeicnbG9
   popularity: 28
-  url: https://open.spotify.com/artist/5u7FXbK7whWNTbgeicnbG9
+  url: 'https://open.spotify.com/artist/5u7FXbK7whWNTbgeicnbG9'
 discography_enriched: true
 top_tracks:
-- No Moon At All - Remastered (Jumpin' With Jonah)
-- On The Street Where You Live (Two Tropicana Workshop)
-- Take the A Train (Harry "Sweets" Edison & Jonah Jones Quartet)
-- Moten Swing - Remastered (Jumpin' With Jonah)
-- Do You Know What It Means To Miss New Orleans - Remastered (Jumpin' With Jonah)
-- Baby, Won't You Please Come Home - Remastered (Jumpin' With Jonah)
-- On the Street Where You Live (Jonah Jones Masterworks. Muted Jazz / Hit Me Again!)
-- Serenata - 1996 Digital Remaster
-- Don't Get Around Much Anymore (Harry "Sweets" Edison & Jonah Jones Quartet)
-- Misty (Jonah Jones Masterworks. Swingin' 'Round the World / Jumpin' with a Shuffle)
+  - No Moon At All - Remastered (Jumpin' With Jonah)
+  - On The Street Where You Live (Two Tropicana Workshop)
+  - Take the A Train (Harry "Sweets" Edison & Jonah Jones Quartet)
+  - Moten Swing - Remastered (Jumpin' With Jonah)
+  - >-
+    Do You Know What It Means To Miss New Orleans - Remastered (Jumpin' With
+    Jonah)
+  - 'Baby, Won''t You Please Come Home - Remastered (Jumpin'' With Jonah)'
+  - >-
+    On the Street Where You Live (Jonah Jones Masterworks. Muted Jazz / Hit Me
+    Again!)
+  - Serenata - 1996 Digital Remaster
+  - Don't Get Around Much Anymore (Harry "Sweets" Edison & Jonah Jones Quartet)
+  - >-
+    Misty (Jonah Jones Masterworks. Swingin' 'Round the World / Jumpin' with a
+    Shuffle)
 external_urls:
-  spotify: https://open.spotify.com/artist/5u7FXbK7whWNTbgeicnbG9
-  wikipedia: https://en.wikipedia.org/wiki/Jonah_Jones
+  spotify: 'https://open.spotify.com/artist/5u7FXbK7whWNTbgeicnbG9'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jonah_Jones'
 image_path: 03_Resources/source_material/ArtistPortraits/Jonah_Jones.jpg
 biography_enhanced_at: '2025-10-20T01:43:16.706135'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jonah_Jones
-- https://kchr.ky.gov/Hall-of-Fame/Pages/Jonah-Jones.aspx
-- https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/jonah-jones
+  - 'https://en.wikipedia.org/wiki/Jonah_Jones'
+  - 'https://kchr.ky.gov/Hall-of-Fame/Pages/Jonah-Jones.aspx'
+  - >-
+    https://www.encyclopedia.com/people/literature-and-arts/music-popular-and-jazz-biographies/jonah-jones
 network_extracted: true
 entry_created: '2025-10-20T01:43:16.706144'
 last_updated: '2025-12-23T08:16:02.720968'
+artist_type: person
 ---
 
 ![](Jonah_Jones.jpg)

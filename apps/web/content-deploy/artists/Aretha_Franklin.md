@@ -2,44 +2,44 @@
 title: Aretha Franklin
 wiki_slug: aretha-franklin
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: deceased
 also_known_as:
-- Queen of soul
+  - Queen of soul
 aliases:
-- Queen of soul
+  - Queen of soul
 birth_date: '1942-03-25'
-birth_place: Memphis, Tennessee, United States
+birth_place: 'Memphis, Tennessee, United States'
 death_date: '2018-08-16'
 years_active: 1954–2017
 genres:
-- soul
-- motown
-- jazz blues
+  - soul
+  - motown
+  - jazz blues
 instruments:
-- piano
-- voice
+  - piano
+  - voice
 occupation:
-- singer
-- songwriter
-- activist
-- pianist
-- composer
+  - singer
+  - songwriter
+  - activist
+  - pianist
+  - composer
 record_labels:
-- Arista Records
-- Atlantic Records
-- Battle Records
-- Columbia Records
-- RCA
+  - Arista Records
+  - Atlantic Records
+  - Battle Records
+  - Columbia Records
+  - RCA
 spouse:
-- Glynn Turman
-- Ted White
+  - Glynn Turman
+  - Ted White
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Aretha_Franklin.jpg
   caption: Aretha Franklin
   background: solo_singer
   born: '1942-03-25'
-  origin: Memphis, Tennessee, United States
+  origin: 'Memphis, Tennessee, United States'
   died: '2018-08-16'
 audio_profile:
   tempo_avg: 123.2
@@ -56,68 +56,69 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jerry Wexler
-  - King Curtis
-  - Spooner Oldham
-  - The Muscle Shoals Rhythm Section
-  - Carole King
+    - Jerry Wexler
+    - King Curtis
+    - Spooner Oldham
+    - The Muscle Shoals Rhythm Section
+    - Carole King
   influenced:
-  - Whitney Houston
-  - Mary J. Blige
-  - Alicia Keys
-  - Beyoncé
+    - Whitney Houston
+    - Mary J. Blige
+    - Alicia Keys
+    - Beyoncé
   mentors:
-  - C. L. Franklin
-  - Mahalia Jackson
-  - Sam Cooke
-  - Dinah Washington
+    - C. L. Franklin
+    - Mahalia Jackson
+    - Sam Cooke
+    - Dinah Washington
 related_artists: []
 spotify_data:
   followers: 3773327
   id: 7nwUJBm0HE4ZxD3f5cy5ok
   popularity: 71
-  url: https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok
+  url: 'https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok'
   verified: false
 discography_enriched: true
 albums_count: 56
 singles_count: 0
 top_tracks:
-- I Say a Little Prayer (Aretha Now)
-- Respect (I Never Loved a Man the Way I Love You)
-- (You Make Me Feel Like) A Natural Woman (Lady Soul (With Bonus Selections))
-- Think (Aretha Now)
-- Chain of Fools (Lady Soul (With Bonus Selections))
-- I Knew You Were Waiting (For Me) (ARETHA)
-- You Send Me (Aretha Now)
-- Day Dreaming (Young, Gifted and Black)
-- Respect - 2003 Remaster
-- Son of a Preacher Man (This Girl's in Love with You)
+  - I Say a Little Prayer (Aretha Now)
+  - Respect (I Never Loved a Man the Way I Love You)
+  - (You Make Me Feel Like) A Natural Woman (Lady Soul (With Bonus Selections))
+  - Think (Aretha Now)
+  - Chain of Fools (Lady Soul (With Bonus Selections))
+  - I Knew You Were Waiting (For Me) (ARETHA)
+  - You Send Me (Aretha Now)
+  - 'Day Dreaming (Young, Gifted and Black)'
+  - Respect - 2003 Remaster
+  - Son of a Preacher Man (This Girl's in Love with You)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2f9ecbed-27be-40e6-abca-6de49d50299e
-  spotify: https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok
-  wikipedia: https://en.wikipedia.org/wiki/Aretha_Franklin
+  musicbrainz: 'https://musicbrainz.org/artist/2f9ecbed-27be-40e6-abca-6de49d50299e'
+  spotify: 'https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok'
+  wikipedia: 'https://en.wikipedia.org/wiki/Aretha_Franklin'
 image_path: 03_Resources/source_material/ArtistPortraits/Aretha_Franklin.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:29:03.531490'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://achievement.org/achiever/aretha-franklin/
-- https://www.biography.com/musicians/aretha-franklin
-- https://memphismusichalloffame.com/inductee/aretha-franklin/
-- https://www.ebsco.com/research-starters/biography/aretha-franklin
+  - 'https://achievement.org/achiever/aretha-franklin/'
+  - 'https://www.biography.com/musicians/aretha-franklin'
+  - 'https://memphismusichalloffame.com/inductee/aretha-franklin/'
+  - 'https://www.ebsco.com/research-starters/biography/aretha-franklin'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 13:01:43.165876
+entry_created: 2025-09-18T13:01:43.165Z
 last_updated: '2025-12-23T08:16:01.035480'
 gender: Female
 musicbrainz_enriched_at: '2025-10-21T08:59:40.275223'
 musicbrainz_id: 2f9ecbed-27be-40e6-abca-6de49d50299e
 tags:
-- aln-sh
-- deep soul
-- gospel
-
+  - aln-sh
+  - deep soul
+  - gospel
+is_active: false
+origin: 'Detroit, Michigan, United States'
 ---
 
 ![](Aretha_Franklin.jpg)

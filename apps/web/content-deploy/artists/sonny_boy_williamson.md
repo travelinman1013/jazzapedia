@@ -5,21 +5,21 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1912-12-05'
-birth_place: Tallahatchie County
+birth_place: 'Tallahatchie County, Mississippi, United States'
 death_date: '1965-05-25'
 genres:
-- blues
-- classic blues
-- country blues
-- blues rock
+  - blues
+  - classic blues
+  - country blues
+  - blues rock
 instruments:
-- lead vocals
+  - lead vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a279984b-bf1b-4d17-b86d-db911d67120c
-  name: Sonny Boy Williamson & His Houserockers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a279984b-bf1b-4d17-b86d-db911d67120c
+    name: Sonny Boy Williamson & His Houserockers
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sonny_boy_williamson.jpg
   caption: Sonny Boy Williamson
@@ -42,52 +42,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Muddy Waters
-  - Robert Nighthawk
+    - Muddy Waters
+    - Robert Nighthawk
   influenced:
-  - James Cotton
-  - Junior Wells
+    - James Cotton
+    - Junior Wells
   mentors:
-  - Yank Rachell
+    - Yank Rachell
 spotify_data:
   followers: 198243
   id: 69VgCcXFV59QuQWEXSTxfK
   popularity: 45
-  url: https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK
+  url: 'https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK'
 discography_enriched: true
 top_tracks:
-- Help Me (More Real Folk Blues)
-- Bring It On Home (The Real Folk Blues)
-- Don't Start Me To Talkin' (His Best)
-- Checkin' Up On My Baby - Single Version (The Real Folk Blues)
-- Don't Start Me To Talkin' (Down And Out Blues)
-- Nine Below Zero - 1961 Single Version (More Real Folk Blues)
-- Help Me (His Best)
-- Keep It To Yourself (His Best)
-- Your Funeral And My Trial (His Best)
-- One Way Out - Mono Version (The Real Folk Blues)
+  - Help Me (More Real Folk Blues)
+  - Bring It On Home (The Real Folk Blues)
+  - Don't Start Me To Talkin' (His Best)
+  - Checkin' Up On My Baby - Single Version (The Real Folk Blues)
+  - Don't Start Me To Talkin' (Down And Out Blues)
+  - Nine Below Zero - 1961 Single Version (More Real Folk Blues)
+  - Help Me (His Best)
+  - Keep It To Yourself (His Best)
+  - Your Funeral And My Trial (His Best)
+  - One Way Out - Mono Version (The Real Folk Blues)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3b8403b6-72c8-4953-b966-5fc555923baf
-  spotify: https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK
-  wikipedia: https://en.wikipedia.org/wiki/Sonny_Boy_Williamson_II
+  musicbrainz: 'https://musicbrainz.org/artist/3b8403b6-72c8-4953-b966-5fc555923baf'
+  spotify: 'https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sonny_Boy_Williamson_II'
 image_path: 03_Resources/source_material/ArtistPortraits/sonny_boy_williamson.jpg
 biography_enhanced_at: '2025-10-26T12:24:01.654683'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.ebsco.com/research-starters/history/sonny-boy-williamson-i
-- https://www.britannica.com/biography/Sonny-Boy-Williamson
-- https://www.alligator.com/artists/Sonny-Boy-Williamson/
+  - 'https://www.ebsco.com/research-starters/history/sonny-boy-williamson-i'
+  - 'https://www.britannica.com/biography/Sonny-Boy-Williamson'
+  - 'https://www.alligator.com/artists/Sonny-Boy-Williamson/'
 network_extracted: true
 entry_created: '2025-10-26T12:24:01.654693'
 last_updated: '2025-12-23T08:16:15.900329'
-disambiguation: Aleck “Sonny Boy Williamson” Miller, 1912–1965
+disambiguation: 'Aleck “Sonny Boy Williamson” Miller, 1912–1965'
 gender: Male
 musicbrainz_id: 3b8403b6-72c8-4953-b966-5fc555923baf
 tags:
-- 2008 universal fire victim
-- blues
-- blues rock
+  - 2008 universal fire victim
+  - blues
+  - blues rock
+is_active: false
+origin: 'St. Louis, Missouri, United States'
 ---
 
 ![](sonny_boy_williamson.jpg)

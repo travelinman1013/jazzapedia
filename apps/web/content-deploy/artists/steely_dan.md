@@ -1,16 +1,16 @@
 ---
-title: STEELY DAN
+title: Steely Dan
 wiki_slug: steely-dan
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1972'
 genres:
-- classic rock
+  - classic rock
 instruments:
-- saxophone
-- bass
-- guitar
+  - saxophone
+  - bass
+  - guitar
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/steely_dan.jpg
   caption: STEELY DAN
@@ -31,120 +31,121 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Denny Dias
-  - Jeff 'Skunk' Baxter
-  - Jim Hodder
-  - Michael McDonald
-  - Larry Carlton
+    - Denny Dias
+    - Jeff 'Skunk' Baxter
+    - Jim Hodder
+    - Michael McDonald
+    - Larry Carlton
   influenced:
-  - Jamiroquai
-  - Toto
-  - Daft Punk
+    - Jamiroquai
+    - Toto
+    - Daft Punk
   mentors:
-  - William S. Burroughs
+    - William S. Burroughs
 spotify_data:
   followers: 2525455
   id: 6P7H3ai06vU1sGvdpBwDmE
   popularity: 68
-  url: https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE
+  url: 'https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE'
 discography_enriched: true
 top_tracks:
-- Do It Again (Can't Buy A Thrill)
-- Reelin' In The Years (Can't Buy A Thrill)
-- Dirty Work (Can't Buy A Thrill)
-- Hey Nineteen (Gaucho)
-- Rikki Don't Lose That Number (Pretzel Logic)
-- Only A Fool Would Say That (Can't Buy A Thrill)
-- Peg (Aja)
-- Any Major Dude Will Tell You (Pretzel Logic)
-- Deacon Blues (Aja)
-- My Old School (Countdown To Ecstasy)
+  - Do It Again (Can't Buy A Thrill)
+  - Reelin' In The Years (Can't Buy A Thrill)
+  - Dirty Work (Can't Buy A Thrill)
+  - Hey Nineteen (Gaucho)
+  - Rikki Don't Lose That Number (Pretzel Logic)
+  - Only A Fool Would Say That (Can't Buy A Thrill)
+  - Peg (Aja)
+  - Any Major Dude Will Tell You (Pretzel Logic)
+  - Deacon Blues (Aja)
+  - My Old School (Countdown To Ecstasy)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/e01c3376-15fa-40d7-b747-5f219bdefdd7
-  spotify: https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE
-  wikipedia: https://en.wikipedia.org/wiki/Steely_Dan
+  musicbrainz: 'https://musicbrainz.org/artist/e01c3376-15fa-40d7-b747-5f219bdefdd7'
+  spotify: 'https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE'
+  wikipedia: 'https://en.wikipedia.org/wiki/Steely_Dan'
 image_path: 03_Resources/source_material/ArtistPortraits/steely_dan.jpg
 biography_enhanced_at: '2025-10-31T08:08:58.693219'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Steely_Dan
-- https://www.britannica.com/topic/Steely-Dan
-- https://americansongwriter.com/behind-the-meaning-of-the-band-name-steely-dan/
+  - 'https://en.wikipedia.org/wiki/Steely_Dan'
+  - 'https://www.britannica.com/topic/Steely-Dan'
+  - >-
+    https://americansongwriter.com/behind-the-meaning-of-the-band-name-steely-dan/
 network_extracted: true
 entry_created: '2025-10-31T08:08:58.693228'
 last_updated: '2025-12-23T08:16:16.052620'
 members:
-- begin: '1972'
-  end: '1973'
-  instruments: []
-  mbid: b5ee7bf7-5172-41f7-9766-96d47e256cbd
-  name: David Palmer
-- begin: ''
-  end: '2017-09-03'
-  instruments:
-  - saxophone
-  mbid: 8cc72457-488e-44e6-a5b3-d2da843b7245
-  name: Walter Becker
-- begin: ''
-  end: '2017-09-03'
-  instruments:
-  - bass
-  mbid: 8cc72457-488e-44e6-a5b3-d2da843b7245
-  name: Walter Becker
-- begin: ''
-  end: '2017-09-03'
-  instruments:
-  - guitar
-  mbid: 8cc72457-488e-44e6-a5b3-d2da843b7245
-  name: Walter Becker
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6b03465f-75b9-4817-a045-43ef89b635e2
-  name: Jeff “Skunk” Baxter
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 86648383-75d5-4a86-bbc8-7b43a098f938
-  name: Cornelius Bumpus
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 66849fc3-4d6d-426f-8cc4-d21d2cfe82f4
-  name: Denny Dias
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 70047e57-0153-4117-b0fc-a1d2e322e5ef
-  name: Donald Fagen
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e8794ef5-9df6-4c95-8480-8219e13065a1
-  name: Jim Hodder
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e33a6a4b-73ec-44c5-a7c3-332adf18ab32
-  name: Royce Jones
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: cacbe57b-02d0-4d21-be86-c8a3a5ea6e1e
-  name: Michael McDonald
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1658d3b1-0c07-41cd-a358-7bbea34903b2
-  name: Jeff Porcaro
+  - begin: '1972'
+    end: '1973'
+    instruments: []
+    mbid: b5ee7bf7-5172-41f7-9766-96d47e256cbd
+    name: David Palmer
+  - begin: ''
+    end: '2017-09-03'
+    instruments:
+      - saxophone
+    mbid: 8cc72457-488e-44e6-a5b3-d2da843b7245
+    name: Walter Becker
+  - begin: ''
+    end: '2017-09-03'
+    instruments:
+      - bass
+    mbid: 8cc72457-488e-44e6-a5b3-d2da843b7245
+    name: Walter Becker
+  - begin: ''
+    end: '2017-09-03'
+    instruments:
+      - guitar
+    mbid: 8cc72457-488e-44e6-a5b3-d2da843b7245
+    name: Walter Becker
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6b03465f-75b9-4817-a045-43ef89b635e2
+    name: Jeff “Skunk” Baxter
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 86648383-75d5-4a86-bbc8-7b43a098f938
+    name: Cornelius Bumpus
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 66849fc3-4d6d-426f-8cc4-d21d2cfe82f4
+    name: Denny Dias
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 70047e57-0153-4117-b0fc-a1d2e322e5ef
+    name: Donald Fagen
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e8794ef5-9df6-4c95-8480-8219e13065a1
+    name: Jim Hodder
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e33a6a4b-73ec-44c5-a7c3-332adf18ab32
+    name: Royce Jones
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: cacbe57b-02d0-4d21-be86-c8a3a5ea6e1e
+    name: Michael McDonald
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1658d3b1-0c07-41cd-a358-7bbea34903b2
+    name: Jeff Porcaro
 musicbrainz_id: e01c3376-15fa-40d7-b747-5f219bdefdd7
-origin: Annandale-on-Hudson
+origin: 'Annandale-on-Hudson, New York, United States'
 tags:
-- jazz pop
-- jazz rock
-- jazz-rock
-
+  - jazz pop
+  - jazz rock
+  - jazz-rock
+birth_place: 'Annandale-on-Hudson, New York, United States'
 ---
 
 ![](steely_dan.jpg)

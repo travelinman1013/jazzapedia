@@ -1,20 +1,20 @@
 ---
-title: wayne hancock
+title: Wayne Hancock
 wiki_slug: wayne-hancock
 schema_version: 2
 status: active
-birth_place: Dallas, Texas, United States
+birth_place: 'Dallas, Texas, United States'
 genres:
-- honky tonk
-- rockabilly
-- alt country
-- americana
-- psychobilly
+  - honky tonk
+  - rockabilly
+  - alt country
+  - americana
+  - psychobilly
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/wayne_hancock.jpg
   caption: wayne hancock
   background: solo_singer
-  origin: Dallas, Texas, United States
+  origin: 'Dallas, Texas, United States'
 audio_profile:
   tempo_avg: 118.4
   energy_avg: 0.54
@@ -30,49 +30,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Lloyd Maines
-  - Joe Ely
-  - Terry Allen, Butch Hancock, Robert Earl Keen
+    - Lloyd Maines
+    - Joe Ely
+    - 'Terry Allen, Butch Hancock, Robert Earl Keen'
   influenced:
-  - Hank Williams III
+    - Hank Williams III
   mentors:
-  - Hank Williams
-  - Jimmie Rodgers
-  - Glenn Miller
+    - Hank Williams
+    - Jimmie Rodgers
+    - Glenn Miller
 spotify_data:
   followers: 35396
   id: 5rTfve7qtpGUq2PVVmyFVS
   popularity: 33
-  url: https://open.spotify.com/artist/5rTfve7qtpGUq2PVVmyFVS
+  url: 'https://open.spotify.com/artist/5rTfve7qtpGUq2PVVmyFVS'
 discography_enriched: true
 top_tracks:
-- Thunderstorms and Neon Signs (Thunderstorms and Neon Signs)
-- Miller, Jack & Mad Dog (A-Town Blues)
-- Sands Of Time (A-Town Blues)
-- Man Of The Road (A-Town Blues)
-- A-Town Blues (A-Town Blues)
-- Killed Them Both (Slingin' Rhythm)
-- Shootin' Star From Texas (Tulsa)
-- Your Love and His Blood (Viper of Melody)
-- Driving My Young Life Away (Viper of Melody)
-- Midnight Stars and You (Viper of Melody)
+  - Thunderstorms and Neon Signs (Thunderstorms and Neon Signs)
+  - 'Miller, Jack & Mad Dog (A-Town Blues)'
+  - Sands Of Time (A-Town Blues)
+  - Man Of The Road (A-Town Blues)
+  - A-Town Blues (A-Town Blues)
+  - Killed Them Both (Slingin' Rhythm)
+  - Shootin' Star From Texas (Tulsa)
+  - Your Love and His Blood (Viper of Melody)
+  - Driving My Young Life Away (Viper of Melody)
+  - Midnight Stars and You (Viper of Melody)
 external_urls:
-  spotify: https://open.spotify.com/artist/5rTfve7qtpGUq2PVVmyFVS
-  wikipedia: https://en.wikipedia.org/wiki/Wayne_Hancock
+  spotify: 'https://open.spotify.com/artist/5rTfve7qtpGUq2PVVmyFVS'
+  wikipedia: 'https://en.wikipedia.org/wiki/Wayne_Hancock'
 image_path: 03_Resources/source_material/ArtistPortraits/wayne_hancock.jpg
 biography_enhanced_at: '2025-11-08T22:04:01.000972'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://montanafolkfestival.com/wayne-hancock/
-- https://www.last.fm/music/Wayne+Hancock/+wiki
-- https://www.atomicmusicgroup.com/chris-rhoades/wayne-hancock
-- https://first-avenue.com/performer/wayne-the-train-hancock/
-- https://www.jango.com/music/Wayne+Hancock/_full_bio
+  - 'https://montanafolkfestival.com/wayne-hancock/'
+  - 'https://www.last.fm/music/Wayne+Hancock/+wiki'
+  - 'https://www.atomicmusicgroup.com/chris-rhoades/wayne-hancock'
+  - 'https://first-avenue.com/performer/wayne-the-train-hancock/'
+  - 'https://www.jango.com/music/Wayne+Hancock/_full_bio'
 network_extracted: true
 entry_created: '2025-11-08T22:04:01.000988'
 last_updated: '2025-12-23T08:16:18.036377'
-
+birth_date: '1965-05-01'
+artist_type: person
 ---
 
 ![](wayne_hancock.jpg)

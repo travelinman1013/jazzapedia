@@ -1,16 +1,16 @@
 ---
-title: buddy & julie miller
+title: Buddy & Julie Miller
 wiki_slug: buddy-julie-miller
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 birth_date: '2001'
 genres:
-- americana
-- alt country
+  - americana
+  - alt country
 instruments:
-- eponymous
-- original
+  - eponymous
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/buddy_and_julie_miller.jpg
   caption: buddy & julie miller
@@ -31,54 +31,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Jim Lauderdale
-  - Robert Plant
-  - Emmylou Harris
-  - Regina McCrary and Bob Dylan
+    - Jim Lauderdale
+    - Robert Plant
+    - Emmylou Harris
+    - Regina McCrary and Bob Dylan
   influenced:
-  - Lee Ann Womack
-  - Joe Bonamassa
-  - Allison Moorer
+    - Lee Ann Womack
+    - Joe Bonamassa
+    - Allison Moorer
   mentors:
-  - Soul and R&B artists (radio influences)
+    - Soul and R&B artists (radio influences)
 spotify_data:
   followers: 13766
   id: 61YXt5O4gENijzfR9cjjSV
   popularity: 24
-  url: https://open.spotify.com/artist/61YXt5O4gENijzfR9cjjSV
+  url: 'https://open.spotify.com/artist/61YXt5O4gENijzfR9cjjSV'
 discography_enriched: true
 top_tracks:
-- Chalk (Written in Chalk)
-- Spittin’ On Fire (Breakdown On 20th Ave. South)
-- Gasoline and Matches (Written in Chalk)
-- Keep Your Distance (Buddy & Julie Miller)
-- I’m Gonna Make You Love Me (Breakdown On 20th Ave. South)
-- Ellis County (Written in Chalk)
-- Keep Your Distance (Buddy & Julie Miller)
-- Holding Up the Sky (Buddy & Julie Miller)
-- Breakdown On 20th Ave. South (Breakdown On 20th Ave. South)
-- Till The Stardust Comes Apart (Breakdown On 20th Ave. South)
+  - Chalk (Written in Chalk)
+  - Spittin’ On Fire (Breakdown On 20th Ave. South)
+  - Gasoline and Matches (Written in Chalk)
+  - Keep Your Distance (Buddy & Julie Miller)
+  - I’m Gonna Make You Love Me (Breakdown On 20th Ave. South)
+  - Ellis County (Written in Chalk)
+  - Keep Your Distance (Buddy & Julie Miller)
+  - Holding Up the Sky (Buddy & Julie Miller)
+  - Breakdown On 20th Ave. South (Breakdown On 20th Ave. South)
+  - Till The Stardust Comes Apart (Breakdown On 20th Ave. South)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/445fcaaa-1bc8-45a3-80f2-626c99f85690
-  spotify: https://open.spotify.com/artist/61YXt5O4gENijzfR9cjjSV
-  wikipedia: https://en.wikipedia.org/wiki/Buddy_Miller
+  musicbrainz: 'https://musicbrainz.org/artist/445fcaaa-1bc8-45a3-80f2-626c99f85690'
+  spotify: 'https://open.spotify.com/artist/61YXt5O4gENijzfR9cjjSV'
+  wikipedia: 'https://en.wikipedia.org/wiki/Buddy_Miller'
 image_path: 03_Resources/source_material/ArtistPortraits/buddy_and_julie_miller.jpg
 biography_enhanced_at: '2025-10-19T10:55:52.734263'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.buddymiller.com/about
-- https://americansongwriter.com/buddy-julie-miller-the-calling/
-- https://en.wikipedia.org/wiki/Buddy_Miller
-- https://www.wmky.org/arts-culture/2019-08-16/buddy-and-julie-miller
+  - 'https://www.buddymiller.com/about'
+  - 'https://americansongwriter.com/buddy-julie-miller-the-calling/'
+  - 'https://en.wikipedia.org/wiki/Buddy_Miller'
+  - 'https://www.wmky.org/arts-culture/2019-08-16/buddy-and-julie-miller'
 network_extracted: true
 entry_created: '2025-10-19T10:55:52.734278'
 last_updated: '2025-12-23T08:16:06.196347'
 musicbrainz_enriched_at: '2025-10-21T09:49:57.500147'
 musicbrainz_id: 445fcaaa-1bc8-45a3-80f2-626c99f85690
-origin: Nashville, Tennessee, USA
+origin: 'Nashville, Tennessee, USA'
 tags:
-- folk
+  - folk
+birth_place: Nashville
 ---
 
 ![](buddy_and_julie_miller.jpg)

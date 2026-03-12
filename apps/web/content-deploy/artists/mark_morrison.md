@@ -3,13 +3,13 @@ title: Mark Morrison
 wiki_slug: mark-morrison
 schema_version: 2
 status: active
-birth_place: Hanover, West Germany
+birth_place: 'Hanover, West Germany, Germany'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/mark_morrison.jpg
   caption: Mark Morrison
   background: solo_singer
-  origin: Hanover, West Germany
+  origin: 'Hanover, West Germany'
 audio_profile:
   tempo_avg: 101.6
   energy_avg: 0.679
@@ -25,43 +25,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Conner Reeves
-  - Gabrielle
-  - DMX
+    - Conner Reeves
+    - Gabrielle
+    - DMX
   influenced: []
   mentors: []
 spotify_data:
   followers: 159575
   id: 6V3F8MZrOKdT9fU686ybE9
   popularity: 64
-  url: https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9
+  url: 'https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9'
 discography_enriched: true
 top_tracks:
-- Return of the Mack (Return of the Mack)
-- Cooped Up / Return Of The Mack
-- The Mack
-- Provide (feat. Chris Brown & Mark Morrison)
-- Innocent Man (Innocent Man (Deluxe Edition))
-- Provide (feat. Chris Brown & Mark Morrison) (These Things Happen Too (Deluxe))
-- Not Guilty (feat. Tiggs Da Author & Mark Morrison) (Crop Circle 3)
-- Cooped Up / Return Of The Mack
-- Return of the Mack - C&J Extended Mix
-- Return of the Mack - C&J X-Tended Radio Edit (Return of the Mack (#25ROTM Deluxe Edition))
+  - Return of the Mack (Return of the Mack)
+  - Cooped Up / Return Of The Mack
+  - The Mack
+  - Provide (feat. Chris Brown & Mark Morrison)
+  - Innocent Man (Innocent Man (Deluxe Edition))
+  - >-
+    Provide (feat. Chris Brown & Mark Morrison) (These Things Happen Too
+    (Deluxe))
+  - Not Guilty (feat. Tiggs Da Author & Mark Morrison) (Crop Circle 3)
+  - Cooped Up / Return Of The Mack
+  - Return of the Mack - C&J Extended Mix
+  - >-
+    Return of the Mack - C&J X-Tended Radio Edit (Return of the Mack (#25ROTM
+    Deluxe Edition))
 external_urls:
-  spotify: https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9
-  wikipedia: https://en.wikipedia.org/wiki/Mark_Morrison
+  spotify: 'https://open.spotify.com/artist/6V3F8MZrOKdT9fU686ybE9'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mark_Morrison'
 image_path: 03_Resources/source_material/ArtistPortraits/mark_morrison.jpg
 biography_enhanced_at: '2025-12-17T02:13:11.749633'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Mark_Morrison
-- https://kids.kiddle.co/Mark_Morrison
-- https://victor-li.com/markmorrison/
-- https://www.sunny1079.com/artist/1ecc1f71-2512-442a-a85e-3c79d9ddc5cc
+  - 'https://en.wikipedia.org/wiki/Mark_Morrison'
+  - 'https://kids.kiddle.co/Mark_Morrison'
+  - 'https://victor-li.com/markmorrison/'
+  - 'https://www.sunny1079.com/artist/1ecc1f71-2512-442a-a85e-3c79d9ddc5cc'
 network_extracted: true
 entry_created: '2025-12-17T02:13:11.749642'
 last_updated: '2025-12-23T08:16:12.705538'
+origin: 'Leicester, England, United Kingdom'
+birth_date: '1974-05-12'
+artist_type: person
 ---
 
 ![](mark_morrison.jpg)

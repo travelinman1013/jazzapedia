@@ -1,15 +1,15 @@
 ---
-title: louie ludwig
+title: Louie Ludwig
 wiki_slug: louie-ludwig
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/louie_ludwig.jpg
   caption: louie ludwig
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 115.5
   energy_avg: 0.303
@@ -25,44 +25,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Moss Pickers
-  - Danny Kane
-  - Clark Vreeland
+    - The Moss Pickers
+    - Danny Kane
+    - Clark Vreeland
   influenced: []
   mentors: []
 spotify_data:
   followers: 41
   id: 1o5A7fESpNl02AF5G3wxRR
   popularity: 0
-  url: https://open.spotify.com/artist/1o5A7fESpNl02AF5G3wxRR
+  url: 'https://open.spotify.com/artist/1o5A7fESpNl02AF5G3wxRR'
 discography_enriched: true
 top_tracks:
-- Thank God and Huey Long (Dark Matters)
-- (Why Do) Crows (Always Seem to Come Out On Cloudy Days) (Elevation 13)
-- Company Town (feat. Gina Forsyth & Brent Meancon) (Elevation 13)
-- Death and the Devil (Elevation 13)
-- Highway 61 Memories (feat. Theresa Andersson, Brent Melancon & Bart Ramsey) (Elevation 13)
-- Nobody (feat. Dayna Kurtz) (Elevation 13)
-- The Hills That I Love (Elevation 13)
-- Snake (Elevation 13)
-- Once Upon a Mountain (Elevation 13)
-- Old Tennis Shoes (Elevation 13)
+  - Thank God and Huey Long (Dark Matters)
+  - (Why Do) Crows (Always Seem to Come Out On Cloudy Days) (Elevation 13)
+  - Company Town (feat. Gina Forsyth & Brent Meancon) (Elevation 13)
+  - Death and the Devil (Elevation 13)
+  - >-
+    Highway 61 Memories (feat. Theresa Andersson, Brent Melancon & Bart Ramsey)
+    (Elevation 13)
+  - Nobody (feat. Dayna Kurtz) (Elevation 13)
+  - The Hills That I Love (Elevation 13)
+  - Snake (Elevation 13)
+  - Once Upon a Mountain (Elevation 13)
+  - Old Tennis Shoes (Elevation 13)
 external_urls:
-  spotify: https://open.spotify.com/artist/1o5A7fESpNl02AF5G3wxRR
+  spotify: 'https://open.spotify.com/artist/1o5A7fESpNl02AF5G3wxRR'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/louie_ludwig.jpg
 biography_enhanced_at: '2025-11-01T15:29:11.293246'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.louisianamusicfactory.com/product/louie-ludwig-with-the-moss-pickers-elevation-13/
-- https://americana-uk.com/louie-ludwig-i-got-nothin-to-say-independent-2017
-- https://www.youtube.com/c/LouieLudwig
-- https://www.youtube.com/watch?v=WqYkhv7lh1E
-- https://www.youtube.com/watch?v=xyTxUHs1N94
+  - >-
+    https://www.louisianamusicfactory.com/product/louie-ludwig-with-the-moss-pickers-elevation-13/
+  - 'https://americana-uk.com/louie-ludwig-i-got-nothin-to-say-independent-2017'
+  - 'https://www.youtube.com/c/LouieLudwig'
+  - 'https://www.youtube.com/watch?v=WqYkhv7lh1E'
+  - 'https://www.youtube.com/watch?v=xyTxUHs1N94'
 network_extracted: true
 entry_created: '2025-11-01T15:29:11.293261'
 last_updated: '2025-12-23T08:16:12.201132'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](louie_ludwig.jpg)

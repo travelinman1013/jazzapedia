@@ -1,16 +1,16 @@
 ---
 artist_type: person
 biography_enhanced_at: '2026-01-15T01:17:35.086817'
-birth_place: St. Francisville, Louisiana, United States
+birth_place: 'St. Francisville, Louisiana, United States'
 disambiguation: Author of American Accent Training
 enhancement_provider: perplexity
 entry_created: '2026-01-15T01:17:35.086824'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/19186919-d9f3-4861-88b8-b82882103633
-  spotify: https://open.spotify.com/artist/7zfddXRLulTVXs6HJtvxDS
-  wikipedia: https://en.wikipedia.org/wiki/Anne_Cook
+  musicbrainz: 'https://musicbrainz.org/artist/19186919-d9f3-4861-88b8-b82882103633'
+  spotify: 'https://open.spotify.com/artist/7zfddXRLulTVXs6HJtvxDS'
+  wikipedia: 'https://en.wikipedia.org/wiki/Anne_Cook'
 genres:
-- musicals
+  - musicals
 image_path: ''
 last_updated: '2026-01-15T01:17:35.086825'
 musical_connections:
@@ -21,20 +21,22 @@ musicbrainz_id: 19186919-d9f3-4861-88b8-b82882103633
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.allmusic.com/artist/ann-cook-mn0000570617
-- https://www.last.fm/music/Ann+Cook/+wiki
-- https://www.findagrave.com/memorial/13726682/ann-cook
-- https://josephwwashek.substack.com/p/ann-cooks-borrowed-dress
-- https://en.wikipedia.org/wiki/Anne_Cook
+  - 'https://www.allmusic.com/artist/ann-cook-mn0000570617'
+  - 'https://www.last.fm/music/Ann+Cook/+wiki'
+  - 'https://www.findagrave.com/memorial/13726682/ann-cook'
+  - 'https://josephwwashek.substack.com/p/ann-cooks-borrowed-dress'
+  - 'https://en.wikipedia.org/wiki/Anne_Cook'
 spotify_data:
   followers: 638
   id: 7zfddXRLulTVXs6HJtvxDS
   popularity: 24
-  url: https://open.spotify.com/artist/7zfddXRLulTVXs6HJtvxDS
+  url: 'https://open.spotify.com/artist/7zfddXRLulTVXs6HJtvxDS'
 status: active
 tags:
-- '[language instruction]'
-title: ANN COOK
+  - '[language instruction]'
+title: Ann Cook
+birth_date: '1903-05-10'
+death_date: '1962-09-29'
 ---
 
 ![]()

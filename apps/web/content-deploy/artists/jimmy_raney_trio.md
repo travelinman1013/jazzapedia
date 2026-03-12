@@ -1,15 +1,15 @@
 ---
-title: jimmy raney trio
+title: Jimmy Raney Trio
 wiki_slug: jimmy-raney-trio
 schema_version: 2
 status: active
-birth_place: Louisville, Kentucky, United States
+birth_place: 'Louisville, Kentucky, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jimmy_raney_trio.jpg
   caption: jimmy raney trio
   background: solo_singer
-  origin: Louisville, Kentucky, United States
+  origin: 'Louisville, Kentucky, United States'
 audio_profile:
   tempo_avg: 106.9
   energy_avg: 0.136
@@ -25,50 +25,55 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Red Norvo
-  - Stan Getz
-  - Doug Raney
-  - Bob Brookmeyer
+    - Red Norvo
+    - Stan Getz
+    - Doug Raney
+    - Bob Brookmeyer
   influenced:
-  - Doug Raney
-  - Jon Raney
+    - Doug Raney
+    - Jon Raney
   mentors:
-  - Max Miller
+    - Max Miller
 spotify_data:
   followers: 1478
   id: 3KMU48Gzo49CCkMpKyqzqE
   popularity: 4
-  url: https://open.spotify.com/artist/3KMU48Gzo49CCkMpKyqzqE
+  url: 'https://open.spotify.com/artist/3KMU48Gzo49CCkMpKyqzqE'
 discography_enriched: true
 top_tracks:
-- But Beautiful (But Beautiful)
-- Hassan's Dream (Wisteria)
-- All The Things You Are (Wisteria)
-- Long Ago And Far Away (But Beautiful)
-- Indian Summer (But Beautiful)
-- I Get A Kick Out Of You (But Beautiful)
-- Someone To Watch Over Me (But Beautiful)
-- Elegy For Ray Parker (But Beautiful)
-- He Loves And She Loves (But Beautiful)
-- The Way You Look Tonight (But Beautiful)
+  - But Beautiful (But Beautiful)
+  - Hassan's Dream (Wisteria)
+  - All The Things You Are (Wisteria)
+  - Long Ago And Far Away (But Beautiful)
+  - Indian Summer (But Beautiful)
+  - I Get A Kick Out Of You (But Beautiful)
+  - Someone To Watch Over Me (But Beautiful)
+  - Elegy For Ray Parker (But Beautiful)
+  - He Loves And She Loves (But Beautiful)
+  - The Way You Look Tonight (But Beautiful)
 external_urls:
-  spotify: https://open.spotify.com/artist/3KMU48Gzo49CCkMpKyqzqE
-  wikipedia: https://en.wikipedia.org/wiki/Jimmy_Raney
+  spotify: 'https://open.spotify.com/artist/3KMU48Gzo49CCkMpKyqzqE'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jimmy_Raney'
 image_path: 03_Resources/source_material/ArtistPortraits/jimmy_raney_trio.jpg
 biography_enhanced_at: '2025-11-20T07:09:50.982753'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jimmy_Raney
-- https://www.allaboutjazz.com/musicians/jimmy-raney/
-- https://fromthevaults-boppinbob.blogspot.com/2020/08/jimmy-raney-born-20-august-1927.html
-- https://www.jazzguitarlessons.net/blog/jimmy-raney
-- http://www.issues.louisvillemusicnews.net/1990/1990January/1990January_Jimmy-Raney.php
-- https://www.jonraney.com/musicians-2/jimmy-raney-2/2723-2/
-- https://www.jazzbooks.com/mm5/samples/TJRB.pdf
+  - 'https://en.wikipedia.org/wiki/Jimmy_Raney'
+  - 'https://www.allaboutjazz.com/musicians/jimmy-raney/'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2020/08/jimmy-raney-born-20-august-1927.html
+  - 'https://www.jazzguitarlessons.net/blog/jimmy-raney'
+  - >-
+    http://www.issues.louisvillemusicnews.net/1990/1990January/1990January_Jimmy-Raney.php
+  - 'https://www.jonraney.com/musicians-2/jimmy-raney-2/2723-2/'
+  - 'https://www.jazzbooks.com/mm5/samples/TJRB.pdf'
 network_extracted: true
 entry_created: '2025-11-20T07:09:50.982762'
 last_updated: '2025-12-23T08:16:10.480441'
+birth_date: '1927-08-20'
+death_date: '1995-05-10'
+artist_type: person
 ---
 
 ![](jimmy_raney_trio.jpg)

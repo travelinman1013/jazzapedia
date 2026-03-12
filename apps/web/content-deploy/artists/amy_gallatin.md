@@ -1,30 +1,34 @@
 ---
-title: AMY GALLATIN
+title: Amy Gallatin
 wiki_slug: amy-gallatin
 schema_version: 2
 artist_type: person
 status: active
-birth_place: Muscle Shoals, Alabama, United States (birthplace); Western United States (raised)
+birth_place: >-
+  Muscle Shoals, Alabama, United States (birthplace); Western United States
+  (raised)
 genres:
-- bluegrass
+  - bluegrass
 instruments:
-- eponymous
-- original
-associated_acts:
-- begin: ''
-  end: ''
-  instruments:
   - eponymous
   - original
-  mbid: 3207ecf4-aab3-4914-b5e3-3ac94f9aefc2
-  name: Amy Gallatin & Stillwaters
+associated_acts:
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 3207ecf4-aab3-4914-b5e3-3ac94f9aefc2
+    name: Amy Gallatin & Stillwaters
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/amy_gallatin.jpg
   caption: AMY GALLATIN
   background: non_vocal_instrumentalist
-  origin: Muscle Shoals, Alabama, United States (birthplace); Western United States (raised)
+  origin: >-
+    Muscle Shoals, Alabama, United States (birthplace); Western United States
+    (raised)
 audio_profile:
-  tempo_avg: 126.0
+  tempo_avg: 126
   energy_avg: 0.341
   valence_avg: 0.487
   danceability_avg: 0.553
@@ -38,39 +42,39 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Roger
+    - Roger
   influenced: []
   mentors: []
 spotify_data:
   followers: 27
   id: 4Ngcqp6EDzoHHNeL1Y0L5Y
   popularity: 0
-  url: https://open.spotify.com/artist/4Ngcqp6EDzoHHNeL1Y0L5Y
+  url: 'https://open.spotify.com/artist/4Ngcqp6EDzoHHNeL1Y0L5Y'
 discography_enriched: true
 top_tracks:
-- I Know What I Want for Christmas ('Tis the Season)
-- Have Yourself a Merry Little Christmas ('Tis the Season)
-- When Love Was Born ('Tis the Season)
-- Silver and Gold ('Tis the Season)
-- December Child ('Tis the Season)
-- Two Step 'round the Christmas Tree ('Tis the Season)
-- Hard Candy Christmas ('Tis the Season)
-- I'll Be There with Bells On ('Tis the Season)
-- Some Children See Him ('Tis the Season)
-- Christmas for Cowboys ('Tis the Season)
+  - I Know What I Want for Christmas ('Tis the Season)
+  - Have Yourself a Merry Little Christmas ('Tis the Season)
+  - When Love Was Born ('Tis the Season)
+  - Silver and Gold ('Tis the Season)
+  - December Child ('Tis the Season)
+  - Two Step 'round the Christmas Tree ('Tis the Season)
+  - Hard Candy Christmas ('Tis the Season)
+  - I'll Be There with Bells On ('Tis the Season)
+  - Some Children See Him ('Tis the Season)
+  - Christmas for Cowboys ('Tis the Season)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/201a3218-a1fa-4818-a94f-68e2f8714859
-  spotify: https://open.spotify.com/artist/4Ngcqp6EDzoHHNeL1Y0L5Y
+  musicbrainz: 'https://musicbrainz.org/artist/201a3218-a1fa-4818-a94f-68e2f8714859'
+  spotify: 'https://open.spotify.com/artist/4Ngcqp6EDzoHHNeL1Y0L5Y'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/amy_gallatin.jpg
 biography_enhanced_at: '2025-12-04T08:09:50.337391'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- amygallatin.com
-- nighteaglecafe.org
-- bluegrasstoday.com
-- last.fm
+  - amygallatin.com
+  - nighteaglecafe.org
+  - bluegrasstoday.com
+  - last.fm
 network_extracted: true
 entry_created: '2025-12-04T08:09:50.337406'
 last_updated: '2025-12-23T08:16:04.723140'

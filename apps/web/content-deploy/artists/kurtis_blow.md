@@ -1,65 +1,65 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5e3b290d-e432-4094-bc63-16bdb382ccf9
-  name: Legends of Hip Hop
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7dff0a87-2b4d-4dc1-876c-320d4c5d773d
-  name: The Krush Groove All‐Stars
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5e3b290d-e432-4094-bc63-16bdb382ccf9
+    name: Legends of Hip Hop
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7dff0a87-2b4d-4dc1-876c-320d4c5d773d
+    name: The Krush Groove All‐Stars
 biography_enhanced_at: '2025-12-28T02:02:46.919743'
 birth_date: '1959-08-09'
-birth_place: The Bronx
+birth_place: 'Harlem, New York, United States'
 enhancement_provider: perplexity
 entry_created: '2025-12-28T02:02:46.919753'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/72eafbba-ff08-4257-9594-267d4a6fcdca
-  spotify: https://open.spotify.com/artist/25TKXk9zo9yk0HMJQ3TuE9
-  wikipedia: https://en.wikipedia.org/wiki/Kurtis_Blow
+  musicbrainz: 'https://musicbrainz.org/artist/72eafbba-ff08-4257-9594-267d4a6fcdca'
+  spotify: 'https://open.spotify.com/artist/25TKXk9zo9yk0HMJQ3TuE9'
+  wikipedia: 'https://en.wikipedia.org/wiki/Kurtis_Blow'
 gender: Male
 genres:
-- east coast hip hop
+  - east coast hip hop
 image_path: 03_Resources/source_material/ArtistPortraits/kurtis_blow.jpg
 last_updated: '2025-12-28T02:02:46.919754'
 musical_connections:
   collaborators:
-  - Run-D.M.C.
-  - The Fat Boys
-  - Lovebug Starski
-  - Full Force
-  - Russell Simmons
-  - Wyclef Jean
-  - René & Angela
-  - Bob Dylan
+    - Run-D.M.C.
+    - The Fat Boys
+    - Lovebug Starski
+    - Full Force
+    - Russell Simmons
+    - Wyclef Jean
+    - René & Angela
+    - Bob Dylan
   influenced:
-  - Run (Run-D.M.C.)
-  - Nas
+    - Run (Run-D.M.C.)
+    - Nas
   mentors: []
 musicbrainz_id: 72eafbba-ff08-4257-9594-267d4a6fcdca
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.hiphopscriptures.com/kurtis-blow
-- https://en.wikipedia.org/wiki/Kurtis_Blow
-- http://hiphopgoldenage.com/artists/kurtis-blow/
-- https://uaagency.com/hip-hop-rb/kurtis-blow/
-- https://www.imdb.com/name/nm0089423/bio/
+  - 'https://www.hiphopscriptures.com/kurtis-blow'
+  - 'https://en.wikipedia.org/wiki/Kurtis_Blow'
+  - 'http://hiphopgoldenage.com/artists/kurtis-blow/'
+  - 'https://uaagency.com/hip-hop-rb/kurtis-blow/'
+  - 'https://www.imdb.com/name/nm0089423/bio/'
 spotify_data:
   followers: 237114
   id: 25TKXk9zo9yk0HMJQ3TuE9
   popularity: 43
-  url: https://open.spotify.com/artist/25TKXk9zo9yk0HMJQ3TuE9
+  url: 'https://open.spotify.com/artist/25TKXk9zo9yk0HMJQ3TuE9'
 status: active
 tags:
-- disco rap
-- east coast hip hop
-- electro
+  - disco rap
+  - east coast hip hop
+  - electro
 title: Kurtis Blow
-
+origin: 'The Bronx, New York, United States'
 ---
 
 ![](kurtis_blow.jpg)

@@ -3,16 +3,16 @@ title: Masayoshi Takanaka
 wiki_slug: masayoshi-takanaka
 schema_version: 2
 status: active
-birth_place: Tokyo, Japan
+birth_place: 'Tokyo, Japan, United States'
 genres:
-- jazz fusion
-- city pop
-- jazz funk
+  - jazz fusion
+  - city pop
+  - jazz funk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/masayoshi_takanaka.jpg
   caption: Masayoshi Takanaka
   background: solo_singer
-  origin: Tokyo, Japan
+  origin: 'Tokyo, Japan'
 audio_profile:
   tempo_avg: 121.2
   energy_avg: 0.636
@@ -28,49 +28,52 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sadistic Mika Band
-  - The Sadistics
-  - Takahashi Kaneshiro (YMO)
-  - Santana
-  - Roxy Music
+    - Sadistic Mika Band
+    - The Sadistics
+    - Takahashi Kaneshiro (YMO)
+    - Santana
+    - Roxy Music
   influenced:
-  - Grimes
-  - Video game composers
+    - Grimes
+    - Video game composers
   mentors:
-  - Narumo
+    - Narumo
 spotify_data:
   followers: 616314
   id: 2Ex4vjQ6mSh5woTlDWto6d
   popularity: 60
-  url: https://open.spotify.com/artist/2Ex4vjQ6mSh5woTlDWto6d
+  url: 'https://open.spotify.com/artist/2Ex4vjQ6mSh5woTlDWto6d'
 discography_enriched: true
 top_tracks:
-- トーキョーレギー (SEYCHELLES)
-- OH! TENGO SUERTE (SEYCHELLES)
-- BRASILIAN SKIES (BRASILIAN SKIES)
-- BELEZA PULA (BRASILIAN SKIES)
-- BREEZIN' (オン・ギター)
-- 憧れのセーシェル諸島 (SEYCHELLES)
-- E. S. P. (AN INSATIABLE HIGH)
-- SEXY DANCE (AN INSATIABLE HIGH)
-- 蜃気楼の島へ (SEYCHELLES)
-- SWEET AGNES (TAKANAKA)
+  - トーキョーレギー (SEYCHELLES)
+  - OH! TENGO SUERTE (SEYCHELLES)
+  - BRASILIAN SKIES (BRASILIAN SKIES)
+  - BELEZA PULA (BRASILIAN SKIES)
+  - BREEZIN' (オン・ギター)
+  - 憧れのセーシェル諸島 (SEYCHELLES)
+  - E. S. P. (AN INSATIABLE HIGH)
+  - SEXY DANCE (AN INSATIABLE HIGH)
+  - 蜃気楼の島へ (SEYCHELLES)
+  - SWEET AGNES (TAKANAKA)
 external_urls:
-  spotify: https://open.spotify.com/artist/2Ex4vjQ6mSh5woTlDWto6d
-  wikipedia: https://en.wikipedia.org/wiki/Masayoshi_Takanaka
+  spotify: 'https://open.spotify.com/artist/2Ex4vjQ6mSh5woTlDWto6d'
+  wikipedia: 'https://en.wikipedia.org/wiki/Masayoshi_Takanaka'
 image_path: 03_Resources/source_material/ArtistPortraits/masayoshi_takanaka.jpg
 biography_enhanced_at: '2025-11-20T07:03:53.142644'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.yokogaomag.com/editorial/masayoshi-takanaka
-- https://www.youtube.com/watch?v=orwKirOAjH4
-- https://www.wxjm.org/how-a-japanese-man-with-a-guitar-changed-my-life/
-- https://en.wikipedia.org/wiki/Masayoshi_Takanaka
-- https://www.japanesejazzfusion.com/j-fusion-history/tracing-the-steps-of-jazz-fusion-in-japan-1970-to-1977.html
+  - 'https://www.yokogaomag.com/editorial/masayoshi-takanaka'
+  - 'https://www.youtube.com/watch?v=orwKirOAjH4'
+  - 'https://www.wxjm.org/how-a-japanese-man-with-a-guitar-changed-my-life/'
+  - 'https://en.wikipedia.org/wiki/Masayoshi_Takanaka'
+  - >-
+    https://www.japanesejazzfusion.com/j-fusion-history/tracing-the-steps-of-jazz-fusion-in-japan-1970-to-1977.html
 network_extracted: true
 entry_created: '2025-11-20T07:03:53.142651'
 last_updated: '2025-12-23T08:16:12.807879'
+birth_date: '1953-03-27'
+artist_type: person
 ---
 
 ![](masayoshi_takanaka.jpg)

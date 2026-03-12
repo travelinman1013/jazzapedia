@@ -4,9 +4,10 @@ wiki_slug: the-messthetics-and-james-brandon-lewis
 schema_version: 2
 status: active
 genres:
-- jazz
+  - jazz
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/the_messthetics_and_james_brandon_lewis.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/the_messthetics_and_james_brandon_lewis.jpg
   caption: The Messthetics and James Brandon Lewis
   background: solo_singer
 audio_profile:
@@ -24,53 +25,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Joe Lally
-  - Brendan Canty
-  - Anthony Pirog
-  - Impulse! Records
+    - Joe Lally
+    - Brendan Canty
+    - Anthony Pirog
+    - Impulse! Records
   influenced:
-  - Younger experimental jazz and punk‑adjacent improvisers (collective category)
+    - >-
+      Younger experimental jazz and punk‑adjacent improvisers (collective
+      category)
   mentors:
-  - William Hooker
-  - Matthew Shipp
+    - William Hooker
+    - Matthew Shipp
 spotify_data:
   followers: 1221
   id: 0Rtyf1GCI3jzV0o5a82JBW
   popularity: 11
-  url: https://open.spotify.com/artist/0Rtyf1GCI3jzV0o5a82JBW
+  url: 'https://open.spotify.com/artist/0Rtyf1GCI3jzV0o5a82JBW'
 discography_enriched: true
 top_tracks:
-- Per 7 (Abstraction Is Deliverance)
-- Ware (Abstraction Is Deliverance)
-- Even the Sparrow (Abstraction Is Deliverance)
-- Abstraction Is Deliverance (Abstraction Is Deliverance)
-- Multicellular Beings (Abstraction Is Deliverance)
-- Remember Rosalind (Abstraction Is Deliverance)
-- Mr. Crick (Abstraction Is Deliverance)
-- Left Alone (Abstraction Is Deliverance)
-- Ware (Ware)
-- Polaris (Abstraction Is Deliverance)
+  - Per 7 (Abstraction Is Deliverance)
+  - Ware (Abstraction Is Deliverance)
+  - Even the Sparrow (Abstraction Is Deliverance)
+  - Abstraction Is Deliverance (Abstraction Is Deliverance)
+  - Multicellular Beings (Abstraction Is Deliverance)
+  - Remember Rosalind (Abstraction Is Deliverance)
+  - Mr. Crick (Abstraction Is Deliverance)
+  - Left Alone (Abstraction Is Deliverance)
+  - Ware (Ware)
+  - Polaris (Abstraction Is Deliverance)
 external_urls:
-  spotify: https://open.spotify.com/artist/0Rtyf1GCI3jzV0o5a82JBW
-  wikipedia: https://en.wikipedia.org/wiki/The_Messthetics_and_James_Brandon_Lewis
-image_path: 03_Resources/source_material/ArtistPortraits/the_messthetics_and_james_brandon_lewis.jpg
+  spotify: 'https://open.spotify.com/artist/0Rtyf1GCI3jzV0o5a82JBW'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Messthetics_and_James_Brandon_Lewis'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/the_messthetics_and_james_brandon_lewis.jpg
 biography_enhanced_at: '2025-12-11T03:44:28.897774'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/The_Messthetics_and_James_Brandon_Lewis
-- https://www.capitalbop.com/messthetics-james-brandon-lewis-album-interview/
-- https://www.thecedar.org/events/the-messthetics-james-brandon-lewis
-- https://jblewis.com/about
-- https://postgenre.org/pirog-messthetics-jbl/
-- https://www.psychedelicbabymag.com/2025/04/the-james-brandon-lewis-interview.html
-- https://stereogum.com/2254843/the-messthetics-and-james-brandon-lewis/reviews/album-of-the-week
-- https://jblewis.com/bio
+  - 'https://en.wikipedia.org/wiki/The_Messthetics_and_James_Brandon_Lewis'
+  - 'https://www.capitalbop.com/messthetics-james-brandon-lewis-album-interview/'
+  - 'https://www.thecedar.org/events/the-messthetics-james-brandon-lewis'
+  - 'https://jblewis.com/about'
+  - 'https://postgenre.org/pirog-messthetics-jbl/'
+  - >-
+    https://www.psychedelicbabymag.com/2025/04/the-james-brandon-lewis-interview.html
+  - >-
+    https://stereogum.com/2254843/the-messthetics-and-james-brandon-lewis/reviews/album-of-the-week
+  - 'https://jblewis.com/bio'
 network_extracted: true
 entry_created: '2025-12-11T03:44:28.897785'
 last_updated: '2025-12-23T08:16:16.951780'
-origin: Washington, D.C., United States (The Messthetics); Brooklyn, New York, United States (James Brandon Lewis)
-
+origin: >-
+  Washington, D.C., United States (The Messthetics); Brooklyn, New York, United
+  States (James Brandon Lewis)
+artist_type: band
 ---
 
 ![](the_messthetics_and_james_brandon_lewis.jpg)

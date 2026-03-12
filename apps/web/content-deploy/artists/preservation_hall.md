@@ -1,12 +1,12 @@
 ---
-title: PRESERVATION HALL
+title: Preservation Hall
 wiki_slug: preservation-hall
 schema_version: 2
 status: active
 genres:
-- swing music
-- ragtime
-- jazz
+  - swing music
+  - ragtime
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/preservation_hall.jpg
   caption: PRESERVATION HALL
@@ -26,52 +26,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Sweet Emma Barrett
-  - Billie and De De Pierce
-  - Willie and Percy Humphrey
-  - Modern collaborators (Tom Waits, Dr. John, Arcade Fire, The Black Keys, Foo Fighters)
+    - Sweet Emma Barrett
+    - Billie and De De Pierce
+    - Willie and Percy Humphrey
+    - >-
+      Modern collaborators (Tom Waits, Dr. John, Arcade Fire, The Black Keys,
+      Foo Fighters)
   influenced:
-  - Ben Jaffe
-  - John Brunious
-  - SFJAZZ Collective
+    - Ben Jaffe
+    - John Brunious
+    - SFJAZZ Collective
   mentors:
-  - Buddy Bolden
-  - Jelly Roll Morton
-  - Louis Armstrong
+    - Buddy Bolden
+    - Jelly Roll Morton
+    - Louis Armstrong
 spotify_data:
   followers: 86059
   id: 2S0rCVs10P1Q0v51wmOrM5
   popularity: 41
-  url: https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5
+  url: 'https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5'
 discography_enriched: true
 top_tracks:
-- That's It! (That's It!)
-- Between The Devil & The Deep Blue Sea (An Album To Benefit Preservation Hall & The Preservation Hall Music Outreach Program)
-- Choko Mo Feel No Hey (New Orleans Preservation, Vol. 1)
-- Summertime (Songs of New Orleans)
-- Having A Party - Live (Live At Red Rocks)
-- Tootie Ma Is A Big Fine Thing (50th Anniversary Collection)
-- Short Dressed Gal (New Orleans Preservation, Vol. 1)
-- Bill Bailey Won't You Please Come Home (For Fat Man)
-- Kreyol (A Tuba to Cuba)
-- Basin Street Blues (Songs of New Orleans)
+  - That's It! (That's It!)
+  - >-
+    Between The Devil & The Deep Blue Sea (An Album To Benefit Preservation Hall
+    & The Preservation Hall Music Outreach Program)
+  - 'Choko Mo Feel No Hey (New Orleans Preservation, Vol. 1)'
+  - Summertime (Songs of New Orleans)
+  - Having A Party - Live (Live At Red Rocks)
+  - Tootie Ma Is A Big Fine Thing (50th Anniversary Collection)
+  - 'Short Dressed Gal (New Orleans Preservation, Vol. 1)'
+  - Bill Bailey Won't You Please Come Home (For Fat Man)
+  - Kreyol (A Tuba to Cuba)
+  - Basin Street Blues (Songs of New Orleans)
 external_urls:
-  spotify: https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5
-  wikipedia: https://en.wikipedia.org/wiki/Preservation_Hall
+  spotify: 'https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5'
+  wikipedia: 'https://en.wikipedia.org/wiki/Preservation_Hall'
 image_path: 03_Resources/source_material/ArtistPortraits/preservation_hall.jpg
 biography_enhanced_at: '2025-10-30T11:48:28.017248'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://frenchquarterly.com/music/preservation-hall-preserving-new-orleans-jazz
-- https://www.arts.gov/honors/medals/preservation-hall-jazz-band
-- https://www.smithsonianmag.com/arts-culture/preservation-hall-new-orleans-iconic-jazz-180980770/
-- https://www.sfjazz.org/onthecorner/articles/soul-of-new-orleans-legacy-of-preservation-hall/
+  - >-
+    https://frenchquarterly.com/music/preservation-hall-preserving-new-orleans-jazz
+  - 'https://www.arts.gov/honors/medals/preservation-hall-jazz-band'
+  - >-
+    https://www.smithsonianmag.com/arts-culture/preservation-hall-new-orleans-iconic-jazz-180980770/
+  - >-
+    https://www.sfjazz.org/onthecorner/articles/soul-of-new-orleans-legacy-of-preservation-hall/
 network_extracted: true
 entry_created: '2025-10-30T11:48:28.017329'
 last_updated: '2025-12-23T08:16:14.437882'
-origin: New Orleans, Louisiana, United States
-
+origin: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![](preservation_hall.jpg)

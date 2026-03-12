@@ -4,8 +4,8 @@ wiki_slug: georgiana-de-moraes
 schema_version: 2
 status: active
 genres:
-- bossa nova
-- brazilian jazz
+  - bossa nova
+  - brazilian jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/georgiana_de_moraes.jpg
   caption: Georgiana de Moraes
@@ -17,7 +17,7 @@ audio_profile:
   danceability_avg: 0.551
   acousticness_avg: 0.769
   instrumentalness_avg: 0.004
-  loudness_avg: -13.0
+  loudness_avg: -13
   speechiness_avg: 0.124
   liveness_avg: 0.124
   track_count: 18
@@ -31,34 +31,35 @@ spotify_data:
   followers: 49
   id: 28qJDhYj9sNsOxjXAjjR7H
   popularity: 1
-  url: https://open.spotify.com/artist/28qJDhYj9sNsOxjXAjjR7H
+  url: 'https://open.spotify.com/artist/28qJDhYj9sNsOxjXAjjR7H'
 discography_enriched: true
 top_tracks:
-- Cartão de Visita (A Vida Tem Sempre Razão)
-- Só Danço Samba (O Tom do Vinicius)
-- Uma Música Que Seja (O Tom do Vinicius)
-- Canta, Canta Mais (O Tom do Vinicius)
-- Tomara (O Tom do Vinicius)
-- Outra Vez (O Tom do Vinicius)
-- Medo de Amar (O Tom do Vinicius)
-- O Morro Não Tem Vez (O Tom do Vinicius)
-- Sem Você (O Tom do Vinicius)
-- Brigas Nunca Mais (O Tom do Vinicius)
+  - Cartão de Visita (A Vida Tem Sempre Razão)
+  - Só Danço Samba (O Tom do Vinicius)
+  - Uma Música Que Seja (O Tom do Vinicius)
+  - 'Canta, Canta Mais (O Tom do Vinicius)'
+  - Tomara (O Tom do Vinicius)
+  - Outra Vez (O Tom do Vinicius)
+  - Medo de Amar (O Tom do Vinicius)
+  - O Morro Não Tem Vez (O Tom do Vinicius)
+  - Sem Você (O Tom do Vinicius)
+  - Brigas Nunca Mais (O Tom do Vinicius)
 external_urls:
-  spotify: https://open.spotify.com/artist/28qJDhYj9sNsOxjXAjjR7H
+  spotify: 'https://open.spotify.com/artist/28qJDhYj9sNsOxjXAjjR7H'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/georgiana_de_moraes.jpg
 biography_enhanced_at: '2025-12-21T01:24:26.069457'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Vinicius_de_Moraes
-- https://www.viniciusdemoraes.com.br/en/bio/vinicius
-- https://www.viniciusdemoraes.com.br/es/bio/vinicius
-- https://kids.kiddle.co/Vinicius_de_Moraes
+  - 'https://en.wikipedia.org/wiki/Vinicius_de_Moraes'
+  - 'https://www.viniciusdemoraes.com.br/en/bio/vinicius'
+  - 'https://www.viniciusdemoraes.com.br/es/bio/vinicius'
+  - 'https://kids.kiddle.co/Vinicius_de_Moraes'
 network_extracted: true
 entry_created: '2025-12-21T01:24:26.069463'
 last_updated: '2025-12-23T08:16:09.132814'
+artist_type: person
 ---
 
 ![](georgiana_de_moraes.jpg)

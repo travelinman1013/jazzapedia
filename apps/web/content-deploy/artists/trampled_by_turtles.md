@@ -1,98 +1,101 @@
 ---
-artist_type: group
+artist_type: band
 biography_enhanced_at: '2026-01-20T01:28:58.026294'
-birth_date: '2004'
+birth_date: '2003'
 enhancement_provider: perplexity
 entry_created: '2026-01-20T01:28:58.026299'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c6a5a49b-9885-42e6-9fb5-ccaaec05f753
-  spotify: https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4
+  musicbrainz: 'https://musicbrainz.org/artist/c6a5a49b-9885-42e6-9fb5-ccaaec05f753'
+  spotify: 'https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4'
   wikipedia: ''
 genres:
-- bluegrass
-- newgrass
-- americana
-- folk
-- alt country
+  - bluegrass
+  - newgrass
+  - americana
+  - folk
+  - alt country
 image_path: 03_Resources/source_material/ArtistPortraits/trampled_by_turtles.jpg
 instruments:
-- mandolin
-- banjo
-- bass guitar
-- guitar
-- lead vocals
+  - mandolin
+  - banjo
+  - bass guitar
+  - guitar
+  - lead vocals
 last_updated: '2026-01-20T01:28:58.026300'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - mandolin
-  mbid: ff64c7a2-4495-49ae-af92-6bfe1dd29cc9
-  name: Erik Berry
-- begin: ''
-  end: ''
-  instruments:
-  - banjo
-  mbid: 88797f3e-cb9d-480f-b642-4e8835779b80
-  name: Dave Carroll
-- begin: ''
-  end: ''
-  instruments:
-  - bass guitar
-  mbid: 68bdda90-6a92-4aea-a60c-45d5c7293ac4
-  name: Tim Saxhaug
-- begin: ''
-  end: ''
-  instruments:
-  - guitar
-  mbid: 854c90e9-a8b8-4498-bdbf-2735fd687eb9
-  name: Dave Simonett
-- begin: ''
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: 854c90e9-a8b8-4498-bdbf-2735fd687eb9
-  name: Dave Simonett
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9cab82cd-f848-4752-af4f-8f1cc436f737
-  name: Ryan Young
+  - begin: ''
+    end: ''
+    instruments:
+      - mandolin
+    mbid: ff64c7a2-4495-49ae-af92-6bfe1dd29cc9
+    name: Erik Berry
+  - begin: ''
+    end: ''
+    instruments:
+      - banjo
+    mbid: 88797f3e-cb9d-480f-b642-4e8835779b80
+    name: Dave Carroll
+  - begin: ''
+    end: ''
+    instruments:
+      - bass guitar
+    mbid: 68bdda90-6a92-4aea-a60c-45d5c7293ac4
+    name: Tim Saxhaug
+  - begin: ''
+    end: ''
+    instruments:
+      - guitar
+    mbid: 854c90e9-a8b8-4498-bdbf-2735fd687eb9
+    name: Dave Simonett
+  - begin: ''
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: 854c90e9-a8b8-4498-bdbf-2735fd687eb9
+    name: Dave Simonett
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9cab82cd-f848-4752-af4f-8f1cc436f737
+    name: Ryan Young
 musical_connections:
   collaborators:
-  - Tim Saxhaug
-  - Dave Carroll
-  - Erik Berry
-  - Ryan Young
-  - Jeff Tweedy
-  - Eamonn McLain
-  - Wilco
+    - Tim Saxhaug
+    - Dave Carroll
+    - Erik Berry
+    - Ryan Young
+    - Jeff Tweedy
+    - Eamonn McLain
+    - Wilco
   influenced: []
   mentors: []
 musicbrainz_id: c6a5a49b-9885-42e6-9fb5-ccaaec05f753
 network_extracted: true
-origin: Duluth
+origin: 'Duluth, Minnesota, United States'
 primary_source: perplexity
 research_sources:
-- https://www.minnesotamonthly.com/lifestyle/being-trampled-by-turtles/
-- https://theark.org/event/trampled-by-turtles-221204/
-- https://mokbpresents.com/artist/trampled-by-turtles/
-- https://summerofthearts.org/performer/trampled-by-turtles/
-- https://news.pollstar.com/2012/10/12/trampled-by-turtles/
-- https://bluegrassunlimited.com/article/trampled-by-turtles/
-- https://yourtahoeguide.com/2016/06/trampled-turtles-%C2%B7-genre-bending-folk-rock/
-- https://www.kexp.org/read/2018/5/4/trampled-turtles-talk-hiatus-bluegrass-new-lp-life-good-open-road/
-- https://thebluegrasssituation.com/read/basic-folk-dave-simonett-of-trampled-by-turtles/
+  - 'https://www.minnesotamonthly.com/lifestyle/being-trampled-by-turtles/'
+  - 'https://theark.org/event/trampled-by-turtles-221204/'
+  - 'https://mokbpresents.com/artist/trampled-by-turtles/'
+  - 'https://summerofthearts.org/performer/trampled-by-turtles/'
+  - 'https://news.pollstar.com/2012/10/12/trampled-by-turtles/'
+  - 'https://bluegrassunlimited.com/article/trampled-by-turtles/'
+  - >-
+    https://yourtahoeguide.com/2016/06/trampled-turtles-%C2%B7-genre-bending-folk-rock/
+  - >-
+    https://www.kexp.org/read/2018/5/4/trampled-turtles-talk-hiatus-bluegrass-new-lp-life-good-open-road/
+  - >-
+    https://thebluegrasssituation.com/read/basic-folk-dave-simonett-of-trampled-by-turtles/
 spotify_data:
   followers: 440912
   id: 3GjVVVcFmUgEJEAAsbGkf4
   popularity: 56
-  url: https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4
+  url: 'https://open.spotify.com/artist/3GjVVVcFmUgEJEAAsbGkf4'
 status: active
 tags:
-- bluegrass
-- folk rock
-- progressive bluegrass
+  - bluegrass
+  - folk rock
+  - progressive bluegrass
 title: Trampled By Turtles
 ---
 

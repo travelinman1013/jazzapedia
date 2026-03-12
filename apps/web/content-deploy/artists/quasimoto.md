@@ -2,24 +2,24 @@
 title: Quasimoto
 wiki_slug: quasimoto
 schema_version: 2
-artist_type: character
+artist_type: band
 status: active
 birth_date: '1998'
-birth_place: Oxnard, California, United States
+birth_place: 'Oxnard, California, United States'
 genres:
-- alternative hip hop
-- boom bap
-- experimental hip hop
-- jazz rap
-- underground hip hop
+  - alternative hip hop
+  - boom bap
+  - experimental hip hop
+  - jazz rap
+  - underground hip hop
 instruments:
-- lead vocals
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/quasimoto.jpg
   caption: Quasimoto
   background: solo_singer
   born: '1998'
-  origin: Oxnard, California, United States
+  origin: 'Oxnard, California, United States'
 audio_profile:
   tempo_avg: 109.6
   energy_avg: 0.696
@@ -35,57 +35,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Madlib
-  - MF DOOM
-  - Lootpack
+    - Madlib
+    - MF DOOM
+    - Lootpack
   influenced:
-  - Tyler, The Creator
-  - Earl Sweatshirt
-  - Freddie Gibbs
+    - 'Tyler, The Creator'
+    - Earl Sweatshirt
+    - Freddie Gibbs
   mentors:
-  - J Dilla
-  - Peanut Butter Wolf
+    - J Dilla
+    - Peanut Butter Wolf
 spotify_data:
   followers: 324532
   id: 1rJkz5vopfGxTUGFNB3o4G
   popularity: 45
-  url: https://open.spotify.com/artist/1rJkz5vopfGxTUGFNB3o4G
+  url: 'https://open.spotify.com/artist/1rJkz5vopfGxTUGFNB3o4G'
 discography_enriched: true
 top_tracks:
-- America's Most Blunted (feat. Quasimoto) (Madvillainy)
-- Shadows of Tomorrow (feat. Quasimoto) (Madvillainy)
-- Catchin' The Vibe (Yessir Whatever)
-- MHB's (The Unseen)
-- Seasons Change (Yessir Whatever)
-- Basic Instinct (The Unseen)
-- Planned Attack (Yessir Whatever)
-- 'Answers (Soundpieces: Da Antidote)'
-- Real Eyes (The Unseen)
-- Bluffin (The Unseen)
+  - America's Most Blunted (feat. Quasimoto) (Madvillainy)
+  - Shadows of Tomorrow (feat. Quasimoto) (Madvillainy)
+  - Catchin' The Vibe (Yessir Whatever)
+  - MHB's (The Unseen)
+  - Seasons Change (Yessir Whatever)
+  - Basic Instinct (The Unseen)
+  - Planned Attack (Yessir Whatever)
+  - 'Answers (Soundpieces: Da Antidote)'
+  - Real Eyes (The Unseen)
+  - Bluffin (The Unseen)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b614843c-bec3-421f-9af1-03169cdd4b63
-  spotify: https://open.spotify.com/artist/1rJkz5vopfGxTUGFNB3o4G
-  wikipedia: https://en.wikipedia.org/wiki/Quasimoto
+  musicbrainz: 'https://musicbrainz.org/artist/b614843c-bec3-421f-9af1-03169cdd4b63'
+  spotify: 'https://open.spotify.com/artist/1rJkz5vopfGxTUGFNB3o4G'
+  wikipedia: 'https://en.wikipedia.org/wiki/Quasimoto'
 image_path: 03_Resources/source_material/ArtistPortraits/quasimoto.jpg
 biography_enhanced_at: '2025-10-30T12:02:39.932143'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.stonesthrow.com/artist/quasimoto/
-- https://kzsc.org/blog/2016/02/05/quasimoto-ka%E2%80%A2wah%E2%80%A2zee%E2%80%A2moh%E2%80%A2toe/
-- https://www.theaudiodb.com/artist/119100-Quasimoto
-- https://rap.fandom.com/wiki/Quasimoto
-- https://www.jango.com/music/Quasimoto
-- https://www.iheart.com/artist/quasimoto-madvillain-22581/
-- https://www.youtube.com/watch?v=lgKN0LPgeoI
+  - 'https://www.stonesthrow.com/artist/quasimoto/'
+  - >-
+    https://kzsc.org/blog/2016/02/05/quasimoto-ka%E2%80%A2wah%E2%80%A2zee%E2%80%A2moh%E2%80%A2toe/
+  - 'https://www.theaudiodb.com/artist/119100-Quasimoto'
+  - 'https://rap.fandom.com/wiki/Quasimoto'
+  - 'https://www.jango.com/music/Quasimoto'
+  - 'https://www.iheart.com/artist/quasimoto-madvillain-22581/'
+  - 'https://www.youtube.com/watch?v=lgKN0LPgeoI'
 network_extracted: true
 entry_created: '2025-10-30T12:02:39.932154'
 last_updated: '2025-12-23T08:16:14.493745'
 gender: Male
 musicbrainz_id: b614843c-bec3-421f-9af1-03169cdd4b63
 tags:
-- conscious hip hop
-- hip hop
+  - conscious hip hop
+  - hip hop
+origin: 'Oxnard, California, United States'
 ---
 
 ![](quasimoto.jpg)

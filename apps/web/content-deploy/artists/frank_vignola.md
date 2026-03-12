@@ -1,55 +1,60 @@
 ---
 biography_enhanced_at: '2026-01-08T01:30:00.330477'
-birth_place: Long Island, New York, United States
+birth_place: 'Long Island, New York, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-08T01:30:00.330481'
 external_urls:
-  spotify: https://open.spotify.com/artist/0AJD75yBfnawqdsZ9lvIxw
-  wikipedia: https://en.wikipedia.org/wiki/Frank_Vignola
+  spotify: 'https://open.spotify.com/artist/0AJD75yBfnawqdsZ9lvIxw'
+  wikipedia: 'https://en.wikipedia.org/wiki/Frank_Vignola'
 genres:
-- newgrass
+  - newgrass
 image_path: 03_Resources/source_material/ArtistPortraits/frank_vignola.jpg
 last_updated: '2026-01-08T01:30:00.330482'
 musical_connections:
   collaborators:
-  - Howard Alden
-  - Jimmy Bruno
-  - Sam Pilafian
-  - Leon Redbone
-  - David Grisman
-  - Tommy Emmanuel
-  - Wynton Marsalis
-  - Donald Fagen
-  - Ringo Starr
-  - Frank Vignola Trio / Hot Jazz Guitar Trio (with Vinny Raniolo and Gary Mazzaroppi)
+    - Howard Alden
+    - Jimmy Bruno
+    - Sam Pilafian
+    - Leon Redbone
+    - David Grisman
+    - Tommy Emmanuel
+    - Wynton Marsalis
+    - Donald Fagen
+    - Ringo Starr
+    - >-
+      Frank Vignola Trio / Hot Jazz Guitar Trio (with Vinny Raniolo and Gary
+      Mazzaroppi)
   influenced:
-  - Contemporary swing and gypsy‑jazz guitar students worldwide (via his online jazz
-    studio)
+    - >-
+      Contemporary swing and gypsy‑jazz guitar students worldwide (via his
+      online jazz studio)
   mentors:
-  - Frank Vignola’s father (name not widely published)
-  - Django Reinhardt
-  - Bucky Pizzarelli
-  - Joe Pass
-  - Johnny Smith
-  - Les Paul
+    - Frank Vignola’s father (name not widely published)
+    - Django Reinhardt
+    - Bucky Pizzarelli
+    - Joe Pass
+    - Johnny Smith
+    - Les Paul
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Frank_Vignola
-- https://acousticdisc.com/frank-vignola/
-- https://www.frankvignola.com
-- https://riffjournal.com/frank-vignola-goji-balladeer/
-- https://jazztimes.com/features/profiles/frank-vignola-given-gift/
-- https://jazzguitartoday.com/2019/02/the-amazing-career-of-frank-vignola/
-- https://bstreettheatre.org/music/frank-vignolas-hot-jazz-guitar/
-- https://www.youtube.com/watch?v=VOA0PyR7s7c
+  - 'https://en.wikipedia.org/wiki/Frank_Vignola'
+  - 'https://acousticdisc.com/frank-vignola/'
+  - 'https://www.frankvignola.com'
+  - 'https://riffjournal.com/frank-vignola-goji-balladeer/'
+  - 'https://jazztimes.com/features/profiles/frank-vignola-given-gift/'
+  - 'https://jazzguitartoday.com/2019/02/the-amazing-career-of-frank-vignola/'
+  - 'https://bstreettheatre.org/music/frank-vignolas-hot-jazz-guitar/'
+  - 'https://www.youtube.com/watch?v=VOA0PyR7s7c'
 spotify_data:
   followers: 7556
   id: 0AJD75yBfnawqdsZ9lvIxw
   popularity: 23
-  url: https://open.spotify.com/artist/0AJD75yBfnawqdsZ9lvIxw
+  url: 'https://open.spotify.com/artist/0AJD75yBfnawqdsZ9lvIxw'
 status: active
 title: Frank Vignola
+birth_date: '1965-12-30'
+artist_type: person
 ---
 
 ![](frank_vignola.jpg)

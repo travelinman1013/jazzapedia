@@ -1,15 +1,15 @@
 ---
-title: Mark Ronson, Raye
+title: 'Mark Ronson, Raye'
 wiki_slug: mark-ronson-raye
 schema_version: 2
 status: active
-birth_place: London, England, United Kingdom
+birth_place: 'London, England, United Kingdom'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Mark_Ronson_Raye.jpg
-  caption: Mark Ronson, Raye
+  caption: 'Mark Ronson, Raye'
   background: solo_singer
-  origin: London, England, United Kingdom
+  origin: 'London, England, United Kingdom'
 audio_profile:
   tempo_avg: 112.3
   energy_avg: 0.712
@@ -25,46 +25,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tommy Brenneck
-  - Eric Hagstrom
-  - Audemars Piguet (APxMusic program)
+    - Tommy Brenneck
+    - Eric Hagstrom
+    - Audemars Piguet (APxMusic program)
   influenced:
-  - Absolutely (Abby Keen)
+    - Absolutely (Abby Keen)
   mentors:
-  - Amy Winehouse
+    - Amy Winehouse
 spotify_data:
   followers: 1289446
   id: 3hv9jJF3adDNsBSIQDqcjp
   popularity: 73
-  url: https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp
+  url: 'https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp'
 discography_enriched: true
 top_tracks:
-- Uptown Funk (feat. Bruno Mars) (Uptown Special)
-- Everyday (feat. Rod Stewart, Miguel & Mark Ronson) (AT.LONG.LAST.A$AP)
-- Valerie (feat. Amy Winehouse) - Version Revisited (Version)
-- Nothing Breaks Like a Heart (feat. Miley Cyrus) (Late Night Feelings)
-- Nothing Breaks Like a Heart (feat. Miley Cyrus)
-- Electricity
-- Suzanne
-- Espresso - Mark Ronson x FNZ Working Late Remix
-- Easy (with Kacey Musgraves feat. Mark Ronson)
-- Ancora, ancora, ancora - Radio Edit (Mark Ronson Remix)
+  - Uptown Funk (feat. Bruno Mars) (Uptown Special)
+  - 'Everyday (feat. Rod Stewart, Miguel & Mark Ronson) (AT.LONG.LAST.A$AP)'
+  - Valerie (feat. Amy Winehouse) - Version Revisited (Version)
+  - Nothing Breaks Like a Heart (feat. Miley Cyrus) (Late Night Feelings)
+  - Nothing Breaks Like a Heart (feat. Miley Cyrus)
+  - Electricity
+  - Suzanne
+  - Espresso - Mark Ronson x FNZ Working Late Remix
+  - Easy (with Kacey Musgraves feat. Mark Ronson)
+  - 'Ancora, ancora, ancora - Radio Edit (Mark Ronson Remix)'
 external_urls:
-  spotify: https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp
-  wikipedia: https://en.wikipedia.org/wiki/Suzanne_(Mark_Ronson_and_Raye_song)
+  spotify: 'https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp'
+  wikipedia: 'https://en.wikipedia.org/wiki/Suzanne_(Mark_Ronson_and_Raye_song)'
 image_path: 03_Resources/source_material/ArtistPortraits/Mark_Ronson_Raye.jpg
 biography_enhanced_at: '2025-10-20T09:07:33.462429'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Suzanne_(Mark_Ronson_and_Raye_song)
-- https://www.sonymusic.ca/press_release/mark-ronson-x-raye-drop-surprise-track-suzanne
-- https://diymag.com/news/mark-ronson-raye-collaborate-new-single-suzanne
-- https://ks95.com/meant-to-be-raye-teams-with-mark-ronson-for-new-track-suzanne
-- https://live365.com/blog/raye-and-mark-ronson-release-new-collab-song-suzanne-2/
+  - 'https://en.wikipedia.org/wiki/Suzanne_(Mark_Ronson_and_Raye_song)'
+  - >-
+    https://www.sonymusic.ca/press_release/mark-ronson-x-raye-drop-surprise-track-suzanne
+  - 'https://diymag.com/news/mark-ronson-raye-collaborate-new-single-suzanne'
+  - >-
+    https://ks95.com/meant-to-be-raye-teams-with-mark-ronson-for-new-track-suzanne
+  - >-
+    https://live365.com/blog/raye-and-mark-ronson-release-new-collab-song-suzanne-2/
 network_extracted: true
 entry_created: '2025-10-20T09:07:33.462441'
 last_updated: '2025-12-23T08:16:03.196949'
+artist_type: person
 ---
 
 ![](Mark_Ronson_Raye.jpg)

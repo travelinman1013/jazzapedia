@@ -2,23 +2,23 @@
 title: Fred Hersch
 wiki_slug: fred-hersch
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 aliases: []
 birth_date: '1955-10-21'
 birth_place: 'Bill Frisell: Baltimore, Maryland, USA; Fred Hersch: Cincinnati, Ohio, USA'
 years_active: 1977–present
 genres:
-- jazz
+  - jazz
 instruments:
-- piano
+  - piano
 occupation:
-- jazz pianist
-- academic musician
-- composer
+  - jazz pianist
+  - academic musician
+  - composer
 record_labels:
-- Palmetto Records
-- Sunnyside Records
+  - Palmetto Records
+  - Sunnyside Records
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Fred_Hersch.jpg
   caption: Fred Hersch
@@ -26,7 +26,7 @@ infobox:
   born: '1955-10-21'
   origin: 'Bill Frisell: Baltimore, Maryland, USA; Fred Hersch: Cincinnati, Ohio, USA'
 audio_profile:
-  tempo_avg: 106.0
+  tempo_avg: 106
   energy_avg: 0.093
   valence_avg: 0.212
   danceability_avg: 0.427
@@ -40,67 +40,67 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Fred Hersch
-  - Hank Roberts
-  - Joey Baron
-  - Kermit Driscoll
-  - Don Byron
-  - Guy Klucevsek
-  - Chris Connor
-  - Joe Henderson
+    - Fred Hersch
+    - Hank Roberts
+    - Joey Baron
+    - Kermit Driscoll
+    - Don Byron
+    - Guy Klucevsek
+    - Chris Connor
+    - Joe Henderson
   influenced:
-  - Brad Mehldau
-  - Ethan Iverson
-  - Julian Lage
+    - Brad Mehldau
+    - Ethan Iverson
+    - Julian Lage
   mentors:
-  - Jaki Byard
-  - Jeanne Kirstein
-  - Art Farmer
+    - Jaki Byard
+    - Jeanne Kirstein
+    - Art Farmer
 related_artists: []
 spotify_data:
   followers: 28677
   id: 7w7DFqQNjVMW5NRvjM8JPx
   popularity: 32
-  url: https://open.spotify.com/artist/7w7DFqQNjVMW5NRvjM8JPx
+  url: 'https://open.spotify.com/artist/7w7DFqQNjVMW5NRvjM8JPx'
   verified: false
 discography_enriched: true
 albums_count: 47
 singles_count: 24
 top_tracks:
-- Law Years
-- Plainsong (The Surrounding Green)
-- Plainsong
-- The Surrounding Green (The Surrounding Green)
-- In the Wee Small Hours of the Morning (Alone at the Vanguard)
-- Law Years (The Surrounding Green)
-- Star-Crossed Lovers (Silent, Listening)
-- Monk's Dream (Free Flying)
-- Little Song
-- Palhaço (The Surrounding Green)
+  - Law Years
+  - Plainsong (The Surrounding Green)
+  - Plainsong
+  - The Surrounding Green (The Surrounding Green)
+  - In the Wee Small Hours of the Morning (Alone at the Vanguard)
+  - Law Years (The Surrounding Green)
+  - 'Star-Crossed Lovers (Silent, Listening)'
+  - Monk's Dream (Free Flying)
+  - Little Song
+  - Palhaço (The Surrounding Green)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f573100a-b05b-4286-83f0-5620adf73695
-  spotify: https://open.spotify.com/artist/7w7DFqQNjVMW5NRvjM8JPx
-  wikipedia: https://en.wikipedia.org/wiki/Fred_Hersch
+  musicbrainz: 'https://musicbrainz.org/artist/f573100a-b05b-4286-83f0-5620adf73695'
+  spotify: 'https://open.spotify.com/artist/7w7DFqQNjVMW5NRvjM8JPx'
+  wikipedia: 'https://en.wikipedia.org/wiki/Fred_Hersch'
 image_path: 03_Resources/source_material/ArtistPortraits/Fred_Hersch.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:07:37.465221'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- All About Jazz
-- Bill Frisell official biography
-- Wikipedia
+  - All About Jazz
+  - Bill Frisell official biography
+  - Wikipedia
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 12:51:46.626634
+entry_created: 2025-09-18T12:51:46.626Z
 last_updated: '2025-12-23T08:16:01.214632'
 disambiguation: pianist
 gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:02:17.784540'
 musicbrainz_id: f573100a-b05b-4286-83f0-5620adf73695
 tags:
-- jazz
-- post-bop
+  - jazz
+  - post-bop
 ---
 
 ![](Fred_Hersch.jpg)

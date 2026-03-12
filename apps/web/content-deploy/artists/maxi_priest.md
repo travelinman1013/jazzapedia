@@ -3,15 +3,15 @@ title: Maxi Priest
 wiki_slug: maxi-priest
 schema_version: 2
 status: active
-birth_place: Lewisham, London, England, United Kingdom
+birth_place: 'Lewisham, London, England, United Kingdom'
 genres:
-- lovers rock
-- reggae
+  - lovers rock
+  - reggae
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/maxi_priest.jpg
   caption: Maxi Priest
   background: solo_singer
-  origin: Lewisham, London, England, United Kingdom
+  origin: 'Lewisham, London, England, United Kingdom'
 audio_profile:
   tempo_avg: 114.4
   energy_avg: 0.577
@@ -19,7 +19,7 @@ audio_profile:
   danceability_avg: 0.692
   acousticness_avg: 0.18
   instrumentalness_avg: 0.006
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.08
   liveness_avg: 0.168
   track_count: 51
@@ -27,55 +27,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Paul "Barry Boom" Robinson
-  - Phillip (Philip) Levi
-  - Papa Levi
-  - Aswad
-  - Sly Dunbar & Robbie Shakespeare
-  - Roberta Flack
-  - Shaggy
-  - UB40
-  - Rishi Rich
+    - Paul "Barry Boom" Robinson
+    - Phillip (Philip) Levi
+    - Papa Levi
+    - Aswad
+    - Sly Dunbar & Robbie Shakespeare
+    - Roberta Flack
+    - Shaggy
+    - UB40
+    - Rishi Rich
   influenced:
-  - Later lovers rock and reggae fusion vocalists (various)
+    - Later lovers rock and reggae fusion vocalists (various)
   mentors:
-  - Dennis Brown
-  - Marvin Gaye
-  - Saxon Studio International sound system
+    - Dennis Brown
+    - Marvin Gaye
+    - Saxon Studio International sound system
 spotify_data:
   followers: 259345
   id: 3aTuTR5Nf6pVW3837q2ZL7
   popularity: 52
-  url: https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7
+  url: 'https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7'
 discography_enriched: true
 top_tracks:
-- Wild World (Maxi)
-- Close To You (Bonafide)
-- That Girl (Man With The Fun)
-- Some Guys Have All The Luck (Maxi Priest - A Collection)
-- Set the Night to Music (with Maxi Priest) - 2006 Remaster
-- Close To You
-- Love Somebody
-- May Girl Diss (Refused)
-- Walking Wounded (United State of Mind)
-- Just A Little Bit Longer - Radio Edit
+  - Wild World (Maxi)
+  - Close To You (Bonafide)
+  - That Girl (Man With The Fun)
+  - Some Guys Have All The Luck (Maxi Priest - A Collection)
+  - Set the Night to Music (with Maxi Priest) - 2006 Remaster
+  - Close To You
+  - Love Somebody
+  - May Girl Diss (Refused)
+  - Walking Wounded (United State of Mind)
+  - Just A Little Bit Longer - Radio Edit
 external_urls:
-  spotify: https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7
-  wikipedia: https://en.wikipedia.org/wiki/Maxi_Priest
+  spotify: 'https://open.spotify.com/artist/3aTuTR5Nf6pVW3837q2ZL7'
+  wikipedia: 'https://en.wikipedia.org/wiki/Maxi_Priest'
 image_path: 03_Resources/source_material/ArtistPortraits/maxi_priest.jpg
 biography_enhanced_at: '2025-12-17T02:14:00.521457'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Maxi_Priest
-- https://uaagency.com/reggae/maxi-priest/
-- https://nodoprod.com/artists/maxi-priest/
-- https://bandonthewall.org/events/maxi-priest-beniton-the-menace/
-- https://dahrkwidahhrk.com/lovers-rock/maxi-priest-internationalizing-lovers-rock/
-- https://www.youtube.com/watch?v=0w9ufrWcCis
+  - 'https://en.wikipedia.org/wiki/Maxi_Priest'
+  - 'https://uaagency.com/reggae/maxi-priest/'
+  - 'https://nodoprod.com/artists/maxi-priest/'
+  - 'https://bandonthewall.org/events/maxi-priest-beniton-the-menace/'
+  - >-
+    https://dahrkwidahhrk.com/lovers-rock/maxi-priest-internationalizing-lovers-rock/
+  - 'https://www.youtube.com/watch?v=0w9ufrWcCis'
 network_extracted: true
 entry_created: '2025-12-17T02:14:00.521463'
 last_updated: '2025-12-23T08:16:12.854817'
+birth_date: '1961-06-10'
+artist_type: person
 ---
 
 ![](maxi_priest.jpg)

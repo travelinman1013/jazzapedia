@@ -2,15 +2,15 @@
 title: The Flower Power
 wiki_slug: the-flower-power
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 aliases: []
 birth_date: '1967'
 genres:
-- acid rock
-- krautrock
-- garage rock
-- psychedelic rock
+  - acid rock
+  - krautrock
+  - garage rock
+  - psychedelic rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/The_Flower_Power.jpg
   caption: The Flower Power
@@ -34,36 +34,37 @@ spotify_data:
   followers: 39
   id: 4m9kq7iLhvdJpbLdEkw6CH
   popularity: 0
-  url: https://open.spotify.com/artist/4m9kq7iLhvdJpbLdEkw6CH
+  url: 'https://open.spotify.com/artist/4m9kq7iLhvdJpbLdEkw6CH'
   verified: false
 discography_enriched: true
 albums_count: 2
 singles_count: 0
 top_tracks:
-- You Make Me Fly (Shoo Fly / 60's Psychedelic Rock Vol. 1)
-- Mississippi Delta (Flower Power)
-- Bye Bye Baby (Flower Power)
-- Trivialities (Flower Power)
-- Mt. Olympus (Flower Power)
-- You Make Me Fly (Flower Power)
-- Sunshine Day (Flower Power)
-- Sailing Around The Sun (Flower Power)
-- Don't Burn My Wings (Flower Power)
-- Orange Skies (Flower Power)
+  - You Make Me Fly (Shoo Fly / 60's Psychedelic Rock Vol. 1)
+  - Mississippi Delta (Flower Power)
+  - Bye Bye Baby (Flower Power)
+  - Trivialities (Flower Power)
+  - Mt. Olympus (Flower Power)
+  - You Make Me Fly (Flower Power)
+  - Sunshine Day (Flower Power)
+  - Sailing Around The Sun (Flower Power)
+  - Don't Burn My Wings (Flower Power)
+  - Orange Skies (Flower Power)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2e6d40a7-6724-4cdc-b311-51831da66932
-  spotify: https://open.spotify.com/artist/4m9kq7iLhvdJpbLdEkw6CH
+  musicbrainz: 'https://musicbrainz.org/artist/2e6d40a7-6724-4cdc-b311-51831da66932'
+  spotify: 'https://open.spotify.com/artist/4m9kq7iLhvdJpbLdEkw6CH'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/The_Flower_Power.jpg
 biography_source: none
-entry_created: 2025-09-18 15:23:46.591974
+entry_created: 2025-09-18T15:23:46.591Z
 last_updated: '2025-12-23T08:16:04.075368'
 disambiguation: US 60s Psychedelic Rock
 musicbrainz_enriched_at: '2025-10-21T09:46:00.381011'
 musicbrainz_id: 2e6d40a7-6724-4cdc-b311-51831da66932
 origin: Gulfport
 tags:
-- psychedelic rock
+  - psychedelic rock
+birth_place: Gulfport
 ---
 
 ![](The_Flower_Power.jpg)

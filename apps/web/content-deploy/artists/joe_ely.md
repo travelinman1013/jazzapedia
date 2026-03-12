@@ -1,50 +1,54 @@
 ---
 biography_enhanced_at: '2025-12-27T01:32:17.588571'
-birth_place: Amarillo, Texas, USA
+birth_place: 'Amarillo, Texas, USA'
 enhancement_provider: perplexity
 entry_created: '2025-12-27T01:32:17.588590'
 external_urls:
-  spotify: https://open.spotify.com/artist/388Y4nUQbYSyonhNlBEypT
+  spotify: 'https://open.spotify.com/artist/388Y4nUQbYSyonhNlBEypT'
   wikipedia: ''
 genres:
-- americana
-- alt country
-- texas country
-- country rock
-- rockabilly
-- roots rock
+  - americana
+  - alt country
+  - texas country
+  - country rock
+  - rockabilly
+  - roots rock
 image_path: 03_Resources/source_material/ArtistPortraits/joe_ely.jpg
 last_updated: '2025-12-27T01:32:17.588592'
 musical_connections:
   collaborators:
-  - Jimmie Dale Gilmore
-  - Butch Hancock
-  - Jesse Taylor
-  - Ponty Bone
-  - Lloyd Maines
-  - Bruce Springsteen
-  - Linda Ronstadt
-  - The Clash
-  - Tom Petty
+    - Jimmie Dale Gilmore
+    - Butch Hancock
+    - Jesse Taylor
+    - Ponty Bone
+    - Lloyd Maines
+    - Bruce Springsteen
+    - Linda Ronstadt
+    - The Clash
+    - Tom Petty
   influenced: []
   mentors: []
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- http://www.ely.com/bio
-- http://www.ely.com/new-page
-- https://country.iheart.com/content/2025-12-16-joe-ely-texas-born-country-legend-dies-at-78/
-- https://cbsaustin.com/news/local/joe-ely-progressive-texas-singer-songwriter-dies-at-78
-- https://www.imdb.com/name/nm0255924/bio/
-- https://www.fox7austin.com/news/legendary-texas-musician-joe-ely-dies-78
+  - 'http://www.ely.com/bio'
+  - 'http://www.ely.com/new-page'
+  - >-
+    https://country.iheart.com/content/2025-12-16-joe-ely-texas-born-country-legend-dies-at-78/
+  - >-
+    https://cbsaustin.com/news/local/joe-ely-progressive-texas-singer-songwriter-dies-at-78
+  - 'https://www.imdb.com/name/nm0255924/bio/'
+  - 'https://www.fox7austin.com/news/legendary-texas-musician-joe-ely-dies-78'
 spotify_data:
   followers: 40627
   id: 388Y4nUQbYSyonhNlBEypT
   popularity: 41
-  url: https://open.spotify.com/artist/388Y4nUQbYSyonhNlBEypT
+  url: 'https://open.spotify.com/artist/388Y4nUQbYSyonhNlBEypT'
 status: active
-title: joe ely
-
+title: Joe Ely
+birth_date: '1947-02-09'
+death_date: '2025-12-15'
+artist_type: person
 ---
 
 ![](joe_ely.jpg)

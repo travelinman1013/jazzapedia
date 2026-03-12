@@ -2,10 +2,10 @@
 title: Alvin Alcorn
 wiki_slug: alvin-alcorn
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1912-09-07'
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, USA'
 death_date: '2003-07-17'
 genres: []
 infobox:
@@ -13,7 +13,7 @@ infobox:
   caption: Alvin Alcorn
   background: solo_singer
   born: '1912-09-07'
-  origin: New Orleans, Louisiana, USA
+  origin: 'New Orleans, Louisiana, USA'
   died: '2003-07-17'
 audio_profile:
   tempo_avg: 87.4
@@ -30,48 +30,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Armand J. Piron
-  - Don Albert
-  - Kid Ory
-  - Chris Barber
-  - Olympia Brass Band
-  - Louis Cottrell Jr.
+    - Armand J. Piron
+    - Don Albert
+    - Kid Ory
+    - Chris Barber
+    - Olympia Brass Band
+    - Louis Cottrell Jr.
   influenced:
-  - New Orleans traditional jazz musicians
+    - New Orleans traditional jazz musicians
   mentors:
-  - Oliver Alcorn
-  - George McCullum Jr.
+    - Oliver Alcorn
+    - George McCullum Jr.
 spotify_data:
   followers: 54
   id: 475l2s1rRhWjr6JHR1eOUq
   popularity: 1
-  url: https://open.spotify.com/artist/475l2s1rRhWjr6JHR1eOUq
+  url: 'https://open.spotify.com/artist/475l2s1rRhWjr6JHR1eOUq'
 discography_enriched: true
 top_tracks:
-- Some Day Sweetheart (The Original New Orleans Jazz Brunch)
-- Jazz Brunch Blues (The Original New Orleans Jazz Brunch)
-- It's the Talk of the Town (The Original New Orleans Jazz Brunch)
-- Don't Blame Me (The Original New Orleans Jazz Brunch)
-- Black and Blue (The Original New Orleans Jazz Brunch)
-- Don't Take Your Love From Me (The Original New Orleans Jazz Brunch)
-- Blue Lou (The Original New Orleans Jazz Brunch)
-- Old Rugged Cross (The Original New Orleans Jazz Brunch)
-- New Orleans (The Original New Orleans Jazz Brunch)
-- Yellow Dog Blues (The Original New Orleans Jazz Brunch)
+  - Some Day Sweetheart (The Original New Orleans Jazz Brunch)
+  - Jazz Brunch Blues (The Original New Orleans Jazz Brunch)
+  - It's the Talk of the Town (The Original New Orleans Jazz Brunch)
+  - Don't Blame Me (The Original New Orleans Jazz Brunch)
+  - Black and Blue (The Original New Orleans Jazz Brunch)
+  - Don't Take Your Love From Me (The Original New Orleans Jazz Brunch)
+  - Blue Lou (The Original New Orleans Jazz Brunch)
+  - Old Rugged Cross (The Original New Orleans Jazz Brunch)
+  - New Orleans (The Original New Orleans Jazz Brunch)
+  - Yellow Dog Blues (The Original New Orleans Jazz Brunch)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/52f8a760-3c48-43f2-8ed3-087bcb156270
-  spotify: https://open.spotify.com/artist/475l2s1rRhWjr6JHR1eOUq
-  wikipedia: https://en.wikipedia.org/wiki/Alvin_Alcorn
+  musicbrainz: 'https://musicbrainz.org/artist/52f8a760-3c48-43f2-8ed3-087bcb156270'
+  spotify: 'https://open.spotify.com/artist/475l2s1rRhWjr6JHR1eOUq'
+  wikipedia: 'https://en.wikipedia.org/wiki/Alvin_Alcorn'
 image_path: 03_Resources/source_material/ArtistPortraits/Alvin_Alcorn.jpg
 biography_enhanced_at: '2025-10-19T11:29:55.027204'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Alvin_Alcorn
-- https://www.encyclopedia.com/arts/dictionaries-thesauruses-pictures-and-press-releases/alcorn-alvin-elmore
-- https://musicrising.tulane.edu/discover/people/alvin-alcorn/
-- https://www.allmusic.com/artist/alvin-alcorn-mn0000008831
-- https://www.telegraph.co.uk/news/obituaries/1437492/Alvin-Alcorn.html
+  - 'https://en.wikipedia.org/wiki/Alvin_Alcorn'
+  - >-
+    https://www.encyclopedia.com/arts/dictionaries-thesauruses-pictures-and-press-releases/alcorn-alvin-elmore
+  - 'https://musicrising.tulane.edu/discover/people/alvin-alcorn/'
+  - 'https://www.allmusic.com/artist/alvin-alcorn-mn0000008831'
+  - 'https://www.telegraph.co.uk/news/obituaries/1437492/Alvin-Alcorn.html'
 network_extracted: true
 entry_created: '2025-10-19T11:29:55.027216'
 last_updated: '2025-12-23T08:16:00.987714'
@@ -79,7 +80,8 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:10:47.121288'
 musicbrainz_id: 52f8a760-3c48-43f2-8ed3-087bcb156270
 tags:
-- jazz
+  - jazz
+is_active: false
 ---
 
 ![](Alvin_Alcorn.jpg)

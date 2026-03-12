@@ -3,13 +3,13 @@ title: Terry Reid
 wiki_slug: terry-reid
 schema_version: 2
 status: active
-birth_place: Huntingdon, Cambridgeshire, England
+birth_place: 'Huntingdon, Cambridgeshire, England'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/terry_reid.jpg
   caption: Terry Reid
   background: solo_singer
-  origin: Huntingdon, Cambridgeshire, England
+  origin: 'Huntingdon, Cambridgeshire, England'
 audio_profile:
   tempo_avg: 117.1
   energy_avg: 0.472
@@ -25,49 +25,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Graham Nash
-  - Peter Solley
-  - Keith Webb
+    - Graham Nash
+    - Peter Solley
+    - Keith Webb
   influenced:
-  - Robert Plant
-  - Jack White
-  - Chris Cornell
+    - Robert Plant
+    - Jack White
+    - Chris Cornell
   mentors:
-  - Peter Jay
-  - Mickie Most
+    - Peter Jay
+    - Mickie Most
 spotify_data:
   followers: 49681
   id: 12fRdeKejG8BBzybGf0ygk
   popularity: 36
-  url: https://open.spotify.com/artist/12fRdeKejG8BBzybGf0ygk
+  url: 'https://open.spotify.com/artist/12fRdeKejG8BBzybGf0ygk'
 discography_enriched: true
 top_tracks:
-- Seed Of Memory
-- Dean (River)
-- Superlungs My Supergirl - 2004 Remaster (Superlungs)
-- River (River)
-- Mr. Tamborine Man
-- To Be Treated
-- Superlungs My Supergirl (Terry Reid)
-- Live Life (River)
-- Seed Of Memory (Seed Of Memory)
-- Gimme Some Lovin' (The Driver)
+  - Seed Of Memory
+  - Dean (River)
+  - Superlungs My Supergirl - 2004 Remaster (Superlungs)
+  - River (River)
+  - Mr. Tamborine Man
+  - To Be Treated
+  - Superlungs My Supergirl (Terry Reid)
+  - Live Life (River)
+  - Seed Of Memory (Seed Of Memory)
+  - Gimme Some Lovin' (The Driver)
 external_urls:
-  spotify: https://open.spotify.com/artist/12fRdeKejG8BBzybGf0ygk
-  wikipedia: https://simple.wikipedia.org/wiki/Terry_Reid
+  spotify: 'https://open.spotify.com/artist/12fRdeKejG8BBzybGf0ygk'
+  wikipedia: 'https://simple.wikipedia.org/wiki/Terry_Reid'
 image_path: 03_Resources/source_material/ArtistPortraits/terry_reid.jpg
 biography_enhanced_at: '2025-10-29T16:37:47.582931'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://simple.wikipedia.org/wiki/Terry_Reid
-- https://www.last.fm/music/Terry+Reid/+wiki
-- https://www.terryreid.com/biography
-- https://www.loudersound.com/bands-artists/terry-reid-story
-- https://joshuatreevoice.com/remembering-terry-reid-the-life-and-legacy-of-a-rock-legend/
+  - 'https://simple.wikipedia.org/wiki/Terry_Reid'
+  - 'https://www.last.fm/music/Terry+Reid/+wiki'
+  - 'https://www.terryreid.com/biography'
+  - 'https://www.loudersound.com/bands-artists/terry-reid-story'
+  - >-
+    https://joshuatreevoice.com/remembering-terry-reid-the-life-and-legacy-of-a-rock-legend/
 network_extracted: true
 entry_created: '2025-10-29T16:37:47.582940'
 last_updated: '2025-12-23T08:16:16.488426'
+birth_date: '1949-11-13'
+death_date: '2025-08-04'
+artist_type: person
 ---
 
 ![](terry_reid.jpg)

@@ -1,48 +1,49 @@
 ---
 artist_type: person
 biography_enhanced_at: '2025-12-31T01:45:58.926917'
-birth_place: Queens, New York, United States
+birth_place: 'Queens, New York, United States'
 enhancement_provider: perplexity
 entry_created: '2025-12-31T01:45:58.926923'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f55859c9-0642-47dc-8c68-4aa2db484b23
-  spotify: https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT
-  wikipedia: https://en.wikipedia.org/wiki/Yaya_Bey
+  musicbrainz: 'https://musicbrainz.org/artist/f55859c9-0642-47dc-8c68-4aa2db484b23'
+  spotify: 'https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT'
+  wikipedia: 'https://en.wikipedia.org/wiki/Yaya_Bey'
 gender: Female
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/yaya_bey.jpg
 last_updated: '2025-12-31T01:45:58.926923'
 musical_connections:
   collaborators:
-  - Corey Fonville (Butcher Brown)
-  - Karriem Riggins
-  - Jay Daniel
-  - Exaktly
-  - Boston Chery
+    - Corey Fonville (Butcher Brown)
+    - Karriem Riggins
+    - Jay Daniel
+    - Exaktly
+    - Boston Chery
   influenced: []
   mentors:
-  - Grand Daddy I.U.
+    - Grand Daddy I.U.
 musicbrainz_id: f55859c9-0642-47dc-8c68-4aa2db484b23
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- Wikipedia - Yaya Bey
-- Concord Music Publishing
-- Ninja Tune / Big Dada
-- Ground Control Touring
-- Bridge Chicago
-- Crack Magazine
+  - Wikipedia - Yaya Bey
+  - Concord Music Publishing
+  - Ninja Tune / Big Dada
+  - Ground Control Touring
+  - Bridge Chicago
+  - Crack Magazine
 spotify_data:
   followers: 124644
   id: 6tpaMMCs8X6o8j9H5OmWmT
   popularity: 46
-  url: https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT
+  url: 'https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT'
 status: active
 tags:
-- hip hop
-- r&b
-- soul
+  - hip hop
+  - r&b
+  - soul
 title: Yaya Bey
+birth_date: '1990-08-04'
 ---
 
 ![](yaya_bey.jpg)

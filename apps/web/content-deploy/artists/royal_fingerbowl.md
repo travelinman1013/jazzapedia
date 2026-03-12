@@ -1,11 +1,11 @@
 ---
-title: royal fingerbowl
+title: Royal Fingerbowl
 wiki_slug: royal-fingerbowl
 schema_version: 2
 status: active
 genres:
-- alt country
-- americana
+  - alt country
+  - americana
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/royal_fingerbowl.jpg
   caption: royal fingerbowl
@@ -25,52 +25,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Alex McMurray
-  - Andy (Andrew) Wolf
-  - Kufaru Mouton
-  - Kevin O'Day
-  - Carlo Nuccio
-  - Matt Perrine
+    - Alex McMurray
+    - Andy (Andrew) Wolf
+    - Kufaru Mouton
+    - Kevin O'Day
+    - Carlo Nuccio
+    - Matt Perrine
   influenced:
-  - New Orleans singer-songwriters and Americana acts
+    - New Orleans singer-songwriters and Americana acts
   mentors:
-  - Tom Waits
+    - Tom Waits
 spotify_data:
   followers: 408
   id: 0tlYAAUCXV9afaMshKiv2U
   popularity: 2
-  url: https://open.spotify.com/artist/0tlYAAUCXV9afaMshKiv2U
+  url: 'https://open.spotify.com/artist/0tlYAAUCXV9afaMshKiv2U'
 discography_enriched: true
 top_tracks:
-- Bad Apples (Greyhound Afternoons)
-- Nothing But Time (Happy Birthday, Sabo!)
-- Month of Sundays (Happy Birthday, Sabo!)
-- Manahawkin (Happy Birthday, Sabo!)
-- Fistful of Love (Happy Birthday, Sabo!)
-- Fine-Ass Chemise (Greyhound Afternoons)
-- Bandrowski's Turban (Greyhound Afternoons)
-- Big Whiskey (Happy Birthday, Sabo!)
-- Ozona, TX (Happy Birthday, Sabo!)
-- Rosy Fingered Dawn (Happy Birthday, Sabo!)
+  - Bad Apples (Greyhound Afternoons)
+  - 'Nothing But Time (Happy Birthday, Sabo!)'
+  - 'Month of Sundays (Happy Birthday, Sabo!)'
+  - 'Manahawkin (Happy Birthday, Sabo!)'
+  - 'Fistful of Love (Happy Birthday, Sabo!)'
+  - Fine-Ass Chemise (Greyhound Afternoons)
+  - Bandrowski's Turban (Greyhound Afternoons)
+  - 'Big Whiskey (Happy Birthday, Sabo!)'
+  - 'Ozona, TX (Happy Birthday, Sabo!)'
+  - 'Rosy Fingered Dawn (Happy Birthday, Sabo!)'
 external_urls:
-  spotify: https://open.spotify.com/artist/0tlYAAUCXV9afaMshKiv2U
+  spotify: 'https://open.spotify.com/artist/0tlYAAUCXV9afaMshKiv2U'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/royal_fingerbowl.jpg
 biography_enhanced_at: '2025-10-19T10:36:00.609852'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- http://www.alexmcmurray.com/news?pg=13&id=PR-131
-- https://www.last.fm/music/Royal+Fingerbowl/+wiki
-- https://savingcountrymusic.com/review-royal-fingerbowl-happy-birthday-sabo/
-- https://www.allmusic.com/artist/royal-fingerbowl-mn0000361035
-- https://www.offbeat.com/music/royal-fingerbowl-greyhound-afternoons-tvt-records/
-- https://www.tampabay.com/archive/1998/06/12/tropical-heatwave-royal-fingerbowl-mixes-up-lend-of-punk-and-jazz/
+  - 'http://www.alexmcmurray.com/news?pg=13&id=PR-131'
+  - 'https://www.last.fm/music/Royal+Fingerbowl/+wiki'
+  - 'https://savingcountrymusic.com/review-royal-fingerbowl-happy-birthday-sabo/'
+  - 'https://www.allmusic.com/artist/royal-fingerbowl-mn0000361035'
+  - >-
+    https://www.offbeat.com/music/royal-fingerbowl-greyhound-afternoons-tvt-records/
+  - >-
+    https://www.tampabay.com/archive/1998/06/12/tropical-heatwave-royal-fingerbowl-mixes-up-lend-of-punk-and-jazz/
 network_extracted: true
 entry_created: '2025-10-19T10:36:00.609862'
 last_updated: '2025-12-23T08:16:15.144257'
-origin: New Orleans, Louisiana, United States
-
+origin: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![](royal_fingerbowl.jpg)

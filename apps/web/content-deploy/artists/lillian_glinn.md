@@ -2,54 +2,56 @@
 artist_type: person
 biography_enhanced_at: '2026-01-08T01:34:18.940631'
 birth_date: '1902-05-10'
-birth_place: Hillsboro
+birth_place: 'Hillsboro, Texas, United States'
 death_date: '1978-07-22'
 enhancement_provider: perplexity
 entry_created: '2026-01-08T01:34:18.940636'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1bd0dfa4-ae72-423a-897f-8182e91638ac
-  spotify: https://open.spotify.com/artist/6xuClSMZpRfDS7TD508ZIo
-  wikipedia: https://en.wikipedia.org/wiki/Lillian_Glinn
+  musicbrainz: 'https://musicbrainz.org/artist/1bd0dfa4-ae72-423a-897f-8182e91638ac'
+  spotify: 'https://open.spotify.com/artist/6xuClSMZpRfDS7TD508ZIo'
+  wikipedia: 'https://en.wikipedia.org/wiki/Lillian_Glinn'
 gender: Female
 genres:
-- country blues
-- ragtime
-- blues
-- classic blues
+  - country blues
+  - ragtime
+  - blues
+  - classic blues
 image_path: 03_Resources/source_material/ArtistPortraits/lillian_glinn.jpg
 instruments:
-- lead vocals
+  - lead vocals
 last_updated: '2026-01-08T01:34:18.940637'
 musical_connections:
   collaborators: []
   influenced:
-  - Later blues researchers and revival artists (general influence)
+    - Later blues researchers and revival artists (general influence)
   mentors:
-  - Hattie Burleson
+    - Hattie Burleson
 musicbrainz_id: 1bd0dfa4-ae72-423a-897f-8182e91638ac
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Lillian_Glinn
-- https://www.tshaonline.org/handbook/entries/glinn-lillian
-- https://adp.library.ucsb.edu/index.php/talent/refer/123458
-- https://www.wacoan.com/searching-for-lillian-glinn/
-- https://blinddogradio.blogspot.com/2016/11/lillian-glinn.html
-- https://bigtrainblues.com/lillian-glinn/
-- https://www.shazam.com/artist/lillian-glinn/1559964
-- https://kutx.org/this-week-in-texas-music-history/lillian-glinn-records-her-first-album/
-- https://www.allmusic.com/artist/lillian-glinn-mn0000831786
+  - 'https://en.wikipedia.org/wiki/Lillian_Glinn'
+  - 'https://www.tshaonline.org/handbook/entries/glinn-lillian'
+  - 'https://adp.library.ucsb.edu/index.php/talent/refer/123458'
+  - 'https://www.wacoan.com/searching-for-lillian-glinn/'
+  - 'https://blinddogradio.blogspot.com/2016/11/lillian-glinn.html'
+  - 'https://bigtrainblues.com/lillian-glinn/'
+  - 'https://www.shazam.com/artist/lillian-glinn/1559964'
+  - >-
+    https://kutx.org/this-week-in-texas-music-history/lillian-glinn-records-her-first-album/
+  - 'https://www.allmusic.com/artist/lillian-glinn-mn0000831786'
 spotify_data:
   followers: 332
   id: 6xuClSMZpRfDS7TD508ZIo
   popularity: 1
-  url: https://open.spotify.com/artist/6xuClSMZpRfDS7TD508ZIo
+  url: 'https://open.spotify.com/artist/6xuClSMZpRfDS7TD508ZIo'
 status: active
 tags:
-- blues
-- vaudeville blues
-title: LILLIAN GLINN
-
+  - blues
+  - vaudeville blues
+title: Lillian Glinn
+is_active: false
+origin: 'Dallas, Texas, United States'
 ---
 
 ![](lillian_glinn.jpg)

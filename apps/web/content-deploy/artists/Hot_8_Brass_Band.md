@@ -2,13 +2,13 @@
 title: Hot 8 Brass Band
 wiki_slug: hot-8-brass-band
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 birth_date: '1995'
 genres: []
 instruments:
-- original
-- sousaphone
+  - original
+  - sousaphone
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Hot_8_Brass_Band.jpg
   caption: Hot 8 Brass Band
@@ -29,58 +29,60 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bennie Pete
-  - Jerome Jones, Jacob Johnson, Harry Cook
-  - Dinerral Shavers, Joseph Williams, Shamarr Allen, Raymond Williams
-  - Quantic
-  - Lauryn Hill
-  - Dr. Michael White
+    - Bennie Pete
+    - 'Jerome Jones, Jacob Johnson, Harry Cook'
+    - 'Dinerral Shavers, Joseph Williams, Shamarr Allen, Raymond Williams'
+    - Quantic
+    - Lauryn Hill
+    - Dr. Michael White
   influenced:
-  - The Stooges Brass Band
-  - Younger New Orleans brass bands
+    - The Stooges Brass Band
+    - Younger New Orleans brass bands
   mentors:
-  - Dirty Dozen Brass Band
-  - Rebirth Brass Band
+    - Dirty Dozen Brass Band
+    - Rebirth Brass Band
 spotify_data:
   followers: 83179
   id: 1lvVzEkQ4u72rrZ7bNUkcD
   popularity: 33
-  url: https://open.spotify.com/artist/1lvVzEkQ4u72rrZ7bNUkcD
+  url: 'https://open.spotify.com/artist/1lvVzEkQ4u72rrZ7bNUkcD'
 discography_enriched: true
 top_tracks:
-- Sexual Healing (Rock With the Hot 8)
-- ADULTHOOD (WE ARE)
-- Sexual Healing (Chef (Original Soundtrack Album))
-- Sexual Healing - Me&You Re-Edit (Hot 8 (Remixes))
-- What's My Name? (Rock With the Hot 8)
-- Love Will Tear Us Apart
-- ADULTHOOD (WE ARE (The Deluxe Edition))
-- 'Sexual Healing - Me&You Re-Edit (Rock With the Hot 8 Brass Band: Remixes)'
-- ADULTHOOD (The New Orleans Collection)
-- Ghost Town (The Life & Times of...)
+  - Sexual Healing (Rock With the Hot 8)
+  - ADULTHOOD (WE ARE)
+  - Sexual Healing (Chef (Original Soundtrack Album))
+  - Sexual Healing - Me&You Re-Edit (Hot 8 (Remixes))
+  - What's My Name? (Rock With the Hot 8)
+  - Love Will Tear Us Apart
+  - ADULTHOOD (WE ARE (The Deluxe Edition))
+  - 'Sexual Healing - Me&You Re-Edit (Rock With the Hot 8 Brass Band: Remixes)'
+  - ADULTHOOD (The New Orleans Collection)
+  - Ghost Town (The Life & Times of...)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a13d7621-b81c-4cf5-87ac-eb7e86dda70f
-  spotify: https://open.spotify.com/artist/1lvVzEkQ4u72rrZ7bNUkcD
-  wikipedia: https://en.wikipedia.org/wiki/Hot_8_Brass_Band
+  musicbrainz: 'https://musicbrainz.org/artist/a13d7621-b81c-4cf5-87ac-eb7e86dda70f'
+  spotify: 'https://open.spotify.com/artist/1lvVzEkQ4u72rrZ7bNUkcD'
+  wikipedia: 'https://en.wikipedia.org/wiki/Hot_8_Brass_Band'
 image_path: 03_Resources/source_material/ArtistPortraits/Hot_8_Brass_Band.jpg
 biography_enhanced_at: '2025-10-20T10:05:35.653636'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://tru-thoughts.co.uk/artists/hot-8-brass-band/
-- https://mattsakakeeny.com/roll-with-it/brass-bands/hot-8/
-- https://folkways.si.edu/hot-8-brass-band-overcoming-adversity-through-music/african-american-music-jazz/music/video/smithsonian
-- https://64parishes.org/the-hot-8-brass-band-as-told-by-themselves
+  - 'https://tru-thoughts.co.uk/artists/hot-8-brass-band/'
+  - 'https://mattsakakeeny.com/roll-with-it/brass-bands/hot-8/'
+  - >-
+    https://folkways.si.edu/hot-8-brass-band-overcoming-adversity-through-music/african-american-music-jazz/music/video/smithsonian
+  - 'https://64parishes.org/the-hot-8-brass-band-as-told-by-themselves'
 network_extracted: true
 entry_created: '2025-10-20T10:05:35.653705'
 last_updated: '2025-12-23T08:16:02.261267'
 musicbrainz_enriched_at: '2025-10-21T09:29:30.799480'
 musicbrainz_id: a13d7621-b81c-4cf5-87ac-eb7e86dda70f
-origin: New Orleans, Louisiana, United States
+origin: 'New Orleans, Louisiana, United States'
 tags:
-- brass band
-- funk
-- hip hop
+  - brass band
+  - funk
+  - hip hop
+birth_place: New Orleans
 ---
 
 ![](Hot_8_Brass_Band.jpg)

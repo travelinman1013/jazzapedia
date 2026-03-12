@@ -1,12 +1,12 @@
 ---
-title: Irish Rovers
+title: The Irish Rovers
 wiki_slug: irish-rovers
 schema_version: 2
 status: active
 genres:
-- sea shanties
-- celtic
-- celtic rock
+  - sea shanties
+  - celtic
+  - celtic rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/irish_rovers.jpg
   caption: Irish Rovers
@@ -26,57 +26,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Will Millar
-  - Jimmy (Jim) Ferguson
-  - Joe Millar
-  - Wilcil McDowell
-  - Fred Graham
-  - Ian Millar
-  - Glen Campbell
-  - Les Weinstein
-  - Jan Brainerd
+    - Will Millar
+    - Jimmy (Jim) Ferguson
+    - Joe Millar
+    - Wilcil McDowell
+    - Fred Graham
+    - Ian Millar
+    - Glen Campbell
+    - Les Weinstein
+    - Jan Brainerd
   influenced:
-  - Subsequent Celtic and Irish folk bands in North America
+    - Subsequent Celtic and Irish folk bands in North America
   mentors:
-  - Traditional Irish folk music and pub song tradition
-  - North American 1960s folk‑club circuit (e.g., The Purple Onion, The Icehouse)
+    - Traditional Irish folk music and pub song tradition
+    - >-
+      North American 1960s folk‑club circuit (e.g., The Purple Onion, The
+      Icehouse)
 spotify_data:
   followers: 183683
   id: 0tkKwWigaADLYB9HdFCjYo
   popularity: 55
-  url: https://open.spotify.com/artist/0tkKwWigaADLYB9HdFCjYo
+  url: 'https://open.spotify.com/artist/0tkKwWigaADLYB9HdFCjYo'
 discography_enriched: true
 top_tracks:
-- Drunken Sailor (Drunken Sailor)
-- I'll Tell Me Ma (Songs for the Wee Folk)
-- The Dublin Pub Crawl (Drunken Sailor)
-- Star of the County Down (The Irish Rovers' gems)
-- Finnegan's Wake (Hardstuff)
-- The Jolly Roving Tar (Another Round)
-- The Unicorn (The Unicorn)
-- Whiskey in the Jar (The Irish Rovers 50 Years - Vol. 2)
-- No Nay Never (The Irish Rovers' gems)
-- Donald Where's Your Trousers (The Irish Rovers' gems)
+  - Drunken Sailor (Drunken Sailor)
+  - I'll Tell Me Ma (Songs for the Wee Folk)
+  - The Dublin Pub Crawl (Drunken Sailor)
+  - Star of the County Down (The Irish Rovers' gems)
+  - Finnegan's Wake (Hardstuff)
+  - The Jolly Roving Tar (Another Round)
+  - The Unicorn (The Unicorn)
+  - Whiskey in the Jar (The Irish Rovers 50 Years - Vol. 2)
+  - No Nay Never (The Irish Rovers' gems)
+  - Donald Where's Your Trousers (The Irish Rovers' gems)
 external_urls:
-  spotify: https://open.spotify.com/artist/0tkKwWigaADLYB9HdFCjYo
-  wikipedia: https://en.wikipedia.org/wiki/The_Irish_Rovers
+  spotify: 'https://open.spotify.com/artist/0tkKwWigaADLYB9HdFCjYo'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Irish_Rovers'
 image_path: 03_Resources/source_material/ArtistPortraits/irish_rovers.jpg
 biography_enhanced_at: '2025-12-21T01:22:19.251565'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://theirishroversmusic.com/our-story/
-- https://calgaryherald.com/entertainment/music/irish-rovers
-- https://irishrovers.weebly.com
-- https://www.last.fm/music/The+Irish+Rovers/+wiki
-- https://en.wikipedia.org/wiki/The_Irish_Rovers
-- https://epicchq.com/the-irish-rovers-visit-epic-the-irish-emigration-museum/
-- https://www.theaudiodb.com/artist/125445-The-Irish-Rovers
+  - 'https://theirishroversmusic.com/our-story/'
+  - 'https://calgaryherald.com/entertainment/music/irish-rovers'
+  - 'https://irishrovers.weebly.com'
+  - 'https://www.last.fm/music/The+Irish+Rovers/+wiki'
+  - 'https://en.wikipedia.org/wiki/The_Irish_Rovers'
+  - 'https://epicchq.com/the-irish-rovers-visit-epic-the-irish-emigration-museum/'
+  - 'https://www.theaudiodb.com/artist/125445-The-Irish-Rovers'
 network_extracted: true
 entry_created: '2025-12-21T01:22:19.251570'
 last_updated: '2025-12-23T08:16:09.893176'
-origin: Toronto, Ontario, Canada
-
+origin: 'Toronto, Ontario, Canada'
+artist_type: band
 ---
 
 ![](irish_rovers.jpg)

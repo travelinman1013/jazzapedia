@@ -5,81 +5,81 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1897-12-18'
-birth_place: Cuthbert
+birth_place: 'Cuthbert, Georgia, United States'
 death_date: '1952-12-28'
 genres:
-- big band
-- swing music
-- ragtime
-- jazz
+  - big band
+  - swing music
+  - ragtime
+  - jazz
 instruments:
-- piano
-- eponymous
-- original
+  - piano
+  - eponymous
+  - original
 associated_acts:
-- begin: '1935'
-  end: ''
-  instruments:
-  - piano
-  mbid: 82eb0cc2-84be-44b2-8b5d-543e3a1a4003
-  name: The Benny Goodman Sextet
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  - piano
-  mbid: 6e6170a4-31c6-4cae-a3f9-f0db3b9f5892
-  name: Fletcher Henderson and His Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  - piano
-  mbid: 96b0e718-cde9-4717-9c50-b164ade6f0af
-  name: Fletcher Henderson’s Collegians
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  - piano
-  mbid: bb062979-c381-488d-9503-243ce795ccf2
-  name: Fletcher Henderson's Happy Six Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  - piano
-  mbid: 08b2fa52-3488-42bf-9284-d429bf120f8f
-  name: Fletcher Henderson's Roseland Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: fc0f1b01-fec4-4f6d-9714-4f84b30b91f4
-  name: Jazz Masters
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: 4dff7933-1b8c-4df8-af07-ca305d44f44a
-  name: Bessie Smith & Her Blue Boys
-- begin: ''
-  end: ''
-  instruments:
-  - piano
-  mbid: a2019e51-9ce1-4c14-98d0-25428761e9f0
-  name: Benny Goodman and His Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 2ecbb940-9d9a-49aa-8643-32376301056d
-  name: Fletcher Henderson and His Club Alabam Orchestra
+  - begin: '1935'
+    end: ''
+    instruments:
+      - piano
+    mbid: 82eb0cc2-84be-44b2-8b5d-543e3a1a4003
+    name: The Benny Goodman Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - piano
+    mbid: 6e6170a4-31c6-4cae-a3f9-f0db3b9f5892
+    name: Fletcher Henderson and His Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - piano
+    mbid: 96b0e718-cde9-4717-9c50-b164ade6f0af
+    name: Fletcher Henderson’s Collegians
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - piano
+    mbid: bb062979-c381-488d-9503-243ce795ccf2
+    name: Fletcher Henderson's Happy Six Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+      - piano
+    mbid: 08b2fa52-3488-42bf-9284-d429bf120f8f
+    name: Fletcher Henderson's Roseland Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: fc0f1b01-fec4-4f6d-9714-4f84b30b91f4
+    name: Jazz Masters
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: 4dff7933-1b8c-4df8-af07-ca305d44f44a
+    name: Bessie Smith & Her Blue Boys
+  - begin: ''
+    end: ''
+    instruments:
+      - piano
+    mbid: a2019e51-9ce1-4c14-98d0-25428761e9f0
+    name: Benny Goodman and His Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 2ecbb940-9d9a-49aa-8643-32376301056d
+    name: Fletcher Henderson and His Club Alabam Orchestra
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/fletcher_henderson.jpg
   caption: Fletcher Henderson
@@ -88,13 +88,13 @@ infobox:
   origin: Cuthbert
   died: '1952-12-28'
 audio_profile:
-  tempo_avg: 117.0
+  tempo_avg: 117
   energy_avg: 0.387
   valence_avg: 0.805
   danceability_avg: 0.688
   acousticness_avg: 0.958
   instrumentalness_avg: 0.597
-  loudness_avg: -10.0
+  loudness_avg: -10
   speechiness_avg: 0.082
   liveness_avg: 0.172
   track_count: 52
@@ -102,57 +102,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Don Redman
-  - Louis Armstrong
-  - Coleman Hawkins
-  - Benny Goodman
+    - Don Redman
+    - Louis Armstrong
+    - Coleman Hawkins
+    - Benny Goodman
   influenced:
-  - Benny Goodman
-  - Count Basie
-  - Roy Eldridge
-  - Horace Henderson
+    - Benny Goodman
+    - Count Basie
+    - Roy Eldridge
+    - Horace Henderson
   mentors:
-  - Ozie Lena Chapman Henderson
+    - Ozie Lena Chapman Henderson
 spotify_data:
   followers: 24915
   id: 2ovJLSejirvJybNers2YG6
   popularity: 28
-  url: https://open.spotify.com/artist/2ovJLSejirvJybNers2YG6
+  url: 'https://open.spotify.com/artist/2ovJLSejirvJybNers2YG6'
 discography_enriched: true
 top_tracks:
-- Sing You Sinners (First Impressions)
-- Hot And Anxious (The Definitive)
-- Sugar (Fletcher Henderson & His Orchestra Vol 2)
-- Sugar Foot Stomp (First Impressions)
-- Alabamy bound (Fletcher Henderson 1924-1927 (Jazz Archives No. 33))
-- Fidgety Feet (First Impressions)
-- 'Hot and Anxious - Remastered (Anthology: The Definitive Collection (Remastered))'
-- 'Wrappin It Up (The Quintessence Fletcher Henderson 1924-1936: New York Chicago)'
-- Christopher Columbus (First Impressions)
-- Wrappin' It Up
+  - Sing You Sinners (First Impressions)
+  - Hot And Anxious (The Definitive)
+  - Sugar (Fletcher Henderson & His Orchestra Vol 2)
+  - Sugar Foot Stomp (First Impressions)
+  - Alabamy bound (Fletcher Henderson 1924-1927 (Jazz Archives No. 33))
+  - Fidgety Feet (First Impressions)
+  - >-
+    Hot and Anxious - Remastered (Anthology: The Definitive Collection
+    (Remastered))
+  - >-
+    Wrappin It Up (The Quintessence Fletcher Henderson 1924-1936: New York
+    Chicago)
+  - Christopher Columbus (First Impressions)
+  - Wrappin' It Up
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/f47d1c94-c3e3-4c84-a42a-6c33e0032839
-  spotify: https://open.spotify.com/artist/2ovJLSejirvJybNers2YG6
-  wikipedia: https://en.wikipedia.org/wiki/Fletcher_Henderson
+  musicbrainz: 'https://musicbrainz.org/artist/f47d1c94-c3e3-4c84-a42a-6c33e0032839'
+  spotify: 'https://open.spotify.com/artist/2ovJLSejirvJybNers2YG6'
+  wikipedia: 'https://en.wikipedia.org/wiki/Fletcher_Henderson'
 image_path: 03_Resources/source_material/ArtistPortraits/fletcher_henderson.jpg
 biography_enhanced_at: '2025-11-01T15:27:02.481860'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Fletcher_Henderson
-- https://www.georgiaencyclopedia.org/articles/arts-culture/fletcher-henderson-1897-1952/
-- https://wicn.org/wicn-artist-of-the-month-april-2023-fletcher-henderson/
-- https://syncopatedtimes.com/profiles-in-jazz-fletcher-henderson/
-- https://www.clevelandjazz.org/blog/the-leader-of-the-band
+  - 'https://en.wikipedia.org/wiki/Fletcher_Henderson'
+  - >-
+    https://www.georgiaencyclopedia.org/articles/arts-culture/fletcher-henderson-1897-1952/
+  - 'https://wicn.org/wicn-artist-of-the-month-april-2023-fletcher-henderson/'
+  - 'https://syncopatedtimes.com/profiles-in-jazz-fletcher-henderson/'
+  - 'https://www.clevelandjazz.org/blog/the-leader-of-the-band'
 network_extracted: true
 entry_created: '2025-11-01T15:27:02.481872'
 last_updated: '2025-12-23T08:16:08.695696'
 gender: Male
 musicbrainz_id: f47d1c94-c3e3-4c84-a42a-6c33e0032839
 tags:
-- dixieland
-- jazz
-- swing
+  - dixieland
+  - jazz
+  - swing
+is_active: false
+origin: 'New York City, New York, United States'
 ---
 
 ![](fletcher_henderson.jpg)

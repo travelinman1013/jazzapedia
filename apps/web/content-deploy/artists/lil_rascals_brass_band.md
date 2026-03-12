@@ -4,9 +4,9 @@ wiki_slug: lil-rascals-brass-band
 schema_version: 2
 status: active
 genres:
-- new orleans bounce
-- zydeco
-- cajun
+  - new orleans bounce
+  - zydeco
+  - cajun
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/lil_rascals_brass_band.jpg
   caption: Lil Rascals Brass Band
@@ -26,49 +26,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Corey Henry
-  - Various New Orleans Brass Bands (e.g., Hot 8 Brass Band, New Birth Brass Band)
+    - Corey Henry
+    - >-
+      Various New Orleans Brass Bands (e.g., Hot 8 Brass Band, New Birth Brass
+      Band)
   influenced:
-  - Hot 8 Brass Band
-  - Younger New Orleans Brass Musicians
+    - Hot 8 Brass Band
+    - Younger New Orleans Brass Musicians
   mentors:
-  - Traditional New Orleans Brass Bands
+    - Traditional New Orleans Brass Bands
 spotify_data:
   followers: 2613
   id: 0iQTkXteVuQWznZ4WJuRLz
   popularity: 7
-  url: https://open.spotify.com/artist/0iQTkXteVuQWznZ4WJuRLz
+  url: 'https://open.spotify.com/artist/0iQTkXteVuQWznZ4WJuRLz'
 discography_enriched: true
 top_tracks:
-- Knock With Me - Rock With Me (Buck It Like a Horse)
-- Buck It Like a Horse (Buck It Like a Horse)
-- Knock with Me Rock with Me (Ultimate New Orleans Brass Second Line Funk!)
-- Rascal's Got Fire (Buck It Like a Horse)
-- For the Love of Money (Buck It Like a Horse)
-- Sew Sew Sew (feat. Big Chief Monk Boudreaux, The Golden Eagles Mardi Gras Indians, Triple Threat DJ's & Lil' Rascals Brass
-  Band) (Galactic Vintage Reserve)
-- The Doe (Buck It Like a Horse)
-- How You Gonna Tell Me (Buck It Like a Horse)
-- Knock With Me - Rock With Me (Where Y'at?)
-- Rasta Second Line (Buck It Like a Horse)
+  - Knock With Me - Rock With Me (Buck It Like a Horse)
+  - Buck It Like a Horse (Buck It Like a Horse)
+  - Knock with Me Rock with Me (Ultimate New Orleans Brass Second Line Funk!)
+  - Rascal's Got Fire (Buck It Like a Horse)
+  - For the Love of Money (Buck It Like a Horse)
+  - >-
+    Sew Sew Sew (feat. Big Chief Monk Boudreaux, The Golden Eagles Mardi Gras
+    Indians, Triple Threat DJ's & Lil' Rascals Brass Band) (Galactic Vintage
+    Reserve)
+  - The Doe (Buck It Like a Horse)
+  - How You Gonna Tell Me (Buck It Like a Horse)
+  - Knock With Me - Rock With Me (Where Y'at?)
+  - Rasta Second Line (Buck It Like a Horse)
 external_urls:
-  spotify: https://open.spotify.com/artist/0iQTkXteVuQWznZ4WJuRLz
+  spotify: 'https://open.spotify.com/artist/0iQTkXteVuQWznZ4WJuRLz'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/lil_rascals_brass_band.jpg
 biography_enhanced_at: '2025-10-23T07:25:38.406220'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://wp.stolaf.edu/flaten/the-lil-rascals-brass-band-treme/
-- https://www.kalamu.com/bol/2008/06/02/lil%E2%80%99-rascals-brass-band-%E2%80%9Cknock-with-me-%E2%80%93-rock-with-me%E2%80%9D/
-- https://sandiegotroubadour.com/tthis-music-is-for-dancing-a-history-of-the-nola-brass-bands/
-- http://www.hot8brassband.com/our-story
-- https://www.offbeat.com/news/youtube-du-jour-lil-rascals-brass-band/
-- https://www.neworleans.com/event/corey-henry-&-the-treme-funktet/175456/
+  - 'https://wp.stolaf.edu/flaten/the-lil-rascals-brass-band-treme/'
+  - >-
+    https://www.kalamu.com/bol/2008/06/02/lil%E2%80%99-rascals-brass-band-%E2%80%9Cknock-with-me-%E2%80%93-rock-with-me%E2%80%9D/
+  - >-
+    https://sandiegotroubadour.com/tthis-music-is-for-dancing-a-history-of-the-nola-brass-bands/
+  - 'http://www.hot8brassband.com/our-story'
+  - 'https://www.offbeat.com/news/youtube-du-jour-lil-rascals-brass-band/'
+  - 'https://www.neworleans.com/event/corey-henry-&-the-treme-funktet/175456/'
 network_extracted: true
 entry_created: '2025-10-23T07:25:38.406239'
 last_updated: '2025-12-23T08:16:11.925367'
-origin: Tremé, New Orleans, Louisiana, USA
+origin: 'Tremé, New Orleans, Louisiana, USA'
+artist_type: band
 ---
 
 ![](lil_rascals_brass_band.jpg)

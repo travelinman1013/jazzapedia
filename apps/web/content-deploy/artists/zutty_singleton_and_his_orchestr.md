@@ -3,13 +3,14 @@ title: Zutty Singleton and His Orchestr
 wiki_slug: zutty-singleton-and-his-orchestr
 schema_version: 2
 status: active
-birth_place: Bunkie, Louisiana, USA
+birth_place: 'Bunkie, Louisiana, USA'
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/zutty_singleton_and_his_orchestr.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/zutty_singleton_and_his_orchestr.jpg
   caption: Zutty Singleton and His Orchestr
   background: solo_singer
-  origin: Bunkie, Louisiana, USA
+  origin: 'Bunkie, Louisiana, USA'
 audio_profile:
   tempo_avg: 124.3
   energy_avg: 0.815
@@ -25,43 +26,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Louis Armstrong
-  - Jelly Roll Morton
-  - Roy Eldridge
-  - Charlie Parker and Dizzy Gillespie
-  - Charlie Creath
+    - Louis Armstrong
+    - Jelly Roll Morton
+    - Roy Eldridge
+    - Charlie Parker and Dizzy Gillespie
+    - Charlie Creath
   influenced:
-  - Dave Tough
-  - George Wettling
-  - Sid Catlett
+    - Dave Tough
+    - George Wettling
+    - Sid Catlett
   mentors:
-  - Louis Cottrell
+    - Louis Cottrell
 spotify_data:
   followers: 2
   id: 02J5SU1fjLaXiaF8fryYV0
   popularity: 0
-  url: https://open.spotify.com/artist/02J5SU1fjLaXiaF8fryYV0
+  url: 'https://open.spotify.com/artist/02J5SU1fjLaXiaF8fryYV0'
 discography_enriched: true
 top_tracks:
-- King Porter Stomp (A Taste of 1940)
+  - King Porter Stomp (A Taste of 1940)
 external_urls:
-  spotify: https://open.spotify.com/artist/02J5SU1fjLaXiaF8fryYV0
-  wikipedia: https://en.wikipedia.org/wiki/Zutty_Singleton
+  spotify: 'https://open.spotify.com/artist/02J5SU1fjLaXiaF8fryYV0'
+  wikipedia: 'https://en.wikipedia.org/wiki/Zutty_Singleton'
 image_path: ''
 biography_enhanced_at: '2025-12-13T10:49:28.794745'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.moderndrummer.com/2009/12/arthur-zutty-singleton/
-- https://syncopatedtimes.com/zutty-singleton-icon-of-new-orleans-drumming-the-heartbeat-of-jazz-1924-1969/
-- https://veritenews.org/2025/01/03/bitd-arthur-zutty-singleton-jazz-drummer/
-- https://jazzprofiles.blogspot.com/2019/09/zutty-singleton-pioneer-that-jazz.html
-- https://traditional-jazz.com/history/drummers/zutty-singleton
-- https://drumsinthetwenties.com/2017/10/14/heroes-2-arthur-zutty-singleton-1898-1975/
-- https://en.wikipedia.org/wiki/Zutty_Singleton
+  - 'https://www.moderndrummer.com/2009/12/arthur-zutty-singleton/'
+  - >-
+    https://syncopatedtimes.com/zutty-singleton-icon-of-new-orleans-drumming-the-heartbeat-of-jazz-1924-1969/
+  - 'https://veritenews.org/2025/01/03/bitd-arthur-zutty-singleton-jazz-drummer/'
+  - >-
+    https://jazzprofiles.blogspot.com/2019/09/zutty-singleton-pioneer-that-jazz.html
+  - 'https://traditional-jazz.com/history/drummers/zutty-singleton'
+  - >-
+    https://drumsinthetwenties.com/2017/10/14/heroes-2-arthur-zutty-singleton-1898-1975/
+  - 'https://en.wikipedia.org/wiki/Zutty_Singleton'
 network_extracted: true
 entry_created: '2025-12-13T10:49:28.794766'
 last_updated: '2025-12-23T08:16:18.473748'
+birth_date: '1898-05-14'
+artist_type: person
 ---
 
 ![]()

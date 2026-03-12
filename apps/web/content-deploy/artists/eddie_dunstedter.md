@@ -2,41 +2,43 @@
 artist_type: person
 biography_enhanced_at: '2025-12-26T01:24:28.649283'
 birth_date: '1897-08-02'
-birth_place: Edwardsville, Illinois, United States
+birth_place: 'Edwardsville, Illinois, United States'
 death_date: '1974-07-30'
 enhancement_provider: perplexity
 entry_created: '2025-12-26T01:24:28.649299'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/559539bc-c1af-4c2a-acf6-3912f534cfb5
-  spotify: https://open.spotify.com/artist/1k7K4z3FRlYGkrlTG8IKSw
+  musicbrainz: 'https://musicbrainz.org/artist/559539bc-c1af-4c2a-acf6-3912f534cfb5'
+  spotify: 'https://open.spotify.com/artist/1k7K4z3FRlYGkrlTG8IKSw'
   wikipedia: ''
 gender: Male
 genres:
-- christmas
+  - christmas
 image_path: 03_Resources/source_material/ArtistPortraits/eddie_dunstedter.jpg
 last_updated: '2025-12-26T01:24:28.649300'
 musical_connections:
   collaborators:
-  - The Merry Macs
-  - The Jingle-Bells Orchestra
+    - The Merry Macs
+    - The Jingle-Bells Orchestra
   influenced: []
   mentors: []
 musicbrainz_id: 559539bc-c1af-4c2a-acf6-3912f534cfb5
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.oldtimeradiodownloads.com/actors/eddie-dunstedter
-- https://www.imdb.com/name/nm0243054/
-- http://christmasyuleblog.blogspot.com/2007/06/eddie-dunstedter-we-hardly-knew-ye.html
-- https://www.last.fm/music/Eddie+Dunstedter/+wiki
-- https://secondhandsongs.com/artist/37400/all
+  - 'https://www.oldtimeradiodownloads.com/actors/eddie-dunstedter'
+  - 'https://www.imdb.com/name/nm0243054/'
+  - >-
+    http://christmasyuleblog.blogspot.com/2007/06/eddie-dunstedter-we-hardly-knew-ye.html
+  - 'https://www.last.fm/music/Eddie+Dunstedter/+wiki'
+  - 'https://secondhandsongs.com/artist/37400/all'
 spotify_data:
   followers: 336
   id: 1k7K4z3FRlYGkrlTG8IKSw
   popularity: 28
-  url: https://open.spotify.com/artist/1k7K4z3FRlYGkrlTG8IKSw
+  url: 'https://open.spotify.com/artist/1k7K4z3FRlYGkrlTG8IKSw'
 status: active
 title: Eddie Dunstedter
+is_active: false
 ---
 
 ![](eddie_dunstedter.jpg)

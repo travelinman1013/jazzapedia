@@ -4,8 +4,8 @@ wiki_slug: bayou-boudreaux
 schema_version: 2
 status: active
 genres:
-- cajun
-- zydeco
+  - cajun
+  - zydeco
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bayou_boudreaux.jpg
   caption: Bayou Boudreaux
@@ -16,7 +16,7 @@ audio_profile:
   valence_avg: 0.962
   danceability_avg: 0.843
   acousticness_avg: 0.174
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -17.5
   speechiness_avg: 0.044
   liveness_avg: 0.145
@@ -31,27 +31,28 @@ spotify_data:
   followers: 18
   id: 2nDRXi8yPG8LX9s83uCAwl
   popularity: 6
-  url: https://open.spotify.com/artist/2nDRXi8yPG8LX9s83uCAwl
+  url: 'https://open.spotify.com/artist/2nDRXi8yPG8LX9s83uCAwl'
 discography_enriched: true
 top_tracks:
-- Christmas in Cajunland (Louisiana Christmas)
-- Boudreaux's Christmas (Louisiana Christmas)
+  - Christmas in Cajunland (Louisiana Christmas)
+  - Boudreaux's Christmas (Louisiana Christmas)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9672766a-638e-4a60-8292-4860431d557e
-  spotify: https://open.spotify.com/artist/2nDRXi8yPG8LX9s83uCAwl
+  musicbrainz: 'https://musicbrainz.org/artist/9672766a-638e-4a60-8292-4860431d557e'
+  spotify: 'https://open.spotify.com/artist/2nDRXi8yPG8LX9s83uCAwl'
   wikipedia: ''
 image_path: ''
 biography_enhanced_at: '2025-12-22T01:39:25.691743'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Buddy_Boudreaux[1]
-- https://en.wikipedia.org/wiki/Monk_Boudreaux[2]
-- https://www.michaelscottboudreaux.com[3]
+  - 'https://en.wikipedia.org/wiki/Buddy_Boudreaux[1]'
+  - 'https://en.wikipedia.org/wiki/Monk_Boudreaux[2]'
+  - 'https://www.michaelscottboudreaux.com[3]'
 network_extracted: true
 entry_created: '2025-12-22T01:39:25.691750'
 last_updated: '2025-12-23T08:16:05.142744'
 musicbrainz_id: 9672766a-638e-4a60-8292-4860431d557e
+artist_type: band
 ---
 
 ![]()

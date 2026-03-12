@@ -4,25 +4,25 @@ wiki_slug: graciela-beltran
 schema_version: 2
 status: deceased
 aliases: []
-birth_date: '1915-08-23'
-birth_place: Los Angeles, California, United States
+birth_date: '1974-12-29'
+birth_place: 'Havana, Cuba'
 death_date: '2010-04-07'
 years_active: 1934–2010
 genres:
-- banda
-- mariachi
-- grupera
+  - banda
+  - mariachi
+  - grupera
 instruments:
-- voice
+  - voice
 occupation:
-- singer
-- jazz musician
+  - singer
+  - jazz musician
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Graciela_Beltran.jpg
   caption: Graciela Beltran
   background: solo_singer
   born: '1915-08-23'
-  origin: Los Angeles, California, United States
+  origin: 'Los Angeles, California, United States'
   died: '2010-04-07'
 audio_profile:
   tempo_avg: 133.2
@@ -30,7 +30,7 @@ audio_profile:
   valence_avg: 0.813
   danceability_avg: 0.64
   acousticness_avg: 0.551
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -5.1
   speechiness_avg: 0.047
   liveness_avg: 0.197
@@ -39,51 +39,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Selena Quintanilla-Pérez
-  - Joan Sebastian
+    - Selena Quintanilla-Pérez
+    - Joan Sebastian
   influenced:
-  - Diana Reyes
+    - Diana Reyes
   mentors:
-  - Rocío Dúrcal
+    - Rocío Dúrcal
 related_artists: []
 spotify_data:
   followers: 62052
   id: 7HcFX1LEnI6zHIHCt8olTl
   popularity: 42
-  url: https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl
+  url: 'https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl'
   verified: false
 discography_enriched: true
 albums_count: 29
 singles_count: 17
 top_tracks:
-- Están Lloviendo Lagrimas (Tesoro)
-- Es Cosa De El (Promesas No)
-- Corazón Encadenado (Mi Otro Sentimiento)
-- Los Dos Amantes (Tesoro)
-- Hasta Que Amanezca (Tesoro)
-- Róbame Un Beso (Róbame Un Beso)
-- Gracias Por Todo (Te Llevas Mi Vida)
-- Mi Corazón Es Tuyo (Mi Corazón Es Tuyo)
-- Tesoro (Tesoro)
-- Mejor Me Voy (Homenaje a la Voz Ranchera)
+  - Están Lloviendo Lagrimas (Tesoro)
+  - Es Cosa De El (Promesas No)
+  - Corazón Encadenado (Mi Otro Sentimiento)
+  - Los Dos Amantes (Tesoro)
+  - Hasta Que Amanezca (Tesoro)
+  - Róbame Un Beso (Róbame Un Beso)
+  - Gracias Por Todo (Te Llevas Mi Vida)
+  - Mi Corazón Es Tuyo (Mi Corazón Es Tuyo)
+  - Tesoro (Tesoro)
+  - Mejor Me Voy (Homenaje a la Voz Ranchera)
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl
-  wikipedia: https://en.wikipedia.org/wiki/Graciela_Beltr%C3%A1n
+  spotify: 'https://open.spotify.com/artist/7HcFX1LEnI6zHIHCt8olTl'
+  wikipedia: 'https://en.wikipedia.org/wiki/Graciela_Beltr%C3%A1n'
 image_path: 03_Resources/source_material/ArtistPortraits/Graciela_Beltran.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T11:52:57.857761'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Graciela_Beltr%C3%A1n
-- https://www.last.fm/music/Graciela+Beltran/+wiki
-- https://www.last.fm/music/Graciela+Beltr%C3%A1n/+wiki
+  - 'https://en.wikipedia.org/wiki/Graciela_Beltr%C3%A1n'
+  - 'https://www.last.fm/music/Graciela+Beltran/+wiki'
+  - 'https://www.last.fm/music/Graciela+Beltr%C3%A1n/+wiki'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 15:20:59.746306
+entry_created: 2025-09-18T15:20:59.746Z
 last_updated: '2025-12-23T08:16:02.158467'
-
+is_active: false
+origin: 'Los Angeles, California, United States'
+artist_type: person
 ---
 
 ![](Graciela_Beltran.jpg)

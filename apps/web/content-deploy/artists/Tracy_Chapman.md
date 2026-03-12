@@ -2,19 +2,19 @@
 title: Tracy Chapman
 wiki_slug: tracy-chapman
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1964-03-30'
-birth_place: Cleveland, Ohio, United States
+birth_place: 'Cleveland, Ohio, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Tracy_Chapman.jpg
   caption: Tracy Chapman
   background: solo_singer
   born: '1964-03-30'
-  origin: Cleveland, Ohio, United States
+  origin: 'Cleveland, Ohio, United States'
 audio_profile:
-  tempo_avg: 117.0
+  tempo_avg: 117
   energy_avg: 0.403
   valence_avg: 0.481
   danceability_avg: 0.651
@@ -28,45 +28,47 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - David Kershenbaum
-  - Brian Koppelman
+    - David Kershenbaum
+    - Brian Koppelman
   influenced:
-  - Alicia Keys
-  - Luke Combs
+    - Alicia Keys
+    - Luke Combs
   mentors:
-  - Bob Dylan
-  - Odetta
+    - Bob Dylan
+    - Odetta
 spotify_data:
   followers: 2050680
   id: 7oPgCQqMMXEXrNau5vxYZP
   popularity: 69
-  url: https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP
+  url: 'https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP'
 discography_enriched: true
 top_tracks:
-- Fast Car (Tracy Chapman)
-- Baby Can I Hold You (Tracy Chapman)
-- Talkin' Bout a Revolution (Tracy Chapman)
-- Give Me One Reason (New Beginning)
-- Stand by Me - Live at the Late Show with David Letterman
-- The Thrill Is Gone (Deuces Wild)
-- The Promise (New Beginning)
-- Across the Lines (Tracy Chapman)
-- For My Lover (Tracy Chapman)
-- Crossroads (Crossroads)
+  - Fast Car (Tracy Chapman)
+  - Baby Can I Hold You (Tracy Chapman)
+  - Talkin' Bout a Revolution (Tracy Chapman)
+  - Give Me One Reason (New Beginning)
+  - Stand by Me - Live at the Late Show with David Letterman
+  - The Thrill Is Gone (Deuces Wild)
+  - The Promise (New Beginning)
+  - Across the Lines (Tracy Chapman)
+  - For My Lover (Tracy Chapman)
+  - Crossroads (Crossroads)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1129817c-488a-4096-80c1-77fc1b107c93
-  spotify: https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP
-  wikipedia: https://en.wikipedia.org/wiki/Tracy_Chapman
+  musicbrainz: 'https://musicbrainz.org/artist/1129817c-488a-4096-80c1-77fc1b107c93'
+  spotify: 'https://open.spotify.com/artist/7oPgCQqMMXEXrNau5vxYZP'
+  wikipedia: 'https://en.wikipedia.org/wiki/Tracy_Chapman'
 image_path: 03_Resources/source_material/ArtistPortraits/Tracy_Chapman.jpg
 biography_enhanced_at: '2025-10-20T01:59:01.864417'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Tracy_Chapman
-- https://www.businessinsider.com/tracy-chapman-fast-car-life-career-singer-bio-2023-7
-- https://www.britannica.com/biography/Tracy-Chapman-American-singer-songwriter
-- https://www.about-tracy-chapman.net/tracy-chapman-biography/
-- https://rxmusic.com/editorial/unsung-musicians-tracy-chapman/
+  - 'https://en.wikipedia.org/wiki/Tracy_Chapman'
+  - >-
+    https://www.businessinsider.com/tracy-chapman-fast-car-life-career-singer-bio-2023-7
+  - >-
+    https://www.britannica.com/biography/Tracy-Chapman-American-singer-songwriter
+  - 'https://www.about-tracy-chapman.net/tracy-chapman-biography/'
+  - 'https://rxmusic.com/editorial/unsung-musicians-tracy-chapman/'
 network_extracted: true
 entry_created: '2025-10-20T01:59:01.864434'
 last_updated: '2025-12-23T08:16:04.216746'
@@ -75,9 +77,9 @@ gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:47:31.376946'
 musicbrainz_id: 1129817c-488a-4096-80c1-77fc1b107c93
 tags:
-- american
-- androgynous vocals
-- blues rock
+  - american
+  - androgynous vocals
+  - blues rock
 ---
 
 ![](Tracy_Chapman.jpg)

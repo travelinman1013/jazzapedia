@@ -4,10 +4,11 @@ wiki_slug: oswaldinho-do-acordeon-socorro-lira
 schema_version: 2
 status: active
 genres:
-- forró
-- forro tradicional
+  - forró
+  - forro tradicional
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/oswaldinho_do_acordeon_and_socorro_lira.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/oswaldinho_do_acordeon_and_socorro_lira.jpg
   caption: Oswaldinho do Acordeon & Socorro Lira
   background: solo_singer
 audio_profile:
@@ -25,48 +26,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Osvaldinho da Cuíca
-  - Elifas Andreato
+    - Osvaldinho da Cuíca
+    - Elifas Andreato
   influenced:
-  - Emerging forró musicians
+    - Emerging forró musicians
   mentors:
-  - Luiz Gonzaga
+    - Luiz Gonzaga
 spotify_data:
   followers: 3381
   id: 5K7Lb9vcR9bBDxsCQfv1lF
   popularity: 16
-  url: https://open.spotify.com/artist/5K7Lb9vcR9bBDxsCQfv1lF
+  url: 'https://open.spotify.com/artist/5K7Lb9vcR9bBDxsCQfv1lF'
 discography_enriched: true
 top_tracks:
-- Na Casa de Dona Anita (Lágrimas de Namorados)
-- Baiao (Forro Novo)
-- Bom forró / Lavadeira do rio
-- Tacacá (O Samba do Rei do Baião)
-- Rei Bantu (O Samba do Rei do Baião)
-- Sanfonando (O Samba do Rei do Baião)
-- Lá Vai Forró (Os Maiores Sucessos de Anastácia e Dominguinhos)
-- Paraiba, mulher macho (Forro Novo)
-- Oito Baixos (Forro Novo)
-- Um Tom para Jobim
+  - Na Casa de Dona Anita (Lágrimas de Namorados)
+  - Baiao (Forro Novo)
+  - Bom forró / Lavadeira do rio
+  - Tacacá (O Samba do Rei do Baião)
+  - Rei Bantu (O Samba do Rei do Baião)
+  - Sanfonando (O Samba do Rei do Baião)
+  - Lá Vai Forró (Os Maiores Sucessos de Anastácia e Dominguinhos)
+  - 'Paraiba, mulher macho (Forro Novo)'
+  - Oito Baixos (Forro Novo)
+  - Um Tom para Jobim
 external_urls:
-  spotify: https://open.spotify.com/artist/5K7Lb9vcR9bBDxsCQfv1lF
-  wikipedia: https://pt.wikipedia.org/wiki/Socorro_Lira
-image_path: 03_Resources/source_material/ArtistPortraits/oswaldinho_do_acordeon_and_socorro_lira.jpg
+  spotify: 'https://open.spotify.com/artist/5K7Lb9vcR9bBDxsCQfv1lF'
+  wikipedia: 'https://pt.wikipedia.org/wiki/Socorro_Lira'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/oswaldinho_do_acordeon_and_socorro_lira.jpg
 biography_enhanced_at: '2025-11-16T20:17:15.840712'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://pt.wikipedia.org/wiki/Socorro_Lira
-- https://www.socorrolira.com.br/biografia/
-- https://www.socorrolira.com.br/en/discografia/
-- https://www.deezer.com/us/artist/435034
-- https://open.spotify.com/track/6Gf5UxaHwi47zxn06yvhaa
-- https://www.shazam.com/en-us/artist/socorro-lira/274606421
+  - 'https://pt.wikipedia.org/wiki/Socorro_Lira'
+  - 'https://www.socorrolira.com.br/biografia/'
+  - 'https://www.socorrolira.com.br/en/discografia/'
+  - 'https://www.deezer.com/us/artist/435034'
+  - 'https://open.spotify.com/track/6Gf5UxaHwi47zxn06yvhaa'
+  - 'https://www.shazam.com/en-us/artist/socorro-lira/274606421'
 network_extracted: true
 entry_created: '2025-11-16T20:17:15.840718'
 last_updated: '2025-12-23T08:16:13.853618'
-origin: Brejo do Cruz, Paraíba, Brazil
-
+origin: 'Brejo do Cruz, Paraíba, Brazil'
+birth_place: 'Brejo do Cruz, Paraíba, Brazil'
+birth_date: '1974'
+artist_type: person
 ---
 
 ![](oswaldinho_do_acordeon_and_socorro_lira.jpg)

@@ -1,24 +1,24 @@
 ---
-title: gyakie
+title: Gyakie
 wiki_slug: gyakie
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1998-12-16'
-birth_place: Kumasi, Ashanti Region, Ghana
+birth_place: 'Kumasi, Ashanti Region, Ghana'
 genres:
-- afrobeats
-- afropop
-- afrobeat
-- hiplife
-- asakaa
-- afro soul
+  - afrobeats
+  - afropop
+  - afrobeat
+  - hiplife
+  - asakaa
+  - afro soul
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/gyakie.jpg
   caption: gyakie
   background: solo_singer
   born: '1998-12-16'
-  origin: Kumasi, Ashanti Region, Ghana
+  origin: 'Kumasi, Ashanti Region, Ghana'
 audio_profile:
   tempo_avg: 113.6
   energy_avg: 0.586
@@ -34,51 +34,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Omah Lay
-  - Davido
+    - Omah Lay
+    - Davido
   influenced: []
   mentors:
-  - Nana Acheampong
-  - Asa
-  - Omar Sterling (R2Bees)
+    - Nana Acheampong
+    - Asa
+    - Omar Sterling (R2Bees)
 spotify_data:
   followers: 890672
   id: 1zO1FWFxxNUCqUuGATxZQZ
   popularity: 55
-  url: https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ
+  url: 'https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ'
 discography_enriched: true
 top_tracks:
-- Forever (Remix)
-- Run Away (OMALICHA)
-- SOMETHING
-- Sor Mi Mu
-- Rent Free
-- Forever
-- No Bad Vibes (with Gyakie & Joshua Baraka)
-- NEED ME
-- December
-- SCAR
+  - Forever (Remix)
+  - Run Away (OMALICHA)
+  - SOMETHING
+  - Sor Mi Mu
+  - Rent Free
+  - Forever
+  - No Bad Vibes (with Gyakie & Joshua Baraka)
+  - NEED ME
+  - December
+  - SCAR
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/602a44f7-01da-4522-9b2c-5692ac0b06d7
-  spotify: https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ
-  wikipedia: https://gpe.wikipedia.org/wiki/Gyakie
+  musicbrainz: 'https://musicbrainz.org/artist/602a44f7-01da-4522-9b2c-5692ac0b06d7'
+  spotify: 'https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ'
+  wikipedia: 'https://gpe.wikipedia.org/wiki/Gyakie'
 image_path: 03_Resources/source_material/ArtistPortraits/gyakie.jpg
 biography_enhanced_at: '2025-10-19T12:33:40.319190'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.ceek.com/gyakie/bio/
-- https://mixbeep.com/singer/dQzkkh/gyakie
-- https://unorthodoxreviews.com/the-story-of-gyakie-africas-songbird
-- https://kontatv.com/gyakie/
-- https://girlsunited.essence.com/feedback/news/gu-jams-gyakie/
+  - 'https://www.ceek.com/gyakie/bio/'
+  - 'https://mixbeep.com/singer/dQzkkh/gyakie'
+  - 'https://unorthodoxreviews.com/the-story-of-gyakie-africas-songbird'
+  - 'https://kontatv.com/gyakie/'
+  - 'https://girlsunited.essence.com/feedback/news/gu-jams-gyakie/'
 network_extracted: true
 entry_created: '2025-10-19T12:33:40.319199'
 last_updated: '2025-12-23T08:16:09.425805'
 gender: Female
 musicbrainz_enriched_at: '2025-10-21T09:52:48.724200'
 musicbrainz_id: 602a44f7-01da-4522-9b2c-5692ac0b06d7
-
 ---
 
 ![](gyakie.jpg)

@@ -5,15 +5,15 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1941-01-24'
-birth_place: New Orleans
+birth_place: 'New Orleans, Louisiana, United States'
 genres:
-- classic soul
+  - classic soul
 instruments:
-- eponymous
-- original
-- background vocals
-- other vocals
-- lead vocals
+  - eponymous
+  - original
+  - background vocals
+  - other vocals
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Aaron_Neville.jpg
   caption: Aaron Neville
@@ -35,56 +35,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Linda Ronstadt
-  - The Neville Brothers
-  - Trisha Yearwood
-  - Dirty Dozen Brass Band
-  - Don Was and Keith Richards
+    - Linda Ronstadt
+    - The Neville Brothers
+    - Trisha Yearwood
+    - Dirty Dozen Brass Band
+    - Don Was and Keith Richards
   influenced:
-  - Ivan Neville
+    - Ivan Neville
   mentors:
-  - Sam Cooke
-  - Allen Toussaint
-  - Art Neville
+    - Sam Cooke
+    - Allen Toussaint
+    - Art Neville
 spotify_data:
   followers: 164969
   id: 57ALvbCBaCkNlgTOSiUPdT
   popularity: 52
-  url: https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT
+  url: 'https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT'
 discography_enriched: true
 top_tracks:
-- Don't Know Much (with Aaron Neville) (Cry Like a Rainstorm Howl Like the Wind)
-- Tell It Like It Is (Soul Feeling)
-- Tell It Like It Is
-- Tell It Like It Is
-- All My Life (with Aaron Neville) - 1999 Remaster (Cry Like a Rainstorm Howl Like the Wind)
-- Hercules (Tell It Like It Is)
-- The Weight - Live
-- Don't Know Much (feat. Aaron Neville) - 2015 Remaster
-- Everybody Plays The Fool (Warm Your Heart)
-- Even If My Heart Would Break (Breathless)
+  - >-
+    Don't Know Much (with Aaron Neville) (Cry Like a Rainstorm Howl Like the
+    Wind)
+  - Tell It Like It Is (Soul Feeling)
+  - Tell It Like It Is
+  - Tell It Like It Is
+  - >-
+    All My Life (with Aaron Neville) - 1999 Remaster (Cry Like a Rainstorm Howl
+    Like the Wind)
+  - Hercules (Tell It Like It Is)
+  - The Weight - Live
+  - Don't Know Much (feat. Aaron Neville) - 2015 Remaster
+  - Everybody Plays The Fool (Warm Your Heart)
+  - Even If My Heart Would Break (Breathless)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2f53411b-ec29-4979-aa46-62786a2bb377
-  spotify: https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT
-  wikipedia: https://en.wikipedia.org/wiki/Aaron_Neville
+  musicbrainz: 'https://musicbrainz.org/artist/2f53411b-ec29-4979-aa46-62786a2bb377'
+  spotify: 'https://open.spotify.com/artist/57ALvbCBaCkNlgTOSiUPdT'
+  wikipedia: 'https://en.wikipedia.org/wiki/Aaron_Neville'
 image_path: 03_Resources/source_material/ArtistPortraits/Aaron_Neville.jpg
 biography_enhanced_at: '2025-10-22T06:50:46.253663'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Aaron_Neville
-- https://sandiegotroubadour.com/13027/
-- https://musicrising.tulane.edu/discover/people/aaron-neville/
-- https://mississippitoday.org/2025/01/24/on-this-day-in-1941-legendary-artist-aaron-neville-was-born-in-new-orleans/
+  - 'https://en.wikipedia.org/wiki/Aaron_Neville'
+  - 'https://sandiegotroubadour.com/13027/'
+  - 'https://musicrising.tulane.edu/discover/people/aaron-neville/'
+  - >-
+    https://mississippitoday.org/2025/01/24/on-this-day-in-1941-legendary-artist-aaron-neville-was-born-in-new-orleans/
 network_extracted: true
 entry_created: '2025-10-22T06:50:46.253760'
 last_updated: '2025-12-23T08:16:00.947111'
 gender: Male
 musicbrainz_id: 2f53411b-ec29-4979-aa46-62786a2bb377
 tags:
-- 1980s
-- 1990s
-- 2000s
+  - 1980s
+  - 1990s
+  - 2000s
 ---
 
 ![](Aaron_Neville.jpg)

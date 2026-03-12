@@ -2,21 +2,22 @@
 title: Duke Ellington and his Orchestra
 wiki_slug: duke-ellington-and-his-orchestra
 schema_version: 2
-artist_type: orchestra
+artist_type: band
 status: active
-birth_date: '1927'
+birth_date: '1899-04-29'
 genres:
-- big band
-- jazz
-- swing music
-- ragtime
+  - big band
+  - jazz
+  - swing music
+  - ragtime
 instruments:
-- drums (drum set)
-- eponymous
-- trombone
-- original
+  - drums (drum set)
+  - eponymous
+  - trombone
+  - original
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/duke_ellington_and_his_orchestra.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/duke_ellington_and_his_orchestra.jpg
   caption: Duke Ellington and his Orchestra
   background: non_vocal_instrumentalist
   born: '1927'
@@ -35,424 +36,433 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Billy Strayhorn
-  - Johnny Hodges
-  - Harry Carney
-  - Juan Tizol
-  - Cootie Williams
-  - Barney Bigard
-  - Paul Gonsalves
+    - Billy Strayhorn
+    - Johnny Hodges
+    - Harry Carney
+    - Juan Tizol
+    - Cootie Williams
+    - Barney Bigard
+    - Paul Gonsalves
   influenced:
-  - Later big band and jazz orchestra leaders (e.g., Count Basie, modern jazz orchestra writers)
-  - Jazz composers and arrangers generally
-  - International jazz communities
+    - >-
+      Later big band and jazz orchestra leaders (e.g., Count Basie, modern jazz
+      orchestra writers)
+    - Jazz composers and arrangers generally
+    - International jazz communities
   mentors:
-  - James P. Johnson
-  - Willie "The Lion" Smith
-  - Ragtime and early jazz traditions
+    - James P. Johnson
+    - Willie "The Lion" Smith
+    - Ragtime and early jazz traditions
 spotify_data:
   followers: 29588
   id: 3W4GTSHxlqXfXjdmSNIbTB
   popularity: 33
-  url: https://open.spotify.com/artist/3W4GTSHxlqXfXjdmSNIbTB
+  url: 'https://open.spotify.com/artist/3W4GTSHxlqXfXjdmSNIbTB'
 discography_enriched: true
 top_tracks:
-- We Have All The Time In The World (feat. The Duke Ellington Orchestra)
-- Take the a Train (Take the "A" Train)
-- Do Nothin' Till You Hear From Me (Digital Duke)
-- Tuxedo Junction
-- Just Squeeze Me (But Don't Tease Me) (The Great Reunion)
-- Ruint (Take the "A" Train)
-- Purple Gazelle
-- Pyramid
-- Don't Get Around Much Any More
-- It Don't Mean A Thing (Jazzuela. Julio Cortázar y el Jazz)
+  - We Have All The Time In The World (feat. The Duke Ellington Orchestra)
+  - Take the a Train (Take the "A" Train)
+  - Do Nothin' Till You Hear From Me (Digital Duke)
+  - Tuxedo Junction
+  - Just Squeeze Me (But Don't Tease Me) (The Great Reunion)
+  - Ruint (Take the "A" Train)
+  - Purple Gazelle
+  - Pyramid
+  - Don't Get Around Much Any More
+  - It Don't Mean A Thing (Jazzuela. Julio Cortázar y el Jazz)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/c01557ad-d41e-4316-a285-605769e2ab3b
-  spotify: https://open.spotify.com/artist/3W4GTSHxlqXfXjdmSNIbTB
-  wikipedia: https://en.wikipedia.org/wiki/Duke_Ellington
-image_path: 03_Resources/source_material/ArtistPortraits/duke_ellington_and_his_orchestra.jpg
+  musicbrainz: 'https://musicbrainz.org/artist/c01557ad-d41e-4316-a285-605769e2ab3b'
+  spotify: 'https://open.spotify.com/artist/3W4GTSHxlqXfXjdmSNIbTB'
+  wikipedia: 'https://en.wikipedia.org/wiki/Duke_Ellington'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/duke_ellington_and_his_orchestra.jpg
 biography_enhanced_at: '2025-12-15T01:17:52.530650'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Encyclopaedia Britannica – Duke Ellington biography[2]
-- Wikipedia – Duke Ellington[4]
-- 'The Syncopated Times – The Story of Duke Ellington, Part 1: 1899–1929[3]'
-- 'National Museum of African American History and Culture – Jazz Appreciation Month: Duke Ellington[6]'
-- 'The American Guitar Academy – Duke Ellington: The Great Jazz Composer[1]'
-- American Symphony Orchestra – All‑Duke Ellington Program notes[8]
-- 'WRTI – Duke Ellington: The Influential, Elegant Genius[5]'
-- Texas Public Radio – How Duke Ellington stretched the boundaries of jazz and classical[7]
+  - 'Encyclopaedia Britannica – Duke Ellington biography[2]'
+  - 'Wikipedia – Duke Ellington[4]'
+  - 'The Syncopated Times – The Story of Duke Ellington, Part 1: 1899–1929[3]'
+  - >-
+    National Museum of African American History and Culture – Jazz Appreciation
+    Month: Duke Ellington[6]
+  - 'The American Guitar Academy – Duke Ellington: The Great Jazz Composer[1]'
+  - 'American Symphony Orchestra – All‑Duke Ellington Program notes[8]'
+  - 'WRTI – Duke Ellington: The Influential, Elegant Genius[5]'
+  - >-
+    Texas Public Radio – How Duke Ellington stretched the boundaries of jazz and
+    classical[7]
 network_extracted: true
 entry_created: '2025-12-15T01:17:52.530662'
 last_updated: '2025-12-23T08:16:08.061541'
 members:
-- begin: '1928'
-  end: '1951'
-  instruments: []
-  mbid: 881d33d8-e86f-42e8-b571-dbde156f6907
-  name: Johnny Hodges
-- begin: '1929'
-  end: '1944'
-  instruments: []
-  mbid: c1955c20-c693-4bb6-99f8-604251d2f01e
-  name: Juan Tizol
-- begin: '1935'
-  end: '1938'
-  instruments: []
-  mbid: 37de907e-694a-4898-abc7-b44672b2d18f
-  name: Hayes Alvis
-- begin: 1939-01
-  end: '1967'
-  instruments: []
-  mbid: 23ec9ce1-2dae-437d-ba33-d6ddfe8fd0a9
-  name: Billy Strayhorn
-- begin: '1944'
-  end: '1949'
-  instruments: []
-  mbid: 52f9e4c8-27e2-4151-9d3c-8a505d0d044b
-  name: Al Sears
-- begin: '1949'
-  end: '1960'
-  instruments: []
-  mbid: cc53fdfe-b0ea-434b-a376-4ad546638531
-  name: Quentin Jackson
-- begin: '1951'
-  end: '1960'
-  instruments: []
-  mbid: db0021bc-fd55-4ad3-a10a-07b774f89035
-  name: Britt Woodman
-- &id001
-  begin: '1954'
-  end: ''
-  instruments: []
-  mbid: b5ca0759-a8da-42a6-995a-7364c734baa6
-  name: John Sanders
-- begin: '1955'
-  end: '1966'
-  instruments: []
-  mbid: 90f9db31-0d48-43d2-8112-04850fbe5bbd
-  name: Sam Woodyard
-- begin: '1955'
-  end: '1970-05-11'
-  instruments: []
-  mbid: 881d33d8-e86f-42e8-b571-dbde156f6907
-  name: Johnny Hodges
-- begin: '1973'
-  end: '1974'
-  instruments:
-  - drums (drum set)
-  mbid: 65613f08-3c41-41d4-9b51-eeac12eb2db4
-  name: Quinten “Rocky” White
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 727f2759-d8e7-454f-9f9f-8e7cdfb214f2
-  name: Ivie Anderson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e58d894d-d6a1-49c0-aee2-8350af5c68a8
-  name: William “Cat” Anderson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8ba9bf41-4327-4cf1-b800-3c6f7253c6e3
-  name: Russ Andrews
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: cc292ec4-55e4-45be-8592-4ab2d31e2751
-  name: Harold Ashby
-- begin: ''
-  end: ''
-  instruments:
-  - drums (drum set)
-  mbid: d34a776b-6b26-44ba-ae47-ad4dbff83000
-  name: Fred Avendorf
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5b38656a-b836-4585-9cc7-c5e731da9ea0
-  name: Harold “Shorty” Baker
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 96aa4c2c-27c8-47f4-a5b2-38fb74a1415c
-  name: Aaron Bell
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7ec27748-5886-464d-8e65-8f221f658ef3
-  name: Joe Benjamin
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: eab4d095-80d3-4b20-a16a-4d96d28ff67f
-  name: Barney Bigard
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: cb7ff13b-4b75-4187-b6e1-c5179d33bc5e
-  name: Jimmy Blanton
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5e554484-087d-49dc-ba27-a5d627eea63b
-  name: Wellman Braud
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c3209b13-87bb-4f20-a833-c0d77805c1f6
-  name: Lawrence Brown
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 48f34bd6-dc5d-41ba-8cd5-0495787f13fa
-  name: Harry Carney
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 32b20af8-944a-45da-90ac-fbf69bffa5b3
-  name: Jeff Castleman
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 87e11371-46c7-4f7a-8fa0-9548a9569989
-  name: Pete Clark
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b482412e-4ca7-4adf-95e3-3cd2270862e7
-  name: Willie Cook
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 80f529ca-e370-4219-9704-9e5d56293265
-  name: Buster Cooper
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 3af06bc4-68ad-4cae-bb7a-7eeeb45e411f
-  name: Duke Ellington
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a86ce05d-ba80-4e65-8091-12835bad02d3
-  name: Mercer Ellington
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2d30b78a-3e0a-4065-928e-31cc0bac0122
-  name: Matthew Gee
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 033fae4c-cb99-4e3b-8213-f0d0c1bc677d
-  name: Paul Gonsalves
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 3ec1c0cf-b825-44bb-876e-d79122d00ae1
-  name: Sonny Greer
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d28e1a0d-e40d-43a5-8442-aa373f71bbb1
-  name: Jimmy Grissom
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ffd90943-ec19-4b02-8077-1cf2e4221b90
-  name: Fred Guy
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1438d2e8-20ee-4f7c-953c-51a5612fd4e3
-  name: Jimmy Hamilton
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4fd648b7-e5a7-4d4e-b3c8-6c3c7f3b4da8
-  name: Otto Hardwick
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 98ee7535-03e4-4899-aa5c-40da2fe716dd
-  name: Paul Horn
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a1eb52a1-07d5-4179-91ae-3ee5fe3e19b9
-  name: Freddy Jenkins
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: becde587-4e57-49a7-81d9-f1aeef8c32b8
-  name: Jimmy Johnson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 4004d3dd-fcc6-41a3-8acd-ab22abc3ddb3
-  name: Money Johnson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: c2bd3986-325b-41c3-ad51-faaf0bb61e64
-  name: Herbie Jones
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 04a92d42-77a8-4535-b1a5-3450784fa3f3
-  name: Rufus Jones
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: bc9d6b35-51c9-43c3-907a-83a972dcf891
-  name: Wallace Jones
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 190ad804-6d1e-4210-949f-6891bca17504
-  name: Steve Little
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 19b15447-1d6e-4d25-814b-b3ebafd8edd3
-  name: Al Lucas
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: cbe1c3c9-f78d-49c1-a9f2-78b4d2e58394
-  name: Andres Meringuito
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7006fd35-11e6-4e77-b82c-c752d1febb25
-  name: Bubber Miley
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 34fb26d5-b72e-4eee-8d11-91341b18e382
-  name: Harold "Geezil" Minerve
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 369799bb-3fce-4037-b8c3-0850ec9aa5ea
-  name: Ed Mullens
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: a765d3e6-0a39-4910-b0d8-f80557be846d
-  name: Ray Nance
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b1669585-019f-483d-80c2-caada4275157
-  name: Joe "Tricky Sam" Nanton
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2f971815-edf1-419d-9124-6cfb03b820c6
-  name: Eddie Preston
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ef334ada-16e2-4ee6-a3d8-b89a125ff50e
-  name: Julian Priester
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 7d09015c-71a2-4e9c-bd3d-9ab9fd0c8c6a
-  name: Russell Procope
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 33b26908-0afe-45f8-af5e-3d8338171ef6
-  name: Vince Prudente
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b66ee2e7-ec31-4a55-bf75-3b9edb357ff0
-  name: Al Rubin
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1892127b-90d1-4fa6-b685-3fd68c247a9a
-  name: Rex Stewart
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2de8cabc-25de-4e1e-8299-391a80beeacc
-  name: Fred Stone
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6a8f36cd-093f-4e5f-b1b7-c22c62b2eb07
-  name: Dave Taylor
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ae766b07-c942-47eb-b78d-504c945d7db8
-  name: Malcolm Taylor
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2a760856-7bf1-4f65-a2d0-225e77085fcc
-  name: Clark Terry
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6e3be447-44a4-4cfd-a1e8-f7fad8cf2320
-  name: Norris Turney
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e28c0b26-3bdb-45dc-b4f5-f309c7c35ec4
-  name: Ben Webster
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: f96e7b86-3f28-4205-9e39-58d4559f1513
-  name: Arthur Whetsel
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 754ed78e-d5c5-4a5f-846d-224ffa1c263c
-  name: Cootie Williams
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6c05e745-995a-4505-b7f4-12c382dce971
-  name: Booty Wood
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d25011ec-b308-4603-aa41-7f5e22d17732
-  name: Jimmy Woode
-- begin: ''
-  end: ''
-  instruments:
-  - trombone
-  mbid: a0ccffb5-2063-4615-bba0-1aba56edf888
-  name: Chuck Connors
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: 3af06bc4-68ad-4cae-bb7a-7eeeb45e411f
-  name: Duke Ellington
+  - begin: '1928'
+    end: '1951'
+    instruments: []
+    mbid: 881d33d8-e86f-42e8-b571-dbde156f6907
+    name: Johnny Hodges
+  - begin: '1929'
+    end: '1944'
+    instruments: []
+    mbid: c1955c20-c693-4bb6-99f8-604251d2f01e
+    name: Juan Tizol
+  - begin: '1935'
+    end: '1938'
+    instruments: []
+    mbid: 37de907e-694a-4898-abc7-b44672b2d18f
+    name: Hayes Alvis
+  - begin: 1939-01
+    end: '1967'
+    instruments: []
+    mbid: 23ec9ce1-2dae-437d-ba33-d6ddfe8fd0a9
+    name: Billy Strayhorn
+  - begin: '1944'
+    end: '1949'
+    instruments: []
+    mbid: 52f9e4c8-27e2-4151-9d3c-8a505d0d044b
+    name: Al Sears
+  - begin: '1949'
+    end: '1960'
+    instruments: []
+    mbid: cc53fdfe-b0ea-434b-a376-4ad546638531
+    name: Quentin Jackson
+  - begin: '1951'
+    end: '1960'
+    instruments: []
+    mbid: db0021bc-fd55-4ad3-a10a-07b774f89035
+    name: Britt Woodman
+  - &ref_0
+    begin: '1954'
+    end: ''
+    instruments: []
+    mbid: b5ca0759-a8da-42a6-995a-7364c734baa6
+    name: John Sanders
+  - begin: '1955'
+    end: '1966'
+    instruments: []
+    mbid: 90f9db31-0d48-43d2-8112-04850fbe5bbd
+    name: Sam Woodyard
+  - begin: '1955'
+    end: '1970-05-11'
+    instruments: []
+    mbid: 881d33d8-e86f-42e8-b571-dbde156f6907
+    name: Johnny Hodges
+  - begin: '1973'
+    end: '1974'
+    instruments:
+      - drums (drum set)
+    mbid: 65613f08-3c41-41d4-9b51-eeac12eb2db4
+    name: Quinten “Rocky” White
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 727f2759-d8e7-454f-9f9f-8e7cdfb214f2
+    name: Ivie Anderson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e58d894d-d6a1-49c0-aee2-8350af5c68a8
+    name: William “Cat” Anderson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8ba9bf41-4327-4cf1-b800-3c6f7253c6e3
+    name: Russ Andrews
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: cc292ec4-55e4-45be-8592-4ab2d31e2751
+    name: Harold Ashby
+  - begin: ''
+    end: ''
+    instruments:
+      - drums (drum set)
+    mbid: d34a776b-6b26-44ba-ae47-ad4dbff83000
+    name: Fred Avendorf
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5b38656a-b836-4585-9cc7-c5e731da9ea0
+    name: Harold “Shorty” Baker
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 96aa4c2c-27c8-47f4-a5b2-38fb74a1415c
+    name: Aaron Bell
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7ec27748-5886-464d-8e65-8f221f658ef3
+    name: Joe Benjamin
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: eab4d095-80d3-4b20-a16a-4d96d28ff67f
+    name: Barney Bigard
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: cb7ff13b-4b75-4187-b6e1-c5179d33bc5e
+    name: Jimmy Blanton
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5e554484-087d-49dc-ba27-a5d627eea63b
+    name: Wellman Braud
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c3209b13-87bb-4f20-a833-c0d77805c1f6
+    name: Lawrence Brown
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 48f34bd6-dc5d-41ba-8cd5-0495787f13fa
+    name: Harry Carney
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 32b20af8-944a-45da-90ac-fbf69bffa5b3
+    name: Jeff Castleman
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 87e11371-46c7-4f7a-8fa0-9548a9569989
+    name: Pete Clark
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b482412e-4ca7-4adf-95e3-3cd2270862e7
+    name: Willie Cook
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 80f529ca-e370-4219-9704-9e5d56293265
+    name: Buster Cooper
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 3af06bc4-68ad-4cae-bb7a-7eeeb45e411f
+    name: Duke Ellington
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a86ce05d-ba80-4e65-8091-12835bad02d3
+    name: Mercer Ellington
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2d30b78a-3e0a-4065-928e-31cc0bac0122
+    name: Matthew Gee
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 033fae4c-cb99-4e3b-8213-f0d0c1bc677d
+    name: Paul Gonsalves
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 3ec1c0cf-b825-44bb-876e-d79122d00ae1
+    name: Sonny Greer
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d28e1a0d-e40d-43a5-8442-aa373f71bbb1
+    name: Jimmy Grissom
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ffd90943-ec19-4b02-8077-1cf2e4221b90
+    name: Fred Guy
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1438d2e8-20ee-4f7c-953c-51a5612fd4e3
+    name: Jimmy Hamilton
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4fd648b7-e5a7-4d4e-b3c8-6c3c7f3b4da8
+    name: Otto Hardwick
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 98ee7535-03e4-4899-aa5c-40da2fe716dd
+    name: Paul Horn
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a1eb52a1-07d5-4179-91ae-3ee5fe3e19b9
+    name: Freddy Jenkins
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: becde587-4e57-49a7-81d9-f1aeef8c32b8
+    name: Jimmy Johnson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 4004d3dd-fcc6-41a3-8acd-ab22abc3ddb3
+    name: Money Johnson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: c2bd3986-325b-41c3-ad51-faaf0bb61e64
+    name: Herbie Jones
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 04a92d42-77a8-4535-b1a5-3450784fa3f3
+    name: Rufus Jones
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: bc9d6b35-51c9-43c3-907a-83a972dcf891
+    name: Wallace Jones
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 190ad804-6d1e-4210-949f-6891bca17504
+    name: Steve Little
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 19b15447-1d6e-4d25-814b-b3ebafd8edd3
+    name: Al Lucas
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: cbe1c3c9-f78d-49c1-a9f2-78b4d2e58394
+    name: Andres Meringuito
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7006fd35-11e6-4e77-b82c-c752d1febb25
+    name: Bubber Miley
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 34fb26d5-b72e-4eee-8d11-91341b18e382
+    name: Harold "Geezil" Minerve
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 369799bb-3fce-4037-b8c3-0850ec9aa5ea
+    name: Ed Mullens
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: a765d3e6-0a39-4910-b0d8-f80557be846d
+    name: Ray Nance
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b1669585-019f-483d-80c2-caada4275157
+    name: Joe "Tricky Sam" Nanton
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2f971815-edf1-419d-9124-6cfb03b820c6
+    name: Eddie Preston
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ef334ada-16e2-4ee6-a3d8-b89a125ff50e
+    name: Julian Priester
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 7d09015c-71a2-4e9c-bd3d-9ab9fd0c8c6a
+    name: Russell Procope
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 33b26908-0afe-45f8-af5e-3d8338171ef6
+    name: Vince Prudente
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b66ee2e7-ec31-4a55-bf75-3b9edb357ff0
+    name: Al Rubin
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1892127b-90d1-4fa6-b685-3fd68c247a9a
+    name: Rex Stewart
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2de8cabc-25de-4e1e-8299-391a80beeacc
+    name: Fred Stone
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6a8f36cd-093f-4e5f-b1b7-c22c62b2eb07
+    name: Dave Taylor
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ae766b07-c942-47eb-b78d-504c945d7db8
+    name: Malcolm Taylor
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2a760856-7bf1-4f65-a2d0-225e77085fcc
+    name: Clark Terry
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6e3be447-44a4-4cfd-a1e8-f7fad8cf2320
+    name: Norris Turney
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e28c0b26-3bdb-45dc-b4f5-f309c7c35ec4
+    name: Ben Webster
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: f96e7b86-3f28-4205-9e39-58d4559f1513
+    name: Arthur Whetsel
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 754ed78e-d5c5-4a5f-846d-224ffa1c263c
+    name: Cootie Williams
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6c05e745-995a-4505-b7f4-12c382dce971
+    name: Booty Wood
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d25011ec-b308-4603-aa41-7f5e22d17732
+    name: Jimmy Woode
+  - begin: ''
+    end: ''
+    instruments:
+      - trombone
+    mbid: a0ccffb5-2063-4615-bba0-1aba56edf888
+    name: Chuck Connors
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: 3af06bc4-68ad-4cae-bb7a-7eeeb45e411f
+    name: Duke Ellington
 musicbrainz_id: c01557ad-d41e-4316-a285-605769e2ab3b
-origin: Harlem
+origin: 'Harlem, New York, United States'
 original_members:
-- *id001
+  - *ref_0
 tags:
-- big band
-- jazz
-- swing
+  - big band
+  - jazz
+  - swing
+birth_place: 'Washington, D.C., United States'
+death_date: '1974-05-24'
 ---
 
 ![](duke_ellington_and_his_orchestra.jpg)

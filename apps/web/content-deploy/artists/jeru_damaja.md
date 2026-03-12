@@ -1,48 +1,50 @@
 ---
 biography_enhanced_at: '2026-01-07T01:14:03.112042'
-birth_place: East New York, Brooklyn, New York, USA
+birth_place: 'East New York, Brooklyn, New York, USA'
 enhancement_provider: perplexity
 entry_created: '2026-01-07T01:14:03.112048'
 external_urls:
-  spotify: https://open.spotify.com/artist/6CsOL9C9iLL0eWKINlDxzQ
-  wikipedia: https://en.wikipedia.org/wiki/Jeru_the_Damaja
+  spotify: 'https://open.spotify.com/artist/6CsOL9C9iLL0eWKINlDxzQ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jeru_the_Damaja'
 genres:
-- east coast hip hop
-- boom bap
-- hip hop
+  - east coast hip hop
+  - boom bap
+  - hip hop
 image_path: 03_Resources/source_material/ArtistPortraits/jeru_damaja.jpg
 last_updated: '2026-01-07T01:14:03.112049'
 musical_connections:
   collaborators:
-  - Gang Starr (DJ Premier & Guru)
-  - Afu-Ra
-  - Group Home
-  - Slums Attack & O.S.T.R.
-  - Groove Armada
+    - Gang Starr (DJ Premier & Guru)
+    - Afu-Ra
+    - Group Home
+    - Slums Attack & O.S.T.R.
+    - Groove Armada
   influenced:
-  - Afu-Ra
+    - Afu-Ra
   mentors:
-  - DJ Premier
-  - Guru
+    - DJ Premier
+    - Guru
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://musicinfo.io/jeru-the-damaja
-- https://en.wikipedia.org/wiki/Jeru_the_Damaja
-- https://www.udiscovermusic.com/artist/jeru-the-damaja/
-- http://www.subotage.com/artist/group-home-jeru-the-damaja-afu-ra-dec-jan-2010/
-- https://www.clashmusic.com/features/in-conversation-jeru-the-damaja/
-- https://www.whomag.net/jeru-the-damaja/
-- https://www.blackhistorymonth.org.uk/article/listings/region/camden/jeru-the-damaja/
-- https://www.imdb.com/name/nm0204964/bio/
+  - 'https://musicinfo.io/jeru-the-damaja'
+  - 'https://en.wikipedia.org/wiki/Jeru_the_Damaja'
+  - 'https://www.udiscovermusic.com/artist/jeru-the-damaja/'
+  - >-
+    http://www.subotage.com/artist/group-home-jeru-the-damaja-afu-ra-dec-jan-2010/
+  - 'https://www.clashmusic.com/features/in-conversation-jeru-the-damaja/'
+  - 'https://www.whomag.net/jeru-the-damaja/'
+  - >-
+    https://www.blackhistorymonth.org.uk/article/listings/region/camden/jeru-the-damaja/
+  - 'https://www.imdb.com/name/nm0204964/bio/'
 spotify_data:
   followers: 259478
   id: 6CsOL9C9iLL0eWKINlDxzQ
   popularity: 49
-  url: https://open.spotify.com/artist/6CsOL9C9iLL0eWKINlDxzQ
+  url: 'https://open.spotify.com/artist/6CsOL9C9iLL0eWKINlDxzQ'
 status: active
 title: Jeru Damaja
-
+artist_type: person
 ---
 
 ![](jeru_damaja.jpg)

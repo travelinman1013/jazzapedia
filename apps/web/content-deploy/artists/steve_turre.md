@@ -1,70 +1,70 @@
 ---
-title: steve turre
+title: Steve Turre
 wiki_slug: steve-turre
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1948-09-12'
-birth_place: Omaha
+birth_place: 'Omaha, Nebraska, United States'
 genres:
-- latin jazz
-- jazz funk
-- hard bop
-- jazz
+  - latin jazz
+  - jazz funk
+  - hard bop
+  - jazz
 instruments:
-- trombone
-- percussion
-- background vocals
-associated_acts:
-- begin: '1985'
-  end: ''
-  instruments:
   - trombone
-  mbid: 9dd212dd-2af1-4b41-b050-38b53a3f61a8
-  name: The Saturday Night Live Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e2a0c084-0648-4ba0-805d-b61e39d7a9b3
-  name: Mingus Big Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 148e4af5-16ae-4cd8-b769-6d5d23027713
-  name: The Dizzy Gillespie United Nation All Star Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 76071679-33e8-41ce-90c8-267a3b95c248
-  name: Lester Bowie’s Brass Fantasy
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 33938aa1-5f6e-4559-936f-9ca75db6b829
-  name: Dizzy Gillespie-Phil Woods All Stars
-- begin: ''
-  end: ''
-  instruments:
   - percussion
-  mbid: 74f67fe2-83de-46d2-bdf8-6176acbacc13
-  name: Roland Kirk Sextet
-- begin: ''
-  end: ''
-  instruments:
-  - trombone
-  mbid: 74f67fe2-83de-46d2-bdf8-6176acbacc13
-  name: Roland Kirk Sextet
-- begin: ''
-  end: ''
-  instruments:
-  - trombone
-  mbid: 10a420a9-a424-455f-b8d8-4e63d4b66bb1
-  name: Lester Bowie’s New York Organ Ensemble
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e5ddd62f-ab41-407f-b57f-bff04778dea7
-  name: Steve Turre Quartet
+  - background vocals
+associated_acts:
+  - begin: '1985'
+    end: ''
+    instruments:
+      - trombone
+    mbid: 9dd212dd-2af1-4b41-b050-38b53a3f61a8
+    name: The Saturday Night Live Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e2a0c084-0648-4ba0-805d-b61e39d7a9b3
+    name: Mingus Big Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 148e4af5-16ae-4cd8-b769-6d5d23027713
+    name: The Dizzy Gillespie United Nation All Star Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 76071679-33e8-41ce-90c8-267a3b95c248
+    name: Lester Bowie’s Brass Fantasy
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 33938aa1-5f6e-4559-936f-9ca75db6b829
+    name: Dizzy Gillespie-Phil Woods All Stars
+  - begin: ''
+    end: ''
+    instruments:
+      - percussion
+    mbid: 74f67fe2-83de-46d2-bdf8-6176acbacc13
+    name: Roland Kirk Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - trombone
+    mbid: 74f67fe2-83de-46d2-bdf8-6176acbacc13
+    name: Roland Kirk Sextet
+  - begin: ''
+    end: ''
+    instruments:
+      - trombone
+    mbid: 10a420a9-a424-455f-b8d8-4e63d4b66bb1
+    name: Lester Bowie’s New York Organ Ensemble
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e5ddd62f-ab41-407f-b57f-bff04778dea7
+    name: Steve Turre Quartet
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/steve_turre.jpg
   caption: steve turre
@@ -86,57 +86,58 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Ray Charles
-  - Art Blakey
-  - Herbie Hancock
-  - Mongo Santamaria
-  - Saturday Night Live Band
+    - Ray Charles
+    - Art Blakey
+    - Herbie Hancock
+    - Mongo Santamaria
+    - Saturday Night Live Band
   influenced:
-  - Robin Eubanks
-  - Ryan Keberle
+    - Robin Eubanks
+    - Ryan Keberle
   mentors:
-  - Woody Shaw
-  - Rahsaan Roland Kirk
+    - Woody Shaw
+    - Rahsaan Roland Kirk
 spotify_data:
   followers: 6592
   id: 1fJEAxQLhUQdBmUjsj3vIF
   popularity: 20
-  url: https://open.spotify.com/artist/1fJEAxQLhUQdBmUjsj3vIF
+  url: 'https://open.spotify.com/artist/1fJEAxQLhUQdBmUjsj3vIF'
 discography_enriched: true
 top_tracks:
-- 'Running Away (Stir It Up: The Music Of Bob Marley)'
-- Montuno Caracol (Rhythm Within)
-- Hambone (Then & Now)
-- From Moment To Moment (Time Is Right)
-- Asia Mood (Tito's Idea)
-- 'I Shot The Sheriff (Stir It Up: The Music Of Bob Marley)'
-- Exploration (Sanctified Shells)
-- Morning (Rhythm Within)
-- Spirit Man (Sanctified Shells)
-- Afro Blue (Afro Blue)
+  - 'Running Away (Stir It Up: The Music Of Bob Marley)'
+  - Montuno Caracol (Rhythm Within)
+  - Hambone (Then & Now)
+  - From Moment To Moment (Time Is Right)
+  - Asia Mood (Tito's Idea)
+  - 'I Shot The Sheriff (Stir It Up: The Music Of Bob Marley)'
+  - Exploration (Sanctified Shells)
+  - Morning (Rhythm Within)
+  - Spirit Man (Sanctified Shells)
+  - Afro Blue (Afro Blue)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1751f9e8-e0b5-4d3c-99b6-d93e0e1f4895
-  spotify: https://open.spotify.com/artist/1fJEAxQLhUQdBmUjsj3vIF
-  wikipedia: https://en.wikipedia.org/wiki/Steve_Turre
+  musicbrainz: 'https://musicbrainz.org/artist/1751f9e8-e0b5-4d3c-99b6-d93e0e1f4895'
+  spotify: 'https://open.spotify.com/artist/1fJEAxQLhUQdBmUjsj3vIF'
+  wikipedia: 'https://en.wikipedia.org/wiki/Steve_Turre'
 image_path: 03_Resources/source_material/ArtistPortraits/steve_turre.jpg
 biography_enhanced_at: '2025-11-06T13:31:57.273262'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Steve_Turre
-- https://steveturre.com/about/
-- https://latinjazznet.com/reviews/albums/steve-turre-the-bones-of-art/
-- https://jazzempowers.org/steve-turre
-- https://thejerseysound.com/history/steve-turre
+  - 'https://en.wikipedia.org/wiki/Steve_Turre'
+  - 'https://steveturre.com/about/'
+  - 'https://latinjazznet.com/reviews/albums/steve-turre-the-bones-of-art/'
+  - 'https://jazzempowers.org/steve-turre'
+  - 'https://thejerseysound.com/history/steve-turre'
 network_extracted: true
 entry_created: '2025-11-06T13:31:57.273285'
 last_updated: '2025-12-23T08:16:16.155386'
 gender: Male
 musicbrainz_id: 1751f9e8-e0b5-4d3c-99b6-d93e0e1f4895
 tags:
-- hard bop
-- jazz
-- jazz fusion
+  - hard bop
+  - jazz
+  - jazz fusion
+origin: 'San Francisco Bay Area, California, United States'
 ---
 
 ![](steve_turre.jpg)

@@ -1,45 +1,45 @@
 ---
-title: MANNY ALBAM
+title: Manny Albam
 wiki_slug: manny-albam
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1922-06-24'
-birth_place: Samaná
+birth_place: 'Samaná, Dominican Republic, Country'
 death_date: '2001-10-02'
 genres:
-- jazz
-- big band
-- hard bop
+  - jazz
+  - big band
+  - hard bop
 instruments:
-- original
-- eponymous
+  - original
+  - eponymous
 associated_acts:
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 0ff84e35-a334-419e-bbaa-2eb643894899
-  name: Manny Albam & His Jazz Greats
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: cad577a3-5842-4f6b-9c5c-7840fbe7d64a
-  name: Manny Albam and His Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: d468de5e-a3f5-4d2e-8887-e63363876644
-  name: Manny Albam, Ernie Wilkins & Their Orchestra
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 2696a003-e61d-4825-8973-7f3ee83835b8
-  name: Manny Albam Big Band
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 0ff84e35-a334-419e-bbaa-2eb643894899
+    name: Manny Albam & His Jazz Greats
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: cad577a3-5842-4f6b-9c5c-7840fbe7d64a
+    name: Manny Albam and His Orchestra
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: d468de5e-a3f5-4d2e-8887-e63363876644
+    name: 'Manny Albam, Ernie Wilkins & Their Orchestra'
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 2696a003-e61d-4825-8973-7f3ee83835b8
+    name: Manny Albam Big Band
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/manny_albam.jpg
   caption: MANNY ALBAM
@@ -62,59 +62,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Count Basie
-  - Stan Kenton
-  - Leonard Bernstein
-  - Charlie Barnet
-  - Woody Herman
-  - Stan Getz
-  - Bob Brookmeyer
+    - Count Basie
+    - Stan Kenton
+    - Leonard Bernstein
+    - Charlie Barnet
+    - Woody Herman
+    - Stan Getz
+    - Bob Brookmeyer
   influenced:
-  - Phil Woods
-  - Joe Lovano
-  - BMI Jazz Composers Workshop students
+    - Phil Woods
+    - Joe Lovano
+    - BMI Jazz Composers Workshop students
   mentors:
-  - Budd Johnson
-  - Tibor Serly
+    - Budd Johnson
+    - Tibor Serly
 spotify_data:
   followers: 485
   id: 2sFFDtPmEgZ7cytvnQvMPp
   popularity: 12
-  url: https://open.spotify.com/artist/2sFFDtPmEgZ7cytvnQvMPp
+  url: 'https://open.spotify.com/artist/2sFFDtPmEgZ7cytvnQvMPp'
 discography_enriched: true
 top_tracks:
-- April in Paris - 1996 Remastered (Body & Soul)
-- He Glides Again
-- Thruway (Jazz New York)
-- On A Mist (Jazz New York)
-- Minor Matters
-- Steam Shuffle
-- My Old Kentucky Home
-- Lemon Twist
-- America / I Feel Pretty / One Hand, One Heart
-- Something's Coming
+  - April in Paris - 1996 Remastered (Body & Soul)
+  - He Glides Again
+  - Thruway (Jazz New York)
+  - On A Mist (Jazz New York)
+  - Minor Matters
+  - Steam Shuffle
+  - My Old Kentucky Home
+  - Lemon Twist
+  - 'America / I Feel Pretty / One Hand, One Heart'
+  - Something's Coming
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b1321c66-712c-46bd-b8af-df0abe0d87d1
-  spotify: https://open.spotify.com/artist/2sFFDtPmEgZ7cytvnQvMPp
-  wikipedia: https://en.wikipedia.org/wiki/Manny_Albam
+  musicbrainz: 'https://musicbrainz.org/artist/b1321c66-712c-46bd-b8af-df0abe0d87d1'
+  spotify: 'https://open.spotify.com/artist/2sFFDtPmEgZ7cytvnQvMPp'
+  wikipedia: 'https://en.wikipedia.org/wiki/Manny_Albam'
 image_path: 03_Resources/source_material/ArtistPortraits/manny_albam.jpg
 biography_enhanced_at: '2025-11-17T10:50:29.507016'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Manny_Albam
-- https://www.mannyalbammusic.com/biography/
-- https://www.bmi.com/news/entry/20011009_jazz_great_manny_albam_dies_at_79
-- https://www.spaceagepop.com/albam.htm
+  - 'https://en.wikipedia.org/wiki/Manny_Albam'
+  - 'https://www.mannyalbammusic.com/biography/'
+  - 'https://www.bmi.com/news/entry/20011009_jazz_great_manny_albam_dies_at_79'
+  - 'https://www.spaceagepop.com/albam.htm'
 network_extracted: true
 entry_created: '2025-11-17T10:50:29.507027'
 last_updated: '2025-12-23T08:16:12.593605'
 gender: Male
 musicbrainz_id: b1321c66-712c-46bd-b8af-df0abe0d87d1
 tags:
-- 2008 universal fire victim
-- easy listening
-- jazz
+  - 2008 universal fire victim
+  - easy listening
+  - jazz
+is_active: false
+origin: 'New York City, New York, United States'
 ---
 
 ![](manny_albam.jpg)

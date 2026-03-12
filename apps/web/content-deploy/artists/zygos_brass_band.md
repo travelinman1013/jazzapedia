@@ -3,34 +3,37 @@ biography_enhanced_at: '2026-01-11T02:16:39.296286'
 enhancement_provider: perplexity
 entry_created: '2026-01-11T02:16:39.296310'
 external_urls:
-  spotify: https://open.spotify.com/artist/7quuCVsDES04NBPVSpjvBy
+  spotify: 'https://open.spotify.com/artist/7quuCVsDES04NBPVSpjvBy'
   wikipedia: ''
 genres:
-- brass band
+  - brass band
 image_path: 03_Resources/source_material/ArtistPortraits/zygos_brass_band.jpg
 last_updated: '2026-01-11T02:16:39.296313'
 musical_connections:
   collaborators:
-  - Louisiana Music Factory
+    - Louisiana Music Factory
   influenced: []
   mentors:
-  - New Orleans brass band and second line tradition
+    - New Orleans brass band and second line tradition
 network_extracted: true
-origin: France (New Orleans–influenced brass band project; precise city and region
-  not specified in available sources)
+origin: >-
+  France (New Orleans–influenced brass band project; precise city and region not
+  specified in available sources)
 primary_source: perplexity
 research_sources:
-- https://www.louisianamusicfactory.com/product/zygos-brass-band-from-and-in/
-- https://www.youtube.com/user/zygosbrassband
-- https://www.reverbnation.com/page_object/page_object_bio_popup/artist_3809467
-- https://www.youtube.com/watch?v=6IIgPcReTF0
+  - 'https://www.louisianamusicfactory.com/product/zygos-brass-band-from-and-in/'
+  - 'https://www.youtube.com/user/zygosbrassband'
+  - >-
+    https://www.reverbnation.com/page_object/page_object_bio_popup/artist_3809467
+  - 'https://www.youtube.com/watch?v=6IIgPcReTF0'
 spotify_data:
   followers: 159
   id: 7quuCVsDES04NBPVSpjvBy
   popularity: 1
-  url: https://open.spotify.com/artist/7quuCVsDES04NBPVSpjvBy
+  url: 'https://open.spotify.com/artist/7quuCVsDES04NBPVSpjvBy'
 status: active
 title: Zygos Brass Band
+artist_type: band
 ---
 
 ![](zygos_brass_band.jpg)

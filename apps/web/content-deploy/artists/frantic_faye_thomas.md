@@ -1,40 +1,42 @@
 ---
 biography_enhanced_at: '2026-01-05T07:57:52.640472'
-birth_place: Memphis, Tennessee, United States
+birth_place: 'Memphis, Tennessee, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-05T07:57:52.640479'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/d7fffc7f-6ea3-4119-8bee-3c1549627e31
-  spotify: https://open.spotify.com/artist/75eSkohm7BkdaY0POaTLf4
+  musicbrainz: 'https://musicbrainz.org/artist/d7fffc7f-6ea3-4119-8bee-3c1549627e31'
+  spotify: 'https://open.spotify.com/artist/75eSkohm7BkdaY0POaTLf4'
   wikipedia: ''
 genres:
-- boogie-woogie
+  - boogie-woogie
 image_path: ''
 last_updated: '2026-01-05T07:57:52.640480'
 musical_connections:
   collaborators:
-  - Red Callender
-  - Lee Young
-  - Leonard Bibb
+    - Red Callender
+    - Lee Young
+    - Leonard Bibb
   influenced: []
   mentors:
-  - Earl Carroll
+    - Earl Carroll
 musicbrainz_id: d7fffc7f-6ea3-4119-8bee-3c1549627e31
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.uncamarvy.com/FranticFayThomas/franticfaythomas.html
-- http://falseducks.com/theblahg/?tag=fay-thomas
-- https://www.last.fm/music/Frantic+Faye+Thomas/+wiki
-- https://www.imdb.com/name/nm1151355/
-- https://www.vocalgroupharmony.com/ImInTown.htm
+  - 'https://www.uncamarvy.com/FranticFayThomas/franticfaythomas.html'
+  - 'http://falseducks.com/theblahg/?tag=fay-thomas'
+  - 'https://www.last.fm/music/Frantic+Faye+Thomas/+wiki'
+  - 'https://www.imdb.com/name/nm1151355/'
+  - 'https://www.vocalgroupharmony.com/ImInTown.htm'
 spotify_data:
   followers: 29
   id: 75eSkohm7BkdaY0POaTLf4
   popularity: 0
-  url: https://open.spotify.com/artist/75eSkohm7BkdaY0POaTLf4
+  url: 'https://open.spotify.com/artist/75eSkohm7BkdaY0POaTLf4'
 status: active
 title: Frantic Faye Thomas
+birth_date: '1922-09-14'
+artist_type: person
 ---
 
 ![]()

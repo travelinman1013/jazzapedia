@@ -1,49 +1,55 @@
 ---
 biography_enhanced_at: '2026-01-08T01:47:08.646734'
-birth_place: Los Angeles, California, United States
+birth_place: 'Los Angeles, California, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-08T01:47:08.646739'
 external_urls:
-  spotify: https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX
-  wikipedia: https://en.wikipedia.org/wiki/Roy_Ayers
+  spotify: 'https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX'
+  wikipedia: 'https://en.wikipedia.org/wiki/Roy_Ayers'
 genres:
-- neo soul
-- r&b
+  - neo soul
+  - r&b
 image_path: 03_Resources/source_material/ArtistPortraits/erykah_badu_roy_ayers.jpg
 last_updated: '2026-01-08T01:47:08.646740'
 musical_connections:
   collaborators:
-  - Erykah Badu
-  - Fela Kuti
-  - Guru
-  - RAMP (Roy Ayers Music Productions)
-  - Masters at Work and Kerri Chandler
+    - Erykah Badu
+    - Fela Kuti
+    - Guru
+    - RAMP (Roy Ayers Music Productions)
+    - Masters at Work and Kerri Chandler
   influenced:
-  - Erykah Badu
-  - Mary J. Blige
-  - Eric Benét
-  - A Tribe Called Quest, 50 Cent, Tupac, Ice Cube (and broader hip‑hop community)
+    - Erykah Badu
+    - Mary J. Blige
+    - Eric Benét
+    - >-
+      A Tribe Called Quest, 50 Cent, Tupac, Ice Cube (and broader hip‑hop
+      community)
   mentors:
-  - Lionel Hampton
-  - Herbie Mann
-  - Leonard Feather
+    - Lionel Hampton
+    - Herbie Mann
+    - Leonard Feather
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://www.thehistorymakers.org/biography/roy-ayers
-- https://en.wikipedia.org/wiki/Roy_Ayers
-- http://www.royayers.net
-- https://www.sfjazz.org/onthecorner/portrait-of-roy-ayers/
-- https://bbemusic.com/artist/roy-ayers
-- https://www.jazz24.org/2025-03-05/roy-ayers-whose-everybody-loves-the-sunshine-charmed-generations-dies-at-84
-- https://www.revolt.tv/article/hip-hop-artists-reflect-on-roy-ayers-legacy-after-his-passing
+  - 'https://www.thehistorymakers.org/biography/roy-ayers'
+  - 'https://en.wikipedia.org/wiki/Roy_Ayers'
+  - 'http://www.royayers.net'
+  - 'https://www.sfjazz.org/onthecorner/portrait-of-roy-ayers/'
+  - 'https://bbemusic.com/artist/roy-ayers'
+  - >-
+    https://www.jazz24.org/2025-03-05/roy-ayers-whose-everybody-loves-the-sunshine-charmed-generations-dies-at-84
+  - >-
+    https://www.revolt.tv/article/hip-hop-artists-reflect-on-roy-ayers-legacy-after-his-passing
 spotify_data:
   followers: 3296708
   id: 7IfculRW2WXyzNQ8djX8WX
   popularity: 69
-  url: https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX
+  url: 'https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX'
 status: active
-title: Erykah Badu, Roy Ayers
+title: Roy Ayers
+birth_date: '1940-09-10'
+artist_type: person
 ---
 
 ![](erykah_badu_roy_ayers.jpg)

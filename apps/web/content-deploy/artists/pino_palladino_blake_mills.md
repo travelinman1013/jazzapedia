@@ -3,46 +3,52 @@ biography_enhanced_at: '2026-01-10T01:07:34.008560'
 enhancement_provider: perplexity
 entry_created: '2026-01-10T01:07:34.008566'
 external_urls:
-  spotify: https://open.spotify.com/artist/4rugSlWyk8zqDjGcjSrAvV
-  wikipedia: https://en.wikipedia.org/wiki/Pino_Palladino
+  spotify: 'https://open.spotify.com/artist/4rugSlWyk8zqDjGcjSrAvV'
+  wikipedia: 'https://en.wikipedia.org/wiki/Pino_Palladino'
 genres:
-- classical crossover
+  - classical crossover
 image_path: ''
 last_updated: '2026-01-10T01:07:34.008567'
 musical_connections:
   collaborators:
-  - Sam Gendel
-  - Chris Dave
-  - Larry Goldings
-  - Rob Moose
-  - John Legend
+    - Sam Gendel
+    - Chris Dave
+    - Larry Goldings
+    - Rob Moose
+    - John Legend
   influenced:
-  - Contemporary bassists in rock, pop, and neo‑soul scenes
+    - 'Contemporary bassists in rock, pop, and neo‑soul scenes'
   mentors:
-  - Paul Young
-  - D’Angelo
-  - Simon Dawes (with Taylor Goldsmith)
+    - Paul Young
+    - D’Angelo
+    - Simon Dawes (with Taylor Goldsmith)
 network_extracted: true
-origin: Cardiff, Wales, United Kingdom (Pino Palladino’s birthplace and primary origin
-  referenced in the duo’s story; Blake Mills is from Santa Monica, California, United
-  States)
+origin: >-
+  Cardiff, Wales, United Kingdom (Pino Palladino’s birthplace and primary origin
+  referenced in the duo’s story; Blake Mills is from Santa Monica, California,
+  United States)
 primary_source: perplexity
 research_sources:
-- https://lpr.com/lpr_events/pino-palladino/
-- https://www.premierguitar.com/artists/pino-palladino-and-blake-mills
-- https://www.guitarworld.com/artists/bassists/pino-palladino-ernie-ball-music-man-signature-stingray
-- https://sogrooveoficial.com/the-life-and-career-of-bassist-pino-palladino/
-- https://www.sweetwater.com/insync/the-musicians-musician-pino-palladino/
-- https://en.wikipedia.org/wiki/Pino_Palladino
-- https://testpressing.org/magazine/test-pressing-in-conversation-with-pino-palladino-and-blake-mills
-- https://www.allaboutjazz.com/pino-palladino-the-craftsman-from-wales/
+  - 'https://lpr.com/lpr_events/pino-palladino/'
+  - 'https://www.premierguitar.com/artists/pino-palladino-and-blake-mills'
+  - >-
+    https://www.guitarworld.com/artists/bassists/pino-palladino-ernie-ball-music-man-signature-stingray
+  - 'https://sogrooveoficial.com/the-life-and-career-of-bassist-pino-palladino/'
+  - 'https://www.sweetwater.com/insync/the-musicians-musician-pino-palladino/'
+  - 'https://en.wikipedia.org/wiki/Pino_Palladino'
+  - >-
+    https://testpressing.org/magazine/test-pressing-in-conversation-with-pino-palladino-and-blake-mills
+  - 'https://www.allaboutjazz.com/pino-palladino-the-craftsman-from-wales/'
 spotify_data:
   followers: 126
   id: 4rugSlWyk8zqDjGcjSrAvV
   popularity: 3
-  url: https://open.spotify.com/artist/4rugSlWyk8zqDjGcjSrAvV
+  url: 'https://open.spotify.com/artist/4rugSlWyk8zqDjGcjSrAvV'
 status: active
 title: Pino Palladino Blake Mills
+birth_place: 'Cardiff, Wales, United Kingdom'
+birth_date: '1957'
+artist_type: band
 ---
 
 ![]()

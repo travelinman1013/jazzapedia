@@ -4,13 +4,14 @@ wiki_slug: vital-information-nyc-edition-steve-smith
 schema_version: 2
 status: active
 genres:
-- jazz fusion
+  - jazz fusion
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/vital_information_nyc_edition_and_steve_smith.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/vital_information_nyc_edition_and_steve_smith.jpg
   caption: Vital Information NYC Edition & Steve Smith
   background: solo_singer
 audio_profile:
-  tempo_avg: 120.0
+  tempo_avg: 120
   energy_avg: 0.668
   valence_avg: 0.49
   danceability_avg: 0.486
@@ -24,61 +25,65 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Journey
-  - Janek Gwizdala
-  - Manuel Valera
-  - George Garzone
-  - Mike Mainieri
-  - Steps Ahead
-  - Mike Stern
-  - Ahmad Jamal
-  - Hiromi Uehara
-  - Dave Liebman
-  - Larry Coryell
-  - Zakir Hussain
-  - Bryan Adams
-  - Mariah Carey
+    - Journey
+    - Janek Gwizdala
+    - Manuel Valera
+    - George Garzone
+    - Mike Mainieri
+    - Steps Ahead
+    - Mike Stern
+    - Ahmad Jamal
+    - Hiromi Uehara
+    - Dave Liebman
+    - Larry Coryell
+    - Zakir Hussain
+    - Bryan Adams
+    - Mariah Carey
   influenced: []
   mentors:
-  - Alan Dawson
-  - Gary Chaffee
-  - Jean-Luc Ponty
+    - Alan Dawson
+    - Gary Chaffee
+    - Jean-Luc Ponty
 spotify_data:
   followers: 2147
   id: 7cxYjpsI4Sjka1kjFShC80
   popularity: 9
-  url: https://open.spotify.com/artist/7cxYjpsI4Sjka1kjFShC80
+  url: 'https://open.spotify.com/artist/7cxYjpsI4Sjka1kjFShC80'
 discography_enriched: true
 top_tracks:
-- Three Of A Kind (New Perspective)
-- The Perfect Date (New Perspective)
-- Eight +Five (New Perspective)
-- Don't Stop Believin' (New Perspective)
-- Sumo (New Perspective)
-- Who's Crying Now (New Perspective)
-- Josef The Alchemist (New Perspective)
-- Open Arms (New Perspective)
-- Don't Stop Believin' (Don't Stop Believin')
-- Charukeshi Express (New Perspective)
+  - Three Of A Kind (New Perspective)
+  - The Perfect Date (New Perspective)
+  - Eight +Five (New Perspective)
+  - Don't Stop Believin' (New Perspective)
+  - Sumo (New Perspective)
+  - Who's Crying Now (New Perspective)
+  - Josef The Alchemist (New Perspective)
+  - Open Arms (New Perspective)
+  - Don't Stop Believin' (Don't Stop Believin')
+  - Charukeshi Express (New Perspective)
 external_urls:
-  spotify: https://open.spotify.com/artist/7cxYjpsI4Sjka1kjFShC80
-  wikipedia: https://en.wikipedia.org/wiki/Vital_Information
-image_path: 03_Resources/source_material/ArtistPortraits/vital_information_nyc_edition_and_steve_smith.jpg
+  spotify: 'https://open.spotify.com/artist/7cxYjpsI4Sjka1kjFShC80'
+  wikipedia: 'https://en.wikipedia.org/wiki/Vital_Information'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/vital_information_nyc_edition_and_steve_smith.jpg
 biography_enhanced_at: '2025-11-29T06:53:31.456667'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://vitalinformation.com/history.htm
-- https://www.paris-move.com/reviews/steve-smith-vital-information-new-perspective/
-- https://glidemagazine.com/291378/drumming-legend-steve-smith-talks-vital-informations-new-album-making-jazz-his-home-base-past-journey-triumphs-interview/
-- https://en.wikipedia.org/wiki/Vital_Information
-- https://jazztimes.com/reviews/albums/steve-smith-vital-information-nyc/
-- https://vitalinformation.com/projects.htm
-- https://vitalinformation.com
+  - 'https://vitalinformation.com/history.htm'
+  - >-
+    https://www.paris-move.com/reviews/steve-smith-vital-information-new-perspective/
+  - >-
+    https://glidemagazine.com/291378/drumming-legend-steve-smith-talks-vital-informations-new-album-making-jazz-his-home-base-past-journey-triumphs-interview/
+  - 'https://en.wikipedia.org/wiki/Vital_Information'
+  - 'https://jazztimes.com/reviews/albums/steve-smith-vital-information-nyc/'
+  - 'https://vitalinformation.com/projects.htm'
+  - 'https://vitalinformation.com'
 network_extracted: true
 entry_created: '2025-11-29T06:53:31.456682'
 last_updated: '2025-12-23T08:16:17.939312'
-origin: Boston, Massachusetts, United States (origin/based)
+origin: 'Boston, Massachusetts, United States (origin/based)'
+artist_type: band
 ---
 
 ![](vital_information_nyc_edition_and_steve_smith.jpg)

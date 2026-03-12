@@ -2,19 +2,19 @@
 title: Gnarls Barkley
 wiki_slug: gnarls-barkley
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
-birth_date: '2006'
+birth_date: '1974-05-30'
 genres: []
 instruments:
-- original
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/gnarls_barkley.jpg
   caption: Gnarls Barkley
   background: group_or_band
   born: '2006'
 audio_profile:
-  tempo_avg: 122.0
+  tempo_avg: 122
   energy_avg: 0.749
   valence_avg: 0.663
   danceability_avg: 0.676
@@ -28,68 +28,69 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - CeeLo Green
-  - Danger Mouse (Brian Burton)
-  - Ben H. Allen
-  - Damon Albarn
-  - MF Doom
+    - CeeLo Green
+    - Danger Mouse (Brian Burton)
+    - Ben H. Allen
+    - Damon Albarn
+    - MF Doom
   influenced: []
   mentors:
-  - Goodie Mob
-  - Timbaland
+    - Goodie Mob
+    - Timbaland
 spotify_data:
   followers: 603556
   id: 5SbkVQYYzlw1kte75QIabH
   popularity: 65
-  url: https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH
+  url: 'https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH'
 discography_enriched: true
 top_tracks:
-- Crazy (St. Elsewhere)
-- Crazy (St. Elsewhere)
-- Who's Gonna Save My Soul (The Odd Couple)
-- Crazy - Single Version (Crazy)
-- Smiley Faces (St. Elsewhere)
-- Who's Gonna Save My Soul - Original Mix (The Odd Couple)
-- Going On (The Odd Couple)
-- Smiley Faces (St. Elsewhere)
-- Gone Daddy Gone (St. Elsewhere)
-- Going On (The Odd Couple)
+  - Crazy (St. Elsewhere)
+  - Crazy (St. Elsewhere)
+  - Who's Gonna Save My Soul (The Odd Couple)
+  - Crazy - Single Version (Crazy)
+  - Smiley Faces (St. Elsewhere)
+  - Who's Gonna Save My Soul - Original Mix (The Odd Couple)
+  - Going On (The Odd Couple)
+  - Smiley Faces (St. Elsewhere)
+  - Gone Daddy Gone (St. Elsewhere)
+  - Going On (The Odd Couple)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a47c3aa2-7d87-475c-a2c7-1e2047dafb09
-  spotify: https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH
+  musicbrainz: 'https://musicbrainz.org/artist/a47c3aa2-7d87-475c-a2c7-1e2047dafb09'
+  spotify: 'https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/gnarls_barkley.jpg
 biography_enhanced_at: '2025-10-31T08:12:19.620101'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Atlanta Magazine - How Gnarls Barkley went "Crazy"
-- Encyclopedia.com - Gnarls Barkley
-- Last.fm - Gnarls Barkley biography
-- Sound on Sound - Gnarls Barkley & The Atlanta Sound
-- YouTube Official Channel - Gnarls Barkley
+  - Atlanta Magazine - How Gnarls Barkley went "Crazy"
+  - Encyclopedia.com - Gnarls Barkley
+  - Last.fm - Gnarls Barkley biography
+  - Sound on Sound - Gnarls Barkley & The Atlanta Sound
+  - YouTube Official Channel - Gnarls Barkley
 network_extracted: true
 entry_created: '2025-10-31T08:12:19.620112'
 last_updated: '2025-12-23T08:16:09.254795'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 4b356f05-bcc2-4544-925b-fd9a1bf708be
-  name: Danger Mouse
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: 2c69465c-0f76-45ce-90a2-1ed0fdacc997
-  name: CeeLo Green
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 4b356f05-bcc2-4544-925b-fd9a1bf708be
+    name: Danger Mouse
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: 2c69465c-0f76-45ce-90a2-1ed0fdacc997
+    name: CeeLo Green
 musicbrainz_id: a47c3aa2-7d87-475c-a2c7-1e2047dafb09
-origin: Atlanta
+origin: 'Atlanta, Georgia, United States'
 tags:
-- alternative hip hop
-- alternative r&b
-- experimental hip hop
+  - alternative hip hop
+  - alternative r&b
+  - experimental hip hop
+birth_place: 'Atlanta, Georgia, United States'
 ---
 
 ![](gnarls_barkley.jpg)

@@ -1,12 +1,13 @@
 ---
-title: WILLIE LEWIS AND HIS ENTERTAINERS
+title: Willie Lewis and His Entertainers
 wiki_slug: willie-lewis-and-his-entertainers
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/willie_lewis_and_his_entertainers.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/willie_lewis_and_his_entertainers.jpg
   caption: WILLIE LEWIS AND HIS ENTERTAINERS
   background: group_or_band
 audio_profile:
@@ -24,58 +25,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Benny Carter
-  - Bill Coleman
-  - Herman Chittison
-  - Garnet Clark
-  - Bobby Martin
-  - June Cole
+    - Benny Carter
+    - Bill Coleman
+    - Herman Chittison
+    - Garnet Clark
+    - Bobby Martin
+    - June Cole
   influenced:
-  - European jazz musicians
+    - European jazz musicians
   mentors:
-  - Will Marion Cook
-  - Sam Wooding
+    - Will Marion Cook
+    - Sam Wooding
 spotify_data:
   followers: 0
   id: 2OASyDH1lYApMGS7S91XYE
   popularity: 0
-  url: https://open.spotify.com/artist/2OASyDH1lYApMGS7S91XYE
+  url: 'https://open.spotify.com/artist/2OASyDH1lYApMGS7S91XYE'
 discography_enriched: true
 top_tracks:
-- Memphis Blues (A Taste of 1938)
+  - Memphis Blues (A Taste of 1938)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/19804ab8-23e8-46d6-8913-2883bc13cd3e
-  spotify: https://open.spotify.com/artist/2OASyDH1lYApMGS7S91XYE
-  wikipedia: https://en.wikipedia.org/wiki/Willie_Lewis
+  musicbrainz: 'https://musicbrainz.org/artist/19804ab8-23e8-46d6-8913-2883bc13cd3e'
+  spotify: 'https://open.spotify.com/artist/2OASyDH1lYApMGS7S91XYE'
+  wikipedia: 'https://en.wikipedia.org/wiki/Willie_Lewis'
 image_path: ''
 biography_enhanced_at: '2025-11-06T13:22:24.089473'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Willie_Lewis
-- https://wbssmedia.com/artists/detail/1221
-- https://www.tshaonline.org/handbook/entries/lewis-william-t
-- https://musicbrainz.org/release/c636eeea-a3cf-47df-a077-1afb8bba1fbc
-- https://last.fm/music/Willie+Lewis/+wiki
+  - 'https://en.wikipedia.org/wiki/Willie_Lewis'
+  - 'https://wbssmedia.com/artists/detail/1221'
+  - 'https://www.tshaonline.org/handbook/entries/lewis-william-t'
+  - 'https://musicbrainz.org/release/c636eeea-a3cf-47df-a077-1afb8bba1fbc'
+  - 'https://last.fm/music/Willie+Lewis/+wiki'
 network_extracted: true
 entry_created: '2025-11-06T13:22:24.089519'
 last_updated: '2025-12-23T08:16:18.199555'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 69a16f83-f034-41ed-8922-6f63b3823b91
-  name: Willie Lewis
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 055cdea1-dd8b-41f4-a8a7-d709db843e5c
-  name: John Mitchell
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 69a16f83-f034-41ed-8922-6f63b3823b91
+    name: Willie Lewis
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 055cdea1-dd8b-41f4-a8a7-d709db843e5c
+    name: John Mitchell
 musicbrainz_id: 19804ab8-23e8-46d6-8913-2883bc13cd3e
-origin: Cleburne, Texas, United States (birthplace); Dallas, Texas, United States (grew up); Paris, France (band's main European
-  base)
+origin: >-
+  Cleburne, Texas, United States (birthplace); Dallas, Texas, United States
+  (grew up); Paris, France (band's main European base)
 tags:
-- jazz
+  - jazz
+birth_place: 'Cleburne, Texas, United States'
+birth_date: '1905-06-10'
 ---
 
 ![]()

@@ -1,16 +1,16 @@
 ---
-title: Jack White/ Alicia Keys
+title: Jack White
 wiki_slug: jack-white-alicia-keys
 schema_version: 2
 status: active
-birth_place: Detroit, Michigan, United States
+birth_place: 'Detroit, Michigan, United States'
 genres:
-- blues rock
+  - blues rock
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jack_white_alicia_keys.jpg
   caption: Jack White/ Alicia Keys
   background: solo_singer
-  origin: Detroit, Michigan, United States
+  origin: 'Detroit, Michigan, United States'
 audio_profile:
   tempo_avg: 127.2
   energy_avg: 0.708
@@ -26,47 +26,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Alicia Keys
-  - Bob Dylan
-  - Beyoncé
+    - Alicia Keys
+    - Bob Dylan
+    - Beyoncé
   influenced:
-  - Multiple female vocalists
+    - Multiple female vocalists
   mentors:
-  - Meg White
+    - Meg White
 spotify_data:
   followers: 1425436
   id: 4FZ3j1oH43e7cukCALsCwf
   popularity: 57
-  url: https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf
+  url: 'https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf'
 discography_enriched: true
 top_tracks:
-- Don't Hurt Yourself (feat. Jack White) (Lemonade)
-- Lazaretto (Lazaretto)
-- That's How I'm Feeling (No Name)
-- Another Way to Die (As I Am (Expanded Edition))
-- Conrad Tokyo (feat. Kendrick Lamar & Jack White) (We got it from Here... Thank You 4 Your service)
-- Archbishop Harold Holmes (No Name)
-- Love Is Blindness
-- Bless Yourself (No Name)
-- Old Scratch Blues (No Name)
-- Sixteen Saltines (Blunderbuss)
+  - Don't Hurt Yourself (feat. Jack White) (Lemonade)
+  - Lazaretto (Lazaretto)
+  - That's How I'm Feeling (No Name)
+  - Another Way to Die (As I Am (Expanded Edition))
+  - >-
+    Conrad Tokyo (feat. Kendrick Lamar & Jack White) (We got it from Here...
+    Thank You 4 Your service)
+  - Archbishop Harold Holmes (No Name)
+  - Love Is Blindness
+  - Bless Yourself (No Name)
+  - Old Scratch Blues (No Name)
+  - Sixteen Saltines (Blunderbuss)
 external_urls:
-  spotify: https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf
-  wikipedia: https://en.wikipedia.org/wiki/Jack_White
+  spotify: 'https://open.spotify.com/artist/4FZ3j1oH43e7cukCALsCwf'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jack_White'
 image_path: 03_Resources/source_material/ArtistPortraits/jack_white_alicia_keys.jpg
 biography_enhanced_at: '2025-12-04T08:03:21.486053'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jack_White
-- https://ultimateclassicrock.com/odd-couples-jack-white-alicia-keys/
-- https://www.youtube.com/watch?v=ufmB5Wr0w7w
-- https://faroutmagazine.co.uk/alicia-keys-and-jack-white-relationship/
-- https://composemd.com/2024/02/10/jack-white-are-you-famous-or-not/
+  - 'https://en.wikipedia.org/wiki/Jack_White'
+  - 'https://ultimateclassicrock.com/odd-couples-jack-white-alicia-keys/'
+  - 'https://www.youtube.com/watch?v=ufmB5Wr0w7w'
+  - 'https://faroutmagazine.co.uk/alicia-keys-and-jack-white-relationship/'
+  - 'https://composemd.com/2024/02/10/jack-white-are-you-famous-or-not/'
 network_extracted: true
 entry_created: '2025-12-04T08:03:21.486062'
 last_updated: '2025-12-23T08:16:10.037814'
-
+artist_type: person
 ---
 
 ![](jack_white_alicia_keys.jpg)

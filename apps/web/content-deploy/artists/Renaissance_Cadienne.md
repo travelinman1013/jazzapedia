@@ -2,11 +2,11 @@
 title: Renaissance Cadienne
 wiki_slug: renaissance-cadienne
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 birth_date: '1990'
 genres:
-- cajun
+  - cajun
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Renaissance_Cadienne.jpg
   caption: Renaissance Cadienne
@@ -27,46 +27,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Local Cajun Musicians and Dancers
+    - Local Cajun Musicians and Dancers
   influenced:
-  - Younger Cajun Musicians and Dancers
+    - Younger Cajun Musicians and Dancers
   mentors:
-  - Traditional Cajun Musicians
+    - Traditional Cajun Musicians
 spotify_data:
   followers: 30
   id: 1JGSDw7UaBnAXUCzALT7My
   popularity: 0
-  url: https://open.spotify.com/artist/1JGSDw7UaBnAXUCzALT7My
+  url: 'https://open.spotify.com/artist/1JGSDw7UaBnAXUCzALT7My'
 discography_enriched: true
 top_tracks:
-- 'Panis Angelicus (Lambilotte) (Minuit Cadien: Noël Au Pays Des Bayous)'
-- 'Noël Huron (Minuit Cadien: Noël Au Pays Des Bayous)'
-- 'Venez, Divin Messie (Minuit Cadien: Noël Au Pays Des Bayous)'
-- 'Ave Verum Corpus (Mozart) (Minuit Cadien: Noël Au Pays Des Bayous)'
-- 'Bonjour, Bonne Année (Minuit Cadien: Noël Au Pays Des Bayous)'
-- 'Il est Né, le Divin Enfant (Minuit Cadien: Noël Au Pays Des Bayous)'
-- 'Ave Maria (Schubert) (Minuit Cadien: Noël Au Pays Des Bayous)'
-- 'Adeste Fideles (Minuit Cadien: Noël Au Pays Des Bayous)'
-- 'The Christmas Two-Step (Minuit Cadien: Noël Au Pays Des Bayous)'
-- 'Mon Dieu, Bénissez La Nouvelle Année (Minuit Cadien: Noël Au Pays Des Bayous)'
+  - 'Panis Angelicus (Lambilotte) (Minuit Cadien: Noël Au Pays Des Bayous)'
+  - 'Noël Huron (Minuit Cadien: Noël Au Pays Des Bayous)'
+  - 'Venez, Divin Messie (Minuit Cadien: Noël Au Pays Des Bayous)'
+  - 'Ave Verum Corpus (Mozart) (Minuit Cadien: Noël Au Pays Des Bayous)'
+  - 'Bonjour, Bonne Année (Minuit Cadien: Noël Au Pays Des Bayous)'
+  - 'Il est Né, le Divin Enfant (Minuit Cadien: Noël Au Pays Des Bayous)'
+  - 'Ave Maria (Schubert) (Minuit Cadien: Noël Au Pays Des Bayous)'
+  - 'Adeste Fideles (Minuit Cadien: Noël Au Pays Des Bayous)'
+  - 'The Christmas Two-Step (Minuit Cadien: Noël Au Pays Des Bayous)'
+  - >-
+    Mon Dieu, Bénissez La Nouvelle Année (Minuit Cadien: Noël Au Pays Des
+    Bayous)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/71daca86-61a2-4c7b-b685-26e91b1c81e0
-  spotify: https://open.spotify.com/artist/1JGSDw7UaBnAXUCzALT7My
+  musicbrainz: 'https://musicbrainz.org/artist/71daca86-61a2-4c7b-b685-26e91b1c81e0'
+  spotify: 'https://open.spotify.com/artist/1JGSDw7UaBnAXUCzALT7My'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/Renaissance_Cadienne.jpg
 biography_enhanced_at: '2025-10-20T01:45:34.232294'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://journals.openedition.org/anglophonia/4049?lang=fr
-- https://en.wikipedia.org/wiki/Cajun_music
+  - 'https://journals.openedition.org/anglophonia/4049?lang=fr'
+  - 'https://en.wikipedia.org/wiki/Cajun_music'
 network_extracted: true
 entry_created: '2025-10-20T01:45:34.232316'
 last_updated: '2025-12-23T08:16:03.665219'
 disambiguation: Cajun performance group
 musicbrainz_enriched_at: '2025-10-21T09:42:09.657642'
 musicbrainz_id: 71daca86-61a2-4c7b-b685-26e91b1c81e0
-origin: Lafayette, Louisiana, United States
+origin: 'Lafayette, Louisiana, United States'
+birth_place: Louisiana
 ---
 
 ![](Renaissance_Cadienne.jpg)

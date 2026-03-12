@@ -1,21 +1,25 @@
 ---
-title: SI KAHN
+title: SI Kahn
 wiki_slug: si-kahn
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1944-04-23'
-birth_place: State College, Pennsylvania, United States (birthplace); Charlotte, North Carolina, United States (current residence)
+birth_place: >-
+  State College, Pennsylvania, United States (birthplace); Charlotte, North
+  Carolina, United States (current residence)
 genres: []
 instruments:
-- guitar
-- lead vocals
+  - guitar
+  - lead vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/si_kahn.jpg
   caption: SI KAHN
   background: solo_singer
   born: '1944-04-23'
-  origin: State College, Pennsylvania, United States (birthplace); Charlotte, North Carolina, United States (current residence)
+  origin: >-
+    State College, Pennsylvania, United States (birthplace); Charlotte, North
+    Carolina, United States (current residence)
 audio_profile:
   tempo_avg: 116.7
   energy_avg: 0.657
@@ -31,51 +35,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - John McCutcheon
-  - The Looping Brothers
-  - Liz Meyer and Joost van Es
+    - John McCutcheon
+    - The Looping Brothers
+    - Liz Meyer and Joost van Es
   influenced: []
   mentors:
-  - Benjamin Kahn (Father)
-  - Southern Civil Rights Movement
+    - Benjamin Kahn (Father)
+    - Southern Civil Rights Movement
 spotify_data:
   followers: 210
   id: 0WPrepv4X8A1S5lTr7UBCY
   popularity: 14
-  url: https://open.spotify.com/artist/0WPrepv4X8A1S5lTr7UBCY
+  url: 'https://open.spotify.com/artist/0WPrepv4X8A1S5lTr7UBCY'
 discography_enriched: true
 top_tracks:
-- Prove (with Sikán) (Prove (with Sikán))
-- G.I.L.T.A.Y. (Afraid to Die)
-- Como te Quiero (Afraid to Die)
-- Se me hace (Se me hace)
-- Tu Secreto (Tu Secreto)
-- Plz Dnt Go (Remastered) (Afraid to Die)
-- Intro (Afraid to Die) (Afraid to Die)
-- Lento (Pacific Coast Heina) (Afraid to Die)
-- Sleep Alone (Remastered) (Afraid to Die)
-- Sé Que Te Fallé (Afraid to Die)
+  - Prove (with Sikán) (Prove (with Sikán))
+  - G.I.L.T.A.Y. (Afraid to Die)
+  - Como te Quiero (Afraid to Die)
+  - Se me hace (Se me hace)
+  - Tu Secreto (Tu Secreto)
+  - Plz Dnt Go (Remastered) (Afraid to Die)
+  - Intro (Afraid to Die) (Afraid to Die)
+  - Lento (Pacific Coast Heina) (Afraid to Die)
+  - Sleep Alone (Remastered) (Afraid to Die)
+  - Sé Que Te Fallé (Afraid to Die)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/91b5b560-6e45-4bdb-911d-fd7fc001a3c2
-  spotify: https://open.spotify.com/artist/0WPrepv4X8A1S5lTr7UBCY
-  wikipedia: https://en.wikipedia.org/wiki/Si_Kahn
+  musicbrainz: 'https://musicbrainz.org/artist/91b5b560-6e45-4bdb-911d-fd7fc001a3c2'
+  spotify: 'https://open.spotify.com/artist/0WPrepv4X8A1S5lTr7UBCY'
+  wikipedia: 'https://en.wikipedia.org/wiki/Si_Kahn'
 image_path: 03_Resources/source_material/ArtistPortraits/si_kahn.jpg
 biography_enhanced_at: '2025-12-04T08:10:33.709511'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Si_Kahn
-- https://wilkesheritagemuseum.com/hall-of-fame/previous-years/2015/si-kahn
-- https://www.wfae.org/podcast/amplifier/2021-12-02/si-kahn-charlotte-folk-singer
-- https://sikahn.com/about.shtml
-- https://www.riseupsinging.org/artistcomposer/si-kahn
+  - 'https://en.wikipedia.org/wiki/Si_Kahn'
+  - 'https://wilkesheritagemuseum.com/hall-of-fame/previous-years/2015/si-kahn'
+  - >-
+    https://www.wfae.org/podcast/amplifier/2021-12-02/si-kahn-charlotte-folk-singer
+  - 'https://sikahn.com/about.shtml'
+  - 'https://www.riseupsinging.org/artistcomposer/si-kahn'
 network_extracted: true
 entry_created: '2025-12-04T08:10:33.709521'
 last_updated: '2025-12-23T08:16:15.610430'
 gender: Male
 musicbrainz_id: 91b5b560-6e45-4bdb-911d-fd7fc001a3c2
 tags:
-- folk
+  - folk
+origin: 'Charlotte, North Carolina, United States'
 ---
 
 ![](si_kahn.jpg)

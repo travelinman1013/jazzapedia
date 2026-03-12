@@ -1,14 +1,14 @@
 ---
-title: sons of the pioneers
+title: Sons Of the Pioneers
 wiki_slug: sons-of-the-pioneers
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1933'
 genres:
-- traditional country
+  - traditional country
 instruments:
-- choir vocals
+  - choir vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sons_of_the_pioneers.jpg
   caption: sons of the pioneers
@@ -29,155 +29,158 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Leonard Slye (Roy Rogers)
-  - Bob Nolan
-  - Tim Spencer
-  - Hugh Farr
-  - Karl Farr
-  - Lloyd Perryman
-  - Pat Brady
-  - Ken Curtis
-  - Shug Fisher
-  - Dale Warren
+    - Leonard Slye (Roy Rogers)
+    - Bob Nolan
+    - Tim Spencer
+    - Hugh Farr
+    - Karl Farr
+    - Lloyd Perryman
+    - Pat Brady
+    - Ken Curtis
+    - Shug Fisher
+    - Dale Warren
   influenced:
-  - Numerous western and country music performers
+    - Numerous western and country music performers
   mentors:
-  - Jack LeFevre
+    - Jack LeFevre
 spotify_data:
   followers: 50438
   id: 1gfIkFZ4hIs2gETkRVaY68
   popularity: 37
-  url: https://open.spotify.com/artist/1gfIkFZ4hIs2gETkRVaY68
+  url: 'https://open.spotify.com/artist/1gfIkFZ4hIs2gETkRVaY68'
 discography_enriched: true
 top_tracks:
-- Tumbling Tumbleweeds (Anthology (1945-1952))
-- (Ghost) Riders In The Sky (Cool Water And Seventeen Timeless Western Favorites)
-- Riders In The Sky (Cool Water (With Bonus Tracks))
-- Ragtime Cowboy Joe (Down Memory Trail With Sons of the Pioneers)
-- Wine Me Up (Sunset On the Range)
-- Tumbling Tumbleweeds (Boots, Buckles & Spurs - 50 Songs Celebrate 50 Years of Cowboy Tradition)
-- Cool Water (Cool Water (With Bonus Tracks))
-- I'll Sail My Ship Alone (Good Old Country Music)
-- O Bury Me Not on the Lone Prairie (Sing Legends of the West)
-- Tumbling Tumbleweeds - Single Version (Tumbling Tumbleweeds)
+  - Tumbling Tumbleweeds (Anthology (1945-1952))
+  - >-
+    (Ghost) Riders In The Sky (Cool Water And Seventeen Timeless Western
+    Favorites)
+  - Riders In The Sky (Cool Water (With Bonus Tracks))
+  - Ragtime Cowboy Joe (Down Memory Trail With Sons of the Pioneers)
+  - Wine Me Up (Sunset On the Range)
+  - >-
+    Tumbling Tumbleweeds (Boots, Buckles & Spurs - 50 Songs Celebrate 50 Years
+    of Cowboy Tradition)
+  - Cool Water (Cool Water (With Bonus Tracks))
+  - I'll Sail My Ship Alone (Good Old Country Music)
+  - O Bury Me Not on the Lone Prairie (Sing Legends of the West)
+  - Tumbling Tumbleweeds - Single Version (Tumbling Tumbleweeds)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/0bd272c2-2dea-47a2-9c4e-95b3472340d1
-  spotify: https://open.spotify.com/artist/1gfIkFZ4hIs2gETkRVaY68
-  wikipedia: https://en.wikipedia.org/wiki/Sons_of_the_Pioneers
+  musicbrainz: 'https://musicbrainz.org/artist/0bd272c2-2dea-47a2-9c4e-95b3472340d1'
+  spotify: 'https://open.spotify.com/artist/1gfIkFZ4hIs2gETkRVaY68'
+  wikipedia: 'https://en.wikipedia.org/wiki/Sons_of_the_Pioneers'
 image_path: 03_Resources/source_material/ArtistPortraits/sons_of_the_pioneers.jpg
 biography_enhanced_at: '2025-11-29T07:02:11.369934'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Sons of the Pioneers
-- Alan Cackett - Sons of the Pioneers Biography
-- Sons of the Pioneers Official Website
-- Hollywood Walk of Fame
-- IMDb - Sons of the Pioneers Biography
-- The Vocal Group Hall of Fame
-- San Diego Troubadour
-- Bear Family Records
+  - Wikipedia - Sons of the Pioneers
+  - Alan Cackett - Sons of the Pioneers Biography
+  - Sons of the Pioneers Official Website
+  - Hollywood Walk of Fame
+  - IMDb - Sons of the Pioneers Biography
+  - The Vocal Group Hall of Fame
+  - San Diego Troubadour
+  - Bear Family Records
 network_extracted: true
 entry_created: '2025-11-29T07:02:11.369949'
 last_updated: '2025-12-23T08:16:15.936572'
 members:
-- begin: '1933'
-  end: '1936'
-  instruments: []
-  mbid: a167a7f9-aff3-4bc8-9e36-168a42d2b21c
-  name: Tim Spencer
-- begin: '1933'
-  end: '1937'
-  instruments: []
-  mbid: 5a2e5b57-b8d6-46d3-9b9b-1c7c575102ba
-  name: Roy Rogers
-- begin: '1933'
-  end: '1949'
-  instruments: []
-  mbid: 09ffd55e-f998-4f9f-9e62-107789ada951
-  name: Bob Nolan
-- begin: '1934'
-  end: '1959'
-  instruments: []
-  mbid: 74671d99-286f-4b72-8c6a-298c589cc504
-  name: Hugh Farr
-- begin: '1935'
-  end: '1961'
-  instruments: []
-  mbid: 0e1b055e-714d-46ff-9091-f1f603c5dba5
-  name: Karl Farr
-- begin: '1936'
-  end: '1943'
-  instruments: []
-  mbid: 1c23c86e-2e69-40a4-a568-6e6374f2f5ec
-  name: Lloyd Perryman
-- begin: '1937'
-  end: '1943'
-  instruments: []
-  mbid: 5702279d-2502-460d-b4b4-1562c478e99c
-  name: Pat Brady
-- begin: '1938'
-  end: '1939'
-  instruments: []
-  mbid: cf9ade33-42c3-4c5b-83cd-22ad9ce34e7d
-  name: Tex Ritter & His Texans
-- begin: '1938'
-  end: '1949'
-  instruments: []
-  mbid: a167a7f9-aff3-4bc8-9e36-168a42d2b21c
-  name: Tim Spencer
-- begin: '1942'
-  end: '1947'
-  instruments: []
-  mbid: a747f651-f61e-4f6d-a3a5-3426635ccb33
-  name: Ken Carson
-- begin: '1944'
-  end: '1946'
-  instruments: []
-  mbid: 406c21a5-0b2e-4f9d-ad8b-fa3df7ec1e79
-  name: Shug Fisher
-- begin: '1946'
-  end: '1949'
-  instruments: []
-  mbid: 5702279d-2502-460d-b4b4-1562c478e99c
-  name: Pat Brady
-- begin: '1946'
-  end: '1977'
-  instruments: []
-  mbid: 1c23c86e-2e69-40a4-a568-6e6374f2f5ec
-  name: Lloyd Perryman
-- begin: '1949'
-  end: '1953'
-  instruments: []
-  mbid: 8d54e7bb-3edb-452c-a4ea-6e57cbbdcb22
-  name: Ken Curtis
-- begin: '1949'
-  end: '1953'
-  instruments: []
-  mbid: 406c21a5-0b2e-4f9d-ad8b-fa3df7ec1e79
-  name: Shug Fisher
-- begin: '1949'
-  end: '1963'
-  instruments: []
-  mbid: 103b6115-212b-42b6-84df-5a244a826eb0
-  name: Tommy Doss
-- begin: '1956'
-  end: '1959'
-  instruments: []
-  mbid: 406c21a5-0b2e-4f9d-ad8b-fa3df7ec1e79
-  name: Shug Fisher
-- begin: '1959'
-  end: '1968'
-  instruments: []
-  mbid: 5702279d-2502-460d-b4b4-1562c478e99c
-  name: Pat Brady
+  - begin: '1933'
+    end: '1936'
+    instruments: []
+    mbid: a167a7f9-aff3-4bc8-9e36-168a42d2b21c
+    name: Tim Spencer
+  - begin: '1933'
+    end: '1937'
+    instruments: []
+    mbid: 5a2e5b57-b8d6-46d3-9b9b-1c7c575102ba
+    name: Roy Rogers
+  - begin: '1933'
+    end: '1949'
+    instruments: []
+    mbid: 09ffd55e-f998-4f9f-9e62-107789ada951
+    name: Bob Nolan
+  - begin: '1934'
+    end: '1959'
+    instruments: []
+    mbid: 74671d99-286f-4b72-8c6a-298c589cc504
+    name: Hugh Farr
+  - begin: '1935'
+    end: '1961'
+    instruments: []
+    mbid: 0e1b055e-714d-46ff-9091-f1f603c5dba5
+    name: Karl Farr
+  - begin: '1936'
+    end: '1943'
+    instruments: []
+    mbid: 1c23c86e-2e69-40a4-a568-6e6374f2f5ec
+    name: Lloyd Perryman
+  - begin: '1937'
+    end: '1943'
+    instruments: []
+    mbid: 5702279d-2502-460d-b4b4-1562c478e99c
+    name: Pat Brady
+  - begin: '1938'
+    end: '1939'
+    instruments: []
+    mbid: cf9ade33-42c3-4c5b-83cd-22ad9ce34e7d
+    name: Tex Ritter & His Texans
+  - begin: '1938'
+    end: '1949'
+    instruments: []
+    mbid: a167a7f9-aff3-4bc8-9e36-168a42d2b21c
+    name: Tim Spencer
+  - begin: '1942'
+    end: '1947'
+    instruments: []
+    mbid: a747f651-f61e-4f6d-a3a5-3426635ccb33
+    name: Ken Carson
+  - begin: '1944'
+    end: '1946'
+    instruments: []
+    mbid: 406c21a5-0b2e-4f9d-ad8b-fa3df7ec1e79
+    name: Shug Fisher
+  - begin: '1946'
+    end: '1949'
+    instruments: []
+    mbid: 5702279d-2502-460d-b4b4-1562c478e99c
+    name: Pat Brady
+  - begin: '1946'
+    end: '1977'
+    instruments: []
+    mbid: 1c23c86e-2e69-40a4-a568-6e6374f2f5ec
+    name: Lloyd Perryman
+  - begin: '1949'
+    end: '1953'
+    instruments: []
+    mbid: 8d54e7bb-3edb-452c-a4ea-6e57cbbdcb22
+    name: Ken Curtis
+  - begin: '1949'
+    end: '1953'
+    instruments: []
+    mbid: 406c21a5-0b2e-4f9d-ad8b-fa3df7ec1e79
+    name: Shug Fisher
+  - begin: '1949'
+    end: '1963'
+    instruments: []
+    mbid: 103b6115-212b-42b6-84df-5a244a826eb0
+    name: Tommy Doss
+  - begin: '1956'
+    end: '1959'
+    instruments: []
+    mbid: 406c21a5-0b2e-4f9d-ad8b-fa3df7ec1e79
+    name: Shug Fisher
+  - begin: '1959'
+    end: '1968'
+    instruments: []
+    mbid: 5702279d-2502-460d-b4b4-1562c478e99c
+    name: Pat Brady
 musicbrainz_id: 0bd272c2-2dea-47a2-9c4e-95b3472340d1
-origin: California, United States (formed); members from Ohio, Canada, and Texas
+origin: 'California, United States (formed); members from Ohio, Canada, and Texas'
 tags:
-- classic country
-- country
-- western
-
+  - classic country
+  - country
+  - western
 ---
 
 ![](sons_of_the_pioneers.jpg)

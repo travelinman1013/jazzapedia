@@ -1,40 +1,44 @@
 ---
 biography_enhanced_at: '2026-01-08T01:29:31.514706'
-birth_place: Nashville, North Carolina, United States
+birth_place: 'Nashville, North Carolina, United States'
 enhancement_provider: perplexity
 entry_created: '2026-01-08T01:29:31.514713'
 external_urls:
-  spotify: https://open.spotify.com/artist/7EJH0v6Lf4tjfiCqabhzme
-  wikipedia: https://en.wikipedia.org/wiki/Bill_Harris_(guitarist)
+  spotify: 'https://open.spotify.com/artist/7EJH0v6Lf4tjfiCqabhzme'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bill_Harris_(guitarist)'
 genres:
-- northern soul
-- bebop
-- big band
+  - northern soul
+  - bebop
+  - big band
 image_path: 03_Resources/source_material/ArtistPortraits/bill_harris.jpg
 last_updated: '2026-01-08T01:29:31.514714'
 musical_connections:
   collaborators:
-  - The Clovers
-  - Mickey Baker
-  - Unidentified New York session rhythm section
+    - The Clovers
+    - Mickey Baker
+    - Unidentified New York session rhythm section
   influenced:
-  - Students and regional guitarists in Washington, D.C.
+    - 'Students and regional guitarists in Washington, D.C.'
   mentors:
-  - Columbia School of Music faculty (Washington, D.C.)
+    - 'Columbia School of Music faculty (Washington, D.C.)'
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Bill_Harris_(guitarist)
-- https://wbssmedia.com/artists/detail/615
-- https://fromthevaults-boppinbob.blogspot.com/2021/04/bill-harris-born-14-april-1925.html
-- https://www.back2past.com/bill-harris-and-the-pigfoot
+  - 'https://en.wikipedia.org/wiki/Bill_Harris_(guitarist)'
+  - 'https://wbssmedia.com/artists/detail/615'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2021/04/bill-harris-born-14-april-1925.html
+  - 'https://www.back2past.com/bill-harris-and-the-pigfoot'
 spotify_data:
   followers: 633
   id: 7EJH0v6Lf4tjfiCqabhzme
   popularity: 10
-  url: https://open.spotify.com/artist/7EJH0v6Lf4tjfiCqabhzme
+  url: 'https://open.spotify.com/artist/7EJH0v6Lf4tjfiCqabhzme'
 status: active
 title: Bill Harris
+birth_date: '1925-04-14'
+death_date: '1988-12-06'
+artist_type: person
 ---
 
 ![](bill_harris.jpg)

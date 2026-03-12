@@ -1,12 +1,12 @@
 ---
-title: COWBOY JUNKIES
+title: Cowboy Junkies
 wiki_slug: cowboy-junkies
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1985'
 genres:
-- alt country
+  - alt country
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/cowboy_junkies.jpg
   caption: COWBOY JUNKIES
@@ -27,73 +27,73 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Peter Moore
-  - Jeff Bird
+    - Peter Moore
+    - Jeff Bird
   influenced:
-  - Norah Jones
-  - The Handsome Family
+    - Norah Jones
+    - The Handsome Family
   mentors:
-  - Blues and Folk Traditions
+    - Blues and Folk Traditions
 spotify_data:
   followers: 222338
   id: 3CYSRCHfilgR8DSbkCMp5j
   popularity: 47
-  url: https://open.spotify.com/artist/3CYSRCHfilgR8DSbkCMp5j
+  url: 'https://open.spotify.com/artist/3CYSRCHfilgR8DSbkCMp5j'
 discography_enriched: true
 top_tracks:
-- Sweet Jane (The Trinity Session)
-- Blue Moon Revisited (Song For Elvis) (The Trinity Session)
-- Angel Mine (Lay It Down)
-- A Common Disaster (Lay It Down)
-- Misguided Angel (The Trinity Session)
-- Dreaming My Dreams With You (The Trinity Session)
-- Bea's Song (River Song Trilogy (Lay It Down)
-- Sun Comes Up, It's Tuesday Morning (The Caution Horses)
-- Anniversary Song (Pale Sun Crescent Moon)
-- Sweet Jane
+  - Sweet Jane (The Trinity Session)
+  - Blue Moon Revisited (Song For Elvis) (The Trinity Session)
+  - Angel Mine (Lay It Down)
+  - A Common Disaster (Lay It Down)
+  - Misguided Angel (The Trinity Session)
+  - Dreaming My Dreams With You (The Trinity Session)
+  - Bea's Song (River Song Trilogy (Lay It Down)
+  - 'Sun Comes Up, It''s Tuesday Morning (The Caution Horses)'
+  - Anniversary Song (Pale Sun Crescent Moon)
+  - Sweet Jane
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/b52211f1-49a2-4cd2-8535-dd1ba37ea90b
-  spotify: https://open.spotify.com/artist/3CYSRCHfilgR8DSbkCMp5j
-  wikipedia: https://en.wikipedia.org/wiki/Cowboy_Junkies
+  musicbrainz: 'https://musicbrainz.org/artist/b52211f1-49a2-4cd2-8535-dd1ba37ea90b'
+  spotify: 'https://open.spotify.com/artist/3CYSRCHfilgR8DSbkCMp5j'
+  wikipedia: 'https://en.wikipedia.org/wiki/Cowboy_Junkies'
 image_path: 03_Resources/source_material/ArtistPortraits/cowboy_junkies.jpg
 biography_enhanced_at: '2025-10-28T09:09:38.602409'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Cowboy_Junkies
-- https://cowboyjunkies.com/about/
-- https://www.ebsco.com/research-starters/music/cowboy-junkies
-- https://songfacts.com/facts/cowboy-junkies
+  - 'https://en.wikipedia.org/wiki/Cowboy_Junkies'
+  - 'https://cowboyjunkies.com/about/'
+  - 'https://www.ebsco.com/research-starters/music/cowboy-junkies'
+  - 'https://songfacts.com/facts/cowboy-junkies'
 network_extracted: true
 entry_created: '2025-10-28T09:09:38.602421'
 last_updated: '2025-12-23T08:16:07.261569'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 629ef4d6-eb1e-45f9-b2a0-5b51246404a6
-  name: Alan Anton
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 31fce4a5-ae88-4f30-90ec-9f02bf444189
-  name: Margo Timmins
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1e6e1b8f-b3dd-4630-b3ad-a6dc49d1c14a
-  name: Michael Timmins
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6a208f9f-9177-4271-90c3-93210c01ff87
-  name: Peter Timmins
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 629ef4d6-eb1e-45f9-b2a0-5b51246404a6
+    name: Alan Anton
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 31fce4a5-ae88-4f30-90ec-9f02bf444189
+    name: Margo Timmins
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1e6e1b8f-b3dd-4630-b3ad-a6dc49d1c14a
+    name: Michael Timmins
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6a208f9f-9177-4271-90c3-93210c01ff87
+    name: Peter Timmins
 musicbrainz_id: b52211f1-49a2-4cd2-8535-dd1ba37ea90b
-origin: Toronto
+origin: 'Toronto, Ontario, Canada'
 tags:
-- alternative country
-- contemporary folk
-- folk
+  - alternative country
+  - contemporary folk
+  - folk
 ---
 
 ![](cowboy_junkies.jpg)

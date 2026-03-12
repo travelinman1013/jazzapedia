@@ -1,15 +1,16 @@
 ---
-title: CLAUDE HOPKINS AND HIS ORCHESTRA
+title: Claude Hopkins and His Orchestra
 wiki_slug: claude-hopkins-and-his-orchestra
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 genres:
-- ragtime
+  - ragtime
 instruments:
-- original
+  - original
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/claude_hopkins_and_his_orchestra.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/claude_hopkins_and_his_orchestra.jpg
   caption: CLAUDE HOPKINS AND HIS ORCHESTRA
   background: group_or_band
 audio_profile:
@@ -27,104 +28,122 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Josephine Baker
-  - Sidney Bechet
-  - Orlando Roberson
-  - Edmond Hall
-  - Jabbo Smith
-  - Vic Dickenson
-  - Roy Eldridge
-  - Dicky Wells
-  - Earle Warren
+    - Josephine Baker
+    - Sidney Bechet
+    - Orlando Roberson
+    - Edmond Hall
+    - Jabbo Smith
+    - Vic Dickenson
+    - Roy Eldridge
+    - Dicky Wells
+    - Earle Warren
   influenced:
-  - Orlando Roberson
+    - Orlando Roberson
   mentors:
-  - Wilbur Sweatman
+    - Wilbur Sweatman
 spotify_data:
   followers: 174
   id: 2cLSO83eVhfaL96MWvEq2Z
   popularity: 2
-  url: https://open.spotify.com/artist/2cLSO83eVhfaL96MWvEq2Z
+  url: 'https://open.spotify.com/artist/2cLSO83eVhfaL96MWvEq2Z'
 discography_enriched: true
 top_tracks:
-- Ain't Misbehavin' (The Big Broadcast, Vol.3, Jazz and Popular Music of the 1920s and 1930s)
-- 'Ain''t Misbehavin'' (The Big Broadcast, Vol. 3: Jazz and Popular Music of the 1920s and 1930s)'
-- 'Look Who''s Here (The Big Broadcast, Vol. 12: Jazz and Popular Music of the 1920s and 1930s)'
-- 'California, Here I Come (The Big Broadcast, Vol. 4: Jazz and Popular Music of the 1920s and 1930s)'
-- 'Minor Mania (The Big Broadcast, Vol. 10: Jazz and Popular Music of the 1920s and 1930s)'
-- 'California, Here I Come (The Big Broadcast: Vol.4: Popular Music of the 1920s and 1930s)'
-- Everybody Shuffle
-- Mush Mouth
-- Shake Your Ashes - Live (Stars of the Apollo)
-- Singin' In the Rain (Singing in the Rain)
+  - >-
+    Ain't Misbehavin' (The Big Broadcast, Vol.3, Jazz and Popular Music of the
+    1920s and 1930s)
+  - >-
+    Ain't Misbehavin' (The Big Broadcast, Vol. 3: Jazz and Popular Music of the
+    1920s and 1930s)
+  - >-
+    Look Who's Here (The Big Broadcast, Vol. 12: Jazz and Popular Music of the
+    1920s and 1930s)
+  - >-
+    California, Here I Come (The Big Broadcast, Vol. 4: Jazz and Popular Music
+    of the 1920s and 1930s)
+  - >-
+    Minor Mania (The Big Broadcast, Vol. 10: Jazz and Popular Music of the 1920s
+    and 1930s)
+  - >-
+    California, Here I Come (The Big Broadcast: Vol.4: Popular Music of the
+    1920s and 1930s)
+  - Everybody Shuffle
+  - Mush Mouth
+  - Shake Your Ashes - Live (Stars of the Apollo)
+  - Singin' In the Rain (Singing in the Rain)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/5abd4714-7a48-48f0-8880-e06a4b7d3b13
-  spotify: https://open.spotify.com/artist/2cLSO83eVhfaL96MWvEq2Z
-  wikipedia: https://en.wikipedia.org/wiki/Claude_Hopkins
-image_path: 03_Resources/source_material/ArtistPortraits/claude_hopkins_and_his_orchestra.jpg
+  musicbrainz: 'https://musicbrainz.org/artist/5abd4714-7a48-48f0-8880-e06a4b7d3b13'
+  spotify: 'https://open.spotify.com/artist/2cLSO83eVhfaL96MWvEq2Z'
+  wikipedia: 'https://en.wikipedia.org/wiki/Claude_Hopkins'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/claude_hopkins_and_his_orchestra.jpg
 biography_enhanced_at: '2025-10-30T11:46:09.081801'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Claude_Hopkins
-- https://fromthevaults-boppinbob.blogspot.com/2016/08/claude-hopkins-born-24-august-1903.html
-- http://www.harlem-fuss.com/pdf/bands/harlem_fuss_bands_hopkins_clauds_and_his_orchestra.pdf
-- https://de.wikipedia.org/wiki/Claude_Hopkins
-- https://www.imdb.com/name/nm0394132/bio/
+  - 'https://en.wikipedia.org/wiki/Claude_Hopkins'
+  - >-
+    https://fromthevaults-boppinbob.blogspot.com/2016/08/claude-hopkins-born-24-august-1903.html
+  - >-
+    http://www.harlem-fuss.com/pdf/bands/harlem_fuss_bands_hopkins_clauds_and_his_orchestra.pdf
+  - 'https://de.wikipedia.org/wiki/Claude_Hopkins'
+  - 'https://www.imdb.com/name/nm0394132/bio/'
 network_extracted: true
 entry_created: '2025-10-30T11:46:09.081818'
 last_updated: '2025-12-23T08:16:07.066417'
 members:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: e34e551a-84c3-413d-98dd-c2ba818eebf6
-  name: Ovie Alston
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 0845db8e-7728-4689-a9d8-03726f26a342
-  name: Fernando Arbello
-- begin: ''
-  end: ''
-  instruments:
-  - original
-  mbid: e835162c-1cc2-4c80-8ef1-0d9c95127e7e
-  name: Claude Hopkins
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d694787a-e4e5-46f2-af8f-1b4e01245cf1
-  name: Pete Jacobs
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: cdb5a8fa-4458-4dd4-a7f6-a232f4c01ccb
-  name: Gene Johnson
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 15759ba0-997c-42c4-8a74-da4b0046f7b5
-  name: Walter Jones
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: b58e6861-9cb0-4ca6-8c83-216890a50881
-  name: Bobby Sands
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1c933c78-9a82-4110-adfe-c1fa0ffc0da9
-  name: Ben Smith
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 485c2b39-f67d-42e1-a056-260bdd915ec4
-  name: Albert Snaer
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: e34e551a-84c3-413d-98dd-c2ba818eebf6
+    name: Ovie Alston
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 0845db8e-7728-4689-a9d8-03726f26a342
+    name: Fernando Arbello
+  - begin: ''
+    end: ''
+    instruments:
+      - original
+    mbid: e835162c-1cc2-4c80-8ef1-0d9c95127e7e
+    name: Claude Hopkins
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d694787a-e4e5-46f2-af8f-1b4e01245cf1
+    name: Pete Jacobs
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: cdb5a8fa-4458-4dd4-a7f6-a232f4c01ccb
+    name: Gene Johnson
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 15759ba0-997c-42c4-8a74-da4b0046f7b5
+    name: Walter Jones
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: b58e6861-9cb0-4ca6-8c83-216890a50881
+    name: Bobby Sands
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1c933c78-9a82-4110-adfe-c1fa0ffc0da9
+    name: Ben Smith
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 485c2b39-f67d-42e1-a056-260bdd915ec4
+    name: Albert Snaer
 musicbrainz_id: 5abd4714-7a48-48f0-8880-e06a4b7d3b13
-origin: Alexandria, Virginia, United States
+origin: 'Alexandria, Virginia, United States'
 tags:
-- jazz
+  - jazz
+birth_place: 'Alexandria, Virginia, United States'
+birth_date: '1903-08-24'
+death_date: '1984-02-19'
 ---
 
 ![](claude_hopkins_and_his_orchestra.jpg)

@@ -2,17 +2,17 @@
 title: Carolina Chocolate Drops
 wiki_slug: carolina-chocolate-drops
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 birth_date: 2005-04
 genres:
-- bluegrass
-- newgrass
-- americana
-- alt country
-- folk
+  - bluegrass
+  - newgrass
+  - americana
+  - alt country
+  - folk
 instruments:
-- original
+  - original
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Carolina_Chocolate_Drops.jpg
   caption: Carolina Chocolate Drops
@@ -33,56 +33,57 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Rhiannon Giddens
-  - Dom Flemons
-  - Justin Robinson
-  - Sule Greg Wilson
-  - Hubby Jenkins
-  - Malcolm Parson
-  - Rowan Corbett
+    - Rhiannon Giddens
+    - Dom Flemons
+    - Justin Robinson
+    - Sule Greg Wilson
+    - Hubby Jenkins
+    - Malcolm Parson
+    - Rowan Corbett
   influenced:
-  - Our Native Daughters
-  - New generation of Black string musicians
+    - Our Native Daughters
+    - New generation of Black string musicians
   mentors:
-  - Joe Thompson
+    - Joe Thompson
 spotify_data:
   followers: 149272
   id: 6H8Sj9gFyDYJ3T63LA3DKz
   popularity: 33
-  url: https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz
+  url: 'https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz'
 discography_enriched: true
 top_tracks:
-- Hit 'Em up Style (Genuine Negro Jig)
-- Cornbread and Butterbeans (Genuine Negro Jig)
-- Snowden's Jig (Genuine Negro Jig) (Genuine Negro Jig)
-- 'Daughter''s Lament (The Hunger Games: Songs From District 12 And Beyond)'
-- Mahalla (Leaving Eden)
-- Ruby, Are You Mad at Your Man? (Leaving Eden)
-- Peace Behind the Bridge (Genuine Negro Jig)
-- Country Girl (Leaving Eden)
-- Leaving Eden (Leaving Eden)
-- Pretty Little Girl (Voice of Ages (Deluxe Edition))
+  - Hit 'Em up Style (Genuine Negro Jig)
+  - Cornbread and Butterbeans (Genuine Negro Jig)
+  - Snowden's Jig (Genuine Negro Jig) (Genuine Negro Jig)
+  - 'Daughter''s Lament (The Hunger Games: Songs From District 12 And Beyond)'
+  - Mahalla (Leaving Eden)
+  - 'Ruby, Are You Mad at Your Man? (Leaving Eden)'
+  - Peace Behind the Bridge (Genuine Negro Jig)
+  - Country Girl (Leaving Eden)
+  - Leaving Eden (Leaving Eden)
+  - Pretty Little Girl (Voice of Ages (Deluxe Edition))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/9278d5f4-993d-403a-8dd8-eb61139274cf
-  spotify: https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz
-  wikipedia: https://en.wikipedia.org/wiki/Carolina_Chocolate_Drops
+  musicbrainz: 'https://musicbrainz.org/artist/9278d5f4-993d-403a-8dd8-eb61139274cf'
+  spotify: 'https://open.spotify.com/artist/6H8Sj9gFyDYJ3T63LA3DKz'
+  wikipedia: 'https://en.wikipedia.org/wiki/Carolina_Chocolate_Drops'
 image_path: 03_Resources/source_material/ArtistPortraits/Carolina_Chocolate_Drops.jpg
 biography_enhanced_at: '2025-10-19T11:13:22.053130'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.thecarolinachocolatedrops.com/about
-- https://www.ncmea.net/the-carolina-chocolate-drops/
-- https://rhiannongiddens.com/carolina-chocolate-drops
-- https://www.musicmaker.org/artist/carolina-chocolate-drops/
+  - 'https://www.thecarolinachocolatedrops.com/about'
+  - 'https://www.ncmea.net/the-carolina-chocolate-drops/'
+  - 'https://rhiannongiddens.com/carolina-chocolate-drops'
+  - 'https://www.musicmaker.org/artist/carolina-chocolate-drops/'
 network_extracted: true
 entry_created: '2025-10-19T11:13:22.053139'
 last_updated: '2025-12-23T08:16:01.466596'
 musicbrainz_enriched_at: '2025-10-21T09:21:41.609370'
 musicbrainz_id: 9278d5f4-993d-403a-8dd8-eb61139274cf
-origin: Durham, North Carolina, USA
+origin: 'Durham, North Carolina, USA'
 tags:
-- old-time
+  - old-time
+birth_place: Durham
 ---
 
 ![](Carolina_Chocolate_Drops.jpg)

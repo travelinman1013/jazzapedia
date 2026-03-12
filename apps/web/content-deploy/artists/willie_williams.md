@@ -1,36 +1,38 @@
 ---
 biography_enhanced_at: '2025-12-29T01:19:20.915095'
-birth_place: Wilmington, North Carolina, USA
+birth_place: 'Wilmington, North Carolina, USA'
 enhancement_provider: perplexity
 entry_created: '2025-12-29T01:19:20.915112'
 external_urls:
-  spotify: https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq
+  spotify: 'https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq'
   wikipedia: ''
 genres: []
 image_path: 03_Resources/source_material/ArtistPortraits/willie_williams.jpg
 last_updated: '2025-12-29T01:19:20.915114'
 musical_connections:
   collaborators:
-  - Arthur Taylor
-  - T.S. Monk
-  - Papo Vazquez
-  - Clifford Jordan
-  - Mingus Dynasty
+    - Arthur Taylor
+    - T.S. Monk
+    - Papo Vazquez
+    - Clifford Jordan
+    - Mingus Dynasty
   influenced: []
   mentors:
-  - Marshall Taylor
-  - Bobby Watson
+    - Marshall Taylor
+    - Bobby Watson
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://williewilliamsjazz.com/bio
+  - 'https://williewilliamsjazz.com/bio'
 spotify_data:
   followers: 300361
   id: 4RSyJzf7ef6Iu2rnLdabNq
   popularity: 66
-  url: https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq
+  url: 'https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq'
 status: active
 title: Willie Williams
+birth_date: '1958-11-01'
+artist_type: person
 ---
 
 ![](willie_williams.jpg)

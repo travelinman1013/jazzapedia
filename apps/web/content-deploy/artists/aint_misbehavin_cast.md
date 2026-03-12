@@ -3,46 +3,48 @@ biography_enhanced_at: '2026-01-07T01:17:52.539893'
 enhancement_provider: perplexity
 entry_created: '2026-01-07T01:17:52.539899'
 external_urls:
-  spotify: https://open.spotify.com/artist/7MEKH8ueR8EgTnZkA2ZuQe
+  spotify: 'https://open.spotify.com/artist/7MEKH8ueR8EgTnZkA2ZuQe'
   wikipedia: ''
 genres: []
 image_path: ''
 last_updated: '2026-01-07T01:17:52.539900'
 musical_connections:
   collaborators:
-  - Nell Carter
-  - André De Shields
-  - Armelia McQueen
-  - Ken Page
-  - Charlaine Woodard
-  - Luther Henderson
+    - Nell Carter
+    - André De Shields
+    - Armelia McQueen
+    - Ken Page
+    - Charlaine Woodard
+    - Luther Henderson
   influenced:
-  - Debbie Allen
-  - Regional theater casts (e.g., Rubicon Theatre, Broadway Rose)
+    - Debbie Allen
+    - 'Regional theater casts (e.g., Rubicon Theatre, Broadway Rose)'
   mentors:
-  - Thomas 'Fats' Waller
-  - Richard Maltby, Jr.
-  - Arthur Faria
+    - Thomas 'Fats' Waller
+    - 'Richard Maltby, Jr.'
+    - Arthur Faria
 network_extracted: true
-origin: New York City, New York, USA (Broadway premiere)
+origin: 'New York City, New York, USA (Broadway premiere)'
 primary_source: perplexity
 research_sources:
-- https://stageagent.com/shows/musical/290/aint-misbehavin
-- https://rubicontheatre.org/program-aint-misbehavin/
-- https://www.ibdb.com/broadway-production/aint-misbehavin-4058
-- https://www.broadwayrose.org/aint-misbehavin-2023
-- https://www.charlestonlightoperaguild.org/home/show-history/aint-misbehavin
-- https://www.broadwayworld.com/shows/Ain't-Misbehavin'-3084/cast
-- https://playbill.com/production/aint-misbehavin-longacre-theatre-vault-0000006887
-- https://www.ibdb.com/broadway-production/aint-misbehavin-4058
-- https://richardvacca.com/on-february-28-1979/
+  - 'https://stageagent.com/shows/musical/290/aint-misbehavin'
+  - 'https://rubicontheatre.org/program-aint-misbehavin/'
+  - 'https://www.ibdb.com/broadway-production/aint-misbehavin-4058'
+  - 'https://www.broadwayrose.org/aint-misbehavin-2023'
+  - 'https://www.charlestonlightoperaguild.org/home/show-history/aint-misbehavin'
+  - 'https://www.broadwayworld.com/shows/Ain''t-Misbehavin''-3084/cast'
+  - >-
+    https://playbill.com/production/aint-misbehavin-longacre-theatre-vault-0000006887
+  - 'https://www.ibdb.com/broadway-production/aint-misbehavin-4058'
+  - 'https://richardvacca.com/on-february-28-1979/'
 spotify_data:
   followers: 61
   id: 7MEKH8ueR8EgTnZkA2ZuQe
   popularity: 7
-  url: https://open.spotify.com/artist/7MEKH8ueR8EgTnZkA2ZuQe
+  url: 'https://open.spotify.com/artist/7MEKH8ueR8EgTnZkA2ZuQe'
 status: active
 title: Ain't Misbehavin cast
+artist_type: band
 ---
 
 ![]()

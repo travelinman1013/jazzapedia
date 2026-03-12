@@ -5,35 +5,35 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1941-03-27'
-birth_place: Philadelphia
+birth_place: 'Philadelphia, Pennsylvania, United States'
 death_date: '2017-10-06'
 genres:
-- philly soul
-- northern soul
+  - philly soul
+  - northern soul
 instruments:
-- background vocals
-- choir vocals
+  - background vocals
+  - choir vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: ad580d3e-3e21-414f-b131-ecdb379d1c1e
-  name: The Salsoul Orchestra
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 1658b247-7a13-439f-911e-5791ba9df3d6
-  name: Instant Funk
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 2068016b-d15e-4dc1-b95b-95887fcf4359
-  name: The Young Professionals
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 25595b01-1869-4d97-bd65-cfe95581e4dc
-  name: Uri Caine Ensemble
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: ad580d3e-3e21-414f-b131-ecdb379d1c1e
+    name: The Salsoul Orchestra
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 1658b247-7a13-439f-911e-5791ba9df3d6
+    name: Instant Funk
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 2068016b-d15e-4dc1-b95b-95887fcf4359
+    name: The Young Professionals
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 25595b01-1869-4d97-bd65-cfe95581e4dc
+    name: Uri Caine Ensemble
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/bunny_sigler.jpg
   caption: Bunny Sigler
@@ -56,54 +56,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Kenny Gamble
-  - Leon Huff
-  - Instant Funk
-  - Patti LaBelle
-  - The O'Jays
+    - Kenny Gamble
+    - Leon Huff
+    - Instant Funk
+    - Patti LaBelle
+    - The O'Jays
   influenced:
-  - Countless Philly soul and R&B artists
+    - Countless Philly soul and R&B artists
   mentors:
-  - Mr. and Mrs. Crump
-  - Leon Huff
+    - Mr. and Mrs. Crump
+    - Leon Huff
 spotify_data:
   followers: 4668
   id: 4wyNEslyuNURfltXmivNeg
   popularity: 21
-  url: https://open.spotify.com/artist/4wyNEslyuNURfltXmivNeg
+  url: 'https://open.spotify.com/artist/4wyNEslyuNURfltXmivNeg'
 discography_enriched: true
 top_tracks:
-- Let The Good Times Roll (Feel So Good)
-- Girl Don't Make Me Wait
-- Let The Good Times Roll & Feel So Good (Let The Good Times Roll & (Feel So Good) [Mono Version])
-- Girl Don't Make Me Wait (Let The Good Times Roll & (Feel So Good) [Mono Version])
-- Long Time (Game Theory)
-- Long Time (Game Theory)
-- My Music (My Music)
-- That's How Long I'll Be Loving You (That's How I'll Be Loving You)
-- Shake Your Booty (Keep Smilin')
-- By the Way You Dance (I Knew It Was You) (Larry Levan Remix) ( 2017 - Remaster)
+  - Let The Good Times Roll (Feel So Good)
+  - Girl Don't Make Me Wait
+  - >-
+    Let The Good Times Roll & Feel So Good (Let The Good Times Roll & (Feel So
+    Good) [Mono Version])
+  - >-
+    Girl Don't Make Me Wait (Let The Good Times Roll & (Feel So Good) [Mono
+    Version])
+  - Long Time (Game Theory)
+  - Long Time (Game Theory)
+  - My Music (My Music)
+  - That's How Long I'll Be Loving You (That's How I'll Be Loving You)
+  - Shake Your Booty (Keep Smilin')
+  - >-
+    By the Way You Dance (I Knew It Was You) (Larry Levan Remix) ( 2017 -
+    Remaster)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/3778a413-6202-44c4-a11c-aaeb78feb7de
-  spotify: https://open.spotify.com/artist/4wyNEslyuNURfltXmivNeg
-  wikipedia: https://en.wikipedia.org/wiki/Bunny_Sigler
+  musicbrainz: 'https://musicbrainz.org/artist/3778a413-6202-44c4-a11c-aaeb78feb7de'
+  spotify: 'https://open.spotify.com/artist/4wyNEslyuNURfltXmivNeg'
+  wikipedia: 'https://en.wikipedia.org/wiki/Bunny_Sigler'
 image_path: 03_Resources/source_material/ArtistPortraits/bunny_sigler.jpg
 biography_enhanced_at: '2025-11-02T07:39:13.797279'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.blackmusicandhistory.com/songwriters/bunny-sigler
-- https://www.crossrhythms.co.uk/articles/music/Bunny_Sigler_The_Philly_soul_star_responding_to_Gods_instruction/35898/p1/
-- https://hifimagazine.net/blog/?p=11966
-- https://jointzoftheday.substack.com/p/bunny-sigler-march-27-1941-october-6-2017-philly
-- https://soulinterviews.com/episode/bunny-sigler/
+  - 'https://www.blackmusicandhistory.com/songwriters/bunny-sigler'
+  - >-
+    https://www.crossrhythms.co.uk/articles/music/Bunny_Sigler_The_Philly_soul_star_responding_to_Gods_instruction/35898/p1/
+  - 'https://hifimagazine.net/blog/?p=11966'
+  - >-
+    https://jointzoftheday.substack.com/p/bunny-sigler-march-27-1941-october-6-2017-philly
+  - 'https://soulinterviews.com/episode/bunny-sigler/'
 network_extracted: true
 entry_created: '2025-11-02T07:39:13.797298'
 last_updated: '2025-12-23T08:16:06.270818'
 gender: Male
 musicbrainz_id: 3778a413-6202-44c4-a11c-aaeb78feb7de
 tags:
-- soul
+  - soul
+is_active: false
+origin: 'Philadelphia, Pennsylvania, United States'
 ---
 
 ![](bunny_sigler.jpg)

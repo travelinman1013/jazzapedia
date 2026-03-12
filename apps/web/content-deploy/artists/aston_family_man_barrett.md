@@ -1,18 +1,18 @@
 ---
-title: aston family man barrett
+title: Aston Family Man Barrett
 wiki_slug: aston-family-man-barrett
 schema_version: 2
 status: active
-birth_place: Kingston, Jamaica
+birth_place: 'Kingston, Jamaica, United States'
 genres:
-- dub
-- roots reggae
-- rocksteady
+  - dub
+  - roots reggae
+  - rocksteady
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/aston_family_man_barrett.jpg
   caption: aston family man barrett
   background: solo_singer
-  origin: Kingston, Jamaica
+  origin: 'Kingston, Jamaica'
 audio_profile:
   tempo_avg: 126.4
   energy_avg: 0.479
@@ -28,52 +28,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Carlton 'Carly' Barrett
-  - Bob Marley
-  - Lee 'Scratch' Perry
-  - Peter Tosh
-  - Bunny Wailer
+    - Carlton 'Carly' Barrett
+    - Bob Marley
+    - Lee 'Scratch' Perry
+    - Peter Tosh
+    - Bunny Wailer
   influenced:
-  - Robbie Shakespeare
-  - Ali Campbell
+    - Robbie Shakespeare
+    - Ali Campbell
   mentors:
-  - Jackie Jackson
-  - Lloyd Brevett
-  - Leroy Sibbles
+    - Jackie Jackson
+    - Lloyd Brevett
+    - Leroy Sibbles
 spotify_data:
   followers: 2555
   id: 5wmf2vbdp5K9epkrimzJ2u
   popularity: 16
-  url: https://open.spotify.com/artist/5wmf2vbdp5K9epkrimzJ2u
+  url: 'https://open.spotify.com/artist/5wmf2vbdp5K9epkrimzJ2u'
 discography_enriched: true
 top_tracks:
-- 'Cell Block 11 (Soul Constitution: Instrumentals & Dubs 1971-1982)'
-- 'Soul Constitution (Soul Constitution: Instrumentals & Dubs 1971-1982)'
-- 'Gideons High (Soul Constitution: Instrumentals & Dubs 1971-1982)'
-- Soul Constitution (Soul Constitution)
-- 'Eastern Memphis (Soul Constitution: Instrumentals & Dubs 1971-1982)'
-- Cell Block 11 (Soul Constitution)
-- 'Guided Missile (Soul Constitution: Instrumentals & Dubs 1971-1982)'
-- 'Distant Drums (Soul Constitution: Instrumentals & Dubs 1971-1982)'
-- 'Distant Drums (Soul Constitution: Instrumentals & Dubs 1971-1982)'
-- Village Ghetto Land (Running Free)
+  - 'Cell Block 11 (Soul Constitution: Instrumentals & Dubs 1971-1982)'
+  - 'Soul Constitution (Soul Constitution: Instrumentals & Dubs 1971-1982)'
+  - 'Gideons High (Soul Constitution: Instrumentals & Dubs 1971-1982)'
+  - Soul Constitution (Soul Constitution)
+  - 'Eastern Memphis (Soul Constitution: Instrumentals & Dubs 1971-1982)'
+  - Cell Block 11 (Soul Constitution)
+  - 'Guided Missile (Soul Constitution: Instrumentals & Dubs 1971-1982)'
+  - 'Distant Drums (Soul Constitution: Instrumentals & Dubs 1971-1982)'
+  - 'Distant Drums (Soul Constitution: Instrumentals & Dubs 1971-1982)'
+  - Village Ghetto Land (Running Free)
 external_urls:
-  spotify: https://open.spotify.com/artist/5wmf2vbdp5K9epkrimzJ2u
-  wikipedia: https://en.wikipedia.org/wiki/Aston_%22Family_Man%22_Barrett
+  spotify: 'https://open.spotify.com/artist/5wmf2vbdp5K9epkrimzJ2u'
+  wikipedia: 'https://en.wikipedia.org/wiki/Aston_%22Family_Man%22_Barrett'
 image_path: 03_Resources/source_material/ArtistPortraits/aston_family_man_barrett.jpg
 biography_enhanced_at: '2025-11-24T08:40:08.005825'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.premierguitar.com/pro-advice/the-root-of-it-all/remembering-aston-family-man-barrett
-- https://en.wikipedia.org/wiki/Aston_%22Family_Man%22_Barrett
-- https://www.youtube.com/watch?v=wpTixaD29ZQ
-- https://www.thewailers.com/aston-family-man-finally-gets-national-recognition/
-- https://www.guitarworld.com/features/aston-family-man-barrett-interview
-- https://www.allmusic.com/artist/aston-barrett-mn0000605410
+  - >-
+    https://www.premierguitar.com/pro-advice/the-root-of-it-all/remembering-aston-family-man-barrett
+  - 'https://en.wikipedia.org/wiki/Aston_%22Family_Man%22_Barrett'
+  - 'https://www.youtube.com/watch?v=wpTixaD29ZQ'
+  - >-
+    https://www.thewailers.com/aston-family-man-finally-gets-national-recognition/
+  - 'https://www.guitarworld.com/features/aston-family-man-barrett-interview'
+  - 'https://www.allmusic.com/artist/aston-barrett-mn0000605410'
 network_extracted: true
 entry_created: '2025-11-24T08:40:08.005836'
 last_updated: '2025-12-23T08:16:04.977698'
+birth_date: '1946-11-22'
+artist_type: person
 ---
 
 ![](aston_family_man_barrett.jpg)

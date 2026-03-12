@@ -3,15 +3,15 @@ title: Johnny Jones
 wiki_slug: johnny-jones
 schema_version: 2
 status: active
-birth_place: Jackson, Mississippi, United States
+birth_place: 'Jackson, Mississippi, United States'
 genres:
-- french indie pop
-- french pop
+  - french indie pop
+  - french pop
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/johnny_jones.jpg
   caption: Johnny Jones
   background: solo_singer
-  origin: Jackson, Mississippi, United States
+  origin: 'Jackson, Mississippi, United States'
 audio_profile:
   tempo_avg: 121.6
   energy_avg: 0.515
@@ -27,46 +27,50 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Elmore James
-  - Muddy Waters
-  - Jimmy Reed
-  - Howlin' Wolf
-  - Billy Boy Arnold
+    - Elmore James
+    - Muddy Waters
+    - Jimmy Reed
+    - Howlin' Wolf
+    - Billy Boy Arnold
   influenced:
-  - Magic Sam
-  - Syl Johnson
+    - Magic Sam
+    - Syl Johnson
   mentors:
-  - Otis Spann
-  - Big Maceo Merriweather
+    - Otis Spann
+    - Big Maceo Merriweather
 spotify_data:
   followers: 18300
   id: 5ZtagJrNULymltW3pEbfhr
   popularity: 39
-  url: https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr
+  url: 'https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr'
 discography_enriched: true
 top_tracks:
-- Kleenex (Attitude(s))
-- Kleenex (JTM)
-- Normal (Attitude(s))
-- Les lois de l'univers (Attitude(s))
-- Attitude (Attitude(s))
-- Plus rien à perdre (Attitude(s))
-- Justine (Attitude(s))
-- Superstar (DÉSORDRES)
-- Tous les deux (Club de cœur)
-- Bbye (Attitude(s))
+  - Kleenex (Attitude(s))
+  - Kleenex (JTM)
+  - Normal (Attitude(s))
+  - Les lois de l'univers (Attitude(s))
+  - Attitude (Attitude(s))
+  - Plus rien à perdre (Attitude(s))
+  - Justine (Attitude(s))
+  - Superstar (DÉSORDRES)
+  - Tous les deux (Club de cœur)
+  - Bbye (Attitude(s))
 external_urls:
-  spotify: https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr
+  spotify: 'https://open.spotify.com/artist/5ZtagJrNULymltW3pEbfhr'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/johnny_jones.jpg
 biography_enhanced_at: '2025-11-15T18:12:38.258535'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.alligator.com/artists/Johnny-Jones/
+  - 'https://www.alligator.com/artists/Johnny-Jones/'
 network_extracted: true
 entry_created: '2025-11-15T18:12:38.258545'
 last_updated: '2025-12-23T08:16:10.860246'
+origin: 'Chicago, Illinois, United States'
+birth_date: '1924-11-01'
+death_date: '1964-11-19'
+artist_type: person
 ---
 
 ![](johnny_jones.jpg)

@@ -1,63 +1,64 @@
 ---
 artist_type: person
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 6ebb47e7-6d46-48e4-a6a9-38bdffb0a8ed
-  name: Spike Robinson Quartet
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 6ebb47e7-6d46-48e4-a6a9-38bdffb0a8ed
+    name: Spike Robinson Quartet
 biography_enhanced_at: '2026-01-22T07:01:13.286723'
 birth_date: '1956-10-20'
-birth_place: Harlow
+birth_place: 'Harlow, Essex, England'
 disambiguation: jazz guitarist
 enhancement_provider: perplexity
 entry_created: '2026-01-22T07:01:13.286730'
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/92ebb02d-2906-4a6d-9e43-21e16b877fa1
-  spotify: https://open.spotify.com/artist/3ZNRPH9WeMybGggbmNOE62
-  wikipedia: https://en.wikipedia.org/wiki/Martin_Taylor_(guitarist)
+  musicbrainz: 'https://musicbrainz.org/artist/92ebb02d-2906-4a6d-9e43-21e16b877fa1'
+  spotify: 'https://open.spotify.com/artist/3ZNRPH9WeMybGggbmNOE62'
+  wikipedia: 'https://en.wikipedia.org/wiki/Martin_Taylor_(guitarist)'
 gender: Male
 genres:
-- french jazz
-- newgrass
+  - french jazz
+  - newgrass
 image_path: 03_Resources/source_material/ArtistPortraits/martin_taylor.jpg
 instruments:
-- guitar
-- electric guitar
-- acoustic guitar
-- bass guitar
-- harp guitar
+  - guitar
+  - electric guitar
+  - acoustic guitar
+  - bass guitar
+  - harp guitar
 last_updated: '2026-01-22T07:01:13.286731'
 musical_connections:
   collaborators:
-  - Stéphane Grappelli
-  - Spirit of Django band members
-  - Chet Atkins
-  - David Grisman
-  - Steve Howe
-  - Guy Barker
+    - Stéphane Grappelli
+    - Spirit of Django band members
+    - Chet Atkins
+    - David Grisman
+    - Steve Howe
+    - Guy Barker
   influenced: []
   mentors:
-  - Ike Isaacs
-  - Django Reinhardt
+    - Ike Isaacs
+    - Django Reinhardt
 musicbrainz_id: 92ebb02d-2906-4a6d-9e43-21e16b877fa1
 network_extracted: true
 primary_source: perplexity
 research_sources:
-- https://martintaylor.com/bio/
-- https://www.last.fm/music/Martin+Taylor/+wiki
-- https://martintaylor.com/biography/
-- https://en.wikipedia.org/wiki/Martin_Taylor_(guitarist)
-- https://www.vintageguitar.com/3218/martin-taylor-m-b-e/
-- https://nationaljazzarchive.org.uk/explore/interviews/1633523-martin-taylor-interview-2
+  - 'https://martintaylor.com/bio/'
+  - 'https://www.last.fm/music/Martin+Taylor/+wiki'
+  - 'https://martintaylor.com/biography/'
+  - 'https://en.wikipedia.org/wiki/Martin_Taylor_(guitarist)'
+  - 'https://www.vintageguitar.com/3218/martin-taylor-m-b-e/'
+  - >-
+    https://nationaljazzarchive.org.uk/explore/interviews/1633523-martin-taylor-interview-2
 spotify_data:
   followers: 12600
   id: 3ZNRPH9WeMybGggbmNOE62
   popularity: 28
-  url: https://open.spotify.com/artist/3ZNRPH9WeMybGggbmNOE62
+  url: 'https://open.spotify.com/artist/3ZNRPH9WeMybGggbmNOE62'
 status: active
 tags:
-- jazz
+  - jazz
 title: Martin Taylor
 ---
 

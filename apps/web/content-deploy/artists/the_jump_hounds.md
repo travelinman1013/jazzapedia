@@ -4,8 +4,8 @@ wiki_slug: the-jump-hounds
 schema_version: 2
 status: active
 genres:
-- boogie-woogie
-- swing music
+  - boogie-woogie
+  - swing music
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_jump_hounds.jpg
   caption: The Jump Hounds
@@ -25,45 +25,46 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Adam Arredondo
-  - Marty Peters
+    - Adam Arredondo
+    - Marty Peters
   influenced: []
   mentors: []
 spotify_data:
   followers: 113
   id: 0zk0wlsVqqljE3mNd1Dsau
   popularity: 0
-  url: https://open.spotify.com/artist/0zk0wlsVqqljE3mNd1Dsau
+  url: 'https://open.spotify.com/artist/0zk0wlsVqqljE3mNd1Dsau'
 discography_enriched: true
 top_tracks:
-- Waxie Maxie (Out and About)
-- Blue Jeans (Southern Comfort)
-- Scrollin' (Out and About)
-- Carrie Mae (Southern Comfort)
-- Baby I'm Wise (Southern Comfort)
-- Pass The Buck (Southern Comfort)
-- Please Send Me Someone To Love (Southern Comfort)
-- Southern Comfort (Southern Comfort)
-- Fessin' Up (Southern Comfort)
-- Her Mind Is Gone (Southern Comfort)
+  - Waxie Maxie (Out and About)
+  - Blue Jeans (Southern Comfort)
+  - Scrollin' (Out and About)
+  - Carrie Mae (Southern Comfort)
+  - Baby I'm Wise (Southern Comfort)
+  - Pass The Buck (Southern Comfort)
+  - Please Send Me Someone To Love (Southern Comfort)
+  - Southern Comfort (Southern Comfort)
+  - Fessin' Up (Southern Comfort)
+  - Her Mind Is Gone (Southern Comfort)
 external_urls:
-  spotify: https://open.spotify.com/artist/0zk0wlsVqqljE3mNd1Dsau
+  spotify: 'https://open.spotify.com/artist/0zk0wlsVqqljE3mNd1Dsau'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/the_jump_hounds.jpg
 biography_enhanced_at: '2025-12-17T02:27:23.195153'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- 'Official site – The Jump Hounds: About page[2]'
-- 'Official site – The Jump Hounds: main page[3]'
-- GigSalad artist profile for The Jump Hounds[4]
-- Bandsintown event listing featuring The Jump Hounds[5]
-- Abita Opry 2022 media notes mentioning The Jump Hounds and Adam Arredondo[6]
-- YouTube video "Monday Night Jump" – The Jump Hounds, led by Marty Peters[7]
+  - 'Official site – The Jump Hounds: About page[2]'
+  - 'Official site – The Jump Hounds: main page[3]'
+  - 'GigSalad artist profile for The Jump Hounds[4]'
+  - 'Bandsintown event listing featuring The Jump Hounds[5]'
+  - 'Abita Opry 2022 media notes mentioning The Jump Hounds and Adam Arredondo[6]'
+  - 'YouTube video "Monday Night Jump" – The Jump Hounds, led by Marty Peters[7]'
 network_extracted: true
 entry_created: '2025-12-17T02:27:23.195171'
 last_updated: '2025-12-23T08:16:16.880070'
-origin: New Orleans, Louisiana, United States[2][3][4][5]
+origin: 'New Orleans, Louisiana, United States'
+artist_type: band
 ---
 
 ![](the_jump_hounds.jpg)

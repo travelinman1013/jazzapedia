@@ -3,13 +3,13 @@ title: Jon Batiste/ Randy Newman
 wiki_slug: jon-batiste-randy-newman
 schema_version: 2
 status: active
-birth_place: Metairie, Louisiana, United States
+birth_place: 'Metairie, Louisiana, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/jon_batiste_randy_newman.jpg
   caption: Jon Batiste/ Randy Newman
   background: solo_singer
-  origin: Metairie, Louisiana, United States
+  origin: 'Metairie, Louisiana, United States'
 audio_profile:
   tempo_avg: 111.3
   energy_avg: 0.439
@@ -25,48 +25,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Trent Reznor & Atticus Ross
-  - Stay Human
-  - Suleika Jaouad
-  - Alicia Keys, Stevie Wonder, Prince, Willie Nelson, Lenny Kravitz, ASAP Rocky, Ed Sheeran, Lana Del Rey, Roy Hargrove,
-    Juvenile, Mavis Staples
+    - Trent Reznor & Atticus Ross
+    - Stay Human
+    - Suleika Jaouad
+    - >-
+      Alicia Keys, Stevie Wonder, Prince, Willie Nelson, Lenny Kravitz, ASAP
+      Rocky, Ed Sheeran, Lana Del Rey, Roy Hargrove, Juvenile, Mavis Staples
   influenced:
-  - Contemporary jazz and pop musicians
+    - Contemporary jazz and pop musicians
   mentors:
-  - Herbie Hancock
+    - Herbie Hancock
 spotify_data:
   followers: 622232
   id: 0eRbECAGCLLiTyVXPBRexU
   popularity: 59
-  url: https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU
+  url: 'https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU'
 discography_enriched: true
 top_tracks:
-- Sunshine In The Room (feat. Jon Batiste)
-- Candy Necklace (feat. Jon Batiste) (Did you know that there's a tunnel under Ocean Blvd)
-- Dusklight Movement (Beethoven Blues)
-- FREEDOM (WE ARE)
-- Be Who You Are (Real Magic) (feat. JID, NewJeans & Camilo)
-- It's All Right
-- I NEED YOU (WE ARE)
-- MODERN TIMES (feat. Jon Batiste) (FATHER FIGURE)
-- Drink Water (feat. Jon Bellion and Fireboy DML) (World Music Radio)
-- Für Elise - Batiste (Beethoven Blues)
+  - Sunshine In The Room (feat. Jon Batiste)
+  - >-
+    Candy Necklace (feat. Jon Batiste) (Did you know that there's a tunnel under
+    Ocean Blvd)
+  - Dusklight Movement (Beethoven Blues)
+  - FREEDOM (WE ARE)
+  - 'Be Who You Are (Real Magic) (feat. JID, NewJeans & Camilo)'
+  - It's All Right
+  - I NEED YOU (WE ARE)
+  - MODERN TIMES (feat. Jon Batiste) (FATHER FIGURE)
+  - Drink Water (feat. Jon Bellion and Fireboy DML) (World Music Radio)
+  - Für Elise - Batiste (Beethoven Blues)
 external_urls:
-  spotify: https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU
-  wikipedia: https://en.wikipedia.org/wiki/Jon_Batiste
+  spotify: 'https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU'
+  wikipedia: 'https://en.wikipedia.org/wiki/Jon_Batiste'
 image_path: 03_Resources/source_material/ArtistPortraits/jon_batiste_randy_newman.jpg
 biography_enhanced_at: '2025-11-20T07:38:12.808751'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Jon_Batiste
-- https://www.britannica.com/biography/Jon-Batiste
-- https://www.scad.edu/content/jon-batiste
-- https://www.popfiltr.com/artist-profile/jon-batiste
-- https://www.juilliard.edu/stage-beyond/creative-enterprise/creative-associates/jon-batiste
+  - 'https://en.wikipedia.org/wiki/Jon_Batiste'
+  - 'https://www.britannica.com/biography/Jon-Batiste'
+  - 'https://www.scad.edu/content/jon-batiste'
+  - 'https://www.popfiltr.com/artist-profile/jon-batiste'
+  - >-
+    https://www.juilliard.edu/stage-beyond/creative-enterprise/creative-associates/jon-batiste
 network_extracted: true
 entry_created: '2025-11-20T07:38:12.808758'
 last_updated: '2025-12-23T08:16:10.942591'
+birth_date: '1986-11-11'
+artist_type: person
 ---
 
 ![](jon_batiste_randy_newman.jpg)

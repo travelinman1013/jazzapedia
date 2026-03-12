@@ -3,14 +3,14 @@ title: Mark Muleman Massey
 wiki_slug: mark-muleman-massey
 schema_version: 2
 status: active
-birth_place: Clarksdale, Mississippi, United States
+birth_place: 'Clarksdale, Mississippi, United States'
 genres:
-- footwork
+  - footwork
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/mark_muleman_massey.jpg
   caption: Mark Muleman Massey
   background: solo_singer
-  origin: Clarksdale, Mississippi, United States
+  origin: 'Clarksdale, Mississippi, United States'
 audio_profile:
   tempo_avg: 116.6
   energy_avg: 0.622
@@ -26,46 +26,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Grammy-winning artists (unspecified)
+    - Grammy-winning artists (unspecified)
   influenced:
-  - Emerging Mississippi blues musicians
+    - Emerging Mississippi blues musicians
   mentors:
-  - David Kimbrough
+    - David Kimbrough
 spotify_data:
   followers: 111
   id: 2hDmDKzqP0swkwdHsIBtgV
   popularity: 1
-  url: https://open.spotify.com/artist/2hDmDKzqP0swkwdHsIBtgV
+  url: 'https://open.spotify.com/artist/2hDmDKzqP0swkwdHsIBtgV'
 discography_enriched: true
 top_tracks:
-- Been A Long Time Gone (Been A Long, Long Time)
-- Can't Tell Me Nothing 'Bout The Blues (Been A Long, Long Time)
-- She's Married To The Streets (Been A Long, Long Time)
-- Baby's Gone (Been A Long, Long Time)
-- Give Me Your Love (Been A Long, Long Time)
-- I'm Sorry About That (Been A Long, Long Time)
-- Going Back To Memphis (Been A Long, Long Time)
-- That's How I Got To Memphis (Been A Long, Long Time)
-- Your Good Stuff (Been A Long, Long Time)
-- Hey Good Lookin' (Been A Long, Long Time)
+  - 'Been A Long Time Gone (Been A Long, Long Time)'
+  - 'Can''t Tell Me Nothing ''Bout The Blues (Been A Long, Long Time)'
+  - 'She''s Married To The Streets (Been A Long, Long Time)'
+  - 'Baby''s Gone (Been A Long, Long Time)'
+  - 'Give Me Your Love (Been A Long, Long Time)'
+  - 'I''m Sorry About That (Been A Long, Long Time)'
+  - 'Going Back To Memphis (Been A Long, Long Time)'
+  - 'That''s How I Got To Memphis (Been A Long, Long Time)'
+  - 'Your Good Stuff (Been A Long, Long Time)'
+  - 'Hey Good Lookin'' (Been A Long, Long Time)'
 external_urls:
-  spotify: https://open.spotify.com/artist/2hDmDKzqP0swkwdHsIBtgV
+  spotify: 'https://open.spotify.com/artist/2hDmDKzqP0swkwdHsIBtgV'
   wikipedia: null
 image_path: 03_Resources/source_material/ArtistPortraits/mark_muleman_massey.jpg
 biography_enhanced_at: '2025-11-12T14:57:18.185516'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://lahoradelblues.com/en/mark-muleman-massey-been-a-long-long-time/
-- https://byjeffburger.com/2025/02/12/music-reviews-mark-muleman-massey-tommy-castro/
-- http://thebluesmusicblog.blogspot.com/2025/03/bluesrnb-guitaristvocalist-mark-muleman.html
-- https://blues.gr/profiles/blogs/q-a-with-clarksdale-based-mark-muleman-massey
-- https://artistecard.com/MarkMulemanMasseyband
-- https://geoffwilburmusic.com/2025/06/01/mark-muleman-massey-been-a-long-long-time/
+  - 'https://lahoradelblues.com/en/mark-muleman-massey-been-a-long-long-time/'
+  - >-
+    https://byjeffburger.com/2025/02/12/music-reviews-mark-muleman-massey-tommy-castro/
+  - >-
+    http://thebluesmusicblog.blogspot.com/2025/03/bluesrnb-guitaristvocalist-mark-muleman.html
+  - >-
+    https://blues.gr/profiles/blogs/q-a-with-clarksdale-based-mark-muleman-massey
+  - 'https://artistecard.com/MarkMulemanMasseyband'
+  - >-
+    https://geoffwilburmusic.com/2025/06/01/mark-muleman-massey-been-a-long-long-time/
 network_extracted: true
 entry_created: '2025-11-12T14:57:18.185524'
 last_updated: '2025-12-23T08:16:12.710845'
-
+origin: 'Clarksdale, Mississippi, United States'
+artist_type: person
 ---
 
 ![](mark_muleman_massey.jpg)

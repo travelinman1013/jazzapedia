@@ -23,54 +23,66 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Justice
-  - Kendrick Lamar
-  - Flying Lotus
-  - Kamasi Washington
-  - Mac Miller
-  - Gorillaz
-  - Suicidal Tendencies
+    - Justice
+    - Kendrick Lamar
+    - Flying Lotus
+    - Kamasi Washington
+    - Mac Miller
+    - Gorillaz
+    - Suicidal Tendencies
   influenced: []
   mentors:
-  - Stanley Clarke
-  - Marcus Miller
-  - Jaco Pastorius
-  - Flying Lotus
-  - Erykah Badu
+    - Stanley Clarke
+    - Marcus Miller
+    - Jaco Pastorius
+    - Flying Lotus
+    - Erykah Badu
 spotify_data:
   followers: 1535751
   id: 4frXpPxQQZwbCu3eTGnZEw
   popularity: 69
-  url: https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw
+  url: 'https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw'
 discography_enriched: true
 top_tracks:
-- Wesley's Theory (To Pimp A Butterfly)
-- Funny Thing (It Is What It Is)
-- Them Changes (Drunk)
-- After Last Night (with Thundercat & Bootsy Collins) (An Evening With Silk Sonic)
-- These Walls (To Pimp A Butterfly)
-- After Last Night (with Thundercat & Bootsy Collins) (An Evening With Silk Sonic)
-- Walk On By (Drunk)
-- No More Lies
-- Cracker Island (feat. Thundercat) (Cracker Island)
-- Dragonball Durag (It Is What It Is)
+  - Wesley's Theory (To Pimp A Butterfly)
+  - Funny Thing (It Is What It Is)
+  - Them Changes (Drunk)
+  - >-
+    After Last Night (with Thundercat & Bootsy Collins) (An Evening With Silk
+    Sonic)
+  - These Walls (To Pimp A Butterfly)
+  - >-
+    After Last Night (with Thundercat & Bootsy Collins) (An Evening With Silk
+    Sonic)
+  - Walk On By (Drunk)
+  - No More Lies
+  - Cracker Island (feat. Thundercat) (Cracker Island)
+  - Dragonball Durag (It Is What It Is)
 external_urls:
-  spotify: https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw
-  wikipedia: https://en.wikipedia.org/wiki/Thundercat_(musician)
+  spotify: 'https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw'
+  wikipedia: 'https://en.wikipedia.org/wiki/Thundercat_(musician)'
 image_path: 03_Resources/source_material/ArtistPortraits/justice_and_thundercat.jpg
 biography_enhanced_at: '2025-11-20T06:53:38.987344'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Wikipedia - Thundercat (musician)
-- Kiddle Encyclopedia - Thundercat (musician) Facts for Kids
-- All About Jazz - Thundercat Musician
-- WLRN - Thundercat On Making Music Outside The Lines
-- LAist - Meet Thundercat, the go-to bassist for everyone from Erykah Badu to Kendrick Lamar
-- Vice Magazine - Thundercat the Great
+  - Wikipedia - Thundercat (musician)
+  - Kiddle Encyclopedia - Thundercat (musician) Facts for Kids
+  - All About Jazz - Thundercat Musician
+  - WLRN - Thundercat On Making Music Outside The Lines
+  - >-
+    LAist - Meet Thundercat, the go-to bassist for everyone from Erykah Badu to
+    Kendrick Lamar
+  - Vice Magazine - Thundercat the Great
 network_extracted: true
 entry_created: '2025-11-20T06:53:38.987352'
 last_updated: '2025-12-23T08:16:11.113089'
+birth_place: 'Los Angeles, California, United States'
+origin: >-
+  Los Angeles, California, United States (Thundercat); Paris, France (Justice &
+  Thundercat collaboration featured at Olympics 2024)
+birth_date: '1984-10-19'
+artist_type: person
 ---
 
 ![](justice_and_thundercat.jpg)

@@ -2,25 +2,25 @@
 title: Doc Watson
 wiki_slug: doc-watson
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1923-03-03'
-birth_place: Deep Gap, North Carolina, United States
+birth_place: 'Deep Gap, North Carolina, United States'
 death_date: '2012-05-29'
 genres:
-- bluegrass
-- newgrass
-- country blues
-- folk
-- americana
+  - bluegrass
+  - newgrass
+  - country blues
+  - folk
+  - americana
 instruments:
-- eponymous
+  - eponymous
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Doc_Watson.jpg
   caption: Doc Watson
   background: non_vocal_instrumentalist
   born: '1923-03-03'
-  origin: Deep Gap, North Carolina, United States
+  origin: 'Deep Gap, North Carolina, United States'
   died: '2012-05-29'
 audio_profile:
   tempo_avg: 119.9
@@ -37,61 +37,65 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Merle Watson
-  - T. Michael Coleman
-  - Jack Williams
-  - Clarence Ashley
-  - Jack Lawrence
+    - Merle Watson
+    - T. Michael Coleman
+    - Jack Williams
+    - Clarence Ashley
+    - Jack Lawrence
   influenced:
-  - Tony Rice
-  - Dan Crary
-  - Alison Krauss
+    - Tony Rice
+    - Dan Crary
+    - Alison Krauss
   mentors:
-  - General Dixon Watson
-  - Local Appalachian musicians
+    - General Dixon Watson
+    - Local Appalachian musicians
 spotify_data:
   followers: 126953
   id: 01N1aZStXA4yGvkz4vRXtJ
   popularity: 46
-  url: https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ
+  url: 'https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ'
 discography_enriched: true
 top_tracks:
-- Sittin On Top Of The World (Doc Watson)
-- Deep River Blues (Doc Watson)
-- House Of The Rising Sun (Third Generation Blues)
-- Shady Grove (The Essential Doc Watson)
-- Walk On Boy (Third Generation Blues)
-- Summertime (Doc & Dawg)
-- Will The Circle Be Unbroken (Glory, Glory) (Will The Circle Be Unbroken (Vol. III))
-- Tennessee Stud - Vanguard Version (Southbound)
-- Little Sadie (The Vanguard Years)
-- Windy And Warm (The Vanguard Years)
+  - Sittin On Top Of The World (Doc Watson)
+  - Deep River Blues (Doc Watson)
+  - House Of The Rising Sun (Third Generation Blues)
+  - Shady Grove (The Essential Doc Watson)
+  - Walk On Boy (Third Generation Blues)
+  - Summertime (Doc & Dawg)
+  - >-
+    Will The Circle Be Unbroken (Glory, Glory) (Will The Circle Be Unbroken
+    (Vol. III))
+  - Tennessee Stud - Vanguard Version (Southbound)
+  - Little Sadie (The Vanguard Years)
+  - Windy And Warm (The Vanguard Years)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8aa38215-217d-432e-aca6-f2d85b05e843
-  spotify: https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ
-  wikipedia: https://en.wikipedia.org/wiki/Doc_Watson
+  musicbrainz: 'https://musicbrainz.org/artist/8aa38215-217d-432e-aca6-f2d85b05e843'
+  spotify: 'https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Doc_Watson'
 image_path: 03_Resources/source_material/ArtistPortraits/Doc_Watson.jpg
 biography_enhanced_at: '2025-10-20T01:50:12.972706'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://guides.lib.unc.edu/docwatson/biographical-info
-- http://www.docsguitar.com/pdf/docsbio.pdf
-- https://www.bluegrasshall.org/inductees/arthel-doc-watson/
-- https://www.lmc.edu/about/news-center/articles/2021/in-the-mountains-doc-watson.htm
-- https://universitycollege.appstate.edu/programs/first-year-seminar/course-offerings/life-music-doc-watson
+  - 'https://guides.lib.unc.edu/docwatson/biographical-info'
+  - 'http://www.docsguitar.com/pdf/docsbio.pdf'
+  - 'https://www.bluegrasshall.org/inductees/arthel-doc-watson/'
+  - >-
+    https://www.lmc.edu/about/news-center/articles/2021/in-the-mountains-doc-watson.htm
+  - >-
+    https://universitycollege.appstate.edu/programs/first-year-seminar/course-offerings/life-music-doc-watson
 network_extracted: true
 entry_created: '2025-10-20T01:50:12.972724'
 last_updated: '2025-12-23T08:16:01.743453'
-disambiguation: US guitarist, singer & songwriter
+disambiguation: 'US guitarist, singer & songwriter'
 gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:24:26.603790'
 musicbrainz_id: 8aa38215-217d-432e-aca6-f2d85b05e843
 tags:
-- appalachian folk
-- bluegrass
-- folk
-
+  - appalachian folk
+  - bluegrass
+  - folk
+is_active: false
 ---
 
 ![](Doc_Watson.jpg)

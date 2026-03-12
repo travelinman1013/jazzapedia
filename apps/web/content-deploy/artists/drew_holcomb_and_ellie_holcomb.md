@@ -4,9 +4,10 @@ wiki_slug: drew-holcomb-ellie-holcomb
 schema_version: 2
 status: active
 genres:
-- christian folk
+  - christian folk
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/drew_holcomb_and_ellie_holcomb.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/drew_holcomb_and_ellie_holcomb.jpg
   caption: Drew Holcomb & Ellie Holcomb
   background: solo_singer
 audio_profile:
@@ -24,49 +25,56 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Drew Holcomb and the Neighbors (band)
-  - The Avett Brothers, Don Henley, Darius Rucker, Willie Nelson
+    - Drew Holcomb and the Neighbors (band)
+    - 'The Avett Brothers, Don Henley, Darius Rucker, Willie Nelson'
   influenced: []
   mentors:
-  - Brown Bannister
-  - David Gray, Damien Rice, Bob Dylan, Tom Petty
+    - Brown Bannister
+    - 'David Gray, Damien Rice, Bob Dylan, Tom Petty'
 spotify_data:
   followers: 178801
   id: 4RwbDag6jWIYJnEGH6Wte9
   popularity: 53
-  url: https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9
+  url: 'https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9'
 discography_enriched: true
 top_tracks:
-- Find Your People (Strangers No More)
-- Without a Light
-- Find Your People
-- Memory Bank (Memory Bank)
-- What Would I Do Without You (Good Light)
-- Family (Dragons)
-- Ring the Bells
-- American Beauty (Medicine)
-- I Like to Be With Me When I'm With You (A Million Miles Away)
-- Dance With Everybody (Strangers No More)
+  - Find Your People (Strangers No More)
+  - Without a Light
+  - Find Your People
+  - Memory Bank (Memory Bank)
+  - What Would I Do Without You (Good Light)
+  - Family (Dragons)
+  - Ring the Bells
+  - American Beauty (Medicine)
+  - I Like to Be With Me When I'm With You (A Million Miles Away)
+  - Dance With Everybody (Strangers No More)
 external_urls:
-  spotify: https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9
-  wikipedia: https://en.wikipedia.org/wiki/Ellie_Holcomb
-image_path: 03_Resources/source_material/ArtistPortraits/drew_holcomb_and_ellie_holcomb.jpg
+  spotify: 'https://open.spotify.com/artist/4RwbDag6jWIYJnEGH6Wte9'
+  wikipedia: 'https://en.wikipedia.org/wiki/Ellie_Holcomb'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/drew_holcomb_and_ellie_holcomb.jpg
 biography_enhanced_at: '2025-11-24T08:33:00.003757'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://styleblueprint.com/everyday/drew-holcomb-ellie-holcomb/
-- https://thebluegrasssituation.com/read/drew-ellie-holcomb-take-us-through-their-memory-bank/
-- https://en.wikipedia.org/wiki/Ellie_Holcomb
-- https://www.nashvillesymphony.org/tickets/concert/2023-2024-season/drew-and-ellie-holcombs-neighborly-christmas/drew-and-ellie-holcomb/
-- https://www.thewarcry.org/articles/a-river-to-carry-us-home-with-ellie-holcomb/
-- https://www.wycliffe.org/blog/featured/beauty-from-brokenness-a-conversation-with-ellie-holcomb/
-- https://www.raisedrowdy.com/2025/02/20/interview-with-drew-and-ellie-holcomb/
-- https://www.ellieholcomb.com/new-page
+  - 'https://styleblueprint.com/everyday/drew-holcomb-ellie-holcomb/'
+  - >-
+    https://thebluegrasssituation.com/read/drew-ellie-holcomb-take-us-through-their-memory-bank/
+  - 'https://en.wikipedia.org/wiki/Ellie_Holcomb'
+  - >-
+    https://www.nashvillesymphony.org/tickets/concert/2023-2024-season/drew-and-ellie-holcombs-neighborly-christmas/drew-and-ellie-holcomb/
+  - >-
+    https://www.thewarcry.org/articles/a-river-to-carry-us-home-with-ellie-holcomb/
+  - >-
+    https://www.wycliffe.org/blog/featured/beauty-from-brokenness-a-conversation-with-ellie-holcomb/
+  - >-
+    https://www.raisedrowdy.com/2025/02/20/interview-with-drew-and-ellie-holcomb/
+  - 'https://www.ellieholcomb.com/new-page'
 network_extracted: true
 entry_created: '2025-11-24T08:33:00.003766'
 last_updated: '2025-12-23T08:16:08.030633'
-origin: Nashville, Tennessee, United States
+origin: 'Nashville, Tennessee, United States'
+artist_type: band
 ---
 
 ![](drew_holcomb_and_ellie_holcomb.jpg)

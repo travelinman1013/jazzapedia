@@ -5,7 +5,7 @@ schema_version: 2
 artist_type: person
 status: active
 birth_date: '1955-11-17'
-birth_place: Chapelton
+birth_place: 'Chapelton, Clarendon Parish, Jamaica'
 death_date: '2017-03-04'
 genres: []
 infobox:
@@ -21,7 +21,7 @@ audio_profile:
   valence_avg: 0.775
   danceability_avg: 0.735
   acousticness_avg: 0.094
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -12.7
   speechiness_avg: 0.155
   liveness_avg: 0.137
@@ -30,46 +30,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Trevor Elliott
-  - The Clash
-  - Sly and Robbie
-  - Roots Radics
+    - Trevor Elliott
+    - The Clash
+    - Sly and Robbie
+    - Roots Radics
   influenced:
-  - Contemporary Jamaican reggae artists
+    - Contemporary Jamaican reggae artists
   mentors:
-  - Vasco Edwards
-  - Mikey Dread (Michael Campbell)
+    - Vasco Edwards
+    - Mikey Dread (Michael Campbell)
 spotify_data:
   followers: 2
   id: 77ZX9u84vNMqe1v5AtUa0N
   popularity: 0
-  url: https://open.spotify.com/artist/77ZX9u84vNMqe1v5AtUa0N
+  url: 'https://open.spotify.com/artist/77ZX9u84vNMqe1v5AtUa0N'
 discography_enriched: true
 top_tracks:
-- Cry for My Brothers (Cry for My Brothers)
-- Feel It (Feel It)
-- Dreadlocks Robinson (Dreadlocks Robinson)
+  - Cry for My Brothers (Cry for My Brothers)
+  - Feel It (Feel It)
+  - Dreadlocks Robinson (Dreadlocks Robinson)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/1143c02c-49f0-43fa-88a9-6327ffa5c8f9
-  spotify: https://open.spotify.com/artist/77ZX9u84vNMqe1v5AtUa0N
-  wikipedia: https://simple.wikipedia.org/wiki/Edi_Fitzroy
+  musicbrainz: 'https://musicbrainz.org/artist/1143c02c-49f0-43fa-88a9-6327ffa5c8f9'
+  spotify: 'https://open.spotify.com/artist/77ZX9u84vNMqe1v5AtUa0N'
+  wikipedia: 'https://simple.wikipedia.org/wiki/Edi_Fitzroy'
 image_path: 03_Resources/source_material/ArtistPortraits/edi_fitzroy.jpg
 biography_enhanced_at: '2025-10-27T02:45:31.886983'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://simple.wikipedia.org/wiki/Edi_Fitzroy
-- https://blessingsallover.wordpress.com/2017/03/24/edi-fitzroy-1955-2017/
-- https://www.reggaeville.com/artist-details/edi-fitzroy/about/
-- https://reggaeinseattle.com/blessed-earth-strong-to-fitzroy-edwards-aka-edi-fitzroy/
-- https://tootoot.fm/en/5477125290165009088ef014
-- https://kids.kiddle.co/Edi_Fitzroy
-- https://www.last.fm/music/Edi+Fitzroy/+wiki
+  - 'https://simple.wikipedia.org/wiki/Edi_Fitzroy'
+  - 'https://blessingsallover.wordpress.com/2017/03/24/edi-fitzroy-1955-2017/'
+  - 'https://www.reggaeville.com/artist-details/edi-fitzroy/about/'
+  - >-
+    https://reggaeinseattle.com/blessed-earth-strong-to-fitzroy-edwards-aka-edi-fitzroy/
+  - 'https://tootoot.fm/en/5477125290165009088ef014'
+  - 'https://kids.kiddle.co/Edi_Fitzroy'
+  - 'https://www.last.fm/music/Edi+Fitzroy/+wiki'
 network_extracted: true
 entry_created: '2025-10-27T02:45:31.887002'
 last_updated: '2025-12-23T08:16:08.218101'
 gender: Male
 musicbrainz_id: 1143c02c-49f0-43fa-88a9-6327ffa5c8f9
+is_active: false
 ---
 
 ![](edi_fitzroy.jpg)

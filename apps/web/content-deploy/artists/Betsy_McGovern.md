@@ -4,14 +4,14 @@ wiki_slug: betsy-mcgovern
 schema_version: 2
 status: active
 aliases: []
-birth_place: New Orleans, Louisiana, USA
+birth_place: 'New Orleans, Louisiana, USA'
 genres:
-- traditional folk
+  - traditional folk
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Betsy_McGovern.jpg
   caption: Betsy McGovern
   background: solo_singer
-  origin: New Orleans, Louisiana, USA
+  origin: 'New Orleans, Louisiana, USA'
 audio_profile:
   tempo_avg: 105.1
   energy_avg: 0.252
@@ -27,48 +27,54 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - The Poor Clares
-  - Young Audiences of New Orleans
+    - The Poor Clares
+    - Young Audiences of New Orleans
   influenced:
-  - Young musicians in New Orleans
+    - Young musicians in New Orleans
   mentors:
-  - Traditional Irish Folk Singers
+    - Traditional Irish Folk Singers
 related_artists: []
 spotify_data:
   followers: 69
   id: 3GsIfamSnq3btdOLjcjAwz
   popularity: 0
-  url: https://open.spotify.com/artist/3GsIfamSnq3btdOLjcjAwz
+  url: 'https://open.spotify.com/artist/3GsIfamSnq3btdOLjcjAwz'
   verified: false
 discography_enriched: true
 albums_count: 2
 singles_count: 0
 top_tracks:
-- 'I Wonder as I Wander (The Poor Clares: Songs for Midwinter)'
-- 'Folk-Song Carols: The Moon Shines Bright (The Poor Clares: Songs for Midwinter)'
-- 'A Blessing (The Poor Clares: Songs for Midwinter)'
-- 'Remember the Poor (The Poor Clares: Songs for Midwinter)'
-- 'The Reawakening (The Poor Clares: Songs for Midwinter)'
-- 'Folk-Song Carols: The Moon Shines Bright (The Poor Clares: Songs for Midwinter)'
-- 'A Blessing (The Poor Clares: Songs for Midwinter)'
-- 'I Wonder as I Wander (The Poor Clares: Songs for Midwinter)'
-- 'Remember the Poor (The Poor Clares: Songs for Midwinter)'
-- 'The Reawakening (The Poor Clares: Songs for Midwinter)'
+  - 'I Wonder as I Wander (The Poor Clares: Songs for Midwinter)'
+  - >-
+    Folk-Song Carols: The Moon Shines Bright (The Poor Clares: Songs for
+    Midwinter)
+  - 'A Blessing (The Poor Clares: Songs for Midwinter)'
+  - 'Remember the Poor (The Poor Clares: Songs for Midwinter)'
+  - 'The Reawakening (The Poor Clares: Songs for Midwinter)'
+  - >-
+    Folk-Song Carols: The Moon Shines Bright (The Poor Clares: Songs for
+    Midwinter)
+  - 'A Blessing (The Poor Clares: Songs for Midwinter)'
+  - 'I Wonder as I Wander (The Poor Clares: Songs for Midwinter)'
+  - 'Remember the Poor (The Poor Clares: Songs for Midwinter)'
+  - 'The Reawakening (The Poor Clares: Songs for Midwinter)'
 external_urls:
   musicbrainz: null
-  spotify: https://open.spotify.com/artist/3GsIfamSnq3btdOLjcjAwz
-  wikipedia: https://en.wikipedia.org/wiki/Accused_(2023_TV_series)
+  spotify: 'https://open.spotify.com/artist/3GsIfamSnq3btdOLjcjAwz'
+  wikipedia: 'https://en.wikipedia.org/wiki/Accused_(2023_TV_series)'
 image_path: 03_Resources/source_material/ArtistPortraits/Betsy_McGovern.jpg
 biography_source: wikipedia
 biography_enhanced_at: '2025-09-30T12:16:58.260650'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.irishamerica.com/2006/02/celtic-women-celebrate/
+  - 'https://www.irishamerica.com/2006/02/celtic-women-celebrate/'
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-18 12:57:37.994039
+entry_created: 2025-09-18T12:57:37.994Z
 last_updated: '2025-12-23T08:16:01.180491'
+origin: 'New Orleans, Louisiana, United States'
+artist_type: person
 ---
 
 ![](Betsy_McGovern.jpg)

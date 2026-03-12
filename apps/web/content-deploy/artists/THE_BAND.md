@@ -1,27 +1,27 @@
 ---
-title: THE BAND
+title: The Band
 wiki_slug: the-band
 schema_version: 2
-artist_type: Group
+artist_type: band
 status: active
 birth_date: 1967-09
 genres:
-- folk rock
-- roots rock
-- southern rock
-- americana
+  - folk rock
+  - roots rock
+  - southern rock
+  - americana
 instruments:
-- guitar
-- lead vocals
-- original
-- drums (drum set)
-- keyboard
-- lap steel guitar
-- bass guitar
-- fiddle
-- mandolin
-- accordion
-- saxophone
+  - guitar
+  - lead vocals
+  - original
+  - drums (drum set)
+  - keyboard
+  - lap steel guitar
+  - bass guitar
+  - fiddle
+  - mandolin
+  - accordion
+  - saxophone
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/THE_BAND.jpg
   caption: THE BAND
@@ -42,58 +42,65 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Bob Dylan
-  - Martin Scorsese
+    - Bob Dylan
+    - Martin Scorsese
   influenced:
-  - Elton John
-  - The Grateful Dead
-  - Wilco
-  - Eric Clapton
+    - Elton John
+    - The Grateful Dead
+    - Wilco
+    - Eric Clapton
   mentors:
-  - Ronnie Hawkins
-  - Bob Dylan
+    - Ronnie Hawkins
+    - Bob Dylan
 spotify_data:
   followers: 1229119
   id: 4vpDg7Y7fU982Ds30zawDA
   popularity: 59
-  url: https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA
+  url: 'https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA'
 discography_enriched: true
 top_tracks:
-- The Weight - Remastered 2000 (Music From Big Pink (Remastered))
-- The Night They Drove Old Dixie Down (The Band)
-- Atlantic City (Jericho)
-- Up On Cripple Creek (The Band)
-- Ophelia - Remastered 2000 (Northern Lights-Southern Cross (Expanded Edition))
-- I Shall Be Released - Remastered 2000 (Music From Big Pink (Remastered))
-- Helpless (feat. Neil Young) - Concert Version (The Last Waltz (Deluxe Version))
-- The Shape I'm In - Remastered 2000 (Stage Fright (Expanded Edition))
-- 'The Last Waltz Suite: The Weight (feat. The Staples) (The Last Waltz (Deluxe Version))'
-- Chest Fever - Remastered 2000 (Music From Big Pink (Remastered))
+  - The Weight - Remastered 2000 (Music From Big Pink (Remastered))
+  - The Night They Drove Old Dixie Down (The Band)
+  - Atlantic City (Jericho)
+  - Up On Cripple Creek (The Band)
+  - >-
+    Ophelia - Remastered 2000 (Northern Lights-Southern Cross (Expanded
+    Edition))
+  - I Shall Be Released - Remastered 2000 (Music From Big Pink (Remastered))
+  - >-
+    Helpless (feat. Neil Young) - Concert Version (The Last Waltz (Deluxe
+    Version))
+  - The Shape I'm In - Remastered 2000 (Stage Fright (Expanded Edition))
+  - >-
+    The Last Waltz Suite: The Weight (feat. The Staples) (The Last Waltz (Deluxe
+    Version))
+  - Chest Fever - Remastered 2000 (Music From Big Pink (Remastered))
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8c90ad8c-9150-4c51-a1eb-342232e99d06
-  spotify: https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA
-  wikipedia: https://en.wikipedia.org/wiki/The_Band
+  musicbrainz: 'https://musicbrainz.org/artist/8c90ad8c-9150-4c51-a1eb-342232e99d06'
+  spotify: 'https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Band'
 image_path: 03_Resources/source_material/ArtistPortraits/THE_BAND.jpg
 biography_enhanced_at: '2025-10-20T09:55:45.236596'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.britannica.com/topic/the-Band-Canadian-American-rock-group
-- https://www.imdb.com/name/nm1408415/bio/
-- https://top40weekly.com/the-band/
-- https://www.allmusic.com/artist/the-band-mn0000038490
-- https://last.fm/music/The+Band/+wiki
+  - 'https://www.britannica.com/topic/the-Band-Canadian-American-rock-group'
+  - 'https://www.imdb.com/name/nm1408415/bio/'
+  - 'https://top40weekly.com/the-band/'
+  - 'https://www.allmusic.com/artist/the-band-mn0000038490'
+  - 'https://last.fm/music/The+Band/+wiki'
 network_extracted: true
 entry_created: '2025-10-20T09:55:45.236609'
 last_updated: '2025-12-23T08:16:04.006510'
 disambiguation: Canadian-American rock band
 musicbrainz_enriched_at: '2025-10-21T09:44:55.133410'
 musicbrainz_id: 8c90ad8c-9150-4c51-a1eb-342232e99d06
-origin: Toronto, Ontario, Canada
+origin: 'Toronto, Ontario, Canada'
 tags:
-- americana
-- country rock
-- folk rock
+  - americana
+  - country rock
+  - folk rock
+birth_place: Toronto
 ---
 
 ![](THE_BAND.jpg)

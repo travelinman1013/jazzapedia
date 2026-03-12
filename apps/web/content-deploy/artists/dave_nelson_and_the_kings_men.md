@@ -1,17 +1,18 @@
 ---
-title: DAVE NELSON AND THE KING'S MEN
+title: Dave Nelson and the King's Men
 wiki_slug: dave-nelson-and-the-kings-men
 schema_version: 2
-artist_type: group
+artist_type: person
 status: active
 genres:
-- ragtime
+  - ragtime
 instruments:
-- double bass
-- eponymous
-- original
+  - double bass
+  - eponymous
+  - original
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/dave_nelson_and_the_kings_men.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/dave_nelson_and_the_kings_men.jpg
   caption: DAVE NELSON AND THE KING'S MEN
   background: group_or_band
 audio_profile:
@@ -29,60 +30,63 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Members of King Oliver's Orchestra
+    - Members of King Oliver's Orchestra
   influenced:
-  - Later jazz trumpeters and arrangers
+    - Later jazz trumpeters and arrangers
   mentors:
-  - King Oliver
+    - King Oliver
 spotify_data:
   followers: 23
   id: 467mBJD3TH2s5o6BU5XDPx
   popularity: 1
-  url: https://open.spotify.com/artist/467mBJD3TH2s5o6BU5XDPx
+  url: 'https://open.spotify.com/artist/467mBJD3TH2s5o6BU5XDPx'
 discography_enriched: true
 top_tracks:
-- When the Day Is Done (Thumpin' & Bumpin' - New York, Vol. 2)
-- I Ain't Got Nobody (Thumpin' & Bumpin' - New York, Vol. 2)
-- Some of These Days (Thumpin' & Bumpin' - New York, Vol. 2)
-- Some of These Days (These Days, These Moments (Original Recording))
-- I Ain't Got Nobody (These Days, These Moments (Original Recording))
-- When Day Is Done (These Days, These Moments (Original Recording))
-- I Ain't Got Nobody (When Day Is Done)
-- When Day Is Done (When Day Is Done)
-- Some of These Days (When Day Is Done)
-- Some Of These Days (Jazzy Christmas)
+  - 'When the Day Is Done (Thumpin'' & Bumpin'' - New York, Vol. 2)'
+  - 'I Ain''t Got Nobody (Thumpin'' & Bumpin'' - New York, Vol. 2)'
+  - 'Some of These Days (Thumpin'' & Bumpin'' - New York, Vol. 2)'
+  - 'Some of These Days (These Days, These Moments (Original Recording))'
+  - 'I Ain''t Got Nobody (These Days, These Moments (Original Recording))'
+  - 'When Day Is Done (These Days, These Moments (Original Recording))'
+  - I Ain't Got Nobody (When Day Is Done)
+  - When Day Is Done (When Day Is Done)
+  - Some of These Days (When Day Is Done)
+  - Some Of These Days (Jazzy Christmas)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/113023bd-a4fa-4b66-a1f8-2c946b97207c
-  spotify: https://open.spotify.com/artist/467mBJD3TH2s5o6BU5XDPx
+  musicbrainz: 'https://musicbrainz.org/artist/113023bd-a4fa-4b66-a1f8-2c946b97207c'
+  spotify: 'https://open.spotify.com/artist/467mBJD3TH2s5o6BU5XDPx'
   wikipedia: ''
 image_path: ''
 biography_enhanced_at: '2025-10-23T07:21:04.633490'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.allmusic.com/artist/dave-nelson-mn0001194767
-- https://secondhandsongs.com/artist/169957/all
-- https://www.youtube.com/watch?v=JxZU7wEICEw
-- https://www.youtube.com/watch?v=N9jyKbSEM-U
+  - 'https://www.allmusic.com/artist/dave-nelson-mn0001194767'
+  - 'https://secondhandsongs.com/artist/169957/all'
+  - 'https://www.youtube.com/watch?v=JxZU7wEICEw'
+  - 'https://www.youtube.com/watch?v=N9jyKbSEM-U'
 network_extracted: true
 entry_created: '2025-10-23T07:21:04.633512'
 last_updated: '2025-12-23T08:16:07.517563'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - double bass
-  mbid: 55f6e868-0cdc-4d2c-bf10-3391be211a19
-  name: Simon Marrero
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  - original
-  mbid: d2d89cc3-82da-49f5-8461-ed025e9cb74b
-  name: Dave Nelson
+  - begin: ''
+    end: ''
+    instruments:
+      - double bass
+    mbid: 55f6e868-0cdc-4d2c-bf10-3391be211a19
+    name: Simon Marrero
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+      - original
+    mbid: d2d89cc3-82da-49f5-8461-ed025e9cb74b
+    name: Dave Nelson
 musicbrainz_id: 113023bd-a4fa-4b66-a1f8-2c946b97207c
-origin: Louisiana, United States
+origin: 'Louisiana, United States'
+birth_place: 'Louisiana, United States'
+birth_date: '1905'
+death_date: '1946'
 ---
 
 ![]()

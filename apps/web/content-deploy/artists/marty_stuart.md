@@ -3,17 +3,17 @@ title: Marty Stuart
 wiki_slug: marty-stuart
 schema_version: 2
 status: active
-birth_place: Philadelphia, Mississippi, United States
+birth_place: 'Philadelphia, Mississippi, United States'
 genres:
-- bluegrass
-- honky tonk
-- traditional country
-- country
+  - bluegrass
+  - honky tonk
+  - traditional country
+  - country
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/marty_stuart.jpg
   caption: Marty Stuart
   background: solo_singer
-  origin: Philadelphia, Mississippi, United States
+  origin: 'Philadelphia, Mississippi, United States'
 audio_profile:
   tempo_avg: 119.8
   energy_avg: 0.608
@@ -29,46 +29,49 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Travis Tritt
-  - The Fabulous Superlatives
-  - Earl Scruggs
+    - Travis Tritt
+    - The Fabulous Superlatives
+    - Earl Scruggs
   influenced:
-  - Old Crow Medicine Show
+    - Old Crow Medicine Show
   mentors:
-  - Lester Flatt
-  - Johnny Cash
+    - Lester Flatt
+    - Johnny Cash
 spotify_data:
   followers: 169974
   id: 3OyGv7XUYQwQgECYSzJhyO
   popularity: 47
-  url: https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO
+  url: 'https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO'
 discography_enriched: true
 top_tracks:
-- The Whiskey Ain't Workin' (feat. Marty Stuart) (It's All About to Change)
-- Same Old Train
-- Burn Me Down (Tempted)
-- This One's Gonna Hurt You (For A Long, Long Time) (This One's Gonna Hurt You)
-- Tempted (Tempted)
-- I'm The One (feat. Marty Stuart)
-- Hillbilly Rock (Hillbilly Rock)
-- Till I Found You (Tempted)
-- 'Break Your Own Damn Heart (feat. Midland & Marty Stuart) (HIXTAPE: Vol. 2)'
-- Between You And Me (This One's Gonna Hurt You)
+  - The Whiskey Ain't Workin' (feat. Marty Stuart) (It's All About to Change)
+  - Same Old Train
+  - Burn Me Down (Tempted)
+  - >-
+    This One's Gonna Hurt You (For A Long, Long Time) (This One's Gonna Hurt
+    You)
+  - Tempted (Tempted)
+  - I'm The One (feat. Marty Stuart)
+  - Hillbilly Rock (Hillbilly Rock)
+  - Till I Found You (Tempted)
+  - 'Break Your Own Damn Heart (feat. Midland & Marty Stuart) (HIXTAPE: Vol. 2)'
+  - Between You And Me (This One's Gonna Hurt You)
 external_urls:
-  spotify: https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO
-  wikipedia: https://en.wikipedia.org/wiki/Marty_Stuart
+  spotify: 'https://open.spotify.com/artist/3OyGv7XUYQwQgECYSzJhyO'
+  wikipedia: 'https://en.wikipedia.org/wiki/Marty_Stuart'
 image_path: 03_Resources/source_material/ArtistPortraits/marty_stuart.jpg
 biography_enhanced_at: '2025-11-01T15:19:59.173436'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.biography.com/musician/marty-stuart
-- https://gardenandgun.com/feature/marty-stuart-memory-keeper/
-- https://www.countrymusichalloffame.org/hall-of-fame/marty-stuart
+  - 'https://www.biography.com/musician/marty-stuart'
+  - 'https://gardenandgun.com/feature/marty-stuart-memory-keeper/'
+  - 'https://www.countrymusichalloffame.org/hall-of-fame/marty-stuart'
 network_extracted: true
 entry_created: '2025-11-01T15:19:59.173454'
 last_updated: '2025-12-23T08:16:12.747129'
-
+birth_date: '1958-09-30'
+artist_type: person
 ---
 
 ![](marty_stuart.jpg)

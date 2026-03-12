@@ -2,21 +2,21 @@
 title: Mississippi Fred McDowell
 wiki_slug: mississippi-fred-mcdowell
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1904-01-12'
-birth_place: Rossville, Tennessee, United States
+birth_place: 'Rossville, Tennessee, United States'
 death_date: '1972-07-03'
 genres:
-- blues
-- country blues
-- classic blues
+  - blues
+  - country blues
+  - classic blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Mississippi_Fred_McDowell.jpg
   caption: Mississippi Fred McDowell
   background: solo_singer
   born: '1904-01-12'
-  origin: Rossville, Tennessee, United States
+  origin: 'Rossville, Tennessee, United States'
   died: '1972-07-03'
 audio_profile:
   tempo_avg: 104.5
@@ -33,45 +33,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Alan Lomax
-  - Shirley Collins
+    - Alan Lomax
+    - Shirley Collins
   influenced:
-  - Bonnie Raitt
-  - The Rolling Stones
-  - Dan Auerbach (The Black Keys)
+    - Bonnie Raitt
+    - The Rolling Stones
+    - Dan Auerbach (The Black Keys)
   mentors:
-  - Local Tennessee guitarists
+    - Local Tennessee guitarists
 spotify_data:
   followers: 66686
   id: 0elA30wLp3RmiPaGtU2jhQ
   popularity: 32
-  url: https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ
+  url: 'https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ'
 discography_enriched: true
 top_tracks:
-- You Gotta Move (You Gotta Move)
-- Shake 'Em on Down (Shake 'Em on Down)
-- Good Morning Little Schoolgirl (Good Morning Little School Girl)
-- Going Down to the River (Mama Says I'm Crazy)
-- Write Me a Few Lines (You Gotta Move)
-- Kokomo Blues (You Gotta Move)
-- You Got to Move (Steakbone Slide Guitar)
-- When You Get Home, Please Write Me a Few of Your Lines (Remastered Version) (Going Down to the River - Mississippi Fred
-  McDowell 1959)
-- Louise (You Gotta Move)
-- 'What''s the Matter Now? - Remastered (I''ll Meet You On That Other Shore: Alan Lomax’s "Southern Journey," 1959–1960)'
+  - You Gotta Move (You Gotta Move)
+  - Shake 'Em on Down (Shake 'Em on Down)
+  - Good Morning Little Schoolgirl (Good Morning Little School Girl)
+  - Going Down to the River (Mama Says I'm Crazy)
+  - Write Me a Few Lines (You Gotta Move)
+  - Kokomo Blues (You Gotta Move)
+  - You Got to Move (Steakbone Slide Guitar)
+  - >-
+    When You Get Home, Please Write Me a Few of Your Lines (Remastered Version)
+    (Going Down to the River - Mississippi Fred McDowell 1959)
+  - Louise (You Gotta Move)
+  - >-
+    What's the Matter Now? - Remastered (I'll Meet You On That Other Shore: Alan
+    Lomax’s "Southern Journey," 1959–1960)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/8d2651e1-f539-4492-957a-8b4dc4c5d9b9
-  spotify: https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ
-  wikipedia: https://en.wikipedia.org/wiki/Mississippi_Fred_McDowell
+  musicbrainz: 'https://musicbrainz.org/artist/8d2651e1-f539-4492-957a-8b4dc4c5d9b9'
+  spotify: 'https://open.spotify.com/artist/0elA30wLp3RmiPaGtU2jhQ'
+  wikipedia: 'https://en.wikipedia.org/wiki/Mississippi_Fred_McDowell'
 image_path: 03_Resources/source_material/ArtistPortraits/Mississippi_Fred_McDowell.jpg
 biography_enhanced_at: '2025-10-19T12:00:39.818366'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Mississippi_Fred_McDowell
-- https://msbluestrail.org/blues-trail-markers/fred-mcdowell
-- https://bigtrainblues.com/mississippi-fred-mcdowell/
-- https://mojohand.com/glossary/mississippi-fred-mcdowell/
+  - 'https://en.wikipedia.org/wiki/Mississippi_Fred_McDowell'
+  - 'https://msbluestrail.org/blues-trail-markers/fred-mcdowell'
+  - 'https://bigtrainblues.com/mississippi-fred-mcdowell/'
+  - 'https://mojohand.com/glossary/mississippi-fred-mcdowell/'
 network_extracted: true
 entry_created: '2025-10-19T12:00:39.818378'
 last_updated: '2025-12-23T08:16:03.350018'
@@ -79,9 +82,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:38:20.309600'
 musicbrainz_id: 8d2651e1-f539-4492-957a-8b4dc4c5d9b9
 tags:
-- blues
-- delta blues
-- hill country blues
+  - blues
+  - delta blues
+  - hill country blues
+is_active: false
 ---
 
 ![](Mississippi_Fred_McDowell.jpg)

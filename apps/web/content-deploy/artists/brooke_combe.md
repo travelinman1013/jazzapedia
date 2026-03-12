@@ -2,23 +2,23 @@
 title: Brooke Combe
 wiki_slug: brooke-combe
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 aliases: []
 birth_date: 1999-10
-birth_place: Near Edinburgh, Scotland, UK
+birth_place: 'Near Edinburgh, Scotland, UK'
 years_active: 2021-present
 genres: []
 occupation:
-- singer
-- soul singer
-- singer-songwriter
+  - singer
+  - soul singer
+  - singer-songwriter
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Brooke_Combe.jpg
   caption: Brooke Combe
   background: solo_singer
   born: 1999-10
-  origin: Near Edinburgh, Scotland, UK
+  origin: 'Near Edinburgh, Scotland, UK'
 audio_profile:
   tempo_avg: 122.1
   energy_avg: 0.678
@@ -34,36 +34,36 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - James Skelly
+    - James Skelly
   influenced:
-  - None documented
+    - None documented
   mentors:
-  - Grace Jack
-  - Parents
+    - Grace Jack
+    - Parents
 related_artists: []
 spotify_data:
   followers: 27409
   id: 0JXwYf8x27ZfMO2gGuh6HO
   popularity: 42
-  url: https://open.spotify.com/artist/0JXwYf8x27ZfMO2gGuh6HO
+  url: 'https://open.spotify.com/artist/0JXwYf8x27ZfMO2gGuh6HO'
   verified: false
 discography_enriched: true
 albums_count: 2
 singles_count: 14
 top_tracks:
-- Sweet Surrender (feat. Brooke Combe) (Pink Cactus Café)
-- Are You With Me? (Are You With Me?)
-- Better Day (10 For The People)
-- A-Game (A-Game)
-- This Town (Dancing At The Edge Of The World)
-- A-Game (Black Is The New Gold)
-- Yes Sir, I Can Boogie (Yes Sir, I Can Boogie)
-- Miss Me Now (Black Is The New Gold)
-- This Town (This Town)
-- The Last Time (Dancing At The Edge Of The World)
+  - Sweet Surrender (feat. Brooke Combe) (Pink Cactus Café)
+  - Are You With Me? (Are You With Me?)
+  - Better Day (10 For The People)
+  - A-Game (A-Game)
+  - This Town (Dancing At The Edge Of The World)
+  - A-Game (Black Is The New Gold)
+  - 'Yes Sir, I Can Boogie (Yes Sir, I Can Boogie)'
+  - Miss Me Now (Black Is The New Gold)
+  - This Town (This Town)
+  - The Last Time (Dancing At The Edge Of The World)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/7621d315-cc2e-40c5-ac86-9a62fa8accb0
-  spotify: https://open.spotify.com/artist/0JXwYf8x27ZfMO2gGuh6HO
+  musicbrainz: 'https://musicbrainz.org/artist/7621d315-cc2e-40c5-ac86-9a62fa8accb0'
+  spotify: 'https://open.spotify.com/artist/0JXwYf8x27ZfMO2gGuh6HO'
   wikipedia: Not available
 image_path: 03_Resources/source_material/ArtistPortraits/Brooke_Combe.jpg
 biography_source: wikipedia
@@ -71,13 +71,13 @@ biography_enhanced_at: '2025-09-30T11:40:24.601324'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- Black History Month 2025
-- Modern Sky UK
-- Gigs in Scotland
-- Ayrshire Magazine
+  - Black History Month 2025
+  - Modern Sky UK
+  - Gigs in Scotland
+  - Ayrshire Magazine
 source_verified: true
 network_extracted: true
-entry_created: 2025-09-22 21:47:23.529218
+entry_created: 2025-09-22T21:47:23.529Z
 last_updated: '2025-12-23T08:16:06.111112'
 disambiguation: UK singer/songwriter
 gender: Female

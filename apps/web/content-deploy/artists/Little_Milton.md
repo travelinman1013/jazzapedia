@@ -2,22 +2,22 @@
 title: Little Milton
 wiki_slug: little-milton
 schema_version: 2
-artist_type: Person
+artist_type: person
 status: active
 birth_date: '1934-09-07'
-birth_place: Inverness, Mississippi, United States
+birth_place: 'Inverness, Mississippi, United States'
 death_date: '2005-08-04'
 genres:
-- blues
-- soul blues
-- northern soul
-- classic blues
+  - blues
+  - soul blues
+  - northern soul
+  - classic blues
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/Little_Milton.jpg
   caption: Little Milton
   background: solo_singer
   born: '1934-09-07'
-  origin: Inverness, Mississippi, United States
+  origin: 'Inverness, Mississippi, United States'
   died: '2005-08-04'
 audio_profile:
   tempo_avg: 128.3
@@ -34,45 +34,45 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Albert King
-  - Sonny Boy Williamson II
-  - Willie Love
+    - Albert King
+    - Sonny Boy Williamson II
+    - Willie Love
   influenced:
-  - Denise LaSalle
-  - Contemporary soul-blues artists
+    - Denise LaSalle
+    - Contemporary soul-blues artists
   mentors:
-  - Big Milton Campbell
-  - Eddie Cusic
-  - Ike Turner
+    - Big Milton Campbell
+    - Eddie Cusic
+    - Ike Turner
 spotify_data:
   followers: 49823
   id: 0MPtuQaV2GiRdLjAkPOaan
   popularity: 29
-  url: https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan
+  url: 'https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan'
 discography_enriched: true
 top_tracks:
-- Grits Ain't Groceries (All Around The World) (Grits Ain't Groceries)
-- Grits Ain't Groceries (All Around The World) (Rockin' The Blues)
-- We're Gonna Make It (We're Gonna Make It)
-- That's What Love Will Make You Do (Tin Pan Alley)
-- Walking The Backstreets And Crying (Walkin' The Back Streets)
-- I Can't Quit You Baby (Grits Ain't Groceries)
-- If You Love Me
-- The Blues Is Alright (Playing for Keeps)
-- 4:59am (Blues 100)
-- Guitar Man (Guitar Man)
+  - Grits Ain't Groceries (All Around The World) (Grits Ain't Groceries)
+  - Grits Ain't Groceries (All Around The World) (Rockin' The Blues)
+  - We're Gonna Make It (We're Gonna Make It)
+  - That's What Love Will Make You Do (Tin Pan Alley)
+  - Walking The Backstreets And Crying (Walkin' The Back Streets)
+  - I Can't Quit You Baby (Grits Ain't Groceries)
+  - If You Love Me
+  - The Blues Is Alright (Playing for Keeps)
+  - '4:59am (Blues 100)'
+  - Guitar Man (Guitar Man)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/37846227-55fb-444b-9cd7-dc06d5d20714
-  spotify: https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan
-  wikipedia: https://en.wikipedia.org/wiki/Little_Milton
+  musicbrainz: 'https://musicbrainz.org/artist/37846227-55fb-444b-9cd7-dc06d5d20714'
+  spotify: 'https://open.spotify.com/artist/0MPtuQaV2GiRdLjAkPOaan'
+  wikipedia: 'https://en.wikipedia.org/wiki/Little_Milton'
 image_path: 03_Resources/source_material/ArtistPortraits/Little_Milton.jpg
 biography_enhanced_at: '2025-10-19T11:39:00.179465'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://aaregistry.org/story/little-milton-musican-born/
-- https://msbluestrail.org/blues-trail-markers/little-milton
-- https://en.wikipedia.org/wiki/Little_Milton
+  - 'https://aaregistry.org/story/little-milton-musican-born/'
+  - 'https://msbluestrail.org/blues-trail-markers/little-milton'
+  - 'https://en.wikipedia.org/wiki/Little_Milton'
 network_extracted: true
 entry_created: '2025-10-19T11:39:00.179484'
 last_updated: '2025-12-23T08:16:03.039662'
@@ -81,9 +81,10 @@ gender: Male
 musicbrainz_enriched_at: '2025-10-21T09:35:24.095896'
 musicbrainz_id: 37846227-55fb-444b-9cd7-dc06d5d20714
 tags:
-- 2008 universal fire victim
-- blues
-- r&b
+  - 2008 universal fire victim
+  - blues
+  - r&b
+is_active: false
 ---
 
 ![](Little_Milton.jpg)

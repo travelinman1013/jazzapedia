@@ -1,54 +1,54 @@
 ---
-title: alvin youngblood hart
+title: Alvin Youngblood Hart
 wiki_slug: alvin-youngblood-hart
 schema_version: 2
 artist_type: person
 status: active
 birth_date: '1963-03-02'
-birth_place: Oakland, California, United States
+birth_place: 'Oakland, California, United States'
 genres:
-- blues
-- modern blues
-- country blues
-- blues rock
+  - blues
+  - modern blues
+  - country blues
+  - blues rock
 instruments:
-- guitar
-- resonator guitar
-- lap steel guitar
-- electric guitar
-- 12 string guitar
-- Hawaiian guitar
-- steel guitar
-- background vocals
+  - guitar
+  - resonator guitar
+  - lap steel guitar
+  - electric guitar
+  - 12 string guitar
+  - Hawaiian guitar
+  - steel guitar
+  - background vocals
 associated_acts:
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 276387c8-0be5-4239-a2a7-d17e5394ed36
-  name: South Memphis String Band
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 5cbf1829-32f4-4238-a218-db718a57be06
-  name: Alvin Youngblood Hart’s Muscle Theory
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 63a396a5-393f-43c6-b713-8f925860769d
-  name: New Moon Jelly Roll Freedom Rockers
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 747b3de7-ad71-4964-b592-849a35f967a1
-  name: Ian Siegal & The Mississippi Mudbloods
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 276387c8-0be5-4239-a2a7-d17e5394ed36
+    name: South Memphis String Band
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 5cbf1829-32f4-4238-a218-db718a57be06
+    name: Alvin Youngblood Hart’s Muscle Theory
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 63a396a5-393f-43c6-b713-8f925860769d
+    name: New Moon Jelly Roll Freedom Rockers
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 747b3de7-ad71-4964-b592-849a35f967a1
+    name: Ian Siegal & The Mississippi Mudbloods
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/alvin_youngblood_hart.jpg
   caption: alvin youngblood hart
   background: solo_singer
   born: '1963-03-02'
-  origin: Oakland, California, United States
+  origin: 'Oakland, California, United States'
 audio_profile:
-  tempo_avg: 115.0
+  tempo_avg: 115
   energy_avg: 0.483
   valence_avg: 0.631
   danceability_avg: 0.58
@@ -62,52 +62,53 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Taj Mahal
-  - 'Various artists on ''Beautiful Dreamer: The Songs of Stephen Foster'''
+    - Taj Mahal
+    - 'Various artists on ''Beautiful Dreamer: The Songs of Stephen Foster'''
   influenced:
-  - Contemporary blues musicians (e.g., Corey Harris, Keb' Mo')
+    - 'Contemporary blues musicians (e.g., Corey Harris, Keb'' Mo'')'
   mentors:
-  - Clarence 'Gatemouth' Brown
-  - Taj Mahal
-  - Mississippi country blues musicians (family and regional tradition)
+    - Clarence 'Gatemouth' Brown
+    - Taj Mahal
+    - Mississippi country blues musicians (family and regional tradition)
 spotify_data:
   followers: 15540
   id: 1pmIo6ASaJG24wmYoyxjwG
   popularity: 21
-  url: https://open.spotify.com/artist/1pmIo6ASaJG24wmYoyxjwG
+  url: 'https://open.spotify.com/artist/1pmIo6ASaJG24wmYoyxjwG'
 discography_enriched: true
 top_tracks:
-- Motivational Speaker (Motivational Speaker)
-- Big Mama's Door (Big Mama'S Door)
-- Big Momma's Door (Might Return) (Motivational Speaker)
-- Hey Joe (Otis Taylor Collection)
-- Moonlight Mile
-- Sway
-- Million Miles
-- In My Time of Dying (Motivational Speaker)
-- Illinois Blues (Territory)
-- Ran So Hard The Sun Went Down (Otis Taylor Collection)
+  - Motivational Speaker (Motivational Speaker)
+  - Big Mama's Door (Big Mama'S Door)
+  - Big Momma's Door (Might Return) (Motivational Speaker)
+  - Hey Joe (Otis Taylor Collection)
+  - Moonlight Mile
+  - Sway
+  - Million Miles
+  - In My Time of Dying (Motivational Speaker)
+  - Illinois Blues (Territory)
+  - Ran So Hard The Sun Went Down (Otis Taylor Collection)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/209311f4-f9c2-4e44-95c4-f7708f9cc10f
-  spotify: https://open.spotify.com/artist/1pmIo6ASaJG24wmYoyxjwG
-  wikipedia: https://en.wikipedia.org/wiki/Alvin_Youngblood_Hart
+  musicbrainz: 'https://musicbrainz.org/artist/209311f4-f9c2-4e44-95c4-f7708f9cc10f'
+  spotify: 'https://open.spotify.com/artist/1pmIo6ASaJG24wmYoyxjwG'
+  wikipedia: 'https://en.wikipedia.org/wiki/Alvin_Youngblood_Hart'
 image_path: 03_Resources/source_material/ArtistPortraits/alvin_youngblood_hart.jpg
 biography_enhanced_at: '2025-10-25T10:12:28.349310'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://en.wikipedia.org/wiki/Alvin_Youngblood_Hart
-- https://musicianguide.com/biographies/1608002475/Alvin-Youngblood-Hart.html
-- https://gasparillamusic.com/2012-lineup/alvin-youngblood-hart/
-- https://www.americanacademy.de/person/alvin-youngblood-hart/
+  - 'https://en.wikipedia.org/wiki/Alvin_Youngblood_Hart'
+  - 'https://musicianguide.com/biographies/1608002475/Alvin-Youngblood-Hart.html'
+  - 'https://gasparillamusic.com/2012-lineup/alvin-youngblood-hart/'
+  - 'https://www.americanacademy.de/person/alvin-youngblood-hart/'
 network_extracted: true
 entry_created: '2025-10-25T10:12:28.349321'
 last_updated: '2025-12-23T08:16:04.652941'
 gender: Male
 musicbrainz_id: 209311f4-f9c2-4e44-95c4-f7708f9cc10f
 tags:
-- blues
-- folk
+  - blues
+  - folk
+origin: 'Carroll County, Mississippi, United States'
 ---
 
 ![](alvin_youngblood_hart.jpg)

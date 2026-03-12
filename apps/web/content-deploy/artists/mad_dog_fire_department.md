@@ -2,7 +2,7 @@
 title: Mad Dog Fire Department
 wiki_slug: mad-dog-fire-department
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres: []
 infobox:
@@ -14,7 +14,7 @@ audio_profile:
   energy_avg: 0.768
   valence_avg: 0.901
   danceability_avg: 0.698
-  acousticness_avg: 0.0
+  acousticness_avg: 0
   instrumentalness_avg: 0.01
   loudness_avg: -9.1
   speechiness_avg: 0.034
@@ -24,45 +24,48 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Tommy Stewart
+    - Tommy Stewart
   influenced:
-  - Mop Mop
+    - Mop Mop
   mentors:
-  - Tommy Stewart
+    - Tommy Stewart
 spotify_data:
   followers: 78
   id: 4ovqzI18NZ2BGNU0Y6oaTO
   popularity: 0
-  url: https://open.spotify.com/artist/4ovqzI18NZ2BGNU0Y6oaTO
+  url: 'https://open.spotify.com/artist/4ovqzI18NZ2BGNU0Y6oaTO'
 discography_enriched: true
 top_tracks:
-- Cosmic Funk (Faith Presents TK Disco)
-- 'Cosmic Funk (Funk Diggin'' : Funk Music Gems From Vinyl Diggers)'
-- Cosmic Funk (Twelve Inch Disco Classics from the 70s, Vol. 7)
-- Cosmic Funk (Twelve Inch Disco Classics from the 70s, Vol. 7)
-- 'Cosmic Funk (Soul Jazz Records Presents Disco 2: A Further Fine Selection of Independent Disco, Modern Soul and Boogie
-  1976-80)'
-- 'Cosmic Funk (Soul Jazz Records Presents Disco 2: A Further Fine Selection of Independent Disco, Modern Soul and Boogie
-  1976-80)'
-- 'Cosmic Funk (Soul Jazz Records Presents Disco 2: A Further Fine Selection of Independent Disco, Modern Soul and Boogie
-  1976-80)'
+  - Cosmic Funk (Faith Presents TK Disco)
+  - 'Cosmic Funk (Funk Diggin'' : Funk Music Gems From Vinyl Diggers)'
+  - 'Cosmic Funk (Twelve Inch Disco Classics from the 70s, Vol. 7)'
+  - 'Cosmic Funk (Twelve Inch Disco Classics from the 70s, Vol. 7)'
+  - >-
+    Cosmic Funk (Soul Jazz Records Presents Disco 2: A Further Fine Selection of
+    Independent Disco, Modern Soul and Boogie 1976-80)
+  - >-
+    Cosmic Funk (Soul Jazz Records Presents Disco 2: A Further Fine Selection of
+    Independent Disco, Modern Soul and Boogie 1976-80)
+  - >-
+    Cosmic Funk (Soul Jazz Records Presents Disco 2: A Further Fine Selection of
+    Independent Disco, Modern Soul and Boogie 1976-80)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/a2676f26-36cc-4725-83d4-49890ea549f6
-  spotify: https://open.spotify.com/artist/4ovqzI18NZ2BGNU0Y6oaTO
+  musicbrainz: 'https://musicbrainz.org/artist/a2676f26-36cc-4725-83d4-49890ea549f6'
+  spotify: 'https://open.spotify.com/artist/4ovqzI18NZ2BGNU0Y6oaTO'
   wikipedia: ''
 image_path: ''
 biography_enhanced_at: '2025-11-16T20:27:36.797000'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.last.fm/music/Mad+Dog+Fire+Department
-- https://www.mopmop.com/mad-dog-fire-department-cosmic-funk-mop-mop-edit/
-- https://www.youtube.com/watch?v=Z254ISK81e4
+  - 'https://www.last.fm/music/Mad+Dog+Fire+Department'
+  - 'https://www.mopmop.com/mad-dog-fire-department-cosmic-funk-mop-mop-edit/'
+  - 'https://www.youtube.com/watch?v=Z254ISK81e4'
 network_extracted: true
 entry_created: '2025-11-16T20:27:36.797010'
 last_updated: '2025-12-23T08:16:12.461321'
 musicbrainz_id: a2676f26-36cc-4725-83d4-49890ea549f6
-origin: Atlanta, Georgia, USA (likely origin, based on Tommy Stewart's involvement)
+origin: 'Atlanta, Georgia, USA (likely origin, based on Tommy Stewart''s involvement)'
 ---
 
 ![]()

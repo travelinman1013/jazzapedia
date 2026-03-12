@@ -1,19 +1,20 @@
 ---
-title: HOUND DOG TAYLOR AND THE HOUSEROCKERS
+title: Hound Dog Taylor and the Houserockers
 wiki_slug: hound-dog-taylor-and-the-houserockers
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 genres:
-- blues
-- blues rock
-- classic blues
+  - blues
+  - blues rock
+  - classic blues
 instruments:
-- membranophone
-- eponymous
-- electric guitar
+  - membranophone
+  - eponymous
+  - electric guitar
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/hound_dog_taylor_and_the_houserockers.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/hound_dog_taylor_and_the_houserockers.jpg
   caption: HOUND DOG TAYLOR AND THE HOUSEROCKERS
   background: group_or_band
 audio_profile:
@@ -31,75 +32,80 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Brewer Phillips
-  - Ted Harvey
-  - Bruce Iglauer
-  - Muddy Waters
-  - Freddie King
-  - Big Mama Thornton
+    - Brewer Phillips
+    - Ted Harvey
+    - Bruce Iglauer
+    - Muddy Waters
+    - Freddie King
+    - Big Mama Thornton
   influenced:
-  - George Thorogood
+    - George Thorogood
   mentors:
-  - Muddy Waters
-  - Robert Nighthawk
-  - Little Walter
+    - Muddy Waters
+    - Robert Nighthawk
+    - Little Walter
 spotify_data:
   followers: 3788
   id: 3vk5zTU4vGTefHNqZzDD4a
   popularity: 0
-  url: https://open.spotify.com/artist/3vk5zTU4vGTefHNqZzDD4a
+  url: 'https://open.spotify.com/artist/3vk5zTU4vGTefHNqZzDD4a'
 discography_enriched: true
 top_tracks:
-- Give Me Back My Wig (Hound Dog Taylor and The Houserockers)
-- She's Gone (Hound Dog Taylor and The Houserockers)
-- Wild About You, Baby (Hound Dog Taylor and The Houserockers)
-- It's Alright (Hound Dog Taylor and The Houserockers)
-- 44 Blues (Hound Dog Taylor and The Houserockers)
-- Held My Baby Last Night (Hound Dog Taylor and The Houserockers)
-- Taylor's Rock (Hound Dog Taylor and The Houserockers)
-- 55th Street Boogie (Hound Dog Taylor and The Houserockers)
-- It Hurts Me Too (Hound Dog Taylor and The Houserockers)
-- I Just Can't Make It (Hound Dog Taylor and The Houserockers)
+  - Give Me Back My Wig (Hound Dog Taylor and The Houserockers)
+  - She's Gone (Hound Dog Taylor and The Houserockers)
+  - 'Wild About You, Baby (Hound Dog Taylor and The Houserockers)'
+  - It's Alright (Hound Dog Taylor and The Houserockers)
+  - 44 Blues (Hound Dog Taylor and The Houserockers)
+  - Held My Baby Last Night (Hound Dog Taylor and The Houserockers)
+  - Taylor's Rock (Hound Dog Taylor and The Houserockers)
+  - 55th Street Boogie (Hound Dog Taylor and The Houserockers)
+  - It Hurts Me Too (Hound Dog Taylor and The Houserockers)
+  - I Just Can't Make It (Hound Dog Taylor and The Houserockers)
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/29e24d21-a213-4cfc-8115-54be1c43174e
-  spotify: https://open.spotify.com/artist/3vk5zTU4vGTefHNqZzDD4a
-  wikipedia: https://en.wikipedia.org/wiki/Hound_Dog_Taylor
-image_path: 03_Resources/source_material/ArtistPortraits/hound_dog_taylor_and_the_houserockers.jpg
+  musicbrainz: 'https://musicbrainz.org/artist/29e24d21-a213-4cfc-8115-54be1c43174e'
+  spotify: 'https://open.spotify.com/artist/3vk5zTU4vGTefHNqZzDD4a'
+  wikipedia: 'https://en.wikipedia.org/wiki/Hound_Dog_Taylor'
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/hound_dog_taylor_and_the_houserockers.jpg
 biography_enhanced_at: '2025-12-04T07:55:47.590515'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.alligator.com/artists/Hound-Dog-Taylor/
-- https://www.keno.org/hound_dog_taylor/bio.htm
-- https://en.wikipedia.org/wiki/Hound_Dog_Taylor
-- https://en.wikipedia.org/wiki/Hound_Dog_Taylor_and_the_HouseRockers
+  - 'https://www.alligator.com/artists/Hound-Dog-Taylor/'
+  - 'https://www.keno.org/hound_dog_taylor/bio.htm'
+  - 'https://en.wikipedia.org/wiki/Hound_Dog_Taylor'
+  - 'https://en.wikipedia.org/wiki/Hound_Dog_Taylor_and_the_HouseRockers'
 network_extracted: true
 entry_created: '2025-12-04T07:55:47.590522'
 last_updated: '2025-12-23T08:16:09.705355'
 members:
-- begin: ''
-  end: ''
-  instruments:
-  - membranophone
-  mbid: 51e8db1f-667c-4131-a06c-8f1dda988047
-  name: Ted Harvey
-- begin: ''
-  end: ''
-  instruments:
-  - eponymous
-  mbid: 3a798d75-8ae4-4198-bda3-3a9728a646f3
-  name: Hound Dog Taylor
-- begin: ''
-  end: ''
-  instruments:
-  - electric guitar
-  mbid: a6ec9186-763a-47f2-b071-5c92ffd644ad
-  name: Brewer Phillips
+  - begin: ''
+    end: ''
+    instruments:
+      - membranophone
+    mbid: 51e8db1f-667c-4131-a06c-8f1dda988047
+    name: Ted Harvey
+  - begin: ''
+    end: ''
+    instruments:
+      - eponymous
+    mbid: 3a798d75-8ae4-4198-bda3-3a9728a646f3
+    name: Hound Dog Taylor
+  - begin: ''
+    end: ''
+    instruments:
+      - electric guitar
+    mbid: a6ec9186-763a-47f2-b071-5c92ffd644ad
+    name: Brewer Phillips
 musicbrainz_id: 29e24d21-a213-4cfc-8115-54be1c43174e
-origin: Mississippi, United States (birthplace); Chicago, Illinois, United States (primary base)
+origin: >-
+  Mississippi, United States (birthplace); Chicago, Illinois, United States
+  (primary base)
 tags:
-- chicago blues
-- electric blues
+  - chicago blues
+  - electric blues
+birth_place: 'Mississippi, Mississippi, United States'
+birth_date: '1915-04-12'
 ---
 
 ![](hound_dog_taylor_and_the_houserockers.jpg)

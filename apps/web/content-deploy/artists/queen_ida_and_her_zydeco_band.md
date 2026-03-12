@@ -3,15 +3,16 @@ title: Queen Ida & Her Zydeco Band
 wiki_slug: queen-ida-her-zydeco-band
 schema_version: 2
 status: active
-birth_place: Lake Charles, Louisiana, United States
+birth_place: 'Lake Charles, Louisiana, United States'
 genres:
-- zydeco
-- cajun
+  - zydeco
+  - cajun
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/queen_ida_and_her_zydeco_band.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/queen_ida_and_her_zydeco_band.jpg
   caption: Queen Ida & Her Zydeco Band
   background: solo_singer
-  origin: Lake Charles, Louisiana, United States
+  origin: 'Lake Charles, Louisiana, United States'
 audio_profile:
   tempo_avg: 134.7
   energy_avg: 0.708
@@ -19,7 +20,7 @@ audio_profile:
   danceability_avg: 0.59
   acousticness_avg: 0.207
   instrumentalness_avg: 0.037
-  loudness_avg: -12.0
+  loudness_avg: -12
   speechiness_avg: 0.064
   liveness_avg: 0.389
   track_count: 31
@@ -27,49 +28,51 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Myrick 'Freeze' Guillory
-  - Ledra Guillory
-  - Ron 'The Rock' Guillory
-  - John Simien
-  - Ladysmith Black Mambazo
+    - Myrick 'Freeze' Guillory
+    - Ledra Guillory
+    - Ron 'The Rock' Guillory
+    - John Simien
+    - Ladysmith Black Mambazo
   influenced: []
   mentors:
-  - Al Lewis (Al Rapone)
-  - Her Mother
+    - Al Lewis (Al Rapone)
+    - Her Mother
 spotify_data:
   followers: 1322
   id: 5H4FAyv83nQcYjD1HGcnSI
   popularity: 8
-  url: https://open.spotify.com/artist/5H4FAyv83nQcYjD1HGcnSI
+  url: 'https://open.spotify.com/artist/5H4FAyv83nQcYjD1HGcnSI'
 discography_enriched: true
 top_tracks:
-- My Girl Josephine (Queen Ida & Her Zydeco Band In San Francisco)
-- Bad Moon Rising (Queen Ida & Her Zydeco Band In San Francisco)
-- Half A Boy, Half A Man (Caught In The Act)
-- Cotton-Eyed Joe (Caught In The Act)
-- Jambalaya (Queen Ida & Her Zydeco Band In San Francisco)
-- My Tu Tu (Caught In The Act)
-- Fais Deaux Deaux (Queen Ida & Her Zydeco Band In San Francisco)
-- Zydeco (Cookin' with Queen Ida)
-- La Bas 2 Step (Cookin' with Queen Ida)
-- I-10 Express (Cookin' with Queen Ida)
+  - My Girl Josephine (Queen Ida & Her Zydeco Band In San Francisco)
+  - Bad Moon Rising (Queen Ida & Her Zydeco Band In San Francisco)
+  - 'Half A Boy, Half A Man (Caught In The Act)'
+  - Cotton-Eyed Joe (Caught In The Act)
+  - Jambalaya (Queen Ida & Her Zydeco Band In San Francisco)
+  - My Tu Tu (Caught In The Act)
+  - Fais Deaux Deaux (Queen Ida & Her Zydeco Band In San Francisco)
+  - Zydeco (Cookin' with Queen Ida)
+  - La Bas 2 Step (Cookin' with Queen Ida)
+  - I-10 Express (Cookin' with Queen Ida)
 external_urls:
-  spotify: https://open.spotify.com/artist/5H4FAyv83nQcYjD1HGcnSI
+  spotify: 'https://open.spotify.com/artist/5H4FAyv83nQcYjD1HGcnSI'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/queen_ida_and_her_zydeco_band.jpg
 biography_enhanced_at: '2025-12-04T08:12:43.087719'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- kids.kiddle.co - Queen Ida Facts for Kids
-- bohemian.com - Queen Ida
-- 64parishes.org - Ida Guillory
-- 'americana-uk.com - Classic Clips: Queen Ida and the Bon Temps Band'
-- mastersoftraditionalarts.org - Queen Ida Guillory
-- arts.gov - National Endowment for the Arts Heritage Honors
+  - kids.kiddle.co - Queen Ida Facts for Kids
+  - bohemian.com - Queen Ida
+  - 64parishes.org - Ida Guillory
+  - 'americana-uk.com - Classic Clips: Queen Ida and the Bon Temps Band'
+  - mastersoftraditionalarts.org - Queen Ida Guillory
+  - arts.gov - National Endowment for the Arts Heritage Honors
 network_extracted: true
 entry_created: '2025-12-04T08:12:43.087726'
 last_updated: '2025-12-23T08:16:14.505297'
+birth_date: '1929-01-15'
+artist_type: band
 ---
 
 ![](queen_ida_and_her_zydeco_band.jpg)

@@ -3,47 +3,54 @@ biography_enhanced_at: '2026-01-20T01:26:32.158059'
 enhancement_provider: perplexity
 entry_created: '2026-01-20T01:26:32.158065'
 external_urls:
-  spotify: https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I
-  wikipedia: https://en.wikipedia.org/wiki/The_Allman_Brothers_Band
+  spotify: 'https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Allman_Brothers_Band'
 genres:
-- southern rock
-- country rock
-- jam band
-- blues rock
-- blues
-image_path: 03_Resources/source_material/ArtistPortraits/duane_allman_gregg_allman_butch_trucks.jpg
+  - southern rock
+  - country rock
+  - jam band
+  - blues rock
+  - blues
+image_path: >-
+  03_Resources/source_material/ArtistPortraits/duane_allman_gregg_allman_butch_trucks.jpg
 last_updated: '2026-01-20T01:26:32.158066'
 musical_connections:
   collaborators:
-  - Dickey Betts
-  - Berry Oakley
-  - Jai Johanny Johanson (Jaimoe)
-  - Wilson Pickett
+    - Dickey Betts
+    - Berry Oakley
+    - Jai Johanny Johanson (Jaimoe)
+    - Wilson Pickett
   influenced:
-  - Warren Haynes
-  - Derek Trucks
+    - Warren Haynes
+    - Derek Trucks
   mentors:
-  - Muddy Waters
+    - Muddy Waters
 network_extracted: true
-origin: Nashville, Tennessee, USA (birthplace of Duane and Gregg Allman); Jacksonville,
-  Florida, USA (origin of collaboration with Butch Trucks)
+origin: >-
+  Nashville, Tennessee, USA (birthplace of Duane and Gregg Allman);
+  Jacksonville, Florida, USA (origin of collaboration with Butch Trucks)
 primary_source: perplexity
 research_sources:
-- https://greggallman.com/legacy/
-- https://allmanbrothersband.com/biography/butch-trucks/
-- https://en.wikipedia.org/wiki/The_Allman_Brothers_Band
-- https://www.moderndrummer.com/2017/01/butch-trucks-1947-2017/
-- https://en.wikipedia.org/wiki/Butch_Trucks
-- https://thebighousemuseum.com/the-band/
-- https://allmanbrothersband.com/on-the-road-with-butch-trucks-and-the-allman-brothers-band/
-- http://allmanbrothers.duaneallman.info/bio.htm
+  - 'https://greggallman.com/legacy/'
+  - 'https://allmanbrothersband.com/biography/butch-trucks/'
+  - 'https://en.wikipedia.org/wiki/The_Allman_Brothers_Band'
+  - 'https://www.moderndrummer.com/2017/01/butch-trucks-1947-2017/'
+  - 'https://en.wikipedia.org/wiki/Butch_Trucks'
+  - 'https://thebighousemuseum.com/the-band/'
+  - >-
+    https://allmanbrothersband.com/on-the-road-with-butch-trucks-and-the-allman-brothers-band/
+  - 'http://allmanbrothers.duaneallman.info/bio.htm'
 spotify_data:
   followers: 318402
   id: 0yDmbRjVTQsQd3OnMs5s3I
   popularity: 46
-  url: https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I
+  url: 'https://open.spotify.com/artist/0yDmbRjVTQsQd3OnMs5s3I'
 status: active
-title: Duane Allman, Gregg Allman, Butch Trucks
+title: The Allman Brothers Band
+birth_place: 'Nashville, Tennessee, United States'
+birth_date: '1946-11-20'
+death_date: '1971-10-29'
+artist_type: band
 ---
 
 ![](duane_allman_gregg_allman_butch_trucks.jpg)

@@ -5,7 +5,8 @@ schema_version: 2
 status: active
 genres: []
 infobox:
-  image: 03_Resources/source_material/ArtistPortraits/terri_lyne_carrington_and_christie_dashiell.jpg
+  image: >-
+    03_Resources/source_material/ArtistPortraits/terri_lyne_carrington_and_christie_dashiell.jpg
   caption: Terri Lyne Carrington & Christie Dashiell
   background: solo_singer
 audio_profile:
@@ -14,7 +15,7 @@ audio_profile:
   valence_avg: 0.482
   danceability_avg: 0.683
   acousticness_avg: 0.807
-  instrumentalness_avg: 0.0
+  instrumentalness_avg: 0
   loudness_avg: -18.2
   speechiness_avg: 0.928
   liveness_avg: 0.334
@@ -23,54 +24,64 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Christie Dashiell
-  - Matthew Stevens
-  - Simon Moullier
-  - Weedie Braimah
-  - Milena Casado
-  - Julian Priester
-  - Aaron Parks
+    - Christie Dashiell
+    - Matthew Stevens
+    - Simon Moullier
+    - Weedie Braimah
+    - Milena Casado
+    - Julian Priester
+    - Aaron Parks
   influenced:
-  - Emerging artists signed to Candid Records
+    - Emerging artists signed to Candid Records
   mentors:
-  - Stefon Harris
+    - Stefon Harris
 spotify_data:
   followers: 2
   id: 5fATuSDlG5oIZDdt2Q4IJe
   popularity: 3
-  url: https://open.spotify.com/artist/5fATuSDlG5oIZDdt2Q4IJe
+  url: 'https://open.spotify.com/artist/5fATuSDlG5oIZDdt2Q4IJe'
 discography_enriched: true
 top_tracks:
-- Chapter 1 - Twelfth Night (Twelfth Night)
-- Opening Credits - Circumstances Affecting the Heat of the Sun's Rays (Circumstances Affecting the Heat of the Sun's Rays
-  (Unabgridged))
-- Chapter 2 - Twelfth Night (Twelfth Night)
-- Chapter 3 - Twelfth Night (Twelfth Night)
-- Chapter 4 - Twelfth Night (Twelfth Night)
-- Chapter 5 - Twelfth Night (Twelfth Night)
-- Chapter 6 - Twelfth Night (Twelfth Night)
-- Chapter 7 - Twelfth Night (Twelfth Night)
-- Chapter 8 - Twelfth Night (Twelfth Night)
-- Chapter 10 - Twelfth Night (Twelfth Night)
+  - Chapter 1 - Twelfth Night (Twelfth Night)
+  - >-
+    Opening Credits - Circumstances Affecting the Heat of the Sun's Rays
+    (Circumstances Affecting the Heat of the Sun's Rays (Unabgridged))
+  - Chapter 2 - Twelfth Night (Twelfth Night)
+  - Chapter 3 - Twelfth Night (Twelfth Night)
+  - Chapter 4 - Twelfth Night (Twelfth Night)
+  - Chapter 5 - Twelfth Night (Twelfth Night)
+  - Chapter 6 - Twelfth Night (Twelfth Night)
+  - Chapter 7 - Twelfth Night (Twelfth Night)
+  - Chapter 8 - Twelfth Night (Twelfth Night)
+  - Chapter 10 - Twelfth Night (Twelfth Night)
 external_urls:
-  spotify: https://open.spotify.com/artist/5fATuSDlG5oIZDdt2Q4IJe
+  spotify: 'https://open.spotify.com/artist/5fATuSDlG5oIZDdt2Q4IJe'
   wikipedia: Not found in search results
 image_path: ''
 biography_enhanced_at: '2025-11-27T06:26:07.636502'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- 'downbeat.com - Terri Lyne Carrington & Christie Dashiell: Rediscovering ''We Insist!'''
-- cityparksfoundation.org - Terri Lyne Carrington We Insist 2025! Featuring Christie Dashiell
-- shorefire.com - Terri Lyne Carrington & Christie Dashiell Share New Album We Insist 2025!
-- newmusicusa.org - Christie Dashiell
-- highresaudio.com - Artist Terri Lyne Carrington & Christie Dashiell
-- jammincolors.com - Christie Dashiell
-- 'wvpe.org - The Sauce EP 58: Featuring Terri Lyne Carrington/Christie Dashiell'
+  - >-
+    downbeat.com - Terri Lyne Carrington & Christie Dashiell: Rediscovering 'We
+    Insist!'
+  - >-
+    cityparksfoundation.org - Terri Lyne Carrington We Insist 2025! Featuring
+    Christie Dashiell
+  - >-
+    shorefire.com - Terri Lyne Carrington & Christie Dashiell Share New Album We
+    Insist 2025!
+  - newmusicusa.org - Christie Dashiell
+  - highresaudio.com - Artist Terri Lyne Carrington & Christie Dashiell
+  - jammincolors.com - Christie Dashiell
+  - >-
+    wvpe.org - The Sauce EP 58: Featuring Terri Lyne Carrington/Christie
+    Dashiell
 network_extracted: true
 entry_created: '2025-11-27T06:26:07.636518'
 last_updated: '2025-12-23T08:16:16.476025'
-origin: Washington, DC / North Carolina (Christie Dashiell birthplace); International ensemble
+origin: 'Washington, DC / North Carolina, United States'
+artist_type: person
 ---
 
 ![]()

@@ -3,16 +3,18 @@ title: Brandon Sanders
 wiki_slug: brandon-sanders
 schema_version: 2
 status: active
-birth_place: Kansas City, Kansas, USA (birthplace); Compton, California, USA (formative years); New York City, New York, USA
-  (current base)
+birth_place: >-
+  Kansas City, Kansas, USA (birthplace); Compton, California, USA (formative
+  years); New York City, New York, USA (current base)
 genres:
-- jazz
+  - jazz
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/brandon_sanders.jpg
   caption: Brandon Sanders
   background: solo_singer
-  origin: Kansas City, Kansas, USA (birthplace); Compton, California, USA (formative years); New York City, New York, USA
-    (current base)
+  origin: >-
+    Kansas City, Kansas, USA (birthplace); Compton, California, USA (formative
+    years); New York City, New York, USA (current base)
 audio_profile:
   tempo_avg: 109.7
   energy_avg: 0.336
@@ -28,56 +30,61 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Warren Wolf
-  - Jazzmeia Horn
-  - Stacy Dillard
-  - Eric Scott Reed
-  - Eric Wheeler
-  - Esperanza Spalding
-  - Jon Batiste
+    - Warren Wolf
+    - Jazzmeia Horn
+    - Stacy Dillard
+    - Eric Scott Reed
+    - Eric Wheeler
+    - Esperanza Spalding
+    - Jon Batiste
   influenced:
-  - Students at The Masters School
+    - Students at The Masters School
   mentors:
-  - Dick Wright
-  - Joe Lovano
-  - Bill Pierce
+    - Dick Wright
+    - Joe Lovano
+    - Bill Pierce
 spotify_data:
   followers: 1891
   id: 1CWtiXjdoNR8ipBPdsxXQD
   popularity: 38
-  url: https://open.spotify.com/artist/1CWtiXjdoNR8ipBPdsxXQD
+  url: 'https://open.spotify.com/artist/1CWtiXjdoNR8ipBPdsxXQD'
 discography_enriched: true
 top_tracks:
-- Body and Soul (Compton's Finest)
-- The Tables Will Turn (The Tables Will Turn)
-- Until You Come Back to Me (That's What I'm Gonna Do) (Until You Come Back to Me (That's What I'm Gonna Do))
-- I Can't Help It (Compton's Finest)
-- Softly, as in a Morning Sunrise (Compton's Finest)
-- Compton's Finest (Compton's Finest)
-- In a Sentimental Mood (Compton's Finest)
-- Human Nature (Human Nature)
-- Voyage (Compton's Finest)
-- Human Nature (The Tables Will Turn)
+  - Body and Soul (Compton's Finest)
+  - The Tables Will Turn (The Tables Will Turn)
+  - >-
+    Until You Come Back to Me (That's What I'm Gonna Do) (Until You Come Back to
+    Me (That's What I'm Gonna Do))
+  - I Can't Help It (Compton's Finest)
+  - 'Softly, as in a Morning Sunrise (Compton''s Finest)'
+  - Compton's Finest (Compton's Finest)
+  - In a Sentimental Mood (Compton's Finest)
+  - Human Nature (Human Nature)
+  - Voyage (Compton's Finest)
+  - Human Nature (The Tables Will Turn)
 external_urls:
-  spotify: https://open.spotify.com/artist/1CWtiXjdoNR8ipBPdsxXQD
+  spotify: 'https://open.spotify.com/artist/1CWtiXjdoNR8ipBPdsxXQD'
   wikipedia: ''
 image_path: 03_Resources/source_material/ArtistPortraits/brandon_sanders.jpg
 biography_enhanced_at: '2025-11-05T12:51:32.187179'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://jazzchill.blogspot.com/2025/09/brandon-sanders-makes-lasting.html
-- https://kansasalumnimagazine.org/magazine-article/brandon-sanders-drummer/
-- https://www.gratefulweb.com/articles/drummer-brandon-sanders-former-college-hoops-player-and-compton-dj-leaves-a-lasting-impression-with-his-deeply-swinging-third-album/
-- https://sistasplace.org/brandon-sanders-comptons-finest/
-- https://zildjian.com/blogs/artist/brandon-sanders
-- https://allaboutjazz.com/musicians/brandon-sanders/
-- https://brandonsandersmusic.com
-- https://allthatsjazz.podbean.com/e/season-6-episode-14-brandon-sanders/
-- https://jazzviews.net/brandon-sanders-the-tables-will-turn/
+  - 'https://jazzchill.blogspot.com/2025/09/brandon-sanders-makes-lasting.html'
+  - 'https://kansasalumnimagazine.org/magazine-article/brandon-sanders-drummer/'
+  - >-
+    https://www.gratefulweb.com/articles/drummer-brandon-sanders-former-college-hoops-player-and-compton-dj-leaves-a-lasting-impression-with-his-deeply-swinging-third-album/
+  - 'https://sistasplace.org/brandon-sanders-comptons-finest/'
+  - 'https://zildjian.com/blogs/artist/brandon-sanders'
+  - 'https://allaboutjazz.com/musicians/brandon-sanders/'
+  - 'https://brandonsandersmusic.com'
+  - 'https://allthatsjazz.podbean.com/e/season-6-episode-14-brandon-sanders/'
+  - 'https://jazzviews.net/brandon-sanders-the-tables-will-turn/'
 network_extracted: true
 entry_created: '2025-11-05T12:51:32.187201'
 last_updated: '2025-12-23T08:16:06.016612'
+birth_date: '1971-02-20'
+artist_type: person
 ---
 
 ![](brandon_sanders.jpg)

@@ -3,35 +3,36 @@ biography_enhanced_at: '2026-01-10T01:18:12.491577'
 enhancement_provider: perplexity
 entry_created: '2026-01-10T01:18:12.491582'
 external_urls:
-  spotify: https://open.spotify.com/artist/4MGKpqZobaP1gwS2l8VZQd
+  spotify: 'https://open.spotify.com/artist/4MGKpqZobaP1gwS2l8VZQd'
   wikipedia: ''
 genres:
-- indorock
-- surf rock
-- exotica
-- rockabilly
+  - indorock
+  - surf rock
+  - exotica
+  - rockabilly
 image_path: 03_Resources/source_material/ArtistPortraits/the_jokers.jpg
 last_updated: '2026-01-10T01:18:12.491582'
 musical_connections:
   collaborators: []
   influenced: []
   mentors:
-  - The Shadows
-  - The Ventures
-  - Duane Eddy
+    - The Shadows
+    - The Ventures
+    - Duane Eddy
 network_extracted: true
-origin: Antwerp, Antwerp Province, Belgium
+origin: 'Antwerp, Antwerp Province, Belgium'
 primary_source: perplexity
 research_sources:
-- https://www.last.fm/music/The+Jokers/+wiki
-- https://www.spirit-of-metal.com/en/band/The_Jokers
+  - 'https://www.last.fm/music/The+Jokers/+wiki'
+  - 'https://www.spirit-of-metal.com/en/band/The_Jokers'
 spotify_data:
   followers: 2228
   id: 4MGKpqZobaP1gwS2l8VZQd
   popularity: 14
-  url: https://open.spotify.com/artist/4MGKpqZobaP1gwS2l8VZQd
+  url: 'https://open.spotify.com/artist/4MGKpqZobaP1gwS2l8VZQd'
 status: active
-title: the jokers
+title: The Jokers
+artist_type: band
 ---
 
 ![](the_jokers.jpg)

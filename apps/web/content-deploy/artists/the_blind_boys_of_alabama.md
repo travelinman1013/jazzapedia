@@ -2,13 +2,13 @@
 title: The Blind Boys of Alabama
 wiki_slug: the-blind-boys-of-alabama
 schema_version: 2
-artist_type: group
+artist_type: band
 status: active
 birth_date: '1939'
 genres: []
 instruments:
-- lead vocals
-- background vocals
+  - lead vocals
+  - background vocals
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/the_blind_boys_of_alabama.jpg
   caption: The Blind Boys of Alabama
@@ -21,7 +21,7 @@ audio_profile:
   danceability_avg: 0.555
   acousticness_avg: 0.575
   instrumentalness_avg: 0.048
-  loudness_avg: -9.0
+  loudness_avg: -9
   speechiness_avg: 0.075
   liveness_avg: 0.218
   track_count: 56
@@ -29,105 +29,111 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Clarence Fountain
-  - George Scott
-  - Jimmy Carter
-  - The Gospel at Colonus (theatrical production and ensemble cast, including Morgan Freeman)
+    - Clarence Fountain
+    - George Scott
+    - Jimmy Carter
+    - >-
+      The Gospel at Colonus (theatrical production and ensemble cast, including
+      Morgan Freeman)
   influenced:
-  - Contemporary roots and gospel crossover artists (various)
+    - Contemporary roots and gospel crossover artists (various)
   mentors:
-  - Golden Gate Quartet
+    - Golden Gate Quartet
 spotify_data:
   followers: 59582
   id: 5TVL4FXEntBYZb3ujyt6fH
   popularity: 40
-  url: https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH
+  url: 'https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH'
 discography_enriched: true
 top_tracks:
-- Run On For A Long Time (Spirit Of The Century)
-- Way Down in the Hole
-- Way Down In The Hole (Spirit Of The Century)
-- Welcome (Brother Bear)
-- Changed (Feat. The Blind Boys Of Alabama)
-- None Of Us Are Free (feat. Solomon Burke) (Duets)
-- 99 And 1/2 Won't Do
-- Amazing Grace (Spirit Of The Century)
-- One Safe Place (Work To Do)
-- Welcome
+  - Run On For A Long Time (Spirit Of The Century)
+  - Way Down in the Hole
+  - Way Down In The Hole (Spirit Of The Century)
+  - Welcome (Brother Bear)
+  - Changed (Feat. The Blind Boys Of Alabama)
+  - None Of Us Are Free (feat. Solomon Burke) (Duets)
+  - 99 And 1/2 Won't Do
+  - Amazing Grace (Spirit Of The Century)
+  - One Safe Place (Work To Do)
+  - Welcome
 external_urls:
-  musicbrainz: https://musicbrainz.org/artist/2f76bd85-ba19-4d80-9bb7-4555abe463c5
-  spotify: https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH
-  wikipedia: https://en.wikipedia.org/wiki/The_Blind_Boys_of_Alabama
+  musicbrainz: 'https://musicbrainz.org/artist/2f76bd85-ba19-4d80-9bb7-4555abe463c5'
+  spotify: 'https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH'
+  wikipedia: 'https://en.wikipedia.org/wiki/The_Blind_Boys_of_Alabama'
 image_path: 03_Resources/source_material/ArtistPortraits/the_blind_boys_of_alabama.jpg
 biography_enhanced_at: '2025-12-15T01:27:04.051216'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- https://www.arts.gov/honors/heritage/clarence-fountain-blind-boys
-- https://www.salvationsouth.com/the-last-man-standing-blind-boys-of-alabama-chuck-reece-jimmy-carter/
-- https://folkworks.org/blog/the-blind-boys-of-alabama-spirit-across-the-ages/
-- https://civicmusic.org/blind-boys-of-alabama-bio/
-- https://www.sfjazz.org/onthecorner/articles/five-things-you-should-know-about-the-blind-boys-of-alabama/
-- https://realworldrecords.com/artists/the-blind-boys-of-alabama/
-- https://blackpast.org/african-american-history/the-blind-boys-of-alabama-1939/
+  - 'https://www.arts.gov/honors/heritage/clarence-fountain-blind-boys'
+  - >-
+    https://www.salvationsouth.com/the-last-man-standing-blind-boys-of-alabama-chuck-reece-jimmy-carter/
+  - 'https://folkworks.org/blog/the-blind-boys-of-alabama-spirit-across-the-ages/'
+  - 'https://civicmusic.org/blind-boys-of-alabama-bio/'
+  - >-
+    https://www.sfjazz.org/onthecorner/articles/five-things-you-should-know-about-the-blind-boys-of-alabama/
+  - 'https://realworldrecords.com/artists/the-blind-boys-of-alabama/'
+  - >-
+    https://blackpast.org/african-american-history/the-blind-boys-of-alabama-1939/
 network_extracted: true
 entry_created: '2025-12-15T01:27:04.051230'
 last_updated: '2025-12-23T08:16:16.580142'
 members:
-- &id001
-  begin: '1982'
-  end: ''
-  instruments:
-  - lead vocals
-  mbid: 7b8e6b5a-c8ff-4084-8b72-e34de462b422
-  name: Jimmy Carter
-- &id002
-  begin: '1990'
-  end: ''
-  instruments: []
-  mbid: de010d49-7718-4344-9a80-e99dab3fb0fd
-  name: Eric "Ricky" McKinnie
-- &id003
-  begin: '1995'
-  end: ''
-  instruments: []
-  mbid: e3065e01-a0ed-4424-af0c-4ca99136d84e
-  name: Joey Williams
-- begin: '2005'
-  end: '2022'
-  instruments: []
-  mbid: 0df09449-6391-4ed5-b30b-116e0b7431cc
-  name: Ben Moore
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: d9c9cfb7-f751-4fb0-97c0-b3ddd768bc78
-  name: William Bell
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 8105bfac-0621-428f-83d1-449bb6c40396
-  name: Peter Levin
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 867f79ea-ab7c-4e5a-bc14-ff727d28fd9d
-  name: Trudy Lynn
-- begin: ''
-  end: ''
-  instruments: []
-  mbid: 9ec5c548-519d-4f32-b08f-32d146c5b623
-  name: Joey Gilmore
+  - &ref_0
+    begin: '1982'
+    end: ''
+    instruments:
+      - lead vocals
+    mbid: 7b8e6b5a-c8ff-4084-8b72-e34de462b422
+    name: Jimmy Carter
+  - &ref_1
+    begin: '1990'
+    end: ''
+    instruments: []
+    mbid: de010d49-7718-4344-9a80-e99dab3fb0fd
+    name: Eric "Ricky" McKinnie
+  - &ref_2
+    begin: '1995'
+    end: ''
+    instruments: []
+    mbid: e3065e01-a0ed-4424-af0c-4ca99136d84e
+    name: Joey Williams
+  - begin: '2005'
+    end: '2022'
+    instruments: []
+    mbid: 0df09449-6391-4ed5-b30b-116e0b7431cc
+    name: Ben Moore
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: d9c9cfb7-f751-4fb0-97c0-b3ddd768bc78
+    name: William Bell
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 8105bfac-0621-428f-83d1-449bb6c40396
+    name: Peter Levin
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 867f79ea-ab7c-4e5a-bc14-ff727d28fd9d
+    name: Trudy Lynn
+  - begin: ''
+    end: ''
+    instruments: []
+    mbid: 9ec5c548-519d-4f32-b08f-32d146c5b623
+    name: Joey Gilmore
 musicbrainz_id: 2f76bd85-ba19-4d80-9bb7-4555abe463c5
-origin: Talladega
+origin: 'Talladega, Alabama, United States'
 original_members:
-- *id001
-- *id002
-- *id003
+  - *ref_0
+  - *ref_1
+  - *ref_2
 tags:
-- 2008 universal fire victim
-- gospel
-- world
+  - 2008 universal fire victim
+  - gospel
+  - world
+birth_place: 'Talladega, Alabama, United States'
 ---
 
 ![](the_blind_boys_of_alabama.jpg)

@@ -3,13 +3,13 @@ title: Sing Miller
 wiki_slug: sing-miller
 schema_version: 2
 status: active
-birth_place: New Orleans, Louisiana, United States
+birth_place: 'New Orleans, Louisiana, United States'
 genres: []
 infobox:
   image: 03_Resources/source_material/ArtistPortraits/sing_miller.jpg
   caption: Sing Miller
   background: solo_singer
-  origin: New Orleans, Louisiana, United States
+  origin: 'New Orleans, Louisiana, United States'
 audio_profile:
   tempo_avg: 118.1
   energy_avg: 0.488
@@ -25,53 +25,59 @@ audio_profile:
 similar_artists: []
 musical_connections:
   collaborators:
-  - Percy Humphrey
-  - Earl Foster
-  - Kid Thomas Valentine
-  - Kid Sheik Colar
-  - Jim Robinson
-  - Polo Barnes
-  - Frank Demond
-  - Louis Barbarin
+    - Percy Humphrey
+    - Earl Foster
+    - Kid Thomas Valentine
+    - Kid Sheik Colar
+    - Jim Robinson
+    - Polo Barnes
+    - Frank Demond
+    - Louis Barbarin
   influenced: []
   mentors:
-  - Stack O'Lee
-  - Steve Lewis
-  - Jeannette Kimball
-  - Isadore Washington
+    - Stack O'Lee
+    - Steve Lewis
+    - Jeannette Kimball
+    - Isadore Washington
 spotify_data:
   followers: 697056
   id: 2LkkwxA19J8C52wPQl5bG6
   popularity: 62
-  url: https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6
+  url: 'https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6'
 discography_enriched: true
 top_tracks:
-- Here's Your Perfect (Here's Your Perfect)
-- Maybe Next Time (Long Way Home)
-- It Is What It Is (Broken Memories)
-- I Lost Myself In Loving You (Broken Memories)
-- Here’s Your Perfect (with salem ilese) (Here’s Your Perfect (with salem ilese))
-- Empty Room (The Things I Left Unsaid)
-- Running Out Of Roses (Walker Racing League)
-- No Matter What (The Things I Left Unsaid)
-- Maybe Next Time (Maybe Next Time)
-- Wishes (Snowdrop (Original Television Soundtrack, Pt. 4))
+  - Here's Your Perfect (Here's Your Perfect)
+  - Maybe Next Time (Long Way Home)
+  - It Is What It Is (Broken Memories)
+  - I Lost Myself In Loving You (Broken Memories)
+  - >-
+    Here’s Your Perfect (with salem ilese) (Here’s Your Perfect (with salem
+    ilese))
+  - Empty Room (The Things I Left Unsaid)
+  - Running Out Of Roses (Walker Racing League)
+  - No Matter What (The Things I Left Unsaid)
+  - Maybe Next Time (Maybe Next Time)
+  - 'Wishes (Snowdrop (Original Television Soundtrack, Pt. 4))'
 external_urls:
-  spotify: https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6
+  spotify: 'https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6'
   wikipedia: Not found in search results
 image_path: 03_Resources/source_material/ArtistPortraits/sing_miller.jpg
 biography_enhanced_at: '2025-11-28T07:31:14.757192'
 primary_source: perplexity
 enhancement_provider: perplexity
 research_sources:
-- WBSS Media - Sing Miller artist profile
-- 64 Parishes - Know Louisiana - Sing Miller
-- Music Rising - Tulane University - Sing Miller
-- AllMusic - Sing Miller biography
-- All About Jazz - Sing Miller musician profile
+  - WBSS Media - Sing Miller artist profile
+  - 64 Parishes - Know Louisiana - Sing Miller
+  - Music Rising - Tulane University - Sing Miller
+  - AllMusic - Sing Miller biography
+  - All About Jazz - Sing Miller musician profile
 network_extracted: true
 entry_created: '2025-11-28T07:31:14.757202'
 last_updated: '2025-12-23T08:16:15.658269'
+origin: 'New Orleans, Louisiana, United States'
+birth_date: '1914-06-17'
+death_date: '1990-05-18'
+artist_type: person
 ---
 
 ![](sing_miller.jpg)
